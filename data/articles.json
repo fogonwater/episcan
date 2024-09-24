@@ -1,8 +1,134 @@
 {
-  "last_updated": "2024-09-23 19:05",
-  "count_articles_total": 1959,
-  "count_articles_new": 7,
+  "last_updated": "2024-09-24 07:06",
+  "count_articles_total": 1977,
+  "count_articles_new": 13,
   "articles": [
+    {
+      "id": 13852,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Haberturk.com",
+      "author": "Habert\u00fcrk",
+      "title": "UNICEF'ten M \u00e7i\u00e7e\u011fi a\u00e7\u0131klamas\u0131: Vakalar\u0131n y\u00fczde 30'u 5 ya\u015f alt\u0131 \u00e7ocuk",
+      "description": "UNICEF Do\u011fu ve G\u00fcney Afrika B\u00f6lgesel Sa\u011fl\u0131k Dan\u0131\u015fman\u0131 Paul Ngwakum, Burundi'de bildirilen M \u00e7i\u00e7e\u011fi (mpox) vir\u00fcs\u00fc vakalar\u0131n\u0131n y\u00fczde 30'unun 5 ya\u015f alt\u0131 \u00e7ocuklardan olu\u015ftu\u011funu belirtti.",
+      "url": "https://www.haberturk.com/unicef-ten-m-cicegi-aciklamasi-vakalarin-yuzde-30-u-5-yas-alti-cocuk-3722162",
+      "urlToImage": "https://im.haberturk.com/l/2024/09/23/ver1727074797/3722162/jpg/1200x628",
+      "publishedAt": "2024-09-23 07:00:02",
+      "content": "Birlemi Milletler (BM) \u00c7ocuklara Yardm Fonu (UNICEF) Dou ve G\u00fcney Afrika B\u00f6lgesel Salk Danman Paul Ngwakum ve D\u00fcnya Salk \u00d6rg\u00fct\u00fc (DS\u00d6) S\u00f6zc\u00fcs\u00fc Margaret Harris, BM Cenevre Ofisi'nin haftalk basn toplan\u2026 [+1162 chars]",
+      "retrievedAt": "2024-09-24 07:06:26.933902",
+      "internal_id": "dda940934951c3c8ef30e045e9ce5578031672d0aac5726db058e36757b41b9c",
+      "publishedAtLabel": "Sep 23"
+    },
+    {
+      "id": 13853,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Gadgets360.com",
+      "author": "Gadgets 360 Staff",
+      "title": "Mpox Vaccines Prequalified by WHO, Shipped to Africa to Contain the Outbreak",
+      "description": "The arrival of mpox vaccines in Africa, particularly the Jynneos vaccine from Bavarian Nordic, aims to combat a significant resurgence of the virus, especially in the Democratic Republic of the Congo. The World Health Organization has reported approximately 6\u2026",
+      "url": "https://www.gadgets360.com/science/news/mpox-vaccine-sending-to-africa-who-prequalified-outbreak-6619054",
+      "urlToImage": "https://i.gadgets360cdn.com/large/Mpox_Vaccine_1726935097290.jpg",
+      "publishedAt": "2024-09-23 06:50:49",
+      "content": "The recent arrival of mpox vaccines in Africa marks a significant step in the fight against the disease, which has surged in the Democratic Republic of the Congo. On September 13, the World Health Or\u2026 [+2071 chars]",
+      "retrievedAt": "2024-09-24 07:06:27.008613",
+      "internal_id": "3e217b88a28d8e7df70d1813afd1aa898b5528f3703d81c17e089cfd8c1a8843",
+      "publishedAtLabel": "Sep 23"
+    },
+    {
+      "id": 13851,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "DIE WELT",
+      "author": "Andreas Macho",
+      "title": "Retter in der n\u00e4chsten Pandemie \u2013 hier werden die Schrecken der Menschheit bek\u00e4mpft",
+      "description": "Der Impfstoff gegen Mpox hat die Pharmafirma Bavarian Nordic weltweit bekannt gemacht. Doch die Verantwortung des d\u00e4nischen Unternehmens f\u00fcr die Gesundheit der Menschheit ist noch viel gr\u00f6\u00dfer. Zu Besuch bei einem der letzten Aufgebote, wenn die n\u00e4chste Pandem\u2026",
+      "url": "https://www.welt.de/wirtschaft/plus253610252/Mpox-Ebola-Cholera-hier-werden-die-Schrecken-der-Menschheit-bekaempft.html",
+      "urlToImage": "https://img.welt.de/img/wirtschaft/mobile253639402/4687936157-ci16x9-w1200-fnov-fpotl-fpi157750653/Mpox-Vaccine-Maker-Ready-To-Produce-10-Million-Doses-2.jpg",
+      "publishedAt": "2024-09-23 06:36:19",
+      "content": "Der Impfstoff gegen Mpox hat die Pharmafirma Bavarian Nordic weltweit bekannt gemacht. Doch die Verantwortung des d\u00e4nischen Unternehmens f\u00fcr die Gesundheit der Menschheit ist noch viel gr\u00f6\u00dfer. Zu Bes\u2026 [+68 chars]",
+      "retrievedAt": "2024-09-24 07:06:26.923239",
+      "internal_id": "a9280d4df6736ae54c3b70b30565ae8f9c825692a74990c8889f56535f004881",
+      "publishedAtLabel": "Sep 23"
+    },
+    {
+      "id": 13847,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TNN",
+      "title": "Dengue stings 21 in Lucknow within past 24 hours, doctors advise caution",
+      "description": "Lucknow has seen a sharp rise in dengue cases, with 21 new infections reported in the last day. Areas like Alambagh and Indiranagar are particularly affected. Health officials are conducting larvicide spraying and advising patients to stay hydrated. Hospitals\u2026",
+      "url": "https://timesofindia.indiatimes.com/city/lucknow/dengue-stings-21-in-lucknow-within-past-24-hours-doctors-advise-caution/articleshow/113584697.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-113584728,width-1070,height-580,imgsize-25398,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-09-23 04:10:36",
+      "content": "How to make easy dump &amp; dine Tofu Salad for dinner",
+      "retrievedAt": "2024-09-24 07:06:25.099836",
+      "internal_id": "55ddfd2e7a62f6b603fcc6f71158aaada0fef7fb0fb476ba53434b3fa868c403",
+      "publishedAtLabel": "Sep 23"
+    },
+    {
+      "id": 13848,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "Dengue cases drop to 1,794 last week, no deaths reported",
+      "description": "PUTRAJAYA: The number of dengue cases decreased to 1,794 during Epidemiological Week 37 (ME37), from Sept 8 to 14, compared to 1,870 cases in the previous week. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2024/09/23/dengue-cases-drop-to-1794-last-week-no-deaths-reported",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/09/23/2926364.jpg",
+      "publishedAt": "2024-09-23 02:31:00",
+      "content": "PUTRAJAYA: The number of dengue cases decreased to 1,794 during Epidemiological Week 37 (ME37), from Sept 8 to 14, compared to 1,870 cases in the previous week. Health director-general Datuk Dr Muha\u2026 [+1364 chars]",
+      "retrievedAt": "2024-09-24 07:06:25.143654",
+      "internal_id": "deee1d29211af294abf94696a77dbbbacfa8a2b0eccef471e116c29a9217e0a0",
+      "publishedAtLabel": "Sep 23"
+    },
+    {
+      "id": 13849,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Malay Mail",
+      "author": "Malay Mail",
+      "title": "Health D-G: Drop in dengue cases during from Sept 8 to 14, no deaths reported",
+      "description": "PUTRAJAYA, Sept 23 \u2014 The number of dengue cases decreased to 1,794 during Epidemiological Week 37 (ME37), from Sept 8 to 14, compared to 1,870 cases in the previous week. Health...",
+      "url": "https://www.malaymail.com/news/malaysia/2024/09/23/health-d-g-drop-in-dengue-cases-from-sept-8-to-14-no-deaths-reported/151342",
+      "urlToImage": "https://www.malaymail.com/malaymail/uploads/images/2024/09/23/thumbs/400x400/236247.jpg",
+      "publishedAt": "2024-09-23 02:22:59",
+      "content": "PUTRAJAYA, Sept 23 The number of dengue cases decreased to 1,794 during Epidemiological Week 37 (ME37), from Sept 8 to 14, compared to 1,870 cases in the previous week. Health director-general Datuk\u2026 [+1355 chars]",
+      "retrievedAt": "2024-09-24 07:06:25.159108",
+      "internal_id": "0d9e752b1bc7c4c6ada2c6d664399caa4ce87f5b342033232025cf9a1a332519",
+      "publishedAtLabel": "Sep 23"
+    },
+    {
+      "id": 13850,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Liputan6.com",
+      "author": "Dyah Puspita Wisnuwardani",
+      "title": "Kenali Tanda dan Gejala Demam Berdarah Dengue, Ada 3 Fase Dalam 7 Hari",
+      "description": "Fase kritis pada DBD, ditandai dengan turunnya demam. Tapi pasien perlu mewaspadai tanda bahaya dan harus segera ke rumah sakit jika mengalami salah satu dari tanda tersebut.",
+      "url": "https://www.liputan6.com/health/read/5708649/kenali-tanda-dan-gejala-demam-berdarah-dengue-ada-3-fase-dalam-7-hari",
+      "urlToImage": "https://cdn0-production-images-kly.akamaized.net/s2moKzjSuX55G1q0YHDT-mcG6-0=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/4812313/original/097773600_1714011436-dbd.jpg",
+      "publishedAt": "2024-09-23 00:32:02",
+      "content": "Liputan6.com, Jakarta - Ketua UKK Infeksi dan Penyakit Tropis PP Ikatan Dokter Anak Indonesia (IDAI) Dr dr Anggraini Alam, SpA(K) mengatakan, penting bagi masyarakat mengenai tanda dan gejala demam b\u2026 [+1629 chars]",
+      "retrievedAt": "2024-09-24 07:06:25.165214",
+      "internal_id": "9abfbe4a7c6380a372466b00b37b567d2ea02f24d84f90762c53768de3286da2",
+      "publishedAtLabel": "Sep 23"
+    },
     {
       "id": 13843,
       "query": [
@@ -348,6 +474,24 @@
       "publishedAtLabel": "Sep 21"
     },
     {
+      "id": 13854,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "Health Ministry steps up mpox screening at all entry points",
+      "description": "KOTA BHARU: The Health Ministry has stepped up health screenings at all border entry points to prevent the spread of mpox. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2024/09/21/health-ministry-steps-up-mpox-screening-at-all-entry-points",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/09/21/2924252.JPG",
+      "publishedAt": "2024-09-21 10:11:00",
+      "content": "KOTA BHARU: The Health Ministry has stepped up health screenings at all border entry points to prevent the spread of mpox. Deputy Health Minister Datuk Lukanisman Awang Sauni said the effort was int\u2026 [+1386 chars]",
+      "retrievedAt": "2024-09-24 07:06:27.072510",
+      "internal_id": "db7b4490ffeeae0478b85ffb7bfa43b9cb9b282ab9841f5c693b1c5877ae3a44",
+      "publishedAtLabel": "Sep 21"
+    },
+    {
       "id": 13822,
       "query": [
         "dengue"
@@ -513,7 +657,8 @@
     {
       "id": 13814,
       "query": [
-        "dengue"
+        "dengue",
+        "mpox"
       ],
       "source_id": null,
       "source_name": "Microbe.tv",
@@ -886,6 +1031,42 @@
       "content": "At Wakiso Epicentre Health Center III, Uganda, laboratory technician Stanley Sewa, 36, prepares to ... [+] draw a blood sample from 65-year-old patient Joyce Nanjala for testing. The Global Fund/Bri\u2026 [+6732 chars]",
       "retrievedAt": "2024-09-21 19:05:31.597303",
       "internal_id": "57280b56eaf379607cde95fdbbab2fde9c4cad0794b3746d635f5631d9de1f8b",
+      "publishedAtLabel": "Sep 20"
+    },
+    {
+      "id": 13856,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Francetvinfo.fr",
+      "author": null,
+      "title": "Epid\u00e9mie de mpox : la Commission europ\u00e9enne \u00e9tend l'autorisation du vaccin aux adolescents d\u00e8s l'\u00e2ge de 12 ans",
+      "description": "Cette autorisation fait suite \u00e0 une recommandation de l'Agence europ\u00e9enne des m\u00e9dicaments (EMA), qui a estim\u00e9 que le vaccin \u00e9tait efficace et s\u00fbr pour cette tranche d'\u00e2ge.",
+      "url": "https://www.francetvinfo.fr/sante/maladie/variole-du-singe/epidemie-de-mpox-la-commission-europeenne-etend-l-autorisation-du-vaccin-aux-adolescents-des-l-age-de-12-ans_6792208.html",
+      "urlToImage": "https://www.francetvinfo.fr/pictures/l6Ej6CPIoZrKn1yCRaYmnVulQ-U/0x53:1024x629/1500x843/2024/09/20/000-32ga6xl-66ed8548cc8df037861617.jpg",
+      "publishedAt": "2024-09-20 14:43:50",
+      "content": "Bruxelles donne son feu vert. La Commission europ\u00e9enne a annonc\u00e9, vendredi 20 septembre, \u00e9tendre l'autorisation du vaccin contre la mpox aux adolescents d\u00e8s l'\u00e2ge de 12 ans, suivant ainsi les recomma\u2026 [+1399 chars]",
+      "retrievedAt": "2024-09-24 07:06:27.085166",
+      "internal_id": "bd47949d26ebefe5d69efd381122c76d5412b0c9b638eb19afa029c3508a1d1f",
+      "publishedAtLabel": "Sep 20"
+    },
+    {
+      "id": 13858,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Dialogos.com.cy",
+      "author": "newsroom",
+      "title": "\u039a\u03b1\u03b9 \u03c3\u03b5 \u03ad\u03c6\u03b7\u03b2\u03bf\u03c5\u03c2 \u03bc\u03c0\u03bf\u03c1\u03b5\u03af \u03bd\u03b1 \u03c7\u03bf\u03c1\u03b7\u03b8\u03b5\u03af \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03b3\u03b9\u03b1 mpox \u03bc\u03b5 \u03c3\u03cd\u03c3\u03c4\u03b1\u03c3\u03b7 \u0395\u039c\u0391, \u03bb\u03ad\u03b5\u03b9 \u03b7 \u03a3\u03c4\u03ad\u03bb\u03bb\u03b1 \u039a\u03c5\u03c1\u03b9\u03b1\u03ba\u03af\u03b4\u03bf\u03c5",
+      "description": "\u03a4\u03b7 \u03c7\u03bf\u03c1\u03ae\u03b3\u03b7\u03c3\u03b7 \u03ba\u03b1\u03b9 \u03c3\u03b5 \u03b5\u03c6\u03ae\u03b2\u03bf\u03c5\u03c2 \u03b7\u03bb\u03b9\u03ba\u03af\u03b1\u03c2 \u03bc\u03b5\u03c4\u03b1\u03be\u03cd 12 \u03ba\u03b1\u03b9 17 \u03b5\u03c4\u03ce\u03bd \u03c4\u03bf\u03c5 \u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03bf\u03c5 Imvanex \u03ba\u03b1\u03c4\u03ac \u03c4\u03b7\u03c2 \u03b5\u03c5\u03bb\u03bf\u03b3\u03b9\u03ac\u03c2 mpox, \u03b5\u03bd\u03ad\u03ba\u03c1\u03b9\u03bd\u03b5 \u03b7 \u0395\u03c5\u03c1\u03c9\u03c0\u03b1\u03ca\u03ba\u03ae \u0395\u03c0\u03b9\u03c4\u03c1\u03bf\u03c0\u03ae \u03ad\u03c0\u03b5\u03b9\u03c4\u03b1 \u03b1\u03c0\u03cc \u03c3\u03cd\u03c3\u03c4\u03b1\u03c3\u03b7 \u03c4\u03bf\u03c5 \u0395\u03c5\u03c1\u03c9\u03c0\u03b1\u03ca\u03ba\u03bf\u03cd \u039f\u03c1\u03b3\u03b1\u03bd\u03b9\u03c3\u03bc\u03bf\u03cd \u03a6\u03b1\u03c1\u03bc\u03ac\u03ba\u03c9\u03bd (EMA), \u03bc\u03b5 \u03c4\u03b7\u03bd \u0395\u03c0\u03af\u03c4\u03c1\u03bf\u03c0\u03bf \u03a5\u03b3\u03b5\u03af\u03b1\u03c2 \u03ba\u03b1\u03b9 \u0391\u03c3\u03c6\u03ac\u03bb\u03b5\u03b9\u03b1\u03c2 \u03a4\u03c1\u03bf\u03c6\u03af\u03bc\u03c9\u03bd \u03c4\u03b7\u03c2 \u0395\u0395, \u03a3\u03c4\u03ad\u03bb\u03bb\u03b1 \u039a\u03c5\u03c1\u03b9\u03b1\u2026",
+      "url": "https://dialogos.com.cy/kai-se-efivoys-mporei-na-chorithei-to-emvolio-gia-mpox-me-systasi-ema-leei-i-stella-kyriakidoy/",
+      "urlToImage": "https://dialogos.com.cy/wp-content/uploads/2021/09/kyriakidou.jpg",
+      "publishedAt": "2024-09-20 14:43:10",
+      "content": "12 17 Imvanex mpox, (EMA), , , \u00ab \u00bb. \u00ab , \u00bb . , (ECDC), , (), (Africa CDC) mpox . \u00ab \u00bb, . Imvanex , (Tecovirimat SIGA). 2013 . 2022 mpox. , , EMA , . EMA .",
+      "retrievedAt": "2024-09-24 07:06:27.107790",
+      "internal_id": "e4f190985ac26ea33999fad1accc30656cbb1ea34ac8b24e5442ad5f2ede9d13",
       "publishedAtLabel": "Sep 20"
     },
     {
@@ -1465,6 +1646,42 @@
       "publishedAtLabel": "Sep 20"
     },
     {
+      "id": 13859,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Hurriyet.com.tr",
+      "author": "hurriyet.com.tr",
+      "title": "T\u00fcrk \u0130la\u00e7, Mpox ilac\u0131 i\u00e7in distrib\u00fct\u00f6rl\u00fck anla\u015fmas\u0131 yapt\u0131",
+      "description": "D\u00dcNYA Sa\u011fl\u0131k \u00d6rg\u00fct\u00fc (WHO), ge\u00e7ti\u011fimiz g\u00fcnlerde 120\u2019den fazla \u00fclkede 100 binin \u00fczerinde Maymun \u00c7i\u00e7e\u011fi Vir\u00fcs\u00fc (mpox) vakas\u0131 oldu\u011funu duyurdu. Mpox tedavisinde yayg\u0131n kullan\u0131m ise Tecovirimat ad\u0131ndaki ila\u00e7. ABD merkezli Siga Pharmaceuticals \u015firketinin \u00fcretti\u011fi i\u2026",
+      "url": "https://www.hurriyet.com.tr/ekonomi/turk-ilac-mpox-ilaci-icin-distributorluk-anlasmasi-yapti-42537424",
+      "urlToImage": "https://image.hurimg.com/i/hurriyet/75/0x0/66ec8388f4550c779abbf0fe.jpg",
+      "publishedAt": "2024-09-20 04:00:00",
+      "content": "p&gt;T\u00fcrk la\u00e7tan konuyla ilgili KAPa yaplan a\u00e7klamada mpox tedavisinde Avrupa la\u00e7 Ajans tarafndan onayl olarak kullanma hazr durumdaki tek ila\u00e7 olan Tpoxx (Tecovirimat) i\u00e7in Siga Pharmaceuticals Inc.\u2026 [+990 chars]",
+      "retrievedAt": "2024-09-24 07:06:27.113698",
+      "internal_id": "896e1b72f8e0764e63e1ecf9f86f1ab3682c73be19dae303ee686f204fb8102c",
+      "publishedAtLabel": "Sep 20"
+    },
+    {
+      "id": 13857,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.nzz.ch",
+      "author": "Ausw\u00e4rtige Autoren (AA)",
+      "title": "GASTKOMMENTAR - Mpox-Epidemie: Die Ausrufung der Notlage durch die WHO zeigt Wirkung \u2013 trotzdem braucht es mehr Transparenz",
+      "description": "Gesundheitskrisen, die globale Aufmerksamkeit brauchen, gibt es viele. Die WHO muss aber transparent und allgemein verst\u00e4ndlich die Gr\u00fcnde f\u00fcr die Erkl\u00e4rung eines internationalen Gesundheitsnotstands darlegen, wenn sie glaubw\u00fcrdig bleiben will.",
+      "url": "https://www.nzz.ch/meinung/mpox-epidemie-die-ausrufung-der-notlage-durch-die-who-zeigt-wirkung-trotzdem-braucht-es-mehr-transparenz-ld.1847165",
+      "urlToImage": "https://img.nzz.ch/2024/09/17/5c54808e-a294-45f1-b685-1aa817510b97.jpeg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=6240,3510,x0,y325&wmark=nzz",
+      "publishedAt": "2024-09-20 03:30:00",
+      "content": "Nachdem es erneut zu einem Ausbruch von MpoxA gekommen ist, hat die WHO rasch Alarm geschlagen. Vor einigen Wochen hat die WHO den derzeitigen Mpox-Ausbruch (ehemals \u00abAffenpocken\u00bb genannt) in der De\u2026 [+3845 chars]",
+      "retrievedAt": "2024-09-24 07:06:27.100805",
+      "internal_id": "1a678485b0b7599f8ff9ef8745e727b78404d7c67827739e88e33ee235f01351",
+      "publishedAtLabel": "Sep 20"
+    },
+    {
       "id": 13760,
       "query": [
         "chikungunya"
@@ -1498,6 +1715,24 @@
       "content": "In Ruanda ist eine Impfkampagne gegen die Infektionskrankheit Mpox angelaufen. Die afrikanische Gesundheitsbeh\u00f6rde Africa CDC teilte mit, das Land habe 1.000 Impfdosen als Spende aus Nigeria gegen di\u2026 [+1788 chars]",
       "retrievedAt": "2024-09-21 07:06:10.544384",
       "internal_id": "82bff368ca7bd2743d8f3d808626e68206b98e75da42ceaa28cdc3d1af2caf7c",
+      "publishedAtLabel": "Sep 20"
+    },
+    {
+      "id": 13855,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "seattlepi.com",
+      "author": "By EVELYNE MUSAMBI, Associated Press",
+      "title": "Rwanda begins vaccinations against mpox amid a call for more doses for Africa",
+      "description": "The African health agency says that Rwanda has started a vaccination campaign against mpox with 1,000 doses it obtained from Nigeria. Dr. Nicaise Ndembi from the Africa Centres for Disease Control and Prevention said vaccination started Tuesday targeting seve\u2026",
+      "url": "https://www.seattlepi.com/news/world/article/rwanda-begins-vaccinations-against-mpox-amid-a-19777138.php",
+      "urlToImage": "https://s.hdnux.com/photos/01/43/13/17/25998277/3/rawImage.jpg",
+      "publishedAt": "2024-09-20 01:05:48",
+      "content": "NAIROBI, Kenya (AP) Rwanda has started a vaccination campaign against mpox with 1,000 doses of the vaccine it obtained from Nigeria under an agreement between the two countries, the African health ag\u2026 [+2254 chars]",
+      "retrievedAt": "2024-09-24 07:06:27.078666",
+      "internal_id": "bac4f2e24431b6f3088954e537e3bf63129cb79d00133a4e3a7419126c35f099",
       "publishedAtLabel": "Sep 20"
     },
     {
@@ -35354,6 +35589,96 @@
       "content": "New Delhi: As monsoon sets in, a surge in demand for seasonal products within the respiratory, anti-infective, and anti-malarial therapeutic categories have been seen. According to market research fi\u2026 [+2057 chars]",
       "retrievedAt": "2024-08-13 07:06:53.668946",
       "internal_id": "788082dfad686671baa5d198494d28d10cd1324336e7c378c20a4ca94df63381",
+      "publishedAtLabel": "Aug 11"
+    },
+    {
+      "id": 11882,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Faz.net",
+      "author": "Claudia Br\u00f6ll",
+      "title": "Sorge wegen Ausbreitung des Mpox-Virus in Afrika",
+      "description": "Eine neue Variante des Mpox-Virus breitet sich in Afrika aus. Mehr als 15.000 F\u00e4lle wurden seit Jahresbeginn registriert. Beh\u00f6rden sehen eine \u201ealarmierende Entwicklung\u201c, die WHO beruft einen Notfallausschuss ein.",
+      "url": "https://www.faz.net/aktuell/gesellschaft/gesundheit/mpox-virus-in-afrika-neue-variante-breitet-sich-aus-19913273.html",
+      "urlToImage": "https://media0.faz.net/ppmedia/aktuell/gesellschaft/805874728/1.9913288/facebook_teaser/eine-krankenschwester.jpg",
+      "publishedAt": "2024-08-11 18:54:32",
+      "content": "Einen Tag zuvor hatte die Weltgesundheitsorganisation wegen der weiteren Ausbreitung innerhalb und au\u00dferhalb Afrikas einen Notfallausschuss einberufen. Er solle pr\u00fcfen, ob der Ausbruch eine gesundhei\u2026 [+3470 chars]",
+      "retrievedAt": "2024-08-12 19:06:08.676886",
+      "internal_id": "0599adcff99139707421aeae9c960be048397ae165f7ba2a5be3e2c6faecae74",
+      "publishedAtLabel": "Aug 11"
+    },
+    {
+      "id": 11879,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Tbsnews.net",
+      "author": "Unb",
+      "title": "One dies of dengue; 202 hospitalised in 24hrs",
+      "description": "One death was reported from dengue in 24 hours till Sunday morning, raising the number of fatalities from the mosquito-borne disease in Bangladesh to 65 this year. During the period, 202 more patients were hospitalised with viral fever, according to the Direc\u2026",
+      "url": "https://www.tbsnews.net/bangladesh/health/one-dies-dengue-202-hospitalised-24hrs-914511",
+      "urlToImage": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/09/13/dengue-rajib-dhar.jpg",
+      "publishedAt": "2024-08-11 16:30:41",
+      "content": "One death was reported from dengue in 24 hours till Sunday morning, raising the number of fatalities from the mosquito-borne disease in Bangladesh to 65 this year. During the period, 202 more patien\u2026 [+433 chars]",
+      "retrievedAt": "2024-08-12 19:06:07.168514",
+      "internal_id": "37f7c12f867094cc1a16e3d59c506550898ea9a60433c1c8aa866ca050c80c98",
+      "publishedAtLabel": "Aug 11"
+    },
+    {
+      "id": 11878,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "DIE WELT",
+      "author": "Christina Sticht, Philipp Znidar",
+      "title": "Oropouche-Ausbruch weitet sich aus",
+      "description": "Brasilien meldet fast 7500 F\u00e4lle \u2013 und die ersten Todesopfer. W\u00e4hrend das Land zugleich gegen Dengue-Fieber k\u00e4mpfen muss, wird nun untersucht, welches Risiko f\u00fcr Schwangere durch Oropouche besteht. Ein Experte erkl\u00e4rt, ob sich das Virus auch in Deutschland ve\u2026",
+      "url": "https://www.welt.de/gesundheit/article252950606/Epidemie-Kann-sich-das-Oropouche-Virus-in-Deutschland-ausbreiten.html",
+      "urlToImage": "https://img.welt.de/img/gesundheit/mobile252950602/6217936867-ci16x9-w1200/Fumace-Alberto-Torre.jpg",
+      "publishedAt": "2024-08-11 15:08:07",
+      "content": "Brasilien meldet fast 7500 F\u00e4lle und die ersten Todesopfer. W\u00e4hrend das Land zugleich gegen Dengue-Fieber k\u00e4mpfen muss, wird nun untersucht, welches Risiko f\u00fcr Schwangere durch Oropouche besteht. Ein\u2026 [+6484 chars]",
+      "retrievedAt": "2024-08-12 19:06:07.079239",
+      "internal_id": "ce8eb764efff712d7a622b489b1873a03b3e8d8098b3653e186668fcb3b2e7d0",
+      "publishedAtLabel": "Aug 11"
+    },
+    {
+      "id": 11880,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Digi24.ro",
+      "author": "Maria Isopescu",
+      "title": "Epidemia de \u201evariola maimu\u021bei\u201d se r\u0103sp\u00e2nde\u0219te \u00een mai multe \u021b\u0103ri africane. OMS convoac\u0103 un comitet de urgen\u021b\u0103",
+      "description": "Organiza\u0163ia Mondial\u0103 a S\u0103n\u0103t\u0103\u0163ii (OMS) convoac\u0103 un comitet de urgen\u0163\u0103 pe tema mpox - cunoscut\u0103 \u015fi sub denumirea de ''variola maimu\u0163ei'' \u2013 pentru 14 august, pentru a evalua necesitatea decret\u0103rii celui mai \u00eenalt nivel de alert\u0103 \u00een fa\u0163a actualei epidemii din ma\u2026",
+      "url": "https://www.digi24.ro/stiri/actualitate/sanatate/epidemia-de-variola-maimutei-se-raspandeste-in-mai-multe-tari-africane-oms-convoaca-un-comitet-de-urgenta-2890979",
+      "urlToImage": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA1dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjIl/MkYwNSUyRjIxJTJGMTUxMzIxNl8xNTEz/MjE2X3ZhcmlvbGEtbWFpbXV0ZWktcHJv/ZmltZWRpYS0xLmpwZyZ3PTEyMDAmaD02/MzAmemM9MSZoYXNoPWFkMzI1ZGNkYmRhOTI5ZjhhNjgxODcyZGNhMWFhODQ3.thumb.jpg",
+      "publishedAt": "2024-08-11 08:39:07",
+      "content": "Organizaia Mondial a Sntii (OMS) convoac un comitet de urgen pe tema mpox - cunoscut i sub denumirea de ''variola maimuei'' pentru 14 august, pentru a evalua necesitatea decretrii celui mai \u00eenalt niv\u2026 [+2452 chars]",
+      "retrievedAt": "2024-08-12 19:06:08.583653",
+      "internal_id": "5ac2f3f9b68c5e4620042b101959245bf9f874a3a72a6e135db969c98891fb73",
+      "publishedAtLabel": "Aug 11"
+    },
+    {
+      "id": 11881,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "L'Express",
+      "author": "Victor Garcia",
+      "title": "Nouvelle \u00e9pid\u00e9mie de Mpox : \"On sait ce qu\u2019est une pand\u00e9mie, et on n\u2019en veut pas\"",
+      "description": "Une nouvelle souche de la variole du singe, qui pourrait \u00eatre plus transmissible et plus l\u00e9tale, inqui\u00e8te l\u2019OMS, qui devrait rehausser son alerte d\u2019ici quelques jours.",
+      "url": "https://www.lexpress.fr/sciences-sante/sciences/nouvelle-epidemie-de-mpox-on-sait-ce-quest-une-pandemie-et-on-nen-veut-pas-Q7QJWCFML5EUPD4L7AI5JGQ5KY/",
+      "urlToImage": "https://www.lexpress.fr/resizer/v2/3BLCYWTIM5DVFAXCSHB6JYYGCQ.jpg?auth=73a3f28297ce361e6afab5c58e26ba7607687405803332bdeef8d8eab18fd0e1&width=1200&height=630&quality=85&smart=true",
+      "publishedAt": "2024-08-11 08:30:00",
+      "content": "Faut-il sinqui\u00e9ter de l\u00e9pid\u00e9mie du nouveau variant de Mpox, aussi appel\u00e9 \"variole du singe\" ? D\u00e9tect\u00e9e en R\u00e9publique d\u00e9mocratique du Congo (RDC) en septembre 2023, la maladie se propage depuis dans p\u2026 [+9165 chars]",
+      "retrievedAt": "2024-08-12 19:06:08.644131",
+      "internal_id": "0dfa34437a537e8a5cbdc57d532f591befba6cc39776b010ecea1850110e83f7",
       "publishedAtLabel": "Aug 11"
     }
   ]
