@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 46
-- **Last harvest:** 2024-09-24 19:05
-- **Most recent article:** 2024-09-23 18:43:38
+- **New articles in last harvest:** 25
+- **Last harvest:** 2024-09-25 07:06
+- **Most recent article:** 2024-09-24 06:00:41
 
 ---
 
@@ -12,14 +12,14 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-33 | 24-34 | 24-35 | 24-36 | 24-37 | 24-38 | 24-39 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 285 | 208 | 207 | 184 | 192 | 140 | 30 | 1246 |
-| dengue | 48 | 64 | 45 | 49 | 76 | 73 | 13 | 368 |
-| malaria | 18 | 27 | 28 | 14 | 12 | 15 | 8 | 122 |
-| h5n1 | 8 | 5 | 10 | 31 | 10 | 17 | 5 | 86 |
+| mpox | 288 | 208 | 207 | 184 | 192 | 140 | 43 | 1262 |
+| dengue | 50 | 64 | 45 | 49 | 76 | 73 | 20 | 377 |
+| malaria | 18 | 27 | 28 | 14 | 12 | 15 | 10 | 124 |
+| h5n1 | 8 | 5 | 10 | 31 | 10 | 17 | 8 | 89 |
 | zika | 10 | 21 | 2 | 6 | 10 | 8 | 0 | 57 |
-| rabies | 12 | 6 | 3 | 7 | 5 | 13 | 3 | 49 |
+| rabies | 12 | 6 | 3 | 7 | 5 | 13 | 4 | 50 |
 | chikungunya | 8 | 10 | 1 | 5 | 13 | 9 | 0 | 46 |
-| meningitis | 8 | 11 | 5 | 6 | 3 | 10 | 0 | 43 |
+| meningitis | 8 | 11 | 5 | 6 | 3 | 10 | 1 | 44 |
 | measles | 3 | 7 | 11 | 9 | 5 | 8 | 0 | 43 |
 | pertussis | 3 | 5 | 2 | 1 | 5 | 3 | 2 | 21 |
 | leptospirosis | 1 | 4 | 0 | 1 | 0 | 1 | 1 | 8 |
@@ -40,6 +40,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-39 (rabies)
 
+- [Pittsylvania-Danville Health District issues rabies warning](https://www.chathamstartribune.com/news/article_4673fcb4-7a01-11ef-a383-9b49aaff9c8e.html) (Chathamstartribune.com)
+
 - [Canadian Animal Health Institute 2024 World Rabies Day Webinar: Event to feature leading experts on cross-border changes to pet travel, wildlife monitoring, and One Health strategies for rabies surveillance and control](https://financialpost.com/globe-newswire/canadian-animal-health-institute-2024-world-rabies-day-webinar-event-to-feature-leading-experts-on-cross-border-changes-to-pet-travel-wildlife-monitoring-and-one-health-strategies-for-rabies-survei) (Financial Post)
 
 - [Yn pynlong ka MVSA-JHDU ia ka jingai dawai wieh bad anti-rabies ha rilum Jaintia](https://www.syllad.com/yn-pynlong-ka-mvsa-jhdu-ia-ka-jingai-dawai-wieh-bad-anti-rabies-ha-rilum-jaintia/) (Syllad.com)
@@ -54,11 +56,35 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-39 (mpox)
 
+- [India confirms first mpox case in current outbreak](https://www.bbc.com/news/articles/clyl1jlxr02o) (BBC News)
+
+- [Wekdienst 24/9: Stemming over minimumleeftijd fatbike • Achtste finale WK futsal](https://nos.nl/l/2538305) (Nos.nl)
+
+- [Mpox in India: Delhi youth recovers from virus after 16 days of treatment at LNJP Hospital](https://economictimes.indiatimes.com/news/india/mpox-in-india-delhi-youth-recovers-from-virus-after-16-days-of-treatment-at-lnjp-hospital/articleshow/113616197.cms) (The Times of India)
+
+- [Unify Platform AGは先進的なSaaS技術で感染症拡大防止の世界的取り組みに参加](https://prtimes.jp/main/html/rd/p/000000011.000118117.html) (Prtimes.jp)
+
+- [Första indiska fallet av nya mpox-varianten](https://www.expressen.se/nyheter/varlden/forsta-indiska-fallet-av-nya-mpox-varianten/) (Expressen.se)
+
+- [Första fallet av nya mpox i Indien](https://www.svd.se/a/PpP1mz/forsta-fallet-av-nya-mpox-i-indien) (Svenska Dagbladet)
+
+- [Första fallet av nya mpox i Indien](https://www.aftonbladet.se/nyheter/a/W07rd2/forsta-fallet-av-nya-mpox-i-indien) (Aftonbladet.se)
+
+- [No significant research on Mpox in Nigeria – Academy](https://punchng.com/no-significant-research-on-mpox-in-nigeria-academy/) (The Punch)
+
+- [Kerala Dubai returnee is India's first Mpox patient with fast-spreading strain](https://timesofindia.indiatimes.com/india/kerala-dubai-returnee-is-indias-1st-mpox-patient-with-fast-spreading-strain/articleshow/113613516.cms) (The Times of India)
+
+- [Mpox, Project Bioshield: Everyone’s Dark Winter?](https://www.activistpost.com/2024/09/mpox-project-bioshield-everyones-dark-winter.html) (Activistpost.com)
+
+- [OMS: África soma quase 30 mil casos suspeitos de mpox este ano](https://brasil.perfil.com/mundo/oms-africa-soma-quase-30-mil-casos-suspeitos-de-mpox-este-ano.phtml) (Perfil.com)
+
 - [Fact Check. Mpox é uma “doença nova” e vacina foi criada agora?](https://observador.pt/factchecks/fact-check-mpox-e-uma-doenca-nova-e-vacina-foi-criada-agora/) (Observador.pt)
 
 - [Kerala to revise Mpox rules after reporting India's first new strain case](https://www.business-standard.com/india-news/kerala-to-revise-mpox-rules-after-reporting-india-s-first-new-strain-case-124092301229_1.html) (Business Standard)
 
 - [Kerala to issue revised Mpox guidelines after reporting India's first case of new strain](https://economictimes.indiatimes.com/news/india/kerala-to-issue-revised-mpox-guidelines-after-reporting-indias-first-case-of-new-strain/articleshow/113607585.cms) (The Times of India)
+
+- [Health Ministry issues show-cause notice to ghee supplier after Tirupati laddu row](https://www.thehindubusinessline.com/news/national/health-ministry-issues-show-cause-notice-to-ghee-supplier-after-tirupati-laddu-row/article68674234.ece) (BusinessLine)
 
 - [India informa su primer caso de mpox; autoridades monitorean a contactos cercanos con el paciente](https://www.forbes.com.mx/india-informa-su-primer-caso-de-mpox-autoridades-monitorean-a-contactos-cercanos-con-el-paciente/) (Forbes.com.mx)
 
@@ -102,6 +128,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Vaccination to prevent mpox](https://www.bmj.com/content/386/bmj.q2057) (The BMJ)
 
+- [Dispositivo portátil criado na Unicamp detecta sinal de infarto pela saliva; veja como funciona](https://g1.globo.com/sp/campinas-regiao/noticia/2024/09/23/dispositivo-portatil-criado-na-unicamp-detecta-sinal-de-infarto-pela-saliva-veja-como-funciona.ghtml) (Globo)
+
 - [Mpox : les conseils pour se protéger de la variole du singe à l’étranger](https://www.courrierinternational.com/article/sante-mpox-les-conseils-pour-se-proteger-de-la-variole-du-singe-a-l-etranger_222371) (Courrier International)
 
 - [UNICEF'ten M çiçeği açıklaması: Vakaların yüzde 30'u 5 yaş altı çocuk](https://www.haberturk.com/unicef-ten-m-cicegi-aciklamasi-vakalarin-yuzde-30-u-5-yas-alti-cocuk-3722162) (Haberturk.com)
@@ -114,7 +142,15 @@ Source: [News API](https://newsapi.org/)
 
 - [Efforts to tackle mpox intensify over vaccine hesitancy](https://punchng.com/efforts-to-tackle-mpox-intensify-over-vaccine-hesitancy/) (The Punch)
 
+## 24-39 (meningitis)
+
+- [Nerea tenía meningitis, pero los médicos pensaron que estaba drogada y que la habían violado: "A mi hija la dejaron morir"](https://www.elperiodico.com/es/sucesos/20240924/nerea-meningitis-negligencia-medica-cadiz-108492730) (Elperiodico.com)
+
 ## 24-39 (malaria)
+
+- [MP govt launches awareness campaign to eliminate mosquito-borne diseases](https://thehillstimes.in/national/mp-govt-launches-awareness-campaign-to-eliminate-mosquito-borne-diseases) (Thehillstimes.in)
+
+- [3,800 dengue cases, 1,500 of malaria in MP this year: Health official](https://thehillstimes.in/national/3800-dengue-cases-1500-of-malaria-in-mp-this-year-health-official) (Thehillstimes.in)
 
 - [Kebbi begins statewide fumigation to combat malaria](https://punchng.com/kebbi-begins-statewide-fumigation-to-combat-malaria/) (The Punch)
 
@@ -144,6 +180,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-39 (h5n1)
 
+- [이재갑 교수 "조류 인플루엔자 감염, 사람 간 전파 위험성 커”](https://zdnet.co.kr/view/?no=20240924115248) (Zdnet.co.kr)
+
+- [CSL 시퀴러스, 조류 인플루엔자 팬데믹 대응 백신 개발 능력 있어](https://zdnet.co.kr/view/?no=20240924111707) (Zdnet.co.kr)
+
+- [Bird flu is spreading rapidly in California; infected herds double over weekend](https://arstechnica.com/science/2024/09/bird-flu-is-spreading-rapidly-in-california-infected-herds-double-over-weekend/) (Ars Technica)
+
 - [Source of person's recent bird flu case remains a mystery — and experts say that's concerning](https://www.livescience.com/health/flu/source-of-person-s-recent-bird-flu-case-remains-a-mystery-and-experts-say-that-s-concerning) (Live Science)
 
 - [Can our stockpiles of Tamiflu protect against a bird flu pandemic?](https://undark.org/2024/09/23/h5n1-old-drug-protect-against-new-pandemic/) (Undark Magazine)
@@ -155,6 +197,20 @@ Source: [News API](https://newsapi.org/)
 - ["Пернатые пираты" ускоряют распространение смертельного птичьего гриппа, выяснили ученые](https://www.gazeta.ru/science/news/2024/09/22/23979301.shtml) (Gazeta.ru)
 
 ## 24-39 (dengue)
+
+- [अंडे देने का ठिकाना बदला... डेंगू के मच्छर का लार्वा खोजना एमसीडी के लिए बना सिरदर्द](https://navbharattimes.indiatimes.com/metro/delhi/other-news/finding-dengue-mosquito-larvae-in-delhi-has-become-a-challenge-for-mcd/articleshow/113615269.cms) (The Times of India)
+
+- [Debate: Marina Helena critica desempenho do governo Lula em vacinação contra dengue](https://www.terra.com.br/noticias/brasil/politica/debate-marina-helena-critica-desempenho-do-governo-lula-em-vacinacao-contra-dengue,adf6ac34710e37c5a8d4bc7dd56a59052qw3vruz.html) (Terra.com.br)
+
+- [Em “dobradinha”, Marçal e Marina Helena cobram governo Lula por vacina contra dengue](https://www.infomoney.com.br/politica/em-dobradinha-marcal-e-marina-helena-cobram-governo-lula-por-vacina-contra-dengue/) (InfoMoney)
+
+- [Por que a dengue é transmitida pelo Aedes aegypti? Entenda como os vírus podem se adaptar a diferentes mosquitos](https://gizmodo.uol.com.br/por-que-a-dengue-e-transmitida-pelo-aedes-aegypti-entenda-como-os-virus-podem-se-adaptar-a-diferentes-mosquitos/) (Uol.com.br)
+
+- [MP govt launches awareness campaign to eliminate mosquito-borne diseases](https://thehillstimes.in/national/mp-govt-launches-awareness-campaign-to-eliminate-mosquito-borne-diseases) (Thehillstimes.in)
+
+- [3,800 dengue cases, 1,500 of malaria in MP this year: Health official](https://thehillstimes.in/national/3800-dengue-cases-1500-of-malaria-in-mp-this-year-health-official) (Thehillstimes.in)
+
+- [Dengue en Costa Rica: dos de las muertes investigadas sí se debieron a la enfermedad](https://www.nacion.com/ciencia/salud/dengue-en-costa-rica-dos-de-las-muertes/37XROA7IBBECHFNW3HKHUPMGIA/story/) (Nacion.com)
 
 - [Vacina da dengue: menos da metade das doses distribuídas em 7 meses foi aplicada](https://www.terra.com.br/vida-e-estilo/saude/vacina-da-dengue-menos-da-metade-das-doses-distribuidas-em-7-meses-foi-aplicada,47f8478be6a0cff6094a3f63ac3a5f52d8m9oae2.html) (Terra.com.br)
 
@@ -4216,6 +4272,12 @@ Source: [News API](https://newsapi.org/)
 
 - [WHO Schedules Emergency Meeting Over Mpox Outbreak](https://www.theepochtimes.com/health/who-schedules-emergency-meeting-over-mpox-outbreak-5703755) (Theepochtimes.com)
 
+- [Sorge wegen Ausbreitung des Mpox-Virus in Afrika](https://www.faz.net/aktuell/gesellschaft/gesundheit/mpox-virus-in-afrika-neue-variante-breitet-sich-aus-19913273.html) (Faz.net)
+
+- [Epidemia de „variola maimuței” se răspândește în mai multe țări africane. OMS convoacă un comitet de urgență](https://www.digi24.ro/stiri/actualitate/sanatate/epidemia-de-variola-maimutei-se-raspandeste-in-mai-multe-tari-africane-oms-convoaca-un-comitet-de-urgenta-2890979) (Digi24.ro)
+
+- [Nouvelle épidémie de Mpox : "On sait ce qu’est une pandémie, et on n’en veut pas"](https://www.lexpress.fr/sciences-sante/sciences/nouvelle-epidemie-de-mpox-on-sait-ce-quest-une-pandemie-et-on-nen-veut-pas-Q7QJWCFML5EUPD4L7AI5JGQ5KY/) (L'Express)
+
 ## 24-33 (meningitis)
 
 - [Local pharmacist blamed for deaths in U.S. meningitis outbreak will plead no contest in Michigan case](https://www.boston.com/news/local-news/2024/08/17/pharmacist-blamed-for-deaths-in-u-s-meningitis-outbreak-will-plead-no-contest-in-michigan-case/) (Boston.com)
@@ -4403,6 +4465,10 @@ Source: [News API](https://newsapi.org/)
 - [Dengue confirmed in 1,369 people in Gandaki](https://english.khabarhub.com/2024/12/376904/) (Khabarhub.com)
 
 - [Eco-friendly mosquito killer to help control dengue spread in Bengaluru](https://timesofindia.indiatimes.com/city/bengaluru/eco-friendly-mosquito-killer-to-help-control-dengue-spread-in-bengaluru/articleshow/112449641.cms) (The Times of India)
+
+- [One dies of dengue; 202 hospitalised in 24hrs](https://www.tbsnews.net/bangladesh/health/one-dies-dengue-202-hospitalised-24hrs-914511) (Tbsnews.net)
+
+- [Oropouche-Ausbruch weitet sich aus](https://www.welt.de/gesundheit/article252950606/Epidemie-Kann-sich-das-Oropouche-Virus-in-Deutschland-ausbreiten.html) (DIE WELT)
 
 ## 24-33 (chikungunya)
 

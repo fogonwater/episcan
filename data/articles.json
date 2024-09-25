@@ -1,8 +1,424 @@
 {
-  "last_updated": "2024-09-24 19:05",
-  "count_articles_total": 2018,
-  "count_articles_new": 46,
+  "last_updated": "2024-09-25 07:06",
+  "count_articles_total": 2048,
+  "count_articles_new": 25,
   "articles": [
+    {
+      "id": 13918,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": null,
+      "title": "India confirms first mpox case in current outbreak",
+      "description": "India has reported its first mpox case with the new strain that has been linked to the outbreak in Africa.",
+      "url": "https://www.bbc.com/news/articles/clyl1jlxr02o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/abfb/live/f269d3f0-7a32-11ef-8c1a-df523ba43a9a.jpg",
+      "publishedAt": "2024-09-24 06:00:41",
+      "content": "India has reported its first case with the new mpox strain that has triggered a public health emergency alert by the World Health Organization (WHO), Reuters reports. Called clade 1b, the new varian\u2026 [+1940 chars]",
+      "retrievedAt": "2024-09-25 07:06:45.489125",
+      "internal_id": "3356b22c5fa70899d83ea1d849e9fd7b6a96d181602f24c62bfa633f83b96e75",
+      "publishedAtLabel": "Sep 24"
+    },
+    {
+      "id": 13928,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Nos.nl",
+      "author": null,
+      "title": "Wekdienst 24/9: Stemming over minimumleeftijd fatbike \u2022 Achtste finale WK futsal",
+      "description": "Goedemorgen! In de Tweede Kamer wordt gestemd over de fatbike en het mpox-vaccin en Biden opent de Algemene Ledenvergadering van de VN. Eerst het weer: De dag begint in het noordoosten met wat zon, maar geleidelijk komt er meer bewolking. Vanuit het zuidwest\u2026",
+      "url": "https://nos.nl/l/2538305",
+      "urlToImage": "https://cdn.nos.nl/image/2024/09/24/1139399/1024x576a.jpg",
+      "publishedAt": "2024-09-24 04:26:18",
+      "content": "Goedemorgen! In de Tweede Kamer wordt gestemd over de fatbike en het mpox-vaccin en Biden opent de Algemene Ledenvergadering van de VN. Eerst het weer: De dag begint in het noordoosten met wat zon,\u2026 [+1779 chars]",
+      "retrievedAt": "2024-09-25 07:06:45.697054",
+      "internal_id": "93e62ec2df208b9add6ee112c010147653c22920bdddade6ce6a244ffe17a430",
+      "publishedAtLabel": "Sep 24"
+    },
+    {
+      "id": 13925,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ET Online",
+      "title": "Mpox in India: Delhi youth recovers from virus after 16 days of treatment at LNJP Hospital",
+      "description": "A 26-year-old man from South Delhi has recovered from Mpox after 16 days of treatment at LNJP Hospital. Admitted on September 6 with fever, body aches, and skin lesions, he tested positive for Mpox on September 8. He is now virus-free and has been discharged.",
+      "url": "https://economictimes.indiatimes.com/news/india/mpox-in-india-delhi-youth-recovers-from-virus-after-16-days-of-treatment-at-lnjp-hospital/articleshow/113616197.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-113616692,width-1200,height-630,imgsize-1481011,overlay-economictimes/photo.jpg",
+      "publishedAt": "2024-09-24 03:37:56",
+      "content": "A 26-year-old man, admitted to Lok Nayak Jai Prakash Narayan (LNJP) Hospital with Mpox symptoms earlier this month, has successfully recovered and was discharged on Monday after 16 days of treatment,\u2026 [+2138 chars]",
+      "retrievedAt": "2024-09-25 07:06:45.633685",
+      "internal_id": "b711fe6f73baf36c09b50d904560cd087bcd6b8b6490ab300c258069374cf3ba",
+      "publishedAtLabel": "Sep 24"
+    },
+    {
+      "id": 13917,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Elperiodico.com",
+      "author": "Esteban Alarc\u00f3n",
+      "title": "Nerea ten\u00eda meningitis, pero los m\u00e9dicos pensaron que estaba drogada y que la hab\u00edan violado: \"A mi hija la dejaron morir\"",
+      "description": "La familia de Nerea Gonz\u00e1lez, una joven de 14 a\u00f1os fallecida el 13 de marzo de 2023, ha presentado ante el Tribunal Superior de Justicia de Andaluc\u00eda una reclamaci\u00f3n patrimonial de 201.000 euros contra el Servicio Andaluz de Salud (SAS) por los \"hechos grav\u00eds\u2026",
+      "url": "https://www.elperiodico.com/es/sucesos/20240924/nerea-meningitis-negligencia-medica-cadiz-108492730",
+      "urlToImage": "https://estaticos-cdn.prensaiberica.es/clip/881abf31-d6da-4cc8-8e71-951ecc92d6c8_16-9-discover-aspect-ratio_default_0.jpg",
+      "publishedAt": "2024-09-24 03:00:32",
+      "content": "La familia de Nerea Gonz\u00e1lez, una joven de 14 a\u00f1os fallecida el 13 de marzo de 2023, ha presentado ante el Tribunal Superior de Justicia de Andaluc\u00eda una reclamaci\u00f3n patrimonial de 201.000 euros cont\u2026 [+8061 chars]",
+      "retrievedAt": "2024-09-25 07:06:44.041758",
+      "internal_id": "896a6c7b14bda3786b28b1ea5f394fa1776b093665d73f91e4a3a0bac38b4723",
+      "publishedAtLabel": "Sep 24"
+    },
+    {
+      "id": 13923,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Prtimes.jp",
+      "author": null,
+      "title": "Unify Platform AG\u306f\u5148\u9032\u7684\u306aSaaS\u6280\u8853\u3067\u611f\u67d3\u75c7\u62e1\u5927\u9632\u6b62\u306e\u4e16\u754c\u7684\u53d6\u308a\u7d44\u307f\u306b\u53c2\u52a0",
+      "description": "[\u682a\u5f0f\u4f1a\u793e\u30e6\u30cb\u30d5\u30a1\u30a4\u30b8\u30e3\u30d1\u30f3] [\u753b\u50cf: https://prcdn.freetls.fastly.net/release_image/118117/11/118117-11-d79f6fc9cee198c7ff1d6525418a7476-1880x1480.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000011.000118117.html",
+      "urlToImage": "https://prcdn.freetls.fastly.net/release_image/118117/11/118117-11-d79f6fc9cee198c7ff1d6525418a7476-1880x1480.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "publishedAt": "2024-09-24 03:00:00",
+      "content": "Unify Platform AGMpox2024924IKAR HoldingsSafely2ProsperityS2PBlueStain Global Unify Platform AG SaaS Mpox BlueStain Global Mpox Unify Platform AGCOOMpox Unify Platform AGSaaS Safely2Prosperity \u2026 [+412 chars]",
+      "retrievedAt": "2024-09-25 07:06:45.579663",
+      "internal_id": "f2843aff24d736eb6b1440054b088b8a44a130e3a881b64daed48e21b0ef57c1",
+      "publishedAtLabel": "Sep 24"
+    },
+    {
+      "id": 13908,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Zdnet.co.kr",
+      "author": "\uae40\uc591\uade0 \uae30\uc790",
+      "title": "\uc774\uc7ac\uac11 \uad50\uc218 \"\uc870\ub958 \uc778\ud50c\ub8e8\uc5d4\uc790 \uac10\uc5fc, \uc0ac\ub78c \uac04 \uc804\ud30c \uc704\ud5d8\uc131 \ucee4\u201d",
+      "description": "[\uc9c0\ub514\ub137\ucf54\ub9ac\uc544]\uc774\uc7ac\uac11 \ud55c\ub9bc\ub300 \uac15\ub0a8\uc131\uc2ec\ubcd1\uc6d0 \uac10\uc5fc\ub0b4\uacfc \uad50\uc218\uac00 \uc870\ub958 \uc778\ud50c\ub8e8\uc5d4\uc790 \ud32c\ub370\ubbf9 \ub300\uc751\uc744 \uc704\ud55c \uc608\ubc29\uc811\uc885 \uc804\ub7b5\uc744 \uc81c\uc548\ud588\ub2e4.\ucf54\ub85c\ub09819 \ud32c\ub370\ubbf9 \uc774\ud6c4 \ud5a5\ud6c4 \uc2e0\ubcc0\uc885 \uac10\uc5fc\ubcd1 \ub300\uc751\ub825 \ubcf4\uc720\ub294 \ubcf4\uac74\uc548\ubcf4 \ucc28\uc6d0\uc5d0\uc11c \ubc1b\uc544\ub4e4\uc5ec\uc9c0\uace0 \uc788\ub2e4. \uc5ec\ub7ec \uac10\uc5fc\ubcd1 \uc911\uc5d0\uc11c\ub3c4 \uc870\ub958 \uc778\ud50c\ub8e8\uc5d4\uc790(AI)\ub294 \ub2e4\uc74c \ud32c\ub370\ubbf9\uc744 \ubc1c\uc0dd\uc2dc\ud0ac \uc720\ub825 \ud6c4\ubcf4 \uc911 \ud558\ub098\ub2e4.\ucc38\uace0\ub85c \uc870\ub958 \uc778\ud50c\ub8e8\uc5d4\uc790\ub294 \uc57c\uc0dd \uc218\uc870\ub958\uc5d0\uc11c \ubc1c\uc0dd\ud558\ub294 \uc804\uc5fc\uc131 \ud638\ud761\uae30 \uc9c8\ud658\uc774\ub2e4. \ucd5c\uadfc \uac00\uae09\ub958\uc640 \uc57c\uc0dd \uc870\ub958\ub97c \ub118\uc5b4 \ud3ec\uc720\ub958\ub098 \uc0ac\ub78c\uc5d0\uac8c\uae4c\uc9c0 \uc804\ud30c \uc0ac\ub840\uac00 \ubcf4\uace0\ub418\uace0 \uc788\ub2e4. \ud2b9\u2026",
+      "url": "https://zdnet.co.kr/view/?no=20240924115248",
+      "urlToImage": "https://image.zdnet.co.kr/2024/09/24/4ef2a33dd7f107e116f3ff30c8482080.jpg",
+      "publishedAt": "2024-09-24 02:52:50",
+      "content": ". 19 . (AI) . . . A H5N1 . 300 40 , 4 14 . . AI , . . . 24 2009 , , , . AI . H5 2.3.4.4b Clade . H5N1 , . . . , , . , , mRNA .",
+      "retrievedAt": "2024-09-25 07:06:43.361809",
+      "internal_id": "21098f2d5e7fb44cf65e922db0522699dd5ad4b15449605c880e7356ebdcf95b",
+      "publishedAtLabel": "Sep 24"
+    },
+    {
+      "id": 13914,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "\u0930\u093e\u091c\u0947\u0936 \u0938\u0930\u094b\u0939\u093e",
+      "title": "\u0905\u0902\u0921\u0947 \u0926\u0947\u0928\u0947 \u0915\u093e \u0920\u093f\u0915\u093e\u0928\u093e \u092c\u0926\u0932\u093e... \u0921\u0947\u0902\u0917\u0942 \u0915\u0947 \u092e\u091a\u094d\u091b\u0930 \u0915\u093e \u0932\u093e\u0930\u094d\u0935\u093e \u0916\u094b\u091c\u0928\u093e \u090f\u092e\u0938\u0940\u0921\u0940 \u0915\u0947 \u0932\u093f\u090f \u092c\u0928\u093e \u0938\u093f\u0930\u0926\u0930\u094d\u0926",
+      "description": "Delhi Dengue Cases: \u0926\u093f\u0932\u094d\u0932\u0940 \u092e\u0947\u0902 \u090f\u092e\u0938\u0940\u0921\u0940 \u0915\u0947 \u092a\u092c\u094d\u0932\u093f\u0915 \u0939\u0947\u0932\u094d\u0925 \u0935\u093f\u092d\u093e\u0917 \u0915\u094b \u0921\u0947\u0902\u0917\u0942 \u0915\u0947 \u092e\u091a\u094d\u091b\u0930 \u0915\u093e \u0932\u093e\u0930\u094d\u0935\u093e \u0916\u094b\u091c\u0928\u0947 \u092e\u0947\u0902 \u0915\u0920\u093f\u0928\u093e\u0908 \u0939\u094b \u0930\u0939\u0940 \u0939\u0948\u0964 \u092e\u091a\u094d\u091b\u0930 \u0928\u0947 \u0905\u092a\u0928\u0947 \u091b\u093f\u092a\u0928\u0947 \u0914\u0930 \u0905\u0902\u0921\u0947 \u0926\u0947\u0928\u0947 \u0915\u0940 \u091c\u0917\u0939\u0947\u0902 \u092c\u0926\u0932 \u0932\u0940 \u0939\u0948\u0902, \u091c\u093f\u0938\u0938\u0947 \u0909\u0928\u094d\u0939\u0947\u0902 \u0922\u0942\u0902\u0922\u0928\u093e \u092e\u0941\u0936\u094d\u0915\u093f\u0932 \u0939\u094b \u0917\u092f\u093e \u0939\u0948\u0964 \u0915\u0949\u0932\u094b\u0928\u093f\u092f\u094b\u0902 \u092e\u0947\u0902 \u0916\u093e\u0932\u0940 \u092a\u094d\u0932\u0949\u091f \u0914\u0930 \u092c\u0902\u0926 \u092c\u093f\u0932\u094d\u0921\u093f\u0902\u0917\u094d\u0938 \u092d\u0940 \u091a\u0941\u0928\u094c\u2026",
+      "url": "https://navbharattimes.indiatimes.com/metro/delhi/other-news/finding-dengue-mosquito-larvae-in-delhi-has-become-a-challenge-for-mcd/articleshow/113615269.cms",
+      "urlToImage": "https://static.langimg.com/photo/imgsize-62600,msid-113615641/navbharat-times.jpg",
+      "publishedAt": "2024-09-24 02:49:31",
+      "content": ": - , , - , , , , , , ? ? , , , ... ' ', IPS Adv: , , 75% , , ' , ' ? : , , LLC 2024: ' ' , , , ? 925\u2026 [+170 chars]",
+      "retrievedAt": "2024-09-25 07:06:43.777657",
+      "internal_id": "b23f062334185b85d923d85e9cf69029222195044f135bb909b1ed11264c9764",
+      "publishedAtLabel": "Sep 24"
+    },
+    {
+      "id": 13909,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Zdnet.co.kr",
+      "author": "\uae40\uc591\uade0 \uae30\uc790",
+      "title": "CSL \uc2dc\ud034\ub7ec\uc2a4, \uc870\ub958 \uc778\ud50c\ub8e8\uc5d4\uc790 \ud32c\ub370\ubbf9 \ub300\uc751 \ubc31\uc2e0 \uac1c\ubc1c \ub2a5\ub825 \uc788\uc5b4",
+      "description": "[\uc9c0\ub514\ub137\ucf54\ub9ac\uc544]\uae00\ub85c\ubc8c \ubc31\uc2e0 \uc81c\uc870\uc0ac\uc778 CSL \uc2dc\ud034\ub7ec\uc2a4\uac00 \uc870\ub958 \uc778\ud50c\ub8e8\uc5d4\uc790(AI)\uac00 \uc0ac\ub78c\uc5d0 \uc804\ud30c, \uac10\uc5fc\ubcd1 \ud32c\ub370\ubbf9\uc73c\ub85c \uc774\uc5b4\uc9c8 \ub54c \ub300\uc751\ud560 \ubc31\uc2e0 \ub300\uc751 \ub2a5\ub825\uc744 \ubcf4\uc720\ud558\uace0 \uc788\ub2e4\uace0 \ubc1d\ud614\ub2e4.CSL \uc2dc\ud034\ub7ec\uc2a4\ucf54\ub9ac\uc544\ub294 24\uc77c \uc624\uc804 \uc11c\uc6b8 \uc911\uad6c \ud504\ub808\uc9c0\ub358\ud2b8\ud638\ud154\uc5d0\uc11c \uc5b8\ub860\uacfc \ub9cc\ub098 \uc774 \uac19\uc774 \ubc1d\ud614\ub2e4. AI\ub294 \uc57c\uc0dd \uc218\uc870\ub958\uc5d0\uc11c \ubc1c\uc0dd\ud558\ub294 \uc804\uc5fc\uc131 \ud638\ud761\uae30 \uc9c8\ud658\uc778\ub370, \uac00\uae09\ub958\uc640 \uc57c\uc0dd \uc870\ub958\ub97c \ub118\uc5b4 \ud3ec\uc720\ub958\ub098 \uc0ac\ub78c\uc5d0\uac8c\uae4c\uc9c0 \uc804\ud30c\ub418\ub294 \uc0ac\ub840\uac00 \ubcf4\uace0\ub418\uace0 \uc788\ub2e4.\ud2b9\ud788 A\ud615 \uc778\ud50c\ub8e8\uc5d4\uc790 \ubcc0\uc774\uc778 H5N1\uc758 \uacbd\uc6b0, 300\uc885 \uc774\uc0c1\uc758 \u2026",
+      "url": "https://zdnet.co.kr/view/?no=20240924111707",
+      "urlToImage": "https://image.zdnet.co.kr/2024/09/24/63a202c2cba4acfe39383deb900d0c4c.jpg",
+      "publishedAt": "2024-09-24 02:32:37",
+      "content": "CSL (AI) , . CSL 24 . AI , . A H5N1 , 300 40 . 4 14 . . AI . CSL . MF59 . . CSL 19 . .",
+      "retrievedAt": "2024-09-25 07:06:43.367074",
+      "internal_id": "b42ab7def7a4f511380389cc66cc591c808b341b62b3f12f20fee2e4d10f1b78",
+      "publishedAtLabel": "Sep 24"
+    },
+    {
+      "id": 13916,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Estad\u00e3o Conte\u00fado",
+      "title": "Debate: Marina Helena critica desempenho do governo Lula em vacina\u00e7\u00e3o contra dengue",
+      "description": "A candidata Marina Helena (Novo) criticou o presidente Luiz In\u00e1cio Lula da Silva (PT) pelo ...",
+      "url": "https://www.terra.com.br/noticias/brasil/politica/debate-marina-helena-critica-desempenho-do-governo-lula-em-vacinacao-contra-dengue,adf6ac34710e37c5a8d4bc7dd56a59052qw3vruz.html",
+      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2024-09-24 01:26:28",
+      "content": "A candidata Marina Helena (Novo) criticou o presidente Luiz In\u00e1cio Lula da Silva (PT) pelo desempenho do governo na crise da dengue e questionou por qual motivo ele n\u00e3o foi chamado de \"genocida\". \"A\u2026 [+549 chars]",
+      "retrievedAt": "2024-09-25 07:06:43.801648",
+      "internal_id": "cd3e3156be9581da66d999115f56b7429176676f34d2d8d73d4cb68445611863",
+      "publishedAtLabel": "Sep 24"
+    },
+    {
+      "id": 13921,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Expressen.se",
+      "author": "redaktionen@expressen.se (TT)",
+      "title": "F\u00f6rsta indiska fallet av nya mpox-varianten",
+      "description": "F\u00f6rsta fallet av den nya varianten av sjukdomen mpox \u2013 kallad klad 1b \u2013 har uppt\u00e4ckts i Indien, skriver Reuters med h\u00e4nvisning till landets handelsdepartement.",
+      "url": "https://www.expressen.se/nyheter/varlden/forsta-indiska-fallet-av-nya-mpox-varianten/",
+      "urlToImage": "https://static.bonniernews.se/images/96/1c/961cc0d5bd5743e1b46a7375ec31d0c8/16x9/original.jpg",
+      "publishedAt": "2024-09-24 01:22:06",
+      "content": "Den drabbade uppges vara en 38-\u00e5rig man som reste fr\u00e5n F\u00f6renade Arabemiraten. Han lades till f\u00f6ljd av uppt\u00e4ckten in p\u00e5 sjukhus och flera av hans anh\u00f6riga, liksom medpassagerarna p\u00e5 flyget, har h\u00e5llit\u2026 [+89 chars]",
+      "retrievedAt": "2024-09-25 07:06:45.538422",
+      "internal_id": "e231000a8c6d24d5361c4aea4f47bde90ef3ba71b9baff12a5cec092d646adb4",
+      "publishedAtLabel": "Sep 24"
+    },
+    {
+      "id": 13920,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "svenska-dagbladet",
+      "source_name": "Svenska Dagbladet",
+      "author": "TT",
+      "title": "F\u00f6rsta fallet av nya mpox i Indien",
+      "description": "F\u00f6rsta fallet av den nya varianten av sjukdomen mpox \u2013 kallad klad 1b \u2013 har uppt\u00e4ckts i Indien, skriver Reuters med h\u00e4nvisning till landets handelsdepartement. Den drabbade uppges vara en 38-\u00e5rig man som reste fr\u00e5n F\u00f6renade Arabemiraten. Han lades till f\u00f6ljd \u2026",
+      "url": "https://www.svd.se/a/PpP1mz/forsta-fallet-av-nya-mpox-i-indien",
+      "urlToImage": "https://svd.vgc.no/v2/images/6b491c44-67b8-4e92-bb14-7ac0485c3494?h=630&q=80&upscale=true&w=1200&s=fd0163128c31b1b06594198b877a2d0272178ee9",
+      "publishedAt": "2024-09-24 01:17:12",
+      "content": "F\u00f6rsta fallet av den nya varianten av sjukdomen mpox kallad klad 1b har uppt\u00e4ckts i Indien, skriver Reuters med h\u00e4nvisning till landets handelsdepartement. Den drabbade uppges vara en 38-\u00e5rig man so\u2026 [+172 chars]",
+      "retrievedAt": "2024-09-25 07:06:45.532931",
+      "internal_id": "203c5bbe12f070f048a8ea513a02fae9ff0cf6e566cb62c8223cd8fc0060c193",
+      "publishedAtLabel": "Sep 24"
+    },
+    {
+      "id": 13919,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Aftonbladet.se",
+      "author": "TT",
+      "title": "F\u00f6rsta fallet av nya mpox i Indien",
+      "description": "F\u00f6rsta fallet av den nya varianten av sjukdomen mpox \u2013 kallad klad 1b \u2013 har uppt\u00e4ckts i Indien, skriver Reuters med h\u00e4nvisning till landets handelsdepartement.",
+      "url": "https://www.aftonbladet.se/nyheter/a/W07rd2/forsta-fallet-av-nya-mpox-i-indien",
+      "urlToImage": "https://images.aftonbladet-cdn.se/v2/images/df1b0d2e-0ace-40f9-94ce-e431da15f90e?fit=crop&format=auto&h=1267&q=50&w=1900&s=fb8667478435033028738508f422bfe2334b1182",
+      "publishedAt": "2024-09-24 01:17:11",
+      "content": "share-arrow Dela F\u00f6rsta fallet av den nya varianten av sjukdomen mpox kallad klad 1b har uppt\u00e4ckts i Indien, skriver Reuters med h\u00e4nvisning till landets handelsdepartement. Den drabbade uppges var\u2026 [+265 chars]",
+      "retrievedAt": "2024-09-25 07:06:45.504810",
+      "internal_id": "df68b4f54e23ad882cbb79b432f2bbcc02045179de180f3401c2af95754e4ff6",
+      "publishedAtLabel": "Sep 24"
+    },
+    {
+      "id": 13911,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "info-money",
+      "source_name": "InfoMoney",
+      "author": "F\u00e1bio Matos",
+      "title": "Em \u201cdobradinha\u201d, Mar\u00e7al e Marina Helena cobram governo Lula por vacina contra dengue",
+      "description": "\u201cOnde estavam as vacinas do governo Lula quando tivemos o recorde de mortes por dengue neste ano aqui no Brasil?\u201d, questionou Marina Helena, candidata do Novo. \"Ningu\u00e9m est\u00e1 preocupado\", complementou Mar\u00e7al The post Em \u201cdobradinha\u201d, Mar\u00e7al e Marina Helena cob\u2026",
+      "url": "https://www.infomoney.com.br/politica/em-dobradinha-marcal-e-marina-helena-cobram-governo-lula-por-vacina-contra-dengue/",
+      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2024/09/marina-helena_0a3920.jpg?quality=70",
+      "publishedAt": "2024-09-24 00:31:45",
+      "content": "Os candidatos Pablo Mar\u00e7al (PRTB) e Marina Helena (Novo), que disputam a prefeitura de S\u00e3o Paulo (SP), fizeram uma dobradinha no primeiro bloco do debate desta segunda-feira (23), promovido pelo Grup\u2026 [+1978 chars]",
+      "retrievedAt": "2024-09-25 07:06:43.739956",
+      "internal_id": "c3ce798f6553bd53ea3de122ffddf3b4547d563f425c007be7066b11c79fa034",
+      "publishedAtLabel": "Sep 24"
+    },
+    {
+      "id": 13906,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Chathamstartribune.com",
+      "author": "",
+      "title": "Pittsylvania-Danville Health District issues rabies warning",
+      "description": "The Pittsylvania-Danville Health District has issued a rabies warning after a raccoon tested positive in the 500 block of Iris Lane, just outside Danville. Residents and visitors who may have",
+      "url": "https://www.chathamstartribune.com/news/article_4673fcb4-7a01-11ef-a383-9b49aaff9c8e.html",
+      "urlToImage": "https://bloximages.chicago2.vip.townnews.com/chathamstartribune.com/content/tncms/assets/v3/editorial/5/c2/5c21caee-857b-11ee-8933-0b1eebd37228/6557b7ff5d131.image.jpg?crop=1662%2C873%2C0%2C187&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2024-09-24 00:15:42",
+      "content": "The Pittsylvania-Danville Health District has issued a rabies warning after a raccoon tested positive in the 500 block of Iris Lane, just outside Danville. Residents and visitors who may have had con\u2026 [+1767 chars]",
+      "retrievedAt": "2024-09-25 07:06:42.464714",
+      "internal_id": "0a102699ffb28b115ca5c3150c68eb4a433a188845e9e69b0b9c19be6384b29e",
+      "publishedAtLabel": "Sep 24"
+    },
+    {
+      "id": 13924,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Taiwo Ojoye",
+      "title": "No significant research on Mpox in Nigeria \u2013 Academy",
+      "description": "The Academy of Medicine Specialties on Public Health said there are almost no research and development efforts on Mpox in Nigeria. A statement by the Chairman, the Rapid Response Initiative Committee, Prof. Obinna Onwujekwe, and Member, Rapid Response Initiat\u2026",
+      "url": "https://punchng.com/no-significant-research-on-mpox-in-nigeria-academy/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2024/08/16201032/Mpox.jpg",
+      "publishedAt": "2024-09-24 00:00:56",
+      "content": "The Academy of Medicine Specialties on Public Health said there are almost no research and development efforts on Mpox in Nigeria. A statement by the Chairman, the Rapid Response Initiative Committe\u2026 [+4009 chars]",
+      "retrievedAt": "2024-09-25 07:06:45.589804",
+      "internal_id": "156cadb81c06fd0b616fce4d830bc53e57ac75b0757b94c419c2bf5e7a598aeb",
+      "publishedAtLabel": "Sep 24"
+    },
+    {
+      "id": 13926,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Durgesh Nandan Jha",
+      "title": "Kerala Dubai returnee is India's first Mpox patient with fast-spreading strain",
+      "description": "India News: NEW DELHI: India has reported its first case of Monkeypox (Mpox) caused by the fast-spreading Clade 1B strain of the virus.",
+      "url": "https://timesofindia.indiatimes.com/india/kerala-dubai-returnee-is-indias-1st-mpox-patient-with-fast-spreading-strain/articleshow/113613516.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-113613563,width-1070,height-580,imgsize-494349,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-09-23 23:38:39",
+      "content": "How to make easy dump &amp; dine Tofu Salad for dinner",
+      "retrievedAt": "2024-09-25 07:06:45.652074",
+      "internal_id": "2a6980aec4901d78ea8a9135acbbc6f1a4406d73b8a01614f09f3a5d48f93c28",
+      "publishedAtLabel": "Sep 23"
+    },
+    {
+      "id": 13922,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Activistpost.com",
+      "author": "Activist Post",
+      "title": "Mpox, Project Bioshield: Everyone\u2019s Dark Winter?",
+      "description": "By Sonia Elijah In 2022, mpox (formerly known as monkey pox) drew worldwide attention, when more than 20 countries reported infections to the World Health... Mpox, Project Bioshield: Everyone\u2019s Dark Winter?",
+      "url": "https://www.activistpost.com/2024/09/mpox-project-bioshield-everyones-dark-winter.html",
+      "urlToImage": "https://www.activistpost.com/wp-content/uploads/2024/09/bioshield-1024x595-1.jpg",
+      "publishedAt": "2024-09-23 23:38:14",
+      "content": "By Sonia Elijah In 2022, mpox (formerly known as monkey pox) drew worldwide attention, when more than 20 countries reported infections to the World Health Organization by May of that year. It led to\u2026 [+11508 chars]",
+      "retrievedAt": "2024-09-25 07:06:45.574032",
+      "internal_id": "3cfba6bf832544653f070b2a482e29815d55e51215fce1ec922919a4aa886eed",
+      "publishedAtLabel": "Sep 23"
+    },
+    {
+      "id": 13907,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "ars-technica",
+      "source_name": "Ars Technica",
+      "author": "Beth Mole",
+      "title": "Bird flu is spreading rapidly in California; infected herds double over weekend",
+      "description": "The state reported its first infected herds on August 30.",
+      "url": "https://arstechnica.com/science/2024/09/bird-flu-is-spreading-rapidly-in-california-infected-herds-double-over-weekend/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/GettyImages-2151866021-760x380.jpg",
+      "publishedAt": "2024-09-23 22:43:34",
+      "content": "Enlarge/ Cows being milked in Wisconsin on May 8, 2024. 0 The H5N1 bird flu appears to be stampeding through dairy farms in California, the country's largest milk producer. Over the weekend, the to\u2026 [+3592 chars]",
+      "retrievedAt": "2024-09-25 07:06:43.351325",
+      "internal_id": "fb46d94d47ddf32e69f8b361744199015cc67c52bbb8c9ac5ffc2749dcd5a0bd",
+      "publishedAtLabel": "Sep 23"
+    },
+    {
+      "id": 13910,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Uol.com.br",
+      "author": "Instituto Butantan",
+      "title": "Por que a dengue \u00e9 transmitida pelo Aedes aegypti? Entenda como os v\u00edrus podem se adaptar a diferentes mosquitos",
+      "description": "Outras esp\u00e9cies circulantes no pa\u00eds tamb\u00e9m t\u00eam potencial de transmitir arboviroses; migra\u00e7\u00e3o de mosquitos para meio urbano gera preocupa\u00e7\u00e3o The post Por que a dengue \u00e9 transmitida pelo Aedes aegypti? Entenda como os v\u00edrus podem se adaptar a diferentes mosqui\u2026",
+      "url": "https://gizmodo.uol.com.br/por-que-a-dengue-e-transmitida-pelo-aedes-aegypti-entenda-como-os-virus-podem-se-adaptar-a-diferentes-mosquitos/",
+      "urlToImage": "https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2024/09/butantan-aedes-0.jpg",
+      "publishedAt": "2024-09-23 22:41:24",
+      "content": "Esse processo ocorre quando a f\u00eamea do mosquito, que precisa de sangue para produzir seus ovos, se alimenta de uma pessoa infectada. O sangue fica armazenado no intestino m\u00e9dio do inseto, onde \u00e9 dige\u2026 [+6837 chars]",
+      "retrievedAt": "2024-09-25 07:06:43.717269",
+      "internal_id": "4dbcfb135047fe6d8dddac4807221e440f0696490c20417c608240d1ade2a938",
+      "publishedAtLabel": "Sep 23"
+    },
+    {
+      "id": 13927,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Perfil.com",
+      "author": "Perfil Brasil",
+      "title": "OMS: \u00c1frica soma quase 30 mil casos suspeitos de mpox este ano",
+      "description": "Em 2024, a Rep\u00fablica Democr\u00e1tica do Congo foi a mais afetada, com o sistema de testes sobrecarregado",
+      "url": "https://brasil.perfil.com/mundo/oms-africa-soma-quase-30-mil-casos-suspeitos-de-mpox-este-ano.phtml",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/09/23/202397826-abre-perfil-brasil-2024-09-23t131710541.jpg",
+      "publishedAt": "2024-09-23 21:26:05",
+      "content": "Cerca de 30 mil casos suspeitos de mpox foram registrados na \u00c1frica at\u00e9 agora neste ano, a maioria deles na Rep\u00fablica Democr\u00e1tica do Congo, onde os testes est\u00e3o esgotados, informou a Organiza\u00e7\u00e3o Mund\u2026 [+1876 chars]",
+      "retrievedAt": "2024-09-25 07:06:45.687057",
+      "internal_id": "07c49d147e0093de37a466efeb37039dbdbf001e4659d641693d7c2573ca48df",
+      "publishedAtLabel": "Sep 23"
+    },
+    {
+      "id": 13913,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Thehillstimes.in",
+      "author": "The Hills Times",
+      "title": "MP govt launches awareness campaign to eliminate mosquito-borne diseases",
+      "description": "BHOPAL, Sept 23: The Madhya Pradesh government has launched a public awareness campaign to prevent malaria and dengue as part of the elimination of the mosquito-borne endemic diseases (EMBED) programme, an official said on Monday. The state government has par\u2026",
+      "url": "https://thehillstimes.in/national/mp-govt-launches-awareness-campaign-to-eliminate-mosquito-borne-diseases",
+      "urlToImage": null,
+      "publishedAt": "2024-09-23 20:20:00",
+      "content": "BHOPAL, Sept 23: The Madhya Pradesh government has launched a public awareness campaign to prevent malaria and dengue as part of the elimination of the mosquito-borne endemic diseases (EMBED) program\u2026 [+1873 chars]",
+      "retrievedAt": "2024-09-25 07:06:43.759528",
+      "internal_id": "9f10fa768b0e94ae6cc31dd2c104817cd2ae088684e0d27e3337925fede51c3a",
+      "publishedAtLabel": "Sep 23"
+    },
+    {
+      "id": 13912,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Thehillstimes.in",
+      "author": "The Hills Times",
+      "title": "3,800 dengue cases, 1,500 of malaria in MP this year: Health official",
+      "description": "BHOPAL, Sept 23: Nearly 3,800 cases of dengue and 1,500 of malaria have been detected in Madhya Pradesh so far this year, a health official said on Monday. There have been three-four deaths suspected to have been caused due to dengue, but they are not confirm\u2026",
+      "url": "https://thehillstimes.in/national/3800-dengue-cases-1500-of-malaria-in-mp-this-year-health-official",
+      "urlToImage": null,
+      "publishedAt": "2024-09-23 20:05:00",
+      "content": "BHOPAL, Sept 23: Nearly 3,800 cases of dengue and 1,500 of malaria have been detected in Madhya Pradesh so far this year, a health official said on Monday. There have been three-four deaths suspecte\u2026 [+992 chars]",
+      "retrievedAt": "2024-09-25 07:06:43.749837",
+      "internal_id": "474ae7d7a7ee375199dd3e1fd386a50bc1eddcc91a06fd98acf5e73b1f4c46eb",
+      "publishedAtLabel": "Sep 23"
+    },
+    {
+      "id": 13915,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Nacion.com",
+      "author": "Irene Rodr\u00edguez",
+      "title": "Dengue en Costa Rica: dos de las muertes investigadas s\u00ed se debieron a la enfermedad",
+      "description": "Dos de las muertes investigadas por dengue s\u00ed estaban relacionadas con el virus, las otras 11 s\u00ed ten\u00edan dengue al morir, pero la causa fue otra.",
+      "url": "https://www.nacion.com/ciencia/salud/dengue-en-costa-rica-dos-de-las-muertes/37XROA7IBBECHFNW3HKHUPMGIA/story/",
+      "urlToImage": "https://www.nacion.com/resizer/v2/RLGZA6Y4Q5BNFIO2WJQ7HHOAJE.jpg?smart=true&auth=5165af51e6d19f1a64468eef17dbd4adbb42f7f00cd837b88777dd41a7585b38&width=1440",
+      "publishedAt": "2024-09-23 19:39:37",
+      "content": "Mariela Mar\u00edn Mena, directora general de salud del Ministerio de Salud indic\u00f3 que se trata de un hombre y de una mujer, ambos entre los 40 y los 50 a\u00f1os. Los dos pacientes hab\u00edan sido infectados con \u2026 [+2496 chars]",
+      "retrievedAt": "2024-09-25 07:06:43.783250",
+      "internal_id": "0bc6d9195e3e14497bed11b1fe83442c9f06584c85bd4f60b21c7fda36ac30b9",
+      "publishedAtLabel": "Sep 23"
+    },
     {
       "id": 13867,
       "query": [
@@ -127,6 +543,24 @@
       "content": "The Kerala health department announced plans to release revised guidelines for the prevention and treatment of Mpox, a decision that came in the wake of the southern state reporting the country's fir\u2026 [+2392 chars]",
       "retrievedAt": "2024-09-24 19:05:57.163815",
       "internal_id": "7a5d990f32116f53e7ea8af6154df7f26e0f73b667e3df22825a789b93460dd7",
+      "publishedAtLabel": "Sep 23"
+    },
+    {
+      "id": 13929,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "BusinessLine",
+      "author": "BL New Delhi Bureau",
+      "title": "Health Ministry issues show-cause notice to ghee supplier after Tirupati laddu row",
+      "description": "Health Ministry issues show-cause notice to ghee supplier for adulteration, while Kerala reports first case of MPOX Clade-I strain.",
+      "url": "https://www.thehindubusinessline.com/news/national/health-ministry-issues-show-cause-notice-to-ghee-supplier-after-tirupati-laddu-row/article68674234.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/3p29em/article68675135.ece/alternates/LANDSCAPE_1200/IMG_Laddu_prasadam_2_1_Q6DC317K.jpg",
+      "publishedAt": "2024-09-23 16:15:07",
+      "content": "The Health Ministry has issued a show-cause notice to one of the companies that supplied ghee to the Tirupati temple, sources said. The notice has been sent by the Food Safety and Standards Authority\u2026 [+1637 chars]",
+      "retrievedAt": "2024-09-25 07:06:45.706810",
+      "internal_id": "ab0d96be361e5a6b40ae5574fcc70335c8a9e78507e57b8eacb9f818ee11e439",
       "publishedAtLabel": "Sep 23"
     },
     {
@@ -793,6 +1227,24 @@
       "content": "JOHOR BARU: Dengue cases in Johor increased 45.6% to 10,982 in the 38th epidemiological week (ME38), compared to 7,543 in the same period last year. Johor health and environment committee chairman L\u2026 [+1331 chars]",
       "retrievedAt": "2024-09-24 19:05:55.327896",
       "internal_id": "412bb68222eb4470225ff6aeab92388fdeba45f582b965c079fb4b496cbf0592",
+      "publishedAtLabel": "Sep 23"
+    },
+    {
+      "id": 13930,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Dispositivo port\u00e1til criado na Unicamp detecta sinal de infarto pela saliva; veja como funciona",
+      "description": "Equipamento, desenvolvido em projeto de doutorado, tem sensor acoplado a smartphone e, al\u00e9m do infarto, tamb\u00e9m pode diagnosticar Covid-19, mpox e outras. Pesquisadores da Unicamp criam dispositivo capaz de detectar sinal de infarto pela saliva Pesquisadores d\u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2024/09/23/dispositivo-portatil-criado-na-unicamp-detecta-sinal-de-infarto-pela-saliva-veja-como-funciona.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/F1j1bVBOI462622wXwQjAucySsQ=/1200x/smart/filters:cover():strip_icc()/s03.video.glbimg.com/x720/12940250.jpg",
+      "publishedAt": "2024-09-23 08:02:58",
+      "content": "Para entender como o dispositivo funciona, o g1 conversou com o pesquisador colaborador do Instituto de Qu\u00edmica da Unicamp Lucas Felipe de Lima, autor da tese de doutorado que deu origem \u00e0 ferramenta\u2026 [+4433 chars]",
+      "retrievedAt": "2024-09-25 07:06:45.712469",
+      "internal_id": "3f87d0b2bb4a32c4e839150c1b7815c4e198c3d0f0d1b818c25729188ba52f34",
       "publishedAtLabel": "Sep 23"
     },
     {
@@ -36417,6 +36869,96 @@
       "content": "New Delhi: As monsoon sets in, a surge in demand for seasonal products within the respiratory, anti-infective, and anti-malarial therapeutic categories have been seen. According to market research fi\u2026 [+2057 chars]",
       "retrievedAt": "2024-08-13 07:06:53.668946",
       "internal_id": "788082dfad686671baa5d198494d28d10cd1324336e7c378c20a4ca94df63381",
+      "publishedAtLabel": "Aug 11"
+    },
+    {
+      "id": 11882,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Faz.net",
+      "author": "Claudia Br\u00f6ll",
+      "title": "Sorge wegen Ausbreitung des Mpox-Virus in Afrika",
+      "description": "Eine neue Variante des Mpox-Virus breitet sich in Afrika aus. Mehr als 15.000 F\u00e4lle wurden seit Jahresbeginn registriert. Beh\u00f6rden sehen eine \u201ealarmierende Entwicklung\u201c, die WHO beruft einen Notfallausschuss ein.",
+      "url": "https://www.faz.net/aktuell/gesellschaft/gesundheit/mpox-virus-in-afrika-neue-variante-breitet-sich-aus-19913273.html",
+      "urlToImage": "https://media0.faz.net/ppmedia/aktuell/gesellschaft/805874728/1.9913288/facebook_teaser/eine-krankenschwester.jpg",
+      "publishedAt": "2024-08-11 18:54:32",
+      "content": "Einen Tag zuvor hatte die Weltgesundheitsorganisation wegen der weiteren Ausbreitung innerhalb und au\u00dferhalb Afrikas einen Notfallausschuss einberufen. Er solle pr\u00fcfen, ob der Ausbruch eine gesundhei\u2026 [+3470 chars]",
+      "retrievedAt": "2024-08-12 19:06:08.676886",
+      "internal_id": "0599adcff99139707421aeae9c960be048397ae165f7ba2a5be3e2c6faecae74",
+      "publishedAtLabel": "Aug 11"
+    },
+    {
+      "id": 11879,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Tbsnews.net",
+      "author": "Unb",
+      "title": "One dies of dengue; 202 hospitalised in 24hrs",
+      "description": "One death was reported from dengue in 24 hours till Sunday morning, raising the number of fatalities from the mosquito-borne disease in Bangladesh to 65 this year. During the period, 202 more patients were hospitalised with viral fever, according to the Direc\u2026",
+      "url": "https://www.tbsnews.net/bangladesh/health/one-dies-dengue-202-hospitalised-24hrs-914511",
+      "urlToImage": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/09/13/dengue-rajib-dhar.jpg",
+      "publishedAt": "2024-08-11 16:30:41",
+      "content": "One death was reported from dengue in 24 hours till Sunday morning, raising the number of fatalities from the mosquito-borne disease in Bangladesh to 65 this year. During the period, 202 more patien\u2026 [+433 chars]",
+      "retrievedAt": "2024-08-12 19:06:07.168514",
+      "internal_id": "37f7c12f867094cc1a16e3d59c506550898ea9a60433c1c8aa866ca050c80c98",
+      "publishedAtLabel": "Aug 11"
+    },
+    {
+      "id": 11878,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "DIE WELT",
+      "author": "Christina Sticht, Philipp Znidar",
+      "title": "Oropouche-Ausbruch weitet sich aus",
+      "description": "Brasilien meldet fast 7500 F\u00e4lle \u2013 und die ersten Todesopfer. W\u00e4hrend das Land zugleich gegen Dengue-Fieber k\u00e4mpfen muss, wird nun untersucht, welches Risiko f\u00fcr Schwangere durch Oropouche besteht. Ein Experte erkl\u00e4rt, ob sich das Virus auch in Deutschland ve\u2026",
+      "url": "https://www.welt.de/gesundheit/article252950606/Epidemie-Kann-sich-das-Oropouche-Virus-in-Deutschland-ausbreiten.html",
+      "urlToImage": "https://img.welt.de/img/gesundheit/mobile252950602/6217936867-ci16x9-w1200/Fumace-Alberto-Torre.jpg",
+      "publishedAt": "2024-08-11 15:08:07",
+      "content": "Brasilien meldet fast 7500 F\u00e4lle und die ersten Todesopfer. W\u00e4hrend das Land zugleich gegen Dengue-Fieber k\u00e4mpfen muss, wird nun untersucht, welches Risiko f\u00fcr Schwangere durch Oropouche besteht. Ein\u2026 [+6484 chars]",
+      "retrievedAt": "2024-08-12 19:06:07.079239",
+      "internal_id": "ce8eb764efff712d7a622b489b1873a03b3e8d8098b3653e186668fcb3b2e7d0",
+      "publishedAtLabel": "Aug 11"
+    },
+    {
+      "id": 11880,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Digi24.ro",
+      "author": "Maria Isopescu",
+      "title": "Epidemia de \u201evariola maimu\u021bei\u201d se r\u0103sp\u00e2nde\u0219te \u00een mai multe \u021b\u0103ri africane. OMS convoac\u0103 un comitet de urgen\u021b\u0103",
+      "description": "Organiza\u0163ia Mondial\u0103 a S\u0103n\u0103t\u0103\u0163ii (OMS) convoac\u0103 un comitet de urgen\u0163\u0103 pe tema mpox - cunoscut\u0103 \u015fi sub denumirea de ''variola maimu\u0163ei'' \u2013 pentru 14 august, pentru a evalua necesitatea decret\u0103rii celui mai \u00eenalt nivel de alert\u0103 \u00een fa\u0163a actualei epidemii din ma\u2026",
+      "url": "https://www.digi24.ro/stiri/actualitate/sanatate/epidemia-de-variola-maimutei-se-raspandeste-in-mai-multe-tari-africane-oms-convoaca-un-comitet-de-urgenta-2890979",
+      "urlToImage": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA1dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjIl/MkYwNSUyRjIxJTJGMTUxMzIxNl8xNTEz/MjE2X3ZhcmlvbGEtbWFpbXV0ZWktcHJv/ZmltZWRpYS0xLmpwZyZ3PTEyMDAmaD02/MzAmemM9MSZoYXNoPWFkMzI1ZGNkYmRhOTI5ZjhhNjgxODcyZGNhMWFhODQ3.thumb.jpg",
+      "publishedAt": "2024-08-11 08:39:07",
+      "content": "Organizaia Mondial a Sntii (OMS) convoac un comitet de urgen pe tema mpox - cunoscut i sub denumirea de ''variola maimuei'' pentru 14 august, pentru a evalua necesitatea decretrii celui mai \u00eenalt niv\u2026 [+2452 chars]",
+      "retrievedAt": "2024-08-12 19:06:08.583653",
+      "internal_id": "5ac2f3f9b68c5e4620042b101959245bf9f874a3a72a6e135db969c98891fb73",
+      "publishedAtLabel": "Aug 11"
+    },
+    {
+      "id": 11881,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "L'Express",
+      "author": "Victor Garcia",
+      "title": "Nouvelle \u00e9pid\u00e9mie de Mpox : \"On sait ce qu\u2019est une pand\u00e9mie, et on n\u2019en veut pas\"",
+      "description": "Une nouvelle souche de la variole du singe, qui pourrait \u00eatre plus transmissible et plus l\u00e9tale, inqui\u00e8te l\u2019OMS, qui devrait rehausser son alerte d\u2019ici quelques jours.",
+      "url": "https://www.lexpress.fr/sciences-sante/sciences/nouvelle-epidemie-de-mpox-on-sait-ce-quest-une-pandemie-et-on-nen-veut-pas-Q7QJWCFML5EUPD4L7AI5JGQ5KY/",
+      "urlToImage": "https://www.lexpress.fr/resizer/v2/3BLCYWTIM5DVFAXCSHB6JYYGCQ.jpg?auth=73a3f28297ce361e6afab5c58e26ba7607687405803332bdeef8d8eab18fd0e1&width=1200&height=630&quality=85&smart=true",
+      "publishedAt": "2024-08-11 08:30:00",
+      "content": "Faut-il sinqui\u00e9ter de l\u00e9pid\u00e9mie du nouveau variant de Mpox, aussi appel\u00e9 \"variole du singe\" ? D\u00e9tect\u00e9e en R\u00e9publique d\u00e9mocratique du Congo (RDC) en septembre 2023, la maladie se propage depuis dans p\u2026 [+9165 chars]",
+      "retrievedAt": "2024-08-12 19:06:08.644131",
+      "internal_id": "0dfa34437a537e8a5cbdc57d532f591befba6cc39776b010ecea1850110e83f7",
       "publishedAtLabel": "Aug 11"
     }
   ]
