@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 25
-- **Last harvest:** 2024-09-25 07:06
-- **Most recent article:** 2024-09-24 06:00:41
+- **New articles in last harvest:** 43
+- **Last harvest:** 2024-09-26 07:06
+- **Most recent article:** 2024-09-25 05:40:31
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-33 | 24-34 | 24-35 | 24-36 | 24-37 | 24-38 | 24-39 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 288 | 208 | 207 | 184 | 192 | 140 | 43 | 1262 |
-| dengue | 50 | 64 | 45 | 49 | 76 | 73 | 20 | 377 |
+| mpox | 288 | 208 | 207 | 184 | 192 | 140 | 67 | 1286 |
+| dengue | 50 | 64 | 45 | 49 | 76 | 73 | 30 | 387 |
 | malaria | 18 | 27 | 28 | 14 | 12 | 15 | 10 | 124 |
-| h5n1 | 8 | 5 | 10 | 31 | 10 | 17 | 8 | 89 |
+| h5n1 | 8 | 5 | 10 | 31 | 10 | 17 | 12 | 93 |
 | zika | 10 | 21 | 2 | 6 | 10 | 8 | 0 | 57 |
 | rabies | 12 | 6 | 3 | 7 | 5 | 13 | 4 | 50 |
-| chikungunya | 8 | 10 | 1 | 5 | 13 | 9 | 0 | 46 |
-| meningitis | 8 | 11 | 5 | 6 | 3 | 10 | 1 | 44 |
-| measles | 3 | 7 | 11 | 9 | 5 | 8 | 0 | 43 |
+| chikungunya | 8 | 10 | 1 | 5 | 13 | 9 | 1 | 47 |
+| meningitis | 8 | 11 | 5 | 6 | 3 | 10 | 3 | 46 |
+| measles | 3 | 7 | 11 | 9 | 5 | 8 | 1 | 44 |
 | pertussis | 3 | 5 | 2 | 1 | 5 | 3 | 2 | 21 |
+| typhoid | 1 | 2 | 1 | 1 | 0 | 0 | 3 | 8 |
 | leptospirosis | 1 | 4 | 0 | 1 | 0 | 1 | 1 | 8 |
 | hpai | 1 | 1 | 0 | 3 | 1 | 0 | 2 | 8 |
-| typhoid | 1 | 2 | 1 | 1 | 0 | 0 | 2 | 7 |
 | yersinia | 0 | 1 | 1 | 2 | 0 | 2 | 0 | 6 |
 
 
@@ -33,6 +33,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-39 (typhoid)
+
+- [Typhoid Fever Drug Pipeline Report 2024: Therapeutic Assessment, Commercial and Clinical Advancements, Future Outlook and Ongoing Developments](https://www.globenewswire.com/news-release/2024/09/24/2952362/28124/en/Typhoid-Fever-Drug-Pipeline-Report-2024-Therapeutic-Assessment-Commercial-and-Clinical-Advancements-Future-Outlook-and-Ongoing-Developments.html) (GlobeNewswire)
 
 - [India faces growing threat as key antibiotics lose effectiveness, says ICMR](https://www.business-standard.com/health/india-faces-growing-threat-as-key-antibiotics-lose-effectiveness-says-icmr-124092300738_1.html) (Business Standard)
 
@@ -55,6 +57,54 @@ Source: [News API](https://newsapi.org/)
 - [Whooping cough cases are soaring. Can infecting people help test a better vaccine?](https://www.wxii12.com/article/whooping-cough-cases-soaring-vaccine/62305261) (WXII12 Winston-Salem)
 
 ## 24-39 (mpox)
+
+- [India Reports First Case of Highly-Transmissible Mpox Clade 1b Variant in Kerala](https://www.gadgets360.com/science/news/india-confirms-first-mpox-clade-1b-case-highly-transmissible-virus-strain-in-kerala-man-returning-from-dubai-6639511) (Gadgets360.com)
+
+- [Emerging Monkeypox Virus Sublineage C.1 Causing Community Transmission, Vietnam, 2023](https://wwwnc.cdc.gov/eid/article/30/11/24-0729_article) (Cdc.gov)
+
+- [Cidade de São Paulo registra 32 novos casos de mpox em uma semana](https://www.metropoles.com/sao-paulo/cidade-de-sao-paulo-registra-32-novos-casos-de-mpox-em-uma-semana) (Metropoles.com)
+
+- [EUA irão doar 1 milhão de doses de vacina contra mpox para conter surto na África](https://www.terra.com.br/noticias/mundo/eua-irao-doar-1-milhao-de-doses-de-vacina-contra-mpox-para-conter-surto-na-africa,efac171cfdec4dc87efee11377411006c62ism72.html) (Terra.com.br)
+
+- [Câte doze de vaccin împotriva mpox vor oferi Statele Unite către Africa. Anunțul președintelui Biden de la tribuna ONU](https://www.digi24.ro/stiri/externe/mapamond/cate-doze-de-vaccin-impotriva-mpox-vor-oferi-statele-unite-catre-africa-anuntul-presedintelui-biden-de-la-tribuna-onu-2942235) (Digi24.ro)
+
+- [Mpox virüsünün yeni varyantı Hindistan'da tespit edildi](https://www.haber7.com/dunya/haber/3463075-mpox-virusunun-yeni-varyanti-hindistanda-tespit-edildi) (Haber7.com)
+
+- [USA køber vaccine fra Bavarian Nordic for over 400 millioner kroner](https://www.dr.dk/nyheder/seneste/usa-koeber-vaccine-fra-bavarian-nordic-over-400-millioner-kroner) (Www.dr.dk)
+
+- [Biden pledges mpox aid to Africa in his valedictory speech to the United Nations](https://www.npr.org/2024/09/24/nx-s1-5121426/biden-mpox-unga-ukraine-gaza-sudan-ai) (NPR)
+
+- [Les États-Unis vont offrir 1 million de doses de vaccin anti-mpox à l’Afrique](https://www.lavenir.net/actu/monde/2024/09/24/les-etats-unis-vont-offrir-1-million-de-doses-de-vaccin-anti-mpox-a-lafrique-LBINI4JSRVHYHMCNOZAV5O46SQ/) (Lavenir.net)
+
+- [EU donará un millón de vacunas contra mpox a países africanos](https://www.milenio.com/internacional/estados-unidos-donara-millon-dosis-vacunas-mpox) (Milenio)
+
+- [С начала 2024 года оспой обезьян заболели почти 30 тысяч человек](https://nplus1.ru/news/2024/09/24/mpox-thrives) (Nplus1.ru)
+
+- [Bavarian Nordic Awarded USD 63 Million from the U.S. Government for Production and Supply of Additional Smallpox/Mpox Vaccines](https://www.globenewswire.com/news-release/2024/09/24/2952413/0/en/Bavarian-Nordic-Awarded-USD-63-Million-from-the-U-S-Government-for-Production-and-Supply-of-Additional-Smallpox-Mpox-Vaccines.html) (GlobeNewswire)
+
+- [Bavarian Nordic modtager USD 63 mio. fra den amerikanske regering for produktion og levering af yderligere koppe- og mpoxvacciner](https://www.globenewswire.com/news-release/2024/09/24/2952413/0/da/Bavarian-Nordic-modtager-USD-63-mio-fra-den-amerikanske-regering-for-produktion-og-levering-af-yderligere-koppe-og-mpoxvacciner.html) (GlobeNewswire)
+
+- [Les Etats-Unis vont offrir un million de doses de vaccin anti-mpox](https://www.sudinfo.be/id885369/article/2024-09-24/les-etats-unis-vont-offrir-un-million-de-doses-de-vaccin-anti-mpox) (Sudinfo.be)
+
+- [SUA vor dona un milion de doze de vaccin anti-Mpox pentru a stopa epidemia din Africa](https://www.mediafax.ro/externe/sua-vor-dona-un-milion-de-doze-de-vaccin-anti-mpox-pentru-a-stopa-epidemia-din-africa-22494954) (Mediafax.ro)
+
+- [India Reports First Case Of Mpox From Fast-Spreading 'Clade 1b' Variety](https://www.ndtv.com/india-news/india-reports-first-case-of-mpox-from-fast-spreading-clade-1b-variety-6640333) (NDTV News)
+
+- [Tweede Kamer wil dat Agema alsnog ‘per direct’ mpox-vaccins aan Afrika doneert](https://www.nrc.nl/nieuws/2024/09/24/tweede-kamer-wil-dat-agema-alsnog-per-direct-mpox-vaccins-aan-afrika-doneert-a4866990) (Www.nrc.nl)
+
+- [Índia reporta primeiro caso da nova e perigosa variante da Mpox no sul da Ásia](https://observador.pt/2024/09/24/india-reporta-primeiro-caso-da-nova-e-perigosa-variante-da-mpox-no-sul-da-asia/) (Observador.pt)
+
+- [What is Mpox Clade 1 variant? All about this fast spreading strain in India](https://www.business-standard.com/health/what-is-mpox-clade-1-variant-all-about-this-fast-spreading-strain-in-india-124092400824_1.html) (Business Standard)
+
+- [« L’épidémie de mpox et la multiplication d’émergences infectieuses doit remettre en question nos façons d’habiter la Terre »](https://www.lemonde.fr/sciences/article/2024/09/24/l-epidemie-de-mpox-et-la-multiplication-d-emergences-infectieuses-doit-remettre-en-question-nos-facons-d-habiter-la-terre_6331379_1650684.html) (Le Monde)
+
+- [US to donate 1 million mpox vaccine doses to halt outbreak in Africa](https://www.channelnewsasia.com/world/us-donate-1-million-mpox-vaccine-doses-halt-outbreak-africa-4627726) (CNA)
+
+- [Индия сообщила о первом случае нового штамма обезьяньей оспы](https://korrespondent.net/world/4718577-yndyia-soobschyla-o-pervom-sluchae-novoho-shtamma-obezianei-ospy) (Korrespondent.net)
+
+- [India’s first Mpox clade 1 case in Kerala: Symptoms, treatment, risk factors, travel advices and other details](https://m.economictimes.com/news/india/indias-first-mpox-clade-1-case-in-kerala-symptoms-treatment-risk-factors-travel-advices-and-other-details/first-case-in-india/slideshow/113628068.cms) (Economictimes.com)
+
+- [Hindistan ilk M Çiçeği vakasını duyurdu](https://anlatilaninotesi.com.tr/20240924/hindistan-ilk-m-cicegi-vakasini-duyurdu-1088365910.html) (Anlatilaninotesi.com.tr)
 
 - [India confirms first mpox case in current outbreak](https://www.bbc.com/news/articles/clyl1jlxr02o) (BBC News)
 
@@ -144,7 +194,15 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-39 (meningitis)
 
+- [Cristina Regojo: «Deberíamos vacunar a los jóvenes contra el meningococo B»](https://www.lavozdegalicia.es/noticia/vigo/vigo/2024/09/25/deberiamos-vacunar-jovenes-contra-meningococo-b/0003_202409V25C4991.htm) (Lavozdegalicia.es)
+
+- [Nerea tenía meningitis, pero los médicos pensaron que estaba drogada y que la habían violado: "A mi hija la dejaron morir"](https://www.meneame.net/m/actualidad/nerea-tenia-meningitis-pero-medicos-pensaron-estaba-drogada-hija) (Meneame.net)
+
 - [Nerea tenía meningitis, pero los médicos pensaron que estaba drogada y que la habían violado: "A mi hija la dejaron morir"](https://www.elperiodico.com/es/sucesos/20240924/nerea-meningitis-negligencia-medica-cadiz-108492730) (Elperiodico.com)
+
+## 24-39 (measles)
+
+- [Health authorities in England carefully hid MMR vaccine levels as deadly measles cases surged across country and into Scotland](https://talkingupscotlandtwo.com/2024/09/24/health-authorities-in-england-carefully-hid-mmr-vaccine-levels-as-deadly-measles-cases-surged-across-country-and-into-scotland/) (Talkingupscotlandtwo.com)
 
 ## 24-39 (malaria)
 
@@ -180,6 +238,14 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-39 (h5n1)
 
+- [Un estudio publicado en «Nature» advierte de que las estrategias contra la gripe aviar no están funcionando](https://www.lavozdegalicia.es/noticia/somosagro/ganaderia/2024/09/24/estudio-publicado-nature-advierte-estrategias-contra-gripe-aviar-funcionando/00031727204241215491461.htm) (Lavozdegalicia.es)
+
+- [Bird Flu Is Spreading Quickly In California](https://www.shtfplan.com/headline-news/bird-flu-is-spreading-quickly-in-california) (Shtfplan.com)
+
+- [Alattomosan terjed emberre a madárinfluenza](https://www.portfolio.hu/gazdasag/20240924/alattomosan-terjed-emberre-a-madarinfluenza-711977) (Portfolio.hu)
+
+- [Las estrategias de control de la gripe aviar "no están funcionando", advierte un estudio](https://www.montevideo.com.uy/Salud/Las-estrategias-de-control-de-la-gripe-aviar-no-estan-funcionando--advierte-un-estudio-uc901197) (Montevideo.com.uy)
+
 - [이재갑 교수 "조류 인플루엔자 감염, 사람 간 전파 위험성 커”](https://zdnet.co.kr/view/?no=20240924115248) (Zdnet.co.kr)
 
 - [CSL 시퀴러스, 조류 인플루엔자 팬데믹 대응 백신 개발 능력 있어](https://zdnet.co.kr/view/?no=20240924111707) (Zdnet.co.kr)
@@ -197,6 +263,26 @@ Source: [News API](https://newsapi.org/)
 - ["Пернатые пираты" ускоряют распространение смертельного птичьего гриппа, выяснили ученые](https://www.gazeta.ru/science/news/2024/09/22/23979301.shtml) (Gazeta.ru)
 
 ## 24-39 (dengue)
+
+- [Des moustiques tigres porteurs de la dengue identifiés en France](https://www.techno-science.net/actualite/moustiques-tigres-porteurs-dengue-identifies-france-N25639.html) (Techno-science.net)
+
+- [Exclusive - Mera Balam Thandedaar actress Shruti Choudhary on recovering from Dengue: When I was unwell, I kept on crying because I had drips, IV injections and they were very painful](https://timesofindia.indiatimes.com/tv/news/hindi/exclusive-mera-balam-thandedaar-actress-shruti-choudhary-on-recovering-from-dengue-when-i-was-unwell-i-kept-on-crying-because-i-had-drips-iv-injections-and-they-were-very-painful/articleshow/113648664.cms) (The Times of India)
+
+- [Pese a la crisis económica, Cuba cuenta "con lo elemental para salvar vidas" ante las arbovirosis](https://noticiaslatam.lat/20240924/pese-a-la-crisis-economica-cuba-cuenta-con-lo-elemental-para-salvar-vidas-ante-las-arbovirosis-1157747115.html) (Noticiaslatam.lat)
+
+- [Ciudad: a partir de mañana, habilitarán los turnos para la vacunación contra el dengue](https://www.lanacion.com.ar/sociedad/ciudad-a-partir-de-manana-habilitaran-los-turnos-para-la-vacunacion-contra-el-dengue-nid24092024/) (La Nacion)
+
+- [Detectaron tres preocupantes mutaciones que hacen al mosquito del dengue resistente a insecticidas en el AMBA](https://www.lanacion.com.ar/sociedad/detectaron-tres-preocupantes-mutaciones-que-hacen-al-mosquito-del-dengue-resistente-a-insecticidas-nid24092024/) (La Nacion)
+
+- [Los larvicidas dispersados por mosquitos ayudan a controlar el dengue, según un estudio](https://www.montevideo.com.uy/Salud/Los-larvicidas-dispersados-por-mosquitos-ayudan-a-controlar-el-dengue-segun-un-estudio-uc901196) (Montevideo.com.uy)
+
+- [Dengue cases rises in Kathmandu valley](https://english.khabarhub.com/2024/24/400939/) (Khabarhub.com)
+
+- [Delhi logs 300 dengue cases in a week; worldwide cases double than 2023](https://www.business-standard.com/india-news/delhi-logs-300-dengue-cases-in-a-week-worldwide-cases-double-than-2023-124092400758_1.html) (Business Standard)
+
+- [Why are dengue cases rising globally while mosquito control lags behind?](https://www.business-standard.com/health/why-are-dengue-cases-rising-globally-while-mosquito-control-lags-behind-124092400625_1.html) (Business Standard)
+
+- [Mrunal Thakur auditions for 'Manjulika's character](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mrunal-thakur-channels-manjulika-in-hilarious-bts-video-from-hi-nanna/articleshow/113628902.cms) (The Times of India)
 
 - [अंडे देने का ठिकाना बदला... डेंगू के मच्छर का लार्वा खोजना एमसीडी के लिए बना सिरदर्द](https://navbharattimes.indiatimes.com/metro/delhi/other-news/finding-dengue-mosquito-larvae-in-delhi-has-become-a-challenge-for-mcd/articleshow/113615269.cms) (The Times of India)
 
@@ -237,6 +323,10 @@ Source: [News API](https://newsapi.org/)
 - [Alarma por dengue: Tehuacán registra más de 400 casos; 99% de serotipo 3](https://www.milenio.com/estados/alarma-por-dengue-tehuacan-registra-mas-de-400-casos) (Milenio)
 
 - [Dengue: o que está sendo feito para aumentar a oferta de imunizantes?](https://www.metropoles.com/saude/aumentar-oferta-vacinas-contra-dengue) (Metropoles.com)
+
+## 24-39 (chikungunya)
+
+- [State to check for virus mutation amid chikungunya surge](https://timesofindia.indiatimes.com/city/mumbai/state-to-check-for-virus-mutation-amid-chikungunya-surge/articleshow/113643476.cms) (The Times of India)
 
 ## 24-38 (zika)
 

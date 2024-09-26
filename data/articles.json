@@ -1,8 +1,782 @@
 {
-  "last_updated": "2024-09-25 07:06",
-  "count_articles_total": 2048,
-  "count_articles_new": 25,
+  "last_updated": "2024-09-26 07:06",
+  "count_articles_total": 2091,
+  "count_articles_new": 43,
   "articles": [
+    {
+      "id": 13960,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Gadgets360.com",
+      "author": "Gadgets 360 Staff",
+      "title": "India Reports First Case of Highly-Transmissible Mpox Clade 1b Variant in Kerala",
+      "description": "India has reported its first mpox case with the highly transmissible clade 1b strain. A 38-year-old man from Kerala, recently returned from Dubai, has been infected with the new variant. Health authorities are tracing and monitoring 66 contacts, including 29 \u2026",
+      "url": "https://www.gadgets360.com/science/news/india-confirms-first-mpox-clade-1b-case-highly-transmissible-virus-strain-in-kerala-man-returning-from-dubai-6639511",
+      "urlToImage": "https://i.gadgets360cdn.com/large/lab_1727242939127.jpg",
+      "publishedAt": "2024-09-25 05:40:31",
+      "content": "India has recorded its first case of the new mpox strain, known as Clade 1b, in Kerala. This new strain is highly transmissible and has been connected to the mpox outbreak in Africa. The case involve\u2026 [+1438 chars]",
+      "retrievedAt": "2024-09-26 07:06:35.245411",
+      "internal_id": "5428220ae10a452fdf860445bdbce09456cc5b25be0f61f8300d66d8e80c4ba1",
+      "publishedAtLabel": "Sep 25"
+    },
+    {
+      "id": 13944,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Techno-science.net",
+      "author": "C\u00e9dric DEPOND",
+      "title": "Des moustiques tigres porteurs de la dengue identifi\u00e9s en France",
+      "description": "Des moustiques tigres porteurs du virus de la dengue ont \u00e9t\u00e9 captur\u00e9s pour la premi\u00e8re fois en France. Cette d\u00e9couverte pourrait bien marquer un tournant dans la surveillance de cette...",
+      "url": "https://www.techno-science.net/actualite/moustiques-tigres-porteurs-dengue-identifies-france-N25639.html",
+      "urlToImage": "https://static.techno-science.net/illustration/Libre/PXB/13/mosquito-1332382-1280.jpg",
+      "publishedAt": "2024-09-25 04:00:10",
+      "content": "Des moustiques tigres porteurs du virus de la dengue ont \u00e9t\u00e9 captur\u00e9s pour la premi\u00e8re fois en France. Cette d\u00e9couverte pourrait bien marquer un tournant dans la surveillance de cette maladie.Pourquo\u2026 [+3019 chars]",
+      "retrievedAt": "2024-09-26 07:06:33.616397",
+      "internal_id": "1a93d007c6648494e91f2fe668ccdbb80cc17c84b7f0743df2d77c961274d82c",
+      "publishedAtLabel": "Sep 25"
+    },
+    {
+      "id": 13966,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Emerging Monkeypox Virus Sublineage C.1 Causing Community Transmission, Vietnam, 2023",
+      "description": "Monkeypox Virus Sublineage C.1, Vietnam, 2023",
+      "url": "https://wwwnc.cdc.gov/eid/article/30/11/24-0729_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2024-09-25 04:00:00",
+      "content": "To date, most globally reported mpox sequences have come from Europe and North America, where sustained human-to-human transmission has resulted in explosive mpox outbreaks, especially in 2022 (1). A\u2026 [+8890 chars]",
+      "retrievedAt": "2024-09-26 07:06:35.300457",
+      "internal_id": "dd705b0ba1b71e6788bce4aa8ab65aba61a03fc1a748fd64b165ff29334763bb",
+      "publishedAtLabel": "Sep 25"
+    },
+    {
+      "id": 13933,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Lavozdegalicia.es",
+      "author": "Efe",
+      "title": "Un estudio publicado en \u00abNature\u00bb advierte de que las estrategias contra la gripe aviar no est\u00e1n funcionando",
+      "description": "Un grupo e investigadores del Instituto Pirbright de ciencias veterinarias de Reino Unido ha analizado los brotes en granjas peleteras de Galicia, en focas en Sudam\u00e9rica y tambi\u00e9n en vacas lecheras de Estados Unidos",
+      "url": "https://www.lavozdegalicia.es/noticia/somosagro/ganaderia/2024/09/24/estudio-publicado-nature-advierte-estrategias-contra-gripe-aviar-funcionando/00031727204241215491461.htm",
+      "urlToImage": "https://img.lavdg.com/sc/PVqH1NptbHzjSn6yTNRQ1QLayNQ=/1280x/2024/09/24/00121727204701850381938/Foto/S30S1037.jpg",
+      "publishedAt": "2024-09-25 03:00:00",
+      "content": "Una investigaci\u00f3n recogida este martes en la revista Natureadvierte de que las estrategias de control del virus de la gripe aviar (H5N1) \u00abno est\u00e1n funcionando\u00bb, por lo que cabe la posibilidad de que \u2026 [+3501 chars]",
+      "retrievedAt": "2024-09-26 07:06:33.294983",
+      "internal_id": "3741235be98ecf59168a313e6936ef8f3943a624e4cb53a4ea76ed6958688774",
+      "publishedAtLabel": "Sep 25"
+    },
+    {
+      "id": 13946,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Lavozdegalicia.es",
+      "author": "\u00c1ngel Paniagua",
+      "title": "Cristina Regojo: \u00abDeber\u00edamos vacunar a los j\u00f3venes contra el meningococo B\u00bb",
+      "description": "La Asociaci\u00f3n Espa\u00f1ola contra la Meningitis estrena hoy en Vigo el documental \u00abLa meningitis en Galicia m\u00e1s all\u00e1 de las cifras\u00bb",
+      "url": "https://www.lavozdegalicia.es/noticia/vigo/vigo/2024/09/25/deberiamos-vacunar-jovenes-contra-meningococo-b/0003_202409V25C4991.htm",
+      "urlToImage": "https://img.lavdg.com/sc/N2UNm-HxUy31j7z6ONFLvPBYqiw=/1280x/2024/09/24/00121727204881283942766/Foto/VS25C4F1_21638.jpg",
+      "publishedAt": "2024-09-25 03:00:00",
+      "content": "La Asociaci\u00f3n Espa\u00f1ola contra la Meningitis presenta hoy (C\u00edrculo de Empresarios de Galicia, Garc\u00eda Barb\u00f3n 62, Vigo, 19.00 horas) el documental La meningitis en Galicia m\u00e1s all\u00e1 de las cifras. La pre\u2026 [+2866 chars]",
+      "retrievedAt": "2024-09-26 07:06:33.980391",
+      "internal_id": "fb09e0250d4836b13f5fb798787f5674a5886872761d989378390fdfb9e73d78",
+      "publishedAtLabel": "Sep 25"
+    },
+    {
+      "id": 13939,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Vijaya Tiwari",
+      "title": "Exclusive - Mera Balam Thandedaar actress Shruti Choudhary on recovering from Dengue: When I was unwell, I kept on crying because I had drips, IV injections and they were very painful",
+      "description": "Shruti Choudhary, star of Mera Balam Thanedaar, opened up about her battle with dengue and painful recovery. Despite emotional distress and physical pain, she is now recovering and grateful for fan support. She also teased a significant plot twist in the show\u2026",
+      "url": "https://timesofindia.indiatimes.com/tv/news/hindi/exclusive-mera-balam-thandedaar-actress-shruti-choudhary-on-recovering-from-dengue-when-i-was-unwell-i-kept-on-crying-because-i-had-drips-iv-injections-and-they-were-very-painful/articleshow/113648664.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-113648662,width-1070,height-580,imgsize-46906,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-09-25 01:37:44",
+      "content": "Mera Balam Thanedaar's Shruti Choudhary On Upcoming Twist, Bond with Shagun Pandey &amp; Health Issues",
+      "retrievedAt": "2024-09-26 07:06:33.545421",
+      "internal_id": "1508b73cb5fed47ae4804252f453ee38b83e79885e65eeda04394ad2dedcf57f",
+      "publishedAtLabel": "Sep 25"
+    },
+    {
+      "id": 13941,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Noticiaslatam.lat",
+      "author": "Danay Galletti Hern\u00e1ndez",
+      "title": "Pese a la crisis econ\u00f3mica, Cuba cuenta \"con lo elemental para salvar vidas\" ante las arbovirosis",
+      "description": "Las elevadas temperaturas y el incremento de las lluvias en Cuba resultan, de acuerdo con las autoridades sanitarias, los desencadenantes de la aparici\u00f3n de las arbovirosis, especialmente, las transmitidas por mosquitos, entre ellas, fiebre amarilla, dengue, \u2026",
+      "url": "https://noticiaslatam.lat/20240924/pese-a-la-crisis-economica-cuba-cuenta-con-lo-elemental-para-salvar-vidas-ante-las-arbovirosis-1157747115.html",
+      "urlToImage": "https://cdn.img.noticiaslatam.lat/images/sharing/article/spa/1157747115.jpg?11492645261727221261",
+      "publishedAt": "2024-09-24 23:41:00",
+      "content": "No obstante, \"la crisis tambi\u00e9n afecta en este sentido; la falta de medicamentos b\u00e1sicos ha sido reconocida por las autoridades sanitarias y en los hospitales escasean los insumos, lo cual impacta en\u2026 [+107 chars]",
+      "retrievedAt": "2024-09-26 07:06:33.562983",
+      "internal_id": "b98c472400789db2cf84c2828d9b4a556af377cbeac59db1c8d651202c18a733",
+      "publishedAtLabel": "Sep 24"
+    },
+    {
+      "id": 13943,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "Fabiola Czubaj",
+      "title": "Ciudad: a partir de ma\u00f1ana, habilitar\u00e1n los turnos para la vacunaci\u00f3n contra el dengue",
+      "description": "Ser\u00e1 solo para el grupo de entre 15 y 19 a\u00f1os; m\u00e1s adelante seguir\u00e1n con otros; habr\u00e1 nueve sitios de aplicaci\u00f3n",
+      "url": "https://www.lanacion.com.ar/sociedad/ciudad-a-partir-de-manana-habilitaran-los-turnos-para-la-vacunacion-contra-el-dengue-nid24092024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/se-aplicara-la-vacuna-qdenga-del-laboratorio-XKUXVASGHJEXTEWO2RM2D4RQDI.jpeg?auth=9738955d199269a3203d02ed1defa17d0944323b5cea0c314a74ede3059ed500&width=768&quality=70&smart=false",
+      "publishedAt": "2024-09-24 22:29:22",
+      "content": "La Ciudad habilitar\u00e1 ma\u00f1ana los turnos online para la aplicaci\u00f3n sin costo de la vacuna contra el dengue en nueve puntos del distrito definidos por la cartera sanitaria local. Se podr\u00e1n registrar sol\u2026 [+3623 chars]",
+      "retrievedAt": "2024-09-26 07:06:33.579685",
+      "internal_id": "91368145bc02a5190d159ea5ba8bc0b1502a630a22739d05e86a3313e5b20c18",
+      "publishedAtLabel": "Sep 24"
+    },
+    {
+      "id": 13964,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Bruna Sales",
+      "title": "Cidade de S\u00e3o Paulo registra 32 novos casos de mpox em uma semana",
+      "description": "S\u00e3o Paulo chegou a 398 casos confirmados de mpox, segundo a Secretaria da Sa\u00fade. Balan\u00e7o considera per\u00edodo de janeiro at\u00e9 19 de setembro",
+      "url": "https://www.metropoles.com/sao-paulo/cidade-de-sao-paulo-registra-32-novos-casos-de-mpox-em-uma-semana",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/09/24132920/mpox-costas.jpg",
+      "publishedAt": "2024-09-24 19:57:06",
+      "content": "S\u00e3o Paulo A cidade de S\u00e3o Paulo registrou 398 casos confirmados de mpox de janeiro a 19 de setembro de 2024, de acordo com o \u00faltimo boletim epidemiol\u00f3gico da Secretaria Municipal da Sa\u00fade, divulgado \u2026 [+6962 chars]",
+      "retrievedAt": "2024-09-26 07:06:35.283657",
+      "internal_id": "9e99fde52fce5fb71113a5edbd5a5e4e51056061b3ca31bdbb1a1fce852cb353",
+      "publishedAtLabel": "Sep 24"
+    },
+    {
+      "id": 13971,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Reuters",
+      "title": "EUA ir\u00e3o doar 1 milh\u00e3o de doses de vacina contra mpox para conter surto na \u00c1frica",
+      "description": "O presidente dos Estados Unidos, Joe Biden, anunciou nesta ter\u00e7a-feira a doa\u00e7\u00e3o de 1 milh\u00e3o de ...",
+      "url": "https://www.terra.com.br/noticias/mundo/eua-irao-doar-1-milhao-de-doses-de-vacina-contra-mpox-para-conter-surto-na-africa,efac171cfdec4dc87efee11377411006c62ism72.html",
+      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2024-09-24 19:23:39",
+      "content": "O presidente dos Estados Unidos, Joe Biden, anunciou nesta ter\u00e7a-feira a doa\u00e7\u00e3o de 1 milh\u00e3o de doses de vacina contra mpox e pelo menos 500 milh\u00f5es de d\u00f3lares para apoiar os pa\u00edses africanos no enfre\u2026 [+1073 chars]",
+      "retrievedAt": "2024-09-26 07:06:35.353100",
+      "internal_id": "8ab6fc23a5facc4f34a6c5eaf1585b5363489f811f9feea2e7a990db47b801bf",
+      "publishedAtLabel": "Sep 24"
+    },
+    {
+      "id": 13942,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": null,
+      "title": "Detectaron tres preocupantes mutaciones que hacen al mosquito del dengue resistente a insecticidas en el AMBA",
+      "description": "La presencia de tres mutaciones podr\u00eda generar problemas en la eficacia de la fumigaci\u00f3n, cada vez m\u00e1s cerca de la temporada alta del mosquito; el descubrimiento lo realizaron investigadores de la Universidad de La Plata",
+      "url": "https://www.lanacion.com.ar/sociedad/detectaron-tres-preocupantes-mutaciones-que-hacen-al-mosquito-del-dengue-resistente-a-insecticidas-nid24092024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/las-fumigaciones-podrian-ser-el-motivo-por-el-que-LEBMWTEDWFHL5MURVGIPNZRGXE.jpg?auth=9f807804cab8b892fb8b996cfccbfb998172079fdcf81345b9d860531abace1a&width=768&quality=70&smart=false",
+      "publishedAt": "2024-09-24 18:42:21",
+      "content": "Cinco a\u00f1os despu\u00e9s de que cient\u00edficos de la Universidad Nacional de La Plata (UNLP) descubrieran una mutaci\u00f3n g\u00e9nica que hace al Aedes aegypti, mosquito del dengue, resistente a insecticidas, este ma\u2026 [+4601 chars]",
+      "retrievedAt": "2024-09-26 07:06:33.573193",
+      "internal_id": "d8bd984402606618725099f2f4c5bef196bdb98e588d722eaec9f9e371be89e6",
+      "publishedAtLabel": "Sep 24"
+    },
+    {
+      "id": 13948,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TNN",
+      "title": "State to check for virus mutation amid chikungunya surge",
+      "description": "Mumbai: Considering the nearly 55% rise in chikungunya viral fever cases this year compared to last year, the health department has decided to conduct.",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/state-to-check-for-virus-mutation-amid-chikungunya-surge/articleshow/113643476.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-09-24 18:30:40",
+      "content": "10 ingredients used for making healthy dumplings",
+      "retrievedAt": "2024-09-26 07:06:34.800008",
+      "internal_id": "9e9d431647dcebec3d71047256e74a3a0637d28e1d47ba24bc5474a2c85a1458",
+      "publishedAtLabel": "Sep 24"
+    },
+    {
+      "id": 13972,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Digi24.ro",
+      "author": "Ana Petrescu",
+      "title": "C\u00e2te doze de vaccin \u00eempotriva mpox vor oferi Statele Unite c\u0103tre Africa. Anun\u021bul pre\u0219edintelui Biden de la tribuna ONU",
+      "description": "Statele Unite vor oferi un milion de doze anti-mpox \u0163\u0103rilor de pe continentul african unde a lovit aceast\u0103 epidemie, a anun\u0163at mar\u0163i pre\u015fedintele Joe Biden la tribuna ONU la New York, transmite Agerpres.",
+      "url": "https://www.digi24.ro/stiri/externe/mapamond/cate-doze-de-vaccin-impotriva-mpox-vor-oferi-statele-unite-catre-africa-anuntul-presedintelui-biden-de-la-tribuna-onu-2942235",
+      "urlToImage": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjQl/MkYwOSUyRjI0JTJGMjA4NDA1MV8yMDg0/MDUxX3Byb2ZpbWVkaWEtMDkxMTQzMzQ0/My5qcGcmdz0xMjAwJmg9NjMwJnpjPTEm/aGFzaD03OWEwMGNhOWQ0MWMxMGMxNmM2Nzg4YjA5ZTZiODhlMg==.thumb.jpg",
+      "publishedAt": "2024-09-24 18:05:28",
+      "content": "Statele Unite vor oferi un milion de doze anti-mpox rilor de pe continentul african unde a lovit aceast epidemie, a anunat mari preedintele Joe Biden la tribuna ONU la New York, transmite Agerpres. \u2026 [+2091 chars]",
+      "retrievedAt": "2024-09-26 07:06:35.368336",
+      "internal_id": "e7d759677ae97a99b5bc035cf83d649315b98f3ecff9f7879059d48e64f03b8b",
+      "publishedAtLabel": "Sep 24"
+    },
+    {
+      "id": 13932,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Shtfplan.com",
+      "author": "Mac Slavo",
+      "title": "Bird Flu Is Spreading Quickly In California",
+      "description": "The number of infected cattle herds infected with H5N1 bird flu in California has doubled over the weekend. This strain of bird flu appears to be spreading through dairy farms in California, the country's largest milk producer.",
+      "url": "https://www.shtfplan.com/headline-news/bird-flu-is-spreading-quickly-in-california",
+      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2023/12/bird-flu.jpg",
+      "publishedAt": "2024-09-24 17:30:09",
+      "content": "The number of infected cattle herds infected with H5N1 bird flu in California has doubled over the weekend. This strain of bird flu appears to be spreading through dairy farms in California, the coun\u2026 [+2688 chars]",
+      "retrievedAt": "2024-09-26 07:06:33.279338",
+      "internal_id": "b1fe79d1a43ce8c22c83bc894d6c5adbde752048927e247e5e18367352d7c13b",
+      "publishedAtLabel": "Sep 24"
+    },
+    {
+      "id": 13956,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Haber7.com",
+      "author": "Ahmet Aydemir",
+      "title": "Mpox vir\u00fcs\u00fcn\u00fcn yeni varyant\u0131 Hindistan'da tespit edildi",
+      "description": "Hindistan, Afrika'da mpox vir\u00fcs\u00fcn\u00fcn daha bula\u015f\u0131c\u0131 bir varyant\u0131n\u0131n \u00fclkede bir ki\u015fide g\u00f6r\u00fcld\u00fc\u011f\u00fcn\u00fc a\u00e7\u0131klad\u0131.",
+      "url": "https://www.haber7.com/dunya/haber/3463075-mpox-virusunun-yeni-varyanti-hindistanda-tespit-edildi",
+      "urlToImage": "https://i12.haber7.net//haber/haber7/og_image/2024/39/mpox_virusunun_yeni_varyanti_hindistanda_tespit_edildi_1727196528_1523.jpg",
+      "publishedAt": "2024-09-24 16:49:00",
+      "content": "D\u00fcnya Salk \u00d6rg\u00fct\u00fc (WHO), mpox vir\u00fcs\u00fcn\u00fcn bu daha bulac Clade I varyant nedeniyle Austos aynda k\u00fcresel halk sal acil durumu ilan etmiti. BBC'deki habere g\u00f6re Hint kamu sal yetkilileri, vir\u00fcs\u00fcn daha bu\u2026 [+711 chars]",
+      "retrievedAt": "2024-09-26 07:06:35.190463",
+      "internal_id": "9cf0d454a379b544f34f859dcafea07538319a6cdd9a0a2819ba7cbc96a6b974",
+      "publishedAtLabel": "Sep 24"
+    },
+    {
+      "id": 13951,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.dr.dk",
+      "author": null,
+      "title": "USA k\u00f8ber vaccine fra Bavarian Nordic for over 400 millioner kroner",
+      "description": "Det danske medicinalfirma Bavarian Nordic har indg\u00e5et en aftale med USA om levering af virksomhedens vaccine mod kopper og mpox til en v\u00e6rdi af mere end 400 millioner kroner. Det skriver Bavarian Nordic i en pressemeddelelse.",
+      "url": "https://www.dr.dk/nyheder/seneste/usa-koeber-vaccine-fra-bavarian-nordic-over-400-millioner-kroner",
+      "urlToImage": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fapi.dr.dk%2Ffreja%2Fimage%2Fraw%2F317&w=700",
+      "publishedAt": "2024-09-24 16:40:00",
+      "content": "Konkurrenceevnen i dansk eliteidr\u00e6t er under pres. Det er konklussionen p\u00e5 et nyt notat fra Idr\u00e6ttens Analyseinstitut, Idan, efter sommerens OL. Idan forventede 13 danske medaljer i Paris, men det b\u2026 [+1125 chars]",
+      "retrievedAt": "2024-09-26 07:06:35.103337",
+      "internal_id": "fddca0096d4691c2983b59a58f0d6dc44a5b78bc4c9163bc6b404dff1fa16c6f",
+      "publishedAtLabel": "Sep 24"
+    },
+    {
+      "id": 13950,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Asma Khalid",
+      "title": "Biden pledges mpox aid to Africa in his valedictory speech to the United Nations",
+      "description": "President Biden talked about the sweeping changes he has seen during his long career, urged an end to wars in Ukraine, Gaza and Sudan, and said \"some things are more important than staying in power.\"",
+      "url": "https://www.npr.org/2024/09/24/nx-s1-5121426/biden-mpox-unga-ukraine-gaza-sudan-ai",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F76%2Fc3%2F3ae6148f4e528b15a7227f9d75df%2Fgettyimages-2174187948.jpg",
+      "publishedAt": "2024-09-24 16:32:26",
+      "content": "President Biden on Tuesday announced new aid to try to stem the mpox epidemic in a valedictory address to the United Nationswhere he expressed optimism in the face of wars and other global challenges\u2026 [+3665 chars]",
+      "retrievedAt": "2024-09-26 07:06:35.087934",
+      "internal_id": "22066fb9eaf4e80846451979d31ad5c46148d7fa9a995b38412fb02a321cef29",
+      "publishedAtLabel": "Sep 24"
+    },
+    {
+      "id": 13961,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Lavenir.net",
+      "author": "Belga Belga",
+      "title": "Les \u00c9tats-Unis vont offrir 1 million de doses de vaccin anti-mpox \u00e0 l\u2019Afrique",
+      "description": "Nous sommes pr\u00eats \u00e0 promettre 500 millions de dollars pour aider les pays africains \u00e0 faire face \u00e0 cette \u00e9pid\u00e9mie, et nous donnons maintenant un million de doses du vaccin anti-mpox\u201d, a d\u00e9clar\u00e9 Joe Biden devant l\u2019Assembl\u00e9e g\u00e9n\u00e9rale des Nations unies. ...",
+      "url": "https://www.lavenir.net/actu/monde/2024/09/24/les-etats-unis-vont-offrir-1-million-de-doses-de-vaccin-anti-mpox-a-lafrique-LBINI4JSRVHYHMCNOZAV5O46SQ/",
+      "urlToImage": "https://www.lavenir.net/resizer/v2/RBNVP63V2FCWFB2HR25NP72S6A.jpg?auth=f79a3cfad2334474d7e5f555caf270dd5f4f9437320b61f5747813fc4cac30da&width=1200&height=630&quality=85&focal=256%2C170&watermark=https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Fipmgroup%2FUVYY255VT5BDBHOGCTGBCGI364.png%3A100%3A0%2C558",
+      "publishedAt": "2024-09-24 16:20:13",
+      "content": "\"Nous devons agir rapidement pour lutter contre l'\u00e9pid\u00e9mie de mpox en Afrique. Nous sommes pr\u00eats \u00e0 promettre 500 millions de dollars pour aider les pays africains \u00e0 faire face \u00e0 cette \u00e9pid\u00e9mie, et no\u2026 [+1689 chars]",
+      "retrievedAt": "2024-09-26 07:06:35.251317",
+      "internal_id": "8a9ae7a1e9ed7092de29620a88296563e52588dbfceda37bff267568c1c346d9",
+      "publishedAtLabel": "Sep 24"
+    },
+    {
+      "id": 13934,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Portfolio.hu",
+      "author": "Portfolio.hu",
+      "title": "Alattomosan terjed emberre a mad\u00e1rinfluenza",
+      "description": "A mad\u00e1rinfluenza terjed\u00e9se aggodalomra ad okot az Egyes\u00fclt \u00c1llamokban, ahol a v\u00edrus jelenleg a tejel\u0151 tehenek k\u00f6z\u00f6tt terjed, miut\u00e1n az \u00e9v elej\u00e9n vadon \u00e9l\u0151 madarakb\u00f3l \u00e1tker\u00fclt. A helyzet s\u00falyoss\u00e1g\u00e1t jelzi, hogy m\u00e1r n\u00e9gy szarvasmarhatelep dolgoz\u00f3ja is megfert\u0151z\u2026",
+      "url": "https://www.portfolio.hu/gazdasag/20240924/alattomosan-terjed-emberre-a-madarinfluenza-711977",
+      "urlToImage": "https://pcdn.hu/articles/images-md/7/0/3/703807.jpg",
+      "publishedAt": "2024-09-24 15:58:00",
+      "content": "Dr. Thomas Peacock, a Pirbright Int\u00e9zet \u00e1llatr\u00f3l emberre terjed v\u00edrusokkal foglalkoz\u00f3 szak\u00e9rtje figyelmeztetett, hogy a H5N1 v\u00edrus terjed\u00e9s\u00e9t nem siker\u00fclt megfelelen nyomon k\u00f6vetni \u00e9s ellenrizni. A \u2026 [+1113 chars]",
+      "retrievedAt": "2024-09-26 07:06:33.301292",
+      "internal_id": "bde43c948a7ed08ee0dc61d930ff3ac947799b8cb3821e4482e1b1077d2649c6",
+      "publishedAtLabel": "Sep 24"
+    },
+    {
+      "id": 13967,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Milenio",
+      "author": "Agencia AFP",
+      "title": "EU donar\u00e1 un mill\u00f3n de vacunas contra mpox a pa\u00edses africanos",
+      "description": "Estados Unidos donar\u00e1 un mill\u00f3n de dosis de la vacuna contra la viruela del mono (mpox) a los pa\u00edses africanos afectados por la epidemia, anunci\u00f3 este martes el presidente estadunidense Joe Biden.\"Debemos actuar con rapidez para combatir la epidemia de viruel\u2026",
+      "url": "https://www.milenio.com/internacional/estados-unidos-donara-millon-dosis-vacunas-mpox",
+      "urlToImage": "https://cdn.milenio.com/uploads/media/2024/09/24/linea-fabricacion-bavarian-nordic-obtenida.jpg",
+      "publishedAt": "2024-09-24 15:58:00",
+      "content": "Estados Unidos donar\u00e1 un mill\u00f3n de dosis de la vacuna contra la viruela del mono (mpox) a los pa\u00edses africanos afectados por la epidemia, anunci\u00f3 este martes el presidente estadunidense Joe Biden. \"\u2026 [+1398 chars]",
+      "retrievedAt": "2024-09-26 07:06:35.307109",
+      "internal_id": "728b72ccd93d70d2bfef5f30a6d9a1a8f080f6c87b9b87e89c809d58af3ff042",
+      "publishedAtLabel": "Sep 24"
+    },
+    {
+      "id": 13957,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Nplus1.ru",
+      "author": "\u041e\u043b\u0435\u0433 \u041b\u0438\u0449\u0443\u043a",
+      "title": "\u0421 \u043d\u0430\u0447\u0430\u043b\u0430 2024 \u0433\u043e\u0434\u0430 \u043e\u0441\u043f\u043e\u0439 \u043e\u0431\u0435\u0437\u044c\u044f\u043d \u0437\u0430\u0431\u043e\u043b\u0435\u043b\u0438 \u043f\u043e\u0447\u0442\u0438 30 \u0442\u044b\u0441\u044f\u0447 \u0447\u0435\u043b\u043e\u0432\u0435\u043a",
+      "description": "\u0421 \u043d\u0430\u0447\u0430\u043b\u0430 2024 \u0433\u043e\u0434\u0430 \u043e\u0441\u043f\u043e\u0439 \u043e\u0431\u0435\u0437\u044c\u044f\u043d \u0437\u0430\u0431\u043e\u043b\u0435\u043b\u0438 \u043f\u043e\u0447\u0442\u0438 30 \u0442\u044b\u0441\u044f\u0447 \u0447\u0435\u043b\u043e\u0432\u0435\u043a",
+      "url": "https://nplus1.ru/news/2024/09/24/mpox-thrives",
+      "urlToImage": "https://minio.nplus1.ru/app-images/957166/66f2db4945a12_cover_share.jpg",
+      "publishedAt": "2024-09-24 15:55:00",
+      "content": "() (, mpox ). , 2024 15 29342 , , 6201 ( -), 812 . 26 , . . , : 2082 . 2022 ( -). , , 2024 15600 537 . , , .",
+      "retrievedAt": "2024-09-26 07:06:35.196232",
+      "internal_id": "eacd004881c7b4d2bb763db486a50508c1244ddafdd225749d4e2e3eb47ded32",
+      "publishedAtLabel": "Sep 24"
+    },
+    {
+      "id": 13962,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Bavarian Nordic A/S",
+      "title": "Bavarian Nordic Awarded USD 63 Million from the U.S. Government for Production and Supply of Additional Smallpox/Mpox Vaccines",
+      "description": "COPENHAGEN, Denmark, September 24, 2024 \u2013 Bavarian Nordic A/S (OMX: BAVA) today announced that it has received an additional order valued at USD 63 million from the Biomedical Advanced Research and Development Authority (BARDA), part of the Administration for\u2026",
+      "url": "https://www.globenewswire.com/news-release/2024/09/24/2952413/0/en/Bavarian-Nordic-Awarded-USD-63-Million-from-the-U-S-Government-for-Production-and-Supply-of-Additional-Smallpox-Mpox-Vaccines.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/bbcf063e-cba2-4e1d-b8cd-9279c8088ae9",
+      "publishedAt": "2024-09-24 15:30:00",
+      "content": "Contract will further strengthen the U.S, bulk vaccine inventory and secure additional freeze-dried dosesDeliveries planned for 2025 and beyondCOPENHAGEN, Denmark, Septembe\u2026 [+6164 chars]",
+      "retrievedAt": "2024-09-26 07:06:35.267348",
+      "internal_id": "3b46d7331d2afbb55563c58a916e9625197a64fceed49e5e78508e3274daa07e",
+      "publishedAtLabel": "Sep 24"
+    },
+    {
+      "id": 13965,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Bavarian Nordic A/S",
+      "title": "Bavarian Nordic modtager USD 63 mio. fra den amerikanske regering for produktion og levering af yderligere koppe- og mpoxvacciner",
+      "description": "K\u00d8BENHAVN, Danmark, 24. september 2024 \u2013 Bavarian Nordic A/S (OMX: BAVA) meddelte i dag, at selskabet har modtaget en ny ordre p\u00e5 USD 63 mio. fra Biomedical Advanced Research and Development Authority (BARDA), en del af Administration for Strategic Preparedne\u2026",
+      "url": "https://www.globenewswire.com/news-release/2024/09/24/2952413/0/da/Bavarian-Nordic-modtager-USD-63-mio-fra-den-amerikanske-regering-for-produktion-og-levering-af-yderligere-koppe-og-mpoxvacciner.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/bbcf063e-cba2-4e1d-b8cd-9279c8088ae9",
+      "publishedAt": "2024-09-24 15:30:00",
+      "content": "Kontrakten vil \u00f8ge lageret af r\u00e5vaccine samt sikre leverancer af yderligere fryset\u00f8rrede vaccinerLeverancer er planlagt i 2025 og senereK\u00d8BENHAVN, Danmark, 24. september 20\u2026 [+6039 chars]",
+      "retrievedAt": "2024-09-26 07:06:35.293765",
+      "internal_id": "34766464d817a2e5893b2778d0817fe74c6bb1600ed419212293770b8dbcbd24",
+      "publishedAtLabel": "Sep 24"
+    },
+    {
+      "id": 13959,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Sudinfo.be",
+      "author": "Par Sudinfo avec AFP",
+      "title": "Les Etats-Unis vont offrir un million de doses de vaccin anti-mpox",
+      "description": "Les Etats-Unis vont offrir un million de doses de vaccin anti-mpox \u00e0 des pays du continent africain o\u00f9 s\u00e9vit cette \u00e9pid\u00e9mie, a annonc\u00e9 mardi le pr\u00e9sident Joe Biden \u00e0 la tribune de l\u2019ONU \u00e0 New York.",
+      "url": "https://www.sudinfo.be/id885369/article/2024-09-24/les-etats-unis-vont-offrir-un-million-de-doses-de-vaccin-anti-mpox",
+      "urlToImage": "https://spgeng.rosselcdn.net/sites/default/files/dpistyles_v2/FirstImageUrl/2024/09/12/node_885369/55861756/public/2024/09/12/25641855.jpeg?itok=z_ub8P_91727191480",
+      "publishedAt": "2024-09-24 15:23:06",
+      "content": "A la tribune des nations Unies, le pr\u00e9sident am\u00e9ricain Joe Biden a annonc\u00e9 une livraison de vaccins anti-mpox. \u00abNous devons agir rapidement pour lutter contre l\u00e9pid\u00e9mie de mpox en Afrique. Nous somme\u2026 [+1968 chars]",
+      "retrievedAt": "2024-09-26 07:06:35.231002",
+      "internal_id": "16c186a131cb8aaf81d246a05280818c537b682dde5a7b89b2c22688ad761f94",
+      "publishedAtLabel": "Sep 24"
+    },
+    {
+      "id": 13955,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Mediafax.ro",
+      "author": "Rafael Hekman",
+      "title": "SUA vor dona un milion de doze de vaccin anti-Mpox pentru a stopa epidemia din Africa",
+      "description": "Pre\u015fedintele american Joe Biden va anun\u0163a mar\u0163i donarea a 1 milion de doze de vaccin anti-Mpox \u015fi a cel pu\u0163in 500 de milioane de dolari \u0163\u0103rilor africane pentru a le sprijini \u00een r\u0103spunsul la epidemie, potrivit unui \u00eenalt oficial al administra\u0163iei, citat \u00een exc\u2026",
+      "url": "https://www.mediafax.ro/externe/sua-vor-dona-un-milion-de-doze-de-vaccin-anti-mpox-pentru-a-stopa-epidemia-din-africa-22494954",
+      "urlToImage": "https://storage0.dms.mpinteractiv.ro/media/1/1/3614/22494954/1/vaiolo.jpg?width=640",
+      "publishedAt": "2024-09-24 15:20:05",
+      "content": "Biden va face anunul la New York, unde particip la Adunarea General a Organizaiei Naiunilor Unite, i va face apel la alte ri s urmeze exemplul, a declarat persoana respectiv pentru Reuters. \u00cen aug\u2026 [+3089 chars]",
+      "retrievedAt": "2024-09-26 07:06:35.184943",
+      "internal_id": "f890294e518ebb8f93c880737d756c782f2d45fe33eb4f2365d28ecad8e46bcc",
+      "publishedAtLabel": "Sep 24"
+    },
+    {
+      "id": 13935,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "Las estrategias de control de la gripe aviar \"no est\u00e1n funcionando\", advierte un estudio",
+      "description": "El trabajo se\u00f1ala que algunas variantes del virus se propagan \u201cdebajo del radar\u201d de los investigadores.",
+      "url": "https://www.montevideo.com.uy/Salud/Las-estrategias-de-control-de-la-gripe-aviar-no-estan-funcionando--advierte-un-estudio-uc901197",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202409/_W933_80/895960.jpg",
+      "publishedAt": "2024-09-24 14:55:00",
+      "content": "Una investigaci\u00f3n recogida este martes en la revista Nature advierte de que las estrategias de control del virus de la gripe aviar (H5N1) \"no est\u00e1n funcionando\", por lo que cabe la posibilidad de \u2026 [+3581 chars]",
+      "retrievedAt": "2024-09-26 07:06:33.307553",
+      "internal_id": "aeb19fe5107ae64be1fe37ad108da65599fe7a99fc5f7c25f5c35ac023a69baa",
+      "publishedAtLabel": "Sep 24"
+    },
+    {
+      "id": 13938,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "Los larvicidas dispersados por mosquitos ayudan a controlar el dengue, seg\u00fan un estudio",
+      "description": "As\u00ed lo sugiere un trabajo llevado a cabo durante dos a\u00f1os en la ciudad brasile\u00f1a de Belo Horizonte.",
+      "url": "https://www.montevideo.com.uy/Salud/Los-larvicidas-dispersados-por-mosquitos-ayudan-a-controlar-el-dengue-segun-un-estudio-uc901196",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/201512/_W933_80/540573.jpg",
+      "publishedAt": "2024-09-24 14:43:00",
+      "content": "Los larvicidas dispersados por los mosquitos pueden ayudar a controlar enfermedades transmitidas por esos mismos insectos, como el dengue, seg\u00fan un estudio realizado por cient\u00edficos brasile\u00f1os y d\u2026 [+2341 chars]",
+      "retrievedAt": "2024-09-26 07:06:33.539198",
+      "internal_id": "3cf5c09ba3a05d448d5d89e138f5a63a1dc0beea110d4a4812e359930599dda1",
+      "publishedAtLabel": "Sep 24"
+    },
+    {
+      "id": 13973,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Research and Markets",
+      "title": "Typhoid Fever Drug Pipeline Report 2024: Therapeutic Assessment, Commercial and Clinical Advancements, Future Outlook and Ongoing Developments",
+      "description": "Dublin, Sept. 24, 2024 (GLOBE NEWSWIRE) -- The \"Typhoid Fever - Pipeline Insight, 2024\" report has been added to ResearchAndMarkets.com's offering.Comprehensive insights into the future of typhoid fever treatment are now available, exploring the cutting-edge \u2026",
+      "url": "https://www.globenewswire.com/news-release/2024/09/24/2952362/28124/en/Typhoid-Fever-Drug-Pipeline-Report-2024-Therapeutic-Assessment-Commercial-and-Clinical-Advancements-Future-Outlook-and-Ongoing-Developments.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "publishedAt": "2024-09-24 14:31:00",
+      "content": "Dublin, Sept. 24, 2024 (GLOBE NEWSWIRE) -- The \"Typhoid Fever - Pipeline Insight, 2024\" report has been added to ResearchAndMarkets.com's offering. Comprehensive insights into the future of typhoid \u2026 [+3536 chars]",
+      "retrievedAt": "2024-09-26 07:06:35.491713",
+      "internal_id": "92c91a2241f5af29bb639a20d74b528023b43bc84e245494e6b793bc6da0c4ee",
+      "publishedAtLabel": "Sep 24"
+    },
+    {
+      "id": 13963,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": null,
+      "title": "India Reports First Case Of Mpox From Fast-Spreading 'Clade 1b' Variety",
+      "description": "The Centre today said that an mpox case involving a man in Kerala was from the fast-spreading clade 1b variety, marking South Asia's first recorded case from the new strain.",
+      "url": "https://www.ndtv.com/india-news/india-reports-first-case-of-mpox-from-fast-spreading-clade-1b-variety-6640333",
+      "urlToImage": "https://c.ndtvimg.com/2024-09/sbsuedv8_mpox_625x300_24_September_24.jpeg",
+      "publishedAt": "2024-09-24 14:24:54",
+      "content": "India had so far not reported an mpox case from the new strain New Delhi: The Centre today said that an mpox case involving a man in Kerala was from the fast-spreading clade 1b variety, marking Sout\u2026 [+1922 chars]",
+      "retrievedAt": "2024-09-26 07:06:35.273694",
+      "internal_id": "ec960e5eb685c50c64837ad9dc46945a5e4610837541dfcd242683237023d157",
+      "publishedAtLabel": "Sep 24"
+    },
+    {
+      "id": 13945,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "Dengue cases rises in Kathmandu valley",
+      "description": "KATHMANDU: As major festivals like Dashain and Tihar draw near, the number of people falling ill in Kathmandu Valley is on the rise, with dengue cases increasing significantly. Despite the colder season not yet beginning and the monsoon lingering, dengue case\u2026",
+      "url": "https://english.khabarhub.com/2024/24/400939/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2024/09/shukraraj-hospital-dengue-patiant-4.jpg",
+      "publishedAt": "2024-09-24 14:17:00",
+      "content": "KATHMANDU: As major festivals like Dashain and Tihar draw near, the number of people falling ill in Kathmandu Valley is on the rise, with dengue cases increasing significantly. Despite the colder se\u2026 [+867 chars]",
+      "retrievedAt": "2024-09-26 07:06:33.636113",
+      "internal_id": "11164e246a4551c7310b7c559b0993398cc13265734890b162f55b18a0011f37",
+      "publishedAtLabel": "Sep 24"
+    },
+    {
+      "id": 13949,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.nrc.nl",
+      "author": "Oscar Vermeer",
+      "title": "Tweede Kamer wil dat Agema alsnog \u2018per direct\u2019 mpox-vaccins aan Afrika doneert",
+      "description": "Inentingen: Minister Fleur Agema (PVV) wil het liefst alle mpox-vaccins als \u2018veilige voorraad\u2019 aanhouden voor een eventuele Nederlandse uitbraak. Een Kamermeerderheid denkt daar anders over: \u201eWe hebben al veel tijd verloren. Het is nu tijd voor actie.\u201d",
+      "url": "https://www.nrc.nl/nieuws/2024/09/24/tweede-kamer-wil-dat-agema-alsnog-per-direct-mpox-vaccins-aan-afrika-doneert-a4866990",
+      "urlToImage": "https://images.nrc.nl/HFmg0qmAULQ5tESNu-ivnVvEtwk=/1200x627/smart/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data122156023-3a764e.jpg",
+      "publishedAt": "2024-09-24 13:57:09",
+      "content": "Minister Fleur Agema (Zorg, PVV) moet alsnog mpox-vaccins doneren aan Afrika. Een meerderheid van de Tweede Kamer nam dinsdagmiddag een motie aan van acht Kamerfracties inclusief coalitiepartij NSC o\u2026 [+2142 chars]",
+      "retrievedAt": "2024-09-26 07:06:35.077772",
+      "internal_id": "0801b3588dec05640a3868fab779836e869c39f40e22754d5dac2f93ffe6dbd6",
+      "publishedAtLabel": "Sep 24"
+    },
+    {
+      "id": 13952,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Observador.pt",
+      "author": "Ag\u00eancia Lusa",
+      "title": "\u00cdndia reporta primeiro caso da nova e perigosa variante da Mpox no sul da \u00c1sia",
+      "description": "Homem de 38 anos foi diagnosticado com Mpox, ap\u00f3s regressar dos Emirados \u00c1rabes Unidos. \u00c9 o segundo caso da doen\u00e7a na \u00cdndia desde que a OMS declarou emerg\u00eancia global, o primeiro da nova variante.",
+      "url": "https://observador.pt/2024/09/24/india-reporta-primeiro-caso-da-nova-e-perigosa-variante-da-mpox-no-sul-da-asia/",
+      "urlToImage": "https://wm.observador.pt/wm/obs/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1124%3Anowe%3A0%3A105%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2024%2F09%2F24103558%2F40907482.jpg",
+      "publishedAt": "2024-09-24 13:28:15",
+      "content": "A \u00cdndia registou o primeiro caso no sul da \u00c1sia de uma variante perigosa da Mpox, anteriormente conhecida como var\u00edola dos macacos, doen\u00e7a que levou a Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS) a declarar um\u2026 [+1637 chars]",
+      "retrievedAt": "2024-09-26 07:06:35.118819",
+      "internal_id": "af3a92d584f731f3d15e2b8c6ab14c1f0e4b22b07c40f4c1746c6c8ba167dcda",
+      "publishedAtLabel": "Sep 24"
+    },
+    {
+      "id": 13970,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Business Standard",
+      "author": "Sonika Nitin Nimje",
+      "title": "What is Mpox Clade 1 variant? All about this fast spreading strain in India",
+      "description": "Mpox cases in India: Mpox is a viral illness caused by the monkeypox virus and there are two distinct strains of the virus i.e, clade 1 (with subclades 1a and 1b) and clade 2 (with subclades 2a and 2b)",
+      "url": "https://www.business-standard.com/health/what-is-mpox-clade-1-variant-all-about-this-fast-spreading-strain-in-india-124092400824_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/thumb/fitandfill/400X400/1724659627-623.png",
+      "publishedAt": "2024-09-24 12:03:58",
+      "content": "Mpox is a viral illness caused by the monkeypox virus and there are two distinct strains of the virus i.e, clade 1 (with subclades 1a and 1b) and clade 2 (with subclades 2a and 2b) Mpox: A global he\u2026 [+3900 chars]",
+      "retrievedAt": "2024-09-26 07:06:35.325502",
+      "internal_id": "41596bfdaf2d48e8ba198f6b7c4f20de9bd8add3545aa39fe97bd40ee3b722b4",
+      "publishedAtLabel": "Sep 24"
+    },
+    {
+      "id": 13958,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "le-monde",
+      "source_name": "Le Monde",
+      "author": "Camille Besombes",
+      "title": "\u00ab L\u2019\u00e9pid\u00e9mie de mpox et la multiplication d\u2019\u00e9mergences infectieuses doit remettre en question nos fa\u00e7ons d\u2019habiter la Terre \u00bb",
+      "description": "L\u2019\u00e9pid\u00e9miologiste et chercheuse au m\u00e9dialab de Sciences Po Camille Besombes souligne, dans une tribune au \u00ab Monde \u00bb, que le commerce d\u2019animaux sauvages, la d\u00e9forestation et l\u2019agriculture intensive, entre autres, contribuent grandement \u00e0 la r\u00e9\u00e9mergence de mala\u2026",
+      "url": "https://www.lemonde.fr/sciences/article/2024/09/24/l-epidemie-de-mpox-et-la-multiplication-d-emergences-infectieuses-doit-remettre-en-question-nos-facons-d-habiter-la-terre_6331379_1650684.html",
+      "urlToImage": "https://img.lemde.fr/2023/03/29/0/0/4253/2835/1440/960/60/0/2d85c17_1680106845701-le-monde-tribune-def-01.jpg",
+      "publishedAt": "2024-09-24 12:00:14",
+      "content": "Lurgence de sant\u00e9 publique de port\u00e9e internationale a \u00e9t\u00e9 d\u00e9clench\u00e9e en ao\u00fbt par lOrganisation mondiale de la sant\u00e9 (OMS) en raison dune flamb\u00e9e \u00e9pid\u00e9mique de mpox sans pr\u00e9c\u00e9dent dans lest de la R\u00e9pu\u2026 [+2399 chars]",
+      "retrievedAt": "2024-09-26 07:06:35.215136",
+      "internal_id": "083c0076e7089d2ad11684dd5f02f6b51a42f4a54453a2235279ec0019851114",
+      "publishedAtLabel": "Sep 24"
+    },
+    {
+      "id": 13937,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Business Standard",
+      "author": "Nisha Anand",
+      "title": "Delhi logs 300 dengue cases in a week; worldwide cases double than 2023",
+      "description": "Dengue: According to the US' National Library of Medicine, a hotter climate is one of the reasons fueling this surge in cases as mosquitoes multiply in warmer, wetter weather",
+      "url": "https://www.business-standard.com/india-news/delhi-logs-300-dengue-cases-in-a-week-worldwide-cases-double-than-2023-124092400758_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2023-04/06/thumb/featurecrop/400X400/1680772341-844.jpg",
+      "publishedAt": "2024-09-24 11:58:38",
+      "content": "According to the US' National Library of Medicine, a hotter climate is one of the reasons fueling this surge in cases as mosquitoes multiply in warmer, wetter weather In 2022, Delhi had reported jus\u2026 [+2358 chars]",
+      "retrievedAt": "2024-09-26 07:06:33.526197",
+      "internal_id": "dea4fef02808272bb2450359b1a0a69ea5df8ff86ea43ff5dde3396a2fd11353",
+      "publishedAtLabel": "Sep 24"
+    },
+    {
+      "id": 13947,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Meneame.net",
+      "author": "karakol",
+      "title": "Nerea ten\u00eda meningitis, pero los m\u00e9dicos pensaron que estaba drogada y que la hab\u00edan violado: \"A mi hija la dejaron morir\"",
+      "description": "La familia de Nerea Gonz\u00e1lez, una joven de 14 a\u00f1os fallecida el 13 de marzo de 2023, ha presentado ante el Tribunal Superior de Justicia de Andaluc\u00eda una reclamaci\u00f3n patrimonial de 201.000 euros contra el Servicio Andaluz de Salud (SAS) por los \"hechos grav\u00eds\u2026",
+      "url": "https://www.meneame.net/m/actualidad/nerea-tenia-meningitis-pero-medicos-pensaron-estaba-drogada-hija",
+      "urlToImage": "https://meneame.net/img/logo_meneame.png",
+      "publishedAt": "2024-09-24 09:47:23",
+      "content": "\"Los m\u00e9dicos de Urgencias llamaron entonces a la polic\u00eda judicial y a un m\u00e9dico forense para que realizaran una valoraci\u00f3n ante la posibilidad de que la menor hubiera sido v\u00edctima de una agresi\u00f3n sex\u2026 [+756 chars]",
+      "retrievedAt": "2024-09-26 07:06:33.986867",
+      "internal_id": "f630fc750f59b16bdc781bd29193312699da6a311c7a52d30e4c635710530ef7",
+      "publishedAtLabel": "Sep 24"
+    },
+    {
+      "id": 13940,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Business Standard",
+      "author": "Sonika Nitin Nimje",
+      "title": "Why are dengue cases rising globally while mosquito control lags behind?",
+      "description": "According to the WHO, apart from India, a record number of dengue cases have been reported across the world this year with Brazil and other South American countries worst affected",
+      "url": "https://www.business-standard.com/health/why-are-dengue-cases-rising-globally-while-mosquito-control-lags-behind-124092400625_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-07/25/thumb/fitandfill/400X400/1721887807-2232.JPG",
+      "publishedAt": "2024-09-24 09:43:11",
+      "content": "According to the WHO, apart from India, a record number of dengue cases have been reported across the world this year with Brazil and other South American countries worst affected Dengue, Mosquito (\u2026 [+3048 chars]",
+      "retrievedAt": "2024-09-26 07:06:33.557009",
+      "internal_id": "7bfb73325408f08f6fe2e135f69e7804c49cd777e2d14d8cdf9fa5b430fe7323",
+      "publishedAtLabel": "Sep 24"
+    },
+    {
+      "id": 13931,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Talkingupscotlandtwo.com",
+      "author": "Johnrobertson834",
+      "title": "Health authorities in England carefully hid MMR vaccine levels as deadly measles cases surged across country and into Scotland",
+      "description": "By Professor John Robertson OBA Today, from Public Health Scotland: 92.8% of children had the first dose of MMR vaccine by 24 months of age. This rose to 95.8% for children who had reached age five\u2026",
+      "url": "https://talkingupscotlandtwo.com/2024/09/24/health-authorities-in-england-carefully-hid-mmr-vaccine-levels-as-deadly-measles-cases-surged-across-country-and-into-scotland/",
+      "urlToImage": "https://talkingupscotlandtwo.com/wp-content/uploads/2024/09/image-111.png",
+      "publishedAt": "2024-09-24 09:37:18",
+      "content": "By Professor John Robertson OBA Today, from Public Health Scotland: 92.8% of children had the first dose of MMR vaccine by 24 months of age. This rose to 95.8% for children who had reached age five\u2026 [+1168 chars]",
+      "retrievedAt": "2024-09-26 07:06:32.784597",
+      "internal_id": "9f7117bf378f9cad348cd9533bf236e103591254a419eb9a079df604213448d9",
+      "publishedAtLabel": "Sep 24"
+    },
+    {
+      "id": 13953,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "CNA",
+      "author": null,
+      "title": "US to donate 1 million mpox vaccine doses to halt outbreak in Africa",
+      "description": "WASHINGTON: US President Joe Biden will announce on Tuesday (Sep 24) the donation of 1 million mpox vaccine doses and at least US$500 million to African countries to support their response to the outbreak, according to a senior administration official. Biden \u2026",
+      "url": "https://www.channelnewsasia.com/world/us-donate-1-million-mpox-vaccine-doses-halt-outbreak-africa-4627726",
+      "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--MwwhT7tw--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2024-09-19t143313z_1_lynxmpek8i0jq_rtroptp_3_health-mpox-africa-vaccinations.jpg?itok=PaLdSyqK",
+      "publishedAt": "2024-09-24 09:31:42",
+      "content": "WASHINGTON: US President Joe Biden will announce on Tuesday (Sep 24) the donation of 1 million mpox vaccine doses and at least US$500 million to African countries to support their response to the out\u2026 [+1560 chars]",
+      "retrievedAt": "2024-09-26 07:06:35.155117",
+      "internal_id": "86fb22a7003728813a73dfe3a1a8496bc2baf1a5b0797b1a35b7763698b8bb4e",
+      "publishedAtLabel": "Sep 24"
+    },
+    {
+      "id": 13936,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "IANS",
+      "title": "Mrunal Thakur auditions for 'Manjulika's character",
+      "description": "Actress Mrunal Thakur recently delighted her Instagram family by hosting a session titled 'Uncovered Hi Nanna BTS Gems', where she unveiled some behind-the-scenes treasures from the shoot of Telugu romantic drama 'Hi Nanna'. She dropped a hilarious video of h\u2026",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mrunal-thakur-channels-manjulika-in-hilarious-bts-video-from-hi-nanna/articleshow/113628902.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-113629052,width-1070,height-580,imgsize-1250064,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-09-24 09:30:15",
+      "content": "Mrunal Serves Major Fitness Goals; Hits the Gym After Overcoming Dengue",
+      "retrievedAt": "2024-09-26 07:06:33.515692",
+      "internal_id": "a27a935a83a2c17d6126f4de78fa878cd2edd4073e0e1ba1afb8cd4750222004",
+      "publishedAtLabel": "Sep 24"
+    },
+    {
+      "id": 13954,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Korrespondent.net",
+      "author": "1",
+      "title": "\u0418\u043d\u0434\u0438\u044f \u0441\u043e\u043e\u0431\u0449\u0438\u043b\u0430 \u043e \u043f\u0435\u0440\u0432\u043e\u043c \u0441\u043b\u0443\u0447\u0430\u0435 \u043d\u043e\u0432\u043e\u0433\u043e \u0448\u0442\u0430\u043c\u043c\u0430 \u043e\u0431\u0435\u0437\u044c\u044f\u043d\u044c\u0435\u0439 \u043e\u0441\u043f\u044b",
+      "description": "\u041f\u0430\u0446\u0438\u0435\u043d\u0442 - 38-\u043b\u0435\u0442\u043d\u0438\u0439 \u043c\u0443\u0436\u0447\u0438\u043d\u0430, \u043f\u0440\u0438\u043b\u0435\u0442\u0435\u0432\u0448\u0438\u0439 \u0438\u0437 \u041e\u0431\u044a\u0435\u0434\u0438\u043d\u0435\u043d\u043d\u044b\u0445 \u0410\u0440\u0430\u0431\u0441\u043a\u0438\u0445 \u042d\u043c\u0438\u0440\u0430\u0442\u043e\u0432 \u0438 \u0433\u043e\u0441\u043f\u0438\u0442\u0430\u043b\u0438\u0437\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0439 \u0432 \u0433\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0435\u043d\u043d\u0443\u044e \u0431\u043e\u043b\u044c\u043d\u0438\u0446\u0443 \u043c\u0435\u0434\u0438\u0446\u0438\u043d\u0441\u043a\u043e\u0433\u043e \u043a\u043e\u043b\u043b\u0435\u0434\u0436\u0430 \u0432 \u041c\u0430\u043b\u0430\u043f\u043f\u0443\u0440\u0430\u043c.",
+      "url": "https://korrespondent.net/world/4718577-yndyia-soobschyla-o-pervom-sluchae-novoho-shtamma-obezianei-ospy",
+      "urlToImage": "https://kor.ill.in.ua/m/1260x900/4137607.jpg",
+      "publishedAt": "2024-09-24 09:10:00",
+      "content": "23 clade 1b. . Reuters. , , . , - 38- , . 29 , 37 , . , mpox, . 2022 2024 30 - clade 2. . clade 1b. , 14 , . , - MVA-BN - . .net Telegram WhatsApp. https://t.me/korrespondentnetWhatsApp",
+      "retrievedAt": "2024-09-26 07:06:35.165328",
+      "internal_id": "23deabd1336f996c80b6608eded7face18f1f73927af920115bf64beccf0bb02",
+      "publishedAtLabel": "Sep 24"
+    },
+    {
+      "id": 13969,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Economictimes.com",
+      "author": "Agencies",
+      "title": "India\u2019s first Mpox clade 1 case in Kerala: Symptoms, treatment, risk factors, travel advices and other details",
+      "description": "On Monday, the first case of Mpox in India was reported. The man, 38, was from the Malappuram district in Kerala. After visiting the United Arab Emirates, the patient had just returned. First case in India",
+      "url": "https://m.economictimes.com/news/india/indias-first-mpox-clade-1-case-in-kerala-symptoms-treatment-risk-factors-travel-advices-and-other-details/first-case-in-india/slideshow/113628068.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-113628068,width-1070,height-580,overlay-economictimes/photo.jpg",
+      "publishedAt": "2024-09-24 08:59:23",
+      "content": "Sep 24, 2024, 02:30:34 PM IST On Monday, the first case of Mpox in India was reported. The man, 38, was from the Malappuram district in Kerala. After visiting the United Arab Emirates, the patient h\u2026 [+1127 chars]",
+      "retrievedAt": "2024-09-26 07:06:35.318916",
+      "internal_id": "98a1795564516e5a121271da43de979bd946c83866cc89cf3b52efc2ff65e062",
+      "publishedAtLabel": "Sep 24"
+    },
+    {
+      "id": 13968,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Anlatilaninotesi.com.tr",
+      "author": "Sputnik T\u00fcrkiye",
+      "title": "Hindistan ilk M \u00c7i\u00e7e\u011fi vakas\u0131n\u0131 duyurdu",
+      "description": "Afrika k\u0131tas\u0131ndan yay\u0131larak d\u00fcnya genelinde g\u00f6r\u00fclen M \u00c7i\u00e7e\u011fi (mpox) vir\u00fcs\u00fc salg\u0131n\u0131n\u0131n Hindistan'da g\u00f6r\u00fcld\u00fc\u011f\u00fc bildirildi. Dubai'den Hindistan'a u\u00e7an bir hastada g\u00f6r\u00fclen vir\u00fcs, Pakistan, Fas, Tayland, \u0130sve\u00e7 gibi \u00fclkelerde g\u00f6r\u00fcld\u00fc ve Afrika K\u0131tas\u0131 genelinde 800'\u2026",
+      "url": "https://anlatilaninotesi.com.tr/20240924/hindistan-ilk-m-cicegi-vakasini-duyurdu-1088365910.html",
+      "urlToImage": "https://cdn.img.anlatilaninotesi.com.tr/images/sharing/article/tur/1088365910.jpg?10868575851727163137",
+      "publishedAt": "2024-09-24 07:21:00",
+      "content": "T\u00fcrkiye ve d\u00fcnyadan ilgi \u00e7ekici yaam haberleri, toplumsal olaylar, g\u00fcncel aratrmalar, fotoraf ve video galerileri. https://anlatilaninotesi.com.tr/20240924/hindistan-ilk-m-cicegi-vakasini-duyurdu-10\u2026 [+3858 chars]",
+      "retrievedAt": "2024-09-26 07:06:35.312969",
+      "internal_id": "7c7fb1dd643b5f0791f81ba13567daaa02fc2b1f2d5992e0bd7de7cbb032f560",
+      "publishedAtLabel": "Sep 24"
+    },
     {
       "id": 13918,
       "query": [
