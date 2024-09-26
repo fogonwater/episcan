@@ -1,8 +1,478 @@
 {
-  "last_updated": "2024-09-26 07:06",
-  "count_articles_total": 2091,
-  "count_articles_new": 43,
+  "last_updated": "2024-09-26 19:05",
+  "count_articles_total": 2112,
+  "count_articles_new": 26,
   "articles": [
+    {
+      "id": 13989,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Xia Lin",
+      "title": "President of Guinea-Bissau highlights African fight against malaria",
+      "description": "UNITED NATIONS, Sept. 25 (Xinhua) -- The African Leaders Malaria Alliance (ALMA) has made significant progress in a very difficult world environment, and endeavored to garner support to replenish the Global Fund, Umaro Sissoco Embal\u00f3, president of Guinea-Biss\u2026",
+      "url": "https://www.thestar.com.my/news/world/2024/09/26/president-of-guinea-bissau-highlights-african-fight-against-malaria",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2024-09-25 18:06:00",
+      "content": "UNITED NATIONS, Sept. 25 (Xinhua) -- The African Leaders Malaria Alliance (ALMA) has made significant progress in a very difficult world environment, and endeavored to garner support to replenish the\u2026 [+1062 chars]",
+      "retrievedAt": "2024-09-26 19:05:44.081128",
+      "internal_id": "8317edda009dd9b5b6cd3fd2af6967e413d49620893d2ee603a1589aa839e86b",
+      "publishedAtLabel": "Sep 25"
+    },
+    {
+      "id": 13990,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "National Institutes of Health",
+      "author": "Chrissa Chverchko",
+      "title": "Attend Our Early Career Investigator Lecture on October 7",
+      "description": "Saad Bhamla, Ph.D. Credit: Rob Felt, Georgia Tech. What does a children\u2019s toy have to do with malaria diagnostics? How about a barbecue lighter and a nucleic acid vaccine? Find out from Saad Bhamla during our 2024 Judith H. Greenberg Early Career Investigator\u2026",
+      "url": "https://loop.nigms.nih.gov/2024/09/attend-our-early-career-investigator-lecture-on-october-7/",
+      "urlToImage": "https://loop.nigms.nih.gov/wp-content/uploads/2022/02/loop_share.jpg",
+      "publishedAt": "2024-09-25 18:05:22",
+      "content": "What does a childrens toy have to do with malaria diagnostics? How about a barbecue lighter and a nucleic acid vaccine? Find out from Saad Bhamla during our 2024 Judith H. Greenberg Early Career Inve\u2026 [+1631 chars]",
+      "retrievedAt": "2024-09-26 19:05:44.106610",
+      "internal_id": "64bb59ca707533a5db83b7aeecb3e143434871f8c7c696e25a87c4ac5446be76",
+      "publishedAtLabel": "Sep 25"
+    },
+    {
+      "id": 13981,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Science.orf.at",
+      "author": "ORF.at",
+      "title": "\u00dcbertragung bei K\u00fchen durch Melken",
+      "description": "Zwischen K\u00fchen wird das Vogelgrippevirus H5N1 haupts\u00e4chlich \u00fcber die Milch \u00fcbertragen \u2013 wahrscheinlich \u00fcber das Melkgeschirr. Das ergab eine aktuelle Studie, die im Fachjournal \u201eNature\u201c ver\u00f6ffentlicht wurde. \u00dcber die Atemluft geben infizierte Tiere den Errege\u2026",
+      "url": "https://science.orf.at/stories/3226859/",
+      "urlToImage": "https://ibs.orf.at/science?image=https%3A%2F%2Ftubestatic.orf.at%2Fmims%2F2021%2F12%2F98%2Fcrops%2Fw%3D1200%2Ch%3D627%2Cq%3D75%2F881447_master_308098_glueckliche_kuehe_2.jpg%3Fs%3D63b09c58cbc1356cab7e5d22a7187a99c346c4ec",
+      "publishedAt": "2024-09-25 18:00:00",
+      "content": "In den Experimenten hatte das Forschungsteam K\u00e4lber und Milchk\u00fche mit H5N1 infiziert, insbesondere mit der Variante B3.13. Diese war vorigen M\u00e4rz bei Milchk\u00fchen im US-Staat Texas gemeldet worden, Anf\u2026 [+3189 chars]",
+      "retrievedAt": "2024-09-26 19:05:42.814776",
+      "internal_id": "2cbe6e04048c0d90b15255bb8a4b444c76d6c11266cd4ace7227f0edeb752bfb",
+      "publishedAtLabel": "Sep 25"
+    },
+    {
+      "id": 13974,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "WSOC Charlotte",
+      "author": "Wsoctv.com News Staff",
+      "title": "5th case of rabies reported in Gaston County, health officials say",
+      "description": "5th case of rabies reported in Gaston County, health officials saywsoctv.com",
+      "url": "https://www.wsoctv.com/news/local/5th-case-rabies-reported-gaston-county-health-officials-say/66DRV3NHNZGUPFMXHCD4QIIQII/",
+      "urlToImage": "https://cmg-cmg-tv-10030-prod.cdn.arcpublishing.com/resizer/xtZuygUdr8Ikg7ufbbaRcJDhtYo=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/7KF6KMJGCVFHXLSW6DTSWDPBSQ.jpg",
+      "publishedAt": "2024-09-25 17:30:49",
+      "content": "GASTON COUNTY, N.C. \u2014 A fifth case of rabies was reported in Gaston County last Friday, according to the Gaston County Police Animal Care and Enforcement. Heath officials said at approximately 4 p.m\u2026 [+1009 chars]",
+      "retrievedAt": "2024-09-26 19:05:41.859447",
+      "internal_id": "675cf3ca93b1dc0db58551f9006bafaa8b3a8aa9e64dfc5ff728948dc9aec9c4",
+      "publishedAtLabel": "Sep 25"
+    },
+    {
+      "id": 13984,
+      "query": [
+        "dengue",
+        "malaria",
+        "chikungunya"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Times Of India",
+      "title": "8 malaria deaths in Maha this month; dengue claims two lives",
+      "description": "Maharashtra reports 8 malaria deaths and 2 dengue fatalities this month, with a significant rise in chikungunya cases prompting health authorities to investigate. Total vector-borne disease deaths for 2024 reach 34, highlighting an urgent health crisis.",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/malaria-deaths-surge-in-maharashtra-dengue-and-chikungunya-cases-rise-dramatically/articleshow/113675514.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-09-25 17:03:41",
+      "content": "World Lung Day: 10 herbal drinks to cleanse lungs",
+      "retrievedAt": "2024-09-26 19:05:43.274649",
+      "internal_id": "06a0c75bcb72ca9d683120531a84c49f7bf2f996ff25cc10a5f8cc49cdf41492",
+      "publishedAtLabel": "Sep 25"
+    },
+    {
+      "id": 13994,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Observador.pt",
+      "author": "Tiago Caeiro",
+      "title": "Fact Check. Vacina contra a Covid-19 da Astrazeneca \u00e9 respons\u00e1vel pela transmiss\u00e3o da Mpox?",
+      "description": "Publica\u00e7\u00f5es no Facebook relacionam a transmiss\u00e3o da var\u00edola dos macacos com a vacina da Astrazeneca, que tem na sua composi\u00e7\u00e3o adenov\u00edrus de chimpanz\u00e9. Mas n\u00e3o existe qualquer rela\u00e7\u00e3o.",
+      "url": "https://observador.pt/factchecks/fact-check-vacina-contra-a-covid-19-da-astrazeneca-e-responsavel-pela-transmissao-da-mpox/",
+      "urlToImage": "https://wm.observador.pt/wm/obs/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A770%3A433%3Anowe%3A0%3A0%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2020%2F01%2F09142359%2Ffact_check-errado.png",
+      "publishedAt": "2024-09-25 16:36:04",
+      "content": "Depois do ressurgimento da var\u00edola dos macacos no palco medi\u00e1tico, em agosto (devido a uma nova variante mais transmiss\u00edvel), come\u00e7aram a circular nas redes sociais as habituais teorias envolvendo a \u2026 [+3521 chars]",
+      "retrievedAt": "2024-09-26 19:05:45.214512",
+      "internal_id": "05ee0ee996d6952ef2497670fe5ea6f5acfc52e2538beb074d272dfc5734aa70",
+      "publishedAtLabel": "Sep 25"
+    },
+    {
+      "id": 13993,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "VOA News",
+      "author": "webdesk@voanews.com (Mariama Diallo)",
+      "title": "Mpox cases continue to rise in Africa",
+      "description": "Nairobi \u2014 As cases of mpox rise across the African continent, public health experts and world leaders are sounding the alarm, saying more needs to be done to contain the viral outbreak. Fifteen countries in Africa are assessed as having active outbreaks, wi\u2026",
+      "url": "https://www.voanews.com/a/mpox-cases-continue-to-rise-in-africa-/7798946.html",
+      "urlToImage": "https://gdb.voanews.com/9B798D3C-E82B-4526-B88A-3C2E772CB141.jpg",
+      "publishedAt": "2024-09-25 15:33:46",
+      "content": "Nairobi As cases of mpox rise across the African continent, public health experts and world leaders are sounding the alarm, saying more needs to be done to contain the viral outbreak. Fifteen count\u2026 [+3098 chars]",
+      "retrievedAt": "2024-09-26 19:05:45.178424",
+      "internal_id": "b74c698028bdfa330f9676214cf272e9d4ebb1c8bbb7b76f0ea6de0d9bb942d9",
+      "publishedAtLabel": "Sep 25"
+    },
+    {
+      "id": 13996,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "DW (English)",
+      "author": "Martina Schwikowski",
+      "title": "Ostkongo: Zwischen Hunger im Lager und Gefahr in den D\u00f6rfern",
+      "description": "Viele Menschen in den Konfliktgebieten im Osten der DR Kongo wissen nicht wohin: In ihren D\u00f6rfern wird weiter gek\u00e4mpft. In den \u00fcberf\u00fcllten Fl\u00fcchtlingslagern mangelt es an Nahrung - und dort grassiert die Mpox-Epidemie.",
+      "url": "https://www.dw.com/de/ostkongo-zwischen-hunger-im-lager-und-gefahr-in-den-d%C3%B6rfern/a-70321040",
+      "urlToImage": "https://static.dw.com/image/68264838_6.jpg",
+      "publishedAt": "2024-09-25 15:28:00",
+      "content": "In den Konfliktgebieten im Osten der Demokratischen Republik Kongo m\u00fcssen Binnenvertriebene st\u00e4ndig schwere Entscheidungen treffen. Die DW hat mit mehreren Menschen gesprochen, die nicht mehr l\u00e4nger \u2026 [+5897 chars]",
+      "retrievedAt": "2024-09-26 19:05:45.304336",
+      "internal_id": "ef94f3e961d92f71a465a7f3324eb2cf3b29c5c47b692c260d1b2a4f509ebd59",
+      "publishedAtLabel": "Sep 25"
+    },
+    {
+      "id": 13978,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "DIE WELT",
+      "author": "Nike Heinen",
+      "title": "Warum deutsche Forscher sechs K\u00fche mit H5N1 infiziert haben",
+      "description": "Weiterhin grassiert die Vogelgrippe unter Rindern in den USA, wie sie von Kuh zu Kuh wandert war r\u00e4tselhaft. Nun haben Forscher auf der Insel Riems H5N1-Viren in die Euter von K\u00fchen gespritzt \u2013 und sind dabei auf einen weiteren m\u00f6glichen Verursacher einer \u201eRi\u2026",
+      "url": "https://www.welt.de/wissenschaft/article253694450/Vogelgrippe-Es-muss-eine-einzige-Kuh-gewesen-sein-die-am-Anfang-dieser-Epidemie-in-den-USA-stand.html",
+      "urlToImage": "https://img.welt.de/img/wissenschaft/mobile253694860/5187934997-ci16x9-w1200/L4-Labor-im-Friedrich-Loeffler-Instituts-fuer-Tiergesundheit.jpg",
+      "publishedAt": "2024-09-25 15:16:16",
+      "content": "Weiterhin grassiert die Vogelgrippe unter Rindern in den USA, wie sie von Kuh zu Kuh wandert war r\u00e4tselhaft. Nun haben Forscher auf der Insel Riems H5N1-Viren in die Euter von K\u00fchen gespritzt und sin\u2026 [+8543 chars]",
+      "retrievedAt": "2024-09-26 19:05:42.779942",
+      "internal_id": "53bf44b21c14cee9b8c506fb8a6b0ddde26b11652e30f5dccea7d7e1da54c894",
+      "publishedAtLabel": "Sep 25"
+    },
+    {
+      "id": 13977,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "N-tv.de",
+      "author": "n-tv NACHRICHTEN",
+      "title": "Euter als zentraler Ort: So verbreitet sich die Vogelgrippe unter K\u00fchen",
+      "description": "Das Vogelgrippevirus H5N1 bricht im Fr\u00fchjahr auf einer Milchfarm in den USA aus. Seitdem breitet es sich unter K\u00fchen rasant aus und erreicht immer mehr Best\u00e4nde. Welchen \u00dcbertragungsweg nimmt dabei das Virus? Dieser Frage ist ein Forschungsteam nachgegangen u\u2026",
+      "url": "https://www.n-tv.de/wissen/So-verbreitet-sich-die-Vogelgrippe-unter-Kuehen-article25251851.html",
+      "urlToImage": "https://bilder3.n-tv.de/img/incoming/crop25251966/4641328366-cImg_16_9-w1200/455744731.jpg",
+      "publishedAt": "2024-09-25 15:09:08",
+      "content": "Das Vogelgrippevirus H5N1 bricht im Fr\u00fchjahr auf einer Milchfarm in den USA aus. Seitdem breitet es sich unter K\u00fchen rasant aus und erreicht immer mehr Best\u00e4nde. Welchen \u00dcbertragungsweg nimmt dabei d\u2026 [+3678 chars]",
+      "retrievedAt": "2024-09-26 19:05:42.769264",
+      "internal_id": "611b256f6d8fa9de99bd2bc5ec998ab5ea4289dd6a74d89879c2869152601795",
+      "publishedAtLabel": "Sep 25"
+    },
+    {
+      "id": 13976,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "DW (English)",
+      "author": "Julia Vergin",
+      "title": "Vogelgrippe: \u00dcbertragungsweg des Virus bei Rindern gekl\u00e4rt",
+      "description": "In den USA grassiert das Vogelgrippevirus H5N1 unter Milchk\u00fchen und sch\u00fcrt immer wieder Angst vor einer Pandemie. Eine neue Studie h\u00e4lt gute Nachrichten bereit - nicht nur f\u00fcr die Rinder, sondern auch f\u00fcr uns Menschen. Niesen, Husten oder blo\u00dfes Atmen - f\u00fcr v\u2026",
+      "url": "https://www.dw.com/de/vogelgrippe-%C3%BCbertragungsweg-des-virus-bei-rindern-gekl%C3%A4rt/a-70321413",
+      "urlToImage": "https://static.dw.com/image/69161043_6.jpg",
+      "publishedAt": "2024-09-25 15:03:00",
+      "content": "Niesen, Husten oder blo\u00dfes Atmen - f\u00fcr viele Viren ideale Momente, um von einem Wirt auf den n\u00e4chsten zu wechseln. Die Coronapandemie hat gezeigt, wie schwer es sein kann, Viren zu stoppen, die sich \u2026 [+3887 chars]",
+      "retrievedAt": "2024-09-26 19:05:42.759034",
+      "internal_id": "e1ca75089bbfe66f512699b392feae47be358153d7ada4c94c3c0821178e68ea",
+      "publishedAtLabel": "Sep 25"
+    },
+    {
+      "id": 13980,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Le Soir",
+      "author": "Par Eric Burgraff",
+      "title": "Grippe aviaire : le mat\u00e9riel de traite des bovins en premi\u00e8re ligne dans la transmission du H5N1",
+      "description": "Une \u00e9tude publi\u00e9e dans la revue \u00ab Nature \u00bb sugg\u00e8re une nouvelle voie de transmission de la grippe aviaire hautement pathog\u00e8ne H5N1 : les proc\u00e9dures de traite doivent probablement \u00eatre mises en cause.",
+      "url": "https://www.lesoir.be/625165/article/2024-09-25/grippe-aviaire-le-materiel-de-traite-des-bovins-en-premiere-ligne-dans-la",
+      "urlToImage": "https://leseng.rosselcdn.net/sites/default/files/dpistyles_v2/ena_16_9_extra_big/2024/09/25/node_625165/31585201/public/2024/09/25/26458172.jpeg?itok=GMRNxSbI1727276447",
+      "publishedAt": "2024-09-25 15:00:00",
+      "content": "La grippe aviaire hautement pathog\u00e8ne H5N1 a \u00e9t\u00e9 d\u00e9tect\u00e9e chez des bovins aux Etats-Unis au printemps 2024 et a touch\u00e9 plus de 190 fermes d\u00e9levage de bovins laitiers dans au moins treize Etats. Les c\u2026 [+1495 chars]",
+      "retrievedAt": "2024-09-26 19:05:42.804527",
+      "internal_id": "ea02d775c7ba1cbb5ea719e6ad0047b9b213bbb278c273b064d554ad6cab8d5c",
+      "publishedAtLabel": "Sep 25"
+    },
+    {
+      "id": 13982,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ilfattoquotidiano.it",
+      "author": "F. Q.",
+      "title": "Focolaio Dengue nelle Marche, sono 51 i casi accertati: tutti nell\u2019area di Fano. La Regione: \u201cMonitoriamo\u201d",
+      "description": "Sono raddoppiati nel giro di una settimana i casi di Dengue nelle Marche. \u201cSono attualmente 51 i casi accertati e 2 i casi probabili di febbre Dengue\u201d, \u201ctutti nell\u2019area di Fano; 70 sono invece i casi che presentano sintomatologia compatibile\u201d con l\u2019infezione \u2026",
+      "url": "https://www.ilfattoquotidiano.it/2024/09/25/focolaio-dengue-marche-51-casi-fano-regione/7707681/",
+      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2024/09/23/dengue-1200-1200x630.jpg",
+      "publishedAt": "2024-09-25 14:50:05",
+      "content": "Roma, 25 set. (Adnkronos) - Sensori con tecnologia IoT per monitorare lo stato di salute di cinque boschi italiani e attivit\u00e0 di educazione ambientale con studenti di alcune scuole del territorio. Ob\u2026 [+5858 chars]",
+      "retrievedAt": "2024-09-26 19:05:43.174386",
+      "internal_id": "fe58fd8ca1c8932d00fda8dd57197c0cc4b17d6686b938688db38495b65b4c7d",
+      "publishedAtLabel": "Sep 25"
+    },
+    {
+      "id": 13983,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": null,
+      "title": "C\u00f3mo sacar turno para la vacuna gratis del dengue en CABA",
+      "description": "En esta primera etapa, ser\u00e1 solo para el grupo de entre 15 y 19 a\u00f1os; hay nueve lugares de aplicaci\u00f3n",
+      "url": "https://www.lanacion.com.ar/sociedad/como-sacar-turno-para-la-vacuna-gratis-del-dengue-en-caba-nid25092024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/la-ciudad-comenzara-a-vacunar-contra-el-dengue-el-XKUXVASGHJEXTEWO2RM2D4RQDI.jpeg?auth=9738955d199269a3203d02ed1defa17d0944323b5cea0c314a74ede3059ed500&width=768&quality=70&smart=false",
+      "publishedAt": "2024-09-25 14:34:25",
+      "content": "La ciudad de Buenos Aires dar\u00e1 inicio a la campa\u00f1a de vacunaci\u00f3n contra el dengue a partir del 30 de septiembre. Esta medida busca proteger a los vecinos ante el aumento de casos, complementando la e\u2026 [+2525 chars]",
+      "retrievedAt": "2024-09-26 19:05:43.268919",
+      "internal_id": "815d481ce9f004be336b6370c70fb549a4e5387404347e183e411f51b5a5952d",
+      "publishedAtLabel": "Sep 25"
+    },
+    {
+      "id": 13985,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": null,
+      "title": "C\u00f3mo sacar turno para vacunarme gratis contra el dengue en CABA",
+      "description": "La Ciudad Aut\u00f3noma de Buenos Aires ya otorga turnos para la vacunaci\u00f3n contra la enfermedad transmitida por el mosquito Aedes aegypti; c\u00f3mo es el operativo y cu\u00e1les son los centros m\u00e9dicos disponibles para inmunizarse",
+      "url": "https://www.lanacion.com.ar/sociedad/como-sacar-turno-para-vacunarme-gratis-contra-el-dengue-en-caba-nid25092024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/ya-se-pueden-anotar-los-jovenes-de-15-a-19-anos-W355QURXCVBQ5I34HKJJEOG4OY.JPG?auth=82a02c92ca228a4316d66ee80a31113671a9a588e3bfbaa7f8ab4c8238bd15db&width=768&quality=70&smart=false",
+      "publishedAt": "2024-09-25 14:03:52",
+      "content": "La apertura de los turnos para la vacuna contra el dengue en Buenos Aireshace a muchos preguntarse c\u00f3mo inscribirse, algo que por el momento est\u00e1 limitado a los j\u00f3venes de 15 a 19 a\u00f1os. La inscripci\u2026 [+2382 chars]",
+      "retrievedAt": "2024-09-26 19:05:43.284179",
+      "internal_id": "d80187dc927b190496b4e09d81b236785db3a18c533918e0297ebda0c00050e3",
+      "publishedAtLabel": "Sep 25"
+    },
+    {
+      "id": 13987,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Yannick Nkiambi Kiakuvue, Sumaya Mall, Nelesh Govender, Anne von Gottberg, Rudzani Mashau, Susan Meiring, Cheryl Cohen",
+      "title": "Demographic and pathogen characteristics of incident bacterial meningitis in infants in South Africa: A cohort study",
+      "description": "Introduction Bacterial meningitis is a major cause of death, with an approximate case fatality rate of 37% across all age groups in South Africa. This study aimed to describe the demographic and pathogen characteristics of incident meningitis in children aged\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0310528",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0310528.g004&size=inline",
+      "publishedAt": "2024-09-25 14:00:00",
+      "content": "Citation: Kiakuvue YN, Mall S, Govender N, Gottberg Av, Mashau R, Meiring S, et al. (2024) Demographic and pathogen characteristics of incident bacterial meningitis in infants in South Africa: A coho\u2026 [+22562 chars]",
+      "retrievedAt": "2024-09-26 19:05:43.808722",
+      "internal_id": "bb2b0a4549d5bd7442baedd6cc8f69edd6dddb8cdc1180767d2248e440d754d6",
+      "publishedAtLabel": "Sep 25"
+    },
+    {
+      "id": 13988,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Lison Laroche, Anne-Laure Ba\u00f1uls, R\u00e9mi Charrel, Albin Fontaine, Nazli Ayhan, Jorian Prudhomme",
+      "title": "Sand flies and Toscana virus: Intra-vector infection dynamics and impact on Phlebotomus perniciosus life-history traits",
+      "description": "Author summary Toscana virus (TOSV) is a reemerging sandfly-borne virus causing neuroinvasive infections in humans. This virus is endemic in the Mediterranean basin, with a potential risk of introduction in northern Europe and Asia. Despite decades of researc\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012509",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012509.g007&size=inline",
+      "publishedAt": "2024-09-25 14:00:00",
+      "content": "Abstract Toscana virus (TOSV) is a leading cause of summer viral meningitis in Southern Europe (Central Italy, south of France, Spain and Portugal) and can cause severe neurological cases. Within th\u2026 [+59276 chars]",
+      "retrievedAt": "2024-09-26 19:05:43.815068",
+      "internal_id": "87dd6d7c6cad0df1257f177bec2c414744de7bba956b13e8f45556a44a5b77b1",
+      "publishedAtLabel": "Sep 25"
+    },
+    {
+      "id": 13991,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Lemat Nakatt, Papa Mouhamadou Gaye, Mohamed Ouldabdallahi Moukah, Binta Niang, Leonardo Basco, Stephane Ranque, Ali Ould Mohamed Salem Boukhary",
+      "title": "Urogenital schistosomiasis in schoolchildren in the lake zones of Kankossa and Oued Rawdha, southern Mauritania: The first parasitological and malacological survey",
+      "description": "Author summary Urogenital schistosomiasis or bilharzia is caused by blood flukes transmitted in the urine. These parasites require compatible freshwater snails to develop and infect humans who come in contact with contaminated water. The adult females release\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012505",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012505.g004&size=inline",
+      "publishedAt": "2024-09-25 14:00:00",
+      "content": "Introduction Schistosomiasis is one of the most prevalent parasitic diseases after malaria and intestinal helminthiasis, with 251 million people worldwide requiring preventive chemotherapy in 2021 [\u2026 [+58869 chars]",
+      "retrievedAt": "2024-09-26 19:05:44.121099",
+      "internal_id": "7eed624e9727801d567e0d021c1ca48115728b30ec77552013c2b375c2327d70",
+      "publishedAtLabel": "Sep 25"
+    },
+    {
+      "id": 13979,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Sascha Karberg",
+      "title": "Vogelgrippe verbreitet sich in K\u00fchen \u00fcber das Melken: \u201eDas ist eine gute Nachricht\u201c",
+      "description": "Das Vogelgrippevirus H5N1 kann auch K\u00fche infizieren, aber nur \u00fcber das Euter, zeigt eine Studie. Das sei wichtig f\u00fcr die Einsch\u00e4tzung des Risikos f\u00fcr Menschen",
+      "url": "https://www.tagesspiegel.de/wissen/vogelgrippe-verbreitet-sich-in-kuhen-uber-das-melken-das-ist-eine-gute-nachricht-12433145.html",
+      "urlToImage": null,
+      "publishedAt": "2024-09-25 13:57:38",
+      "content": "Seit nunmehr sieben Monaten kursieren in den USA Vogelgrippeviren in Milchk\u00fchen. 14 Bundesstaaten haben insgesamt 215 infizierte Herden gemeldet. Doch wie das H5N1-Virus von Kuh zu Kuh gelangt, ob \u00fcb\u2026 [+6226 chars]",
+      "retrievedAt": "2024-09-26 19:05:42.794525",
+      "internal_id": "91c358d6cd3a81e84d027e3a7323fdafeb013de8d4b75151214b9f57687b23a0",
+      "publishedAtLabel": "Sep 25"
+    },
+    {
+      "id": 13975,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Phys.Org",
+      "author": "Susanne Rust, Los Angeles Times",
+      "title": "Concern grows as bird flu outbreaks continue to rise among California dairy herds",
+      "description": "Reports of H5N1 bird flu outbreaks at California dairy herds are continuing to rise as the nation's largest milk producer scrambles to contain the spread.",
+      "url": "https://phys.org/news/2024-09-bird-flu-outbreaks-california-dairy.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/dairy-cows.jpg",
+      "publishedAt": "2024-09-25 13:40:02",
+      "content": "Reports of H5N1 bird flu outbreaks at California dairy herds are continuing to rise as the nation's largest milk producer scrambles to contain the spread. On Monday, officials reported that the numb\u2026 [+3425 chars]",
+      "retrievedAt": "2024-09-26 19:05:42.747860",
+      "internal_id": "74f40bda55566fb2caeaecc35c16471b3750a036ddbd7233b1a49698a9fbb9ee",
+      "publishedAtLabel": "Sep 25"
+    },
+    {
+      "id": 13986,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Indian Express",
+      "author": "IE Bangla Web Desk",
+      "title": "Dengue cases: \u09ab\u09c7\u09b0 \u09a1\u09c7\u0999\u09cd\u0997\u09c1\u09b0 \u0986\u09a4\u0999\u09cd\u0995! \u09ac\u09c7\u09a1\u09bc\u09c7\u099b\u09c7 \u0986\u0995\u09cd\u09b0\u09be\u09a8\u09cd\u09a4, \u09b6\u0999\u09cd\u0995\u09be\u09df \u09ac\u09bf\u09b6\u09c7\u09b7\u099c\u09cd\u099e\u09b0\u09be",
+      "description": "Dengue cases: \u09ad\u09be\u09b0\u09a4-\u09b8\u09b9 \u09ac\u09bf\u09b6\u09cd\u09ac\u09c7\u09b0 \u09ac\u09bf\u09ad\u09bf\u09a8\u09cd\u09a8 \u09a6\u09c7\u09b6\u09c7 \u098f\u09ac\u099b\u09b0 \u09a1\u09c7\u0999\u09cd\u0997\u09c1 \u0986\u0995\u09cd\u09b0\u09be\u09a8\u09cd\u09a4\u09c7\u09b0 \u09b8\u0982\u0996\u09cd\u09af\u09be \u09b0\u09c7\u0995\u09b0\u09cd\u09a1 \u09ac\u09c3\u09a6\u09cd\u09a7\u09bf \u09aa\u09c7\u09b2\u0964 \u09ac\u09bf\u09b6\u09cd\u09ac \u09b8\u09cd\u09ac\u09be\u09b8\u09cd\u09a5\u09cd\u09af \u09b8\u0982\u09b8\u09cd\u09a5\u09be\u09b0 \u09b9\u09bf\u09b8\u09c7\u09ac \u0985\u09a8\u09c1\u09af\u09be\u09df\u09c0, \u09b8\u09ac\u099a\u09c7\u09df\u09c7 \u09ac\u09c7\u09b6\u09bf \u09b8\u0982\u0995\u09cd\u09b0\u09ae\u09a3 \u09a6\u09c7\u0996\u09be \u0997\u09bf\u09df\u09c7\u099b\u09c7 \u09ac\u09cd\u09b0\u09be\u099c\u09bf\u09b2, \u0986\u09ae\u09c7\u09b0\u09bf\u0995\u09be\u09df\u0964 \u09a1\u09c7\u0999\u09cd\u0997\u09c1 \u098f\u0995\u099f\u09bf \u09ad\u09be\u0987\u09b0\u09be\u09b2 \u09b8\u0982\u0995\u09cd\u09b0\u09ae\u09a3\u0964 \u09af\u09be \u098f\u09a1\u09bf\u09b8 \u0987\u099c\u09bf\u09aa\u09cd\u099f\u09bf \u09ae\u09b6\u09be\u09b0 \u09ae\u09be\u09a7\u09cd\u09af\u09ae\u09c7 \u099b\u09a1\u09bc\u09be\u09af\u09bc\u0964 \u098f\u0987 \u09b0\u09cb\u0997\u09c7 \u09aa\u09cd\u09b0\u099a\u2026",
+      "url": "https://bengali.indianexpress.com/explained/dengue-cases-have-surged-this-year-in-across-the-world-7093662",
+      "urlToImage": "https://img-cdn.thepublive.com/fit-in/1200x675/indian-express-bangla/media/media_files/wRy2lCmKif5h9wvY2luz.jpg",
+      "publishedAt": "2024-09-25 12:45:16",
+      "content": "Dengue cases: - , , , , , , - , , , , % - ! , . , ' , '",
+      "retrievedAt": "2024-09-26 19:05:43.325107",
+      "internal_id": "4e4a4cfb2b6614149478ae29fa332cb42d36f71280ee041831b1387ea5a4927f",
+      "publishedAtLabel": "Sep 25"
+    },
+    {
+      "id": 13992,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Columbia Journalism Review",
+      "author": "Lauren Watson",
+      "title": "Q&A: Photojournalist Moses Sawasawa on how mpox brought new focus to the struggles of the DRC",
+      "description": "If he could choose, the photojournalist Moses Sawasawa would be capturing the soft moments of kindness between the people of his city. But his home in Goma, in the east of the Democratic Republic of the Congo, hasn\u2019t known peace in his twenty-five years. On t\u2026",
+      "url": "https://www.cjr.org/the_media_today/qa_sawasawa_photojournalist_drc_mpox.php",
+      "urlToImage": "https://www.cjr.org/wp-content/uploads/2024/09/AP24262590843580-800x431.jpg?122376",
+      "publishedAt": "2024-09-25 12:03:02",
+      "content": "If he could choose, the photojournalist Moses Sawasawa would be capturing the soft moments of kindness between the people of his city. But his home in Goma, in the east of the Democratic Republic of \u2026 [+12663 chars]",
+      "retrievedAt": "2024-09-26 19:05:45.140631",
+      "internal_id": "59b6d9a2070113cbd519039c651a2cf0a02cf7f8bb100b2c7d710be99464b32c",
+      "publishedAtLabel": "Sep 25"
+    },
+    {
+      "id": 13997,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Investing.com",
+      "author": "Investing.com",
+      "title": "Emergent BioSolutions Confirms Approximately $400 million in Orders in 2024 & 2025 to Support Smallpox and Mpox Preparedness Efforts",
+      "description": "Emergent BioSolutions Confirms Approximately $400 million in Orders in 2024 & 2025 to Support Smallpox and Mpox Preparedness Efforts",
+      "url": "https://www.investing.com/news/press-releases/emergent-biosolutions-confirms-approximately-400-million-in-orders-in-2024--2025-to-support-smallpox-and-mpox-preparedness-efforts-93CH-3631736",
+      "urlToImage": "https://i-invdn-com.investing.com/redesign/images/seo/investing_300X300.png",
+      "publishedAt": "2024-09-25 11:20:04",
+      "content": "$185+ million in incremental orders for ACAM2000 \u00ae and VIGIV to be delivered in 2024 and 2025 GAITHERSBURG, Md., Sept. 25, 2024 (GLOBE NEWSWIRE) -- Emergent BioSolutions Inc. (NYSE: EBS) today anno\u2026 [+11157 chars]",
+      "retrievedAt": "2024-09-26 19:05:45.350373",
+      "internal_id": "856fd6ee60e156162527a6848c9a3c958e03ee3ddabfb8d532cd68810ff1d548",
+      "publishedAtLabel": "Sep 25"
+    },
+    {
+      "id": 13999,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Emergent Biosolutions, Inc.",
+      "title": "Emergent BioSolutions Confirms Approximately $400 million in Orders in 2024 & 2025 to Support Smallpox and Mpox Preparedness Efforts",
+      "description": "$185+ million in incremental orders for ACAM2000\u00ae and VIGIV to be delivered in 2024 and 2025 $185+ million in incremental orders for ACAM2000\u00ae and VIGIV to be delivered in 2024 and 2025",
+      "url": "https://www.globenewswire.com/news-release/2024/09/25/2952819/33240/en/Emergent-BioSolutions-Confirms-Approximately-400-million-in-Orders-in-2024-2025-to-Support-Smallpox-and-Mpox-Preparedness-Efforts.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/56a9097d-af91-4bcf-8c42-5905e1614ef1",
+      "publishedAt": "2024-09-25 11:07:00",
+      "content": "GAITHERSBURG, Md., Sept. 25, 2024 (GLOBE NEWSWIRE) -- Emergent BioSolutions Inc. (NYSE: EBS) today announced it has secured approximately $400 million in orders in 2024 and 2025 associated with its v\u2026 [+10981 chars]",
+      "retrievedAt": "2024-09-26 19:05:45.387427",
+      "internal_id": "527d97901d54d020a7db538c4b463d212248a8c39507d04fb80922abe0e3057a",
+      "publishedAtLabel": "Sep 25"
+    },
+    {
+      "id": 13995,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Digi24.ro",
+      "author": "Bogdan Enache",
+      "title": "India a confirmat primul s\u0103u caz de infectare cu o tulpin\u0103 mai letal\u0103 a virusului care cauzeaz\u0103 mpox",
+      "description": "India a confirmat primul s\u0103u caz de infectare cu o tulpin\u0103 mai letal\u0103 de mpox, boal\u0103 cunoscut\u0103 \u0219i ca variola maimu\u021bei, care a st\u00e2rnit \u00eengrijorarea oficialilor din domeniul s\u0103n\u0103t\u0103\u021bii din \u00eentreaga lume cu privire la ritmul rapid al r\u0103sp\u00e2ndirii sale, informeaz\u0103 \u2026",
+      "url": "https://www.digi24.ro/stiri/actualitate/sanatate/india-a-confirmat-primul-sau-caz-de-infectare-cu-o-tulpina-mai-letala-a-virusului-care-cauzeaza-mpox-2943105",
+      "urlToImage": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjQl/MkYwOSUyRjI1JTJGMjA4NDcyMl8yMDg0/NzIyX3NhbG9uLWRlLWl6b2xhcmUtcGVu/dHJ1LWJvbG5hdmlpLWRlLW1wb3gtdmFy/aW9sYS1tYWltdXRlaS1pbi1pbmRpYS1w/cm9maW1lZGlhLTA5MDYzNzQ2OTMuanBn/Jnc9MTIwMCZoPTYzMCZ6Yz0xJmhhc2g9/OWZlZTYyMDFhNGI4ZWI4M2RiOWQ4MzA3NDk3N2I3MGQ=.thumb.jpg",
+      "publishedAt": "2024-09-25 10:46:41",
+      "content": "India a confirmat primul su caz de infectare cu o tulpin mai letal de mpox, boal cunoscut i ca variola maimuei, care a st\u00e2rnit \u00eengrijorarea oficialilor din domeniul sntii din \u00eentreaga lume cu privire\u2026 [+2844 chars]",
+      "retrievedAt": "2024-09-26 19:05:45.293920",
+      "internal_id": "abe96b78a58aaf0bd7a2d07db63d29540f8dd38955fa11af3ef9f3619987dfe9",
+      "publishedAtLabel": "Sep 25"
+    },
+    {
+      "id": 13998,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "le-monde",
+      "source_name": "Le Monde",
+      "author": "Le Monde avec AFP",
+      "title": "Les Etats-Unis vont offrir un million de doses de vaccin contre la mpox \u00e0 l\u2019Afrique, annonce Joe Biden",
+      "description": "La mpox, appel\u00e9 auparavant variole du singe, est une maladie virale qui se propage de l\u2019animal \u00e0 l\u2019homme, mais se transmet aussi entre humains lors de contacts physiques prolong\u00e9s.",
+      "url": "https://www.lemonde.fr/afrique/article/2024/09/25/les-etats-unis-vont-offrir-un-million-de-doses-de-vaccin-contre-la-mpox-a-l-afrique-annonce-joe-biden_6332869_3212.html",
+      "urlToImage": "https://img.lemde.fr/2024/09/25/0/0/3000/2000/1440/960/60/0/adbdd27_1727251423721-000-36ff9k3.jpg",
+      "publishedAt": "2024-09-25 08:10:00",
+      "content": "Un lot de vaccins contre la mpox sur le tarmac de la\u00e9roport de Kinshasa, le 5 septembre 2024. AFP Les Etats-Unis vont offrir un million de doses de vaccin contre la mpox \u00e0 des pays du continent afri\u2026 [+2444 chars]",
+      "retrievedAt": "2024-09-26 19:05:45.360318",
+      "internal_id": "ea33d4479f117a2c3353af9818bdfad7b041a5dab58098ffed77acbc282cb28d",
+      "publishedAtLabel": "Sep 25"
+    },
     {
       "id": 13960,
       "query": [
@@ -37643,96 +38113,6 @@
       "content": "New Delhi: As monsoon sets in, a surge in demand for seasonal products within the respiratory, anti-infective, and anti-malarial therapeutic categories have been seen. According to market research fi\u2026 [+2057 chars]",
       "retrievedAt": "2024-08-13 07:06:53.668946",
       "internal_id": "788082dfad686671baa5d198494d28d10cd1324336e7c378c20a4ca94df63381",
-      "publishedAtLabel": "Aug 11"
-    },
-    {
-      "id": 11882,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Faz.net",
-      "author": "Claudia Br\u00f6ll",
-      "title": "Sorge wegen Ausbreitung des Mpox-Virus in Afrika",
-      "description": "Eine neue Variante des Mpox-Virus breitet sich in Afrika aus. Mehr als 15.000 F\u00e4lle wurden seit Jahresbeginn registriert. Beh\u00f6rden sehen eine \u201ealarmierende Entwicklung\u201c, die WHO beruft einen Notfallausschuss ein.",
-      "url": "https://www.faz.net/aktuell/gesellschaft/gesundheit/mpox-virus-in-afrika-neue-variante-breitet-sich-aus-19913273.html",
-      "urlToImage": "https://media0.faz.net/ppmedia/aktuell/gesellschaft/805874728/1.9913288/facebook_teaser/eine-krankenschwester.jpg",
-      "publishedAt": "2024-08-11 18:54:32",
-      "content": "Einen Tag zuvor hatte die Weltgesundheitsorganisation wegen der weiteren Ausbreitung innerhalb und au\u00dferhalb Afrikas einen Notfallausschuss einberufen. Er solle pr\u00fcfen, ob der Ausbruch eine gesundhei\u2026 [+3470 chars]",
-      "retrievedAt": "2024-08-12 19:06:08.676886",
-      "internal_id": "0599adcff99139707421aeae9c960be048397ae165f7ba2a5be3e2c6faecae74",
-      "publishedAtLabel": "Aug 11"
-    },
-    {
-      "id": 11879,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Tbsnews.net",
-      "author": "Unb",
-      "title": "One dies of dengue; 202 hospitalised in 24hrs",
-      "description": "One death was reported from dengue in 24 hours till Sunday morning, raising the number of fatalities from the mosquito-borne disease in Bangladesh to 65 this year. During the period, 202 more patients were hospitalised with viral fever, according to the Direc\u2026",
-      "url": "https://www.tbsnews.net/bangladesh/health/one-dies-dengue-202-hospitalised-24hrs-914511",
-      "urlToImage": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/09/13/dengue-rajib-dhar.jpg",
-      "publishedAt": "2024-08-11 16:30:41",
-      "content": "One death was reported from dengue in 24 hours till Sunday morning, raising the number of fatalities from the mosquito-borne disease in Bangladesh to 65 this year. During the period, 202 more patien\u2026 [+433 chars]",
-      "retrievedAt": "2024-08-12 19:06:07.168514",
-      "internal_id": "37f7c12f867094cc1a16e3d59c506550898ea9a60433c1c8aa866ca050c80c98",
-      "publishedAtLabel": "Aug 11"
-    },
-    {
-      "id": 11878,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "DIE WELT",
-      "author": "Christina Sticht, Philipp Znidar",
-      "title": "Oropouche-Ausbruch weitet sich aus",
-      "description": "Brasilien meldet fast 7500 F\u00e4lle \u2013 und die ersten Todesopfer. W\u00e4hrend das Land zugleich gegen Dengue-Fieber k\u00e4mpfen muss, wird nun untersucht, welches Risiko f\u00fcr Schwangere durch Oropouche besteht. Ein Experte erkl\u00e4rt, ob sich das Virus auch in Deutschland ve\u2026",
-      "url": "https://www.welt.de/gesundheit/article252950606/Epidemie-Kann-sich-das-Oropouche-Virus-in-Deutschland-ausbreiten.html",
-      "urlToImage": "https://img.welt.de/img/gesundheit/mobile252950602/6217936867-ci16x9-w1200/Fumace-Alberto-Torre.jpg",
-      "publishedAt": "2024-08-11 15:08:07",
-      "content": "Brasilien meldet fast 7500 F\u00e4lle und die ersten Todesopfer. W\u00e4hrend das Land zugleich gegen Dengue-Fieber k\u00e4mpfen muss, wird nun untersucht, welches Risiko f\u00fcr Schwangere durch Oropouche besteht. Ein\u2026 [+6484 chars]",
-      "retrievedAt": "2024-08-12 19:06:07.079239",
-      "internal_id": "ce8eb764efff712d7a622b489b1873a03b3e8d8098b3653e186668fcb3b2e7d0",
-      "publishedAtLabel": "Aug 11"
-    },
-    {
-      "id": 11880,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Digi24.ro",
-      "author": "Maria Isopescu",
-      "title": "Epidemia de \u201evariola maimu\u021bei\u201d se r\u0103sp\u00e2nde\u0219te \u00een mai multe \u021b\u0103ri africane. OMS convoac\u0103 un comitet de urgen\u021b\u0103",
-      "description": "Organiza\u0163ia Mondial\u0103 a S\u0103n\u0103t\u0103\u0163ii (OMS) convoac\u0103 un comitet de urgen\u0163\u0103 pe tema mpox - cunoscut\u0103 \u015fi sub denumirea de ''variola maimu\u0163ei'' \u2013 pentru 14 august, pentru a evalua necesitatea decret\u0103rii celui mai \u00eenalt nivel de alert\u0103 \u00een fa\u0163a actualei epidemii din ma\u2026",
-      "url": "https://www.digi24.ro/stiri/actualitate/sanatate/epidemia-de-variola-maimutei-se-raspandeste-in-mai-multe-tari-africane-oms-convoaca-un-comitet-de-urgenta-2890979",
-      "urlToImage": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA1dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjIl/MkYwNSUyRjIxJTJGMTUxMzIxNl8xNTEz/MjE2X3ZhcmlvbGEtbWFpbXV0ZWktcHJv/ZmltZWRpYS0xLmpwZyZ3PTEyMDAmaD02/MzAmemM9MSZoYXNoPWFkMzI1ZGNkYmRhOTI5ZjhhNjgxODcyZGNhMWFhODQ3.thumb.jpg",
-      "publishedAt": "2024-08-11 08:39:07",
-      "content": "Organizaia Mondial a Sntii (OMS) convoac un comitet de urgen pe tema mpox - cunoscut i sub denumirea de ''variola maimuei'' pentru 14 august, pentru a evalua necesitatea decretrii celui mai \u00eenalt niv\u2026 [+2452 chars]",
-      "retrievedAt": "2024-08-12 19:06:08.583653",
-      "internal_id": "5ac2f3f9b68c5e4620042b101959245bf9f874a3a72a6e135db969c98891fb73",
-      "publishedAtLabel": "Aug 11"
-    },
-    {
-      "id": 11881,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "L'Express",
-      "author": "Victor Garcia",
-      "title": "Nouvelle \u00e9pid\u00e9mie de Mpox : \"On sait ce qu\u2019est une pand\u00e9mie, et on n\u2019en veut pas\"",
-      "description": "Une nouvelle souche de la variole du singe, qui pourrait \u00eatre plus transmissible et plus l\u00e9tale, inqui\u00e8te l\u2019OMS, qui devrait rehausser son alerte d\u2019ici quelques jours.",
-      "url": "https://www.lexpress.fr/sciences-sante/sciences/nouvelle-epidemie-de-mpox-on-sait-ce-quest-une-pandemie-et-on-nen-veut-pas-Q7QJWCFML5EUPD4L7AI5JGQ5KY/",
-      "urlToImage": "https://www.lexpress.fr/resizer/v2/3BLCYWTIM5DVFAXCSHB6JYYGCQ.jpg?auth=73a3f28297ce361e6afab5c58e26ba7607687405803332bdeef8d8eab18fd0e1&width=1200&height=630&quality=85&smart=true",
-      "publishedAt": "2024-08-11 08:30:00",
-      "content": "Faut-il sinqui\u00e9ter de l\u00e9pid\u00e9mie du nouveau variant de Mpox, aussi appel\u00e9 \"variole du singe\" ? D\u00e9tect\u00e9e en R\u00e9publique d\u00e9mocratique du Congo (RDC) en septembre 2023, la maladie se propage depuis dans p\u2026 [+9165 chars]",
-      "retrievedAt": "2024-08-12 19:06:08.644131",
-      "internal_id": "0dfa34437a537e8a5cbdc57d532f591befba6cc39776b010ecea1850110e83f7",
       "publishedAtLabel": "Aug 11"
     }
   ]
