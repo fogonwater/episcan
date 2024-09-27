@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 10
-- **Last harvest:** 2024-09-27 07:06
-- **Most recent article:** 2024-09-26 05:30:00
+- **New articles in last harvest:** 26
+- **Last harvest:** 2024-09-27 19:05
+- **Most recent article:** 2024-09-26 18:33:05
 
 ---
 
@@ -12,25 +12,31 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-33 | 24-34 | 24-35 | 24-36 | 24-37 | 24-38 | 24-39 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 288 | 208 | 207 | 184 | 192 | 140 | 75 | 1294 |
-| dengue | 50 | 64 | 45 | 49 | 76 | 73 | 37 | 394 |
-| malaria | 18 | 27 | 28 | 14 | 12 | 15 | 16 | 130 |
-| h5n1 | 8 | 5 | 10 | 31 | 10 | 17 | 23 | 104 |
+| mpox | 285 | 208 | 207 | 184 | 192 | 140 | 81 | 1297 |
+| dengue | 48 | 64 | 45 | 49 | 76 | 73 | 41 | 396 |
+| malaria | 18 | 27 | 28 | 14 | 12 | 15 | 17 | 131 |
+| h5n1 | 8 | 5 | 10 | 31 | 10 | 17 | 30 | 111 |
 | zika | 10 | 21 | 2 | 6 | 10 | 8 | 0 | 57 |
-| rabies | 12 | 6 | 3 | 7 | 5 | 13 | 5 | 51 |
+| rabies | 12 | 6 | 3 | 7 | 5 | 13 | 10 | 56 |
 | meningitis | 8 | 11 | 5 | 6 | 3 | 10 | 6 | 49 |
 | chikungunya | 8 | 10 | 1 | 5 | 13 | 9 | 2 | 48 |
-| measles | 3 | 7 | 11 | 9 | 5 | 8 | 1 | 44 |
+| measles | 3 | 7 | 11 | 9 | 5 | 8 | 3 | 46 |
 | pertussis | 3 | 5 | 2 | 1 | 5 | 3 | 3 | 22 |
+| yersinia | 0 | 1 | 1 | 2 | 0 | 2 | 2 | 8 |
 | typhoid | 1 | 2 | 1 | 1 | 0 | 0 | 3 | 8 |
 | leptospirosis | 1 | 4 | 0 | 1 | 0 | 1 | 1 | 8 |
 | hpai | 1 | 1 | 0 | 3 | 1 | 0 | 2 | 8 |
-| yersinia | 0 | 1 | 1 | 2 | 0 | 2 | 0 | 6 |
 
 
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 24-39 (yersinia)
+
+- [Jiřinu Bohdalovou potrápila bakterie Yersinia enterocolitica](https://cmp.seznam.cz/nastaveni-souhlasu?return_url=https%3A%2F%2Fwww.novinky.cz%2Fclanek%2Fdomaci-jirinu-bohdalovou-potrapila-bakterie-yersinia-enterocolitica-40490602%3Fcwreturn%3D1&service=bcr&cwtime=1727358940896) (Seznam.cz)
+
+- [Za potíže Bohdalové mohou bakterie Yersinia. Ročně napadnou stovky lidí](https://www.idnes.cz/zpravy/domaci/bohdalova-bakterie-infekce-yersinioza.A240926_125021_domaci_vlc) (Idnes.cz)
 
 ## 24-39 (typhoid)
 
@@ -41,6 +47,16 @@ Source: [News API](https://newsapi.org/)
 - [Antibiotics becoming ineffective against diseases like typhoid, pneumonia, and urinary infections: ICMR rings alarm](https://economictimes.indiatimes.com/news/india/antibiotics-becoming-ineffective-against-diseases-like-typhoid-pneumonia-and-urinary-infections-icmr-rings-alarm/articleshow/113599189.cms) (The Times of India)
 
 ## 24-39 (rabies)
+
+- [Airdropping vaccines to eliminate canine rabies in Texas](https://phys.org/news/2024-09-airdropping-vaccines-canine-rabies-texas.html) (Phys.Org)
+
+- [Rabies Alert: Meghalaya Reports 27 Deaths in 2 Years, Health Minister Calls for Action](https://southasiaviews.com/featured/rabies-alert-meghalaya-reports-27-deaths-in-2-years-health-minister-calls-for-action/) (Southasiaviews.com)
+
+- [Meghalaya records 27 rabies deaths in last 2 years, Govt to come up with action plan: Ampareen](https://www.syllad.com/meghalaya-records-27-rabies-deaths-in-last-2-years-govt-to-come-up-with-action-plan-ampareen/) (Syllad.com)
+
+- [Airdropping vaccines to eliminate canine rabies in Texas – two scientists explain the decades of research behind its success](https://theconversation.com/airdropping-vaccines-to-eliminate-canine-rabies-in-texas-two-scientists-explain-the-decades-of-research-behind-its-success-238508) (The Conversation Africa)
+
+- [Kaei ka Rabies? Kumno ka saphriang?](https://www.syllad.com/kaei-ka-rabies-kumno-ka-saphriang/) (Syllad.com)
 
 - [5th case of rabies reported in Gaston County, health officials say](https://www.wsoctv.com/news/local/5th-case-rabies-reported-gaston-county-health-officials-say/66DRV3NHNZGUPFMXHCD4QIIQII/) (WSOC Charlotte)
 
@@ -61,6 +77,18 @@ Source: [News API](https://newsapi.org/)
 - [Whooping cough cases are soaring. Can infecting people help test a better vaccine?](https://www.wxii12.com/article/whooping-cough-cases-soaring-vaccine/62305261) (WXII12 Winston-Salem)
 
 ## 24-39 (mpox)
+
+- [África registra más de 32,400 casos y 840 muertes por mpox en lo que va de 2024](https://www.forbes.com.mx/africa-registra-mas-de-32400-casos-y-840-muertes-por-mpox-en-lo-que-va-de-2024/) (Forbes.com.mx)
+
+- [Bavarian Nordic Signs Agreement with UNICEF for 1 Million Mpox Vaccines](https://www.globenewswire.com/news-release/2024/09/26/2953967/0/en/Bavarian-Nordic-Signs-Agreement-with-UNICEF-for-1-Million-Mpox-Vaccines.html) (GlobeNewswire)
+
+- [Bavarian Nordic indgår aftale med UNICEF om levering af 1 million doser mpox-vaccine](https://www.globenewswire.com/news-release/2024/09/26/2953967/0/da/Bavarian-Nordic-indg%C3%A5r-aftale-med-UNICEF-om-levering-af-1-million-doser-mpox-vaccine.html) (GlobeNewswire)
+
+- [Bavarian Nordic Upgrades its Financial Guidance for 2024](https://www.globenewswire.com/news-release/2024/09/26/2953969/0/en/Bavarian-Nordic-Upgrades-its-Financial-Guidance-for-2024.html) (GlobeNewswire)
+
+- [Bavarian Nordic opjusterer sine økonomiske forventninger til 2024](https://www.globenewswire.com/news-release/2024/09/26/2953969/0/da/Bavarian-Nordic-opjusterer-sine-%C3%B8konomiske-forventninger-til-2024.html) (GlobeNewswire)
+
+- [Sanidad notifica 11 nuevos casos de viruela del mono en una semana, todos de la antigua variante](https://www.infosalus.com/salud-investigacion/noticia-sanidad-notifica-11-nuevos-casos-viruela-mono-semana-todos-antigua-variante-20240926133426.html) (Infosalus.com)
 
 - [Fact Check. Vacina contra a Covid-19 da Astrazeneca é responsável pela transmissão da Mpox?](https://observador.pt/factchecks/fact-check-vacina-contra-a-covid-19-da-astrazeneca-e-responsavel-pela-transmissao-da-mpox/) (Observador.pt)
 
@@ -228,9 +256,15 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-39 (measles)
 
+- [Meghalaya records 214 measles cases, 11 outbreaks in past 8 months: Dr Mawlong](https://www.syllad.com/meghalaya-records-214-measles-cases-11-outbreaks-in-past-8-months-dr-mawlong/) (Syllad.com)
+
+- [Research: Measles, mumps and rubella: lab-confirmed cases in England 2024](https://www.gov.uk/government/publications/measles-mumps-and-rubella-lab-confirmed-cases-in-england-2024) (Www.gov.uk)
+
 - [Health authorities in England carefully hid MMR vaccine levels as deadly measles cases surged across country and into Scotland](https://talkingupscotlandtwo.com/2024/09/24/health-authorities-in-england-carefully-hid-mmr-vaccine-levels-as-deadly-measles-cases-surged-across-country-and-into-scotland/) (Talkingupscotlandtwo.com)
 
 ## 24-39 (malaria)
+
+- [Stable introduction of Wolbachia wPip into invasive Anopheles stephensi for potential malaria control](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012523) (Plos.org)
 
 - [América supera al Columbus Crew en penaltis para coronarse en la Campeones Cup](https://www.milenio.com/deportes/futbol-internacional/resultados-del-partido-columbus-crew-y-america-cronica-campeones-cup) (Milenio)
 
@@ -275,6 +309,20 @@ Source: [News API](https://newsapi.org/)
 - ["Пернатые пираты" ускоряют распространение смертельного птичьего гриппа, выяснили ученые](https://www.gazeta.ru/science/news/2024/09/22/23979301.shtml) (Gazeta.ru)
 
 ## 24-39 (h5n1)
+
+- [H5N1 Bird Flu Is “Mutating” Fast](https://www.shtfplan.com/headline-news/h5n1-bird-flu-is-mutating-fast) (Shtfplan.com)
+
+- [Second Health Care Worker Exposed to Person with Bird Flu Had Symptoms. Here’s What We Know and Don’t Know](https://www.scientificamerican.com/article/second-health-care-worker-exposed-to-person-with-bird-flu-had-symptoms-heres/) (Scientific American)
+
+- [Un estudio confirma que la gripe aviar de EEUU se contagia por el ordeño. Son malas noticias para Europa](https://www.directoalpaladar.com/actualidad-1/estudio-confirma-que-gripe-aviar-eeuu-se-contagia-ordeno-malas-noticias-para-europa) (Directoalpaladar.com)
+
+- [New pandemic could be 'evolving under radar' as health warning issued](https://www.cornwalllive.com/news/uk-world-news/new-pandemic-could-evolving-under-9582691) (Cornwall Live)
+
+- [Bird flu casts a wider net as U.S. health officials keep drip-feeding information on Fridays](https://fortune.com/2024/09/26/bird-flu-us-health-officials-h5n1-cdc-information/) (Fortune)
+
+- [Alerta para Europa ante el descontrol del inusual nuevo brote de gripe aviar: riesgo actual en España](https://www.huffingtonpost.es/life/salud/alerta-europa-descontrol-inusual-nuevo-brote-gripe-aviar-riesgo-actual-espana.html) (Huffingtonpost.es)
+
+- [H5N1 Influenza May Be Spreading Through Cows via Milking Rather Than Air, Experts Weigh In](https://www.theepochtimes.com/health/h5n1-influenza-may-be-spreading-in-cows-by-milking-than-through-air-experts-weigh-in-5730287) (Theepochtimes.com)
 
 - [Die Milch macht’s – wie das Vogelgrippevirus in den USA zwischen Kühen übertragen wird](https://www.nzz.ch/wissenschaft/vogelgrippe-bei-milchkuehen-in-den-usa-neue-studie-enthuellt-uebertragungsweg-in-staellen-ld.1850017) (Www.nzz.ch)
 
@@ -323,6 +371,14 @@ Source: [News API](https://newsapi.org/)
 - ["Пернатые пираты" ускоряют распространение смертельного птичьего гриппа, выяснили ученые](https://www.gazeta.ru/science/news/2024/09/22/23979301.shtml) (Gazeta.ru)
 
 ## 24-39 (dengue)
+
+- [Fernán Quirós se refirió a los brotes por la primavera y recomendó volver a usar barbijo](https://www.lanacion.com.ar/sociedad/fernan-quiros-se-refirio-a-los-brotes-por-la-primavera-y-recomendo-volver-a-usar-barbijo-nid26092024/) (La Nacion)
+
+- [Stable introduction of Wolbachia wPip into invasive Anopheles stephensi for potential malaria control](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012523) (Plos.org)
+
+- [La vacunación contra el dengue ya tiene 10 mil inscriptos: cómo hacer para pedir turno](https://noticias.perfil.com/noticias/informacion-general/la-vacunacion-contra-el-dengue-ya-tiene-10-mil-inscriptos-como-hacer-para-pedir-turno.phtml) (Perfil.com)
+
+- [Dengue: Jorge Macri contó cómo avanzará la vacunación y reveló cuántas personas se anotaron](https://www.lanacion.com.ar/politica/dengue-jorge-macri-conto-como-avanzara-la-vacunacion-y-revelo-cuantas-personas-se-anotaron-nid26092024/) (La Nacion)
 
 - [Fourth case of dengue reported in LA County, raising concern of public health officials](https://www.cbsnews.com/losangeles/news/fourth-case-of-dengue-reported-in-la-county-raising-concern-of-public-health-officials/) (CBS News)
 
@@ -4438,12 +4494,6 @@ Source: [News API](https://newsapi.org/)
 
 - [WHO Schedules Emergency Meeting Over Mpox Outbreak](https://www.theepochtimes.com/health/who-schedules-emergency-meeting-over-mpox-outbreak-5703755) (Theepochtimes.com)
 
-- [Sorge wegen Ausbreitung des Mpox-Virus in Afrika](https://www.faz.net/aktuell/gesellschaft/gesundheit/mpox-virus-in-afrika-neue-variante-breitet-sich-aus-19913273.html) (Faz.net)
-
-- [Epidemia de „variola maimuței” se răspândește în mai multe țări africane. OMS convoacă un comitet de urgență](https://www.digi24.ro/stiri/actualitate/sanatate/epidemia-de-variola-maimutei-se-raspandeste-in-mai-multe-tari-africane-oms-convoaca-un-comitet-de-urgenta-2890979) (Digi24.ro)
-
-- [Nouvelle épidémie de Mpox : "On sait ce qu’est une pandémie, et on n’en veut pas"](https://www.lexpress.fr/sciences-sante/sciences/nouvelle-epidemie-de-mpox-on-sait-ce-quest-une-pandemie-et-on-nen-veut-pas-Q7QJWCFML5EUPD4L7AI5JGQ5KY/) (L'Express)
-
 ## 24-33 (meningitis)
 
 - [Local pharmacist blamed for deaths in U.S. meningitis outbreak will plead no contest in Michigan case](https://www.boston.com/news/local-news/2024/08/17/pharmacist-blamed-for-deaths-in-u-s-meningitis-outbreak-will-plead-no-contest-in-michigan-case/) (Boston.com)
@@ -4631,10 +4681,6 @@ Source: [News API](https://newsapi.org/)
 - [Dengue confirmed in 1,369 people in Gandaki](https://english.khabarhub.com/2024/12/376904/) (Khabarhub.com)
 
 - [Eco-friendly mosquito killer to help control dengue spread in Bengaluru](https://timesofindia.indiatimes.com/city/bengaluru/eco-friendly-mosquito-killer-to-help-control-dengue-spread-in-bengaluru/articleshow/112449641.cms) (The Times of India)
-
-- [One dies of dengue; 202 hospitalised in 24hrs](https://www.tbsnews.net/bangladesh/health/one-dies-dengue-202-hospitalised-24hrs-914511) (Tbsnews.net)
-
-- [Oropouche-Ausbruch weitet sich aus](https://www.welt.de/gesundheit/article252950606/Epidemie-Kann-sich-das-Oropouche-Virus-in-Deutschland-ausbreiten.html) (DIE WELT)
 
 ## 24-33 (chikungunya)
 
