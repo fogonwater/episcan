@@ -1,8 +1,188 @@
 {
-  "last_updated": "2024-09-26 19:05",
-  "count_articles_total": 2112,
-  "count_articles_new": 26,
+  "last_updated": "2024-09-27 07:06",
+  "count_articles_total": 2127,
+  "count_articles_new": 10,
   "articles": [
+    {
+      "id": 14000,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Newser",
+      "author": "Evann Gastaldo",
+      "title": "Whooping Cough Cases Surge",
+      "description": "US whooping cough cases are at their highest level since 2014, and experts say unvaccinated or under-vaccinated teens and tweens\u2014plus \"post-pandemic vaccine fatigue\"\u2014are driving the surge. Pertussis, called whooping cough because of the distinctive noise suff\u2026",
+      "url": "https://www.newser.com/story/356862/whooping-cough-cases-surge.html",
+      "urlToImage": "https://img2-azrcdn.newser.com/image/1562025-12-20240926010702.jpeg",
+      "publishedAt": "2024-09-26 05:30:00",
+      "content": "US whooping cough cases are at their highest level since 2014, and experts say unvaccinated or under-vaccinated teens and tweens\u2014plus \"post-pandemic vaccine fatigue\"\u2014are driving the surge. Pertussis,\u2026 [+1142 chars]",
+      "retrievedAt": "2024-09-27 07:06:12.108586",
+      "internal_id": "a8f2346512182c6e5f11e1f53495fb23ee6d88388efbe6637f7201575b86d890",
+      "publishedAtLabel": "Sep 26"
+    },
+    {
+      "id": 14002,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Www.nzz.ch",
+      "author": "Stephanie Lahrtz (slz)",
+      "title": "Die Milch macht\u2019s \u2013 wie das Vogelgrippevirus in den USA zwischen K\u00fchen \u00fcbertragen wird",
+      "description": "Die Erkenntnisse einer neuen Studie mindern die Angst vor einer baldigen Vogelgrippe-Pandemie unter Menschen. Sie zeigen zudem, wie die Epidemie in den St\u00e4llen beendet werden k\u00f6nnte \u2013 und dass der Ausbruch in den USA menschengemacht ist.",
+      "url": "https://www.nzz.ch/wissenschaft/vogelgrippe-bei-milchkuehen-in-den-usa-neue-studie-enthuellt-uebertragungsweg-in-staellen-ld.1850017",
+      "urlToImage": "https://img.nzz.ch/2022/03/28/5c271704-0ac7-4bd0-90c9-42a07ec7eb35.jpeg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=4545,2557,x0,y323&wmark=nzz",
+      "publishedAt": "2024-09-26 03:30:00",
+      "content": "Das Euter spielt die zentrale Rolle bei der Verbreitung von H5N1-Viren in Milchkuhst\u00e4llen. Die Milch infizierter Tiere ist hochinfekti\u00f6s, Viren werden \u00fcber kontaminiertes Melkgeschirr \u00fcbertragen. Se\u2026 [+4936 chars]",
+      "retrievedAt": "2024-09-27 07:06:13.436432",
+      "internal_id": "ebb9e8e2cf5985c674f282d41291f816485261246ce84f1d1bd71e7df391697b",
+      "publishedAtLabel": "Sep 26"
+    },
+    {
+      "id": 14006,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Dean Fioresi",
+      "title": "Fourth case of dengue reported in LA County, raising concern of public health officials",
+      "description": "Public health officials say this case is unrelated to the three other cases in Baldwin Park, which they called \"unprecedented\" last week.",
+      "url": "https://www.cbsnews.com/losangeles/news/fourth-case-of-dengue-reported-in-la-county-raising-concern-of-public-health-officials/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/05/14/2e762c98-4c7e-4e67-b8ff-f0f4f3a48ac3/thumbnail/1200x630/69de4cf1084d3b5da8e0c6bd5f4ec2a4/gettyimages-1134819260.jpg?v=05e1d8b62a2ebbf0c759b67223fa87f8",
+      "publishedAt": "2024-09-26 03:01:58",
+      "content": "Los Angeles County public health officials have reported a fourth locally acquired case of dengue, just a week after releasing information on an \"unprecedented\" cluster of infections. The new case,\u2026 [+1784 chars]",
+      "retrievedAt": "2024-09-27 07:06:14.047936",
+      "internal_id": "0827a622e6ddb2dac595bebb0636e4c44cc0c3eeb7cad3d95f3c190210f75fa5",
+      "publishedAtLabel": "Sep 26"
+    },
+    {
+      "id": 14007,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Lavozdegalicia.es",
+      "author": "https://www.facebook.com/lavozdegalicia",
+      "title": "Un recuerdo de las epidemias de meningitis",
+      "description": "Estrenan el documental sobre la enfermedad en Galicia",
+      "url": "https://www.lavozdegalicia.es/noticia/vigo/2024/09/25/recuerdo-epidemias-meningitis/00031727288521330655100.htm",
+      "urlToImage": "https://img.lavdg.com/sc/9O6UGvmQ4Mdb_g68QSnivNHE2BE=/1280x/2024/09/25/00121727289001627267897/Foto/VS26C4F5_202825.jpg",
+      "publishedAt": "2024-09-26 03:00:00",
+      "content": "La Asociaci\u00f3n Espa\u00f1ola contra la Meningitis present\u00f3 ayer en el C\u00edrculo de Empresarios de Galicia el documental La meningitis en Galicia: m\u00e1s all\u00e1 de las cifras, con testimonios de la epidemia de los\u2026 [+441 chars]",
+      "retrievedAt": "2024-09-27 07:06:14.512310",
+      "internal_id": "e2fbe58d4ba97c78728a90bd1086b5a7966cd6abaf2bd9e97d9346191973b671",
+      "publishedAtLabel": "Sep 26"
+    },
+    {
+      "id": 14008,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Milenio",
+      "author": "Higinio Robles Le\u00f3n",
+      "title": "Am\u00e9rica supera al Columbus Crew en penaltis para coronarse en la Campeones Cup",
+      "description": "Se acab\u00f3 la malaria del Am\u00e9rica en el plano internacional, sufri\u00f3 para ello, porque se tuvo que ir hasta la tanda de penales y dirimir su sequ\u00eda en la muerte s\u00fabita, en la ruleta de los penales cruz\u00f3 los dedos, sac\u00f3 el rosario tuvo subidones de emociones. Al \u2026",
+      "url": "https://www.milenio.com/deportes/futbol-internacional/resultados-del-partido-columbus-crew-y-america-cronica-campeones-cup",
+      "urlToImage": "https://cdn.milenio.com/uploads/media/2024/09/25/america-supera-columbus-crew-penaltis.jpg",
+      "publishedAt": "2024-09-26 01:42:00",
+      "content": "Se acab\u00f3 la malaria del Am\u00e9rica en el plano internacional, sufri\u00f3 para ello, porque se tuvo que ir hasta la tanda de penales y dirimir su sequ\u00eda en la muerte s\u00fabita, en la ruleta de los penales cruz\u00f3\u2026 [+2480 chars]",
+      "retrievedAt": "2024-09-27 07:06:14.801119",
+      "internal_id": "1e842d5b128b33025cc15aa11e694fa12736ea6b4cf866426d237fd98db90502",
+      "publishedAtLabel": "Sep 26"
+    },
+    {
+      "id": 14001,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "el-mundo",
+      "source_name": "El Mundo",
+      "author": "Gracia Pablos",
+      "title": "\u00bfPor qu\u00e9 el actual brote de gripe aviar es tan inusual (y preocupante)?",
+      "description": "Si bien los expertos est\u00e1n de acuerdo en que el salto a los humanos parece dif\u00edcil, lo cierto es que este virus de gripe aviar A (H5N1) ya ha hecho que lo que parec\u00eda impensable est\u00e9 sucediendo Leer",
+      "url": "https://www.elmundo.es/ciencia-y-salud/salud/2024/09/26/66eaeaa4e9cf4a387a8b4591.html",
+      "urlToImage": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/graficos/1726672680_990x0.jpg",
+      "publishedAt": "2024-09-26 00:04:59",
+      "content": "La gripe aviar lleva tanto tiempo amenazando nuestra salud que parecemos habernos anestesiado a sus alertas. El inesperado salto a las vacas y el primer contagio en una persona que no ha tenido conta\u2026 [+9813 chars]",
+      "retrievedAt": "2024-09-27 07:06:13.425976",
+      "internal_id": "45351509a2f3938b3efe61a608f637aaa55bf8d384ff6cfb1c7db67fb39aa057",
+      "publishedAtLabel": "Sep 26"
+    },
+    {
+      "id": 14004,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Endtimeheadlines.org",
+      "author": "End Time Headlines",
+      "title": "Health care worker is third person to become ill after contact with Missouri patient who had bird flu",
+      "description": "Health care worker is third person to become ill after contact with Missouri patient who had bird fluendtimeheadlines.org",
+      "url": "https://endtimeheadlines.org/2024/09/health-care-worker-is-third-person-to-become-ill-after-contact-with-missouri-patient-who-had-bird-flu/",
+      "urlToImage": "https://endtimeheadlines.org/wp-content/uploads/2024/09/shutterstock_2269741661.jpg",
+      "publishedAt": "2024-09-25 20:02:13",
+      "content": "A third close contact of a patient in Missouri who was hospitalized with H5N1 bird flu has reported that they also experienced symptoms, the US Centers for Disease Control and Prevention said Friday.\u2026 [+2833 chars]",
+      "retrievedAt": "2024-09-27 07:06:13.504678",
+      "internal_id": "db8a715737e4c74861d2629952059e5f1ccb936aa375df7654aa778404ae3a91",
+      "publishedAtLabel": "Sep 25"
+    },
+    {
+      "id": 14003,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Phys.Org",
+      "author": "Nature Publishing Group",
+      "title": "Milking might spread bird flu between cows",
+      "description": "Milking procedures are likely to be the primary routes of H5N1 influenza virus transmission between dairy cows, suggests a paper published in Nature this week.",
+      "url": "https://phys.org/news/2024-09-bird-flu-cows.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/milking-might-spread-b.jpg",
+      "publishedAt": "2024-09-25 19:29:22",
+      "content": "Milking procedures are likely to be the primary routes of H5N1 influenza virus transmission between dairy cows, suggests a paper published in Nature this week. Highly pathogenic H5N1 avian influenza\u2026 [+1918 chars]",
+      "retrievedAt": "2024-09-27 07:06:13.494040",
+      "internal_id": "74b7d8e2e06b5674fc29f92021a4d75509d17b8652ce973bd6610da25f232ce4",
+      "publishedAtLabel": "Sep 25"
+    },
+    {
+      "id": 14009,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "3news.com",
+      "author": "Sarah Apenkroh",
+      "title": "Ghana Health Service to rollout malaria vaccination in 43 more districts | 3News",
+      "description": "Ghana is taking a significant step towards eliminating malaria by expanding its rollout of the malaria vaccine to 43 more districts in four regions. About 200 thousand children under 2 years are expected to be reached in the exercise which started on Septembe\u2026",
+      "url": "https://3news.com/news/ghana-health-service-to-rollout-malaria-vaccination-in-43-more-districts/",
+      "urlToImage": "https://3news.com/wp-content/uploads/2024/09/WhatsApp-Image-2024-09-25-at-14.57.23.jpeg",
+      "publishedAt": "2024-09-25 19:16:31",
+      "content": "Ghana is taking a significant step towards eliminating malaria by expanding its rollout of the malaria vaccine to 43 more districts in four regions. About 200 thousand children under 2 years are exp\u2026 [+2653 chars]",
+      "retrievedAt": "2024-09-27 07:06:14.821455",
+      "internal_id": "b07c7f25c877a94f3d0b75990ed6ebe0eaa2bf4ebd00b5f36ee4f48fa4fd3079",
+      "publishedAtLabel": "Sep 25"
+    },
+    {
+      "id": 14005,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Caio Figueiredo",
+      "title": "DF registra baixa ades\u00e3o \u00e0 segunda dose da vacina contra dengue",
+      "description": "Das 185 mil doses recebidas, apenas 71,3 mil pessoas tomaram a primeira dose, e pouco mais de 25,4 mil voltaram para completar o processo",
+      "url": "https://www.metropoles.com/distrito-federal/df-registra-baixa-adesao-a-segunda-dose-da-vacina-contra-dengue",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/02/10095625/vacinacao-dengue-vacina-qdenga-imunizante-df.jpeg",
+      "publishedAt": "2024-09-25 19:16:30",
+      "content": "Dados do Minist\u00e9rio da Sa\u00fade mostram que no Distrito Federal a ades\u00e3o \u00e0 vacina contra a dengue segue abaixo do esperado. Das 185 mil doses recebidas, apenas 71,3 mil pessoas tomaram a primeira dose, \u2026 [+3078 chars]",
+      "retrievedAt": "2024-09-27 07:06:13.946192",
+      "internal_id": "f3010b554960c3bcc33ce9cac76a1fd6d3dab172f5416e3ddfb1f0b657ca9ad7",
+      "publishedAtLabel": "Sep 25"
+    },
     {
       "id": 13989,
       "query": [
@@ -38113,6 +38293,96 @@
       "content": "New Delhi: As monsoon sets in, a surge in demand for seasonal products within the respiratory, anti-infective, and anti-malarial therapeutic categories have been seen. According to market research fi\u2026 [+2057 chars]",
       "retrievedAt": "2024-08-13 07:06:53.668946",
       "internal_id": "788082dfad686671baa5d198494d28d10cd1324336e7c378c20a4ca94df63381",
+      "publishedAtLabel": "Aug 11"
+    },
+    {
+      "id": 11882,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Faz.net",
+      "author": "Claudia Br\u00f6ll",
+      "title": "Sorge wegen Ausbreitung des Mpox-Virus in Afrika",
+      "description": "Eine neue Variante des Mpox-Virus breitet sich in Afrika aus. Mehr als 15.000 F\u00e4lle wurden seit Jahresbeginn registriert. Beh\u00f6rden sehen eine \u201ealarmierende Entwicklung\u201c, die WHO beruft einen Notfallausschuss ein.",
+      "url": "https://www.faz.net/aktuell/gesellschaft/gesundheit/mpox-virus-in-afrika-neue-variante-breitet-sich-aus-19913273.html",
+      "urlToImage": "https://media0.faz.net/ppmedia/aktuell/gesellschaft/805874728/1.9913288/facebook_teaser/eine-krankenschwester.jpg",
+      "publishedAt": "2024-08-11 18:54:32",
+      "content": "Einen Tag zuvor hatte die Weltgesundheitsorganisation wegen der weiteren Ausbreitung innerhalb und au\u00dferhalb Afrikas einen Notfallausschuss einberufen. Er solle pr\u00fcfen, ob der Ausbruch eine gesundhei\u2026 [+3470 chars]",
+      "retrievedAt": "2024-08-12 19:06:08.676886",
+      "internal_id": "0599adcff99139707421aeae9c960be048397ae165f7ba2a5be3e2c6faecae74",
+      "publishedAtLabel": "Aug 11"
+    },
+    {
+      "id": 11879,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Tbsnews.net",
+      "author": "Unb",
+      "title": "One dies of dengue; 202 hospitalised in 24hrs",
+      "description": "One death was reported from dengue in 24 hours till Sunday morning, raising the number of fatalities from the mosquito-borne disease in Bangladesh to 65 this year. During the period, 202 more patients were hospitalised with viral fever, according to the Direc\u2026",
+      "url": "https://www.tbsnews.net/bangladesh/health/one-dies-dengue-202-hospitalised-24hrs-914511",
+      "urlToImage": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/09/13/dengue-rajib-dhar.jpg",
+      "publishedAt": "2024-08-11 16:30:41",
+      "content": "One death was reported from dengue in 24 hours till Sunday morning, raising the number of fatalities from the mosquito-borne disease in Bangladesh to 65 this year. During the period, 202 more patien\u2026 [+433 chars]",
+      "retrievedAt": "2024-08-12 19:06:07.168514",
+      "internal_id": "37f7c12f867094cc1a16e3d59c506550898ea9a60433c1c8aa866ca050c80c98",
+      "publishedAtLabel": "Aug 11"
+    },
+    {
+      "id": 11878,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "DIE WELT",
+      "author": "Christina Sticht, Philipp Znidar",
+      "title": "Oropouche-Ausbruch weitet sich aus",
+      "description": "Brasilien meldet fast 7500 F\u00e4lle \u2013 und die ersten Todesopfer. W\u00e4hrend das Land zugleich gegen Dengue-Fieber k\u00e4mpfen muss, wird nun untersucht, welches Risiko f\u00fcr Schwangere durch Oropouche besteht. Ein Experte erkl\u00e4rt, ob sich das Virus auch in Deutschland ve\u2026",
+      "url": "https://www.welt.de/gesundheit/article252950606/Epidemie-Kann-sich-das-Oropouche-Virus-in-Deutschland-ausbreiten.html",
+      "urlToImage": "https://img.welt.de/img/gesundheit/mobile252950602/6217936867-ci16x9-w1200/Fumace-Alberto-Torre.jpg",
+      "publishedAt": "2024-08-11 15:08:07",
+      "content": "Brasilien meldet fast 7500 F\u00e4lle und die ersten Todesopfer. W\u00e4hrend das Land zugleich gegen Dengue-Fieber k\u00e4mpfen muss, wird nun untersucht, welches Risiko f\u00fcr Schwangere durch Oropouche besteht. Ein\u2026 [+6484 chars]",
+      "retrievedAt": "2024-08-12 19:06:07.079239",
+      "internal_id": "ce8eb764efff712d7a622b489b1873a03b3e8d8098b3653e186668fcb3b2e7d0",
+      "publishedAtLabel": "Aug 11"
+    },
+    {
+      "id": 11880,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Digi24.ro",
+      "author": "Maria Isopescu",
+      "title": "Epidemia de \u201evariola maimu\u021bei\u201d se r\u0103sp\u00e2nde\u0219te \u00een mai multe \u021b\u0103ri africane. OMS convoac\u0103 un comitet de urgen\u021b\u0103",
+      "description": "Organiza\u0163ia Mondial\u0103 a S\u0103n\u0103t\u0103\u0163ii (OMS) convoac\u0103 un comitet de urgen\u0163\u0103 pe tema mpox - cunoscut\u0103 \u015fi sub denumirea de ''variola maimu\u0163ei'' \u2013 pentru 14 august, pentru a evalua necesitatea decret\u0103rii celui mai \u00eenalt nivel de alert\u0103 \u00een fa\u0163a actualei epidemii din ma\u2026",
+      "url": "https://www.digi24.ro/stiri/actualitate/sanatate/epidemia-de-variola-maimutei-se-raspandeste-in-mai-multe-tari-africane-oms-convoaca-un-comitet-de-urgenta-2890979",
+      "urlToImage": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA1dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjIl/MkYwNSUyRjIxJTJGMTUxMzIxNl8xNTEz/MjE2X3ZhcmlvbGEtbWFpbXV0ZWktcHJv/ZmltZWRpYS0xLmpwZyZ3PTEyMDAmaD02/MzAmemM9MSZoYXNoPWFkMzI1ZGNkYmRhOTI5ZjhhNjgxODcyZGNhMWFhODQ3.thumb.jpg",
+      "publishedAt": "2024-08-11 08:39:07",
+      "content": "Organizaia Mondial a Sntii (OMS) convoac un comitet de urgen pe tema mpox - cunoscut i sub denumirea de ''variola maimuei'' pentru 14 august, pentru a evalua necesitatea decretrii celui mai \u00eenalt niv\u2026 [+2452 chars]",
+      "retrievedAt": "2024-08-12 19:06:08.583653",
+      "internal_id": "5ac2f3f9b68c5e4620042b101959245bf9f874a3a72a6e135db969c98891fb73",
+      "publishedAtLabel": "Aug 11"
+    },
+    {
+      "id": 11881,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "L'Express",
+      "author": "Victor Garcia",
+      "title": "Nouvelle \u00e9pid\u00e9mie de Mpox : \"On sait ce qu\u2019est une pand\u00e9mie, et on n\u2019en veut pas\"",
+      "description": "Une nouvelle souche de la variole du singe, qui pourrait \u00eatre plus transmissible et plus l\u00e9tale, inqui\u00e8te l\u2019OMS, qui devrait rehausser son alerte d\u2019ici quelques jours.",
+      "url": "https://www.lexpress.fr/sciences-sante/sciences/nouvelle-epidemie-de-mpox-on-sait-ce-quest-une-pandemie-et-on-nen-veut-pas-Q7QJWCFML5EUPD4L7AI5JGQ5KY/",
+      "urlToImage": "https://www.lexpress.fr/resizer/v2/3BLCYWTIM5DVFAXCSHB6JYYGCQ.jpg?auth=73a3f28297ce361e6afab5c58e26ba7607687405803332bdeef8d8eab18fd0e1&width=1200&height=630&quality=85&smart=true",
+      "publishedAt": "2024-08-11 08:30:00",
+      "content": "Faut-il sinqui\u00e9ter de l\u00e9pid\u00e9mie du nouveau variant de Mpox, aussi appel\u00e9 \"variole du singe\" ? D\u00e9tect\u00e9e en R\u00e9publique d\u00e9mocratique du Congo (RDC) en septembre 2023, la maladie se propage depuis dans p\u2026 [+9165 chars]",
+      "retrievedAt": "2024-08-12 19:06:08.644131",
+      "internal_id": "0dfa34437a537e8a5cbdc57d532f591befba6cc39776b010ecea1850110e83f7",
       "publishedAtLabel": "Aug 11"
     }
   ]

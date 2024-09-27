@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 26
-- **Last harvest:** 2024-09-26 19:05
-- **Most recent article:** 2024-09-25 18:06:00
+- **New articles in last harvest:** 10
+- **Last harvest:** 2024-09-27 07:06
+- **Most recent article:** 2024-09-26 05:30:00
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-33 | 24-34 | 24-35 | 24-36 | 24-37 | 24-38 | 24-39 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 285 | 208 | 207 | 184 | 192 | 140 | 75 | 1291 |
-| dengue | 48 | 64 | 45 | 49 | 76 | 73 | 35 | 390 |
-| malaria | 18 | 27 | 28 | 14 | 12 | 15 | 14 | 128 |
-| h5n1 | 8 | 5 | 10 | 31 | 10 | 17 | 19 | 100 |
+| mpox | 288 | 208 | 207 | 184 | 192 | 140 | 75 | 1294 |
+| dengue | 50 | 64 | 45 | 49 | 76 | 73 | 37 | 394 |
+| malaria | 18 | 27 | 28 | 14 | 12 | 15 | 16 | 130 |
+| h5n1 | 8 | 5 | 10 | 31 | 10 | 17 | 23 | 104 |
 | zika | 10 | 21 | 2 | 6 | 10 | 8 | 0 | 57 |
 | rabies | 12 | 6 | 3 | 7 | 5 | 13 | 5 | 51 |
+| meningitis | 8 | 11 | 5 | 6 | 3 | 10 | 6 | 49 |
 | chikungunya | 8 | 10 | 1 | 5 | 13 | 9 | 2 | 48 |
-| meningitis | 8 | 11 | 5 | 6 | 3 | 10 | 5 | 48 |
 | measles | 3 | 7 | 11 | 9 | 5 | 8 | 1 | 44 |
-| pertussis | 3 | 5 | 2 | 1 | 5 | 3 | 2 | 21 |
+| pertussis | 3 | 5 | 2 | 1 | 5 | 3 | 3 | 22 |
 | typhoid | 1 | 2 | 1 | 1 | 0 | 0 | 3 | 8 |
 | leptospirosis | 1 | 4 | 0 | 1 | 0 | 1 | 1 | 8 |
 | hpai | 1 | 1 | 0 | 3 | 1 | 0 | 2 | 8 |
@@ -53,6 +53,8 @@ Source: [News API](https://newsapi.org/)
 - [MVSA-JHDU to conduct deworming and anti-rabies vaccination drive in Jaintia Hills region](https://www.syllad.com/mvsa-jhdu-to-conduct-deworming-and-anti-rabies-vaccination-drive-in-jaintia-hills-region/) (Syllad.com)
 
 ## 24-39 (pertussis)
+
+- [Whooping Cough Cases Surge](https://www.newser.com/story/356862/whooping-cough-cases-surge.html) (Newser)
 
 - [What to do if you or your kid gets COVID-19 this fall](https://www.cbc.ca/news/canada/ottawa/what-to-do-if-you-or-your-kid-gets-covid-19-this-fall-1.7328679) (CBC News)
 
@@ -212,6 +214,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-39 (meningitis)
 
+- [Un recuerdo de las epidemias de meningitis](https://www.lavozdegalicia.es/noticia/vigo/2024/09/25/recuerdo-epidemias-meningitis/00031727288521330655100.htm) (Lavozdegalicia.es)
+
 - [Demographic and pathogen characteristics of incident bacterial meningitis in infants in South Africa: A cohort study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0310528) (Plos.org)
 
 - [Sand flies and Toscana virus: Intra-vector infection dynamics and impact on Phlebotomus perniciosus life-history traits](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012509) (Plos.org)
@@ -227,6 +231,10 @@ Source: [News API](https://newsapi.org/)
 - [Health authorities in England carefully hid MMR vaccine levels as deadly measles cases surged across country and into Scotland](https://talkingupscotlandtwo.com/2024/09/24/health-authorities-in-england-carefully-hid-mmr-vaccine-levels-as-deadly-measles-cases-surged-across-country-and-into-scotland/) (Talkingupscotlandtwo.com)
 
 ## 24-39 (malaria)
+
+- [América supera al Columbus Crew en penaltis para coronarse en la Campeones Cup](https://www.milenio.com/deportes/futbol-internacional/resultados-del-partido-columbus-crew-y-america-cronica-campeones-cup) (Milenio)
+
+- [Ghana Health Service to rollout malaria vaccination in 43 more districts | 3News](https://3news.com/news/ghana-health-service-to-rollout-malaria-vaccination-in-43-more-districts/) (3news.com)
 
 - [President of Guinea-Bissau highlights African fight against malaria](https://www.thestar.com.my/news/world/2024/09/26/president-of-guinea-bissau-highlights-african-fight-against-malaria) (The Star Online)
 
@@ -268,6 +276,14 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-39 (h5n1)
 
+- [Die Milch macht’s – wie das Vogelgrippevirus in den USA zwischen Kühen übertragen wird](https://www.nzz.ch/wissenschaft/vogelgrippe-bei-milchkuehen-in-den-usa-neue-studie-enthuellt-uebertragungsweg-in-staellen-ld.1850017) (Www.nzz.ch)
+
+- [¿Por qué el actual brote de gripe aviar es tan inusual (y preocupante)?](https://www.elmundo.es/ciencia-y-salud/salud/2024/09/26/66eaeaa4e9cf4a387a8b4591.html) (El Mundo)
+
+- [Health care worker is third person to become ill after contact with Missouri patient who had bird flu](https://endtimeheadlines.org/2024/09/health-care-worker-is-third-person-to-become-ill-after-contact-with-missouri-patient-who-had-bird-flu/) (Endtimeheadlines.org)
+
+- [Milking might spread bird flu between cows](https://phys.org/news/2024-09-bird-flu-cows.html) (Phys.Org)
+
 - [Übertragung bei Kühen durch Melken](https://science.orf.at/stories/3226859/) (Science.orf.at)
 
 - [Warum deutsche Forscher sechs Kühe mit H5N1 infiziert haben](https://www.welt.de/wissenschaft/article253694450/Vogelgrippe-Es-muss-eine-einzige-Kuh-gewesen-sein-die-am-Anfang-dieser-Epidemie-in-den-USA-stand.html) (DIE WELT)
@@ -307,6 +323,10 @@ Source: [News API](https://newsapi.org/)
 - ["Пернатые пираты" ускоряют распространение смертельного птичьего гриппа, выяснили ученые](https://www.gazeta.ru/science/news/2024/09/22/23979301.shtml) (Gazeta.ru)
 
 ## 24-39 (dengue)
+
+- [Fourth case of dengue reported in LA County, raising concern of public health officials](https://www.cbsnews.com/losangeles/news/fourth-case-of-dengue-reported-in-la-county-raising-concern-of-public-health-officials/) (CBS News)
+
+- [DF registra baixa adesão à segunda dose da vacina contra dengue](https://www.metropoles.com/distrito-federal/df-registra-baixa-adesao-a-segunda-dose-da-vacina-contra-dengue) (Metropoles.com)
 
 - [8 malaria deaths in Maha this month; dengue claims two lives](https://timesofindia.indiatimes.com/city/mumbai/malaria-deaths-surge-in-maharashtra-dengue-and-chikungunya-cases-rise-dramatically/articleshow/113675514.cms) (The Times of India)
 
@@ -4418,6 +4438,12 @@ Source: [News API](https://newsapi.org/)
 
 - [WHO Schedules Emergency Meeting Over Mpox Outbreak](https://www.theepochtimes.com/health/who-schedules-emergency-meeting-over-mpox-outbreak-5703755) (Theepochtimes.com)
 
+- [Sorge wegen Ausbreitung des Mpox-Virus in Afrika](https://www.faz.net/aktuell/gesellschaft/gesundheit/mpox-virus-in-afrika-neue-variante-breitet-sich-aus-19913273.html) (Faz.net)
+
+- [Epidemia de „variola maimuței” se răspândește în mai multe țări africane. OMS convoacă un comitet de urgență](https://www.digi24.ro/stiri/actualitate/sanatate/epidemia-de-variola-maimutei-se-raspandeste-in-mai-multe-tari-africane-oms-convoaca-un-comitet-de-urgenta-2890979) (Digi24.ro)
+
+- [Nouvelle épidémie de Mpox : "On sait ce qu’est une pandémie, et on n’en veut pas"](https://www.lexpress.fr/sciences-sante/sciences/nouvelle-epidemie-de-mpox-on-sait-ce-quest-une-pandemie-et-on-nen-veut-pas-Q7QJWCFML5EUPD4L7AI5JGQ5KY/) (L'Express)
+
 ## 24-33 (meningitis)
 
 - [Local pharmacist blamed for deaths in U.S. meningitis outbreak will plead no contest in Michigan case](https://www.boston.com/news/local-news/2024/08/17/pharmacist-blamed-for-deaths-in-u-s-meningitis-outbreak-will-plead-no-contest-in-michigan-case/) (Boston.com)
@@ -4605,6 +4631,10 @@ Source: [News API](https://newsapi.org/)
 - [Dengue confirmed in 1,369 people in Gandaki](https://english.khabarhub.com/2024/12/376904/) (Khabarhub.com)
 
 - [Eco-friendly mosquito killer to help control dengue spread in Bengaluru](https://timesofindia.indiatimes.com/city/bengaluru/eco-friendly-mosquito-killer-to-help-control-dengue-spread-in-bengaluru/articleshow/112449641.cms) (The Times of India)
+
+- [One dies of dengue; 202 hospitalised in 24hrs](https://www.tbsnews.net/bangladesh/health/one-dies-dengue-202-hospitalised-24hrs-914511) (Tbsnews.net)
+
+- [Oropouche-Ausbruch weitet sich aus](https://www.welt.de/gesundheit/article252950606/Epidemie-Kann-sich-das-Oropouche-Virus-in-Deutschland-ausbreiten.html) (DIE WELT)
 
 ## 24-33 (chikungunya)
 
