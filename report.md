@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 20
-- **Last harvest:** 2024-09-28 07:06
-- **Most recent article:** 2024-09-27 06:33:02
+- **New articles in last harvest:** 25
+- **Last harvest:** 2024-09-28 19:05
+- **Most recent article:** 2024-09-27 18:49:49
 
 ---
 
@@ -12,25 +12,29 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-33 | 24-34 | 24-35 | 24-36 | 24-37 | 24-38 | 24-39 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 288 | 208 | 207 | 184 | 192 | 140 | 98 | 1317 |
-| dengue | 50 | 64 | 45 | 49 | 76 | 73 | 41 | 398 |
-| malaria | 18 | 27 | 28 | 14 | 12 | 15 | 19 | 133 |
-| h5n1 | 8 | 5 | 10 | 31 | 10 | 17 | 30 | 111 |
-| rabies | 12 | 6 | 3 | 7 | 5 | 13 | 11 | 57 |
-| zika | 10 | 21 | 2 | 6 | 10 | 8 | 0 | 57 |
+| mpox | 285 | 208 | 207 | 184 | 192 | 140 | 111 | 1327 |
+| dengue | 48 | 64 | 45 | 49 | 76 | 73 | 44 | 399 |
+| malaria | 18 | 27 | 28 | 14 | 12 | 15 | 20 | 134 |
+| h5n1 | 8 | 5 | 10 | 31 | 10 | 17 | 33 | 114 |
+| rabies | 12 | 6 | 3 | 7 | 5 | 13 | 13 | 59 |
+| zika | 10 | 21 | 2 | 6 | 10 | 8 | 1 | 58 |
+| chikungunya | 8 | 10 | 1 | 5 | 13 | 9 | 3 | 49 |
 | meningitis | 8 | 11 | 5 | 6 | 3 | 10 | 6 | 49 |
-| chikungunya | 8 | 10 | 1 | 5 | 13 | 9 | 2 | 48 |
 | measles | 3 | 7 | 11 | 9 | 5 | 8 | 3 | 46 |
 | pertussis | 3 | 5 | 2 | 1 | 5 | 3 | 3 | 22 |
+| leptospirosis | 1 | 4 | 0 | 1 | 0 | 1 | 3 | 10 |
+| typhoid | 1 | 2 | 1 | 1 | 0 | 0 | 4 | 9 |
 | yersinia | 0 | 1 | 1 | 2 | 0 | 2 | 2 | 8 |
-| typhoid | 1 | 2 | 1 | 1 | 0 | 0 | 3 | 8 |
-| leptospirosis | 1 | 4 | 0 | 1 | 0 | 1 | 1 | 8 |
 | hpai | 1 | 1 | 0 | 3 | 1 | 0 | 2 | 8 |
 
 
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 24-39 (zika)
+
+- [Ministerium in Sachsen warnt - Tigermücke erstmals in Dresden nachgewiesen](https://www.bild.de/regional/dresden/ministerium-in-sachsen-warnt-asiatische-tigermuecke-in-dresden-nachgewiesen-66f6353154da86082598b06c) (Bild)
 
 ## 24-39 (yersinia)
 
@@ -40,6 +44,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-39 (typhoid)
 
+- [Environmental surveillance for Salmonella Typhi in rivers and wastewater from an informal sewage network in Blantyre, Malawi](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012518) (Plos.org)
+
 - [Typhoid Fever Drug Pipeline Report 2024: Therapeutic Assessment, Commercial and Clinical Advancements, Future Outlook and Ongoing Developments](https://www.globenewswire.com/news-release/2024/09/24/2952362/28124/en/Typhoid-Fever-Drug-Pipeline-Report-2024-Therapeutic-Assessment-Commercial-and-Clinical-Advancements-Future-Outlook-and-Ongoing-Developments.html) (GlobeNewswire)
 
 - [India faces growing threat as key antibiotics lose effectiveness, says ICMR](https://www.business-standard.com/health/india-faces-growing-threat-as-key-antibiotics-lose-effectiveness-says-icmr-124092300738_1.html) (Business Standard)
@@ -47,6 +53,10 @@ Source: [News API](https://newsapi.org/)
 - [Antibiotics becoming ineffective against diseases like typhoid, pneumonia, and urinary infections: ICMR rings alarm](https://economictimes.indiatimes.com/news/india/antibiotics-becoming-ineffective-against-diseases-like-typhoid-pneumonia-and-urinary-infections-icmr-rings-alarm/articleshow/113599189.cms) (The Times of India)
 
 ## 24-39 (rabies)
+
+- [Nangbah LP School hosts rabies awareness program to combat infection](https://www.syllad.com/nangbah-lp-school-hosts-rabies-awareness-program-to-combat-infection/) (Syllad.com)
+
+- [World Rabies Day 2024: Theme, History, Importance & Immediate Care Tips](https://www.ndtv.com/health/world-rabies-day-2024-theme-history-importance-immediate-care-tips-for-animal-bites-6661403) (NDTV News)
 
 - [Haduh 27 ngut kiba iap na ka jingpang rabies haka Jylla; sdang ka sorkar ban ai injek ia ki ksew surok](https://www.syllad.com/haduh-27-ngut-kiba-iap-na-ka-jingpang-rabies-haka-jylla-sdang-ka-sorkar-ban-ai-injek-ia-ki-ksew-surok/) (Syllad.com)
 
@@ -79,6 +89,32 @@ Source: [News API](https://newsapi.org/)
 - [Whooping cough cases are soaring. Can infecting people help test a better vaccine?](https://www.wxii12.com/article/whooping-cough-cases-soaring-vaccine/62305261) (WXII12 Winston-Salem)
 
 ## 24-39 (mpox)
+
+- [Another Mpox Case Reported In Kerala, Isolation Facilities Arranged](https://www.ndtv.com/india-news/another-mpox-case-reported-in-kerala-isolation-facilities-arranged-6664877) (NDTV News)
+
+- [Bis zu mehrere Hundert Euro Vorleistung: Finanzierung von Mpox-Impfung verläuft schleppend](https://www.tagesspiegel.de/politik/bis-zu-mehrere-hundert-euro-vorleistung-finanzierung-von-mpox-impfung-verlauft-schleppend-12450188.html) (Der Tagesspiegel)
+
+- [Mpox in Africa: Vaccine efforts ramp up](https://www.dw.com/en/mpox-in-africa-vaccine-efforts-ramp-up/a-70339681) (DW (English))
+
+- [The Slow Mpox Response Is Another Pandemic Wake-Up Call](https://www.project-syndicate.org/commentary/mpox-response-too-slow-covid-pandemic-lessons-still-not-learned-by-ngozi-okonjo-iweala-2024-09) (Project Syndicate)
+
+- [India reports another Mpox case in Kerala](https://economictimes.indiatimes.com/news/india/india-reports-another-monkeypox-case-in-kerala/articleshow/113739922.cms) (The Times of India)
+
+- [Mpox is accelerating antimicrobial resistance in Africa, officials warn](https://www.bmj.com/content/386/bmj.q2124) (The BMJ)
+
+- [Stakeholders commit $1bn to combat Mpox in Africa](https://punchng.com/stakeholders-commit-1bn-to-combat-mpox-in-africa/) (The Punch)
+
+- [Starker Anstieg der Mpox-Infektionen in Australien](https://orf.at/stories/3371069/) (Orf.at)
+
+- [Mpox needs a locally tailored global response](https://www.bmj.com/content/386/bmj.q2094) (The BMJ)
+
+- [Kerala reports second Mpox case, third in India; strain being analysed](https://www.business-standard.com/india-news/kerala-reports-second-mpox-case-third-in-india-strain-being-analysed-124092700513_1.html) (Business Standard)
+
+- [Heres All You Need To Know About Clade 1 Variant Of Mpox](https://doctor.ndtv.com/living-healthy/heres-all-you-need-to-know-about-clade-1-variant-of-mpox-6661857) (NDTV News)
+
+- [फिर बढ़ा MPox का खतरा, केरल में रिपोर्ट किया गया दूसरा मामला](https://www.aajtak.in/india/news/story/kerala-ernakulam-threat-of-mpox-increased-again-second-case-reported-in-state-ntc-rpti-2054804-2024-09-27) (Aajtak.in)
+
+- [To Handle Mpox Cases, Identify Facilities, Trained People: Centre To States](https://www.ndtv.com/india-news/to-handle-mpox-cases-identify-facilities-trained-people-centre-to-states-6661093) (NDTV News)
 
 - [Małpia ospa. Lekarka uspokaja: Nie grozi nam kolejna pandemia](https://wydarzenia.interia.pl/kraj/news-malpia-ospa-lekarka-uspokaja-nie-grozi-nam-kolejna-pandemia,nId,7823698) (Interia.pl)
 
@@ -300,6 +336,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-39 (malaria)
 
+- [Methaemoglobin as a surrogate marker of primaquine antihypnozoite activity in Plasmodium vivax malaria: A systematic review and individual patient data meta-analysis](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004411) (Plos.org)
+
 - [Diseñan un nuevo fármaco para combatir la malaria](https://www.infosalus.com/farmacia/noticia-disenan-nuevo-farmaco-combatir-malaria-20240927071448.html) (Infosalus.com)
 
 - [Scientists design new drug to fight malaria](https://www.sciencedaily.com/releases/2024/09/240926144907.htm) (Science Daily)
@@ -340,6 +378,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-39 (leptospirosis)
 
+- [100+ leptospirosis cases recorded, health directorate advises caution](https://timesofindia.indiatimes.com/city/goa/100-leptospirosis-cases-recorded-health-directorate-advises-caution/articleshow/113749280.cms) (The Times of India)
+
+- [Epidemiology of human and animal leptospirosis in Kenya: A systematic review and meta-analysis of disease occurrence, serogroup diversity and risk factors](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012527) (Plos.org)
+
 - [Enhancement of clinical signs in C3H/HeJ mice vaccinated with a highly immunogenic Leptospira methyl-accepting chemotaxis protein following challenge](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012155) (Plos.org)
 
 ## 24-39 (hpai)
@@ -349,6 +391,12 @@ Source: [News API](https://newsapi.org/)
 - ["Пернатые пираты" ускоряют распространение смертельного птичьего гриппа, выяснили ученые](https://www.gazeta.ru/science/news/2024/09/22/23979301.shtml) (Gazeta.ru)
 
 ## 24-39 (h5n1)
+
+- [More health-care workers in contact with Missouri bird flu patient report respiratory symptoms | CNN](https://www.cnn.com/2024/09/27/health/health-care-workers-missouri-bird-flu/index.html) (CNN)
+
+- [After caring for bird flu case in Missouri, 4 more health care workers fell ill](https://www.statnews.com/2024/09/27/bird-flu-missouri-four-more-healthcare-workers/) (STAT)
+
+- [Tierseuchen: Ausbruch der Geflügelpest im Vogtland](https://www.zeit.de/news/2024-09/27/ausbruch-der-gefluegelpest-im-vogtland) (Die Zeit)
 
 - [H5N1 Bird Flu Is “Mutating” Fast](https://www.shtfplan.com/headline-news/h5n1-bird-flu-is-mutating-fast) (Shtfplan.com)
 
@@ -411,6 +459,12 @@ Source: [News API](https://newsapi.org/)
 - ["Пернатые пираты" ускоряют распространение смертельного птичьего гриппа, выяснили ученые](https://www.gazeta.ru/science/news/2024/09/22/23979301.shtml) (Gazeta.ru)
 
 ## 24-39 (dengue)
+
+- [New dengue virus naming system will help identify and track variants](https://news.yale.edu/2024/09/27/new-dengue-virus-naming-system-will-help-identify-and-track-variants) (Yale.edu)
+
+- [Muertes por dengue aumentan a cinco en Costa Rica](https://www.nacion.com/el-pais/salud/muertes-por-dengue-aumentan-a-cinco-en-costa-rica/YIWKW7THDRACZG5X26EPUEY5YE/story/) (Nacion.com)
+
+- [Ministerium in Sachsen warnt - Tigermücke erstmals in Dresden nachgewiesen](https://www.bild.de/regional/dresden/ministerium-in-sachsen-warnt-asiatische-tigermuecke-in-dresden-nachgewiesen-66f6353154da86082598b06c) (Bild)
 
 - [Fernán Quirós se refirió a los brotes por la primavera y recomendó volver a usar barbijo](https://www.lanacion.com.ar/sociedad/fernan-quiros-se-refirio-a-los-brotes-por-la-primavera-y-recomendo-volver-a-usar-barbijo-nid26092024/) (La Nacion)
 
@@ -495,6 +549,8 @@ Source: [News API](https://newsapi.org/)
 - [Dengue: o que está sendo feito para aumentar a oferta de imunizantes?](https://www.metropoles.com/saude/aumentar-oferta-vacinas-contra-dengue) (Metropoles.com)
 
 ## 24-39 (chikungunya)
+
+- [Ministerium in Sachsen warnt - Tigermücke erstmals in Dresden nachgewiesen](https://www.bild.de/regional/dresden/ministerium-in-sachsen-warnt-asiatische-tigermuecke-in-dresden-nachgewiesen-66f6353154da86082598b06c) (Bild)
 
 - [8 malaria deaths in Maha this month; dengue claims two lives](https://timesofindia.indiatimes.com/city/mumbai/malaria-deaths-surge-in-maharashtra-dengue-and-chikungunya-cases-rise-dramatically/articleshow/113675514.cms) (The Times of India)
 
@@ -4534,12 +4590,6 @@ Source: [News API](https://newsapi.org/)
 
 - [WHO Schedules Emergency Meeting Over Mpox Outbreak](https://www.theepochtimes.com/health/who-schedules-emergency-meeting-over-mpox-outbreak-5703755) (Theepochtimes.com)
 
-- [Sorge wegen Ausbreitung des Mpox-Virus in Afrika](https://www.faz.net/aktuell/gesellschaft/gesundheit/mpox-virus-in-afrika-neue-variante-breitet-sich-aus-19913273.html) (Faz.net)
-
-- [Epidemia de „variola maimuței” se răspândește în mai multe țări africane. OMS convoacă un comitet de urgență](https://www.digi24.ro/stiri/actualitate/sanatate/epidemia-de-variola-maimutei-se-raspandeste-in-mai-multe-tari-africane-oms-convoaca-un-comitet-de-urgenta-2890979) (Digi24.ro)
-
-- [Nouvelle épidémie de Mpox : "On sait ce qu’est une pandémie, et on n’en veut pas"](https://www.lexpress.fr/sciences-sante/sciences/nouvelle-epidemie-de-mpox-on-sait-ce-quest-une-pandemie-et-on-nen-veut-pas-Q7QJWCFML5EUPD4L7AI5JGQ5KY/) (L'Express)
-
 ## 24-33 (meningitis)
 
 - [Local pharmacist blamed for deaths in U.S. meningitis outbreak will plead no contest in Michigan case](https://www.boston.com/news/local-news/2024/08/17/pharmacist-blamed-for-deaths-in-u-s-meningitis-outbreak-will-plead-no-contest-in-michigan-case/) (Boston.com)
@@ -4727,10 +4777,6 @@ Source: [News API](https://newsapi.org/)
 - [Dengue confirmed in 1,369 people in Gandaki](https://english.khabarhub.com/2024/12/376904/) (Khabarhub.com)
 
 - [Eco-friendly mosquito killer to help control dengue spread in Bengaluru](https://timesofindia.indiatimes.com/city/bengaluru/eco-friendly-mosquito-killer-to-help-control-dengue-spread-in-bengaluru/articleshow/112449641.cms) (The Times of India)
-
-- [One dies of dengue; 202 hospitalised in 24hrs](https://www.tbsnews.net/bangladesh/health/one-dies-dengue-202-hospitalised-24hrs-914511) (Tbsnews.net)
-
-- [Oropouche-Ausbruch weitet sich aus](https://www.welt.de/gesundheit/article252950606/Epidemie-Kann-sich-das-Oropouche-Virus-in-Deutschland-ausbreiten.html) (DIE WELT)
 
 ## 24-33 (chikungunya)
 

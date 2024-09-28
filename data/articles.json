@@ -1,8 +1,460 @@
 {
-  "last_updated": "2024-09-28 07:06",
-  "count_articles_total": 2173,
-  "count_articles_new": 20,
+  "last_updated": "2024-09-28 19:05",
+  "count_articles_total": 2193,
+  "count_articles_new": 25,
   "articles": [
+    {
+      "id": 14079,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Rohan Shrivastav",
+      "title": "100+ leptospirosis cases recorded, health directorate advises caution",
+      "description": "Panaji: The directorate of health services (DHS) has recorded a rise in cases of leptospirosis this monsoon, with 123 cases having been reported from .",
+      "url": "https://timesofindia.indiatimes.com/city/goa/100-leptospirosis-cases-recorded-health-directorate-advises-caution/articleshow/113749280.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-09-27 18:49:49",
+      "content": "Meet Soudi Al Nadak, a woman whose husband bought an island for her bikini outing",
+      "retrievedAt": "2024-09-28 19:05:26.482109",
+      "internal_id": "52709208af7de59d39f3c6ac4c5d8d38f50d75de2f69360a5275ae5f951ca601",
+      "publishedAtLabel": "Sep 27"
+    },
+    {
+      "id": 14060,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Brenda Goodman",
+      "title": "More health-care workers in contact with Missouri bird flu patient report respiratory symptoms | CNN",
+      "description": "Four more health-care workers who tended to a person hospitalized with H5N1 bird flu have revealed that they had respiratory symptoms after their exposures, according to the US Centers for Disease Control and Prevention.",
+      "url": "https://www.cnn.com/2024/09/27/health/health-care-workers-missouri-bird-flu/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/53742466267-756a538fef-o.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-09-27 18:36:03",
+      "content": "Four more health-care workers who tended to a person hospitalized with H5N1 bird flu have revealed that they had respiratory symptoms after their exposures, according to the US Centers for Disease Co\u2026 [+2735 chars]",
+      "retrievedAt": "2024-09-28 19:05:23.808102",
+      "internal_id": "3a2a5360f56d107ea44076195cad66d4633163e152b84a8519d9603d0806182a",
+      "publishedAtLabel": "Sep 27"
+    },
+    {
+      "id": 14062,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Yale.edu",
+      "author": null,
+      "title": "New dengue virus naming system will help identify and track variants",
+      "description": "The system will allow researchers worldwide to better track new variants of dengue virus \u2014 which affects millions \u2014 and create new vaccines.",
+      "url": "https://news.yale.edu/2024/09/27/new-dengue-virus-naming-system-will-help-identify-and-track-variants",
+      "urlToImage": "https://news.yale.edu/sites/default/files/styles/opengraph_image/public/ynews-mosquito-pin.jpg?itok=tSSXxINp",
+      "publishedAt": "2024-09-27 17:30:03",
+      "content": "Genomic surveillance of the evolving SARS-CoV-2 virus has been essential for managing the COVID-19 pandemic, helping researchers identify new variants, track their circulation, and create new vaccine\u2026 [+4316 chars]",
+      "retrievedAt": "2024-09-28 19:05:24.296017",
+      "internal_id": "d4c8ec11b8c8239f797d021051e26ccc033559fb95fc5d2e5c2caf86c0fb62b8",
+      "publishedAtLabel": "Sep 27"
+    },
+    {
+      "id": 14061,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Nacion.com",
+      "author": "Irene Rodr\u00edguez",
+      "title": "Muertes por dengue aumentan a cinco en Costa Rica",
+      "description": "Cinco personas han muerto por dengue en Costa Rica: tres hombres y dos mujeres entre los 31 y los 83 a\u00f1os.",
+      "url": "https://www.nacion.com/el-pais/salud/muertes-por-dengue-aumentan-a-cinco-en-costa-rica/YIWKW7THDRACZG5X26EPUEY5YE/story/",
+      "urlToImage": "https://www.nacion.com/resizer/v2/CX5K3WDY5ZAXBFHXBZTB6AGMGQ.JPG?smart=true&auth=6d07cb2c4179f3c127a45810b4a066dad7857fe7bfad18a1aa032b45ca4ba8df&width=1440",
+      "publishedAt": "2024-09-27 17:24:32",
+      "content": "Las muertes por dengue en Costa Rica aumentaron de dos a cinco. El Ministerio de Salud determin\u00f3 que de los 14 casos que se han estudiado, cinco fueron causa directa de la enfermedad. Se trata de tr\u2026 [+1900 chars]",
+      "retrievedAt": "2024-09-28 19:05:24.248355",
+      "internal_id": "32bcd75888944ba053704424bf933afa843e703d9937aa237ba5a6e710632ae2",
+      "publishedAtLabel": "Sep 27"
+    },
+    {
+      "id": 14059,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "STAT",
+      "author": "Helen Branswell",
+      "title": "After caring for bird flu case in Missouri, 4 more health care workers fell ill",
+      "description": "The CDC said an investigation into a human H5N1 bird flu infection in Missouri has found four additional health care workers who fell ill after caring for the patient.",
+      "url": "https://www.statnews.com/2024/09/27/bird-flu-missouri-four-more-healthcare-workers/",
+      "urlToImage": "https://www.statnews.com/wp-content/uploads/2024/09/53290508471_7f63f00401_o-1024x576.jpg",
+      "publishedAt": "2024-09-27 15:58:24",
+      "content": "An investigation into the still unexplained human H5N1 bird flu infection in Missouri has turned up four additional health care workers who developed mild respiratory illness symptoms after caring fo\u2026 [+3468 chars]",
+      "retrievedAt": "2024-09-28 19:05:23.800479",
+      "internal_id": "4224996eec01985e5d02e62a9b35ac787b2fe80a552e34bdfe20f2565ddb7df0",
+      "publishedAtLabel": "Sep 27"
+    },
+    {
+      "id": 14075,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": null,
+      "title": "Another Mpox Case Reported In Kerala, Isolation Facilities Arranged",
+      "description": "The Kerala health department on Friday said another Mpox case was reported in the state and urged those who have symptoms to seek treatment.",
+      "url": "https://www.ndtv.com/india-news/another-mpox-case-reported-in-kerala-isolation-facilities-arranged-6664877",
+      "urlToImage": "https://c.ndtvimg.com/2024-08/1n5d9p5_mpox-reuters_625x300_24_August_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "publishedAt": "2024-09-27 15:39:14",
+      "content": "Mpox infections are generally self-limiting, lasting between two and four weeks. (Representational) Thiruvananthapuram: The Kerala health department on Friday said another Mpox case was reported in \u2026 [+1821 chars]",
+      "retrievedAt": "2024-09-28 19:05:25.936148",
+      "internal_id": "b7195812b0fd181e269399297f1595488b46f14c71fce093d64b2b2bc3412167",
+      "publishedAtLabel": "Sep 27"
+    },
+    {
+      "id": 14072,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Lukas Kram",
+      "title": "Bis zu mehrere Hundert Euro Vorleistung: Finanzierung von Mpox-Impfung verl\u00e4uft schleppend",
+      "description": "Eine Pandemie droht nicht, trotzdem sollen sich Risikogruppen impfen lassen. In den meisten Bundesl\u00e4ndern gibt es aber noch immer keine Einigung mit den Krankenkassen in Sachen Mpox.",
+      "url": "https://www.tagesspiegel.de/politik/bis-zu-mehrere-hundert-euro-vorleistung-finanzierung-von-mpox-impfung-verlauft-schleppend-12450188.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/9805877/alternates/BASE_16_9_W1400/1683815737000/ein-jahr-affenpocken-in-europa.jpeg",
+      "publishedAt": "2024-09-27 15:34:54",
+      "content": "In nur sieben deutschen Bundesl\u00e4ndern gibt es eine Vereinbarung der Kassen\u00e4rztlichen Vereinigungen (KV) mit den Krankenkassen \u00fcber die Abrechnung der Mpox-Impfung. Das ergab eine Abfrage aller zust\u00e4n\u2026 [+129 chars]",
+      "retrievedAt": "2024-09-28 19:05:25.875889",
+      "internal_id": "56391ce0c75edcfbc775d19c3aca32464c809cfb442cf3d12d2e5047cf00f6f6",
+      "publishedAtLabel": "Sep 27"
+    },
+    {
+      "id": 14063,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": "bild",
+      "source_name": "Bild",
+      "author": "Diana de Wall",
+      "title": "Ministerium in Sachsen warnt - Tigerm\u00fccke erstmals in Dresden nachgewiesen",
+      "description": "Die asiatische Tigerm\u00fccke wurde zuletzt in Dresden (Sachsen) gesichtet. Sie kann Dengue-, Zika- und Chikungunya-Viren, oder das West-Nil-Virus \u00fcbertragen.",
+      "url": "https://www.bild.de/regional/dresden/ministerium-in-sachsen-warnt-asiatische-tigermuecke-in-dresden-nachgewiesen-66f6353154da86082598b06c",
+      "urlToImage": "https://images.bild.de/66f6353154da86082598b06c/46e66ebf71d06f9c7f0c5f33a83491c7,eee6e0c6?w=1280",
+      "publishedAt": "2024-09-27 15:29:49",
+      "content": "Dresden - Die asiatische Tigerm\u00fccke breitet sich weiter in Deutschland aus und sticht nun auch im Freistaat zu. Das aggressive Insekt ist auch in Sachsen angekommen. Experten sichteten die asiatisch\u2026 [+1211 chars]",
+      "retrievedAt": "2024-09-28 19:05:24.311798",
+      "internal_id": "e61d92fb471a2729d4538d556283998f04148baa8038f45c61d4dee459bb4b44",
+      "publishedAtLabel": "Sep 27"
+    },
+    {
+      "id": 14058,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "ZEIT ONLINE: News -",
+      "title": "Tierseuchen: Ausbruch der Gefl\u00fcgelpest im Vogtland",
+      "description": "Hier finden Sie Informationen zu dem Thema \u201eTierseuchen\u201c. Lesen Sie jetzt \u201eAusbruch der Gefl\u00fcgelpest im Vogtland\u201c.",
+      "url": "https://www.zeit.de/news/2024-09/27/ausbruch-der-gefluegelpest-im-vogtland",
+      "urlToImage": "https://img.zeit.de/news/2024-09/27/ausbruch-der-gefluegelpest-im-vogtland-image-group/wide__1300x731",
+      "publishedAt": "2024-09-27 15:06:27",
+      "content": "Im Vogtland ist die Vogelgrippe bei Hausgefl\u00fcgel ausgebrochen. Das Virus H5N1 wurde in einem Betrieb mit 115 G\u00e4nsen und 69 Enten nachgewiesen, wie Landratsamt mitteilte. Viele der G\u00e4nse seien verende\u2026 [+1562 chars]",
+      "retrievedAt": "2024-09-28 19:05:23.687481",
+      "internal_id": "978ccfd4ce801458f1c9fc9f935dedc3b431ec10128b184f30bac548a8ede584",
+      "publishedAtLabel": "Sep 27"
+    },
+    {
+      "id": 14066,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "DW (English)",
+      "author": "Isaac Kaledzi",
+      "title": "Mpox in Africa: Vaccine efforts ramp up",
+      "description": "An alarming surge in mpox cases has hit Africa, with more than 32,000 suspected infections recorded. The continent faces a critical challenge in mobilizing enough vaccine doses to curb the spread.",
+      "url": "https://www.dw.com/en/mpox-in-africa-vaccine-efforts-ramp-up/a-70339681",
+      "urlToImage": "https://static.dw.com/image/70115026_6.jpg",
+      "publishedAt": "2024-09-27 14:01:00",
+      "content": "Global efforts are continuing to fight the current mpox outbreak in Africa, where suspected cases have reached over 32,000, with more than 28,000 of these in the Central Africa region, according to t\u2026 [+5557 chars]",
+      "retrievedAt": "2024-09-28 19:05:25.752903",
+      "internal_id": "cdd96cf4203d3af2277504e30097de5710d43b8315e30f7ec16e709e5cd2373a",
+      "publishedAtLabel": "Sep 27"
+    },
+    {
+      "id": 14064,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Ihsan Fadilah, Robert J. Commons, Nguyen Hoang Chau, Cindy S. Chu, Nicholas P. J. Day, Gavin C. K. W. Koh, Justin A. Green, Marcus VG Lacerda, Alejandro Llanos-Cuentas, Erni J. Nelwan, Francois Nosten, Ayodhia Pitaloka Pasaribu, Inge Sutanto, Walter R. J. Taylor, Kamala Thriemer, Ric N. Price, Nicholas J. White, J. Kevin Baird, James A. Watson",
+      "title": "Methaemoglobin as a surrogate marker of primaquine antihypnozoite activity in Plasmodium vivax malaria: A systematic review and individual patient data meta-analysis",
+      "description": "Ihsan Fadilah and colleagues conduct an individual patient data meta-analysis examining the utility and validity of blood methaemoglobin as a surrogate endpoint for recurrent vivax malaria.",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004411",
+      "urlToImage": "https://journals.plos.org/plosmedicine/article/figure/image?id=10.1371/journal.pmed.1004411.g005&size=inline",
+      "publishedAt": "2024-09-27 14:00:00",
+      "content": "Citation: Fadilah I, Commons RJ, Chau NH, Chu CS, Day NPJ, Koh GCKW, et al. (2024) Methaemoglobin as a surrogate marker of primaquine antihypnozoite activity in Plasmodium vivax malaria: A systematic\u2026 [+42132 chars]",
+      "retrievedAt": "2024-09-28 19:05:24.916743",
+      "internal_id": "1b277ece69b8299cd58b178ecbdde62e04430c48cf22fc1ca6a60de07d58edd4",
+      "publishedAtLabel": "Sep 27"
+    },
+    {
+      "id": 14078,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Christopher B. Uzzell, Elizabeth Gray, Jonathan Rigby, Catherine M. Troman, Yohane Diness, Charity Mkwanda, Katalina Tonthola, Oscar Kanjerwa, Chifundo Salifu, Tonney Nyirenda, Chisomo Chilupsya, Chisomo Msefula, Nicola Elviss, Nicholas C. Grassly, Nicholas A. Feasey",
+      "title": "Environmental surveillance for Salmonella Typhi in rivers and wastewater from an informal sewage network in Blantyre, Malawi",
+      "description": "Author summary Typhoid fever is a major public health concern throughout many low- and middle-income countries, resulting in significant morbidity and mortality. In recent years, two typhoid-conjugate vaccines have been pre-qualified, with the World Health Or\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012518",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012518.g006&size=inline",
+      "publishedAt": "2024-09-27 14:00:00",
+      "content": "Abstract Environmental surveillance for Salmonella Typhi may provide information on the community-level dynamics of typhoid fever in resource poor regions experiencing high disease burden. Many know\u2026 [+41363 chars]",
+      "retrievedAt": "2024-09-28 19:05:26.309399",
+      "internal_id": "7504636a3dd669268b8e9dd23fab94867e483058d75422fde5e391b309d1f117",
+      "publishedAtLabel": "Sep 27"
+    },
+    {
+      "id": 14080,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Martin Wainaina, Joseph Wasonga, Elizabeth Anne Jessie Cook",
+      "title": "Epidemiology of human and animal leptospirosis in Kenya: A systematic review and meta-analysis of disease occurrence, serogroup diversity and risk factors",
+      "description": "Author summary Leptospirosis is a prevalent but understudied zoonotic disease in Kenya. A comprehensive review of the presence of the disease in various hosts is therefore needed to catalogue the research efforts and inspire future scientific inquiry on this \u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012527",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012527.g005&size=inline",
+      "publishedAt": "2024-09-27 14:00:00",
+      "content": "Introduction Leptospirosis is a common but neglected zoonotic disease in the world [1]. It is caused by bacteria of the genus Leptospira which are finely coiled, obligate aerobic, Gram-negative, cat\u2026 [+39234 chars]",
+      "retrievedAt": "2024-09-28 19:05:26.488785",
+      "internal_id": "2679167054894930a2fa0b8be44d0a4a0b53fae87966ca005152a727199ceca4",
+      "publishedAtLabel": "Sep 27"
+    },
+    {
+      "id": 14057,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Syllad.com",
+      "author": "Syllad | The Rising Meghalaya",
+      "title": "Nangbah LP School hosts rabies awareness program to combat infection",
+      "description": "As part of World Rabies Week 2024, an awareness program on rabies was held at Nangbah LP School, Nangbah Village, West Jaintia Hills on September 27, under the theme \u201cBreaking Rabies Boundaries.\u201d The event was organized by the Department of Health & Family We\u2026",
+      "url": "https://www.syllad.com/nangbah-lp-school-hosts-rabies-awareness-program-to-combat-infection/",
+      "urlToImage": "https://www.syllad.com/wp-content/uploads/2024/09/Rabies-Week-at-Nangbah-jpg.avif",
+      "publishedAt": "2024-09-27 13:30:00",
+      "content": "Syllad The Rising Meghalaya Container Box with Title and Links Results announced for Lower Divisional Assistant cum Typist exam in West Jaintia Hills - Click MPSC announces inte\u2026 [+319 chars]",
+      "retrievedAt": "2024-09-28 19:05:23.056536",
+      "internal_id": "609f59ae7dada1944650933a1f5153edc73a3154effe0615f3691d5b8eb9305f",
+      "publishedAtLabel": "Sep 27"
+    },
+    {
+      "id": 14065,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Project Syndicate",
+      "author": "Ngozi Okonjo-Iweala",
+      "title": "The Slow Mpox Response Is Another Pandemic Wake-Up Call",
+      "description": "The response to the current mpox outbreak in Central Africa suggests that we have not learned the lessons of COVID-19, when inequitable access to vaccines prolonged the pandemic and worsened its economic consequences. But there are short-term steps policymake\u2026",
+      "url": "https://www.project-syndicate.org/commentary/mpox-response-too-slow-covid-pandemic-lessons-still-not-learned-by-ngozi-okonjo-iweala-2024-09",
+      "urlToImage": "https://webapi.project-syndicate.org/library/0833729e76bb61e8b8181c7e057463b5.2-1-super.1.jpg",
+      "publishedAt": "2024-09-27 12:41:00",
+      "content": "The response to the current mpox outbreak in Central Africa suggests that we have not learned the lessons of COVID-19, when inequitable access to vaccines prolonged the pandemic and worsened its econ\u2026 [+7280 chars]",
+      "retrievedAt": "2024-09-28 19:05:25.726305",
+      "internal_id": "641b1644093999e71b8e99a89e4e7886f4fcbef5731d65bb3d5acd9228c81e2b",
+      "publishedAtLabel": "Sep 27"
+    },
+    {
+      "id": 14073,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "PTI",
+      "title": "India reports another Mpox case in Kerala",
+      "description": "The Kerala health department reported another Mpox case and urged symptomatic individuals to seek treatment. The state had earlier reported the country's first confirmed case of the new strain. Isolation facilities are arranged, and revised guidelines for pre\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/india-reports-another-monkeypox-case-in-kerala/articleshow/113739922.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-113739952,width-1200,height-630,imgsize-4712,overlay-economictimes/photo.jpg",
+      "publishedAt": "2024-09-27 11:25:42",
+      "content": "The Kerala health department on Friday said another Mpox case was reported in the state and urged those who have symptoms to seek treatment. The southern state had reported the country's first confir\u2026 [+1729 chars]",
+      "retrievedAt": "2024-09-28 19:05:25.900455",
+      "internal_id": "8d0a9b0d02d811b9889f5f42f71d1d3ede8b7586c6b6f43b5c40ec2cc124720f",
+      "publishedAtLabel": "Sep 27"
+    },
+    {
+      "id": 14068,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Gilbert Nakweya",
+      "title": "Mpox is accelerating antimicrobial resistance in Africa, officials warn",
+      "description": "The head of the Africa Centres for Disease Control and Prevention (Africa CDC) has warned that the spread of mpox is accelerating antimicrobial resistance in the continent. \u201cToday, I consider mpox as the major driver of antimicrobial resistance,\u201d said the age\u2026",
+      "url": "https://www.bmj.com/content/386/bmj.q2124",
+      "urlToImage": "https://www.bmj.com/sites/default/files/highwire/bmj/386/8443.cover-source.jpg",
+      "publishedAt": "2024-09-27 10:57:04",
+      "content": "The head of the Africa Centres for Disease Control and Prevention (Africa CDC) has warned that the spread of mpox is accelerating antimicrobial resistance in the continent. Today, I consider mpox as \u2026 [+550 chars]",
+      "retrievedAt": "2024-09-28 19:05:25.810126",
+      "internal_id": "2416c5371fbbefb1bfeec83514d0a3eba7e1850fadf6099de239a7f8d616e47a",
+      "publishedAtLabel": "Sep 27"
+    },
+    {
+      "id": 14070,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Agency Report",
+      "title": "Stakeholders commit $1bn to combat Mpox in Africa",
+      "description": "The Africa Centres for Disease Control and Prevention has stated that governments and donors have committed around one billion dollars to tackle Africa\u2019s ongoing mpox outbreak, with the United States pledging five million dollars. The Director-General, Africa\u2026",
+      "url": "https://punchng.com/stakeholders-commit-1bn-to-combat-mpox-in-africa/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2024/08/24143408/AFP__20240822__36EN4A6__v1__Mockup__BurundiHealthVirusMpox-1200x630.jpg",
+      "publishedAt": "2024-09-27 10:55:18",
+      "content": "The Africa Centres for Disease Control and Prevention has stated that governments and donors have committed around one billion dollars to tackle Africas ongoing mpox outbreak, with the United States \u2026 [+4390 chars]",
+      "retrievedAt": "2024-09-28 19:05:25.858191",
+      "internal_id": "48a1af3098f43a48a5acd8e356b28534dd6bc470e86a9452696549f166e8fd6d",
+      "publishedAtLabel": "Sep 27"
+    },
+    {
+      "id": 14067,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Orf.at",
+      "author": "ORF.at",
+      "title": "Starker Anstieg der Mpox-Infektionen in Australien",
+      "description": "",
+      "url": "https://orf.at/stories/3371069/",
+      "urlToImage": "https://orf.at/mojo/1_4_1/storyserver//news/common/images/og-fallback-news.png",
+      "publishedAt": "2024-09-27 09:39:05",
+      "content": "Ein starker Anstieg der Mpox-Infektionen beunruhigt die Beh\u00f6rden in Australien. Insgesamt wurden laut offiziellen Angaben in diesem Jahr schon 737 Infektionsf\u00e4lle registriert im gesamten vergangenen \u2026 [+1289 chars]",
+      "retrievedAt": "2024-09-28 19:05:25.777207",
+      "internal_id": "c8131b0bbb50bbc32de7559a944f5ca0975030d74d457bb97607a9cd8df37c4a",
+      "publishedAtLabel": "Sep 27"
+    },
+    {
+      "id": 14069,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Yap Boum II, Nicaise Ndembi",
+      "title": "Mpox needs a locally tailored global response",
+      "description": "Action to manage outbreaks must reflect diversity of disease Mpox has spread rapidly across continents, igniting fear and uncertainty. Since 2022, 52 329 cases have been recorded (of which 9335 are confirmed), and 1798 deaths.1 The disease has shown potentia\u2026",
+      "url": "https://www.bmj.com/content/386/bmj.q2094",
+      "urlToImage": "https://www.bmj.com/sites/default/files/highwire/bmj/386/8443.cover-source.jpg",
+      "publishedAt": "2024-09-27 09:21:33",
+      "content": "Yap Boum II, public health expert,1, Nicaise Ndembi, Africa mpox deputy incident manager21Institut Pasteur de Bangui, Central African Republic 2Africa Cen\u2026 [+1243 chars]",
+      "retrievedAt": "2024-09-28 19:05:25.816416",
+      "internal_id": "176da615da4cdf2d2391e8b363d3dfd75e1894c75725e3b45e671cf0411ef34e",
+      "publishedAtLabel": "Sep 27"
+    },
+    {
+      "id": 14077,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Business Standard",
+      "author": "Nisha Anand",
+      "title": "Kerala reports second Mpox case, third in India; strain being analysed",
+      "description": "The first Mpox case in India this year involved a man from Haryana, with a less concerning strain. The second case, detected in Kerala, was the first instance of the more concerning clade 1b strain",
+      "url": "https://www.business-standard.com/india-news/kerala-reports-second-mpox-case-third-in-india-strain-being-analysed-124092700513_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-09/06/thumb/featurecrop/400X400/1725587742-6507.jpg",
+      "publishedAt": "2024-09-27 09:14:57",
+      "content": "The first Mpox case in India this year involved a man from Haryana, with a less concerning strain. The second case, detected in Kerala, was the first instance of the more concerning clade 1b strain \u2026 [+2070 chars]",
+      "retrievedAt": "2024-09-28 19:05:26.031970",
+      "internal_id": "11b19c277f1dec2870199a1d41603920cd40e3f6f6edbf4eacfa1af54d72c069",
+      "publishedAtLabel": "Sep 27"
+    },
+    {
+      "id": 14076,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": "Aayushi Singh Chauhan",
+      "title": "Heres All You Need To Know About Clade 1 Variant Of Mpox",
+      "description": "This article provides an in-depth look at the Clade 1 variant of Mpox, including how it differs from other variants, its symptoms, transmission methods, and the preventive measures you can take.",
+      "url": "https://doctor.ndtv.com/living-healthy/heres-all-you-need-to-know-about-clade-1-variant-of-mpox-6661857",
+      "urlToImage": "https://c.ndtvimg.com/2024-08/4sl88uh8_mpox_625x300_25_August_24.jpeg?im=FaceCrop,algorithm=dnn,width=620,height=350",
+      "publishedAt": "2024-09-27 08:53:35",
+      "content": "Mpox (previously known as monkeypox) has recently become a significant public health concern, with multiple outbreaks being reported globally. While the disease has been endemic in certain regions of\u2026 [+6682 chars]",
+      "retrievedAt": "2024-09-28 19:05:25.951820",
+      "internal_id": "41afcc5a42e0052779f590011a67eb8c3e1d2bedd243b08278ae0771820a30e1",
+      "publishedAtLabel": "Sep 27"
+    },
+    {
+      "id": 14071,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Aajtak.in",
+      "author": "\u092e\u093f\u0932\u0928 \u0936\u0930\u094d\u092e\u093e",
+      "title": "\u092b\u093f\u0930 \u092c\u0922\u093c\u093e MPox \u0915\u093e \u0916\u0924\u0930\u093e, \u0915\u0947\u0930\u0932 \u092e\u0947\u0902 \u0930\u093f\u092a\u094b\u0930\u094d\u091f \u0915\u093f\u092f\u093e \u0917\u092f\u093e \u0926\u0942\u0938\u0930\u093e \u092e\u093e\u092e\u0932\u093e",
+      "description": "\u092a\u0949\u091c\u093f\u091f\u093f\u0935 \u092a\u093e\u090f \u0917\u090f \u092e\u0930\u0940\u091c \u0915\u094b \u0939\u0949\u0938\u094d\u092a\u093f\u091f\u0932 \u092e\u0947\u0902 \u0906\u0907\u0938\u094b\u0932\u0947\u091f \u0915\u093f\u092f\u093e \u0917\u092f\u093e \u0939\u0948 \u0914\u0930 \u0907\u0932\u093e\u091c \u091a\u0932 \u0930\u0939\u093e \u0939\u0948. \u0938\u094d\u0935\u093e\u0938\u094d\u0925\u094d\u092f \u0935\u093f\u092d\u093e\u0917 \u0915\u0947 \u0938\u0942\u0924\u094d\u0930\u094b\u0902 \u0915\u0947 \u092e\u0941\u0924\u093e\u092c\u093f\u0915, \u0905\u092d\u0940 \u0924\u0915 \u0907\u0938 \u092e\u093e\u092e\u0932\u0947 \u092e\u0947\u0902 \u0938\u094d\u091f\u094d\u0930\u0947\u0928 \u0915\u093e \u092a\u0924\u093e \u0928\u0939\u0940\u0902 \u091a\u0932 \u092a\u093e\u092f\u093e \u0939\u0948.",
+      "url": "https://www.aajtak.in/india/news/story/kerala-ernakulam-threat-of-mpox-increased-again-second-case-reported-in-state-ntc-rpti-2054804-2024-09-27",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202409/66f671483c233-mpox-who-vaccine-274806849-16x9.jpeg",
+      "publishedAt": "2024-09-27 08:49:10",
+      "content": "MPox . . . . , . 1. ? (MPXV) . . . 1958 ' ' . (Mpox) , (Cheapox) . 2. ? , . . . , . , , . , , . : , ? 3. ? , , , . ( ) . , . 4. ? () , 21 . 3 17 . , . . 4. ? (MPXV) . 100 . . \u2026 [+58 chars]",
+      "retrievedAt": "2024-09-28 19:05:25.869121",
+      "internal_id": "d5150cde38bdeabdec557a9195b1f050198ebb17eda54da32d01bdc6dac88b7e",
+      "publishedAtLabel": "Sep 27"
+    },
+    {
+      "id": 14056,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": null,
+      "title": "World Rabies Day 2024: Theme, History, Importance & Immediate Care Tips",
+      "description": "World Rabies Day 2024: Below we share the theme, history, and importance of the day. We also share immediate care tips to perform in case of an animal bite.",
+      "url": "https://www.ndtv.com/health/world-rabies-day-2024-theme-history-importance-immediate-care-tips-for-animal-bites-6661403",
+      "urlToImage": "https://c.ndtvimg.com/2021-09/l3s06kno_world-rabies-day-_625x300_28_September_21.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "publishedAt": "2024-09-27 07:57:49",
+      "content": "World Rabies Day 2024: After cleaning the wound, apply an antiseptic Rabies is a deadly viral disease that affects the central nervous system of mammals, including humans. It is primarily spread thr\u2026 [+3549 chars]",
+      "retrievedAt": "2024-09-28 19:05:23.012291",
+      "internal_id": "cc0fe39272a3685039a189c5f63db7c771eb8f5f6edf40fb80d05384a2dcbb25",
+      "publishedAtLabel": "Sep 27"
+    },
+    {
+      "id": 14074,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": null,
+      "title": "To Handle Mpox Cases, Identify Facilities, Trained People: Centre To States",
+      "description": "The Centre on Thursday asked all states to identify facilities and trained human resources for taking care of both suspected and confirmed mpox cases.",
+      "url": "https://www.ndtv.com/india-news/to-handle-mpox-cases-identify-facilities-trained-people-centre-to-states-6661093",
+      "urlToImage": "https://c.ndtvimg.com/2024-09/2e86icjo_mpox_625x300_24_September_24.jpeg",
+      "publishedAt": "2024-09-27 07:16:14",
+      "content": "States have been asked to review public health preparedness, particularly at the state and district level New Delhi: The Centre on Thursday asked all states to identify facilities and trained human \u2026 [+3361 chars]",
+      "retrievedAt": "2024-09-28 19:05:25.928843",
+      "internal_id": "d2b8c8a4cb73f84aea11134c405b1d69a6ea347ef1f650378c44f4af65eef5d2",
+      "publishedAtLabel": "Sep 27"
+    },
     {
       "id": 14041,
       "query": [
@@ -39122,96 +39574,6 @@
       "content": "New Delhi: As monsoon sets in, a surge in demand for seasonal products within the respiratory, anti-infective, and anti-malarial therapeutic categories have been seen. According to market research fi\u2026 [+2057 chars]",
       "retrievedAt": "2024-08-13 07:06:53.668946",
       "internal_id": "788082dfad686671baa5d198494d28d10cd1324336e7c378c20a4ca94df63381",
-      "publishedAtLabel": "Aug 11"
-    },
-    {
-      "id": 11882,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Faz.net",
-      "author": "Claudia Br\u00f6ll",
-      "title": "Sorge wegen Ausbreitung des Mpox-Virus in Afrika",
-      "description": "Eine neue Variante des Mpox-Virus breitet sich in Afrika aus. Mehr als 15.000 F\u00e4lle wurden seit Jahresbeginn registriert. Beh\u00f6rden sehen eine \u201ealarmierende Entwicklung\u201c, die WHO beruft einen Notfallausschuss ein.",
-      "url": "https://www.faz.net/aktuell/gesellschaft/gesundheit/mpox-virus-in-afrika-neue-variante-breitet-sich-aus-19913273.html",
-      "urlToImage": "https://media0.faz.net/ppmedia/aktuell/gesellschaft/805874728/1.9913288/facebook_teaser/eine-krankenschwester.jpg",
-      "publishedAt": "2024-08-11 18:54:32",
-      "content": "Einen Tag zuvor hatte die Weltgesundheitsorganisation wegen der weiteren Ausbreitung innerhalb und au\u00dferhalb Afrikas einen Notfallausschuss einberufen. Er solle pr\u00fcfen, ob der Ausbruch eine gesundhei\u2026 [+3470 chars]",
-      "retrievedAt": "2024-08-12 19:06:08.676886",
-      "internal_id": "0599adcff99139707421aeae9c960be048397ae165f7ba2a5be3e2c6faecae74",
-      "publishedAtLabel": "Aug 11"
-    },
-    {
-      "id": 11879,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Tbsnews.net",
-      "author": "Unb",
-      "title": "One dies of dengue; 202 hospitalised in 24hrs",
-      "description": "One death was reported from dengue in 24 hours till Sunday morning, raising the number of fatalities from the mosquito-borne disease in Bangladesh to 65 this year. During the period, 202 more patients were hospitalised with viral fever, according to the Direc\u2026",
-      "url": "https://www.tbsnews.net/bangladesh/health/one-dies-dengue-202-hospitalised-24hrs-914511",
-      "urlToImage": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/09/13/dengue-rajib-dhar.jpg",
-      "publishedAt": "2024-08-11 16:30:41",
-      "content": "One death was reported from dengue in 24 hours till Sunday morning, raising the number of fatalities from the mosquito-borne disease in Bangladesh to 65 this year. During the period, 202 more patien\u2026 [+433 chars]",
-      "retrievedAt": "2024-08-12 19:06:07.168514",
-      "internal_id": "37f7c12f867094cc1a16e3d59c506550898ea9a60433c1c8aa866ca050c80c98",
-      "publishedAtLabel": "Aug 11"
-    },
-    {
-      "id": 11878,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "DIE WELT",
-      "author": "Christina Sticht, Philipp Znidar",
-      "title": "Oropouche-Ausbruch weitet sich aus",
-      "description": "Brasilien meldet fast 7500 F\u00e4lle \u2013 und die ersten Todesopfer. W\u00e4hrend das Land zugleich gegen Dengue-Fieber k\u00e4mpfen muss, wird nun untersucht, welches Risiko f\u00fcr Schwangere durch Oropouche besteht. Ein Experte erkl\u00e4rt, ob sich das Virus auch in Deutschland ve\u2026",
-      "url": "https://www.welt.de/gesundheit/article252950606/Epidemie-Kann-sich-das-Oropouche-Virus-in-Deutschland-ausbreiten.html",
-      "urlToImage": "https://img.welt.de/img/gesundheit/mobile252950602/6217936867-ci16x9-w1200/Fumace-Alberto-Torre.jpg",
-      "publishedAt": "2024-08-11 15:08:07",
-      "content": "Brasilien meldet fast 7500 F\u00e4lle und die ersten Todesopfer. W\u00e4hrend das Land zugleich gegen Dengue-Fieber k\u00e4mpfen muss, wird nun untersucht, welches Risiko f\u00fcr Schwangere durch Oropouche besteht. Ein\u2026 [+6484 chars]",
-      "retrievedAt": "2024-08-12 19:06:07.079239",
-      "internal_id": "ce8eb764efff712d7a622b489b1873a03b3e8d8098b3653e186668fcb3b2e7d0",
-      "publishedAtLabel": "Aug 11"
-    },
-    {
-      "id": 11880,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Digi24.ro",
-      "author": "Maria Isopescu",
-      "title": "Epidemia de \u201evariola maimu\u021bei\u201d se r\u0103sp\u00e2nde\u0219te \u00een mai multe \u021b\u0103ri africane. OMS convoac\u0103 un comitet de urgen\u021b\u0103",
-      "description": "Organiza\u0163ia Mondial\u0103 a S\u0103n\u0103t\u0103\u0163ii (OMS) convoac\u0103 un comitet de urgen\u0163\u0103 pe tema mpox - cunoscut\u0103 \u015fi sub denumirea de ''variola maimu\u0163ei'' \u2013 pentru 14 august, pentru a evalua necesitatea decret\u0103rii celui mai \u00eenalt nivel de alert\u0103 \u00een fa\u0163a actualei epidemii din ma\u2026",
-      "url": "https://www.digi24.ro/stiri/actualitate/sanatate/epidemia-de-variola-maimutei-se-raspandeste-in-mai-multe-tari-africane-oms-convoaca-un-comitet-de-urgenta-2890979",
-      "urlToImage": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA1dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjIl/MkYwNSUyRjIxJTJGMTUxMzIxNl8xNTEz/MjE2X3ZhcmlvbGEtbWFpbXV0ZWktcHJv/ZmltZWRpYS0xLmpwZyZ3PTEyMDAmaD02/MzAmemM9MSZoYXNoPWFkMzI1ZGNkYmRhOTI5ZjhhNjgxODcyZGNhMWFhODQ3.thumb.jpg",
-      "publishedAt": "2024-08-11 08:39:07",
-      "content": "Organizaia Mondial a Sntii (OMS) convoac un comitet de urgen pe tema mpox - cunoscut i sub denumirea de ''variola maimuei'' pentru 14 august, pentru a evalua necesitatea decretrii celui mai \u00eenalt niv\u2026 [+2452 chars]",
-      "retrievedAt": "2024-08-12 19:06:08.583653",
-      "internal_id": "5ac2f3f9b68c5e4620042b101959245bf9f874a3a72a6e135db969c98891fb73",
-      "publishedAtLabel": "Aug 11"
-    },
-    {
-      "id": 11881,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "L'Express",
-      "author": "Victor Garcia",
-      "title": "Nouvelle \u00e9pid\u00e9mie de Mpox : \"On sait ce qu\u2019est une pand\u00e9mie, et on n\u2019en veut pas\"",
-      "description": "Une nouvelle souche de la variole du singe, qui pourrait \u00eatre plus transmissible et plus l\u00e9tale, inqui\u00e8te l\u2019OMS, qui devrait rehausser son alerte d\u2019ici quelques jours.",
-      "url": "https://www.lexpress.fr/sciences-sante/sciences/nouvelle-epidemie-de-mpox-on-sait-ce-quest-une-pandemie-et-on-nen-veut-pas-Q7QJWCFML5EUPD4L7AI5JGQ5KY/",
-      "urlToImage": "https://www.lexpress.fr/resizer/v2/3BLCYWTIM5DVFAXCSHB6JYYGCQ.jpg?auth=73a3f28297ce361e6afab5c58e26ba7607687405803332bdeef8d8eab18fd0e1&width=1200&height=630&quality=85&smart=true",
-      "publishedAt": "2024-08-11 08:30:00",
-      "content": "Faut-il sinqui\u00e9ter de l\u00e9pid\u00e9mie du nouveau variant de Mpox, aussi appel\u00e9 \"variole du singe\" ? D\u00e9tect\u00e9e en R\u00e9publique d\u00e9mocratique du Congo (RDC) en septembre 2023, la maladie se propage depuis dans p\u2026 [+9165 chars]",
-      "retrievedAt": "2024-08-12 19:06:08.644131",
-      "internal_id": "0dfa34437a537e8a5cbdc57d532f591befba6cc39776b010ecea1850110e83f7",
       "publishedAtLabel": "Aug 11"
     }
   ]
