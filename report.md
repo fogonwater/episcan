@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 25
-- **Last harvest:** 2024-09-29 07:05
-- **Most recent article:** 2024-09-28 04:00:00
+- **New articles in last harvest:** 8
+- **Last harvest:** 2024-09-29 19:05
+- **Most recent article:** 2024-09-28 18:55:08
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-34 | 24-35 | 24-36 | 24-37 | 24-38 | 24-39 | Total |
 |--|-|-|-|-|-|-|-|
-| mpox | 208 | 207 | 184 | 192 | 140 | 119 | 1050 |
-| dengue | 63 | 45 | 49 | 76 | 73 | 48 | 354 |
-| malaria | 27 | 28 | 14 | 12 | 15 | 23 | 119 |
+| mpox | 201 | 207 | 184 | 192 | 140 | 121 | 1045 |
+| dengue | 56 | 45 | 49 | 76 | 73 | 49 | 348 |
+| malaria | 25 | 28 | 14 | 12 | 15 | 23 | 117 |
 | h5n1 | 5 | 10 | 31 | 10 | 17 | 34 | 107 |
-| rabies | 5 | 3 | 7 | 5 | 13 | 22 | 55 |
-| zika | 21 | 2 | 6 | 10 | 8 | 1 | 48 |
-| measles | 7 | 11 | 9 | 5 | 8 | 3 | 43 |
-| chikungunya | 10 | 1 | 5 | 13 | 9 | 3 | 41 |
-| meningitis | 11 | 5 | 6 | 3 | 10 | 6 | 41 |
+| rabies | 5 | 3 | 7 | 5 | 13 | 24 | 57 |
+| measles | 7 | 11 | 9 | 5 | 8 | 4 | 44 |
+| zika | 15 | 2 | 6 | 10 | 8 | 1 | 42 |
+| chikungunya | 9 | 1 | 5 | 13 | 9 | 3 | 40 |
+| meningitis | 10 | 5 | 6 | 3 | 10 | 6 | 40 |
 | pertussis | 5 | 2 | 1 | 5 | 3 | 3 | 19 |
-| leptospirosis | 4 | 0 | 1 | 0 | 1 | 3 | 9 |
+| leptospirosis | 4 | 0 | 1 | 0 | 1 | 5 | 11 |
 | typhoid | 2 | 1 | 1 | 0 | 0 | 4 | 8 |
 | yersinia | 1 | 1 | 2 | 0 | 2 | 2 | 8 |
 | hpai | 1 | 0 | 3 | 1 | 0 | 2 | 7 |
@@ -53,6 +53,10 @@ Source: [News API](https://newsapi.org/)
 - [Antibiotics becoming ineffective against diseases like typhoid, pneumonia, and urinary infections: ICMR rings alarm](https://economictimes.indiatimes.com/news/india/antibiotics-becoming-ineffective-against-diseases-like-typhoid-pneumonia-and-urinary-infections-icmr-rings-alarm/articleshow/113599189.cms) (The Times of India)
 
 ## 24-39 (rabies)
+
+- [In This State, a Rare Human Death From Rabies](https://www.newser.com/story/357013/in-this-state-a-rare-human-death-from-rabies.html) (Newser)
+
+- [Indian Immunologicals working on bi-valent human monoclonal antibody for rabies](https://timesofindia.indiatimes.com/business/india-business/indian-immunologicals-working-on-bi-valent-human-monoclonal-antibody-for-rabies/articleshow/113767057.cms) (The Times of India)
 
 - [कुत्ते ने ऐसा काटा कि उद्योगपति की दर्दनाक मौत...रेबीज टीका नहीं लगवाया तो 20 साल बाद भी जाएगी जान!](https://navbharattimes.indiatimes.com/india/dog-bites-fatal-for-industrialist-parag-desai-neglecting-rabies-vaccine-can-lead-to-death-even-20-years-later-know-world-rabies-day-2024/articleshow/113754173.cms) (The Times of India)
 
@@ -107,6 +111,10 @@ Source: [News API](https://newsapi.org/)
 - [Whooping cough cases are soaring. Can infecting people help test a better vaccine?](https://www.wxii12.com/article/whooping-cough-cases-soaring-vaccine/62305261) (WXII12 Winston-Salem)
 
 ## 24-39 (mpox)
+
+- [Monkeypox in India: Key do's and don'ts you need to follow](https://m.economictimes.com/industry/healthcare/biotech/healthcare/monkeypox-in-india-key-dos-and-donts-you-need-to-follow/raise-monkeypox-awareness/slideshow/113766046.cms) (Economictimes.com)
+
+- [Crianças são as mais vulneráveis a epidemia de varíola mpox](https://ionline.sapo.pt/2024/09/28/criancas-sao-as-mais-vulneraveis-a-epidemia-de-variola-mpox/) (Sapo.pt)
 
 - [TWiV 1152: Clinical update with Dr. Daniel Griffin](https://www.microbe.tv/twiv/twiv-1152/) (Microbe.tv)
 
@@ -362,6 +370,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-39 (measles)
 
+- [UNICEF to immunise five million children against measles in Edo, others](https://punchng.com/unicef-to-immunise-five-million-children-against-measles-in-edo-others/) (The Punch)
+
 - [Meghalaya records 214 measles cases, 11 outbreaks in past 8 months: Dr Mawlong](https://www.syllad.com/meghalaya-records-214-measles-cases-11-outbreaks-in-past-8-months-dr-mawlong/) (Syllad.com)
 
 - [Research: Measles, mumps and rubella: lab-confirmed cases in England 2024](https://www.gov.uk/government/publications/measles-mumps-and-rubella-lab-confirmed-cases-in-england-2024) (Www.gov.uk)
@@ -417,6 +427,10 @@ Source: [News API](https://newsapi.org/)
 - [Tempo Kas Tuntas, Upaya Inovasi Indonesia Eliminasi Malaria di Tanah Papua dan Nasional](https://www.liputan6.com/health/read/5708980/tempo-kas-tuntas-upaya-inovasi-indonesia-eliminasi-malaria-di-tanah-papua-dan-nasional) (Liputan6.com)
 
 ## 24-39 (leptospirosis)
+
+- [Punjab CM diagnosed with leptospirosis, a deadly bacterial infection caused by rats, animals](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/punjab-cm-diagnosed-with-leptospirosis-a-deadly-bacterial-infection-caused-by-rats-animals/articleshow/113770879.cms) (The Times of India)
+
+- [Bhagwant Mann tests positive for leptospirosis: What is it, causes, symptoms, and diagnosis](https://economictimes.indiatimes.com/news/india/bhagwant-mann-tests-positive-for-leptospirosis-what-is-it-causes-symptoms-and-diagnosis/articleshow/113768912.cms) (The Times of India)
 
 - [100+ leptospirosis cases recorded, health directorate advises caution](https://timesofindia.indiatimes.com/city/goa/100-leptospirosis-cases-recorded-health-directorate-advises-caution/articleshow/113749280.cms) (The Times of India)
 
@@ -501,6 +515,8 @@ Source: [News API](https://newsapi.org/)
 - ["Пернатые пираты" ускоряют распространение смертельного птичьего гриппа, выяснили ученые](https://www.gazeta.ru/science/news/2024/09/22/23979301.shtml) (Gazeta.ru)
 
 ## 24-39 (dengue)
+
+- [ഡെങ്കിപ്പനി അതിജീവിച്ചവർ അഭിമുഖീകരിക്കുന്നത് കോവിഡ് വന്നവരെക്കാൾ അധികം ആരോഗ്യപ്രശ്നങ്ങൾ](https://www.manoramaonline.com/health/health-news/2024/09/27/dengue-long-term-health-risks-vs-covid.html) (Manoramaonline.com)
 
 - [Put 'em on, put 'em on, put 'em on me](https://ask.metafilter.com/382301/Put-em-on-put-em-on-put-em-on-me) (Metafilter.com)
 
@@ -3268,18 +3284,6 @@ Source: [News API](https://newsapi.org/)
 
 - [2 pregnant women, 4 others test positive for Zika in B’luru](https://timesofindia.indiatimes.com/city/bengaluru/zika-virus-cases-in-bengaluru/articleshow/112614294.cms) (The Times of India)
 
-- [Paris organizers aim to emulate success of London 2012 as 'normalcy' returns to Paralympics](https://www.cbc.ca/sports/paralympics/paris-paralympics-preview-aug-18-1.7292995) (CBC News)
-
-- [5 Zika Virus Cases Detected In Bengaluru: Karnataka Health Minister](https://www.ndtv.com/india-news/5-zika-virus-cases-detected-in-bengaluru-karnataka-health-minister-6365630) (NDTV News)
-
-- [Five Zika virus cases detected in Bengaluru](https://statetimes.in/five-zika-virus-cases-detected-in-bengaluru/) (Statetimes.in)
-
-- [Five Zika virus cases detected in Bengaluru](https://economictimes.indiatimes.com/news/india/five-zika-virus-cases-detected-in-bengaluru/articleshow/112609156.cms) (The Times of India)
-
-- [Five Zika virus cases detected in Bengaluru](https://timesofindia.indiatimes.com/india/five-zika-virus-cases-detected-in-bengaluru/articleshow/112608623.cms) (The Times of India)
-
-- [Gender surgeries, migraine tips, 'Zika-like' virus and more top health stories](https://www.foxnews.com/health/gender-surgeries-migraine-tips-zika-like-virus-top-health-stories) (Fox News)
-
 ## 24-34 (yersinia)
 
 - [RNase-mediated reprogramming of Yersinia virulence](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011965) (Plos.org)
@@ -3718,20 +3722,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Implementa China protocolos contra mpox](https://www.reforma.com/implementa-china-protocolos-contra-mpox/ar2859001) (Reforma.com)
 
-- [Mpox, l’infettivologo Cauda (Gemelli): “Vaiolo delle scimmie? Non siamo alla vigilia del Covid, la trasmissione è diversa e c’è un vaccino”](https://www.ilfattoquotidiano.it/2024/08/18/mpox-linfettivologo-cauda-gemelli-vaiolo-delle-scimmie-non-siamo-alla-vigilia-del-covid-la-trasmissione-e-diversa-e-ce-un-vaccino/7661627/) (Ilfattoquotidiano.it)
-
-- [Mpox : un risque d’infection «faible» pour la France](https://www.liberation.fr/societe/sante/mpox-un-risque-dinfection-faible-pour-la-france-20240818_3OWZ7QYGAVDYHH56R42MHSOWAU/) (Libération)
-
-- [„Es gibt eigentlich zwei Ausbrüche“](https://www.welt.de/wissenschaft/plus253044222/Mpox-Es-gibt-eigentlich-zwei-Ausbrueche.html) (DIE WELT)
-
-- [Quais foram as últimas emergências em saúde decretadas pela OMS?](https://olhardigital.com.br/2024/08/18/medicina-e-saude/quais-foram-as-ultimas-emergencias-em-saude-decretadas-pela-oms/) (Olhardigital.com.br)
-
-- [Gisslén om trippelsmockan – kikhosta och covid ökar samtidigt som Sverige fått mpox-fall](https://www.aftonbladet.se/nyheter/a/gwdG8a/kikhosta-och-covid-okar-kraftigt-i-sverige-nu-kommer-mpox) (Aftonbladet.se)
-
-- [AfD, Mpox und der Leipziger CSD: Finstere Zeiten](https://taz.de/AfD-Mpox-und-der-Leipziger-CSD/!6027911/) (taz.de)
-
-- [„Sicherlich wird dieser neue Stamm auch nach Deutschland kommen“](https://www.welt.de/wissenschaft/video253065172/Neue-Affenpocken-Variante-Sicherlich-wird-dieser-neue-Stamm-auch-nach-Deutschland-kommen.html) (DIE WELT)
-
 ## 24-34 (meningitis)
 
 - [Pharmacist pleads no contest to involuntary manslaughter in Michigan deaths from meningitis outbreak](https://abcnews.go.com/Business/wireStory/pharmacist-pleads-contest-involuntary-manslaughter-michigan-deaths-meningitis-113072407) (ABC News)
@@ -3753,8 +3743,6 @@ Source: [News API](https://newsapi.org/)
 - [Pharmacist blamed for deaths in US meningitis outbreak expected to plead no contest in Michigan case](https://abcnews.go.com/US/wireStory/pharmacist-blamed-deaths-us-meningitis-outbreak-expected-plead-113059673) (ABC News)
 
 - [Press release: Students urged to protect themselves from deadly meningitis](https://www.gov.uk/government/news/students-urged-to-protect-themselves-from-deadly-meningitis) (Www.gov.uk)
-
-- [Meningitis B: Only 2 provinces cover vaccine for students](https://www.ctvnews.ca/health/provinces-urged-to-offer-students-free-vaccines-for-rare-but-deadly-meningitis-strain-1.7004139) (Ctvnews.ca)
 
 ## 24-34 (measles)
 
@@ -3823,10 +3811,6 @@ Source: [News API](https://newsapi.org/)
 - [The newest weapon against mosquitoes: computer vision](https://www.gatesnotes.com/Computer-vision-is-helping-fight-malaria) (Gatesnotes.com)
 
 - [Australian 'Trojan horse' trial uses cholesterol to trick malaria parasites into consuming fatal drugs](https://www.abc.net.au/news/2024-08-19/university-research-cholesterol-targets-malaria-parasites/104239214) (ABC News (AU))
-
-- [UN and partners report acute malnutrition surge in Government-controlled areas of Yemen](https://news.un.org/en/story/2024/08/1153316) (UN News)
-
-- [To år gamle Kia er blant dei første i verda som får dødsviktig vaksine](https://www.nrk.no/urix/babyar-i-kamerun-forst-ut-med-vaksine-som-kan-redde-millionar-av-liv-1.16965469) (NRK)
 
 ## 24-34 (leptospirosis)
 
@@ -3968,20 +3952,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Bacolod: Dengue cases in Negros Occidental up 94%](https://rpnradio.com/bacolod-dengue-cases-in-negros-occidental-up-94/) (Rpnradio.com)
 
-- [Sepultan en Nayarit a Aylin Milagros, la niña de 8 años cuyo cuerpo fue retenido por un hospital](https://www.elfinanciero.com.mx/estados/2024/08/18/sepultan-en-nayarit-a-aylin-milagros-la-nina-de-8-anos-cuyo-cuerpo-fue-retenido-por-un-hospital/) (El Financiero)
-
-- [Un caso di Dengue nel centro di Padova, scatta disinfestazione](https://www.ansa.it/veneto/notizie/2024/08/18/un-caso-di-dengue-nel-centro-di-padova-scatta-disinfestazione_7e1ba774-6b54-412c-bc70-95f4e7545380.html) (ANSA.it)
-
-- [Experts: Spike in dengue cases due to weather](https://www.thestar.com.my/news/nation/2024/08/19/experts-spike-in-dengue-cases-due-to-weather) (The Star Online)
-
-- [5 Zika Virus Cases Detected In Bengaluru: Karnataka Health Minister](https://www.ndtv.com/india-news/5-zika-virus-cases-detected-in-bengaluru-karnataka-health-minister-6365630) (NDTV News)
-
-- [World Mosquito Day](https://www.thehindubusinessline.com/specials/pulse/world-mosquito-day/article68539346.ece) (BusinessLine)
-
-- [Union minister Jual Oram's wife Jhingia Oram dies of dengue](https://timesofindia.indiatimes.com/india/union-minister-jual-orams-wife-jhingia-oram-dies-of-dengue/articleshow/112604468.cms) (The Times of India)
-
-- [Union minister Jual Oram's wife Jhingia Oram dies of dengue](https://economictimes.indiatimes.com/news/india/union-minister-jual-orams-wife-jhingia-oram-dies-of-dengue/articleshow/112604176.cms) (The Times of India)
-
 ## 24-34 (chikungunya)
 
 - [Susceptibility status of Aedes aegypti (Diptera: Culicidae) to public health insecticides in Southern Afar Region, Ethiopia](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0309335) (Plos.org)
@@ -4001,5 +3971,3 @@ Source: [News API](https://newsapi.org/)
 - [World Mosquito Day: Date, Theme, History And Significance](https://www.ndtv.com/offbeat/world-mosquito-day-date-theme-history-and-significance-6374914) (NDTV News)
 
 - [Febre oropouche pode provocar sintomas nos olhos. Saiba quais](https://www.metropoles.com/saude/febre-oropouche-sintoma-nos-olhos) (Metropoles.com)
-
-- [World Mosquito Day](https://www.thehindubusinessline.com/specials/pulse/world-mosquito-day/article68539346.ece) (BusinessLine)
