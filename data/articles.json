@@ -1,8 +1,153 @@
 {
-  "last_updated": "2024-10-02 07:06",
-  "count_articles_total": 1876,
-  "count_articles_new": 7,
+  "last_updated": "2024-10-02 19:05",
+  "count_articles_total": 1862,
+  "count_articles_new": 8,
   "articles": [
+    {
+      "id": 14166,
+      "query": [
+        "dengue",
+        "leptospirosis"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TNN",
+      "title": "City records 18 lepto, 12 dengue deaths this year",
+      "description": "This year, Mumbai has reported 12 deaths from dengue and 18 from leptospirosis, as the city grapples with rising cases of infectious diseases during the monsoon season.",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/mumbai-faces-surge-in-dengue-and-leptospirosis-deaths-amidst-monsoon/articleshow/113860985.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-113860983,width-1070,height-580,imgsize-37096,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-10-01 18:21:56",
+      "content": "In pics: Attractive looks of Tharshika",
+      "retrievedAt": "2024-10-02 19:05:47.565101",
+      "internal_id": "2cff870781e5cc0e8d53832d2563f494a745698bd469cd4fb64d0c1b62ce0696",
+      "publishedAtLabel": "Oct 1"
+    },
+    {
+      "id": 14165,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ilgiornale.it",
+      "author": "redazione@ilgiornale-web.it (Massimo Balsamo)",
+      "title": "Focolaio di dengue a Fano: 102 casi accertati",
+      "description": "Nelle farmacie comunali il kit di protezione. Il monito agli abitanti: \"Pantaloni lunghi e zanzariere alle finestre\"",
+      "url": "https://www.ilgiornale.it/news/nazionale/focolaio-dengue-fano-102-casi-accertati-2375182.html",
+      "urlToImage": "https://img.ilgcdn.com/sites/default/files/styles/social/public/foto/2024/08/02/zanzaratigre_dengue_123rf_0.jpeg?_=1722609603",
+      "publishedAt": "2024-10-01 18:21:19",
+      "content": "Sale a 102 il conto dei casi di dengue accertati e 10 quelli probabili nellarea di Fano, nelle Marche. Come reso noto dalla regione, sono in via di verifica altri casi che hanno presentato nei giorni\u2026 [+3260 chars]",
+      "retrievedAt": "2024-10-02 19:05:47.536580",
+      "internal_id": "2306f0186a720fef40a2b659afbe966d922d3d6e37e603292cf8bb89879f226d",
+      "publishedAtLabel": "Oct 1"
+    },
+    {
+      "id": 14168,
+      "query": [
+        "zika"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Times Of India",
+      "title": "63-yr-old Dadar woman city\u2019s first Zika case; 130 in state in 3 years",
+      "description": "A 63-year-old woman from Dadar has become Mumbai's first confirmed case of Zika virus, part of a growing tally of 130 cases in Maharashtra over the past three years. Experts assure the public that the mortality rate is negligible, and most cases remain asympt\u2026",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/mumbai-reports-first-zika-case-63-year-old-dadar-woman-states-130th-case-since-outbreak/articleshow/113860840.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-113860838,width-1070,height-580,imgsize-107360,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-10-01 18:12:49",
+      "content": "Tamannaah Bhatia revives elegance with her exquisite saree collection",
+      "retrievedAt": "2024-10-02 19:05:48.355301",
+      "internal_id": "45ad7ab9ad2f64b21d564715441def55bd84c353673772c8deb485a745dda63c",
+      "publishedAtLabel": "Oct 1"
+    },
+    {
+      "id": 14167,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Phys.Org",
+      "author": "University of Nottingham",
+      "title": "Scientists take a major step in understanding how to stop the transmission of malaria",
+      "description": "A team of scientists at the University of Nottingham, have uncovered how the parasite that causes malaria orchestrates their cell division\u2014which is key in enabling the parasite to transmit this deadly disease.",
+      "url": "https://phys.org/news/2024-10-scientists-major-transmission-malaria.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/scientists-take-a-majo.jpg",
+      "publishedAt": "2024-10-01 15:03:46",
+      "content": "A team of scientists at the University of Nottingham, have uncovered how the parasite that causes malaria orchestrates their cell divisionwhich is key in enabling the parasite to transmit this deadly\u2026 [+3522 chars]",
+      "retrievedAt": "2024-10-02 19:05:48.129812",
+      "internal_id": "6865091a8347cfe2401d52f071712b42fd4afc3cb85503f15b1b8f6e5fae3c27",
+      "publishedAtLabel": "Oct 1"
+    },
+    {
+      "id": 14163,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Nationalgeographic.com.es",
+      "author": "Berta Erill Soto, Berta Erill Soto",
+      "title": "Un caso de gripe aviar en Misuri se complica y pone en alerta a EEUU",
+      "description": "Varios casos confirmados de gripe aviar H5N1 en el mismo entorno hospitalario dentro del estado de Misuri, en los Estados Unidos, han puesto en alerta a las autoridades sanitarias, que investigan si se habr\u00eda podido producir un contagio de humano a humano. Co\u2026",
+      "url": "https://www.nationalgeographic.com.es/ciencia/caso-gripe-aviar-misuri-se-complica-nuevos-casos-potenciales-origen-todavia-desconocido_23352",
+      "urlToImage": "https://content.nationalgeographic.com.es/medio/2024/10/01/gripe-aviar_5036735b_241001154314_1200x630.jpg",
+      "publishedAt": "2024-10-01 13:53:00",
+      "content": "Varios casos confirmados de gripe aviar H5N1 en el mismo entorno hospitalario dentro del estado de Misuri, en los Estados Unidos, han puesto en alerta a las autoridades sanitarias, que investigan si \u2026 [+3765 chars]",
+      "retrievedAt": "2024-10-02 19:05:47.306477",
+      "internal_id": "dc1afb6c2a40c85b9c4d18cb0c90221a4c99dba38a36c2aff088d93a07ed5884",
+      "publishedAtLabel": "Oct 1"
+    },
+    {
+      "id": 14161,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Citinewsroom.com",
+      "author": "Kabah Atawoge",
+      "title": "Ashanti Region: Ghana Health Service raises concern over rising cases of measles",
+      "description": "Health authorities in the Ashanti Region are alarmed by the rising cases of measles and rubella, which have seen an",
+      "url": "https://citinewsroom.com/2024/10/a-r-ghana-health-service-raises-concern-over-rising-cases-of-measles/",
+      "urlToImage": "https://citinewsroom.com/wp-content/uploads/2024/10/measles.jpg",
+      "publishedAt": "2024-10-01 11:04:06",
+      "content": "Health authorities in the Ashanti Region are alarmed by the rising cases of measles and rubella, which have seen an increase of over 100 percent in the past two years. Despite intensified efforts by\u2026 [+1403 chars]",
+      "retrievedAt": "2024-10-02 19:05:46.919809",
+      "internal_id": "5431b222c721c973397e44cacb0f2e5c5b7bfd1fcb5a782b2e52dd5549df9f13",
+      "publishedAtLabel": "Oct 1"
+    },
+    {
+      "id": 14162,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Hipertextual",
+      "author": "Azucena Mart\u00edn",
+      "title": "Alerta por un posible contagio de gripe aviar de humano a humano: \u00bfse acerca otra pandemia?",
+      "description": "La gripe aviar no es una novedad, ni much\u00edsimo menos. Sin embargo, en los \u00faltimos a\u00f1os, sobre todo en este 2024, ha comenzado a preocupar mucho m\u00e1s a los cient\u00edficos. Una variante altamente pat\u00f3gena del virus H5N1 ha dado un gran salto a mam\u00edferos, infectando\u2026",
+      "url": "http://hipertextual.com/2024/10/contagio-gripe-aviar-humanos",
+      "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2024/10/laura-ohlman-SO8FjbZRSW0-unsplash-scaled.jpg",
+      "publishedAt": "2024-10-01 09:03:22",
+      "content": "La gripe aviar no es una novedad, ni much\u00edsimo menos. Sin embargo, en los \u00faltimos a\u00f1os, sobre todo en este 2024, ha comenzado a preocupar mucho m\u00e1s a los cient\u00edficos. Una variante altamente pat\u00f3gena \u2026 [+3122 chars]",
+      "retrievedAt": "2024-10-02 19:05:47.295252",
+      "internal_id": "9c950e6d6fd1b5fc3b8b8fce8d4b99313e6cff56d602b337640aa0d1df2c13c3",
+      "publishedAtLabel": "Oct 1"
+    },
+    {
+      "id": 14164,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Berliner Morgenpost",
+      "author": "FUNKE Mediengruppe",
+      "title": "Neue Studie: Was gegen eine Vogelgrippe-Pandemie spricht",
+      "description": "Seit dem Fr\u00fchjahr breitet sich das Vogelgrippevirus H5N1 in den USA aus. Eine Studie zeigt, wie sich der Erreger verbreitet \u2013 und wie nicht.",
+      "url": "https://www.morgenpost.de/ratgeber-wissen/article407375402/neue-studie-was-gegen-eine-vogelgrippe-pandemie-spricht.html",
+      "urlToImage": "https://img.sparknews.funkemedien.de/407375397/407375397_1727770664_v16_9_1600.jpeg",
+      "publishedAt": "2024-10-01 08:17:44",
+      "content": "Berlin. Seit dem Fr\u00fchjahr breitet sich das Vogelgrippevirus H5N1 in den USA aus. Eine Studie zeigt, wie sich der Erreger verbreitet und wie nicht. Seit April bef\u00e4llt das Vogelgrippe-Virus H5N1 in de\u2026 [+4027 chars]",
+      "retrievedAt": "2024-10-02 19:05:47.335547",
+      "internal_id": "23680f1c54169a2f05d5573c2b5eb2f70292cf8146e8a6b9f2ba74f2f7a7873d",
+      "publishedAtLabel": "Oct 1"
+    },
     {
       "id": 14155,
       "query": [
@@ -33461,404 +33606,6 @@
       "content": "Cholesterol could be a weapon in the fight against malaria and other potentially deadly parasitic diseases, according to researchers who have created a new method for treatment. Malaria-causing par\u2026 [+2558 chars]",
       "retrievedAt": "2024-08-20 07:06:51.784635",
       "internal_id": "aedec63a6505f6680e11e514915437d0bc3b9bb274eded7135abe106870c7d83",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 12273,
-      "query": [
-        "zika"
-      ],
-      "source_id": "cbc-news",
-      "source_name": "CBC News",
-      "author": null,
-      "title": "Paris organizers aim to emulate success of London 2012 as 'normalcy' returns to Paralympics",
-      "description": "It's been more than a decade since the last Summer Paralympics went off without major controversy. You'd have to go back to London 2012 for the last time the Paralympics could proceed unbothered. And what a Paralympics it was, according to those who attended.\u2026",
-      "url": "https://www.cbc.ca/sports/paralympics/paris-paralympics-preview-aug-18-1.7292995",
-      "urlToImage": "https://i.cbc.ca/1.7264699.1721096647!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/paris-paralympics.jpg",
-      "publishedAt": "2024-08-18 18:12:01",
-      "content": "It's been more than a decade since the last Summer Paralympics went off without major controversy. In 2016, Zika Virus concerns were compounded when, two weeks before the Games, the International Pa\u2026 [+9041 chars]",
-      "retrievedAt": "2024-08-19 19:05:40.523817",
-      "internal_id": "fefe5bc5135811be12032327587e0cdf07f37566d4737d59ec235896cea978e0",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 12262,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "El Financiero",
-      "author": "Karina Cancino",
-      "title": "Sepultan en Nayarit a Aylin Milagros, la ni\u00f1a de 8 a\u00f1os cuyo cuerpo fue retenido por un hospital",
-      "description": "La ni\u00f1a estuvo 10 d\u00edas hospitalizada en el Hospital Puerta de Hierro en Tepic por un diagn\u00f3stico de dengue grave.",
-      "url": "https://www.elfinanciero.com.mx/estados/2024/08/18/sepultan-en-nayarit-a-aylin-milagros-la-nina-de-8-anos-cuyo-cuerpo-fue-retenido-por-un-hospital/",
-      "urlToImage": "https://www.elfinanciero.com.mx/resizer/UmaFFGKD3QU476hNumaxlnSjz40=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/4PIA4FPMARG3FIXJDEBUOROFMY.jpg",
-      "publishedAt": "2024-08-18 17:09:26",
-      "content": "Este s\u00e1bado 17 de agosto fue sepultada en Nayarit Aylin Milagros, una ni\u00f1a de 8 a\u00f1os que falleci\u00f3 por dengue el 15 de agosto pasado, cuyo cad\u00e1ver fue retenido por el hospital privado donde era atendi\u2026 [+2264 chars]",
-      "retrievedAt": "2024-08-19 19:05:39.252600",
-      "internal_id": "099d9572f43bc6ed28e5863ffc23f14f83780124cb4fd689ec1256bfaa03c671",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 12265,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "ansa",
-      "source_name": "ANSA.it",
-      "author": null,
-      "title": "Un caso di Dengue nel centro di Padova, scatta disinfestazione",
-      "description": "Un caso di Dengue, trasmessa dalla zanzara tigre, \u00e8 stato registrato a Padova in un residente in Piazza Mazzini, nel centro cittadino. (ANSA)",
-      "url": "https://www.ansa.it/veneto/notizie/2024/08/18/un-caso-di-dengue-nel-centro-di-padova-scatta-disinfestazione_7e1ba774-6b54-412c-bc70-95f4e7545380.html",
-      "urlToImage": "https://www.ansa.it/webimages/img_700/2024/4/10/041557102afbd1e56aa7c817a46827c7.jpg",
-      "publishedAt": "2024-08-18 16:30:27",
-      "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all\u2019abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad \u2026 [+320 chars]",
-      "retrievedAt": "2024-08-19 19:05:39.310040",
-      "internal_id": "ebf388d1d44fee7c1d7bce4def7b05574f4edb30486a24b48dbf7f95e582eb75",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 12260,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "The Star Online",
-      "title": "Experts: Spike in dengue cases due to weather",
-      "description": "PETALING JAYA: Malaysia reported a higher dengue caseload and deaths in the first eight months this year with the spike in cases attributed to the weather. Read full story",
-      "url": "https://www.thestar.com.my/news/nation/2024/08/19/experts-spike-in-dengue-cases-due-to-weather",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/08/19/2865559.jpg",
-      "publishedAt": "2024-08-18 16:00:00",
-      "content": "PETALING JAYA: Malaysia reported a higher dengue caseload and deaths in the first eight months this year with the spike in cases attributed to the weather. As of Aug 17, a total of 92,420 dengue cas\u2026 [+2539 chars]",
-      "retrievedAt": "2024-08-19 19:05:39.218905",
-      "internal_id": "ce437670f91a215b30a4f2770246302645badf46361fcae1999ad439664e0464",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 12300,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Ilfattoquotidiano.it",
-      "author": "F. Q.",
-      "title": "Mpox, l\u2019infettivologo Cauda (Gemelli): \u201cVaiolo delle scimmie? Non siamo alla vigilia del Covid, la trasmissione \u00e8 diversa e c\u2019\u00e8 un vaccino\u201d",
-      "description": "\u201cNon credo servir\u00e0 una vaccinazione di massa ma selettiva. Siamo alla vigilia del Covid? Direi di no, le rassicurazioni dell\u2019Oms consentono di dirlo. La trasmissione \u00e8 diversa, inoltre noi conosciamo il virus, c\u2019\u00e8 un vaccino. Ed una delle ragioni per cui l\u2019Om\u2026",
-      "url": "https://www.ilfattoquotidiano.it/2024/08/18/mpox-linfettivologo-cauda-gemelli-vaiolo-delle-scimmie-non-siamo-alla-vigilia-del-covid-la-trasmissione-e-diversa-e-ce-un-vaccino/7661627/",
-      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2024/08/18/cauda.jpg",
-      "publishedAt": "2024-08-18 15:49:53",
-      "content": "Roma, 18 ago. (Adnkronos) - Il 18 agosto del 1946 sulla spiaggia di Vergarolla, nei pressi di Pola, una strage voluta dai comunisti di Tito caus\u00f2 la morte di 110 italiani: molti corpi, anche di tanti\u2026 [+1181 chars]",
-      "retrievedAt": "2024-08-20 07:06:52.898642",
-      "internal_id": "f3dfb3961f78b084da20f54ffc4d89d74f5533176326bc62efa3061792b48649",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 12264,
-      "query": [
-        "dengue",
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "NDTV News",
-      "author": null,
-      "title": "5 Zika Virus Cases Detected In Bengaluru: Karnataka Health Minister",
-      "description": "Five cases of Zika virus were detected in Bengaluru, Karnataka Health Minister Dinesh Gundu Rao said on Sunday.",
-      "url": "https://www.ndtv.com/india-news/5-zika-virus-cases-detected-in-bengaluru-karnataka-health-minister-6365630",
-      "urlToImage": "https://c.ndtvimg.com/2018-12/1lmjpsgo_zika-virus_625x300_01_December_18.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-      "publishedAt": "2024-08-18 15:32:22",
-      "content": "The Minister said Zika too has simple symptoms and its treatment is similar to dengue (Representational) Bengaluru: Five cases of Zika virus were detected in Bengaluru, Karnataka Health Minister Din\u2026 [+540 chars]",
-      "retrievedAt": "2024-08-19 19:05:39.271447",
-      "internal_id": "d552e6e17bde7edf3031306969e93126c2c0981f746441dfb4bd661cda1f2d3b",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 12275,
-      "query": [
-        "mpox"
-      ],
-      "source_id": "liberation",
-      "source_name": "Lib\u00e9ration",
-      "author": "Nathalie Raulin",
-      "title": "Mpox : un risque d\u2019infection \u00abfaible\u00bb pour la France",
-      "description": "Plus agressif que le variant \u00e0 l\u2019origine de l\u2019\u00e9pid\u00e9mie de 2022, clade 1b a d\u00e9j\u00e0 fait des centaines de morts en Afrique. Mais le maillage sanitaire et les stocks de vaccins disponibles en Europe limitent les risques pour la population.",
-      "url": "https://www.liberation.fr/societe/sante/mpox-un-risque-dinfection-faible-pour-la-france-20240818_3OWZ7QYGAVDYHH56R42MHSOWAU/",
-      "urlToImage": "https://www.liberation.fr/resizer/8AtcbxqjwOQ28OMlHuku94DpDLM=/1200x630/filters:format(jpg):quality(70):focal(3231x1226:3241x1236)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/C2Q3Q4F6TBAQZE4ILLGVTRULVM.jpg",
-      "publishedAt": "2024-08-18 15:06:28",
-      "content": "Les Fran\u00e7ais sont-ils \u00e0 labri du clade 1b, variant du Mpox dont la rapide propagation met les instances sanitaires internationales sur le gril ? Les virus ne connaissant pas de fronti\u00e8res, laffirmer \u2026 [+4808 chars]",
-      "retrievedAt": "2024-08-19 19:05:41.429959",
-      "internal_id": "f3782497613b4ef61c9cc2a65611ffe78eca9a74fe6d214d263bd6c5ab85b5ec",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 12279,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "DIE WELT",
-      "author": "Nike Heinen",
-      "title": "\u201eEs gibt eigentlich zwei Ausbr\u00fcche\u201c",
-      "description": "Gegen Mpox gibt es in Europa nur einen Impfstoff. Florian Lienert ist leitender Pharmaforscher beim Hersteller Bavaria Nordic. Im Gespr\u00e4ch mit WELT kl\u00e4rt er auf, wie viele Dosen sie produzieren k\u00f6nnen und was passieren muss, wenn sich die Krankheit rasant aus\u2026",
-      "url": "https://www.welt.de/wissenschaft/plus253044222/Mpox-Es-gibt-eigentlich-zwei-Ausbrueche.html",
-      "urlToImage": "https://img.welt.de/img/wissenschaft/mobile253068774/8301359617-ci16x9-w1200-fnov-fpotl-fpi157750653/A-patient-has-his-temperature-taken.jpg",
-      "publishedAt": "2024-08-18 14:52:56",
-      "content": "Die WELT als ePaper: Die vollst\u00e4ndige Ausgabe steht Ihnen bereits am Vorabend zur Verf\u00fcgung so sind Sie immer hochaktuell informiert. Weitere Informationen: http://epaper.welt.de Der Kurz-Link die\u2026 [+49 chars]",
-      "retrievedAt": "2024-08-19 19:05:41.622334",
-      "internal_id": "194181a27db1d9ce1f0756197714a062edc6c27b770120e6c1eaadeb403932b0",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 12278,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Olhardigital.com.br",
-      "author": "Bob Furuya",
-      "title": "Quais foram as \u00faltimas emerg\u00eancias em sa\u00fade decretadas pela OMS?",
-      "description": "Na \u00faltima quarta-feira (14), a entidade emitiu um alerta relacionado \u00e0 doen\u00e7a mpox; veja outros casos registrados recentemente. O post Quais foram as \u00faltimas emerg\u00eancias em sa\u00fade decretadas pela OMS? apareceu primeiro em Olhar Digital.",
-      "url": "https://olhardigital.com.br/2024/08/18/medicina-e-saude/quais-foram-as-ultimas-emergencias-em-saude-decretadas-pela-oms/",
-      "urlToImage": "https://img.odcdn.com.br/wp-content/uploads/2024/08/shutterstock_2453168263-scaled.jpg",
-      "publishedAt": "2024-08-18 14:45:00",
-      "content": "A Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS) voltou a colocar, nesta semana, a mpox como uma emerg\u00eancia em sa\u00fade p\u00fablica de import\u00e2ncia internacional. A doen\u00e7a j\u00e1 havia figurado nesta lista entre os anos de \u2026 [+3775 chars]",
-      "retrievedAt": "2024-08-19 19:05:41.612643",
-      "internal_id": "b1d7672525d249d69b6ebd05131df5ea4c8742920cb4180d3628dbb2a1c6a810",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 12352,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Aftonbladet.se",
-      "author": "Martin Palmborg",
-      "title": "Gissl\u00e9n om trippelsmockan \u2013 kikhosta och covid \u00f6kar samtidigt som Sverige f\u00e5tt mpox-fall",
-      "description": "Antalet fall av kikhosta har skjutit i h\u00f6jden, samtidigt som covid \u00f6kar i landet. Och i bakgrunden lurar ett nytt hot, mpox-viruset. \u2013 Vi kommer b\u00f6rja h\u00f6stens v",
-      "url": "https://www.aftonbladet.se/nyheter/a/gwdG8a/kikhosta-och-covid-okar-kraftigt-i-sverige-nu-kommer-mpox",
-      "urlToImage": "https://images.aftonbladet-cdn.se/v2/images/25434c5f-10c9-47f3-875b-570c13a2fd78?fit=crop&format=auto&h=628&q=50&w=1200&s=9a3418f10527dc6b3405ce894350ee14fb3938d6",
-      "publishedAt": "2024-08-18 14:16:51",
-      "content": "Uppdaterad 16.24 | Publicerad 16.16 Antalet fall av kikhosta har skjutit i h\u00f6jden, samtidigt som covid \u00f6kar i landet. Och i bakgrunden lurar ett nytt hot, mpox-viruset. Vi kommer b\u00f6rja h\u00f6stens va\u2026 [+3644 chars]",
-      "retrievedAt": "2024-08-21 07:06:01.339794",
-      "internal_id": "9b7333988463f6baf929f57ca6a6a8d822ad72d342b7105e5ec4b45d86ba9b49",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 12277,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "taz.de",
-      "author": "Paula Irmschler",
-      "title": "AfD, Mpox und der Leipziger CSD: Finstere Zeiten",
-      "description": "Selbstbewusste Nazis, betrunkene Deutsche und ausgebeutete Asylbewerber: Es gibt aktuell nicht so viele Gr\u00fcnde, optimistisch zu sein.",
-      "url": "https://taz.de/AfD-Mpox-und-der-Leipziger-CSD/!6027911/",
-      "urlToImage": "https://taz.de/picture/7188559/948/0322-1.jpeg",
-      "publishedAt": "2024-08-18 14:13:00",
-      "content": "Selbstbewusste Nazis, betrunkene Deutsche und ausgebeutete Asylbewerber: Es gibt aktuell nicht so viele Gr\u00fcnde, optimistisch zu sein. Neonazis zeigen beim CSD in Leipzig das Symbol f\u00fcr White Power, \u2026 [+4623 chars]",
-      "retrievedAt": "2024-08-19 19:05:41.602845",
-      "internal_id": "e44d14795aebaebd3446417d29ce743ae1ab40609706fe3d4f251d29961bee5a",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 12274,
-      "query": [
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Statetimes.in",
-      "author": "statetimes_editor",
-      "title": "Five Zika virus cases detected in Bengaluru",
-      "description": "BENGALURU: Five cases of Zika virus were detected in Bengaluru, Karnataka Health Minister Dinesh Gundu Rao said on Sunday. According to him, from August 4 to 15, five cases of Zika virus have been detected in Jigani in Bengaluru. \u201cAfter the first case was det\u2026",
-      "url": "https://statetimes.in/five-zika-virus-cases-detected-in-bengaluru/",
-      "urlToImage": "https://statetimes.in/wp-content/uploads/2024/07/Zika-virus.jpg",
-      "publishedAt": "2024-08-18 14:08:58",
-      "content": "BENGALURU: Five cases of Zika virus were detected in Bengaluru, Karnataka Health Minister Dinesh Gundu Rao said on Sunday. According to him, from August 4 to 15, five cases of Zika virus have been d\u2026 [+317 chars]",
-      "retrievedAt": "2024-08-19 19:05:40.534183",
-      "internal_id": "3fe6bfa98f85415b1821e3a3354a9edd49ecbaccbce0c466505c3c35cecc5789",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 12270,
-      "query": [
-        "zika"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "PTI",
-      "title": "Five Zika virus cases detected in Bengaluru",
-      "description": "According to Karnataka Health Minister Dinesh Gundu Rao, after the first case was detected, tests were conducted in the surrounding areas and five cases of Zika infection were found. Accordingly, containment has been done. The Minister said Zika too has simp\u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/five-zika-virus-cases-detected-in-bengaluru/articleshow/112609156.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-112609164,width-1200,height-630,imgsize-2642623,overlay-economictimes/photo.jpg",
-      "publishedAt": "2024-08-18 13:22:23",
-      "content": "Bengaluru: Five cases of Zika virus were detected in Bengaluru, Karnataka Health Minister Dinesh Gundu Rao said on Sunday. According to him, from August 4 to 15, five cases of Zika virus have been de\u2026 [+372 chars]",
-      "retrievedAt": "2024-08-19 19:05:40.489310",
-      "internal_id": "4b8e85b1e27ba46c81d9b366e642b2b254bd967000644cd7efb5faf1a4f93da7",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 12271,
-      "query": [
-        "zika"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "PTI",
-      "title": "Five Zika virus cases detected in Bengaluru",
-      "description": "India News: BENGALURU: Five cases of Zika virus were detected in Bengaluru, Karnataka health minister Dinesh Gundu Rao said on Sunday.",
-      "url": "https://timesofindia.indiatimes.com/india/five-zika-virus-cases-detected-in-bengaluru/articleshow/112608623.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-112608668,width-1070,height-580,imgsize-816242,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-08-18 12:51:43",
-      "content": "8 happiness mantras for working professionals",
-      "retrievedAt": "2024-08-19 19:05:40.494799",
-      "internal_id": "6e9562fcbe7257416680a8d4fc7e6d52721f6373fecf56d7f5cd39ee0f5af595",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 12269,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "UN News",
-      "author": "dpicampaigns",
-      "title": "UN and partners report acute malnutrition surge in Government-controlled areas of Yemen",
-      "description": "Acute malnutrition is escalating among children in Government-controlled areas in Yemen, UN agencies and partners said in a report published on Sunday. Read Full Story on UN News The post UN and partners report acute malnutrition surge in Government-controlle\u2026",
-      "url": "https://news.un.org/en/story/2024/08/1153316",
-      "urlToImage": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/27-01-2022_UNICEF_Yemen-2.jpg/image770x420cropped.jpg",
-      "publishedAt": "2024-08-18 12:00:00",
-      "content": "The sharp increase is being driven by diseases, including cholera and malaria, high food insecurity, and limited access to safe drinking water and other essential services, according to the analysis \u2026 [+4034 chars]",
-      "retrievedAt": "2024-08-19 19:05:40.109143",
-      "internal_id": "9e53260e8fc5c59bacb5ab8dbd0980c5bdff0a092ecca95f2c74a3149bedf6e4",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 12267,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Ctvnews.ca",
-      "author": "Daniel Otis",
-      "title": "Meningitis B: Only 2 provinces cover vaccine for students",
-      "description": "Nova Scotia and Prince Edward Island are the only provinces that offer post-secondary students free vaccination against meningitis B, a rare but deadly bacterial infection.",
-      "url": "https://www.ctvnews.ca/health/provinces-urged-to-offer-students-free-vaccines-for-rare-but-deadly-meningitis-strain-1.7004139",
-      "urlToImage": "https://www.ctvnews.ca/polopoly_fs/1.7004156.1723849880!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg",
-      "publishedAt": "2024-08-18 11:00:04",
-      "content": "Nova Scotia and Prince Edward Island are the only provinces that offer post-secondary students free vaccination against meningitis B, a rare but deadly bacterial infection. With Canadian universitie\u2026 [+6403 chars]",
-      "retrievedAt": "2024-08-19 19:05:39.699133",
-      "internal_id": "fd75358447714da1821ffbace9976c484247efc653bbf8aa8dc3fbd8d1e809b1",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 12268,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "nrk",
-      "source_name": "NRK",
-      "author": "Vegard Tj\u00f8rhom",
-      "title": "To \u00e5r gamle Kia er blant dei f\u00f8rste i verda som f\u00e5r d\u00f8dsviktig vaksine",
-      "description": "Kvart \u00e5r tek malaria livet av tusenvis av afrikanske sm\u00e5barn. Men no blir ei historisk vaksine rulla ut. Kamerunske babyar er f\u00f8rst i k\u00f8en.",
-      "url": "https://www.nrk.no/urix/babyar-i-kamerun-forst-ut-med-vaksine-som-kan-redde-millionar-av-liv-1.16965469",
-      "urlToImage": "https://gfx.nrk.no/T2X4AlTM_xzDdyCdvVNPpAUZ7hVbXweZ3c-lkaRbZS1g.jpg",
-      "publishedAt": "2024-08-18 10:28:58",
-      "content": "Me har enorme utfordringar med malaria her. Det ligg s\u00e5 mykje s\u00f8ppel i gatene, og der likar myggen \u00e5 formeire seg, seier Aurline Fuebu. Ho sit med sin to \u00e5r gamle baby i fanget, og les seg opp p\u00e5 al\u2026 [+5426 chars]",
-      "retrievedAt": "2024-08-19 19:05:40.103375",
-      "internal_id": "3910a23f1406ed0c9ffb2d398edf9a5f049c8cbe410536d1066f52dc0db57926",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 12266,
-      "query": [
-        "dengue",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "BusinessLine",
-      "author": "Team Pulse",
-      "title": "World Mosquito Day",
-      "description": "The World Mosquito Day (August 20) raises awareness on mosquito-borne diseases.",
-      "url": "https://www.thehindubusinessline.com/specials/pulse/world-mosquito-day/article68539346.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/h0j3gf/article68539381.ece/alternates/LANDSCAPE_1200/2024-07-25T004356Z_362697650_RC2H09A5EM6M_RTRMADP_3_GUATEMALA-DENGUE.JPG",
-      "publishedAt": "2024-08-18 10:07:15",
-      "content": "The World Mosquito Day (August 20) raises awareness on mosquito-borne diseases. Mosquitoes, one of the worlds deadliest creatures, transmit diseases, including chikungunya, dengue, lymphatic filarias\u2026 [+191 chars]",
-      "retrievedAt": "2024-08-19 19:05:39.332490",
-      "internal_id": "a3e98f7667c78f0ce0f24621609dfd38092ab7c0c26963d1e527bb5c3060eb2d",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 12272,
-      "query": [
-        "zika"
-      ],
-      "source_id": "fox-news",
-      "source_name": "Fox News",
-      "author": "Fox News Staff",
-      "title": "Gender surgeries, migraine tips, 'Zika-like' virus and more top health stories",
-      "description": "This week's health roundup includes stories about controversial \"gender-affirming\" surgeries on kids, a little-known type of diabetes, a \"Zika-like\" virus that's spreading iand more.",
-      "url": "https://www.foxnews.com/health/gender-surgeries-migraine-tips-zika-like-virus-top-health-stories",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/08/health-weekend-recap-8-18.jpg",
-      "publishedAt": "2024-08-18 10:00:19",
-      "content": "Join Fox News for access to this content Plus special access to select articles and other premium content with your account - free of charge. By entering your email and pushing continue, you are ag\u2026 [+2648 chars]",
-      "retrievedAt": "2024-08-19 19:05:40.518575",
-      "internal_id": "7d99b9be6d97afe24b47d909005f3c6261f3927438096e52e9956a6440cb35ab",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 12276,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "DIE WELT",
-      "author": null,
-      "title": "\u201eSicherlich wird dieser neue Stamm auch nach Deutschland kommen\u201c",
-      "description": "Das Mpox-Virus breitet sich in Afrika weiter aus. Am Donnerstag meldete Schweden als erstes Land Europas einen Infektionsfall mit der Virusvariante 1b. Virologe Prof. Klaus St\u00f6hr sagt, man vermute, dass die \u201eUntervariante st\u00e4rkere Krankheitsverl\u00e4ufe verursach\u2026",
-      "url": "https://www.welt.de/wissenschaft/video253065172/Neue-Affenpocken-Variante-Sicherlich-wird-dieser-neue-Stamm-auch-nach-Deutschland-kommen.html",
-      "urlToImage": "https://img.welt.de/img/videos/mobile243116717/4861357157-ci16x9-w1200/290379608-Kopie-jpg.jpg",
-      "publishedAt": "2024-08-18 09:55:24",
-      "content": "Die WELT als ePaper: Die vollst\u00e4ndige Ausgabe steht Ihnen bereits am Vorabend zur Verf\u00fcgung so sind Sie immer hochaktuell informiert. Weitere Informationen: http://epaper.welt.de Der Kurz-Link die\u2026 [+49 chars]",
-      "retrievedAt": "2024-08-19 19:05:41.529115",
-      "internal_id": "2e15bfd88b5d0548aad7d6108b7457ca76a2917c30afae009ccc4c77c587f1b7",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 12261,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "PTI",
-      "title": "Union minister Jual Oram's wife Jhingia Oram dies of dengue",
-      "description": "Jual Oram's wife, Jhingia Oram, passed away from dengue during treatment at a Bhubaneswar hospital. She was 58 and is survived by her husband and two daughters. Odisha Chief Minister Mohan Charan Majhi and other officials paid their respects. Her funeral will\u2026",
-      "url": "https://timesofindia.indiatimes.com/india/union-minister-jual-orams-wife-jhingia-oram-dies-of-dengue/articleshow/112604468.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-112604494,width-1070,height-580,imgsize-29244,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-08-18 08:10:37",
-      "content": "8 happiness mantras for working professionals",
-      "retrievedAt": "2024-08-19 19:05:39.247042",
-      "internal_id": "f7ffe367594833ba458cf4e7aed9a02f7fd3a6c0ba72826ea7a50432a3c933cd",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 12263,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "PTI",
-      "title": "Union minister Jual Oram's wife Jhingia Oram dies of dengue",
-      "description": "Jhingia Oram, wife of Union Minister Jual Oram, succumbed to dengue at a private hospital in Bhubaneswar She leaves behind her husband and two daughters. Odisha Chief Minister Majhi and several other leaders visited the hospital to express their condolences. \u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/union-minister-jual-orams-wife-jhingia-oram-dies-of-dengue/articleshow/112604176.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-112604207,width-1200,height-630,imgsize-15446,overlay-economictimes/photo.jpg",
-      "publishedAt": "2024-08-18 07:44:44",
-      "content": "Union Minister Jual Oram's wife Jhingia Oram died of dengue during treatment at a private hospital here, family sources said on Sunday. Jhingia Oram (58) is survived by her husband and two daughters.\u2026 [+910 chars]",
-      "retrievedAt": "2024-08-19 19:05:39.258056",
-      "internal_id": "0811adf2d40c2dde21400c6a1a8d0e5680d9f4907a6f3579c3e14ece8010314c",
       "publishedAtLabel": "Aug 18"
     }
   ]
