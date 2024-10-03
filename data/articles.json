@@ -1,8 +1,656 @@
 {
-  "last_updated": "2024-10-03 07:06",
-  "count_articles_total": 1893,
-  "count_articles_new": 9,
+  "last_updated": "2024-10-03 19:05",
+  "count_articles_total": 1907,
+  "count_articles_new": 36,
   "articles": [
+    {
+      "id": 14186,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Anlatilaninotesi.com.tr",
+      "author": "Sputnik T\u00fcrkiye",
+      "title": "Sebep ku\u015f gribi: 47 kaplan, 3 aslan ve 1 panter \u00f6ld\u00fc",
+      "description": "Vietnam'\u0131n g\u00fcneyinde bulunan iki hayvanat bah\u00e7esinde ku\u015f gribi olarak da bilinen H5N1 vir\u00fcs\u00fc sebebiyle 2 ayda 47 kaplan, 3 aslan ve 1 panterin \u00f6ld\u00fc\u011f\u00fc a\u00e7\u0131kland\u0131.",
+      "url": "https://anlatilaninotesi.com.tr/20241002/sebep-kus-gribi-47-kaplan-3-aslan-ve-1-panter-oldu-1088737479.html",
+      "urlToImage": "https://cdn.img.anlatilaninotesi.com.tr/images/sharing/article/tur/1088737479.jpg?10592841021727895611",
+      "publishedAt": "2024-10-02 19:00:09",
+      "content": "T\u00fcrkiye ve d\u00fcnyadan ilgi \u00e7ekici yaam haberleri, toplumsal olaylar, g\u00fcncel aratrmalar, fotoraf ve video galerileri. https://anlatilaninotesi.com.tr/20241002/sebep-kus-gribi-47-kaplan-3-aslan-ve-1-pan\u2026 [+2006 chars]",
+      "retrievedAt": "2024-10-03 19:05:50.539327",
+      "internal_id": "4245323822a2b6df0376aa04d28c0399759469d4d9cf5173e36e388ef7211bb8",
+      "publishedAtLabel": "Oct 2"
+    },
+    {
+      "id": 14202,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "New Zealand Herald",
+      "author": null,
+      "title": "M\u0101ori infants still at greatest risk of meningitis - new ESR data",
+      "description": "Meningitis Foundation chair knows the personal pain this deadly disease can inflict.",
+      "url": "https://www.nzherald.co.nz/kahu/maori-infants-still-at-greatest-risk-of-meningitis-new-esr-data/OLAWMRPM2ZEQJM55NTYTPDTQTA/",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/TSBA3UH24VEJRJOC4RWF5YIA7Y.png?auth=a8699a4f11d6cb63aa5773979dc6daee317f6ff7caa0d2686b93d4caeb488c16&width=1200&height=675&quality=70&smart=true",
+      "publishedAt": "2024-10-02 18:59:34",
+      "content": "Meningococcal disease is an uncommon but life-threatening bacterial infection causing two serious illnesses: meningitis (an inflammation of the membranes around the brain) and septicaemia (blood infe\u2026 [+2842 chars]",
+      "retrievedAt": "2024-10-03 19:05:51.412734",
+      "internal_id": "bb9070858da33e6328be4f2557e95d4bbf54700865477450503d5b5fe88e7502",
+      "publishedAtLabel": "Oct 2"
+    },
+    {
+      "id": 14180,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Haber7.com",
+      "author": "Erhan Ceylan",
+      "title": "Vietnam'da ku\u015f gribi nedeniyle 47 kaplan \u00f6ld\u00fc",
+      "description": "Vietnam'\u0131n g\u00fcneyindeki iki b\u00fcy\u00fck hayvanat bah\u00e7esinde ku\u015f gribi (H5N1 vir\u00fcs\u00fc) nedeniyle a\u011fustos ve eyl\u00fcl aylar\u0131nda 47 kaplan\u0131n \u00f6ld\u00fc\u011f\u00fc bildirildi. \u00d6len hayvanlar\u0131n kan \u00f6rneklerinde H5N1 vir\u00fcs\u00fcne rastland\u0131\u011f\u0131 kaydedildi.",
+      "url": "https://www.haber7.com/dunya/haber/3465532-vietnamda-kus-gribi-nedeniyle-47-kaplan-oldu",
+      "urlToImage": "https://i12.haber7.net//haber/haber7/og_image/2024/40/vietnamda_kus_gribi_nedeniyle_47_kaplan_oldu_1727892574_1765.jpg",
+      "publishedAt": "2024-10-02 18:14:00",
+      "content": "Vietnam News'\u00fcn haberine g\u00f6re, son iki ayda \u00fclkenin g\u00fcneyindeki iki hayvanat bah\u00e7esinde g\u00f6r\u00fclen ku gribi, 47 kaplann yan sra 3 aslan ve 1 panterin \u00f6l\u00fcm\u00fcne yol a\u00e7t. Orman Koruma Birimi y\u00f6neticisi Lai\u2026 [+689 chars]",
+      "retrievedAt": "2024-10-03 19:05:50.465213",
+      "internal_id": "b9cecc9073d1293287987d1f7cf9ff784e903528df92310d77d076380b826b65",
+      "publishedAtLabel": "Oct 2"
+    },
+    {
+      "id": 14213,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Breaking NEWS in KENYA for Today Right Now & Kenyan News | TUKO",
+      "author": "Hillary Lisimba",
+      "title": "Kenyans Worried as Ministry of Health Confirms 9th Case of Mpox in Nakuru",
+      "description": "Kenyans have expressed concern after the ninth case of Mpox was confirmed in Nakuru County. The victim ia a 37-year-old male truck driver who returned from Uganda.",
+      "url": "https://www.tuko.co.ke/people/564246-kenyans-worried-moh-confirms-9th-case-mpox-nakuru/",
+      "urlToImage": "https://cdn.tuko.co.ke/images/1200x675/809395fe0d1c021f.jpeg?v=1",
+      "publishedAt": "2024-10-02 18:08:48",
+      "content": "Kenya's ninth case of Mpox has been confirmed in Nakuru CountyThe victim is a 37-year-old male truck driver who recently travelled to Rwanda and UgandaAs the numbers continu\u2026 [+3089 chars]",
+      "retrievedAt": "2024-10-03 19:05:52.795690",
+      "internal_id": "1cb33c0c49d07403b24251dc39f327c2f7cac6487891ffa72f0e22816693cd7e",
+      "publishedAtLabel": "Oct 2"
+    },
+    {
+      "id": 14184,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Milenio",
+      "author": "Agencia EFE",
+      "title": "Sacrifican 25 mil patos por brote de gripe aviar en Hungr\u00eda",
+      "description": "Las autoridades veterinarias de Hungr\u00eda informaron este mi\u00e9rcoles que sacrificar\u00e1n 25 mil patos en la provincia de B\u00e9k\u00e9s, al este del pa\u00eds, al haber detectado en una granja la presencia de la cepa H5N1 de la gripe aviar, altamente pat\u00f3gena.Seg\u00fan el informe de\u2026",
+      "url": "https://www.milenio.com/internacional/hungria-sacrifican-25-mil-patos-brote-gripe-aviar",
+      "urlToImage": "https://cdn.milenio.com/uploads/media/2024/10/02/patos-sacrificados-hungria-brote-gripe.jpg",
+      "publishedAt": "2024-10-02 18:02:08",
+      "content": "Las autoridades veterinarias de Hungr\u00eda informaron este mi\u00e9rcoles que sacrificar\u00e1n 25 mil patos en la provincia de B\u00e9k\u00e9s, al este del pa\u00eds, al haber detectado en una granja la presencia de la cepa H5\u2026 [+702 chars]",
+      "retrievedAt": "2024-10-03 19:05:50.518880",
+      "internal_id": "d1aad80e5cccfb31f8b67bd3c04249ede5adb3d7459a0414a7bc20b89118f096",
+      "publishedAtLabel": "Oct 2"
+    },
+    {
+      "id": 14200,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "the-irish-times",
+      "source_name": "The Irish Times",
+      "author": "Shauna Bowers",
+      "title": "How did the High Court case between UHL surgeon and HSE come about?",
+      "description": "Prof Brian Lenehan is challenging his suspension following report on the death of Aoife Johnston in December 2022",
+      "url": "https://www.irishtimes.com/health/2024/10/02/how-did-the-high-court-case-between-uhl-surgeon-and-hse-come-about/",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/ADMT7CKC6ZDX3JQZLM65NJJGHY.jfif?smart=true&auth=faa32f191f373263c2f12b94e6030a5e861f810a4f2af5fda1a435271454d69e&width=1200&height=630",
+      "publishedAt": "2024-10-02 18:00:00",
+      "content": "On December 19th, 2022, 16-year-old Aoife Johnston died of meningitis in University Hospital Limerick (UHL), after she was left for more than 13 hours without antibiotics. A number of reports were c\u2026 [+5291 chars]",
+      "retrievedAt": "2024-10-03 19:05:51.398695",
+      "internal_id": "9bfec11ffbeb3e9330849a8a9728f8fb52ff622662184ad0c2c03077de3f0150",
+      "publishedAtLabel": "Oct 2"
+    },
+    {
+      "id": 14203,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "new-scientist",
+      "source_name": "New Scientist",
+      "author": "Bethan Ackerley",
+      "title": "Bill Gates's Netflix series offers some dubious ideas about the future",
+      "description": "In What's Next? Bill Gates digs into AI, climate, inequality, malaria and more. But the man looms too large for alternative solutions to emerge, says Bethan Ackerley",
+      "url": "https://www.newscientist.com/article/mg26435110-500-bill-gatess-netflix-series-offers-some-dubious-ideas-about-the-future/",
+      "urlToImage": "https://images.newscientist.com/wp-content/uploads/2024/10/01104341/SEI_222991316.jpg",
+      "publishedAt": "2024-10-02 18:00:00",
+      "content": "Bill Gates thinks the ultra-rich should give away their wealth, as he does Rob Liggins/Netflix What\u2019s Next? The future with Bill GatesNetflix When you want to imagine the future, who do you turn t\u2026 [+439 chars]",
+      "retrievedAt": "2024-10-03 19:05:51.843754",
+      "internal_id": "99e54f6ebaca29b480eb8f3dcbd522bf948374ceb13d1f256a60c32403aa2f6b",
+      "publishedAtLabel": "Oct 2"
+    },
+    {
+      "id": 14212,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Bedah Mengo, Lin Jing",
+      "title": "Kenya's mpox cases rise to 9 amid heightened disease prevention efforts",
+      "description": "NAIROBI, Oct. 2 (Xinhua) -- Kenya's Ministry of Health on Wednesday confirmed one more mpox case, raising the total count in the country to nine as the government strengthened public health response to the disease. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2024/10/03/kenya039s-mpox-cases-rise-to-9-amid-heightened-disease-prevention-efforts",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2024-10-02 17:41:00",
+      "content": "NAIROBI, Oct. 2 (Xinhua) -- Kenya's Ministry of Health on Wednesday confirmed one more mpox case, raising the total count in the country to nine as the government strengthened public health response \u2026 [+1517 chars]",
+      "retrievedAt": "2024-10-03 19:05:52.785166",
+      "internal_id": "9360f8b188d1ea98b0afaa68f0f287bfac378e97d014d3bbdf406e72c48f8365",
+      "publishedAtLabel": "Oct 2"
+    },
+    {
+      "id": 14192,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Reuters",
+      "title": "Cidade italiana enfrenta dezenas de casos de dengue desde meados de agosto",
+      "description": "Cientistas italianos est\u00e3o alertando sobre um aumento nos casos de dengue na regi\u00e3o central de ...",
+      "url": "https://www.terra.com.br/noticias/mundo/cidade-italiana-enfrenta-dezenas-de-casos-de-dengue-desde-meados-de-agosto,4e83d1aa509669fd252ce286e756d1dfz1yepfbr.html",
+      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2024-10-02 17:35:02",
+      "content": "Cientistas italianos est\u00e3o alertando sobre um aumento nos casos de dengue na regi\u00e3o central de Marche, no pa\u00eds, j\u00e1 que as altas temperaturas favoreceram a dissemina\u00e7\u00e3o do v\u00edrus. A doen\u00e7a, transmiti\u2026 [+1486 chars]",
+      "retrievedAt": "2024-10-03 19:05:51.000108",
+      "internal_id": "ee6c23c284bbbb41b5d3b4a8ba7cdd802b3fb4f7926aa89b131795da79e81dee",
+      "publishedAtLabel": "Oct 2"
+    },
+    {
+      "id": 14178,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "News12.com",
+      "author": "Toniann Antonelli",
+      "title": "Health officials: 2 pet dogs fight off rabid raccoon in East Brunswick",
+      "description": "The raccoon is the fifth animal to test positive for rabies in Middlesex County this year.",
+      "url": "https://newjersey.news12.com/health-officials-2-pet-dogs-fight-off-rabid-raccoon-in-east-brunswick",
+      "urlToImage": "https://images-cf.news12static.com/3kqcuzntcg31/6rNUQwBmkrz2G3ghnxE1fE/8319ec8c3e2abbf79eb467e0e7a3546c/Rabidraccoon.png?fit=thumb&w=600&h=340&q=80&fm=webp",
+      "publishedAt": "2024-10-02 17:33:47",
+      "content": "Topics you care about, straight to your inbox",
+      "retrievedAt": "2024-10-03 19:05:49.778736",
+      "internal_id": "36c2634db191888110319d0513c120cb6a4edd3824774143e75ea4bbfd438377",
+      "publishedAtLabel": "Oct 2"
+    },
+    {
+      "id": 14182,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Meneame.net",
+      "author": "Meneador_Compulsivo",
+      "title": "La gripe aviar mata a 47 tigres, 3 leones y una pantera en zool\u00f3gicos de Vietnam",
+      "description": "Cuarenta y siete tigres, tres leones y una pantera han muerto en zool\u00f3gicos del sur de Vietnam debido al virus de la gripe aviar H5N1. Las muertes ocurrieron en agosto y septiembre en el parque safari privado My Quynh en la provincia de Lengthy An y en el zoo\u2026",
+      "url": "https://www.meneame.net/m/actualidad/gripe-aviar-mata-47-tigres-3-leones-pantera-zoologicos-vietnam",
+      "urlToImage": "https://meneame.net/img/logo_meneame.png",
+      "publishedAt": "2024-10-02 17:08:22",
+      "content": "#3 hombre, ya ha pasado de aves a mam\u00edferos y en EEUU ya hay alg\u00fan caso de transmisi\u00f3n entre humanos sin p\u00e1jaros de por medio... Pero tranqui que la viruela del mono tambi\u00e9n anda por ah\u00ed echando curr\u2026 [+7 chars]",
+      "retrievedAt": "2024-10-03 19:05:50.503769",
+      "internal_id": "fb063ae3a396f903527494b3e833f8a7991e5a7b6b57d5c096db3593c311410c",
+      "publishedAtLabel": "Oct 2"
+    },
+    {
+      "id": 14205,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Observador.pt",
+      "author": "Ag\u00eancia Lusa",
+      "title": "Portugal est\u00e1 preparado para os v\u00edrus VSR e mpox, garante o presidente do Instituto Nacional de Sa\u00fade Doutor Ricardo Jorge",
+      "description": "INSA n\u00e3o avan\u00e7ou se vai acompanhar orienta\u00e7\u00f5es da OMS que sugerem vacina\u00e7\u00e3o de gr\u00e1vidas para proteger rec\u00e9m-nascidos contra o v\u00edrus sincicial respirat\u00f3rio.",
+      "url": "https://observador.pt/2024/10/02/portugal-esta-preparado-para-os-virus-vsr-e-mpox-garante-o-presidente-do-instituto-nacional-de-saude-doutor-ricardo-jorge/",
+      "urlToImage": "https://wm.observador.pt/wm/obs/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A1440%3A809%3Anowe%3A0%3A75%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2023%2F07%2F17183621%2Fvacinas-obs.jpeg",
+      "publishedAt": "2024-10-02 16:56:16",
+      "content": "O presidente do Instituto Nacional de Sa\u00fade Doutor Ricardo Jorge (INSA) garantiu esta quarta-feira que do \u201cponto de vista t\u00e9cnico e laboratorial\u201d Portugal est\u00e1 preparado para os v\u00edrus sincicial respi\u2026 [+3451 chars]",
+      "retrievedAt": "2024-10-03 19:05:52.686505",
+      "internal_id": "fbf8434d1907086a1f4c7ebc8ec16359a91b118f637e91f6b7aff8bc658be4d0",
+      "publishedAtLabel": "Oct 2"
+    },
+    {
+      "id": 14196,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Www.is.fi",
+      "author": "Elli Suutari",
+      "title": "Nopeasti levi\u00e4v\u00e4 virus jyll\u00e4\u00e4 Italiassa",
+      "description": "Virologian professorin mukaan tilanne on riist\u00e4ytynyt k\u00e4sist\u00e4.",
+      "url": "https://www.is.fi/ulkomaat/art-2000010737481.html",
+      "urlToImage": "https://images.sanoma-sndp.fi/6a722daef721b0b0d256c8182bacb3f4.jpg/some/is-default.jpg",
+      "publishedAt": "2024-10-02 16:54:00",
+      "content": "Virologian professorin mukaan tilanne on riist\u00e4ytynyt k\u00e4sist\u00e4.Italiassa kamppaillaan nopeasti levi\u00e4v\u00e4n denguekuumeen kanssa. Maan keskiosissa Adrianmeren rannalla sijaitsevalla Marchen alueella l\u00e4mpi\u2026 [+1769 chars]",
+      "retrievedAt": "2024-10-03 19:05:51.039192",
+      "internal_id": "a640d7f0e237658994262d0d00db699c74797f93bc3e6ab4f7577319aa0b16b3",
+      "publishedAtLabel": "Oct 2"
+    },
+    {
+      "id": 14190,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Tvn24.pl",
+      "author": "as",
+      "title": "Pad\u0142o prawie 50 tygrys\u00f3w. Przyczyn\u0105 by\u0142a ptasia grypa",
+      "description": "Ptasia grypa spowodowa\u0142a \u015bmier\u0107 47 tygrys\u00f3w w wietnamskich ogrodach zoologicznych. Jak poda\u0142y lokalne media, to nie jedyne drapie\u017cniki, kt\u00f3re zmar\u0142y na skutek zara\u017cenia wirusem H5N1. Wed\u0142ug danych WHO przypadki ptasiej grypy u ssak\u00f3w s\u0105 coraz cz\u0119stsze.",
+      "url": "https://tvn24.pl/tvnmeteo/swiat/padlo-prawie-50-tygrysow-przyczyna-byla-ptasia-grypa-st8117716",
+      "urlToImage": "https://tvn24.pl/najnowsze/cdn-zdjecie-o51yxv-tygrys-bengalski-6863287/alternates/LANDSCAPE_1280",
+      "publishedAt": "2024-10-02 16:47:25",
+      "content": "Ptasia grypa spowodowaa mier 47 tygrys\u00f3w w wietnamskich ogrodach zoologicznych. Jak poday lokalne media, to nie jedyne drapieniki, kt\u00f3re zmary na skutek zaraenia wirusem H5N1. Wedug danych WHO przypa\u2026 [+1077 chars]",
+      "retrievedAt": "2024-10-03 19:05:50.567373",
+      "internal_id": "f0f28537873e02e1f81371b0cf13bc43f14941f53b1e2e374e81ac87355dfbe3",
+      "publishedAtLabel": "Oct 2"
+    },
+    {
+      "id": 14193,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Everyeye.it",
+      "author": "Giuseppe Occhiuto",
+      "title": "La pericolosa febbre Dengue arriva in Italia: 103 casi gi\u00e0 accertati, ecco i sintomi",
+      "description": "Si tratta di un pericolo assolutamente da non sottovalutare. La febbre Dengue \u00e8 in Italia e sembra non fermarsiDa quasi un mese ormai, a Fano, nelle Marche, vi \u00e8 un terribile focolaio di febbre Dengue che pare essere completamente fuori controllo. I casi acce\u2026",
+      "url": "https://tech.everyeye.it/notizie/pericolosa-febbre-dengue-arriva-italia-103-casi-accertati-sintomi-746176.html",
+      "urlToImage": "https://images.everyeye.it/img-notizie/la-pericolosa-febbre-dengue-arriva-italia-103-casi-accertati-sintomi-v5-746176.jpg",
+      "publishedAt": "2024-10-02 15:56:00",
+      "content": "Da quasi un mese ormai, a Fano, nelle Marche, vi \u00e8 un terribile focolaio di febbre Dengue che pare essere completamente fuori controllo. I casi accertati sono 103, ma il numero continua a crescere. A\u2026 [+3384 chars]",
+      "retrievedAt": "2024-10-03 19:05:51.020910",
+      "internal_id": "e60e13751e08c562dcf5eb86765c9b58e052b06e489ad296fd454296f815c2bc",
+      "publishedAtLabel": "Oct 2"
+    },
+    {
+      "id": 14189,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "YLE News",
+      "author": null,
+      "title": "Unkarissa ja Italiassa havaittu lintuinfluenssaa",
+      "description": "Uutiset nopeasti ja luotettavasti.",
+      "url": "https://yle.fi/a/74-20115496",
+      "urlToImage": "https://images.cdn.yle.fi/image/upload/w_1200,ar_1.91,c_fill,g_faces/q_auto:eco,f_auto,fl_lossy/39-12692236617e49e05397",
+      "publishedAt": "2024-10-02 15:54:22",
+      "content": "Unkarissa ja Italiassa maatiloilla on havaittu H5N1-tyypin lintuinfluenssatapauksia, kansainv\u00e4linen el\u00e4inten tartuntatautien toimisto WOAH kertoo. Kyseess\u00e4 ovat ensimm\u00e4iset maissa havaitut tapaukset\u2026 [+211 chars]",
+      "retrievedAt": "2024-10-03 19:05:50.560271",
+      "internal_id": "a5ce48e3556802aa3945d4f17889dd5b437863ffc7182403867d44a22a75d0d7",
+      "publishedAtLabel": "Oct 2"
+    },
+    {
+      "id": 14209,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Milenio",
+      "author": "Blanca Valadez",
+      "title": "M\u00e9xico acumula 4 mil 153 casos de Mpox y 34 decesos",
+      "description": "En M\u00e9xico han confirmado 4 mil 153 casos y 34 defunciones por Mpox o viruela s\u00edmica, lo que lo ubica entre los 10 pa\u00edses a nivel mundial m\u00e1s afectados, de acuerdo con un informe de la Direcci\u00f3n General de Epidemiolog\u00eda (DGE).\u201cLos 10 pa\u00edses m\u00e1s afectados a niv\u2026",
+      "url": "https://www.milenio.com/ciencia-y-salud/en-mexico-van-mas-de-4-mil-casos-de-mpox-y-34-defunciones",
+      "urlToImage": "https://cdn.milenio.com/uploads/media/2024/08/15/republica-democratica-congo-principal-foco.jpg",
+      "publishedAt": "2024-10-02 15:51:00",
+      "content": "En M\u00e9xico han confirmado 4 mil 153 casos y 34 defunciones por Mpox oviruela s\u00edmica, lo que lo ubica entre los 10 pa\u00edses a nivel mundial m\u00e1s afectados, de acuerdo con un informe de la Direcci\u00f3n Genera\u2026 [+2696 chars]",
+      "retrievedAt": "2024-10-03 19:05:52.733305",
+      "internal_id": "a8b7cd9b45747d59414d92d725464227002b81ec167f69bf0024c78011c09de9",
+      "publishedAtLabel": "Oct 2"
+    },
+    {
+      "id": 14204,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Adevarul.ro",
+      "author": "Laura Macavei",
+      "title": "OMS avertizeaz\u0103: Variola maimu\u021bei se r\u0103sp\u00e2nde\u0219te accelerat",
+      "description": "Num\u0103rul cazurilor de \u00eemboln\u0103vire cu virusul care provoac\u0103 variola maimu\u021bei cre\u0219te de la o zi la alta, a avertizat Organiza\u0163ia Mondial\u0103 a S\u0103n\u0103t\u0103\u0163ii (OMS).",
+      "url": "https://adevarul.ro/stiri-interne/sanatate/oms-avertizeaza-variola-maimutei-se-raspandeste-2392037.html",
+      "urlToImage": "https://cdn.adh.reperio.news/image-1/1f5b1fe4-061d-4eda-84a8-c0dfed3bfaa8/index.jpeg?p=f%3Djpeg%26w%3D1200%26h%3D630%26r%3Dcover",
+      "publishedAt": "2024-10-02 15:32:10",
+      "content": "Numrul cazurilor de \u00eembolnvire cu virusul care provoac variola maimuei crete de la o zi la alta, a avertizat Organizaia Mondial a Sntii (OMS). \u00cen cel mai recent raport al su privind situaia mpox, OM\u2026 [+1553 chars]",
+      "retrievedAt": "2024-10-03 19:05:52.675546",
+      "internal_id": "2b70581ac546b22114946b22ae017e35c24b387dea55aaa2f6cdb5942414f01a",
+      "publishedAtLabel": "Oct 2"
+    },
+    {
+      "id": 14195,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Sindaco di Fano, situazione della dengue sotto controllo (2)",
+      "description": "Serfilippi ha ribadito l'efficacia delle misure adottate e sottolineato che la strategia messa in campo ha dimostrato di essere efficace. Negli ultimi 7 giorni i nuovi casi si sono quasi azzerati. (ANSA)",
+      "url": "https://www.ansa.it/marche/notizie/2024/10/02/sindaco-di-fano-situazione-della-dengue-sotto-controllo-2_7e125dda-2571-4445-bfcf-1d3d1c36dd08.html",
+      "urlToImage": "https://www.ansa.it",
+      "publishedAt": "2024-10-02 15:30:59",
+      "content": "Serfilippi ha ribadito l'efficacia delle misure adottate e sottolineato che la strategia messa in campo ha dimostrato di essere efficace. Negli ultimi 7 giorni i nuovi casi si sono quasi azzerati.\u2026 [+1275 chars]",
+      "retrievedAt": "2024-10-03 19:05:51.033363",
+      "internal_id": "df184d9db79e7224863ce46289bf61cf0e1e1272dd05bf884cf5bfe42332adcc",
+      "publishedAtLabel": "Oct 2"
+    },
+    {
+      "id": 14194,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Casi Dengue, le misure adottate dal comune di Fano",
+      "description": "\"La situazione relativa alla dengue a Fano \u00e8 sotto controllo. Le azioni messe in campo stanno generando risultati positivi. La curva dei casi \u00e8 in decrescita\". (ANSA)",
+      "url": "https://www.ansa.it/marche/notizie/2024/10/02/casi-dengue-le-misure-adottate-dal-comune-di-fano_2b6119bb-26a3-492b-b016-a7e90aa163bc.html",
+      "urlToImage": "https://www.ansa.it",
+      "publishedAt": "2024-10-02 15:29:49",
+      "content": "\"La situazione relativa alla dengue a Fano \u00e8 sotto controllo. Le azioni messe in campo stanno generando risultati positivi. La curva dei casi \u00e8 in decrescita\". Il sindaco di Fano Luca Serfilippi, \u2026 [+2260 chars]",
+      "retrievedAt": "2024-10-03 19:05:51.027343",
+      "internal_id": "164493587199528aefe6a769cbf1a68637ceff3baec01bdfd36905cb0155ee4d",
+      "publishedAtLabel": "Oct 2"
+    },
+    {
+      "id": 14199,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Antaranews.com",
+      "author": "Lifia Mawaddah, Raka Adji",
+      "title": "Jakarta leans on Wolbachia method for dengue control",
+      "description": "Amid a rise in cases of dengue fever, the provincial government of Jakarta has decided to release Aedes aegypti mosquitoes containing Wolbachia to stem the ...",
+      "url": "https://en.antaranews.com/news/328143/jakarta-leans-on-wolbachia-method-for-dengue-control",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2024/09/27/IMG_0128.jpeg",
+      "publishedAt": "2024-10-02 15:11:03",
+      "content": "Jakarta (ANTARA) - Amid a rise in cases of dengue fever, the provincial government of Jakarta has decided to release Aedes aegypti mosquitoes containing Wolbachia to stem the spread of the virus.Th\u2026 [+5218 chars]",
+      "retrievedAt": "2024-10-03 19:05:51.062710",
+      "internal_id": "71fe36ec6ad33d6424ad95b644d40dfa14bc884f9a9bd31cb84c1a3e2271d2f0",
+      "publishedAtLabel": "Oct 2"
+    },
+    {
+      "id": 14181,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Portfolio.hu",
+      "author": "Portfolio.hu",
+      "title": "H\u00e1zi baromfiban is megjelent a mad\u00e1rinfluenza - 25 ezres pecsenyekacsa \u00e1llom\u00e1nyt kell felsz\u00e1molni",
+      "description": "Alig n\u00e9h\u00e1ny nappal az els\u0151 vadmad\u00e1r esetek igazol\u00e1sa ut\u00e1n h\u00e1zi baromfi\u00e1llom\u00e1nyban is kimutatta a mad\u00e1rinfluenza jelenl\u00e9t\u00e9t a Nemzeti \u00c9lelmiszerl\u00e1nc-biztons\u00e1gi Hivatal (N\u00e9bih) laborat\u00f3riuma. A B\u00e9k\u00e9s v\u00e1rmegyei 25 ezres pecsenyekacsa \u00e1llom\u00e1ny felsz\u00e1mol\u00e1sa folyam\u2026",
+      "url": "https://www.portfolio.hu/gazdasag/20241002/hazi-baromfiban-is-megjelent-a-madarinfluenza-25-ezres-pecsenyekacsa-allomanyt-kell-felszamolni-713927",
+      "urlToImage": "https://pcdn.hu/articles/images-xl/m/a/d/madarinfluenza-706865.jpg",
+      "publishedAt": "2024-10-02 14:38:00",
+      "content": "A B\u00e9k\u00e9s v\u00e1rmegyei F\u00fczesgyarmaton mutatta ki a mad\u00e1rinfluenza v\u00edrus\u00e1nak H5N1 alt\u00edpus\u00e1t a N\u00e9bih laborat\u00f3riuma. A mintegy 25 000 p\u00e9ld\u00e1nyt sz\u00e1ml\u00e1l\u00f3 pecsenyekacsa telepen a takarm\u00e1ny- \u00e9s a v\u00edzfogyaszt\u00e1s c\u2026 [+420 chars]",
+      "retrievedAt": "2024-10-03 19:05:50.496711",
+      "internal_id": "4dbb2a589aa84b87179b1cc0b7412225b59c5f635e214ee39c7d7ad030ff0eaa",
+      "publishedAtLabel": "Oct 2"
+    },
+    {
+      "id": 14185,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Aljazeera.net",
+      "author": "\u0627\u0644\u062c\u0632\u064a\u0631\u0629 \u0646\u062a",
+      "title": "\u0646\u0641\u0648\u0642 47 \u0646\u0645\u0631\u0627 \u0641\u064a \u062d\u062f\u0627\u0626\u0642 \u062d\u064a\u0648\u0627\u0646\u0627\u062a \u0641\u064a\u062a\u0646\u0627\u0645\u064a\u0629 \u0628\u0633\u0628\u0628 \u0625\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u0637\u064a\u0648\u0631",
+      "description": "\u0646\u0641\u0642 47 \u0646\u0645\u0631\u0627 \u06483 \u0623\u0633\u0648\u062f \u0648\u0641\u0647\u062f \u0641\u064a \u062d\u062f\u0627\u0626\u0642 \u0627\u0644\u062d\u064a\u0648\u0627\u0646\u0627\u062a \u062c\u0646\u0648\u0628 \u0641\u064a\u062a\u0646\u0627\u0645 \u0628\u0633\u0628\u0628 \u0625\u0635\u0627\u0628\u062a\u0647\u0627 \u0628\u0641\u064a\u0631\u0648\u0633 \u0625\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u0637\u064a\u0648\u0631 \"\u0625\u062a\u0634 5 \u0625\u0646 1\" (H5N1) \u0648\u0641\u0642 \u0645\u0627 \u0623\u0639\u0644\u0646\u062a \u0648\u0633\u0627\u0626\u0644 \u0625\u0639\u0644\u0627\u0645 \u0631\u0633\u0645\u064a\u0629 \u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u0623\u0631\u0628\u0639\u0627\u0621.",
+      "url": "https://www.aljazeera.net/health/2024/10/2/%d9%86%d9%81%d9%88%d9%82-47-%d9%86%d9%85%d8%b1%d8%a7-%d9%81%d9%8a-%d8%ad%d8%af%d8%a7%d8%a6%d9%82-%d8%ad%d9%8a%d9%88%d8%a7%d9%86%d8%a7%d8%aa-%d9%81%d9%8a%d8%aa%d9%86%d8%a7%d9%85%d9%8a%d8%a9",
+      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2024/10/shutterstock_345424-1727875906.jpg?resize=1920%2C1280&quality=80",
+      "publishedAt": "2024-10-02 14:31:00",
+      "content": "2022 (- ) 47 3 \" 5 1\" (H5N1) . / / . \" \" 5 1\" \"\". . . \" \" ( ENV) - - 385 2023. 310 16 . 2022 \" 5 1\". \" 5 1\" . /. 2004 .",
+      "retrievedAt": "2024-10-03 19:05:50.527185",
+      "internal_id": "e0499464244aae1d061f6b85f7c6dd29fc92002e41153619edf9d0f5c22d5abb",
+      "publishedAtLabel": "Oct 2"
+    },
+    {
+      "id": 14187,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Phys.Org",
+      "author": "Science X",
+      "title": "47 tigers dead in Vietnam zoos due to bird flu: State media",
+      "description": "Forty-seven tigers, three lions and a panther have died in zoos in south Vietnam due to the H5N1 bird flu virus, state media said Wednesday.",
+      "url": "https://phys.org/news/2024-10-tigers-dead-vietnam-zoos-due.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/panther.jpg",
+      "publishedAt": "2024-10-02 14:30:01",
+      "content": "Forty-seven tigers, three lions and a panther have died in zoos in south Vietnam due to the H5N1 bird flu virus, state media said Wednesday. The deaths occurred in August and September at the privat\u2026 [+1626 chars]",
+      "retrievedAt": "2024-10-03 19:05:50.545936",
+      "internal_id": "12966c24be484ae5bd9055ad06895671446585960feb80335d127c0429b3aefb",
+      "publishedAtLabel": "Oct 2"
+    },
+    {
+      "id": 14201,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Hannah Caroline Sophie Mueller, Cyril Oshomah Erameh, Mathias Gelderblom, Osahogie Isaac Edeawe, Osetohamen Grace Akpasubi, Ekpen Uwayeme Ekoyata, Ujiagbe Moses Aiterebhe, Joseph Okoeguale, Stephan Guenther, Lisa Oestereich, Michael Ramharter, Sylvanus Okogbenin, Till Omansen",
+      "title": "Electroencephalography in emerging viral infections: Lessons learned from implementing an EEG unit in a Lassa fever isolation ward in Nigeria",
+      "description": "Author summary Lassa fever (LF) is an emerging viral infection which, in severe cases, may result in viral hemorrhagic fever with neurological complications like meningitis, confusion, and seizures. Electroencephalography (EEG), a well-established diagnostic \u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012522",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012522.g001&size=inline",
+      "publishedAt": "2024-10-02 14:00:00",
+      "content": "Abstract Electroencephalography (EEG) has been used for almost a century in well-equipped medical centers to facilitate the diagnosis of epilepsy and other brain disorders. Lassa fever (LF) and othe\u2026 [+13627 chars]",
+      "retrievedAt": "2024-10-03 19:05:51.406181",
+      "internal_id": "c3583d03c31ae07230ead4151b589f698bd10ced7125e4f6fe446c36184b8569",
+      "publishedAtLabel": "Oct 2"
+    },
+    {
+      "id": 14208,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Magnus Heier",
+      "title": "Mpox auf dem Vormarsch: Impfen oder nicht impfen? Das ist hier die Frage",
+      "description": "Dass die WHO wegen der Mpox eine gesundheitliche Notlage ausgerufen hat, macht auch in Deutschland Menschen Angst. Wer sich jetzt impfen lassen sollte und wer nicht.",
+      "url": "https://www.tagesspiegel.de/gesundheit/mpox-auf-dem-vormarsch-impfen-oder-nicht-impfen-das-ist-hier-die-frage-12474647.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/12474662/alternates/BASE_16_9_W1400/1727872156000/smallpox-vaccine-vial-and-hands-of-doctor-for-safety-healthcare-or-medicine-in-hospital-closeup.jpeg",
+      "publishedAt": "2024-10-02 12:39:56",
+      "content": "Die Pocken sind seit 1977 weltweit ausgerottet: einer der ganz gro\u00dfen Erfolge der Medizin, konkret einer riesengro\u00dfen Impfkampagne. Nun macht ein Verwandter des Pockenvirus, Orthopoxvirus monkeypox, \u2026 [+25 chars]",
+      "retrievedAt": "2024-10-03 19:05:52.713929",
+      "internal_id": "7749d1030d5497de9aba76b11604ece396454a26963d88481dbf6de3ba0b69f2",
+      "publishedAtLabel": "Oct 2"
+    },
+    {
+      "id": 14188,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "CNA",
+      "author": null,
+      "title": "47 tigers dead in Vietnam zoos due to bird flu: State media",
+      "description": "HANOI: Forty-seven tigers, three lions and a panther have died in zoos in south Vietnam due to the H5N1 bird flu virus, state media said on Wednesday (Oct 2). The deaths occurred in August and September at the private My Quynh Safari Park in Long An province \u2026",
+      "url": "https://www.channelnewsasia.com/asia/47-tigers-lions-panther-dead-vietnam-zoo-bird-flu-4654471",
+      "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--4SDmr4yf--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2024/10/02/istock-1903744057.jpg?itok=xRX6wKnQ",
+      "publishedAt": "2024-10-02 11:32:24",
+      "content": "HANOI: Forty-seven tigers, three lions and a panther have died in zoos in south Vietnam due to the H5N1 bird flu virus, state media said on Wednesday (Oct 2). The deaths occurred in August and Septe\u2026 [+1217 chars]",
+      "retrievedAt": "2024-10-03 19:05:50.552775",
+      "internal_id": "06216f1e4b332946cc88d236aed443ec24f4198ff0a5643b146a9e46de9d2159",
+      "publishedAtLabel": "Oct 2"
+    },
+    {
+      "id": 14179,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": null,
+      "title": "Bird flu kills 47 tigers, 3 lions and a panther in Vietnam zoos",
+      "description": "The World Health Organization says there have been increasing reports of deadly outbreaks among mammals caused by influenza viruses, including H5N1.",
+      "url": "https://www.cbsnews.com/news/bird-flu-deaths-tigers-lions-panther-vietnam-zoos-state-media/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/10/02/c7119b95-eda7-4037-9383-43840cc41ef6/thumbnail/1200x630g8/55a2493d6d4403c264f342c0d1bbaf41/gettyimages-73735667.jpg?v=fa529222a2be3543711c1a879b51e860",
+      "publishedAt": "2024-10-02 11:11:07",
+      "content": "Forty-seven tigers, three lions and a panther have died in zoos in south Vietnam due to the H5N1 bird flu virus, state media said Wednesday. The deaths occurred in August and September at the privat\u2026 [+1881 chars]",
+      "retrievedAt": "2024-10-03 19:05:50.453358",
+      "internal_id": "84d954dcd5f4c1602c10118b1b6188b9e58298a4f74dac3a35541f0b8f891500",
+      "publishedAtLabel": "Oct 2"
+    },
+    {
+      "id": 14207,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Sputniknews.africa",
+      "author": "Sputnik Afrique",
+      "title": "Moscou a remis des milliers de tests de diagnostic de la mpox \u00e0 l\u2019Afrique et aux ex-pays sovi\u00e9tiques",
+      "description": "\"La Russie reste engag\u00e9e dans la pr\u00e9vention des infections, tant sur son territoire qu'ailleurs, en aidant plus d'une vingtaine de pays \u00e0 renforcer leur potentiel humain, scientifique et de laboratoire\", a d\u00e9clar\u00e9 la vice-Premi\u00e8re ministre russe.",
+      "url": "https://fr.sputniknews.africa/20241002/moscou-a-remis-des-milliers-de-tests-de-diagnostic-de-la-mpox-a-lafrique-et-aux-ex-pays-sovietiques-1068521996.html",
+      "urlToImage": "https://cdn1.img.sputniknews.africa/images/sharing/article/fra/1068521996.jpg?10678835911727867117",
+      "publishedAt": "2024-10-02 11:05:16",
+      "content": "https://fr.sputniknews.africa/20241002/moscou-a-remis-des-milliers-de-tests-de-diagnostic-de-la-mpox-a-lafrique-et-aux-ex-pays-sovietiques-1068521996.html Moscou a remis des milliers de tests de dia\u2026 [+2578 chars]",
+      "retrievedAt": "2024-10-03 19:05:52.708012",
+      "internal_id": "1f90cf36dfcaf09025dfce77ff319729aa67a5f5e8af8cd8063ec03676235466",
+      "publishedAtLabel": "Oct 2"
+    },
+    {
+      "id": 14183,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": "Agence France-Presse",
+      "title": "47 Tigers Die In Vietnam Zoos Due To H5N1 Bird Flu Virus: Report",
+      "description": "Forty-seven tigers, three lions and a panther have died in zoos in south Vietnam due to the H5N1 bird flu virus, state media said Wednesday.",
+      "url": "https://www.ndtv.com/world-news/47-tigers-die-in-vietnam-zoos-due-to-h5n1-bird-flu-virus-report-6699812",
+      "urlToImage": "https://c.ndtvimg.com/2024-10/7pfa0k2g_tiger-generic_625x300_02_October_24.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "publishedAt": "2024-10-02 10:12:24",
+      "content": "Hanoi: Forty-seven tigers, three lions and a panther have died in zoos in south Vietnam due to the H5N1 bird flu virus, state media said Wednesday. The deaths occurred in August and September at the\u2026 [+1319 chars]",
+      "retrievedAt": "2024-10-03 19:05:50.511177",
+      "internal_id": "4aeaeb4e026c4564728eb5114316bf9b691b69a2aefb2b50c12ba0cf7cd8ab29",
+      "publishedAtLabel": "Oct 2"
+    },
+    {
+      "id": 14211,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Jeune Afrique",
+      "author": "Jeune Afrique avec AFP",
+      "title": "La campagne de vaccination contre le Mpox repouss\u00e9e en RDC",
+      "description": "Les difficult\u00e9s d\u2019acheminement des doses stock\u00e9es \u00e0 Kinshasa retardent le d\u00e9but des op\u00e9rations de vaccination. Dans la capitale, les autorit\u00e9s sanitaires s\u2019inqui\u00e8tent d\u2019une explosion des cas.",
+      "url": "https://www.jeuneafrique.com/1615700/societe/la-campagne-de-vaccination-contre-le-mpox-repoussee-en-rdc/",
+      "urlToImage": "https://prod.cdn-medias.jeuneafrique.com/cdn-cgi/image/q=auto,f=auto,metadata=none,width=1280,height=720,fit=cover/https://prod.cdn-medias.jeuneafrique.com/medias/2024/10/02/mpox-rdc.jpg",
+      "publishedAt": "2024-10-02 09:51:52",
+      "content": "Le lancement de la campagne de vaccination contre le Mpox, pr\u00e9vu initialement ce 2 octobre en RDC, a \u00e9t\u00e9 repouss\u00e9 notamment en raison de retards dans lacheminement des pr\u00e9cieuses doses, a-t-on appris\u2026 [+2101 chars]",
+      "retrievedAt": "2024-10-03 19:05:52.778991",
+      "internal_id": "e5adda5cddacdd8cb088e7cba21990b0805481208543c255b98930d0ec266ee9",
+      "publishedAtLabel": "Oct 2"
+    },
+    {
+      "id": 14206,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "SAM MEDNICK Associated Press",
+      "title": "Sex workers find themselves at the center of Congo's mpox outbreak",
+      "description": "Sex workers are among those hardest-hit by the mpox outbreak in eastern Congo's Kamituga town",
+      "url": "https://abcnews.go.com/International/wireStory/sex-workers-hit-hard-congos-mpox-outbreak-option-114416986",
+      "urlToImage": "https://i.abcnewsfe.com/a/f2bbd1a0-244e-4c70-a9d2-34ce1e1d4ca6/wirestory_5f6f3c7e9f0abd1917f8daf41678ea2b_16x9.jpg?w=1600",
+      "publishedAt": "2024-10-02 09:10:29",
+      "content": "KAMITUGA, Congo -- It's been four months since Sifa Kunguja recovered from mpox, but as a sex worker, she said, she's still struggling to regain clients, with fear and stigma driving away people who'\u2026 [+7303 chars]",
+      "retrievedAt": "2024-10-03 19:05:52.692521",
+      "internal_id": "b36e63f3b468100aef0a6aee84079d2ae468fe280a20eb47f11ff1e2ffd78734",
+      "publishedAtLabel": "Oct 2"
+    },
+    {
+      "id": 14191,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Archiman Bhaduri",
+      "title": "Anushtup Majumder named Bengal Ranji skipper",
+      "description": "Anushtup Majumder, a seasoned cricketer, is appointed Bengal's Ranji Trophy captain for the upcoming season after Manoj Tiwary's retirement. Known for his dependable performances, Majumder aims for a Ranji Trophy win, bolstered by the return of key players Wr\u2026",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/anushtup-majumder-named-bengal-ranji-skipper/articleshow/113873846.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-113873836,width-1070,height-580,imgsize-34840,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-10-02 08:34:27",
+      "content": "Dengue: 11 superfoods to increase platelet count naturally",
+      "retrievedAt": "2024-10-03 19:05:50.980197",
+      "internal_id": "6ce46a612b94e6f259e94d4174370daeaf35a436886d859478c20c7d2b2d7270",
+      "publishedAtLabel": "Oct 2"
+    },
+    {
+      "id": 14210,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "N-tv.de",
+      "author": "n-tv NACHRICHTEN",
+      "title": "\"Jeder verschweigt es\": Goldgr\u00e4berstadt Kamituga wird zum Epizentrum der Mpox-Epidemie",
+      "description": "Im Osten des Kongos greift eine neue Variante von Mpox um sich. Die Goldgr\u00e4berstadt Kamituga zieht Minenarbeiter ebenso an wie Prostituierte und Handelsreisende. Mpox-F\u00e4lle aus anderen Regionen im Osten des Kongos k\u00f6nnen hierher zur\u00fcckverfolgt werden.",
+      "url": "https://www.n-tv.de/panorama/Goldgraeberstadt-Kamituga-wird-zum-Epizentrum-der-Mpox-Epidemie-article25263236.html",
+      "urlToImage": "https://bilder4.n-tv.de/img/incoming/crop25263247/373132338-cImg_16_9-w1200/801fc093392cafe70bd0408d3e222d1d.jpg",
+      "publishedAt": "2024-10-02 08:09:33",
+      "content": "Im Osten des Kongos greift eine neue Variante von Mpox um sich. Die Goldgr\u00e4berstadt Kamituga zieht Minenarbeiter ebenso an wie Prostituierte und Handelsreisende. Mpox-F\u00e4lle aus anderen Regionen im Os\u2026 [+4142 chars]",
+      "retrievedAt": "2024-10-03 19:05:52.762919",
+      "internal_id": "4a6e078bc7fbe944ea05a69d733f9bab62a83b34813a809673a71f84553cfc5c",
+      "publishedAtLabel": "Oct 2"
+    },
+    {
+      "id": 14197,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ilpost.it",
+      "author": null,
+      "title": "Nelle Marche c\u2019\u00e8 un focolaio con oltre 100 casi di dengue",
+      "description": "Sono stati individuati nell\u2019area di Fano e sono tutti di trasmissione autoctona, ma per la Regione la situazione \u00e8 sotto controllo",
+      "url": "https://www.ilpost.it/2024/10/02/marche-focolaio-dengue/",
+      "urlToImage": "https://www.ilpost.it/wp-content/uploads/2024/10/02/1727846773-dengue.jpg",
+      "publishedAt": "2024-10-02 07:28:43",
+      "content": "Nella zona di Fano, nel nord delle Marche, \u00e8 stato individuato un focolaio di dengue, la malattia infettiva trasmessa da alcune specie di zanzare. Secondo l\u2019aggiornamento della Regione di luned\u00ec 30 s\u2026 [+4056 chars]",
+      "retrievedAt": "2024-10-03 19:05:51.045096",
+      "internal_id": "63b632a17e3aca4e46ae4e789bf3155433971a55a3cc4d1558f1a0f9d7454d00",
+      "publishedAtLabel": "Oct 2"
+    },
+    {
+      "id": 14198,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Rpnradio.com",
+      "author": "RPN Regional News",
+      "title": "DOH nagtunol og mga ekipo batok dengue sa Misamis Oriental",
+      "description": "Misamis Oriental \u2013 TRESE milyones pesos ang kantidad sa mga nga gitunol sa Department of Health (DOH). Kini kabahin sa pakigbatok sa dengue dinhi sa probinsiya. Ang maong mga ekipo gilangkuban sa dise siete (17) ka set sa misting machines kon units sa backpac\u2026",
+      "url": "https://rpnradio.com/doh-nagtunol-og-mga-ekipo-batok-dengue-sa-misamis-oriental/",
+      "urlToImage": "https://rpnradio.com/wp-content/uploads/2024/10/DENGUE-TOOLS-MIS-OR.jpg",
+      "publishedAt": "2024-10-02 07:15:09",
+      "content": "Misamis Oriental \u2013 TRESE milyones pesos ang kantidad sa mga nga gitunol sa Department of Health (DOH). Kini kabahin sa pakigbatok sa dengue dinhi sa probinsiya.Ang maong mga ekipo gilangkuban sa dise\u2026 [+1149 chars]",
+      "retrievedAt": "2024-10-03 19:05:51.051588",
+      "internal_id": "20586051f21f13865d6e7143a529e9b57d8c61f8e20079f5c4ef8a9e4505f9be",
+      "publishedAtLabel": "Oct 2"
+    },
     {
       "id": 14171,
       "query": [
@@ -33769,404 +34417,6 @@
       "content": "Cholesterol could be a weapon in the fight against malaria and other potentially deadly parasitic diseases, according to researchers who have created a new method for treatment. Malaria-causing par\u2026 [+2558 chars]",
       "retrievedAt": "2024-08-20 07:06:51.784635",
       "internal_id": "aedec63a6505f6680e11e514915437d0bc3b9bb274eded7135abe106870c7d83",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 12273,
-      "query": [
-        "zika"
-      ],
-      "source_id": "cbc-news",
-      "source_name": "CBC News",
-      "author": null,
-      "title": "Paris organizers aim to emulate success of London 2012 as 'normalcy' returns to Paralympics",
-      "description": "It's been more than a decade since the last Summer Paralympics went off without major controversy. You'd have to go back to London 2012 for the last time the Paralympics could proceed unbothered. And what a Paralympics it was, according to those who attended.\u2026",
-      "url": "https://www.cbc.ca/sports/paralympics/paris-paralympics-preview-aug-18-1.7292995",
-      "urlToImage": "https://i.cbc.ca/1.7264699.1721096647!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/paris-paralympics.jpg",
-      "publishedAt": "2024-08-18 18:12:01",
-      "content": "It's been more than a decade since the last Summer Paralympics went off without major controversy. In 2016, Zika Virus concerns were compounded when, two weeks before the Games, the International Pa\u2026 [+9041 chars]",
-      "retrievedAt": "2024-08-19 19:05:40.523817",
-      "internal_id": "fefe5bc5135811be12032327587e0cdf07f37566d4737d59ec235896cea978e0",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 12262,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "El Financiero",
-      "author": "Karina Cancino",
-      "title": "Sepultan en Nayarit a Aylin Milagros, la ni\u00f1a de 8 a\u00f1os cuyo cuerpo fue retenido por un hospital",
-      "description": "La ni\u00f1a estuvo 10 d\u00edas hospitalizada en el Hospital Puerta de Hierro en Tepic por un diagn\u00f3stico de dengue grave.",
-      "url": "https://www.elfinanciero.com.mx/estados/2024/08/18/sepultan-en-nayarit-a-aylin-milagros-la-nina-de-8-anos-cuyo-cuerpo-fue-retenido-por-un-hospital/",
-      "urlToImage": "https://www.elfinanciero.com.mx/resizer/UmaFFGKD3QU476hNumaxlnSjz40=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/4PIA4FPMARG3FIXJDEBUOROFMY.jpg",
-      "publishedAt": "2024-08-18 17:09:26",
-      "content": "Este s\u00e1bado 17 de agosto fue sepultada en Nayarit Aylin Milagros, una ni\u00f1a de 8 a\u00f1os que falleci\u00f3 por dengue el 15 de agosto pasado, cuyo cad\u00e1ver fue retenido por el hospital privado donde era atendi\u2026 [+2264 chars]",
-      "retrievedAt": "2024-08-19 19:05:39.252600",
-      "internal_id": "099d9572f43bc6ed28e5863ffc23f14f83780124cb4fd689ec1256bfaa03c671",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 12265,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "ansa",
-      "source_name": "ANSA.it",
-      "author": null,
-      "title": "Un caso di Dengue nel centro di Padova, scatta disinfestazione",
-      "description": "Un caso di Dengue, trasmessa dalla zanzara tigre, \u00e8 stato registrato a Padova in un residente in Piazza Mazzini, nel centro cittadino. (ANSA)",
-      "url": "https://www.ansa.it/veneto/notizie/2024/08/18/un-caso-di-dengue-nel-centro-di-padova-scatta-disinfestazione_7e1ba774-6b54-412c-bc70-95f4e7545380.html",
-      "urlToImage": "https://www.ansa.it/webimages/img_700/2024/4/10/041557102afbd1e56aa7c817a46827c7.jpg",
-      "publishedAt": "2024-08-18 16:30:27",
-      "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all\u2019abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad \u2026 [+320 chars]",
-      "retrievedAt": "2024-08-19 19:05:39.310040",
-      "internal_id": "ebf388d1d44fee7c1d7bce4def7b05574f4edb30486a24b48dbf7f95e582eb75",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 12260,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "The Star Online",
-      "title": "Experts: Spike in dengue cases due to weather",
-      "description": "PETALING JAYA: Malaysia reported a higher dengue caseload and deaths in the first eight months this year with the spike in cases attributed to the weather. Read full story",
-      "url": "https://www.thestar.com.my/news/nation/2024/08/19/experts-spike-in-dengue-cases-due-to-weather",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/08/19/2865559.jpg",
-      "publishedAt": "2024-08-18 16:00:00",
-      "content": "PETALING JAYA: Malaysia reported a higher dengue caseload and deaths in the first eight months this year with the spike in cases attributed to the weather. As of Aug 17, a total of 92,420 dengue cas\u2026 [+2539 chars]",
-      "retrievedAt": "2024-08-19 19:05:39.218905",
-      "internal_id": "ce437670f91a215b30a4f2770246302645badf46361fcae1999ad439664e0464",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 12300,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Ilfattoquotidiano.it",
-      "author": "F. Q.",
-      "title": "Mpox, l\u2019infettivologo Cauda (Gemelli): \u201cVaiolo delle scimmie? Non siamo alla vigilia del Covid, la trasmissione \u00e8 diversa e c\u2019\u00e8 un vaccino\u201d",
-      "description": "\u201cNon credo servir\u00e0 una vaccinazione di massa ma selettiva. Siamo alla vigilia del Covid? Direi di no, le rassicurazioni dell\u2019Oms consentono di dirlo. La trasmissione \u00e8 diversa, inoltre noi conosciamo il virus, c\u2019\u00e8 un vaccino. Ed una delle ragioni per cui l\u2019Om\u2026",
-      "url": "https://www.ilfattoquotidiano.it/2024/08/18/mpox-linfettivologo-cauda-gemelli-vaiolo-delle-scimmie-non-siamo-alla-vigilia-del-covid-la-trasmissione-e-diversa-e-ce-un-vaccino/7661627/",
-      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2024/08/18/cauda.jpg",
-      "publishedAt": "2024-08-18 15:49:53",
-      "content": "Roma, 18 ago. (Adnkronos) - Il 18 agosto del 1946 sulla spiaggia di Vergarolla, nei pressi di Pola, una strage voluta dai comunisti di Tito caus\u00f2 la morte di 110 italiani: molti corpi, anche di tanti\u2026 [+1181 chars]",
-      "retrievedAt": "2024-08-20 07:06:52.898642",
-      "internal_id": "f3dfb3961f78b084da20f54ffc4d89d74f5533176326bc62efa3061792b48649",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 12264,
-      "query": [
-        "dengue",
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "NDTV News",
-      "author": null,
-      "title": "5 Zika Virus Cases Detected In Bengaluru: Karnataka Health Minister",
-      "description": "Five cases of Zika virus were detected in Bengaluru, Karnataka Health Minister Dinesh Gundu Rao said on Sunday.",
-      "url": "https://www.ndtv.com/india-news/5-zika-virus-cases-detected-in-bengaluru-karnataka-health-minister-6365630",
-      "urlToImage": "https://c.ndtvimg.com/2018-12/1lmjpsgo_zika-virus_625x300_01_December_18.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-      "publishedAt": "2024-08-18 15:32:22",
-      "content": "The Minister said Zika too has simple symptoms and its treatment is similar to dengue (Representational) Bengaluru: Five cases of Zika virus were detected in Bengaluru, Karnataka Health Minister Din\u2026 [+540 chars]",
-      "retrievedAt": "2024-08-19 19:05:39.271447",
-      "internal_id": "d552e6e17bde7edf3031306969e93126c2c0981f746441dfb4bd661cda1f2d3b",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 12275,
-      "query": [
-        "mpox"
-      ],
-      "source_id": "liberation",
-      "source_name": "Lib\u00e9ration",
-      "author": "Nathalie Raulin",
-      "title": "Mpox : un risque d\u2019infection \u00abfaible\u00bb pour la France",
-      "description": "Plus agressif que le variant \u00e0 l\u2019origine de l\u2019\u00e9pid\u00e9mie de 2022, clade 1b a d\u00e9j\u00e0 fait des centaines de morts en Afrique. Mais le maillage sanitaire et les stocks de vaccins disponibles en Europe limitent les risques pour la population.",
-      "url": "https://www.liberation.fr/societe/sante/mpox-un-risque-dinfection-faible-pour-la-france-20240818_3OWZ7QYGAVDYHH56R42MHSOWAU/",
-      "urlToImage": "https://www.liberation.fr/resizer/8AtcbxqjwOQ28OMlHuku94DpDLM=/1200x630/filters:format(jpg):quality(70):focal(3231x1226:3241x1236)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/C2Q3Q4F6TBAQZE4ILLGVTRULVM.jpg",
-      "publishedAt": "2024-08-18 15:06:28",
-      "content": "Les Fran\u00e7ais sont-ils \u00e0 labri du clade 1b, variant du Mpox dont la rapide propagation met les instances sanitaires internationales sur le gril ? Les virus ne connaissant pas de fronti\u00e8res, laffirmer \u2026 [+4808 chars]",
-      "retrievedAt": "2024-08-19 19:05:41.429959",
-      "internal_id": "f3782497613b4ef61c9cc2a65611ffe78eca9a74fe6d214d263bd6c5ab85b5ec",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 12279,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "DIE WELT",
-      "author": "Nike Heinen",
-      "title": "\u201eEs gibt eigentlich zwei Ausbr\u00fcche\u201c",
-      "description": "Gegen Mpox gibt es in Europa nur einen Impfstoff. Florian Lienert ist leitender Pharmaforscher beim Hersteller Bavaria Nordic. Im Gespr\u00e4ch mit WELT kl\u00e4rt er auf, wie viele Dosen sie produzieren k\u00f6nnen und was passieren muss, wenn sich die Krankheit rasant aus\u2026",
-      "url": "https://www.welt.de/wissenschaft/plus253044222/Mpox-Es-gibt-eigentlich-zwei-Ausbrueche.html",
-      "urlToImage": "https://img.welt.de/img/wissenschaft/mobile253068774/8301359617-ci16x9-w1200-fnov-fpotl-fpi157750653/A-patient-has-his-temperature-taken.jpg",
-      "publishedAt": "2024-08-18 14:52:56",
-      "content": "Die WELT als ePaper: Die vollst\u00e4ndige Ausgabe steht Ihnen bereits am Vorabend zur Verf\u00fcgung so sind Sie immer hochaktuell informiert. Weitere Informationen: http://epaper.welt.de Der Kurz-Link die\u2026 [+49 chars]",
-      "retrievedAt": "2024-08-19 19:05:41.622334",
-      "internal_id": "194181a27db1d9ce1f0756197714a062edc6c27b770120e6c1eaadeb403932b0",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 12278,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Olhardigital.com.br",
-      "author": "Bob Furuya",
-      "title": "Quais foram as \u00faltimas emerg\u00eancias em sa\u00fade decretadas pela OMS?",
-      "description": "Na \u00faltima quarta-feira (14), a entidade emitiu um alerta relacionado \u00e0 doen\u00e7a mpox; veja outros casos registrados recentemente. O post Quais foram as \u00faltimas emerg\u00eancias em sa\u00fade decretadas pela OMS? apareceu primeiro em Olhar Digital.",
-      "url": "https://olhardigital.com.br/2024/08/18/medicina-e-saude/quais-foram-as-ultimas-emergencias-em-saude-decretadas-pela-oms/",
-      "urlToImage": "https://img.odcdn.com.br/wp-content/uploads/2024/08/shutterstock_2453168263-scaled.jpg",
-      "publishedAt": "2024-08-18 14:45:00",
-      "content": "A Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS) voltou a colocar, nesta semana, a mpox como uma emerg\u00eancia em sa\u00fade p\u00fablica de import\u00e2ncia internacional. A doen\u00e7a j\u00e1 havia figurado nesta lista entre os anos de \u2026 [+3775 chars]",
-      "retrievedAt": "2024-08-19 19:05:41.612643",
-      "internal_id": "b1d7672525d249d69b6ebd05131df5ea4c8742920cb4180d3628dbb2a1c6a810",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 12352,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Aftonbladet.se",
-      "author": "Martin Palmborg",
-      "title": "Gissl\u00e9n om trippelsmockan \u2013 kikhosta och covid \u00f6kar samtidigt som Sverige f\u00e5tt mpox-fall",
-      "description": "Antalet fall av kikhosta har skjutit i h\u00f6jden, samtidigt som covid \u00f6kar i landet. Och i bakgrunden lurar ett nytt hot, mpox-viruset. \u2013 Vi kommer b\u00f6rja h\u00f6stens v",
-      "url": "https://www.aftonbladet.se/nyheter/a/gwdG8a/kikhosta-och-covid-okar-kraftigt-i-sverige-nu-kommer-mpox",
-      "urlToImage": "https://images.aftonbladet-cdn.se/v2/images/25434c5f-10c9-47f3-875b-570c13a2fd78?fit=crop&format=auto&h=628&q=50&w=1200&s=9a3418f10527dc6b3405ce894350ee14fb3938d6",
-      "publishedAt": "2024-08-18 14:16:51",
-      "content": "Uppdaterad 16.24 | Publicerad 16.16 Antalet fall av kikhosta har skjutit i h\u00f6jden, samtidigt som covid \u00f6kar i landet. Och i bakgrunden lurar ett nytt hot, mpox-viruset. Vi kommer b\u00f6rja h\u00f6stens va\u2026 [+3644 chars]",
-      "retrievedAt": "2024-08-21 07:06:01.339794",
-      "internal_id": "9b7333988463f6baf929f57ca6a6a8d822ad72d342b7105e5ec4b45d86ba9b49",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 12277,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "taz.de",
-      "author": "Paula Irmschler",
-      "title": "AfD, Mpox und der Leipziger CSD: Finstere Zeiten",
-      "description": "Selbstbewusste Nazis, betrunkene Deutsche und ausgebeutete Asylbewerber: Es gibt aktuell nicht so viele Gr\u00fcnde, optimistisch zu sein.",
-      "url": "https://taz.de/AfD-Mpox-und-der-Leipziger-CSD/!6027911/",
-      "urlToImage": "https://taz.de/picture/7188559/948/0322-1.jpeg",
-      "publishedAt": "2024-08-18 14:13:00",
-      "content": "Selbstbewusste Nazis, betrunkene Deutsche und ausgebeutete Asylbewerber: Es gibt aktuell nicht so viele Gr\u00fcnde, optimistisch zu sein. Neonazis zeigen beim CSD in Leipzig das Symbol f\u00fcr White Power, \u2026 [+4623 chars]",
-      "retrievedAt": "2024-08-19 19:05:41.602845",
-      "internal_id": "e44d14795aebaebd3446417d29ce743ae1ab40609706fe3d4f251d29961bee5a",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 12274,
-      "query": [
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Statetimes.in",
-      "author": "statetimes_editor",
-      "title": "Five Zika virus cases detected in Bengaluru",
-      "description": "BENGALURU: Five cases of Zika virus were detected in Bengaluru, Karnataka Health Minister Dinesh Gundu Rao said on Sunday. According to him, from August 4 to 15, five cases of Zika virus have been detected in Jigani in Bengaluru. \u201cAfter the first case was det\u2026",
-      "url": "https://statetimes.in/five-zika-virus-cases-detected-in-bengaluru/",
-      "urlToImage": "https://statetimes.in/wp-content/uploads/2024/07/Zika-virus.jpg",
-      "publishedAt": "2024-08-18 14:08:58",
-      "content": "BENGALURU: Five cases of Zika virus were detected in Bengaluru, Karnataka Health Minister Dinesh Gundu Rao said on Sunday. According to him, from August 4 to 15, five cases of Zika virus have been d\u2026 [+317 chars]",
-      "retrievedAt": "2024-08-19 19:05:40.534183",
-      "internal_id": "3fe6bfa98f85415b1821e3a3354a9edd49ecbaccbce0c466505c3c35cecc5789",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 12270,
-      "query": [
-        "zika"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "PTI",
-      "title": "Five Zika virus cases detected in Bengaluru",
-      "description": "According to Karnataka Health Minister Dinesh Gundu Rao, after the first case was detected, tests were conducted in the surrounding areas and five cases of Zika infection were found. Accordingly, containment has been done. The Minister said Zika too has simp\u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/five-zika-virus-cases-detected-in-bengaluru/articleshow/112609156.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-112609164,width-1200,height-630,imgsize-2642623,overlay-economictimes/photo.jpg",
-      "publishedAt": "2024-08-18 13:22:23",
-      "content": "Bengaluru: Five cases of Zika virus were detected in Bengaluru, Karnataka Health Minister Dinesh Gundu Rao said on Sunday. According to him, from August 4 to 15, five cases of Zika virus have been de\u2026 [+372 chars]",
-      "retrievedAt": "2024-08-19 19:05:40.489310",
-      "internal_id": "4b8e85b1e27ba46c81d9b366e642b2b254bd967000644cd7efb5faf1a4f93da7",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 12271,
-      "query": [
-        "zika"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "PTI",
-      "title": "Five Zika virus cases detected in Bengaluru",
-      "description": "India News: BENGALURU: Five cases of Zika virus were detected in Bengaluru, Karnataka health minister Dinesh Gundu Rao said on Sunday.",
-      "url": "https://timesofindia.indiatimes.com/india/five-zika-virus-cases-detected-in-bengaluru/articleshow/112608623.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-112608668,width-1070,height-580,imgsize-816242,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-08-18 12:51:43",
-      "content": "8 happiness mantras for working professionals",
-      "retrievedAt": "2024-08-19 19:05:40.494799",
-      "internal_id": "6e9562fcbe7257416680a8d4fc7e6d52721f6373fecf56d7f5cd39ee0f5af595",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 12269,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "UN News",
-      "author": "dpicampaigns",
-      "title": "UN and partners report acute malnutrition surge in Government-controlled areas of Yemen",
-      "description": "Acute malnutrition is escalating among children in Government-controlled areas in Yemen, UN agencies and partners said in a report published on Sunday. Read Full Story on UN News The post UN and partners report acute malnutrition surge in Government-controlle\u2026",
-      "url": "https://news.un.org/en/story/2024/08/1153316",
-      "urlToImage": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/27-01-2022_UNICEF_Yemen-2.jpg/image770x420cropped.jpg",
-      "publishedAt": "2024-08-18 12:00:00",
-      "content": "The sharp increase is being driven by diseases, including cholera and malaria, high food insecurity, and limited access to safe drinking water and other essential services, according to the analysis \u2026 [+4034 chars]",
-      "retrievedAt": "2024-08-19 19:05:40.109143",
-      "internal_id": "9e53260e8fc5c59bacb5ab8dbd0980c5bdff0a092ecca95f2c74a3149bedf6e4",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 12267,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Ctvnews.ca",
-      "author": "Daniel Otis",
-      "title": "Meningitis B: Only 2 provinces cover vaccine for students",
-      "description": "Nova Scotia and Prince Edward Island are the only provinces that offer post-secondary students free vaccination against meningitis B, a rare but deadly bacterial infection.",
-      "url": "https://www.ctvnews.ca/health/provinces-urged-to-offer-students-free-vaccines-for-rare-but-deadly-meningitis-strain-1.7004139",
-      "urlToImage": "https://www.ctvnews.ca/polopoly_fs/1.7004156.1723849880!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg",
-      "publishedAt": "2024-08-18 11:00:04",
-      "content": "Nova Scotia and Prince Edward Island are the only provinces that offer post-secondary students free vaccination against meningitis B, a rare but deadly bacterial infection. With Canadian universitie\u2026 [+6403 chars]",
-      "retrievedAt": "2024-08-19 19:05:39.699133",
-      "internal_id": "fd75358447714da1821ffbace9976c484247efc653bbf8aa8dc3fbd8d1e809b1",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 12268,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "nrk",
-      "source_name": "NRK",
-      "author": "Vegard Tj\u00f8rhom",
-      "title": "To \u00e5r gamle Kia er blant dei f\u00f8rste i verda som f\u00e5r d\u00f8dsviktig vaksine",
-      "description": "Kvart \u00e5r tek malaria livet av tusenvis av afrikanske sm\u00e5barn. Men no blir ei historisk vaksine rulla ut. Kamerunske babyar er f\u00f8rst i k\u00f8en.",
-      "url": "https://www.nrk.no/urix/babyar-i-kamerun-forst-ut-med-vaksine-som-kan-redde-millionar-av-liv-1.16965469",
-      "urlToImage": "https://gfx.nrk.no/T2X4AlTM_xzDdyCdvVNPpAUZ7hVbXweZ3c-lkaRbZS1g.jpg",
-      "publishedAt": "2024-08-18 10:28:58",
-      "content": "Me har enorme utfordringar med malaria her. Det ligg s\u00e5 mykje s\u00f8ppel i gatene, og der likar myggen \u00e5 formeire seg, seier Aurline Fuebu. Ho sit med sin to \u00e5r gamle baby i fanget, og les seg opp p\u00e5 al\u2026 [+5426 chars]",
-      "retrievedAt": "2024-08-19 19:05:40.103375",
-      "internal_id": "3910a23f1406ed0c9ffb2d398edf9a5f049c8cbe410536d1066f52dc0db57926",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 12266,
-      "query": [
-        "dengue",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "BusinessLine",
-      "author": "Team Pulse",
-      "title": "World Mosquito Day",
-      "description": "The World Mosquito Day (August 20) raises awareness on mosquito-borne diseases.",
-      "url": "https://www.thehindubusinessline.com/specials/pulse/world-mosquito-day/article68539346.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/h0j3gf/article68539381.ece/alternates/LANDSCAPE_1200/2024-07-25T004356Z_362697650_RC2H09A5EM6M_RTRMADP_3_GUATEMALA-DENGUE.JPG",
-      "publishedAt": "2024-08-18 10:07:15",
-      "content": "The World Mosquito Day (August 20) raises awareness on mosquito-borne diseases. Mosquitoes, one of the worlds deadliest creatures, transmit diseases, including chikungunya, dengue, lymphatic filarias\u2026 [+191 chars]",
-      "retrievedAt": "2024-08-19 19:05:39.332490",
-      "internal_id": "a3e98f7667c78f0ce0f24621609dfd38092ab7c0c26963d1e527bb5c3060eb2d",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 12272,
-      "query": [
-        "zika"
-      ],
-      "source_id": "fox-news",
-      "source_name": "Fox News",
-      "author": "Fox News Staff",
-      "title": "Gender surgeries, migraine tips, 'Zika-like' virus and more top health stories",
-      "description": "This week's health roundup includes stories about controversial \"gender-affirming\" surgeries on kids, a little-known type of diabetes, a \"Zika-like\" virus that's spreading iand more.",
-      "url": "https://www.foxnews.com/health/gender-surgeries-migraine-tips-zika-like-virus-top-health-stories",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/08/health-weekend-recap-8-18.jpg",
-      "publishedAt": "2024-08-18 10:00:19",
-      "content": "Join Fox News for access to this content Plus special access to select articles and other premium content with your account - free of charge. By entering your email and pushing continue, you are ag\u2026 [+2648 chars]",
-      "retrievedAt": "2024-08-19 19:05:40.518575",
-      "internal_id": "7d99b9be6d97afe24b47d909005f3c6261f3927438096e52e9956a6440cb35ab",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 12276,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "DIE WELT",
-      "author": null,
-      "title": "\u201eSicherlich wird dieser neue Stamm auch nach Deutschland kommen\u201c",
-      "description": "Das Mpox-Virus breitet sich in Afrika weiter aus. Am Donnerstag meldete Schweden als erstes Land Europas einen Infektionsfall mit der Virusvariante 1b. Virologe Prof. Klaus St\u00f6hr sagt, man vermute, dass die \u201eUntervariante st\u00e4rkere Krankheitsverl\u00e4ufe verursach\u2026",
-      "url": "https://www.welt.de/wissenschaft/video253065172/Neue-Affenpocken-Variante-Sicherlich-wird-dieser-neue-Stamm-auch-nach-Deutschland-kommen.html",
-      "urlToImage": "https://img.welt.de/img/videos/mobile243116717/4861357157-ci16x9-w1200/290379608-Kopie-jpg.jpg",
-      "publishedAt": "2024-08-18 09:55:24",
-      "content": "Die WELT als ePaper: Die vollst\u00e4ndige Ausgabe steht Ihnen bereits am Vorabend zur Verf\u00fcgung so sind Sie immer hochaktuell informiert. Weitere Informationen: http://epaper.welt.de Der Kurz-Link die\u2026 [+49 chars]",
-      "retrievedAt": "2024-08-19 19:05:41.529115",
-      "internal_id": "2e15bfd88b5d0548aad7d6108b7457ca76a2917c30afae009ccc4c77c587f1b7",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 12261,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "PTI",
-      "title": "Union minister Jual Oram's wife Jhingia Oram dies of dengue",
-      "description": "Jual Oram's wife, Jhingia Oram, passed away from dengue during treatment at a Bhubaneswar hospital. She was 58 and is survived by her husband and two daughters. Odisha Chief Minister Mohan Charan Majhi and other officials paid their respects. Her funeral will\u2026",
-      "url": "https://timesofindia.indiatimes.com/india/union-minister-jual-orams-wife-jhingia-oram-dies-of-dengue/articleshow/112604468.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-112604494,width-1070,height-580,imgsize-29244,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-08-18 08:10:37",
-      "content": "8 happiness mantras for working professionals",
-      "retrievedAt": "2024-08-19 19:05:39.247042",
-      "internal_id": "f7ffe367594833ba458cf4e7aed9a02f7fd3a6c0ba72826ea7a50432a3c933cd",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 12263,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "PTI",
-      "title": "Union minister Jual Oram's wife Jhingia Oram dies of dengue",
-      "description": "Jhingia Oram, wife of Union Minister Jual Oram, succumbed to dengue at a private hospital in Bhubaneswar She leaves behind her husband and two daughters. Odisha Chief Minister Majhi and several other leaders visited the hospital to express their condolences. \u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/union-minister-jual-orams-wife-jhingia-oram-dies-of-dengue/articleshow/112604176.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-112604207,width-1200,height-630,imgsize-15446,overlay-economictimes/photo.jpg",
-      "publishedAt": "2024-08-18 07:44:44",
-      "content": "Union Minister Jual Oram's wife Jhingia Oram died of dengue during treatment at a private hospital here, family sources said on Sunday. Jhingia Oram (58) is survived by her husband and two daughters.\u2026 [+910 chars]",
-      "retrievedAt": "2024-08-19 19:05:39.258056",
-      "internal_id": "0811adf2d40c2dde21400c6a1a8d0e5680d9f4907a6f3579c3e14ece8010314c",
       "publishedAtLabel": "Aug 18"
     }
   ]
