@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 20
-- **Last harvest:** 2024-10-04 07:06
-- **Most recent article:** 2024-10-03 07:04:20
+- **New articles in last harvest:** 28
+- **Last harvest:** 2024-10-04 19:05
+- **Most recent article:** 2024-10-03 17:46:00
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-34 | 24-35 | 24-36 | 24-37 | 24-38 | 24-39 | 24-40 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 208 | 207 | 184 | 192 | 140 | 122 | 27 | 1080 |
-| dengue | 63 | 45 | 49 | 76 | 73 | 49 | 25 | 380 |
-| h5n1 | 5 | 10 | 31 | 10 | 17 | 35 | 31 | 139 |
-| malaria | 27 | 28 | 14 | 12 | 15 | 24 | 6 | 126 |
-| rabies | 5 | 3 | 7 | 5 | 13 | 25 | 15 | 73 |
-| zika | 21 | 2 | 6 | 10 | 8 | 1 | 1 | 49 |
+| mpox | 201 | 207 | 184 | 192 | 140 | 122 | 34 | 1080 |
+| dengue | 56 | 45 | 49 | 76 | 73 | 49 | 35 | 383 |
+| h5n1 | 5 | 10 | 31 | 10 | 17 | 35 | 36 | 144 |
+| malaria | 25 | 28 | 14 | 12 | 15 | 24 | 8 | 126 |
+| rabies | 5 | 3 | 7 | 5 | 13 | 25 | 18 | 76 |
 | measles | 7 | 11 | 9 | 5 | 8 | 4 | 4 | 48 |
-| meningitis | 11 | 5 | 6 | 3 | 10 | 6 | 5 | 46 |
-| chikungunya | 10 | 1 | 5 | 13 | 9 | 3 | 1 | 42 |
+| zika | 15 | 2 | 6 | 10 | 8 | 1 | 3 | 45 |
+| meningitis | 10 | 5 | 6 | 3 | 10 | 6 | 5 | 45 |
+| chikungunya | 9 | 1 | 5 | 13 | 9 | 3 | 2 | 42 |
 | pertussis | 5 | 2 | 1 | 5 | 3 | 3 | 1 | 20 |
 | leptospirosis | 4 | 0 | 1 | 0 | 1 | 5 | 4 | 15 |
+| yersinia | 1 | 1 | 2 | 0 | 2 | 2 | 1 | 9 |
 | typhoid | 2 | 1 | 1 | 0 | 0 | 4 | 0 | 8 |
-| yersinia | 1 | 1 | 2 | 0 | 2 | 2 | 0 | 8 |
 | hpai | 1 | 0 | 3 | 1 | 0 | 2 | 0 | 7 |
 
 
@@ -34,9 +34,23 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-40 (zika)
 
+- [Evaluation of Aedes aegypti control intervention with pyriproxyfen by lcWGS in Manacapuru, Amazonas, Brazil](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012547) (Plos.org)
+
+- [Organização Mundial de Saúde lança plano estratégico global para combater a dengue e outras arbovirais](https://observador.pt/2024/10/03/organizacao-mundial-de-saude-lanca-plano-estrategico-global-para-combater-a-dengue-e-outras-arbovirais/) (Observador.pt)
+
 - [63-yr-old Dadar woman city’s first Zika case; 130 in state in 3 years](https://timesofindia.indiatimes.com/city/mumbai/mumbai-reports-first-zika-case-63-year-old-dadar-woman-states-130th-case-since-outbreak/articleshow/113860840.cms) (The Times of India)
 
+## 24-40 (yersinia)
+
+- [Yersinia not launching due to "--disable-gtk"](https://askubuntu.com/questions/1528902/yersinia-not-launching-due-to-disable-gtk) (Askubuntu.com)
+
 ## 24-40 (rabies)
+
+- [Health official confirms death of Ontario child following rabies diagnosis](https://kitchener.ctvnews.ca/health-official-confirms-death-of-ontario-child-following-rabies-diagnosis-1.7060886) (Ctvnews.ca)
+
+- [Ontario child dies from rabies after contact with a bat, health official says](https://www.cbc.ca/news/canada/hamilton/rabies-death-1.7341335) (CBC News)
+
+- [Airdropping Vaccines to Eliminate Canine Rabies in Texas – The Decades of Research Behind its Success](https://www.discovermagazine.com/the-sciences/airdropping-vaccines-to-eliminate-canine-rabies-in-texas-the-decades-of) (Discover Magazine)
 
 - [Concern for public safety after bat with rabies found in Pioneer Park](https://ksltv.com/688784/concern-for-public-safety-after-bat-with-rabies-found-in-pioneer-park/) (ksltv.com)
 
@@ -73,6 +87,20 @@ Source: [News API](https://newsapi.org/)
 - [Seroprevalence of Bordetella pertussis infection in children 1–14 years old: Indonesia basic health research (Riskesdas) 2013 and 2018 data](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0311362) (Plos.org)
 
 ## 24-40 (mpox)
+
+- [Ghana reports first mpox case but variant not yet clear](https://www.thestar.com.my/news/world/2024/10/04/ghana-reports-first-mpox-case-but-variant-not-yet-clear) (The Star Online)
+
+- [Cidade de São Paulo registra 33 novos casos de mpox em uma semana](https://www.metropoles.com/sao-paulo/cidade-de-sao-paulo-registra-33-novos-casos-de-mpox-em-uma-semana) (Metropoles.com)
+
+- [Uganda's mpox cases rise to 41: health official](https://www.thestar.com.my/news/world/2024/10/04/uganda039s-mpox-cases-rise-to-41-health-official) (The Star Online)
+
+- [866 muertes y más de 34 mil casos de viruela del mono en 16 países africanos](https://www.montevideo.com.uy/Salud/866-muertes-y-mas-de-34-mil-casos-de-viruela-del-mono-en-16-paises-africanos-uc902165) (Montevideo.com.uy)
+
+- [México en top 10 de países más afectados por Mpox, según DGE](https://aristeguinoticias.com/0310/mexico/mexico-en-top-10-de-paises-mas-afectados-por-mpox-segun-dge/) (Aristeguinoticias.com)
+
+- [Mpox: Africa’s response is obstructed by manufacturer’s failure to share vaccine technology and unfair pricing, says campaign group](https://www.bmj.com/content/387/bmj.q2174) (The BMJ)
+
+- [‘Very concerning’: NSW experiencing its ‘largest mpox outbreak’ with more than 400 cases and 26 people hospitalised](https://www.skynews.com.au/lifestyle/health/very-concerning-nsw-experiencing-its-largest-mpox-outbreak-with-more-than-400-cases-and-26-people-hospitalised/news-story/ba02e8cb27bdfae6c13ee024b28e6951) (Sky News Australia)
 
 - [NSW Health urges people at risk of mpox to get vaccinated](https://www.news.com.au/lifestyle/health/health-problems/nsw-health-urges-people-at-risk-of-mpox-to-get-vaccinated/news-story/576a85287a1869deb922441e2188519a) (News.com.au)
 
@@ -152,6 +180,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-40 (malaria)
 
+- [New drug fights tough malaria parasites](https://www.futurity.org/new-malaria-drug-3251622/) (Futurity: Research News)
+
+- [60 Degrees Pharmaceuticals Inc. Announces ARAKODA® Promotional Pilot in Advance of Expanded U.S. Launch](https://www.globenewswire.com/news-release/2024/10/03/2957754/0/en/60-Degrees-Pharmaceuticals-Inc-Announces-ARAKODA-Promotional-Pilot-in-Advance-of-Expanded-U-S-Launch.html) (GlobeNewswire)
+
 - [Bill Gates's Netflix series offers some dubious ideas about the future](https://www.newscientist.com/article/mg26435110-500-bill-gatess-netflix-series-offers-some-dubious-ideas-about-the-future/) (New Scientist)
 
 - [How zapping the brain can supercharge meditation](https://www.vox.com/future-perfect/375119/meditation-benefits-science-mindfulness-brain-stimulation) (Vox)
@@ -175,6 +207,16 @@ Source: [News API](https://newsapi.org/)
 - [​What is Leptospirosis: Do’s and dont’s you need to follow​](https://m.economictimes.com/news/india/what-is-leptospirosis-dos-and-donts-you-need-to-follow/what-is-leptospirosisnbsp/slideshow/113780508.cms) (Economictimes.com)
 
 ## 24-40 (h5n1)
+
+- [Спалах пташиного грипу призвів до загибелі тигрів і левів у В’єтнамі](https://ua.korrespondent.net/world/4720938-spalakh-ptashynoho-hrypu-pryzviv-do-zahybeli-tyhriv-i-leviv-u-vietnami) (Korrespondent.net)
+
+- [47 tigres muertos en zoológicos de Vietnam debido a la gripe aviar según medios estatales](https://www.meneame.net/m/ciencia/47-tigres-muertos-zoologicos-vietnam-debido-gripe-aviar-segun) (Meneame.net)
+
+- [Δεκάδες τίγρεις και λιοντάρια σε αιχμαλωσία πέθαναν στο Βιετνάμ από τη γρίπη των πτηνών](https://www.newsit.gr/kosmos/vietnam-dekades-tigreis-kai-liontaria-se-aixmalosia-pethanan-apo-ti-gripi-ton-ptinon/4196358/) (Newsit.gr)
+
+- [Fugleinfluenza koster 47 tigre livet i zoologiske haver i Vietnam](https://politiken.dk/internationalt/art10098394/Fugleinfluenza-koster-47-tigre-livet-i-zoologiske-haver-i-Vietnam) (Politiken.dk)
+
+- [Un brote de gripe aviar mata a casi 50 tigres en un zoo de Vietnam](https://www.abc.es/sociedad/brote-gripe-aviar-mata-tigres-zoo-vietnam-20241003092113-nt.html) (Www.abc.es)
 
 - [Βιετνάμ: Δεκάδες τίγρεις και λιοντάρια σε αιχμαλωσία πέθαναν στη χώρα, εντοπίσθηκε γρίπη των πτηνών](https://www.protothema.gr/world/article/1547241/vietnam-dekades-tigreis-kai-liodaria-se-aihmalosia-pethanan-sti-hora-edopisthike-gripi-ton-ptinon/) (Protothema.gr)
 
@@ -240,6 +282,26 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-40 (dengue)
 
+- [WHO launches plan to tackle growing threat of dengue, other diseases](https://www.voanews.com/a/who-launches-plan-to-tackle-growing-threat-of-dengue-other-diseases/7809252.html) (VOA News)
+
+- [Dengue: la Facultad de Farmacia y Bioquímica de la UBA arrancó con la producción de 5000 unidades de repelente](https://www.lanacion.com.ar/sociedad/dengue-la-facultad-de-farmacia-y-bioquimica-de-la-uba-arranco-con-la-produccion-de-5000-unidades-de-nid03102024/) (La Nacion)
+
+- [Evaluation of Aedes aegypti control intervention with pyriproxyfen by lcWGS in Manacapuru, Amazonas, Brazil](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012547) (Plos.org)
+
+- [Dengue: Cabo Verde declara situação de contingência](https://observador.pt/2024/10/03/dengue-cabo-verde-declara-situacao-de-contingencia/) (Observador.pt)
+
+- [L’OMS lance la lutte mondiale contre la dengue : “La propagation rapide est une tendance alarmante”](https://www.lavenir.net/actu/monde/2024/10/03/loms-lance-la-lutte-mondiale-contre-la-dengue-la-propagation-rapide-est-une-tendance-alarmante-XDMLQPM6C5FWROF5DKC6UQBCVQ/) (Lavenir.net)
+
+- [Organização Mundial de Saúde lança plano estratégico global para combater a dengue e outras arbovirais](https://observador.pt/2024/10/03/organizacao-mundial-de-saude-lanca-plano-estrategico-global-para-combater-a-dengue-e-outras-arbovirais/) (Observador.pt)
+
+- [Regione Marche, 'la situazione Dengue a Fano è monitorata'](https://www.ansa.it/marche/notizie/2024/10/03/regione-marche-la-situazione-dengue-a-fano-e-monitorata_576e1d6a-7f40-4dbc-8f22-e7ef46bd995e.html) (ANSA.it)
+
+- [Epidemiologii anunță că febra dengue a „scăpat de sub control” într-un oraș din Italia](https://adevarul.ro/stiri-externe/europa/epidemiologii-anunta-ca-febra-dengue-a-scapat-de-2392187.html) (Adevarul.ro)
+
+- [Dengue, terzo caso a Ortona (Chieti): si teme focolaio come a Fano. Burioni: “Surreale la storia del kit antizanzare”](https://www.ilfattoquotidiano.it/2024/10/03/dengue-terzo-caso-a-ortona-chieti-si-teme-focolaio-come-a-fano-burioni-surreale-la-storia-del-kit-antizanzare/7716677/) (Ilfattoquotidiano.it)
+
+- [Un oraș de pe coasta Italiei înregistrează un număr uriaș de cazuri de febră dengue: „Situația a scăpat de sub control”](http://hotnews.ro/un-oras-de-pe-coasta-italiei-inregistreaza-un-numar-urias-de-cazuri-de-febra-dengue-situatia-a-scapat-de-sub-control-1805458) (Hotnews.ro)
+
 - [Talianske mesto Fano zápasí s horúčkou dengue. Situácia sa vymkla spod kontroly, varujú vedci](https://spravy.pravda.sk/svet/clanok/725972-talianske-mesto-fano-zapasi-s-horuckou-dengue-situacia-sa-vymkla-spod-kontroly-varuju-vedci/) (Pravda.sk)
 
 - [Italian coastal town grapples with ‘out of control’ number of dengue cases](https://www.euractiv.com/section/health-consumers/news/italian-coastal-town-grapples-with-out-of-control-number-of-dengue-cases/) (EURACTIV)
@@ -291,6 +353,8 @@ Source: [News API](https://newsapi.org/)
 - [Bacolod dengue cases still rising](https://rpnradio.com/bacolod-dengue-cases-still-rising/) (Rpnradio.com)
 
 ## 24-40 (chikungunya)
+
+- [Evaluation of Aedes aegypti control intervention with pyriproxyfen by lcWGS in Manacapuru, Amazonas, Brazil](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012547) (Plos.org)
 
 - [Hyderabad blood banks face shortage as viral infections surge](https://timesofindia.indiatimes.com/city/hyderabad/hyderabad-blood-banks-face-shortage-as-viral-infections-surge/articleshow/113803157.cms) (The Times of India)
 
@@ -3554,18 +3618,6 @@ Source: [News API](https://newsapi.org/)
 
 - [2 pregnant women, 4 others test positive for Zika in B’luru](https://timesofindia.indiatimes.com/city/bengaluru/zika-virus-cases-in-bengaluru/articleshow/112614294.cms) (The Times of India)
 
-- [Paris organizers aim to emulate success of London 2012 as 'normalcy' returns to Paralympics](https://www.cbc.ca/sports/paralympics/paris-paralympics-preview-aug-18-1.7292995) (CBC News)
-
-- [5 Zika Virus Cases Detected In Bengaluru: Karnataka Health Minister](https://www.ndtv.com/india-news/5-zika-virus-cases-detected-in-bengaluru-karnataka-health-minister-6365630) (NDTV News)
-
-- [Five Zika virus cases detected in Bengaluru](https://statetimes.in/five-zika-virus-cases-detected-in-bengaluru/) (Statetimes.in)
-
-- [Five Zika virus cases detected in Bengaluru](https://economictimes.indiatimes.com/news/india/five-zika-virus-cases-detected-in-bengaluru/articleshow/112609156.cms) (The Times of India)
-
-- [Five Zika virus cases detected in Bengaluru](https://timesofindia.indiatimes.com/india/five-zika-virus-cases-detected-in-bengaluru/articleshow/112608623.cms) (The Times of India)
-
-- [Gender surgeries, migraine tips, 'Zika-like' virus and more top health stories](https://www.foxnews.com/health/gender-surgeries-migraine-tips-zika-like-virus-top-health-stories) (Fox News)
-
 ## 24-34 (yersinia)
 
 - [RNase-mediated reprogramming of Yersinia virulence](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011965) (Plos.org)
@@ -4004,20 +4056,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Implementa China protocolos contra mpox](https://www.reforma.com/implementa-china-protocolos-contra-mpox/ar2859001) (Reforma.com)
 
-- [Mpox, l’infettivologo Cauda (Gemelli): “Vaiolo delle scimmie? Non siamo alla vigilia del Covid, la trasmissione è diversa e c’è un vaccino”](https://www.ilfattoquotidiano.it/2024/08/18/mpox-linfettivologo-cauda-gemelli-vaiolo-delle-scimmie-non-siamo-alla-vigilia-del-covid-la-trasmissione-e-diversa-e-ce-un-vaccino/7661627/) (Ilfattoquotidiano.it)
-
-- [Mpox : un risque d’infection «faible» pour la France](https://www.liberation.fr/societe/sante/mpox-un-risque-dinfection-faible-pour-la-france-20240818_3OWZ7QYGAVDYHH56R42MHSOWAU/) (Libération)
-
-- [„Es gibt eigentlich zwei Ausbrüche“](https://www.welt.de/wissenschaft/plus253044222/Mpox-Es-gibt-eigentlich-zwei-Ausbrueche.html) (DIE WELT)
-
-- [Quais foram as últimas emergências em saúde decretadas pela OMS?](https://olhardigital.com.br/2024/08/18/medicina-e-saude/quais-foram-as-ultimas-emergencias-em-saude-decretadas-pela-oms/) (Olhardigital.com.br)
-
-- [Gisslén om trippelsmockan – kikhosta och covid ökar samtidigt som Sverige fått mpox-fall](https://www.aftonbladet.se/nyheter/a/gwdG8a/kikhosta-och-covid-okar-kraftigt-i-sverige-nu-kommer-mpox) (Aftonbladet.se)
-
-- [AfD, Mpox und der Leipziger CSD: Finstere Zeiten](https://taz.de/AfD-Mpox-und-der-Leipziger-CSD/!6027911/) (taz.de)
-
-- [„Sicherlich wird dieser neue Stamm auch nach Deutschland kommen“](https://www.welt.de/wissenschaft/video253065172/Neue-Affenpocken-Variante-Sicherlich-wird-dieser-neue-Stamm-auch-nach-Deutschland-kommen.html) (DIE WELT)
-
 ## 24-34 (meningitis)
 
 - [Pharmacist pleads no contest to involuntary manslaughter in Michigan deaths from meningitis outbreak](https://abcnews.go.com/Business/wireStory/pharmacist-pleads-contest-involuntary-manslaughter-michigan-deaths-meningitis-113072407) (ABC News)
@@ -4039,8 +4077,6 @@ Source: [News API](https://newsapi.org/)
 - [Pharmacist blamed for deaths in US meningitis outbreak expected to plead no contest in Michigan case](https://abcnews.go.com/US/wireStory/pharmacist-blamed-deaths-us-meningitis-outbreak-expected-plead-113059673) (ABC News)
 
 - [Press release: Students urged to protect themselves from deadly meningitis](https://www.gov.uk/government/news/students-urged-to-protect-themselves-from-deadly-meningitis) (Www.gov.uk)
-
-- [Meningitis B: Only 2 provinces cover vaccine for students](https://www.ctvnews.ca/health/provinces-urged-to-offer-students-free-vaccines-for-rare-but-deadly-meningitis-strain-1.7004139) (Ctvnews.ca)
 
 ## 24-34 (measles)
 
@@ -4109,10 +4145,6 @@ Source: [News API](https://newsapi.org/)
 - [The newest weapon against mosquitoes: computer vision](https://www.gatesnotes.com/Computer-vision-is-helping-fight-malaria) (Gatesnotes.com)
 
 - [Australian 'Trojan horse' trial uses cholesterol to trick malaria parasites into consuming fatal drugs](https://www.abc.net.au/news/2024-08-19/university-research-cholesterol-targets-malaria-parasites/104239214) (ABC News (AU))
-
-- [UN and partners report acute malnutrition surge in Government-controlled areas of Yemen](https://news.un.org/en/story/2024/08/1153316) (UN News)
-
-- [To år gamle Kia er blant dei første i verda som får dødsviktig vaksine](https://www.nrk.no/urix/babyar-i-kamerun-forst-ut-med-vaksine-som-kan-redde-millionar-av-liv-1.16965469) (NRK)
 
 ## 24-34 (leptospirosis)
 
@@ -4254,20 +4286,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Bacolod: Dengue cases in Negros Occidental up 94%](https://rpnradio.com/bacolod-dengue-cases-in-negros-occidental-up-94/) (Rpnradio.com)
 
-- [Sepultan en Nayarit a Aylin Milagros, la niña de 8 años cuyo cuerpo fue retenido por un hospital](https://www.elfinanciero.com.mx/estados/2024/08/18/sepultan-en-nayarit-a-aylin-milagros-la-nina-de-8-anos-cuyo-cuerpo-fue-retenido-por-un-hospital/) (El Financiero)
-
-- [Un caso di Dengue nel centro di Padova, scatta disinfestazione](https://www.ansa.it/veneto/notizie/2024/08/18/un-caso-di-dengue-nel-centro-di-padova-scatta-disinfestazione_7e1ba774-6b54-412c-bc70-95f4e7545380.html) (ANSA.it)
-
-- [Experts: Spike in dengue cases due to weather](https://www.thestar.com.my/news/nation/2024/08/19/experts-spike-in-dengue-cases-due-to-weather) (The Star Online)
-
-- [5 Zika Virus Cases Detected In Bengaluru: Karnataka Health Minister](https://www.ndtv.com/india-news/5-zika-virus-cases-detected-in-bengaluru-karnataka-health-minister-6365630) (NDTV News)
-
-- [World Mosquito Day](https://www.thehindubusinessline.com/specials/pulse/world-mosquito-day/article68539346.ece) (BusinessLine)
-
-- [Union minister Jual Oram's wife Jhingia Oram dies of dengue](https://timesofindia.indiatimes.com/india/union-minister-jual-orams-wife-jhingia-oram-dies-of-dengue/articleshow/112604468.cms) (The Times of India)
-
-- [Union minister Jual Oram's wife Jhingia Oram dies of dengue](https://economictimes.indiatimes.com/news/india/union-minister-jual-orams-wife-jhingia-oram-dies-of-dengue/articleshow/112604176.cms) (The Times of India)
-
 ## 24-34 (chikungunya)
 
 - [Susceptibility status of Aedes aegypti (Diptera: Culicidae) to public health insecticides in Southern Afar Region, Ethiopia](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0309335) (Plos.org)
@@ -4287,5 +4305,3 @@ Source: [News API](https://newsapi.org/)
 - [World Mosquito Day: Date, Theme, History And Significance](https://www.ndtv.com/offbeat/world-mosquito-day-date-theme-history-and-significance-6374914) (NDTV News)
 
 - [Febre oropouche pode provocar sintomas nos olhos. Saiba quais](https://www.metropoles.com/saude/febre-oropouche-sintoma-nos-olhos) (Metropoles.com)
-
-- [World Mosquito Day](https://www.thehindubusinessline.com/specials/pulse/world-mosquito-day/article68539346.ece) (BusinessLine)
