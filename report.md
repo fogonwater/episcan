@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 36
-- **Last harvest:** 2024-10-03 19:05
-- **Most recent article:** 2024-10-02 19:00:09
+- **New articles in last harvest:** 20
+- **Last harvest:** 2024-10-04 07:06
+- **Most recent article:** 2024-10-03 07:04:20
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-34 | 24-35 | 24-36 | 24-37 | 24-38 | 24-39 | 24-40 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 201 | 207 | 184 | 192 | 140 | 122 | 26 | 1072 |
-| dengue | 56 | 45 | 49 | 76 | 73 | 49 | 20 | 368 |
-| h5n1 | 5 | 10 | 31 | 10 | 17 | 35 | 22 | 130 |
-| malaria | 25 | 28 | 14 | 12 | 15 | 24 | 6 | 124 |
-| rabies | 5 | 3 | 7 | 5 | 13 | 25 | 13 | 71 |
-| measles | 7 | 11 | 9 | 5 | 8 | 4 | 3 | 47 |
-| meningitis | 10 | 5 | 6 | 3 | 10 | 6 | 3 | 43 |
-| zika | 15 | 2 | 6 | 10 | 8 | 1 | 1 | 43 |
-| chikungunya | 9 | 1 | 5 | 13 | 9 | 3 | 1 | 41 |
+| mpox | 208 | 207 | 184 | 192 | 140 | 122 | 27 | 1080 |
+| dengue | 63 | 45 | 49 | 76 | 73 | 49 | 25 | 380 |
+| h5n1 | 5 | 10 | 31 | 10 | 17 | 35 | 31 | 139 |
+| malaria | 27 | 28 | 14 | 12 | 15 | 24 | 6 | 126 |
+| rabies | 5 | 3 | 7 | 5 | 13 | 25 | 15 | 73 |
+| zika | 21 | 2 | 6 | 10 | 8 | 1 | 1 | 49 |
+| measles | 7 | 11 | 9 | 5 | 8 | 4 | 4 | 48 |
+| meningitis | 11 | 5 | 6 | 3 | 10 | 6 | 5 | 46 |
+| chikungunya | 10 | 1 | 5 | 13 | 9 | 3 | 1 | 42 |
 | pertussis | 5 | 2 | 1 | 5 | 3 | 3 | 1 | 20 |
 | leptospirosis | 4 | 0 | 1 | 0 | 1 | 5 | 4 | 15 |
 | typhoid | 2 | 1 | 1 | 0 | 0 | 4 | 0 | 8 |
@@ -37,6 +37,10 @@ Source: [News API](https://newsapi.org/)
 - [63-yr-old Dadar woman city’s first Zika case; 130 in state in 3 years](https://timesofindia.indiatimes.com/city/mumbai/mumbai-reports-first-zika-case-63-year-old-dadar-woman-states-130th-case-since-outbreak/articleshow/113860840.cms) (The Times of India)
 
 ## 24-40 (rabies)
+
+- [Concern for public safety after bat with rabies found in Pioneer Park](https://ksltv.com/688784/concern-for-public-safety-after-bat-with-rabies-found-in-pioneer-park/) (ksltv.com)
+
+- [Health concerns after people handle rabid bat in Pioneer Park](https://www.fox13now.com/news/local-news/northern-utah/concern-after-people-handled-bat-that-tested-positive-for-rabies-in-pioneer-park) (fox13now.com)
 
 - [Health officials: 2 pet dogs fight off rabid raccoon in East Brunswick](https://newjersey.news12.com/health-officials-2-pet-dogs-fight-off-rabid-raccoon-in-east-brunswick) (News12.com)
 
@@ -69,6 +73,8 @@ Source: [News API](https://newsapi.org/)
 - [Seroprevalence of Bordetella pertussis infection in children 1–14 years old: Indonesia basic health research (Riskesdas) 2013 and 2018 data](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0311362) (Plos.org)
 
 ## 24-40 (mpox)
+
+- [NSW Health urges people at risk of mpox to get vaccinated](https://www.news.com.au/lifestyle/health/health-problems/nsw-health-urges-people-at-risk-of-mpox-to-get-vaccinated/news-story/576a85287a1869deb922441e2188519a) (News.com.au)
 
 - [Kenyans Worried as Ministry of Health Confirms 9th Case of Mpox in Nakuru](https://www.tuko.co.ke/people/564246-kenyans-worried-moh-confirms-9th-case-mpox-nakuru/) (Breaking NEWS in KENYA for Today Right Now & Kenyan News | TUKO)
 
@@ -124,6 +130,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-40 (meningitis)
 
+- [World Meningitis Day: How Early Detection And Vaccination Can Save Lives](https://doctor.ndtv.com/living-healthy/world-meningitis-day-how-early-detection-and-vaccination-can-save-lives-6705684) (NDTV News)
+
+- [Tragedy drives mother's mission to spread the message about importance of the meningitis vaccine](https://www.wwltv.com/article/news/health/tragedy-drives-mothers-mission-to-spread-the-message-about-importance-of-the-meningitis-vaccine/289-3a09d9f0-0c25-4848-ba61-e41c88c36096) (WWLTV.com)
+
 - [Māori infants still at greatest risk of meningitis - new ESR data](https://www.nzherald.co.nz/kahu/maori-infants-still-at-greatest-risk-of-meningitis-new-esr-data/OLAWMRPM2ZEQJM55NTYTPDTQTA/) (New Zealand Herald)
 
 - [How did the High Court case between UHL surgeon and HSE come about?](https://www.irishtimes.com/health/2024/10/02/how-did-the-high-court-case-between-uhl-surgeon-and-hse-come-about/) (The Irish Times)
@@ -131,6 +141,8 @@ Source: [News API](https://newsapi.org/)
 - [Electroencephalography in emerging viral infections: Lessons learned from implementing an EEG unit in a Lassa fever isolation ward in Nigeria](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012522) (Plos.org)
 
 ## 24-40 (measles)
+
+- [US school-entry vaccination rates fall as exemptions keep rising](https://www.seattlepi.com/news/article/us-school-entry-vaccination-rates-fall-as-19811517.php) (seattlepi.com)
 
 - [Ministry of Heath enhancing One Health approach urging public to seriously maintain personal hygiene](https://www.nyasatimes.com/ministry-of-heath-enhancing-one-health-approach-urging-public-to-seriously-maintain-personal-hygiene/) (Nyasa Times)
 
@@ -163,6 +175,24 @@ Source: [News API](https://newsapi.org/)
 - [​What is Leptospirosis: Do’s and dont’s you need to follow​](https://m.economictimes.com/news/india/what-is-leptospirosis-dos-and-donts-you-need-to-follow/what-is-leptospirosisnbsp/slideshow/113780508.cms) (Economictimes.com)
 
 ## 24-40 (h5n1)
+
+- [Βιετνάμ: Δεκάδες τίγρεις και λιοντάρια σε αιχμαλωσία πέθαναν στη χώρα, εντοπίσθηκε γρίπη των πτηνών](https://www.protothema.gr/world/article/1547241/vietnam-dekades-tigreis-kai-liodaria-se-aihmalosia-pethanan-sti-hora-edopisthike-gripi-ton-ptinon/) (Protothema.gr)
+
+- [Δεκάδες τίγρεις και λιοντάρια νεκρά σε πάρκα του Βιετνάμ από την γρίπη των πτηνών - Eίχαν ταϊστεί με μολυσμένα κρέατα](https://www.skai.gr/news/environment/gripi-ton-ptinon-dekades-tigreis-kai-liontaria-nekra-se-parka-tou-vietnam) (Skai.gr)
+
+- [Utbrott av fågelinfluensa dödade 47 tigrar i Vietnam](https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1294742) (Aftonbladet.se)
+
+- [Ve vietnamských zoo řádí ptačí chřipka. Podlehlo tam na ni 47 tygrů, lvi i levhart](https://www.idnes.cz/zpravy/zahranicni/ptaci-chriplka-zoo-lev-tygr-levhart-vietnam-zdravi-zvire.A241003_064408_zahranicni_ikro) (Idnes.cz)
+
+- [Vụ hổ chết hàng loạt: Mẫu bệnh phẩn dương tính với virus A/H5N1](https://kevesko.vn/20241003/vu-ho-chet-hang-loat-mau-benh-phan-duong-tinh-voi-virus-ah5n1-32175490.html) (Kevesko.vn)
+
+- [Bird flu kills 47 tigers, 3 lions and a panther in Vietnam zoos, state media reports](https://www.foxnews.com/health/bird-flu-kills-47-tigers-3-lions-panther-vietnam-zoos-state-media-reports) (Fox News)
+
+- [Influenza A(H5N1) Virus Resilience in Milk after Thermal Inactivation](https://wwwnc.cdc.gov/eid/article/30/11/24-0772_article) (Cdc.gov)
+
+- [Kuş gribi nedeniyle 47 kaplan öldü](https://www.haberturk.com/kus-gribi-nedeniyle-47-kaplan-oldu-3725207) (Haberturk.com)
+
+- [CDC testing of Missouri's bird flu case hits obstacles, delaying answers](https://www.statnews.com/2024/10/02/missouri-bird-flu-virus-transmission-concerns/) (STAT)
 
 - [Sebep kuş gribi: 47 kaplan, 3 aslan ve 1 panter öldü](https://anlatilaninotesi.com.tr/20241002/sebep-kus-gribi-47-kaplan-3-aslan-ve-1-panter-oldu-1088737479.html) (Anlatilaninotesi.com.tr)
 
@@ -209,6 +239,16 @@ Source: [News API](https://newsapi.org/)
 - [The “Cluster” of Possible Human Bird Flu Infections Has Expanded to 8](https://www.shtfplan.com/headline-news/the-cluster-of-possible-human-bird-flu-infections-has-expanded-to-8) (Shtfplan.com)
 
 ## 24-40 (dengue)
+
+- [Talianske mesto Fano zápasí s horúčkou dengue. Situácia sa vymkla spod kontroly, varujú vedci](https://spravy.pravda.sk/svet/clanok/725972-talianske-mesto-fano-zapasi-s-horuckou-dengue-situacia-sa-vymkla-spod-kontroly-varuju-vedci/) (Pravda.sk)
+
+- [Italian coastal town grapples with ‘out of control’ number of dengue cases](https://www.euractiv.com/section/health-consumers/news/italian-coastal-town-grapples-with-out-of-control-number-of-dengue-cases/) (EURACTIV)
+
+- [Why having a cup of papaya leaf water thrice a week is recommended](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/why-having-a-cup-of-papaya-leaf-water-thrice-a-week-is-recommended/articleshow/113890650.cms) (The Times of India)
+
+- [Wolbachia mosquitoes to be released at 5 new sites in Singapore to tackle dengue](https://www.channelnewsasia.com/singapore/wolbachia-aedes-mosquitoes-5-new-locations-release-nea-4654751) (CNA)
+
+- [Com baixa procura, Campinas reforça importância de esquema completo da vacina contra dengue](https://g1.globo.com/sp/campinas-regiao/noticia/2024/10/02/com-baixa-procura-campinas-reforca-importancia-de-esquema-completo-da-vacina-contra-dengue.ghtml) (Globo)
 
 - [Cidade italiana enfrenta dezenas de casos de dengue desde meados de agosto](https://www.terra.com.br/noticias/mundo/cidade-italiana-enfrenta-dezenas-de-casos-de-dengue-desde-meados-de-agosto,4e83d1aa509669fd252ce286e756d1dfz1yepfbr.html) (Terra.com.br)
 
@@ -3514,6 +3554,18 @@ Source: [News API](https://newsapi.org/)
 
 - [2 pregnant women, 4 others test positive for Zika in B’luru](https://timesofindia.indiatimes.com/city/bengaluru/zika-virus-cases-in-bengaluru/articleshow/112614294.cms) (The Times of India)
 
+- [Paris organizers aim to emulate success of London 2012 as 'normalcy' returns to Paralympics](https://www.cbc.ca/sports/paralympics/paris-paralympics-preview-aug-18-1.7292995) (CBC News)
+
+- [5 Zika Virus Cases Detected In Bengaluru: Karnataka Health Minister](https://www.ndtv.com/india-news/5-zika-virus-cases-detected-in-bengaluru-karnataka-health-minister-6365630) (NDTV News)
+
+- [Five Zika virus cases detected in Bengaluru](https://statetimes.in/five-zika-virus-cases-detected-in-bengaluru/) (Statetimes.in)
+
+- [Five Zika virus cases detected in Bengaluru](https://economictimes.indiatimes.com/news/india/five-zika-virus-cases-detected-in-bengaluru/articleshow/112609156.cms) (The Times of India)
+
+- [Five Zika virus cases detected in Bengaluru](https://timesofindia.indiatimes.com/india/five-zika-virus-cases-detected-in-bengaluru/articleshow/112608623.cms) (The Times of India)
+
+- [Gender surgeries, migraine tips, 'Zika-like' virus and more top health stories](https://www.foxnews.com/health/gender-surgeries-migraine-tips-zika-like-virus-top-health-stories) (Fox News)
+
 ## 24-34 (yersinia)
 
 - [RNase-mediated reprogramming of Yersinia virulence](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011965) (Plos.org)
@@ -3952,6 +4004,20 @@ Source: [News API](https://newsapi.org/)
 
 - [Implementa China protocolos contra mpox](https://www.reforma.com/implementa-china-protocolos-contra-mpox/ar2859001) (Reforma.com)
 
+- [Mpox, l’infettivologo Cauda (Gemelli): “Vaiolo delle scimmie? Non siamo alla vigilia del Covid, la trasmissione è diversa e c’è un vaccino”](https://www.ilfattoquotidiano.it/2024/08/18/mpox-linfettivologo-cauda-gemelli-vaiolo-delle-scimmie-non-siamo-alla-vigilia-del-covid-la-trasmissione-e-diversa-e-ce-un-vaccino/7661627/) (Ilfattoquotidiano.it)
+
+- [Mpox : un risque d’infection «faible» pour la France](https://www.liberation.fr/societe/sante/mpox-un-risque-dinfection-faible-pour-la-france-20240818_3OWZ7QYGAVDYHH56R42MHSOWAU/) (Libération)
+
+- [„Es gibt eigentlich zwei Ausbrüche“](https://www.welt.de/wissenschaft/plus253044222/Mpox-Es-gibt-eigentlich-zwei-Ausbrueche.html) (DIE WELT)
+
+- [Quais foram as últimas emergências em saúde decretadas pela OMS?](https://olhardigital.com.br/2024/08/18/medicina-e-saude/quais-foram-as-ultimas-emergencias-em-saude-decretadas-pela-oms/) (Olhardigital.com.br)
+
+- [Gisslén om trippelsmockan – kikhosta och covid ökar samtidigt som Sverige fått mpox-fall](https://www.aftonbladet.se/nyheter/a/gwdG8a/kikhosta-och-covid-okar-kraftigt-i-sverige-nu-kommer-mpox) (Aftonbladet.se)
+
+- [AfD, Mpox und der Leipziger CSD: Finstere Zeiten](https://taz.de/AfD-Mpox-und-der-Leipziger-CSD/!6027911/) (taz.de)
+
+- [„Sicherlich wird dieser neue Stamm auch nach Deutschland kommen“](https://www.welt.de/wissenschaft/video253065172/Neue-Affenpocken-Variante-Sicherlich-wird-dieser-neue-Stamm-auch-nach-Deutschland-kommen.html) (DIE WELT)
+
 ## 24-34 (meningitis)
 
 - [Pharmacist pleads no contest to involuntary manslaughter in Michigan deaths from meningitis outbreak](https://abcnews.go.com/Business/wireStory/pharmacist-pleads-contest-involuntary-manslaughter-michigan-deaths-meningitis-113072407) (ABC News)
@@ -3973,6 +4039,8 @@ Source: [News API](https://newsapi.org/)
 - [Pharmacist blamed for deaths in US meningitis outbreak expected to plead no contest in Michigan case](https://abcnews.go.com/US/wireStory/pharmacist-blamed-deaths-us-meningitis-outbreak-expected-plead-113059673) (ABC News)
 
 - [Press release: Students urged to protect themselves from deadly meningitis](https://www.gov.uk/government/news/students-urged-to-protect-themselves-from-deadly-meningitis) (Www.gov.uk)
+
+- [Meningitis B: Only 2 provinces cover vaccine for students](https://www.ctvnews.ca/health/provinces-urged-to-offer-students-free-vaccines-for-rare-but-deadly-meningitis-strain-1.7004139) (Ctvnews.ca)
 
 ## 24-34 (measles)
 
@@ -4041,6 +4109,10 @@ Source: [News API](https://newsapi.org/)
 - [The newest weapon against mosquitoes: computer vision](https://www.gatesnotes.com/Computer-vision-is-helping-fight-malaria) (Gatesnotes.com)
 
 - [Australian 'Trojan horse' trial uses cholesterol to trick malaria parasites into consuming fatal drugs](https://www.abc.net.au/news/2024-08-19/university-research-cholesterol-targets-malaria-parasites/104239214) (ABC News (AU))
+
+- [UN and partners report acute malnutrition surge in Government-controlled areas of Yemen](https://news.un.org/en/story/2024/08/1153316) (UN News)
+
+- [To år gamle Kia er blant dei første i verda som får dødsviktig vaksine](https://www.nrk.no/urix/babyar-i-kamerun-forst-ut-med-vaksine-som-kan-redde-millionar-av-liv-1.16965469) (NRK)
 
 ## 24-34 (leptospirosis)
 
@@ -4182,6 +4254,20 @@ Source: [News API](https://newsapi.org/)
 
 - [Bacolod: Dengue cases in Negros Occidental up 94%](https://rpnradio.com/bacolod-dengue-cases-in-negros-occidental-up-94/) (Rpnradio.com)
 
+- [Sepultan en Nayarit a Aylin Milagros, la niña de 8 años cuyo cuerpo fue retenido por un hospital](https://www.elfinanciero.com.mx/estados/2024/08/18/sepultan-en-nayarit-a-aylin-milagros-la-nina-de-8-anos-cuyo-cuerpo-fue-retenido-por-un-hospital/) (El Financiero)
+
+- [Un caso di Dengue nel centro di Padova, scatta disinfestazione](https://www.ansa.it/veneto/notizie/2024/08/18/un-caso-di-dengue-nel-centro-di-padova-scatta-disinfestazione_7e1ba774-6b54-412c-bc70-95f4e7545380.html) (ANSA.it)
+
+- [Experts: Spike in dengue cases due to weather](https://www.thestar.com.my/news/nation/2024/08/19/experts-spike-in-dengue-cases-due-to-weather) (The Star Online)
+
+- [5 Zika Virus Cases Detected In Bengaluru: Karnataka Health Minister](https://www.ndtv.com/india-news/5-zika-virus-cases-detected-in-bengaluru-karnataka-health-minister-6365630) (NDTV News)
+
+- [World Mosquito Day](https://www.thehindubusinessline.com/specials/pulse/world-mosquito-day/article68539346.ece) (BusinessLine)
+
+- [Union minister Jual Oram's wife Jhingia Oram dies of dengue](https://timesofindia.indiatimes.com/india/union-minister-jual-orams-wife-jhingia-oram-dies-of-dengue/articleshow/112604468.cms) (The Times of India)
+
+- [Union minister Jual Oram's wife Jhingia Oram dies of dengue](https://economictimes.indiatimes.com/news/india/union-minister-jual-orams-wife-jhingia-oram-dies-of-dengue/articleshow/112604176.cms) (The Times of India)
+
 ## 24-34 (chikungunya)
 
 - [Susceptibility status of Aedes aegypti (Diptera: Culicidae) to public health insecticides in Southern Afar Region, Ethiopia](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0309335) (Plos.org)
@@ -4201,3 +4287,5 @@ Source: [News API](https://newsapi.org/)
 - [World Mosquito Day: Date, Theme, History And Significance](https://www.ndtv.com/offbeat/world-mosquito-day-date-theme-history-and-significance-6374914) (NDTV News)
 
 - [Febre oropouche pode provocar sintomas nos olhos. Saiba quais](https://www.metropoles.com/saude/febre-oropouche-sintoma-nos-olhos) (Metropoles.com)
+
+- [World Mosquito Day](https://www.thehindubusinessline.com/specials/pulse/world-mosquito-day/article68539346.ece) (BusinessLine)
