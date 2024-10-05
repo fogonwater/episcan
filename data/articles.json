@@ -1,8 +1,910 @@
 {
-  "last_updated": "2024-10-05 07:06",
-  "count_articles_total": 2012,
-  "count_articles_new": 35,
+  "last_updated": "2024-10-05 19:06",
+  "count_articles_total": 2040,
+  "count_articles_new": 50,
   "articles": [
+    {
+      "id": 14297,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": null,
+      "title": "Canadian child dies from rabies after bat found in bedroom",
+      "description": "It marks the first domestically-acquired case of human rabies in Ontario since 1967.",
+      "url": "https://www.bbc.com/news/articles/cvgxjnldqvdo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9036/live/c1a59840-827e-11ef-bfcc-6588d73ec657.jpg",
+      "publishedAt": "2024-10-04 19:03:37",
+      "content": "A child in the Canadian province of Ontario has died from rabies after being exposed to a bat in their bedroom, Canadian health officials have said. The death was made public by Dr Malcolm Lock of t\u2026 [+2520 chars]",
+      "retrievedAt": "2024-10-05 19:05:57.634747",
+      "internal_id": "c5d3806ab8e8b8ebc61317dbec3d3607259ed16f9b9a928104f99195b5e233df",
+      "publishedAtLabel": "Oct 4"
+    },
+    {
+      "id": 14300,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Shtfplan.com",
+      "author": "Mac Slavo",
+      "title": "Medical Tyranny: Officials Tried To Hide The Fact That The MMR Vaccine Caused Maine\u2019s Only Case of Measles",
+      "description": "The obvious medical tyranny the United States is under is getting worse. Health officials in Maine attempted to hide the fact that the state's only measles case was directly caused by getting an MMR (measles, mumps, rubella) vaccine.",
+      "url": "https://www.shtfplan.com/headline-news/medical-tyranny-officials-tried-to-hide-the-fact-that-the-mmr-vaccine-caused-maines-only-case-of-measles",
+      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2023/01/mmrvaccine.jpg",
+      "publishedAt": "2024-10-04 17:30:20",
+      "content": "The obvious medical tyranny the United States is under is getting worse. Health officials in Maine attempted to hide the fact that the state\u2019s only measles case was directly caused by getting an MMR \u2026 [+3257 chars]",
+      "retrievedAt": "2024-10-05 19:05:57.976498",
+      "internal_id": "151c6dc721a2248b5654e0f11f9d49f855d3f9520bf4dfecc52f25dc26422b1f",
+      "publishedAtLabel": "Oct 4"
+    },
+    {
+      "id": 14332,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Portfolio.hu",
+      "author": "Portfolio.hu",
+      "title": "Megj\u00f6tt az \u00faj majomhiml\u0151-teszt",
+      "description": "Az ENSZ Eg\u00e9szs\u00e9g\u00fcgyi Vil\u00e1gszervezete (WHO) j\u00f3v\u00e1hagyta az els\u0151 diagnosztikai tesztet az mpox (kor\u00e1bban majomhiml\u0151) v\u00edrus kimutat\u00e1s\u00e1ra. A teszt lehet\u0151v\u00e9 teszi a gyorsabb \u00e9s pontosabb diagn\u00f3zist, ami kulcsfontoss\u00e1g\u00fa lehet a j\u00e1rv\u00e1ny terjed\u00e9s\u00e9nek megf\u00e9kez\u00e9s\u00e9ben, k\u2026",
+      "url": "https://www.portfolio.hu/global/20241004/megjott-az-uj-majomhimlo-teszt-714581",
+      "urlToImage": "https://pcdn.hu/articles/images-md/7/0/3/703807.jpg",
+      "publishedAt": "2024-10-04 17:09:00",
+      "content": "A WHO p\u00e9nteken jelentette be az \u00faj teszt j\u00f3v\u00e1hagy\u00e1s\u00e1t, amely \"s\u00fcrgss\u00e9gi haszn\u00e1latra\" k\u00e9sz\u00fclt. A szervezet k\u00f6zlem\u00e9nye szerint ez \"kulcsfontoss\u00e1g\u00fa lesz a diagnosztikai kapacit\u00e1s bv\u00edt\u00e9s\u00e9ben az mpox-j\u00e1rv\u2026 [+1123 chars]",
+      "retrievedAt": "2024-10-05 19:06:01.150964",
+      "internal_id": "370cd074b149bf32bae623d38ca2845346f06aee162e90e34ea367722bc38e37",
+      "publishedAtLabel": "Oct 4"
+    },
+    {
+      "id": 14301,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Agency Report",
+      "title": "Enugu to immunise 942,707 children in measles vaccination campaign",
+      "description": "The Enugu State Primary Health Care Development Agency said it is targeting to vaccinate 942,707 children in the 2024 Integrated Measles Campaign. The State Health Educator, ESPHC, Dr Chinyere Chime, gave the statistics at the Zonal Meeting ahead of the 2024 \u2026",
+      "url": "https://punchng.com/enugu-to-immunise-942707-children-in-measles-vaccination-campaign/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2021/10/22062340/Map-of-Enugu-State.jpg",
+      "publishedAt": "2024-10-04 17:07:19",
+      "content": "The Enugu State Primary Health Care Development Agency said it is targeting to vaccinate 942,707 children in the 2024 Integrated Measles Campaign. The State Health Educator, ESPHC, Dr Chinyere Chime\u2026 [+1635 chars]",
+      "retrievedAt": "2024-10-05 19:05:57.982510",
+      "internal_id": "4d44f0dc713ac0880179c32d2670cbd315c6e5a26680725d5a4bd53b3453a317",
+      "publishedAtLabel": "Oct 4"
+    },
+    {
+      "id": 14299,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Jess Thomson",
+      "title": "Child Dies of Rabies After Bat Broke Into Bedroom",
+      "description": "In Ontario, it was the first time someone has died from rabies since the 1960s.",
+      "url": "https://www.newsweek.com/child-dies-rabies-ontario-canada-bat-bite-1964007",
+      "urlToImage": "https://d.newsweek.com/en/full/2487741/rabies-bat.jpg",
+      "publishedAt": "2024-10-04 16:47:04",
+      "content": "A child in Canada has died after contracting rabies from a bat that found its way into the youngster's bedroom. The child, who lived with family in the Brantford region of Ontario, died after being \u2026 [+4284 chars]",
+      "retrievedAt": "2024-10-05 19:05:57.670640",
+      "internal_id": "7116e58734427f05696fff3e42a1c929449943c392edf3d44d601df3354670d7",
+      "publishedAtLabel": "Oct 4"
+    },
+    {
+      "id": 14328,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Forbes.com.mx",
+      "author": "Forbes Staff",
+      "title": "OMS da luz verde a una prueba diagn\u00f3stica de emergencia para la detecci\u00f3n del mpox",
+      "description": "Forbes M\u00e9xico. OMS da luz verde a una prueba diagn\u00f3stica de emergencia para la detecci\u00f3n del mpox Se trata de la prueba de diagn\u00f3stico in vitro Alinity m MPXV Assay capaz de detectar el mpox en el ADN extra\u00eddo de muestras de erupciones pustulosas o vesicula\u2026",
+      "url": "https://www.forbes.com.mx/oms-da-luz-verde-a-una-prueba-diagnostica-de-emergencia-para-la-deteccion-del-mpox/",
+      "urlToImage": "https://cdn.forbes.com.mx/2024/08/mpox.webp",
+      "publishedAt": "2024-10-04 16:42:22",
+      "content": "La Organizaci\u00f3n Mundial de la Salud (OMS) aprob\u00f3 este viernes el uso de emergencia de un test de diagn\u00f3stico del mpox (viruela s\u00edmica), que permite detectar el virus en tiempo real a partir de muestr\u2026 [+2084 chars]",
+      "retrievedAt": "2024-10-05 19:06:01.119975",
+      "internal_id": "e650df1ccf22b200c01ddb031db361bd9deffdfd37e20c14939d59816edd2ce2",
+      "publishedAtLabel": "Oct 4"
+    },
+    {
+      "id": 14341,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Denis Elamu, Lin Jing",
+      "title": "Africa CDC donates equipment to boost mpox immunization in South Sudan",
+      "description": "JUBA, Oct. 4 (Xinhua) -- The Africa Centers for Disease Control and Prevention (Africa CDC) on Friday donated cold chain equipment to South Sudan's Ministry of Health to strengthen the country's vaccine storage capacity and routine immunization efforts amid t\u2026",
+      "url": "https://www.thestar.com.my/news/world/2024/10/05/africa-cdc-donates-equipment-to-boost-mpox-immunization-in-south-sudan",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2024-10-04 16:39:00",
+      "content": "JUBA, Oct. 4 (Xinhua) -- The Africa Centers for Disease Control and Prevention (Africa CDC) on Friday donated cold chain equipment to South Sudan's Ministry of Health to strengthen the country's vacc\u2026 [+1210 chars]",
+      "retrievedAt": "2024-10-05 19:06:01.256565",
+      "internal_id": "73d8cd915a629d4985ab77b4cad352a2999ab31a731a9bef05b8d9a75e7e5a4e",
+      "publishedAtLabel": "Oct 4"
+    },
+    {
+      "id": 14321,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "al-jazeera-english",
+      "source_name": "Al Jazeera English",
+      "author": "Al Jazeera",
+      "title": "WHO approves first mpox test for faster diagnoses",
+      "description": "The 'real time PCR test' will enable the detection of the virus by swabbing human skin lesions.",
+      "url": "https://www.aljazeera.com/news/2024/10/4/who-approves-first-mpox-test-for-faster-diagnoses",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/10/2024-09-26T164616Z_52464394_RC2K0W9UPHUH_RTRMADP_3_HEALTH-MPOX-BUDGET-1728050208.jpg?resize=1920%2C1440",
+      "publishedAt": "2024-10-04 16:21:53",
+      "content": "The World Health Organization (WHO) has approved the use of the first diagnostic test for mpox that will provide immediate results. This will increase testing capabilities in countries facing outbrea\u2026 [+2834 chars]",
+      "retrievedAt": "2024-10-05 19:06:01.016650",
+      "internal_id": "c68d133e2d2369175f85b01b2f6cec6b0124d52185c186287c1f8c23385ef28f",
+      "publishedAtLabel": "Oct 4"
+    },
+    {
+      "id": 14305,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Mark Fielder, Professor of Medical Microbiology, Kingston University",
+      "title": "Bird flu patient had no apparent contact with animals \u2013 and there\u2019s still no evidence of sustained human-to-human spread",
+      "description": "H5N1 isn\u2019t well adapted to humans, so person-to-person spread is not a worry \u2013 for now.",
+      "url": "https://theconversation.com/bird-flu-patient-had-no-apparent-contact-with-animals-and-theres-still-no-evidence-of-sustained-human-to-human-spread-239670",
+      "urlToImage": "https://images.theconversation.com/files/623155/original/file-20241002-20-7ncdkm.jpg?ixlib=rb-4.1.0&rect=0%2C539%2C3960%2C1980&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2024-10-04 16:16:00",
+      "content": "Six healthcare workers in the US who were in close contact with a patient known to have bird flu developed mild respiratory symptoms, according to the US Centers for Disease Control and Prevention (C\u2026 [+4189 chars]",
+      "retrievedAt": "2024-10-05 19:05:58.659380",
+      "internal_id": "bfd87163a228379ce5b7e85ab7e0368e886a6b7a44073f5a2f431bab457377c9",
+      "publishedAtLabel": "Oct 4"
+    },
+    {
+      "id": 14307,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Iasexamportal.com",
+      "author": "trainee5",
+      "title": "(GIST OF SCIENCE REPORTER) Messenger Ribonucleic Acid",
+      "description": "(GIST OF SCIENCE REPORTER) Messenger Ribonucleic Acid",
+      "url": "https://iasexamportal.com/the-gist/science-reporter-messenger-ribonucleic-acid",
+      "urlToImage": null,
+      "publishedAt": "2024-10-04 16:03:09",
+      "content": "According to the WHO, between 2003 and April 1, 2024, close to 900 human infections of H5N1 have been reported from 23 countries, of which, more than half were fatal. For the first time, three cases \u2026 [+221 chars]",
+      "retrievedAt": "2024-10-05 19:05:58.688347",
+      "internal_id": "73c04b8d35dd461b043e83e31fb5916885f48856806613024b4eb63cb0c8581a",
+      "publishedAtLabel": "Oct 4"
+    },
+    {
+      "id": 14342,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "OMS aprova primeiro teste para diagnosticar mpox",
+      "description": "O produto deve ajudar a controlar a dissemina\u00e7\u00e3o do v\u00edrus em pa\u00edses que enfrentam surtos da doen\u00e7a",
+      "url": "https://valor.globo.com/mundo/noticia/2024/10/04/oms-aprova-primeiro-teste-para-diagnosticar-mpox.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/HVs_FBXV3ivbW3SRj7UHy4kiCn8=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2024/X/r/faLeIZQmK1YQIWaNdveg/ap24214003005792.jpg",
+      "publishedAt": "2024-10-04 15:35:08",
+      "content": "A Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS) aprovou o uso emergencial do primeiro teste de mpox. O produto deve ajudar a controlar a dissemina\u00e7\u00e3o do v\u00edrus em pa\u00edses que enfrentam surtos da doen\u00e7a. O diagn\u00f3s\u2026 [+1394 chars]",
+      "retrievedAt": "2024-10-05 19:06:01.267221",
+      "internal_id": "729370fd40e45d0731d48d4a7a2fab27e941b5c64bcb7e21cff58420e3266328",
+      "publishedAtLabel": "Oct 4"
+    },
+    {
+      "id": 14306,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Tom Howarth",
+      "title": "First Human Cases of Bird Flu in California Confirmed",
+      "description": "Two individuals have been diagnosed after separate exposures to infected dairy cows, raising the nationwide total of human cases to 16.",
+      "url": "https://www.newsweek.com/first-human-cases-bird-flu-h5n1-confirmed-california-1963941",
+      "urlToImage": "https://d.newsweek.com/en/full/2487745/bird-flu.png",
+      "publishedAt": "2024-10-04 15:20:47",
+      "content": "The Centers for Disease Control and Prevention (CDC) has confirmed two human cases of H5N1 bird flu in California, marking the state's first human infections amid an ongoing outbreak in dairy herds. \u2026 [+4075 chars]",
+      "retrievedAt": "2024-10-05 19:05:58.682540",
+      "internal_id": "7844396419aa1271250fd62a6421c05ee5af80cfeecca6f7eda053c229637bc5",
+      "publishedAtLabel": "Oct 4"
+    },
+    {
+      "id": 14336,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Deutsche Welle",
+      "title": "OMS aprova primeiro teste para diagnosticar mpox",
+      "description": "OMS diz que teste permitir\u00e1 detectar a doen\u00e7a com maior rapidez e facilidade. Mais de 800 pessoas j\u00e1 morreram de mpox na \u00c1frica",
+      "url": "https://www.metropoles.com/saude/oms-teste-para-diagnosticar-mpox",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/08/20092157/mpox-erupcoes.jpg",
+      "publishedAt": "2024-10-04 15:05:18",
+      "content": "A Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS) confirmou nesta sexta-feira (04/19) a aprova\u00e7\u00e3o para uso emergencial do primeiro teste para diagnosticar a mpox. A aprova\u00e7\u00e3o, segundo nota divulgada pela OMS, \u201cs\u2026 [+2636 chars]",
+      "retrievedAt": "2024-10-05 19:06:01.190372",
+      "internal_id": "48603ca491ae4bff07adf5ac5302625e3e697bbf11f0f7d408bdb6b07ed61371",
+      "publishedAtLabel": "Oct 4"
+    },
+    {
+      "id": 14343,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Deutsche Welle",
+      "title": "OMS aprova primeiro teste para diagnosticar mpox",
+      "description": "Organiza\u00e7\u00e3o Mundial da Sa\u00fade diz que teste permitir\u00e1 detectar a doen\u00e7a com maior rapidez e ...",
+      "url": "https://www.terra.com.br/noticias/oms-aprova-primeiro-teste-para-diagnosticar-mpox,2b5c75d14af6c9e04d64984b6b01c77dsbubc5cp.html",
+      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2024-10-04 14:52:24",
+      "content": "Organiza\u00e7\u00e3o Mundial da Sa\u00fade diz que teste permitir\u00e1 detectar a doen\u00e7a com maior rapidez e facilidade. Mais de 800 pessoas j\u00e1 morreram de mpox na \u00c1frica, com mais de 30 mil casos registrados.A Organi\u2026 [+2695 chars]",
+      "retrievedAt": "2024-10-05 19:06:01.277064",
+      "internal_id": "387aeb905b18942e5ee1dfe23307b24bc432aa99e8dcec9904c30411028b6d3e",
+      "publishedAtLabel": "Oct 4"
+    },
+    {
+      "id": 14310,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "CNBC",
+      "author": null,
+      "title": "J&J discontinues dengue drug study after changes in R&D portfolio",
+      "description": "Johnson & Johnson said it will discontinue a mid-stage field study evaluating the efficacy of its experimental pill for the prevention of dengue.",
+      "url": "https://www.cnbc.com/2024/10/04/jj-discontinues-dengue-drug-study-after-changes-in-rd-portfolio.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107418806-1716406072242-gettyimages-1741330345-mt1_1122_mfazpdip.jpeg?v=1716406161&w=1920&h=1080",
+      "publishedAt": "2024-10-04 14:35:00",
+      "content": "Johnson &amp; Johnson said it will discontinue a mid-stage field study evaluating the efficacy of its experimental pill for the prevention of dengue following a reprioritization of the drugmaker's co\u2026 [+932 chars]",
+      "retrievedAt": "2024-10-05 19:05:59.220971",
+      "internal_id": "210063f6ee1a2d45b189bb5af910276a77b399e28e2a89b5d48357c8d4b67bde",
+      "publishedAtLabel": "Oct 4"
+    },
+    {
+      "id": 14315,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Dengue, nel Fanese 115 casi confermati, un ricoverato a Pesaro",
+      "description": "Nel focolaio di Dengue a Fano (Pesaro Urbino), per il quale \"continua il monitoraggio\", si registrano \"115 casi confermati e 21 casi probabili\". (ANSA)",
+      "url": "https://www.ansa.it/marche/notizie/2024/10/04/dengue-nel-fanese-115-casi-confermati-un-ricoverato-a-pesaro_d90bff8a-e9cd-42f8-a2f3-d38dc0afac8c.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2010/12/6/f6e6529e26d88904932d4013e0b55016.jpg",
+      "publishedAt": "2024-10-04 14:29:30",
+      "content": "Nel focolaio di Dengue a Fano (Pesaro Urbino), per il quale \"continua il monitoraggio\", si registrano \"115 casi confermati e 21 casi probabili\". Lo fa sapere la Regione che riferisce: \"nella giorn\u2026 [+1157 chars]",
+      "retrievedAt": "2024-10-05 19:05:59.329252",
+      "internal_id": "3ac4f0112ef0824ae787eb765608df073981723cb8aa558c25db2b418e4575c4",
+      "publishedAtLabel": "Oct 4"
+    },
+    {
+      "id": 14298,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Ahmad Mukhtar",
+      "title": "Child dies from rabies after bat found in room, officials say",
+      "description": "\"The parents looked, didn't see any signs of a bite or scratches or saliva, and didn't seek getting a rabies vaccine,\" a health official said.",
+      "url": "https://www.cbsnews.com/news/child-dies-bat-rabies-canada/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/10/04/d6c895d0-f4f2-499d-ac7c-8e2358154611/thumbnail/1200x630/e78e2635cefe7fba197729bfcb1ff303/gettyimages-541049356.jpg?v=0736ad3ef1e9ddfe1218648fe91d6c9b",
+      "publishedAt": "2024-10-04 14:19:00",
+      "content": "Minnesota health officials investigating rare rabies death Minnesota health officials investigating rare rabies death00:30 A child in Canada has died from rabies after being exposed to a bat in th\u2026 [+3047 chars]",
+      "retrievedAt": "2024-10-05 19:05:57.660136",
+      "internal_id": "c627130a7d3250f453a6523894194e45ea15a52b848a91e7273cc78749c92d30",
+      "publishedAtLabel": "Oct 4"
+    },
+    {
+      "id": 14314,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Un caso di Dengue a Pesaro, interventi di disinfestazione",
+      "description": "Dopo oltre un centinaio di casi di Dengue registrati in precedenza nella zona di Fano, un caso \u00e8 stato accertato anche a Pesaro. Dopo la segnalazione dell'Azienda sanitaria territoriale al Comune, scatteranno nella notte (dalle 3 alle 4. (ANSA)",
+      "url": "https://www.ansa.it/marche/notizie/2024/10/04/un-caso-di-dengue-a-pesaro-interventi-di-disinfestazione_b054d3c6-6531-49b3-8512-3eb53f5277e2.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2018/6/22/ded9844ee752cd4669ab5a84f8f7412f.jpg",
+      "publishedAt": "2024-10-04 14:02:34",
+      "content": "Dopo oltre un centinaio di casi di Dengue registrati in precedenza nella zona di Fano, un caso \u00e8 stato accertato anche a Pesaro. Dopo la segnalazione dell'Azienda sanitaria territoriale al Comune,\u2026 [+1191 chars]",
+      "retrievedAt": "2024-10-05 19:05:59.323469",
+      "internal_id": "1df5226d4bd13d7c76b03d6e0c3f1b19c25ceab27996edc394b2efcc03510176",
+      "publishedAtLabel": "Oct 4"
+    },
+    {
+      "id": 14346,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Arif Mohammad Tanmoy, Yogesh Hooda, Mohammad Saiful Islam Sajib, Hafizur Rahman, Anik Sarkar, Dipu Das, Nazrul Islam, Naito Kanon, Md. Asadur Rahman, Denise O. Garrett, Hubert P. Endtz, Stephen P. Luby, Mohammod Shahidullah, Md. Ruhul Amin, Jahangir Alam, Mohammed Hanif, Samir K. Saha, Senjuti Saha",
+      "title": "Trends in antimicrobial resistance amongst Salmonella Typhi in Bangladesh: A 24-year retrospective observational study (1999\u20132022)",
+      "description": "Author summary Our study addresses the pressing issue of antimicrobial resistance (AMR) in Salmonella Typhi, which severely limits treatment options for typhoid fever. Globally, it also raises concerns for a potential pan-oral drug-resistant outbreak. We cond\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012558",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012558.g004&size=inline",
+      "publishedAt": "2024-10-04 14:00:00",
+      "content": "Citation: Tanmoy AM, Hooda Y, Sajib MSI, Rahman H, Sarkar A, Das D, et al. (2024) Trends in antimicrobial resistance amongst Salmonella Typhi in Bangladesh: A 24-year retrospective observational stud\u2026 [+29813 chars]",
+      "retrievedAt": "2024-10-05 19:06:01.575521",
+      "internal_id": "6b80539722e403543477fe542a98deb68e1f18193e61b8f1e2f0106d2d1b1e07",
+      "publishedAtLabel": "Oct 4"
+    },
+    {
+      "id": 14326,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Skai.gr",
+      "author": "Newsroom",
+      "title": "Mpox: \u039f \u03a0\u039f\u03a5 \u03b5\u03bd\u03ad\u03ba\u03c1\u03b9\u03bd\u03b5 \u03c4\u03bf \u03c0\u03c1\u03ce\u03c4\u03bf \u03c4\u03b5\u03c3\u03c4 \u03b3\u03b9\u03b1 \u03b3\u03c1\u03ae\u03b3\u03bf\u03c1\u03b7 \u03b4\u03b9\u03ac\u03b3\u03bd\u03c9\u03c3\u03b7",
+      "description": "\u039c\u03cc\u03bb\u03b9\u03c2 \u03c4\u03bf 40% \u03c4\u03c9\u03bd \u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03ac\u03c4\u03c9\u03bd \u03b5\u03af\u03c7\u03b5 \u03b5\u03c0\u03b9\u03b2\u03b5\u03b2\u03b1\u03b9\u03c9\u03b8\u03b5\u03af \u03bc\u03ad\u03c3\u03c9 \u03c4\u03b5\u03c3\u03c4 - \u03a0\u03ac\u03bd\u03c9 \u03b1\u03c0\u03cc 30.000 \u03cd\u03c0\u03bf\u03c0\u03c4\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c4\u03bf\u03c5 \u03b8\u03b1\u03bd\u03b1\u03c4\u03b7\u03c6\u03cc\u03c1\u03bf\u03c5 \u03b9\u03bf\u03cd \u03b1\u03bd\u03b1\u03c6\u03ad\u03c1\u03b8\u03b7\u03ba\u03b1\u03bd \u03c3\u03c4\u03b7\u03bd \u0391\u03c6\u03c1\u03b9\u03ba\u03ae \u03c6\u03ad\u03c4\u03bf\u03c2",
+      "url": "https://www.skai.gr/news/health/mpox-o-pou-enekrine-to-1o-test-gia-grigori-diagnosi",
+      "urlToImage": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2024-09/mpox_ape.jpg?itok=7il1KTVr",
+      "publishedAt": "2024-10-04 13:41:22",
+      "content": "()mpox, , . BBC News, PCR DNA mpox . , . - mpox . 30.000 , 40% , .Yukiko Nakatani, , \u00ab \u00bb. \u00ab , \u00bb, . , , mpox . Mpox, , 635 . .Skai.gr Google News .",
+      "retrievedAt": "2024-10-05 19:06:01.078821",
+      "internal_id": "dd454b9caba18d50ffbd97329cf9c21b33937b6aa4c7fd7c0cc1de395dbbe7de",
+      "publishedAtLabel": "Oct 4"
+    },
+    {
+      "id": 14333,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Investing.com",
+      "author": "Reuters",
+      "title": "WHO approves first mpox diagnostic test for emergency use",
+      "description": "WHO approves first mpox diagnostic test for emergency use",
+      "url": "https://www.investing.com/news/world-news/who-approves-first-mpox-diagnostic-test-for-emergency-use-3649255",
+      "urlToImage": "https://i-invdn-com.investing.com/news/news_headline_open_108x81._800x533_L_1419519630.jpg",
+      "publishedAt": "2024-10-04 13:05:42",
+      "content": "(Reuters) -The World Health Organization authorized Abbott Laboratories (NYSE:ABT)' mpox diagnostic test for emergency use on Thursday, the first such approval in the agency's effort to bolster testi\u2026 [+1732 chars]",
+      "retrievedAt": "2024-10-05 19:06:01.165645",
+      "internal_id": "44030e3b1ca583c54528f7d2fc85e95ff4be378541d8f71907da91ef53e22c8e",
+      "publishedAtLabel": "Oct 4"
+    },
+    {
+      "id": 14302,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Gizmodo.jp",
+      "author": "\u30e4\u30de\u30c0\u30e6\u30a6\u30b9\u578b",
+      "title": "\u8efd\u304f\u3066\u8ce2\u304b\u3063\u305f\u3002HP\u306e\u65b0\u3057\u3044\u30ce\u30fc\u30c8PC\u306fAI\u3082\u30b3\u30f3\u30d1\u30c1\u3082\u304a\u4efb\u305b",
+      "description": "\u3053\u308c\u3001\u51fa\u5148\u3084\u81ea\u5b85\u3067\u4f5c\u696d\u3059\u308b\u3068\u304d\u306b\u4fbf\u5229\u3060\u308d\u3046\u306a\u3041\u2026\u3002\u65e5\u672cHP\u304b\u3089\u6b21\u4e16\u4ee3AIPC\u3092\u8b33\u3046\u65b0\u30e2\u30c7\u30eb\u300cHPOmniBookUltraFlip14AIPC\u300d\u304c\u767a\u8868\u3055\u308c\u307e\u3057\u305f\u3002OmniBook\u306fHP\u306e\u30ce\u30fc\u30c8PC\u306e\u306a\u304b\u3067\u3082AIPC\u306b\u5bfe\u5fdc\u3057\u305f\u30d6\u30e9\u30f3\u30c9\u540d\u3067\u3059\u306d\u3002\u7279\u5fb4\u3068\u3057\u3066\u306f\u3001Flip\u306e\u540d\u304c\u793a\u3059\u901a\u308a\u306e\u30b3\u30f3\u30d0\u30fc\u30c1\u30d6\u30eb\u6027\u80fd\u3001HP\u72ec\u81ea\u306eAI\u6a5f\u80fd\u3001\u305d\u3057\u3066CoreUltra\u30d7\u30ed\u30bb\u30c3\u30b5\uff08\u30b7\u30ea\u30fc\u30ba2\uff09\u306e\u642d\u8f09\u3067\u3059\u3002\u77e5\u3089\u305a\u306e\u3046\u3061\u306b\u7247\u624b\u6301",
+      "url": "https://www.gizmodo.jp/2024/10/hp-omnibook-ultra-flip-14-ai-pc.html",
+      "urlToImage": "https://media.loom-app.com/gizmodo/dist/images/2024/10/04/241004hpomnibookflip_01.jpg?w=1280&h=630&f=jpg",
+      "publishedAt": "2024-10-04 13:00:00",
+      "content": "HPAI PCHP OmniBook Ultra Flip 14 AI PCOmniBookHPPCAI PC FlipHPAICore Ultra2 2024AI PCPCHPQualcommHP OmniBook X 14 AI PCAMDHP OmniBook Ultra 14 AI PCIntelAI PC HP OmniBook Ultra Flip 14 AI PCTOP360\u2026 [+522 chars]",
+      "retrievedAt": "2024-10-05 19:05:58.156453",
+      "internal_id": "ec1f4b843b64b717464d1c5febf2f08a9656f1004440919505ff0395ab29526d",
+      "publishedAtLabel": "Oct 4"
+    },
+    {
+      "id": 14331,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Digi24.ro",
+      "author": "Alexandru Costea",
+      "title": "Primul test care poate detecta virusul mpox, cu rezultate imediate, a fost aprobat de OMS",
+      "description": "Organiza\u021bia Mondial\u0103 a S\u0103n\u0103t\u0103\u021bii (OMS) a aprobat primul test de diagnostic pentru mpox ale c\u0103rui rezultate pot fi aflate imediat, afirm\u00e2nd c\u0103 acesta s-ar putea dovedi esen\u021bial pentru a ajuta la stoparea cre\u0219terii num\u0103rului de infect\u0103ri la nivel mondial cu ace\u2026",
+      "url": "https://www.digi24.ro/stiri/actualitate/sanatate/primul-test-care-poate-detecta-virusul-mpox-cu-rezultate-imediate-a-fost-aprobat-de-oms-2956113",
+      "urlToImage": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjQl/MkYxMCUyRjA0JTJGMjA5NDc4OV8yMDk0/Nzg5X3Byb2ZpbWVkaWEtMDkwMjczMDc1/Ny5qcGcmdz0xMjAwJmg9NjMwJnpjPTEm/aGFzaD02NWE4MjEwMDRhYzc1YjllZmZhOGZmNjY0MzE4MGZiMw==.thumb.jpg",
+      "publishedAt": "2024-10-04 12:49:34",
+      "content": "Organizaia Mondial a Sntii (OMS) a aprobat primul test de diagnostic pentru mpox ale crui rezultate pot fi aflate imediat, afirm\u00e2nd c acesta s-ar putea dovedi esenial pentru a ajuta la stoparea crete\u2026 [+2163 chars]",
+      "retrievedAt": "2024-10-05 19:06:01.144995",
+      "internal_id": "89e5ab0bf94f4f57983bd62f82d62cb5734bde1cf32419fc909e34fc31bb64fe",
+      "publishedAtLabel": "Oct 4"
+    },
+    {
+      "id": 14308,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Portfolio.hu",
+      "author": "Portfolio.hu",
+      "title": "\u00dajabb magyar v\u00e1rmegy\u00e9be t\u00f6rt be a mad\u00e1rinfluenza, minimaliz\u00e1lni kell a j\u00e1rm\u0171- \u00e9s szem\u00e9lyi forgalmat",
+      "description": "B\u00e9k\u00e9s v\u00e1rmegy\u00e9t k\u00f6vet\u0151en J\u00e1sz-Nagykun-Szolnok v\u00e1rmegy\u00e9ben is kimutatta a mad\u00e1rinfluenza jelenl\u00e9t\u00e9t a Nemzeti \u00c9lelmiszerl\u00e1nc-biztons\u00e1gi Hivatal (N\u00e9bih) laborat\u00f3riuma. A m\u00e1jhaszn\u00fa l\u00fad\u00e1llom\u00e1ny felsz\u00e1mol\u00e1sa folyamatban van - k\u00f6z\u00f6lte a N\u00e9bih.",
+      "url": "https://www.portfolio.hu/gazdasag/20241004/ujabb-magyar-varmegyebe-tort-be-a-madarinfluenza-minimalizalni-kell-a-jarmu-es-szemelyi-forgalmat-714489",
+      "urlToImage": "https://pcdn.hu/articles/images-xl/l/i/b/libamaj-hizottmaj-463466.jpg",
+      "publishedAt": "2024-10-04 12:39:00",
+      "content": "A J\u00e1sz-Nagykun-Szolnok v\u00e1rmegyei \u00d6cs\u00f6d telep\u00fcl\u00e9sen mutatta ki a magas patogenit\u00e1s\u00fa mad\u00e1rinfluenza v\u00edrus\u00e1nak H5N1 alt\u00edpus\u00e1t a N\u00e9bih laborat\u00f3riuma egy 2 500 p\u00e9ld\u00e1nyt sz\u00e1ml\u00e1l\u00f3 m\u00e1jhaszn\u00fa l\u00fad\u00e1llom\u00e1nyban. \u2026 [+946 chars]",
+      "retrievedAt": "2024-10-05 19:05:58.711524",
+      "internal_id": "59b2a47bbd82183755ce28c67f9320a9468b25930a9acb56097ba44aa430ca9b",
+      "publishedAtLabel": "Oct 4"
+    },
+    {
+      "id": 14309,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ilfattoquotidiano.it",
+      "author": "Giuliana Lomazzi",
+      "title": "Dengue, oli essenziali di lavanda e menta contro le zanzare? L\u2019esperto: \u201cUsare solo repellenti certificati\u201d. Ecco come prevenire il contagio\u201d",
+      "description": "L'allarme \u00e8 scattato dopo che a Fano, nelle Marche, \u00e8 stato registrato un focolaio di Dengue, con oltre 100 casi accertati in poche ore. Al Fqttoquotidiano.it parla il prof. Paolo Bonfanti, direttore del reparto di Malattie infettive dell\u2019ospedale San Gerardo\u2026",
+      "url": "https://www.ilfattoquotidiano.it/2024/10/04/dengue-oli-essenziali-di-lavanda-e-menta-contro-le-zanzare-lesperto-usare-solo-repellenti-certificati-ecco-come-prevenire-il-contagio/7718074/",
+      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2024/09/23/dengue-1200-1200x630.jpg",
+      "publishedAt": "2024-10-04 12:36:11",
+      "content": "Roma, 4 ott. (Adnkronos) - Individuare ricorsi correlati o simili pendenti nelle singole sezioni dei Tribunali, ricercare precedenti giurisprudenziali, rilevare o visualizzare immediatamente norme e \u2026 [+11098 chars]",
+      "retrievedAt": "2024-10-05 19:05:59.192605",
+      "internal_id": "4451527ab1b1277465689b6b5785b09ccad1507fb7c550ed2265743253a72765",
+      "publishedAtLabel": "Oct 4"
+    },
+    {
+      "id": 14345,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "UN News",
+      "author": "dpicampaigns",
+      "title": "WHO approves first mpox diagnostic test for emergency use",
+      "description": "The World Health Organization (WHO) announced on Friday that it has approved the first mpox diagnostic test for emergency use, which will boost diagnostic capacity in countries facing outbreaks of the disease. Read Full Story on UN News The post WHO approves\u2026",
+      "url": "https://news.un.org/en/story/2024/10/1155351",
+      "urlToImage": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/15-08-2024-WHO-Mpox.jpg/image770x420cropped.jpg",
+      "publishedAt": "2024-10-04 12:00:00",
+      "content": "The Alinity m MPXV assay is a real-time PCR (polymerase chain reaction) test that enables detection of monkeypox virus DNA from human skin lesion swabs. It is manufactured by Abbott Molecular Inc,\u2026 [+2471 chars]",
+      "retrievedAt": "2024-10-05 19:06:01.287786",
+      "internal_id": "e9e5b85cc25805dc9ec134ab3a4951fbce5a3af42c42f0b9d057565fb473dd71",
+      "publishedAtLabel": "Oct 4"
+    },
+    {
+      "id": 14325,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Adevarul.ro",
+      "author": "Narcis Ghiurca",
+      "title": "OMS a aprobat prima testare pentru diagnosticarea Variolei maimu\u021bei",
+      "description": "Organiza\u021bia Mondial\u0103 a S\u0103n\u0103t\u0103\u021bii permite testarea pentru diagnosticarea virusului mpox, ce va contribui la lupta \u00eempotriva bolii",
+      "url": "https://adevarul.ro/stiri-interne/sanatate/oms-a-aprobat-prima-testare-pentru-diagnosticarea-2392434.html",
+      "urlToImage": "https://cdn.adh.reperio.news/image-1/1f5b1fe4-061d-4eda-84a8-c0dfed3bfaa8/index.jpeg?p=f%3Djpeg%26w%3D1200%26h%3D630%26r%3Dcover",
+      "publishedAt": "2024-10-04 11:28:16",
+      "content": "Organizaia Mondial a Sntii (OMS) i-a dat acordul pentru testarea-diagnostic in vitro (DIV) pentru mpox, sau Variola Maimuei, cum a fost denumit anterior. Acest lucru ajut la combaterea epidemiei actu\u2026 [+1145 chars]",
+      "retrievedAt": "2024-10-05 19:06:01.069056",
+      "internal_id": "4102e0fb5795f20ba4e94c52ee28e8d3aedee704bc405edad5e2335e2f226687",
+      "publishedAtLabel": "Oct 4"
+    },
+    {
+      "id": 14323,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "DW (English)",
+      "author": "Deutsche Welle",
+      "title": "WHO approves first mpox diagnostic test",
+      "description": "The UN health agency said the test would allow health workers to detect the mpox virus faster and more easily. Over 800 people have died from mpox across Africa, with more than 30,000 cases reported.",
+      "url": "https://www.dw.com/en/who-approves-first-mpox-diagnostic-test/a-70404386",
+      "urlToImage": null,
+      "publishedAt": "2024-10-04 11:23:00",
+      "content": "The World Health Organization (WHO) said on Friday that it had approved the first diagnostic test for mpox. The disease, which can be deadly and was previously known as monkeypox, is caused by a vir\u2026 [+2212 chars]",
+      "retrievedAt": "2024-10-05 19:06:01.040361",
+      "internal_id": "c640fbca52acf745ffed5d32c9926b0d064a9aa2bc9644c454898fa87690452a",
+      "publishedAtLabel": "Oct 4"
+    },
+    {
+      "id": 14340,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Techtarget.com",
+      "author": "Veronica Salib",
+      "title": "WHO clears in vitro diagnostic mpox testing for emergency use",
+      "description": "After declaring a global health emergency for mpox, the WHO has issued an Emergency Use Listing for an in vitro diagnostic test for early mpox diagnosis and treatment.",
+      "url": "https://www.techtarget.com/pharmalifesciences/news/366612914/WHO-clears-in-vitro-diagnostic-mpox-testing-for-emergency-use",
+      "urlToImage": "https://www.techtarget.com/rms/onlineimages/health analytics_g1323032473.jpg",
+      "publishedAt": "2024-10-04 11:22:00",
+      "content": "On October 3, 2024, the WHO approved the first mpox in vitro diagnostic through its Emergency Use Listing procedure. According to the organization's press release, this approval marks a move toward g\u2026 [+3211 chars]",
+      "retrievedAt": "2024-10-05 19:06:01.242461",
+      "internal_id": "4852d23998395bfb3c44e2bb89ab9e098d537f304c5900d873af63fd212e1e41",
+      "publishedAtLabel": "Oct 4"
+    },
+    {
+      "id": 14318,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": null,
+      "title": "WHO approves first mpox test for quick diagnosis",
+      "description": "Lack of testing and delays in getting the results have made curbing the virus's spread harder.",
+      "url": "https://www.bbc.com/news/articles/c2436p21j90o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8bbd/live/19e776b0-8232-11ef-822c-a50726bfda2e.jpg",
+      "publishedAt": "2024-10-04 10:51:39",
+      "content": "The World Health Organization (WHO) has approved the first diagnostic test for mpox where the results can be immediately known, saying it could prove pivotal in helping to stop the rising global case\u2026 [+1934 chars]",
+      "retrievedAt": "2024-10-05 19:06:00.995039",
+      "internal_id": "7a6ce9886311215db674298de748e89242d40a44fedf71c3e0965c87bd518be3",
+      "publishedAtLabel": "Oct 4"
+    },
+    {
+      "id": 14322,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "DIE WELT",
+      "author": "WELT",
+      "title": "WHO erteilt Notfallzulassung f\u00fcr Mpox-Test",
+      "description": "In Afrika breiten sich Mpox-F\u00e4lle weiter aus \u2013 und gelangen auch nach Europa. K\u00f6nnten Erkrankte schneller und zuverl\u00e4ssiger identifiziert werden, lie\u00dfen sich die Infektionen einzud\u00e4mmen. Ein neuer Test aus den USA soll dabei jetzt helfen, verk\u00fcndet die WHO.",
+      "url": "https://www.welt.de/gesundheit/article253843792/Mpox-WHO-erteilt-Notfallzulassung-fuer-Mpox-Test.html",
+      "urlToImage": "https://img.welt.de/img/bildergalerien/mobile253844272/5717936057-ci16x9-w1200/Mpox-im-Kongo.jpg",
+      "publishedAt": "2024-10-04 10:36:55",
+      "content": "In Afrika breiten sich Mpox-F\u00e4lle weiter aus und gelangen auch nach Europa. K\u00f6nnten Erkrankte schneller und zuverl\u00e4ssiger identifiziert werden, lie\u00dfen sich die Infektionen einzud\u00e4mmen. Ein neuer Test\u2026 [+1810 chars]",
+      "retrievedAt": "2024-10-05 19:06:01.021991",
+      "internal_id": "35ef3c5a275865581a1f7eb10a194766e9a079513e377959f0313cc9c7702c66",
+      "publishedAtLabel": "Oct 4"
+    },
+    {
+      "id": 14317,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Hola",
+      "author": "Mar\u00eda Carrat\u00e9",
+      "title": "El d\u00eda a d\u00eda de Luis Canut, marido de Patricia P\u00e9rez, con su ceguera: as\u00ed aprende a coger el autob\u00fas",
+      "description": "El director y productor ejecutivo de programas de televisi\u00f3n se desenvuelve muy bien con su bast\u00f3n y no pierde el sentido del humor",
+      "url": "https://www.hola.com/actualidad/20241004722186/luis-canut-patricia-perez-autobus-ceguera/",
+      "urlToImage": "https://www.hola.com/horizon/landscape/a9569225da54-foto4-ig.jpg?im=Resize=(1200)",
+      "publishedAt": "2024-10-04 10:08:47",
+      "content": "Luis Canut contin\u00faa avanzando en el largo camino que comenz\u00f3 a principios de 2023, cuando fue diagnosticado de meningitis criptoc\u00f3cica. Una enfermedad por la que tuvo que pasar cinco meses hospitaliz\u2026 [+812 chars]",
+      "retrievedAt": "2024-10-05 19:05:59.672492",
+      "internal_id": "9c0f9024c392d0af32b36ef752dd0ba6ccd9b4ed1852ac08bf14f9b854af502d",
+      "publishedAtLabel": "Oct 4"
+    },
+    {
+      "id": 14319,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "ZEIT ONLINE: Gesundheit - Maline Hofmann",
+      "title": "Weltgesundheitsorganisation: WHO erteilt erstmals Notzulassung f\u00fcr Mpox-Test",
+      "description": "Wegen der Mpox-Ausbreitung in Afrika hat die WHO die h\u00f6chste Alarmstufe ausgerufen. Um das Virus einzud\u00e4mmen, erteilte sie nun eine schnellere Zulassung f\u00fcr einen Test.",
+      "url": "https://www.zeit.de/gesundheit/2024-10/weltgesundheitsorganisation-mpox-notfallzulassung-test-afrika",
+      "urlToImage": "https://img.zeit.de/gesundheit/2024-10/mpox-who-schnelltest-bild/wide__1300x731",
+      "publishedAt": "2024-10-04 10:05:51",
+      "content": "Erstmals hat die Weltgesundheitsorganisation (WHO) eine Notfallzulassung f\u00fcr einen Mpox-Test erteilt. Dadurch k\u00f6nnen UN-Organisationen diesen Test der US-Firma Abbott Molecular kaufen, um ihn in betr\u2026 [+2145 chars]",
+      "retrievedAt": "2024-10-05 19:06:01.005535",
+      "internal_id": "5316cc677eaae762ac02418e1b8a759e64d07f77f1b73941eaf7e4f55e4d5e2c",
+      "publishedAtLabel": "Oct 4"
+    },
+    {
+      "id": 14311,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Olga Anikeeva, Alana Hansen, Blesson Varghese, Matthew Borg, Ying Zhang, Jianjun Xiang, Peng Bi",
+      "title": "The impact of increasing temperatures due to climate change on infectious diseases",
+      "description": "AbstractGlobal temperatures will continue to rise due to climate change, with high temperature periods expected to increase in intensity, frequency, and duration. Infectious diseases, including vector-borne diseases such as dengue fever and malaria, waterborn\u2026",
+      "url": "https://www.bmj.com/content/387/bmj-2024-079343",
+      "urlToImage": "https://www.bmj.com/sites/default/files/highwire/bmj/386/8443.cover-source.jpg",
+      "publishedAt": "2024-10-04 09:32:07",
+      "content": "Introduction Heatwaves and high temperature periods have been increasing in intensity, frequency, and duration, and these trends are expected to worsen due to climate change.1 Climate change, with a\u2026 [+8579 chars]",
+      "retrievedAt": "2024-10-05 19:05:59.244494",
+      "internal_id": "8b5d5c7b82ff20804814d4e2c6f41af7b17b6c050dba8368c7c4e1a6a7cccea5",
+      "publishedAtLabel": "Oct 4"
+    },
+    {
+      "id": 14327,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Faz.net",
+      "author": "AFP",
+      "title": "Mpox-Virus in Afrika",
+      "description": "Mehr als 34.000 Menschen haben sich in Afrika seit Januar mit dem Virus angesteckt, darunter viele Kinder. Eigentlich sollten bereits Impfkampagnen laufen.",
+      "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/epidemie-mpox-virus-fuehrt-zu-866-toten-in-afrika-in-diesem-jahr-110025900.html",
+      "urlToImage": "https://media0.faz.net/ppmedia/aktuell/feuilleton/1982848844/1.10025944/facebook_teaser/in-der-bergbaustadt-kamituga.jpg",
+      "publishedAt": "2024-10-04 09:31:04",
+      "content": "Damit stieg die Anzahl der L\u00e4nder, in denen das Virus nachgewiesen worden ist, auf 16. Bisher waren nachweislich 15 Staaten von dem Virus betroffen gewesen, darunter Ruanda, Burundi, Kenia und Uganda\u2026 [+725 chars]",
+      "retrievedAt": "2024-10-05 19:06:01.097095",
+      "internal_id": "2d07528cb50f7bfd5a2262effe6c0a0064104ed4cebafe5ffbd35c519097430b",
+      "publishedAtLabel": "Oct 4"
+    },
+    {
+      "id": 14330,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Atlantico.fr",
+      "author": "Atlantico",
+      "title": "Virus mpox : l\u2019OMS donne son accord pour commercialiser un test de diagnostic",
+      "description": "L\u2019OMS a plac\u00e9 ce test de diagnostic sur sa liste d'utilisation d'urgence, ce qui permet \u00e0 d'autres agences de l'ONU de le distribuer.",
+      "url": "https://atlantico.fr/article/pepite/virus-mpox-loms-donne-son-accord-pour-commercialiser-un-test-de-diagnostic",
+      "urlToImage": "https://atlantico.codexcdn.net/assets/asvjV7rBuQ25sip2V.jpg?width=650&height=500&quality=75",
+      "publishedAt": "2024-10-04 09:19:55",
+      "content": "MpoxLOMS a plac\u00e9 ce test de diagnostic sur sa liste d'utilisation d'urgence, ce qui permet \u00e0 d'autres agences de l'ONU de le distribuer.",
+      "retrievedAt": "2024-10-05 19:06:01.139762",
+      "internal_id": "6e90b234633a3d73b98319c83a370bc047814178dce1086c1667471fb2845280",
+      "publishedAtLabel": "Oct 4"
+    },
+    {
+      "id": 14337,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Hbvl.be",
+      "author": "fdb",
+      "title": "WHO zet licht op groen voor test om mpox te detecteren",
+      "description": "De Wereldgezondheidsorganisatie (WHO) heeft het licht op groen gezet voor een eerste test om mpox te detecteren. Die moet helpen om de huidige epidemie beter te bestrijden, stelt de organisatie. \u201cEen vroegtijdige diagnose van mpox maakt een snelle behandeling\u2026",
+      "url": "https://www.hbvl.be/cnt/dmf20241004_93337260",
+      "urlToImage": "https://static.hbvl.be/Assets/Images_Upload/2024/10/04/807874c5-14a9-4845-a17f-549ee4d8fe2d.jpg?maxheight=460&maxwidth=629",
+      "publishedAt": "2024-10-04 09:15:06",
+      "content": "De Wereldgezondheidsorganisatie (WHO) heeft het licht op groen gezet voor een eerste test om mpox te detecteren. Die moet helpen om de huidige epidemie beter te bestrijden, stelt de organisatie. Een \u2026 [+1248 chars]",
+      "retrievedAt": "2024-10-05 19:06:01.195672",
+      "internal_id": "36ff0005491d59c9cb8405fd906000b9b6246791813630bbe05cf14ea25dd8ec",
+      "publishedAtLabel": "Oct 4"
+    },
+    {
+      "id": 14335,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Nieuwsblad.be",
+      "author": "fdb",
+      "title": "WHO zet licht op groen voor test om mpox te detecteren",
+      "description": "De Wereldgezondheidsorganisatie (WHO) heeft het licht op groen gezet voor een eerste test om mpox te detecteren. Die moet helpen om de huidige epidemie beter te bestrijden, stelt de organisatie. \u201cEen vroegtijdige diagnose van mpox maakt een snelle behandeling\u2026",
+      "url": "https://www.nieuwsblad.be/cnt/dmf20241004_93232156",
+      "urlToImage": "https://static.nieuwsblad.be/Assets/Images_Upload/2024/10/04/807874c5-14a9-4845-a17f-549ee4d8fe2d.jpg?maxheight=460&maxwidth=638",
+      "publishedAt": "2024-10-04 08:56:27",
+      "content": "De Wereldgezondheidsorganisatie (WHO) heeft het licht op groen gezet voor een eerste test om mpox te detecteren. Die moet helpen om de huidige epidemie beter te bestrijden, stelt de organisatie. Een \u2026 [+1511 chars]",
+      "retrievedAt": "2024-10-05 19:06:01.180523",
+      "internal_id": "962f322a0a23182b624134488f3d3c0eca0d787f86323489393462d08af8fcb6",
+      "publishedAtLabel": "Oct 4"
+    },
+    {
+      "id": 14316,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": "Aayushi Singh Chauhan",
+      "title": "Understanding The Long-Term Effects Of Meningitis: Rehabilitation And Recovery",
+      "description": "In this article, we will explore the long-term effects of meningitis and discuss the rehabilitation and recovery processes crucial for improving outcomes.",
+      "url": "https://doctor.ndtv.com/living-healthy/understanding-the-long-term-effects-of-meningitis-rehabilitation-and-recovery-6714184",
+      "urlToImage": "https://i.ndtvimg.com/i/2016-09/ear-infection-generic_650x400_81474187785.jpg?im=FeatureCrop,algorithm=dnn,width=620,height=350",
+      "publishedAt": "2024-10-04 08:49:47",
+      "content": "Meningitis is a serious infection that affects the protective membranes (meninges) surrounding the brain and spinal cord. The disease can have severe long-term consequences, particularly if it is not\u2026 [+7581 chars]",
+      "retrievedAt": "2024-10-05 19:05:59.662062",
+      "internal_id": "96fb272be3d319be65a328ef43a0ba18c7335abbb5ab67f6a04ddc21e02ffe63",
+      "publishedAtLabel": "Oct 4"
+    },
+    {
+      "id": 14324,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Observador.pt",
+      "author": "Ag\u00eancia Lusa",
+      "title": "Mpox. Organiza\u00e7\u00e3o Mundial da Sa\u00fade d\u00e1 luz verde a teste para diagnosticar a doen\u00e7a",
+      "description": "O teste PCR agora aprovado pela Organiza\u00e7\u00e3o Mundial de Sa\u00fade pode detetar o ADN do v\u00edrus, tanto do clado (variante) 1, como do clade 2, a partir de esfrega\u00e7os de les\u00f5es cut\u00e2neas humana.",
+      "url": "https://observador.pt/2024/10/04/mpox-organizacao-mundial-da-saude-da-luz-verde-a-teste-para-diagnosticar-a-doenca/",
+      "urlToImage": "https://wm.observador.pt/wm/obs/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1122%3Anowe%3A0%3A0%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2024%2F08%2F22202028%2F43436640.jpg",
+      "publishedAt": "2024-10-04 08:46:53",
+      "content": "A Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS) deu luz verde ao primeiro diagn\u00f3stico \u2018in vitro\u2019 do monkeypox (Mpox), que poder\u00e1 ajudar a combater a atual epidemia, segundo um comunicado daquela entidade divulg\u2026 [+2831 chars]",
+      "retrievedAt": "2024-10-05 19:06:01.063293",
+      "internal_id": "367d9d445a1ee8608ba3d7e2377e04195de046f59089adf23923352641a362e5",
+      "publishedAtLabel": "Oct 4"
+    },
+    {
+      "id": 14344,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Der Tagesspiegel",
+      "title": "Krankheiten: WHO gibt gr\u00fcnes Licht f\u00fcr schnelleren Mpox-Test",
+      "description": "Wenn mehr Menschen in Afrika auf Mpox getestet werden, w\u00e4re es leichter, die Ausbreitung einzud\u00e4mmen, sagt die Weltgesundheitsorganisation (WHO). Das Testen wird jetzt einfacher.",
+      "url": "https://www.tagesspiegel.de/wissen/krankheiten-who-gibt-grunes-licht-fur-schnelleren-mpox-test-12481943.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/12481940/alternates/BASE_16_9_W1400/1728031455000/mpox-im-kongo.jpeg",
+      "publishedAt": "2024-10-04 08:44:15",
+      "content": "Die Weltgesundheitsorganisation (WHO) hat erstmals eine Notfallzulassung f\u00fcr einen Mpox-Test erteilt. Damit k\u00f6nnen UN-Organisationen diesen Test der US-Firma Abbott Molecular kaufen, um ihn in betrof\u2026 [+2312 chars]",
+      "retrievedAt": "2024-10-05 19:06:01.282503",
+      "internal_id": "91165114deb19dd89d2c4364825bb53bf835f236eb3920d18112ee2b86a2435e",
+      "publishedAtLabel": "Oct 4"
+    },
+    {
+      "id": 14320,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "ZEIT ONLINE: News -",
+      "title": "Krankheiten: WHO gibt gr\u00fcnes Licht f\u00fcr schnelleren Mpox-Test",
+      "description": "Hier finden Sie Informationen zu dem Thema \u201eKrankheiten\u201c. Lesen Sie jetzt \u201eWHO gibt gr\u00fcnes Licht f\u00fcr schnelleren Mpox-Test\u201c.",
+      "url": "https://www.zeit.de/news/2024-10/04/who-gibt-gruenes-licht-fuer-schnelleren-mpox-test",
+      "urlToImage": "https://img.zeit.de/news/2024-10/04/who-gibt-gruenes-licht-fuer-schnelleren-mpox-test-image-group/wide__1300x731",
+      "publishedAt": "2024-10-04 08:43:11",
+      "content": "Die Weltgesundheitsorganisation (WHO) hat erstmals eine Notfallzulassung f\u00fcr einen Mpox-Test erteilt. Damit k\u00f6nnen UN-Organisationen diesen Test der US-Firma Abbott Molecular kaufen, um ihn in betrof\u2026 [+2201 chars]",
+      "retrievedAt": "2024-10-05 19:06:01.011201",
+      "internal_id": "0c58fa9bd7103b5a7e91bb4216e021cecaef8b98f9c7927c8502d689b0db4d1a",
+      "publishedAtLabel": "Oct 4"
+    },
+    {
+      "id": 14304,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Diepresse.com",
+      "author": "Die Presse",
+      "title": "Dutzende Tiger und L\u00f6wen in Vietnam an Vogelgrippe verendet",
+      "description": "Mindestens 47 Tiger und drei L\u00f6wen sind in Tierparks in Vietnam dem Influenza-A-Virus H5N1 zum Opfer gefallen. Zahlreiche Mitarbeiter hatten Kontakt zu den Tieren.",
+      "url": "https://www.diepresse.com/18930011/dutzende-tiger-und-loewen-in-vietnam-an-vogelgrippe-verendet",
+      "urlToImage": "https://img.diepresse.com/public/incoming/a8whq5-kein-Titel/alternates/DPR_SOCIAL_NACHRICHTEN/kein%20Titel",
+      "publishedAt": "2024-10-04 08:26:29",
+      "content": "Mindestens 47 Tiger und drei L\u00f6wen sind in Tierparks in Vietnam dem Influenza-A-Virus H5N1 zum Opfer gefallen. Zahlreiche Mitarbeiter hatten Kontakt zu den Tieren. Alarm in vietnamesischen Zoos: Ber\u2026 [+2634 chars]",
+      "retrievedAt": "2024-10-05 19:05:58.649393",
+      "internal_id": "3f8c94349f66d2f8ac57ccdea30f00c3c9dd9b88dd3fce4c92070dfb68a8b475",
+      "publishedAtLabel": "Oct 4"
+    },
+    {
+      "id": 14339,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Sudinfo.be",
+      "author": "Par Sudinfo avec Belga",
+      "title": "Feu vert de l\u2019OMS \u00e0 un test pour diagnostiquer le mpox",
+      "description": "L\u2019OMS a donn\u00e9 son feu vert au premier diagnostic in vitro (DIV) pour le mpox, qui doit permettre de mieux lutter contre l\u2019\u00e9pid\u00e9mie actuelle, selon un communiqu\u00e9 de l\u2019organisation vendredi.",
+      "url": "https://www.sudinfo.be/id891722/article/2024-10-04/feu-vert-de-loms-un-test-pour-diagnostiquer-le-mpox",
+      "urlToImage": "https://spgeng.rosselcdn.net/sites/default/files/dpistyles_v2/FirstImageUrl/2024/09/12/node_891722/55861756/public/2024/09/12/25641855.jpeg?itok=z_ub8P_91728029797",
+      "publishedAt": "2024-10-04 08:16:09",
+      "content": "LOMS a donn\u00e9 son feu vert au premier diagnostic in vitro (DIV) pour le mpox, qui doit permettre de mieux lutter contre l\u00e9pid\u00e9mie actuelle, selon un communiqu\u00e9 de lorganisation vendredi. \u00abUn diagnost\u2026 [+2021 chars]",
+      "retrievedAt": "2024-10-05 19:06:01.210815",
+      "internal_id": "f11fa3c8461616d4e4df786a012debeae50ad6284b2ae6735f342324788ae975",
+      "publishedAtLabel": "Oct 4"
+    },
+    {
+      "id": 14312,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": null,
+      "title": "\"Wait And See...\": Udhayanidhi Stalin On Pawan Kalyan's 'Sanatan Dharm' Warning",
+      "description": "DMK leader Udhayanidhi Stalin offered a smile and a four-word response Friday to Jana Sena Party boss Pawan Kalyan dredging up his \"sanatan dharm is like malaria, dengue\" remark from last year.",
+      "url": "https://www.ndtv.com/tamil-nadu-news/udhayanidhi-stalin-on-pawan-kalyans-sanatan-dharm-warning-wait-and-see-6713881",
+      "urlToImage": "https://c.ndtvimg.com/2024-10/a58h4u8_udhayanidhi-stalin-pawan-kalyan-split-_625x300_04_October_24.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "publishedAt": "2024-10-04 08:03:55",
+      "content": "Chennai: DMK leader Udhayanidhi Stalin offered a smile and a four-word response Friday to Jana Sena Party boss Pawan Kalyan dredging up his \"'sanatan dharm' is like malaria, dengue\" remark from last \u2026 [+3397 chars]",
+      "retrievedAt": "2024-10-05 19:05:59.263582",
+      "internal_id": "b677c7d1ba4f5929da0c728378536351e9f67e3943343185a8ef11886d39f87a",
+      "publishedAtLabel": "Oct 4"
+    },
+    {
+      "id": 14338,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": "Agence France-Presse",
+      "title": "WHO Approves First Diagnostic Test For Mpox Amid Rising Outbreaks In Africa",
+      "description": "The UN health agency said on Friday that it had approved the use of the first diagnostic test for mpox, a key tool in countries battling outbreaks.",
+      "url": "https://www.ndtv.com/world-news/who-approves-first-diagnostic-test-for-mpox-amid-rising-outbreaks-in-africa-6713877",
+      "urlToImage": "https://c.ndtvimg.com/2024-08/1n5d9p5_mpox-reuters_625x300_24_August_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "publishedAt": "2024-10-04 08:02:59",
+      "content": "Geneva, Switzerland: The UN health agency said on Friday that it had approved the use of the first diagnostic test for mpox, a key tool in countries battling outbreaks. More than 800 people have die\u2026 [+1668 chars]",
+      "retrievedAt": "2024-10-05 19:06:01.205629",
+      "internal_id": "e1152efac0e074d0ffb9dd424e2eee1604b3bb560b90b8f670b3288f1941da6d",
+      "publishedAtLabel": "Oct 4"
+    },
+    {
+      "id": 14329,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Ouest-France",
+      "author": "Ouest-France",
+      "title": "Mpox : l\u2019OMS donne son feu vert \u00e0 un test pour diagnostiquer le virus",
+      "description": "L\u2019Organisation mondiale de la sant\u00e9 a annonc\u00e9, vendredi 4 octobre, donner son feu vert \u00e0 un test pour diagnostiquer le virus Mpox. Cela permettrait de lutter plus efficacement contre l\u2019\u00e9pid\u00e9mie.",
+      "url": "https://www.ouest-france.fr/sante/virus/variole-du-singe/mpox-loms-donne-son-feu-vert-a-un-test-pour-diagnostiquer-le-virus-940b19a8-8217-11ef-91d9-7f562215fe95",
+      "urlToImage": "https://media.ouest-france.fr/v1/pictures/MjAyNDEwZTU2YzcyOWFiODBkMTM0YjQ1MjIwNTg1YzM3OTQ1ZDM?width=1260&height=708&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=4324fbd762a2852c230a5f4ab07d6f3041e2673ce3705720ad95d92646aa2488",
+      "publishedAt": "2024-10-04 07:59:09",
+      "content": "LOrganisation mondiale de la sant\u00e9 (OMS) a donn\u00e9 son feu vert au premier diagnostic in vitro pour le mpox, qui doit permettre de mieux lutter contre l\u00e9pid\u00e9mie actuelle, selon un communiqu\u00e9 de lorgani\u2026 [+2484 chars]",
+      "retrievedAt": "2024-10-05 19:06:01.125725",
+      "internal_id": "a19be43836726338f507654144b690bc0ae774ded1e75d993e8cd9648fb4b482",
+      "publishedAtLabel": "Oct 4"
+    },
+    {
+      "id": 14334,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "le-monde",
+      "source_name": "Le Monde",
+      "author": "Le Monde avec AFP",
+      "title": "Mpox en Afrique : 866 d\u00e9c\u00e8s depuis le d\u00e9but de l\u2019ann\u00e9e, selon l\u2019agence sanitaire Africa CDC",
+      "description": "Pr\u00e8s de 35 000 cas ont \u00e9t\u00e9 recens\u00e9s depuis janvier, notamment en R\u00e9publique d\u00e9mocratique du Congo, au Burundi, au Kenya, en Ouganda et au Rwanda.",
+      "url": "https://www.lemonde.fr/afrique/article/2024/10/04/mpox-en-afrique-866-deces-depuis-le-debut-de-l-annee-selon-l-agence-sanitaire-africa-cdc_6343438_3212.html",
+      "urlToImage": "https://img.lemde.fr/2024/10/04/0/0/4500/3000/1440/960/60/0/07ee970_1728028264094-000-36en3zc.jpg",
+      "publishedAt": "2024-10-04 07:56:11",
+      "content": "Un patient souffrant de la mpox dans lest de la R\u00e9publique d\u00e9mocratique du Congo, le 24 ao\u00fbt 2024. GLODY MURHABAZI / AFP Huit cent soixante-six personnes sont mortes de la mpox en Afrique depuis le \u2026 [+2534 chars]",
+      "retrievedAt": "2024-10-05 19:06:01.175386",
+      "internal_id": "01f17a9812e264b73e52c1c27935a8a58ac52b3af15857b9912504041d70f7e8",
+      "publishedAtLabel": "Oct 4"
+    },
+    {
+      "id": 14303,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Www.abc.es",
+      "author": "(abc)",
+      "title": "\u00bfSer\u00e1 la gripe aviar H5N1 la pr\u00f3xima pandemia humana?",
+      "description": "La gripe aviar es una amenaza global, latente e inquietante. El nivel de alarma se ha elevado a ra\u00edz de los recientes casos confirmados y registrados de transmisi\u00f3n del virus H5N1 desde las vacas a los humanos y de los posibles casos de transmisi\u00f3n entre pers\u2026",
+      "url": "https://www.abc.es/salud/enfermedades/gripe-aviar-h5n1-proxima-pandemia-humana-20241004094610-nt.html",
+      "urlToImage": "https://s2.abcstatics.com/abc/www/multimedia/salud/2024/10/04/Aves-gripe-U56087280028Ujy-1024x512@diario_abc.jpg",
+      "publishedAt": "2024-10-04 07:48:24",
+      "content": "La gripe aviar es una amenaza global, latente e inquietante. El nivel de alarma se ha elevado a ra\u00edz de los recientes casos confirmados y registrados de transmisi\u00f3n del virus H5N1 desde las vacas a l\u2026 [+7880 chars]",
+      "retrievedAt": "2024-10-05 19:05:58.630773",
+      "internal_id": "d03d633d26ea3ad78099592ad314ba53a03f192fd2ae103edc63109fb4d9cdd8",
+      "publishedAtLabel": "Oct 4"
+    },
+    {
+      "id": 14313,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ilfattoquotidiano.it",
+      "author": "Martina Milone",
+      "title": "Dengue a Fano, il sindaco: \u201c\u00c8 una lezione, serve azione larvicida a primavera. La situazione? Zanzare rimaste sono senza virus\u201d",
+      "description": "A Fano, cittadina del nord delle marche, si registra quasi un quinto dei casi italiani di Dengue. Sono 105 su un totale di poco pi\u00f9 di 60mila abitanti. 572 in tutto quelli italiani. Tanti se si pensa all\u2019aumento esponenziale che si \u00e8 avuto in una sola settima\u2026",
+      "url": "https://www.ilfattoquotidiano.it/2024/10/04/dengue-a-fano-il-sindaco-e-una-lezione-serve-azione-larvicida-a-primavera-la-situazione-zanzare-rimaste-sono-senza-virus/7717017/",
+      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2024/10/03/fano-sindaco-zanzara-1200-.jpg",
+      "publishedAt": "2024-10-04 07:09:59",
+      "content": "A Fano, cittadina del nord delle marche, si registra quasi un quinto dei casi italiani di Dengue. Sono 105 su un totale di poco pi\u00f9 di 60mila abitanti. 572 in tutto quelli italiani. Tanti se si pensa\u2026 [+6092 chars]",
+      "retrievedAt": "2024-10-05 19:05:59.295695",
+      "internal_id": "8327dbbf4d585a4293bc4ea030acf7679fd1bdc726b35c575ce1641dbf2f2b5b",
+      "publishedAtLabel": "Oct 4"
+    },
     {
       "id": 14269,
       "query": [
@@ -35914,404 +36816,6 @@
       "content": "Cholesterol could be a weapon in the fight against malaria and other potentially deadly parasitic diseases, according to researchers who have created a new method for treatment. Malaria-causing par\u2026 [+2558 chars]",
       "retrievedAt": "2024-08-20 07:06:51.784635",
       "internal_id": "aedec63a6505f6680e11e514915437d0bc3b9bb274eded7135abe106870c7d83",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 12273,
-      "query": [
-        "zika"
-      ],
-      "source_id": "cbc-news",
-      "source_name": "CBC News",
-      "author": null,
-      "title": "Paris organizers aim to emulate success of London 2012 as 'normalcy' returns to Paralympics",
-      "description": "It's been more than a decade since the last Summer Paralympics went off without major controversy. You'd have to go back to London 2012 for the last time the Paralympics could proceed unbothered. And what a Paralympics it was, according to those who attended.\u2026",
-      "url": "https://www.cbc.ca/sports/paralympics/paris-paralympics-preview-aug-18-1.7292995",
-      "urlToImage": "https://i.cbc.ca/1.7264699.1721096647!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/paris-paralympics.jpg",
-      "publishedAt": "2024-08-18 18:12:01",
-      "content": "It's been more than a decade since the last Summer Paralympics went off without major controversy. In 2016, Zika Virus concerns were compounded when, two weeks before the Games, the International Pa\u2026 [+9041 chars]",
-      "retrievedAt": "2024-08-19 19:05:40.523817",
-      "internal_id": "fefe5bc5135811be12032327587e0cdf07f37566d4737d59ec235896cea978e0",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 12262,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "El Financiero",
-      "author": "Karina Cancino",
-      "title": "Sepultan en Nayarit a Aylin Milagros, la ni\u00f1a de 8 a\u00f1os cuyo cuerpo fue retenido por un hospital",
-      "description": "La ni\u00f1a estuvo 10 d\u00edas hospitalizada en el Hospital Puerta de Hierro en Tepic por un diagn\u00f3stico de dengue grave.",
-      "url": "https://www.elfinanciero.com.mx/estados/2024/08/18/sepultan-en-nayarit-a-aylin-milagros-la-nina-de-8-anos-cuyo-cuerpo-fue-retenido-por-un-hospital/",
-      "urlToImage": "https://www.elfinanciero.com.mx/resizer/UmaFFGKD3QU476hNumaxlnSjz40=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/4PIA4FPMARG3FIXJDEBUOROFMY.jpg",
-      "publishedAt": "2024-08-18 17:09:26",
-      "content": "Este s\u00e1bado 17 de agosto fue sepultada en Nayarit Aylin Milagros, una ni\u00f1a de 8 a\u00f1os que falleci\u00f3 por dengue el 15 de agosto pasado, cuyo cad\u00e1ver fue retenido por el hospital privado donde era atendi\u2026 [+2264 chars]",
-      "retrievedAt": "2024-08-19 19:05:39.252600",
-      "internal_id": "099d9572f43bc6ed28e5863ffc23f14f83780124cb4fd689ec1256bfaa03c671",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 12265,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "ansa",
-      "source_name": "ANSA.it",
-      "author": null,
-      "title": "Un caso di Dengue nel centro di Padova, scatta disinfestazione",
-      "description": "Un caso di Dengue, trasmessa dalla zanzara tigre, \u00e8 stato registrato a Padova in un residente in Piazza Mazzini, nel centro cittadino. (ANSA)",
-      "url": "https://www.ansa.it/veneto/notizie/2024/08/18/un-caso-di-dengue-nel-centro-di-padova-scatta-disinfestazione_7e1ba774-6b54-412c-bc70-95f4e7545380.html",
-      "urlToImage": "https://www.ansa.it/webimages/img_700/2024/4/10/041557102afbd1e56aa7c817a46827c7.jpg",
-      "publishedAt": "2024-08-18 16:30:27",
-      "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all\u2019abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad \u2026 [+320 chars]",
-      "retrievedAt": "2024-08-19 19:05:39.310040",
-      "internal_id": "ebf388d1d44fee7c1d7bce4def7b05574f4edb30486a24b48dbf7f95e582eb75",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 12260,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "The Star Online",
-      "title": "Experts: Spike in dengue cases due to weather",
-      "description": "PETALING JAYA: Malaysia reported a higher dengue caseload and deaths in the first eight months this year with the spike in cases attributed to the weather. Read full story",
-      "url": "https://www.thestar.com.my/news/nation/2024/08/19/experts-spike-in-dengue-cases-due-to-weather",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/08/19/2865559.jpg",
-      "publishedAt": "2024-08-18 16:00:00",
-      "content": "PETALING JAYA: Malaysia reported a higher dengue caseload and deaths in the first eight months this year with the spike in cases attributed to the weather. As of Aug 17, a total of 92,420 dengue cas\u2026 [+2539 chars]",
-      "retrievedAt": "2024-08-19 19:05:39.218905",
-      "internal_id": "ce437670f91a215b30a4f2770246302645badf46361fcae1999ad439664e0464",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 12300,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Ilfattoquotidiano.it",
-      "author": "F. Q.",
-      "title": "Mpox, l\u2019infettivologo Cauda (Gemelli): \u201cVaiolo delle scimmie? Non siamo alla vigilia del Covid, la trasmissione \u00e8 diversa e c\u2019\u00e8 un vaccino\u201d",
-      "description": "\u201cNon credo servir\u00e0 una vaccinazione di massa ma selettiva. Siamo alla vigilia del Covid? Direi di no, le rassicurazioni dell\u2019Oms consentono di dirlo. La trasmissione \u00e8 diversa, inoltre noi conosciamo il virus, c\u2019\u00e8 un vaccino. Ed una delle ragioni per cui l\u2019Om\u2026",
-      "url": "https://www.ilfattoquotidiano.it/2024/08/18/mpox-linfettivologo-cauda-gemelli-vaiolo-delle-scimmie-non-siamo-alla-vigilia-del-covid-la-trasmissione-e-diversa-e-ce-un-vaccino/7661627/",
-      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2024/08/18/cauda.jpg",
-      "publishedAt": "2024-08-18 15:49:53",
-      "content": "Roma, 18 ago. (Adnkronos) - Il 18 agosto del 1946 sulla spiaggia di Vergarolla, nei pressi di Pola, una strage voluta dai comunisti di Tito caus\u00f2 la morte di 110 italiani: molti corpi, anche di tanti\u2026 [+1181 chars]",
-      "retrievedAt": "2024-08-20 07:06:52.898642",
-      "internal_id": "f3dfb3961f78b084da20f54ffc4d89d74f5533176326bc62efa3061792b48649",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 12264,
-      "query": [
-        "dengue",
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "NDTV News",
-      "author": null,
-      "title": "5 Zika Virus Cases Detected In Bengaluru: Karnataka Health Minister",
-      "description": "Five cases of Zika virus were detected in Bengaluru, Karnataka Health Minister Dinesh Gundu Rao said on Sunday.",
-      "url": "https://www.ndtv.com/india-news/5-zika-virus-cases-detected-in-bengaluru-karnataka-health-minister-6365630",
-      "urlToImage": "https://c.ndtvimg.com/2018-12/1lmjpsgo_zika-virus_625x300_01_December_18.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-      "publishedAt": "2024-08-18 15:32:22",
-      "content": "The Minister said Zika too has simple symptoms and its treatment is similar to dengue (Representational) Bengaluru: Five cases of Zika virus were detected in Bengaluru, Karnataka Health Minister Din\u2026 [+540 chars]",
-      "retrievedAt": "2024-08-19 19:05:39.271447",
-      "internal_id": "d552e6e17bde7edf3031306969e93126c2c0981f746441dfb4bd661cda1f2d3b",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 12275,
-      "query": [
-        "mpox"
-      ],
-      "source_id": "liberation",
-      "source_name": "Lib\u00e9ration",
-      "author": "Nathalie Raulin",
-      "title": "Mpox : un risque d\u2019infection \u00abfaible\u00bb pour la France",
-      "description": "Plus agressif que le variant \u00e0 l\u2019origine de l\u2019\u00e9pid\u00e9mie de 2022, clade 1b a d\u00e9j\u00e0 fait des centaines de morts en Afrique. Mais le maillage sanitaire et les stocks de vaccins disponibles en Europe limitent les risques pour la population.",
-      "url": "https://www.liberation.fr/societe/sante/mpox-un-risque-dinfection-faible-pour-la-france-20240818_3OWZ7QYGAVDYHH56R42MHSOWAU/",
-      "urlToImage": "https://www.liberation.fr/resizer/8AtcbxqjwOQ28OMlHuku94DpDLM=/1200x630/filters:format(jpg):quality(70):focal(3231x1226:3241x1236)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/C2Q3Q4F6TBAQZE4ILLGVTRULVM.jpg",
-      "publishedAt": "2024-08-18 15:06:28",
-      "content": "Les Fran\u00e7ais sont-ils \u00e0 labri du clade 1b, variant du Mpox dont la rapide propagation met les instances sanitaires internationales sur le gril ? Les virus ne connaissant pas de fronti\u00e8res, laffirmer \u2026 [+4808 chars]",
-      "retrievedAt": "2024-08-19 19:05:41.429959",
-      "internal_id": "f3782497613b4ef61c9cc2a65611ffe78eca9a74fe6d214d263bd6c5ab85b5ec",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 12279,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "DIE WELT",
-      "author": "Nike Heinen",
-      "title": "\u201eEs gibt eigentlich zwei Ausbr\u00fcche\u201c",
-      "description": "Gegen Mpox gibt es in Europa nur einen Impfstoff. Florian Lienert ist leitender Pharmaforscher beim Hersteller Bavaria Nordic. Im Gespr\u00e4ch mit WELT kl\u00e4rt er auf, wie viele Dosen sie produzieren k\u00f6nnen und was passieren muss, wenn sich die Krankheit rasant aus\u2026",
-      "url": "https://www.welt.de/wissenschaft/plus253044222/Mpox-Es-gibt-eigentlich-zwei-Ausbrueche.html",
-      "urlToImage": "https://img.welt.de/img/wissenschaft/mobile253068774/8301359617-ci16x9-w1200-fnov-fpotl-fpi157750653/A-patient-has-his-temperature-taken.jpg",
-      "publishedAt": "2024-08-18 14:52:56",
-      "content": "Die WELT als ePaper: Die vollst\u00e4ndige Ausgabe steht Ihnen bereits am Vorabend zur Verf\u00fcgung so sind Sie immer hochaktuell informiert. Weitere Informationen: http://epaper.welt.de Der Kurz-Link die\u2026 [+49 chars]",
-      "retrievedAt": "2024-08-19 19:05:41.622334",
-      "internal_id": "194181a27db1d9ce1f0756197714a062edc6c27b770120e6c1eaadeb403932b0",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 12278,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Olhardigital.com.br",
-      "author": "Bob Furuya",
-      "title": "Quais foram as \u00faltimas emerg\u00eancias em sa\u00fade decretadas pela OMS?",
-      "description": "Na \u00faltima quarta-feira (14), a entidade emitiu um alerta relacionado \u00e0 doen\u00e7a mpox; veja outros casos registrados recentemente. O post Quais foram as \u00faltimas emerg\u00eancias em sa\u00fade decretadas pela OMS? apareceu primeiro em Olhar Digital.",
-      "url": "https://olhardigital.com.br/2024/08/18/medicina-e-saude/quais-foram-as-ultimas-emergencias-em-saude-decretadas-pela-oms/",
-      "urlToImage": "https://img.odcdn.com.br/wp-content/uploads/2024/08/shutterstock_2453168263-scaled.jpg",
-      "publishedAt": "2024-08-18 14:45:00",
-      "content": "A Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS) voltou a colocar, nesta semana, a mpox como uma emerg\u00eancia em sa\u00fade p\u00fablica de import\u00e2ncia internacional. A doen\u00e7a j\u00e1 havia figurado nesta lista entre os anos de \u2026 [+3775 chars]",
-      "retrievedAt": "2024-08-19 19:05:41.612643",
-      "internal_id": "b1d7672525d249d69b6ebd05131df5ea4c8742920cb4180d3628dbb2a1c6a810",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 12352,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Aftonbladet.se",
-      "author": "Martin Palmborg",
-      "title": "Gissl\u00e9n om trippelsmockan \u2013 kikhosta och covid \u00f6kar samtidigt som Sverige f\u00e5tt mpox-fall",
-      "description": "Antalet fall av kikhosta har skjutit i h\u00f6jden, samtidigt som covid \u00f6kar i landet. Och i bakgrunden lurar ett nytt hot, mpox-viruset. \u2013 Vi kommer b\u00f6rja h\u00f6stens v",
-      "url": "https://www.aftonbladet.se/nyheter/a/gwdG8a/kikhosta-och-covid-okar-kraftigt-i-sverige-nu-kommer-mpox",
-      "urlToImage": "https://images.aftonbladet-cdn.se/v2/images/25434c5f-10c9-47f3-875b-570c13a2fd78?fit=crop&format=auto&h=628&q=50&w=1200&s=9a3418f10527dc6b3405ce894350ee14fb3938d6",
-      "publishedAt": "2024-08-18 14:16:51",
-      "content": "Uppdaterad 16.24 | Publicerad 16.16 Antalet fall av kikhosta har skjutit i h\u00f6jden, samtidigt som covid \u00f6kar i landet. Och i bakgrunden lurar ett nytt hot, mpox-viruset. Vi kommer b\u00f6rja h\u00f6stens va\u2026 [+3644 chars]",
-      "retrievedAt": "2024-08-21 07:06:01.339794",
-      "internal_id": "9b7333988463f6baf929f57ca6a6a8d822ad72d342b7105e5ec4b45d86ba9b49",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 12277,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "taz.de",
-      "author": "Paula Irmschler",
-      "title": "AfD, Mpox und der Leipziger CSD: Finstere Zeiten",
-      "description": "Selbstbewusste Nazis, betrunkene Deutsche und ausgebeutete Asylbewerber: Es gibt aktuell nicht so viele Gr\u00fcnde, optimistisch zu sein.",
-      "url": "https://taz.de/AfD-Mpox-und-der-Leipziger-CSD/!6027911/",
-      "urlToImage": "https://taz.de/picture/7188559/948/0322-1.jpeg",
-      "publishedAt": "2024-08-18 14:13:00",
-      "content": "Selbstbewusste Nazis, betrunkene Deutsche und ausgebeutete Asylbewerber: Es gibt aktuell nicht so viele Gr\u00fcnde, optimistisch zu sein. Neonazis zeigen beim CSD in Leipzig das Symbol f\u00fcr White Power, \u2026 [+4623 chars]",
-      "retrievedAt": "2024-08-19 19:05:41.602845",
-      "internal_id": "e44d14795aebaebd3446417d29ce743ae1ab40609706fe3d4f251d29961bee5a",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 12274,
-      "query": [
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Statetimes.in",
-      "author": "statetimes_editor",
-      "title": "Five Zika virus cases detected in Bengaluru",
-      "description": "BENGALURU: Five cases of Zika virus were detected in Bengaluru, Karnataka Health Minister Dinesh Gundu Rao said on Sunday. According to him, from August 4 to 15, five cases of Zika virus have been detected in Jigani in Bengaluru. \u201cAfter the first case was det\u2026",
-      "url": "https://statetimes.in/five-zika-virus-cases-detected-in-bengaluru/",
-      "urlToImage": "https://statetimes.in/wp-content/uploads/2024/07/Zika-virus.jpg",
-      "publishedAt": "2024-08-18 14:08:58",
-      "content": "BENGALURU: Five cases of Zika virus were detected in Bengaluru, Karnataka Health Minister Dinesh Gundu Rao said on Sunday. According to him, from August 4 to 15, five cases of Zika virus have been d\u2026 [+317 chars]",
-      "retrievedAt": "2024-08-19 19:05:40.534183",
-      "internal_id": "3fe6bfa98f85415b1821e3a3354a9edd49ecbaccbce0c466505c3c35cecc5789",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 12270,
-      "query": [
-        "zika"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "PTI",
-      "title": "Five Zika virus cases detected in Bengaluru",
-      "description": "According to Karnataka Health Minister Dinesh Gundu Rao, after the first case was detected, tests were conducted in the surrounding areas and five cases of Zika infection were found. Accordingly, containment has been done. The Minister said Zika too has simp\u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/five-zika-virus-cases-detected-in-bengaluru/articleshow/112609156.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-112609164,width-1200,height-630,imgsize-2642623,overlay-economictimes/photo.jpg",
-      "publishedAt": "2024-08-18 13:22:23",
-      "content": "Bengaluru: Five cases of Zika virus were detected in Bengaluru, Karnataka Health Minister Dinesh Gundu Rao said on Sunday. According to him, from August 4 to 15, five cases of Zika virus have been de\u2026 [+372 chars]",
-      "retrievedAt": "2024-08-19 19:05:40.489310",
-      "internal_id": "4b8e85b1e27ba46c81d9b366e642b2b254bd967000644cd7efb5faf1a4f93da7",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 12271,
-      "query": [
-        "zika"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "PTI",
-      "title": "Five Zika virus cases detected in Bengaluru",
-      "description": "India News: BENGALURU: Five cases of Zika virus were detected in Bengaluru, Karnataka health minister Dinesh Gundu Rao said on Sunday.",
-      "url": "https://timesofindia.indiatimes.com/india/five-zika-virus-cases-detected-in-bengaluru/articleshow/112608623.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-112608668,width-1070,height-580,imgsize-816242,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-08-18 12:51:43",
-      "content": "8 happiness mantras for working professionals",
-      "retrievedAt": "2024-08-19 19:05:40.494799",
-      "internal_id": "6e9562fcbe7257416680a8d4fc7e6d52721f6373fecf56d7f5cd39ee0f5af595",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 12269,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "UN News",
-      "author": "dpicampaigns",
-      "title": "UN and partners report acute malnutrition surge in Government-controlled areas of Yemen",
-      "description": "Acute malnutrition is escalating among children in Government-controlled areas in Yemen, UN agencies and partners said in a report published on Sunday. Read Full Story on UN News The post UN and partners report acute malnutrition surge in Government-controlle\u2026",
-      "url": "https://news.un.org/en/story/2024/08/1153316",
-      "urlToImage": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/27-01-2022_UNICEF_Yemen-2.jpg/image770x420cropped.jpg",
-      "publishedAt": "2024-08-18 12:00:00",
-      "content": "The sharp increase is being driven by diseases, including cholera and malaria, high food insecurity, and limited access to safe drinking water and other essential services, according to the analysis \u2026 [+4034 chars]",
-      "retrievedAt": "2024-08-19 19:05:40.109143",
-      "internal_id": "9e53260e8fc5c59bacb5ab8dbd0980c5bdff0a092ecca95f2c74a3149bedf6e4",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 12267,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Ctvnews.ca",
-      "author": "Daniel Otis",
-      "title": "Meningitis B: Only 2 provinces cover vaccine for students",
-      "description": "Nova Scotia and Prince Edward Island are the only provinces that offer post-secondary students free vaccination against meningitis B, a rare but deadly bacterial infection.",
-      "url": "https://www.ctvnews.ca/health/provinces-urged-to-offer-students-free-vaccines-for-rare-but-deadly-meningitis-strain-1.7004139",
-      "urlToImage": "https://www.ctvnews.ca/polopoly_fs/1.7004156.1723849880!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg",
-      "publishedAt": "2024-08-18 11:00:04",
-      "content": "Nova Scotia and Prince Edward Island are the only provinces that offer post-secondary students free vaccination against meningitis B, a rare but deadly bacterial infection. With Canadian universitie\u2026 [+6403 chars]",
-      "retrievedAt": "2024-08-19 19:05:39.699133",
-      "internal_id": "fd75358447714da1821ffbace9976c484247efc653bbf8aa8dc3fbd8d1e809b1",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 12268,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "nrk",
-      "source_name": "NRK",
-      "author": "Vegard Tj\u00f8rhom",
-      "title": "To \u00e5r gamle Kia er blant dei f\u00f8rste i verda som f\u00e5r d\u00f8dsviktig vaksine",
-      "description": "Kvart \u00e5r tek malaria livet av tusenvis av afrikanske sm\u00e5barn. Men no blir ei historisk vaksine rulla ut. Kamerunske babyar er f\u00f8rst i k\u00f8en.",
-      "url": "https://www.nrk.no/urix/babyar-i-kamerun-forst-ut-med-vaksine-som-kan-redde-millionar-av-liv-1.16965469",
-      "urlToImage": "https://gfx.nrk.no/T2X4AlTM_xzDdyCdvVNPpAUZ7hVbXweZ3c-lkaRbZS1g.jpg",
-      "publishedAt": "2024-08-18 10:28:58",
-      "content": "Me har enorme utfordringar med malaria her. Det ligg s\u00e5 mykje s\u00f8ppel i gatene, og der likar myggen \u00e5 formeire seg, seier Aurline Fuebu. Ho sit med sin to \u00e5r gamle baby i fanget, og les seg opp p\u00e5 al\u2026 [+5426 chars]",
-      "retrievedAt": "2024-08-19 19:05:40.103375",
-      "internal_id": "3910a23f1406ed0c9ffb2d398edf9a5f049c8cbe410536d1066f52dc0db57926",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 12266,
-      "query": [
-        "dengue",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "BusinessLine",
-      "author": "Team Pulse",
-      "title": "World Mosquito Day",
-      "description": "The World Mosquito Day (August 20) raises awareness on mosquito-borne diseases.",
-      "url": "https://www.thehindubusinessline.com/specials/pulse/world-mosquito-day/article68539346.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/h0j3gf/article68539381.ece/alternates/LANDSCAPE_1200/2024-07-25T004356Z_362697650_RC2H09A5EM6M_RTRMADP_3_GUATEMALA-DENGUE.JPG",
-      "publishedAt": "2024-08-18 10:07:15",
-      "content": "The World Mosquito Day (August 20) raises awareness on mosquito-borne diseases. Mosquitoes, one of the worlds deadliest creatures, transmit diseases, including chikungunya, dengue, lymphatic filarias\u2026 [+191 chars]",
-      "retrievedAt": "2024-08-19 19:05:39.332490",
-      "internal_id": "a3e98f7667c78f0ce0f24621609dfd38092ab7c0c26963d1e527bb5c3060eb2d",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 12272,
-      "query": [
-        "zika"
-      ],
-      "source_id": "fox-news",
-      "source_name": "Fox News",
-      "author": "Fox News Staff",
-      "title": "Gender surgeries, migraine tips, 'Zika-like' virus and more top health stories",
-      "description": "This week's health roundup includes stories about controversial \"gender-affirming\" surgeries on kids, a little-known type of diabetes, a \"Zika-like\" virus that's spreading iand more.",
-      "url": "https://www.foxnews.com/health/gender-surgeries-migraine-tips-zika-like-virus-top-health-stories",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/08/health-weekend-recap-8-18.jpg",
-      "publishedAt": "2024-08-18 10:00:19",
-      "content": "Join Fox News for access to this content Plus special access to select articles and other premium content with your account - free of charge. By entering your email and pushing continue, you are ag\u2026 [+2648 chars]",
-      "retrievedAt": "2024-08-19 19:05:40.518575",
-      "internal_id": "7d99b9be6d97afe24b47d909005f3c6261f3927438096e52e9956a6440cb35ab",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 12276,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "DIE WELT",
-      "author": null,
-      "title": "\u201eSicherlich wird dieser neue Stamm auch nach Deutschland kommen\u201c",
-      "description": "Das Mpox-Virus breitet sich in Afrika weiter aus. Am Donnerstag meldete Schweden als erstes Land Europas einen Infektionsfall mit der Virusvariante 1b. Virologe Prof. Klaus St\u00f6hr sagt, man vermute, dass die \u201eUntervariante st\u00e4rkere Krankheitsverl\u00e4ufe verursach\u2026",
-      "url": "https://www.welt.de/wissenschaft/video253065172/Neue-Affenpocken-Variante-Sicherlich-wird-dieser-neue-Stamm-auch-nach-Deutschland-kommen.html",
-      "urlToImage": "https://img.welt.de/img/videos/mobile243116717/4861357157-ci16x9-w1200/290379608-Kopie-jpg.jpg",
-      "publishedAt": "2024-08-18 09:55:24",
-      "content": "Die WELT als ePaper: Die vollst\u00e4ndige Ausgabe steht Ihnen bereits am Vorabend zur Verf\u00fcgung so sind Sie immer hochaktuell informiert. Weitere Informationen: http://epaper.welt.de Der Kurz-Link die\u2026 [+49 chars]",
-      "retrievedAt": "2024-08-19 19:05:41.529115",
-      "internal_id": "2e15bfd88b5d0548aad7d6108b7457ca76a2917c30afae009ccc4c77c587f1b7",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 12261,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "PTI",
-      "title": "Union minister Jual Oram's wife Jhingia Oram dies of dengue",
-      "description": "Jual Oram's wife, Jhingia Oram, passed away from dengue during treatment at a Bhubaneswar hospital. She was 58 and is survived by her husband and two daughters. Odisha Chief Minister Mohan Charan Majhi and other officials paid their respects. Her funeral will\u2026",
-      "url": "https://timesofindia.indiatimes.com/india/union-minister-jual-orams-wife-jhingia-oram-dies-of-dengue/articleshow/112604468.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-112604494,width-1070,height-580,imgsize-29244,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-08-18 08:10:37",
-      "content": "8 happiness mantras for working professionals",
-      "retrievedAt": "2024-08-19 19:05:39.247042",
-      "internal_id": "f7ffe367594833ba458cf4e7aed9a02f7fd3a6c0ba72826ea7a50432a3c933cd",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 12263,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "PTI",
-      "title": "Union minister Jual Oram's wife Jhingia Oram dies of dengue",
-      "description": "Jhingia Oram, wife of Union Minister Jual Oram, succumbed to dengue at a private hospital in Bhubaneswar She leaves behind her husband and two daughters. Odisha Chief Minister Majhi and several other leaders visited the hospital to express their condolences. \u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/union-minister-jual-orams-wife-jhingia-oram-dies-of-dengue/articleshow/112604176.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-112604207,width-1200,height-630,imgsize-15446,overlay-economictimes/photo.jpg",
-      "publishedAt": "2024-08-18 07:44:44",
-      "content": "Union Minister Jual Oram's wife Jhingia Oram died of dengue during treatment at a private hospital here, family sources said on Sunday. Jhingia Oram (58) is survived by her husband and two daughters.\u2026 [+910 chars]",
-      "retrievedAt": "2024-08-19 19:05:39.258056",
-      "internal_id": "0811adf2d40c2dde21400c6a1a8d0e5680d9f4907a6f3579c3e14ece8010314c",
       "publishedAtLabel": "Aug 18"
     }
   ]

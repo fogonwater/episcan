@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 35
-- **Last harvest:** 2024-10-05 07:06
-- **Most recent article:** 2024-10-04 07:04:36
+- **New articles in last harvest:** 50
+- **Last harvest:** 2024-10-05 19:06
+- **Most recent article:** 2024-10-04 19:03:37
 
 ---
 
@@ -12,20 +12,20 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-34 | 24-35 | 24-36 | 24-37 | 24-38 | 24-39 | 24-40 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 208 | 207 | 184 | 192 | 140 | 122 | 57 | 1110 |
-| dengue | 63 | 45 | 49 | 76 | 73 | 49 | 37 | 392 |
-| h5n1 | 5 | 10 | 31 | 10 | 17 | 35 | 42 | 150 |
-| malaria | 27 | 28 | 14 | 12 | 15 | 24 | 8 | 128 |
-| rabies | 5 | 3 | 7 | 5 | 13 | 25 | 21 | 79 |
-| zika | 21 | 2 | 6 | 10 | 8 | 1 | 3 | 51 |
-| measles | 7 | 11 | 9 | 5 | 8 | 4 | 4 | 48 |
-| meningitis | 11 | 5 | 6 | 3 | 10 | 6 | 5 | 46 |
-| chikungunya | 10 | 1 | 5 | 13 | 9 | 3 | 2 | 43 |
+| mpox | 201 | 207 | 184 | 192 | 140 | 122 | 85 | 1131 |
+| dengue | 56 | 45 | 49 | 76 | 73 | 49 | 44 | 392 |
+| h5n1 | 5 | 10 | 31 | 10 | 17 | 35 | 48 | 156 |
+| malaria | 25 | 28 | 14 | 12 | 15 | 24 | 10 | 128 |
+| rabies | 5 | 3 | 7 | 5 | 13 | 25 | 24 | 82 |
+| measles | 7 | 11 | 9 | 5 | 8 | 4 | 6 | 50 |
+| meningitis | 10 | 5 | 6 | 3 | 10 | 6 | 7 | 47 |
+| zika | 15 | 2 | 6 | 10 | 8 | 1 | 3 | 45 |
+| chikungunya | 9 | 1 | 5 | 13 | 9 | 3 | 2 | 42 |
 | pertussis | 5 | 2 | 1 | 5 | 3 | 3 | 1 | 20 |
 | leptospirosis | 4 | 0 | 1 | 0 | 1 | 5 | 4 | 15 |
+| typhoid | 2 | 1 | 1 | 0 | 0 | 4 | 1 | 9 |
+| hpai | 1 | 0 | 3 | 1 | 0 | 2 | 2 | 9 |
 | yersinia | 1 | 1 | 2 | 0 | 2 | 2 | 1 | 9 |
-| hpai | 1 | 0 | 3 | 1 | 0 | 2 | 1 | 8 |
-| typhoid | 2 | 1 | 1 | 0 | 0 | 4 | 0 | 8 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -44,7 +44,17 @@ Source: [News API](https://newsapi.org/)
 
 - [Yersinia not launching due to "--disable-gtk"](https://askubuntu.com/questions/1528902/yersinia-not-launching-due-to-disable-gtk) (Askubuntu.com)
 
+## 24-40 (typhoid)
+
+- [Trends in antimicrobial resistance amongst Salmonella Typhi in Bangladesh: A 24-year retrospective observational study (1999–2022)](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012558) (Plos.org)
+
 ## 24-40 (rabies)
+
+- [Canadian child dies from rabies after bat found in bedroom](https://www.bbc.com/news/articles/cvgxjnldqvdo) (BBC News)
+
+- [Child Dies of Rabies After Bat Broke Into Bedroom](https://www.newsweek.com/child-dies-rabies-ontario-canada-bat-bite-1964007) (Newsweek)
+
+- [Child dies from rabies after bat found in room, officials say](https://www.cbsnews.com/news/child-dies-bat-rabies-canada/) (CBS News)
 
 - [Bukan Cuma Makanan, Kucing Liar Juga Butuh Sterilisasi dan Vaksinasi Rabies](https://www.liputan6.com/health/read/5728331/bukan-cuma-makanan-kucing-liar-juga-butuh-sterilisasi-dan-vaksinasi-rabies) (Liputan6.com)
 
@@ -93,6 +103,62 @@ Source: [News API](https://newsapi.org/)
 - [Seroprevalence of Bordetella pertussis infection in children 1–14 years old: Indonesia basic health research (Riskesdas) 2013 and 2018 data](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0311362) (Plos.org)
 
 ## 24-40 (mpox)
+
+- [Megjött az új majomhimlő-teszt](https://www.portfolio.hu/global/20241004/megjott-az-uj-majomhimlo-teszt-714581) (Portfolio.hu)
+
+- [OMS da luz verde a una prueba diagnóstica de emergencia para la detección del mpox](https://www.forbes.com.mx/oms-da-luz-verde-a-una-prueba-diagnostica-de-emergencia-para-la-deteccion-del-mpox/) (Forbes.com.mx)
+
+- [Africa CDC donates equipment to boost mpox immunization in South Sudan](https://www.thestar.com.my/news/world/2024/10/05/africa-cdc-donates-equipment-to-boost-mpox-immunization-in-south-sudan) (The Star Online)
+
+- [WHO approves first mpox test for faster diagnoses](https://www.aljazeera.com/news/2024/10/4/who-approves-first-mpox-test-for-faster-diagnoses) (Al Jazeera English)
+
+- [OMS aprova primeiro teste para diagnosticar mpox](https://valor.globo.com/mundo/noticia/2024/10/04/oms-aprova-primeiro-teste-para-diagnosticar-mpox.ghtml) (Globo)
+
+- [OMS aprova primeiro teste para diagnosticar mpox](https://www.metropoles.com/saude/oms-teste-para-diagnosticar-mpox) (Metropoles.com)
+
+- [OMS aprova primeiro teste para diagnosticar mpox](https://www.terra.com.br/noticias/oms-aprova-primeiro-teste-para-diagnosticar-mpox,2b5c75d14af6c9e04d64984b6b01c77dsbubc5cp.html) (Terra.com.br)
+
+- [Mpox: Ο ΠΟΥ ενέκρινε το πρώτο τεστ για γρήγορη διάγνωση](https://www.skai.gr/news/health/mpox-o-pou-enekrine-to-1o-test-gia-grigori-diagnosi) (Skai.gr)
+
+- [WHO approves first mpox diagnostic test for emergency use](https://www.investing.com/news/world-news/who-approves-first-mpox-diagnostic-test-for-emergency-use-3649255) (Investing.com)
+
+- [Primul test care poate detecta virusul mpox, cu rezultate imediate, a fost aprobat de OMS](https://www.digi24.ro/stiri/actualitate/sanatate/primul-test-care-poate-detecta-virusul-mpox-cu-rezultate-imediate-a-fost-aprobat-de-oms-2956113) (Digi24.ro)
+
+- [WHO approves first mpox diagnostic test for emergency use](https://news.un.org/en/story/2024/10/1155351) (UN News)
+
+- [OMS a aprobat prima testare pentru diagnosticarea Variolei maimuței](https://adevarul.ro/stiri-interne/sanatate/oms-a-aprobat-prima-testare-pentru-diagnosticarea-2392434.html) (Adevarul.ro)
+
+- [WHO approves first mpox diagnostic test](https://www.dw.com/en/who-approves-first-mpox-diagnostic-test/a-70404386) (DW (English))
+
+- [WHO clears in vitro diagnostic mpox testing for emergency use](https://www.techtarget.com/pharmalifesciences/news/366612914/WHO-clears-in-vitro-diagnostic-mpox-testing-for-emergency-use) (Techtarget.com)
+
+- [WHO approves first mpox test for quick diagnosis](https://www.bbc.com/news/articles/c2436p21j90o) (BBC News)
+
+- [WHO erteilt Notfallzulassung für Mpox-Test](https://www.welt.de/gesundheit/article253843792/Mpox-WHO-erteilt-Notfallzulassung-fuer-Mpox-Test.html) (DIE WELT)
+
+- [Weltgesundheitsorganisation: WHO erteilt erstmals Notzulassung für Mpox-Test](https://www.zeit.de/gesundheit/2024-10/weltgesundheitsorganisation-mpox-notfallzulassung-test-afrika) (Die Zeit)
+
+- [Mpox-Virus in Afrika](https://www.faz.net/aktuell/wissen/medizin-ernaehrung/epidemie-mpox-virus-fuehrt-zu-866-toten-in-afrika-in-diesem-jahr-110025900.html) (Faz.net)
+
+- [Virus mpox : l’OMS donne son accord pour commercialiser un test de diagnostic](https://atlantico.fr/article/pepite/virus-mpox-loms-donne-son-accord-pour-commercialiser-un-test-de-diagnostic) (Atlantico.fr)
+
+- [WHO zet licht op groen voor test om mpox te detecteren](https://www.hbvl.be/cnt/dmf20241004_93337260) (Hbvl.be)
+
+- [WHO zet licht op groen voor test om mpox te detecteren](https://www.nieuwsblad.be/cnt/dmf20241004_93232156) (Nieuwsblad.be)
+
+- [Mpox. Organização Mundial da Saúde dá luz verde a teste para diagnosticar a doença](https://observador.pt/2024/10/04/mpox-organizacao-mundial-da-saude-da-luz-verde-a-teste-para-diagnosticar-a-doenca/) (Observador.pt)
+
+- [Krankheiten: WHO gibt grünes Licht für schnelleren Mpox-Test](https://www.tagesspiegel.de/wissen/krankheiten-who-gibt-grunes-licht-fur-schnelleren-mpox-test-12481943.html) (Der Tagesspiegel)
+
+- [Krankheiten: WHO gibt grünes Licht für schnelleren Mpox-Test](https://www.zeit.de/news/2024-10/04/who-gibt-gruenes-licht-fuer-schnelleren-mpox-test) (Die Zeit)
+
+- [Feu vert de l’OMS à un test pour diagnostiquer le mpox](https://www.sudinfo.be/id891722/article/2024-10-04/feu-vert-de-loms-un-test-pour-diagnostiquer-le-mpox) (Sudinfo.be)
+
+- [WHO Approves First Diagnostic Test For Mpox Amid Rising Outbreaks In Africa](https://www.ndtv.com/world-news/who-approves-first-diagnostic-test-for-mpox-amid-rising-outbreaks-in-africa-6713877) (NDTV News)
+
+- [Mpox : l’OMS donne son feu vert à un test pour diagnostiquer le virus](https://www.ouest-france.fr/sante/virus/variole-du-singe/mpox-loms-donne-son-feu-vert-a-un-test-pour-diagnostiquer-le-virus-940b19a8-8217-11ef-91d9-7f562215fe95) (Ouest-France)
+
+- [Mpox en Afrique : 866 décès depuis le début de l’année, selon l’agence sanitaire Africa CDC](https://www.lemonde.fr/afrique/article/2024/10/04/mpox-en-afrique-866-deces-depuis-le-debut-de-l-annee-selon-l-agence-sanitaire-africa-cdc_6343438_3212.html) (Le Monde)
 
 - [WHO approves first mpox diagnostic test for emergency use](https://punchng.com/who-approves-first-mpox-diagnostic-test-for-emergency-use/) (The Punch)
 
@@ -210,6 +276,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-40 (meningitis)
 
+- [El día a día de Luis Canut, marido de Patricia Pérez, con su ceguera: así aprende a coger el autobús](https://www.hola.com/actualidad/20241004722186/luis-canut-patricia-perez-autobus-ceguera/) (Hola)
+
+- [Understanding The Long-Term Effects Of Meningitis: Rehabilitation And Recovery](https://doctor.ndtv.com/living-healthy/understanding-the-long-term-effects-of-meningitis-rehabilitation-and-recovery-6714184) (NDTV News)
+
 - [World Meningitis Day: How Early Detection And Vaccination Can Save Lives](https://doctor.ndtv.com/living-healthy/world-meningitis-day-how-early-detection-and-vaccination-can-save-lives-6705684) (NDTV News)
 
 - [Tragedy drives mother's mission to spread the message about importance of the meningitis vaccine](https://www.wwltv.com/article/news/health/tragedy-drives-mothers-mission-to-spread-the-message-about-importance-of-the-meningitis-vaccine/289-3a09d9f0-0c25-4848-ba61-e41c88c36096) (WWLTV.com)
@@ -222,6 +292,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-40 (measles)
 
+- [Medical Tyranny: Officials Tried To Hide The Fact That The MMR Vaccine Caused Maine’s Only Case of Measles](https://www.shtfplan.com/headline-news/medical-tyranny-officials-tried-to-hide-the-fact-that-the-mmr-vaccine-caused-maines-only-case-of-measles) (Shtfplan.com)
+
+- [Enugu to immunise 942,707 children in measles vaccination campaign](https://punchng.com/enugu-to-immunise-942707-children-in-measles-vaccination-campaign/) (The Punch)
+
 - [US school-entry vaccination rates fall as exemptions keep rising](https://www.seattlepi.com/news/article/us-school-entry-vaccination-rates-fall-as-19811517.php) (seattlepi.com)
 
 - [Ministry of Heath enhancing One Health approach urging public to seriously maintain personal hygiene](https://www.nyasatimes.com/ministry-of-heath-enhancing-one-health-approach-urging-public-to-seriously-maintain-personal-hygiene/) (Nyasa Times)
@@ -231,6 +305,10 @@ Source: [News API](https://newsapi.org/)
 - [UNICEF partners S’West on five million children’s immunisation](https://punchng.com/unicef-partners-swest-on-five-million-childrens-immunisation/) (The Punch)
 
 ## 24-40 (malaria)
+
+- [The impact of increasing temperatures due to climate change on infectious diseases](https://www.bmj.com/content/387/bmj-2024-079343) (The BMJ)
+
+- ["Wait And See...": Udhayanidhi Stalin On Pawan Kalyan's 'Sanatan Dharm' Warning](https://www.ndtv.com/tamil-nadu-news/udhayanidhi-stalin-on-pawan-kalyans-sanatan-dharm-warning-wait-and-see-6713881) (NDTV News)
 
 - [New drug fights tough malaria parasites](https://www.futurity.org/new-malaria-drug-3251622/) (Futurity: Research News)
 
@@ -260,9 +338,23 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-40 (hpai)
 
+- [軽くて賢かった。HPの新しいノートPCはAIもコンパチもお任せ](https://www.gizmodo.jp/2024/10/hp-omnibook-ultra-flip-14-ai-pc.html) (Gizmodo.jp)
+
 - [日本HP、次世代AI PCの新製品として個人向けコンバーチブルPCを発表](https://prtimes.jp/main/html/rd/p/000000072.000068112.html) (Prtimes.jp)
 
 ## 24-40 (h5n1)
+
+- [Bird flu patient had no apparent contact with animals – and there’s still no evidence of sustained human-to-human spread](https://theconversation.com/bird-flu-patient-had-no-apparent-contact-with-animals-and-theres-still-no-evidence-of-sustained-human-to-human-spread-239670) (The Conversation Africa)
+
+- [(GIST OF SCIENCE REPORTER) Messenger Ribonucleic Acid](https://iasexamportal.com/the-gist/science-reporter-messenger-ribonucleic-acid) (Iasexamportal.com)
+
+- [First Human Cases of Bird Flu in California Confirmed](https://www.newsweek.com/first-human-cases-bird-flu-h5n1-confirmed-california-1963941) (Newsweek)
+
+- [Újabb magyar vármegyébe tört be a madárinfluenza, minimalizálni kell a jármű- és személyi forgalmat](https://www.portfolio.hu/gazdasag/20241004/ujabb-magyar-varmegyebe-tort-be-a-madarinfluenza-minimalizalni-kell-a-jarmu-es-szemelyi-forgalmat-714489) (Portfolio.hu)
+
+- [Dutzende Tiger und Löwen in Vietnam an Vogelgrippe verendet](https://www.diepresse.com/18930011/dutzende-tiger-und-loewen-in-vietnam-an-vogelgrippe-verendet) (Diepresse.com)
+
+- [¿Será la gripe aviar H5N1 la próxima pandemia humana?](https://www.abc.es/salud/enfermedades/gripe-aviar-h5n1-proxima-pandemia-humana-20241004094610-nt.html) (Www.abc.es)
 
 - [Птичий грипп убил более десятка тигров в зоопарке на юге Вьетнама](https://rg.ru/2024/10/04/ptichij-gripp-ubil-bolee-desiatka-tigrov-v-zooparke-na-iuge-vetnama.html) (Rg.ru)
 
@@ -349,6 +441,20 @@ Source: [News API](https://newsapi.org/)
 - [The “Cluster” of Possible Human Bird Flu Infections Has Expanded to 8](https://www.shtfplan.com/headline-news/the-cluster-of-possible-human-bird-flu-infections-has-expanded-to-8) (Shtfplan.com)
 
 ## 24-40 (dengue)
+
+- [J&J discontinues dengue drug study after changes in R&D portfolio](https://www.cnbc.com/2024/10/04/jj-discontinues-dengue-drug-study-after-changes-in-rd-portfolio.html) (CNBC)
+
+- [Dengue, nel Fanese 115 casi confermati, un ricoverato a Pesaro](https://www.ansa.it/marche/notizie/2024/10/04/dengue-nel-fanese-115-casi-confermati-un-ricoverato-a-pesaro_d90bff8a-e9cd-42f8-a2f3-d38dc0afac8c.html) (ANSA.it)
+
+- [Un caso di Dengue a Pesaro, interventi di disinfestazione](https://www.ansa.it/marche/notizie/2024/10/04/un-caso-di-dengue-a-pesaro-interventi-di-disinfestazione_b054d3c6-6531-49b3-8512-3eb53f5277e2.html) (ANSA.it)
+
+- [Dengue, oli essenziali di lavanda e menta contro le zanzare? L’esperto: “Usare solo repellenti certificati”. Ecco come prevenire il contagio”](https://www.ilfattoquotidiano.it/2024/10/04/dengue-oli-essenziali-di-lavanda-e-menta-contro-le-zanzare-lesperto-usare-solo-repellenti-certificati-ecco-come-prevenire-il-contagio/7718074/) (Ilfattoquotidiano.it)
+
+- [The impact of increasing temperatures due to climate change on infectious diseases](https://www.bmj.com/content/387/bmj-2024-079343) (The BMJ)
+
+- ["Wait And See...": Udhayanidhi Stalin On Pawan Kalyan's 'Sanatan Dharm' Warning](https://www.ndtv.com/tamil-nadu-news/udhayanidhi-stalin-on-pawan-kalyans-sanatan-dharm-warning-wait-and-see-6713881) (NDTV News)
+
+- [Dengue a Fano, il sindaco: “È una lezione, serve azione larvicida a primavera. La situazione? Zanzare rimaste sono senza virus”](https://www.ilfattoquotidiano.it/2024/10/04/dengue-a-fano-il-sindaco-e-una-lezione-serve-azione-larvicida-a-primavera-la-situazione-zanzare-rimaste-sono-senza-virus/7717017/) (Ilfattoquotidiano.it)
 
 - [Colima registra el año más mortal por dengue en una década](https://www.milenio.com/estados/colima-registra-el-ano-mas-mortal-por-dengue-desde-2014) (Milenio)
 
@@ -3690,18 +3796,6 @@ Source: [News API](https://newsapi.org/)
 
 - [2 pregnant women, 4 others test positive for Zika in B’luru](https://timesofindia.indiatimes.com/city/bengaluru/zika-virus-cases-in-bengaluru/articleshow/112614294.cms) (The Times of India)
 
-- [Paris organizers aim to emulate success of London 2012 as 'normalcy' returns to Paralympics](https://www.cbc.ca/sports/paralympics/paris-paralympics-preview-aug-18-1.7292995) (CBC News)
-
-- [5 Zika Virus Cases Detected In Bengaluru: Karnataka Health Minister](https://www.ndtv.com/india-news/5-zika-virus-cases-detected-in-bengaluru-karnataka-health-minister-6365630) (NDTV News)
-
-- [Five Zika virus cases detected in Bengaluru](https://statetimes.in/five-zika-virus-cases-detected-in-bengaluru/) (Statetimes.in)
-
-- [Five Zika virus cases detected in Bengaluru](https://economictimes.indiatimes.com/news/india/five-zika-virus-cases-detected-in-bengaluru/articleshow/112609156.cms) (The Times of India)
-
-- [Five Zika virus cases detected in Bengaluru](https://timesofindia.indiatimes.com/india/five-zika-virus-cases-detected-in-bengaluru/articleshow/112608623.cms) (The Times of India)
-
-- [Gender surgeries, migraine tips, 'Zika-like' virus and more top health stories](https://www.foxnews.com/health/gender-surgeries-migraine-tips-zika-like-virus-top-health-stories) (Fox News)
-
 ## 24-34 (yersinia)
 
 - [RNase-mediated reprogramming of Yersinia virulence](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011965) (Plos.org)
@@ -4140,20 +4234,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Implementa China protocolos contra mpox](https://www.reforma.com/implementa-china-protocolos-contra-mpox/ar2859001) (Reforma.com)
 
-- [Mpox, l’infettivologo Cauda (Gemelli): “Vaiolo delle scimmie? Non siamo alla vigilia del Covid, la trasmissione è diversa e c’è un vaccino”](https://www.ilfattoquotidiano.it/2024/08/18/mpox-linfettivologo-cauda-gemelli-vaiolo-delle-scimmie-non-siamo-alla-vigilia-del-covid-la-trasmissione-e-diversa-e-ce-un-vaccino/7661627/) (Ilfattoquotidiano.it)
-
-- [Mpox : un risque d’infection «faible» pour la France](https://www.liberation.fr/societe/sante/mpox-un-risque-dinfection-faible-pour-la-france-20240818_3OWZ7QYGAVDYHH56R42MHSOWAU/) (Libération)
-
-- [„Es gibt eigentlich zwei Ausbrüche“](https://www.welt.de/wissenschaft/plus253044222/Mpox-Es-gibt-eigentlich-zwei-Ausbrueche.html) (DIE WELT)
-
-- [Quais foram as últimas emergências em saúde decretadas pela OMS?](https://olhardigital.com.br/2024/08/18/medicina-e-saude/quais-foram-as-ultimas-emergencias-em-saude-decretadas-pela-oms/) (Olhardigital.com.br)
-
-- [Gisslén om trippelsmockan – kikhosta och covid ökar samtidigt som Sverige fått mpox-fall](https://www.aftonbladet.se/nyheter/a/gwdG8a/kikhosta-och-covid-okar-kraftigt-i-sverige-nu-kommer-mpox) (Aftonbladet.se)
-
-- [AfD, Mpox und der Leipziger CSD: Finstere Zeiten](https://taz.de/AfD-Mpox-und-der-Leipziger-CSD/!6027911/) (taz.de)
-
-- [„Sicherlich wird dieser neue Stamm auch nach Deutschland kommen“](https://www.welt.de/wissenschaft/video253065172/Neue-Affenpocken-Variante-Sicherlich-wird-dieser-neue-Stamm-auch-nach-Deutschland-kommen.html) (DIE WELT)
-
 ## 24-34 (meningitis)
 
 - [Pharmacist pleads no contest to involuntary manslaughter in Michigan deaths from meningitis outbreak](https://abcnews.go.com/Business/wireStory/pharmacist-pleads-contest-involuntary-manslaughter-michigan-deaths-meningitis-113072407) (ABC News)
@@ -4175,8 +4255,6 @@ Source: [News API](https://newsapi.org/)
 - [Pharmacist blamed for deaths in US meningitis outbreak expected to plead no contest in Michigan case](https://abcnews.go.com/US/wireStory/pharmacist-blamed-deaths-us-meningitis-outbreak-expected-plead-113059673) (ABC News)
 
 - [Press release: Students urged to protect themselves from deadly meningitis](https://www.gov.uk/government/news/students-urged-to-protect-themselves-from-deadly-meningitis) (Www.gov.uk)
-
-- [Meningitis B: Only 2 provinces cover vaccine for students](https://www.ctvnews.ca/health/provinces-urged-to-offer-students-free-vaccines-for-rare-but-deadly-meningitis-strain-1.7004139) (Ctvnews.ca)
 
 ## 24-34 (measles)
 
@@ -4245,10 +4323,6 @@ Source: [News API](https://newsapi.org/)
 - [The newest weapon against mosquitoes: computer vision](https://www.gatesnotes.com/Computer-vision-is-helping-fight-malaria) (Gatesnotes.com)
 
 - [Australian 'Trojan horse' trial uses cholesterol to trick malaria parasites into consuming fatal drugs](https://www.abc.net.au/news/2024-08-19/university-research-cholesterol-targets-malaria-parasites/104239214) (ABC News (AU))
-
-- [UN and partners report acute malnutrition surge in Government-controlled areas of Yemen](https://news.un.org/en/story/2024/08/1153316) (UN News)
-
-- [To år gamle Kia er blant dei første i verda som får dødsviktig vaksine](https://www.nrk.no/urix/babyar-i-kamerun-forst-ut-med-vaksine-som-kan-redde-millionar-av-liv-1.16965469) (NRK)
 
 ## 24-34 (leptospirosis)
 
@@ -4390,20 +4464,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Bacolod: Dengue cases in Negros Occidental up 94%](https://rpnradio.com/bacolod-dengue-cases-in-negros-occidental-up-94/) (Rpnradio.com)
 
-- [Sepultan en Nayarit a Aylin Milagros, la niña de 8 años cuyo cuerpo fue retenido por un hospital](https://www.elfinanciero.com.mx/estados/2024/08/18/sepultan-en-nayarit-a-aylin-milagros-la-nina-de-8-anos-cuyo-cuerpo-fue-retenido-por-un-hospital/) (El Financiero)
-
-- [Un caso di Dengue nel centro di Padova, scatta disinfestazione](https://www.ansa.it/veneto/notizie/2024/08/18/un-caso-di-dengue-nel-centro-di-padova-scatta-disinfestazione_7e1ba774-6b54-412c-bc70-95f4e7545380.html) (ANSA.it)
-
-- [Experts: Spike in dengue cases due to weather](https://www.thestar.com.my/news/nation/2024/08/19/experts-spike-in-dengue-cases-due-to-weather) (The Star Online)
-
-- [5 Zika Virus Cases Detected In Bengaluru: Karnataka Health Minister](https://www.ndtv.com/india-news/5-zika-virus-cases-detected-in-bengaluru-karnataka-health-minister-6365630) (NDTV News)
-
-- [World Mosquito Day](https://www.thehindubusinessline.com/specials/pulse/world-mosquito-day/article68539346.ece) (BusinessLine)
-
-- [Union minister Jual Oram's wife Jhingia Oram dies of dengue](https://timesofindia.indiatimes.com/india/union-minister-jual-orams-wife-jhingia-oram-dies-of-dengue/articleshow/112604468.cms) (The Times of India)
-
-- [Union minister Jual Oram's wife Jhingia Oram dies of dengue](https://economictimes.indiatimes.com/news/india/union-minister-jual-orams-wife-jhingia-oram-dies-of-dengue/articleshow/112604176.cms) (The Times of India)
-
 ## 24-34 (chikungunya)
 
 - [Susceptibility status of Aedes aegypti (Diptera: Culicidae) to public health insecticides in Southern Afar Region, Ethiopia](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0309335) (Plos.org)
@@ -4423,5 +4483,3 @@ Source: [News API](https://newsapi.org/)
 - [World Mosquito Day: Date, Theme, History And Significance](https://www.ndtv.com/offbeat/world-mosquito-day-date-theme-history-and-significance-6374914) (NDTV News)
 
 - [Febre oropouche pode provocar sintomas nos olhos. Saiba quais](https://www.metropoles.com/saude/febre-oropouche-sintoma-nos-olhos) (Metropoles.com)
-
-- [World Mosquito Day](https://www.thehindubusinessline.com/specials/pulse/world-mosquito-day/article68539346.ece) (BusinessLine)
