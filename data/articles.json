@@ -1,8 +1,548 @@
 {
-  "last_updated": "2024-10-06 07:06",
-  "count_articles_total": 1725,
-  "count_articles_new": 13,
+  "last_updated": "2024-10-06 19:05",
+  "count_articles_total": 1741,
+  "count_articles_new": 30,
   "articles": [
+    {
+      "id": 14365,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Nuova disinfestazione per Dengue a Fano, incidenza casi scende",
+      "description": "Nuovo intervento di disinfestazione contro la Dengue: doppia operazione notturna a Fano dopo gli oltre 100 casi registrati nell'ultimo periodo. (ANSA)",
+      "url": "https://www.ansa.it/marche/notizie/2024/10/05/nuova-disinfestazione-per-dengue-a-fano-incidenza-casi-scende_97556277-52e9-4333-830a-bbee7cfbd64c.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2018/6/22/ded9844ee752cd4669ab5a84f8f7412f.jpg",
+      "publishedAt": "2024-10-05 18:54:24",
+      "content": "Nuovo intervento di disinfestazione contro la Dengue: doppia operazione notturna a Fano dopo gli oltre 100 casi registrati nell'ultimo periodo. \"Per consolidare i miglioramenti osservati e dare se\u2026 [+1783 chars]",
+      "retrievedAt": "2024-10-06 19:05:31.145066",
+      "internal_id": "413ee9896b50b3f7d771f2891de23b0e98c5963cf9bff8a1908e8595918a88f6",
+      "publishedAtLabel": "Oct 5"
+    },
+    {
+      "id": 14385,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Alphafreepress.gr",
+      "author": "\u0395\u03c5\u03c4\u03c5\u03c7\u03af\u03b1 \u03a0\u03b1\u03c0\u03bf\u03cd\u03bb\u03b9\u03b1",
+      "title": "Mpox: 866 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 \u03c3\u03c4\u03b7\u03bd \u0391\u03c6\u03c1\u03b9\u03ba\u03ae \u03b1\u03c0\u03cc \u03c4\u03b9\u03c2 \u03b1\u03c1\u03c7\u03ad\u03c2 \u03c4\u03bf\u03c5 \u03ad\u03c4\u03bf\u03c5\u03c2",
+      "description": "\u03a4\u03b9\u03c2 \u03c4\u03b5\u03bb\u03b5\u03c5\u03c4\u03b1\u03af\u03b5\u03c2 \u03b5\u03b2\u03b4\u03bf\u03bc\u03ac\u03b4\u03b5\u03c2 \u03ba\u03b1\u03c4\u03b1\u03b3\u03c1\u03ac\u03c6\u03bf\u03bd\u03c4\u03b1\u03b9 \u03c0\u03b5\u03c1\u03af \u03c4\u03b1 2.500 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03b5\u03b2\u03b4\u03bf\u03bc\u03b1\u03b4\u03b9\u03b1\u03af\u03c9\u03c2",
+      "url": "https://www.alphafreepress.gr/2024/10/05/kosmos/mpox-866-thanatoi-stin-afriki-apo-tis-arxes-tou-etous/",
+      "urlToImage": "https://www.alphafreepress.gr/wp-content/uploads/2023/11/hospital-2301041_1920.jpg",
+      "publishedAt": "2024-10-05 18:40:52",
+      "content": "866 mpox , 34.297 , Africa CDC. mpox 16 . \u00ab \u00bb, . , , . 2.500 , , \u00ab \u00bb. mpox . , , 475 , , , , (GHS), . , 25 . \u00ab mpox \u00bb , . . 230 , GHS. mpox, , , , , , . . mpox (clade 1b) . clade 1b , , , , Afric\u2026 [+24 chars]",
+      "retrievedAt": "2024-10-06 19:05:33.021078",
+      "internal_id": "0d165fbeede0fb0a4eec25ad6307501a4f2e706a3bc13d2780ef91f77d566498",
+      "publishedAtLabel": "Oct 5"
+    },
+    {
+      "id": 14376,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "DW (English)",
+      "author": "Deutsche Welle",
+      "title": "Congo launches its first mpox vaccination drive",
+      "description": "The Democratic Republic of Congo recorded nearly 1,000 deaths and more than 30,000 mpox cases. The first of the vaccines were administered to medical staff. Starting next week the shots will be offered to the public.",
+      "url": "https://www.dw.com/en/congo-launches-its-first-mpox-vaccination-drive/a-70414094",
+      "urlToImage": "https://static.dw.com/image/70404643_6.jpg",
+      "publishedAt": "2024-10-05 18:36:00",
+      "content": "Authorities in the Democratic Republic of Congo (DRC) said Saturday they had begun a vaccination campaign against mpox a virus that causes painful rashes and flu-like symptoms and in some cases can \u2026 [+3470 chars]",
+      "retrievedAt": "2024-10-06 19:05:32.848191",
+      "internal_id": "e78b3beca9157c881d21d06240c9795e5609e83ce39e3ff9310b88968ae7e303",
+      "publishedAtLabel": "Oct 5"
+    },
+    {
+      "id": 14360,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Newser",
+      "author": "Bob Cronin",
+      "title": "Child Dies of Rabies After Bat Gets Into House",
+      "description": "\"They woke up with a bat in their bedroom,\" a Canadian health official said of a child in Ontario. The parents saw no signs of a bite or scratches so did not take their child to receive the rabies vaccine, Dr. Malcolm Lock said, per the BBC . The child, who...",
+      "url": "https://www.newser.com/story/357353/after-bat-gets-into-bedroom-canadian-child-dies-of-rabies.html",
+      "urlToImage": "https://img2-azrcdn.newser.com/image/1564147-12-20241005132717.jpeg",
+      "publishedAt": "2024-10-05 18:00:00",
+      "content": "\"They woke up with a bat in their bedroom,\" a Canadian health official said of a child in Ontario. The parents saw no signs of a bite or scratches so did not take their child to receive the rabies va\u2026 [+1282 chars]",
+      "retrievedAt": "2024-10-06 19:05:29.618040",
+      "internal_id": "f622807f1f5e26dd2b1f253ce5778d926bde0d7ee46990ece58257833b0af6dd",
+      "publishedAtLabel": "Oct 5"
+    },
+    {
+      "id": 14383,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Sputniknews.africa",
+      "author": "Sputnik Afrique",
+      "title": "La vaccination contre la mpox est lanc\u00e9e en RDC",
+      "description": "La campagne a d\u00e9but\u00e9 ce 5 octobre \u00e0 Goma dans la province du Nord-Kivu, parmi les plus touch\u00e9es par le virus.",
+      "url": "https://fr.sputniknews.africa/20241005/la-vaccination-contre-la-mpox-est-lancee-en-rdc-1068562712.html",
+      "urlToImage": "https://cdn1.img.sputniknews.africa/images/sharing/article/fra/1068562712.jpg?10685625281728149525",
+      "publishedAt": "2024-10-05 17:32:04",
+      "content": "https://fr.sputniknews.africa/20241005/la-vaccination-contre-la-mpox-est-lancee-en-rdc-1068562712.html La vaccination contre la mpox est lanc\u00e9e en RDC La vaccination contre la mpox est lanc\u00e9e en RD\u2026 [+2003 chars]",
+      "retrievedAt": "2024-10-06 19:05:32.999679",
+      "internal_id": "ed2be52d7df02b28dbbbea34fafdd48976c4ac681d432cd27d8ca437e2d97935",
+      "publishedAtLabel": "Oct 5"
+    },
+    {
+      "id": 14364,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Hbvl.be",
+      "author": "Vincent Janssen",
+      "title": "Jane (38) uit Venlo liep knokkelkoorts in Spanje op: kruipen de tropische ziektes verder deze kant op?",
+      "description": "Dit jaar is een recordaantal Nederlanders besmet met dengue. Experts vrezen dat steeds meer van deze tropische ziektes onze kant op komen. Welke virussen zijn dat? En zijn de zorgen terecht?",
+      "url": "https://www.hbvl.be/cnt/dmf20241005_94844281",
+      "urlToImage": "https://static.hbvl.be/Assets/Images_Upload/2024/10/05/690d15b3-7df2-4d6a-92aa-6c7fe671908c.jpg?maxheight=460&maxwidth=629",
+      "publishedAt": "2024-10-05 17:00:55",
+      "content": "De Aziatische tijgermug is een verspreider van tropische virusziektes. \u00a9 Getty Images",
+      "retrievedAt": "2024-10-06 19:05:31.065094",
+      "internal_id": "fc3f0ff78e368fbad81158dab01e218c4c070e5f3bfdfc51e638518f28bc47e6",
+      "publishedAtLabel": "Oct 5"
+    },
+    {
+      "id": 14369,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "ZEIT ONLINE: News -",
+      "title": "Virusbek\u00e4mpfung: Kongo beginnt mit Mpox-Impfungen",
+      "description": "Hier finden Sie Informationen zu dem Thema \u201eVirusbek\u00e4mpfung\u201c. Lesen Sie jetzt \u201eKongo beginnt mit Mpox-Impfungen\u201c.",
+      "url": "https://www.zeit.de/news/2024-10/05/kongo-beginnt-mit-mpox-impfungen",
+      "urlToImage": "https://img.zeit.de/news/2024-10/05/kongo-beginnt-mit-mpox-impfungen-image-group/wide__1300x731",
+      "publishedAt": "2024-10-05 16:20:11",
+      "content": "In der Demokratischen Republik Kongo (DRK) werden nach Angaben der Weltgesundheitsorganisation (WHO) seit Samstag Menschen gegen das t\u00f6dliche Mpox-Virus geimpft. Die Impfaktion begann demnach in der \u2026 [+1057 chars]",
+      "retrievedAt": "2024-10-06 19:05:32.772551",
+      "internal_id": "f4c2759fe55cc7d2a231c534da6a8da938ae117acf0e8d7a1918b12a48f70e1e",
+      "publishedAtLabel": "Oct 5"
+    },
+    {
+      "id": 14384,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "Virusbek\u00e4mpfung: Kongo beginnt mit Mpox-Impfungen",
+      "description": "Kinshasa - In der Demokratischen Republik Kongo (DRK) werden nach Angaben der Weltgesundheitsorganisation (WHO) seit Samstag Menschen gegen das t\u00f6dliche",
+      "url": "https://www.stern.de/panorama/virusbekaempfung--kongo-beginnt-mit-mpox-impfungen-35120242.html",
+      "urlToImage": "https://image.stern.de/35120244/t/p8/v1/w1440/r1.7778/-/05--xl2xlehbzyv4axw800h600jpeg---7af749a46738f3d3.jpg",
+      "publishedAt": "2024-10-05 16:20:11",
+      "content": "Dem Virus sind in dem Land schon Hunderte Menschen zum Opfer gefallen. Nun haben im Kongo Impfungen begonnen - zun\u00e4chst f\u00fcr bestimmte Berufsgruppen. In der Demokratischen Republik Kongo (DRK) werden\u2026 [+1176 chars]",
+      "retrievedAt": "2024-10-06 19:05:33.005813",
+      "internal_id": "ae121da796c3e1587e93131acabfb79d425f8a544d20d4680f0588860bd9da0d",
+      "publishedAtLabel": "Oct 5"
+    },
+    {
+      "id": 14370,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "liberation",
+      "source_name": "Lib\u00e9ration",
+      "author": "LIBERATION, AFP",
+      "title": "Mpox : la R\u00e9publique d\u00e9mocratique du Congo, \u00e9picentre de l\u2019\u00e9pid\u00e9mie, lance la vaccination",
+      "description": "La vaccination, qui devait initialement d\u00e9buter mercredi, a \u00e9t\u00e9 retard\u00e9e notamment en raison de difficult\u00e9s pour acheminer les doses \u00e0 travers un pays grand comme quatre fois la France et pauvre en infrastructures.",
+      "url": "https://www.liberation.fr/international/afrique/mpox-la-republique-democratique-du-congo-epicentre-de-lepidemie-lance-la-vaccination-20241005_GVASG37KTBB45FL52MGEHUD4EM/",
+      "urlToImage": "https://www.liberation.fr/resizer/h2iq4EWwT_2mg5lOh-cpMsHIlq4=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/J2KQNYBAYNGZPKYAFOU3CZUZ7I.jpg",
+      "publishedAt": "2024-10-05 16:18:55",
+      "content": "La R\u00e9publique d\u00e9mocratique du Congo (RDC) a lanc\u00e9 officiellement ce samedi 5 octobre sa campagne de vaccination pour tenter denrayer la propagation du mpox dans ce pays dAfrique centrale, de loin le \u2026 [+3098 chars]",
+      "retrievedAt": "2024-10-06 19:05:32.783507",
+      "internal_id": "a4e0340377c790696de90b9d7ce5c8e5dde75c940ca8ae5edf707e8430a2c2d4",
+      "publishedAtLabel": "Oct 5"
+    },
+    {
+      "id": 14375,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "International Business Times",
+      "author": "AFP News",
+      "title": "DR Congo Launches Mpox Vaccination Drive, Hoping To Curb Outbreak",
+      "description": "The Democratic Republic of Congo, the epicentre of an mpox epidemic, launched a vaccination campaign against the virus on Saturday in the eastern city of Goma, AFP journalists said.",
+      "url": "https://www.ibtimes.com/dr-congo-launches-mpox-vaccination-drive-hoping-curb-outbreak-3745652",
+      "urlToImage": "https://d.ibtimes.com/en/full/4552058/health-workers-kamituga-eastern-democratic-republic-congo.jpg",
+      "publishedAt": "2024-10-05 16:00:25",
+      "content": "The Democratic Republic of Congo, the epicentre of an mpox epidemic, launched a vaccination campaign against the virus on Saturday in the eastern city of Goma, AFP journalists said. The launch, init\u2026 [+3271 chars]",
+      "retrievedAt": "2024-10-06 19:05:32.833446",
+      "internal_id": "0e182d85f4f6356c16d72e6b3950486bf529ba0953c71d3cdc9dc9a7ae359f2e",
+      "publishedAtLabel": "Oct 5"
+    },
+    {
+      "id": 14374,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.dr.dk",
+      "author": null,
+      "title": "DR Congo begynder indsats mod mpox med dansk vaccine",
+      "description": "Den Demokratiske Republik Congo er i dag begyndt med sin vaccinationsindsats mod mpox.",
+      "url": "https://www.dr.dk/nyheder/seneste/dr-congo-begynder-indsats-mod-mpox-med-dansk-vaccine",
+      "urlToImage": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fapi.dr.dk%2Ffreja%2Fimage%2Fraw%2F317&w=700",
+      "publishedAt": "2024-10-05 15:55:00",
+      "content": "Pr\u00e6sident Joe Biden har for nylig sagt, at Israel b\u00f8r holde sig fra at g\u00e5 efter iranske atomanl\u00e6g som modsvar til Irans missilangreb. Det har den republikanske pr\u00e6sidentkandidat tilsyneladende en an\u2026 [+638 chars]",
+      "retrievedAt": "2024-10-06 19:05:32.826480",
+      "internal_id": "c72bbf55b29453a8c98eec9b41df5f962367588d5060c85c942c3fb1a66c08da",
+      "publishedAtLabel": "Oct 5"
+    },
+    {
+      "id": 14381,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "RUTH ALONGA Associated Press",
+      "title": "Congo finally begins mpox vaccinations in a drive to slow outbreaks",
+      "description": "Congolese authorities have started vaccinations against mpox, nearly two months after the disease outbreak that spread from Congo to several other African countries and beyond was declared a global emergency",
+      "url": "https://abcnews.go.com/International/wireStory/congo-finally-begins-mpox-vaccinations-drive-slow-outbreaks-114526454",
+      "urlToImage": "https://i.abcnewsfe.com/a/8660b93c-e086-4aa4-912c-94ec0258b931/wirestory_26cb3224edf6fe28b5db507241fee68f_16x9.jpg?w=1600",
+      "publishedAt": "2024-10-05 15:26:31",
+      "content": "GOMA, Congo -- Congolese authorities on Saturday began vaccination against mpox, nearly two months after the disease outbreak that spread from Congo to several African countries and beyond was declar\u2026 [+3625 chars]",
+      "retrievedAt": "2024-10-06 19:05:32.983892",
+      "internal_id": "d8c2c45e581a7aa4e48eeaaf4f706ec065b46ee1cac588af156933dc9c061cb0",
+      "publishedAtLabel": "Oct 5"
+    },
+    {
+      "id": 14372,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": null,
+      "title": "Congo finally begins mpox vaccinations in a drive to slow outbreaks",
+      "description": "Congolese authorities have started mpox vaccinations, nearly two months after the disease outbreak was declared a global emergency.",
+      "url": "https://www.cbsnews.com/news/congo-begins-mpox-vaccinations-slow-outbreaks-declared-global-emergency/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/10/05/ace1aae0-9983-4148-b313-d414a2d920fc/thumbnail/1200x630/53394899e904bd6c2409b69d367f85a9/ap24254464062272.jpg?v=0736ad3ef1e9ddfe1218648fe91d6c9b",
+      "publishedAt": "2024-10-05 15:24:55",
+      "content": "Congolese authorities began vaccination against mpox on Saturday, nearly two months after the disease outbreak that spread from Congo to several African countries and beyond was declared a global eme\u2026 [+4132 chars]",
+      "retrievedAt": "2024-10-06 19:05:32.810055",
+      "internal_id": "99187bf0874659b5f29471537eb02f0a352b850336a98088a646c1d1b67b4714",
+      "publishedAtLabel": "Oct 5"
+    },
+    {
+      "id": 14378,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.vg.no",
+      "author": "Marius Medby",
+      "title": "Har startet med vaksinering mot mpox",
+      "description": "L\u00f8rdag startet vaksineringen mot mpox i Kongo. De f\u00f8rste vaksinene ankom landet allerede 5. september.",
+      "url": "https://www.vg.no/nyheter/i/AvpAqA/har-startet-med-vaksinering-mot-mpox",
+      "urlToImage": "https://akamai.vgc.no/v2/images/2629c9fa-0fa4-4769-995c-e810e21af93a?format=auto&w=1080&s=0ff8a839290725c848be53022816676c92983425",
+      "publishedAt": "2024-10-05 15:23:13",
+      "content": "L\u00f8rdag startet vaksineringen mot mpox i Kongo. De f\u00f8rste vaksinene ankom landet allerede 5. september. Men som f\u00f8lge av planlegging har det tatt tid \u00e5 f\u00e5 n\u00f8dvendig utstyr og oppl\u00e6ring p\u00e5 plass for \u2026 [+1709 chars]",
+      "retrievedAt": "2024-10-06 19:05:32.864471",
+      "internal_id": "191ecbabc3d208d991b36e8159b8a3b1ce8ad5ba7253e361a78eb972459f6eb3",
+      "publishedAtLabel": "Oct 5"
+    },
+    {
+      "id": 14379,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Tass.ru",
+      "author": null,
+      "title": "AFP: \u0432 \u0414\u0420 \u041a\u043e\u043d\u0433\u043e \u043d\u0430\u0447\u0430\u043b\u0438 \u0432\u0430\u043a\u0446\u0438\u043d\u0430\u0446\u0438\u044e \u043e\u0442 \u043e\u0441\u043f\u044b \u043e\u0431\u0435\u0437\u044c\u044f\u043d",
+      "description": "\u0412 2024 \u0433\u043e\u0434\u0443 \u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0441\u0442\u0430\u043b\u0430 \u044d\u043f\u0438\u0446\u0435\u043d\u0442\u0440\u043e\u043c \u0432\u0441\u043f\u044b\u0448\u043a\u0438 \u043e\u043f\u0430\u0441\u043d\u043e\u0433\u043e \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0430\u043d\u0438\u044f \u0432 \u0410\u0444\u0440\u0438\u043a\u0435",
+      "url": "https://tass.ru/obschestvo/22051813",
+      "urlToImage": "https://cdn-storage-media.tass.ru/thumb/ru/obschestvo/22051813?u=2024-10-05T15:20:52.749038",
+      "publishedAt": "2024-10-05 15:20:52",
+      "content": ", 5 . //. mpox (\"\", ) (), 2024 . Agence France-Presse. , , . 5 , mpox. mpox . MVA-BN. , 31 ., 988 . 70% . Mpox - , , . 1970 . mpox 10%.",
+      "retrievedAt": "2024-10-06 19:05:32.906467",
+      "internal_id": "3fbb069e3522c7614446d68301f2855210fd107e72219f8b390d8d2feca770ce",
+      "publishedAtLabel": "Oct 5"
+    },
+    {
+      "id": 14371,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Aftonbladet.se",
+      "author": "TT",
+      "title": "Kongo vaccinerar mot mpox",
+      "description": "\u25b8 Vaccinationerna mot viruset mpox har p\u00e5b\u00f6rjats i Kongo-Kinshasa. Landet \u00e4r centrum f\u00f6r det p\u00e5g\u00e5ende utbrottet med\u2026",
+      "url": "https://www.aftonbladet.se/nyheter/a/kwQ5bv/kongo-vaccinerar-mot-mpox",
+      "urlToImage": "https://images.aftonbladet-cdn.se/v2/images/648ca307-1e08-47ff-a312-2caedfcdbfdd?fit=crop&format=auto&h=1268&q=50&w=1900&s=c092ed8b1fd43ac78ac1ef4aafcf95854c45809f",
+      "publishedAt": "2024-10-05 15:15:21",
+      "content": "share-arrow Dela Vaccinationerna mot viruset mpox har p\u00e5b\u00f6rjats i Kongo-Kinshasa. Landet \u00e4r centrum f\u00f6r det p\u00e5g\u00e5ende utbrottet med omkring 30 000 misst\u00e4nkta sjukdomsfall och drygt 850 d\u00f6dsfall. I \u2026 [+315 chars]",
+      "retrievedAt": "2024-10-06 19:05:32.804112",
+      "internal_id": "dcf0921e16bd970728e2667b92a48a8ccd4900388008ff0f5d8372355448ee6e",
+      "publishedAtLabel": "Oct 5"
+    },
+    {
+      "id": 14377,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Tass.ru",
+      "author": null,
+      "title": "\u0412 \u0414\u0420 \u041a\u043e\u043d\u0433\u043e \u0432\u044b\u044f\u0432\u0438\u043b\u0438 \u0431\u043e\u043b\u0435\u0435 30 \u0442\u044b\u0441. \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0448\u0438\u0445 mpox \u0441 \u043d\u0430\u0447\u0430\u043b\u0430 \u0433\u043e\u0434\u0430",
+      "description": "\u041f\u043e \u0441\u043b\u043e\u0432\u0430\u043c \u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430 \u0437\u0434\u0440\u0430\u0432\u043e\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f \u0414\u0420\u041a \u0421\u0430\u043c\u044e\u044d\u043b\u044f \u0420\u043e\u0436\u0435 \u041a\u0430\u043c\u0431\u044b, \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u0443\u043c\u0435\u0440\u0448\u0438\u0445 \u043f\u0440\u0438\u0431\u043b\u0438\u0436\u0430\u0435\u0442\u0441\u044f \u043a 1 \u0442\u044b\u0441.",
+      "url": "https://tass.ru/obschestvo/22051745",
+      "urlToImage": "https://cdn-storage-media.tass.ru/thumb/ru/obschestvo/22051745?u=2024-10-05T14:48:12.523290",
+      "publishedAt": "2024-10-05 14:48:12",
+      "content": ", 5 . //. 30 . mpox ( ) 2024 (), 1 . . \" 31 988 , - Actualite. - mpox , 70% . mpox 26 \". , mpox. , , . , 5 mpox . \" - , - . - \". , 5 . mpox . 18 . 34,2 ., (). mpox. , mpox . Mpox - , , . 1\u2026 [+14 chars]",
+      "retrievedAt": "2024-10-06 19:05:32.858686",
+      "internal_id": "983a52ac5da0a4222a94f620a0c0209d43d1131d44519acfc33c1a1ea869f039",
+      "publishedAtLabel": "Oct 5"
+    },
+    {
+      "id": 14386,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "RUTH ALONGA Associated Press",
+      "title": "Congo finally begins mpox vaccinations in drive to slow outbreaks declared a global emergency",
+      "description": "Congolese authorities have started vaccinations against mpox, nearly two months after the disease outbreak that spread from Congo to several other African countries and beyond was declared a global emergency",
+      "url": "https://abcnews.go.com/Health/wireStory/congo-finally-begins-mpox-vaccinations-drive-slow-outbreaks-114526456",
+      "urlToImage": "https://i.abcnewsfe.com/a/8660b93c-e086-4aa4-912c-94ec0258b931/wirestory_26cb3224edf6fe28b5db507241fee68f_16x9.jpg?w=1600",
+      "publishedAt": "2024-10-05 14:38:35",
+      "content": "GOMA, Congo -- Congolese authorities on Saturday began vaccination against mpox, nearly two months after the disease outbreak that spread from Congo to several African countries and beyond was declar\u2026 [+1131 chars]",
+      "retrievedAt": "2024-10-06 19:05:33.036005",
+      "internal_id": "124b86081aa190517010ae5fa00f705aba2835e03ecac25ae8a4de1a69e9bd3b",
+      "publishedAtLabel": "Oct 5"
+    },
+    {
+      "id": 14389,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
+      "author": "La r\u00e9daction avec AFP",
+      "title": "Sant\u00e9. Mpox : lancement de la vaccination en RDC, \u00e9picentre de l'\u00e9pid\u00e9mie",
+      "description": "Le pays le plus touch\u00e9 par l'\u00e9pid\u00e9mie de Mpox, la R\u00e9publique d\u00e9mocratique du Congo, a lanc\u00e9 ce samedi une premi\u00e8re campagne de vaccination.",
+      "url": "https://www.ledauphine.com/sante/2024/10/05/mpox-lancement-de-la-vaccination-en-rdc-epicentre-de-l-epidemie",
+      "urlToImage": "https://cdn-s-www.ledauphine.com/images/25F8A06E-7201-42AB-9C6C-DC567BC60452/FB1200/photo-1728138676.jpg",
+      "publishedAt": "2024-10-05 14:34:00",
+      "content": "Le Dauphin\u00e9 Lib\u00e9r\u00e9, en tant que responsable de traitement, recueille dans ce formulaire des informations qui sont enregistr\u00e9es dans un fichier informatis\u00e9 par son Service Relations Clients, la finali\u2026 [+854 chars]",
+      "retrievedAt": "2024-10-06 19:05:33.090490",
+      "internal_id": "647311403cc850b93e6e908fc91eaa896b81711b869257922b08734845b79a9a",
+      "publishedAtLabel": "Oct 5"
+    },
+    {
+      "id": 14382,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "The Associated Press",
+      "title": "Congo finally begins mpox vaccinations, nearly two months after outbreaks in Africa were declared a global emergency",
+      "description": "Congo finally begins mpox vaccinations, nearly two months after outbreaks in Africa were declared a global emergency",
+      "url": "https://abcnews.go.com/International/wireStory/congo-finally-begins-mpox-vaccinations-months-after-outbreaks-114526251",
+      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "publishedAt": "2024-10-05 14:22:03",
+      "content": "Congo finally begins mpox vaccinations, nearly two months after outbreaks in Africa were declared a global emergency GOMA, Congo -- Congo finally begins mpox vaccinations, nearly two months after ou\u2026 [+50 chars]",
+      "retrievedAt": "2024-10-06 19:05:32.989534",
+      "internal_id": "29bdb35048eb0afd18626816763e8a77e98c30f92766b177096b5619515bc63b",
+      "publishedAtLabel": "Oct 5"
+    },
+    {
+      "id": 14388,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "The Associated Press",
+      "title": "Congo finally begins mpox vaccinations, nearly two months after outbreaks in Africa were declared a global emergency",
+      "description": "Congo finally begins mpox vaccinations, nearly two months after outbreaks in Africa were declared a global emergency",
+      "url": "https://abcnews.go.com/US/wireStory/congo-finally-begins-mpox-vaccinations-months-after-outbreaks-114526250",
+      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "publishedAt": "2024-10-05 14:22:01",
+      "content": "Congo finally begins mpox vaccinations, nearly two months after outbreaks in Africa were declared a global emergency GOMA, Congo -- Congo finally begins mpox vaccinations, nearly two months after ou\u2026 [+50 chars]",
+      "retrievedAt": "2024-10-06 19:05:33.056599",
+      "internal_id": "6454251851cc674b6e7387a16f4f5d43fef5f2b0d46e85cb90584eee55906809",
+      "publishedAtLabel": "Oct 5"
+    },
+    {
+      "id": 14387,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "The Associated Press",
+      "title": "Congo finally begins mpox vaccinations, nearly two months after outbreaks in Africa were declared a global emergency",
+      "description": "Congo finally begins mpox vaccinations, nearly two months after outbreaks in Africa were declared a global emergency",
+      "url": "https://abcnews.go.com/Health/wireStory/congo-finally-begins-mpox-vaccinations-months-after-outbreaks-114526252",
+      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "publishedAt": "2024-10-05 14:14:03",
+      "content": "Congo finally begins mpox vaccinations, nearly two months after outbreaks in Africa were declared a global emergency GOMA, Congo -- Congo finally begins mpox vaccinations, nearly two months after ou\u2026 [+50 chars]",
+      "retrievedAt": "2024-10-06 19:05:33.046314",
+      "internal_id": "43788f1687e4734cb7d72a2366099e1b7aa93b0b2c499175800cb1947b519a6b",
+      "publishedAtLabel": "Oct 5"
+    },
+    {
+      "id": 14362,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Perfil.com",
+      "author": "Perfil Brasil",
+      "title": "Canabidiol \u00e9 efetivo para matar larvas do mosquito da dengue, diz estudo",
+      "description": "Folhas de c\u00e2nhamo (variedade da planta da maconha) tiveram resultado mesmo em larvas resistentes a outros pesticidas",
+      "url": "https://brasil.perfil.com/saude/canabidiol-e-efetivo-para-matar-larvas-do-mosquito-da-dengue-diz-estudo.phtml",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/10/05/1142859651-abre-perfil-brasil-2024-10-01t133507098.jpg",
+      "publishedAt": "2024-10-05 12:34:21",
+      "content": "Um estudo publicado na revista cient\u00edfica Insects em julho deste ano, destacou o canabidiol (CBD), um composto ativo encontrado nas plantas de cannabis, como uma nova esperan\u00e7a no combate ao mosquito\u2026 [+1530 chars]",
+      "retrievedAt": "2024-10-06 19:05:30.997162",
+      "internal_id": "2875959f622e4280a33e78b133fcb568a2ce6fd1a50b75690d8baf9f400666e0",
+      "publishedAtLabel": "Oct 5"
+    },
+    {
+      "id": 14361,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Sky.com",
+      "author": null,
+      "title": "Child dies of rabies in Canada after waking up to bat in room",
+      "description": "A child has died from rabies after waking up to a bat in their bedroom, according to a Canadian health official.",
+      "url": "https://news.sky.com/story/child-dies-of-rabies-in-canada-after-waking-up-to-bat-in-room-13228254",
+      "urlToImage": "https://e3.365dm.com/24/10/1600x900/skynews-bat-bats_6706810.jpg?20241005132638",
+      "publishedAt": "2024-10-05 12:16:00",
+      "content": "A child has died from rabies after waking up to a bat in their bedroom, according to a Canadian health official. The case in Brant County, southern Ontario, was confirmed a month ago, with the resid\u2026 [+3173 chars]",
+      "retrievedAt": "2024-10-06 19:05:29.649911",
+      "internal_id": "60848469bbb2803080c36cf20896177708ba0e8af267a38d35ae49a5beedcadc",
+      "publishedAtLabel": "Oct 5"
+    },
+    {
+      "id": 14366,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Lavozdegalicia.es",
+      "author": "La Voz",
+      "title": "La nueva vida de Luis Canut, marido de Patricia P\u00e9rez, tras haber perdido la visi\u00f3n: carnet de la ONCE y aprendiendo a usar el bast\u00f3n",
+      "description": "La pareja de la presentadora gallega, que sufre secuelas tras haber tenido una meningitis criptoc\u00f3cica, recibe el cari\u00f1o de sus seguidores tras mostrar en redes sus avances",
+      "url": "https://www.lavozdegalicia.es/noticia/gente/2024/10/05/nueva-vida-luis-canut-marido-patricia-perez-tras-haber-perdido-vision-carnet-once-aprendiendo-usar-baston/00031728120151743807523.htm",
+      "urlToImage": "https://img.lavdg.com/sc/GOxvR8b_Yjk0TKJFwxYUN8AJij8=/1280x/2024/01/13/00121705155121693104496/Foto/j_20240113_142946000.jpg",
+      "publishedAt": "2024-10-05 10:26:00",
+      "content": "Tras pasar casi un a\u00f1o convaleciente, Luis Canut ha recibido el aplauso de sus seguidores por mostrar c\u00f3mo se va adaptando poco a poco a su nueva vida. El marido de la presentadora gallega Patricia \u2026 [+2962 chars]",
+      "retrievedAt": "2024-10-06 19:05:31.378366",
+      "internal_id": "8ef5e97462cb60f82932395ef7b52abfb38a111026d13b967c518d93951bf9e8",
+      "publishedAtLabel": "Oct 5"
+    },
+    {
+      "id": 14367,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Elperiodico.com",
+      "author": "Patricia Mart\u00edn",
+      "title": "Los casos de meningitis crecen un 13% en Espa\u00f1a tras la relajaci\u00f3n de las medidas anticovid",
+      "description": "La meningitis sigue siendo la primera causa de infecci\u00f3n grave en ni\u00f1os y adolescentes. Y, en algunas situaciones, puede ser devastadora, seg\u00fan alerta la Sociedad Espa\u00f1ola de Neurolog\u00eda (SEN) con motivo de la celebraci\u00f3n, el 5 de octubre, del D\u00eda Mundial cont\u2026",
+      "url": "https://www.elperiodico.com/es/sanidad/20241005/meningitis-crecimiento-espana-108879693",
+      "urlToImage": "https://estaticos-cdn.prensaiberica.es/clip/7be47bbf-88dc-4af9-9887-404e32ae4769_16-9-discover-aspect-ratio_default_0.jpg",
+      "publishedAt": "2024-10-05 10:01:07",
+      "content": "La meningitis sigue siendo la primera causa de infecci\u00f3n grave en ni\u00f1os y adolescentes. Y, en algunas situaciones, puede ser devastadora, seg\u00fan alerta la Sociedad Espa\u00f1ola de Neurolog\u00eda (SEN) con mot\u2026 [+3907 chars]",
+      "retrievedAt": "2024-10-06 19:05:31.413235",
+      "internal_id": "fbb6f36ec52f0249fb503c4dcb83a0e0803ef1407c3df6b6f1bb5d961631004b",
+      "publishedAtLabel": "Oct 5"
+    },
+    {
+      "id": 14363,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Telegraaf.nl",
+      "author": "onze correspondent",
+      "title": "Jane (38) uit Venlo liep knokkelkoorts in Spanje op: \u2019Zag madeliefjes door de lucht vliegen van de pijn\u2019",
+      "description": "Dit jaar is een recordaantal Nederlanders besmet met dengue. Experts vrezen dat steeds meer van deze tropische ziektes onze kant op komen. Welke virussen zijn dat? En zijn de zorgen terecht?",
+      "url": "https://www.telegraaf.nl/nieuws/815209371/jane-38-uit-venlo-liep-knokkelkoorts-in-spanje-op-zag-madeliefjes-door-de-lucht-vliegen-van-de-pijn",
+      "urlToImage": "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/0530277a-8300-11ef-adc9-621ac6e06661.jpg",
+      "publishedAt": "2024-10-05 09:55:58",
+      "content": "Blijf op de hoogte Wil je op de hoogte blijven over alles rondom oorlog in oekra\u00efne, schrijf je dan in voor onze blijf op de hoogte nieuwsbrief.",
+      "retrievedAt": "2024-10-06 19:05:31.003447",
+      "internal_id": "81fd2960b6be054e098ecb6a8ffd6b083bece2fa38606870281c54a1fffa41c4",
+      "publishedAtLabel": "Oct 5"
+    },
+    {
+      "id": 14373,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.nrc.nl",
+      "author": "Na\u00efm Derbali",
+      "title": "De moeizame bestrijding van de mpox-uitbraak in Afrika roept bij hulpverleners herinneringen op aan de coronapandemie",
+      "description": "Mpox: In Congo is dit weekeinde een eerste vaccinatiecampagne begonnen om de mpox-uitbraak te beteugelen. De schaal waarop dat gebeurt is nog beperkt.",
+      "url": "https://www.nrc.nl/nieuws/2024/10/05/de-moeizame-bestrijding-van-de-mpox-uitbraak-in-afrika-roept-bij-hulpverleners-herinneringen-op-aan-de-coronapandemie-a4868296",
+      "urlToImage": "https://images.nrc.nl/z9eLi2nJcZ3obW-rhvH0ugfO_To=/1200x627/smart/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data122629580-a39b7c.jpg",
+      "publishedAt": "2024-10-05 09:39:24",
+      "content": "Het collectieve antwoord op de mpox-epidemie in Afrika laat zich moeizaam formuleren. Vooral in Congo, waar de mensen het hardst worden getroffen, wordt het geduld van de bevolking hevig op de proef \u2026 [+7051 chars]",
+      "retrievedAt": "2024-10-06 19:05:32.816250",
+      "internal_id": "32bf98d20ff7aecc0965ceebf20fbce627bc6c742c147ca46167875a0b3ef484",
+      "publishedAtLabel": "Oct 5"
+    },
+    {
+      "id": 14368,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Brigitte.de",
+      "author": "Julia Gerbeth",
+      "title": "Welt-Meningitis-Tag 2024: Welche \u00c4nderungen gibt es bei der Meningokokken-B-Impfung?",
+      "description": "Eine Hirnhautentz\u00fcndung kann lebensbedrohlich werden. F\u00fcr einen bestm\u00f6glichen Schutz hat die STIKO ihre Impfempfehlung gegen Meningokokken erweitert.",
+      "url": "https://www.brigitte.de/gesund/welt-meningitis-tag-2024--impfschutz-erweitert--13879022.html",
+      "urlToImage": "https://image.brigitte.de/13879024/t/rP/v1/w1440/r1.7778/-/welt-meningitis-tag-bri.jpg",
+      "publishedAt": "2024-10-05 09:00:00",
+      "content": "Hey, bitte melde dich an, um weiterzulesen Dieser Inhalt ist Teil von unserem neuen BRIGITTE-Angebot mit spannenden Artikeln, Pers\u00f6nlichkeitstests und Coaching-Videos. Kostenlos und ohne Abo verspr\u2026 [+42 chars]",
+      "retrievedAt": "2024-10-06 19:05:31.419049",
+      "internal_id": "8ac6d0182acaf6bf15d6c0d3d00e0f9407bb2d5cf319af262efb88c9d76cb0b6",
+      "publishedAtLabel": "Oct 5"
+    },
+    {
+      "id": 14380,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Newsit.gr",
+      "author": "\u0395\u03c1\u03c1\u03b9\u03ba\u03b1 \u03a4\u03b5\u03ba\u03c4\u03bf\u03bd\u03b9\u03b4\u03bf\u03c5",
+      "title": "\u039f \u03a0\u039f\u03a5 \u03b5\u03b3\u03ba\u03c1\u03af\u03bd\u03b5\u03b9 \u03c4\u03bf \u03c0\u03c1\u03ce\u03c4\u03bf rapid test \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b5\u03c5\u03bb\u03bf\u03b3\u03b9\u03ac \u03c4\u03c9\u03bd \u03c0\u03b9\u03b8\u03ae\u03ba\u03c9\u03bd",
+      "description": "\u03a4\u03b7\u03bd \u03ad\u03b3\u03ba\u03c1\u03b9\u03c3\u03ae \u03c4\u03bf\u03c5 \u03b3\u03b9\u03b1 \u03c4\u03bf\u03bd \u03ad\u03bb\u03b5\u03b3\u03c7\u03bf \u03c4\u03b7\u03c2 \u03bd\u03cc\u03c3\u03bf\u03c5 \u03c4\u03b7\u03c2 \u03b5\u03c5\u03bb\u03bf\u03b3\u03b9\u03ac\u03c2 \u03c4\u03c9\u03bd \u03c0\u03b9\u03b8\u03ae\u03ba\u03c9\u03bd, \u03bc\u03ad\u03c3\u03c9 rapid test, \u03ad\u03b4\u03c9\u03c3\u03b5 \u03bf \u03a0\u03b1\u03b3\u03ba\u03cc\u03c3\u03bc\u03b9\u03bf\u03c2 \u039f\u03c1\u03b3\u03b1\u03bd\u03b9\u03c3\u03bc\u03cc\u03c2 \u03a5\u03b3\u03b5\u03af\u03b1\u03c2 (\u03a0\u039f\u03a5). O \u03a0\u03b1\u03b3\u03ba\u03cc\u03c3\u03bc\u03b9\u03bf\u03c2 \u039f\u03c1\u03b3\u03b1\u03bd\u03b9\u03c3\u03bc\u03cc\u03c2 \u03a5\u03b3\u03b5\u03af\u03b1\u03c2 (\u03a0\u039f\u03a5) \u03ad\u03b4\u03c9\u03c3\u03b5 \u03c4\u03bf \u00ab\u03c0\u03c1\u03ac\u03c3\u03b9\u03bd\u03bf \u03c6\u03c9\u03c2\u00bb \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03ba\u03c5\u03ba\u03bb\u03bf\u03c6\u03bf\u03c1\u03af\u03b1 \u03c4\u03bf\u03c5 \u03c0\u03c1\u03ce\u03c4\u03bf\u03c5 PCR \u03c4\u03b5\u03c3\u03c4 \u03b3\u03b9\u03b1 \u03c4\u03b1\u03c7\u03b5\u03af\u03b1 \u03b4\u03b9\u03ac\u03b3\u03bd\u03c9\u03c3\u03b7 \u03c4\u03bf\u03c5 \u03b9\u03bf\u03cd mpo\u2026",
+      "url": "https://www.newsit.gr/ygeia/o-pou-egkrinei-to-proto-rapid-test-gia-tin-eylogia-ton-pithikon/4198463/",
+      "urlToImage": "https://www.newsit.gr/wp-content/uploads/2024/10/eulogia_mpox_reuters-scaled.jpg",
+      "publishedAt": "2024-10-05 08:47:38",
+      "content": ", rapid test, (). O () \u00ab \u00bb PCR mpox ( \u00ab \u00bb), . , 866 , , . mpox . PCR, Abbott Molecular, : , , . \u00ab \u00bb, . 34.000 mpox, . PCR . , 2022, . , , 141 . , , .",
+      "retrievedAt": "2024-10-06 19:05:32.959614",
+      "internal_id": "bef0d4f896ea38f5d75be7d3b917b416cd21ee4d82f7294146b399b7c9091e3c",
+      "publishedAtLabel": "Oct 5"
+    },
     {
       "id": 14358,
       "query": [
@@ -30871,258 +31411,6 @@
       "content": "Alex Almuedo es un m\u00e9dico especialista s\u00e9nior en el Servicio de Salud Internacional del Hospital Cl\u00ednic de Barcelona, un centro que cuenta con una de las pocas unidades de aislamiento que hay en Espa\u2026 [+7980 chars]",
       "retrievedAt": "2024-08-27 07:05:59.898986",
       "internal_id": "3fb0ea44b9cddfc54b6b1f2d6a71b63a32809aa56abb178aee102b96563cb7f9",
-      "publishedAtLabel": "Aug 25"
-    },
-    {
-      "id": 12626,
-      "query": [
-        "mpox"
-      ],
-      "source_id": "cbs-news",
-      "source_name": "CBS News",
-      "author": "CBS News",
-      "title": "Ex-FDA commissioner Dr. Scott Gottlieb says U.S. \"not at risk right now\" for new mpox variant",
-      "description": "Dr. Scott Gottlieb, a former FDA commissioner and Pfizer board member, tells \"Face the Nation with Margaret Brennan\" that Americans are \"not at risk right now\" for the new mpox variant seen in Democratic Republic of Congo. But he said the variant appears to \"\u2026",
-      "url": "https://www.cbsnews.com/video/ex-fda-commissioner-dr-scott-gottlieb-says-u-s-not-at-risk-right-now-for-new-mpox-variant/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/08/25/172552de-ccfe-4394-b8c4-e7c10aa5ced9/thumbnail/1200x630/2c0fa2b79a975e2acc06fa6a72184044/0825-ftn-gottlieb2.jpg?v=29ebd300d9a3cd24077d945a46991f72",
-      "publishedAt": "2024-08-25 17:53:00",
-      "content": "Watch CBS News Copyright \u00a92024 CBS Interactive Inc. All rights reserved. Get browser notifications for breaking news, live events, and exclusive reporting. Not NowTurn On",
-      "retrievedAt": "2024-08-26 19:06:42.985731",
-      "internal_id": "eefaf76a264685c6c6f3cb5b905baf7f473f7fad350e56c1c4c3a9cc030bead3",
-      "publishedAtLabel": "Aug 25"
-    },
-    {
-      "id": 12621,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Uol.com.br",
-      "author": "Pablo Nogueira",
-      "title": "Mpox pode virar uma pandemia? Veja opini\u00e3o de especialistas",
-      "description": "Neste ano, mais de 500 mortes no Congo foram atribu\u00eddas \u00e0 variante 1b da mpox, resultando no alerta de emerg\u00eancia da OMS, do \u00faltimo dia 14. The post Mpox pode virar uma pandemia? Veja opini\u00e3o de especialistas appeared first on Giz Brasil.",
-      "url": "https://gizmodo.uol.com.br/mpox-pode-virar-uma-pandemia-veja-opiniao-de-especialistas/",
-      "urlToImage": "https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2024/08/mpox.webp",
-      "publishedAt": "2024-08-25 17:13:36",
-      "content": "Apesar de declarar a dissemina\u00e7\u00e3o da mpox como uma emerg\u00eancia de sa\u00fade p\u00fablica de interesse internacional, a OMS (Organiza\u00e7\u00e3o Mundial da Sa\u00fade) revelou que o v\u00edrus n\u00e3o vai causar uma pandemia como a \u2026 [+2008 chars]",
-      "retrievedAt": "2024-08-26 19:06:42.785188",
-      "internal_id": "314f38c9924d11863e8d2d7c4960f1951da0b47d6c0267d4a437f9d9777d20f8",
-      "publishedAtLabel": "Aug 25"
-    },
-    {
-      "id": 12729,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "The Punch",
-      "author": "Abdul-hafeez Fadehan",
-      "title": "Mpox: Step-by-step measures for staying safe",
-      "description": "As the Mpox virus continues its alarming spread across Africa, with Nigeria increasingly feeling its impact, citizens must take proactive measures to protect themselves and their loved ones. PUNCH reports that the Nigeria Centre for Disease Control and Preven\u2026",
-      "url": "https://punchng.com/mpox-step-by-step-measures-for-staying-safe/",
-      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2022/08/30230550/monkeypox.jpg",
-      "publishedAt": "2024-08-25 16:06:26",
-      "content": "As the Mpox virus continues its alarming spread across Africa, with Nigeria increasingly feeling its impact, citizens must take proactive measures to protect themselves and their loved ones. PUNCH r\u2026 [+3553 chars]",
-      "retrievedAt": "2024-08-28 07:06:06.179875",
-      "internal_id": "1c84d7c998cf52d7ad56178960bd91b337ce08f6303483e776cd01a50eebabac",
-      "publishedAtLabel": "Aug 25"
-    },
-    {
-      "id": 12620,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "Arnab Lall Seal",
-      "title": "Bapi Hansda recovers in time to join Indian team in Lima",
-      "description": "Bapi Hansda, a promising Indian sprinter, overcame a dengue scare to reach Peru for the U20 World Athletics Championships. Initially at risk of missing the event, his health improved, allowing him to compete in the 4x400m relay and possibly the 400m. Hansda, \u2026",
-      "url": "https://timesofindia.indiatimes.com/sports/more-sports/athletics/bapi-hansda-recovers-in-time-to-join-indian-team-in-lima/articleshow/112785136.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-112785134,width-1070,height-580,imgsize-40252,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-08-25 15:27:48",
-      "content": "Shikhar Dhawan's top 10 most impressive stats",
-      "retrievedAt": "2024-08-26 19:06:39.808507",
-      "internal_id": "8463e54039a2a43f4badd457b583e8c67ea85b2a7681c484fbcce3b73880e402",
-      "publishedAtLabel": "Aug 25"
-    },
-    {
-      "id": 12625,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Hotnews.ro",
-      "author": "Ionu\u021b Baia\u0219",
-      "title": "Papa se roag\u0103 pentru victimele Mpox / Ce le-a transmis \u201eguvernelor \u0219i companiilor private\u201d",
-      "description": "Papa Francisc s-a rugat pentru prima dat\u0103 pentru victimele Mpox, declar\u00e2nd c\u0103 virusul este \u201eacum o urgen\u021b\u0103 sanitar\u0103 global\u0103\u201d, \u0219i a \u00eendemnat \u201eguvernele \u0219i industriile private\u201d s\u0103 \u201e\u00eemp\u0103rt\u0103\u0219easc\u0103 tratamentele disponibile\u201d, astfel \u00eenc\u00e2t \u201enimeni s\u0103 nu\u2026",
-      "url": "http://hotnews.ro/papa-se-roaga-pentru-victimele-mpox-ce-le-a-transmis-guvernelor-si-companiilor-private-1778254",
-      "urlToImage": "https://hotnews.ro/wp-content/uploads/2024/08/Un-copil-infectat-cu-mpox-primeste-tratament-intr-un-centru-din-estul-Republicii-Democrate-Congo-sursa-foto-Profimedia-Images-scaled-1.jpg",
-      "publishedAt": "2024-08-25 14:52:00",
-      "content": "Papa Francisc s-a rugat pentru prima dat pentru victimele Mpox, declar\u00e2nd c virusul este acum o urgen sanitar global, i a \u00eendemnat guvernele i industriile private s \u00eemprteasc tratamentele disponibile\u2026 [+1105 chars]",
-      "retrievedAt": "2024-08-26 19:06:42.943246",
-      "internal_id": "37194995bcb3ded3850343cddcb2e1443755b637e0cfc8898c4c157c964b313b",
-      "publishedAtLabel": "Aug 25"
-    },
-    {
-      "id": 12624,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Aftonbladet.se",
-      "author": null,
-      "title": "Afrika f\u00e5r sin f\u00f6rsta leverans mpoxmaccin",
-      "description": "\u25b8 Den f\u00f6rsta leveransen vaccin mot mpox kommer att n\u00e5 Afrika den h\u00e4r veckan, rapporterar The Guardian.",
-      "url": "https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1286805",
-      "urlToImage": "https://images.aftonbladet-cdn.se/v2/images/156fc268-adec-4fec-ac17-baa7f1dbdb35?fit=crop&format=auto&h=56&q=50&w=100&s=8d717b112fa508073dcc3292ac8f7acfdc612d33",
-      "publishedAt": "2024-08-25 13:36:17",
-      "content": "TRE NYHETER DU INTE F\u00c5R MISSA: Afrika f\u00e5r sin f\u00f6rsta leverans mpoxmaccin Den f\u00f6rsta leveransen vaccin mot mpox kommer att n\u00e5 Afrika den h\u00e4r veckan, rapporterar The Guardian. Det \u00e4r USA som\u2026 [+12241 chars]",
-      "retrievedAt": "2024-08-26 19:06:42.902822",
-      "internal_id": "c76fa6571c84ee13bdb5abe74aba02988f4c3281e7164a478127637209b4ffb7",
-      "publishedAtLabel": "Aug 25"
-    },
-    {
-      "id": 12638,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Tass.ru",
-      "author": null,
-      "title": "\u0412 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0435 \u041a\u043e\u043d\u0433\u043e \u0432\u044b\u044f\u0432\u0438\u043b\u0438 \u0431\u043e\u043b\u0435\u0435 20 \u0438\u043d\u0444\u0438\u0446\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0445 \u0432\u0438\u0440\u0443\u0441\u043e\u043c \u043e\u0441\u043f\u044b \u043e\u0431\u0435\u0437\u044c\u044f\u043d",
-      "description": "\u041c\u0438\u043d\u0438\u0441\u0442\u0440 \u0437\u0434\u0440\u0430\u0432\u043e\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f \u0438 \u043d\u0430\u0440\u043e\u0434\u043e\u043d\u0430\u0441\u0435\u043b\u0435\u043d\u0438\u044f \u0441\u0442\u0440\u0430\u043d\u044b \u0416\u0438\u043b\u044c\u0431\u0435\u0440 \u041c\u043e\u043a\u043e\u043a\u0438 \u043e\u0442\u043c\u0435\u0442\u0438\u043b, \u0447\u0442\u043e \u0432\u0441\u0435\u0433\u043e \u0441 \u043d\u0430\u0447\u0430\u043b\u0430 \u0433\u043e\u0434\u0430 \u0431\u044b\u043b\u043e \u0432\u044b\u044f\u0432\u043b\u0435\u043d\u043e 158 \u0441\u043b\u0443\u0447\u0430\u0435\u0432 \u0441 \u043f\u043e\u0434\u043e\u0437\u0440\u0435\u043d\u0438\u0435\u043c \u043d\u0430 mpox",
-      "url": "https://tass.ru/proisshestviya/21683213",
-      "urlToImage": "https://cdn-storage-media.tass.ru/thumb/ru/proisshestviya/21683213?u=2024-08-25T13:33:02.062540",
-      "publishedAt": "2024-08-25 13:33:02",
-      "content": ", 25 . //. mpox (\"\", ) () 21. . \" 158 mpox, 21 \", - AFP. , mpox . (), mpox . 13 mpox. mpox 40 ., 1,4 . . mpox 18 . 14 , mpox . Mpox - , , . 1970 . mpox 10%. .",
-      "retrievedAt": "2024-08-27 07:05:59.987707",
-      "internal_id": "433523d6d00c6735d4f9db746a3ffe7b4a45c480b642df7790777ff363aa7bd6",
-      "publishedAtLabel": "Aug 25"
-    },
-    {
-      "id": 12627,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "VOA News",
-      "author": "webdesk@voanews.com (Agence France-Presse)",
-      "title": "Congo-Brazzaville reports 21 mpox cases",
-      "description": "Brazzaville, Congo \u2014 Twenty-one cases of mpox have been recorded in Congo-Brazzaville, the country's health minister told state television Sunday. Gilbert Mokoki said that the central African country had \"registered 158 suspect cases\" since the beginning of\u2026",
-      "url": "https://www.voanews.com/a/congo-brazzaville-reports-21-mpox-cases/7756237.html",
-      "urlToImage": "https://gdb.voanews.com/236A80F7-08D4-4C35-9668-23011FB1038B.jpg",
-      "publishedAt": "2024-08-25 13:14:12",
-      "content": "Brazzaville, Congo Twenty-one cases of mpox have been recorded in Congo-Brazzaville, the country's health minister told state television Sunday. Gilbert Mokoki said that the central African country\u2026 [+956 chars]",
-      "retrievedAt": "2024-08-26 19:06:43.026485",
-      "internal_id": "f3b6ea4774f436472571813e817c86fcab7d99f3255bc4294b2ffd1aa4b49bb1",
-      "publishedAtLabel": "Aug 25"
-    },
-    {
-      "id": 12622,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Ilfattoquotidiano.it",
-      "author": "F. Q.",
-      "title": "Mpox, l\u2019appello del Papa: \u201cGoverni e industrie condividano i trattamenti disponibili\u201d. Oms: \u201cServono 135 milioni di euro\u201d",
-      "description": "L\u2019emergenza Mpox \u00e8 arrivata fino al Vaticano. \u201cDesidero manifestare la mia solidariet\u00e0 alle migliaia di persone colpite dal vaiolo delle scimmie, che costituisce ormai un\u2019emergenza sanitaria globale \u2013 ha detto papa Francesco all\u2019Angelus \u2013 Prego per tutte le p\u2026",
-      "url": "https://www.ilfattoquotidiano.it/2024/08/25/mpox-lappello-del-papa-governi-e-industrie-condividano-i-trattamenti-disponibili-oms-servono-135-milioni-di-euro/7668722/",
-      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2024/08/25/papa-francesco-1200x630.jpg",
-      "publishedAt": "2024-08-25 12:29:59",
-      "content": "Roma, 25 ago. (Adnkronos) - Beppe Grillo potrebbe fermare il prossimo voto sulla regola del doppio mandato e sulla modifica del simbolo del Movimento 5 Stelle ma \"non lo far\u00e0\" perch\u00e9 ha perso il suo \u2026 [+4430 chars]",
-      "retrievedAt": "2024-08-26 19:06:42.833406",
-      "internal_id": "2eedf48d9b7e88270d5f1e33685c34a3534a4b2f4512b393ebed0c9c7a2613c5",
-      "publishedAtLabel": "Aug 25"
-    },
-    {
-      "id": 12623,
-      "query": [
-        "mpox"
-      ],
-      "source_id": "cbc-news",
-      "source_name": "CBC News",
-      "author": null,
-      "title": "Should we be worried about mpox?; Ultra-discount grocery stores: CBC's Marketplace cheat sheet",
-      "description": "CBC's Marketplace rounds up the consumer and health news you need from the week.",
-      "url": "https://www.cbc.ca/news/business/marketplace-watchdog-1.7302620",
-      "urlToImage": "https://i.cbc.ca/1.7301580.1724288292!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/health-mpox-congo.JPG",
-      "publishedAt": "2024-08-25 12:00:00",
-      "content": "Miss something this week? Don't panic. CBC's Marketplace rounds up the consumer and health news you need. Want this in your inbox? Get the Marketplace newsletter every Friday. Loblaw is piloting ul\u2026 [+6175 chars]",
-      "retrievedAt": "2024-08-26 19:06:42.838875",
-      "internal_id": "3e04f9a5bdeb06157ca2a53d9c96a747e067095f1cb6193c8569396dfd0528fe",
-      "publishedAtLabel": "Aug 25"
-    },
-    {
-      "id": 12619,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "Reuters",
-      "title": "Odisha culls birds after Avian flu outbreak",
-      "description": "Odisha has culled more than a thousand chickens following a confirmed H5N1 bird flu outbreak in the Puri district. The outbreak occurred after the deaths of 1,800 birds at a local poultry farm. Efforts are ongoing to cull approximately 20,000 birds to prevent\u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/odisha-culls-birds-after-avian-flu-outbreak/articleshow/112782110.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-112782143,width-1200,height-630,imgsize-34368,overlay-economictimes/photo.jpg",
-      "publishedAt": "2024-08-25 11:40:23",
-      "content": "Odisha has culled more than a thousand chickens after a positive test for the highly pathogenic H5N1 strain of avian influenza, or bird flu, a state government official told Reuters on Sunday.The epi\u2026 [+718 chars]",
-      "retrievedAt": "2024-08-26 19:06:38.952120",
-      "internal_id": "d1c302593b0d5b3c02298c6750bba5119e4019e006ec67259363eef88c36e538",
-      "publishedAtLabel": "Aug 25"
-    },
-    {
-      "id": 12628,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Orf.at",
-      "author": "ORF.at",
-      "title": "Mpox: Papst wegen Ausbreitung des Virus besorgt",
-      "description": "",
-      "url": "https://orf.at/stories/3367497/",
-      "urlToImage": "https://orf.at/mojo/1_4_1/storyserver//news/common/images/og-fallback-news.png",
-      "publishedAt": "2024-08-25 10:46:58",
-      "content": "Nach einem Aufruf von EU-Gesundheitskommissarin Stella Kyriakides zur Spende von Impfstoff gegen Mpox (Affenpocken) am Freitag hat Papst Franziskus beim Angelus-Gebet heute auf dem Petersplatz seine \u2026 [+754 chars]",
-      "retrievedAt": "2024-08-26 19:06:43.060489",
-      "internal_id": "02cf2febc5647cfdb34392c7f067eb511503c42c26fe8a6d7a357bfc7a85c9c7",
-      "publishedAtLabel": "Aug 25"
-    },
-    {
-      "id": 12659,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "The Punch",
-      "author": "Agency Report",
-      "title": "Pope seeks help for mpox victims",
-      "description": "Pope Francis on Sunday highlighted victims of the mpox virus in his weekly prayers and called on governments and the pharmaceutical industry to do more to get vaccines to the worst-hit countries. \u201cI pray for all the infected people, in particular the populati\u2026",
-      "url": "https://punchng.com/pope-seeks-help-for-mpox-victims/",
-      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2022/12/25164441/33642WB-preview.jpg",
-      "publishedAt": "2024-08-25 09:00:23",
-      "content": "Pope Francis on Sunday highlighted victims of the mpox virus in his weekly prayers and called on governments and the pharmaceutical industry to do more to get vaccines to the worst-hit countries. \u201cI\u2026 [+1215 chars]",
-      "retrievedAt": "2024-08-27 07:06:00.126504",
-      "internal_id": "344eee1aae3a7eb3d1eb6b50f713fa8e7727e5c2d863e81c1a824d735e8f8c94",
-      "publishedAtLabel": "Aug 25"
-    },
-    {
-      "id": 12641,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Hurriyet Daily News",
-      "author": "hurriyetdailynews.com",
-      "title": "Mpox less likely to lead school closures: Experts",
-      "description": "Although the World Health Organization (WHO) recently declared mpox a global health emergency, mpox is highly unlikely to lead to school closures, according to physicians and public health experts in the U.S., local media reported.",
-      "url": "https://www.hurriyetdailynews.com/mpox-less-likely-to-lead-school-closures-experts-199888",
-      "urlToImage": "https://image.hurimg.com/i/hurriyet/75/200x200/66cade7d1173c75d18a5d7b0.jpg",
-      "publishedAt": "2024-08-25 07:34:00",
-      "content": "WASHINGTON Although the World Health Organization (WHO) recently declared mpox a global health emergency, mpox is highly unlikely to lead to school closures, according to physicians and public healt\u2026 [+1567 chars]",
-      "retrievedAt": "2024-08-27 07:06:00.010532",
-      "internal_id": "6a6a9cd89c290fc457a250cd0face78bde2bc86ad8bff6376056d9d0cae62665",
       "publishedAtLabel": "Aug 25"
     }
   ]

@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 13
-- **Last harvest:** 2024-10-06 07:06
-- **Most recent article:** 2024-10-05 06:52:58
+- **New articles in last harvest:** 30
+- **Last harvest:** 2024-10-06 19:05
+- **Most recent article:** 2024-10-05 18:54:24
 
 ---
 
@@ -12,13 +12,13 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-35 | 24-36 | 24-37 | 24-38 | 24-39 | 24-40 | Total |
 |--|-|-|-|-|-|-|-|
-| mpox | 204 | 184 | 192 | 140 | 122 | 88 | 930 |
-| dengue | 43 | 49 | 76 | 73 | 49 | 47 | 337 |
-| h5n1 | 10 | 31 | 10 | 17 | 35 | 49 | 152 |
+| mpox | 192 | 184 | 192 | 140 | 122 | 109 | 939 |
+| dengue | 42 | 49 | 76 | 73 | 49 | 51 | 340 |
+| h5n1 | 9 | 31 | 10 | 17 | 35 | 49 | 151 |
 | malaria | 28 | 14 | 12 | 15 | 24 | 10 | 103 |
-| rabies | 3 | 7 | 5 | 13 | 25 | 28 | 81 |
+| rabies | 3 | 7 | 5 | 13 | 25 | 30 | 83 |
 | measles | 11 | 9 | 5 | 8 | 4 | 6 | 43 |
-| meningitis | 5 | 6 | 3 | 10 | 6 | 8 | 38 |
+| meningitis | 5 | 6 | 3 | 10 | 6 | 11 | 41 |
 | chikungunya | 1 | 5 | 13 | 9 | 3 | 3 | 34 |
 | zika | 1 | 6 | 10 | 8 | 1 | 3 | 29 |
 | pertussis | 2 | 1 | 5 | 3 | 3 | 2 | 16 |
@@ -49,6 +49,10 @@ Source: [News API](https://newsapi.org/)
 - [Trends in antimicrobial resistance amongst Salmonella Typhi in Bangladesh: A 24-year retrospective observational study (1999–2022)](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012558) (Plos.org)
 
 ## 24-40 (rabies)
+
+- [Child Dies of Rabies After Bat Gets Into House](https://www.newser.com/story/357353/after-bat-gets-into-bedroom-canadian-child-dies-of-rabies.html) (Newser)
+
+- [Child dies of rabies in Canada after waking up to bat in room](https://news.sky.com/story/child-dies-of-rabies-in-canada-after-waking-up-to-bat-in-room-13228254) (Sky.com)
 
 - [Barn dog i rabies efter kontakt med fladdermus](https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1295238) (Aftonbladet.se)
 
@@ -113,6 +117,48 @@ Source: [News API](https://newsapi.org/)
 - [Seroprevalence of Bordetella pertussis infection in children 1–14 years old: Indonesia basic health research (Riskesdas) 2013 and 2018 data](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0311362) (Plos.org)
 
 ## 24-40 (mpox)
+
+- [Mpox: 866 θάνατοι στην Αφρική από τις αρχές του έτους](https://www.alphafreepress.gr/2024/10/05/kosmos/mpox-866-thanatoi-stin-afriki-apo-tis-arxes-tou-etous/) (Alphafreepress.gr)
+
+- [Congo launches its first mpox vaccination drive](https://www.dw.com/en/congo-launches-its-first-mpox-vaccination-drive/a-70414094) (DW (English))
+
+- [La vaccination contre la mpox est lancée en RDC](https://fr.sputniknews.africa/20241005/la-vaccination-contre-la-mpox-est-lancee-en-rdc-1068562712.html) (Sputniknews.africa)
+
+- [Virusbekämpfung: Kongo beginnt mit Mpox-Impfungen](https://www.zeit.de/news/2024-10/05/kongo-beginnt-mit-mpox-impfungen) (Die Zeit)
+
+- [Virusbekämpfung: Kongo beginnt mit Mpox-Impfungen](https://www.stern.de/panorama/virusbekaempfung--kongo-beginnt-mit-mpox-impfungen-35120242.html) (STERN.de)
+
+- [Mpox : la République démocratique du Congo, épicentre de l’épidémie, lance la vaccination](https://www.liberation.fr/international/afrique/mpox-la-republique-democratique-du-congo-epicentre-de-lepidemie-lance-la-vaccination-20241005_GVASG37KTBB45FL52MGEHUD4EM/) (Libération)
+
+- [DR Congo Launches Mpox Vaccination Drive, Hoping To Curb Outbreak](https://www.ibtimes.com/dr-congo-launches-mpox-vaccination-drive-hoping-curb-outbreak-3745652) (International Business Times)
+
+- [DR Congo begynder indsats mod mpox med dansk vaccine](https://www.dr.dk/nyheder/seneste/dr-congo-begynder-indsats-mod-mpox-med-dansk-vaccine) (Www.dr.dk)
+
+- [Congo finally begins mpox vaccinations in a drive to slow outbreaks](https://abcnews.go.com/International/wireStory/congo-finally-begins-mpox-vaccinations-drive-slow-outbreaks-114526454) (ABC News)
+
+- [Congo finally begins mpox vaccinations in a drive to slow outbreaks](https://www.cbsnews.com/news/congo-begins-mpox-vaccinations-slow-outbreaks-declared-global-emergency/) (CBS News)
+
+- [Har startet med vaksinering mot mpox](https://www.vg.no/nyheter/i/AvpAqA/har-startet-med-vaksinering-mot-mpox) (Www.vg.no)
+
+- [AFP: в ДР Конго начали вакцинацию от оспы обезьян](https://tass.ru/obschestvo/22051813) (Tass.ru)
+
+- [Kongo vaccinerar mot mpox](https://www.aftonbladet.se/nyheter/a/kwQ5bv/kongo-vaccinerar-mot-mpox) (Aftonbladet.se)
+
+- [В ДР Конго выявили более 30 тыс. заболевших mpox с начала года](https://tass.ru/obschestvo/22051745) (Tass.ru)
+
+- [Congo finally begins mpox vaccinations in drive to slow outbreaks declared a global emergency](https://abcnews.go.com/Health/wireStory/congo-finally-begins-mpox-vaccinations-drive-slow-outbreaks-114526456) (ABC News)
+
+- [Santé. Mpox : lancement de la vaccination en RDC, épicentre de l'épidémie](https://www.ledauphine.com/sante/2024/10/05/mpox-lancement-de-la-vaccination-en-rdc-epicentre-de-l-epidemie) (Le Dauphiné Libéré)
+
+- [Congo finally begins mpox vaccinations, nearly two months after outbreaks in Africa were declared a global emergency](https://abcnews.go.com/International/wireStory/congo-finally-begins-mpox-vaccinations-months-after-outbreaks-114526251) (ABC News)
+
+- [Congo finally begins mpox vaccinations, nearly two months after outbreaks in Africa were declared a global emergency](https://abcnews.go.com/US/wireStory/congo-finally-begins-mpox-vaccinations-months-after-outbreaks-114526250) (ABC News)
+
+- [Congo finally begins mpox vaccinations, nearly two months after outbreaks in Africa were declared a global emergency](https://abcnews.go.com/Health/wireStory/congo-finally-begins-mpox-vaccinations-months-after-outbreaks-114526252) (ABC News)
+
+- [De moeizame bestrijding van de mpox-uitbraak in Afrika roept bij hulpverleners herinneringen op aan de coronapandemie](https://www.nrc.nl/nieuws/2024/10/05/de-moeizame-bestrijding-van-de-mpox-uitbraak-in-afrika-roept-bij-hulpverleners-herinneringen-op-aan-de-coronapandemie-a4868296) (Www.nrc.nl)
+
+- [Ο ΠΟΥ εγκρίνει το πρώτο rapid test για την ευλογιά των πιθήκων](https://www.newsit.gr/ygeia/o-pou-egkrinei-to-proto-rapid-test-gia-tin-eylogia-ton-pithikon/4198463/) (Newsit.gr)
 
 - [Sex workers find themselves at center of Congo's mpox outbreak](https://www.voanews.com/a/sex-workers-find-themselves-at-center-of-congo-s-mpox-outbreak/7811318.html) (VOA News)
 
@@ -292,6 +338,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-40 (meningitis)
 
+- [La nueva vida de Luis Canut, marido de Patricia Pérez, tras haber perdido la visión: carnet de la ONCE y aprendiendo a usar el bastón](https://www.lavozdegalicia.es/noticia/gente/2024/10/05/nueva-vida-luis-canut-marido-patricia-perez-tras-haber-perdido-vision-carnet-once-aprendiendo-usar-baston/00031728120151743807523.htm) (Lavozdegalicia.es)
+
+- [Los casos de meningitis crecen un 13% en España tras la relajación de las medidas anticovid](https://www.elperiodico.com/es/sanidad/20241005/meningitis-crecimiento-espana-108879693) (Elperiodico.com)
+
+- [Welt-Meningitis-Tag 2024: Welche Änderungen gibt es bei der Meningokokken-B-Impfung?](https://www.brigitte.de/gesund/welt-meningitis-tag-2024--impfschutz-erweitert--13879022.html) (Brigitte.de)
+
 - [En los próximos años se duplicarán los casos de meningitis, que podrían prevenirse con la vacuna](https://www.infosalus.com/salud-investigacion/noticia-proximos-anos-duplicaran-casos-meningitis-podrian-prevenirse-vacuna-20241005081453.html) (Infosalus.com)
 
 - [El día a día de Luis Canut, marido de Patricia Pérez, con su ceguera: así aprende a coger el autobús](https://www.hola.com/actualidad/20241004722186/luis-canut-patricia-perez-autobus-ceguera/) (Hola)
@@ -461,6 +513,14 @@ Source: [News API](https://newsapi.org/)
 - [The “Cluster” of Possible Human Bird Flu Infections Has Expanded to 8](https://www.shtfplan.com/headline-news/the-cluster-of-possible-human-bird-flu-infections-has-expanded-to-8) (Shtfplan.com)
 
 ## 24-40 (dengue)
+
+- [Nuova disinfestazione per Dengue a Fano, incidenza casi scende](https://www.ansa.it/marche/notizie/2024/10/05/nuova-disinfestazione-per-dengue-a-fano-incidenza-casi-scende_97556277-52e9-4333-830a-bbee7cfbd64c.html) (ANSA.it)
+
+- [Jane (38) uit Venlo liep knokkelkoorts in Spanje op: kruipen de tropische ziektes verder deze kant op?](https://www.hbvl.be/cnt/dmf20241005_94844281) (Hbvl.be)
+
+- [Canabidiol é efetivo para matar larvas do mosquito da dengue, diz estudo](https://brasil.perfil.com/saude/canabidiol-e-efetivo-para-matar-larvas-do-mosquito-da-dengue-diz-estudo.phtml) (Perfil.com)
+
+- [Jane (38) uit Venlo liep knokkelkoorts in Spanje op: ’Zag madeliefjes door de lucht vliegen van de pijn’](https://www.telegraaf.nl/nieuws/815209371/jane-38-uit-venlo-liep-knokkelkoorts-in-spanje-op-zag-madeliefjes-door-de-lucht-vliegen-van-de-pijn) (Telegraaf.nl)
 
 - [Dengue: vacunar y descacharrar](https://www.lanacion.com.ar/editoriales/dengue-vacunar-y-descacharrar-nid05102024/) (La Nacion)
 
@@ -3548,30 +3608,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Alex Almuedo: "La emergencia por mpox debe servir para movilizar recursos a las zonas de África afectadas"](https://www.eldiario.es/catalunya/alex-almuedo-emergencia-mpox-debe-servir-movilizar-recursos-zonas-africa-afectadas_1_11602164.html) (Eldiario.es)
 
-- [Ex-FDA commissioner Dr. Scott Gottlieb says U.S. "not at risk right now" for new mpox variant](https://www.cbsnews.com/video/ex-fda-commissioner-dr-scott-gottlieb-says-u-s-not-at-risk-right-now-for-new-mpox-variant/) (CBS News)
-
-- [Mpox pode virar uma pandemia? Veja opinião de especialistas](https://gizmodo.uol.com.br/mpox-pode-virar-uma-pandemia-veja-opiniao-de-especialistas/) (Uol.com.br)
-
-- [Mpox: Step-by-step measures for staying safe](https://punchng.com/mpox-step-by-step-measures-for-staying-safe/) (The Punch)
-
-- [Papa se roagă pentru victimele Mpox / Ce le-a transmis „guvernelor și companiilor private”](http://hotnews.ro/papa-se-roaga-pentru-victimele-mpox-ce-le-a-transmis-guvernelor-si-companiilor-private-1778254) (Hotnews.ro)
-
-- [Afrika får sin första leverans mpoxmaccin](https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1286805) (Aftonbladet.se)
-
-- [В Республике Конго выявили более 20 инфицированных вирусом оспы обезьян](https://tass.ru/proisshestviya/21683213) (Tass.ru)
-
-- [Congo-Brazzaville reports 21 mpox cases](https://www.voanews.com/a/congo-brazzaville-reports-21-mpox-cases/7756237.html) (VOA News)
-
-- [Mpox, l’appello del Papa: “Governi e industrie condividano i trattamenti disponibili”. Oms: “Servono 135 milioni di euro”](https://www.ilfattoquotidiano.it/2024/08/25/mpox-lappello-del-papa-governi-e-industrie-condividano-i-trattamenti-disponibili-oms-servono-135-milioni-di-euro/7668722/) (Ilfattoquotidiano.it)
-
-- [Should we be worried about mpox?; Ultra-discount grocery stores: CBC's Marketplace cheat sheet](https://www.cbc.ca/news/business/marketplace-watchdog-1.7302620) (CBC News)
-
-- [Mpox: Papst wegen Ausbreitung des Virus besorgt](https://orf.at/stories/3367497/) (Orf.at)
-
-- [Pope seeks help for mpox victims](https://punchng.com/pope-seeks-help-for-mpox-victims/) (The Punch)
-
-- [Mpox less likely to lead school closures: Experts](https://www.hurriyetdailynews.com/mpox-less-likely-to-lead-school-closures-experts-199888) (Hurriyet Daily News)
-
 ## 24-35 (meningitis)
 
 - [El jefe de la Salud Pública andaluza: "Por estadística, llegaremos a 5.000 casos de virus del Nilo en la región"](https://www.elespanol.com/ciencia/salud/20240831/jefe-salud-publica-andaluza-estadistica-llegaremos-casos-virus-nilo-region/881912166_0.html) (Elespanol.com)
@@ -3686,8 +3722,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Камбоджа активизировала усилия по предотвращению проникновения оспы обезьян](https://tass.ru/obschestvo/21687067) (Tass.ru)
 
-- [Odisha culls birds after Avian flu outbreak](https://economictimes.indiatimes.com/news/india/odisha-culls-birds-after-avian-flu-outbreak/articleshow/112782110.cms) (The Times of India)
-
 ## 24-35 (dengue)
 
 - [Realizan en Puerto Rico un estudio pionero de inmunología de dengue](https://www.montevideo.com.uy/Salud/Realizan-en-Puerto-Rico-un-estudio-pionero-de-inmunologia-de-dengue-uc898763) (Montevideo.com.uy)
@@ -3773,8 +3807,6 @@ Source: [News API](https://newsapi.org/)
 - [El ECDC señala que "es probable" que la UE notifique más casos importados de la nueva variante de mpox](https://www.infosalus.com/salud-investigacion/noticia-ecdc-senala-probable-ue-notifique-mas-casos-importados-nueva-variante-mpox-20240826122956.html) (Infosalus.com)
 
 - [Especialista no mosquito da dengue, ela saiu de casa aos 15 anos para realizar o sonho de se tornar cientista](https://gizmodo.uol.com.br/especialista-no-mosquito-da-dengue-ela-saiu-de-casa-aos-15-anos-para-realizar-o-sonho-de-se-tornar-cientista/) (Uol.com.br)
-
-- [Bapi Hansda recovers in time to join Indian team in Lima](https://timesofindia.indiatimes.com/sports/more-sports/athletics/bapi-hansda-recovers-in-time-to-join-indian-team-in-lima/articleshow/112785136.cms) (The Times of India)
 
 ## 24-35 (chikungunya)
 
