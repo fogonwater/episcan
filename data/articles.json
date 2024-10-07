@@ -1,8 +1,80 @@
 {
-  "last_updated": "2024-10-07 07:06",
-  "count_articles_total": 1766,
-  "count_articles_new": 11,
+  "last_updated": "2024-10-07 19:05",
+  "count_articles_total": 1756,
+  "count_articles_new": 4,
   "articles": [
+    {
+      "id": 14401,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Milenio",
+      "author": "Redacci\u00f3n",
+      "title": "QRoo avanza en la lucha contra el dengue: pasa del lugar 3 al 22 en casos nacionales",
+      "description": "Como resultado de la estrategia de lucha contra el dengue, Quintana Roo se encuentra en la posici\u00f3n n\u00famero 22 a nivel nacional por n\u00famero de casos, un logro hist\u00f3rico resultado de la estrategia, coordinaci\u00f3n e inversi\u00f3n.El gobierno de Mara Lezama Espinosa ha \u2026",
+      "url": "https://www.milenio.com/estados/quintana-roo-logra-reducir-casos-dengue",
+      "urlToImage": "https://cdn.milenio.com/uploads/media/2024/10/06/personal-salud-estrategia-combate-dengue.jpg",
+      "publishedAt": "2024-10-06 18:17:21",
+      "content": "Como resultado de la estrategia de lucha contra el dengue, Quintana Roo se encuentra en la posici\u00f3n n\u00famero 22a nivel nacional por n\u00famero de casos, un logro hist\u00f3rico resultado de la estrategia, coord\u2026 [+1233 chars]",
+      "retrievedAt": "2024-10-07 19:05:46.416575",
+      "internal_id": "fb8359d159b4770146ebb1fef0a0b941100a740e3096def2f8ea78203600662e",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 14402,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "Cintia Perazo",
+      "title": "Dengue: la nueva inteligencia artificial que usar\u00e1n en la provincia de Buenos Aires para intentar anticiparse a los brotes",
+      "description": "El programa, desarrollado por investigadores de la Unsam, ya se est\u00e1 probando y promete inferir cu\u00e1ntos mosquitos infectados habr\u00e1 en cada manzana del conurbano",
+      "url": "https://www.lanacion.com.ar/sociedad/dengue-la-nueva-inteligencia-artificial-que-usaran-en-la-provincia-de-buenos-aires-para-intentar-nid06102024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/el-dengue-se-contagia-por-la-picadura-del-VYNUJTEDOFEQNNIQ4SPVPFIUCA.jpg?auth=241260c572bad34eade992656cf41cbdc3bf5b53ec8d7849f230ef7202a9c141&width=768&quality=70&smart=false",
+      "publishedAt": "2024-10-06 15:30:00",
+      "content": "Un equipo de investigadores de la Universidad Nacional de San Mart\u00edn (Unsam), liderado por Ezequiel \u00c1lvarez, est\u00e1 desarrollando un modelo de inteligencia artificial bayesiana que permitir\u00e1 anticipar \u2026 [+7718 chars]",
+      "retrievedAt": "2024-10-07 19:05:46.489307",
+      "internal_id": "199661668e62d7913ed09632ec701443735ed6c24b8bfd3dc7f6895c5f324940",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 14404,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": "http://www.facebook.com/bbcnews",
+      "title": "\u0427\u043e\u043c\u0443 \u043c\u0456\u043d\u044f\u0442\u0438 \u043f\u043e\u0441\u0442\u0456\u043b\u044c\u043d\u0443 \u0431\u0456\u043b\u0438\u0437\u043d\u0443 \u0432\u0430\u0440\u0442\u043e \u0447\u0430\u0441\u0442\u0456\u0448\u0435",
+      "description": "\u041c\u0438 \u043f\u0440\u043e\u0432\u043e\u0434\u0438\u043c\u043e \u043d\u0430 \u043f\u0440\u043e\u0441\u0442\u0438\u0440\u0430\u0434\u043b\u0430\u0445 \u0456 \u043f\u043e\u0434\u0443\u0448\u043a\u0430\u0445 \u0442\u0440\u0435\u0442\u0438\u043d\u0443 \u0441\u0432\u043e\u0433\u043e \u0436\u0438\u0442\u0442\u044f \u0449\u043e\u0434\u043d\u044f, \u0456 \u0446\u0435\u0439 \u043a\u043e\u043d\u0442\u0430\u043a\u0442 \u0441\u0442\u0432\u043e\u0440\u044e\u0454 \u0456\u0434\u0435\u0430\u043b\u044c\u043d\u0435 \u0441\u0435\u0440\u0435\u0434\u043e\u0432\u0438\u0449\u0435 \u0434\u043b\u044f \u043a\u0443\u043f\u0438 \u043d\u0435\u0431\u0430\u0436\u0430\u043d\u0438\u0445 \u0433\u043e\u0441\u0442\u0435\u0439.",
+      "url": "https://www.bbc.com/ukrainian/articles/c17lxe84pk2o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_ukrainian/4a90/live/93eb8570-825d-11ef-a96a-4578729d5d06.jpg",
+      "publishedAt": "2024-10-06 12:57:11",
+      "content": "Article information , . , , . . , , , . - , , , . , . 500 , , , . , , . . 2013 , , . , , - S. aureus, , . \" , \", - , , . , Getty Images , , , , . 2018 , , , , . . 2022 , (mpox).\u2026 [+472 chars]",
+      "retrievedAt": "2024-10-07 19:05:48.100667",
+      "internal_id": "fac9e291a8c7df398968a765d17d6decda9bb0f861135150c7c7d0210073ff1c",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 14403,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "VOA News",
+      "author": "webdesk@voanews.com (Associated Press)",
+      "title": "Congo starts mpox vaccinations in effort to slow outbreaks",
+      "description": "GOMA, Congo \u2014 Congolese authorities on Saturday began vaccinations against mpox, nearly two months after the disease outbreak that spread from Congo to several African countries and beyond was declared a global emergency by the World Health Organization. Th\u2026",
+      "url": "https://www.voanews.com/a/congo-starts-mpox-vaccinations-in-effort-to-slow-outbreaks/7812086.html",
+      "urlToImage": "https://gdb.voanews.com/F2A047DA-F41F-406F-A699-3C87C334BCA6.jpg",
+      "publishedAt": "2024-10-06 07:11:34",
+      "content": "GOMA, Congo Congolese authorities on Saturday began vaccinations against mpox, nearly two months after the disease outbreak that spread from Congo to several African countries and beyond was declare\u2026 [+3282 chars]",
+      "retrievedAt": "2024-10-07 19:05:47.955180",
+      "internal_id": "fe487d05e9b2250a6d57ce4b443e1a3cd84340b29390439d476a26f8cd086a69",
+      "publishedAtLabel": "Oct 6"
+    },
     {
       "id": 14393,
       "query": [
@@ -31609,258 +31681,6 @@
       "content": "Alex Almuedo es un m\u00e9dico especialista s\u00e9nior en el Servicio de Salud Internacional del Hospital Cl\u00ednic de Barcelona, un centro que cuenta con una de las pocas unidades de aislamiento que hay en Espa\u2026 [+7980 chars]",
       "retrievedAt": "2024-08-27 07:05:59.898986",
       "internal_id": "3fb0ea44b9cddfc54b6b1f2d6a71b63a32809aa56abb178aee102b96563cb7f9",
-      "publishedAtLabel": "Aug 25"
-    },
-    {
-      "id": 12626,
-      "query": [
-        "mpox"
-      ],
-      "source_id": "cbs-news",
-      "source_name": "CBS News",
-      "author": "CBS News",
-      "title": "Ex-FDA commissioner Dr. Scott Gottlieb says U.S. \"not at risk right now\" for new mpox variant",
-      "description": "Dr. Scott Gottlieb, a former FDA commissioner and Pfizer board member, tells \"Face the Nation with Margaret Brennan\" that Americans are \"not at risk right now\" for the new mpox variant seen in Democratic Republic of Congo. But he said the variant appears to \"\u2026",
-      "url": "https://www.cbsnews.com/video/ex-fda-commissioner-dr-scott-gottlieb-says-u-s-not-at-risk-right-now-for-new-mpox-variant/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/08/25/172552de-ccfe-4394-b8c4-e7c10aa5ced9/thumbnail/1200x630/2c0fa2b79a975e2acc06fa6a72184044/0825-ftn-gottlieb2.jpg?v=29ebd300d9a3cd24077d945a46991f72",
-      "publishedAt": "2024-08-25 17:53:00",
-      "content": "Watch CBS News Copyright \u00a92024 CBS Interactive Inc. All rights reserved. Get browser notifications for breaking news, live events, and exclusive reporting. Not NowTurn On",
-      "retrievedAt": "2024-08-26 19:06:42.985731",
-      "internal_id": "eefaf76a264685c6c6f3cb5b905baf7f473f7fad350e56c1c4c3a9cc030bead3",
-      "publishedAtLabel": "Aug 25"
-    },
-    {
-      "id": 12621,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Uol.com.br",
-      "author": "Pablo Nogueira",
-      "title": "Mpox pode virar uma pandemia? Veja opini\u00e3o de especialistas",
-      "description": "Neste ano, mais de 500 mortes no Congo foram atribu\u00eddas \u00e0 variante 1b da mpox, resultando no alerta de emerg\u00eancia da OMS, do \u00faltimo dia 14. The post Mpox pode virar uma pandemia? Veja opini\u00e3o de especialistas appeared first on Giz Brasil.",
-      "url": "https://gizmodo.uol.com.br/mpox-pode-virar-uma-pandemia-veja-opiniao-de-especialistas/",
-      "urlToImage": "https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2024/08/mpox.webp",
-      "publishedAt": "2024-08-25 17:13:36",
-      "content": "Apesar de declarar a dissemina\u00e7\u00e3o da mpox como uma emerg\u00eancia de sa\u00fade p\u00fablica de interesse internacional, a OMS (Organiza\u00e7\u00e3o Mundial da Sa\u00fade) revelou que o v\u00edrus n\u00e3o vai causar uma pandemia como a \u2026 [+2008 chars]",
-      "retrievedAt": "2024-08-26 19:06:42.785188",
-      "internal_id": "314f38c9924d11863e8d2d7c4960f1951da0b47d6c0267d4a437f9d9777d20f8",
-      "publishedAtLabel": "Aug 25"
-    },
-    {
-      "id": 12729,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "The Punch",
-      "author": "Abdul-hafeez Fadehan",
-      "title": "Mpox: Step-by-step measures for staying safe",
-      "description": "As the Mpox virus continues its alarming spread across Africa, with Nigeria increasingly feeling its impact, citizens must take proactive measures to protect themselves and their loved ones. PUNCH reports that the Nigeria Centre for Disease Control and Preven\u2026",
-      "url": "https://punchng.com/mpox-step-by-step-measures-for-staying-safe/",
-      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2022/08/30230550/monkeypox.jpg",
-      "publishedAt": "2024-08-25 16:06:26",
-      "content": "As the Mpox virus continues its alarming spread across Africa, with Nigeria increasingly feeling its impact, citizens must take proactive measures to protect themselves and their loved ones. PUNCH r\u2026 [+3553 chars]",
-      "retrievedAt": "2024-08-28 07:06:06.179875",
-      "internal_id": "1c84d7c998cf52d7ad56178960bd91b337ce08f6303483e776cd01a50eebabac",
-      "publishedAtLabel": "Aug 25"
-    },
-    {
-      "id": 12620,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "Arnab Lall Seal",
-      "title": "Bapi Hansda recovers in time to join Indian team in Lima",
-      "description": "Bapi Hansda, a promising Indian sprinter, overcame a dengue scare to reach Peru for the U20 World Athletics Championships. Initially at risk of missing the event, his health improved, allowing him to compete in the 4x400m relay and possibly the 400m. Hansda, \u2026",
-      "url": "https://timesofindia.indiatimes.com/sports/more-sports/athletics/bapi-hansda-recovers-in-time-to-join-indian-team-in-lima/articleshow/112785136.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-112785134,width-1070,height-580,imgsize-40252,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-08-25 15:27:48",
-      "content": "Shikhar Dhawan's top 10 most impressive stats",
-      "retrievedAt": "2024-08-26 19:06:39.808507",
-      "internal_id": "8463e54039a2a43f4badd457b583e8c67ea85b2a7681c484fbcce3b73880e402",
-      "publishedAtLabel": "Aug 25"
-    },
-    {
-      "id": 12625,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Hotnews.ro",
-      "author": "Ionu\u021b Baia\u0219",
-      "title": "Papa se roag\u0103 pentru victimele Mpox / Ce le-a transmis \u201eguvernelor \u0219i companiilor private\u201d",
-      "description": "Papa Francisc s-a rugat pentru prima dat\u0103 pentru victimele Mpox, declar\u00e2nd c\u0103 virusul este \u201eacum o urgen\u021b\u0103 sanitar\u0103 global\u0103\u201d, \u0219i a \u00eendemnat \u201eguvernele \u0219i industriile private\u201d s\u0103 \u201e\u00eemp\u0103rt\u0103\u0219easc\u0103 tratamentele disponibile\u201d, astfel \u00eenc\u00e2t \u201enimeni s\u0103 nu\u2026",
-      "url": "http://hotnews.ro/papa-se-roaga-pentru-victimele-mpox-ce-le-a-transmis-guvernelor-si-companiilor-private-1778254",
-      "urlToImage": "https://hotnews.ro/wp-content/uploads/2024/08/Un-copil-infectat-cu-mpox-primeste-tratament-intr-un-centru-din-estul-Republicii-Democrate-Congo-sursa-foto-Profimedia-Images-scaled-1.jpg",
-      "publishedAt": "2024-08-25 14:52:00",
-      "content": "Papa Francisc s-a rugat pentru prima dat pentru victimele Mpox, declar\u00e2nd c virusul este acum o urgen sanitar global, i a \u00eendemnat guvernele i industriile private s \u00eemprteasc tratamentele disponibile\u2026 [+1105 chars]",
-      "retrievedAt": "2024-08-26 19:06:42.943246",
-      "internal_id": "37194995bcb3ded3850343cddcb2e1443755b637e0cfc8898c4c157c964b313b",
-      "publishedAtLabel": "Aug 25"
-    },
-    {
-      "id": 12624,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Aftonbladet.se",
-      "author": null,
-      "title": "Afrika f\u00e5r sin f\u00f6rsta leverans mpoxmaccin",
-      "description": "\u25b8 Den f\u00f6rsta leveransen vaccin mot mpox kommer att n\u00e5 Afrika den h\u00e4r veckan, rapporterar The Guardian.",
-      "url": "https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1286805",
-      "urlToImage": "https://images.aftonbladet-cdn.se/v2/images/156fc268-adec-4fec-ac17-baa7f1dbdb35?fit=crop&format=auto&h=56&q=50&w=100&s=8d717b112fa508073dcc3292ac8f7acfdc612d33",
-      "publishedAt": "2024-08-25 13:36:17",
-      "content": "TRE NYHETER DU INTE F\u00c5R MISSA: Afrika f\u00e5r sin f\u00f6rsta leverans mpoxmaccin Den f\u00f6rsta leveransen vaccin mot mpox kommer att n\u00e5 Afrika den h\u00e4r veckan, rapporterar The Guardian. Det \u00e4r USA som\u2026 [+12241 chars]",
-      "retrievedAt": "2024-08-26 19:06:42.902822",
-      "internal_id": "c76fa6571c84ee13bdb5abe74aba02988f4c3281e7164a478127637209b4ffb7",
-      "publishedAtLabel": "Aug 25"
-    },
-    {
-      "id": 12638,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Tass.ru",
-      "author": null,
-      "title": "\u0412 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0435 \u041a\u043e\u043d\u0433\u043e \u0432\u044b\u044f\u0432\u0438\u043b\u0438 \u0431\u043e\u043b\u0435\u0435 20 \u0438\u043d\u0444\u0438\u0446\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0445 \u0432\u0438\u0440\u0443\u0441\u043e\u043c \u043e\u0441\u043f\u044b \u043e\u0431\u0435\u0437\u044c\u044f\u043d",
-      "description": "\u041c\u0438\u043d\u0438\u0441\u0442\u0440 \u0437\u0434\u0440\u0430\u0432\u043e\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f \u0438 \u043d\u0430\u0440\u043e\u0434\u043e\u043d\u0430\u0441\u0435\u043b\u0435\u043d\u0438\u044f \u0441\u0442\u0440\u0430\u043d\u044b \u0416\u0438\u043b\u044c\u0431\u0435\u0440 \u041c\u043e\u043a\u043e\u043a\u0438 \u043e\u0442\u043c\u0435\u0442\u0438\u043b, \u0447\u0442\u043e \u0432\u0441\u0435\u0433\u043e \u0441 \u043d\u0430\u0447\u0430\u043b\u0430 \u0433\u043e\u0434\u0430 \u0431\u044b\u043b\u043e \u0432\u044b\u044f\u0432\u043b\u0435\u043d\u043e 158 \u0441\u043b\u0443\u0447\u0430\u0435\u0432 \u0441 \u043f\u043e\u0434\u043e\u0437\u0440\u0435\u043d\u0438\u0435\u043c \u043d\u0430 mpox",
-      "url": "https://tass.ru/proisshestviya/21683213",
-      "urlToImage": "https://cdn-storage-media.tass.ru/thumb/ru/proisshestviya/21683213?u=2024-08-25T13:33:02.062540",
-      "publishedAt": "2024-08-25 13:33:02",
-      "content": ", 25 . //. mpox (\"\", ) () 21. . \" 158 mpox, 21 \", - AFP. , mpox . (), mpox . 13 mpox. mpox 40 ., 1,4 . . mpox 18 . 14 , mpox . Mpox - , , . 1970 . mpox 10%. .",
-      "retrievedAt": "2024-08-27 07:05:59.987707",
-      "internal_id": "433523d6d00c6735d4f9db746a3ffe7b4a45c480b642df7790777ff363aa7bd6",
-      "publishedAtLabel": "Aug 25"
-    },
-    {
-      "id": 12627,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "VOA News",
-      "author": "webdesk@voanews.com (Agence France-Presse)",
-      "title": "Congo-Brazzaville reports 21 mpox cases",
-      "description": "Brazzaville, Congo \u2014 Twenty-one cases of mpox have been recorded in Congo-Brazzaville, the country's health minister told state television Sunday. Gilbert Mokoki said that the central African country had \"registered 158 suspect cases\" since the beginning of\u2026",
-      "url": "https://www.voanews.com/a/congo-brazzaville-reports-21-mpox-cases/7756237.html",
-      "urlToImage": "https://gdb.voanews.com/236A80F7-08D4-4C35-9668-23011FB1038B.jpg",
-      "publishedAt": "2024-08-25 13:14:12",
-      "content": "Brazzaville, Congo Twenty-one cases of mpox have been recorded in Congo-Brazzaville, the country's health minister told state television Sunday. Gilbert Mokoki said that the central African country\u2026 [+956 chars]",
-      "retrievedAt": "2024-08-26 19:06:43.026485",
-      "internal_id": "f3b6ea4774f436472571813e817c86fcab7d99f3255bc4294b2ffd1aa4b49bb1",
-      "publishedAtLabel": "Aug 25"
-    },
-    {
-      "id": 12622,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Ilfattoquotidiano.it",
-      "author": "F. Q.",
-      "title": "Mpox, l\u2019appello del Papa: \u201cGoverni e industrie condividano i trattamenti disponibili\u201d. Oms: \u201cServono 135 milioni di euro\u201d",
-      "description": "L\u2019emergenza Mpox \u00e8 arrivata fino al Vaticano. \u201cDesidero manifestare la mia solidariet\u00e0 alle migliaia di persone colpite dal vaiolo delle scimmie, che costituisce ormai un\u2019emergenza sanitaria globale \u2013 ha detto papa Francesco all\u2019Angelus \u2013 Prego per tutte le p\u2026",
-      "url": "https://www.ilfattoquotidiano.it/2024/08/25/mpox-lappello-del-papa-governi-e-industrie-condividano-i-trattamenti-disponibili-oms-servono-135-milioni-di-euro/7668722/",
-      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2024/08/25/papa-francesco-1200x630.jpg",
-      "publishedAt": "2024-08-25 12:29:59",
-      "content": "Roma, 25 ago. (Adnkronos) - Beppe Grillo potrebbe fermare il prossimo voto sulla regola del doppio mandato e sulla modifica del simbolo del Movimento 5 Stelle ma \"non lo far\u00e0\" perch\u00e9 ha perso il suo \u2026 [+4430 chars]",
-      "retrievedAt": "2024-08-26 19:06:42.833406",
-      "internal_id": "2eedf48d9b7e88270d5f1e33685c34a3534a4b2f4512b393ebed0c9c7a2613c5",
-      "publishedAtLabel": "Aug 25"
-    },
-    {
-      "id": 12623,
-      "query": [
-        "mpox"
-      ],
-      "source_id": "cbc-news",
-      "source_name": "CBC News",
-      "author": null,
-      "title": "Should we be worried about mpox?; Ultra-discount grocery stores: CBC's Marketplace cheat sheet",
-      "description": "CBC's Marketplace rounds up the consumer and health news you need from the week.",
-      "url": "https://www.cbc.ca/news/business/marketplace-watchdog-1.7302620",
-      "urlToImage": "https://i.cbc.ca/1.7301580.1724288292!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/health-mpox-congo.JPG",
-      "publishedAt": "2024-08-25 12:00:00",
-      "content": "Miss something this week? Don't panic. CBC's Marketplace rounds up the consumer and health news you need. Want this in your inbox? Get the Marketplace newsletter every Friday. Loblaw is piloting ul\u2026 [+6175 chars]",
-      "retrievedAt": "2024-08-26 19:06:42.838875",
-      "internal_id": "3e04f9a5bdeb06157ca2a53d9c96a747e067095f1cb6193c8569396dfd0528fe",
-      "publishedAtLabel": "Aug 25"
-    },
-    {
-      "id": 12619,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "Reuters",
-      "title": "Odisha culls birds after Avian flu outbreak",
-      "description": "Odisha has culled more than a thousand chickens following a confirmed H5N1 bird flu outbreak in the Puri district. The outbreak occurred after the deaths of 1,800 birds at a local poultry farm. Efforts are ongoing to cull approximately 20,000 birds to prevent\u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/odisha-culls-birds-after-avian-flu-outbreak/articleshow/112782110.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-112782143,width-1200,height-630,imgsize-34368,overlay-economictimes/photo.jpg",
-      "publishedAt": "2024-08-25 11:40:23",
-      "content": "Odisha has culled more than a thousand chickens after a positive test for the highly pathogenic H5N1 strain of avian influenza, or bird flu, a state government official told Reuters on Sunday.The epi\u2026 [+718 chars]",
-      "retrievedAt": "2024-08-26 19:06:38.952120",
-      "internal_id": "d1c302593b0d5b3c02298c6750bba5119e4019e006ec67259363eef88c36e538",
-      "publishedAtLabel": "Aug 25"
-    },
-    {
-      "id": 12628,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Orf.at",
-      "author": "ORF.at",
-      "title": "Mpox: Papst wegen Ausbreitung des Virus besorgt",
-      "description": "",
-      "url": "https://orf.at/stories/3367497/",
-      "urlToImage": "https://orf.at/mojo/1_4_1/storyserver//news/common/images/og-fallback-news.png",
-      "publishedAt": "2024-08-25 10:46:58",
-      "content": "Nach einem Aufruf von EU-Gesundheitskommissarin Stella Kyriakides zur Spende von Impfstoff gegen Mpox (Affenpocken) am Freitag hat Papst Franziskus beim Angelus-Gebet heute auf dem Petersplatz seine \u2026 [+754 chars]",
-      "retrievedAt": "2024-08-26 19:06:43.060489",
-      "internal_id": "02cf2febc5647cfdb34392c7f067eb511503c42c26fe8a6d7a357bfc7a85c9c7",
-      "publishedAtLabel": "Aug 25"
-    },
-    {
-      "id": 12659,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "The Punch",
-      "author": "Agency Report",
-      "title": "Pope seeks help for mpox victims",
-      "description": "Pope Francis on Sunday highlighted victims of the mpox virus in his weekly prayers and called on governments and the pharmaceutical industry to do more to get vaccines to the worst-hit countries. \u201cI pray for all the infected people, in particular the populati\u2026",
-      "url": "https://punchng.com/pope-seeks-help-for-mpox-victims/",
-      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2022/12/25164441/33642WB-preview.jpg",
-      "publishedAt": "2024-08-25 09:00:23",
-      "content": "Pope Francis on Sunday highlighted victims of the mpox virus in his weekly prayers and called on governments and the pharmaceutical industry to do more to get vaccines to the worst-hit countries. \u201cI\u2026 [+1215 chars]",
-      "retrievedAt": "2024-08-27 07:06:00.126504",
-      "internal_id": "344eee1aae3a7eb3d1eb6b50f713fa8e7727e5c2d863e81c1a824d735e8f8c94",
-      "publishedAtLabel": "Aug 25"
-    },
-    {
-      "id": 12641,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Hurriyet Daily News",
-      "author": "hurriyetdailynews.com",
-      "title": "Mpox less likely to lead school closures: Experts",
-      "description": "Although the World Health Organization (WHO) recently declared mpox a global health emergency, mpox is highly unlikely to lead to school closures, according to physicians and public health experts in the U.S., local media reported.",
-      "url": "https://www.hurriyetdailynews.com/mpox-less-likely-to-lead-school-closures-experts-199888",
-      "urlToImage": "https://image.hurimg.com/i/hurriyet/75/200x200/66cade7d1173c75d18a5d7b0.jpg",
-      "publishedAt": "2024-08-25 07:34:00",
-      "content": "WASHINGTON Although the World Health Organization (WHO) recently declared mpox a global health emergency, mpox is highly unlikely to lead to school closures, according to physicians and public healt\u2026 [+1567 chars]",
-      "retrievedAt": "2024-08-27 07:06:00.010532",
-      "internal_id": "6a6a9cd89c290fc457a250cd0face78bde2bc86ad8bff6376056d9d0cae62665",
       "publishedAtLabel": "Aug 25"
     }
   ]

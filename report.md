@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 11
-- **Last harvest:** 2024-10-07 07:06
-- **Most recent article:** 2024-10-06 03:53:05
+- **New articles in last harvest:** 4
+- **Last harvest:** 2024-10-07 19:05
+- **Most recent article:** 2024-10-06 18:17:21
 
 ---
 
@@ -12,9 +12,9 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-35 | 24-36 | 24-37 | 24-38 | 24-39 | 24-40 | 24-41 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 204 | 184 | 192 | 140 | 122 | 116 | 1 | 959 |
-| dengue | 43 | 49 | 76 | 73 | 49 | 51 | 2 | 343 |
-| h5n1 | 10 | 31 | 10 | 17 | 35 | 49 | 0 | 152 |
+| mpox | 192 | 184 | 192 | 140 | 122 | 116 | 3 | 949 |
+| dengue | 42 | 49 | 76 | 73 | 49 | 51 | 4 | 344 |
+| h5n1 | 9 | 31 | 10 | 17 | 35 | 49 | 0 | 151 |
 | malaria | 28 | 14 | 12 | 15 | 24 | 10 | 0 | 103 |
 | rabies | 3 | 7 | 5 | 13 | 25 | 30 | 0 | 83 |
 | measles | 11 | 9 | 5 | 8 | 4 | 6 | 0 | 43 |
@@ -35,9 +35,17 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-41 (mpox)
 
+- [Чому міняти постільну білизну варто частіше](https://www.bbc.com/ukrainian/articles/c17lxe84pk2o) (BBC News)
+
+- [Congo starts mpox vaccinations in effort to slow outbreaks](https://www.voanews.com/a/congo-starts-mpox-vaccinations-in-effort-to-slow-outbreaks/7812086.html) (VOA News)
+
 - [Trump, mpox et Nouvelle-Zélande : les informations de la nuit](https://www.courrierinternational.com/article/pendant-que-vous-dormiez-trump-mpox-et-nouvelle-zelande-les-informations-de-la-nuit_223047) (Courrier International)
 
 ## 24-41 (dengue)
+
+- [QRoo avanza en la lucha contra el dengue: pasa del lugar 3 al 22 en casos nacionales](https://www.milenio.com/estados/quintana-roo-logra-reducir-casos-dengue) (Milenio)
+
+- [Dengue: la nueva inteligencia artificial que usarán en la provincia de Buenos Aires para intentar anticiparse a los brotes](https://www.lanacion.com.ar/sociedad/dengue-la-nueva-inteligencia-artificial-que-usaran-en-la-provincia-de-buenos-aires-para-intentar-nid06102024/) (La Nacion)
 
 - [Bacolod: Dengue kills 13 and infects 4,400 people](https://rpnradio.com/bacolod-dengue-kills-13-and-infects-4400-people/) (Rpnradio.com)
 
@@ -3637,30 +3645,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Alex Almuedo: "La emergencia por mpox debe servir para movilizar recursos a las zonas de África afectadas"](https://www.eldiario.es/catalunya/alex-almuedo-emergencia-mpox-debe-servir-movilizar-recursos-zonas-africa-afectadas_1_11602164.html) (Eldiario.es)
 
-- [Ex-FDA commissioner Dr. Scott Gottlieb says U.S. "not at risk right now" for new mpox variant](https://www.cbsnews.com/video/ex-fda-commissioner-dr-scott-gottlieb-says-u-s-not-at-risk-right-now-for-new-mpox-variant/) (CBS News)
-
-- [Mpox pode virar uma pandemia? Veja opinião de especialistas](https://gizmodo.uol.com.br/mpox-pode-virar-uma-pandemia-veja-opiniao-de-especialistas/) (Uol.com.br)
-
-- [Mpox: Step-by-step measures for staying safe](https://punchng.com/mpox-step-by-step-measures-for-staying-safe/) (The Punch)
-
-- [Papa se roagă pentru victimele Mpox / Ce le-a transmis „guvernelor și companiilor private”](http://hotnews.ro/papa-se-roaga-pentru-victimele-mpox-ce-le-a-transmis-guvernelor-si-companiilor-private-1778254) (Hotnews.ro)
-
-- [Afrika får sin första leverans mpoxmaccin](https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1286805) (Aftonbladet.se)
-
-- [В Республике Конго выявили более 20 инфицированных вирусом оспы обезьян](https://tass.ru/proisshestviya/21683213) (Tass.ru)
-
-- [Congo-Brazzaville reports 21 mpox cases](https://www.voanews.com/a/congo-brazzaville-reports-21-mpox-cases/7756237.html) (VOA News)
-
-- [Mpox, l’appello del Papa: “Governi e industrie condividano i trattamenti disponibili”. Oms: “Servono 135 milioni di euro”](https://www.ilfattoquotidiano.it/2024/08/25/mpox-lappello-del-papa-governi-e-industrie-condividano-i-trattamenti-disponibili-oms-servono-135-milioni-di-euro/7668722/) (Ilfattoquotidiano.it)
-
-- [Should we be worried about mpox?; Ultra-discount grocery stores: CBC's Marketplace cheat sheet](https://www.cbc.ca/news/business/marketplace-watchdog-1.7302620) (CBC News)
-
-- [Mpox: Papst wegen Ausbreitung des Virus besorgt](https://orf.at/stories/3367497/) (Orf.at)
-
-- [Pope seeks help for mpox victims](https://punchng.com/pope-seeks-help-for-mpox-victims/) (The Punch)
-
-- [Mpox less likely to lead school closures: Experts](https://www.hurriyetdailynews.com/mpox-less-likely-to-lead-school-closures-experts-199888) (Hurriyet Daily News)
-
 ## 24-35 (meningitis)
 
 - [El jefe de la Salud Pública andaluza: "Por estadística, llegaremos a 5.000 casos de virus del Nilo en la región"](https://www.elespanol.com/ciencia/salud/20240831/jefe-salud-publica-andaluza-estadistica-llegaremos-casos-virus-nilo-region/881912166_0.html) (Elespanol.com)
@@ -3775,8 +3759,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Камбоджа активизировала усилия по предотвращению проникновения оспы обезьян](https://tass.ru/obschestvo/21687067) (Tass.ru)
 
-- [Odisha culls birds after Avian flu outbreak](https://economictimes.indiatimes.com/news/india/odisha-culls-birds-after-avian-flu-outbreak/articleshow/112782110.cms) (The Times of India)
-
 ## 24-35 (dengue)
 
 - [Realizan en Puerto Rico un estudio pionero de inmunología de dengue](https://www.montevideo.com.uy/Salud/Realizan-en-Puerto-Rico-un-estudio-pionero-de-inmunologia-de-dengue-uc898763) (Montevideo.com.uy)
@@ -3862,8 +3844,6 @@ Source: [News API](https://newsapi.org/)
 - [El ECDC señala que "es probable" que la UE notifique más casos importados de la nueva variante de mpox](https://www.infosalus.com/salud-investigacion/noticia-ecdc-senala-probable-ue-notifique-mas-casos-importados-nueva-variante-mpox-20240826122956.html) (Infosalus.com)
 
 - [Especialista no mosquito da dengue, ela saiu de casa aos 15 anos para realizar o sonho de se tornar cientista](https://gizmodo.uol.com.br/especialista-no-mosquito-da-dengue-ela-saiu-de-casa-aos-15-anos-para-realizar-o-sonho-de-se-tornar-cientista/) (Uol.com.br)
-
-- [Bapi Hansda recovers in time to join Indian team in Lima](https://timesofindia.indiatimes.com/sports/more-sports/athletics/bapi-hansda-recovers-in-time-to-join-indian-team-in-lima/articleshow/112785136.cms) (The Times of India)
 
 ## 24-35 (chikungunya)
 
