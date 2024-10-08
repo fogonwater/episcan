@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 14
-- **Last harvest:** 2024-10-08 07:06
-- **Most recent article:** 2024-10-07 06:42:29
+- **New articles in last harvest:** 9
+- **Last harvest:** 2024-10-08 19:05
+- **Most recent article:** 2024-10-07 18:07:45
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-35 | 24-36 | 24-37 | 24-38 | 24-39 | 24-40 | 24-41 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 204 | 184 | 192 | 140 | 122 | 119 | 6 | 967 |
-| dengue | 43 | 49 | 76 | 73 | 49 | 51 | 7 | 348 |
-| h5n1 | 10 | 31 | 10 | 17 | 35 | 50 | 2 | 155 |
-| malaria | 28 | 14 | 12 | 15 | 24 | 10 | 1 | 104 |
-| rabies | 3 | 7 | 5 | 13 | 25 | 30 | 0 | 83 |
+| mpox | 192 | 184 | 192 | 140 | 122 | 119 | 8 | 957 |
+| dengue | 42 | 49 | 76 | 73 | 49 | 51 | 10 | 350 |
+| h5n1 | 9 | 31 | 10 | 17 | 35 | 50 | 2 | 154 |
+| malaria | 28 | 14 | 12 | 15 | 24 | 10 | 2 | 105 |
+| rabies | 3 | 7 | 5 | 13 | 25 | 30 | 1 | 84 |
 | measles | 11 | 9 | 5 | 8 | 4 | 6 | 0 | 43 |
-| meningitis | 5 | 6 | 3 | 10 | 6 | 11 | 0 | 41 |
+| meningitis | 5 | 6 | 3 | 10 | 6 | 11 | 1 | 42 |
 | chikungunya | 1 | 5 | 13 | 9 | 3 | 3 | 0 | 34 |
 | zika | 1 | 6 | 10 | 8 | 1 | 3 | 0 | 29 |
 | pertussis | 2 | 1 | 5 | 3 | 3 | 2 | 0 | 16 |
 | leptospirosis | 0 | 1 | 0 | 1 | 5 | 4 | 0 | 11 |
-| hpai | 0 | 3 | 1 | 0 | 2 | 2 | 0 | 8 |
-| yersinia | 1 | 2 | 0 | 2 | 2 | 1 | 0 | 8 |
+| hpai | 0 | 3 | 1 | 0 | 2 | 2 | 1 | 9 |
+| yersinia | 1 | 2 | 0 | 2 | 2 | 1 | 1 | 9 |
 | typhoid | 1 | 1 | 0 | 0 | 4 | 1 | 0 | 7 |
 | shigellosis | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 2 |
 
@@ -33,11 +33,23 @@ Source: [News API](https://newsapi.org/)
 
 ---
 
+## 24-41 (yersinia)
+
+- [7MM Enteric Disease Testing Market Report 2024: Campylobacter, Cryptosporidium, E. Coli, Enterovirus, Rhinovirus, Rotavirus, Salmonella, Shigella, Vibrio, Yersinia Supplier Shares and Sales Segment Forecasts](https://www.globenewswire.com/news-release/2024/10/07/2959067/28124/en/7MM-Enteric-Disease-Testing-Market-Report-2024-Campylobacter-Cryptosporidium-E-Coli-Enterovirus-Rhinovirus-Rotavirus-Salmonella-Shigella-Vibrio-Yersinia-Supplier-Shares-and-Sales-S.html) (GlobeNewswire)
+
 ## 24-41 (shigellosis)
 
 - [What does a Parent need to know about Shigella?](https://www.foodpoisonjournal.com/food-poisoning-information/what-does-a-parent-need-to-know-about-shigella/) (Foodpoisonjournal.com)
 
+## 24-41 (rabies)
+
+- [Rabies-Infected Bats Invade Dorm, Forcing Hundreds Of Students To Relocate](https://dailycaller.com/2024/10/07/rabies-infected-bats-invade-northern-arizona-university-dorm-students-relocate/) (The Daily Caller)
+
 ## 24-41 (mpox)
+
+- [Mpox Spreads to Ghana as Cases Surge in Megacity Kinshasa](https://www.insurancejournal.com/news/international/2024/10/07/796093.htm) (Insurance Journal)
+
+- [وباء جدري القردة.. من الحالات الأولى إلى التطعيمات](https://www.aljazeera.net/health/2024/10/7/%d9%88%d8%a8%d8%a7%d8%a1-%d8%ac%d8%af%d8%b1%d9%8a-%d8%a7%d9%84%d9%82%d8%b1%d8%af%d8%a9-%d9%85%d9%86-%d8%a7%d9%84%d8%ad%d8%a7%d9%84%d8%a7%d8%aa-%d8%a7%d9%84%d8%a3%d9%88%d9%84%d9%89-%d8%a5%d9%84%d9%89) (Aljazeera.net)
 
 - [RD CONGO :: Mpox : début de la campagne de vaccination en RDC :: CONGO DEMOCRATIC](https://www.camer.be/86730/13:1/rd-congo-mpox-debut-de-la-campagne-de-vaccination-en-rdc-congo-democratic.html) (Camer.be)
 
@@ -51,9 +63,19 @@ Source: [News API](https://newsapi.org/)
 
 - [Trump, mpox et Nouvelle-Zélande : les informations de la nuit](https://www.courrierinternational.com/article/pendant-que-vous-dormiez-trump-mpox-et-nouvelle-zelande-les-informations-de-la-nuit_223047) (Courrier International)
 
+## 24-41 (meningitis)
+
+- [La jactancia de leche 'peligrosamente estúpida' de Marjorie Taylor Greene es criticada en línea](https://www.meneame.net/m/actualidad/jactancia-leche-peligrosamente-estupida-marjorie-taylor-greene) (Meneame.net)
+
 ## 24-41 (malaria)
 
+- [Cases of malaria among migrant laborers pose a risk in Dakshina Kannada](https://timesofindia.indiatimes.com/mangaluru/cases-of-malaria-among-migrant-labourers-a-risk-in-dakshina-kannada/articleshow/114007440.cms) (The Times of India)
+
 - [Interchromosomal segmental duplication drives translocation and loss of P. falciparum histidine-rich protein 3](https://elifesciences.org/articles/93534) (Elifesciences.org)
+
+## 24-41 (hpai)
+
+- [Two Human Cases Of Bird Flu Discovered In California](https://www.shtfplan.com/member-exclusive/two-human-cases-of-bird-flu-discovered-in-california) (Shtfplan.com)
 
 ## 24-41 (h5n1)
 
@@ -62,6 +84,12 @@ Source: [News API](https://newsapi.org/)
 - [REPORTAGE. Grippe aviaire, Covid, H5N1... Comment les scientifiques travaillent à empêcher les maladies de se transmettre de l’animal à l’homme](https://www.francetvinfo.fr/replay-radio/le-choix-franceinfo/reportage-grippe-aviaire-covid-h5n1-comment-les-scientifiques-travaillent-a-empecher-les-maladies-de-se-transmettre-de-l-animal-a-l-homme_6794494.html) (Francetvinfo.fr)
 
 ## 24-41 (dengue)
+
+- [El ECDC señala que América se enfrenta al "mayor brote de dengue de su historia", que produce un aumento en la UE](https://www.infosalus.com/salud-investigacion/noticia-ecdc-senala-america-enfrenta-mayor-brote-dengue-historia-produce-aumento-ue-20241007174550.html) (Infosalus.com)
+
+- [Estimating the force of infection of four dengue serotypes from serological studies in two regions of Vietnam](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012568) (Plos.org)
+
+- [Cases of malaria among migrant laborers pose a risk in Dakshina Kannada](https://timesofindia.indiatimes.com/mangaluru/cases-of-malaria-among-migrant-labourers-a-risk-in-dakshina-kannada/articleshow/114007440.cms) (The Times of India)
 
 - [Mulher descobre câncer na semana do aniversário, ao investigar dengue](https://www.metropoles.com/saude/mulher-com-dengue-descobre-cancer) (Metropoles.com)
 
@@ -3679,30 +3707,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Alex Almuedo: "La emergencia por mpox debe servir para movilizar recursos a las zonas de África afectadas"](https://www.eldiario.es/catalunya/alex-almuedo-emergencia-mpox-debe-servir-movilizar-recursos-zonas-africa-afectadas_1_11602164.html) (Eldiario.es)
 
-- [Ex-FDA commissioner Dr. Scott Gottlieb says U.S. "not at risk right now" for new mpox variant](https://www.cbsnews.com/video/ex-fda-commissioner-dr-scott-gottlieb-says-u-s-not-at-risk-right-now-for-new-mpox-variant/) (CBS News)
-
-- [Mpox pode virar uma pandemia? Veja opinião de especialistas](https://gizmodo.uol.com.br/mpox-pode-virar-uma-pandemia-veja-opiniao-de-especialistas/) (Uol.com.br)
-
-- [Mpox: Step-by-step measures for staying safe](https://punchng.com/mpox-step-by-step-measures-for-staying-safe/) (The Punch)
-
-- [Papa se roagă pentru victimele Mpox / Ce le-a transmis „guvernelor și companiilor private”](http://hotnews.ro/papa-se-roaga-pentru-victimele-mpox-ce-le-a-transmis-guvernelor-si-companiilor-private-1778254) (Hotnews.ro)
-
-- [Afrika får sin första leverans mpoxmaccin](https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1286805) (Aftonbladet.se)
-
-- [В Республике Конго выявили более 20 инфицированных вирусом оспы обезьян](https://tass.ru/proisshestviya/21683213) (Tass.ru)
-
-- [Congo-Brazzaville reports 21 mpox cases](https://www.voanews.com/a/congo-brazzaville-reports-21-mpox-cases/7756237.html) (VOA News)
-
-- [Mpox, l’appello del Papa: “Governi e industrie condividano i trattamenti disponibili”. Oms: “Servono 135 milioni di euro”](https://www.ilfattoquotidiano.it/2024/08/25/mpox-lappello-del-papa-governi-e-industrie-condividano-i-trattamenti-disponibili-oms-servono-135-milioni-di-euro/7668722/) (Ilfattoquotidiano.it)
-
-- [Should we be worried about mpox?; Ultra-discount grocery stores: CBC's Marketplace cheat sheet](https://www.cbc.ca/news/business/marketplace-watchdog-1.7302620) (CBC News)
-
-- [Mpox: Papst wegen Ausbreitung des Virus besorgt](https://orf.at/stories/3367497/) (Orf.at)
-
-- [Pope seeks help for mpox victims](https://punchng.com/pope-seeks-help-for-mpox-victims/) (The Punch)
-
-- [Mpox less likely to lead school closures: Experts](https://www.hurriyetdailynews.com/mpox-less-likely-to-lead-school-closures-experts-199888) (Hurriyet Daily News)
-
 ## 24-35 (meningitis)
 
 - [El jefe de la Salud Pública andaluza: "Por estadística, llegaremos a 5.000 casos de virus del Nilo en la región"](https://www.elespanol.com/ciencia/salud/20240831/jefe-salud-publica-andaluza-estadistica-llegaremos-casos-virus-nilo-region/881912166_0.html) (Elespanol.com)
@@ -3817,8 +3821,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Камбоджа активизировала усилия по предотвращению проникновения оспы обезьян](https://tass.ru/obschestvo/21687067) (Tass.ru)
 
-- [Odisha culls birds after Avian flu outbreak](https://economictimes.indiatimes.com/news/india/odisha-culls-birds-after-avian-flu-outbreak/articleshow/112782110.cms) (The Times of India)
-
 ## 24-35 (dengue)
 
 - [Realizan en Puerto Rico un estudio pionero de inmunología de dengue](https://www.montevideo.com.uy/Salud/Realizan-en-Puerto-Rico-un-estudio-pionero-de-inmunologia-de-dengue-uc898763) (Montevideo.com.uy)
@@ -3904,8 +3906,6 @@ Source: [News API](https://newsapi.org/)
 - [El ECDC señala que "es probable" que la UE notifique más casos importados de la nueva variante de mpox](https://www.infosalus.com/salud-investigacion/noticia-ecdc-senala-probable-ue-notifique-mas-casos-importados-nueva-variante-mpox-20240826122956.html) (Infosalus.com)
 
 - [Especialista no mosquito da dengue, ela saiu de casa aos 15 anos para realizar o sonho de se tornar cientista](https://gizmodo.uol.com.br/especialista-no-mosquito-da-dengue-ela-saiu-de-casa-aos-15-anos-para-realizar-o-sonho-de-se-tornar-cientista/) (Uol.com.br)
-
-- [Bapi Hansda recovers in time to join Indian team in Lima](https://timesofindia.indiatimes.com/sports/more-sports/athletics/bapi-hansda-recovers-in-time-to-join-indian-team-in-lima/articleshow/112785136.cms) (The Times of India)
 
 ## 24-35 (chikungunya)
 
