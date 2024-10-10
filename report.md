@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 14
-- **Last harvest:** 2024-10-09 19:05
-- **Most recent article:** 2024-10-08 18:08:00
+- **New articles in last harvest:** 9
+- **Last harvest:** 2024-10-10 07:06
+- **Most recent article:** 2024-10-09 05:30:00
 
 ---
 
@@ -12,12 +12,12 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-35 | 24-36 | 24-37 | 24-38 | 24-39 | 24-40 | 24-41 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 192 | 184 | 192 | 140 | 122 | 128 | 21 | 979 |
-| dengue | 42 | 49 | 76 | 73 | 49 | 51 | 22 | 362 |
-| h5n1 | 9 | 31 | 10 | 17 | 35 | 50 | 4 | 156 |
-| malaria | 28 | 14 | 12 | 15 | 24 | 10 | 3 | 106 |
-| rabies | 3 | 7 | 5 | 13 | 25 | 30 | 2 | 85 |
-| measles | 11 | 9 | 5 | 8 | 4 | 6 | 1 | 44 |
+| mpox | 204 | 184 | 192 | 140 | 122 | 128 | 24 | 994 |
+| dengue | 43 | 49 | 76 | 73 | 49 | 51 | 24 | 365 |
+| h5n1 | 10 | 31 | 10 | 17 | 35 | 50 | 4 | 157 |
+| malaria | 28 | 14 | 12 | 15 | 24 | 10 | 4 | 107 |
+| rabies | 3 | 7 | 5 | 13 | 25 | 30 | 3 | 86 |
+| measles | 11 | 9 | 5 | 8 | 4 | 6 | 2 | 45 |
 | meningitis | 5 | 6 | 3 | 10 | 6 | 11 | 1 | 42 |
 | chikungunya | 1 | 5 | 13 | 9 | 3 | 3 | 0 | 34 |
 | zika | 1 | 6 | 10 | 8 | 1 | 3 | 0 | 29 |
@@ -26,7 +26,7 @@ By US epiweek (i.e. Sunday to Saturday)
 | hpai | 0 | 3 | 1 | 0 | 2 | 2 | 1 | 9 |
 | yersinia | 1 | 2 | 0 | 2 | 2 | 1 | 1 | 9 |
 | typhoid | 1 | 1 | 0 | 0 | 4 | 1 | 0 | 7 |
-| shigellosis | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 2 |
+| shigellosis | 0 | 0 | 0 | 0 | 0 | 1 | 2 | 3 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -39,15 +39,25 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-41 (shigellosis)
 
+- [3 lawsuits filed, dozens more hire lawyer after Fairview Heights food poisoning](https://www.stltoday.com/news/local/illinois/3-lawsuits-filed-dozens-more-hire-lawyer-after-fairview-heights-food-poisoning/article_ad978264-85d5-11ef-b6f4-f73b2b8b840f.html) (STLtoday.com)
+
 - [What does a Parent need to know about Shigella?](https://www.foodpoisonjournal.com/food-poisoning-information/what-does-a-parent-need-to-know-about-shigella/) (Foodpoisonjournal.com)
 
 ## 24-41 (rabies)
+
+- [就寝中の寝室にコウモリ侵入、子どもが「狂犬病」で死亡 カナダ](https://news.livedoor.com/article/detail/27335184/) (Livedoor.com)
 
 - [Chicago concert goers may have been exposed to potentially rabid bats: Health officials](https://www.nbcnews.com/health/health-news/chicago-concert-rabies-bat-exposure-rcna174362) (NBC News)
 
 - [Rabies-Infected Bats Invade Dorm, Forcing Hundreds Of Students To Relocate](https://dailycaller.com/2024/10/07/rabies-infected-bats-invade-northern-arizona-university-dorm-students-relocate/) (The Daily Caller)
 
 ## 24-41 (mpox)
+
+- [Health workers get mpox shot as Congo expands vaccination campaign](https://www.bangkokpost.com/video/world/2880541) (Bangkok Post)
+
+- [Monkeypox Vaccine Boosters Needed Since Protection Fades After One Year](https://legalinsurrection.com/2024/10/monkeypox-vaccine-boosters-needed-since-protection-fades-after-one-year/) (Legalinsurrection.com)
+
+- [Guard against Mpox, says health services](https://timesofindia.indiatimes.com/city/goa/guard-against-mpox-says-health-services/articleshow/114057806.cms) (The Times of India)
 
 - [Mpox cases in Uganda surge to 69: health official](https://www.thestar.com.my/news/world/2024/10/09/mpox-cases-in-uganda-surge-to-69-health-official) (The Star Online)
 
@@ -97,9 +107,13 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-41 (measles)
 
+- [Anambra to begin measles vaccination](https://punchng.com/anambra-to-begin-measles-vaccination/) (The Punch)
+
 - [Estimating the risk and spatial spread of measles in populations with high MMR uptake: Using school-household networks to understand the 2013 to 2014 outbreak in the Netherlands](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004466) (Plos.org)
 
 ## 24-41 (malaria)
+
+- [Henry Martín y su malaria en convocatorias con el Tri](https://www.record.com.mx/futbol-futbol-nacional-seleccion-mexicana/henry-martin-y-su-malaria-en-convocatorias-con-el-tri) (Record.com.mx)
 
 - [Want Growth? Kill Small Businesses](https://asteriskmag.com/issues/07/want-growth-kill-small-businesses) (Asteriskmag.com)
 
@@ -122,6 +136,10 @@ Source: [News API](https://newsapi.org/)
 - [REPORTAGE. Grippe aviaire, Covid, H5N1... Comment les scientifiques travaillent à empêcher les maladies de se transmettre de l’animal à l’homme](https://www.francetvinfo.fr/replay-radio/le-choix-franceinfo/reportage-grippe-aviaire-covid-h5n1-comment-les-scientifiques-travaillent-a-empecher-les-maladies-de-se-transmettre-de-l-animal-a-l-homme_6794494.html) (Francetvinfo.fr)
 
 ## 24-41 (dengue)
+
+- [​Dengue: Beware of these life threatening symptoms](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/dengue-beware-these-life-threatening-symptoms-can-be-easily-overlooked/photostory/114067087.cms) (The Times of India)
+
+- [Death toll from Dengue reaches seven in Gandaki Province](https://english.khabarhub.com/2024/09/404802/) (Khabarhub.com)
 
 - [Dengue hotspots down 97% but health dept says vigil still on](https://timesofindia.indiatimes.com/city/bengaluru/dengue-hotspots-plummet-by-97-in-karnataka-vigilance-continues-amid-rainy-season/articleshow/114056379.cms) (The Times of India)
 
@@ -3787,6 +3805,30 @@ Source: [News API](https://newsapi.org/)
 
 - [Alex Almuedo: "La emergencia por mpox debe servir para movilizar recursos a las zonas de África afectadas"](https://www.eldiario.es/catalunya/alex-almuedo-emergencia-mpox-debe-servir-movilizar-recursos-zonas-africa-afectadas_1_11602164.html) (Eldiario.es)
 
+- [Ex-FDA commissioner Dr. Scott Gottlieb says U.S. "not at risk right now" for new mpox variant](https://www.cbsnews.com/video/ex-fda-commissioner-dr-scott-gottlieb-says-u-s-not-at-risk-right-now-for-new-mpox-variant/) (CBS News)
+
+- [Mpox pode virar uma pandemia? Veja opinião de especialistas](https://gizmodo.uol.com.br/mpox-pode-virar-uma-pandemia-veja-opiniao-de-especialistas/) (Uol.com.br)
+
+- [Mpox: Step-by-step measures for staying safe](https://punchng.com/mpox-step-by-step-measures-for-staying-safe/) (The Punch)
+
+- [Papa se roagă pentru victimele Mpox / Ce le-a transmis „guvernelor și companiilor private”](http://hotnews.ro/papa-se-roaga-pentru-victimele-mpox-ce-le-a-transmis-guvernelor-si-companiilor-private-1778254) (Hotnews.ro)
+
+- [Afrika får sin första leverans mpoxmaccin](https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1286805) (Aftonbladet.se)
+
+- [В Республике Конго выявили более 20 инфицированных вирусом оспы обезьян](https://tass.ru/proisshestviya/21683213) (Tass.ru)
+
+- [Congo-Brazzaville reports 21 mpox cases](https://www.voanews.com/a/congo-brazzaville-reports-21-mpox-cases/7756237.html) (VOA News)
+
+- [Mpox, l’appello del Papa: “Governi e industrie condividano i trattamenti disponibili”. Oms: “Servono 135 milioni di euro”](https://www.ilfattoquotidiano.it/2024/08/25/mpox-lappello-del-papa-governi-e-industrie-condividano-i-trattamenti-disponibili-oms-servono-135-milioni-di-euro/7668722/) (Ilfattoquotidiano.it)
+
+- [Should we be worried about mpox?; Ultra-discount grocery stores: CBC's Marketplace cheat sheet](https://www.cbc.ca/news/business/marketplace-watchdog-1.7302620) (CBC News)
+
+- [Mpox: Papst wegen Ausbreitung des Virus besorgt](https://orf.at/stories/3367497/) (Orf.at)
+
+- [Pope seeks help for mpox victims](https://punchng.com/pope-seeks-help-for-mpox-victims/) (The Punch)
+
+- [Mpox less likely to lead school closures: Experts](https://www.hurriyetdailynews.com/mpox-less-likely-to-lead-school-closures-experts-199888) (Hurriyet Daily News)
+
 ## 24-35 (meningitis)
 
 - [El jefe de la Salud Pública andaluza: "Por estadística, llegaremos a 5.000 casos de virus del Nilo en la región"](https://www.elespanol.com/ciencia/salud/20240831/jefe-salud-publica-andaluza-estadistica-llegaremos-casos-virus-nilo-region/881912166_0.html) (Elespanol.com)
@@ -3901,6 +3943,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Камбоджа активизировала усилия по предотвращению проникновения оспы обезьян](https://tass.ru/obschestvo/21687067) (Tass.ru)
 
+- [Odisha culls birds after Avian flu outbreak](https://economictimes.indiatimes.com/news/india/odisha-culls-birds-after-avian-flu-outbreak/articleshow/112782110.cms) (The Times of India)
+
 ## 24-35 (dengue)
 
 - [Realizan en Puerto Rico un estudio pionero de inmunología de dengue](https://www.montevideo.com.uy/Salud/Realizan-en-Puerto-Rico-un-estudio-pionero-de-inmunologia-de-dengue-uc898763) (Montevideo.com.uy)
@@ -3986,6 +4030,8 @@ Source: [News API](https://newsapi.org/)
 - [El ECDC señala que "es probable" que la UE notifique más casos importados de la nueva variante de mpox](https://www.infosalus.com/salud-investigacion/noticia-ecdc-senala-probable-ue-notifique-mas-casos-importados-nueva-variante-mpox-20240826122956.html) (Infosalus.com)
 
 - [Especialista no mosquito da dengue, ela saiu de casa aos 15 anos para realizar o sonho de se tornar cientista](https://gizmodo.uol.com.br/especialista-no-mosquito-da-dengue-ela-saiu-de-casa-aos-15-anos-para-realizar-o-sonho-de-se-tornar-cientista/) (Uol.com.br)
+
+- [Bapi Hansda recovers in time to join Indian team in Lima](https://timesofindia.indiatimes.com/sports/more-sports/athletics/bapi-hansda-recovers-in-time-to-join-indian-team-in-lima/articleshow/112785136.cms) (The Times of India)
 
 ## 24-35 (chikungunya)
 
