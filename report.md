@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 2
-- **Last harvest:** 2024-10-11 07:07
-- **Most recent article:** 2024-10-10 05:00:00
+- **New articles in last harvest:** 14
+- **Last harvest:** 2024-10-11 19:05
+- **Most recent article:** 2024-10-10 18:08:00
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-35 | 24-36 | 24-37 | 24-38 | 24-39 | 24-40 | 24-41 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 204 | 184 | 192 | 140 | 122 | 128 | 28 | 998 |
-| dengue | 43 | 49 | 76 | 73 | 49 | 51 | 26 | 367 |
-| h5n1 | 10 | 31 | 10 | 17 | 35 | 50 | 5 | 158 |
-| malaria | 28 | 14 | 12 | 15 | 24 | 10 | 9 | 112 |
-| rabies | 3 | 7 | 5 | 13 | 25 | 30 | 4 | 87 |
+| mpox | 192 | 184 | 192 | 140 | 122 | 128 | 33 | 991 |
+| dengue | 42 | 49 | 76 | 73 | 49 | 51 | 29 | 369 |
+| h5n1 | 9 | 31 | 10 | 17 | 35 | 50 | 6 | 158 |
+| malaria | 28 | 14 | 12 | 15 | 24 | 10 | 11 | 114 |
+| rabies | 3 | 7 | 5 | 13 | 25 | 30 | 5 | 88 |
 | measles | 11 | 9 | 5 | 8 | 4 | 6 | 3 | 46 |
 | meningitis | 5 | 6 | 3 | 10 | 6 | 11 | 1 | 42 |
-| chikungunya | 1 | 5 | 13 | 9 | 3 | 3 | 0 | 34 |
-| zika | 1 | 6 | 10 | 8 | 1 | 3 | 0 | 29 |
+| chikungunya | 1 | 5 | 13 | 9 | 3 | 3 | 1 | 35 |
+| zika | 1 | 6 | 10 | 8 | 1 | 3 | 1 | 30 |
 | pertussis | 2 | 1 | 5 | 3 | 3 | 2 | 1 | 17 |
 | leptospirosis | 0 | 1 | 0 | 1 | 5 | 4 | 0 | 11 |
 | hpai | 0 | 3 | 1 | 0 | 2 | 2 | 1 | 9 |
@@ -33,6 +33,10 @@ Source: [News API](https://newsapi.org/)
 
 ---
 
+## 24-41 (zika)
+
+- [Humoral and T-cell-mediated responses to an insect-specific flavivirus-based Zika virus vaccine candidate](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012566) (Plos.org)
+
 ## 24-41 (yersinia)
 
 - [7MM Enteric Disease Testing Market Report 2024: Campylobacter, Cryptosporidium, E. Coli, Enterovirus, Rhinovirus, Rotavirus, Salmonella, Shigella, Vibrio, Yersinia Supplier Shares and Sales Segment Forecasts](https://www.globenewswire.com/news-release/2024/10/07/2959067/28124/en/7MM-Enteric-Disease-Testing-Market-Report-2024-Campylobacter-Cryptosporidium-E-Coli-Enterovirus-Rhinovirus-Rotavirus-Salmonella-Shigella-Vibrio-Yersinia-Supplier-Shares-and-Sales-S.html) (GlobeNewswire)
@@ -44,6 +48,8 @@ Source: [News API](https://newsapi.org/)
 - [What does a Parent need to know about Shigella?](https://www.foodpoisonjournal.com/food-poisoning-information/what-does-a-parent-need-to-know-about-shigella/) (Foodpoisonjournal.com)
 
 ## 24-41 (rabies)
+
+- [Sabah tightens border controls and quarantine against rabies threat from neighbouring regions](https://www.thestar.com.my/news/nation/2024/10/10/sabah-tightens-border-controls-and-quarantine-against-rabies-threat-from-neighbouring-regions) (The Star Online)
 
 - [Goose Fans Possibly Exposed to Rabies Due to Bat Sightings at Show](https://exclaim.ca/music/article/goose-fans-possibly-exposed-to-rabies-due-to-bat-sightings-at-show) (Exclaim!)
 
@@ -58,6 +64,16 @@ Source: [News API](https://newsapi.org/)
 - [Whooping Cough Is Spreading, and You Might Need a Vaccine Booster](https://www.scientificamerican.com/article/whooping-cough-is-spreading-and-you-might-need-a-vaccine-booster/) (Scientific American)
 
 ## 24-41 (mpox)
+
+- [V Zambii je první případ nemoci mpox, zdravotníci hledají kontakty pacienta](https://www.tyden.cz/rubriky/zahranici/v-zambii-je-prvni-pripad-nemoci-mpox-zdravotnici-hledaji-kontakty-pacienta_568852.html) (Tyden.cz)
+
+- [Mpox já infetou 38.300 pessoas e matou 979 desde o início do ano em África](https://observador.pt/2024/10/10/mpox-ja-infetou-38-300-pessoas-e-matou-979-desde-o-inicio-do-ano-em-africa/) (Observador.pt)
+
+- [Reuters: в Замбии зафиксировали первый случай заражения mpox](https://tass.ru/obschestvo/22095589) (Tass.ru)
+
+- [Notes from the Field: Mpox Cluster Caused by Tecovirimat-Resistant Monkeypox Virus - Five States, October 2023-February 2024](https://www.cdc.gov/mmwr/volumes/73/wr/mm7340a3.htm) (Cdc.gov)
+
+- [Risk of Clade II Mpox Associated with Intimate and Nonintimate Close Contact Among Men Who Have Sex with Men and Transgender Adults - United States, August 2022-July 2023](https://www.cdc.gov/mmwr/volumes/73/wr/mm7340a2.htm) (Cdc.gov)
 
 - [Editorial: WHO’s slow mpox response calls for a rethink](https://www.bostonherald.com/2024/10/10/editorial-whos-slow-mpox-response-calls-for-a-rethink/) (Boston Herald)
 
@@ -129,6 +145,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-41 (malaria)
 
+- [Indonesia calls for global surveillance, commitment to beat malaria](https://en.antaranews.com/news/329098/indonesia-calls-for-global-surveillance-commitment-to-beat-malaria) (Antaranews.com)
+
+- [Ministry unveils Malaria Eradication Roadmap to combat disease](https://en.antaranews.com/news/329066/ministry-unveils-malaria-eradication-roadmap-to-combat-disease) (Antaranews.com)
+
 - [A map to end malaria?](https://newhumanist.org.uk/articles/6339/a-map-to-end-malaria#utm_source=rss) (Newhumanist.org.uk)
 
 - [Warning for Midwest and Northeast as 'American Malaria' Rising](https://www.newsweek.com/tick-borne-disease-babesiosis-united-states-increasing-new-england-midwest-1966458) (Newsweek)
@@ -153,6 +173,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-41 (h5n1)
 
+- [Erste Fälle von Vogelgrippe](https://ooe.orf.at/stories/3276649/) (Ooe.orf.at)
+
 - [Biosecurity boosts enforced as H5N1 bird flu looms over vulnerable Australian birds and wildlife](https://www.skynews.com.au/business/science/biosecurity-boosts-enforced-across-australia-as-h5n1-bird-flu-looms-over-vulnerable-native-birds-and-wildlife/news-story/8ff4fa761b1987c976def9fd396ecbbd) (Sky News Australia)
 
 - [How California, now an epicenter for bird flu in dairy cattle, is monitoring the virus](https://www.statnews.com/2024/10/07/california-bird-flu-dairy-cows-milk/) (STAT)
@@ -165,6 +187,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-41 (dengue)
 
+- [Caso Dengue nel Maceratese, disinfestazione nei pressi ospedale](https://www.ansa.it/marche/notizie/2024/10/10/caso-dengue-nel-maceratese-disinfestazione-nei-pressi-ospedale_e72ce26f-ef49-419f-acca-2ef8f99ca14d.html) (ANSA.it)
+
+- [Unicamp 2025: entenda como a vacina contra a dengue e os mecanismos de proteção podem aparecer na prova](https://g1.globo.com/sp/campinas-regiao/educacao/noticia/2024/10/10/unicamp-2025-entenda-como-a-vacina-contra-a-dengue-e-os-mecanismos-de-protecao-podem-aparecer-na-prova.ghtml) (Globo)
+
 - [Dengue a Pesaro, ampliata area di disinfestazione](https://www.ansa.it/marche/notizie/2024/10/09/dengue-a-pesaro-ampliata-area-di-disinfestazione_2981cf9d-1c27-48ad-9af4-53ed9ba73a94.html) (ANSA.it)
 
 - [Dengue death toll nears 200 this year as three more die](https://www.tbsnews.net/bangladesh/health/dengue-death-toll-nears-200-year-three-more-die-962816) (Tbsnews.net)
@@ -172,6 +198,8 @@ Source: [News API](https://newsapi.org/)
 - [​Dengue: Beware of these life threatening symptoms](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/dengue-beware-these-life-threatening-symptoms-can-be-easily-overlooked/photostory/114067087.cms) (The Times of India)
 
 - [Death toll from Dengue reaches seven in Gandaki Province](https://english.khabarhub.com/2024/09/404802/) (Khabarhub.com)
+
+- [In a warming world, public needs to know more about protections from mosquito-borne illnesses](https://www.sciencedaily.com/releases/2024/10/241008201425.htm) (Science Daily)
 
 - [Dengue hotspots down 97% but health dept says vigil still on](https://timesofindia.indiatimes.com/city/bengaluru/dengue-hotspots-plummet-by-97-in-karnataka-vigilance-continues-amid-rainy-season/articleshow/114056379.cms) (The Times of India)
 
@@ -216,6 +244,10 @@ Source: [News API](https://newsapi.org/)
 - [Bacolod: Dengue kills 13 and infects 4,400 people](https://rpnradio.com/bacolod-dengue-kills-13-and-infects-4400-people/) (Rpnradio.com)
 
 - [Div Com reviews preparedness, preventive measures for Dengue](https://statetimes.in/div-com-reviews-preparedness-preventive-measures-for-dengue/) (Statetimes.in)
+
+## 24-41 (chikungunya)
+
+- [5 Tanda Chikungunya yang Harus Kamu Ketahui, Mungkin Kamu Mengalaminya!](https://www.fimela.com/health/read/5743185/5-tanda-chikungunya-yang-harus-kamu-ketahui-mungkin-kamu-mengalaminya) (Fimela.com)
 
 ## 24-40 (zika)
 
@@ -3837,30 +3869,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Alex Almuedo: "La emergencia por mpox debe servir para movilizar recursos a las zonas de África afectadas"](https://www.eldiario.es/catalunya/alex-almuedo-emergencia-mpox-debe-servir-movilizar-recursos-zonas-africa-afectadas_1_11602164.html) (Eldiario.es)
 
-- [Ex-FDA commissioner Dr. Scott Gottlieb says U.S. "not at risk right now" for new mpox variant](https://www.cbsnews.com/video/ex-fda-commissioner-dr-scott-gottlieb-says-u-s-not-at-risk-right-now-for-new-mpox-variant/) (CBS News)
-
-- [Mpox pode virar uma pandemia? Veja opinião de especialistas](https://gizmodo.uol.com.br/mpox-pode-virar-uma-pandemia-veja-opiniao-de-especialistas/) (Uol.com.br)
-
-- [Mpox: Step-by-step measures for staying safe](https://punchng.com/mpox-step-by-step-measures-for-staying-safe/) (The Punch)
-
-- [Papa se roagă pentru victimele Mpox / Ce le-a transmis „guvernelor și companiilor private”](http://hotnews.ro/papa-se-roaga-pentru-victimele-mpox-ce-le-a-transmis-guvernelor-si-companiilor-private-1778254) (Hotnews.ro)
-
-- [Afrika får sin första leverans mpoxmaccin](https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1286805) (Aftonbladet.se)
-
-- [В Республике Конго выявили более 20 инфицированных вирусом оспы обезьян](https://tass.ru/proisshestviya/21683213) (Tass.ru)
-
-- [Congo-Brazzaville reports 21 mpox cases](https://www.voanews.com/a/congo-brazzaville-reports-21-mpox-cases/7756237.html) (VOA News)
-
-- [Mpox, l’appello del Papa: “Governi e industrie condividano i trattamenti disponibili”. Oms: “Servono 135 milioni di euro”](https://www.ilfattoquotidiano.it/2024/08/25/mpox-lappello-del-papa-governi-e-industrie-condividano-i-trattamenti-disponibili-oms-servono-135-milioni-di-euro/7668722/) (Ilfattoquotidiano.it)
-
-- [Should we be worried about mpox?; Ultra-discount grocery stores: CBC's Marketplace cheat sheet](https://www.cbc.ca/news/business/marketplace-watchdog-1.7302620) (CBC News)
-
-- [Mpox: Papst wegen Ausbreitung des Virus besorgt](https://orf.at/stories/3367497/) (Orf.at)
-
-- [Pope seeks help for mpox victims](https://punchng.com/pope-seeks-help-for-mpox-victims/) (The Punch)
-
-- [Mpox less likely to lead school closures: Experts](https://www.hurriyetdailynews.com/mpox-less-likely-to-lead-school-closures-experts-199888) (Hurriyet Daily News)
-
 ## 24-35 (meningitis)
 
 - [El jefe de la Salud Pública andaluza: "Por estadística, llegaremos a 5.000 casos de virus del Nilo en la región"](https://www.elespanol.com/ciencia/salud/20240831/jefe-salud-publica-andaluza-estadistica-llegaremos-casos-virus-nilo-region/881912166_0.html) (Elespanol.com)
@@ -3975,8 +3983,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Камбоджа активизировала усилия по предотвращению проникновения оспы обезьян](https://tass.ru/obschestvo/21687067) (Tass.ru)
 
-- [Odisha culls birds after Avian flu outbreak](https://economictimes.indiatimes.com/news/india/odisha-culls-birds-after-avian-flu-outbreak/articleshow/112782110.cms) (The Times of India)
-
 ## 24-35 (dengue)
 
 - [Realizan en Puerto Rico un estudio pionero de inmunología de dengue](https://www.montevideo.com.uy/Salud/Realizan-en-Puerto-Rico-un-estudio-pionero-de-inmunologia-de-dengue-uc898763) (Montevideo.com.uy)
@@ -4062,8 +4068,6 @@ Source: [News API](https://newsapi.org/)
 - [El ECDC señala que "es probable" que la UE notifique más casos importados de la nueva variante de mpox](https://www.infosalus.com/salud-investigacion/noticia-ecdc-senala-probable-ue-notifique-mas-casos-importados-nueva-variante-mpox-20240826122956.html) (Infosalus.com)
 
 - [Especialista no mosquito da dengue, ela saiu de casa aos 15 anos para realizar o sonho de se tornar cientista](https://gizmodo.uol.com.br/especialista-no-mosquito-da-dengue-ela-saiu-de-casa-aos-15-anos-para-realizar-o-sonho-de-se-tornar-cientista/) (Uol.com.br)
-
-- [Bapi Hansda recovers in time to join Indian team in Lima](https://timesofindia.indiatimes.com/sports/more-sports/athletics/bapi-hansda-recovers-in-time-to-join-indian-team-in-lima/articleshow/112785136.cms) (The Times of India)
 
 ## 24-35 (chikungunya)
 
