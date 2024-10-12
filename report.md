@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 4
-- **Last harvest:** 2024-10-12 07:05
-- **Most recent article:** 2024-10-11 04:00:00
+- **New articles in last harvest:** 9
+- **Last harvest:** 2024-10-12 19:05
+- **Most recent article:** 2024-10-11 18:00:00
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-35 | 24-36 | 24-37 | 24-38 | 24-39 | 24-40 | 24-41 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 204 | 184 | 192 | 140 | 122 | 128 | 34 | 1004 |
-| dengue | 43 | 49 | 76 | 73 | 49 | 51 | 30 | 371 |
-| h5n1 | 10 | 31 | 10 | 17 | 35 | 50 | 7 | 160 |
-| malaria | 28 | 14 | 12 | 15 | 24 | 10 | 11 | 114 |
+| mpox | 192 | 184 | 192 | 140 | 122 | 128 | 37 | 995 |
+| dengue | 42 | 49 | 76 | 73 | 49 | 51 | 33 | 373 |
+| h5n1 | 9 | 31 | 10 | 17 | 35 | 50 | 8 | 160 |
+| malaria | 28 | 14 | 12 | 15 | 24 | 10 | 13 | 116 |
 | rabies | 3 | 7 | 5 | 13 | 25 | 30 | 5 | 88 |
 | measles | 11 | 9 | 5 | 8 | 4 | 6 | 4 | 47 |
 | meningitis | 5 | 6 | 3 | 10 | 6 | 11 | 1 | 42 |
-| chikungunya | 1 | 5 | 13 | 9 | 3 | 3 | 2 | 36 |
-| zika | 1 | 6 | 10 | 8 | 1 | 3 | 2 | 31 |
+| chikungunya | 1 | 5 | 13 | 9 | 3 | 3 | 3 | 37 |
+| zika | 1 | 6 | 10 | 8 | 1 | 3 | 3 | 32 |
 | pertussis | 2 | 1 | 5 | 3 | 3 | 2 | 1 | 17 |
 | leptospirosis | 0 | 1 | 0 | 1 | 5 | 4 | 0 | 11 |
 | hpai | 0 | 3 | 1 | 0 | 2 | 2 | 1 | 9 |
@@ -34,6 +34,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-41 (zika)
+
+- [Seasonal insights for integrative mosquito management from multi-year baseline entomological data on Aedes aegypti in Lee County, Florida](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0311407) (Plos.org)
 
 - [Dengue: Campinas confirma mais seis vítimas e chega a 77 óbitos no ano](https://g1.globo.com/sp/campinas-regiao/noticia/2024/10/10/dengue-campinas-confirma-mais-seis-vitimas-e-chega-a-77-obitos-no-ano.ghtml) (Globo)
 
@@ -66,6 +68,12 @@ Source: [News API](https://newsapi.org/)
 - [Whooping Cough Is Spreading, and You Might Need a Vaccine Booster](https://www.scientificamerican.com/article/whooping-cough-is-spreading-and-you-might-need-a-vaccine-booster/) (Scientific American)
 
 ## 24-41 (mpox)
+
+- [Глава Роспотребнадзора обсудила взаимодействие в борьбе с инфекциями с послом Руанды](https://tass.ru/obschestvo/22104575) (Tass.ru)
+
+- [ВОЗ рекомендовала не ограничивать поездки из-за вспышек mpox и вируса Марбург](https://www.vedomosti.ru/society/news/2024/10/11/1068183-voz-rekomendovala-ne-ogranichivat) (Vedomosti.ru)
+
+- [ВОЗ рекомендовала не ограничивать торговлю из-за вспышек mpox и лихорадки Марбург](https://tass.ru/obschestvo/22102885) (Tass.ru)
 
 - [V Zambii je první případ nemoci mpox, zdravotníci hledají kontakty pacienta](https://www.idnes.cz/zpravy/zahranicni/mpox-nemoc-zambie-kongo-vir-nakazeny-afrika.A241010_193951_zahranicni_lysa) (Idnes.cz)
 
@@ -151,6 +159,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-41 (malaria)
 
+- [Contracting Malaria in Africa: The realities of returning home with a tropical disease](https://www.nzherald.co.nz/travel/contracting-malaria-in-africa-the-realities-of-returning-home-with-a-tropical-disease/RX643QX5Q5AHBFAEC25FIVVB4M/) (New Zealand Herald)
+
+- [Il premio Nobel per la Medicina Drew Weissman: “Con l’mRna studi promettenti su malaria, influenza e tubercolosi”](https://www.ilfattoquotidiano.it/2024/10/11/il-premio-nobel-per-la-medicina-drew-weissman-con-lmrna-studi-promettenti-su-malaria-influenza-e-tubercolosi/7727629/) (Ilfattoquotidiano.it)
+
 - [Indonesia calls for global surveillance, commitment to beat malaria](https://en.antaranews.com/news/329098/indonesia-calls-for-global-surveillance-commitment-to-beat-malaria) (Antaranews.com)
 
 - [Ministry unveils Malaria Eradication Roadmap to combat disease](https://en.antaranews.com/news/329066/ministry-unveils-malaria-eradication-roadmap-to-combat-disease) (Antaranews.com)
@@ -179,6 +191,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-41 (h5n1)
 
+- [France slashed bird flu outbreaks by vaccinating ducks](https://www.newscientist.com/article/2451606-france-slashed-bird-flu-outbreaks-by-vaccinating-ducks/) (New Scientist)
+
 - [H5N1 bird flu continues to do its thing](https://www.foodsafetynews.com/2024/10/h5n1-bird-flu-continues-to-do-its-thing/) (Food Safety News)
 
 - [Erste Fälle von Vogelgrippe](https://ooe.orf.at/stories/3276649/) (Ooe.orf.at)
@@ -194,6 +208,12 @@ Source: [News API](https://newsapi.org/)
 - [REPORTAGE. Grippe aviaire, Covid, H5N1... Comment les scientifiques travaillent à empêcher les maladies de se transmettre de l’animal à l’homme](https://www.francetvinfo.fr/replay-radio/le-choix-franceinfo/reportage-grippe-aviaire-covid-h5n1-comment-les-scientifiques-travaillent-a-empecher-les-maladies-de-se-transmettre-de-l-animal-a-l-homme_6794494.html) (Francetvinfo.fr)
 
 ## 24-41 (dengue)
+
+- [Seasonal insights for integrative mosquito management from multi-year baseline entomological data on Aedes aegypti in Lee County, Florida](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0311407) (Plos.org)
+
+- [Dengue cases drop in 40th epidemiological week, three deaths reported](https://www.thestar.com.my/news/nation/2024/10/11/dengue-cases-drop-in-40th-epidemiological-week-three-deaths-reported) (The Star Online)
+
+- [Panacea Biotec surges 4% on reports of launching dengue vaccine in two yrs](https://www.business-standard.com/markets/news/panacea-biotec-surges-4-on-reports-of-launching-dengue-vaccine-in-two-yrs-124101100393_1.html) (Business Standard)
 
 - [Dengue: Campinas confirma mais seis vítimas e chega a 77 óbitos no ano](https://g1.globo.com/sp/campinas-regiao/noticia/2024/10/10/dengue-campinas-confirma-mais-seis-vitimas-e-chega-a-77-obitos-no-ano.ghtml) (Globo)
 
@@ -256,6 +276,8 @@ Source: [News API](https://newsapi.org/)
 - [Div Com reviews preparedness, preventive measures for Dengue](https://statetimes.in/div-com-reviews-preparedness-preventive-measures-for-dengue/) (Statetimes.in)
 
 ## 24-41 (chikungunya)
+
+- [Seasonal insights for integrative mosquito management from multi-year baseline entomological data on Aedes aegypti in Lee County, Florida](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0311407) (Plos.org)
 
 - [Dengue: Campinas confirma mais seis vítimas e chega a 77 óbitos no ano](https://g1.globo.com/sp/campinas-regiao/noticia/2024/10/10/dengue-campinas-confirma-mais-seis-vitimas-e-chega-a-77-obitos-no-ano.ghtml) (Globo)
 
@@ -3881,30 +3903,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Alex Almuedo: "La emergencia por mpox debe servir para movilizar recursos a las zonas de África afectadas"](https://www.eldiario.es/catalunya/alex-almuedo-emergencia-mpox-debe-servir-movilizar-recursos-zonas-africa-afectadas_1_11602164.html) (Eldiario.es)
 
-- [Ex-FDA commissioner Dr. Scott Gottlieb says U.S. "not at risk right now" for new mpox variant](https://www.cbsnews.com/video/ex-fda-commissioner-dr-scott-gottlieb-says-u-s-not-at-risk-right-now-for-new-mpox-variant/) (CBS News)
-
-- [Mpox pode virar uma pandemia? Veja opinião de especialistas](https://gizmodo.uol.com.br/mpox-pode-virar-uma-pandemia-veja-opiniao-de-especialistas/) (Uol.com.br)
-
-- [Mpox: Step-by-step measures for staying safe](https://punchng.com/mpox-step-by-step-measures-for-staying-safe/) (The Punch)
-
-- [Papa se roagă pentru victimele Mpox / Ce le-a transmis „guvernelor și companiilor private”](http://hotnews.ro/papa-se-roaga-pentru-victimele-mpox-ce-le-a-transmis-guvernelor-si-companiilor-private-1778254) (Hotnews.ro)
-
-- [Afrika får sin första leverans mpoxmaccin](https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1286805) (Aftonbladet.se)
-
-- [В Республике Конго выявили более 20 инфицированных вирусом оспы обезьян](https://tass.ru/proisshestviya/21683213) (Tass.ru)
-
-- [Congo-Brazzaville reports 21 mpox cases](https://www.voanews.com/a/congo-brazzaville-reports-21-mpox-cases/7756237.html) (VOA News)
-
-- [Mpox, l’appello del Papa: “Governi e industrie condividano i trattamenti disponibili”. Oms: “Servono 135 milioni di euro”](https://www.ilfattoquotidiano.it/2024/08/25/mpox-lappello-del-papa-governi-e-industrie-condividano-i-trattamenti-disponibili-oms-servono-135-milioni-di-euro/7668722/) (Ilfattoquotidiano.it)
-
-- [Should we be worried about mpox?; Ultra-discount grocery stores: CBC's Marketplace cheat sheet](https://www.cbc.ca/news/business/marketplace-watchdog-1.7302620) (CBC News)
-
-- [Mpox: Papst wegen Ausbreitung des Virus besorgt](https://orf.at/stories/3367497/) (Orf.at)
-
-- [Pope seeks help for mpox victims](https://punchng.com/pope-seeks-help-for-mpox-victims/) (The Punch)
-
-- [Mpox less likely to lead school closures: Experts](https://www.hurriyetdailynews.com/mpox-less-likely-to-lead-school-closures-experts-199888) (Hurriyet Daily News)
-
 ## 24-35 (meningitis)
 
 - [El jefe de la Salud Pública andaluza: "Por estadística, llegaremos a 5.000 casos de virus del Nilo en la región"](https://www.elespanol.com/ciencia/salud/20240831/jefe-salud-publica-andaluza-estadistica-llegaremos-casos-virus-nilo-region/881912166_0.html) (Elespanol.com)
@@ -4019,8 +4017,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Камбоджа активизировала усилия по предотвращению проникновения оспы обезьян](https://tass.ru/obschestvo/21687067) (Tass.ru)
 
-- [Odisha culls birds after Avian flu outbreak](https://economictimes.indiatimes.com/news/india/odisha-culls-birds-after-avian-flu-outbreak/articleshow/112782110.cms) (The Times of India)
-
 ## 24-35 (dengue)
 
 - [Realizan en Puerto Rico un estudio pionero de inmunología de dengue](https://www.montevideo.com.uy/Salud/Realizan-en-Puerto-Rico-un-estudio-pionero-de-inmunologia-de-dengue-uc898763) (Montevideo.com.uy)
@@ -4106,8 +4102,6 @@ Source: [News API](https://newsapi.org/)
 - [El ECDC señala que "es probable" que la UE notifique más casos importados de la nueva variante de mpox](https://www.infosalus.com/salud-investigacion/noticia-ecdc-senala-probable-ue-notifique-mas-casos-importados-nueva-variante-mpox-20240826122956.html) (Infosalus.com)
 
 - [Especialista no mosquito da dengue, ela saiu de casa aos 15 anos para realizar o sonho de se tornar cientista](https://gizmodo.uol.com.br/especialista-no-mosquito-da-dengue-ela-saiu-de-casa-aos-15-anos-para-realizar-o-sonho-de-se-tornar-cientista/) (Uol.com.br)
-
-- [Bapi Hansda recovers in time to join Indian team in Lima](https://timesofindia.indiatimes.com/sports/more-sports/athletics/bapi-hansda-recovers-in-time-to-join-indian-team-in-lima/articleshow/112785136.cms) (The Times of India)
 
 ## 24-35 (chikungunya)
 
