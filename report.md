@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
 - **New articles in last harvest:** 8
-- **Last harvest:** 2024-10-13 07:05
-- **Most recent article:** 2024-10-12 07:00:47
+- **Last harvest:** 2024-10-13 19:05
+- **Most recent article:** 2024-10-12 16:12:21
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-36 | 24-37 | 24-38 | 24-39 | 24-40 | 24-41 | Total |
 |--|-|-|-|-|-|-|-|
-| mpox | 175 | 192 | 140 | 122 | 128 | 40 | 797 |
-| dengue | 47 | 76 | 73 | 49 | 51 | 33 | 329 |
-| h5n1 | 31 | 10 | 17 | 35 | 50 | 9 | 152 |
+| mpox | 170 | 192 | 140 | 122 | 128 | 42 | 794 |
+| dengue | 46 | 76 | 73 | 49 | 51 | 35 | 330 |
+| h5n1 | 31 | 10 | 17 | 35 | 50 | 10 | 153 |
 | malaria | 13 | 12 | 15 | 24 | 10 | 13 | 87 |
-| rabies | 7 | 5 | 13 | 25 | 30 | 5 | 85 |
+| rabies | 7 | 5 | 13 | 25 | 30 | 6 | 86 |
 | meningitis | 6 | 3 | 10 | 6 | 11 | 2 | 38 |
 | measles | 8 | 5 | 8 | 4 | 6 | 5 | 36 |
 | chikungunya | 4 | 13 | 9 | 3 | 3 | 3 | 35 |
-| zika | 6 | 10 | 8 | 1 | 3 | 3 | 31 |
+| zika | 6 | 10 | 8 | 1 | 3 | 4 | 32 |
 | pertussis | 1 | 5 | 3 | 3 | 2 | 2 | 16 |
-| leptospirosis | 1 | 0 | 1 | 5 | 4 | 0 | 11 |
+| leptospirosis | 1 | 0 | 1 | 5 | 4 | 1 | 12 |
 | hpai | 3 | 1 | 0 | 2 | 2 | 1 | 9 |
 | yersinia | 2 | 0 | 2 | 2 | 1 | 1 | 8 |
 | typhoid | 1 | 0 | 0 | 4 | 1 | 0 | 6 |
@@ -34,6 +34,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-41 (zika)
+
+- [Il virus Zika per curare il cancro al cervello, l’incredibile scoperta: “Infetta e uccide le cellule tumorali, novità promettente”](https://www.ilfattoquotidiano.it/2024/10/12/il-virus-zika-per-curare-il-cancro-al-cervello-lincredibile-scoperta-infetta-e-uccide-le-cellule-tumorali-novita-promettente/7727170/) (Ilfattoquotidiano.it)
 
 - [Seasonal insights for integrative mosquito management from multi-year baseline entomological data on Aedes aegypti in Lee County, Florida](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0311407) (Plos.org)
 
@@ -55,6 +57,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-41 (rabies)
 
+- [Coimbatore woman dies of rabies after being bitten by pet puppy; corporation plans mass dog vaccination drive](https://timesofindia.indiatimes.com/city/coimbatore/coimbatore-woman-dies-of-rabies-after-being-bitten-by-pet-puppy-corporation-plans-mass-dog-vaccination-drive/articleshow/114175379.cms) (The Times of India)
+
 - [Sabah tightens border controls and quarantine against rabies threat from neighbouring regions](https://www.thestar.com.my/news/nation/2024/10/10/sabah-tightens-border-controls-and-quarantine-against-rabies-threat-from-neighbouring-regions) (The Star Online)
 
 - [Goose Fans Possibly Exposed to Rabies Due to Bat Sightings at Show](https://exclaim.ca/music/article/goose-fans-possibly-exposed-to-rabies-due-to-bat-sightings-at-show) (Exclaim!)
@@ -72,6 +76,10 @@ Source: [News API](https://newsapi.org/)
 - [Whooping Cough Is Spreading, and You Might Need a Vaccine Booster](https://www.scientificamerican.com/article/whooping-cough-is-spreading-and-you-might-need-a-vaccine-booster/) (Scientific American)
 
 ## 24-41 (mpox)
+
+- [شیوع گسترده آبله میمون در ۱۵ کشور آفریقایی](https://www.tabnak.ir/fa/news/1265071/شیوع-گسترده-آبله-میمون-در-۱۵-کشور-آفریقایی) (Tabnak.ir)
+
+- [Mpox, un virus dans le sillage de la variole et de l’extractivisme](https://www.mediapart.fr/journal/ecologie/121024/mpox-un-virus-dans-le-sillage-de-la-variole-et-de-l-extractivisme) (Mediapart)
 
 - [El mpox se ceba con los niños en África, aunque las lecciones aprendidas con la COVID-19 frenan su expansión](https://www.europapress.es/internacional/noticia-mpox-ceba-ninos-africa-lecciones-aprendidas-covid-19-frenan-expansion-20241012090047.html) (Europapress.es)
 
@@ -199,11 +207,17 @@ Source: [News API](https://newsapi.org/)
 
 - [Interchromosomal segmental duplication drives translocation and loss of P. falciparum histidine-rich protein 3](https://elifesciences.org/articles/93534) (Elifesciences.org)
 
+## 24-41 (leptospirosis)
+
+- [Las clínicas alertan por el descubrimiento en muchos perros de una rara enfermedad contagiosa para los humanos](https://www.huffingtonpost.es/life/animales/las-clinicas-alertan-descubrimiento-perros-rara-enfermedad-contagiosa-humanos.html) (Huffingtonpost.es)
+
 ## 24-41 (hpai)
 
 - [Two Human Cases Of Bird Flu Discovered In California](https://www.shtfplan.com/member-exclusive/two-human-cases-of-bird-flu-discovered-in-california) (Shtfplan.com)
 
 ## 24-41 (h5n1)
+
+- [هل شرب الحليب غير المبستر آمن للحوامل؟](https://www.aljazeera.net/family/2024/10/12/%d9%87%d9%84-%d8%b4%d8%b1%d8%a8-%d8%a7%d9%84%d8%ad%d9%84%d9%8a%d8%a8-%d8%ba%d9%8a%d8%b1-%d8%a7%d9%84%d9%85%d8%a8%d8%b3%d8%aa%d8%b1-%d8%a2%d9%85%d9%86-%d9%84%d9%84%d8%ad%d9%88%d8%a7%d9%85%d9%84) (Aljazeera.net)
 
 - [Two additional human bird flu cases confirmed in California](https://www.voanews.com/a/two-additional-human-bird-flu-cases-confirmed-in-california-/7819524.html) (VOA News)
 
@@ -224,6 +238,10 @@ Source: [News API](https://newsapi.org/)
 - [REPORTAGE. Grippe aviaire, Covid, H5N1... Comment les scientifiques travaillent à empêcher les maladies de se transmettre de l’animal à l’homme](https://www.francetvinfo.fr/replay-radio/le-choix-franceinfo/reportage-grippe-aviaire-covid-h5n1-comment-les-scientifiques-travaillent-a-empecher-les-maladies-de-se-transmettre-de-l-animal-a-l-homme_6794494.html) (Francetvinfo.fr)
 
 ## 24-41 (dengue)
+
+- [Prevenzione da Dengue a Pesaro, estesa la disinfestazione](https://www.ansa.it/marche/notizie/2024/10/12/prevenzione-da-dengue-a-pesaro-estesa-la-disinfestazione_6486dfc5-f7fe-42fa-94c1-7c1a874a7204.html) (ANSA.it)
+
+- [Farmacentro lancia la campagna 'Difenditi dalla Dengue'](https://www.ansa.it/umbria/notizie/2024/10/12/farmacentro-lancia-la-campagna-difenditi-dalla-dengue_24acc2d9-e9c7-4f70-8c99-7202cf00946f.html) (ANSA.it)
 
 - [Seasonal insights for integrative mosquito management from multi-year baseline entomological data on Aedes aegypti in Lee County, Florida](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0311407) (Plos.org)
 
@@ -3227,16 +3245,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Mpox concerns grow in Pakistan as Peshawar reports fifth case](https://economictimes.indiatimes.com/news/international/world-news/mpox-concerns-grow-in-pakistan-as-peshawar-reports-fifth-case/articleshow/112978523.cms) (The Times of India)
 
-- [PAK में Mpox का चौथा केस मिला, विदेश से लौटे थे सभी मरीज, एयरपोर्ट पर बढ़ाई निगरानी](https://www.aajtak.in/world/story/pakistan-fourth-case-of-mpox-found-all-infected-patients-had-returned-from-abroad-increased-surveillance-at-airport-ntc-2027934-2024-09-01) (Aajtak.in)
-
-- [Authorities in Pakistan confirm fourth case of mpox virus](https://economictimes.indiatimes.com/news/international/world-news/authorities-in-pakistan-confirm-fourth-case-of-mpox-virus/articleshow/112971353.cms) (The Times of India)
-
-- [Pak's Peshawar Emerges As 'Epicentre' Of Mpox As Tally Reaches 5: Report](https://www.ndtv.com/world-news/pakistans-peshawar-emerges-as-epicentre-of-mpox-as-tally-reaches-5-report-6467196) (NDTV News)
-
-- [Como a Mpox se espalha e quem corre mais risco? Tire suas dúvidas](https://www.infomoney.com.br/business/global/como-a-mpox-se-espalha-e-quem-corre-mais-risco-tire-suas-duvidas/) (InfoMoney)
-
-- [Mpox : comment la déforestation a favorisé l’épidémie](https://www.sudinfo.be/id875008/article/2024-09-01/mpox-comment-la-deforestation-favorise-lepidemie) (Sudinfo.be)
-
 ## 24-36 (meningitis)
 
 - [Luis Canut lanza un emotivo mensaje a Patricia Pérez por ser su mayor apoyo ante su enfermedad: 'Me salvó la vida'](https://www.bekia.es/celebrities/noticias/luis-canut-lanza-emotivo-mensaje-patricia-perez-apoyo/) (Bekia.es)
@@ -3466,8 +3474,6 @@ Source: [News API](https://newsapi.org/)
 - [One dies of dengue infection in Chitwan](https://english.khabarhub.com/2024/02/393092/) (Khabarhub.com)
 
 - [Bacolod: Province logs 414 dengue cases in a week](https://rpnradio.com/bacolod-province-logs-414-dengue-cases-in-a-week/) (Rpnradio.com)
-
-- [Jaipur sees a surge in dengue cases last week](https://timesofindia.indiatimes.com/city/jaipur/jaipur-sees-a-surge-in-dengue-cases-last-week/articleshow/112965963.cms) (The Times of India)
 
 ## 24-36 (chikungunya)
 
