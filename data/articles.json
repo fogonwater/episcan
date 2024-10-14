@@ -1,8 +1,44 @@
 {
-  "last_updated": "2024-10-13 19:05",
-  "count_articles_total": 1574,
-  "count_articles_new": 8,
+  "last_updated": "2024-10-14 07:06",
+  "count_articles_total": 1582,
+  "count_articles_new": 2,
   "articles": [
+    {
+      "id": 14534,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Deivid Souza",
+      "title": "Dengue: ap\u00f3s recorde em casos, volta das chuvas aciona sinal de alerta",
+      "description": "Minist\u00e9rio da Sa\u00fade j\u00e1 elaborou plano para tentar conter dissemina\u00e7\u00e3o do mosquito aedes aegypti. Estrat\u00e9gia tem seis eixos diferentes",
+      "url": "https://www.metropoles.com/brasil/dengue-apos-recorde-em-casos-volta-das-chuvas-aciona-sinal-de-alerta",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/03/08144921/aedes-aegypti-3.jpg",
+      "publishedAt": "2024-10-13 05:00:51",
+      "content": "Ap\u00f3s um recorde inesperado de casos e mortes por dengue em 2024, a iminente regulariza\u00e7\u00e3o do per\u00edodo chuvoso no Centro e Norte do pa\u00eds j\u00e1 deixa autoridades de sa\u00fade em alerta. Neste ano, houve 6,5 mi\u2026 [+3946 chars]",
+      "retrievedAt": "2024-10-14 07:06:44.443175",
+      "internal_id": "d18ce787befbf849cb06f24c9351c4759f3a705d6994ecc1a746a95771d5a548",
+      "publishedAtLabel": "Oct 13"
+    },
+    {
+      "id": 14535,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Boston Herald",
+      "author": "Dr. John De Jong",
+      "title": "Leptospirosis cases cause for concern",
+      "description": "The emergency hospital said they have seen 15 cases of Leptospirosis in the last month! They also said that only 50% of those dogs presenting with it have survived.",
+      "url": "https://www.bostonherald.com/2024/10/13/leptospirosis-cases-cause-for-concern/",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/migration/2014/12/04/031118vet1.jpg?w=1024&h=670",
+      "publishedAt": "2024-10-13 04:48:54",
+      "content": "Dear Dr. John, As I write, my four-year-old dog is in an ICU at an emergency veterinary hospital. He has been diagnosed with Leptospirosis and is in organ failure. He is not even urinating or eating\u2026 [+2106 chars]",
+      "retrievedAt": "2024-10-14 07:06:46.130113",
+      "internal_id": "d36cb2e32dd079e64786a106e012101d96a20effeef317fd872d58ec20fbc4ff",
+      "publishedAtLabel": "Oct 13"
+    },
     {
       "id": 14529,
       "query": [
@@ -28405,6 +28441,114 @@
       "content": "El Ministerio de Salud de Per\u00fa (Minsa) confirm\u00f3 la existencia de un caso de meningitis y el seguimiento de otros posibles afectados por un brote de esta enfermedad en una localidad remota de la re\u2026 [+2214 chars]",
       "retrievedAt": "2024-09-03 07:06:27.157147",
       "internal_id": "3e9848a7b4071db2edb3702ff7f3ef0d520124067714b1a62dfb0a367110b6e4",
+      "publishedAtLabel": "Sep 1"
+    },
+    {
+      "id": 13002,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Aajtak.in",
+      "author": "aajtak.in",
+      "title": "PAK \u092e\u0947\u0902 Mpox \u0915\u093e \u091a\u094c\u0925\u093e \u0915\u0947\u0938 \u092e\u093f\u0932\u093e, \u0935\u093f\u0926\u0947\u0936 \u0938\u0947 \u0932\u094c\u091f\u0947 \u0925\u0947 \u0938\u092d\u0940 \u092e\u0930\u0940\u091c, \u090f\u092f\u0930\u092a\u094b\u0930\u094d\u091f \u092a\u0930 \u092c\u0922\u093c\u093e\u0908 \u0928\u093f\u0917\u0930\u093e\u0928\u0940",
+      "description": "\u092a\u093e\u0915\u093f\u0938\u094d\u0924\u093e\u0928 \u0928\u0947 \u090f\u092e\u092a\u0949\u0915\u094d\u0938 \u0938\u0947 \u0928\u093f\u092a\u091f\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u090f\u0939\u0924\u093f\u092f\u093e\u0924\u0940 \u0915\u0926\u092e \u0909\u0920\u093e\u090f \u0939\u0948\u0902. \u0907\u0938\u0947 \u0932\u0947\u0915\u0930 \u090f\u092f\u0930\u092a\u094b\u0930\u094d\u091f \u092a\u0930 \u0938\u0916\u094d\u0924 \u0938\u093f\u0915\u094d\u092f\u094b\u0930\u093f\u091f\u0940 \u0938\u093f\u0938\u094d\u091f\u092e \u0932\u093e\u0917\u0942 \u0915\u093f\u092f\u093e \u0917\u092f\u093e \u0939\u0948, \u0915\u094d\u092f\u094b\u0902\u0915\u093f \u092f\u0939 \u0938\u093e\u092e\u0928\u0947 \u0906\u092f\u093e \u0939\u0948 \u0915\u093f \u090f\u092e\u092a\u0949\u0915\u094d\u0938 \u0935\u093e\u092f\u0930\u0938 \u0938\u0947 \u0938\u0902\u0915\u094d\u0930\u092e\u093f\u0924 \u0938\u092d\u0940 \u092e\u0930\u0940\u091c \u0935\u093f\u0926\u0947\u0936 \u0938\u0947 \u0932\u094c\u091f\u0947 \u0925\u0947.",
+      "url": "https://www.aajtak.in/world/story/pakistan-fourth-case-of-mpox-found-all-infected-patients-had-returned-from-abroad-increased-surveillance-at-airport-ntc-2027934-2024-09-01",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202409/66d494cfb0004-pakistan-fourth-case-of-mpox-012238510-16x9.png",
+      "publishedAt": "2024-09-01 16:24:21",
+      "content": "MPOX , . - . - . ( ) (PSH) . . . . - , . 19 47 (PIMS) . . PIMS . , . , , . , . 4 . . , .",
+      "retrievedAt": "2024-09-04 07:06:06.004231",
+      "internal_id": "c1c0a2f858fac828940b6fbea65b7f978469b37ed691ba046373e7e23e3bebea",
+      "publishedAtLabel": "Sep 1"
+    },
+    {
+      "id": 12990,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "PTI",
+      "title": "Authorities in Pakistan confirm fourth case of mpox virus",
+      "description": "Pakistan reported its fourth case of monkeypox in Khyber-Pakhtunkhwa province, where three other cases were also confirmed. All patients had returned from abroad, with no local transmission reported. Authorities have implemented strict airport screening. The \u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/authorities-in-pakistan-confirm-fourth-case-of-mpox-virus/articleshow/112971353.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-112971380,width-1200,height-630,imgsize-74546,overlay-economictimes/photo.jpg",
+      "publishedAt": "2024-09-01 14:24:51",
+      "content": "Authorities in Pakistan on Sunday reported another case of monkeypox (mpox) virus amid the confusion about the total number of cases confirmed so far in the country. The fourth case was detected in K\u2026 [+2246 chars]",
+      "retrievedAt": "2024-09-04 07:06:05.932306",
+      "internal_id": "5cef8ac5510c943badb8e476202518f255d1da1ec5ffc95a8244c4b3b13b8696",
+      "publishedAtLabel": "Sep 1"
+    },
+    {
+      "id": 12950,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": null,
+      "title": "Pak's Peshawar Emerges As 'Epicentre' Of Mpox As Tally Reaches 5: Report",
+      "description": "Amid growing concerns over the new strain of mpox virus, Pakistan's Peshawar city has started emerging as the 'epicentre' of the virus, as the fifth mpox case was recorded on Sunday, Geo News reported.",
+      "url": "https://www.ndtv.com/world-news/pakistans-peshawar-emerges-as-epicentre-of-mpox-as-tally-reaches-5-report-6467196",
+      "urlToImage": "https://c.ndtvimg.com/2024-08/1n5d9p5_mpox-reuters_625x300_24_August_24.jpeg",
+      "publishedAt": "2024-09-01 13:50:44",
+      "content": "The mpox virus shows flu-like symptoms and pus-filled lesions (Representational) Islamabad: Amid growing concerns over the new strain of mpox virus, Pakistan's Peshawar city has started emerging as \u2026 [+2390 chars]",
+      "retrievedAt": "2024-09-03 07:06:29.235040",
+      "internal_id": "97f9ccb2060e6d61e34aa9b0c0b1bd8a6ab09cfe9a02837a13e6358e423c6689",
+      "publishedAtLabel": "Sep 1"
+    },
+    {
+      "id": 12930,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TNN",
+      "title": "Jaipur sees a surge in dengue cases last week",
+      "description": "Jaipur has experienced a rise in dengue cases, with 40 new infections reported in the past week, totaling 300 cases. Statewide, cases increased by 284, with particular concern in Udaipur. Health officials are emphasizing prevention and treatment efforts, with\u2026",
+      "url": "https://timesofindia.indiatimes.com/city/jaipur/jaipur-sees-a-surge-in-dengue-cases-last-week/articleshow/112965963.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-112966030,width-1070,height-580,imgsize-29178,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-09-01 08:36:20",
+      "content": "9 biotin-rich foods to nourish hair, skin and nail",
+      "retrievedAt": "2024-09-02 19:06:00.726670",
+      "internal_id": "88e9aad11b8372588cc5e8f63cf95b221c48b81a550e47444d2934332f11deb5",
+      "publishedAtLabel": "Sep 1"
+    },
+    {
+      "id": 12931,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "info-money",
+      "source_name": "InfoMoney",
+      "author": "darrellchamplin",
+      "title": "Como a Mpox se espalha e quem corre mais risco? Tire suas d\u00favidas",
+      "description": "Entenda o que os cientistas aprenderam sobre o v\u00edrus, que foi recentemente declarado uma emerg\u00eancia de sa\u00fade global The post Como a Mpox se espalha e quem corre mais risco? Tire suas d\u00favidas appeared first on InfoMoney.",
+      "url": "https://www.infomoney.com.br/business/global/como-a-mpox-se-espalha-e-quem-corre-mais-risco-tire-suas-duvidas/",
+      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2024/08/2024-08-13t135812z_488502842_rc2yx8aqv1tn_rtrmadp_3_africa-mpox.webp?fit=1170%2C700&quality=70&strip=all",
+      "publishedAt": "2024-09-01 08:00:00",
+      "content": "Este m\u00eas, a Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS) declarou a Mpox uma emerg\u00eancia de sa\u00fade global. Anteriormente conhecido como monkeypox (var\u00edola dos macacos), o v\u00edrus est\u00e1 se espalhando rapidamente em \u2026 [+5639 chars]",
+      "retrievedAt": "2024-09-02 19:06:04.154812",
+      "internal_id": "bf3fe0c7f4e4539e1faaaf51794580c8e3e4502994583a4077d5a256a2462238",
+      "publishedAtLabel": "Sep 1"
+    },
+    {
+      "id": 12951,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Sudinfo.be",
+      "author": "Par Pauline Govaert avec AFP",
+      "title": "Mpox : comment la d\u00e9forestation a favoris\u00e9 l\u2019\u00e9pid\u00e9mie",
+      "description": "La d\u00e9forestation dans le bassin du Congo, connu comme \u00able poumon de l\u2019Afrique\u00bb, aurait favoris\u00e9 l\u2019\u00e9pid\u00e9mie de Mpox.",
+      "url": "https://www.sudinfo.be/id875008/article/2024-09-01/mpox-comment-la-deforestation-favorise-lepidemie",
+      "urlToImage": "https://spgeng.rosselcdn.net/sites/default/files/dpistyles_v2/FirstImageUrl/2024/09/01/node_875008/55830061/public/2024/09/01/24620914.jpeg?itok=yE0UBvF31725177634",
+      "publishedAt": "2024-09-01 08:00:00",
+      "content": "La recrudescence du mpox en R\u00e9publique d\u00e9mocratique du Congo (RDC), port\u00e9e par le clade 1b qui touche aussi le Burundi, le Kenya, le Rwanda et lOuganda, a incit\u00e9 lOrganisation mondiale de la sant\u00e9 (O\u2026 [+7241 chars]",
+      "retrievedAt": "2024-09-03 07:06:29.241063",
+      "internal_id": "825fd119eae7d39ba7fb596a39d18b8a542c8fb27e2f5aa8cbbb4cfbe3f2e8a6",
       "publishedAtLabel": "Sep 1"
     }
   ]
