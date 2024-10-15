@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 5
-- **Last harvest:** 2024-10-15 07:06
-- **Most recent article:** 2024-10-14 06:35:19
+- **New articles in last harvest:** 43
+- **Last harvest:** 2024-10-15 19:05
+- **Most recent article:** 2024-10-14 18:35:14
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-36 | 24-37 | 24-38 | 24-39 | 24-40 | 24-41 | 24-42 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 175 | 192 | 140 | 122 | 128 | 42 | 4 | 803 |
-| dengue | 47 | 76 | 73 | 49 | 51 | 35 | 5 | 336 |
-| h5n1 | 31 | 10 | 17 | 35 | 50 | 10 | 4 | 157 |
-| malaria | 13 | 12 | 15 | 24 | 10 | 13 | 0 | 87 |
-| rabies | 7 | 5 | 13 | 25 | 30 | 6 | 0 | 86 |
+| mpox | 170 | 192 | 140 | 122 | 128 | 42 | 35 | 829 |
+| dengue | 46 | 76 | 73 | 49 | 51 | 35 | 10 | 340 |
+| h5n1 | 31 | 10 | 17 | 35 | 50 | 10 | 8 | 161 |
+| malaria | 13 | 12 | 15 | 24 | 10 | 13 | 3 | 90 |
+| rabies | 7 | 5 | 13 | 25 | 30 | 6 | 1 | 87 |
 | meningitis | 6 | 3 | 10 | 6 | 11 | 2 | 0 | 38 |
+| chikungunya | 4 | 13 | 9 | 3 | 3 | 3 | 1 | 36 |
 | measles | 8 | 5 | 8 | 4 | 6 | 5 | 0 | 36 |
-| chikungunya | 4 | 13 | 9 | 3 | 3 | 3 | 0 | 35 |
-| zika | 6 | 10 | 8 | 1 | 3 | 4 | 0 | 32 |
-| pertussis | 1 | 5 | 3 | 3 | 2 | 2 | 0 | 16 |
+| zika | 6 | 10 | 8 | 1 | 3 | 4 | 1 | 33 |
+| pertussis | 1 | 5 | 3 | 3 | 2 | 2 | 2 | 18 |
 | leptospirosis | 1 | 0 | 1 | 5 | 4 | 1 | 1 | 13 |
 | hpai | 3 | 1 | 0 | 2 | 2 | 1 | 0 | 9 |
 | yersinia | 2 | 0 | 2 | 2 | 1 | 1 | 0 | 8 |
@@ -33,7 +33,83 @@ Source: [News API](https://newsapi.org/)
 
 ---
 
+## 24-42 (zika)
+
+- [Una nuova pandemia è in agguato? L’allarme: “Già 17 epidemie nel 2024. Il Pil da solo non è una misura della resilienza”](https://www.ilfattoquotidiano.it/2024/10/14/una-nuova-pandemia-e-in-agguato-lallarme-gia-17-epidemie-nel-2024-il-pil-da-solo-non-e-una-misura-della-resilienza/7729972/) (Ilfattoquotidiano.it)
+
+## 24-42 (rabies)
+
+- [General public knowledge, attitudes, and practices about rabies and associated factors in Gomma district of Jimma zone, southwestern Ethiopia](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012551) (Plos.org)
+
+## 24-42 (pertussis)
+
+- [Whooping cough: What parents need to know as cases surge](https://6abc.com/post/whooping-cough-what-parents-need-know-cases-surge/15428295/) (WPVI-TV)
+
+- [What parents need to know as whooping cough cases surge](https://abcnews.go.com/GMA/Wellness/parents-whooping-cough-cases-surge/story?id=114774431) (ABC News)
+
 ## 24-42 (mpox)
+
+- [Kenya confirms first mpox death as cases rise to 13](https://www.thestar.com.my/news/world/2024/10/15/kenya-confirms-first-mpox-death-as-cases-rise-to-13) (The Star Online)
+
+- [WHO donates mpox testing kits, medicines for neglected tropical diseases to Kenya](https://www.thestar.com.my/news/world/2024/10/15/who-donates-mpox-testing-kits-medicines-for-neglected-tropical-diseases-to-kenya) (The Star Online)
+
+- [OMS aprueba vacuna de Bavarian Nordic para combatir el mpox en adolescentes](https://forbes.com.mx/oms-aprueba-vacuna-de-bavarian-nordic-para-combatir-el-mpox-en-adolescentes/) (Forbes.com.mx)
+
+- [Le monde n’est toujours pas prêt à faire face au risque d’une nouvelle pandémie](https://www.lesoir.be/629482/article/2024-10-14/le-monde-nest-toujours-pas-pret-faire-face-au-risque-dune-nouvelle-pandemie) (Le Soir)
+
+- [Epidémie de mpox : début de la vaccination en RDC alors que les cas se multiplient](https://www.lemonde.fr/planete/article/2024/10/14/epidemie-de-mpox-debut-de-la-vaccination-en-rdc-alors-que-les-cas-se-multiplient_6351681_3244.html) (Le Monde)
+
+- [Guidance: Clade I mpox: affected countries](https://www.gov.uk/guidance/clade-i-mpox-affected-countries) (Www.gov.uk)
+
+- [Mpox: Recent Cases, Signs & What To Do If You're At Risk](https://www.ndtv.com/health/mpox-recent-cases-signs-what-to-do-if-youre-at-risk-6788786) (NDTV News)
+
+- [Le virus Mpox continue son expansion : des cas signalés en Zambie et au Ghana](https://www.sudinfo.be/id897861/article/2024-10-14/le-virus-mpox-continue-son-expansion-des-cas-signales-en-zambie-et-au-ghana) (Sudinfo.be)
+
+- [Mpox spreads to Zambia and Ghana, with 16 countries now affected](https://www.anews.com.tr/health/2024/10/14/mpox-spreads-to-zambia-and-ghana-with-16-countries-now-affected) (Anews.com.tr)
+
+- [Mpox nu ook in Zambia en Ghana opgedoken](https://www.gva.be/cnt/dmf20241014_95137094) (Www.gva.be)
+
+- [Mpox nu ook in Zambia en Ghana opgedoken](https://www.hbvl.be/cnt/dmf20241014_95120941) (Hbvl.be)
+
+- [Mpox nu ook in Zambia en Ghana opgedoken](https://www.nieuwsblad.be/cnt/dmf20241014_95106503) (Nieuwsblad.be)
+
+- [Oms, nel 2024 già verificate 17 epidemie di malattie pericolose](https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2024/10/14/oms-nel-2024-gia-verificate-17-epidemie-di-malattie-pericolose_0c4e243e-2693-45ed-93da-fc7a0676f807.html) (ANSA.it)
+
+- [OMS aprova vacina da Bavarian Nordic contra mpox para adolescentes](https://www.metropoles.com/saude/oms-vacina-mpox-adolescentes) (Metropoles.com)
+
+- [Una nuova pandemia è in agguato? L’allarme: “Già 17 epidemie nel 2024. Il Pil da solo non è una misura della resilienza”](https://www.ilfattoquotidiano.it/2024/10/14/una-nuova-pandemia-e-in-agguato-lallarme-gia-17-epidemie-nel-2024-il-pil-da-solo-non-e-una-misura-della-resilienza/7729972/) (Ilfattoquotidiano.it)
+
+- [How Mpox anti-vaxx conspiracies target and stigmatise LGBTQ+ people](https://theconversation.com/how-mpox-anti-vaxx-conspiracies-target-and-stigmatise-lgbtq-people-239981) (The Conversation Africa)
+
+- [Вспышки mpox и Марбург могут говорить об уязвимости мира перед пандемиями](https://tass.ru/obschestvo/22117813) (Tass.ru)
+
+- [Mpox breitet sich in Afrika weiter stark aus](https://www.welt.de/gesundheit/article254000060/Mpox-Seuche-breitet-sich-weiter-aus-und-grassiert-jetzt-in-sechzehn-afrikanischen-Laendern.html) (DIE WELT)
+
+- [Da Mpox al virus Marburg, già 17 epidemie pericolose nel 2024: cresce rischio nuova pandemia](https://www.ilgiornale.it/news/adnkronos/mpox-virus-marburg-gi-17-epidemie-pericolose-nel-2024-cresce-2380930.html) (Ilgiornale.it)
+
+- [Majomhimlő elleni oltást hagytak jóvá, de nem lélegezhet fel mindenki](https://www.origo.hu/nagyvilag/2024/10/majomhimlo-who-oltas-jovahagyas) (Origo.hu)
+
+- [Zwei weitere Länder in Afrika melden Mpox](https://orf.at/stories/3372725/) (Orf.at)
+
+- [„Gesundheitliche Notlage internationaler Tragweite“: Mpox-Virus breitet sich in zwei weiteren afrikanischen Ländern aus](https://www.tagesspiegel.de/gesundheit/krankheiten-zwei-weitere-lander-in-afrika-melden-mpox-12528905.html) (Der Tagesspiegel)
+
+- [Krankheiten: Zwei weitere Länder in Afrika melden Mpox](https://www.tagesspiegel.de/wissen/krankheiten-zwei-weitere-lander-in-afrika-melden-mpox-12528905.html) (Der Tagesspiegel)
+
+- [Krankheiten: Zwei weitere Länder in Afrika melden Mpox](https://www.zeit.de/news/2024-10/14/zwei-weitere-laender-in-afrika-melden-mpox) (Die Zeit)
+
+- [Krankheiten: Zwei weitere Länder in Afrika melden Mpox](https://www.stern.de/panorama/wissen/krankheiten--zwei-weitere-laender-in-afrika-melden-mpox-35141246.html) (STERN.de)
+
+- [OMS a autorizat vaccinul anti-mpox produs de Bavarian Nordic pentru uz la adolescenți](http://hotnews.ro/oms-a-autorizat-vaccinul-anti-mpox-produs-de-bavarian-nordic-pentru-uz-la-adolescenti-1812341) (Hotnews.ro)
+
+- [OMS a aprobat un vaccin anti-mpox, boală cunoscută drept „Variola maimuței”. Poate fi utilizat la adolescenţii cu vârste între 12 şi 17 ani](https://adevarul.ro/stiri-interne/sanatate/oms-a-aprobat-un-vaccin-anti-mpox-boala-cunoscuta-2394523.html) (Adevarul.ro)
+
+- [WHO godkender mpox-vaccine til unge](https://www.dr.dk/nyheder/seneste/who-godkender-mpox-vaccine-til-unge) (Www.dr.dk)
+
+- [El mpox se ceba con los niños en África, aunque las lecciones aprendidas con la COVID-19 frenan su expansión](https://www.infosalus.com/salud-investigacion/noticia-mpox-ceba-ninos-africa-lecciones-aprendidas-covid-19-frenan-expansion-20241014105544.html) (Infosalus.com)
+
+- [Le Zimbabwe signale ses deux premiers cas de mpox](https://fr.sputniknews.africa/20241014/le-zimbabwe-signale-ses-deux-premiers-cas-de-mpox-1068671096.html) (Sputniknews.africa)
+
+- [WHO godkender mpox-vaccine til unge](https://politiken.dk/danmark/sundhed/art10115857/WHO-godkender-mpox-vaccine-til-unge) (Politiken.dk)
 
 - [В Зимбабве зафиксировали два первых случая заражения оспой обезьян](https://news.mail.ru/incident/63197353/) (Mail.ru)
 
@@ -43,11 +119,27 @@ Source: [News API](https://newsapi.org/)
 
 - [First mpox diagnostic test approved by WHO](https://www.thestar.com.my/lifestyle/health/2024/10/13/first-mpox-diagnostic-test-approved-by-who) (The Star Online)
 
+## 24-42 (malaria)
+
+- [Delhi sees 55% spike in malaria cases this year so far, no deaths recorded](https://www.business-standard.com/india-news/delhi-sees-55-spike-in-malaria-cases-this-year-so-far-no-deaths-recorded-124101401188_1.html) (Business Standard)
+
+- [Cum modifică schimbările climatice programa unor școli de medicină din Europa](http://hotnews.ro/cum-modifica-schimbarile-climatice-programa-unor-scoli-de-medicina-din-europa-1812329) (Hotnews.ro)
+
+- [Școlile de medicină din Europa vor oferi mai multă pregătire pentru tratarea bolilor legate de criza climatică](https://www.digi24.ro/stiri/externe/scolile-de-medicina-din-europa-vor-oferi-mai-multa-pregatire-pentru-tratarea-bolilor-legate-de-criza-climatica-2967257) (Digi24.ro)
+
 ## 24-42 (leptospirosis)
 
 - [Leptospirosis cases cause for concern](https://www.bostonherald.com/2024/10/13/leptospirosis-cases-cause-for-concern/) (Boston Herald)
 
 ## 24-42 (h5n1)
+
+- [Le monde n’est toujours pas prêt à faire face au risque d’une nouvelle pandémie](https://www.lesoir.be/629482/article/2024-10-14/le-monde-nest-toujours-pas-pret-faire-face-au-risque-dune-nouvelle-pandemie) (Le Soir)
+
+- [Una nuova pandemia è in agguato? L’allarme: “Già 17 epidemie nel 2024. Il Pil da solo non è una misura della resilienza”](https://www.ilfattoquotidiano.it/2024/10/14/una-nuova-pandemia-e-in-agguato-lallarme-gia-17-epidemie-nel-2024-il-pil-da-solo-non-e-una-misura-della-resilienza/7729972/) (Ilfattoquotidiano.it)
+
+- [Вспышки mpox и Марбург могут говорить об уязвимости мира перед пандемиями](https://tass.ru/obschestvo/22117813) (Tass.ru)
+
+- [‘Awful reality’: Albanese government injects $95 million to fight the latest deadly bird flu](https://theconversation.com/awful-reality-albanese-government-injects-95-million-to-fight-the-latest-deadly-bird-flu-241243) (The Conversation Africa)
 
 - [‘Real and significant threat’: Federal government pledges $95 million to prepare for arrival of deadly bird flu strain H5N1](https://www.skynews.com.au/lifestyle/health/real-and-significant-threat-federal-government-pledges-95-million-to-prepare-for-arrival-of-deadly-bird-flu-strain-h5n1/news-story/b19142b01e36899ca631b650fb092869) (Sky News Australia)
 
@@ -59,6 +151,16 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-42 (dengue)
 
+- [Today’s news in a nutshell](https://english.khabarhub.com/2024/14/405807/) (Khabarhub.com)
+
+- [Chitwan reports over 2,000 new dengue cases](https://english.khabarhub.com/2024/14/405882/) (Khabarhub.com)
+
+- [¿Qué es el dengue con signos de alarma y por qué es de preocupación?](https://www.nacion.com/el-pais/que-es-el-dengue-con-signos-de-alarma-y-por-que-es/TMPFHEPD3BAHRMD623P2666GUE/story/) (Nacion.com)
+
+- [Johor dengue cases jump nearly 40% from last year](https://www.thestar.com.my/news/nation/2024/10/14/johor-dengue-cases-jump-nearly-40-from-last-year) (The Star Online)
+
+- [Școlile de medicină din Europa vor oferi mai multă pregătire pentru tratarea bolilor legate de criza climatică](https://www.digi24.ro/stiri/externe/scolile-de-medicina-din-europa-vor-oferi-mai-multa-pregatire-pentru-tratarea-bolilor-legate-de-criza-climatica-2967257) (Digi24.ro)
+
 - [Bangladesh records highest daily spike of 9 dengue deaths this year](http://en.people.cn/n3/2024/1014/c90000-20229117.html) (People.cn)
 
 - [Dengue deaths, cases in Bacolod increasing further](https://rpnradio.com/dengue-deaths-cases-in-bacolod-increasing-further/) (Rpnradio.com)
@@ -68,6 +170,10 @@ Source: [News API](https://newsapi.org/)
 - [Dengue: 4 more die, 660 hospitalised in 24hrs](https://www.tbsnews.net/bangladesh/health/dengue-4-more-die-660-hospitalised-24hrs-965891) (Tbsnews.net)
 
 - [Dengue: após recorde em casos, volta das chuvas aciona sinal de alerta](https://www.metropoles.com/brasil/dengue-apos-recorde-em-casos-volta-das-chuvas-aciona-sinal-de-alerta) (Metropoles.com)
+
+## 24-42 (chikungunya)
+
+- [Distinct chikungunya virus polymerase palm subdomains contribute to viral protein accumulation and virion production](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011972) (Plos.org)
 
 ## 24-41 (zika)
 
@@ -3281,16 +3387,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Mpox concerns grow in Pakistan as Peshawar reports fifth case](https://economictimes.indiatimes.com/news/international/world-news/mpox-concerns-grow-in-pakistan-as-peshawar-reports-fifth-case/articleshow/112978523.cms) (The Times of India)
 
-- [PAK में Mpox का चौथा केस मिला, विदेश से लौटे थे सभी मरीज, एयरपोर्ट पर बढ़ाई निगरानी](https://www.aajtak.in/world/story/pakistan-fourth-case-of-mpox-found-all-infected-patients-had-returned-from-abroad-increased-surveillance-at-airport-ntc-2027934-2024-09-01) (Aajtak.in)
-
-- [Authorities in Pakistan confirm fourth case of mpox virus](https://economictimes.indiatimes.com/news/international/world-news/authorities-in-pakistan-confirm-fourth-case-of-mpox-virus/articleshow/112971353.cms) (The Times of India)
-
-- [Pak's Peshawar Emerges As 'Epicentre' Of Mpox As Tally Reaches 5: Report](https://www.ndtv.com/world-news/pakistans-peshawar-emerges-as-epicentre-of-mpox-as-tally-reaches-5-report-6467196) (NDTV News)
-
-- [Como a Mpox se espalha e quem corre mais risco? Tire suas dúvidas](https://www.infomoney.com.br/business/global/como-a-mpox-se-espalha-e-quem-corre-mais-risco-tire-suas-duvidas/) (InfoMoney)
-
-- [Mpox : comment la déforestation a favorisé l’épidémie](https://www.sudinfo.be/id875008/article/2024-09-01/mpox-comment-la-deforestation-favorise-lepidemie) (Sudinfo.be)
-
 ## 24-36 (meningitis)
 
 - [Luis Canut lanza un emotivo mensaje a Patricia Pérez por ser su mayor apoyo ante su enfermedad: 'Me salvó la vida'](https://www.bekia.es/celebrities/noticias/luis-canut-lanza-emotivo-mensaje-patricia-perez-apoyo/) (Bekia.es)
@@ -3520,8 +3616,6 @@ Source: [News API](https://newsapi.org/)
 - [One dies of dengue infection in Chitwan](https://english.khabarhub.com/2024/02/393092/) (Khabarhub.com)
 
 - [Bacolod: Province logs 414 dengue cases in a week](https://rpnradio.com/bacolod-province-logs-414-dengue-cases-in-a-week/) (Rpnradio.com)
-
-- [Jaipur sees a surge in dengue cases last week](https://timesofindia.indiatimes.com/city/jaipur/jaipur-sees-a-surge-in-dengue-cases-last-week/articleshow/112965963.cms) (The Times of India)
 
 ## 24-36 (chikungunya)
 

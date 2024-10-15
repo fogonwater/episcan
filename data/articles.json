@@ -1,8 +1,787 @@
 {
-  "last_updated": "2024-10-15 07:06",
-  "count_articles_total": 1594,
-  "count_articles_new": 5,
+  "last_updated": "2024-10-15 19:05",
+  "count_articles_total": 1631,
+  "count_articles_new": 43,
   "articles": [
+    {
+      "id": 14549,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "WPVI-TV",
+      "author": "Yi-jin Yu",
+      "title": "Whooping cough: What parents need to know as cases surge",
+      "description": "Here's what parents should know about this common disease amid the latest outbreak.",
+      "url": "https://6abc.com/post/whooping-cough-what-parents-need-know-cases-surge/15428295/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/15428261_Auscultation-child-img.jpg?w=1600",
+      "publishedAt": "2024-10-14 18:35:14",
+      "content": "Cases of whooping cough, also known as pertussis, are on the rise, according to new data from the Centers for Disease Control and Prevention. Approximately 17,579 whooping cough cases, with the high\u2026 [+2825 chars]",
+      "retrievedAt": "2024-10-15 19:05:37.801378",
+      "internal_id": "2a48f61c6d251574ca0d2880b27aab5eb796fb5d741a92bfb091e4b3d3bc1313",
+      "publishedAtLabel": "Oct 14"
+    },
+    {
+      "id": 14561,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Business Standard",
+      "author": "Press Trust of India",
+      "title": "Delhi sees 55% spike in malaria cases this year so far, no deaths recorded",
+      "description": "The national capital has reported a huge jump in malaria cases this year so far, with infections jumping nearly 55 per cent compared to the corresponding period last year. The city has, however, not recorded any malaria-related deaths so far, according to off\u2026",
+      "url": "https://www.business-standard.com/india-news/delhi-sees-55-spike-in-malaria-cases-this-year-so-far-no-deaths-recorded-124101401188_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2020-01/16/thumb/featurecrop/400X400/1579160449-2568.jpg",
+      "publishedAt": "2024-10-14 17:53:06",
+      "content": "The national capital has reported a huge jump in malaria cases this year so far, with infections jumping nearly 55 per cent compared to the corresponding period last year. The city has, however, not\u2026 [+2482 chars]",
+      "retrievedAt": "2024-10-15 19:05:39.935728",
+      "internal_id": "66babe5260fea3d7e4da3f3a7fb771c07f680391a5a425784d3153fce11087dd",
+      "publishedAtLabel": "Oct 14"
+    },
+    {
+      "id": 14584,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Bedah Mengo, Lin Jing",
+      "title": "Kenya confirms first mpox death as cases rise to 13",
+      "description": "NAIROBI, Oct. 14 (Xinhua) -- Kenya on Monday confirmed its first mpox death, as cases of the disease in the country continue to rise. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2024/10/15/kenya-confirms-first-mpox-death-as-cases-rise-to-13",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2024-10-14 17:42:00",
+      "content": "NAIROBI, Oct. 14 (Xinhua) -- Kenya on Monday confirmed its first mpox death, as cases of the disease in the country continue to rise. Mary Muthoni, principal secretary in the Ministry of Health, sa\u2026 [+1042 chars]",
+      "retrievedAt": "2024-10-15 19:05:41.068428",
+      "internal_id": "9310f29951b8e28d10d66c783628083aee22e5c744391a6caefbcfd91bc95cee",
+      "publishedAtLabel": "Oct 14"
+    },
+    {
+      "id": 14583,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Peter Mutai, Lin Jing",
+      "title": "WHO donates mpox testing kits, medicines for neglected tropical diseases to Kenya",
+      "description": "NAIROBI, Oct. 14 (Xinhua) -- The World Health Organization (WHO) and other donors on Monday donated mpox testing kits and medicines for neglected tropical diseases (NTDs) worth 1.67 million U.S. dollars. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2024/10/15/who-donates-mpox-testing-kits-medicines-for-neglected-tropical-diseases-to-kenya",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2024-10-14 17:27:00",
+      "content": "NAIROBI, Oct. 14 (Xinhua) -- The World Health Organization (WHO) and other donors on Monday donated mpox testing kits and medicines for neglected tropical diseases (NTDs) worth 1.67 million U.S. doll\u2026 [+1463 chars]",
+      "retrievedAt": "2024-10-15 19:05:41.059099",
+      "internal_id": "2185c5365b2112164d32f0bdb31c73c16effcc4d32d91326d48052670bd14a2c",
+      "publishedAtLabel": "Oct 14"
+    },
+    {
+      "id": 14548,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "Yi-jin Yu",
+      "title": "What parents need to know as whooping cough cases surge",
+      "description": "The number of cases is five times higher than in the fall of 2023.",
+      "url": "https://abcnews.go.com/GMA/Wellness/parents-whooping-cough-cases-surge/story?id=114774431",
+      "urlToImage": "https://i.abcnewsfe.com/a/eab96c07-3b64-4c1e-9bc7-11a8d96ca3ce/Whooping-cough-2-as-jm-241014_1728923059060_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2024-10-14 17:14:07",
+      "content": "Cases of whooping cough, also known as pertussis, are on the rise, according to new data from the Centers for Disease Control and Prevention. Approximately 17,579 whooping cough cases, with the high\u2026 [+2823 chars]",
+      "retrievedAt": "2024-10-15 19:05:37.778955",
+      "internal_id": "b225d26c693155ab0e1557f1b9c045a81bf027d1b9519ceff1f20b4b013aa3a5",
+      "publishedAtLabel": "Oct 14"
+    },
+    {
+      "id": 14573,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Forbes.com.mx",
+      "author": "Forbes Staff",
+      "title": "OMS aprueba vacuna de Bavarian Nordic para combatir el mpox en adolescentes",
+      "description": "Forbes M\u00e9xico. OMS aprueba vacuna de Bavarian Nordic para combatir el mpox en adolescentes La OMS hizo p\u00fablico que otorg\u00f3 la precalificaci\u00f3n a la vacuna Jynneos desarrollada por Bavarian Nordic para casos en adolescentes. OMS aprueba vacuna de Bavarian Nord\u2026",
+      "url": "https://forbes.com.mx/oms-aprueba-vacuna-de-bavarian-nordic-para-combatir-el-mpox-en-adolescentes/",
+      "urlToImage": "https://cdn.forbes.com.mx/2024/08/MPOX-1.webp",
+      "publishedAt": "2024-10-14 16:27:30",
+      "content": "La Organizaci\u00f3n Mundial de la Salud (OMS) anunci\u00f3 este lunes que hab\u00eda aprobado la vacuna contra la viruela s\u00edmica, tambi\u00e9n conocida como mpox, desarrollada por Bavarian Nordic para adolescentes de 1\u2026 [+2160 chars]",
+      "retrievedAt": "2024-10-15 19:05:40.961053",
+      "internal_id": "1e90d8718f2c6b7fc909c6af222a18b1383971dbaa90039013bd9515b36ac820",
+      "publishedAtLabel": "Oct 14"
+    },
+    {
+      "id": 14554,
+      "query": [
+        "h5n1",
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Le Soir",
+      "author": "Par Anne-Sophie Leurquin",
+      "title": "Le monde n\u2019est toujours pas pr\u00eat \u00e0 faire face au risque d\u2019une nouvelle pand\u00e9mie",
+      "description": "Alors que 2024 a d\u00e9j\u00e0 vu 17 \u00e9pid\u00e9mies majeures, un rapport d\u2019experts avertit que le monde n\u2019est toujours pas pr\u00eat pour la prochaine pand\u00e9mie. Celle-ci pourrait survenir \u00e0 tout moment, amplifi\u00e9e par des risques croissants dans les domaines sociaux, technologiq\u2026",
+      "url": "https://www.lesoir.be/629482/article/2024-10-14/le-monde-nest-toujours-pas-pret-faire-face-au-risque-dune-nouvelle-pandemie",
+      "urlToImage": "https://leseng.rosselcdn.net/sites/default/files/dpistyles_v2/ena_16_9_extra_big/2024/10/14/node_629482/31641134/public/2024/10/14/27633240.jpeg?itok=tldPhq3M1728922944",
+      "publishedAt": "2024-10-14 16:21:57",
+      "content": "Les r\u00e9centes \u00e9pid\u00e9mies de grippe aviaire (H5N1) qui a touch\u00e9 plusieurs \u00e9levages de vaches laiti\u00e8res aux Etats-Unis ou encore de virus de Marburg au Rwanda, sans oublier le retour du Mpox (anciennemen\u2026 [+465 chars]",
+      "retrievedAt": "2024-10-15 19:05:38.901860",
+      "internal_id": "8e9e587dbbfdd88358f79cfb542de48c02220ad7ec95df875c6e268db52f25ee",
+      "publishedAtLabel": "Oct 14"
+    },
+    {
+      "id": 14559,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "Today\u2019s news in a nutshell",
+      "description": "KATHMANDU: Khabarhub brings you a glimpse of major developments of the day in Nepal, including politics, business/economy, sports, entertainment, and more. Chitwan reports over 2,000 new dengue cases The outbreak of dengue in Chitwan has escalated, with 2,243\u2026",
+      "url": "https://english.khabarhub.com/2024/14/405807/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2024/05/News-Nutshell.jpg",
+      "publishedAt": "2024-10-14 16:15:02",
+      "content": "KATHMANDU: Khabarhub brings you a glimpse of major developments of the day in Nepal, including politics, business/economy, sports, entertainment, and more. Chitwan reports over 2,000 new dengue case\u2026 [+3908 chars]",
+      "retrievedAt": "2024-10-15 19:05:39.370742",
+      "internal_id": "cf507e17039a6cc827432955cbfcd016e61a36523f59bd5a3fd37bb86901952d",
+      "publishedAtLabel": "Oct 14"
+    },
+    {
+      "id": 14575,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "le-monde",
+      "source_name": "Le Monde",
+      "author": "Delphine Roucaute",
+      "title": "Epid\u00e9mie de mpox : d\u00e9but de la vaccination en RDC alors que les cas se multiplient",
+      "description": "Deux mois apr\u00e8s la d\u00e9claration d\u2019urgence de l\u2019Organisation mondiale de la sant\u00e9, l\u2019\u00e9picentre de l\u2019\u00e9pid\u00e9mie vient d\u2019obtenir de premi\u00e8res doses de vaccin, alors que la maladie s\u00e9vit en R\u00e9publique d\u00e9mocratique du Congo depuis cinquante ans.",
+      "url": "https://www.lemonde.fr/planete/article/2024/10/14/epidemie-de-mpox-debut-de-la-vaccination-en-rdc-alors-que-les-cas-se-multiplient_6351681_3244.html",
+      "urlToImage": "https://img.lemde.fr/2024/10/14/0/0/5199/3466/1440/960/60/0/5674a57_1728919389732-000-36jc8a4.jpg",
+      "publishedAt": "2024-10-14 16:10:50",
+      "content": "Un clinicien administre le vaccin contre la mpox \u00e0 un membre du personnel hospitalier lors du lancement de la campagne de vaccination \u00e0 lh\u00f4pital g\u00e9n\u00e9ral de Goma, en R\u00e9publique d\u00e9mocratique du Congo, \u2026 [+2618 chars]",
+      "retrievedAt": "2024-10-15 19:05:40.974709",
+      "internal_id": "96312d4c438be97989599c403ef87da64863a88a0fcd2a1c8ade991e1fff3777",
+      "publishedAtLabel": "Oct 14"
+    },
+    {
+      "id": 14585,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": null,
+      "title": "Guidance: Clade I mpox: affected countries",
+      "description": "This page provides an overview of countries reporting clade I mpox cases (historic or current), indicating where there may be a risk of clade I mpox exposure.",
+      "url": "https://www.gov.uk/guidance/clade-i-mpox-affected-countries",
+      "urlToImage": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png",
+      "publishedAt": "2024-10-14 15:31:20",
+      "content": "Figure 1. African Region countries reporting laboratory confirmed clade I mpox (historic or current) The situation may change rapidly in different countries. It is possible for mpox cases to be repo\u2026 [+1541 chars]",
+      "retrievedAt": "2024-10-15 19:05:41.085616",
+      "internal_id": "9f8cb4ecc2b5429d649b3f1ff6e1b978c6999ae52d038ddc7b43d54628e9cded",
+      "publishedAtLabel": "Oct 14"
+    },
+    {
+      "id": 14577,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": null,
+      "title": "Mpox: Recent Cases, Signs & What To Do If You're At Risk",
+      "description": "Here we share a list of signs to look out for and tips to follow if you are at a high risk of contracting Mpox.",
+      "url": "https://www.ndtv.com/health/mpox-recent-cases-signs-what-to-do-if-youre-at-risk-6788786",
+      "urlToImage": "https://c.ndtvimg.com/2024-09/2e86icjo_mpox_625x300_24_September_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "publishedAt": "2024-10-14 15:22:44",
+      "content": "If you suspect you have Mpox or are experiencing symptoms, seek medical advice promptly Mpox (formerly known as monkeypox) is a viral disease caused by the monkeypox virus, which belongs to the same\u2026 [+3536 chars]",
+      "retrievedAt": "2024-10-15 19:05:40.989778",
+      "internal_id": "42dd56f5db2c7ec0cb8ca90b7c27f1c41d98fbc4fcae5d8b3828cb556c871584",
+      "publishedAtLabel": "Oct 14"
+    },
+    {
+      "id": 14576,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Sudinfo.be",
+      "author": "Par Sudinfo avec Belga",
+      "title": "Le virus Mpox continue son expansion : des cas signal\u00e9s en Zambie et au Ghana",
+      "description": "Deux nouveaux pays africains ont signal\u00e9 des cas du virus mpox au cours des six derni\u00e8res semaines. Cela porte le nombre total de pays \u00e0 16, a annonc\u00e9 l\u2019Organisation mondiale de la sant\u00e9 (OMS) ce lundi \u00e0 Gen\u00e8ve. Des cas ont \u00e9t\u00e9 signal\u00e9s en Zambie et au Ghana \u2026",
+      "url": "https://www.sudinfo.be/id897861/article/2024-10-14/le-virus-mpox-continue-son-expansion-des-cas-signales-en-zambie-et-au-ghana",
+      "urlToImage": "https://spgeng.rosselcdn.net/sites/default/files/dpistyles_v2/FirstImageUrl/2024/10/14/node_897861/55955587/public/2024/10/14/27629065.jpeg?itok=wIqOgaoq1728916745",
+      "publishedAt": "2024-10-14 14:38:34",
+      "content": "Un d\u00e9tenu a contract\u00e9 le mpox dans une prison du centre de lOuganda, \u00e9picentre de la maladie dans le pays, a annonc\u00e9 ce mercredi un responsable de ladministration p\u00e9nitentiaire. Par Sudinfo avec Bel\u2026 [+1489 chars]",
+      "retrievedAt": "2024-10-15 19:05:40.981986",
+      "internal_id": "428d7fb91fa7afc568d3617373c1079ec93b02b54ae1d0502d0f73973ed6bed9",
+      "publishedAtLabel": "Oct 14"
+    },
+    {
+      "id": 14590,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Anews.com.tr",
+      "author": "Dpa",
+      "title": "Mpox spreads to Zambia and Ghana, with 16 countries now affected",
+      "description": "The World Health Organization reported on Monday that Zambia and Ghana have confirmed new cases of mpox, increasing the total number of affected African countries to 16. As of October 6, suspected cases across Africa rose to 36,787, with the Democratic Republ\u2026",
+      "url": "https://www.anews.com.tr/health/2024/10/14/mpox-spreads-to-zambia-and-ghana-with-16-countries-now-affected",
+      "urlToImage": "https://ia.tmgrup.com.tr/bfc0f1/806/378/0/105/1280/704?u=https://i.tmgrup.com.tr/anews/v1/2024/10/14/mpox-spreads-to-zambia-and-ghana-with-16-countries-now-affected-1728913610081.jpeg",
+      "publishedAt": "2024-10-14 14:20:25",
+      "content": "Two more African countries have reported cases of mpox over the past six weeks, bringing the total of affected nations to 16, the World Health Organization (WHO) reported in Geneva on Monday. Cases \u2026 [+1328 chars]",
+      "retrievedAt": "2024-10-15 19:05:41.130734",
+      "internal_id": "dc0cb598360f5b62d9f6bdc04c442fe511c00469afb32c9e37a87e49a1109093",
+      "publishedAtLabel": "Oct 14"
+    },
+    {
+      "id": 14581,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.gva.be",
+      "author": "fdb",
+      "title": "Mpox nu ook in Zambia en Ghana opgedoken",
+      "description": "Nog twee Afrikaanse landen hebben de afgelopen zes weken gevallen van het mpox-virus gemeld. Daarmee komt het totale aantal op zestien landen, zo heeft de Wereldgezondheidsorganisatie (WHO) maandag in Gen\u00e8ve bekendgemaakt. Er werden voor het eerst dit jaar ge\u2026",
+      "url": "https://www.gva.be/cnt/dmf20241014_95137094",
+      "urlToImage": "https://static.gva.be/Assets/Images_Upload/2024/10/14/44e0abb8-575e-4b85-8431-4b139f2916d4.jpg?maxheight=460&maxwidth=629",
+      "publishedAt": "2024-10-14 14:15:58",
+      "content": "Nog twee Afrikaanse landen hebben de afgelopen zes weken gevallen van het mpox-virus gemeld. Daarmee komt het totale aantal op zestien landen, zo heeft de Wereldgezondheidsorganisatie (WHO) maandag i\u2026 [+1651 chars]",
+      "retrievedAt": "2024-10-15 19:05:41.018569",
+      "internal_id": "62452a4f75a07711ee8f0d5175ffd64bed9faba611232311dc560fbd534daa45",
+      "publishedAtLabel": "Oct 14"
+    },
+    {
+      "id": 14558,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "Chitwan reports over 2,000 new dengue cases",
+      "description": "CHITWAN: The outbreak of dengue in Chitwan has escalated, with 2,243 individuals reported to have been infected. Since July, a total of 6,347 people have been tested for the virus. According to the Public Health Office in Chitwan, of the infected, 1,692 are l\u2026",
+      "url": "https://english.khabarhub.com/2024/14/405882/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2022/09/Dengue-1.webp",
+      "publishedAt": "2024-10-14 14:15:03",
+      "content": "CHITWAN: The outbreak of dengue in Chitwan has escalated, with 2,243 individuals reported to have been infected. Since July, a total of 6,347 people have been tested for the virus. According to the\u2026 [+1390 chars]",
+      "retrievedAt": "2024-10-15 19:05:39.364056",
+      "internal_id": "6757f9dd1db38c1f4efe251b3d0094969d1e5be543a92620b95c83a67c50b035",
+      "publishedAtLabel": "Oct 14"
+    },
+    {
+      "id": 14580,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Hbvl.be",
+      "author": "fdb",
+      "title": "Mpox nu ook in Zambia en Ghana opgedoken",
+      "description": "Nog twee Afrikaanse landen hebben de afgelopen zes weken gevallen van het mpox-virus gemeld. Daarmee komt het totale aantal op zestien landen, zo heeft de Wereldgezondheidsorganisatie (WHO) maandag in Gen\u00e8ve bekendgemaakt. Er werden voor het eerst dit jaar ge\u2026",
+      "url": "https://www.hbvl.be/cnt/dmf20241014_95120941",
+      "urlToImage": "https://static.hbvl.be/Assets/Images_Upload/2024/10/14/44e0abb8-575e-4b85-8431-4b139f2916d4.jpg?maxheight=460&maxwidth=629",
+      "publishedAt": "2024-10-14 14:13:12",
+      "content": "Nog twee Afrikaanse landen hebben de afgelopen zes weken gevallen van het mpox-virus gemeld. Daarmee komt het totale aantal op zestien landen, zo heeft de Wereldgezondheidsorganisatie (WHO) maandag i\u2026 [+1378 chars]",
+      "retrievedAt": "2024-10-15 19:05:41.010884",
+      "internal_id": "feb2ab3d348032ef5848d5cac3e60ddc434354ff6db8ed768faa14ba1ae89f57",
+      "publishedAtLabel": "Oct 14"
+    },
+    {
+      "id": 14579,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Nieuwsblad.be",
+      "author": "fdb",
+      "title": "Mpox nu ook in Zambia en Ghana opgedoken",
+      "description": "Nog twee Afrikaanse landen hebben de afgelopen zes weken gevallen van het mpox-virus gemeld. Daarmee komt het totale aantal op zestien landen, zo heeft de Wereldgezondheidsorganisatie (WHO) maandag in Gen\u00e8ve bekendgemaakt. Er werden voor het eerst dit jaar ge\u2026",
+      "url": "https://www.nieuwsblad.be/cnt/dmf20241014_95106503",
+      "urlToImage": "https://static.nieuwsblad.be/Assets/Images_Upload/2024/10/14/44e0abb8-575e-4b85-8431-4b139f2916d4.jpg?maxheight=460&maxwidth=638",
+      "publishedAt": "2024-10-14 14:10:42",
+      "content": "Nog twee Afrikaanse landen hebben de afgelopen zes weken gevallen van het mpox-virus gemeld. Daarmee komt het totale aantal op zestien landen, zo heeft de Wereldgezondheidsorganisatie (WHO) maandag i\u2026 [+1641 chars]",
+      "retrievedAt": "2024-10-15 19:05:41.004288",
+      "internal_id": "f66d23d3422c490a884da1021bbb08cde14e9f997f6dce39effaa8dc10c65440",
+      "publishedAtLabel": "Oct 14"
+    },
+    {
+      "id": 14550,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Shimelis Kebede, Gashaw Beyene, Biruk Akalu, Elias AbaJebel, Isayas Asefa Kebede",
+      "title": "General public knowledge, attitudes, and practices about rabies and associated factors in Gomma district of Jimma zone, southwestern Ethiopia",
+      "description": "Author summary In a comprehensive assessment conducted in the Gomma district of Jimma zone, Ethiopia, the community\u2019s knowledge, attitudes, and practices related to rabies were assessed. While participants generally acknowledged domestic dogs and wild carnivo\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012551",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012551.g004&size=inline",
+      "publishedAt": "2024-10-14 14:00:00",
+      "content": "Introduction Rabies has been known since the beginning of human civilization [1]. It is a Central Nervous System (CNS) disease that is almost invariably fatal once a sign develops [1,2]. The causati\u2026 [+32044 chars]",
+      "retrievedAt": "2024-10-15 19:05:38.103234",
+      "internal_id": "bd8f606d2beb8462e54d52419e60bb0baa9e9d6052cfd31f81c30630a48c02ca",
+      "publishedAtLabel": "Oct 14"
+    },
+    {
+      "id": 14562,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Marie-France Martin, Boris Bonaventure, Nia E. McCray, Olve B. Peersen, Kathryn Rozen-Gagnon, Kenneth A. Stapleford",
+      "title": "Distinct chikungunya virus polymerase palm subdomains contribute to viral protein accumulation and virion production",
+      "description": "Author summary Chikungunya virus (CHIKV) is a re-emerging alphavirus transmitted to humans by mosquitoes. Its replication relies on a polymerase that incorporates a significant number of errors in the new genomes, making it a good candidate to develop vaccine\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011972",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1011972.g008&size=inline",
+      "publishedAt": "2024-10-14 14:00:00",
+      "content": "Introduction Chikungunya virus (CHIKV) is a re-emerging mosquito-borne virus, belonging to the Togaviridae family and the Alphavirus genus. Alphaviruses, which include both arthritogenic viruses lik\u2026 [+91123 chars]",
+      "retrievedAt": "2024-10-15 19:05:40.614175",
+      "internal_id": "e5d9ffa38e86ad909d2a2e911eee7ea2aa841f2755f1d7c95628fb46e54f67e0",
+      "publishedAtLabel": "Oct 14"
+    },
+    {
+      "id": 14565,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Oms, nel 2024 gi\u00e0 verificate 17 epidemie di malattie pericolose",
+      "description": "Solo nel 2024 si sono gi\u00e0 verificate nel mondo 17 epidemie di malattie pericolose e in particolare quelle dovute al virus Marburg, al vaiolo delle scimmie (Mpox) e all'ultimo ceppo di influenza aviaria \"sono un duro promemoria della vulnerabilit\u00e0 del mondo...\u2026",
+      "url": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2024/10/14/oms-nel-2024-gia-verificate-17-epidemie-di-malattie-pericolose_0c4e243e-2693-45ed-93da-fc7a0676f807.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2023/3/1/4551e54f831d5621cb8af26eae255640.jpg",
+      "publishedAt": "2024-10-14 13:37:08",
+      "content": "Solo nel 2024 si sono gi\u00e0 verificate nel mondo 17 epidemie di malattie pericolose e in particolare quelle dovute al virus Marburg, al vaiolo delle scimmie (Mpox) e all'ultimo ceppo di influenza aviar\u2026 [+1759 chars]",
+      "retrievedAt": "2024-10-15 19:05:40.863387",
+      "internal_id": "75f0db990b4cea5b68103024e54961f8c102be50f4aaf045670892a018c3c359",
+      "publishedAtLabel": "Oct 14"
+    },
+    {
+      "id": 14578,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Beth\u00e2nia Nunes",
+      "title": "OMS aprova vacina da Bavarian Nordic contra mpox para adolescentes",
+      "description": "Crian\u00e7as, adolescentes e pessoas com o sistema imunol\u00f3gico comprometido s\u00e3o os mais vulner\u00e1veis \u00e0 infec\u00e7\u00e3o do v\u00edrus mpox",
+      "url": "https://www.metropoles.com/saude/oms-vacina-mpox-adolescentes",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/10/14095513/Mpox-02.jpg",
+      "publishedAt": "2024-10-14 13:04:18",
+      "content": "A Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS) disse nesta segunda-feira (14/10) que aprovou o uso da vacina contra mpox da farmac\u00eautica Bavarian Nordic em adolescentes de 12 a 17 anos. A aprova\u00e7\u00e3o, conhecida\u2026 [+4096 chars]",
+      "retrievedAt": "2024-10-15 19:05:40.997520",
+      "internal_id": "7cf877f7123cb1eb4b94f7f1467689a90075bc7ca62e414d788cb3c257f1e5c8",
+      "publishedAtLabel": "Oct 14"
+    },
+    {
+      "id": 14551,
+      "query": [
+        "h5n1",
+        "zika",
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Ilfattoquotidiano.it",
+      "author": "F. Q.",
+      "title": "Una nuova pandemia \u00e8 in agguato? L\u2019allarme: \u201cGi\u00e0 17 epidemie nel 2024. Il Pil da solo non \u00e8 una misura della resilienza\u201d",
+      "description": "Mpox (vaiolo delle scimmie), l\u2019influenza aviaria H5N1, virus Marburg e altre 14 malattie tra cui Sars, Mers, l\u2019Ebola nell\u2019ovest della Africa, la febbre gialla in Angola e nella Repubblica democratica del Congo, Colera, Zika, ovviamente il Covid e ancora l\u2019Aid\u2026",
+      "url": "https://www.ilfattoquotidiano.it/2024/10/14/una-nuova-pandemia-e-in-agguato-lallarme-gia-17-epidemie-nel-2024-il-pil-da-solo-non-e-una-misura-della-resilienza/7729972/",
+      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2024/01/18/med-1200x630-13-1200x630.jpg",
+      "publishedAt": "2024-10-14 12:30:15",
+      "content": "Roma, 14 ott. (Adnkronos/Labitalia) - Anisa (Associazione Nazionale Imprese Sorveglianza Antincendio) - aderente a Confindustria, nata nel 2009 dallesigenza di tutelare il comparto della sorveglianza\u2026 [+4416 chars]",
+      "retrievedAt": "2024-10-15 19:05:38.851433",
+      "internal_id": "7c468db926ec34a8b7d277d7028ef0d86e15181cd6efc4f79b46babe5ceeb6e6",
+      "publishedAtLabel": "Oct 14"
+    },
+    {
+      "id": 14582,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Helen McCarthy, Doctoral Researcher in Criminology and Sociology, York St John University",
+      "title": "How Mpox anti-vaxx conspiracies target and stigmatise LGBTQ+ people",
+      "description": "Mpox can affect anyone - but unmoderated social media platforms allow homophobic misinformation about the disease to flourish.",
+      "url": "https://theconversation.com/how-mpox-anti-vaxx-conspiracies-target-and-stigmatise-lgbtq-people-239981",
+      "urlToImage": "https://images.theconversation.com/files/623343/original/file-20241003-16-8qssog.jpg?ixlib=rb-4.1.0&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2024-10-14 12:19:33",
+      "content": "According to some conspiracy theorists posting on alternative, uncensored social media networks, Mpox is another \u201cscamdemic\u201d, created by a powerful elite to cull populations and generate profit for \u201c\u2026 [+5105 chars]",
+      "retrievedAt": "2024-10-15 19:05:41.042180",
+      "internal_id": "c6dc04752da12c8925d7ae562fd87348a9303cf4b541ec95c31533acdbc8aec0",
+      "publishedAtLabel": "Oct 14"
+    },
+    {
+      "id": 14553,
+      "query": [
+        "h5n1",
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Tass.ru",
+      "author": null,
+      "title": "\u0412\u0441\u043f\u044b\u0448\u043a\u0438 mpox \u0438 \u041c\u0430\u0440\u0431\u0443\u0440\u0433 \u043c\u043e\u0433\u0443\u0442 \u0433\u043e\u0432\u043e\u0440\u0438\u0442\u044c \u043e\u0431 \u0443\u044f\u0437\u0432\u0438\u043c\u043e\u0441\u0442\u0438 \u043c\u0438\u0440\u0430 \u043f\u0435\u0440\u0435\u0434 \u043f\u0430\u043d\u0434\u0435\u043c\u0438\u044f\u043c\u0438",
+      "description": "\u0412 2024 \u0433\u043e\u0434\u0443 \u043f\u0440\u043e\u0438\u0437\u043e\u0448\u043b\u043e 17 \u0432\u0441\u043f\u044b\u0448\u0435\u043a \u043e\u043f\u0430\u0441\u043d\u044b\u0445 \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0430\u043d\u0438\u0439, \u043e\u0442\u043c\u0435\u0442\u0438\u043b\u0438 \u044d\u043a\u0441\u043f\u0435\u0440\u0442\u044b",
+      "url": "https://tass.ru/obschestvo/22117813",
+      "urlToImage": "https://cdn-storage-media.tass.ru/thumb/ru/obschestvo/22117813?u=2024-10-14T12:14:54.271602",
+      "publishedAt": "2024-10-14 12:14:54",
+      "content": ", 14 . //. , mpox ( ) , (H5N1), . , (), () . , mpox \" \", , , \" 2024 17 \" . - \" \", , , , . , , . , , . , , \" , \". \" , , . , \" , COVID-19, , , , \". \" , , \", - . \" , \", . .",
+      "retrievedAt": "2024-10-15 19:05:38.871102",
+      "internal_id": "b04c743fa46a1d3fe8df7ccfb7e003f421bb002550b2bce33273b14d5a581674",
+      "publishedAtLabel": "Oct 14"
+    },
+    {
+      "id": 14557,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Nacion.com",
+      "author": "Irene Rodr\u00edguez",
+      "title": "\u00bfQu\u00e9 es el dengue con signos de alarma y por qu\u00e9 es de preocupaci\u00f3n?",
+      "description": "En la \u00faltima semana se reportaron 136 pacientes con dengue con signos de alarma en Costa Rica, una semana antes hubo 120. \u00bfQu\u00e9 es y por qu\u00e9 preocupa?",
+      "url": "https://www.nacion.com/el-pais/que-es-el-dengue-con-signos-de-alarma-y-por-que-es/TMPFHEPD3BAHRMD623P2666GUE/story/",
+      "urlToImage": "https://www.nacion.com/resizer/v2/WUB3PIGAGBDKBJCRBM4RWLNMR4.jpg?smart=true&auth=b5c4c381027b4d95ae65285bb17e506f33a870f7be36575cd9db324a0b7b8ebe&width=1440",
+      "publishedAt": "2024-10-14 12:00:00",
+      "content": "El dengue con signos de alarma preocupa a las autoridades y profesionales de salud. En la semana 39 del a\u00f1o (que finaliz\u00f3 el 28 de setiembre) se notificaron 136 casos de esta presentaci\u00f3n de la enfer\u2026 [+4689 chars]",
+      "retrievedAt": "2024-10-15 19:05:39.331297",
+      "internal_id": "75557c57b4f1d1e434c39818d3b1f3ca99923b1294e31f9326b4f837d480542f",
+      "publishedAtLabel": "Oct 14"
+    },
+    {
+      "id": 14560,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Hotnews.ro",
+      "author": "\u0218tefania Gheorghe",
+      "title": "Cum modific\u0103 schimb\u0103rile climatice programa unor \u0219coli de medicin\u0103 din Europa",
+      "description": "Insola\u021bia \u0219i bolile transmise de \u021b\u00e2n\u021bari, precum febra denga sau malaria, vor deveni o parte important\u0103 a materiei la facult\u0103\u021bi de medicin\u0103 din Europa, conform The Guardian. Publica\u021bia scrie c\u0103 programa va fi modificat\u0103 din cauza\u2026",
+      "url": "http://hotnews.ro/cum-modifica-schimbarile-climatice-programa-unor-scoli-de-medicina-din-europa-1812329",
+      "urlToImage": "https://hotnews.ro/wp-content/uploads/2024/07/profimedia-0309284787.jpg",
+      "publishedAt": "2024-10-14 11:35:27",
+      "content": "Insolaia i bolile transmise de \u00e2nari, precum febra denga sau malaria, vor deveni o parte important a materiei la faculti de medicin din Europa, conform The Guardian. Publicaia scrie c programa va fi \u2026 [+1961 chars]",
+      "retrievedAt": "2024-10-15 19:05:39.915348",
+      "internal_id": "f76849ed74f4847c31ea2c58dfe17694ec2536b49db7b8c512ee6555761c8243",
+      "publishedAtLabel": "Oct 14"
+    },
+    {
+      "id": 14564,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "DIE WELT",
+      "author": "WELT",
+      "title": "Mpox breitet sich in Afrika weiter stark aus",
+      "description": "Aus sechzehn afrikanischen L\u00e4ndern melden die Beh\u00f6rden derzeit Mpox-F\u00e4lle. Um den Ausbruch in der Demokratischen Republik Kongo einzud\u00e4mmen, hat man dort mit den Impfungen begonnen.",
+      "url": "https://www.welt.de/gesundheit/article254000060/Mpox-Seuche-breitet-sich-weiter-aus-und-grassiert-jetzt-in-sechzehn-afrikanischen-Laendern.html",
+      "urlToImage": "https://img.welt.de/img/gesundheit/mobile254000058/9647935477-ci16x9-w1200/Kongo-beginnt-mit-Mpox-Impfungen.jpg",
+      "publishedAt": "2024-10-14 11:26:23",
+      "content": "Aus sechzehn afrikanischen L\u00e4ndern melden die Beh\u00f6rden derzeit Mpox-F\u00e4lle. Um den Ausbruch in der Demokratischen Republik Kongo einzud\u00e4mmen, hat man dort mit den Impfungen begonnen.Der Kampf gegen di\u2026 [+2491 chars]",
+      "retrievedAt": "2024-10-15 19:05:40.846807",
+      "internal_id": "3fb6f77b10cd16b059adbc3ad1390c11fa88f9c2f6ac3cf20d6cfd6d1123f9ac",
+      "publishedAtLabel": "Oct 14"
+    },
+    {
+      "id": 14571,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Ilgiornale.it",
+      "author": "redazione@ilgiornale-web.it (Agenzia Adnkronos)",
+      "title": "Da Mpox al virus Marburg, gi\u00e0 17 epidemie pericolose nel 2024: cresce rischio nuova pandemia",
+      "description": "Descrizione contenuto Da Mpox al virus Marburg, gi\u00e0 17 epidemie pericolose nel 2024: cresce rischio nuova pandemia",
+      "url": "https://www.ilgiornale.it/news/adnkronos/mpox-virus-marburg-gi-17-epidemie-pericolose-nel-2024-cresce-2380930.html",
+      "urlToImage": "https://img.ilgcdn.com/sites/default/files/styles/social/public/foto/2024/10/14/Covid_Infermieri_05_Fg_1-0-1940510904.jpg?_=1728904502",
+      "publishedAt": "2024-10-14 11:15:02",
+      "content": "Milano, 14 ott. (Adnkronos Salute) - \"Una pletora di rischi aumenta la probabilit\u00e0 di nuove pandemie\". Il Global Preparedness Monitoring Board (Gpmb), iniziativa sostenuta dall'Organizzazione mondial\u2026 [+4193 chars]",
+      "retrievedAt": "2024-10-15 19:05:40.945400",
+      "internal_id": "1db008776a7cb112da6b27b03376585ec22208d6ee56f8ba46f91ff956e4411a",
+      "publishedAtLabel": "Oct 14"
+    },
+    {
+      "id": 14556,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "REMAR NORDIN",
+      "title": "Johor dengue cases jump nearly 40% from last year",
+      "description": "JOHOR BARU: Johor has recorded a cumulative 11,480 dengue cases as of 41st epidemiological week 41 (ME41) this year. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2024/10/14/johor-dengue-cases-jump-nearly-40-from-last-year",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/10/14/2964076.jpg",
+      "publishedAt": "2024-10-14 11:00:00",
+      "content": "JOHOR BARU: Johor has recorded a cumulative 11,480 dengue cases as of 41st epidemiological week 41 (ME41) this year. Johor health and environment committee chairman Ling Tian Soon said this marks a \u2026 [+1667 chars]",
+      "retrievedAt": "2024-10-15 19:05:39.324635",
+      "internal_id": "5dbd3db703e588eead9a3939aceec5a29845a307094e58346089bf16357fe1b3",
+      "publishedAtLabel": "Oct 14"
+    },
+    {
+      "id": 14586,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Origo.hu",
+      "author": "Origo",
+      "title": "Majomhiml\u0151 elleni olt\u00e1st hagytak j\u00f3v\u00e1, de nem l\u00e9legezhet fel mindenki",
+      "description": "Az Eg\u00e9szs\u00e9g\u00fcgyi Vil\u00e1gszervezet h\u00e9tf\u0151n k\u00f6z\u00f6lte, hogy j\u00f3v\u00e1hagyta a Bavarian Nordic (BAVA.CO), \u00faj mpox (majomhiml\u0151) vakcin\u00e1j\u00e1t a 12 \u00e9s 17 \u00e9v k\u00f6z\u00f6tti serd\u00fcl\u0151k sz\u00e1m\u00e1ra, amely korcsoportot k\u00fcl\u00f6n\u00f6sen vesz\u00e9lyeztetettnek tartj\u00e1k a betegs\u00e9g kit\u00f6r\u00e9seivel szemben, ami gl\u2026",
+      "url": "https://www.origo.hu/nagyvilag/2024/10/majomhimlo-who-oltas-jovahagyas",
+      "urlToImage": "https://cdn.origo.hu/2024/10/CUYZRoiz3PpvOo9FF5qrarJtvi2BdzVUAKDypLPaq7I/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2E4M2RhODE1NzY1NTQ1NjBhZTk1Y2Q4ODczZjYxMTYz.webp",
+      "publishedAt": "2024-10-14 10:38:00",
+      "content": "A WHO k\u00f6zlem\u00e9ny\u00e9ben k\u00f6z\u00f6lte, hogy okt\u00f3ber 8-\u00e1n adta meg a Jynneos vakcina enged\u00e9ly\u00e9t a serd\u00fclk sz\u00e1m\u00e1ra. A WHO augusztusban - k\u00e9t \u00e9ven bel\u00fcl - m\u00e1r m\u00e1sodszor nyilv\u00e1n\u00edtotta glob\u00e1lis k\u00f6zeg\u00e9szs\u00e9g\u00fcgyi v\u2026 [+1770 chars]",
+      "retrievedAt": "2024-10-15 19:05:41.093690",
+      "internal_id": "c0c4b128676e32c11cf15a5874834b8bd53d9cb4a3344b326950c3cae4bd76bb",
+      "publishedAtLabel": "Oct 14"
+    },
+    {
+      "id": 14552,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Michelle Wille, Senior research fellow, The University of Melbourne",
+      "title": "\u2018Awful reality\u2019: Albanese government injects $95 million to fight the latest deadly bird flu",
+      "description": "Millions of migratory birds are arriving on Australian shores this spring. Any one of them could bring the new, deadly strain known as H5N1. Extra government funding will help us prepare and respond.",
+      "url": "https://theconversation.com/awful-reality-albanese-government-injects-95-million-to-fight-the-latest-deadly-bird-flu-241243",
+      "urlToImage": "https://images.theconversation.com/files/625499/original/file-20241014-15-5bg7it.jpg?ixlib=rb-4.1.0&rect=0%2C0%2C6038%2C3014&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2024-10-14 10:34:38",
+      "content": "The Australian government has committed A$95 million to fight a virulent strain of bird flu wreaking havoc globally. With the arrival of millions of migratory birds this spring, there is an increas\u2026 [+6972 chars]",
+      "retrievedAt": "2024-10-15 19:05:38.864643",
+      "internal_id": "1a2b03f0a4ad8e45c6c4ce7c0e3665377f87bacb6b02d649bd8b6774f55416f8",
+      "publishedAtLabel": "Oct 14"
+    },
+    {
+      "id": 14569,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Orf.at",
+      "author": "ORF.at",
+      "title": "Zwei weitere L\u00e4nder in Afrika melden Mpox",
+      "description": "",
+      "url": "https://orf.at/stories/3372725/",
+      "urlToImage": "https://orf.at/mojo/1_4_1/storyserver//news/common/images/og-fallback-news.png",
+      "publishedAt": "2024-10-14 09:50:19",
+      "content": "Der Kampf gegen die Ausbreitung von Mpox zeigt in Afrika noch keine gro\u00dfen Erfolge. Zwei weitere L\u00e4nder haben innerhalb der vergangenen sechs Wochen Mpox-F\u00e4lle gemeldet, wie die Weltgesundheitsorgani\u2026 [+1215 chars]",
+      "retrievedAt": "2024-10-15 19:05:40.909877",
+      "internal_id": "f77bcfb30c3b89d9a75486ed94df346d29a67268b03d46021b53ffc7c3ad69c6",
+      "publishedAtLabel": "Oct 14"
+    },
+    {
+      "id": 14572,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Der Tagesspiegel",
+      "title": "\u201eGesundheitliche Notlage internationaler Tragweite\u201c: Mpox-Virus breitet sich in zwei weiteren afrikanischen L\u00e4ndern aus",
+      "description": "Insgesamt 16 L\u00e4nder in Afrika haben bisher Mpox-F\u00e4lle gemeldet. Trotz Impfungen breitet sich das Virus weiterhin aus und die Fachleute gehen von einer hohen Dunkelziffer aus.",
+      "url": "https://www.tagesspiegel.de/gesundheit/krankheiten-zwei-weitere-lander-in-afrika-melden-mpox-12528905.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/12528902/alternates/BASE_16_9_W1400/1728898776000/mpox-im-kongo.jpeg",
+      "publishedAt": "2024-10-14 09:39:36",
+      "content": "Der Kampf gegen die Ausbreitung von Mpox zeigt in Afrika noch keine gro\u00dfen Erfolge. Zwei weitere L\u00e4nder haben innerhalb der vergangenen sechs Wochen nun Mpox-F\u00e4lle gemeldet, wie die Weltgesundheitsor\u2026 [+1997 chars]",
+      "retrievedAt": "2024-10-15 19:05:40.952149",
+      "internal_id": "5e1ec849d0e4a4e8f59198feca90bcf144a2ca55fd00b07e3e94efef19876901",
+      "publishedAtLabel": "Oct 14"
+    },
+    {
+      "id": 14587,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Der Tagesspiegel",
+      "title": "Krankheiten: Zwei weitere L\u00e4nder in Afrika melden Mpox",
+      "description": "Es wird inzwischen mehr getestet, mehr geimpft und vor allem mehr \u00fcber Gefahren aufgekl\u00e4rt. Aber noch steigt die Zahl der Mpox-F\u00e4lle in Afrika.",
+      "url": "https://www.tagesspiegel.de/wissen/krankheiten-zwei-weitere-lander-in-afrika-melden-mpox-12528905.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/12528902/alternates/BASE_16_9_W1400/1728898776000/mpox-im-kongo.jpeg",
+      "publishedAt": "2024-10-14 09:39:36",
+      "content": "Der Kampf gegen die Ausbreitung von Mpox zeigt in Afrika noch keine gro\u00dfen Erfolge. Zwei weitere L\u00e4nder haben innerhalb der vergangenen sechs Wochen nun Mpox-F\u00e4lle gemeldet, wie die Weltgesundheitsor\u2026 [+2321 chars]",
+      "retrievedAt": "2024-10-15 19:05:41.100598",
+      "internal_id": "0f9ce1bb97622e77d3fccfa5145ca1fc598b3a645b5a87e17b72e5815b760119",
+      "publishedAtLabel": "Oct 14"
+    },
+    {
+      "id": 14563,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "ZEIT ONLINE: News -",
+      "title": "Krankheiten: Zwei weitere L\u00e4nder in Afrika melden Mpox",
+      "description": "Hier finden Sie Informationen zu dem Thema \u201eKrankheiten\u201c. Lesen Sie jetzt \u201eZwei weitere L\u00e4nder in Afrika melden Mpox\u201c.",
+      "url": "https://www.zeit.de/news/2024-10/14/zwei-weitere-laender-in-afrika-melden-mpox",
+      "urlToImage": "https://img.zeit.de/news/2024-10/14/zwei-weitere-laender-in-afrika-melden-mpox-image-group/wide__1300x731",
+      "publishedAt": "2024-10-14 09:38:19",
+      "content": "Der Kampf gegen die Ausbreitung von Mpox zeigt in Afrika noch keine gro\u00dfen Erfolge. Zwei weitere L\u00e4nder haben innerhalb der vergangenen sechs Wochen nun Mpox-F\u00e4lle gemeldet, wie die Weltgesundheitsor\u2026 [+2297 chars]",
+      "retrievedAt": "2024-10-15 19:05:40.838723",
+      "internal_id": "fa9ab636b9f69aec1e1615c29d376e01fbc46beae9d3b09d5f1b367c34326ac6",
+      "publishedAtLabel": "Oct 14"
+    },
+    {
+      "id": 14588,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "Krankheiten: Zwei weitere L\u00e4nder in Afrika melden Mpox",
+      "description": "Genf - Der Kampf gegen die Ausbreitung von Mpox zeigt in Afrika noch keine gro\u00dfen Erfolge. Zwei weitere L\u00e4nder haben innerhalb der vergangenen sechs",
+      "url": "https://www.stern.de/panorama/wissen/krankheiten--zwei-weitere-laender-in-afrika-melden-mpox-35141246.html",
+      "urlToImage": "https://image.stern.de/35141248/t/f5/v1/w1440/r1.7778/-/14--jcnwx7y77pv12axw800h600jpeg---38374776f14bfe74.jpg",
+      "publishedAt": "2024-10-14 09:38:19",
+      "content": "Es wird inzwischen mehr getestet, mehr geimpft und vor allem mehr \u00fcber Gefahren aufgekl\u00e4rt. Aber noch steigt die Zahl der Mpox-F\u00e4lle in Afrika. Der Kampf gegen die Ausbreitung von Mpox zeigt in Afri\u2026 [+1711 chars]",
+      "retrievedAt": "2024-10-15 19:05:41.106787",
+      "internal_id": "66fdb91a31a79daa53d223bb02c008b63a13ca98e60bda747608bf197ee29400",
+      "publishedAtLabel": "Oct 14"
+    },
+    {
+      "id": 14566,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Hotnews.ro",
+      "author": "Sebastian Jucan",
+      "title": "OMS a autorizat vaccinul anti-mpox produs de Bavarian Nordic pentru uz la adolescen\u021bi",
+      "description": "Organiza\u0163ia Mondial\u0103 a S\u0103n\u0103t\u0103\u0163ii (OMS) a anun\u0163at luni c\u0103 a aprobat utilizarea vaccinului anti-mpox de la Bavarian Nordic pentru adolescen\u0163ii cu v\u00e2rste cuprinse \u00eentre 12 \u015fi 17 ani, o grup\u0103 de v\u00e2rst\u0103 considerat\u0103 deosebit de\u2026",
+      "url": "http://hotnews.ro/oms-a-autorizat-vaccinul-anti-mpox-produs-de-bavarian-nordic-pentru-uz-la-adolescenti-1812341",
+      "urlToImage": "https://hotnews.ro/wp-content/uploads/2024/10/profimedia-0713228765.jpg",
+      "publishedAt": "2024-10-14 09:35:22",
+      "content": "Organizaia Mondial a Sntii (OMS) a anunat luni c a aprobat utilizarea vaccinului anti-mpox de la Bavarian Nordic pentru adolescenii cu v\u00e2rste cuprinse \u00eentre 12 i 17 ani, o grup de v\u00e2rst considerat de\u2026 [+1806 chars]",
+      "retrievedAt": "2024-10-15 19:05:40.887335",
+      "internal_id": "d6d310fd0cad5597100586d403ae7f4b03e233ee5ca93dacc35b756670f23c63",
+      "publishedAtLabel": "Oct 14"
+    },
+    {
+      "id": 14570,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Adevarul.ro",
+      "author": "Cornelia Mazilu",
+      "title": "OMS a aprobat un vaccin anti-mpox, boal\u0103 cunoscut\u0103 drept \u201eVariola maimu\u021bei\u201d. Poate fi utilizat la adolescen\u0163ii cu v\u00e2rste \u00eentre 12 \u015fi 17 ani",
+      "description": "Organiza\u021bia Mondial\u0103 a S\u0103n\u0103t\u0103\u021bii a anun\u021bat luni, 14 octombrie, c\u0103 a aprobat vaccinul anti-mpox Bavarian Nordic, pentru adolescen\u021bii cu v\u00e2rste cuprinse \u00eentre 12 \u0219i 17 ani, o grup\u0103 de v\u00e2rst\u0103 considerat\u0103 deosebit de vulnerabil\u0103 la focarele bolii care a declan\u0219at\u2026",
+      "url": "https://adevarul.ro/stiri-interne/sanatate/oms-a-aprobat-un-vaccin-anti-mpox-boala-cunoscuta-2394523.html",
+      "urlToImage": "https://cdn.adh.reperio.news/image-9/9db8ace2-c257-41bc-a664-3a490fe5ed62/index.png?p=f%3Djpeg%26w%3D1200%26h%3D630%26r%3Dcover",
+      "publishedAt": "2024-10-14 09:27:56",
+      "content": "Organizaia Mondial a Sntii a anunat luni, 14 octombrie, c a aprobat vaccinul anti-mpox Bavarian Nordic, pentru adolescenii cu v\u00e2rste cuprinse \u00eentre 12 i 17 ani, o grup de v\u00e2rst considerat deosebit de\u2026 [+1531 chars]",
+      "retrievedAt": "2024-10-15 19:05:40.938821",
+      "internal_id": "6f61a920b007c2027ac74b95aca3aaeba53279c918b66d80d8a2e95dc5a0ab70",
+      "publishedAtLabel": "Oct 14"
+    },
+    {
+      "id": 14567,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.dr.dk",
+      "author": null,
+      "title": "WHO godkender mpox-vaccine til unge",
+      "description": "Det bliver nu muligt for unge mellem 12-17 \u00e5r at blive vaccineret mod mpox, ogs\u00e5 kendt som abekopper.",
+      "url": "https://www.dr.dk/nyheder/seneste/who-godkender-mpox-vaccine-til-unge",
+      "urlToImage": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fapi.dr.dk%2Ffreja%2Fimage%2Fraw%2F317&w=700",
+      "publishedAt": "2024-10-14 09:18:00",
+      "content": "Med over 99 procent af stemmerne optalt, siger Socialdemokraterne i Litauen, at de vil g\u00e5 efter regeringsmagten i det baltiske land. Det siger Vilija Blinkeviciute, leder af Socialdemokraterne (SD),\u2026 [+540 chars]",
+      "retrievedAt": "2024-10-15 19:05:40.894243",
+      "internal_id": "ff9f8acef42b13e8153ecc4fac4d1b0dcd958aee670bce2ce4272558e84e420f",
+      "publishedAtLabel": "Oct 14"
+    },
+    {
+      "id": 14589,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "El mpox se ceba con los ni\u00f1os en \u00c1frica, aunque las lecciones aprendidas con la COVID-19 frenan su expansi\u00f3n",
+      "description": "La expansi\u00f3n de contagios del virus del mpox --antigua viruela del mono-- por el continente africano, especialmente en pa\u00edses como Rep\u00fablica Democr\u00e1tica del Congo (RDC) o Burundi, ha activado las alertas de las principales organizaciones humanitarias, que se\u00f1\u2026",
+      "url": "https://www.infosalus.com/salud-investigacion/noticia-mpox-ceba-ninos-africa-lecciones-aprendidas-covid-19-frenan-expansion-20241014105544.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20241014105544_1200.jpg",
+      "publishedAt": "2024-10-14 08:55:44",
+      "content": "UNICEF focaliza parte de sus esfuerzos en el apoyo psicosocial de los contagiados y trabaja para evitar que se les estigmatice MADRID, 14 Oct. (EUROPA PRESS) - La expansi\u00f3n de contagios del viru\u2026 [+7452 chars]",
+      "retrievedAt": "2024-10-15 19:05:41.114079",
+      "internal_id": "c91bb6076be24b2a6ac3a9849118c71d04ee09bea8c758b3d18598a83d3848e5",
+      "publishedAtLabel": "Oct 14"
+    },
+    {
+      "id": 14574,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Sputniknews.africa",
+      "author": "Sputnik Afrique",
+      "title": "Le Zimbabwe signale ses deux premiers cas de mpox",
+      "description": "D\u2019apr\u00e8s le ministre de la Sant\u00e9, les deux personnes infect\u00e9es sont r\u00e9cemment revenues de voyage \u00e0 l'\u00e9tranger. Elles se trouvent en isolement \u00e0 domicile, relate Newsday.",
+      "url": "https://fr.sputniknews.africa/20241014/le-zimbabwe-signale-ses-deux-premiers-cas-de-mpox-1068671096.html",
+      "urlToImage": "https://cdn1.img.sputniknews.africa/images/sharing/article/fra/1068671096.jpg?10679531171728892051",
+      "publishedAt": "2024-10-14 07:47:30",
+      "content": "https://fr.sputniknews.africa/20241014/le-zimbabwe-signale-ses-deux-premiers-cas-de-mpox-1068671096.html Le Zimbabwe signale ses deux premiers cas de mpox Le Zimbabwe signale ses deux premiers cas \u2026 [+1300 chars]",
+      "retrievedAt": "2024-10-15 19:05:40.967709",
+      "internal_id": "50803bf1e85a6bea5d6f6705ed441d63e7a7c5671628b16027178278af16b640",
+      "publishedAtLabel": "Oct 14"
+    },
+    {
+      "id": 14568,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Politiken.dk",
+      "author": null,
+      "title": "WHO godkender mpox-vaccine til unge",
+      "description": "Mpox-virus, der ogs\u00e5 er kendt som abekopper, giver typisk milde symptomer, men kan v\u00e6re d\u00f8delig.",
+      "url": "https://politiken.dk/danmark/sundhed/art10115857/WHO-godkender-mpox-vaccine-til-unge",
+      "urlToImage": "",
+      "publishedAt": "2024-10-14 07:43:03",
+      "content": "Gem artiklen Gemt L\u00e6st Verdenssundhedsorganisationen (WHO) har mandag godkendt det danske medicinalselskab Bavarian Nordics vaccine mod mpox til unge mellem 12 og 17 \u00e5r. Det skriver WHO i en medd\u2026 [+814 chars]",
+      "retrievedAt": "2024-10-15 19:05:40.902772",
+      "internal_id": "6aa6480609deb964bce386ea5dd1f9268835c2d38fbe1eb757a39ff2492974bd",
+      "publishedAtLabel": "Oct 14"
+    },
+    {
+      "id": 14555,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Digi24.ro",
+      "author": "Alina Popescu",
+      "title": "\u0218colile de medicin\u0103 din Europa vor oferi mai mult\u0103 preg\u0103tire pentru tratarea bolilor legate de criza climatic\u0103",
+      "description": "Bolile transmise de \u021b\u00e2n\u021bari, cum ar fi dengue \u0219i malaria, vor deveni o parte important\u0103 a curriculum-ului din \u0219colile de medicin\u0103 din Europa, pentru a lupta \u00eempotriva schimb\u0103rilor aduse de criza climatic\u0103, informeaz\u0103 The Guardian.",
+      "url": "https://www.digi24.ro/stiri/externe/scolile-de-medicina-din-europa-vor-oferi-mai-multa-pregatire-pentru-tratarea-bolilor-legate-de-criza-climatica-2967257",
+      "urlToImage": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjQl/MkYwNCUyRjI1JTJGMTk2MTY3NF8xOTYx/Njc0X3RhbnRhcmktZ2V0dHlpbWFnZXMu/anBnJnc9MTIwMCZoPTYzMCZ6Yz0xJmhh/c2g9N2E1YTA0NDY3MTg5NTc2YjBiZTZkN2M5ODAzMjE5NTg=.thumb.jpg",
+      "publishedAt": "2024-10-14 07:42:54",
+      "content": "Bolile transmise de \u00e2nari, cum ar fi dengue i malaria, vor deveni o parte important a curriculum-ului din colile de medicin din Europa, pentru a lupta \u00eempotriva schimbrilor aduse de criza climatic, i\u2026 [+1843 chars]",
+      "retrievedAt": "2024-10-15 19:05:39.301144",
+      "internal_id": "ae717763dade686ac5151b7424784b28da5b3930cd1edad6860d25973e35b2c7",
+      "publishedAtLabel": "Oct 14"
+    },
     {
       "id": 14544,
       "query": [
@@ -28657,114 +29436,6 @@
       "content": "El Ministerio de Salud de Per\u00fa (Minsa) confirm\u00f3 la existencia de un caso de meningitis y el seguimiento de otros posibles afectados por un brote de esta enfermedad en una localidad remota de la re\u2026 [+2214 chars]",
       "retrievedAt": "2024-09-03 07:06:27.157147",
       "internal_id": "3e9848a7b4071db2edb3702ff7f3ef0d520124067714b1a62dfb0a367110b6e4",
-      "publishedAtLabel": "Sep 1"
-    },
-    {
-      "id": 13002,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Aajtak.in",
-      "author": "aajtak.in",
-      "title": "PAK \u092e\u0947\u0902 Mpox \u0915\u093e \u091a\u094c\u0925\u093e \u0915\u0947\u0938 \u092e\u093f\u0932\u093e, \u0935\u093f\u0926\u0947\u0936 \u0938\u0947 \u0932\u094c\u091f\u0947 \u0925\u0947 \u0938\u092d\u0940 \u092e\u0930\u0940\u091c, \u090f\u092f\u0930\u092a\u094b\u0930\u094d\u091f \u092a\u0930 \u092c\u0922\u093c\u093e\u0908 \u0928\u093f\u0917\u0930\u093e\u0928\u0940",
-      "description": "\u092a\u093e\u0915\u093f\u0938\u094d\u0924\u093e\u0928 \u0928\u0947 \u090f\u092e\u092a\u0949\u0915\u094d\u0938 \u0938\u0947 \u0928\u093f\u092a\u091f\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u090f\u0939\u0924\u093f\u092f\u093e\u0924\u0940 \u0915\u0926\u092e \u0909\u0920\u093e\u090f \u0939\u0948\u0902. \u0907\u0938\u0947 \u0932\u0947\u0915\u0930 \u090f\u092f\u0930\u092a\u094b\u0930\u094d\u091f \u092a\u0930 \u0938\u0916\u094d\u0924 \u0938\u093f\u0915\u094d\u092f\u094b\u0930\u093f\u091f\u0940 \u0938\u093f\u0938\u094d\u091f\u092e \u0932\u093e\u0917\u0942 \u0915\u093f\u092f\u093e \u0917\u092f\u093e \u0939\u0948, \u0915\u094d\u092f\u094b\u0902\u0915\u093f \u092f\u0939 \u0938\u093e\u092e\u0928\u0947 \u0906\u092f\u093e \u0939\u0948 \u0915\u093f \u090f\u092e\u092a\u0949\u0915\u094d\u0938 \u0935\u093e\u092f\u0930\u0938 \u0938\u0947 \u0938\u0902\u0915\u094d\u0930\u092e\u093f\u0924 \u0938\u092d\u0940 \u092e\u0930\u0940\u091c \u0935\u093f\u0926\u0947\u0936 \u0938\u0947 \u0932\u094c\u091f\u0947 \u0925\u0947.",
-      "url": "https://www.aajtak.in/world/story/pakistan-fourth-case-of-mpox-found-all-infected-patients-had-returned-from-abroad-increased-surveillance-at-airport-ntc-2027934-2024-09-01",
-      "urlToImage": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202409/66d494cfb0004-pakistan-fourth-case-of-mpox-012238510-16x9.png",
-      "publishedAt": "2024-09-01 16:24:21",
-      "content": "MPOX , . - . - . ( ) (PSH) . . . . - , . 19 47 (PIMS) . . PIMS . , . , , . , . 4 . . , .",
-      "retrievedAt": "2024-09-04 07:06:06.004231",
-      "internal_id": "c1c0a2f858fac828940b6fbea65b7f978469b37ed691ba046373e7e23e3bebea",
-      "publishedAtLabel": "Sep 1"
-    },
-    {
-      "id": 12990,
-      "query": [
-        "mpox"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "PTI",
-      "title": "Authorities in Pakistan confirm fourth case of mpox virus",
-      "description": "Pakistan reported its fourth case of monkeypox in Khyber-Pakhtunkhwa province, where three other cases were also confirmed. All patients had returned from abroad, with no local transmission reported. Authorities have implemented strict airport screening. The \u2026",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/authorities-in-pakistan-confirm-fourth-case-of-mpox-virus/articleshow/112971353.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-112971380,width-1200,height-630,imgsize-74546,overlay-economictimes/photo.jpg",
-      "publishedAt": "2024-09-01 14:24:51",
-      "content": "Authorities in Pakistan on Sunday reported another case of monkeypox (mpox) virus amid the confusion about the total number of cases confirmed so far in the country. The fourth case was detected in K\u2026 [+2246 chars]",
-      "retrievedAt": "2024-09-04 07:06:05.932306",
-      "internal_id": "5cef8ac5510c943badb8e476202518f255d1da1ec5ffc95a8244c4b3b13b8696",
-      "publishedAtLabel": "Sep 1"
-    },
-    {
-      "id": 12950,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "NDTV News",
-      "author": null,
-      "title": "Pak's Peshawar Emerges As 'Epicentre' Of Mpox As Tally Reaches 5: Report",
-      "description": "Amid growing concerns over the new strain of mpox virus, Pakistan's Peshawar city has started emerging as the 'epicentre' of the virus, as the fifth mpox case was recorded on Sunday, Geo News reported.",
-      "url": "https://www.ndtv.com/world-news/pakistans-peshawar-emerges-as-epicentre-of-mpox-as-tally-reaches-5-report-6467196",
-      "urlToImage": "https://c.ndtvimg.com/2024-08/1n5d9p5_mpox-reuters_625x300_24_August_24.jpeg",
-      "publishedAt": "2024-09-01 13:50:44",
-      "content": "The mpox virus shows flu-like symptoms and pus-filled lesions (Representational) Islamabad: Amid growing concerns over the new strain of mpox virus, Pakistan's Peshawar city has started emerging as \u2026 [+2390 chars]",
-      "retrievedAt": "2024-09-03 07:06:29.235040",
-      "internal_id": "97f9ccb2060e6d61e34aa9b0c0b1bd8a6ab09cfe9a02837a13e6358e423c6689",
-      "publishedAtLabel": "Sep 1"
-    },
-    {
-      "id": 12930,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "TNN",
-      "title": "Jaipur sees a surge in dengue cases last week",
-      "description": "Jaipur has experienced a rise in dengue cases, with 40 new infections reported in the past week, totaling 300 cases. Statewide, cases increased by 284, with particular concern in Udaipur. Health officials are emphasizing prevention and treatment efforts, with\u2026",
-      "url": "https://timesofindia.indiatimes.com/city/jaipur/jaipur-sees-a-surge-in-dengue-cases-last-week/articleshow/112965963.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-112966030,width-1070,height-580,imgsize-29178,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-09-01 08:36:20",
-      "content": "9 biotin-rich foods to nourish hair, skin and nail",
-      "retrievedAt": "2024-09-02 19:06:00.726670",
-      "internal_id": "88e9aad11b8372588cc5e8f63cf95b221c48b81a550e47444d2934332f11deb5",
-      "publishedAtLabel": "Sep 1"
-    },
-    {
-      "id": 12931,
-      "query": [
-        "mpox"
-      ],
-      "source_id": "info-money",
-      "source_name": "InfoMoney",
-      "author": "darrellchamplin",
-      "title": "Como a Mpox se espalha e quem corre mais risco? Tire suas d\u00favidas",
-      "description": "Entenda o que os cientistas aprenderam sobre o v\u00edrus, que foi recentemente declarado uma emerg\u00eancia de sa\u00fade global The post Como a Mpox se espalha e quem corre mais risco? Tire suas d\u00favidas appeared first on InfoMoney.",
-      "url": "https://www.infomoney.com.br/business/global/como-a-mpox-se-espalha-e-quem-corre-mais-risco-tire-suas-duvidas/",
-      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2024/08/2024-08-13t135812z_488502842_rc2yx8aqv1tn_rtrmadp_3_africa-mpox.webp?fit=1170%2C700&quality=70&strip=all",
-      "publishedAt": "2024-09-01 08:00:00",
-      "content": "Este m\u00eas, a Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS) declarou a Mpox uma emerg\u00eancia de sa\u00fade global. Anteriormente conhecido como monkeypox (var\u00edola dos macacos), o v\u00edrus est\u00e1 se espalhando rapidamente em \u2026 [+5639 chars]",
-      "retrievedAt": "2024-09-02 19:06:04.154812",
-      "internal_id": "bf3fe0c7f4e4539e1faaaf51794580c8e3e4502994583a4077d5a256a2462238",
-      "publishedAtLabel": "Sep 1"
-    },
-    {
-      "id": 12951,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Sudinfo.be",
-      "author": "Par Pauline Govaert avec AFP",
-      "title": "Mpox : comment la d\u00e9forestation a favoris\u00e9 l\u2019\u00e9pid\u00e9mie",
-      "description": "La d\u00e9forestation dans le bassin du Congo, connu comme \u00able poumon de l\u2019Afrique\u00bb, aurait favoris\u00e9 l\u2019\u00e9pid\u00e9mie de Mpox.",
-      "url": "https://www.sudinfo.be/id875008/article/2024-09-01/mpox-comment-la-deforestation-favorise-lepidemie",
-      "urlToImage": "https://spgeng.rosselcdn.net/sites/default/files/dpistyles_v2/FirstImageUrl/2024/09/01/node_875008/55830061/public/2024/09/01/24620914.jpeg?itok=yE0UBvF31725177634",
-      "publishedAt": "2024-09-01 08:00:00",
-      "content": "La recrudescence du mpox en R\u00e9publique d\u00e9mocratique du Congo (RDC), port\u00e9e par le clade 1b qui touche aussi le Burundi, le Kenya, le Rwanda et lOuganda, a incit\u00e9 lOrganisation mondiale de la sant\u00e9 (O\u2026 [+7241 chars]",
-      "retrievedAt": "2024-09-03 07:06:29.241063",
-      "internal_id": "825fd119eae7d39ba7fb596a39d18b8a542c8fb27e2f5aa8cbbb4cfbe3f2e8a6",
       "publishedAtLabel": "Sep 1"
     }
   ]
