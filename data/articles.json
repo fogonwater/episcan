@@ -1,8 +1,98 @@
 {
-  "last_updated": "2024-10-15 19:05",
-  "count_articles_total": 1631,
-  "count_articles_new": 43,
+  "last_updated": "2024-10-16 07:06",
+  "count_articles_total": 1642,
+  "count_articles_new": 5,
   "articles": [
+    {
+      "id": 14595,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Punch Editorial Board",
+      "title": "Hearing loss compounds Africans\u2019 health",
+      "description": "Africa\u2019s damning health profile in preventable diseases and cases such as malaria, infant and maternal mortality, ravaging polio rate, diarrhoea, and other avoidable ailments was compounded recently by the World Health Organisation\u2019s report that 40 million Af\u2026",
+      "url": "https://punchng.com/hearing-loss-compounds-africans-health/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2024/10/15003725/iStock-510566859.jpg",
+      "publishedAt": "2024-10-14 23:51:31",
+      "content": "Africas damning health profile in preventable diseases and cases such as malaria, infant and maternal mortality, ravaging polio rate, diarrhoea, and other avoidable ailments was compounded recently b\u2026 [+4676 chars]",
+      "retrievedAt": "2024-10-16 07:06:54.522615",
+      "internal_id": "280028bbf199f9481ef9cc4f1c6117dc8d96389f6b277fa6306dd4972d0aeb97",
+      "publishedAtLabel": "Oct 14"
+    },
+    {
+      "id": 14592,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Thenightly.com.au",
+      "author": "The Nightly",
+      "title": "Bird flu health warning: Government to spend $95 million with latest strain to bring 'genuine risks to people\u2019",
+      "description": "People are being urged to become aware of what they need to do if they come into contact with a particular strain of the bird flu.",
+      "url": "https://thenightly.com.au/australia/bird-flu-health-warning-government-to-spend-95-million-with-latest-strain-to-bring-genuine-risks-to-people--c-16394300",
+      "urlToImage": "https://images.thenightly.com.au/publication/C-16394300/c4da3270d48c937de72148bb7654ced1484699a6-16x9-x0y147w800h450.jpg?imwidth=1200",
+      "publishedAt": "2024-10-14 22:14:47",
+      "content": "Australians are being urged not to become complacent with a deadly strain of bird flu, as the virus poses genuine risks to people. As the nation braces for the arrival of the H5N1 strain of avian in\u2026 [+1794 chars]",
+      "retrievedAt": "2024-10-16 07:06:53.599553",
+      "internal_id": "aac3800bc99a9fb7941a08c7051797b63509d6d2be5bcb07085d7709b450d074",
+      "publishedAtLabel": "Oct 14"
+    },
+    {
+      "id": 14594,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Nacion.com",
+      "author": "Irene Rodr\u00edguez",
+      "title": "Seis menores con dengue grave atendidos en Hospital de Ni\u00f1os",
+      "description": "El dengue grave ha enviado a seis menores al Hospital Nacional de Ni\u00f1os, cinco ya se recuperaron; 2024 se encamina a ser a\u00f1o con m\u00e1s dengue en la historia",
+      "url": "https://www.nacion.com/el-pais/seis-menores-con-dengue-grave-atendidos-en/VFO6OCNBZVFQJBA644FIR6XPVE/story/",
+      "urlToImage": "https://www.nacion.com/resizer/v2/4E2NGUXFLFB6BIXACUCY3X4WPI.jpg?smart=true&auth=9c898c91a3e8d0d321568e3a45c4868b247e2f86508d4769334920c4ef5505d6&width=1440",
+      "publishedAt": "2024-10-14 22:04:50",
+      "content": "En lo que va de 2024, seis menores han ingresado al Hospital Nacional de Ni\u00f1os (HNN) con dengue grave. Cinco ya est\u00e1n fuera de peligro y recuperados. El dengue grave, anteriormente llamado dengue he\u2026 [+3502 chars]",
+      "retrievedAt": "2024-10-16 07:06:53.993328",
+      "internal_id": "9dc6b2a4989e662a8bc495c6b87992bbfee4fefc387dfc259e12c7cbf8db7c6b",
+      "publishedAtLabel": "Oct 14"
+    },
+    {
+      "id": 14591,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "7NEWS.com.au",
+      "author": "7news",
+      "title": "Dire warning as Australia braces for arrival of deadly H5N1 bird flu strain, a threat to native wildlife and public health",
+      "description": "Dire warning as Australia braces for arrival of deadly H5N1 bird flu strain, a threat to native wildlife and public health7news.com.au",
+      "url": "https://7news.com.au/news/australia-braces-for-arrival-of-deadly-bird-flu-strain-c-16395051",
+      "urlToImage": "https://images.7news.com.au/publication/C-16395051/ab6e7e7d25f555aa229265985023c2b5be1dfe58-16x9-x0y325w6240h3510.jpg?imwidth=1200",
+      "publishedAt": "2024-10-14 21:22:43",
+      "content": "Australians are being urged not to become complacent with a deadly strain of bird flu, as the virus poses genuine risks to people. As the nation braces for the arrival of the H5N1 strain of avian in\u2026 [+1777 chars]",
+      "retrievedAt": "2024-10-16 07:06:53.572634",
+      "internal_id": "3e3b3d1a446e7032689597a7503b96e98e7ad1c46b523aa7e9604538a676917c",
+      "publishedAtLabel": "Oct 14"
+    },
+    {
+      "id": 14593,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "Alejandro Horvat",
+      "title": "\u00bfCircular\u00e1n los cuatro serotipos? El riesgo que advierten los especialistas frente a la pr\u00f3xima temporada de dengue",
+      "description": "Los expertos se\u00f1alan que ya hay coexistencia de las cepas en pa\u00edses lim\u00edtrofes; estiman que este escenario se podr\u00eda presentar en la Argentina",
+      "url": "https://www.lanacion.com.ar/sociedad/circularan-los-cuatro-serotipos-el-riesgo-que-advierten-los-especialistas-frente-a-la-proxima-nid14102024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/las-reinfecciones-el-mayor-peligro-frente-a-la-LEBMWTEDWFHL5MURVGIPNZRGXE.jpg?auth=9f807804cab8b892fb8b996cfccbfb998172079fdcf81345b9d860531abace1a&width=768&quality=70&smart=false",
+      "publishedAt": "2024-10-14 19:13:20",
+      "content": "El verano pr\u00f3ximo traer\u00eda consigo una amenaza in\u00e9dita en t\u00e9rminos de salud p\u00fablica: se estima que los cuatro serotipos de dengue (DEN1, DEN2, DEN3 y DEN4) estar\u00e1n en circulaci\u00f3n en el pa\u00eds. Esto impl\u2026 [+5052 chars]",
+      "retrievedAt": "2024-10-16 07:06:53.976705",
+      "internal_id": "488d0819f177b838b42e3c12c041289ed9c02839cb1539b67c243357c759fad1",
+      "publishedAtLabel": "Oct 14"
+    },
     {
       "id": 14549,
       "query": [
@@ -29436,6 +29526,114 @@
       "content": "El Ministerio de Salud de Per\u00fa (Minsa) confirm\u00f3 la existencia de un caso de meningitis y el seguimiento de otros posibles afectados por un brote de esta enfermedad en una localidad remota de la re\u2026 [+2214 chars]",
       "retrievedAt": "2024-09-03 07:06:27.157147",
       "internal_id": "3e9848a7b4071db2edb3702ff7f3ef0d520124067714b1a62dfb0a367110b6e4",
+      "publishedAtLabel": "Sep 1"
+    },
+    {
+      "id": 13002,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Aajtak.in",
+      "author": "aajtak.in",
+      "title": "PAK \u092e\u0947\u0902 Mpox \u0915\u093e \u091a\u094c\u0925\u093e \u0915\u0947\u0938 \u092e\u093f\u0932\u093e, \u0935\u093f\u0926\u0947\u0936 \u0938\u0947 \u0932\u094c\u091f\u0947 \u0925\u0947 \u0938\u092d\u0940 \u092e\u0930\u0940\u091c, \u090f\u092f\u0930\u092a\u094b\u0930\u094d\u091f \u092a\u0930 \u092c\u0922\u093c\u093e\u0908 \u0928\u093f\u0917\u0930\u093e\u0928\u0940",
+      "description": "\u092a\u093e\u0915\u093f\u0938\u094d\u0924\u093e\u0928 \u0928\u0947 \u090f\u092e\u092a\u0949\u0915\u094d\u0938 \u0938\u0947 \u0928\u093f\u092a\u091f\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u090f\u0939\u0924\u093f\u092f\u093e\u0924\u0940 \u0915\u0926\u092e \u0909\u0920\u093e\u090f \u0939\u0948\u0902. \u0907\u0938\u0947 \u0932\u0947\u0915\u0930 \u090f\u092f\u0930\u092a\u094b\u0930\u094d\u091f \u092a\u0930 \u0938\u0916\u094d\u0924 \u0938\u093f\u0915\u094d\u092f\u094b\u0930\u093f\u091f\u0940 \u0938\u093f\u0938\u094d\u091f\u092e \u0932\u093e\u0917\u0942 \u0915\u093f\u092f\u093e \u0917\u092f\u093e \u0939\u0948, \u0915\u094d\u092f\u094b\u0902\u0915\u093f \u092f\u0939 \u0938\u093e\u092e\u0928\u0947 \u0906\u092f\u093e \u0939\u0948 \u0915\u093f \u090f\u092e\u092a\u0949\u0915\u094d\u0938 \u0935\u093e\u092f\u0930\u0938 \u0938\u0947 \u0938\u0902\u0915\u094d\u0930\u092e\u093f\u0924 \u0938\u092d\u0940 \u092e\u0930\u0940\u091c \u0935\u093f\u0926\u0947\u0936 \u0938\u0947 \u0932\u094c\u091f\u0947 \u0925\u0947.",
+      "url": "https://www.aajtak.in/world/story/pakistan-fourth-case-of-mpox-found-all-infected-patients-had-returned-from-abroad-increased-surveillance-at-airport-ntc-2027934-2024-09-01",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202409/66d494cfb0004-pakistan-fourth-case-of-mpox-012238510-16x9.png",
+      "publishedAt": "2024-09-01 16:24:21",
+      "content": "MPOX , . - . - . ( ) (PSH) . . . . - , . 19 47 (PIMS) . . PIMS . , . , , . , . 4 . . , .",
+      "retrievedAt": "2024-09-04 07:06:06.004231",
+      "internal_id": "c1c0a2f858fac828940b6fbea65b7f978469b37ed691ba046373e7e23e3bebea",
+      "publishedAtLabel": "Sep 1"
+    },
+    {
+      "id": 12990,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "PTI",
+      "title": "Authorities in Pakistan confirm fourth case of mpox virus",
+      "description": "Pakistan reported its fourth case of monkeypox in Khyber-Pakhtunkhwa province, where three other cases were also confirmed. All patients had returned from abroad, with no local transmission reported. Authorities have implemented strict airport screening. The \u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/authorities-in-pakistan-confirm-fourth-case-of-mpox-virus/articleshow/112971353.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-112971380,width-1200,height-630,imgsize-74546,overlay-economictimes/photo.jpg",
+      "publishedAt": "2024-09-01 14:24:51",
+      "content": "Authorities in Pakistan on Sunday reported another case of monkeypox (mpox) virus amid the confusion about the total number of cases confirmed so far in the country. The fourth case was detected in K\u2026 [+2246 chars]",
+      "retrievedAt": "2024-09-04 07:06:05.932306",
+      "internal_id": "5cef8ac5510c943badb8e476202518f255d1da1ec5ffc95a8244c4b3b13b8696",
+      "publishedAtLabel": "Sep 1"
+    },
+    {
+      "id": 12950,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": null,
+      "title": "Pak's Peshawar Emerges As 'Epicentre' Of Mpox As Tally Reaches 5: Report",
+      "description": "Amid growing concerns over the new strain of mpox virus, Pakistan's Peshawar city has started emerging as the 'epicentre' of the virus, as the fifth mpox case was recorded on Sunday, Geo News reported.",
+      "url": "https://www.ndtv.com/world-news/pakistans-peshawar-emerges-as-epicentre-of-mpox-as-tally-reaches-5-report-6467196",
+      "urlToImage": "https://c.ndtvimg.com/2024-08/1n5d9p5_mpox-reuters_625x300_24_August_24.jpeg",
+      "publishedAt": "2024-09-01 13:50:44",
+      "content": "The mpox virus shows flu-like symptoms and pus-filled lesions (Representational) Islamabad: Amid growing concerns over the new strain of mpox virus, Pakistan's Peshawar city has started emerging as \u2026 [+2390 chars]",
+      "retrievedAt": "2024-09-03 07:06:29.235040",
+      "internal_id": "97f9ccb2060e6d61e34aa9b0c0b1bd8a6ab09cfe9a02837a13e6358e423c6689",
+      "publishedAtLabel": "Sep 1"
+    },
+    {
+      "id": 12930,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TNN",
+      "title": "Jaipur sees a surge in dengue cases last week",
+      "description": "Jaipur has experienced a rise in dengue cases, with 40 new infections reported in the past week, totaling 300 cases. Statewide, cases increased by 284, with particular concern in Udaipur. Health officials are emphasizing prevention and treatment efforts, with\u2026",
+      "url": "https://timesofindia.indiatimes.com/city/jaipur/jaipur-sees-a-surge-in-dengue-cases-last-week/articleshow/112965963.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-112966030,width-1070,height-580,imgsize-29178,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-09-01 08:36:20",
+      "content": "9 biotin-rich foods to nourish hair, skin and nail",
+      "retrievedAt": "2024-09-02 19:06:00.726670",
+      "internal_id": "88e9aad11b8372588cc5e8f63cf95b221c48b81a550e47444d2934332f11deb5",
+      "publishedAtLabel": "Sep 1"
+    },
+    {
+      "id": 12931,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "info-money",
+      "source_name": "InfoMoney",
+      "author": "darrellchamplin",
+      "title": "Como a Mpox se espalha e quem corre mais risco? Tire suas d\u00favidas",
+      "description": "Entenda o que os cientistas aprenderam sobre o v\u00edrus, que foi recentemente declarado uma emerg\u00eancia de sa\u00fade global The post Como a Mpox se espalha e quem corre mais risco? Tire suas d\u00favidas appeared first on InfoMoney.",
+      "url": "https://www.infomoney.com.br/business/global/como-a-mpox-se-espalha-e-quem-corre-mais-risco-tire-suas-duvidas/",
+      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2024/08/2024-08-13t135812z_488502842_rc2yx8aqv1tn_rtrmadp_3_africa-mpox.webp?fit=1170%2C700&quality=70&strip=all",
+      "publishedAt": "2024-09-01 08:00:00",
+      "content": "Este m\u00eas, a Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS) declarou a Mpox uma emerg\u00eancia de sa\u00fade global. Anteriormente conhecido como monkeypox (var\u00edola dos macacos), o v\u00edrus est\u00e1 se espalhando rapidamente em \u2026 [+5639 chars]",
+      "retrievedAt": "2024-09-02 19:06:04.154812",
+      "internal_id": "bf3fe0c7f4e4539e1faaaf51794580c8e3e4502994583a4077d5a256a2462238",
+      "publishedAtLabel": "Sep 1"
+    },
+    {
+      "id": 12951,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Sudinfo.be",
+      "author": "Par Pauline Govaert avec AFP",
+      "title": "Mpox : comment la d\u00e9forestation a favoris\u00e9 l\u2019\u00e9pid\u00e9mie",
+      "description": "La d\u00e9forestation dans le bassin du Congo, connu comme \u00able poumon de l\u2019Afrique\u00bb, aurait favoris\u00e9 l\u2019\u00e9pid\u00e9mie de Mpox.",
+      "url": "https://www.sudinfo.be/id875008/article/2024-09-01/mpox-comment-la-deforestation-favorise-lepidemie",
+      "urlToImage": "https://spgeng.rosselcdn.net/sites/default/files/dpistyles_v2/FirstImageUrl/2024/09/01/node_875008/55830061/public/2024/09/01/24620914.jpeg?itok=yE0UBvF31725177634",
+      "publishedAt": "2024-09-01 08:00:00",
+      "content": "La recrudescence du mpox en R\u00e9publique d\u00e9mocratique du Congo (RDC), port\u00e9e par le clade 1b qui touche aussi le Burundi, le Kenya, le Rwanda et lOuganda, a incit\u00e9 lOrganisation mondiale de la sant\u00e9 (O\u2026 [+7241 chars]",
+      "retrievedAt": "2024-09-03 07:06:29.241063",
+      "internal_id": "825fd119eae7d39ba7fb596a39d18b8a542c8fb27e2f5aa8cbbb4cfbe3f2e8a6",
       "publishedAtLabel": "Sep 1"
     }
   ]

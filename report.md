@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 43
-- **Last harvest:** 2024-10-15 19:05
-- **Most recent article:** 2024-10-14 18:35:14
+- **New articles in last harvest:** 5
+- **Last harvest:** 2024-10-16 07:06
+- **Most recent article:** 2024-10-14 23:51:31
 
 ---
 
@@ -12,10 +12,10 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-36 | 24-37 | 24-38 | 24-39 | 24-40 | 24-41 | 24-42 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 170 | 192 | 140 | 122 | 128 | 42 | 35 | 829 |
-| dengue | 46 | 76 | 73 | 49 | 51 | 35 | 10 | 340 |
-| h5n1 | 31 | 10 | 17 | 35 | 50 | 10 | 8 | 161 |
-| malaria | 13 | 12 | 15 | 24 | 10 | 13 | 3 | 90 |
+| mpox | 175 | 192 | 140 | 122 | 128 | 42 | 35 | 834 |
+| dengue | 47 | 76 | 73 | 49 | 51 | 35 | 12 | 343 |
+| h5n1 | 31 | 10 | 17 | 35 | 50 | 10 | 10 | 163 |
+| malaria | 13 | 12 | 15 | 24 | 10 | 13 | 4 | 91 |
 | rabies | 7 | 5 | 13 | 25 | 30 | 6 | 1 | 87 |
 | meningitis | 6 | 3 | 10 | 6 | 11 | 2 | 0 | 38 |
 | chikungunya | 4 | 13 | 9 | 3 | 3 | 3 | 1 | 36 |
@@ -121,6 +121,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-42 (malaria)
 
+- [Hearing loss compounds Africans’ health](https://punchng.com/hearing-loss-compounds-africans-health/) (The Punch)
+
 - [Delhi sees 55% spike in malaria cases this year so far, no deaths recorded](https://www.business-standard.com/india-news/delhi-sees-55-spike-in-malaria-cases-this-year-so-far-no-deaths-recorded-124101401188_1.html) (Business Standard)
 
 - [Cum modifică schimbările climatice programa unor școli de medicină din Europa](http://hotnews.ro/cum-modifica-schimbarile-climatice-programa-unor-scoli-de-medicina-din-europa-1812329) (Hotnews.ro)
@@ -132,6 +134,10 @@ Source: [News API](https://newsapi.org/)
 - [Leptospirosis cases cause for concern](https://www.bostonherald.com/2024/10/13/leptospirosis-cases-cause-for-concern/) (Boston Herald)
 
 ## 24-42 (h5n1)
+
+- [Bird flu health warning: Government to spend $95 million with latest strain to bring 'genuine risks to people’](https://thenightly.com.au/australia/bird-flu-health-warning-government-to-spend-95-million-with-latest-strain-to-bring-genuine-risks-to-people--c-16394300) (Thenightly.com.au)
+
+- [Dire warning as Australia braces for arrival of deadly H5N1 bird flu strain, a threat to native wildlife and public health](https://7news.com.au/news/australia-braces-for-arrival-of-deadly-bird-flu-strain-c-16395051) (7NEWS.com.au)
 
 - [Le monde n’est toujours pas prêt à faire face au risque d’une nouvelle pandémie](https://www.lesoir.be/629482/article/2024-10-14/le-monde-nest-toujours-pas-pret-faire-face-au-risque-dune-nouvelle-pandemie) (Le Soir)
 
@@ -150,6 +156,10 @@ Source: [News API](https://newsapi.org/)
 - [Labor sets out $95 million to combat potential arrival of deadly bird flu strain H5N1](https://www.abc.net.au/news/2024-10-13/labor-announces-95m-in-funding-for-bird-flu-h5n1/104467622) (ABC News (AU))
 
 ## 24-42 (dengue)
+
+- [Seis menores con dengue grave atendidos en Hospital de Niños](https://www.nacion.com/el-pais/seis-menores-con-dengue-grave-atendidos-en/VFO6OCNBZVFQJBA644FIR6XPVE/story/) (Nacion.com)
+
+- [¿Circularán los cuatro serotipos? El riesgo que advierten los especialistas frente a la próxima temporada de dengue](https://www.lanacion.com.ar/sociedad/circularan-los-cuatro-serotipos-el-riesgo-que-advierten-los-especialistas-frente-a-la-proxima-nid14102024/) (La Nacion)
 
 - [Today’s news in a nutshell](https://english.khabarhub.com/2024/14/405807/) (Khabarhub.com)
 
@@ -3387,6 +3397,16 @@ Source: [News API](https://newsapi.org/)
 
 - [Mpox concerns grow in Pakistan as Peshawar reports fifth case](https://economictimes.indiatimes.com/news/international/world-news/mpox-concerns-grow-in-pakistan-as-peshawar-reports-fifth-case/articleshow/112978523.cms) (The Times of India)
 
+- [PAK में Mpox का चौथा केस मिला, विदेश से लौटे थे सभी मरीज, एयरपोर्ट पर बढ़ाई निगरानी](https://www.aajtak.in/world/story/pakistan-fourth-case-of-mpox-found-all-infected-patients-had-returned-from-abroad-increased-surveillance-at-airport-ntc-2027934-2024-09-01) (Aajtak.in)
+
+- [Authorities in Pakistan confirm fourth case of mpox virus](https://economictimes.indiatimes.com/news/international/world-news/authorities-in-pakistan-confirm-fourth-case-of-mpox-virus/articleshow/112971353.cms) (The Times of India)
+
+- [Pak's Peshawar Emerges As 'Epicentre' Of Mpox As Tally Reaches 5: Report](https://www.ndtv.com/world-news/pakistans-peshawar-emerges-as-epicentre-of-mpox-as-tally-reaches-5-report-6467196) (NDTV News)
+
+- [Como a Mpox se espalha e quem corre mais risco? Tire suas dúvidas](https://www.infomoney.com.br/business/global/como-a-mpox-se-espalha-e-quem-corre-mais-risco-tire-suas-duvidas/) (InfoMoney)
+
+- [Mpox : comment la déforestation a favorisé l’épidémie](https://www.sudinfo.be/id875008/article/2024-09-01/mpox-comment-la-deforestation-favorise-lepidemie) (Sudinfo.be)
+
 ## 24-36 (meningitis)
 
 - [Luis Canut lanza un emotivo mensaje a Patricia Pérez por ser su mayor apoyo ante su enfermedad: 'Me salvó la vida'](https://www.bekia.es/celebrities/noticias/luis-canut-lanza-emotivo-mensaje-patricia-perez-apoyo/) (Bekia.es)
@@ -3616,6 +3636,8 @@ Source: [News API](https://newsapi.org/)
 - [One dies of dengue infection in Chitwan](https://english.khabarhub.com/2024/02/393092/) (Khabarhub.com)
 
 - [Bacolod: Province logs 414 dengue cases in a week](https://rpnradio.com/bacolod-province-logs-414-dengue-cases-in-a-week/) (Rpnradio.com)
+
+- [Jaipur sees a surge in dengue cases last week](https://timesofindia.indiatimes.com/city/jaipur/jaipur-sees-a-surge-in-dengue-cases-last-week/articleshow/112965963.cms) (The Times of India)
 
 ## 24-36 (chikungunya)
 
