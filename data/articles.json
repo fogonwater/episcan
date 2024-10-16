@@ -1,8 +1,260 @@
 {
-  "last_updated": "2024-10-16 07:06",
-  "count_articles_total": 1642,
-  "count_articles_new": 5,
+  "last_updated": "2024-10-16 19:05",
+  "count_articles_total": 1650,
+  "count_articles_new": 14,
   "articles": [
+    {
+      "id": 14608,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "La OMS conf\u00eda en poder parar el brote de mpox en \u00c1frica, pero pide m\u00e1s fondos",
+      "description": "El 88 % de los casos se dan en la regi\u00f3n de \u00c1frica central y RDC sigue siendo el epicentro del brote.",
+      "url": "https://www.montevideo.com.uy/Salud/La-OMS-confia-en-poder-parar-el-brote-de-mpox-en-Africa-pero-pide-mas-fondos-uc903349",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202408/_W933_80/891795.jpg",
+      "publishedAt": "2024-10-15 17:20:00",
+      "content": "La Organizaci\u00f3n Mundial de la Salud (OMS) expres\u00f3 este martes su confianza en poder parar la mpox (viruela s\u00edmica) en \u00c1frica, pero pidi\u00f3 m\u00e1s fondos para poder hacerlo en un continente enorme, donde\u2026 [+3701 chars]",
+      "retrievedAt": "2024-10-16 19:05:54.873315",
+      "internal_id": "c3f6b382da6904930ade1440dfc5bb0c495e737d4f35ec9b662d5ada5e5084d2",
+      "publishedAtLabel": "Oct 15"
+    },
+    {
+      "id": 14600,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Francetvinfo.fr",
+      "author": "France 3 Rh\u00f4ne-Alpes",
+      "title": "Sanofi annonce l'arr\u00eat de la production et la commercialisation du vaccin contre la dengue d'ici 2026",
+      "description": "Sanofi ne produira bient\u00f4t plus de vaccin contre la dengue. Faible demande ou probl\u00e8mes de qualit\u00e9, la production et la commercialisation du vaccin Dengvaxia va d\u00e9finitivement s'arr\u00eater \u00e0 compter d'ao\u00fbt 2026 \u00e0 Neuvilles-sur-Sa\u00f4ne, pr\u00e8s de Lyon.",
+      "url": "https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/rhone/lyon/sanofi-annonce-l-arret-de-la-production-et-la-commercialisation-du-vaccin-contre-la-dengue-d-ici-2026-3045850.html",
+      "urlToImage": "https://france3-regions.francetvinfo.fr/image/ekpq0mXvxUfEUUWlnfoGjZaBxKY/930x620/regions/2024/10/15/maxnewsfr118625-670e9ec823ff1000768307.jpg",
+      "publishedAt": "2024-10-15 17:07:28",
+      "content": "Sanofi ne produira bient\u00f4t plus de vaccin contre la dengue. Faible demande ou probl\u00e8mes de qualit\u00e9, la production et la commercialisation du vaccin Dengvaxia va d\u00e9finitivement s'arr\u00eater \u00e0 compter d'a\u2026 [+2767 chars]",
+      "retrievedAt": "2024-10-16 19:05:52.515359",
+      "internal_id": "5cc1831c3cf8cf1dd6bf339fa8cd2133242d9af2d9e560fc1e1f49ba6cad5cc9",
+      "publishedAtLabel": "Oct 15"
+    },
+    {
+      "id": 14602,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Samuel Okiror, Nie Zuguo",
+      "title": "Uganda mulls adding malaria vaccine to routine immunization scheme",
+      "description": "KAMPALA, Oct. 15 (Xinhua) -- Uganda's Ministry of Health said on Tuesday that a malaria vaccine would be added to the country's routine immunization schedule to fight the killer disease and reduce the child mortality rate. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2024/10/16/uganda-mulls-adding-malaria-vaccine-to-routine-immunization-scheme",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2024-10-15 16:22:00",
+      "content": "KAMPALA, Oct. 15 (Xinhua) -- Uganda's Ministry of Health said on Tuesday that a malaria vaccine would be added to the country's routine immunization schedule to fight the killer disease and reduce th\u2026 [+1037 chars]",
+      "retrievedAt": "2024-10-16 19:05:53.424763",
+      "internal_id": "2db1fc1c29101dcea26006b4bc022053a4d1532ba60eaa5ecfe7deff2625f632",
+      "publishedAtLabel": "Oct 15"
+    },
+    {
+      "id": 14605,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Forbes.com.mx",
+      "author": "Forbes Staff",
+      "title": "OMS conf\u00eda en controlar brote de mpox en \u00c1frica pero demanda mayor apoyo financiero",
+      "description": "Forbes M\u00e9xico. OMS conf\u00eda en controlar brote de mpox en \u00c1frica pero demanda mayor apoyo financiero Durante la Cumbre Mundial de la Salud, autoridades sanitarias hicieron hincapi\u00e9 en que se debe parar la propagaci\u00f3n del virus mpox en \u00c1frica y pa\u00edses vecinos.\u2026",
+      "url": "https://forbes.com.mx/oms-confia-en-controlar-brote-de-mpox-en-africa-pero-demanda-mayor-apoyo-financiero/",
+      "urlToImage": "https://cdn.forbes.com.mx/2022/05/9aacff9a315fb0a9ac98889cdbcb68662d7a3f76-e1653587515380.jpg",
+      "publishedAt": "2024-10-15 15:13:03",
+      "content": "La Organizaci\u00f3n Mundial de la Salud (OMS) expres\u00f3 este martes su confianza en poder parar la mpox (viruela s\u00edmica) en \u00c1frica, pero pidi\u00f3 m\u00e1s fondos para poder hacerlo en un continente enorme, donde a\u2026 [+3770 chars]",
+      "retrievedAt": "2024-10-16 19:05:54.775636",
+      "internal_id": "f1e9935a5d94db017c2f68412ad4e9d280a4ba6304272ba622d2f2d374ca2ca8",
+      "publishedAtLabel": "Oct 15"
+    },
+    {
+      "id": 14604,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "aftenposten",
+      "source_name": "Aftenposten",
+      "author": "Kaveh Rashidi, Terje T\u00f8nnessen",
+      "title": "Kan Mpox bli en ny pandemi i Norge?",
+      "description": "Infeksjonssykdommen Mpox omtales som en \u00abfolkehelsekrise av internasjonalt omfang\u00bb. Men at sykdommen blir en ny pandemi i Norge, er sv\u00e6rt usannsynlig, skriver fastlege Kaveh Rashidi.",
+      "url": "https://www.aftenposten.no/amagasinet/i/8qEvwx/kan-mpox-bli-en-ny-pandemi-i-norge-svaert-usannsynlig-sier-fastlege",
+      "urlToImage": "https://premium.vgc.no/v2/images/a0a6adf7-f285-4b36-9f2f-564aa12c65f9?fit=crop&format=auto&h=1072&w=2048&s=f0d92531ef254fdb299dc05f8f98843de9ae2cae",
+      "publishedAt": "2024-10-15 14:18:31",
+      "content": "Mpox er en reell folkehelsekrise, bare ikke for oss i Norge. Publisert: 15.10.2024 09:29 | Oppdatert: 15.10.2024 11:16 Plutselig skriver mediene om en ny livsfarlig sykdom som jeg aldri hadde h\u00f8rt \u2026 [+362 chars]",
+      "retrievedAt": "2024-10-16 19:05:54.754256",
+      "internal_id": "eb19cac2cd8fe74c6df8067d3e4119121f3253e89abf6e0443ad3db5669a6f9d",
+      "publishedAtLabel": "Oct 15"
+    },
+    {
+      "id": 14596,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "KTRK-TV",
+      "author": "Jeff Ehling",
+      "title": "Whooping cough, or pertussis, cases on the rise in Galveston County, mirroring nationwide spike reported by CDC",
+      "description": "Whooping cough, or pertussis, cases on the rise in Galveston County, mirroring nationwide spike reported by CDCabc13.com",
+      "url": "https://abc13.com/post/whooping-cough-pertussis-cases-rise-galveston-county-mirroring-nationwide-spike-reported-cdc/15430963/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/15430945_101524-ktrk-whooping-cough-img.png?w=1600",
+      "publishedAt": "2024-10-15 13:41:02",
+      "content": "GALVESTON COUNTY, Texas (KTRK) -- Cases of whooping cough -- also known as pertussis, a highly contagious bacterial infection -- are on the rise in Galveston County. Galveston County's Health Distri\u2026 [+1943 chars]",
+      "retrievedAt": "2024-10-16 19:05:50.026033",
+      "internal_id": "c5a1cff7af666f26874857f1c5b00b64d6d0a4895d3846ca5547f92b9888bca7",
+      "publishedAtLabel": "Oct 15"
+    },
+    {
+      "id": 14601,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Prefeitura de S\u00e3o Paulo revoga emerg\u00eancia de dengue e demite m\u00e9dicos",
+      "description": "Administra\u00e7\u00e3o municipal explica que houve \"redu\u00e7\u00e3o de pacientes sintom\u00e1ticos e a queda cont\u00ednua nos casos confirmados de dengue nas \u00faltimas semanas\"",
+      "url": "https://valor.globo.com/brasil/noticia/2024/10/15/prefeitura-de-so-paulo-revoga-emergncia-de-dengue-e-demite-mdicos.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/aM8uxs52bkxYOrDs8fcwzJSatng=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2024/F/2/n0zs2aSXyBHcYsi6KDvw/mosquito-4998145-1920.jpeg",
+      "publishedAt": "2024-10-15 13:23:35",
+      "content": "M\u00e9dicos que atendiam na rede municipal foram demitidos ap\u00f3s a Prefeitura de S\u00e3o Paulo revogar a situa\u00e7\u00e3o de emerg\u00eancia da dengue na cidade. Segundo o Sindicato dos M\u00e9dicos de S\u00e3o Paulo (Simesp), os c\u2026 [+3801 chars]",
+      "retrievedAt": "2024-10-16 19:05:52.522004",
+      "internal_id": "27a5ba8eb5b26f3b85f6f4f945c370a70e08960553dcb6c38a0e81c3acf0d03a",
+      "publishedAtLabel": "Oct 15"
+    },
+    {
+      "id": 14603,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Scientific American",
+      "author": "Charles Ebikeme",
+      "title": "The Mpox Response Has Learned from HIV/AIDS History",
+      "description": "Tools and networks that have helped control HIV/AIDS are now working against mpox",
+      "url": "https://www.scientificamerican.com/article/the-mpox-response-has-learned-from-hiv-aids-history/",
+      "urlToImage": "https://static.scientificamerican.com/dam/m/8ff2329c859791c/original/sa1124Inno_Ebik01.jpg?w=1200",
+      "publishedAt": "2024-10-15 12:52:00",
+      "content": "This article is part of \u201cInnovations In: Solutions for Health Equity,\u201d an editorially independent special report that was produced with financial support from Takeda Pharmaceuticals. The abandoned b\u2026 [+12094 chars]",
+      "retrievedAt": "2024-10-16 19:05:54.701749",
+      "internal_id": "d7fa13bbf858178b6c9bb6035d9ed5dabc27bf00cdbab581319aaa481ccb24ef",
+      "publishedAtLabel": "Oct 15"
+    },
+    {
+      "id": 14607,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Livemint",
+      "author": "Priyanka Sharma",
+      "title": "ICMR offers Indian firms technology to develop quick Mpox test kits",
+      "description": "India is the third country to report the deadly new strain of the Mpox virus.",
+      "url": "https://www.livemint.com/industry/mpox-test-kits-icmr-indian-firms-technology-covid-19-mpox-case-11728984404964.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2024/10/15/1600x900/mpox_1724065893350_1728993333240.jpg",
+      "publishedAt": "2024-10-15 12:03:41",
+      "content": "New Delhi: The Indian Council of Medical Research (ICMR) has invited domestic firms to manufacture quick Mpox detection tests as concerns persist after India became the third country to report the de\u2026 [+1911 chars]",
+      "retrievedAt": "2024-10-16 19:05:54.812685",
+      "internal_id": "1e113ac1337e3f807f8911c275d2aaef0cc284d6ab06e1bfb1e55752ba0e0a5a",
+      "publishedAtLabel": "Oct 15"
+    },
+    {
+      "id": 14599,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": "UK Health Security Agency",
+      "title": "Guidance: Dengue: the green book, chapter 15a",
+      "description": "Dengue immunisation information for public health professionals.",
+      "url": "https://www.gov.uk/government/publications/dengue-the-green-book-chapter-15a",
+      "urlToImage": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png",
+      "publishedAt": "2024-10-15 12:00:00",
+      "content": "We use some essential cookies to make this website work. Wed like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services. We also use coo\u2026 [+70 chars]",
+      "retrievedAt": "2024-10-16 19:05:52.483537",
+      "internal_id": "aa371a0bf0cd943471f3396fbdec3785968e003081874e28d72b2ee22a5977b3",
+      "publishedAtLabel": "Oct 15"
+    },
+    {
+      "id": 14598,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
+      "author": "M.L.D.",
+      "title": "Sant\u00e9. Cinq choses \u00e0 savoir sur la grippe aviaire, qui va passer en risque \"mod\u00e9r\u00e9\" en France",
+      "description": "Le niveau de risque li\u00e9 \u00e0 l'influenza aviaire sera rehauss\u00e9 en France ce mercredi, apr\u00e8s avoir \u00e9t\u00e9 \u00ab n\u00e9gligeable \u00bb depuis avril. Niveaux de risque, vaccination, sant\u00e9 humaine... on fait le point sur ce fl\u00e9au sanitaire qui revient d\u00e9sormais chaque ann\u00e9e dans l\u2026",
+      "url": "https://www.ledauphine.com/sante/2024/10/15/cinq-choses-a-savoir-sur-la-grippe-aviaire-qui-va-passer-en-risque-modere-en-france",
+      "urlToImage": "https://cdn-s-www.ledauphine.com/images/69E4C777-275F-4686-B6B7-716C863045F5/FB1200/photo-1728989137.jpg",
+      "publishedAt": "2024-10-15 10:39:00",
+      "content": "La grippe aviaire, nouveau marronnier ? Chaque ann\u00e9e d\u00e9sormais, \u00e0 l'arriv\u00e9e de l'hiver, l\u2019\u00c9tat rehausse le niveau de risque li\u00e9 au virus H5N1 qui se d\u00e9veloppe dans les \u00e9levages de volailles ou d'oise\u2026 [+3383 chars]",
+      "retrievedAt": "2024-10-16 19:05:51.721224",
+      "internal_id": "bfcc32e75616a36d5b0b25063f9d952b358e1c8ffe47e6bd2d8b2d718532b7d3",
+      "publishedAtLabel": "Oct 15"
+    },
+    {
+      "id": 14609,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Lithub.com",
+      "author": "Anthony Bourdain",
+      "title": "Anthony Bourdain on the Life and Legacy of a Truly Infamous Cook: Typhoid Mary",
+      "description": "Historically, to be a cook, to prepare food for others, was always to identify oneself with the degraded and the debauched. As far back as ancient Rome, and as recently as pre-Civil War America, cooks were slaves. Untrustworthy, unpleasant, and more often tha\u2026",
+      "url": "https://lithub.com/anthony-bourdain-on-the-life-and-legacy-of-a-truly-infamous-cook-typhoid-mary/",
+      "urlToImage": "https://s26162.pcdn.co/wp-content/uploads/2024/10/Screenshot-2024-10-13-at-10.04.30\u202fPM.png",
+      "publishedAt": "2024-10-15 08:56:42",
+      "content": "Historically, to be a cook, to prepare food for others, was always to identify oneself with the degraded and the debauched. As far back as ancient Rome, and as recently as pre-Civil War America, cook\u2026 [+11278 chars]",
+      "retrievedAt": "2024-10-16 19:05:55.279863",
+      "internal_id": "8c1ac9d363ac87437ea65891b69345049259b5fb62bb32b0401cd64fbfd574f9",
+      "publishedAtLabel": "Oct 15"
+    },
+    {
+      "id": 14606,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Lara Adejoro",
+      "title": "Cross River, Lagos lead as mpox spreads to 63 LGs",
+      "description": "Mpox has spread to 25 states and the Federal Capital Territory across 63 local government areas in the country. This is according to the Mpox situation report obtained from the Nigeria Centre for Disease Control and Prevention on Tuesday. This was even as it \u2026",
+      "url": "https://punchng.com/cross-river-lagos-lead-as-mpox-spreads-to-63-lgs/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2024/08/16201032/Mpox.jpg",
+      "publishedAt": "2024-10-15 08:09:29",
+      "content": "Mpox has spread to 25 states and the Federal Capital Territory across 63 local government areas in the country. This is according to the Mpox situation report obtained from the Nigeria Centre for Di\u2026 [+2263 chars]",
+      "retrievedAt": "2024-10-16 19:05:54.786777",
+      "internal_id": "fa21729702cf9567b86a42aa352422659682387e06827628e33a6e63654fb6a2",
+      "publishedAtLabel": "Oct 15"
+    },
+    {
+      "id": 14597,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Faz.net",
+      "author": "F.A.Z.",
+      "title": "Unter Israels Angriffen: Sie helfen sich mit Rezepten nach \u201eGaza-Art\u201c",
+      "description": "Die humanit\u00e4re Lage im Gazastreifen ist katastrophal. Dem Krieg zum Trotz versuchen die Verbliebenen, sich Perspektiven zu geben \u2013 oder zumindest ein St\u00fcck W\u00fcrde.",
+      "url": "https://www.faz.net/aktuell/politik/krieg-in-nahost/unter-israels-angriffen-sie-helfen-sich-mit-rezepten-nach-gaza-art-110046211.html",
+      "urlToImage": "https://media0.faz.net/ppmedia/aktuell/1339188401/1.10046210/facebook_teaser/unerschuetterlich-der.jpg",
+      "publishedAt": "2024-10-15 07:58:28",
+      "content": "Erst vor wenigen Wochen war die Armee abermals in Beit Lahia anger\u00fcckt, nach eigenen Angaben in einer gezielten Operation gegen Hamas-Infrastruktur. Auf Fotos und Videos Abu Rabies von seiner Nachbar\u2026 [+13306 chars]",
+      "retrievedAt": "2024-10-16 19:05:50.232721",
+      "internal_id": "5c7b0cfaae010e9fe385ef50244fc826ac2d374cd4861e89ebb82f5299e4587b",
+      "publishedAtLabel": "Oct 15"
+    },
     {
       "id": 14595,
       "query": [
@@ -29526,114 +29778,6 @@
       "content": "El Ministerio de Salud de Per\u00fa (Minsa) confirm\u00f3 la existencia de un caso de meningitis y el seguimiento de otros posibles afectados por un brote de esta enfermedad en una localidad remota de la re\u2026 [+2214 chars]",
       "retrievedAt": "2024-09-03 07:06:27.157147",
       "internal_id": "3e9848a7b4071db2edb3702ff7f3ef0d520124067714b1a62dfb0a367110b6e4",
-      "publishedAtLabel": "Sep 1"
-    },
-    {
-      "id": 13002,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Aajtak.in",
-      "author": "aajtak.in",
-      "title": "PAK \u092e\u0947\u0902 Mpox \u0915\u093e \u091a\u094c\u0925\u093e \u0915\u0947\u0938 \u092e\u093f\u0932\u093e, \u0935\u093f\u0926\u0947\u0936 \u0938\u0947 \u0932\u094c\u091f\u0947 \u0925\u0947 \u0938\u092d\u0940 \u092e\u0930\u0940\u091c, \u090f\u092f\u0930\u092a\u094b\u0930\u094d\u091f \u092a\u0930 \u092c\u0922\u093c\u093e\u0908 \u0928\u093f\u0917\u0930\u093e\u0928\u0940",
-      "description": "\u092a\u093e\u0915\u093f\u0938\u094d\u0924\u093e\u0928 \u0928\u0947 \u090f\u092e\u092a\u0949\u0915\u094d\u0938 \u0938\u0947 \u0928\u093f\u092a\u091f\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u090f\u0939\u0924\u093f\u092f\u093e\u0924\u0940 \u0915\u0926\u092e \u0909\u0920\u093e\u090f \u0939\u0948\u0902. \u0907\u0938\u0947 \u0932\u0947\u0915\u0930 \u090f\u092f\u0930\u092a\u094b\u0930\u094d\u091f \u092a\u0930 \u0938\u0916\u094d\u0924 \u0938\u093f\u0915\u094d\u092f\u094b\u0930\u093f\u091f\u0940 \u0938\u093f\u0938\u094d\u091f\u092e \u0932\u093e\u0917\u0942 \u0915\u093f\u092f\u093e \u0917\u092f\u093e \u0939\u0948, \u0915\u094d\u092f\u094b\u0902\u0915\u093f \u092f\u0939 \u0938\u093e\u092e\u0928\u0947 \u0906\u092f\u093e \u0939\u0948 \u0915\u093f \u090f\u092e\u092a\u0949\u0915\u094d\u0938 \u0935\u093e\u092f\u0930\u0938 \u0938\u0947 \u0938\u0902\u0915\u094d\u0930\u092e\u093f\u0924 \u0938\u092d\u0940 \u092e\u0930\u0940\u091c \u0935\u093f\u0926\u0947\u0936 \u0938\u0947 \u0932\u094c\u091f\u0947 \u0925\u0947.",
-      "url": "https://www.aajtak.in/world/story/pakistan-fourth-case-of-mpox-found-all-infected-patients-had-returned-from-abroad-increased-surveillance-at-airport-ntc-2027934-2024-09-01",
-      "urlToImage": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202409/66d494cfb0004-pakistan-fourth-case-of-mpox-012238510-16x9.png",
-      "publishedAt": "2024-09-01 16:24:21",
-      "content": "MPOX , . - . - . ( ) (PSH) . . . . - , . 19 47 (PIMS) . . PIMS . , . , , . , . 4 . . , .",
-      "retrievedAt": "2024-09-04 07:06:06.004231",
-      "internal_id": "c1c0a2f858fac828940b6fbea65b7f978469b37ed691ba046373e7e23e3bebea",
-      "publishedAtLabel": "Sep 1"
-    },
-    {
-      "id": 12990,
-      "query": [
-        "mpox"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "PTI",
-      "title": "Authorities in Pakistan confirm fourth case of mpox virus",
-      "description": "Pakistan reported its fourth case of monkeypox in Khyber-Pakhtunkhwa province, where three other cases were also confirmed. All patients had returned from abroad, with no local transmission reported. Authorities have implemented strict airport screening. The \u2026",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/authorities-in-pakistan-confirm-fourth-case-of-mpox-virus/articleshow/112971353.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-112971380,width-1200,height-630,imgsize-74546,overlay-economictimes/photo.jpg",
-      "publishedAt": "2024-09-01 14:24:51",
-      "content": "Authorities in Pakistan on Sunday reported another case of monkeypox (mpox) virus amid the confusion about the total number of cases confirmed so far in the country. The fourth case was detected in K\u2026 [+2246 chars]",
-      "retrievedAt": "2024-09-04 07:06:05.932306",
-      "internal_id": "5cef8ac5510c943badb8e476202518f255d1da1ec5ffc95a8244c4b3b13b8696",
-      "publishedAtLabel": "Sep 1"
-    },
-    {
-      "id": 12950,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "NDTV News",
-      "author": null,
-      "title": "Pak's Peshawar Emerges As 'Epicentre' Of Mpox As Tally Reaches 5: Report",
-      "description": "Amid growing concerns over the new strain of mpox virus, Pakistan's Peshawar city has started emerging as the 'epicentre' of the virus, as the fifth mpox case was recorded on Sunday, Geo News reported.",
-      "url": "https://www.ndtv.com/world-news/pakistans-peshawar-emerges-as-epicentre-of-mpox-as-tally-reaches-5-report-6467196",
-      "urlToImage": "https://c.ndtvimg.com/2024-08/1n5d9p5_mpox-reuters_625x300_24_August_24.jpeg",
-      "publishedAt": "2024-09-01 13:50:44",
-      "content": "The mpox virus shows flu-like symptoms and pus-filled lesions (Representational) Islamabad: Amid growing concerns over the new strain of mpox virus, Pakistan's Peshawar city has started emerging as \u2026 [+2390 chars]",
-      "retrievedAt": "2024-09-03 07:06:29.235040",
-      "internal_id": "97f9ccb2060e6d61e34aa9b0c0b1bd8a6ab09cfe9a02837a13e6358e423c6689",
-      "publishedAtLabel": "Sep 1"
-    },
-    {
-      "id": 12930,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "TNN",
-      "title": "Jaipur sees a surge in dengue cases last week",
-      "description": "Jaipur has experienced a rise in dengue cases, with 40 new infections reported in the past week, totaling 300 cases. Statewide, cases increased by 284, with particular concern in Udaipur. Health officials are emphasizing prevention and treatment efforts, with\u2026",
-      "url": "https://timesofindia.indiatimes.com/city/jaipur/jaipur-sees-a-surge-in-dengue-cases-last-week/articleshow/112965963.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-112966030,width-1070,height-580,imgsize-29178,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-09-01 08:36:20",
-      "content": "9 biotin-rich foods to nourish hair, skin and nail",
-      "retrievedAt": "2024-09-02 19:06:00.726670",
-      "internal_id": "88e9aad11b8372588cc5e8f63cf95b221c48b81a550e47444d2934332f11deb5",
-      "publishedAtLabel": "Sep 1"
-    },
-    {
-      "id": 12931,
-      "query": [
-        "mpox"
-      ],
-      "source_id": "info-money",
-      "source_name": "InfoMoney",
-      "author": "darrellchamplin",
-      "title": "Como a Mpox se espalha e quem corre mais risco? Tire suas d\u00favidas",
-      "description": "Entenda o que os cientistas aprenderam sobre o v\u00edrus, que foi recentemente declarado uma emerg\u00eancia de sa\u00fade global The post Como a Mpox se espalha e quem corre mais risco? Tire suas d\u00favidas appeared first on InfoMoney.",
-      "url": "https://www.infomoney.com.br/business/global/como-a-mpox-se-espalha-e-quem-corre-mais-risco-tire-suas-duvidas/",
-      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2024/08/2024-08-13t135812z_488502842_rc2yx8aqv1tn_rtrmadp_3_africa-mpox.webp?fit=1170%2C700&quality=70&strip=all",
-      "publishedAt": "2024-09-01 08:00:00",
-      "content": "Este m\u00eas, a Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS) declarou a Mpox uma emerg\u00eancia de sa\u00fade global. Anteriormente conhecido como monkeypox (var\u00edola dos macacos), o v\u00edrus est\u00e1 se espalhando rapidamente em \u2026 [+5639 chars]",
-      "retrievedAt": "2024-09-02 19:06:04.154812",
-      "internal_id": "bf3fe0c7f4e4539e1faaaf51794580c8e3e4502994583a4077d5a256a2462238",
-      "publishedAtLabel": "Sep 1"
-    },
-    {
-      "id": 12951,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Sudinfo.be",
-      "author": "Par Pauline Govaert avec AFP",
-      "title": "Mpox : comment la d\u00e9forestation a favoris\u00e9 l\u2019\u00e9pid\u00e9mie",
-      "description": "La d\u00e9forestation dans le bassin du Congo, connu comme \u00able poumon de l\u2019Afrique\u00bb, aurait favoris\u00e9 l\u2019\u00e9pid\u00e9mie de Mpox.",
-      "url": "https://www.sudinfo.be/id875008/article/2024-09-01/mpox-comment-la-deforestation-favorise-lepidemie",
-      "urlToImage": "https://spgeng.rosselcdn.net/sites/default/files/dpistyles_v2/FirstImageUrl/2024/09/01/node_875008/55830061/public/2024/09/01/24620914.jpeg?itok=yE0UBvF31725177634",
-      "publishedAt": "2024-09-01 08:00:00",
-      "content": "La recrudescence du mpox en R\u00e9publique d\u00e9mocratique du Congo (RDC), port\u00e9e par le clade 1b qui touche aussi le Burundi, le Kenya, le Rwanda et lOuganda, a incit\u00e9 lOrganisation mondiale de la sant\u00e9 (O\u2026 [+7241 chars]",
-      "retrievedAt": "2024-09-03 07:06:29.241063",
-      "internal_id": "825fd119eae7d39ba7fb596a39d18b8a542c8fb27e2f5aa8cbbb4cfbe3f2e8a6",
       "publishedAtLabel": "Sep 1"
     }
   ]

@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 5
-- **Last harvest:** 2024-10-16 07:06
-- **Most recent article:** 2024-10-14 23:51:31
+- **New articles in last harvest:** 14
+- **Last harvest:** 2024-10-16 19:05
+- **Most recent article:** 2024-10-15 17:20:00
 
 ---
 
@@ -12,20 +12,20 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-36 | 24-37 | 24-38 | 24-39 | 24-40 | 24-41 | 24-42 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 175 | 192 | 140 | 122 | 128 | 42 | 35 | 834 |
-| dengue | 47 | 76 | 73 | 49 | 51 | 35 | 12 | 343 |
-| h5n1 | 31 | 10 | 17 | 35 | 50 | 10 | 10 | 163 |
-| malaria | 13 | 12 | 15 | 24 | 10 | 13 | 4 | 91 |
-| rabies | 7 | 5 | 13 | 25 | 30 | 6 | 1 | 87 |
+| mpox | 170 | 192 | 140 | 122 | 128 | 42 | 41 | 835 |
+| dengue | 46 | 76 | 73 | 49 | 51 | 35 | 15 | 345 |
+| h5n1 | 31 | 10 | 17 | 35 | 50 | 10 | 11 | 164 |
+| malaria | 13 | 12 | 15 | 24 | 10 | 13 | 5 | 92 |
+| rabies | 7 | 5 | 13 | 25 | 30 | 6 | 2 | 88 |
 | meningitis | 6 | 3 | 10 | 6 | 11 | 2 | 0 | 38 |
 | chikungunya | 4 | 13 | 9 | 3 | 3 | 3 | 1 | 36 |
 | measles | 8 | 5 | 8 | 4 | 6 | 5 | 0 | 36 |
 | zika | 6 | 10 | 8 | 1 | 3 | 4 | 1 | 33 |
-| pertussis | 1 | 5 | 3 | 3 | 2 | 2 | 2 | 18 |
+| pertussis | 1 | 5 | 3 | 3 | 2 | 2 | 3 | 19 |
 | leptospirosis | 1 | 0 | 1 | 5 | 4 | 1 | 1 | 13 |
 | hpai | 3 | 1 | 0 | 2 | 2 | 1 | 0 | 9 |
 | yersinia | 2 | 0 | 2 | 2 | 1 | 1 | 0 | 8 |
-| typhoid | 1 | 0 | 0 | 4 | 1 | 0 | 0 | 6 |
+| typhoid | 1 | 0 | 0 | 4 | 1 | 0 | 1 | 7 |
 | shigellosis | 0 | 0 | 0 | 0 | 1 | 3 | 0 | 4 |
 
 
@@ -37,17 +37,37 @@ Source: [News API](https://newsapi.org/)
 
 - [Una nuova pandemia è in agguato? L’allarme: “Già 17 epidemie nel 2024. Il Pil da solo non è una misura della resilienza”](https://www.ilfattoquotidiano.it/2024/10/14/una-nuova-pandemia-e-in-agguato-lallarme-gia-17-epidemie-nel-2024-il-pil-da-solo-non-e-una-misura-della-resilienza/7729972/) (Ilfattoquotidiano.it)
 
+## 24-42 (typhoid)
+
+- [Anthony Bourdain on the Life and Legacy of a Truly Infamous Cook: Typhoid Mary](https://lithub.com/anthony-bourdain-on-the-life-and-legacy-of-a-truly-infamous-cook-typhoid-mary/) (Lithub.com)
+
 ## 24-42 (rabies)
+
+- [Unter Israels Angriffen: Sie helfen sich mit Rezepten nach „Gaza-Art“](https://www.faz.net/aktuell/politik/krieg-in-nahost/unter-israels-angriffen-sie-helfen-sich-mit-rezepten-nach-gaza-art-110046211.html) (Faz.net)
 
 - [General public knowledge, attitudes, and practices about rabies and associated factors in Gomma district of Jimma zone, southwestern Ethiopia](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012551) (Plos.org)
 
 ## 24-42 (pertussis)
+
+- [Whooping cough, or pertussis, cases on the rise in Galveston County, mirroring nationwide spike reported by CDC](https://abc13.com/post/whooping-cough-pertussis-cases-rise-galveston-county-mirroring-nationwide-spike-reported-cdc/15430963/) (KTRK-TV)
 
 - [Whooping cough: What parents need to know as cases surge](https://6abc.com/post/whooping-cough-what-parents-need-know-cases-surge/15428295/) (WPVI-TV)
 
 - [What parents need to know as whooping cough cases surge](https://abcnews.go.com/GMA/Wellness/parents-whooping-cough-cases-surge/story?id=114774431) (ABC News)
 
 ## 24-42 (mpox)
+
+- [La OMS confía en poder parar el brote de mpox en África, pero pide más fondos](https://www.montevideo.com.uy/Salud/La-OMS-confia-en-poder-parar-el-brote-de-mpox-en-Africa-pero-pide-mas-fondos-uc903349) (Montevideo.com.uy)
+
+- [OMS confía en controlar brote de mpox en África pero demanda mayor apoyo financiero](https://forbes.com.mx/oms-confia-en-controlar-brote-de-mpox-en-africa-pero-demanda-mayor-apoyo-financiero/) (Forbes.com.mx)
+
+- [Kan Mpox bli en ny pandemi i Norge?](https://www.aftenposten.no/amagasinet/i/8qEvwx/kan-mpox-bli-en-ny-pandemi-i-norge-svaert-usannsynlig-sier-fastlege) (Aftenposten)
+
+- [The Mpox Response Has Learned from HIV/AIDS History](https://www.scientificamerican.com/article/the-mpox-response-has-learned-from-hiv-aids-history/) (Scientific American)
+
+- [ICMR offers Indian firms technology to develop quick Mpox test kits](https://www.livemint.com/industry/mpox-test-kits-icmr-indian-firms-technology-covid-19-mpox-case-11728984404964.html) (Livemint)
+
+- [Cross River, Lagos lead as mpox spreads to 63 LGs](https://punchng.com/cross-river-lagos-lead-as-mpox-spreads-to-63-lgs/) (The Punch)
 
 - [Kenya confirms first mpox death as cases rise to 13](https://www.thestar.com.my/news/world/2024/10/15/kenya-confirms-first-mpox-death-as-cases-rise-to-13) (The Star Online)
 
@@ -121,6 +141,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-42 (malaria)
 
+- [Uganda mulls adding malaria vaccine to routine immunization scheme](https://www.thestar.com.my/news/world/2024/10/16/uganda-mulls-adding-malaria-vaccine-to-routine-immunization-scheme) (The Star Online)
+
 - [Hearing loss compounds Africans’ health](https://punchng.com/hearing-loss-compounds-africans-health/) (The Punch)
 
 - [Delhi sees 55% spike in malaria cases this year so far, no deaths recorded](https://www.business-standard.com/india-news/delhi-sees-55-spike-in-malaria-cases-this-year-so-far-no-deaths-recorded-124101401188_1.html) (Business Standard)
@@ -134,6 +156,8 @@ Source: [News API](https://newsapi.org/)
 - [Leptospirosis cases cause for concern](https://www.bostonherald.com/2024/10/13/leptospirosis-cases-cause-for-concern/) (Boston Herald)
 
 ## 24-42 (h5n1)
+
+- [Santé. Cinq choses à savoir sur la grippe aviaire, qui va passer en risque "modéré" en France](https://www.ledauphine.com/sante/2024/10/15/cinq-choses-a-savoir-sur-la-grippe-aviaire-qui-va-passer-en-risque-modere-en-france) (Le Dauphiné Libéré)
 
 - [Bird flu health warning: Government to spend $95 million with latest strain to bring 'genuine risks to people’](https://thenightly.com.au/australia/bird-flu-health-warning-government-to-spend-95-million-with-latest-strain-to-bring-genuine-risks-to-people--c-16394300) (Thenightly.com.au)
 
@@ -156,6 +180,12 @@ Source: [News API](https://newsapi.org/)
 - [Labor sets out $95 million to combat potential arrival of deadly bird flu strain H5N1](https://www.abc.net.au/news/2024-10-13/labor-announces-95m-in-funding-for-bird-flu-h5n1/104467622) (ABC News (AU))
 
 ## 24-42 (dengue)
+
+- [Sanofi annonce l'arrêt de la production et la commercialisation du vaccin contre la dengue d'ici 2026](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/rhone/lyon/sanofi-annonce-l-arret-de-la-production-et-la-commercialisation-du-vaccin-contre-la-dengue-d-ici-2026-3045850.html) (Francetvinfo.fr)
+
+- [Prefeitura de São Paulo revoga emergência de dengue e demite médicos](https://valor.globo.com/brasil/noticia/2024/10/15/prefeitura-de-so-paulo-revoga-emergncia-de-dengue-e-demite-mdicos.ghtml) (Globo)
+
+- [Guidance: Dengue: the green book, chapter 15a](https://www.gov.uk/government/publications/dengue-the-green-book-chapter-15a) (Www.gov.uk)
 
 - [Seis menores con dengue grave atendidos en Hospital de Niños](https://www.nacion.com/el-pais/seis-menores-con-dengue-grave-atendidos-en/VFO6OCNBZVFQJBA644FIR6XPVE/story/) (Nacion.com)
 
@@ -3397,16 +3427,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Mpox concerns grow in Pakistan as Peshawar reports fifth case](https://economictimes.indiatimes.com/news/international/world-news/mpox-concerns-grow-in-pakistan-as-peshawar-reports-fifth-case/articleshow/112978523.cms) (The Times of India)
 
-- [PAK में Mpox का चौथा केस मिला, विदेश से लौटे थे सभी मरीज, एयरपोर्ट पर बढ़ाई निगरानी](https://www.aajtak.in/world/story/pakistan-fourth-case-of-mpox-found-all-infected-patients-had-returned-from-abroad-increased-surveillance-at-airport-ntc-2027934-2024-09-01) (Aajtak.in)
-
-- [Authorities in Pakistan confirm fourth case of mpox virus](https://economictimes.indiatimes.com/news/international/world-news/authorities-in-pakistan-confirm-fourth-case-of-mpox-virus/articleshow/112971353.cms) (The Times of India)
-
-- [Pak's Peshawar Emerges As 'Epicentre' Of Mpox As Tally Reaches 5: Report](https://www.ndtv.com/world-news/pakistans-peshawar-emerges-as-epicentre-of-mpox-as-tally-reaches-5-report-6467196) (NDTV News)
-
-- [Como a Mpox se espalha e quem corre mais risco? Tire suas dúvidas](https://www.infomoney.com.br/business/global/como-a-mpox-se-espalha-e-quem-corre-mais-risco-tire-suas-duvidas/) (InfoMoney)
-
-- [Mpox : comment la déforestation a favorisé l’épidémie](https://www.sudinfo.be/id875008/article/2024-09-01/mpox-comment-la-deforestation-favorise-lepidemie) (Sudinfo.be)
-
 ## 24-36 (meningitis)
 
 - [Luis Canut lanza un emotivo mensaje a Patricia Pérez por ser su mayor apoyo ante su enfermedad: 'Me salvó la vida'](https://www.bekia.es/celebrities/noticias/luis-canut-lanza-emotivo-mensaje-patricia-perez-apoyo/) (Bekia.es)
@@ -3636,8 +3656,6 @@ Source: [News API](https://newsapi.org/)
 - [One dies of dengue infection in Chitwan](https://english.khabarhub.com/2024/02/393092/) (Khabarhub.com)
 
 - [Bacolod: Province logs 414 dengue cases in a week](https://rpnradio.com/bacolod-province-logs-414-dengue-cases-in-a-week/) (Rpnradio.com)
-
-- [Jaipur sees a surge in dengue cases last week](https://timesofindia.indiatimes.com/city/jaipur/jaipur-sees-a-surge-in-dengue-cases-last-week/articleshow/112965963.cms) (The Times of India)
 
 ## 24-36 (chikungunya)
 
