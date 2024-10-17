@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 14
-- **Last harvest:** 2024-10-16 19:05
-- **Most recent article:** 2024-10-15 17:20:00
+- **New articles in last harvest:** 8
+- **Last harvest:** 2024-10-17 07:06
+- **Most recent article:** 2024-10-16 04:15:17
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-36 | 24-37 | 24-38 | 24-39 | 24-40 | 24-41 | 24-42 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 170 | 192 | 140 | 122 | 128 | 42 | 41 | 835 |
-| dengue | 46 | 76 | 73 | 49 | 51 | 35 | 15 | 345 |
+| mpox | 175 | 192 | 140 | 122 | 128 | 42 | 44 | 843 |
+| dengue | 47 | 76 | 73 | 49 | 51 | 35 | 17 | 348 |
 | h5n1 | 31 | 10 | 17 | 35 | 50 | 10 | 11 | 164 |
-| malaria | 13 | 12 | 15 | 24 | 10 | 13 | 5 | 92 |
+| malaria | 13 | 12 | 15 | 24 | 10 | 13 | 8 | 95 |
 | rabies | 7 | 5 | 13 | 25 | 30 | 6 | 2 | 88 |
 | meningitis | 6 | 3 | 10 | 6 | 11 | 2 | 0 | 38 |
 | chikungunya | 4 | 13 | 9 | 3 | 3 | 3 | 1 | 36 |
 | measles | 8 | 5 | 8 | 4 | 6 | 5 | 0 | 36 |
-| zika | 6 | 10 | 8 | 1 | 3 | 4 | 1 | 33 |
+| zika | 6 | 10 | 8 | 1 | 3 | 4 | 2 | 34 |
 | pertussis | 1 | 5 | 3 | 3 | 2 | 2 | 3 | 19 |
 | leptospirosis | 1 | 0 | 1 | 5 | 4 | 1 | 1 | 13 |
 | hpai | 3 | 1 | 0 | 2 | 2 | 1 | 0 | 9 |
@@ -34,6 +34,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-42 (zika)
+
+- [Threat of mosquito-borne diseases rises in U.S. with global temperature](https://news.harvard.edu/gazette/story/2024/10/threat-of-mosquito-borne-diseases-rises-with-global-temperature/) (Harvard School of Engineering and Applied Sciences)
 
 - [Una nuova pandemia è in agguato? L’allarme: “Già 17 epidemie nel 2024. Il Pil da solo non è una misura della resilienza”](https://www.ilfattoquotidiano.it/2024/10/14/una-nuova-pandemia-e-in-agguato-lallarme-gia-17-epidemie-nel-2024-il-pil-da-solo-non-e-una-misura-della-resilienza/7729972/) (Ilfattoquotidiano.it)
 
@@ -56,6 +58,12 @@ Source: [News API](https://newsapi.org/)
 - [What parents need to know as whooping cough cases surge](https://abcnews.go.com/GMA/Wellness/parents-whooping-cough-cases-surge/story?id=114774431) (ABC News)
 
 ## 24-42 (mpox)
+
+- [Mpox cases still low but treatment options are ready, Dewan Rakyat told](https://www.thestar.com.my/news/nation/2024/10/16/mpox-cases-still-low-but-treatment-options-are-ready-dewan-rakyat-told) (The Star Online)
+
+- [Vacina da mpox é aprovada para adolescentes; veja o que diz a OMS](https://catracalivre.com.br/saude-bem-estar/vacina-da-mpox-e-aprovada-para-adolescentes/) (Catracalivre.com.br)
+
+- [Cidade de São Paulo registra 466 casos de mpox confirmados em 2024](https://www.metropoles.com/sao-paulo/cidade-de-sao-paulo-registra-466-casos-de-mpox-confirmados-em-2024) (Metropoles.com)
 
 - [La OMS confía en poder parar el brote de mpox en África, pero pide más fondos](https://www.montevideo.com.uy/Salud/La-OMS-confia-en-poder-parar-el-brote-de-mpox-en-Africa-pero-pide-mas-fondos-uc903349) (Montevideo.com.uy)
 
@@ -141,6 +149,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-42 (malaria)
 
+- [14 of 25 districts of Arunachal are now malaria free](https://thehillstimes.in/northeast/14-of-25-districts-of-arunachal-are-now-malaria-free) (Thehillstimes.in)
+
+- [A Plasmodium falciparum MORC protein complex modulates epigenetic control of gene expression through interaction with heterochromatin](https://elifesciences.org/articles/92201) (Elifesciences.org)
+
+- [S-MGBs bearing amidine tail groups are potent, selective antiplasmodial agents](https://pubs.rsc.org/en/content/articlelanding/2024/md/d4md00619d) (Royal Society of Chemistry)
+
 - [Uganda mulls adding malaria vaccine to routine immunization scheme](https://www.thestar.com.my/news/world/2024/10/16/uganda-mulls-adding-malaria-vaccine-to-routine-immunization-scheme) (The Star Online)
 
 - [Hearing loss compounds Africans’ health](https://punchng.com/hearing-loss-compounds-africans-health/) (The Punch)
@@ -180,6 +194,10 @@ Source: [News API](https://newsapi.org/)
 - [Labor sets out $95 million to combat potential arrival of deadly bird flu strain H5N1](https://www.abc.net.au/news/2024-10-13/labor-announces-95m-in-funding-for-bird-flu-h5n1/104467622) (ABC News (AU))
 
 ## 24-42 (dengue)
+
+- [Dengue: Over 19,000 infected nationwide as cases surge](https://english.khabarhub.com/2024/16/406227/) (Khabarhub.com)
+
+- [Threat of mosquito-borne diseases rises in U.S. with global temperature](https://news.harvard.edu/gazette/story/2024/10/threat-of-mosquito-borne-diseases-rises-with-global-temperature/) (Harvard School of Engineering and Applied Sciences)
 
 - [Sanofi annonce l'arrêt de la production et la commercialisation du vaccin contre la dengue d'ici 2026](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/rhone/lyon/sanofi-annonce-l-arret-de-la-production-et-la-commercialisation-du-vaccin-contre-la-dengue-d-ici-2026-3045850.html) (Francetvinfo.fr)
 
@@ -3427,6 +3445,16 @@ Source: [News API](https://newsapi.org/)
 
 - [Mpox concerns grow in Pakistan as Peshawar reports fifth case](https://economictimes.indiatimes.com/news/international/world-news/mpox-concerns-grow-in-pakistan-as-peshawar-reports-fifth-case/articleshow/112978523.cms) (The Times of India)
 
+- [PAK में Mpox का चौथा केस मिला, विदेश से लौटे थे सभी मरीज, एयरपोर्ट पर बढ़ाई निगरानी](https://www.aajtak.in/world/story/pakistan-fourth-case-of-mpox-found-all-infected-patients-had-returned-from-abroad-increased-surveillance-at-airport-ntc-2027934-2024-09-01) (Aajtak.in)
+
+- [Authorities in Pakistan confirm fourth case of mpox virus](https://economictimes.indiatimes.com/news/international/world-news/authorities-in-pakistan-confirm-fourth-case-of-mpox-virus/articleshow/112971353.cms) (The Times of India)
+
+- [Pak's Peshawar Emerges As 'Epicentre' Of Mpox As Tally Reaches 5: Report](https://www.ndtv.com/world-news/pakistans-peshawar-emerges-as-epicentre-of-mpox-as-tally-reaches-5-report-6467196) (NDTV News)
+
+- [Como a Mpox se espalha e quem corre mais risco? Tire suas dúvidas](https://www.infomoney.com.br/business/global/como-a-mpox-se-espalha-e-quem-corre-mais-risco-tire-suas-duvidas/) (InfoMoney)
+
+- [Mpox : comment la déforestation a favorisé l’épidémie](https://www.sudinfo.be/id875008/article/2024-09-01/mpox-comment-la-deforestation-favorise-lepidemie) (Sudinfo.be)
+
 ## 24-36 (meningitis)
 
 - [Luis Canut lanza un emotivo mensaje a Patricia Pérez por ser su mayor apoyo ante su enfermedad: 'Me salvó la vida'](https://www.bekia.es/celebrities/noticias/luis-canut-lanza-emotivo-mensaje-patricia-perez-apoyo/) (Bekia.es)
@@ -3656,6 +3684,8 @@ Source: [News API](https://newsapi.org/)
 - [One dies of dengue infection in Chitwan](https://english.khabarhub.com/2024/02/393092/) (Khabarhub.com)
 
 - [Bacolod: Province logs 414 dengue cases in a week](https://rpnradio.com/bacolod-province-logs-414-dengue-cases-in-a-week/) (Rpnradio.com)
+
+- [Jaipur sees a surge in dengue cases last week](https://timesofindia.indiatimes.com/city/jaipur/jaipur-sees-a-surge-in-dengue-cases-last-week/articleshow/112965963.cms) (The Times of India)
 
 ## 24-36 (chikungunya)
 

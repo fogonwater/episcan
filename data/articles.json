@@ -1,8 +1,153 @@
 {
-  "last_updated": "2024-10-16 19:05",
-  "count_articles_total": 1650,
-  "count_articles_new": 14,
+  "last_updated": "2024-10-17 07:06",
+  "count_articles_total": 1664,
+  "count_articles_new": 8,
   "articles": [
+    {
+      "id": 14611,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "Dengue: Over 19,000 infected nationwide as cases surge",
+      "description": "KATHMANDU: Dengue infection is spreading rapidly across the country, with the latest statistics from the Epidemiology and Disease Control Division reporting a total of 19,599 confirmed cases. Tragically, nine individuals have lost their lives due to the virus\u2026",
+      "url": "https://english.khabarhub.com/2024/16/406227/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2022/09/Dengue-1.webp",
+      "publishedAt": "2024-10-16 04:15:17",
+      "content": "KATHMANDU: Dengue infection is spreading rapidly across the country, with the latest statistics from the Epidemiology and Disease Control Division reporting a total of 19,599 confirmed cases. Tragic\u2026 [+1245 chars]",
+      "retrievedAt": "2024-10-17 07:06:34.534140",
+      "internal_id": "faefd15fcb29d5ce4aded3fda6490d25dac55d0f5a520cf97548473cd6704118",
+      "publishedAtLabel": "Oct 16"
+    },
+    {
+      "id": 14617,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "KHOO GEK SAN, MARTIN CARVALHO, JUNAID IBRAHIM",
+      "title": "Mpox cases still low but treatment options are ready, Dewan Rakyat told",
+      "description": "KUALA LUMPUR: Malaysia has recorded 10 cases of monkeypox (mpox) over the past two years, says Health Minister Datuk Seri Dr Dzulkefly Ahmad. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2024/10/16/mpox-cases-still-low-but-treatment-options-are-ready-dewan-rakyat-told",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/10/16/2966918.jpg",
+      "publishedAt": "2024-10-16 02:28:00",
+      "content": "KUALA LUMPUR: Malaysia has recorded 10 cases of monkeypox (mpox) over the past two years, says Health Minister Datuk Seri Dr Dzulkefly Ahmad. \"Nine cases occurred last year and one was reported on S\u2026 [+1407 chars]",
+      "retrievedAt": "2024-10-17 07:06:35.792186",
+      "internal_id": "cac9f503952c31ebed7c6c1be9affcba75d6df58c9e10b8a7bfa58e8433a9bd3",
+      "publishedAtLabel": "Oct 16"
+    },
+    {
+      "id": 14612,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Thehillstimes.in",
+      "author": "The Hills Times",
+      "title": "14 of 25 districts of Arunachal are now malaria free",
+      "description": "ITANAGAR, Oct 15: As many as 14 of the 25 districts of Arunachal Pradesh are now eligible for malaria-free certification, National Center for Vector Borne Disease Control (NCVBDC) state programme officer Dr KT Mulung said on Tuesday. Mulung was speaking at th\u2026",
+      "url": "https://thehillstimes.in/northeast/14-of-25-districts-of-arunachal-are-now-malaria-free",
+      "urlToImage": "https://thehillstimes.in/wp-content/uploads/2024/10/2nd-lead-6.jpg",
+      "publishedAt": "2024-10-16 00:15:00",
+      "content": "ITANAGAR, Oct 15: As many as 14 of the 25 districts of Arunachal Pradesh are now eligible for malaria-free certification, National Center for Vector Borne Disease Control (NCVBDC) state programme off\u2026 [+1223 chars]",
+      "retrievedAt": "2024-10-17 07:06:35.057257",
+      "internal_id": "e4d3b91ba8a30e2ec4d227356daf444087f5cf8ae7ef253101eaba7b66d9b06d",
+      "publishedAtLabel": "Oct 16"
+    },
+    {
+      "id": 14613,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Elifesciences.org",
+      "author": "cgarcia@usp.br (Celia RS Garcia), cgarcia@usp.br (Christian Doerig), cgarcia@usp.br (Giuseppe Palmisano), cgarcia@usp.br (Israel Tojal Da Silva), cgarcia@usp.br (Jack Adderley), cgarcia@usp.br (Maneesh Kumar Singh), cgarcia@usp.br (Manuel Llinas), cgarcia@usp.br (Miriam Santos Moraes), cgarcia@usp.br (Ver\u00f4nica Feijoli Santiago), cgarcia@usp.br (Victoria Ann Bonnell)",
+      "title": "A Plasmodium falciparum MORC protein complex modulates epigenetic control of gene expression through interaction with heterochromatin",
+      "description": "Dynamic control of gene expression is critical for blood stage development of malaria parasites. Here, we used multi-omic analyses to investigate transcriptional regulation by the chromatin-associated microrchidia protein, MORC, during asexual blood stage dev\u2026",
+      "url": "https://elifesciences.org/articles/92201",
+      "urlToImage": "https://elifesciences.org/assets/images/social/icon-600x600@1.52e87ee6.png",
+      "publishedAt": "2024-10-16 00:00:00",
+      "content": "Periodic gene expression during the asexual blood stage directly corresponds to the timing in which gene products are needed (Bozdech et al., 2003) and shows oscillation patterns associated with circ\u2026 [+10312 chars]",
+      "retrievedAt": "2024-10-17 07:06:35.065230",
+      "internal_id": "75998343a3036fcea2ade1fb90626efdf1fd438c9267d0e9f79eee1627874a06",
+      "publishedAtLabel": "Oct 16"
+    },
+    {
+      "id": 14614,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Royal Society of Chemistry",
+      "author": "Marina PERIETEANU, Tayner RODRIGUEZ GARZON, Leah McGee, Abedawn Khalaf, C. J. Suckling, Rebecca Beveridge, Vicky Mary Avery, Fraser John Scott",
+      "title": "S-MGBs bearing amidine tail groups are potent, selective antiplasmodial agents",
+      "description": "RSC Med. Chem., 2024, Accepted ManuscriptDOI: 10.1039/D4MD00619D, Research Article Open Access &nbsp This article is licensed under a Creative Commons Attribution 3.0 Unported Licence.Marina PERIETEANU, Tayner RODRIGUEZ GARZON, Leah McGee, Abedawn Khalaf, C. \u2026",
+      "url": "https://pubs.rsc.org/en/content/articlelanding/2024/md/d4md00619d",
+      "urlToImage": null,
+      "publishedAt": "2024-10-15 23:00:00",
+      "content": "There were an estimated 249 million cases of malaria globally in 2022, causing approximately 608,000 deaths. Most of these are attributed to infection by P. falciparum. Strathclyde Minor Groove Binde\u2026 [+1247 chars]",
+      "retrievedAt": "2024-10-17 07:06:35.081690",
+      "internal_id": "a4dd8c8c6eef13201a00ecdd0f76c81484aabbe39042cf6f9e742c3f660846c2",
+      "publishedAtLabel": "Oct 15"
+    },
+    {
+      "id": 14615,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Catracalivre.com.br",
+      "author": "Caroline Vale",
+      "title": "Vacina da mpox \u00e9 aprovada para adolescentes; veja o que diz a OMS",
+      "description": "A Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS) aprovou, na segunda-feira, 14, o uso da vacina contra a mpox para adolescentes entre 12 e 17 anos. Segundo o que a",
+      "url": "https://catracalivre.com.br/saude-bem-estar/vacina-da-mpox-e-aprovada-para-adolescentes/",
+      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1280,h=720,fit=cover,format=jpeg/wp-content/uploads/2024/08/mpox-cepa-letal.jpg",
+      "publishedAt": "2024-10-15 21:02:40",
+      "content": "OMS aprova vacina mpox para adolescentes - lightsource/DepositPhotos A Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS) aprovou, na segunda-feira, 14, o uso da vacina contra a mpox para adolescentes entre 12 e 17\u2026 [+2741 chars]",
+      "retrievedAt": "2024-10-17 07:06:35.615861",
+      "internal_id": "6114cc69b0166cc0d21d76acf245a2a12ddb4e5f947d109e78e91bb0f0a83516",
+      "publishedAtLabel": "Oct 15"
+    },
+    {
+      "id": 14616,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Bruna Sales",
+      "title": "Cidade de S\u00e3o Paulo registra 466 casos de mpox confirmados em 2024",
+      "description": "Mais 20 casos da doen\u00e7a, antigamente conhecida como var\u00edola dos macacos, foram confirmados em S\u00e3o Paulo em oito dias",
+      "url": "https://www.metropoles.com/sao-paulo/cidade-de-sao-paulo-registra-466-casos-de-mpox-confirmados-em-2024",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/09/17132738/mpox-maos.jpg",
+      "publishedAt": "2024-10-15 20:04:01",
+      "content": "S\u00e3o Paulo A cidade de S\u00e3o Paulo registrou 466 casos de mpox neste ano at\u00e9 a \u00faltima sexta-feira (11/10), de acordo com o \u00faltimo boletim epidemiol\u00f3gico da Secretaria Municipal da Sa\u00fade, divulgado nesta\u2026 [+7510 chars]",
+      "retrievedAt": "2024-10-17 07:06:35.706730",
+      "internal_id": "37788ab111dbda68aa14dd92b740692cd62f60f99ef08a123ebc261cf0ea7674",
+      "publishedAtLabel": "Oct 15"
+    },
+    {
+      "id": 14610,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Harvard School of Engineering and Applied Sciences",
+      "author": "Al Powell",
+      "title": "Threat of mosquito-borne diseases rises in U.S. with global temperature",
+      "description": "Experts fear more cases of West Nile virus, EEE (and possibly Zika, Dengue fever) as warm seasons get longer, wetter.",
+      "url": "https://news.harvard.edu/gazette/story/2024/10/threat-of-mosquito-borne-diseases-rises-with-global-temperature/",
+      "urlToImage": "https://news.harvard.edu/wp-content/uploads/2024/10/100224_mosquito_05.jpg",
+      "publishedAt": "2024-10-15 19:07:47",
+      "content": "Crisper fall weather is descending, signaling the coming end of another mosquito season that this year saw modest outbreaks of West Nile virus and eastern equine encephalitis. The good news has been\u2026 [+6748 chars]",
+      "retrievedAt": "2024-10-17 07:06:34.443171",
+      "internal_id": "3b8b32dd3cf184b384b0ae8ecf117127d3756a0834bd50bc54a3b92188a70b53",
+      "publishedAtLabel": "Oct 15"
+    },
     {
       "id": 14608,
       "query": [
@@ -29778,6 +29923,114 @@
       "content": "El Ministerio de Salud de Per\u00fa (Minsa) confirm\u00f3 la existencia de un caso de meningitis y el seguimiento de otros posibles afectados por un brote de esta enfermedad en una localidad remota de la re\u2026 [+2214 chars]",
       "retrievedAt": "2024-09-03 07:06:27.157147",
       "internal_id": "3e9848a7b4071db2edb3702ff7f3ef0d520124067714b1a62dfb0a367110b6e4",
+      "publishedAtLabel": "Sep 1"
+    },
+    {
+      "id": 13002,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Aajtak.in",
+      "author": "aajtak.in",
+      "title": "PAK \u092e\u0947\u0902 Mpox \u0915\u093e \u091a\u094c\u0925\u093e \u0915\u0947\u0938 \u092e\u093f\u0932\u093e, \u0935\u093f\u0926\u0947\u0936 \u0938\u0947 \u0932\u094c\u091f\u0947 \u0925\u0947 \u0938\u092d\u0940 \u092e\u0930\u0940\u091c, \u090f\u092f\u0930\u092a\u094b\u0930\u094d\u091f \u092a\u0930 \u092c\u0922\u093c\u093e\u0908 \u0928\u093f\u0917\u0930\u093e\u0928\u0940",
+      "description": "\u092a\u093e\u0915\u093f\u0938\u094d\u0924\u093e\u0928 \u0928\u0947 \u090f\u092e\u092a\u0949\u0915\u094d\u0938 \u0938\u0947 \u0928\u093f\u092a\u091f\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u090f\u0939\u0924\u093f\u092f\u093e\u0924\u0940 \u0915\u0926\u092e \u0909\u0920\u093e\u090f \u0939\u0948\u0902. \u0907\u0938\u0947 \u0932\u0947\u0915\u0930 \u090f\u092f\u0930\u092a\u094b\u0930\u094d\u091f \u092a\u0930 \u0938\u0916\u094d\u0924 \u0938\u093f\u0915\u094d\u092f\u094b\u0930\u093f\u091f\u0940 \u0938\u093f\u0938\u094d\u091f\u092e \u0932\u093e\u0917\u0942 \u0915\u093f\u092f\u093e \u0917\u092f\u093e \u0939\u0948, \u0915\u094d\u092f\u094b\u0902\u0915\u093f \u092f\u0939 \u0938\u093e\u092e\u0928\u0947 \u0906\u092f\u093e \u0939\u0948 \u0915\u093f \u090f\u092e\u092a\u0949\u0915\u094d\u0938 \u0935\u093e\u092f\u0930\u0938 \u0938\u0947 \u0938\u0902\u0915\u094d\u0930\u092e\u093f\u0924 \u0938\u092d\u0940 \u092e\u0930\u0940\u091c \u0935\u093f\u0926\u0947\u0936 \u0938\u0947 \u0932\u094c\u091f\u0947 \u0925\u0947.",
+      "url": "https://www.aajtak.in/world/story/pakistan-fourth-case-of-mpox-found-all-infected-patients-had-returned-from-abroad-increased-surveillance-at-airport-ntc-2027934-2024-09-01",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202409/66d494cfb0004-pakistan-fourth-case-of-mpox-012238510-16x9.png",
+      "publishedAt": "2024-09-01 16:24:21",
+      "content": "MPOX , . - . - . ( ) (PSH) . . . . - , . 19 47 (PIMS) . . PIMS . , . , , . , . 4 . . , .",
+      "retrievedAt": "2024-09-04 07:06:06.004231",
+      "internal_id": "c1c0a2f858fac828940b6fbea65b7f978469b37ed691ba046373e7e23e3bebea",
+      "publishedAtLabel": "Sep 1"
+    },
+    {
+      "id": 12990,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "PTI",
+      "title": "Authorities in Pakistan confirm fourth case of mpox virus",
+      "description": "Pakistan reported its fourth case of monkeypox in Khyber-Pakhtunkhwa province, where three other cases were also confirmed. All patients had returned from abroad, with no local transmission reported. Authorities have implemented strict airport screening. The \u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/authorities-in-pakistan-confirm-fourth-case-of-mpox-virus/articleshow/112971353.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-112971380,width-1200,height-630,imgsize-74546,overlay-economictimes/photo.jpg",
+      "publishedAt": "2024-09-01 14:24:51",
+      "content": "Authorities in Pakistan on Sunday reported another case of monkeypox (mpox) virus amid the confusion about the total number of cases confirmed so far in the country. The fourth case was detected in K\u2026 [+2246 chars]",
+      "retrievedAt": "2024-09-04 07:06:05.932306",
+      "internal_id": "5cef8ac5510c943badb8e476202518f255d1da1ec5ffc95a8244c4b3b13b8696",
+      "publishedAtLabel": "Sep 1"
+    },
+    {
+      "id": 12950,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": null,
+      "title": "Pak's Peshawar Emerges As 'Epicentre' Of Mpox As Tally Reaches 5: Report",
+      "description": "Amid growing concerns over the new strain of mpox virus, Pakistan's Peshawar city has started emerging as the 'epicentre' of the virus, as the fifth mpox case was recorded on Sunday, Geo News reported.",
+      "url": "https://www.ndtv.com/world-news/pakistans-peshawar-emerges-as-epicentre-of-mpox-as-tally-reaches-5-report-6467196",
+      "urlToImage": "https://c.ndtvimg.com/2024-08/1n5d9p5_mpox-reuters_625x300_24_August_24.jpeg",
+      "publishedAt": "2024-09-01 13:50:44",
+      "content": "The mpox virus shows flu-like symptoms and pus-filled lesions (Representational) Islamabad: Amid growing concerns over the new strain of mpox virus, Pakistan's Peshawar city has started emerging as \u2026 [+2390 chars]",
+      "retrievedAt": "2024-09-03 07:06:29.235040",
+      "internal_id": "97f9ccb2060e6d61e34aa9b0c0b1bd8a6ab09cfe9a02837a13e6358e423c6689",
+      "publishedAtLabel": "Sep 1"
+    },
+    {
+      "id": 12930,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TNN",
+      "title": "Jaipur sees a surge in dengue cases last week",
+      "description": "Jaipur has experienced a rise in dengue cases, with 40 new infections reported in the past week, totaling 300 cases. Statewide, cases increased by 284, with particular concern in Udaipur. Health officials are emphasizing prevention and treatment efforts, with\u2026",
+      "url": "https://timesofindia.indiatimes.com/city/jaipur/jaipur-sees-a-surge-in-dengue-cases-last-week/articleshow/112965963.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-112966030,width-1070,height-580,imgsize-29178,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-09-01 08:36:20",
+      "content": "9 biotin-rich foods to nourish hair, skin and nail",
+      "retrievedAt": "2024-09-02 19:06:00.726670",
+      "internal_id": "88e9aad11b8372588cc5e8f63cf95b221c48b81a550e47444d2934332f11deb5",
+      "publishedAtLabel": "Sep 1"
+    },
+    {
+      "id": 12931,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "info-money",
+      "source_name": "InfoMoney",
+      "author": "darrellchamplin",
+      "title": "Como a Mpox se espalha e quem corre mais risco? Tire suas d\u00favidas",
+      "description": "Entenda o que os cientistas aprenderam sobre o v\u00edrus, que foi recentemente declarado uma emerg\u00eancia de sa\u00fade global The post Como a Mpox se espalha e quem corre mais risco? Tire suas d\u00favidas appeared first on InfoMoney.",
+      "url": "https://www.infomoney.com.br/business/global/como-a-mpox-se-espalha-e-quem-corre-mais-risco-tire-suas-duvidas/",
+      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2024/08/2024-08-13t135812z_488502842_rc2yx8aqv1tn_rtrmadp_3_africa-mpox.webp?fit=1170%2C700&quality=70&strip=all",
+      "publishedAt": "2024-09-01 08:00:00",
+      "content": "Este m\u00eas, a Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS) declarou a Mpox uma emerg\u00eancia de sa\u00fade global. Anteriormente conhecido como monkeypox (var\u00edola dos macacos), o v\u00edrus est\u00e1 se espalhando rapidamente em \u2026 [+5639 chars]",
+      "retrievedAt": "2024-09-02 19:06:04.154812",
+      "internal_id": "bf3fe0c7f4e4539e1faaaf51794580c8e3e4502994583a4077d5a256a2462238",
+      "publishedAtLabel": "Sep 1"
+    },
+    {
+      "id": 12951,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Sudinfo.be",
+      "author": "Par Pauline Govaert avec AFP",
+      "title": "Mpox : comment la d\u00e9forestation a favoris\u00e9 l\u2019\u00e9pid\u00e9mie",
+      "description": "La d\u00e9forestation dans le bassin du Congo, connu comme \u00able poumon de l\u2019Afrique\u00bb, aurait favoris\u00e9 l\u2019\u00e9pid\u00e9mie de Mpox.",
+      "url": "https://www.sudinfo.be/id875008/article/2024-09-01/mpox-comment-la-deforestation-favorise-lepidemie",
+      "urlToImage": "https://spgeng.rosselcdn.net/sites/default/files/dpistyles_v2/FirstImageUrl/2024/09/01/node_875008/55830061/public/2024/09/01/24620914.jpeg?itok=yE0UBvF31725177634",
+      "publishedAt": "2024-09-01 08:00:00",
+      "content": "La recrudescence du mpox en R\u00e9publique d\u00e9mocratique du Congo (RDC), port\u00e9e par le clade 1b qui touche aussi le Burundi, le Kenya, le Rwanda et lOuganda, a incit\u00e9 lOrganisation mondiale de la sant\u00e9 (O\u2026 [+7241 chars]",
+      "retrievedAt": "2024-09-03 07:06:29.241063",
+      "internal_id": "825fd119eae7d39ba7fb596a39d18b8a542c8fb27e2f5aa8cbbb4cfbe3f2e8a6",
       "publishedAtLabel": "Sep 1"
     }
   ]
