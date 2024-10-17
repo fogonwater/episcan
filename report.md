@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 8
-- **Last harvest:** 2024-10-17 07:06
-- **Most recent article:** 2024-10-16 04:15:17
+- **New articles in last harvest:** 20
+- **Last harvest:** 2024-10-17 19:05
+- **Most recent article:** 2024-10-16 18:47:15
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-36 | 24-37 | 24-38 | 24-39 | 24-40 | 24-41 | 24-42 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 175 | 192 | 140 | 122 | 128 | 42 | 44 | 843 |
-| dengue | 47 | 76 | 73 | 49 | 51 | 35 | 17 | 348 |
-| h5n1 | 31 | 10 | 17 | 35 | 50 | 10 | 11 | 164 |
-| malaria | 13 | 12 | 15 | 24 | 10 | 13 | 8 | 95 |
-| rabies | 7 | 5 | 13 | 25 | 30 | 6 | 2 | 88 |
-| meningitis | 6 | 3 | 10 | 6 | 11 | 2 | 0 | 38 |
+| mpox | 170 | 192 | 140 | 122 | 128 | 42 | 49 | 843 |
+| dengue | 46 | 76 | 73 | 49 | 51 | 35 | 25 | 355 |
+| h5n1 | 31 | 10 | 17 | 35 | 50 | 10 | 14 | 167 |
+| malaria | 13 | 12 | 15 | 24 | 10 | 13 | 9 | 96 |
+| rabies | 7 | 5 | 13 | 25 | 30 | 6 | 3 | 89 |
+| meningitis | 6 | 3 | 10 | 6 | 11 | 2 | 1 | 39 |
 | chikungunya | 4 | 13 | 9 | 3 | 3 | 3 | 1 | 36 |
 | measles | 8 | 5 | 8 | 4 | 6 | 5 | 0 | 36 |
 | zika | 6 | 10 | 8 | 1 | 3 | 4 | 2 | 34 |
-| pertussis | 1 | 5 | 3 | 3 | 2 | 2 | 3 | 19 |
+| pertussis | 1 | 5 | 3 | 3 | 2 | 2 | 4 | 20 |
 | leptospirosis | 1 | 0 | 1 | 5 | 4 | 1 | 1 | 13 |
 | hpai | 3 | 1 | 0 | 2 | 2 | 1 | 0 | 9 |
 | yersinia | 2 | 0 | 2 | 2 | 1 | 1 | 0 | 8 |
@@ -45,11 +45,15 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-42 (rabies)
 
+- [How Rabies Gave Us Half of Halloween’s Monsters](https://www.cracked.com/article_43965_how-rabies-gave-us-half-of-halloweens-monsters.html) (Cracked.com)
+
 - [Unter Israels Angriffen: Sie helfen sich mit Rezepten nach „Gaza-Art“](https://www.faz.net/aktuell/politik/krieg-in-nahost/unter-israels-angriffen-sie-helfen-sich-mit-rezepten-nach-gaza-art-110046211.html) (Faz.net)
 
 - [General public knowledge, attitudes, and practices about rabies and associated factors in Gomma district of Jimma zone, southwestern Ethiopia](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012551) (Plos.org)
 
 ## 24-42 (pertussis)
+
+- [How Can You Prevent Pertussis? Which Vaccine Is Best?](https://www.forbes.com/sites/judystone/2024/10/16/how-can-you-prevent-pertussis-which-vaccine-is-best/) (Forbes)
 
 - [Whooping cough, or pertussis, cases on the rise in Galveston County, mirroring nationwide spike reported by CDC](https://abc13.com/post/whooping-cough-pertussis-cases-rise-galveston-county-mirroring-nationwide-spike-reported-cdc/15430963/) (KTRK-TV)
 
@@ -58,6 +62,16 @@ Source: [News API](https://newsapi.org/)
 - [What parents need to know as whooping cough cases surge](https://abcnews.go.com/GMA/Wellness/parents-whooping-cough-cases-surge/story?id=114774431) (ABC News)
 
 ## 24-42 (mpox)
+
+- [The world needs innovative antiviral drugs—but market incentives won’t align until it’s too late, Germany’s ‘head of challenges’ warns](https://fortune.com/europe/2024/10/16/world-needs-innovative-antiviral-drugsbut-market-incentives-next-pandemic-pharma-finance-health/) (Fortune)
+
+- [Mpox vaccine is safe and generates a robust antibody response in adolescents, study finds](https://www.sciencedaily.com/releases/2024/10/241016120919.htm) (Science Daily)
+
+- [4 faktorer: Därför ökar risken för ny pandemi](https://www.aftonbladet.se/nyheter/a/dRqPjJ/ny-rapport-globala-hot-utgor-risk-for-nya-pandemier) (Aftonbladet.se)
+
+- [EU votes additional €20m to fight Mpox in DRC](https://punchng.com/eu-votes-additional-e20m-to-fight-mpox-in-drc/) (The Punch)
+
+- [Press release: UK bolsters support to tackle mpox and Marburg in central Africa](https://www.gov.uk/government/news/uk-bolsters-support-to-tackle-mpox-and-marburg-in-central-africa) (Www.gov.uk)
 
 - [Mpox cases still low but treatment options are ready, Dewan Rakyat told](https://www.thestar.com.my/news/nation/2024/10/16/mpox-cases-still-low-but-treatment-options-are-ready-dewan-rakyat-told) (The Star Online)
 
@@ -147,7 +161,13 @@ Source: [News API](https://newsapi.org/)
 
 - [First mpox diagnostic test approved by WHO](https://www.thestar.com.my/lifestyle/health/2024/10/13/first-mpox-diagnostic-test-approved-by-who) (The Star Online)
 
+## 24-42 (meningitis)
+
+- [Meningococcal disease confirmed at Bonham Elementary School](https://www.fox26houston.com/news/meningococcal-disease-confirmed-bonham-elementary-school) (fox26houston.com)
+
 ## 24-42 (malaria)
+
+- [‘American Malaria’ Is on the Rise](https://time.com/7086273/american-malaria-babesiosis-ticks-lyme-disease/) (Time)
 
 - [14 of 25 districts of Arunachal are now malaria free](https://thehillstimes.in/northeast/14-of-25-districts-of-arunachal-are-now-malaria-free) (Thehillstimes.in)
 
@@ -170,6 +190,12 @@ Source: [News API](https://newsapi.org/)
 - [Leptospirosis cases cause for concern](https://www.bostonherald.com/2024/10/13/leptospirosis-cases-cause-for-concern/) (Boston Herald)
 
 ## 24-42 (h5n1)
+
+- [Nachweis bei Wildvogel: Geflügelpest bei Mantelmöwe in Nordfriesland festgestellt](https://www.zeit.de/news/2024-10/16/gefluegelpest-bei-mantelmoewe-in-nordfriesland-festgestellt) (Die Zeit)
+
+- [Vaccine veteran adds to criticisms of response to bird flu in cows](https://www.statnews.com/2024/10/16/barney-graham-stat-summit-vaccines-bird-flu/) (STAT)
+
+- [Bird flu pandemic risk divides experts. Is it time to panic yet?](https://www.statnews.com/2024/10/16/bird-flu-pandemic-overall-risk-low-continued-h5n1-outbreak-dairy-cattle-worrisome/) (STAT)
 
 - [Santé. Cinq choses à savoir sur la grippe aviaire, qui va passer en risque "modéré" en France](https://www.ledauphine.com/sante/2024/10/15/cinq-choses-a-savoir-sur-la-grippe-aviaire-qui-va-passer-en-risque-modere-en-france) (Le Dauphiné Libéré)
 
@@ -194,6 +220,22 @@ Source: [News API](https://newsapi.org/)
 - [Labor sets out $95 million to combat potential arrival of deadly bird flu strain H5N1](https://www.abc.net.au/news/2024-10-13/labor-announces-95m-in-funding-for-bird-flu-h5n1/104467622) (ABC News (AU))
 
 ## 24-42 (dengue)
+
+- [Fiocruz entra com pedido para produzir vacina da dengue no Brasil](https://www.metropoles.com/saude/fiocruz-pedido-vacina-dengue-brasil) (Metropoles.com)
+
+- [Moustique tigre : Avec 80 cas autochtones, la dengue bat des records dans l’Hexagone](https://www.20minutes.fr/sante/4116049-20241016-moustique-tigre-80-cas-autochtones-dengue-bat-records-hexagone) (20 Minutes)
+
+- [Are you tasty to mosquitoes? Study offers clues into when and why they bite](https://news.yale.edu/2024/10/16/are-you-tasty-mosquitoes-study-offers-clues-when-and-why-they-bite) (Yale.edu)
+
+- [La France métropolitaine menacée d’une épidémie de dengue](https://www.lemonde.fr/planete/article/2024/10/16/la-france-metropolitaine-menacee-d-une-epidemie-de-dengue_6353567_3244.html) (Le Monde)
+
+- [Cidade de Guangzhou, no Sul da China, enfrenta surto de dengue](https://www.infomoney.com.br/saude/cidade-de-guangzhou-no-sul-da-china-enfrenta-surto-de-dengue/) (InfoMoney)
+
+- [Exclusivo: Fiocruz e Takeda entram com pedido para produção de vacina contra a dengue no Brasil](https://valor.globo.com/empresas/noticia/2024/10/16/fiocruz-e-takeda-entram-com-pedido-para-producao-de-vacina-contra-a-dengue-no-brasil.ghtml) (Globo)
+
+- [Veszélyes kór terjed rohamosan Kínában - Ezek a tünetei](https://www.portfolio.hu/gazdasag/20241016/veszelyes-kor-terjed-rohamosan-kinaban-ezek-a-tunetei-717049) (Portfolio.hu)
+
+- [Curta](https://valor.globo.com/brasil/noticia/2024/10/16/curta.ghtml) (Globo)
 
 - [Dengue: Over 19,000 infected nationwide as cases surge](https://english.khabarhub.com/2024/16/406227/) (Khabarhub.com)
 
@@ -3445,16 +3487,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Mpox concerns grow in Pakistan as Peshawar reports fifth case](https://economictimes.indiatimes.com/news/international/world-news/mpox-concerns-grow-in-pakistan-as-peshawar-reports-fifth-case/articleshow/112978523.cms) (The Times of India)
 
-- [PAK में Mpox का चौथा केस मिला, विदेश से लौटे थे सभी मरीज, एयरपोर्ट पर बढ़ाई निगरानी](https://www.aajtak.in/world/story/pakistan-fourth-case-of-mpox-found-all-infected-patients-had-returned-from-abroad-increased-surveillance-at-airport-ntc-2027934-2024-09-01) (Aajtak.in)
-
-- [Authorities in Pakistan confirm fourth case of mpox virus](https://economictimes.indiatimes.com/news/international/world-news/authorities-in-pakistan-confirm-fourth-case-of-mpox-virus/articleshow/112971353.cms) (The Times of India)
-
-- [Pak's Peshawar Emerges As 'Epicentre' Of Mpox As Tally Reaches 5: Report](https://www.ndtv.com/world-news/pakistans-peshawar-emerges-as-epicentre-of-mpox-as-tally-reaches-5-report-6467196) (NDTV News)
-
-- [Como a Mpox se espalha e quem corre mais risco? Tire suas dúvidas](https://www.infomoney.com.br/business/global/como-a-mpox-se-espalha-e-quem-corre-mais-risco-tire-suas-duvidas/) (InfoMoney)
-
-- [Mpox : comment la déforestation a favorisé l’épidémie](https://www.sudinfo.be/id875008/article/2024-09-01/mpox-comment-la-deforestation-favorise-lepidemie) (Sudinfo.be)
-
 ## 24-36 (meningitis)
 
 - [Luis Canut lanza un emotivo mensaje a Patricia Pérez por ser su mayor apoyo ante su enfermedad: 'Me salvó la vida'](https://www.bekia.es/celebrities/noticias/luis-canut-lanza-emotivo-mensaje-patricia-perez-apoyo/) (Bekia.es)
@@ -3684,8 +3716,6 @@ Source: [News API](https://newsapi.org/)
 - [One dies of dengue infection in Chitwan](https://english.khabarhub.com/2024/02/393092/) (Khabarhub.com)
 
 - [Bacolod: Province logs 414 dengue cases in a week](https://rpnradio.com/bacolod-province-logs-414-dengue-cases-in-a-week/) (Rpnradio.com)
-
-- [Jaipur sees a surge in dengue cases last week](https://timesofindia.indiatimes.com/city/jaipur/jaipur-sees-a-surge-in-dengue-cases-last-week/articleshow/112965963.cms) (The Times of India)
 
 ## 24-36 (chikungunya)
 

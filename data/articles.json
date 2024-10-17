@@ -1,8 +1,368 @@
 {
-  "last_updated": "2024-10-17 07:06",
-  "count_articles_total": 1664,
-  "count_articles_new": 8,
+  "last_updated": "2024-10-17 19:05",
+  "count_articles_total": 1678,
+  "count_articles_new": 20,
   "articles": [
+    {
+      "id": 14626,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Ravenna Alves",
+      "title": "Fiocruz entra com pedido para produzir vacina da dengue no Brasil",
+      "description": "O objetivo \u00e9 permitir a produ\u00e7\u00e3o nacional da vacina, o que ampliaria a oferta de imunizantes contra a dengue no pa\u00eds",
+      "url": "https://www.metropoles.com/saude/fiocruz-pedido-vacina-dengue-brasil",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/02/10095623/vacinacao-dengue-vacina-qdenga-imunizante-df1.jpeg",
+      "publishedAt": "2024-10-16 18:47:15",
+      "content": "A Fiocruz (Funda\u00e7\u00e3o Oswaldo Cruz) enviou um pedido de autoriza\u00e7\u00e3o ao Minist\u00e9rio da Sa\u00fade para fechar um acordo de transfer\u00eancia de tecnologia com a farmac\u00eautica japonesa Takeda. O objetivo \u00e9 receber\u2026 [+1752 chars]",
+      "retrievedAt": "2024-10-17 19:05:46.261239",
+      "internal_id": "f96a46ea6e48b70372ea68e2991d239268da930bbb1e7eeba55135985d35c900",
+      "publishedAtLabel": "Oct 16"
+    },
+    {
+      "id": 14631,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "fox26houston.com",
+      "author": "Fox 26 Digital",
+      "title": "Meningococcal disease confirmed at Bonham Elementary School",
+      "description": "Meningococcal disease, also referred to as meningitis, has been confirmed at Bonham Elementary School in Houston Independent School District, according to the Houston Health Department.",
+      "url": "https://www.fox26houston.com/news/meningococcal-disease-confirmed-bonham-elementary-school",
+      "urlToImage": "https://images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/10/1280/720/gettyimages-2163393395.jpg?ve=1&tl=1",
+      "publishedAt": "2024-10-16 18:11:14",
+      "content": "HOUSTON - A case of meningococcal disease, also referred to as meningitis, has been confirmed at Bonham Elementary School in Houston Independent School District. The Houston Health Department tells \u2026 [+1181 chars]",
+      "retrievedAt": "2024-10-17 19:05:46.792689",
+      "internal_id": "83f70ab8e7e12a3d19268a367e89b928dff590332d0e4443a4e5b9180ca81a1f",
+      "publishedAtLabel": "Oct 16"
+    },
+    {
+      "id": 14630,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "20 Minutes",
+      "author": "20 Minutes (20 Minutes)",
+      "title": "Moustique tigre : Avec 80 cas autochtones, la dengue bat des records dans l\u2019Hexagone",
+      "description": "Le pr\u00e9c\u00e9dent record de cas autochtones remonte \u00e0 2022 alors que le virus progresse dans le monde entier et inqui\u00e8te les autorit\u00e9s sanitaires",
+      "url": "https://www.20minutes.fr/sante/4116049-20241016-moustique-tigre-80-cas-autochtones-dengue-bat-records-hexagone",
+      "urlToImage": "https://img.20mn.fr/CmqtG2KSTLiGTyXrlcv0Dik/1444x920_la-ville-de-mougins-subventionne-30-pour-cent-et-jusqu-a-300-euros-l-acquisition-d-un-dispositif-brevete-de-lutte-contre-la-proliferation-des-moustiques-mougins-france-07-07-2023-syspeo-sys-a002-credit-syspeo-sipa-2307160714",
+      "publishedAt": "2024-10-16 17:41:15",
+      "content": "Elle pourrait bien \u00eatre la prochaine \u00e9pid\u00e9mie en France. La dengue, un virus qui se transmet par les piq\u00fbres de moustiques tigres, progresse et inqui\u00e8te les autorit\u00e9s sanitaires. Selon le dernier bil\u2026 [+1291 chars]",
+      "retrievedAt": "2024-10-17 19:05:46.314648",
+      "internal_id": "a0797acae30a3749e2868be2c5e83b7e9f280e93135b4b57fc182374cd8fa291",
+      "publishedAtLabel": "Oct 16"
+    },
+    {
+      "id": 14635,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "fortune",
+      "source_name": "Fortune",
+      "author": "Jano Costard",
+      "title": "The world needs innovative antiviral drugs\u2014but market incentives won\u2019t align until it\u2019s too late, Germany\u2019s \u2018head of challenges\u2019 warns",
+      "description": "SPRIND's modeling shows that broad-spectrum antiviral drugs could reduce severe infections and deaths to less than 1% of what we saw with COVID-19.",
+      "url": "https://fortune.com/europe/2024/10/16/world-needs-innovative-antiviral-drugsbut-market-incentives-next-pandemic-pharma-finance-health/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/10/Jano_Costard_2-e1729097375279.jpg?resize=1200,600",
+      "publishedAt": "2024-10-16 16:52:44",
+      "content": "As we emerge from the shadow of COVID-19, its clear that our global health security remains fragile. As the mpox outbreak continues to spread, the rise of a virus with various strains and modes of tr\u2026 [+5004 chars]",
+      "retrievedAt": "2024-10-17 19:05:48.724825",
+      "internal_id": "8a85c7b89b0847b08df189bffa96cf00cb7b9c4449468e6156b351f974d061c7",
+      "publishedAtLabel": "Oct 16"
+    },
+    {
+      "id": 14618,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Judy Stone, Senior Contributor, \n Judy Stone, Senior Contributor\n https://www.forbes.com/sites/judystone/",
+      "title": "How Can You Prevent Pertussis? Which Vaccine Is Best?",
+      "description": "Whooping cough is on the rise. There is some controversy over what might be the best vaccine strategy. For now, Tdap appears to be the best choice.",
+      "url": "https://www.forbes.com/sites/judystone/2024/10/16/how-can-you-prevent-pertussis-which-vaccine-is-best/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/670ed4fa60c6ab37067b8445/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-10-16 16:49:21",
+      "content": "Mariah Bianchi describes how her own case of whooping cough caused the death of her newborn son, at ... [+] a news conference by the Centers for Disease Control and Prevention (AP Photo/Reed Saxon) \u2026 [+5129 chars]",
+      "retrievedAt": "2024-10-17 19:05:43.935076",
+      "internal_id": "5a0954fad29f0dafbbc2804c2036b0171b73a2c52706c2cefb207e9f5efff143",
+      "publishedAtLabel": "Oct 16"
+    },
+    {
+      "id": 14619,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Cracked.com",
+      "author": "Eli Yudin",
+      "title": "How Rabies Gave Us Half of Halloween\u2019s Monsters",
+      "description": "One of the O.G. reasons for people to act like freaks",
+      "url": "https://www.cracked.com/article_43965_how-rabies-gave-us-half-of-halloweens-monsters.html",
+      "urlToImage": "https://s3.crackedcdn.com/phpimages/article/5/2/4/1166524.jpg",
+      "publishedAt": "2024-10-16 16:30:00",
+      "content": "What do vampires, werewolves and zombies all have in common other than being an essential part of Halloween canon? These Monster Mash regulars share a possible origin thats completely grounded in m\u2026 [+2606 chars]",
+      "retrievedAt": "2024-10-17 19:05:44.415352",
+      "internal_id": "deda08c423ee7183c127cb37c3f2d4e223e20175a80daba0fc646f7dc43d7385",
+      "publishedAtLabel": "Oct 16"
+    },
+    {
+      "id": 14633,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "Mpox vaccine is safe and generates a robust antibody response in adolescents, study finds",
+      "description": "A clinical trial of an mpox vaccine in adolescents found it was safe and generated an antibody response equivalent to that seen in adults, according to a planned interim analysis of study data. Adolescents are among the population groups affected by mpox in t\u2026",
+      "url": "https://www.sciencedaily.com/releases/2024/10/241016120919.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2024-10-16 16:09:19",
+      "content": "A National Institutes of Health (NIH)-funded clinical trial of an mpox vaccine in adolescents found it was safe and generated an antibody response equivalent to that seen in adults, according to a pl\u2026 [+2643 chars]",
+      "retrievedAt": "2024-10-17 19:05:48.600425",
+      "internal_id": "999164fdbd1e737e8f613143a8705d5926b37765ae5c2ded304dbf6238eab37a",
+      "publishedAtLabel": "Oct 16"
+    },
+    {
+      "id": 14620,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "ZEIT ONLINE: News -",
+      "title": "Nachweis bei Wildvogel: Gefl\u00fcgelpest bei Mantelm\u00f6we in Nordfriesland festgestellt",
+      "description": "Hier finden Sie Informationen zu dem Thema \u201eNachweis bei Wildvogel\u201c. Lesen Sie jetzt \u201eGefl\u00fcgelpest bei Mantelm\u00f6we in Nordfriesland festgestellt\u201c.",
+      "url": "https://www.zeit.de/news/2024-10/16/gefluegelpest-bei-mantelmoewe-in-nordfriesland-festgestellt",
+      "urlToImage": "https://img.zeit.de/news/2024-10/16/gefluegelpest-bei-mantelmoewe-in-nordfriesland-festgestellt-image-group/wide__1300x731",
+      "publishedAt": "2024-10-16 16:03:06",
+      "content": "In Schleswig-Holstein wurde nach mehrmonatiger Pause erneut Gefl\u00fcgelpest bei einem Wildvogel nachgewiesen. Das Friedrich-Loeffler-Institut (FLI) hat den Subtyp H5N1 bei einer Mantelm\u00f6we von der Hambu\u2026 [+805 chars]",
+      "retrievedAt": "2024-10-17 19:05:45.494498",
+      "internal_id": "58386bdf32ac93f764c4f6d0e0f3d0c40ed383d7536e0e87f159d5e665774cd6",
+      "publishedAtLabel": "Oct 16"
+    },
+    {
+      "id": 14622,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "STAT",
+      "author": "Andrew Joseph",
+      "title": "Vaccine veteran adds to criticisms of response to bird flu in cows",
+      "description": "Barney Graham, a former NIH vaccine developer, said U.S. agencies aren't coordinating the response to the bird flu outbreak among cows.",
+      "url": "https://www.statnews.com/2024/10/16/barney-graham-stat-summit-vaccines-bird-flu/",
+      "urlToImage": "https://www.statnews.com/wp-content/uploads/2024/10/STAT_Boston_DayOne_9-1024x576.jpg",
+      "publishedAt": "2024-10-16 15:56:52",
+      "content": "Barney Graham, who for decades helped lead U.S. vaccine development efforts, said Wednesday that the lack of cooperation among U.S. agencies is hindering the countrys response to the H5N1 bird flu ou\u2026 [+2943 chars]",
+      "retrievedAt": "2024-10-17 19:05:45.562390",
+      "internal_id": "676385c1c4cb32772ee23aa1afe046c9c10d17b44b77ed844bd42491fb4be60c",
+      "publishedAtLabel": "Oct 16"
+    },
+    {
+      "id": 14636,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Aftonbladet.se",
+      "author": "Mattias Kjellman",
+      "title": "4 faktorer: D\u00e4rf\u00f6r \u00f6kar risken f\u00f6r ny pandemi",
+      "description": "Det finns globala h\u00e4lsohot som g\u00f6r oss s\u00e5rbara. Dessa \u00f6kar risken f\u00f6r nya pandemier, enligt en ny rapport. \u2013 Risken \u00e4r v\u00e4ldigt n\u00e4ra 100 procent att vi kommer f\u00e5 nya pandemier och de kommer komma t\u00e4tare fram\u00f6ver, s\u00e4ger statsepidemiolog Magnus Gissl\u00e9n.",
+      "url": "https://www.aftonbladet.se/nyheter/a/dRqPjJ/ny-rapport-globala-hot-utgor-risk-for-nya-pandemier",
+      "urlToImage": "https://images.aftonbladet-cdn.se/v2/images/e385d630-08ca-456b-8079-9498b8eb31e7?fit=crop&format=auto&h=628&q=50&w=1200&s=a98d7c7e99507254129db71ad9a584b4ce9739cd",
+      "publishedAt": "2024-10-16 15:52:03",
+      "content": "Bara under 2024 har sjukdomar som mpox, marburg och nya spridningsv\u00e4gar av f\u00e5gelinfluensa brutit ut. Dessa sjukdomsutbrott visar tydligt hur s\u00e5rbara vi \u00e4r. Enligt en ny rapport finns det ett stort an\u2026 [+221 chars]",
+      "retrievedAt": "2024-10-17 19:05:48.793798",
+      "internal_id": "52f02faa0b482ca95e820abd4410e4f4c7921b42834f4bfe5bc97bf7e2983e72",
+      "publishedAtLabel": "Oct 16"
+    },
+    {
+      "id": 14629,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Yale.edu",
+      "author": "news@yale.edu (Yale News)",
+      "title": "Are you tasty to mosquitoes? Study offers clues into when and why they bite",
+      "description": "Yale researchers have uncovered how taste guides mosquitoes\u2019 biting behavior, which may inform efforts to deter biting and halt disease spread.",
+      "url": "https://news.yale.edu/2024/10/16/are-you-tasty-mosquitoes-study-offers-clues-when-and-why-they-bite",
+      "urlToImage": "https://news.yale.edu/sites/default/files/styles/opengraph_image/public/ynews-mosquito-taste.jpg?itok=xzdM5EUj",
+      "publishedAt": "2024-10-16 15:39:52",
+      "content": "As mosquitoes and mosquito-borne illnesses like dengue fever spread across the world, researchers say that a key strategy to prevent these illnesses may be dissuading the insects from biting their vi\u2026 [+3919 chars]",
+      "retrievedAt": "2024-10-17 19:05:46.308630",
+      "internal_id": "01ac83e4c694762ef33a311a3020d9334d5e71adea834bff0e7574dbc00235ad",
+      "publishedAtLabel": "Oct 16"
+    },
+    {
+      "id": 14625,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "le-monde",
+      "source_name": "Le Monde",
+      "author": "Delphine Roucaute",
+      "title": "La France m\u00e9tropolitaine menac\u00e9e d\u2019une \u00e9pid\u00e9mie de dengue",
+      "description": "Selon un rapport de l\u2019Anses, la probabilit\u00e9 d\u2019une \u00e9pid\u00e9mie d\u2019arbovirose en France m\u00e9tropolitaine dans les cinq prochaines ann\u00e9es est tr\u00e8s \u00e9lev\u00e9e, alors qu\u2019un record de 78 cas autochtones de dengue a \u00e9t\u00e9 enregistr\u00e9 cette ann\u00e9e.",
+      "url": "https://www.lemonde.fr/planete/article/2024/10/16/la-france-metropolitaine-menacee-d-une-epidemie-de-dengue_6353567_3244.html",
+      "urlToImage": "https://img.lemde.fr/2024/10/16/0/1/3070/2047/1440/960/60/0/e7753ec_1729087470433-media-appel-3x.png",
+      "publishedAt": "2024-10-16 14:09:51",
+      "content": "Le nombre de cas autochtones de dengue en France explose les compteurs. Depuis le 1er mai, d\u00e9but de lactivit\u00e9 des moustiques tigres, 78 personnes ont contract\u00e9 la maladie tropicale, sans pour autant \u2026 [+2578 chars]",
+      "retrievedAt": "2024-10-17 19:05:46.249513",
+      "internal_id": "60fba8868a82ef23a5f3f0b6d3e3315df3207c26ce45ff483a628c96c1f3b721",
+      "publishedAtLabel": "Oct 16"
+    },
+    {
+      "id": 14632,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "time",
+      "source_name": "Time",
+      "author": "Jeffrey Kluger",
+      "title": "\u2018American Malaria\u2019 Is on the Rise",
+      "description": "Babesiosis, a tick-borne illness, is becoming more common in the U.S. And it's occurring alongside other infections like Lyme disease.",
+      "url": "https://time.com/7086273/american-malaria-babesiosis-ticks-lyme-disease/",
+      "urlToImage": "https://api.time.com/wp-content/uploads/2024/10/ticks-us-disease.jpg?quality=85&w=1200&h=628&crop=1",
+      "publishedAt": "2024-10-16 13:56:22",
+      "content": "Few things will leave you feeling quite so grossed out as returning from a jaunt outside and finding a tick clinging to your skin. Not only is the unwelcome parasite sucking the blood from your body,\u2026 [+4817 chars]",
+      "retrievedAt": "2024-10-17 19:05:47.651581",
+      "internal_id": "eb43edcd035adafc845615c982dedec94ee2db103d4fb98748cc6fc657315549",
+      "publishedAtLabel": "Oct 16"
+    },
+    {
+      "id": 14624,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "info-money",
+      "source_name": "InfoMoney",
+      "author": "Roberto de Lira",
+      "title": "Cidade de Guangzhou, no Sul da China, enfrenta surto de dengue",
+      "description": "Na semana passada, a capital da prov\u00edncia de Guangdong registrou 437 casos, dos quais 360 eram locais e o restante importado, com tr\u00eas casos graves e nenhuma morte The post Cidade de Guangzhou, no Sul da China, enfrenta surto de dengue appeared first on InfoM\u2026",
+      "url": "https://www.infomoney.com.br/saude/cidade-de-guangzhou-no-sul-da-china-enfrenta-surto-de-dengue/",
+      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2024/10/aedes-mosquito-c-niaid.webp?quality=70",
+      "publishedAt": "2024-10-16 13:05:54",
+      "content": "A cidade portu\u00e1ria de Guangzhou, no sul da China, registrou um aumento de 73% nos casos de dengue no espa\u00e7o de uma semana, informou o jornal South China Morning Post. Na semana passada, a capital da \u2026 [+2428 chars]",
+      "retrievedAt": "2024-10-17 19:05:46.233085",
+      "internal_id": "5e629b1299cc9e7ebaa082683abc4232066eecd04a1f548087911db87df7ff78",
+      "publishedAtLabel": "Oct 16"
+    },
+    {
+      "id": 14627,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Exclusivo: Fiocruz e Takeda entram com pedido para produ\u00e7\u00e3o de vacina contra a dengue no Brasil",
+      "description": "Essa \u00e9 a primeira vez que a Fiocruz assina uma Parceria de Desenvolvimento Produtivo (PDP) para o desenvolvimento de uma vacina",
+      "url": "https://valor.globo.com/empresas/noticia/2024/10/16/fiocruz-e-takeda-entram-com-pedido-para-producao-de-vacina-contra-a-dengue-no-brasil.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/V1UqmGPMlfyLGLep7uZOf_Wmfgg=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2024/c/A/UXCddZSXAHr4wkaY3yWg/vacina-dengue-11.jpg",
+      "publishedAt": "2024-10-16 13:00:53",
+      "content": "As negocia\u00e7\u00f5es para a produ\u00e7\u00e3o no Brasil da vacina contra a dengue Qdenga, da fabricante japonesa Takeda Pharma, avan\u00e7aram. A Fiocruz entrou, h\u00e1 cerca de 15 dias, com um pedido formal no Minist\u00e9rio d\u2026 [+3813 chars]",
+      "retrievedAt": "2024-10-17 19:05:46.272036",
+      "internal_id": "b4b5ded5375da51c1f13c1a0074ee5ceb0903025eb6b117ff42aad962218262d",
+      "publishedAtLabel": "Oct 16"
+    },
+    {
+      "id": 14623,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Portfolio.hu",
+      "author": "Portfolio.hu",
+      "title": "Vesz\u00e9lyes k\u00f3r terjed rohamosan K\u00edn\u00e1ban - Ezek a t\u00fcnetei",
+      "description": "A dengue-l\u00e1z terjed\u00e9se aggaszt\u00f3 m\u00e9reteket \u00f6lt D\u00e9l-K\u00edn\u00e1ban - \u00edrta a South China Morning Post. Kuangcsou v\u00e1ros\u00e1ban dr\u00e1mai m\u00e9rt\u00e9kben, egy h\u00e9t alatt 73 sz\u00e1zal\u00e9kkal emelkedett a l\u00e1zas megbeteged\u00e9sek sz\u00e1ma. A dengue-l\u00e1z t\u00fcnetei k\u00f6z\u00e9 tartozik a l\u00e1z, er\u0151s fejf\u00e1j\u00e1s, i\u2026",
+      "url": "https://www.portfolio.hu/gazdasag/20241016/veszelyes-kor-terjed-rohamosan-kinaban-ezek-a-tunetei-717049",
+      "urlToImage": "https://pcdn.hu/articles/images-lg/s/z/u/szunyoginvazio-magyarorszagon-lep-a-katasztrofavedelem-294307.jpg",
+      "publishedAt": "2024-10-16 12:29:00",
+      "content": "A helyi j\u00e1rv\u00e1nyv\u00e9delmi \u00e9s megelz\u00e9si k\u00f6zpont adatai szerint az elm\u00falt h\u00e9ten 437 esetet regisztr\u00e1ltak, amelybl 360 helyi eredet, a t\u00f6bbi fertz\u00f6tt pedig a v\u00e1roson k\u00edv\u00fclrl \u00e9rkezett. T\u00f6bb h\u00f3nap ut\u00e1n elsz\u00f6\u2026 [+2424 chars]",
+      "retrievedAt": "2024-10-17 19:05:46.226168",
+      "internal_id": "14afea1745db1467a6bf59b7551632eecb796064d040e8d69d0992b881d8e26c",
+      "publishedAtLabel": "Oct 16"
+    },
+    {
+      "id": 14634,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Lara Adejoro",
+      "title": "EU votes additional \u20ac20m to fight Mpox in DRC",
+      "description": "The European Commissioner for International Partnerships, Jutta Urpilainen has announced an additional \u20ac20m funding towards the fight against the Mpox outbreak in the Democratic Republic of the Congo. This additional funding contributes to the DRC\u2019s Mpox resp\u2026",
+      "url": "https://punchng.com/eu-votes-additional-e20m-to-fight-mpox-in-drc/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2024/10/16161048/WhatsApp-Image-2024-10-16-at-15.42.23-1024x630.jpeg",
+      "publishedAt": "2024-10-16 12:08:06",
+      "content": "The European Commissioner for International Partnerships, Jutta Urpilainen has announced an additional 20m funding towards the fight against the Mpox outbreak in the Democratic Republic of the Congo.\u2026 [+2628 chars]",
+      "retrievedAt": "2024-10-17 19:05:48.679163",
+      "internal_id": "ed255438705aa37230f6b0a790304380419930da285e0bcbed33b2de4668d7b4",
+      "publishedAtLabel": "Oct 16"
+    },
+    {
+      "id": 14637,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": "Foreign, Commonwealth & Development Office",
+      "title": "Press release: UK bolsters support to tackle mpox and Marburg in central Africa",
+      "description": "The UK has announced a package of measures to tackle the outbreaks of mpox and Marburg in central Africa",
+      "url": "https://www.gov.uk/government/news/uk-bolsters-support-to-tackle-mpox-and-marburg-in-central-africa",
+      "urlToImage": "https://assets.publishing.service.gov.uk/media/621e4de4e90e0710be0354d7/s960_fcdo-main-building.jpg",
+      "publishedAt": "2024-10-16 09:44:30",
+      "content": "Support to bolster partners efforts to tackle mpox in the Democratic Republic of Congo (DRC), Uganda and other affected countries.UK Public Health Rapid Support Team sent to the regi\u2026 [+5592 chars]",
+      "retrievedAt": "2024-10-17 19:05:48.804639",
+      "internal_id": "26bcc276f9b16ded61de10f19ca0dd7c5f1420fed43397e8466e73f226e172f2",
+      "publishedAtLabel": "Oct 16"
+    },
+    {
+      "id": 14621,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "STAT",
+      "author": "Helen Branswell",
+      "title": "Bird flu pandemic risk divides experts. Is it time to panic yet?",
+      "description": "Is it time to freak out about bird flu? The answer is not as straightforward as one might like.",
+      "url": "https://www.statnews.com/2024/10/16/bird-flu-pandemic-overall-risk-low-continued-h5n1-outbreak-dairy-cattle-worrisome/",
+      "urlToImage": "https://www.statnews.com/wp-content/uploads/2024/10/photo-illo-H5N1-messaging-1024x576.jpg",
+      "publishedAt": "2024-10-16 08:40:57",
+      "content": "If youre aware of the H5N1 bird flu outbreak in U.S. dairy cattle you may have seen some headlines or read something on social media perhaps you are wondering what the fuss is about. Yes, there have\u2026 [+9860 chars]",
+      "retrievedAt": "2024-10-17 19:05:45.546137",
+      "internal_id": "de10ac385b53f8e19c2ac7b4782a2a326ef86e3584dd983931106fb6971c0e2e",
+      "publishedAtLabel": "Oct 16"
+    },
+    {
+      "id": 14628,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Curta",
+      "description": "M\u00e9dicos demitidos M\u00e9dicos que atendiam na rede mun...",
+      "url": "https://valor.globo.com/brasil/noticia/2024/10/16/curta.ghtml",
+      "urlToImage": "https://s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/public/fb_marca.png",
+      "publishedAt": "2024-10-16 08:00:25",
+      "content": "M\u00e9dicos demitidosM\u00e9dicos que atendiam na rede municipal foram demitidos ap\u00f3s a prefeitura de S\u00e3o Paulo revogar a situa\u00e7\u00e3o de emerg\u00eancia da dengue na cidade. Segundo o Simesp (Sindicato dos M\u00e9dicos de\u2026 [+718 chars]",
+      "retrievedAt": "2024-10-17 19:05:46.302611",
+      "internal_id": "1f387685b5fb57943583e59fdff89e96b57fe8ebf76fbf95f6101dd104d5b8a9",
+      "publishedAtLabel": "Oct 16"
+    },
     {
       "id": 14611,
       "query": [
@@ -29923,114 +30283,6 @@
       "content": "El Ministerio de Salud de Per\u00fa (Minsa) confirm\u00f3 la existencia de un caso de meningitis y el seguimiento de otros posibles afectados por un brote de esta enfermedad en una localidad remota de la re\u2026 [+2214 chars]",
       "retrievedAt": "2024-09-03 07:06:27.157147",
       "internal_id": "3e9848a7b4071db2edb3702ff7f3ef0d520124067714b1a62dfb0a367110b6e4",
-      "publishedAtLabel": "Sep 1"
-    },
-    {
-      "id": 13002,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Aajtak.in",
-      "author": "aajtak.in",
-      "title": "PAK \u092e\u0947\u0902 Mpox \u0915\u093e \u091a\u094c\u0925\u093e \u0915\u0947\u0938 \u092e\u093f\u0932\u093e, \u0935\u093f\u0926\u0947\u0936 \u0938\u0947 \u0932\u094c\u091f\u0947 \u0925\u0947 \u0938\u092d\u0940 \u092e\u0930\u0940\u091c, \u090f\u092f\u0930\u092a\u094b\u0930\u094d\u091f \u092a\u0930 \u092c\u0922\u093c\u093e\u0908 \u0928\u093f\u0917\u0930\u093e\u0928\u0940",
-      "description": "\u092a\u093e\u0915\u093f\u0938\u094d\u0924\u093e\u0928 \u0928\u0947 \u090f\u092e\u092a\u0949\u0915\u094d\u0938 \u0938\u0947 \u0928\u093f\u092a\u091f\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u090f\u0939\u0924\u093f\u092f\u093e\u0924\u0940 \u0915\u0926\u092e \u0909\u0920\u093e\u090f \u0939\u0948\u0902. \u0907\u0938\u0947 \u0932\u0947\u0915\u0930 \u090f\u092f\u0930\u092a\u094b\u0930\u094d\u091f \u092a\u0930 \u0938\u0916\u094d\u0924 \u0938\u093f\u0915\u094d\u092f\u094b\u0930\u093f\u091f\u0940 \u0938\u093f\u0938\u094d\u091f\u092e \u0932\u093e\u0917\u0942 \u0915\u093f\u092f\u093e \u0917\u092f\u093e \u0939\u0948, \u0915\u094d\u092f\u094b\u0902\u0915\u093f \u092f\u0939 \u0938\u093e\u092e\u0928\u0947 \u0906\u092f\u093e \u0939\u0948 \u0915\u093f \u090f\u092e\u092a\u0949\u0915\u094d\u0938 \u0935\u093e\u092f\u0930\u0938 \u0938\u0947 \u0938\u0902\u0915\u094d\u0930\u092e\u093f\u0924 \u0938\u092d\u0940 \u092e\u0930\u0940\u091c \u0935\u093f\u0926\u0947\u0936 \u0938\u0947 \u0932\u094c\u091f\u0947 \u0925\u0947.",
-      "url": "https://www.aajtak.in/world/story/pakistan-fourth-case-of-mpox-found-all-infected-patients-had-returned-from-abroad-increased-surveillance-at-airport-ntc-2027934-2024-09-01",
-      "urlToImage": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202409/66d494cfb0004-pakistan-fourth-case-of-mpox-012238510-16x9.png",
-      "publishedAt": "2024-09-01 16:24:21",
-      "content": "MPOX , . - . - . ( ) (PSH) . . . . - , . 19 47 (PIMS) . . PIMS . , . , , . , . 4 . . , .",
-      "retrievedAt": "2024-09-04 07:06:06.004231",
-      "internal_id": "c1c0a2f858fac828940b6fbea65b7f978469b37ed691ba046373e7e23e3bebea",
-      "publishedAtLabel": "Sep 1"
-    },
-    {
-      "id": 12990,
-      "query": [
-        "mpox"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "PTI",
-      "title": "Authorities in Pakistan confirm fourth case of mpox virus",
-      "description": "Pakistan reported its fourth case of monkeypox in Khyber-Pakhtunkhwa province, where three other cases were also confirmed. All patients had returned from abroad, with no local transmission reported. Authorities have implemented strict airport screening. The \u2026",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/authorities-in-pakistan-confirm-fourth-case-of-mpox-virus/articleshow/112971353.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-112971380,width-1200,height-630,imgsize-74546,overlay-economictimes/photo.jpg",
-      "publishedAt": "2024-09-01 14:24:51",
-      "content": "Authorities in Pakistan on Sunday reported another case of monkeypox (mpox) virus amid the confusion about the total number of cases confirmed so far in the country. The fourth case was detected in K\u2026 [+2246 chars]",
-      "retrievedAt": "2024-09-04 07:06:05.932306",
-      "internal_id": "5cef8ac5510c943badb8e476202518f255d1da1ec5ffc95a8244c4b3b13b8696",
-      "publishedAtLabel": "Sep 1"
-    },
-    {
-      "id": 12950,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "NDTV News",
-      "author": null,
-      "title": "Pak's Peshawar Emerges As 'Epicentre' Of Mpox As Tally Reaches 5: Report",
-      "description": "Amid growing concerns over the new strain of mpox virus, Pakistan's Peshawar city has started emerging as the 'epicentre' of the virus, as the fifth mpox case was recorded on Sunday, Geo News reported.",
-      "url": "https://www.ndtv.com/world-news/pakistans-peshawar-emerges-as-epicentre-of-mpox-as-tally-reaches-5-report-6467196",
-      "urlToImage": "https://c.ndtvimg.com/2024-08/1n5d9p5_mpox-reuters_625x300_24_August_24.jpeg",
-      "publishedAt": "2024-09-01 13:50:44",
-      "content": "The mpox virus shows flu-like symptoms and pus-filled lesions (Representational) Islamabad: Amid growing concerns over the new strain of mpox virus, Pakistan's Peshawar city has started emerging as \u2026 [+2390 chars]",
-      "retrievedAt": "2024-09-03 07:06:29.235040",
-      "internal_id": "97f9ccb2060e6d61e34aa9b0c0b1bd8a6ab09cfe9a02837a13e6358e423c6689",
-      "publishedAtLabel": "Sep 1"
-    },
-    {
-      "id": 12930,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "TNN",
-      "title": "Jaipur sees a surge in dengue cases last week",
-      "description": "Jaipur has experienced a rise in dengue cases, with 40 new infections reported in the past week, totaling 300 cases. Statewide, cases increased by 284, with particular concern in Udaipur. Health officials are emphasizing prevention and treatment efforts, with\u2026",
-      "url": "https://timesofindia.indiatimes.com/city/jaipur/jaipur-sees-a-surge-in-dengue-cases-last-week/articleshow/112965963.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-112966030,width-1070,height-580,imgsize-29178,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-09-01 08:36:20",
-      "content": "9 biotin-rich foods to nourish hair, skin and nail",
-      "retrievedAt": "2024-09-02 19:06:00.726670",
-      "internal_id": "88e9aad11b8372588cc5e8f63cf95b221c48b81a550e47444d2934332f11deb5",
-      "publishedAtLabel": "Sep 1"
-    },
-    {
-      "id": 12931,
-      "query": [
-        "mpox"
-      ],
-      "source_id": "info-money",
-      "source_name": "InfoMoney",
-      "author": "darrellchamplin",
-      "title": "Como a Mpox se espalha e quem corre mais risco? Tire suas d\u00favidas",
-      "description": "Entenda o que os cientistas aprenderam sobre o v\u00edrus, que foi recentemente declarado uma emerg\u00eancia de sa\u00fade global The post Como a Mpox se espalha e quem corre mais risco? Tire suas d\u00favidas appeared first on InfoMoney.",
-      "url": "https://www.infomoney.com.br/business/global/como-a-mpox-se-espalha-e-quem-corre-mais-risco-tire-suas-duvidas/",
-      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2024/08/2024-08-13t135812z_488502842_rc2yx8aqv1tn_rtrmadp_3_africa-mpox.webp?fit=1170%2C700&quality=70&strip=all",
-      "publishedAt": "2024-09-01 08:00:00",
-      "content": "Este m\u00eas, a Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS) declarou a Mpox uma emerg\u00eancia de sa\u00fade global. Anteriormente conhecido como monkeypox (var\u00edola dos macacos), o v\u00edrus est\u00e1 se espalhando rapidamente em \u2026 [+5639 chars]",
-      "retrievedAt": "2024-09-02 19:06:04.154812",
-      "internal_id": "bf3fe0c7f4e4539e1faaaf51794580c8e3e4502994583a4077d5a256a2462238",
-      "publishedAtLabel": "Sep 1"
-    },
-    {
-      "id": 12951,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Sudinfo.be",
-      "author": "Par Pauline Govaert avec AFP",
-      "title": "Mpox : comment la d\u00e9forestation a favoris\u00e9 l\u2019\u00e9pid\u00e9mie",
-      "description": "La d\u00e9forestation dans le bassin du Congo, connu comme \u00able poumon de l\u2019Afrique\u00bb, aurait favoris\u00e9 l\u2019\u00e9pid\u00e9mie de Mpox.",
-      "url": "https://www.sudinfo.be/id875008/article/2024-09-01/mpox-comment-la-deforestation-favorise-lepidemie",
-      "urlToImage": "https://spgeng.rosselcdn.net/sites/default/files/dpistyles_v2/FirstImageUrl/2024/09/01/node_875008/55830061/public/2024/09/01/24620914.jpeg?itok=yE0UBvF31725177634",
-      "publishedAt": "2024-09-01 08:00:00",
-      "content": "La recrudescence du mpox en R\u00e9publique d\u00e9mocratique du Congo (RDC), port\u00e9e par le clade 1b qui touche aussi le Burundi, le Kenya, le Rwanda et lOuganda, a incit\u00e9 lOrganisation mondiale de la sant\u00e9 (O\u2026 [+7241 chars]",
-      "retrievedAt": "2024-09-03 07:06:29.241063",
-      "internal_id": "825fd119eae7d39ba7fb596a39d18b8a542c8fb27e2f5aa8cbbb4cfbe3f2e8a6",
       "publishedAtLabel": "Sep 1"
     }
   ]
