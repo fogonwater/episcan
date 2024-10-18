@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 20
-- **Last harvest:** 2024-10-17 19:05
-- **Most recent article:** 2024-10-16 18:47:15
+- **New articles in last harvest:** 7
+- **Last harvest:** 2024-10-18 07:06
+- **Most recent article:** 2024-10-17 07:04:07
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-36 | 24-37 | 24-38 | 24-39 | 24-40 | 24-41 | 24-42 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 170 | 192 | 140 | 122 | 128 | 42 | 49 | 843 |
-| dengue | 46 | 76 | 73 | 49 | 51 | 35 | 25 | 355 |
+| mpox | 175 | 192 | 140 | 122 | 128 | 42 | 49 | 848 |
+| dengue | 47 | 76 | 73 | 49 | 51 | 35 | 29 | 360 |
 | h5n1 | 31 | 10 | 17 | 35 | 50 | 10 | 14 | 167 |
 | malaria | 13 | 12 | 15 | 24 | 10 | 13 | 9 | 96 |
 | rabies | 7 | 5 | 13 | 25 | 30 | 6 | 3 | 89 |
 | meningitis | 6 | 3 | 10 | 6 | 11 | 2 | 1 | 39 |
 | chikungunya | 4 | 13 | 9 | 3 | 3 | 3 | 1 | 36 |
 | measles | 8 | 5 | 8 | 4 | 6 | 5 | 0 | 36 |
-| zika | 6 | 10 | 8 | 1 | 3 | 4 | 2 | 34 |
-| pertussis | 1 | 5 | 3 | 3 | 2 | 2 | 4 | 20 |
+| zika | 6 | 10 | 8 | 1 | 3 | 4 | 3 | 35 |
+| pertussis | 1 | 5 | 3 | 3 | 2 | 2 | 6 | 22 |
 | leptospirosis | 1 | 0 | 1 | 5 | 4 | 1 | 1 | 13 |
 | hpai | 3 | 1 | 0 | 2 | 2 | 1 | 0 | 9 |
 | yersinia | 2 | 0 | 2 | 2 | 1 | 1 | 0 | 8 |
@@ -34,6 +34,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-42 (zika)
+
+- [In Silico Validation of Allosteric Inhibitors Targeting Zika Virus NS2B-NS3 Proteases](https://pubs.rsc.org/en/content/articlelanding/2024/cp/d4cp02867h) (Royal Society of Chemistry)
 
 - [Threat of mosquito-borne diseases rises in U.S. with global temperature](https://news.harvard.edu/gazette/story/2024/10/threat-of-mosquito-borne-diseases-rises-with-global-temperature/) (Harvard School of Engineering and Applied Sciences)
 
@@ -52,6 +54,10 @@ Source: [News API](https://newsapi.org/)
 - [General public knowledge, attitudes, and practices about rabies and associated factors in Gomma district of Jimma zone, southwestern Ethiopia](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012551) (Plos.org)
 
 ## 24-42 (pertussis)
+
+- [Seit Jänner mehr als 12.000 Fälle von Keuchhusten in Österreich](https://www.diepresse.com/18975302/seit-jaenner-mehr-als-12000-faelle-von-keuchhusten-in-oesterreich) (Diepresse.com)
+
+- [Prevalence of Pertactin-Deficient Bordetella pertussis Isolates, Slovenia](https://wwwnc.cdc.gov/eid/article/30/11/23-1393_article) (Cdc.gov)
 
 - [How Can You Prevent Pertussis? Which Vaccine Is Best?](https://www.forbes.com/sites/judystone/2024/10/16/how-can-you-prevent-pertussis-which-vaccine-is-best/) (Forbes)
 
@@ -220,6 +226,14 @@ Source: [News API](https://newsapi.org/)
 - [Labor sets out $95 million to combat potential arrival of deadly bird flu strain H5N1](https://www.abc.net.au/news/2024-10-13/labor-announces-95m-in-funding-for-bird-flu-h5n1/104467622) (ABC News (AU))
 
 ## 24-42 (dengue)
+
+- [Dengue danger: China’s Guangzhou on alert as infection surge sparks concerns](https://www.channelnewsasia.com/east-asia/china-dengue-spike-guangzhou-4684556) (CNA)
+
+- [Confirmaron dos casos autóctonos de dengue en Córdoba: hay preocupación por un brote](https://www.lanacion.com.ar/sociedad/confirmaron-dos-casos-autoctonos-de-dengue-en-cordoba-hay-preocupacion-por-un-brote-nid17102024/) (La Nacion)
+
+- [Pacientes con dengue narran cómo es tener la enfermedad](https://www.nacion.com/el-pais/pacientes-con-dengue-narran-como-es-tener-la/J4SKWNQZDNHIDM3OWASLHOCVQA/story/) (Nacion.com)
+
+- [Fiocruz e Takeda oficializam pedido para produzir vacina contra dengue no Brasil](https://www.infomoney.com.br/saude/fiocruz-e-takeda-oficializam-pedido-para-produzir-vacina-contra-dengue-no-brasil/) (InfoMoney)
 
 - [Fiocruz entra com pedido para produzir vacina da dengue no Brasil](https://www.metropoles.com/saude/fiocruz-pedido-vacina-dengue-brasil) (Metropoles.com)
 
@@ -3487,6 +3501,16 @@ Source: [News API](https://newsapi.org/)
 
 - [Mpox concerns grow in Pakistan as Peshawar reports fifth case](https://economictimes.indiatimes.com/news/international/world-news/mpox-concerns-grow-in-pakistan-as-peshawar-reports-fifth-case/articleshow/112978523.cms) (The Times of India)
 
+- [PAK में Mpox का चौथा केस मिला, विदेश से लौटे थे सभी मरीज, एयरपोर्ट पर बढ़ाई निगरानी](https://www.aajtak.in/world/story/pakistan-fourth-case-of-mpox-found-all-infected-patients-had-returned-from-abroad-increased-surveillance-at-airport-ntc-2027934-2024-09-01) (Aajtak.in)
+
+- [Authorities in Pakistan confirm fourth case of mpox virus](https://economictimes.indiatimes.com/news/international/world-news/authorities-in-pakistan-confirm-fourth-case-of-mpox-virus/articleshow/112971353.cms) (The Times of India)
+
+- [Pak's Peshawar Emerges As 'Epicentre' Of Mpox As Tally Reaches 5: Report](https://www.ndtv.com/world-news/pakistans-peshawar-emerges-as-epicentre-of-mpox-as-tally-reaches-5-report-6467196) (NDTV News)
+
+- [Como a Mpox se espalha e quem corre mais risco? Tire suas dúvidas](https://www.infomoney.com.br/business/global/como-a-mpox-se-espalha-e-quem-corre-mais-risco-tire-suas-duvidas/) (InfoMoney)
+
+- [Mpox : comment la déforestation a favorisé l’épidémie](https://www.sudinfo.be/id875008/article/2024-09-01/mpox-comment-la-deforestation-favorise-lepidemie) (Sudinfo.be)
+
 ## 24-36 (meningitis)
 
 - [Luis Canut lanza un emotivo mensaje a Patricia Pérez por ser su mayor apoyo ante su enfermedad: 'Me salvó la vida'](https://www.bekia.es/celebrities/noticias/luis-canut-lanza-emotivo-mensaje-patricia-perez-apoyo/) (Bekia.es)
@@ -3716,6 +3740,8 @@ Source: [News API](https://newsapi.org/)
 - [One dies of dengue infection in Chitwan](https://english.khabarhub.com/2024/02/393092/) (Khabarhub.com)
 
 - [Bacolod: Province logs 414 dengue cases in a week](https://rpnradio.com/bacolod-province-logs-414-dengue-cases-in-a-week/) (Rpnradio.com)
+
+- [Jaipur sees a surge in dengue cases last week](https://timesofindia.indiatimes.com/city/jaipur/jaipur-sees-a-surge-in-dengue-cases-last-week/articleshow/112965963.cms) (The Times of India)
 
 ## 24-36 (chikungunya)
 
