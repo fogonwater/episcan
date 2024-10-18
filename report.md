@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 7
-- **Last harvest:** 2024-10-18 07:06
-- **Most recent article:** 2024-10-17 07:04:07
+- **New articles in last harvest:** 26
+- **Last harvest:** 2024-10-18 19:05
+- **Most recent article:** 2024-10-17 18:47:59
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-36 | 24-37 | 24-38 | 24-39 | 24-40 | 24-41 | 24-42 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 175 | 192 | 140 | 122 | 128 | 42 | 49 | 848 |
-| dengue | 47 | 76 | 73 | 49 | 51 | 35 | 29 | 360 |
+| mpox | 170 | 192 | 140 | 122 | 128 | 42 | 58 | 852 |
+| dengue | 46 | 76 | 73 | 49 | 51 | 35 | 35 | 365 |
 | h5n1 | 31 | 10 | 17 | 35 | 50 | 10 | 14 | 167 |
-| malaria | 13 | 12 | 15 | 24 | 10 | 13 | 9 | 96 |
-| rabies | 7 | 5 | 13 | 25 | 30 | 6 | 3 | 89 |
+| malaria | 13 | 12 | 15 | 24 | 10 | 13 | 14 | 101 |
+| rabies | 7 | 5 | 13 | 25 | 30 | 6 | 5 | 91 |
 | meningitis | 6 | 3 | 10 | 6 | 11 | 2 | 1 | 39 |
-| chikungunya | 4 | 13 | 9 | 3 | 3 | 3 | 1 | 36 |
-| measles | 8 | 5 | 8 | 4 | 6 | 5 | 0 | 36 |
-| zika | 6 | 10 | 8 | 1 | 3 | 4 | 3 | 35 |
+| measles | 8 | 5 | 8 | 4 | 6 | 5 | 2 | 38 |
+| zika | 6 | 10 | 8 | 1 | 3 | 4 | 6 | 38 |
+| chikungunya | 4 | 13 | 9 | 3 | 3 | 3 | 3 | 38 |
 | pertussis | 1 | 5 | 3 | 3 | 2 | 2 | 6 | 22 |
 | leptospirosis | 1 | 0 | 1 | 5 | 4 | 1 | 1 | 13 |
-| hpai | 3 | 1 | 0 | 2 | 2 | 1 | 0 | 9 |
+| hpai | 3 | 1 | 0 | 2 | 2 | 1 | 2 | 11 |
 | yersinia | 2 | 0 | 2 | 2 | 1 | 1 | 0 | 8 |
 | typhoid | 1 | 0 | 0 | 4 | 1 | 0 | 1 | 7 |
 | shigellosis | 0 | 0 | 0 | 0 | 1 | 3 | 0 | 4 |
@@ -34,6 +34,12 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-42 (zika)
+
+- [Zika virus T-cell based 704/DNA vaccine promotes protection from Zika virus infection in the absence of neutralizing antibodies](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012601) (Plos.org)
+
+- [Tijgermug, die ziektes kan overdragen, ontdekt in Berchemse Groenenhoekwijk: “Bij inspectie werden geen larven gevonden”](https://www.nieuwsblad.be/cnt/dmf20241017_94769009) (Nieuwsblad.be)
+
+- [Tijgermug gevonden in Berchemse Groenenhoekwijk: “Bij inspectie werden geen larven gevonden”](https://www.gva.be/cnt/dmf20241017_94769009) (Www.gva.be)
 
 - [In Silico Validation of Allosteric Inhibitors Targeting Zika Virus NS2B-NS3 Proteases](https://pubs.rsc.org/en/content/articlelanding/2024/cp/d4cp02867h) (Royal Society of Chemistry)
 
@@ -46,6 +52,10 @@ Source: [News API](https://newsapi.org/)
 - [Anthony Bourdain on the Life and Legacy of a Truly Infamous Cook: Typhoid Mary](https://lithub.com/anthony-bourdain-on-the-life-and-legacy-of-a-truly-infamous-cook-typhoid-mary/) (Lithub.com)
 
 ## 24-42 (rabies)
+
+- [Notes from the Field: Enhanced Surveillance for Raccoon Rabies Virus Variant and Vaccination of Wildlife for Management — Omaha, Nebraska, October 2023–July 2024](https://www.cdc.gov/mmwr/volumes/73/wr/mm7341a4.htm) (Cdc.gov)
+
+- [Health Department: Rabid skunk found in Harford County](https://www.wbaltv.com/article/heath-department-rabid-skunk-found-northern-harford-county/62637419) (WBAL TV Baltimore)
 
 - [How Rabies Gave Us Half of Halloween’s Monsters](https://www.cracked.com/article_43965_how-rabies-gave-us-half-of-halloweens-monsters.html) (Cracked.com)
 
@@ -68,6 +78,24 @@ Source: [News API](https://newsapi.org/)
 - [What parents need to know as whooping cough cases surge](https://abcnews.go.com/GMA/Wellness/parents-whooping-cough-cases-surge/story?id=114774431) (ABC News)
 
 ## 24-42 (mpox)
+
+- [Casos de Marburg em Ruanda caem, mas mpox continua se espalhando pela África, dizem autoridades](https://www.terra.com.br/noticias/mundo/casos-de-marburg-em-ruanda-caem-mas-mpox-continua-se-espalhando-pela-africa-dizem-autoridades,18adf04a93f9b7eba757068331b82a95ih0luuuz.html) (Terra.com.br)
+
+- [Afrika'da M çiçeğinden ölenlerin sayısı 1100'e çıktı](https://www.aa.com.tr/tr/dunya/afrikada-m-ciceginden-olenlerin-sayisi-1100e-cikti/3365657) (Anadolu Agency)
+
+- [V Africe zemřelo už 1100 lidí na mpox, zdravotníci žádají mezinárodní pomoc](https://www.tyden.cz/rubriky/zahranici/v-africe-zemrelo-uz-1100-lidi-na-mpox-zdravotnici-zadaji-mezinarodni-pomoc_569017.html) (Tyden.cz)
+
+- [Mpox cases rise to 102 in 25 states, FCT](https://punchng.com/mpox-cases-rise-to-102-in-25-states-fct/) (The Punch)
+
+- [Rwanda's Marburg cases decline but mpox spreading in Africa, health officials say](https://timesofindia.indiatimes.com/world/rest-of-world/rwandas-marburg-cases-decline-but-mpox-spreading-in-africa-health-officials-say/articleshow/114325268.cms) (The Times of India)
+
+- [Africa Reports 1,100 Mpox Deaths, Warns Outbreak Is "Out Of Control"](https://www.ndtv.com/world-news/africa-reports-1-100-mpox-death-warns-outbreak-is-out-of-control-6812758) (NDTV News)
+
+- [1,100 mpox deaths recorded across Africa: CDC](https://timesofindia.indiatimes.com/world/rest-of-world/1100-mpox-deaths-recorded-across-africa-cdc/articleshow/114322926.cms) (The Times of India)
+
+- [Africa's mpox deaths surpass 1,000 as health officials urge international support](https://abcnews.go.com/Health/wireStory/africas-mpox-deaths-surpass-1000-health-officials-urge-114896312) (ABC News)
+
+- [Africa's mpox deaths surpass 1,000 as health officials urge international support](https://abcnews.go.com/International/wireStory/africas-mpox-deaths-surpass-1000-health-officials-urge-114896311) (ABC News)
 
 - [The world needs innovative antiviral drugs—but market incentives won’t align until it’s too late, Germany’s ‘head of challenges’ warns](https://fortune.com/europe/2024/10/16/world-needs-innovative-antiviral-drugsbut-market-incentives-next-pandemic-pharma-finance-health/) (Fortune)
 
@@ -171,7 +199,23 @@ Source: [News API](https://newsapi.org/)
 
 - [Meningococcal disease confirmed at Bonham Elementary School](https://www.fox26houston.com/news/meningococcal-disease-confirmed-bonham-elementary-school) (fox26houston.com)
 
+## 24-42 (measles)
+
+- [Coverage with Selected Vaccines and Exemption Rates Among Children in Kindergarten — United States, 2023–24 School Year](https://www.cdc.gov/mmwr/volumes/73/wr/mm7341a3.htm) (Cdc.gov)
+
+- [Ogun kicks off measles campaign, targets vaccination of over 1 million children](https://punchng.com/ogun-kicks-off-measles-campaign-targets-vaccination-of-over-1-million-children/) (The Punch)
+
 ## 24-42 (malaria)
+
+- [Prevalence and correlates of malaria and undernutrition among acutely febrile children visiting temporary malaria screening sites in war-torn areas of Northeast Ethiopia](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0311931) (Plos.org)
+
+- [Neun Menschen gestorben - Gepäck-Malaria nimmt zu: Studie enthüllt alarmierenden Trend an Europas Flughäfen](https://www.focus.de/panorama/aus-aller-welt/gepaeck-malaria-nimmt-zu-studie-enthuellt-alarmierenden-trend-an-europas-flughaefen_ad502923-6564-45b0-8127-16b24884e233.html) (Focus)
+
+- [Nigeria takes delivery of Gavi’s one million malaria vaccine doses](https://punchng.com/nigeria-takes-delivery-of-gavis-one-million-malaria-vaccine-doses/) (The Punch)
+
+- [European Trainee Doctors to Have Fake Malaria Climate Myths Added to Their Studies](https://wattsupwiththat.com/2024/10/17/european-trainee-doctors-to-have-fake-climate-myths-added-to-their-studies/) (Wattsupwiththat.com)
+
+- [What Are Airport And Luggage Malaria? Discover Rare Infection Sources Rising In Europe](https://www.medicaldaily.com/what-are-airport-luggage-malaria-discover-rare-infection-sources-rising-europe-472542) (Medical Daily)
 
 - [‘American Malaria’ Is on the Rise](https://time.com/7086273/american-malaria-babesiosis-ticks-lyme-disease/) (Time)
 
@@ -194,6 +238,12 @@ Source: [News API](https://newsapi.org/)
 ## 24-42 (leptospirosis)
 
 - [Leptospirosis cases cause for concern](https://www.bostonherald.com/2024/10/13/leptospirosis-cases-cause-for-concern/) (Boston Herald)
+
+## 24-42 (hpai)
+
+- [California Is Now The “Epicenter” Of The Bird Flu Outbreak](https://www.shtfplan.com/headline-news/california-is-now-the-epicenter-of-the-bird-flu-outbreak) (Shtfplan.com)
+
+- [California is Now the Epicenter of Bird Flu Outbreak](https://legalinsurrection.com/2024/10/california-is-now-the-epicenter-of-bird-flu-outbreak/) (Legalinsurrection.com)
 
 ## 24-42 (h5n1)
 
@@ -226,6 +276,18 @@ Source: [News API](https://newsapi.org/)
 - [Labor sets out $95 million to combat potential arrival of deadly bird flu strain H5N1](https://www.abc.net.au/news/2024-10-13/labor-announces-95m-in-funding-for-bird-flu-h5n1/104467622) (ABC News (AU))
 
 ## 24-42 (dengue)
+
+- [Metatranscriptomic insights into the dengue patient blood microbiome: Enhanced microbial diversity and metabolic activity in severe patients](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012589) (Plos.org)
+
+- [Zika virus T-cell based 704/DNA vaccine promotes protection from Zika virus infection in the absence of neutralizing antibodies](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012601) (Plos.org)
+
+- [Tijgermug, die ziektes kan overdragen, ontdekt in Berchemse Groenenhoekwijk: “Bij inspectie werden geen larven gevonden”](https://www.nieuwsblad.be/cnt/dmf20241017_94769009) (Nieuwsblad.be)
+
+- [Tijgermug gevonden in Berchemse Groenenhoekwijk: “Bij inspectie werden geen larven gevonden”](https://www.gva.be/cnt/dmf20241017_94769009) (Www.gva.be)
+
+- [É falso que Aedes aegypt tenha tido “agulha” geneticamente modificada para não perfurar pele](https://www.terra.com.br/noticias/checamos/e-falso-que-aedes-aegypt-tenha-tido-agulha-geneticamente-modificada-para-nao-perfurar-pele,e381c712923bffd2dd4f207ced460d36xqke4t1n.html) (Terra.com.br)
+
+- [Cofepris retrasa vacunas de Covid y de influenza en México](https://www.elfinanciero.com.mx/empresas/2024/10/17/cofepris-retrasa-vacunas-de-covid-y-de-influenza-en-mexico/) (El Financiero)
 
 - [Dengue danger: China’s Guangzhou on alert as infection surge sparks concerns](https://www.channelnewsasia.com/east-asia/china-dengue-spike-guangzhou-4684556) (CNA)
 
@@ -286,6 +348,10 @@ Source: [News API](https://newsapi.org/)
 - [Dengue: após recorde em casos, volta das chuvas aciona sinal de alerta](https://www.metropoles.com/brasil/dengue-apos-recorde-em-casos-volta-das-chuvas-aciona-sinal-de-alerta) (Metropoles.com)
 
 ## 24-42 (chikungunya)
+
+- [Tijgermug, die ziektes kan overdragen, ontdekt in Berchemse Groenenhoekwijk: “Bij inspectie werden geen larven gevonden”](https://www.nieuwsblad.be/cnt/dmf20241017_94769009) (Nieuwsblad.be)
+
+- [Tijgermug gevonden in Berchemse Groenenhoekwijk: “Bij inspectie werden geen larven gevonden”](https://www.gva.be/cnt/dmf20241017_94769009) (Www.gva.be)
 
 - [Distinct chikungunya virus polymerase palm subdomains contribute to viral protein accumulation and virion production](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011972) (Plos.org)
 
@@ -3501,16 +3567,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Mpox concerns grow in Pakistan as Peshawar reports fifth case](https://economictimes.indiatimes.com/news/international/world-news/mpox-concerns-grow-in-pakistan-as-peshawar-reports-fifth-case/articleshow/112978523.cms) (The Times of India)
 
-- [PAK में Mpox का चौथा केस मिला, विदेश से लौटे थे सभी मरीज, एयरपोर्ट पर बढ़ाई निगरानी](https://www.aajtak.in/world/story/pakistan-fourth-case-of-mpox-found-all-infected-patients-had-returned-from-abroad-increased-surveillance-at-airport-ntc-2027934-2024-09-01) (Aajtak.in)
-
-- [Authorities in Pakistan confirm fourth case of mpox virus](https://economictimes.indiatimes.com/news/international/world-news/authorities-in-pakistan-confirm-fourth-case-of-mpox-virus/articleshow/112971353.cms) (The Times of India)
-
-- [Pak's Peshawar Emerges As 'Epicentre' Of Mpox As Tally Reaches 5: Report](https://www.ndtv.com/world-news/pakistans-peshawar-emerges-as-epicentre-of-mpox-as-tally-reaches-5-report-6467196) (NDTV News)
-
-- [Como a Mpox se espalha e quem corre mais risco? Tire suas dúvidas](https://www.infomoney.com.br/business/global/como-a-mpox-se-espalha-e-quem-corre-mais-risco-tire-suas-duvidas/) (InfoMoney)
-
-- [Mpox : comment la déforestation a favorisé l’épidémie](https://www.sudinfo.be/id875008/article/2024-09-01/mpox-comment-la-deforestation-favorise-lepidemie) (Sudinfo.be)
-
 ## 24-36 (meningitis)
 
 - [Luis Canut lanza un emotivo mensaje a Patricia Pérez por ser su mayor apoyo ante su enfermedad: 'Me salvó la vida'](https://www.bekia.es/celebrities/noticias/luis-canut-lanza-emotivo-mensaje-patricia-perez-apoyo/) (Bekia.es)
@@ -3740,8 +3796,6 @@ Source: [News API](https://newsapi.org/)
 - [One dies of dengue infection in Chitwan](https://english.khabarhub.com/2024/02/393092/) (Khabarhub.com)
 
 - [Bacolod: Province logs 414 dengue cases in a week](https://rpnradio.com/bacolod-province-logs-414-dengue-cases-in-a-week/) (Rpnradio.com)
-
-- [Jaipur sees a surge in dengue cases last week](https://timesofindia.indiatimes.com/city/jaipur/jaipur-sees-a-surge-in-dengue-cases-last-week/articleshow/112965963.cms) (The Times of India)
 
 ## 24-36 (chikungunya)
 

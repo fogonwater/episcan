@@ -1,8 +1,481 @@
 {
-  "last_updated": "2024-10-18 07:06",
-  "count_articles_total": 1691,
-  "count_articles_new": 7,
+  "last_updated": "2024-10-18 19:05",
+  "count_articles_total": 1711,
+  "count_articles_new": 26,
   "articles": [
+    {
+      "id": 14670,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Reuters",
+      "title": "Casos de Marburg em Ruanda caem, mas mpox continua se espalhando pela \u00c1frica, dizem autoridades",
+      "description": "O surto do mortal v\u00edrus Marburg em Ruanda est\u00e1 se enfraquecendo ap\u00f3s a vacina\u00e7\u00e3o da maioria das ...",
+      "url": "https://www.terra.com.br/noticias/mundo/casos-de-marburg-em-ruanda-caem-mas-mpox-continua-se-espalhando-pela-africa-dizem-autoridades,18adf04a93f9b7eba757068331b82a95ih0luuuz.html",
+      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2024-10-17 18:47:59",
+      "content": "O surto do mortal v\u00edrus Marburg em Ruanda est\u00e1 se enfraquecendo ap\u00f3s a vacina\u00e7\u00e3o da maioria das pessoas do grupo vulner\u00e1vel, incluindo trabalhadores do setor da Sa\u00fade, embora os casos de mpox continu\u2026 [+1604 chars]",
+      "retrievedAt": "2024-10-18 19:05:44.240283",
+      "internal_id": "07be6d0585918c9e6725218d42bb32d79cebc88f2e6242160b819fce0543009f",
+      "publishedAtLabel": "Oct 17"
+    },
+    {
+      "id": 14662,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Anadolu Agency",
+      "author": null,
+      "title": "Afrika'da M \u00e7i\u00e7e\u011finden \u00f6lenlerin say\u0131s\u0131 1100'e \u00e7\u0131kt\u0131",
+      "description": "Afrika Birli\u011fi Hastal\u0131k Kontrol ve \u00d6nleme Merkezi (Africa CDC), k\u0131ta genelinde M \u00e7i\u00e7e\u011fi vir\u00fcs\u00fc (mpox) kaynakl\u0131 \u00f6l\u00fcmlerin 1100'e ula\u015ft\u0131\u011f\u0131n\u0131 a\u00e7\u0131klad\u0131. - Anadolu Ajans\u0131",
+      "url": "https://www.aa.com.tr/tr/dunya/afrikada-m-ciceginden-olenlerin-sayisi-1100e-cikti/3365657",
+      "urlToImage": "https://cdnuploads.aa.com.tr/uploads/Contents/2024/10/17/thumbs_b_c_ff8b7716b054771da45d97643548229a.jpg?v=214555",
+      "publishedAt": "2024-10-17 18:42:42",
+      "content": "Afrika CDC Genel M\u00fcd\u00fcr\u00fc Jean Kaseya basna yapt a\u00e7klamada, M \u00e7i\u00e7ei vir\u00fcs\u00fcne ilikin g\u00fcncel verileri paylat. Son bir haftada 3 bin 51 M \u00e7i\u00e7ei vakas tespit edildiini ve 50 kiinin salgnda \u00f6ld\u00fc\u00fcn\u00fc a\u00e7klaya\u2026 [+1328 chars]",
+      "retrievedAt": "2024-10-18 19:05:44.051029",
+      "internal_id": "10833b3affd6eecc17ad95815edf9be3659f2c84b8ee627bfa816f94a80e5c6c",
+      "publishedAtLabel": "Oct 17"
+    },
+    {
+      "id": 14665,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Tyden.cz",
+      "author": "TYDEN, www.tyden.cz, e-mail: webmaster@tyden.cz",
+      "title": "V Africe zem\u0159elo u\u017e 1100 lid\u00ed na mpox, zdravotn\u00edci \u017e\u00e1daj\u00ed mezin\u00e1rodn\u00ed pomoc",
+      "description": "V Africe u\u017e zem\u0159elo 1100 lid\u00ed na nemoc mpox, uvedla dnes zdravotnick\u00e1 agentura Africk\u00e9 unie. Varovala, \u017ee pokud mezin\u00e1rodn\u00ed spole\u010denstv\u00ed nepodnikne pot\u0159ebn\u00e9 kroky, vymkne se epidemie kontrole. Informovaly o tom dnes agentury AFP a AP.",
+      "url": "https://www.tyden.cz/rubriky/zahranici/v-africe-zemrelo-uz-1100-lidi-na-mpox-zdravotnici-zadaji-mezinarodni-pomoc_569017.html",
+      "urlToImage": "https://www.tyden.cz/obrazek/202410/671151fec2ec1/crop-2898492-hospital-ward-1338585-1280.jpg",
+      "publishedAt": "2024-10-17 18:05:00",
+      "content": "V Africe u zemelo 1100 lid\u00ed na nemoc mpox, uvedla dnes zdravotnick\u00e1 agentura Africk\u00e9 unie. Varovala, e pokud mezin\u00e1rodn\u00ed spoleenstv\u00ed nepodnikne potebn\u00e9 kroky, vymkne se epidemie kontrole. Informovaly\u2026 [+1353 chars]",
+      "retrievedAt": "2024-10-18 19:05:44.111937",
+      "internal_id": "50adb71e3dfb8a23cd4e040e7351f616743a63bda866e85b4ac2f2e5a443e348",
+      "publishedAtLabel": "Oct 17"
+    },
+    {
+      "id": 14664,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Lara Adejoro",
+      "title": "Mpox cases rise to 102 in 25 states, FCT",
+      "description": "The number of confirmed cases of Mpox in the country has increased to 102 across 26 states and the Federal Capital Territory, up from the previous 94 cases. The Director General of the Nigeria Centre for Disease Control and Prevention, Dr Jide Idris, disclose\u2026",
+      "url": "https://punchng.com/mpox-cases-rise-to-102-in-25-states-fct/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2024/09/22012413/curing-mpox.jpg",
+      "publishedAt": "2024-10-17 17:58:32",
+      "content": "The number of confirmed cases of Mpox in the country has increased to 102 across 26 states and the Federal Capital Territory, up from the previous 94 cases. The Director General of the Nigeria Centr\u2026 [+2224 chars]",
+      "retrievedAt": "2024-10-18 19:05:44.090319",
+      "internal_id": "47bc396046b2fdc666b1b6ecf0540ef10d821e4bebf2d968fc1f99cafa4dd390",
+      "publishedAtLabel": "Oct 17"
+    },
+    {
+      "id": 14669,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Reuters",
+      "title": "Rwanda's Marburg cases decline but mpox spreading in Africa, health officials say",
+      "description": "Rwanda's Marburg virus outbreak shows encouraging signs of easing due to vaccinations, with a significant reduction in new infections and mortality rates. However, mpox cases continue to spread across Africa, affecting 18 countries and causing over 1,100 deat\u2026",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/rwandas-marburg-cases-decline-but-mpox-spreading-in-africa-health-officials-say/articleshow/114325268.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-114325295,width-1070,height-580,imgsize-2677270,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-10-17 17:41:30",
+      "content": "9 easy-to-do yoga poses that improve memory and intelligence",
+      "retrievedAt": "2024-10-18 19:05:44.188444",
+      "internal_id": "ed1ca68479b5763ca2d0ca480a10e0d1954d2e9bd4e8f9fe1739d69dad71bae9",
+      "publishedAtLabel": "Oct 17"
+    },
+    {
+      "id": 14649,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Shtfplan.com",
+      "author": "Mac Slavo",
+      "title": "California Is Now The \u201cEpicenter\u201d Of The Bird Flu Outbreak",
+      "description": "California has quickly become the epicenter of the bird flu outbreak. The United States Centers for Disease Control and Prevention has confirmed twenty human cases of highly atherogenic avian influenza (HPAI) and more are pending, as the agency awaits test re\u2026",
+      "url": "https://www.shtfplan.com/headline-news/california-is-now-the-epicenter-of-the-bird-flu-outbreak",
+      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2023/12/birdflu2.jpg",
+      "publishedAt": "2024-10-17 17:30:41",
+      "content": "Commenting Policy: Some comments on this web site are automatically moderated through our Spam protection systems. Please be patient if your comment isn\u2019t immediately available. We\u2019re not trying to \u2026 [+423 chars]",
+      "retrievedAt": "2024-10-18 19:05:41.554047",
+      "internal_id": "a0dc1785e56bf0d8f27f46b235fc3c84e5b7b8c2f3c467d2fe70f0088be44e1d",
+      "publishedAtLabel": "Oct 17"
+    },
+    {
+      "id": 14645,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": "CDC",
+      "title": "Notes from the Field: Enhanced Surveillance for Raccoon Rabies Virus Variant and Vaccination of Wildlife for Management \u2014 Omaha, Nebraska, October 2023\u2013July 2024",
+      "description": "This report describes detection of racoon rabies virus variant in Omaha, Nebraska, 850 miles west of the variant\u2019s known range.",
+      "url": "https://www.cdc.gov/mmwr/volumes/73/wr/mm7341a4.htm",
+      "urlToImage": "https://www.cdc.gov/mmwr/volumes/73/wr/social-media/mm7341a4_RacoonRabies_IMAGE_17Oct2024_1200x675.png?_=88617",
+      "publishedAt": "2024-10-17 17:05:14",
+      "content": "Sydney R. Stein, DVM1,2; Andrew J. Beron, PhD1,3; Kathleen M. Nelson4; Emma Price, VMD1; Sergio E. Rodriguez, PhD3,5; Victoria Shelus, PhD1,3; Ann Carpenter, DVM1,3; Amy R. Hess, MS4; Cassandra Boute\u2026 [+13411 chars]",
+      "retrievedAt": "2024-10-18 19:05:40.897085",
+      "internal_id": "311ff07c1202de946edbb954dbd0a43bef39cd5f5fc34b1f6520e6e904ee809d",
+      "publishedAtLabel": "Oct 17"
+    },
+    {
+      "id": 14648,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": "CDC",
+      "title": "Coverage with Selected Vaccines and Exemption Rates Among Children in Kindergarten \u2014 United States, 2023\u201324 School Year",
+      "description": "This report describes national kindergarten vaccination coverage with state-required vaccinations.",
+      "url": "https://www.cdc.gov/mmwr/volumes/73/wr/mm7341a3.htm",
+      "urlToImage": "https://www.cdc.gov/mmwr/volumes/73/wr/social-media/mm7341a3_KindergartenVaxCoverage_IMAGE_17OCTOBER24_1200x675_v2.png?_=02592",
+      "publishedAt": "2024-10-17 17:05:14",
+      "content": "* Jurisdictions reported coverage with all doses of MMR required by the jurisdiction. All states except Wyoming require 2 doses of a measles-containing vaccine. Seven states (Alaska, Georgia, New Jer\u2026 [+5476 chars]",
+      "retrievedAt": "2024-10-18 19:05:41.242259",
+      "internal_id": "6dce5879a3cc5b8ceab587f70d47f0f6fb4c2096c9b2dcc531d0ca1fbc997fbb",
+      "publishedAtLabel": "Oct 17"
+    },
+    {
+      "id": 14668,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": "Agence France-Presse",
+      "title": "Africa Reports 1,100 Mpox Deaths, Warns Outbreak Is \"Out Of Control\"",
+      "description": "Some 1,100 people across Africa have died from mpox, the African Union&#039;s health agency said Thursday, warning that the epidemic was &quot;going out of control&quot; without further action.",
+      "url": "https://www.ndtv.com/world-news/africa-reports-1-100-mpox-death-warns-outbreak-is-out-of-control-6812758",
+      "urlToImage": "https://c.ndtvimg.com/2024-10/1vbmgpeo_mpox_625x300_17_October_24.jpeg",
+      "publishedAt": "2024-10-17 15:38:48",
+      "content": "Nairobi: Some 1,100 people across Africa have died from mpox, the African Union's health agency said Thursday, warning that the epidemic was \"going out of control\" without further action. In all, 42\u2026 [+1462 chars]",
+      "retrievedAt": "2024-10-18 19:05:44.156593",
+      "internal_id": "13c52c332851e3beee1d605e83f840144504828f317ef520b9a8bcc0f0781a7d",
+      "publishedAtLabel": "Oct 17"
+    },
+    {
+      "id": 14667,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "AFP",
+      "title": "1,100 mpox deaths recorded across Africa: CDC",
+      "description": "Some 1,100 people across Africa have died from mpox, the African Union's health agency said Thursday, warning that the epidemic was \"going out of control\" without further action. \"Mpox is going out of control if we don't act,\" Africa CDC head Jean Kaseya told\u2026",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/1100-mpox-deaths-recorded-across-africa-cdc/articleshow/114322926.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-114322959,width-1070,height-580,imgsize-870132,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-10-17 15:20:47",
+      "content": "Snow paradise: Top 7 places in Himachal Pradesh to experience snowfall",
+      "retrievedAt": "2024-10-18 19:05:44.144511",
+      "internal_id": "86ab8eaaa5a5691f927f2a338dc0aa9a8d778198a23e7a388a70aab15c433617",
+      "publishedAtLabel": "Oct 17"
+    },
+    {
+      "id": 14666,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "RODNEY MUHUMUZA Associated Press",
+      "title": "Africa's mpox deaths surpass 1,000 as health officials urge international support",
+      "description": "Africa's top public health agency says the number of mpox-related deaths in the continent has surpassed 1,000 and warned of the continuing threat of cross-border contamination and a lack of rapid test kits",
+      "url": "https://abcnews.go.com/Health/wireStory/africas-mpox-deaths-surpass-1000-health-officials-urge-114896312",
+      "urlToImage": "https://i.abcnewsfe.com/a/e41c8311-1eac-4c43-822a-77894928215c/wirestory_6830e9c4000b2518ee12efb24cd6b07a_16x9.jpg?w=1600",
+      "publishedAt": "2024-10-17 15:18:29",
+      "content": "KAMPALA, Uganda -- The number of mpox -related deaths in Africa has surpassed 1,000, the head of the continents top public health agency said Thursday, warning of the continuing threat of cross-borde\u2026 [+2078 chars]",
+      "retrievedAt": "2024-10-18 19:05:44.123189",
+      "internal_id": "a82d21c6e3f0543b708427f82eef5d2b4587ed5bacc13bfa30d32b845f6cf39f",
+      "publishedAtLabel": "Oct 17"
+    },
+    {
+      "id": 14663,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "RODNEY MUHUMUZA Associated Press",
+      "title": "Africa's mpox deaths surpass 1,000 as health officials urge international support",
+      "description": "Africa's top public health agency says the number of mpox-related deaths in the continent has surpassed 1,000 and warned of the continuing threat of cross-border contamination and a lack of rapid test kits",
+      "url": "https://abcnews.go.com/International/wireStory/africas-mpox-deaths-surpass-1000-health-officials-urge-114896311",
+      "urlToImage": "https://i.abcnewsfe.com/a/e41c8311-1eac-4c43-822a-77894928215c/wirestory_6830e9c4000b2518ee12efb24cd6b07a_16x9.jpg?w=1600",
+      "publishedAt": "2024-10-17 15:18:28",
+      "content": "KAMPALA, Uganda -- The number of mpox -related deaths in Africa has surpassed 1,000, the head of the continents top public health agency said Thursday, warning of the continuing threat of cross-borde\u2026 [+2078 chars]",
+      "retrievedAt": "2024-10-18 19:05:44.078057",
+      "internal_id": "812fd74dd54633af4f4fd3830bb09f116fcaa9c7365a1bc49077579984fe8c5d",
+      "publishedAtLabel": "Oct 17"
+    },
+    {
+      "id": 14646,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "WBAL TV Baltimore",
+      "author": "Blair Young",
+      "title": "Health Department: Rabid skunk found in Harford County",
+      "description": "The Harford County Health Department is warning the public about a skunk found in Street that testes positive for rabies.",
+      "url": "https://www.wbaltv.com/article/heath-department-rabid-skunk-found-northern-harford-county/62637419",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod/ibmig/cms/image/wbal/35087462-35087462.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+      "publishedAt": "2024-10-17 14:53:01",
+      "content": "STREET, Md. \u2014The Harford County Health Department is warning the public about a skunk found in Street that tested positive for rabies. According to officials, the skunk was found near the intersect\u2026 [+260 chars]",
+      "retrievedAt": "2024-10-18 19:05:40.927617",
+      "internal_id": "00bcd528af608303461130bc33eb01dcd12843193d3e3e76bc6aca675779477d",
+      "publishedAtLabel": "Oct 17"
+    },
+    {
+      "id": 14652,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Aanchal Yadav, Priti Devi, Pallawi Kumari, Uzma Shamim, Bansidhar Tarai, Sandeep Budhiraja, Rajesh Pandey",
+      "title": "Metatranscriptomic insights into the dengue patient blood microbiome: Enhanced microbial diversity and metabolic activity in severe patients",
+      "description": "Author summary Dengue poses a significant public health challenge in tropical and subtropical regions. The lack of a specific treatment or broadly effective vaccine highlights the critical need for novel approaches. In this study, we investigated the transcri\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012589",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012589.g006&size=inline",
+      "publishedAt": "2024-10-17 14:00:00",
+      "content": "Citation: Yadav A, Devi P, Kumari P, Shamim U, Tarai B, Budhiraja S, et al. (2024) Metatranscriptomic insights into the dengue patient blood microbiome: Enhanced microbial diversity and metabolic act\u2026 [+50888 chars]",
+      "retrievedAt": "2024-10-18 19:05:42.225733",
+      "internal_id": "fe157155bc7521fd10ccc60f97231851a2ab5621a31cec1c48be8e09ba08016c",
+      "publishedAtLabel": "Oct 17"
+    },
+    {
+      "id": 14655,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Claude Roth, Bruno Pitard, Laurine Levillayer, Sokchea Lay, Hoa Thi My Vo, Tineke Cantaert, Anavaj Sakuntabhai",
+      "title": "Zika virus T-cell based 704/DNA vaccine promotes protection from Zika virus infection in the absence of neutralizing antibodies",
+      "description": "Author summary Dengue virus (DENV) and Zika virus (ZIKV) are two closely related flaviviruses transmitted by Aedes species mosquito. In endemic regions with high circulation of ZIKV and multiple DENV serotypes, and the presence of cross-reactive or sub-neutra\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012601",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012601.g006&size=inline",
+      "publishedAt": "2024-10-17 14:00:00",
+      "content": "Abstract Zika virus (ZIKV) and dengue virus (DENV) are closely related flaviviruses co-circulating in the same endemic areas. Infection can raise cross-reactive antibodies that can be either protect\u2026 [+68415 chars]",
+      "retrievedAt": "2024-10-18 19:05:42.270671",
+      "internal_id": "fddc9c8576091716fccd09723fff387e3902fe9572beb453320bda8349f7eb62",
+      "publishedAtLabel": "Oct 17"
+    },
+    {
+      "id": 14658,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Habtu Debash, Ermiyas Alemayehu, Melaku Ashagrie Belete, Hussen Ebrahim, Ousman Mohammed, Daniel Gebretsadik, Mihret Tilahun, Agumas Shibabaw, Zewudu Mulatie, Bruktawit Eshetu, Saba Gebremichael, Alemu Gedefie",
+      "title": "Prevalence and correlates of malaria and undernutrition among acutely febrile children visiting temporary malaria screening sites in war-torn areas of Northeast Ethiopia",
+      "description": "Background Malaria and undernutrition pose challenges for children in conflict-affected areas. Understanding the prevalence and risk factors for these issues in war-torn communities is important to effectively design aid efforts and select interventions. This\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0311931",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0311931.t005&size=inline",
+      "publishedAt": "2024-10-17 14:00:00",
+      "content": "Citation: Debash H, Alemayehu E, Belete MA, Ebrahim H, Mohammed O, Gebretsadik D, et al. (2024) Prevalence and correlates of malaria and undernutrition among acutely febrile children visiting tempora\u2026 [+28977 chars]",
+      "retrievedAt": "2024-10-18 19:05:42.902165",
+      "internal_id": "7e5e0a96370bc7195b82066669455cee7fb89427fd902380edd77239ec4a5e80",
+      "publishedAtLabel": "Oct 17"
+    },
+    {
+      "id": 14653,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Nieuwsblad.be",
+      "author": "jaba",
+      "title": "Tijgermug, die ziektes kan overdragen, ontdekt in Berchemse Groenenhoekwijk: \u201cBij inspectie werden geen larven gevonden\u201d",
+      "description": "In wijk Groenenhoek in Berchem is een tijgermug opgemerkt. Omdat die mogelijk ziektes kunnen overdragen, worden ze in kaart gebracht en bestreden. \u201cZorg ervoor dat er zo weinig mogelijk stilstaand water in je tuin of op je terras staat.\u201d",
+      "url": "https://www.nieuwsblad.be/cnt/dmf20241017_94769009",
+      "urlToImage": "https://static.nieuwsblad.be/Assets/Images_Upload/2024/10/17/ab8f7eab-95da-414e-8b45-a0fd9d4b08b9.jpg?maxheight=460&maxwidth=638",
+      "publishedAt": "2024-10-17 13:13:00",
+      "content": "Er is eind augustus een foto van een tijgermug, een kleine zwart-witte steekmug die virussen zoals dengue, chikungunya en zika kan overdragen en voorkomt in Azi\u00eb, gemaakt in de wijk Groenenhoek, klin\u2026 [+1981 chars]",
+      "retrievedAt": "2024-10-18 19:05:42.247342",
+      "internal_id": "a9222212f030525056423b4ab8135e9f7d59253d9fe11a9e9e1c99e528c3cadd",
+      "publishedAtLabel": "Oct 17"
+    },
+    {
+      "id": 14654,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Www.gva.be",
+      "author": "jaba",
+      "title": "Tijgermug gevonden in Berchemse Groenenhoekwijk: \u201cBij inspectie werden geen larven gevonden\u201d",
+      "description": "In wijk Groenenhoek in Berchem is een tijgermug opgemerkt. Omdat die mogelijk ziektes kunnen overdragen, worden ze in kaart gebracht en bestreden. \u201cZorg ervoor dat er zo weinig mogelijk stilstaand water in je tuin of op je terras staat.\u201d",
+      "url": "https://www.gva.be/cnt/dmf20241017_94769009",
+      "urlToImage": "https://static.gva.be/Assets/Images_Upload/2024/10/17/ab8f7eab-95da-414e-8b45-a0fd9d4b08b9.jpg?maxheight=460&maxwidth=629",
+      "publishedAt": "2024-10-17 13:13:00",
+      "content": "Er is eind augustus een foto van een tijgermug, een kleine zwart-witte steekmug die virussen zoals dengue, chikungunya en zika kan overdragen en voorkomt in Azi\u00eb, gemaakt in de wijk Groenenhoek, klin\u2026 [+1981 chars]",
+      "retrievedAt": "2024-10-18 19:05:42.253750",
+      "internal_id": "9fc83d1d262a85070f4f52dc6d03cf9633bfaad7a2160af1cddb453194d06f16",
+      "publishedAtLabel": "Oct 17"
+    },
+    {
+      "id": 14647,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Taiwo Bankole",
+      "title": "Ogun kicks off measles campaign, targets vaccination of over 1 million children",
+      "description": "The Ogun State Commissioner for Health, Dr.Tomi Coker, on Thursday said that the state is targeting to vaccinate 1,136,953 children aged between nine and 59 months across the 20 local governments during the 7-day Integrated Measles Campaign which kicks off on\u2026",
+      "url": "https://punchng.com/ogun-kicks-off-measles-campaign-targets-vaccination-of-over-1-million-children/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2021/02/11103230/Ogun-State-Map-1.jpg",
+      "publishedAt": "2024-10-17 12:57:37",
+      "content": "The Ogun State Commissioner for Health, Dr.Tomi Coker, on Thursday said that the state is targeting to vaccinate 1,136,953 children aged between nine and 59 months across the 20 local governments dur\u2026 [+3266 chars]",
+      "retrievedAt": "2024-10-18 19:05:41.232006",
+      "internal_id": "bfd6eaa08580da04bd8abbea57f7d549787edff21e6b15fdbfb5aa58ffcdb394",
+      "publishedAtLabel": "Oct 17"
+    },
+    {
+      "id": 14661,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "focus",
+      "source_name": "Focus",
+      "author": "FOCUS online",
+      "title": "Neun Menschen gestorben - Gep\u00e4ck-Malaria nimmt zu: Studie enth\u00fcllt alarmierenden Trend an Europas Flugh\u00e4fen",
+      "description": "Malaria-F\u00e4lle nehmen in Europa zu. Meistens gelangen die infizierten M\u00fccken \u00fcber Flugzeuge zu uns. Experten fordern deshalb sch\u00e4rfere Ma\u00dfnahmen von den Fluggesellschaften.",
+      "url": "https://www.focus.de/panorama/aus-aller-welt/gepaeck-malaria-nimmt-zu-studie-enthuellt-alarmierenden-trend-an-europas-flughaefen_ad502923-6564-45b0-8127-16b24884e233.html",
+      "urlToImage": "https://quadro.burda-forward.de/ctf/9080efed-6b61-4929-b140-ea8752b22ee4.a85b7ea8-8f28-4c22-a4a5-27f1c4763a3e.jpg?im=RegionOfInterestCrop%3D%281200%2C630%29%2CregionOfInterest%3D%28521%2C303%29&hash=95e2a1543dcfbc8e5a20aae604b9d9329970dc62edde4e294191f1ffeb2ef418",
+      "publishedAt": "2024-10-17 12:16:00",
+      "content": "Eine Studie zeigt, dass die F\u00e4lle von Flughafen- und Gep\u00e4ck-Malaria in Europa zunehmen. Zwischen 2018 und 2022 wurden mehr als 140 F\u00e4lle der beiden Ansteckungstypen gemeldet. Die Ergebnisse der Studi\u2026 [+2131 chars]",
+      "retrievedAt": "2024-10-18 19:05:42.964534",
+      "internal_id": "e70a9ef8a4f8f18cc185bf0a54e88ae3e469565acb95b41a10ab13876d935ac4",
+      "publishedAtLabel": "Oct 17"
+    },
+    {
+      "id": 14656,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Reda\u00e7\u00e3o Terra",
+      "title": "\u00c9 falso que Aedes aegypt tenha tido \u201cagulha\u201d geneticamente modificada para n\u00e3o perfurar pele",
+      "description": "V\u00eddeo com informa\u00e7\u00e3o falsa diz que o Aedes aegypt tenha sido geneticamente modificado para n\u00e3o conseguir perfurar a pele de humanos",
+      "url": "https://www.terra.com.br/noticias/checamos/e-falso-que-aedes-aegypt-tenha-tido-agulha-geneticamente-modificada-para-nao-perfurar-pele,e381c712923bffd2dd4f207ced460d36xqke4t1n.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/10/17/00-conteudo-investigado-falso-modificacao-genetica-1jeql024ijx2x.jpg",
+      "publishedAt": "2024-10-17 11:33:35",
+      "content": "Conte\u00fado investigado: V\u00eddeo mostra um mosquito tentando, sem sucesso, picar a m\u00e3o de uma pessoa. A legenda afirma que \u201cmosquita da dengue geneticamente modificada para que sua \u2018agulha\u2019 n\u00e3o consiga pe\u2026 [+5482 chars]",
+      "retrievedAt": "2024-10-18 19:05:42.293068",
+      "internal_id": "f97e854d289b40b410952749ca3811de9f125ebc039f23d131c1c3819b88e6a4",
+      "publishedAtLabel": "Oct 17"
+    },
+    {
+      "id": 14650,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Legalinsurrection.com",
+      "author": "Leslie Eastman",
+      "title": "California is Now the Epicenter of Bird Flu Outbreak",
+      "description": "California Reports Five Possible Human Bird Flu Infections among Dairy Workers, and 6 Confirmed Cases. The post California is Now the Epicenter of Bird Flu Outbreak first appeared on Le\u00b7gal In\u00b7sur\u00b7rec\u00b7tion.",
+      "url": "https://legalinsurrection.com/2024/10/california-is-now-the-epicenter-of-bird-flu-outbreak/",
+      "urlToImage": "https://legalinsurrection.com/wp-content/uploads/2024/10/LI-045-Bird-Flu-Cows.png",
+      "publishedAt": "2024-10-17 11:00:47",
+      "content": "California appears to be the new epicenter for Highly Pathogenic Avian Influenza (HPAI or \u201cbird flu\u201d), as dairy workers at herds impacted by the pathogen are now becoming infected. California is inv\u2026 [+3118 chars]",
+      "retrievedAt": "2024-10-18 19:05:41.561385",
+      "internal_id": "727f7d6444a7c45417dca4d512f8bd3f4a6d13e11a1f9acfd91357c4ee1a7f25",
+      "publishedAtLabel": "Oct 17"
+    },
+    {
+      "id": 14659,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Lara Adejoro",
+      "title": "Nigeria takes delivery of Gavi\u2019s one million malaria vaccine doses",
+      "description": "The Federal Government has taken delivery of one million doses of the R21/Matrix-M malaria vaccine donated by Gavi, the Vaccine Alliance. The hand-over ceremony took place on Thursday in Abuja. The World Health Organisation had in December 2023 added R21/Matr\u2026",
+      "url": "https://punchng.com/nigeria-takes-delivery-of-gavis-one-million-malaria-vaccine-doses/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2023/12/21184334/n.png",
+      "publishedAt": "2024-10-17 10:12:21",
+      "content": "The Federal Government has taken delivery of one million doses of the R21/Matrix-M malaria vaccine donated by Gavi, the Vaccine Alliance. The hand-over ceremony took place on Thursday in Abuja. The\u2026 [+3331 chars]",
+      "retrievedAt": "2024-10-18 19:05:42.909206",
+      "internal_id": "954bb0348e9bf8ace40806f858dc04ef42062c1ce1b3b0a0adea73c37e602ba1",
+      "publishedAtLabel": "Oct 17"
+    },
+    {
+      "id": 14657,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Wattsupwiththat.com",
+      "author": "Eric Worrall",
+      "title": "European Trainee Doctors to Have Fake Malaria Climate Myths Added to Their Studies",
+      "description": "Malaria was endemic in Northern Europe and the USA during the Little Ice Age. But most people don't realise how prevalent Malaria was in previous centuries, because our ancestors called Malaria \"Ague\".",
+      "url": "https://wattsupwiththat.com/2024/10/17/european-trainee-doctors-to-have-fake-climate-myths-added-to-their-studies/",
+      "urlToImage": "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2024/10/William-Shakespeare-Ague.webp?fit=800%2C400&ssl=1",
+      "publishedAt": "2024-10-17 09:00:00",
+      "content": "Essay by Eric Worrall Malaria was endemic in Northern Europe and the USA during the Little Ice Age. But most people don\u2019t realise how prevalent Malaria was in previous centuries, because our ancesto\u2026 [+7064 chars]",
+      "retrievedAt": "2024-10-18 19:05:42.889245",
+      "internal_id": "51e7cbbc212dc46e8aff49fbc84f81226ffe83fecc999ca665634747344db854",
+      "publishedAtLabel": "Oct 17"
+    },
+    {
+      "id": 14651,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "El Financiero",
+      "author": "Christopher Calder\u00f3n",
+      "title": "Cofepris retrasa vacunas de Covid y de influenza en M\u00e9xico",
+      "description": "La autorizaci\u00f3n de registros de la Cofepris para la entrada de vacunas actualizadas contra el Covid-19, influenza estacional y dengue tiene un retraso de casi cuatro meses, lo que pone en riesgo el abasto de dosis necesarias para enfrentar la temporada invern\u2026",
+      "url": "https://www.elfinanciero.com.mx/empresas/2024/10/17/cofepris-retrasa-vacunas-de-covid-y-de-influenza-en-mexico/",
+      "urlToImage": "https://elfinanciero.com.mx/resizer/v2/FS77IS5CYJCGNOWEDMPNW3FQWE.png?smart=true&auth=f43a791e95fc4394fbceaa2cee2e0919b4772dc0fe68ad1a57e9ef8f247d7b72&width=1200&height=630",
+      "publishedAt": "2024-10-17 08:46:09",
+      "content": "La autorizaci\u00f3n de registros de la Comisi\u00f3n Federal para la Protecci\u00f3n de Riesgos Sanitarios (Cofepris) para la entrada de vacunas actualizadas contra el Covid-19, influenza estacional y dengue tiene\u2026 [+4730 chars]",
+      "retrievedAt": "2024-10-18 19:05:42.213526",
+      "internal_id": "f759b01d1461687dd5c3c0ad17cec2d81e1feec24c21d8140fe30ccdc03711d4",
+      "publishedAtLabel": "Oct 17"
+    },
+    {
+      "id": 14660,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Medical Daily",
+      "author": "Suneeta Sunny",
+      "title": "What Are Airport And Luggage Malaria? Discover Rare Infection Sources Rising In Europe",
+      "description": "A recent study cautions against the growing threat of \"airport\" and \"luggage\" malaria, commonly called Odyssean malaria where mosquitoes carrying the malaria parasite are unknowingly transported to non-endemic areas, sparking local infections.",
+      "url": "https://www.medicaldaily.com/what-are-airport-luggage-malaria-discover-rare-infection-sources-rising-europe-472542",
+      "urlToImage": "https://d.medicaldaily.com/en/full/478579/airport.jpg",
+      "publishedAt": "2024-10-17 07:25:58",
+      "content": "Malaria cases in Europe are increasing from an unexpected source: infected mosquitoes being transported on planes and in luggage, rather than from travelers returning from endemic areas. A recent st\u2026 [+3047 chars]",
+      "retrievedAt": "2024-10-18 19:05:42.926551",
+      "internal_id": "94e30cc22ae812eaac592127776482ac1c23e50f866009c33680483a0c9e5546",
+      "publishedAtLabel": "Oct 17"
+    },
     {
       "id": 14643,
       "query": [
@@ -30409,114 +30882,6 @@
       "content": "El Ministerio de Salud de Per\u00fa (Minsa) confirm\u00f3 la existencia de un caso de meningitis y el seguimiento de otros posibles afectados por un brote de esta enfermedad en una localidad remota de la re\u2026 [+2214 chars]",
       "retrievedAt": "2024-09-03 07:06:27.157147",
       "internal_id": "3e9848a7b4071db2edb3702ff7f3ef0d520124067714b1a62dfb0a367110b6e4",
-      "publishedAtLabel": "Sep 1"
-    },
-    {
-      "id": 13002,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Aajtak.in",
-      "author": "aajtak.in",
-      "title": "PAK \u092e\u0947\u0902 Mpox \u0915\u093e \u091a\u094c\u0925\u093e \u0915\u0947\u0938 \u092e\u093f\u0932\u093e, \u0935\u093f\u0926\u0947\u0936 \u0938\u0947 \u0932\u094c\u091f\u0947 \u0925\u0947 \u0938\u092d\u0940 \u092e\u0930\u0940\u091c, \u090f\u092f\u0930\u092a\u094b\u0930\u094d\u091f \u092a\u0930 \u092c\u0922\u093c\u093e\u0908 \u0928\u093f\u0917\u0930\u093e\u0928\u0940",
-      "description": "\u092a\u093e\u0915\u093f\u0938\u094d\u0924\u093e\u0928 \u0928\u0947 \u090f\u092e\u092a\u0949\u0915\u094d\u0938 \u0938\u0947 \u0928\u093f\u092a\u091f\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u090f\u0939\u0924\u093f\u092f\u093e\u0924\u0940 \u0915\u0926\u092e \u0909\u0920\u093e\u090f \u0939\u0948\u0902. \u0907\u0938\u0947 \u0932\u0947\u0915\u0930 \u090f\u092f\u0930\u092a\u094b\u0930\u094d\u091f \u092a\u0930 \u0938\u0916\u094d\u0924 \u0938\u093f\u0915\u094d\u092f\u094b\u0930\u093f\u091f\u0940 \u0938\u093f\u0938\u094d\u091f\u092e \u0932\u093e\u0917\u0942 \u0915\u093f\u092f\u093e \u0917\u092f\u093e \u0939\u0948, \u0915\u094d\u092f\u094b\u0902\u0915\u093f \u092f\u0939 \u0938\u093e\u092e\u0928\u0947 \u0906\u092f\u093e \u0939\u0948 \u0915\u093f \u090f\u092e\u092a\u0949\u0915\u094d\u0938 \u0935\u093e\u092f\u0930\u0938 \u0938\u0947 \u0938\u0902\u0915\u094d\u0930\u092e\u093f\u0924 \u0938\u092d\u0940 \u092e\u0930\u0940\u091c \u0935\u093f\u0926\u0947\u0936 \u0938\u0947 \u0932\u094c\u091f\u0947 \u0925\u0947.",
-      "url": "https://www.aajtak.in/world/story/pakistan-fourth-case-of-mpox-found-all-infected-patients-had-returned-from-abroad-increased-surveillance-at-airport-ntc-2027934-2024-09-01",
-      "urlToImage": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202409/66d494cfb0004-pakistan-fourth-case-of-mpox-012238510-16x9.png",
-      "publishedAt": "2024-09-01 16:24:21",
-      "content": "MPOX , . - . - . ( ) (PSH) . . . . - , . 19 47 (PIMS) . . PIMS . , . , , . , . 4 . . , .",
-      "retrievedAt": "2024-09-04 07:06:06.004231",
-      "internal_id": "c1c0a2f858fac828940b6fbea65b7f978469b37ed691ba046373e7e23e3bebea",
-      "publishedAtLabel": "Sep 1"
-    },
-    {
-      "id": 12990,
-      "query": [
-        "mpox"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "PTI",
-      "title": "Authorities in Pakistan confirm fourth case of mpox virus",
-      "description": "Pakistan reported its fourth case of monkeypox in Khyber-Pakhtunkhwa province, where three other cases were also confirmed. All patients had returned from abroad, with no local transmission reported. Authorities have implemented strict airport screening. The \u2026",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/authorities-in-pakistan-confirm-fourth-case-of-mpox-virus/articleshow/112971353.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-112971380,width-1200,height-630,imgsize-74546,overlay-economictimes/photo.jpg",
-      "publishedAt": "2024-09-01 14:24:51",
-      "content": "Authorities in Pakistan on Sunday reported another case of monkeypox (mpox) virus amid the confusion about the total number of cases confirmed so far in the country. The fourth case was detected in K\u2026 [+2246 chars]",
-      "retrievedAt": "2024-09-04 07:06:05.932306",
-      "internal_id": "5cef8ac5510c943badb8e476202518f255d1da1ec5ffc95a8244c4b3b13b8696",
-      "publishedAtLabel": "Sep 1"
-    },
-    {
-      "id": 12950,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "NDTV News",
-      "author": null,
-      "title": "Pak's Peshawar Emerges As 'Epicentre' Of Mpox As Tally Reaches 5: Report",
-      "description": "Amid growing concerns over the new strain of mpox virus, Pakistan's Peshawar city has started emerging as the 'epicentre' of the virus, as the fifth mpox case was recorded on Sunday, Geo News reported.",
-      "url": "https://www.ndtv.com/world-news/pakistans-peshawar-emerges-as-epicentre-of-mpox-as-tally-reaches-5-report-6467196",
-      "urlToImage": "https://c.ndtvimg.com/2024-08/1n5d9p5_mpox-reuters_625x300_24_August_24.jpeg",
-      "publishedAt": "2024-09-01 13:50:44",
-      "content": "The mpox virus shows flu-like symptoms and pus-filled lesions (Representational) Islamabad: Amid growing concerns over the new strain of mpox virus, Pakistan's Peshawar city has started emerging as \u2026 [+2390 chars]",
-      "retrievedAt": "2024-09-03 07:06:29.235040",
-      "internal_id": "97f9ccb2060e6d61e34aa9b0c0b1bd8a6ab09cfe9a02837a13e6358e423c6689",
-      "publishedAtLabel": "Sep 1"
-    },
-    {
-      "id": 12930,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "TNN",
-      "title": "Jaipur sees a surge in dengue cases last week",
-      "description": "Jaipur has experienced a rise in dengue cases, with 40 new infections reported in the past week, totaling 300 cases. Statewide, cases increased by 284, with particular concern in Udaipur. Health officials are emphasizing prevention and treatment efforts, with\u2026",
-      "url": "https://timesofindia.indiatimes.com/city/jaipur/jaipur-sees-a-surge-in-dengue-cases-last-week/articleshow/112965963.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-112966030,width-1070,height-580,imgsize-29178,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-09-01 08:36:20",
-      "content": "9 biotin-rich foods to nourish hair, skin and nail",
-      "retrievedAt": "2024-09-02 19:06:00.726670",
-      "internal_id": "88e9aad11b8372588cc5e8f63cf95b221c48b81a550e47444d2934332f11deb5",
-      "publishedAtLabel": "Sep 1"
-    },
-    {
-      "id": 12931,
-      "query": [
-        "mpox"
-      ],
-      "source_id": "info-money",
-      "source_name": "InfoMoney",
-      "author": "darrellchamplin",
-      "title": "Como a Mpox se espalha e quem corre mais risco? Tire suas d\u00favidas",
-      "description": "Entenda o que os cientistas aprenderam sobre o v\u00edrus, que foi recentemente declarado uma emerg\u00eancia de sa\u00fade global The post Como a Mpox se espalha e quem corre mais risco? Tire suas d\u00favidas appeared first on InfoMoney.",
-      "url": "https://www.infomoney.com.br/business/global/como-a-mpox-se-espalha-e-quem-corre-mais-risco-tire-suas-duvidas/",
-      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2024/08/2024-08-13t135812z_488502842_rc2yx8aqv1tn_rtrmadp_3_africa-mpox.webp?fit=1170%2C700&quality=70&strip=all",
-      "publishedAt": "2024-09-01 08:00:00",
-      "content": "Este m\u00eas, a Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS) declarou a Mpox uma emerg\u00eancia de sa\u00fade global. Anteriormente conhecido como monkeypox (var\u00edola dos macacos), o v\u00edrus est\u00e1 se espalhando rapidamente em \u2026 [+5639 chars]",
-      "retrievedAt": "2024-09-02 19:06:04.154812",
-      "internal_id": "bf3fe0c7f4e4539e1faaaf51794580c8e3e4502994583a4077d5a256a2462238",
-      "publishedAtLabel": "Sep 1"
-    },
-    {
-      "id": 12951,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Sudinfo.be",
-      "author": "Par Pauline Govaert avec AFP",
-      "title": "Mpox : comment la d\u00e9forestation a favoris\u00e9 l\u2019\u00e9pid\u00e9mie",
-      "description": "La d\u00e9forestation dans le bassin du Congo, connu comme \u00able poumon de l\u2019Afrique\u00bb, aurait favoris\u00e9 l\u2019\u00e9pid\u00e9mie de Mpox.",
-      "url": "https://www.sudinfo.be/id875008/article/2024-09-01/mpox-comment-la-deforestation-favorise-lepidemie",
-      "urlToImage": "https://spgeng.rosselcdn.net/sites/default/files/dpistyles_v2/FirstImageUrl/2024/09/01/node_875008/55830061/public/2024/09/01/24620914.jpeg?itok=yE0UBvF31725177634",
-      "publishedAt": "2024-09-01 08:00:00",
-      "content": "La recrudescence du mpox en R\u00e9publique d\u00e9mocratique du Congo (RDC), port\u00e9e par le clade 1b qui touche aussi le Burundi, le Kenya, le Rwanda et lOuganda, a incit\u00e9 lOrganisation mondiale de la sant\u00e9 (O\u2026 [+7241 chars]",
-      "retrievedAt": "2024-09-03 07:06:29.241063",
-      "internal_id": "825fd119eae7d39ba7fb596a39d18b8a542c8fb27e2f5aa8cbbb4cfbe3f2e8a6",
       "publishedAtLabel": "Sep 1"
     }
   ]
