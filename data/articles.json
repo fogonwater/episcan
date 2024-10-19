@@ -1,8 +1,332 @@
 {
-  "last_updated": "2024-10-19 07:05",
-  "count_articles_total": 1735,
+  "last_updated": "2024-10-19 19:06",
+  "count_articles_total": 1747,
   "count_articles_new": 18,
   "articles": [
+    {
+      "id": 14689,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Minnesota Public Radio News",
+      "author": "Mathew Holding Eagle Iii",
+      "title": "Minnesota Department of Health: Statewide whooping cough cases at 8-year high",
+      "description": "Cases of whooping cough, also known as pertussis, are at an eight-year high in the state. The Minnesota Department of Health reports there are currently 1,019 cases compared to 61 this time last year.",
+      "url": "https://www.mprnews.org/story/2024/10/18/mdh-reports-statewide-whooping-cough-cases-at-eightyear-high",
+      "urlToImage": "https://img.apmcdn.org/4e245e3834927720a107a3e2361227b7fd1d8bab/widescreen/fab860-20120724-whooping-cough-vaccination.jpg",
+      "publishedAt": "2024-10-18 18:38:41",
+      "content": "Cases of whooping cough, also known as pertussis, are at an eight-year high in the state. The Minnesota Department of Health reports there are currently 1,019 cases compared to 61 this time last year\u2026 [+1766 chars]",
+      "retrievedAt": "2024-10-19 19:06:12.195001",
+      "internal_id": "af6164ce808bd3c443af76f255934febb06f76584931e83fac43b9a7efc3b504",
+      "publishedAtLabel": "Oct 18"
+    },
+    {
+      "id": 14694,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Daily Star",
+      "author": "\u09a8\u09bf\u099c\u09b8\u09cd\u09ac \u09b8\u0982\u09ac\u09be\u09a6\u09a6\u09be\u09a4\u09be",
+      "title": "\u09b8\u09bf\u09b2\u09c7\u099f\u09c7 \u099b\u09be\u09a4\u09cd\u09b0\u09b2\u09c0\u0997 \u09a8\u09c7\u09a4\u09be \u0993 \u09a4\u09be\u09b0 \u09b8\u09b9\u09af\u09cb\u0997\u09c0\u0995\u09c7 \u0995\u09c1\u09aa\u09bf\u09df\u09c7 \u099c\u0996\u09ae, \u0986\u09b0\u09c7\u0995 \u09af\u09c1\u09ac\u0995 \u09a8\u09bf\u09b9\u09a4",
+      "description": "\u09b8\u09bf\u09b2\u09c7\u099f\u09c7 \u099b\u09be\u09a4\u09cd\u09b0\u09b2\u09c0\u0997 \u09a8\u09c7\u09a4\u09be \u0993 \u09a4\u09be\u09b0 \u09b8\u09b9\u09af\u09cb\u0997\u09c0\u0995\u09c7 \u0995\u09c1\u09aa\u09bf\u09df\u09c7 \u099c\u0996\u09ae, \u0986\u09b0\u09c7\u0995 \u09af\u09c1\u09ac\u0995 \u09a8\u09bf\u09b9\u09a4thedailystar.net",
+      "url": "https://bangla.thedailystar.net/news/bangladesh/crime-justice/news-622951",
+      "urlToImage": "https://tds-images-bn.thedailystar.net/sites/default/files/styles/social_share/public/images/2021/11/05/sylhet_13.jpg",
+      "publishedAt": "2024-10-18 18:16:26",
+      "content": "As rain and thunderstorms are expected in various parts of the country over the next few days, experts warn that the dengue season could extend further this year",
+      "retrievedAt": "2024-10-19 19:06:14.440325",
+      "internal_id": "1a4eab16b17a69a41629f960aaaeef46e7901d1460edc2a04dcd37146eae0cc7",
+      "publishedAtLabel": "Oct 18"
+    },
+    {
+      "id": 14705,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Samuel Okiror, Ronald Ssekandi, Nie Zuguo",
+      "title": "Uganda reports 49 new mpox cases",
+      "description": "KAMPALA, Oct. 18 (Xinhua) -- Uganda on Friday reported 49 new mpox cases, bringing the total number of laboratory-confirmed infections in the country to 145, according to authorities. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2024/10/19/uganda-reports-49-new-mpox-cases",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2024-10-18 16:52:00",
+      "content": "KAMPALA, Oct. 18 (Xinhua) -- Uganda on Friday reported 49 new mpox cases, bringing the total number of laboratory-confirmed infections in the country to 145, according to authorities. The country's\u2026 [+1101 chars]",
+      "retrievedAt": "2024-10-19 19:06:17.142869",
+      "internal_id": "e4bdc0b8ffe13b5877f0a1207e4e5649684fcce25d406886122914d2516f6337",
+      "publishedAtLabel": "Oct 18"
+    },
+    {
+      "id": 14696,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Chew, R., Wynberg, E., Liverani, M., Rekol, H., Nguon, C., Dysoley, L., Vanna, M., Callery, J. J., Mishra, A., Adhikari, B., Tripura, R., Chandna, A., Fegan, G., Waithira, N., Maude, R. J., Day, N. P. J., Peto, T. J., Lubell, Y.",
+      "title": "Evaluation of an electronic clinical decision support algorithm to improve primary care management of acute febrile illness in rural Cambodia: protocol for a cluster-randomised trial",
+      "description": "Introduction Acute febrile illness (AFI), traditionally attributed to malaria, is a common reason for seeking primary healthcare in rural South and Southeast Asia. However, malaria transmission has declined while health workers are often poorly equipped to ma\u2026",
+      "url": "https://bmjopen.bmj.com/content/14/10/e089616",
+      "urlToImage": "https://bmjopen.bmj.com/pages/wp-content/uploads/sites/7/2019/07/bmjopen-default-cover.png",
+      "publishedAt": "2024-10-18 16:30:23",
+      "content": "Introduction Acute febrile illness (AFI) is a common reason for patient presentations to primary healthcare providers, such as primary healthcare centres (PHCs), in rural South and Southeast Asia.1 \u2026 [+6113 chars]",
+      "retrievedAt": "2024-10-19 19:06:15.468064",
+      "internal_id": "0c814b8dee62d2ee948e3deff8d5ec9952680f43777223954b1b9999b5cc7e25",
+      "publishedAtLabel": "Oct 18"
+    },
+    {
+      "id": 14704,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Liu Fangqiang, Habtamu",
+      "title": "Death toll from mpox in Africa surges to 1,100 as cases exceed 42,000",
+      "description": "ADDIS ABABA, Oct. 18 (Xinhua) -- The death toll from Africa's ongoing mpox outbreak has reached 1,100, with a total of 42,438 cases, including 8,113 confirmed ones, since the beginning of 2024, according to the Africa Centers for Disease Control and Preventio\u2026",
+      "url": "https://www.thestar.com.my/news/world/2024/10/19/death-toll-from-mpox-in-africa-surges-to-1100-as-cases-exceed-42000",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2024-10-18 16:30:00",
+      "content": "ADDIS ABABA, Oct. 18 (Xinhua) -- The death toll from Africa's ongoing mpox outbreak has reached 1,100, with a total of 42,438 cases, including 8,113 confirmed ones, since the beginning of 2024, accor\u2026 [+1777 chars]",
+      "retrievedAt": "2024-10-19 19:06:17.128188",
+      "internal_id": "e8973cb9541415b8908af7ca6e66c550a31dc9e2c30c6dbac1a6ddf70ca595f2",
+      "publishedAtLabel": "Oct 18"
+    },
+    {
+      "id": 14693,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Reda\u00e7\u00e3o Terra",
+      "title": "SP investiga tr\u00eas casos suspeitos de pacientes contaminados por dengue ap\u00f3s transfus\u00e3o de sangue",
+      "description": "Casos foram registrados em uma unidade hospitalar da capital paulista e est\u00e3o sob investiga\u00e7\u00e3o",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/sp-investiga-tres-casos-suspeitos-de-pacientes-contaminados-por-dengue-apos-transfusao-de-sangue,6326e30faf6487782f963067cf0de70fctwkvptd.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/02/08/694054282-o4cicmc4wbm6dirq4elrwnu2oa.jpg",
+      "publishedAt": "2024-10-18 16:17:35",
+      "content": "A Secretaria Estadual de Sa\u00fade de S\u00e3o Paulo est\u00e1 investigando tr\u00eas casos suspeitos de contamina\u00e7\u00e3o por dengue decorrentes de transfus\u00f5es de sangue, registrados na capital paulista. Em nota ao Terra\u2026 [+1905 chars]",
+      "retrievedAt": "2024-10-19 19:06:14.403995",
+      "internal_id": "4c7a8b19b696d426cc256a34c3d4023ca0887185ec684fb205faa4bc2a54a993",
+      "publishedAtLabel": "Oct 18"
+    },
+    {
+      "id": 14697,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Sarah Carter",
+      "title": "U.S. boosts passenger screening as Marburg and mpox viruses spread",
+      "description": "Rwanda says it's gaining control of a Marburg outbreak, but U.S. authorities are taking no chances as another killer virus spreads fast.",
+      "url": "https://www.cbsnews.com/news/marburg-and-mpox-virus-outbreaks-rwanda-africa-us-passenger-screening/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/10/18/42944ba2-c01d-4806-939b-6b198ccee01a/thumbnail/1200x630/82a4247dd2b7ddd6547eceb8d32642a7/mpox-2173623810.jpg?v=edba3a63b5392b4c81ae19d894992d91",
+      "publishedAt": "2024-10-18 15:34:48",
+      "content": "Johannesburg \u2014 After the world was caught largely unprepared for the COVID-19 pandemic, scientists warned that lessons must be learned. Now, two more viral outbreaks are giving health officials sleep\u2026 [+8980 chars]",
+      "retrievedAt": "2024-10-19 19:06:16.991024",
+      "internal_id": "499c02119d3b015ef354c8d3a11ae0eb531b8f85686b81226634b26e31e7c6d7",
+      "publishedAtLabel": "Oct 18"
+    },
+    {
+      "id": 14695,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Tbsnews.net",
+      "author": "Bss",
+      "title": "Three dengue patients die, 411 hospitalised in 24 hours",
+      "description": "This year, the total number of cases rose to 47,461 while 237 deaths from dengue disease were reported during the period",
+      "url": "https://www.tbsnews.net/bangladesh/health/three-dengue-patients-die-411-hospitalised-24-hours-970016",
+      "urlToImage": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/11/05/2m9a8079_0.jpg",
+      "publishedAt": "2024-10-18 15:10:40",
+      "content": "Three dengue patients died and 411 were admitted to different hospitals in the country during the last 24 hours till this morning. \"During the period, 210 dengue patients were hospitalised in Dhaka \u2026 [+398 chars]",
+      "retrievedAt": "2024-10-19 19:06:14.446571",
+      "internal_id": "c59a561ad01c5cefc62f3c8c08997a4c10a4ad24991383006790bb49517c0d35",
+      "publishedAtLabel": "Oct 18"
+    },
+    {
+      "id": 14691,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Dengue aumentou 400% no Brasil em 2024",
+      "description": "Neste ano, o Estado de S\u00e3o Paulo tem 32,3% dos casos de dengue do pa\u00eds - 2,1 milh\u00f5es",
+      "url": "https://valor.globo.com/brasil/noticia/2024/10/18/dengue-aumentou-400percent-no-brasil-em-2024.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/aM8uxs52bkxYOrDs8fcwzJSatng=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2024/F/2/n0zs2aSXyBHcYsi6KDvw/mosquito-4998145-1920.jpeg",
+      "publishedAt": "2024-10-18 14:52:16",
+      "content": "O Brasil chegou a 6,5 milh\u00f5es de casos prov\u00e1veis de dengue, de acordo com o Painel de Monitoramento das Arboviroses do Minist\u00e9rio da Sa\u00fade. Os dados s\u00e3o provis\u00f3rios e referem-se ao per\u00edodo de 1\u00ba de j\u2026 [+1178 chars]",
+      "retrievedAt": "2024-10-19 19:06:14.298213",
+      "internal_id": "b8c47f2c9206a83f160a6674d49d4032de1907e768427b0d12433f14b18f558c",
+      "publishedAtLabel": "Oct 18"
+    },
+    {
+      "id": 14700,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Knack.be",
+      "author": "Belga",
+      "title": "\u2018Dit jaar al 1100 doden door mpox in Afrika\u2019",
+      "description": "De Afrikaanse gezondheidsautoriteit CDC Africa heeft vrijdag gemeld dat sinds begin dit jaar 1100 mensen aan mpox gestorven zijn. The post \u2018Dit jaar al 1100 doden door mpox in Afrika\u2019 appeared first on Knack.",
+      "url": "https://www.knack.be/nieuws/gezondheid/dit-jaar-al-1100-doden-door-mpox-in-afrika/",
+      "urlToImage": "https://img.static-rmg.be/a/view/q75/w1600/h836/f50.00,41.70/6669783/mpox-goma-gif.gif",
+      "publishedAt": "2024-10-18 14:41:33",
+      "content": "De Afrikaanse gezondheidsautoriteit CDC Africa heeft vrijdag gemeld dat sinds begin dit jaar 1100 mensen aan mpox gestorven zijn. De directeur van CDC (Centres for Disease Control and Prevention), J\u2026 [+1314 chars]",
+      "retrievedAt": "2024-10-19 19:06:17.070525",
+      "internal_id": "2f7b692792cb030cb6d272525622d4bbc71767b400892beec8b0082b9a11ac8e",
+      "publishedAtLabel": "Oct 18"
+    },
+    {
+      "id": 14702,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Hbvl.be",
+      "author": "hbvl.be",
+      "title": "Ruim 1.000 doden door mpox in Afrikaanse landen dit jaar",
+      "description": "De Afrikaanse gezondheidsautoriteit CDC Africa heeft vrijdag gemeld dat sinds begin dit jaar 1.100 mensen aan mpox gestorven zijn.",
+      "url": "https://www.hbvl.be/cnt/dmf20241018_95281204",
+      "urlToImage": "https://static.hbvl.be/Assets/Images_Upload/2024/10/18/bd7d27f9-29b9-4473-88c3-293579211ebd.jpg?maxheight=460&maxwidth=629",
+      "publishedAt": "2024-10-18 14:31:48",
+      "content": "De Afrikaanse gezondheidsautoriteit CDC Africa heeft vrijdag gemeld dat sinds begin dit jaar 1.100 mensen aan mpox gestorven zijn.De directeur van CDC (Centres for Disease Control and Prevention), Je\u2026 [+1311 chars]",
+      "retrievedAt": "2024-10-19 19:06:17.093784",
+      "internal_id": "9a834210d26098986ace3c420e84e700bfb6d91eda7340f6e2aca92ffb0e5039",
+      "publishedAtLabel": "Oct 18"
+    },
+    {
+      "id": 14701,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Nieuwsblad.be",
+      "author": "nieuwsblad.be",
+      "title": "Ruim 1.000 doden door mpox in Afrikaanse landen dit jaar",
+      "description": "De Afrikaanse gezondheidsautoriteit CDC Africa heeft vrijdag gemeld dat sinds begin dit jaar 1.100 mensen aan mpox gestorven zijn.",
+      "url": "https://www.nieuwsblad.be/cnt/dmf20241018_95190429",
+      "urlToImage": "https://static.nieuwsblad.be/Assets/Images_Upload/2024/10/18/bd7d27f9-29b9-4473-88c3-293579211ebd.jpg?maxheight=460&maxwidth=638",
+      "publishedAt": "2024-10-18 14:24:27",
+      "content": "De Afrikaanse gezondheidsautoriteit CDC Africa heeft vrijdag gemeld dat sinds begin dit jaar 1.100 mensen aan mpox gestorven zijn.De directeur van CDC (Centres for Disease Control and Prevention), Je\u2026 [+1311 chars]",
+      "retrievedAt": "2024-10-19 19:06:17.086897",
+      "internal_id": "80fcfced306847146019f211b9710529ea8a64540037408ef4269ed8e543344f",
+      "publishedAtLabel": "Oct 18"
+    },
+    {
+      "id": 14692,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Valentina Moreira",
+      "title": "Governo investiga 3 casos de dengue por transfus\u00e3o de sangue em SP",
+      "description": "Os pacientes teriam sido contaminados pela dengue por meio de transfus\u00e3o de sangue realizada na cidade de SP",
+      "url": "https://www.metropoles.com/sao-paulo/governo-investiga-3-casos-dengue-transfusao-sangue-sp",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/08/06120402/dengue-sem-nomeacoes-servidores-longe-ruas.jpg",
+      "publishedAt": "2024-10-18 13:00:45",
+      "content": "S\u00e3o Paulo A Secretaria de Estado de Sa\u00fade de S\u00e3o Paulo (SES) est\u00e1 investigando tr\u00eas prov\u00e1veis casos de contamina\u00e7\u00e3o por dengue via transfus\u00e3o de sangue na cidade de S\u00e3o Paulo. Os casos trazem \u00e0 tona \u2026 [+5279 chars]",
+      "retrievedAt": "2024-10-19 19:06:14.330640",
+      "internal_id": "64511efea760858f8eebe4df9c7adfda6de9d5436e78533522308013b6f95e6c",
+      "publishedAtLabel": "Oct 18"
+    },
+    {
+      "id": 14699,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Diepresse.com",
+      "author": "Die Presse",
+      "title": "Immer mehr L\u00e4nder in Afrika von Mpox betroffen",
+      "description": "Die Viruserkrankung grassiert mittlerweile in 18 L\u00e4ndern. 1.100 Menschen sind seit Jahresbeginn gestorben. Nigeria will nun nach Ruanda und der Demokratischen Republik Kongo eine Impfkampagne starten.",
+      "url": "https://www.diepresse.com/18981254/immer-mehr-laender-in-afrika-von-mpox-betroffen",
+      "urlToImage": "https://img.diepresse.com/public/incoming/sfgpum-HEALTH-MPOXCONGO/alternates/DPR_SOCIAL_NACHRICHTEN/HEALTH-MPOXCONGO",
+      "publishedAt": "2024-10-18 11:58:50",
+      "content": "Die Viruserkrankung grassiert mittlerweile in 18 L\u00e4ndern. 1.100 Menschen sind seit Jahresbeginn gestorben. Nigeria will nun nach Ruanda und der Demokratischen Republik Kongo eine Impfkampagne starten\u2026 [+2110 chars]",
+      "retrievedAt": "2024-10-19 19:06:17.018789",
+      "internal_id": "2113ea40ac5190c5ea5cfbc24a444a65b9ea9999bad16891cc70967f17b9795a",
+      "publishedAtLabel": "Oct 18"
+    },
+    {
+      "id": 14698,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Orf.at",
+      "author": "ORF.at",
+      "title": "Mpox inzwischen in 18 afrikanischen L\u00e4ndern",
+      "description": "",
+      "url": "https://orf.at/stories/3373205/",
+      "urlToImage": "https://orf.at/mojo/1_4_1/storyserver//news/common/images/og-fallback-news.png",
+      "publishedAt": "2024-10-18 11:40:22",
+      "content": "Die afrikanische Gesundheitsbeh\u00f6rde CDC Africa sieht die Ausbreitung der Krankheit Mpox weiterhin nicht unter Kontrolle. Im Gegenteil, die Krankheitszahlen stiegen ungeachtet der bisherigen Bem\u00fchunge\u2026 [+1572 chars]",
+      "retrievedAt": "2024-10-19 19:06:17.007568",
+      "internal_id": "024d74bce27b1eaa768c8b304f594999265d2ba512e81ff62acfbe3cc6718bde",
+      "publishedAtLabel": "Oct 18"
+    },
+    {
+      "id": 14690,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Skai.gr",
+      "author": "Newsroom",
+      "title": "\u0397 \u0392\u03bf\u03c5\u03bb\u03b3\u03b1\u03c1\u03af\u03b1 \u03b1\u03bd\u03b1\u03ba\u03bf\u03af\u03bd\u03c9\u03c3\u03b5 \u03be\u03ad\u03c3\u03c0\u03b1\u03c3\u03bc\u03b1 \u03c4\u03b7\u03c2 \u03b3\u03c1\u03af\u03c0\u03b7\u03c2 \u03c4\u03c9\u03bd \u03c0\u03c4\u03b7\u03bd\u03ce\u03bd \u03c3\u03b5 \u03bf\u03c1\u03bd\u03b9\u03b8\u03bf\u03c4\u03c1\u03bf\u03c6\u03b5\u03af\u03bf",
+      "description": "\u039f \u03b9\u03cc\u03c2 H5N1 \u03b5\u03bd\u03c4\u03bf\u03c0\u03af\u03c3\u03b8\u03b7\u03ba\u03b5 \u03b1\u03bd\u03ac\u03bc\u03b5\u03c3\u03b1 \u03c3\u03b5 7.669 \u03c0\u03bf\u03c5\u03bb\u03b5\u03c1\u03b9\u03ba\u03ac \u03bf\u03c1\u03bd\u03b9\u03b8\u03bf\u03c4\u03c1\u03bf\u03c6\u03b5\u03af\u03bf\u03c5 \u03ba\u03b1\u03b9 \u03c0\u03c1\u03bf\u03ba\u03ac\u03bb\u03b5\u03c3\u03b5 \u03c4\u03bf \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf 764 \u03c0\u03bf\u03c5\u03bb\u03b5\u03c1\u03b9\u03ba\u03ce\u03bd - \u0397 \u0395\u03c5\u03c1\u03ce\u03c0\u03b7 \u03b1\u03bd\u03c4\u03b9\u03bc\u03b5\u03c4\u03c9\u03c0\u03af\u03b6\u03b5\u03b9 \u03b5\u03c0\u03bf\u03c7\u03b9\u03ba\u03ae \u03b1\u03cd\u03be\u03b7\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03bd\u03cc\u03c3\u03bf\u03c5",
+      "url": "https://www.skai.gr/news/world/voulgaria-anakoinose-ksespasma-tis-gripis-ton-ptinon-se-ornithotrofeio",
+      "urlToImage": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2024-10/shutterstock_bird_flu.jpg?itok=FqRwnXV7",
+      "publishedAt": "2024-10-18 10:50:30",
+      "content": ", (WOAH), . H5N1 7.669 764 , WOAH , . .Skai.gr Google News .",
+      "retrievedAt": "2024-10-19 19:06:13.641610",
+      "internal_id": "b515d74efe1f4110e0b3be824ae69d14d60ef81d859c1279ea2908c68f515387",
+      "publishedAtLabel": "Oct 18"
+    },
+    {
+      "id": 14706,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Sky News Australia",
+      "author": "Bryant Hevesi",
+      "title": "Victoria\u2019s mpox outbreak continues to spread with more than 300 cases and almost 30 people hospitalised",
+      "description": "An infectious disease outbreak in Victoria continues to spread, with hundreds of cases recorded and almost 30 people hospitalised.",
+      "url": "https://www.skynews.com.au/lifestyle/health/victorias-mpox-outbreak-continues-to-spread-with-more-than-300-cases-and-almost-30-people-hospitalised/news-story/39aeb9b503f20312444f5d5d4b653a4b",
+      "urlToImage": "https://content.api.news/v3/images/bin/5dac4d767950ff86a9950cdae6682759",
+      "publishedAt": "2024-10-18 09:20:42",
+      "content": "An infectious disease outbreak in Victoria continues to spread, with hundreds of cases recorded and almost 30 people hospitalised. The state's health department on Friday said there had been 330 cas\u2026 [+1876 chars]",
+      "retrievedAt": "2024-10-19 19:06:17.197381",
+      "internal_id": "aaeb8eac4c3fab7e07e4a236606354c388916e1daf839b0bffb5d701aff1bdf6",
+      "publishedAtLabel": "Oct 18"
+    },
+    {
+      "id": 14703,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "taz.de",
+      "author": null,
+      "title": "Mpox in Afrika: Afrikanische Gesundheitsbeh\u00f6rden melden \u00fcber 1.000 Tote",
+      "description": "Die Zahl der Todesf\u00e4lle mit einem Zusammenhang zu Mpox ist vierstellig. Die Situation k\u00f6nne au\u00dfer Kontrolle geraten, wenn nicht gehandelt werde.",
+      "url": "https://taz.de/Mpox-in-Afrika/!6043613/",
+      "urlToImage": "https://taz.de/picture/7305757/1200/367942411-1.jpeg",
+      "publishedAt": "2024-10-18 08:29:00",
+      "content": "Die Zahl der Todesf\u00e4lle mit einem Zusammenhang zu Mpox ist vierstellig. Die Situation k\u00f6nne au\u00dfer Kontrolle geraten, wenn nicht gehandelt werde. mehr...",
+      "retrievedAt": "2024-10-19 19:06:17.121086",
+      "internal_id": "75792a606bdfe6d7c53c203196cd6787adbd9186d7968b0e8f1db043fe530794",
+      "publishedAtLabel": "Oct 18"
+    },
     {
       "id": 14679,
       "query": [
@@ -31206,114 +31530,6 @@
       "content": "El Ministerio de Salud de Per\u00fa (Minsa) confirm\u00f3 la existencia de un caso de meningitis y el seguimiento de otros posibles afectados por un brote de esta enfermedad en una localidad remota de la re\u2026 [+2214 chars]",
       "retrievedAt": "2024-09-03 07:06:27.157147",
       "internal_id": "3e9848a7b4071db2edb3702ff7f3ef0d520124067714b1a62dfb0a367110b6e4",
-      "publishedAtLabel": "Sep 1"
-    },
-    {
-      "id": 13002,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Aajtak.in",
-      "author": "aajtak.in",
-      "title": "PAK \u092e\u0947\u0902 Mpox \u0915\u093e \u091a\u094c\u0925\u093e \u0915\u0947\u0938 \u092e\u093f\u0932\u093e, \u0935\u093f\u0926\u0947\u0936 \u0938\u0947 \u0932\u094c\u091f\u0947 \u0925\u0947 \u0938\u092d\u0940 \u092e\u0930\u0940\u091c, \u090f\u092f\u0930\u092a\u094b\u0930\u094d\u091f \u092a\u0930 \u092c\u0922\u093c\u093e\u0908 \u0928\u093f\u0917\u0930\u093e\u0928\u0940",
-      "description": "\u092a\u093e\u0915\u093f\u0938\u094d\u0924\u093e\u0928 \u0928\u0947 \u090f\u092e\u092a\u0949\u0915\u094d\u0938 \u0938\u0947 \u0928\u093f\u092a\u091f\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u090f\u0939\u0924\u093f\u092f\u093e\u0924\u0940 \u0915\u0926\u092e \u0909\u0920\u093e\u090f \u0939\u0948\u0902. \u0907\u0938\u0947 \u0932\u0947\u0915\u0930 \u090f\u092f\u0930\u092a\u094b\u0930\u094d\u091f \u092a\u0930 \u0938\u0916\u094d\u0924 \u0938\u093f\u0915\u094d\u092f\u094b\u0930\u093f\u091f\u0940 \u0938\u093f\u0938\u094d\u091f\u092e \u0932\u093e\u0917\u0942 \u0915\u093f\u092f\u093e \u0917\u092f\u093e \u0939\u0948, \u0915\u094d\u092f\u094b\u0902\u0915\u093f \u092f\u0939 \u0938\u093e\u092e\u0928\u0947 \u0906\u092f\u093e \u0939\u0948 \u0915\u093f \u090f\u092e\u092a\u0949\u0915\u094d\u0938 \u0935\u093e\u092f\u0930\u0938 \u0938\u0947 \u0938\u0902\u0915\u094d\u0930\u092e\u093f\u0924 \u0938\u092d\u0940 \u092e\u0930\u0940\u091c \u0935\u093f\u0926\u0947\u0936 \u0938\u0947 \u0932\u094c\u091f\u0947 \u0925\u0947.",
-      "url": "https://www.aajtak.in/world/story/pakistan-fourth-case-of-mpox-found-all-infected-patients-had-returned-from-abroad-increased-surveillance-at-airport-ntc-2027934-2024-09-01",
-      "urlToImage": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202409/66d494cfb0004-pakistan-fourth-case-of-mpox-012238510-16x9.png",
-      "publishedAt": "2024-09-01 16:24:21",
-      "content": "MPOX , . - . - . ( ) (PSH) . . . . - , . 19 47 (PIMS) . . PIMS . , . , , . , . 4 . . , .",
-      "retrievedAt": "2024-09-04 07:06:06.004231",
-      "internal_id": "c1c0a2f858fac828940b6fbea65b7f978469b37ed691ba046373e7e23e3bebea",
-      "publishedAtLabel": "Sep 1"
-    },
-    {
-      "id": 12990,
-      "query": [
-        "mpox"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "PTI",
-      "title": "Authorities in Pakistan confirm fourth case of mpox virus",
-      "description": "Pakistan reported its fourth case of monkeypox in Khyber-Pakhtunkhwa province, where three other cases were also confirmed. All patients had returned from abroad, with no local transmission reported. Authorities have implemented strict airport screening. The \u2026",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/authorities-in-pakistan-confirm-fourth-case-of-mpox-virus/articleshow/112971353.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-112971380,width-1200,height-630,imgsize-74546,overlay-economictimes/photo.jpg",
-      "publishedAt": "2024-09-01 14:24:51",
-      "content": "Authorities in Pakistan on Sunday reported another case of monkeypox (mpox) virus amid the confusion about the total number of cases confirmed so far in the country. The fourth case was detected in K\u2026 [+2246 chars]",
-      "retrievedAt": "2024-09-04 07:06:05.932306",
-      "internal_id": "5cef8ac5510c943badb8e476202518f255d1da1ec5ffc95a8244c4b3b13b8696",
-      "publishedAtLabel": "Sep 1"
-    },
-    {
-      "id": 12950,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "NDTV News",
-      "author": null,
-      "title": "Pak's Peshawar Emerges As 'Epicentre' Of Mpox As Tally Reaches 5: Report",
-      "description": "Amid growing concerns over the new strain of mpox virus, Pakistan's Peshawar city has started emerging as the 'epicentre' of the virus, as the fifth mpox case was recorded on Sunday, Geo News reported.",
-      "url": "https://www.ndtv.com/world-news/pakistans-peshawar-emerges-as-epicentre-of-mpox-as-tally-reaches-5-report-6467196",
-      "urlToImage": "https://c.ndtvimg.com/2024-08/1n5d9p5_mpox-reuters_625x300_24_August_24.jpeg",
-      "publishedAt": "2024-09-01 13:50:44",
-      "content": "The mpox virus shows flu-like symptoms and pus-filled lesions (Representational) Islamabad: Amid growing concerns over the new strain of mpox virus, Pakistan's Peshawar city has started emerging as \u2026 [+2390 chars]",
-      "retrievedAt": "2024-09-03 07:06:29.235040",
-      "internal_id": "97f9ccb2060e6d61e34aa9b0c0b1bd8a6ab09cfe9a02837a13e6358e423c6689",
-      "publishedAtLabel": "Sep 1"
-    },
-    {
-      "id": 12930,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "TNN",
-      "title": "Jaipur sees a surge in dengue cases last week",
-      "description": "Jaipur has experienced a rise in dengue cases, with 40 new infections reported in the past week, totaling 300 cases. Statewide, cases increased by 284, with particular concern in Udaipur. Health officials are emphasizing prevention and treatment efforts, with\u2026",
-      "url": "https://timesofindia.indiatimes.com/city/jaipur/jaipur-sees-a-surge-in-dengue-cases-last-week/articleshow/112965963.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-112966030,width-1070,height-580,imgsize-29178,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-09-01 08:36:20",
-      "content": "9 biotin-rich foods to nourish hair, skin and nail",
-      "retrievedAt": "2024-09-02 19:06:00.726670",
-      "internal_id": "88e9aad11b8372588cc5e8f63cf95b221c48b81a550e47444d2934332f11deb5",
-      "publishedAtLabel": "Sep 1"
-    },
-    {
-      "id": 12931,
-      "query": [
-        "mpox"
-      ],
-      "source_id": "info-money",
-      "source_name": "InfoMoney",
-      "author": "darrellchamplin",
-      "title": "Como a Mpox se espalha e quem corre mais risco? Tire suas d\u00favidas",
-      "description": "Entenda o que os cientistas aprenderam sobre o v\u00edrus, que foi recentemente declarado uma emerg\u00eancia de sa\u00fade global The post Como a Mpox se espalha e quem corre mais risco? Tire suas d\u00favidas appeared first on InfoMoney.",
-      "url": "https://www.infomoney.com.br/business/global/como-a-mpox-se-espalha-e-quem-corre-mais-risco-tire-suas-duvidas/",
-      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2024/08/2024-08-13t135812z_488502842_rc2yx8aqv1tn_rtrmadp_3_africa-mpox.webp?fit=1170%2C700&quality=70&strip=all",
-      "publishedAt": "2024-09-01 08:00:00",
-      "content": "Este m\u00eas, a Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS) declarou a Mpox uma emerg\u00eancia de sa\u00fade global. Anteriormente conhecido como monkeypox (var\u00edola dos macacos), o v\u00edrus est\u00e1 se espalhando rapidamente em \u2026 [+5639 chars]",
-      "retrievedAt": "2024-09-02 19:06:04.154812",
-      "internal_id": "bf3fe0c7f4e4539e1faaaf51794580c8e3e4502994583a4077d5a256a2462238",
-      "publishedAtLabel": "Sep 1"
-    },
-    {
-      "id": 12951,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Sudinfo.be",
-      "author": "Par Pauline Govaert avec AFP",
-      "title": "Mpox : comment la d\u00e9forestation a favoris\u00e9 l\u2019\u00e9pid\u00e9mie",
-      "description": "La d\u00e9forestation dans le bassin du Congo, connu comme \u00able poumon de l\u2019Afrique\u00bb, aurait favoris\u00e9 l\u2019\u00e9pid\u00e9mie de Mpox.",
-      "url": "https://www.sudinfo.be/id875008/article/2024-09-01/mpox-comment-la-deforestation-favorise-lepidemie",
-      "urlToImage": "https://spgeng.rosselcdn.net/sites/default/files/dpistyles_v2/FirstImageUrl/2024/09/01/node_875008/55830061/public/2024/09/01/24620914.jpeg?itok=yE0UBvF31725177634",
-      "publishedAt": "2024-09-01 08:00:00",
-      "content": "La recrudescence du mpox en R\u00e9publique d\u00e9mocratique du Congo (RDC), port\u00e9e par le clade 1b qui touche aussi le Burundi, le Kenya, le Rwanda et lOuganda, a incit\u00e9 lOrganisation mondiale de la sant\u00e9 (O\u2026 [+7241 chars]",
-      "retrievedAt": "2024-09-03 07:06:29.241063",
-      "internal_id": "825fd119eae7d39ba7fb596a39d18b8a542c8fb27e2f5aa8cbbb4cfbe3f2e8a6",
       "publishedAtLabel": "Sep 1"
     }
   ]

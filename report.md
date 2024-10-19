@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
 - **New articles in last harvest:** 18
-- **Last harvest:** 2024-10-19 07:05
-- **Most recent article:** 2024-10-18 06:52:41
+- **Last harvest:** 2024-10-19 19:06
+- **Most recent article:** 2024-10-18 18:38:41
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-36 | 24-37 | 24-38 | 24-39 | 24-40 | 24-41 | 24-42 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 175 | 192 | 140 | 122 | 128 | 42 | 68 | 867 |
-| dengue | 47 | 76 | 73 | 49 | 51 | 35 | 39 | 370 |
-| h5n1 | 31 | 10 | 17 | 35 | 50 | 10 | 15 | 168 |
-| malaria | 13 | 12 | 15 | 24 | 10 | 13 | 15 | 102 |
+| mpox | 170 | 192 | 140 | 122 | 128 | 42 | 78 | 872 |
+| dengue | 46 | 76 | 73 | 49 | 51 | 35 | 44 | 374 |
+| h5n1 | 31 | 10 | 17 | 35 | 50 | 10 | 16 | 169 |
+| malaria | 13 | 12 | 15 | 24 | 10 | 13 | 16 | 103 |
 | rabies | 7 | 5 | 13 | 25 | 30 | 6 | 5 | 91 |
 | chikungunya | 4 | 13 | 9 | 3 | 3 | 3 | 4 | 39 |
 | meningitis | 6 | 3 | 10 | 6 | 11 | 2 | 1 | 39 |
 | measles | 8 | 5 | 8 | 4 | 6 | 5 | 2 | 38 |
 | zika | 6 | 10 | 8 | 1 | 3 | 4 | 6 | 38 |
-| pertussis | 1 | 5 | 3 | 3 | 2 | 2 | 7 | 23 |
+| pertussis | 1 | 5 | 3 | 3 | 2 | 2 | 8 | 24 |
 | leptospirosis | 1 | 0 | 1 | 5 | 4 | 1 | 1 | 13 |
 | hpai | 3 | 1 | 0 | 2 | 2 | 1 | 2 | 11 |
 | yersinia | 2 | 0 | 2 | 2 | 1 | 1 | 0 | 8 |
@@ -65,6 +65,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-42 (pertussis)
 
+- [Minnesota Department of Health: Statewide whooping cough cases at 8-year high](https://www.mprnews.org/story/2024/10/18/mdh-reports-statewide-whooping-cough-cases-at-eightyear-high) (Minnesota Public Radio News)
+
 - [Whooping Cough Hits Decade High: Know Symptoms, Learn How To Protect Yourself](https://www.medicaldaily.com/whooping-cough-hits-decade-high-know-symptoms-learn-how-protect-yourself-472548) (Medical Daily)
 
 - [Seit Jänner mehr als 12.000 Fälle von Keuchhusten in Österreich](https://www.diepresse.com/18975302/seit-jaenner-mehr-als-12000-faelle-von-keuchhusten-in-oesterreich) (Diepresse.com)
@@ -80,6 +82,26 @@ Source: [News API](https://newsapi.org/)
 - [What parents need to know as whooping cough cases surge](https://abcnews.go.com/GMA/Wellness/parents-whooping-cough-cases-surge/story?id=114774431) (ABC News)
 
 ## 24-42 (mpox)
+
+- [Uganda reports 49 new mpox cases](https://www.thestar.com.my/news/world/2024/10/19/uganda-reports-49-new-mpox-cases) (The Star Online)
+
+- [Death toll from mpox in Africa surges to 1,100 as cases exceed 42,000](https://www.thestar.com.my/news/world/2024/10/19/death-toll-from-mpox-in-africa-surges-to-1100-as-cases-exceed-42000) (The Star Online)
+
+- [U.S. boosts passenger screening as Marburg and mpox viruses spread](https://www.cbsnews.com/news/marburg-and-mpox-virus-outbreaks-rwanda-africa-us-passenger-screening/) (CBS News)
+
+- [‘Dit jaar al 1100 doden door mpox in Afrika’](https://www.knack.be/nieuws/gezondheid/dit-jaar-al-1100-doden-door-mpox-in-afrika/) (Knack.be)
+
+- [Ruim 1.000 doden door mpox in Afrikaanse landen dit jaar](https://www.hbvl.be/cnt/dmf20241018_95281204) (Hbvl.be)
+
+- [Ruim 1.000 doden door mpox in Afrikaanse landen dit jaar](https://www.nieuwsblad.be/cnt/dmf20241018_95190429) (Nieuwsblad.be)
+
+- [Immer mehr Länder in Afrika von Mpox betroffen](https://www.diepresse.com/18981254/immer-mehr-laender-in-afrika-von-mpox-betroffen) (Diepresse.com)
+
+- [Mpox inzwischen in 18 afrikanischen Ländern](https://orf.at/stories/3373205/) (Orf.at)
+
+- [Victoria’s mpox outbreak continues to spread with more than 300 cases and almost 30 people hospitalised](https://www.skynews.com.au/lifestyle/health/victorias-mpox-outbreak-continues-to-spread-with-more-than-300-cases-and-almost-30-people-hospitalised/news-story/39aeb9b503f20312444f5d5d4b653a4b) (Sky News Australia)
+
+- [Mpox in Afrika: Afrikanische Gesundheitsbehörden melden über 1.000 Tote](https://taz.de/Mpox-in-Afrika/!6043613/) (taz.de)
 
 - [Mehr als 1.000 Tote durch Mpox in Afrika](https://www.tagesschau.de/ausland/afrika/mpox-afrika-eintausend-tote-100.html) (tagesschau.de)
 
@@ -229,6 +251,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-42 (malaria)
 
+- [Evaluation of an electronic clinical decision support algorithm to improve primary care management of acute febrile illness in rural Cambodia: protocol for a cluster-randomised trial](https://bmjopen.bmj.com/content/14/10/e089616) (The BMJ)
+
 - [Gavi tackles Nigeria’s malaria burden with one million vaccines](https://punchng.com/gavi-tackles-nigerias-malaria-burden-with-one-million-vaccines/) (The Punch)
 
 - [Prevalence and correlates of malaria and undernutrition among acutely febrile children visiting temporary malaria screening sites in war-torn areas of Northeast Ethiopia](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0311931) (Plos.org)
@@ -271,6 +295,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-42 (h5n1)
 
+- [Η Βουλγαρία ανακοίνωσε ξέσπασμα της γρίπης των πτηνών σε ορνιθοτροφείο](https://www.skai.gr/news/world/voulgaria-anakoinose-ksespasma-tis-gripis-ton-ptinon-se-ornithotrofeio) (Skai.gr)
+
 - [Antarctic penguin found in Wellington being tested for bird flu](https://www.nzherald.co.nz/nz/antarctic-penguin-found-in-wellington-being-tested-for-bird-flu/KXOEF3Y4NNAKXBCL3BKLRX7EBA/) (New Zealand Herald)
 
 - [Nachweis bei Wildvogel: Geflügelpest bei Mantelmöwe in Nordfriesland festgestellt](https://www.zeit.de/news/2024-10/16/gefluegelpest-bei-mantelmoewe-in-nordfriesland-festgestellt) (Die Zeit)
@@ -302,6 +328,16 @@ Source: [News API](https://newsapi.org/)
 - [Labor sets out $95 million to combat potential arrival of deadly bird flu strain H5N1](https://www.abc.net.au/news/2024-10-13/labor-announces-95m-in-funding-for-bird-flu-h5n1/104467622) (ABC News (AU))
 
 ## 24-42 (dengue)
+
+- [সিলেটে ছাত্রলীগ নেতা ও তার সহযোগীকে কুপিয়ে জখম, আরেক যুবক নিহত](https://bangla.thedailystar.net/news/bangladesh/crime-justice/news-622951) (The Daily Star)
+
+- [SP investiga três casos suspeitos de pacientes contaminados por dengue após transfusão de sangue](https://www.terra.com.br/vida-e-estilo/saude/sp-investiga-tres-casos-suspeitos-de-pacientes-contaminados-por-dengue-apos-transfusao-de-sangue,6326e30faf6487782f963067cf0de70fctwkvptd.html) (Terra.com.br)
+
+- [Three dengue patients die, 411 hospitalised in 24 hours](https://www.tbsnews.net/bangladesh/health/three-dengue-patients-die-411-hospitalised-24-hours-970016) (Tbsnews.net)
+
+- [Dengue aumentou 400% no Brasil em 2024](https://valor.globo.com/brasil/noticia/2024/10/18/dengue-aumentou-400percent-no-brasil-em-2024.ghtml) (Globo)
+
+- [Governo investiga 3 casos de dengue por transfusão de sangue em SP](https://www.metropoles.com/sao-paulo/governo-investiga-3-casos-dengue-transfusao-sangue-sp) (Metropoles.com)
 
 - [क्या US, UK में भी है डेंगू के मच्छरों का आतंक? भारत से कितने अलग हैं हालात?](https://www.aajtak.in/education/knowledge/story/america-uk-dengue-cases-data-will-shock-you-know-how-many-cases-reported-in-us-per-year-check-here-all-details-tedu-dskc-2074225-2024-10-18) (Aajtak.in)
 
@@ -3603,16 +3639,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Mpox concerns grow in Pakistan as Peshawar reports fifth case](https://economictimes.indiatimes.com/news/international/world-news/mpox-concerns-grow-in-pakistan-as-peshawar-reports-fifth-case/articleshow/112978523.cms) (The Times of India)
 
-- [PAK में Mpox का चौथा केस मिला, विदेश से लौटे थे सभी मरीज, एयरपोर्ट पर बढ़ाई निगरानी](https://www.aajtak.in/world/story/pakistan-fourth-case-of-mpox-found-all-infected-patients-had-returned-from-abroad-increased-surveillance-at-airport-ntc-2027934-2024-09-01) (Aajtak.in)
-
-- [Authorities in Pakistan confirm fourth case of mpox virus](https://economictimes.indiatimes.com/news/international/world-news/authorities-in-pakistan-confirm-fourth-case-of-mpox-virus/articleshow/112971353.cms) (The Times of India)
-
-- [Pak's Peshawar Emerges As 'Epicentre' Of Mpox As Tally Reaches 5: Report](https://www.ndtv.com/world-news/pakistans-peshawar-emerges-as-epicentre-of-mpox-as-tally-reaches-5-report-6467196) (NDTV News)
-
-- [Como a Mpox se espalha e quem corre mais risco? Tire suas dúvidas](https://www.infomoney.com.br/business/global/como-a-mpox-se-espalha-e-quem-corre-mais-risco-tire-suas-duvidas/) (InfoMoney)
-
-- [Mpox : comment la déforestation a favorisé l’épidémie](https://www.sudinfo.be/id875008/article/2024-09-01/mpox-comment-la-deforestation-favorise-lepidemie) (Sudinfo.be)
-
 ## 24-36 (meningitis)
 
 - [Luis Canut lanza un emotivo mensaje a Patricia Pérez por ser su mayor apoyo ante su enfermedad: 'Me salvó la vida'](https://www.bekia.es/celebrities/noticias/luis-canut-lanza-emotivo-mensaje-patricia-perez-apoyo/) (Bekia.es)
@@ -3842,8 +3868,6 @@ Source: [News API](https://newsapi.org/)
 - [One dies of dengue infection in Chitwan](https://english.khabarhub.com/2024/02/393092/) (Khabarhub.com)
 
 - [Bacolod: Province logs 414 dengue cases in a week](https://rpnradio.com/bacolod-province-logs-414-dengue-cases-in-a-week/) (Rpnradio.com)
-
-- [Jaipur sees a surge in dengue cases last week](https://timesofindia.indiatimes.com/city/jaipur/jaipur-sees-a-surge-in-dengue-cases-last-week/articleshow/112965963.cms) (The Times of India)
 
 ## 24-36 (chikungunya)
 
