@@ -1,8 +1,134 @@
 {
-  "last_updated": "2024-10-20 07:05",
-  "count_articles_total": 1466,
-  "count_articles_new": 9,
+  "last_updated": "2024-10-20 19:05",
+  "count_articles_total": 1458,
+  "count_articles_new": 7,
   "articles": [
+    {
+      "id": 14717,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "North Macedonia, Skopje zoo closed due to bird flu",
+      "description": "The Skopje Zoo was closed to visitors this morning after an outbreak of avian influenza was discovered. The Food and Veterinary Medicine Agency reported that tests on a goose found dead in the zoo's pond confirmed the presence of the H5N1 avian influenza viru\u2026",
+      "url": "https://www.ansa.it/sito/notizie/cultura/libri/poesia/2024/10/19/north-macedonia-skopje-zoo-closed-due-to-bird-flu_c24b2aa4-5027-419b-a1cc-0f5389176575.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2024/10/19/0863284b9be130d1de4902779ff09f93.jpg",
+      "publishedAt": "2024-10-19 16:48:25",
+      "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all\u2019abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad \u2026 [+320 chars]",
+      "retrievedAt": "2024-10-20 19:05:29.677320",
+      "internal_id": "ea1a09e7aee2aea67c4af6718e29678df9305c831d230213894ee78d91772ea1",
+      "publishedAtLabel": "Oct 19"
+    },
+    {
+      "id": 14718,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "North Macedonia, Skopje zoo closed due to bird flu",
+      "description": "The Skopje Zoo was closed to visitors this morning after an outbreak of avian influenza was discovered. The Food and Veterinary Medicine Agency reported that tests on a goose found dead in the zoo's pond confirmed the presence of the H5N1 avian influenza viru\u2026",
+      "url": "https://www.ansa.it/sito/notizie/cultura/libri/2024/10/19/north-macedonia-skopje-zoo-closed-due-to-bird-flu_9906a68b-f5ab-44ef-96b7-63eba713a0bf.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2024/10/19/0863284b9be130d1de4902779ff09f93.jpg",
+      "publishedAt": "2024-10-19 16:48:20",
+      "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all\u2019abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad \u2026 [+320 chars]",
+      "retrievedAt": "2024-10-20 19:05:29.684701",
+      "internal_id": "02700077932df8b2631a69a8986e545445e3f0c92ff05278d86ebc7ebe720367",
+      "publishedAtLabel": "Oct 19"
+    },
+    {
+      "id": 14721,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "VOA News",
+      "author": "webdesk@voanews.com (Gibson Emeka)",
+      "title": "Nigeria rolls out long-anticipated malaria vaccine",
+      "description": "ABUJA, NIGERIA \u2014 Nigeria officially launched its malaria vaccination campaign this week to protect millions of children from the deadly disease, focusing heavily on high-risk states. The first 846,000 doses of the R21 malaria vaccine arrived in Abuja, Niger\u2026",
+      "url": "https://www.voanews.com/a/nigeria-rolls-out-long-anticipated-malaria-vaccine/7828564.html",
+      "urlToImage": "https://gdb.voanews.com/15D1B6F3-7676-4AE9-AE78-A08B4E232603.jpg",
+      "publishedAt": "2024-10-19 13:19:22",
+      "content": "ABUJA, NIGERIA Nigeria officially launched its malaria vaccination campaign this week to protect millions of children from the deadly disease, focusing heavily on high-risk states. The first 846,00\u2026 [+2871 chars]",
+      "retrievedAt": "2024-10-20 19:05:31.356542",
+      "internal_id": "c9d5d0a5f8e82a64d9559e8309ea510f9de5e40fb69679e349f064011ad4d0e7",
+      "publishedAtLabel": "Oct 19"
+    },
+    {
+      "id": 14720,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Blackout totale a Cuba e l'Avana si allaga per piogge torrenziali",
+      "description": "L'accumulo di acqua piovana aumenta la diffusione della zanzara che provoca la dengue (ANSA)",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2024/10/19/blackout-totale-a-cuba-e-lavana-si-allaga-per-piogge-torrenziali_1f81e75e-1101-40ac-9b8d-8015c37cb3f7.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2024/10/19/346f12c44deb71fa59f76f596951aa4f.jpg",
+      "publishedAt": "2024-10-19 12:10:58",
+      "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all\u2019abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad \u2026 [+320 chars]",
+      "retrievedAt": "2024-10-20 19:05:30.332542",
+      "internal_id": "c942650d88f4ecb74d22a3ac4d66c23ff92f28d6358d356f4b7c342ecdf6298e",
+      "publishedAtLabel": "Oct 19"
+    },
+    {
+      "id": 14719,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ilfattoquotidiano.it",
+      "author": "F. Q.",
+      "title": "Cuba \u00e8 in blackout totale da pi\u00f9 di 24 ore: il sistema elettrico \u00e8 collassato e L\u2019Avana \u00e8 allagata. In aumento i casi dengue, sono 17mila",
+      "description": "In blackout totale da 24 ore, Cuba sta affrontando ore difficili. Venerd\u00ec mattina, il ministero dell\u2019Energia e delle Miniere ha annunciato che il sistema elettrico nazionale \u00e8 collassato a causa della \u201cdisconnessione imprevista\u201d di una delle principali centra\u2026",
+      "url": "https://www.ilfattoquotidiano.it/2024/10/19/cuba-e-in-blackout-totale-da-piu-di-24-ore-il-sistema-elettrico-e-collassato-e-lavana-e-allagata-in-aumento-i-casi-dengue-sono-17mila/7736547/",
+      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2023/06/13/med-1200x630-12-1200x630.jpg",
+      "publishedAt": "2024-10-19 11:37:38",
+      "content": "In blackout totale da 24 ore, Cuba sta affrontando ore difficili. Venerd\u00ec mattina, il ministero dell\u2019Energia e delle Miniere ha annunciato che il sistema elettrico nazionale \u00e8 collassato a causa dell\u2026 [+3602 chars]",
+      "retrievedAt": "2024-10-20 19:05:30.223940",
+      "internal_id": "0f58cc04c5e8a08b0e01c66b56c7b5917e056d657324c235d7df5b9d9287803c",
+      "publishedAtLabel": "Oct 19"
+    },
+    {
+      "id": 14716,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Taiwo Bankole",
+      "title": "Ogun commissioner harps on importance of measles vaccination, seeks support",
+      "description": "The Ogun State Commissioner for Health, Dr. Tomi Coker, has called for the support of all the stakeholders including parents and guardians, caregivers, traditional rulers, religious leaders and health workers among others to ensure the success of the 2024 Int\u2026",
+      "url": "https://punchng.com/ogun-commissioner-harps-on-importance-of-measles-vaccination-seeks-support/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2023/06/03153125/Dr.-Tomi-Coker.jpg",
+      "publishedAt": "2024-10-19 08:09:49",
+      "content": "The Ogun State Commissioner for Health, Dr. Tomi Coker, has called for the support of all the stakeholders including parents and guardians, caregivers, traditional rulers, religious leaders and healt\u2026 [+2724 chars]",
+      "retrievedAt": "2024-10-20 19:05:29.022401",
+      "internal_id": "293f39e850707ed4d2ca300b8721e1461c3099c042d661bccbf9649641551ff5",
+      "publishedAtLabel": "Oct 19"
+    },
+    {
+      "id": 14722,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "al-jazeera-english",
+      "source_name": "Al Jazeera English",
+      "author": "Faras Ghani",
+      "title": "COVID, mpox, cholera: Is the world prepared for another pandemic?",
+      "description": "About 4.5 billion people are currently without adequate access to essential healthcare.",
+      "url": "https://www.aljazeera.com/news/2024/10/19/covid-mpox-cholera-is-the-world-prepared-for-another-pandemic",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/08/AP24232649230110-1724843099.jpg?resize=1920%2C1440",
+      "publishedAt": "2024-10-19 07:15:39",
+      "content": "Some 4.5 billion people worldwide are currently without adequate access to essential healthcare services, according to the World Health Organization (WHO). This comes as more than 100,000 cases of m\u2026 [+8266 chars]",
+      "retrievedAt": "2024-10-20 19:05:32.357051",
+      "internal_id": "4feb12b668142b23cbfbc3bdfa20f3452c4d9e58f3e9dbeae3515c6d7d7221ea",
+      "publishedAtLabel": "Oct 19"
+    },
     {
       "id": 14709,
       "query": [
@@ -26190,276 +26316,6 @@
       "content": "Dit is het dagelijkse commentaar van NRC. Het bevat meningen, interpretaties en keuzes. Ze worden geschreven door een groep redacteuren, geselecteerd door de hoofdredacteur. In de commentaren laat \u2026 [+3578 chars]",
       "retrievedAt": "2024-09-10 07:07:16.057070",
       "internal_id": "42f4d94b71f972f4ae2a002f1641f09387bde332e2aa04ffc4695f2eecdc92f4",
-      "publishedAtLabel": "Sep 8"
-    },
-    {
-      "id": 13262,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "DW (English)",
-      "author": "Deutsche Welle",
-      "title": "India detects 1st suspected mpox case",
-      "description": "India's health ministry said it was fully prepared to deal with \"an isolated travel related case\" and said robust measures were in place to contain it. India reported a \"suspected mpox case\" on Sunday and made assurances that it had \"robust measures\" in place\u2026",
-      "url": "https://www.dw.com/en/india-detects-1st-suspected-mpox-case/a-70166401",
-      "urlToImage": "https://static.dw.com/image/70166394_6.jpg",
-      "publishedAt": "2024-09-08 18:19:00",
-      "content": "India reported a \"suspected mpox case\" on Sunday and made assurances that it had \"robust measures\" in place to contain the case, the Health Ministry said in a statement. \"A young male patient, who r\u2026 [+1611 chars]",
-      "retrievedAt": "2024-09-10 07:07:16.242393",
-      "internal_id": "402d213b89d7631f2c385e91c8d9acc172e2b4f2344c579d52ed37c3f585e818",
-      "publishedAtLabel": "Sep 8"
-    },
-    {
-      "id": 13247,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Tass.ru",
-      "author": null,
-      "title": "\u0412 \u0418\u043d\u0434\u0438\u0438 \u0437\u0430\u0444\u0438\u043a\u0441\u0438\u0440\u043e\u0432\u0430\u043b\u0438 \u043f\u0430\u0446\u0438\u0435\u043d\u0442\u0430 \u0441 \u043f\u043e\u0434\u043e\u0437\u0440\u0435\u043d\u0438\u0435\u043c \u043d\u0430 \u043e\u0441\u043f\u0443 \u043e\u0431\u0435\u0437\u044c\u044f\u043d",
-      "description": "\u041f\u0430\u0446\u0438\u0435\u043d\u0442 \u043f\u043e\u043c\u0435\u0449\u0435\u043d \u0432 \u0438\u0437\u043e\u043b\u044f\u0442\u043e\u0440, \u0435\u0433\u043e \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0435 \u0441\u0442\u0430\u0431\u0438\u043b\u044c\u043d\u043e\u0435",
-      "url": "https://tass.ru/obschestvo/21807789",
-      "urlToImage": "https://cdn-storage-media.tass.ru/thumb/ru/obschestvo/21807789?u=2024-09-08T17:43:19.389676",
-      "publishedAt": "2024-09-08 17:43:19",
-      "content": "-, 8 . //. , (mpox), . . \" . . \", - X ( Twitter). , , , , . , . , , . \" . , [] \", - . . 14 2024 . 2022 - 23 . 20 , . - , , . , , , . 1% 10%. .",
-      "retrievedAt": "2024-09-09 19:05:45.882583",
-      "internal_id": "1e1ce8964493a04c0719a999815bc716d97877d91f4d3ffddcc2ca2df9103195",
-      "publishedAtLabel": "Sep 8"
-    },
-    {
-      "id": 13264,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Montevideo.com.uy",
-      "author": "Montevideo Portal",
-      "title": "La India examina primer caso sospechoso de viruela del mono durante la emergencia global",
-      "description": "La OMS declar\u00f3 la alerta de salud p\u00fablica de inter\u00e9s internacional, principalmente debido a la aparici\u00f3n de una variante muy contagiosa.",
-      "url": "https://www.montevideo.com.uy/Salud/La-India-examina-primer-caso-sospechoso-de-viruela-del-mono-durante-la-emergencia-global-uc899570",
-      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202207/_W933_80/808770.jpg",
-      "publishedAt": "2024-09-08 16:40:00",
-      "content": "El ministerio de Salud y Bienestar Familiar de la India inform\u00f3 este domingo en un comunicado de que est\u00e1 examinando a un paciente sospechoso de mpox -antes conocida como viruela del mono-, aunque\u2026 [+2191 chars]",
-      "retrievedAt": "2024-09-10 07:07:16.266958",
-      "internal_id": "f1fa0501f14fb0b047bf5898e12171b7d3ba61687a994d915d835a2b1eca2b3b",
-      "publishedAtLabel": "Sep 8"
-    },
-    {
-      "id": 13245,
-      "query": [
-        "mpox"
-      ],
-      "source_id": "al-jazeera-english",
-      "source_name": "Al Jazeera English",
-      "author": "Al Jazeera",
-      "title": "India records first suspected mpox case, male patient in isolation",
-      "description": "The health ministry says the young patient recently travelled from a country experiencing the virus outbreak.",
-      "url": "https://www.aljazeera.com/news/2024/9/8/india-records-first-suspected-mpox-case-male-patient-in-isolation",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/06/AP23144753871232-1719575316.jpg?resize=1920%2C1400",
-      "publishedAt": "2024-09-08 15:06:15",
-      "content": "Indias health ministry says it has recorded a suspected case of mpox found in a man who recently travelled from a country suffering an outbreak of the virus. The young male patient has been isolated\u2026 [+2057 chars]",
-      "retrievedAt": "2024-09-09 19:05:45.729713",
-      "internal_id": "5298a1d8fa6e325f19e1737a67ebd2ac8cb33e9a234e1fe3e5f47d80b5df0060",
-      "publishedAtLabel": "Sep 8"
-    },
-    {
-      "id": 13246,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Forbes",
-      "author": "Joshua P. Cohen, Senior Contributor, \n Joshua P. Cohen, Senior Contributor\n https://www.forbes.com/sites/joshuacohen/",
-      "title": "Amid Steep Rise In Mpox Cases, Vaccination Drive In Africa Becomes More Urgent",
-      "description": "Amid an expanding outbreak of Mpox, it\u2019s critical that the African vaccination drive succeeds to contain the emergency there and reduce the risk of it spreading globally.",
-      "url": "https://www.forbes.com/sites/joshuacohen/2024/09/08/amid-steep-rise-in-mpox-cases-vaccination-drive-in-africa-becomes-more-urgent/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66bf18af8d833737844a818c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2024-09-08 14:04:01",
-      "content": "A patient shows his hand with a sore caused by an infection of the mpox virus. (Photo by Ernesto ... [+] BENAVIDES / AFP) (Photo by ERNESTO BENAVIDES/AFP via Getty Images) AFP via Getty Images The \u2026 [+5679 chars]",
-      "retrievedAt": "2024-09-09 19:05:45.754914",
-      "internal_id": "1556e3395d29edeb65d64fe1433da0163cdf734e160244cb1da10580f763a672",
-      "publishedAtLabel": "Sep 8"
-    },
-    {
-      "id": 13249,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "BusinessLine",
-      "author": "BL New Delhi Bureau",
-      "title": "Suspected Mpox case under probe, no cause for alarm, says Govt",
-      "description": "Man who recently travelled to India from another country has been identified as a suspected case of the disease in India, the Union Health Ministry said",
-      "url": "https://www.thehindubusinessline.com/news/suspected-mpox-case-under-probe-no-cause-for-alarm-says-govt/article68618549.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/k563oq/article68618772.ece/alternates/LANDSCAPE_1200/2024-08-23T094343Z_1793304980_RC25DU9SZPC8_RTRMADP_3_HEALTH-MPOX-GERMANY-VACCINE.JPG",
-      "publishedAt": "2024-09-08 13:38:36",
-      "content": "A man, who recently travelled from another country experiencing Mpox (earlier known as monkeypox) transmission, has been identified as a suspected case of the disease in India, the Union Health Minis\u2026 [+845 chars]",
-      "retrievedAt": "2024-09-09 19:05:45.977228",
-      "internal_id": "1c6f5ba9609afa2337a61e24c304fe81ee2c7957b5c8a660c2a71ae429bc4799",
-      "publishedAtLabel": "Sep 8"
-    },
-    {
-      "id": 13243,
-      "query": [
-        "rabies"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "PTI",
-      "title": "Vengeance likely reason behind wolf attacks in UP's Bahraich, say officials",
-      "description": "In Bahraich, Uttar Pradesh, wolves have killed six people and injured several others. The forest department has trapped four wolves but attacks continue. Authorities speculate rabies or revenge as possible causes. Efforts to capture the remaining wolves are o\u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/vengeance-likely-reason-behind-wolf-attacks-in-ups-bahraich-say-officials/articleshow/113169632.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-113169650,width-1200,height-630,imgsize-78480,overlay-economictimes/photo.jpg",
-      "publishedAt": "2024-09-08 13:00:55",
-      "content": "An invasion of wolves is keeping the forest authorities on their toes in Bahraich, where the animal is suspected to have killed at least six people and wounded several, all within a very short span. \u2026 [+4348 chars]",
-      "retrievedAt": "2024-09-09 19:05:42.387371",
-      "internal_id": "a51c561e32ccf1b1a5229da821b8b5d0328b1edae05c40da1c5372099efcd911",
-      "publishedAtLabel": "Sep 8"
-    },
-    {
-      "id": 13274,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "The Star Online",
-      "title": "India reports case of mpox in traveller from affected country",
-      "description": "(Reuters) - India had recorded a suspected case of mpox found in a man who recently travelled from a country suffering an outbreak of the virus, the health ministry said on Sunday. Read full story",
-      "url": "https://www.thestar.com.my/news/world/2024/09/08/india-reports-case-of-mpox-in-traveller-from-affected-country",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/09/08/2902217.jpg",
-      "publishedAt": "2024-09-08 11:51:00",
-      "content": "(Reuters) - India had recorded a suspected case of mpox found in a man who recently travelled from a country suffering an outbreak of the virus, the health ministry said on Sunday. The patient has b\u2026 [+987 chars]",
-      "retrievedAt": "2024-09-10 07:07:16.329097",
-      "internal_id": "7ef9755bfb1327f914b8ed3743c4edd43d648c123b65758a219397f6bae5fd64",
-      "publishedAtLabel": "Sep 8"
-    },
-    {
-      "id": 13248,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Vz.ru",
-      "author": "\u0413\u043b\u0435\u0431 \u041a\u0443\u0437\u043d\u0435\u0446\u043e\u0432, \u043f\u043e\u043b\u0438\u0442\u043e\u043b\u043e\u0433",
-      "title": "\u041c\u043d\u0435\u043d\u0438\u044f: \u0423 \u043e\u0441\u043f\u044b \u043e\u0431\u0435\u0437\u044c\u044f\u043d \u0435\u0441\u0442\u044c \u043e\u0434\u043d\u0430 \u043d\u0435\u043f\u0440\u0438\u044f\u0442\u043d\u0430\u044f \u0434\u043b\u044f \u0431\u0438\u043e\u0442\u0435\u0445\u0430 \u043e\u0441\u043e\u0431\u0435\u043d\u043d\u043e\u0441\u0442\u044c",
-      "description": "\u041c\u0438\u0440 \u0431\u0438\u043e\u0442\u0435\u0445\u0430 \u2013 \u043d\u0435\u0438\u0441\u0442\u043e\u0449\u0438\u043c\u044b\u0439 \u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a \u0438\u0441\u0442\u043e\u0440\u0438\u0439 \u00ab\u0441\u0440\u0430\u0437\u0443 \u043f\u0440\u043e \u0432\u0441\u0451\u00bb. \u041c\u0438\u0440 \u0431\u0438\u043e\u0442\u0435\u0445\u0430 \u2013 \u043d\u0435\u0438\u0441\u0442\u043e\u0449\u0438\u043c\u044b\u0439 \u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a \u0438\u0441\u0442\u043e\u0440\u0438\u0439 \u00ab\u0441\u0440\u0430\u0437\u0443 \u043f\u0440\u043e \u0432\u0441\u0451\u00bb. \u0418\u0441\u0442\u043e\u0440\u0438\u044f \u043f\u0440\u043e \u043e\u0441\u043f\u0443 \u043e\u0431\u0435\u0437\u044c\u044f\u043d (\u044d\u0442\u043e \u00ab\u043a\u0430\u043d\u0434\u0438\u0434\u0430\u0442 \u0432 \u043a\u043e\u0432\u0438\u0434\u044b\u00bb \u043d\u0430 \u0441\u043b\u0443\u0447\u0430\u0439 \u0432\u043d\u0435\u0437\u0430\u043f\u043d\u043e\u0433\u043e \u043f\u0440\u0435\u043a\u0440\u0430\u0449\u0435\u043d\u0438\u044f \u0432\u043e\u0439\u043d\u044b) \u043c\u0435\u0434\u043b\u0435\u043d\u043d\u043e \u043a\u0440\u0443\u0442\u0438\u0442\u0441\u044f \u043d\u0430 \u043f\u043e\u043b\u0443\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u0438 \u0437\u0430\u043f\u0430\u0434\u043d\u044b\u0445 \u043c\u0435\u0434\u0438\u0430\u2026",
-      "url": "https://vz.ru/opinions/2024/9/8/1286142.html",
-      "urlToImage": "https://img.vz.ru/upimg/soc/soc_1286142.jpg",
-      "publishedAt": "2024-09-08 11:43:03",
-      "content": "\u00ab \u00bb. ( \u00ab \u00bb ) . (), SIGA. SIGA , , . . . , . . , ( ) 2008 . , , 200 80%. , . , 2022-, (mPO). \u00ab \u00bb. SIGA , \u00ab \u00bb, mPOX. . . . 2022-. 2024- , , -. , . \u00ab \u00bb \u00ab \u00bb, (, ) . SIGA . . , 2\u2026 [+129 chars]",
-      "retrievedAt": "2024-09-09 19:05:45.952672",
-      "internal_id": "b4409cdce6c159b0bda0acab4ee940d17f25343e9f455bb1309df4af3f0a6af2",
-      "publishedAtLabel": "Sep 8"
-    },
-    {
-      "id": 13273,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Business Standard",
-      "author": "Sanket Koul",
-      "title": "Health ministry reports first suspected case of mpox virus in India",
-      "description": "The patient has been isolated in a designated hospital and is currently stable. Samples from the patient are currently being tested to confirm the presence of Mpox",
-      "url": "https://www.business-standard.com/health/health-ministry-reports-first-suspected-case-of-mpox-virus-in-india-124090800399_1.html",
-      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-08/23/thumb/featurecrop/400X400/1724394719-3511.jpg",
-      "publishedAt": "2024-09-08 11:32:30",
-      "content": "Samples from the patient, put under isolation, currently being tested to confirm presence of the virus (Photo: Shutterstock) Sanket KoulNew Delhi India on Sunday reported the first suspected case \u2026 [+1753 chars]",
-      "retrievedAt": "2024-09-10 07:07:16.321551",
-      "internal_id": "1338e28452e459b73a4eb47d0a0a5ddd4db2cefa4aa77e2ee84637a641a217ca",
-      "publishedAtLabel": "Sep 8"
-    },
-    {
-      "id": 13271,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Aftonbladet.se",
-      "author": null,
-      "title": "Misst\u00e4nkt mpox-fall i nytt land",
-      "description": "\u25b8 Indien har sitt f\u00f6rsta fall av misst\u00e4nkt mpox-smitta. En person som varit p\u00e5 resa d\u00e4r smittan har spridning har efter\u2026",
-      "url": "https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1289283",
-      "urlToImage": "https://images.aftonbladet-cdn.se/v2/images/156fc268-adec-4fec-ac17-baa7f1dbdb35?fit=crop&format=auto&h=56&q=50&w=100&s=8d717b112fa508073dcc3292ac8f7acfdc612d33",
-      "publishedAt": "2024-09-08 11:30:10",
-      "content": "TRE NYHETER FR\u00c5N DAGEN DU INTE F\u00c5R MISSA: Misst\u00e4nkt mpox-fall i nytt land Indien har sitt f\u00f6rsta fall av misst\u00e4nkt mpox-smitta. En person som varit p\u00e5 resa d\u00e4r smittan har spridning har ef\u2026 [+10065 chars]",
-      "retrievedAt": "2024-09-10 07:07:16.309059",
-      "internal_id": "654129c8adb728d844f052422b56a4c6336ca1ccb4959751e7a86e64a25cccd6",
-      "publishedAtLabel": "Sep 8"
-    },
-    {
-      "id": 13263,
-      "query": [
-        "mpox"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "ET Online",
-      "title": "India reports first suspected case of Mpox: Symptoms, prevention, transmission and WHO norms on vaccination",
-      "description": "India's health ministry has identified a suspected Mpox case in a young male who recently traveled from an outbreak area. The patient is stable and isolated while tests are conducted. Mpox, also known as monkeypox, spreads through close contact and contaminat\u2026",
-      "url": "https://economictimes.indiatimes.com/magazines/panache/india-reports-first-suspected-case-of-mpox-monkeypox-symptoms-prevention-transmission-and-who-norms-on-vaccination/articleshow/113168254.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-113168329,width-1200,height-630,imgsize-1576098,overlay-etpanache/photo.jpg",
-      "publishedAt": "2024-09-08 11:28:06",
-      "content": "A young male patient who recently traveled from a country currently facing Mpox transmission has been identified as a suspected case, according to India's health ministry. The patient is isolated in \u2026 [+5113 chars]",
-      "retrievedAt": "2024-09-10 07:07:16.252297",
-      "internal_id": "b17553f9f6ca966d2db2ed279a115178db1e53e62bf548fcc28d65aa08ec00ee",
-      "publishedAtLabel": "Sep 8"
-    },
-    {
-      "id": 13250,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "NDTV News",
-      "author": null,
-      "title": "India's 1st Mpox Case? Centre Says Man Isolated, No Cause For Alarm",
-      "description": "A man who recently returned from a country fighting the Mpox virus has been isolated in a hospital and his samples are being tested to confirm the infection, the government said today. The Centre has said there is no cause for alarm",
-      "url": "https://www.ndtv.com/india-news/indias-1st-mpox-case-centre-says-man-isolated-no-cause-for-alarm-6518374",
-      "urlToImage": "https://c.ndtvimg.com/2024-08/1n5d9p5_mpox-reuters_625x300_24_August_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-      "publishedAt": "2024-09-08 11:10:12",
-      "content": "WHO has declared Mpox a public health emergency of international concern A man who recently returned from a country fighting the Mpox virus has been isolated in a hospital and his samples are being \u2026 [+3085 chars]",
-      "retrievedAt": "2024-09-09 19:05:46.037586",
-      "internal_id": "ae2e45abcbaf33c723454adea87da769be210d73ce54cd7c51ad67b7e1f99e86",
-      "publishedAtLabel": "Sep 8"
-    },
-    {
-      "id": 13269,
-      "query": [
-        "mpox"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "ET Online",
-      "title": "Suspected mpox case under probe in India, no cause for alarm, says Govt",
-      "description": "A man who recently travelled from a country with mpox transmission has been identified as a suspected case, according to the Union health ministry. He is isolated and stable at a designated hospital. Samples are being tested, and contact tracing is ongoing. T\u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/suspected-mpox-case-under-probe-no-cause-for-alarm-govt/articleshow/113167893.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-113167899,width-1200,height-630,imgsize-120226,overlay-economictimes/photo.jpg",
-      "publishedAt": "2024-09-08 11:03:48",
-      "content": "A man who recently travelled from a country experiencing mpox transmission has been identified as a suspected case of the disease, the Union health ministry said on Sunday. The patient has been isola\u2026 [+988 chars]",
-      "retrievedAt": "2024-09-10 07:07:16.297470",
-      "internal_id": "d64c5ac3cc4b6b127abd122286e2d572bfa7c008f4413c66ccf2f25cb0c4e24c",
-      "publishedAtLabel": "Sep 8"
-    },
-    {
-      "id": 13244,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "etimes.in",
-      "title": "Laughter Chefs' Rahul Vaidya updates fans about having 104 degrees of fever; reveals dengue spoiled his Ganesh Chaturthi celebration",
-      "description": "Rahul Vaidya announced on social media that he has been diagnosed with dengue, leading him to miss Ganesh Chaturthi celebrations. The singer, known for Bigg Boss 14 and Khatron Ke Khiladi, posted a selfie showing his condition. Fans are eagerly waiting for mo\u2026",
-      "url": "https://timesofindia.indiatimes.com/tv/news/hindi/laughter-chefs-rahul-vaidya-updates-fans-about-having-104-degrees-of-fever-reveals-dengue-spoiled-his-ganesh-chaturthi-celebration/articleshow/113164874.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-113165120,width-1070,height-580,imgsize-1095048,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-09-08 08:22:14",
-      "content": "Nayanthara to Aditi Rao Hydari, best photos of the week",
-      "retrievedAt": "2024-09-09 19:05:43.803297",
-      "internal_id": "50aebbf02a6efc4ff2aa481a3f6f2fd4cacc93faeb430edd2bbdcbce25e95149",
       "publishedAtLabel": "Sep 8"
     }
   ]

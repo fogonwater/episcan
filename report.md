@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 9
-- **Last harvest:** 2024-10-20 07:05
-- **Most recent article:** 2024-10-19 05:24:45
+- **New articles in last harvest:** 7
+- **Last harvest:** 2024-10-20 19:05
+- **Most recent article:** 2024-10-19 16:48:25
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-37 | 24-38 | 24-39 | 24-40 | 24-41 | 24-42 | Total |
 |--|-|-|-|-|-|-|-|
-| mpox | 192 | 140 | 122 | 128 | 42 | 80 | 704 |
-| dengue | 74 | 73 | 49 | 51 | 35 | 48 | 330 |
-| h5n1 | 10 | 17 | 35 | 50 | 10 | 16 | 138 |
-| malaria | 11 | 15 | 24 | 10 | 13 | 17 | 90 |
-| rabies | 5 | 13 | 25 | 30 | 6 | 6 | 85 |
+| mpox | 179 | 140 | 122 | 128 | 42 | 81 | 692 |
+| dengue | 73 | 73 | 49 | 51 | 35 | 50 | 331 |
+| h5n1 | 10 | 17 | 35 | 50 | 10 | 18 | 140 |
+| malaria | 11 | 15 | 24 | 10 | 13 | 18 | 91 |
+| rabies | 4 | 13 | 25 | 30 | 6 | 6 | 84 |
 | chikungunya | 13 | 9 | 3 | 3 | 3 | 4 | 35 |
 | meningitis | 3 | 10 | 6 | 11 | 2 | 1 | 33 |
 | zika | 10 | 8 | 1 | 3 | 4 | 6 | 32 |
-| measles | 5 | 8 | 4 | 6 | 5 | 2 | 30 |
+| measles | 5 | 8 | 4 | 6 | 5 | 3 | 31 |
 | pertussis | 5 | 3 | 3 | 2 | 2 | 9 | 24 |
 | leptospirosis | 0 | 1 | 5 | 4 | 1 | 1 | 12 |
 | hpai | 1 | 0 | 2 | 2 | 1 | 2 | 8 |
@@ -86,6 +86,8 @@ Source: [News API](https://newsapi.org/)
 - [What parents need to know as whooping cough cases surge](https://abcnews.go.com/GMA/Wellness/parents-whooping-cough-cases-surge/story?id=114774431) (ABC News)
 
 ## 24-42 (mpox)
+
+- [COVID, mpox, cholera: Is the world prepared for another pandemic?](https://www.aljazeera.com/news/2024/10/19/covid-mpox-cholera-is-the-world-prepared-for-another-pandemic) (Al Jazeera English)
 
 - [TWiV 1158: Clinical update with Dr. Daniel Griffin](https://www.microbe.tv/twiv/twiv-1158/) (Microbe.tv)
 
@@ -253,11 +255,15 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-42 (measles)
 
+- [Ogun commissioner harps on importance of measles vaccination, seeks support](https://punchng.com/ogun-commissioner-harps-on-importance-of-measles-vaccination-seeks-support/) (The Punch)
+
 - [Coverage with Selected Vaccines and Exemption Rates Among Children in Kindergarten — United States, 2023–24 School Year](https://www.cdc.gov/mmwr/volumes/73/wr/mm7341a3.htm) (Cdc.gov)
 
 - [Ogun kicks off measles campaign, targets vaccination of over 1 million children](https://punchng.com/ogun-kicks-off-measles-campaign-targets-vaccination-of-over-1-million-children/) (The Punch)
 
 ## 24-42 (malaria)
+
+- [Nigeria rolls out long-anticipated malaria vaccine](https://www.voanews.com/a/nigeria-rolls-out-long-anticipated-malaria-vaccine/7828564.html) (VOA News)
 
 - [New antimalarial treatment based on a marine sponge](https://www.digitaljournal.com/tech-science/new-antimalarial-treatment-based-on-a-marine-sponge/article) (Digital Journal)
 
@@ -305,6 +311,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-42 (h5n1)
 
+- [North Macedonia, Skopje zoo closed due to bird flu](https://www.ansa.it/sito/notizie/cultura/libri/poesia/2024/10/19/north-macedonia-skopje-zoo-closed-due-to-bird-flu_c24b2aa4-5027-419b-a1cc-0f5389176575.html) (ANSA.it)
+
+- [North Macedonia, Skopje zoo closed due to bird flu](https://www.ansa.it/sito/notizie/cultura/libri/2024/10/19/north-macedonia-skopje-zoo-closed-due-to-bird-flu_9906a68b-f5ab-44ef-96b7-63eba713a0bf.html) (ANSA.it)
+
 - [Η Βουλγαρία ανακοίνωσε ξέσπασμα της γρίπης των πτηνών σε ορνιθοτροφείο](https://www.skai.gr/news/world/voulgaria-anakoinose-ksespasma-tis-gripis-ton-ptinon-se-ornithotrofeio) (Skai.gr)
 
 - [Antarctic penguin found in Wellington being tested for bird flu](https://www.nzherald.co.nz/nz/antarctic-penguin-found-in-wellington-being-tested-for-bird-flu/KXOEF3Y4NNAKXBCL3BKLRX7EBA/) (New Zealand Herald)
@@ -338,6 +348,10 @@ Source: [News API](https://newsapi.org/)
 - [Labor sets out $95 million to combat potential arrival of deadly bird flu strain H5N1](https://www.abc.net.au/news/2024-10-13/labor-announces-95m-in-funding-for-bird-flu-h5n1/104467622) (ABC News (AU))
 
 ## 24-42 (dengue)
+
+- [Blackout totale a Cuba e l'Avana si allaga per piogge torrenziali](https://www.ansa.it/sito/notizie/cronaca/2024/10/19/blackout-totale-a-cuba-e-lavana-si-allaga-per-piogge-torrenziali_1f81e75e-1101-40ac-9b8d-8015c37cb3f7.html) (ANSA.it)
+
+- [Cuba è in blackout totale da più di 24 ore: il sistema elettrico è collassato e L’Avana è allagata. In aumento i casi dengue, sono 17mila](https://www.ilfattoquotidiano.it/2024/10/19/cuba-e-in-blackout-totale-da-piu-di-24-ore-il-sistema-elettrico-e-collassato-e-lavana-e-allagata-in-aumento-i-casi-dengue-sono-17mila/7736547/) (Ilfattoquotidiano.it)
 
 - [Collassato totalmente il sistema elettrico, l'isola è in blackout](https://www.ansa.it/sito/notizie/mondo/americalatina/2024/10/18/cuba-in-blackout-collassato-totalmente-il-sistema-elettrico_ff458fd2-d4ae-4b82-a4be-29dccd1bebf0.html) (ANSA.it)
 
@@ -2617,8 +2631,6 @@ Source: [News API](https://newsapi.org/)
 
 - [75 die of monsoon ailments, 12 due to rabies in Maharashtra this year](https://timesofindia.indiatimes.com/city/mumbai/75-die-of-monsoon-ailments-12-due-to-rabies-in-maharashtra-this-year/articleshow/113332688.cms) (The Times of India)
 
-- [Vengeance likely reason behind wolf attacks in UP's Bahraich, say officials](https://economictimes.indiatimes.com/news/india/vengeance-likely-reason-behind-wolf-attacks-in-ups-bahraich-say-officials/articleshow/113169632.cms) (The Times of India)
-
 ## 24-37 (pertussis)
 
 - [Coyotes football game at Portland State called off due to illness](https://www.mitchellrepublic.com/sports/college/coyotes-football-game-at-portland-state-called-off-due-to-illness) (Mitchellrepublic.com)
@@ -2991,32 +3003,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Mpox-vaccins sturen naar Afrika is ook in Nederlands belang](https://www.nrc.nl/nieuws/2024/09/08/mpox-vaccins-sturen-naar-afrika-is-ook-in-nederlands-belang-a4864952) (Www.nrc.nl)
 
-- [India detects 1st suspected mpox case](https://www.dw.com/en/india-detects-1st-suspected-mpox-case/a-70166401) (DW (English))
-
-- [В Индии зафиксировали пациента с подозрением на оспу обезьян](https://tass.ru/obschestvo/21807789) (Tass.ru)
-
-- [La India examina primer caso sospechoso de viruela del mono durante la emergencia global](https://www.montevideo.com.uy/Salud/La-India-examina-primer-caso-sospechoso-de-viruela-del-mono-durante-la-emergencia-global-uc899570) (Montevideo.com.uy)
-
-- [India records first suspected mpox case, male patient in isolation](https://www.aljazeera.com/news/2024/9/8/india-records-first-suspected-mpox-case-male-patient-in-isolation) (Al Jazeera English)
-
-- [Amid Steep Rise In Mpox Cases, Vaccination Drive In Africa Becomes More Urgent](https://www.forbes.com/sites/joshuacohen/2024/09/08/amid-steep-rise-in-mpox-cases-vaccination-drive-in-africa-becomes-more-urgent/) (Forbes)
-
-- [Suspected Mpox case under probe, no cause for alarm, says Govt](https://www.thehindubusinessline.com/news/suspected-mpox-case-under-probe-no-cause-for-alarm-says-govt/article68618549.ece) (BusinessLine)
-
-- [India reports case of mpox in traveller from affected country](https://www.thestar.com.my/news/world/2024/09/08/india-reports-case-of-mpox-in-traveller-from-affected-country) (The Star Online)
-
-- [Мнения: У оспы обезьян есть одна неприятная для биотеха особенность](https://vz.ru/opinions/2024/9/8/1286142.html) (Vz.ru)
-
-- [Health ministry reports first suspected case of mpox virus in India](https://www.business-standard.com/health/health-ministry-reports-first-suspected-case-of-mpox-virus-in-india-124090800399_1.html) (Business Standard)
-
-- [Misstänkt mpox-fall i nytt land](https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1289283) (Aftonbladet.se)
-
-- [India reports first suspected case of Mpox: Symptoms, prevention, transmission and WHO norms on vaccination](https://economictimes.indiatimes.com/magazines/panache/india-reports-first-suspected-case-of-mpox-monkeypox-symptoms-prevention-transmission-and-who-norms-on-vaccination/articleshow/113168254.cms) (The Times of India)
-
-- [India's 1st Mpox Case? Centre Says Man Isolated, No Cause For Alarm](https://www.ndtv.com/india-news/indias-1st-mpox-case-centre-says-man-isolated-no-cause-for-alarm-6518374) (NDTV News)
-
-- [Suspected mpox case under probe in India, no cause for alarm, says Govt](https://economictimes.indiatimes.com/news/india/suspected-mpox-case-under-probe-no-cause-for-alarm-govt/articleshow/113167893.cms) (The Times of India)
-
 ## 24-37 (meningitis)
 
 - [Family of Aoife Johnston call for report into her death at UHL to be published immediately](https://www.irishtimes.com/health/2024/09/12/family-of-aoife-johnston-call-for-report-into-her-death-at-uhl-to-be-published-immediately/) (The Irish Times)
@@ -3234,8 +3220,6 @@ Source: [News API](https://newsapi.org/)
 - [Estudo desvenda como os mosquitos da dengue acham vítimas no escuro](https://gizmodo.uol.com.br/estudo-desvenda-como-os-mosquitos-da-dengue-acham-vitimas-no-escuro/) (Uol.com.br)
 
 - [Puerta a puerta: así es el operativo en 6947 domicilios para conocer cuántos porteños ya tuvieron dengue](https://www.lanacion.com.ar/sociedad/puerta-a-puerta-asi-es-el-operativo-en-6947-domicilios-para-conocer-cuantos-portenos-ya-tuvieron-nid08092024/) (La Nacion)
-
-- [Laughter Chefs' Rahul Vaidya updates fans about having 104 degrees of fever; reveals dengue spoiled his Ganesh Chaturthi celebration](https://timesofindia.indiatimes.com/tv/news/hindi/laughter-chefs-rahul-vaidya-updates-fans-about-having-104-degrees-of-fever-reveals-dengue-spoiled-his-ganesh-chaturthi-celebration/articleshow/113164874.cms) (The Times of India)
 
 ## 24-37 (chikungunya)
 
