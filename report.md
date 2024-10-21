@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 7
-- **Last harvest:** 2024-10-20 19:05
-- **Most recent article:** 2024-10-19 16:48:25
+- **New articles in last harvest:** 5
+- **Last harvest:** 2024-10-21 07:07
+- **Most recent article:** 2024-10-20 06:17:09
 
 ---
 
@@ -10,28 +10,42 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 24-37 | 24-38 | 24-39 | 24-40 | 24-41 | 24-42 | Total |
-|--|-|-|-|-|-|-|-|
-| mpox | 179 | 140 | 122 | 128 | 42 | 81 | 692 |
-| dengue | 73 | 73 | 49 | 51 | 35 | 50 | 331 |
-| h5n1 | 10 | 17 | 35 | 50 | 10 | 18 | 140 |
-| malaria | 11 | 15 | 24 | 10 | 13 | 18 | 91 |
-| rabies | 4 | 13 | 25 | 30 | 6 | 6 | 84 |
-| chikungunya | 13 | 9 | 3 | 3 | 3 | 4 | 35 |
-| meningitis | 3 | 10 | 6 | 11 | 2 | 1 | 33 |
-| zika | 10 | 8 | 1 | 3 | 4 | 6 | 32 |
-| measles | 5 | 8 | 4 | 6 | 5 | 3 | 31 |
-| pertussis | 5 | 3 | 3 | 2 | 2 | 9 | 24 |
-| leptospirosis | 0 | 1 | 5 | 4 | 1 | 1 | 12 |
-| hpai | 1 | 0 | 2 | 2 | 1 | 2 | 8 |
-| typhoid | 0 | 0 | 4 | 1 | 0 | 1 | 6 |
-| yersinia | 0 | 2 | 2 | 1 | 1 | 0 | 6 |
-| shigellosis | 0 | 0 | 0 | 1 | 3 | 0 | 4 |
+| Disease | 24-37 | 24-38 | 24-39 | 24-40 | 24-41 | 24-42 | 24-43 | Total |
+|--|-|-|-|-|-|-|-|-|
+| mpox | 192 | 140 | 122 | 128 | 42 | 81 | 1 | 706 |
+| dengue | 74 | 73 | 49 | 51 | 35 | 50 | 2 | 334 |
+| h5n1 | 10 | 17 | 35 | 50 | 10 | 18 | 0 | 140 |
+| malaria | 11 | 15 | 24 | 10 | 13 | 18 | 1 | 92 |
+| rabies | 5 | 13 | 25 | 30 | 6 | 7 | 0 | 86 |
+| chikungunya | 13 | 9 | 3 | 3 | 3 | 4 | 0 | 35 |
+| meningitis | 3 | 10 | 6 | 11 | 2 | 1 | 0 | 33 |
+| zika | 10 | 8 | 1 | 3 | 4 | 6 | 0 | 32 |
+| measles | 5 | 8 | 4 | 6 | 5 | 3 | 0 | 31 |
+| pertussis | 5 | 3 | 3 | 2 | 2 | 9 | 0 | 24 |
+| leptospirosis | 0 | 1 | 5 | 4 | 1 | 1 | 0 | 12 |
+| hpai | 1 | 0 | 2 | 2 | 1 | 2 | 0 | 8 |
+| typhoid | 0 | 0 | 4 | 1 | 0 | 1 | 0 | 6 |
+| yersinia | 0 | 2 | 2 | 1 | 1 | 0 | 0 | 6 |
+| shigellosis | 0 | 0 | 0 | 1 | 3 | 0 | 0 | 4 |
 
 
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 24-43 (mpox)
+
+- [Mpox Hepatic and Pulmonary Lesions in HIV/Hepatitis B Virus Co-Infected Patient, France](https://wwwnc.cdc.gov/eid/article/30/11/24-1331_article) (Cdc.gov)
+
+## 24-43 (malaria)
+
+- [Why pregnant women, nursing mothers shouldn’t take malaria vaccines – Gynaecologists](https://punchng.com/why-pregnant-women-nursing-mothers-shouldnt-take-malaria-vaccines-gynaecologists/) (The Punch)
+
+## 24-43 (dengue)
+
+- [Tourism entrepreneur Basanta Misra passes away](https://english.khabarhub.com/2024/20/407214/) (Khabarhub.com)
+
+- [Dengue cases drop slightly in ME41, one death reported](https://www.thestar.com.my/news/nation/2024/10/20/dengue-cases-drop-slightly-in-me41-one-death-reported) (The Star Online)
 
 ## 24-42 (zika)
 
@@ -52,6 +66,8 @@ Source: [News API](https://newsapi.org/)
 - [Anthony Bourdain on the Life and Legacy of a Truly Infamous Cook: Typhoid Mary](https://lithub.com/anthony-bourdain-on-the-life-and-legacy-of-a-truly-infamous-cook-typhoid-mary/) (Lithub.com)
 
 ## 24-42 (rabies)
+
+- [Skunk that bit Sacramento Zoo visitor may have had rabies](https://www.kcra.com/article/sacramento-zoo-skunk-rabies-land-park/62653086) (KCRA Sacramento)
 
 - [Bat found in San Marcos neighborhood tests positive for rabies](https://www.fox7austin.com/news/bat-found-rabies-positive-san-marcos-texas) (FOX 7 Austin)
 
@@ -2631,6 +2647,8 @@ Source: [News API](https://newsapi.org/)
 
 - [75 die of monsoon ailments, 12 due to rabies in Maharashtra this year](https://timesofindia.indiatimes.com/city/mumbai/75-die-of-monsoon-ailments-12-due-to-rabies-in-maharashtra-this-year/articleshow/113332688.cms) (The Times of India)
 
+- [Vengeance likely reason behind wolf attacks in UP's Bahraich, say officials](https://economictimes.indiatimes.com/news/india/vengeance-likely-reason-behind-wolf-attacks-in-ups-bahraich-say-officials/articleshow/113169632.cms) (The Times of India)
+
 ## 24-37 (pertussis)
 
 - [Coyotes football game at Portland State called off due to illness](https://www.mitchellrepublic.com/sports/college/coyotes-football-game-at-portland-state-called-off-due-to-illness) (Mitchellrepublic.com)
@@ -3003,6 +3021,32 @@ Source: [News API](https://newsapi.org/)
 
 - [Mpox-vaccins sturen naar Afrika is ook in Nederlands belang](https://www.nrc.nl/nieuws/2024/09/08/mpox-vaccins-sturen-naar-afrika-is-ook-in-nederlands-belang-a4864952) (Www.nrc.nl)
 
+- [India detects 1st suspected mpox case](https://www.dw.com/en/india-detects-1st-suspected-mpox-case/a-70166401) (DW (English))
+
+- [В Индии зафиксировали пациента с подозрением на оспу обезьян](https://tass.ru/obschestvo/21807789) (Tass.ru)
+
+- [La India examina primer caso sospechoso de viruela del mono durante la emergencia global](https://www.montevideo.com.uy/Salud/La-India-examina-primer-caso-sospechoso-de-viruela-del-mono-durante-la-emergencia-global-uc899570) (Montevideo.com.uy)
+
+- [India records first suspected mpox case, male patient in isolation](https://www.aljazeera.com/news/2024/9/8/india-records-first-suspected-mpox-case-male-patient-in-isolation) (Al Jazeera English)
+
+- [Amid Steep Rise In Mpox Cases, Vaccination Drive In Africa Becomes More Urgent](https://www.forbes.com/sites/joshuacohen/2024/09/08/amid-steep-rise-in-mpox-cases-vaccination-drive-in-africa-becomes-more-urgent/) (Forbes)
+
+- [Suspected Mpox case under probe, no cause for alarm, says Govt](https://www.thehindubusinessline.com/news/suspected-mpox-case-under-probe-no-cause-for-alarm-says-govt/article68618549.ece) (BusinessLine)
+
+- [India reports case of mpox in traveller from affected country](https://www.thestar.com.my/news/world/2024/09/08/india-reports-case-of-mpox-in-traveller-from-affected-country) (The Star Online)
+
+- [Мнения: У оспы обезьян есть одна неприятная для биотеха особенность](https://vz.ru/opinions/2024/9/8/1286142.html) (Vz.ru)
+
+- [Health ministry reports first suspected case of mpox virus in India](https://www.business-standard.com/health/health-ministry-reports-first-suspected-case-of-mpox-virus-in-india-124090800399_1.html) (Business Standard)
+
+- [Misstänkt mpox-fall i nytt land](https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1289283) (Aftonbladet.se)
+
+- [India reports first suspected case of Mpox: Symptoms, prevention, transmission and WHO norms on vaccination](https://economictimes.indiatimes.com/magazines/panache/india-reports-first-suspected-case-of-mpox-monkeypox-symptoms-prevention-transmission-and-who-norms-on-vaccination/articleshow/113168254.cms) (The Times of India)
+
+- [India's 1st Mpox Case? Centre Says Man Isolated, No Cause For Alarm](https://www.ndtv.com/india-news/indias-1st-mpox-case-centre-says-man-isolated-no-cause-for-alarm-6518374) (NDTV News)
+
+- [Suspected mpox case under probe in India, no cause for alarm, says Govt](https://economictimes.indiatimes.com/news/india/suspected-mpox-case-under-probe-no-cause-for-alarm-govt/articleshow/113167893.cms) (The Times of India)
+
 ## 24-37 (meningitis)
 
 - [Family of Aoife Johnston call for report into her death at UHL to be published immediately](https://www.irishtimes.com/health/2024/09/12/family-of-aoife-johnston-call-for-report-into-her-death-at-uhl-to-be-published-immediately/) (The Irish Times)
@@ -3220,6 +3264,8 @@ Source: [News API](https://newsapi.org/)
 - [Estudo desvenda como os mosquitos da dengue acham vítimas no escuro](https://gizmodo.uol.com.br/estudo-desvenda-como-os-mosquitos-da-dengue-acham-vitimas-no-escuro/) (Uol.com.br)
 
 - [Puerta a puerta: así es el operativo en 6947 domicilios para conocer cuántos porteños ya tuvieron dengue](https://www.lanacion.com.ar/sociedad/puerta-a-puerta-asi-es-el-operativo-en-6947-domicilios-para-conocer-cuantos-portenos-ya-tuvieron-nid08092024/) (La Nacion)
+
+- [Laughter Chefs' Rahul Vaidya updates fans about having 104 degrees of fever; reveals dengue spoiled his Ganesh Chaturthi celebration](https://timesofindia.indiatimes.com/tv/news/hindi/laughter-chefs-rahul-vaidya-updates-fans-about-having-104-degrees-of-fever-reveals-dengue-spoiled-his-ganesh-chaturthi-celebration/articleshow/113164874.cms) (The Times of India)
 
 ## 24-37 (chikungunya)
 
