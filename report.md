@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 9
-- **Last harvest:** 2024-10-22 07:07
-- **Most recent article:** 2024-10-21 06:48:52
+- **New articles in last harvest:** 18
+- **Last harvest:** 2024-10-22 19:06
+- **Most recent article:** 2024-10-21 19:00:24
 
 ---
 
@@ -12,14 +12,14 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-37 | 24-38 | 24-39 | 24-40 | 24-41 | 24-42 | 24-43 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 192 | 140 | 122 | 128 | 42 | 81 | 1 | 706 |
-| dengue | 74 | 73 | 49 | 51 | 35 | 50 | 4 | 336 |
-| h5n1 | 10 | 17 | 35 | 50 | 10 | 18 | 0 | 140 |
-| malaria | 11 | 15 | 24 | 10 | 13 | 18 | 24 | 115 |
-| rabies | 5 | 13 | 25 | 30 | 6 | 7 | 0 | 86 |
-| chikungunya | 13 | 9 | 3 | 3 | 3 | 4 | 1 | 36 |
+| mpox | 179 | 140 | 122 | 128 | 42 | 81 | 5 | 697 |
+| dengue | 73 | 73 | 49 | 51 | 35 | 50 | 6 | 337 |
+| h5n1 | 10 | 17 | 35 | 50 | 10 | 18 | 2 | 142 |
+| malaria | 11 | 15 | 24 | 10 | 13 | 18 | 31 | 122 |
+| rabies | 4 | 13 | 25 | 30 | 6 | 7 | 1 | 86 |
+| chikungunya | 13 | 9 | 3 | 3 | 3 | 4 | 4 | 39 |
+| zika | 10 | 8 | 1 | 3 | 4 | 6 | 2 | 34 |
 | meningitis | 3 | 10 | 6 | 11 | 2 | 1 | 1 | 34 |
-| zika | 10 | 8 | 1 | 3 | 4 | 6 | 1 | 33 |
 | measles | 5 | 8 | 4 | 6 | 5 | 3 | 0 | 31 |
 | pertussis | 5 | 3 | 3 | 2 | 2 | 9 | 1 | 25 |
 | leptospirosis | 0 | 1 | 5 | 4 | 1 | 1 | 0 | 12 |
@@ -35,13 +35,27 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-43 (zika)
 
+- [Little disease but lots of bites: social, urbanistic, and entomological risk factors of human exposure to Aedes aegypti in South Texas, U.S.](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011953) (Plos.org)
+
 - [La Consejería de Sanidad coloca trampas para saber si el mosquito tigre ha llegado a Castilla y León](https://www.abc.es/espana/castilla-leon/consejeria-sanidad-coloca-trampas-saber-mosquito-tigre-20241020175506-nt.html) (Www.abc.es)
+
+## 24-43 (rabies)
+
+- [Here's what you need to know about rabies](https://www.cbc.ca/radio/whitecoat/rabies-what-to-know-1.7355401) (CBC News)
 
 ## 24-43 (pertussis)
 
 - [Заболеваемость коклюшем в российском регионе превысила многолетний уровень в 6,6 раза](https://life.ru/p/1696250) (Life.ru)
 
 ## 24-43 (mpox)
+
+- [Is disinformation more likely to spread? A fuzzy-set qualitative comparative analysis of emerging infectious diseases on Chinas short video platform](https://bmjopen.bmj.com/content/14/10/e083351) (The BMJ)
+
+- [‘Nace’ nueva cepa de la viruela del mono: ¿Por qué es más riesgosa para las mujeres? Estudio explica](https://www.elfinanciero.com.mx/salud/2024/10/21/nace-nueva-cepa-de-la-viruela-del-mono-por-que-es-mas-riesgosa-para-las-mujeres-estudio-explica/) (El Financiero)
+
+- [Newer Mpox Strain Poses Bigger Risk to Young Women, Study Shows](https://financialpost.com/pmn/business-pmn/newer-mpox-strain-poses-bigger-risk-to-young-women-study-shows) (Financial Post)
+
+- [Vaccinating kids for mpox would significantly reduce deaths in the DRC](https://medicine.yale.edu/news-article/yale-study-vaccinating-young-children-for-mpox-would-significantly-reduce-deaths-in-the-drc/) (Yale.edu)
 
 - [Mpox Hepatic and Pulmonary Lesions in HIV/Hepatitis B Virus Co-Infected Patient, France](https://wwwnc.cdc.gov/eid/article/30/11/24-1331_article) (Cdc.gov)
 
@@ -50,6 +64,20 @@ Source: [News API](https://newsapi.org/)
 - [Different Types of Meningitis That Could Affect Infants](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/different-types-of-meningitis-that-could-affect-infants/articleshow/114418166.cms) (The Times of India)
 
 ## 24-43 (malaria)
+
+- [WHO Certifies Egypt Is Malaria-Free](https://www.webpronews.com/who-certifies-egypt-is-malaria-free/) (WebProNews)
+
+- [Țara care a eradicat malaria după aproape 100 de ani. Anunțul Organizației Mondiale a Sănătății](https://adevarul.ro/stiri-externe/in-lume/tara-care-a-eradicat-malaria-dupa-aproape-100-de-2396221.html) (Adevarul.ro)
+
+- ["Truly Historic": Egypt Certified Malaria-Free By WHO After 100-Year Effort](https://www.ndtv.com/world-news/truly-historic-egypt-certified-malaria-free-by-who-after-100-year-effort-6840771) (NDTV News)
+
+- [Landscape and meteorological determinants of malaria vectors’ presence and abundance in the rural health district of Korhogo, Côte d’Ivoire, 2016–2018, and comparison with the less anthropized area of Diébougou, Burkina Faso](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0312132) (Plos.org)
+
+- [World News in Brief: Egypt malaria-free, tropical storm lashes Cuba, Mozambique killings, WHO support for South Sudan](https://news.un.org/en/story/2024/10/1155936) (UN News)
+
+- [La OMS declara a Egipto país libre de malaria tras un siglo de labores de erradicación](https://www.montevideo.com.uy/Salud/La-OMS-declara-a-Egipto-pais-libre-de-malaria-tras-un-siglo-de-labores-de-erradicacion-uc903918) (Montevideo.com.uy)
+
+- [Egypte na 100 jaar bestrijding malariavrij](https://nos.nl/l/2541572) (Nos.nl)
 
 - [مصر تحقق "نجاحا تاريخيا"](https://sarabic.ae/20241021/%D9%85%D8%B5%D8%B1-%D8%AA%D8%AD%D9%82%D9%82-%D9%86%D8%AC%D8%A7%D8%AD%D8%A7-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%8A%D8%A7-1093982249.html) (Sarabic.ae)
 
@@ -99,7 +127,17 @@ Source: [News API](https://newsapi.org/)
 
 - [Why pregnant women, nursing mothers shouldn’t take malaria vaccines – Gynaecologists](https://punchng.com/why-pregnant-women-nursing-mothers-shouldnt-take-malaria-vaccines-gynaecologists/) (The Punch)
 
+## 24-43 (h5n1)
+
+- [Inside the Bungled Bird Flu Response, Where Profits Collide With Public Health (Katherine Eban/Vanity Fair)](https://www.memeorandum.com/241021/p71) (Memeorandum.com)
+
+- [Inside the Bungled Bird Flu Response, Where Profits Collide With Public Health](https://www.vanityfair.com/news/story/inside-the-bungled-bird-flu-response) (Vanity Fair)
+
 ## 24-43 (dengue)
+
+- [Hybrid Machine Learning Approach to Zero-Inflated Data Improves Accuracy of Dengue Prediction](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012599) (Plos.org)
+
+- [Little disease but lots of bites: social, urbanistic, and entomological risk factors of human exposure to Aedes aegypti in South Texas, U.S.](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011953) (Plos.org)
 
 - [La Consejería de Sanidad coloca trampas para saber si el mosquito tigre ha llegado a Castilla y León](https://www.abc.es/espana/castilla-leon/consejeria-sanidad-coloca-trampas-saber-mosquito-tigre-20241020175506-nt.html) (Www.abc.es)
 
@@ -110,6 +148,12 @@ Source: [News API](https://newsapi.org/)
 - [Dengue cases drop slightly in ME41, one death reported](https://www.thestar.com.my/news/nation/2024/10/20/dengue-cases-drop-slightly-in-me41-one-death-reported) (The Star Online)
 
 ## 24-43 (chikungunya)
+
+- [Valneva to Present on Chikungunya at Several Leading Scientific Conferences](https://www.globenewswire.com/news-release/2024/10/21/2966375/0/en/Valneva-to-Present-on-Chikungunya-at-Several-Leading-Scientific-Conferences.html) (GlobeNewswire)
+
+- [Valneva effectuera des présentations sur le chikungunya lors de différentes conférences scientifiques de premier plan](https://www.globenewswire.com/news-release/2024/10/21/2966375/0/fr/Valneva-effectuera-des-pr%C3%A9sentations-sur-le-chikungunya-lors-de-diff%C3%A9rentes-conf%C3%A9rences-scientifiques-de-premier-plan.html) (GlobeNewswire)
+
+- [Little disease but lots of bites: social, urbanistic, and entomological risk factors of human exposure to Aedes aegypti in South Texas, U.S.](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011953) (Plos.org)
 
 - [La Consejería de Sanidad coloca trampas para saber si el mosquito tigre ha llegado a Castilla y León](https://www.abc.es/espana/castilla-leon/consejeria-sanidad-coloca-trampas-saber-mosquito-tigre-20241020175506-nt.html) (Www.abc.es)
 
@@ -2713,8 +2757,6 @@ Source: [News API](https://newsapi.org/)
 
 - [75 die of monsoon ailments, 12 due to rabies in Maharashtra this year](https://timesofindia.indiatimes.com/city/mumbai/75-die-of-monsoon-ailments-12-due-to-rabies-in-maharashtra-this-year/articleshow/113332688.cms) (The Times of India)
 
-- [Vengeance likely reason behind wolf attacks in UP's Bahraich, say officials](https://economictimes.indiatimes.com/news/india/vengeance-likely-reason-behind-wolf-attacks-in-ups-bahraich-say-officials/articleshow/113169632.cms) (The Times of India)
-
 ## 24-37 (pertussis)
 
 - [Coyotes football game at Portland State called off due to illness](https://www.mitchellrepublic.com/sports/college/coyotes-football-game-at-portland-state-called-off-due-to-illness) (Mitchellrepublic.com)
@@ -3087,32 +3129,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Mpox-vaccins sturen naar Afrika is ook in Nederlands belang](https://www.nrc.nl/nieuws/2024/09/08/mpox-vaccins-sturen-naar-afrika-is-ook-in-nederlands-belang-a4864952) (Www.nrc.nl)
 
-- [India detects 1st suspected mpox case](https://www.dw.com/en/india-detects-1st-suspected-mpox-case/a-70166401) (DW (English))
-
-- [В Индии зафиксировали пациента с подозрением на оспу обезьян](https://tass.ru/obschestvo/21807789) (Tass.ru)
-
-- [La India examina primer caso sospechoso de viruela del mono durante la emergencia global](https://www.montevideo.com.uy/Salud/La-India-examina-primer-caso-sospechoso-de-viruela-del-mono-durante-la-emergencia-global-uc899570) (Montevideo.com.uy)
-
-- [India records first suspected mpox case, male patient in isolation](https://www.aljazeera.com/news/2024/9/8/india-records-first-suspected-mpox-case-male-patient-in-isolation) (Al Jazeera English)
-
-- [Amid Steep Rise In Mpox Cases, Vaccination Drive In Africa Becomes More Urgent](https://www.forbes.com/sites/joshuacohen/2024/09/08/amid-steep-rise-in-mpox-cases-vaccination-drive-in-africa-becomes-more-urgent/) (Forbes)
-
-- [Suspected Mpox case under probe, no cause for alarm, says Govt](https://www.thehindubusinessline.com/news/suspected-mpox-case-under-probe-no-cause-for-alarm-says-govt/article68618549.ece) (BusinessLine)
-
-- [India reports case of mpox in traveller from affected country](https://www.thestar.com.my/news/world/2024/09/08/india-reports-case-of-mpox-in-traveller-from-affected-country) (The Star Online)
-
-- [Мнения: У оспы обезьян есть одна неприятная для биотеха особенность](https://vz.ru/opinions/2024/9/8/1286142.html) (Vz.ru)
-
-- [Health ministry reports first suspected case of mpox virus in India](https://www.business-standard.com/health/health-ministry-reports-first-suspected-case-of-mpox-virus-in-india-124090800399_1.html) (Business Standard)
-
-- [Misstänkt mpox-fall i nytt land](https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1289283) (Aftonbladet.se)
-
-- [India reports first suspected case of Mpox: Symptoms, prevention, transmission and WHO norms on vaccination](https://economictimes.indiatimes.com/magazines/panache/india-reports-first-suspected-case-of-mpox-monkeypox-symptoms-prevention-transmission-and-who-norms-on-vaccination/articleshow/113168254.cms) (The Times of India)
-
-- [India's 1st Mpox Case? Centre Says Man Isolated, No Cause For Alarm](https://www.ndtv.com/india-news/indias-1st-mpox-case-centre-says-man-isolated-no-cause-for-alarm-6518374) (NDTV News)
-
-- [Suspected mpox case under probe in India, no cause for alarm, says Govt](https://economictimes.indiatimes.com/news/india/suspected-mpox-case-under-probe-no-cause-for-alarm-govt/articleshow/113167893.cms) (The Times of India)
-
 ## 24-37 (meningitis)
 
 - [Family of Aoife Johnston call for report into her death at UHL to be published immediately](https://www.irishtimes.com/health/2024/09/12/family-of-aoife-johnston-call-for-report-into-her-death-at-uhl-to-be-published-immediately/) (The Irish Times)
@@ -3330,8 +3346,6 @@ Source: [News API](https://newsapi.org/)
 - [Estudo desvenda como os mosquitos da dengue acham vítimas no escuro](https://gizmodo.uol.com.br/estudo-desvenda-como-os-mosquitos-da-dengue-acham-vitimas-no-escuro/) (Uol.com.br)
 
 - [Puerta a puerta: así es el operativo en 6947 domicilios para conocer cuántos porteños ya tuvieron dengue](https://www.lanacion.com.ar/sociedad/puerta-a-puerta-asi-es-el-operativo-en-6947-domicilios-para-conocer-cuantos-portenos-ya-tuvieron-nid08092024/) (La Nacion)
-
-- [Laughter Chefs' Rahul Vaidya updates fans about having 104 degrees of fever; reveals dengue spoiled his Ganesh Chaturthi celebration](https://timesofindia.indiatimes.com/tv/news/hindi/laughter-chefs-rahul-vaidya-updates-fans-about-having-104-degrees-of-fever-reveals-dengue-spoiled-his-ganesh-chaturthi-celebration/articleshow/113164874.cms) (The Times of India)
 
 ## 24-37 (chikungunya)
 
