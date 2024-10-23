@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 18
-- **Last harvest:** 2024-10-22 19:06
-- **Most recent article:** 2024-10-21 19:00:24
+- **New articles in last harvest:** 8
+- **Last harvest:** 2024-10-23 07:06
+- **Most recent article:** 2024-10-22 05:01:41
 
 ---
 
@@ -12,12 +12,12 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-37 | 24-38 | 24-39 | 24-40 | 24-41 | 24-42 | 24-43 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 179 | 140 | 122 | 128 | 42 | 81 | 5 | 697 |
-| dengue | 73 | 73 | 49 | 51 | 35 | 50 | 6 | 337 |
+| mpox | 192 | 140 | 122 | 128 | 42 | 81 | 7 | 712 |
+| dengue | 74 | 73 | 49 | 51 | 35 | 50 | 8 | 340 |
 | h5n1 | 10 | 17 | 35 | 50 | 10 | 18 | 2 | 142 |
-| malaria | 11 | 15 | 24 | 10 | 13 | 18 | 31 | 122 |
-| rabies | 4 | 13 | 25 | 30 | 6 | 7 | 1 | 86 |
-| chikungunya | 13 | 9 | 3 | 3 | 3 | 4 | 4 | 39 |
+| malaria | 11 | 15 | 24 | 10 | 13 | 18 | 35 | 126 |
+| rabies | 5 | 13 | 25 | 30 | 6 | 7 | 1 | 87 |
+| chikungunya | 13 | 9 | 3 | 3 | 3 | 4 | 5 | 40 |
 | zika | 10 | 8 | 1 | 3 | 4 | 6 | 2 | 34 |
 | meningitis | 3 | 10 | 6 | 11 | 2 | 1 | 1 | 34 |
 | measles | 5 | 8 | 4 | 6 | 5 | 3 | 0 | 31 |
@@ -49,6 +49,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-43 (mpox)
 
+- [Sida ger stöd för att minska mpox-smitta](https://www.aftonbladet.se/nyheter/a/gw4P65/sida-ger-stod-for-att-minska-mpox-smitta) (Aftonbladet.se)
+
+- [Представители 10 стран Африки обсуждают меры по борьбе с оспой обезьян](https://tass.ru/obschestvo/22183083) (Tass.ru)
+
 - [Is disinformation more likely to spread? A fuzzy-set qualitative comparative analysis of emerging infectious diseases on Chinas short video platform](https://bmjopen.bmj.com/content/14/10/e083351) (The BMJ)
 
 - [‘Nace’ nueva cepa de la viruela del mono: ¿Por qué es más riesgosa para las mujeres? Estudio explica](https://www.elfinanciero.com.mx/salud/2024/10/21/nace-nueva-cepa-de-la-viruela-del-mono-por-que-es-mas-riesgosa-para-las-mujeres-estudio-explica/) (El Financiero)
@@ -64,6 +68,14 @@ Source: [News API](https://newsapi.org/)
 - [Different Types of Meningitis That Could Affect Infants](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/different-types-of-meningitis-that-could-affect-infants/articleshow/114418166.cms) (The Times of India)
 
 ## 24-43 (malaria)
+
+- [Krankheiten: Abholzung im Amazonasgebiet erhöht Malaria-Risiko](https://www.tagesspiegel.de/wissen/krankheiten-abholzung-im-amazonasgebiet-erhoht-malaria-risiko-12573884.html) (Der Tagesspiegel)
+
+- [Krankheiten: Abholzung im Amazonasgebiet erhöht Malaria-Risiko](https://www.zeit.de/news/2024-10/22/abholzung-im-amazonasgebiet-erhoeht-malaria-risiko) (Die Zeit)
+
+- [Krankheiten: Abholzung im Amazonasgebiet erhöht Malaria-Risiko](https://www.stern.de/panorama/wissen/krankheiten--abholzung-im-amazonasgebiet-erhoeht-malaria-risiko-35162676.html) (STERN.de)
+
+- [Egypte officieel malaria-vrij: een historische mijlpaal](https://businessam.be/egypte-malaria-vrij-historische-prestatie/) (Businessam.be)
 
 - [WHO Certifies Egypt Is Malaria-Free](https://www.webpronews.com/who-certifies-egypt-is-malaria-free/) (WebProNews)
 
@@ -135,6 +147,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-43 (dengue)
 
+- [Simple Steps to Shield Yourself from Mosquito-Borne Threats](https://articles.mercola.com/sites/articles/archive/2024/10/22/mosquito-borne-diseases.aspx) (Mercola.com)
+
+- [Saúde visita 200 imóveis na Asa Sul em ação contra mosquito da dengue](https://www.metropoles.com/distrito-federal/saude-visita-200-imoveis-na-asa-sul-em-acao-contra-mosquito-da-dengue) (Metropoles.com)
+
 - [Hybrid Machine Learning Approach to Zero-Inflated Data Improves Accuracy of Dengue Prediction](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012599) (Plos.org)
 
 - [Little disease but lots of bites: social, urbanistic, and entomological risk factors of human exposure to Aedes aegypti in South Texas, U.S.](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011953) (Plos.org)
@@ -148,6 +164,8 @@ Source: [News API](https://newsapi.org/)
 - [Dengue cases drop slightly in ME41, one death reported](https://www.thestar.com.my/news/nation/2024/10/20/dengue-cases-drop-slightly-in-me41-one-death-reported) (The Star Online)
 
 ## 24-43 (chikungunya)
+
+- [Simple Steps to Shield Yourself from Mosquito-Borne Threats](https://articles.mercola.com/sites/articles/archive/2024/10/22/mosquito-borne-diseases.aspx) (Mercola.com)
 
 - [Valneva to Present on Chikungunya at Several Leading Scientific Conferences](https://www.globenewswire.com/news-release/2024/10/21/2966375/0/en/Valneva-to-Present-on-Chikungunya-at-Several-Leading-Scientific-Conferences.html) (GlobeNewswire)
 
@@ -2757,6 +2775,8 @@ Source: [News API](https://newsapi.org/)
 
 - [75 die of monsoon ailments, 12 due to rabies in Maharashtra this year](https://timesofindia.indiatimes.com/city/mumbai/75-die-of-monsoon-ailments-12-due-to-rabies-in-maharashtra-this-year/articleshow/113332688.cms) (The Times of India)
 
+- [Vengeance likely reason behind wolf attacks in UP's Bahraich, say officials](https://economictimes.indiatimes.com/news/india/vengeance-likely-reason-behind-wolf-attacks-in-ups-bahraich-say-officials/articleshow/113169632.cms) (The Times of India)
+
 ## 24-37 (pertussis)
 
 - [Coyotes football game at Portland State called off due to illness](https://www.mitchellrepublic.com/sports/college/coyotes-football-game-at-portland-state-called-off-due-to-illness) (Mitchellrepublic.com)
@@ -3129,6 +3149,32 @@ Source: [News API](https://newsapi.org/)
 
 - [Mpox-vaccins sturen naar Afrika is ook in Nederlands belang](https://www.nrc.nl/nieuws/2024/09/08/mpox-vaccins-sturen-naar-afrika-is-ook-in-nederlands-belang-a4864952) (Www.nrc.nl)
 
+- [India detects 1st suspected mpox case](https://www.dw.com/en/india-detects-1st-suspected-mpox-case/a-70166401) (DW (English))
+
+- [В Индии зафиксировали пациента с подозрением на оспу обезьян](https://tass.ru/obschestvo/21807789) (Tass.ru)
+
+- [La India examina primer caso sospechoso de viruela del mono durante la emergencia global](https://www.montevideo.com.uy/Salud/La-India-examina-primer-caso-sospechoso-de-viruela-del-mono-durante-la-emergencia-global-uc899570) (Montevideo.com.uy)
+
+- [India records first suspected mpox case, male patient in isolation](https://www.aljazeera.com/news/2024/9/8/india-records-first-suspected-mpox-case-male-patient-in-isolation) (Al Jazeera English)
+
+- [Amid Steep Rise In Mpox Cases, Vaccination Drive In Africa Becomes More Urgent](https://www.forbes.com/sites/joshuacohen/2024/09/08/amid-steep-rise-in-mpox-cases-vaccination-drive-in-africa-becomes-more-urgent/) (Forbes)
+
+- [Suspected Mpox case under probe, no cause for alarm, says Govt](https://www.thehindubusinessline.com/news/suspected-mpox-case-under-probe-no-cause-for-alarm-says-govt/article68618549.ece) (BusinessLine)
+
+- [India reports case of mpox in traveller from affected country](https://www.thestar.com.my/news/world/2024/09/08/india-reports-case-of-mpox-in-traveller-from-affected-country) (The Star Online)
+
+- [Мнения: У оспы обезьян есть одна неприятная для биотеха особенность](https://vz.ru/opinions/2024/9/8/1286142.html) (Vz.ru)
+
+- [Health ministry reports first suspected case of mpox virus in India](https://www.business-standard.com/health/health-ministry-reports-first-suspected-case-of-mpox-virus-in-india-124090800399_1.html) (Business Standard)
+
+- [Misstänkt mpox-fall i nytt land](https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1289283) (Aftonbladet.se)
+
+- [India reports first suspected case of Mpox: Symptoms, prevention, transmission and WHO norms on vaccination](https://economictimes.indiatimes.com/magazines/panache/india-reports-first-suspected-case-of-mpox-monkeypox-symptoms-prevention-transmission-and-who-norms-on-vaccination/articleshow/113168254.cms) (The Times of India)
+
+- [India's 1st Mpox Case? Centre Says Man Isolated, No Cause For Alarm](https://www.ndtv.com/india-news/indias-1st-mpox-case-centre-says-man-isolated-no-cause-for-alarm-6518374) (NDTV News)
+
+- [Suspected mpox case under probe in India, no cause for alarm, says Govt](https://economictimes.indiatimes.com/news/india/suspected-mpox-case-under-probe-no-cause-for-alarm-govt/articleshow/113167893.cms) (The Times of India)
+
 ## 24-37 (meningitis)
 
 - [Family of Aoife Johnston call for report into her death at UHL to be published immediately](https://www.irishtimes.com/health/2024/09/12/family-of-aoife-johnston-call-for-report-into-her-death-at-uhl-to-be-published-immediately/) (The Irish Times)
@@ -3346,6 +3392,8 @@ Source: [News API](https://newsapi.org/)
 - [Estudo desvenda como os mosquitos da dengue acham vítimas no escuro](https://gizmodo.uol.com.br/estudo-desvenda-como-os-mosquitos-da-dengue-acham-vitimas-no-escuro/) (Uol.com.br)
 
 - [Puerta a puerta: así es el operativo en 6947 domicilios para conocer cuántos porteños ya tuvieron dengue](https://www.lanacion.com.ar/sociedad/puerta-a-puerta-asi-es-el-operativo-en-6947-domicilios-para-conocer-cuantos-portenos-ya-tuvieron-nid08092024/) (La Nacion)
+
+- [Laughter Chefs' Rahul Vaidya updates fans about having 104 degrees of fever; reveals dengue spoiled his Ganesh Chaturthi celebration](https://timesofindia.indiatimes.com/tv/news/hindi/laughter-chefs-rahul-vaidya-updates-fans-about-having-104-degrees-of-fever-reveals-dengue-spoiled-his-ganesh-chaturthi-celebration/articleshow/113164874.cms) (The Times of India)
 
 ## 24-37 (chikungunya)
 
