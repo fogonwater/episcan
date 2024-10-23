@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 8
-- **Last harvest:** 2024-10-23 07:06
-- **Most recent article:** 2024-10-22 05:01:41
+- **New articles in last harvest:** 93
+- **Last harvest:** 2024-10-23 19:05
+- **Most recent article:** 2024-10-22 18:35:12
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-37 | 24-38 | 24-39 | 24-40 | 24-41 | 24-42 | 24-43 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 192 | 140 | 122 | 128 | 42 | 81 | 7 | 712 |
-| dengue | 74 | 73 | 49 | 51 | 35 | 50 | 8 | 340 |
-| h5n1 | 10 | 17 | 35 | 50 | 10 | 18 | 2 | 142 |
-| malaria | 11 | 15 | 24 | 10 | 13 | 18 | 35 | 126 |
-| rabies | 5 | 13 | 25 | 30 | 6 | 7 | 1 | 87 |
-| chikungunya | 13 | 9 | 3 | 3 | 3 | 4 | 5 | 40 |
-| zika | 10 | 8 | 1 | 3 | 4 | 6 | 2 | 34 |
+| mpox | 179 | 140 | 122 | 128 | 42 | 81 | 84 | 776 |
+| dengue | 73 | 73 | 49 | 51 | 35 | 50 | 13 | 344 |
+| h5n1 | 10 | 17 | 35 | 50 | 10 | 18 | 4 | 144 |
+| malaria | 11 | 15 | 24 | 10 | 13 | 18 | 42 | 133 |
+| rabies | 4 | 13 | 25 | 30 | 6 | 7 | 1 | 86 |
+| chikungunya | 13 | 9 | 3 | 3 | 3 | 4 | 6 | 41 |
+| zika | 10 | 8 | 1 | 3 | 4 | 6 | 3 | 35 |
 | meningitis | 3 | 10 | 6 | 11 | 2 | 1 | 1 | 34 |
 | measles | 5 | 8 | 4 | 6 | 5 | 3 | 0 | 31 |
 | pertussis | 5 | 3 | 3 | 2 | 2 | 9 | 1 | 25 |
 | leptospirosis | 0 | 1 | 5 | 4 | 1 | 1 | 0 | 12 |
-| hpai | 1 | 0 | 2 | 2 | 1 | 2 | 0 | 8 |
+| hpai | 1 | 0 | 2 | 2 | 1 | 2 | 2 | 10 |
 | typhoid | 0 | 0 | 4 | 1 | 0 | 1 | 0 | 6 |
 | yersinia | 0 | 2 | 2 | 1 | 1 | 0 | 0 | 6 |
 | shigellosis | 0 | 0 | 0 | 1 | 3 | 0 | 0 | 4 |
@@ -34,6 +34,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-43 (zika)
+
+- [El gobierno de Mendoza liberó 10 mil “mosquitos colorados” para combatir el dengue](https://www.lanacion.com.ar/sociedad/el-gobierno-de-mendoza-libero-10-mil-mosquitos-colorados-para-combatir-el-dengue-nid22102024/) (La Nacion)
 
 - [Little disease but lots of bites: social, urbanistic, and entomological risk factors of human exposure to Aedes aegypti in South Texas, U.S.](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011953) (Plos.org)
 
@@ -48,6 +50,160 @@ Source: [News API](https://newsapi.org/)
 - [Заболеваемость коклюшем в российском регионе превысила многолетний уровень в 6,6 раза](https://life.ru/p/1696250) (Life.ru)
 
 ## 24-43 (mpox)
+
+- [Detectan en Alemania nueva variante de mpox](https://www.sopitas.com/noticias/alemania-nueva-variante-mpox-viruela-simica-viruela-del-mono/) (Sopitas.com)
+
+- [Ευλογιά των πιθήκων: Εντοπίστηκε στη Γερμανία το πρώτο κρούσμα της νέας παραλλαγής «clade 1b»](https://www.newsit.gr/kosmos/eylogia-ton-pithikon-entopistike-sti-germania-to-proto-krousma-tis-neas-parallagis-clade-1b/4214080/) (Newsit.gr)
+
+- [Wykryto pierwszy przypadek nowego wariantu mpox w Niemczech](https://www.bankier.pl/wiadomosc/Wykryto-pierwszy-przypadek-nowego-wariantu-mpox-w-Niemczech-8833090.html) (Bankier.pl)
+
+- [Klaus Stöhr – „Der Ausbruch schreitet weiter voran“](https://www.welt.de/gesundheit/video254141354/Mpox-in-Deutschland-angekommen-Klaus-Stoehr-Der-Ausbruch-schreitet-weiter-voran.html) (DIE WELT)
+
+- [Detectan un caso de la nueva variante de mpox en Alemania](https://forbes.com.mx/detectan-un-caso-de-la-nueva-variante-de-mpox-en-alemania/) (Forbes.com.mx)
+
+- [TCBP Enters Research Planning Collaboration with Dr. Carlos Maluquer de Motes for Mpox Therapeutic](https://www.investing.com/news/press-releases/tcbp-enters-research-planning-collaboration-with-dr-carlos-maluquer-de-motes-for-mpox-therapeutic-93CH-3675741) (Investing.com)
+
+- [Verwechslung mit anderen Hautkrankheiten - Kann mein Ausschlag Mpox sein?](https://www.bild.de/leben-wissen/medizin/affenpocken-in-deutschland-so-unterscheiden-sie-mpox-von-anderen-hauterkrankungen-671790941eb02276e25309d6) (Bild)
+
+- [SZ am Abend: Nachrichten vom 22. Oktober 2024](https://www.sueddeutsche.de/politik/iwf-konjunkturprognose-nawalny-mpox-lindner-us-wahl-lux.GAn5Z8HTcxvUbACQ4UGN34) (Süddeutsche Zeitung)
+
+- [Nieuwe gevaarlijke variant apenpokken duikt op aan Nederlandse grens: ’Het is erg besmettelijk’](https://www.telegraaf.nl/nieuws/1362612803/nieuwe-gevaarlijke-variant-apenpokken-duikt-op-aan-nederlandse-grens-het-is-erg-besmettelijk) (Telegraaf.nl)
+
+- [Germany reports first case of new mpox variant](https://www.politico.eu/article/germany-reports-first-case-of-new-mpox-variant/) (POLITICO.eu)
+
+- [„Man sollte engen Hautkontakt in den epidemischen Gebieten vermeiden“](https://www.welt.de/gesundheit/video254138448/Mpox-in-Deutschland-Man-sollte-engen-Hautkontakt-in-den-epidemischen-Gebieten-vermeiden.html) (DIE WELT)
+
+- [Norvegia raportează două cazuri de infectare cu mpox](https://www.mediafax.ro/externe/norvegia-raporteaza-doua-cazuri-de-infectare-cu-mpox-22522594) (Mediafax.ro)
+
+- ["Affenpocken" Mpox: Neuer Pockenalarm in Afrika – mit weltweiten Folgen?](https://www.stern.de/gesundheit/-affenpocken--mpox--pockenalarm-in-afrika---mit-weltweiten-folgen--34967462.html) (STERN.de)
+
+- [Neue Mpox-Variante in Deutschland nachgewiesen: 33-jähriger Kölner auf Isolierstation](https://www.stern.de/news/neue-mpox-variante-in-deutschland-nachgewiesen--33-jaehriger-koelner-auf-isolierstation-35164030.html) (STERN.de)
+
+- [Newer mpox strain poses bigger threat to girls, young women and is spreading fast. Check symptoms](https://economictimes.indiatimes.com/news/international/global-trends/newer-mpox-strain-subvariant-clade-ib-poses-bigger-threat-to-girls-young-women-spreading-fast-congo-burundi-symptoms/articleshow/114469760.cms) (The Times of India)
+
+- [Andra fallet av nya mpox i Europa](https://www.expressen.se/nyheter/varlden/andra-fallet-av-nya-mpox-i-europa/) (Expressen.se)
+
+- [Germany identifies its first case of new mpox variant linked to outbreak in Africa](https://www.abc.net.au/news/2024-10-23/germany-identifies-first-case-of-new-mpox-variant/104504798) (ABC News (AU))
+
+- [Mann (33) hat sich in Afrika angesteckt - Erster Mpox-Fall in Köln bestätigt](https://www.bild.de/leben-wissen/mann-33-hat-sich-in-afrika-angesteckt-erster-mpox-fall-in-koeln-bestaetigt-6717a9d81eb02276e2530b25) (Bild)
+
+- [Selbst SIE ist nicht unfehlbar - Olympiasiegerin Biles geht mit Turnübung viral](https://www.bild.de/sport/mehr-sport/selbst-sie-ist-nicht-unfehlbar-olympiasiegerin-scheitert-an-turnuebung-67179d9ba0e636753eda7642) (Bild)
+
+- [New mpox variant detected in Germany](https://punchng.com/new-mpox-variant-detected-in-germany/) (The Punch)
+
+- [Birkweiler - Polizei stoppt Raser in 30er-Zone](https://www.bild.de/regional/rheinland-pfalz/birkweiler-polizei-verwarnt-40-raser-in-zwei-stunden-6717a5faa0e636753eda76c3) (Bild)
+
+- [Mpox in Deutschland: Das ist über die neue Variante bekannt](https://www.morgenpost.de/ratgeber-wissen/article407521213/mpox-in-deutschland-das-ist-ueber-die-neue-variante-bekannt.html) (Berliner Morgenpost)
+
+- [Neue Mpox-Variante in Deutschland: Übertragung und Symptome](https://www.morgenpost.de/panorama/article401543127/virus-mpox-blade-ib-symptome-infos-who-cdc.html) (Berliner Morgenpost)
+
+- [V Nemecku potvrdili prvý prípad nákazy novým variantom opičích kiahní](https://spravy.pravda.sk/svet/clanok/728122-v-nemecku-potvrdili-prvy-pripad-nakazy-novym-variantom-opicich-kiahni/) (Pravda.sk)
+
+- [Alemania detecta el primer caso de la nueva variante de mpox](https://www.milenio.com/internacional/detectan-primer-caso-de-nueva-variante-de-mpox-en-alemania) (Milenio)
+
+- [Un premier cas du nouveau variant du mpox confirmé en Allemagne](https://www.levif.be/international/europe/un-premier-cas-du-nouveau-variant-du-mpox-confirme-en-allemagne/) (Levif.be)
+
+- [Infektionskrankheiten: Erster Fall von neuem Mpox-Virustyp in Deutschland](https://www.sueddeutsche.de/gesundheit/mpox-virus-deutschland-neue-variante-li.3134536) (Süddeutsche Zeitung)
+
+- [Variant du mpox : un premier cas confirmé en Allemagne](https://www.latribune.fr/economie/international/variant-du-mpox-un-premier-cas-confirme-en-allemagne-1009533.html) (La Tribune.fr)
+
+- [Virus mpox : un premier cas du nouveau variant confirmé en Allemagne, selon les autorités sanitaires](https://www.ouest-france.fr/sante/virus/variole-du-singe/virus-mpox-un-premier-cas-du-nouveau-variant-confirme-en-allemagne-selon-les-autorites-sanitaires-1b2ceff0-905b-11ef-83a4-0ededa6d6967) (Ouest-France)
+
+- [New strain of deadly virus found in Germany](https://news.sky.com/story/mpox-new-strain-of-deadly-virus-found-in-germany-13238759) (Sky.com)
+
+- [Německo má první případ nákazy novou variantou opičích neštovic](https://cmp.seznam.cz/nastaveni-souhlasu?return_url=https%3A%2F%2Fwww.novinky.cz%2Fclanek%2Fzahranicni-evropa-nemecko-ma-prvni-pripad-nakazy-novou-variantou-opicich-nestovic-40494086%3Fcwreturn%3D1&service=bcr&cwtime=1729600815324) (Seznam.cz)
+
+- [Mpox-variant die rondgaat in Centraal-Afrika duikt nu op in Duitsland](https://www.nrc.nl/nieuws/2024/10/22/mpox-variant-die-rondgaat-in-centraal-afrika-duikt-nu-op-in-duitsland-a4870185) (Www.nrc.nl)
+
+- [Infektionskrankheiten: Erster Fall von neuem Mpox-Virustyp in Deutschland](https://www.sueddeutsche.de/gesundheit/mpox-klade-ib-infektion-deutschland-li.3134536) (Süddeutsche Zeitung)
+
+- [Germania raportează primul caz de Mpox (variola maimuței), la o persoană care a călătorit în străinătate. Totuși, Institutul Robert Koch spune că riscul pentru populație este redus.](https://www.biziday.ro/299798-2/) (Biziday.ro)
+
+- [Krankheiten: Erster Fall der neuen Mpox-Variante in Deutschland](https://www.stern.de/news/krankheiten--erster-fall-der-neuen-mpox-variante-in-deutschland-35164042.html) (STERN.de)
+
+- [Germany's disease control center reports 1st case of new mpox variant](https://abcnews.go.com/Health/wireStory/germanys-disease-control-center-reports-1st-case-new-115018453) (ABC News)
+
+- [Germany's disease control center reports 1st case of new mpox variant](https://abcnews.go.com/International/wireStory/germanys-disease-control-center-reports-1st-case-new-115018450) (ABC News)
+
+- [Detectan en Alemania un caso de la nueva variante de mpox](https://www.dw.com/es/detectan-en-alemania-un-caso-de-la-nueva-variante-de-mpox/a-70567243) (DW (English))
+
+- [Almanya'da M çiçeğinin yeni varyantı Klad 1 ilk kez tespit edildi](https://www.aa.com.tr/tr/saglik/almanyada-m-ciceginin-yeni-varyanti-klad-1-ilk-kez-tespit-edildi/3370343) (Anadolu Agency)
+
+- [Tilfælde af mpox bekræftet i Norge](https://www.dr.dk/nyheder/seneste/tilfaelde-af-mpox-bekraeftet-i-norge) (Www.dr.dk)
+
+- [Γερμανία: Πρώτο κρούσμα της νέας παραλλαγής του ιού mpox](https://www.skai.gr/news/health/germania-proto-krousma-tis-neas-parallagis-tou-iou-mpox) (Skai.gr)
+
+- [Eerste besmetting met nieuwe mpox-variant in Duitsland](https://www.vrt.be/vrtnws/nl/2024/10/22/mpox-duitsland/) (Www.vrt.be)
+
+- [Bekrefter tilfelle av mpox i Oslo](https://www.aftenposten.no/norge/i/mBKed4/siste-nytt-fra-norge-og-utlandet?pinnedEntry=111467) (Aftenposten)
+
+- [Bekreftet tilfelle av mpox i Oslo](https://www.vg.no/nyheter/i/8qOme1/bekreftet-tilfelle-av-mpox-i-oslo) (Www.vg.no)
+
+- [Mpox: Erster Fall mit neuer Variante in Deutschland](https://www.diepresse.com/18994765/mpox-erster-fall-mit-neuer-variante-in-deutschland) (Diepresse.com)
+
+- [Eerste besmetting met nieuwe mpoxvariant in Duitsland](https://www.gva.be/cnt/dmf20241022_94161122) (Www.gva.be)
+
+- [Mpox se extinde în Europa. Germania a confirmat primul său caz](https://www.mediafax.ro/sanatate/mpox-se-extinde-in-europa-germania-a-confirmat-primul-sau-caz-22522312) (Mediafax.ro)
+
+- [Le mpox bientôt de retour ? Un premier cas du nouveau variant confirmé en Allemagne](https://www.sudinfo.be/id903156/article/2024-10-22/le-mpox-bientot-de-retour-un-premier-cas-du-nouveau-variant-confirme-en) (Sudinfo.be)
+
+- [Erster Nachweis von neuer Mpox-Variante in Deutschland](https://www.tagesschau.de/inland/gesellschaft/erster-mpox-fall-deutschland-rki-100.html) (tagesschau.de)
+
+- [Eerste besmetting met nieuwe mpoxvariant in Duitsland](https://www.nieuwsblad.be/cnt/dmf20241022_94067627) (Nieuwsblad.be)
+
+- [Ettől féltek: megjelent a halálos kór Németországban](https://www.portfolio.hu/global/20241022/ettol-feltek-megjelent-a-halalos-kor-nemetorszagban-718221) (Portfolio.hu)
+
+- [Symptome, Infektion, Impfung - Was sind Affenpocken?](https://www.bild.de/leben-wissen/medizin/mpox-affenpocken-virus-symptome-infektion-und-impfung-671784569f99d97067e69acd) (Bild)
+
+- [Mpox-Variante in Deutschland: Was bedeutet der erste Mpox-Fall der Klade I in Deutschland?](https://www.tagesspiegel.de/wissen/mpox-variante-in-deutschland-was-bedeutet-der-erste-mpox-fall-der-klade-i-in-deutschland-12576134.html) (Der Tagesspiegel)
+
+- [Mpox-Variante in Deutschland: Was bedeutet der erste Mpox-Fall der Klade I in Deutschland?](https://www.zeit.de/news/2024-10/22/was-bedeutet-der-erste-mpox-fall-der-klade-i-in-deutschland) (Die Zeit)
+
+- [Was bedeutet der erste Nachweis von Mpox Ib in Deutschland?](https://www.faz.net/aktuell/wissen/medizin-ernaehrung/neue-mpox-variante-was-bedeutet-der-erste-nachweis-in-deutschland-110062304.html) (Faz.net)
+
+- [Erster Fall neuer Mpox-Variante in Deutschland nachgewiesen](https://www.morgenpost.de/ratgeber-wissen/article407520036/erster-fall-neuer-mpox-variante-in-deutschland-nachgewiesen.html) (Berliner Morgenpost)
+
+- [Germany detects first mpox variant Ib case](https://www.dw.com/en/germany-detects-first-mpox-variant-ib-case/a-70565943) (DW (English))
+
+- [Første sag med den nye mpox-variant er påvist i Tyskland](https://www.dr.dk/nyheder/seneste/foerste-sag-med-den-nye-mpox-variant-er-paavist-i-tyskland) (Www.dr.dk)
+
+- [Santé. Mpox : un premier cas du nouveau variant confirmé en Allemagne](https://www.ledauphine.com/sante/2024/10/22/mpox-un-premier-cas-du-nouveau-variant-confirme-en-allemagne) (Le Dauphiné Libéré)
+
+- [Mpox : un premier cas du nouveau variant confirmé en Allemagne](https://www.lesoir.be/631038/article/2024-10-22/mpox-un-premier-cas-du-nouveau-variant-confirme-en-allemagne) (Le Soir)
+
+- [Virus: Erster Fall neuer Mpox-Variante in Deutschland](https://www.stern.de/gesundheit/mpox--erster-fall-neuer-variante-in-deutschland-35163982.html) (STERN.de)
+
+- [Mpox: Neue Mpox-Variante erstmals in Deutschland nachgewiesen](https://www.zeit.de/gesundheit/2024-10/mpox-variante-rki-infektion-deutschland) (Die Zeit)
+
+- [Parallel zum Bayern-Spiel - Magath und Babbel beim Henkelpott-Talk von BILD](https://www.bild.de/sport/fussball/champions-league-felix-magath-und-markus-babbel-beim-henkelpott-talk-von-bild-671763789f99d97067e6991c) (Bild)
+
+- [Krankheiten: Erster Fall neuer Mpox-Variante in Deutschland](https://www.tagesspiegel.de/wissen/krankheiten-erster-fall-neuer-mpox-variante-in-deutschland-12575897.html) (Der Tagesspiegel)
+
+- [Krankheiten: Erster Fall neuer Mpox-Variante in Deutschland](https://www.zeit.de/news/2024-10/22/erster-fall-neuer-mpox-variante-in-deutschland) (Die Zeit)
+
+- [Krankheiten: Erster Fall neuer Mpox-Variante in Deutschland](https://www.stern.de/news/krankheiten--erster-fall-neuer-mpox-variante-in-deutschland-35164042.html) (STERN.de)
+
+- [Erster Fall neuer Mpox-Variante in Deutschland](https://www.faz.net/aktuell/gesellschaft/gesundheit/erster-mpox-fall-in-deutschland-rki-sieht-keine-erhoehte-gefaehrdung-110062297.html) (Faz.net)
+
+- [Erster Fall neuer Mpox-Variante in Deutschland](https://orf.at/stories/3373552/) (Orf.at)
+
+- [RKI: Erster Nachweis von neuer Mpox-Variante in Deutschland](https://www.stern.de/news/rki--erster-nachweis-von-neuer-mpox-variante-in-deutschland-35164030.html) (STERN.de)
+
+- [RKI meldet ersten Nachweis von neuer Mpox-Variante in Deutschland](https://www.welt.de/vermischtes/article254131146/Mpox-Erster-Nachweis-von-neuer-Variante-in-Deutschland.html) (DIE WELT)
+
+- [Eerste besmetting nieuwe apenpokken-variant in Duitsland](https://www.telegraaf.nl/nieuws/1452739253/eerste-besmetting-nieuwe-apenpokken-variant-in-duitsland) (Telegraaf.nl)
+
+- [Blieskastel - Unbekannter rammt Blumenkasten vor Metzgerei](https://www.bild.de/regional/saarland/blieskastel-fahrer-rammt-blumenkasten-an-metzgerei-67177ddc54022378ac1c1c29) (Bild)
+
+- [Ansteckung im Ausland: RKI bestätigt ersten Fall der neuen Mpox-Variante in Deutschland](https://www.tagesspiegel.de/gesundheit/ansteckung-im-ausland-rki-bestatigt-ersten-fall-der-neuen-mpox-variante-in-deutschland-12575651.html) (Der Tagesspiegel)
+
+- [St. Gangloff - Diebe stehlen 30 Europaletten von Firmengelände](https://www.bild.de/regional/thueringen/st-gangloff-diebe-stehlen-30-europaletten-von-firmengelaende-67177d929f99d97067e69a5a) (Bild)
+
+- [Freiburg - Fahrerin (68) missachtet Vorfahrt: Unfall](https://www.bild.de/regional/baden-wuerttemberg/freiburg-unfall-auf-b31-totalschaden-an-zwei-autos-67177cf1a0e636753eda7488) (Bild)
+
+- [Rinnthal - Audi kracht in Tesla: 19.000 Euro Schaden](https://www.bild.de/regional/rheinland-pfalz/rinnthal-audi-kollidiert-mit-tesla-auf-b48-67177c7554022378ac1c1c10) (Bild)
+
+- [RKI bestätigt - Erster Nachweis von neuer Mpox-Variante in Deutschland](https://www.bild.de/leben-wissen/rki-bestaetigt-erster-nachweis-von-neuer-mpox-variante-in-deutschland-67177a8e9f99d97067e69a2f) (Bild)
 
 - [Sida ger stöd för att minska mpox-smitta](https://www.aftonbladet.se/nyheter/a/gw4P65/sida-ger-stod-for-att-minska-mpox-smitta) (Aftonbladet.se)
 
@@ -68,6 +224,20 @@ Source: [News API](https://newsapi.org/)
 - [Different Types of Meningitis That Could Affect Infants](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/different-types-of-meningitis-that-could-affect-infants/articleshow/114418166.cms) (The Times of India)
 
 ## 24-43 (malaria)
+
+- ['Airport malaria' on the rise in Europe, new study suggests: Here's what travelers should know](https://www.foxnews.com/health/airport-malaria-rise-europe-new-study-suggests-heres-what-travelers-should-know) (Fox News)
+
+- [Egipto pone fin a la plaga que asoló a los faraones](https://www.nationalgeographic.com.es/ciencia/egipto-pone-fin-malaria-plaga-que-ya-asolaba-faraones_23489) (Nationalgeographic.com.es)
+
+- ["Won't Apologise": Udhayanidhi Stalin On 'Sanatan Dharma' Remark](https://www.ndtv.com/tamil-nadu-news/udhayanidhi-stalin-on-sanatan-dharma-remark-wont-apologise-6847615) (NDTV News)
+
+- [Amazonasgebiet: Mehr Abholzung führt zu mehr Malariainfektionen](https://www.spektrum.de/news/amazonasgebiet-mehr-abholzung-fuehrt-zu-mehr-malariainfektionen/2238887) (Spektrum.de)
+
+- [Ontbossing in Braziliaanse Amazone leidt tot toename van aantal malariagevallen](https://www.hbvl.be/cnt/dmf20241022_92766135) (Hbvl.be)
+
+- [World News in Brief: Egypt malaria-free, tropical storm lashes Cuba, Mozambique killings, WHO support for South Sudan](https://www.globalsecurity.org/military/library/news/2024/10/mil-241021-unnews04.htm) (Globalsecurity.org)
+
+- [Ontbossing in Braziliaanse Amazone leidt tot toename van aantal malariagevallen](https://www.nieuwsblad.be/cnt/dmf20241022_92716420) (Nieuwsblad.be)
 
 - [Krankheiten: Abholzung im Amazonasgebiet erhöht Malaria-Risiko](https://www.tagesspiegel.de/wissen/krankheiten-abholzung-im-amazonasgebiet-erhoht-malaria-risiko-12573884.html) (Der Tagesspiegel)
 
@@ -139,13 +309,33 @@ Source: [News API](https://newsapi.org/)
 
 - [Why pregnant women, nursing mothers shouldn’t take malaria vaccines – Gynaecologists](https://punchng.com/why-pregnant-women-nursing-mothers-shouldnt-take-malaria-vaccines-gynaecologists/) (The Punch)
 
+## 24-43 (hpai)
+
+- [Ny bølge av fugleinfluensa blant villfugl i Nord-Norge](https://www.nrk.no/tromsogfinnmark/ny-bolge-av-fugleinfluensa-blant-villfugl-i-nord-norge-1.17093931) (NRK)
+
+- [Ny bølge av fugleinfluensa blant villfugl i Nord-Norge](https://www.nrk.no/tromsogfinnmark/ny-bolge-av-fugleinfluensa-blant-villfugl-i-nord-norge-1.17093914) (NRK)
+
 ## 24-43 (h5n1)
+
+- [The host tropism of current zoonotic H7N9 viruses depends mainly on an acid-labile hemagglutinin with a single amino acid mutation in the stalk region](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012427) (Plos.org)
+
+- [Aviaria, nuovi casi umani negli Usa: 'colpito' anche Stato Washington](https://www.ilgiornale.it/news/adnkronos/aviaria-nuovi-casi-umani-negli-usa-colpito-anche-stato-2384830.html) (Ilgiornale.it)
 
 - [Inside the Bungled Bird Flu Response, Where Profits Collide With Public Health (Katherine Eban/Vanity Fair)](https://www.memeorandum.com/241021/p71) (Memeorandum.com)
 
 - [Inside the Bungled Bird Flu Response, Where Profits Collide With Public Health](https://www.vanityfair.com/news/story/inside-the-bungled-bird-flu-response) (Vanity Fair)
 
 ## 24-43 (dengue)
+
+- [Exclusive - Sonal Panvar: It's been a tradition for me every year to visit temple on my birthday](https://timesofindia.indiatimes.com/tv/news/hindi/exclusive-sonal-panvar-its-been-a-tradition-for-me-every-year-to-visit-temple-on-my-birthday/articleshow/114474307.cms) (The Times of India)
+
+- [Medicamentos, prepagas y dengue](https://noticias.perfil.com/noticias/economia/medicamentos-prepagas-y-dengue.phtml) (Perfil.com)
+
+- [El gobierno de Mendoza liberó 10 mil “mosquitos colorados” para combatir el dengue](https://www.lanacion.com.ar/sociedad/el-gobierno-de-mendoza-libero-10-mil-mosquitos-colorados-para-combatir-el-dengue-nid22102024/) (La Nacion)
+
+- [Saltamartini, piano disinfestazioni anti-Dengue in primavera](https://www.ansa.it/marche/notizie/2024/10/22/saltamartini-piano-disinfestazioni-anti-dengue-in-primavera_446194c0-8767-43a8-81c8-91f423c3cfc9.html) (ANSA.it)
+
+- [Se mantiene plan emergente por casos de dengue en la Costa de Oaxaca](https://www.milenio.com/estados/mantiene-plan-emergente-casos-dengue-costa-oaxaca) (Milenio)
 
 - [Simple Steps to Shield Yourself from Mosquito-Borne Threats](https://articles.mercola.com/sites/articles/archive/2024/10/22/mosquito-borne-diseases.aspx) (Mercola.com)
 
@@ -164,6 +354,8 @@ Source: [News API](https://newsapi.org/)
 - [Dengue cases drop slightly in ME41, one death reported](https://www.thestar.com.my/news/nation/2024/10/20/dengue-cases-drop-slightly-in-me41-one-death-reported) (The Star Online)
 
 ## 24-43 (chikungunya)
+
+- [El gobierno de Mendoza liberó 10 mil “mosquitos colorados” para combatir el dengue](https://www.lanacion.com.ar/sociedad/el-gobierno-de-mendoza-libero-10-mil-mosquitos-colorados-para-combatir-el-dengue-nid22102024/) (La Nacion)
 
 - [Simple Steps to Shield Yourself from Mosquito-Borne Threats](https://articles.mercola.com/sites/articles/archive/2024/10/22/mosquito-borne-diseases.aspx) (Mercola.com)
 
@@ -2775,8 +2967,6 @@ Source: [News API](https://newsapi.org/)
 
 - [75 die of monsoon ailments, 12 due to rabies in Maharashtra this year](https://timesofindia.indiatimes.com/city/mumbai/75-die-of-monsoon-ailments-12-due-to-rabies-in-maharashtra-this-year/articleshow/113332688.cms) (The Times of India)
 
-- [Vengeance likely reason behind wolf attacks in UP's Bahraich, say officials](https://economictimes.indiatimes.com/news/india/vengeance-likely-reason-behind-wolf-attacks-in-ups-bahraich-say-officials/articleshow/113169632.cms) (The Times of India)
-
 ## 24-37 (pertussis)
 
 - [Coyotes football game at Portland State called off due to illness](https://www.mitchellrepublic.com/sports/college/coyotes-football-game-at-portland-state-called-off-due-to-illness) (Mitchellrepublic.com)
@@ -3149,32 +3339,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Mpox-vaccins sturen naar Afrika is ook in Nederlands belang](https://www.nrc.nl/nieuws/2024/09/08/mpox-vaccins-sturen-naar-afrika-is-ook-in-nederlands-belang-a4864952) (Www.nrc.nl)
 
-- [India detects 1st suspected mpox case](https://www.dw.com/en/india-detects-1st-suspected-mpox-case/a-70166401) (DW (English))
-
-- [В Индии зафиксировали пациента с подозрением на оспу обезьян](https://tass.ru/obschestvo/21807789) (Tass.ru)
-
-- [La India examina primer caso sospechoso de viruela del mono durante la emergencia global](https://www.montevideo.com.uy/Salud/La-India-examina-primer-caso-sospechoso-de-viruela-del-mono-durante-la-emergencia-global-uc899570) (Montevideo.com.uy)
-
-- [India records first suspected mpox case, male patient in isolation](https://www.aljazeera.com/news/2024/9/8/india-records-first-suspected-mpox-case-male-patient-in-isolation) (Al Jazeera English)
-
-- [Amid Steep Rise In Mpox Cases, Vaccination Drive In Africa Becomes More Urgent](https://www.forbes.com/sites/joshuacohen/2024/09/08/amid-steep-rise-in-mpox-cases-vaccination-drive-in-africa-becomes-more-urgent/) (Forbes)
-
-- [Suspected Mpox case under probe, no cause for alarm, says Govt](https://www.thehindubusinessline.com/news/suspected-mpox-case-under-probe-no-cause-for-alarm-says-govt/article68618549.ece) (BusinessLine)
-
-- [India reports case of mpox in traveller from affected country](https://www.thestar.com.my/news/world/2024/09/08/india-reports-case-of-mpox-in-traveller-from-affected-country) (The Star Online)
-
-- [Мнения: У оспы обезьян есть одна неприятная для биотеха особенность](https://vz.ru/opinions/2024/9/8/1286142.html) (Vz.ru)
-
-- [Health ministry reports first suspected case of mpox virus in India](https://www.business-standard.com/health/health-ministry-reports-first-suspected-case-of-mpox-virus-in-india-124090800399_1.html) (Business Standard)
-
-- [Misstänkt mpox-fall i nytt land](https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1289283) (Aftonbladet.se)
-
-- [India reports first suspected case of Mpox: Symptoms, prevention, transmission and WHO norms on vaccination](https://economictimes.indiatimes.com/magazines/panache/india-reports-first-suspected-case-of-mpox-monkeypox-symptoms-prevention-transmission-and-who-norms-on-vaccination/articleshow/113168254.cms) (The Times of India)
-
-- [India's 1st Mpox Case? Centre Says Man Isolated, No Cause For Alarm](https://www.ndtv.com/india-news/indias-1st-mpox-case-centre-says-man-isolated-no-cause-for-alarm-6518374) (NDTV News)
-
-- [Suspected mpox case under probe in India, no cause for alarm, says Govt](https://economictimes.indiatimes.com/news/india/suspected-mpox-case-under-probe-no-cause-for-alarm-govt/articleshow/113167893.cms) (The Times of India)
-
 ## 24-37 (meningitis)
 
 - [Family of Aoife Johnston call for report into her death at UHL to be published immediately](https://www.irishtimes.com/health/2024/09/12/family-of-aoife-johnston-call-for-report-into-her-death-at-uhl-to-be-published-immediately/) (The Irish Times)
@@ -3392,8 +3556,6 @@ Source: [News API](https://newsapi.org/)
 - [Estudo desvenda como os mosquitos da dengue acham vítimas no escuro](https://gizmodo.uol.com.br/estudo-desvenda-como-os-mosquitos-da-dengue-acham-vitimas-no-escuro/) (Uol.com.br)
 
 - [Puerta a puerta: así es el operativo en 6947 domicilios para conocer cuántos porteños ya tuvieron dengue](https://www.lanacion.com.ar/sociedad/puerta-a-puerta-asi-es-el-operativo-en-6947-domicilios-para-conocer-cuantos-portenos-ya-tuvieron-nid08092024/) (La Nacion)
-
-- [Laughter Chefs' Rahul Vaidya updates fans about having 104 degrees of fever; reveals dengue spoiled his Ganesh Chaturthi celebration](https://timesofindia.indiatimes.com/tv/news/hindi/laughter-chefs-rahul-vaidya-updates-fans-about-having-104-degrees-of-fever-reveals-dengue-spoiled-his-ganesh-chaturthi-celebration/articleshow/113164874.cms) (The Times of India)
 
 ## 24-37 (chikungunya)
 
