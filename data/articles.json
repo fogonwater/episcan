@@ -1,8 +1,334 @@
 {
-  "last_updated": "2024-10-23 19:05",
-  "count_articles_total": 1609,
-  "count_articles_new": 93,
+  "last_updated": "2024-10-24 07:06",
+  "count_articles_total": 1642,
+  "count_articles_new": 18,
   "articles": [
+    {
+      "id": 14880,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Ayana Archie",
+      "title": "Egypt has been declared malaria-free by the World Health Organization",
+      "description": "Egypt has been fighting malaria for nearly 100 years. WHO declares a country malaria-free when the disease has not been present for at least three consecutive years before the designation.",
+      "url": "https://www.npr.org/2024/10/23/nx-s1-5162065/egypt-malaria-free",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3012x1694+0+157/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb3%2Faa%2F71a854744259a83831ad58e69d87%2Fmosquito-ap.jpg",
+      "publishedAt": "2024-10-23 07:02:25",
+      "content": "Egypt has been declared malaria-free by the World Health Organization. Egypt is the third country in the Eastern Mediterranean region WHO has acknowledged as malaria-free, following Morocco and the \u2026 [+2082 chars]",
+      "retrievedAt": "2024-10-24 07:06:37.683204",
+      "internal_id": "2f6d93e995f6fbb003cf3542a4af518c5c9a39d67cf770f40b021a72578cc533",
+      "publishedAtLabel": "Oct 23"
+    },
+    {
+      "id": 14885,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Haberturk.com",
+      "author": "Habert\u00fcrk",
+      "title": "Almanya'da M \u00e7i\u00e7e\u011finin yeni varyant\u0131 Klad 1 ilk kez tespit edildi",
+      "description": "Almanya'da M \u00e7i\u00e7e\u011fi (Mpox) vir\u00fcs\u00fcn\u00fcn yeni varyant\u0131n\u0131n ilk kez tespit edildi\u011fi bildirildi.",
+      "url": "https://www.haberturk.com/almanya-da-m-ciceginin-yeni-varyanti-klad-1-ilk-kez-tespit-edildi-3731130",
+      "urlToImage": "https://im.haberturk.com/l/2024/10/23/ver1729664802/3731130/jpg/1200x628",
+      "publishedAt": "2024-10-23 06:30:41",
+      "content": "Robert Koch Enstit\u00fcs\u00fc'nden (RKI) yaplan a\u00e7klamaya g\u00f6re, bir kiinin yurt dnda M \u00e7i\u00e7einin yeni varyant olan Klad 1 vir\u00fcs\u00fcne yakaland ifade edildi. RKI'ye g\u00f6re \u00fclkede herhangi bir \u00f6l\u00fcm vakas kaydedilmed\u2026 [+1170 chars]",
+      "retrievedAt": "2024-10-24 07:06:39.367151",
+      "internal_id": "67aa61c646810fa5900098e446a49614c08f36e6503652f36bae9294e995d5a5",
+      "publishedAtLabel": "Oct 23"
+    },
+    {
+      "id": 14890,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "PTI",
+      "title": "Zydus Lifesciences gets WHO prequalification for Typhoid Vi conjugate vaccine",
+      "description": "Zydus Lifesciences Ltd has received in-principle approval from the WHO for its Typhoid Vi conjugate vaccine, ZyVac TCV. Eligible for UN procurement, the vaccine targets 6-month to 65-year-olds and addresses high typhoid incidence in India, Africa, and Southea\u2026",
+      "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/zydus-lifesciences-gets-who-prequalification-for-typhoid-vi-conjugate-vaccine/articleshow/114492728.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-114492743,width-1200,height-630,imgsize-30538,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2024-10-23 06:00:15",
+      "content": "Zydus Lifesciences Ltd on Wednesday said it has received in-principle acceptability from the World Health Organisation for its Typhoid Vi conjugate vaccine, ZyVac TCV making it eligible for purchase \u2026 [+816 chars]",
+      "retrievedAt": "2024-10-24 07:06:39.909286",
+      "internal_id": "577b9e0b514b81d5f5eb074ba50d91a03f50eb9ea979274a4022ed4d90adb01c",
+      "publishedAtLabel": "Oct 23"
+    },
+    {
+      "id": 14888,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Mpox Vaccine Acceptance, Democratic Republic of the Congo",
+      "description": "Mpox Vaccine Acceptance, DRC",
+      "url": "https://wwwnc.cdc.gov/eid/article/30/12/24-1226_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2024-10-23 04:00:00",
+      "content": "Disclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released.Mpox, caused by monkeypox \u2026 [+10137 chars]",
+      "retrievedAt": "2024-10-24 07:06:39.644902",
+      "internal_id": "bb4947e45927dcad88dae44ba907f43f6f165d9ad76f64def2260d78c0c234eb",
+      "publishedAtLabel": "Oct 23"
+    },
+    {
+      "id": 14875,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Rodrigo Mozelli",
+      "title": "Dengue: ensaio cl\u00ednico de rem\u00e9dio oral recebe autoriza\u00e7\u00e3o da Anvisa",
+      "description": "Ensaio vai testar efic\u00e1cia e seguran\u00e7a da subst\u00e2ncia em pacientes portadores da doen\u00e7a, al\u00e9m de entender como o corpo o absorve, distribui, metaboliza e o elimina O post Dengue: ensaio cl\u00ednico de rem\u00e9dio oral recebe autoriza\u00e7\u00e3o da Anvisa apareceu primeiro em \u2026",
+      "url": "https://olhardigital.com.br/2024/10/22/medicina-e-saude/dengue-ensaio-clinico-de-remedio-oral-recebe-autorizacao-da-anvisa/",
+      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2024/10/mosquito_aedes_aegypti_dengue_chikungunya-scaled.jpg",
+      "publishedAt": "2024-10-23 02:09:04",
+      "content": "Na segunda-feira (21), a Ag\u00eancia Nacional de Vigil\u00e2ncia (Anvisa) autorizou o ensaio cl\u00ednico Fase 2a do medicamento oral EYU688, criado para combater a dengue. O ensaio vai testar efic\u00e1cia e \u2026 [+1638 chars]",
+      "retrievedAt": "2024-10-24 07:06:36.678805",
+      "internal_id": "7749cac5af71f1fc7b2ea429dcda32dfb8defb11d465a328a15ed84ec48dda77",
+      "publishedAtLabel": "Oct 23"
+    },
+    {
+      "id": 14887,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Storm.mg",
+      "author": "\u4e2d\u592e\u793e",
+      "title": "\u8b8a\u7a2eM\u75d8\u5728\u5fb7\u570b\u73fe\u8e64\uff01RKI\uff1a\u5bc6\u5207\u76e3\u63a7\u4e2d\uff0c\u66ab\u7121\u5927\u898f\u6a21\u50b3\u64ad\u98a8\u96aa",
+      "description": "\u5fb7\u570b\u806f\u90a6\u9632\u75ab\u4e3b\u7ba1\u6a5f\u69cb\u7f85\u4f2f\u7279\uff0e\u79d1\u8d6b\u7814\u7a76\u624022\u65e5\u5ba3\u5e03\uff0c\u5883\u5167\u767c\u73fe\u9996\u4f8b\u65b0\u578bM\u75d8\uff08mpox\uff0c\u820a\u7a31\u7334\u75d8\uff09\u8b8a\u7a2e\u3002\u8a72\u6a5f\u69cb\u8a8d\u70ba\uff0c...",
+      "url": "https://www.storm.mg/article/5259846",
+      "urlToImage": "https://image.cache.storm.mg/styles/smg-800x533-fp/s3/media/image/2024/08/15/20240815-100744_U1085_M978971_53c7.jpg?TWHjXnDTO_8mRAvLeB..iJIWqBPo0qOc&itok=EFXdvvy1",
+      "publishedAt": "2024-10-23 02:00:01",
+      "content": "22MmpoxM Robert Koch InstituteRKI18M &lt;Google&gt; MWHO8MPHEIC22 815MM",
+      "retrievedAt": "2024-10-24 07:06:39.632630",
+      "internal_id": "ef5d68f36b72d6a6abd4d7bae0d1d2cfd31ec32a6e8bc3f9337edaffde4f507f",
+      "publishedAtLabel": "Oct 23"
+    },
+    {
+      "id": 14881,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Agency Report",
+      "title": "LASG, SFH sign MoU to combat malaria",
+      "description": "The Lagos State Ministry of Health and the Society for Family Health have signed a Memorandum of Understanding on an initiative to combat malaria in Lagos. This was contained in a statement made available to the News Agency of Nigeria on Tuesday. According to\u2026",
+      "url": "https://punchng.com/lasg-sfh-sign-mou-to-combat-malaria/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2016/04/22015336/malaria.jpg",
+      "publishedAt": "2024-10-23 00:24:01",
+      "content": "The Lagos State Ministry of Health and the Society for Family Health have signed a Memorandum of Understanding on an initiative to combat malaria in Lagos. This was contained in a statement made ava\u2026 [+2366 chars]",
+      "retrievedAt": "2024-10-24 07:06:37.705751",
+      "internal_id": "e5caee597290232633793a68f275e4d417d4632a6baae73e6799e7d881c08aad",
+      "publishedAtLabel": "Oct 23"
+    },
+    {
+      "id": 14889,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Bruna Sales",
+      "title": "Cidade de S\u00e3o Paulo registra 49 novos casos de mpox em 6 dias",
+      "description": "S\u00e3o Paulo chegou a 515 casos confirmados de mpox, segundo a Secretaria da Sa\u00fade. Balan\u00e7o considera per\u00edodo de janeiro at\u00e9 17 de outubro",
+      "url": "https://www.metropoles.com/sao-paulo/cidade-de-sao-paulo-registra-49-novos-casos-de-mpox-em-6-dias",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/10/22134213/mpox-costas-.jpg",
+      "publishedAt": "2024-10-23 00:21:28",
+      "content": "S\u00e3o Paulo A cidade de S\u00e3o Paulo registrou 515 casos de mpox, neste ano, at\u00e9 a \u00faltima quinta-feira (17/10), de acordo com o \u00faltimo boletim epidemiol\u00f3gico da Secretaria Municipal da Sa\u00fade, divulgado ne\u2026 [+8116 chars]",
+      "retrievedAt": "2024-10-24 07:06:39.734285",
+      "internal_id": "f2bec83eb9ca2263cb5458cbb183e7e67d6cf63a8e13f13d4889d1c938a7ac11",
+      "publishedAtLabel": "Oct 23"
+    },
+    {
+      "id": 14882,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Taiwo Bankole",
+      "title": "Ogun, SFH target 3.1m residents for free insecticide-treated nets",
+      "description": "The Ogun State Government, in collaboration with the Global Fund Malaria Project, and Society For Family Health, among other development partners, is set to distribute 3.1 million free insecticide-treated nets to residents by November. The exercise is targete\u2026",
+      "url": "https://punchng.com/ogun-sfh-target-3-1m-residents-for-free-insecticide-treated-nets/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2024/10/17174432/Oguns-Dapo-Abiodun-Approves-_77k-Minimum-WageNews-Central-Tv-1024x574-removebg-preview.png",
+      "publishedAt": "2024-10-23 00:18:26",
+      "content": "The Ogun State Government, in collaboration with the Global Fund Malaria Project, and Society For Family Health, among other development partners, is set to distribute 3.1 million free insecticide-tr\u2026 [+3069 chars]",
+      "retrievedAt": "2024-10-24 07:06:37.727482",
+      "internal_id": "5f24ccef05b7f275856e5605724982bd7b585a0dc1eafa6e36f8dd14b2d30d93",
+      "publishedAtLabel": "Oct 23"
+    },
+    {
+      "id": 14891,
+      "query": [
+        "shigellosis"
+      ],
+      "source_id": null,
+      "source_name": "Eukaryotewritesblog.com",
+      "author": "Georgia Ray",
+      "title": "I Got Dysentary So You Don't Have To",
+      "description": "On turning 30 in a human challenge trial ward.",
+      "url": "https://eukaryotewritesblog.com/2024/10/21/i-got-dysentery-so-you-dont-have-to/",
+      "urlToImage": "https://eukaryotewritesblog.com/wp-content/uploads/2024/10/dysentery.png?w=1200",
+      "publishedAt": "2024-10-22 22:28:10",
+      "content": "This summer, I participated in a human challenge trial at the University of Maryland. I spent the days just prior to my 30th birthday sick with shigellosis. Dysentery is an acute disease in which pa\u2026 [+28732 chars]",
+      "retrievedAt": "2024-10-24 07:06:40.605466",
+      "internal_id": "b00f65bd70dac933de9171b02294edf486f419123e803c13e24ecfe92bd425bf",
+      "publishedAtLabel": "Oct 22"
+    },
+    {
+      "id": 14876,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Alejandra Borunda",
+      "title": "LA is seeing cases of dengue, the range of which may be growing due to climate change",
+      "description": "Los Angeles County has reported eight cases of locally acquired dengue fever in the past few months; the first ever occurred last year. Climate change probably played a role.",
+      "url": "https://www.npr.org/2024/10/22/nx-s1-5155035/la-is-seeing-cases-of-dengue-the-range-of-which-may-be-growing-due-to-climate-change",
+      "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+      "publishedAt": "2024-10-22 22:10:03",
+      "content": "Los Angeles County has reported eight cases of locally acquired dengue fever in the past few months; the first ever occurred last year. Climate change probably played a role.",
+      "retrievedAt": "2024-10-24 07:06:36.686729",
+      "internal_id": "4be08ff01c574366935d56b040a839b0f099a0564f236e01428ff91b5bad2273",
+      "publishedAtLabel": "Oct 22"
+    },
+    {
+      "id": 14878,
+      "query": [
+        "dengue",
+        "malaria",
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Digital Journal",
+      "author": "Dr. Tim Sandle",
+      "title": "New research on mpox, dengue, malaria at tropical medicines event",
+      "description": "The mpox symposium at the conference will focus on the fight against the recent surge of infections in sub-Saharan Africa. The post New research on mpox, dengue, malaria at tropical medicines event appeared first on Digital Journal.",
+      "url": "https://www.digitaljournal.com/tech-science/new-research-on-mpox-dengue-malaria-at-tropical-medicines-event/article",
+      "urlToImage": "http://www.digitaljournal.com/wp-content/uploads/2022/11/CDC-Lab-Public-Domain-1.jpg",
+      "publishedAt": "2024-10-22 21:02:48",
+      "content": "A scientist harvests H7N9 virus growing in bird eggs. The Centers for Disease Control and Prevention received samples of the virus from China. James Gathany/CDC/Douglas E. Jordan / (CC0 1.0) The 202\u2026 [+3383 chars]",
+      "retrievedAt": "2024-10-24 07:06:36.711058",
+      "internal_id": "d455f6cbf3e4df3670cfffcdeb199e0c9329f24bf740a666ed03d0684693bec9",
+      "publishedAtLabel": "Oct 22"
+    },
+    {
+      "id": 14874,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Longreads.com",
+      "author": "Cheri Lucas Rowlands",
+      "title": "Inside the Bungled Bird Flu Response, Where Profits Collide With Public Health",
+      "description": "\"When dairy cows in Texas began falling ill with H5N1, alarmed veterinarians expected a fierce response to contain an outbreak with pandemic-sparking potential. Then politics\u2014and, critics say, a key agency\u2019s mandate to protect dairy-industry revenues\u2014interven\u2026",
+      "url": "http://longreads.com/2024/10/22/inside-the-bungled-bird-flu-response-where-profits-collide-with-public-health/",
+      "urlToImage": null,
+      "publishedAt": "2024-10-22 20:28:17",
+      "content": "In this Vanity Fair investigation, Katherine Eban examines the US federal government response to the growing H5N1 outbreak in the nation\u2019s dairy cows. The virus has infected dairy herds across multip\u2026 [+1404 chars]",
+      "retrievedAt": "2024-10-24 07:06:35.792507",
+      "internal_id": "e613fba0d5a4ace409b6b991b5cc3b243672a929c1d9a694d2ccdd988cd703b3",
+      "publishedAtLabel": "Oct 22"
+    },
+    {
+      "id": 14884,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "3news.com",
+      "author": "Sarfoa Boahene",
+      "title": "Ghana aims to reduce malaria mortality by 90% by 2028 \u2013 Ghana Health Service | 3News",
+      "description": "Ghana is aiming to reduce malaria mortality by 90% by 2028 and eliminating malaria in 21 districts with very low malaria burden by the same year. This is against the backdrop of the World Health Organization global technical strategy for malaria 2016-2030, wh\u2026",
+      "url": "https://3news.com/news/ghana-aims-to-reduce-malaria-mortality-by-90-by-2028-ghana-health-service/",
+      "urlToImage": "https://3news.com/wp-content/uploads/2024/10/WhatsApp-Image-2024-10-21-at-10.25.54-3.jpeg",
+      "publishedAt": "2024-10-22 20:09:59",
+      "content": "Ghana is aiming to reduce malaria mortality by 90% by 2028 and eliminating malaria in 21 districts with very low malaria burden by the same year. This is against the backdrop of the World Health Org\u2026 [+3030 chars]",
+      "retrievedAt": "2024-10-24 07:06:37.861910",
+      "internal_id": "a73501b0093b75136e8e388bd9eab3f390c90d9d68fef00ea72598d70889c90d",
+      "publishedAtLabel": "Oct 22"
+    },
+    {
+      "id": 14877,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "\u00c9rica Montenegro",
+      "title": "Anvisa autoriza ensaio cl\u00ednico de rem\u00e9dio oral contra dengue",
+      "description": "Pesquisa avaliar\u00e1 efic\u00e1cia e seguran\u00e7a de medica\u00e7\u00e3o oral em pacientes infectados com dengue. Outros 4 pa\u00edses tamb\u00e9m est\u00e3o testando rem\u00e9dio",
+      "url": "https://www.metropoles.com/saude/anvisa-remedio-oral-contra-dengue",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2023/12/13154209/anvisa-fachada.jpg",
+      "publishedAt": "2024-10-22 19:55:07",
+      "content": "A Ag\u00eancia Nacional de Vigil\u00e2ncia Sanit\u00e1ria (Anvisa) autorizou a realiza\u00e7\u00e3o de um ensaio cl\u00ednico fase 2 do medicamento EYU688 desenvolvido para combater a dengue. O objetivo do ensaio \u00e9 avaliar efic\u00e1\u2026 [+1126 chars]",
+      "retrievedAt": "2024-10-24 07:06:36.693832",
+      "internal_id": "dde10d866d630f9c3cc271226394ad141587c1fcc8c2d94327496bf27eae46ac",
+      "publishedAtLabel": "Oct 22"
+    },
+    {
+      "id": 14883,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Newsmonkey.be",
+      "author": "Redactie",
+      "title": "Egypte vrij verklaard van malaria door Wereldgezondheidsorganisatie",
+      "description": "In het kort Egypte heeft een historische mijlpaal bereikt door malariavrij verklaard te worden door de Wereldgezondheidsorganisatie (WHO). Deze certificering is een erkenning van de succesvolle inspanningen van Egypte gedurende bijna een eeuw om de door mugge\u2026",
+      "url": "https://newsmonkey.be/egypte-vrij-malaria/",
+      "urlToImage": "https://media.newsmonkey.be/2024/10/Egypte.jpg",
+      "publishedAt": "2024-10-22 19:43:00",
+      "content": "In het kort Egypte is nu een van de 45 landen wereldwijd die malariavrij zijn verklaard.Het land bereikte deze mijlpaal na bijna een eeuw van inspanningen om de ziekte uit te roeien\u2026 [+1982 chars]",
+      "retrievedAt": "2024-10-24 07:06:37.754293",
+      "internal_id": "1fef51849b40e59aa6b4860b7ff2dd6fa1eeea8ca8ca0b568a601dca52b89c40",
+      "publishedAtLabel": "Oct 22"
+    },
+    {
+      "id": 14879,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "Alejandro Horvat",
+      "title": "Dengue: c\u00f3mo saber si ya tuve la enfermedad",
+      "description": "Haber contra\u00eddo la enfermedad durante las temporadas 2023-2024 es uno de los requisitos para poder vacunarse en la Provincia",
+      "url": "https://www.lanacion.com.ar/sociedad/dengue-como-saber-si-ya-tuve-la-enfermedad-nid22102024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/la-vacuna-de-takeda-que-desde-hoy-aplica-la-O462LEZ5CFEG5KF2BFXTFMLRPM.jpg?auth=4a5493de0136b4da0928c93072dd6b2b1da7c63a4639d6d7550b4bb3adee1af2&width=1200&quality=70&smart=false&height=800",
+      "publishedAt": "2024-10-22 19:21:20",
+      "content": "El Ministerio de Salud de la Provincia de Buenos Airesanunci\u00f3 que hoy se inicia la campa\u00f1a de vacunaci\u00f3n contra el dengue en la regi\u00f3n metropolitana, centrada en aquellos que tengan entre 15 y 59 a\u00f1o\u2026 [+3934 chars]",
+      "retrievedAt": "2024-10-24 07:06:36.754974",
+      "internal_id": "a9ccb2be00c2fe0108564c1bc931230a0d494c0ba1949dcb5b497720f81a91a9",
+      "publishedAtLabel": "Oct 22"
+    },
+    {
+      "id": 14886,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Digi24.ro",
+      "author": "Liviu Cojan",
+      "title": "Germania a raportat primul caz de infec\u021bie cu o nou\u0103 variant\u0103 a virusului mpox",
+      "description": "Un prim caz de infec\u0163ie cu noua variant\u0103 a virusului mpox, care se afl\u0103 la originea unei epidemii importante \u00een Africa, a fost confirmat \u00een Germania, anun\u0163\u0103 mar\u0163i Institutul de supraveghere sanitar\u0103 Robert Koch (RKI), relateaz\u0103 AFP. Cele mai afectate \u021b\u0103ri sun\u2026",
+      "url": "https://www.digi24.ro/stiri/externe/germania-a-raportat-primul-caz-de-infectie-cu-o-noua-varianta-a-virusului-mpox-2978719",
+      "urlToImage": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjQl/MkYxMCUyRjIyJTJGMjEwOTM5MV8yMTA5/MzkxX21wb3gtdmlydXMtcHJvZmltZWRp/YS5qcGcmdz0xMjAwJmg9NjMwJnpjPTEm/aGFzaD1kOTQ4Y2MwMTNlNDE3Njg1ODdjZjA1ZDNmNzhkY2I5NA==.thumb.jpg",
+      "publishedAt": "2024-10-22 19:17:32",
+      "content": "Un prim caz de infecie cu noua variant a virusului mpox, care se afl la originea unei epidemii importante \u00een Africa, a fost confirmat \u00een Germania, anun mari Institutul de supraveghere sanitar Robert \u2026 [+1719 chars]",
+      "retrievedAt": "2024-10-24 07:06:39.610382",
+      "internal_id": "43750de4135cb242edcaa9afe4854805baa2bf04f1e38f71928a75e7502061b7",
+      "publishedAtLabel": "Oct 22"
+    },
     {
       "id": 14813,
       "query": [
@@ -29041,6 +29367,276 @@
       "content": "Dit is het dagelijkse commentaar van NRC. Het bevat meningen, interpretaties en keuzes. Ze worden geschreven door een groep redacteuren, geselecteerd door de hoofdredacteur. In de commentaren laat \u2026 [+3578 chars]",
       "retrievedAt": "2024-09-10 07:07:16.057070",
       "internal_id": "42f4d94b71f972f4ae2a002f1641f09387bde332e2aa04ffc4695f2eecdc92f4",
+      "publishedAtLabel": "Sep 8"
+    },
+    {
+      "id": 13262,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "DW (English)",
+      "author": "Deutsche Welle",
+      "title": "India detects 1st suspected mpox case",
+      "description": "India's health ministry said it was fully prepared to deal with \"an isolated travel related case\" and said robust measures were in place to contain it. India reported a \"suspected mpox case\" on Sunday and made assurances that it had \"robust measures\" in place\u2026",
+      "url": "https://www.dw.com/en/india-detects-1st-suspected-mpox-case/a-70166401",
+      "urlToImage": "https://static.dw.com/image/70166394_6.jpg",
+      "publishedAt": "2024-09-08 18:19:00",
+      "content": "India reported a \"suspected mpox case\" on Sunday and made assurances that it had \"robust measures\" in place to contain the case, the Health Ministry said in a statement. \"A young male patient, who r\u2026 [+1611 chars]",
+      "retrievedAt": "2024-09-10 07:07:16.242393",
+      "internal_id": "402d213b89d7631f2c385e91c8d9acc172e2b4f2344c579d52ed37c3f585e818",
+      "publishedAtLabel": "Sep 8"
+    },
+    {
+      "id": 13247,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Tass.ru",
+      "author": null,
+      "title": "\u0412 \u0418\u043d\u0434\u0438\u0438 \u0437\u0430\u0444\u0438\u043a\u0441\u0438\u0440\u043e\u0432\u0430\u043b\u0438 \u043f\u0430\u0446\u0438\u0435\u043d\u0442\u0430 \u0441 \u043f\u043e\u0434\u043e\u0437\u0440\u0435\u043d\u0438\u0435\u043c \u043d\u0430 \u043e\u0441\u043f\u0443 \u043e\u0431\u0435\u0437\u044c\u044f\u043d",
+      "description": "\u041f\u0430\u0446\u0438\u0435\u043d\u0442 \u043f\u043e\u043c\u0435\u0449\u0435\u043d \u0432 \u0438\u0437\u043e\u043b\u044f\u0442\u043e\u0440, \u0435\u0433\u043e \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0435 \u0441\u0442\u0430\u0431\u0438\u043b\u044c\u043d\u043e\u0435",
+      "url": "https://tass.ru/obschestvo/21807789",
+      "urlToImage": "https://cdn-storage-media.tass.ru/thumb/ru/obschestvo/21807789?u=2024-09-08T17:43:19.389676",
+      "publishedAt": "2024-09-08 17:43:19",
+      "content": "-, 8 . //. , (mpox), . . \" . . \", - X ( Twitter). , , , , . , . , , . \" . , [] \", - . . 14 2024 . 2022 - 23 . 20 , . - , , . , , , . 1% 10%. .",
+      "retrievedAt": "2024-09-09 19:05:45.882583",
+      "internal_id": "1e1ce8964493a04c0719a999815bc716d97877d91f4d3ffddcc2ca2df9103195",
+      "publishedAtLabel": "Sep 8"
+    },
+    {
+      "id": 13264,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "La India examina primer caso sospechoso de viruela del mono durante la emergencia global",
+      "description": "La OMS declar\u00f3 la alerta de salud p\u00fablica de inter\u00e9s internacional, principalmente debido a la aparici\u00f3n de una variante muy contagiosa.",
+      "url": "https://www.montevideo.com.uy/Salud/La-India-examina-primer-caso-sospechoso-de-viruela-del-mono-durante-la-emergencia-global-uc899570",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202207/_W933_80/808770.jpg",
+      "publishedAt": "2024-09-08 16:40:00",
+      "content": "El ministerio de Salud y Bienestar Familiar de la India inform\u00f3 este domingo en un comunicado de que est\u00e1 examinando a un paciente sospechoso de mpox -antes conocida como viruela del mono-, aunque\u2026 [+2191 chars]",
+      "retrievedAt": "2024-09-10 07:07:16.266958",
+      "internal_id": "f1fa0501f14fb0b047bf5898e12171b7d3ba61687a994d915d835a2b1eca2b3b",
+      "publishedAtLabel": "Sep 8"
+    },
+    {
+      "id": 13245,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "al-jazeera-english",
+      "source_name": "Al Jazeera English",
+      "author": "Al Jazeera",
+      "title": "India records first suspected mpox case, male patient in isolation",
+      "description": "The health ministry says the young patient recently travelled from a country experiencing the virus outbreak.",
+      "url": "https://www.aljazeera.com/news/2024/9/8/india-records-first-suspected-mpox-case-male-patient-in-isolation",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/06/AP23144753871232-1719575316.jpg?resize=1920%2C1400",
+      "publishedAt": "2024-09-08 15:06:15",
+      "content": "Indias health ministry says it has recorded a suspected case of mpox found in a man who recently travelled from a country suffering an outbreak of the virus. The young male patient has been isolated\u2026 [+2057 chars]",
+      "retrievedAt": "2024-09-09 19:05:45.729713",
+      "internal_id": "5298a1d8fa6e325f19e1737a67ebd2ac8cb33e9a234e1fe3e5f47d80b5df0060",
+      "publishedAtLabel": "Sep 8"
+    },
+    {
+      "id": 13246,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Joshua P. Cohen, Senior Contributor, \n Joshua P. Cohen, Senior Contributor\n https://www.forbes.com/sites/joshuacohen/",
+      "title": "Amid Steep Rise In Mpox Cases, Vaccination Drive In Africa Becomes More Urgent",
+      "description": "Amid an expanding outbreak of Mpox, it\u2019s critical that the African vaccination drive succeeds to contain the emergency there and reduce the risk of it spreading globally.",
+      "url": "https://www.forbes.com/sites/joshuacohen/2024/09/08/amid-steep-rise-in-mpox-cases-vaccination-drive-in-africa-becomes-more-urgent/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66bf18af8d833737844a818c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-09-08 14:04:01",
+      "content": "A patient shows his hand with a sore caused by an infection of the mpox virus. (Photo by Ernesto ... [+] BENAVIDES / AFP) (Photo by ERNESTO BENAVIDES/AFP via Getty Images) AFP via Getty Images The \u2026 [+5679 chars]",
+      "retrievedAt": "2024-09-09 19:05:45.754914",
+      "internal_id": "1556e3395d29edeb65d64fe1433da0163cdf734e160244cb1da10580f763a672",
+      "publishedAtLabel": "Sep 8"
+    },
+    {
+      "id": 13249,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "BusinessLine",
+      "author": "BL New Delhi Bureau",
+      "title": "Suspected Mpox case under probe, no cause for alarm, says Govt",
+      "description": "Man who recently travelled to India from another country has been identified as a suspected case of the disease in India, the Union Health Ministry said",
+      "url": "https://www.thehindubusinessline.com/news/suspected-mpox-case-under-probe-no-cause-for-alarm-says-govt/article68618549.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/k563oq/article68618772.ece/alternates/LANDSCAPE_1200/2024-08-23T094343Z_1793304980_RC25DU9SZPC8_RTRMADP_3_HEALTH-MPOX-GERMANY-VACCINE.JPG",
+      "publishedAt": "2024-09-08 13:38:36",
+      "content": "A man, who recently travelled from another country experiencing Mpox (earlier known as monkeypox) transmission, has been identified as a suspected case of the disease in India, the Union Health Minis\u2026 [+845 chars]",
+      "retrievedAt": "2024-09-09 19:05:45.977228",
+      "internal_id": "1c6f5ba9609afa2337a61e24c304fe81ee2c7957b5c8a660c2a71ae429bc4799",
+      "publishedAtLabel": "Sep 8"
+    },
+    {
+      "id": 13243,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "PTI",
+      "title": "Vengeance likely reason behind wolf attacks in UP's Bahraich, say officials",
+      "description": "In Bahraich, Uttar Pradesh, wolves have killed six people and injured several others. The forest department has trapped four wolves but attacks continue. Authorities speculate rabies or revenge as possible causes. Efforts to capture the remaining wolves are o\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/vengeance-likely-reason-behind-wolf-attacks-in-ups-bahraich-say-officials/articleshow/113169632.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-113169650,width-1200,height-630,imgsize-78480,overlay-economictimes/photo.jpg",
+      "publishedAt": "2024-09-08 13:00:55",
+      "content": "An invasion of wolves is keeping the forest authorities on their toes in Bahraich, where the animal is suspected to have killed at least six people and wounded several, all within a very short span. \u2026 [+4348 chars]",
+      "retrievedAt": "2024-09-09 19:05:42.387371",
+      "internal_id": "a51c561e32ccf1b1a5229da821b8b5d0328b1edae05c40da1c5372099efcd911",
+      "publishedAtLabel": "Sep 8"
+    },
+    {
+      "id": 13274,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "India reports case of mpox in traveller from affected country",
+      "description": "(Reuters) - India had recorded a suspected case of mpox found in a man who recently travelled from a country suffering an outbreak of the virus, the health ministry said on Sunday. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2024/09/08/india-reports-case-of-mpox-in-traveller-from-affected-country",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/09/08/2902217.jpg",
+      "publishedAt": "2024-09-08 11:51:00",
+      "content": "(Reuters) - India had recorded a suspected case of mpox found in a man who recently travelled from a country suffering an outbreak of the virus, the health ministry said on Sunday. The patient has b\u2026 [+987 chars]",
+      "retrievedAt": "2024-09-10 07:07:16.329097",
+      "internal_id": "7ef9755bfb1327f914b8ed3743c4edd43d648c123b65758a219397f6bae5fd64",
+      "publishedAtLabel": "Sep 8"
+    },
+    {
+      "id": 13248,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Vz.ru",
+      "author": "\u0413\u043b\u0435\u0431 \u041a\u0443\u0437\u043d\u0435\u0446\u043e\u0432, \u043f\u043e\u043b\u0438\u0442\u043e\u043b\u043e\u0433",
+      "title": "\u041c\u043d\u0435\u043d\u0438\u044f: \u0423 \u043e\u0441\u043f\u044b \u043e\u0431\u0435\u0437\u044c\u044f\u043d \u0435\u0441\u0442\u044c \u043e\u0434\u043d\u0430 \u043d\u0435\u043f\u0440\u0438\u044f\u0442\u043d\u0430\u044f \u0434\u043b\u044f \u0431\u0438\u043e\u0442\u0435\u0445\u0430 \u043e\u0441\u043e\u0431\u0435\u043d\u043d\u043e\u0441\u0442\u044c",
+      "description": "\u041c\u0438\u0440 \u0431\u0438\u043e\u0442\u0435\u0445\u0430 \u2013 \u043d\u0435\u0438\u0441\u0442\u043e\u0449\u0438\u043c\u044b\u0439 \u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a \u0438\u0441\u0442\u043e\u0440\u0438\u0439 \u00ab\u0441\u0440\u0430\u0437\u0443 \u043f\u0440\u043e \u0432\u0441\u0451\u00bb. \u041c\u0438\u0440 \u0431\u0438\u043e\u0442\u0435\u0445\u0430 \u2013 \u043d\u0435\u0438\u0441\u0442\u043e\u0449\u0438\u043c\u044b\u0439 \u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a \u0438\u0441\u0442\u043e\u0440\u0438\u0439 \u00ab\u0441\u0440\u0430\u0437\u0443 \u043f\u0440\u043e \u0432\u0441\u0451\u00bb. \u0418\u0441\u0442\u043e\u0440\u0438\u044f \u043f\u0440\u043e \u043e\u0441\u043f\u0443 \u043e\u0431\u0435\u0437\u044c\u044f\u043d (\u044d\u0442\u043e \u00ab\u043a\u0430\u043d\u0434\u0438\u0434\u0430\u0442 \u0432 \u043a\u043e\u0432\u0438\u0434\u044b\u00bb \u043d\u0430 \u0441\u043b\u0443\u0447\u0430\u0439 \u0432\u043d\u0435\u0437\u0430\u043f\u043d\u043e\u0433\u043e \u043f\u0440\u0435\u043a\u0440\u0430\u0449\u0435\u043d\u0438\u044f \u0432\u043e\u0439\u043d\u044b) \u043c\u0435\u0434\u043b\u0435\u043d\u043d\u043e \u043a\u0440\u0443\u0442\u0438\u0442\u0441\u044f \u043d\u0430 \u043f\u043e\u043b\u0443\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u0438 \u0437\u0430\u043f\u0430\u0434\u043d\u044b\u0445 \u043c\u0435\u0434\u0438\u0430\u2026",
+      "url": "https://vz.ru/opinions/2024/9/8/1286142.html",
+      "urlToImage": "https://img.vz.ru/upimg/soc/soc_1286142.jpg",
+      "publishedAt": "2024-09-08 11:43:03",
+      "content": "\u00ab \u00bb. ( \u00ab \u00bb ) . (), SIGA. SIGA , , . . . , . . , ( ) 2008 . , , 200 80%. , . , 2022-, (mPO). \u00ab \u00bb. SIGA , \u00ab \u00bb, mPOX. . . . 2022-. 2024- , , -. , . \u00ab \u00bb \u00ab \u00bb, (, ) . SIGA . . , 2\u2026 [+129 chars]",
+      "retrievedAt": "2024-09-09 19:05:45.952672",
+      "internal_id": "b4409cdce6c159b0bda0acab4ee940d17f25343e9f455bb1309df4af3f0a6af2",
+      "publishedAtLabel": "Sep 8"
+    },
+    {
+      "id": 13273,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Business Standard",
+      "author": "Sanket Koul",
+      "title": "Health ministry reports first suspected case of mpox virus in India",
+      "description": "The patient has been isolated in a designated hospital and is currently stable. Samples from the patient are currently being tested to confirm the presence of Mpox",
+      "url": "https://www.business-standard.com/health/health-ministry-reports-first-suspected-case-of-mpox-virus-in-india-124090800399_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-08/23/thumb/featurecrop/400X400/1724394719-3511.jpg",
+      "publishedAt": "2024-09-08 11:32:30",
+      "content": "Samples from the patient, put under isolation, currently being tested to confirm presence of the virus (Photo: Shutterstock) Sanket KoulNew Delhi India on Sunday reported the first suspected case \u2026 [+1753 chars]",
+      "retrievedAt": "2024-09-10 07:07:16.321551",
+      "internal_id": "1338e28452e459b73a4eb47d0a0a5ddd4db2cefa4aa77e2ee84637a641a217ca",
+      "publishedAtLabel": "Sep 8"
+    },
+    {
+      "id": 13271,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Aftonbladet.se",
+      "author": null,
+      "title": "Misst\u00e4nkt mpox-fall i nytt land",
+      "description": "\u25b8 Indien har sitt f\u00f6rsta fall av misst\u00e4nkt mpox-smitta. En person som varit p\u00e5 resa d\u00e4r smittan har spridning har efter\u2026",
+      "url": "https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1289283",
+      "urlToImage": "https://images.aftonbladet-cdn.se/v2/images/156fc268-adec-4fec-ac17-baa7f1dbdb35?fit=crop&format=auto&h=56&q=50&w=100&s=8d717b112fa508073dcc3292ac8f7acfdc612d33",
+      "publishedAt": "2024-09-08 11:30:10",
+      "content": "TRE NYHETER FR\u00c5N DAGEN DU INTE F\u00c5R MISSA: Misst\u00e4nkt mpox-fall i nytt land Indien har sitt f\u00f6rsta fall av misst\u00e4nkt mpox-smitta. En person som varit p\u00e5 resa d\u00e4r smittan har spridning har ef\u2026 [+10065 chars]",
+      "retrievedAt": "2024-09-10 07:07:16.309059",
+      "internal_id": "654129c8adb728d844f052422b56a4c6336ca1ccb4959751e7a86e64a25cccd6",
+      "publishedAtLabel": "Sep 8"
+    },
+    {
+      "id": 13263,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ET Online",
+      "title": "India reports first suspected case of Mpox: Symptoms, prevention, transmission and WHO norms on vaccination",
+      "description": "India's health ministry has identified a suspected Mpox case in a young male who recently traveled from an outbreak area. The patient is stable and isolated while tests are conducted. Mpox, also known as monkeypox, spreads through close contact and contaminat\u2026",
+      "url": "https://economictimes.indiatimes.com/magazines/panache/india-reports-first-suspected-case-of-mpox-monkeypox-symptoms-prevention-transmission-and-who-norms-on-vaccination/articleshow/113168254.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-113168329,width-1200,height-630,imgsize-1576098,overlay-etpanache/photo.jpg",
+      "publishedAt": "2024-09-08 11:28:06",
+      "content": "A young male patient who recently traveled from a country currently facing Mpox transmission has been identified as a suspected case, according to India's health ministry. The patient is isolated in \u2026 [+5113 chars]",
+      "retrievedAt": "2024-09-10 07:07:16.252297",
+      "internal_id": "b17553f9f6ca966d2db2ed279a115178db1e53e62bf548fcc28d65aa08ec00ee",
+      "publishedAtLabel": "Sep 8"
+    },
+    {
+      "id": 13250,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": null,
+      "title": "India's 1st Mpox Case? Centre Says Man Isolated, No Cause For Alarm",
+      "description": "A man who recently returned from a country fighting the Mpox virus has been isolated in a hospital and his samples are being tested to confirm the infection, the government said today. The Centre has said there is no cause for alarm",
+      "url": "https://www.ndtv.com/india-news/indias-1st-mpox-case-centre-says-man-isolated-no-cause-for-alarm-6518374",
+      "urlToImage": "https://c.ndtvimg.com/2024-08/1n5d9p5_mpox-reuters_625x300_24_August_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "publishedAt": "2024-09-08 11:10:12",
+      "content": "WHO has declared Mpox a public health emergency of international concern A man who recently returned from a country fighting the Mpox virus has been isolated in a hospital and his samples are being \u2026 [+3085 chars]",
+      "retrievedAt": "2024-09-09 19:05:46.037586",
+      "internal_id": "ae2e45abcbaf33c723454adea87da769be210d73ce54cd7c51ad67b7e1f99e86",
+      "publishedAtLabel": "Sep 8"
+    },
+    {
+      "id": 13269,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ET Online",
+      "title": "Suspected mpox case under probe in India, no cause for alarm, says Govt",
+      "description": "A man who recently travelled from a country with mpox transmission has been identified as a suspected case, according to the Union health ministry. He is isolated and stable at a designated hospital. Samples are being tested, and contact tracing is ongoing. T\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/suspected-mpox-case-under-probe-no-cause-for-alarm-govt/articleshow/113167893.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-113167899,width-1200,height-630,imgsize-120226,overlay-economictimes/photo.jpg",
+      "publishedAt": "2024-09-08 11:03:48",
+      "content": "A man who recently travelled from a country experiencing mpox transmission has been identified as a suspected case of the disease, the Union health ministry said on Sunday. The patient has been isola\u2026 [+988 chars]",
+      "retrievedAt": "2024-09-10 07:07:16.297470",
+      "internal_id": "d64c5ac3cc4b6b127abd122286e2d572bfa7c008f4413c66ccf2f25cb0c4e24c",
+      "publishedAtLabel": "Sep 8"
+    },
+    {
+      "id": 13244,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "etimes.in",
+      "title": "Laughter Chefs' Rahul Vaidya updates fans about having 104 degrees of fever; reveals dengue spoiled his Ganesh Chaturthi celebration",
+      "description": "Rahul Vaidya announced on social media that he has been diagnosed with dengue, leading him to miss Ganesh Chaturthi celebrations. The singer, known for Bigg Boss 14 and Khatron Ke Khiladi, posted a selfie showing his condition. Fans are eagerly waiting for mo\u2026",
+      "url": "https://timesofindia.indiatimes.com/tv/news/hindi/laughter-chefs-rahul-vaidya-updates-fans-about-having-104-degrees-of-fever-reveals-dengue-spoiled-his-ganesh-chaturthi-celebration/articleshow/113164874.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-113165120,width-1070,height-580,imgsize-1095048,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-09-08 08:22:14",
+      "content": "Nayanthara to Aditi Rao Hydari, best photos of the week",
+      "retrievedAt": "2024-09-09 19:05:43.803297",
+      "internal_id": "50aebbf02a6efc4ff2aa481a3f6f2fd4cacc93faeb430edd2bbdcbce25e95149",
       "publishedAtLabel": "Sep 8"
     }
   ]
