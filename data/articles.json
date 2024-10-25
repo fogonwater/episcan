@@ -1,8 +1,513 @@
 {
-  "last_updated": "2024-10-25 07:06",
-  "count_articles_total": 1659,
-  "count_articles_new": 5,
+  "last_updated": "2024-10-25 19:05",
+  "count_articles_total": 1673,
+  "count_articles_new": 29,
   "articles": [
+    {
+      "id": 14916,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": null,
+      "title": "Un investigador de la UBA descubri\u00f3 un \u201cerror\u201d de los mosquitos que reducir\u00eda el dengue",
+      "description": "El estudio evalu\u00f3 qu\u00e9 sitios eligen las hembras para poner sus huevos; \u201cNo hay que dejar abandonado ning\u00fan recipiente a la intemperie, aun por poco tiempo, si se quiere controlar al mosquito\u201d, concluy\u00f3",
+      "url": "https://www.lanacion.com.ar/sociedad/un-investigador-de-la-uba-descubrio-un-error-de-los-mosquitos-que-reduciria-el-dengue-nid24102024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/solo-los-mosquitos-hembra-pican-la-sangre-sirve-GIUJZPNMGJGRDEJ7TUSMNDCPEE.png?auth=e12c7ad2ec4ebd7b38d11c8bbc8de35dc92b2f8651d8f8b675ffb6c78bc5c2cf&width=1200&quality=70&smart=false&height=800",
+      "publishedAt": "2024-10-24 18:59:29",
+      "content": "Un nuevo estudio, que forma parte de la tesis doctoral del investigador argentino Pedro Montini, permiti\u00f3 conocer un comportamiento del mosquitos Aedes aegypti, transmisor de dengue, zika, chikunguny\u2026 [+3981 chars]",
+      "retrievedAt": "2024-10-25 19:05:48.024380",
+      "internal_id": "0cb5fa3949de76e849ee73cc045e4e20dbbef2be2dffebd2c0a47498054e4b03",
+      "publishedAtLabel": "Oct 24"
+    },
+    {
+      "id": 14927,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Hotnews.ro",
+      "author": "Adrian Ilie",
+      "title": "Noua variant\u0103 de mpox se transmite \u00een principal de la om la om. O muta\u021bie a virusului ap\u0103rut\u0103 dup\u0103 c\u00e2teva decenii",
+      "description": "Diferitele epidemii de mpox din Africa sunt determinate de factori diferi\u0163i, arat\u0103 un studiu publicat joi, ai c\u0103rui autori au constatat c\u0103 noua variant\u0103 a virusului se transmite \u00een principal de la om la om,\u2026",
+      "url": "http://hotnews.ro/noua-varianta-de-mpox-se-transmite-in-principal-de-la-om-la-om-o-mutatie-a-virusului-aparuta-dupa-cateva-decenii-1820600",
+      "urlToImage": "https://hotnews.ro/wp-content/uploads/2024/08/Un-copil-infectat-cu-mpox-primeste-tratament-intr-un-centru-din-estul-Republicii-Democrate-Congo-sursa-foto-Profimedia-Images-scaled-1.jpg",
+      "publishedAt": "2024-10-24 18:53:19",
+      "content": "Diferitele epidemii de mpox din Africa sunt determinate de factori diferii, arat un studiu publicat joi, ai crui autori au constatat c noua variant a virusului se transmite \u00een principal de la om la o\u2026 [+2070 chars]",
+      "retrievedAt": "2024-10-25 19:05:49.750463",
+      "internal_id": "e491d2b391fb54cc6f1b2a7e7df0714754206d1d3d3884ccffefbd5486304625",
+      "publishedAtLabel": "Oct 24"
+    },
+    {
+      "id": 14909,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "seattlepi.com",
+      "author": "By MIKE STOBBE, AP Medical Writer",
+      "title": "Officials find no evidence bird flu is spreading between people after Missouri investigation",
+      "description": "Health officials say there\u2019s no evidence bird flu is spreading between people after investigating a mysterious Missouri infection. The illness reported last month was different from the 30 other bird flu infections in the U.S. so far this year. Those cases ha\u2026",
+      "url": "https://www.seattlepi.com/news/article/officials-find-no-evidence-bird-flu-is-spreading-19861067.php",
+      "urlToImage": "https://s.hdnux.com/photos/01/44/65/77/26435538/3/rawImage.jpg",
+      "publishedAt": "2024-10-24 18:46:29",
+      "content": "FILE - This 2005 electron microscope image shows an avian influenza A H5N1 virion. (Cynthia Goldsmith, Jackie Katz/CDC via AP, File)Cynthia Goldsmith, Jackie Katz/AP NEW YORK (AP) Health officials s\u2026 [+3057 chars]",
+      "retrievedAt": "2024-10-25 19:05:47.475941",
+      "internal_id": "8cd1a41c952bfa413edaad5cec5aae0c51fc17ec9e482f3fbfaaf5c584df46a6",
+      "publishedAtLabel": "Oct 24"
+    },
+    {
+      "id": 14920,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "Los anticuerpos maternos interfieren en la respuesta a la vacuna para la malaria del beb\u00e9",
+      "description": "As\u00ed lo revela una investigaci\u00f3n en la que se analizaron muestras de sangre de m\u00e1s de 600 beb\u00e9s.",
+      "url": "https://www.montevideo.com.uy/Salud/Los-anticuerpos-maternos-interfieren-en-la-respuesta-a-la-vacuna-para-la-malaria-del-bebe-uc904325",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/201705/_W933_80/610717.jpg",
+      "publishedAt": "2024-10-24 17:18:00",
+      "content": "Los anticuerpos maternos que atraviesan la placenta pueden interferir en la respuesta a la vacuna contra la malaria en los beb\u00e9s, disminuyendo su eficacia. As\u00ed lo revela una investigaci\u00f3n liderad\u2026 [+2279 chars]",
+      "retrievedAt": "2024-10-25 19:05:48.785874",
+      "internal_id": "98119633eff58d8673728a28bc8b87db515b412d13b096da4eed91fca13dadd3",
+      "publishedAtLabel": "Oct 24"
+    },
+    {
+      "id": 14934,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Ouest-France",
+      "author": "Ouest-France",
+      "title": "Mpox : le nouveau variant change de logique et se transmet surtout entre humains",
+      "description": "Les diff\u00e9rentes \u00e9pid\u00e9mies de mpox en Afrique r\u00e9pondent \u00e0 des logiques diff\u00e9rentes, montre une \u00e9tude parue ce jeudi. Le nouveau variant du virus se transmet surtout entre humains alors que les contaminations par des animaux restent majoritaires pour la version\u2026",
+      "url": "https://www.ouest-france.fr/sante/mpox-le-nouveau-variant-change-de-logique-et-se-transmet-surtout-entre-humains-93b9b900-9225-11ef-9c0a-0d32f1fd8b7b",
+      "urlToImage": "https://media.ouest-france.fr/v1/pictures/MjAyNDEwZTUzYTE4MjEyN2ZmODgwY2YzZDk4Nzk3MjFkNDYxOWU?width=1260&height=708&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=6d655574c055211121e0f4371011afdcab14044e9ca4a3975e7037d5d261edf1",
+      "publishedAt": "2024-10-24 17:12:25",
+      "content": "Plusieurs \u00e9pid\u00e9mies de mpox, \u00e9galement qualifi\u00e9 de \u00ab variole du singe \u00bb, sont en cours en R\u00e9publique d\u00e9mocratique du Congo. Elles sont aliment\u00e9es par deux versions diff\u00e9rentes du virus, le clade 1 qu\u2026 [+1567 chars]",
+      "retrievedAt": "2024-10-25 19:05:50.022307",
+      "internal_id": "49bbb2e8788340ddcc9f8d69e6952efe1cc919b7e62e853cfe103b9c1ba9b3bf",
+      "publishedAtLabel": "Oct 24"
+    },
+    {
+      "id": 14923,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "The cellular superhero that protects us against RNA viruses",
+      "description": "The innate immune system is the body's first line of defence against pathogens like bacteria or viruses. TRIM25 is a protein that is important in the innate immune response against RNA viruses, such as influenza viruses, coronaviruses, or Zika virus. New rese\u2026",
+      "url": "https://www.sciencedaily.com/releases/2024/10/241024130756.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2024-10-24 17:07:56",
+      "content": "Every second of every day, our body is under attack. The invading agents are viruses, bacteria, parasites, toxins -- living and non-living entities that might negatively impact our body's functioning\u2026 [+3715 chars]",
+      "retrievedAt": "2024-10-25 19:05:49.150519",
+      "internal_id": "1546d00db694e5e848ba46cfb93fceca440f1cda59533f40335bc5fc0c12c349",
+      "publishedAtLabel": "Oct 24"
+    },
+    {
+      "id": 14911,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": "CDC",
+      "title": "Notes from the Field: First Locally Acquired Dengue Virus Infections - Pasadena, California, October-December 2023",
+      "description": "This report describes the public health response after a case of dengue was reported in California.",
+      "url": "https://www.cdc.gov/mmwr/volumes/73/wr/mm7342a4.htm",
+      "urlToImage": "https://www.cdc.gov/mmwr/volumes/73/wr/social-media/mm7342a4_LocallyAcquiredDengue_IMAGE_24Oct2024_1200x675.png?_=91790",
+      "publishedAt": "2024-10-24 17:00:00",
+      "content": "Matt Feaster, PhD1; Rudy Patrick, PhD1,2,3; Michael Oshiro, MPH1; Melody Kuan1; Ying-Ying Goh, MD1; Manuel Carmona, MPA, MPH1; Sara Y. Tartof, PhD3; Jason Farned, MPA4; Tristan Hallum, MPH4; Andrea J\u2026 [+9453 chars]",
+      "retrievedAt": "2024-10-25 19:05:47.935994",
+      "internal_id": "ff2f55fc003f85c2c7207a885a467c1345526105ff06ff0aa990721d9677d16d",
+      "publishedAtLabel": "Oct 24"
+    },
+    {
+      "id": 14919,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": "CDC",
+      "title": "Locally Acquired (Autochthonous) Mosquito-Transmitted Plasmodium vivax Malaria - Saline County, Arkansas, September 2023",
+      "description": "This report describes the public health response to 10 cases of locally acquired mosquito-borne malaria in the U.S.",
+      "url": "https://www.cdc.gov/mmwr/volumes/73/wr/mm7342a2.htm",
+      "urlToImage": "https://www.cdc.gov/mmwr/volumes/73/wr/social-media/m7342a2_LocallyAcquiredMalaria_IMAGE_24Oct2024_1200x675.png?_=91796",
+      "publishedAt": "2024-10-24 17:00:00",
+      "content": "CDC supported the Arkansas Department of Health (ADH) in the investigation and response to this case. This activity was reviewed by CDC, deemed not research, and was conducted consistent with applica\u2026 [+4731 chars]",
+      "retrievedAt": "2024-10-25 19:05:48.734611",
+      "internal_id": "030cf77133e9f586c04ced2f5010a2138af55186be3c8ff7f071e0713923e0f0",
+      "publishedAtLabel": "Oct 24"
+    },
+    {
+      "id": 14937,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Der Tagesspiegel",
+      "title": "\u201eAffenpocken\u201c-Erreger: Erster deutscher Mpox-Patient hat sich offenbar beim Sex in Ruanda angesteckt",
+      "description": "In K\u00f6ln wurde erstmals in Deutschland die neue Variante von Mpox nachgewiesen. Der erkrankte Mann befindet sich auf dem Weg der Besserung.",
+      "url": "https://www.tagesspiegel.de/gesundheit/affenpocken-erreger-erster-deutscher-mpox-patient-hat-sich-offenbar-beim-sex-in-ruanda-angesteckt-12591323.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/12272816/alternates/BASE_16_9_W1400/1729789089000/file-photo-illustration-shows-test-tubes-with-mpox-virus-positive-label.jpeg",
+      "publishedAt": "2024-10-24 16:59:57",
+      "content": "Der erste deutsche Patient mit der neuen Variante des Mpox-Virus hatte vor seiner Erkrankung heterosexuellen Sex in Ruanda. Wie das Robert Koch-Institut (RKI) mitteilte, hielt sich der Mann von Septe\u2026 [+1279 chars]",
+      "retrievedAt": "2024-10-25 19:05:50.083139",
+      "internal_id": "539f466cc65c9de950eb3ed39c86da2c27728f301acece9b6a8ad7290c70e9be",
+      "publishedAtLabel": "Oct 24"
+    },
+    {
+      "id": 14932,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Berliner Morgenpost",
+      "author": "Louisa Th\u00f6nig",
+      "title": "Erster Mpox-Patient in Deutschland: Mann in Ruanda infiziert",
+      "description": "In K\u00f6ln wurde erstmals in Deutschland die neue Variante von Mpox nachgewiesen. Das RKI ver\u00f6ffentlicht neue Details zur Ansteckung.",
+      "url": "https://www.morgenpost.de/panorama/article407539673/erster-mpox-patient-in-deutschland-mann-in-ruanda-infiziert.html",
+      "urlToImage": "https://img.sparknews.funkemedien.de/406782608/406782608_1720776061_v16_9_1600.jpeg",
+      "publishedAt": "2024-10-24 16:52:57",
+      "content": "Berlin. In K\u00f6ln wurde erstmals in Deutschland die neue Variante von Mpox nachgewiesen. Das RKI ver\u00f6ffentlicht neue Details zur Ansteckung. In Deutschland wurde vor kurzem der erste Fall einer Infekt\u2026 [+1880 chars]",
+      "retrievedAt": "2024-10-25 19:05:49.974393",
+      "internal_id": "12b5954fec7450eabd5177653f26411acca12baf5809ad43b8ac5b21f300bd5b",
+      "publishedAtLabel": "Oct 24"
+    },
+    {
+      "id": 14910,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Brenda Goodman",
+      "title": "Blood tests confirm a second person in Missouri caught bird flu without exposure to infected animal, but questions remain",
+      "description": "Blood tests of several people who were in contact with a patient in Missouri who caught H5N1 bird flu without any known exposure to infected animals reveal at least one of them \u2014 a person who lived in the same house and had symptoms at the same time \u2014 also ha\u2026",
+      "url": "https://www.cnn.com/2024/10/24/health/bird-flu-missouri-blood-tests/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/53742466267-756a538fef-o.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-10-24 15:44:03",
+      "content": "Blood tests of several people who were in contact with a patient in Missouri who caught H5N1 bird flu without any known exposure to infected animals reveal at least one of them a person who lived in \u2026 [+6447 chars]",
+      "retrievedAt": "2024-10-25 19:05:47.499887",
+      "internal_id": "9f0f74dc3e5d4ed2ab92758b8a2dd68326cd3c78febd7c5ec4d63405bc54769e",
+      "publishedAtLabel": "Oct 24"
+    },
+    {
+      "id": 14924,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "al-jazeera-english",
+      "source_name": "Al Jazeera English",
+      "author": "Areesha Lodhi, Sarah Shamim, Alia Chughtai",
+      "title": "Chikungunya surge in Pakistan: What we know about the mosquito-borne virus",
+      "description": "The virus causes severe joint pain, and cases have been steadily rising in Pakistan's port city of Karachi since May.",
+      "url": "https://www.aljazeera.com/news/2024/10/24/chikungunya-surge-in-pakistan-what-we-know-about-the-mosquito-borne-virus",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/10/AP22267562477331-1729697170.jpg?resize=1920%2C1440",
+      "publishedAt": "2024-10-24 15:28:47",
+      "content": "Hospitals in Pakistans largest city, Karachi, are brimming with chikungunya virus patients. Major government hospitals throughout the city are reporting 500 to 750 suspected cases of the mosquito-bo\u2026 [+9039 chars]",
+      "retrievedAt": "2024-10-25 19:05:49.379088",
+      "internal_id": "db411092e78d98e6fdb6db8791784f384ede2a9c2c6fa27daae7bab771609681",
+      "publishedAtLabel": "Oct 24"
+    },
+    {
+      "id": 14913,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Beth\u00e2nia Nunes",
+      "title": "Brasileiro evita a\u00e7\u00f5es de preven\u00e7\u00e3o \u00e0 dengue que exigem esfor\u00e7o f\u00edsico",
+      "description": "Pesquisa do Unicef mostra que possibilidade de gastos financeiros e exig\u00eancia de esfor\u00e7o f\u00edsico atrapalham a\u00e7\u00f5es de preven\u00e7\u00e3o \u00e0 dengue",
+      "url": "https://www.metropoles.com/saude/unicef-estrategias-prevencao-da-dengue",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/08/06120402/dengue-sem-nomeacoes-servidores-longe-ruas.jpg",
+      "publishedAt": "2024-10-24 15:00:41",
+      "content": "O retorno da chuva ap\u00f3s o per\u00edodo de seca traz de volta a preocupa\u00e7\u00e3o com a dengue. Um novo estudo do Fundo das Na\u00e7\u00f5es Unidas para a Inf\u00e2ncia (Unicef), lan\u00e7ado nesta quinta-feira (24/10), mostra que \u2026 [+7244 chars]",
+      "retrievedAt": "2024-10-25 19:05:47.964620",
+      "internal_id": "264a59b62544f037ba4578d9ffc49d2a8073f157b1ce2d047eec55d38f558261",
+      "publishedAtLabel": "Oct 24"
+    },
+    {
+      "id": 14933,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "bild",
+      "source_name": "Bild",
+      "author": "BILD",
+      "title": "Erster deutscher Fall - K\u00f6lner (33) infizierte sich mit Affenpocken beim Sex",
+      "description": "Der erste deutsche Patient mit der neuen Variante des Mpox-Virus hatte vor seiner Erkrankung Sex mit einer Frau in Ruanda. Wie das Robert Koch-Institut (...",
+      "url": "https://www.bild.de/leben-wissen/erster-deutscher-fall-koelner-33-infizierte-sich-beim-sex-mit-affenpocken-671a5a447094234e22990b78",
+      "urlToImage": "https://images.bild.de/671a5a447094234e22990b78/dae7949a3967ed75584f2e71d8858a49,9312e87c?w=1280",
+      "publishedAt": "2024-10-24 14:58:04",
+      "content": "Weil es keine Staatshilfe gibt Deutsche Tech-Firma meldet Insolvenz an Weil es keine Staatshilfe gibt Deutsche Tech-Firma meldet Insolvenz an Weil es keine Staatshilfe gibt Deutsche Tech-Firma meld\u2026 [+518 chars]",
+      "retrievedAt": "2024-10-25 19:05:50.005699",
+      "internal_id": "84a555ff0d8bf00999a21f27c4bd3d5ccd01c5d1dfd48026d162e592f61233e5",
+      "publishedAtLabel": "Oct 24"
+    },
+    {
+      "id": 14925,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "ZEIT ONLINE: News -",
+      "title": "Auf dem Weg der Besserung: Erster deutscher Mpox-Patient hatte Sex in Ruanda",
+      "description": "Hier finden Sie Informationen zu dem Thema \u201eAuf dem Weg der Besserung\u201c. Lesen Sie jetzt \u201eErster deutscher Mpox-Patient hatte Sex in Ruanda\u201c.",
+      "url": "https://www.zeit.de/news/2024-10/24/erster-deutscher-mpox-patient-hatte-sex-in-ruanda",
+      "urlToImage": "https://img.zeit.de/news/2024-10/24/erster-deutscher-mpox-patient-hatte-sex-in-ruanda-image-group/wide__1300x731",
+      "publishedAt": "2024-10-24 14:28:14",
+      "content": "Der erste deutsche Patient mit der neuen Variante des Mpox-Virus hatte vor seiner Erkrankung heterosexuellen Sex in Ruanda. Wie das Robert Koch-Institut (RKI) mitteilte, hielt sich der Mann von Septe\u2026 [+865 chars]",
+      "retrievedAt": "2024-10-25 19:05:49.671874",
+      "internal_id": "9fbea15c6dfc419abf5d3464155fa0ec01f0dfd79703444ec4af7d973380d4de",
+      "publishedAtLabel": "Oct 24"
+    },
+    {
+      "id": 14926,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "Auf dem Weg der Besserung: Erster deutscher Mpox-Patient hatte Sex in Ruanda",
+      "description": "Berlin - Der erste deutsche Patient mit der neuen Variante des Mpox-Virus hatte vor seiner Erkrankung heterosexuellen Sex in Ruanda. Wie das Robert",
+      "url": "https://www.stern.de/gesellschaft/regional/nordrhein-westfalen/auf-dem-weg-der-besserung--erster-deutscher-mpox-patient-hatte-sex-in-ruanda-35172032.html",
+      "urlToImage": "https://image.stern.de/35172034/t/6Q/v1/w1440/r1.7778/-/24--joyosr6urav11axw800h600jpeg---7fd84ec8911e2378.jpg",
+      "publishedAt": "2024-10-24 14:28:14",
+      "content": "In K\u00f6ln wurde erstmals in Deutschland die neue Variante von Mpox nachgewiesen. Der Mann hat sich offenbar beim Sex in Ruanda angesteckt. Der erste deutsche Patient mit der neuen Variante des Mpox-Vi\u2026 [+972 chars]",
+      "retrievedAt": "2024-10-25 19:05:49.714018",
+      "internal_id": "ce8bdc8f740ea975f7936f1e89e8501756e0e32bf728e4926914cfc1e60ce523",
+      "publishedAtLabel": "Oct 24"
+    },
+    {
+      "id": 14921,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Pongsakorn Thawornpan, Piyawan Kochayoo, Zulfa Zahra Salsabila, Patchanee Chootong",
+      "title": "Development and longevity of naturally acquired antibody and memory B cell responses against Plasmodium vivax infection",
+      "description": "Author summary Despite the Plasmodium vivax parasite causing a large proportion of the global malaria burden, it has been neglected by much of the research world. Vaccines that can effectively induce strong and long-lasting antibody and memory B cell (MBC) re\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012600",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012600.g002&size=inline",
+      "publishedAt": "2024-10-24 14:00:00",
+      "content": "Abstract Plasmodium vivax malaria causes significant public health problems in endemic regions. Considering the rapid spread of drug-resistant parasite strains and the development of hypnozoites in \u2026 [+69344 chars]",
+      "retrievedAt": "2024-10-25 19:05:48.812577",
+      "internal_id": "45e1daca97c8d1b17f161524be9d5657e4ef58e663d5a8845c2e6c737b79376a",
+      "publishedAtLabel": "Oct 24"
+    },
+    {
+      "id": 14914,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "L'Express",
+      "author": "Aurore Maubian",
+      "title": "Dengue : les raisons derri\u00e8re l\u2019explosion des contaminations dans le monde",
+      "description": "Depuis le d\u00e9but de l\u2019ann\u00e9e 2024, la dengue bat tous les records. En cause notamment : le r\u00e9chauffement climatique et la globalisation de l\u2019\u00e9conomie.",
+      "url": "https://www.lexpress.fr/sciences-sante/sante/dengue-les-raisons-derriere-lexplosion-des-contaminations-dans-le-monde-PMBUSEFLAJCYJFFU2X346ISHIA/",
+      "urlToImage": "https://www.lexpress.fr/resizer/v2/32BGBQSWKFDDFPVRHENYOILEGE.jpg?auth=b769008700a28e1296cb575c6f5fd7b12f86524894b688cf6efab2eb43e433e2&width=1200&height=630&quality=85&focal=600%2C708",
+      "publishedAt": "2024-10-24 13:32:20",
+      "content": "Fatigue intense, forte fi\u00e8vre, douleurs musculaires pour les sympt\u00f4mes les plus l\u00e9gers. H\u00e9morragies, chute de la pression art\u00e9rielle entra\u00eenant le d\u00e9c\u00e8s pour la forme la plus grave. En 2024, pr\u00e8s de \u2026 [+3855 chars]",
+      "retrievedAt": "2024-10-25 19:05:47.991533",
+      "internal_id": "9a424f2a8d469d7e60d8bbbb469d0eee62ca75b671708c4a9c96a3d65efc7b0c",
+      "publishedAtLabel": "Oct 24"
+    },
+    {
+      "id": 14931,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "svenska-dagbladet",
+      "source_name": "Svenska Dagbladet",
+      "author": "TT-NTB",
+      "title": "Sexklubb i Oslo erbjuder vaccin efter mpox-oro",
+      "description": "Minst en person som varit p\u00e5 fest p\u00e5 sexklubben SLM i Oslo har konstaterats vara mpox-smittad. Nu erbjuder klubben gratis vaccinering.",
+      "url": "https://www.svd.se/a/zAxMqv/sexklubb-i-oslo-erbjuder-vaccin-efter-mpox-oro",
+      "urlToImage": "https://svd.vgc.no/v2/images/677c407d-a15a-4e5a-9282-d3646c569da5?h=630&q=80&upscale=true&w=1200&s=dabaf853c8e0a386cb0155c96116ec028c0c0a94",
+      "publishedAt": "2024-10-24 13:02:27",
+      "content": "En person som har f\u00e5tt diagnosen mpox uppger att han har varit p\u00e5 fester hos oss den 6 och 12 oktober, s\u00e4ger Marius Hofseth som f\u00f6retr\u00e4der klubben, till tidningen VG. De som var p\u00e5 SLM den 12 oktobe\u2026 [+50 chars]",
+      "retrievedAt": "2024-10-25 19:05:49.923920",
+      "internal_id": "6a8d892fa8dd04f58ae7d64e8dcc2416f3f06101937596d6a0374e09fc5c9e31",
+      "publishedAtLabel": "Oct 24"
+    },
+    {
+      "id": 14930,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "svenska-dagbladet",
+      "source_name": "Svenska Dagbladet",
+      "author": "SvD",
+      "title": "Passagerart\u00e5g har sp\u00e5rat ur i Nordnorge",
+      "description": "Ett t\u00e5g med mellan 50 och 70 personer ombord har sp\u00e5rat ur l\u00e4ngs med norska Nordlandsbanan.",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=48256",
+      "urlToImage": "https://static.svd.se/assets/assets/images/logo-sharing-backup.png",
+      "publishedAt": "2024-10-24 12:57:04",
+      "content": "Minst en person som varit p\u00e5 fest p\u00e5 sexklubben SLM i Oslo har konstaterats vara mpox-smittad. Nu erbjuder klubben gratis vaccinering. De som var p\u00e5 SLM den 12 oktober uppmanas att vaccinera sig gr\u2026 [+554 chars]",
+      "retrievedAt": "2024-10-25 19:05:49.882823",
+      "internal_id": "20d30289c098e20614241c078e56286442585ca29669d92bbe01d183254f7c72",
+      "publishedAtLabel": "Oct 24"
+    },
+    {
+      "id": 14915,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "Health experts warn of dengue risk post floods",
+      "description": "KUANTAN: Health experts are warning of an upward trend in dengue cases which often occurs after floodwaters recede, and are warning the people \u2013 especially those living in flood-prone areas \u2013 to take precautionary measures and carry out cleaning efforts as so\u2026",
+      "url": "https://www.thestar.com.my/news/nation/2024/10/24/health-experts-warn-of-dengue-risk-post-floods",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/10/24/2982825.jpg",
+      "publishedAt": "2024-10-24 10:36:00",
+      "content": "KUANTAN: Health experts are warning of an upward trend in dengue cases which often occurs after floodwaters recede, and are warning the people especially those living in flood-prone areas to take pre\u2026 [+4998 chars]",
+      "retrievedAt": "2024-10-25 19:05:48.008053",
+      "internal_id": "96f4a49696d0a4259029fb1d18c1365a0b20ac8778afafff49bc85969720269e",
+      "publishedAtLabel": "Oct 24"
+    },
+    {
+      "id": 14928,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.vg.no",
+      "author": "Thea Roll Rakeng, Espen Moe Breivik",
+      "title": "Sexklubb tar grep etter mpox-smitte",
+      "description": "Det er p\u00e5vist mpox blant minst \u00e9n person som har deltatt p\u00e5 fester i regi av den skeive fetisjklubben SLM.",
+      "url": "https://www.vg.no/nyheter/i/wgxd9P/sexklubb-tar-grep-etter-mpox-smitte",
+      "urlToImage": "https://akamai.vgc.no/v2/images/7538f81f-c36c-44eb-880f-1bebb5ed59e3?format=auto&w=1080&s=b801cd84b463c943e09adfc2443704b9c6a40417",
+      "publishedAt": "2024-10-24 10:01:28",
+      "content": "Kortversjonen Minst \u00e9n person med p\u00e5vist mpox har deltatt p\u00e5 fester hos fetisjklubben SLM Oslo i oktober.Klubben og helsemyndighetene oppfordrer deltakere om \u00e5 v\u00e6re oppmerksomme p\u00e5 \u2026 [+3475 chars]",
+      "retrievedAt": "2024-10-25 19:05:49.810748",
+      "internal_id": "1a1439a79ca449ca54565615ffed3e6a54fb3ca2e76bf6e3992d87b165c5c485",
+      "publishedAtLabel": "Oct 24"
+    },
+    {
+      "id": 14917,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Bekia.es",
+      "author": "Paula Lima",
+      "title": "Patricia P\u00e9rez muestra orgullosa el progreso de su marido Luis Canut con su enfermedad",
+      "description": "El marido de la colaboradora de 'TardeAR' da una clase a sus seguidores sobre la utilidad del pavimento podot\u00e1ctil que hay en las calles. En Marzo de 2023, la vida de Luis Canut cambi\u00f3 por completo a causa de una meningitis criptoc\u00f3cica, una infecci\u00f3n en el c\u2026",
+      "url": "https://www.bekia.es/celebrities/noticias/patricia-muestra-orgullosa-progreso-luis-canut-enfermedad/",
+      "urlToImage": "https://img.bekia.es/articulos/portada/135000/135888.jpg",
+      "publishedAt": "2024-10-24 09:50:12",
+      "content": "En Marzo de 2023, la vida de Luis Canut cambi\u00f3 por completo a causa de una meningitis criptoc\u00f3cica, una infecci\u00f3n en el cerebro provocada por una levadura, que le ha dejado graves secuelas. El apoyo \u2026 [+2003 chars]",
+      "retrievedAt": "2024-10-25 19:05:48.298052",
+      "internal_id": "f1ef0499c681514078b1f393d960b50f1818753448276c6091279a19b9b25967",
+      "publishedAtLabel": "Oct 24"
+    },
+    {
+      "id": 14936,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Elisabeth Mahase",
+      "title": "Mpox risk to Europe \u201clow\u201d says EU official, but virus and bird flu need monitoring",
+      "description": "Ole Heuer, the newly appointed head of unit disease programmes at the European Centre for Disease Prevention and Control talks to The BMJ about mpox, bird flu, antimicrobial resistance, and pandemic preparedness We at the European Centre for Disease Preventi\u2026",
+      "url": "https://www.bmj.com/content/387/bmj.q2240",
+      "urlToImage": "https://www.bmj.com/sites/default/files/highwire/bmj/387/8446.cover-source.jpg",
+      "publishedAt": "2024-10-24 09:46:02",
+      "content": "Ole Heuer, the newly appointed head of unit disease programmes at the European Centre for Disease Prevention and Control talks to The BMJ about mpox, bird flu, antimicrobial resistance, and pandemic \u2026 [+970 chars]",
+      "retrievedAt": "2024-10-25 19:05:50.060853",
+      "internal_id": "8c72b24cb96f54f68797041990d2580f09e1ab1e8d1df3ac651dabfb90bb24b1",
+      "publishedAtLabel": "Oct 24"
+    },
+    {
+      "id": 14922,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "Un estudio concluye que los anticuerpos maternos interfieren en la vacuna de la malaria en beb\u00e9s",
+      "description": "Un estudio liderado por el Instituto de Salud Global (ISGlobal) de Barcelona, centro impulsado por la Fundaci\u00f3n La Caixa, ha comprobado que los anticuerpos maternos interfieren en la respuesta a la vacuna contra la malaria en beb\u00e9s, informa este jueves en un \u2026",
+      "url": "https://www.infosalus.com/salud-investigacion/noticia-estudio-concluye-anticuerpos-maternos-interfieren-vacuna-malaria-bebes-20241024112314.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20241024112314_1200.jpg",
+      "publishedAt": "2024-10-24 09:23:14",
+      "content": "La eficacia de la vacuna disminuya ante un mayor n\u00famero de anticuerpos maternos transmitidos BARCELONA, 24 Oct. (EUROPA PRESS) - Un estudio liderado por el Instituto de Salud Global (ISGlobal) d\u2026 [+3066 chars]",
+      "retrievedAt": "2024-10-25 19:05:48.849742",
+      "internal_id": "811bd05407c6f10ee36f2d0cef9bd7a195aacea717e104dae64374696c9a8dc3",
+      "publishedAtLabel": "Oct 24"
+    },
+    {
+      "id": 14929,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.vg.no",
+      "author": "NTB",
+      "title": "NRK: Nytt tilfelle av mpox i Oslo \u2013 tredje denne uken",
+      "description": "Det er registrert enda et tilfelle av mpox i Oslo, opplyser Folkehelseinstituttet til NRK.",
+      "url": "https://www.vg.no/nyheter/i/xm5J2Q/nrk-nytt-tilfelle-av-m-kopper-i-oslo-tredje-denne-uken",
+      "urlToImage": "https://akamai.vgc.no/v2/images/96c460f7-663a-4be8-8da4-1fbb9c6d4a07?format=auto&w=1080&s=92c9841f3259fd7f62a81a8f172207d76e5b768d",
+      "publishedAt": "2024-10-24 09:19:07",
+      "content": "Fra f\u00f8r av er det allerede p\u00e5vist to andre tilfeller i hovedstaden denne uken. Forel\u00f8pig regner vi med at iallfall de to f\u00f8rste tilfellene kommer fra samme milj\u00f8 og trolig har en direkte eller ind\u2026 [+1275 chars]",
+      "retrievedAt": "2024-10-25 19:05:49.831909",
+      "internal_id": "964aded991195d8432286a1d78e12a8d228b7d75bc0a8dcf18676892d7581f46",
+      "publishedAtLabel": "Oct 24"
+    },
+    {
+      "id": 14918,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Sputnikportal.rs",
+      "author": "Sputnik \u0421\u0440\u0431\u0438\u0458\u0430",
+      "title": "\u041a\u043e\u0434 \u0447\u0435\u0442\u0432\u043e\u0440\u043e \u0434\u0435\u0446\u0435 \u0443 \u041a\u043e\u0442\u043e\u0440 \u0412\u0430\u0440\u043e\u0448\u0438 \u043f\u043e\u0442\u0432\u0440\u0452\u0435\u043d \u0432\u0438\u0440\u0443\u0441\u043d\u0438 \u043c\u0435\u043d\u0438\u043d\u0433\u0438\u0442\u0438\u0441",
+      "description": "\u041a\u043e\u0434 \u0447\u0435\u0442\u0432\u043e\u0440\u043e \u0434\u0435\u0446\u0435 \u0443 \u041a\u043e\u0442\u043e\u0440 \u0412\u0430\u0440\u043e\u0448\u0438 \u043f\u043e\u0442\u0432\u0440\u0452\u0435\u043d \u0458\u0435 \u0432\u0438\u0440\u0443\u0441\u043d\u0438 \u043c\u0435\u043d\u0438\u043d\u0433\u0438\u0442\u0438\u0441, \u0437\u0431\u043e\u0433 \u0447\u0435\u0433\u0430 \u0441\u0443 \u0442\u0430 \u0434\u0435\u0446\u0430 \u0445\u043e\u0441\u043f\u0438\u0442\u0430\u043b\u0438\u0437\u043e\u0432\u0430\u043d\u0430 \u0443 \u0423\u043d\u0438\u0432\u0435\u0440\u0437\u0438\u0442\u0435\u0442\u0441\u043a\u043e\u043c \u043a\u043b\u0438\u043d\u0438\u0447\u043a\u043e\u043c \u0446\u0435\u043d\u0442\u0440\u0443 (\u0423\u041a\u0426) \u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0435 \u0421\u0440\u043f\u0441\u043a\u0435, \u0433\u0434\u0435 \u043f\u0440\u0438\u043c\u0430\u0458\u0443 \u043d\u0435\u043e\u043f\u0445\u043e\u0434\u043d\u0443 \u0442\u0435\u0440\u0430\u043f\u0438\u0458\u0443, \u0430 \u043d\u0438\u043a\u043e \u043d\u0438\u0458\u0435 \u0436\u0438\u0432\u043e\u0442\u043d\u043e \u0443\u0433\u0440\u043e\u0436\u0435\u043d, \u0441\u0430\u043e\u043f\u0448\u0442\u0438\u043e \u0458\u0435 \u0434\u0438\u0440\u0435\u043a\u0442\u043e\u0440 \u043a\u043e\u0442\u043e\u0440\u0432\u0430\u0440\u043e\u0448\u043a\u043e\u0433 \u0414\u043e\u043c\u2026",
+      "url": "https://sputnikportal.rs/20241024/kod-cetvoro-dece-u-kotor-varosi-potvrdjen-virusni-meningitis-1178740776.html",
+      "urlToImage": "https://cdn1.img.sputnikportal.rs/images/sharing/article/srb/1178740776.jpg?11641730921729758843",
+      "publishedAt": "2024-10-24 08:34:00",
+      "content": "99,1 MHz, 100,8 MHz 105,4 MHz https://sputnikportal.rs/20241024/kod-cetvoro-dece-u-kotor-varosi-potvrdjen-virusni-meningitis-1178740776.html , () ... 24.10.2024, Sputnik https://cdn1.img.sputnik\u2026 [+397 chars]",
+      "retrievedAt": "2024-10-25 19:05:48.305151",
+      "internal_id": "9e24dfbb1c236d3f03f8aa0aa34fa54fac084d4f56af1e3ddda50262d8af2bf6",
+      "publishedAtLabel": "Oct 24"
+    },
+    {
+      "id": 14912,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Portfolio.hu",
+      "author": "Portfolio.hu",
+      "title": "\u00daj j\u00e1rv\u00e1nyvesz\u00e9lyre figyelmeztetnek a kutat\u00f3k, m\u00e1r Eur\u00f3p\u00e1ban is fel\u00fct\u00f6tte a fej\u00e9t a s\u00falyos k\u00f3r",
+      "description": "A dengue-l\u00e1z megbeteged\u00e9sek sz\u00e1ma rekordot d\u00f6nt\u00f6tt 2023-ban, \u00e9s az el\u0151rejelz\u00e9sek szerint 2024-ben ez a sz\u00e1m tov\u00e1bb fog emelkedni. A v\u00edrus terjed\u00e9s\u00e9t el\u0151seg\u00edt\u0151 t\u00e9nyez\u0151k k\u00f6z\u00f6tt szerepel az urbaniz\u00e1ci\u00f3, az \u00e9ghajlatv\u00e1ltoz\u00e1s, valamint az elh\u00edz\u00e1s \u00e9s m\u00e1s kr\u00f3nikus be\u2026",
+      "url": "https://www.portfolio.hu/global/20241024/uj-jarvanyveszelyre-figyelmeztetnek-a-kutatok-mar-europaban-is-felutotte-a-fejet-a-sulyos-kor-718533",
+      "urlToImage": "https://pcdn.hu/articles/images-xl/t/i/g/tigrisszunyog-464360.jpg",
+      "publishedAt": "2024-10-24 07:39:00",
+      "content": "A WHO adatai szerint 2023-ban 6,5 milli\u00f3 dengue-l\u00e1z esetet jelentettek vil\u00e1gszerte, ami minden eddigin\u00e9l magasabb sz\u00e1m. 2024-ben ez a sz\u00e1m v\u00e1rhat\u00f3an megdupl\u00e1z\u00f3dik, eddig 12,4 milli\u00f3 esetet regisztr\u00e1\u2026 [+2147 chars]",
+      "retrievedAt": "2024-10-25 19:05:47.942629",
+      "internal_id": "57bb8286c178e23c577ceed0d74b8d1d1bf6612becf9435a1706d6083dfe80c5",
+      "publishedAtLabel": "Oct 24"
+    },
     {
       "id": 14904,
       "query": [
@@ -182,6 +687,24 @@
       "content": "Introduction Malaria remains a significant global health concern, with Anopheles gambiae serving as a primary vector for the transmission of the Plasmodium parasite. In 2022, 249 million cases were \u2026 [+67634 chars]",
       "retrievedAt": "2024-10-24 19:05:45.611113",
       "internal_id": "83976599d48735f7bc88e519f3ae06dffdc7a57e14a5a3005c569ee716736db1",
+      "publishedAtLabel": "Oct 23"
+    },
+    {
+      "id": 14935,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Der Tagesspiegel",
+      "title": "Berlin / Brandenburg: Erster Fall neuer Mpox-Variante in Deutschland",
+      "description": "Erster Fall neuer Mpox-Variante in Deutschland",
+      "url": "https://www.tagesspiegel.de/berlin-brandenburg-erster-fall-neuer-mpox-variante-in-deutschland-12583253.html",
+      "urlToImage": null,
+      "publishedAt": "2024-10-23 13:34:41",
+      "content": "In Deutschland ist erstmals die neue Variante des Mpox-Virus nachgewiesen worden. Die Person habe sich im Ausland mit der sogenannten Klade Ib infiziert, teilte das Robert Koch-Institut mit. In Schwe\u2026 [+215 chars]",
+      "retrievedAt": "2024-10-25 19:05:50.044118",
+      "internal_id": "38dd0e1f399d46deca80eb99379e11f39de3a8ff08a8d93b408ca474d8af3f6c",
       "publishedAtLabel": "Oct 23"
     },
     {
@@ -29674,276 +30197,6 @@
       "content": "Dit is het dagelijkse commentaar van NRC. Het bevat meningen, interpretaties en keuzes. Ze worden geschreven door een groep redacteuren, geselecteerd door de hoofdredacteur. In de commentaren laat \u2026 [+3578 chars]",
       "retrievedAt": "2024-09-10 07:07:16.057070",
       "internal_id": "42f4d94b71f972f4ae2a002f1641f09387bde332e2aa04ffc4695f2eecdc92f4",
-      "publishedAtLabel": "Sep 8"
-    },
-    {
-      "id": 13262,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "DW (English)",
-      "author": "Deutsche Welle",
-      "title": "India detects 1st suspected mpox case",
-      "description": "India's health ministry said it was fully prepared to deal with \"an isolated travel related case\" and said robust measures were in place to contain it. India reported a \"suspected mpox case\" on Sunday and made assurances that it had \"robust measures\" in place\u2026",
-      "url": "https://www.dw.com/en/india-detects-1st-suspected-mpox-case/a-70166401",
-      "urlToImage": "https://static.dw.com/image/70166394_6.jpg",
-      "publishedAt": "2024-09-08 18:19:00",
-      "content": "India reported a \"suspected mpox case\" on Sunday and made assurances that it had \"robust measures\" in place to contain the case, the Health Ministry said in a statement. \"A young male patient, who r\u2026 [+1611 chars]",
-      "retrievedAt": "2024-09-10 07:07:16.242393",
-      "internal_id": "402d213b89d7631f2c385e91c8d9acc172e2b4f2344c579d52ed37c3f585e818",
-      "publishedAtLabel": "Sep 8"
-    },
-    {
-      "id": 13247,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Tass.ru",
-      "author": null,
-      "title": "\u0412 \u0418\u043d\u0434\u0438\u0438 \u0437\u0430\u0444\u0438\u043a\u0441\u0438\u0440\u043e\u0432\u0430\u043b\u0438 \u043f\u0430\u0446\u0438\u0435\u043d\u0442\u0430 \u0441 \u043f\u043e\u0434\u043e\u0437\u0440\u0435\u043d\u0438\u0435\u043c \u043d\u0430 \u043e\u0441\u043f\u0443 \u043e\u0431\u0435\u0437\u044c\u044f\u043d",
-      "description": "\u041f\u0430\u0446\u0438\u0435\u043d\u0442 \u043f\u043e\u043c\u0435\u0449\u0435\u043d \u0432 \u0438\u0437\u043e\u043b\u044f\u0442\u043e\u0440, \u0435\u0433\u043e \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0435 \u0441\u0442\u0430\u0431\u0438\u043b\u044c\u043d\u043e\u0435",
-      "url": "https://tass.ru/obschestvo/21807789",
-      "urlToImage": "https://cdn-storage-media.tass.ru/thumb/ru/obschestvo/21807789?u=2024-09-08T17:43:19.389676",
-      "publishedAt": "2024-09-08 17:43:19",
-      "content": "-, 8 . //. , (mpox), . . \" . . \", - X ( Twitter). , , , , . , . , , . \" . , [] \", - . . 14 2024 . 2022 - 23 . 20 , . - , , . , , , . 1% 10%. .",
-      "retrievedAt": "2024-09-09 19:05:45.882583",
-      "internal_id": "1e1ce8964493a04c0719a999815bc716d97877d91f4d3ffddcc2ca2df9103195",
-      "publishedAtLabel": "Sep 8"
-    },
-    {
-      "id": 13264,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Montevideo.com.uy",
-      "author": "Montevideo Portal",
-      "title": "La India examina primer caso sospechoso de viruela del mono durante la emergencia global",
-      "description": "La OMS declar\u00f3 la alerta de salud p\u00fablica de inter\u00e9s internacional, principalmente debido a la aparici\u00f3n de una variante muy contagiosa.",
-      "url": "https://www.montevideo.com.uy/Salud/La-India-examina-primer-caso-sospechoso-de-viruela-del-mono-durante-la-emergencia-global-uc899570",
-      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202207/_W933_80/808770.jpg",
-      "publishedAt": "2024-09-08 16:40:00",
-      "content": "El ministerio de Salud y Bienestar Familiar de la India inform\u00f3 este domingo en un comunicado de que est\u00e1 examinando a un paciente sospechoso de mpox -antes conocida como viruela del mono-, aunque\u2026 [+2191 chars]",
-      "retrievedAt": "2024-09-10 07:07:16.266958",
-      "internal_id": "f1fa0501f14fb0b047bf5898e12171b7d3ba61687a994d915d835a2b1eca2b3b",
-      "publishedAtLabel": "Sep 8"
-    },
-    {
-      "id": 13245,
-      "query": [
-        "mpox"
-      ],
-      "source_id": "al-jazeera-english",
-      "source_name": "Al Jazeera English",
-      "author": "Al Jazeera",
-      "title": "India records first suspected mpox case, male patient in isolation",
-      "description": "The health ministry says the young patient recently travelled from a country experiencing the virus outbreak.",
-      "url": "https://www.aljazeera.com/news/2024/9/8/india-records-first-suspected-mpox-case-male-patient-in-isolation",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/06/AP23144753871232-1719575316.jpg?resize=1920%2C1400",
-      "publishedAt": "2024-09-08 15:06:15",
-      "content": "Indias health ministry says it has recorded a suspected case of mpox found in a man who recently travelled from a country suffering an outbreak of the virus. The young male patient has been isolated\u2026 [+2057 chars]",
-      "retrievedAt": "2024-09-09 19:05:45.729713",
-      "internal_id": "5298a1d8fa6e325f19e1737a67ebd2ac8cb33e9a234e1fe3e5f47d80b5df0060",
-      "publishedAtLabel": "Sep 8"
-    },
-    {
-      "id": 13246,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Forbes",
-      "author": "Joshua P. Cohen, Senior Contributor, \n Joshua P. Cohen, Senior Contributor\n https://www.forbes.com/sites/joshuacohen/",
-      "title": "Amid Steep Rise In Mpox Cases, Vaccination Drive In Africa Becomes More Urgent",
-      "description": "Amid an expanding outbreak of Mpox, it\u2019s critical that the African vaccination drive succeeds to contain the emergency there and reduce the risk of it spreading globally.",
-      "url": "https://www.forbes.com/sites/joshuacohen/2024/09/08/amid-steep-rise-in-mpox-cases-vaccination-drive-in-africa-becomes-more-urgent/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66bf18af8d833737844a818c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2024-09-08 14:04:01",
-      "content": "A patient shows his hand with a sore caused by an infection of the mpox virus. (Photo by Ernesto ... [+] BENAVIDES / AFP) (Photo by ERNESTO BENAVIDES/AFP via Getty Images) AFP via Getty Images The \u2026 [+5679 chars]",
-      "retrievedAt": "2024-09-09 19:05:45.754914",
-      "internal_id": "1556e3395d29edeb65d64fe1433da0163cdf734e160244cb1da10580f763a672",
-      "publishedAtLabel": "Sep 8"
-    },
-    {
-      "id": 13249,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "BusinessLine",
-      "author": "BL New Delhi Bureau",
-      "title": "Suspected Mpox case under probe, no cause for alarm, says Govt",
-      "description": "Man who recently travelled to India from another country has been identified as a suspected case of the disease in India, the Union Health Ministry said",
-      "url": "https://www.thehindubusinessline.com/news/suspected-mpox-case-under-probe-no-cause-for-alarm-says-govt/article68618549.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/k563oq/article68618772.ece/alternates/LANDSCAPE_1200/2024-08-23T094343Z_1793304980_RC25DU9SZPC8_RTRMADP_3_HEALTH-MPOX-GERMANY-VACCINE.JPG",
-      "publishedAt": "2024-09-08 13:38:36",
-      "content": "A man, who recently travelled from another country experiencing Mpox (earlier known as monkeypox) transmission, has been identified as a suspected case of the disease in India, the Union Health Minis\u2026 [+845 chars]",
-      "retrievedAt": "2024-09-09 19:05:45.977228",
-      "internal_id": "1c6f5ba9609afa2337a61e24c304fe81ee2c7957b5c8a660c2a71ae429bc4799",
-      "publishedAtLabel": "Sep 8"
-    },
-    {
-      "id": 13243,
-      "query": [
-        "rabies"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "PTI",
-      "title": "Vengeance likely reason behind wolf attacks in UP's Bahraich, say officials",
-      "description": "In Bahraich, Uttar Pradesh, wolves have killed six people and injured several others. The forest department has trapped four wolves but attacks continue. Authorities speculate rabies or revenge as possible causes. Efforts to capture the remaining wolves are o\u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/vengeance-likely-reason-behind-wolf-attacks-in-ups-bahraich-say-officials/articleshow/113169632.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-113169650,width-1200,height-630,imgsize-78480,overlay-economictimes/photo.jpg",
-      "publishedAt": "2024-09-08 13:00:55",
-      "content": "An invasion of wolves is keeping the forest authorities on their toes in Bahraich, where the animal is suspected to have killed at least six people and wounded several, all within a very short span. \u2026 [+4348 chars]",
-      "retrievedAt": "2024-09-09 19:05:42.387371",
-      "internal_id": "a51c561e32ccf1b1a5229da821b8b5d0328b1edae05c40da1c5372099efcd911",
-      "publishedAtLabel": "Sep 8"
-    },
-    {
-      "id": 13274,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "The Star Online",
-      "title": "India reports case of mpox in traveller from affected country",
-      "description": "(Reuters) - India had recorded a suspected case of mpox found in a man who recently travelled from a country suffering an outbreak of the virus, the health ministry said on Sunday. Read full story",
-      "url": "https://www.thestar.com.my/news/world/2024/09/08/india-reports-case-of-mpox-in-traveller-from-affected-country",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/09/08/2902217.jpg",
-      "publishedAt": "2024-09-08 11:51:00",
-      "content": "(Reuters) - India had recorded a suspected case of mpox found in a man who recently travelled from a country suffering an outbreak of the virus, the health ministry said on Sunday. The patient has b\u2026 [+987 chars]",
-      "retrievedAt": "2024-09-10 07:07:16.329097",
-      "internal_id": "7ef9755bfb1327f914b8ed3743c4edd43d648c123b65758a219397f6bae5fd64",
-      "publishedAtLabel": "Sep 8"
-    },
-    {
-      "id": 13248,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Vz.ru",
-      "author": "\u0413\u043b\u0435\u0431 \u041a\u0443\u0437\u043d\u0435\u0446\u043e\u0432, \u043f\u043e\u043b\u0438\u0442\u043e\u043b\u043e\u0433",
-      "title": "\u041c\u043d\u0435\u043d\u0438\u044f: \u0423 \u043e\u0441\u043f\u044b \u043e\u0431\u0435\u0437\u044c\u044f\u043d \u0435\u0441\u0442\u044c \u043e\u0434\u043d\u0430 \u043d\u0435\u043f\u0440\u0438\u044f\u0442\u043d\u0430\u044f \u0434\u043b\u044f \u0431\u0438\u043e\u0442\u0435\u0445\u0430 \u043e\u0441\u043e\u0431\u0435\u043d\u043d\u043e\u0441\u0442\u044c",
-      "description": "\u041c\u0438\u0440 \u0431\u0438\u043e\u0442\u0435\u0445\u0430 \u2013 \u043d\u0435\u0438\u0441\u0442\u043e\u0449\u0438\u043c\u044b\u0439 \u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a \u0438\u0441\u0442\u043e\u0440\u0438\u0439 \u00ab\u0441\u0440\u0430\u0437\u0443 \u043f\u0440\u043e \u0432\u0441\u0451\u00bb. \u041c\u0438\u0440 \u0431\u0438\u043e\u0442\u0435\u0445\u0430 \u2013 \u043d\u0435\u0438\u0441\u0442\u043e\u0449\u0438\u043c\u044b\u0439 \u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a \u0438\u0441\u0442\u043e\u0440\u0438\u0439 \u00ab\u0441\u0440\u0430\u0437\u0443 \u043f\u0440\u043e \u0432\u0441\u0451\u00bb. \u0418\u0441\u0442\u043e\u0440\u0438\u044f \u043f\u0440\u043e \u043e\u0441\u043f\u0443 \u043e\u0431\u0435\u0437\u044c\u044f\u043d (\u044d\u0442\u043e \u00ab\u043a\u0430\u043d\u0434\u0438\u0434\u0430\u0442 \u0432 \u043a\u043e\u0432\u0438\u0434\u044b\u00bb \u043d\u0430 \u0441\u043b\u0443\u0447\u0430\u0439 \u0432\u043d\u0435\u0437\u0430\u043f\u043d\u043e\u0433\u043e \u043f\u0440\u0435\u043a\u0440\u0430\u0449\u0435\u043d\u0438\u044f \u0432\u043e\u0439\u043d\u044b) \u043c\u0435\u0434\u043b\u0435\u043d\u043d\u043e \u043a\u0440\u0443\u0442\u0438\u0442\u0441\u044f \u043d\u0430 \u043f\u043e\u043b\u0443\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u0438 \u0437\u0430\u043f\u0430\u0434\u043d\u044b\u0445 \u043c\u0435\u0434\u0438\u0430\u2026",
-      "url": "https://vz.ru/opinions/2024/9/8/1286142.html",
-      "urlToImage": "https://img.vz.ru/upimg/soc/soc_1286142.jpg",
-      "publishedAt": "2024-09-08 11:43:03",
-      "content": "\u00ab \u00bb. ( \u00ab \u00bb ) . (), SIGA. SIGA , , . . . , . . , ( ) 2008 . , , 200 80%. , . , 2022-, (mPO). \u00ab \u00bb. SIGA , \u00ab \u00bb, mPOX. . . . 2022-. 2024- , , -. , . \u00ab \u00bb \u00ab \u00bb, (, ) . SIGA . . , 2\u2026 [+129 chars]",
-      "retrievedAt": "2024-09-09 19:05:45.952672",
-      "internal_id": "b4409cdce6c159b0bda0acab4ee940d17f25343e9f455bb1309df4af3f0a6af2",
-      "publishedAtLabel": "Sep 8"
-    },
-    {
-      "id": 13273,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Business Standard",
-      "author": "Sanket Koul",
-      "title": "Health ministry reports first suspected case of mpox virus in India",
-      "description": "The patient has been isolated in a designated hospital and is currently stable. Samples from the patient are currently being tested to confirm the presence of Mpox",
-      "url": "https://www.business-standard.com/health/health-ministry-reports-first-suspected-case-of-mpox-virus-in-india-124090800399_1.html",
-      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-08/23/thumb/featurecrop/400X400/1724394719-3511.jpg",
-      "publishedAt": "2024-09-08 11:32:30",
-      "content": "Samples from the patient, put under isolation, currently being tested to confirm presence of the virus (Photo: Shutterstock) Sanket KoulNew Delhi India on Sunday reported the first suspected case \u2026 [+1753 chars]",
-      "retrievedAt": "2024-09-10 07:07:16.321551",
-      "internal_id": "1338e28452e459b73a4eb47d0a0a5ddd4db2cefa4aa77e2ee84637a641a217ca",
-      "publishedAtLabel": "Sep 8"
-    },
-    {
-      "id": 13271,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Aftonbladet.se",
-      "author": null,
-      "title": "Misst\u00e4nkt mpox-fall i nytt land",
-      "description": "\u25b8 Indien har sitt f\u00f6rsta fall av misst\u00e4nkt mpox-smitta. En person som varit p\u00e5 resa d\u00e4r smittan har spridning har efter\u2026",
-      "url": "https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1289283",
-      "urlToImage": "https://images.aftonbladet-cdn.se/v2/images/156fc268-adec-4fec-ac17-baa7f1dbdb35?fit=crop&format=auto&h=56&q=50&w=100&s=8d717b112fa508073dcc3292ac8f7acfdc612d33",
-      "publishedAt": "2024-09-08 11:30:10",
-      "content": "TRE NYHETER FR\u00c5N DAGEN DU INTE F\u00c5R MISSA: Misst\u00e4nkt mpox-fall i nytt land Indien har sitt f\u00f6rsta fall av misst\u00e4nkt mpox-smitta. En person som varit p\u00e5 resa d\u00e4r smittan har spridning har ef\u2026 [+10065 chars]",
-      "retrievedAt": "2024-09-10 07:07:16.309059",
-      "internal_id": "654129c8adb728d844f052422b56a4c6336ca1ccb4959751e7a86e64a25cccd6",
-      "publishedAtLabel": "Sep 8"
-    },
-    {
-      "id": 13263,
-      "query": [
-        "mpox"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "ET Online",
-      "title": "India reports first suspected case of Mpox: Symptoms, prevention, transmission and WHO norms on vaccination",
-      "description": "India's health ministry has identified a suspected Mpox case in a young male who recently traveled from an outbreak area. The patient is stable and isolated while tests are conducted. Mpox, also known as monkeypox, spreads through close contact and contaminat\u2026",
-      "url": "https://economictimes.indiatimes.com/magazines/panache/india-reports-first-suspected-case-of-mpox-monkeypox-symptoms-prevention-transmission-and-who-norms-on-vaccination/articleshow/113168254.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-113168329,width-1200,height-630,imgsize-1576098,overlay-etpanache/photo.jpg",
-      "publishedAt": "2024-09-08 11:28:06",
-      "content": "A young male patient who recently traveled from a country currently facing Mpox transmission has been identified as a suspected case, according to India's health ministry. The patient is isolated in \u2026 [+5113 chars]",
-      "retrievedAt": "2024-09-10 07:07:16.252297",
-      "internal_id": "b17553f9f6ca966d2db2ed279a115178db1e53e62bf548fcc28d65aa08ec00ee",
-      "publishedAtLabel": "Sep 8"
-    },
-    {
-      "id": 13250,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "NDTV News",
-      "author": null,
-      "title": "India's 1st Mpox Case? Centre Says Man Isolated, No Cause For Alarm",
-      "description": "A man who recently returned from a country fighting the Mpox virus has been isolated in a hospital and his samples are being tested to confirm the infection, the government said today. The Centre has said there is no cause for alarm",
-      "url": "https://www.ndtv.com/india-news/indias-1st-mpox-case-centre-says-man-isolated-no-cause-for-alarm-6518374",
-      "urlToImage": "https://c.ndtvimg.com/2024-08/1n5d9p5_mpox-reuters_625x300_24_August_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-      "publishedAt": "2024-09-08 11:10:12",
-      "content": "WHO has declared Mpox a public health emergency of international concern A man who recently returned from a country fighting the Mpox virus has been isolated in a hospital and his samples are being \u2026 [+3085 chars]",
-      "retrievedAt": "2024-09-09 19:05:46.037586",
-      "internal_id": "ae2e45abcbaf33c723454adea87da769be210d73ce54cd7c51ad67b7e1f99e86",
-      "publishedAtLabel": "Sep 8"
-    },
-    {
-      "id": 13269,
-      "query": [
-        "mpox"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "ET Online",
-      "title": "Suspected mpox case under probe in India, no cause for alarm, says Govt",
-      "description": "A man who recently travelled from a country with mpox transmission has been identified as a suspected case, according to the Union health ministry. He is isolated and stable at a designated hospital. Samples are being tested, and contact tracing is ongoing. T\u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/suspected-mpox-case-under-probe-no-cause-for-alarm-govt/articleshow/113167893.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-113167899,width-1200,height-630,imgsize-120226,overlay-economictimes/photo.jpg",
-      "publishedAt": "2024-09-08 11:03:48",
-      "content": "A man who recently travelled from a country experiencing mpox transmission has been identified as a suspected case of the disease, the Union health ministry said on Sunday. The patient has been isola\u2026 [+988 chars]",
-      "retrievedAt": "2024-09-10 07:07:16.297470",
-      "internal_id": "d64c5ac3cc4b6b127abd122286e2d572bfa7c008f4413c66ccf2f25cb0c4e24c",
-      "publishedAtLabel": "Sep 8"
-    },
-    {
-      "id": 13244,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "etimes.in",
-      "title": "Laughter Chefs' Rahul Vaidya updates fans about having 104 degrees of fever; reveals dengue spoiled his Ganesh Chaturthi celebration",
-      "description": "Rahul Vaidya announced on social media that he has been diagnosed with dengue, leading him to miss Ganesh Chaturthi celebrations. The singer, known for Bigg Boss 14 and Khatron Ke Khiladi, posted a selfie showing his condition. Fans are eagerly waiting for mo\u2026",
-      "url": "https://timesofindia.indiatimes.com/tv/news/hindi/laughter-chefs-rahul-vaidya-updates-fans-about-having-104-degrees-of-fever-reveals-dengue-spoiled-his-ganesh-chaturthi-celebration/articleshow/113164874.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-113165120,width-1070,height-580,imgsize-1095048,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-09-08 08:22:14",
-      "content": "Nayanthara to Aditi Rao Hydari, best photos of the week",
-      "retrievedAt": "2024-09-09 19:05:43.803297",
-      "internal_id": "50aebbf02a6efc4ff2aa481a3f6f2fd4cacc93faeb430edd2bbdcbce25e95149",
       "publishedAtLabel": "Sep 8"
     }
   ]
