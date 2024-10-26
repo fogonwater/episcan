@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 14
-- **Last harvest:** 2024-10-26 07:06
-- **Most recent article:** 2024-10-25 05:58:55
+- **New articles in last harvest:** 16
+- **Last harvest:** 2024-10-26 19:05
+- **Most recent article:** 2024-10-25 18:56:27
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-37 | 24-38 | 24-39 | 24-40 | 24-41 | 24-42 | 24-43 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 192 | 140 | 122 | 128 | 42 | 81 | 114 | 819 |
-| dengue | 74 | 73 | 49 | 51 | 35 | 50 | 32 | 364 |
+| mpox | 179 | 140 | 122 | 128 | 42 | 81 | 116 | 808 |
+| dengue | 73 | 73 | 49 | 51 | 35 | 50 | 41 | 372 |
 | h5n1 | 10 | 17 | 35 | 50 | 10 | 18 | 12 | 152 |
 | malaria | 11 | 15 | 24 | 10 | 13 | 18 | 57 | 148 |
-| rabies | 5 | 13 | 25 | 30 | 6 | 7 | 1 | 87 |
+| rabies | 4 | 13 | 25 | 30 | 6 | 7 | 2 | 87 |
 | chikungunya | 13 | 9 | 3 | 3 | 3 | 4 | 7 | 42 |
+| meningitis | 3 | 10 | 6 | 11 | 2 | 1 | 6 | 39 |
 | zika | 10 | 8 | 1 | 3 | 4 | 6 | 6 | 38 |
-| meningitis | 3 | 10 | 6 | 11 | 2 | 1 | 4 | 37 |
 | measles | 5 | 8 | 4 | 6 | 5 | 3 | 1 | 32 |
-| pertussis | 5 | 3 | 3 | 2 | 2 | 9 | 2 | 26 |
+| pertussis | 5 | 3 | 3 | 2 | 2 | 9 | 3 | 27 |
 | leptospirosis | 0 | 1 | 5 | 4 | 1 | 1 | 0 | 12 |
 | hpai | 1 | 0 | 2 | 2 | 1 | 2 | 2 | 10 |
-| typhoid | 0 | 0 | 4 | 1 | 0 | 1 | 2 | 8 |
+| typhoid | 0 | 0 | 4 | 1 | 0 | 1 | 3 | 9 |
 | yersinia | 0 | 2 | 2 | 1 | 1 | 0 | 0 | 6 |
 | shigellosis | 0 | 0 | 0 | 1 | 3 | 0 | 1 | 5 |
 
@@ -49,6 +49,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-43 (typhoid)
 
+- [Did you know Vaishali actor Sanjay Mitra was originally cast for Ashokan's role in 'Amaram'?](https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/did-you-know-vaishali-actor-sanjay-mitra-was-originally-cast-for-ashokans-role-in-amaram/articleshow/114584424.cms) (The Times of India)
+
 - [WHO prequalifies Zydus’s Typhoid vaccine for UN procurement, stocks rise](https://www.thehindubusinessline.com/markets/stock-markets/who-prequalifies-zyduss-typhoid-vaccine-for-un-procurement-stocks-rise/article68786210.ece) (BusinessLine)
 
 - [Zydus Lifesciences gets WHO prequalification for Typhoid Vi conjugate vaccine](https://economictimes.indiatimes.com/industry/healthcare/biotech/zydus-lifesciences-gets-who-prequalification-for-typhoid-vi-conjugate-vaccine/articleshow/114492728.cms) (The Times of India)
@@ -59,15 +61,23 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-43 (rabies)
 
+- [LakeShore Biopharma to test simplified rabies vaccine regimen](https://www.investing.com/news/company-news/lakeshore-biopharma-to-test-simplified-rabies-vaccine-regimen-93CH-3683471) (Investing.com)
+
 - [Here's what you need to know about rabies](https://www.cbc.ca/radio/whitecoat/rabies-what-to-know-1.7355401) (CBC News)
 
 ## 24-43 (pertussis)
+
+- [For the Youngest, Pertussis Is Dangerous and Preventable](https://insights.som.yale.edu/insights/for-the-youngest-pertussis-is-dangerous-and-preventable) (Yale.edu)
 
 - [Weszły bezpłatne szczepienia przeciw krztuścowi dla ciężarnych. Czy to pomoże w walce z chorobą?](https://natemat.pl/zdrowie/573472,krztusiec-to-grozna-szczegolnie-dla-dzieci-zakazna-choroba-bakteryjna) (Natemat.pl)
 
 - [Заболеваемость коклюшем в российском регионе превысила многолетний уровень в 6,6 раза](https://life.ru/p/1696250) (Life.ru)
 
 ## 24-43 (mpox)
+
+- [Nova variante da Mpox transmitida principalmente entre humanos](https://observador.pt/2024/10/25/nova-variante-da-mpox-transmitida-principalmente-entre-humanos/) (Observador.pt)
+
+- [Mpox - what we know... and what we don't](https://www.bbc.com/news/videos/cjdl5zgm25no) (BBC News)
 
 - [Le nouveau variant de mpox se transmet surtout entre humains, selon une étude](https://fr.sputniknews.africa/20241025/le-nouveau-variant-de-mpox-se-transmet-surtout-entre-humains-selon-une-etude-1068867770.html) (Sputniknews.africa)
 
@@ -299,6 +309,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-43 (meningitis)
 
+- [Abia combats polio with improved healthcare, awareness](https://punchng.com/abia-combats-polio-with-improved-healthcare-awareness/) (The Punch)
+
+- [Patras: A student was hospitalized with meningitis after fainting in class](https://en.protothema.gr/2024/10/25/patras-a-student-was-hospitalized-with-meningitis-after-fainting-in-class/) (Protothema.gr)
+
 - [リュウジ氏、「手の無い乙武さんに手料理作らせてみた」通報殺到で“動画タイトル”変更「俺はやめようって言ったんですが…」釈明](https://itainews.com/archives/2040959.html) (Itainews.com)
 
 - [Patricia Pérez muestra orgullosa el progreso de su marido Luis Canut con su enfermedad](https://www.bekia.es/celebrities/noticias/patricia-muestra-orgullosa-progreso-luis-canut-enfermedad/) (Bekia.es)
@@ -460,6 +474,24 @@ Source: [News API](https://newsapi.org/)
 - [Inside the Bungled Bird Flu Response, Where Profits Collide With Public Health](https://www.vanityfair.com/news/story/inside-the-bungled-bird-flu-response) (Vanity Fair)
 
 ## 24-43 (dengue)
+
+- [বিজিবি ও বিএসএফের মহাপরিচালক পর্যায়ের বৈঠক স্থগিত](https://bangla.thedailystar.net/news/asia/india/news-624781) (The Daily Star)
+
+- [Vista resident hospitalized in second case of dengue in county](https://www.kpbs.org/news/health/2024/10/25/vista-resident-hospitalized-in-second-case-of-dengue-in-county) (KPBS)
+
+- [‘নতুন সংস্কার প্রয়োজন নেই, জনগণ অনির্দিষ্টকাল নির্বাচনের অপেক্ষা করবে না’](https://bangla.thedailystar.net/news/bangladesh/politics/news-624776) (The Daily Star)
+
+- [আমরা আওয়ামী লীগ নিষিদ্ধ চাই না, সব প্রতিপক্ষ নির্বাচনে আসুক: খায়রুল কবির](https://bangla.thedailystar.net/news/bangladesh/politics/news-624771) (The Daily Star)
+
+- [মীরসরাইয়ে নিখোঁজের ৩ দিন পর ওয়ার্ড আওয়ামী লীগ নেতার মরদেহ উদ্ধার](https://bangla.thedailystar.net/news/bangladesh/crime-justice/news-624766) (The Daily Star)
+
+- [কালুরঘাট সেতুতে যান চলাচল শুরু রোববার](https://bangla.thedailystar.net/news/bangladesh/news-624746) (The Daily Star)
+
+- [অর্থপাচারে অভিযুক্ত এস আলম গ্রুপের কর্মকর্তা ভারত যাওয়ার সময় আটক](https://bangla.thedailystar.net/news/bangladesh/crime-justice/news-624731) (The Daily Star)
+
+- [ঢাবিতে ভবনের লিফট ছিঁড়ে কর্মকর্তার মৃত্যু](https://bangla.thedailystar.net/news/bangladesh/accident-fire/news-624721) (The Daily Star)
+
+- [ডেঙ্গু: ২৪ ঘণ্টায় একজনের মৃত্যু, হাসপাতালে ৪৭৭](https://bangla.thedailystar.net/health/disease/news-624716) (The Daily Star)
 
 - [PM Oli urges collective efforts to combat dengue](https://english.khabarhub.com/2024/25/408477/) (Khabarhub.com)
 
@@ -3141,8 +3173,6 @@ Source: [News API](https://newsapi.org/)
 
 - [75 die of monsoon ailments, 12 due to rabies in Maharashtra this year](https://timesofindia.indiatimes.com/city/mumbai/75-die-of-monsoon-ailments-12-due-to-rabies-in-maharashtra-this-year/articleshow/113332688.cms) (The Times of India)
 
-- [Vengeance likely reason behind wolf attacks in UP's Bahraich, say officials](https://economictimes.indiatimes.com/news/india/vengeance-likely-reason-behind-wolf-attacks-in-ups-bahraich-say-officials/articleshow/113169632.cms) (The Times of India)
-
 ## 24-37 (pertussis)
 
 - [Coyotes football game at Portland State called off due to illness](https://www.mitchellrepublic.com/sports/college/coyotes-football-game-at-portland-state-called-off-due-to-illness) (Mitchellrepublic.com)
@@ -3515,32 +3545,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Mpox-vaccins sturen naar Afrika is ook in Nederlands belang](https://www.nrc.nl/nieuws/2024/09/08/mpox-vaccins-sturen-naar-afrika-is-ook-in-nederlands-belang-a4864952) (Www.nrc.nl)
 
-- [India detects 1st suspected mpox case](https://www.dw.com/en/india-detects-1st-suspected-mpox-case/a-70166401) (DW (English))
-
-- [В Индии зафиксировали пациента с подозрением на оспу обезьян](https://tass.ru/obschestvo/21807789) (Tass.ru)
-
-- [La India examina primer caso sospechoso de viruela del mono durante la emergencia global](https://www.montevideo.com.uy/Salud/La-India-examina-primer-caso-sospechoso-de-viruela-del-mono-durante-la-emergencia-global-uc899570) (Montevideo.com.uy)
-
-- [India records first suspected mpox case, male patient in isolation](https://www.aljazeera.com/news/2024/9/8/india-records-first-suspected-mpox-case-male-patient-in-isolation) (Al Jazeera English)
-
-- [Amid Steep Rise In Mpox Cases, Vaccination Drive In Africa Becomes More Urgent](https://www.forbes.com/sites/joshuacohen/2024/09/08/amid-steep-rise-in-mpox-cases-vaccination-drive-in-africa-becomes-more-urgent/) (Forbes)
-
-- [Suspected Mpox case under probe, no cause for alarm, says Govt](https://www.thehindubusinessline.com/news/suspected-mpox-case-under-probe-no-cause-for-alarm-says-govt/article68618549.ece) (BusinessLine)
-
-- [India reports case of mpox in traveller from affected country](https://www.thestar.com.my/news/world/2024/09/08/india-reports-case-of-mpox-in-traveller-from-affected-country) (The Star Online)
-
-- [Мнения: У оспы обезьян есть одна неприятная для биотеха особенность](https://vz.ru/opinions/2024/9/8/1286142.html) (Vz.ru)
-
-- [Health ministry reports first suspected case of mpox virus in India](https://www.business-standard.com/health/health-ministry-reports-first-suspected-case-of-mpox-virus-in-india-124090800399_1.html) (Business Standard)
-
-- [Misstänkt mpox-fall i nytt land](https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1289283) (Aftonbladet.se)
-
-- [India reports first suspected case of Mpox: Symptoms, prevention, transmission and WHO norms on vaccination](https://economictimes.indiatimes.com/magazines/panache/india-reports-first-suspected-case-of-mpox-monkeypox-symptoms-prevention-transmission-and-who-norms-on-vaccination/articleshow/113168254.cms) (The Times of India)
-
-- [India's 1st Mpox Case? Centre Says Man Isolated, No Cause For Alarm](https://www.ndtv.com/india-news/indias-1st-mpox-case-centre-says-man-isolated-no-cause-for-alarm-6518374) (NDTV News)
-
-- [Suspected mpox case under probe in India, no cause for alarm, says Govt](https://economictimes.indiatimes.com/news/india/suspected-mpox-case-under-probe-no-cause-for-alarm-govt/articleshow/113167893.cms) (The Times of India)
-
 ## 24-37 (meningitis)
 
 - [Family of Aoife Johnston call for report into her death at UHL to be published immediately](https://www.irishtimes.com/health/2024/09/12/family-of-aoife-johnston-call-for-report-into-her-death-at-uhl-to-be-published-immediately/) (The Irish Times)
@@ -3758,8 +3762,6 @@ Source: [News API](https://newsapi.org/)
 - [Estudo desvenda como os mosquitos da dengue acham vítimas no escuro](https://gizmodo.uol.com.br/estudo-desvenda-como-os-mosquitos-da-dengue-acham-vitimas-no-escuro/) (Uol.com.br)
 
 - [Puerta a puerta: así es el operativo en 6947 domicilios para conocer cuántos porteños ya tuvieron dengue](https://www.lanacion.com.ar/sociedad/puerta-a-puerta-asi-es-el-operativo-en-6947-domicilios-para-conocer-cuantos-portenos-ya-tuvieron-nid08092024/) (La Nacion)
-
-- [Laughter Chefs' Rahul Vaidya updates fans about having 104 degrees of fever; reveals dengue spoiled his Ganesh Chaturthi celebration](https://timesofindia.indiatimes.com/tv/news/hindi/laughter-chefs-rahul-vaidya-updates-fans-about-having-104-degrees-of-fever-reveals-dengue-spoiled-his-ganesh-chaturthi-celebration/articleshow/113164874.cms) (The Times of India)
 
 ## 24-37 (chikungunya)
 
