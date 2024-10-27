@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 16
-- **Last harvest:** 2024-10-26 19:05
-- **Most recent article:** 2024-10-25 18:56:27
+- **New articles in last harvest:** 19
+- **Last harvest:** 2024-10-27 07:06
+- **Most recent article:** 2024-10-26 05:05:41
 
 ---
 
@@ -10,23 +10,23 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 24-37 | 24-38 | 24-39 | 24-40 | 24-41 | 24-42 | 24-43 | Total |
-|--|-|-|-|-|-|-|-|-|
-| mpox | 179 | 140 | 122 | 128 | 42 | 81 | 116 | 808 |
-| dengue | 73 | 73 | 49 | 51 | 35 | 50 | 41 | 372 |
-| h5n1 | 10 | 17 | 35 | 50 | 10 | 18 | 12 | 152 |
-| malaria | 11 | 15 | 24 | 10 | 13 | 18 | 57 | 148 |
-| rabies | 4 | 13 | 25 | 30 | 6 | 7 | 2 | 87 |
-| chikungunya | 13 | 9 | 3 | 3 | 3 | 4 | 7 | 42 |
-| meningitis | 3 | 10 | 6 | 11 | 2 | 1 | 6 | 39 |
-| zika | 10 | 8 | 1 | 3 | 4 | 6 | 6 | 38 |
-| measles | 5 | 8 | 4 | 6 | 5 | 3 | 1 | 32 |
-| pertussis | 5 | 3 | 3 | 2 | 2 | 9 | 3 | 27 |
-| leptospirosis | 0 | 1 | 5 | 4 | 1 | 1 | 0 | 12 |
-| hpai | 1 | 0 | 2 | 2 | 1 | 2 | 2 | 10 |
-| typhoid | 0 | 0 | 4 | 1 | 0 | 1 | 3 | 9 |
-| yersinia | 0 | 2 | 2 | 1 | 1 | 0 | 0 | 6 |
-| shigellosis | 0 | 0 | 0 | 1 | 3 | 0 | 1 | 5 |
+| Disease | 24-38 | 24-39 | 24-40 | 24-41 | 24-42 | 24-43 | Total |
+|--|-|-|-|-|-|-|-|
+| mpox | 137 | 122 | 128 | 42 | 81 | 128 | 638 |
+| dengue | 73 | 49 | 51 | 35 | 50 | 47 | 305 |
+| h5n1 | 17 | 35 | 50 | 10 | 18 | 12 | 142 |
+| malaria | 15 | 24 | 10 | 13 | 18 | 58 | 138 |
+| rabies | 12 | 25 | 30 | 6 | 7 | 2 | 82 |
+| meningitis | 10 | 6 | 11 | 2 | 1 | 6 | 36 |
+| chikungunya | 9 | 3 | 3 | 3 | 4 | 7 | 29 |
+| zika | 8 | 1 | 3 | 4 | 6 | 6 | 28 |
+| measles | 8 | 4 | 6 | 5 | 3 | 1 | 27 |
+| pertussis | 3 | 3 | 2 | 2 | 9 | 3 | 22 |
+| leptospirosis | 1 | 5 | 4 | 1 | 1 | 0 | 12 |
+| typhoid | 0 | 4 | 1 | 0 | 1 | 3 | 9 |
+| hpai | 0 | 2 | 2 | 1 | 2 | 2 | 9 |
+| yersinia | 2 | 2 | 1 | 1 | 0 | 0 | 6 |
+| shigellosis | 0 | 0 | 1 | 3 | 0 | 1 | 5 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -75,6 +75,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-43 (mpox)
 
+- [TWiV 1160: Clinical update with Dr. Daniel Griffin](https://www.microbe.tv/twiv/twiv-1160/) (Microbe.tv)
+
+- [DR Congo starts second phase of vaccination against mpox](https://www.thestar.com.my/news/world/2024/10/26/dr-congo-starts-second-phase-of-vaccination-against-mpox) (The Star Online)
+
 - [Nova variante da Mpox transmitida principalmente entre humanos](https://observador.pt/2024/10/25/nova-variante-da-mpox-transmitida-principalmente-entre-humanos/) (Observador.pt)
 
 - [Mpox - what we know... and what we don't](https://www.bbc.com/news/videos/cjdl5zgm25no) (BBC News)
@@ -83,11 +87,15 @@ Source: [News API](https://newsapi.org/)
 
 - [Auf dem Weg der Besserung: Mpox-Virus – Ärzte finden heraus, wie sich erster deutscher Patient infizierte](https://www.stern.de/gesundheit/mpox-virus--erster-deutscher-patient-infizierte-sich-in-ruanda-35172032.html) (STERN.de)
 
+- [Mpox : le nouveau variant se transmet surtout entre humains, montre une étude](https://www.sudinfo.be/id904220/article/2024-10-24/mpox-le-nouveau-variant-se-transmet-surtout-entre-humains-montre-une-etude) (Sudinfo.be)
+
 - [Mpox: le nouveau variant se transmet surtout entre humains, montre une étude](https://www.lalibre.be/planete/sante/2024/10/24/mpox-le-nouveau-variant-se-transmet-surtout-entre-humains-montre-une-etude-WNQH2DTCIBENHP3MYFC5UJF6AI/) (Lalibre.be)
 
 - [Noua variantă de mpox se transmite în principal între oameni (studiu)](https://www.digi24.ro/stiri/externe/mapamond/noua-varianta-de-mpox-se-transmite-in-principal-intre-oameni-studiu-2981539) (Digi24.ro)
 
 - [Noua variantă de mpox se transmite în principal de la om la om. O mutație a virusului apărută după câteva decenii](http://hotnews.ro/noua-varianta-de-mpox-se-transmite-in-principal-de-la-om-la-om-o-mutatie-a-virusului-aparuta-dupa-cateva-decenii-1820600) (Hotnews.ro)
+
+- [Deutscher Mpox-Patient hat sich bei Sex in Ruanda angesteckt](https://www.welt.de/gesundheit/article254179432/Affenpocken-Deutscher-Mpox-Patient-hat-sich-bei-Sex-in-Ruanda-angesteckt.html) (DIE WELT)
 
 - [Mpox : le nouveau variant change de logique et se transmet surtout entre humains](https://www.ouest-france.fr/sante/mpox-le-nouveau-variant-change-de-logique-et-se-transmet-surtout-entre-humains-93b9b900-9225-11ef-9c0a-0d32f1fd8b7b) (Ouest-France)
 
@@ -97,15 +105,21 @@ Source: [News API](https://newsapi.org/)
 
 - [Erster deutscher Fall - Kölner (33) infizierte sich mit Affenpocken beim Sex](https://www.bild.de/leben-wissen/erster-deutscher-fall-koelner-33-infizierte-sich-beim-sex-mit-affenpocken-671a5a447094234e22990b78) (Bild)
 
+- [Neue Details bekannt - Erster deutscher Mpox-Patient infizierte sich wohl beim Sex in Ruanda mit Affenpocken](https://www.focus.de/gesundheit/news/neue-details-bekannt-erster-deutscher-mpox-patient-steckte-sich-wohl-beim-sex-in-ruanda-an_id_260422539.html) (Focus)
+
 - [Auf dem Weg der Besserung: Erster deutscher Mpox-Patient hatte Sex in Ruanda](https://www.zeit.de/news/2024-10/24/erster-deutscher-mpox-patient-hatte-sex-in-ruanda) (Die Zeit)
 
 - [Auf dem Weg der Besserung: Erster deutscher Mpox-Patient hatte Sex in Ruanda](https://www.stern.de/gesellschaft/regional/nordrhein-westfalen/auf-dem-weg-der-besserung--erster-deutscher-mpox-patient-hatte-sex-in-ruanda-35172032.html) (STERN.de)
 
 - [Sexklubb i Oslo erbjuder vaccin efter mpox-oro](https://www.svd.se/a/zAxMqv/sexklubb-i-oslo-erbjuder-vaccin-efter-mpox-oro) (Svenska Dagbladet)
 
+- [Sexklubb i Oslo erbjuder vaccin efter mpox-oro](https://www.aftonbladet.se/nyheter/a/dRMvVX/sexklubb-i-oslo-erbjuder-vaccin-efter-mpox-oro) (Aftonbladet.se)
+
 - [Passagerartåg har spårat ur i Nordnorge](https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=48256) (Svenska Dagbladet)
 
 - [Sexklubb tar grep etter mpox-smitte](https://www.vg.no/nyheter/i/wgxd9P/sexklubb-tar-grep-etter-mpox-smitte) (Www.vg.no)
+
+- [Worldwide news story: UK announces support to help Uganda manage mpox outbreak](https://www.gov.uk/government/news/uk-announces-support-to-help-uganda-manage-mpox-outbreak) (Www.gov.uk)
 
 - [Mpox risk to Europe “low” says EU official, but virus and bird flu need monitoring](https://www.bmj.com/content/387/bmj.q2240) (The BMJ)
 
@@ -113,7 +127,11 @@ Source: [News API](https://newsapi.org/)
 
 - [Newer mpox strain poses bigger risk to young women, study shows](https://www.bostonherald.com/2024/10/23/newer-mpox-strain-young-women/) (Boston Herald)
 
+- [SIGA Technologies (SIGA) Shares Tumble After Mpox Therapy Fails, Chief Medical Officer Terminated - Hagens Berman](https://www.globenewswire.com/news-release/2024/10/23/2968236/32716/en/SIGA-Technologies-SIGA-Shares-Tumble-After-Mpox-Therapy-Fails-Chief-Medical-Officer-Terminated-Hagens-Berman.html) (GlobeNewswire)
+
 - [Mpox-Variante in Deutschland - Die Affenpocken und das Schweigen der Behörden](https://www.bild.de/leben-wissen/mpox-virus-die-affenpocken-und-das-aergerliche-schweigen-der-behoerden-6718e6e4a0e636753eda8273) (Bild)
+
+- [Alemania confirma su primer caso de la nueva variante de la viruela del mono](https://www.abc.es/sociedad/alemania-confirma-primer-nueva-variante-viruela-mono-20241023161708-nt.html) (Www.abc.es)
 
 - [Berlin / Brandenburg: Erster Fall neuer Mpox-Variante in Deutschland](https://www.tagesspiegel.de/berlin-brandenburg-erster-fall-neuer-mpox-variante-in-deutschland-12583253.html) (Der Tagesspiegel)
 
@@ -123,9 +141,15 @@ Source: [News API](https://newsapi.org/)
 
 - [Șeful Roche spune că în Europa sunt mai multe cazuri de mpox decât se crede](http://hotnews.ro/seful-roche-spune-ca-in-europa-sunt-mai-multe-cazuri-de-mpox-decat-se-crede-1819351) (Hotnews.ro)
 
+- [Mpox : l’épicentre d’une épidémie hors de contrôle](https://www.francetvinfo.fr/sante/maladie/variole-du-singe/mpox-l-epicentre-d-une-epidemie-hors-de-controle_6853820.html) (Francetvinfo.fr)
+
 - [Στην Ευρώπη έχουν εμφανιστεί περισσότερα κρούσματα mpox από όσα είχαν αναφερθεί σύμφωνα με τον διευθύνοντα σύμβουλο της Roche](https://www.skai.gr/news/health/mpox-ta-krousmata-stin-eyropi-einai-perissotera-apo-osa-eixan-anaferthei-leei-i-roche) (Skai.gr)
 
+- [Mpox: Erster Fall neuer Mpox-Variante in Deutschland gemeldet](https://www.zeit.de/video/2024-10/6363595063112/mpox-erster-fall-neuer-mpox-variante-in-deutschland-gemeldet) (Die Zeit)
+
 - [Γερμανία: Περισσότερα κρούσματα mpox έχουν εμφανιστεί στην Ευρώπη από όσα έχουν ανακοινωθεί, λέει ο CEO της Roche](https://www.protothema.gr/world/article/1554225/germania-perissotera-krousmata-mpox-ehoun-emfanistei-stin-europi-apo-osa-ehoun-anakoinothei-leei-o-ceo-tis-roche/) (Protothema.gr)
+
+- [New mpox variant detected in Germany: health authority](https://neweralive.na/new-mpox-variant-detected-in-germany-health-authority/) (Neweralive.na)
 
 - [Almanya'da M çiçeğinin yeni varyantı Klad 1 ilk kez tespit edildi](https://www.haberturk.com/almanya-da-m-ciceginin-yeni-varyanti-klad-1-ilk-kez-tespit-edildi-3731130) (Haberturk.com)
 
@@ -327,6 +351,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-43 (malaria)
 
+- [Guwahati hosts RRM for Intensified Malaria Elimination Project](https://thehillstimes.in/guwahati/guwahati-hosts-rrm-for-intensified-malaria-elimination-project) (Thehillstimes.in)
+
 - [Chris Hoy's cancer diagnosis, and AI finds us common ground](https://www.thenakedscientists.com/podcasts/naked-scientists-podcast/chris-hoys-cancer-diagnosis-and-ai-finds-us-common-ground) (The Naked Scientists)
 
 - [Zika is still spreading. Why don’t we have a vaccine yet?](https://www.vox.com/future-perfect/379740/zika-virus-vaccine-mosquitoes-climate-change) (Vox)
@@ -474,6 +500,18 @@ Source: [News API](https://newsapi.org/)
 - [Inside the Bungled Bird Flu Response, Where Profits Collide With Public Health](https://www.vanityfair.com/news/story/inside-the-bungled-bird-flu-response) (Vanity Fair)
 
 ## 24-43 (dengue)
+
+- [Fitness compatibility and dengue virus inhibition in a Bangladeshi strain of Aedes aegypti infected with the Wolbachia strain wAlbB](https://www.biorxiv.org/content/10.1101/2024.10.24.620043v1) (Biorxiv.org)
+
+- [El hospital que me cobró sin decirme qué tenía](https://www.nacion.com/opinion/cartas/el-hospital-que-me-cobro-sin-decirme-que-tenia/FONJSM6J7NGMXGHJ2JHNWMW6UU/story/) (Nacion.com)
+
+- [Boulos cobra Nunes por mudança sobre Covid-19; prefeito critica Lula por dengue](https://www.infomoney.com.br/politica/boulos-cobra-nunes-por-mudanca-sobre-covid-19-prefeito-critica-lula-por-dengue/) (InfoMoney)
+
+- [Nunes diz que SP foi 'capital da vacina' e critica governo Lula sobre dengue](https://www.terra.com.br/noticias/brasil/politica/nunes-diz-que-sp-foi-capital-da-vacina-e-critica-governo-lula-sobre-dengue,977f192ef573b4cf5012c7d42a5f358eu01dezgn.html) (Terra.com.br)
+
+- [Por que o mosquito da dengue está mais resistente ao inseticida?](https://catracalivre.com.br/saude-bem-estar/mosquito-da-dengue-inseticida/) (Catracalivre.com.br)
+
+- [Enfermos de dengue superan los 27.000 en lo que va del año](https://www.nacion.com/el-pais/salud/enfermos-de-dengue-superan-los-27000-en-lo-que-va/J2H6SKX54FEK3K4HWKCGNPOLTI/story/) (Nacion.com)
 
 - [বিজিবি ও বিএসএফের মহাপরিচালক পর্যায়ের বৈঠক স্থগিত](https://bangla.thedailystar.net/news/asia/india/news-624781) (The Daily Star)
 
@@ -2569,8 +2607,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Lexington-Fayette County Health Department offers $5 rabies shot for pets](https://www.lex18.com/news/covering-kentucky/lexington-fayette-county-health-department-offers-5-rabies-shot-for-pets) (LEX18 Lexington KY News)
 
-- [When our furry friends turn rabid due to rabies](https://www.thestar.com.my/lifestyle/health/know-your-medicines/2024/09/15/when-our-furry-friends-turn-rabid-due-to-rabies) (The Star Online)
-
 ## 24-38 (pertussis)
 
 - [Whooping cough wave now worst in almost a decade amid back-to-school surge](https://www.cbsnews.com/news/whooping-cough-pertussis-back-to-school-surge/) (CBS News)
@@ -2855,12 +2891,6 @@ Source: [News API](https://newsapi.org/)
 
 - [В Африке с начала года выявили более 25 тыс. случаев с подозрением на mpox](https://tass.ru/obschestvo/21868517) (Tass.ru)
 
-- [State in Sh6.7bn plan to combat Mpox](https://nation.africa/kenya/health/state-in-sh6-7bn-plan-to-combat-mpox-4762504) (Nation.africa)
-
-- [WHO flags limited mpox testing in epicenter DRC](https://www.voanews.com/a/who-flags-limited-mpox-testing-in-epicenter-drc-/7784829.html) (VOA News)
-
-- [Pakistan: Another case of mpox reported at Karachi Airport](https://economictimes.indiatimes.com/news/international/world-news/pakistan-another-case-of-mpox-reported-at-karachi-airport/articleshow/113360010.cms) (The Times of India)
-
 ## 24-38 (meningitis)
 
 - [meningitis pediatric health nursing kmu BSN 5th semester](https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DeQU9Gvyhec0) (YouTube)
@@ -3140,653 +3170,3 @@ Source: [News API](https://newsapi.org/)
 - [Ces épidémies tropicales menacent la France d’ici 5 ans et nous ne sommes pas prêts !](https://www.futura-sciences.com/sante/actualites/epidemie-ces-epidemies-tropicales-menacent-france-ici-5-ans-nous-ne-sommes-pas-prets-116071/) (Futura)
 
 - [Temperature dependence of mosquitoes: Comparing mechanistic and machine learning approaches](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012488) (Plos.org)
-
-## 24-37 (zika)
-
-- [ICMR to advance 1st in-human trials for Zika, flu, blood cancer therapies](https://www.business-standard.com/health/icmr-to-advance-1st-in-human-trials-for-zika-flu-blood-cancer-therapies-124091400458_1.html) (Business Standard)
-
-- [Indian Immunologicals Sign Pact For Clinical Development Of Zika Vaccine](https://www.ndtv.com/india-news/indian-immunologicals-sign-pact-for-clinical-development-of-zika-vaccine-6563580) (NDTV News)
-
-- [Moustique tigre : le risque d’épidémies dans les cinq prochaines années est «assez élevé», avertit l’Anses](https://www.liberation.fr/societe/sante/moustique-tigre-le-risque-depidemies-dans-les-cinq-prochaines-annees-est-assez-eleve-avertit-lanses-20240913_ZVWD7UR2ABCODHWG4TGR5NCZ3M/) (Libération)
-
-- [Moustique tigre en France : la menace qui plane sur les cinq prochaines années](https://www.lexpress.fr/sciences-sante/sante/moustique-tigre-en-france-la-menace-qui-plane-sur-les-cinq-prochaines-annees-47LFNMEU6ZHNRFPU5PXX2TDE5A/) (L'Express)
-
-- [Dengue, chikungunya, Zika ... un risque « assez élevé » d’épidémies liées au moustique tigre en France](https://www.lesoir.be/622492/article/2024-09-13/dengue-chikungunya-zika-un-risque-assez-eleve-depidemies-liees-au-moustique) (Le Soir)
-
-- [Risque « assez élevé » d’épidémies liées au moustique tigre en France](https://www.sudinfo.be/id880437/article/2024-09-13/risque-assez-eleve-depidemies-liees-au-moustique-tigre-en-france) (Sudinfo.be)
-
-- [Moustique tigre : La probabilité d’une épidémie de dengue ou de chikungunya en France est désormais « assez élevée »](https://www.20minutes.fr/sante/4109950-20240913-moustique-tigre-probabilite-epidemie-dengue-chikungunya-france-desormais-assez-elevee) (20 Minutes)
-
-- [Moustique tigre: "risque assez élevé" d'épidémies dans l'Hexagone dans les cinq prochaines années](https://www.francetvinfo.fr/sante/maladie/chikungunya/moustique-tigre-risque-assez-eleve-d-epidemies-dans-l-hexagone-dans-les-cinq-prochaines-annees_6779455.html) (Francetvinfo.fr)
-
-- [Santé. Moustique tigre : l'Anses pointe un risque d'épidémie dans les prochaines années](https://www.ledauphine.com/sante/2024/09/13/moustique-tigre-l-anses-pointe-un-risque-d-epidemie-dans-les-prochaines-annees) (Le Dauphiné Libéré)
-
-- [Larval crowding enhances dengue virus loads in Aedes aegypti, a relationship that might increase transmission in urban environments](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012482) (Plos.org)
-
-## 24-37 (rabies)
-
-- [Bat with rabies found in Plano](https://www.fox4news.com/news/bat-rabies-plano) (FOX 4 News)
-
-- [Cat found in East Hills of Pittsburgh tests positive for rabies](https://www.wpxi.com/news/local/cat-found-east-hills-pittsburgh-tests-positive-rabies/4CPVRFS36FGBRPANZDZ2U72B6Q/) (WPXI Pittsburgh)
-
-- [Skunk tests positive for rabies in Lincoln County](https://www.wsoctv.com/news/local/skunk-tests-positive-rabies-lincoln-county/YN3P4GD5ARCOLCAA5PGJUMSE24/) (WSOC Charlotte)
-
-- [75 die of monsoon ailments, 12 due to rabies in Maharashtra this year](https://timesofindia.indiatimes.com/city/mumbai/75-die-of-monsoon-ailments-12-due-to-rabies-in-maharashtra-this-year/articleshow/113332688.cms) (The Times of India)
-
-## 24-37 (pertussis)
-
-- [Coyotes football game at Portland State called off due to illness](https://www.mitchellrepublic.com/sports/college/coyotes-football-game-at-portland-state-called-off-due-to-illness) (Mitchellrepublic.com)
-
-- [College Football Game Canceled Less Than Three Hours Before Kickoff Due To 450-Year-Old Illness](https://brobible.com/sports/article/college-football-whooping-cough-portland-state-south-dakota-cancelled/) (BroBible)
-
-- [Alaska records 1st infant death from whooping cough, state health officials confirm](https://www.alaskasnewssource.com/2024/09/12/alaskan-records-1st-infant-death-whooping-cough-state-health-officials-confirm/) (Alaskasnewssource.com)
-
-- [Waning immunity behind whooping cough outbreak in N.L., top doctor says](https://www.cbc.ca/news/canada/newfoundland-labrador/pertussis-outbreak-nl-1.7318905) (CBC News)
-
-- [Whooping Cough Cases Rise In U.S. Following Pattern Seen Worldwide](https://www.forbes.com/sites/joshuacohen/2024/09/10/whooping-cough-cases-rise-in-us-following-pattern-seen-worldwide/) (Forbes)
-
-## 24-37 (mpox)
-
-- [Ugandas mpox caseload rises to double-digit, health official says](https://www.anews.com.tr/africa/2024/09/15/ugandas-mpox-caseload-rises-to-double-digit-health-official-says) (Anews.com.tr)
-
-- [O MPox ou Varíola M](https://observador.pt/opiniao/o-mpox-ou-variola-m/) (Observador.pt)
-
-- [اثربخشی ۵۸ درصدی واکسن باوارین نوردیک علیه mpox](https://www.balatarin.com:443/permlink/2024/9/13/6221613) (Balatarin.com)
-
-- [Cross River confirms two Mpox cases](https://punchng.com/cross-river-confirms-two-mpox-cases/) (The Punch)
-
-- [KIA screens passengers daily for Mpox with 4 new testing kiosks](https://timesofindia.indiatimes.com/city/bengaluru/kia-screens-passengers-daily-for-mpox-with-4-new-testing-kiosks/articleshow/113356059.cms) (The Times of India)
-
-- [Δέκα κρούσματα της ευλογιάς των πιθήκων από πιο μεταδοτικό στέλεχος ανακοίνωσε η Ουγκάντα](https://www.newsit.gr/kosmos/eylogia-ton-pithikon-deka-krousmata-apo-pio-metadotiko-stelexos-anakoinose-i-ougkanta/4179837/) (Newsit.gr)
-
-- [OMS incorpora la vacuna contra la mpox en lista de productos seguros y eficaces](https://peru21.pe/mundo/oms-incorpora-la-vacuna-contra-la-mpox-en-lista-de-productos-seguros-y-eficaces) (Peru21.pe)
-
-- [En el este de RDC, el Mpox es una amenaza añadida en medio de múltiples desafíos vitales](https://www.elmundo.es/ciencia-y-salud/salud/2024/09/14/66e43ac1e9cf4a381a8b45a3.html) (El Mundo)
-
-- [OMS pré-qualifica primeira vacina contra mpox](https://dinheirama.com/oms-pre-qualifica-primeira-vacina-contra-mpox/) (Dinheirama.com)
-
-- [OMS incorpora la vacuna contra la mpox en lista de productos seguros y eficacez](https://peru21.pe/mundo/oms-incorpora-la-vacuna-contra-la-mpox-en-lista-de-productos-seguros-y-eficacez) (Peru21.pe)
-
-- [Τα 10 έφτασαν τα κρούσματα της mpox στην Ουγκάντα](https://www.skai.gr/news/world/ougkanta-o-synolikos-arithmos-ton-krousmaton-tis-mpox-anilthe-se-10) (Skai.gr)
-
-- [Mpox-Virus breitet sich aus - WHO genehmigt Affenpocken-Impfstoff](https://www.bild.de/leben-wissen/mpox-virus-who-genehmigt-affenpocken-impfstoff-66e55036e3fed11bdbc997d6) (Bild)
-
-- [TWiV 1148: Clinical update with Dr. Daniel Griffin](https://www.microbe.tv/twiv/twiv-1148/) (Microbe.tv)
-
-- [Google’s divisie DeepMind deinst niet terug voor AI-oplossingen binnen wetenschap](https://www.bnr.nl/nieuws/tech-innovatie/10556789/googles-divisie-deepmind-deinst-niet-terug-voor-ai-oplossingen-binnen-wetenschap) (Www.bnr.nl)
-
-- [Mpox की पहली वैक्सीन को WHO की मंजूरी, 82 प्रतिशत तक है प्रभावी](https://www.aajtak.in/world/story/who-approves-bavarian-nordics-mva-bn-as-first-mpox-vaccine-ntc-2041217-2024-09-14) (Aajtak.in)
-
-- [Number of Irish mpox cases revealed, one month after ‘public health emergency’ declared](https://www.independent.ie/irish-news/number-of-irish-mpox-cases-revealed-one-month-after-public-health-emergency-declared/a149495783.html) (Independent.ie)
-
-- [Мировые страны выделили более 3,6 млн доз вакцины против оспы обезьян](https://life.ru/p/1687440) (Life.ru)
-
-- [Africa CDC postpones conference due to mpox outbreak](https://punchng.com/africa-cdc-postpones-conference-due-to-mpox-outbreak/) (The Punch)
-
-- [Casos de mpox aumentan un 50% en el último mes en Europa](https://aristeguinoticias.com/1309/mundo/casos-de-mpox-aumentan-un-50-en-el-ultimo-mes-en-europa/) (Aristeguinoticias.com)
-
-- [Для борьбы с оспой обезьян выделили более 3,6 млн доз вакцины](https://tass.ru/obschestvo/21861259) (Tass.ru)
-
-- [Mpox vaccines arriving at epicenter of outbreak, but not fast enough](https://www.cbsnews.com/news/mpox-vaccines-outbreak-congo-cases-death-toll-rising-fast/) (CBS News)
-
-- [WHO clears Bavarian Nordic's vaccine for mpox, sets up access plan](https://www.voanews.com/a/who-clears-bavarian-nordic-s-vaccine-for-mpox-sets-up-access-plan/7783399.html) (VOA News)
-
-- [क्या है Mpox? जानिए कैसे फैलती है ये बीमारी](https://www.aajtak.in/short-videos/video/mpox-virus-outbreak-causes-symptoms-and-treatment-monkey-pox-cases-in-india-2040972-2024-09-13) (Aajtak.in)
-
-- [Mpox: OMS pré-qualifica primeira vacina contra a doença](https://olhardigital.com.br/2024/09/13/medicina-e-saude/mpox-oms-pre-qualifica-primeira-vacina-contra-a-doenca/) (Olhardigital.com.br)
-
-- [Roundup: Africa CDC calls for strong mpox detection, cross-border surveillance as cases surge](https://www.thestar.com.my/news/world/2024/09/14/roundup-africa-cdc-calls-for-strong-mpox-detection-cross-border-surveillance-as-cases-surge) (The Star Online)
-
-- [Europa experimenta un aumento del 50% de los casos de mpox en agosto en comparación con julio](https://www.infosalus.com/actualidad/noticia-europa-experimenta-aumento-50-casos-mpox-agosto-comparacion-julio-20240913183311.html) (Infosalus.com)
-
-- [Dansk mpox-vaccine blåstemplet af WHO](https://www.dr.dk/nyheder/seneste/dansk-mpox-vaccine-blaastemplet-af-who) (Www.dr.dk)
-
-- [OMS concede pré-qualificação à primeira vacina contra mpox](https://brasil.perfil.com/saude/oms-concede-pre-qualificacao-a-primeira-vacina-contra-mpox.phtml) (Perfil.com)
-
-- [WHO pre-qualifies first mpox vaccine from Bavarian Nordic](https://www.thehindubusinessline.com/news/national/who-pre-qualifies-first-mpox-vaccine-from-bavarian-nordic/article68639382.ece) (BusinessLine)
-
-- [Weltgesundheitsorganisation genehmigt ersten Mpox-Impfstoff](https://www.tagesschau.de/ausland/afrika/mpox-who-impfung-100.html) (tagesschau.de)
-
-- [OMS pré-qualifica primeira vacina contra mpox. Entenda o que significa](https://www.metropoles.com/saude/oms-aprova-vacina-contra-mpox) (Metropoles.com)
-
-- [Morocco Records First Mpox Case In Marrakesh Since WHO Emergency Alert](https://www.ndtv.com/world-news/morocco-records-first-mpox-case-in-marrakesh-since-who-emergency-alert-6558874) (NDTV News)
-
-- [Mpox: OMS da luz verde a la vacuna de Bavarian Nordic](https://aristeguinoticias.com/1309/mundo/mpox-oms-da-luz-verde-a-la-vacuna-de-bavarian-nordic/) (Aristeguinoticias.com)
-
-- [OMS pré-qualifica primeira vacina contra mpox](https://saude.ig.com.br/2024-09-13/oms-pre-qualifica-primeira-vacina-contra-mpox.html) (Ig.com.br)
-
-- [WHO segnet erstmals Mpox-Impfstoff ab](https://www.diepresse.com/18859433/who-segnet-erstmals-mpox-impfstoff-ab) (Diepresse.com)
-
-- [Épidémie de Mpox : premier cas au Maroc et pour l’Afrique du nord, « le patient testé positif est un homme de 32 ans »](https://www.sudinfo.be/id880489/article/2024-09-13/epidemie-de-mpox-premier-cas-au-maroc-et-pour-lafrique-du-nord-le-patient-teste) (Sudinfo.be)
-
-- [WHO gab erstmals grünes Licht für Mpox-Impfstoff](https://orf.at/stories/3369499/) (Orf.at)
-
-- [DSÖ, M çiçeği virüsüne karşı ilk aşıyı onayladı](https://www.haberturk.com/dunya-saglik-orgutu-m-cicegi-virusune-karsi-ilk-asiya-onay-verdi-haberler-3719678) (Haberturk.com)
-
-- [WHO approves first mpox vaccine to boost access in Africa](https://news.un.org/en/story/2024/09/1154281) (UN News)
-
-- [Mpox: WHO erteilt erste Zulassung für Impfstoff gegen Mpox](https://www.zeit.de/gesundheit/2024-09/mpox-who-zulassung-impfstoff-unicef) (Die Zeit)
-
-- [Mpox vaccine access set to speed up as WHO approves first jab](https://www.channelnewsasia.com/world/mpox-vaccine-world-health-organization-approves-jab-4606856) (CNA)
-
-- [Mpox Vaccine Update Issued by WHO](https://www.newsweek.com/mpox-vaccine-who-update-1953397) (Newsweek)
-
-- [ВОЗ провела преквалификацию вакцины против mpox](https://tass.ru/obschestvo/21857455) (Tass.ru)
-
-- [World Health Organization approves first vaccine against mpox, clearing the way for developing countries](https://www.abc.net.au/news/2024-09-13/bavarian-nordic-mva-bn-vaccine-mpox-who/104350818) (ABC News (AU))
-
-- [WHO grants first mpox vaccine approval to enhance response in Africa](https://www.business-standard.com/world-news/who-grants-first-mpox-vaccine-approval-to-enhance-response-in-africa-124091300954_1.html) (Business Standard)
-
-- [Le feu vert de l’OMS au vaccin Mpox va permettre d’accélérer sa diffusion](https://www.sudinfo.be/id880397/article/2024-09-13/le-feu-vert-de-loms-au-vaccin-mpox-va-permettre-daccelerer-sa-diffusion) (Sudinfo.be)
-
-- [OMS a aprobat primul vaccin împotriva mpox](https://www.mediafax.ro/sanatate/oms-a-aprobat-primul-vaccin-impotriva-mpox-22485584) (Mediafax.ro)
-
-- [Mpox : le feu vert de l'OMS au vaccin va permettre d'accélerer sa diffusion](https://www.lalibre.be/planete/sante/2024/09/13/mpox-le-feu-vert-de-loms-au-vaccin-va-permettre-daccelerer-sa-diffusion-VN7N4AJ355CATKKFOYOI5UHV7I/) (Lalibre.be)
-
-- [Dünya Sağlık Örgütü, M Çiçeği virüsüne karşı ilk aşıya onay verdi](https://anlatilaninotesi.com.tr/20240913/dunya-saglik-orgutu-m-cicegi-virusune-karsi-ilk-asiya-onay-verdi-1087986627.html) (Anlatilaninotesi.com.tr)
-
-- [Mpox : le feu vert de l'OMS au vaccin va permettre d'accélerer sa diffusion](https://www.dhnet.be/actu/sante/2024/09/13/mpox-le-feu-vert-de-loms-au-vaccin-va-permettre-daccelerer-sa-diffusion-NXSPPK2ZWZE5DAENBOMTOLZBB4/) (dh.be)
-
-- [WHO approves Bavarian Nordic’s mpox vaccine](https://www.politico.eu/article/who-approves-bavarian-nordics-mpox-vaccine/) (POLITICO.eu)
-
-- [WHO grants first mpox vaccine approval to ramp up response to disease](https://abcnews.go.com/Health/wireStory/grants-mpox-vaccine-approval-ramp-response-disease-africa-113655333) (ABC News)
-
-- [Dünya Sağlık Örgütü, M çiçeği virüsüne karşı ilk aşıya onay verdi](https://www.aa.com.tr/tr/saglik/dunya-saglik-orgutu-m-cicegi-virusune-karsi-ilk-asiya-onay-verdi/3329420) (Anadolu Agency)
-
-- [WHO grants first mpox vaccine approval to ramp up response to disease in Africa and beyond](https://abcnews.go.com/International/wireStory/grants-mpox-vaccine-approval-ramp-response-disease-africa-113655332) (ABC News)
-
-- [WHO clears Bavarian Nordic's vaccine as first shot against mpox](https://economictimes.indiatimes.com/news/international/world-news/who-clears-bavarian-nordics-vaccine-as-first-shot-against-mpox/articleshow/113323359.cms) (The Times of India)
-
-- [WHO grants first mpox vaccine approval to ramp up response to disease in Africa](https://www.bostonherald.com/2024/09/13/who-grants-first-mpox-vaccine-approval-to-ramp-up-response-to-disease-in-africa/) (Boston Herald)
-
-- [WHO clears Bavarian Nordic's vaccine for mpox](https://www.thestar.com.my/news/world/2024/09/13/who-clears-bavarian-nordic039s-vaccine-for-mpox) (The Star Online)
-
-- [WHO clears Bavarian Nordic's vaccine for mpox](https://www.investing.com/news/stock-market-news/who-clears-bavarian-nordics-vaccine-for-mpox-3615006) (Investing.com)
-
-- [Bavarian Nordics mpox vaccine opnår prækvalifikation hos WHO](https://www.globenewswire.com/news-release/2024/09/13/2945779/0/da/Bavarian-Nordics-mpox-vaccine-opn%C3%A5r-pr%C3%A6kvalifikation-hos-WHO.html) (GlobeNewswire)
-
-- [Bavarian Nordic Receives WHO Prequalification for Mpox Vaccine](https://www.globenewswire.com/news-release/2024/09/13/2945779/0/en/Bavarian-Nordic-Receives-WHO-Prequalification-for-Mpox-Vaccine.html) (GlobeNewswire)
-
-- [WHO har annonsert vaksine mot mpox](https://www.vg.no/nyheter/i/aljwld/who-har-godkjent-vaksine-mot-mpox) (Www.vg.no)
-
-- [Havuzdan maymun çiçeği virüsü bulaşır mı?](https://www.hurriyet.com.tr/aile/galeri-havuzdan-maymun-cicegi-virusu-bulasir-mi-42523616) (Hurriyet.com.tr)
-
-- [Un cas confirmé de la variole du singe enregistré au Maroc](https://fr.sputniknews.africa/20240913/un-cas-confirme-de-la-variole-du-singe-enregistre-au-maroc-1068261411.html) (Sputniknews.africa)
-
-- [World News in Brief: UNICEF mpox response in DR Congo, 'unprecedented' threat to Sudan's heritage, call to suspend Cambodia journalism charter](https://www.globalsecurity.org/military/library/news/2024/09/mil-240912-unnews04.htm) (Globalsecurity.org)
-
-- [Cofepris ha autorizado el registro sanitario de la vacuna contra la viruela del mono (mpox)](https://www.record.com.mx/contra/cofepris-ha-autorizado-el-registro-sanitario-de-la-vacuna-contra-la-viruela-del-mono-mpox) (Record.com.mx)
-
-- [Marruecos confirma su primer caso de mpox](https://aristeguinoticias.com/1209/mundo/marruecos-confirma-su-primer-caso-de-mpox/) (Aristeguinoticias.com)
-
-- [¿Qué sabemos de Jynneos, la vacuna contra Mpox aprobada por Cofepris?](https://www.elfinanciero.com.mx/nacional/2024/09/12/que-sabemos-de-jynneos-la-vacuna-contra-mpox-aprobada-por-cofepris/) (El Financiero)
-
-- [Cofepris aprueba vacuna ‘Jynneos’ contra viruela del mono: ¿quiénes se la pueden aplicar?](https://www.elfinanciero.com.mx/salud/2024/09/12/cofepris-aprueba-vacuna-jynneos-contra-viruela-del-mono-quienes-se-la-pueden-aplicar/) (El Financiero)
-
-- [Mpox deaths rise by 107 in one week, Africa CDC calls toll unacceptable](https://www.business-standard.com/pti-stories/national/mpox-deaths-rise-by-107-in-one-week-as-africa-cdc-calls-toll-unacceptable-124091300001_1.html) (Business Standard)
-
-- [Cofepris aprueba vacuna de Bavarian Nordic contra la viruela del mono](https://www.forbes.com.mx/cofepris-aprueba-vacuna-de-bavarian-nordic-contra-la-viruela-del-mono/) (Forbes.com.mx)
-
-- [México otorga registro sanitario a vacuna contra viruela del mono](https://cnnespanol.cnn.com/2024/09/12/mexico-otorga-registro-vacuna-viruela-del-mono-orix) (CNN)
-
-- [Vaiolo delle scimmie, primo caso annunciato in Marocco](https://www.ansa.it/sito/notizie/topnews/2024/09/13/vaiolo-delle-scimmie-primo-caso-annunciato-in-marocco_fb6135ea-af12-4321-ba47-eaac5dd70176.html) (ANSA.it)
-
-- [Viruela del mono en África: Investigan casos en mujeres embarazadas que transmiten mpox a sus bebés](https://www.elfinanciero.com.mx/mundo/2024/09/12/viruela-del-mono-en-africa-investigan-casos-en-mujeres-embarazadas-que-transmiten-mpox-a-sus-bebes/) (El Financiero)
-
-- [Mpox patient at Delhi recovering well: Medical director](https://thehillstimes.in/national/mpox-patient-at-delhi-recovering-well-medical-director) (Thehillstimes.in)
-
-- [África regista 26.543 casos e 724 mortes devido à Mpox desde o início do ano](https://observador.pt/2024/09/12/africa-regista-26-543-casos-e-724-mortes-devido-a-mpox-desde-o-inicio-do-ano/) (Observador.pt)
-
-- [Morocco confirms first mpox case in current outbreak](https://www.bbc.com/news/articles/c0rwr7rxrj5o) (BBC News)
-
-- [Africa CDC urges West to 'rebuild trust' with mpox response](https://www.dw.com/en/africa-cdc-urges-west-to-rebuild-trust-with-mpox-response/a-70203862) (DW (English))
-
-- [Africa CDC urges Western countries to boost funding for mpox response](https://www.aljazeera.com/news/2024/9/12/africa-cdc-urges-western-countries-to-boost-funding-for-mpox-response) (Al Jazeera English)
-
-- [Understanding the resurgence of mpox](https://scopeblog.stanford.edu/2024/09/12/mpox-new-form-global-emergency/) (Stanford.edu)
-
-- [Morocco confirms mpox case in Marrakech](https://www.thestar.com.my/news/world/2024/09/13/morocco-confirms-mpox-case-in-marrakech) (The Star Online)
-
-- [Epidémie de mpox : l’Occident ne doit pas abandonner l’Afrique, souligne l’agence de l’Union africaine, « il est temps que les pays occidentaux montrent qu’ils ont tiré les leçons du Covid »](https://www.sudinfo.be/id880174/article/2024-09-12/epidemie-de-mpox-loccident-ne-doit-pas-abandonner-lafrique-souligne-lagence-de) (Sudinfo.be)
-
-- [Μαρόκο: Εντοπίστηκε το πρώτο κρούσμα mpox](https://www.skai.gr/news/health/maroko-entopistike-to-proto-krousma-mpox) (Skai.gr)
-
-- [Benue records four confirmed, 20 suspected mpox cases](https://punchng.com/benue-records-four-confirmed-20-suspected-mpox-cases/) (The Punch)
-
-- [Morocco reports first Mpox case](https://www.thestar.com.my/news/world/2024/09/13/morocco-reports-first-mpox-case) (The Star Online)
-
-- [Mpox deaths rise by 107 in a week as Africa CDC calls the toll unacceptable](https://abcnews.go.com/Health/wireStory/mpox-deaths-rise-107-week-africa-cdc-calls-113629410) (ABC News)
-
-- [Mpox deaths rise by 107 in a week as Africa CDC calls the toll unacceptable](https://abcnews.go.com/International/wireStory/mpox-deaths-rise-107-week-africa-cdc-calls-113629408) (ABC News)
-
-- [As mpox vaccines arrive, how will DR Congo keep them cold?](https://www.bbc.com/news/videos/czxlx0y4lkro) (BBC News)
-
-- [Mpox Reveals Global Health Vulnerabilities](https://www.forbes.com/sites/jenniferlotito/2024/09/12/mpox-reveals-global-health-vulnerabilities/) (Forbes)
-
-- [Affenpocken: Die wichtigsten offenen Fragen zu Mpox und wie Fachleute versuchen, sie zu beantworten](https://www.spektrum.de/news/mpox-was-sie-ueber-die-neue-affenpocken-variante-wissen-sollten/2230626) (Spektrum.de)
-
-- [Mpox outbreak: Rich nations have millions of shots as Africa's outbreak spreads; will they share?](https://economictimes.indiatimes.com/news/international/world-news/mpox-outbreak-rich-nations-have-millions-of-shots-as-africas-outbreak-spreads-will-they-share/articleshow/113294327.cms) (The Times of India)
-
-- [Mpox patient at Delhi's LNJP Hospital recovering well, no need to panic, says medical director](https://economictimes.indiatimes.com/news/india/mpox-patient-at-delhis-lnjp-hospital-recovering-well-no-need-to-panic-says-medical-director/articleshow/113293350.cms) (The Times of India)
-
-- [Bavarian udskyder andre ordrer for at producere flere mpox-vacciner](https://politiken.dk/danmark/sundhed/art10066181/Bavarian-udskyder-andre-ordrer-for-at-producere-flere-mpox-vacciner) (Politiken.dk)
-
-- [Bavarian Nordic udsætter andre ordrer for at kunne levere mpox-vacciner](https://www.dr.dk/nyheder/seneste/bavarian-nordic-udsaetter-andre-ordrer-kunne-levere-mpox-vacciner) (Www.dr.dk)
-
-- [Measures of how well a vaccine works](https://www.bmj.com/content/386/bmj.q1982) (The BMJ)
-
-- [Bavarian Nordic Provides Update on the Mpox Vaccine Supply Situation](https://www.globenewswire.com/news-release/2024/09/12/2944974/0/da/Bavarian-Nordic-Provides-Update-on-the-Mpox-Vaccine-Supply-Situation.html) (GlobeNewswire)
-
-- [Mpox crisis: Why do African countries struggle to make or buy vaccines?](https://www.aljazeera.com/news/2024/9/12/why-african-countries-struggle-to-produce-vaccines) (Al Jazeera English)
-
-- [Pakistan’da maymun çiçeği vakası tespit edildi](https://anlatilaninotesi.com.tr/20240912/pakistanda-maymun-cicegi-vakasi-tespit-edildi-1087928853.html) (Anlatilaninotesi.com.tr)
-
-- [Mpox-Panik: Alte Verschwörungsmythen in neuem Gewand](https://www.telepolis.de/features/Mpox-Panik-Alte-Verschwoerungsmythen-in-neuem-Gewand-9862088.html) (Telepolis.de)
-
-- [One dose of a smallpox vaccine still gives good protection for mpox](https://www.newscientist.com/article/2447548-one-dose-of-a-smallpox-vaccine-still-gives-good-protection-for-mpox/) (New Scientist)
-
-- [One Bavarian Nordic Shot 58% Effective Against Mpox, Study Shows](https://financialpost.com/pmn/business-pmn/one-bavarian-nordic-shot-58-effective-against-mpox-study-shows) (Financial Post)
-
-- [Effectiveness of modified vaccinia Ankara-Bavarian Nordic vaccine against mpox infection: emulation of a target trial](https://www.bmj.com/content/386/bmj-2023-078243) (The BMJ)
-
-- [Среди беженцев в Африке выявили не менее 88 случаев заболевания оспой обезьян](https://tass.ru/obschestvo/21841981) (Tass.ru)
-
-- [Congo brings forward launch of mpox vaccine drive to Oct 2](https://japantoday.com/category/world/congo-brings-forward-launch-of-mpox-vaccine-drive-to-oct-2) (Japan Today)
-
-- [Monkeypox Fear Mongering Ramps Up](https://www.shtfplan.com/headline-news/monkeypox-fear-mongering-ramps-up) (Shtfplan.com)
-
-- [DR Congo starter vaccination mod mpox 2. oktober](https://www.dr.dk/nyheder/seneste/dr-congo-starter-vaccination-mod-mpox-2-oktober) (Www.dr.dk)
-
-- [Brasil supera marca de mil casos de mpox em 2024](https://dinheirama.com/brasil-supera-marca-de-mil-casos-de-mpox-em-2024/) (Dinheirama.com)
-
-- [Eastern DR Congo receives sanitary equipment for mpox](https://timesofindia.indiatimes.com/world/rest-of-world/eastern-dr-congo-receives-sanitary-equipment-for-mpox/articleshow/113269014.cms) (The Times of India)
-
-- [Mpox kills two, six other confirmed cases in Cameroon: Government](https://timesofindia.indiatimes.com/world/rest-of-world/mpox-kills-two-six-other-confirmed-cases-in-cameroon-government/articleshow/113268958.cms) (The Times of India)
-
-- [‘Geheime voorraad’ vaccins zorgt opnieuw voor irritatie in Kamerdebat over mpox](https://www.nrc.nl/nieuws/2024/09/11/geheime-voorraad-vaccins-zorgt-opnieuw-voor-irritatie-in-kamerdebat-over-mpox-a4865364) (Www.nrc.nl)
-
-- [Beyoğlu'nda maymun çiçeği paniğine açıklama geldi](https://www.odatv.com/guncel/beyoglunda-maymun-cicegi-panigine-aciklama-geldi-120062940) (Odatv.com)
-
-- [Applied DNA expands testing for Mpox virus clades](https://www.investing.com/news/company-news/applied-dna-expands-testing-for-mpox-virus-clades-93CH-3611502) (Investing.com)
-
-- [NCDC records 67 confirmed cases of mpox in 23 states](https://punchng.com/ncdc-records-67-confirmed-cases-of-mpox-in-23-states/) (The Punch)
-
-- [Starvation Threatens Sudan](https://foreignpolicy.com/2024/09/11/sudan-rsf-hemeti-burhan-famine-hunger-starvation/) (Foreign Policy)
-
-- [Maymun çiçeği virüsü Türkiye’de görüldü mü?](https://www.haberturk.com/maymun-cicegi-virusu-turkiyede-goruldu-mu-resmi-aciklama-geldi-3719013) (Haberturk.com)
-
-- [Rode Kruis-Vlaanderen stuurt operationeel manager naar Centraal-Afrikaanse republiek na grote toename mpox-besmettingen](https://www.hbvl.be/cnt/dmf20240911_92706697) (Hbvl.be)
-
-- [Rode Kruis-Vlaanderen stuurt operationeel manager naar Centraal-Afrikaanse republiek na grote toename mpox-besmettingen](https://www.gva.be/cnt/dmf20240911_92525715) (Www.gva.be)
-
-- [Hyundai Bioscience announces XAFTY ®, a groundbreaking broad-spectrum antiviral capable of treating COVID-19, mpox, and dengue](https://www.investing.com/news/press-releases/hyundai-bioscience-announces-xafty--a-groundbreaking-broadspectrum-antiviral-capable-of-treating-covid19-mpox-and-dengue-93CH-3610791) (Investing.com)
-
-- [Rode Kruis-Vlaanderen stuurt operationeel manager naar Centraal-Afrikaanse republiek na grote toename mpox-besmettingen](https://www.nieuwsblad.be/cnt/dmf20240911_92362875) (Nieuwsblad.be)
-
-- [Farshid Jalalvand: Vi kan stoppa en pandemi – men väljer vi att göra det?](https://www.dn.se/sverige/farshid-jalalvand-vi-kan-stoppa-en-pandemi-men-valjer-vi-att-gora-det/) (Www.dn.se)
-
-- [Mpox Virus Clade-2 Confirmed in Isolated Case in India, Health Ministry Activates Identification Protocols](https://www.gadgets360.com/science/news/mpox-virus-clade-2-confirmed-in-india-6531466) (Gadgets360.com)
-
-- [Medics plead for vaccines in DR Congo's mpox battleground](https://www.bbc.com/news/articles/c4gen21ln7go) (BBC News)
-
-- [First doses of mpox vaccine from the United States arrive in Congo](https://japantoday.com/category/world/first-doses-of-mpox-vaccine-from-the-united-states-arrive-in-congo) (Japan Today)
-
-- [Calor pode aumentar casos de mpox? Especialista responde](https://olhardigital.com.br/2024/09/10/medicina-e-saude/calor-pode-aumentar-casos-de-mpox-especialista-responde/) (Olhardigital.com.br)
-
-- [DR Congo gets 50,000 mpox vaccine delivery from US](https://www.channelnewsasia.com/world/dr-congo-gets-50000-mpox-vaccine-delivery-us-4599781) (CNA)
-
-- [Desnutrición aumenta el riesgo de mpox en niños y embarazadas en el Congo: Save the Children](https://www.forbes.com.mx/desnutricion-aumenta-el-riesgo-de-mpox-en-ninos-y-embarazadas-en-el-congo-save-the-children/) (Forbes.com.mx)
-
-- [Congo: la desnutrición aumenta el riesgo de mpox en niños y embarazadas](https://www.montevideo.com.uy/Salud/Congo-la-desnutricion-aumenta-el-riesgo-de-mpox-en-ninos-y-embarazadas-uc899801) (Montevideo.com.uy)
-
-- [Notificados 47 nuevos casos de viruela del mono en la última semana](https://eldiariocantabria.publico.es/articulo/espanha/notificados-47-nuevos-casos-viruela-mono-ultima-semana/20240910200834163133.html) (Publico.es)
-
-- [Mpox: cidade de São Paulo registra 33 novos casos em sete dias](https://www.metropoles.com/sao-paulo/mpox-sao-paulo-casos) (Metropoles.com)
-
-- [Mpox : nouvelles arrivées de vaccins en RDC, foyer de l’épidémie](https://www.sudinfo.be/id879282/article/2024-09-10/mpox-nouvelles-arrivees-de-vaccins-en-rdc-foyer-de-lepidemie) (Sudinfo.be)
-
-- [News24 | No mpox jabs for SA yet... but WHO and Africa CDC will help us to fight the outbreak](https://www.news24.com/news24/southafrica/news/no-mpox-jabs-for-sa-yet-but-who-and-africa-cdc-will-help-us-to-fight-the-outbreak-20240910) (News24)
-
-- [Congo Receives First Doses of Mpox Vaccine From US](https://www.newsweek.com/congo-receives-first-doses-mpox-vaccine-united-states-1951545) (Newsweek)
-
-- [L’OMS a livré 14 tonnes d’équipements médicaux à la RDC pour lutter contre la mpox](https://fr.sputniknews.africa/20240910/loms-a-livre-14-tonnes-dequipements-medicaux-a-la-rdc-pour-lutter-contre-la-mpox-1068225748.html) (Sputniknews.africa)
-
-- [Mpox Patient At Delhi Hospital Stable, No Need To Panic: AAP Minister](https://www.ndtv.com/india-news/mpox-patient-at-delhi-hospital-stable-no-need-to-panic-aap-minister-6534432) (NDTV News)
-
-- [First doses of mpox vaccine from the United States arrive in Congo](https://abcnews.go.com/Business/wireStory/doses-mpox-vaccine-united-states-arrive-congo-113548659) (ABC News)
-
-- [First doses of mpox vaccine from the United States arrive in Congo](https://abcnews.go.com/Health/wireStory/doses-mpox-vaccine-united-states-arrive-congo-113548658) (ABC News)
-
-- [First doses of mpox vaccine from the United States arrive in Congo](https://abcnews.go.com/International/wireStory/doses-mpox-vaccine-united-states-arrive-congo-113548657) (ABC News)
-
-- [Mpox : cinq questions pour comprendre comment l’Afrique lutte contre l’épidémie](https://www.jeuneafrique.com/1606987/politique/mpox-cinq-questions-pour-comprendre-comment-lafrique-lutte-contre-lepidemie/) (Jeune Afrique)
-
-- [First doses of mpox vaccine from the United States arrive in Congo](https://financialpost.com/pmn/first-doses-of-mpox-vaccine-from-the-united-states-arrive-in-congo) (Financial Post)
-
-- [Mpox patient at LNJP hospital stable, no need to panic: Delhi Minister Saurabh Bharadwaj](https://economictimes.indiatimes.com/news/india/mpox-patient-at-lnjp-hospital-stable-no-need-to-panic-delhi-minister-saurabh-bharadwaj/articleshow/113220817.cms) (The Times of India)
-
-- [China approves first domestic mpox vaccine for clinical trials](https://www.channelnewsasia.com/east-asia/china-first-mpox-vaccine-clinical-trial-4598216) (CNA)
-
-- [No mpox lockdowns, says Dzulkefly](https://www.thestar.com.my/news/nation/2024/09/10/no-mpox-lockdowns-says-dzulkefly) (The Star Online)
-
-- [India reports first Mpox case: Symptoms, transmission, WHO norms and more](https://www.business-standard.com/india-news/india-reports-first-mpox-case-symptoms-transmission-who-norms-and-more-124091000290_1.html) (Business Standard)
-
-- [Mpox first case confirmed in India: How can standard health insurance provide financial immunity?](https://www.livemint.com/money/personal-finance/mpox-first-case-confirmed-in-india-how-can-standard-health-insurance-provide-financial-immunity-11725872036359.html) (Livemint)
-
-- [Centre advises states to screen, test all suspect mpox cases](https://thehillstimes.in/national/centre-advises-states-to-screen-test-all-suspect-mpox-cases) (Thehillstimes.in)
-
-- [Centre confirms mpox case, but says it's a different strain](https://timesofindia.indiatimes.com/india/centre-confirms-mpox-case-but-says-its-a-different-strain/articleshow/113208009.cms) (The Times of India)
-
-- [Rating agencies and Africa: The absence of people on the ground contributes to bias against the continent](https://phys.org/news/2024-09-agencies-africa-absence-people-ground.html) (Phys.Org)
-
-- [Mpox: Centre asks state to review protocols](https://timesofindia.indiatimes.com/city/goa/mpox-centre-asks-state-to-review-protocols/articleshow/113204505.cms) (The Times of India)
-
-- [Centre confirms first Mpox case in India, says no widespread risk](https://economictimes.indiatimes.com/news/india/centre-confirms-first-mpox-case-in-india-says-no-widespread-risk/articleshow/113204281.cms) (The Times of India)
-
-- [Kabinet wil toch mpox-virus in Afrika helpen bestrijden: minister Klever trekt 3 miljoen euro uit](https://www.nrc.nl/nieuws/2024/09/09/kabinet-wil-toch-mpox-virus-in-afrika-helpen-bestrijden-minister-klever-trekt-3-miljoen-euro-uit-a4865051) (Www.nrc.nl)
-
-- [मंकीपॉक्स के खौफ में भारत, पहला केस मिलने के बाद स्वास्थ्य मंत्रालय ने जारी की एडवाइजरी, दी ये खास सलाह](https://navbharattimes.indiatimes.com/india/monkeypox-alert-in-india-health-ministry-issued-advisory-after-first-case-found/articleshow/113203186.cms) (The Times of India)
-
-- [L’épidémie de Mpox continue de se propager dans le monde : l’Inde confirme un cas sur son territoire, bien que d’un variant peu dangereux](https://www.sudinfo.be/id878780/article/2024-09-09/lepidemie-de-mpox-continue-de-se-propager-dans-le-monde-linde-confirme-un-cas) (Sudinfo.be)
-
-- [Detectados três surtos de mpox em Portugal desde 2022](https://ionline.sapo.pt/2024/09/09/detectados-tres-surtos-de-mpox-em-portugal-desde-2022/) (Sapo.pt)
-
-- [Seegene Expands mpox RUO Product Lineups with Enhanced Detection Assays for Clade 1](https://www.prnewswire.co.uk/news-releases/seegene-expands-mpox-ruo-product-lineups-with-enhanced-detection-assays-for-clade-1-302242213.html) (PR Newswire UK)
-
-- [Mpox case confirmed, strain not part of WHO's health emergency: Govt](https://www.business-standard.com/india-news/mpox-case-confirmed-strain-not-part-of-who-s-health-emergency-govt-124090901171_1.html) (Business Standard)
-
-- [Mpox vaccination to begin in Congo next month](https://www.nbcnews.com/health/health-news/mpox-vaccination-begin-congo-month-rcna170195) (NBC News)
-
-- [Mpox: Portugal identificou três surtos desde 2022 com 1.206 casos confirmados](https://observador.pt/2024/09/09/mpox-portugal-identificou-tres-surtos-desde-2022-com-1-206-casos-confirmados/) (Observador.pt)
-
-- [India's mpox case 'isolated', not caused by new strain](https://economictimes.indiatimes.com/news/india/indias-mpox-case-isolated-not-caused-by-new-strain/articleshow/113200134.cms) (The Times of India)
-
-- [India confirms isolated Mpox case, Health Ministry urges vigilance and preparedness](https://www.thehindubusinessline.com/news/india-confirms-isolated-mpox-case-health-ministry-urges-vigilance-and-preparedness/article68622659.ece) (BusinessLine)
-
-- [Portugal identificou três surtos de Mpox desde 2022, com 1.206 casos confirmados](https://expresso.pt/sociedade/saude/2024-09-09-portugal-identificou-tres-surtos-de-mpox-desde-2022-com-1.206-casos-confirmados-ace4dadf) (Expresso.pt)
-
-- [Rating agencies and Africa: the absence of people on the ground contributes to bias against the continent – analyst](https://theconversation.com/rating-agencies-and-africa-the-absence-of-people-on-the-ground-contributes-to-bias-against-the-continent-analyst-237778) (The Conversation Africa)
-
-- [Seegene Expands mpox RUO Product Lineups with Enhanced Detection Assays for Clade 1](https://www.investing.com/news/press-releases/seegene-expands-mpox-ruo-product-lineups-with-enhanced-detection-assays-for-clade-1-93CH-3607347) (Investing.com)
-
-- [В Индии прокомментировали зафиксированный случай оспы обезьян](https://tass.ru/obschestvo/21816707) (Tass.ru)
-
-- [Isolated Mpox Case In India, But Not Part Of WHO Public Health Emergency](https://www.ndtv.com/india-news/isolated-mpox-case-in-india-but-not-part-of-who-public-health-emergency-6526278) (NDTV News)
-
-- [Amid mpox scare, Centre steps up screening efforts: How to detect infection](https://www.business-standard.com/india-news/amid-mpox-scare-centre-steps-up-screening-efforts-how-to-detect-infection-124090900656_1.html) (Business Standard)
-
-- [Tonix reports promising mpox vaccine preclinical data](https://www.investing.com/news/company-news/tonix-reports-promising-mpox-vaccine-preclinical-data-93CH-3606855) (Investing.com)
-
-- [Health ministry issues advisory to states, UTs on measures against 'Mpox'](https://www.business-standard.com/india-news/health-ministry-issues-advisory-to-states-uts-on-measures-against-mpox-124090900554_1.html) (Business Standard)
-
-- [В Индии усилили медосмотр пассажиров в аэропортах из-за вспышки оспы обезьян](https://tass.ru/obschestvo/21813653) (Tass.ru)
-
-- [Centre asks states to review preparedness, screen suspects amid Mpox scare](https://www.business-standard.com/health/centre-asks-states-to-review-preparedness-screen-suspects-amid-mpox-scare-124090900579_1.html) (Business Standard)
-
-- [Centre Issues Directive Over Mpox Outbreak: What Are The Symptoms](https://www.ndtv.com/india-news/centres-directive-over-mpox-outbreak-what-are-the-symptoms-6524472) (NDTV News)
-
-- [Understanding monkeypox: Myths and misinformation to ignore about the disease](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/understanding-monkeypox-debunking-myths-and-misinformation/articleshow/113183887.cms) (The Times of India)
-
-- [Centre Advises States To Screen, Test All Suspect Mpox Cases](https://www.ndtv.com/india-news/mpox-cases-in-india-centre-advises-states-to-screen-test-all-suspect-mpox-cases-6524189) (NDTV News)
-
-- [Mpox Alert: Health Ministry advisory asks states to intensify screening and contact tracing to prevent outbreak](https://economictimes.indiatimes.com/news/india/mpox-alert-health-ministry-advisory-asks-states-to-intensify-screening-and-contact-tracing-to-prevent-outbreak/articleshow/113187621.cms) (The Times of India)
-
-- ["Screening And Testing, Contact Tracing": Centre's Mpox Advisory To States](https://www.ndtv.com/india-news/screening-and-testing-contact-tracing-centres-mpox-advisory-to-states-6523921) (NDTV News)
-
-- [Higher price of mpox vaccine to pose key hurdle in Africa order talks](https://www.business-standard.com/world-news/higher-price-of-mpox-vaccine-to-pose-key-hurdle-in-africa-order-talks-124090900062_1.html) (Business Standard)
-
-- [Should you worry about mpox when travelling?](https://www.nationalgeographic.com/travel/article/should-you-worry-about-mpox-monkeypox-when-travelling) (National Geographic)
-
-- [India isolates 'suspected mpox case'](https://www.voanews.com/a/india-isolates-suspected-mpox-case/7776214.html) (VOA News)
-
-- [Mpox suspected, man isolated: Government](https://timesofindia.indiatimes.com/india/mpox-suspected-man-isolated-government/articleshow/113173957.cms) (The Times of India)
-
-- [Africa desperately needs mpox vaccines. But donations from rich countries won’t fix this or the next health emergency](https://theconversation.com/africa-desperately-needs-mpox-vaccines-but-donations-from-rich-countries-wont-fix-this-or-the-next-health-emergency-237747) (The Conversation Africa)
-
-- [Mpox-vaccins sturen naar Afrika is ook in Nederlands belang](https://www.nrc.nl/nieuws/2024/09/08/mpox-vaccins-sturen-naar-afrika-is-ook-in-nederlands-belang-a4864952) (Www.nrc.nl)
-
-## 24-37 (meningitis)
-
-- [Family of Aoife Johnston call for report into her death at UHL to be published immediately](https://www.irishtimes.com/health/2024/09/12/family-of-aoife-johnston-call-for-report-into-her-death-at-uhl-to-be-published-immediately/) (The Irish Times)
-
-- [Nigeria records 4,915 suspected meningitis cases, 361 deaths](https://punchng.com/nigeria-records-4915-suspected-meningitis-cases-361-deaths/) (The Punch)
-
-- [La nueva vida de Luis Canut, marido de Patricia Pérez, tras conocerse su ceguera](https://www.abc.es/gente/nueva-vida-luis-canut-marido-patricia-perez-20240911125256-nt.html) (Www.abc.es)
-
-## 24-37 (measles)
-
-- [Measles cases rise to 112, compared with just four last year](https://www.independent.ie/irish-news/health/measles-cases-rise-to-112-compared-with-just-four-last-year/a357542864.html) (Independent.ie)
-
-- [Kentucky health officials confirm measles case in WKU student from Tennessee](https://www.wdrb.com/news/kentucky-health-officials-confirm-measles-case-in-wku-student-from-tennessee/article_8ae05ae0-6fc6-11ef-9612-b3d53b0f5e0f.html) (WDRB)
-
-- [Ky. health officials announce measles case at WKU, work to identify those exposed](https://www.wpsdlocal6.com/health/ky-health-officials-announce-measles-case-at-wku-work-to-identify-those-exposed/article_38f1b704-6fbe-11ef-8f95-5fe2ffa57147.html) (WPSD Local 6)
-
-- [1st measles case in state since 2018 confirmed in Mecklenburg County](https://www.wsoctv.com/news/local/1st-measles-case-state-since-2018-confirmed-mecklenburg-county/WEMWVR3NBFAGHGY3GEWMOZY47E/) (WSOC Charlotte)
-
-- [Invasive Jellyfish Clones Overrunning British Columbian Lakes; Measles Cases Increasing in Oregon](https://www.scientificamerican.com/podcast/episode/invasive-jellyfish-clones-overrunning-british-columbian-lakes-measles-cases/) (Scientific American)
-
-## 24-37 (malaria)
-
-- [AnophelesModel: An R package to interface mosquito bionomics, human exposure and intervention effects with models of malaria intervention impact](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011609) (Plos.org)
-
-- [QIAGEN und Bio-Manguinhos/Fiocruz verbessern Nachweis von Malaria und Dengue-Fieber in Brasiliens nationalem Screening-Programm](https://www.globenewswire.com/news-release/2024/09/12/2945576/0/de/QIAGEN-und-Bio-Manguinhos-Fiocruz-verbessern-Nachweis-von-Malaria-und-Dengue-Fieber-in-Brasiliens-nationalem-Screening-Programm.html) (GlobeNewswire)
-
-- [QIAGEN and Bio-Manguinhos/Fiocruz collaborate to enhance malaria and dengue detection in Brazil’s national screening programs](https://www.globenewswire.com/news-release/2024/09/12/2945577/8690/en/QIAGEN-and-Bio-Manguinhos-Fiocruz-collaborate-to-enhance-malaria-and-dengue-detection-in-Brazil-s-national-screening-programs.html) (GlobeNewswire)
-
-- [US demands Nigeria to release Binance executive as health worsens](https://cryptobriefing.com/binance-employee-release-nigeria/) (Crypto Briefing)
-
-- [A regional One Health approach to the risk of invasion by Anopheles stephensi in Mauritius](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011827) (Plos.org)
-
-- [Evaluating the impact of malaria rapid diagnostic tests on patient-important outcomes in sub-Saharan Africa: a systematic review of study methods to guide effective implementation](https://bmjopen.bmj.com/content/14/9/e077361) (The BMJ)
-
-- [Plasmodium NEK1 coordinates MTOC organisation and kinetochore attachment during rapid mitosis in male gamete formation](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002802) (Plos.org)
-
-- [Development of new real-time PCR assays for detection and species differentiation of Plasmodium ovale](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011759) (Plos.org)
-
-- [Monitorear la calidad del aire como corresponde](https://www.project-syndicate.org/commentary/world-needs-more-regular-better-air-pollution-monitoring-by-soumya-swaminathan-and-christa-hasenkopf-2024-09/spanish) (Project Syndicate)
-
-- [Niger launches campaign to reduce mosquito propagation](https://www.thestar.com.my/news/world/2024/09/10/niger-launches-campaign-to-reduce-mosquito-propagation) (The Star Online)
-
-- [After two kids die, kin & villagers vow to end superstition in Maharashtra](https://timesofindia.indiatimes.com/city/nagpur/two-children-die-due-to-superstition-in-yeragadda-village/articleshow/113175525.cms) (The Times of India)
-
-## 24-37 (hpai)
-
-- [CDC Reports First Case of Human Bird Flu Contracted Without Exposure to Cows or Poultry](https://legalinsurrection.com/2024/09/cdc-reports-first-case-of-human-bird-flu-contracted-without-exposure-to-cows-or-poultry/) (Legalinsurrection.com)
-
-## 24-37 (h5n1)
-
-- [Mysterious bird flu case in Missouri was similar to strain circulating in cattle, CDC says | CNN](https://www.cnn.com/2024/09/13/health/missouri-bird-flu-h5n1/index.html) (CNN)
-
-- [The US is entering a riskier season for spread of H5N1 bird flu. Here’s why experts are worried | CNN](https://www.cnn.com/2024/09/12/health/bird-flu-h5n1-fall/index.html) (CNN)
-
-- [Разрабатываемая в РФ долговременная вакцина от гриппа проходит испытания](https://tass.ru/obschestvo/21843775) (Tass.ru)
-
-- [Avian flu found in wastewater of 10 Texas cities through virome sequencing](https://www.sciencedaily.com/releases/2024/09/240911180009.htm) (Science Daily)
-
-- [First human case of Avian Flu (H5N1) confirmed in Missouri](https://www.stlouis-mo.gov/government/departments/health/news/first-human-bird-flu-case-missouri.cfm) (Stlouis-mo.gov)
-
-- [La sombra de Wuhan se cierne sobre Nueva York: la gripe aviar irrumpe en sus mercados de animales](https://www.elespanol.com/ciencia/salud/20240911/sombra-wuhan-cierne-nueva-york-gripe-aviar-irrumpe-mercados-animales/884911996_0.html) (Elespanol.com)
-
-- [Bird Flu Is Quietly Getting Scarier](https://www.theatlantic.com/health/archive/2024/09/bird-flu-scary-awkward-phase/679770/) (The Atlantic)
-
-- [Detectan gripe aviar en cuatro gaviotas alojadas en el Centro de Recuperación de Fauna Silvestre de Oleiros](https://www.lavozdegalicia.es/noticia/coruna/2024/09/10/detectan-gripe-aviar-cuatro-gaviotas-alojadas-centro-recuperacion-fauna-silvestre-oleiros/00031725988614524711383.htm) (Lavozdegalicia.es)
-
-- [Detectan gripe aviar en cuatro gaviotas alojadas en el Centro de Recuperación de Fauna Silvestre de Oleiros](https://www.lavozdegalicia.es/noticia/somosagro/ganaderia/2024/09/10/detectan-gripe-aviar-cuatro-gaviotas-alojadas-centro-recuperacion-fauna-silvestre-oleiros/00031725988614524711383.htm) (Lavozdegalicia.es)
-
-- [EE.UU. detecta el primer caso de gripe aviar en una persona que no tuvo contacto conocido con animales](https://www.meneame.net/m/actualidad/ee-uu-detecta-primer-caso-gripe-aviar-persona-no-tuvo-contacto) (Meneame.net)
-
-## 24-37 (dengue)
-
-- [Dengue dip sharper in hotspot Mahadevapura than in rest of Bengaluru](https://timesofindia.indiatimes.com/city/bengaluru/dengue-dip-sharper-in-hotspot-mahadevapura-than-in-rest-of-bengaluru/articleshow/113356118.cms) (The Times of India)
-
-- [Casi di Dengue, al via tre giorni disinfestazione notturna Fano](https://www.ansa.it/marche/notizie/2024/09/14/casi-di-dengue-al-via-tre-giorni-disinfestazione-notturna-fano_5e76990f-9ac7-4d2f-92fd-a3d7dae63062.html) (ANSA.it)
-
-- [Upravení komáři vypouštění z dronů pomáhají při boji s nakažlivými nemocemi](https://cmp.seznam.cz/nastaveni-souhlasu?return_url=https%3A%2F%2Fwww.novinky.cz%2Fclanek%2Fveda-skoly-upraveni-komari-vypousteni-z-dronu-pomahaji-pri-boji-s-nakazlivymi-nemocemi-40487692%3Fcwreturn%3D1&service=bcr&cwtime=1726296915646) (Seznam.cz)
-
-- [Epidemia de dengue: ¿Por qué el cambio climático y el fenómeno El Niño son señalados como los responsables?](https://www.nacion.com/ciencia/salud/epidemia-de-dengue-por-que-el-cambio-climatico-y/VHC7DW46NRG2FPO7ILVMWLRGHU/story/) (Nacion.com)
-
-- [Moustique tigre : le risque d’épidémies dans les cinq prochaines années est «assez élevé», avertit l’Anses](https://www.liberation.fr/societe/sante/moustique-tigre-le-risque-depidemies-dans-les-cinq-prochaines-annees-est-assez-eleve-avertit-lanses-20240913_ZVWD7UR2ABCODHWG4TGR5NCZ3M/) (Libération)
-
-- [1,870 dengue fever cases reported in week 36](https://www.thestar.com.my/news/nation/2024/09/14/1870-dengue-fever-cases-reported-in-week-36) (The Star Online)
-
-- [Due segnalazioni di casi Dengue in provincia di Terni](https://www.ansa.it/umbria/notizie/2024/09/13/due-segnalazioni-di-casi-dengue-in-provincia-di-terni_14597bb8-56e9-47ab-92ee-33c3adb5d225.html) (ANSA.it)
-
-- [Vaucluse : « J'ai cru mourir »... L’éradication du moustique tigre devient une priorité pour éviter une crise sanitaire](https://www.20minutes.fr/sante/4110026-20240913-vaucluse-cru-mourir-eradication-moustique-tigre-devient-priorite-eviter-crise-sanitaire) (20 Minutes)
-
-- [Cómo la IA puede ayudar a prevenir brotes de dengue](https://noticias.perfil.com/noticias/medicina/como-la-ia-puede-ayudar-a-prevenir-brotes-de-dengue.phtml) (Perfil.com)
-
-- [Dengue cases on the rise in Parbat](https://english.khabarhub.com/2024/13/396927/) (Khabarhub.com)
-
-- [Moustique tigre en France : la menace qui plane sur les cinq prochaines années](https://www.lexpress.fr/sciences-sante/sante/moustique-tigre-en-france-la-menace-qui-plane-sur-les-cinq-prochaines-annees-47LFNMEU6ZHNRFPU5PXX2TDE5A/) (L'Express)
-
-- [Dengue, chikungunya, Zika ... un risque « assez élevé » d’épidémies liées au moustique tigre en France](https://www.lesoir.be/622492/article/2024-09-13/dengue-chikungunya-zika-un-risque-assez-eleve-depidemies-liees-au-moustique) (Le Soir)
-
-- [Risque « assez élevé » d’épidémies liées au moustique tigre en France](https://www.sudinfo.be/id880437/article/2024-09-13/risque-assez-eleve-depidemies-liees-au-moustique-tigre-en-france) (Sudinfo.be)
-
-- [Moustique tigre : La probabilité d’une épidémie de dengue ou de chikungunya en France est désormais « assez élevée »](https://www.20minutes.fr/sante/4109950-20240913-moustique-tigre-probabilite-epidemie-dengue-chikungunya-france-desormais-assez-elevee) (20 Minutes)
-
-- [Nelle Marche 11 casi di Dengue in provincia di Pesaro Urbino](https://www.ansa.it/marche/notizie/2024/09/13/nelle-marche-11-casi-di-dengue-in-provincia-di-pesaro-urbino_b7ff154c-55b5-4686-8076-a1d1973c6bec.html) (ANSA.it)
-
-- [Risque d'épidémies "assez élevé" : les dégâts du moustique tigre en France](https://www.dhnet.be/actu/belgique/2024/09/13/risque-depidemies-assez-eleve-les-degats-du-moustique-tigre-en-france-F4KUFPHYKJEUZKKIJ6DIAJ64K4/) (dh.be)
-
-- [Risque d'épidémies "assez élevé" : les dégâts du moustique tigre en France](https://www.dhnet.be/actu/belgique/2024/09/13/risque-depidemies-assez-eleve-les-degats-du-moustique-tigre-en-france-BLMM7P7UPFDR5LSMQ47ME3PN34/) (dh.be)
-
-- [Nelle Marche 11 casi di Dengue in provincia di Pesaro Urbino](https://www.ansa.it/sito/notizie/cronaca/2024/09/13/nelle-marche-11-casi-di-dengue-in-provincia-di-pesaro-urbino_743a13e4-e973-4d37-8309-788756156e0d.html) (ANSA.it)
-
-- [Moustique tigre: "risque assez élevé" d'épidémies dans l'Hexagone dans les cinq prochaines années](https://www.francetvinfo.fr/sante/maladie/chikungunya/moustique-tigre-risque-assez-eleve-d-epidemies-dans-l-hexagone-dans-les-cinq-prochaines-annees_6779455.html) (Francetvinfo.fr)
-
-- [Santé. Moustique tigre : l'Anses pointe un risque d'épidémie dans les prochaines années](https://www.ledauphine.com/sante/2024/09/13/moustique-tigre-l-anses-pointe-un-risque-d-epidemie-dans-les-prochaines-annees) (Le Dauphiné Libéré)
-
-- [Knokkelkoorts rukt op: Europese vakantiebestemmingen steeds meer bedreigd](https://newsmonkey.be/knokkelkoorts-rukt-op-europese-vakantiebestemmingen-steeds-meer-bedreigd/) (Newsmonkey.be)
-
-- [Von Mücken übertragen - Kann lebensgefährlich sein: Italien meldet erste Dengue-Fälle](https://www.focus.de/gesundheit/news/von-muecken-uebertragen-kann-lebensgefaehrlich-sein-italien-meldet-erste-dengue-faelle_id_260307712.html) (Focus)
-
-- [Dengue cases increase in ME36, one death reported](https://www.thestar.com.my/news/nation/2024/09/13/dengue-cases-increase-in-me36-one-death-reported) (The Star Online)
-
-- [NICHT im Ausland angesteckt - Italien meldet erste lokale Dengue-Fälle](https://www.bild.de/leben-wissen/medizin/dengue-fieber-italien-meldet-erste-lokale-faelle-dieses-jahr-66e3ca68cb180e1cf92070ad) (Bild)
-
-- [Eerste twee lokale gevallen van dengue in Italië dit jaar](https://www.nieuwsblad.be/cnt/dmf20240912_98105669) (Nieuwsblad.be)
-
-- [VIDEO. Alerte aux moustiques tigres](https://www.francetvinfo.fr/replay-magazine/france-2/envoye-special/video-alerte-aux-moustiques-tigres_6771604.html) (Francetvinfo.fr)
-
-- [Taliansko hlásil prvé tohtoročné prípady nákazy horúčkou dengue. Infikovaní necestovali mimo Talianska](https://spravy.pravda.sk/svet/clanok/723684-rim-ohlasil-prvy-tohtorocny-pripad-nakazy-horuckou-dengue-priamo-v-taliansku/) (Pravda.sk)
-
-- [QIAGEN und Bio-Manguinhos/Fiocruz verbessern Nachweis von Malaria und Dengue-Fieber in Brasiliens nationalem Screening-Programm](https://www.globenewswire.com/news-release/2024/09/12/2945576/0/de/QIAGEN-und-Bio-Manguinhos-Fiocruz-verbessern-Nachweis-von-Malaria-und-Dengue-Fieber-in-Brasiliens-nationalem-Screening-Programm.html) (GlobeNewswire)
-
-- [QIAGEN and Bio-Manguinhos/Fiocruz collaborate to enhance malaria and dengue detection in Brazil’s national screening programs](https://www.globenewswire.com/news-release/2024/09/12/2945577/8690/en/QIAGEN-and-Bio-Manguinhos-Fiocruz-collaborate-to-enhance-malaria-and-dengue-detection-in-Brazil-s-national-screening-programs.html) (GlobeNewswire)
-
-- [Casi di febbre dengue a Fano, disinfestazioni notturne](https://www.ansa.it/marche/notizie/2024/09/12/casi-di-febbre-dengue-a-fano-disinfestazioni-notturne_7201882e-8d4e-41cd-aba3-11555403ce63.html) (ANSA.it)
-
-- [Dengue, salgono a due i casi autoctoni sui 412 rilevati in Italia. I casi importati soprattutto dal Brasile](https://www.ilfattoquotidiano.it/2024/09/12/dengue-salgono-a-due-i-casi-autoctoni-sui-412-rilevati-in-italia-i-casi-importati-soprattutto-dal-brasile/7691188/) (Ilfattoquotidiano.it)
-
-- [Effects of the El Niño-Southern Oscillation and seasonal weather conditions on Aedes aegypti infestation in the State of São Paulo (Brazil): A Bayesian spatio-temporal study](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012397) (Plos.org)
-
-- [Rahul Vaidya, Suffering From Dengue, Performs 2 Hours Non-Stop In Jaipur](https://www.ndtv.com/entertainment/rahul-vaidya-suffering-from-dengue-performs-2-hours-non-stop-in-jaipur-6549036) (NDTV News)
-
-- [Crecen las consultas: la recomendación de los especialistas sobre si conviene vacunarse contra el dengue y cuándo hacerlo](https://www.lanacion.com.ar/sociedad/crecen-las-consultas-la-recomendacion-de-los-especialistas-sobre-si-conviene-vacunarse-contra-el-nid12092024/) (La Nacion)
-
-- [In provincia di Brescia è stato registrato un caso di trasmissione di dengue in Italia, il primo del 2024](https://www.ilpost.it/2024/09/12/brescia-contagio-autoctono-dengue/) (Ilpost.it)
-
-- [Death of fishing labourers: Dengue, cholera rising at Goa jetty, says Rane](https://www.business-standard.com/india-news/death-of-fishing-labourers-dengue-cholera-rising-at-goa-jetty-says-rane-124091200246_1.html) (Business Standard)
-
-- [Baccolod: NegOcc, Bacolod log 13 dengue related deaths](https://rpnradio.com/baccolod-negocc-bacolod-log-13-dengue-related-deaths/) (Rpnradio.com)
-
-- [Vaucluse : l'éradication du moustique tigre, un enjeu dans l'un des principaux foyers de dengue en France](https://www.francetvinfo.fr/replay-jt/france-2/20-heures/vaucluse-l-eradication-du-moustique-tigre-un-enjeu-dans-l-un-des-principaux-foyers-de-dengue-en-france_6776179.html) (Francetvinfo.fr)
-
-- [Dengue, virus respiratorios y diarreas acechan en este momento](https://www.nacion.com/ciencia/salud/dengue-virus-respiratorios-y-diarreas-acechan-en/GMBESPLRJNHQ7I44XBQNUQMJGA/story/) (Nacion.com)
-
-- [Dengue-like illnesses in kids rising & worrisome, say doctors](https://timesofindia.indiatimes.com/city/bengaluru/dengue-like-illnesses-in-kids-rising-worrisome-say-doctors/articleshow/113269429.cms) (The Times of India)
-
-- [Students’ awareness videos get 35L views](https://timesofindia.indiatimes.com/city/bengaluru/students-awareness-videos-get-35l-views/articleshow/113269423.cms) (The Times of India)
-
-- [Jakarta to extend Wolbachia releases if target not met](https://en.antaranews.com/news/325599/jakarta-to-extend-wolbachia-releases-if-target-not-met) (Antaranews.com)
-
-- [Dengue, primo caso autoctono in Italia identificato a Brescia. Bassetti: “Ce ne sono altri misconosciuti?”](https://www.ilfattoquotidiano.it/2024/09/11/dengue-primo-caso-autoctono-in-italia-identificato-a-brescia-bassetti-ce-ne-sono-altri-misconosciuti/7689583/) (Ilfattoquotidiano.it)
-
-- [Demographic-environmental effect on dengue outbreaks in 11 countries](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0305854) (Plos.org)
-
-- [Detectan un brote de dengue en Cataluña: cómo se trasmite y cuáles son sus síntomas](https://www.meneame.net/m/actualidad/detectan-brote-dengue-cataluna-como-trasmite-cuales-son-sintomas) (Meneame.net)
-
-- [Un caso di dengue autoctono a Brescia](https://www.ansa.it/lombardia/notizie/2024/09/11/un-caso-di-dengue-autoctono-a-brescia_e1ed3c74-f518-43a0-a951-2d0af1970b3e.html) (ANSA.it)
-
-- [Gefährliche Tigermücken fühlt sich jetzt auch in diesem Bezirk heimisch](https://www.morgenpost.de/bezirke/pankow/article407229165/gefaehrliche-tigermuecken-fuehlt-sich-jetzt-auch-in-diesem-bezirk-heimisch.html) (Berliner Morgenpost)
-
-- [Quand on part en vacances dans le Gard, on risque de développer la dengue](https://www.lavenir.net/actu/societe/2024/09/11/quand-on-part-en-vacances-dans-le-gard-on-risque-de-developper-la-dengue-TV335HY23ZDPRC6SEPTJQIRYQA/) (Lavenir.net)
-
-- [Hyundai Bioscience announces XAFTY ®, a groundbreaking broad-spectrum antiviral capable of treating COVID-19, mpox, and dengue](https://www.investing.com/news/press-releases/hyundai-bioscience-announces-xafty--a-groundbreaking-broadspectrum-antiviral-capable-of-treating-covid19-mpox-and-dengue-93CH-3610791) (Investing.com)
-
-- [Rahul Vaidya and Disha Parmar share health update amid dengue diagnosis as they get spotted at the airport; see video](https://timesofindia.indiatimes.com/tv/news/hindi/rahul-vaidya-and-disha-parmar-share-health-update-amid-dengue-diagnosis-as-they-get-spotted-at-the-airport-see-video/articleshow/113250169.cms) (The Times of India)
-
-- [Study identifies areas of Europe at risk from dengue fever due to spread of Asian tiger mosquito](https://phys.org/news/2024-09-areas-europe-dengue-fever-due.html) (Phys.Org)
-
-- [Study identifies areas of Europe at risk from dengue fever due to spread of Asian tiger mosquito](https://www.sciencedaily.com/releases/2024/09/240910121007.htm) (Science Daily)
-
-- [Cómo saber dónde vacunarse contra el dengue gratis](https://www.lanacion.com.ar/sociedad/donde-vacunarse-contra-el-dengue-gratis-nid10092024/) (La Nacion)
-
-- [Larval crowding enhances dengue virus loads in Aedes aegypti, a relationship that might increase transmission in urban environments](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012482) (Plos.org)
-
-- [Jorge Macri se sumará al protocolo de Bullrich en la movilización contra el veto a la reforma jubilatoria](https://www.lanacion.com.ar/politica/jorge-macri-se-sumara-al-protocolo-de-bullrich-en-la-movilizacion-contra-el-veto-a-la-reforma-nid10092024/) (La Nacion)
-
-- [Fernán Quirós explicó las características del insecto que transmite dengue y marcó las claves para evitar su propagación](https://www.lanacion.com.ar/sociedad/fernan-quiros-explico-las-caracteristicas-del-insecto-que-transmite-dengue-y-marco-las-claves-para-nid10092024/) (La Nacion)
-
-- [Popular European holiday hotspots at risk of being hit by tropical disease, warn UK scientists](https://news.sky.com/story/dengue-fever-popular-european-holiday-hotspots-at-risk-of-being-hit-by-tropical-disease-warn-uk-scientists-13212298) (Sky.com)
-
-- [Disha Parmar shares a health update with fans as she suffers pain due to dengue, writes 'Excruciating pain, 103 fever at all times'](https://timesofindia.indiatimes.com/tv/news/hindi/disha-parmar-shares-a-health-update-with-fans-as-she-suffers-pain-due-to-dengue-writes-excruciating-pain-103-fever-at-all-times/articleshow/113225545.cms) (The Times of India)
-
-- [Ahmedabad faces shortage of insect collectors amidst rising dengue cases](https://timesofindia.indiatimes.com/ahmedabad/ahmedabad-faces-shortage-of-insect-collectors-amidst-rising-dengue-cases/articleshow/113223637.cms) (The Times of India)
-
-- [Mpox patient at LNJP hospital stable, no need to panic: Delhi minister](https://www.business-standard.com/pti-stories/national/mpox-patient-at-lnjp-hospital-stable-no-need-to-panic-delhi-minister-saurabh-bharadwaj-124091000572_1.html) (Business Standard)
-
-- [A hora de prevenir é agora: ações contra a dengue fazem a diferença](https://www.metropoles.com/conteudo-especial/dengue-prevenir) (Metropoles.com)
-
-- [Napřed žlutá zimnice, teď horečka dengue. Prostějovští lékaři mají další primát](https://www.idnes.cz/olomouc/zpravy/prostejov-infekcni-krvaciva-horecka-dengue-prujmy-zloutenka.A240909_817101_olomouc-zpravy_stk) (Idnes.cz)
-
-- [Dengue. La Ciudad empezará a vacunar contra la infección: qué grupos serán los primeros](https://www.lanacion.com.ar/sociedad/dengue-la-ciudad-empezara-a-vacunar-contra-la-infeccion-que-grupos-seran-los-primeros-nid09092024/) (La Nacion)
-
-- [Detectado un brote de dengue autóctono en Tarragona](https://www.abc.es/espana/cataluna/detectado-brote-dengue-autoctono-tarragona-20240909182959-nt.html) (Www.abc.es)
-
-- [Detectan un brote con tres casos de dengue autóctono en Cataluña](https://www.elmundo.es/ciencia-y-salud/salud/2024/09/09/66df0479e85ecef2678b45b6.html) (El Mundo)
-
-- [Laughter Chefs' Rahul Vaidya updates about wife Disha Parmar's dengue diagnosis; writes 'Welcome to the sick club'](https://timesofindia.indiatimes.com/tv/news/hindi/laughter-chefs-rahul-vaidya-updates-about-wife-disha-parmars-dengue-diagnosis-writes-welcome-to-the-sick-club/articleshow/113195894.cms) (The Times of India)
-
-- [Probabile caso Dengue a Ortona, scattano le misure sanitarie](https://www.ansa.it/abruzzo/notizie/2024/09/09/probabile-caso-dengue-a-ortona-scattano-le-misure-sanitarie_ca961557-0105-4071-9031-bc6bf3cc5b1f.html) (ANSA.it)
-
-- [After Rahul Vaidya, Disha Parmar Dignosed With Dengue. See Post](https://www.ndtv.com/entertainment/after-rahul-vaidya-disha-parmar-dignosed-with-dengue-welcome-to-the-sick-club-6523869) (NDTV News)
-
-- [Two succumb to dengue in Jhapa](https://english.khabarhub.com/2024/09/395644/) (Khabarhub.com)
-
-- [Jangan Salah Kaprah, Orang yang Sudah Terkena Demam Berdarah Dengue Belum Kebal dan Bisa Terjangkit Lagi Maka Pentingnya Vaksin](https://www.fimela.com/health/read/5697036/jangan-salah-kaprah-orang-yang-sudah-terkena-demam-berdarah-dengue-belum-kebal-dan-bisa-terjangkit-lagi-maka-pentingnya-vaksin) (Fimela.com)
-
-- [Dengue cases down, four deaths reported](https://www.thestar.com.my/news/nation/2024/09/09/dengue-cases-down-four-deaths-reported) (The Star Online)
-
-- [Estudo desvenda como os mosquitos da dengue acham vítimas no escuro](https://gizmodo.uol.com.br/estudo-desvenda-como-os-mosquitos-da-dengue-acham-vitimas-no-escuro/) (Uol.com.br)
-
-- [Puerta a puerta: así es el operativo en 6947 domicilios para conocer cuántos porteños ya tuvieron dengue](https://www.lanacion.com.ar/sociedad/puerta-a-puerta-asi-es-el-operativo-en-6947-domicilios-para-conocer-cuantos-portenos-ya-tuvieron-nid08092024/) (La Nacion)
-
-## 24-37 (chikungunya)
-
-- [Moustique tigre : le risque d’épidémies dans les cinq prochaines années est «assez élevé», avertit l’Anses](https://www.liberation.fr/societe/sante/moustique-tigre-le-risque-depidemies-dans-les-cinq-prochaines-annees-est-assez-eleve-avertit-lanses-20240913_ZVWD7UR2ABCODHWG4TGR5NCZ3M/) (Libération)
-
-- ["Le risque épidémique n'est plus à écarter" à La Réunion, où un sixième cas de chikungunya a été détecté, alerte l'ARS](https://la1ere.francetvinfo.fr/reunion/un-sixieme-cas-de-chikungunya-a-la-reunion-le-risque-epidemique-n-est-plus-a-ecarter-previent-l-ars-1521383.html) (Francetvinfo.fr)
-
-- [Moustique tigre en France : la menace qui plane sur les cinq prochaines années](https://www.lexpress.fr/sciences-sante/sante/moustique-tigre-en-france-la-menace-qui-plane-sur-les-cinq-prochaines-annees-47LFNMEU6ZHNRFPU5PXX2TDE5A/) (L'Express)
-
-- [Dengue, chikungunya, Zika ... un risque « assez élevé » d’épidémies liées au moustique tigre en France](https://www.lesoir.be/622492/article/2024-09-13/dengue-chikungunya-zika-un-risque-assez-eleve-depidemies-liees-au-moustique) (Le Soir)
-
-- [Risque « assez élevé » d’épidémies liées au moustique tigre en France](https://www.sudinfo.be/id880437/article/2024-09-13/risque-assez-eleve-depidemies-liees-au-moustique-tigre-en-france) (Sudinfo.be)
-
-- [Moustique tigre : La probabilité d’une épidémie de dengue ou de chikungunya en France est désormais « assez élevée »](https://www.20minutes.fr/sante/4109950-20240913-moustique-tigre-probabilite-epidemie-dengue-chikungunya-france-desormais-assez-elevee) (20 Minutes)
-
-- [Risque d'épidémies "assez élevé" : les dégâts du moustique tigre en France](https://www.dhnet.be/actu/belgique/2024/09/13/risque-depidemies-assez-eleve-les-degats-du-moustique-tigre-en-france-F4KUFPHYKJEUZKKIJ6DIAJ64K4/) (dh.be)
-
-- [Risque d'épidémies "assez élevé" : les dégâts du moustique tigre en France](https://www.dhnet.be/actu/belgique/2024/09/13/risque-depidemies-assez-eleve-les-degats-du-moustique-tigre-en-france-BLMM7P7UPFDR5LSMQ47ME3PN34/) (dh.be)
-
-- [Moustique tigre: "risque assez élevé" d'épidémies dans l'Hexagone dans les cinq prochaines années](https://www.francetvinfo.fr/sante/maladie/chikungunya/moustique-tigre-risque-assez-eleve-d-epidemies-dans-l-hexagone-dans-les-cinq-prochaines-annees_6779455.html) (Francetvinfo.fr)
-
-- [Santé. Moustique tigre : l'Anses pointe un risque d'épidémie dans les prochaines années](https://www.ledauphine.com/sante/2024/09/13/moustique-tigre-l-anses-pointe-un-risque-d-epidemie-dans-les-prochaines-annees) (Le Dauphiné Libéré)
-
-- [Butantan publica estudo de fase 3 da vacina da chikungunya; proteção chegou a 100% em adolescentes](https://gizmodo.uol.com.br/butantan-publica-estudo-de-fase-3-da-vacina-da-chikungunya-protecao-chegou-a-100-em-adolescentes/) (Uol.com.br)
-
-- [HS Prannoy to take a break from game](https://timesofindia.indiatimes.com/sports/badminton/hs-prannoy-to-take-a-break-from-game/articleshow/113246705.cms) (The Times of India)
-
-- [Larval crowding enhances dengue virus loads in Aedes aegypti, a relationship that might increase transmission in urban environments](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012482) (Plos.org)
