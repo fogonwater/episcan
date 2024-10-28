@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 8
-- **Last harvest:** 2024-10-27 19:06
-- **Most recent article:** 2024-10-26 18:22:24
+- **New articles in last harvest:** 3
+- **Last harvest:** 2024-10-28 07:07
+- **Most recent article:** 2024-10-27 04:00:00
 
 ---
 
@@ -10,28 +10,32 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 24-38 | 24-39 | 24-40 | 24-41 | 24-42 | 24-43 | Total |
-|--|-|-|-|-|-|-|-|
-| mpox | 132 | 122 | 128 | 42 | 81 | 131 | 636 |
-| dengue | 67 | 49 | 51 | 35 | 50 | 52 | 304 |
-| h5n1 | 17 | 35 | 50 | 10 | 18 | 12 | 142 |
-| malaria | 15 | 24 | 10 | 13 | 18 | 58 | 138 |
-| rabies | 12 | 25 | 30 | 6 | 7 | 2 | 82 |
-| meningitis | 10 | 6 | 11 | 2 | 1 | 6 | 36 |
-| chikungunya | 9 | 3 | 3 | 3 | 4 | 7 | 29 |
-| zika | 8 | 1 | 3 | 4 | 6 | 6 | 28 |
-| measles | 5 | 4 | 6 | 5 | 3 | 1 | 24 |
-| pertussis | 3 | 3 | 2 | 2 | 9 | 3 | 22 |
-| leptospirosis | 1 | 5 | 4 | 1 | 1 | 0 | 12 |
-| typhoid | 0 | 4 | 1 | 0 | 1 | 3 | 9 |
-| hpai | 0 | 2 | 2 | 1 | 2 | 2 | 9 |
-| yersinia | 2 | 2 | 1 | 1 | 0 | 0 | 6 |
-| shigellosis | 0 | 0 | 1 | 3 | 0 | 1 | 5 |
+| Disease | 24-38 | 24-39 | 24-40 | 24-41 | 24-42 | 24-43 | 24-44 | Total |
+|--|-|-|-|-|-|-|-|-|
+| mpox | 137 | 122 | 128 | 42 | 81 | 131 | 0 | 641 |
+| dengue | 73 | 49 | 51 | 35 | 50 | 53 | 1 | 312 |
+| h5n1 | 17 | 35 | 50 | 10 | 18 | 12 | 0 | 142 |
+| malaria | 15 | 24 | 10 | 13 | 18 | 58 | 0 | 138 |
+| rabies | 12 | 25 | 30 | 6 | 7 | 3 | 0 | 83 |
+| meningitis | 10 | 6 | 11 | 2 | 1 | 6 | 0 | 36 |
+| chikungunya | 9 | 3 | 3 | 3 | 4 | 7 | 0 | 29 |
+| zika | 8 | 1 | 3 | 4 | 6 | 6 | 0 | 28 |
+| measles | 8 | 4 | 6 | 5 | 3 | 1 | 0 | 27 |
+| pertussis | 3 | 3 | 2 | 2 | 9 | 3 | 0 | 22 |
+| leptospirosis | 1 | 5 | 4 | 1 | 1 | 0 | 0 | 12 |
+| typhoid | 0 | 4 | 1 | 0 | 1 | 3 | 0 | 9 |
+| hpai | 0 | 2 | 2 | 1 | 2 | 2 | 0 | 9 |
+| yersinia | 2 | 2 | 1 | 1 | 0 | 0 | 0 | 6 |
+| shigellosis | 0 | 0 | 1 | 3 | 0 | 1 | 0 | 5 |
 
 
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 24-44 (dengue)
+
+- [El lado amable (y real) de los mosquitos](https://www.lavozdegalicia.es/noticia/vigo/2024/10/27/lado-amable-real-mosquitos/0003_202410V27C6992.htm) (Lavozdegalicia.es)
 
 ## 24-43 (zika)
 
@@ -60,6 +64,8 @@ Source: [News API](https://newsapi.org/)
 - [I Got Dysentary So You Don't Have To](https://eukaryotewritesblog.com/2024/10/21/i-got-dysentery-so-you-dont-have-to/) (Eukaryotewritesblog.com)
 
 ## 24-43 (rabies)
+
+- [Winston Churchill Called Islam as Dangerous to Man as Rabies to a Dog?](https://www.snopes.com//fact-check/winston-churchill-islam-rabies/) (Snopes.com)
 
 - [LakeShore Biopharma to test simplified rabies vaccine regimen](https://www.investing.com/news/company-news/lakeshore-biopharma-to-test-simplified-rabies-vaccine-regimen-93CH-3683471) (Investing.com)
 
@@ -506,6 +512,8 @@ Source: [News API](https://newsapi.org/)
 - [Inside the Bungled Bird Flu Response, Where Profits Collide With Public Health](https://www.vanityfair.com/news/story/inside-the-bungled-bird-flu-response) (Vanity Fair)
 
 ## 24-43 (dengue)
+
+- [Dengue. Por qué le piden a los vecinos de un municipio no matar a los “mosquitos flúo”](https://www.lanacion.com.ar/sociedad/dengue-por-que-le-piden-a-los-vecinos-de-un-municipio-no-matar-a-los-mosquitos-fluo-nid26102024/) (La Nacion)
 
 - [V.I. Department of Health Launches Dengue Hotline as Cases Continue to Surge Across Territory](https://viconsortium.com/vi-health/virgin-islands-v-i--department-of-health-launches-dengue-hotline-as-cases-continue-to-surge-across-territory) (Viconsortium.com)
 
@@ -2897,6 +2905,16 @@ Source: [News API](https://newsapi.org/)
 
 - [Mpox: mundo ultrapassa marca de 100 mil casos, diz OMS](https://brasil.perfil.com/saude/mpox-mundo-ultrapassa-marca-de-100-mil-casos-diz-oms.phtml) (Perfil.com)
 
+- [Mundo ultrapassa 100 mil casos de Mpox desde 2022, diz OMS](https://valor.globo.com/mundo/noticia/2024/09/15/mundo-ultrapassa-100-mil-casos-de-mpox-desde-2022-diz-oms.ghtml) (Globo)
+
+- [Dünya Sağlık Örgütü, M çiçeği virüsüne karşı ilk aşıya onay verdi](https://www.haber7.com/dunya/haber/3460286-dunya-saglik-orgutu-m-cicegi-virusune-karsi-ilk-asiya-onay-verdi) (Haber7.com)
+
+- [WHO Approves First Mpox Vaccine for Adults in Africa — Then Says Babies Can Get It, Too, Despite No Clinical Trials](https://www.globalresearch.ca/who-approves-first-mpox-vaccine-adults-africa/5867875) (Globalresearch.ca)
+
+- [How Mpox spread across the world: Global Health crises | Mpox virus explained in detailed](https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D8oIZ49jSKaI) (YouTube)
+
+- [В Африке с начала года выявили более 25 тыс. случаев с подозрением на mpox](https://tass.ru/obschestvo/21868517) (Tass.ru)
+
 ## 24-38 (meningitis)
 
 - [meningitis pediatric health nursing kmu BSN 5th semester](https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DeQU9Gvyhec0) (YouTube)
@@ -2930,6 +2948,12 @@ Source: [News API](https://newsapi.org/)
 - [Children receiving 'life-saving' vaccines at lowest level for more than a decade](https://news.sky.com/story/children-receiving-life-saving-vaccines-at-lowest-level-for-more-than-a-decade-13216708) (Sky.com)
 
 - [Multifaceted activation of STING axis upon Nipah and measles virus-induced syncytia formation](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012569) (Plos.org)
+
+- [Rx, world can't afford a relapse](https://m.economictimes.com/opinion/et-editorial/rx-world-cant-afford-a-relapse/articleshow/113373311.cms) (Economictimes.com)
+
+- [Experts warn against vaccine skepticism](https://www.cbsnews.com/news/experts-warn-against-vaccine-skepticism/) (CBS News)
+
+- [As measles cases increase, experts warn against vaccine skepticism](https://www.cbsnews.com/video/as-measles-cases-increase-experts-warn-against-vaccine-skepticism/) (CBS News)
 
 ## 24-38 (malaria)
 
@@ -3138,6 +3162,18 @@ Source: [News API](https://newsapi.org/)
 - [दिल्लीवालो सावधान! फिर डराने लगा डेंगू, 24 घंटे में दो मरीजों की मौत](https://navbharattimes.indiatimes.com/metro/delhi/other-news/delhi-dengue-cases-increased-two-people-died/articleshow/113383493.cms) (The Times of India)
 
 - [Rahul Vaidya shares health update about his and wife Disha Parmar's recovery from dengue; says, ‘We had the worst 7 days of our lives'](https://timesofindia.indiatimes.com/tv/news/hindi/rahul-vaidya-shares-health-update-about-his-and-wife-disha-parmars-recovery-from-dengue-says-we-had-the-worst-7-days-of-our-lives/articleshow/113382111.cms) (The Times of India)
+
+- [Cientistas alertam para o risco da Dengue afetar os destinos de férias da Europa](https://pplware.sapo.pt/ciencia/cientistas-alertam-para-o-risco-da-dengue-afetar-os-destinos-de-ferias-mais-populares-da-europa/) (Sapo.pt)
+
+- [Tigermücken n Berlin: Gekommen, um zu stechen](https://taz.de/Tigermuecken-n-Berlin/!6034020/) (taz.de)
+
+- [Tigermücken in Berlin: Gekommen, um zu stechen](https://taz.de/Tigermuecken-in-Berlin/!6034020/) (taz.de)
+
+- [Comune Fano, 'conclusa con successo prima fase disinfestazione'](https://www.ansa.it/marche/notizie/2024/09/15/comune-fano-conclusa-con-successo-prima-fase-disinfestazione_9723cd96-5fe6-410c-987d-5e8bf5e74676.html) (ANSA.it)
+
+- [Pennsylvania health officials issue warning after 'breakbone fever' spreads across state lines: 'Get to the doctor right away'](https://www.thecooldown.com/green-tech/dengue-fever-cases-new-jersey-pennsylvania-delaware/) (Thecooldown.com)
+
+- [Dengue infection hits 9,500 nationwide, claims 6 lives](https://english.khabarhub.com/2024/15/397656/) (Khabarhub.com)
 
 ## 24-38 (chikungunya)
 
