@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 1
-- **Last harvest:** 2024-10-29 07:06
-- **Most recent article:** 2024-10-27 20:25:12
+- **New articles in last harvest:** 14
+- **Last harvest:** 2024-10-29 19:05
+- **Most recent article:** 2024-10-28 18:30:09
 
 ---
 
@@ -12,20 +12,20 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-38 | 24-39 | 24-40 | 24-41 | 24-42 | 24-43 | 24-44 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 137 | 122 | 128 | 42 | 81 | 131 | 0 | 641 |
-| dengue | 73 | 49 | 51 | 35 | 50 | 53 | 1 | 312 |
-| h5n1 | 17 | 35 | 50 | 10 | 18 | 12 | 1 | 143 |
-| malaria | 15 | 24 | 10 | 13 | 18 | 58 | 1 | 139 |
-| rabies | 12 | 25 | 30 | 6 | 7 | 3 | 1 | 84 |
+| mpox | 132 | 122 | 128 | 42 | 81 | 131 | 2 | 638 |
+| dengue | 67 | 49 | 51 | 35 | 50 | 53 | 5 | 310 |
+| h5n1 | 17 | 35 | 50 | 10 | 18 | 12 | 3 | 145 |
+| malaria | 15 | 24 | 10 | 13 | 18 | 58 | 3 | 141 |
+| rabies | 12 | 25 | 30 | 6 | 7 | 3 | 2 | 85 |
 | meningitis | 10 | 6 | 11 | 2 | 1 | 6 | 0 | 36 |
-| chikungunya | 9 | 3 | 3 | 3 | 4 | 7 | 0 | 29 |
-| zika | 8 | 1 | 3 | 4 | 6 | 6 | 0 | 28 |
-| measles | 8 | 4 | 6 | 5 | 3 | 1 | 0 | 27 |
-| pertussis | 3 | 3 | 2 | 2 | 9 | 3 | 0 | 22 |
+| chikungunya | 9 | 3 | 3 | 3 | 4 | 7 | 1 | 30 |
+| zika | 8 | 1 | 3 | 4 | 6 | 6 | 1 | 29 |
+| measles | 5 | 4 | 6 | 5 | 3 | 1 | 0 | 24 |
+| pertussis | 3 | 3 | 2 | 2 | 9 | 3 | 1 | 23 |
 | leptospirosis | 1 | 5 | 4 | 1 | 1 | 0 | 0 | 12 |
-| typhoid | 0 | 4 | 1 | 0 | 1 | 3 | 1 | 10 |
+| typhoid | 0 | 4 | 1 | 0 | 1 | 3 | 2 | 11 |
 | hpai | 0 | 2 | 2 | 1 | 2 | 2 | 0 | 9 |
-| yersinia | 2 | 2 | 1 | 1 | 0 | 0 | 0 | 6 |
+| yersinia | 2 | 2 | 1 | 1 | 0 | 0 | 1 | 7 |
 | shigellosis | 0 | 0 | 1 | 3 | 0 | 1 | 0 | 5 |
 
 
@@ -33,25 +33,67 @@ Source: [News API](https://newsapi.org/)
 
 ---
 
+## 24-44 (zika)
+
+- [Températures, humidité... Fin octobre, le moustique tigre continue de proliférer en France](https://www.bfmtv.com/societe/temperatures-humidite-fin-octobre-le-moustique-tigre-continue-de-proliferer-en-france_AV-202410280521.html) (BFMTV)
+
+## 24-44 (yersinia)
+
+- [Los temibles tratamientos y remedios que usaban los sombríos médicos de la peste negra](https://www.huffingtonpost.es/sociedad/los-temibles-tratamientos-remedios-usaban-sombrios-medicos-peste-negra-hpe1.html) (Huffingtonpost.es)
+
 ## 24-44 (typhoid)
+
+- [Time to Get Typhoid! Classic Oregon Trail Video Game to Get Movie Treatment](https://reactormag.com/time-to-get-typhoid-classic-oregon-trail-video-game-to-get-movie-treatment/) (Reactormag.com)
 
 - [What raises the risk of Typhoid among children living in crowded areas](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/what-raises-the-risk-of-typhoid-among-children-living-in-crowded-areas/articleshow/114660592.cms) (The Times of India)
 
 ## 24-44 (rabies)
 
+- [Vedanta's Anil Agarwal Foundation partners with Goa government to eradicate rabies in state](https://economictimes.indiatimes.com/news/company/corporate-trends/vedantas-anil-agarwal-foundation-partners-with-goa-government-to-eradicate-rabies-in-state/articleshow/114696401.cms) (The Times of India)
+
 - [Man from Israel's North contracts rabies after bite from pet dog - report](https://www.jpost.com/breaking-news/article-826368) (The Jerusalem Post)
 
+## 24-44 (pertussis)
+
+- ['Looked Like a Cold': Mom Who Lost Baby to Whooping Cough Has Plea for US](https://www.newsweek.com/looked-like-cold-mom-lost-baby-whooping-cough-plea-1976115) (Newsweek)
+
+## 24-44 (mpox)
+
+- [Akwa Ibom confirms eight Mpox cases, begins sensitisation](https://punchng.com/akwa-ibom-confirms-eight-mpox-cases-begins-sensitisation/) (The Punch)
+
+- [Fjerde tilfelle av mpox oppdaget i Oslo](https://www.vg.no/nyheter/i/zAxex4/fjerde-tilfelle-av-m-kopper-oppdaget-i-oslo) (Www.vg.no)
+
 ## 24-44 (malaria)
+
+- [Differences in phenotype between long-lived memory B cells against Plasmodium falciparum merozoite antigens and variant surface antigens](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012661) (Plos.org)
+
+- [Ogun, SFH deploy 1,180 town announcers for mosquito nets distribution](https://punchng.com/ogun-sfh-deploy-1180-town-announcers-for-mosquito-nets-distribution/) (The Punch)
 
 - [Experts caution FG on malaria vaccine mass rollout](https://punchng.com/experts-caution-fg-on-malaria-vaccine-mass-rollout/) (The Punch)
 
 ## 24-44 (h5n1)
 
+- [H5N1 virus isolated from infected dairy worker is 100% lethal in ferrets, but does not appear to be circulating in nature anymore](https://www.sciencedaily.com/releases/2024/10/241028131451.htm) (Science Daily)
+
+- [Flu season will complicate tracking spread of H5N1 avian influenza](https://www.statnews.com/2024/10/28/flu-season-presents-challenges-in-tracking-h5n1-avian-influenza-outbreak/) (STAT)
+
 - [Exclusive: Emails Reveal How Health Departments Struggle To Track Human Cases of Bird Flu](https://www.nakedcapitalism.com/2024/10/exclusive-emails-reveal-how-health-departments-struggle-to-track-human-cases-of-bird-flu.html) (Nakedcapitalism.com)
 
 ## 24-44 (dengue)
 
+- [Ratos, lixo e foco de dengue: saiba o estado da mansão de Mário Gomes](https://www.metropoles.com/colunas/fabia-oliveira/ratos-lixo-e-foco-de-dengue-saiba-o-estado-da-mansao-de-mario-gomes) (Metropoles.com)
+
+- [Dengue: 3 more die, 1,197 hospitalised in 24hrs](https://www.tbsnews.net/bangladesh/health/dengue-3-more-die-1197-hospitalised-24hrs-978526) (Tbsnews.net)
+
+- [Températures, humidité... Fin octobre, le moustique tigre continue de proliférer en France](https://www.bfmtv.com/societe/temperatures-humidite-fin-octobre-le-moustique-tigre-continue-de-proliferer-en-france_AV-202410280521.html) (BFMTV)
+
+- [En ascenso, contagios de dengue en Jalisco por mala estrategia de salud](https://www.jornada.com.mx/2024/10/28/politica/017n1pol) (Jornada.com.mx)
+
 - [El lado amable (y real) de los mosquitos](https://www.lavozdegalicia.es/noticia/vigo/2024/10/27/lado-amable-real-mosquitos/0003_202410V27C6992.htm) (Lavozdegalicia.es)
+
+## 24-44 (chikungunya)
+
+- [Températures, humidité... Fin octobre, le moustique tigre continue de proliférer en France](https://www.bfmtv.com/societe/temperatures-humidite-fin-octobre-le-moustique-tigre-continue-de-proliferer-en-france_AV-202410280521.html) (BFMTV)
 
 ## 24-43 (zika)
 
@@ -2921,16 +2963,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Mpox: mundo ultrapassa marca de 100 mil casos, diz OMS](https://brasil.perfil.com/saude/mpox-mundo-ultrapassa-marca-de-100-mil-casos-diz-oms.phtml) (Perfil.com)
 
-- [Mundo ultrapassa 100 mil casos de Mpox desde 2022, diz OMS](https://valor.globo.com/mundo/noticia/2024/09/15/mundo-ultrapassa-100-mil-casos-de-mpox-desde-2022-diz-oms.ghtml) (Globo)
-
-- [Dünya Sağlık Örgütü, M çiçeği virüsüne karşı ilk aşıya onay verdi](https://www.haber7.com/dunya/haber/3460286-dunya-saglik-orgutu-m-cicegi-virusune-karsi-ilk-asiya-onay-verdi) (Haber7.com)
-
-- [WHO Approves First Mpox Vaccine for Adults in Africa — Then Says Babies Can Get It, Too, Despite No Clinical Trials](https://www.globalresearch.ca/who-approves-first-mpox-vaccine-adults-africa/5867875) (Globalresearch.ca)
-
-- [How Mpox spread across the world: Global Health crises | Mpox virus explained in detailed](https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D8oIZ49jSKaI) (YouTube)
-
-- [В Африке с начала года выявили более 25 тыс. случаев с подозрением на mpox](https://tass.ru/obschestvo/21868517) (Tass.ru)
-
 ## 24-38 (meningitis)
 
 - [meningitis pediatric health nursing kmu BSN 5th semester](https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DeQU9Gvyhec0) (YouTube)
@@ -2964,12 +2996,6 @@ Source: [News API](https://newsapi.org/)
 - [Children receiving 'life-saving' vaccines at lowest level for more than a decade](https://news.sky.com/story/children-receiving-life-saving-vaccines-at-lowest-level-for-more-than-a-decade-13216708) (Sky.com)
 
 - [Multifaceted activation of STING axis upon Nipah and measles virus-induced syncytia formation](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012569) (Plos.org)
-
-- [Rx, world can't afford a relapse](https://m.economictimes.com/opinion/et-editorial/rx-world-cant-afford-a-relapse/articleshow/113373311.cms) (Economictimes.com)
-
-- [Experts warn against vaccine skepticism](https://www.cbsnews.com/news/experts-warn-against-vaccine-skepticism/) (CBS News)
-
-- [As measles cases increase, experts warn against vaccine skepticism](https://www.cbsnews.com/video/as-measles-cases-increase-experts-warn-against-vaccine-skepticism/) (CBS News)
 
 ## 24-38 (malaria)
 
@@ -3178,18 +3204,6 @@ Source: [News API](https://newsapi.org/)
 - [दिल्लीवालो सावधान! फिर डराने लगा डेंगू, 24 घंटे में दो मरीजों की मौत](https://navbharattimes.indiatimes.com/metro/delhi/other-news/delhi-dengue-cases-increased-two-people-died/articleshow/113383493.cms) (The Times of India)
 
 - [Rahul Vaidya shares health update about his and wife Disha Parmar's recovery from dengue; says, ‘We had the worst 7 days of our lives'](https://timesofindia.indiatimes.com/tv/news/hindi/rahul-vaidya-shares-health-update-about-his-and-wife-disha-parmars-recovery-from-dengue-says-we-had-the-worst-7-days-of-our-lives/articleshow/113382111.cms) (The Times of India)
-
-- [Cientistas alertam para o risco da Dengue afetar os destinos de férias da Europa](https://pplware.sapo.pt/ciencia/cientistas-alertam-para-o-risco-da-dengue-afetar-os-destinos-de-ferias-mais-populares-da-europa/) (Sapo.pt)
-
-- [Tigermücken n Berlin: Gekommen, um zu stechen](https://taz.de/Tigermuecken-n-Berlin/!6034020/) (taz.de)
-
-- [Tigermücken in Berlin: Gekommen, um zu stechen](https://taz.de/Tigermuecken-in-Berlin/!6034020/) (taz.de)
-
-- [Comune Fano, 'conclusa con successo prima fase disinfestazione'](https://www.ansa.it/marche/notizie/2024/09/15/comune-fano-conclusa-con-successo-prima-fase-disinfestazione_9723cd96-5fe6-410c-987d-5e8bf5e74676.html) (ANSA.it)
-
-- [Pennsylvania health officials issue warning after 'breakbone fever' spreads across state lines: 'Get to the doctor right away'](https://www.thecooldown.com/green-tech/dengue-fever-cases-new-jersey-pennsylvania-delaware/) (Thecooldown.com)
-
-- [Dengue infection hits 9,500 nationwide, claims 6 lives](https://english.khabarhub.com/2024/15/397656/) (Khabarhub.com)
 
 ## 24-38 (chikungunya)
 
