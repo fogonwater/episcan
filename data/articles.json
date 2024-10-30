@@ -1,8 +1,315 @@
 {
-  "last_updated": "2024-10-30 07:06",
-  "count_articles_total": 1464,
-  "count_articles_new": 10,
+  "last_updated": "2024-10-30 19:06",
+  "count_articles_total": 1467,
+  "count_articles_new": 17,
   "articles": [
+    {
+      "id": 15029,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Possible measles exposure at Vancouver airport prompts warning",
+      "description": "The B.C. Centre for Disease Control has warned of a possible measles exposure at airports in Vancouver, Toronto and Fredericton on Oct. 16.",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/measles-vancouver-toronto-fredericton-airport-1.7366852",
+      "urlToImage": "https://i.cbc.ca/1.5343123.1714000801!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/measles-virus.jpg",
+      "publishedAt": "2024-10-29 18:19:04",
+      "content": "The B.C. Centre for Disease Control has warned of a possible measles exposure at airports in Vancouver, Toronto and Fredericton on Oct. 16. According to the notice, a passenger with a confirmed case\u2026 [+1405 chars]",
+      "retrievedAt": "2024-10-30 19:06:04.320130",
+      "internal_id": "58356452064ed12e15c0b1f0cef883d89ab69f391c86ddfd1f558c599db53a78",
+      "publishedAtLabel": "Oct 29"
+    },
+    {
+      "id": 15034,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Hotnews.ro",
+      "author": "Adrian Ilie",
+      "title": "Rom\u00e2nia a raportat autorit\u0103\u021bilor interna\u021bionale un focar de grip\u0103 aviar\u0103. Primele cazuri au fost depistate \u00een estul \u021b\u0103rii",
+      "description": "Rom\u00e2nia a anun\u021bat apari\u021bia unor cazuri de H5N1 la p\u0103s\u0103ri de curte, a transmis Organiza\u021bia Mondial\u0103 pentru S\u0103n\u0103tatea Animalelor (WOAH), citat\u0103 de c\u0103tre Reuters. Anun\u021bul survine \u00een contextul \u00een care Europa se preg\u0103te\u0219te pentru cre\u0219terea\u2026",
+      "url": "http://hotnews.ro/romania-a-raportat-autoritatilor-internationale-un-focar-de-gripa-aviara-primele-cazuri-au-fost-depistate-in-estul-tarii-1823490",
+      "urlToImage": "https://hotnews.ro/wp-content/uploads/2024/10/profimedia-0926777846.jpg",
+      "publishedAt": "2024-10-29 18:18:06",
+      "content": "Rom\u00e2nia a anunat apariia unor cazuri de H5N1 la psri de curte, a transmis Organizaia Mondial pentru Sntatea Animalelor (WOAH), citat de ctre Reuters. Anunul survine \u00een contextul \u00een care Europa se pr\u2026 [+1165 chars]",
+      "retrievedAt": "2024-10-30 19:06:04.844553",
+      "internal_id": "047fcb7d869d531ac03b0d176e5b8cc9a998430612fd48fc182caa9271aa29c7",
+      "publishedAtLabel": "Oct 29"
+    },
+    {
+      "id": 15027,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Times Of India",
+      "title": "City records first case of rabies in golden jackals",
+      "description": "Mumbai reports its first rabies case in golden jackals amidst concerns following multiple deaths of the species. A thorough investigation reveals rabies infection in the last carcass analyzed.",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/rabies-outbreak-first-case-in-golden-jackals-identified-in-mumbai/articleshow/114743647.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-10-29 18:12:48",
+      "content": "How to make easy Cheese Broccoli Omelette at home",
+      "retrievedAt": "2024-10-30 19:06:04.110395",
+      "internal_id": "8dad628625d637221531094ab588eb3f90aa660a2ee7673b40f9cc88b146e843",
+      "publishedAtLabel": "Oct 29"
+    },
+    {
+      "id": 15042,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Eleconomista.es",
+      "author": "Ra\u00fal Gonz\u00e1lez P\u00e9rez",
+      "title": "La OMS activa al Cuerpo Mundial de Emergencias en respuesta al brote de mpox: qu\u00e9 es y funci\u00f3n",
+      "description": "La Organizaci\u00f3n Mundial de la Salud (OMS) y sus asociados, en estrecha colaboraci\u00f3n con sus Estados Miembros, han activado este martes por primera vez el Cuerpo Mundial de Emergencias Sanitarias (GHEC). \u00bfEl motivo? Est\u00e1 claro: prestar apoyo a los pa\u00edses que s\u2026",
+      "url": "https://www.eleconomista.es/salud-bienestar/ultimas-noticias/noticias/13058006/10/24/la-oms-activa-al-cuerpo-mundial-de-emergencias-en-respuesta-al-brote-de-mpox-que-es-y-funcion.html",
+      "urlToImage": "https://s03.s3c.es/imag/_v0/1920x1080/5/2/a/1200x655_viruela-mono-enfermedad.jpg",
+      "publishedAt": "2024-10-29 17:46:28",
+      "content": "La Organizaci\u00f3n Mundial de la Salud (OMS) y sus asociados, en estrecha colaboraci\u00f3n con sus Estados Miembros, han activado este martes por primera vez el Cuerpo Mundial de Emergencias Sanitarias (GHE\u2026 [+2208 chars]",
+      "retrievedAt": "2024-10-30 19:06:06.587520",
+      "internal_id": "ade20dd9a2bdb42692019df3cdc1c7c1b2b326dd4b7f90297bfac2dd2cb2ad24",
+      "publishedAtLabel": "Oct 29"
+    },
+    {
+      "id": 15035,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Tom Howarth",
+      "title": "Bird Flu Outbreak: Map Reveals Confirmed US Human Cases",
+      "description": "Cases of H5N1 have been climbing nationally, with one West Coast state seeing a rapid increase since the start of October.",
+      "url": "https://www.newsweek.com/bird-flu-outbreak-map-reveals-confirmed-us-human-cases-1976744",
+      "urlToImage": "https://d.newsweek.com/en/full/2506990/bird-flu-map.jpg",
+      "publishedAt": "2024-10-29 17:39:08",
+      "content": "Less than a month after reporting its first human case of bird flu, California has confirmed that 16 people have now been infected with the disease, and a Newsweek map shows how the numbers compare w\u2026 [+3158 chars]",
+      "retrievedAt": "2024-10-30 19:06:04.852183",
+      "internal_id": "5852d1e7fb69bd568d4986965c615f43a88d839c746425f06637d3f9e83a493b",
+      "publishedAtLabel": "Oct 29"
+    },
+    {
+      "id": 15033,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Shtfplan.com",
+      "author": "Mac Slavo",
+      "title": "H5N1 Bird Flu Now Transmissible In Humans",
+      "description": "Is this surprising to anyone? Researchers found that the bird flu virus isolated from a sick dairy worker is capable of replicating in human airway cells. Perhaps it's time to consider the next plandemic.",
+      "url": "https://www.shtfplan.com/headline-news/h5n1-bird-flu-now-transmissible-in-humans",
+      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2024/05/birdflu1.jpg",
+      "publishedAt": "2024-10-29 17:30:33",
+      "content": "Is this surprising to anyone? Researchers found that the bird flu virus isolated from a sick dairy worker is capable of replicating in human airway cells. Perhaps it\u2019s time to consider the next pland\u2026 [+2345 chars]",
+      "retrievedAt": "2024-10-30 19:06:04.838284",
+      "internal_id": "cef623c1b0cd4d2c61e3b2ee458d983193879cd5acf7f29d47dbab2c43b9aff0",
+      "publishedAtLabel": "Oct 29"
+    },
+    {
+      "id": 15026,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Babylonbee.com",
+      "author": "Babylon Bee",
+      "title": "Cast Of 'The View' All Getting Rabies Shots After Being Bitten By Whoopi Goldberg",
+      "description": "NEW YORK, NY \u2014 The entire cast of the all-female talk show \u2018The View' was forced to get rabies shots this week after Whoopi Goldberg bit all of them.",
+      "url": "https://babylonbee.com/news/cast-of-the-view-all-getting-rabies-shots-after-being-bitten-by-whoopi-goldberg",
+      "urlToImage": "https://media.babylonbee.com/articles/67210d85358ec67210d85358ed.jpg",
+      "publishedAt": "2024-10-29 17:27:43",
+      "content": "NEW YORK, NY The entire cast of the all-female talk show The View' was forced to get rabies shots this week after Whoopi Goldberg bit all of them. The incident occurred after Goldberg said on-air th\u2026 [+1150 chars]",
+      "retrievedAt": "2024-10-30 19:06:04.076661",
+      "internal_id": "af7578dc62ee3a79487d4315f24432b2563845e0b5f83c2ad91d82ea22fc1f54",
+      "publishedAtLabel": "Oct 29"
+    },
+    {
+      "id": 15037,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Governo vai ampliar n\u00famero de cidades que ter\u00e3o vacina de dengue, mas n\u00e3o para toda popula\u00e7\u00e3o",
+      "description": "Ministra N\u00edsia Trindade reconhece que n\u00e3o h\u00e1 vacina suficiente para toda a popula\u00e7\u00e3o, mas aponta que nenhum pa\u00eds do mundo tem essa pr\u00e1tica",
+      "url": "https://valor.globo.com/brasil/noticia/2024/10/29/governo-vai-ampliar-numero-de-cidades-que-terao-vacina-de-dengue-mas-nao-para-toda-populacao.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/V1UqmGPMlfyLGLep7uZOf_Wmfgg=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2024/c/A/UXCddZSXAHr4wkaY3yWg/vacina-dengue-11.jpg",
+      "publishedAt": "2024-10-29 14:39:29",
+      "content": "O governo federal vai ampliar o n\u00famero de cidades da lista priorit\u00e1ria do Minist\u00e9rio da Sa\u00fade para receber a vacina de dengue, mas o p\u00fablico-alvo ser\u00e1 mantido na faixa et\u00e1ria de 9 a 14 anos e n\u00e3o h\u00e1 \u2026 [+2227 chars]",
+      "retrievedAt": "2024-10-30 19:06:05.186265",
+      "internal_id": "2c0d05ae0c5bfb1fecb7f16a81caa27172fa97ce90d8d4afb2518f0ecba5e79c",
+      "publishedAtLabel": "Oct 29"
+    },
+    {
+      "id": 15030,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "A vote for Donald Trump is a vote for school shootings and measles (Nilay Patel/The Verge)",
+      "description": "Nilay Patel / The Verge: A vote for Donald Trump is a vote for school shootings and measles \u2014 An endorsement of democracy, solving problems, and Kamala Harris. \u2026 Donald Trump is a dangerous maniac who can barely complete a sentence, and it is lunacy to beli\u2026",
+      "url": "https://www.memeorandum.com/241029/p40",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/KZ3E54gftW7aU0QRRE9zoWGbv-o=/0x0:2040x1360/1200x628/filters:focal(953x573:954x574)/cdn.vox-cdn.com/uploads/chorus_asset/file/25693283/247224_Election_Package__Mr.Nelson_design_Trump.jpg",
+      "publishedAt": "2024-10-29 14:30:02",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2024-10-30 19:06:04.326585",
+      "internal_id": "c06951d704e236421153b05d5cfb0ae43a50845336dd5c2f4974f8936fc7cc4a",
+      "publishedAtLabel": "Oct 29"
+    },
+    {
+      "id": 15032,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Yassmin Moatasim, Basma Emad Aboulhoda, Mokhtar Gomaa, Ahmed El Taweel, Omnia Kutkat, Mina Nabil Kamel, Mohamed El Sayes, Mohamed GabAllah, Amany Elkhrsawy, Hend AbdAllah, Ahmed Kandeil, Mohamed Ahmed Ali, Ghazi Kayali, Rabeh El-Shesheny",
+      "title": "Genetic and pathogenic potential of highly pathogenic avian influenza H5N8 viruses from live bird markets in Egypt in avian and mammalian models",
+      "description": "Since its first isolation from migratory birds in Egypt in 2016, highly pathogenic avian influenza (HPAI) H5N8 has caused several outbreaks among domestic poultry in various areas of the country affecting poultry health and production systems. However, the ge\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0312134",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0312134.g007&size=inline",
+      "publishedAt": "2024-10-29 14:00:00",
+      "content": "Abstract Since its first isolation from migratory birds in Egypt in 2016, highly pathogenic avian influenza (HPAI) H5N8 has caused several outbreaks among domestic poultry in various areas of the co\u2026 [+43054 chars]",
+      "retrievedAt": "2024-10-30 19:06:04.621565",
+      "internal_id": "76bca59441bfd137eeb4efc28d6e6de1cae84947ef33cbdd9c2c1e5085fc5404",
+      "publishedAtLabel": "Oct 29"
+    },
+    {
+      "id": 15038,
+      "query": [
+        "meningitis",
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Pamela Mosquera, Lorena Mejia, Gabriela Ortiz, Giuliana Pazmino, Talima Pearson, Ver\u00f3nica Barrag\u00e1n, Gabriel Trueba",
+      "title": "Mixed Leptospira infections in domestic animals from a rural community with high leptospirosis endemicity",
+      "description": "Background Leptospirosis is one of the most common zoonoses in the world which is associated with a severe febrile disease in humans causing a variety of syndromes including meningitis, interstitial nephritis, hepatitis, and sometimes death. Leptospirosis is \u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0312556",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0312556.g001&size=inline",
+      "publishedAt": "2024-10-29 14:00:00",
+      "content": "Abstract Background Leptospirosis is one of the most common zoonoses in the world which is associated with a severe febrile disease in humans causing a variety of syndromes including meningitis, in\u2026 [+15563 chars]",
+      "retrievedAt": "2024-10-30 19:06:05.440918",
+      "internal_id": "f853f7b4d0f2a89580a5b3186eeb8f690d244336b4b603fbe5503e6b67ee3cfa",
+      "publishedAtLabel": "Oct 29"
+    },
+    {
+      "id": 15040,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Let\u00edcia Tiburcio Ferreira, Gustavo Capatti Cassiano, Luis Carlos Salazar Alvarez, John Okombo, Juliana Calit, Diana Fontinha, Eva Gil-Iturbe, Rachael Coyle, Carolina Horta Andrade, Per Sunnerhagen, Daniel Youssef Bargieri, Miguel Prud\u00eancio, Matthias Quick, Pedro V. Cravo, Marcus C. S. Lee, David A. Fidock, Fabio Trindade Maranh\u00e3o Costa",
+      "title": "A novel 4-aminoquinoline chemotype with multistage antimalarial activity and lack of cross-resistance with PfCRT and PfMDR1 mutants",
+      "description": "Author summary The emergence of artemisinin-resistant malaria parasites, first in Southeast Asia and more recently East Africa, highlights the urgency to identify and optimize chemotypes with antimalarial activity that are not compromised by known resistance \u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012627",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1012627.g006&size=inline",
+      "publishedAt": "2024-10-29 14:00:00",
+      "content": "Abstract Artemisinin-based combination therapy (ACT) is the mainstay of effective treatment of Plasmodium falciparum malaria. However, the long-term utility of ACTs is imperiled by widespread partia\u2026 [+73748 chars]",
+      "retrievedAt": "2024-10-30 19:06:05.930451",
+      "internal_id": "359af177554f52e9df22349750e88557f365e3270a742c62957753b4cc20f287",
+      "publishedAtLabel": "Oct 29"
+    },
+    {
+      "id": 15028,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "kottke.org",
+      "author": "Jason Kottke",
+      "title": "\u201cA Vote for Donald Trump Is a Vote for School Shootings and Measles\u201d",
+      "description": "One of the best media endorsements of this election cycle comes from EIC Nilay Patel of The Verge, who absolutely pulls no punches",
+      "url": "https://kottke.org/24/10/a-vote-for-donald-trump-is-a-vote-for-school-shootings-and-measles",
+      "urlToImage": "",
+      "publishedAt": "2024-10-29 13:46:49",
+      "content": "One of the best media endorsements of this election cycle comes from EIC Nilay Patel of The Verge, who absolutely pulls no punches in describing Donald Trump and his by-now very familiar patterns and\u2026 [+2092 chars]",
+      "retrievedAt": "2024-10-30 19:06:04.306698",
+      "internal_id": "cf5b242507c91fb0915bf59ed1e8c257d0bec0275d9d107f6aa18731c85a7e35",
+      "publishedAtLabel": "Oct 29"
+    },
+    {
+      "id": 15041,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Legalinsurrection.com",
+      "author": "Leslie Eastman",
+      "title": "Germany Reports Its First Case of Virulent New Monkeypox Variant",
+      "description": "Monkeypox has also spread to Zambia and Zimbabwe, through the particular strains were not reported in those cases. The post Germany Reports Its First Case of Virulent New Monkeypox Variant first appeared on Le\u00b7gal In\u00b7sur\u00b7rec\u00b7tion.",
+      "url": "https://legalinsurrection.com/2024/10/germany-reports-its-first-case-of-virulent-new-monkeypox-variant/",
+      "urlToImage": "https://legalinsurrection.com/wp-content/uploads/2024/08/LI-96-Monkeypox-Thailand.png",
+      "publishedAt": "2024-10-29 13:00:16",
+      "content": "We have been following the spread of the virulent new monkeypox variant (i.e., mpox clade) that is at the center of a significant outbreak in the Democratic Republic of Congo (DRC) and neighboring co\u2026 [+4344 chars]",
+      "retrievedAt": "2024-10-30 19:06:06.569717",
+      "internal_id": "668a3853a52560e03bb541a1c241ea4da94c8bc4bad5e53d6a8dacdebbddd125",
+      "publishedAtLabel": "Oct 29"
+    },
+    {
+      "id": 15031,
+      "query": [
+        "measles"
+      ],
+      "source_id": "the-verge",
+      "source_name": "The Verge",
+      "author": "Nilay Patel",
+      "title": "A vote for Donald Trump is a vote for school shootings and measles",
+      "description": "Donald Trump simply will not engage with democracy. A vote for Kamala Harris in the 2024 presidential election is a vote for solving collective action problems, together.",
+      "url": "https://www.theverge.com/24282022/kamala-harris-endorsement-presidential-election-2024",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/KZ3E54gftW7aU0QRRE9zoWGbv-o=/0x0:2040x1360/1200x628/filters:focal(953x573:954x574)/cdn.vox-cdn.com/uploads/chorus_asset/file/25693283/247224_Election_Package__Mr.Nelson_design_Trump.jpg",
+      "publishedAt": "2024-10-29 12:00:00",
+      "content": "Donald Trump is a dangerous maniac who can barely complete a sentence, and it is lunacy to believe he can even recognize the existentially threatening collective action problems facing our nation, le\u2026 [+18020 chars]",
+      "retrievedAt": "2024-10-30 19:06:04.333819",
+      "internal_id": "8acf8e98a42142cda50b6dc5bf97eaaff045a5ec568a4d193cce4138698d3583",
+      "publishedAtLabel": "Oct 29"
+    },
+    {
+      "id": 15036,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Www.in.gr",
+      "author": "In.gr",
+      "title": "\u0396\u03b1\u03bf\u03cd\u03c4\u03b7\u03c2: \u039f \u03b9\u03cc\u03c2 \u03bc\u03b5 \u03b8\u03bd\u03b7\u03c3\u03b9\u03bc\u03cc\u03c4\u03b7\u03c4\u03b1 55% \u03c0\u03bf\u03c5 \u03c4\u03c1\u03bf\u03bc\u03ac\u03b6\u03b5\u03b9 \u03c4\u03bf\u03c5\u03c2 \u03b5\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03bf\u03bd\u03b5\u03c2 \u03ba\u03b1\u03b9 \u03b4\u03cd\u03bf \u03ad\u03c4\u03bf\u03b9\u03bc\u03b1 \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03b1",
+      "description": "\u00ab\u039f\u03b9 \u03b9\u03bf\u03af \u03c0\u03bf\u03c5 \u03b8\u03b1 \u03bc\u03b1\u03c2 \u03bf\u03b4\u03b7\u03b3\u03ae\u03c3\u03bf\u03c5\u03bd \u03c0\u03b9\u03b8\u03b1\u03bd\u03ce\u03c2 \u03c3\u03b5 \u03bd\u03ad\u03b1 \u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03af\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9 \u03bf\u03b9 \u03b1\u03bd\u03b1\u03c0\u03bd\u03b5\u03c5\u03c3\u03c4\u03b9\u03ba\u03bf\u03af, \u03bf\u03b9 \u03bf\u03c0\u03bf\u03af\u03bf\u03b9 \u03bc\u03c0\u03bf\u03c1\u03b5\u03af \u03bd\u03b1 \u03bc\u03b5\u03c4\u03b1\u03b4\u03bf\u03b8\u03bf\u03cd\u03bd \u03bc\u03b5 \u03c4\u03c1\u03cc\u03c0\u03bf\u03c5\u03c2, \u03cc\u03c0\u03c9\u03c2 \u03c4\u03bf\u03bd \u03b2\u03ae\u03c7\u03b1\u00bb \u03bb\u03ad\u03bd\u03b5 \u03bf\u03b9 \u03b5\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03bf\u03bd\u03b5\u03c2",
+      "url": "https://www.in.gr/2024/10/29/health/zaoutis-o-ios-thnisimotita-55-pou-tromazei-tous-epistimones-kai-dyo-etoima-emvolia/",
+      "urlToImage": "https://www.in.gr/wp-content/uploads/2024/10/Capture-117-620x350.jpg",
+      "publishedAt": "2024-10-29 10:40:50",
+      "content": "\u00ab51\u00bb. ; , . , , , . 51 , 2022 . 2022 H5N1 2 . . H5N1. ( 2022) H5N1 . 4 H5N1 . 55% 51 , Action24 , . \u00ab . , , \u00bb . \u00ab , , \u00bb . \u00ab , . , , . 1918 , , , \u00bb . \u00ab , , , , . , , \u00bb .\u2026 [+156 chars]",
+      "retrievedAt": "2024-10-30 19:06:04.870515",
+      "internal_id": "b50761f980adbbcb65ea0554226f23279d33404fdffd6f543d44f01defd14414",
+      "publishedAtLabel": "Oct 29"
+    },
+    {
+      "id": 15039,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "PTI",
+      "title": "Climate change could affect region-wise trends in malaria, study in Kenya suggests",
+      "description": "Environment News: NEW DELHI: A new study in Kenya has found that despite an overall decline in malaria cases, recent trends in rainfall and temperatures driven by clima.",
+      "url": "https://timesofindia.indiatimes.com/home/environment/climate-change-could-affect-region-wise-trends-in-malaria-study-in-kenya-suggests/articleshow/114726831.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-10-29 09:15:22",
+      "content": "News Climate change could affect region-wise trends in malaria, study in Kenya suggests FOLLOW US ON SOCIAL MEDIA Latest News Brain stroke When the brain suffers an att\u2026 [+1622 chars]",
+      "retrievedAt": "2024-10-30 19:06:05.906230",
+      "internal_id": "063b0bd62fcd73ecce4e4d95c52b19d947d43de5eea1cda20636ef682c427e54",
+      "publishedAtLabel": "Oct 29"
+    },
     {
       "id": 15018,
       "query": [
@@ -26167,258 +26474,6 @@
       "content": "A case of whooping cough resulted in the cancellation of a college football game between South Dakota and Portland State on Saturday, officials said. Whooping cough, caused by the pertussis bacteria\u2026 [+2883 chars]",
       "retrievedAt": "2024-09-17 07:05:42.747855",
       "internal_id": "0c590179def01532f443007af4df0ec4a928bde7a8f6ab4616fcdc112aa11ecb",
-      "publishedAtLabel": "Sep 15"
-    },
-    {
-      "id": 13545,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Economictimes.com",
-      "author": null,
-      "title": "Rx, world can't afford a relapse",
-      "description": "The Covid-19 pandemic has highlighted the need for global cooperation to address future pandemics. A study by AirAffinity reveals that diseases like measles, polio, and tuberculosis are resurging globally due to reduced immunity, disrupted vaccination program\u2026",
-      "url": "https://m.economictimes.com/opinion/et-editorial/rx-world-cant-afford-a-relapse/articleshow/113373311.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-113373377,width-1200,height-630,imgsize-97308,overlay-economictimes/photo.jpg",
-      "publishedAt": "2024-09-15 18:12:48",
-      "content": "The Covid-19 pandemic alerted the world about the need for multilateral and plurilateral networks to tackle the next 'major pandemic'. According to a recent study by disease-forecasting firm AirAffin\u2026 [+1549 chars]",
-      "retrievedAt": "2024-09-16 19:05:41.758735",
-      "internal_id": "5f6bc2a9a6698d3c9aa8bedf7e2527badcf1b969b4fcf50c5aef1d58aaeecc34",
-      "publishedAtLabel": "Sep 15"
-    },
-    {
-      "id": 13546,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Sapo.pt",
-      "author": "Ana Sofia Neto",
-      "title": "Cientistas alertam para o risco da Dengue afetar os destinos de f\u00e9rias da Europa",
-      "description": "Pela primeira vez, os cientistas conseguem mapear com exatid\u00e3o os locais onde a febre da Dengue \u00e9 suscet\u00edvel de surgir, e identificaram os destinos de f\u00e9rias da Europa em risco. A Dengue \u00e9 uma...",
-      "url": "https://pplware.sapo.pt/ciencia/cientistas-alertam-para-o-risco-da-dengue-afetar-os-destinos-de-ferias-mais-populares-da-europa/",
-      "urlToImage": "https://pplware.sapo.pt/wp-content/uploads/2024/09/dengue00.jpg",
-      "publishedAt": "2024-09-15 17:30:13",
-      "content": "Pela primeira vez, os cientistas conseguem mapear com exatid\u00e3o os locais onde a febre da Dengue \u00e9 suscet\u00edvel de surgir, e identificaram os destinos de f\u00e9rias da Europa em risco. A Dengue \u00e9 uma doen\u00e7\u2026 [+2339 chars]",
-      "retrievedAt": "2024-09-16 19:05:42.626441",
-      "internal_id": "14bf1d5124ef18da858533be1cbba4a5fbd69376ab7981ae34bb74ce060120eb",
-      "publishedAtLabel": "Sep 15"
-    },
-    {
-      "id": 13547,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "taz.de",
-      "author": "Claudius Pr\u00f6\u00dfer",
-      "title": "Tigerm\u00fccken n Berlin: Gekommen, um zu stechen",
-      "description": "Tigerm\u00fccken sind aus Berlin nicht mehr wegzudenken. \u00dcbertragen k\u00f6nnen sie gef\u00e4hrliche Viruskrankheiten wie das Denguefieber.",
-      "url": "https://taz.de/Tigermuecken-n-Berlin/!6034020/",
-      "urlToImage": "https://taz.de/picture/7244421/948/36487673-1.jpeg",
-      "publishedAt": "2024-09-15 16:00:00",
-      "content": "Tigerm\u00fccken sind aus Berlin nicht mehr wegzudenken. \u00dcbertragen k\u00f6nnen sie gef\u00e4hrliche Viruskrankheiten wie das Denguefieber. M\u00fccke tigert herum Foto: websubstance Berlintaz | Kennen Sie die sichers\u2026 [+6265 chars]",
-      "retrievedAt": "2024-09-16 19:05:42.722382",
-      "internal_id": "416f29ec17926970a338f8f4d2a389932e1f8ccc59f3b29e75bdce3bdaff67c6",
-      "publishedAtLabel": "Sep 15"
-    },
-    {
-      "id": 13548,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "taz.de",
-      "author": "Claudius Pr\u00f6\u00dfer",
-      "title": "Tigerm\u00fccken in Berlin: Gekommen, um zu stechen",
-      "description": "Tigerm\u00fccken sind aus Berlin nicht mehr wegzudenken. \u00dcbertragen k\u00f6nnen sie gef\u00e4hrliche Viruskrankheiten wie das Denguefieber.",
-      "url": "https://taz.de/Tigermuecken-in-Berlin/!6034020/",
-      "urlToImage": "https://taz.de/picture/7244421/948/36487673-1.jpeg",
-      "publishedAt": "2024-09-15 16:00:00",
-      "content": "Tigerm\u00fccken sind aus Berlin nicht mehr wegzudenken. \u00dcbertragen k\u00f6nnen sie gef\u00e4hrliche Viruskrankheiten wie das Denguefieber. M\u00fccke tigert herum Foto: websubstance Berlintaz | Kennen Sie die sichers\u2026 [+6265 chars]",
-      "retrievedAt": "2024-09-16 19:05:42.738251",
-      "internal_id": "ed941d0c6a467d7e3360de7e87dd1a255479cc8ac0452107c226f186ab513e00",
-      "publishedAtLabel": "Sep 15"
-    },
-    {
-      "id": 13626,
-      "query": [
-        "mpox"
-      ],
-      "source_id": "globo",
-      "source_name": "Globo",
-      "author": null,
-      "title": "Mundo ultrapassa 100 mil casos de Mpox desde 2022, diz OMS",
-      "description": "O Brasil \u00e9 o segundo pa\u00eds com mais casos O mundo r...",
-      "url": "https://valor.globo.com/mundo/noticia/2024/09/15/mundo-ultrapassa-100-mil-casos-de-mpox-desde-2022-diz-oms.ghtml",
-      "urlToImage": "https://s2-valor.glbimg.com/WKqjIOjheOXSIhOFLi-ti2Klj8g=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2024/X/p/ZkBQWfRs6l2Uxr25qJGA/ap24232649230110.jpg",
-      "publishedAt": "2024-09-15 15:59:34",
-      "content": "O mundo registrou 103.048 casos confirmados em laborat\u00f3rio de Mpox entre 1\u00ba de janeiro de 2022 e 31 de julho de 2024, afirmou a Organiza\u00e7\u00e3o Mundial de Sa\u00fade (OMS) em relat\u00f3rio divulgado esta semana. \u2026 [+2364 chars]",
-      "retrievedAt": "2024-09-18 07:06:19.455197",
-      "internal_id": "85a1de384938c8d021d8bfeeff85064aea7ebeb02a3949f62e3d383ec37456b9",
-      "publishedAtLabel": "Sep 15"
-    },
-    {
-      "id": 13553,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Haber7.com",
-      "author": "Ramazan Y\u0131ld\u0131z",
-      "title": "D\u00fcnya Sa\u011fl\u0131k \u00d6rg\u00fct\u00fc, M \u00e7i\u00e7e\u011fi vir\u00fcs\u00fcne kar\u015f\u0131 ilk a\u015f\u0131ya onay verdi",
-      "description": "D\u00fcnya Sa\u011fl\u0131k \u00d6rg\u00fct\u00fc (DS\u00d6), M \u00e7i\u00e7e\u011fi (mpox) vir\u00fcs\u00fcne kar\u015f\u0131 \u00f6n yeterlilik alan ilk a\u015f\u0131n\u0131n \"MVA-BN\" oldu\u011funu duyurdu.",
-      "url": "https://www.haber7.com/dunya/haber/3460286-dunya-saglik-orgutu-m-cicegi-virusune-karsi-ilk-asiya-onay-verdi",
-      "urlToImage": "https://i12.haber7.net//haber/haber7/og_image/2024/37/dunya_saglik_orgutu_m_cicegi_virusune_karsi_ilk_asiya_onay_verdi_1726408323_0026.jpg",
-      "publishedAt": "2024-09-15 13:53:00",
-      "content": "DS\u00d6'den yaplan yazl a\u00e7klamada, Bavarian Nordic'in \u00fcrettii \"MVA-BN asnn, DS\u00d6'n\u00fcn M \u00e7i\u00e7ei vir\u00fcs\u00fcne kar \u00f6n yeterlilik alan a listesine eklendii bildirildi. A\u00e7klamada, \u00f6n yeterlilik onaynn, acil ihtiya\u00e7\u2026 [+1949 chars]",
-      "retrievedAt": "2024-09-16 19:05:44.611538",
-      "internal_id": "36a4bd694a342e35567383e4c1a8402ce0d5bfb62da20d50d8b519a45a9b613e",
-      "publishedAtLabel": "Sep 15"
-    },
-    {
-      "id": 13543,
-      "query": [
-        "measles"
-      ],
-      "source_id": "cbs-news",
-      "source_name": "CBS News",
-      "author": "Jon LaPook",
-      "title": "Experts warn against vaccine skepticism",
-      "description": "Thanks to vaccinations, measles was declared eliminated in the U.S. in 2000. But measles cases are now back; one reason is that more families have exempted their children from routine immunizations than ever before.",
-      "url": "https://www.cbsnews.com/news/experts-warn-against-vaccine-skepticism/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/09/14/ce06c485-25e8-4639-87bf-582a439d061c/thumbnail/1200x630/96ae12ce63809b26812918a2f6079774/vaccine-needle-1280.jpg?v=d2d77bee90bcafa285fd6d60bd8b3612",
-      "publishedAt": "2024-09-15 13:12:00",
-      "content": "Thanks to all those shots in the arm, in the year 2000, measles in the United States was declared eliminated. But now, it's coming back, with measles cases reported from California to Vermont. CBS N\u2026 [+7708 chars]",
-      "retrievedAt": "2024-09-16 19:05:41.726065",
-      "internal_id": "db237af99532ae7b23b119c4a447ec498a7be9a4ca5390b5d33f07a2018fa7f3",
-      "publishedAtLabel": "Sep 15"
-    },
-    {
-      "id": 13544,
-      "query": [
-        "measles"
-      ],
-      "source_id": "cbs-news",
-      "source_name": "CBS News",
-      "author": "CBS News",
-      "title": "As measles cases increase, experts warn against vaccine skepticism",
-      "description": "Thanks to vaccinations, measles was declared eliminated in the United States in 2000. But measles cases are now back, and one big reason is that, across the country, more families have exempted their children from routine immunizations than ever before. CBS N\u2026",
-      "url": "https://www.cbsnews.com/video/as-measles-cases-increase-experts-warn-against-vaccine-skepticism/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/09/15/bbb743a9-26cd-4991-a726-7eaeb740320a/thumbnail/1200x630/e3a124ffc3052df7e939b8e8c86105af/measles-cases-reported-1920.jpg?v=d2d77bee90bcafa285fd6d60bd8b3612",
-      "publishedAt": "2024-09-15 13:11:00",
-      "content": "Watch CBS News Copyright \u00a92024 CBS Interactive Inc. All rights reserved. Get browser notifications for breaking news, live events, and exclusive reporting. Not NowTurn On",
-      "retrievedAt": "2024-09-16 19:05:41.747708",
-      "internal_id": "72bbced3cb01dab3205ee99a2882ee8f4b4244c11e8085ad42e0179a2c18dc5f",
-      "publishedAtLabel": "Sep 15"
-    },
-    {
-      "id": 13623,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Globalresearch.ca",
-      "author": "Dr. Suzanne Burdick",
-      "title": "WHO Approves First Mpox Vaccine for Adults in Africa \u2014 Then Says Babies Can Get It, Too, Despite No Clinical Trials",
-      "description": "The World Health Organization (WHO) today approved the first mpox vaccine for use in adults \u2014 and also said it can be used for babies, children, teens and pregnant women if they are in \u201coutbreak settings where the benefits of \u2026 The post WHO Approves First Mpo\u2026",
-      "url": "https://www.globalresearch.ca/who-approves-first-mpox-vaccine-adults-africa/5867875",
-      "urlToImage": "https://www.globalresearch.ca/wp-content/uploads/2024/09/monkeypox-vaccines.jpeg",
-      "publishedAt": "2024-09-15 13:09:02",
-      "content": "The World Health Organization (WHO) today approved the first mpox vaccine for use in adults and also said it can be used for babies, children, teens and pregnant women if they are in outbreak setting\u2026 [+6348 chars]",
-      "retrievedAt": "2024-09-18 07:06:19.438860",
-      "internal_id": "3842b95a42892ecde82c50dded645fe364d74015496274b2b380ab6da3281be1",
-      "publishedAtLabel": "Sep 15"
-    },
-    {
-      "id": 13627,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "YouTube",
-      "author": null,
-      "title": "How Mpox spread across the world: Global Health crises | Mpox virus explained in detailed",
-      "description": "How Mpox spread across the world: Global Health crises | Mpox virus explained in detailedyoutube.com",
-      "url": "https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D8oIZ49jSKaI",
-      "urlToImage": null,
-      "publishedAt": "2024-09-15 12:33:01",
-      "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more Remind me later",
-      "retrievedAt": "2024-09-18 07:06:19.460957",
-      "internal_id": "847c535a432aaacd2d03e3676ab61b2f75bdd5586023b0f837b9afe89baab51b",
-      "publishedAtLabel": "Sep 15"
-    },
-    {
-      "id": 13549,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "ansa",
-      "source_name": "ANSA.it",
-      "author": null,
-      "title": "Comune Fano, 'conclusa con successo prima fase disinfestazione'",
-      "description": "Conclusa \"con successo\" la prima fase delle operazioni di disinfestazione contro la zanzara tigre nel territorio comunale di Fano. Lo fa sapere il Comune a seguito degli 11 casi di virus Dengue che si sono registrati. (ANSA)",
-      "url": "https://www.ansa.it/marche/notizie/2024/09/15/comune-fano-conclusa-con-successo-prima-fase-disinfestazione_9723cd96-5fe6-410c-987d-5e8bf5e74676.html",
-      "urlToImage": "https://www.ansa.it/webimages/img_700/2024/9/15/ebf707455502da290ab2fb99f56fff66.jpg",
-      "publishedAt": "2024-09-15 12:14:00",
-      "content": "Conclusa \"con successo\" la prima fase delle operazioni di disinfestazione contro la zanzara tigre nel territorio comunale di Fano. Lo fa sapere il Comune a seguito degli 11 casi di virus Dengue ch\u2026 [+1559 chars]",
-      "retrievedAt": "2024-09-16 19:05:42.785148",
-      "internal_id": "ad397f1441c3847b67a0f47c7f146e329e9fe8166775033b2329a938241f437c",
-      "publishedAtLabel": "Sep 15"
-    },
-    {
-      "id": 13550,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Thecooldown.com",
-      "author": "Jeremiah Budin",
-      "title": "Pennsylvania health officials issue warning after 'breakbone fever' spreads across state lines: 'Get to the doctor right away'",
-      "description": "According to public health officials, New Jersey has had 56 cases of dengue fever this summer, Pennsylvania has had 31, and Delaware has had six.",
-      "url": "https://www.thecooldown.com/green-tech/dengue-fever-cases-new-jersey-pennsylvania-delaware/",
-      "urlToImage": "https://www.thecooldown.com/wp-content/uploads/2024/09/image-191.jpg",
-      "publishedAt": "2024-09-15 11:23:32",
-      "content": "Dengue fever has made its way into the United States, as travelers have brought the mosquito-borne disease home with them, WHYY reported. According to public health officials, New Jersey has had 56 \u2026 [+2392 chars]",
-      "retrievedAt": "2024-09-16 19:05:42.809301",
-      "internal_id": "1ef5c8406def70b2b3bd3c413596153a46c832f9547bb9243b06148bfec7e911",
-      "publishedAtLabel": "Sep 15"
-    },
-    {
-      "id": 13552,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Tass.ru",
-      "author": null,
-      "title": "\u0412 \u0410\u0444\u0440\u0438\u043a\u0435 \u0441 \u043d\u0430\u0447\u0430\u043b\u0430 \u0433\u043e\u0434\u0430 \u0432\u044b\u044f\u0432\u0438\u043b\u0438 \u0431\u043e\u043b\u0435\u0435 25 \u0442\u044b\u0441. \u0441\u043b\u0443\u0447\u0430\u0435\u0432 \u0441 \u043f\u043e\u0434\u043e\u0437\u0440\u0435\u043d\u0438\u0435\u043c \u043d\u0430 mpox",
-      "description": "\u0417\u0430\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u043e \u0431\u043e\u043b\u0435\u0435 720 \u043b\u0435\u0442\u0430\u043b\u044c\u043d\u044b\u0445 \u0438\u0441\u0445\u043e\u0434\u043e\u0432, \u043f\u0440\u0438\u0447\u0438\u043d\u043e\u0439 \u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u043c\u043e\u0433\u043b\u0430 \u0431\u044b\u0442\u044c \u044d\u0442\u0430 \u0431\u043e\u043b\u0435\u0437\u043d\u044c, \u0441\u043e\u043e\u0431\u0449\u0438\u043b\u0438 \u0432 \u0412\u041e\u0417",
-      "url": "https://tass.ru/obschestvo/21868517",
-      "urlToImage": "https://cdn-storage-media.tass.ru/thumb/ru/obschestvo/21868517?u=2024-09-15T08:20:40.921088",
-      "publishedAt": "2024-09-15 08:20:40",
-      "content": ", 15 . //. 25 . mpox ( ) 720 , , 1 8 2024 . (). , 25 093 mpox, 723 . () - 21 835 717 . , 8 5 789 , 32 . , , . , mpox . , . . 1 2022 31 2024 121 103 048 , 229 . 31 2022 (33 556). (11 841), (8 10\u2026 [+125 chars]",
-      "retrievedAt": "2024-09-16 19:05:44.548043",
-      "internal_id": "e84db60b081059cd2a7cbdc6b637b1c6e95781b69152e5ae0062972bc705c98c",
-      "publishedAtLabel": "Sep 15"
-    },
-    {
-      "id": 13551,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Khabarhub.com",
-      "author": "Khabarhub",
-      "title": "Dengue infection hits 9,500 nationwide, claims 6 lives",
-      "description": "KATHMANDU: Dengue fever has affected 9,486 people across the country from January to September 13, according to the Epidemiology and Disease Control Division (EDCD). In this period, the disease has resulted in six fatalities. Notably, in just the first 13 day\u2026",
-      "url": "https://english.khabarhub.com/2024/15/397656/",
-      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2022/09/Dengue-1.webp",
-      "publishedAt": "2024-09-15 07:35:17",
-      "content": "KATHMANDU: Dengue fever has affected 9,486 people across the country from January to September 13, according to the Epidemiology and Disease Control Division (EDCD). In this period, the disease has \u2026 [+421 chars]",
-      "retrievedAt": "2024-09-16 19:05:42.824101",
-      "internal_id": "3f11e565bc0ddd8fe3745c9da672f23cefcaa3a92272004fa1a4fe458eda93ab",
       "publishedAtLabel": "Sep 15"
     }
   ]
