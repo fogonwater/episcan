@@ -1,8 +1,189 @@
 {
-  "last_updated": "2024-10-29 19:05",
-  "count_articles_total": 1440,
-  "count_articles_new": 14,
+  "last_updated": "2024-10-30 07:06",
+  "count_articles_total": 1464,
+  "count_articles_new": 10,
   "articles": [
+    {
+      "id": 15018,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "REMAR NORDIN",
+      "title": "Dengue cases in Johor increase by 36%, says exco chairman",
+      "description": "JOHOR BARU: The cumulative number of dengue cases in Johor has risen by 36.1%, reaching 11,822 cases as of the 43rd epidemiological week (ME43) this year. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2024/10/29/dengue-cases-in-johor-increase-by-36-says-exco-chairman",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/10/29/2990773.jpg",
+      "publishedAt": "2024-10-29 06:33:00",
+      "content": "JOHOR BARU: The cumulative number of dengue cases in Johor has risen by 36.1%, reaching 11,822 cases as of the 43rd epidemiological week (ME43) this year. Johor Health and Environment Committee Chai\u2026 [+1715 chars]",
+      "retrievedAt": "2024-10-30 07:06:21.932528",
+      "internal_id": "fd447fe94354a6d1fb2a8840a67ee9f7b9383f4a5a24bc373d9b1c0819b0edce",
+      "publishedAtLabel": "Oct 29"
+    },
+    {
+      "id": 15024,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Bavarian Nordic A/S",
+      "title": "First Children Vaccinated in New Clinical Study Seeking to Expand the Indication for Bavarian Nordic\u2019s Mpox Vaccine",
+      "description": "COPENHAGEN, Denmark, October 29, 2024 \u2013 Bavarian Nordic A/S (OMX: BAVA) announced today the initiation of a clinical study of the MVA-BN\u00ae mpox/smallpox vaccine in children 2 to 11 years of age.",
+      "url": "https://www.globenewswire.com/news-release/2024/10/29/2970487/0/en/First-Children-Vaccinated-in-New-Clinical-Study-Seeking-to-Expand-the-Indication-for-Bavarian-Nordic-s-Mpox-Vaccine.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/bbcf063e-cba2-4e1d-b8cd-9279c8088ae9",
+      "publishedAt": "2024-10-29 06:30:00",
+      "content": "Clinical study in children 2-11 years of age follows the recent EMA and WHO approvals of the MVA-BN mpox vaccine for adolescents 12-17 of age.COPENHAGEN, Denmark, October 29, 2024 B\u2026 [+4821 chars]",
+      "retrievedAt": "2024-10-30 07:06:23.222295",
+      "internal_id": "11d5271f035cf4aef1bab20847bae027a8d4644df2c14bb2e9dfbebbffb8e600",
+      "publishedAtLabel": "Oct 29"
+    },
+    {
+      "id": 15025,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Bavarian Nordic A/S",
+      "title": "De f\u00f8rste b\u00f8rn er vaccineret i nyt klinisk fors\u00f8g, der sigter mod at udvide indikationen for Bavarian Nordics mpox-vaccine",
+      "description": "K\u00d8BENHAVN, Danmark, 29. oktober 2024 \u2013 Bavarian Nordic A/S (OMX: BAVA) meddelte i dag, at selskabet har igangsat et klinisk fors\u00f8g med MVA-BN\u00ae mpox-/koppevaccinen i b\u00f8rn i alderen 2-11 \u00e5r.",
+      "url": "https://www.globenewswire.com/news-release/2024/10/29/2970487/0/da/De-f%C3%B8rste-b%C3%B8rn-er-vaccineret-i-nyt-klinisk-fors%C3%B8g-der-sigter-mod-at-udvide-indikationen-for-Bavarian-Nordics-mpox-vaccine.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/bbcf063e-cba2-4e1d-b8cd-9279c8088ae9",
+      "publishedAt": "2024-10-29 06:30:00",
+      "content": "Klinisk fors\u00f8g i b\u00f8rn i alderen 2-11 \u00e5r f\u00f8lger de seneste godkendelser fra EMA og WHO af MVA-BN mpox-vaccinen til teenagere i alderen 12-17 \u00e5r.K\u00d8BENHAVN, Danmark, 29. oktober 2024 B\u2026 [+4739 chars]",
+      "retrievedAt": "2024-10-30 07:06:23.228517",
+      "internal_id": "c6b4c9f65724bfcdecd061f3840c53d5d3d04512d629473fab1cc897004d77f7",
+      "publishedAtLabel": "Oct 29"
+    },
+    {
+      "id": 15019,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Nyteknik.se",
+      "author": "TT",
+      "title": "WHO: \u201dSjukdomen pl\u00e5gade faraonerna \u2013 nu \u00e4r den borta\u201d",
+      "description": "Egypten \u00e4r nu fritt fr\u00e5n malaria, meddelar V\u00e4rldsh\u00e4lsoorganisationen (WHO).",
+      "url": "https://www.nyteknik.se/samhalle/who-sjukdomen-plagade-faraonerna-nu-ar-den-borta/4301426",
+      "urlToImage": "https://image.nyteknik.se/4301430.jpg?imageId=4301430&x=4.76&y=39.36&cropw=86.93&croph=58.37&panox=4.76&panoy=39.36&panow=86.93&panoh=58.37&width=1200&height=683",
+      "publishedAt": "2024-10-29 05:50:00",
+      "content": "Ny Teknik rapporterar om ny teknik inom energi, elbilsutveckling, \u00f6vrig fordonsindustri, tech och digitalisering, it och telekom, innovation, milj\u00f6, om startupbolag och nya entrepren\u00f6rer, om industri\u2026 [+349 chars]",
+      "retrievedAt": "2024-10-30 07:06:22.613944",
+      "internal_id": "ce6997b4f1280cb4308de71667fdcc62505309d0cda01ead88ae42711efb531f",
+      "publishedAtLabel": "Oct 29"
+    },
+    {
+      "id": 15017,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Nacion.com",
+      "author": "Juan Jos\u00e9 Romero Z\u00fa\u00f1iga",
+      "title": "El costo de las premisas err\u00f3neas en materia de salud",
+      "description": "Las suposiciones en salud p\u00fablica fallan en prevenir enfermedades y agravan la carga en comunidades vulnerables.",
+      "url": "https://www.nacion.com/opinion/columnistas/el-costo-de-las-premisas-erroneas-en-materia-de/YYS5VYGI2RGNRBBHMBQ73F7Q3E/story/",
+      "urlToImage": "https://www.nacion.com/resizer/v2/PO5L6BYW4BFUNHUZQIK2J7I7TA.png?smart=true&auth=0555741bc1a0dff7206b7e02827abf3583f9ca877e52b33c1e2f0c9a291e728e&width=1440",
+      "publishedAt": "2024-10-29 03:20:00",
+      "content": "Comunicar en salud p\u00fablica es mucho m\u00e1s que emitir recomendaciones; es construir puentes entre el conocimiento y la acci\u00f3n para que el mensaje resuene en la vida cotidiana. Problemas como el dengue (\u2026 [+4838 chars]",
+      "retrievedAt": "2024-10-30 07:06:21.873893",
+      "internal_id": "a46ce4b67031de4945f6dca35c054877c8ff6ccb528279bf63ca9c8763f856a1",
+      "publishedAtLabel": "Oct 29"
+    },
+    {
+      "id": 15023,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Patrick Odey",
+      "title": "A\u2019Ibom traces six Mpox cases to one household",
+      "description": "The National Orientation Agency in Akwa Ibom State has said the government traced six Mpox cases to one household in the state. The development made the government commence a sensitisation exercise to educate the people on the prevalence and prevention of Mpo\u2026",
+      "url": "https://punchng.com/aibom-traces-six-mpox-cases-to-one-household/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2022/08/30230550/monkeypox.jpg",
+      "publishedAt": "2024-10-29 01:21:57",
+      "content": "The National Orientation Agency in Akwa Ibom State has said the government traced six Mpox cases to one household in the state. The development made the government commence a sensitisation exercise \u2026 [+2865 chars]",
+      "retrievedAt": "2024-10-30 07:06:23.215251",
+      "internal_id": "d32050741949e70d3bb6bb21bffcaece0b6a68fb7e3ee8ec68cf31c833eadba4",
+      "publishedAtLabel": "Oct 29"
+    },
+    {
+      "id": 15021,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Aftonbladet.se",
+      "author": null,
+      "title": "Egypten nu fritt fr\u00e5n malaria",
+      "description": "\u25b8 Egypten \u00e4r nu fritt fr\u00e5n malaria. Det meddelar V\u00e4rldsh\u00e4lsoorganisationen (WHO), som beskriver kampen med att utrota\u2026",
+      "url": "https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1300976",
+      "urlToImage": "https://images.aftonbladet-cdn.se/v2/images/156fc268-adec-4fec-ac17-baa7f1dbdb35?fit=crop&format=auto&h=56&q=50&w=100&s=8d717b112fa508073dcc3292ac8f7acfdc612d33",
+      "publishedAt": "2024-10-29 00:54:12",
+      "content": "NYHETER DU INTE F\u00c5R MISSA Egypten nu fritt fr\u00e5n malaria Egypten \u00e4r nu fritt fr\u00e5n malaria. Det meddelar V\u00e4rldsh\u00e4lsoorganisationen (WHO), som beskriver kampen med att utrota sjukdomen i land\u2026 [+12762 chars]",
+      "retrievedAt": "2024-10-30 07:06:22.637698",
+      "internal_id": "36cbfe7565ce0ecc02602874b201c4a8f9496f1c49fbbb7de99cf5e98b36352d",
+      "publishedAtLabel": "Oct 29"
+    },
+    {
+      "id": 15020,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "svenska-dagbladet",
+      "source_name": "Svenska Dagbladet",
+      "author": "TT",
+      "title": "WHO: \"Sjukdomen som pl\u00e5gade faraonerna nu borta\"",
+      "description": "Egypten \u00e4r nu fritt fr\u00e5n malaria, meddelar V\u00e4rldsh\u00e4lsoorganisationen (WHO). I ett pressmeddelande beskrivs kampen med att utrota sjukdomen i landet som \u201den hundra\u00e5rig insats\u201d och ett slut p\u00e5 en sjukdom som funnits sedan \u201durminnes tider\u201d.",
+      "url": "https://www.svd.se/a/0VWJgg/egypten-nu-fritt-fran-malaria",
+      "urlToImage": "https://svd.vgc.no/v2/images/532fc876-5dfe-49ce-bb9c-530a07c9e2f0?h=630&q=80&upscale=true&w=1200&s=74e4baab82e5546c44615e437b9e01bb2c7649ed",
+      "publishedAt": "2024-10-29 00:52:56",
+      "content": "Malaria \u00e4r lika gammalt som egyptiska civilisationen sj\u00e4lvt, men nu \u00e4r sjukdomen som pl\u00e5gade faraonerna n\u00e5got som h\u00f6r till dess f\u00f6rflutna och inte dess framtid, s\u00e4ger WHO:s generalsekreterare Tedros \u2026 [+187 chars]",
+      "retrievedAt": "2024-10-30 07:06:22.620717",
+      "internal_id": "d5f0e5989c5f7bc946dc0b6fa940744e6f55956ab2f2cacd141dd9cff7260786",
+      "publishedAtLabel": "Oct 29"
+    },
+    {
+      "id": 15022,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Aftonbladet.se",
+      "author": "TT",
+      "title": "WHO: \"Sjukdomen som pl\u00e5gade faraonerna nu borta\"",
+      "description": "Egypten \u00e4r nu fritt fr\u00e5n malaria, meddelar V\u00e4rldsh\u00e4lsoorganisationen (WHO). I ett pressmeddelande beskrivs kampen med att utrota sjukdomen i landet som \u201den hund",
+      "url": "https://www.aftonbladet.se/nyheter/a/Jb72L7/egypten-nu-fritt-fran-malaria",
+      "urlToImage": "https://images.aftonbladet-cdn.se/v2/images/a039979d-0836-4e31-8892-395a3252031f?fit=crop&format=auto&h=1354&q=50&w=1900&s=7f2c4d08650f5353b0e1752a5f2507aa76c876a8",
+      "publishedAt": "2024-10-29 00:52:56",
+      "content": "Uppdaterad 02.12 | Publicerad 01.52 Egypten \u00e4r nu fritt fr\u00e5n malaria, meddelar V\u00e4rldsh\u00e4lsoorganisationen (WHO). I ett pressmeddelande beskrivs kampen med att utrota sjukdomen i landet som en hundra\u2026 [+891 chars]",
+      "retrievedAt": "2024-10-30 07:06:22.644069",
+      "internal_id": "b580f999c8cb19681e9d930e8250d37ec5b6cf5e9686ee6afda020e9bcf95b0b",
+      "publishedAtLabel": "Oct 29"
+    },
+    {
+      "id": 15016,
+      "query": [
+        "measles",
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Nerdist",
+      "author": "Vishu Reddy",
+      "title": "Film Based on OREGON TRAIL in Development at Apple",
+      "description": "Apple Original Film is bringing us a blast from the Past, developing an Oregon Trail film, directed by Will Speck and Josh Gordon The post Film Based on OREGON TRAIL in Development at Apple appeared first on Nerdist.",
+      "url": "https://nerdist.com/article/oregon-trail-movie-apple-original-film/",
+      "urlToImage": "https://legendary-digital-network-assets.s3.amazonaws.com/wp-content/uploads/2024/10/28103311/The-Oregon-Trail-South-Pass.jpg",
+      "publishedAt": "2024-10-28 20:23:04",
+      "content": "What I\u2019m sure you all wanted to see on the big screen is arriving soon: cholera, dysentery, typhoid, measles, and the ever-so-elusive fever. What could possibly be the premise of such an action-packe\u2026 [+1913 chars]",
+      "retrievedAt": "2024-10-30 07:06:21.069906",
+      "internal_id": "8b862c69b55b15f3d430a6a464e4434167d6242a5ab2503f84e8bbcc6ddce4f6",
+      "publishedAtLabel": "Oct 28"
+    },
     {
       "id": 15002,
       "query": [
@@ -25986,6 +26167,258 @@
       "content": "A case of whooping cough resulted in the cancellation of a college football game between South Dakota and Portland State on Saturday, officials said. Whooping cough, caused by the pertussis bacteria\u2026 [+2883 chars]",
       "retrievedAt": "2024-09-17 07:05:42.747855",
       "internal_id": "0c590179def01532f443007af4df0ec4a928bde7a8f6ab4616fcdc112aa11ecb",
+      "publishedAtLabel": "Sep 15"
+    },
+    {
+      "id": 13545,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Economictimes.com",
+      "author": null,
+      "title": "Rx, world can't afford a relapse",
+      "description": "The Covid-19 pandemic has highlighted the need for global cooperation to address future pandemics. A study by AirAffinity reveals that diseases like measles, polio, and tuberculosis are resurging globally due to reduced immunity, disrupted vaccination program\u2026",
+      "url": "https://m.economictimes.com/opinion/et-editorial/rx-world-cant-afford-a-relapse/articleshow/113373311.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-113373377,width-1200,height-630,imgsize-97308,overlay-economictimes/photo.jpg",
+      "publishedAt": "2024-09-15 18:12:48",
+      "content": "The Covid-19 pandemic alerted the world about the need for multilateral and plurilateral networks to tackle the next 'major pandemic'. According to a recent study by disease-forecasting firm AirAffin\u2026 [+1549 chars]",
+      "retrievedAt": "2024-09-16 19:05:41.758735",
+      "internal_id": "5f6bc2a9a6698d3c9aa8bedf7e2527badcf1b969b4fcf50c5aef1d58aaeecc34",
+      "publishedAtLabel": "Sep 15"
+    },
+    {
+      "id": 13546,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Sapo.pt",
+      "author": "Ana Sofia Neto",
+      "title": "Cientistas alertam para o risco da Dengue afetar os destinos de f\u00e9rias da Europa",
+      "description": "Pela primeira vez, os cientistas conseguem mapear com exatid\u00e3o os locais onde a febre da Dengue \u00e9 suscet\u00edvel de surgir, e identificaram os destinos de f\u00e9rias da Europa em risco. A Dengue \u00e9 uma...",
+      "url": "https://pplware.sapo.pt/ciencia/cientistas-alertam-para-o-risco-da-dengue-afetar-os-destinos-de-ferias-mais-populares-da-europa/",
+      "urlToImage": "https://pplware.sapo.pt/wp-content/uploads/2024/09/dengue00.jpg",
+      "publishedAt": "2024-09-15 17:30:13",
+      "content": "Pela primeira vez, os cientistas conseguem mapear com exatid\u00e3o os locais onde a febre da Dengue \u00e9 suscet\u00edvel de surgir, e identificaram os destinos de f\u00e9rias da Europa em risco. A Dengue \u00e9 uma doen\u00e7\u2026 [+2339 chars]",
+      "retrievedAt": "2024-09-16 19:05:42.626441",
+      "internal_id": "14bf1d5124ef18da858533be1cbba4a5fbd69376ab7981ae34bb74ce060120eb",
+      "publishedAtLabel": "Sep 15"
+    },
+    {
+      "id": 13547,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "taz.de",
+      "author": "Claudius Pr\u00f6\u00dfer",
+      "title": "Tigerm\u00fccken n Berlin: Gekommen, um zu stechen",
+      "description": "Tigerm\u00fccken sind aus Berlin nicht mehr wegzudenken. \u00dcbertragen k\u00f6nnen sie gef\u00e4hrliche Viruskrankheiten wie das Denguefieber.",
+      "url": "https://taz.de/Tigermuecken-n-Berlin/!6034020/",
+      "urlToImage": "https://taz.de/picture/7244421/948/36487673-1.jpeg",
+      "publishedAt": "2024-09-15 16:00:00",
+      "content": "Tigerm\u00fccken sind aus Berlin nicht mehr wegzudenken. \u00dcbertragen k\u00f6nnen sie gef\u00e4hrliche Viruskrankheiten wie das Denguefieber. M\u00fccke tigert herum Foto: websubstance Berlintaz | Kennen Sie die sichers\u2026 [+6265 chars]",
+      "retrievedAt": "2024-09-16 19:05:42.722382",
+      "internal_id": "416f29ec17926970a338f8f4d2a389932e1f8ccc59f3b29e75bdce3bdaff67c6",
+      "publishedAtLabel": "Sep 15"
+    },
+    {
+      "id": 13548,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "taz.de",
+      "author": "Claudius Pr\u00f6\u00dfer",
+      "title": "Tigerm\u00fccken in Berlin: Gekommen, um zu stechen",
+      "description": "Tigerm\u00fccken sind aus Berlin nicht mehr wegzudenken. \u00dcbertragen k\u00f6nnen sie gef\u00e4hrliche Viruskrankheiten wie das Denguefieber.",
+      "url": "https://taz.de/Tigermuecken-in-Berlin/!6034020/",
+      "urlToImage": "https://taz.de/picture/7244421/948/36487673-1.jpeg",
+      "publishedAt": "2024-09-15 16:00:00",
+      "content": "Tigerm\u00fccken sind aus Berlin nicht mehr wegzudenken. \u00dcbertragen k\u00f6nnen sie gef\u00e4hrliche Viruskrankheiten wie das Denguefieber. M\u00fccke tigert herum Foto: websubstance Berlintaz | Kennen Sie die sichers\u2026 [+6265 chars]",
+      "retrievedAt": "2024-09-16 19:05:42.738251",
+      "internal_id": "ed941d0c6a467d7e3360de7e87dd1a255479cc8ac0452107c226f186ab513e00",
+      "publishedAtLabel": "Sep 15"
+    },
+    {
+      "id": 13626,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Mundo ultrapassa 100 mil casos de Mpox desde 2022, diz OMS",
+      "description": "O Brasil \u00e9 o segundo pa\u00eds com mais casos O mundo r...",
+      "url": "https://valor.globo.com/mundo/noticia/2024/09/15/mundo-ultrapassa-100-mil-casos-de-mpox-desde-2022-diz-oms.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/WKqjIOjheOXSIhOFLi-ti2Klj8g=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2024/X/p/ZkBQWfRs6l2Uxr25qJGA/ap24232649230110.jpg",
+      "publishedAt": "2024-09-15 15:59:34",
+      "content": "O mundo registrou 103.048 casos confirmados em laborat\u00f3rio de Mpox entre 1\u00ba de janeiro de 2022 e 31 de julho de 2024, afirmou a Organiza\u00e7\u00e3o Mundial de Sa\u00fade (OMS) em relat\u00f3rio divulgado esta semana. \u2026 [+2364 chars]",
+      "retrievedAt": "2024-09-18 07:06:19.455197",
+      "internal_id": "85a1de384938c8d021d8bfeeff85064aea7ebeb02a3949f62e3d383ec37456b9",
+      "publishedAtLabel": "Sep 15"
+    },
+    {
+      "id": 13553,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Haber7.com",
+      "author": "Ramazan Y\u0131ld\u0131z",
+      "title": "D\u00fcnya Sa\u011fl\u0131k \u00d6rg\u00fct\u00fc, M \u00e7i\u00e7e\u011fi vir\u00fcs\u00fcne kar\u015f\u0131 ilk a\u015f\u0131ya onay verdi",
+      "description": "D\u00fcnya Sa\u011fl\u0131k \u00d6rg\u00fct\u00fc (DS\u00d6), M \u00e7i\u00e7e\u011fi (mpox) vir\u00fcs\u00fcne kar\u015f\u0131 \u00f6n yeterlilik alan ilk a\u015f\u0131n\u0131n \"MVA-BN\" oldu\u011funu duyurdu.",
+      "url": "https://www.haber7.com/dunya/haber/3460286-dunya-saglik-orgutu-m-cicegi-virusune-karsi-ilk-asiya-onay-verdi",
+      "urlToImage": "https://i12.haber7.net//haber/haber7/og_image/2024/37/dunya_saglik_orgutu_m_cicegi_virusune_karsi_ilk_asiya_onay_verdi_1726408323_0026.jpg",
+      "publishedAt": "2024-09-15 13:53:00",
+      "content": "DS\u00d6'den yaplan yazl a\u00e7klamada, Bavarian Nordic'in \u00fcrettii \"MVA-BN asnn, DS\u00d6'n\u00fcn M \u00e7i\u00e7ei vir\u00fcs\u00fcne kar \u00f6n yeterlilik alan a listesine eklendii bildirildi. A\u00e7klamada, \u00f6n yeterlilik onaynn, acil ihtiya\u00e7\u2026 [+1949 chars]",
+      "retrievedAt": "2024-09-16 19:05:44.611538",
+      "internal_id": "36a4bd694a342e35567383e4c1a8402ce0d5bfb62da20d50d8b519a45a9b613e",
+      "publishedAtLabel": "Sep 15"
+    },
+    {
+      "id": 13543,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Jon LaPook",
+      "title": "Experts warn against vaccine skepticism",
+      "description": "Thanks to vaccinations, measles was declared eliminated in the U.S. in 2000. But measles cases are now back; one reason is that more families have exempted their children from routine immunizations than ever before.",
+      "url": "https://www.cbsnews.com/news/experts-warn-against-vaccine-skepticism/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/09/14/ce06c485-25e8-4639-87bf-582a439d061c/thumbnail/1200x630/96ae12ce63809b26812918a2f6079774/vaccine-needle-1280.jpg?v=d2d77bee90bcafa285fd6d60bd8b3612",
+      "publishedAt": "2024-09-15 13:12:00",
+      "content": "Thanks to all those shots in the arm, in the year 2000, measles in the United States was declared eliminated. But now, it's coming back, with measles cases reported from California to Vermont. CBS N\u2026 [+7708 chars]",
+      "retrievedAt": "2024-09-16 19:05:41.726065",
+      "internal_id": "db237af99532ae7b23b119c4a447ec498a7be9a4ca5390b5d33f07a2018fa7f3",
+      "publishedAtLabel": "Sep 15"
+    },
+    {
+      "id": 13544,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "CBS News",
+      "title": "As measles cases increase, experts warn against vaccine skepticism",
+      "description": "Thanks to vaccinations, measles was declared eliminated in the United States in 2000. But measles cases are now back, and one big reason is that, across the country, more families have exempted their children from routine immunizations than ever before. CBS N\u2026",
+      "url": "https://www.cbsnews.com/video/as-measles-cases-increase-experts-warn-against-vaccine-skepticism/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/09/15/bbb743a9-26cd-4991-a726-7eaeb740320a/thumbnail/1200x630/e3a124ffc3052df7e939b8e8c86105af/measles-cases-reported-1920.jpg?v=d2d77bee90bcafa285fd6d60bd8b3612",
+      "publishedAt": "2024-09-15 13:11:00",
+      "content": "Watch CBS News Copyright \u00a92024 CBS Interactive Inc. All rights reserved. Get browser notifications for breaking news, live events, and exclusive reporting. Not NowTurn On",
+      "retrievedAt": "2024-09-16 19:05:41.747708",
+      "internal_id": "72bbced3cb01dab3205ee99a2882ee8f4b4244c11e8085ad42e0179a2c18dc5f",
+      "publishedAtLabel": "Sep 15"
+    },
+    {
+      "id": 13623,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Globalresearch.ca",
+      "author": "Dr. Suzanne Burdick",
+      "title": "WHO Approves First Mpox Vaccine for Adults in Africa \u2014 Then Says Babies Can Get It, Too, Despite No Clinical Trials",
+      "description": "The World Health Organization (WHO) today approved the first mpox vaccine for use in adults \u2014 and also said it can be used for babies, children, teens and pregnant women if they are in \u201coutbreak settings where the benefits of \u2026 The post WHO Approves First Mpo\u2026",
+      "url": "https://www.globalresearch.ca/who-approves-first-mpox-vaccine-adults-africa/5867875",
+      "urlToImage": "https://www.globalresearch.ca/wp-content/uploads/2024/09/monkeypox-vaccines.jpeg",
+      "publishedAt": "2024-09-15 13:09:02",
+      "content": "The World Health Organization (WHO) today approved the first mpox vaccine for use in adults and also said it can be used for babies, children, teens and pregnant women if they are in outbreak setting\u2026 [+6348 chars]",
+      "retrievedAt": "2024-09-18 07:06:19.438860",
+      "internal_id": "3842b95a42892ecde82c50dded645fe364d74015496274b2b380ab6da3281be1",
+      "publishedAtLabel": "Sep 15"
+    },
+    {
+      "id": 13627,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "YouTube",
+      "author": null,
+      "title": "How Mpox spread across the world: Global Health crises | Mpox virus explained in detailed",
+      "description": "How Mpox spread across the world: Global Health crises | Mpox virus explained in detailedyoutube.com",
+      "url": "https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D8oIZ49jSKaI",
+      "urlToImage": null,
+      "publishedAt": "2024-09-15 12:33:01",
+      "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more Remind me later",
+      "retrievedAt": "2024-09-18 07:06:19.460957",
+      "internal_id": "847c535a432aaacd2d03e3676ab61b2f75bdd5586023b0f837b9afe89baab51b",
+      "publishedAtLabel": "Sep 15"
+    },
+    {
+      "id": 13549,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Comune Fano, 'conclusa con successo prima fase disinfestazione'",
+      "description": "Conclusa \"con successo\" la prima fase delle operazioni di disinfestazione contro la zanzara tigre nel territorio comunale di Fano. Lo fa sapere il Comune a seguito degli 11 casi di virus Dengue che si sono registrati. (ANSA)",
+      "url": "https://www.ansa.it/marche/notizie/2024/09/15/comune-fano-conclusa-con-successo-prima-fase-disinfestazione_9723cd96-5fe6-410c-987d-5e8bf5e74676.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2024/9/15/ebf707455502da290ab2fb99f56fff66.jpg",
+      "publishedAt": "2024-09-15 12:14:00",
+      "content": "Conclusa \"con successo\" la prima fase delle operazioni di disinfestazione contro la zanzara tigre nel territorio comunale di Fano. Lo fa sapere il Comune a seguito degli 11 casi di virus Dengue ch\u2026 [+1559 chars]",
+      "retrievedAt": "2024-09-16 19:05:42.785148",
+      "internal_id": "ad397f1441c3847b67a0f47c7f146e329e9fe8166775033b2329a938241f437c",
+      "publishedAtLabel": "Sep 15"
+    },
+    {
+      "id": 13550,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Thecooldown.com",
+      "author": "Jeremiah Budin",
+      "title": "Pennsylvania health officials issue warning after 'breakbone fever' spreads across state lines: 'Get to the doctor right away'",
+      "description": "According to public health officials, New Jersey has had 56 cases of dengue fever this summer, Pennsylvania has had 31, and Delaware has had six.",
+      "url": "https://www.thecooldown.com/green-tech/dengue-fever-cases-new-jersey-pennsylvania-delaware/",
+      "urlToImage": "https://www.thecooldown.com/wp-content/uploads/2024/09/image-191.jpg",
+      "publishedAt": "2024-09-15 11:23:32",
+      "content": "Dengue fever has made its way into the United States, as travelers have brought the mosquito-borne disease home with them, WHYY reported. According to public health officials, New Jersey has had 56 \u2026 [+2392 chars]",
+      "retrievedAt": "2024-09-16 19:05:42.809301",
+      "internal_id": "1ef5c8406def70b2b3bd3c413596153a46c832f9547bb9243b06148bfec7e911",
+      "publishedAtLabel": "Sep 15"
+    },
+    {
+      "id": 13552,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Tass.ru",
+      "author": null,
+      "title": "\u0412 \u0410\u0444\u0440\u0438\u043a\u0435 \u0441 \u043d\u0430\u0447\u0430\u043b\u0430 \u0433\u043e\u0434\u0430 \u0432\u044b\u044f\u0432\u0438\u043b\u0438 \u0431\u043e\u043b\u0435\u0435 25 \u0442\u044b\u0441. \u0441\u043b\u0443\u0447\u0430\u0435\u0432 \u0441 \u043f\u043e\u0434\u043e\u0437\u0440\u0435\u043d\u0438\u0435\u043c \u043d\u0430 mpox",
+      "description": "\u0417\u0430\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u043e \u0431\u043e\u043b\u0435\u0435 720 \u043b\u0435\u0442\u0430\u043b\u044c\u043d\u044b\u0445 \u0438\u0441\u0445\u043e\u0434\u043e\u0432, \u043f\u0440\u0438\u0447\u0438\u043d\u043e\u0439 \u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u043c\u043e\u0433\u043b\u0430 \u0431\u044b\u0442\u044c \u044d\u0442\u0430 \u0431\u043e\u043b\u0435\u0437\u043d\u044c, \u0441\u043e\u043e\u0431\u0449\u0438\u043b\u0438 \u0432 \u0412\u041e\u0417",
+      "url": "https://tass.ru/obschestvo/21868517",
+      "urlToImage": "https://cdn-storage-media.tass.ru/thumb/ru/obschestvo/21868517?u=2024-09-15T08:20:40.921088",
+      "publishedAt": "2024-09-15 08:20:40",
+      "content": ", 15 . //. 25 . mpox ( ) 720 , , 1 8 2024 . (). , 25 093 mpox, 723 . () - 21 835 717 . , 8 5 789 , 32 . , , . , mpox . , . . 1 2022 31 2024 121 103 048 , 229 . 31 2022 (33 556). (11 841), (8 10\u2026 [+125 chars]",
+      "retrievedAt": "2024-09-16 19:05:44.548043",
+      "internal_id": "e84db60b081059cd2a7cbdc6b637b1c6e95781b69152e5ae0062972bc705c98c",
+      "publishedAtLabel": "Sep 15"
+    },
+    {
+      "id": 13551,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "Dengue infection hits 9,500 nationwide, claims 6 lives",
+      "description": "KATHMANDU: Dengue fever has affected 9,486 people across the country from January to September 13, according to the Epidemiology and Disease Control Division (EDCD). In this period, the disease has resulted in six fatalities. Notably, in just the first 13 day\u2026",
+      "url": "https://english.khabarhub.com/2024/15/397656/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2022/09/Dengue-1.webp",
+      "publishedAt": "2024-09-15 07:35:17",
+      "content": "KATHMANDU: Dengue fever has affected 9,486 people across the country from January to September 13, according to the Epidemiology and Disease Control Division (EDCD). In this period, the disease has \u2026 [+421 chars]",
+      "retrievedAt": "2024-09-16 19:05:42.824101",
+      "internal_id": "3f11e565bc0ddd8fe3745c9da672f23cefcaa3a92272004fa1a4fe458eda93ab",
       "publishedAtLabel": "Sep 15"
     }
   ]
