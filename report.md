@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 17
-- **Last harvest:** 2024-10-30 19:06
-- **Most recent article:** 2024-10-29 18:19:04
+- **New articles in last harvest:** 8
+- **Last harvest:** 2024-10-31 07:06
+- **Most recent article:** 2024-10-30 03:46:27
 
 ---
 
@@ -12,14 +12,14 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-38 | 24-39 | 24-40 | 24-41 | 24-42 | 24-43 | 24-44 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 132 | 122 | 128 | 42 | 81 | 131 | 7 | 643 |
-| dengue | 67 | 49 | 51 | 35 | 50 | 53 | 8 | 313 |
-| h5n1 | 17 | 35 | 50 | 10 | 18 | 12 | 7 | 149 |
-| malaria | 15 | 24 | 10 | 13 | 18 | 58 | 9 | 147 |
+| mpox | 137 | 122 | 128 | 42 | 81 | 131 | 8 | 649 |
+| dengue | 73 | 49 | 51 | 35 | 50 | 53 | 10 | 321 |
+| h5n1 | 17 | 35 | 50 | 10 | 18 | 12 | 10 | 152 |
+| malaria | 15 | 24 | 10 | 13 | 18 | 58 | 10 | 148 |
 | rabies | 12 | 25 | 30 | 6 | 7 | 3 | 4 | 87 |
-| meningitis | 10 | 6 | 11 | 2 | 1 | 6 | 1 | 37 |
+| meningitis | 10 | 6 | 11 | 2 | 1 | 6 | 2 | 38 |
+| measles | 8 | 4 | 6 | 5 | 3 | 1 | 5 | 32 |
 | chikungunya | 9 | 3 | 3 | 3 | 4 | 7 | 1 | 30 |
-| measles | 5 | 4 | 6 | 5 | 3 | 1 | 5 | 29 |
 | zika | 8 | 1 | 3 | 4 | 6 | 6 | 1 | 29 |
 | pertussis | 3 | 3 | 2 | 2 | 9 | 3 | 1 | 23 |
 | leptospirosis | 1 | 5 | 4 | 1 | 1 | 0 | 1 | 13 |
@@ -65,6 +65,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-44 (mpox)
 
+- [Cidade de São Paulo registra 533 casos de mpox confirmados em 2024](https://www.metropoles.com/sao-paulo/cidade-de-sao-paulo-registra-533-casos-de-mpox-confirmados-em-2024) (Metropoles.com)
+
 - [La OMS activa al Cuerpo Mundial de Emergencias en respuesta al brote de mpox: qué es y función](https://www.eleconomista.es/salud-bienestar/ultimas-noticias/noticias/13058006/10/24/la-oms-activa-al-cuerpo-mundial-de-emergencias-en-respuesta-al-brote-de-mpox-que-es-y-funcion.html) (Eleconomista.es)
 
 - [Germany Reports Its First Case of Virulent New Monkeypox Variant](https://legalinsurrection.com/2024/10/germany-reports-its-first-case-of-virulent-new-monkeypox-variant/) (Legalinsurrection.com)
@@ -81,6 +83,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-44 (meningitis)
 
+- [Whole blood transcriptional profiles and the pathogenesis of tuberculous meningitis](https://elifesciences.org/articles/92344) (Elifesciences.org)
+
 - [Mixed Leptospira infections in domestic animals from a rural community with high leptospirosis endemicity](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0312556) (Plos.org)
 
 ## 24-44 (measles)
@@ -96,6 +100,8 @@ Source: [News API](https://newsapi.org/)
 - [Film Based on OREGON TRAIL in Development at Apple](https://nerdist.com/article/oregon-trail-movie-apple-original-film/) (Nerdist)
 
 ## 24-44 (malaria)
+
+- [Noninvasive malaria test could be global game changer](https://medicine.yale.edu/news-article/noninvasive-malaria-test-could-be-global-game-changer/) (Yale.edu)
 
 - [A novel 4-aminoquinoline chemotype with multistage antimalarial activity and lack of cross-resistance with PfCRT and PfMDR1 mutants](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012627) (Plos.org)
 
@@ -125,6 +131,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-44 (h5n1)
 
+- [Обнаружен уничтоживший сам себя опасный вирус птичьего гриппа](https://lenta.ru/news/2024/10/30/obnaruzhen-unichtozhivshiy-sam-sebya-opasnyy-virus-ptichiego-grippa/) (Lenta)
+
+- [H5N1 virus isolated from infected dairy worker is 100% lethal in ferrets](https://news.wisc.edu/h5n1-virus-isolated-from-infected-dairy-worker-is-100-lethal-in-ferrets-but-does-not-appear-to-be-circulating-in-nature-anymore/) (Wisc.edu)
+
+- [Οι επιστήμονες προετοιμάζονται για μια νέα πανδημία - Ο ιός με 55% θνησιμότητα - ΤΑ ΝΕΑ](https://www.tanea.gr/2024/10/29/health/oi-epistimones-proetoimazontai-gia-mia-nea-pandimia-o-ios-me-55-thnisimotita/) (Tanea.gr)
+
 - [România a raportat autorităților internaționale un focar de gripă aviară. Primele cazuri au fost depistate în estul țării](http://hotnews.ro/romania-a-raportat-autoritatilor-internationale-un-focar-de-gripa-aviara-primele-cazuri-au-fost-depistate-in-estul-tarii-1823490) (Hotnews.ro)
 
 - [Bird Flu Outbreak: Map Reveals Confirmed US Human Cases](https://www.newsweek.com/bird-flu-outbreak-map-reveals-confirmed-us-human-cases-1976744) (Newsweek)
@@ -140,6 +152,10 @@ Source: [News API](https://newsapi.org/)
 - [Exclusive: Emails Reveal How Health Departments Struggle To Track Human Cases of Bird Flu](https://www.nakedcapitalism.com/2024/10/exclusive-emails-reveal-how-health-departments-struggle-to-track-human-cases-of-bird-flu.html) (Nakedcapitalism.com)
 
 ## 24-44 (dengue)
+
+- [Le réchauffement climatique entraîne des menaces de plus en plus pressantes sur la santé humaine](https://www.lemonde.fr/planete/article/2024/10/30/le-rechauffement-climatique-entraine-des-menaces-de-plus-en-plus-pressantes-sur-la-sante-humaine_6366130_3244.html) (Le Monde)
+
+- [La enfermedad “tropical” que afecta a los ciudadanos de Florida tras el paso del huracán Milton](https://www.lanacion.com.ar/estados-unidos/florida/la-enfermedad-tropical-que-afecta-a-los-ciudadanos-de-florida-tras-el-paso-del-huracan-milton-nid29102024/) (La Nacion)
 
 - [Governo vai ampliar número de cidades que terão vacina de dengue, mas não para toda população](https://valor.globo.com/brasil/noticia/2024/10/29/governo-vai-ampliar-numero-de-cidades-que-terao-vacina-de-dengue-mas-nao-para-toda-populacao.ghtml) (Globo)
 
@@ -3029,6 +3045,16 @@ Source: [News API](https://newsapi.org/)
 
 - [Mpox: mundo ultrapassa marca de 100 mil casos, diz OMS](https://brasil.perfil.com/saude/mpox-mundo-ultrapassa-marca-de-100-mil-casos-diz-oms.phtml) (Perfil.com)
 
+- [Mundo ultrapassa 100 mil casos de Mpox desde 2022, diz OMS](https://valor.globo.com/mundo/noticia/2024/09/15/mundo-ultrapassa-100-mil-casos-de-mpox-desde-2022-diz-oms.ghtml) (Globo)
+
+- [Dünya Sağlık Örgütü, M çiçeği virüsüne karşı ilk aşıya onay verdi](https://www.haber7.com/dunya/haber/3460286-dunya-saglik-orgutu-m-cicegi-virusune-karsi-ilk-asiya-onay-verdi) (Haber7.com)
+
+- [WHO Approves First Mpox Vaccine for Adults in Africa — Then Says Babies Can Get It, Too, Despite No Clinical Trials](https://www.globalresearch.ca/who-approves-first-mpox-vaccine-adults-africa/5867875) (Globalresearch.ca)
+
+- [How Mpox spread across the world: Global Health crises | Mpox virus explained in detailed](https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D8oIZ49jSKaI) (YouTube)
+
+- [В Африке с начала года выявили более 25 тыс. случаев с подозрением на mpox](https://tass.ru/obschestvo/21868517) (Tass.ru)
+
 ## 24-38 (meningitis)
 
 - [meningitis pediatric health nursing kmu BSN 5th semester](https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DeQU9Gvyhec0) (YouTube)
@@ -3062,6 +3088,12 @@ Source: [News API](https://newsapi.org/)
 - [Children receiving 'life-saving' vaccines at lowest level for more than a decade](https://news.sky.com/story/children-receiving-life-saving-vaccines-at-lowest-level-for-more-than-a-decade-13216708) (Sky.com)
 
 - [Multifaceted activation of STING axis upon Nipah and measles virus-induced syncytia formation](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012569) (Plos.org)
+
+- [Rx, world can't afford a relapse](https://m.economictimes.com/opinion/et-editorial/rx-world-cant-afford-a-relapse/articleshow/113373311.cms) (Economictimes.com)
+
+- [Experts warn against vaccine skepticism](https://www.cbsnews.com/news/experts-warn-against-vaccine-skepticism/) (CBS News)
+
+- [As measles cases increase, experts warn against vaccine skepticism](https://www.cbsnews.com/video/as-measles-cases-increase-experts-warn-against-vaccine-skepticism/) (CBS News)
 
 ## 24-38 (malaria)
 
@@ -3270,6 +3302,18 @@ Source: [News API](https://newsapi.org/)
 - [दिल्लीवालो सावधान! फिर डराने लगा डेंगू, 24 घंटे में दो मरीजों की मौत](https://navbharattimes.indiatimes.com/metro/delhi/other-news/delhi-dengue-cases-increased-two-people-died/articleshow/113383493.cms) (The Times of India)
 
 - [Rahul Vaidya shares health update about his and wife Disha Parmar's recovery from dengue; says, ‘We had the worst 7 days of our lives'](https://timesofindia.indiatimes.com/tv/news/hindi/rahul-vaidya-shares-health-update-about-his-and-wife-disha-parmars-recovery-from-dengue-says-we-had-the-worst-7-days-of-our-lives/articleshow/113382111.cms) (The Times of India)
+
+- [Cientistas alertam para o risco da Dengue afetar os destinos de férias da Europa](https://pplware.sapo.pt/ciencia/cientistas-alertam-para-o-risco-da-dengue-afetar-os-destinos-de-ferias-mais-populares-da-europa/) (Sapo.pt)
+
+- [Tigermücken n Berlin: Gekommen, um zu stechen](https://taz.de/Tigermuecken-n-Berlin/!6034020/) (taz.de)
+
+- [Tigermücken in Berlin: Gekommen, um zu stechen](https://taz.de/Tigermuecken-in-Berlin/!6034020/) (taz.de)
+
+- [Comune Fano, 'conclusa con successo prima fase disinfestazione'](https://www.ansa.it/marche/notizie/2024/09/15/comune-fano-conclusa-con-successo-prima-fase-disinfestazione_9723cd96-5fe6-410c-987d-5e8bf5e74676.html) (ANSA.it)
+
+- [Pennsylvania health officials issue warning after 'breakbone fever' spreads across state lines: 'Get to the doctor right away'](https://www.thecooldown.com/green-tech/dengue-fever-cases-new-jersey-pennsylvania-delaware/) (Thecooldown.com)
+
+- [Dengue infection hits 9,500 nationwide, claims 6 lives](https://english.khabarhub.com/2024/15/397656/) (Khabarhub.com)
 
 ## 24-38 (chikungunya)
 
