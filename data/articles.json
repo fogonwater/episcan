@@ -1,8 +1,818 @@
 {
-  "last_updated": "2024-10-31 07:06",
-  "count_articles_total": 1489,
-  "count_articles_new": 8,
+  "last_updated": "2024-10-31 19:05",
+  "count_articles_total": 1520,
+  "count_articles_new": 45,
   "articles": [
+    {
+      "id": 15087,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Standaard.be",
+      "author": "Belga",
+      "title": "Eerste besmetting met nieuwe mpox-variant vastgesteld in Groot-Brittanni\u00eb",
+      "description": "In Groot-Brittanni\u00eb is het eerste geval van de nieuwe variant van de virale ziekte mpox vastgesteld. De besmetting werd in Londen vastgesteld bij een persoon die onlangs in Afrika had gereisd. Dat meldt de Britse Health Security Agency.",
+      "url": "https://www.standaard.be/cnt/dmf20241030_96903780",
+      "urlToImage": "https://static.standaard.be/Assets/Images_Upload/2024/10/30/fbc25f5c-7fed-4606-9606-ba37280a9d00.jpg?maxheight=416&maxwidth=568",
+      "publishedAt": "2024-10-30 19:05:03",
+      "content": "In het Verenigd Koninkrijk is het eerste geval van de nieuwe variant van de virale ziekte mpox vastgesteld. De besmetting werd in Londen vastgesteld bij een persoon die onlangs in Afrika had gereisd.\u2026 [+1469 chars]",
+      "retrievedAt": "2024-10-31 19:05:26.058926",
+      "internal_id": "ffed14c15ced3a1db5af5baf2f75bc70ecd9a8f88c9c58ab900e20dc1b5d6070",
+      "publishedAtLabel": "Oct 30"
+    },
+    {
+      "id": 15052,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Mediaite",
+      "author": "Sarah Rumpf",
+      "title": "Trump Promises to Make Measles Great Again By Giving RFK Jr. \u2018Control\u2019 of Public Health Agencies",
+      "description": "Robert F. Kennedy Jr. boasted that former President Donald Trump has \"promised\" to give him \"control of the public health agencies\" if the GOP presidential nominee is re-elected -- an idea that poses a horrific threat to the lives of countless Americans. The \u2026",
+      "url": "https://www.mediaite.com/opinion/trump-promises-to-make-measles-great-again-by-giving-rfk-jr-control-of-public-health-agencies/",
+      "urlToImage": "https://www.mediaite.com/wp-content/uploads/2024/10/AP24298071168950-scaled.jpg",
+      "publishedAt": "2024-10-30 19:02:23",
+      "content": "AP Photo/Alex Brandon Robert F. Kennedy Jr. boasted this week that former President Donald Trump has \u201cpromised\u201d to give him \u201ccontrol of the public health agencies\u201d if the GOP presidential nominee is\u2026 [+10217 chars]",
+      "retrievedAt": "2024-10-31 19:05:23.465249",
+      "internal_id": "8870b4fc99e7e508bc908874d64b19e5b609de9466a847942ed0c142c75f73e6",
+      "publishedAtLabel": "Oct 30"
+    },
+    {
+      "id": 15059,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Jamie Gumbrecht",
+      "title": "H5N1 bird flu identified in pig for first time in United States | CNN",
+      "description": "H5N1 bird flu has been identified in a pig in the United States for the first time, the US Department of Agriculture said Wednesday.",
+      "url": "https://www.cnn.com/2024/10/30/health/bird-flu-pig-oregon/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-512423538.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-10-30 18:53:18",
+      "content": "H5N1 bird flu has been identified in a pig in the United States for the first time, the US Department of Agriculture said Wednesday. The USDA and Oregon veterinary officials are investigating bird f\u2026 [+1297 chars]",
+      "retrievedAt": "2024-10-31 19:05:24.105045",
+      "internal_id": "b7631b26261cecf121637e9f2baec2e7613a992b8f844eeb67db6da5b030565b",
+      "publishedAtLabel": "Oct 30"
+    },
+    {
+      "id": 15082,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.vrt.be",
+      "author": null,
+      "title": "Eerste besmetting met nieuwe mpox-variant vastgesteld in Verenigd Koninkrijk",
+      "description": "In het Verenigd Koninkrijk is het eerste geval van de nieuwe variant van de virale ziekte mpox vastgesteld. Dat gebeurde in Londen bij een persoon die onlangs in Afrika had gereisd. Dat meldt de Britse Health Security Agency woensdag.",
+      "url": "https://www.vrt.be/vrtnws/nl/2024/10/30/mpox-verenigd-koninkrijk/",
+      "urlToImage": "https://images.vrt.be/vrtnws_share/2024/10/30/9cb30edc-b8d4-40b1-9282-7ddd26b12a83.jpg",
+      "publishedAt": "2024-10-30 18:46:56",
+      "content": "Mpox is een virale ziekte die van dieren op mensen kan worden overgedragen, maar ook via nauw fysiek contact wordt verspreid. De ziekte veroorzaakt koorts, spierpijn en huiduitslag. Omdat de ziekte v\u2026 [+656 chars]",
+      "retrievedAt": "2024-10-31 19:05:26.008539",
+      "internal_id": "889b9f6f1726d0fe4ab882c2828587d476a8179490d2a547aa381e6f505478d0",
+      "publishedAtLabel": "Oct 30"
+    },
+    {
+      "id": 15056,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Forbes.com.mx",
+      "author": "Forbes Staff",
+      "title": "EU detecta por primera vez gripe aviar H5N1 en cerdos",
+      "description": "Forbes M\u00e9xico. EU detecta por primera vez gripe aviar H5N1 en cerdos La gripe aviar H5N1 fue detectada en un cerdo de una granja en Oreg\u00f3n, la primera detecci\u00f3n del virus en cerdos en EU. EU detecta por primera vez gripe aviar H5N1 en cerdos Forbes Staff",
+      "url": "https://forbes.com.mx/eu-detecta-por-primera-vez-gripe-aviar-h5n1-en-cerdos/",
+      "urlToImage": "https://cdn.forbes.com.mx/2023/09/cripto-cerdos-NFT.webp",
+      "publishedAt": "2024-10-30 18:33:51",
+      "content": "La gripe aviar H5N1 fue detectada en un cerdo de una granja en Oreg\u00f3n, la primera detecci\u00f3n del virus en cerdos en el pa\u00eds dijo el mi\u00e9rcoles el Departamento de Agricultura de Estados Unidos. Los cer\u2026 [+2060 chars]",
+      "retrievedAt": "2024-10-31 19:05:24.047178",
+      "internal_id": "8690f556ed42c89c917d5e1e7d0538eaf342e8c49c09889f12480d5158208ff4",
+      "publishedAtLabel": "Oct 30"
+    },
+    {
+      "id": 15076,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Haberturk.com",
+      "author": "Habert\u00fcrk",
+      "title": "Maymun \u00e7i\u00e7e\u011finde yeni varyant!",
+      "description": "\u0130ngiltere Sa\u011fl\u0131k G\u00fcvenli\u011fi Ajans\u0131 (UKHSA), \u00fclkede ilk kez Mpox vir\u00fcs\u00fcn\u00fcn \"klad 1b\" varyant\u0131n\u0131n tespit edildi\u011fini duyurdu. Bu yeni varyant, Afrika seyahati ge\u00e7mi\u015fi olan bir ki\u015fide tan\u0131mland\u0131 ve hasta Londra\u2019daki Royal Free Hospital'\u0131n bula\u015f\u0131c\u0131 hastal\u0131klar biri\u2026",
+      "url": "https://www.haberturk.com/maymun-cicegi-varyanti-klad-1b-nedir-maymun-cicegi-turkiye-de-goruldu-mu-belirtileri-ne-nasil-bulasir-oldurucu-mu-3733462",
+      "urlToImage": "https://im.haberturk.com/l/2024/10/30/ver1730310966/3733462/jpg/1200x628",
+      "publishedAt": "2024-10-30 18:16:54",
+      "content": "MAYMUN \u00c7\u00c7E HASTALII NEDR? Maymun \u00e7i\u00e7ei, 1980li yllarda tamamen ortadan kalkan \u00e7i\u00e7ek hastalnn daha az bulac, daha hafif semptomlara neden olan ve daha az \u00f6l\u00fcmc\u00fcl hastala yol a\u00e7an bir \u00e7eit akraba vir\u00fc\u2026 [+648 chars]",
+      "retrievedAt": "2024-10-31 19:05:25.934486",
+      "internal_id": "aa671785ccbb21084de074081d8f3dc908cef175c340bcc30b9d19f9738d4ab6",
+      "publishedAtLabel": "Oct 30"
+    },
+    {
+      "id": 15054,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Jon Jackson",
+      "title": "First US Case of Bird Flu Detected in Pigs: What We Know",
+      "description": "The U.S. Department of Agriculture said H5N1 bird flu was detected in a pig in Oregon.",
+      "url": "https://www.newsweek.com/first-us-case-bird-flu-detected-pigs-what-we-know-1977518",
+      "urlToImage": "https://d.newsweek.com/en/full/2508279/chickens-farm.jpg",
+      "publishedAt": "2024-10-30 18:07:51",
+      "content": "H5N1 bird flu was detected in a pig in Oregon, marking the first detection of the virus in swine in the country, the U.S. Department of Agriculture (USDA) said Wednesday. The detection was on a smal\u2026 [+2898 chars]",
+      "retrievedAt": "2024-10-31 19:05:24.029973",
+      "internal_id": "2f3e5cd0dea781d14c43dd73993e0acf34d10024cdba02e0515f699993da892d",
+      "publishedAtLabel": "Oct 30"
+    },
+    {
+      "id": 15061,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "Alejandro Horvat",
+      "title": "Anmat. Aprueban un test nacional para detectar el virus del dengue: c\u00f3mo funciona y qu\u00e9 ventajas tiene",
+      "description": "Se llama Detect-AR, y sus impulsores sostienen que ser\u00e1 vital, sobre todo, en brotes de la infecci\u00f3n; ser\u00e1 m\u00e1s econ\u00f3mico que los importados",
+      "url": "https://www.lanacion.com.ar/sociedad/anmat-aprueban-un-test-nacional-para-detectar-el-virus-del-dengue-como-funciona-y-que-ventajas-tiene-nid30102024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/el-kit-detect-ar-dengue-sera-una-herramienta-de-FGFQVEMUOJHSDKHL365BD3VIWQ.JPG?auth=ef429322c92c8a37246e64db345e24835c465037f8845cc7f69b19514b0458f2&width=1200&quality=70&smart=false&height=800",
+      "publishedAt": "2024-10-30 17:57:05",
+      "content": "La Administraci\u00f3n Nacional de Medicamentos, Alimentos y Tecnolog\u00eda M\u00e9dica (Anmat) aprob\u00f3 el primer test de ant\u00edgeno nacional para el diagn\u00f3stico de dengue en Argentina: el kit Detect-AR Dengue. Este \u2026 [+4564 chars]",
+      "retrievedAt": "2024-10-31 19:05:24.582539",
+      "internal_id": "775c65d1ce25ba47bc1a94262174d5cccffcb924919568a74b1ee374397a9f0f",
+      "publishedAtLabel": "Oct 30"
+    },
+    {
+      "id": 15057,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Portfolio.hu",
+      "author": "Portfolio.hu",
+      "title": "Furcsa dolog t\u00f6rt\u00e9nt, agg\u00f3dnak a szak\u00e9rt\u0151k a mad\u00e1rinfluenza miatt",
+      "description": "Az Egyes\u00fclt \u00c1llamokban el\u0151sz\u00f6r mutattak ki H5N1-es mad\u00e1rinfluenz\u00e1t sert\u00e9sben, ami aggodalomra ad okot a szak\u00e9rt\u0151k k\u00f6r\u00e9ben. Az eset egy oregoni h\u00e1zt\u00e1ji gazdas\u00e1gban t\u00f6rt\u00e9nt, \u00e9s b\u00e1r a hat\u00f3s\u00e1gok szerint nem jelent k\u00f6zvetlen vesz\u00e9lyt a lakoss\u00e1gra, fokozott \u00f3vint\u00e9z\u2026",
+      "url": "https://www.portfolio.hu/gazdasag/20241030/furcsa-dolog-tortent-aggodnak-a-szakertok-a-madarinfluenza-miatt-720051",
+      "urlToImage": "https://pcdn.hu/articles/images-xl/m/a/d/madarinfluenza-csirke-tyuk-agrar-668271.jpg",
+      "publishedAt": "2024-10-30 17:47:00",
+      "content": "Az amerikai mezgazdas\u00e1gi miniszt\u00e9rium (USDA) szerd\u00e1n jelentette be, hogy egy oregoni h\u00e1zt\u00e1ji gazdas\u00e1gban \u00e9l sert\u00e9sben H5N1-es mad\u00e1rinfluenz\u00e1t mutattak ki. Ez az els alkalom, hogy az Egyes\u00fclt \u00c1llamok\u2026 [+1479 chars]",
+      "retrievedAt": "2024-10-31 19:05:24.053565",
+      "internal_id": "ec75e4541043c0d3ee73574d7e157025e76bcf4a16ef24c2af9bfef8f71d7ff7",
+      "publishedAtLabel": "Oct 30"
+    },
+    {
+      "id": 15084,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "BFMTV",
+      "author": null,
+      "title": "Mpox: un cas import\u00e9 du nouveau variant identifi\u00e9 pour la premi\u00e8re fois au Royaume-Uni",
+      "description": "Un nouveau cas du clade \"1-b\" du Mpox a \u00e9t\u00e9 identifi\u00e9 ce mercredi 30 octobre par les autorit\u00e9s sanitaires britanniques. Il s'agit de l'une des rares infections \u00e0 cette souche inqui\u00e9tante hors d'Afrique.",
+      "url": "https://www.bfmtv.com/international/europe/angleterre/mpox-un-cas-importe-du-nouveau-variant-identifie-pour-la-premiere-fois-au-royaume-uni_AD-202410300817.html",
+      "urlToImage": "https://images.bfmtv.com/-TEEoZ-2_-I4g6lrnxm44vchkyg=/0x96:2048x1248/2048x0/images/Variole-du-singe-en-RD-Congo-1418820.jpg",
+      "publishedAt": "2024-10-30 17:44:44",
+      "content": "Un nouveau cas du clade \"1-b\" du Mpox a \u00e9t\u00e9 identifi\u00e9 ce mercredi 30 octobre par les autorit\u00e9s sanitaires britanniques. Il s'agit de l'une des rares infections \u00e0 cette souche inqui\u00e9tante hors d'Afriq\u2026 [+1990 chars]",
+      "retrievedAt": "2024-10-31 19:05:26.034144",
+      "internal_id": "20363ba435126be4a64e957654cd6e52cbb877f102c0dc0de6c5ad4fdda30934",
+      "publishedAtLabel": "Oct 30"
+    },
+    {
+      "id": 15089,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Patronlardunyasi.com",
+      "author": "Patronlar D\u00fcnyas\u0131",
+      "title": "\u0130ngiltere'de M \u00e7i\u00e7e\u011fi endi\u015fesi! Yeni varyant tespit edildi",
+      "description": "\u0130ngiltere Sa\u011fl\u0131k G\u00fcvenli\u011fi Ajans\u0131 (UKHSA), M \u00e7i\u00e7e\u011fi (Mpox) vir\u00fcs\u00fc varyantlar\u0131ndan 'klad 1b'nin \u00fclkede ilk kez tespit edildi\u011fini a\u00e7\u0131klad\u0131.",
+      "url": "https://www.patronlardunyasi.com/ingilterede-m-cicegi-endisesi-yeni-varyant-tespit-edildi",
+      "urlToImage": "https://image.patronlardunyasi.com/static/content/24-10/30/ingiltere-m-cicegi-mpox-yeni-varyant.jpg",
+      "publishedAt": "2024-10-30 17:38:03",
+      "content": "ngiltere Salk G\u00fcvenlii Ajans'ndan (UKHSA) yaplan a\u00e7klamaya g\u00f6re, Afrika seyahati ge\u00e7mii bulunan bir kiide Mpox vir\u00fcs\u00fcn\u00fcn 'klad 1b' varyant g\u00f6r\u00fcld\u00fc. HASTANEDE TEDAVYE ALINDI Bu kiinin Londra'daki Ro\u2026 [+1372 chars]",
+      "retrievedAt": "2024-10-31 19:05:26.072645",
+      "internal_id": "f5a82895060508df34aebb2a31d727d1b73cf6696820a2f9c3f58b441eef5bac",
+      "publishedAtLabel": "Oct 30"
+    },
+    {
+      "id": 15058,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "US detects H5N1 bird flu in swine for the first time",
+      "description": "CHICAGO (Reuters) - H5N1 bird flu was detected in a pig in a backyard farm in Oregon, the first detection of the virus in swine in the country, the U.S. Department of Agriculture said on Wednesday. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2024/10/31/us-detects-h5n1-bird-flu-in-swine-for-the-first-time",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/10/31/2993243.jpg",
+      "publishedAt": "2024-10-30 17:23:00",
+      "content": "CHICAGO (Reuters) - H5N1 bird flu was detected in a pig in a backyard farm in Oregon, the first detection of the virus in swine in the country, the U.S. Department of Agriculture said on Wednesday. \u2026 [+635 chars]",
+      "retrievedAt": "2024-10-31 19:05:24.077688",
+      "internal_id": "da131fea870036ddcf6afa03a8c5b53a179321fa0aa20a7a21822b0b78004fe0",
+      "publishedAtLabel": "Oct 30"
+    },
+    {
+      "id": 15091,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Turkiyegazetesi.com.tr",
+      "author": "https://www.facebook.com/turkiyegazetesi",
+      "title": "\u0130ngiltere'de vir\u00fcs alarm\u0131! Yeni varyant ilk kez tespit edildi, halk panik i\u00e7inde",
+      "description": "\u0130ngiltere Sa\u011fl\u0131k G\u00fcvenli\u011fi Ajans\u0131 (UKHSA), M \u00e7i\u00e7e\u011fi (Mpox) vir\u00fcs\u00fc varyantlar\u0131ndan \"klad 1b\"nin \u00fclkede ilk kez tespit edildi\u011fini a\u00e7\u0131klad\u0131.",
+      "url": "https://www.turkiyegazetesi.com.tr/dunya/ingilterede-virus-alarmi-yeni-varyant-ilk-kez-tespit-edildi-halk-panik-icinde-1071501",
+      "urlToImage": "https://i.turkiyegazetesi.com.tr/images/24-10/30/ingilterede-virus-alarmi-yeni-varyant-ilk-kez-tespit-edildi-halk-panik-icinde-17303097663208.jpg",
+      "publishedAt": "2024-10-30 17:21:17",
+      "content": "",
+      "retrievedAt": "2024-10-31 19:05:26.085860",
+      "internal_id": "8931cd5b986c23070f67ad76081189f6602e1b2527b96acc9e4dd29e4a80b4cf",
+      "publishedAtLabel": "Oct 30"
+    },
+    {
+      "id": 15070,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Anadolu Agency",
+      "author": null,
+      "title": "\u0130ngiltere'de M \u00e7i\u00e7e\u011finin yeni varyant\u0131 \"klad 1b\" ilk kez tespit edildi",
+      "description": "\u0130ngiltere Sa\u011fl\u0131k G\u00fcvenli\u011fi Ajans\u0131 (UKHSA), M \u00e7i\u00e7e\u011fi (Mpox) vir\u00fcs\u00fc varyantlar\u0131ndan \"klad 1b\"nin \u00fclkede ilk kez tespit edildi\u011fini a\u00e7\u0131klad\u0131. - Anadolu Ajans\u0131",
+      "url": "https://www.aa.com.tr/tr/saglik/ingilterede-m-ciceginin-yeni-varyanti-klad-1b-ilk-kez-tespit-edildi/3379758",
+      "urlToImage": "https://cdnuploads.aa.com.tr/uploads/Contents/2024/10/30/thumbs_b_c_edcf10b755c2c5ef047f92be90e48c92.jpg?v=202129",
+      "publishedAt": "2024-10-30 17:15:20",
+      "content": "UKHSA'dan yaplan a\u00e7klamaya g\u00f6re, Afrika seyahati ge\u00e7mii bulunan bir kiide Mpox vir\u00fcs\u00fcn\u00fcn klad 1b varyant g\u00f6r\u00fcld\u00fc. Bu kiinin Londra'daki Royal Free Hospital'daki y\u00fcksek riskli bulac hastalklar b\u00f6l\u00fcm\u00fc\u2026 [+1428 chars]",
+      "retrievedAt": "2024-10-31 19:05:25.891406",
+      "internal_id": "2f2eddab245853f5731834395d9c5c9f9d60c60b62a90e7fc8d37b79c3d87b4d",
+      "publishedAtLabel": "Oct 30"
+    },
+    {
+      "id": 15083,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "le-monde",
+      "source_name": "Le Monde",
+      "author": "Le Monde avec AFP",
+      "title": "Mpox : premier cas du variant clade 1b au Royaume-Uni",
+      "description": "Le nouveau variant du virus mpox a \u00e9t\u00e9 d\u00e9tect\u00e9 \u00e0 Londres chez une personne ayant voyag\u00e9 en Afrique, a annonc\u00e9, mercredi, l\u2019agence de s\u00e9curit\u00e9 sanitaire britannique.",
+      "url": "https://www.lemonde.fr/sante/article/2024/10/30/mpox-premier-cas-du-variant-clade-1b-au-royaume-uni_6367615_1651302.html",
+      "urlToImage": "https://img.lemde.fr/2024/10/10/0/0/5472/3648/1440/960/60/0/c50d1d8_2024-10-10t151701z-951017375-rc2eq9aqwzis-rtrmadp-3-health-mpox-zambia.JPG",
+      "publishedAt": "2024-10-30 17:14:28",
+      "content": "Lagence de s\u00e9curit\u00e9 sanitaire britannique (UKHSA) a annonc\u00e9, mercredi 30 octobre, avoir d\u00e9tect\u00e9 un premier cas dinfection dans le pays du nouveau variant du virus mpox, \u00e0 lorigine dune importante \u00e9pi\u2026 [+1798 chars]",
+      "retrievedAt": "2024-10-31 19:05:26.026453",
+      "internal_id": "fb77f8af3cfd0642172d74700ad6efd08e9a92934768b16a30a59e483377c910",
+      "publishedAtLabel": "Oct 30"
+    },
+    {
+      "id": 15092,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "20 Minutes",
+      "author": "20 Minutes avec AFP (20 Minutes)",
+      "title": "Virus Mpox : Le variant d\u00e9tect\u00e9 pour la premi\u00e8re fois au Royaume-Uni",
+      "description": "L'Agence de s\u00e9curit\u00e9 sanitaire britannique a annonc\u00e9 mercredi avoir d\u00e9tect\u00e9 un premier cas d'infection du nouveau variant du virus mpox, \u00e0 l'origine d'une importante \u00e9pid\u00e9mie en Afrique",
+      "url": "https://www.20minutes.fr/monde/royaume-uni/4118834-20241030-virus-mpox-variant-detecte-premiere-fois-royaume-uni",
+      "urlToImage": "https://img.20mn.fr/LXzCvb1BTC2jFTRB8Ge7nik/1444x920_le-mpox-ou-variole-du-singe-est-une-maladie-infectieuse-declenchant-une-eruption-cutanee-douloureuse-des-pustules-un-gonflement-des-ganglions-lymphatiques-et-de-la-fievre",
+      "publishedAt": "2024-10-30 17:14:00",
+      "content": "Il a \u00e9t\u00e9 rep\u00e9r\u00e9 \u00e0 Londres. LAgence de s\u00e9curit\u00e9 sanitaire britannique a annonc\u00e9 mercredi avoir d\u00e9tect\u00e9 un premier cas dinfection du nouveau variant du virus mpox, \u00e0 lorigine dune importante \u00e9pid\u00e9mie e\u2026 [+1783 chars]",
+      "retrievedAt": "2024-10-31 19:05:26.093924",
+      "internal_id": "0eb705733b857133ed9e34d15107b312980ae5308450a4581236dc326318681a",
+      "publishedAtLabel": "Oct 30"
+    },
+    {
+      "id": 15081,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Digital Journal",
+      "author": "AFP",
+      "title": "First case of latest mpox variant detected in UK: health authority",
+      "description": "An infection with the latest mpox variant, clade 1b, has been detected in the United Kingdom for the first time, the UK Health Security Agency (UKHSA) announced on Wednesday. The agency said that the single case was detected in London after the person returne\u2026",
+      "url": "https://www.digitaljournal.com/world/first-case-of-latest-mpox-variant-detected-in-uk-health-authority/article",
+      "urlToImage": "https://www.digitaljournal.com/wp-content/uploads/2024/10/21934ea80b1a6782a3dc9da7d90f39f7304e3044.jpg",
+      "publishedAt": "2024-10-30 17:07:20",
+      "content": "Mpox is a viral disease related to smallpox that causes fever, body aches, swollen lymph nodes and a rash that forms into blisters - Copyright GETTY IMAGES NORTH AMERICA/AFP ALEX WONG An infection w\u2026 [+2149 chars]",
+      "retrievedAt": "2024-10-31 19:05:26.001535",
+      "internal_id": "109202be0574f5ed1a282cd5215ba5721f6b983e7e70fb654be55e445d95c0fe",
+      "publishedAtLabel": "Oct 30"
+    },
+    {
+      "id": 15072,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "CNA",
+      "author": null,
+      "title": "Britain identifies its first case of new mpox variant",
+      "description": "LONDON: Britain has detected its first case of new mpox variant clade Ib, the country's health security agency (UKHSA) said on Wednesday (Oct 30), adding that the risk to the population remained low. The clade Ib variant is a new form of the virus that is lin\u2026",
+      "url": "https://www.channelnewsasia.com/world/britain-identifies-its-first-case-new-mpox-variant-4713301",
+      "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--i6tC1Yd2--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2024-10-30t150331z_1_lynxmpek9t0np_rtroptp_3_health-mpox-germany.jpg?itok=RUhh8yaK",
+      "publishedAt": "2024-10-30 16:57:27",
+      "content": "LONDON: Britain has detected its first case of new mpox variant clade Ib, the country's health security agency (UKHSA) said on Wednesday (Oct 30), adding that the risk to the population remained low.\u2026 [+608 chars]",
+      "retrievedAt": "2024-10-31 19:05:25.905146",
+      "internal_id": "377573862b6c98cf3e22bea331b37bd7a9b018db7085c0d287cbb4b0d0479bb0",
+      "publishedAtLabel": "Oct 30"
+    },
+    {
+      "id": 15066,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "svenska-dagbladet",
+      "source_name": "Svenska Dagbladet",
+      "author": "TT-AFP",
+      "title": "F\u00f6rsta brittiska fallet av mpox bekr\u00e4ftat",
+      "description": "Det f\u00f6rsta bekr\u00e4ftade fallet av den nya varianten av mpox har rapporterats fr\u00e5n Storbritannien. Den brittiska h\u00e4lsomyndigheten Health security agency meddelade p\u00e5 onsdagen att en resen\u00e4r fr\u00e5n Afrika hade testat positivt f\u00f6r mpox av varianten klad 1b. Risk f\u00f6r\u2026",
+      "url": "https://www.svd.se/a/kwdg8L/forsta-brittiska-fallet-av-mpox-bekraftat",
+      "urlToImage": "https://svd.vgc.no/v2/images/9d4bce79-ae9a-4a67-a0f7-48600efa9a43?h=630&q=80&upscale=true&w=1200&s=2074bcd3a6292155c75ee28a9bc5194eea528ced",
+      "publishedAt": "2024-10-30 16:32:12",
+      "content": "Det f\u00f6rsta bekr\u00e4ftade fallet av den nya varianten av mpox har rapporterats fr\u00e5n Storbritannien. Den brittiska h\u00e4lsomyndigheten Health security agency meddelade p\u00e5 onsdagen att en resen\u00e4r fr\u00e5n Afrika \u2026 [+268 chars]",
+      "retrievedAt": "2024-10-31 19:05:25.858806",
+      "internal_id": "7e84e8da8d27d5c2019b5e995dc39561aedcf96f8388375286870c41018b0750",
+      "publishedAtLabel": "Oct 30"
+    },
+    {
+      "id": 15085,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Aftonbladet.se",
+      "author": "TT",
+      "title": "F\u00f6rsta brittiska fallet av mpox bekr\u00e4ftat",
+      "description": "Det f\u00f6rsta bekr\u00e4ftade fallet av den nya varianten av mpox har rapporterats fr\u00e5n Storbritannien. Den brittiska h\u00e4lsomyndigheten Health security agency meddelade",
+      "url": "https://www.aftonbladet.se/nyheter/a/73BzVo/forsta-brittiska-fallet-av-mpox-bekraftat",
+      "urlToImage": "https://images.aftonbladet-cdn.se/v2/images/971a6666-39f2-40bc-bdad-990b5676d335?fit=crop&format=auto&h=1267&q=50&w=1900&s=3ffd60e88c5351e0df1707b96bbf8a305dca3145",
+      "publishedAt": "2024-10-30 16:32:11",
+      "content": "Det f\u00f6rsta bekr\u00e4ftade fallet av den nya varianten av mpox har rapporterats fr\u00e5n Storbritannien. Den brittiska h\u00e4lsomyndigheten Health security agency meddelade p\u00e5 onsdagen att en resen\u00e4r fr\u00e5n Afrika \u2026 [+519 chars]",
+      "retrievedAt": "2024-10-31 19:05:26.040372",
+      "internal_id": "755192f1ff5b734dd394e55464a08aef04b335654e13903f4b1133802d71ad59",
+      "publishedAtLabel": "Oct 30"
+    },
+    {
+      "id": 15080,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Milenio",
+      "author": "Agencia EFE",
+      "title": "Nueva cepa de mpox llega a Reino Unido; confirman primer caso m\u00e1s contagioso",
+      "description": "La Agencia de Seguridad Sanitaria del Reino Unido (Ukhsa) inform\u00f3 este mi\u00e9rcoles en un comunicado de que detect\u00f3 el primer caso humano confirmado de una nueva variante del virus del mpox, denominada Clade 1b, en Londres. El paciente fue trasladado a la Unidad\u2026",
+      "url": "https://www.milenio.com/internacional/viruela-mono-reino-unido-confirma-caso-cepa-mpox",
+      "urlToImage": "https://cdn.milenio.com/uploads/media/2024/08/17/mpox-declarada-emergencia-sanitaria-oms.jpg",
+      "publishedAt": "2024-10-30 16:31:00",
+      "content": "La Agencia de Seguridad Sanitaria del Reino Unido (Ukhsa) inform\u00f3 este mi\u00e9rcoles en un comunicado de que detect\u00f3 el primer caso humano confirmado de una nueva variante del virus del mpox, denominada \u2026 [+1630 chars]",
+      "retrievedAt": "2024-10-31 19:05:25.976724",
+      "internal_id": "f414c470961b873bcbe5690d629378b26ecce2ff9c697488cd24b397b9ed449b",
+      "publishedAtLabel": "Oct 30"
+    },
+    {
+      "id": 15071,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Rg.ru",
+      "author": null,
+      "title": "\u0412 \u0411\u0440\u0438\u0442\u0430\u043d\u0438\u0438 \u0432\u044b\u044f\u0432\u043b\u0435\u043d \u043f\u0435\u0440\u0432\u044b\u0439 \u0441\u043b\u0443\u0447\u0430\u0439 \u0441\u043c\u0435\u0440\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u0430 \u0432\u0438\u0440\u0443\u0441\u0430 \u043e\u0441\u043f\u044b \u043e\u0431\u0435\u0437\u044c\u044f\u043d",
+      "description": "\u041f\u0435\u0440\u0432\u044b\u0439 \u0432 \u0411\u0440\u0438\u0442\u0430\u043d\u0438\u0438 \u0441\u043b\u0443\u0447\u0430\u0439 \u043f\u043e\u0442\u0435\u043d\u0446\u0438\u0430\u043b\u044c\u043d\u043e \u0441\u043c\u0435\u0440\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u0430 \u0432\u0438\u0440\u0443\u0441\u0430 mpox - \u043e\u0441\u043f\u044b \u043e\u0431\u0435\u0437\u044c\u044f\u043d \u0431\u044b\u043b \u0432\u044b\u044f\u0432\u043b\u0435\u043d \u0432 \u041b\u043e\u043d\u0434\u043e\u043d\u0435.",
+      "url": "https://rg.ru/2024/10/30/v-britanii-vyiavlen-pervyj-sluchaj-smertelnogo-varianta-virusa-ospy-obezian.html",
+      "urlToImage": "https://cdnstatic.rg.ru/images/rg-social-dummy-logo-650x360.jpg",
+      "publishedAt": "2024-10-30 16:15:03",
+      "content": "(UKHSA) , Clade Ib mpox \" \". 21 , Guardian. , , 24 , 24 , . 27 , , . . UKHSA, 10 , . , \" \" , , , . .",
+      "retrievedAt": "2024-10-31 19:05:25.898875",
+      "internal_id": "159e6b0dfc872835b3b82421911e91011b463e4a0ad5c7ec74bf53ad8565aacc",
+      "publishedAtLabel": "Oct 30"
+    },
+    {
+      "id": 15068,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "VOA News",
+      "author": "webdesk@voanews.com (Reuters)",
+      "title": "Britain identifies its first case of new mpox variant",
+      "description": "LONDON \u2014 Britain has detected its first case of new mpox variant clade Ib, the country's health security agency (UKHSA) said Wednesday, adding that the risk to the population remained low. The clade Ib variant is a new form of the virus that was declared \u2026",
+      "url": "https://www.voanews.com/a/britain-identifies-its-first-case-of-new-mpox-variant/7844927.html",
+      "urlToImage": "https://gdb.voanews.com/0660F410-22E2-46C9-8CB9-BD2AB47C978C.jpg",
+      "publishedAt": "2024-10-30 16:12:21",
+      "content": "LONDON Britain has detected its first case of new mpox variant clade Ib, the country's health security agency (UKHSA) said Wednesday, adding that the risk to the population remained low. The clade\u2026 [+1509 chars]",
+      "retrievedAt": "2024-10-31 19:05:25.877515",
+      "internal_id": "080f4514355c882662c0f839eaa3c66526e611f7492c2d17fe9ff235baa68e53",
+      "publishedAtLabel": "Oct 30"
+    },
+    {
+      "id": 15065,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.dr.dk",
+      "author": null,
+      "title": "F\u00f8rste tilf\u00e6lde af ny mpox-variant i Storbritannien",
+      "description": "I Storbritannien har man nu registreret det f\u00f8rste tilf\u00e6lde med den nyere variant af mpox, tidligere kendt som abekopper.",
+      "url": "https://www.dr.dk/nyheder/seneste/foerste-tilfaelde-af-ny-mpox-variant-i-storbritannien",
+      "urlToImage": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fapi.dr.dk%2Ffreja%2Fimage%2Fraw%2F317&w=700",
+      "publishedAt": "2024-10-30 16:12:00",
+      "content": "Aarhus skal forvandles til et julemekka p\u00e5 linje med L\u00fcbeck og Flensborg, og julestemningen skal spredes ud over hele byen p\u00e5 torve og sidegader. Det foresl\u00e5r partierne Venstre, Konservative, Radika\u2026 [+683 chars]",
+      "retrievedAt": "2024-10-31 19:05:25.851028",
+      "internal_id": "6a3711da6196ee1f14016a80ad201aa03201da5ea7e3ffbccaeca1261222ac54",
+      "publishedAtLabel": "Oct 30"
+    },
+    {
+      "id": 15079,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Sudinfo.be",
+      "author": "Par Sudinfo avec AFP",
+      "title": "Mpox : premier cas du nouveau variant d\u00e9couvert au Royaume-Uni",
+      "description": "Un premier cas du nouveau variant du virus mpox a \u00e9t\u00e9 d\u00e9couvert au Royaume-Uni.",
+      "url": "https://www.sudinfo.be/id906927/article/2024-10-30/mpox-premier-cas-du-nouveau-variant-decouvert-au-royaume-uni",
+      "urlToImage": "https://spgeng.rosselcdn.net/sites/default/files/dpistyles_v2/FirstImageUrl/2024/10/30/node_906927/55998913/public/2024/10/30/28658926.jpeg?itok=kJlDVXf61730304641",
+      "publishedAt": "2024-10-30 16:10:29",
+      "content": "LAgence de s\u00e9curit\u00e9 sanitaire britannique a annonc\u00e9 mercredi avoir d\u00e9tect\u00e9 un premier cas dinfection du nouveau variant du virus mpox, \u00e0 lorigine dune importante \u00e9pid\u00e9mie en Afrique. Lire aussi Mpo\u2026 [+273 chars]",
+      "retrievedAt": "2024-10-31 19:05:25.970047",
+      "internal_id": "e81edfc8be033e6a5406686a5155f27a135df64f3980a92589645bbb9e6a0480",
+      "publishedAtLabel": "Oct 30"
+    },
+    {
+      "id": 15095,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Insiderpaper.com",
+      "author": "Afp",
+      "title": "First case of latest mpox variant detected in UK: health authority",
+      "description": "An infection with the latest mpox variant, clade 1b, has been detected in the United Kingdom for the first time, the UK Health Security Agency (UKHSA)",
+      "url": "https://insiderpaper.com/first-case-of-latest-mpox-variant-detected-in-uk-health-authority/",
+      "urlToImage": "https://insiderpaper.com/wp-content/uploads/2024/08/national-institute-of-allergy-and-infectious-diseases-aIQmqFRiVig-unsplash-1.jpg",
+      "publishedAt": "2024-10-30 16:09:36",
+      "content": "An infection with the latest mpox variant, clade 1b, has been detected in the United Kingdom for the first time, the UK Health Security Agency (UKHSA) announced on Wednesday. The agency said that th\u2026 [+1964 chars]",
+      "retrievedAt": "2024-10-31 19:05:26.114124",
+      "internal_id": "e26880a62382731a807410d08058109239896156bff6cf97d7ff7090426c0c0b",
+      "publishedAtLabel": "Oct 30"
+    },
+    {
+      "id": 15067,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Expressen.se",
+      "author": "agnes.ericson@expressen.se (Agn\u00e8s Ericson)",
+      "title": "Nya mpox-varianten konstaterat i Storbritannien",
+      "description": "F\u00f6rsta fallet av nya mpox har konstaterats i Storbritannien, rapporterar AFP.",
+      "url": "https://www.expressen.se/nyheter/varlden/nya-mpox-varianten-konstaterat-i-storbritannien/",
+      "urlToImage": "https://www.expressen.se/images/logotype-for-sharing.png",
+      "publishedAt": "2024-10-30 16:00:02",
+      "content": "Fallet uppt\u00e4cktes i London, skriver Sky News. Personen hade varit p\u00e5 semester i Africa och fl\u00f6g tillbaka till Storbritannien den 21 oktober. Personen v\u00e5rdas p\u00e5 sjukhus, enligt brittiska h\u00e4lsomynd\u2026 [+7 chars]",
+      "retrievedAt": "2024-10-31 19:05:25.870577",
+      "internal_id": "0883be620e859b7d929f17b81884a9ed785753772f1c88bd1cf6e990e95905f5",
+      "publishedAtLabel": "Oct 30"
+    },
+    {
+      "id": 15069,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Mediafax.ro",
+      "author": "Iulia Kelt",
+      "title": "Primul caz de mpox Clade 1b detectat \u00een Regatul Unit",
+      "description": "Cazul unei noi tulpini de virus mpox, Clade 1b, a fost confirmat pentru prima dat\u0103 \u00een Regatul Unit, a anun\u0163at Agen\u0163ia pentru Securitate a S\u0103n\u0103t\u0103\u0163ii din Regatul Unit (UKHSA), scrie SkyNews.",
+      "url": "https://www.mediafax.ro/externe/primul-caz-de-mpox-clade-1b-detectat-in-regatul-unit-22530419",
+      "urlToImage": "https://storage0.dms.mpinteractiv.ro/media/1/1/3614/22530419/1/7769390-mediafax-foto-ap.jpg?width=640",
+      "publishedAt": "2024-10-30 15:57:48",
+      "content": "Cazul a fost identificat \u00een Londra, iar pacientul este tratat la Spitalul Royal Free. Aceasta persoan a cltorit recent \u00een ri din Africa, unde au fost raportate cazuri cu aceast tulpin. Potrivit UK\u2026 [+1324 chars]",
+      "retrievedAt": "2024-10-31 19:05:25.884966",
+      "internal_id": "296f1d622408ac84af4e1225ed4f350cc7eae86f7ee87f66e455bf801e2a364b",
+      "publishedAtLabel": "Oct 30"
+    },
+    {
+      "id": 15074,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Skai.gr",
+      "author": "Newsroom",
+      "title": "\u0392\u03c1\u03b5\u03c4\u03b1\u03bd\u03af\u03b1: \u0395\u03bd\u03c4\u03bf\u03c0\u03af\u03c3\u03c4\u03b7\u03ba\u03b5 \u03c4\u03bf \u03c0\u03c1\u03ce\u03c4\u03bf \u03ba\u03bf\u03cd\u03c3\u03bc\u03b1 \u03c4\u03b7\u03c2 \u03bd\u03ad\u03b1\u03c2 \u03c0\u03b1\u03c1\u03b1\u03bb\u03bb\u03b1\u03b3\u03ae\u03c2 \u03c4\u03bf\u03c5 \u03b9\u03bf\u03cd mpox",
+      "description": "\u03a4\u03bf \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1, \u03b5\u03bd\u03c4\u03bf\u03c0\u03af\u03c3\u03c4\u03b7\u03ba\u03b5 \u03c3\u03c4\u03bf \u039b\u03bf\u03bd\u03b4\u03af\u03bd\u03bf \u03ba\u03b1\u03b9 \u03c3\u03c5\u03b3\u03ba\u03b5\u03ba\u03c1\u03b9\u03bc\u03ad\u03bd\u03b1 \u03c3\u03b5 \u03ad\u03bd\u03b1\u03bd \u03b1\u03c3\u03b8\u03b5\u03bd\u03ae \u03c0\u03bf\u03c5 \u03c4\u03b1\u03be\u03af\u03b4\u03b5\u03c8\u03b5 \u03c0\u03c1\u03cc\u03c3\u03c6\u03b1\u03c4\u03b1 \u03c3\u03c4\u03b7\u03bd \u0391\u03c6\u03c1\u03b9\u03ba\u03ae - \u039f \u03b1\u03c3\u03b8\u03b5\u03bd\u03ae\u03c2 \u03bc\u03b5\u03c4\u03b1\u03c6\u03ad\u03c1\u03b8\u03b7\u03ba\u03b5 \u03c3\u03b5 \u03b5\u03b9\u03b4\u03b9\u03ba\u03cc \u03bd\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03bf",
+      "url": "https://www.skai.gr/news/world/entopistike-sti-vretania-to-proto-kousma-tis-neas-parallagis-tou-iou-mpox",
+      "urlToImage": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2022-12/ap_uk_hospital.jpg?itok=9RTv4npf",
+      "publishedAt": "2024-10-30 15:46:53",
+      "content": "mpox clade Ib ( ), (UKHSA), . clade Ib . , . , UKHSA. Clade Ib mpox , , , , , . .Skai.gr Google News .",
+      "retrievedAt": "2024-10-31 19:05:25.919204",
+      "internal_id": "75ae606c143dee260c465836547a786fac5a53d5cf275f4002b2d8829fc95829",
+      "publishedAtLabel": "Oct 30"
+    },
+    {
+      "id": 15075,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Sky.com",
+      "author": null,
+      "title": "How is new strain of mpox found in UK different to what we've had before?",
+      "description": "A new, more infectious strain of mpox has been detected in the UK for the first time.",
+      "url": "https://news.sky.com/story/how-is-new-strain-of-mpox-found-in-uk-different-to-what-weve-had-before-13244801",
+      "urlToImage": "https://e3.365dm.com/24/08/1600x900/skynews-mpox-monkeypox-congo_6657345.jpg?20240815151438",
+      "publishedAt": "2024-10-30 15:46:00",
+      "content": "A new, more infectious strain of mpox has been detected in the UK for the first time. The single case of the mpox virus variant Clade 1b was detected in a patient who is being treated at the Royal F\u2026 [+6096 chars]",
+      "retrievedAt": "2024-10-31 19:05:25.926206",
+      "internal_id": "a8f11127737205ab605c8d3762b53ed6361ec2d05c9fece42b1cf91849b2b86d",
+      "publishedAtLabel": "Oct 30"
+    },
+    {
+      "id": 15078,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "POLITICO.eu",
+      "author": "Rory O\u2019Neill",
+      "title": "UK reports first case of new mpox variant",
+      "description": "The infection was detected in London; the victim had recently traveled to affected countries in Africa.",
+      "url": "https://www.politico.eu/article/uk-reports-first-case-new-mpox-variant-ukhsa-monkeypox-democratic-republic-of-the-congo-disease-virus/",
+      "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2024/10/30/GettyImages-1242065922-scaled.jpg",
+      "publishedAt": "2024-10-30 15:37:38",
+      "content": "The U.K. has reported its first case of a new variant of mpox that has caused a deadly outbreak in the Democratic Republic of the Congo and neighboring countries, killing almost 1,000. The risk to t\u2026 [+554 chars]",
+      "retrievedAt": "2024-10-31 19:05:25.952988",
+      "internal_id": "e5f055239bb7f427c398fb32d22cec7c2e4985efaa74dab0002d0f4ab723aa3c",
+      "publishedAtLabel": "Oct 30"
+    },
+    {
+      "id": 15094,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Gbnews.com",
+      "author": "Adam Chapman",
+      "title": "Mpox: Clade 1B detected in London - symptoms",
+      "description": "Mpox Clade 1b strain has detected in London. Here are symptoms of the deadly new strain to spot",
+      "url": "https://www.gbnews.com/health/mpox-symptoms-clade-1b",
+      "urlToImage": "https://www.gbnews.com/media-library/mpox-particle.png?id=54088124&width=1200&height=600&coordinates=0%2C118%2C0%2C119",
+      "publishedAt": "2024-10-30 15:27:53",
+      "content": "The first case of a potentially deadly new strain of the mpox virus known as Clade 1b has been detected in Britain. The person involved developed flu-like symptoms more than 24 hours later and, on O\u2026 [+3102 chars]",
+      "retrievedAt": "2024-10-31 19:05:26.107495",
+      "internal_id": "2a8bcf9703e0ec9d9bbe256513cee24c9e3b18ade84886d968526e777b55265e",
+      "publishedAtLabel": "Oct 30"
+    },
+    {
+      "id": 15062,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Protothema.gr",
+      "author": "Electra Delavogia",
+      "title": "Patras: 16-year-old student in critical but stable condition with meningitis",
+      "description": "The student is hospitalized in the ICU of Agios Andreas Hospital The post Patras: 16-year-old student in critical but stable condition with meningitis appeared first on ProtoThema English.",
+      "url": "https://en.protothema.gr/2024/10/30/patras-16-year-old-student-in-critical-but-stable-condition-with-meningitis/",
+      "urlToImage": "https://en.protothema.gr/wp-content/uploads/2024/10/diadromos_nosokomeio_arthro-1.jpg-1.jpg",
+      "publishedAt": "2024-10-30 15:20:43",
+      "content": "In critical yet stable condition, the 16-year-old student from the 6th Vocational High School of Patras, diagnosed with meningitis, remains under intensive care at Agios Andreas Hospital. According \u2026 [+676 chars]",
+      "retrievedAt": "2024-10-31 19:05:24.854796",
+      "internal_id": "dc3e905d0f0a49875d2a4027e806d94266df69966e424452ce76c24db28428aa",
+      "publishedAtLabel": "Oct 30"
+    },
+    {
+      "id": 15073,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "EURACTIV",
+      "author": "Emma Pirnay",
+      "title": "UK detects first case of new mpox variant",
+      "description": "This is the first occurence of this clade type in the country, different from mpox Clade II that has circulated in the UK at low levels since 2022.",
+      "url": "https://www.euractiv.com/section/health-consumers/news/uk-detects-first-case-new-mpox-variant/",
+      "urlToImage": "https://www.euractiv.com/wp-content/uploads/sites/2/2024/10/GettyImages-2163385988-800x450.jpg",
+      "publishedAt": "2024-10-30 15:13:46",
+      "content": "A single human case of Clade Ib mpox has been confirmed in the UK today (30 October), although the risk remains low to population health, said the UK Health Security Agency (UKHSA). This is the firs\u2026 [+1139 chars]",
+      "retrievedAt": "2024-10-31 19:05:25.912290",
+      "internal_id": "ab19300d508ee654cd280fc3be74515602accfede93e45cb69e3151776779a0e",
+      "publishedAtLabel": "Oct 30"
+    },
+    {
+      "id": 15086,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Aftonbladet.se",
+      "author": null,
+      "title": "F\u00f6rsta fallet av nya mpox i England",
+      "description": "\u25b8 F\u00f6rsta fallet av mpox klad 1 har bekr\u00e4ftats i London, rapporterar Sky news.",
+      "url": "https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1301473",
+      "urlToImage": "https://images.aftonbladet-cdn.se/v2/images/156fc268-adec-4fec-ac17-baa7f1dbdb35?fit=crop&format=auto&h=56&q=50&w=100&s=8d717b112fa508073dcc3292ac8f7acfdc612d33",
+      "publishedAt": "2024-10-30 15:06:22",
+      "content": "TRE NYHETER DU INTE F\u00c5R MISSA F\u00f6rsta fallet av nya mpox i England F\u00f6rsta fallet av mpox klad 1 har bekr\u00e4ftats i London, rapporterar Sky news. Enligt landets h\u00e4lsomyndigheter v\u00e5rdas pers\u2026 [+10894 chars]",
+      "retrievedAt": "2024-10-31 19:05:26.052384",
+      "internal_id": "f3ecb6ab48e3f8be6e34a00403cac82ef4513efa3a3dc69c09bd83e11e7b36de",
+      "publishedAtLabel": "Oct 30"
+    },
+    {
+      "id": 15064,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": null,
+      "title": "First case of more spreadable mpox detected in UK",
+      "description": "A single case of mpox - formerly known as monkeypox - linked to the outbreak in parts of Africa has been detected in the UK.",
+      "url": "https://www.bbc.com/news/articles/ce3yn7pzrndo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0f2c/live/60f697b0-1203-11ef-82e8-cd354766a224.png",
+      "publishedAt": "2024-10-30 15:02:32",
+      "content": "A single case of mpox - formerly known as monkeypox - linked to the recent outbreak in parts of Africa has been detected in the UK. It is part of the Clade 1b outbreak, which appears to spread more \u2026 [+2316 chars]",
+      "retrievedAt": "2024-10-31 19:05:25.843955",
+      "internal_id": "3a291162dc96c70509e088923e1cd66100d849305e2e5bb1ba7fe3ddc00dce38",
+      "publishedAtLabel": "Oct 30"
+    },
+    {
+      "id": 15093,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "bbc-news",
+      "source_name": "BBC News",
+      "author": "James Gallagher",
+      "title": "First Clade 1b mpox detected in UK",
+      "description": "A single case of mpox linked to a recent outbreak in parts of Africa has been detected in the UK.",
+      "url": "https://www.bbc.co.uk/news/articles/ce3yn7pzrndo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/db29/live/c56d0a00-96d6-11ef-91d6-57661c36bca5.jpg",
+      "publishedAt": "2024-10-30 15:02:32",
+      "content": "The patient's close contacts, which include housemates, are being traced. This is thought to be fewer than 10 people. \"This is the first time we have detected this clade of mpox in the UK, though o\u2026 [+885 chars]",
+      "retrievedAt": "2024-10-31 19:05:26.101014",
+      "internal_id": "ee07c0572e4e7c644819232d08eab5ff050d1e91038e9459810ffe3672292c7d",
+      "publishedAtLabel": "Oct 30"
+    },
+    {
+      "id": 15088,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": "UK Health Security Agency",
+      "title": "News story: UKHSA detects first case of Clade Ib mpox",
+      "description": "The UK Health Security Agency (UKHSA) has detected a single confirmed human case of Clade Ib mpox.",
+      "url": "https://www.gov.uk/government/news/ukhsa-detects-first-case-of-clade-ib-mpox",
+      "urlToImage": "https://assets.publishing.service.gov.uk/media/672243483758e4604742a9fc/s960_Mpox2.png",
+      "publishedAt": "2024-10-30 15:02:05",
+      "content": "The UK Health Security Agency (UKHSA) has detected a single confirmed human case of Clade Ib mpox. The risk to the UK population remains low. This is the first detection of this Clade of mpox in the\u2026 [+4665 chars]",
+      "retrievedAt": "2024-10-31 19:05:26.065691",
+      "internal_id": "87e4d489fbdbd33abd3eea3224275640712101ac8b70bbc09cc7748528fd3b61",
+      "publishedAtLabel": "Oct 30"
+    },
+    {
+      "id": 15077,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Sky.com",
+      "author": "Mickey Carroll, science and technology reporter and Dylan Donnelly, news reporter",
+      "title": "UK confirms first case of new mpox strain",
+      "description": "A case of a new strain of mpox has been detected in the UK for the first time, it has been announced.",
+      "url": "https://news.sky.com/story/mpox-first-case-of-clade-1b-strain-detected-in-london-13244771",
+      "urlToImage": "https://e3.365dm.com/24/07/1600x900/skynews-breaking-sky-news_6597481.jpg?20240705014126",
+      "publishedAt": "2024-10-30 14:55:00",
+      "content": "A case of a new strain of mpox has been detected in the UK for the first time, it has been announced. The UK Health Security Agency (UKHSA) said a single case of the mpox virus variant Clade 1b was \u2026 [+2788 chars]",
+      "retrievedAt": "2024-10-31 19:05:25.946757",
+      "internal_id": "0ef4ba0f30a699cb7aa7d2f0b5a9d9ea1142232652da58a5f3637a9a51066f57",
+      "publishedAtLabel": "Oct 30"
+    },
+    {
+      "id": 15063,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Pongsakorn Thawornpan, Zulfa Zahra Salsabila, Piyawan Kochayoo, Tipanan Khunsri, Chayapat Malee, Kittikorn Wangriatisak, Chaniya Leepiyasakulchai, Francis Babila Ntumngia, John H. Adams, Patchanee Chootong",
+      "title": "Polarization toward Tfh2 cell involved in development of MBC and antibody responses against Plasmodium vivax infection",
+      "description": "Author summary Naturally acquired immunity to malaria relies on the development of MBCs and long-lived plasma cells that serve as the source of antibody responses that inhibit parasite invasion. To date, information is limited regarding the role of Tfh cells \u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012625",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012625.g008&size=inline",
+      "publishedAt": "2024-10-30 14:00:00",
+      "content": "Citation: Thawornpan P, Salsabila ZZ, Kochayoo P, Khunsri T, Malee C, Wangriatisak K, et al. (2024) Polarization toward Tfh2 cell involved in development of MBC and antibody responses against Plasmod\u2026 [+49982 chars]",
+      "retrievedAt": "2024-10-31 19:05:25.315186",
+      "internal_id": "820eca0bdabbc0a18e6482d0b64880d944e237c758c93f9198c9d986f9b61e50",
+      "publishedAtLabel": "Oct 30"
+    },
+    {
+      "id": 15053,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Scientific American",
+      "author": "Maggie Fox",
+      "title": "A Bird Flu Vaccine Might Come Too Late to Save Us from H5N1",
+      "description": "If the influenza virus infecting cattle workers starts a pandemic, help in the form of a vaccine is months away",
+      "url": "https://www.scientificamerican.com/article/a-bird-flu-vaccine-might-come-too-late-to-save-us-from-h5n1/",
+      "urlToImage": "https://static.scientificamerican.com/dam/m/47b8139be3de0f26/original/Avian_influenza_TEM.jpg?m=1730136027.152&w=1200",
+      "publishedAt": "2024-10-30 13:30:00",
+      "content": "H5N1 bird flu is here. It\u2019s moving from animals to people in ways not seen before. It\u2019s spreading to new species and new places, and this spread is largely happening under the radar. So far 36 human\u2026 [+8664 chars]",
+      "retrievedAt": "2024-10-31 19:05:24.006648",
+      "internal_id": "d8c888551decdc6716897fb5120d64c00529b34d3dfe7e294283cb1a85a48928",
+      "publishedAtLabel": "Oct 30"
+    },
+    {
+      "id": 15051,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Renee Hsia, Contributor, \n Renee Hsia, Contributor\n https://www.forbes.com/sites/reneehsia/",
+      "title": "Trick Or Treatment? A Bat Bite And The Frightening Reality Of Healthcare Bills",
+      "description": "Healthcare decisions are inherently agonizing, and in the United States, this agony is compounded by the uncertainty of what will or will not be covered by insurance.",
+      "url": "https://www.forbes.com/sites/reneehsia/2024/10/30/trick-or-treatment-a-bat-bite-and-the-frightening-reality-of-healthcare-bills/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/671833e163c8401f84c28d21/0x0.jpg?format=jpg&crop=2698,1518,x0,y0,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-10-30 12:00:00",
+      "content": "The total cost of the rabies vaccines for Chelsis son was over $4,000. Since their family had a ... [+] high-deductible health plan, the majority of this bill was on their shoulders. getty Last yea\u2026 [+3944 chars]",
+      "retrievedAt": "2024-10-31 19:05:23.171608",
+      "internal_id": "fcbe1ef8ddff12d51edf2f8a7f49387a1168f2fe996f6e9f664320f4622bcae6",
+      "publishedAtLabel": "Oct 30"
+    },
+    {
+      "id": 15090,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ET Online",
+      "title": "After mpox, this new deadly African virus puts 95% infected pregnant women at miscarriage risk. Check symptoms",
+      "description": "Lassa fever: A middle-aged Iowa resident who recently returned to US from West Africa is believed to have died from Lassa fever. Lassa fever, mostly found throughout Sub-Saharan Africa, puts 95 percent of pregnant women at risk of miscarriage. According to t\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/after-mpox-this-new-deadly-african-virus-lassa-fever-puts-95-infected-pregnant-women-at-miscarriage-risk-check-symptoms/articleshow/114774535.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-114775182,width-1200,height-630,imgsize-2816429,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2024-10-30 10:19:26",
+      "content": "A Iowa resident who recently travelled to West Africa has died from Lassa fever, health officials have confirmed. Lassa fever is a rarely seen virus in the US that causes one in three cases to suffer\u2026 [+4247 chars]",
+      "retrievedAt": "2024-10-31 19:05:26.079033",
+      "internal_id": "c0c0efca159087db8abbd820eda951a1c583f662ac2d23777d72b469158b533c",
+      "publishedAtLabel": "Oct 30"
+    },
+    {
+      "id": 15060,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Curtas",
+      "description": "Vacina contra dengue O governo federal vai ampliar...",
+      "url": "https://valor.globo.com/brasil/noticia/2024/10/30/ae286a0f-curtas.ghtml",
+      "urlToImage": "https://s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/public/fb_marca.png",
+      "publishedAt": "2024-10-30 08:01:57",
+      "content": "Vacina contra dengueO governo federal vai ampliar o n\u00famero de cidades da lista priorit\u00e1ria do Minist\u00e9rio da Sa\u00fade para receber a vacina de dengue, mas o p\u00fablico-alvo ser\u00e1 mantido na faixa et\u00e1ria de 9\u2026 [+487 chars]",
+      "retrievedAt": "2024-10-31 19:05:24.570486",
+      "internal_id": "9b4776e5cea351214b885671948d83b8def18eb535b0e1f31d871d8db17db90b",
+      "publishedAtLabel": "Oct 30"
+    },
+    {
+      "id": 15055,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Khan.co.kr",
+      "author": "\uc548\uad11\ud638 \uae30\uc790 ahn7874@kyunghyang.com",
+      "title": "\uac00\uae08\ub18d\uc7a5\uc11c \uc62c \uac00\uc744 \uccab \uace0\ubcd1\uc6d0\uc131 AI \ubc1c\uc0dd",
+      "description": "\uc62c \uac00\uc744 \ucc98\uc74c\uc73c\ub85c \uac00\uae08\ub18d\uc7a5\uc5d0\uc11c \uace0\ubcd1\uc6d0\uc131 \uc870\ub958\uc778\ud50c\ub8e8\uc5d4\uc790(AI) \ud655\uc9c4 \uc0ac\ub840\uac00 \ub098\uc654\ub2e4. 30\uc77c \uace0\ubcd1\uc6d0\uc131 AI \uc911\uc559\uc0ac\uace0\uc218\uc2b5\ubcf8\ubd80(\uc911\uc218\ubcf8)\uc5d0 \ub530\ub974\uba74 \uc804\ub0a0 \uc2e0\uace0\ub41c \uac15\uc6d0 \ub3d9\ud574\uc2dc \uc18c\uc7ac \uc0b0\ub780\uacc4 \ub18d\uc7a5\uc5d0\uc11c \uace0\ubcd1\uc6d0\uc131 AI(H5N1\ud615)\uac00 \ucd5c\uc885 \ud655\uc778\ub410\ub2e4. \ud574\ub2f9 \ub18d\uc7a5\uc740 \uc0b0\ub780\uacc4 700\uc5ec \ub9c8\ub9ac\uc640 \uc624\ub9ac 80\uc5ec \ub9c8\ub9ac\ub97c \ud63c\ud569 \uc0ac\uc721\ud558\ub294 \uacf3\uc774\ub2e4. \uc911\uc218\ubcf8\uc740 \uc804\ub0a0 \uc774 \ub18d\uc7a5\uc5d0\uc11c \ud56d\uc6d0\uc744 \ud655\uc778\ud558\uace0, ...",
+      "url": "https://www.khan.co.kr/economy/economy-general/article/202410301658001",
+      "urlToImage": "https://img.khan.co.kr/news/2024/10/30/news-p.v1.20241030.bf28342a41984c1eb4705cb2c4acdbae_P1.jpg",
+      "publishedAt": "2024-10-30 07:58:00",
+      "content": "111 (AI) . 30 AI () AI(H5N1) . 700 80 . , . AI , 523 AI 5 . 2 AI . (Standstill) . , , , . 7 3 . 1328 15 , . , .",
+      "retrievedAt": "2024-10-31 19:05:24.036088",
+      "internal_id": "b784866945ab04b1b200f36b29d009133618098a0bbe4be4159aee05b64788e8",
+      "publishedAtLabel": "Oct 30"
+    },
     {
       "id": 15043,
       "query": [
@@ -26618,258 +27428,6 @@
       "content": "A case of whooping cough resulted in the cancellation of a college football game between South Dakota and Portland State on Saturday, officials said. Whooping cough, caused by the pertussis bacteria\u2026 [+2883 chars]",
       "retrievedAt": "2024-09-17 07:05:42.747855",
       "internal_id": "0c590179def01532f443007af4df0ec4a928bde7a8f6ab4616fcdc112aa11ecb",
-      "publishedAtLabel": "Sep 15"
-    },
-    {
-      "id": 13545,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Economictimes.com",
-      "author": null,
-      "title": "Rx, world can't afford a relapse",
-      "description": "The Covid-19 pandemic has highlighted the need for global cooperation to address future pandemics. A study by AirAffinity reveals that diseases like measles, polio, and tuberculosis are resurging globally due to reduced immunity, disrupted vaccination program\u2026",
-      "url": "https://m.economictimes.com/opinion/et-editorial/rx-world-cant-afford-a-relapse/articleshow/113373311.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-113373377,width-1200,height-630,imgsize-97308,overlay-economictimes/photo.jpg",
-      "publishedAt": "2024-09-15 18:12:48",
-      "content": "The Covid-19 pandemic alerted the world about the need for multilateral and plurilateral networks to tackle the next 'major pandemic'. According to a recent study by disease-forecasting firm AirAffin\u2026 [+1549 chars]",
-      "retrievedAt": "2024-09-16 19:05:41.758735",
-      "internal_id": "5f6bc2a9a6698d3c9aa8bedf7e2527badcf1b969b4fcf50c5aef1d58aaeecc34",
-      "publishedAtLabel": "Sep 15"
-    },
-    {
-      "id": 13546,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Sapo.pt",
-      "author": "Ana Sofia Neto",
-      "title": "Cientistas alertam para o risco da Dengue afetar os destinos de f\u00e9rias da Europa",
-      "description": "Pela primeira vez, os cientistas conseguem mapear com exatid\u00e3o os locais onde a febre da Dengue \u00e9 suscet\u00edvel de surgir, e identificaram os destinos de f\u00e9rias da Europa em risco. A Dengue \u00e9 uma...",
-      "url": "https://pplware.sapo.pt/ciencia/cientistas-alertam-para-o-risco-da-dengue-afetar-os-destinos-de-ferias-mais-populares-da-europa/",
-      "urlToImage": "https://pplware.sapo.pt/wp-content/uploads/2024/09/dengue00.jpg",
-      "publishedAt": "2024-09-15 17:30:13",
-      "content": "Pela primeira vez, os cientistas conseguem mapear com exatid\u00e3o os locais onde a febre da Dengue \u00e9 suscet\u00edvel de surgir, e identificaram os destinos de f\u00e9rias da Europa em risco. A Dengue \u00e9 uma doen\u00e7\u2026 [+2339 chars]",
-      "retrievedAt": "2024-09-16 19:05:42.626441",
-      "internal_id": "14bf1d5124ef18da858533be1cbba4a5fbd69376ab7981ae34bb74ce060120eb",
-      "publishedAtLabel": "Sep 15"
-    },
-    {
-      "id": 13547,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "taz.de",
-      "author": "Claudius Pr\u00f6\u00dfer",
-      "title": "Tigerm\u00fccken n Berlin: Gekommen, um zu stechen",
-      "description": "Tigerm\u00fccken sind aus Berlin nicht mehr wegzudenken. \u00dcbertragen k\u00f6nnen sie gef\u00e4hrliche Viruskrankheiten wie das Denguefieber.",
-      "url": "https://taz.de/Tigermuecken-n-Berlin/!6034020/",
-      "urlToImage": "https://taz.de/picture/7244421/948/36487673-1.jpeg",
-      "publishedAt": "2024-09-15 16:00:00",
-      "content": "Tigerm\u00fccken sind aus Berlin nicht mehr wegzudenken. \u00dcbertragen k\u00f6nnen sie gef\u00e4hrliche Viruskrankheiten wie das Denguefieber. M\u00fccke tigert herum Foto: websubstance Berlintaz | Kennen Sie die sichers\u2026 [+6265 chars]",
-      "retrievedAt": "2024-09-16 19:05:42.722382",
-      "internal_id": "416f29ec17926970a338f8f4d2a389932e1f8ccc59f3b29e75bdce3bdaff67c6",
-      "publishedAtLabel": "Sep 15"
-    },
-    {
-      "id": 13548,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "taz.de",
-      "author": "Claudius Pr\u00f6\u00dfer",
-      "title": "Tigerm\u00fccken in Berlin: Gekommen, um zu stechen",
-      "description": "Tigerm\u00fccken sind aus Berlin nicht mehr wegzudenken. \u00dcbertragen k\u00f6nnen sie gef\u00e4hrliche Viruskrankheiten wie das Denguefieber.",
-      "url": "https://taz.de/Tigermuecken-in-Berlin/!6034020/",
-      "urlToImage": "https://taz.de/picture/7244421/948/36487673-1.jpeg",
-      "publishedAt": "2024-09-15 16:00:00",
-      "content": "Tigerm\u00fccken sind aus Berlin nicht mehr wegzudenken. \u00dcbertragen k\u00f6nnen sie gef\u00e4hrliche Viruskrankheiten wie das Denguefieber. M\u00fccke tigert herum Foto: websubstance Berlintaz | Kennen Sie die sichers\u2026 [+6265 chars]",
-      "retrievedAt": "2024-09-16 19:05:42.738251",
-      "internal_id": "ed941d0c6a467d7e3360de7e87dd1a255479cc8ac0452107c226f186ab513e00",
-      "publishedAtLabel": "Sep 15"
-    },
-    {
-      "id": 13626,
-      "query": [
-        "mpox"
-      ],
-      "source_id": "globo",
-      "source_name": "Globo",
-      "author": null,
-      "title": "Mundo ultrapassa 100 mil casos de Mpox desde 2022, diz OMS",
-      "description": "O Brasil \u00e9 o segundo pa\u00eds com mais casos O mundo r...",
-      "url": "https://valor.globo.com/mundo/noticia/2024/09/15/mundo-ultrapassa-100-mil-casos-de-mpox-desde-2022-diz-oms.ghtml",
-      "urlToImage": "https://s2-valor.glbimg.com/WKqjIOjheOXSIhOFLi-ti2Klj8g=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2024/X/p/ZkBQWfRs6l2Uxr25qJGA/ap24232649230110.jpg",
-      "publishedAt": "2024-09-15 15:59:34",
-      "content": "O mundo registrou 103.048 casos confirmados em laborat\u00f3rio de Mpox entre 1\u00ba de janeiro de 2022 e 31 de julho de 2024, afirmou a Organiza\u00e7\u00e3o Mundial de Sa\u00fade (OMS) em relat\u00f3rio divulgado esta semana. \u2026 [+2364 chars]",
-      "retrievedAt": "2024-09-18 07:06:19.455197",
-      "internal_id": "85a1de384938c8d021d8bfeeff85064aea7ebeb02a3949f62e3d383ec37456b9",
-      "publishedAtLabel": "Sep 15"
-    },
-    {
-      "id": 13553,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Haber7.com",
-      "author": "Ramazan Y\u0131ld\u0131z",
-      "title": "D\u00fcnya Sa\u011fl\u0131k \u00d6rg\u00fct\u00fc, M \u00e7i\u00e7e\u011fi vir\u00fcs\u00fcne kar\u015f\u0131 ilk a\u015f\u0131ya onay verdi",
-      "description": "D\u00fcnya Sa\u011fl\u0131k \u00d6rg\u00fct\u00fc (DS\u00d6), M \u00e7i\u00e7e\u011fi (mpox) vir\u00fcs\u00fcne kar\u015f\u0131 \u00f6n yeterlilik alan ilk a\u015f\u0131n\u0131n \"MVA-BN\" oldu\u011funu duyurdu.",
-      "url": "https://www.haber7.com/dunya/haber/3460286-dunya-saglik-orgutu-m-cicegi-virusune-karsi-ilk-asiya-onay-verdi",
-      "urlToImage": "https://i12.haber7.net//haber/haber7/og_image/2024/37/dunya_saglik_orgutu_m_cicegi_virusune_karsi_ilk_asiya_onay_verdi_1726408323_0026.jpg",
-      "publishedAt": "2024-09-15 13:53:00",
-      "content": "DS\u00d6'den yaplan yazl a\u00e7klamada, Bavarian Nordic'in \u00fcrettii \"MVA-BN asnn, DS\u00d6'n\u00fcn M \u00e7i\u00e7ei vir\u00fcs\u00fcne kar \u00f6n yeterlilik alan a listesine eklendii bildirildi. A\u00e7klamada, \u00f6n yeterlilik onaynn, acil ihtiya\u00e7\u2026 [+1949 chars]",
-      "retrievedAt": "2024-09-16 19:05:44.611538",
-      "internal_id": "36a4bd694a342e35567383e4c1a8402ce0d5bfb62da20d50d8b519a45a9b613e",
-      "publishedAtLabel": "Sep 15"
-    },
-    {
-      "id": 13543,
-      "query": [
-        "measles"
-      ],
-      "source_id": "cbs-news",
-      "source_name": "CBS News",
-      "author": "Jon LaPook",
-      "title": "Experts warn against vaccine skepticism",
-      "description": "Thanks to vaccinations, measles was declared eliminated in the U.S. in 2000. But measles cases are now back; one reason is that more families have exempted their children from routine immunizations than ever before.",
-      "url": "https://www.cbsnews.com/news/experts-warn-against-vaccine-skepticism/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/09/14/ce06c485-25e8-4639-87bf-582a439d061c/thumbnail/1200x630/96ae12ce63809b26812918a2f6079774/vaccine-needle-1280.jpg?v=d2d77bee90bcafa285fd6d60bd8b3612",
-      "publishedAt": "2024-09-15 13:12:00",
-      "content": "Thanks to all those shots in the arm, in the year 2000, measles in the United States was declared eliminated. But now, it's coming back, with measles cases reported from California to Vermont. CBS N\u2026 [+7708 chars]",
-      "retrievedAt": "2024-09-16 19:05:41.726065",
-      "internal_id": "db237af99532ae7b23b119c4a447ec498a7be9a4ca5390b5d33f07a2018fa7f3",
-      "publishedAtLabel": "Sep 15"
-    },
-    {
-      "id": 13544,
-      "query": [
-        "measles"
-      ],
-      "source_id": "cbs-news",
-      "source_name": "CBS News",
-      "author": "CBS News",
-      "title": "As measles cases increase, experts warn against vaccine skepticism",
-      "description": "Thanks to vaccinations, measles was declared eliminated in the United States in 2000. But measles cases are now back, and one big reason is that, across the country, more families have exempted their children from routine immunizations than ever before. CBS N\u2026",
-      "url": "https://www.cbsnews.com/video/as-measles-cases-increase-experts-warn-against-vaccine-skepticism/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/09/15/bbb743a9-26cd-4991-a726-7eaeb740320a/thumbnail/1200x630/e3a124ffc3052df7e939b8e8c86105af/measles-cases-reported-1920.jpg?v=d2d77bee90bcafa285fd6d60bd8b3612",
-      "publishedAt": "2024-09-15 13:11:00",
-      "content": "Watch CBS News Copyright \u00a92024 CBS Interactive Inc. All rights reserved. Get browser notifications for breaking news, live events, and exclusive reporting. Not NowTurn On",
-      "retrievedAt": "2024-09-16 19:05:41.747708",
-      "internal_id": "72bbced3cb01dab3205ee99a2882ee8f4b4244c11e8085ad42e0179a2c18dc5f",
-      "publishedAtLabel": "Sep 15"
-    },
-    {
-      "id": 13623,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Globalresearch.ca",
-      "author": "Dr. Suzanne Burdick",
-      "title": "WHO Approves First Mpox Vaccine for Adults in Africa \u2014 Then Says Babies Can Get It, Too, Despite No Clinical Trials",
-      "description": "The World Health Organization (WHO) today approved the first mpox vaccine for use in adults \u2014 and also said it can be used for babies, children, teens and pregnant women if they are in \u201coutbreak settings where the benefits of \u2026 The post WHO Approves First Mpo\u2026",
-      "url": "https://www.globalresearch.ca/who-approves-first-mpox-vaccine-adults-africa/5867875",
-      "urlToImage": "https://www.globalresearch.ca/wp-content/uploads/2024/09/monkeypox-vaccines.jpeg",
-      "publishedAt": "2024-09-15 13:09:02",
-      "content": "The World Health Organization (WHO) today approved the first mpox vaccine for use in adults and also said it can be used for babies, children, teens and pregnant women if they are in outbreak setting\u2026 [+6348 chars]",
-      "retrievedAt": "2024-09-18 07:06:19.438860",
-      "internal_id": "3842b95a42892ecde82c50dded645fe364d74015496274b2b380ab6da3281be1",
-      "publishedAtLabel": "Sep 15"
-    },
-    {
-      "id": 13627,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "YouTube",
-      "author": null,
-      "title": "How Mpox spread across the world: Global Health crises | Mpox virus explained in detailed",
-      "description": "How Mpox spread across the world: Global Health crises | Mpox virus explained in detailedyoutube.com",
-      "url": "https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D8oIZ49jSKaI",
-      "urlToImage": null,
-      "publishedAt": "2024-09-15 12:33:01",
-      "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more Remind me later",
-      "retrievedAt": "2024-09-18 07:06:19.460957",
-      "internal_id": "847c535a432aaacd2d03e3676ab61b2f75bdd5586023b0f837b9afe89baab51b",
-      "publishedAtLabel": "Sep 15"
-    },
-    {
-      "id": 13549,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "ansa",
-      "source_name": "ANSA.it",
-      "author": null,
-      "title": "Comune Fano, 'conclusa con successo prima fase disinfestazione'",
-      "description": "Conclusa \"con successo\" la prima fase delle operazioni di disinfestazione contro la zanzara tigre nel territorio comunale di Fano. Lo fa sapere il Comune a seguito degli 11 casi di virus Dengue che si sono registrati. (ANSA)",
-      "url": "https://www.ansa.it/marche/notizie/2024/09/15/comune-fano-conclusa-con-successo-prima-fase-disinfestazione_9723cd96-5fe6-410c-987d-5e8bf5e74676.html",
-      "urlToImage": "https://www.ansa.it/webimages/img_700/2024/9/15/ebf707455502da290ab2fb99f56fff66.jpg",
-      "publishedAt": "2024-09-15 12:14:00",
-      "content": "Conclusa \"con successo\" la prima fase delle operazioni di disinfestazione contro la zanzara tigre nel territorio comunale di Fano. Lo fa sapere il Comune a seguito degli 11 casi di virus Dengue ch\u2026 [+1559 chars]",
-      "retrievedAt": "2024-09-16 19:05:42.785148",
-      "internal_id": "ad397f1441c3847b67a0f47c7f146e329e9fe8166775033b2329a938241f437c",
-      "publishedAtLabel": "Sep 15"
-    },
-    {
-      "id": 13550,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Thecooldown.com",
-      "author": "Jeremiah Budin",
-      "title": "Pennsylvania health officials issue warning after 'breakbone fever' spreads across state lines: 'Get to the doctor right away'",
-      "description": "According to public health officials, New Jersey has had 56 cases of dengue fever this summer, Pennsylvania has had 31, and Delaware has had six.",
-      "url": "https://www.thecooldown.com/green-tech/dengue-fever-cases-new-jersey-pennsylvania-delaware/",
-      "urlToImage": "https://www.thecooldown.com/wp-content/uploads/2024/09/image-191.jpg",
-      "publishedAt": "2024-09-15 11:23:32",
-      "content": "Dengue fever has made its way into the United States, as travelers have brought the mosquito-borne disease home with them, WHYY reported. According to public health officials, New Jersey has had 56 \u2026 [+2392 chars]",
-      "retrievedAt": "2024-09-16 19:05:42.809301",
-      "internal_id": "1ef5c8406def70b2b3bd3c413596153a46c832f9547bb9243b06148bfec7e911",
-      "publishedAtLabel": "Sep 15"
-    },
-    {
-      "id": 13552,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Tass.ru",
-      "author": null,
-      "title": "\u0412 \u0410\u0444\u0440\u0438\u043a\u0435 \u0441 \u043d\u0430\u0447\u0430\u043b\u0430 \u0433\u043e\u0434\u0430 \u0432\u044b\u044f\u0432\u0438\u043b\u0438 \u0431\u043e\u043b\u0435\u0435 25 \u0442\u044b\u0441. \u0441\u043b\u0443\u0447\u0430\u0435\u0432 \u0441 \u043f\u043e\u0434\u043e\u0437\u0440\u0435\u043d\u0438\u0435\u043c \u043d\u0430 mpox",
-      "description": "\u0417\u0430\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u043e \u0431\u043e\u043b\u0435\u0435 720 \u043b\u0435\u0442\u0430\u043b\u044c\u043d\u044b\u0445 \u0438\u0441\u0445\u043e\u0434\u043e\u0432, \u043f\u0440\u0438\u0447\u0438\u043d\u043e\u0439 \u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u043c\u043e\u0433\u043b\u0430 \u0431\u044b\u0442\u044c \u044d\u0442\u0430 \u0431\u043e\u043b\u0435\u0437\u043d\u044c, \u0441\u043e\u043e\u0431\u0449\u0438\u043b\u0438 \u0432 \u0412\u041e\u0417",
-      "url": "https://tass.ru/obschestvo/21868517",
-      "urlToImage": "https://cdn-storage-media.tass.ru/thumb/ru/obschestvo/21868517?u=2024-09-15T08:20:40.921088",
-      "publishedAt": "2024-09-15 08:20:40",
-      "content": ", 15 . //. 25 . mpox ( ) 720 , , 1 8 2024 . (). , 25 093 mpox, 723 . () - 21 835 717 . , 8 5 789 , 32 . , , . , mpox . , . . 1 2022 31 2024 121 103 048 , 229 . 31 2022 (33 556). (11 841), (8 10\u2026 [+125 chars]",
-      "retrievedAt": "2024-09-16 19:05:44.548043",
-      "internal_id": "e84db60b081059cd2a7cbdc6b637b1c6e95781b69152e5ae0062972bc705c98c",
-      "publishedAtLabel": "Sep 15"
-    },
-    {
-      "id": 13551,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Khabarhub.com",
-      "author": "Khabarhub",
-      "title": "Dengue infection hits 9,500 nationwide, claims 6 lives",
-      "description": "KATHMANDU: Dengue fever has affected 9,486 people across the country from January to September 13, according to the Epidemiology and Disease Control Division (EDCD). In this period, the disease has resulted in six fatalities. Notably, in just the first 13 day\u2026",
-      "url": "https://english.khabarhub.com/2024/15/397656/",
-      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2022/09/Dengue-1.webp",
-      "publishedAt": "2024-09-15 07:35:17",
-      "content": "KATHMANDU: Dengue fever has affected 9,486 people across the country from January to September 13, according to the Epidemiology and Disease Control Division (EDCD). In this period, the disease has \u2026 [+421 chars]",
-      "retrievedAt": "2024-09-16 19:05:42.824101",
-      "internal_id": "3f11e565bc0ddd8fe3745c9da672f23cefcaa3a92272004fa1a4fe458eda93ab",
       "publishedAtLabel": "Sep 15"
     }
   ]

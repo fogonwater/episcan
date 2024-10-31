@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 8
-- **Last harvest:** 2024-10-31 07:06
-- **Most recent article:** 2024-10-30 03:46:27
+- **New articles in last harvest:** 45
+- **Last harvest:** 2024-10-31 19:05
+- **Most recent article:** 2024-10-30 19:05:03
 
 ---
 
@@ -12,13 +12,13 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-38 | 24-39 | 24-40 | 24-41 | 24-42 | 24-43 | 24-44 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 137 | 122 | 128 | 42 | 81 | 131 | 8 | 649 |
-| dengue | 73 | 49 | 51 | 35 | 50 | 53 | 10 | 321 |
-| h5n1 | 17 | 35 | 50 | 10 | 18 | 12 | 10 | 152 |
-| malaria | 15 | 24 | 10 | 13 | 18 | 58 | 10 | 148 |
-| rabies | 12 | 25 | 30 | 6 | 7 | 3 | 4 | 87 |
-| meningitis | 10 | 6 | 11 | 2 | 1 | 6 | 2 | 38 |
-| measles | 8 | 4 | 6 | 5 | 3 | 1 | 5 | 32 |
+| mpox | 132 | 122 | 128 | 42 | 81 | 131 | 40 | 676 |
+| dengue | 67 | 49 | 51 | 35 | 50 | 53 | 12 | 317 |
+| h5n1 | 17 | 35 | 50 | 10 | 18 | 12 | 17 | 159 |
+| malaria | 15 | 24 | 10 | 13 | 18 | 58 | 11 | 149 |
+| rabies | 12 | 25 | 30 | 6 | 7 | 3 | 5 | 88 |
+| meningitis | 10 | 6 | 11 | 2 | 1 | 6 | 3 | 39 |
+| measles | 5 | 4 | 6 | 5 | 3 | 1 | 6 | 30 |
 | chikungunya | 9 | 3 | 3 | 3 | 4 | 7 | 1 | 30 |
 | zika | 8 | 1 | 3 | 4 | 6 | 6 | 1 | 29 |
 | pertussis | 3 | 3 | 2 | 2 | 9 | 3 | 1 | 23 |
@@ -51,6 +51,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-44 (rabies)
 
+- [Trick Or Treatment? A Bat Bite And The Frightening Reality Of Healthcare Bills](https://www.forbes.com/sites/reneehsia/2024/10/30/trick-or-treatment-a-bat-bite-and-the-frightening-reality-of-healthcare-bills/) (Forbes)
+
 - [City records first case of rabies in golden jackals](https://timesofindia.indiatimes.com/city/mumbai/rabies-outbreak-first-case-in-golden-jackals-identified-in-mumbai/articleshow/114743647.cms) (The Times of India)
 
 - [Cast Of 'The View' All Getting Rabies Shots After Being Bitten By Whoopi Goldberg](https://babylonbee.com/news/cast-of-the-view-all-getting-rabies-shots-after-being-bitten-by-whoopi-goldberg) (Babylonbee.com)
@@ -64,6 +66,70 @@ Source: [News API](https://newsapi.org/)
 - ['Looked Like a Cold': Mom Who Lost Baby to Whooping Cough Has Plea for US](https://www.newsweek.com/looked-like-cold-mom-lost-baby-whooping-cough-plea-1976115) (Newsweek)
 
 ## 24-44 (mpox)
+
+- [Eerste besmetting met nieuwe mpox-variant vastgesteld in Groot-Brittannië](https://www.standaard.be/cnt/dmf20241030_96903780) (Standaard.be)
+
+- [Eerste besmetting met nieuwe mpox-variant vastgesteld in Verenigd Koninkrijk](https://www.vrt.be/vrtnws/nl/2024/10/30/mpox-verenigd-koninkrijk/) (Www.vrt.be)
+
+- [Maymun çiçeğinde yeni varyant!](https://www.haberturk.com/maymun-cicegi-varyanti-klad-1b-nedir-maymun-cicegi-turkiye-de-goruldu-mu-belirtileri-ne-nasil-bulasir-oldurucu-mu-3733462) (Haberturk.com)
+
+- [Mpox: un cas importé du nouveau variant identifié pour la première fois au Royaume-Uni](https://www.bfmtv.com/international/europe/angleterre/mpox-un-cas-importe-du-nouveau-variant-identifie-pour-la-premiere-fois-au-royaume-uni_AD-202410300817.html) (BFMTV)
+
+- [İngiltere'de M çiçeği endişesi! Yeni varyant tespit edildi](https://www.patronlardunyasi.com/ingilterede-m-cicegi-endisesi-yeni-varyant-tespit-edildi) (Patronlardunyasi.com)
+
+- [İngiltere'de virüs alarmı! Yeni varyant ilk kez tespit edildi, halk panik içinde](https://www.turkiyegazetesi.com.tr/dunya/ingilterede-virus-alarmi-yeni-varyant-ilk-kez-tespit-edildi-halk-panik-icinde-1071501) (Turkiyegazetesi.com.tr)
+
+- [İngiltere'de M çiçeğinin yeni varyantı "klad 1b" ilk kez tespit edildi](https://www.aa.com.tr/tr/saglik/ingilterede-m-ciceginin-yeni-varyanti-klad-1b-ilk-kez-tespit-edildi/3379758) (Anadolu Agency)
+
+- [Mpox : premier cas du variant clade 1b au Royaume-Uni](https://www.lemonde.fr/sante/article/2024/10/30/mpox-premier-cas-du-variant-clade-1b-au-royaume-uni_6367615_1651302.html) (Le Monde)
+
+- [Virus Mpox : Le variant détecté pour la première fois au Royaume-Uni](https://www.20minutes.fr/monde/royaume-uni/4118834-20241030-virus-mpox-variant-detecte-premiere-fois-royaume-uni) (20 Minutes)
+
+- [First case of latest mpox variant detected in UK: health authority](https://www.digitaljournal.com/world/first-case-of-latest-mpox-variant-detected-in-uk-health-authority/article) (Digital Journal)
+
+- [Britain identifies its first case of new mpox variant](https://www.channelnewsasia.com/world/britain-identifies-its-first-case-new-mpox-variant-4713301) (CNA)
+
+- [Första brittiska fallet av mpox bekräftat](https://www.svd.se/a/kwdg8L/forsta-brittiska-fallet-av-mpox-bekraftat) (Svenska Dagbladet)
+
+- [Första brittiska fallet av mpox bekräftat](https://www.aftonbladet.se/nyheter/a/73BzVo/forsta-brittiska-fallet-av-mpox-bekraftat) (Aftonbladet.se)
+
+- [Nueva cepa de mpox llega a Reino Unido; confirman primer caso más contagioso](https://www.milenio.com/internacional/viruela-mono-reino-unido-confirma-caso-cepa-mpox) (Milenio)
+
+- [В Британии выявлен первый случай смертельного варианта вируса оспы обезьян](https://rg.ru/2024/10/30/v-britanii-vyiavlen-pervyj-sluchaj-smertelnogo-varianta-virusa-ospy-obezian.html) (Rg.ru)
+
+- [Britain identifies its first case of new mpox variant](https://www.voanews.com/a/britain-identifies-its-first-case-of-new-mpox-variant/7844927.html) (VOA News)
+
+- [Første tilfælde af ny mpox-variant i Storbritannien](https://www.dr.dk/nyheder/seneste/foerste-tilfaelde-af-ny-mpox-variant-i-storbritannien) (Www.dr.dk)
+
+- [Mpox : premier cas du nouveau variant découvert au Royaume-Uni](https://www.sudinfo.be/id906927/article/2024-10-30/mpox-premier-cas-du-nouveau-variant-decouvert-au-royaume-uni) (Sudinfo.be)
+
+- [First case of latest mpox variant detected in UK: health authority](https://insiderpaper.com/first-case-of-latest-mpox-variant-detected-in-uk-health-authority/) (Insiderpaper.com)
+
+- [Nya mpox-varianten konstaterat i Storbritannien](https://www.expressen.se/nyheter/varlden/nya-mpox-varianten-konstaterat-i-storbritannien/) (Expressen.se)
+
+- [Primul caz de mpox Clade 1b detectat în Regatul Unit](https://www.mediafax.ro/externe/primul-caz-de-mpox-clade-1b-detectat-in-regatul-unit-22530419) (Mediafax.ro)
+
+- [Βρετανία: Εντοπίστηκε το πρώτο κούσμα της νέας παραλλαγής του ιού mpox](https://www.skai.gr/news/world/entopistike-sti-vretania-to-proto-kousma-tis-neas-parallagis-tou-iou-mpox) (Skai.gr)
+
+- [How is new strain of mpox found in UK different to what we've had before?](https://news.sky.com/story/how-is-new-strain-of-mpox-found-in-uk-different-to-what-weve-had-before-13244801) (Sky.com)
+
+- [UK reports first case of new mpox variant](https://www.politico.eu/article/uk-reports-first-case-new-mpox-variant-ukhsa-monkeypox-democratic-republic-of-the-congo-disease-virus/) (POLITICO.eu)
+
+- [Mpox: Clade 1B detected in London - symptoms](https://www.gbnews.com/health/mpox-symptoms-clade-1b) (Gbnews.com)
+
+- [UK detects first case of new mpox variant](https://www.euractiv.com/section/health-consumers/news/uk-detects-first-case-new-mpox-variant/) (EURACTIV)
+
+- [Första fallet av nya mpox i England](https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1301473) (Aftonbladet.se)
+
+- [First case of more spreadable mpox detected in UK](https://www.bbc.com/news/articles/ce3yn7pzrndo) (BBC News)
+
+- [First Clade 1b mpox detected in UK](https://www.bbc.co.uk/news/articles/ce3yn7pzrndo) (BBC News)
+
+- [News story: UKHSA detects first case of Clade Ib mpox](https://www.gov.uk/government/news/ukhsa-detects-first-case-of-clade-ib-mpox) (Www.gov.uk)
+
+- [UK confirms first case of new mpox strain](https://news.sky.com/story/mpox-first-case-of-clade-1b-strain-detected-in-london-13244771) (Sky.com)
+
+- [After mpox, this new deadly African virus puts 95% infected pregnant women at miscarriage risk. Check symptoms](https://economictimes.indiatimes.com/news/international/global-trends/after-mpox-this-new-deadly-african-virus-lassa-fever-puts-95-infected-pregnant-women-at-miscarriage-risk-check-symptoms/articleshow/114774535.cms) (The Times of India)
 
 - [Cidade de São Paulo registra 533 casos de mpox confirmados em 2024](https://www.metropoles.com/sao-paulo/cidade-de-sao-paulo-registra-533-casos-de-mpox-confirmados-em-2024) (Metropoles.com)
 
@@ -83,11 +149,15 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-44 (meningitis)
 
+- [Patras: 16-year-old student in critical but stable condition with meningitis](https://en.protothema.gr/2024/10/30/patras-16-year-old-student-in-critical-but-stable-condition-with-meningitis/) (Protothema.gr)
+
 - [Whole blood transcriptional profiles and the pathogenesis of tuberculous meningitis](https://elifesciences.org/articles/92344) (Elifesciences.org)
 
 - [Mixed Leptospira infections in domestic animals from a rural community with high leptospirosis endemicity](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0312556) (Plos.org)
 
 ## 24-44 (measles)
+
+- [Trump Promises to Make Measles Great Again By Giving RFK Jr. ‘Control’ of Public Health Agencies](https://www.mediaite.com/opinion/trump-promises-to-make-measles-great-again-by-giving-rfk-jr-control-of-public-health-agencies/) (Mediaite)
 
 - [Possible measles exposure at Vancouver airport prompts warning](https://www.cbc.ca/news/canada/british-columbia/measles-vancouver-toronto-fredericton-airport-1.7366852) (CBC News)
 
@@ -100,6 +170,8 @@ Source: [News API](https://newsapi.org/)
 - [Film Based on OREGON TRAIL in Development at Apple](https://nerdist.com/article/oregon-trail-movie-apple-original-film/) (Nerdist)
 
 ## 24-44 (malaria)
+
+- [Polarization toward Tfh2 cell involved in development of MBC and antibody responses against Plasmodium vivax infection](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012625) (Plos.org)
 
 - [Noninvasive malaria test could be global game changer](https://medicine.yale.edu/news-article/noninvasive-malaria-test-could-be-global-game-changer/) (Yale.edu)
 
@@ -131,6 +203,20 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-44 (h5n1)
 
+- [H5N1 bird flu identified in pig for first time in United States | CNN](https://www.cnn.com/2024/10/30/health/bird-flu-pig-oregon/index.html) (CNN)
+
+- [EU detecta por primera vez gripe aviar H5N1 en cerdos](https://forbes.com.mx/eu-detecta-por-primera-vez-gripe-aviar-h5n1-en-cerdos/) (Forbes.com.mx)
+
+- [First US Case of Bird Flu Detected in Pigs: What We Know](https://www.newsweek.com/first-us-case-bird-flu-detected-pigs-what-we-know-1977518) (Newsweek)
+
+- [Furcsa dolog történt, aggódnak a szakértők a madárinfluenza miatt](https://www.portfolio.hu/gazdasag/20241030/furcsa-dolog-tortent-aggodnak-a-szakertok-a-madarinfluenza-miatt-720051) (Portfolio.hu)
+
+- [US detects H5N1 bird flu in swine for the first time](https://www.thestar.com.my/news/world/2024/10/31/us-detects-h5n1-bird-flu-in-swine-for-the-first-time) (The Star Online)
+
+- [A Bird Flu Vaccine Might Come Too Late to Save Us from H5N1](https://www.scientificamerican.com/article/a-bird-flu-vaccine-might-come-too-late-to-save-us-from-h5n1/) (Scientific American)
+
+- [가금농장서 올 가을 첫 고병원성 AI 발생](https://www.khan.co.kr/economy/economy-general/article/202410301658001) (Khan.co.kr)
+
 - [Обнаружен уничтоживший сам себя опасный вирус птичьего гриппа](https://lenta.ru/news/2024/10/30/obnaruzhen-unichtozhivshiy-sam-sebya-opasnyy-virus-ptichiego-grippa/) (Lenta)
 
 - [H5N1 virus isolated from infected dairy worker is 100% lethal in ferrets](https://news.wisc.edu/h5n1-virus-isolated-from-infected-dairy-worker-is-100-lethal-in-ferrets-but-does-not-appear-to-be-circulating-in-nature-anymore/) (Wisc.edu)
@@ -152,6 +238,10 @@ Source: [News API](https://newsapi.org/)
 - [Exclusive: Emails Reveal How Health Departments Struggle To Track Human Cases of Bird Flu](https://www.nakedcapitalism.com/2024/10/exclusive-emails-reveal-how-health-departments-struggle-to-track-human-cases-of-bird-flu.html) (Nakedcapitalism.com)
 
 ## 24-44 (dengue)
+
+- [Anmat. Aprueban un test nacional para detectar el virus del dengue: cómo funciona y qué ventajas tiene](https://www.lanacion.com.ar/sociedad/anmat-aprueban-un-test-nacional-para-detectar-el-virus-del-dengue-como-funciona-y-que-ventajas-tiene-nid30102024/) (La Nacion)
+
+- [Curtas](https://valor.globo.com/brasil/noticia/2024/10/30/ae286a0f-curtas.ghtml) (Globo)
 
 - [Le réchauffement climatique entraîne des menaces de plus en plus pressantes sur la santé humaine](https://www.lemonde.fr/planete/article/2024/10/30/le-rechauffement-climatique-entraine-des-menaces-de-plus-en-plus-pressantes-sur-la-sante-humaine_6366130_3244.html) (Le Monde)
 
@@ -3045,16 +3135,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Mpox: mundo ultrapassa marca de 100 mil casos, diz OMS](https://brasil.perfil.com/saude/mpox-mundo-ultrapassa-marca-de-100-mil-casos-diz-oms.phtml) (Perfil.com)
 
-- [Mundo ultrapassa 100 mil casos de Mpox desde 2022, diz OMS](https://valor.globo.com/mundo/noticia/2024/09/15/mundo-ultrapassa-100-mil-casos-de-mpox-desde-2022-diz-oms.ghtml) (Globo)
-
-- [Dünya Sağlık Örgütü, M çiçeği virüsüne karşı ilk aşıya onay verdi](https://www.haber7.com/dunya/haber/3460286-dunya-saglik-orgutu-m-cicegi-virusune-karsi-ilk-asiya-onay-verdi) (Haber7.com)
-
-- [WHO Approves First Mpox Vaccine for Adults in Africa — Then Says Babies Can Get It, Too, Despite No Clinical Trials](https://www.globalresearch.ca/who-approves-first-mpox-vaccine-adults-africa/5867875) (Globalresearch.ca)
-
-- [How Mpox spread across the world: Global Health crises | Mpox virus explained in detailed](https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D8oIZ49jSKaI) (YouTube)
-
-- [В Африке с начала года выявили более 25 тыс. случаев с подозрением на mpox](https://tass.ru/obschestvo/21868517) (Tass.ru)
-
 ## 24-38 (meningitis)
 
 - [meningitis pediatric health nursing kmu BSN 5th semester](https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DeQU9Gvyhec0) (YouTube)
@@ -3088,12 +3168,6 @@ Source: [News API](https://newsapi.org/)
 - [Children receiving 'life-saving' vaccines at lowest level for more than a decade](https://news.sky.com/story/children-receiving-life-saving-vaccines-at-lowest-level-for-more-than-a-decade-13216708) (Sky.com)
 
 - [Multifaceted activation of STING axis upon Nipah and measles virus-induced syncytia formation](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012569) (Plos.org)
-
-- [Rx, world can't afford a relapse](https://m.economictimes.com/opinion/et-editorial/rx-world-cant-afford-a-relapse/articleshow/113373311.cms) (Economictimes.com)
-
-- [Experts warn against vaccine skepticism](https://www.cbsnews.com/news/experts-warn-against-vaccine-skepticism/) (CBS News)
-
-- [As measles cases increase, experts warn against vaccine skepticism](https://www.cbsnews.com/video/as-measles-cases-increase-experts-warn-against-vaccine-skepticism/) (CBS News)
 
 ## 24-38 (malaria)
 
@@ -3302,18 +3376,6 @@ Source: [News API](https://newsapi.org/)
 - [दिल्लीवालो सावधान! फिर डराने लगा डेंगू, 24 घंटे में दो मरीजों की मौत](https://navbharattimes.indiatimes.com/metro/delhi/other-news/delhi-dengue-cases-increased-two-people-died/articleshow/113383493.cms) (The Times of India)
 
 - [Rahul Vaidya shares health update about his and wife Disha Parmar's recovery from dengue; says, ‘We had the worst 7 days of our lives'](https://timesofindia.indiatimes.com/tv/news/hindi/rahul-vaidya-shares-health-update-about-his-and-wife-disha-parmars-recovery-from-dengue-says-we-had-the-worst-7-days-of-our-lives/articleshow/113382111.cms) (The Times of India)
-
-- [Cientistas alertam para o risco da Dengue afetar os destinos de férias da Europa](https://pplware.sapo.pt/ciencia/cientistas-alertam-para-o-risco-da-dengue-afetar-os-destinos-de-ferias-mais-populares-da-europa/) (Sapo.pt)
-
-- [Tigermücken n Berlin: Gekommen, um zu stechen](https://taz.de/Tigermuecken-n-Berlin/!6034020/) (taz.de)
-
-- [Tigermücken in Berlin: Gekommen, um zu stechen](https://taz.de/Tigermuecken-in-Berlin/!6034020/) (taz.de)
-
-- [Comune Fano, 'conclusa con successo prima fase disinfestazione'](https://www.ansa.it/marche/notizie/2024/09/15/comune-fano-conclusa-con-successo-prima-fase-disinfestazione_9723cd96-5fe6-410c-987d-5e8bf5e74676.html) (ANSA.it)
-
-- [Pennsylvania health officials issue warning after 'breakbone fever' spreads across state lines: 'Get to the doctor right away'](https://www.thecooldown.com/green-tech/dengue-fever-cases-new-jersey-pennsylvania-delaware/) (Thecooldown.com)
-
-- [Dengue infection hits 9,500 nationwide, claims 6 lives](https://english.khabarhub.com/2024/15/397656/) (Khabarhub.com)
 
 ## 24-38 (chikungunya)
 
