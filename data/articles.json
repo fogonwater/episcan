@@ -1,8 +1,675 @@
 {
-  "last_updated": "2024-11-01 07:06",
-  "count_articles_total": 1567,
-  "count_articles_new": 33,
+  "last_updated": "2024-11-01 19:05",
+  "count_articles_total": 1590,
+  "count_articles_new": 37,
   "articles": [
+    {
+      "id": 15132,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Helport AI, Inc.",
+      "title": "Helport AI Launches on Google Cloud Marketplace, Redefining Intelligent Solutions for Global Businesses",
+      "description": "SINGAPORE and SAN DIEGO, Oct. 31, 2024 (GLOBE NEWSWIRE) -- Helport AI Limited (NASDAQ: HPAI) (\u201cHelport\u201d or the \u201cCompany\u201d), a global leader in AI-powered business transformation solutions, today announced the launch of Helport AI Assist on Google Cloud Marketp\u2026",
+      "url": "https://www.globenewswire.com/news-release/2024/10/31/2972931/0/en/Helport-AI-Launches-on-Google-Cloud-Marketplace-Redefining-Intelligent-Solutions-for-Global-Businesses.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/4165bcbe-7c28-4ab2-a6fa-6df96179cf81",
+      "publishedAt": "2024-10-31 17:32:00",
+      "content": "SINGAPORE and SAN DIEGO, Oct. 31, 2024 (GLOBE NEWSWIRE) -- Helport AI Limited (NASDAQ: HPAI) (Helport or the Company), a global leader in AI-powered business transformation solutions, today announced\u2026 [+5634 chars]",
+      "retrievedAt": "2024-11-01 19:05:41.645040",
+      "internal_id": "822fcd73cf9788f93f0d9db51dfa659d77f598831272126b594adef2245b9404",
+      "publishedAtLabel": "Oct 31"
+    },
+    {
+      "id": 15161,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "\u00c1frica registra m\u00e1s de 48.000 casos y 1.048 muertes por mpox en 19 pa\u00edses",
+      "description": "En lo que va de a\u00f1o ya se ha registrado m\u00e1s de un 500 % m\u00e1s de casos confirmado que en todo 2023.",
+      "url": "https://www.montevideo.com.uy/Salud/Africa-registra-mas-de-48-000-casos-y-1-048-muertes-por-mpox-en-19-paises-uc905071",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202408/_W933_80/891795.jpg",
+      "publishedAt": "2024-10-31 17:30:00",
+      "content": "\u00c1frica ha registrado 48.093 casos (10.372 confirmados) y 1.048 muertes por mpox desde principios de 2024 en 19 pa\u00edses del continente, uno m\u00e1s que la semana pasada, tras la detecci\u00f3n de un caso en M\u2026 [+3104 chars]",
+      "retrievedAt": "2024-11-01 19:05:45.581230",
+      "internal_id": "6d003d277acbe50707f84fe9d10e644c52a24b4ad76c431d2aea7327fae34467",
+      "publishedAtLabel": "Oct 31"
+    },
+    {
+      "id": 15153,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "Mary Kekatos",
+      "title": "Dengue fever cases rise to 6,800 in US amid 2 new infections in Los Angeles: CDC",
+      "description": "Dengue fever cases rise to 6,800 in US amid 2 new infections in Los Angeles: CDCgo.com",
+      "url": "https://abcnews.go.com/Health/2-locally-acquired-dengue-cases-reported-los-angeles/story?id=115346777",
+      "urlToImage": "https://i.abcnewsfe.com/a/2df5009a-9009-4c62-8851-a363387ce481/aedes-mosquito-ap-jef-241031_1730381644595_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2024-10-31 16:49:00",
+      "content": "The total number of dengue fever cases in the U.S. is now more than double the number recorded all of last year, federal data shows. More than 6,800 cases of dengue have been reported nationally so \u2026 [+4400 chars]",
+      "retrievedAt": "2024-11-01 19:05:43.396121",
+      "internal_id": "073dd9de7dc558430d9f3ef0bdf471a7f532bc9f7f5722fddd56369337808402",
+      "publishedAtLabel": "Oct 31"
+    },
+    {
+      "id": 15136,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "N-tv.de",
+      "author": "Hedviga Nyarsik",
+      "title": "Erster H5N1-Fall beim Schwein: W\u00e4chst die Vogelgrippe-Gefahr f\u00fcr den Menschen?",
+      "description": "Auf einer kleinen Farm im US-Bundesstaat Oregon ist ein Schwein mit Vogelgrippe infiziert. Es ist der erste Fall dieser Art und l\u00f6st bei Fachleuten Alarmbereitschaft aus. Ein Ausbruch unter Schweinen w\u00fcrde das H5N1-Virus dem Menschen einen gef\u00e4hrlichen Schrit\u2026",
+      "url": "https://www.n-tv.de/wissen/Waechst-die-Vogelgrippe-Gefahr-fuer-den-Menschen-article25328117.html",
+      "urlToImage": "https://bilder4.n-tv.de/img/incoming/crop25328643/2591324030-cImg_16_9-w1200/490224203.jpg",
+      "publishedAt": "2024-10-31 16:23:09",
+      "content": "Auf einer kleinen Farm im US-Bundesstaat Oregon ist ein Schwein mit Vogelgrippe infiziert. Es ist der erste Fall dieser Art und l\u00f6st bei Fachleuten Alarmbereitschaft aus. Ein Ausbruch unter Schweinen\u2026 [+4553 chars]",
+      "retrievedAt": "2024-11-01 19:05:42.427405",
+      "internal_id": "6d0b35e3ef103be31a977922f7d6dd9c116b75a1bcdbe28fbae15e28d2bb28bd",
+      "publishedAtLabel": "Oct 31"
+    },
+    {
+      "id": 15130,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "WTVY, Dothan",
+      "author": "Wtvy Staff",
+      "title": "Rabid raccoon confirmed in Ashford, health dept. says",
+      "description": "Houston County\u2019s first case of animal rabies in 2024 was confirmed Thursday.",
+      "url": "https://www.wtvy.com/2024/10/31/first-case-rabies-confirmed-houston-county-2/",
+      "urlToImage": "https://gray-wtvy-prod.gtv-cdn.com/resizer/v2/MOP7I5PN55FQLAQVBZ5DK6G5D4.jpg?auth=d4b2e680e19baf8fd9c24fe3a914f38224c1fa018e57474a04e9a85b5d40f1da&width=1200&height=600&smart=true",
+      "publishedAt": "2024-10-31 16:11:19",
+      "content": "DOTHAN, Ala. (WTVY) - Houston Countys first case of animal rabies in 2024 was confirmed Thursday. According to the Houston County Health Department, a raccoon found this week on Whitaker Road in Ash\u2026 [+1115 chars]",
+      "retrievedAt": "2024-11-01 19:05:40.606493",
+      "internal_id": "4018f694a19b0a29c4d90bdb58c58bc652d8998af96dff849c087bac5677abe3",
+      "publishedAtLabel": "Oct 31"
+    },
+    {
+      "id": 15157,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Paula Felix",
+      "title": "Mpox: Reino Unido detecta caso da nova variante pela primeira vez",
+      "description": "Epis\u00f3dio ocorreu com paciente de Londres que viajou para \u00c1frica, onde linhagem mais letal est\u00e1 em circula\u00e7\u00e3o; Alemanha tamb\u00e9m teve registro",
+      "url": "https://veja.abril.com.br/saude/mpox-reino-unido-detecta-caso-da-nova-variante-pela-primeira-vez",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2022/05/shutterstock_2159695701.jpg.jpg?quality=70&strip=info&crop=1&resize=1080,565",
+      "publishedAt": "2024-10-31 16:03:53",
+      "content": "Black Friday: Assine a partir de 1,49/semanaContinua ap\u00f3s publicidade MPOX: Doen\u00e7a causa erup\u00e7\u00f5es na pele (VEJA/Shutterstock) Continua ap\u00f3s publicidade O Reino Unido confirmou nesta quarta-feira, \u2026 [+3940 chars]",
+      "retrievedAt": "2024-11-01 19:05:45.430621",
+      "internal_id": "d314633d1d882810639bb24d6c7859f380351d546ab1caf52cf1f95cc899e518",
+      "publishedAtLabel": "Oct 31"
+    },
+    {
+      "id": 15162,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Independent.ie",
+      "author": "Eilish O'Regan",
+      "title": "High alert issued after first case of dangerous mpox strain confirmed in UK",
+      "description": "Ireland\u2019s disease watchdog is on alert for a new more dangerous strain of mpox after a case was confirmed in the UK.",
+      "url": "https://www.independent.ie/irish-news/high-alert-issued-after-first-case-of-dangerous-mpox-strain-confirmed-in-uk/a1059595076.html",
+      "urlToImage": "https://focus.independent.ie/thumbor/kh2w4sAKKlWbEwI9VR_yCZIxhts=/629x460/smart/prod-mh-ireland/ca89a1c1-c167-444e-9827-d1d838594387/61f590ef-0cd2-4e8b-b681-b91f186f2d62/ca89a1c1-c167-444e-9827-d1d838594387.jpg",
+      "publishedAt": "2024-10-31 15:36:27",
+      "content": "Irelands disease watchdog is on alert for a new more dangerous strain of mpox after a case was confirmed in the UK.The first case in the UK of the Clade Ib mpox was confirmed yesterday after the pati\u2026 [+3106 chars]",
+      "retrievedAt": "2024-11-01 19:05:45.622794",
+      "internal_id": "3e1008a18d79e74a3afa3a2fd98bf35d9ead385d366e7ff70dc2fa32d0e71854",
+      "publishedAtLabel": "Oct 31"
+    },
+    {
+      "id": 15134,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Scientific American",
+      "author": "Tanya Lewis",
+      "title": "H5N1 Detected in Pig Highlights the Risk of Bird Flu Mixing with Seasonal Flu",
+      "description": "Humans and pigs could both serve as mixing vessels for a bird flu\u2013seasonal flu hybrid, posing a risk of wider spread",
+      "url": "https://www.scientificamerican.com/article/h5n1-detected-in-pig-highlights-the-risk-of-bird-flu-mixing-with-seasonal/",
+      "urlToImage": "https://static.scientificamerican.com/dam/m/65ab3e735cfd209f/original/dairy_farm_worker_in_milking_facility.jpg?m=1730385873.58&w=1200",
+      "publishedAt": "2024-10-31 15:15:00",
+      "content": "As the H5N1 avian influenza virus continues its rampage through U.S. dairy cow herds, it has also infected human farm workers. A different strain has also infected workers on poultry farms, most rece\u2026 [+8223 chars]",
+      "retrievedAt": "2024-11-01 19:05:42.384419",
+      "internal_id": "a6a11c1984bbc157e502defb555e30994a1dd13372a7e0e350c31b9264ed11ec",
+      "publishedAtLabel": "Oct 31"
+    },
+    {
+      "id": 15139,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Shtfplan.com",
+      "author": "Mac Slavo",
+      "title": "Experts Claim Bird Flu Could Mix With The Flu And Become \u201cDeadlier\u201d",
+      "description": "\"Experts\" are claiming that bird flu could possibly mix with the flu and become \"deadlier\" as it does. So far, 17 states have reported H5N1 bird flu cases in humans, but there is still no hard evidence of transmission between people. So far, all of the infec\u2026",
+      "url": "https://www.shtfplan.com/member-exclusive/experts-claim-bird-flu-could-mix-with-the-flu-and-become-deadlier",
+      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2024/09/birdflu.jpg",
+      "publishedAt": "2024-10-31 15:00:31",
+      "content": "Commenting Policy: Some comments on this web site are automatically moderated through our Spam protection systems. Please be patient if your comment isn\u2019t immediately available. We\u2019re not trying to \u2026 [+423 chars]",
+      "retrievedAt": "2024-11-01 19:05:42.475167",
+      "internal_id": "776b34295c1a97d7788b0aec47f3afc99588edc7781c9cce5a94409f579c4bb3",
+      "publishedAtLabel": "Oct 31"
+    },
+    {
+      "id": 15137,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Adevarul.ro",
+      "author": "Narcis Ghiurca",
+      "title": "Primul porc depistat pozitiv cu grip\u0103 aviar\u0103. Motivul pentru care acest caz st\u00e2rne\u0219te \u00eengrijorare",
+      "description": "Un porc din Oregon a fost testat pozitiv pentru H5N1, anun\u021b\u0103 miercuri de Departamentul de Agricultur\u0103 al SUA (USDA)",
+      "url": "https://adevarul.ro/stiri-externe/sua/primul-porc-depistat-pozitiv-cu-gripa-aviara-2398544.html",
+      "urlToImage": "https://cdn.adh.reperio.news/image-b/beeb5494-6792-4e91-b8c3-7401ae0fd1c0/index.jpeg?p=f%3Djpeg%26w%3D1200%26h%3D630%26r%3Dcover",
+      "publishedAt": "2024-10-31 14:48:31",
+      "content": "Un porc din Oregon a fost testat pozitiv pentru H5N1, anun miercuri de Departamentul de Agricultur al SUA (USDA), conform NBC News. Este prima dat c\u00e2nd acest virus a fost detectat la porci. Tot potr\u2026 [+1767 chars]",
+      "retrievedAt": "2024-11-01 19:05:42.448796",
+      "internal_id": "82e9e343bec51520ddbf30796f489e184376e165f5f74a5cef9e2bd2327c0f6f",
+      "publishedAtLabel": "Oct 31"
+    },
+    {
+      "id": 15152,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Nacion.com",
+      "author": "Jessica Rojas Ch.",
+      "title": "Mi bit\u00e1cora con dengue: As\u00ed fueron los peores ocho d\u00edas que he vivido",
+      "description": "Por ignorancia y confianza sufr\u00ed de manera muy fuerte los embates del dengue. \u00a1Tome nota para que a usted no le pase!",
+      "url": "https://www.nacion.com/revista-dominical/mi-bitacora-con-dengue-asi-fueron-los-peores-ocho/4D7BRUNFRNFKZG3JMRNWEFW2QE/story/",
+      "urlToImage": "https://www.nacion.com/resizer/v2/GINAPL6IOFBBJJQKGADAIDPVXU.jpg?smart=true&auth=44af79eec2ea5016881c047e89cd4d8c383eb374b765691b4e471464e814801b&width=1440",
+      "publishedAt": "2024-10-31 14:34:00",
+      "content": "Nunca imagin\u00e9 que me ver\u00eda en una situaci\u00f3n de salud como la que viv\u00ed hace una semana. Sab\u00eda del avance del dengue en el pa\u00eds, pero en mi casa no hay criaderos ni tampoco en las de mis vecinos. Lo qu\u2026 [+15287 chars]",
+      "retrievedAt": "2024-11-01 19:05:43.384387",
+      "internal_id": "d5fdaf39aa6e17ed5373627e71df126e34b29387c99c16ab81c367ca010c38e4",
+      "publishedAtLabel": "Oct 31"
+    },
+    {
+      "id": 15129,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Weiwei Meng, Tianren Shen, Okugbe Ebiotubo Ohore, Susan Christina Welburn, Guojing Yang",
+      "title": "Spatiotemporal Distribution of Human Rabies and Identification of Predominant Risk Factors in China from 2004 to 2020",
+      "description": "Author summary Rabies is a Neglected Tropical Disease (NTD), predominantly prevalent in Africa and Asia, with a nearly 100% fatality rate upon onset. China is striving to achieve the WHO\u2019s global goal of zero deaths from dog-mediated human rabies by 2030. The\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012557",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012557.g004&size=inline",
+      "publishedAt": "2024-10-31 14:00:00",
+      "content": "Abstract Human rabies is a prevalent issue in China, posing a significant public health concern in the country. This study fitted the Bayesian model of separable in spatial and temporal variation an\u2026 [+42457 chars]",
+      "retrievedAt": "2024-11-01 19:05:40.578488",
+      "internal_id": "87787741c9b20108cb26d5b2843bb05805edc22020aeacf2fa55667f9fb582b6",
+      "publishedAtLabel": "Oct 31"
+    },
+    {
+      "id": 15151,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Chad Gebo, C\u00e9line S. C. Hardy, Benjamin D. McElvany, Nancy R. Graham, Joseph Q. Lu, Shima Moradpour, Jeffrey R. Currier, Heather Friberg, Gregory D. Gromowski, Stephen J. Thomas, Gary C. Chan, Sean A. Diehl, Adam T. Waickman",
+      "title": "B cell receptor dependent enhancement of dengue virus infection",
+      "description": "Author summary Dengue virus (DENV) is a mosquito-borne pathogen that infects an estimate 400 million people every year. A unique feature of DENV is immune-mediated enhancement, wherein a first (primary) DENV infection can predispose an individual to a more se\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012683",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1012683.g003&size=inline",
+      "publishedAt": "2024-10-31 14:00:00",
+      "content": "Abstract Dengue virus (DENV) is the causative agent of dengue, a mosquito-borne disease that represents a significant and growing public health burden around the world. A unique pathophysiological f\u2026 [+44158 chars]",
+      "retrievedAt": "2024-11-01 19:05:43.373108",
+      "internal_id": "3cee92282648d9e5a292d5b1fbbc8df066fcfe46d0623dce7406992902a5eb4c",
+      "publishedAtLabel": "Oct 31"
+    },
+    {
+      "id": 15154,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Stefano S. Garcia Castillo, Caroline Abanto Alvarez, \u00c1ngel Rosas-Aguirre, Carlos Acosta, Rodrigo M. Corder, Joaqu\u00edn G\u00f3mez, Mitchel Guzm\u00e1n, Niko Speybroeck, Alejandro Llanos-Cuentas, Marcia C. Castro, Anna Rosanas-Urgell, Marcelo U. Ferreira, Joseph M. Vinetz, Dionicia Gamboa, Katherine Torres",
+      "title": "Recurrence patterns and evolution of submicroscopic and asymptomatic Plasmodium vivax infections in malaria-endemic areas of the Peruvian Amazon",
+      "description": "Author summary The emergence of asymptomatic and lower parasitemia cases has reduced the detection of P. vivax with conventional surveillance methods. This situation raises questions about whether people without symptoms or with low levels of the parasite can\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012566",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012566.g006&size=inline",
+      "publishedAt": "2024-10-31 14:00:00",
+      "content": "Citation: Garcia Castillo SS, Abanto Alvarez C, Rosas-Aguirre \u00c1, Acosta C, Corder RM, G\u00f3mez J, et al. (2024) Recurrence patterns and evolution of submicroscopic and asymptomatic Plasmodium vivax infe\u2026 [+47402 chars]",
+      "retrievedAt": "2024-11-01 19:05:44.346687",
+      "internal_id": "06ca9c84acd6f76dac71abaa1dd2bb862d45219f9071f4b565176aba42ff3bd2",
+      "publishedAtLabel": "Oct 31"
+    },
+    {
+      "id": 15156,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Izzati Kausar Azman, Yoke Fun Chan, Chong Long Chua, Zainal Abidin Abd Mutalib, Sarat Chandra Dass, Balvinder Singh Gill, Nor Hayati Ismail, Jenarun Jelip, Ming Keong Wan, Wenn-Chyau Lee, Indra Vythilingam, Luke Alphey, I-Ching Sam",
+      "title": "A change in circulating chikungunya virus variant impacts Aedes aegypti vector competence and spatiotemporal distribution of disease in Malaysia",
+      "description": "Author summary Chikungunya virus (CHIKV) causes fever, rash and joint pain in humans. CHIKV is spread by bites of infected Aedes (Ae.) aegypti and Ae. albopictus mosquitoes. In 2008\u20132010, CHIKV with an E1-226V mutation became highly adapted to Ae. albopictus \u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012632",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012632.g006&size=inline",
+      "publishedAt": "2024-10-31 14:00:00",
+      "content": "Citation: Azman IK, Chan YF, Chua CL, Abd Mutalib ZA, Dass SC, Gill BS, et al. (2024) A change in circulating chikungunya virus variant impacts Aedes aegypti vector competence and spatiotemporal dist\u2026 [+36853 chars]",
+      "retrievedAt": "2024-11-01 19:05:44.992113",
+      "internal_id": "1186c176eeb524bbda2936d08a815eb229eca2e0544ccc748e5217e83cf957b6",
+      "publishedAtLabel": "Oct 31"
+    },
+    {
+      "id": 15164,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Emma V. Waters, Winnie W. Y. Lee, Amina Ismail Ahmed, Marie-Anne Chattaway, Gemma C. Langridge",
+      "title": "From acute to persistent infection: revealing phylogenomic variations in Salmonella Agona",
+      "description": "Author summary The persistence of non-typhoidal Salmonella following acute gastroenteritis is a significant challenge for public health but the causes that lead to such chronic infections are understudied. This study aimed to investigate the ability of Salmon\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012679",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1012679.g003&size=inline",
+      "publishedAt": "2024-10-31 14:00:00",
+      "content": "Citation: Waters EV, Lee WWY, Ismail Ahmed A, Chattaway M-A, Langridge GC (2024) From acute to persistent infection: revealing phylogenomic variations in Salmonella Agona. PLoS Pathog 20(10): e1012\u2026 [+43854 chars]",
+      "retrievedAt": "2024-11-01 19:05:45.814131",
+      "internal_id": "e8e9cb85690df598c19fb87923cf6262be3f7407d2ebe7d318dafed2ebb538ae",
+      "publishedAtLabel": "Oct 31"
+    },
+    {
+      "id": 15138,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Mediafax.ro",
+      "author": "Iulia Kelt",
+      "title": "Primul caz de grip\u0103 aviar\u0103 la un porc, \u00een SUA. Ferma, plasat\u0103 sub carantin\u0103",
+      "description": "Un porc din Oregon a fost testat pozitiv pentru H5N1, ceea ce marcheaz\u0103 primul caz de acest fel \u00een SUA. Ferma a fost plasat\u0103 sub carantin\u0103, scrie Science Alert, care citeaz\u0103 AFP.",
+      "url": "https://www.mediafax.ro/externe/primul-caz-de-gripa-aviara-la-un-porc-in-sua-ferma-plasata-sub-carantina-22532099",
+      "urlToImage": "https://storage0.dms.mpinteractiv.ro/media/1/1/3614/22532099/1/porci-mfx.jpg?width=640",
+      "publishedAt": "2024-10-31 13:56:45",
+      "content": "Departamentul american al agriculturii (USDA) a confirmat c porcul a fost depistat mari, la patru zile dup ce psrile de pe aceeai ferm au fost testate pozitiv pentru virusul contagios. Animalele d\u2026 [+1291 chars]",
+      "retrievedAt": "2024-11-01 19:05:42.455613",
+      "internal_id": "15ee7ab1bb95b5fabf0f6e91e0d8a097507c0ed205c8b6e0875015b3dde440ac",
+      "publishedAtLabel": "Oct 31"
+    },
+    {
+      "id": 15149,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Francisco Dutra",
+      "title": "GDF vai nomear mais agentes para refor\u00e7ar combate \u00e0 dengue",
+      "description": "Segundo o GDF, h\u00e1 um aumento de casos da doen\u00e7a desde a volta das chuvas, mas n\u00famero de casos ainda est\u00e1 dentro da s\u00e9rie hist\u00f3rica",
+      "url": "https://www.metropoles.com/distrito-federal/gdf-vai-nomear-mais-agentes-para-reforcar-combate-a-dengue",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/10/02175036/agente-saude.jpeg",
+      "publishedAt": "2024-10-31 13:24:21",
+      "content": "O Governo do Distrito Federal (GDF) pretende nomear novos agentes de sa\u00fade para combater a dengue ainda neste ano. A C\u00e2mara Legislativa (CLDF) aprovou um projeto de lei que d\u00e1 condi\u00e7\u00f5es para a nomea\u00e7\u2026 [+4049 chars]",
+      "retrievedAt": "2024-11-01 19:05:43.324400",
+      "internal_id": "abe1ac700327306e1502f37439168b21e9972078b61c476458ff90ff2e212fe3",
+      "publishedAtLabel": "Oct 31"
+    },
+    {
+      "id": 15158,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Zosia Kmietowicz",
+      "title": "UK confirms first case of clade Ib mpox",
+      "description": "The first case of clade Ib mpox in the UK has been confirmed in London in a person who had recently travelled to countries in Africa that are seeing cases in the community, health officials have said.The UK Health Security Agency said that the risk to the UK \u2026",
+      "url": "https://www.bmj.com/content/387/bmj.q2406",
+      "urlToImage": "https://www.bmj.com/sites/default/files/highwire/bmj/387/8446.cover-source.jpg",
+      "publishedAt": "2024-10-31 12:35:42",
+      "content": "The first case of clade Ib mpox in the UK has been confirmed in London in a person who had recently travelled to countries in Africa that are seeing cases in the community, health officials have said\u2026 [+414 chars]",
+      "retrievedAt": "2024-11-01 19:05:45.457444",
+      "internal_id": "2eba25eace773939f09db7cf3f50a9ed694a8f49a1cb82e842cc207fb0c3b5f6",
+      "publishedAtLabel": "Oct 31"
+    },
+    {
+      "id": 15159,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "LADbible",
+      "author": "Tom Earnshaw",
+      "title": "Doctor reveals symptoms of \u2018horrendous\u2019 disease detected in UK for first time that left patient \u2018unable to more or eat\u2019",
+      "description": "Mpox, which was once known as monkeypox, is spreading with the first case of a new variant confirmed on UK shores",
+      "url": "https://www.ladbible.com/news/health/uk-mpox-symptoms-clade-1b-variant-123483-20241031",
+      "urlToImage": "https://images.ladbible.com/resize?type=webp&quality=70&width=1200&fit=contain&gravity=auto&url=https://images.ladbiblegroup.com/v3/assets/bltcd74acc1d0a99f3a/blt54a460db06ca2e3b/67236eef557341303bec742d/mpox_clade_1b_variant.png",
+      "publishedAt": "2024-10-31 12:09:53",
+      "content": "A doctor has issued critical advice on the key symptoms to look out for after a brand new variant of a 'horrendous' disease was confirmed to be present within the United Kingdom. Mpox, which was kno\u2026 [+3553 chars]",
+      "retrievedAt": "2024-11-01 19:05:45.518736",
+      "internal_id": "09b55bcd6595ff65521e5774aa80ee2c3a46e0025e6c8023e747e7a3809d9a47",
+      "publishedAtLabel": "Oct 31"
+    },
+    {
+      "id": 15133,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "business-insider",
+      "source_name": "Business Insider",
+      "author": "mmcfalljohnsen@businessinsider.com (Morgan McFall-Johnsen)",
+      "title": "Bird flu was detected in a pig, and it could be a tipping point threatening more human transmission",
+      "description": "Pigs are mixing bowls for bird flu and human flu viruses, increasing the risk of mutations that help H5N1 spread to humans. It's still not inevitable.",
+      "url": "https://www.businessinsider.com/first-pig-h5n1-bird-flu-possible-human-outbreak-risk-2024-10",
+      "urlToImage": "https://i.insider.com/6722b0469b3250dbbceb51e5?width=1200&format=jpeg",
+      "publishedAt": "2024-10-31 12:00:01",
+      "content": "A bird flu virus has jumped one species closer to a human outbreak. The H5N1 bird flu was detected in a pig in Oregon, the first instance of a swine infection in the US, officials announced on Wedne\u2026 [+4667 chars]",
+      "retrievedAt": "2024-11-01 19:05:42.376886",
+      "internal_id": "7c854372e7d89fc6c087e13e7bbb273b5859e238ca9bc28554f2f8505d4a562c",
+      "publishedAtLabel": "Oct 31"
+    },
+    {
+      "id": 15131,
+      "query": [
+        "hpai",
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "Federal and State Veterinary Agencies Share Update on HPAI Detections in Oregon Backyard Farm, Including First H5N1 Detections in Swine (Animal and Plant Health Inspection Service)",
+      "description": "Animal and Plant Health Inspection Service: Federal and State Veterinary Agencies Share Update on HPAI Detections in Oregon Backyard Farm, Including First H5N1 Detections in Swine \u2014 There is no concern about the safety of the nation's pork supply as a resul\u2026",
+      "url": "https://www.memeorandum.com/241031/p6",
+      "urlToImage": "http://www.memeorandum.com/m/config/politics/iicon.gif",
+      "publishedAt": "2024-10-31 11:25:02",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2024-11-01 19:05:41.636852",
+      "internal_id": "eb7e3bfc7c605ffb83545f27a49d044cbcee5997e08596c1e9ad6a44bab25cc9",
+      "publishedAtLabel": "Oct 31"
+    },
+    {
+      "id": 15145,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Alphafreepress.gr",
+      "author": "\u0395\u03c5\u03c4\u03c5\u03c7\u03af\u03b1 \u03a0\u03b1\u03c0\u03bf\u03cd\u03bb\u03b9\u03b1",
+      "title": "\u0397\u03a0\u0391: \u0393\u03b9\u03b1 \u03c0\u03c1\u03ce\u03c4\u03b7 \u03c6\u03bf\u03c1\u03ac, \u03bf \u03b9\u03cc\u03c2 \u03c4\u03b7\u03c2 \u03b3\u03c1\u03af\u03c0\u03b7\u03c2 \u03c4\u03c9\u03bd \u03c0\u03c4\u03b7\u03bd\u03ce\u03bd \u03b5\u03bd\u03c4\u03bf\u03c0\u03af\u03b6\u03b5\u03c4\u03b1\u03b9 \u03c3\u03b5 \u03b5\u03ba\u03c4\u03c1\u03b5\u03c6\u03cc\u03bc\u03b5\u03bd\u03bf \u03c7\u03bf\u03af\u03c1\u03bf",
+      "description": "\u039f \u03c7\u03bf\u03af\u03c1\u03bf\u03c2 \u03c0\u03bf\u03c5 \u03b4\u03b9\u03b1\u03c0\u03b9\u03c3\u03c4\u03ce\u03b8\u03b7\u03ba\u03b5 \u03c0\u03c9\u03c2 \u03ad\u03c7\u03b5\u03b9 \u03bc\u03bf\u03bb\u03c5\u03bd\u03b8\u03b5\u03af \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03b1\u03c3\u03b8\u03ad\u03bd\u03b5\u03b9\u03b1 \u03b4\u03b5\u03bd \u03c0\u03b1\u03c1\u03bf\u03c5\u03c3\u03af\u03b1\u03b6\u03b5 \u03c3\u03c5\u03bc\u03c0\u03c4\u03ce\u03bc\u03b1\u03c4\u03b1, \u03b1\u03bb\u03bb\u03ac \u03c5\u03c0\u03bf\u03b2\u03bb\u03ae\u03b8\u03b7\u03ba\u03b5 \u03c3\u03b5 \u03b5\u03be\u03b5\u03c4\u03ac\u03c3\u03b5\u03b9\u03c2 \u03c0\u03c1\u03bf\u03bb\u03b7\u03c0\u03c4\u03b9\u03ba\u03ac \u03c3\u03c4\u03bf \u03b1\u03b3\u03c1\u03cc\u03ba\u03c4\u03b7\u03bc\u03b1",
+      "url": "https://www.alphafreepress.gr/2024/10/31/kosmos/ipa-gia-proti-fora-o-ios-tis-gripis-ton-ptinon-entopizetai-se-ektrefomeno-xoiro/",
+      "urlToImage": "https://www.alphafreepress.gr/wp-content/uploads/2022/07/pig.jpg",
+      "publishedAt": "2024-10-31 11:20:11",
+      "content": ", , . \u00ab \u00bb \u00ab H5N1\u00bb, \u00ab \u00bb , (USDA). \u00ab \u00bb, , \u00ab \u00bb. , , . . , . . . . . \u00ab \u00bb \u00ab \u00bb, USDA.",
+      "retrievedAt": "2024-11-01 19:05:42.574296",
+      "internal_id": "1c3d77b67d67645f676511458b58db219bca6f0296600fb0af778e890ccc0124",
+      "publishedAtLabel": "Oct 31"
+    },
+    {
+      "id": 15148,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Interia.pl",
+      "author": "Dagmara Paku\u0142a",
+      "title": "Zaniepokojenie w USA. Wykryli \"pierwszy taki przypadek\"",
+      "description": "Ptasia grypa H5N1 zosta\u0142a potwierdzona u \u015bwini na przydomowej farmie w Oregonie. To pierwszy taki przypadek w kraju - poinformowa\u0142 w \u015brod\u0119 ameryka\u0144ski Departament Rolnictwa. Tamtejsze \u015bwinie nie by\u0142y przeznaczone do komercyjnych dostaw \u017cywno\u015bci. Mimo to zdarz\u2026",
+      "url": "https://wydarzenia.interia.pl/zagranica/news-zaniepokojenie-w-usa-wykryli-pierwszy-taki-przypadek,nId,7847281",
+      "urlToImage": "https://i.iplsc.com/-/000K0MLOXXXUHTRA-C461-F4.jpg",
+      "publishedAt": "2024-10-31 11:15:30",
+      "content": "winie stanowi szczeg\u00f3lne zagroenie dla rozprzestrzeniania si ptasiej grypy, poniewa mog wymienia si genami, tworzc nowy, bardziej niebezpieczny i zaraliwy dla ludzi wariant. Amerykaski Departament R\u2026 [+1788 chars]",
+      "retrievedAt": "2024-11-01 19:05:42.618330",
+      "internal_id": "febf34d57f61da666b9cc7aa7180e57c580c2ee5f205af45289ea78059e8ea56",
+      "publishedAtLabel": "Oct 31"
+    },
+    {
+      "id": 15150,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Nacion.com",
+      "author": "\u00c1ngela \u00c1valos Rodr\u00edguez",
+      "title": "Si sospecha que tiene dengue evite estos medicamentos",
+      "description": "Conozca cu\u00e1les medicamentos tomar y cu\u00e1les no en caso de que contraiga el virus del dengue. Si sospecha de esta enfermedad, acuda al centro de salud m\u00e1s cercano.",
+      "url": "https://www.nacion.com/el-pais/salud/si-sospecha-que-tiene-dengue-evite-estos/7DMTN5HIYJA3HALZQHUVFPQ7JE/story/",
+      "urlToImage": "https://www.nacion.com/resizer/v2/ACPFO6TEQNGOFPQ7VAPSYZQSDA.jpeg?smart=true&auth=9855bc960b07e9c88f36339e3c4620bbfedb810f1fdfd23793b83de0ef23f8dc&width=1440",
+      "publishedAt": "2024-10-31 11:12:00",
+      "content": "Si sospecha que usted o alg\u00fan ser querido ha contra\u00eddo el virus del dengue, evite tomar los siguientes medicamentos, ya que, lejos de mejorar su condici\u00f3n, podr\u00edan complicarla sustancialmente y lleva\u2026 [+3519 chars]",
+      "retrievedAt": "2024-11-01 19:05:43.366843",
+      "internal_id": "eb6733161ac89cc679d24e5768444f9ca573bb2c69f13e28e520dbed662f8a94",
+      "publishedAtLabel": "Oct 31"
+    },
+    {
+      "id": 15146,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "POLITICO.eu",
+      "author": "Rory O\u2019Neill",
+      "title": "First pig infected with H5N1 bird flu recorded in the US",
+      "description": "Pigs were the source of the H1N1 flu pandemic in 2009-2010.",
+      "url": "https://www.politico.eu/article/first-pig-infected-with-h5n1-bird-flu-recorded-in-the-us/",
+      "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2024/10/31/GettyImages-911829324-scaled.jpg",
+      "publishedAt": "2024-10-31 10:30:41",
+      "content": "U.S. officials sequenced the genome of the virus found in poultry on the farm in Oregon and did not identify any changes to the virus that indicate its more transmissible to humans. The risk to the p\u2026 [+372 chars]",
+      "retrievedAt": "2024-11-01 19:05:42.586099",
+      "internal_id": "974cb1bd2a4c35c157130f7c846488b0948797d4b9a04d56046010aea1b922e0",
+      "publishedAtLabel": "Oct 31"
+    },
+    {
+      "id": 15144,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "DIE WELT",
+      "author": "WELT",
+      "title": "Erster Fall von Vogelgrippe bei Schwein in USA",
+      "description": "In einem Tierbetrieb in Oregon ist erstmals in den USA das Vogelgrippevirus H5N1 auf ein Schwein \u00fcbertragen worden. Tage zuvor waren dort H\u00fchner erkrankt. Bei diesen \u00dcberspr\u00fcngen auf S\u00e4ugetiere steigt das Risiko f\u00fcr Mutationen.",
+      "url": "https://www.welt.de/wissenschaft/article254277162/Gefluegelpest-Erster-Fall-von-Vogelgrippe-bei-Schwein-in-USA.html",
+      "urlToImage": "https://img.welt.de/img/wissenschaft/mobile254278378/0817936127-ci16x9-w1200/Hausschwein-Sus-scrofa-domesticus-Schweinestall-schauen-Deut.jpg",
+      "publishedAt": "2024-10-31 10:13:58",
+      "content": "In einem Tierbetrieb in Oregon ist erstmals in den USA das Vogelgrippevirus H5N1 auf ein Schwein \u00fcbertragen worden. Tage zuvor waren dort H\u00fchner erkrankt. Bei diesen \u00dcberspr\u00fcngen auf S\u00e4ugetiere steig\u2026 [+1718 chars]",
+      "retrievedAt": "2024-11-01 19:05:42.557767",
+      "internal_id": "626274c4082e520ab67756e602b304d61d925d7b3377aaeec8c2442206732454",
+      "publishedAtLabel": "Oct 31"
+    },
+    {
+      "id": 15147,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "N-tv.de",
+      "author": "n-tv NACHRICHTEN",
+      "title": "Angst vor Mutationen w\u00e4chst: Erstmals Schwein mit Vogelgrippe infiziert",
+      "description": "Das Vogelgrippe-Virus H5N1 greift in den USA weiter um sich. Jetzt melden die Beh\u00f6rden erstmals einen Infektionsfall bei einem Schwein. Das Tier hat sich offenbar bei dem infizierten Gefl\u00fcgel auf dem Bauernhof im Bundesstaat Oregon angesteckt. Tests sollen ze\u2026",
+      "url": "https://www.n-tv.de/wissen/Erstmals-Schwein-mit-Vogelgrippe-infiziert-article25327805.html",
+      "urlToImage": "https://bilder2.n-tv.de/img/incoming/crop25327833/2661324951-cImg_16_9-w1200/479433010.jpg",
+      "publishedAt": "2024-10-31 10:05:52",
+      "content": "Das Vogelgrippe-Virus H5N1 greift in den USA weiter um sich. Jetzt melden die Beh\u00f6rden erstmals einen Infektionsfall bei einem Schwein. Das Tier hat sich offenbar bei dem infizierten Gefl\u00fcgel auf dem\u2026 [+2871 chars]",
+      "retrievedAt": "2024-11-01 19:05:42.602304",
+      "internal_id": "21155a9394fde51dd23d567a114ddac64e7a8157053901065f9e116ba9925baa",
+      "publishedAtLabel": "Oct 31"
+    },
+    {
+      "id": 15160,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Aljazeera.net",
+      "author": "\u062f. \u0623\u0633\u0627\u0645\u0629 \u0623\u0628\u0648 \u0627\u0644\u0631\u064f\u0651\u0628",
+      "title": "\u0639\u0644\u0649 \u0627\u0644\u062e\u0631\u064a\u0637\u0629.. \u062a\u0639\u0631\u0641 \u0639\u0644\u0649 \u0627\u0644\u062f\u0648\u0644 \u0627\u0644\u062a\u064a \u0633\u062c\u0644\u062a \u0638\u0647\u0648\u0631 \u0627\u0644\u0633\u0644\u0627\u0644\u0629 \u0627\u0644\u062c\u062f\u064a\u062f\u0629 \u0645\u0646 \u062c\u062f\u0631\u064a \u0627\u0644\u0642\u0631\u0648\u062f",
+      "description": "\u0645\u0639 \u062a\u0641\u0634\u064a \u0645\u0631\u0636 \u062c\u062f\u0631\u064a \u0627\u0644\u0642\u0631\u0648\u062f\u060c \u0638\u0647\u0631\u062a \u0633\u0644\u0627\u0644\u0629 \u062c\u062f\u064a\u062f\u0629 \u0627\u0633\u0645\u0647\u0627 \"\u0643\u0644\u064a\u062f 1 \u0628\u064a\"\u060c \u0648\u0646\u0639\u0631\u0641\u0643 \u0641\u064a \u0647\u0630\u0627 \u0627\u0644\u062a\u0642\u0631\u064a\u0631 \u0639\u0644\u0649 \u0627\u0644\u062f\u0648\u0644 \u0627\u0644\u062a\u064a \u0633\u062c\u0644\u062a\u0647\u0627.",
+      "url": "https://www.aljazeera.net/health/2024/10/31/%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d8%ae%d8%b1%d9%8a%d8%b7%d8%a9-%d8%aa%d8%b9%d8%b1%d9%81-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d8%af%d9%88%d9%84-%d8%a7%d9%84%d8%aa%d9%8a-%d8%b3%d8%ac%d9%84%d8%aa",
+      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2024/10/%D8%A4%D8%A4%D8%A4-1730375868.png?resize=1200%2C630",
+      "publishedAt": "2024-10-31 10:04:44",
+      "content": "\" 1 \" . . \"\" (Mpox) 96% . 17 \" \". \" \" . \" \". 100 \" 1\" \"2\" 120 200 . / \" 1\" . . 30 / 9 . 24 24 / . 27 / . \" \". \" \". . . . : 1 2. . . 10% . 1 . . 2022. . 99.9% . . \"\u2026 [+83 chars]",
+      "retrievedAt": "2024-11-01 19:05:45.569818",
+      "internal_id": "638ddcaea067912d0403132f4cc1c276143b5e22057d6e9644fd042c5072695d",
+      "publishedAtLabel": "Oct 31"
+    },
+    {
+      "id": 15135,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Faz.net",
+      "author": "Pia Heinemann",
+      "title": "Der Erreger ist im Schwein angekommen",
+      "description": "Bei mindestens einem Schwein ist in den USA der Vogelgrippeerreger nachgewiesen worden. Warum dies und weitere Studienergebnisse aus dem Labor Experten sehr besorgen.",
+      "url": "https://www.faz.net/aktuell/wissen/leben-gene/vogelgrippe-in-schwein-nachgewiesen-warum-experten-alarmiert-sind-110081013.html",
+      "urlToImage": "https://media0.faz.net/ppmedia/aktuell/936509541/1.10081032/facebook_teaser/schweine-koennen-diverse.jpg",
+      "publishedAt": "2024-10-31 09:23:14",
+      "content": "Dass ein Schwein betroffen ist, versetzt die Experten in Alarmbereitschaft, da Schweine viele verschiedene Influenzaviren gleichzeitig in sich tragen k\u00f6nnen, die sich leicht vermischen k\u00f6nnen. H5N1 k\u2026 [+2979 chars]",
+      "retrievedAt": "2024-11-01 19:05:42.401284",
+      "internal_id": "10ad11a05f05900325e3be02d77b6dfd93b05379a74afd9f51be4a7580b33ed5",
+      "publishedAtLabel": "Oct 31"
+    },
+    {
+      "id": 15140,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Zdnet.co.kr",
+      "author": "\uc870\ubbfc\uaddc \uae30\uc790",
+      "title": "\uac00\uae08\ub958 \uace0\ubcd1\uc6d0\uc131 \uc870\ub958\uc778\ud50c\ub8e8\uc5d4\uc790 \uccab \ubc1c\uc0dd\u2026\uc778\uccb4\uac10\uc5fc \uc608\ubc29\uc870\uce58 \ubc0f \uac10\uc2dc \uac15\ud654",
+      "description": "[\uc9c0\ub514\ub137\ucf54\ub9ac\uc544]\uc9c8\ubcd1\uad00\ub9ac\uccad\uc740 \uc9c0\ub09c 10\uc6d430\uc77c \uace0\ubcd1\uc6d0\uc131 \uc870\ub958\uc778\ud50c\ub8e8\uc5d4\uc790(Avian Influenza, AI) \ubc14\uc774\ub7ec\uc2a4\uac00 \uac80\ucd9c\ub428\uc5d0 \ub530\ub77c \uc0b4\ucc98\ubd84\uc774 \uc2dc\ud589\ub41c \uac00\uae08\ub958 \ub18d\uc7a5(\uac15\uc6d0\ub3c4 \ub3d9\ud574\uc2dc \uc18c\uc7ac)\uc5d0 \uc9c0\uc790\uccb4\uc640 \ud568\uaed8 \ud604\uc7a5\ub300\uc751\uc694\uc6d0\uc744 \ud30c\uacac\ud588\ub2e4. \uc774\ub294 \uc870\ub958\uc778\ud50c\ub8e8\uc5d4\uc790 \uc778\uccb4\uac10\uc5fc \uc608\ubc29\uc744 \uc704\ud574 \uc2dc\ud589\ub41c \uc870\uce58\ub2e4.\uc870\ub958\uc778\ud50c\ub8e8\uc5d4\uc790\ub294 \ub2ed, \uc624\ub9ac, \uc57c\uc0dd\uc870\ub958 \ub4f1 \uac00\uae08\ub958\ub97c \uac10\uc5fc\uc2dc\ud0a4\uba70 \ucd5c\uadfc \uc885\uac04\ubcbd(Interspecies barrier)\uc744 \ub118\uc5b4 \ud3ec\uc720\ub3d9\ubb3c, \uc0ac\ub78c\uc73c\ub85c \uc810\ucc28 \ud655\uc0b0\ub420 \uc218 \uc788\ub2e4.\uc9c0\ub09c 10\uc6d42\uc77c \uc804\ubd81 \uad70\uc0b0\u2026",
+      "url": "https://zdnet.co.kr/view/?no=20241031171717",
+      "urlToImage": "https://image.zdnet.co.kr/2024/10/31/0f26ed56fbda18aad4ddcc53a214fcb2.jpg",
+      "publishedAt": "2024-10-31 08:17:17",
+      "content": "1030 (Avian Influenza, AI) ( ) . . , , (Interspecies barrier) , . 102 AI , H5N1 AI AI . , , . 10 , , . . (=) AI ( ) , , \u00b7 . 101 AI , . AI AI AI . , . .",
+      "retrievedAt": "2024-11-01 19:05:42.491014",
+      "internal_id": "f3bb83dfccc1eb546a5befa6c33dc7264031a638575aebbc515b08419c0c0f02",
+      "publishedAtLabel": "Oct 31"
+    },
+    {
+      "id": 15165,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Mail.ru",
+      "author": "\u0421\u0432\u0435\u0442\u043b\u0430\u043d\u0430 \u041b\u0435\u0432\u0447\u0435\u043d\u043a\u043e",
+      "title": "\u0423\u0447\u0435\u043d\u044b\u0435 \u0440\u0430\u0441\u043a\u0440\u044b\u043b\u0438 \u043f\u0440\u0438\u0447\u0438\u043d\u0443 \u0433\u0438\u0431\u0435\u043b\u0438 \u0436\u0438\u0442\u0435\u043b\u0435\u0439 \u0421\u043a\u0430\u043d\u0434\u0438\u043d\u0430\u0432\u0438\u0438 \u0432 \u043a\u0430\u043c\u0435\u043d\u043d\u043e\u043c \u0432\u0435\u043a\u0435",
+      "description": "\u041f\u0440\u0438\u0447\u0438\u043d\u044b \u0442\u0430\u043a \u043d\u0430\u0437\u044b\u0432\u0430\u0435\u043c\u043e\u0433\u043e \u043d\u0435\u043e\u043b\u0438\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0443\u043f\u0430\u0434\u043a\u0430 \u0434\u043e\u043b\u0433\u043e\u0435 \u0432\u0440\u0435\u043c\u044f \u043e\u0441\u0442\u0430\u0432\u0430\u043b\u0438\u0441\u044c \u043d\u0435\u044f\u0441\u043d\u044b\u043c\u0438: \u0432\u044b\u0441\u043a\u0430\u0437\u044b\u0432\u0430\u043b\u0438\u0441\u044c \u0433\u0438\u043f\u043e\u0442\u0435\u0437\u044b \u043e \u0432\u043e\u0439\u043d\u0430\u0445 \u0438 \u043a\u0440\u0438\u0437\u0438\u0441\u0435 \u0441\u0435\u043b\u044c\u0441\u043a\u043e\u0433\u043e \u0445\u043e\u0437\u044f\u0439\u0441\u0442\u0432\u0430. \u041e\u043a\u043e\u043b\u043e 5 300 \u043b\u0435\u0442 \u043d\u0430\u0437\u0430\u0434, \u0432 \u043a\u043e\u043d\u0446\u0435 \u043a\u0430\u043c\u0435\u043d\u043d\u043e\u0433\u043e \u0432\u0435\u043a\u0430, \u0432 \u0421\u043a\u0430\u043d\u0434\u0438\u043d\u0430\u0432\u0438\u0438 \u0438 \u0441\u0435\u0432\u0435\u0440\u043e-\u0437\u0430\u043f\u0430\u0434\u043d\u043e\u0439 \u0415\u0432\u0440\u043e\u043f\u0435 \u043d\u0430\u0447\u0430\u043b\u043e\u0441\u044c \u0440\u0435\u0437\u043a\u043e\u0435 \u0441\u043e\u043a\u0440\u0430\u0449\u0435\u043d\u0438\u0435 \u0447\u0438\u0441\u2026",
+      "url": "https://hi-tech.mail.ru/news/116893-uchenye-raskryli-prichinu-gibeli-zhitelej-skandina/",
+      "urlToImage": "https://resizer.mail.ru/p/faf69d43-b61f-5a81-b1e3-c6fef5882908/AQAK7zUWgHmr8wTtWZXcdIbneyt6maulJW8ms7veiJbhJOB3KSJQj0Nt9Two-xD-wA45gZRFovBSJz9Z_8uO0wVBpDY.jpg",
+      "publishedAt": "2024-10-31 08:14:52",
+      "content": "5 300 , , - . \u00ab , , . \u00bb, \u2014 , . , , , , , , . . Yersinia pestis. \u2014 , - , , , . , Yersinia pestis : , 19 , 12 . . . Yersinia pestis , 5 000 . 2023 4 000- . \u00ab , \u00bb, \u2014 , . 108 , 3 300 2 900 . Yersini\u2026 [+83 chars]",
+      "retrievedAt": "2024-11-01 19:05:46.137489",
+      "internal_id": "dce7bb9b8cbe9c47fde69273b3c5885f26f393ed0491359af73b7fd9c20f6d37",
+      "publishedAtLabel": "Oct 31"
+    },
+    {
+      "id": 15142,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Newsit.gr",
+      "author": "\u03a3\u03bf\u03c6\u03b9\u03b1 \u0392\u03b1\u03bb\u03c3\u03b1\u03bc\u03b7",
+      "title": "\u03a7\u03bf\u03af\u03c1\u03bf\u03c2 \u03c3\u03c4\u03bf \u038c\u03c1\u03b5\u03b3\u03ba\u03bf\u03bd \u03bc\u03bf\u03bb\u03cd\u03bd\u03b8\u03b7\u03ba\u03b5 \u03b1\u03c0\u03cc \u03c4\u03b7 \u03b3\u03c1\u03af\u03c0\u03b7 \u03c4\u03c9\u03bd \u03c0\u03c4\u03b7\u03bd\u03ce\u03bd",
+      "description": "\u0391\u03c0\u03cc \u03c4\u03bf\u03bd \u03b9\u03cc \u03c4\u03b7\u03c2 \u03b3\u03c1\u03af\u03c0\u03b7\u03c2 \u03c4\u03c9\u03bd \u03c0\u03c4\u03b7\u03bd\u03ce\u03bd \u03c3\u03c4\u03b7\u03bd \u03c0\u03bf\u03bb\u03b9\u03c4\u03b5\u03af\u03b1 \u038c\u03c1\u03b5\u03b3\u03ba\u03bf\u03bd \u03bc\u03bf\u03bb\u03cd\u03bd\u03b8\u03b7\u03ba\u03b5 \u03ad\u03bd\u03b1\u03c2 \u03c7\u03bf\u03af\u03c1\u03bf\u03c2, \u03b3\u03b5\u03b3\u03bf\u03bd\u03cc\u03c2 \u03c0\u03bf\u03c5 \u03ba\u03b1\u03c4\u03b1\u03b3\u03c1\u03ac\u03c6\u03b5\u03c4\u03b1\u03b9 \u03b3\u03b9\u03b1 \u03c0\u03c1\u03ce\u03c4\u03b7 \u03c6\u03bf\u03c1\u03ac \u03c3\u03c4\u03b9\u03c2 \u0397\u03a0\u0391. \u039f \u00ab\u03ad\u03bd\u03b1\u03c2 \u03b1\u03c0\u03cc \u03c4\u03bf\u03c5\u03c2 \u03c0\u03ad\u03bd\u03c4\u03b5 \u03c7\u03bf\u03af\u03c1\u03bf\u03c5\u03c2\u00bb \u03c3\u03b5 \u03b1\u03b3\u03c1\u03cc\u03ba\u03c4\u03b7\u03bc\u03b1 \u00ab\u03bc\u03bf\u03bb\u03cd\u03bd\u03b8\u03b7\u03ba\u03b5 \u03b1\u03c0\u03cc \u03c4\u03bf\u03bd H5N1 (\u03b3\u03c1\u03af\u03c0\u03b7 \u03c4\u03c9\u03bd \u03c0\u03c4\u03b7\u03bd\u03ce\u03bd)\u00bb, \u03b3\u03b5\u03b3\u03bf\u03bd\u03cc\u03c2 \u03c0\u03bf\u03c5 \u03b4\u03b9\u03b1\u03c0\u03b9\u03c3\u03c4\u03ce\u03bd\u03b5\u03c4\u03b1\u03b9 \u00ab\u03b3\u03b9\u03b1 \u03c0\u03c1\u03ce\u03c4\u03b7 \u03c6\u03bf\u03c1\u2026",
+      "url": "https://www.newsit.gr/kosmos/ipa-xoiros-sto-oregkon-molynthike-apo-ti-gripi-ton-ptinon/4221678/",
+      "urlToImage": "https://www.newsit.gr/wp-content/uploads/2024/10/xoiroi_gourounia-eurok-scaled.jpg",
+      "publishedAt": "2024-10-31 07:54:36",
+      "content": ", . \u00ab \u00bb \u00ab H5N1 ( )\u00bb, \u00ab \u00bb , (USDA). \u00ab \u00bb, , \u00ab \u00bb. , , . . , . . . . . \u00ab \u00bb \u00ab \u00bb, USDA.",
+      "retrievedAt": "2024-11-01 19:05:42.524705",
+      "internal_id": "e15e408279395c36c2b2c966f4332c4b98a4b56545ce41c36c9c68225b0ddf9c",
+      "publishedAtLabel": "Oct 31"
+    },
+    {
+      "id": 15143,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Hbvl.be",
+      "author": "hbvl.be",
+      "title": "Eerste geval van vogelgriep bij varken vastgesteld in de Verenigde Staten",
+      "description": "In de Amerikaanse staat Oregon heeft een varken vogelgriep opgelopen. \u201cEen van de vijf varkens\u201d van een boerderij \u201craakte besmet met H5N1, wat op de eerste besmetting van een varken met H5N1 in de Verenigde Staten wijst\u201d, maakte het Amerikaanse ministerie van\u2026",
+      "url": "https://www.hbvl.be/cnt/dmf20241031_92818440",
+      "urlToImage": "https://static.hbvl.be/Assets/Images_Upload/2024/10/31/135215dc-1e35-47bf-82b5-e5424b3c1079.jpg?maxheight=460&maxwidth=629",
+      "publishedAt": "2024-10-31 07:49:10",
+      "content": "Het dier was niet bestemd voor consumptie. Men moet niet ongerust zijn over de varkensvleesvoorziening van het land, klinkt het nog. Het betrokken dier vertoonde geen ziektesymptomen, maar werd net \u2026 [+583 chars]",
+      "retrievedAt": "2024-11-01 19:05:42.546352",
+      "internal_id": "748dc46c6193ff70f15bb0b5b4c2f3a0b88138a3f74e28d95ac81358bc8f225f",
+      "publishedAtLabel": "Oct 31"
+    },
+    {
+      "id": 15141,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "bild",
+      "source_name": "Bild",
+      "author": "Laura  Krimmer",
+      "title": "US-Farm unter Quarant\u00e4ne gestellt - Erster Fall von Vogelgrippe bei Schwein",
+      "description": "In den USA wurde erstmals ein Schwein positiv auf das Vogelgrippevirus H5N1 getestet. Bedeutet das nun eine erh\u00f6hte Ansteckungsgefahr f\u00fcr uns Menschen?",
+      "url": "https://www.bild.de/leben-wissen/erster-fall-schwein-auf-us-farm-positiv-auf-vogelgrippe-getestet-672324d6f7653a077c0e8857",
+      "urlToImage": "https://images.bild.de/672324d6f7653a077c0e8857/9a62da16fbdcc02c973fe5435f195eef,1ea0ee99?w=1280",
+      "publishedAt": "2024-10-31 07:40:39",
+      "content": "In den USA wurde erstmals ein Schwein positiv auf das Vogelgrippevirus H5N1 getestet, wie das US-Landwirtschaftsministerium berichtet. Die Best\u00e4tigung der Infektion erfolgte am Dienstag, nur vier Tag\u2026 [+1740 chars]",
+      "retrievedAt": "2024-11-01 19:05:42.502022",
+      "internal_id": "cf659c5e0d30b3788813b881b4c650c60aab537235dc4cfabed963fc27e60afc",
+      "publishedAtLabel": "Oct 31"
+    },
+    {
+      "id": 15155,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Prtimes.jp",
+      "author": null,
+      "title": "\u539f\u7530\u7dd1\u5730\u306e\u611b\u79f0\u304c\u6c7a\u5b9a \u8c4a\u4e2d\u3064\u3070\u3055\u516c\u5712\u300cma-zika\u300d",
+      "description": "[\u8c4a\u4e2d\u5e02] [\u753b\u50cf: https://prcdn.freetls.fastly.net/release_image/78420/751/78420-751-4eb69ab40fad647f8ee449cf3c23f9dc-637x451.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&amp...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000751.000078420.html",
+      "urlToImage": "https://prcdn.freetls.fastly.net/release_image/78420/751/78420-751-4eb69ab40fad647f8ee449cf3c23f9dc-637x451.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "publishedAt": "2024-10-31 07:40:02",
+      "content": "Copyright \u00a9 PR TIMES Corporation All Rights Reserved.",
+      "retrievedAt": "2024-11-01 19:05:44.815639",
+      "internal_id": "470a080050fc54bdbd9023f3e4109e36454f922197a6b493dbf996002d56660f",
+      "publishedAtLabel": "Oct 31"
+    },
+    {
+      "id": 15163,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Naftemporiki.gr",
+      "author": "\u0395\u03bb\u03af\u03b6\u03b1 \u039a\u03b1\u03c1\u03b1\u03b3\u03b9\u03ce\u03c1\u03b3\u03b7",
+      "title": "\u03a0\u039f\u03a5: \u0388\u03c1\u03c7\u03bf\u03bd\u03c4\u03b1\u03b9 \u03bd\u03ad\u03b5\u03c2 \u03b4\u03b9\u03b1\u03b3\u03bd\u03c9\u03c3\u03c4\u03b9\u03ba\u03ad\u03c2 \u03b5\u03be\u03b5\u03c4\u03ac\u03c3\u03b5\u03b9\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b5\u03c5\u03bb\u03bf\u03b3\u03b9\u03ac \u03c4\u03c9\u03bd \u03c0\u03b9\u03b8\u03ae\u03ba\u03c9\u03bd",
+      "description": "\u03a3\u03c5\u03bd\u03b5\u03c7\u03af\u03b6\u03b5\u03b9 \u03c4\u03b9\u03c2 \u03c0\u03c1\u03bf\u03c3\u03c0\u03ac\u03b8\u03b5\u03b9\u03b5\u03c2 \u03b5\u03be\u03b1\u03c3\u03c6\u03ac\u03bb\u03b9\u03c3\u03b7\u03c2 \u03b3\u03c1\u03ae\u03b3\u03bf\u03c1\u03c9\u03bd \u03b4\u03b9\u03b1\u03b3\u03bd\u03c9\u03c3\u03c4\u03b9\u03ba\u03ce\u03bd \u03c4\u03b5\u03c3\u03c4 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b5\u03c5\u03bb\u03bf\u03b3\u03b9\u03ac \u03c4\u03c9\u03bd \u03c0\u03b9\u03b8\u03ae\u03ba\u03c9\u03bd (mpox) \u03bf \u03a0\u03b1\u03b3\u03ba\u03cc\u03c3\u03bc\u03b9\u03bf\u03c2 \u039f\u03c1\u03b3\u03b1\u03bd\u03b9\u03c3\u03bc\u03cc\u03c2 \u03a5\u03b3\u03b5\u03af\u03b1\u03c2 (\u03a0\u039f\u03a5) \u03c3\u03c4\u03bf \u03c0\u03bb\u03b1\u03af\u03c3\u03b9\u03bf \u03c4\u03b7\u03c2 \u03b4\u03b9\u03b1\u03b4\u03b9\u03ba\u03b1\u03c3\u03af\u03b1\u03c2 \u03c4\u03bf\u03c5 Emergency Use Listing (EUL). \u03a4\u03bf EUL \u03c4\u03bf\u03c5\u2026 \u03a0\u039f\u03a5: \u0388\u03c1\u03c7\u03bf\u03bd\u03c4\u03b1\u03b9 \u03bd\u03ad\u03b5\u03c2 \u03b4\u03b9\u03b1\u03b3\u03bd\u03c9\u03c3\u03c4\u03b9\u03ba\u03ad\u03c2 \u03b5\u03be\u03b5\u03c4\u03ac\u03c3\u03b5\u03b9\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd\u2026",
+      "url": "https://www.naftemporiki.gr/health/1812454/poy-erchontai-nees-diagnostikes-exetaseis-gia-tin-eylogia-ton-pithikon/",
+      "urlToImage": "https://www.naftemporiki.gr/wp-content/uploads/2022/05/1866440.jpeg",
+      "publishedAt": "2024-10-31 07:32:24",
+      "content": "(mpox) () Emergency Use Listing (EUL). EUL , , (LMIC). (PCR), DNA , mpox. Xpert Mpox, PCR Cepheid EUL , 25 . GeneXpert. Xpert Mpox 40 . , , PCR DNA clade II. GeneXpert , . PCR, cobas MPXV, Ro\u2026 [+257 chars]",
+      "retrievedAt": "2024-11-01 19:05:45.633917",
+      "internal_id": "a529e0909decc60c5c8c8763e30d06b36b3b79a8639fc404e96d299ef67631a4",
+      "publishedAtLabel": "Oct 31"
+    },
     {
       "id": 15102,
       "query": [
@@ -28023,258 +28690,6 @@
       "content": "A case of whooping cough resulted in the cancellation of a college football game between South Dakota and Portland State on Saturday, officials said. Whooping cough, caused by the pertussis bacteria\u2026 [+2883 chars]",
       "retrievedAt": "2024-09-17 07:05:42.747855",
       "internal_id": "0c590179def01532f443007af4df0ec4a928bde7a8f6ab4616fcdc112aa11ecb",
-      "publishedAtLabel": "Sep 15"
-    },
-    {
-      "id": 13545,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Economictimes.com",
-      "author": null,
-      "title": "Rx, world can't afford a relapse",
-      "description": "The Covid-19 pandemic has highlighted the need for global cooperation to address future pandemics. A study by AirAffinity reveals that diseases like measles, polio, and tuberculosis are resurging globally due to reduced immunity, disrupted vaccination program\u2026",
-      "url": "https://m.economictimes.com/opinion/et-editorial/rx-world-cant-afford-a-relapse/articleshow/113373311.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-113373377,width-1200,height-630,imgsize-97308,overlay-economictimes/photo.jpg",
-      "publishedAt": "2024-09-15 18:12:48",
-      "content": "The Covid-19 pandemic alerted the world about the need for multilateral and plurilateral networks to tackle the next 'major pandemic'. According to a recent study by disease-forecasting firm AirAffin\u2026 [+1549 chars]",
-      "retrievedAt": "2024-09-16 19:05:41.758735",
-      "internal_id": "5f6bc2a9a6698d3c9aa8bedf7e2527badcf1b969b4fcf50c5aef1d58aaeecc34",
-      "publishedAtLabel": "Sep 15"
-    },
-    {
-      "id": 13546,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Sapo.pt",
-      "author": "Ana Sofia Neto",
-      "title": "Cientistas alertam para o risco da Dengue afetar os destinos de f\u00e9rias da Europa",
-      "description": "Pela primeira vez, os cientistas conseguem mapear com exatid\u00e3o os locais onde a febre da Dengue \u00e9 suscet\u00edvel de surgir, e identificaram os destinos de f\u00e9rias da Europa em risco. A Dengue \u00e9 uma...",
-      "url": "https://pplware.sapo.pt/ciencia/cientistas-alertam-para-o-risco-da-dengue-afetar-os-destinos-de-ferias-mais-populares-da-europa/",
-      "urlToImage": "https://pplware.sapo.pt/wp-content/uploads/2024/09/dengue00.jpg",
-      "publishedAt": "2024-09-15 17:30:13",
-      "content": "Pela primeira vez, os cientistas conseguem mapear com exatid\u00e3o os locais onde a febre da Dengue \u00e9 suscet\u00edvel de surgir, e identificaram os destinos de f\u00e9rias da Europa em risco. A Dengue \u00e9 uma doen\u00e7\u2026 [+2339 chars]",
-      "retrievedAt": "2024-09-16 19:05:42.626441",
-      "internal_id": "14bf1d5124ef18da858533be1cbba4a5fbd69376ab7981ae34bb74ce060120eb",
-      "publishedAtLabel": "Sep 15"
-    },
-    {
-      "id": 13547,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "taz.de",
-      "author": "Claudius Pr\u00f6\u00dfer",
-      "title": "Tigerm\u00fccken n Berlin: Gekommen, um zu stechen",
-      "description": "Tigerm\u00fccken sind aus Berlin nicht mehr wegzudenken. \u00dcbertragen k\u00f6nnen sie gef\u00e4hrliche Viruskrankheiten wie das Denguefieber.",
-      "url": "https://taz.de/Tigermuecken-n-Berlin/!6034020/",
-      "urlToImage": "https://taz.de/picture/7244421/948/36487673-1.jpeg",
-      "publishedAt": "2024-09-15 16:00:00",
-      "content": "Tigerm\u00fccken sind aus Berlin nicht mehr wegzudenken. \u00dcbertragen k\u00f6nnen sie gef\u00e4hrliche Viruskrankheiten wie das Denguefieber. M\u00fccke tigert herum Foto: websubstance Berlintaz | Kennen Sie die sichers\u2026 [+6265 chars]",
-      "retrievedAt": "2024-09-16 19:05:42.722382",
-      "internal_id": "416f29ec17926970a338f8f4d2a389932e1f8ccc59f3b29e75bdce3bdaff67c6",
-      "publishedAtLabel": "Sep 15"
-    },
-    {
-      "id": 13548,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "taz.de",
-      "author": "Claudius Pr\u00f6\u00dfer",
-      "title": "Tigerm\u00fccken in Berlin: Gekommen, um zu stechen",
-      "description": "Tigerm\u00fccken sind aus Berlin nicht mehr wegzudenken. \u00dcbertragen k\u00f6nnen sie gef\u00e4hrliche Viruskrankheiten wie das Denguefieber.",
-      "url": "https://taz.de/Tigermuecken-in-Berlin/!6034020/",
-      "urlToImage": "https://taz.de/picture/7244421/948/36487673-1.jpeg",
-      "publishedAt": "2024-09-15 16:00:00",
-      "content": "Tigerm\u00fccken sind aus Berlin nicht mehr wegzudenken. \u00dcbertragen k\u00f6nnen sie gef\u00e4hrliche Viruskrankheiten wie das Denguefieber. M\u00fccke tigert herum Foto: websubstance Berlintaz | Kennen Sie die sichers\u2026 [+6265 chars]",
-      "retrievedAt": "2024-09-16 19:05:42.738251",
-      "internal_id": "ed941d0c6a467d7e3360de7e87dd1a255479cc8ac0452107c226f186ab513e00",
-      "publishedAtLabel": "Sep 15"
-    },
-    {
-      "id": 13626,
-      "query": [
-        "mpox"
-      ],
-      "source_id": "globo",
-      "source_name": "Globo",
-      "author": null,
-      "title": "Mundo ultrapassa 100 mil casos de Mpox desde 2022, diz OMS",
-      "description": "O Brasil \u00e9 o segundo pa\u00eds com mais casos O mundo r...",
-      "url": "https://valor.globo.com/mundo/noticia/2024/09/15/mundo-ultrapassa-100-mil-casos-de-mpox-desde-2022-diz-oms.ghtml",
-      "urlToImage": "https://s2-valor.glbimg.com/WKqjIOjheOXSIhOFLi-ti2Klj8g=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2024/X/p/ZkBQWfRs6l2Uxr25qJGA/ap24232649230110.jpg",
-      "publishedAt": "2024-09-15 15:59:34",
-      "content": "O mundo registrou 103.048 casos confirmados em laborat\u00f3rio de Mpox entre 1\u00ba de janeiro de 2022 e 31 de julho de 2024, afirmou a Organiza\u00e7\u00e3o Mundial de Sa\u00fade (OMS) em relat\u00f3rio divulgado esta semana. \u2026 [+2364 chars]",
-      "retrievedAt": "2024-09-18 07:06:19.455197",
-      "internal_id": "85a1de384938c8d021d8bfeeff85064aea7ebeb02a3949f62e3d383ec37456b9",
-      "publishedAtLabel": "Sep 15"
-    },
-    {
-      "id": 13553,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Haber7.com",
-      "author": "Ramazan Y\u0131ld\u0131z",
-      "title": "D\u00fcnya Sa\u011fl\u0131k \u00d6rg\u00fct\u00fc, M \u00e7i\u00e7e\u011fi vir\u00fcs\u00fcne kar\u015f\u0131 ilk a\u015f\u0131ya onay verdi",
-      "description": "D\u00fcnya Sa\u011fl\u0131k \u00d6rg\u00fct\u00fc (DS\u00d6), M \u00e7i\u00e7e\u011fi (mpox) vir\u00fcs\u00fcne kar\u015f\u0131 \u00f6n yeterlilik alan ilk a\u015f\u0131n\u0131n \"MVA-BN\" oldu\u011funu duyurdu.",
-      "url": "https://www.haber7.com/dunya/haber/3460286-dunya-saglik-orgutu-m-cicegi-virusune-karsi-ilk-asiya-onay-verdi",
-      "urlToImage": "https://i12.haber7.net//haber/haber7/og_image/2024/37/dunya_saglik_orgutu_m_cicegi_virusune_karsi_ilk_asiya_onay_verdi_1726408323_0026.jpg",
-      "publishedAt": "2024-09-15 13:53:00",
-      "content": "DS\u00d6'den yaplan yazl a\u00e7klamada, Bavarian Nordic'in \u00fcrettii \"MVA-BN asnn, DS\u00d6'n\u00fcn M \u00e7i\u00e7ei vir\u00fcs\u00fcne kar \u00f6n yeterlilik alan a listesine eklendii bildirildi. A\u00e7klamada, \u00f6n yeterlilik onaynn, acil ihtiya\u00e7\u2026 [+1949 chars]",
-      "retrievedAt": "2024-09-16 19:05:44.611538",
-      "internal_id": "36a4bd694a342e35567383e4c1a8402ce0d5bfb62da20d50d8b519a45a9b613e",
-      "publishedAtLabel": "Sep 15"
-    },
-    {
-      "id": 13543,
-      "query": [
-        "measles"
-      ],
-      "source_id": "cbs-news",
-      "source_name": "CBS News",
-      "author": "Jon LaPook",
-      "title": "Experts warn against vaccine skepticism",
-      "description": "Thanks to vaccinations, measles was declared eliminated in the U.S. in 2000. But measles cases are now back; one reason is that more families have exempted their children from routine immunizations than ever before.",
-      "url": "https://www.cbsnews.com/news/experts-warn-against-vaccine-skepticism/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/09/14/ce06c485-25e8-4639-87bf-582a439d061c/thumbnail/1200x630/96ae12ce63809b26812918a2f6079774/vaccine-needle-1280.jpg?v=d2d77bee90bcafa285fd6d60bd8b3612",
-      "publishedAt": "2024-09-15 13:12:00",
-      "content": "Thanks to all those shots in the arm, in the year 2000, measles in the United States was declared eliminated. But now, it's coming back, with measles cases reported from California to Vermont. CBS N\u2026 [+7708 chars]",
-      "retrievedAt": "2024-09-16 19:05:41.726065",
-      "internal_id": "db237af99532ae7b23b119c4a447ec498a7be9a4ca5390b5d33f07a2018fa7f3",
-      "publishedAtLabel": "Sep 15"
-    },
-    {
-      "id": 13544,
-      "query": [
-        "measles"
-      ],
-      "source_id": "cbs-news",
-      "source_name": "CBS News",
-      "author": "CBS News",
-      "title": "As measles cases increase, experts warn against vaccine skepticism",
-      "description": "Thanks to vaccinations, measles was declared eliminated in the United States in 2000. But measles cases are now back, and one big reason is that, across the country, more families have exempted their children from routine immunizations than ever before. CBS N\u2026",
-      "url": "https://www.cbsnews.com/video/as-measles-cases-increase-experts-warn-against-vaccine-skepticism/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/09/15/bbb743a9-26cd-4991-a726-7eaeb740320a/thumbnail/1200x630/e3a124ffc3052df7e939b8e8c86105af/measles-cases-reported-1920.jpg?v=d2d77bee90bcafa285fd6d60bd8b3612",
-      "publishedAt": "2024-09-15 13:11:00",
-      "content": "Watch CBS News Copyright \u00a92024 CBS Interactive Inc. All rights reserved. Get browser notifications for breaking news, live events, and exclusive reporting. Not NowTurn On",
-      "retrievedAt": "2024-09-16 19:05:41.747708",
-      "internal_id": "72bbced3cb01dab3205ee99a2882ee8f4b4244c11e8085ad42e0179a2c18dc5f",
-      "publishedAtLabel": "Sep 15"
-    },
-    {
-      "id": 13623,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Globalresearch.ca",
-      "author": "Dr. Suzanne Burdick",
-      "title": "WHO Approves First Mpox Vaccine for Adults in Africa \u2014 Then Says Babies Can Get It, Too, Despite No Clinical Trials",
-      "description": "The World Health Organization (WHO) today approved the first mpox vaccine for use in adults \u2014 and also said it can be used for babies, children, teens and pregnant women if they are in \u201coutbreak settings where the benefits of \u2026 The post WHO Approves First Mpo\u2026",
-      "url": "https://www.globalresearch.ca/who-approves-first-mpox-vaccine-adults-africa/5867875",
-      "urlToImage": "https://www.globalresearch.ca/wp-content/uploads/2024/09/monkeypox-vaccines.jpeg",
-      "publishedAt": "2024-09-15 13:09:02",
-      "content": "The World Health Organization (WHO) today approved the first mpox vaccine for use in adults and also said it can be used for babies, children, teens and pregnant women if they are in outbreak setting\u2026 [+6348 chars]",
-      "retrievedAt": "2024-09-18 07:06:19.438860",
-      "internal_id": "3842b95a42892ecde82c50dded645fe364d74015496274b2b380ab6da3281be1",
-      "publishedAtLabel": "Sep 15"
-    },
-    {
-      "id": 13627,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "YouTube",
-      "author": null,
-      "title": "How Mpox spread across the world: Global Health crises | Mpox virus explained in detailed",
-      "description": "How Mpox spread across the world: Global Health crises | Mpox virus explained in detailedyoutube.com",
-      "url": "https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D8oIZ49jSKaI",
-      "urlToImage": null,
-      "publishedAt": "2024-09-15 12:33:01",
-      "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more Remind me later",
-      "retrievedAt": "2024-09-18 07:06:19.460957",
-      "internal_id": "847c535a432aaacd2d03e3676ab61b2f75bdd5586023b0f837b9afe89baab51b",
-      "publishedAtLabel": "Sep 15"
-    },
-    {
-      "id": 13549,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "ansa",
-      "source_name": "ANSA.it",
-      "author": null,
-      "title": "Comune Fano, 'conclusa con successo prima fase disinfestazione'",
-      "description": "Conclusa \"con successo\" la prima fase delle operazioni di disinfestazione contro la zanzara tigre nel territorio comunale di Fano. Lo fa sapere il Comune a seguito degli 11 casi di virus Dengue che si sono registrati. (ANSA)",
-      "url": "https://www.ansa.it/marche/notizie/2024/09/15/comune-fano-conclusa-con-successo-prima-fase-disinfestazione_9723cd96-5fe6-410c-987d-5e8bf5e74676.html",
-      "urlToImage": "https://www.ansa.it/webimages/img_700/2024/9/15/ebf707455502da290ab2fb99f56fff66.jpg",
-      "publishedAt": "2024-09-15 12:14:00",
-      "content": "Conclusa \"con successo\" la prima fase delle operazioni di disinfestazione contro la zanzara tigre nel territorio comunale di Fano. Lo fa sapere il Comune a seguito degli 11 casi di virus Dengue ch\u2026 [+1559 chars]",
-      "retrievedAt": "2024-09-16 19:05:42.785148",
-      "internal_id": "ad397f1441c3847b67a0f47c7f146e329e9fe8166775033b2329a938241f437c",
-      "publishedAtLabel": "Sep 15"
-    },
-    {
-      "id": 13550,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Thecooldown.com",
-      "author": "Jeremiah Budin",
-      "title": "Pennsylvania health officials issue warning after 'breakbone fever' spreads across state lines: 'Get to the doctor right away'",
-      "description": "According to public health officials, New Jersey has had 56 cases of dengue fever this summer, Pennsylvania has had 31, and Delaware has had six.",
-      "url": "https://www.thecooldown.com/green-tech/dengue-fever-cases-new-jersey-pennsylvania-delaware/",
-      "urlToImage": "https://www.thecooldown.com/wp-content/uploads/2024/09/image-191.jpg",
-      "publishedAt": "2024-09-15 11:23:32",
-      "content": "Dengue fever has made its way into the United States, as travelers have brought the mosquito-borne disease home with them, WHYY reported. According to public health officials, New Jersey has had 56 \u2026 [+2392 chars]",
-      "retrievedAt": "2024-09-16 19:05:42.809301",
-      "internal_id": "1ef5c8406def70b2b3bd3c413596153a46c832f9547bb9243b06148bfec7e911",
-      "publishedAtLabel": "Sep 15"
-    },
-    {
-      "id": 13552,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Tass.ru",
-      "author": null,
-      "title": "\u0412 \u0410\u0444\u0440\u0438\u043a\u0435 \u0441 \u043d\u0430\u0447\u0430\u043b\u0430 \u0433\u043e\u0434\u0430 \u0432\u044b\u044f\u0432\u0438\u043b\u0438 \u0431\u043e\u043b\u0435\u0435 25 \u0442\u044b\u0441. \u0441\u043b\u0443\u0447\u0430\u0435\u0432 \u0441 \u043f\u043e\u0434\u043e\u0437\u0440\u0435\u043d\u0438\u0435\u043c \u043d\u0430 mpox",
-      "description": "\u0417\u0430\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u043e \u0431\u043e\u043b\u0435\u0435 720 \u043b\u0435\u0442\u0430\u043b\u044c\u043d\u044b\u0445 \u0438\u0441\u0445\u043e\u0434\u043e\u0432, \u043f\u0440\u0438\u0447\u0438\u043d\u043e\u0439 \u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u043c\u043e\u0433\u043b\u0430 \u0431\u044b\u0442\u044c \u044d\u0442\u0430 \u0431\u043e\u043b\u0435\u0437\u043d\u044c, \u0441\u043e\u043e\u0431\u0449\u0438\u043b\u0438 \u0432 \u0412\u041e\u0417",
-      "url": "https://tass.ru/obschestvo/21868517",
-      "urlToImage": "https://cdn-storage-media.tass.ru/thumb/ru/obschestvo/21868517?u=2024-09-15T08:20:40.921088",
-      "publishedAt": "2024-09-15 08:20:40",
-      "content": ", 15 . //. 25 . mpox ( ) 720 , , 1 8 2024 . (). , 25 093 mpox, 723 . () - 21 835 717 . , 8 5 789 , 32 . , , . , mpox . , . . 1 2022 31 2024 121 103 048 , 229 . 31 2022 (33 556). (11 841), (8 10\u2026 [+125 chars]",
-      "retrievedAt": "2024-09-16 19:05:44.548043",
-      "internal_id": "e84db60b081059cd2a7cbdc6b637b1c6e95781b69152e5ae0062972bc705c98c",
-      "publishedAtLabel": "Sep 15"
-    },
-    {
-      "id": 13551,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Khabarhub.com",
-      "author": "Khabarhub",
-      "title": "Dengue infection hits 9,500 nationwide, claims 6 lives",
-      "description": "KATHMANDU: Dengue fever has affected 9,486 people across the country from January to September 13, according to the Epidemiology and Disease Control Division (EDCD). In this period, the disease has resulted in six fatalities. Notably, in just the first 13 day\u2026",
-      "url": "https://english.khabarhub.com/2024/15/397656/",
-      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2022/09/Dengue-1.webp",
-      "publishedAt": "2024-09-15 07:35:17",
-      "content": "KATHMANDU: Dengue fever has affected 9,486 people across the country from January to September 13, according to the Epidemiology and Disease Control Division (EDCD). In this period, the disease has \u2026 [+421 chars]",
-      "retrievedAt": "2024-09-16 19:05:42.824101",
-      "internal_id": "3f11e565bc0ddd8fe3745c9da672f23cefcaa3a92272004fa1a4fe458eda93ab",
       "publishedAtLabel": "Sep 15"
     }
   ]

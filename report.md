@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 33
-- **Last harvest:** 2024-11-01 07:06
-- **Most recent article:** 2024-10-31 06:57:21
+- **New articles in last harvest:** 37
+- **Last harvest:** 2024-11-01 19:05
+- **Most recent article:** 2024-10-31 17:32:00
 
 ---
 
@@ -12,20 +12,20 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-38 | 24-39 | 24-40 | 24-41 | 24-42 | 24-43 | 24-44 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 137 | 122 | 128 | 42 | 81 | 131 | 47 | 688 |
-| dengue | 73 | 49 | 51 | 35 | 50 | 53 | 15 | 326 |
-| h5n1 | 17 | 35 | 50 | 10 | 18 | 12 | 35 | 177 |
-| malaria | 15 | 24 | 10 | 13 | 18 | 58 | 13 | 151 |
-| rabies | 12 | 25 | 30 | 6 | 7 | 3 | 6 | 89 |
+| mpox | 132 | 122 | 128 | 42 | 81 | 131 | 54 | 690 |
+| dengue | 67 | 49 | 51 | 35 | 50 | 53 | 20 | 325 |
+| h5n1 | 17 | 35 | 50 | 10 | 18 | 12 | 52 | 194 |
+| malaria | 15 | 24 | 10 | 13 | 18 | 58 | 14 | 152 |
+| rabies | 12 | 25 | 30 | 6 | 7 | 3 | 8 | 91 |
 | meningitis | 10 | 6 | 11 | 2 | 1 | 6 | 3 | 39 |
-| measles | 8 | 4 | 6 | 5 | 3 | 1 | 8 | 35 |
-| chikungunya | 9 | 3 | 3 | 3 | 4 | 7 | 1 | 30 |
-| zika | 8 | 1 | 3 | 4 | 6 | 6 | 1 | 29 |
+| measles | 5 | 4 | 6 | 5 | 3 | 1 | 8 | 32 |
+| chikungunya | 9 | 3 | 3 | 3 | 4 | 7 | 2 | 31 |
+| zika | 8 | 1 | 3 | 4 | 6 | 6 | 2 | 30 |
 | pertussis | 3 | 3 | 2 | 2 | 9 | 3 | 1 | 23 |
+| hpai | 0 | 2 | 2 | 1 | 2 | 2 | 4 | 13 |
+| typhoid | 0 | 4 | 1 | 0 | 1 | 3 | 4 | 13 |
 | leptospirosis | 1 | 5 | 4 | 1 | 1 | 0 | 1 | 13 |
-| typhoid | 0 | 4 | 1 | 0 | 1 | 3 | 3 | 12 |
-| hpai | 0 | 2 | 2 | 1 | 2 | 2 | 2 | 11 |
-| yersinia | 2 | 2 | 1 | 1 | 0 | 0 | 1 | 7 |
+| yersinia | 2 | 2 | 1 | 1 | 0 | 0 | 2 | 8 |
 | shigellosis | 0 | 0 | 1 | 3 | 0 | 1 | 0 | 5 |
 
 
@@ -35,13 +35,19 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-44 (zika)
 
+- [原田緑地の愛称が決定 豊中つばさ公園「ma-zika」](https://prtimes.jp/main/html/rd/p/000000751.000078420.html) (Prtimes.jp)
+
 - [Températures, humidité... Fin octobre, le moustique tigre continue de proliférer en France](https://www.bfmtv.com/societe/temperatures-humidite-fin-octobre-le-moustique-tigre-continue-de-proliferer-en-france_AV-202410280521.html) (BFMTV)
 
 ## 24-44 (yersinia)
 
+- [Ученые раскрыли причину гибели жителей Скандинавии в каменном веке](https://hi-tech.mail.ru/news/116893-uchenye-raskryli-prichinu-gibeli-zhitelej-skandina/) (Mail.ru)
+
 - [Los temibles tratamientos y remedios que usaban los sombríos médicos de la peste negra](https://www.huffingtonpost.es/sociedad/los-temibles-tratamientos-remedios-usaban-sombrios-medicos-peste-negra-hpe1.html) (Huffingtonpost.es)
 
 ## 24-44 (typhoid)
+
+- [From acute to persistent infection: revealing phylogenomic variations in Salmonella Agona](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012679) (Plos.org)
 
 - [Film Based on OREGON TRAIL in Development at Apple](https://nerdist.com/article/oregon-trail-movie-apple-original-film/) (Nerdist)
 
@@ -50,6 +56,10 @@ Source: [News API](https://newsapi.org/)
 - [What raises the risk of Typhoid among children living in crowded areas](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/what-raises-the-risk-of-typhoid-among-children-living-in-crowded-areas/articleshow/114660592.cms) (The Times of India)
 
 ## 24-44 (rabies)
+
+- [Rabid raccoon confirmed in Ashford, health dept. says](https://www.wtvy.com/2024/10/31/first-case-rabies-confirmed-houston-county-2/) (WTVY, Dothan)
+
+- [Spatiotemporal Distribution of Human Rabies and Identification of Predominant Risk Factors in China from 2004 to 2020](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012557) (Plos.org)
 
 - [Apocalypse Z The Beginning of the End 2024 1080p WEB H264-SCENE](https://post.rlsbb.cc/apocalypse-z-the-beginning-of-the-end-2024-1080p-web-h264-scene/) (Rlsbb.cc)
 
@@ -68,6 +78,20 @@ Source: [News API](https://newsapi.org/)
 - ['Looked Like a Cold': Mom Who Lost Baby to Whooping Cough Has Plea for US](https://www.newsweek.com/looked-like-cold-mom-lost-baby-whooping-cough-plea-1976115) (Newsweek)
 
 ## 24-44 (mpox)
+
+- [África registra más de 48.000 casos y 1.048 muertes por mpox en 19 países](https://www.montevideo.com.uy/Salud/Africa-registra-mas-de-48-000-casos-y-1-048-muertes-por-mpox-en-19-paises-uc905071) (Montevideo.com.uy)
+
+- [Mpox: Reino Unido detecta caso da nova variante pela primeira vez](https://veja.abril.com.br/saude/mpox-reino-unido-detecta-caso-da-nova-variante-pela-primeira-vez) (Abril.com.br)
+
+- [High alert issued after first case of dangerous mpox strain confirmed in UK](https://www.independent.ie/irish-news/high-alert-issued-after-first-case-of-dangerous-mpox-strain-confirmed-in-uk/a1059595076.html) (Independent.ie)
+
+- [UK confirms first case of clade Ib mpox](https://www.bmj.com/content/387/bmj.q2406) (The BMJ)
+
+- [Doctor reveals symptoms of ‘horrendous’ disease detected in UK for first time that left patient ‘unable to more or eat’](https://www.ladbible.com/news/health/uk-mpox-symptoms-clade-1b-variant-123483-20241031) (LADbible)
+
+- [على الخريطة.. تعرف على الدول التي سجلت ظهور السلالة الجديدة من جدري القرود](https://www.aljazeera.net/health/2024/10/31/%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d8%ae%d8%b1%d9%8a%d8%b7%d8%a9-%d8%aa%d8%b9%d8%b1%d9%81-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d8%af%d9%88%d9%84-%d8%a7%d9%84%d8%aa%d9%8a-%d8%b3%d8%ac%d9%84%d8%aa) (Aljazeera.net)
+
+- [ΠΟΥ: Έρχονται νέες διαγνωστικές εξετάσεις για την ευλογιά των πιθήκων](https://www.naftemporiki.gr/health/1812454/poy-erchontai-nees-diagnostikes-exetaseis-gia-tin-eylogia-ton-pithikon/) (Naftemporiki.gr)
 
 - [Reino Unido confirma primeiro caso da nova variante da mpox “clade 1b”](https://valor.globo.com/mundo/noticia/2024/10/30/reino-unido-confirma-primeiro-caso-da-nova-variante-da-mpox-clade-1b.ghtml) (Globo)
 
@@ -191,6 +215,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-44 (malaria)
 
+- [Recurrence patterns and evolution of submicroscopic and asymptomatic Plasmodium vivax infections in malaria-endemic areas of the Peruvian Amazon](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012566) (Plos.org)
+
 - [No more bugging: how Egypt became certified malaria-free](https://theweek.com/health/egypt-certified-malaria-free-WHO) (The Week Magazine)
 
 - [Old drug, new discovery: Scientists find novel use for ancient malaria remedy](https://scopeblog.stanford.edu/2024/10/30/cardiac-fibrosis-malaria-drug-ancient-origins/) (Stanford.edu)
@@ -223,11 +249,49 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-44 (hpai)
 
+- [Helport AI Launches on Google Cloud Marketplace, Redefining Intelligent Solutions for Global Businesses](https://www.globenewswire.com/news-release/2024/10/31/2972931/0/en/Helport-AI-Launches-on-Google-Cloud-Marketplace-Redefining-Intelligent-Solutions-for-Global-Businesses.html) (GlobeNewswire)
+
+- [Federal and State Veterinary Agencies Share Update on HPAI Detections in Oregon Backyard Farm, Including First H5N1 Detections in Swine (Animal and Plant Health Inspection Service)](https://www.memeorandum.com/241031/p6) (Memeorandum.com)
+
 - [First H5N1 Detections in Swine](https://www.aphis.usda.gov/news/agency-announcements/federal-state-veterinary-agencies-share-update-hpai-detections-oregon) (Usda.gov)
 
 - [Genetic and pathogenic potential of highly pathogenic avian influenza H5N8 viruses from live bird markets in Egypt in avian and mammalian models](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0312134) (Plos.org)
 
 ## 24-44 (h5n1)
+
+- [Erster H5N1-Fall beim Schwein: Wächst die Vogelgrippe-Gefahr für den Menschen?](https://www.n-tv.de/wissen/Waechst-die-Vogelgrippe-Gefahr-fuer-den-Menschen-article25328117.html) (N-tv.de)
+
+- [H5N1 Detected in Pig Highlights the Risk of Bird Flu Mixing with Seasonal Flu](https://www.scientificamerican.com/article/h5n1-detected-in-pig-highlights-the-risk-of-bird-flu-mixing-with-seasonal/) (Scientific American)
+
+- [Experts Claim Bird Flu Could Mix With The Flu And Become “Deadlier”](https://www.shtfplan.com/member-exclusive/experts-claim-bird-flu-could-mix-with-the-flu-and-become-deadlier) (Shtfplan.com)
+
+- [Primul porc depistat pozitiv cu gripă aviară. Motivul pentru care acest caz stârnește îngrijorare](https://adevarul.ro/stiri-externe/sua/primul-porc-depistat-pozitiv-cu-gripa-aviara-2398544.html) (Adevarul.ro)
+
+- [Primul caz de gripă aviară la un porc, în SUA. Ferma, plasată sub carantină](https://www.mediafax.ro/externe/primul-caz-de-gripa-aviara-la-un-porc-in-sua-ferma-plasata-sub-carantina-22532099) (Mediafax.ro)
+
+- [Bird flu was detected in a pig, and it could be a tipping point threatening more human transmission](https://www.businessinsider.com/first-pig-h5n1-bird-flu-possible-human-outbreak-risk-2024-10) (Business Insider)
+
+- [Federal and State Veterinary Agencies Share Update on HPAI Detections in Oregon Backyard Farm, Including First H5N1 Detections in Swine (Animal and Plant Health Inspection Service)](https://www.memeorandum.com/241031/p6) (Memeorandum.com)
+
+- [ΗΠΑ: Για πρώτη φορά, ο ιός της γρίπης των πτηνών εντοπίζεται σε εκτρεφόμενο χοίρο](https://www.alphafreepress.gr/2024/10/31/kosmos/ipa-gia-proti-fora-o-ios-tis-gripis-ton-ptinon-entopizetai-se-ektrefomeno-xoiro/) (Alphafreepress.gr)
+
+- [Zaniepokojenie w USA. Wykryli "pierwszy taki przypadek"](https://wydarzenia.interia.pl/zagranica/news-zaniepokojenie-w-usa-wykryli-pierwszy-taki-przypadek,nId,7847281) (Interia.pl)
+
+- [First pig infected with H5N1 bird flu recorded in the US](https://www.politico.eu/article/first-pig-infected-with-h5n1-bird-flu-recorded-in-the-us/) (POLITICO.eu)
+
+- [Erster Fall von Vogelgrippe bei Schwein in USA](https://www.welt.de/wissenschaft/article254277162/Gefluegelpest-Erster-Fall-von-Vogelgrippe-bei-Schwein-in-USA.html) (DIE WELT)
+
+- [Angst vor Mutationen wächst: Erstmals Schwein mit Vogelgrippe infiziert](https://www.n-tv.de/wissen/Erstmals-Schwein-mit-Vogelgrippe-infiziert-article25327805.html) (N-tv.de)
+
+- [Der Erreger ist im Schwein angekommen](https://www.faz.net/aktuell/wissen/leben-gene/vogelgrippe-in-schwein-nachgewiesen-warum-experten-alarmiert-sind-110081013.html) (Faz.net)
+
+- [가금류 고병원성 조류인플루엔자 첫 발생…인체감염 예방조치 및 감시 강화](https://zdnet.co.kr/view/?no=20241031171717) (Zdnet.co.kr)
+
+- [Χοίρος στο Όρεγκον μολύνθηκε από τη γρίπη των πτηνών](https://www.newsit.gr/kosmos/ipa-xoiros-sto-oregkon-molynthike-apo-ti-gripi-ton-ptinon/4221678/) (Newsit.gr)
+
+- [Eerste geval van vogelgriep bij varken vastgesteld in de Verenigde Staten](https://www.hbvl.be/cnt/dmf20241031_92818440) (Hbvl.be)
+
+- [US-Farm unter Quarantäne gestellt - Erster Fall von Vogelgrippe bei Schwein](https://www.bild.de/leben-wissen/erster-fall-schwein-auf-us-farm-positiv-auf-vogelgrippe-getestet-672324d6f7653a077c0e8857) (Bild)
 
 - [USA: Erster Fall von Vogelgrippevirus H5N1 bei einem Schwein](https://www.diepresse.com/19023486/usa-erster-fall-von-vogelgrippevirus-h5n1-bei-einem-schwein) (Diepresse.com)
 
@@ -301,6 +365,16 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-44 (dengue)
 
+- [Dengue fever cases rise to 6,800 in US amid 2 new infections in Los Angeles: CDC](https://abcnews.go.com/Health/2-locally-acquired-dengue-cases-reported-los-angeles/story?id=115346777) (ABC News)
+
+- [Mi bitácora con dengue: Así fueron los peores ocho días que he vivido](https://www.nacion.com/revista-dominical/mi-bitacora-con-dengue-asi-fueron-los-peores-ocho/4D7BRUNFRNFKZG3JMRNWEFW2QE/story/) (Nacion.com)
+
+- [B cell receptor dependent enhancement of dengue virus infection](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012683) (Plos.org)
+
+- [GDF vai nomear mais agentes para reforçar combate à dengue](https://www.metropoles.com/distrito-federal/gdf-vai-nomear-mais-agentes-para-reforcar-combate-a-dengue) (Metropoles.com)
+
+- [Si sospecha que tiene dengue evite estos medicamentos](https://www.nacion.com/el-pais/salud/si-sospecha-que-tiene-dengue-evite-estos/7DMTN5HIYJA3HALZQHUVFPQ7JE/story/) (Nacion.com)
+
 - [Number of rare local dengue cases ticks up in Los Angeles County](https://abcnews.go.com/Health/number-rare-local-dengue-cases-ticks-los-angeles/story?id=115338061) (ABC News)
 
 - [Guerrero baja al cuarto lugar en incidencia del dengue](https://www.milenio.com/estados/guerrero-baja-cuarto-ligar-incidencia-dengue-prevencion) (Milenio)
@@ -332,6 +406,8 @@ Source: [News API](https://newsapi.org/)
 - [El lado amable (y real) de los mosquitos](https://www.lavozdegalicia.es/noticia/vigo/2024/10/27/lado-amable-real-mosquitos/0003_202410V27C6992.htm) (Lavozdegalicia.es)
 
 ## 24-44 (chikungunya)
+
+- [A change in circulating chikungunya virus variant impacts Aedes aegypti vector competence and spatiotemporal distribution of disease in Malaysia](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012632) (Plos.org)
 
 - [Températures, humidité... Fin octobre, le moustique tigre continue de proliférer en France](https://www.bfmtv.com/societe/temperatures-humidite-fin-octobre-le-moustique-tigre-continue-de-proliferer-en-france_AV-202410280521.html) (BFMTV)
 
@@ -3203,16 +3279,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Mpox: mundo ultrapassa marca de 100 mil casos, diz OMS](https://brasil.perfil.com/saude/mpox-mundo-ultrapassa-marca-de-100-mil-casos-diz-oms.phtml) (Perfil.com)
 
-- [Mundo ultrapassa 100 mil casos de Mpox desde 2022, diz OMS](https://valor.globo.com/mundo/noticia/2024/09/15/mundo-ultrapassa-100-mil-casos-de-mpox-desde-2022-diz-oms.ghtml) (Globo)
-
-- [Dünya Sağlık Örgütü, M çiçeği virüsüne karşı ilk aşıya onay verdi](https://www.haber7.com/dunya/haber/3460286-dunya-saglik-orgutu-m-cicegi-virusune-karsi-ilk-asiya-onay-verdi) (Haber7.com)
-
-- [WHO Approves First Mpox Vaccine for Adults in Africa — Then Says Babies Can Get It, Too, Despite No Clinical Trials](https://www.globalresearch.ca/who-approves-first-mpox-vaccine-adults-africa/5867875) (Globalresearch.ca)
-
-- [How Mpox spread across the world: Global Health crises | Mpox virus explained in detailed](https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D8oIZ49jSKaI) (YouTube)
-
-- [В Африке с начала года выявили более 25 тыс. случаев с подозрением на mpox](https://tass.ru/obschestvo/21868517) (Tass.ru)
-
 ## 24-38 (meningitis)
 
 - [meningitis pediatric health nursing kmu BSN 5th semester](https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DeQU9Gvyhec0) (YouTube)
@@ -3246,12 +3312,6 @@ Source: [News API](https://newsapi.org/)
 - [Children receiving 'life-saving' vaccines at lowest level for more than a decade](https://news.sky.com/story/children-receiving-life-saving-vaccines-at-lowest-level-for-more-than-a-decade-13216708) (Sky.com)
 
 - [Multifaceted activation of STING axis upon Nipah and measles virus-induced syncytia formation](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012569) (Plos.org)
-
-- [Rx, world can't afford a relapse](https://m.economictimes.com/opinion/et-editorial/rx-world-cant-afford-a-relapse/articleshow/113373311.cms) (Economictimes.com)
-
-- [Experts warn against vaccine skepticism](https://www.cbsnews.com/news/experts-warn-against-vaccine-skepticism/) (CBS News)
-
-- [As measles cases increase, experts warn against vaccine skepticism](https://www.cbsnews.com/video/as-measles-cases-increase-experts-warn-against-vaccine-skepticism/) (CBS News)
 
 ## 24-38 (malaria)
 
@@ -3460,18 +3520,6 @@ Source: [News API](https://newsapi.org/)
 - [दिल्लीवालो सावधान! फिर डराने लगा डेंगू, 24 घंटे में दो मरीजों की मौत](https://navbharattimes.indiatimes.com/metro/delhi/other-news/delhi-dengue-cases-increased-two-people-died/articleshow/113383493.cms) (The Times of India)
 
 - [Rahul Vaidya shares health update about his and wife Disha Parmar's recovery from dengue; says, ‘We had the worst 7 days of our lives'](https://timesofindia.indiatimes.com/tv/news/hindi/rahul-vaidya-shares-health-update-about-his-and-wife-disha-parmars-recovery-from-dengue-says-we-had-the-worst-7-days-of-our-lives/articleshow/113382111.cms) (The Times of India)
-
-- [Cientistas alertam para o risco da Dengue afetar os destinos de férias da Europa](https://pplware.sapo.pt/ciencia/cientistas-alertam-para-o-risco-da-dengue-afetar-os-destinos-de-ferias-mais-populares-da-europa/) (Sapo.pt)
-
-- [Tigermücken n Berlin: Gekommen, um zu stechen](https://taz.de/Tigermuecken-n-Berlin/!6034020/) (taz.de)
-
-- [Tigermücken in Berlin: Gekommen, um zu stechen](https://taz.de/Tigermuecken-in-Berlin/!6034020/) (taz.de)
-
-- [Comune Fano, 'conclusa con successo prima fase disinfestazione'](https://www.ansa.it/marche/notizie/2024/09/15/comune-fano-conclusa-con-successo-prima-fase-disinfestazione_9723cd96-5fe6-410c-987d-5e8bf5e74676.html) (ANSA.it)
-
-- [Pennsylvania health officials issue warning after 'breakbone fever' spreads across state lines: 'Get to the doctor right away'](https://www.thecooldown.com/green-tech/dengue-fever-cases-new-jersey-pennsylvania-delaware/) (Thecooldown.com)
-
-- [Dengue infection hits 9,500 nationwide, claims 6 lives](https://english.khabarhub.com/2024/15/397656/) (Khabarhub.com)
 
 ## 24-38 (chikungunya)
 
