@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 20
-- **Last harvest:** 2024-11-02 07:06
-- **Most recent article:** 2024-11-01 06:48:26
+- **New articles in last harvest:** 12
+- **Last harvest:** 2024-11-02 19:05
+- **Most recent article:** 2024-11-01 18:30:27
 
 ---
 
@@ -12,20 +12,20 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-38 | 24-39 | 24-40 | 24-41 | 24-42 | 24-43 | 24-44 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 137 | 122 | 128 | 42 | 81 | 131 | 63 | 704 |
-| dengue | 73 | 49 | 51 | 35 | 50 | 53 | 24 | 335 |
+| mpox | 132 | 122 | 128 | 42 | 81 | 131 | 66 | 702 |
+| dengue | 67 | 49 | 51 | 35 | 50 | 53 | 26 | 331 |
 | h5n1 | 17 | 35 | 50 | 10 | 18 | 12 | 56 | 198 |
-| malaria | 15 | 24 | 10 | 13 | 18 | 58 | 14 | 152 |
+| malaria | 15 | 24 | 10 | 13 | 18 | 58 | 15 | 153 |
 | rabies | 12 | 25 | 30 | 6 | 7 | 3 | 8 | 91 |
 | meningitis | 10 | 6 | 11 | 2 | 1 | 6 | 3 | 39 |
-| measles | 8 | 4 | 6 | 5 | 3 | 1 | 9 | 36 |
+| measles | 5 | 4 | 6 | 5 | 3 | 1 | 12 | 36 |
+| zika | 8 | 1 | 3 | 4 | 6 | 6 | 3 | 31 |
 | chikungunya | 9 | 3 | 3 | 3 | 4 | 7 | 2 | 31 |
-| zika | 8 | 1 | 3 | 4 | 6 | 6 | 2 | 30 |
 | pertussis | 3 | 3 | 2 | 2 | 9 | 3 | 1 | 23 |
-| hpai | 0 | 2 | 2 | 1 | 2 | 2 | 6 | 15 |
+| hpai | 0 | 2 | 2 | 1 | 2 | 2 | 7 | 16 |
 | typhoid | 0 | 4 | 1 | 0 | 1 | 3 | 4 | 13 |
 | leptospirosis | 1 | 5 | 4 | 1 | 1 | 0 | 1 | 13 |
-| yersinia | 2 | 2 | 1 | 1 | 0 | 0 | 2 | 8 |
+| yersinia | 2 | 2 | 1 | 1 | 0 | 0 | 3 | 9 |
 | shigellosis | 0 | 0 | 1 | 3 | 0 | 1 | 0 | 5 |
 
 
@@ -35,11 +35,15 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-44 (zika)
 
+- [Zika Virus Therapeutics Market Research 2024-2030: Growing Use of RNA-based Therapeutics in Treatment Expands Opportunities](https://www.globenewswire.com/news-release/2024/11/01/2973192/28124/en/Zika-Virus-Therapeutics-Market-Research-2024-2030-Growing-Use-of-RNA-based-Therapeutics-in-Treatment-Expands-Opportunities.html) (GlobeNewswire)
+
 - [原田緑地の愛称が決定 豊中つばさ公園「ma-zika」](https://prtimes.jp/main/html/rd/p/000000751.000078420.html) (Prtimes.jp)
 
 - [Températures, humidité... Fin octobre, le moustique tigre continue de proliférer en France](https://www.bfmtv.com/societe/temperatures-humidite-fin-octobre-le-moustique-tigre-continue-de-proliferer-en-france_AV-202410280521.html) (BFMTV)
 
 ## 24-44 (yersinia)
+
+- [New Genetic Research Explores the Role of Plague in the Neolithic Population Decline of Scandinavia](https://www.anthropology.net/p/new-genetic-research-explores-the) (Anthropology.net)
 
 - [Ученые раскрыли причину гибели жителей Скандинавии в каменном веке](https://hi-tech.mail.ru/news/116893-uchenye-raskryli-prichinu-gibeli-zhitelej-skandina/) (Mail.ru)
 
@@ -78,6 +82,12 @@ Source: [News API](https://newsapi.org/)
 - ['Looked Like a Cold': Mom Who Lost Baby to Whooping Cough Has Plea for US](https://www.newsweek.com/looked-like-cold-mom-lost-baby-whooping-cough-plea-1976115) (Newsweek)
 
 ## 24-44 (mpox)
+
+- [La OMS distribuye 900.000 dosis de vacunas contra la mpox en nueve países africanos](https://www.montevideo.com.uy/Salud/La-OMS-distribuye-900-000-dosis-de-vacunas-contra-la-mpox-en-nueve-paises-africanos-uc905191) (Montevideo.com.uy)
+
+- [OMS vai distribuir 900 mil vacinas contra a Mpox em seis países africanos](https://observador.pt/2024/11/01/oms-vai-distribuir-900-mil-vacinas-contra-a-mpox-em-seis-paises-africanos/) (Observador.pt)
+
+- [В ВОЗ предупредили о возможном появлении новых опасных вариантов mpox](https://tass.ru/obschestvo/22292099) (Tass.ru)
 
 - [Mpox not under control as deadly variant found in the UK: Will winter fuel the next epidemic?](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/mpox-not-under-control-as-deadly-variant-found-in-the-uk-will-winter-fuel-the-next-epidemic/articleshow/114838209.cms) (The Times of India)
 
@@ -215,6 +225,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-44 (measles)
 
+- [Public Health declares measles outbreak in western New Brunswick](https://www.cbc.ca/news/canada/new-brunswick/measles-oubreak-western-new-brunswick-1.7371053) (CBC News)
+
+- [On Health Care, the Choice Is Progress or Indescribable Nightmare](https://prospect.org/health/2024-11-01-health-care-progress-indescribable-nightmare/) (The American Prospect)
+
+- [Trump Unleashing RFK Jr. on Public Health Would Be a Disaster](https://newrepublic.com/article/187774/trump-rfk-jr-hhs-anti-vax) (The New Republic)
+
 - [Vaccination clinics planned after 2 more measles cases confirmed in western N.B.](https://www.cbc.ca/news/canada/new-brunswick/two-measles-cases-confirmed-nb-1.7369903) (CBC News)
 
 - [Trump Promises to Make Measles Great Again By Giving RFK Jr. ‘Control’ of Public Health Agencies](https://www.newsbreak.com/share/3655299262092-trump-promises-to-make-measles-great-again-by-giving-rfk-jr-control-of-public-health-agencies?s=a2&amp;share_destination_id=NTk3MTE4NzYtMTczMDMzNzI3MjM3MQ%3D%3D&amp;pd=042XmmHs&amp;hl=en_US&amp;send_time=1730337272&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2224.43.1%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_rank_exp_24q4-v1%2Cns_foryou_blend_exp_24q4-v9%2Cns_local_strategy_24q4_exp-v18%2Cns_pushv1-v7%2Cns_foryou_model_exp_24q4-v8%2Cns_foryou_recall_exp_24q4-v7) (Newsbreak.com)
@@ -234,6 +250,8 @@ Source: [News API](https://newsapi.org/)
 - [Film Based on OREGON TRAIL in Development at Apple](https://nerdist.com/article/oregon-trail-movie-apple-original-film/) (Nerdist)
 
 ## 24-44 (malaria)
+
+- [Coverage and determinants of Intermittent Preventive Treatment in pregnancy (IPTp) in Cameroon, Guinea, Mali, and Nigeria](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0313087) (Plos.org)
 
 - [Recurrence patterns and evolution of submicroscopic and asymptomatic Plasmodium vivax infections in malaria-endemic areas of the Peruvian Amazon](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012566) (Plos.org)
 
@@ -268,6 +286,8 @@ Source: [News API](https://newsapi.org/)
 - [Mixed Leptospira infections in domestic animals from a rural community with high leptospirosis endemicity](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0312556) (Plos.org)
 
 ## 24-44 (hpai)
+
+- [Helport AI Reports Fiscal Full Year 2024 Financial Results](https://www.globenewswire.com/news-release/2024/11/01/2973499/0/en/Helport-AI-Reports-Fiscal-Full-Year-2024-Financial-Results.html) (GlobeNewswire)
 
 - [U.S. to Begin Bulk Testing of Raw Milk for Bird Flu Virus](https://legalinsurrection.com/2024/10/u-s-to-begin-bulk-testing-of-raw-milk-for-bird-flu-virus/) (Legalinsurrection.com)
 
@@ -396,6 +416,10 @@ Source: [News API](https://newsapi.org/)
 - [Exclusive: Emails Reveal How Health Departments Struggle To Track Human Cases of Bird Flu](https://www.nakedcapitalism.com/2024/10/exclusive-emails-reveal-how-health-departments-struggle-to-track-human-cases-of-bird-flu.html) (Nakedcapitalism.com)
 
 ## 24-44 (dengue)
+
+- [Bueiros servem de berçário para larvas do Aedes aegypti e outras 200 espécies](https://veja.abril.com.br/ciencia/bueiros-servem-de-bercario-para-larvas-do-aedes-aegypti-e-outras-200-especies) (Abril.com.br)
+
+- [“Gran diferencia”: así trabaja el nuevo monitor de datos semanales con el que Salud apuesta a mitigar brotes de dengue](https://www.lanacion.com.ar/sociedad/gran-diferencia-asi-trabaja-el-nuevo-monitor-de-datos-en-tiempo-real-con-el-que-salud-apuesta-a-nid01112024/) (La Nacion)
 
 - [Climate Shifts And Urbanisation Drive Nepal Dengue Surge](https://www.ibtimes.com/climate-shifts-urbanisation-drive-nepal-dengue-surge-3749089) (International Business Times)
 
@@ -3319,16 +3343,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Mpox: mundo ultrapassa marca de 100 mil casos, diz OMS](https://brasil.perfil.com/saude/mpox-mundo-ultrapassa-marca-de-100-mil-casos-diz-oms.phtml) (Perfil.com)
 
-- [Mundo ultrapassa 100 mil casos de Mpox desde 2022, diz OMS](https://valor.globo.com/mundo/noticia/2024/09/15/mundo-ultrapassa-100-mil-casos-de-mpox-desde-2022-diz-oms.ghtml) (Globo)
-
-- [Dünya Sağlık Örgütü, M çiçeği virüsüne karşı ilk aşıya onay verdi](https://www.haber7.com/dunya/haber/3460286-dunya-saglik-orgutu-m-cicegi-virusune-karsi-ilk-asiya-onay-verdi) (Haber7.com)
-
-- [WHO Approves First Mpox Vaccine for Adults in Africa — Then Says Babies Can Get It, Too, Despite No Clinical Trials](https://www.globalresearch.ca/who-approves-first-mpox-vaccine-adults-africa/5867875) (Globalresearch.ca)
-
-- [How Mpox spread across the world: Global Health crises | Mpox virus explained in detailed](https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D8oIZ49jSKaI) (YouTube)
-
-- [В Африке с начала года выявили более 25 тыс. случаев с подозрением на mpox](https://tass.ru/obschestvo/21868517) (Tass.ru)
-
 ## 24-38 (meningitis)
 
 - [meningitis pediatric health nursing kmu BSN 5th semester](https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DeQU9Gvyhec0) (YouTube)
@@ -3362,12 +3376,6 @@ Source: [News API](https://newsapi.org/)
 - [Children receiving 'life-saving' vaccines at lowest level for more than a decade](https://news.sky.com/story/children-receiving-life-saving-vaccines-at-lowest-level-for-more-than-a-decade-13216708) (Sky.com)
 
 - [Multifaceted activation of STING axis upon Nipah and measles virus-induced syncytia formation](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012569) (Plos.org)
-
-- [Rx, world can't afford a relapse](https://m.economictimes.com/opinion/et-editorial/rx-world-cant-afford-a-relapse/articleshow/113373311.cms) (Economictimes.com)
-
-- [Experts warn against vaccine skepticism](https://www.cbsnews.com/news/experts-warn-against-vaccine-skepticism/) (CBS News)
-
-- [As measles cases increase, experts warn against vaccine skepticism](https://www.cbsnews.com/video/as-measles-cases-increase-experts-warn-against-vaccine-skepticism/) (CBS News)
 
 ## 24-38 (malaria)
 
@@ -3576,18 +3584,6 @@ Source: [News API](https://newsapi.org/)
 - [दिल्लीवालो सावधान! फिर डराने लगा डेंगू, 24 घंटे में दो मरीजों की मौत](https://navbharattimes.indiatimes.com/metro/delhi/other-news/delhi-dengue-cases-increased-two-people-died/articleshow/113383493.cms) (The Times of India)
 
 - [Rahul Vaidya shares health update about his and wife Disha Parmar's recovery from dengue; says, ‘We had the worst 7 days of our lives'](https://timesofindia.indiatimes.com/tv/news/hindi/rahul-vaidya-shares-health-update-about-his-and-wife-disha-parmars-recovery-from-dengue-says-we-had-the-worst-7-days-of-our-lives/articleshow/113382111.cms) (The Times of India)
-
-- [Cientistas alertam para o risco da Dengue afetar os destinos de férias da Europa](https://pplware.sapo.pt/ciencia/cientistas-alertam-para-o-risco-da-dengue-afetar-os-destinos-de-ferias-mais-populares-da-europa/) (Sapo.pt)
-
-- [Tigermücken n Berlin: Gekommen, um zu stechen](https://taz.de/Tigermuecken-n-Berlin/!6034020/) (taz.de)
-
-- [Tigermücken in Berlin: Gekommen, um zu stechen](https://taz.de/Tigermuecken-in-Berlin/!6034020/) (taz.de)
-
-- [Comune Fano, 'conclusa con successo prima fase disinfestazione'](https://www.ansa.it/marche/notizie/2024/09/15/comune-fano-conclusa-con-successo-prima-fase-disinfestazione_9723cd96-5fe6-410c-987d-5e8bf5e74676.html) (ANSA.it)
-
-- [Pennsylvania health officials issue warning after 'breakbone fever' spreads across state lines: 'Get to the doctor right away'](https://www.thecooldown.com/green-tech/dengue-fever-cases-new-jersey-pennsylvania-delaware/) (Thecooldown.com)
-
-- [Dengue infection hits 9,500 nationwide, claims 6 lives](https://english.khabarhub.com/2024/15/397656/) (Khabarhub.com)
 
 ## 24-38 (chikungunya)
 
