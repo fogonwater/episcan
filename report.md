@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 37
-- **Last harvest:** 2024-11-01 19:05
-- **Most recent article:** 2024-10-31 17:32:00
+- **New articles in last harvest:** 20
+- **Last harvest:** 2024-11-02 07:06
+- **Most recent article:** 2024-11-01 06:48:26
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-38 | 24-39 | 24-40 | 24-41 | 24-42 | 24-43 | 24-44 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 132 | 122 | 128 | 42 | 81 | 131 | 54 | 690 |
-| dengue | 67 | 49 | 51 | 35 | 50 | 53 | 20 | 325 |
-| h5n1 | 17 | 35 | 50 | 10 | 18 | 12 | 52 | 194 |
+| mpox | 137 | 122 | 128 | 42 | 81 | 131 | 63 | 704 |
+| dengue | 73 | 49 | 51 | 35 | 50 | 53 | 24 | 335 |
+| h5n1 | 17 | 35 | 50 | 10 | 18 | 12 | 56 | 198 |
 | malaria | 15 | 24 | 10 | 13 | 18 | 58 | 14 | 152 |
 | rabies | 12 | 25 | 30 | 6 | 7 | 3 | 8 | 91 |
 | meningitis | 10 | 6 | 11 | 2 | 1 | 6 | 3 | 39 |
-| measles | 5 | 4 | 6 | 5 | 3 | 1 | 8 | 32 |
+| measles | 8 | 4 | 6 | 5 | 3 | 1 | 9 | 36 |
 | chikungunya | 9 | 3 | 3 | 3 | 4 | 7 | 2 | 31 |
 | zika | 8 | 1 | 3 | 4 | 6 | 6 | 2 | 30 |
 | pertussis | 3 | 3 | 2 | 2 | 9 | 3 | 1 | 23 |
-| hpai | 0 | 2 | 2 | 1 | 2 | 2 | 4 | 13 |
+| hpai | 0 | 2 | 2 | 1 | 2 | 2 | 6 | 15 |
 | typhoid | 0 | 4 | 1 | 0 | 1 | 3 | 4 | 13 |
 | leptospirosis | 1 | 5 | 4 | 1 | 1 | 0 | 1 | 13 |
 | yersinia | 2 | 2 | 1 | 1 | 0 | 0 | 2 | 8 |
@@ -78,6 +78,24 @@ Source: [News API](https://newsapi.org/)
 - ['Looked Like a Cold': Mom Who Lost Baby to Whooping Cough Has Plea for US](https://www.newsweek.com/looked-like-cold-mom-lost-baby-whooping-cough-plea-1976115) (Newsweek)
 
 ## 24-44 (mpox)
+
+- [Mpox not under control as deadly variant found in the UK: Will winter fuel the next epidemic?](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/mpox-not-under-control-as-deadly-variant-found-in-the-uk-will-winter-fuel-the-next-epidemic/articleshow/114838209.cms) (The Times of India)
+
+- [Niebezpieczny wirus rozprzestrzenia się w Europie. Pojawił się w Wielkiej Brytanii](https://wiadomosci.gazeta.pl/wiadomosci/7,114881,31432445,who-wprowadzila-globalny-stan-zagrozenia-teraz-grozny-wirus.html) (Gazeta.pl)
+
+- [W Wielkiej Brytanii wykryto pierwszy przypadek nowego wariantu mpox](https://tvn24.pl/swiat/wielka-brytania-wykryto-pierwszy-przypadek-nowego-wariantu-mpox-klad-1b-st8161567) (Tvn24.pl)
+
+- [Monkeypox in the UK, and the lost Mayan city](https://www.thenakedscientists.com/podcasts/naked-scientists-podcast/monkeypox-uk-and-lost-mayan-city) (The Naked Scientists)
+
+- [Mpox is not under control, warns Africa CDC](https://economictimes.indiatimes.com/news/international/world-news/mpox-is-not-under-control-warns-africa-cdc/articleshow/114831611.cms) (The Times of India)
+
+- [В Африке число больных оспой обезьян увеличилось на 500%](https://www.ferra.ru/news/health/v-afrike-chislo-bolnykh-ospoi-obezyan-uvelichilos-na-500-01-11-2024.htm) (Ferra.ru)
+
+- [Casos de mpox no continente africano aumentam 500% em 2024](https://noticiabrasil.net.br/20241031/casos-de-mpox-no-continente-africano-aumentam-500-em-2024-37179520.html) (Noticiabrasil.net.br)
+
+- [Africa CDC warns mpox is not under control, appeals for resources](https://www.aljazeera.com/news/2024/10/31/africa-cdc-warns-mpox-is-not-under-control-appeals-for-resources) (Al Jazeera English)
+
+- [Situácia nie je pod kontrolou: Počet prípadov vírusu mpox v Afrike vzrástol o viac než 500 percent](https://spravy.pravda.sk/svet/clanok/729226-situacia-nie-je-pod-kontrolou-pocet-pripadov-virusu-mpox-v-afrike-vzrastol-o-viac-nez-500-percent/) (Pravda.sk)
 
 - [África registra más de 48.000 casos y 1.048 muertes por mpox en 19 países](https://www.montevideo.com.uy/Salud/Africa-registra-mas-de-48-000-casos-y-1-048-muertes-por-mpox-en-19-paises-uc905071) (Montevideo.com.uy)
 
@@ -197,6 +215,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-44 (measles)
 
+- [Vaccination clinics planned after 2 more measles cases confirmed in western N.B.](https://www.cbc.ca/news/canada/new-brunswick/two-measles-cases-confirmed-nb-1.7369903) (CBC News)
+
 - [Trump Promises to Make Measles Great Again By Giving RFK Jr. ‘Control’ of Public Health Agencies](https://www.newsbreak.com/share/3655299262092-trump-promises-to-make-measles-great-again-by-giving-rfk-jr-control-of-public-health-agencies?s=a2&amp;share_destination_id=NTk3MTE4NzYtMTczMDMzNzI3MjM3MQ%3D%3D&amp;pd=042XmmHs&amp;hl=en_US&amp;send_time=1730337272&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2224.43.1%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_rank_exp_24q4-v1%2Cns_foryou_blend_exp_24q4-v9%2Cns_local_strategy_24q4_exp-v18%2Cns_pushv1-v7%2Cns_foryou_model_exp_24q4-v8%2Cns_foryou_recall_exp_24q4-v7) (Newsbreak.com)
 
 - [RFK Jr., Whose Misinformation Helped Cause a Measles Outbreak That Killed 83 People, Says Trump Has Promised Him “Control” of “Public Health Agencies”](https://www.vanityfair.com/news/story/rfk-jr-says-trump-has-promised-him-control-of-public-health-agencies) (Vanity Fair)
@@ -249,6 +269,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-44 (hpai)
 
+- [U.S. to Begin Bulk Testing of Raw Milk for Bird Flu Virus](https://legalinsurrection.com/2024/10/u-s-to-begin-bulk-testing-of-raw-milk-for-bird-flu-virus/) (Legalinsurrection.com)
+
+- [Can I get bird flu from eating eggs? Drinking milk? We asked a disease expert](https://www.bostonherald.com/2024/10/31/can-i-get-bird-flu-from-eating-eggs-drinking-milk-we-asked-a-california-disease-expert/) (Boston Herald)
+
 - [Helport AI Launches on Google Cloud Marketplace, Redefining Intelligent Solutions for Global Businesses](https://www.globenewswire.com/news-release/2024/10/31/2972931/0/en/Helport-AI-Launches-on-Google-Cloud-Marketplace-Redefining-Intelligent-Solutions-for-Global-Businesses.html) (GlobeNewswire)
 
 - [Federal and State Veterinary Agencies Share Update on HPAI Detections in Oregon Backyard Farm, Including First H5N1 Detections in Swine (Animal and Plant Health Inspection Service)](https://www.memeorandum.com/241031/p6) (Memeorandum.com)
@@ -258,6 +282,14 @@ Source: [News API](https://newsapi.org/)
 - [Genetic and pathogenic potential of highly pathogenic avian influenza H5N8 viruses from live bird markets in Egypt in avian and mammalian models](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0312134) (Plos.org)
 
 ## 24-44 (h5n1)
+
+- [U.S. confirms H5N1 bird flu in swine for first time](https://www.globalsecurity.org/security/library/news/2024/10/sec-241031-pdo01.htm) (Globalsecurity.org)
+
+- [Συναγερμός για τη γρίπη των πτηνών στην Ελλάδα μετά το κρούσμα στη Βουλγαρία - «Θανατηφόρος, αλλά μεταδίδεται δύσκολα»](https://www.newsit.gr/ellada/gripi-ton-ptinon-synagermos-stin-ellada-meta-to-krousma-sti-voulgaria-thanatiforos-alla-metadidetai-dyskola/4222701/) (Newsit.gr)
+
+- [Птичий грипп H5N1 впервые обнаружили у свиньи в США](http://russian.people.com.cn/n3/2024/1101/c31520-20236404.html) (People.com.cn)
+
+- [Pig infected with bird flu for first time in US, health officials confirm](https://www.foxnews.com/health/pig-infected-bird-flu-first-time-us-health-officials-confirm) (Fox News)
 
 - [Erster H5N1-Fall beim Schwein: Wächst die Vogelgrippe-Gefahr für den Menschen?](https://www.n-tv.de/wissen/Waechst-die-Vogelgrippe-Gefahr-fuer-den-Menschen-article25328117.html) (N-tv.de)
 
@@ -364,6 +396,14 @@ Source: [News API](https://newsapi.org/)
 - [Exclusive: Emails Reveal How Health Departments Struggle To Track Human Cases of Bird Flu](https://www.nakedcapitalism.com/2024/10/exclusive-emails-reveal-how-health-departments-struggle-to-track-human-cases-of-bird-flu.html) (Nakedcapitalism.com)
 
 ## 24-44 (dengue)
+
+- [Climate Shifts And Urbanisation Drive Nepal Dengue Surge](https://www.ibtimes.com/climate-shifts-urbanisation-drive-nepal-dengue-surge-3749089) (International Business Times)
+
+- [Climate shifts and urbanisation drive Nepal dengue surge](https://www.digitaljournal.com/world/climate-shifts-and-urbanisation-drive-nepal-dengue-surge/article) (Digital Journal)
+
+- [Sitiados por el dengue](https://www.nacion.com/opinion/columnistas/sitiados-por-el-dengue/BQ7WC7MOQJHOXCTZP6G5ROPMQE/story/) (Nacion.com)
+
+- [Nicolás Kreplak confirmó el primer caso de dengue en la provincia de Buenos Aires](https://www.lanacion.com.ar/politica/nicolas-kreplak-confirmo-el-primer-caso-de-dengue-en-la-provincia-de-buenos-aires-nid31102024/) (La Nacion)
 
 - [Dengue fever cases rise to 6,800 in US amid 2 new infections in Los Angeles: CDC](https://abcnews.go.com/Health/2-locally-acquired-dengue-cases-reported-los-angeles/story?id=115346777) (ABC News)
 
@@ -3279,6 +3319,16 @@ Source: [News API](https://newsapi.org/)
 
 - [Mpox: mundo ultrapassa marca de 100 mil casos, diz OMS](https://brasil.perfil.com/saude/mpox-mundo-ultrapassa-marca-de-100-mil-casos-diz-oms.phtml) (Perfil.com)
 
+- [Mundo ultrapassa 100 mil casos de Mpox desde 2022, diz OMS](https://valor.globo.com/mundo/noticia/2024/09/15/mundo-ultrapassa-100-mil-casos-de-mpox-desde-2022-diz-oms.ghtml) (Globo)
+
+- [Dünya Sağlık Örgütü, M çiçeği virüsüne karşı ilk aşıya onay verdi](https://www.haber7.com/dunya/haber/3460286-dunya-saglik-orgutu-m-cicegi-virusune-karsi-ilk-asiya-onay-verdi) (Haber7.com)
+
+- [WHO Approves First Mpox Vaccine for Adults in Africa — Then Says Babies Can Get It, Too, Despite No Clinical Trials](https://www.globalresearch.ca/who-approves-first-mpox-vaccine-adults-africa/5867875) (Globalresearch.ca)
+
+- [How Mpox spread across the world: Global Health crises | Mpox virus explained in detailed](https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D8oIZ49jSKaI) (YouTube)
+
+- [В Африке с начала года выявили более 25 тыс. случаев с подозрением на mpox](https://tass.ru/obschestvo/21868517) (Tass.ru)
+
 ## 24-38 (meningitis)
 
 - [meningitis pediatric health nursing kmu BSN 5th semester](https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DeQU9Gvyhec0) (YouTube)
@@ -3312,6 +3362,12 @@ Source: [News API](https://newsapi.org/)
 - [Children receiving 'life-saving' vaccines at lowest level for more than a decade](https://news.sky.com/story/children-receiving-life-saving-vaccines-at-lowest-level-for-more-than-a-decade-13216708) (Sky.com)
 
 - [Multifaceted activation of STING axis upon Nipah and measles virus-induced syncytia formation](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012569) (Plos.org)
+
+- [Rx, world can't afford a relapse](https://m.economictimes.com/opinion/et-editorial/rx-world-cant-afford-a-relapse/articleshow/113373311.cms) (Economictimes.com)
+
+- [Experts warn against vaccine skepticism](https://www.cbsnews.com/news/experts-warn-against-vaccine-skepticism/) (CBS News)
+
+- [As measles cases increase, experts warn against vaccine skepticism](https://www.cbsnews.com/video/as-measles-cases-increase-experts-warn-against-vaccine-skepticism/) (CBS News)
 
 ## 24-38 (malaria)
 
@@ -3520,6 +3576,18 @@ Source: [News API](https://newsapi.org/)
 - [दिल्लीवालो सावधान! फिर डराने लगा डेंगू, 24 घंटे में दो मरीजों की मौत](https://navbharattimes.indiatimes.com/metro/delhi/other-news/delhi-dengue-cases-increased-two-people-died/articleshow/113383493.cms) (The Times of India)
 
 - [Rahul Vaidya shares health update about his and wife Disha Parmar's recovery from dengue; says, ‘We had the worst 7 days of our lives'](https://timesofindia.indiatimes.com/tv/news/hindi/rahul-vaidya-shares-health-update-about-his-and-wife-disha-parmars-recovery-from-dengue-says-we-had-the-worst-7-days-of-our-lives/articleshow/113382111.cms) (The Times of India)
+
+- [Cientistas alertam para o risco da Dengue afetar os destinos de férias da Europa](https://pplware.sapo.pt/ciencia/cientistas-alertam-para-o-risco-da-dengue-afetar-os-destinos-de-ferias-mais-populares-da-europa/) (Sapo.pt)
+
+- [Tigermücken n Berlin: Gekommen, um zu stechen](https://taz.de/Tigermuecken-n-Berlin/!6034020/) (taz.de)
+
+- [Tigermücken in Berlin: Gekommen, um zu stechen](https://taz.de/Tigermuecken-in-Berlin/!6034020/) (taz.de)
+
+- [Comune Fano, 'conclusa con successo prima fase disinfestazione'](https://www.ansa.it/marche/notizie/2024/09/15/comune-fano-conclusa-con-successo-prima-fase-disinfestazione_9723cd96-5fe6-410c-987d-5e8bf5e74676.html) (ANSA.it)
+
+- [Pennsylvania health officials issue warning after 'breakbone fever' spreads across state lines: 'Get to the doctor right away'](https://www.thecooldown.com/green-tech/dengue-fever-cases-new-jersey-pennsylvania-delaware/) (Thecooldown.com)
+
+- [Dengue infection hits 9,500 nationwide, claims 6 lives](https://english.khabarhub.com/2024/15/397656/) (Khabarhub.com)
 
 ## 24-38 (chikungunya)
 
