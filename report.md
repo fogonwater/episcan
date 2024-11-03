@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 10
-- **Last harvest:** 2024-11-03 07:06
-- **Most recent article:** 2024-11-02 06:47:14
+- **New articles in last harvest:** 11
+- **Last harvest:** 2024-11-03 19:05
+- **Most recent article:** 2024-11-02 18:38:56
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-39 | 24-40 | 24-41 | 24-42 | 24-43 | 24-44 | Total |
 |--|-|-|-|-|-|-|-|
-| mpox | 120 | 128 | 42 | 81 | 131 | 70 | 572 |
-| dengue | 47 | 51 | 35 | 50 | 53 | 27 | 263 |
-| h5n1 | 35 | 50 | 10 | 18 | 12 | 59 | 184 |
-| malaria | 24 | 10 | 13 | 18 | 58 | 15 | 138 |
+| mpox | 120 | 128 | 42 | 81 | 131 | 72 | 574 |
+| dengue | 44 | 51 | 35 | 50 | 53 | 30 | 263 |
+| h5n1 | 33 | 50 | 10 | 18 | 12 | 61 | 184 |
+| malaria | 24 | 10 | 13 | 18 | 58 | 16 | 139 |
 | rabies | 25 | 30 | 6 | 7 | 3 | 10 | 81 |
-| measles | 4 | 6 | 5 | 3 | 1 | 12 | 31 |
+| measles | 4 | 6 | 5 | 3 | 1 | 13 | 32 |
 | meningitis | 6 | 11 | 2 | 1 | 6 | 3 | 29 |
 | zika | 1 | 3 | 4 | 6 | 6 | 3 | 23 |
 | chikungunya | 3 | 3 | 3 | 4 | 7 | 2 | 22 |
-| pertussis | 2 | 2 | 2 | 9 | 3 | 1 | 19 |
-| hpai | 2 | 2 | 1 | 2 | 2 | 7 | 16 |
+| pertussis | 1 | 2 | 2 | 9 | 3 | 1 | 18 |
+| leptospirosis | 5 | 4 | 1 | 1 | 0 | 3 | 14 |
+| hpai | 0 | 2 | 1 | 2 | 2 | 7 | 14 |
 | typhoid | 4 | 1 | 0 | 1 | 3 | 4 | 13 |
-| leptospirosis | 5 | 4 | 1 | 1 | 0 | 1 | 12 |
 | yersinia | 2 | 1 | 1 | 0 | 0 | 3 | 7 |
 | shigellosis | 0 | 1 | 3 | 0 | 1 | 0 | 5 |
 
@@ -86,6 +86,10 @@ Source: [News API](https://newsapi.org/)
 - ['Looked Like a Cold': Mom Who Lost Baby to Whooping Cough Has Plea for US](https://www.newsweek.com/looked-like-cold-mom-lost-baby-whooping-cough-plea-1976115) (Newsweek)
 
 ## 24-44 (mpox)
+
+- [Suspected mpox patient tests negative](https://timesofindia.indiatimes.com/city/chennai/negative-test-results-for-suspected-mpox-patient-in-trichy/articleshow/114891102.cms) (The Times of India)
+
+- [A halálos vírus legsúlyosabb változata terjed Európában](https://www.portfolio.hu/gazdasag/20241102/a-halalos-virus-legsulyosabb-valtozata-terjed-europaban-720059) (Portfolio.hu)
 
 - [Роспотребнадзор заявил о минимальном риске распространения оспы обезьян в России](https://www.ferra.ru/news/health/rospotrebnadzor-zayavil-o-minimalnom-riske-rasprostraneniya-ospy-obezyan-v-rossii-02-11-2024.htm) (Ferra.ru)
 
@@ -237,6 +241,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-44 (measles)
 
+- [UNICEF to vaccinate 3.8m children against measles across northern states](https://punchng.com/unicef-to-vaccinate-3-8m-children-against-measles-across-northern-states/) (The Punch)
+
 - [Public Health declares measles outbreak in western New Brunswick](https://www.cbc.ca/news/canada/new-brunswick/measles-oubreak-western-new-brunswick-1.7371053) (CBC News)
 
 - [On Health Care, the Choice Is Progress or Indescribable Nightmare](https://prospect.org/health/2024-11-01-health-care-progress-indescribable-nightmare/) (The American Prospect)
@@ -262,6 +268,8 @@ Source: [News API](https://newsapi.org/)
 - [Film Based on OREGON TRAIL in Development at Apple](https://nerdist.com/article/oregon-trail-movie-apple-original-film/) (Nerdist)
 
 ## 24-44 (malaria)
+
+- [R. Democrática del Congo incluye vacuna contra la malaria en calendario vacunal infantil](https://www.montevideo.com.uy/Salud/R-Democratica-del-Congo-incluye-vacuna-contra-la-malaria-en-calendario-vacunal-infantil-uc905277) (Montevideo.com.uy)
 
 - [Coverage and determinants of Intermittent Preventive Treatment in pregnancy (IPTp) in Cameroon, Guinea, Mali, and Nigeria](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0313087) (Plos.org)
 
@@ -295,6 +303,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-44 (leptospirosis)
 
+- [Martín-Moreno, catedrático de la UV: "A las 72 horas de la inundación se agravan los riesgos de infección, hay que poner medidas ya"](https://www.meneame.net/m/actualidad/martin-moreno-catedratico-uv-72-horas-inundacion-agravan-riesgos) (Meneame.net)
+
+- [Martín-Moreno, catedrático de la UV: "A las 72 horas de la inundación se agravan los riesgos de infección, hay que poner medidas ya"](https://www.eldiario.es/comunitat-valenciana/martin-moreno-catedratico-uv-72-horas-inundacion-agravan-riesgos-infeccion-hay-poner-medidas_1_11786567.html) (Eldiario.es)
+
 - [Mixed Leptospira infections in domestic animals from a rural community with high leptospirosis endemicity](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0312556) (Plos.org)
 
 ## 24-44 (hpai)
@@ -314,6 +326,10 @@ Source: [News API](https://newsapi.org/)
 - [Genetic and pathogenic potential of highly pathogenic avian influenza H5N8 viruses from live bird markets in Egypt in avian and mammalian models](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0312134) (Plos.org)
 
 ## 24-44 (h5n1)
+
+- [Konya'da kuş gribi tespit edildi, Orman Bakanlığı açıklama yaptı: Hastalık 'münferit' bir vakadan ibarettir](https://anlatilaninotesi.com.tr/20241102/konyada-kus-gribi-tespit-edildi-orman-bakanligi-aciklama-yapti-hastalik-munferit-bir-vakadan-1089959700.html) (Anlatilaninotesi.com.tr)
+
+- [راسوها عامل پاندمی آنفلوانزای پرندگان](https://www.entekhab.ir/fa/news/829853/راسوها-عامل-پاندمی-آنفلوانزای-پرندگان) (Entekhab.ir)
 
 - [راسوها عامل پاندمی آنفولانزای پرندگان](https://www.asriran.com/fa/news/1010124/راسوها-عامل-پاندمی-آنفولانزای-پرندگان) (Asriran.com)
 
@@ -434,6 +450,12 @@ Source: [News API](https://newsapi.org/)
 - [Exclusive: Emails Reveal How Health Departments Struggle To Track Human Cases of Bird Flu](https://www.nakedcapitalism.com/2024/10/exclusive-emails-reveal-how-health-departments-struggle-to-track-human-cases-of-bird-flu.html) (Nakedcapitalism.com)
 
 ## 24-44 (dengue)
+
+- [Dengue: altri due casi a Ortona, parte disinfestazione](https://www.ansa.it/abruzzo/notizie/2024/11/02/dengue-altri-due-casi-a-ortona-parte-disinfestazione_747bac95-899a-4eda-817a-9393959df0e0.html) (ANSA.it)
+
+- [Un caldo de cultivo para enfermedades: agua estancada, saneamientos rotos y cadáveres en descomposición](https://www.alimente.elconfidencial.com/bienestar/2024-11-02/caldo-de-cultivo-perfecto-para-las-enfermedades-dana_3995728/) (Elconfidencial.com)
+
+- [Cegah Perkembangan Penyakit DBD, Babinsa Jambaringin Bersama Puskesmas Penaguan Lakukan Fogging](https://suaraindonesia-news.com/cegah-perkembangan-penyakit-dbd-babinsa-jambaringin-bersama-puskesmas-penaguan-lakukan-fogging/) (Suaraindonesia-news.com)
 
 - [Färre denguefall – tack vare nya myggor](https://www.aftonbladet.se/nyheter/a/bmQyG3/farre-denguefall-tack-vare-nya-myggor) (Aftonbladet.se)
 
@@ -2517,8 +2539,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Whooping Cough Cases Surge](https://www.newser.com/story/356862/whooping-cough-cases-surge.html) (Newser)
 
-- [What to do if you or your kid gets COVID-19 this fall](https://www.cbc.ca/news/canada/ottawa/what-to-do-if-you-or-your-kid-gets-covid-19-this-fall-1.7328679) (CBC News)
-
 ## 24-39 (mpox)
 
 - [Six morts du virus de Marburg, similaire à Ebola, au Rwanda](https://www.20minutes.fr/sante/4112589-20240928-six-morts-virus-marburg-similaire-ebola-rwanda) (20 Minutes)
@@ -2847,12 +2867,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Enhancement of clinical signs in C3H/HeJ mice vaccinated with a highly immunogenic Leptospira methyl-accepting chemotaxis protein following challenge](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012155) (Plos.org)
 
-## 24-39 (hpai)
-
-- [Исследование: Птицы-пираты ускоряют распространение смертельного птичьего гриппа](https://vfokuse.mail.ru/article/issledovanie-pticy-piraty-uskoryayut-rasprostranenie-smertelnogo-ptichego-grippa-62903241/) (Mail.ru)
-
-- ["Пернатые пираты" ускоряют распространение смертельного птичьего гриппа, выяснили ученые](https://www.gazeta.ru/science/news/2024/09/22/23979301.shtml) (Gazeta.ru)
-
 ## 24-39 (h5n1)
 
 - [SUA confirmă primul caz de gripă aviară fără provenienţă animală cunoscută](https://www.mediafax.ro/sanatate/sua-confirma-primul-caz-de-gripa-aviara-fara-provenienta-animala-cunoscuta-22498397) (Mediafax.ro)
@@ -2920,10 +2934,6 @@ Source: [News API](https://newsapi.org/)
 - [Can our stockpiles of Tamiflu protect against a bird flu pandemic?](https://undark.org/2024/09/23/h5n1-old-drug-protect-against-new-pandemic/) (Undark Magazine)
 
 - [Otro contacto del paciente de Missouri con síntomas de gripe aviar hace temer el contagio entre humanos](https://www.elespanol.com/ciencia/salud/20240923/contacto-paciente-missouri-sintomas-gripe-aviar-hace-temer-contagio-humanos/888161276_0.html) (Elespanol.com)
-
-- [Исследование: Птицы-пираты ускоряют распространение смертельного птичьего гриппа](https://vfokuse.mail.ru/article/issledovanie-pticy-piraty-uskoryayut-rasprostranenie-smertelnogo-ptichego-grippa-62903241/) (Mail.ru)
-
-- ["Пернатые пираты" ускоряют распространение смертельного птичьего гриппа, выяснили ученые](https://www.gazeta.ru/science/news/2024/09/22/23979301.shtml) (Gazeta.ru)
 
 ## 24-39 (dengue)
 
@@ -3014,12 +3024,6 @@ Source: [News API](https://newsapi.org/)
 - [Health D-G: Drop in dengue cases during from Sept 8 to 14, no deaths reported](https://www.malaymail.com/news/malaysia/2024/09/23/health-d-g-drop-in-dengue-cases-from-sept-8-to-14-no-deaths-reported/151342) (Malay Mail)
 
 - [Kenali Tanda dan Gejala Demam Berdarah Dengue, Ada 3 Fase Dalam 7 Hari](https://www.liputan6.com/health/read/5708649/kenali-tanda-dan-gejala-demam-berdarah-dengue-ada-3-fase-dalam-7-hari) (Liputan6.com)
-
-- [Dengue scare: Docs suggest keeping eye on kids’ hydration level](https://timesofindia.indiatimes.com/city/bengaluru/dengue-alert-parents-urged-to-monitor-childrens-hydration-amid-rising-cases/articleshow/113577463.cms) (The Times of India)
-
-- [Pharmacies see 25% rise inqueries for dengue drugs](https://timesofindia.indiatimes.com/city/bengaluru/pharmacies-see-25-rise-inqueries-for-dengue-drugs/articleshow/113577327.cms) (The Times of India)
-
-- [Manipur health minister seeks public participation to combat rising dengue cases](https://www.indiatodayne.in/manipur/story/manipur-health-minister-seeks-public-participation-to-combat-rising-dengue-cases-1096640-2024-09-22) (Indiatodayne.in)
 
 ## 24-39 (chikungunya)
 

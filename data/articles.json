@@ -1,8 +1,206 @@
 {
-  "last_updated": "2024-11-03 07:06",
-  "count_articles_total": 1361,
-  "count_articles_new": 10,
+  "last_updated": "2024-11-03 19:05",
+  "count_articles_total": 1366,
+  "count_articles_new": 11,
   "articles": [
+    {
+      "id": 15216,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TNN",
+      "title": "Suspected mpox patient tests negative",
+      "description": "A suspected mpox patient in Trichy has tested negative for the virus after fleeing from a hospital. The man from Sharjah was initially screened due to symptoms resembling mpox but was later found to have chickenpox. Health officials confirm there is no danger\u2026",
+      "url": "https://timesofindia.indiatimes.com/city/chennai/negative-test-results-for-suspected-mpox-patient-in-trichy/articleshow/114891102.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-114891575,width-1070,height-580,imgsize-22422,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-11-02 18:38:56",
+      "content": "9 animals that live in rainforests",
+      "retrievedAt": "2024-11-03 19:05:54.893422",
+      "internal_id": "38e9e5ad1c4e858e494daa211f87d41c4bcf9512d46dca071b9b65d1e645a3de",
+      "publishedAtLabel": "Nov 2"
+    },
+    {
+      "id": 15214,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "R. Democr\u00e1tica del Congo incluye vacuna contra la malaria en calendario vacunal infantil",
+      "description": "El pa\u00eds africano recibi\u00f3 en junio un lote de 693.500 dosis de la vacuna antipal\u00fadica, destinado a vacunar ni\u00f1os de entre 6 y 23 meses.",
+      "url": "https://www.montevideo.com.uy/Salud/R-Democratica-del-Congo-incluye-vacuna-contra-la-malaria-en-calendario-vacunal-infantil-uc905277",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202208/_W933_80/812124.jpg",
+      "publishedAt": "2024-11-02 17:53:00",
+      "content": "La Rep\u00fablica Democr\u00e1tica del Congo (RDC) incluy\u00f3 este jueves en el calendario vacunal infantil el f\u00e1rmaco contra la malaria, la primera causa de muerte en los ni\u00f1os congole\u00f1os, informaron las autorid\u2026 [+2690 chars]",
+      "retrievedAt": "2024-11-03 19:05:53.398621",
+      "internal_id": "d5b8ba456e133d9dd8b1d88cf8ebbc6d6d6d9ea75eaa4d0e110ec045349f6265",
+      "publishedAtLabel": "Nov 2"
+    },
+    {
+      "id": 15218,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Meneame.net",
+      "author": "ikipol",
+      "title": "Mart\u00edn-Moreno, catedr\u00e1tico de la UV: \"A las 72 horas de la inundaci\u00f3n se agravan los riesgos de infecci\u00f3n, hay que poner medidas ya\"",
+      "description": "Jos\u00e9 Mar\u00eda Mart\u00edn-Moreno, doctor en Epidemiolog\u00eda por Harvard, avisa de que en la zona de desastre pueden surgir hepatitis A o leptospirosis por consumir agua contaminada y tambi\u00e9n enfermedades transmitidas por mosquitos. Los voluntarios deben actuar \"bajo su\u2026",
+      "url": "https://www.meneame.net/m/actualidad/martin-moreno-catedratico-uv-72-horas-inundacion-agravan-riesgos",
+      "urlToImage": "https://www.meneame.net/backend/media?type=link&id=3995764&version=0&ts=1730570046&image.webp",
+      "publishedAt": "2024-11-02 17:40:39",
+      "content": "Ayer nadie llevaba mascarillas, nadie, ni sanitarios, ni ej\u00e9rcitoHoy tampoco \u00bfColapsamos ahora la sanidad?",
+      "retrievedAt": "2024-11-03 19:05:55.605591",
+      "internal_id": "49e9c7032c6711b66ddeb6eeff4cb579a8c188321d79e81bfd9f464d3e7e73a9",
+      "publishedAtLabel": "Nov 2"
+    },
+    {
+      "id": 15215,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Portfolio.hu",
+      "author": "Portfolio.hu",
+      "title": "A hal\u00e1los v\u00edrus legs\u00falyosabb v\u00e1ltozata terjed Eur\u00f3p\u00e1ban",
+      "description": "\u00dajabb orsz\u00e1gokban azonos\u00edtott\u00e1k a majomhiml\u0151 (mpox) vesz\u00e9lyesebb v\u00e1ltozat\u00e1t. A kl\u00e1d 1b v\u00e1ltozat s\u00falyosabb t\u00fcneteket produk\u00e1l \u00e9s magasabb a hal\u00e1loz\u00e1si ar\u00e1nya is, mint a kor\u00e1bban terjed\u0151 vari\u00e1nsnak. Megn\u00e9zt\u00fck, mit lehet tudni a v\u00edrusr\u00f3l, milyen t\u00fcneteket produk\u2026",
+      "url": "https://www.portfolio.hu/gazdasag/20241102/a-halalos-virus-legsulyosabb-valtozata-terjed-europaban-720059",
+      "urlToImage": "https://pcdn.hu/articles/images-xl/g/e/t/gettyimages-1404970422-betegseg-egeszsegugy-fertozes-genetika-innovacio-jarvany-kutatas-s-710619.jpg",
+      "publishedAt": "2024-11-02 16:00:00",
+      "content": "Az elm\u00falt hetekben t\u00f6bb orsz\u00e1gban is megjelent a majomhiml (mpox) hal\u00e1losabb v\u00e1ltozata, a kl\u00e1d 1b. N\u00e9metorsz\u00e1gban \u00e9s az Egyes\u00fclt Kir\u00e1lys\u00e1gban is azonos\u00edtott\u00e1k a v\u00edrust. Az Eg\u00e9szs\u00e9g\u00fcgyi Vil\u00e1gszervezet\u2026 [+1340 chars]",
+      "retrievedAt": "2024-11-03 19:05:54.877198",
+      "internal_id": "9baedb371898a4f4d1a2ff4be5f9a72f0f80bf2da6c8f2a4d1ececf4c6bcfc3a",
+      "publishedAtLabel": "Nov 2"
+    },
+    {
+      "id": 15212,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Dengue: altri due casi a Ortona, parte disinfestazione",
+      "description": "Altri due casi di Dengue sono stati segnalati a Ortona in contrada Feudo e in contrada Moro-Batteria. A Ortona, dallo scorso 5 settembre, i casi sono complessivamente 13 e sono stati registrati sia nel centro urbano che nelle contrade. (ANSA)",
+      "url": "https://www.ansa.it/abruzzo/notizie/2024/11/02/dengue-altri-due-casi-a-ortona-parte-disinfestazione_747bac95-899a-4eda-817a-9393959df0e0.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2024/6/4/cd69b5ddebf309d20c939f9246a8cc92.jpg",
+      "publishedAt": "2024-11-02 15:43:28",
+      "content": "Altri due casi di Dengue sono stati segnalati a Ortona in contrada Feudo e in contrada Moro-Batteria. A Ortona, dallo scorso 5 settembre, i casi sono complessivamente 13 e sono stati registrati si\u2026 [+1071 chars]",
+      "retrievedAt": "2024-11-03 19:05:52.444288",
+      "internal_id": "2a45be339b1a7c200f9e0a426bd132163695430faf513b39fb8c752d90fd9fd9",
+      "publishedAtLabel": "Nov 2"
+    },
+    {
+      "id": 15217,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Eldiario.es",
+      "author": "Raquel Ejerique",
+      "title": "Mart\u00edn-Moreno, catedr\u00e1tico de la UV: \"A las 72 horas de la inundaci\u00f3n se agravan los riesgos de infecci\u00f3n, hay que poner medidas ya\"",
+      "description": "Jos\u00e9 Mar\u00eda Mart\u00edn-Moreno, doctor en Epidemiolog\u00eda por Harvard, avisa de que en la zona de desastre pueden surgir hepatitis A o leptospirosis por consumir agua contaminada y tambi\u00e9n enfermedades transmitidas por mosquitos. Los voluntarios deben actuar \"bajo su\u2026",
+      "url": "https://www.eldiario.es/comunitat-valenciana/martin-moreno-catedratico-uv-72-horas-inundacion-agravan-riesgos-infeccion-hay-poner-medidas_1_11786567.html",
+      "urlToImage": "https://static.eldiario.es/clip/dcb994cb-e7aa-4a45-8192-e789cca73053_facebook-watermarked-aspect-ratio_default_0.jpg",
+      "publishedAt": "2024-11-02 15:43:15",
+      "content": "Tras la devastaci\u00f3n en la provincia de Valencia por las lluvias torrenciales y las inundaciones empiezan a aflorar otros riesgos relativos a tener aguas estancadas durante d\u00edas, fango y barro cubrien\u2026 [+11068 chars]",
+      "retrievedAt": "2024-11-03 19:05:55.598277",
+      "internal_id": "f58a5d521e2f223df2146e63bf414d17324a645471c663d5755aab74281cb937",
+      "publishedAtLabel": "Nov 2"
+    },
+    {
+      "id": 15211,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Elconfidencial.com",
+      "author": "Fran S\u00e1nchez Becerril",
+      "title": "Un caldo de cultivo para enfermedades: agua estancada, saneamientos rotos y cad\u00e1veres en descomposici\u00f3n",
+      "description": "Existen peligros invisibles que afectan a la salud de quienes intentan recuperar sus municipios y tambi\u00e9n a los que les ayudan. Agentes que van desde la proliferaci\u00f3n del mosquito del dengue a bacterias gastrointestinales",
+      "url": "https://www.alimente.elconfidencial.com/bienestar/2024-11-02/caldo-de-cultivo-perfecto-para-las-enfermedades-dana_3995728/",
+      "urlToImage": "https://images.ecestaticos.com/6beZkq4wzj5DWH3tDBu6I06B-9c=/0x0:2272x1515/600x315/filters:fill(white):format(jpg):quality(99):watermark(f.elconfidencial.com/file/57c/f73/0b4/57cf730b412ad7adb7151644bda336bd.png,0,275,1)/f.elconfidencial.com/original/e1e/fb4/c3d/e1efb4c3d497a2ff28ebf8a73a4215d1.jpg",
+      "publishedAt": "2024-11-02 12:13:00",
+      "content": "La DANA ha dejado un tr\u00e1gico balance de v\u00edctimas mortales y da\u00f1os materiales en numerosas localidades. D\u00edas despu\u00e9s se sigue tratando de localizar a las personas, mientras los ciudadanos tratan de li\u2026 [+4804 chars]",
+      "retrievedAt": "2024-11-03 19:05:52.412878",
+      "internal_id": "9d9c1ce5f3705ed989a65e4483fc3bafc5c5e4eb96e946401229e2bf2dfc107b",
+      "publishedAtLabel": "Nov 2"
+    },
+    {
+      "id": 15210,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Anlatilaninotesi.com.tr",
+      "author": "Sputnik T\u00fcrkiye",
+      "title": "Konya'da ku\u015f gribi tespit edildi, Orman Bakanl\u0131\u011f\u0131 a\u00e7\u0131klama yapt\u0131: Hastal\u0131k 'm\u00fcnferit' bir vakadan ibarettir",
+      "description": "Konya Meram'da yumurta \u00fcretim tesisinde tespit edilen ku\u015f gribi vakas\u0131yla ilgili Tar\u0131m ve Orman Bakanl\u0131\u011f\u0131 'm\u00fcnferit' a\u00e7\u0131klamas\u0131 yapt\u0131. Bakanl\u0131k, '\u00fclkemizde salg\u0131n olarak nitelendirilebilecek bir durum s\u00f6z konusu de\u011fildir' derken, enfekte olmu\u015f hayvanlardan el\u2026",
+      "url": "https://anlatilaninotesi.com.tr/20241102/konyada-kus-gribi-tespit-edildi-orman-bakanligi-aciklama-yapti-hastalik-munferit-bir-vakadan-1089959700.html",
+      "urlToImage": "https://cdn.img.anlatilaninotesi.com.tr/images/sharing/article/tur/1089959700.jpg?10260430241730548256",
+      "publishedAt": "2024-11-02 11:50:55",
+      "content": "\"letmeden alnan numuneler Konya Veteriner Kontrol Enstit\u00fc M\u00fcd\u00fcrl\u00fc\u00fcm\u00fcz uzman ekiplerince analize alnm ve yaplan testlerde Avian Influenza H5N1 (Ku Gribi) tespit edilmitir. D\u00fcnya Hayvan Sal \u00d6rg\u00fct\u00fc pren\u2026 [+912 chars]",
+      "retrievedAt": "2024-11-03 19:05:51.588783",
+      "internal_id": "2a4e7ffe90055b591117ff66327508be1bdbebb0383c5042d37fb852718c9009",
+      "publishedAtLabel": "Nov 2"
+    },
+    {
+      "id": 15208,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Umar Sani",
+      "title": "UNICEF to vaccinate 3.8m children against measles across northern states",
+      "description": "The United Nations Children\u2019s Fund has disclosed that no fewer than 3.8 million children will be vaccinated against measles across four northern states. The Health Officer at UNICEF\u2019s Bauchi Field Office, Patrick Akor, announced this at a press conference in \u2026",
+      "url": "https://punchng.com/unicef-to-vaccinate-3-8m-children-against-measles-across-northern-states/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2017/05/04112505/Unicef.png",
+      "publishedAt": "2024-11-02 10:25:44",
+      "content": "The United Nations Children\u2019s Fund has disclosed that no fewer than 3.8 million children will be vaccinated against measles across four northern states. The Health Officer at UNICEF\u2019s Bauchi Field O\u2026 [+2534 chars]",
+      "retrievedAt": "2024-11-03 19:05:50.243646",
+      "internal_id": "fe85eb710e505eb40b325c9bc2f4839436762f2ee4e6e654c6c6580d3db471ca",
+      "publishedAtLabel": "Nov 2"
+    },
+    {
+      "id": 15213,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Suaraindonesia-news.com",
+      "author": "admin",
+      "title": "Cegah Perkembangan Penyakit DBD, Babinsa Jambaringin Bersama Puskesmas Penaguan Lakukan Fogging",
+      "description": "PAMEKASAN, Sabtu (02/11) suaraindonesia-news.com \u2013 Untuk mencegah penyebaran... The post Cegah Perkembangan Penyakit DBD, Babinsa Jambaringin Bersama Puskesmas Penaguan Lakukan Fogging appeared first on Suara Indonesia.",
+      "url": "https://suaraindonesia-news.com/cegah-perkembangan-penyakit-dbd-babinsa-jambaringin-bersama-puskesmas-penaguan-lakukan-fogging/",
+      "urlToImage": "https://suaraindonesia-news.com/wp-content/uploads/2024/11/IMG_20241102_152132.jpg",
+      "publishedAt": "2024-11-02 08:26:04",
+      "content": "PAMEKASAN, Sabtu (02/11) suaraindonesia-news.com Untuk mencegah penyebaran penyakit Demam Berdarah Dengue (DBD) yang semakin meluas, Babinsa Desa Jambringin, Serda Nurrahman, berkolaborasi dengan tim\u2026 [+1969 chars]",
+      "retrievedAt": "2024-11-03 19:05:52.465971",
+      "internal_id": "2705f8ddd750de2e09daadc062ebb665b5681e6ecb39490abef7a8f13fd19c42",
+      "publishedAtLabel": "Nov 2"
+    },
+    {
+      "id": 15209,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Entekhab.ir",
+      "author": "info@entekhab.ir",
+      "title": "\u0631\u0627\u0633\u0648\u0647\u0627 \u0639\u0627\u0645\u0644 \u067e\u0627\u0646\u062f\u0645\u06cc \u0622\u0646\u0641\u0644\u0648\u0627\u0646\u0632\u0627\u06cc \u067e\u0631\u0646\u062f\u06af\u0627\u0646",
+      "description": "\u0631\u0627\u0633\u0648\u0647\u0627 \u0645\u062f\u0644 \u0645\u0646\u0627\u0633\u0628\u06cc \u0628\u0631\u0627\u06cc \u0628\u0631\u0631\u0633\u06cc \u0646\u062d\u0648\u0647 \u0627\u0646\u062a\u0642\u0627\u0644 \u0648\u06cc\u0631\u0648\u0633\u200c\u0647\u0627\u06cc \u0622\u0646\u0641\u0644\u0648\u0627\u0646\u0632\u0627 \u0628\u0647 \u067e\u0633\u062a\u0627\u0646\u062f\u0627\u0631\u0627\u0646 \u0647\u0633\u062a\u0646\u062f. Kawaoka \u0648 \u0647\u0645\u06a9\u0627\u0631\u0627\u0646\u0634 \u062f\u0631 \u0645\u0624\u0633\u0633\u0647 \u062a\u062d\u0642\u06cc\u0642\u0627\u062a\u06cc \u0622\u0646\u0641\u0644\u0648\u0627\u0646\u0632\u0627 \u062f\u0631 \u062f\u0627\u0646\u0634\u06af\u0627\u0647 UW\u2013Madison \u0627\u06cc\u0646 \u0645\u0648\u0636\u0648\u0639 \u0631\u0627 \u0645\u0637\u0627\u0644\u0639\u0647 \u0645\u06cc\u200c\u06a9\u0646\u0646\u062f\u060c \u0686\u0631\u0627 \u06a9\u0647 \u0686\u0646\u06cc\u0646 \u0627\u0646\u062a\u0642\u0627\u0644\u06cc \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u0628\u0627\u0639\u062b \u0648\u0642\u0648\u0639 \u067e\u0627\u0646\u062f\u0645\u06cc \u0622\u0646\u0641\u0644\u0648\u0627\u0646\u0632\u0627 \u0634\u0648\u062f.",
+      "url": "https://www.entekhab.ir/fa/news/829853/\u0631\u0627\u0633\u0648\u0647\u0627-\u0639\u0627\u0645\u0644-\u067e\u0627\u0646\u062f\u0645\u06cc-\u0622\u0646\u0641\u0644\u0648\u0627\u0646\u0632\u0627\u06cc-\u067e\u0631\u0646\u062f\u06af\u0627\u0646",
+      "urlToImage": "https://cdn.entekhab.ir/files/fa/news/1403/8/12/1842815_264.jpeg",
+      "publishedAt": "2024-11-02 07:48:26",
+      "content": "(Entekhab.ir) : : . Kawaoka UWMadison . H5N1 . . WisconsinMadison . . H5N1 . . . Kawaoka UWMadison : . H5N1 . . H5N1 . Kawaoka : . . . Kawaoka : . 28 2024 Nature .",
+      "retrievedAt": "2024-11-03 19:05:51.491536",
+      "internal_id": "ea0ca7f677ce1b228eb72b68206f052c55c0b8b6c1e3785445a6b71c3c4a7ee0",
+      "publishedAtLabel": "Nov 2"
+    },
     {
       "id": 15201,
       "query": [
@@ -24444,116 +24642,6 @@
       "retrievedAt": "2024-09-24 07:06:25.165214",
       "internal_id": "9abfbe4a7c6380a372466b00b37b567d2ea02f24d84f90762c53768de3286da2",
       "publishedAtLabel": "Sep 23"
-    },
-    {
-      "id": 13843,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "Pearl D'souza",
-      "title": "Dengue scare: Docs suggest keeping eye on kids\u2019 hydration level",
-      "description": "With rising dengue cases leading to schoolchildren fatalities in Bengaluru, doctors emphasize the importance of monitoring children's hydration levels and recognizing early symptoms. Stay informed on prevention and treatment methods.",
-      "url": "https://timesofindia.indiatimes.com/city/bengaluru/dengue-alert-parents-urged-to-monitor-childrens-hydration-amid-rising-cases/articleshow/113577463.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-09-22 18:57:53",
-      "content": "How to make easy dump &amp; dine Tofu Salad for dinner",
-      "retrievedAt": "2024-09-23 19:05:39.194600",
-      "internal_id": "60efadee614a963f074cd725261d91be2999a067ce5537ee78900c4c7960ba38",
-      "publishedAtLabel": "Sep 22"
-    },
-    {
-      "id": 13844,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "Vindhya Pabolu",
-      "title": "Pharmacies see 25% rise inqueries for dengue drugs",
-      "description": "Bengaluru: Following the state govt's declaration of dengue as an epidemic, city pharmacies have reported a 25% increase in the number of customers se.",
-      "url": "https://timesofindia.indiatimes.com/city/bengaluru/pharmacies-see-25-rise-inqueries-for-dengue-drugs/articleshow/113577327.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-09-22 18:48:41",
-      "content": "How to make easy dump &amp; dine Tofu Salad for dinner",
-      "retrievedAt": "2024-09-23 19:05:39.200889",
-      "internal_id": "8f23dbc4f75a00ebfcc29c7c1b636d1e9566165a508b39295d660172e0cba4b3",
-      "publishedAtLabel": "Sep 22"
-    },
-    {
-      "id": 13845,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Indiatodayne.in",
-      "author": "India Todayne",
-      "title": "Manipur health minister seeks public participation to combat rising dengue cases",
-      "description": "Manipur Health and Family Welfare Minister Sapam Ranjan has raised concerns over the increasing dengue cases, urging community involvement to combat the disease. The state saw a rise from 148 cases in August to 230 in September.",
-      "url": "https://www.indiatodayne.in/manipur/story/manipur-health-minister-seeks-public-participation-to-combat-rising-dengue-cases-1096640-2024-09-22",
-      "urlToImage": "https://cf-img-a-in.tosshub.com/lingo/itne/images/story/202409/66f03edac7063-manipur-health-minister-seeks-public-participation-to-combat-rising-dengue-cases-225921638-16x9.jpg",
-      "publishedAt": "2024-09-22 16:26:49",
-      "content": "Manipur Health and Family Welfare Minister Sapam Ranjan, on September 22 expressed concern over the rise in dengue cases in the state, seeking people's participation to arrest spread of the vector-bo\u2026 [+589 chars]",
-      "retrievedAt": "2024-09-23 19:05:39.236917",
-      "internal_id": "fbf6224317c867e3289387a194458dedf775f27174bdade277292277b23160c9",
-      "publishedAtLabel": "Sep 22"
-    },
-    {
-      "id": 13841,
-      "query": [
-        "hpai",
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Mail.ru",
-      "author": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0430 \u041a\u0430\u043c\u044b\u043d\u0438\u043d\u0430",
-      "title": "\u0418\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u0435: \u041f\u0442\u0438\u0446\u044b-\u043f\u0438\u0440\u0430\u0442\u044b \u0443\u0441\u043a\u043e\u0440\u044f\u044e\u0442 \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0435\u043d\u0438\u0435 \u0441\u043c\u0435\u0440\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430",
-      "description": "\u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u0439\u0441\u043a\u0438\u0435 \u0443\u0447\u0435\u043d\u044b\u0435 \u0438\u0437 \u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0430 \u041d\u043e\u0432\u043e\u0433\u043e \u042e\u0436\u043d\u043e\u0433\u043e \u0423\u044d\u043b\u044c\u0441\u0430 \u0432\u044b\u044f\u0441\u043d\u0438\u043b\u0438, \u043a\u0430\u043a \u043e\u0445\u043e\u0442\u043d\u0438\u0447\u044c\u0438 \u043f\u043e\u0432\u0430\u0434\u043a\u0438 \u043d\u0435\u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u043c\u043e\u0440\u0441\u043a\u0438\u0445 \u043f\u0442\u0438\u0446 \u0441\u043f\u043e\u0441\u043e\u0431\u0441\u0442\u0432\u0443\u044e\u0442 \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0435\u043d\u0438\u044e \u043e\u043f\u0430\u0441\u043d\u043e\u0433\u043e \u0432\u0438\u0440\u0443\u0441\u0430 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430 \u0441\u0440\u0435\u0434\u0438 \u043f\u0435\u0440\u043d\u0430\u0442\u044b\u0445. \u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u044b \u044d\u0442\u043e\u0433\u043e \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u044f \u0431\u044b\u043b\u0438 \u043e\u043f\u0443\u0431\u043b\u0438\u043a\u043e\u0432\u0430\u043d\u044b \u0432 \u043d\u0430\u0443\u0447\u043d\u043e\u043c \u0436\u0443\u0440\u043d\u0430\u043b\u0435 Con\u2026",
-      "url": "https://vfokuse.mail.ru/article/issledovanie-pticy-piraty-uskoryayut-rasprostranenie-smertelnogo-ptichego-grippa-62903241/",
-      "urlToImage": "https://resizer.mail.ru/p/a36e0736-828a-5b07-ace1-0e609388fda3/op:15/logo:bottom:vfokuse.png/AQAGVOGmEdibODjEZmDXZvl30r3vxYG7-lZdsHq8dtG2HJO3bfZKmDLg85k0PQS85VXYUffTmPuka0E1pXC2ZRfMhFo.jpg",
-      "publishedAt": "2024-09-22 14:28:04",
-      "content": ", HPAI H5N1 2.3.4.4.b, , 280 . .",
-      "retrievedAt": "2024-09-23 19:05:38.383629",
-      "internal_id": "c28eda464341e84390c86619508caa23addbc30c91e18d00d340025797c9d720",
-      "publishedAtLabel": "Sep 22"
-    },
-    {
-      "id": 13842,
-      "query": [
-        "hpai",
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Gazeta.ru",
-      "author": "\u0413\u0430\u0437\u0435\u0442\u0430.Ru",
-      "title": "\"\u041f\u0435\u0440\u043d\u0430\u0442\u044b\u0435 \u043f\u0438\u0440\u0430\u0442\u044b\" \u0443\u0441\u043a\u043e\u0440\u044f\u044e\u0442 \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0435\u043d\u0438\u0435 \u0441\u043c\u0435\u0440\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430, \u0432\u044b\u044f\u0441\u043d\u0438\u043b\u0438 \u0443\u0447\u0435\u043d\u044b\u0435",
-      "description": "\u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u0439\u0441\u043a\u0438\u0435 \u0443\u0447\u0435\u043d\u044b\u0435 \u0438\u0437 \u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0430 \u041d\u043e\u0432\u043e\u0433\u043e \u042e\u0436\u043d\u043e\u0433\u043e \u0423\u044d\u043b\u044c\u0441\u0430 \u0432\u044b\u044f\u0441\u043d\u0438\u043b\u0438, \u043a\u0430\u043a \u043e\u0445\u043e\u0442\u043d\u0438\u0447\u044c\u0438 \u043f\u0440\u0438\u0432\u044b\u0447\u043a\u0438 \u043d\u0435\u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u043c\u043e\u0440\u0441\u043a\u0438\u0445 \u043f\u0442\u0438\u0446 \u0443\u0441\u043a\u043e\u0440\u044f\u044e\u0442 \u043f\u0435\u0440\u0435\u0434\u0430\u0447\u0443 \u0433\u0443\u0431\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u0432\u0438\u0440\u0443\u0441\u0430 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430 \u0432 \u043f\u043e\u043f\u0443\u043b\u044f\u0446\u0438\u044f\u0445 \u043f\u0435\u0440\u043d\u0430\u0442\u044b\u0445. \u0418\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u0435 \u043e\u043f\u0443\u0431\u043b\u0438\u043a\u043e\u0432\u0430\u043d\u043e \u0432 \u043d\u0430\u0443\u0447\u043d\u043e\u043c \u0436\u0443\u0440\u043d\u0430\u043b\u0435 Conservation Letters (Co\u2026",
-      "url": "https://www.gazeta.ru/science/news/2024/09/22/23979301.shtml",
-      "urlToImage": "https://img.gazeta.ru/files3/83/19787083/43-pic_32ratio_900x600-900x600-19204.jpg",
-      "publishedAt": "2024-09-22 13:21:45",
-      "content": ", . Conservation Letters (ConsLet). , \u00ab\u00bb , . , . . , HPAI H5N1 2.3.4.4.b 280 . . , - . \u00ab\u00bb , . , . HPAI H5N1. , , , , . .",
-      "retrievedAt": "2024-09-23 19:05:38.391190",
-      "internal_id": "b61d24c5ee5ddbbb99ea53c22b38da5dd0363367fb5afa1d8b43905537b8062c",
-      "publishedAtLabel": "Sep 22"
-    },
-    {
-      "id": 13840,
-      "query": [
-        "pertussis"
-      ],
-      "source_id": "cbc-news",
-      "source_name": "CBC News",
-      "author": null,
-      "title": "What to do if you or your kid gets COVID-19 this fall",
-      "description": "More than four years into the COVID-19 pandemic, core messaging remains the same: stay home if you feel sick.",
-      "url": "https://www.cbc.ca/news/canada/ottawa/what-to-do-if-you-or-your-kid-gets-covid-19-this-fall-1.7328679",
-      "urlToImage": "https://i.cbc.ca/1.6666565.1726794553!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/covid-que-schools-20210831.jpg",
-      "publishedAt": "2024-09-22 08:00:00",
-      "content": "As the weather begins to cool in Ottawa and schools settle into the new academic year, cases of respiratory illnesses are expected to rise. COVID-19, the fly, whooping cough (pertussis) and respirat\u2026 [+3445 chars]",
-      "retrievedAt": "2024-09-23 19:05:37.699660",
-      "internal_id": "10ed44df7838c8161e04c3b49ba659a2487a8b60f3de22bbf945bf89dcfb2372",
-      "publishedAtLabel": "Sep 22"
     }
   ]
 }
