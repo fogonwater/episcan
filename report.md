@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 11
-- **Last harvest:** 2024-11-03 19:05
-- **Most recent article:** 2024-11-02 18:38:56
+- **New articles in last harvest:** 7
+- **Last harvest:** 2024-11-04 07:06
+- **Most recent article:** 2024-11-03 05:45:32
 
 ---
 
@@ -10,28 +10,38 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 24-39 | 24-40 | 24-41 | 24-42 | 24-43 | 24-44 | Total |
-|--|-|-|-|-|-|-|-|
-| mpox | 120 | 128 | 42 | 81 | 131 | 72 | 574 |
-| dengue | 44 | 51 | 35 | 50 | 53 | 30 | 263 |
-| h5n1 | 33 | 50 | 10 | 18 | 12 | 61 | 184 |
-| malaria | 24 | 10 | 13 | 18 | 58 | 16 | 139 |
-| rabies | 25 | 30 | 6 | 7 | 3 | 10 | 81 |
-| measles | 4 | 6 | 5 | 3 | 1 | 13 | 32 |
-| meningitis | 6 | 11 | 2 | 1 | 6 | 3 | 29 |
-| zika | 1 | 3 | 4 | 6 | 6 | 3 | 23 |
-| chikungunya | 3 | 3 | 3 | 4 | 7 | 2 | 22 |
-| pertussis | 1 | 2 | 2 | 9 | 3 | 1 | 18 |
-| leptospirosis | 5 | 4 | 1 | 1 | 0 | 3 | 14 |
-| hpai | 0 | 2 | 1 | 2 | 2 | 7 | 14 |
-| typhoid | 4 | 1 | 0 | 1 | 3 | 4 | 13 |
-| yersinia | 2 | 1 | 1 | 0 | 0 | 3 | 7 |
-| shigellosis | 0 | 1 | 3 | 0 | 1 | 0 | 5 |
+| Disease | 24-39 | 24-40 | 24-41 | 24-42 | 24-43 | 24-44 | 24-45 | Total |
+|--|-|-|-|-|-|-|-|-|
+| mpox | 120 | 128 | 42 | 81 | 131 | 75 | 2 | 579 |
+| dengue | 47 | 51 | 35 | 50 | 53 | 31 | 0 | 267 |
+| h5n1 | 35 | 50 | 10 | 18 | 12 | 61 | 0 | 186 |
+| malaria | 24 | 10 | 13 | 18 | 58 | 16 | 0 | 139 |
+| rabies | 25 | 30 | 6 | 7 | 3 | 10 | 0 | 81 |
+| measles | 4 | 6 | 5 | 3 | 1 | 13 | 0 | 32 |
+| meningitis | 6 | 11 | 2 | 1 | 6 | 3 | 1 | 30 |
+| zika | 1 | 3 | 4 | 6 | 6 | 3 | 0 | 23 |
+| chikungunya | 3 | 3 | 3 | 4 | 7 | 2 | 0 | 22 |
+| pertussis | 2 | 2 | 2 | 9 | 3 | 1 | 0 | 19 |
+| hpai | 2 | 2 | 1 | 2 | 2 | 7 | 0 | 16 |
+| leptospirosis | 5 | 4 | 1 | 1 | 0 | 3 | 0 | 14 |
+| typhoid | 4 | 1 | 0 | 1 | 3 | 4 | 0 | 13 |
+| yersinia | 2 | 1 | 1 | 0 | 0 | 3 | 0 | 7 |
+| shigellosis | 0 | 1 | 3 | 0 | 1 | 0 | 0 | 5 |
 
 
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 24-45 (mpox)
+
+- [Mpox cases in Congo may be stabilizing. Experts say more vaccines are needed to stamp out virus](https://www.seattlepi.com/news/world/article/mpox-cases-in-congo-may-be-stabilizing-experts-19883472.php) (seattlepi.com)
+
+- [Mpox cases in Congo may be stabilizing. Experts say more vaccines are needed to stamp out virus](https://abcnews.go.com/Health/wireStory/mpox-cases-congo-stabilizing-experts-vaccines-needed-stamp-115434977) (ABC News)
+
+## 24-45 (meningitis)
+
+- [La nueva vida de Luis Canut, marido de Patricia Pérez, tras una meningitis criptocócica: «Llegué a casa con un solo sentido, que era el tacto»](https://www.lavozdegalicia.es/noticia/yes/2024/11/02/llegue-casa-solo-sentido-era-tacto-resto-cero/0003_202411SY2P24991.htm) (Lavozdegalicia.es)
 
 ## 24-44 (zika)
 
@@ -91,6 +101,8 @@ Source: [News API](https://newsapi.org/)
 
 - [A halálos vírus legsúlyosabb változata terjed Európában](https://www.portfolio.hu/gazdasag/20241102/a-halalos-virus-legsulyosabb-valtozata-terjed-europaban-720059) (Portfolio.hu)
 
+- [TWiV 1162: Clinical update with Dr. Daniel Griffin](https://www.microbe.tv/twiv/twiv-1162/) (Microbe.tv)
+
 - [Роспотребнадзор заявил о минимальном риске распространения оспы обезьян в России](https://www.ferra.ru/news/health/rospotrebnadzor-zayavil-o-minimalnom-riske-rasprostraneniya-ospy-obezyan-v-rossii-02-11-2024.htm) (Ferra.ru)
 
 - [WHO says more than 50,000 vaccinated against mpox in DR Congo, Rwanda](https://www.voanews.com/a/who-says-more-than-50-000-vaccinated-against-mpox-in-dr-congo-rwanda/7848165.html) (VOA News)
@@ -102,6 +114,8 @@ Source: [News API](https://newsapi.org/)
 - [La OMS distribuye 900.000 dosis de vacunas contra la mpox en nueve países africanos](https://www.montevideo.com.uy/Salud/La-OMS-distribuye-900-000-dosis-de-vacunas-contra-la-mpox-en-nueve-paises-africanos-uc905191) (Montevideo.com.uy)
 
 - [OMS vai distribuir 900 mil vacinas contra a Mpox em seis países africanos](https://observador.pt/2024/11/01/oms-vai-distribuir-900-mil-vacinas-contra-a-mpox-em-seis-paises-africanos/) (Observador.pt)
+
+- [Роспотребнадзор назвал риск распространения оспы обезьян в России минимальным](https://iz.ru/1784297/2024-11-01/rospotrebnadzor-nazval-risk-rasprostraneniia-ospy-obezian-v-rossii-minimalnym) (Iz.ru)
 
 - [В ВОЗ предупредили о возможном появлении новых опасных вариантов mpox](https://tass.ru/obschestvo/22292099) (Tass.ru)
 
@@ -118,6 +132,8 @@ Source: [News API](https://newsapi.org/)
 - [В Африке число больных оспой обезьян увеличилось на 500%](https://www.ferra.ru/news/health/v-afrike-chislo-bolnykh-ospoi-obezyan-uvelichilos-na-500-01-11-2024.htm) (Ferra.ru)
 
 - [Casos de mpox no continente africano aumentam 500% em 2024](https://noticiabrasil.net.br/20241031/casos-de-mpox-no-continente-africano-aumentam-500-em-2024-37179520.html) (Noticiabrasil.net.br)
+
+- [В 2024 году в Африке увеличилось количество инфицированных оспой обезьян на 500%](https://iz.ru/1783768/2024-11-01/v-2024-godu-v-afrike-uvelicilos-kolicestvo-inficirovannyh-ospoi-obezan-na-500) (Iz.ru)
 
 - [Africa CDC warns mpox is not under control, appeals for resources](https://www.aljazeera.com/news/2024/10/31/africa-cdc-warns-mpox-is-not-under-control-appeals-for-resources) (Al Jazeera English)
 
@@ -450,6 +466,8 @@ Source: [News API](https://newsapi.org/)
 - [Exclusive: Emails Reveal How Health Departments Struggle To Track Human Cases of Bird Flu](https://www.nakedcapitalism.com/2024/10/exclusive-emails-reveal-how-health-departments-struggle-to-track-human-cases-of-bird-flu.html) (Nakedcapitalism.com)
 
 ## 24-44 (dengue)
+
+- [Dengue. Liberaron más de 40.000 “mosquitos flúo” en una provincia para controlar la dispersión del virus](https://www.lanacion.com.ar/sociedad/dengue-liberaron-mas-de-40000-mosquitos-fluo-en-una-provincia-para-controlar-la-dispersion-del-virus-nid02112024/) (La Nacion)
 
 - [Dengue: altri due casi a Ortona, parte disinfestazione](https://www.ansa.it/abruzzo/notizie/2024/11/02/dengue-altri-due-casi-a-ortona-parte-disinfestazione_747bac95-899a-4eda-817a-9393959df0e0.html) (ANSA.it)
 
@@ -2539,6 +2557,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Whooping Cough Cases Surge](https://www.newser.com/story/356862/whooping-cough-cases-surge.html) (Newser)
 
+- [What to do if you or your kid gets COVID-19 this fall](https://www.cbc.ca/news/canada/ottawa/what-to-do-if-you-or-your-kid-gets-covid-19-this-fall-1.7328679) (CBC News)
+
 ## 24-39 (mpox)
 
 - [Six morts du virus de Marburg, similaire à Ebola, au Rwanda](https://www.20minutes.fr/sante/4112589-20240928-six-morts-virus-marburg-similaire-ebola-rwanda) (20 Minutes)
@@ -2867,6 +2887,12 @@ Source: [News API](https://newsapi.org/)
 
 - [Enhancement of clinical signs in C3H/HeJ mice vaccinated with a highly immunogenic Leptospira methyl-accepting chemotaxis protein following challenge](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012155) (Plos.org)
 
+## 24-39 (hpai)
+
+- [Исследование: Птицы-пираты ускоряют распространение смертельного птичьего гриппа](https://vfokuse.mail.ru/article/issledovanie-pticy-piraty-uskoryayut-rasprostranenie-smertelnogo-ptichego-grippa-62903241/) (Mail.ru)
+
+- ["Пернатые пираты" ускоряют распространение смертельного птичьего гриппа, выяснили ученые](https://www.gazeta.ru/science/news/2024/09/22/23979301.shtml) (Gazeta.ru)
+
 ## 24-39 (h5n1)
 
 - [SUA confirmă primul caz de gripă aviară fără provenienţă animală cunoscută](https://www.mediafax.ro/sanatate/sua-confirma-primul-caz-de-gripa-aviara-fara-provenienta-animala-cunoscuta-22498397) (Mediafax.ro)
@@ -2934,6 +2960,10 @@ Source: [News API](https://newsapi.org/)
 - [Can our stockpiles of Tamiflu protect against a bird flu pandemic?](https://undark.org/2024/09/23/h5n1-old-drug-protect-against-new-pandemic/) (Undark Magazine)
 
 - [Otro contacto del paciente de Missouri con síntomas de gripe aviar hace temer el contagio entre humanos](https://www.elespanol.com/ciencia/salud/20240923/contacto-paciente-missouri-sintomas-gripe-aviar-hace-temer-contagio-humanos/888161276_0.html) (Elespanol.com)
+
+- [Исследование: Птицы-пираты ускоряют распространение смертельного птичьего гриппа](https://vfokuse.mail.ru/article/issledovanie-pticy-piraty-uskoryayut-rasprostranenie-smertelnogo-ptichego-grippa-62903241/) (Mail.ru)
+
+- ["Пернатые пираты" ускоряют распространение смертельного птичьего гриппа, выяснили ученые](https://www.gazeta.ru/science/news/2024/09/22/23979301.shtml) (Gazeta.ru)
 
 ## 24-39 (dengue)
 
@@ -3024,6 +3054,12 @@ Source: [News API](https://newsapi.org/)
 - [Health D-G: Drop in dengue cases during from Sept 8 to 14, no deaths reported](https://www.malaymail.com/news/malaysia/2024/09/23/health-d-g-drop-in-dengue-cases-from-sept-8-to-14-no-deaths-reported/151342) (Malay Mail)
 
 - [Kenali Tanda dan Gejala Demam Berdarah Dengue, Ada 3 Fase Dalam 7 Hari](https://www.liputan6.com/health/read/5708649/kenali-tanda-dan-gejala-demam-berdarah-dengue-ada-3-fase-dalam-7-hari) (Liputan6.com)
+
+- [Dengue scare: Docs suggest keeping eye on kids’ hydration level](https://timesofindia.indiatimes.com/city/bengaluru/dengue-alert-parents-urged-to-monitor-childrens-hydration-amid-rising-cases/articleshow/113577463.cms) (The Times of India)
+
+- [Pharmacies see 25% rise inqueries for dengue drugs](https://timesofindia.indiatimes.com/city/bengaluru/pharmacies-see-25-rise-inqueries-for-dengue-drugs/articleshow/113577327.cms) (The Times of India)
+
+- [Manipur health minister seeks public participation to combat rising dengue cases](https://www.indiatodayne.in/manipur/story/manipur-health-minister-seeks-public-participation-to-combat-rising-dengue-cases-1096640-2024-09-22) (Indiatodayne.in)
 
 ## 24-39 (chikungunya)
 
