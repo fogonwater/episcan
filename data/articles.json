@@ -1,8 +1,116 @@
 {
-  "last_updated": "2024-11-04 19:06",
-  "count_articles_total": 1380,
-  "count_articles_new": 7,
+  "last_updated": "2024-11-05 07:06",
+  "count_articles_total": 1392,
+  "count_articles_new": 6,
   "articles": [
+    {
+      "id": 15236,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "QIAGEN N.V.",
+      "title": "QIAGEN erh\u00e4lt FDA-Zulassung f\u00fcr QIAstat-Dx Meningitis/ Enzephalitis-Panel zur Unterst\u00fctzung der Notfalldiagnostik",
+      "description": "QIAstat-Dx Meningitis/Enzephalitis-Panel in den USA f\u00fcr den klinischen Einsatz zugelassen, um Diagnosen von Infektionen des zentralen Nervensystems zu unterst\u00fctzen // Vierte FDA-Zulassung in 2024 markiert Meilenstein bei der erfolgreichen Erweiterung von spez\u2026",
+      "url": "https://www.globenewswire.com/news-release/2024/11/04/2973706/0/de/QIAGEN-erh%C3%A4lt-FDA-Zulassung-f%C3%BCr-QIAstat-Dx-Meningitis-Enzephalitis-Panel-zur-Unterst%C3%BCtzung-der-Notfalldiagnostik.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/141526b5-4f4b-48ed-bf23-2d8dcec9e546",
+      "publishedAt": "2024-11-04 06:30:00",
+      "content": "GERMANTOWN, Maryland und VENLO, Niederlande, Nov. 04, 2024 (GLOBE NEWSWIRE) -- QIAGEN (NYSE: QGEN; Frankfurt Prime Standard: QIA) hat heute bekannt gegeben, dass die U.S. Food and Drug Administration\u2026 [+8547 chars]",
+      "retrievedAt": "2024-11-05 07:06:26.815307",
+      "internal_id": "93bf9f2f5f9848a6d352084cf333f84e93f477170a53d73a0046276f1e04f73a",
+      "publishedAtLabel": "Nov 4"
+    },
+    {
+      "id": 15237,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "QIAGEN N.V.",
+      "title": "QIAGEN receives FDA clearance of QIAstat-Dx meningitis/encephalitis panel to support emergency diagnostics",
+      "description": "QIAstat-Dx Meningitis/Encephalitis Panel cleared in the U.S. for use in clinical settings to help diagnose central nervous system infections // Fourth FDA clearance marks milestone in 2024 in successful expansion of QIAstat\u2011Dx tests developed specifically for\u2026",
+      "url": "https://www.globenewswire.com/news-release/2024/11/04/2973707/8690/en/QIAGEN-receives-FDA-clearance-of-QIAstat-Dx-meningitis-encephalitis-panel-to-support-emergency-diagnostics.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/0b586325-d7a3-4fed-9200-91f13bae95a7",
+      "publishedAt": "2024-11-04 06:30:00",
+      "content": "Germantown, Maryland, and Venlo, the Netherlands, Nov. 04, 2024 (GLOBE NEWSWIRE) -- QIAGEN (NYSE: QGEN; Frankfurt Prime Standard: QIA) today announced that the U.S. Food and Drug Administration (FDA)\u2026 [+7251 chars]",
+      "retrievedAt": "2024-11-05 07:06:26.823092",
+      "internal_id": "8ea81e3cb7461e842f0e94982232b3b44bde455e632a14f93c6f44ad1d77049a",
+      "publishedAtLabel": "Nov 4"
+    },
+    {
+      "id": 15234,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "People.cn",
+      "author": "F_400991",
+      "title": "Bangladesh records highest single-day toll of 10 dengue deaths",
+      "description": "DHAKA, Nov. 3 (Xinhua) -- Bangladesh recorded its highest single-day toll of 10 dengue deaths on Sat",
+      "url": "http://en.people.cn/n3/2024/1104/c90000-20237196.html",
+      "urlToImage": null,
+      "publishedAt": "2024-11-04 05:20:34",
+      "content": "(Xinhua) 13:07, November 04, 2024 DHAKA, Nov. 3 (Xinhua) -- Bangladesh recorded its highest single-day toll of 10 dengue deaths on Saturday, bringing the tally to 310, said the country's Directorate\u2026 [+1012 chars]",
+      "retrievedAt": "2024-11-05 07:06:26.267045",
+      "internal_id": "1862d59867b618396a1fbe7a13ae4fe4e31c1c696b57e54ec952413ad78b8bf6",
+      "publishedAtLabel": "Nov 4"
+    },
+    {
+      "id": 15235,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Rpnradio.com",
+      "author": "RPN Regional News",
+      "title": "Baguio: Karaniwang mga sakit, dapat hindi dapat ipagwalang bahala \u2013 Dr. Brillantes",
+      "description": "Baguio City \u2013 Ipinaalala ni City Health Services Officer, Dr. Celia Flor Brillantes, sa publiko ang mga pangkaraniwang sakit sa panahon ng tag-ulan at maging sa panahon ng taglamig. Ani ni Brillantes, pangunahing bigyan ng pansin ang mga sakit tulad ng dengue\u2026",
+      "url": "https://rpnradio.com/baguio-karaniwang-mga-sakit-dapat-hindi-dapat-ipagwalang-bahala-dr-brillantes/",
+      "urlToImage": "https://rpnradio.com/wp-content/uploads/2024/11/Picture1.jpg",
+      "publishedAt": "2024-11-04 00:32:10",
+      "content": "Baguio City \u2013 Ipinaalala ni City Health Services Officer, Dr. Celia Flor Brillantes, sa publiko ang mga pangkaraniwang sakit sa panahon ng tag-ulan at maging sa panahon ng taglamig. Ani ni Brillantes\u2026 [+1631 chars]",
+      "retrievedAt": "2024-11-05 07:06:26.278481",
+      "internal_id": "2133807e2a198d33e122b4e87baa1a9934486d3c38ac052412152908020e3210",
+      "publishedAtLabel": "Nov 4"
+    },
+    {
+      "id": 15233,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Catracalivre.com.br",
+      "author": "Andr\u00e9 Nicolau",
+      "title": "Mosquito da dengue pica por cima da roupa? Veja a opini\u00e3o de especialistas",
+      "description": "Em meio \u00e0 crise de casos registrados em 2024, especialistas respondem se mosquito da dengue por cima roupa.",
+      "url": "https://catracalivre.com.br/saude-bem-estar/mosquito-da-dengue-pica-roupa/",
+      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1280,h=680,fit=cover,format=jpeg/wp-content/uploads/2020/02/dengue-1.jpg",
+      "publishedAt": "2024-11-03 20:00:01",
+      "content": "Em meio \u00e0 epidemia de dengue, destaca-se a import\u00e2ncia do uso de repelentes. Mas, afinal, o mosquito pica por cima da roupa? Depositphotos/galitskaya - Depositphotos/galitskaya O Brasil enfrenta um \u2026 [+2480 chars]",
+      "retrievedAt": "2024-11-05 07:06:26.243714",
+      "internal_id": "787bb16118e47214afa6b47ff583a520c7c07de87117979be4f2f4a1887554ee",
+      "publishedAtLabel": "Nov 3"
+    },
+    {
+      "id": 15238,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Forbes.com.mx",
+      "author": "Forbes Staff",
+      "title": "Max Verstappen sigue siendo el rey en la F1",
+      "description": "Forbes M\u00e9xico. Max Verstappen sigue siendo el rey en la F1 Contin\u00faa la malaria para 'Checo' P\u00e9rez, quien fue eliminado en el segundo acto Max Verstappen sigue siendo el rey en la F1 Forbes Staff",
+      "url": "https://forbes.com.mx/max-verstappen-sigue-siendo-el-rey-en-la-f1/",
+      "urlToImage": "https://cdn.forbes.com.mx/2023/11/Max-Verstappen-1-1.webp",
+      "publishedAt": "2024-11-03 19:56:46",
+      "content": "El triple campe\u00f3n del mundo neerland\u00e9s Max Verstappen (Red Bull) dio un golpe de autoridad en su ad\u00e1n por ganar un cuarto t\u00edtulo seguido y reforz\u00f3 su liderato en el Mundial de F\u00f3rmula Uno al ganar de\u2026 [+9488 chars]",
+      "retrievedAt": "2024-11-05 07:06:27.126213",
+      "internal_id": "2ca6258c8c8c4e3bae727acd8d98f3acda50a4e4c509cae83cc73d789701af78",
+      "publishedAtLabel": "Nov 3"
+    },
     {
       "id": 15228,
       "query": [
@@ -24894,6 +25002,116 @@
       "retrievedAt": "2024-09-24 07:06:25.165214",
       "internal_id": "9abfbe4a7c6380a372466b00b37b567d2ea02f24d84f90762c53768de3286da2",
       "publishedAtLabel": "Sep 23"
+    },
+    {
+      "id": 13843,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Pearl D'souza",
+      "title": "Dengue scare: Docs suggest keeping eye on kids\u2019 hydration level",
+      "description": "With rising dengue cases leading to schoolchildren fatalities in Bengaluru, doctors emphasize the importance of monitoring children's hydration levels and recognizing early symptoms. Stay informed on prevention and treatment methods.",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/dengue-alert-parents-urged-to-monitor-childrens-hydration-amid-rising-cases/articleshow/113577463.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-09-22 18:57:53",
+      "content": "How to make easy dump &amp; dine Tofu Salad for dinner",
+      "retrievedAt": "2024-09-23 19:05:39.194600",
+      "internal_id": "60efadee614a963f074cd725261d91be2999a067ce5537ee78900c4c7960ba38",
+      "publishedAtLabel": "Sep 22"
+    },
+    {
+      "id": 13844,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Vindhya Pabolu",
+      "title": "Pharmacies see 25% rise inqueries for dengue drugs",
+      "description": "Bengaluru: Following the state govt's declaration of dengue as an epidemic, city pharmacies have reported a 25% increase in the number of customers se.",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/pharmacies-see-25-rise-inqueries-for-dengue-drugs/articleshow/113577327.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-09-22 18:48:41",
+      "content": "How to make easy dump &amp; dine Tofu Salad for dinner",
+      "retrievedAt": "2024-09-23 19:05:39.200889",
+      "internal_id": "8f23dbc4f75a00ebfcc29c7c1b636d1e9566165a508b39295d660172e0cba4b3",
+      "publishedAtLabel": "Sep 22"
+    },
+    {
+      "id": 13845,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Indiatodayne.in",
+      "author": "India Todayne",
+      "title": "Manipur health minister seeks public participation to combat rising dengue cases",
+      "description": "Manipur Health and Family Welfare Minister Sapam Ranjan has raised concerns over the increasing dengue cases, urging community involvement to combat the disease. The state saw a rise from 148 cases in August to 230 in September.",
+      "url": "https://www.indiatodayne.in/manipur/story/manipur-health-minister-seeks-public-participation-to-combat-rising-dengue-cases-1096640-2024-09-22",
+      "urlToImage": "https://cf-img-a-in.tosshub.com/lingo/itne/images/story/202409/66f03edac7063-manipur-health-minister-seeks-public-participation-to-combat-rising-dengue-cases-225921638-16x9.jpg",
+      "publishedAt": "2024-09-22 16:26:49",
+      "content": "Manipur Health and Family Welfare Minister Sapam Ranjan, on September 22 expressed concern over the rise in dengue cases in the state, seeking people's participation to arrest spread of the vector-bo\u2026 [+589 chars]",
+      "retrievedAt": "2024-09-23 19:05:39.236917",
+      "internal_id": "fbf6224317c867e3289387a194458dedf775f27174bdade277292277b23160c9",
+      "publishedAtLabel": "Sep 22"
+    },
+    {
+      "id": 13841,
+      "query": [
+        "hpai",
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Mail.ru",
+      "author": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0430 \u041a\u0430\u043c\u044b\u043d\u0438\u043d\u0430",
+      "title": "\u0418\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u0435: \u041f\u0442\u0438\u0446\u044b-\u043f\u0438\u0440\u0430\u0442\u044b \u0443\u0441\u043a\u043e\u0440\u044f\u044e\u0442 \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0435\u043d\u0438\u0435 \u0441\u043c\u0435\u0440\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430",
+      "description": "\u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u0439\u0441\u043a\u0438\u0435 \u0443\u0447\u0435\u043d\u044b\u0435 \u0438\u0437 \u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0430 \u041d\u043e\u0432\u043e\u0433\u043e \u042e\u0436\u043d\u043e\u0433\u043e \u0423\u044d\u043b\u044c\u0441\u0430 \u0432\u044b\u044f\u0441\u043d\u0438\u043b\u0438, \u043a\u0430\u043a \u043e\u0445\u043e\u0442\u043d\u0438\u0447\u044c\u0438 \u043f\u043e\u0432\u0430\u0434\u043a\u0438 \u043d\u0435\u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u043c\u043e\u0440\u0441\u043a\u0438\u0445 \u043f\u0442\u0438\u0446 \u0441\u043f\u043e\u0441\u043e\u0431\u0441\u0442\u0432\u0443\u044e\u0442 \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0435\u043d\u0438\u044e \u043e\u043f\u0430\u0441\u043d\u043e\u0433\u043e \u0432\u0438\u0440\u0443\u0441\u0430 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430 \u0441\u0440\u0435\u0434\u0438 \u043f\u0435\u0440\u043d\u0430\u0442\u044b\u0445. \u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u044b \u044d\u0442\u043e\u0433\u043e \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u044f \u0431\u044b\u043b\u0438 \u043e\u043f\u0443\u0431\u043b\u0438\u043a\u043e\u0432\u0430\u043d\u044b \u0432 \u043d\u0430\u0443\u0447\u043d\u043e\u043c \u0436\u0443\u0440\u043d\u0430\u043b\u0435 Con\u2026",
+      "url": "https://vfokuse.mail.ru/article/issledovanie-pticy-piraty-uskoryayut-rasprostranenie-smertelnogo-ptichego-grippa-62903241/",
+      "urlToImage": "https://resizer.mail.ru/p/a36e0736-828a-5b07-ace1-0e609388fda3/op:15/logo:bottom:vfokuse.png/AQAGVOGmEdibODjEZmDXZvl30r3vxYG7-lZdsHq8dtG2HJO3bfZKmDLg85k0PQS85VXYUffTmPuka0E1pXC2ZRfMhFo.jpg",
+      "publishedAt": "2024-09-22 14:28:04",
+      "content": ", HPAI H5N1 2.3.4.4.b, , 280 . .",
+      "retrievedAt": "2024-09-23 19:05:38.383629",
+      "internal_id": "c28eda464341e84390c86619508caa23addbc30c91e18d00d340025797c9d720",
+      "publishedAtLabel": "Sep 22"
+    },
+    {
+      "id": 13842,
+      "query": [
+        "hpai",
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Gazeta.ru",
+      "author": "\u0413\u0430\u0437\u0435\u0442\u0430.Ru",
+      "title": "\"\u041f\u0435\u0440\u043d\u0430\u0442\u044b\u0435 \u043f\u0438\u0440\u0430\u0442\u044b\" \u0443\u0441\u043a\u043e\u0440\u044f\u044e\u0442 \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0435\u043d\u0438\u0435 \u0441\u043c\u0435\u0440\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430, \u0432\u044b\u044f\u0441\u043d\u0438\u043b\u0438 \u0443\u0447\u0435\u043d\u044b\u0435",
+      "description": "\u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u0439\u0441\u043a\u0438\u0435 \u0443\u0447\u0435\u043d\u044b\u0435 \u0438\u0437 \u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0430 \u041d\u043e\u0432\u043e\u0433\u043e \u042e\u0436\u043d\u043e\u0433\u043e \u0423\u044d\u043b\u044c\u0441\u0430 \u0432\u044b\u044f\u0441\u043d\u0438\u043b\u0438, \u043a\u0430\u043a \u043e\u0445\u043e\u0442\u043d\u0438\u0447\u044c\u0438 \u043f\u0440\u0438\u0432\u044b\u0447\u043a\u0438 \u043d\u0435\u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u043c\u043e\u0440\u0441\u043a\u0438\u0445 \u043f\u0442\u0438\u0446 \u0443\u0441\u043a\u043e\u0440\u044f\u044e\u0442 \u043f\u0435\u0440\u0435\u0434\u0430\u0447\u0443 \u0433\u0443\u0431\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u0432\u0438\u0440\u0443\u0441\u0430 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430 \u0432 \u043f\u043e\u043f\u0443\u043b\u044f\u0446\u0438\u044f\u0445 \u043f\u0435\u0440\u043d\u0430\u0442\u044b\u0445. \u0418\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u0435 \u043e\u043f\u0443\u0431\u043b\u0438\u043a\u043e\u0432\u0430\u043d\u043e \u0432 \u043d\u0430\u0443\u0447\u043d\u043e\u043c \u0436\u0443\u0440\u043d\u0430\u043b\u0435 Conservation Letters (Co\u2026",
+      "url": "https://www.gazeta.ru/science/news/2024/09/22/23979301.shtml",
+      "urlToImage": "https://img.gazeta.ru/files3/83/19787083/43-pic_32ratio_900x600-900x600-19204.jpg",
+      "publishedAt": "2024-09-22 13:21:45",
+      "content": ", . Conservation Letters (ConsLet). , \u00ab\u00bb , . , . . , HPAI H5N1 2.3.4.4.b 280 . . , - . \u00ab\u00bb , . , . HPAI H5N1. , , , , . .",
+      "retrievedAt": "2024-09-23 19:05:38.391190",
+      "internal_id": "b61d24c5ee5ddbbb99ea53c22b38da5dd0363367fb5afa1d8b43905537b8062c",
+      "publishedAtLabel": "Sep 22"
+    },
+    {
+      "id": 13840,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "What to do if you or your kid gets COVID-19 this fall",
+      "description": "More than four years into the COVID-19 pandemic, core messaging remains the same: stay home if you feel sick.",
+      "url": "https://www.cbc.ca/news/canada/ottawa/what-to-do-if-you-or-your-kid-gets-covid-19-this-fall-1.7328679",
+      "urlToImage": "https://i.cbc.ca/1.6666565.1726794553!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/covid-que-schools-20210831.jpg",
+      "publishedAt": "2024-09-22 08:00:00",
+      "content": "As the weather begins to cool in Ottawa and schools settle into the new academic year, cases of respiratory illnesses are expected to rise. COVID-19, the fly, whooping cough (pertussis) and respirat\u2026 [+3445 chars]",
+      "retrievedAt": "2024-09-23 19:05:37.699660",
+      "internal_id": "10ed44df7838c8161e04c3b49ba659a2487a8b60f3de22bbf945bf89dcfb2372",
+      "publishedAtLabel": "Sep 22"
     }
   ]
 }

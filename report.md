@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 7
-- **Last harvest:** 2024-11-04 19:06
-- **Most recent article:** 2024-11-03 15:45:00
+- **New articles in last harvest:** 6
+- **Last harvest:** 2024-11-05 07:06
+- **Most recent article:** 2024-11-04 06:30:00
 
 ---
 
@@ -13,17 +13,17 @@ By US epiweek (i.e. Sunday to Saturday)
 | Disease | 24-39 | 24-40 | 24-41 | 24-42 | 24-43 | 24-44 | 24-45 | Total |
 |--|-|-|-|-|-|-|-|-|
 | mpox | 120 | 128 | 42 | 81 | 131 | 75 | 3 | 580 |
-| dengue | 44 | 51 | 35 | 50 | 53 | 31 | 1 | 265 |
-| h5n1 | 33 | 50 | 10 | 18 | 12 | 61 | 2 | 186 |
-| malaria | 24 | 10 | 13 | 18 | 58 | 16 | 0 | 139 |
+| dengue | 47 | 51 | 35 | 50 | 53 | 31 | 4 | 271 |
+| h5n1 | 35 | 50 | 10 | 18 | 12 | 61 | 2 | 188 |
+| malaria | 24 | 10 | 13 | 18 | 58 | 16 | 1 | 140 |
 | rabies | 25 | 30 | 6 | 7 | 3 | 10 | 2 | 83 |
 | measles | 4 | 6 | 5 | 3 | 1 | 13 | 1 | 33 |
-| meningitis | 6 | 11 | 2 | 1 | 6 | 3 | 1 | 30 |
+| meningitis | 6 | 11 | 2 | 1 | 6 | 3 | 3 | 32 |
 | zika | 1 | 3 | 4 | 6 | 6 | 3 | 0 | 23 |
 | chikungunya | 3 | 3 | 3 | 4 | 7 | 2 | 0 | 22 |
-| pertussis | 1 | 2 | 2 | 9 | 3 | 1 | 0 | 18 |
+| pertussis | 2 | 2 | 2 | 9 | 3 | 1 | 0 | 19 |
+| hpai | 2 | 2 | 1 | 2 | 2 | 7 | 0 | 16 |
 | leptospirosis | 5 | 4 | 1 | 1 | 0 | 3 | 0 | 14 |
-| hpai | 0 | 2 | 1 | 2 | 2 | 7 | 0 | 14 |
 | typhoid | 4 | 1 | 0 | 1 | 3 | 4 | 0 | 13 |
 | yersinia | 2 | 1 | 1 | 0 | 0 | 3 | 0 | 7 |
 | shigellosis | 0 | 1 | 3 | 0 | 1 | 0 | 0 | 5 |
@@ -49,11 +49,19 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-45 (meningitis)
 
+- [QIAGEN erhält FDA-Zulassung für QIAstat-Dx Meningitis/ Enzephalitis-Panel zur Unterstützung der Notfalldiagnostik](https://www.globenewswire.com/news-release/2024/11/04/2973706/0/de/QIAGEN-erh%C3%A4lt-FDA-Zulassung-f%C3%BCr-QIAstat-Dx-Meningitis-Enzephalitis-Panel-zur-Unterst%C3%BCtzung-der-Notfalldiagnostik.html) (GlobeNewswire)
+
+- [QIAGEN receives FDA clearance of QIAstat-Dx meningitis/encephalitis panel to support emergency diagnostics](https://www.globenewswire.com/news-release/2024/11/04/2973707/8690/en/QIAGEN-receives-FDA-clearance-of-QIAstat-Dx-meningitis-encephalitis-panel-to-support-emergency-diagnostics.html) (GlobeNewswire)
+
 - [La nueva vida de Luis Canut, marido de Patricia Pérez, tras una meningitis criptocócica: «Llegué a casa con un solo sentido, que era el tacto»](https://www.lavozdegalicia.es/noticia/yes/2024/11/02/llegue-casa-solo-sentido-era-tacto-resto-cero/0003_202411SY2P24991.htm) (Lavozdegalicia.es)
 
 ## 24-45 (measles)
 
 - [Trump Thinks America Wants His Perversions (A.B. Stoddard/The Bulwark)](https://www.memeorandum.com/241103/p22) (Memeorandum.com)
+
+## 24-45 (malaria)
+
+- [Max Verstappen sigue siendo el rey en la F1](https://forbes.com.mx/max-verstappen-sigue-siendo-el-rey-en-la-f1/) (Forbes.com.mx)
 
 ## 24-45 (h5n1)
 
@@ -62,6 +70,12 @@ Source: [News API](https://newsapi.org/)
 - [„Der Mensch ist bislang kein guter Wirt“](https://www.faz.net/aktuell/wissen/leben-gene/vogelgrippe-was-der-uebersprung-aufs-schwein-bedeutet-110083432.html) (Faz.net)
 
 ## 24-45 (dengue)
+
+- [Bangladesh records highest single-day toll of 10 dengue deaths](http://en.people.cn/n3/2024/1104/c90000-20237196.html) (People.cn)
+
+- [Baguio: Karaniwang mga sakit, dapat hindi dapat ipagwalang bahala – Dr. Brillantes](https://rpnradio.com/baguio-karaniwang-mga-sakit-dapat-hindi-dapat-ipagwalang-bahala-dr-brillantes/) (Rpnradio.com)
+
+- [Mosquito da dengue pica por cima da roupa? Veja a opinião de especialistas](https://catracalivre.com.br/saude-bem-estar/mosquito-da-dengue-pica-roupa/) (Catracalivre.com.br)
 
 - [Kolkata reports second dengue death in Bidhannagar amid declining cases](https://timesofindia.indiatimes.com/city/kolkata/kolkata-reports-second-dengue-death-in-bidhannagar-area-amid-declining-cases/articleshow/114910748.cms) (The Times of India)
 
@@ -2579,6 +2593,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Whooping Cough Cases Surge](https://www.newser.com/story/356862/whooping-cough-cases-surge.html) (Newser)
 
+- [What to do if you or your kid gets COVID-19 this fall](https://www.cbc.ca/news/canada/ottawa/what-to-do-if-you-or-your-kid-gets-covid-19-this-fall-1.7328679) (CBC News)
+
 ## 24-39 (mpox)
 
 - [Six morts du virus de Marburg, similaire à Ebola, au Rwanda](https://www.20minutes.fr/sante/4112589-20240928-six-morts-virus-marburg-similaire-ebola-rwanda) (20 Minutes)
@@ -2907,6 +2923,12 @@ Source: [News API](https://newsapi.org/)
 
 - [Enhancement of clinical signs in C3H/HeJ mice vaccinated with a highly immunogenic Leptospira methyl-accepting chemotaxis protein following challenge](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012155) (Plos.org)
 
+## 24-39 (hpai)
+
+- [Исследование: Птицы-пираты ускоряют распространение смертельного птичьего гриппа](https://vfokuse.mail.ru/article/issledovanie-pticy-piraty-uskoryayut-rasprostranenie-smertelnogo-ptichego-grippa-62903241/) (Mail.ru)
+
+- ["Пернатые пираты" ускоряют распространение смертельного птичьего гриппа, выяснили ученые](https://www.gazeta.ru/science/news/2024/09/22/23979301.shtml) (Gazeta.ru)
+
 ## 24-39 (h5n1)
 
 - [SUA confirmă primul caz de gripă aviară fără provenienţă animală cunoscută](https://www.mediafax.ro/sanatate/sua-confirma-primul-caz-de-gripa-aviara-fara-provenienta-animala-cunoscuta-22498397) (Mediafax.ro)
@@ -2974,6 +2996,10 @@ Source: [News API](https://newsapi.org/)
 - [Can our stockpiles of Tamiflu protect against a bird flu pandemic?](https://undark.org/2024/09/23/h5n1-old-drug-protect-against-new-pandemic/) (Undark Magazine)
 
 - [Otro contacto del paciente de Missouri con síntomas de gripe aviar hace temer el contagio entre humanos](https://www.elespanol.com/ciencia/salud/20240923/contacto-paciente-missouri-sintomas-gripe-aviar-hace-temer-contagio-humanos/888161276_0.html) (Elespanol.com)
+
+- [Исследование: Птицы-пираты ускоряют распространение смертельного птичьего гриппа](https://vfokuse.mail.ru/article/issledovanie-pticy-piraty-uskoryayut-rasprostranenie-smertelnogo-ptichego-grippa-62903241/) (Mail.ru)
+
+- ["Пернатые пираты" ускоряют распространение смертельного птичьего гриппа, выяснили ученые](https://www.gazeta.ru/science/news/2024/09/22/23979301.shtml) (Gazeta.ru)
 
 ## 24-39 (dengue)
 
@@ -3064,6 +3090,12 @@ Source: [News API](https://newsapi.org/)
 - [Health D-G: Drop in dengue cases during from Sept 8 to 14, no deaths reported](https://www.malaymail.com/news/malaysia/2024/09/23/health-d-g-drop-in-dengue-cases-from-sept-8-to-14-no-deaths-reported/151342) (Malay Mail)
 
 - [Kenali Tanda dan Gejala Demam Berdarah Dengue, Ada 3 Fase Dalam 7 Hari](https://www.liputan6.com/health/read/5708649/kenali-tanda-dan-gejala-demam-berdarah-dengue-ada-3-fase-dalam-7-hari) (Liputan6.com)
+
+- [Dengue scare: Docs suggest keeping eye on kids’ hydration level](https://timesofindia.indiatimes.com/city/bengaluru/dengue-alert-parents-urged-to-monitor-childrens-hydration-amid-rising-cases/articleshow/113577463.cms) (The Times of India)
+
+- [Pharmacies see 25% rise inqueries for dengue drugs](https://timesofindia.indiatimes.com/city/bengaluru/pharmacies-see-25-rise-inqueries-for-dengue-drugs/articleshow/113577327.cms) (The Times of India)
+
+- [Manipur health minister seeks public participation to combat rising dengue cases](https://www.indiatodayne.in/manipur/story/manipur-health-minister-seeks-public-participation-to-combat-rising-dengue-cases-1096640-2024-09-22) (Indiatodayne.in)
 
 ## 24-39 (chikungunya)
 
