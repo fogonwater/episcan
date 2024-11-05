@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 6
-- **Last harvest:** 2024-11-05 07:06
-- **Most recent article:** 2024-11-04 06:30:00
+- **New articles in last harvest:** 17
+- **Last harvest:** 2024-11-05 19:05
+- **Most recent article:** 2024-11-04 19:00:29
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-39 | 24-40 | 24-41 | 24-42 | 24-43 | 24-44 | 24-45 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 120 | 128 | 42 | 81 | 131 | 75 | 3 | 580 |
-| dengue | 47 | 51 | 35 | 50 | 53 | 31 | 4 | 271 |
-| h5n1 | 35 | 50 | 10 | 18 | 12 | 61 | 2 | 188 |
-| malaria | 24 | 10 | 13 | 18 | 58 | 16 | 1 | 140 |
+| mpox | 120 | 128 | 42 | 81 | 131 | 75 | 5 | 582 |
+| dengue | 44 | 51 | 35 | 50 | 53 | 31 | 5 | 269 |
+| h5n1 | 33 | 50 | 10 | 18 | 12 | 61 | 7 | 191 |
+| malaria | 24 | 10 | 13 | 18 | 58 | 16 | 7 | 146 |
 | rabies | 25 | 30 | 6 | 7 | 3 | 10 | 2 | 83 |
-| measles | 4 | 6 | 5 | 3 | 1 | 13 | 1 | 33 |
+| measles | 4 | 6 | 5 | 3 | 1 | 13 | 2 | 34 |
 | meningitis | 6 | 11 | 2 | 1 | 6 | 3 | 3 | 32 |
-| zika | 1 | 3 | 4 | 6 | 6 | 3 | 0 | 23 |
-| chikungunya | 3 | 3 | 3 | 4 | 7 | 2 | 0 | 22 |
-| pertussis | 2 | 2 | 2 | 9 | 3 | 1 | 0 | 19 |
-| hpai | 2 | 2 | 1 | 2 | 2 | 7 | 0 | 16 |
-| leptospirosis | 5 | 4 | 1 | 1 | 0 | 3 | 0 | 14 |
+| chikungunya | 3 | 3 | 3 | 4 | 7 | 2 | 2 | 24 |
+| zika | 1 | 3 | 4 | 6 | 6 | 3 | 1 | 24 |
+| pertussis | 1 | 2 | 2 | 9 | 3 | 1 | 0 | 18 |
+| leptospirosis | 5 | 4 | 1 | 1 | 0 | 3 | 1 | 15 |
+| hpai | 0 | 2 | 1 | 2 | 2 | 7 | 0 | 14 |
 | typhoid | 4 | 1 | 0 | 1 | 3 | 4 | 0 | 13 |
 | yersinia | 2 | 1 | 1 | 0 | 0 | 3 | 0 | 7 |
 | shigellosis | 0 | 1 | 3 | 0 | 1 | 0 | 0 | 5 |
@@ -33,6 +33,10 @@ Source: [News API](https://newsapi.org/)
 
 ---
 
+## 24-45 (zika)
+
+- [Extrato de própolis demonstra efeito contra vírus propagados por mosquitos](https://veja.abril.com.br/saude/extrato-de-propolis-demonstra-efeito-contra-virus-propagados-por-mosquitos) (Abril.com.br)
+
 ## 24-45 (rabies)
 
 - [Social Media Star Peanut the Squirrel Euthanized by New York State, Owners Plan to Take Legal Action](https://www.justjared.com/2024/11/03/social-media-star-peanut-the-squirrel-euthanized-by-new-york-state-owners-plan-to-take-legal-action/) (Just Jared)
@@ -40,6 +44,10 @@ Source: [News API](https://newsapi.org/)
 - [Why Instagram-famous 'Peanut the Squirrel' was euthanised by NY officials? The controversy that caught US elections by storm](https://economictimes.indiatimes.com/news/international/global-trends/why-instagram-famous-peanut-the-squirrel-was-euthanised-by-ny-officials-the-controversy-that-caught-us-elections-by-storm/articleshow/114913238.cms) (The Times of India)
 
 ## 24-45 (mpox)
+
+- [Les négociations se poursuivent à l’OMS pour préparer le monde aux pandémies](https://www.lavenir.net/actu/monde/2024/11/04/les-negociations-se-poursuivent-a-loms-pour-preparer-le-monde-aux-pandemies-E3H42YG4OBANNMHXIBJW6LDLQA/) (Lavenir.net)
+
+- [More cases of new mpox strain detected in UK](https://news.sky.com/story/mpox-more-cases-of-new-clade-1b-strain-detected-in-uk-13248258) (Sky.com)
 
 - [Mpox cases in Congo may be stabilizing, but more vaccines needed to stamp out virus](https://www.voanews.com/a/mpox-cases-in-congo-may-be-stabilizing-but-more-vaccines-needed-to-stamp-out-virus-/7849399.html) (VOA News)
 
@@ -57,19 +65,49 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-45 (measles)
 
+- [Trump May End Water Fluoridation On Day One, Will Consider Banning Vaccines](https://www.wonkette.com/p/trump-may-end-water-fluoridation) (Wonkette.com)
+
 - [Trump Thinks America Wants His Perversions (A.B. Stoddard/The Bulwark)](https://www.memeorandum.com/241103/p22) (Memeorandum.com)
 
 ## 24-45 (malaria)
 
+- [Sudan records 2 to 3 mln malaria cases annually: health minister](https://www.thestar.com.my/news/world/2024/11/05/sudan-records-2-to-3-mln-malaria-cases-annually-health-minister) (The Star Online)
+
+- [Mosquito season in southern Africa: tonic water and vitamins won’t protect you but knowing where the hotspots are will](https://theconversation.com/mosquito-season-in-southern-africa-tonic-water-and-vitamins-wont-protect-you-but-knowing-where-the-hotspots-are-will-242620) (The Conversation Africa)
+
+- [Effects of gestational age on blood cortisol and prolactin levels during pregnancy in malaria endemic area](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0310372) (Plos.org)
+
+- [The role of connectivity on malaria dynamics across areas with contrasting control coverage in the Peruvian Amazon](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012560) (Plos.org)
+
+- [Association of the humoral immune response with the inflammatory profile in Plasmodium vivax infections in pregnant women](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012636) (Plos.org)
+
+- [Ogun, SFH to combat malaria with net distribution campaign](https://punchng.com/ogun-sfh-to-combat-malaria-with-net-distribution-campaign/) (The Punch)
+
 - [Max Verstappen sigue siendo el rey en la F1](https://forbes.com.mx/max-verstappen-sigue-siendo-el-rey-en-la-f1/) (Forbes.com.mx)
 
+## 24-45 (leptospirosis)
+
+- [Alertan del riesgo de leptospirosis y tetanos entre afectados por la DANA, ¿cómo se contraen? ¿qué síntomas tienen?](https://www.infosalus.com/salud-investigacion/noticia-alertan-riesgo-leptospirosis-tetanos-afectados-dana-contraen-sintomas-tienen-20241104151730.html) (Infosalus.com)
+
 ## 24-45 (h5n1)
+
+- [Les négociations se poursuivent à l’OMS pour préparer le monde aux pandémies](https://www.lavenir.net/actu/monde/2024/11/04/les-negociations-se-poursuivent-a-loms-pour-preparer-le-monde-aux-pandemies-E3H42YG4OBANNMHXIBJW6LDLQA/) (Lavenir.net)
+
+- [Animal Ag News 11/4](https://agwired.com/2024/11/04/animal-ag-news-11-4/) (AgWired)
+
+- [Bird flu detected in pigs – here’s why virologists are concerned](https://theconversation.com/bird-flu-detected-in-pigs-heres-why-virologists-are-concerned-242623) (The Conversation Africa)
+
+- [World Organisation for Animal Health: Turkey reports bird flu outbreak on poultry farm](https://www.jpost.com/breaking-news/article-827543) (The Jerusalem Post)
+
+- [H5N1 Detected in LA County Wastewater, Health Officials Urge Precautions for Residents](https://www.newsbreak.com/share/3660637345422-h5n1-detected-in-la-county-wastewater-health-officials-urge-precautions-for-residents?s=a7&amp;share_destination_id=MjIzOTM2NzQxLTE3MzA3Mzc0MTQxMTc%3D&amp;pd=0F9cAv3j&amp;hl=en_US&amp;send_time=1730737414&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2224.43.1%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_rank_exp_24q4-control%2Cns_foryou_blend_exp_24q4-v8%2Cns_local_strategy_24q4_exp-v6%2Cns_foryou_model_exp_24q4-v8%2Cns_foryou_recall_exp_24q4-v8%2Cns_pushv1-v5) (Newsbreak.com)
 
 - [חזיר נדבק בשפעת העופות בארה"ב: "חשש מווירוס חדש ואלים שידביק בני אדם"](https://www.ynet.co.il/health/article/byho112vbkl) (Ynet)
 
 - [„Der Mensch ist bislang kein guter Wirt“](https://www.faz.net/aktuell/wissen/leben-gene/vogelgrippe-was-der-uebersprung-aufs-schwein-bedeutet-110083432.html) (Faz.net)
 
 ## 24-45 (dengue)
+
+- [3,772 dengue cases in Haryana this season, over 160 in Gurgaon](https://timesofindia.indiatimes.com/city/gurgaon/dengue-cases-surge-in-haryana-state/articleshow/114944281.cms) (The Times of India)
 
 - [Bangladesh records highest single-day toll of 10 dengue deaths](http://en.people.cn/n3/2024/1104/c90000-20237196.html) (People.cn)
 
@@ -78,6 +116,12 @@ Source: [News API](https://newsapi.org/)
 - [Mosquito da dengue pica por cima da roupa? Veja a opinião de especialistas](https://catracalivre.com.br/saude-bem-estar/mosquito-da-dengue-pica-roupa/) (Catracalivre.com.br)
 
 - [Kolkata reports second dengue death in Bidhannagar amid declining cases](https://timesofindia.indiatimes.com/city/kolkata/kolkata-reports-second-dengue-death-in-bidhannagar-area-amid-declining-cases/articleshow/114910748.cms) (The Times of India)
+
+## 24-45 (chikungunya)
+
+- [A single dose recombinant AAV based CHIKV vaccine elicits robust and durable protective antibody responses in mice](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012604) (Plos.org)
+
+- [Extrato de própolis demonstra efeito contra vírus propagados por mosquitos](https://veja.abril.com.br/saude/extrato-de-propolis-demonstra-efeito-contra-virus-propagados-por-mosquitos) (Abril.com.br)
 
 ## 24-44 (zika)
 
@@ -2593,8 +2637,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Whooping Cough Cases Surge](https://www.newser.com/story/356862/whooping-cough-cases-surge.html) (Newser)
 
-- [What to do if you or your kid gets COVID-19 this fall](https://www.cbc.ca/news/canada/ottawa/what-to-do-if-you-or-your-kid-gets-covid-19-this-fall-1.7328679) (CBC News)
-
 ## 24-39 (mpox)
 
 - [Six morts du virus de Marburg, similaire à Ebola, au Rwanda](https://www.20minutes.fr/sante/4112589-20240928-six-morts-virus-marburg-similaire-ebola-rwanda) (20 Minutes)
@@ -2923,12 +2965,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Enhancement of clinical signs in C3H/HeJ mice vaccinated with a highly immunogenic Leptospira methyl-accepting chemotaxis protein following challenge](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012155) (Plos.org)
 
-## 24-39 (hpai)
-
-- [Исследование: Птицы-пираты ускоряют распространение смертельного птичьего гриппа](https://vfokuse.mail.ru/article/issledovanie-pticy-piraty-uskoryayut-rasprostranenie-smertelnogo-ptichego-grippa-62903241/) (Mail.ru)
-
-- ["Пернатые пираты" ускоряют распространение смертельного птичьего гриппа, выяснили ученые](https://www.gazeta.ru/science/news/2024/09/22/23979301.shtml) (Gazeta.ru)
-
 ## 24-39 (h5n1)
 
 - [SUA confirmă primul caz de gripă aviară fără provenienţă animală cunoscută](https://www.mediafax.ro/sanatate/sua-confirma-primul-caz-de-gripa-aviara-fara-provenienta-animala-cunoscuta-22498397) (Mediafax.ro)
@@ -2996,10 +3032,6 @@ Source: [News API](https://newsapi.org/)
 - [Can our stockpiles of Tamiflu protect against a bird flu pandemic?](https://undark.org/2024/09/23/h5n1-old-drug-protect-against-new-pandemic/) (Undark Magazine)
 
 - [Otro contacto del paciente de Missouri con síntomas de gripe aviar hace temer el contagio entre humanos](https://www.elespanol.com/ciencia/salud/20240923/contacto-paciente-missouri-sintomas-gripe-aviar-hace-temer-contagio-humanos/888161276_0.html) (Elespanol.com)
-
-- [Исследование: Птицы-пираты ускоряют распространение смертельного птичьего гриппа](https://vfokuse.mail.ru/article/issledovanie-pticy-piraty-uskoryayut-rasprostranenie-smertelnogo-ptichego-grippa-62903241/) (Mail.ru)
-
-- ["Пернатые пираты" ускоряют распространение смертельного птичьего гриппа, выяснили ученые](https://www.gazeta.ru/science/news/2024/09/22/23979301.shtml) (Gazeta.ru)
 
 ## 24-39 (dengue)
 
@@ -3090,12 +3122,6 @@ Source: [News API](https://newsapi.org/)
 - [Health D-G: Drop in dengue cases during from Sept 8 to 14, no deaths reported](https://www.malaymail.com/news/malaysia/2024/09/23/health-d-g-drop-in-dengue-cases-from-sept-8-to-14-no-deaths-reported/151342) (Malay Mail)
 
 - [Kenali Tanda dan Gejala Demam Berdarah Dengue, Ada 3 Fase Dalam 7 Hari](https://www.liputan6.com/health/read/5708649/kenali-tanda-dan-gejala-demam-berdarah-dengue-ada-3-fase-dalam-7-hari) (Liputan6.com)
-
-- [Dengue scare: Docs suggest keeping eye on kids’ hydration level](https://timesofindia.indiatimes.com/city/bengaluru/dengue-alert-parents-urged-to-monitor-childrens-hydration-amid-rising-cases/articleshow/113577463.cms) (The Times of India)
-
-- [Pharmacies see 25% rise inqueries for dengue drugs](https://timesofindia.indiatimes.com/city/bengaluru/pharmacies-see-25-rise-inqueries-for-dengue-drugs/articleshow/113577327.cms) (The Times of India)
-
-- [Manipur health minister seeks public participation to combat rising dengue cases](https://www.indiatodayne.in/manipur/story/manipur-health-minister-seeks-public-participation-to-combat-rising-dengue-cases-1096640-2024-09-22) (Indiatodayne.in)
 
 ## 24-39 (chikungunya)
 

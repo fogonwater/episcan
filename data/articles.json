@@ -1,8 +1,316 @@
 {
-  "last_updated": "2024-11-05 07:06",
-  "count_articles_total": 1392,
-  "count_articles_new": 6,
+  "last_updated": "2024-11-05 19:05",
+  "count_articles_total": 1403,
+  "count_articles_new": 17,
   "articles": [
+    {
+      "id": 15241,
+      "query": [
+        "h5n1",
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Lavenir.net",
+      "author": "AFP -",
+      "title": "Les n\u00e9gociations se poursuivent \u00e0 l\u2019OMS pour pr\u00e9parer le monde aux pand\u00e9mies",
+      "description": "Les pays membres de l\u2019Organisation mondiale de la sant\u00e9 ont repris les n\u00e9gociations, ce lundi 4 novembre 2024, pour tenter de finaliser un accord sur la pr\u00e9vention des pand\u00e9mies, les \u00e9pid\u00e9mies de mpox, Marburg ou H5N1. Ils insistent sur l\u2019urgence de parvenir \u2026",
+      "url": "https://www.lavenir.net/actu/monde/2024/11/04/les-negociations-se-poursuivent-a-loms-pour-preparer-le-monde-aux-pandemies-E3H42YG4OBANNMHXIBJW6LDLQA/",
+      "urlToImage": "https://www.lavenir.net/resizer/v2/HVY6V74SOFE4NJ3FULILPZEEYE.jpg?auth=0270ea09015b4456c577ac3179415fb632f4c4fedd8c4d718c598228b0a3ec3e&width=1200&height=630&quality=85&focal=3000%2C2000&watermark=https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Fipmgroup%2FUVYY255VT5BDBHOGCTGBCGI364.png%3A100%3A0%2C558",
+      "publishedAt": "2024-11-04 19:00:29",
+      "content": "\"Le temps n'est pas notre alli\u00e9. Le Covid circule toujours. Le mpox est une urgence sanitaire mondiale. Nous avons une \u00e9pid\u00e9mie de Marburg et une propagation du H5N1. La prochaine pand\u00e9mie n'attendra\u2026 [+2983 chars]",
+      "retrievedAt": "2024-11-05 19:05:47.215745",
+      "internal_id": "5779c47ed1cd47d032b28460bb2892a474dd21ace7d51b6d5eb95e848c944de8",
+      "publishedAtLabel": "Nov 4"
+    },
+    {
+      "id": 15243,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "AgWired",
+      "author": "Carrie Muehling",
+      "title": "Animal Ag News 11/4",
+      "description": "The National Pork Producers Council (NPPC) confirms there is no food safety concerns about the nation\u2019s pork supply after the detection of H5N1 influenza in swine on a small backyard farm in Oregon. NPPC continues to work closely with the United States Depart\u2026",
+      "url": "https://agwired.com/2024/11/04/animal-ag-news-11-4/",
+      "urlToImage": "http://agwired.com/wp-content/uploads/2016/09/AW-agwired-alpha-full-color.png",
+      "publishedAt": "2024-11-04 18:37:40",
+      "content": "ZimmCast 737- Preview of AgGateway Annual Conference In this episode well get a preview of the AgGateway Annual Conference that will be starting November 11th in Austin. I talked with Brent Kemp, Pr\u2026 [+220 chars]",
+      "retrievedAt": "2024-11-05 19:05:47.228309",
+      "internal_id": "801469f133097d7edefcc7a9b8c46ef4f0c62c755953fc479e599c5130ad5ebf",
+      "publishedAtLabel": "Nov 4"
+    },
+    {
+      "id": 15242,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Ed Hutchinson, Professor, MRC-University of Glasgow Centre for Virus Research, University of Glasgow",
+      "title": "Bird flu detected in pigs \u2013 here\u2019s why virologists are concerned",
+      "description": "Pigs are \u2018mixing vessels\u2019 for different viruses \u2013 the perfect creature for swapping genes in.",
+      "url": "https://theconversation.com/bird-flu-detected-in-pigs-heres-why-virologists-are-concerned-242623",
+      "urlToImage": "https://images.theconversation.com/files/629726/original/file-20241104-15-vxkjp4.jpg?ixlib=rb-4.1.0&rect=0%2C617%2C5212%2C2602&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2024-11-04 17:22:47",
+      "content": "H5N1 influenza has now been detected in pigs. This was something virologists had been worrying about ever since this highly pathogenic strain of bird flu started its rapid global spread in 2020. But \u2026 [+6415 chars]",
+      "retrievedAt": "2024-11-05 19:05:47.222036",
+      "internal_id": "9032555ccb127cd0d76371046d36146882b4df15a7489f2224891193b49af038",
+      "publishedAtLabel": "Nov 4"
+    },
+    {
+      "id": 15239,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Wonkette.com",
+      "author": "Robyn Pennacchia",
+      "title": "Trump May End Water Fluoridation On Day One, Will Consider Banning Vaccines",
+      "description": "Make Tooth Decay/Measles Great Again?",
+      "url": "https://www.wonkette.com/p/trump-may-end-water-fluoridation",
+      "urlToImage": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F65f2672c-b79d-427c-bf3c-0a086f671d91_1920x1080.jpeg",
+      "publishedAt": "2024-11-04 17:20:56",
+      "content": "This Friday, Robert F. Kennedy Jr. made a proclamation that, if Donald Trump is elected, he will on day one end the fluoridation of drinking water (largely considered, except by kooks, to be one of t\u2026 [+5597 chars]",
+      "retrievedAt": "2024-11-05 19:05:46.478781",
+      "internal_id": "95fb77e624c6179eedc9067157af553a311ec19759e72bfd68aa3a3eb5a4fda7",
+      "publishedAtLabel": "Nov 4"
+    },
+    {
+      "id": 15251,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "[e]ktm",
+      "title": "Sudan records 2 to 3 mln malaria cases annually: health minister",
+      "description": "PORT SUDAN, Nov. 4 (Xinhua) -- Sudanese Health Minister Haitham Mohamed Ibrahim said on Monday that Sudan records between two and three million malaria cases annually. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2024/11/05/sudan-records-2-to-3-mln-malaria-cases-annually-health-minister",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2024-11-04 17:17:00",
+      "content": "PORT SUDAN, Nov. 4 (Xinhua) -- Sudanese Health Minister Haitham Mohamed Ibrahim said on Monday that Sudan records between two and three million malaria cases annually. \"Sudan records the highest ra\u2026 [+782 chars]",
+      "retrievedAt": "2024-11-05 19:05:48.161126",
+      "internal_id": "2290706632fd6a640d8d3a0e137c17713d076cd3a612b817f07d096dfecfed7c",
+      "publishedAtLabel": "Nov 4"
+    },
+    {
+      "id": 15240,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "the-jerusalem-post",
+      "source_name": "The Jerusalem Post",
+      "author": "BY REUTERS",
+      "title": "World Organisation for Animal Health: Turkey reports bird flu outbreak on poultry farm",
+      "description": "Turkey has reported an outbreak of the highly contagious H5N1 strain of avian influenza on a poultry farm for",
+      "url": "https://www.jpost.com/breaking-news/article-827543",
+      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/534687",
+      "publishedAt": "2024-11-04 17:15:37",
+      "content": "Turkey has reported an outbreak of the highly contagious H5N1 strain of avian influenza on a poultry farm for the first time in over a year, the World Organisation for Animal Health (WOAH) said on Mo\u2026 [+299 chars]",
+      "retrievedAt": "2024-11-05 19:05:47.208722",
+      "internal_id": "ea66393d8fbd72973c03137b86d36277238193219fc616216ab9721adc6d093b",
+      "publishedAtLabel": "Nov 4"
+    },
+    {
+      "id": 15244,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Newsbreak.com",
+      "author": "Westsidetoday.com",
+      "title": "H5N1 Detected in LA County Wastewater, Health Officials Urge Precautions for Residents",
+      "description": "Los Angeles County Investigates Low-Level H5 Avian Flu Detected in Wastewater. The Los Angeles County Department of Public Health is investigating potential sources of the H5 strain of avian influenza, detected for the first time at a low level in the county\u2019\u2026",
+      "url": "https://www.newsbreak.com/share/3660637345422-h5n1-detected-in-la-county-wastewater-health-officials-urge-precautions-for-residents?s=a7&amp;share_destination_id=MjIzOTM2NzQxLTE3MzA3Mzc0MTQxMTc%3D&amp;pd=0F9cAv3j&amp;hl=en_US&amp;send_time=1730737414&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2224.43.1%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_rank_exp_24q4-control%2Cns_foryou_blend_exp_24q4-v8%2Cns_local_strategy_24q4_exp-v6%2Cns_foryou_model_exp_24q4-v8%2Cns_foryou_recall_exp_24q4-v8%2Cns_pushv1-v5",
+      "urlToImage": "https://img.particlenews.com/img/id/2pEnQn_0wYXk6IF00?type=thumbnail_1600x1200",
+      "publishedAt": "2024-11-04 16:25:39",
+      "content": "Its essential to note our commitment to transparency: Our Terms of Use acknowledge that our services may not always be error-free, and our Community Standards emphasize our discretion in enforcing \u2026 [+246 chars]",
+      "retrievedAt": "2024-11-05 19:05:47.255878",
+      "internal_id": "1da6ceaa8864ed5dad9d6607cfb0a3b083c4aa21dccddb32cc959dd2b4df3387",
+      "publishedAtLabel": "Nov 4"
+    },
+    {
+      "id": 15246,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Sh\u00fcn\u00e9 Oliver, Medical scientist, National Institute for Communicable Diseases, Jaishree Raman, Principal Medical Scientist and Head of Laboratory for Antimalarial Resistance Monitoring and Malaria Operational Research, National Institute for Communicable Diseases",
+      "title": "Mosquito season in southern Africa: tonic water and vitamins won\u2019t protect you but knowing where the hotspots are will",
+      "description": "Mosquitoes are the world\u2019s most dangerous animal. It\u2019s important to know how to avoid malaria.",
+      "url": "https://theconversation.com/mosquito-season-in-southern-africa-tonic-water-and-vitamins-wont-protect-you-but-knowing-where-the-hotspots-are-will-242620",
+      "urlToImage": "https://images.theconversation.com/files/629820/original/file-20241104-17-ghxyii.png?ixlib=rb-4.1.0&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2024-11-04 15:45:12",
+      "content": "While the emergence of colourful butterflies is a welcome sign of summer, the constant buzzing of mosquitoes is an annoying part of the season. Mosquitoes are more than just pests. They are the wor\u2026 [+6471 chars]",
+      "retrievedAt": "2024-11-05 19:05:48.111580",
+      "internal_id": "59a2d9f8d08274ccf1d5ea8ab9291213afedef458b9c86f9d1cdf5a400ef673d",
+      "publishedAtLabel": "Nov 4"
+    },
+    {
+      "id": 15255,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "Alertan del riesgo de leptospirosis y tetanos entre afectados por la DANA, \u00bfc\u00f3mo se contraen? \u00bfqu\u00e9 s\u00edntomas tienen?",
+      "description": "Las pr\u00f3ximas cuatro semanas que pueden surgir entre los afectados de la DANA las primeras oleadas de enfermedades infecciosas, bien transmitidas por el aire, los alimentos o el agua, siendo especialmente preocupantes las enfermedades diarreicas, la leptospiro\u2026",
+      "url": "https://www.infosalus.com/salud-investigacion/noticia-alertan-riesgo-leptospirosis-tetanos-afectados-dana-contraen-sintomas-tienen-20241104151730.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20241104151730_1200.jpg",
+      "publishedAt": "2024-11-04 14:17:30",
+      "content": "\"Los desastres no transmiten enfermedades infecciosas\" MADRID, 4 Nov. (EUROPA PRESS) - Las pr\u00f3ximas cuatro semanas que pueden surgir entre los afectados de la DANA las primeras oleadas de enferm\u2026 [+5619 chars]",
+      "retrievedAt": "2024-11-05 19:05:49.627754",
+      "internal_id": "2a69e966b5e715177f97eff33a5c323085977aaef69892f92c65c0712d54447a",
+      "publishedAtLabel": "Nov 4"
+    },
+    {
+      "id": 15247,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Francois Kiemde, Hermann Sorgho, Serge Henri Zango, Gnohion Fabrice Some, Toussaint Rouamba, Ousmane Traore, Berenger Kabore, Hamtandi Magloire Natama, Yeri Esther Hien, Innocent Valea, Henk Schallig, Halidou Tinto",
+      "title": "Effects of gestational age on blood cortisol and prolactin levels during pregnancy in malaria endemic area",
+      "description": "Background The hormonal shift occurring in pregnant women is crucial for the outcome of pregnancy. We conducted a study in pregnant women living in a malaria endemic area to determine the potential effect of gestational age on the modulation of the endocrine \u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0310372",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0310372.g002&size=inline",
+      "publishedAt": "2024-11-04 14:00:00",
+      "content": "Abstract Background The hormonal shift occurring in pregnant women is crucial for the outcome of pregnancy. We conducted a study in pregnant women living in a malaria endemic area to determine the \u2026 [+45556 chars]",
+      "retrievedAt": "2024-11-05 19:05:48.118418",
+      "internal_id": "a9c6fb3186204e25660bab3b1897bf8f8578c9ec584b14da91165785e8dd7d96",
+      "publishedAtLabel": "Nov 4"
+    },
+    {
+      "id": 15249,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Gabriel Carrasco-Escobar, Diego Villa, Antony Barja, Rachel Lowe, Alejandro Llanos-Cuentas, Tarik Benmarhnia",
+      "title": "The role of connectivity on malaria dynamics across areas with contrasting control coverage in the Peruvian Amazon",
+      "description": "Author summary In our study, we explored how the connections between villages in the Amazon region can help us better understand the spread of malaria. By examining how people move between these villages, we identified key locations that play a significant ro\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012560",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012560.g006&size=inline",
+      "publishedAt": "2024-11-04 14:00:00",
+      "content": "Abstract Network analysis may improve the understanding of malaria epidemiology in rural areas of the Amazon region by explicitly representing the relationships between villages as a proxy for human\u2026 [+51943 chars]",
+      "retrievedAt": "2024-11-05 19:05:48.142346",
+      "internal_id": "0a3904d77c8835b38e3016122bac57a29a5fd88dc214664adaa9e6ab72124009",
+      "publishedAtLabel": "Nov 4"
+    },
+    {
+      "id": 15250,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Rodrigo Medeiros de Souza, Maria In\u00eas dos Santos, Laura Cordeiro Gomes, Bruna Beatriz Pedroza de Melo, Erika Paula Machado Separovic, Oscar Murillo, Gerhard Wunderlich, Taane Gregory Clark, Susana Campino, Sabrina Epiphanio, Claudio Romero Farias Marinho, Jamille Greg\u00f3rio Dombrowski",
+      "title": "Association of the humoral immune response with the inflammatory profile in Plasmodium vivax infections in pregnant women",
+      "description": "Author summary Plasmodium vivax malaria in pregnancy is also associated with several adverse outcomes, even in low-transmission regions such as South America. However, to our knowledge, no study has previously investigated the link between the humoral immune \u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012636",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012636.g002&size=inline",
+      "publishedAt": "2024-11-04 14:00:00",
+      "content": "Citation: Souza RMd, dos Santos MI, Gomes LC, de Melo BBP, Separovic EPM, Murillo O, et al. (2024) Association of the humoral immune response with the inflammatory profile in Plasmodium vivax infecti\u2026 [+28561 chars]",
+      "retrievedAt": "2024-11-05 19:05:48.148745",
+      "internal_id": "a816cafa549b0aa5d13219e790a9772ccaec07eace1adeacd8ad5529eaaf92bd",
+      "publishedAtLabel": "Nov 4"
+    },
+    {
+      "id": 15253,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Qin-Xuan Zhu, Ya-Nan Zhang, Hong-Qing Zhang, Chao Leng, Cheng-Lin Deng, Xin Wang, Jia-Jia Li, Xiang-Li Ye, Bo Zhang, Xiao-Dan Li",
+      "title": "A single dose recombinant AAV based CHIKV vaccine elicits robust and durable protective antibody responses in mice",
+      "description": "Author summary Recently, a live attenuated CHIKV was approved as the first vaccine to combat the virus infection. Despite the general safety of this vaccine, several severe chikungunya-like adverse reactions have been reported, and the long-term safety should\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012604",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012604.g006&size=inline",
+      "publishedAt": "2024-11-04 14:00:00",
+      "content": "Abstract Background Chikungunya virus (CHIKV) is a mosquito-borne alphavirus that is responsible for Chikungunya fever, which is characterized by fever, rash, and debilitating polyarthralgia. Since\u2026 [+60854 chars]",
+      "retrievedAt": "2024-11-05 19:05:48.789980",
+      "internal_id": "9a37fc113e371815e187c311a67f82179dd729f49bf54b7a9e45d21ef257fd45",
+      "publishedAtLabel": "Nov 4"
+    },
+    {
+      "id": 15252,
+      "query": [
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Diogo Sponchiato",
+      "title": "Extrato de pr\u00f3polis demonstra efeito contra v\u00edrus propagados por mosquitos",
+      "description": "Experimento do Instituto Butantan revela a\u00e7\u00e3o antiviral contra zika, chikungunya e mayaro",
+      "url": "https://veja.abril.com.br/saude/extrato-de-propolis-demonstra-efeito-contra-virus-propagados-por-mosquitos",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2024/11/IMG_8258.jpeg?quality=70&strip=info&crop=1&resize=1080,565",
+      "publishedAt": "2024-11-04 12:38:10",
+      "content": "Black Friday: Assine a partir de 1,49/semanaContinua ap\u00f3s publicidade Por Fernanda Bassette/ Ag\u00eancia Fapesp 4 nov 2024, 09h38 Potencial da pr\u00f3polis: estudo investigou resina produzida por abelha\u2026 [+5884 chars]",
+      "retrievedAt": "2024-11-05 19:05:48.476228",
+      "internal_id": "31273293fc8002b44b3395f8bdfbc7425313f2f137cfbf2af15c5ba0bfe10a10",
+      "publishedAtLabel": "Nov 4"
+    },
+    {
+      "id": 15254,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Sky.com",
+      "author": "Samuel Osborne",
+      "title": "More cases of new mpox strain detected in UK",
+      "description": "Two more cases of a new strain of mpox have been detected in the UK, officials say.",
+      "url": "https://news.sky.com/story/mpox-more-cases-of-new-clade-1b-strain-detected-in-uk-13248258",
+      "urlToImage": "https://e3.365dm.com/24/10/1600x900/skynews-mpox-virus-electron_6712582.jpg?20241010162229",
+      "publishedAt": "2024-11-04 12:22:00",
+      "content": "Two more cases of a new strain of mpox have been detected in the UK, officials say. Last week, the UK Health Security Agency (UKHSA) said a single case of the mpox virus variant Clade 1b had been co\u2026 [+2036 chars]",
+      "retrievedAt": "2024-11-05 19:05:49.039325",
+      "internal_id": "a9a3ee8741982c09051ff536f9076912711bb6e3a2ff07be234c2a14c930b9be",
+      "publishedAtLabel": "Nov 4"
+    },
+    {
+      "id": 15248,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Taiwo Bankole",
+      "title": "Ogun, SFH to combat malaria with net distribution campaign",
+      "description": "The Ogun State Government in partnership with the Society For Family Health with the support of Global Fund Malaria, have begun intense mobilisation of residents across the state for the distribution of 3.1m insecticide-treated nets from November 18. Speaking\u2026",
+      "url": "https://punchng.com/ogun-sfh-to-combat-malaria-with-net-distribution-campaign/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2024/10/28091409/insecticide-treated-nets.jpeg",
+      "publishedAt": "2024-11-04 10:49:16",
+      "content": "The Ogun State Government in partnership with the Society For Family Health with the support of Global Fund Malaria, have begun intense mobilisation of residents across the state for the distribution\u2026 [+3065 chars]",
+      "retrievedAt": "2024-11-05 19:05:48.125344",
+      "internal_id": "a11abbf9da4bfdcb679fe4984ca45f783e9a79bc9cba0e6a8706582c3b36e11a",
+      "publishedAtLabel": "Nov 4"
+    },
+    {
+      "id": 15245,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Ipsita Pati",
+      "title": "3,772 dengue cases in Haryana this season, over 160 in Gurgaon",
+      "description": "Haryana is experiencing a surge in dengue fever cases, with over 3,772 reported and Panchkula being the most affected district. The warm and humid weather is creating favorable breeding conditions for the Aedes mosquito. Health officials anticipate a decline \u2026",
+      "url": "https://timesofindia.indiatimes.com/city/gurgaon/dengue-cases-surge-in-haryana-state/articleshow/114944281.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-114944263,width-1070,height-580,imgsize-2838,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-11-04 10:18:32",
+      "content": "How to grow Dhaniya at home without any soil or sand (you only need water!)",
+      "retrievedAt": "2024-11-05 19:05:47.436230",
+      "internal_id": "df2efd29d47aefd526bb7f6446c92c40e2ce70d631f8b4b9511c674bd8de1eaf",
+      "publishedAtLabel": "Nov 4"
+    },
     {
       "id": 15236,
       "query": [
@@ -25002,116 +25310,6 @@
       "retrievedAt": "2024-09-24 07:06:25.165214",
       "internal_id": "9abfbe4a7c6380a372466b00b37b567d2ea02f24d84f90762c53768de3286da2",
       "publishedAtLabel": "Sep 23"
-    },
-    {
-      "id": 13843,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "Pearl D'souza",
-      "title": "Dengue scare: Docs suggest keeping eye on kids\u2019 hydration level",
-      "description": "With rising dengue cases leading to schoolchildren fatalities in Bengaluru, doctors emphasize the importance of monitoring children's hydration levels and recognizing early symptoms. Stay informed on prevention and treatment methods.",
-      "url": "https://timesofindia.indiatimes.com/city/bengaluru/dengue-alert-parents-urged-to-monitor-childrens-hydration-amid-rising-cases/articleshow/113577463.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-09-22 18:57:53",
-      "content": "How to make easy dump &amp; dine Tofu Salad for dinner",
-      "retrievedAt": "2024-09-23 19:05:39.194600",
-      "internal_id": "60efadee614a963f074cd725261d91be2999a067ce5537ee78900c4c7960ba38",
-      "publishedAtLabel": "Sep 22"
-    },
-    {
-      "id": 13844,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "Vindhya Pabolu",
-      "title": "Pharmacies see 25% rise inqueries for dengue drugs",
-      "description": "Bengaluru: Following the state govt's declaration of dengue as an epidemic, city pharmacies have reported a 25% increase in the number of customers se.",
-      "url": "https://timesofindia.indiatimes.com/city/bengaluru/pharmacies-see-25-rise-inqueries-for-dengue-drugs/articleshow/113577327.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-09-22 18:48:41",
-      "content": "How to make easy dump &amp; dine Tofu Salad for dinner",
-      "retrievedAt": "2024-09-23 19:05:39.200889",
-      "internal_id": "8f23dbc4f75a00ebfcc29c7c1b636d1e9566165a508b39295d660172e0cba4b3",
-      "publishedAtLabel": "Sep 22"
-    },
-    {
-      "id": 13845,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Indiatodayne.in",
-      "author": "India Todayne",
-      "title": "Manipur health minister seeks public participation to combat rising dengue cases",
-      "description": "Manipur Health and Family Welfare Minister Sapam Ranjan has raised concerns over the increasing dengue cases, urging community involvement to combat the disease. The state saw a rise from 148 cases in August to 230 in September.",
-      "url": "https://www.indiatodayne.in/manipur/story/manipur-health-minister-seeks-public-participation-to-combat-rising-dengue-cases-1096640-2024-09-22",
-      "urlToImage": "https://cf-img-a-in.tosshub.com/lingo/itne/images/story/202409/66f03edac7063-manipur-health-minister-seeks-public-participation-to-combat-rising-dengue-cases-225921638-16x9.jpg",
-      "publishedAt": "2024-09-22 16:26:49",
-      "content": "Manipur Health and Family Welfare Minister Sapam Ranjan, on September 22 expressed concern over the rise in dengue cases in the state, seeking people's participation to arrest spread of the vector-bo\u2026 [+589 chars]",
-      "retrievedAt": "2024-09-23 19:05:39.236917",
-      "internal_id": "fbf6224317c867e3289387a194458dedf775f27174bdade277292277b23160c9",
-      "publishedAtLabel": "Sep 22"
-    },
-    {
-      "id": 13841,
-      "query": [
-        "hpai",
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Mail.ru",
-      "author": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0430 \u041a\u0430\u043c\u044b\u043d\u0438\u043d\u0430",
-      "title": "\u0418\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u0435: \u041f\u0442\u0438\u0446\u044b-\u043f\u0438\u0440\u0430\u0442\u044b \u0443\u0441\u043a\u043e\u0440\u044f\u044e\u0442 \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0435\u043d\u0438\u0435 \u0441\u043c\u0435\u0440\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430",
-      "description": "\u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u0439\u0441\u043a\u0438\u0435 \u0443\u0447\u0435\u043d\u044b\u0435 \u0438\u0437 \u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0430 \u041d\u043e\u0432\u043e\u0433\u043e \u042e\u0436\u043d\u043e\u0433\u043e \u0423\u044d\u043b\u044c\u0441\u0430 \u0432\u044b\u044f\u0441\u043d\u0438\u043b\u0438, \u043a\u0430\u043a \u043e\u0445\u043e\u0442\u043d\u0438\u0447\u044c\u0438 \u043f\u043e\u0432\u0430\u0434\u043a\u0438 \u043d\u0435\u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u043c\u043e\u0440\u0441\u043a\u0438\u0445 \u043f\u0442\u0438\u0446 \u0441\u043f\u043e\u0441\u043e\u0431\u0441\u0442\u0432\u0443\u044e\u0442 \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0435\u043d\u0438\u044e \u043e\u043f\u0430\u0441\u043d\u043e\u0433\u043e \u0432\u0438\u0440\u0443\u0441\u0430 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430 \u0441\u0440\u0435\u0434\u0438 \u043f\u0435\u0440\u043d\u0430\u0442\u044b\u0445. \u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u044b \u044d\u0442\u043e\u0433\u043e \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u044f \u0431\u044b\u043b\u0438 \u043e\u043f\u0443\u0431\u043b\u0438\u043a\u043e\u0432\u0430\u043d\u044b \u0432 \u043d\u0430\u0443\u0447\u043d\u043e\u043c \u0436\u0443\u0440\u043d\u0430\u043b\u0435 Con\u2026",
-      "url": "https://vfokuse.mail.ru/article/issledovanie-pticy-piraty-uskoryayut-rasprostranenie-smertelnogo-ptichego-grippa-62903241/",
-      "urlToImage": "https://resizer.mail.ru/p/a36e0736-828a-5b07-ace1-0e609388fda3/op:15/logo:bottom:vfokuse.png/AQAGVOGmEdibODjEZmDXZvl30r3vxYG7-lZdsHq8dtG2HJO3bfZKmDLg85k0PQS85VXYUffTmPuka0E1pXC2ZRfMhFo.jpg",
-      "publishedAt": "2024-09-22 14:28:04",
-      "content": ", HPAI H5N1 2.3.4.4.b, , 280 . .",
-      "retrievedAt": "2024-09-23 19:05:38.383629",
-      "internal_id": "c28eda464341e84390c86619508caa23addbc30c91e18d00d340025797c9d720",
-      "publishedAtLabel": "Sep 22"
-    },
-    {
-      "id": 13842,
-      "query": [
-        "hpai",
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Gazeta.ru",
-      "author": "\u0413\u0430\u0437\u0435\u0442\u0430.Ru",
-      "title": "\"\u041f\u0435\u0440\u043d\u0430\u0442\u044b\u0435 \u043f\u0438\u0440\u0430\u0442\u044b\" \u0443\u0441\u043a\u043e\u0440\u044f\u044e\u0442 \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0435\u043d\u0438\u0435 \u0441\u043c\u0435\u0440\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430, \u0432\u044b\u044f\u0441\u043d\u0438\u043b\u0438 \u0443\u0447\u0435\u043d\u044b\u0435",
-      "description": "\u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u0439\u0441\u043a\u0438\u0435 \u0443\u0447\u0435\u043d\u044b\u0435 \u0438\u0437 \u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0430 \u041d\u043e\u0432\u043e\u0433\u043e \u042e\u0436\u043d\u043e\u0433\u043e \u0423\u044d\u043b\u044c\u0441\u0430 \u0432\u044b\u044f\u0441\u043d\u0438\u043b\u0438, \u043a\u0430\u043a \u043e\u0445\u043e\u0442\u043d\u0438\u0447\u044c\u0438 \u043f\u0440\u0438\u0432\u044b\u0447\u043a\u0438 \u043d\u0435\u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u043c\u043e\u0440\u0441\u043a\u0438\u0445 \u043f\u0442\u0438\u0446 \u0443\u0441\u043a\u043e\u0440\u044f\u044e\u0442 \u043f\u0435\u0440\u0435\u0434\u0430\u0447\u0443 \u0433\u0443\u0431\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u0432\u0438\u0440\u0443\u0441\u0430 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430 \u0432 \u043f\u043e\u043f\u0443\u043b\u044f\u0446\u0438\u044f\u0445 \u043f\u0435\u0440\u043d\u0430\u0442\u044b\u0445. \u0418\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u0435 \u043e\u043f\u0443\u0431\u043b\u0438\u043a\u043e\u0432\u0430\u043d\u043e \u0432 \u043d\u0430\u0443\u0447\u043d\u043e\u043c \u0436\u0443\u0440\u043d\u0430\u043b\u0435 Conservation Letters (Co\u2026",
-      "url": "https://www.gazeta.ru/science/news/2024/09/22/23979301.shtml",
-      "urlToImage": "https://img.gazeta.ru/files3/83/19787083/43-pic_32ratio_900x600-900x600-19204.jpg",
-      "publishedAt": "2024-09-22 13:21:45",
-      "content": ", . Conservation Letters (ConsLet). , \u00ab\u00bb , . , . . , HPAI H5N1 2.3.4.4.b 280 . . , - . \u00ab\u00bb , . , . HPAI H5N1. , , , , . .",
-      "retrievedAt": "2024-09-23 19:05:38.391190",
-      "internal_id": "b61d24c5ee5ddbbb99ea53c22b38da5dd0363367fb5afa1d8b43905537b8062c",
-      "publishedAtLabel": "Sep 22"
-    },
-    {
-      "id": 13840,
-      "query": [
-        "pertussis"
-      ],
-      "source_id": "cbc-news",
-      "source_name": "CBC News",
-      "author": null,
-      "title": "What to do if you or your kid gets COVID-19 this fall",
-      "description": "More than four years into the COVID-19 pandemic, core messaging remains the same: stay home if you feel sick.",
-      "url": "https://www.cbc.ca/news/canada/ottawa/what-to-do-if-you-or-your-kid-gets-covid-19-this-fall-1.7328679",
-      "urlToImage": "https://i.cbc.ca/1.6666565.1726794553!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/covid-que-schools-20210831.jpg",
-      "publishedAt": "2024-09-22 08:00:00",
-      "content": "As the weather begins to cool in Ottawa and schools settle into the new academic year, cases of respiratory illnesses are expected to rise. COVID-19, the fly, whooping cough (pertussis) and respirat\u2026 [+3445 chars]",
-      "retrievedAt": "2024-09-23 19:05:37.699660",
-      "internal_id": "10ed44df7838c8161e04c3b49ba659a2487a8b60f3de22bbf945bf89dcfb2372",
-      "publishedAtLabel": "Sep 22"
     }
   ]
 }
