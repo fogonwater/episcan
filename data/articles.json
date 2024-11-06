@@ -1,8 +1,318 @@
 {
-  "last_updated": "2024-11-05 19:05",
-  "count_articles_total": 1403,
-  "count_articles_new": 17,
+  "last_updated": "2024-11-06 07:06",
+  "count_articles_total": 1427,
+  "count_articles_new": 18,
   "articles": [
+    {
+      "id": 15262,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ilgiornale.it",
+      "author": "redazione@ilgiornale-web.it (Agenzia Adnkronos)",
+      "title": "Dengue, nel microbioma delle zanzare un batterio alleato per controllarla: lo studio",
+      "description": "Descrizione contenuto Dengue, nel microbioma delle zanzare un batterio alleato per controllarla: lo studio",
+      "url": "https://www.ilgiornale.it/news/adnkronos/dengue-nel-microbioma-delle-zanzare-batterio-alleato-2390812.html",
+      "urlToImage": "https://img.ilgcdn.com/sites/default/files/styles/social/public/foto/2024/11/05/zanzara_westnile_fg.jpeg?_=1730786403",
+      "publishedAt": "2024-11-05 06:00:03",
+      "content": "Milano, 4 nov. (Adnkronos Salute) - Anche le zanzare nel loro piccolo hanno un microbioma, e fra i 'batteri buoni' del loro intestino ce n'\u00e8 uno che potrebbe involontariamente 'tradirle' giocando a f\u2026 [+2684 chars]",
+      "retrievedAt": "2024-11-06 07:06:29.937089",
+      "internal_id": "e73701b452880cbd9fa37872d842bf43e43de3c98e2acee3a224cab0268c2c75",
+      "publishedAtLabel": "Nov 5"
+    },
+    {
+      "id": 15259,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "ScienceAlert",
+      "author": "C Raina MacIntyre & Haley Stone, The Conversation",
+      "title": "Experts Reveal What The Pig With Bird Flu in Oregon Really Signifies",
+      "description": "The United States Department of Agriculture last week reported that a pig on a backyard farm in Oregon was infected with bird flu.",
+      "url": "https://www.sciencealert.com/experts-reveal-what-the-pig-with-bird-flu-in-oregon-really-signifies",
+      "urlToImage": "https://www.sciencealert.com/images/2024/11/PigSilhouette.jpg",
+      "publishedAt": "2024-11-05 05:53:29",
+      "content": "The United States Department of Agriculture last week reported that a pig on a backyard farm in Oregon was infected with bird flu. As the bird flu situation has evolved, we've heard about the A/H5N1\u2026 [+6341 chars]",
+      "retrievedAt": "2024-11-06 07:06:29.468466",
+      "internal_id": "2647398054a36415859b2d6b09a1b8faf4929bd26c01b2c30e61ade341bec425",
+      "publishedAtLabel": "Nov 5"
+    },
+    {
+      "id": 15269,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Mediafax.ro",
+      "author": "Cosmin Pirv",
+      "title": "Mpox: Mai multe cazuri cu tulpina Clade 1b, detectate \u00een Marea Britanie",
+      "description": "\u00cenc\u0103 dou\u0103 cazuri cu tulpina mpox Clade 1b au fost detectate \u00een Marea Britanie, afirm\u0103 autorit\u0103\u0163ile, citate de Sky News.",
+      "url": "https://www.mediafax.ro/externe/mpox-mai-multe-cazuri-cu-tulpina-clade-1b-detectate-in-marea-britanie-22540017",
+      "urlToImage": "https://storage0.dms.mpinteractiv.ro/media/1/1/3614/22540017/1/7769390-mediafax-foto-ap.jpg?width=640",
+      "publishedAt": "2024-11-05 05:09:13",
+      "content": "Sptm\u00e2na trecut, Agenia de Securitate Sanitar (UKHSA) a declarat c un singur caz de variant Clade 1b a virusului mpox a fost confirmat \u00een Londra. Agenia a anunat acum alte dou cazuri printre contac\u2026 [+1279 chars]",
+      "retrievedAt": "2024-11-06 07:06:31.493244",
+      "internal_id": "9fe0a9839670e36aec999f41445e4b02077773cc0cbf2f1bceb6bb97ca8d86b0",
+      "publishedAtLabel": "Nov 5"
+    },
+    {
+      "id": 15265,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": "Indo-Asian News Service",
+      "title": "Bacteria Can Accelerate Mosquito Control, Prevent Dengue, Zika: Study",
+      "description": "In a breakthrough research, UK scientists have identified a bacteria that can curb the growth of disease-spreading mosquitoes.",
+      "url": "https://www.ndtv.com/world-news/bacteria-can-accelerate-mosquito-control-prevent-dengue-zika-study-6946436",
+      "urlToImage": "https://c.ndtvimg.com/2024-09/6bm3t5kg_mosquitoes_625x300_07_September_24.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "publishedAt": "2024-11-05 04:41:20",
+      "content": "New Delhi: In a breakthrough research, UK scientists have identified a bacteria that can curb the growth of disease-spreading mosquitoes. The team from the universities of Exeter and Wageningen show\u2026 [+2071 chars]",
+      "retrievedAt": "2024-11-06 07:06:29.963894",
+      "internal_id": "927cab939cf954ba92eb6a3e94cc93bca36d2fb9cd3b97eb801be85cc7df9e62",
+      "publishedAtLabel": "Nov 5"
+    },
+    {
+      "id": 15272,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "POLITICO.eu",
+      "author": "Sasha Schroeder",
+      "title": "UK reports two additional cases of deadly new mpox variant",
+      "description": "The new infections were detected among the household contacts of the country's first confirmed case.",
+      "url": "https://www.politico.eu/article/uk-new-mpox-cases-uk-health-security-agency/",
+      "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2024/11/05/GettyImages-2175985208-scaled.jpg",
+      "publishedAt": "2024-11-05 01:02:20",
+      "content": "Two additional cases of the new variant of mpox, an infectious viral disease that can cause high fever, a painful rash and death, were reported Monday by the U.K. Health Security Agency, bringing the\u2026 [+1052 chars]",
+      "retrievedAt": "2024-11-06 07:06:31.520730",
+      "internal_id": "16ed91e10fdab8561dabee1084bb07d68a5553e2d2eb82c9eb92436771ebf2b3",
+      "publishedAtLabel": "Nov 5"
+    },
+    {
+      "id": 15263,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "Bacteria breakthrough could accelerate mosquito control schemes",
+      "description": "Mosquito larvae grow faster if they're exposed to particular bacteria, according to a new study that could help global health programs.",
+      "url": "https://www.sciencedaily.com/releases/2024/11/241104195948.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2024-11-05 00:59:48",
+      "content": "Mosquito larvae grow faster if they're exposed to particular bacteria, according to a new study that could help global health programmes.Aedes aegypti mosquitoes spread illnesses including dengue, ye\u2026 [+1848 chars]",
+      "retrievedAt": "2024-11-06 07:06:29.949436",
+      "internal_id": "9be793649b7b1e86305ec2e5f7fc64093022908d26dbd132595a0616eaa32758",
+      "publishedAtLabel": "Nov 5"
+    },
+    {
+      "id": 15260,
+      "query": [
+        "h5n1",
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "VOA News",
+      "author": "webdesk@voanews.com (Agence France-Presse)",
+      "title": "WHO continues talks to prepare world for pandemics",
+      "description": "geneva \u2014 World Health Organization member countries resumed negotiations Monday to finalize an agreement on pandemic prevention, with outbreaks of mpox, Marburg and H5N1 stressing the urgency of reaching an agreement without repeating the deadly mistakes of C\u2026",
+      "url": "https://www.voanews.com/a/who-continues-talks-to-prepare-world-for-pandemics-/7851632.html",
+      "urlToImage": "https://gdb.voanews.com/AA1D88DD-8321-43D0-B574-6FA8B7A9A6D0.jpg",
+      "publishedAt": "2024-11-05 00:16:47",
+      "content": "geneva World Health Organization member countries resumed negotiations Monday to finalize an agreement on pandemic prevention, with outbreaks of mpox, Marburg and H5N1 stressing the urgency of reach\u2026 [+3330 chars]",
+      "retrievedAt": "2024-11-06 07:06:29.481750",
+      "internal_id": "a44cb1dee68ac67e155df629027530795faa3b1fc13ac1c24b13b26109bdf267",
+      "publishedAtLabel": "Nov 5"
+    },
+    {
+      "id": 15267,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": null,
+      "title": "Two new cases of more spreadable mpox found in UK",
+      "description": "All three patients were infected with the Clade 1b variant, which appears to transmit more easily.",
+      "url": "https://www.bbc.com/news/articles/cx27q0y6rl9o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/36e6/live/d3d5ef20-9af6-11ef-8538-e1655f5a8342.jpg",
+      "publishedAt": "2024-11-04 22:05:46",
+      "content": "Two more cases of a new strain of the mpox virus have been detected in London, in household contacts of the first patient, health officials say. The two individuals are now under specialist care at\u2026 [+2071 chars]",
+      "retrievedAt": "2024-11-06 07:06:31.472734",
+      "internal_id": "e02f8f7798c27add6191ef24a037eba9e759f8ed60ec9b6cc15169e6ec50d6d1",
+      "publishedAtLabel": "Nov 4"
+    },
+    {
+      "id": 15268,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Tass.ru",
+      "author": null,
+      "title": "\u0427\u0438\u0441\u043b\u043e \u0441\u043b\u0443\u0447\u0430\u0435\u0432 \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0430\u043d\u0438\u044f \u043e\u0441\u043f\u043e\u0439 \u043e\u0431\u0435\u0437\u044c\u044f\u043d \u0432 \u0412\u0435\u043b\u0438\u043a\u043e\u0431\u0440\u0438\u0442\u0430\u043d\u0438\u0438 \u0434\u043e\u0441\u0442\u0438\u0433\u043b\u043e \u0442\u0440\u0435\u0445",
+      "description": "\u0413\u043b\u0430\u0432\u043d\u044b\u0439 \u043c\u0435\u0434\u0438\u0446\u0438\u043d\u0441\u043a\u0438\u0439 \u0441\u043e\u0432\u0435\u0442\u043d\u0438\u043a UKHSA \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u043e\u0440 \u0421\u044c\u044e\u0437\u0430\u043d \u0425\u043e\u043f\u043a\u0438\u043d\u0441 \u043e\u0442\u043c\u0435\u0442\u0438\u043b\u0430, \u0447\u0442\u043e \u0443\u0440\u043e\u0432\u0435\u043d\u044c \u0443\u0433\u0440\u043e\u0437\u044b \u0434\u043b\u044f \u0436\u0438\u0442\u0435\u043b\u0435\u0439 \u0441\u0442\u0440\u0430\u043d\u044b \u043e\u0441\u0442\u0430\u0435\u0442\u0441\u044f \u043d\u0438\u0437\u043a\u0438\u043c",
+      "url": "https://tass.ru/obschestvo/22311431",
+      "urlToImage": "https://cdn-storage-media.tass.ru/thumb/ru/obschestvo/22311431?u=2024-11-04T21:33:32.596562",
+      "publishedAt": "2024-11-04 21:33:32",
+      "content": ", 5 . //. mpox (\"\", ) . (UK Health Security Agency, UKHSA), . \"Mpox , . , , , , - UKHSA . - . , , , \". 30 UKHSA mpox 1b . 22 - . , . 13 mpox. , 2024 17 . 14 () , mpox . - , , , - , . Mpox - , , \u2026 [+33 chars]",
+      "retrievedAt": "2024-11-06 07:06:31.480070",
+      "internal_id": "13d6d85568643e502215afb30a098a5ed3c09e6ef472c25eb922a106574664d5",
+      "publishedAtLabel": "Nov 4"
+    },
+    {
+      "id": 15270,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "svenska-dagbladet",
+      "source_name": "Svenska Dagbladet",
+      "author": "SvD",
+      "title": "Tv\u00e5 nya fall av mpox i Storbritannien",
+      "description": "Storbritannien har uppt\u00e4ckt ytterligare tv\u00e5 fall av den nya mpox-varianten, sade landets h\u00e4lsos\u00e4kerhetsbyr\u00e5 (UKHSA) p\u00e5 m\u00e5ndagen enligt Reuters.",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=49178",
+      "urlToImage": "https://static.svd.se/assets/assets/images/logo-sharing-backup.png",
+      "publishedAt": "2024-11-04 21:33:00",
+      "content": "Stockholmsb\u00f6rsen fortsatte p\u00e5 plus under hela m\u00e5ndagen och vid st\u00e4ngning landade breda OMXS-index p\u00e5 0,5 procent upp. Bland storbolagen gick v\u00e4rmepumpsbolaget Nibe Industrier b\u00e4st, plus 6,7 procent.\u2026 [+593 chars]",
+      "retrievedAt": "2024-11-06 07:06:31.500229",
+      "internal_id": "da3d1e1c2806d32c23ab7e20fbd83896d5dd325bcb52a4507060c8f9bd271a4f",
+      "publishedAtLabel": "Nov 4"
+    },
+    {
+      "id": 15271,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Iz.ru",
+      "author": "\u041a\u0430\u0448\u0442\u0430\u043d\u043e\u0432\u0430 \u0418\u043d\u043d\u0430 \u041d\u0438\u043a\u043e\u043b\u0430\u0435\u0432\u043d\u0430",
+      "title": "\u0412 \u0412\u0435\u043b\u0438\u043a\u043e\u0431\u0440\u0438\u0442\u0430\u043d\u0438\u0438 \u0437\u0430\u044f\u0432\u0438\u043b\u0438 \u043e \u0435\u0449\u0435 \u0434\u0432\u0443\u0445 \u0441\u043b\u0443\u0447\u0430\u044f\u0445 \u0437\u0430\u0440\u0430\u0436\u0435\u043d\u0438\u044f \u043d\u043e\u0432\u044b\u043c \u0448\u0442\u0430\u043c\u043c\u043e\u043c \u043e\u0441\u043f\u044b \u043e\u0431\u0435\u0437\u044c\u044f\u043d",
+      "description": "\u0412 \u0412\u0435\u043b\u0438\u043a\u043e\u0431\u0440\u0438\u0442\u0430\u043d\u0438\u0438 \u0432\u044b\u044f\u0432\u0438\u043b\u0438 \u0434\u0432\u0430 \u0441\u043b\u0443\u0447\u0430\u044f \u043d\u043e\u0432\u043e\u0433\u043e \u0448\u0442\u0430\u043c\u043c\u0430 \u043e\u0441\u043f\u044b \u043e\u0431\u0435\u0437\u044c\u044f\u043d. \u0421\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0443\u044e\u0449\u0430\u044f \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044f \u0431\u044b\u043b\u0430 \u043e\u043f\u0443\u0431\u043b\u0438\u043a\u043e\u0432\u0430\u043d\u0430 4 \u043d\u043e\u044f\u0431\u0440\u044f \u043d\u0430 \u0441\u0430\u0439\u0442\u0435 \u043f\u0440\u0430\u0432\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u0430 \u0441\u0442\u0440\u0430\u043d\u044b.\u041e\u0442\u043c\u0435\u0447\u0430\u0435\u0442\u0441\u044f, \u0447\u0442\u043e \u043d\u043e\u0432\u044b\u0435 \u043f\u0430\u0446\u0438\u0435\u043d\u0442\u044b \u0441 \u043e\u0441\u043f\u043e\u0439 \u043e\u0431\u0435\u0437\u044c\u044f\u043d \u043a\u043e\u043d\u0442\u0430\u043a\u0442\u0438\u0440\u043e\u0432\u0430\u043b\u0438 \u0432 \u0434\u043e\u043c\u043e\u0445\u043e\u0437\u044f\u0439\u0441\u0442\u0432\u0435 \u0441 \u043f\u0435\u0440\u0432\u044b\u043c \u0437\u0430\u0440\u0430\u0437\u0438\u0432\u0448\u0438\u043c\u0441\u044f. \u0411\u043e\u043b\u044c\u043d\u044b\u0435 \u043d\u0430\u2026",
+      "url": "https://iz.ru/1785530/2024-11-05/v-velikobritanii-zaiavili-o-eshche-dvukh-sluchaiakh-zarazheniia-novym-shtammom-ospy-obezian",
+      "urlToImage": "http://cdn.iz.ru/sites/default/files/styles/900x506/public/news-2024-11/ER1_5344%20copy.jpg?itok=LkzRtK97",
+      "publishedAt": "2024-11-04 21:18:22",
+      "content": ". 4 . , . . (UKHSA), . \u00ab . , , , \u00bb, UKHSA . , 30 , mpox . (UKHSA). 13 (mpox) . , 11- 24- . , 14 , - 2 . , . , , : , , , , . 14 21 .",
+      "retrievedAt": "2024-11-06 07:06:31.513349",
+      "internal_id": "8f831f3dc529ab56541b01c096cc9619d81ef3a97134d0b735e26b986af40ae2",
+      "publishedAtLabel": "Nov 4"
+    },
+    {
+      "id": 15266,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "bbc-news",
+      "source_name": "BBC News",
+      "author": "Michelle Roberts",
+      "title": "Novel way to beat dengue: Deaf mosquitoes stop having sex",
+      "description": "Mutant males struggle to mate, which could offer a way to controll mosquito populations, scientists say.",
+      "url": "https://www.bbc.co.uk/news/articles/c207gvrn65do",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8eb6/live/3c6631f0-982f-11ef-b6b0-f17636916de7.jpg",
+      "publishedAt": "2024-11-04 20:49:39",
+      "content": "The team from the University of California, Irvine studied Aedes aegypti mosquitoes, which spread viruses to around 400 million people a year. They closely observed the insects' aerial mating habit\u2026 [+746 chars]",
+      "retrievedAt": "2024-11-06 07:06:30.006265",
+      "internal_id": "2dc7d8ef2f6ce49a889dae6bc1fbaf42a75730f43a856bc2eb1005dd51c868c8",
+      "publishedAtLabel": "Nov 4"
+    },
+    {
+      "id": 15264,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": null,
+      "title": "Novel way to beat dengue: Deaf mosquitoes stop having sex",
+      "description": "Mutant males struggle to mate, which could offer a way to controll mosquito populations, scientists say.",
+      "url": "https://www.bbc.com/news/articles/c207gvrn65do",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8eb6/live/3c6631f0-982f-11ef-b6b0-f17636916de7.jpg",
+      "publishedAt": "2024-11-04 20:43:48",
+      "content": "Scientists believe they have found a quirky way to fight mosquito-spread diseases such as dengue, yellow fever and Zika - by turning male insects deaf so they struggle to mate and breed. Mosquitoes\u2026 [+2243 chars]",
+      "retrievedAt": "2024-11-06 07:06:29.955615",
+      "internal_id": "0a5b6ba8768d121cf798819614336ce6990ee07587dd5c3df2cc4b242e87d92d",
+      "publishedAtLabel": "Nov 4"
+    },
+    {
+      "id": 15256,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Deng Yaomin",
+      "title": "Whooping cough claims 12 lives in Czech Republic so far this year",
+      "description": "PRAGUE, Nov. 4 (Xinhua) -- Twelve people have died from whooping cough, or pertussis, in the Czech Republic so far this year, according to the State Health Institute (SZU). Read full story",
+      "url": "https://www.thestar.com.my/news/world/2024/11/05/whooping-cough-claims-12-lives-in-czech-republic-so-far-this-year",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2024-11-04 20:43:00",
+      "content": "PRAGUE, Nov. 4 (Xinhua) -- Twelve people have died from whooping cough, or pertussis, in the Czech Republic so far this year, according to the State Health Institute (SZU). Most of the deaths have \u2026 [+1303 chars]",
+      "retrievedAt": "2024-11-06 07:06:28.414869",
+      "internal_id": "18beb6fd82a0eb1511bf4863945ddcfdd8c384ed0c979fa69ca64559ec332b92",
+      "publishedAtLabel": "Nov 4"
+    },
+    {
+      "id": 15257,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "WDIV ClickOnDetroit",
+      "author": "Sara Powers",
+      "title": "Michigan health officials warn residents about increase in whooping cough cases",
+      "description": "State health officials are urging residents to keep up on their vaccinations as Michigan sees an increase in cases of pertussis, commonly known as whooping cough.",
+      "url": "https://www.clickondetroit.com/news/local/2024/11/04/michigan-health-officials-warn-residents-about-increase-in-whooping-cough-cases/",
+      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/VPVAFPNEPVE6XBCPUUIOIZ6VP4.jpg?_a=DATAdtfiZAA0",
+      "publishedAt": "2024-11-04 20:29:33",
+      "content": "State health officials are urging residents to keep up on their vaccinations as Michigan sees an increase in cases of pertussis, commonly known as whooping cough. The Michigan Department of Health a\u2026 [+1612 chars]",
+      "retrievedAt": "2024-11-06 07:06:28.437961",
+      "internal_id": "72d2489fbb31282c4b13d2465b811a790cd75afc1b3c53382076a8110d7bdc20",
+      "publishedAtLabel": "Nov 4"
+    },
+    {
+      "id": 15273,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Gbnews.com",
+      "author": "James Saunders",
+      "title": "Mpox: More cases of deadly new virus strain detected in Britain",
+      "description": "More cases of a deadly new strain of mpox have been detected in the UK - just days after the virus was recorded having breached Britain's shores for the first time.Last week, the UK Health Security Agency (UKHSA) said one case of mpox variant Clade 1b had bee\u2026",
+      "url": "https://www.gbnews.com/health/mpox-cases-deadly-new-virus-strain-detected-britain-london-clade-1b",
+      "urlToImage": "https://www.gbnews.com/media-library/watch-nhs-gp-outlines-the-severity-of-the-new-mpox-variant.jpg?id=53178333&width=1200&height=600&coordinates=0%2C72%2C0%2C73",
+      "publishedAt": "2024-11-04 20:25:05",
+      "content": "More cases of a deadly new strain of mpox have been detected in the UK - just days after the virus was recorded having breached Britain's shores for the first time. Last week, the UK Health Security\u2026 [+383 chars]",
+      "retrievedAt": "2024-11-06 07:06:31.582412",
+      "internal_id": "797be33e42497131530721d743fcd779d5215450bf463595179615e2e7ccab7c",
+      "publishedAtLabel": "Nov 4"
+    },
+    {
+      "id": 15261,
+      "query": [
+        "h5n1",
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Agency Report",
+      "title": "Pandemic accord deal in sight as talks resume",
+      "description": "Countries reconvened on Monday to work towards finalising a landmark global agreement on handling future pandemics, with the recent outbreaks of mpox, Marburg, and H5N1 adding fresh urgency to reach a deal. After over two years of negotiations, there is optim\u2026",
+      "url": "https://punchng.com/pandemic-accord-deal-in-sight-as-talks-resume/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2017/05/23224116/Dr.-Tedros-Adhanom.jpg",
+      "publishedAt": "2024-11-04 19:33:13",
+      "content": "Countries reconvened on Monday to work towards finalising a landmark global agreement on handling future pandemics, with the recent outbreaks of mpox, Marburg, and H5N1 adding fresh urgency to reach \u2026 [+4278 chars]",
+      "retrievedAt": "2024-11-06 07:06:29.494190",
+      "internal_id": "75ae5dec4945d317e1a71ff220886036af3426d30a2f2d5847f4c52e6b33381c",
+      "publishedAtLabel": "Nov 4"
+    },
     {
       "id": 15241,
       "query": [
@@ -363,6 +673,25 @@
       "content": "(Xinhua) 13:07, November 04, 2024 DHAKA, Nov. 3 (Xinhua) -- Bangladesh recorded its highest single-day toll of 10 dengue deaths on Saturday, bringing the tally to 310, said the country's Directorate\u2026 [+1012 chars]",
       "retrievedAt": "2024-11-05 07:06:26.267045",
       "internal_id": "1862d59867b618396a1fbe7a13ae4fe4e31c1c696b57e54ec952413ad78b8bf6",
+      "publishedAtLabel": "Nov 4"
+    },
+    {
+      "id": 15258,
+      "query": [
+        "hpai",
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Highly Pathogenic Avian Influenza A(H5N1) Virus Infection in Cats, South Korea, 2023",
+      "description": "HPAI A(H5N1) Virus in Cats, South Korea, 2023",
+      "url": "https://wwwnc.cdc.gov/eid/article/30/12/24-0154_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2024-11-04 05:00:00",
+      "content": "Disclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released.Highly pathogenic avian in\u2026 [+25443 chars]",
+      "retrievedAt": "2024-11-06 07:06:29.297498",
+      "internal_id": "968553bfd8833e11f29a9b871bd3c27aea71941bc8c856c9d5c7aa91d5ab6228",
       "publishedAtLabel": "Nov 4"
     },
     {
@@ -25310,6 +25639,116 @@
       "retrievedAt": "2024-09-24 07:06:25.165214",
       "internal_id": "9abfbe4a7c6380a372466b00b37b567d2ea02f24d84f90762c53768de3286da2",
       "publishedAtLabel": "Sep 23"
+    },
+    {
+      "id": 13843,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Pearl D'souza",
+      "title": "Dengue scare: Docs suggest keeping eye on kids\u2019 hydration level",
+      "description": "With rising dengue cases leading to schoolchildren fatalities in Bengaluru, doctors emphasize the importance of monitoring children's hydration levels and recognizing early symptoms. Stay informed on prevention and treatment methods.",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/dengue-alert-parents-urged-to-monitor-childrens-hydration-amid-rising-cases/articleshow/113577463.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-09-22 18:57:53",
+      "content": "How to make easy dump &amp; dine Tofu Salad for dinner",
+      "retrievedAt": "2024-09-23 19:05:39.194600",
+      "internal_id": "60efadee614a963f074cd725261d91be2999a067ce5537ee78900c4c7960ba38",
+      "publishedAtLabel": "Sep 22"
+    },
+    {
+      "id": 13844,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Vindhya Pabolu",
+      "title": "Pharmacies see 25% rise inqueries for dengue drugs",
+      "description": "Bengaluru: Following the state govt's declaration of dengue as an epidemic, city pharmacies have reported a 25% increase in the number of customers se.",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/pharmacies-see-25-rise-inqueries-for-dengue-drugs/articleshow/113577327.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-09-22 18:48:41",
+      "content": "How to make easy dump &amp; dine Tofu Salad for dinner",
+      "retrievedAt": "2024-09-23 19:05:39.200889",
+      "internal_id": "8f23dbc4f75a00ebfcc29c7c1b636d1e9566165a508b39295d660172e0cba4b3",
+      "publishedAtLabel": "Sep 22"
+    },
+    {
+      "id": 13845,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Indiatodayne.in",
+      "author": "India Todayne",
+      "title": "Manipur health minister seeks public participation to combat rising dengue cases",
+      "description": "Manipur Health and Family Welfare Minister Sapam Ranjan has raised concerns over the increasing dengue cases, urging community involvement to combat the disease. The state saw a rise from 148 cases in August to 230 in September.",
+      "url": "https://www.indiatodayne.in/manipur/story/manipur-health-minister-seeks-public-participation-to-combat-rising-dengue-cases-1096640-2024-09-22",
+      "urlToImage": "https://cf-img-a-in.tosshub.com/lingo/itne/images/story/202409/66f03edac7063-manipur-health-minister-seeks-public-participation-to-combat-rising-dengue-cases-225921638-16x9.jpg",
+      "publishedAt": "2024-09-22 16:26:49",
+      "content": "Manipur Health and Family Welfare Minister Sapam Ranjan, on September 22 expressed concern over the rise in dengue cases in the state, seeking people's participation to arrest spread of the vector-bo\u2026 [+589 chars]",
+      "retrievedAt": "2024-09-23 19:05:39.236917",
+      "internal_id": "fbf6224317c867e3289387a194458dedf775f27174bdade277292277b23160c9",
+      "publishedAtLabel": "Sep 22"
+    },
+    {
+      "id": 13841,
+      "query": [
+        "hpai",
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Mail.ru",
+      "author": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0430 \u041a\u0430\u043c\u044b\u043d\u0438\u043d\u0430",
+      "title": "\u0418\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u0435: \u041f\u0442\u0438\u0446\u044b-\u043f\u0438\u0440\u0430\u0442\u044b \u0443\u0441\u043a\u043e\u0440\u044f\u044e\u0442 \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0435\u043d\u0438\u0435 \u0441\u043c\u0435\u0440\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430",
+      "description": "\u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u0439\u0441\u043a\u0438\u0435 \u0443\u0447\u0435\u043d\u044b\u0435 \u0438\u0437 \u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0430 \u041d\u043e\u0432\u043e\u0433\u043e \u042e\u0436\u043d\u043e\u0433\u043e \u0423\u044d\u043b\u044c\u0441\u0430 \u0432\u044b\u044f\u0441\u043d\u0438\u043b\u0438, \u043a\u0430\u043a \u043e\u0445\u043e\u0442\u043d\u0438\u0447\u044c\u0438 \u043f\u043e\u0432\u0430\u0434\u043a\u0438 \u043d\u0435\u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u043c\u043e\u0440\u0441\u043a\u0438\u0445 \u043f\u0442\u0438\u0446 \u0441\u043f\u043e\u0441\u043e\u0431\u0441\u0442\u0432\u0443\u044e\u0442 \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0435\u043d\u0438\u044e \u043e\u043f\u0430\u0441\u043d\u043e\u0433\u043e \u0432\u0438\u0440\u0443\u0441\u0430 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430 \u0441\u0440\u0435\u0434\u0438 \u043f\u0435\u0440\u043d\u0430\u0442\u044b\u0445. \u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u044b \u044d\u0442\u043e\u0433\u043e \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u044f \u0431\u044b\u043b\u0438 \u043e\u043f\u0443\u0431\u043b\u0438\u043a\u043e\u0432\u0430\u043d\u044b \u0432 \u043d\u0430\u0443\u0447\u043d\u043e\u043c \u0436\u0443\u0440\u043d\u0430\u043b\u0435 Con\u2026",
+      "url": "https://vfokuse.mail.ru/article/issledovanie-pticy-piraty-uskoryayut-rasprostranenie-smertelnogo-ptichego-grippa-62903241/",
+      "urlToImage": "https://resizer.mail.ru/p/a36e0736-828a-5b07-ace1-0e609388fda3/op:15/logo:bottom:vfokuse.png/AQAGVOGmEdibODjEZmDXZvl30r3vxYG7-lZdsHq8dtG2HJO3bfZKmDLg85k0PQS85VXYUffTmPuka0E1pXC2ZRfMhFo.jpg",
+      "publishedAt": "2024-09-22 14:28:04",
+      "content": ", HPAI H5N1 2.3.4.4.b, , 280 . .",
+      "retrievedAt": "2024-09-23 19:05:38.383629",
+      "internal_id": "c28eda464341e84390c86619508caa23addbc30c91e18d00d340025797c9d720",
+      "publishedAtLabel": "Sep 22"
+    },
+    {
+      "id": 13842,
+      "query": [
+        "hpai",
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Gazeta.ru",
+      "author": "\u0413\u0430\u0437\u0435\u0442\u0430.Ru",
+      "title": "\"\u041f\u0435\u0440\u043d\u0430\u0442\u044b\u0435 \u043f\u0438\u0440\u0430\u0442\u044b\" \u0443\u0441\u043a\u043e\u0440\u044f\u044e\u0442 \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0435\u043d\u0438\u0435 \u0441\u043c\u0435\u0440\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430, \u0432\u044b\u044f\u0441\u043d\u0438\u043b\u0438 \u0443\u0447\u0435\u043d\u044b\u0435",
+      "description": "\u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u0439\u0441\u043a\u0438\u0435 \u0443\u0447\u0435\u043d\u044b\u0435 \u0438\u0437 \u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0430 \u041d\u043e\u0432\u043e\u0433\u043e \u042e\u0436\u043d\u043e\u0433\u043e \u0423\u044d\u043b\u044c\u0441\u0430 \u0432\u044b\u044f\u0441\u043d\u0438\u043b\u0438, \u043a\u0430\u043a \u043e\u0445\u043e\u0442\u043d\u0438\u0447\u044c\u0438 \u043f\u0440\u0438\u0432\u044b\u0447\u043a\u0438 \u043d\u0435\u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u043c\u043e\u0440\u0441\u043a\u0438\u0445 \u043f\u0442\u0438\u0446 \u0443\u0441\u043a\u043e\u0440\u044f\u044e\u0442 \u043f\u0435\u0440\u0435\u0434\u0430\u0447\u0443 \u0433\u0443\u0431\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u0432\u0438\u0440\u0443\u0441\u0430 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430 \u0432 \u043f\u043e\u043f\u0443\u043b\u044f\u0446\u0438\u044f\u0445 \u043f\u0435\u0440\u043d\u0430\u0442\u044b\u0445. \u0418\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u0435 \u043e\u043f\u0443\u0431\u043b\u0438\u043a\u043e\u0432\u0430\u043d\u043e \u0432 \u043d\u0430\u0443\u0447\u043d\u043e\u043c \u0436\u0443\u0440\u043d\u0430\u043b\u0435 Conservation Letters (Co\u2026",
+      "url": "https://www.gazeta.ru/science/news/2024/09/22/23979301.shtml",
+      "urlToImage": "https://img.gazeta.ru/files3/83/19787083/43-pic_32ratio_900x600-900x600-19204.jpg",
+      "publishedAt": "2024-09-22 13:21:45",
+      "content": ", . Conservation Letters (ConsLet). , \u00ab\u00bb , . , . . , HPAI H5N1 2.3.4.4.b 280 . . , - . \u00ab\u00bb , . , . HPAI H5N1. , , , , . .",
+      "retrievedAt": "2024-09-23 19:05:38.391190",
+      "internal_id": "b61d24c5ee5ddbbb99ea53c22b38da5dd0363367fb5afa1d8b43905537b8062c",
+      "publishedAtLabel": "Sep 22"
+    },
+    {
+      "id": 13840,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "What to do if you or your kid gets COVID-19 this fall",
+      "description": "More than four years into the COVID-19 pandemic, core messaging remains the same: stay home if you feel sick.",
+      "url": "https://www.cbc.ca/news/canada/ottawa/what-to-do-if-you-or-your-kid-gets-covid-19-this-fall-1.7328679",
+      "urlToImage": "https://i.cbc.ca/1.6666565.1726794553!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/covid-que-schools-20210831.jpg",
+      "publishedAt": "2024-09-22 08:00:00",
+      "content": "As the weather begins to cool in Ottawa and schools settle into the new academic year, cases of respiratory illnesses are expected to rise. COVID-19, the fly, whooping cough (pertussis) and respirat\u2026 [+3445 chars]",
+      "retrievedAt": "2024-09-23 19:05:37.699660",
+      "internal_id": "10ed44df7838c8161e04c3b49ba659a2487a8b60f3de22bbf945bf89dcfb2372",
+      "publishedAtLabel": "Sep 22"
     }
   ]
 }

@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 17
-- **Last harvest:** 2024-11-05 19:05
-- **Most recent article:** 2024-11-04 19:00:29
+- **New articles in last harvest:** 18
+- **Last harvest:** 2024-11-06 07:06
+- **Most recent article:** 2024-11-05 06:00:03
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-39 | 24-40 | 24-41 | 24-42 | 24-43 | 24-44 | 24-45 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 120 | 128 | 42 | 81 | 131 | 75 | 5 | 582 |
-| dengue | 44 | 51 | 35 | 50 | 53 | 31 | 5 | 269 |
-| h5n1 | 33 | 50 | 10 | 18 | 12 | 61 | 7 | 191 |
+| mpox | 120 | 128 | 42 | 81 | 131 | 75 | 14 | 591 |
+| dengue | 47 | 51 | 35 | 50 | 53 | 31 | 10 | 277 |
+| h5n1 | 35 | 50 | 10 | 18 | 12 | 61 | 11 | 197 |
 | malaria | 24 | 10 | 13 | 18 | 58 | 16 | 7 | 146 |
 | rabies | 25 | 30 | 6 | 7 | 3 | 10 | 2 | 83 |
 | measles | 4 | 6 | 5 | 3 | 1 | 13 | 2 | 34 |
 | meningitis | 6 | 11 | 2 | 1 | 6 | 3 | 3 | 32 |
+| zika | 1 | 3 | 4 | 6 | 6 | 3 | 3 | 26 |
 | chikungunya | 3 | 3 | 3 | 4 | 7 | 2 | 2 | 24 |
-| zika | 1 | 3 | 4 | 6 | 6 | 3 | 1 | 24 |
-| pertussis | 1 | 2 | 2 | 9 | 3 | 1 | 0 | 18 |
+| pertussis | 2 | 2 | 2 | 9 | 3 | 1 | 2 | 21 |
+| hpai | 2 | 2 | 1 | 2 | 2 | 7 | 1 | 17 |
 | leptospirosis | 5 | 4 | 1 | 1 | 0 | 3 | 1 | 15 |
-| hpai | 0 | 2 | 1 | 2 | 2 | 7 | 0 | 14 |
 | typhoid | 4 | 1 | 0 | 1 | 3 | 4 | 0 | 13 |
 | yersinia | 2 | 1 | 1 | 0 | 0 | 3 | 0 | 7 |
 | shigellosis | 0 | 1 | 3 | 0 | 1 | 0 | 0 | 5 |
@@ -35,6 +35,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-45 (zika)
 
+- [Bacteria Can Accelerate Mosquito Control, Prevent Dengue, Zika: Study](https://www.ndtv.com/world-news/bacteria-can-accelerate-mosquito-control-prevent-dengue-zika-study-6946436) (NDTV News)
+
+- [Novel way to beat dengue: Deaf mosquitoes stop having sex](https://www.bbc.com/news/articles/c207gvrn65do) (BBC News)
+
 - [Extrato de própolis demonstra efeito contra vírus propagados por mosquitos](https://veja.abril.com.br/saude/extrato-de-propolis-demonstra-efeito-contra-virus-propagados-por-mosquitos) (Abril.com.br)
 
 ## 24-45 (rabies)
@@ -43,7 +47,31 @@ Source: [News API](https://newsapi.org/)
 
 - [Why Instagram-famous 'Peanut the Squirrel' was euthanised by NY officials? The controversy that caught US elections by storm](https://economictimes.indiatimes.com/news/international/global-trends/why-instagram-famous-peanut-the-squirrel-was-euthanised-by-ny-officials-the-controversy-that-caught-us-elections-by-storm/articleshow/114913238.cms) (The Times of India)
 
+## 24-45 (pertussis)
+
+- [Whooping cough claims 12 lives in Czech Republic so far this year](https://www.thestar.com.my/news/world/2024/11/05/whooping-cough-claims-12-lives-in-czech-republic-so-far-this-year) (The Star Online)
+
+- [Michigan health officials warn residents about increase in whooping cough cases](https://www.clickondetroit.com/news/local/2024/11/04/michigan-health-officials-warn-residents-about-increase-in-whooping-cough-cases/) (WDIV ClickOnDetroit)
+
 ## 24-45 (mpox)
+
+- [Mpox: Mai multe cazuri cu tulpina Clade 1b, detectate în Marea Britanie](https://www.mediafax.ro/externe/mpox-mai-multe-cazuri-cu-tulpina-clade-1b-detectate-in-marea-britanie-22540017) (Mediafax.ro)
+
+- [UK reports two additional cases of deadly new mpox variant](https://www.politico.eu/article/uk-new-mpox-cases-uk-health-security-agency/) (POLITICO.eu)
+
+- [WHO continues talks to prepare world for pandemics](https://www.voanews.com/a/who-continues-talks-to-prepare-world-for-pandemics-/7851632.html) (VOA News)
+
+- [Two new cases of more spreadable mpox found in UK](https://www.bbc.com/news/articles/cx27q0y6rl9o) (BBC News)
+
+- [Число случаев заболевания оспой обезьян в Великобритании достигло трех](https://tass.ru/obschestvo/22311431) (Tass.ru)
+
+- [Två nya fall av mpox i Storbritannien](https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=49178) (Svenska Dagbladet)
+
+- [В Великобритании заявили о еще двух случаях заражения новым штаммом оспы обезьян](https://iz.ru/1785530/2024-11-05/v-velikobritanii-zaiavili-o-eshche-dvukh-sluchaiakh-zarazheniia-novym-shtammom-ospy-obezian) (Iz.ru)
+
+- [Mpox: More cases of deadly new virus strain detected in Britain](https://www.gbnews.com/health/mpox-cases-deadly-new-virus-strain-detected-britain-london-clade-1b) (Gbnews.com)
+
+- [Pandemic accord deal in sight as talks resume](https://punchng.com/pandemic-accord-deal-in-sight-as-talks-resume/) (The Punch)
 
 - [Les négociations se poursuivent à l’OMS pour préparer le monde aux pandémies](https://www.lavenir.net/actu/monde/2024/11/04/les-negociations-se-poursuivent-a-loms-pour-preparer-le-monde-aux-pandemies-E3H42YG4OBANNMHXIBJW6LDLQA/) (Lavenir.net)
 
@@ -89,7 +117,17 @@ Source: [News API](https://newsapi.org/)
 
 - [Alertan del riesgo de leptospirosis y tetanos entre afectados por la DANA, ¿cómo se contraen? ¿qué síntomas tienen?](https://www.infosalus.com/salud-investigacion/noticia-alertan-riesgo-leptospirosis-tetanos-afectados-dana-contraen-sintomas-tienen-20241104151730.html) (Infosalus.com)
 
+## 24-45 (hpai)
+
+- [Highly Pathogenic Avian Influenza A(H5N1) Virus Infection in Cats, South Korea, 2023](https://wwwnc.cdc.gov/eid/article/30/12/24-0154_article) (Cdc.gov)
+
 ## 24-45 (h5n1)
+
+- [Experts Reveal What The Pig With Bird Flu in Oregon Really Signifies](https://www.sciencealert.com/experts-reveal-what-the-pig-with-bird-flu-in-oregon-really-signifies) (ScienceAlert)
+
+- [WHO continues talks to prepare world for pandemics](https://www.voanews.com/a/who-continues-talks-to-prepare-world-for-pandemics-/7851632.html) (VOA News)
+
+- [Pandemic accord deal in sight as talks resume](https://punchng.com/pandemic-accord-deal-in-sight-as-talks-resume/) (The Punch)
 
 - [Les négociations se poursuivent à l’OMS pour préparer le monde aux pandémies](https://www.lavenir.net/actu/monde/2024/11/04/les-negociations-se-poursuivent-a-loms-pour-preparer-le-monde-aux-pandemies-E3H42YG4OBANNMHXIBJW6LDLQA/) (Lavenir.net)
 
@@ -101,11 +139,23 @@ Source: [News API](https://newsapi.org/)
 
 - [H5N1 Detected in LA County Wastewater, Health Officials Urge Precautions for Residents](https://www.newsbreak.com/share/3660637345422-h5n1-detected-in-la-county-wastewater-health-officials-urge-precautions-for-residents?s=a7&amp;share_destination_id=MjIzOTM2NzQxLTE3MzA3Mzc0MTQxMTc%3D&amp;pd=0F9cAv3j&amp;hl=en_US&amp;send_time=1730737414&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2224.43.1%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_rank_exp_24q4-control%2Cns_foryou_blend_exp_24q4-v8%2Cns_local_strategy_24q4_exp-v6%2Cns_foryou_model_exp_24q4-v8%2Cns_foryou_recall_exp_24q4-v8%2Cns_pushv1-v5) (Newsbreak.com)
 
+- [Highly Pathogenic Avian Influenza A(H5N1) Virus Infection in Cats, South Korea, 2023](https://wwwnc.cdc.gov/eid/article/30/12/24-0154_article) (Cdc.gov)
+
 - [חזיר נדבק בשפעת העופות בארה"ב: "חשש מווירוס חדש ואלים שידביק בני אדם"](https://www.ynet.co.il/health/article/byho112vbkl) (Ynet)
 
 - [„Der Mensch ist bislang kein guter Wirt“](https://www.faz.net/aktuell/wissen/leben-gene/vogelgrippe-was-der-uebersprung-aufs-schwein-bedeutet-110083432.html) (Faz.net)
 
 ## 24-45 (dengue)
+
+- [Dengue, nel microbioma delle zanzare un batterio alleato per controllarla: lo studio](https://www.ilgiornale.it/news/adnkronos/dengue-nel-microbioma-delle-zanzare-batterio-alleato-2390812.html) (Ilgiornale.it)
+
+- [Bacteria Can Accelerate Mosquito Control, Prevent Dengue, Zika: Study](https://www.ndtv.com/world-news/bacteria-can-accelerate-mosquito-control-prevent-dengue-zika-study-6946436) (NDTV News)
+
+- [Bacteria breakthrough could accelerate mosquito control schemes](https://www.sciencedaily.com/releases/2024/11/241104195948.htm) (Science Daily)
+
+- [Novel way to beat dengue: Deaf mosquitoes stop having sex](https://www.bbc.co.uk/news/articles/c207gvrn65do) (BBC News)
+
+- [Novel way to beat dengue: Deaf mosquitoes stop having sex](https://www.bbc.com/news/articles/c207gvrn65do) (BBC News)
 
 - [3,772 dengue cases in Haryana this season, over 160 in Gurgaon](https://timesofindia.indiatimes.com/city/gurgaon/dengue-cases-surge-in-haryana-state/articleshow/114944281.cms) (The Times of India)
 
@@ -2637,6 +2687,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Whooping Cough Cases Surge](https://www.newser.com/story/356862/whooping-cough-cases-surge.html) (Newser)
 
+- [What to do if you or your kid gets COVID-19 this fall](https://www.cbc.ca/news/canada/ottawa/what-to-do-if-you-or-your-kid-gets-covid-19-this-fall-1.7328679) (CBC News)
+
 ## 24-39 (mpox)
 
 - [Six morts du virus de Marburg, similaire à Ebola, au Rwanda](https://www.20minutes.fr/sante/4112589-20240928-six-morts-virus-marburg-similaire-ebola-rwanda) (20 Minutes)
@@ -2965,6 +3017,12 @@ Source: [News API](https://newsapi.org/)
 
 - [Enhancement of clinical signs in C3H/HeJ mice vaccinated with a highly immunogenic Leptospira methyl-accepting chemotaxis protein following challenge](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012155) (Plos.org)
 
+## 24-39 (hpai)
+
+- [Исследование: Птицы-пираты ускоряют распространение смертельного птичьего гриппа](https://vfokuse.mail.ru/article/issledovanie-pticy-piraty-uskoryayut-rasprostranenie-smertelnogo-ptichego-grippa-62903241/) (Mail.ru)
+
+- ["Пернатые пираты" ускоряют распространение смертельного птичьего гриппа, выяснили ученые](https://www.gazeta.ru/science/news/2024/09/22/23979301.shtml) (Gazeta.ru)
+
 ## 24-39 (h5n1)
 
 - [SUA confirmă primul caz de gripă aviară fără provenienţă animală cunoscută](https://www.mediafax.ro/sanatate/sua-confirma-primul-caz-de-gripa-aviara-fara-provenienta-animala-cunoscuta-22498397) (Mediafax.ro)
@@ -3032,6 +3090,10 @@ Source: [News API](https://newsapi.org/)
 - [Can our stockpiles of Tamiflu protect against a bird flu pandemic?](https://undark.org/2024/09/23/h5n1-old-drug-protect-against-new-pandemic/) (Undark Magazine)
 
 - [Otro contacto del paciente de Missouri con síntomas de gripe aviar hace temer el contagio entre humanos](https://www.elespanol.com/ciencia/salud/20240923/contacto-paciente-missouri-sintomas-gripe-aviar-hace-temer-contagio-humanos/888161276_0.html) (Elespanol.com)
+
+- [Исследование: Птицы-пираты ускоряют распространение смертельного птичьего гриппа](https://vfokuse.mail.ru/article/issledovanie-pticy-piraty-uskoryayut-rasprostranenie-smertelnogo-ptichego-grippa-62903241/) (Mail.ru)
+
+- ["Пернатые пираты" ускоряют распространение смертельного птичьего гриппа, выяснили ученые](https://www.gazeta.ru/science/news/2024/09/22/23979301.shtml) (Gazeta.ru)
 
 ## 24-39 (dengue)
 
@@ -3122,6 +3184,12 @@ Source: [News API](https://newsapi.org/)
 - [Health D-G: Drop in dengue cases during from Sept 8 to 14, no deaths reported](https://www.malaymail.com/news/malaysia/2024/09/23/health-d-g-drop-in-dengue-cases-from-sept-8-to-14-no-deaths-reported/151342) (Malay Mail)
 
 - [Kenali Tanda dan Gejala Demam Berdarah Dengue, Ada 3 Fase Dalam 7 Hari](https://www.liputan6.com/health/read/5708649/kenali-tanda-dan-gejala-demam-berdarah-dengue-ada-3-fase-dalam-7-hari) (Liputan6.com)
+
+- [Dengue scare: Docs suggest keeping eye on kids’ hydration level](https://timesofindia.indiatimes.com/city/bengaluru/dengue-alert-parents-urged-to-monitor-childrens-hydration-amid-rising-cases/articleshow/113577463.cms) (The Times of India)
+
+- [Pharmacies see 25% rise inqueries for dengue drugs](https://timesofindia.indiatimes.com/city/bengaluru/pharmacies-see-25-rise-inqueries-for-dengue-drugs/articleshow/113577327.cms) (The Times of India)
+
+- [Manipur health minister seeks public participation to combat rising dengue cases](https://www.indiatodayne.in/manipur/story/manipur-health-minister-seeks-public-participation-to-combat-rising-dengue-cases-1096640-2024-09-22) (Indiatodayne.in)
 
 ## 24-39 (chikungunya)
 
