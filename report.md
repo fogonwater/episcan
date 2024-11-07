@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 16
-- **Last harvest:** 2024-11-07 07:06
-- **Most recent article:** 2024-11-06 02:06:30
+- **New articles in last harvest:** 15
+- **Last harvest:** 2024-11-07 19:05
+- **Most recent article:** 2024-11-06 18:42:38
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-39 | 24-40 | 24-41 | 24-42 | 24-43 | 24-44 | 24-45 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 120 | 128 | 42 | 81 | 131 | 75 | 34 | 611 |
-| dengue | 47 | 51 | 35 | 50 | 53 | 31 | 18 | 285 |
-| h5n1 | 35 | 50 | 10 | 18 | 12 | 61 | 16 | 202 |
+| mpox | 120 | 128 | 42 | 81 | 131 | 75 | 42 | 619 |
+| dengue | 44 | 51 | 35 | 50 | 53 | 31 | 21 | 285 |
+| h5n1 | 33 | 50 | 10 | 18 | 12 | 61 | 18 | 202 |
 | malaria | 24 | 10 | 13 | 18 | 58 | 16 | 12 | 151 |
 | rabies | 25 | 30 | 6 | 7 | 3 | 10 | 3 | 84 |
 | measles | 4 | 6 | 5 | 3 | 1 | 13 | 2 | 34 |
 | meningitis | 6 | 11 | 2 | 1 | 6 | 3 | 3 | 32 |
-| zika | 1 | 3 | 4 | 6 | 6 | 3 | 5 | 28 |
+| zika | 1 | 3 | 4 | 6 | 6 | 3 | 7 | 30 |
 | chikungunya | 3 | 3 | 3 | 4 | 7 | 2 | 2 | 24 |
-| pertussis | 2 | 2 | 2 | 9 | 3 | 1 | 3 | 22 |
-| hpai | 2 | 2 | 1 | 2 | 2 | 7 | 2 | 18 |
+| pertussis | 1 | 2 | 2 | 9 | 3 | 1 | 3 | 21 |
+| hpai | 0 | 2 | 1 | 2 | 2 | 7 | 3 | 17 |
 | leptospirosis | 5 | 4 | 1 | 1 | 0 | 3 | 1 | 15 |
 | typhoid | 4 | 1 | 0 | 1 | 3 | 4 | 1 | 14 |
 | yersinia | 2 | 1 | 1 | 0 | 0 | 3 | 0 | 7 |
@@ -34,6 +34,10 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-45 (zika)
+
+- [Cuatro consejos imbatibles para mantener el jardín libre de mosquitos por la noche](https://www.lanacion.com.ar/lifestyle/cuatro-consejos-imbatibles-para-mantener-el-jardin-libre-de-mosquitos-por-la-noche-nid06112024/) (La Nacion)
+
+- [The effects of seasonal human mobility and Aedes aegypti habitat suitability on Zika virus epidemic severity in Colombia](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012571) (Plos.org)
 
 - [Scientists Make 'Shocking' Discovery About Mosquitoes](https://www.newser.com/story/358956/scientists-call-their-mosquito-discovery-shocking.html) (Newser)
 
@@ -66,6 +70,22 @@ Source: [News API](https://newsapi.org/)
 - [Michigan health officials warn residents about increase in whooping cough cases](https://www.clickondetroit.com/news/local/2024/11/04/michigan-health-officials-warn-residents-about-increase-in-whooping-cough-cases/) (WDIV ClickOnDetroit)
 
 ## 24-45 (mpox)
+
+- [New case of mpox detected in UK](https://news.sky.com/story/mpox-new-case-of-clade-1b-strain-detected-in-uk-13249510) (Sky.com)
+
+- [Infektionen in Großbritannien: Neue Mpox-Variante erstmals in Europa übertragen](https://www.n-tv.de/wissen/Neue-Mpox-Variante-erstmals-in-Europa-uebertragen-article25342400.html) (N-tv.de)
+
+- [Reino Unido informa de los primeros contagios locales de la nueva variante de mpox fuera de África](https://www.abc.es/sociedad/reino-unido-informa-primeros-contagios-locales-nueva-20241106171337-nt.html) (Www.abc.es)
+
+- [El Reino Unido confirma dos nuevos casos de una nueva variante más contagiosa de mpox](https://www.huffingtonpost.es/life/salud/el-reino-unido-confirma-dos-nuevos-casos-nueva-variante-mas-contagiosa-mpox.html) (Huffingtonpost.es)
+
+- [Neue Mpox-Variante erstmals in Europa übertragen](https://www.faz.net/agenturmeldungen/dpa/affenpocken-neue-mpox-variante-erstmals-in-europa-uebertragen-110092311.html) (Faz.net)
+
+- [Cidade de São Paulo registra 41 novos casos de mpox em uma semana](https://www.metropoles.com/sao-paulo/cidade-de-sao-paulo-registra-41-novos-casos-de-mpox-em-uma-semana) (Metropoles.com)
+
+- [Variola maimuței se răspândește în Marea Britanie. Noi cazuri de îmbolnăvire, descoperite la Londra](https://adevarul.ro/stiri-interne/sanatate/variola-maimutei-se-raspandeste-in-marea-britanie-2399707.html) (Adevarul.ro)
+
+- [Nový variant choroby mpox sa po prvý raz preniesol medzi ľuďmi v Európe](https://spravy.pravda.sk/svet/clanok/729750-novy-variant-choroby-mpox-sa-prvykrat-preniesol-medzi-ludmi-v-europe/) (Pravda.sk)
 
 - [Nemoc mpox se poprvé přenesla mezi lidmi v Evropě, varují lékaři](https://www.idnes.cz/zpravy/zahranicni/mpox-nemoc-evropa-afrika-who.A241105_220234_zahranicni_svm) (Idnes.cz)
 
@@ -181,11 +201,17 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-45 (hpai)
 
+- [Press release: First case of Avian influenza confirmed in poultry in England this Autumn](https://www.gov.uk/government/news/first-case-of-avian-influenza-confirmed-in-poultry-in-england-this-autumn) (Www.gov.uk)
+
 - [Bird flu outbreak confirmed in Yorkshire](https://www.bbc.com/news/articles/cpvzj2dmm87o) (BBC News)
 
 - [Highly Pathogenic Avian Influenza A(H5N1) Virus Infection in Cats, South Korea, 2023](https://wwwnc.cdc.gov/eid/article/30/12/24-0154_article) (Cdc.gov)
 
 ## 24-45 (h5n1)
+
+- [Precautionary bird flu testing underway as thousands of dead shorebirds wash up on beaches](https://www.abc.net.au/news/2024-11-07/dead-birds-on-beaches-spark-h5n1-bird-flu-warning/104562368) (ABC News (AU))
+
+- [La grippe aviaire a été détectée chez les porcs et voilà pourquoi les virologues s'inquiètent](https://atlantico.fr/article/decryptage/la-grippe-aviaire-a-ete-detectee-chez-les-porcs-et-voila-pourquoi-les-virologues-s-inquietent) (Atlantico.fr)
 
 - [Avian flu outbreak at Vancouver Island petting farm prompts exposure notice from health authority](https://www.cbc.ca/news/canada/british-columbia/avian-flu-vancouver-island-petting-farm-1.7374291) (CBC News)
 
@@ -220,6 +246,12 @@ Source: [News API](https://newsapi.org/)
 - [„Der Mensch ist bislang kein guter Wirt“](https://www.faz.net/aktuell/wissen/leben-gene/vogelgrippe-was-der-uebersprung-aufs-schwein-bedeutet-110083432.html) (Faz.net)
 
 ## 24-45 (dengue)
+
+- [Cuatro consejos imbatibles para mantener el jardín libre de mosquitos por la noche](https://www.lanacion.com.ar/lifestyle/cuatro-consejos-imbatibles-para-mantener-el-jardin-libre-de-mosquitos-por-la-noche-nid06112024/) (La Nacion)
+
+- [TN govt failed to implement dengue preventive measures: EPS](https://timesofindia.indiatimes.com/city/chennai/tn-govt-failed-to-implement-dengue-preventive-measures-eps/articleshow/115023092.cms) (The Times of India)
+
+- [How climate change made 2024 the deadliest year of dengue](https://www.bmj.com/content/387/bmj.q2391) (The BMJ)
 
 - [Confirmaron dos casos autóctonos de dengue en el Área Metropolitana de Buenos Aires](https://www.lanacion.com.ar/sociedad/confirmaron-dos-casos-autoctonos-de-dengue-en-el-area-metropolitana-de-buenos-aires-nid05112024/) (La Nacion)
 
@@ -2777,8 +2809,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Whooping Cough Cases Surge](https://www.newser.com/story/356862/whooping-cough-cases-surge.html) (Newser)
 
-- [What to do if you or your kid gets COVID-19 this fall](https://www.cbc.ca/news/canada/ottawa/what-to-do-if-you-or-your-kid-gets-covid-19-this-fall-1.7328679) (CBC News)
-
 ## 24-39 (mpox)
 
 - [Six morts du virus de Marburg, similaire à Ebola, au Rwanda](https://www.20minutes.fr/sante/4112589-20240928-six-morts-virus-marburg-similaire-ebola-rwanda) (20 Minutes)
@@ -3107,12 +3137,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Enhancement of clinical signs in C3H/HeJ mice vaccinated with a highly immunogenic Leptospira methyl-accepting chemotaxis protein following challenge](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012155) (Plos.org)
 
-## 24-39 (hpai)
-
-- [Исследование: Птицы-пираты ускоряют распространение смертельного птичьего гриппа](https://vfokuse.mail.ru/article/issledovanie-pticy-piraty-uskoryayut-rasprostranenie-smertelnogo-ptichego-grippa-62903241/) (Mail.ru)
-
-- ["Пернатые пираты" ускоряют распространение смертельного птичьего гриппа, выяснили ученые](https://www.gazeta.ru/science/news/2024/09/22/23979301.shtml) (Gazeta.ru)
-
 ## 24-39 (h5n1)
 
 - [SUA confirmă primul caz de gripă aviară fără provenienţă animală cunoscută](https://www.mediafax.ro/sanatate/sua-confirma-primul-caz-de-gripa-aviara-fara-provenienta-animala-cunoscuta-22498397) (Mediafax.ro)
@@ -3180,10 +3204,6 @@ Source: [News API](https://newsapi.org/)
 - [Can our stockpiles of Tamiflu protect against a bird flu pandemic?](https://undark.org/2024/09/23/h5n1-old-drug-protect-against-new-pandemic/) (Undark Magazine)
 
 - [Otro contacto del paciente de Missouri con síntomas de gripe aviar hace temer el contagio entre humanos](https://www.elespanol.com/ciencia/salud/20240923/contacto-paciente-missouri-sintomas-gripe-aviar-hace-temer-contagio-humanos/888161276_0.html) (Elespanol.com)
-
-- [Исследование: Птицы-пираты ускоряют распространение смертельного птичьего гриппа](https://vfokuse.mail.ru/article/issledovanie-pticy-piraty-uskoryayut-rasprostranenie-smertelnogo-ptichego-grippa-62903241/) (Mail.ru)
-
-- ["Пернатые пираты" ускоряют распространение смертельного птичьего гриппа, выяснили ученые](https://www.gazeta.ru/science/news/2024/09/22/23979301.shtml) (Gazeta.ru)
 
 ## 24-39 (dengue)
 
@@ -3274,12 +3294,6 @@ Source: [News API](https://newsapi.org/)
 - [Health D-G: Drop in dengue cases during from Sept 8 to 14, no deaths reported](https://www.malaymail.com/news/malaysia/2024/09/23/health-d-g-drop-in-dengue-cases-from-sept-8-to-14-no-deaths-reported/151342) (Malay Mail)
 
 - [Kenali Tanda dan Gejala Demam Berdarah Dengue, Ada 3 Fase Dalam 7 Hari](https://www.liputan6.com/health/read/5708649/kenali-tanda-dan-gejala-demam-berdarah-dengue-ada-3-fase-dalam-7-hari) (Liputan6.com)
-
-- [Dengue scare: Docs suggest keeping eye on kids’ hydration level](https://timesofindia.indiatimes.com/city/bengaluru/dengue-alert-parents-urged-to-monitor-childrens-hydration-amid-rising-cases/articleshow/113577463.cms) (The Times of India)
-
-- [Pharmacies see 25% rise inqueries for dengue drugs](https://timesofindia.indiatimes.com/city/bengaluru/pharmacies-see-25-rise-inqueries-for-dengue-drugs/articleshow/113577327.cms) (The Times of India)
-
-- [Manipur health minister seeks public participation to combat rising dengue cases](https://www.indiatodayne.in/manipur/story/manipur-health-minister-seeks-public-participation-to-combat-rising-dengue-cases-1096640-2024-09-22) (Indiatodayne.in)
 
 ## 24-39 (chikungunya)
 
