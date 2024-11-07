@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 26
-- **Last harvest:** 2024-11-06 19:05
-- **Most recent article:** 2024-11-05 19:02:19
+- **New articles in last harvest:** 16
+- **Last harvest:** 2024-11-07 07:06
+- **Most recent article:** 2024-11-06 02:06:30
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-39 | 24-40 | 24-41 | 24-42 | 24-43 | 24-44 | 24-45 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 120 | 128 | 42 | 81 | 131 | 75 | 26 | 603 |
-| dengue | 44 | 51 | 35 | 50 | 53 | 31 | 15 | 279 |
-| h5n1 | 33 | 50 | 10 | 18 | 12 | 61 | 15 | 199 |
-| malaria | 24 | 10 | 13 | 18 | 58 | 16 | 10 | 149 |
+| mpox | 120 | 128 | 42 | 81 | 131 | 75 | 34 | 611 |
+| dengue | 47 | 51 | 35 | 50 | 53 | 31 | 18 | 285 |
+| h5n1 | 35 | 50 | 10 | 18 | 12 | 61 | 16 | 202 |
+| malaria | 24 | 10 | 13 | 18 | 58 | 16 | 12 | 151 |
 | rabies | 25 | 30 | 6 | 7 | 3 | 10 | 3 | 84 |
 | measles | 4 | 6 | 5 | 3 | 1 | 13 | 2 | 34 |
 | meningitis | 6 | 11 | 2 | 1 | 6 | 3 | 3 | 32 |
-| zika | 1 | 3 | 4 | 6 | 6 | 3 | 4 | 27 |
+| zika | 1 | 3 | 4 | 6 | 6 | 3 | 5 | 28 |
 | chikungunya | 3 | 3 | 3 | 4 | 7 | 2 | 2 | 24 |
-| pertussis | 1 | 2 | 2 | 9 | 3 | 1 | 3 | 21 |
+| pertussis | 2 | 2 | 2 | 9 | 3 | 1 | 3 | 22 |
+| hpai | 2 | 2 | 1 | 2 | 2 | 7 | 2 | 18 |
 | leptospirosis | 5 | 4 | 1 | 1 | 0 | 3 | 1 | 15 |
-| hpai | 0 | 2 | 1 | 2 | 2 | 7 | 1 | 15 |
-| typhoid | 4 | 1 | 0 | 1 | 3 | 4 | 0 | 13 |
+| typhoid | 4 | 1 | 0 | 1 | 3 | 4 | 1 | 14 |
 | yersinia | 2 | 1 | 1 | 0 | 0 | 3 | 0 | 7 |
 | shigellosis | 0 | 1 | 3 | 0 | 1 | 0 | 0 | 5 |
 
@@ -35,6 +35,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-45 (zika)
 
+- [Scientists Make 'Shocking' Discovery About Mosquitoes](https://www.newser.com/story/358956/scientists-call-their-mosquito-discovery-shocking.html) (Newser)
+
 - [Sıtma, sarıhumma ve Zika ile mücadelede erkek sivrisineklerin duyma yetisini kaybetmesi etkili olabilir](https://www.aa.com.tr/tr/yasam/sitma-sarihumma-ve-zika-ile-mucadelede-erkek-sivrisineklerin-duyma-yetisini-kaybetmesi-etkili-olabilir/3384767) (Anadolu Agency)
 
 - [Bacteria Can Accelerate Mosquito Control, Prevent Dengue, Zika: Study](https://www.ndtv.com/world-news/bacteria-can-accelerate-mosquito-control-prevent-dengue-zika-study-6946436) (NDTV News)
@@ -42,6 +44,10 @@ Source: [News API](https://newsapi.org/)
 - [Novel way to beat dengue: Deaf mosquitoes stop having sex](https://www.bbc.com/news/articles/c207gvrn65do) (BBC News)
 
 - [Extrato de própolis demonstra efeito contra vírus propagados por mosquitos](https://veja.abril.com.br/saude/extrato-de-propolis-demonstra-efeito-contra-virus-propagados-por-mosquitos) (Abril.com.br)
+
+## 24-45 (typhoid)
+
+- [Domino’s Pizza customers may have been exposed to typhoid fever bacteria](https://www.foodsafetynews.com/2024/11/dominos-pizza-customers-may-have-been-exposed-to-typhoid-fever-bacteria/) (Food Safety News)
 
 ## 24-45 (rabies)
 
@@ -60,6 +66,22 @@ Source: [News API](https://newsapi.org/)
 - [Michigan health officials warn residents about increase in whooping cough cases](https://www.clickondetroit.com/news/local/2024/11/04/michigan-health-officials-warn-residents-about-increase-in-whooping-cough-cases/) (WDIV ClickOnDetroit)
 
 ## 24-45 (mpox)
+
+- [Nemoc mpox se poprvé přenesla mezi lidmi v Evropě, varují lékaři](https://www.idnes.cz/zpravy/zahranicni/mpox-nemoc-evropa-afrika-who.A241105_220234_zahranicni_svm) (Idnes.cz)
+
+- [Mpox : premiers cas de transmission locale confirmés sur le territoire européen de l’OMS](https://www.sudinfo.be/id909807/article/2024-11-05/mpox-premiers-cas-de-transmission-locale-confirmes-sur-le-territoire-europeen-de) (Sudinfo.be)
+
+- [WHO: 2 UK mpox cases first local transmissions in Europe](https://www.voanews.com/a/who-2-uk-mpox-cases-first-local-transmissions-in-europe/7852677.html) (VOA News)
+
+- [Eerste gevallen van lokale overdracht van nieuwe mpox-variant op Europees grondgebied](https://www.hbvl.be/cnt/dmf20241105_97082888) (Hbvl.be)
+
+- [Krankheiten: WHO: Neue Mpox-Variante erstmals in Europa übertragen](https://www.tagesspiegel.de/wissen/krankheiten-who-neue-mpox-variante-erstmals-in-europa-ubertragen-12652124.html) (Der Tagesspiegel)
+
+- [Krankheiten: WHO: Neue Mpox-Variante erstmals in Europa übertragen](https://www.zeit.de/news/2024-11/05/who-neue-mpox-variante-erstmals-in-europa-uebertragen) (Die Zeit)
+
+- [Krankheiten: WHO: Neue Mpox-Variante erstmals in Europa übertragen](https://www.stern.de/panorama/wissen/krankheiten--who--neue-mpox-variante-erstmals-in-europa-uebertragen-35202124.html) (STERN.de)
+
+- [Eerste gevallen van lokale overdracht van nieuwe mpox-variant op Europees grondgebied](https://www.nieuwsblad.be/cnt/dmf20241105_96993194) (Nieuwsblad.be)
 
 - [Nouveau variant du virus Mpox : l'OMS affirme que des transmissions locales hors d'Afrique ont été observées au Royaume-Uni](https://www.francetvinfo.fr/sante/maladie/variole-du-singe/nouveau-variant-du-virus-mpox-l-oms-affirme-que-des-transmissions-locales-hors-d-afrique-ont-ete-observees-au-royaume-uni_6879803.html) (Francetvinfo.fr)
 
@@ -129,6 +151,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-45 (malaria)
 
+- [HIV, malaria top WHO list for urgent vaccines](https://punchng.com/hiv-malaria-top-who-list-for-urgent-vaccines/) (The Punch)
+
+- [The Most Dangerous Germs Without Effective Vaccines](https://gizmodo.com/the-most-dangerous-germs-without-effective-vaccines-2000520698) (Gizmodo.com)
+
 - [WHO identifies priority pathogens for new vaccines development](https://www.voanews.com/a/who-identifies-priority-pathogens-for-new-vaccines-development/7852296.html) (VOA News)
 
 - [Sudan launches first malaria vaccine in landmark child health initiative](https://news.un.org/en/story/2024/11/1156551) (UN News)
@@ -155,9 +181,13 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-45 (hpai)
 
+- [Bird flu outbreak confirmed in Yorkshire](https://www.bbc.com/news/articles/cpvzj2dmm87o) (BBC News)
+
 - [Highly Pathogenic Avian Influenza A(H5N1) Virus Infection in Cats, South Korea, 2023](https://wwwnc.cdc.gov/eid/article/30/12/24-0154_article) (Cdc.gov)
 
 ## 24-45 (h5n1)
+
+- [Avian flu outbreak at Vancouver Island petting farm prompts exposure notice from health authority](https://www.cbc.ca/news/canada/british-columbia/avian-flu-vancouver-island-petting-farm-1.7374291) (CBC News)
 
 - [La detección de la gripe aviar en un cerdo en los EE UU es una pésima noticia: facilita su salto a humanos](https://www.xataka.com/medicina-y-salud/deteccion-gripe-aviar-cerdo-ee-uu-pesima-noticia-facilita-su-salto-a-humanos) (Xataka.com)
 
@@ -190,6 +220,12 @@ Source: [News API](https://newsapi.org/)
 - [„Der Mensch ist bislang kein guter Wirt“](https://www.faz.net/aktuell/wissen/leben-gene/vogelgrippe-was-der-uebersprung-aufs-schwein-bedeutet-110083432.html) (Faz.net)
 
 ## 24-45 (dengue)
+
+- [Confirmaron dos casos autóctonos de dengue en el Área Metropolitana de Buenos Aires](https://www.lanacion.com.ar/sociedad/confirmaron-dos-casos-autoctonos-de-dengue-en-el-area-metropolitana-de-buenos-aires-nid05112024/) (La Nacion)
+
+- [Scientists Make 'Shocking' Discovery About Mosquitoes](https://www.newser.com/story/358956/scientists-call-their-mosquito-discovery-shocking.html) (Newser)
+
+- [Six-year-old girl dies of dengue near Chennai](https://timesofindia.indiatimes.com/city/chennai/tragic-death-of-six-year-old-girl-from-dengue-in-chennai-raises-alarm/articleshow/114991622.cms) (The Times of India)
 
 - [Cholera cases in Sudan rise to 30,880, dengue fever to 6,011: health ministry](https://www.thestar.com.my/news/world/2024/11/06/cholera-cases-in-sudan-rise-to-30880-dengue-fever-to-6011-health-ministry) (The Star Online)
 
@@ -2741,6 +2777,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Whooping Cough Cases Surge](https://www.newser.com/story/356862/whooping-cough-cases-surge.html) (Newser)
 
+- [What to do if you or your kid gets COVID-19 this fall](https://www.cbc.ca/news/canada/ottawa/what-to-do-if-you-or-your-kid-gets-covid-19-this-fall-1.7328679) (CBC News)
+
 ## 24-39 (mpox)
 
 - [Six morts du virus de Marburg, similaire à Ebola, au Rwanda](https://www.20minutes.fr/sante/4112589-20240928-six-morts-virus-marburg-similaire-ebola-rwanda) (20 Minutes)
@@ -3069,6 +3107,12 @@ Source: [News API](https://newsapi.org/)
 
 - [Enhancement of clinical signs in C3H/HeJ mice vaccinated with a highly immunogenic Leptospira methyl-accepting chemotaxis protein following challenge](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012155) (Plos.org)
 
+## 24-39 (hpai)
+
+- [Исследование: Птицы-пираты ускоряют распространение смертельного птичьего гриппа](https://vfokuse.mail.ru/article/issledovanie-pticy-piraty-uskoryayut-rasprostranenie-smertelnogo-ptichego-grippa-62903241/) (Mail.ru)
+
+- ["Пернатые пираты" ускоряют распространение смертельного птичьего гриппа, выяснили ученые](https://www.gazeta.ru/science/news/2024/09/22/23979301.shtml) (Gazeta.ru)
+
 ## 24-39 (h5n1)
 
 - [SUA confirmă primul caz de gripă aviară fără provenienţă animală cunoscută](https://www.mediafax.ro/sanatate/sua-confirma-primul-caz-de-gripa-aviara-fara-provenienta-animala-cunoscuta-22498397) (Mediafax.ro)
@@ -3136,6 +3180,10 @@ Source: [News API](https://newsapi.org/)
 - [Can our stockpiles of Tamiflu protect against a bird flu pandemic?](https://undark.org/2024/09/23/h5n1-old-drug-protect-against-new-pandemic/) (Undark Magazine)
 
 - [Otro contacto del paciente de Missouri con síntomas de gripe aviar hace temer el contagio entre humanos](https://www.elespanol.com/ciencia/salud/20240923/contacto-paciente-missouri-sintomas-gripe-aviar-hace-temer-contagio-humanos/888161276_0.html) (Elespanol.com)
+
+- [Исследование: Птицы-пираты ускоряют распространение смертельного птичьего гриппа](https://vfokuse.mail.ru/article/issledovanie-pticy-piraty-uskoryayut-rasprostranenie-smertelnogo-ptichego-grippa-62903241/) (Mail.ru)
+
+- ["Пернатые пираты" ускоряют распространение смертельного птичьего гриппа, выяснили ученые](https://www.gazeta.ru/science/news/2024/09/22/23979301.shtml) (Gazeta.ru)
 
 ## 24-39 (dengue)
 
@@ -3226,6 +3274,12 @@ Source: [News API](https://newsapi.org/)
 - [Health D-G: Drop in dengue cases during from Sept 8 to 14, no deaths reported](https://www.malaymail.com/news/malaysia/2024/09/23/health-d-g-drop-in-dengue-cases-from-sept-8-to-14-no-deaths-reported/151342) (Malay Mail)
 
 - [Kenali Tanda dan Gejala Demam Berdarah Dengue, Ada 3 Fase Dalam 7 Hari](https://www.liputan6.com/health/read/5708649/kenali-tanda-dan-gejala-demam-berdarah-dengue-ada-3-fase-dalam-7-hari) (Liputan6.com)
+
+- [Dengue scare: Docs suggest keeping eye on kids’ hydration level](https://timesofindia.indiatimes.com/city/bengaluru/dengue-alert-parents-urged-to-monitor-childrens-hydration-amid-rising-cases/articleshow/113577463.cms) (The Times of India)
+
+- [Pharmacies see 25% rise inqueries for dengue drugs](https://timesofindia.indiatimes.com/city/bengaluru/pharmacies-see-25-rise-inqueries-for-dengue-drugs/articleshow/113577327.cms) (The Times of India)
+
+- [Manipur health minister seeks public participation to combat rising dengue cases](https://www.indiatodayne.in/manipur/story/manipur-health-minister-seeks-public-participation-to-combat-rising-dengue-cases-1096640-2024-09-22) (Indiatodayne.in)
 
 ## 24-39 (chikungunya)
 

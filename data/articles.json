@@ -1,8 +1,297 @@
 {
-  "last_updated": "2024-11-06 19:05",
-  "count_articles_total": 1447,
-  "count_articles_new": 26,
+  "last_updated": "2024-11-07 07:06",
+  "count_articles_total": 1469,
+  "count_articles_new": 16,
   "articles": [
+    {
+      "id": 15303,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": null,
+      "title": "Confirmaron dos casos aut\u00f3ctonos de dengue en el \u00c1rea Metropolitana de Buenos Aires",
+      "description": "Se trata de pacientes que adquirieron la enfermedad y que no tienen antecedentes de viaje; una de las personas reside en La Matanza y la otra en la Capital Federal",
+      "url": "https://www.lanacion.com.ar/sociedad/confirmaron-dos-casos-autoctonos-de-dengue-en-el-area-metropolitana-de-buenos-aires-nid05112024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/se-registro-el-primer-caso-de-dengue-en-buenos-LEBMWTEDWFHL5MURVGIPNZRGXE.jpg?auth=9f807804cab8b892fb8b996cfccbfb998172079fdcf81345b9d860531abace1a&width=1200&quality=70&smart=false&height=800",
+      "publishedAt": "2024-11-06 02:06:30",
+      "content": "Luego de lo sucedido en Mendoza, C\u00f3rdoba y Tucum\u00e1n, en la \u00faltima semana se detectaron los primeros casos aut\u00f3ctonos de dengue en el \u00c1rea Metropolitana de Buenos Aires (AMBA), es decir, que no tienen \u2026 [+2017 chars]",
+      "retrievedAt": "2024-11-07 07:06:32.880212",
+      "internal_id": "45dff42239dd2204984c7c7d144d5b5e0afa1daa4f80634772a2a29eee4462f3",
+      "publishedAtLabel": "Nov 6"
+    },
+    {
+      "id": 15306,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Lara Adejoro",
+      "title": "HIV, malaria top WHO list for urgent vaccines",
+      "description": "A new World Health Organisation study published on Tuesday in eBioMedicine has named 17 pathogens that regularly cause diseases in communities as top priorities for new vaccine development. The WHO study is the first global effort to systematically prioritise\u2026",
+      "url": "https://punchng.com/hiv-malaria-top-who-list-for-urgent-vaccines/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2018/11/29215249/HIV.jpg",
+      "publishedAt": "2024-11-06 00:49:34",
+      "content": "A new World Health Organisation study published on Tuesday in eBioMedicine has named 17 pathogens that regularly cause diseases in communities as top priorities for new vaccine development. The WHO \u2026 [+3652 chars]",
+      "retrievedAt": "2024-11-07 07:06:33.797744",
+      "internal_id": "19e096afce07f5f9c9a6a998003823ff310a455516d8a28d72c60641009a897a",
+      "publishedAtLabel": "Nov 6"
+    },
+    {
+      "id": 15300,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": null,
+      "title": "Bird flu outbreak confirmed in Yorkshire",
+      "description": "Defra says the outbreak, at a farm in Hornsea, is the first in Great Britain since February.",
+      "url": "https://www.bbc.com/news/articles/cpvzj2dmm87o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3e62/live/b553cd20-9bc7-11ef-82c3-45a801b7330b.jpg",
+      "publishedAt": "2024-11-05 22:46:17",
+      "content": "A bird flu outbreak has been confirmed in commercial poultry at a farm in East Riding of Yorkshire. The virus, also known as highly pathogenic avian influenza (HPAI), was discovered near Hornsea, t\u2026 [+1086 chars]",
+      "retrievedAt": "2024-11-07 07:06:32.044294",
+      "internal_id": "493bcde7cb3c7164c95a5a45a37e3df3f4d5eacc3494526227dac50541f7eff2",
+      "publishedAtLabel": "Nov 5"
+    },
+    {
+      "id": 15315,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Food Safety News",
+      "author": "Coral Beach",
+      "title": "Domino\u2019s Pizza customers may have been exposed to typhoid fever bacteria",
+      "description": "Health officials in Saskatchewan Canada are urging customers of Domino\u2019s Pizza in Martensville to watch for symptoms of typhoid fever. The restaurant\u2019s customers may have been exposed to Salmonella typhi, also known as typhoid fever. Anyone who consumed food \u2026",
+      "url": "https://www.foodsafetynews.com/2024/11/dominos-pizza-customers-may-have-been-exposed-to-typhoid-fever-bacteria/",
+      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/070/897/005/aMBJ5DWdLYP9ApKOzXRNjrp4Z/58a657b1b0fb25f6b791a5233568f69447ae52de.png",
+      "publishedAt": "2024-11-05 21:41:22",
+      "content": "Health officials in Saskatchewan Canada are urging customers of Dominos Pizza in Martensville to watch for symptoms of typhoid fever. The restaurants customers may have been exposed to Salmonella ty\u2026 [+972 chars]",
+      "retrievedAt": "2024-11-07 07:06:35.416658",
+      "internal_id": "6c23e23101ff7d0d10c8a67c7ce50a52bdcfbc4394221fff6603a679bc62b662",
+      "publishedAtLabel": "Nov 5"
+    },
+    {
+      "id": 15312,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Idnes.cz",
+      "author": "Lidovky.cz, \u010cTK",
+      "title": "Nemoc mpox se poprv\u00e9 p\u0159enesla mezi lidmi v Evrop\u011b, varuj\u00ed l\u00e9ka\u0159i",
+      "description": "Nov\u00e1 varianta nemoci mpox se poprv\u00e9 p\u0159enesla mezi lidmi v Evrop\u011b, konkr\u00e9tn\u011b v Brit\u00e1nii, potvrdila v \u00fater\u00fd Sv\u011btov\u00e1 zdravotnick\u00e1 organizace (WHO). Oba naka\u017een\u00ed variantou clade Ib sd\u00edl\u00ed dom\u00e1cnost s pacientem, jemu\u017e byl mpox zn\u00e1m\u00fd jako opi\u010d\u00ed ne\u0161tovice potvrzen po\u2026",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/mpox-nemoc-evropa-afrika-who.A241105_220234_zahranicni_svm",
+      "urlToImage": "https://1gr.cz/fotky/idnes/22/053/cl8/IHA93a537_shutterstock_2158549553.jpg",
+      "publishedAt": "2024-11-05 21:16:51",
+      "content": "Port\u00e1l Lidovky.cz je tady pro v\u00e1s. Sta\u00ed si vybrat, jakou formou v\u00e1m m\u00e1me zobrazovat obsah.Lidovky.cz a reklama Pokud vyuijete m\u00edsto platby udlen\u00ed souhlasu s reklamou (tj. souhlas s vyuit\u00edm cookies a\u2026 [+2841 chars]",
+      "retrievedAt": "2024-11-07 07:06:34.918454",
+      "internal_id": "d6fd25de56bdf500d1942437e46bf9e7bc059149a0bd37770249a278ecfbbc3d",
+      "publishedAtLabel": "Nov 5"
+    },
+    {
+      "id": 15301,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Avian flu outbreak at Vancouver Island petting farm prompts exposure notice from health authority",
+      "description": "The owner of Holly Hill Farm said on Facebook that each of their approximately 50 chickens and ducks were put down after they learned avian flu, also known as H5N1, was spreading through the flock.",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/avian-flu-vancouver-island-petting-farm-1.7374291",
+      "urlToImage": "https://i.cbc.ca/1.7374430.1730836182!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/avian-flu.jpg",
+      "publishedAt": "2024-11-05 21:03:57",
+      "content": "Vancouver Island's health authority is warning residents about a possible exposure to avian flu at a petting farm in Campbell River, B.C. The owner of Holly Hill Farm said Sunday on Facebook that e\u2026 [+2553 chars]",
+      "retrievedAt": "2024-11-07 07:06:32.550908",
+      "internal_id": "340cc22b9be54f71b93e35f4c005407f565a6d2e8cf64bc8e006a9a954f37782",
+      "publishedAtLabel": "Nov 5"
+    },
+    {
+      "id": 15310,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Sudinfo.be",
+      "author": "Par Sudinfo avec Belga",
+      "title": "Mpox : premiers cas de transmission locale confirm\u00e9s sur le territoire europ\u00e9en de l\u2019OMS",
+      "description": "Les premiers cas de transmission locale du mpox, ou variole du singe, dans la r\u00e9gion europ\u00e9enne de l\u2019Organisation mondiale de la sant\u00e9 ont \u00e9t\u00e9 confirm\u00e9s au Royaume-Uni.",
+      "url": "https://www.sudinfo.be/id909807/article/2024-11-05/mpox-premiers-cas-de-transmission-locale-confirmes-sur-le-territoire-europeen-de",
+      "urlToImage": "https://spgeng.rosselcdn.net/sites/default/files/dpistyles_v2/FirstImageUrl/2024/11/05/node_909807/56014294/public/2024/11/05/29041952.jpeg?itok=M_vA81HY1730838939",
+      "publishedAt": "2024-11-05 20:23:10",
+      "content": "Les premiers cas de transmission locale du mpox, ou variole du singe, dans la r\u00e9gion europ\u00e9enne de lOrganisation mondiale de la sant\u00e9 (OMS) ont \u00e9t\u00e9 confirm\u00e9s au Royaume-Uni, a signal\u00e9 mardi le bureau\u2026 [+1586 chars]",
+      "retrievedAt": "2024-11-07 07:06:34.890303",
+      "internal_id": "276bc9d11f65872a0ca2bdc407a5f59fd625b9eda45ff5810aaeb90fb94d1faa",
+      "publishedAtLabel": "Nov 5"
+    },
+    {
+      "id": 15308,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "VOA News",
+      "author": "webdesk@voanews.com (Agence France-Presse)",
+      "title": "WHO: 2 UK mpox cases first local transmissions in Europe",
+      "description": "London \u2014 Two new cases of the mpox variant clade 1b detected in the U.K. are the first locally transmitted cases in Europe and the first outside Africa, the World Health Organization said Tuesday. The U.K. Health Security Agency (UKHSA) confirmed late Monda\u2026",
+      "url": "https://www.voanews.com/a/who-2-uk-mpox-cases-first-local-transmissions-in-europe/7852677.html",
+      "urlToImage": "https://gdb.voanews.com/9224D7DA-B46C-4CEC-A8D9-2EB24C91D840.jpg",
+      "publishedAt": "2024-11-05 20:05:25",
+      "content": "London Two new cases of the mpox variant clade 1b detected in the U.K. are the first locally transmitted cases in Europe and the first outside Africa, the World Health Organization said Tuesday. Th\u2026 [+1881 chars]",
+      "retrievedAt": "2024-11-07 07:06:34.825747",
+      "internal_id": "172c819ce1047fb6039698af04e4712718fe06a57f9368823ed6afb1bb8e9af0",
+      "publishedAtLabel": "Nov 5"
+    },
+    {
+      "id": 15304,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Newser",
+      "author": "Kate Seamons",
+      "title": "Scientists Make 'Shocking' Discovery About Mosquitoes",
+      "description": "Could eliminating mosquitoes' sense of hearing be the key to eliminating mosquito-borne diseases like dengue, yellow fever, and Zika? Possibly. The BBC reports researchers from the University of California, Santa Barbara began by taking stock of the way mosqu\u2026",
+      "url": "https://www.newser.com/story/358956/scientists-call-their-mosquito-discovery-shocking.html",
+      "urlToImage": "https://img1-azrcdn.newser.com/image/1570804-12-20241105140331.jpeg",
+      "publishedAt": "2024-11-05 19:57:21",
+      "content": "Could eliminating mosquitoes' sense of hearing be the key to eliminating mosquito-borne diseases like dengue, yellow fever, and Zika? Possibly. The BBC reports researchers from the University of Cali\u2026 [+1455 chars]",
+      "retrievedAt": "2024-11-07 07:06:32.892156",
+      "internal_id": "e7ef5441de6a346fd169b4d0972be318a0b9815fa8656cbe46b06b9703b95be5",
+      "publishedAtLabel": "Nov 5"
+    },
+    {
+      "id": 15311,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Hbvl.be",
+      "author": "hbvl.be",
+      "title": "Eerste gevallen van lokale overdracht van nieuwe mpox-variant op Europees grondgebied",
+      "description": "In Groot-Brittanni\u00eb zijn twee personen besmet geraakt met de nieuwe variant van de virale ziekte mpox nadat ze in contact waren gekomen met een zieke die uit Afrika was teruggekomen. Het gaat volgens de Wereldgezondheidsorganisatie (WHO) om de eerste gevallen\u2026",
+      "url": "https://www.hbvl.be/cnt/dmf20241105_97082888",
+      "urlToImage": "https://static.hbvl.be/Assets/Images_Upload/2024/11/05/e7fd410b-93b1-41a9-ae77-ba8342822ce6.jpg?maxheight=460&maxwidth=629",
+      "publishedAt": "2024-11-05 19:40:13",
+      "content": "In Groot-Brittanni\u00eb zijn twee personen besmet geraakt met de nieuwe variant van de virale ziekte mpox nadat ze in contact waren gekomen met een zieke die uit Afrika was teruggekomen. Het gaat volgens\u2026 [+1381 chars]",
+      "retrievedAt": "2024-11-07 07:06:34.896532",
+      "internal_id": "384a82bdb716f59295ec024ffd20713be3bf1179866b59b267bcc20b2fbe77b9",
+      "publishedAtLabel": "Nov 5"
+    },
+    {
+      "id": 15313,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Der Tagesspiegel",
+      "title": "Krankheiten: WHO: Neue Mpox-Variante erstmals in Europa \u00fcbertragen",
+      "description": "Das Mpox-Virus ist nicht leicht \u00fcbertragbar. Nun infizierten sich erstmals Menschen in Europa - in Gro\u00dfbritannien.",
+      "url": "https://www.tagesspiegel.de/wissen/krankheiten-who-neue-mpox-variante-erstmals-in-europa-ubertragen-12652124.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/12652121/alternates/BASE_16_9_W1400/1730835200000/mpox.jpeg",
+      "publishedAt": "2024-11-05 19:33:21",
+      "content": "Erstmals haben sich Menschen in Europa mit der neuen Variante des Mpox-Virus angesteckt. Das teilte die Weltgesundheitsorganisation (WHO) mit. In Gro\u00dfbritannien infizierten sich demnach zwei Menschen\u2026 [+2691 chars]",
+      "retrievedAt": "2024-11-07 07:06:34.929921",
+      "internal_id": "1798c8e1c337eff8e150817eb5cd542ee80a9faa9458df316e9f76a56a728895",
+      "publishedAtLabel": "Nov 5"
+    },
+    {
+      "id": 15307,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "ZEIT ONLINE: News -",
+      "title": "Krankheiten: WHO: Neue Mpox-Variante erstmals in Europa \u00fcbertragen",
+      "description": "Hier finden Sie Informationen zu dem Thema \u201eKrankheiten\u201c. Lesen Sie jetzt \u201eWHO: Neue Mpox-Variante erstmals in Europa \u00fcbertragen\u201c.",
+      "url": "https://www.zeit.de/news/2024-11/05/who-neue-mpox-variante-erstmals-in-europa-uebertragen",
+      "urlToImage": "https://img.zeit.de/news/2024-11/05/who-neue-mpox-variante-erstmals-in-europa-uebertragen-image-group/wide__1300x731",
+      "publishedAt": "2024-11-05 19:31:53",
+      "content": "Erstmals haben sich Menschen in Europa mit der neuen Variante des Mpox-Virus angesteckt. Das teilte die Weltgesundheitsorganisation (WHO) mit. In Gro\u00dfbritannien infizierten sich demnach zwei Menschen\u2026 [+2658 chars]",
+      "retrievedAt": "2024-11-07 07:06:34.782809",
+      "internal_id": "4e08225045d0a55ad2f6dc9fe6fb802d67d9d8bb1d38e922d54267fd0985528c",
+      "publishedAtLabel": "Nov 5"
+    },
+    {
+      "id": 15314,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "Krankheiten: WHO: Neue Mpox-Variante erstmals in Europa \u00fcbertragen",
+      "description": "Kopenhagen - Erstmals haben sich Menschen in Europa mit der neuen Variante des Mpox-Virus angesteckt. Das teilte die Weltgesundheitsorganisation (WHO)",
+      "url": "https://www.stern.de/panorama/wissen/krankheiten--who--neue-mpox-variante-erstmals-in-europa-uebertragen-35202124.html",
+      "urlToImage": "https://image.stern.de/35202126/t/pZ/v1/w1440/r1.7778/-/05--wzribc5srvv5axw800h600jpeg---07f4fa98c4203536.jpg",
+      "publishedAt": "2024-11-05 19:31:53",
+      "content": "Kopiere den aktuellen Link Das Mpox-Virus ist nicht leicht \u00fcbertragbar. Nun infizierten sich erstmals Menschen in Europa - in Gro\u00dfbritannien. Erstmals haben sich Menschen in Europa mit der neuen Va\u2026 [+2068 chars]",
+      "retrievedAt": "2024-11-07 07:06:34.941879",
+      "internal_id": "1401de620788bbe8bccb82418b51b06bbbdc542527625dcc6792b4191b914f3e",
+      "publishedAtLabel": "Nov 5"
+    },
+    {
+      "id": 15309,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Nieuwsblad.be",
+      "author": "nieuwsblad.be",
+      "title": "Eerste gevallen van lokale overdracht van nieuwe mpox-variant op Europees grondgebied",
+      "description": "In Groot-Brittanni\u00eb zijn twee personen besmet geraakt met de nieuwe variant van de virale ziekte mpox nadat ze in contact waren gekomen met een zieke die uit Afrika was teruggekomen. Het gaat volgens de Wereldgezondheidsorganisatie (WHO) om de eerste gevallen\u2026",
+      "url": "https://www.nieuwsblad.be/cnt/dmf20241105_96993194",
+      "urlToImage": "https://static.nieuwsblad.be/Assets/Images_Upload/2024/11/05/e7fd410b-93b1-41a9-ae77-ba8342822ce6.jpg?maxheight=460&maxwidth=638",
+      "publishedAt": "2024-11-05 19:24:19",
+      "content": "In Groot-Brittanni\u00eb zijn twee personen besmet geraakt met de nieuwe variant van de virale ziekte mpox nadat ze in contact waren gekomen met een zieke die uit Afrika was teruggekomen. Het gaat volgens\u2026 [+1644 chars]",
+      "retrievedAt": "2024-11-07 07:06:34.883451",
+      "internal_id": "a605a7880aba842cb0f594e8d567c24bc4bfc51b26c96b1d9e59cdb074e882b1",
+      "publishedAtLabel": "Nov 5"
+    },
+    {
+      "id": 15302,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TNN",
+      "title": "Six-year-old girl dies of dengue near Chennai",
+      "description": "A six-year-old girl succumbed to dengue at Chengalpet GH after being hospitalized for severe symptoms, amid rising dengue cases in the state. Health officials urge vulnerable groups to seek medical attention instead of self-medicating.",
+      "url": "https://timesofindia.indiatimes.com/city/chennai/tragic-death-of-six-year-old-girl-from-dengue-in-chennai-raises-alarm/articleshow/114991622.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-114991656,width-1070,height-580,imgsize-558827,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-11-05 19:07:38",
+      "content": "How to grow Dhaniya at home without any soil or sand (you only need water!)",
+      "retrievedAt": "2024-11-07 07:06:32.845003",
+      "internal_id": "cb2d2ff3f7ab0bcf575945d615d462ec088eed27b4746f67b52d532ef9a51d87",
+      "publishedAtLabel": "Nov 5"
+    },
+    {
+      "id": 15305,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Gizmodo.com",
+      "author": "Ed Cara",
+      "title": "The Most Dangerous Germs Without Effective Vaccines",
+      "description": "Researchers at the World Health Organization have identified 17 pathogens most in need of new or improved vaccines, including threats like HIV, malaria, and influenza.",
+      "url": "https://gizmodo.com/the-most-dangerous-germs-without-effective-vaccines-2000520698",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/11/flu-virus.jpg",
+      "publishedAt": "2024-11-05 19:07:01",
+      "content": "The World Health Organization has put out a hit list of germs for future vaccines to tackle. In a report published this week, WHO scientists have identified 17 widely common pathogens that most need \u2026 [+4146 chars]",
+      "retrievedAt": "2024-11-07 07:06:33.774124",
+      "internal_id": "fd80708fd2322c64c08e6cd84cb245a6ffeee4af33842693ee145c1e17afffb1",
+      "publishedAtLabel": "Nov 5"
+    },
     {
       "id": 15293,
       "query": [
@@ -26108,6 +26397,116 @@
       "retrievedAt": "2024-09-24 07:06:25.165214",
       "internal_id": "9abfbe4a7c6380a372466b00b37b567d2ea02f24d84f90762c53768de3286da2",
       "publishedAtLabel": "Sep 23"
+    },
+    {
+      "id": 13843,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Pearl D'souza",
+      "title": "Dengue scare: Docs suggest keeping eye on kids\u2019 hydration level",
+      "description": "With rising dengue cases leading to schoolchildren fatalities in Bengaluru, doctors emphasize the importance of monitoring children's hydration levels and recognizing early symptoms. Stay informed on prevention and treatment methods.",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/dengue-alert-parents-urged-to-monitor-childrens-hydration-amid-rising-cases/articleshow/113577463.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-09-22 18:57:53",
+      "content": "How to make easy dump &amp; dine Tofu Salad for dinner",
+      "retrievedAt": "2024-09-23 19:05:39.194600",
+      "internal_id": "60efadee614a963f074cd725261d91be2999a067ce5537ee78900c4c7960ba38",
+      "publishedAtLabel": "Sep 22"
+    },
+    {
+      "id": 13844,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Vindhya Pabolu",
+      "title": "Pharmacies see 25% rise inqueries for dengue drugs",
+      "description": "Bengaluru: Following the state govt's declaration of dengue as an epidemic, city pharmacies have reported a 25% increase in the number of customers se.",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/pharmacies-see-25-rise-inqueries-for-dengue-drugs/articleshow/113577327.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-09-22 18:48:41",
+      "content": "How to make easy dump &amp; dine Tofu Salad for dinner",
+      "retrievedAt": "2024-09-23 19:05:39.200889",
+      "internal_id": "8f23dbc4f75a00ebfcc29c7c1b636d1e9566165a508b39295d660172e0cba4b3",
+      "publishedAtLabel": "Sep 22"
+    },
+    {
+      "id": 13845,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Indiatodayne.in",
+      "author": "India Todayne",
+      "title": "Manipur health minister seeks public participation to combat rising dengue cases",
+      "description": "Manipur Health and Family Welfare Minister Sapam Ranjan has raised concerns over the increasing dengue cases, urging community involvement to combat the disease. The state saw a rise from 148 cases in August to 230 in September.",
+      "url": "https://www.indiatodayne.in/manipur/story/manipur-health-minister-seeks-public-participation-to-combat-rising-dengue-cases-1096640-2024-09-22",
+      "urlToImage": "https://cf-img-a-in.tosshub.com/lingo/itne/images/story/202409/66f03edac7063-manipur-health-minister-seeks-public-participation-to-combat-rising-dengue-cases-225921638-16x9.jpg",
+      "publishedAt": "2024-09-22 16:26:49",
+      "content": "Manipur Health and Family Welfare Minister Sapam Ranjan, on September 22 expressed concern over the rise in dengue cases in the state, seeking people's participation to arrest spread of the vector-bo\u2026 [+589 chars]",
+      "retrievedAt": "2024-09-23 19:05:39.236917",
+      "internal_id": "fbf6224317c867e3289387a194458dedf775f27174bdade277292277b23160c9",
+      "publishedAtLabel": "Sep 22"
+    },
+    {
+      "id": 13841,
+      "query": [
+        "hpai",
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Mail.ru",
+      "author": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0430 \u041a\u0430\u043c\u044b\u043d\u0438\u043d\u0430",
+      "title": "\u0418\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u0435: \u041f\u0442\u0438\u0446\u044b-\u043f\u0438\u0440\u0430\u0442\u044b \u0443\u0441\u043a\u043e\u0440\u044f\u044e\u0442 \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0435\u043d\u0438\u0435 \u0441\u043c\u0435\u0440\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430",
+      "description": "\u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u0439\u0441\u043a\u0438\u0435 \u0443\u0447\u0435\u043d\u044b\u0435 \u0438\u0437 \u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0430 \u041d\u043e\u0432\u043e\u0433\u043e \u042e\u0436\u043d\u043e\u0433\u043e \u0423\u044d\u043b\u044c\u0441\u0430 \u0432\u044b\u044f\u0441\u043d\u0438\u043b\u0438, \u043a\u0430\u043a \u043e\u0445\u043e\u0442\u043d\u0438\u0447\u044c\u0438 \u043f\u043e\u0432\u0430\u0434\u043a\u0438 \u043d\u0435\u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u043c\u043e\u0440\u0441\u043a\u0438\u0445 \u043f\u0442\u0438\u0446 \u0441\u043f\u043e\u0441\u043e\u0431\u0441\u0442\u0432\u0443\u044e\u0442 \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0435\u043d\u0438\u044e \u043e\u043f\u0430\u0441\u043d\u043e\u0433\u043e \u0432\u0438\u0440\u0443\u0441\u0430 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430 \u0441\u0440\u0435\u0434\u0438 \u043f\u0435\u0440\u043d\u0430\u0442\u044b\u0445. \u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u044b \u044d\u0442\u043e\u0433\u043e \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u044f \u0431\u044b\u043b\u0438 \u043e\u043f\u0443\u0431\u043b\u0438\u043a\u043e\u0432\u0430\u043d\u044b \u0432 \u043d\u0430\u0443\u0447\u043d\u043e\u043c \u0436\u0443\u0440\u043d\u0430\u043b\u0435 Con\u2026",
+      "url": "https://vfokuse.mail.ru/article/issledovanie-pticy-piraty-uskoryayut-rasprostranenie-smertelnogo-ptichego-grippa-62903241/",
+      "urlToImage": "https://resizer.mail.ru/p/a36e0736-828a-5b07-ace1-0e609388fda3/op:15/logo:bottom:vfokuse.png/AQAGVOGmEdibODjEZmDXZvl30r3vxYG7-lZdsHq8dtG2HJO3bfZKmDLg85k0PQS85VXYUffTmPuka0E1pXC2ZRfMhFo.jpg",
+      "publishedAt": "2024-09-22 14:28:04",
+      "content": ", HPAI H5N1 2.3.4.4.b, , 280 . .",
+      "retrievedAt": "2024-09-23 19:05:38.383629",
+      "internal_id": "c28eda464341e84390c86619508caa23addbc30c91e18d00d340025797c9d720",
+      "publishedAtLabel": "Sep 22"
+    },
+    {
+      "id": 13842,
+      "query": [
+        "hpai",
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Gazeta.ru",
+      "author": "\u0413\u0430\u0437\u0435\u0442\u0430.Ru",
+      "title": "\"\u041f\u0435\u0440\u043d\u0430\u0442\u044b\u0435 \u043f\u0438\u0440\u0430\u0442\u044b\" \u0443\u0441\u043a\u043e\u0440\u044f\u044e\u0442 \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0435\u043d\u0438\u0435 \u0441\u043c\u0435\u0440\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430, \u0432\u044b\u044f\u0441\u043d\u0438\u043b\u0438 \u0443\u0447\u0435\u043d\u044b\u0435",
+      "description": "\u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u0439\u0441\u043a\u0438\u0435 \u0443\u0447\u0435\u043d\u044b\u0435 \u0438\u0437 \u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0430 \u041d\u043e\u0432\u043e\u0433\u043e \u042e\u0436\u043d\u043e\u0433\u043e \u0423\u044d\u043b\u044c\u0441\u0430 \u0432\u044b\u044f\u0441\u043d\u0438\u043b\u0438, \u043a\u0430\u043a \u043e\u0445\u043e\u0442\u043d\u0438\u0447\u044c\u0438 \u043f\u0440\u0438\u0432\u044b\u0447\u043a\u0438 \u043d\u0435\u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u043c\u043e\u0440\u0441\u043a\u0438\u0445 \u043f\u0442\u0438\u0446 \u0443\u0441\u043a\u043e\u0440\u044f\u044e\u0442 \u043f\u0435\u0440\u0435\u0434\u0430\u0447\u0443 \u0433\u0443\u0431\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u0432\u0438\u0440\u0443\u0441\u0430 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430 \u0432 \u043f\u043e\u043f\u0443\u043b\u044f\u0446\u0438\u044f\u0445 \u043f\u0435\u0440\u043d\u0430\u0442\u044b\u0445. \u0418\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u0435 \u043e\u043f\u0443\u0431\u043b\u0438\u043a\u043e\u0432\u0430\u043d\u043e \u0432 \u043d\u0430\u0443\u0447\u043d\u043e\u043c \u0436\u0443\u0440\u043d\u0430\u043b\u0435 Conservation Letters (Co\u2026",
+      "url": "https://www.gazeta.ru/science/news/2024/09/22/23979301.shtml",
+      "urlToImage": "https://img.gazeta.ru/files3/83/19787083/43-pic_32ratio_900x600-900x600-19204.jpg",
+      "publishedAt": "2024-09-22 13:21:45",
+      "content": ", . Conservation Letters (ConsLet). , \u00ab\u00bb , . , . . , HPAI H5N1 2.3.4.4.b 280 . . , - . \u00ab\u00bb , . , . HPAI H5N1. , , , , . .",
+      "retrievedAt": "2024-09-23 19:05:38.391190",
+      "internal_id": "b61d24c5ee5ddbbb99ea53c22b38da5dd0363367fb5afa1d8b43905537b8062c",
+      "publishedAtLabel": "Sep 22"
+    },
+    {
+      "id": 13840,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "What to do if you or your kid gets COVID-19 this fall",
+      "description": "More than four years into the COVID-19 pandemic, core messaging remains the same: stay home if you feel sick.",
+      "url": "https://www.cbc.ca/news/canada/ottawa/what-to-do-if-you-or-your-kid-gets-covid-19-this-fall-1.7328679",
+      "urlToImage": "https://i.cbc.ca/1.6666565.1726794553!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/covid-que-schools-20210831.jpg",
+      "publishedAt": "2024-09-22 08:00:00",
+      "content": "As the weather begins to cool in Ottawa and schools settle into the new academic year, cases of respiratory illnesses are expected to rise. COVID-19, the fly, whooping cough (pertussis) and respirat\u2026 [+3445 chars]",
+      "retrievedAt": "2024-09-23 19:05:37.699660",
+      "internal_id": "10ed44df7838c8161e04c3b49ba659a2487a8b60f3de22bbf945bf89dcfb2372",
+      "publishedAtLabel": "Sep 22"
     }
   ]
 }
