@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 15
-- **Last harvest:** 2024-11-07 19:05
-- **Most recent article:** 2024-11-06 18:42:38
+- **New articles in last harvest:** 16
+- **Last harvest:** 2024-11-08 07:06
+- **Most recent article:** 2024-11-07 06:58:34
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-39 | 24-40 | 24-41 | 24-42 | 24-43 | 24-44 | 24-45 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 120 | 128 | 42 | 81 | 131 | 75 | 42 | 619 |
-| dengue | 44 | 51 | 35 | 50 | 53 | 31 | 21 | 285 |
-| h5n1 | 33 | 50 | 10 | 18 | 12 | 61 | 18 | 202 |
-| malaria | 24 | 10 | 13 | 18 | 58 | 16 | 12 | 151 |
-| rabies | 25 | 30 | 6 | 7 | 3 | 10 | 3 | 84 |
+| mpox | 120 | 128 | 42 | 81 | 131 | 75 | 51 | 628 |
+| dengue | 47 | 51 | 35 | 50 | 53 | 31 | 23 | 290 |
+| h5n1 | 35 | 50 | 10 | 18 | 12 | 61 | 19 | 205 |
+| malaria | 24 | 10 | 13 | 18 | 58 | 16 | 13 | 152 |
+| rabies | 25 | 30 | 6 | 7 | 3 | 10 | 4 | 85 |
 | measles | 4 | 6 | 5 | 3 | 1 | 13 | 2 | 34 |
-| meningitis | 6 | 11 | 2 | 1 | 6 | 3 | 3 | 32 |
+| meningitis | 6 | 11 | 2 | 1 | 6 | 3 | 4 | 33 |
 | zika | 1 | 3 | 4 | 6 | 6 | 3 | 7 | 30 |
 | chikungunya | 3 | 3 | 3 | 4 | 7 | 2 | 2 | 24 |
-| pertussis | 1 | 2 | 2 | 9 | 3 | 1 | 3 | 21 |
-| hpai | 0 | 2 | 1 | 2 | 2 | 7 | 3 | 17 |
-| leptospirosis | 5 | 4 | 1 | 1 | 0 | 3 | 1 | 15 |
+| pertussis | 2 | 2 | 2 | 9 | 3 | 1 | 3 | 22 |
+| hpai | 2 | 2 | 1 | 2 | 2 | 7 | 3 | 19 |
+| leptospirosis | 5 | 4 | 1 | 1 | 0 | 3 | 2 | 16 |
 | typhoid | 4 | 1 | 0 | 1 | 3 | 4 | 1 | 14 |
 | yersinia | 2 | 1 | 1 | 0 | 0 | 3 | 0 | 7 |
 | shigellosis | 0 | 1 | 3 | 0 | 1 | 0 | 0 | 5 |
@@ -55,6 +55,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-45 (rabies)
 
+- [JB neutering drive from January](https://www.thestar.com.my/news/nation/2024/11/07/jb-neutering-drive-from-january) (The Star Online)
+
 - [Expert Says Unlikely Peanut Had Rabies, Officials Might Have Been Impulsive](https://www.tmz.com/2024/11/05/peanut-squirrel-unlikely-had-rabies-expert/) (TMZ)
 
 - [Social Media Star Peanut the Squirrel Euthanized by New York State, Owners Plan to Take Legal Action](https://www.justjared.com/2024/11/03/social-media-star-peanut-the-squirrel-euthanized-by-new-york-state-owners-plan-to-take-legal-action/) (Just Jared)
@@ -70,6 +72,24 @@ Source: [News API](https://newsapi.org/)
 - [Michigan health officials warn residents about increase in whooping cough cases](https://www.clickondetroit.com/news/local/2024/11/04/michigan-health-officials-warn-residents-about-increase-in-whooping-cough-cases/) (WDIV ClickOnDetroit)
 
 ## 24-45 (mpox)
+
+- [M çiçeği virüsünden en çok etkilenen 9 ülkeye 899 bin doz aşı gönderildi](https://www.haberturk.com/afrika-da-m-cicegi-virusunden-en-cok-etkilenen-9-ulkeye-899-bin-doz-asi-tahsis-edildi-3735653) (Haberturk.com)
+
+- [New monkeypox case in UK leads to calls for stronger detection measures](https://www.independent.ie/irish-news/health/new-monkeypox-case-in-uk-leads-to-calls-for-stronger-detection-measures/a289249439.html) (Independent.ie)
+
+- [Learning English Podcast - November 07, 2024](https://learningenglish.voanews.com/a/7836554.html) (VOA News)
+
+- [UK identifies 4 cases of new mpox variant, the first cluster outside Africa](https://japantoday.com/category/world/uk-identifies-4-cases-of-new-mpox-variant-the-first-cluster-outside-africa) (Japan Today)
+
+- [4 Cases of New Mpox Variant Detected in UK, First Cluster Outside Africa](https://www.newsweek.com/mpox-new-variant-detected-uk-first-outside-africa-1981636) (Newsweek)
+
+- [Afrika'da M çiçeği virüsünden en çok etkilenen 9 ülkeye 899 bin doz aşı tahsis edildi](https://www.aa.com.tr/tr/saglik/afrikada-m-cicegi-virusunden-en-cok-etkilenen-9-ulkeye-899-bin-doz-asi-tahsis-edildi/3386524) (Anadolu Agency)
+
+- [UK identifies 4 cases of new mpox variant, the first cluster outside Africa](https://abcnews.go.com/Health/wireStory/uk-identifies-4-cases-new-mpox-variant-cluster-115571356) (ABC News)
+
+- [UK identifies 4 cases of new mpox variant, the 1st cluster outside Africa](https://abcnews.go.com/International/wireStory/uk-identifies-4-cases-new-mpox-variant-cluster-115571355) (ABC News)
+
+- [Tre nye tilfælde af mpox i Storbritannien](https://www.dr.dk/nyheder/seneste/tre-nye-tilfaelde-af-mpox-i-storbritannien) (Www.dr.dk)
 
 - [New case of mpox detected in UK](https://news.sky.com/story/mpox-new-case-of-clade-1b-strain-detected-in-uk-13249510) (Sky.com)
 
@@ -157,6 +177,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-45 (meningitis)
 
+- [چه نوع سردردی خطرناک است و برای آن حتما باید به پزشک یا بیمارستان مراجعه کنیم؟](https://www.1pezeshk.com/archives/2024/11/dangerous-headaches-symptoms-you-shouldnt-ignore.html) (1pezeshk.com)
+
 - [QIAGEN erhält FDA-Zulassung für QIAstat-Dx Meningitis/ Enzephalitis-Panel zur Unterstützung der Notfalldiagnostik](https://www.globenewswire.com/news-release/2024/11/04/2973706/0/de/QIAGEN-erh%C3%A4lt-FDA-Zulassung-f%C3%BCr-QIAstat-Dx-Meningitis-Enzephalitis-Panel-zur-Unterst%C3%BCtzung-der-Notfalldiagnostik.html) (GlobeNewswire)
 
 - [QIAGEN receives FDA clearance of QIAstat-Dx meningitis/encephalitis panel to support emergency diagnostics](https://www.globenewswire.com/news-release/2024/11/04/2973707/8690/en/QIAGEN-receives-FDA-clearance-of-QIAstat-Dx-meningitis-encephalitis-panel-to-support-emergency-diagnostics.html) (GlobeNewswire)
@@ -170,6 +192,8 @@ Source: [News API](https://newsapi.org/)
 - [Trump Thinks America Wants His Perversions (A.B. Stoddard/The Bulwark)](https://www.memeorandum.com/241103/p22) (Memeorandum.com)
 
 ## 24-45 (malaria)
+
+- [Найден способ в 10 раз снизить заболеваемость малярией в Мали](https://news.mail.ru/society/63541994/) (Mail.ru)
 
 - [HIV, malaria top WHO list for urgent vaccines](https://punchng.com/hiv-malaria-top-who-list-for-urgent-vaccines/) (The Punch)
 
@@ -197,6 +221,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-45 (leptospirosis)
 
+- [No, no hay riesgo de epidemia tras la dana como dice Mazón y los cadáveres no transmiten enfermedades](https://www.meneame.net/m/actualidad/no-no-hay-riesgo-epidemia-tras-dana-como-dice-mazon-cadaveres-no) (Meneame.net)
+
 - [Alertan del riesgo de leptospirosis y tetanos entre afectados por la DANA, ¿cómo se contraen? ¿qué síntomas tienen?](https://www.infosalus.com/salud-investigacion/noticia-alertan-riesgo-leptospirosis-tetanos-afectados-dana-contraen-sintomas-tienen-20241104151730.html) (Infosalus.com)
 
 ## 24-45 (hpai)
@@ -210,6 +236,8 @@ Source: [News API](https://newsapi.org/)
 ## 24-45 (h5n1)
 
 - [Precautionary bird flu testing underway as thousands of dead shorebirds wash up on beaches](https://www.abc.net.au/news/2024-11-07/dead-birds-on-beaches-spark-h5n1-bird-flu-warning/104562368) (ABC News (AU))
+
+- [Washington coast avian flu outbreak devastated Caspian terns, jumped to seals](https://www.sciencedaily.com/releases/2024/11/241106132501.htm) (Science Daily)
 
 - [La grippe aviaire a été détectée chez les porcs et voilà pourquoi les virologues s'inquiètent](https://atlantico.fr/article/decryptage/la-grippe-aviaire-a-ete-detectee-chez-les-porcs-et-voila-pourquoi-les-virologues-s-inquietent) (Atlantico.fr)
 
@@ -246,6 +274,10 @@ Source: [News API](https://newsapi.org/)
 - [„Der Mensch ist bislang kein guter Wirt“](https://www.faz.net/aktuell/wissen/leben-gene/vogelgrippe-was-der-uebersprung-aufs-schwein-bedeutet-110083432.html) (Faz.net)
 
 ## 24-45 (dengue)
+
+- [Mitos vs Fakta: Apakah Anak Bisa Kena DBD Dua Kali? Ini Penjelasan Pakar UGM](https://www.liputan6.com/health/read/5776237/mitos-vs-fakta-apakah-anak-bisa-kena-dbd-dua-kali-ini-penjelasan-pakar-ugm) (Liputan6.com)
+
+- [Bacolod: Negros Occidental, Bacolod log 20 dengue deaths](https://rpnradio.com/bacolod-negros-occidental-bacolod-log-20-dengue-deaths/) (Rpnradio.com)
 
 - [Cuatro consejos imbatibles para mantener el jardín libre de mosquitos por la noche](https://www.lanacion.com.ar/lifestyle/cuatro-consejos-imbatibles-para-mantener-el-jardin-libre-de-mosquitos-por-la-noche-nid06112024/) (La Nacion)
 
@@ -2809,6 +2841,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Whooping Cough Cases Surge](https://www.newser.com/story/356862/whooping-cough-cases-surge.html) (Newser)
 
+- [What to do if you or your kid gets COVID-19 this fall](https://www.cbc.ca/news/canada/ottawa/what-to-do-if-you-or-your-kid-gets-covid-19-this-fall-1.7328679) (CBC News)
+
 ## 24-39 (mpox)
 
 - [Six morts du virus de Marburg, similaire à Ebola, au Rwanda](https://www.20minutes.fr/sante/4112589-20240928-six-morts-virus-marburg-similaire-ebola-rwanda) (20 Minutes)
@@ -3137,6 +3171,12 @@ Source: [News API](https://newsapi.org/)
 
 - [Enhancement of clinical signs in C3H/HeJ mice vaccinated with a highly immunogenic Leptospira methyl-accepting chemotaxis protein following challenge](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012155) (Plos.org)
 
+## 24-39 (hpai)
+
+- [Исследование: Птицы-пираты ускоряют распространение смертельного птичьего гриппа](https://vfokuse.mail.ru/article/issledovanie-pticy-piraty-uskoryayut-rasprostranenie-smertelnogo-ptichego-grippa-62903241/) (Mail.ru)
+
+- ["Пернатые пираты" ускоряют распространение смертельного птичьего гриппа, выяснили ученые](https://www.gazeta.ru/science/news/2024/09/22/23979301.shtml) (Gazeta.ru)
+
 ## 24-39 (h5n1)
 
 - [SUA confirmă primul caz de gripă aviară fără provenienţă animală cunoscută](https://www.mediafax.ro/sanatate/sua-confirma-primul-caz-de-gripa-aviara-fara-provenienta-animala-cunoscuta-22498397) (Mediafax.ro)
@@ -3204,6 +3244,10 @@ Source: [News API](https://newsapi.org/)
 - [Can our stockpiles of Tamiflu protect against a bird flu pandemic?](https://undark.org/2024/09/23/h5n1-old-drug-protect-against-new-pandemic/) (Undark Magazine)
 
 - [Otro contacto del paciente de Missouri con síntomas de gripe aviar hace temer el contagio entre humanos](https://www.elespanol.com/ciencia/salud/20240923/contacto-paciente-missouri-sintomas-gripe-aviar-hace-temer-contagio-humanos/888161276_0.html) (Elespanol.com)
+
+- [Исследование: Птицы-пираты ускоряют распространение смертельного птичьего гриппа](https://vfokuse.mail.ru/article/issledovanie-pticy-piraty-uskoryayut-rasprostranenie-smertelnogo-ptichego-grippa-62903241/) (Mail.ru)
+
+- ["Пернатые пираты" ускоряют распространение смертельного птичьего гриппа, выяснили ученые](https://www.gazeta.ru/science/news/2024/09/22/23979301.shtml) (Gazeta.ru)
 
 ## 24-39 (dengue)
 
@@ -3294,6 +3338,12 @@ Source: [News API](https://newsapi.org/)
 - [Health D-G: Drop in dengue cases during from Sept 8 to 14, no deaths reported](https://www.malaymail.com/news/malaysia/2024/09/23/health-d-g-drop-in-dengue-cases-from-sept-8-to-14-no-deaths-reported/151342) (Malay Mail)
 
 - [Kenali Tanda dan Gejala Demam Berdarah Dengue, Ada 3 Fase Dalam 7 Hari](https://www.liputan6.com/health/read/5708649/kenali-tanda-dan-gejala-demam-berdarah-dengue-ada-3-fase-dalam-7-hari) (Liputan6.com)
+
+- [Dengue scare: Docs suggest keeping eye on kids’ hydration level](https://timesofindia.indiatimes.com/city/bengaluru/dengue-alert-parents-urged-to-monitor-childrens-hydration-amid-rising-cases/articleshow/113577463.cms) (The Times of India)
+
+- [Pharmacies see 25% rise inqueries for dengue drugs](https://timesofindia.indiatimes.com/city/bengaluru/pharmacies-see-25-rise-inqueries-for-dengue-drugs/articleshow/113577327.cms) (The Times of India)
+
+- [Manipur health minister seeks public participation to combat rising dengue cases](https://www.indiatodayne.in/manipur/story/manipur-health-minister-seeks-public-participation-to-combat-rising-dengue-cases-1096640-2024-09-22) (Indiatodayne.in)
 
 ## 24-39 (chikungunya)
 
