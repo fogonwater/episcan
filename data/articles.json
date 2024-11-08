@@ -1,8 +1,225 @@
 {
-  "last_updated": "2024-11-08 07:06",
-  "count_articles_total": 1500,
-  "count_articles_new": 16,
+  "last_updated": "2024-11-08 19:05",
+  "count_articles_total": 1506,
+  "count_articles_new": 12,
   "articles": [
+    {
+      "id": 15348,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "new-scientist",
+      "source_name": "New Scientist",
+      "author": "Grace Wade",
+      "title": "Bird flu antibodies found in dairy workers in Michigan and Colorado",
+      "description": "Blood tests have shown that about 7 per cent of workers on dairy farms that had H5N1 outbreaks had antibodies against the disease",
+      "url": "https://www.newscientist.com/article/2455411-bird-flu-antibodies-found-in-dairy-workers-in-michigan-and-colorado/",
+      "urlToImage": "https://images.newscientist.com/wp-content/uploads/2024/11/07175845/SEI_228737767.jpg",
+      "publishedAt": "2024-11-07 18:10:40",
+      "content": "Farm workers exposed to infected dairy cattle have been found to carry bird flu antibodies Helen King/Getty Images There may be more bird flu cases in humans in the US than we previously thought. H\u2026 [+3217 chars]",
+      "retrievedAt": "2024-11-08 19:05:41.852513",
+      "internal_id": "485ea94b31cbca05df1aa31007db10cb95be81dfa33a152541ec9a38034c4c84",
+      "publishedAtLabel": "Nov 7"
+    },
+    {
+      "id": 15356,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "VOA News",
+      "author": "webdesk@voanews.com (Agence France-Presse)",
+      "title": "Mpox spread slows slightly in Africa",
+      "description": "KINSHASA, DEMOCRATIC REPUBLIC OF CONGO \u2014 The spread of mpox has slowed down slightly across Africa, but the epidemic is not over, the African Union's health watchdog said Thursday. Fifteen countries across Africa recorded 11,453 mpox cases in the last four \u2026",
+      "url": "https://www.voanews.com/a/mpox-spread-slows-slightly-in-africa/7855431.html",
+      "urlToImage": "https://gdb.voanews.com/C58252C7-55F6-456A-9C93-09F6E5B63B04.jpg",
+      "publishedAt": "2024-11-07 18:06:42",
+      "content": "KINSHASA, DEMOCRATIC REPUBLIC OF CONGO The spread of mpox has slowed down slightly across Africa, but the epidemic is not over, the African Union's health watchdog said Thursday. Fifteen countries \u2026 [+1808 chars]",
+      "retrievedAt": "2024-11-08 19:05:44.102115",
+      "internal_id": "68143875db5b92cef781960fc357732f80d85f7527a6f171842a03c7992ee4fc",
+      "publishedAtLabel": "Nov 7"
+    },
+    {
+      "id": 15347,
+      "query": [
+        "hpai",
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": "CDC",
+      "title": "Personal Protective Equipment Use by Dairy Farmworkers Exposed to Cows Infected with Highly Pathogenic Avian Influenza A(H5N1) Viruses - Colorado, 2024",
+      "description": "This report describes dairy farmworkers in Colorado who were interviewed about PPE use during work activities around cows infected with highly pathogenic avian influenza.",
+      "url": "https://www.cdc.gov/mmwr/volumes/73/wr/mm7344a2.htm",
+      "urlToImage": "https://www.cdc.gov/mmwr/volumes/73/wr/social-media/mm7344a2_PPEDairyFarmers_IMAGE_07Nov2024_1200x675.png?_=07246",
+      "publishedAt": "2024-11-07 18:00:00",
+      "content": "Background On April 25, 2024, Colorado detected highly pathogenic avian influenza (HPAI) A(H5N1) virus in cows on a dairy farm. During April\u2013August 2024, an additional 63 dairy farms with A(H5N1) vi\u2026 [+7754 chars]",
+      "retrievedAt": "2024-11-08 19:05:41.464665",
+      "internal_id": "61c2c5c6fba3d343cf7aef61ff6e677f4d613023d7d347f083a3df706fc16541",
+      "publishedAtLabel": "Nov 7"
+    },
+    {
+      "id": 15354,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Mpox vaccine doses divvied up for 9 African countries",
+      "description": "An initial 899,000 vaccine doses have been allocated for nine countries across Africa that have been hit hard by the current mpox surge, the WHO and other health organizations say.",
+      "url": "https://www.cbc.ca/news/health/mpox-vaccines-1.7376552",
+      "urlToImage": "https://i.cbc.ca/1.7376569.1730991441!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/congo-mpox-vaccination.jpg",
+      "publishedAt": "2024-11-07 17:28:16",
+      "content": "An initial 899,000 vaccine doses have been allocated for nine countries across Africa that have been hit hard by the current mpox surge, the WHO and other health organizations say. The WHO declared\u2026 [+1571 chars]",
+      "retrievedAt": "2024-11-08 19:05:44.022162",
+      "internal_id": "8294aac927a97c67fec5f9d87c9f5fc65f300777eada41a97eaf8501236af39c",
+      "publishedAtLabel": "Nov 7"
+    },
+    {
+      "id": 15358,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "Africa health body calls on Trump to honour US vaccine pledges",
+      "description": "DAKAR (Reuters) - Africa's main public health body said it is seeking assurances that U.S. President-elect Donald Trump's administration will provide the funding and mpox vaccines promised by his predecessor. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2024/11/08/africa-health-body-calls-on-trump-to-honour-us-vaccine-pledges",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/11/08/3006310.jpg",
+      "publishedAt": "2024-11-07 17:27:00",
+      "content": "FILE PHOTO: Laurent Muschel, HERA Director General, presents mpox vaccines to the Democratic Republic of Congo's Health Minister Samuel Roger Kamba Mulamba as first batches arrive in the country, whi\u2026 [+1830 chars]",
+      "retrievedAt": "2024-11-08 19:05:44.137285",
+      "internal_id": "4ae00b2451d9f518ea6e3a2fabac0447314cd180e33fed2babab60866091f940",
+      "publishedAtLabel": "Nov 7"
+    },
+    {
+      "id": 15355,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Aftonbladet.se",
+      "author": "TT",
+      "title": "Spridningen av mpox bromsar in i Afrika",
+      "description": "Spridningen av den smittsamma sjukdomen mpox har bromsat in n\u00e5got p\u00e5 den afrikanska kontinenten, meddelar Afrikanska unionens h\u00e4lsoorganisation.",
+      "url": "https://www.aftonbladet.se/nyheter/a/3MVVGA/spridningen-av-mpox-bromsar-in-i-afrika",
+      "urlToImage": "https://images.aftonbladet-cdn.se/v2/images/2880c82e-7dfa-4952-8489-a5c3dac896e6?fit=crop&format=auto&h=1267&q=50&w=1900&s=5d8142f887c1e29049e8142a25dd635c9640b7e6",
+      "publishedAt": "2024-11-07 17:25:30",
+      "content": "Spridningen av den smittsamma sjukdomen mpox har bromsat in n\u00e5got p\u00e5 den afrikanska kontinenten, meddelar Afrikanska unionens h\u00e4lsoorganisation. Under de sista fyra veckorna har 15 l\u00e4nder rapportera\u2026 [+500 chars]",
+      "retrievedAt": "2024-11-08 19:05:44.069858",
+      "internal_id": "f793f6129d14213fb6472fa982d21e58f0e54cbbe3752860d43e71151ea42f85",
+      "publishedAtLabel": "Nov 7"
+    },
+    {
+      "id": 15351,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "LADbible",
+      "author": "Joe Harker",
+      "title": "Signs of deadly infection passed through sharing straws following the death of 19-year-old after music festival",
+      "description": "The NHS says you should 'trust your instincts' over a deadly infection which can be transmitted by sharing straws, here's how to spot Meningitis B.",
+      "url": "https://www.ladbible.com/news/health/meningitis-b-signs-deadly-infection-710455-20241107",
+      "urlToImage": "https://images.ladbible.com/resize?type=webp&quality=70&width=1200&fit=contain&gravity=auto&url=https://images.ladbiblegroup.com/v3/assets/bltcd74acc1d0a99f3a/blt3890ff0ea11dad68/672ce824cfdc49a1c68e0226/menintigis-issue.webp",
+      "publishedAt": "2024-11-07 16:18:00",
+      "content": "The mother of a 19-year-old who died shortly after returning from a music festival with a 'headache' said she thought her daughter had 'overdone it' at first. Livia Wilson had attended Manchester's \u2026 [+3195 chars]",
+      "retrievedAt": "2024-11-08 19:05:42.551239",
+      "internal_id": "26912c90a3b9074e3e2f62123b521c0ecf4969cb901283602d22d3650a370176",
+      "publishedAtLabel": "Nov 7"
+    },
+    {
+      "id": 15353,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Lara Adejoro",
+      "title": "Nigeria, eight others get 899,000 Mpox vaccine",
+      "description": "The Access and Allocation Mechanism for Mpox has allocated an initial 899,000 vaccine doses to nine countries, including Nigeria, across the African region, which have been hard-hit by the current Mpox surge. This was disclosed in a joint press statement issu\u2026",
+      "url": "https://punchng.com/nigeria-eight-others-get-899000-mpox-vaccine/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2024/11/07153218/Mpox-Vaccines-1200x630.jpeg",
+      "publishedAt": "2024-11-07 14:40:58",
+      "content": "The Access and Allocation Mechanism for Mpox has allocated an initial 899,000 vaccine doses to nine countries, including Nigeria, across the African region, which have been hard-hit by the current Mp\u2026 [+3595 chars]",
+      "retrievedAt": "2024-11-08 19:05:43.970294",
+      "internal_id": "7082f37585fb9e44f351d26bb51c1b0f5f390c8bf5eefbcaeba135e0533321e7",
+      "publishedAtLabel": "Nov 7"
+    },
+    {
+      "id": 15349,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Krone.at",
+      "author": "Krone.at",
+      "title": "Vogelgrippe: Erh\u00f6htes Risiko in ganz \u00d6sterreich",
+      "description": "In der Nacht auf Freitag wird ganz \u00d6sterreich in Bezug auf die Vogelgrippe (Gefl\u00fcgelpest) zum Gebiet mit erh\u00f6htem Risiko erkl\u00e4rt. \u00d6sterreichweit ...",
+      "url": "https://www.krone.at/3585288",
+      "urlToImage": "https://imgl.krone.at/scaled/2939455/v32a36b/og_image.jpg",
+      "publishedAt": "2024-11-07 13:49:45",
+      "content": "Auch \u00dcbertragungen auf S\u00e4ugetiere sind m\u00f6glich, Ansteckungen von Menschen und Todesf\u00e4lle aber selten. Der Subtyp (A)H5N1, der derzeit in Europa auftritt, ist schlecht an den Menschen angepasst und Er\u2026 [+346 chars]",
+      "retrievedAt": "2024-11-08 19:05:41.953438",
+      "internal_id": "370a452af2298dba4d9cc07ec4a73e1c22e118b64c13c7df9b814671d07f6cbb",
+      "publishedAtLabel": "Nov 7"
+    },
+    {
+      "id": 15352,
+      "query": [
+        "zika"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "PTI",
+      "title": "Zika virus case detected in Gujarat, patient discharged after treatment",
+      "description": "A 70-year-old man from Gandhinagar, Gujarat, was diagnosed with the Zika virus after being hospitalized for symptoms including cold, fever, and joint pain. He has since recovered and been discharged. Although his infection was confirmed four days ago, he had \u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/zika-virus-case-detected-in-gujarat-patient-discharged-after-treatment/articleshow/115055136.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-115055211,width-1200,height-630,imgsize-18156,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2024-11-07 11:51:59",
+      "content": "Artificial Intelligence(AI) AI and Analytics based Business Strategy By - Tanusree De, Managing Director- Accenture Technology Lead, Trustworthy AI Center of Excellence: ATCI View Program",
+      "retrievedAt": "2024-11-08 19:05:43.338276",
+      "internal_id": "b218a8c3a26d5863adfc0688fdc59fa311cece869d3b42a7a1a497c5e6a35f75",
+      "publishedAtLabel": "Nov 7"
+    },
+    {
+      "id": 15350,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "CNA",
+      "author": null,
+      "title": "Spread of dengue fever in Bangladesh worries medics",
+      "description": "DHAKA: Bangladesh is struggling to tamp down a surge in dengue cases as climate change turns the disease into a year-round crisis, leaving some paediatric wards packed with children squeezed two to a bed. The Aedes mosquito that spreads dengue \u2013 identifiable \u2026",
+      "url": "https://www.channelnewsasia.com/asia/dengue-fever-spread-bangladesh-worries-medic-4732836",
+      "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--FNPbqXvB--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2024/11/07/000_36ln8zv.jpg?itok=VFvdNnqP",
+      "publishedAt": "2024-11-07 09:02:00",
+      "content": "DHAKA: Bangladesh is struggling to tamp down a surge in dengue cases as climate change turns the disease into a year-round crisis, leaving some paediatric wards packed with children squeezed two to a\u2026 [+932 chars]",
+      "retrievedAt": "2024-11-08 19:05:42.296103",
+      "internal_id": "9af22443c947d85814f0497df45f91349a4f398e169c157ec2a3946ada578e44",
+      "publishedAtLabel": "Nov 7"
+    },
+    {
+      "id": 15357,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "VOA News",
+      "author": "webdesk@voanews.com (Reuters)",
+      "title": "Vaccine doses allocated for 9 African countries hardest hit by mpox",
+      "description": "An initial 899,000 vaccine doses have been allocated for nine countries across Africa that have been hit hard by the current mpox surge, the WHO and other health organizations said on Wednesday. The WHO declared mpox a global public health emergency for the\u2026",
+      "url": "https://www.voanews.com/a/vaccine-doses-allocated-for-9-african-countries-hardest-hit-by-mpox/7854842.html",
+      "urlToImage": "https://gdb.voanews.com/7A1405A8-BA27-4DDA-80E0-9B28EE0126B1.jpg",
+      "publishedAt": "2024-11-07 07:29:15",
+      "content": "An initial 899,000 vaccine doses have been allocated for nine countries across Africa that have been hit hard by the current mpox surge, the WHO and other health organizations said on Wednesday. The\u2026 [+1394 chars]",
+      "retrievedAt": "2024-11-08 19:05:44.109805",
+      "internal_id": "4fed8927617c41f64c36e41151ee52c69eea5e46c48b32bd75085c400dd71aac",
+      "publishedAtLabel": "Nov 7"
+    },
     {
       "id": 15339,
       "query": [
@@ -26956,116 +27173,6 @@
       "retrievedAt": "2024-09-24 07:06:25.165214",
       "internal_id": "9abfbe4a7c6380a372466b00b37b567d2ea02f24d84f90762c53768de3286da2",
       "publishedAtLabel": "Sep 23"
-    },
-    {
-      "id": 13843,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "Pearl D'souza",
-      "title": "Dengue scare: Docs suggest keeping eye on kids\u2019 hydration level",
-      "description": "With rising dengue cases leading to schoolchildren fatalities in Bengaluru, doctors emphasize the importance of monitoring children's hydration levels and recognizing early symptoms. Stay informed on prevention and treatment methods.",
-      "url": "https://timesofindia.indiatimes.com/city/bengaluru/dengue-alert-parents-urged-to-monitor-childrens-hydration-amid-rising-cases/articleshow/113577463.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-09-22 18:57:53",
-      "content": "How to make easy dump &amp; dine Tofu Salad for dinner",
-      "retrievedAt": "2024-09-23 19:05:39.194600",
-      "internal_id": "60efadee614a963f074cd725261d91be2999a067ce5537ee78900c4c7960ba38",
-      "publishedAtLabel": "Sep 22"
-    },
-    {
-      "id": 13844,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "Vindhya Pabolu",
-      "title": "Pharmacies see 25% rise inqueries for dengue drugs",
-      "description": "Bengaluru: Following the state govt's declaration of dengue as an epidemic, city pharmacies have reported a 25% increase in the number of customers se.",
-      "url": "https://timesofindia.indiatimes.com/city/bengaluru/pharmacies-see-25-rise-inqueries-for-dengue-drugs/articleshow/113577327.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-09-22 18:48:41",
-      "content": "How to make easy dump &amp; dine Tofu Salad for dinner",
-      "retrievedAt": "2024-09-23 19:05:39.200889",
-      "internal_id": "8f23dbc4f75a00ebfcc29c7c1b636d1e9566165a508b39295d660172e0cba4b3",
-      "publishedAtLabel": "Sep 22"
-    },
-    {
-      "id": 13845,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Indiatodayne.in",
-      "author": "India Todayne",
-      "title": "Manipur health minister seeks public participation to combat rising dengue cases",
-      "description": "Manipur Health and Family Welfare Minister Sapam Ranjan has raised concerns over the increasing dengue cases, urging community involvement to combat the disease. The state saw a rise from 148 cases in August to 230 in September.",
-      "url": "https://www.indiatodayne.in/manipur/story/manipur-health-minister-seeks-public-participation-to-combat-rising-dengue-cases-1096640-2024-09-22",
-      "urlToImage": "https://cf-img-a-in.tosshub.com/lingo/itne/images/story/202409/66f03edac7063-manipur-health-minister-seeks-public-participation-to-combat-rising-dengue-cases-225921638-16x9.jpg",
-      "publishedAt": "2024-09-22 16:26:49",
-      "content": "Manipur Health and Family Welfare Minister Sapam Ranjan, on September 22 expressed concern over the rise in dengue cases in the state, seeking people's participation to arrest spread of the vector-bo\u2026 [+589 chars]",
-      "retrievedAt": "2024-09-23 19:05:39.236917",
-      "internal_id": "fbf6224317c867e3289387a194458dedf775f27174bdade277292277b23160c9",
-      "publishedAtLabel": "Sep 22"
-    },
-    {
-      "id": 13841,
-      "query": [
-        "hpai",
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Mail.ru",
-      "author": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0430 \u041a\u0430\u043c\u044b\u043d\u0438\u043d\u0430",
-      "title": "\u0418\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u0435: \u041f\u0442\u0438\u0446\u044b-\u043f\u0438\u0440\u0430\u0442\u044b \u0443\u0441\u043a\u043e\u0440\u044f\u044e\u0442 \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0435\u043d\u0438\u0435 \u0441\u043c\u0435\u0440\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430",
-      "description": "\u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u0439\u0441\u043a\u0438\u0435 \u0443\u0447\u0435\u043d\u044b\u0435 \u0438\u0437 \u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0430 \u041d\u043e\u0432\u043e\u0433\u043e \u042e\u0436\u043d\u043e\u0433\u043e \u0423\u044d\u043b\u044c\u0441\u0430 \u0432\u044b\u044f\u0441\u043d\u0438\u043b\u0438, \u043a\u0430\u043a \u043e\u0445\u043e\u0442\u043d\u0438\u0447\u044c\u0438 \u043f\u043e\u0432\u0430\u0434\u043a\u0438 \u043d\u0435\u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u043c\u043e\u0440\u0441\u043a\u0438\u0445 \u043f\u0442\u0438\u0446 \u0441\u043f\u043e\u0441\u043e\u0431\u0441\u0442\u0432\u0443\u044e\u0442 \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0435\u043d\u0438\u044e \u043e\u043f\u0430\u0441\u043d\u043e\u0433\u043e \u0432\u0438\u0440\u0443\u0441\u0430 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430 \u0441\u0440\u0435\u0434\u0438 \u043f\u0435\u0440\u043d\u0430\u0442\u044b\u0445. \u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u044b \u044d\u0442\u043e\u0433\u043e \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u044f \u0431\u044b\u043b\u0438 \u043e\u043f\u0443\u0431\u043b\u0438\u043a\u043e\u0432\u0430\u043d\u044b \u0432 \u043d\u0430\u0443\u0447\u043d\u043e\u043c \u0436\u0443\u0440\u043d\u0430\u043b\u0435 Con\u2026",
-      "url": "https://vfokuse.mail.ru/article/issledovanie-pticy-piraty-uskoryayut-rasprostranenie-smertelnogo-ptichego-grippa-62903241/",
-      "urlToImage": "https://resizer.mail.ru/p/a36e0736-828a-5b07-ace1-0e609388fda3/op:15/logo:bottom:vfokuse.png/AQAGVOGmEdibODjEZmDXZvl30r3vxYG7-lZdsHq8dtG2HJO3bfZKmDLg85k0PQS85VXYUffTmPuka0E1pXC2ZRfMhFo.jpg",
-      "publishedAt": "2024-09-22 14:28:04",
-      "content": ", HPAI H5N1 2.3.4.4.b, , 280 . .",
-      "retrievedAt": "2024-09-23 19:05:38.383629",
-      "internal_id": "c28eda464341e84390c86619508caa23addbc30c91e18d00d340025797c9d720",
-      "publishedAtLabel": "Sep 22"
-    },
-    {
-      "id": 13842,
-      "query": [
-        "hpai",
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Gazeta.ru",
-      "author": "\u0413\u0430\u0437\u0435\u0442\u0430.Ru",
-      "title": "\"\u041f\u0435\u0440\u043d\u0430\u0442\u044b\u0435 \u043f\u0438\u0440\u0430\u0442\u044b\" \u0443\u0441\u043a\u043e\u0440\u044f\u044e\u0442 \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0435\u043d\u0438\u0435 \u0441\u043c\u0435\u0440\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430, \u0432\u044b\u044f\u0441\u043d\u0438\u043b\u0438 \u0443\u0447\u0435\u043d\u044b\u0435",
-      "description": "\u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u0439\u0441\u043a\u0438\u0435 \u0443\u0447\u0435\u043d\u044b\u0435 \u0438\u0437 \u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0430 \u041d\u043e\u0432\u043e\u0433\u043e \u042e\u0436\u043d\u043e\u0433\u043e \u0423\u044d\u043b\u044c\u0441\u0430 \u0432\u044b\u044f\u0441\u043d\u0438\u043b\u0438, \u043a\u0430\u043a \u043e\u0445\u043e\u0442\u043d\u0438\u0447\u044c\u0438 \u043f\u0440\u0438\u0432\u044b\u0447\u043a\u0438 \u043d\u0435\u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u043c\u043e\u0440\u0441\u043a\u0438\u0445 \u043f\u0442\u0438\u0446 \u0443\u0441\u043a\u043e\u0440\u044f\u044e\u0442 \u043f\u0435\u0440\u0435\u0434\u0430\u0447\u0443 \u0433\u0443\u0431\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u0432\u0438\u0440\u0443\u0441\u0430 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430 \u0432 \u043f\u043e\u043f\u0443\u043b\u044f\u0446\u0438\u044f\u0445 \u043f\u0435\u0440\u043d\u0430\u0442\u044b\u0445. \u0418\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u0435 \u043e\u043f\u0443\u0431\u043b\u0438\u043a\u043e\u0432\u0430\u043d\u043e \u0432 \u043d\u0430\u0443\u0447\u043d\u043e\u043c \u0436\u0443\u0440\u043d\u0430\u043b\u0435 Conservation Letters (Co\u2026",
-      "url": "https://www.gazeta.ru/science/news/2024/09/22/23979301.shtml",
-      "urlToImage": "https://img.gazeta.ru/files3/83/19787083/43-pic_32ratio_900x600-900x600-19204.jpg",
-      "publishedAt": "2024-09-22 13:21:45",
-      "content": ", . Conservation Letters (ConsLet). , \u00ab\u00bb , . , . . , HPAI H5N1 2.3.4.4.b 280 . . , - . \u00ab\u00bb , . , . HPAI H5N1. , , , , . .",
-      "retrievedAt": "2024-09-23 19:05:38.391190",
-      "internal_id": "b61d24c5ee5ddbbb99ea53c22b38da5dd0363367fb5afa1d8b43905537b8062c",
-      "publishedAtLabel": "Sep 22"
-    },
-    {
-      "id": 13840,
-      "query": [
-        "pertussis"
-      ],
-      "source_id": "cbc-news",
-      "source_name": "CBC News",
-      "author": null,
-      "title": "What to do if you or your kid gets COVID-19 this fall",
-      "description": "More than four years into the COVID-19 pandemic, core messaging remains the same: stay home if you feel sick.",
-      "url": "https://www.cbc.ca/news/canada/ottawa/what-to-do-if-you-or-your-kid-gets-covid-19-this-fall-1.7328679",
-      "urlToImage": "https://i.cbc.ca/1.6666565.1726794553!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/covid-que-schools-20210831.jpg",
-      "publishedAt": "2024-09-22 08:00:00",
-      "content": "As the weather begins to cool in Ottawa and schools settle into the new academic year, cases of respiratory illnesses are expected to rise. COVID-19, the fly, whooping cough (pertussis) and respirat\u2026 [+3445 chars]",
-      "retrievedAt": "2024-09-23 19:05:37.699660",
-      "internal_id": "10ed44df7838c8161e04c3b49ba659a2487a8b60f3de22bbf945bf89dcfb2372",
-      "publishedAtLabel": "Sep 22"
     }
   ]
 }
