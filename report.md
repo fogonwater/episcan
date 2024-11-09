@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 12
-- **Last harvest:** 2024-11-08 19:05
-- **Most recent article:** 2024-11-07 18:10:40
+- **New articles in last harvest:** 6
+- **Last harvest:** 2024-11-09 07:05
+- **Most recent article:** 2024-11-08 05:59:49
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-39 | 24-40 | 24-41 | 24-42 | 24-43 | 24-44 | 24-45 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 120 | 128 | 42 | 81 | 131 | 75 | 57 | 634 |
-| dengue | 44 | 51 | 35 | 50 | 53 | 31 | 24 | 288 |
-| h5n1 | 33 | 50 | 10 | 18 | 12 | 61 | 22 | 206 |
-| malaria | 24 | 10 | 13 | 18 | 58 | 16 | 13 | 152 |
+| mpox | 120 | 128 | 42 | 81 | 131 | 75 | 58 | 635 |
+| dengue | 47 | 51 | 35 | 50 | 53 | 31 | 24 | 291 |
+| h5n1 | 35 | 50 | 10 | 18 | 12 | 61 | 25 | 211 |
+| malaria | 24 | 10 | 13 | 18 | 58 | 16 | 14 | 153 |
 | rabies | 25 | 30 | 6 | 7 | 3 | 10 | 4 | 85 |
 | meningitis | 6 | 11 | 2 | 1 | 6 | 3 | 5 | 34 |
 | measles | 4 | 6 | 5 | 3 | 1 | 13 | 2 | 34 |
 | zika | 1 | 3 | 4 | 6 | 6 | 3 | 8 | 31 |
 | chikungunya | 3 | 3 | 3 | 4 | 7 | 2 | 2 | 24 |
-| pertussis | 1 | 2 | 2 | 9 | 3 | 1 | 3 | 21 |
-| hpai | 0 | 2 | 1 | 2 | 2 | 7 | 4 | 18 |
-| leptospirosis | 5 | 4 | 1 | 1 | 0 | 3 | 2 | 16 |
+| pertussis | 2 | 2 | 2 | 9 | 3 | 1 | 3 | 22 |
+| hpai | 2 | 2 | 1 | 2 | 2 | 7 | 4 | 20 |
+| leptospirosis | 5 | 4 | 1 | 1 | 0 | 3 | 3 | 17 |
 | typhoid | 4 | 1 | 0 | 1 | 3 | 4 | 1 | 14 |
 | yersinia | 2 | 1 | 1 | 0 | 0 | 3 | 0 | 7 |
 | shigellosis | 0 | 1 | 3 | 0 | 1 | 0 | 0 | 5 |
@@ -74,6 +74,8 @@ Source: [News API](https://newsapi.org/)
 - [Michigan health officials warn residents about increase in whooping cough cases](https://www.clickondetroit.com/news/local/2024/11/04/michigan-health-officials-warn-residents-about-increase-in-whooping-cough-cases/) (WDIV ClickOnDetroit)
 
 ## 24-45 (mpox)
+
+- [Mpox: léger ralentissement des contaminations en Afrique](https://fr.sputniknews.africa/20241108/mpox-leger-ralentissement-des-contaminations-en-afrique-1069098531.html) (Sputniknews.africa)
 
 - [Mpox spread slows slightly in Africa](https://www.voanews.com/a/mpox-spread-slows-slightly-in-africa/7855431.html) (VOA News)
 
@@ -209,6 +211,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-45 (malaria)
 
+- [Caso autoctono di malaria in Veneto, malattia sparita in Italia da oltre 40 anni. L’allarme degli scienziati](https://www.ilfattoquotidiano.it/2024/11/07/caso-autoctono-di-malaria-in-veneto-malattia-sparita-in-italia-da-oltre-40-anni-lallarme-degli-scienziati/7759550/) (Ilfattoquotidiano.it)
+
 - [Найден способ в 10 раз снизить заболеваемость малярией в Мали](https://news.mail.ru/society/63541994/) (Mail.ru)
 
 - [HIV, malaria top WHO list for urgent vaccines](https://punchng.com/hiv-malaria-top-who-list-for-urgent-vaccines/) (The Punch)
@@ -237,6 +241,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-45 (leptospirosis)
 
+- [Así es la leptospirosis: la infección que amenaza a los afectados de la DANA tras el estancamiento de las aguas](https://www.elespanol.com/ciencia/salud/20241108/leptospirosis-infeccion-amenaza-afectados-dana-estancamiento-aguas/899410605_0.html) (Elespanol.com)
+
 - [No, no hay riesgo de epidemia tras la dana como dice Mazón y los cadáveres no transmiten enfermedades](https://www.meneame.net/m/actualidad/no-no-hay-riesgo-epidemia-tras-dana-como-dice-mazon-cadaveres-no) (Meneame.net)
 
 - [Alertan del riesgo de leptospirosis y tetanos entre afectados por la DANA, ¿cómo se contraen? ¿qué síntomas tienen?](https://www.infosalus.com/salud-investigacion/noticia-alertan-riesgo-leptospirosis-tetanos-afectados-dana-contraen-sintomas-tienen-20241104151730.html) (Infosalus.com)
@@ -252,6 +258,12 @@ Source: [News API](https://newsapi.org/)
 - [Highly Pathogenic Avian Influenza A(H5N1) Virus Infection in Cats, South Korea, 2023](https://wwwnc.cdc.gov/eid/article/30/12/24-0154_article) (Cdc.gov)
 
 ## 24-45 (h5n1)
+
+- [许多人类感染“牛流感”的病例未被发现](https://www.cnbeta.com.tw/articles/tech/1453584.htm) (Cnbeta.com.tw)
+
+- [Antibody Testing Picks Up More H5N1 Cases in Dairy Farm Workers](https://www.medpagetoday.com/infectiousdisease/generalinfectiousdisease/112789) (MedPage Today)
+
+- [Bird Flu Infections Undetected](https://www.statnews.com/2024/11/07/bird-flu-farm-worker-infections-undetected-cdc-study/) (STAT)
 
 - [Bird flu antibodies found in dairy workers in Michigan and Colorado](https://www.newscientist.com/article/2455411-bird-flu-antibodies-found-in-dairy-workers-in-michigan-and-colorado/) (New Scientist)
 
@@ -2867,6 +2879,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Whooping Cough Cases Surge](https://www.newser.com/story/356862/whooping-cough-cases-surge.html) (Newser)
 
+- [What to do if you or your kid gets COVID-19 this fall](https://www.cbc.ca/news/canada/ottawa/what-to-do-if-you-or-your-kid-gets-covid-19-this-fall-1.7328679) (CBC News)
+
 ## 24-39 (mpox)
 
 - [Six morts du virus de Marburg, similaire à Ebola, au Rwanda](https://www.20minutes.fr/sante/4112589-20240928-six-morts-virus-marburg-similaire-ebola-rwanda) (20 Minutes)
@@ -3195,6 +3209,12 @@ Source: [News API](https://newsapi.org/)
 
 - [Enhancement of clinical signs in C3H/HeJ mice vaccinated with a highly immunogenic Leptospira methyl-accepting chemotaxis protein following challenge](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012155) (Plos.org)
 
+## 24-39 (hpai)
+
+- [Исследование: Птицы-пираты ускоряют распространение смертельного птичьего гриппа](https://vfokuse.mail.ru/article/issledovanie-pticy-piraty-uskoryayut-rasprostranenie-smertelnogo-ptichego-grippa-62903241/) (Mail.ru)
+
+- ["Пернатые пираты" ускоряют распространение смертельного птичьего гриппа, выяснили ученые](https://www.gazeta.ru/science/news/2024/09/22/23979301.shtml) (Gazeta.ru)
+
 ## 24-39 (h5n1)
 
 - [SUA confirmă primul caz de gripă aviară fără provenienţă animală cunoscută](https://www.mediafax.ro/sanatate/sua-confirma-primul-caz-de-gripa-aviara-fara-provenienta-animala-cunoscuta-22498397) (Mediafax.ro)
@@ -3262,6 +3282,10 @@ Source: [News API](https://newsapi.org/)
 - [Can our stockpiles of Tamiflu protect against a bird flu pandemic?](https://undark.org/2024/09/23/h5n1-old-drug-protect-against-new-pandemic/) (Undark Magazine)
 
 - [Otro contacto del paciente de Missouri con síntomas de gripe aviar hace temer el contagio entre humanos](https://www.elespanol.com/ciencia/salud/20240923/contacto-paciente-missouri-sintomas-gripe-aviar-hace-temer-contagio-humanos/888161276_0.html) (Elespanol.com)
+
+- [Исследование: Птицы-пираты ускоряют распространение смертельного птичьего гриппа](https://vfokuse.mail.ru/article/issledovanie-pticy-piraty-uskoryayut-rasprostranenie-smertelnogo-ptichego-grippa-62903241/) (Mail.ru)
+
+- ["Пернатые пираты" ускоряют распространение смертельного птичьего гриппа, выяснили ученые](https://www.gazeta.ru/science/news/2024/09/22/23979301.shtml) (Gazeta.ru)
 
 ## 24-39 (dengue)
 
@@ -3352,6 +3376,12 @@ Source: [News API](https://newsapi.org/)
 - [Health D-G: Drop in dengue cases during from Sept 8 to 14, no deaths reported](https://www.malaymail.com/news/malaysia/2024/09/23/health-d-g-drop-in-dengue-cases-from-sept-8-to-14-no-deaths-reported/151342) (Malay Mail)
 
 - [Kenali Tanda dan Gejala Demam Berdarah Dengue, Ada 3 Fase Dalam 7 Hari](https://www.liputan6.com/health/read/5708649/kenali-tanda-dan-gejala-demam-berdarah-dengue-ada-3-fase-dalam-7-hari) (Liputan6.com)
+
+- [Dengue scare: Docs suggest keeping eye on kids’ hydration level](https://timesofindia.indiatimes.com/city/bengaluru/dengue-alert-parents-urged-to-monitor-childrens-hydration-amid-rising-cases/articleshow/113577463.cms) (The Times of India)
+
+- [Pharmacies see 25% rise inqueries for dengue drugs](https://timesofindia.indiatimes.com/city/bengaluru/pharmacies-see-25-rise-inqueries-for-dengue-drugs/articleshow/113577327.cms) (The Times of India)
+
+- [Manipur health minister seeks public participation to combat rising dengue cases](https://www.indiatodayne.in/manipur/story/manipur-health-minister-seeks-public-participation-to-combat-rising-dengue-cases-1096640-2024-09-22) (Indiatodayne.in)
 
 ## 24-39 (chikungunya)
 
