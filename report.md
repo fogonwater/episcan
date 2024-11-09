@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 6
-- **Last harvest:** 2024-11-09 07:05
-- **Most recent article:** 2024-11-08 05:59:49
+- **New articles in last harvest:** 25
+- **Last harvest:** 2024-11-09 19:05
+- **Most recent article:** 2024-11-08 19:05:09
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-39 | 24-40 | 24-41 | 24-42 | 24-43 | 24-44 | 24-45 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 120 | 128 | 42 | 81 | 131 | 75 | 58 | 635 |
-| dengue | 47 | 51 | 35 | 50 | 53 | 31 | 24 | 291 |
-| h5n1 | 35 | 50 | 10 | 18 | 12 | 61 | 25 | 211 |
-| malaria | 24 | 10 | 13 | 18 | 58 | 16 | 14 | 153 |
+| mpox | 120 | 128 | 42 | 81 | 131 | 75 | 62 | 639 |
+| dengue | 44 | 51 | 35 | 50 | 53 | 31 | 27 | 291 |
+| h5n1 | 33 | 50 | 10 | 18 | 12 | 61 | 32 | 216 |
+| malaria | 24 | 10 | 13 | 18 | 58 | 16 | 20 | 159 |
 | rabies | 25 | 30 | 6 | 7 | 3 | 10 | 4 | 85 |
 | meningitis | 6 | 11 | 2 | 1 | 6 | 3 | 5 | 34 |
 | measles | 4 | 6 | 5 | 3 | 1 | 13 | 2 | 34 |
-| zika | 1 | 3 | 4 | 6 | 6 | 3 | 8 | 31 |
+| zika | 1 | 3 | 4 | 6 | 6 | 3 | 9 | 32 |
 | chikungunya | 3 | 3 | 3 | 4 | 7 | 2 | 2 | 24 |
-| pertussis | 2 | 2 | 2 | 9 | 3 | 1 | 3 | 22 |
-| hpai | 2 | 2 | 1 | 2 | 2 | 7 | 4 | 20 |
-| leptospirosis | 5 | 4 | 1 | 1 | 0 | 3 | 3 | 17 |
+| leptospirosis | 5 | 4 | 1 | 1 | 0 | 3 | 8 | 22 |
+| pertussis | 1 | 2 | 2 | 9 | 3 | 1 | 3 | 21 |
+| hpai | 0 | 2 | 1 | 2 | 2 | 7 | 4 | 18 |
 | typhoid | 4 | 1 | 0 | 1 | 3 | 4 | 1 | 14 |
 | yersinia | 2 | 1 | 1 | 0 | 0 | 3 | 0 | 7 |
 | shigellosis | 0 | 1 | 3 | 0 | 1 | 0 | 0 | 5 |
@@ -34,6 +34,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-45 (zika)
+
+- [Del dengue al zika: Sanidad prevé un aumento de estas enfermedades tras el paso de la DANA](https://www.alimente.elconfidencial.com/bienestar/2024-11-08/dana-aumento-mosquitos-enfermedades_3999825/) (Elconfidencial.com)
 
 - [Zika virus case detected in Gujarat, patient discharged after treatment](https://economictimes.indiatimes.com/news/india/zika-virus-case-detected-in-gujarat-patient-discharged-after-treatment/articleshow/115055136.cms) (The Times of India)
 
@@ -74,6 +76,14 @@ Source: [News API](https://newsapi.org/)
 - [Michigan health officials warn residents about increase in whooping cough cases](https://www.clickondetroit.com/news/local/2024/11/04/michigan-health-officials-warn-residents-about-increase-in-whooping-cough-cases/) (WDIV ClickOnDetroit)
 
 ## 24-45 (mpox)
+
+- [África supera los 50.000 casos de mpox y registra 1.083 muertes desde comienzos de 2024](https://www.montevideo.com.uy/Salud/Africa-supera-los-50-000-casos-de-mpox-y-registra-1-083-muertes-desde-comienzos-de-2024-uc905930) (Montevideo.com.uy)
+
+- [UK cases of deadly new mpox variant rise to 4](https://www.politico.eu/article/uk-deadly-new-mpox-variant-rise/) (POLITICO.eu)
+
+- [Mpox: Detetados onze casos desde 1 de junho revela a Direção-Geral da Saúde](https://observador.pt/2024/11/08/mpox-detetados-onze-casos-desde-1-de-junho-revela-a-direcao-geral-da-saude/) (Observador.pt)
+
+- [Guidance: Confirmed cases of mpox clade Ib in United Kingdom](https://www.gov.uk/guidance/confirmed-cases-of-mpox-clade-ib-in-united-kingdom) (Www.gov.uk)
 
 - [Mpox: léger ralentissement des contaminations en Afrique](https://fr.sputniknews.africa/20241108/mpox-leger-ralentissement-des-contaminations-en-afrique-1069098531.html) (Sputniknews.africa)
 
@@ -211,6 +221,18 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-45 (malaria)
 
+- [È stato smentito che ci sia stato un caso di trasmissione di malaria in Italia](https://www.ilpost.it/2024/11/08/smentita-caso-malaria-autoctono-italia/) (Ilpost.it)
+
+- [Caso di malaria in Veneto, è importato e non autoctono](https://www.ansa.it/veneto/notizie/2024/11/08/caso-di-malaria-in-veneto-e-importato-e-non-autoctono_87a0a178-1f61-4a13-90eb-b11824d02bb1.html) (ANSA.it)
+
+- [“Non autoctono, ma importato il caso di malaria in Veneto”, il paziente non aveva riferito di un viaggio in Africa per “motivi personali”](https://www.ilfattoquotidiano.it/2024/11/08/non-autoctono-ma-importato-il-caso-di-malaria-in-veneto-il-paziente-non-aveva-riferito-di-un-viaggio-in-africa-per-motivi-personali/7760140/) (Ilfattoquotidiano.it)
+
+- [Caso di malaria in Veneto è importato e non autoctono](https://www.ansa.it/veneto/notizie/2024/11/08/sanita-veneto-caso-di-malaria-e-importato-e-non-autoctono_87a0a178-1f61-4a13-90eb-b11824d02bb1.html) (ANSA.it)
+
+- [Sanità Veneto: caso di malaria è importato e non autoctono](https://www.ansa.it/sito/notizie/cronaca/2024/11/08/sanita-veneto-caso-di-malaria-e-importato-e-non-autoctono_9adb7f2e-e147-475e-9702-52ff02733b9d.html) (ANSA.it)
+
+- [Vi var for dårlig foreberedt på pandemien i 2020, og vi er for dårlig forberedt nå](https://www.aftenposten.no/meninger/debatt/i/Gy60wq/global-helse-handler-om-mer-enn-bare-bistand) (Aftenposten)
+
 - [Caso autoctono di malaria in Veneto, malattia sparita in Italia da oltre 40 anni. L’allarme degli scienziati](https://www.ilfattoquotidiano.it/2024/11/07/caso-autoctono-di-malaria-in-veneto-malattia-sparita-in-italia-da-oltre-40-anni-lallarme-degli-scienziati/7759550/) (Ilfattoquotidiano.it)
 
 - [Найден способ в 10 раз снизить заболеваемость малярией в Мали](https://news.mail.ru/society/63541994/) (Mail.ru)
@@ -241,6 +263,16 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-45 (leptospirosis)
 
+- [Temporal.- Sanidad señala que la trasmisión de leptospirosis entre personas es "extremadamente rara"](https://www.infosalus.com/salud-investigacion/noticia-temporal-sanidad-senala-trasmision-leptospirosis-personas-extremadamente-rara-20241108174026.html) (Infosalus.com)
+
+- [La Generalitat informa de dos posibles casos de leptospirosis en voluntarios que participan en tareas de limpieza](https://www.elespanol.com/ciencia/salud/20241108/generalitat-informa-posibles-casos-leptospirosis-voluntarios-participan-tareasdelimpieza/899660472_0.html) (Elespanol.com)
+
+- [La Generalitat informa de dos posibles casos de leptospirosis en voluntarios, una bacteria habitual en zonas inundadas](https://www.eldiario.es/sociedad/generalitat-informa-posibles-casos-leptospirosis-voluntarios-bacteria-tipica-zonas-inundadas_1_11803909.html) (Eldiario.es)
+
+- [¿Qué es la leptospirosis? ¿Y cómo reconocer la infección que amenaza a los afectados por la DANA?](https://www.infosalus.com/salud-investigacion/noticia-leptospirosis-reconocer-infeccion-amenaza-afectados-dana-20241108141839.html) (Infosalus.com)
+
+- [¿Qué es la leptospirosis? Detectados dos posibles casos en Valencia](https://www.elmundo.es/ciencia-y-salud/salud/2024/11/08/672dff0121efa077028b4580.html) (El Mundo)
+
 - [Así es la leptospirosis: la infección que amenaza a los afectados de la DANA tras el estancamiento de las aguas](https://www.elespanol.com/ciencia/salud/20241108/leptospirosis-infeccion-amenaza-afectados-dana-estancamiento-aguas/899410605_0.html) (Elespanol.com)
 
 - [No, no hay riesgo de epidemia tras la dana como dice Mazón y los cadáveres no transmiten enfermedades](https://www.meneame.net/m/actualidad/no-no-hay-riesgo-epidemia-tras-dana-como-dice-mazon-cadaveres-no) (Meneame.net)
@@ -258,6 +290,20 @@ Source: [News API](https://newsapi.org/)
 - [Highly Pathogenic Avian Influenza A(H5N1) Virus Infection in Cats, South Korea, 2023](https://wwwnc.cdc.gov/eid/article/30/12/24-0154_article) (Cdc.gov)
 
 ## 24-45 (h5n1)
+
+- [CDC calls for expanded bird flu testing after more dairy worker infections found in Colorado and Michigan](http://www.thecannabist.co/2024/11/08/cdc-calls-for-expanded-bird-flu-testing-after-more-dairy-worker-infections-found-in-colorado-and-michigan/137080/) (Thecannabist.co)
+
+- [H5N1 Bird Flu Is Infecting More People Than We Know](https://gizmodo.com/h5n1-bird-flu-is-infecting-more-people-than-we-know-2000522079) (Gizmodo.com)
+
+- [H5N1 bird flu is evolving to better infect mammals, CDC study suggests](https://www.livescience.com/health/flu/h5n1-bird-flu-is-evolving-to-better-infect-mammals-cdc-study-suggests) (Live Science)
+
+- [Bird flu begins its human spread, as health officials scramble to safeguard people and livestock](https://fortune.com/well/2024/11/08/bird-flu-human-spreadsafeguard-people-livestock/) (Fortune)
+
+- [CDC calls for expanded bird flu testing after more dairy worker infections found in Colorado and Michigan](https://www.denverpost.com/2024/11/08/colorado-bird-flu-expanded-testing/) (The Denver Post)
+
+- [Vogelgrippe: Erhebliches Risiko in der Steiermark](https://steiermark.orf.at/stories/3280417/) (Steiermark.orf.at)
+
+- [Im Pazifik - Vogelgrippe befällt das Gehirn von Robben - was das für Menschen bedeutet](https://www.focus.de/gesundheit/news/studie-sorgt-fuer-aufsehen-vogelgrippe-trifft-das-gehirn-der-robben-nicht-die-atemwege_id_260460917.html) (Focus)
 
 - [许多人类感染“牛流感”的病例未被发现](https://www.cnbeta.com.tw/articles/tech/1453584.htm) (Cnbeta.com.tw)
 
@@ -310,6 +356,12 @@ Source: [News API](https://newsapi.org/)
 - [„Der Mensch ist bislang kein guter Wirt“](https://www.faz.net/aktuell/wissen/leben-gene/vogelgrippe-was-der-uebersprung-aufs-schwein-bedeutet-110083432.html) (Faz.net)
 
 ## 24-45 (dengue)
+
+- [Dengue: un caso ad Ancona, scatta la disinfestazione](https://www.ansa.it/marche/notizie/2024/11/08/dengue-un-caso-ad-ancona-scatta-la-disinfestazione_af7e8c13-2aaf-403a-b814-e7161093b124.html) (ANSA.it)
+
+- [Ibaneis sanciona projeto que autoriza contratar agentes contra dengue](https://www.metropoles.com/distrito-federal/ibaneis-sanciona-projeto-que-autoriza-contratar-agentes-contra-dengue) (Metropoles.com)
+
+- [Del dengue al zika: Sanidad prevé un aumento de estas enfermedades tras el paso de la DANA](https://www.alimente.elconfidencial.com/bienestar/2024-11-08/dana-aumento-mosquitos-enfermedades_3999825/) (Elconfidencial.com)
 
 - [Spread of dengue fever in Bangladesh worries medics](https://www.channelnewsasia.com/asia/dengue-fever-spread-bangladesh-worries-medic-4732836) (CNA)
 
@@ -2879,8 +2931,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Whooping Cough Cases Surge](https://www.newser.com/story/356862/whooping-cough-cases-surge.html) (Newser)
 
-- [What to do if you or your kid gets COVID-19 this fall](https://www.cbc.ca/news/canada/ottawa/what-to-do-if-you-or-your-kid-gets-covid-19-this-fall-1.7328679) (CBC News)
-
 ## 24-39 (mpox)
 
 - [Six morts du virus de Marburg, similaire à Ebola, au Rwanda](https://www.20minutes.fr/sante/4112589-20240928-six-morts-virus-marburg-similaire-ebola-rwanda) (20 Minutes)
@@ -3209,12 +3259,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Enhancement of clinical signs in C3H/HeJ mice vaccinated with a highly immunogenic Leptospira methyl-accepting chemotaxis protein following challenge](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012155) (Plos.org)
 
-## 24-39 (hpai)
-
-- [Исследование: Птицы-пираты ускоряют распространение смертельного птичьего гриппа](https://vfokuse.mail.ru/article/issledovanie-pticy-piraty-uskoryayut-rasprostranenie-smertelnogo-ptichego-grippa-62903241/) (Mail.ru)
-
-- ["Пернатые пираты" ускоряют распространение смертельного птичьего гриппа, выяснили ученые](https://www.gazeta.ru/science/news/2024/09/22/23979301.shtml) (Gazeta.ru)
-
 ## 24-39 (h5n1)
 
 - [SUA confirmă primul caz de gripă aviară fără provenienţă animală cunoscută](https://www.mediafax.ro/sanatate/sua-confirma-primul-caz-de-gripa-aviara-fara-provenienta-animala-cunoscuta-22498397) (Mediafax.ro)
@@ -3282,10 +3326,6 @@ Source: [News API](https://newsapi.org/)
 - [Can our stockpiles of Tamiflu protect against a bird flu pandemic?](https://undark.org/2024/09/23/h5n1-old-drug-protect-against-new-pandemic/) (Undark Magazine)
 
 - [Otro contacto del paciente de Missouri con síntomas de gripe aviar hace temer el contagio entre humanos](https://www.elespanol.com/ciencia/salud/20240923/contacto-paciente-missouri-sintomas-gripe-aviar-hace-temer-contagio-humanos/888161276_0.html) (Elespanol.com)
-
-- [Исследование: Птицы-пираты ускоряют распространение смертельного птичьего гриппа](https://vfokuse.mail.ru/article/issledovanie-pticy-piraty-uskoryayut-rasprostranenie-smertelnogo-ptichego-grippa-62903241/) (Mail.ru)
-
-- ["Пернатые пираты" ускоряют распространение смертельного птичьего гриппа, выяснили ученые](https://www.gazeta.ru/science/news/2024/09/22/23979301.shtml) (Gazeta.ru)
 
 ## 24-39 (dengue)
 
@@ -3376,12 +3416,6 @@ Source: [News API](https://newsapi.org/)
 - [Health D-G: Drop in dengue cases during from Sept 8 to 14, no deaths reported](https://www.malaymail.com/news/malaysia/2024/09/23/health-d-g-drop-in-dengue-cases-from-sept-8-to-14-no-deaths-reported/151342) (Malay Mail)
 
 - [Kenali Tanda dan Gejala Demam Berdarah Dengue, Ada 3 Fase Dalam 7 Hari](https://www.liputan6.com/health/read/5708649/kenali-tanda-dan-gejala-demam-berdarah-dengue-ada-3-fase-dalam-7-hari) (Liputan6.com)
-
-- [Dengue scare: Docs suggest keeping eye on kids’ hydration level](https://timesofindia.indiatimes.com/city/bengaluru/dengue-alert-parents-urged-to-monitor-childrens-hydration-amid-rising-cases/articleshow/113577463.cms) (The Times of India)
-
-- [Pharmacies see 25% rise inqueries for dengue drugs](https://timesofindia.indiatimes.com/city/bengaluru/pharmacies-see-25-rise-inqueries-for-dengue-drugs/articleshow/113577327.cms) (The Times of India)
-
-- [Manipur health minister seeks public participation to combat rising dengue cases](https://www.indiatodayne.in/manipur/story/manipur-health-minister-seeks-public-participation-to-combat-rising-dengue-cases-1096640-2024-09-22) (Indiatodayne.in)
 
 ## 24-39 (chikungunya)
 

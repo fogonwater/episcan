@@ -1,8 +1,459 @@
 {
-  "last_updated": "2024-11-09 07:05",
-  "count_articles_total": 1518,
-  "count_articles_new": 6,
+  "last_updated": "2024-11-09 19:05",
+  "count_articles_total": 1537,
+  "count_articles_new": 25,
   "articles": [
+    {
+      "id": 15368,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Thecannabist.co",
+      "author": "The Cannabist Network",
+      "title": "CDC calls for expanded bird flu testing after more dairy worker infections found in Colorado and Michigan",
+      "description": "The new guidance comes after blood tests for 115 farmworkers in Michigan and Colorado showed that eight workers -- or 7% \u2014 had antibodies that indicated previous infection with the virus known as Type A H5N1 influenza. The post CDC calls for expanded bird flu\u2026",
+      "url": "http://www.thecannabist.co/2024/11/08/cdc-calls-for-expanded-bird-flu-testing-after-more-dairy-worker-infections-found-in-colorado-and-michigan/137080/",
+      "urlToImage": "https://www.thecannabist.co/wp-content/uploads/2024/11/Climate_Change_Food_System_34055-1.jpg",
+      "publishedAt": "2024-11-08 19:05:09",
+      "content": "Federal health officials on Thursday called for more testing of employees on farms with bird flu after a new study showed that some dairy workers had signs of infection, even when they didn\u2019t report \u2026 [+505 chars]",
+      "retrievedAt": "2024-11-09 19:05:36.720256",
+      "internal_id": "8e5f71a42f952cc74215f29541fc3af328e3db3f219aa4b13cb8cd3090ee9da8",
+      "publishedAtLabel": "Nov 8"
+    },
+    {
+      "id": 15365,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Gizmodo.com",
+      "author": "Ed Cara",
+      "title": "H5N1 Bird Flu Is Infecting More People Than We Know",
+      "description": "New CDC research suggests that a small but significant percentage of dairy farmers working near infected cows have recently contracted H5N1, often without knowing.",
+      "url": "https://gizmodo.com/h5n1-bird-flu-is-infecting-more-people-than-we-know-2000522079",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/11/Dairy-cow.jpg",
+      "publishedAt": "2024-11-08 18:15:58",
+      "content": "H5N1 bird flu is likely infecting more people than we know. New research from the Centers for Disease Control and Prevention shows that 7% of monitored dairy farmers in Michigan and Colorado have tes\u2026 [+2677 chars]",
+      "retrievedAt": "2024-11-09 19:05:36.619466",
+      "internal_id": "7f77084234789f77e0daf4df935bfc914684e89537f6d3cfd92e6acaf3fafda8",
+      "publishedAtLabel": "Nov 8"
+    },
+    {
+      "id": 15383,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "\u00c1frica supera los 50.000 casos de mpox y registra 1.083 muertes desde comienzos de 2024",
+      "description": "Respecto a la vacunaci\u00f3n, la autoridad sanitaria africana destac\u00f3 el buen inicio de la campa\u00f1a en Ruanda y la RDC.",
+      "url": "https://www.montevideo.com.uy/Salud/Africa-supera-los-50-000-casos-de-mpox-y-registra-1-083-muertes-desde-comienzos-de-2024-uc905930",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202408/_W933_80/891795.jpg",
+      "publishedAt": "2024-11-08 18:11:00",
+      "content": "\u00c1frica ha registrado 50.840 casos (10.741 confirmados) y 1.083 muertes por mpox desde principios de 2024 en 19 pa\u00edses del continente, inform\u00f3 este jueves la agencia de salud p\u00fablica de la Uni\u00f3n Af\u2026 [+3342 chars]",
+      "retrievedAt": "2024-11-09 19:05:38.986795",
+      "internal_id": "489c61bcadf4f376b232e73fb765ffc2982f30947f776845e48ac1dbae225282",
+      "publishedAtLabel": "Nov 8"
+    },
+    {
+      "id": 15366,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Live Science",
+      "author": "Kamal Nahas",
+      "title": "H5N1 bird flu is evolving to better infect mammals, CDC study suggests",
+      "description": "Rising H5N1 bird flu cases in the U.S. prompted the CDC to study the virus in ferrets, revealing it may have the potential to spread and cause severe symptoms in other mammals.",
+      "url": "https://www.livescience.com/health/flu/h5n1-bird-flu-is-evolving-to-better-infect-mammals-cdc-study-suggests",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/uwjopNv8HeGSyEL8CdYKr4-1200-80.jpg",
+      "publishedAt": "2024-11-08 17:35:00",
+      "content": "H5N1 bird flu is getting better at spreading between mammals but does not yet spread as easily as seasonal flu, a Centers for Disease Control and Prevention (CDC) study suggests. H5N1 has been detec\u2026 [+5874 chars]",
+      "retrievedAt": "2024-11-09 19:05:36.662669",
+      "internal_id": "6bda0ea7911d8989299cfc5c590abc26aca72d9d07e1b4ed85093e118b693f0c",
+      "publishedAtLabel": "Nov 8"
+    },
+    {
+      "id": 15387,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "Temporal.- Sanidad se\u00f1ala que la trasmisi\u00f3n de leptospirosis entre personas es \"extremadamente rara\"",
+      "description": "El Ministerio de Sanidad y la Conselleria de Sanidad de la Generalitat Valenciana recuerdan que la trasmisi\u00f3n de leptospirosis, una enfermedad bacteriana que puede aparecer despu\u00e9s de inundaciones o lluvias torrenciales, entre personas es \"extremadamente rara\u2026",
+      "url": "https://www.infosalus.com/salud-investigacion/noticia-temporal-sanidad-senala-trasmision-leptospirosis-personas-extremadamente-rara-20241108174026.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20241108174026_1200.jpg",
+      "publishedAt": "2024-11-08 16:40:26",
+      "content": "Recomienda ir cubierto para protegerse cuando se realicen labores de limpieza VAL\u00c8NCIA, 8 Nov. (EUROPA PRESS) - El Ministerio de Sanidad y la Conselleria de Sanidad de la Generalitat Valenciana\u2026 [+4708 chars]",
+      "retrievedAt": "2024-11-09 19:05:39.511195",
+      "internal_id": "7459bc6b0fbe68c666e02d30ddfe537df98f4073162fe0c04bd8666f4be963c1",
+      "publishedAtLabel": "Nov 8"
+    },
+    {
+      "id": 15367,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "fortune",
+      "source_name": "Fortune",
+      "author": "Carolyn Barber",
+      "title": "Bird flu begins its human spread, as health officials scramble to safeguard people and livestock",
+      "description": "Some experts say mass human-to-human transmission of this strain of bird flu is only a matter of time.",
+      "url": "https://fortune.com/well/2024/11/08/bird-flu-human-spreadsafeguard-people-livestock/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/11/GettyImages-842366656-e1731081964465.jpg?resize=1200,600",
+      "publishedAt": "2024-11-08 16:15:36",
+      "content": "Almost from the beginning of the spread of H5N1 bird flu among farms and ranches in the U.S. earlier this year, experts and researchers warned that a critical lag in the blood testing of exposed work\u2026 [+8419 chars]",
+      "retrievedAt": "2024-11-09 19:05:36.714229",
+      "internal_id": "c5753fe8ccc8d6f19b5e0e9571eb315a5a921087e3adc217975e2936c3310b3f",
+      "publishedAtLabel": "Nov 8"
+    },
+    {
+      "id": 15374,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Dengue: un caso ad Ancona, scatta la disinfestazione",
+      "description": "Un caso di malattia infettiva da Dengue importato da una persona domiciliata ad Ancona via Matteotti, ricoverata dal 6 novembre presso l'Azienda Ospedaliera Universitaria di Torrette, \u00e8 stata segnalata dall'Ast di Ancona Il Sindaco, Daniele Silvetti, ha f... \u2026",
+      "url": "https://www.ansa.it/marche/notizie/2024/11/08/dengue-un-caso-ad-ancona-scatta-la-disinfestazione_af7e8c13-2aaf-403a-b814-e7161093b124.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2024/6/4/cd69b5ddebf309d20c939f9246a8cc92.jpg",
+      "publishedAt": "2024-11-08 16:01:05",
+      "content": "Un caso di malattia infettiva da Dengue importato da una persona domiciliata ad Ancona via Matteotti, ricoverata dal 6 novembre presso l'Azienda Ospedaliera Universitaria di Torrette, \u00e8 stata segn\u2026 [+2124 chars]",
+      "retrievedAt": "2024-11-09 19:05:37.042837",
+      "internal_id": "6112fd827941f714a3f8c87c8d6d6c53d304a09f8ce3ecc09d762bab25c7f0ad",
+      "publishedAtLabel": "Nov 8"
+    },
+    {
+      "id": 15388,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Elespanol.com",
+      "author": "P. G. Santos / Agencias",
+      "title": "La Generalitat informa de dos posibles casos de leptospirosis en voluntarios que participan en tareas de limpieza",
+      "description": "Ambas personas presentan una buena evoluci\u00f3n cl\u00ednica, aunque una de ellas se encuentra ingresada en un centro hospitalario. M\u00e1s informaci\u00f3n: As\u00ed es la leptospirosis: la infecci\u00f3n que amenaza a los afectados de la DANA tras el estancamiento de las aguas",
+      "url": "https://www.elespanol.com/ciencia/salud/20241108/generalitat-informa-posibles-casos-leptospirosis-voluntarios-participan-tareasdelimpieza/899660472_0.html",
+      "urlToImage": "https://s1.elespanol.com/2024/11/02/espana/898170447_250561176_1706x960.jpg",
+      "publishedAt": "2024-11-08 15:56:14",
+      "content": "La Consejer\u00eda de Sanidad de la Comunidad Valenciana ha informado este viernes de dos casos probables de leptospira, a falta de confirmaci\u00f3n por los resultados de las correspondientes anal\u00edticas, en d\u2026 [+2823 chars]",
+      "retrievedAt": "2024-11-09 19:05:39.517193",
+      "internal_id": "c212d1139720d8e70380221961652519625fcc54a12864085446967c14723586",
+      "publishedAtLabel": "Nov 8"
+    },
+    {
+      "id": 15372,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Francisco Dutra",
+      "title": "Ibaneis sanciona projeto que autoriza contratar agentes contra dengue",
+      "description": "Governador Ibaneis Rocha pretende nomear novos agentes da dengue ainda em novembro. Profissionais devem entrar em atividade em dezembro",
+      "url": "https://www.metropoles.com/distrito-federal/ibaneis-sanciona-projeto-que-autoriza-contratar-agentes-contra-dengue",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/11/08111424/Ibaneis-Rocha-6-1.jpg",
+      "publishedAt": "2024-11-08 15:23:15",
+      "content": "Para refor\u00e7ar combate \u00e0 dengue e evitar uma nova epidemia no Distrito Federal, o governador Ibaneis Rocha (MDB) sancionou, nesta sexta-feira (8/11), projeto de lei para a contrata\u00e7\u00e3o de aproximadamen\u2026 [+2150 chars]",
+      "retrievedAt": "2024-11-09 19:05:37.004352",
+      "internal_id": "66fd398707e339530c85c534d159125cc5b8ee3d0cafaf1a3bbb7cd372208489",
+      "publishedAtLabel": "Nov 8"
+    },
+    {
+      "id": 15380,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Ilpost.it",
+      "author": null,
+      "title": "\u00c8 stato smentito che ci sia stato un caso di trasmissione di malaria in Italia",
+      "description": "",
+      "url": "https://www.ilpost.it/2024/11/08/smentita-caso-malaria-autoctono-italia/",
+      "urlToImage": "https://www.ilpost.it/wp-content/uploads/2024/11/08/1731078502-zanzara_Anopheles.jpg",
+      "publishedAt": "2024-11-08 15:11:52",
+      "content": "Gioved\u00ec 7 novembre alcuni giornali locali di Verona, e successivamente alcune agenzie di stampa nazionali, avevano diffuso la notizia che nella citt\u00e0 veneta era stato diagnosticato un caso di malaria\u2026 [+1325 chars]",
+      "retrievedAt": "2024-11-09 19:05:37.913548",
+      "internal_id": "631b5750ea486df6a38f0f6bcee22b6f2f42ad33ab7a8a1b48ffebff7f560fa5",
+      "publishedAtLabel": "Nov 8"
+    },
+    {
+      "id": 15389,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Eldiario.es",
+      "author": "EFE, elDiario.es",
+      "title": "La Generalitat informa de dos posibles casos de leptospirosis en voluntarios, una bacteria habitual en zonas inundadas",
+      "description": "Ambas personas, que estaban ayudando en labores de limpieza en las zonas afectadas, presentan buena evoluci\u00f3n aunque una de ellas est\u00e1 hospitalizada; la bacteria no se transmite entre humanos, sino por el contacto de heridas o mucosas con la orina de roedores\u2026",
+      "url": "https://www.eldiario.es/sociedad/generalitat-informa-posibles-casos-leptospirosis-voluntarios-bacteria-tipica-zonas-inundadas_1_11803909.html",
+      "urlToImage": "https://static.eldiario.es/clip/bf0127f9-5a33-4e00-8f49-953e2afc6ad9_facebook-watermarked-aspect-ratio_default_0.jpg",
+      "publishedAt": "2024-11-08 14:56:38",
+      "content": "La Conselleria de Sanidad ha informado este viernes de dos casos probables de leptospira, a falta de confirmaci\u00f3n por los resultados de las correspondientes anal\u00edticas, en dos personas que voluntaria\u2026 [+4554 chars]",
+      "retrievedAt": "2024-11-09 19:05:39.528450",
+      "internal_id": "a93acb6b10a89b86a4bd8a0f93c05570a76993794b4a68b71727cc7646ab917b",
+      "publishedAtLabel": "Nov 8"
+    },
+    {
+      "id": 15371,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "The Denver Post",
+      "author": "Jonel Aleccia",
+      "title": "CDC calls for expanded bird flu testing after more dairy worker infections found in Colorado and Michigan",
+      "description": "The new guidance comes after blood tests for 115 farmworkers in Michigan and Colorado showed that eight workers -- or 7% \u2014 had antibodies that indicated previous infection with the virus known as Type A H5N1 influenza.",
+      "url": "https://www.denverpost.com/2024/11/08/colorado-bird-flu-expanded-testing/",
+      "urlToImage": "https://www.denverpost.com/wp-content/uploads/2023/03/Climate_Change_Food_System_34055-1.jpg?w=1024&h=680",
+      "publishedAt": "2024-11-08 14:51:49",
+      "content": "Federal health officials on Thursday called for more testing of employees on farms with bird flu after a new study showed that some dairy workers had signs of infection, even when they didn\u2019t report \u2026 [+3207 chars]",
+      "retrievedAt": "2024-11-09 19:05:36.744637",
+      "internal_id": "d44df9a347cd4ba0c55d41931c5a15b34e8cd08c151e903bfad532aa51a4f0e6",
+      "publishedAtLabel": "Nov 8"
+    },
+    {
+      "id": 15376,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Caso di malaria in Veneto, \u00e8 importato e non autoctono",
+      "description": "Accertato un recente viaggio all'estero in area endemica inizialmente non dichiarato (ANSA)",
+      "url": "https://www.ansa.it/veneto/notizie/2024/11/08/caso-di-malaria-in-veneto-e-importato-e-non-autoctono_87a0a178-1f61-4a13-90eb-b11824d02bb1.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2024/6/4/cd69b5ddebf309d20c939f9246a8cc92.jpg",
+      "publishedAt": "2024-11-08 14:46:47",
+      "content": "Non \u00e8 autoctono ma importato, per un viaggio all'estero del malato, il caso di malaria registrato in provincia di Verona. Lo precisa il Servizio di igiene e sanit\u00e0 pubblica (Sisp) dell'Ulss 9 Scalig\u2026 [+1432 chars]",
+      "retrievedAt": "2024-11-09 19:05:37.862510",
+      "internal_id": "37e89a4cf529bf9158d4b029cc959bff714100383d154c3d2ae0ea0814b4f8e2",
+      "publishedAtLabel": "Nov 8"
+    },
+    {
+      "id": 15382,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "POLITICO.eu",
+      "author": "Claudia Chiappa",
+      "title": "UK cases of deadly new mpox variant rise to 4",
+      "description": "The new infection was detected among the household contacts of the first reported U.K. case.",
+      "url": "https://www.politico.eu/article/uk-deadly-new-mpox-variant-rise/",
+      "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2024/11/08/GettyImages-1618290728-scaled.jpg",
+      "publishedAt": "2024-11-08 13:30:24",
+      "content": "The United Kingdom today reported an additional case of the new variant of mpox, an infectious viral disease that can cause high fever, a painful rash and death, bringing the number of confirmed case\u2026 [+376 chars]",
+      "retrievedAt": "2024-11-09 19:05:38.930047",
+      "internal_id": "17c3796afa5ad3d6f1d95917a0d7b623fd484593b1306457508b1c5ee1a9f3d5",
+      "publishedAtLabel": "Nov 8"
+    },
+    {
+      "id": 15386,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "\u00bfQu\u00e9 es la leptospirosis? \u00bfY c\u00f3mo reconocer la infecci\u00f3n que amenaza a los afectados por la DANA?",
+      "description": "Aunque el riesgo de enfermedades e infecciones en la zona afectada por la DANA es bajo o moderado, sus efectos en la salud de los afectados y voluntarios empiezan a conocerse. Hasta el momento se hab\u00edan visto casos de gastroenteritis y recomendado la vacunaci\u2026",
+      "url": "https://www.infosalus.com/salud-investigacion/noticia-leptospirosis-reconocer-infeccion-amenaza-afectados-dana-20241108141839.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20241108141839_1200.jpg",
+      "publishedAt": "2024-11-08 13:18:39",
+      "content": "MADRID 8 Nov. (EDIZIONES) - Aunque el riesgo de enfermedades e infecciones en la zona afectada por la DANA es bajo o moderado, sus efectos en la salud de los afectados y voluntarios empiezan a conoc\u2026 [+2298 chars]",
+      "retrievedAt": "2024-11-09 19:05:39.504821",
+      "internal_id": "f91f9958cba763895584296a959fa4d89b999de2b1aceafba485f07c278b1c67",
+      "publishedAtLabel": "Nov 8"
+    },
+    {
+      "id": 15381,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Observador.pt",
+      "author": "Ag\u00eancia Lusa",
+      "title": "Mpox: Detetados onze casos desde 1 de junho revela a Dire\u00e7\u00e3o-Geral da Sa\u00fade",
+      "description": "Segundo a DGS, 10 dos 11 casos confirmados foram em homens que tiveram rela\u00e7\u00f5es sexuais com homens. Desde 2022, quando foi identificado o primeiro surto em Portugal, foram confirmados 1.208 casos.",
+      "url": "https://observador.pt/2024/11/08/mpox-detetados-onze-casos-desde-1-de-junho-revela-a-direcao-geral-da-saude/",
+      "urlToImage": "https://wm.observador.pt/wm/obs/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1124%3Anowe%3A0%3A101%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2024%2F08%2F28155027%2F43440441.jpg",
+      "publishedAt": "2024-11-08 12:30:29",
+      "content": "Onze casos de infe\u00e7\u00e3o pelo v\u00edrus mpox foram detetados em Portugal desde 01 de junho, quando foi identificado o terceiro surto da doen\u00e7a no pa\u00eds, revela a Dire\u00e7\u00e3o-Geral da Sa\u00fade, adiantando que, desde\u2026 [+3032 chars]",
+      "retrievedAt": "2024-11-09 19:05:38.873224",
+      "internal_id": "d7608b7639552cd166cc272fdf249c5a211ed0c0c00100c98efab12d170f07e7",
+      "publishedAtLabel": "Nov 8"
+    },
+    {
+      "id": 15385,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": "el-mundo",
+      "source_name": "El Mundo",
+      "author": "EL MUNDO",
+      "title": "\u00bfQu\u00e9 es la leptospirosis? Detectados dos posibles casos en Valencia",
+      "description": "La subdirecci\u00f3n general de Epidemiolog\u00eda y Vigilancia para la Salud, de la Direcci\u00f3n General de Salud P\u00fablica, ha informado de dos casos probables de leptospirosis, a falta de...",
+      "url": "https://www.elmundo.es/ciencia-y-salud/salud/2024/11/08/672dff0121efa077028b4580.html",
+      "urlToImage": "https://phantom-elmundo.unidadeditorial.es/3566b5b467f5817317e212685fbae770/resize/1200/f/webp/assets/multimedia/imagenes/2024/11/08/17310678469177.jpg",
+      "publishedAt": "2024-11-08 12:12:43",
+      "content": "La subdirecci\u00f3n general de Epidemiolog\u00eda y Vigilancia para la Salud, de la Direcci\u00f3n General de Salud P\u00fablica, ha informado de dos casos probables de leptospirosis, a falta de confirmaci\u00f3n por los re\u2026 [+4307 chars]",
+      "retrievedAt": "2024-11-09 19:05:39.492266",
+      "internal_id": "7b4e4442cb04fa9e2fcf10e279a4d18dff42b03606c5728ebda2e9faf2248a95",
+      "publishedAtLabel": "Nov 8"
+    },
+    {
+      "id": 15384,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": null,
+      "title": "Guidance: Confirmed cases of mpox clade Ib in United Kingdom",
+      "description": "This release has been published in response to confirmed cases of clade Ib mpox in the UK. Whilst numbers remain low updates will be released on an ad-hoc basis.",
+      "url": "https://www.gov.uk/guidance/confirmed-cases-of-mpox-clade-ib-in-united-kingdom",
+      "urlToImage": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png",
+      "publishedAt": "2024-11-08 11:55:04",
+      "content": "Current confirmed cases As of 7 November 2024, the UK Health Security Agency (UKHSA) has confirmed 4 cases of clade Ib mpox in the UK. The first case was reported on 30 October 2024, with 3 further\u2026 [+1064 chars]",
+      "retrievedAt": "2024-11-09 19:05:38.998038",
+      "internal_id": "eaceb71d086cf9a684905b28ac68ab270cc16c100287d9b9a5e787e47f66c492",
+      "publishedAtLabel": "Nov 8"
+    },
+    {
+      "id": 15375,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Ilfattoquotidiano.it",
+      "author": "F. Q.",
+      "title": "\u201cNon autoctono, ma importato il caso di malaria in Veneto\u201d, il paziente non aveva riferito di un viaggio in Africa per \u201cmotivi personali\u201d",
+      "description": "Non \u00e8 autoctono \u2013 come riferito ieri dalle autorit\u00e0 sanitarie \u2013 ma importato, il caso di malaria registrato a Verona. Il paziente non aveva riferito di un viaggio all\u2019estero Lo precisa oggi il Servizio di igiene e sanit\u00e0 pubblica (Sisp) dell\u2019Ulss 9 Scaligera,\u2026",
+      "url": "https://www.ilfattoquotidiano.it/2024/11/08/non-autoctono-ma-importato-il-caso-di-malaria-in-veneto-il-paziente-non-aveva-riferito-di-un-viaggio-in-africa-per-motivi-personali/7760140/",
+      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2021/10/19/Zanzara--1200x630.jpg",
+      "publishedAt": "2024-11-08 11:51:09",
+      "content": "Roma, 8 nov. (Adnkronos Salute) - Cambia il nome, non l'obiettivo, che \u00e8 quello di informare, aiutare a capire e affrontare i tumori del sangue guardando alla patologia, ma anche a come affrontare al\u2026 [+3405 chars]",
+      "retrievedAt": "2024-11-09 19:05:37.855890",
+      "internal_id": "623826c55475b9abe81bda151a2f729d17ebb66f443c00478d836ab7370ce44c",
+      "publishedAtLabel": "Nov 8"
+    },
+    {
+      "id": 15373,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Elconfidencial.com",
+      "author": "Europa Press",
+      "title": "Del dengue al zika: Sanidad prev\u00e9 un aumento de estas enfermedades tras el paso de la DANA",
+      "description": "El Grupo de Coordinaci\u00f3n de la Respuesta de Salud P\u00fablica recomienda que se tomen las \"medidas oportunas\" para prevenir la proliferaci\u00f3n de estos artr\u00f3podos y reducir la posibilidad de contagio de enfermedades",
+      "url": "https://www.alimente.elconfidencial.com/bienestar/2024-11-08/dana-aumento-mosquitos-enfermedades_3999825/",
+      "urlToImage": "https://images.ecestaticos.com/7xFpYoeAA2MSI5mTVbTxvLdQTfU=/0x0:2272x1515/600x315/filters:fill(white):format(jpg):quality(99):watermark(f.elconfidencial.com/file/57c/f73/0b4/57cf730b412ad7adb7151644bda336bd.png,0,275,1)/f.elconfidencial.com/original/07f/9f1/885/07f9f1885411c8bf8046442d968dfa06.jpg",
+      "publishedAt": "2024-11-08 11:47:00",
+      "content": "El Ministerio de Sanidad y la Comunitat Valenciana prev\u00e9n un incremento de mosquitos durante las pr\u00f3ximas semanas en las zonas afectadas por la DANA debido a que las aguas estancadas favorecen su rep\u2026 [+4086 chars]",
+      "retrievedAt": "2024-11-09 19:05:37.026517",
+      "internal_id": "de4b82ee0f57bf75e3ac4669b9a1e40976dc9e6dc2a60c3b8f844378fd83e0ba",
+      "publishedAtLabel": "Nov 8"
+    },
+    {
+      "id": 15370,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Steiermark.orf.at",
+      "author": "ORF.at",
+      "title": "Vogelgrippe: Erhebliches Risiko in der Steiermark",
+      "description": "Seit Mitternacht sind aufgrund der Vogelgrippe-Ausbr\u00fcche in Nieder- und Ober\u00f6sterreich auch in der Steiermark Sicherheitsma\u00dfnahmen in Kraft. Die Beh\u00f6rden raten dringend dazu, diese Ma\u00dfnahmen auch einzuhalten, die Veterin\u00e4rdirektion sieht auch ein erh\u00f6htes Ris\u2026",
+      "url": "https://steiermark.orf.at/stories/3280417/",
+      "urlToImage": "https://ibs.orf.at/stm?image=https%3A%2F%2Foekastatic.orf.at%2Fmims%2F2020%2F50%2F38%2Fcrops%2Fw%3D1200%2Ch%3D627%2Cq%3D75%2F777604_master_270538_apaputen_nach_gefluegelpest_getoetet_.jpg%3Fs%3D72a6ebf11fe45cbba443217681b23d5378ebb881",
+      "publishedAt": "2024-11-08 11:33:00",
+      "content": "Die Vogelgrippe H5N1 ist eine hoch ansteckende und sich rasch verbreitende, Tierseuche, welche bei nahezu allen infizierten V\u00f6geln zum Tod f\u00fchrt. Nach best\u00e4tigten F\u00e4llen von Vogelgrippe in Ober- und \u2026 [+2211 chars]",
+      "retrievedAt": "2024-11-09 19:05:36.738826",
+      "internal_id": "45abe0c6f3e2b74a2158471e859cfac9867ad5bc63f9f3b956c21cf4a6982b65",
+      "publishedAtLabel": "Nov 8"
+    },
+    {
+      "id": 15379,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Caso di malaria in Veneto \u00e8 importato e non autoctono",
+      "description": "Non \u00e8 autoctono ma importato, per un viaggio all'estero del malato, il caso di malaria registrato in provincia di Verona. (ANSA)",
+      "url": "https://www.ansa.it/veneto/notizie/2024/11/08/sanita-veneto-caso-di-malaria-e-importato-e-non-autoctono_87a0a178-1f61-4a13-90eb-b11824d02bb1.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2024/6/4/cd69b5ddebf309d20c939f9246a8cc92.jpg",
+      "publishedAt": "2024-11-08 11:09:34",
+      "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all\u2019abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad \u2026 [+320 chars]",
+      "retrievedAt": "2024-11-09 19:05:37.901991",
+      "internal_id": "ae3ec6679e6d343796e1dcc26a597fb22c445cc9705cf627fa70699830cf6879",
+      "publishedAtLabel": "Nov 8"
+    },
+    {
+      "id": 15378,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Sanit\u00e0 Veneto: caso di malaria \u00e8 importato e non autoctono",
+      "description": "Non \u00e8 autoctono ma importato, per un viaggio all'estero del malato, il caso di malaria registrato in provincia di Verona. (ANSA)",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2024/11/08/sanita-veneto-caso-di-malaria-e-importato-e-non-autoctono_9adb7f2e-e147-475e-9702-52ff02733b9d.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2024/6/4/cd69b5ddebf309d20c939f9246a8cc92.jpg",
+      "publishedAt": "2024-11-08 11:07:19",
+      "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all\u2019abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad \u2026 [+320 chars]",
+      "retrievedAt": "2024-11-09 19:05:37.885647",
+      "internal_id": "7d8a6a52b76be1fb69751af1f6d956e9f907d8a4337d9092b1c8744f4179aacd",
+      "publishedAtLabel": "Nov 8"
+    },
+    {
+      "id": 15369,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "focus",
+      "source_name": "Focus",
+      "author": "Smart Up News",
+      "title": "Im Pazifik - Vogelgrippe bef\u00e4llt das Gehirn von Robben - was das f\u00fcr Menschen bedeutet",
+      "description": "In Nord- und S\u00fcdamerika kommt es seit einigen Monaten immer wieder zu Vogelgrippe-Ausbr\u00fcchen. Nicht nur Gefl\u00fcgel, auch Rinder, Seel\u00f6wen und Robben sind betroffen. Forscher fanden nun heraus, dass H5N1 bei letzteren nicht die Atemwege, sondern das Gehirn bef\u00e4l\u2026",
+      "url": "https://www.focus.de/gesundheit/news/studie-sorgt-fuer-aufsehen-vogelgrippe-trifft-das-gehirn-der-robben-nicht-die-atemwege_id_260460917.html",
+      "urlToImage": "https://p6.focus.de/img/wissen/id_260460915/vogelgrippe.jpg?im=Crop%3D%280%2C41%2C1024%2C512%29%3BResize%3D%281200%2C627%29&impolicy=perceptual&quality=mediumHigh&hash=ff133a69f907ecb17c33006a79eaef17f863903fe61ac2d4006ef7fa5f463baa",
+      "publishedAt": "2024-11-08 09:44:26",
+      "content": "Der Ausbruch der Vogelgrippe an der US-Westk\u00fcste vor Washington im Jahr 2023 hinterlie\u00df schwere Spuren bei den Raubseeschwalben auf Rat Island. Rund 56 Prozent der dort br\u00fctenden V\u00f6gel fielen dem H5N\u2026 [+4921 chars]",
+      "retrievedAt": "2024-11-09 19:05:36.727860",
+      "internal_id": "8752a827cb24d5f19e3a7575076b07239d2b81032f3cb1918808b17c50c82b02",
+      "publishedAtLabel": "Nov 8"
+    },
+    {
+      "id": 15377,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "aftenposten",
+      "source_name": "Aftenposten",
+      "author": "Camilla Stoltenberg, Bent H\u00f8ie, Ottar M\u00e6stad",
+      "title": "Vi var for d\u00e5rlig foreberedt p\u00e5 pandemien i 2020, og vi er for d\u00e5rlig forberedt n\u00e5",
+      "description": "Les innlegget.",
+      "url": "https://www.aftenposten.no/meninger/debatt/i/Gy60wq/global-helse-handler-om-mer-enn-bare-bistand",
+      "urlToImage": "https://premium.vgc.no/v2/images/e6b84e25-7e02-45cb-8252-5a8583b60301?fit=crop&format=auto&h=1080&w=1920&s=c9c92135aabf56b8dddd66ae52388129ec36b54a",
+      "publishedAt": "2024-11-08 08:00:00",
+      "content": "I dag tar malaria livet av over 600.000 mennesker hvert \u00e5r, skriver artikkelforfatterne. Illustrasjonsfoto: James Gathany, AP En verden med bedre folkehelse, mindre fattigdom og redusert ulikhet er \u2026 [+4644 chars]",
+      "retrievedAt": "2024-11-09 19:05:37.879535",
+      "internal_id": "01bf7c6751ff3f1019ae25470b390153045d021e0094cdf91d9b55a0718bd2d0",
+      "publishedAtLabel": "Nov 8"
+    },
     {
       "id": 15363,
       "query": [
@@ -27281,116 +27732,6 @@
       "retrievedAt": "2024-09-24 07:06:25.165214",
       "internal_id": "9abfbe4a7c6380a372466b00b37b567d2ea02f24d84f90762c53768de3286da2",
       "publishedAtLabel": "Sep 23"
-    },
-    {
-      "id": 13843,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "Pearl D'souza",
-      "title": "Dengue scare: Docs suggest keeping eye on kids\u2019 hydration level",
-      "description": "With rising dengue cases leading to schoolchildren fatalities in Bengaluru, doctors emphasize the importance of monitoring children's hydration levels and recognizing early symptoms. Stay informed on prevention and treatment methods.",
-      "url": "https://timesofindia.indiatimes.com/city/bengaluru/dengue-alert-parents-urged-to-monitor-childrens-hydration-amid-rising-cases/articleshow/113577463.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-09-22 18:57:53",
-      "content": "How to make easy dump &amp; dine Tofu Salad for dinner",
-      "retrievedAt": "2024-09-23 19:05:39.194600",
-      "internal_id": "60efadee614a963f074cd725261d91be2999a067ce5537ee78900c4c7960ba38",
-      "publishedAtLabel": "Sep 22"
-    },
-    {
-      "id": 13844,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "Vindhya Pabolu",
-      "title": "Pharmacies see 25% rise inqueries for dengue drugs",
-      "description": "Bengaluru: Following the state govt's declaration of dengue as an epidemic, city pharmacies have reported a 25% increase in the number of customers se.",
-      "url": "https://timesofindia.indiatimes.com/city/bengaluru/pharmacies-see-25-rise-inqueries-for-dengue-drugs/articleshow/113577327.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-09-22 18:48:41",
-      "content": "How to make easy dump &amp; dine Tofu Salad for dinner",
-      "retrievedAt": "2024-09-23 19:05:39.200889",
-      "internal_id": "8f23dbc4f75a00ebfcc29c7c1b636d1e9566165a508b39295d660172e0cba4b3",
-      "publishedAtLabel": "Sep 22"
-    },
-    {
-      "id": 13845,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Indiatodayne.in",
-      "author": "India Todayne",
-      "title": "Manipur health minister seeks public participation to combat rising dengue cases",
-      "description": "Manipur Health and Family Welfare Minister Sapam Ranjan has raised concerns over the increasing dengue cases, urging community involvement to combat the disease. The state saw a rise from 148 cases in August to 230 in September.",
-      "url": "https://www.indiatodayne.in/manipur/story/manipur-health-minister-seeks-public-participation-to-combat-rising-dengue-cases-1096640-2024-09-22",
-      "urlToImage": "https://cf-img-a-in.tosshub.com/lingo/itne/images/story/202409/66f03edac7063-manipur-health-minister-seeks-public-participation-to-combat-rising-dengue-cases-225921638-16x9.jpg",
-      "publishedAt": "2024-09-22 16:26:49",
-      "content": "Manipur Health and Family Welfare Minister Sapam Ranjan, on September 22 expressed concern over the rise in dengue cases in the state, seeking people's participation to arrest spread of the vector-bo\u2026 [+589 chars]",
-      "retrievedAt": "2024-09-23 19:05:39.236917",
-      "internal_id": "fbf6224317c867e3289387a194458dedf775f27174bdade277292277b23160c9",
-      "publishedAtLabel": "Sep 22"
-    },
-    {
-      "id": 13841,
-      "query": [
-        "hpai",
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Mail.ru",
-      "author": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0430 \u041a\u0430\u043c\u044b\u043d\u0438\u043d\u0430",
-      "title": "\u0418\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u0435: \u041f\u0442\u0438\u0446\u044b-\u043f\u0438\u0440\u0430\u0442\u044b \u0443\u0441\u043a\u043e\u0440\u044f\u044e\u0442 \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0435\u043d\u0438\u0435 \u0441\u043c\u0435\u0440\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430",
-      "description": "\u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u0439\u0441\u043a\u0438\u0435 \u0443\u0447\u0435\u043d\u044b\u0435 \u0438\u0437 \u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0430 \u041d\u043e\u0432\u043e\u0433\u043e \u042e\u0436\u043d\u043e\u0433\u043e \u0423\u044d\u043b\u044c\u0441\u0430 \u0432\u044b\u044f\u0441\u043d\u0438\u043b\u0438, \u043a\u0430\u043a \u043e\u0445\u043e\u0442\u043d\u0438\u0447\u044c\u0438 \u043f\u043e\u0432\u0430\u0434\u043a\u0438 \u043d\u0435\u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u043c\u043e\u0440\u0441\u043a\u0438\u0445 \u043f\u0442\u0438\u0446 \u0441\u043f\u043e\u0441\u043e\u0431\u0441\u0442\u0432\u0443\u044e\u0442 \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0435\u043d\u0438\u044e \u043e\u043f\u0430\u0441\u043d\u043e\u0433\u043e \u0432\u0438\u0440\u0443\u0441\u0430 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430 \u0441\u0440\u0435\u0434\u0438 \u043f\u0435\u0440\u043d\u0430\u0442\u044b\u0445. \u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u044b \u044d\u0442\u043e\u0433\u043e \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u044f \u0431\u044b\u043b\u0438 \u043e\u043f\u0443\u0431\u043b\u0438\u043a\u043e\u0432\u0430\u043d\u044b \u0432 \u043d\u0430\u0443\u0447\u043d\u043e\u043c \u0436\u0443\u0440\u043d\u0430\u043b\u0435 Con\u2026",
-      "url": "https://vfokuse.mail.ru/article/issledovanie-pticy-piraty-uskoryayut-rasprostranenie-smertelnogo-ptichego-grippa-62903241/",
-      "urlToImage": "https://resizer.mail.ru/p/a36e0736-828a-5b07-ace1-0e609388fda3/op:15/logo:bottom:vfokuse.png/AQAGVOGmEdibODjEZmDXZvl30r3vxYG7-lZdsHq8dtG2HJO3bfZKmDLg85k0PQS85VXYUffTmPuka0E1pXC2ZRfMhFo.jpg",
-      "publishedAt": "2024-09-22 14:28:04",
-      "content": ", HPAI H5N1 2.3.4.4.b, , 280 . .",
-      "retrievedAt": "2024-09-23 19:05:38.383629",
-      "internal_id": "c28eda464341e84390c86619508caa23addbc30c91e18d00d340025797c9d720",
-      "publishedAtLabel": "Sep 22"
-    },
-    {
-      "id": 13842,
-      "query": [
-        "hpai",
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Gazeta.ru",
-      "author": "\u0413\u0430\u0437\u0435\u0442\u0430.Ru",
-      "title": "\"\u041f\u0435\u0440\u043d\u0430\u0442\u044b\u0435 \u043f\u0438\u0440\u0430\u0442\u044b\" \u0443\u0441\u043a\u043e\u0440\u044f\u044e\u0442 \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0435\u043d\u0438\u0435 \u0441\u043c\u0435\u0440\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430, \u0432\u044b\u044f\u0441\u043d\u0438\u043b\u0438 \u0443\u0447\u0435\u043d\u044b\u0435",
-      "description": "\u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u0439\u0441\u043a\u0438\u0435 \u0443\u0447\u0435\u043d\u044b\u0435 \u0438\u0437 \u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0430 \u041d\u043e\u0432\u043e\u0433\u043e \u042e\u0436\u043d\u043e\u0433\u043e \u0423\u044d\u043b\u044c\u0441\u0430 \u0432\u044b\u044f\u0441\u043d\u0438\u043b\u0438, \u043a\u0430\u043a \u043e\u0445\u043e\u0442\u043d\u0438\u0447\u044c\u0438 \u043f\u0440\u0438\u0432\u044b\u0447\u043a\u0438 \u043d\u0435\u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u043c\u043e\u0440\u0441\u043a\u0438\u0445 \u043f\u0442\u0438\u0446 \u0443\u0441\u043a\u043e\u0440\u044f\u044e\u0442 \u043f\u0435\u0440\u0435\u0434\u0430\u0447\u0443 \u0433\u0443\u0431\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u0432\u0438\u0440\u0443\u0441\u0430 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430 \u0432 \u043f\u043e\u043f\u0443\u043b\u044f\u0446\u0438\u044f\u0445 \u043f\u0435\u0440\u043d\u0430\u0442\u044b\u0445. \u0418\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u0435 \u043e\u043f\u0443\u0431\u043b\u0438\u043a\u043e\u0432\u0430\u043d\u043e \u0432 \u043d\u0430\u0443\u0447\u043d\u043e\u043c \u0436\u0443\u0440\u043d\u0430\u043b\u0435 Conservation Letters (Co\u2026",
-      "url": "https://www.gazeta.ru/science/news/2024/09/22/23979301.shtml",
-      "urlToImage": "https://img.gazeta.ru/files3/83/19787083/43-pic_32ratio_900x600-900x600-19204.jpg",
-      "publishedAt": "2024-09-22 13:21:45",
-      "content": ", . Conservation Letters (ConsLet). , \u00ab\u00bb , . , . . , HPAI H5N1 2.3.4.4.b 280 . . , - . \u00ab\u00bb , . , . HPAI H5N1. , , , , . .",
-      "retrievedAt": "2024-09-23 19:05:38.391190",
-      "internal_id": "b61d24c5ee5ddbbb99ea53c22b38da5dd0363367fb5afa1d8b43905537b8062c",
-      "publishedAtLabel": "Sep 22"
-    },
-    {
-      "id": 13840,
-      "query": [
-        "pertussis"
-      ],
-      "source_id": "cbc-news",
-      "source_name": "CBC News",
-      "author": null,
-      "title": "What to do if you or your kid gets COVID-19 this fall",
-      "description": "More than four years into the COVID-19 pandemic, core messaging remains the same: stay home if you feel sick.",
-      "url": "https://www.cbc.ca/news/canada/ottawa/what-to-do-if-you-or-your-kid-gets-covid-19-this-fall-1.7328679",
-      "urlToImage": "https://i.cbc.ca/1.6666565.1726794553!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/covid-que-schools-20210831.jpg",
-      "publishedAt": "2024-09-22 08:00:00",
-      "content": "As the weather begins to cool in Ottawa and schools settle into the new academic year, cases of respiratory illnesses are expected to rise. COVID-19, the fly, whooping cough (pertussis) and respirat\u2026 [+3445 chars]",
-      "retrievedAt": "2024-09-23 19:05:37.699660",
-      "internal_id": "10ed44df7838c8161e04c3b49ba659a2487a8b60f3de22bbf945bf89dcfb2372",
-      "publishedAtLabel": "Sep 22"
     }
   ]
 }
