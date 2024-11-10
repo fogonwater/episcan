@@ -1,8 +1,224 @@
 {
-  "last_updated": "2024-11-10 07:06",
-  "count_articles_total": 1271,
-  "count_articles_new": 5,
+  "last_updated": "2024-11-10 19:05",
+  "count_articles_total": 1276,
+  "count_articles_new": 12,
   "articles": [
+    {
+      "id": 15396,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Number of confirmed measles cases in New Brunswick rises to 25",
+      "description": "There have been 25 confirmed measles cases in New Brunswick since October after the identification of 11 new cases, according to a news release Saturday from Public Health.",
+      "url": "https://www.cbc.ca/news/canada/new-brunswick/nov-9-measles-update-1.7379486",
+      "urlToImage": "https://i.cbc.ca/1.7379501.1731174089!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/measles-bulletin-bc-20240304.jpg",
+      "publishedAt": "2024-11-09 18:55:33",
+      "content": "There have been 25 confirmed measles cases in New Brunswick since October after the identification of 11 new cases, according to a news release Saturday from Public Health. The new cases are located\u2026 [+1852 chars]",
+      "retrievedAt": "2024-11-10 19:05:53.306821",
+      "internal_id": "7fd96700d81514beb919771b04d72d545c3bcc2ad476eab5fbe05b81eb2c84cb",
+      "publishedAtLabel": "Nov 9"
+    },
+    {
+      "id": 15399,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Willian Matos",
+      "title": "Lei que prev\u00ea contrata\u00e7\u00e3o de 800 agentes de sa\u00fade \u00e9 publicada no DODF",
+      "description": "Os 800 novos profissionais v\u00e3o se somar aos 150 j\u00e1 convocados em abril deste ano no combate \u00e0 dengue na capital, que sofreu com a doen\u00e7a",
+      "url": "https://www.metropoles.com/distrito-federal/lei-que-preve-contratacao-de-800-agentes-de-saude-e-publicada-no-dodf",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/10/02175036/agente-saude.jpeg",
+      "publishedAt": "2024-11-09 18:44:53",
+      "content": "A contrata\u00e7\u00e3o de novos agentes de sa\u00fade sancionada pelo governador Ibaneis Rocha (MDB) foi publicada em edi\u00e7\u00e3o extra do Di\u00e1rio Oficial do Distrito Federal (DODF) nessa sexta-feira (8/11). Os profissi\u2026 [+1768 chars]",
+      "retrievedAt": "2024-11-10 19:05:53.971229",
+      "internal_id": "626dafdb94ee1441d91ed5a16ad1d7d7fb0f4071da7ff49812f0f275a2d0f6d6",
+      "publishedAtLabel": "Nov 9"
+    },
+    {
+      "id": 15397,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Overclockers.ru",
+      "author": null,
+      "title": "\u041d\u0430 \u0432\u043e\u0441\u0442\u043e\u0447\u043d\u043e\u043c \u043f\u043e\u0431\u0435\u0440\u0435\u0436\u044c\u0435 \u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u0438 \u043d\u0430\u0431\u043b\u044e\u0434\u0430\u044e\u0442 \u0433\u0438\u0431\u0435\u043b\u044c \u0431\u0443\u0440\u0435\u0432\u0435\u0441\u0442\u043d\u0438\u043a\u043e\u0432, \u0432\u044b\u0431\u0440\u0430\u0441\u044b\u0432\u0430\u0435\u043c\u044b\u0445 \u043d\u0430 \u043f\u043b\u044f\u0436\u0438",
+      "description": "\u041a\u0430\u0436\u0434\u0443\u044e \u0432\u0435\u0441\u043d\u0443 \u0431\u0443\u0440\u0435\u0432\u0435\u0441\u0442\u043d\u0438\u043a\u0438 \u043f\u0440\u0435\u043e\u0434\u043e\u043b\u0435\u0432\u0430\u044e\u0442 \u043e\u043a\u043e\u043b\u043e 15 000 \u043a\u0438\u043b\u043e\u043c\u0435\u0442\u0440\u043e\u0432, \u0432\u043e\u0437\u0432\u0440\u0430\u0449\u0430\u044f\u0441\u044c \u0432 \u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u044e. \u0412 \u044d\u0442\u043e\u043c \u0433\u043e\u0434\u0443 \u0438\u0445 \u043c\u0438\u0433\u0440\u0430\u0446\u0438\u044f \u043e\u0431\u0435\u0440\u043d\u0443\u043b\u0430\u0441\u044c \u0442\u0440\u0430\u0433\u0435\u0434\u0438\u0435\u0439. \u0423\u0447\u0435\u043d\u044b\u0435 \u043f\u043e\u043a\u0430 \u043d\u0435 \u043c\u043e\u0433\u0443\u0442 \u0442\u043e\u0447\u043d\u043e \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u0438\u0442\u044c \u043f\u0440\u0438\u0447\u0438\u043d\u044b \u0438 \u043c\u0430\u0441\u0448\u0442\u0430\u0431\u044b \u0433\u0438\u0431\u0435\u043b\u0438 \u043f\u0442\u0438\u0446.",
+      "url": "https://overclockers.ru/blog/Global_Chronicles/show/190237/Tysyachi-mertvyh-burevestnikov-na-plyazhah-Avstralii-prichiny-gibeli-poka-neyasny",
+      "urlToImage": "https://overclockers.ru/st/legacy/blog/430440/584246_O.JPG",
+      "publishedAt": "2024-11-09 17:20:42",
+      "content": ". , , . , . 15 000 , . . - , . , . , , . , , , , . Adrift Lab , , . , , , . , . 2013 , - . , . , , , . , , . , . . H5N1, . . , - - , . . , . .",
+      "retrievedAt": "2024-11-10 19:05:53.683360",
+      "internal_id": "f1cb6bd59016944bc402250ea5b4f3918297d8ed4ed2b7d78e3ef83ccc9325f6",
+      "publishedAtLabel": "Nov 9"
+    },
+    {
+      "id": 15400,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Antaranews.com",
+      "author": "Hana Dewi, Raka Adji",
+      "title": "Indonesia promotes dengue vaccination amid rainy season",
+      "description": "As Indonesia enters the rainy season, the Ministry of Health is promoting comprehensive dengue vaccination to curb dengue fever cases. Agus Handito, a ...",
+      "url": "https://en.antaranews.com/news/333585/indonesia-promotes-dengue-vaccination-amid-rainy-season",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2024/09/20/InShot_20240920_113508128.jpg",
+      "publishedAt": "2024-11-09 16:18:48",
+      "content": "Jakarta (ANTARA) - As Indonesia enters the rainy season, the Ministry of Health is promoting comprehensive dengue vaccination to curb dengue fever cases.Agus Handito, a representative of the minist\u2026 [+1766 chars]",
+      "retrievedAt": "2024-11-10 19:05:54.014639",
+      "internal_id": "c3563455cc1a7f1e4cc629ae03d55a01980fdf285c795f3d4173e4b6ba3427f7",
+      "publishedAtLabel": "Nov 9"
+    },
+    {
+      "id": 15398,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Interia.pl",
+      "author": "Daniel G\u00f3recki",
+      "title": "H5N1 wymyka si\u0119 statystyce. Choruje wi\u0119cej os\u00f3b, ni\u017c si\u0119 wydawa\u0142o",
+      "description": "\u015awiatowa Organizacja Zdrowia ju\u017c w kwietniu wyrazi\u0142a zaniepokojenie rozprzestrzenianiem si\u0119 ptasiej grypy H5N1 na nowe gatunki, w tym ludzi, bo mowa o chorobie o niezwykle wysokiej \u015bmiertelno\u015bci. Nowe badanie ameryka\u0144skiego CDC sugeruje za\u015b, \u017ce aktualnie chor\u2026",
+      "url": "https://geekweek.interia.pl/nauka/news-h5n1-wymyka-sie-statystyce-choruje-wiecej-osob-niz-sie-wydaw,nId,7852998",
+      "urlToImage": "https://i.iplsc.com/-/000GNUPFE0T447OU-C461-F4.jpg",
+      "publishedAt": "2024-11-09 11:56:03",
+      "content": "Przypomnijmy kr\u00f3tko, e obecna epidemia ptasiej grypy rozpocza si w 2020 r. i doprowadzia do mierci dziesitek milion\u00f3w sztuk drobiu, a zaraone s take dzikie ptactwo oraz ssaki morskie i ldowe (do list\u2026 [+3061 chars]",
+      "retrievedAt": "2024-11-10 19:05:53.743953",
+      "internal_id": "f1137608aaabc4354acf8a94708dbecef2180f1334b5f930e77619678cc93f3d",
+      "publishedAtLabel": "Nov 9"
+    },
+    {
+      "id": 15395,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "Over 13,000 dogs, cats in Sarawak vaccinated this year to prevent rabies",
+      "description": "SEREMBAN: The Veterinary Services Department has vaccinated 13,592 dogs and 165 cats in Sarawak for rabies disease prevention from January to October of this year. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2024/11/09/over-13000-dogs-cats-in-sarawak-vaccinated-this-year-to-prevent-rabies",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/11/09/3008711.JPG",
+      "publishedAt": "2024-11-09 10:51:00",
+      "content": "SEREMBAN: The Veterinary Services Department has vaccinated 13,592 dogs and 165 cats in Sarawak for rabies disease prevention from January to October of this year. Its director-general Dr Akma Ngah \u2026 [+2479 chars]",
+      "retrievedAt": "2024-11-10 19:05:53.025286",
+      "internal_id": "4ad409523941b1781436f98f4b4c4ad6e03a4a55f41231fd1da2ee058f8e6f4b",
+      "publishedAtLabel": "Nov 9"
+    },
+    {
+      "id": 15406,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Gizmodo.com",
+      "author": "Lucas Handley",
+      "title": "Leptospirosis: Conoce los s\u00edntomas de una infecci\u00f3n que ya podr\u00eda afectar a voluntarios en Valencia",
+      "description": "La leptospirosis, una infecci\u00f3n que se transmite en \u00e1reas con agua estancada o contaminada, podr\u00eda haber alcanzado a dos voluntarios que participaron en las labores de limpieza tras la reciente DANA en Valencia.",
+      "url": "https://es.gizmodo.com/leptospirosis-conoce-los-sintomas-de-una-infeccion-que-ya-podria-afectar-a-voluntarios-en-valencia-2000134379",
+      "urlToImage": "https://es.gizmodo.com/app/uploads/2024/11/Diseno-sin-titulo-19-1.jpg",
+      "publishedAt": "2024-11-09 10:29:29",
+      "content": "La Direcci\u00f3n General de Salud P\u00fablica ha reportado dos casos probables de esta infecci\u00f3n bacteriana, que suelen transmitirse a trav\u00e9s del contacto con agua o suelos contaminados por orina animal. A c\u2026 [+3701 chars]",
+      "retrievedAt": "2024-11-10 19:05:55.675435",
+      "internal_id": "bb57919a7e964aa4ff4de5b8a05cdc6fe9341d614b466472a5c684b34c8455a5",
+      "publishedAtLabel": "Nov 9"
+    },
+    {
+      "id": 15401,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "al-jazeera-english",
+      "source_name": "Al Jazeera English",
+      "author": "Al Jazeera",
+      "title": "Nearly 380,000 people displaced by South Sudan floods, UN says",
+      "description": "A surge in malaria is reported in several states and is overwhelming the health system, according to a UN agency.",
+      "url": "https://www.aljazeera.com/news/2024/11/9/nearly-380000-people-displaced-by-south-sudan-floods-un-says",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/11/AFP__20230322__338Q2KW__v1__HighRes__SsudanClimateFlood-1731145723.jpg?resize=1920%2C1440",
+      "publishedAt": "2024-11-09 10:21:54",
+      "content": "Flooding in South Sudan has displaced more than 379,000 people, according to a United Nations update that warned about a surge in malaria. Aid agencies have said the worlds youngest country, highly \u2026 [+1746 chars]",
+      "retrievedAt": "2024-11-10 19:05:54.547369",
+      "internal_id": "d6e600e50e382cefc49116c537dc15e3ec04edc3042a7cb57512ac3331775da1",
+      "publishedAtLabel": "Nov 9"
+    },
+    {
+      "id": 15404,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "AFP",
+      "title": "South Sudan floods affect 1.4 million, displace 379,000: UN",
+      "description": "Devastating flooding in South Sudan is affecting around 1.4 million people, with more than 379,000 displaced, according to a United Nations update that warned about an upsurge in malaria. The United Nations Office for the Coordination of Humanitarian Affairs \u2026",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/south-sudan-floods-affect-1-4-million-displace-379000-un/articleshow/115110305.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-115110410,width-1070,height-580,imgsize-469205,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-11-09 09:00:56",
+      "content": "10 reasons why Indian Thali is considered the greenest",
+      "retrievedAt": "2024-11-10 19:05:54.595822",
+      "internal_id": "6a8556270f0470e856b2c1d8a0a277dac2d6c770db2a33229f646fde791327a0",
+      "publishedAtLabel": "Nov 9"
+    },
+    {
+      "id": 15405,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Digital Journal",
+      "author": "AFP",
+      "title": "South Sudan floods affect 1.4 million, displace 379,000: UN",
+      "description": "Devastating flooding in South Sudan is affecting around 1.4 million people, with more than 379,000 displaced, according to a United Nations update that warned about an upsurge in malaria. Aid agencies have said that the world\u2019s youngest country, highly vulner\u2026",
+      "url": "https://www.digitaljournal.com/world/south-sudan-floods-affect-1-4-million-displace-379000-un/article",
+      "urlToImage": "https://www.digitaljournal.com/wp-content/uploads/2024/11/ac339ff86b9c372cf013b7726d9832d4de8ca9dd.jpg",
+      "publishedAt": "2024-11-09 08:43:15",
+      "content": "South Sudan is frequently hit by flooding - Copyright AFP Banaras KHAN Devastating flooding in South Sudan is affecting around 1.4 million people, with more than 379,000 displaced, according to a Un\u2026 [+2432 chars]",
+      "retrievedAt": "2024-11-10 19:05:54.602402",
+      "internal_id": "8aa596856eb28266d4fcecece2dd2ec1e9b7687bb7639ea97ac75324a7c5923e",
+      "publishedAtLabel": "Nov 9"
+    },
+    {
+      "id": 15402,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "International Business Times",
+      "author": "AFP News",
+      "title": "South Sudan Floods Affect 1.4 Million, Displace 379,000: UN",
+      "description": "Devastating flooding in South Sudan is affecting around 1.4 million people, with more than 379,000 displaced, according to a United Nations update that warned about an upsurge in malaria.",
+      "url": "https://www.ibtimes.com/south-sudan-floods-affect-14-million-displace-379000-un-3750274",
+      "urlToImage": "https://d.ibtimes.com/en/full/4560424/south-sudan-frequently-hit-flooding.jpg",
+      "publishedAt": "2024-11-09 08:42:15",
+      "content": "Devastating flooding in South Sudan is affecting around 1.4 million people, with more than 379,000 displaced, according to a United Nations update that warned about an upsurge in malaria. Aid agenci\u2026 [+2327 chars]",
+      "retrievedAt": "2024-11-10 19:05:54.566121",
+      "internal_id": "ae0fb2694aa720dacd6a31b35f2b2f27f4b30add82c7de97401d0bf2b7795ab0",
+      "publishedAtLabel": "Nov 9"
+    },
+    {
+      "id": 15403,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "nrk",
+      "source_name": "NRK",
+      "author": "NRK",
+      "title": "Flom har drevet hundretusener p\u00e5 flukt i S\u00f8r-Sudan",
+      "description": "1,4 millioner mennesker i S\u00f8r-Sudan er rammet av flom, if\u00f8lge FNs n\u00f8dhjelpskontor (Ocha). Flommen har drevet 379.000 mennesker p\u00e5 flukt, og det er registrert \u00f8kt spredning av malaria i de flomrammede omr\u00e5dene. S\u00f8r-Sudan ble ogs\u00e5 rammet av flom i 2019 og i 202\u2026",
+      "url": "https://www.nrk.no/nyheter/flom-har-drevet-hundretusener-pa-flukt-i-sor-sudan--1.17119165",
+      "urlToImage": "https://static.nrk.no/nrkno/serum/2.0.513/common/img/default.jpg",
+      "publishedAt": "2024-11-09 08:24:51",
+      "content": "1,4 millioner mennesker i S\u00f8r-Sudan er rammet av flom, if\u00f8lge FNs n\u00f8dhjelpskontor (Ocha). Flommen har drevet 379.000 mennesker p\u00e5 flukt, og det er registrert \u00f8kt spredning av malaria i de flomrammed\u2026 [+119 chars]",
+      "retrievedAt": "2024-11-10 19:05:54.588697",
+      "internal_id": "9dfbc4b398610de1a80e2d062eec035c41be7cb07625e5f612c2f910d6b6838e",
+      "publishedAtLabel": "Nov 9"
+    },
     {
       "id": 15393,
       "query": [
@@ -22810,133 +23026,6 @@
       "content": "Dog bites and scratches account for 99 per cent of human rabies cases. [Courtesy] While dogs are often celebrated as man's best friend, they can also pose a deadly risk. In Kenya, rabies claims an \u2026 [+5012 chars]",
       "retrievedAt": "2024-10-01 07:06:35.848423",
       "internal_id": "d10f5e13f18b2978569d000f8a7cfbc1127cf8e5a32953a2305330d40b201a19",
-      "publishedAtLabel": "Sep 29"
-    },
-    {
-      "id": 14124,
-      "query": [
-        "rabies"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "TNN",
-      "title": "State sets goal to end rabies deaths by \u201930",
-      "description": "Panaji: Aligning with a \ue814global disease-fighting goal, the directorate of health services (DHS) has set the target to eliminate human \ue814deaths caused b.",
-      "url": "https://timesofindia.indiatimes.com/city/goa/state-sets-goal-to-end-rabies-deaths-by-30/articleshow/113793081.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-09-29 18:39:03",
-      "content": "10 spotted animals and their distinct markings",
-      "retrievedAt": "2024-09-30 19:05:24.961068",
-      "internal_id": "743a021643863a86ee3aba70a0b9033dc9b794f8b45903ccf6171a7c5a97c308",
-      "publishedAtLabel": "Sep 29"
-    },
-    {
-      "id": 14126,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Shtfplan.com",
-      "author": "Mac Slavo",
-      "title": "The \u201cCluster\u201d of Possible Human Bird Flu Infections Has Expanded to 8",
-      "description": "A cluster of possible bird flu infections in Missouri has grown to include eight people. These eight could very well represent what may be the first examples of person-to-person transmission of the H5N1 avian influenza in the United States, the Centers for Di\u2026",
-      "url": "https://www.shtfplan.com/headline-news/the-cluster-of-possible-human-bird-flu-infections-has-expanded-to-8",
-      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2024/05/birdflu1.jpg",
-      "publishedAt": "2024-09-29 17:30:46",
-      "content": "A cluster of possible bird flu infections in Missouri has grown to include eight people. These eight could very well represent the first examples of person-to-person transmission of the H5N1 avian in\u2026 [+2323 chars]",
-      "retrievedAt": "2024-09-30 19:05:25.942322",
-      "internal_id": "b36641378ed00504b285e3199c5223c57d94ed8d2b6243e12500eb6de41ca933",
-      "publishedAtLabel": "Sep 29"
-    },
-    {
-      "id": 14129,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Gazeta.ru",
-      "author": "\u0413\u0430\u0437\u0435\u0442\u0430.Ru",
-      "title": "\u0412 \u0412\u041e\u0417 \u0440\u0430\u0441\u0441\u043a\u0430\u0437\u0430\u043b\u0438 \u043e \u0441\u043b\u0443\u0447\u0430\u044f \u0441 \u043f\u043e\u0434\u043e\u0437\u0440\u0435\u043d\u0438\u0435\u043c \u043d\u0430 \u043e\u0441\u043f\u0443 \u043e\u0431\u0435\u0437\u044c\u044f\u043d \u0432 \u0410\u0444\u0440\u0438\u043a\u0435 \u0441 \u043d\u0430\u0447\u0430\u043b\u0430 2024 \u0433\u043e\u0434\u0430",
-      "description": "\u0411\u043e\u043b\u0435\u0435 31 \u0442\u044b\u0441. \u0441\u043b\u0443\u0447\u0430\u0435\u0432 \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0430\u043d\u0438\u044f \u0441 \u043f\u043e\u0434\u043e\u0437\u0440\u0435\u043d\u0438\u0435\u043c \u043d\u0430 mpox (\u043d\u043e\u0432\u043e\u0435 \u043d\u0430\u0438\u043c\u0435\u043d\u043e\u0432\u0430\u043d\u0438\u0435 \u043e\u0441\u043f\u044b \u043e\u0431\u0435\u0437\u044c\u044f\u043d) \u0432\u044b\u044f\u0432\u0438\u043b\u0438 \u0432 \u0410\u0444\u0440\u0438\u043a\u0435 \u0441 1 \u044f\u043d\u0432\u0430\u0440\u044f \u043f\u043e 22 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2024 \u0433\u043e\u0434\u0430. \u041e\u0431 \u044d\u0442\u043e\u043c \u0441\u043e\u043e\u0431\u0449\u0430\u0435\u0442\u0441\u044f \u043d\u0430 \u0441\u0430\u0439\u0442\u0435 \u0412\u0441\u0435\u043c\u0438\u0440\u043d\u043e\u0439 \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u0438 \u0437\u0434\u0440\u0430\u0432\u043e\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f (\u0412\u041e\u0417). \u0412 \u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0446\u0438\u0438 ...",
-      "url": "https://www.gazeta.ru/social/news/2024/09/29/24035059.shtml",
-      "urlToImage": "https://img.gazeta.ru/files3/968/14991968/2022-05-23T182141Z_475247910_RC25DU95S1NL_RTRMADP_3_HEALTH-MONKEYPOX-pic_32ratio_900x600-900x600-55005.jpg",
-      "publishedAt": "2024-09-29 13:35:21",
-      "content": "31 . mpox ( ) 1 22 2024 . (). , 2024 31 427 mpox. \u2014 27 103 . , 123 106 310 . , mpox . () , 88 . $21,4 2024 . .",
-      "retrievedAt": "2024-09-30 19:05:28.068294",
-      "internal_id": "31cfb96cd5e031c6c53fbc9e5c8dcca9986cbee7b54b7afd9677695e58e37c4a",
-      "publishedAtLabel": "Sep 29"
-    },
-    {
-      "id": 14128,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Tass.ru",
-      "author": null,
-      "title": "\u0412 \u0410\u0444\u0440\u0438\u043a\u0435 \u0432\u044b\u044f\u0432\u0438\u043b\u0438 31 \u0442\u044b\u0441. \u0441\u043b\u0443\u0447\u0430\u0435\u0432 \u0441 \u043f\u043e\u0434\u043e\u0437\u0440\u0435\u043d\u0438\u0435\u043c \u043d\u0430 mpox \u0441 \u043d\u0430\u0447\u0430\u043b\u0430 \u0433\u043e\u0434\u0430",
-      "description": "\u0417\u0430\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u044b \u0431\u043e\u043b\u0435\u0435 840 \u043b\u0435\u0442\u0430\u043b\u044c\u043d\u044b\u0445 \u0438\u0441\u0445\u043e\u0434\u043e\u0432, \u043f\u0440\u0438\u0447\u0438\u043d\u043e\u0439 \u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u043c\u043e\u0433\u043b\u0430 \u043f\u043e\u0441\u043b\u0443\u0436\u0438\u0442\u044c \u044d\u0442\u0430 \u0431\u043e\u043b\u0435\u0437\u043d\u044c, \u0441\u043e\u043e\u0431\u0449\u0438\u043b\u0438 \u0432 \u0412\u041e\u0417",
-      "url": "https://tass.ru/obschestvo/21989865",
-      "urlToImage": "https://cdn-storage-media.tass.ru/thumb/ru/obschestvo/21989865?u=2024-09-29T13:21:15.571295",
-      "publishedAt": "2024-09-29 13:21:15",
-      "content": ", 29 . //. 31 . mpox ( ) 840 , , 1 22 2024 . (). , 31 427 mpox, 844 . 16 22 2 085, 34 . 402 . mpox () - 27 103 838 . 1 2022 31 2024 123 106 310 , 234 . mpox 2022 11 2023 . , 14 2024 . Mpox -\u2026 [+12 chars]",
-      "retrievedAt": "2024-09-30 19:05:27.932262",
-      "internal_id": "8044e60e22c2cc27d80ae91c10ff02a191b3325ce0f962c0717276be7249cb00",
-      "publishedAtLabel": "Sep 29"
-    },
-    {
-      "id": 14127,
-      "query": [
-        "dengue",
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Catracalivre.com.br",
-      "author": "Andr\u00e9 Nicolau",
-      "title": "MPox, Coqueluche e dengue: como evitar essas doen\u00e7as no Brasil",
-      "description": "Muitas doen\u00e7as acabam chegando ao conhecimento da popula\u00e7\u00e3o apenas quando j\u00e1 est\u00e1 em surto em determinado pa\u00eds ou regi\u00e3o, ou quando \u00e9 registrado \u00f3bito e",
-      "url": "https://catracalivre.com.br/saude-bem-estar/como-evitar-essas-doencas-no-brasil/",
-      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1280,h=720,fit=cover,format=jpeg/wp-content/uploads/2022/03/campanha-vacinacao-sarampo.jpg",
-      "publishedAt": "2024-09-29 11:01:13",
-      "content": "Minist\u00e9rio da Sa\u00fade reverteu tend\u00eancia de queda nas coberturas vacinais nos \u00faltimos anos. Como evitar essas doen\u00e7as no Brasil? User7565abab_575/istock - User7565abab_575/istock Muitas doen\u00e7as acabam\u2026 [+4907 chars]",
-      "retrievedAt": "2024-09-30 19:05:26.396549",
-      "internal_id": "284b02280b08ff4e594a499b1a8efeb1a6c0464631d182a540fd268907499e61",
-      "publishedAtLabel": "Sep 29"
-    },
-    {
-      "id": 14125,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Antaranews.com",
-      "author": "Dewa W, Kenzu",
-      "title": "Indonesia's Bali intensifies rabies vaccination for pets",
-      "description": "The Bali government is accelerating the vaccination of dogs and cats to prevent the transmission of the rabies virus in the province. &quot;We must make ...",
-      "url": "https://en.antaranews.com/news/327715/indonesias-bali-intensifies-rabies-vaccination-for-pets",
-      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2024/09/29/IMG_20240929_113136.jpg",
-      "publishedAt": "2024-09-29 08:09:30",
-      "content": "Denpasar, Bali (ANTARA) - The Bali government is accelerating the vaccination of dogs and cats to prevent the transmission of the rabies virus in the province.\"We must make Bali rabies-free,\" Bali's \u2026 [+1563 chars]",
-      "retrievedAt": "2024-09-30 19:05:25.023338",
-      "internal_id": "f88760feb3afc552efdeaf202dcd833c2c717f0007f02d68aa979775b32bf48c",
-      "publishedAtLabel": "Sep 29"
-    },
-    {
-      "id": 14130,
-      "query": [
-        "leptospirosis"
-      ],
-      "source_id": null,
-      "source_name": "NDTV News",
-      "author": null,
-      "title": "Punjab Chief Minister Bhagwant Mann Diagnosed With Leptospirosis",
-      "description": "Punjab Chief Minister Bhagwant Mann was on Saturday diagnosed with bacterial infection leptospirosis, with doctors saying he is being given antibiotics and his vitals are \"completely stable\".",
-      "url": "https://www.ndtv.com/chandigarh-news/punjab-cm-bhagwant-mann-diagnosed-with-leptospirosis-6675554",
-      "urlToImage": "https://c.ndtvimg.com/2024-07/ba1eqpao_bhagwant-mann_625x300_25_July_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-      "publishedAt": "2024-09-29 07:15:35",
-      "content": "Punjab Chief Minister Bhagwant Mann was admitted to the Fortis Hospital, Mohali. (File) Chandigarh: Punjab Chief Minister Bhagwant Mann was on Saturday diagnosed with bacterial infection leptospiros\u2026 [+1620 chars]",
-      "retrievedAt": "2024-09-30 19:05:28.540483",
-      "internal_id": "de2c3109f6ab8336ee7dbcdf3d8013e2c4e684d60123990760058d931a2dd580",
       "publishedAtLabel": "Sep 29"
     }
   ]

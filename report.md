@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 5
-- **Last harvest:** 2024-11-10 07:06
-- **Most recent article:** 2024-11-09 05:00:00
+- **New articles in last harvest:** 12
+- **Last harvest:** 2024-11-10 19:05
+- **Most recent article:** 2024-11-09 18:55:33
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-40 | 24-41 | 24-42 | 24-43 | 24-44 | 24-45 | Total |
 |--|-|-|-|-|-|-|-|
-| mpox | 127 | 42 | 81 | 131 | 75 | 63 | 519 |
-| dengue | 50 | 35 | 50 | 53 | 31 | 29 | 248 |
-| h5n1 | 50 | 10 | 18 | 12 | 61 | 34 | 185 |
-| malaria | 10 | 13 | 18 | 58 | 16 | 21 | 136 |
-| rabies | 28 | 6 | 7 | 3 | 10 | 4 | 58 |
+| mpox | 124 | 42 | 81 | 131 | 75 | 63 | 516 |
+| dengue | 49 | 35 | 50 | 53 | 31 | 31 | 249 |
+| h5n1 | 49 | 10 | 18 | 12 | 61 | 36 | 186 |
+| malaria | 10 | 13 | 18 | 58 | 16 | 26 | 141 |
+| rabies | 26 | 6 | 7 | 3 | 10 | 5 | 57 |
 | zika | 3 | 4 | 6 | 6 | 3 | 9 | 31 |
-| measles | 5 | 5 | 3 | 1 | 13 | 2 | 29 |
+| measles | 5 | 5 | 3 | 1 | 13 | 3 | 30 |
 | meningitis | 11 | 2 | 1 | 6 | 3 | 5 | 28 |
 | chikungunya | 3 | 3 | 4 | 7 | 2 | 2 | 21 |
 | pertussis | 2 | 2 | 9 | 3 | 1 | 3 | 20 |
 | hpai | 2 | 1 | 2 | 2 | 7 | 4 | 18 |
-| leptospirosis | 3 | 1 | 1 | 0 | 3 | 8 | 16 |
+| leptospirosis | 2 | 1 | 1 | 0 | 3 | 9 | 16 |
 | typhoid | 1 | 0 | 1 | 3 | 4 | 1 | 10 |
 | yersinia | 1 | 1 | 0 | 0 | 3 | 0 | 5 |
 | shigellosis | 1 | 3 | 0 | 1 | 0 | 0 | 5 |
@@ -58,6 +58,8 @@ Source: [News API](https://newsapi.org/)
 - [Domino’s Pizza customers may have been exposed to typhoid fever bacteria](https://www.foodsafetynews.com/2024/11/dominos-pizza-customers-may-have-been-exposed-to-typhoid-fever-bacteria/) (Food Safety News)
 
 ## 24-45 (rabies)
+
+- [Over 13,000 dogs, cats in Sarawak vaccinated this year to prevent rabies](https://www.thestar.com.my/news/nation/2024/11/09/over-13000-dogs-cats-in-sarawak-vaccinated-this-year-to-prevent-rabies) (The Star Online)
 
 - [JB neutering drive from January](https://www.thestar.com.my/news/nation/2024/11/07/jb-neutering-drive-from-january) (The Star Online)
 
@@ -217,11 +219,23 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-45 (measles)
 
+- [Number of confirmed measles cases in New Brunswick rises to 25](https://www.cbc.ca/news/canada/new-brunswick/nov-9-measles-update-1.7379486) (CBC News)
+
 - [Trump May End Water Fluoridation On Day One, Will Consider Banning Vaccines](https://www.wonkette.com/p/trump-may-end-water-fluoridation) (Wonkette.com)
 
 - [Trump Thinks America Wants His Perversions (A.B. Stoddard/The Bulwark)](https://www.memeorandum.com/241103/p22) (Memeorandum.com)
 
 ## 24-45 (malaria)
+
+- [Nearly 380,000 people displaced by South Sudan floods, UN says](https://www.aljazeera.com/news/2024/11/9/nearly-380000-people-displaced-by-south-sudan-floods-un-says) (Al Jazeera English)
+
+- [South Sudan floods affect 1.4 million, displace 379,000: UN](https://timesofindia.indiatimes.com/world/rest-of-world/south-sudan-floods-affect-1-4-million-displace-379000-un/articleshow/115110305.cms) (The Times of India)
+
+- [South Sudan floods affect 1.4 million, displace 379,000: UN](https://www.digitaljournal.com/world/south-sudan-floods-affect-1-4-million-displace-379000-un/article) (Digital Journal)
+
+- [South Sudan Floods Affect 1.4 Million, Displace 379,000: UN](https://www.ibtimes.com/south-sudan-floods-affect-14-million-displace-379000-un-3750274) (International Business Times)
+
+- [Flom har drevet hundretusener på flukt i Sør-Sudan](https://www.nrk.no/nyheter/flom-har-drevet-hundretusener-pa-flukt-i-sor-sudan--1.17119165) (NRK)
 
 - [Eindelijk een vaccin tegen malaria, maar in Kameroen loopt het geen storm](https://nos.nl/l/2543761) (Nos.nl)
 
@@ -267,6 +281,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-45 (leptospirosis)
 
+- [Leptospirosis: Conoce los síntomas de una infección que ya podría afectar a voluntarios en Valencia](https://es.gizmodo.com/leptospirosis-conoce-los-sintomas-de-una-infeccion-que-ya-podria-afectar-a-voluntarios-en-valencia-2000134379) (Gizmodo.com)
+
 - [Temporal.- Sanidad señala que la trasmisión de leptospirosis entre personas es "extremadamente rara"](https://www.infosalus.com/salud-investigacion/noticia-temporal-sanidad-senala-trasmision-leptospirosis-personas-extremadamente-rara-20241108174026.html) (Infosalus.com)
 
 - [La Generalitat informa de dos posibles casos de leptospirosis en voluntarios que participan en tareas de limpieza](https://www.elespanol.com/ciencia/salud/20241108/generalitat-informa-posibles-casos-leptospirosis-voluntarios-participan-tareasdelimpieza/899660472_0.html) (Elespanol.com)
@@ -294,6 +310,10 @@ Source: [News API](https://newsapi.org/)
 - [Highly Pathogenic Avian Influenza A(H5N1) Virus Infection in Cats, South Korea, 2023](https://wwwnc.cdc.gov/eid/article/30/12/24-0154_article) (Cdc.gov)
 
 ## 24-45 (h5n1)
+
+- [На восточном побережье Австралии наблюдают гибель буревестников, выбрасываемых на пляжи](https://overclockers.ru/blog/Global_Chronicles/show/190237/Tysyachi-mertvyh-burevestnikov-na-plyazhah-Avstralii-prichiny-gibeli-poka-neyasny) (Overclockers.ru)
+
+- [H5N1 wymyka się statystyce. Choruje więcej osób, niż się wydawało](https://geekweek.interia.pl/nauka/news-h5n1-wymyka-sie-statystyce-choruje-wiecej-osob-niz-sie-wydaw,nId,7852998) (Interia.pl)
 
 - [Bird flu begins its human spread, as health officials scramble to safeguard people and livestock (Carolyn Barber/Fortune)](https://www.memeorandum.com/241108/p113) (Memeorandum.com)
 
@@ -364,6 +384,10 @@ Source: [News API](https://newsapi.org/)
 - [„Der Mensch ist bislang kein guter Wirt“](https://www.faz.net/aktuell/wissen/leben-gene/vogelgrippe-was-der-uebersprung-aufs-schwein-bedeutet-110083432.html) (Faz.net)
 
 ## 24-45 (dengue)
+
+- [Lei que prevê contratação de 800 agentes de saúde é publicada no DODF](https://www.metropoles.com/distrito-federal/lei-que-preve-contratacao-de-800-agentes-de-saude-e-publicada-no-dodf) (Metropoles.com)
+
+- [Indonesia promotes dengue vaccination amid rainy season](https://en.antaranews.com/news/333585/indonesia-promotes-dengue-vaccination-amid-rainy-season) (Antaranews.com)
 
 - [TWiV 1164: Clinical update with Dr. Daniel Griffin](https://www.microbe.tv/twiv/twiv-1164/) (Microbe.tv)
 
@@ -2305,10 +2329,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Rabies, a deadly threat to man's best friend](https://www.standardmedia.co.ke/health/health-science/article/2001503663/rabies-a-deadly-threat-to-mans-best-friend) (Standard Digital)
 
-- [State sets goal to end rabies deaths by ’30](https://timesofindia.indiatimes.com/city/goa/state-sets-goal-to-end-rabies-deaths-by-30/articleshow/113793081.cms) (The Times of India)
-
-- [Indonesia's Bali intensifies rabies vaccination for pets](https://en.antaranews.com/news/327715/indonesias-bali-intensifies-rabies-vaccination-for-pets) (Antaranews.com)
-
 ## 24-40 (pertussis)
 
 - [TWiV 1154: Clinical update with Dr. Daniel Griffin](https://www.microbe.tv/twiv/twiv-1154/) (Microbe.tv)
@@ -2565,12 +2585,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Slow response to mpox a wake-up call](https://www.bangkokpost.com/opinion/opinion/2874488/slow-response-to-mpox-a-wake-up-call) (Bangkok Post)
 
-- [В ВОЗ рассказали о случая с подозрением на оспу обезьян в Африке с начала 2024 года](https://www.gazeta.ru/social/news/2024/09/29/24035059.shtml) (Gazeta.ru)
-
-- [В Африке выявили 31 тыс. случаев с подозрением на mpox с начала года](https://tass.ru/obschestvo/21989865) (Tass.ru)
-
-- [MPox, Coqueluche e dengue: como evitar essas doenças no Brasil](https://catracalivre.com.br/saude-bem-estar/como-evitar-essas-doencas-no-brasil/) (Catracalivre.com.br)
-
 ## 24-40 (meningitis)
 
 - [La nueva vida de Luis Canut, marido de Patricia Pérez, tras haber perdido la visión: carnet de la ONCE y aprendiendo a usar el bastón](https://www.lavozdegalicia.es/noticia/gente/2024/10/05/nueva-vida-luis-canut-marido-patricia-perez-tras-haber-perdido-vision-carnet-once-aprendiendo-usar-baston/00031728120151743807523.htm) (Lavozdegalicia.es)
@@ -2634,8 +2648,6 @@ Source: [News API](https://newsapi.org/)
 - [City records 18 lepto, 12 dengue deaths this year](https://timesofindia.indiatimes.com/city/mumbai/mumbai-faces-surge-in-dengue-and-leptospirosis-deaths-amidst-monsoon/articleshow/113860985.cms) (The Times of India)
 
 - [What Is Leptospirosis: A Hidden Health Risk In India](https://doctor.ndtv.com/living-healthy/what-is-leptospirosis-a-hidden-health-risk-in-india-6682647) (NDTV News)
-
-- [Punjab Chief Minister Bhagwant Mann Diagnosed With Leptospirosis](https://www.ndtv.com/chandigarh-news/punjab-cm-bhagwant-mann-diagnosed-with-leptospirosis-6675554) (NDTV News)
 
 ## 24-40 (hpai)
 
@@ -2743,8 +2755,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Erste Mensch-zu-Mensch-Übertragung? - Neue Vogelgrippe-Fälle in den USA lassen jetzt Schlimmstes befürchten](https://www.focus.de/gesundheit/erste-mensch-zu-mensch-uebertragung-neue-vogelgrippe-faelle-in-den-usa-lassen-jetzt-schlimmstes-befuerchten_cc4f3bd6-86ba-4cb7-8926-6d5493b0ce59.html) (Focus)
 
-- [The “Cluster” of Possible Human Bird Flu Infections Has Expanded to 8](https://www.shtfplan.com/headline-news/the-cluster-of-possible-human-bird-flu-infections-has-expanded-to-8) (Shtfplan.com)
-
 ## 24-40 (dengue)
 
 - [Nuova disinfestazione per Dengue a Fano, incidenza casi scende](https://www.ansa.it/marche/notizie/2024/10/05/nuova-disinfestazione-per-dengue-a-fano-incidenza-casi-scende_97556277-52e9-4333-830a-bbee7cfbd64c.html) (ANSA.it)
@@ -2844,8 +2854,6 @@ Source: [News API](https://newsapi.org/)
 - [Dengue Cases Surge in Guwahati’s Densely Populated Areas](https://thehillstimes.in/guwahati/dengue-cases-surge-in-guwahatis-densely-populated-areas) (Thehillstimes.in)
 
 - [दिल्ली में फिर डराने लगा डेंगू, मरीजों में गिर रहा प्लेटलेट्स काउंट, लिवर-किडनी को भी नुकसान](https://navbharattimes.indiatimes.com/metro/delhi/other-news/delhi-dengue-cases-increasing-platelets-count-also-declining-know-reason-here/articleshow/113796823.cms) (The Times of India)
-
-- [MPox, Coqueluche e dengue: como evitar essas doenças no Brasil](https://catracalivre.com.br/saude-bem-estar/como-evitar-essas-doencas-no-brasil/) (Catracalivre.com.br)
 
 ## 24-40 (chikungunya)
 
