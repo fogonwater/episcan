@@ -1,8 +1,98 @@
 {
-  "last_updated": "2024-11-10 19:05",
-  "count_articles_total": 1276,
-  "count_articles_new": 12,
+  "last_updated": "2024-11-11 07:06",
+  "count_articles_total": 1288,
+  "count_articles_new": 5,
   "articles": [
+    {
+      "id": 15410,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Microbe.tv",
+      "author": "Vincent Racaniello",
+      "title": "TWiV 1165: What doesn't kill us primes our macrophages",
+      "description": "TWiV notes the passing of virologist Diane Griffin, first H5N1 influenza virus in US pigs, Innate immune control of influenza virus interspecies adaptation via IFITM3, and antiviral trained innate immunity in alveolar macrophages after SARS-CoV-2 infection re\u2026",
+      "url": "https://www.microbe.tv/twiv/twiv-1165/",
+      "urlToImage": null,
+      "publishedAt": "2024-11-10 05:00:00",
+      "content": "TWiV notes the passing of virologist Diane Griffin, first H5N1 influenza virus in US pigs, Innate immune control of influenza virus interspecies adaptation via IFITM3, and antiviral trained innate im\u2026 [+1021 chars]",
+      "retrievedAt": "2024-11-11 07:06:45.142074",
+      "internal_id": "56ac3437ebe951d7370166de853d3075307fbf56cefa8b9dce5461cc7cbceea5",
+      "publishedAtLabel": "Nov 10"
+    },
+    {
+      "id": 15408,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "lenta",
+      "source_name": "Lenta",
+      "author": "\u041c\u0430\u0440\u0438\u043d\u0430 \u0421\u043e\u0432\u0438\u043d\u0430",
+      "title": "\u041f\u0435\u0440\u0432\u044b\u0439 \u0441\u043b\u0443\u0447\u0430\u0439 \u0437\u0430\u0440\u0430\u0436\u0435\u043d\u0438\u044f \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u0430 \u043f\u0442\u0438\u0447\u044c\u0438\u043c \u0433\u0440\u0438\u043f\u043f\u043e\u043c \u0432\u044b\u044f\u0432\u0438\u043b\u0438 \u0432 \u041a\u0430\u043d\u0430\u0434\u0435",
+      "description": "\u041f\u0435\u0440\u0432\u044b\u0439 \u043f\u0440\u0435\u0434\u043f\u043e\u043b\u0430\u0433\u0430\u0435\u043c\u044b\u0439 \u0441\u043b\u0443\u0447\u0430\u0439 \u0437\u0430\u0440\u0430\u0436\u0435\u043d\u0438\u044f \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u0430 \u0432\u0438\u0440\u0443\u0441\u043e\u043c \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430 H5 \u0437\u0430\u0444\u0438\u043a\u0441\u0438\u0440\u043e\u0432\u0430\u043b\u0438 \u0432 \u041a\u0430\u043d\u0430\u0434\u0435.\u041e\u0431 \u044d\u0442\u043e\u043c \u0441\u043e\u043e\u0431\u0449\u0438\u043b\u0430 \u043f\u0440\u0435\u0441\u0441-\u0441\u043b\u0443\u0436\u0431\u0430 \u043f\u0440\u0430\u0432\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u0430 \u0411\u0440\u0438\u0442\u0430\u043d\u0441\u043a\u043e\u0439 \u041a\u043e\u043b\u0443\u043c\u0431\u0438\u0438. \u0423\u0442\u043e\u0447\u043d\u044f\u0435\u0442\u0441\u044f, \u0447\u0442\u043e \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0448\u0438\u043c \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u043f\u043e\u0434\u0440\u043e\u0441\u0442\u043e\u043a",
+      "url": "https://lenta.ru/news/2024/11/10/pervyy-sluchay-zarazheniya-cheloveka-ptichim-grippom-vyyavili-v-kanade/",
+      "urlToImage": "https://icdn.lenta.ru/images/2024/11/10/06/20241110060717517/share_243ee819799821afab150ed9a7358fd3.jpg",
+      "publishedAt": "2024-11-10 03:05:00",
+      "content": ": Stringer / Reuters H5 . - . , . . \u00ab , H5\u00bb, . , , , . H5N1, , . H5N1 . .",
+      "retrievedAt": "2024-11-11 07:06:45.058542",
+      "internal_id": "dc38fdc22333c2d19a1de8cb4528a439c1fcd5993d0607f2c8927c5275b3d404",
+      "publishedAtLabel": "Nov 10"
+    },
+    {
+      "id": 15409,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "HuffPost",
+      "author": "Julia Ries",
+      "title": "Experts Weigh In On Bird Flu Concerns, And The Consensus Isn't As Scary As You Might Think",
+      "description": "In 2024, a total of 46 people in the U.S. have been diagnosed with the bird flu after being exposed to either an infected cow or bird.View Entire Post \u203a",
+      "url": "https://www.huffpost.com/entry/bird-flu-h1n5-virus_l_672bc43ae4b01cfbdad3a432",
+      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2024-11/7/22/asset/cdde7a1354c5/sub-buzz-3216-1731019345-1.jpg?crop=2121:1111;0,80%26downsize=1250:*",
+      "publishedAt": "2024-11-10 00:31:02",
+      "content": "In January 2022, health officials detected a H5N1 outbreak in wild birds the first of its kind since 2016, according to the Centers for Disease Control. One month later, H5N1 hit a commercial poultry\u2026 [+1348 chars]",
+      "retrievedAt": "2024-11-11 07:06:45.082885",
+      "internal_id": "6dbef0396c9798b58b424bc2f5c97bb55c75133037e72a11ea5fac77d720f3f5",
+      "publishedAtLabel": "Nov 10"
+    },
+    {
+      "id": 15407,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Punch Editorial Board",
+      "title": "Nigerian children on World Immunisation Day",
+      "description": "Today, Nigeria marks World Immunisation Day with 2.1 million of its children unvaccinated. This means that this huge number of children never received any dose of vaccine against tuberculosis, polio, diphtheria, hepatitis B, measles, and yellow fever. This is\u2026",
+      "url": "https://punchng.com/nigerian-children-on-world-immunisation-day/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2017/03/20184456/immunisation.jpg",
+      "publishedAt": "2024-11-10 00:10:29",
+      "content": "Today, Nigeria marks World Immunisation Day with 2.1 million of its children unvaccinated. This means that this huge number of children never received any dose of vaccine against tuberculosis, polio,\u2026 [+6124 chars]",
+      "retrievedAt": "2024-11-11 07:06:44.536894",
+      "internal_id": "ff138c928e5c97a189b00425faff8b9f1a0c5c928a708bc1e2b9c05096f0fc55",
+      "publishedAtLabel": "Nov 10"
+    },
+    {
+      "id": 15411,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "El Financiero",
+      "author": "Redacci\u00f3n",
+      "title": "\u00bfQu\u00e9 es la leptospirosis, la infecci\u00f3n que amenaza a los afectados por la DANA en Valencia?",
+      "description": "La Conselleria de Sanidad de la Comunidad Valenciana ha informado de dos posibles casos de leptospirosis tras el paso de la DANA.",
+      "url": "https://www.elfinanciero.com.mx/salud/2024/11/09/que-es-la-leptospirosis-la-infeccion-que-amenaza-a-los-afectados-por-la-dana-en-valencia/",
+      "urlToImage": "https://elfinanciero.com.mx/resizer/v2/NGJGFGMJTBEU7MPEKYRSOSYDDQ.jpg?smart=true&auth=370acfb868b412b5e262c6389094d506a44ace6bae8b2307f4dbe1b928895cfd&width=1200&height=630",
+      "publishedAt": "2024-11-09 23:50:42",
+      "content": "En las zonas afectadas por la DANA en Valencia, Espa\u00f1a, ya empiezan manifestarse los primeros efectos en la salud de los damnificados y voluntarios. De acuerdo con autoridades locales, hasta ahora \u2026 [+2843 chars]",
+      "retrievedAt": "2024-11-11 07:06:47.027121",
+      "internal_id": "3299bcdf1f6eafa268127a69aa2abd118603125b3e7f0e8ad23a3e89702b281a",
+      "publishedAtLabel": "Nov 9"
+    },
     {
       "id": 15396,
       "query": [
@@ -23026,6 +23116,133 @@
       "content": "Dog bites and scratches account for 99 per cent of human rabies cases. [Courtesy] While dogs are often celebrated as man's best friend, they can also pose a deadly risk. In Kenya, rabies claims an \u2026 [+5012 chars]",
       "retrievedAt": "2024-10-01 07:06:35.848423",
       "internal_id": "d10f5e13f18b2978569d000f8a7cfbc1127cf8e5a32953a2305330d40b201a19",
+      "publishedAtLabel": "Sep 29"
+    },
+    {
+      "id": 14124,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TNN",
+      "title": "State sets goal to end rabies deaths by \u201930",
+      "description": "Panaji: Aligning with a \ue814global disease-fighting goal, the directorate of health services (DHS) has set the target to eliminate human \ue814deaths caused b.",
+      "url": "https://timesofindia.indiatimes.com/city/goa/state-sets-goal-to-end-rabies-deaths-by-30/articleshow/113793081.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-09-29 18:39:03",
+      "content": "10 spotted animals and their distinct markings",
+      "retrievedAt": "2024-09-30 19:05:24.961068",
+      "internal_id": "743a021643863a86ee3aba70a0b9033dc9b794f8b45903ccf6171a7c5a97c308",
+      "publishedAtLabel": "Sep 29"
+    },
+    {
+      "id": 14126,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Shtfplan.com",
+      "author": "Mac Slavo",
+      "title": "The \u201cCluster\u201d of Possible Human Bird Flu Infections Has Expanded to 8",
+      "description": "A cluster of possible bird flu infections in Missouri has grown to include eight people. These eight could very well represent what may be the first examples of person-to-person transmission of the H5N1 avian influenza in the United States, the Centers for Di\u2026",
+      "url": "https://www.shtfplan.com/headline-news/the-cluster-of-possible-human-bird-flu-infections-has-expanded-to-8",
+      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2024/05/birdflu1.jpg",
+      "publishedAt": "2024-09-29 17:30:46",
+      "content": "A cluster of possible bird flu infections in Missouri has grown to include eight people. These eight could very well represent the first examples of person-to-person transmission of the H5N1 avian in\u2026 [+2323 chars]",
+      "retrievedAt": "2024-09-30 19:05:25.942322",
+      "internal_id": "b36641378ed00504b285e3199c5223c57d94ed8d2b6243e12500eb6de41ca933",
+      "publishedAtLabel": "Sep 29"
+    },
+    {
+      "id": 14129,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Gazeta.ru",
+      "author": "\u0413\u0430\u0437\u0435\u0442\u0430.Ru",
+      "title": "\u0412 \u0412\u041e\u0417 \u0440\u0430\u0441\u0441\u043a\u0430\u0437\u0430\u043b\u0438 \u043e \u0441\u043b\u0443\u0447\u0430\u044f \u0441 \u043f\u043e\u0434\u043e\u0437\u0440\u0435\u043d\u0438\u0435\u043c \u043d\u0430 \u043e\u0441\u043f\u0443 \u043e\u0431\u0435\u0437\u044c\u044f\u043d \u0432 \u0410\u0444\u0440\u0438\u043a\u0435 \u0441 \u043d\u0430\u0447\u0430\u043b\u0430 2024 \u0433\u043e\u0434\u0430",
+      "description": "\u0411\u043e\u043b\u0435\u0435 31 \u0442\u044b\u0441. \u0441\u043b\u0443\u0447\u0430\u0435\u0432 \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0430\u043d\u0438\u044f \u0441 \u043f\u043e\u0434\u043e\u0437\u0440\u0435\u043d\u0438\u0435\u043c \u043d\u0430 mpox (\u043d\u043e\u0432\u043e\u0435 \u043d\u0430\u0438\u043c\u0435\u043d\u043e\u0432\u0430\u043d\u0438\u0435 \u043e\u0441\u043f\u044b \u043e\u0431\u0435\u0437\u044c\u044f\u043d) \u0432\u044b\u044f\u0432\u0438\u043b\u0438 \u0432 \u0410\u0444\u0440\u0438\u043a\u0435 \u0441 1 \u044f\u043d\u0432\u0430\u0440\u044f \u043f\u043e 22 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2024 \u0433\u043e\u0434\u0430. \u041e\u0431 \u044d\u0442\u043e\u043c \u0441\u043e\u043e\u0431\u0449\u0430\u0435\u0442\u0441\u044f \u043d\u0430 \u0441\u0430\u0439\u0442\u0435 \u0412\u0441\u0435\u043c\u0438\u0440\u043d\u043e\u0439 \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u0438 \u0437\u0434\u0440\u0430\u0432\u043e\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f (\u0412\u041e\u0417). \u0412 \u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0446\u0438\u0438 ...",
+      "url": "https://www.gazeta.ru/social/news/2024/09/29/24035059.shtml",
+      "urlToImage": "https://img.gazeta.ru/files3/968/14991968/2022-05-23T182141Z_475247910_RC25DU95S1NL_RTRMADP_3_HEALTH-MONKEYPOX-pic_32ratio_900x600-900x600-55005.jpg",
+      "publishedAt": "2024-09-29 13:35:21",
+      "content": "31 . mpox ( ) 1 22 2024 . (). , 2024 31 427 mpox. \u2014 27 103 . , 123 106 310 . , mpox . () , 88 . $21,4 2024 . .",
+      "retrievedAt": "2024-09-30 19:05:28.068294",
+      "internal_id": "31cfb96cd5e031c6c53fbc9e5c8dcca9986cbee7b54b7afd9677695e58e37c4a",
+      "publishedAtLabel": "Sep 29"
+    },
+    {
+      "id": 14128,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Tass.ru",
+      "author": null,
+      "title": "\u0412 \u0410\u0444\u0440\u0438\u043a\u0435 \u0432\u044b\u044f\u0432\u0438\u043b\u0438 31 \u0442\u044b\u0441. \u0441\u043b\u0443\u0447\u0430\u0435\u0432 \u0441 \u043f\u043e\u0434\u043e\u0437\u0440\u0435\u043d\u0438\u0435\u043c \u043d\u0430 mpox \u0441 \u043d\u0430\u0447\u0430\u043b\u0430 \u0433\u043e\u0434\u0430",
+      "description": "\u0417\u0430\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u044b \u0431\u043e\u043b\u0435\u0435 840 \u043b\u0435\u0442\u0430\u043b\u044c\u043d\u044b\u0445 \u0438\u0441\u0445\u043e\u0434\u043e\u0432, \u043f\u0440\u0438\u0447\u0438\u043d\u043e\u0439 \u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u043c\u043e\u0433\u043b\u0430 \u043f\u043e\u0441\u043b\u0443\u0436\u0438\u0442\u044c \u044d\u0442\u0430 \u0431\u043e\u043b\u0435\u0437\u043d\u044c, \u0441\u043e\u043e\u0431\u0449\u0438\u043b\u0438 \u0432 \u0412\u041e\u0417",
+      "url": "https://tass.ru/obschestvo/21989865",
+      "urlToImage": "https://cdn-storage-media.tass.ru/thumb/ru/obschestvo/21989865?u=2024-09-29T13:21:15.571295",
+      "publishedAt": "2024-09-29 13:21:15",
+      "content": ", 29 . //. 31 . mpox ( ) 840 , , 1 22 2024 . (). , 31 427 mpox, 844 . 16 22 2 085, 34 . 402 . mpox () - 27 103 838 . 1 2022 31 2024 123 106 310 , 234 . mpox 2022 11 2023 . , 14 2024 . Mpox -\u2026 [+12 chars]",
+      "retrievedAt": "2024-09-30 19:05:27.932262",
+      "internal_id": "8044e60e22c2cc27d80ae91c10ff02a191b3325ce0f962c0717276be7249cb00",
+      "publishedAtLabel": "Sep 29"
+    },
+    {
+      "id": 14127,
+      "query": [
+        "dengue",
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Catracalivre.com.br",
+      "author": "Andr\u00e9 Nicolau",
+      "title": "MPox, Coqueluche e dengue: como evitar essas doen\u00e7as no Brasil",
+      "description": "Muitas doen\u00e7as acabam chegando ao conhecimento da popula\u00e7\u00e3o apenas quando j\u00e1 est\u00e1 em surto em determinado pa\u00eds ou regi\u00e3o, ou quando \u00e9 registrado \u00f3bito e",
+      "url": "https://catracalivre.com.br/saude-bem-estar/como-evitar-essas-doencas-no-brasil/",
+      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1280,h=720,fit=cover,format=jpeg/wp-content/uploads/2022/03/campanha-vacinacao-sarampo.jpg",
+      "publishedAt": "2024-09-29 11:01:13",
+      "content": "Minist\u00e9rio da Sa\u00fade reverteu tend\u00eancia de queda nas coberturas vacinais nos \u00faltimos anos. Como evitar essas doen\u00e7as no Brasil? User7565abab_575/istock - User7565abab_575/istock Muitas doen\u00e7as acabam\u2026 [+4907 chars]",
+      "retrievedAt": "2024-09-30 19:05:26.396549",
+      "internal_id": "284b02280b08ff4e594a499b1a8efeb1a6c0464631d182a540fd268907499e61",
+      "publishedAtLabel": "Sep 29"
+    },
+    {
+      "id": 14125,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Antaranews.com",
+      "author": "Dewa W, Kenzu",
+      "title": "Indonesia's Bali intensifies rabies vaccination for pets",
+      "description": "The Bali government is accelerating the vaccination of dogs and cats to prevent the transmission of the rabies virus in the province. &quot;We must make ...",
+      "url": "https://en.antaranews.com/news/327715/indonesias-bali-intensifies-rabies-vaccination-for-pets",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2024/09/29/IMG_20240929_113136.jpg",
+      "publishedAt": "2024-09-29 08:09:30",
+      "content": "Denpasar, Bali (ANTARA) - The Bali government is accelerating the vaccination of dogs and cats to prevent the transmission of the rabies virus in the province.\"We must make Bali rabies-free,\" Bali's \u2026 [+1563 chars]",
+      "retrievedAt": "2024-09-30 19:05:25.023338",
+      "internal_id": "f88760feb3afc552efdeaf202dcd833c2c717f0007f02d68aa979775b32bf48c",
+      "publishedAtLabel": "Sep 29"
+    },
+    {
+      "id": 14130,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": null,
+      "title": "Punjab Chief Minister Bhagwant Mann Diagnosed With Leptospirosis",
+      "description": "Punjab Chief Minister Bhagwant Mann was on Saturday diagnosed with bacterial infection leptospirosis, with doctors saying he is being given antibiotics and his vitals are \"completely stable\".",
+      "url": "https://www.ndtv.com/chandigarh-news/punjab-cm-bhagwant-mann-diagnosed-with-leptospirosis-6675554",
+      "urlToImage": "https://c.ndtvimg.com/2024-07/ba1eqpao_bhagwant-mann_625x300_25_July_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "publishedAt": "2024-09-29 07:15:35",
+      "content": "Punjab Chief Minister Bhagwant Mann was admitted to the Fortis Hospital, Mohali. (File) Chandigarh: Punjab Chief Minister Bhagwant Mann was on Saturday diagnosed with bacterial infection leptospiros\u2026 [+1620 chars]",
+      "retrievedAt": "2024-09-30 19:05:28.540483",
+      "internal_id": "de2c3109f6ab8336ee7dbcdf3d8013e2c4e684d60123990760058d931a2dd580",
       "publishedAtLabel": "Sep 29"
     }
   ]
