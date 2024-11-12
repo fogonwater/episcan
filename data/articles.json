@@ -1,8 +1,404 @@
 {
-  "last_updated": "2024-11-12 07:06",
-  "count_articles_total": 1307,
-  "count_articles_new": 6,
+  "last_updated": "2024-11-12 19:05",
+  "count_articles_total": 1322,
+  "count_articles_new": 22,
   "articles": [
+    {
+      "id": 15435,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": "Melissa Rudy",
+      "title": "Human bird flu case presumed in Canada, teenage patient is hospitalized",
+      "description": "The first presumed human case of avian influenza (H5N1, or bird flu) has been reported in Canada. An infectious disease expert weighs in on potential concerns.",
+      "url": "https://www.foxnews.com/health/human-bird-flu-case-presumed-canada-teenage-patient-hospitalized",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/11/bird-flu-caution-tape.jpg",
+      "publishedAt": "2024-11-11 18:50:13",
+      "content": "The first presumed human case of avian influenza (H5N1, or bird flu) has been reported in Canada. Canada's Health Minister Mark Holland confirmed the report in a post on X. \"To date, there has been\u2026 [+3932 chars]",
+      "retrievedAt": "2024-11-12 19:05:43.589897",
+      "internal_id": "7024ade9a58f66f4f68f1b00891c2eb0cc0e9e677b8e41aaf0a62bf6d0774665",
+      "publishedAtLabel": "Nov 11"
+    },
+    {
+      "id": 15431,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "Elephant seal colony declines one year after avian flu outbreak",
+      "description": "A year after an outbreak of H5N1 killed thousands of elephant seals in Argentina, only about a third of the seals normally expected here returned, scientists estimate.",
+      "url": "https://www.sciencedaily.com/releases/2024/11/241111123200.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2024-11-11 17:32:00",
+      "content": "The sounds of barking elephant seals are again in the air along the breeding grounds of Pen\u00ednsula Vald\u00e9s, Argentina -- but it's quieter. Almost exactly a year after a massive outbreak of H5N1 highly \u2026 [+5380 chars]",
+      "retrievedAt": "2024-11-12 19:05:43.443769",
+      "internal_id": "06015e893ea575f36ba85065b9250c54b1ca7a2214ac80874493619d58b8fb8f",
+      "publishedAtLabel": "Nov 11"
+    },
+    {
+      "id": 15432,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Shtfplan.com",
+      "author": "Mac Slavo",
+      "title": "Canada Reports Its First Case Of Human Bird Flu",
+      "description": "Canada has just reported its first case of human bird flu. A teenager in British Columbia has been hospitalized with a \"presumed\" case of H5N1 bird flu. This is the first case in the country stemming from the most recent outbreak.",
+      "url": "https://www.shtfplan.com/member-exclusive/canada-reports-its-first-case-of-human-bird-flu",
+      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2024/07/birdflu.jpg",
+      "publishedAt": "2024-11-11 16:00:42",
+      "content": "Commenting Policy: Some comments on this web site are automatically moderated through our Spam protection systems. Please be patient if your comment isn\u2019t immediately available. We\u2019re not trying to \u2026 [+423 chars]",
+      "retrievedAt": "2024-11-12 19:05:43.512853",
+      "internal_id": "647744825567b24d4ee3bd58a57837ff01cc9aa15c79b092464053ba21cc09f6",
+      "publishedAtLabel": "Nov 11"
+    },
+    {
+      "id": 15440,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Amir Daftari",
+      "title": "Mpox Cases Plateau in Congo's Epicenter But Rise in Other Countries",
+      "description": "Congo reported fewer than 100 mpox cases last week, down from nearly 400 in July but infections have risen in Burundi and Uganda.",
+      "url": "https://www.newsweek.com/mpox-monkeypox-cases-congos-epicenter-uganda-burundi-1983769",
+      "urlToImage": "https://d.newsweek.com/en/full/2517877/hand-mpox-patient.jpg",
+      "publishedAt": "2024-11-11 15:27:13",
+      "content": "The World Health Organization (WHO) has noted signs of stabilization in mpox cases in the South Kivu region of the Congo, where a more infectious variant of the virus was first detected. Despite a r\u2026 [+4014 chars]",
+      "retrievedAt": "2024-11-12 19:05:45.550761",
+      "internal_id": "e832ff292f56ac64e6d361ba78e09d91d2de4d33f3af294db76e045c5645a79a",
+      "publishedAtLabel": "Nov 11"
+    },
+    {
+      "id": 15451,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "seattlepi.com",
+      "author": null,
+      "title": "WHO says mpox cases in Congo's epicenter where the new variant was detected may be 'plateauing'",
+      "description": "The World Health Organization says mpox cases in the region of Congo where a new and more infectious variant was first detected appear to be \u201cplateauing,\u201d even as the virus continues to increase in other regions of the country, as well as in Burundi and Ugand\u2026",
+      "url": "https://www.seattlepi.com/news/world/article/who-says-mpox-cases-in-congo-s-epicenter-where-19906027.php",
+      "urlToImage": "https://s.hdnux.com/photos/01/45/22/51/26552938/9/rawImage.jpg",
+      "publishedAt": "2024-11-11 14:22:45",
+      "content": "Emile Miango, de 2 a\u00f1os de edad y paciente con viruela s\u00edmica, el 4 de septiembre de 2024, en un hospital en Kamituga, Congo. (AP Foto/Moses Sawasawa, Archivo)Moses Sawasawa/AP FILE - A health worke\u2026 [+3293 chars]",
+      "retrievedAt": "2024-11-12 19:05:45.653027",
+      "internal_id": "3a96a986fc462a816c4164f7e599106c150b95d62db346287596543ccf8df3b1",
+      "publishedAtLabel": "Nov 11"
+    },
+    {
+      "id": 15437,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Thomas Ogao Onchuru, Edward Edmond Makhulu, Purity Cassandra Ronnie, Stancy Mandere, Fidel Gabriel Otieno, Joseph Gichuhi, Jeremy Keith Herren",
+      "title": "The Plasmodium transmission-blocking symbiont, Microsporidia MB, is vertically transmitted through Anopheles arabiensis germline stem cells",
+      "description": "Author summary Mosquito vectors of diseases are associated with a broad range of microbes. Some of the microbes significantly affect vector biology including pathogen transmission efficiency. Anopheles mosquitoes, which transmit the malaria parasite, Plasmodi\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012340",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1012340.g004&size=inline",
+      "publishedAt": "2024-11-11 14:00:00",
+      "content": "Abstract Microsporidia MB is a promising candidate for developing a symbiont-based strategy for malaria control because it disrupts the capacity of An. arabiensis to transmit the Plasmodium parasite\u2026 [+51784 chars]",
+      "retrievedAt": "2024-11-12 19:05:44.636053",
+      "internal_id": "d87512b2ad6232edf201653a5e1096102e3934d7e924c9e05be1031f4b54ff74",
+      "publishedAtLabel": "Nov 11"
+    },
+    {
+      "id": 15438,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Atefeh Fathi, Hassan Hakimi, Miako Sakaguchi, Junya Yamagishi, Shin-ichiro Kawazu, Masahito Asada",
+      "title": "Critical role of Babesia bovis spherical body protein 3 in ridge formation on infected red blood cells",
+      "description": "Author summary Babesia bovis causes a high-mortality complication called cerebral babesiosis in cattle, similar to cerebral malaria in humans. Both complications are caused by the cytoadhesion of infected red blood cells (iRBCs) to the host brain endothelial \u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012294",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1012294.g006&size=inline",
+      "publishedAt": "2024-11-11 14:00:00",
+      "content": "Citation: Fathi A, Hakimi H, Sakaguchi M, Yamagishi J, Kawazu S-i, Asada M (2024) Critical role of Babesia bovis spherical body protein 3 in ridge formation on infected red blood cells. PLoS Pathog 2\u2026 [+51456 chars]",
+      "retrievedAt": "2024-11-12 19:05:44.647905",
+      "internal_id": "1b99923898e97ac51ae187802498974abcaf21e3a3b153853a14f8a8d4d34512",
+      "publishedAtLabel": "Nov 11"
+    },
+    {
+      "id": 15452,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Nationalgeographic.com.es",
+      "author": "Constanza Vacas, Constanza Vacas",
+      "title": "\u00bfQu\u00e9 es la leptospirosis? Una amenaza invisible en zonas inundadas",
+      "description": "Las inundaciones y huracanes no solo causan devastadores da\u00f1os en las comunidades, tales como el deterioro de infraestructuras, la p\u00e9rdida de viviendas o la muerte de personas. Incluso cuando se disipan las nubes, hay consecuencias que contin\u00faan amenazando el\u2026",
+      "url": "https://www.nationalgeographic.com.es/ciencia/que-es-leptospirosis-enfermedad-que-protegerse-inundaciones_23616",
+      "urlToImage": "https://content.nationalgeographic.com.es/medio/2024/11/11/dana-valencia_bc59c7f6_57579584_241111105729_1200x630.webp",
+      "publishedAt": "2024-11-11 13:00:00",
+      "content": "Las inundaciones y huracanes no solo causan devastadores da\u00f1os en las comunidades, tales como el deterioro de infraestructuras, la p\u00e9rdida de viviendas o la muerte de personas. Incluso cuando se disi\u2026 [+3768 chars]",
+      "retrievedAt": "2024-11-12 19:05:46.189064",
+      "internal_id": "91ac17025b5729a179eff41c11ef2aa86bb7ad94549c1f2fc9832d217aebaee0",
+      "publishedAtLabel": "Nov 11"
+    },
+    {
+      "id": 15449,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "El n\u00famero de casos de mpox en \u00c1frica muestra una tendencia al alza",
+      "description": "La Organizaci\u00f3n Mundial de la Salud (OMS) ha advertido de que el n\u00famero de casos de mpox en \u00c1frica muestra una tendencia general al alza, impulsada principalmente por los casos notificados en la Rep\u00fablica Democr\u00e1tica del Congo, Burundi y Uganda, seg\u00fan indica \u2026",
+      "url": "https://www.infosalus.com/salud-investigacion/noticia-numero-casos-mpox-africa-muestra-tendencia-alza-20241111135029.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20241111135029_1200.jpg",
+      "publishedAt": "2024-11-11 12:50:29",
+      "content": "MADRID 11 Nov. (EUROPA PRESS) - La Organizaci\u00f3n Mundial de la Salud (OMS) ha advertido de que el n\u00famero de casos de mpox en \u00c1frica muestra una tendencia general al alza, impulsada principalmente p\u2026 [+4217 chars]",
+      "retrievedAt": "2024-11-12 19:05:45.640178",
+      "internal_id": "438ac4e8547604ea26f80a083fd5a70e9f058d9db5f7ac816f61304e3ddf5464",
+      "publishedAtLabel": "Nov 11"
+    },
+    {
+      "id": 15433,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "La gripe aviar altamente pat\u00f3gena merma la poblaci\u00f3n de elefantes marinos",
+      "description": "Un a\u00f1o despu\u00e9s de un brote especialmente virulento, la colona de Pen\u00ednsula Vald\u00e9s es de un tercio de lo que sol\u00eda.",
+      "url": "https://www.montevideo.com.uy/Salud/La-gripe-aviar-altamente-patogena-merma-la-poblacion-de-elefantes-marinos-uc906130",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202411/_W933_80/901046.jpg",
+      "publishedAt": "2024-11-11 12:17:00",
+      "content": "Un a\u00f1o despu\u00e9s de que un brote de gripe aviar altamente pat\u00f3gena H5N1 matase a unos 17.000 elefantes marinos y al 97% de sus cr\u00edas, estos animales han vuelto a criar en la Pen\u00ednsula Vald\u00e9s (Argent\u2026 [+4312 chars]",
+      "retrievedAt": "2024-11-12 19:05:43.551163",
+      "internal_id": "bf3a5cb32acd795f28d3754c41ed06abd76f2eb9f5c3ff310a48714382f0749f",
+      "publishedAtLabel": "Nov 11"
+    },
+    {
+      "id": 15444,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "The Associated Press",
+      "title": "WHO says mpox cases in Congo's epicenter where the new variant was detected may be 'plateauing'",
+      "description": "The World Health Organization says mpox cases in the region of Congo where a new and more infectious variant was first detected appear to be \u201cplateauing,\u201d even as the virus continues to increase in other regions of the country, as well as in Burundi an...",
+      "url": "https://abcnews.go.com/Health/wireStory/mpox-cases-congos-epicenter-new-variant-detected-plateauing-115725145",
+      "urlToImage": "https://i.abcnewsfe.com/a/00236237-bdbf-4134-be3c-416a26d5e6e9/wirestory_56cb9b5db37daab2ccaabe495ada0bbb_16x9.jpg?w=1600",
+      "publishedAt": "2024-11-11 12:14:34",
+      "content": "LONDON -- The World Health Organization said mpox cases in the region of Congo where a new and more infectious variant was first detected appear to be plateauing, even as the virus continues to incre\u2026 [+2844 chars]",
+      "retrievedAt": "2024-11-12 19:05:45.597977",
+      "internal_id": "90132c01537c622b45fc3405d6eaa8d83ab67961fdcb571c047b5c3e85d7fc74",
+      "publishedAtLabel": "Nov 11"
+    },
+    {
+      "id": 15439,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.dr.dk",
+      "author": null,
+      "title": "WHO afg\u00f8r i n\u00e6ste uge, om mpox stadig er en global sundhedskrise",
+      "description": "Verdenssundhedsorganisationen WHO indkalder til m\u00f8de om den smitsomme sygdom mpox i n\u00e6ste uge, det skriver Reuters.",
+      "url": "https://www.dr.dk/nyheder/seneste/who-afgoer-i-naeste-uge-om-mpox-stadig-er-en-global-sundhedskrise",
+      "urlToImage": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fapi.dr.dk%2Ffreja%2Fimage%2Fraw%2F317&w=700",
+      "publishedAt": "2024-11-11 12:12:00",
+      "content": "Er du allerede i dag p\u00e5 jagt efter en julegave eller et nyt outfit til julefrokosten, s\u00e5 skal du holde \u00f8je med tilbud, som m\u00e5ske er lidt for gode. Mandag er det s\u00e5kaldt Singles Day, og det betyder, \u2026 [+520 chars]",
+      "retrievedAt": "2024-11-12 19:05:45.543361",
+      "internal_id": "c7b6349ca5f43eb99d051f8e4f9312dd8b2c8319354f1997108dd85b5c64c97c",
+      "publishedAtLabel": "Nov 11"
+    },
+    {
+      "id": 15442,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Life.ru",
+      "author": "\u041c\u0430\u0442\u0432\u0435\u0439 \u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\u043e\u0432",
+      "title": "\u0412\u041e\u0417 \u0441\u043e\u043e\u0431\u0449\u0438\u043b\u0430, \u0447\u0442\u043e \u043f\u0440\u043e\u0432\u0435\u0434\u0451\u0442 \u0437\u0430\u0441\u0435\u0434\u0430\u043d\u0438\u0435 \u043f\u043e \u043e\u0441\u043f\u0435 \u043e\u0431\u0435\u0437\u044c\u044f\u043d 22 \u043d\u043e\u044f\u0431\u0440\u044f",
+      "description": "\u0412\u0441\u0435\u043c\u0438\u0440\u043d\u0430\u044f \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u044f \u0437\u0434\u0440\u0430\u0432\u043e\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f (\u0412\u041e\u0417) \u043f\u0440\u043e\u0432\u0435\u0434\u0451\u0442 \u0437\u0430\u0441\u0435\u0434\u0430\u043d\u0438\u0435 \u043a\u043e\u043c\u0438\u0442\u0435\u0442\u0430 \u043f\u043e \u0447\u0440\u0435\u0437\u0432\u044b\u0447\u0430\u0439\u043d\u044b\u043c \u0441\u0438\u0442\u0443\u0430\u0446\u0438\u044f\u043c \u043d\u0430 \u0442\u0435\u043c\u0443 \u043e\u0441\u043f\u044b \u043e\u0431\u0435\u0437\u044c\u044f\u043d, \u0441\u043e\u043e\u0431\u0449\u0438\u043b\u0438 \u0432 \u043f\u0440\u0435\u0441\u0441-\u0441\u043b\u0443\u0436\u0431\u0435 \u041e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u0438. \u0413\u043b\u0430\u0432\u0435 \u0412\u041e\u0417 \u0422\u0435\u0434\u0440\u043e\u0441\u0443 \u0410\u0434\u0445\u0430\u043d\u043e\u043c\u0443 \u0413\u0435\u0431\u0440\u0435\u0439\u0435\u0441\u0443\u0441\u0443 \u0434\u043e\u043b\u0436\u0430\u0442 \u043e \u0442\u043e\u043c, \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0430\u0435\u0442 \u043b\u0438 \u0431\u043e\u043b\u0435\u0437\u043d\u044c \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u044f\u043b\u0435\u0442 \u0441\u043e\u0431\u043e\u0439 \u0447\u0440\u0435\u0437\u0432\u044b\u0447\u0430\u2026",
+      "url": "https://life.ru/p/1701976",
+      "urlToImage": "https://static.life.ru/publications/2024/8/15/1312695287547.8896.webp",
+      "publishedAt": "2024-11-11 10:59:18",
+      "content": "() , - . , . \u00ab 22 2024 mpox ( . . Life.ru)\u00bb, . , () . . . .",
+      "retrievedAt": "2024-11-12 19:05:45.564018",
+      "internal_id": "ec6a7454afd650484b49dde43f1a5163234963e4b3bdd631a02197895e4b5e2c",
+      "publishedAtLabel": "Nov 11"
+    },
+    {
+      "id": 15443,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Newsit.gr",
+      "author": "\u039a\u03b1\u03c4\u03b5\u03c1\u03b9\u03bd\u03b1 \u03a3\u03b5\u03c1\u03b5\u03c4\u03b7",
+      "title": "\u03a3\u03c5\u03bd\u03b5\u03b4\u03c1\u03b9\u03ac\u03b6\u03b5\u03b9 \u03b5\u03ba\u03c4\u03ac\u03ba\u03c4\u03c9\u03c2 \u03bf \u03a0\u039f\u03a5 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b5\u03c5\u03bb\u03bf\u03b3\u03b9\u03ac \u03c4\u03c9\u03bd \u03c0\u03b9\u03b8\u03ae\u03ba\u03c9\u03bd",
+      "description": "\u039f \u03a0\u03b1\u03b3\u03ba\u03cc\u03c3\u03bc\u03b9\u03bf\u03c2 \u039f\u03c1\u03b3\u03b1\u03bd\u03b9\u03c3\u03bc\u03cc\u03c2 \u03a5\u03b3\u03b5\u03af\u03b1\u03c2 \u03b8\u03b1 \u03c3\u03c5\u03b3\u03ba\u03b1\u03bb\u03ad\u03c3\u03b5\u03b9 \u03b5\u03c0\u03b5\u03af\u03b3\u03bf\u03c5\u03c3\u03b1 \u03c3\u03c5\u03bd\u03b5\u03b4\u03c1\u03af\u03b1\u03c3\u03b7 \u03c4\u03b7\u03c2 \u0395\u03c0\u03b9\u03c4\u03c1\u03bf\u03c0\u03ae\u03c2 \u0391\u03bd\u03c4\u03b9\u03bc\u03b5\u03c4\u03ce\u03c0\u03b9\u03c3\u03b7\u03c2 \u0395\u03ba\u03c4\u03ac\u03ba\u03c4\u03c9\u03bd \u0391\u03bd\u03b1\u03b3\u03ba\u03ce\u03bd \u03c4\u03b7\u03bd \u03b5\u03c1\u03c7\u03cc\u03bc\u03b5\u03bd\u03b7 \u03b5\u03b2\u03b4\u03bf\u03bc\u03ac\u03b4\u03b1 \u03b3\u03b9\u03b1 \u03bd\u03b1 \u03b4\u03b9\u03b1\u03ba\u03c1\u03b9\u03b2\u03c9\u03b8\u03b5\u03af \u03b1\u03bd \u03b7 mpox (\u03b5\u03c5\u03bb\u03bf\u03b3\u03b9\u03ac \u03c4\u03c9\u03bd \u03c0\u03b9\u03b8\u03ae\u03ba\u03c9\u03bd) \u03c0\u03b1\u03c1\u03b1\u03bc\u03ad\u03bd\u03b5\u03b9 \u03c0\u03b1\u03b3\u03ba\u03cc\u03c3\u03bc\u03b9\u03b1 \u03c5\u03b3\u03b5\u03b9\u03bf\u03bd\u03bf\u03bc\u03b9\u03ba\u03ae \u03ba\u03c1\u03af\u03c3\u03b7, \u03cc\u03c0\u03c9\u03c2 \u03b1\u03bd\u03b1\u03c6\u03ad\u03c1\u03b5\u03b9 \u03bf \u039f\u03c1\u03b3\u03b1\u03bd\u03b9\u03c3\u03bc\u03cc\u03c2 \u03c3\u03b5 \u03c3\u03b7\u03bc\u03b5\u03c1\u03b9\u2026",
+      "url": "https://www.newsit.gr/kosmos/eylogia-ton-pithikon-ektakti-synedriasi-tou-pou/4231632/",
+      "urlToImage": "https://www.newsit.gr/wp-content/uploads/2024/11/mpox-scaled.jpg",
+      "publishedAt": "2024-11-11 10:37:27",
+      "content": "mpox () , . , , , . , clade Ib, . , 3 , 46.794 , 1.081 , . , . mpox . . . 9 .",
+      "retrievedAt": "2024-11-12 19:05:45.581074",
+      "internal_id": "98ec9edbe3c135bd4d7f968702e0140709633cb22a3f234f80211b57bebbb7dd",
+      "publishedAtLabel": "Nov 11"
+    },
+    {
+      "id": 15450,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Protothema.gr",
+      "author": null,
+      "title": "\u0395\u03c5\u03bb\u03bf\u03b3\u03b9\u03ac \u03c4\u03c9\u03bd \u03c0\u03b9\u03b8\u03ae\u03ba\u03c9\u03bd: \u0395\u03c0\u03b5\u03af\u03b3\u03bf\u03c5\u03c3\u03b1 \u03c3\u03cd\u03b3\u03ba\u03bb\u03b7\u03c3\u03b7 \u03c4\u03bf\u03c5 \u03a0\u03b1\u03b3\u03ba\u03cc\u03c3\u03bc\u03b9\u03bf\u03c5 \u039f\u03c1\u03b3\u03b1\u03bd\u03b9\u03c3\u03bc\u03bf\u03cd \u03a5\u03b3\u03b5\u03af\u03b1\u03c2 \u03c3\u03c4\u03b9\u03c2 22 \u039d\u03bf\u03b5\u03bc\u03b2\u03c1\u03af\u03bf\u03c5",
+      "description": "\u0397 \u0395\u03c0\u03b9\u03c4\u03c1\u03bf\u03c0\u03ae \u0391\u03bd\u03c4\u03b9\u03bc\u03b5\u03c4\u03ce\u03c0\u03b9\u03c3\u03b7\u03c2 \u0395\u03ba\u03c4\u03ac\u03ba\u03c4\u03c9\u03bd \u0391\u03bd\u03b1\u03b3\u03ba\u03ce\u03bd \u03b8\u03b1 \u03c3\u03c5\u03bd\u03b5\u03b4\u03c1\u03b9\u03ac\u03c3\u03b5\u03b9 \u03c4\u03b7\u03bd \u03b5\u03c1\u03c7\u03cc\u03bc\u03b5\u03bd\u03b7 \u03b5\u03b2\u03b4\u03bf\u03bc\u03ac\u03b4\u03b1 \u03b3\u03b9\u03b1 \u03bd\u03b1 \u03b4\u03b9\u03b1\u03ba\u03c1\u03b9\u03b2\u03c9\u03b8\u03b5\u03af \u03b1\u03bd \u03b7 mpox \u03c0\u03b1\u03c1\u03b1\u03bc\u03ad\u03bd\u03b5\u03b9 \u03c0\u03b1\u03b3\u03ba\u03cc\u03c3\u03bc\u03b9\u03b1 \u03c5\u03b3\u03b5\u03b9\u03bf\u03bd\u03bf\u03bc\u03b9\u03ba\u03ae \u03ba\u03c1\u03af\u03c3\u03b7 | \u0395\u03c5\u03bb\u03bf\u03b3\u03b9\u03ac \u03c4\u03c9\u03bd \u03c0\u03b9\u03b8\u03ae\u03ba\u03c9\u03bd | \u03a0\u03b1\u03b3\u03ba\u03cc\u03c3\u03bc\u03b9\u03bf\u03c2 \u039f\u03c1\u03b3\u03b1\u03bd\u03b9\u03c3\u03bc\u03cc\u03c2 \u03a5\u03b3\u03b5\u03af\u03b1\u03c2 | mpox | \u039a\u03cc\u03c3\u03bc\u03bf\u03c2",
+      "url": "https://www.protothema.gr/world/article/1560556/eulogia-ton-pithikon-epeigousa-suglisi-tou-pagosmiou-organismou-ugeias-stis-22-noemvriou/",
+      "urlToImage": "https://i1.prth.gr/images/640x360share/files/2024-08-27/mpox_arxeio_n.jpg",
+      "publishedAt": "2024-11-11 10:37:00",
+      "content": "Athens Innovation Forum 2024 Mastercard , .",
+      "retrievedAt": "2024-11-12 19:05:45.646452",
+      "internal_id": "62284a191f56ff9f0a7ff07d57f0e1b4eb0d6eb491499fc7b9321af5f9579188",
+      "publishedAtLabel": "Nov 11"
+    },
+    {
+      "id": 15434,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "lenta",
+      "source_name": "Lenta",
+      "author": "\u0415\u043b\u0435\u043d\u0430 \u0422\u043e\u0440\u0443\u0431\u0430\u0440\u043e\u0432\u0430",
+      "title": "\u0412 \u0420\u043e\u0441\u043f\u043e\u0442\u0440\u0435\u0431\u043d\u0430\u0434\u0437\u043e\u0440\u0435 \u0440\u0430\u0441\u043a\u0440\u044b\u043b\u0438 \u0441\u0438\u0442\u0443\u0430\u0446\u0438\u044e \u0441 \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0430\u0435\u043c\u043e\u0441\u0442\u044c\u044e \u043f\u0442\u0438\u0447\u044c\u0438\u043c \u0433\u0440\u0438\u043f\u043f\u043e\u043c",
+      "description": "\u0412 \u0420\u043e\u0441\u0441\u0438\u0438 \u043d\u0435 \u0432\u044b\u044f\u0432\u0438\u043b\u0438 \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0430\u043d\u0438\u0439, \u0432\u044b\u0437\u0432\u0430\u043d\u043d\u044b\u0445 \u0432\u0438\u0440\u0443\u0441\u0430\u043c\u0438 \u0433\u0440\u0438\u043f\u043f\u0430 \u043f\u0442\u0438\u0446. \u0421\u0438\u0442\u0443\u0430\u0446\u0438\u044e \u0432 \u0441\u0442\u0440\u0430\u043d\u0435 \u0440\u0430\u0441\u043a\u0440\u044b\u043b\u0438 \u0432 \u0420\u043e\u0441\u043f\u043e\u0442\u0440\u0435\u0431\u043d\u0430\u0434\u0437\u043e\u0440\u0435 \u0432 \u043a\u043e\u043c\u043c\u0435\u043d\u0442\u0430\u0440\u0438\u0438 \u00ab\u041b\u0435\u043d\u0442\u0435.\u0440\u0443\u00bb",
+      "url": "https://lenta.ru/news/2024/11/11/v-rospotrebnadzore-raskryli-situatsiyu-s-zabolevaemostyu-ptichim-grippom/",
+      "urlToImage": "https://icdn.lenta.ru/images/2024/11/11/12/20241111125026048/share_d866a0b8e7b247b2da5dcb00daa22110.jpg",
+      "publishedAt": "2024-11-11 09:54:05",
+      "content": ", . \u00ab.\u00bb. . ( ). 22 , . , 2024 . , . \u00ab (...) , , \u00bb, . , . , , , . H5N1, , .",
+      "retrievedAt": "2024-11-12 19:05:43.558083",
+      "internal_id": "b7e7b5069dacd48ac332727acdd631efe924045fc73c7723cd4d6d1d507f5020",
+      "publishedAtLabel": "Nov 11"
+    },
+    {
+      "id": 15441,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Expressen.se",
+      "author": "alicia.heimersson@expressen.se (Alicia Heimersson)",
+      "title": "WHO kallar till krism\u00f6te om mpox",
+      "description": "V\u00e4rldsh\u00e4lsoorganisationen (WHO) har kallat till m\u00f6te Sedan i augusti f\u00f6rklarades utbrottet av mpox som en internationell folkh\u00e4lsokris.",
+      "url": "https://www.expressen.se/nyheter/varlden/who-kallar-till-krismote-om-mpox-oybte/",
+      "urlToImage": "https://www.expressen.se/images/logotype-for-sharing.png",
+      "publishedAt": "2024-11-11 09:34:41",
+      "content": "Mpox, som tidigare kallades apkoppor, \u00e4r en infektionssjukdom orsakad av ett virus som kan \u00f6verf\u00f6ras mellan djur och m\u00e4nniska. Viruset kan \u00e4ven \u00f6verf\u00f6ras mellan m\u00e4nniskor. Det uppt\u00e4cktes f\u00f6rst hos \u2026 [+577 chars]",
+      "retrievedAt": "2024-11-12 19:05:45.557638",
+      "internal_id": "394223f3a7203dadf3c51b748ac0f8ec64124a06e3c49522279366df71aaf9c2",
+      "publishedAtLabel": "Nov 11"
+    },
+    {
+      "id": 15448,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Aftonbladet.se",
+      "author": null,
+      "title": "WHO kallar till nytt krism\u00f6te om mpox",
+      "description": "\u25b8 V\u00e4rldsh\u00e4lsoorganisationen (WHO) kommer att besluta om mpox ska f\u00f6rbli en global h\u00e4lsokris, det sade WHO i ett uttalande\u2026",
+      "url": "https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1306536",
+      "urlToImage": "https://images.aftonbladet-cdn.se/v2/images/156fc268-adec-4fec-ac17-baa7f1dbdb35?fit=crop&format=auto&h=56&q=50&w=100&s=8d717b112fa508073dcc3292ac8f7acfdc612d33",
+      "publishedAt": "2024-11-11 09:29:13",
+      "content": "NYHETER DU INTE F\u00c5R MISSA WHO kallar till nytt krism\u00f6te om mpox V\u00e4rldsh\u00e4lsoorganisationen (WHO) kommer att besluta om mpox ska f\u00f6rbli en global h\u00e4lsokris, det sade WHO i ett uttalande p\u00e5 m\u2026 [+10711 chars]",
+      "retrievedAt": "2024-11-12 19:05:45.628360",
+      "internal_id": "0ce49770171213971891bbcad9ed06141069efbf84ecd976b2fb0ea185caf080",
+      "publishedAtLabel": "Nov 11"
+    },
+    {
+      "id": 15436,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Leganerd.com",
+      "author": "Daniela Giannace",
+      "title": "Individuato caso di malaria a Verona: come si cura la malattia",
+      "description": "Un caso di malaria \u00e8 stato registrato lo scorso 7 novembre 2024 in Italia, e per essere pi\u00f9 precisi a Verona. In un primo momento questo \u00e8 stato identificato come un caso \u201cautoctono\u201d e quindi provocato dalla puntura di una zanzara infetta presente sul territo\u2026",
+      "url": "https://leganerd.com/2024/11/11/individuato-caso-di-malaria-a-verona-come-si-cura-la-malattia/",
+      "urlToImage": "https://leganerd.com/wp-content/uploads/2024/11/malaria-Verona.jpg",
+      "publishedAt": "2024-11-11 09:02:33",
+      "content": "Un caso di malaria \u00e8 stato registrato lo scorso 7 novembre 2024 in Italia, e per essere pi\u00f9 precisi a Verona. In un primo momento questo \u00e8 stato identificato come un caso \u201cautoctono\u201d e quindi provoca\u2026 [+1697 chars]",
+      "retrievedAt": "2024-11-12 19:05:44.581422",
+      "internal_id": "764f51b2e81fb411591b34add8ce5a2cf8232d0d128bde1408b007dcb1777fa0",
+      "publishedAtLabel": "Nov 11"
+    },
+    {
+      "id": 15447,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Reuters",
+      "title": "WHO to convene emergency meeting on mpox on Nov 22",
+      "description": "In August, the disease which continues to spread in Africa was classified by the U.N. health body as a public health emergency of international concern, which represents the highest form of alert. This followed the spread of a new variant of the virus, called\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/who-to-convene-emergency-meeting-on-mpox-on-nov-22/articleshow/115172890.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-115172932,width-1200,height-630,imgsize-48020,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2024-11-11 08:54:03",
+      "content": "The World Health Organization will convene a meeting of its Emergency Committee next week to determine whether mpox remains a global health crisis, it said in a statement on Monday.In August, the dis\u2026 [+832 chars]",
+      "retrievedAt": "2024-11-12 19:05:45.617085",
+      "internal_id": "3b9e90a944c56ac0d8b541437784e1cbf1a5431bb41222041b3072a46b243461",
+      "publishedAtLabel": "Nov 11"
+    },
+    {
+      "id": 15446,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Aljazeera.net",
+      "author": "\u0627\u0644\u062c\u0632\u064a\u0631\u0629 \u0646\u062a",
+      "title": "\u0647\u0644 \u064a\u062a\u0623\u062b\u0631 \u0627\u0644\u0633\u064a\u0627\u062d \u0628\u062d\u0638\u0631 \u0625\u0646\u062f\u0648\u0646\u064a\u0633\u064a\u0627 \u0623\u062c\u0647\u0632\u0629 \"\u0622\u064a\u0641\u0648\u0646\" \u0627\u0644\u062c\u062f\u064a\u062f\u0629\u061f",
+      "description": "\u0628\u0639\u062f \u0623\u0633\u0627\u0628\u064a\u0639 \u0642\u0644\u064a\u0644\u0629 \u0645\u0646 \u0625\u0637\u0644\u0627\u0642 \"\u0622\u0628\u0644\" \u0644\u0647\u0648\u0627\u062a\u0641 \"\u0622\u064a\u0641\u0648\u0646 16\"\u060c \u0644\u0627 \u062a\u0632\u0627\u0644 \u0627\u0644\u0633\u0644\u0637\u0627\u062a \u0627\u0644\u0625\u0646\u062f\u0648\u0646\u064a\u0633\u064a\u0629 \u062a\u062d\u0638\u0631 \u0628\u064a\u0639\u0647\u0627 \u0628\u0633\u0628\u0628 \u0646\u0632\u0627\u0639 \u062d\u0648\u0644 \u0627\u0644\u0627\u0633\u062a\u062b\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0645\u062d\u0644\u064a\u0629.",
+      "url": "https://www.aljazeera.net/lifestyle/2024/11/11/%d9%87%d9%84-%d9%8a%d8%aa%d8%a3%d8%ab%d8%b1-%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%ad-%d8%a8%d8%ad%d8%b8%d8%b1-%d8%a5%d9%86%d8%af%d9%88%d9%86%d9%8a%d8%b3%d9%8a%d8%a7-%d8%a3%d8%ac%d9%87%d8%b2%d8%a9",
+      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2024/11/NESIA-1731324124.jpg?resize=1920%2C1440",
+      "publishedAt": "2024-11-11 08:45:13",
+      "content": "\" 16\" () \"\" \" 16 . \"\" . \" 16\" . \" 16 . \"\" . \"\" 117 . \"\" (mpox). \"\".",
+      "retrievedAt": "2024-11-12 19:05:45.610610",
+      "internal_id": "d61460f80589d122df932f11c80d5546b3ea609bee356b88ccd428cbb72caadf",
+      "publishedAtLabel": "Nov 11"
+    },
+    {
+      "id": 15445,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "nrk",
+      "source_name": "NRK",
+      "author": "NRK",
+      "title": "WHO kaller inn til nytt krisem\u00f8te om mpox",
+      "description": "Verdens helseorganisasjon har innkalt til et nytt krisem\u00f8te om mpox. Det forrige var i august. Form\u00e5let med m\u00f8tet er \u00e5 komme frem til om mpox fremdeles utgj\u00f8r en internasjonal helsekrise. Den smittsomme virussykdommen, tidligere kalt apekopper, sprer seg frem\u2026",
+      "url": "https://www.nrk.no/nyheter/who-kaller-inn-til-nytt-krisemote-om-mpox-1.17120756",
+      "urlToImage": "https://static.nrk.no/nrkno/serum/2.0.513/common/img/default.jpg",
+      "publishedAt": "2024-11-11 08:33:06",
+      "content": "Verdens helseorganisasjon har innkalt til et nytt krisem\u00f8te om mpox. Det forrige var i august. Form\u00e5let med m\u00f8tet er \u00e5 komme frem til om mpox fremdeles utgj\u00f8r en internasjonal helsekrise. Den smitts\u2026 [+143 chars]",
+      "retrievedAt": "2024-11-12 19:05:45.604506",
+      "internal_id": "2ee7e23b6602208aa83c342862e1199d88f7fc13d931e8940f7a3bdd95a62387",
+      "publishedAtLabel": "Nov 11"
+    },
     {
       "id": 15428,
       "query": [
@@ -23460,133 +23856,6 @@
       "content": "Dog bites and scratches account for 99 per cent of human rabies cases. [Courtesy] While dogs are often celebrated as man's best friend, they can also pose a deadly risk. In Kenya, rabies claims an \u2026 [+5012 chars]",
       "retrievedAt": "2024-10-01 07:06:35.848423",
       "internal_id": "d10f5e13f18b2978569d000f8a7cfbc1127cf8e5a32953a2305330d40b201a19",
-      "publishedAtLabel": "Sep 29"
-    },
-    {
-      "id": 14124,
-      "query": [
-        "rabies"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "TNN",
-      "title": "State sets goal to end rabies deaths by \u201930",
-      "description": "Panaji: Aligning with a \ue814global disease-fighting goal, the directorate of health services (DHS) has set the target to eliminate human \ue814deaths caused b.",
-      "url": "https://timesofindia.indiatimes.com/city/goa/state-sets-goal-to-end-rabies-deaths-by-30/articleshow/113793081.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-09-29 18:39:03",
-      "content": "10 spotted animals and their distinct markings",
-      "retrievedAt": "2024-09-30 19:05:24.961068",
-      "internal_id": "743a021643863a86ee3aba70a0b9033dc9b794f8b45903ccf6171a7c5a97c308",
-      "publishedAtLabel": "Sep 29"
-    },
-    {
-      "id": 14126,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Shtfplan.com",
-      "author": "Mac Slavo",
-      "title": "The \u201cCluster\u201d of Possible Human Bird Flu Infections Has Expanded to 8",
-      "description": "A cluster of possible bird flu infections in Missouri has grown to include eight people. These eight could very well represent what may be the first examples of person-to-person transmission of the H5N1 avian influenza in the United States, the Centers for Di\u2026",
-      "url": "https://www.shtfplan.com/headline-news/the-cluster-of-possible-human-bird-flu-infections-has-expanded-to-8",
-      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2024/05/birdflu1.jpg",
-      "publishedAt": "2024-09-29 17:30:46",
-      "content": "A cluster of possible bird flu infections in Missouri has grown to include eight people. These eight could very well represent the first examples of person-to-person transmission of the H5N1 avian in\u2026 [+2323 chars]",
-      "retrievedAt": "2024-09-30 19:05:25.942322",
-      "internal_id": "b36641378ed00504b285e3199c5223c57d94ed8d2b6243e12500eb6de41ca933",
-      "publishedAtLabel": "Sep 29"
-    },
-    {
-      "id": 14129,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Gazeta.ru",
-      "author": "\u0413\u0430\u0437\u0435\u0442\u0430.Ru",
-      "title": "\u0412 \u0412\u041e\u0417 \u0440\u0430\u0441\u0441\u043a\u0430\u0437\u0430\u043b\u0438 \u043e \u0441\u043b\u0443\u0447\u0430\u044f \u0441 \u043f\u043e\u0434\u043e\u0437\u0440\u0435\u043d\u0438\u0435\u043c \u043d\u0430 \u043e\u0441\u043f\u0443 \u043e\u0431\u0435\u0437\u044c\u044f\u043d \u0432 \u0410\u0444\u0440\u0438\u043a\u0435 \u0441 \u043d\u0430\u0447\u0430\u043b\u0430 2024 \u0433\u043e\u0434\u0430",
-      "description": "\u0411\u043e\u043b\u0435\u0435 31 \u0442\u044b\u0441. \u0441\u043b\u0443\u0447\u0430\u0435\u0432 \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0430\u043d\u0438\u044f \u0441 \u043f\u043e\u0434\u043e\u0437\u0440\u0435\u043d\u0438\u0435\u043c \u043d\u0430 mpox (\u043d\u043e\u0432\u043e\u0435 \u043d\u0430\u0438\u043c\u0435\u043d\u043e\u0432\u0430\u043d\u0438\u0435 \u043e\u0441\u043f\u044b \u043e\u0431\u0435\u0437\u044c\u044f\u043d) \u0432\u044b\u044f\u0432\u0438\u043b\u0438 \u0432 \u0410\u0444\u0440\u0438\u043a\u0435 \u0441 1 \u044f\u043d\u0432\u0430\u0440\u044f \u043f\u043e 22 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2024 \u0433\u043e\u0434\u0430. \u041e\u0431 \u044d\u0442\u043e\u043c \u0441\u043e\u043e\u0431\u0449\u0430\u0435\u0442\u0441\u044f \u043d\u0430 \u0441\u0430\u0439\u0442\u0435 \u0412\u0441\u0435\u043c\u0438\u0440\u043d\u043e\u0439 \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u0438 \u0437\u0434\u0440\u0430\u0432\u043e\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f (\u0412\u041e\u0417). \u0412 \u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0446\u0438\u0438 ...",
-      "url": "https://www.gazeta.ru/social/news/2024/09/29/24035059.shtml",
-      "urlToImage": "https://img.gazeta.ru/files3/968/14991968/2022-05-23T182141Z_475247910_RC25DU95S1NL_RTRMADP_3_HEALTH-MONKEYPOX-pic_32ratio_900x600-900x600-55005.jpg",
-      "publishedAt": "2024-09-29 13:35:21",
-      "content": "31 . mpox ( ) 1 22 2024 . (). , 2024 31 427 mpox. \u2014 27 103 . , 123 106 310 . , mpox . () , 88 . $21,4 2024 . .",
-      "retrievedAt": "2024-09-30 19:05:28.068294",
-      "internal_id": "31cfb96cd5e031c6c53fbc9e5c8dcca9986cbee7b54b7afd9677695e58e37c4a",
-      "publishedAtLabel": "Sep 29"
-    },
-    {
-      "id": 14128,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Tass.ru",
-      "author": null,
-      "title": "\u0412 \u0410\u0444\u0440\u0438\u043a\u0435 \u0432\u044b\u044f\u0432\u0438\u043b\u0438 31 \u0442\u044b\u0441. \u0441\u043b\u0443\u0447\u0430\u0435\u0432 \u0441 \u043f\u043e\u0434\u043e\u0437\u0440\u0435\u043d\u0438\u0435\u043c \u043d\u0430 mpox \u0441 \u043d\u0430\u0447\u0430\u043b\u0430 \u0433\u043e\u0434\u0430",
-      "description": "\u0417\u0430\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u044b \u0431\u043e\u043b\u0435\u0435 840 \u043b\u0435\u0442\u0430\u043b\u044c\u043d\u044b\u0445 \u0438\u0441\u0445\u043e\u0434\u043e\u0432, \u043f\u0440\u0438\u0447\u0438\u043d\u043e\u0439 \u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u043c\u043e\u0433\u043b\u0430 \u043f\u043e\u0441\u043b\u0443\u0436\u0438\u0442\u044c \u044d\u0442\u0430 \u0431\u043e\u043b\u0435\u0437\u043d\u044c, \u0441\u043e\u043e\u0431\u0449\u0438\u043b\u0438 \u0432 \u0412\u041e\u0417",
-      "url": "https://tass.ru/obschestvo/21989865",
-      "urlToImage": "https://cdn-storage-media.tass.ru/thumb/ru/obschestvo/21989865?u=2024-09-29T13:21:15.571295",
-      "publishedAt": "2024-09-29 13:21:15",
-      "content": ", 29 . //. 31 . mpox ( ) 840 , , 1 22 2024 . (). , 31 427 mpox, 844 . 16 22 2 085, 34 . 402 . mpox () - 27 103 838 . 1 2022 31 2024 123 106 310 , 234 . mpox 2022 11 2023 . , 14 2024 . Mpox -\u2026 [+12 chars]",
-      "retrievedAt": "2024-09-30 19:05:27.932262",
-      "internal_id": "8044e60e22c2cc27d80ae91c10ff02a191b3325ce0f962c0717276be7249cb00",
-      "publishedAtLabel": "Sep 29"
-    },
-    {
-      "id": 14127,
-      "query": [
-        "dengue",
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Catracalivre.com.br",
-      "author": "Andr\u00e9 Nicolau",
-      "title": "MPox, Coqueluche e dengue: como evitar essas doen\u00e7as no Brasil",
-      "description": "Muitas doen\u00e7as acabam chegando ao conhecimento da popula\u00e7\u00e3o apenas quando j\u00e1 est\u00e1 em surto em determinado pa\u00eds ou regi\u00e3o, ou quando \u00e9 registrado \u00f3bito e",
-      "url": "https://catracalivre.com.br/saude-bem-estar/como-evitar-essas-doencas-no-brasil/",
-      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1280,h=720,fit=cover,format=jpeg/wp-content/uploads/2022/03/campanha-vacinacao-sarampo.jpg",
-      "publishedAt": "2024-09-29 11:01:13",
-      "content": "Minist\u00e9rio da Sa\u00fade reverteu tend\u00eancia de queda nas coberturas vacinais nos \u00faltimos anos. Como evitar essas doen\u00e7as no Brasil? User7565abab_575/istock - User7565abab_575/istock Muitas doen\u00e7as acabam\u2026 [+4907 chars]",
-      "retrievedAt": "2024-09-30 19:05:26.396549",
-      "internal_id": "284b02280b08ff4e594a499b1a8efeb1a6c0464631d182a540fd268907499e61",
-      "publishedAtLabel": "Sep 29"
-    },
-    {
-      "id": 14125,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Antaranews.com",
-      "author": "Dewa W, Kenzu",
-      "title": "Indonesia's Bali intensifies rabies vaccination for pets",
-      "description": "The Bali government is accelerating the vaccination of dogs and cats to prevent the transmission of the rabies virus in the province. &quot;We must make ...",
-      "url": "https://en.antaranews.com/news/327715/indonesias-bali-intensifies-rabies-vaccination-for-pets",
-      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2024/09/29/IMG_20240929_113136.jpg",
-      "publishedAt": "2024-09-29 08:09:30",
-      "content": "Denpasar, Bali (ANTARA) - The Bali government is accelerating the vaccination of dogs and cats to prevent the transmission of the rabies virus in the province.\"We must make Bali rabies-free,\" Bali's \u2026 [+1563 chars]",
-      "retrievedAt": "2024-09-30 19:05:25.023338",
-      "internal_id": "f88760feb3afc552efdeaf202dcd833c2c717f0007f02d68aa979775b32bf48c",
-      "publishedAtLabel": "Sep 29"
-    },
-    {
-      "id": 14130,
-      "query": [
-        "leptospirosis"
-      ],
-      "source_id": null,
-      "source_name": "NDTV News",
-      "author": null,
-      "title": "Punjab Chief Minister Bhagwant Mann Diagnosed With Leptospirosis",
-      "description": "Punjab Chief Minister Bhagwant Mann was on Saturday diagnosed with bacterial infection leptospirosis, with doctors saying he is being given antibiotics and his vitals are \"completely stable\".",
-      "url": "https://www.ndtv.com/chandigarh-news/punjab-cm-bhagwant-mann-diagnosed-with-leptospirosis-6675554",
-      "urlToImage": "https://c.ndtvimg.com/2024-07/ba1eqpao_bhagwant-mann_625x300_25_July_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-      "publishedAt": "2024-09-29 07:15:35",
-      "content": "Punjab Chief Minister Bhagwant Mann was admitted to the Fortis Hospital, Mohali. (File) Chandigarh: Punjab Chief Minister Bhagwant Mann was on Saturday diagnosed with bacterial infection leptospiros\u2026 [+1620 chars]",
-      "retrievedAt": "2024-09-30 19:05:28.540483",
-      "internal_id": "de2c3109f6ab8336ee7dbcdf3d8013e2c4e684d60123990760058d931a2dd580",
       "publishedAtLabel": "Sep 29"
     }
   ]
