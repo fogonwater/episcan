@@ -1,8 +1,188 @@
 {
-  "last_updated": "2024-11-13 07:06",
-  "count_articles_total": 1334,
-  "count_articles_new": 5,
+  "last_updated": "2024-11-13 19:06",
+  "count_articles_total": 1337,
+  "count_articles_new": 10,
   "articles": [
+    {
+      "id": 15465,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "DIE WELT",
+      "author": "Walter Willems",
+      "title": "\u201eBei einer bakteriellen Meningitis verschlechtert sich die Prognose pro Stunde um 30 Prozent\u201c",
+      "description": "Viren, Pilze, Bakterien und sogar Parasiten k\u00f6nnen das menschliche Gehirn angreifen und gef\u00e4hrliche Sch\u00e4den anrichten. Ein neues Verfahren soll jetzt die Diagnose erleichtern \u2013 und insbesondere bei r\u00e4tselhaften F\u00e4llen helfen, die auch in Deutschland zunehmen.",
+      "url": "https://www.welt.de/gesundheit/article254485968/Hirnentzuendung-Bei-einer-bakteriellen-Meningitis-verschlechtert-sich-die-Prognose-pro-Stunde-um-30-Prozent.html",
+      "urlToImage": "https://img.welt.de/img/gesundheit/mobile254486142/9757934787-ci16x9-w1200/Bacterial-encephalitis-illustration.jpg",
+      "publishedAt": "2024-11-12 16:38:34",
+      "content": "Viren, Pilze, Bakterien und sogar Parasiten k\u00f6nnen das menschliche Gehirn angreifen und gef\u00e4hrliche Sch\u00e4den anrichten. Ein neues Verfahren soll jetzt die Diagnose erleichtern und insbesondere bei r\u00e4t\u2026 [+5739 chars]",
+      "retrievedAt": "2024-11-13 19:06:25.682731",
+      "internal_id": "e93425a16cc518740fab350fd10c8b4c9b03bbb2e068af957d9c3e1f7f4717f0",
+      "publishedAtLabel": "Nov 12"
+    },
+    {
+      "id": 15463,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "S\u00fcddeutsche Zeitung",
+      "author": "Von Tina Baier, M\u00fcnchen",
+      "title": "Gesundheit: Mensch gegen M\u00fccke",
+      "description": "Taube Tigerm\u00fccken k\u00f6nnen sich nicht mehr paaren. Lassen sich mit dieser Erkenntnis gef\u00e4hrliche Tropenkrankheiten wie Gelbfieber und Denguefieber bek\u00e4mpfen?",
+      "url": "https://www.sueddeutsche.de/wissen/tigermuecken-aedes-aegypti-dengue-zika-gelbfieber-insekten-moskitos-klimawandel-li.3143287",
+      "urlToImage": "https://www.sueddeutsche.de/2024/11/11/e756d8d5-4fc3-46e7-b886-5568f098129d.jpeg?q=60&fm=webp&width=1200&rect=0%2C209%2C4000%2C2250",
+      "publishedAt": "2024-11-12 16:17:35",
+      "content": "Taube Tigerm\u00fccken k\u00f6nnen sich nicht mehr paaren. Lassen sich mit dieser Erkenntnis gef\u00e4hrliche Tropenkrankheiten wie Gelbfieber und Denguefieber bek\u00e4mpfen?Stechm\u00fccken sind nicht nur unangenehm und l\u00e4\u2026 [+303 chars]",
+      "retrievedAt": "2024-11-13 19:06:25.335340",
+      "internal_id": "8ef04e46d0ef7aafe2bdd1237fa72f625dc4471ce0bfae40ee277f9d234aa5f6",
+      "publishedAtLabel": "Nov 12"
+    },
+    {
+      "id": 15459,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Skai.gr",
+      "author": "Newsroom",
+      "title": "\u0397 \u03b3\u03c1\u03af\u03c0\u03b7 \u03c4\u03c9\u03bd \u03c0\u03c4\u03b7\u03bd\u03ce\u03bd \u03b1\u03c0\u03b5\u03b9\u03bb\u03b5\u03af \u03bc\u03b5 \u03b5\u03be\u03b1\u03c6\u03ac\u03bd\u03b9\u03c3\u03b7 \u03c4\u03b1 \u03c0\u03b5\u03c1\u03b9\u03c0\u03bb\u03b1\u03bd\u03ce\u03bc\u03b5\u03bd\u03b1 \u03b1\u03bb\u03bc\u03c0\u03b1\u03c4\u03c1\u03cc\u03c2",
+      "description": "\u03a4\u03bf \u03ac\u03bb\u03bc\u03c0\u03b1\u03c4\u03c1\u03bf\u03c2 \u03b1\u03c0\u03b5\u03b9\u03bb\u03b5\u03af\u03c4\u03b1\u03b9 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03b5\u03be\u03ac\u03c0\u03bb\u03c9\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03b3\u03c1\u03af\u03c0\u03b7\u03c2 \u03c4\u03c9\u03bd \u03c0\u03c4\u03b7\u03bd\u03ce\u03bd \u03b7 \u03bf\u03c0\u03bf\u03af\u03b1 \u03ba\u03b1\u03b9 \u03b5\u03bd\u03c4\u03bf\u03c0\u03af\u03c3\u03c4\u03b7\u03ba\u03b5 \u03c3\u03b5 \u03bd\u03b7\u03c3\u03af \u03cc\u03c0\u03bf\u03c5 \u03b1\u03bd\u03b1\u03c0\u03b1\u03c1\u03ac\u03b3\u03b5\u03c4\u03b1\u03b9",
+      "url": "https://www.skai.gr/news/environment/i-gripi-ton-ptinon-apeilei-ta-periplanomena-almpatros",
+      "urlToImage": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2024-11/ap-albatros.jpg?itok=240wZpVS",
+      "publishedAt": "2024-11-12 15:53:32",
+      "content": ", . HPAI, Marion, - , , . . \u00ab , Marion\u00bb, , 11 , . 2021, . , , Marion , . , Possession, Marion, . , Marion , , . . . 25.000 . Marion. .Skai.gr Google News . \u00a9 2024 skai.gr - All\u2026 [+15 chars]",
+      "retrievedAt": "2024-11-13 19:06:24.487109",
+      "internal_id": "9ab0134d96ccdefe493bffd57c12dd6c30e1762a8495947511350d41a5476b0f",
+      "publishedAtLabel": "Nov 12"
+    },
+    {
+      "id": 15466,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "John Gilmore, David Comer, David J. Field, Randal Parlour, Adam Shanley, Chris Noone",
+      "title": "Recognising and responding to the community needs of gay and bisexual men around mpox",
+      "description": "Background In May 2022, a global surge in mpox cases, typically endemic to Western and Central Africa, particularly affected gay, bisexual, and other men who have sex with men (gbMSM). This study examines gbMSM communities\u2019 experiences and perceptions around \u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0313325",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0313325.t004&size=inline",
+      "publishedAt": "2024-11-12 14:00:00",
+      "content": "Abstract Background In May 2022, a global surge in mpox cases, typically endemic to Western and Central Africa, particularly affected gay, bisexual, and other men who have sex with men (gbMSM). Thi\u2026 [+55441 chars]",
+      "retrievedAt": "2024-11-13 19:06:26.904025",
+      "internal_id": "4aa5cf4f24fa627e55d7b581a8d8d9f12ff9d469eced3e22a01c6029b73df3bd",
+      "publishedAtLabel": "Nov 12"
+    },
+    {
+      "id": 15467,
+      "query": [
+        "shigellosis"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Basha Ayele, Adane Mihret, Zeleke Mekonnen, Tesfaye Sisay Tessema, Kalkidan Melaku, Maeruf Fetu Nassir, Abaysew Ayele, Dawit Hailu Alemayehu, Getenet Beyene",
+      "title": "Whole genome sequencing and antimicrobial resistance among clinical isolates of Shigella sonnei in Addis Ababa, Ethiopia",
+      "description": "Background Shigellosis is an acute gastroenteritis infection and one of Ethiopia\u2019s most common causes of morbidity and mortality, especially in children under five. Antimicrobial resistance (AMR) has spread quickly among Shigella species due to inappropriate \u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0313310",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0313310.g003&size=inline",
+      "publishedAt": "2024-11-12 14:00:00",
+      "content": "Citation: Ayele B, Mihret A, Mekonnen Z, Sisay Tessema T, Melaku K, Nassir MF, et al. (2024) Whole genome sequencing and antimicrobial resistance among clinical isolates of Shigella sonnei in Addis A\u2026 [+32011 chars]",
+      "retrievedAt": "2024-11-13 19:06:27.798579",
+      "internal_id": "009d04abbb286a9231783c0e39f59c86de8b6ef313efc4df994fc0ec071b1301",
+      "publishedAtLabel": "Nov 12"
+    },
+    {
+      "id": 15461,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Nakedcapitalism.com",
+      "author": "Yves Smith",
+      "title": "Links 11/12/2024",
+      "description": "Our wacky daily links: Thailand cat uproar, dengue in US, 1.5 C sightings, China trade surplus friction, moar Germany tsuris, Qatar v. Hamas fake news, EU censorship on Russia, Germany wants more NATO, Trump appointments, R House margin challenges, Harris wom\u2026",
+      "url": "https://www.nakedcapitalism.com/2024/11/links-11-12-2024.html",
+      "urlToImage": "https://www.nakedcapitalism.com/wp-content/uploads/2024/11/00-mgl-scaled.jpg",
+      "publishedAt": "2024-11-12 11:55:58",
+      "content": "Convulsing cat in Thai TV show sparks abuse concerns BBC :-( Masters of Horror and Magic American Scholar (Anthony L) Punctuation is dead because the iPhone keyboard killed it Android Authority Or\u2026 [+7786 chars]",
+      "retrievedAt": "2024-11-13 19:06:25.321175",
+      "internal_id": "169b62892a7e86adee00fdab3292426e89ab8f824e5e95bb7e9a318c83d4aab2",
+      "publishedAtLabel": "Nov 12"
+    },
+    {
+      "id": 15460,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Haberturk.com",
+      "author": "Habert\u00fcrk",
+      "title": "Ku\u015f gribi insanlar i\u00e7in riskli mi?",
+      "description": "Ankara \u00dcniversitesi Veteriner Fak\u00fcltesi Mikrobiyoloji Anabilim Dal\u0131 Ba\u015fkan\u0131 Prof. Dr. Mehmet Akan, Konya ve Eski\u015fehir'de tavuklarda ku\u015f gribi g\u00f6r\u00fclmesine ili\u015fkin, \"T\u00fcrkiye'de t\u00fcm \u00f6nlemler al\u0131n\u0131yor. \u0130nsanlar i\u00e7in b\u00f6yle bir salg\u0131n riski s\u00f6z konusu de\u011fil\" dedi",
+      "url": "https://www.haberturk.com/kus-gribinde-insanlar-icin-risk-yok-3737127",
+      "urlToImage": "https://im.haberturk.com/l/2024/11/12/ver1731410562/3737127/jpg/1200x628",
+      "publishedAt": "2024-11-12 11:22:58",
+      "content": "Prof. Dr. Mehmet Akan, ge\u00e7en hafta Konya ve Eskiehir'de ku gribi g\u00f6r\u00fclmesine ilikin deerlendirmede bulundu. Prof. Dr. Akan, halk arasnda 'ku gribi' olarak bilinen H5N1 vir\u00fcs\u00fcn\u00fcn 2003 ylnda art g\u00f6ster\u2026 [+1715 chars]",
+      "retrievedAt": "2024-11-13 19:06:25.102080",
+      "internal_id": "bab38eefd798f077bfc835e7d41e2ecc40876c2780e515e95379525babea043e",
+      "publishedAtLabel": "Nov 12"
+    },
+    {
+      "id": 15458,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Skeptoid.com",
+      "author": "brian@skeptoid.com (Brian Dunning), Brian Dunning",
+      "title": "Skeptoid #962: Bats and Rabies",
+      "description": "Bats are scary and rabies is deadly, but do you need to worry about you or your pets catching the disease from them?",
+      "url": "https://skeptoid.com/episodes/4962",
+      "urlToImage": "https://skeptoid.com/eps1200x744/4962.jpg",
+      "publishedAt": "2024-11-12 10:00:00",
+      "content": "With a fatality rate of 100% to both humans and animals who contract it, rabies is one of the world's deadliest viral infections. It is transmitted through the saliva, either by biting or by consumin\u2026 [+10602 chars]",
+      "retrievedAt": "2024-11-13 19:06:24.024430",
+      "internal_id": "ab440fcf6d4dbc050cd344d367ef3ba4f98206ac19f4e6ef299a878d8948a28c",
+      "publishedAtLabel": "Nov 12"
+    },
+    {
+      "id": 15462,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Kffhealthnews.org",
+      "author": "Claudia Boyd-Barrett",
+      "title": "Oficiales de salud en California responden r\u00e1pido a los casos de dengue",
+      "description": "En lo que va del a\u00f1o, las autoridades han identificado al menos 13 casos de dengue de transmisi\u00f3n local, frente a dos en 2023, con 11 en el condado de Los \u00c1ngeles y dos en el \u00e1rea de San Diego.",
+      "url": "https://kffhealthnews.org/news/article/oficiales-de-salud-en-california-responden-rapido-a-los-casos-de-dengue/",
+      "urlToImage": "https://kffhealthnews.org/wp-content/uploads/sites/2/2024/11/GettyImages-1139741575-resized.jpg",
+      "publishedAt": "2024-11-12 10:00:00",
+      "content": "Claudia Boyd-BarrettJason Farned y su equipo en el Distrito de Control de Mosquitos y Vectores del Valle de San Gabriel hab\u00edan pasado a\u00f1os prepar\u00e1ndose para la posible llegada del dengue, un virus pe\u2026 [+9902 chars]",
+      "retrievedAt": "2024-11-13 19:06:25.328610",
+      "internal_id": "412fbcc61c2ba91c0e85b1dbc1686ff78b06f12f516f73b5f09e9f92155f0fa5",
+      "publishedAtLabel": "Nov 12"
+    },
+    {
+      "id": 15464,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Kffhealthnews.org",
+      "author": "Claudia Boyd-Barrett",
+      "title": "California Dengue Cases Prompt Swift Response From Public Health Officials",
+      "description": "With the arrival in California of dengue, a dangerous mosquito-borne disease present mainly in more tropical climates, public health authorities are deploying a range of strategies to beat back the Aedes mosquitoes that spread the virus.",
+      "url": "https://kffhealthnews.org/news/article/california-los-angeles-dengue-fever-public-health-mosquitoes/",
+      "urlToImage": "https://kffhealthnews.org/wp-content/uploads/sites/2/2024/11/GettyImages-1139741575-resized.jpg",
+      "publishedAt": "2024-11-12 10:00:00",
+      "content": "Claudia Boyd-BarrettJason Farned and his team at the San Gabriel Valley Mosquito and Vector Control District had spent years preparing for the likely arrival of dengue, a dangerous virus typically fo\u2026 [+8537 chars]",
+      "retrievedAt": "2024-11-13 19:06:25.378504",
+      "internal_id": "0c590fcd6559ea09972e8f307b0e1c7a0573d0de5b3198757bcc770e9f676451",
+      "publishedAtLabel": "Nov 12"
+    },
     {
       "id": 15455,
       "query": [
@@ -23946,133 +24126,6 @@
       "content": "Dog bites and scratches account for 99 per cent of human rabies cases. [Courtesy] While dogs are often celebrated as man's best friend, they can also pose a deadly risk. In Kenya, rabies claims an \u2026 [+5012 chars]",
       "retrievedAt": "2024-10-01 07:06:35.848423",
       "internal_id": "d10f5e13f18b2978569d000f8a7cfbc1127cf8e5a32953a2305330d40b201a19",
-      "publishedAtLabel": "Sep 29"
-    },
-    {
-      "id": 14124,
-      "query": [
-        "rabies"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "TNN",
-      "title": "State sets goal to end rabies deaths by \u201930",
-      "description": "Panaji: Aligning with a \ue814global disease-fighting goal, the directorate of health services (DHS) has set the target to eliminate human \ue814deaths caused b.",
-      "url": "https://timesofindia.indiatimes.com/city/goa/state-sets-goal-to-end-rabies-deaths-by-30/articleshow/113793081.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-09-29 18:39:03",
-      "content": "10 spotted animals and their distinct markings",
-      "retrievedAt": "2024-09-30 19:05:24.961068",
-      "internal_id": "743a021643863a86ee3aba70a0b9033dc9b794f8b45903ccf6171a7c5a97c308",
-      "publishedAtLabel": "Sep 29"
-    },
-    {
-      "id": 14126,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Shtfplan.com",
-      "author": "Mac Slavo",
-      "title": "The \u201cCluster\u201d of Possible Human Bird Flu Infections Has Expanded to 8",
-      "description": "A cluster of possible bird flu infections in Missouri has grown to include eight people. These eight could very well represent what may be the first examples of person-to-person transmission of the H5N1 avian influenza in the United States, the Centers for Di\u2026",
-      "url": "https://www.shtfplan.com/headline-news/the-cluster-of-possible-human-bird-flu-infections-has-expanded-to-8",
-      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2024/05/birdflu1.jpg",
-      "publishedAt": "2024-09-29 17:30:46",
-      "content": "A cluster of possible bird flu infections in Missouri has grown to include eight people. These eight could very well represent the first examples of person-to-person transmission of the H5N1 avian in\u2026 [+2323 chars]",
-      "retrievedAt": "2024-09-30 19:05:25.942322",
-      "internal_id": "b36641378ed00504b285e3199c5223c57d94ed8d2b6243e12500eb6de41ca933",
-      "publishedAtLabel": "Sep 29"
-    },
-    {
-      "id": 14129,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Gazeta.ru",
-      "author": "\u0413\u0430\u0437\u0435\u0442\u0430.Ru",
-      "title": "\u0412 \u0412\u041e\u0417 \u0440\u0430\u0441\u0441\u043a\u0430\u0437\u0430\u043b\u0438 \u043e \u0441\u043b\u0443\u0447\u0430\u044f \u0441 \u043f\u043e\u0434\u043e\u0437\u0440\u0435\u043d\u0438\u0435\u043c \u043d\u0430 \u043e\u0441\u043f\u0443 \u043e\u0431\u0435\u0437\u044c\u044f\u043d \u0432 \u0410\u0444\u0440\u0438\u043a\u0435 \u0441 \u043d\u0430\u0447\u0430\u043b\u0430 2024 \u0433\u043e\u0434\u0430",
-      "description": "\u0411\u043e\u043b\u0435\u0435 31 \u0442\u044b\u0441. \u0441\u043b\u0443\u0447\u0430\u0435\u0432 \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0430\u043d\u0438\u044f \u0441 \u043f\u043e\u0434\u043e\u0437\u0440\u0435\u043d\u0438\u0435\u043c \u043d\u0430 mpox (\u043d\u043e\u0432\u043e\u0435 \u043d\u0430\u0438\u043c\u0435\u043d\u043e\u0432\u0430\u043d\u0438\u0435 \u043e\u0441\u043f\u044b \u043e\u0431\u0435\u0437\u044c\u044f\u043d) \u0432\u044b\u044f\u0432\u0438\u043b\u0438 \u0432 \u0410\u0444\u0440\u0438\u043a\u0435 \u0441 1 \u044f\u043d\u0432\u0430\u0440\u044f \u043f\u043e 22 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2024 \u0433\u043e\u0434\u0430. \u041e\u0431 \u044d\u0442\u043e\u043c \u0441\u043e\u043e\u0431\u0449\u0430\u0435\u0442\u0441\u044f \u043d\u0430 \u0441\u0430\u0439\u0442\u0435 \u0412\u0441\u0435\u043c\u0438\u0440\u043d\u043e\u0439 \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u0438 \u0437\u0434\u0440\u0430\u0432\u043e\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f (\u0412\u041e\u0417). \u0412 \u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0446\u0438\u0438 ...",
-      "url": "https://www.gazeta.ru/social/news/2024/09/29/24035059.shtml",
-      "urlToImage": "https://img.gazeta.ru/files3/968/14991968/2022-05-23T182141Z_475247910_RC25DU95S1NL_RTRMADP_3_HEALTH-MONKEYPOX-pic_32ratio_900x600-900x600-55005.jpg",
-      "publishedAt": "2024-09-29 13:35:21",
-      "content": "31 . mpox ( ) 1 22 2024 . (). , 2024 31 427 mpox. \u2014 27 103 . , 123 106 310 . , mpox . () , 88 . $21,4 2024 . .",
-      "retrievedAt": "2024-09-30 19:05:28.068294",
-      "internal_id": "31cfb96cd5e031c6c53fbc9e5c8dcca9986cbee7b54b7afd9677695e58e37c4a",
-      "publishedAtLabel": "Sep 29"
-    },
-    {
-      "id": 14128,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Tass.ru",
-      "author": null,
-      "title": "\u0412 \u0410\u0444\u0440\u0438\u043a\u0435 \u0432\u044b\u044f\u0432\u0438\u043b\u0438 31 \u0442\u044b\u0441. \u0441\u043b\u0443\u0447\u0430\u0435\u0432 \u0441 \u043f\u043e\u0434\u043e\u0437\u0440\u0435\u043d\u0438\u0435\u043c \u043d\u0430 mpox \u0441 \u043d\u0430\u0447\u0430\u043b\u0430 \u0433\u043e\u0434\u0430",
-      "description": "\u0417\u0430\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u044b \u0431\u043e\u043b\u0435\u0435 840 \u043b\u0435\u0442\u0430\u043b\u044c\u043d\u044b\u0445 \u0438\u0441\u0445\u043e\u0434\u043e\u0432, \u043f\u0440\u0438\u0447\u0438\u043d\u043e\u0439 \u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u043c\u043e\u0433\u043b\u0430 \u043f\u043e\u0441\u043b\u0443\u0436\u0438\u0442\u044c \u044d\u0442\u0430 \u0431\u043e\u043b\u0435\u0437\u043d\u044c, \u0441\u043e\u043e\u0431\u0449\u0438\u043b\u0438 \u0432 \u0412\u041e\u0417",
-      "url": "https://tass.ru/obschestvo/21989865",
-      "urlToImage": "https://cdn-storage-media.tass.ru/thumb/ru/obschestvo/21989865?u=2024-09-29T13:21:15.571295",
-      "publishedAt": "2024-09-29 13:21:15",
-      "content": ", 29 . //. 31 . mpox ( ) 840 , , 1 22 2024 . (). , 31 427 mpox, 844 . 16 22 2 085, 34 . 402 . mpox () - 27 103 838 . 1 2022 31 2024 123 106 310 , 234 . mpox 2022 11 2023 . , 14 2024 . Mpox -\u2026 [+12 chars]",
-      "retrievedAt": "2024-09-30 19:05:27.932262",
-      "internal_id": "8044e60e22c2cc27d80ae91c10ff02a191b3325ce0f962c0717276be7249cb00",
-      "publishedAtLabel": "Sep 29"
-    },
-    {
-      "id": 14127,
-      "query": [
-        "dengue",
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Catracalivre.com.br",
-      "author": "Andr\u00e9 Nicolau",
-      "title": "MPox, Coqueluche e dengue: como evitar essas doen\u00e7as no Brasil",
-      "description": "Muitas doen\u00e7as acabam chegando ao conhecimento da popula\u00e7\u00e3o apenas quando j\u00e1 est\u00e1 em surto em determinado pa\u00eds ou regi\u00e3o, ou quando \u00e9 registrado \u00f3bito e",
-      "url": "https://catracalivre.com.br/saude-bem-estar/como-evitar-essas-doencas-no-brasil/",
-      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1280,h=720,fit=cover,format=jpeg/wp-content/uploads/2022/03/campanha-vacinacao-sarampo.jpg",
-      "publishedAt": "2024-09-29 11:01:13",
-      "content": "Minist\u00e9rio da Sa\u00fade reverteu tend\u00eancia de queda nas coberturas vacinais nos \u00faltimos anos. Como evitar essas doen\u00e7as no Brasil? User7565abab_575/istock - User7565abab_575/istock Muitas doen\u00e7as acabam\u2026 [+4907 chars]",
-      "retrievedAt": "2024-09-30 19:05:26.396549",
-      "internal_id": "284b02280b08ff4e594a499b1a8efeb1a6c0464631d182a540fd268907499e61",
-      "publishedAtLabel": "Sep 29"
-    },
-    {
-      "id": 14125,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Antaranews.com",
-      "author": "Dewa W, Kenzu",
-      "title": "Indonesia's Bali intensifies rabies vaccination for pets",
-      "description": "The Bali government is accelerating the vaccination of dogs and cats to prevent the transmission of the rabies virus in the province. &quot;We must make ...",
-      "url": "https://en.antaranews.com/news/327715/indonesias-bali-intensifies-rabies-vaccination-for-pets",
-      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2024/09/29/IMG_20240929_113136.jpg",
-      "publishedAt": "2024-09-29 08:09:30",
-      "content": "Denpasar, Bali (ANTARA) - The Bali government is accelerating the vaccination of dogs and cats to prevent the transmission of the rabies virus in the province.\"We must make Bali rabies-free,\" Bali's \u2026 [+1563 chars]",
-      "retrievedAt": "2024-09-30 19:05:25.023338",
-      "internal_id": "f88760feb3afc552efdeaf202dcd833c2c717f0007f02d68aa979775b32bf48c",
-      "publishedAtLabel": "Sep 29"
-    },
-    {
-      "id": 14130,
-      "query": [
-        "leptospirosis"
-      ],
-      "source_id": null,
-      "source_name": "NDTV News",
-      "author": null,
-      "title": "Punjab Chief Minister Bhagwant Mann Diagnosed With Leptospirosis",
-      "description": "Punjab Chief Minister Bhagwant Mann was on Saturday diagnosed with bacterial infection leptospirosis, with doctors saying he is being given antibiotics and his vitals are \"completely stable\".",
-      "url": "https://www.ndtv.com/chandigarh-news/punjab-cm-bhagwant-mann-diagnosed-with-leptospirosis-6675554",
-      "urlToImage": "https://c.ndtvimg.com/2024-07/ba1eqpao_bhagwant-mann_625x300_25_July_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-      "publishedAt": "2024-09-29 07:15:35",
-      "content": "Punjab Chief Minister Bhagwant Mann was admitted to the Fortis Hospital, Mohali. (File) Chandigarh: Punjab Chief Minister Bhagwant Mann was on Saturday diagnosed with bacterial infection leptospiros\u2026 [+1620 chars]",
-      "retrievedAt": "2024-09-30 19:05:28.540483",
-      "internal_id": "de2c3109f6ab8336ee7dbcdf3d8013e2c4e684d60123990760058d931a2dd580",
       "publishedAtLabel": "Sep 29"
     }
   ]

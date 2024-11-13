@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 5
-- **Last harvest:** 2024-11-13 07:06
-- **Most recent article:** 2024-11-12 05:00:00
+- **New articles in last harvest:** 10
+- **Last harvest:** 2024-11-13 19:06
+- **Most recent article:** 2024-11-12 16:38:34
 
 ---
 
@@ -12,21 +12,21 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-40 | 24-41 | 24-42 | 24-43 | 24-44 | 24-45 | 24-46 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 127 | 42 | 81 | 131 | 75 | 63 | 17 | 536 |
-| dengue | 50 | 35 | 50 | 53 | 31 | 31 | 4 | 254 |
-| h5n1 | 50 | 10 | 18 | 12 | 61 | 36 | 15 | 202 |
+| mpox | 124 | 42 | 81 | 131 | 75 | 63 | 18 | 534 |
+| dengue | 49 | 35 | 50 | 53 | 31 | 31 | 8 | 257 |
+| h5n1 | 49 | 10 | 18 | 12 | 61 | 36 | 16 | 202 |
 | malaria | 10 | 13 | 18 | 58 | 16 | 26 | 7 | 148 |
-| rabies | 28 | 6 | 7 | 3 | 10 | 5 | 0 | 59 |
+| rabies | 26 | 6 | 7 | 3 | 10 | 5 | 1 | 58 |
 | zika | 3 | 4 | 6 | 6 | 3 | 9 | 1 | 32 |
 | measles | 5 | 5 | 3 | 1 | 13 | 3 | 2 | 32 |
-| meningitis | 11 | 2 | 1 | 6 | 3 | 5 | 0 | 28 |
+| meningitis | 11 | 2 | 1 | 6 | 3 | 5 | 1 | 29 |
 | pertussis | 2 | 2 | 9 | 3 | 1 | 3 | 2 | 22 |
 | chikungunya | 3 | 3 | 4 | 7 | 2 | 2 | 1 | 22 |
-| leptospirosis | 3 | 1 | 1 | 0 | 3 | 10 | 3 | 21 |
-| hpai | 2 | 1 | 2 | 2 | 7 | 4 | 0 | 18 |
+| leptospirosis | 2 | 1 | 1 | 0 | 3 | 10 | 3 | 20 |
+| hpai | 2 | 1 | 2 | 2 | 7 | 4 | 1 | 19 |
 | typhoid | 1 | 0 | 1 | 3 | 4 | 1 | 0 | 10 |
+| shigellosis | 1 | 3 | 0 | 1 | 0 | 0 | 1 | 6 |
 | yersinia | 1 | 1 | 0 | 0 | 3 | 0 | 0 | 5 |
-| shigellosis | 1 | 3 | 0 | 1 | 0 | 0 | 0 | 5 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -37,6 +37,14 @@ Source: [News API](https://newsapi.org/)
 
 - [Continúan acciones de prevención contra Dengue, Zika y Chikungunya en Chiapas: Rutilio Escandón](https://www.jornada.com.mx/2024/11/10/estados/021n4est) (Jornada.com.mx)
 
+## 24-46 (shigellosis)
+
+- [Whole genome sequencing and antimicrobial resistance among clinical isolates of Shigella sonnei in Addis Ababa, Ethiopia](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0313310) (Plos.org)
+
+## 24-46 (rabies)
+
+- [Skeptoid #962: Bats and Rabies](https://skeptoid.com/episodes/4962) (Skeptoid.com)
+
 ## 24-46 (pertussis)
 
 - [WA Health: Significant increase in reported cases of pertussis (whooping cough) | Whatcom News](https://whatcom-news.com/wa-health-significant-increase-in-reported-cases-of-pertussis-whooping-cough_220911/) (Whatcom-news.com)
@@ -44,6 +52,8 @@ Source: [News API](https://newsapi.org/)
 - [Diphtheria-tetanus-pertussis immunization and sudden infant death: results of the National Institute of Child Health and Human Development Cooperative Epidemiological Study of Sudden Infant Death Syndrome risk factors](https://pubmed.ncbi.nlm.nih.gov/3493477/) (National Institutes of Health)
 
 ## 24-46 (mpox)
+
+- [Recognising and responding to the community needs of gay and bisexual men around mpox](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0313325) (Plos.org)
 
 - [OMS convoca comitê para reavaliar emergência global por mpox](https://dinheirama.com/oms-convoca-comite-para-reavaliar-emergencia-global-por-mpox/) (Dinheirama.com)
 
@@ -79,6 +89,10 @@ Source: [News API](https://newsapi.org/)
 
 - [WHO, Africa CDC strengthen Mpox vaccination in Nigeria, 16 other countries](https://punchng.com/who-africa-cdc-strengthen-mpox-vaccination-in-nigeria-16-other-countries/) (The Punch)
 
+## 24-46 (meningitis)
+
+- [„Bei einer bakteriellen Meningitis verschlechtert sich die Prognose pro Stunde um 30 Prozent“](https://www.welt.de/gesundheit/article254485968/Hirnentzuendung-Bei-einer-bakteriellen-Meningitis-verschlechtert-sich-die-Prognose-pro-Stunde-um-30-Prozent.html) (DIE WELT)
+
 ## 24-46 (measles)
 
 - [Daily Tech News 10 November 2024](https://acecomments.mu.nu/?post=412315) (Acecomments.mu.nu)
@@ -109,7 +123,13 @@ Source: [News API](https://newsapi.org/)
 
 - [Llega un nuevo temporal de lluvia y frío a España: Aemet avisa por DANA, nevadas y 100 l/m esta semana en estas zonas](https://www.elespanol.com/ciencia/meteorologia/20241110/llega-nuevo-temporal-lluvia-frio-espana-aemet-avisa-dana-nevadas-lm-semana-zonas/899660612_0.html) (Elespanol.com)
 
+## 24-46 (hpai)
+
+- [Η γρίπη των πτηνών απειλεί με εξαφάνιση τα περιπλανώμενα αλμπατρός](https://www.skai.gr/news/environment/i-gripi-ton-ptinon-apeilei-ta-periplanomena-almpatros) (Skai.gr)
+
 ## 24-46 (h5n1)
+
+- [Kuş gribi insanlar için riskli mi?](https://www.haberturk.com/kus-gribinde-insanlar-icin-risk-yok-3737127) (Haberturk.com)
 
 - [Human bird flu case presumed in Canada, teenage patient is hospitalized](https://www.foxnews.com/health/human-bird-flu-case-presumed-canada-teenage-patient-hospitalized) (Fox News)
 
@@ -142,6 +162,14 @@ Source: [News API](https://newsapi.org/)
 - [Experts Weigh In On Bird Flu Concerns, And The Consensus Isn't As Scary As You Might Think](https://www.huffpost.com/entry/bird-flu-h1n5-virus_l_672bc43ae4b01cfbdad3a432) (HuffPost)
 
 ## 24-46 (dengue)
+
+- [Gesundheit: Mensch gegen Mücke](https://www.sueddeutsche.de/wissen/tigermuecken-aedes-aegypti-dengue-zika-gelbfieber-insekten-moskitos-klimawandel-li.3143287) (Süddeutsche Zeitung)
+
+- [Links 11/12/2024](https://www.nakedcapitalism.com/2024/11/links-11-12-2024.html) (Nakedcapitalism.com)
+
+- [Oficiales de salud en California responden rápido a los casos de dengue](https://kffhealthnews.org/news/article/oficiales-de-salud-en-california-responden-rapido-a-los-casos-de-dengue/) (Kffhealthnews.org)
+
+- [California Dengue Cases Prompt Swift Response From Public Health Officials](https://kffhealthnews.org/news/article/california-los-angeles-dengue-fever-public-health-mosquitoes/) (Kffhealthnews.org)
 
 - [Bacolod: Negros Occidental logs 5,528 dengue cases](https://rpnradio.com/bacolod-negros-occidental-logs-5528-dengue-cases/) (Rpnradio.com)
 
@@ -2453,10 +2481,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Rabies, a deadly threat to man's best friend](https://www.standardmedia.co.ke/health/health-science/article/2001503663/rabies-a-deadly-threat-to-mans-best-friend) (Standard Digital)
 
-- [State sets goal to end rabies deaths by ’30](https://timesofindia.indiatimes.com/city/goa/state-sets-goal-to-end-rabies-deaths-by-30/articleshow/113793081.cms) (The Times of India)
-
-- [Indonesia's Bali intensifies rabies vaccination for pets](https://en.antaranews.com/news/327715/indonesias-bali-intensifies-rabies-vaccination-for-pets) (Antaranews.com)
-
 ## 24-40 (pertussis)
 
 - [TWiV 1154: Clinical update with Dr. Daniel Griffin](https://www.microbe.tv/twiv/twiv-1154/) (Microbe.tv)
@@ -2713,12 +2737,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Slow response to mpox a wake-up call](https://www.bangkokpost.com/opinion/opinion/2874488/slow-response-to-mpox-a-wake-up-call) (Bangkok Post)
 
-- [В ВОЗ рассказали о случая с подозрением на оспу обезьян в Африке с начала 2024 года](https://www.gazeta.ru/social/news/2024/09/29/24035059.shtml) (Gazeta.ru)
-
-- [В Африке выявили 31 тыс. случаев с подозрением на mpox с начала года](https://tass.ru/obschestvo/21989865) (Tass.ru)
-
-- [MPox, Coqueluche e dengue: como evitar essas doenças no Brasil](https://catracalivre.com.br/saude-bem-estar/como-evitar-essas-doencas-no-brasil/) (Catracalivre.com.br)
-
 ## 24-40 (meningitis)
 
 - [La nueva vida de Luis Canut, marido de Patricia Pérez, tras haber perdido la visión: carnet de la ONCE y aprendiendo a usar el bastón](https://www.lavozdegalicia.es/noticia/gente/2024/10/05/nueva-vida-luis-canut-marido-patricia-perez-tras-haber-perdido-vision-carnet-once-aprendiendo-usar-baston/00031728120151743807523.htm) (Lavozdegalicia.es)
@@ -2782,8 +2800,6 @@ Source: [News API](https://newsapi.org/)
 - [City records 18 lepto, 12 dengue deaths this year](https://timesofindia.indiatimes.com/city/mumbai/mumbai-faces-surge-in-dengue-and-leptospirosis-deaths-amidst-monsoon/articleshow/113860985.cms) (The Times of India)
 
 - [What Is Leptospirosis: A Hidden Health Risk In India](https://doctor.ndtv.com/living-healthy/what-is-leptospirosis-a-hidden-health-risk-in-india-6682647) (NDTV News)
-
-- [Punjab Chief Minister Bhagwant Mann Diagnosed With Leptospirosis](https://www.ndtv.com/chandigarh-news/punjab-cm-bhagwant-mann-diagnosed-with-leptospirosis-6675554) (NDTV News)
 
 ## 24-40 (hpai)
 
@@ -2891,8 +2907,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Erste Mensch-zu-Mensch-Übertragung? - Neue Vogelgrippe-Fälle in den USA lassen jetzt Schlimmstes befürchten](https://www.focus.de/gesundheit/erste-mensch-zu-mensch-uebertragung-neue-vogelgrippe-faelle-in-den-usa-lassen-jetzt-schlimmstes-befuerchten_cc4f3bd6-86ba-4cb7-8926-6d5493b0ce59.html) (Focus)
 
-- [The “Cluster” of Possible Human Bird Flu Infections Has Expanded to 8](https://www.shtfplan.com/headline-news/the-cluster-of-possible-human-bird-flu-infections-has-expanded-to-8) (Shtfplan.com)
-
 ## 24-40 (dengue)
 
 - [Nuova disinfestazione per Dengue a Fano, incidenza casi scende](https://www.ansa.it/marche/notizie/2024/10/05/nuova-disinfestazione-per-dengue-a-fano-incidenza-casi-scende_97556277-52e9-4333-830a-bbee7cfbd64c.html) (ANSA.it)
@@ -2992,8 +3006,6 @@ Source: [News API](https://newsapi.org/)
 - [Dengue Cases Surge in Guwahati’s Densely Populated Areas](https://thehillstimes.in/guwahati/dengue-cases-surge-in-guwahatis-densely-populated-areas) (Thehillstimes.in)
 
 - [दिल्ली में फिर डराने लगा डेंगू, मरीजों में गिर रहा प्लेटलेट्स काउंट, लिवर-किडनी को भी नुकसान](https://navbharattimes.indiatimes.com/metro/delhi/other-news/delhi-dengue-cases-increasing-platelets-count-also-declining-know-reason-here/articleshow/113796823.cms) (The Times of India)
-
-- [MPox, Coqueluche e dengue: como evitar essas doenças no Brasil](https://catracalivre.com.br/saude-bem-estar/como-evitar-essas-doencas-no-brasil/) (Catracalivre.com.br)
 
 ## 24-40 (chikungunya)
 
