@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 22
-- **Last harvest:** 2024-11-12 19:05
-- **Most recent article:** 2024-11-11 18:50:13
+- **New articles in last harvest:** 5
+- **Last harvest:** 2024-11-13 07:06
+- **Most recent article:** 2024-11-12 05:00:00
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-40 | 24-41 | 24-42 | 24-43 | 24-44 | 24-45 | 24-46 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 124 | 42 | 81 | 131 | 75 | 63 | 14 | 530 |
-| dengue | 49 | 35 | 50 | 53 | 31 | 31 | 4 | 253 |
-| h5n1 | 49 | 10 | 18 | 12 | 61 | 36 | 15 | 201 |
-| malaria | 10 | 13 | 18 | 58 | 16 | 26 | 5 | 146 |
-| rabies | 26 | 6 | 7 | 3 | 10 | 5 | 0 | 57 |
+| mpox | 127 | 42 | 81 | 131 | 75 | 63 | 17 | 536 |
+| dengue | 50 | 35 | 50 | 53 | 31 | 31 | 4 | 254 |
+| h5n1 | 50 | 10 | 18 | 12 | 61 | 36 | 15 | 202 |
+| malaria | 10 | 13 | 18 | 58 | 16 | 26 | 7 | 148 |
+| rabies | 28 | 6 | 7 | 3 | 10 | 5 | 0 | 59 |
 | zika | 3 | 4 | 6 | 6 | 3 | 9 | 1 | 32 |
 | measles | 5 | 5 | 3 | 1 | 13 | 3 | 2 | 32 |
 | meningitis | 11 | 2 | 1 | 6 | 3 | 5 | 0 | 28 |
 | pertussis | 2 | 2 | 9 | 3 | 1 | 3 | 2 | 22 |
 | chikungunya | 3 | 3 | 4 | 7 | 2 | 2 | 1 | 22 |
-| leptospirosis | 2 | 1 | 1 | 0 | 3 | 10 | 3 | 20 |
+| leptospirosis | 3 | 1 | 1 | 0 | 3 | 10 | 3 | 21 |
 | hpai | 2 | 1 | 2 | 2 | 7 | 4 | 0 | 18 |
 | typhoid | 1 | 0 | 1 | 3 | 4 | 1 | 0 | 10 |
 | yersinia | 1 | 1 | 0 | 0 | 3 | 0 | 0 | 5 |
@@ -44,6 +44,12 @@ Source: [News API](https://newsapi.org/)
 - [Diphtheria-tetanus-pertussis immunization and sudden infant death: results of the National Institute of Child Health and Human Development Cooperative Epidemiological Study of Sudden Infant Death Syndrome risk factors](https://pubmed.ncbi.nlm.nih.gov/3493477/) (National Institutes of Health)
 
 ## 24-46 (mpox)
+
+- [OMS convoca comitê para reavaliar emergência global por mpox](https://dinheirama.com/oms-convoca-comite-para-reavaliar-emergencia-global-por-mpox/) (Dinheirama.com)
+
+- [OMS convoca comitê para avaliar se mpox continua como emergência global](https://veja.abril.com.br/saude/oms-convoca-comite-para-avaliar-se-mpox-continua-como-emergencia-global) (Abril.com.br)
+
+- [С 20 октября по 3 ноября в Африке выявили более 1,8 тыс. случаев оспы обезьян](https://tass.ru/obschestvo/22375755) (Tass.ru)
 
 - [Mpox Cases Plateau in Congo's Epicenter But Rise in Other Countries](https://www.newsweek.com/mpox-monkeypox-cases-congos-epicenter-uganda-burundi-1983769) (Newsweek)
 
@@ -80,6 +86,10 @@ Source: [News API](https://newsapi.org/)
 - [Nigerian children on World Immunisation Day](https://punchng.com/nigerian-children-on-world-immunisation-day/) (The Punch)
 
 ## 24-46 (malaria)
+
+- [‘What can we do?’: Waterborne diseases continue plaguing Pakistan 2 years after devastating floods](https://www.channelnewsasia.com/asia/pakistan-floods-surge-waterborne-diseases-malaria-public-health-4740661) (CNA)
+
+- [Ogun pledges support for malaria campaign with 3.1 million nets](https://punchng.com/ogun-pledges-support-for-malaria-campaign-with-3-1-million-nets/) (The Punch)
 
 - [The Plasmodium transmission-blocking symbiont, Microsporidia MB, is vertically transmitted through Anopheles arabiensis germline stem cells](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012340) (Plos.org)
 
@@ -2443,6 +2453,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Rabies, a deadly threat to man's best friend](https://www.standardmedia.co.ke/health/health-science/article/2001503663/rabies-a-deadly-threat-to-mans-best-friend) (Standard Digital)
 
+- [State sets goal to end rabies deaths by ’30](https://timesofindia.indiatimes.com/city/goa/state-sets-goal-to-end-rabies-deaths-by-30/articleshow/113793081.cms) (The Times of India)
+
+- [Indonesia's Bali intensifies rabies vaccination for pets](https://en.antaranews.com/news/327715/indonesias-bali-intensifies-rabies-vaccination-for-pets) (Antaranews.com)
+
 ## 24-40 (pertussis)
 
 - [TWiV 1154: Clinical update with Dr. Daniel Griffin](https://www.microbe.tv/twiv/twiv-1154/) (Microbe.tv)
@@ -2699,6 +2713,12 @@ Source: [News API](https://newsapi.org/)
 
 - [Slow response to mpox a wake-up call](https://www.bangkokpost.com/opinion/opinion/2874488/slow-response-to-mpox-a-wake-up-call) (Bangkok Post)
 
+- [В ВОЗ рассказали о случая с подозрением на оспу обезьян в Африке с начала 2024 года](https://www.gazeta.ru/social/news/2024/09/29/24035059.shtml) (Gazeta.ru)
+
+- [В Африке выявили 31 тыс. случаев с подозрением на mpox с начала года](https://tass.ru/obschestvo/21989865) (Tass.ru)
+
+- [MPox, Coqueluche e dengue: como evitar essas doenças no Brasil](https://catracalivre.com.br/saude-bem-estar/como-evitar-essas-doencas-no-brasil/) (Catracalivre.com.br)
+
 ## 24-40 (meningitis)
 
 - [La nueva vida de Luis Canut, marido de Patricia Pérez, tras haber perdido la visión: carnet de la ONCE y aprendiendo a usar el bastón](https://www.lavozdegalicia.es/noticia/gente/2024/10/05/nueva-vida-luis-canut-marido-patricia-perez-tras-haber-perdido-vision-carnet-once-aprendiendo-usar-baston/00031728120151743807523.htm) (Lavozdegalicia.es)
@@ -2762,6 +2782,8 @@ Source: [News API](https://newsapi.org/)
 - [City records 18 lepto, 12 dengue deaths this year](https://timesofindia.indiatimes.com/city/mumbai/mumbai-faces-surge-in-dengue-and-leptospirosis-deaths-amidst-monsoon/articleshow/113860985.cms) (The Times of India)
 
 - [What Is Leptospirosis: A Hidden Health Risk In India](https://doctor.ndtv.com/living-healthy/what-is-leptospirosis-a-hidden-health-risk-in-india-6682647) (NDTV News)
+
+- [Punjab Chief Minister Bhagwant Mann Diagnosed With Leptospirosis](https://www.ndtv.com/chandigarh-news/punjab-cm-bhagwant-mann-diagnosed-with-leptospirosis-6675554) (NDTV News)
 
 ## 24-40 (hpai)
 
@@ -2869,6 +2891,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Erste Mensch-zu-Mensch-Übertragung? - Neue Vogelgrippe-Fälle in den USA lassen jetzt Schlimmstes befürchten](https://www.focus.de/gesundheit/erste-mensch-zu-mensch-uebertragung-neue-vogelgrippe-faelle-in-den-usa-lassen-jetzt-schlimmstes-befuerchten_cc4f3bd6-86ba-4cb7-8926-6d5493b0ce59.html) (Focus)
 
+- [The “Cluster” of Possible Human Bird Flu Infections Has Expanded to 8](https://www.shtfplan.com/headline-news/the-cluster-of-possible-human-bird-flu-infections-has-expanded-to-8) (Shtfplan.com)
+
 ## 24-40 (dengue)
 
 - [Nuova disinfestazione per Dengue a Fano, incidenza casi scende](https://www.ansa.it/marche/notizie/2024/10/05/nuova-disinfestazione-per-dengue-a-fano-incidenza-casi-scende_97556277-52e9-4333-830a-bbee7cfbd64c.html) (ANSA.it)
@@ -2968,6 +2992,8 @@ Source: [News API](https://newsapi.org/)
 - [Dengue Cases Surge in Guwahati’s Densely Populated Areas](https://thehillstimes.in/guwahati/dengue-cases-surge-in-guwahatis-densely-populated-areas) (Thehillstimes.in)
 
 - [दिल्ली में फिर डराने लगा डेंगू, मरीजों में गिर रहा प्लेटलेट्स काउंट, लिवर-किडनी को भी नुकसान](https://navbharattimes.indiatimes.com/metro/delhi/other-news/delhi-dengue-cases-increasing-platelets-count-also-declining-know-reason-here/articleshow/113796823.cms) (The Times of India)
+
+- [MPox, Coqueluche e dengue: como evitar essas doenças no Brasil](https://catracalivre.com.br/saude-bem-estar/como-evitar-essas-doencas-no-brasil/) (Catracalivre.com.br)
 
 ## 24-40 (chikungunya)
 
