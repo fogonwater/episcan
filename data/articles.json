@@ -1,8 +1,296 @@
 {
-  "last_updated": "2024-11-14 07:06",
-  "count_articles_total": 1353,
-  "count_articles_new": 9,
+  "last_updated": "2024-11-14 19:05",
+  "count_articles_total": 1362,
+  "count_articles_new": 16,
   "articles": [
+    {
+      "id": 15483,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Index.hu",
+      "author": "Kuli Orsolya",
+      "title": "Egyre csak terjed a mad\u00e1rinfluenza, m\u00e1r nyolc v\u00e1rmegy\u00e9ben van jelen a k\u00f3r",
+      "description": "Egyre csak terjed a mad\u00e1rinfluenza, m\u00e1r nyolc v\u00e1rmegy\u00e9ben van jelen a k\u00f3r - Az \u00e9rintett \u00e1llom\u00e1ny felsz\u00e1mol\u00e1sa \u00e9s a j\u00e1rv\u00e1ny\u00fcgyi nyomoz\u00e1s megkezd\u0151d\u00f6tt.",
+      "url": "https://index.hu/belfold/2024/11/13/madarinfluenza-tarkany-komarom-esztergom-varmegye-nebih/",
+      "urlToImage": "https://kep.cdn.index.hu/1/0/5920/59206/592064/59206423_4377937_1cc416ca0145c0f4beacc12f979bec73_wm.jpg",
+      "publishedAt": "2024-11-13 18:25:00",
+      "content": "A csaknem 60 ezres teny\u00e9szty\u00fak-telepen elhull\u00e1sok miatt mer\u00fclt fel a mad\u00e1rinfluenza gyan\u00faja, a vizsg\u00e1lat a v\u00edrus H5N1 alt\u00edpus\u00e1t mutatta ki. A gazdas\u00e1g k\u00f6r\u00fcl 3 kilom\u00e9ter sugar\u00fa v\u00e9dk\u00f6rzetet \u00e9s 10 kilom\u2026 [+497 chars]",
+      "retrievedAt": "2024-11-14 19:05:44.457825",
+      "internal_id": "0a48669d9f3f3d831bc3568088cd426c8964bf0bd77552750e632f898165e14e",
+      "publishedAtLabel": "Nov 13"
+    },
+    {
+      "id": 15481,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Jneurosci.org",
+      "author": "Prevost, E. D., Phillips, A., Lauridsen, K., Enserro, G., Rubinstein, B., Alas, D., McGovern, D. J., Ly, A., Hotchkiss, H., Banks, M., McNulty, C., Kim, Y. S., Fenno, L. E., Ramakrishnan, C., Deisseroth, K., Root, D. H.",
+      "title": "Monosynaptic Inputs to Ventral Tegmental Area Glutamate and GABA Co-transmitting Neurons",
+      "description": "A unique population of ventral tegmental area (VTA) neurons co-transmits glutamate and GABA. However, the circuit inputs to VTA VGluT2+VGaT+ neurons are unknown, limiting our understanding of their functional capabilities. By coupling monosynaptic rabies trac\u2026",
+      "url": "https://www.jneurosci.org/content/44/46/e2184232024",
+      "urlToImage": "https://www.jneurosci.org/sites/default/files/highwire/jneuro/44/46.cover-source.jpg",
+      "publishedAt": "2024-11-13 17:30:19",
+      "content": "A unique population of ventral tegmental area (VTA) neurons co-transmits glutamate and GABA. However, the circuit inputs to VTA VGluT2+VGaT+ neurons are unknown, limiting our understanding of their f\u2026 [+1405 chars]",
+      "retrievedAt": "2024-11-14 19:05:43.230160",
+      "internal_id": "f7ce0686a31d84a4d21470f77e4361ea3d31f0b841e919392a56a1dd82009852",
+      "publishedAtLabel": "Nov 13"
+    },
+    {
+      "id": 15485,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Avoid contact with sick or dead birds, health officials urge, amid concerns about avian flu",
+      "description": "Experts and health authorities say that while the risk of human infection with the H5N1 strain of the avian influenza remains low, people should avoid contact with sick or dead birds.",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/avian-flu-november-2024-1.7382156",
+      "urlToImage": "https://i.cbc.ca/1.6843054.1684065408!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/avian-flu-pennsylvania.jpg",
+      "publishedAt": "2024-11-13 16:59:59",
+      "content": "Carolyn Law didn't think much of it when a snow goose landed in her Richmond, B.C., backyard, on Halloween. But hours later it had barely moved. Then it started bobbing its head repeatedly. About e\u2026 [+4614 chars]",
+      "retrievedAt": "2024-11-14 19:05:44.504144",
+      "internal_id": "d0542c70027c392a7faff74fcb5c0f956237e59792f80228e202450637134037",
+      "publishedAtLabel": "Nov 13"
+    },
+    {
+      "id": 15492,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Clement Meseko, Veterinarian & Virologist, National Veterinary Research Institute, Vom, Jos",
+      "title": "Which animals carry mpox? Our study identified African forest dwelling rodents as one source",
+      "description": "When occurring in nature, mpox is mostly confined to the humid forest regions of west and central Africa.",
+      "url": "https://theconversation.com/which-animals-carry-mpox-our-study-identified-african-forest-dwelling-rodents-as-one-source-242795",
+      "urlToImage": "https://images.theconversation.com/files/631403/original/file-20241112-15-zwuwb9.jpg?ixlib=rb-4.1.0&rect=31%2C648%2C4115%2C2057&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2024-11-13 16:40:23",
+      "content": "Mpox is a disease caused by the highly infectious monkeypox virus. It\u2019s quite easily passed on from one person to another. But it originally came from infected animals. The virus was discovered in \u2026 [+6314 chars]",
+      "retrievedAt": "2024-11-14 19:05:46.626774",
+      "internal_id": "2cabd1486791720268f66bed59fd35cdc07e0f7d57c0dbedb881080ed4c6a45b",
+      "publishedAtLabel": "Nov 13"
+    },
+    {
+      "id": 15487,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": null,
+      "title": "Prevention Tips For Dengue Infection",
+      "description": "This article explores practical tips for dengue prevention and the ways early action can help prevent serious, long-term health consequences.",
+      "url": "https://www.ndtv.com/health/prevention-tips-for-dengue-can-early-intervention-prevent-long-term-health-risks-7012603",
+      "urlToImage": "https://c.ndtvimg.com/2022-09/ha7jqn5o_dengue-mosquito-generic_625x300_19_September_22.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "publishedAt": "2024-11-13 16:30:02",
+      "content": "Dengue, a mosquito-borne viral infection, can lead to severe health complications if not managed early. From fever and joint pain to more serious conditions like hemorrhagic fever and organ damage, d\u2026 [+4218 chars]",
+      "retrievedAt": "2024-11-14 19:05:44.903324",
+      "internal_id": "e72c9c36cf6fdba51e76a1d01877f96cf8f87a94738aa63c297e0a3d2ef108d8",
+      "publishedAtLabel": "Nov 13"
+    },
+    {
+      "id": 15491,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Advocate.com",
+      "author": "Ryan Adamczeski",
+      "title": "Gay men have been cautious about mpox. Will a second Donald Trump term set them back?",
+      "description": "Gay men may be more trusting of medicine than other groups, but the incoming Trump Administration will need more than their willingness to continue combating mpox.",
+      "url": "https://www.advocate.com/health/donald-trump-administration-mpox",
+      "urlToImage": "https://www.advocate.com/media-library/concerned-gay-men-couple-beach-sunset.jpg?id=54489910&width=1200&height=600&coordinates=0%2C39%2C0%2C39",
+      "publishedAt": "2024-11-13 16:25:19",
+      "content": "Gay men may be more trusting of medicine than other groups, but the incoming Trump Administration will need more than their willingness to continue combating mpox. Keep up with the latest in LGBTQ+\u2026 [+5175 chars]",
+      "retrievedAt": "2024-11-14 19:05:46.536976",
+      "internal_id": "f339e3c7962198f5c4c8dd372c570e7bae7b585926cf17150a4d1d1f12e74398",
+      "publishedAtLabel": "Nov 13"
+    },
+    {
+      "id": 15482,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Gizmodo.com",
+      "author": "Ed Cara",
+      "title": "Canada\u2019s First Human Case of H5 Bird Flu Leaves Teen in Critical Condition",
+      "description": "British Columbia health officials have yet to identify a likely source of the infection, though none of the teen's contacts have tested positive for the virus so far.",
+      "url": "https://gizmodo.com/canadas-first-human-case-of-h5-bird-flu-leaves-teen-in-critical-condition-2000524014",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/11/Canadian-Hens.jpg",
+      "publishedAt": "2024-11-13 16:20:39",
+      "content": "A Canadian teenager has been hospitalized and is in critical condition after contracting what appears to be H5N1 bird fluthe first such case detected in the country. Much is still unknown about the c\u2026 [+3259 chars]",
+      "retrievedAt": "2024-11-14 19:05:44.417636",
+      "internal_id": "9fe5f5a70cdb7be07ddc8db927e12700ec7fde16a78e28bafc679c21ad9780a2",
+      "publishedAtLabel": "Nov 13"
+    },
+    {
+      "id": 15480,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Newser",
+      "author": "Arden Dier",
+      "title": "Owner of Euthanized Squirrel Promises 'Very Big' Lawsuit",
+      "description": "The Instagram-famous pet squirrel euthanized in New York to test for rabies did not have the disease, environmental officers confirmed Tuesday as the squirrel's rescuer promised to sue. The state Department of Environmental Conservation said a rabies test was\u2026",
+      "url": "https://www.newser.com/story/359449/owner-of-euthanized-squirrel-promises-very-big-lawsuit.html",
+      "urlToImage": "https://img2-azrcdn.newser.com/image/1572523-12-20241113090516.jpeg",
+      "publishedAt": "2024-11-13 14:50:00",
+      "content": "The Instagram-famous pet squirrel euthanized in New York to test for rabies did not have the disease, environmental officers confirmed Tuesday as the squirrel's rescuer promised to sue. The state Dep\u2026 [+1961 chars]",
+      "retrievedAt": "2024-11-14 19:05:43.223608",
+      "internal_id": "11777549d592496637f06e526ff9fe0ee9c72d7595acf6618f414eb3d58abe41",
+      "publishedAtLabel": "Nov 13"
+    },
+    {
+      "id": 15484,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Life.ru",
+      "author": "\u041c\u0430\u0440\u0438\u043d\u0430 \u0424\u0435\u0449\u0435\u043d\u043a\u043e",
+      "title": "\u0412 \u0420\u043e\u0441\u0441\u0438\u044e \u0437\u0430\u043f\u0440\u0435\u0442\u0438\u043b\u0438 \u0432\u0432\u043e\u0437\u0438\u0442\u044c \u043a\u0443\u0440\u0438\u0446\u0443 \u0438 \u044f\u0439\u0446\u0430 \u0438\u0437 \u0422\u0443\u0440\u0446\u0438\u0438 \u0438\u0437-\u0437\u0430 \u0432\u0441\u043f\u044b\u0448\u043a\u0438 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430",
+      "description": "\u0412 \u0420\u043e\u0441\u0441\u0438\u0438 \u0432\u0432\u0435\u0434\u0435\u043d \u0437\u0430\u043f\u0440\u0435\u0442 \u043d\u0430 \u0438\u043c\u043f\u043e\u0440\u0442 \u043f\u0440\u043e\u0434\u0443\u043a\u0446\u0438\u0438 \u043f\u0442\u0438\u0446\u0435\u0432\u043e\u0434\u0441\u0442\u0432\u0430 \u0438\u0437 \u0442\u0443\u0440\u0435\u0446\u043a\u043e\u0439 \u043f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u0438 \u041a\u043e\u043d\u044c\u044f \u0432 \u0441\u0432\u044f\u0437\u0438 \u0441 \u0432\u044b\u044f\u0432\u043b\u0435\u043d\u0438\u0435\u043c \u0432\u044b\u0441\u043e\u043a\u043e\u043f\u0430\u0442\u043e\u0433\u0435\u043d\u043d\u043e\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430 \u043f\u0442\u0438\u0446 H5N1, \u0441\u043e\u043e\u0431\u0449\u0430\u0435\u0442 \u0420\u043e\u0441\u0441\u0435\u043b\u044c\u0445\u043e\u0437\u043d\u0430\u0434\u0437\u043e\u0440.\u0427\u0438\u0442\u0430\u0442\u044c \u0434\u0430\u043b\u0435\u0435...",
+      "url": "https://life.ru/p/1702660",
+      "urlToImage": "https://static.life.ru/publications/2024/11/13/1647440556515.427.webp",
+      "publishedAt": "2024-11-13 14:24:26",
+      "content": "H5N1, . 12 2024 , , , , , , ( , ). , . , . , , , 56 %. . A(H5N2).",
+      "retrievedAt": "2024-11-14 19:05:44.470016",
+      "internal_id": "9a79469b6536fa0130e3ef1056301593e8a0392df06c244aa75eab151716cca8",
+      "publishedAtLabel": "Nov 13"
+    },
+    {
+      "id": 15488,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Estad\u00e3o Conte\u00fado",
+      "title": "Governo de S\u00e3o Paulo realiza 'dia D' de combate \u00e0 dengue",
+      "description": "Em 2024, mais de 2 milh\u00f5es de casos da doen\u00e7a foram registrados no Estado; para combater o Aedes aegypti, governo promove semana de mobiliza\u00e7\u00e3o",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/governo-de-sao-paulo-realiza-dia-d-de-combate-a-dengue,50f39312ff30b5862a112a9da9d0c10cjvt0myaj.html",
+      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2024-11-13 12:47:36",
+      "content": "Nesta quarta-feira, dia 13, aSecretaria de Estado da Sa\u00fade de S\u00e3o Paulo (SES)realiza o \"dia D\" de mobiliza\u00e7\u00e3o estadual contra adengue. Ao promover atividades para combater o mosquitoAedes aegypti, o \u2026 [+2305 chars]",
+      "retrievedAt": "2024-11-14 19:05:44.910570",
+      "internal_id": "3bb889b8dd7d37c07f026c26608b6ad841865e510409f11d9b5f017c61300375",
+      "publishedAtLabel": "Nov 13"
+    },
+    {
+      "id": 15490,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "Recomendaciones de ANECPLA para reducir el riesgo de vectores en las zonas afectadas por la DANA",
+      "description": "Las terribles condiciones en las que se encuentran las zonas afectadas por la DANA, sin agua y con temperaturas altas, facilita la proliferaci\u00f3n de vectores como mosquitos o roedores, entre otros, que transmiten enfermedades como el dengue, seg\u00fan alerta la As\u2026",
+      "url": "https://www.infosalus.com/salud-investigacion/noticia-recomendaciones-anecpla-reducir-riesgo-vectores-zonas-afectadas-dana-20241113134626.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20241113134626_1200.jpg",
+      "publishedAt": "2024-11-13 12:46:26",
+      "content": "MADRID, 13 Nov. (EUROPA PRESS) - Las terribles condiciones en las que se encuentran las zonas afectadas por la DANA, sin agua y con temperaturas altas, facilita la proliferaci\u00f3n de vectores como\u2026 [+1739 chars]",
+      "retrievedAt": "2024-11-14 19:05:44.937072",
+      "internal_id": "f4eaa85c13f5b990a12996e27eb5d64efa007f2766f1c224211a13ec865445dd",
+      "publishedAtLabel": "Nov 13"
+    },
+    {
+      "id": 15489,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": null,
+      "title": "Dengue | La UBA entregar\u00e1 repelente gratuito de producci\u00f3n propia en la Ciudad: c\u00f3mo conseguirlo",
+      "description": "El operativo se realizar\u00e1 en Plaza Houssay, frente a las facultades de Medicina y de Econ\u00f3micas, este jueves y s\u00e1bado; los interesados deber\u00e1n inscribirse previamente",
+      "url": "https://www.lanacion.com.ar/sociedad/dengue-la-uba-entregara-repelente-gratuito-de-produccion-propia-en-la-ciudad-como-conseguirlo-nid13112024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/lucha-contra-el-dengue-la-uba-entregara-repelente-VYNUJTEDOFEQNNIQ4SPVPFIUCA.jpg?auth=241260c572bad34eade992656cf41cbdc3bf5b53ec8d7849f230ef7202a9c141&width=1200&quality=70&smart=false&height=795",
+      "publishedAt": "2024-11-13 12:14:55",
+      "content": "En medio de la pol\u00e9mica con el Gobierno por el presupuesto educativo, la Universidad de Buenos Aires (UBA) anunci\u00f3 que entregar\u00e1 repelente gratuito contra los mosquitos que transmiten el dengue, de p\u2026 [+1911 chars]",
+      "retrievedAt": "2024-11-14 19:05:44.924557",
+      "internal_id": "22e45322aab8abdd6afaa228e852ab384b59a6561c346c22496160b2ef1f2c2a",
+      "publishedAtLabel": "Nov 13"
+    },
+    {
+      "id": 15478,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "nbc-news",
+      "source_name": "NBC News",
+      "author": "Patrick Smith",
+      "title": "Peanut the Instagram-famous squirrel did not have rabies after all, state officials say",
+      "description": "Peanut the squirrel, the Instagram-famous rodent whose killing by New York State environmental officers became a brief election flashpoint, did not have rabies after all, officials have said.",
+      "url": "https://www.nbcnews.com/news/us-news/peanut-squirrel-did-not-have-rabies-state-officials-say-rcna179920",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-11/241031-Pet-Squirrel-Seized-ac-843p-7810d2.jpg",
+      "publishedAt": "2024-11-13 11:44:46",
+      "content": "Peanut the squirrel, the Instagram-famous rodent whose killing by New York State environmental officers became a brief election flashpoint, did not have rabies after all, officials have said. The an\u2026 [+3429 chars]",
+      "retrievedAt": "2024-11-14 19:05:43.209593",
+      "internal_id": "31955c0b205c96b35780516ce39f0cb9c7723815c66bdf2df63fc1462baef555",
+      "publishedAtLabel": "Nov 13"
+    },
+    {
+      "id": 15486,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Science.orf.at",
+      "author": "ORF.at",
+      "title": "Vogelgrippe breitete sich unter See-Elefanten aus",
+      "description": "Das aktuelle Vogelgrippevirus kann sich gut von einem Meeress\u00e4uger zum n\u00e4chsten ausbreiten und auch wieder auf V\u00f6gel zur\u00fcckspringen. Das berichtet ein internationales Forschungsteam nach der Untersuchung eines Massensterbens von See-Elefanten in S\u00fcdamerika.",
+      "url": "https://science.orf.at/stories/3227558/",
+      "urlToImage": "https://ibs.orf.at/science?image=https%3A%2F%2Ftubestatic.orf.at%2Fmims%2F2023%2F16%2F43%2Fcrops%2Fw%3D1200%2Ch%3D627%2Cq%3D75%2F1758552_master_652443_01_sleepingseals03_jessica-kendall-bar.jpg%3Fs%3Ddfe88e91b9baf266f853ae1566bee75efdd17e39",
+      "publishedAt": "2024-11-13 11:12:16",
+      "content": "Nachdem sich die derzeitige Variante des Vogelgrippevirus H5N1 dort schon unter Seel\u00f6wen ausgebreitet hatte, beobachteten die Forscherinnen und Forscher im Oktober vergangenen Jahres ein noch nie da \u2026 [+3485 chars]",
+      "retrievedAt": "2024-11-14 19:05:44.522587",
+      "internal_id": "c3792ff5fa2d51bf950743aa6ecc0afb69ad60dde511f2482e29bba971d75894",
+      "publishedAtLabel": "Nov 13"
+    },
+    {
+      "id": 15477,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Thairath.co.th",
+      "author": "Thairath",
+      "title": "\u0e1e\u0e48\u0e2d\u0e41\u0e21\u0e48\u0e2d\u0e22\u0e48\u0e32\u0e21\u0e2d\u0e07\u0e02\u0e49\u0e32\u0e21\u0e42\u0e23\u0e04\u0e44\u0e2d\u0e01\u0e23\u0e19 \u0e20\u0e31\u0e22\u0e40\u0e07\u0e35\u0e22\u0e1a\u0e43\u0e19\u0e40\u0e14\u0e47\u0e01\u0e40\u0e25\u0e47\u0e01\u0e17\u0e35\u0e48\u0e2a\u0e48\u0e07\u0e2d\u0e31\u0e19\u0e15\u0e23\u0e32\u0e22\u0e16\u0e36\u0e07\u0e0a\u0e35\u0e27\u0e34\u0e15\u0e44\u0e14\u0e49",
+      "description": "\u0e08\u0e32\u0e01\u0e01\u0e32\u0e23\u0e41\u0e1e\u0e23\u0e48\u0e23\u0e30\u0e1a\u0e32\u0e14\u0e02\u0e2d\u0e07\u0e42\u0e23\u0e04\u0e44\u0e2d\u0e01\u0e23\u0e19\u0e43\u0e19\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e40\u0e01\u0e32\u0e2b\u0e25\u0e35\u0e43\u0e15\u0e49 \u0e2a\u0e48\u0e07\u0e1c\u0e25\u0e43\u0e2b\u0e49\u0e21\u0e35\u0e40\u0e14\u0e47\u0e01\u0e17\u0e32\u0e23\u0e01\u0e15\u0e34\u0e14\u0e40\u0e0a\u0e37\u0e49\u0e2d\u0e01\u0e27\u0e48\u0e32 3 \u0e2b\u0e21\u0e37\u0e48\u0e19\u0e23\u0e32\u0e22 \u0e41\u0e25\u0e30\u0e21\u0e35\u0e23\u0e32\u0e22\u0e07\u0e32\u0e19\u0e27\u0e48\u0e32\u0e1e\u0e1a\u0e40\u0e14\u0e47\u0e01\u0e17\u0e32\u0e23\u0e01\u0e40\u0e2a\u0e35\u0e22\u0e0a\u0e35\u0e27\u0e34\u0e15 1 \u0e23\u0e32\u0e22 \u0e41\u0e21\u0e49\u0e2d\u0e32\u0e08\u0e08\u0e30\u0e1f\u0e31\u0e07\u0e14\u0e39\u0e44\u0e01\u0e25\u0e15\u0e31\u0e27 \u0e41\u0e15\u0e48\u0e1e\u0e48\u0e2d\u0e41\u0e21\u0e48\u0e01\u0e47\u0e44\u0e21\u0e48\u0e04\u0e27\u0e23\u0e21\u0e2d\u0e07\u0e02\u0e49\u0e32\u0e21\u0e41\u0e25\u0e30\u0e04\u0e27\u0e23\u0e23\u0e31\u0e1a\u0e21\u0e37\u0e2d\u0e1b\u0e49\u0e2d\u0e07\u0e01\u0e31\u0e19\u0e01\u0e48\u0e2d\u0e19\u0e2a\u0e32\u0e22\u0e40\u0e01\u0e34\u0e19\u0e44\u0e1b",
+      "url": "https://www.thairath.co.th/lifestyle/health-and-beauty/2825378",
+      "urlToImage": "https://static.thairath.co.th/media/dFQROr7oWzulq5Fa6rHGecunnxJR9ZKq4pNRzc4lUoTyYCvHQGrkHXwbjxoowYBL6v8.jpg",
+      "publishedAt": "2024-11-13 09:15:04",
+      "content": "Bordetella pertussis (B. pertussis) 2560 76 0.1 1 50% 1-3 3 1. 1-2 2. 2-4 6 3. 2-3 6-10 14 3-4 2 6 4-5 2 2 2 4 6 4 18 (Primary immunization) 5 (booster dose) 4 7 : , ,",
+      "retrievedAt": "2024-11-14 19:05:42.741706",
+      "internal_id": "4247b00365e3f12dc94d2ec68f7f553e1334839d5a6a61abaa36b23c65f955e9",
+      "publishedAtLabel": "Nov 13"
+    },
+    {
+      "id": 15479,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "AP",
+      "title": "Was 'Peanut the squirrel' killed without reason? Test results reveal shocking answers",
+      "description": "Peanut the squirrel and a raccoon named Fred were seized from an animal sanctuary due to complaints of illegal wildlife keeping. Despite facing criticism and threats, officials euthanized the animals for rabies testing, which later came back negative.",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/was-peanut-the-squirrel-killed-without-reason-test-results-reveal-shocking-answers/articleshow/115249210.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-115249297,width-1200,height-630,imgsize-74122,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2024-11-13 08:38:57",
+      "content": "Artificial Intelligence(AI) AI and Analytics based Business Strategy By - Tanusree De, Managing Director- Accenture Technology Lead, Trustworthy AI Center of Excellence: ATCI View Program",
+      "retrievedAt": "2024-11-14 19:05:43.216792",
+      "internal_id": "80a35de38ff78dac832687b40ffb0f02ad605924f1c9db8b2ab117fd8504e454",
+      "publishedAtLabel": "Nov 13"
+    },
     {
       "id": 15468,
       "query": [
@@ -24288,133 +24576,6 @@
       "content": "Dog bites and scratches account for 99 per cent of human rabies cases. [Courtesy] While dogs are often celebrated as man's best friend, they can also pose a deadly risk. In Kenya, rabies claims an \u2026 [+5012 chars]",
       "retrievedAt": "2024-10-01 07:06:35.848423",
       "internal_id": "d10f5e13f18b2978569d000f8a7cfbc1127cf8e5a32953a2305330d40b201a19",
-      "publishedAtLabel": "Sep 29"
-    },
-    {
-      "id": 14124,
-      "query": [
-        "rabies"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "TNN",
-      "title": "State sets goal to end rabies deaths by \u201930",
-      "description": "Panaji: Aligning with a \ue814global disease-fighting goal, the directorate of health services (DHS) has set the target to eliminate human \ue814deaths caused b.",
-      "url": "https://timesofindia.indiatimes.com/city/goa/state-sets-goal-to-end-rabies-deaths-by-30/articleshow/113793081.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-09-29 18:39:03",
-      "content": "10 spotted animals and their distinct markings",
-      "retrievedAt": "2024-09-30 19:05:24.961068",
-      "internal_id": "743a021643863a86ee3aba70a0b9033dc9b794f8b45903ccf6171a7c5a97c308",
-      "publishedAtLabel": "Sep 29"
-    },
-    {
-      "id": 14126,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Shtfplan.com",
-      "author": "Mac Slavo",
-      "title": "The \u201cCluster\u201d of Possible Human Bird Flu Infections Has Expanded to 8",
-      "description": "A cluster of possible bird flu infections in Missouri has grown to include eight people. These eight could very well represent what may be the first examples of person-to-person transmission of the H5N1 avian influenza in the United States, the Centers for Di\u2026",
-      "url": "https://www.shtfplan.com/headline-news/the-cluster-of-possible-human-bird-flu-infections-has-expanded-to-8",
-      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2024/05/birdflu1.jpg",
-      "publishedAt": "2024-09-29 17:30:46",
-      "content": "A cluster of possible bird flu infections in Missouri has grown to include eight people. These eight could very well represent the first examples of person-to-person transmission of the H5N1 avian in\u2026 [+2323 chars]",
-      "retrievedAt": "2024-09-30 19:05:25.942322",
-      "internal_id": "b36641378ed00504b285e3199c5223c57d94ed8d2b6243e12500eb6de41ca933",
-      "publishedAtLabel": "Sep 29"
-    },
-    {
-      "id": 14129,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Gazeta.ru",
-      "author": "\u0413\u0430\u0437\u0435\u0442\u0430.Ru",
-      "title": "\u0412 \u0412\u041e\u0417 \u0440\u0430\u0441\u0441\u043a\u0430\u0437\u0430\u043b\u0438 \u043e \u0441\u043b\u0443\u0447\u0430\u044f \u0441 \u043f\u043e\u0434\u043e\u0437\u0440\u0435\u043d\u0438\u0435\u043c \u043d\u0430 \u043e\u0441\u043f\u0443 \u043e\u0431\u0435\u0437\u044c\u044f\u043d \u0432 \u0410\u0444\u0440\u0438\u043a\u0435 \u0441 \u043d\u0430\u0447\u0430\u043b\u0430 2024 \u0433\u043e\u0434\u0430",
-      "description": "\u0411\u043e\u043b\u0435\u0435 31 \u0442\u044b\u0441. \u0441\u043b\u0443\u0447\u0430\u0435\u0432 \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0430\u043d\u0438\u044f \u0441 \u043f\u043e\u0434\u043e\u0437\u0440\u0435\u043d\u0438\u0435\u043c \u043d\u0430 mpox (\u043d\u043e\u0432\u043e\u0435 \u043d\u0430\u0438\u043c\u0435\u043d\u043e\u0432\u0430\u043d\u0438\u0435 \u043e\u0441\u043f\u044b \u043e\u0431\u0435\u0437\u044c\u044f\u043d) \u0432\u044b\u044f\u0432\u0438\u043b\u0438 \u0432 \u0410\u0444\u0440\u0438\u043a\u0435 \u0441 1 \u044f\u043d\u0432\u0430\u0440\u044f \u043f\u043e 22 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2024 \u0433\u043e\u0434\u0430. \u041e\u0431 \u044d\u0442\u043e\u043c \u0441\u043e\u043e\u0431\u0449\u0430\u0435\u0442\u0441\u044f \u043d\u0430 \u0441\u0430\u0439\u0442\u0435 \u0412\u0441\u0435\u043c\u0438\u0440\u043d\u043e\u0439 \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u0438 \u0437\u0434\u0440\u0430\u0432\u043e\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f (\u0412\u041e\u0417). \u0412 \u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0446\u0438\u0438 ...",
-      "url": "https://www.gazeta.ru/social/news/2024/09/29/24035059.shtml",
-      "urlToImage": "https://img.gazeta.ru/files3/968/14991968/2022-05-23T182141Z_475247910_RC25DU95S1NL_RTRMADP_3_HEALTH-MONKEYPOX-pic_32ratio_900x600-900x600-55005.jpg",
-      "publishedAt": "2024-09-29 13:35:21",
-      "content": "31 . mpox ( ) 1 22 2024 . (). , 2024 31 427 mpox. \u2014 27 103 . , 123 106 310 . , mpox . () , 88 . $21,4 2024 . .",
-      "retrievedAt": "2024-09-30 19:05:28.068294",
-      "internal_id": "31cfb96cd5e031c6c53fbc9e5c8dcca9986cbee7b54b7afd9677695e58e37c4a",
-      "publishedAtLabel": "Sep 29"
-    },
-    {
-      "id": 14128,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Tass.ru",
-      "author": null,
-      "title": "\u0412 \u0410\u0444\u0440\u0438\u043a\u0435 \u0432\u044b\u044f\u0432\u0438\u043b\u0438 31 \u0442\u044b\u0441. \u0441\u043b\u0443\u0447\u0430\u0435\u0432 \u0441 \u043f\u043e\u0434\u043e\u0437\u0440\u0435\u043d\u0438\u0435\u043c \u043d\u0430 mpox \u0441 \u043d\u0430\u0447\u0430\u043b\u0430 \u0433\u043e\u0434\u0430",
-      "description": "\u0417\u0430\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u044b \u0431\u043e\u043b\u0435\u0435 840 \u043b\u0435\u0442\u0430\u043b\u044c\u043d\u044b\u0445 \u0438\u0441\u0445\u043e\u0434\u043e\u0432, \u043f\u0440\u0438\u0447\u0438\u043d\u043e\u0439 \u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u043c\u043e\u0433\u043b\u0430 \u043f\u043e\u0441\u043b\u0443\u0436\u0438\u0442\u044c \u044d\u0442\u0430 \u0431\u043e\u043b\u0435\u0437\u043d\u044c, \u0441\u043e\u043e\u0431\u0449\u0438\u043b\u0438 \u0432 \u0412\u041e\u0417",
-      "url": "https://tass.ru/obschestvo/21989865",
-      "urlToImage": "https://cdn-storage-media.tass.ru/thumb/ru/obschestvo/21989865?u=2024-09-29T13:21:15.571295",
-      "publishedAt": "2024-09-29 13:21:15",
-      "content": ", 29 . //. 31 . mpox ( ) 840 , , 1 22 2024 . (). , 31 427 mpox, 844 . 16 22 2 085, 34 . 402 . mpox () - 27 103 838 . 1 2022 31 2024 123 106 310 , 234 . mpox 2022 11 2023 . , 14 2024 . Mpox -\u2026 [+12 chars]",
-      "retrievedAt": "2024-09-30 19:05:27.932262",
-      "internal_id": "8044e60e22c2cc27d80ae91c10ff02a191b3325ce0f962c0717276be7249cb00",
-      "publishedAtLabel": "Sep 29"
-    },
-    {
-      "id": 14127,
-      "query": [
-        "dengue",
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Catracalivre.com.br",
-      "author": "Andr\u00e9 Nicolau",
-      "title": "MPox, Coqueluche e dengue: como evitar essas doen\u00e7as no Brasil",
-      "description": "Muitas doen\u00e7as acabam chegando ao conhecimento da popula\u00e7\u00e3o apenas quando j\u00e1 est\u00e1 em surto em determinado pa\u00eds ou regi\u00e3o, ou quando \u00e9 registrado \u00f3bito e",
-      "url": "https://catracalivre.com.br/saude-bem-estar/como-evitar-essas-doencas-no-brasil/",
-      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1280,h=720,fit=cover,format=jpeg/wp-content/uploads/2022/03/campanha-vacinacao-sarampo.jpg",
-      "publishedAt": "2024-09-29 11:01:13",
-      "content": "Minist\u00e9rio da Sa\u00fade reverteu tend\u00eancia de queda nas coberturas vacinais nos \u00faltimos anos. Como evitar essas doen\u00e7as no Brasil? User7565abab_575/istock - User7565abab_575/istock Muitas doen\u00e7as acabam\u2026 [+4907 chars]",
-      "retrievedAt": "2024-09-30 19:05:26.396549",
-      "internal_id": "284b02280b08ff4e594a499b1a8efeb1a6c0464631d182a540fd268907499e61",
-      "publishedAtLabel": "Sep 29"
-    },
-    {
-      "id": 14125,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Antaranews.com",
-      "author": "Dewa W, Kenzu",
-      "title": "Indonesia's Bali intensifies rabies vaccination for pets",
-      "description": "The Bali government is accelerating the vaccination of dogs and cats to prevent the transmission of the rabies virus in the province. &quot;We must make ...",
-      "url": "https://en.antaranews.com/news/327715/indonesias-bali-intensifies-rabies-vaccination-for-pets",
-      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2024/09/29/IMG_20240929_113136.jpg",
-      "publishedAt": "2024-09-29 08:09:30",
-      "content": "Denpasar, Bali (ANTARA) - The Bali government is accelerating the vaccination of dogs and cats to prevent the transmission of the rabies virus in the province.\"We must make Bali rabies-free,\" Bali's \u2026 [+1563 chars]",
-      "retrievedAt": "2024-09-30 19:05:25.023338",
-      "internal_id": "f88760feb3afc552efdeaf202dcd833c2c717f0007f02d68aa979775b32bf48c",
-      "publishedAtLabel": "Sep 29"
-    },
-    {
-      "id": 14130,
-      "query": [
-        "leptospirosis"
-      ],
-      "source_id": null,
-      "source_name": "NDTV News",
-      "author": null,
-      "title": "Punjab Chief Minister Bhagwant Mann Diagnosed With Leptospirosis",
-      "description": "Punjab Chief Minister Bhagwant Mann was on Saturday diagnosed with bacterial infection leptospirosis, with doctors saying he is being given antibiotics and his vitals are \"completely stable\".",
-      "url": "https://www.ndtv.com/chandigarh-news/punjab-cm-bhagwant-mann-diagnosed-with-leptospirosis-6675554",
-      "urlToImage": "https://c.ndtvimg.com/2024-07/ba1eqpao_bhagwant-mann_625x300_25_July_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-      "publishedAt": "2024-09-29 07:15:35",
-      "content": "Punjab Chief Minister Bhagwant Mann was admitted to the Fortis Hospital, Mohali. (File) Chandigarh: Punjab Chief Minister Bhagwant Mann was on Saturday diagnosed with bacterial infection leptospiros\u2026 [+1620 chars]",
-      "retrievedAt": "2024-09-30 19:05:28.540483",
-      "internal_id": "de2c3109f6ab8336ee7dbcdf3d8013e2c4e684d60123990760058d931a2dd580",
       "publishedAtLabel": "Sep 29"
     }
   ]

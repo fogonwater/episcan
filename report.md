@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 9
-- **Last harvest:** 2024-11-14 07:06
-- **Most recent article:** 2024-11-13 05:07:54
+- **New articles in last harvest:** 16
+- **Last harvest:** 2024-11-14 19:05
+- **Most recent article:** 2024-11-13 18:25:00
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-40 | 24-41 | 24-42 | 24-43 | 24-44 | 24-45 | 24-46 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 127 | 42 | 81 | 131 | 75 | 63 | 18 | 537 |
-| dengue | 50 | 35 | 50 | 53 | 31 | 31 | 9 | 259 |
-| h5n1 | 50 | 10 | 18 | 12 | 61 | 36 | 18 | 205 |
+| mpox | 124 | 42 | 81 | 131 | 75 | 63 | 20 | 536 |
+| dengue | 49 | 35 | 50 | 53 | 31 | 31 | 13 | 262 |
+| h5n1 | 49 | 10 | 18 | 12 | 61 | 36 | 23 | 209 |
 | malaria | 10 | 13 | 18 | 58 | 16 | 26 | 7 | 148 |
-| rabies | 28 | 6 | 7 | 3 | 10 | 5 | 5 | 64 |
+| rabies | 26 | 6 | 7 | 3 | 10 | 5 | 9 | 66 |
 | zika | 3 | 4 | 6 | 6 | 3 | 9 | 1 | 32 |
 | measles | 5 | 5 | 3 | 1 | 13 | 3 | 2 | 32 |
 | meningitis | 11 | 2 | 1 | 6 | 3 | 5 | 2 | 30 |
-| pertussis | 2 | 2 | 9 | 3 | 1 | 3 | 3 | 23 |
+| pertussis | 2 | 2 | 9 | 3 | 1 | 3 | 4 | 24 |
 | chikungunya | 3 | 3 | 4 | 7 | 2 | 2 | 1 | 22 |
-| leptospirosis | 3 | 1 | 1 | 0 | 3 | 10 | 3 | 21 |
+| leptospirosis | 2 | 1 | 1 | 0 | 3 | 10 | 3 | 20 |
 | hpai | 2 | 1 | 2 | 2 | 7 | 4 | 1 | 19 |
 | typhoid | 1 | 0 | 1 | 3 | 4 | 1 | 0 | 10 |
 | shigellosis | 1 | 3 | 0 | 1 | 0 | 0 | 1 | 6 |
@@ -43,6 +43,14 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-46 (rabies)
 
+- [Monosynaptic Inputs to Ventral Tegmental Area Glutamate and GABA Co-transmitting Neurons](https://www.jneurosci.org/content/44/46/e2184232024) (Jneurosci.org)
+
+- [Owner of Euthanized Squirrel Promises 'Very Big' Lawsuit](https://www.newser.com/story/359449/owner-of-euthanized-squirrel-promises-very-big-lawsuit.html) (Newser)
+
+- [Peanut the Instagram-famous squirrel did not have rabies after all, state officials say](https://www.nbcnews.com/news/us-news/peanut-squirrel-did-not-have-rabies-state-officials-say-rcna179920) (NBC News)
+
+- [Was 'Peanut the squirrel' killed without reason? Test results reveal shocking answers](https://economictimes.indiatimes.com/news/international/global-trends/was-peanut-the-squirrel-killed-without-reason-test-results-reveal-shocking-answers/articleshow/115249210.cms) (The Times of India)
+
 - [Euthanized pet squirrel Peanut tests negative for rabies, official says](https://www.cbsnews.com/newyork/news/peanut-the-squirrel-euthanized-rabies-negative/) (CBS News)
 
 - [Avlivet kjendis-ekorn hadde ikke rabies](https://www.nrk.no/nyheter/avlivet-kjendis-ekorn-hadde-ikke-rabies-1.17124004) (NRK)
@@ -55,6 +63,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-46 (pertussis)
 
+- [พ่อแม่อย่ามองข้ามโรคไอกรน ภัยเงียบในเด็กเล็กที่ส่งอันตรายถึงชีวิตได้](https://www.thairath.co.th/lifestyle/health-and-beauty/2825378) (Thairath.co.th)
+
 - [โรงเรียนสาธิต มศว.ปทุมวัน ปิดเรียน 2 สัปดาห์ หลังพบเด็กป่วยไอกรน](https://www.thairath.co.th/news/society/2825340) (Thairath.co.th)
 
 - [WA Health: Significant increase in reported cases of pertussis (whooping cough) | Whatcom News](https://whatcom-news.com/wa-health-significant-increase-in-reported-cases-of-pertussis-whooping-cough_220911/) (Whatcom-news.com)
@@ -62,6 +72,10 @@ Source: [News API](https://newsapi.org/)
 - [Diphtheria-tetanus-pertussis immunization and sudden infant death: results of the National Institute of Child Health and Human Development Cooperative Epidemiological Study of Sudden Infant Death Syndrome risk factors](https://pubmed.ncbi.nlm.nih.gov/3493477/) (National Institutes of Health)
 
 ## 24-46 (mpox)
+
+- [Which animals carry mpox? Our study identified African forest dwelling rodents as one source](https://theconversation.com/which-animals-carry-mpox-our-study-identified-african-forest-dwelling-rodents-as-one-source-242795) (The Conversation Africa)
+
+- [Gay men have been cautious about mpox. Will a second Donald Trump term set them back?](https://www.advocate.com/health/donald-trump-administration-mpox) (Advocate.com)
 
 - [Recognising and responding to the community needs of gay and bisexual men around mpox](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0313325) (Plos.org)
 
@@ -141,6 +155,16 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-46 (h5n1)
 
+- [Egyre csak terjed a madárinfluenza, már nyolc vármegyében van jelen a kór](https://index.hu/belfold/2024/11/13/madarinfluenza-tarkany-komarom-esztergom-varmegye-nebih/) (Index.hu)
+
+- [Avoid contact with sick or dead birds, health officials urge, amid concerns about avian flu](https://www.cbc.ca/news/canada/british-columbia/avian-flu-november-2024-1.7382156) (CBC News)
+
+- [Canada’s First Human Case of H5 Bird Flu Leaves Teen in Critical Condition](https://gizmodo.com/canadas-first-human-case-of-h5-bird-flu-leaves-teen-in-critical-condition-2000524014) (Gizmodo.com)
+
+- [В Россию запретили ввозить курицу и яйца из Турции из-за вспышки птичьего гриппа](https://life.ru/p/1702660) (Life.ru)
+
+- [Vogelgrippe breitete sich unter See-Elefanten aus](https://science.orf.at/stories/3227558/) (Science.orf.at)
+
 - [В Канаде выявили первый случай заражения человека птичьим гриппом H5N1](https://tass.ru/obschestvo/22386895) (Tass.ru)
 
 - [加拿大人類染 H5N1 首例，報告：年輕人症狀更嚴重](https://technews.tw/2024/11/13/canada-young-person-infect-h5n1/) (Technews.tw)
@@ -178,6 +202,14 @@ Source: [News API](https://newsapi.org/)
 - [Experts Weigh In On Bird Flu Concerns, And The Consensus Isn't As Scary As You Might Think](https://www.huffpost.com/entry/bird-flu-h1n5-virus_l_672bc43ae4b01cfbdad3a432) (HuffPost)
 
 ## 24-46 (dengue)
+
+- [Prevention Tips For Dengue Infection](https://www.ndtv.com/health/prevention-tips-for-dengue-can-early-intervention-prevent-long-term-health-risks-7012603) (NDTV News)
+
+- [Governo de São Paulo realiza 'dia D' de combate à dengue](https://www.terra.com.br/vida-e-estilo/saude/governo-de-sao-paulo-realiza-dia-d-de-combate-a-dengue,50f39312ff30b5862a112a9da9d0c10cjvt0myaj.html) (Terra.com.br)
+
+- [Recomendaciones de ANECPLA para reducir el riesgo de vectores en las zonas afectadas por la DANA](https://www.infosalus.com/salud-investigacion/noticia-recomendaciones-anecpla-reducir-riesgo-vectores-zonas-afectadas-dana-20241113134626.html) (Infosalus.com)
+
+- [Dengue | La UBA entregará repelente gratuito de producción propia en la Ciudad: cómo conseguirlo](https://www.lanacion.com.ar/sociedad/dengue-la-uba-entregara-repelente-gratuito-de-produccion-propia-en-la-ciudad-como-conseguirlo-nid13112024/) (La Nacion)
 
 - [Caso di dengue a Senigallia, via alla disinfestazione](https://www.ansa.it/marche/notizie/2024/11/12/caso-di-dengue-a-senigallia-via-alla-disinfestazione_90899dc6-7366-4cce-8711-ab1cd3a183ad.html) (ANSA.it)
 
@@ -2499,10 +2531,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Rabies, a deadly threat to man's best friend](https://www.standardmedia.co.ke/health/health-science/article/2001503663/rabies-a-deadly-threat-to-mans-best-friend) (Standard Digital)
 
-- [State sets goal to end rabies deaths by ’30](https://timesofindia.indiatimes.com/city/goa/state-sets-goal-to-end-rabies-deaths-by-30/articleshow/113793081.cms) (The Times of India)
-
-- [Indonesia's Bali intensifies rabies vaccination for pets](https://en.antaranews.com/news/327715/indonesias-bali-intensifies-rabies-vaccination-for-pets) (Antaranews.com)
-
 ## 24-40 (pertussis)
 
 - [TWiV 1154: Clinical update with Dr. Daniel Griffin](https://www.microbe.tv/twiv/twiv-1154/) (Microbe.tv)
@@ -2759,12 +2787,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Slow response to mpox a wake-up call](https://www.bangkokpost.com/opinion/opinion/2874488/slow-response-to-mpox-a-wake-up-call) (Bangkok Post)
 
-- [В ВОЗ рассказали о случая с подозрением на оспу обезьян в Африке с начала 2024 года](https://www.gazeta.ru/social/news/2024/09/29/24035059.shtml) (Gazeta.ru)
-
-- [В Африке выявили 31 тыс. случаев с подозрением на mpox с начала года](https://tass.ru/obschestvo/21989865) (Tass.ru)
-
-- [MPox, Coqueluche e dengue: como evitar essas doenças no Brasil](https://catracalivre.com.br/saude-bem-estar/como-evitar-essas-doencas-no-brasil/) (Catracalivre.com.br)
-
 ## 24-40 (meningitis)
 
 - [La nueva vida de Luis Canut, marido de Patricia Pérez, tras haber perdido la visión: carnet de la ONCE y aprendiendo a usar el bastón](https://www.lavozdegalicia.es/noticia/gente/2024/10/05/nueva-vida-luis-canut-marido-patricia-perez-tras-haber-perdido-vision-carnet-once-aprendiendo-usar-baston/00031728120151743807523.htm) (Lavozdegalicia.es)
@@ -2828,8 +2850,6 @@ Source: [News API](https://newsapi.org/)
 - [City records 18 lepto, 12 dengue deaths this year](https://timesofindia.indiatimes.com/city/mumbai/mumbai-faces-surge-in-dengue-and-leptospirosis-deaths-amidst-monsoon/articleshow/113860985.cms) (The Times of India)
 
 - [What Is Leptospirosis: A Hidden Health Risk In India](https://doctor.ndtv.com/living-healthy/what-is-leptospirosis-a-hidden-health-risk-in-india-6682647) (NDTV News)
-
-- [Punjab Chief Minister Bhagwant Mann Diagnosed With Leptospirosis](https://www.ndtv.com/chandigarh-news/punjab-cm-bhagwant-mann-diagnosed-with-leptospirosis-6675554) (NDTV News)
 
 ## 24-40 (hpai)
 
@@ -2937,8 +2957,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Erste Mensch-zu-Mensch-Übertragung? - Neue Vogelgrippe-Fälle in den USA lassen jetzt Schlimmstes befürchten](https://www.focus.de/gesundheit/erste-mensch-zu-mensch-uebertragung-neue-vogelgrippe-faelle-in-den-usa-lassen-jetzt-schlimmstes-befuerchten_cc4f3bd6-86ba-4cb7-8926-6d5493b0ce59.html) (Focus)
 
-- [The “Cluster” of Possible Human Bird Flu Infections Has Expanded to 8](https://www.shtfplan.com/headline-news/the-cluster-of-possible-human-bird-flu-infections-has-expanded-to-8) (Shtfplan.com)
-
 ## 24-40 (dengue)
 
 - [Nuova disinfestazione per Dengue a Fano, incidenza casi scende](https://www.ansa.it/marche/notizie/2024/10/05/nuova-disinfestazione-per-dengue-a-fano-incidenza-casi-scende_97556277-52e9-4333-830a-bbee7cfbd64c.html) (ANSA.it)
@@ -3038,8 +3056,6 @@ Source: [News API](https://newsapi.org/)
 - [Dengue Cases Surge in Guwahati’s Densely Populated Areas](https://thehillstimes.in/guwahati/dengue-cases-surge-in-guwahatis-densely-populated-areas) (Thehillstimes.in)
 
 - [दिल्ली में फिर डराने लगा डेंगू, मरीजों में गिर रहा प्लेटलेट्स काउंट, लिवर-किडनी को भी नुकसान](https://navbharattimes.indiatimes.com/metro/delhi/other-news/delhi-dengue-cases-increasing-platelets-count-also-declining-know-reason-here/articleshow/113796823.cms) (The Times of India)
-
-- [MPox, Coqueluche e dengue: como evitar essas doenças no Brasil](https://catracalivre.com.br/saude-bem-estar/como-evitar-essas-doencas-no-brasil/) (Catracalivre.com.br)
 
 ## 24-40 (chikungunya)
 
