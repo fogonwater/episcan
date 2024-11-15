@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 16
-- **Last harvest:** 2024-11-14 19:05
-- **Most recent article:** 2024-11-13 18:25:00
+- **New articles in last harvest:** 10
+- **Last harvest:** 2024-11-15 07:07
+- **Most recent article:** 2024-11-14 06:59:00
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-40 | 24-41 | 24-42 | 24-43 | 24-44 | 24-45 | 24-46 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 124 | 42 | 81 | 131 | 75 | 63 | 20 | 536 |
-| dengue | 49 | 35 | 50 | 53 | 31 | 31 | 13 | 262 |
-| h5n1 | 49 | 10 | 18 | 12 | 61 | 36 | 23 | 209 |
+| mpox | 127 | 42 | 81 | 131 | 75 | 63 | 21 | 540 |
+| dengue | 50 | 35 | 50 | 53 | 31 | 31 | 13 | 263 |
+| h5n1 | 50 | 10 | 18 | 12 | 61 | 36 | 28 | 215 |
 | malaria | 10 | 13 | 18 | 58 | 16 | 26 | 7 | 148 |
-| rabies | 26 | 6 | 7 | 3 | 10 | 5 | 9 | 66 |
+| rabies | 28 | 6 | 7 | 3 | 10 | 5 | 9 | 68 |
 | zika | 3 | 4 | 6 | 6 | 3 | 9 | 1 | 32 |
 | measles | 5 | 5 | 3 | 1 | 13 | 3 | 2 | 32 |
 | meningitis | 11 | 2 | 1 | 6 | 3 | 5 | 2 | 30 |
-| pertussis | 2 | 2 | 9 | 3 | 1 | 3 | 4 | 24 |
-| chikungunya | 3 | 3 | 4 | 7 | 2 | 2 | 1 | 22 |
-| leptospirosis | 2 | 1 | 1 | 0 | 3 | 10 | 3 | 20 |
-| hpai | 2 | 1 | 2 | 2 | 7 | 4 | 1 | 19 |
-| typhoid | 1 | 0 | 1 | 3 | 4 | 1 | 0 | 10 |
+| pertussis | 2 | 2 | 9 | 3 | 1 | 3 | 5 | 25 |
+| chikungunya | 3 | 3 | 4 | 7 | 2 | 2 | 2 | 23 |
+| leptospirosis | 3 | 1 | 1 | 0 | 3 | 10 | 3 | 21 |
+| hpai | 2 | 1 | 2 | 2 | 7 | 4 | 2 | 20 |
+| typhoid | 1 | 0 | 1 | 3 | 4 | 1 | 1 | 11 |
 | shigellosis | 1 | 3 | 0 | 1 | 0 | 0 | 1 | 6 |
 | yersinia | 1 | 1 | 0 | 0 | 3 | 0 | 0 | 5 |
 
@@ -36,6 +36,10 @@ Source: [News API](https://newsapi.org/)
 ## 24-46 (zika)
 
 - [Continúan acciones de prevención contra Dengue, Zika y Chikungunya en Chiapas: Rutilio Escandón](https://www.jornada.com.mx/2024/11/10/estados/021n4est) (Jornada.com.mx)
+
+## 24-46 (typhoid)
+
+- [Four-year typhoid fever outbreak in Canada linked to chronic carrier](https://www.foodsafetynews.com/2024/11/four-year-typhoid-fever-outbreak-in-canada-linked-to-chronic-carrier/) (Food Safety News)
 
 ## 24-46 (shigellosis)
 
@@ -63,6 +67,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-46 (pertussis)
 
+- [หมอขอนแก่น เตือนโรคไอกรน เด็กอายุต่ำกว่า 1 ปี มีโอกาสเสียชีวิตสูง หากติดเชื้อ](https://www.thairath.co.th/news/local/northeast/2825543) (Thairath.co.th)
+
 - [พ่อแม่อย่ามองข้ามโรคไอกรน ภัยเงียบในเด็กเล็กที่ส่งอันตรายถึงชีวิตได้](https://www.thairath.co.th/lifestyle/health-and-beauty/2825378) (Thairath.co.th)
 
 - [โรงเรียนสาธิต มศว.ปทุมวัน ปิดเรียน 2 สัปดาห์ หลังพบเด็กป่วยไอกรน](https://www.thairath.co.th/news/society/2825340) (Thairath.co.th)
@@ -72,6 +78,8 @@ Source: [News API](https://newsapi.org/)
 - [Diphtheria-tetanus-pertussis immunization and sudden infant death: results of the National Institute of Child Health and Human Development Cooperative Epidemiological Study of Sudden Infant Death Syndrome risk factors](https://pubmed.ncbi.nlm.nih.gov/3493477/) (National Institutes of Health)
 
 ## 24-46 (mpox)
+
+- [Potential single-dose smallpox and mpox vaccine moves forward](https://www.sciencedaily.com/releases/2024/11/241113123430.htm) (Science Daily)
 
 - [Which animals carry mpox? Our study identified African forest dwelling rodents as one source](https://theconversation.com/which-animals-carry-mpox-our-study-identified-african-forest-dwelling-rodents-as-one-source-242795) (The Conversation Africa)
 
@@ -151,9 +159,21 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-46 (hpai)
 
+- [Bird Flu Detected In Oahu, Hawaii For The First Time](https://www.shtfplan.com/headline-news/bird-flu-detected-in-oahu-hawaii-for-the-first-time) (Shtfplan.com)
+
 - [Η γρίπη των πτηνών απειλεί με εξαφάνιση τα περιπλανώμενα αλμπατρός](https://www.skai.gr/news/environment/i-gripi-ton-ptinon-apeilei-ta-periplanomena-almpatros) (Skai.gr)
 
 ## 24-46 (h5n1)
+
+- [Bird flu is confirmed in hospitalized Canadian teen](https://www.seattlepi.com/news/world/article/bird-flu-is-confirmed-in-hospitalized-canadian-19913879.php) (seattlepi.com)
+
+- [As bird flu emerges in Canada, experts urge preparedness | Globalnews.ca](https://globalnews.ca/news/10868477/bird-flu-vaccine-stockpile-wastewater-testing-canada-preparedness/) (Global News)
+
+- [El primer caso humano de gripe aviar H5 deja grave a un adolescente](https://es.gizmodo.com/el-primer-caso-humano-de-gripe-aviar-h5-deja-grave-a-un-adolescente-2000134985) (Gizmodo.com)
+
+- [Is It Time to Worry About Bird Flu?](https://time.com/7176238/bird-flu-should-you-worry/) (Time)
+
+- [Statement from the Public Health Agency of Canada: Update on Avian Influenza and Risk to Canadians](https://www.canada.ca/en/public-health/news/2024/11/update-on-avian-influenza-and-risk-to-canadians.html) (Canada.ca)
 
 - [Egyre csak terjed a madárinfluenza, már nyolc vármegyében van jelen a kór](https://index.hu/belfold/2024/11/13/madarinfluenza-tarkany-komarom-esztergom-varmegye-nebih/) (Index.hu)
 
@@ -230,6 +250,8 @@ Source: [News API](https://newsapi.org/)
 - [Dengue in Westbengal: ভয় ধরাচ্ছে রাজ্যের ডেঙ্গু পরিস্থিতি, চলতি মাসে আক্রান্তের পরিসংখ্যান চমকে দিতে বাধ্য](https://bengali.indianexpress.com/west-bengal/dengue-cases-rising-in-west-bengal-govt-says-situation-under-control-7569144) (The Indian Express)
 
 ## 24-46 (chikungunya)
+
+- [Chikungunya and vaccines: Combatting mosquito diseases](https://www.digitaljournal.com/tech-science/chikungunya-and-vaccines-combatting-mosquito-diseases/article) (Digital Journal)
 
 - [Continúan acciones de prevención contra Dengue, Zika y Chikungunya en Chiapas: Rutilio Escandón](https://www.jornada.com.mx/2024/11/10/estados/021n4est) (Jornada.com.mx)
 
@@ -2531,6 +2553,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Rabies, a deadly threat to man's best friend](https://www.standardmedia.co.ke/health/health-science/article/2001503663/rabies-a-deadly-threat-to-mans-best-friend) (Standard Digital)
 
+- [State sets goal to end rabies deaths by ’30](https://timesofindia.indiatimes.com/city/goa/state-sets-goal-to-end-rabies-deaths-by-30/articleshow/113793081.cms) (The Times of India)
+
+- [Indonesia's Bali intensifies rabies vaccination for pets](https://en.antaranews.com/news/327715/indonesias-bali-intensifies-rabies-vaccination-for-pets) (Antaranews.com)
+
 ## 24-40 (pertussis)
 
 - [TWiV 1154: Clinical update with Dr. Daniel Griffin](https://www.microbe.tv/twiv/twiv-1154/) (Microbe.tv)
@@ -2787,6 +2813,12 @@ Source: [News API](https://newsapi.org/)
 
 - [Slow response to mpox a wake-up call](https://www.bangkokpost.com/opinion/opinion/2874488/slow-response-to-mpox-a-wake-up-call) (Bangkok Post)
 
+- [В ВОЗ рассказали о случая с подозрением на оспу обезьян в Африке с начала 2024 года](https://www.gazeta.ru/social/news/2024/09/29/24035059.shtml) (Gazeta.ru)
+
+- [В Африке выявили 31 тыс. случаев с подозрением на mpox с начала года](https://tass.ru/obschestvo/21989865) (Tass.ru)
+
+- [MPox, Coqueluche e dengue: como evitar essas doenças no Brasil](https://catracalivre.com.br/saude-bem-estar/como-evitar-essas-doencas-no-brasil/) (Catracalivre.com.br)
+
 ## 24-40 (meningitis)
 
 - [La nueva vida de Luis Canut, marido de Patricia Pérez, tras haber perdido la visión: carnet de la ONCE y aprendiendo a usar el bastón](https://www.lavozdegalicia.es/noticia/gente/2024/10/05/nueva-vida-luis-canut-marido-patricia-perez-tras-haber-perdido-vision-carnet-once-aprendiendo-usar-baston/00031728120151743807523.htm) (Lavozdegalicia.es)
@@ -2850,6 +2882,8 @@ Source: [News API](https://newsapi.org/)
 - [City records 18 lepto, 12 dengue deaths this year](https://timesofindia.indiatimes.com/city/mumbai/mumbai-faces-surge-in-dengue-and-leptospirosis-deaths-amidst-monsoon/articleshow/113860985.cms) (The Times of India)
 
 - [What Is Leptospirosis: A Hidden Health Risk In India](https://doctor.ndtv.com/living-healthy/what-is-leptospirosis-a-hidden-health-risk-in-india-6682647) (NDTV News)
+
+- [Punjab Chief Minister Bhagwant Mann Diagnosed With Leptospirosis](https://www.ndtv.com/chandigarh-news/punjab-cm-bhagwant-mann-diagnosed-with-leptospirosis-6675554) (NDTV News)
 
 ## 24-40 (hpai)
 
@@ -2957,6 +2991,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Erste Mensch-zu-Mensch-Übertragung? - Neue Vogelgrippe-Fälle in den USA lassen jetzt Schlimmstes befürchten](https://www.focus.de/gesundheit/erste-mensch-zu-mensch-uebertragung-neue-vogelgrippe-faelle-in-den-usa-lassen-jetzt-schlimmstes-befuerchten_cc4f3bd6-86ba-4cb7-8926-6d5493b0ce59.html) (Focus)
 
+- [The “Cluster” of Possible Human Bird Flu Infections Has Expanded to 8](https://www.shtfplan.com/headline-news/the-cluster-of-possible-human-bird-flu-infections-has-expanded-to-8) (Shtfplan.com)
+
 ## 24-40 (dengue)
 
 - [Nuova disinfestazione per Dengue a Fano, incidenza casi scende](https://www.ansa.it/marche/notizie/2024/10/05/nuova-disinfestazione-per-dengue-a-fano-incidenza-casi-scende_97556277-52e9-4333-830a-bbee7cfbd64c.html) (ANSA.it)
@@ -3056,6 +3092,8 @@ Source: [News API](https://newsapi.org/)
 - [Dengue Cases Surge in Guwahati’s Densely Populated Areas](https://thehillstimes.in/guwahati/dengue-cases-surge-in-guwahatis-densely-populated-areas) (Thehillstimes.in)
 
 - [दिल्ली में फिर डराने लगा डेंगू, मरीजों में गिर रहा प्लेटलेट्स काउंट, लिवर-किडनी को भी नुकसान](https://navbharattimes.indiatimes.com/metro/delhi/other-news/delhi-dengue-cases-increasing-platelets-count-also-declining-know-reason-here/articleshow/113796823.cms) (The Times of India)
+
+- [MPox, Coqueluche e dengue: como evitar essas doenças no Brasil](https://catracalivre.com.br/saude-bem-estar/como-evitar-essas-doencas-no-brasil/) (Catracalivre.com.br)
 
 ## 24-40 (chikungunya)
 
