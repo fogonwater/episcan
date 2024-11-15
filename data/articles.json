@@ -1,8 +1,407 @@
 {
-  "last_updated": "2024-11-15 07:07",
-  "count_articles_total": 1379,
-  "count_articles_new": 10,
+  "last_updated": "2024-11-15 19:05",
+  "count_articles_total": 1394,
+  "count_articles_new": 22,
   "articles": [
+    {
+      "id": 15518,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "TODAY",
+      "author": "A. Pawlowski",
+      "title": "Bird flu leaves teen in critical condition. Could it cause a lockdown like COVID?",
+      "description": "Bird flu H5N1 has infected dozens of people in the U.S. this year. Could it be the next pandemic? Experts explain the threat and symptoms to watch for.",
+      "url": "https://www.today.com/health/news/bird-flu-pandemic-rcna179981",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2024-11/birdflu-new-pandemic-te-241113-f21b44.jpg",
+      "publishedAt": "2024-11-14 18:50:01",
+      "content": "H5 bird flu, a type of avian influenza, has been causing concern for months after infecting dozens of people in the U.S. this year. Now a new human case in Canada that countrys first is deepening the\u2026 [+7744 chars]",
+      "retrievedAt": "2024-11-15 19:05:56.839098",
+      "internal_id": "8c4489156f683e544c4b5b29ffb0313be6f59daea0e49a4d98c2e13187371382",
+      "publishedAtLabel": "Nov 14"
+    },
+    {
+      "id": 15524,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Phys.Org",
+      "author": "Clement Meseko",
+      "title": "Which animals carry mpox? Our study identified African forest dwelling rodents as one source",
+      "description": "Mpox is a disease caused by the highly infectious monkeypox virus. It's quite easily passed on from one person to another. But it originally came from infected animals.",
+      "url": "https://phys.org/news/2024-11-animals-mpox-african-forest-rodents.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/mpox-jabs.jpg",
+      "publishedAt": "2024-11-14 18:30:01",
+      "content": "Mpox is a disease caused by the highly infectious monkeypox virus. It's quite easily passed on from one person to another. But it originally came from infected animals. The virus was discovered in 1\u2026 [+6544 chars]",
+      "retrievedAt": "2024-11-15 19:05:58.359806",
+      "internal_id": "c2bbbaee75a30a5f751ff9a4d2860c64d63e1ad6f28b78a5004b6d4ed62fb284",
+      "publishedAtLabel": "Nov 14"
+    },
+    {
+      "id": 15511,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "World Health Organization",
+      "author": "World Health Organization: WHO",
+      "title": "Measles cases surge worldwide, infecting 10.3 million people in 2023",
+      "description": "Worldwide, there were an estimated 10.3 million cases of measles in 2023, a 20% increase from 2022, according to new estimates from the World Health Organization (WHO) and the U.S. Centers for Disease Control and Prevention (CDC). Inadequate immunization c\u2026",
+      "url": "https://www.who.int/news/item/14-11-2024-measles-cases-surge-worldwide--infecting-10.3-million-people-in-2023",
+      "urlToImage": "https://cdn.who.int/media/images/default-source/topics/diseases-and-conditions/measles/measleskyrgyzstan.tmb-1200v.jpg?sfvrsn=1bef44df_5",
+      "publishedAt": "2024-11-14 18:29:51",
+      "content": "Worldwide, there were an estimated 10.3 million cases of measles in 2023, a 20% increase from 2022, according to new estimates from the World Health Organization (WHO) and the U.S. Centers for Diseas\u2026 [+5369 chars]",
+      "retrievedAt": "2024-11-15 19:05:56.383334",
+      "internal_id": "f3219eff290e9bf20df87b5c3dcf4369165a83f2eb777e3674d87e08d5f86eb8",
+      "publishedAtLabel": "Nov 14"
+    },
+    {
+      "id": 15512,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Jen Christensen",
+      "title": "Measles is debilitating, deadly and making a comeback, WHO and CDC warn | CNN",
+      "description": "Global measles cases surged by more than 20% to an estimated 10.3 million last year, the World Health Organization and the US Centers for Disease Control and Prevention said Thursday. About 107,500 people, mostly young children, died \u2014 an \u201cunacceptable\u201d death\u2026",
+      "url": "https://www.cnn.com/2024/11/14/health/measles-comeback-who-cdc/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/240122095142-measles-vaccine-04262019.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-11-14 18:16:52",
+      "content": "Global measles cases surged by more than 20% to an estimated 10.3 million last year, the World Health Organization and the US Centers for Disease Control and Prevention said Thursday. About 107,500 p\u2026 [+3713 chars]",
+      "retrievedAt": "2024-11-15 19:05:56.389277",
+      "internal_id": "8a9ffe0659bc3b4a76f6b8f4e5db2e7b62ff9fdeac53a5b747d17343b065f5e1",
+      "publishedAtLabel": "Nov 14"
+    },
+    {
+      "id": 15506,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": "CDC",
+      "title": "Progress Toward Measles Elimination - Worldwide, 2000-2023",
+      "description": "This report describes an update on measles cases and vaccination coverage worldwide.",
+      "url": "https://www.cdc.gov/mmwr/volumes/73/wr/mm7345a4.htm",
+      "urlToImage": "https://www.cdc.gov/mmwr/volumes/73/wr/social-media/mm7345a4_MeaslesElimination_IMAGE_14Nov2024_1200x675.png?_=11152",
+      "publishedAt": "2024-11-14 18:00:00",
+      "content": "Immunization Activities During 2000\u20132019, estimated MCV1 coverage increased worldwide from 71% to 86%, then declined to 81% in 2021 during the COVID-19 pandemic, increased to 83% in 2022, and remain\u2026 [+4672 chars]",
+      "retrievedAt": "2024-11-15 19:05:56.350857",
+      "internal_id": "993d79b88aa8bef76782d0263786fa09a8470a258d924648bdb744ac685518e8",
+      "publishedAtLabel": "Nov 14"
+    },
+    {
+      "id": 15507,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": "CDC",
+      "title": "Pediatric Rash Illness Outbreak with Initial Positive Measles Immunoglobulin M Antibody Test Results - American Samoa, March-July 2023",
+      "description": "This report describes instances of positive measles immunoglobulin tests among two children in American Samoa that were later confirmed to be alternative viral etiologies.",
+      "url": "https://www.cdc.gov/mmwr/volumes/73/wr/mm7345a3.htm",
+      "urlToImage": "https://www.cdc.gov/mmwr/volumes/73/wr/social-media/mm7345a3_RashSerology_IMAGE_14Nov2024_1200x675.png?_=11149",
+      "publishedAt": "2024-11-14 18:00:00",
+      "content": "Identification of Two Persons Who Received Positive Measles Immunoglobulin M Antibody Test Results On March 23, 2023, an afebrile child aged 8 years who had received 2 doses of measles, mumps, and r\u2026 [+6062 chars]",
+      "retrievedAt": "2024-11-15 19:05:56.357479",
+      "internal_id": "2bc07fc44d4c0ff75a3590ee58a510df228615c6bc8a562b82907f80bc5a1d3b",
+      "publishedAtLabel": "Nov 14"
+    },
+    {
+      "id": 15505,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": "Michael Dorgan",
+      "title": "Peanut the Squirrel earmarked for euthanasia before being confiscated and was rabies-free: report",
+      "description": "Peanut the Squirrel, a beloved pet who was an internet sensation before being euthanized by New York officials was earmarked to be killed a week before officials say it bit a person during a raid.",
+      "url": "https://www.foxnews.com/us/peanut-the-squirrel-earmarked-for-euthanasia-before-being-confiscated-and-was-rabies-free-report",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/10/peanut-split.jpg",
+      "publishedAt": "2024-11-14 17:55:31",
+      "content": "Peanut the Squirrel, a beloved pet who was an internet sensation before it was confiscated and then killed by New York state officials, was found to be rabies-free after it was euthanized in order to\u2026 [+4201 chars]",
+      "retrievedAt": "2024-11-15 19:05:56.210103",
+      "internal_id": "707fbddfbf1e984940264a2d7eae7b5b1c92d847fb4ba518c5d99d80cad67294",
+      "publishedAtLabel": "Nov 14"
+    },
+    {
+      "id": 15508,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": "CDC",
+      "title": "Measles cases surge worldwide, infecting 10.3 million people in 2023",
+      "description": "Measles cases surge worldwide, infecting 10.3 million people in 2023",
+      "url": "https://www.cdc.gov/media/releases/2024/p1114-measles-cases.html",
+      "urlToImage": "https://www.cdc.gov/media/media/images/2024/09/cdc-logo.jpg?_=52313",
+      "publishedAt": "2024-11-14 17:50:00",
+      "content": "14 November 2024 | Atlanta / Geneva \u2013 Worldwide, there were an estimated 10.3 million cases of measles in 2023, a 20% increase from 2022, according to new estimates from the World Health Organization\u2026 [+5633 chars]",
+      "retrievedAt": "2024-11-15 19:05:56.363727",
+      "internal_id": "d8967f08123fcabfdea70beac08dc3fb6438f93aa498701774c501ca69461cbb",
+      "publishedAtLabel": "Nov 14"
+    },
+    {
+      "id": 15514,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Live Science",
+      "author": "Stephanie Pappas",
+      "title": "Teen sickened with Canada's first human case of bird flu is in critical condition \u2014 and the source remains a mystery",
+      "description": "A teenager in Canada is critically ill with the country's first human case of H5N1 bird flu. Health officials aren't sure how the youth was exposed.",
+      "url": "https://www.livescience.com/health/viruses-infections-disease/teen-sickened-with-canadas-first-human-case-of-bird-flu-is-in-critical-condition-and-the-source-remains-a-mystery",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/cr4kPPGfGnT9dC6y8b4rw7-1200-80.jpg",
+      "publishedAt": "2024-11-14 17:44:27",
+      "content": "A teenager in Canada is critically ill with the first human case of H5N1 bird flu contracted in the country, and public health officials aren't sure how the youth was exposed. The teen had no known \u2026 [+3091 chars]",
+      "retrievedAt": "2024-11-15 19:05:56.745929",
+      "internal_id": "39bb71e70f37d15765e54736bd771e4f4a053f6eb18fc8b61e4fc9c2b23d4f3f",
+      "publishedAtLabel": "Nov 14"
+    },
+    {
+      "id": 15519,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Uol.com.br",
+      "author": "Instituto Butantan",
+      "title": "Dengue, coronav\u00edrus, influenza, chikungunya: de onde v\u00eam os nomes dos v\u00edrus e das doen\u00e7as?",
+      "description": "Com diversas origens, palavras podem remeter a caracter\u00edsticas espec\u00edficas da doen\u00e7a; refer\u00eancias a locais ou povos n\u00e3o s\u00e3o recomendadas pela OMS The post Dengue, coronav\u00edrus, influenza, chikungunya: de onde v\u00eam os nomes dos v\u00edrus e das doen\u00e7as? appeared fir\u2026",
+      "url": "https://gizmodo.uol.com.br/dengue-coronavirus-influenza-chikungunya-de-onde-vem-os-nomes-dos-virus-e-das-doencas/",
+      "urlToImage": "https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2024/11/virus-butantan.jpg",
+      "publishedAt": "2024-11-14 17:12:53",
+      "content": "Reportagem: Aline Tavares/Instituto Butantan Voc\u00ea j\u00e1 parou para pensar como s\u00e3o escolhidos os nomes dos v\u00edrus? Para al\u00e9m de caracter\u00edsticas como sintomas, causas e formas de preven\u00e7\u00e3o, a pr\u00f3pria pal\u2026 [+6635 chars]",
+      "retrievedAt": "2024-11-15 19:05:57.150577",
+      "internal_id": "dd1aa46fcec0be584b0c4ad40c9af15d4961db244db27859c5ef815621c0d1cc",
+      "publishedAtLabel": "Nov 14"
+    },
+    {
+      "id": 15523,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Tass.ru",
+      "author": null,
+      "title": "\u0412 \u0410\u0444\u0440\u0438\u043a\u0435 \u043e\u0434\u043e\u0431\u0440\u0438\u043b\u0438 \u043f\u0435\u0440\u0432\u044b\u0439 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0430\u043d\u043d\u044b\u0439 \u043d\u0430 \u043a\u043e\u043d\u0442\u0438\u043d\u0435\u043d\u0442\u0435 \u0442\u0435\u0441\u0442 \u043d\u0430 \u043e\u0441\u043f\u0443 \u043e\u0431\u0435\u0437\u044c\u044f\u043d",
+      "description": "\u0415\u0433\u043e \u0438\u0437\u043e\u0431\u0440\u0435\u043b\u0438 \u0438 \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043b\u0438 \u0432 \u041c\u0430\u0440\u043e\u043a\u043a\u043e",
+      "url": "https://tass.ru/obschestvo/22405489",
+      "urlToImage": "https://cdn-storage-media.tass.ru/thumb/ru/obschestvo/22405489?u=2024-11-14T17:09:58.358389",
+      "publishedAt": "2024-11-14 17:09:58",
+      "content": ", 14 . //. () . , -, . \" mpox ( ), , \", - . - \". , 500% 2023 . 19 50 . , 1048. , , , 85,7% 99,5% . , .",
+      "retrievedAt": "2024-11-15 19:05:58.327359",
+      "internal_id": "0a78a9dfa30358e9bb8a77f967647bc360488bff720f08e3f6703d78f96d1ace",
+      "publishedAtLabel": "Nov 14"
+    },
+    {
+      "id": 15517,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "What Canada does to monitor H5N1 avian flu",
+      "description": "Livestock measures aim to keep virus out as hospitals and labs test patients with respiratory symptoms.",
+      "url": "https://www.cbc.ca/news/health/h5n1-bird-flu-avian-1.7383175",
+      "urlToImage": "https://i.cbc.ca/1.3854109.1731599231!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/bird-flu.jpg",
+      "publishedAt": "2024-11-14 16:37:43",
+      "content": "A teenager diagnosed with bird flu in British Columbia is the first domestically acquired human case of H5N1 avian influenza, the Public Health Agency of Canada says. Since Influenza A or flu virus\u2026 [+5494 chars]",
+      "retrievedAt": "2024-11-15 19:05:56.811318",
+      "internal_id": "cc7f27b3d4f073b5c05301c486f0b72884d53c1c8d739ccb080eab259b64c9f6",
+      "publishedAtLabel": "Nov 14"
+    },
+    {
+      "id": 15520,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Elconfidencial.com",
+      "author": "Dr. Manuel Gil Mosquera",
+      "title": "\u00bfHay riesgo de dengue o zika tras el paso de la DANA? El mosquito que puede proliferar en aguas estancadas de Espa\u00f1a",
+      "description": "Las autoridades comienzan a poner el foco en las enfermedades que trasmiten los insectos que se multiplican en las acumulaciones de agua que ha dejado el paso de la gota fr\u00eda en diferentes zonas del pa\u00eds",
+      "url": "https://www.alimente.elconfidencial.com/bienestar/2024-11-14/hay-riesgo-de-dengue-o-zika-tras-el-paso-de-la-dana_4003875/",
+      "urlToImage": "https://images.ecestaticos.com/7_Yf-xAWm3GZ2AGGjXV2cOBASFA=/0x0:2272x1515/600x315/filters:fill(white):format(jpg):quality(99):watermark(f.elconfidencial.com/file/57c/f73/0b4/57cf730b412ad7adb7151644bda336bd.png,0,275,1)/f.elconfidencial.com/original/09e/dbb/31e/09edbb31e4b62f17056f112fbcce1536.jpg",
+      "publishedAt": "2024-11-14 15:57:00",
+      "content": "Las inundaciones que se est\u00e1n sufriendo en diferentes puntos de Espa\u00f1a est\u00e1n dejando tras de s\u00ed un escenario complejo que requiere atenci\u00f3n no solo por los da\u00f1os visibles, sino tambi\u00e9n por los posibl\u2026 [+4334 chars]",
+      "retrievedAt": "2024-11-15 19:05:57.178383",
+      "internal_id": "10c0490a5588c67e66d88ab4cfc50ff8259556943084bbaabcad31f105eb2985",
+      "publishedAtLabel": "Nov 14"
+    },
+    {
+      "id": 15515,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Index.hu",
+      "author": "Domj\u00e1n Anik\u00f3",
+      "title": "L\u00e9pett a N\u00e9bih, indul a m\u00e9sz\u00e1rl\u00e1s Kom\u00e1rom-Esztergom v\u00e1rmegy\u00e9ben",
+      "description": "L\u00e9pett a N\u00e9bih, indul a m\u00e9sz\u00e1rl\u00e1s Kom\u00e1rom-Esztergom v\u00e1rmegy\u00e9ben - Kimutatt\u00e1k a H5N1 jelenl\u00e9t\u00e9t.",
+      "url": "https://index.hu/gazdasag/2024/11/14/baromfi-madarinfluenza-nebih-komarom-esztergom-varmegye-virus-jarvany/",
+      "urlToImage": "https://kep.cdn.index.hu/1/0/5922/59221/592217/59221733_4379087_70bef0b1f45dad7f4a62bfdcfbc8f239_wm.jpg",
+      "publishedAt": "2024-11-14 14:39:00",
+      "content": "Megjelent a mad\u00e1rinfluenza Kom\u00e1rom-Esztergom v\u00e1rmegy\u00e9ben is, ahol megkezdt\u00e9k egy teny\u00e9sz ty\u00fak telepen az \u00e9rintett \u00e1llom\u00e1ny, vagyis a mintegy 60 ezer \u00e1llat felsz\u00e1mol\u00e1s\u00e1t. Az Agroinform azt \u00edrja, hogy\u2026 [+643 chars]",
+      "retrievedAt": "2024-11-15 19:05:56.799029",
+      "internal_id": "5b76da2decfb72b15955a40b80ea7b905f96b441d18a0d7662721dec1edc5a6f",
+      "publishedAtLabel": "Nov 14"
+    },
+    {
+      "id": 15521,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Peter Sands, Contributor, \n Peter Sands, Contributor\n https://www.forbes.com/sites/petersands/",
+      "title": "Why Health Should Be At The Heart Of The Climate Agenda At COP29",
+      "description": "Climate change undermines the fight against HIV, TB and malaria. Integrating health into climate policy is crucial to overcoming these deadly diseases.",
+      "url": "https://www.forbes.com/sites/petersands/2024/11/14/why-health-should-be-at-the-heart-of-the-climate-agenda-at-cop29/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6735f96bd038c02eb083175f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-11-14 14:18:49",
+      "content": "Thirteen-year-old Nupur Akhtar holds her one-and-a-half-year-old sister, Juthi, while trying to find ... [+] broken parts of their home in Chila Bazar, Mongla Union, Bagerhat District, Bangladesh. Cy\u2026 [+5771 chars]",
+      "retrievedAt": "2024-11-15 19:05:57.560281",
+      "internal_id": "89d12235b75438674aa1c879fbeaa31b5c6a37f5b9f8d56b0a5d362486df5bfb",
+      "publishedAtLabel": "Nov 14"
+    },
+    {
+      "id": 15504,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Linda Bohou Kombila, Nadine N\u2019dilimabaka, Julien Lannoy, Eric Elguero, Eric M. Leroy, Laurent Dacheux, Pierre Becquart",
+      "title": "Serological evidence of natural exposure to rabies in rural populations in Gabon",
+      "description": "Author summary Rabies is one of the oldest neglected tropical diseases transmitted to humans, generally by dogs, but wild animals can also act as vectors of the disease. In most cases, a risk-contact with an infected animal without proper prophylaxis results \u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012044",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012044.g003&size=inline",
+      "publishedAt": "2024-11-14 14:00:00",
+      "content": "Abstract Rabies is one of the oldest known zoonotic diseases, with dogs being the main reservoir for 99% of the cases of human rabies. However, wild animals may also be rabies vectors. In most cases\u2026 [+40030 chars]",
+      "retrievedAt": "2024-11-15 19:05:56.193894",
+      "internal_id": "bca4e615b5d5c390c7aabe53522e05a8fb10efd40f94b05fe03d05ca8ac4a829",
+      "publishedAtLabel": "Nov 14"
+    },
+    {
+      "id": 15516,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "S\u00fcddeutsche Zeitung",
+      "author": "Von Berit Uhlmann",
+      "title": "Vogelgrippe: Kanadischer Teenager nach H5N1-Infektion schwer erkrankt",
+      "description": "In Kanada ist ein junger Mensch schwer am Vogelgrippe-Virus H5N1 erkrankt. Unklar ist, wo er sich infiziert hat.",
+      "url": "https://www.sueddeutsche.de/gesundheit/h5n1-teenager-kanada-li.3147302",
+      "urlToImage": "https://www.sueddeutsche.de/2024/11/14/51e9ec24-6b79-4f1d-a3ab-0da73731d0cf.jpeg?q=60&fm=webp&width=1200&rect=0%2C104%2C2579%2C1451",
+      "publishedAt": "2024-11-14 13:11:06",
+      "content": "Dabei hatte der nicht n\u00e4her beschriebene junge Mensch nach Angaben der zust\u00e4ndigen Gesundheitsbeh\u00f6rde in British Columbia keine bekannten Vorerkrankungen. Am 2. November stellte er sich mit Fieber, H\u2026 [+2303 chars]",
+      "retrievedAt": "2024-11-15 19:05:56.805267",
+      "internal_id": "1eeb790ee9d17e95f08d6ab5b2d04fff5f1d80e42ae39f37f361d66949325473",
+      "publishedAtLabel": "Nov 14"
+    },
+    {
+      "id": 15503,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "TheJournal.ie",
+      "author": "Mairead Maguire",
+      "title": "Doctors call on parents to vaccinate children against whooping cough as cases soar",
+      "description": "There has been an increase in cases, not only in Ireland, but across Europe and the UK.",
+      "url": "https://www.thejournal.ie/doctors-call-on-parents-to-get-children-vaccinated-against-whooping-cough-as-cases-soar-6542131-Nov2024/",
+      "urlToImage": "https://img2.thejournal.ie/article/6542131/river/?height=400&version=6542171",
+      "publishedAt": "2024-11-14 12:59:47",
+      "content": "DOCTORS ARE CALLING on parents to get their children vaccinated against whooping cough as cases have been on the rise. There were 551 cases of whooping cough, also known as pertussis, this year so f\u2026 [+2001 chars]",
+      "retrievedAt": "2024-11-15 19:05:55.997788",
+      "internal_id": "11a47c0d0f34beaa2bc762981914fbb6fa585d095a535cd3b4a9c2cb33baab42",
+      "publishedAtLabel": "Nov 14"
+    },
+    {
+      "id": 15513,
+      "query": [
+        "hpai",
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Owen Dyer",
+      "title": "Bird flu: Canadian teenager is critically ill with new genotype",
+      "description": "A Canadian adolescent is in a critical condition in a British Columbia hospital after becoming infected with a new genotype of H5N1 highly pathogenic avian influenza (HPAI). The patient, who has not been publicly identified, developed conjunctivitis on 2 Nov\u2026",
+      "url": "https://www.bmj.com/content/387/bmj.q2529",
+      "urlToImage": "https://www.bmj.com/sites/default/files/highwire/bmj/387/8448.cover-source.jpg",
+      "publishedAt": "2024-11-14 12:41:56",
+      "content": "A Canadian adolescent is in a critical condition in a British Columbia hospital after becoming infected with a new genotype of H5N1 highly pathogenic avian influenza (HPAI). The patient, who has not\u2026 [+1143 chars]",
+      "retrievedAt": "2024-11-15 19:05:56.492107",
+      "internal_id": "930c5d97742c32fe41eba84b45e51a34d051f39c41c95ea55a9190ae07731491",
+      "publishedAtLabel": "Nov 14"
+    },
+    {
+      "id": 15510,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "UN News",
+      "author": "dpicampaigns",
+      "title": "World News in Brief: Haiti crisis, measles surge, global torture accord turns 40",
+      "description": "Insecurity and overlapping crises afflicting Haiti are continuing to fuel a dire humanitarian situation across the Caribbean nation, the UN Spokesperson said on Thursday. Read Full Story on UN News The post World News in Brief: Haiti crisis, measles surge, gl\u2026",
+      "url": "https://news.un.org/en/story/2024/11/1156991",
+      "urlToImage": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/11-11-2024_UNICEF_Haiti-01.jpg/image770x420cropped.jpg",
+      "publishedAt": "2024-11-14 12:00:00",
+      "content": "St\u00e9phane Dujarric told reporters at UN Headquarters in New York that according to UN migration agency, IOM, more than 4,300 people have fled their homes in Port-au-Prince and neighbouring towns. De\u2026 [+4035 chars]",
+      "retrievedAt": "2024-11-15 19:05:56.376412",
+      "internal_id": "9ef61f63aaf42c1ae8890c84eeacf61378e69acc7abdc27d15d43a08b45b480b",
+      "publishedAtLabel": "Nov 14"
+    },
+    {
+      "id": 15522,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Agency Report",
+      "title": "Africa CDC endorses first locally made mpox test",
+      "description": "The African Union\u2019s health watchdog announced on Thursday that it has endorsed an mpox test from Morocco, describing it as a \u201cmajor milestone\u201d in efforts to combat the outbreak on the continent. The announcement comes three months after the Africa Centres for\u2026",
+      "url": "https://punchng.com/africa-cdc-endorses-first-locally-made-mpox-test/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2024/11/07153218/Mpox-Vaccines-1200x630.jpeg",
+      "publishedAt": "2024-11-14 11:33:11",
+      "content": "The African Union\u2019s health watchdog announced on Thursday that it has endorsed an mpox test from Morocco, describing it as a \u201cmajor milestone\u201d in efforts to combat the outbreak on the continent. The\u2026 [+1540 chars]",
+      "retrievedAt": "2024-11-15 19:05:58.320967",
+      "internal_id": "a00a461f33ef98bf57b5ddb26cdc6cedc9e353e524540ffaac59b1b39cbfc96b",
+      "publishedAtLabel": "Nov 14"
+    },
+    {
+      "id": 15509,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Alemayehu, M. A.",
+      "title": "Machine learning algorithms for prediction of measles one vaccination dropout among 12-23 months children in Ethiopia",
+      "description": "Introduction Despite the availability of a safe and effective measles vaccine in Ethiopia, the country has experienced recurrent and significant measles outbreaks, with a nearly fivefold increase in confirmed cases from 2021 to 2023. The WHO has identified be\u2026",
+      "url": "https://bmjopen.bmj.com/content/14/11/e089764",
+      "urlToImage": "https://bmjopen.bmj.com/pages/wp-content/uploads/sites/7/2019/07/bmjopen-default-cover.png",
+      "publishedAt": "2024-11-14 10:37:34",
+      "content": "Introduction Measles is one of the most contagious diseases known worldwide. It is caused by the measles virus, which belongs to the genus Morbillivirus in the Paramyxoviridae family. This virus exc\u2026 [+15386 chars]",
+      "retrievedAt": "2024-11-15 19:05:56.370054",
+      "internal_id": "af44d6cb31f022cd76033e900923029bfe3b753d3466421bac6f912c653f7b7b",
+      "publishedAtLabel": "Nov 14"
+    },
     {
       "id": 15493,
       "query": [
@@ -24756,133 +25155,6 @@
       "content": "Dog bites and scratches account for 99 per cent of human rabies cases. [Courtesy] While dogs are often celebrated as man's best friend, they can also pose a deadly risk. In Kenya, rabies claims an \u2026 [+5012 chars]",
       "retrievedAt": "2024-10-01 07:06:35.848423",
       "internal_id": "d10f5e13f18b2978569d000f8a7cfbc1127cf8e5a32953a2305330d40b201a19",
-      "publishedAtLabel": "Sep 29"
-    },
-    {
-      "id": 14124,
-      "query": [
-        "rabies"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "TNN",
-      "title": "State sets goal to end rabies deaths by \u201930",
-      "description": "Panaji: Aligning with a \ue814global disease-fighting goal, the directorate of health services (DHS) has set the target to eliminate human \ue814deaths caused b.",
-      "url": "https://timesofindia.indiatimes.com/city/goa/state-sets-goal-to-end-rabies-deaths-by-30/articleshow/113793081.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-09-29 18:39:03",
-      "content": "10 spotted animals and their distinct markings",
-      "retrievedAt": "2024-09-30 19:05:24.961068",
-      "internal_id": "743a021643863a86ee3aba70a0b9033dc9b794f8b45903ccf6171a7c5a97c308",
-      "publishedAtLabel": "Sep 29"
-    },
-    {
-      "id": 14126,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Shtfplan.com",
-      "author": "Mac Slavo",
-      "title": "The \u201cCluster\u201d of Possible Human Bird Flu Infections Has Expanded to 8",
-      "description": "A cluster of possible bird flu infections in Missouri has grown to include eight people. These eight could very well represent what may be the first examples of person-to-person transmission of the H5N1 avian influenza in the United States, the Centers for Di\u2026",
-      "url": "https://www.shtfplan.com/headline-news/the-cluster-of-possible-human-bird-flu-infections-has-expanded-to-8",
-      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2024/05/birdflu1.jpg",
-      "publishedAt": "2024-09-29 17:30:46",
-      "content": "A cluster of possible bird flu infections in Missouri has grown to include eight people. These eight could very well represent the first examples of person-to-person transmission of the H5N1 avian in\u2026 [+2323 chars]",
-      "retrievedAt": "2024-09-30 19:05:25.942322",
-      "internal_id": "b36641378ed00504b285e3199c5223c57d94ed8d2b6243e12500eb6de41ca933",
-      "publishedAtLabel": "Sep 29"
-    },
-    {
-      "id": 14129,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Gazeta.ru",
-      "author": "\u0413\u0430\u0437\u0435\u0442\u0430.Ru",
-      "title": "\u0412 \u0412\u041e\u0417 \u0440\u0430\u0441\u0441\u043a\u0430\u0437\u0430\u043b\u0438 \u043e \u0441\u043b\u0443\u0447\u0430\u044f \u0441 \u043f\u043e\u0434\u043e\u0437\u0440\u0435\u043d\u0438\u0435\u043c \u043d\u0430 \u043e\u0441\u043f\u0443 \u043e\u0431\u0435\u0437\u044c\u044f\u043d \u0432 \u0410\u0444\u0440\u0438\u043a\u0435 \u0441 \u043d\u0430\u0447\u0430\u043b\u0430 2024 \u0433\u043e\u0434\u0430",
-      "description": "\u0411\u043e\u043b\u0435\u0435 31 \u0442\u044b\u0441. \u0441\u043b\u0443\u0447\u0430\u0435\u0432 \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0430\u043d\u0438\u044f \u0441 \u043f\u043e\u0434\u043e\u0437\u0440\u0435\u043d\u0438\u0435\u043c \u043d\u0430 mpox (\u043d\u043e\u0432\u043e\u0435 \u043d\u0430\u0438\u043c\u0435\u043d\u043e\u0432\u0430\u043d\u0438\u0435 \u043e\u0441\u043f\u044b \u043e\u0431\u0435\u0437\u044c\u044f\u043d) \u0432\u044b\u044f\u0432\u0438\u043b\u0438 \u0432 \u0410\u0444\u0440\u0438\u043a\u0435 \u0441 1 \u044f\u043d\u0432\u0430\u0440\u044f \u043f\u043e 22 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2024 \u0433\u043e\u0434\u0430. \u041e\u0431 \u044d\u0442\u043e\u043c \u0441\u043e\u043e\u0431\u0449\u0430\u0435\u0442\u0441\u044f \u043d\u0430 \u0441\u0430\u0439\u0442\u0435 \u0412\u0441\u0435\u043c\u0438\u0440\u043d\u043e\u0439 \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u0438 \u0437\u0434\u0440\u0430\u0432\u043e\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f (\u0412\u041e\u0417). \u0412 \u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0446\u0438\u0438 ...",
-      "url": "https://www.gazeta.ru/social/news/2024/09/29/24035059.shtml",
-      "urlToImage": "https://img.gazeta.ru/files3/968/14991968/2022-05-23T182141Z_475247910_RC25DU95S1NL_RTRMADP_3_HEALTH-MONKEYPOX-pic_32ratio_900x600-900x600-55005.jpg",
-      "publishedAt": "2024-09-29 13:35:21",
-      "content": "31 . mpox ( ) 1 22 2024 . (). , 2024 31 427 mpox. \u2014 27 103 . , 123 106 310 . , mpox . () , 88 . $21,4 2024 . .",
-      "retrievedAt": "2024-09-30 19:05:28.068294",
-      "internal_id": "31cfb96cd5e031c6c53fbc9e5c8dcca9986cbee7b54b7afd9677695e58e37c4a",
-      "publishedAtLabel": "Sep 29"
-    },
-    {
-      "id": 14128,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Tass.ru",
-      "author": null,
-      "title": "\u0412 \u0410\u0444\u0440\u0438\u043a\u0435 \u0432\u044b\u044f\u0432\u0438\u043b\u0438 31 \u0442\u044b\u0441. \u0441\u043b\u0443\u0447\u0430\u0435\u0432 \u0441 \u043f\u043e\u0434\u043e\u0437\u0440\u0435\u043d\u0438\u0435\u043c \u043d\u0430 mpox \u0441 \u043d\u0430\u0447\u0430\u043b\u0430 \u0433\u043e\u0434\u0430",
-      "description": "\u0417\u0430\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u044b \u0431\u043e\u043b\u0435\u0435 840 \u043b\u0435\u0442\u0430\u043b\u044c\u043d\u044b\u0445 \u0438\u0441\u0445\u043e\u0434\u043e\u0432, \u043f\u0440\u0438\u0447\u0438\u043d\u043e\u0439 \u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u043c\u043e\u0433\u043b\u0430 \u043f\u043e\u0441\u043b\u0443\u0436\u0438\u0442\u044c \u044d\u0442\u0430 \u0431\u043e\u043b\u0435\u0437\u043d\u044c, \u0441\u043e\u043e\u0431\u0449\u0438\u043b\u0438 \u0432 \u0412\u041e\u0417",
-      "url": "https://tass.ru/obschestvo/21989865",
-      "urlToImage": "https://cdn-storage-media.tass.ru/thumb/ru/obschestvo/21989865?u=2024-09-29T13:21:15.571295",
-      "publishedAt": "2024-09-29 13:21:15",
-      "content": ", 29 . //. 31 . mpox ( ) 840 , , 1 22 2024 . (). , 31 427 mpox, 844 . 16 22 2 085, 34 . 402 . mpox () - 27 103 838 . 1 2022 31 2024 123 106 310 , 234 . mpox 2022 11 2023 . , 14 2024 . Mpox -\u2026 [+12 chars]",
-      "retrievedAt": "2024-09-30 19:05:27.932262",
-      "internal_id": "8044e60e22c2cc27d80ae91c10ff02a191b3325ce0f962c0717276be7249cb00",
-      "publishedAtLabel": "Sep 29"
-    },
-    {
-      "id": 14127,
-      "query": [
-        "dengue",
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Catracalivre.com.br",
-      "author": "Andr\u00e9 Nicolau",
-      "title": "MPox, Coqueluche e dengue: como evitar essas doen\u00e7as no Brasil",
-      "description": "Muitas doen\u00e7as acabam chegando ao conhecimento da popula\u00e7\u00e3o apenas quando j\u00e1 est\u00e1 em surto em determinado pa\u00eds ou regi\u00e3o, ou quando \u00e9 registrado \u00f3bito e",
-      "url": "https://catracalivre.com.br/saude-bem-estar/como-evitar-essas-doencas-no-brasil/",
-      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1280,h=720,fit=cover,format=jpeg/wp-content/uploads/2022/03/campanha-vacinacao-sarampo.jpg",
-      "publishedAt": "2024-09-29 11:01:13",
-      "content": "Minist\u00e9rio da Sa\u00fade reverteu tend\u00eancia de queda nas coberturas vacinais nos \u00faltimos anos. Como evitar essas doen\u00e7as no Brasil? User7565abab_575/istock - User7565abab_575/istock Muitas doen\u00e7as acabam\u2026 [+4907 chars]",
-      "retrievedAt": "2024-09-30 19:05:26.396549",
-      "internal_id": "284b02280b08ff4e594a499b1a8efeb1a6c0464631d182a540fd268907499e61",
-      "publishedAtLabel": "Sep 29"
-    },
-    {
-      "id": 14125,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Antaranews.com",
-      "author": "Dewa W, Kenzu",
-      "title": "Indonesia's Bali intensifies rabies vaccination for pets",
-      "description": "The Bali government is accelerating the vaccination of dogs and cats to prevent the transmission of the rabies virus in the province. &quot;We must make ...",
-      "url": "https://en.antaranews.com/news/327715/indonesias-bali-intensifies-rabies-vaccination-for-pets",
-      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2024/09/29/IMG_20240929_113136.jpg",
-      "publishedAt": "2024-09-29 08:09:30",
-      "content": "Denpasar, Bali (ANTARA) - The Bali government is accelerating the vaccination of dogs and cats to prevent the transmission of the rabies virus in the province.\"We must make Bali rabies-free,\" Bali's \u2026 [+1563 chars]",
-      "retrievedAt": "2024-09-30 19:05:25.023338",
-      "internal_id": "f88760feb3afc552efdeaf202dcd833c2c717f0007f02d68aa979775b32bf48c",
-      "publishedAtLabel": "Sep 29"
-    },
-    {
-      "id": 14130,
-      "query": [
-        "leptospirosis"
-      ],
-      "source_id": null,
-      "source_name": "NDTV News",
-      "author": null,
-      "title": "Punjab Chief Minister Bhagwant Mann Diagnosed With Leptospirosis",
-      "description": "Punjab Chief Minister Bhagwant Mann was on Saturday diagnosed with bacterial infection leptospirosis, with doctors saying he is being given antibiotics and his vitals are \"completely stable\".",
-      "url": "https://www.ndtv.com/chandigarh-news/punjab-cm-bhagwant-mann-diagnosed-with-leptospirosis-6675554",
-      "urlToImage": "https://c.ndtvimg.com/2024-07/ba1eqpao_bhagwant-mann_625x300_25_July_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-      "publishedAt": "2024-09-29 07:15:35",
-      "content": "Punjab Chief Minister Bhagwant Mann was admitted to the Fortis Hospital, Mohali. (File) Chandigarh: Punjab Chief Minister Bhagwant Mann was on Saturday diagnosed with bacterial infection leptospiros\u2026 [+1620 chars]",
-      "retrievedAt": "2024-09-30 19:05:28.540483",
-      "internal_id": "de2c3109f6ab8336ee7dbcdf3d8013e2c4e684d60123990760058d931a2dd580",
       "publishedAtLabel": "Sep 29"
     }
   ]
