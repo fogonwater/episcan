@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 22
-- **Last harvest:** 2024-11-15 19:05
-- **Most recent article:** 2024-11-14 18:50:01
+- **New articles in last harvest:** 28
+- **Last harvest:** 2024-11-16 07:06
+- **Most recent article:** 2024-11-15 06:30:44
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-40 | 24-41 | 24-42 | 24-43 | 24-44 | 24-45 | 24-46 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 124 | 42 | 81 | 131 | 75 | 63 | 24 | 540 |
-| dengue | 49 | 35 | 50 | 53 | 31 | 31 | 15 | 264 |
-| h5n1 | 49 | 10 | 18 | 12 | 61 | 36 | 34 | 220 |
-| malaria | 10 | 13 | 18 | 58 | 16 | 26 | 8 | 149 |
-| rabies | 26 | 6 | 7 | 3 | 10 | 5 | 11 | 68 |
-| measles | 5 | 5 | 3 | 1 | 13 | 3 | 9 | 39 |
-| zika | 3 | 4 | 6 | 6 | 3 | 9 | 2 | 33 |
+| mpox | 127 | 42 | 81 | 131 | 75 | 63 | 27 | 546 |
+| dengue | 50 | 35 | 50 | 53 | 31 | 31 | 18 | 268 |
+| h5n1 | 50 | 10 | 18 | 12 | 61 | 36 | 36 | 223 |
+| malaria | 10 | 13 | 18 | 58 | 16 | 26 | 15 | 156 |
+| rabies | 28 | 6 | 7 | 3 | 10 | 5 | 11 | 70 |
+| measles | 5 | 5 | 3 | 1 | 13 | 3 | 21 | 51 |
+| zika | 3 | 4 | 6 | 6 | 3 | 9 | 4 | 35 |
 | meningitis | 11 | 2 | 1 | 6 | 3 | 5 | 2 | 30 |
 | pertussis | 2 | 2 | 9 | 3 | 1 | 3 | 6 | 26 |
 | chikungunya | 3 | 3 | 4 | 7 | 2 | 2 | 3 | 24 |
 | hpai | 2 | 1 | 2 | 2 | 7 | 4 | 3 | 21 |
-| leptospirosis | 2 | 1 | 1 | 0 | 3 | 10 | 3 | 20 |
+| leptospirosis | 3 | 1 | 1 | 0 | 3 | 10 | 3 | 21 |
 | typhoid | 1 | 0 | 1 | 3 | 4 | 1 | 1 | 11 |
 | shigellosis | 1 | 3 | 0 | 1 | 0 | 0 | 1 | 6 |
 | yersinia | 1 | 1 | 0 | 0 | 3 | 0 | 0 | 5 |
@@ -34,6 +34,10 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-46 (zika)
+
+- [Effect of Sexual Partnerships on Zika Virus Transmission in Virus-Endemic Region, Northeast Brazil](https://wwwnc.cdc.gov/eid/article/30/12/23-1733_article) (Cdc.gov)
+
+- [The stakes at COP29, and the rogue Skynet satellite](https://www.thenakedscientists.com/podcasts/naked-scientists-podcast/stakes-cop29-and-rogue-skynet-satellite) (The Naked Scientists)
 
 - [¿Hay riesgo de dengue o zika tras el paso de la DANA? El mosquito que puede proliferar en aguas estancadas de España](https://www.alimente.elconfidencial.com/bienestar/2024-11-14/hay-riesgo-de-dengue-o-zika-tras-el-paso-de-la-dana_4003875/) (Elconfidencial.com)
 
@@ -86,6 +90,12 @@ Source: [News API](https://newsapi.org/)
 - [Diphtheria-tetanus-pertussis immunization and sudden infant death: results of the National Institute of Child Health and Human Development Cooperative Epidemiological Study of Sudden Infant Death Syndrome risk factors](https://pubmed.ncbi.nlm.nih.gov/3493477/) (National Institutes of Health)
 
 ## 24-46 (mpox)
+
+- [Un régulateur africain approuve le premier test de dépistage du mpox développé sur le continent](https://fr.sputniknews.africa/20241115/un-regulateur-africain-approuve-le-premier-test-de-depistage-du-mpox-developpe-sur-le-continent--1069237933.html) (Sputniknews.africa)
+
+- [Health advocates press Cepheid for cheaper mpox tests](https://www.investing.com/news/stock-market-news/health-advocates-press-cepheid-for-cheaper-mpox-tests-3724869) (Investing.com)
+
+- [Optical biosensor rapidly detects mpox virus](https://www.sciencedaily.com/releases/2024/11/241114161042.htm) (Science Daily)
 
 - [Which animals carry mpox? Our study identified African forest dwelling rodents as one source](https://phys.org/news/2024-11-animals-mpox-african-forest-rodents.html) (Phys.Org)
 
@@ -143,6 +153,30 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-46 (measles)
 
+- [RFK Jr. given official mandate to Make America Healthy Again, and Jake Tapper fearmongers about measles](https://www.americanthinker.com/blog/2024/11/rfk_jr_given_official_mandate_to_make_america_healthy_again_and_jake_tapper_fearmongers_about_measles.html) (Americanthinker.com)
+
+- [World News in Brief: Haiti crisis, measles surge, global torture accord turns 40](https://www.globalsecurity.org/military/library/news/2024/11/mil-241114-unnews03.htm) (Globalsecurity.org)
+
+- [“Well, America, I Hope You Like Measles”: Jake Tapper Reacts To Donald Trump’s Pick Of RFK Jr. To Lead Health And Human Services](http://deadline.com/2024/11/well-america-i-hope-you-like-measles-jake-tapper-reacts-to-donald-trumps-pick-of-rfk-jr-to-lead-health-and-human-services-1236177620/) (Deadline)
+
+- [Global Measles Cases Rise by 20% as WHO Blames One Key Factor](https://www.sciencealert.com/global-measles-cases-rise-by-20-as-who-blames-one-key-factor) (ScienceAlert)
+
+- [Jake Tapper Tells CNN Viewers ‘I Hope You Like Measles’ While Reporting on Trump Picking RFK Jr. for Health Secretary](https://variety.com/2024/tv/news/jake-tapper-hope-you-like-measles-rfk-jr-health-chief-1236210829/) (Variety)
+
+- [Jake Tapper Jokes ‘I Hope You Like Measles’ After RFK Jr. Is Tapped as Health Chief](https://www.thewrap.com/jake-tapper-robert-f-kennedy-jr-measles-cnn/) (TheWrap)
+
+- [Dem Gov. Praises RFK Jr. Pick After Warning He’d Bring Back Polio, Measles](http://www.rollingstone.com/politics/politics-news/jared-polis-praises-rfk-jr-after-warning-polio-measles-1235166822/) (Rolling Stone)
+
+- [Global Measles Cases Up 20% In A Year, With Poor Vaccination To Blame](https://www.forbes.com/sites/katherinehignett/2024/11/14/global-measles-cases-up-20-in-a-year-with-poor-vaccination-to-blame/) (Forbes)
+
+- [Rather switch than fight](https://www.lawyersgunsmoneyblog.com/2024/11/rather-switch-than-fight) (Lawyersgunsmoneyblog.com)
+
+- [‘Well, America – I Hope You Like Measles’: Jake Tapper Horrified By Trump Picking RFK Jr. to Lead HHS](https://www.mediaite.com/tv/well-america-i-hope-you-like-measles-jake-tapper-horrified-by-trump-picking-rfk-jr-to-lead-hhs/) (Mediaite)
+
+- [Measles cases rose to more than 10 million in 2023, WHO and CDC say](https://www.nbcnews.com/health/health-news/measles-cases-rose-10-million-2023-cdc-say-rcna180165) (NBC News)
+
+- [WHO warns of measles resurgence as cases exceed 10 million in 2023](https://www.aljazeera.com/news/2024/11/14/who-warns-of-measles-resurgence-as-cases-exceed-10-million-in-2023) (Al Jazeera English)
+
 - [Measles cases surge worldwide, infecting 10.3 million people in 2023](https://www.who.int/news/item/14-11-2024-measles-cases-surge-worldwide--infecting-10.3-million-people-in-2023) (World Health Organization)
 
 - [Measles is debilitating, deadly and making a comeback, WHO and CDC warn | CNN](https://www.cnn.com/2024/11/14/health/measles-comeback-who-cdc/index.html) (CNN)
@@ -162,6 +196,20 @@ Source: [News API](https://newsapi.org/)
 - [Nigerian children on World Immunisation Day](https://punchng.com/nigerian-children-on-world-immunisation-day/) (The Punch)
 
 ## 24-46 (malaria)
+
+- [Fatal Mixed Plasmodium Infection in Traveler Returning to Colombia from Comoros Islands, 2024](https://wwwnc.cdc.gov/eid/article/31/1/24-1491_article) (Cdc.gov)
+
+- [Study uncovers first evidence of resistance to standard malaria treatment in African children with severe malaria](https://www.sciencedaily.com/releases/2024/11/241114183336.htm) (Science Daily)
+
+- [¡Boulaye Dia se contagia de malaria con Senegal!](https://www.marca.com/futbol/futbol-internacional/2024/11/14/boulaye-dia-contagia-malaria-senegal.html) (Marca)
+
+- [How the CDC could change under the next Trump administration](https://www.npr.org/sections/shots-health-news/2024/11/14/nx-s1-5186971/cdc-cuts-restructuring-trump-2024-election) (NPR)
+
+- [Lazio: stop per Dia, ha contratto la malaria](https://www.ansa.it/sito/notizie/sport/calcio/2024/11/14/calcio-lazio-stop-per-dia-ha-contratto-la-malaria_08aeddb4-9f56-4eab-be17-1a9a2a9b600a.html) (ANSA.it)
+
+- [Lazio striker Dia contracts malaria playing for Senegal](https://football-italia.net/lazio-striker-dia-contracts-malaria-senegal/) (Football Italia)
+
+- [Calcio: Lazio; stop per Dia, ha contratto la malaria](https://www.ansa.it/sito/notizie/topnews/2024/11/14/calcio-lazio-stop-per-dia-ha-contratto-la-malaria_87f70f1a-be89-4150-9535-b8c3d931ba18.html) (ANSA.it)
 
 - [Why Health Should Be At The Heart Of The Climate Agenda At COP29](https://www.forbes.com/sites/petersands/2024/11/14/why-health-should-be-at-the-heart-of-the-climate-agenda-at-cop29/) (Forbes)
 
@@ -196,6 +244,10 @@ Source: [News API](https://newsapi.org/)
 - [Η γρίπη των πτηνών απειλεί με εξαφάνιση τα περιπλανώμενα αλμπατρός](https://www.skai.gr/news/environment/i-gripi-ton-ptinon-apeilei-ta-periplanomena-almpatros) (Skai.gr)
 
 ## 24-46 (h5n1)
+
+- [Smittad mystiskt: Tonåring sjuk – ingen vet varför](https://www.aftonbladet.se/nyheter/a/dRGKEJ/manniska-smittad-av-fagelinfluensa-inga-kanda-kopplingar-till-smittade-djur) (Aftonbladet.se)
+
+- [Canada’s Bird Flu Case Is A Different Strain Than Is Found In Dairy Cattle](https://www.shtfplan.com/headline-news/canadas-bird-flu-case-is-a-different-strain-than-is-found-in-dairy-cattle) (Shtfplan.com)
 
 - [Bird flu leaves teen in critical condition. Could it cause a lockdown like COVID?](https://www.today.com/health/news/bird-flu-pandemic-rcna179981) (TODAY)
 
@@ -266,6 +318,12 @@ Source: [News API](https://newsapi.org/)
 - [Experts Weigh In On Bird Flu Concerns, And The Consensus Isn't As Scary As You Might Think](https://www.huffpost.com/entry/bird-flu-h1n5-virus_l_672bc43ae4b01cfbdad3a432) (HuffPost)
 
 ## 24-46 (dengue)
+
+- [Le Guadeloupe face à une épidémie de dengue](https://www.lalibre.be/international/amerique/2024/11/15/le-guadeloupe-face-a-une-epidemie-de-dengue-UPXGY47BCJDAHKQI743A2ZR5OQ/) (Lalibre.be)
+
+- [The stakes at COP29, and the rogue Skynet satellite](https://www.thenakedscientists.com/podcasts/naked-scientists-podcast/stakes-cop29-and-rogue-skynet-satellite) (The Naked Scientists)
+
+- [L’épidémie de dengue est déclarée en Guadeloupe](https://www.lemonde.fr/planete/article/2024/11/15/l-epidemie-de-dengue-est-declaree-en-guadeloupe_6394573_3244.html) (Le Monde)
 
 - [Dengue, coronavírus, influenza, chikungunya: de onde vêm os nomes dos vírus e das doenças?](https://gizmodo.uol.com.br/dengue-coronavirus-influenza-chikungunya-de-onde-vem-os-nomes-dos-virus-e-das-doencas/) (Uol.com.br)
 
@@ -2603,6 +2661,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Rabies, a deadly threat to man's best friend](https://www.standardmedia.co.ke/health/health-science/article/2001503663/rabies-a-deadly-threat-to-mans-best-friend) (Standard Digital)
 
+- [State sets goal to end rabies deaths by ’30](https://timesofindia.indiatimes.com/city/goa/state-sets-goal-to-end-rabies-deaths-by-30/articleshow/113793081.cms) (The Times of India)
+
+- [Indonesia's Bali intensifies rabies vaccination for pets](https://en.antaranews.com/news/327715/indonesias-bali-intensifies-rabies-vaccination-for-pets) (Antaranews.com)
+
 ## 24-40 (pertussis)
 
 - [TWiV 1154: Clinical update with Dr. Daniel Griffin](https://www.microbe.tv/twiv/twiv-1154/) (Microbe.tv)
@@ -2859,6 +2921,12 @@ Source: [News API](https://newsapi.org/)
 
 - [Slow response to mpox a wake-up call](https://www.bangkokpost.com/opinion/opinion/2874488/slow-response-to-mpox-a-wake-up-call) (Bangkok Post)
 
+- [В ВОЗ рассказали о случая с подозрением на оспу обезьян в Африке с начала 2024 года](https://www.gazeta.ru/social/news/2024/09/29/24035059.shtml) (Gazeta.ru)
+
+- [В Африке выявили 31 тыс. случаев с подозрением на mpox с начала года](https://tass.ru/obschestvo/21989865) (Tass.ru)
+
+- [MPox, Coqueluche e dengue: como evitar essas doenças no Brasil](https://catracalivre.com.br/saude-bem-estar/como-evitar-essas-doencas-no-brasil/) (Catracalivre.com.br)
+
 ## 24-40 (meningitis)
 
 - [La nueva vida de Luis Canut, marido de Patricia Pérez, tras haber perdido la visión: carnet de la ONCE y aprendiendo a usar el bastón](https://www.lavozdegalicia.es/noticia/gente/2024/10/05/nueva-vida-luis-canut-marido-patricia-perez-tras-haber-perdido-vision-carnet-once-aprendiendo-usar-baston/00031728120151743807523.htm) (Lavozdegalicia.es)
@@ -2922,6 +2990,8 @@ Source: [News API](https://newsapi.org/)
 - [City records 18 lepto, 12 dengue deaths this year](https://timesofindia.indiatimes.com/city/mumbai/mumbai-faces-surge-in-dengue-and-leptospirosis-deaths-amidst-monsoon/articleshow/113860985.cms) (The Times of India)
 
 - [What Is Leptospirosis: A Hidden Health Risk In India](https://doctor.ndtv.com/living-healthy/what-is-leptospirosis-a-hidden-health-risk-in-india-6682647) (NDTV News)
+
+- [Punjab Chief Minister Bhagwant Mann Diagnosed With Leptospirosis](https://www.ndtv.com/chandigarh-news/punjab-cm-bhagwant-mann-diagnosed-with-leptospirosis-6675554) (NDTV News)
 
 ## 24-40 (hpai)
 
@@ -3029,6 +3099,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Erste Mensch-zu-Mensch-Übertragung? - Neue Vogelgrippe-Fälle in den USA lassen jetzt Schlimmstes befürchten](https://www.focus.de/gesundheit/erste-mensch-zu-mensch-uebertragung-neue-vogelgrippe-faelle-in-den-usa-lassen-jetzt-schlimmstes-befuerchten_cc4f3bd6-86ba-4cb7-8926-6d5493b0ce59.html) (Focus)
 
+- [The “Cluster” of Possible Human Bird Flu Infections Has Expanded to 8](https://www.shtfplan.com/headline-news/the-cluster-of-possible-human-bird-flu-infections-has-expanded-to-8) (Shtfplan.com)
+
 ## 24-40 (dengue)
 
 - [Nuova disinfestazione per Dengue a Fano, incidenza casi scende](https://www.ansa.it/marche/notizie/2024/10/05/nuova-disinfestazione-per-dengue-a-fano-incidenza-casi-scende_97556277-52e9-4333-830a-bbee7cfbd64c.html) (ANSA.it)
@@ -3128,6 +3200,8 @@ Source: [News API](https://newsapi.org/)
 - [Dengue Cases Surge in Guwahati’s Densely Populated Areas](https://thehillstimes.in/guwahati/dengue-cases-surge-in-guwahatis-densely-populated-areas) (Thehillstimes.in)
 
 - [दिल्ली में फिर डराने लगा डेंगू, मरीजों में गिर रहा प्लेटलेट्स काउंट, लिवर-किडनी को भी नुकसान](https://navbharattimes.indiatimes.com/metro/delhi/other-news/delhi-dengue-cases-increasing-platelets-count-also-declining-know-reason-here/articleshow/113796823.cms) (The Times of India)
+
+- [MPox, Coqueluche e dengue: como evitar essas doenças no Brasil](https://catracalivre.com.br/saude-bem-estar/como-evitar-essas-doencas-no-brasil/) (Catracalivre.com.br)
 
 ## 24-40 (chikungunya)
 
