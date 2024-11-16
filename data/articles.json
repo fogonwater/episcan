@@ -1,8 +1,621 @@
 {
-  "last_updated": "2024-11-16 07:06",
-  "count_articles_total": 1429,
-  "count_articles_new": 28,
+  "last_updated": "2024-11-16 19:05",
+  "count_articles_total": 1456,
+  "count_articles_new": 34,
   "articles": [
+    {
+      "id": 15582,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Lazio: malaria di lieve entit\u00e0 per Dia, esami in Senegal",
+      "description": "Il calciatore sta bene e si sottoporr\u00e0 ai controlli a Dakar (ANSA)",
+      "url": "https://www.ansa.it/sito/notizie/sport/calcio/2024/11/15/lazio-malaria-di-lieve-entita-per-dia-esami-in-senegal_cb03f6f0-1f43-401b-89ab-fed45ba1b376.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2024/11/4/8d8491019de6211c7da2903014671e14.jpg",
+      "publishedAt": "2024-11-15 17:13:56",
+      "content": "Boulaye Dia, attaccante della Lazio che ha contratto la malaria durante il ritiro con il Senegal, sar\u00e0 sottoposto ad esami a Dakar, dove \u00e8 rimasto non seguendo i compagni in partenza per Bamako, e po\u2026 [+674 chars]",
+      "retrievedAt": "2024-11-16 19:05:48.663722",
+      "internal_id": "6892b676488e14be0a9b8c57d3d8123499138d3bd43fa1b6f19197655f21fb06",
+      "publishedAtLabel": "Nov 15"
+    },
+    {
+      "id": 15580,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Sumati Yengkhom",
+      "title": "ECMO saves 71-year-old doctor from unusual presentation of ARDS in a malaria case",
+      "description": "KOLKATA: In an uncommon case a 71-year-old had developed severe respiratory distress syndrome (ARDS) after he tested positive for malaria.",
+      "url": "https://timesofindia.indiatimes.com/city/kolkata/ecmo-saves-71-year-old-doctor-from-unusual-presentation-of-ards-in-a-malaria-case/articleshow/115341152.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-115341222,width-1070,height-580,imgsize-986079,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-11-15 17:11:50",
+      "content": "10 desert animals of India",
+      "retrievedAt": "2024-11-16 19:05:48.627415",
+      "internal_id": "d7c51a4f1dd94be723cdc59f385906ea4de1982d558349f15e8b4f4428688c8f",
+      "publishedAtLabel": "Nov 15"
+    },
+    {
+      "id": 15574,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Ilfattoquotidiano.it",
+      "author": "F. Q.",
+      "title": "Malaria, rilevata la resistenza al farmaco salvavita in alcuni bambini. Il virologo: \u201cGrande preoccupazione\u201d",
+      "description": "Per la prima volta \u00e8 stata documentata in bambini africani ricoverati per malaria in forma grave la resistenza al farmaco antimalarico salvavita \u201cartemisinina\u201d, sostanza da Nobel (che ha valso nel 2015 il premio Nobel alla sua scopritrice, la farmacista cines\u2026",
+      "url": "https://www.ilfattoquotidiano.it/2024/11/15/malaria-rilevata-la-resistenza-al-farmaco-salvavita-in-alcuni-bambini-il-virologo-grande-preoccupazione/7768946/",
+      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2024/04/27/med-1200x630-18-1200x630.jpg",
+      "publishedAt": "2024-11-15 16:17:35",
+      "content": "Caltanissetta, 15 nov. (Adnkronos) - (dall'inviata Elvira Terranova) - Ancora un processo per il depistaggio sulle indagini sulla strage di via DAmelio. E, ancora una volta, alla sbarra ci sono dei p\u2026 [+8903 chars]",
+      "retrievedAt": "2024-11-16 19:05:48.562243",
+      "internal_id": "bfd4297b77b2f0182ef060f2e23cbcb07038042a5631d412123e148099a52a9d",
+      "publishedAtLabel": "Nov 15"
+    },
+    {
+      "id": 15554,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Pajiba.com",
+      "author": "Dustin Rowles",
+      "title": "What Kind of Damage Can RFK, Jr. Actually Do as HHS Secretary?",
+      "description": "Yesterday, after Donald Trump announced his nomination of Robert F. Kennedy Jr. as Secretary of Health and Human Services, Jake Tapper quipped, \"I hope you like your measles.\" The remark referenced the 2019 measles outbreak in Samoa, exacerbated by RFK... Rea\u2026",
+      "url": "https://www.pajiba.com/news/what-kind-of-damage-can-rfk-jr-actually-do-as-hhs-secretary.php",
+      "urlToImage": "https://www.pajiba.com/assets_c/2024/11/rfkjr-thumb-700x467-266669.jpg",
+      "publishedAt": "2024-11-15 16:00:00",
+      "content": "Yesterday, after Donald Trump announced his nomination of Robert F. Kennedy Jr. as Secretary of Health and Human Services, Jake Tapper quipped, \u201cI hope you like your measles.\u201d The remark referenced t\u2026 [+3379 chars]",
+      "retrievedAt": "2024-11-16 19:05:46.812402",
+      "internal_id": "47d4bea58de2857b2ee1ba60ddd85ffe3277e63f7e26e70e85232beea457e2d3",
+      "publishedAtLabel": "Nov 15"
+    },
+    {
+      "id": 15566,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "Weekly dengue cases rise to 1,583, two deaths recorded",
+      "description": "PUTRAJAYA: The number of dengue fever cases rose to 1,583 early this month compared to 1,346 cases the previous week. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2024/11/16/weekly-dengue-cases-rise-to-1583-two-deaths-recorded",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/11/16/3020106.jpg",
+      "publishedAt": "2024-11-15 16:00:00",
+      "content": "PUTRAJAYA: The number of dengue fever cases rose to 1,583 early this month compared to 1,346 cases the previous week. Health director-general Datuk Dr Muhammad Radzi Abu Hassan said two deaths due t\u2026 [+737 chars]",
+      "retrievedAt": "2024-11-16 19:05:47.981989",
+      "internal_id": "6172377fcecce778aaea0056b782dc94850d450b2ac0ffee800ec7c8898ce5f8",
+      "publishedAtLabel": "Nov 15"
+    },
+    {
+      "id": 15553,
+      "query": [
+        "measles"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Tom Howarth",
+      "title": "'Unacceptable' Measles Death Toll\u2014Map Shows Where Cases Are Surging",
+      "description": "Surging infections and missed vaccinations put thousands of lives at risk, threatening global elimination goals.",
+      "url": "https://www.newsweek.com/map-measles-cases-surging-unacceptable-death-toll-cdc-who-1986445",
+      "urlToImage": "https://d.newsweek.com/en/full/2521973/measles-map.jpg",
+      "publishedAt": "2024-11-15 15:49:31",
+      "content": "The global measles crisis is deepening, with an alarming 20 percent surge in cases reported in 2023, compared with the previous year. An estimated 10.3 million cases of measles were reported globall\u2026 [+3508 chars]",
+      "retrievedAt": "2024-11-16 19:05:46.783937",
+      "internal_id": "667138bd86994f7d558cddeba34e7d5b12cb88a467bad04608202a7cd43f6add",
+      "publishedAtLabel": "Nov 15"
+    },
+    {
+      "id": 15555,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Mediaite",
+      "author": "Sarah Rumpf",
+      "title": "Trump Promises to Make Measles Great Again By Making RFK Jr. HHS Secretary",
+      "description": "Now that Kennedy's nomination as HHS Secretary is official, the risks he poses to the health of millions of Americans are all too real. The post Trump Promises to Make Measles Great Again By Making RFK Jr. HHS Secretary first appeared on Mediaite.",
+      "url": "https://www.mediaite.com/opinion/trump-promises-to-make-measles-great-again-by-making-rfk-jr-hhs-secretary/",
+      "urlToImage": "https://www.mediaite.com/wp-content/uploads/2024/10/AP24298071168950-scaled.jpg",
+      "publishedAt": "2024-11-15 15:39:39",
+      "content": "AP Photo/Alex Brandon This column was first published last month. It has been updated in light of the news that President-elect Donald Trump has selected Robert F. Kennedy Jr. to be his HHS Secretar\u2026 [+12509 chars]",
+      "retrievedAt": "2024-11-16 19:05:46.830928",
+      "internal_id": "73a824be12b8d618ba0887869864edb0bde958f97b12016389c11433b2f9dcfa",
+      "publishedAtLabel": "Nov 15"
+    },
+    {
+      "id": 15573,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Gabrielle Emanuel",
+      "title": "What's going on with the 'magic' drug for malaria?",
+      "description": "The anti-malarial drug Artemisinin is highly effective. It's critical for kids, who are especially vulnerable. A new study comes to an alarming conclusion.",
+      "url": "https://www.npr.org/sections/goats-and-soda/2024/11/15/g-s1-34176/malaria-drug-resistance-children-artemisinin-africa",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5555x3125+0+289/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F24%2Fe6%2Fc7ce73854c7d837d463ea4e8b662%2Fgettyimages-2169285125.jpg",
+      "publishedAt": "2024-11-15 15:27:18",
+      "content": "Lately, Dr. Ruth Namazzi and her colleagues have been stopping one another in their hospital ward with worried looks. Between treating patients, she says, they voice their concerns: \"'Malaria's very\u2026 [+6832 chars]",
+      "retrievedAt": "2024-11-16 19:05:48.543240",
+      "internal_id": "1b1e853cbbde299ed541546c7e5a3d0ada4314949efc9946a05ecd3b48821992",
+      "publishedAtLabel": "Nov 15"
+    },
+    {
+      "id": 15560,
+      "query": [
+        "hpai"
+      ],
+      "source_id": "nrk",
+      "source_name": "NRK",
+      "author": "NRK",
+      "title": "Fugleinfluensa p\u00e5vist i Finnmark",
+      "description": "H\u00f8ypatogen fugleinfluensa (HPAI) har blitt p\u00e5vist p\u00e5 d\u00f8d villfugl p\u00e5 S\u00f8r\u00f8ya i Hasvik kommune. Det melder Hammerfest kommune. Dette er en del av den passive overv\u00e5kingen av villfugl som gjennomf\u00f8res av Veterin\u00e6r\u00adinstituttet. Pr\u00f8vene ble tatt 31. oktober 2024, \u2026",
+      "url": "https://www.nrk.no/tromsogfinnmark/fugleinfluensa-pavist-i-finnmark-1.17128799",
+      "urlToImage": "https://static.nrk.no/nrkno/serum/2.0.513/common/img/default.jpg",
+      "publishedAt": "2024-11-15 15:03:45",
+      "content": "H\u00f8ypatogen fugleinfluensa (HPAI) har blitt p\u00e5vist p\u00e5 d\u00f8d villfugl p\u00e5 S\u00f8r\u00f8ya i Hasvik kommune. Det melder Hammerfest kommune. Dette er en del av den passive overv\u00e5kingen av villfugl som gjennomf\u00f8res\u2026 [+252 chars]",
+      "retrievedAt": "2024-11-16 19:05:47.038813",
+      "internal_id": "db8c7869c9e3dfa8efd272337a34d8ae475d6401533f89e5718d6d27c39c7071",
+      "publishedAtLabel": "Nov 15"
+    },
+    {
+      "id": 15578,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Dagospia.com",
+      "author": null,
+      "title": "MALARIA D'AFRICA O MALA VOGLIA DI FORMELLO? - L'ATTACCANTE DELLA LAZIO, BOULAYE DIA, HA CONTRATTO LA MALARIA DURANTE GLI IMPEGNI CON LA NAZIONALE SENEGALESE - MA QUALCOSA NON TORNA: I TEMPI DI INCUBAZIONE DELLA MALATTIA, TRA I 7 E I 10 GIORNI, NON SAREBBERO COMPATIBILI CON L'ARRIVO DELL'EX SALERNITANA IN AFRICA DI LUNED\u00cc SCORSO - IL CALCIATORE DOVREBBE RIENTRARE A ROMA TRA OGGI E DOMANI PER ESSERE ESAMINATO DALLO STAFF MEDICO BIANCOCELESTE\u2026",
+      "description": "Estratto dell'articolo di Marco Ercole per www.corrieredellosport.it BOULAYE DIA Dia ha la malaria. Cos\u00ec, con un freddo comunicato ufficiale, il Senegal ha annunciato il contagio dell'attaccante della Lazio, sconvolgendo la serata romana a 4000 chilometri d\u2026",
+      "url": "https://www.dagospia.com/rubrica-30/sport/malaria-39-africa-mala-voglia-formello-nbsp-39-attaccante-414910.htm",
+      "urlToImage": "https://cdn-static.dagospia.com/img/patch/11-2024/boulaye-dia-2062531.jpg",
+      "publishedAt": "2024-11-15 14:55:00",
+      "content": "Estratto dell'articolo di Marco Ercole per www.corrieredellosport.it BOULAYE DIA Dia ha la malaria. Cos\u00ec, con un freddo comunicato ufficiale, il Senegal ha annunciato il contagio dell'attaccante de\u2026 [+1892 chars]",
+      "retrievedAt": "2024-11-16 19:05:48.601913",
+      "internal_id": "e0afa00180023ebd3d77f4ce1659c8628309c93095a74d6e155ebdd6929baf56",
+      "publishedAtLabel": "Nov 15"
+    },
+    {
+      "id": 15577,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Tuttomercatoweb.com",
+      "author": "Raimondo De Magistris",
+      "title": "Lazio, malaria di lieve entit\u00e0 per Boulaye Dia. Esami a Dakar",
+      "description": "(ANSA) - ROMA, 15 NOV - Boulaye Dia, attaccante della Lazio che ha contratto la malaria durante il ritiro con il Senegal, sar\u00e0 sottoposto ad esami a Dakar, dove \u00e8 rimasto non seguendo i compagni in partenza per Bamako, e poi, se possibile, far\u00e0 ritorno...",
+      "url": "https://www.tuttomercatoweb.com/serie-a/lazio-malaria-di-lieve-entita-per-boulaye-dia-esami-a-dakar-2035455",
+      "urlToImage": "https://tmw-storage.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/af/affb978accf34b25a678710dbc080474-40846-oooz0000.jpeg",
+      "publishedAt": "2024-11-15 14:19:58",
+      "content": "(ANSA) - ROMA, 15 NOV - Boulaye Dia, attaccante della Lazio che ha contratto la malaria durante il ritiro con il Senegal, sar\u00e0 sottoposto ad esami a Dakar, dove \u00e8 rimasto non seguendo i compagni in p\u2026 [+663 chars]",
+      "retrievedAt": "2024-11-16 19:05:48.594461",
+      "internal_id": "5e146f0bcbe3bae5100c1b7b269e4f80ecd87b14a0f286c9bb452c15fe305dca",
+      "publishedAtLabel": "Nov 15"
+    },
+    {
+      "id": 15562,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Ilfattoquotidiano.it",
+      "author": "F. Q.",
+      "title": "Aviaria, adolescente ricoverato in condizioni critiche a Vancouver (Canada). Dai primi sintomi alla sindrome da distress respiratorio",
+      "description": "\u00c8 il virus H5N1 la causa dell\u2019influenza aviaria che ha colpito un adolescente della British Columbia, in Canada, ricoverato al BC Children\u2019s Hospital di Vancouver in condizioni che i media locali definiscono critiche. Sabato 9 novembre il ragazzo \u00e8 risultato \u2026",
+      "url": "https://www.ilfattoquotidiano.it/2024/11/15/aviaria-adolescente-condizioni-critiche-canada-sintomi-sindrome-da-distress-respiratorio-acuto/7768728/",
+      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2024/11/15/medico-vancouver-1200x630.jpg",
+      "publishedAt": "2024-11-15 14:16:58",
+      "content": "Caltanissetta, 15 nov. (Adnkronos) - (dall'inviata Elvira Terranova) - Ancora un processo per il depistaggio sulle indagini sulla strage di via DAmelio. E, ancora una volta, alla sbarra ci sono dei p\u2026 [+8903 chars]",
+      "retrievedAt": "2024-11-16 19:05:47.571115",
+      "internal_id": "9b57d9d3697fdd4acb3b9a3d4004c330492dc7305db35d5d27dc9f78b5b00e9d",
+      "publishedAtLabel": "Nov 15"
+    },
+    {
+      "id": 15583,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Lazio: malaria di lieve entit\u00e0 per Dia, esami a Dakar",
+      "description": "Il calciatore sta bene e si sottoporr\u00e0 ai controlli in Senegal (ANSA)",
+      "url": "https://www.ansa.it/sito/notizie/sport/calcio/2024/11/15/lazio-malaria-di-lieve-entita-per-dia-esami-a-dakar_cb03f6f0-1f43-401b-89ab-fed45ba1b376.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2024/11/4/8d8491019de6211c7da2903014671e14.jpg",
+      "publishedAt": "2024-11-15 14:08:09",
+      "content": "Boulaye Dia, attaccante della Lazio che ha contratto la malaria durante il ritiro con il Senegal, sar\u00e0 sottoposto ad esami a Dakar, dove \u00e8 rimasto non seguendo i compagni in partenza per Bamako, e po\u2026 [+674 chars]",
+      "retrievedAt": "2024-11-16 19:05:48.675653",
+      "internal_id": "a0244109ba98ca79bf3a7eea152dedc8859e2af432d27dd803c27ec1bd20f527",
+      "publishedAtLabel": "Nov 15"
+    },
+    {
+      "id": 15561,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ET Online",
+      "title": "Can bird flu trigger another pandemic and cause more lockdowns? Here's what experts have to say on the possibility",
+      "description": "A teenager in British Columbia is critically ill with Canada's first case of the H5N1 bird flu strain. While the virus has spread to humans in rare cases, experts say the risk of a pandemic is low as it doesn't transmit easily between people. Health officia\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/can-bird-flu-trigger-another-pandemic-and-cause-more-lockdowns-heres-what-experts-have-to-say-on-the-possibility/articleshow/115337089.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-115337631,width-1200,height-630,imgsize-73870,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2024-11-15 14:04:22",
+      "content": "The recent emergence of a human case of H5N1 bird flu in Canada has sparked renewed concerns about the potential for a larger outbreak. A teenager in British Columbia is currently in critical conditi\u2026 [+5263 chars]",
+      "retrievedAt": "2024-11-16 19:05:47.558757",
+      "internal_id": "c26fa876eec4706c0e7273f5cbae627cb6981e776457a488116f75144754686c",
+      "publishedAtLabel": "Nov 15"
+    },
+    {
+      "id": 15567,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Aidan Foo, Laura E. Brettell, Holly L. Nichols, 2022 UW-Madison Capstone in Microbiology Students, Miguel Medina Mu\u00f1oz, Jessica A. Lysne, Vishaal Dhokiya, Ananya F. Hoque, Doug E. Brackney, Eric P. Caragata, Michael L. Hutchinson, Marcelo Jacobs-Lorena, David J. Lampe, Edwige Martin, Claire Valiente Moro, Michael Povelones, Sarah M. Short, Blaire Steven, Jiannong Xu, Timothy D. Paustian, Michelle R. Rondon, Grant L. Hughes, Kerri L. Coon, Eva Heinz",
+      "title": "MosAIC: An annotated collection of mosquito-associated bacteria with high-quality genome assemblies",
+      "description": "Mosquito microbiomes have an important role in disease transmission. This study presents MosAIC (Mosquito-Associated Isolate Collection), a collection of 392 mosquito-associated bacterial isolates and their genomic data, all publicly available and thus a valu\u2026",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002897",
+      "urlToImage": "https://journals.plos.org/plosbiology/article/figure/image?id=10.1371/journal.pbio.3002897.g005&size=inline",
+      "publishedAt": "2024-11-15 14:00:00",
+      "content": "Abstract Mosquitoes transmit medically important human pathogens, including viruses like dengue virus and parasites such as Plasmodium spp., the causative agent of malaria. Mosquito microbiomes are \u2026 [+95734 chars]",
+      "retrievedAt": "2024-11-16 19:05:48.000196",
+      "internal_id": "e5c5fdf44af1b02495ff6c14d4b91803c591d4940bedb6b1668465818dcc84fd",
+      "publishedAtLabel": "Nov 15"
+    },
+    {
+      "id": 15559,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Kffhealthnews.org",
+      "author": null,
+      "title": "Friday, November 15, 2024",
+      "description": "RFK Jr. as HHS nominee, Trump's pick for VA, measles cases up, prepaying for baby delivery, drug ads, and more. Plus, your weekend reads.",
+      "url": "https://kffhealthnews.org/morning-briefing/friday-november-15-2024/",
+      "urlToImage": "https://kffhealthnews.org/wp-content/uploads/sites/2/2023/04/2023_morning-briefing2.jpg",
+      "publishedAt": "2024-11-15 13:59:57",
+      "content": "Agency Workers, Scientists 'Aghast' At Role RFK Jr. Could Play As HHS Head Leaders in the scientific community, biopharma world, and veterans of the federal health agencies provide wide-ranging reac\u2026 [+6837 chars]",
+      "retrievedAt": "2024-11-16 19:05:46.895917",
+      "internal_id": "306957f55d094ca00e5b9c089cbedf14ebb51902ece03ed2b7aff7e22c8a32c8",
+      "publishedAtLabel": "Nov 15"
+    },
+    {
+      "id": 15569,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "20 Minutes",
+      "author": "20 Minutes avec AFP (20 Minutes)",
+      "title": "Guadeloupe : Alerte sur l\u2019\u00e9pid\u00e9mie de dengue, avec un variant plus f\u00e9roce et plus contagieux",
+      "description": "Les autorit\u00e9s lancent \u00ab un appel \u00e0 la mobilisation de tous les acteurs impliqu\u00e9s \u00bb dans la lutte \u00ab pour tenter de minimiser l'impact de cette maladie \u00bb",
+      "url": "https://www.20minutes.fr/sante/4121575-20241115-guadeloupe-alerte-epidemie-dengue-variant-plus-feroce-plus-contagieux",
+      "urlToImage": "https://img.20mn.fr/DafBBp0DSvWvJK_4h2qcYik/1444x920_a-mosquito-feeds-at-the-salt-lake-city-mosquito-abatement-district-on-july-26-2023-in-salt-lake-city-mosquitoes-can-carry-viruses-including-dengue-yellow-fever-chikungunya-and-zika-they-are-especially-threatening-to-public-health-in-asia-and-africa-but-are-also-closely-monitored-in-the-united-states-ap-photo-rick-bowmer-cli712-23251815794524-2309101408",
+      "publishedAt": "2024-11-15 13:57:57",
+      "content": "La Guadeloupe est pass\u00e9e \u00ab en phase \u00e9pid\u00e9mique pour la dengue \u00bb avec un s\u00e9rotype rare qui pourrait provoquer \u00ab un nombre \u00e9lev\u00e9 de cas \u00bb, selon un communiqu\u00e9 officiel diffus\u00e9 jeudi soir appelant \u00e0 tou\u2026 [+2460 chars]",
+      "retrievedAt": "2024-11-16 19:05:48.024045",
+      "internal_id": "2fe8b4539a09f10fcd5f791b3a15d15cacde6684e0a0cd41f857265ae98f5598",
+      "publishedAtLabel": "Nov 15"
+    },
+    {
+      "id": 15575,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Ilfattoquotidiano.it",
+      "author": "F. Q.",
+      "title": "Dia (Lazio) ha contratto la malaria: \u201cRimane in Senegal per continuare le cure\u201d",
+      "description": "Il senegalese era in Africa per giocare alcune partite con la Nazionale, valide per la qualificazione alla Coppa d'Africa L'articolo Dia (Lazio) ha contratto la malaria: \u201cRimane in Senegal per continuare le cure\u201d proviene da Il Fatto Quotidiano.",
+      "url": "https://www.ilfattoquotidiano.it/2024/11/15/dia-lazio-malaria-senegal/7768706/",
+      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2024/11/15/Dia_Lazio_Malaria-1200x630.jpg",
+      "publishedAt": "2024-11-15 13:48:59",
+      "content": "Caltanissetta, 15 nov. (Adnkronos) - (dall'inviata Elvira Terranova) - Ancora un processo per il depistaggio sulle indagini sulla strage di via DAmelio. E, ancora una volta, alla sbarra ci sono dei p\u2026 [+8903 chars]",
+      "retrievedAt": "2024-11-16 19:05:48.569394",
+      "internal_id": "dc8b89db360f1d4d1ab58c2becc392fb8c118fc61b54159a7e6c13a344a2f7a6",
+      "publishedAtLabel": "Nov 15"
+    },
+    {
+      "id": 15581,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Lazio: malaria di lieve entit\u00e0 per Dia, esami a Dakar",
+      "description": "Boulaye Dia, attaccante della Lazio che ha contratto la malaria durante il ritiro con il Senegal, sar\u00e0 sottoposto ad esami a Dakar, dove \u00e8 rimasto non seguendo i compagni in partenza per Bamako, e poi, se possibile, far\u00e0 ritorno a Roma. (ANSA)",
+      "url": "https://www.ansa.it/lazio/notizie/2024/11/15/lazio-malaria-di-lieve-entita-per-dia-esami-a-dakar_2ae5278e-7c41-4376-8828-a0d6a7808e17.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2024/11/4/8d8491019de6211c7da2903014671e14.jpg",
+      "publishedAt": "2024-11-15 13:39:19",
+      "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all\u2019abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad \u2026 [+320 chars]",
+      "retrievedAt": "2024-11-16 19:05:48.656457",
+      "internal_id": "6f2df06c4cf717fc1f5a8465f1a61296c3441eb0f0e00770c38e9eb21fb42d0e",
+      "publishedAtLabel": "Nov 15"
+    },
+    {
+      "id": 15558,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Techtarget.com",
+      "author": "Veronica Salib",
+      "title": "WHO, CDC report a 20% rise in global measles cases",
+      "description": "The WHO and CDC emphasize the need for greater measles surveillance and targeted vaccination efforts to address the 20% rise in global measles cases from 2022 to 2023.",
+      "url": "https://www.techtarget.com/pharmalifesciences/news/366615799/WHO-CDC-report-a-20-rise-in-global-measles-cases",
+      "urlToImage": "https://www.techtarget.com/rms/onlineimages/health_g1299105199.jpg",
+      "publishedAt": "2024-11-15 12:50:00",
+      "content": "In a joint news release using data from the WHO and CDC, the WHO announced that measles cases increased by 20% from 2022 to 2023, with an estimated 10.3 million measles cases in 2023. The data sugges\u2026 [+2885 chars]",
+      "retrievedAt": "2024-11-16 19:05:46.877502",
+      "internal_id": "3018a2226173be6337232c4dc58d84abc9c68c981159156f2e67f1239fd3ab10",
+      "publishedAtLabel": "Nov 15"
+    },
+    {
+      "id": 15563,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Francetvinfo.fr",
+      "author": "Outre-mer la 1\u00e8re, AFP",
+      "title": "Dengue : la Guadeloupe plac\u00e9e en phase \u00e9pid\u00e9mique, les autorit\u00e9s craignent \"un nombre \u00e9lev\u00e9 de cas\"",
+      "description": "La Guadeloupe est pass\u00e9e \"en phase \u00e9pid\u00e9mique pour la dengue\" avec un s\u00e9rotype rare qui pourrait provoquer \"un nombre \u00e9lev\u00e9 de cas\", selon un communiqu\u00e9 officiel diffus\u00e9 jeudi appelant \u00e0 tout mettre en oeuvre pour \"minimiser\" l'impact de la maladie.",
+      "url": "https://la1ere.francetvinfo.fr/dengue-la-guadeloupe-placee-en-phase-epidemique-les-autorites-craignent-un-nombre-eleve-de-cas-1536919.html",
+      "urlToImage": "https://la1ere.francetvinfo.fr/image/wEuogVn42Eaw8sy1Ykm-ADmGWPQ/930x620/outremer/2020/06/10/5ee10c188e11f_tigre1-1395990.jpg",
+      "publishedAt": "2024-11-15 12:33:09",
+      "content": "La Guadeloupe est pass\u00e9e \"en phase \u00e9pid\u00e9mique pour la dengue\" avec un s\u00e9rotype rare qui pourrait provoquer \"un nombre \u00e9lev\u00e9 de cas\", selon un communiqu\u00e9 officiel diffus\u00e9 jeudi 14 novembre appelant \u00e0 \u2026 [+2392 chars]",
+      "retrievedAt": "2024-11-16 19:05:47.934987",
+      "internal_id": "06bf118e87baa7bb89a30b3ca81eecdb93cb85fdbe807dc6ef234da71d900d27",
+      "publishedAtLabel": "Nov 15"
+    },
+    {
+      "id": 15576,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Ilgiornale.it",
+      "author": "redazione@ilgiornale-web.it (Agenzia Adnkronos)",
+      "title": "Dia e la malaria presa in Senegal, infettivologo: \"Va fatta profilassi\"",
+      "description": "Descrizione contenuto Dia e la malaria presa in Senegal, infettivologo: \"Va fatta profilassi\"",
+      "url": "https://www.ilgiornale.it/news/adnkronos/dia-e-malaria-presa-senegal-infettivologo-va-fatta-2398680.html",
+      "urlToImage": "https://img.ilgcdn.com/sites/default/files/styles/social/public/foto/2024/11/15/Boulaye_Dia_fg.jpg?_=1731673802",
+      "publishedAt": "2024-11-15 12:30:02",
+      "content": "Roma, 15 nov. (Adnkronos Salute) - L'attaccante della Lazio, Boulaye Dia, fermato dalla malaria in Senegal dove era arrivato per giocare con la sua Nazionale \u00e8 l'ultimo caso di calciatori africani co\u2026 [+1318 chars]",
+      "retrievedAt": "2024-11-16 19:05:48.586906",
+      "internal_id": "4cb84487cc8e809ec95c0884dc114571ac270fe8b6d0bd58155b47db8f0b4085",
+      "publishedAtLabel": "Nov 15"
+    },
+    {
+      "id": 15556,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Carla Delgado",
+      "title": "Measles: Millions of children missed routine vaccination last year, WHO and CDC warn",
+      "description": "Inadequate vaccination coverage drove the number of measles cases to an estimated 10.3 million worldwide in 2023, the World Health Organization and the US Centers for Disease Control and Prevention have said in a joint report.1Coverage of at least 95% of chil\u2026",
+      "url": "https://www.bmj.com/content/387/bmj.q2541",
+      "urlToImage": "https://www.bmj.com/sites/default/files/highwire/bmj/387/8448.cover-source.jpg",
+      "publishedAt": "2024-11-15 11:56:32",
+      "content": "Inadequate vaccination coverage drove the number of measles cases to an estimated 10.3 million worldwide in 2023, the World Health Organization and the US Centers for Disease Control and Prevention h\u2026 [+414 chars]",
+      "retrievedAt": "2024-11-16 19:05:46.842619",
+      "internal_id": "cf1a0e969881ee6f40f7714b0959dcc635f28a33ef05481460591ebf91ce5028",
+      "publishedAtLabel": "Nov 15"
+    },
+    {
+      "id": 15586,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.dr.dk",
+      "author": null,
+      "title": "Vaccineskeptisk sundhedsminister i USA s\u00e6tter spor hos dansk vaccineaktie",
+      "description": "Bavarian Nordics aktie styrtdykker i dag efter freml\u00e6ggelse af regnskab",
+      "url": "https://www.dr.dk/nyheder/penge/vaccineskeptisk-sundhedsminister-i-usa-saetter-spor-hos-dansk-vaccineaktie",
+      "urlToImage": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fwww.dr.dk%2Fimages%2Fother%2F2024%2F11%2F15%2Fscanpix-20241115-081827-l.jpg&w=1200",
+      "publishedAt": "2024-11-15 11:15:00",
+      "content": "En lang r\u00e6kke sundhedsaktier har i dag f\u00e5et et gok i n\u00f8den p\u00e5 b\u00f8rserne. Danske Bavarian Nordic, som st\u00e5r bag vaccinen mod mpox, er en af dem. Og her til morgen faldt selskabets aktie med 16,1 procent\u2026 [+2654 chars]",
+      "retrievedAt": "2024-11-16 19:05:49.242492",
+      "internal_id": "0299773900649d9ab91bf76eedf0affe080d4286c54169562787cda7c43415b6",
+      "publishedAtLabel": "Nov 15"
+    },
+    {
+      "id": 15571,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Indian Express",
+      "author": "Kasturi Kundu",
+      "title": "Annwesha Hazra Dengue : \u09b9\u09be\u09a4\u09c7 \u09b8\u09cd\u09af\u09be\u09b2\u09be\u0987\u09a8\u09c7\u09b0 \u09a8\u09b2! \u09a1\u09c7\u0999\u09cd\u0997\u09c1 \u0986\u0995\u09cd\u09b0\u09be\u09a8\u09cd\u09a4 \u0985\u09a8\u09cd\u09ac\u09c7\u09b6\u09be, \u0995\u09c7\u09ae\u09a8 \u0986\u099b\u09c7\u09a8 \u0985\u09ad\u09bf\u09a8\u09c7\u09a4\u09cd\u09b0\u09c0?",
+      "description": "Annwesha Hazra Health Update : \u099b\u09cb\u099f \u09aa\u09b0\u09cd\u09a6\u09be\u09b0 \u099c\u09a8\u09aa\u09cd\u09b0\u09bf\u09df \u0985\u09ad\u09bf\u09a8\u09c7\u09a4\u09cd\u09b0\u09c0 \u0985\u09a8\u09cd\u09ac\u09c7\u09b6\u09be \u09b9\u09be\u099c\u09b0\u09be\u0964 \u09ae\u099c\u09be\u09b0 \u099a\u09b0\u09bf\u09a4\u09cd\u09b0 \u09b9\u09cb\u0995 \u09b8\u09bf\u09b0\u09bf\u09df\u09be\u09b8, \u0985\u09a8\u09cd\u09ac\u09c7\u09b6\u09be\u09b0 \u0985\u09ad\u09bf\u09a8\u09df \u09ac\u09be\u09b0\u09ac\u09be\u09b0 \u09ae\u09a8 \u099b\u09c1\u0981\u09df\u09c7 \u09af\u09be\u09df \u09ac\u09be\u0982\u09b2\u09be \u09ae\u09c7\u0997\u09be\u09b0 \u09a6\u09b0\u09cd\u09b6\u0995\u09c7\u09b0\u0964 \u09ac\u09c7\u09b6 \u0995\u09df\u09c7\u0995\u09a6\u09bf\u09a8 \u09a7\u09b0\u09c7\u0987 \u0986\u09a8\u09a8\u09cd\u09a6\u09c0 \u09a7\u09be\u09b0\u09be\u09ac\u09be\u09b9\u09bf\u0995\u09c7 \u09a6\u09c7\u0996\u09be \u09ae\u09bf\u09b2\u099b\u09c7 \u09a8\u09be \u09a4\u09be\u0981\u09b0\u0964 \u09ac\u09be\u0982\u09b2\u09be \u09a7\u09be\u09b0\u09be\u09ac\u09be\u09b9\u09bf\u0995\u09c7\u09b0 \u0986\u09df\u09c1 \u09af\u09c7 \u0995\u09ae \u09b8\u09c7\u099f\u09be \u0986\u09b0 \u09a8\u09a4\u09c1\u09a8 \u0995\u09b0\u09c7 \u09ac\u09b2\u09be\u2026",
+      "url": "https://bengali.indianexpress.com/entertainment/television/annwesha-hazra-bengali-tv-actress-shares-health-update-while-suffering-from-dengue-and-typhoid-7582937",
+      "urlToImage": "https://img-cdn.thepublive.com/fit-in/1200x675/indian-express-bangla/media/media_files/2024/11/15/j4hNvsMnMn2fJcUlpRKM.jpg",
+      "publishedAt": "2024-11-15 09:57:47",
+      "content": "Subscribe to our Newsletter!",
+      "retrievedAt": "2024-11-16 19:05:48.043348",
+      "internal_id": "d1e0c49ec84885d6bb48c8729ba84db6e5613239a34b3c9bc812e9cf85bb03a2",
+      "publishedAtLabel": "Nov 15"
+    },
+    {
+      "id": 15584,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Expressen.se",
+      "author": "david.carlsson@expressen.se (David Carlsson)",
+      "title": "Lazios Boulaye Dia sjuk i malaria: \u201dBlixt fr\u00e5n klar himmel\u201d",
+      "description": "Laziospelaren Boulaye Dia har \u00e5terv\u00e4nt efter landslagsuppdrag med Senegal. Nu kommer beskedet att han drabbats av malaria.",
+      "url": "https://www.expressen.se/sport/fotboll/serie-a/lazios-boulaye-dia-sjuk-i-malaria-blixt-fran-klar-himmel/",
+      "urlToImage": "https://static.bonniernews.se/images/3a/b5/3ab59a2d593345819412b6eb459a9ee5/16x9/original.jpg",
+      "publishedAt": "2024-11-15 09:48:32",
+      "content": "Anfallaren Boulaye Dia, 27, har f\u00e5tt malaria efter att ha varit i v\u00e4g p\u00e5 landslagsuppdrag f\u00f6r Senegal, meddelar Lazio. Sjukdomsbeskedet beskrivs som en blixt fr\u00e5n klar himmel och ska ha kommit som e\u2026 [+376 chars]",
+      "retrievedAt": "2024-11-16 19:05:48.682366",
+      "internal_id": "6de5e18cb40154e756fd37f0e1c887e2bd80d69425d9ed6f5709ac5b8efb378f",
+      "publishedAtLabel": "Nov 15"
+    },
+    {
+      "id": 15570,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "WANI MUTHIAH",
+      "title": "Selangor allocates RM4mil to combat dengue in 2025",
+      "description": "SHAH ALAM: The Selangor Budget 2025 allocates RM4mil for the control and prevention of dengue in the state. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2024/11/15/selangor-allocates-rm4mil-to-combat-dengue-in-2025",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/11/15/3019131.jpg",
+      "publishedAt": "2024-11-15 09:34:00",
+      "content": "SHAH ALAM: The Selangor Budget 2025 allocates RM4mil for the control and prevention of dengue in the state. In addition to this, the state government will also look into providing the dengue vaccina\u2026 [+786 chars]",
+      "retrievedAt": "2024-11-16 19:05:48.031543",
+      "internal_id": "502402b4fd370c28088117741661e979e35af78c8d0448644511b64ba6319b00",
+      "publishedAtLabel": "Nov 15"
+    },
+    {
+      "id": 15572,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "Dengue claims eight lives in Gandaki Province in 10 months",
+      "description": "POKHARA: Dengue has been confirmed in 18,339 individuals in Gandaki Province over the past 10 months, with eight fatalities reported, according to the Ministry of Health of the provincial government. The first death from dengue occurred on July 25, 2024, when\u2026",
+      "url": "https://english.khabarhub.com/2024/15/412914/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2022/09/Dengue-1.webp",
+      "publishedAt": "2024-11-15 08:10:45",
+      "content": "POKHARA: Dengue has been confirmed in 18,339 individuals in Gandaki Province over the past 10 months, with eight fatalities reported, according to the Ministry of Health of the provincial government.\u2026 [+1120 chars]",
+      "retrievedAt": "2024-11-16 19:05:48.050246",
+      "internal_id": "8f214d0e7a7f584036f4b005b507c52a2cc5eb9573148b835e55c9b97aae4589",
+      "publishedAtLabel": "Nov 15"
+    },
+    {
+      "id": 15568,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "L'Express",
+      "author": "L\u2019Express",
+      "title": "Dengue : la Guadeloupe passe \"en phase \u00e9pid\u00e9mique\", un nombre \u00e9lev\u00e9 de cas redout\u00e9",
+      "description": "Un s\u00e9rotype rare du virus de la dengue, le DENV3, fait craindre aux autorit\u00e9s des \"risques de forme grave\" sans actions de lutte et de pr\u00e9vention.",
+      "url": "https://www.lexpress.fr/sciences-sante/sante/dengue-la-guadeloupe-passe-en-phase-epidemique-un-nombre-eleve-de-cas-redoute-PEBD4W5ACVDBDAMVWRMEI4P2MY/",
+      "urlToImage": "https://www.lexpress.fr/resizer/v2/CO4XD6YXIFGQTPR4WYBFG4I63M.jpg?auth=275bc73a277d23b7ec3c824a4b6b338fd661032e61ba58fc4a5592f69aa777bb&width=1200&height=630&quality=85&focal=939%2C816",
+      "publishedAt": "2024-11-15 08:09:42",
+      "content": "La Guadeloupe est pass\u00e9e \"en phase \u00e9pid\u00e9mique pour la dengue\" avec un s\u00e9rotype rare qui pourrait provoquer \"un nombre \u00e9lev\u00e9 de cas\", selon un communiqu\u00e9 officiel diffus\u00e9 dans la soir\u00e9e du jeudi 14 no\u2026 [+2392 chars]",
+      "retrievedAt": "2024-11-16 19:05:48.007088",
+      "internal_id": "4def975f07dafbe1e0b1d83b8d7dd8ae87f8bbe82125610eeed57286f5599d55",
+      "publishedAtLabel": "Nov 15"
+    },
+    {
+      "id": 15579,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Meneame.net",
+      "author": "Gry",
+      "title": "El paludismo desarrolla resistencia a un f\u00e1rmaco que salva la vida de los ni\u00f1os",
+      "description": "M\u00e1s de 600,000 personas en todo el mundo mueren de malaria transmitida por mosquitos cada a\u00f1o, y la mayor\u00eda de estas muertes ocurren entre ni\u00f1os menores de 5 a\u00f1os. Ahora, hay noticias preocupantes de que el par\u00e1sito de la malaria puede estar ganando resisten\u2026",
+      "url": "https://www.meneame.net/m/ciencia/paludismo-desarrolla-resistencia-farmaco-salva-vida-ninos",
+      "urlToImage": "https://www.meneame.net//cdn.mnmstatic.net/img/mnm/logo-350x350.png",
+      "publishedAt": "2024-11-15 07:44:53",
+      "content": "M\u00e1s de 600,000 personas en todo el mundo mueren de malaria transmitida por mosquitos cada a\u00f1o, y la mayor\u00eda de estas muertes ocurren entre ni\u00f1os menores de 5 a\u00f1os.Ahora, hay noticias preocupantes de \u2026 [+174 chars]",
+      "retrievedAt": "2024-11-16 19:05:48.613938",
+      "internal_id": "3c295b9d10dbbf1003b79e56f3385d594936e8482d172f0746436a7b0f1368b1",
+      "publishedAtLabel": "Nov 15"
+    },
+    {
+      "id": 15564,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
+      "author": "La r\u00e9daction avec AFP",
+      "title": "Sant\u00e9. L'\u00e9pid\u00e9mie de dengue d\u00e9clar\u00e9e en Guadeloupe, de nombreux cas attendus",
+      "description": "La Guadeloupe s'attend \u00e0 de nombreux cas de patients contamin\u00e9s par un st\u00e9rotype du virus qui provoque des formes graves.",
+      "url": "https://www.ledauphine.com/sante/2024/11/15/l-epidemie-de-dengue-declaree-en-guadeloupe-de-nombreux-cas-attendus",
+      "urlToImage": "https://cdn-s-www.ledauphine.com/images/D8E184E2-598B-4E6F-AA17-F98604E63832/FB1200/photo-1731656618.jpg",
+      "publishedAt": "2024-11-15 07:43:00",
+      "content": "La Guadeloupe est pass\u00e9e \u00ab en phase \u00e9pid\u00e9mique pour la dengue \u00bb avec un s\u00e9rotype rare qui pourrait provoquer \u00ab un nombre \u00e9lev\u00e9 de cas \u00bb, selon un communiqu\u00e9 officiel diffus\u00e9 jeudi soir appelant \u00e0 tou\u2026 [+1893 chars]",
+      "retrievedAt": "2024-11-16 19:05:47.962847",
+      "internal_id": "326d2f1fb91d2ff1ea06b877f4960acb481516039a5bcb71418ae69d02a5703d",
+      "publishedAtLabel": "Nov 15"
+    },
+    {
+      "id": 15565,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "liberation",
+      "source_name": "Lib\u00e9ration",
+      "author": "LIBERATION, AFP",
+      "title": "La Guadeloupe fait face \u00e0 une \u00e9pid\u00e9mie de dengue",
+      "description": "La Guadeloupe est pass\u00e9e \u00aben phase \u00e9pid\u00e9mique pour la dengue\u00bb avec un s\u00e9rotype rare qui pourrait provoquer \u00abun nombre \u00e9lev\u00e9 de cas\u00bb, selon un communiqu\u00e9 officiel diffus\u00e9 jeudi 14 novembre au soir appelant \u00e0 tout mettre en \u0153uvre pour \u00abminimiser\u00bb l\u2019impact de la\u2026",
+      "url": "https://www.liberation.fr/societe/sante/la-guadeloupe-fait-face-a-une-epidemie-de-dengue-20241115_IU55D7GIKVGM7NCIZBJN6UEQDA/",
+      "urlToImage": "https://www.liberation.fr/resizer/vfCpx1AYr0eozhRMcJdlfWKOGP0=/1200x630/filters:format(jpg):quality(70):focal(2731x1396:2741x1406)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/W23ERDPD6BCC7CNXWJJU6YJSPM.jpg",
+      "publishedAt": "2024-11-15 07:28:05",
+      "content": "La dengue est bel et bien install\u00e9e en Guadeloupe. R\u00e9uni jeudi 14 novembre, le comit\u00e9 de gestion pr\u00e9sid\u00e9 par le pr\u00e9fet de r\u00e9gion a act\u00e9 \u00able passage en phase \u00e9pid\u00e9mique pour la dengue\u00bb, annonce un com\u2026 [+2181 chars]",
+      "retrievedAt": "2024-11-16 19:05:47.969919",
+      "internal_id": "5c013033032903a51ef35db87f5e8e027ec73b0b3c1a88f95495c9a8d6b07236",
+      "publishedAtLabel": "Nov 15"
+    },
+    {
+      "id": 15585,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Expressen.se",
+      "author": "redaktionen@expressen.se (TT)",
+      "title": "Vaccintillverkare missar prognos",
+      "description": "Danska vaccintillverkaren Bavarian Nordic redovisar int\u00e4kter f\u00f6r tredje kvartalet p\u00e5 1,36 miljarder danska kronor. Det var klart l\u00e4gre \u00e4n aktieanalytikernas snittprognos p\u00e5 1,68 miljarder.",
+      "url": "https://www.expressen.se/ekonomi/vaccintillverkare-missar-prognos/",
+      "urlToImage": "https://www.expressen.se/images/logotype-for-sharing.png",
+      "publishedAt": "2024-11-15 07:20:45",
+      "content": "Den underliggande vinsten (ebitda) landade p\u00e5 250 miljoner danska kronor, h\u00e4lften av vad aktieproffsen hade tippat p\u00e5. Bolaget tillverkar bland annat vaccin mot den smittsamma sjukdomen mpox, som bl\u2026 [+114 chars]",
+      "retrievedAt": "2024-11-16 19:05:49.204351",
+      "internal_id": "4ea45b28eafff04d351cf0df10655be994274492dd2ae9bd8f62a942aaeafde8",
+      "publishedAtLabel": "Nov 15"
+    },
+    {
+      "id": 15557,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Medical Daily",
+      "author": "Suneeta Sunny",
+      "title": "Measles Resurges As Vaccination Declines, Most Deaths Among Unvaccinated Young Children: WHO, CDC",
+      "description": "Around 10.3 million cases were reported in 2023, marking an alarming 20% increase from the previous year.",
+      "url": "https://www.medicaldaily.com/measles-resurges-vaccination-declines-most-deaths-among-unvaccinated-young-children-who-cdc-472680",
+      "urlToImage": "https://d.medicaldaily.com/en/full/478992/vaccination.jpg",
+      "publishedAt": "2024-11-15 07:07:00",
+      "content": "The WHO and the U.S. Centers for Disease Control and Prevention (CDC) are warning of a resurgence of measles, a contagious infection that has been eliminated in several countries. Around 10.3 million\u2026 [+2245 chars]",
+      "retrievedAt": "2024-11-16 19:05:46.860613",
+      "internal_id": "db9c12b320b6f2821a2798dde08837ece3df114f96151f268d013c16632f06ec",
+      "publishedAtLabel": "Nov 15"
+    },
     {
       "id": 15551,
       "query": [
@@ -25660,133 +26273,6 @@
       "content": "Dog bites and scratches account for 99 per cent of human rabies cases. [Courtesy] While dogs are often celebrated as man's best friend, they can also pose a deadly risk. In Kenya, rabies claims an \u2026 [+5012 chars]",
       "retrievedAt": "2024-10-01 07:06:35.848423",
       "internal_id": "d10f5e13f18b2978569d000f8a7cfbc1127cf8e5a32953a2305330d40b201a19",
-      "publishedAtLabel": "Sep 29"
-    },
-    {
-      "id": 14124,
-      "query": [
-        "rabies"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "TNN",
-      "title": "State sets goal to end rabies deaths by \u201930",
-      "description": "Panaji: Aligning with a \ue814global disease-fighting goal, the directorate of health services (DHS) has set the target to eliminate human \ue814deaths caused b.",
-      "url": "https://timesofindia.indiatimes.com/city/goa/state-sets-goal-to-end-rabies-deaths-by-30/articleshow/113793081.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-09-29 18:39:03",
-      "content": "10 spotted animals and their distinct markings",
-      "retrievedAt": "2024-09-30 19:05:24.961068",
-      "internal_id": "743a021643863a86ee3aba70a0b9033dc9b794f8b45903ccf6171a7c5a97c308",
-      "publishedAtLabel": "Sep 29"
-    },
-    {
-      "id": 14126,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Shtfplan.com",
-      "author": "Mac Slavo",
-      "title": "The \u201cCluster\u201d of Possible Human Bird Flu Infections Has Expanded to 8",
-      "description": "A cluster of possible bird flu infections in Missouri has grown to include eight people. These eight could very well represent what may be the first examples of person-to-person transmission of the H5N1 avian influenza in the United States, the Centers for Di\u2026",
-      "url": "https://www.shtfplan.com/headline-news/the-cluster-of-possible-human-bird-flu-infections-has-expanded-to-8",
-      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2024/05/birdflu1.jpg",
-      "publishedAt": "2024-09-29 17:30:46",
-      "content": "A cluster of possible bird flu infections in Missouri has grown to include eight people. These eight could very well represent the first examples of person-to-person transmission of the H5N1 avian in\u2026 [+2323 chars]",
-      "retrievedAt": "2024-09-30 19:05:25.942322",
-      "internal_id": "b36641378ed00504b285e3199c5223c57d94ed8d2b6243e12500eb6de41ca933",
-      "publishedAtLabel": "Sep 29"
-    },
-    {
-      "id": 14129,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Gazeta.ru",
-      "author": "\u0413\u0430\u0437\u0435\u0442\u0430.Ru",
-      "title": "\u0412 \u0412\u041e\u0417 \u0440\u0430\u0441\u0441\u043a\u0430\u0437\u0430\u043b\u0438 \u043e \u0441\u043b\u0443\u0447\u0430\u044f \u0441 \u043f\u043e\u0434\u043e\u0437\u0440\u0435\u043d\u0438\u0435\u043c \u043d\u0430 \u043e\u0441\u043f\u0443 \u043e\u0431\u0435\u0437\u044c\u044f\u043d \u0432 \u0410\u0444\u0440\u0438\u043a\u0435 \u0441 \u043d\u0430\u0447\u0430\u043b\u0430 2024 \u0433\u043e\u0434\u0430",
-      "description": "\u0411\u043e\u043b\u0435\u0435 31 \u0442\u044b\u0441. \u0441\u043b\u0443\u0447\u0430\u0435\u0432 \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0430\u043d\u0438\u044f \u0441 \u043f\u043e\u0434\u043e\u0437\u0440\u0435\u043d\u0438\u0435\u043c \u043d\u0430 mpox (\u043d\u043e\u0432\u043e\u0435 \u043d\u0430\u0438\u043c\u0435\u043d\u043e\u0432\u0430\u043d\u0438\u0435 \u043e\u0441\u043f\u044b \u043e\u0431\u0435\u0437\u044c\u044f\u043d) \u0432\u044b\u044f\u0432\u0438\u043b\u0438 \u0432 \u0410\u0444\u0440\u0438\u043a\u0435 \u0441 1 \u044f\u043d\u0432\u0430\u0440\u044f \u043f\u043e 22 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2024 \u0433\u043e\u0434\u0430. \u041e\u0431 \u044d\u0442\u043e\u043c \u0441\u043e\u043e\u0431\u0449\u0430\u0435\u0442\u0441\u044f \u043d\u0430 \u0441\u0430\u0439\u0442\u0435 \u0412\u0441\u0435\u043c\u0438\u0440\u043d\u043e\u0439 \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u0438 \u0437\u0434\u0440\u0430\u0432\u043e\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f (\u0412\u041e\u0417). \u0412 \u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0446\u0438\u0438 ...",
-      "url": "https://www.gazeta.ru/social/news/2024/09/29/24035059.shtml",
-      "urlToImage": "https://img.gazeta.ru/files3/968/14991968/2022-05-23T182141Z_475247910_RC25DU95S1NL_RTRMADP_3_HEALTH-MONKEYPOX-pic_32ratio_900x600-900x600-55005.jpg",
-      "publishedAt": "2024-09-29 13:35:21",
-      "content": "31 . mpox ( ) 1 22 2024 . (). , 2024 31 427 mpox. \u2014 27 103 . , 123 106 310 . , mpox . () , 88 . $21,4 2024 . .",
-      "retrievedAt": "2024-09-30 19:05:28.068294",
-      "internal_id": "31cfb96cd5e031c6c53fbc9e5c8dcca9986cbee7b54b7afd9677695e58e37c4a",
-      "publishedAtLabel": "Sep 29"
-    },
-    {
-      "id": 14128,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Tass.ru",
-      "author": null,
-      "title": "\u0412 \u0410\u0444\u0440\u0438\u043a\u0435 \u0432\u044b\u044f\u0432\u0438\u043b\u0438 31 \u0442\u044b\u0441. \u0441\u043b\u0443\u0447\u0430\u0435\u0432 \u0441 \u043f\u043e\u0434\u043e\u0437\u0440\u0435\u043d\u0438\u0435\u043c \u043d\u0430 mpox \u0441 \u043d\u0430\u0447\u0430\u043b\u0430 \u0433\u043e\u0434\u0430",
-      "description": "\u0417\u0430\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u044b \u0431\u043e\u043b\u0435\u0435 840 \u043b\u0435\u0442\u0430\u043b\u044c\u043d\u044b\u0445 \u0438\u0441\u0445\u043e\u0434\u043e\u0432, \u043f\u0440\u0438\u0447\u0438\u043d\u043e\u0439 \u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u043c\u043e\u0433\u043b\u0430 \u043f\u043e\u0441\u043b\u0443\u0436\u0438\u0442\u044c \u044d\u0442\u0430 \u0431\u043e\u043b\u0435\u0437\u043d\u044c, \u0441\u043e\u043e\u0431\u0449\u0438\u043b\u0438 \u0432 \u0412\u041e\u0417",
-      "url": "https://tass.ru/obschestvo/21989865",
-      "urlToImage": "https://cdn-storage-media.tass.ru/thumb/ru/obschestvo/21989865?u=2024-09-29T13:21:15.571295",
-      "publishedAt": "2024-09-29 13:21:15",
-      "content": ", 29 . //. 31 . mpox ( ) 840 , , 1 22 2024 . (). , 31 427 mpox, 844 . 16 22 2 085, 34 . 402 . mpox () - 27 103 838 . 1 2022 31 2024 123 106 310 , 234 . mpox 2022 11 2023 . , 14 2024 . Mpox -\u2026 [+12 chars]",
-      "retrievedAt": "2024-09-30 19:05:27.932262",
-      "internal_id": "8044e60e22c2cc27d80ae91c10ff02a191b3325ce0f962c0717276be7249cb00",
-      "publishedAtLabel": "Sep 29"
-    },
-    {
-      "id": 14127,
-      "query": [
-        "dengue",
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Catracalivre.com.br",
-      "author": "Andr\u00e9 Nicolau",
-      "title": "MPox, Coqueluche e dengue: como evitar essas doen\u00e7as no Brasil",
-      "description": "Muitas doen\u00e7as acabam chegando ao conhecimento da popula\u00e7\u00e3o apenas quando j\u00e1 est\u00e1 em surto em determinado pa\u00eds ou regi\u00e3o, ou quando \u00e9 registrado \u00f3bito e",
-      "url": "https://catracalivre.com.br/saude-bem-estar/como-evitar-essas-doencas-no-brasil/",
-      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1280,h=720,fit=cover,format=jpeg/wp-content/uploads/2022/03/campanha-vacinacao-sarampo.jpg",
-      "publishedAt": "2024-09-29 11:01:13",
-      "content": "Minist\u00e9rio da Sa\u00fade reverteu tend\u00eancia de queda nas coberturas vacinais nos \u00faltimos anos. Como evitar essas doen\u00e7as no Brasil? User7565abab_575/istock - User7565abab_575/istock Muitas doen\u00e7as acabam\u2026 [+4907 chars]",
-      "retrievedAt": "2024-09-30 19:05:26.396549",
-      "internal_id": "284b02280b08ff4e594a499b1a8efeb1a6c0464631d182a540fd268907499e61",
-      "publishedAtLabel": "Sep 29"
-    },
-    {
-      "id": 14125,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Antaranews.com",
-      "author": "Dewa W, Kenzu",
-      "title": "Indonesia's Bali intensifies rabies vaccination for pets",
-      "description": "The Bali government is accelerating the vaccination of dogs and cats to prevent the transmission of the rabies virus in the province. &quot;We must make ...",
-      "url": "https://en.antaranews.com/news/327715/indonesias-bali-intensifies-rabies-vaccination-for-pets",
-      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2024/09/29/IMG_20240929_113136.jpg",
-      "publishedAt": "2024-09-29 08:09:30",
-      "content": "Denpasar, Bali (ANTARA) - The Bali government is accelerating the vaccination of dogs and cats to prevent the transmission of the rabies virus in the province.\"We must make Bali rabies-free,\" Bali's \u2026 [+1563 chars]",
-      "retrievedAt": "2024-09-30 19:05:25.023338",
-      "internal_id": "f88760feb3afc552efdeaf202dcd833c2c717f0007f02d68aa979775b32bf48c",
-      "publishedAtLabel": "Sep 29"
-    },
-    {
-      "id": 14130,
-      "query": [
-        "leptospirosis"
-      ],
-      "source_id": null,
-      "source_name": "NDTV News",
-      "author": null,
-      "title": "Punjab Chief Minister Bhagwant Mann Diagnosed With Leptospirosis",
-      "description": "Punjab Chief Minister Bhagwant Mann was on Saturday diagnosed with bacterial infection leptospirosis, with doctors saying he is being given antibiotics and his vitals are \"completely stable\".",
-      "url": "https://www.ndtv.com/chandigarh-news/punjab-cm-bhagwant-mann-diagnosed-with-leptospirosis-6675554",
-      "urlToImage": "https://c.ndtvimg.com/2024-07/ba1eqpao_bhagwant-mann_625x300_25_July_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-      "publishedAt": "2024-09-29 07:15:35",
-      "content": "Punjab Chief Minister Bhagwant Mann was admitted to the Fortis Hospital, Mohali. (File) Chandigarh: Punjab Chief Minister Bhagwant Mann was on Saturday diagnosed with bacterial infection leptospiros\u2026 [+1620 chars]",
-      "retrievedAt": "2024-09-30 19:05:28.540483",
-      "internal_id": "de2c3109f6ab8336ee7dbcdf3d8013e2c4e684d60123990760058d931a2dd580",
       "publishedAtLabel": "Sep 29"
     }
   ]

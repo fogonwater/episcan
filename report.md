@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 28
-- **Last harvest:** 2024-11-16 07:06
-- **Most recent article:** 2024-11-15 06:30:44
+- **New articles in last harvest:** 34
+- **Last harvest:** 2024-11-16 19:05
+- **Most recent article:** 2024-11-15 17:13:56
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-40 | 24-41 | 24-42 | 24-43 | 24-44 | 24-45 | 24-46 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 127 | 42 | 81 | 131 | 75 | 63 | 27 | 546 |
-| dengue | 50 | 35 | 50 | 53 | 31 | 31 | 18 | 268 |
-| h5n1 | 50 | 10 | 18 | 12 | 61 | 36 | 36 | 223 |
-| malaria | 10 | 13 | 18 | 58 | 16 | 26 | 15 | 156 |
-| rabies | 28 | 6 | 7 | 3 | 10 | 5 | 11 | 70 |
-| measles | 5 | 5 | 3 | 1 | 13 | 3 | 21 | 51 |
+| mpox | 124 | 42 | 81 | 131 | 75 | 63 | 29 | 545 |
+| dengue | 49 | 35 | 50 | 53 | 31 | 31 | 28 | 277 |
+| h5n1 | 49 | 10 | 18 | 12 | 61 | 36 | 38 | 224 |
+| malaria | 10 | 13 | 18 | 58 | 16 | 26 | 28 | 169 |
+| rabies | 26 | 6 | 7 | 3 | 10 | 5 | 11 | 68 |
+| measles | 5 | 5 | 3 | 1 | 13 | 3 | 28 | 58 |
 | zika | 3 | 4 | 6 | 6 | 3 | 9 | 4 | 35 |
 | meningitis | 11 | 2 | 1 | 6 | 3 | 5 | 2 | 30 |
 | pertussis | 2 | 2 | 9 | 3 | 1 | 3 | 6 | 26 |
 | chikungunya | 3 | 3 | 4 | 7 | 2 | 2 | 3 | 24 |
-| hpai | 2 | 1 | 2 | 2 | 7 | 4 | 3 | 21 |
-| leptospirosis | 3 | 1 | 1 | 0 | 3 | 10 | 3 | 21 |
+| hpai | 2 | 1 | 2 | 2 | 7 | 4 | 4 | 22 |
+| leptospirosis | 2 | 1 | 1 | 0 | 3 | 10 | 3 | 20 |
 | typhoid | 1 | 0 | 1 | 3 | 4 | 1 | 1 | 11 |
 | shigellosis | 1 | 3 | 0 | 1 | 0 | 0 | 1 | 6 |
 | yersinia | 1 | 1 | 0 | 0 | 3 | 0 | 0 | 5 |
@@ -91,6 +91,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-46 (mpox)
 
+- [Vaccineskeptisk sundhedsminister i USA sætter spor hos dansk vaccineaktie](https://www.dr.dk/nyheder/penge/vaccineskeptisk-sundhedsminister-i-usa-saetter-spor-hos-dansk-vaccineaktie) (Www.dr.dk)
+
+- [Vaccintillverkare missar prognos](https://www.expressen.se/ekonomi/vaccintillverkare-missar-prognos/) (Expressen.se)
+
 - [Un régulateur africain approuve le premier test de dépistage du mpox développé sur le continent](https://fr.sputniknews.africa/20241115/un-regulateur-africain-approuve-le-premier-test-de-depistage-du-mpox-developpe-sur-le-continent--1069237933.html) (Sputniknews.africa)
 
 - [Health advocates press Cepheid for cheaper mpox tests](https://www.investing.com/news/stock-market-news/health-advocates-press-cepheid-for-cheaper-mpox-tests-3724869) (Investing.com)
@@ -153,6 +157,20 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-46 (measles)
 
+- [What Kind of Damage Can RFK, Jr. Actually Do as HHS Secretary?](https://www.pajiba.com/news/what-kind-of-damage-can-rfk-jr-actually-do-as-hhs-secretary.php) (Pajiba.com)
+
+- ['Unacceptable' Measles Death Toll—Map Shows Where Cases Are Surging](https://www.newsweek.com/map-measles-cases-surging-unacceptable-death-toll-cdc-who-1986445) (Newsweek)
+
+- [Trump Promises to Make Measles Great Again By Making RFK Jr. HHS Secretary](https://www.mediaite.com/opinion/trump-promises-to-make-measles-great-again-by-making-rfk-jr-hhs-secretary/) (Mediaite)
+
+- [Friday, November 15, 2024](https://kffhealthnews.org/morning-briefing/friday-november-15-2024/) (Kffhealthnews.org)
+
+- [WHO, CDC report a 20% rise in global measles cases](https://www.techtarget.com/pharmalifesciences/news/366615799/WHO-CDC-report-a-20-rise-in-global-measles-cases) (Techtarget.com)
+
+- [Measles: Millions of children missed routine vaccination last year, WHO and CDC warn](https://www.bmj.com/content/387/bmj.q2541) (The BMJ)
+
+- [Measles Resurges As Vaccination Declines, Most Deaths Among Unvaccinated Young Children: WHO, CDC](https://www.medicaldaily.com/measles-resurges-vaccination-declines-most-deaths-among-unvaccinated-young-children-who-cdc-472680) (Medical Daily)
+
 - [RFK Jr. given official mandate to Make America Healthy Again, and Jake Tapper fearmongers about measles](https://www.americanthinker.com/blog/2024/11/rfk_jr_given_official_mandate_to_make_america_healthy_again_and_jake_tapper_fearmongers_about_measles.html) (Americanthinker.com)
 
 - [World News in Brief: Haiti crisis, measles surge, global torture accord turns 40](https://www.globalsecurity.org/military/library/news/2024/11/mil-241114-unnews03.htm) (Globalsecurity.org)
@@ -197,6 +215,32 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-46 (malaria)
 
+- [Lazio: malaria di lieve entità per Dia, esami in Senegal](https://www.ansa.it/sito/notizie/sport/calcio/2024/11/15/lazio-malaria-di-lieve-entita-per-dia-esami-in-senegal_cb03f6f0-1f43-401b-89ab-fed45ba1b376.html) (ANSA.it)
+
+- [ECMO saves 71-year-old doctor from unusual presentation of ARDS in a malaria case](https://timesofindia.indiatimes.com/city/kolkata/ecmo-saves-71-year-old-doctor-from-unusual-presentation-of-ards-in-a-malaria-case/articleshow/115341152.cms) (The Times of India)
+
+- [Malaria, rilevata la resistenza al farmaco salvavita in alcuni bambini. Il virologo: “Grande preoccupazione”](https://www.ilfattoquotidiano.it/2024/11/15/malaria-rilevata-la-resistenza-al-farmaco-salvavita-in-alcuni-bambini-il-virologo-grande-preoccupazione/7768946/) (Ilfattoquotidiano.it)
+
+- [What's going on with the 'magic' drug for malaria?](https://www.npr.org/sections/goats-and-soda/2024/11/15/g-s1-34176/malaria-drug-resistance-children-artemisinin-africa) (NPR)
+
+- [MALARIA D'AFRICA O MALA VOGLIA DI FORMELLO? - L'ATTACCANTE DELLA LAZIO, BOULAYE DIA, HA CONTRATTO LA MALARIA DURANTE GLI IMPEGNI CON LA NAZIONALE SENEGALESE - MA QUALCOSA NON TORNA: I TEMPI DI INCUBAZIONE DELLA MALATTIA, TRA I 7 E I 10 GIORNI, NON SAREBBERO COMPATIBILI CON L'ARRIVO DELL'EX SALERNITANA IN AFRICA DI LUNEDÌ SCORSO - IL CALCIATORE DOVREBBE RIENTRARE A ROMA TRA OGGI E DOMANI PER ESSERE ESAMINATO DALLO STAFF MEDICO BIANCOCELESTE…](https://www.dagospia.com/rubrica-30/sport/malaria-39-africa-mala-voglia-formello-nbsp-39-attaccante-414910.htm) (Dagospia.com)
+
+- [Lazio, malaria di lieve entità per Boulaye Dia. Esami a Dakar](https://www.tuttomercatoweb.com/serie-a/lazio-malaria-di-lieve-entita-per-boulaye-dia-esami-a-dakar-2035455) (Tuttomercatoweb.com)
+
+- [Lazio: malaria di lieve entità per Dia, esami a Dakar](https://www.ansa.it/sito/notizie/sport/calcio/2024/11/15/lazio-malaria-di-lieve-entita-per-dia-esami-a-dakar_cb03f6f0-1f43-401b-89ab-fed45ba1b376.html) (ANSA.it)
+
+- [MosAIC: An annotated collection of mosquito-associated bacteria with high-quality genome assemblies](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002897) (Plos.org)
+
+- [Dia (Lazio) ha contratto la malaria: “Rimane in Senegal per continuare le cure”](https://www.ilfattoquotidiano.it/2024/11/15/dia-lazio-malaria-senegal/7768706/) (Ilfattoquotidiano.it)
+
+- [Lazio: malaria di lieve entità per Dia, esami a Dakar](https://www.ansa.it/lazio/notizie/2024/11/15/lazio-malaria-di-lieve-entita-per-dia-esami-a-dakar_2ae5278e-7c41-4376-8828-a0d6a7808e17.html) (ANSA.it)
+
+- [Dia e la malaria presa in Senegal, infettivologo: "Va fatta profilassi"](https://www.ilgiornale.it/news/adnkronos/dia-e-malaria-presa-senegal-infettivologo-va-fatta-2398680.html) (Ilgiornale.it)
+
+- [Lazios Boulaye Dia sjuk i malaria: ”Blixt från klar himmel”](https://www.expressen.se/sport/fotboll/serie-a/lazios-boulaye-dia-sjuk-i-malaria-blixt-fran-klar-himmel/) (Expressen.se)
+
+- [El paludismo desarrolla resistencia a un fármaco que salva la vida de los niños](https://www.meneame.net/m/ciencia/paludismo-desarrolla-resistencia-farmaco-salva-vida-ninos) (Meneame.net)
+
 - [Fatal Mixed Plasmodium Infection in Traveler Returning to Colombia from Comoros Islands, 2024](https://wwwnc.cdc.gov/eid/article/31/1/24-1491_article) (Cdc.gov)
 
 - [Study uncovers first evidence of resistance to standard malaria treatment in African children with severe malaria](https://www.sciencedaily.com/releases/2024/11/241114183336.htm) (Science Daily)
@@ -237,6 +281,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-46 (hpai)
 
+- [Fugleinfluensa påvist i Finnmark](https://www.nrk.no/tromsogfinnmark/fugleinfluensa-pavist-i-finnmark-1.17128799) (NRK)
+
 - [Bird flu: Canadian teenager is critically ill with new genotype](https://www.bmj.com/content/387/bmj.q2529) (The BMJ)
 
 - [Bird Flu Detected In Oahu, Hawaii For The First Time](https://www.shtfplan.com/headline-news/bird-flu-detected-in-oahu-hawaii-for-the-first-time) (Shtfplan.com)
@@ -244,6 +290,10 @@ Source: [News API](https://newsapi.org/)
 - [Η γρίπη των πτηνών απειλεί με εξαφάνιση τα περιπλανώμενα αλμπατρός](https://www.skai.gr/news/environment/i-gripi-ton-ptinon-apeilei-ta-periplanomena-almpatros) (Skai.gr)
 
 ## 24-46 (h5n1)
+
+- [Aviaria, adolescente ricoverato in condizioni critiche a Vancouver (Canada). Dai primi sintomi alla sindrome da distress respiratorio](https://www.ilfattoquotidiano.it/2024/11/15/aviaria-adolescente-condizioni-critiche-canada-sintomi-sindrome-da-distress-respiratorio-acuto/7768728/) (Ilfattoquotidiano.it)
+
+- [Can bird flu trigger another pandemic and cause more lockdowns? Here's what experts have to say on the possibility](https://economictimes.indiatimes.com/news/international/global-trends/can-bird-flu-trigger-another-pandemic-and-cause-more-lockdowns-heres-what-experts-have-to-say-on-the-possibility/articleshow/115337089.cms) (The Times of India)
 
 - [Smittad mystiskt: Tonåring sjuk – ingen vet varför](https://www.aftonbladet.se/nyheter/a/dRGKEJ/manniska-smittad-av-fagelinfluensa-inga-kanda-kopplingar-till-smittade-djur) (Aftonbladet.se)
 
@@ -318,6 +368,26 @@ Source: [News API](https://newsapi.org/)
 - [Experts Weigh In On Bird Flu Concerns, And The Consensus Isn't As Scary As You Might Think](https://www.huffpost.com/entry/bird-flu-h1n5-virus_l_672bc43ae4b01cfbdad3a432) (HuffPost)
 
 ## 24-46 (dengue)
+
+- [Weekly dengue cases rise to 1,583, two deaths recorded](https://www.thestar.com.my/news/nation/2024/11/16/weekly-dengue-cases-rise-to-1583-two-deaths-recorded) (The Star Online)
+
+- [MosAIC: An annotated collection of mosquito-associated bacteria with high-quality genome assemblies](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002897) (Plos.org)
+
+- [Guadeloupe : Alerte sur l’épidémie de dengue, avec un variant plus féroce et plus contagieux](https://www.20minutes.fr/sante/4121575-20241115-guadeloupe-alerte-epidemie-dengue-variant-plus-feroce-plus-contagieux) (20 Minutes)
+
+- [Dengue : la Guadeloupe placée en phase épidémique, les autorités craignent "un nombre élevé de cas"](https://la1ere.francetvinfo.fr/dengue-la-guadeloupe-placee-en-phase-epidemique-les-autorites-craignent-un-nombre-eleve-de-cas-1536919.html) (Francetvinfo.fr)
+
+- [Annwesha Hazra Dengue : হাতে স্যালাইনের নল! ডেঙ্গু আক্রান্ত অন্বেশা, কেমন আছেন অভিনেত্রী?](https://bengali.indianexpress.com/entertainment/television/annwesha-hazra-bengali-tv-actress-shares-health-update-while-suffering-from-dengue-and-typhoid-7582937) (The Indian Express)
+
+- [Selangor allocates RM4mil to combat dengue in 2025](https://www.thestar.com.my/news/nation/2024/11/15/selangor-allocates-rm4mil-to-combat-dengue-in-2025) (The Star Online)
+
+- [Dengue claims eight lives in Gandaki Province in 10 months](https://english.khabarhub.com/2024/15/412914/) (Khabarhub.com)
+
+- [Dengue : la Guadeloupe passe "en phase épidémique", un nombre élevé de cas redouté](https://www.lexpress.fr/sciences-sante/sante/dengue-la-guadeloupe-passe-en-phase-epidemique-un-nombre-eleve-de-cas-redoute-PEBD4W5ACVDBDAMVWRMEI4P2MY/) (L'Express)
+
+- [Santé. L'épidémie de dengue déclarée en Guadeloupe, de nombreux cas attendus](https://www.ledauphine.com/sante/2024/11/15/l-epidemie-de-dengue-declaree-en-guadeloupe-de-nombreux-cas-attendus) (Le Dauphiné Libéré)
+
+- [La Guadeloupe fait face à une épidémie de dengue](https://www.liberation.fr/societe/sante/la-guadeloupe-fait-face-a-une-epidemie-de-dengue-20241115_IU55D7GIKVGM7NCIZBJN6UEQDA/) (Libération)
 
 - [Le Guadeloupe face à une épidémie de dengue](https://www.lalibre.be/international/amerique/2024/11/15/le-guadeloupe-face-a-une-epidemie-de-dengue-UPXGY47BCJDAHKQI743A2ZR5OQ/) (Lalibre.be)
 
@@ -2661,10 +2731,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Rabies, a deadly threat to man's best friend](https://www.standardmedia.co.ke/health/health-science/article/2001503663/rabies-a-deadly-threat-to-mans-best-friend) (Standard Digital)
 
-- [State sets goal to end rabies deaths by ’30](https://timesofindia.indiatimes.com/city/goa/state-sets-goal-to-end-rabies-deaths-by-30/articleshow/113793081.cms) (The Times of India)
-
-- [Indonesia's Bali intensifies rabies vaccination for pets](https://en.antaranews.com/news/327715/indonesias-bali-intensifies-rabies-vaccination-for-pets) (Antaranews.com)
-
 ## 24-40 (pertussis)
 
 - [TWiV 1154: Clinical update with Dr. Daniel Griffin](https://www.microbe.tv/twiv/twiv-1154/) (Microbe.tv)
@@ -2921,12 +2987,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Slow response to mpox a wake-up call](https://www.bangkokpost.com/opinion/opinion/2874488/slow-response-to-mpox-a-wake-up-call) (Bangkok Post)
 
-- [В ВОЗ рассказали о случая с подозрением на оспу обезьян в Африке с начала 2024 года](https://www.gazeta.ru/social/news/2024/09/29/24035059.shtml) (Gazeta.ru)
-
-- [В Африке выявили 31 тыс. случаев с подозрением на mpox с начала года](https://tass.ru/obschestvo/21989865) (Tass.ru)
-
-- [MPox, Coqueluche e dengue: como evitar essas doenças no Brasil](https://catracalivre.com.br/saude-bem-estar/como-evitar-essas-doencas-no-brasil/) (Catracalivre.com.br)
-
 ## 24-40 (meningitis)
 
 - [La nueva vida de Luis Canut, marido de Patricia Pérez, tras haber perdido la visión: carnet de la ONCE y aprendiendo a usar el bastón](https://www.lavozdegalicia.es/noticia/gente/2024/10/05/nueva-vida-luis-canut-marido-patricia-perez-tras-haber-perdido-vision-carnet-once-aprendiendo-usar-baston/00031728120151743807523.htm) (Lavozdegalicia.es)
@@ -2990,8 +3050,6 @@ Source: [News API](https://newsapi.org/)
 - [City records 18 lepto, 12 dengue deaths this year](https://timesofindia.indiatimes.com/city/mumbai/mumbai-faces-surge-in-dengue-and-leptospirosis-deaths-amidst-monsoon/articleshow/113860985.cms) (The Times of India)
 
 - [What Is Leptospirosis: A Hidden Health Risk In India](https://doctor.ndtv.com/living-healthy/what-is-leptospirosis-a-hidden-health-risk-in-india-6682647) (NDTV News)
-
-- [Punjab Chief Minister Bhagwant Mann Diagnosed With Leptospirosis](https://www.ndtv.com/chandigarh-news/punjab-cm-bhagwant-mann-diagnosed-with-leptospirosis-6675554) (NDTV News)
 
 ## 24-40 (hpai)
 
@@ -3099,8 +3157,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Erste Mensch-zu-Mensch-Übertragung? - Neue Vogelgrippe-Fälle in den USA lassen jetzt Schlimmstes befürchten](https://www.focus.de/gesundheit/erste-mensch-zu-mensch-uebertragung-neue-vogelgrippe-faelle-in-den-usa-lassen-jetzt-schlimmstes-befuerchten_cc4f3bd6-86ba-4cb7-8926-6d5493b0ce59.html) (Focus)
 
-- [The “Cluster” of Possible Human Bird Flu Infections Has Expanded to 8](https://www.shtfplan.com/headline-news/the-cluster-of-possible-human-bird-flu-infections-has-expanded-to-8) (Shtfplan.com)
-
 ## 24-40 (dengue)
 
 - [Nuova disinfestazione per Dengue a Fano, incidenza casi scende](https://www.ansa.it/marche/notizie/2024/10/05/nuova-disinfestazione-per-dengue-a-fano-incidenza-casi-scende_97556277-52e9-4333-830a-bbee7cfbd64c.html) (ANSA.it)
@@ -3200,8 +3256,6 @@ Source: [News API](https://newsapi.org/)
 - [Dengue Cases Surge in Guwahati’s Densely Populated Areas](https://thehillstimes.in/guwahati/dengue-cases-surge-in-guwahatis-densely-populated-areas) (Thehillstimes.in)
 
 - [दिल्ली में फिर डराने लगा डेंगू, मरीजों में गिर रहा प्लेटलेट्स काउंट, लिवर-किडनी को भी नुकसान](https://navbharattimes.indiatimes.com/metro/delhi/other-news/delhi-dengue-cases-increasing-platelets-count-also-declining-know-reason-here/articleshow/113796823.cms) (The Times of India)
-
-- [MPox, Coqueluche e dengue: como evitar essas doenças no Brasil](https://catracalivre.com.br/saude-bem-estar/como-evitar-essas-doencas-no-brasil/) (Catracalivre.com.br)
 
 ## 24-40 (chikungunya)
 
