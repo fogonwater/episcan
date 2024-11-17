@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
 - **New articles in last harvest:** 9
-- **Last harvest:** 2024-11-17 07:06
-- **Most recent article:** 2024-11-16 06:18:52
+- **Last harvest:** 2024-11-17 19:05
+- **Most recent article:** 2024-11-16 19:00:00
 
 ---
 
@@ -12,10 +12,10 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-41 | 24-42 | 24-43 | 24-44 | 24-45 | 24-46 | Total |
 |--|-|-|-|-|-|-|-|
-| mpox | 40 | 81 | 131 | 75 | 63 | 30 | 420 |
-| dengue | 33 | 50 | 53 | 31 | 31 | 28 | 226 |
-| h5n1 | 9 | 18 | 12 | 61 | 36 | 39 | 175 |
-| malaria | 13 | 18 | 58 | 16 | 26 | 30 | 161 |
+| mpox | 36 | 81 | 131 | 75 | 63 | 34 | 420 |
+| dengue | 31 | 50 | 53 | 31 | 31 | 31 | 227 |
+| h5n1 | 8 | 18 | 12 | 61 | 36 | 40 | 175 |
+| malaria | 13 | 18 | 58 | 16 | 26 | 31 | 162 |
 | measles | 5 | 3 | 1 | 13 | 3 | 31 | 56 |
 | rabies | 6 | 7 | 3 | 10 | 5 | 11 | 42 |
 | zika | 4 | 6 | 6 | 3 | 9 | 4 | 32 |
@@ -94,6 +94,14 @@ Source: [News API](https://newsapi.org/)
 - [Diphtheria-tetanus-pertussis immunization and sudden infant death: results of the National Institute of Child Health and Human Development Cooperative Epidemiological Study of Sudden Infant Death Syndrome risk factors](https://pubmed.ncbi.nlm.nih.gov/3493477/) (National Institutes of Health)
 
 ## 24-46 (mpox)
+
+- [U.S. health officials report 1st case of new form of mpox in a traveler](https://www.cbsnews.com/news/us-health-officials-report-1st-case-new-form-mpox-traveler/) (CBS News)
+
+- [US health officials report 1st case of new form of mpox in a traveler](https://economictimes.indiatimes.com/news/international/world-news/us-health-officials-report-1st-case-of-new-form-of-mpox-in-a-traveler/articleshow/115369187.cms) (The Times of India)
+
+- [US health officials report 1st case of new form of mpox in a traveler](https://www.clickondetroit.com/health/2024/11/16/us-health-officials-report-1st-case-of-new-form-of-mpox-in-a-traveler/) (WDIV ClickOnDetroit)
+
+- [California confirms first clade I mpox case](https://www.cdc.gov/media/releases/s1116-california-first-clade.html) (Cdc.gov)
 
 - [TWiV 1166: Clinical update with Dr. Daniel Griffin](https://www.microbe.tv/twiv/twiv-1166/) (Microbe.tv)
 
@@ -227,6 +235,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-46 (malaria)
 
+- [Dia bloccato dalla malaria, l'epidemiologo: "La trasmissione uomo-uomo non è possibile"](https://www.tuttomercatoweb.com/rassegna-stampa/dia-bloccato-dalla-malaria-l-epidemiologo-la-trasmissione-uomo-uomo-non-e-possibile-2035650) (Tuttomercatoweb.com)
+
 - [Il Messaggero: "Ranieri: 'Sarò io l'uomo dei Friedkin'. Lazio, la malaria blocca Dia"](https://www.tuttomercatoweb.com/rassegna-stampa/i-il-messaggero-i-ranieri-saro-io-l-uomo-dei-friedkin-lazio-la-malaria-blocca-dia-2035625) (Tuttomercatoweb.com)
 
 - [Boulaye Dia, un anno da esilio alla Salernitana. Ora il problema malaria](https://www.tuttomercatoweb.com/nato-oggi/boulaye-dia-un-anno-da-esilio-alla-salernitana-ora-il-problema-malaria-2034854) (Tuttomercatoweb.com)
@@ -307,6 +317,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-46 (h5n1)
 
+- [“نقش حیاتی پروتئین IFITM3 در جلوگیری از عفونت‌های شدید آنفولانزا و سازگاری ویروس‌ها با انسان”](https://www.entekhab.ir/fa/news/833080/“نقش-حیاتی-پروتئین-ifitm3-در-جلوگیری-از-عفونت‌های-شدید-آنفولانزا-و-سازگاری-ویروس‌ها-با-انسان”) (Entekhab.ir)
+
 - [Oregon confirms state’s first human case of H5N1 bird flu in Clackamas County](https://www.oregonlive.com/health/2024/11/oregon-confirms-first-human-case-of-h5n1-bird-flu-in-clackamas-county.html) (OregonLive)
 
 - [Aviaria, adolescente ricoverato in condizioni critiche a Vancouver (Canada). Dai primi sintomi alla sindrome da distress respiratorio](https://www.ilfattoquotidiano.it/2024/11/15/aviaria-adolescente-condizioni-critiche-canada-sintomi-sindrome-da-distress-respiratorio-acuto/7768728/) (Ilfattoquotidiano.it)
@@ -386,6 +398,12 @@ Source: [News API](https://newsapi.org/)
 - [Experts Weigh In On Bird Flu Concerns, And The Consensus Isn't As Scary As You Might Think](https://www.huffpost.com/entry/bird-flu-h1n5-virus_l_672bc43ae4b01cfbdad3a432) (HuffPost)
 
 ## 24-46 (dengue)
+
+- ['Dengue is coming': Climate-fueled rise in cases will affect the US, scientists warn](https://www.livescience.com/health/viruses-infections-disease/dengue-is-coming-climate-fueled-rise-in-cases-will-affect-the-us-scientists-warn) (Live Science)
+
+- [With dengue cases at an extreme high, research points to climate change's role](https://www.nbcnews.com/health/health-news/dengue-fever-climate-change-rcna179629) (NBC News)
+
+- [Donald Trump's Team Of Rejects Will Lead Us To Disaster](https://www.esquire.com/news-politics/politics/a62925843/javier-milei-mar-a-lago-vist/) (esquire.com)
 
 - [Weekly dengue cases rise to 1,583, two deaths recorded](https://www.thestar.com.my/news/nation/2024/11/16/weekly-dengue-cases-rise-to-1583-two-deaths-recorded) (The Star Online)
 
@@ -2507,14 +2525,6 @@ Source: [News API](https://newsapi.org/)
 
 - [В Африке выявили более 35 тыс. случаев с подозрением на mpox с начала года](https://tass.ru/obschestvo/22056017) (Tass.ru)
 
-- [Putting cholera back in focus](https://www.thehindubusinessline.com/specials/pulse/putting-cholera-back-in-focus/article68726024.ece) (BusinessLine)
-
-- [El Congo, foco del brote de viruela del mono, comienza la campaña de vacunación](https://www.montevideo.com.uy/Salud/El-Congo-foco-del-brote-de-viruela-del-mono-comienza-la-campana-de-vacunacion-uc902427) (Montevideo.com.uy)
-
-- [Чому міняти постільну білизну варто частіше](https://www.bbc.com/ukrainian/articles/c17lxe84pk2o) (BBC News)
-
-- [Congo starts mpox vaccinations in effort to slow outbreaks](https://www.voanews.com/a/congo-starts-mpox-vaccinations-in-effort-to-slow-outbreaks/7812086.html) (VOA News)
-
 ## 24-41 (meningitis)
 
 - [Massachusetts pharmacist gets up to 15 years in prison for meningitis outbreak deaths](https://abcnews.go.com/US/wireStory/massachusetts-pharmacist-gets-15-years-prison-meningitis-outbreak-114734224) (ABC News)
@@ -2587,8 +2597,6 @@ Source: [News API](https://newsapi.org/)
 
 - [The US is ramping up bird flu surveillance – but will it be enough?](https://www.newscientist.com/article/2450743-the-us-is-ramping-up-bird-flu-surveillance-but-will-it-be-enough/) (New Scientist)
 
-- [Scientists reveal first results of bird flu sampling; health plan shows how NZ would respond to human outbreak](https://www.nzherald.co.nz/nz/scientists-reveal-first-results-of-bird-flu-sampling-health-plan-shows-how-nz-would-respond-to-human-outbreak/ME7OORURMJHYDFCSVAHHBUIDRU/) (New Zealand Herald)
-
 ## 24-41 (dengue)
 
 - [Prevenzione da Dengue a Pesaro, estesa la disinfestazione](https://www.ansa.it/marche/notizie/2024/10/12/prevenzione-da-dengue-a-pesaro-estesa-la-disinfestazione_6486dfc5-f7fe-42fa-94c1-7c1a874a7204.html) (ANSA.it)
@@ -2652,10 +2660,6 @@ Source: [News API](https://newsapi.org/)
 - [County health officials detect first case of dengue virus in Escondido](https://www.10news.com/news/local-news/north-county-news/county-health-officials-detect-first-case-of-dengue-virus-in-escondido) (10News)
 
 - [Implementan plan contra el dengue en Acapulco tras paso de 'John': ¿Cuándo inicia?](https://www.milenio.com/estados/plan-contra-el-dengue-en-acapulco-guerrero-tras-john) (Milenio)
-
-- [QRoo avanza en la lucha contra el dengue: pasa del lugar 3 al 22 en casos nacionales](https://www.milenio.com/estados/quintana-roo-logra-reducir-casos-dengue) (Milenio)
-
-- [Dengue: la nueva inteligencia artificial que usarán en la provincia de Buenos Aires para intentar anticiparse a los brotes](https://www.lanacion.com.ar/sociedad/dengue-la-nueva-inteligencia-artificial-que-usaran-en-la-provincia-de-buenos-aires-para-intentar-nid06102024/) (La Nacion)
 
 ## 24-41 (chikungunya)
 

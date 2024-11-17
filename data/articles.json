@@ -1,8 +1,170 @@
 {
-  "last_updated": "2024-11-17 07:06",
-  "count_articles_total": 1180,
+  "last_updated": "2024-11-17 19:05",
+  "count_articles_total": 1182,
   "count_articles_new": 9,
   "articles": [
+    {
+      "id": 15597,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Live Science",
+      "author": "emily.cooke@futurenet.com (Emily Cooke)",
+      "title": "'Dengue is coming': Climate-fueled rise in cases will affect the US, scientists warn",
+      "description": "New research suggests that climate change is currently driving a surge in global dengue infections and that case rates could increase by 60% by 2050.",
+      "url": "https://www.livescience.com/health/viruses-infections-disease/dengue-is-coming-climate-fueled-rise-in-cases-will-affect-the-us-scientists-warn",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/gwuHoCrZHibZvgYg4CpwqK-1200-80.jpg",
+      "publishedAt": "2024-11-16 19:00:00",
+      "content": "Nearly 20% of cases of dengue fever, a mosquito-borne viral disease, can be attributed to climate change, a new study suggests. If action isn't taken to mitigate global warming, this figure may rise \u2026 [+6133 chars]",
+      "retrievedAt": "2024-11-17 19:05:49.619082",
+      "internal_id": "51fcef92d7df7ff4419d55e482bc78f95b5fd4c744668e800bbaebc97bb8c933",
+      "publishedAtLabel": "Nov 16"
+    },
+    {
+      "id": 15598,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "nbc-news",
+      "source_name": "NBC News",
+      "author": "Randi Richardson",
+      "title": "With dengue cases at an extreme high, research points to climate change's role",
+      "description": "Dengue fever has spread at alarming rates this year. New research attributes nearly a fifth of the existing dengue burden to climate change.",
+      "url": "https://www.nbcnews.com/health/health-news/dengue-fever-climate-change-rcna179629",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-05/230509-mosquito-Aedes-aegypti-ew-510p-f65f38.jpg",
+      "publishedAt": "2024-11-16 19:00:00",
+      "content": "It has been an exceptionally bad year for dengue fever: Nearly 12 million cases were recorded in the Americas through October, close to triple last years total of 4.6 million. Research being present\u2026 [+5322 chars]",
+      "retrievedAt": "2024-11-17 19:05:49.626040",
+      "internal_id": "74360a85d1e8eb14856fc846c1dbd09c3da586dcf147545e8bb6e73ba0babbd1",
+      "publishedAtLabel": "Nov 16"
+    },
+    {
+      "id": 15603,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "November 16",
+      "title": "U.S. health officials report 1st case of new form of mpox in a traveler",
+      "description": "The person had traveled to eastern Africa and was treated in Northern California upon return, according to the California Department of Public Health.",
+      "url": "https://www.cbsnews.com/news/us-health-officials-report-1st-case-new-form-mpox-traveler/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/08/15/e1409279-9c9c-44fd-8046-81662b67e712/thumbnail/1200x630/72644a7f912ce7e6b173bc8b69a6b65c/ap24220568552413.jpg?v=cc5700e8049ccc64c4e0272313675898",
+      "publishedAt": "2024-11-16 18:50:30",
+      "content": "Health officials said Saturday they have confirmed the first U.S. case of a new form of mpox that was first seen in eastern Congo. The person had traveled to eastern Africa and was treated in Northe\u2026 [+1329 chars]",
+      "retrievedAt": "2024-11-17 19:05:51.199224",
+      "internal_id": "7b653f9178a1ee149d28e21d02678302f93b861423a90ea6d0783c4bf050ead0",
+      "publishedAtLabel": "Nov 16"
+    },
+    {
+      "id": 15602,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "AP",
+      "title": "US health officials report 1st case of new form of mpox in a traveler",
+      "description": "The first U.S. case of a new form of mpox, initially detected in eastern Congo, has been confirmed in a traveler returning from the region. Treated in Northern California, the individual is recovering, and public health risks remain low. This new strain, pri\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/us-health-officials-report-1st-case-of-new-form-of-mpox-in-a-traveler/articleshow/115369187.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-115369222,width-1200,height-630,imgsize-788378,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2024-11-16 18:49:57",
+      "content": "Office Productivity Mastering Microsoft Office: Word, Excel, PowerPoint, and 365 By - Metla Sudha Sekhar, IT Specialist and Developer View Program",
+      "retrievedAt": "2024-11-17 19:05:51.170506",
+      "internal_id": "d68832c725503c6a53a536618e8ad04ab891f95bd565047b0671b8db6b679441",
+      "publishedAtLabel": "Nov 16"
+    },
+    {
+      "id": 15604,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "WDIV ClickOnDetroit",
+      "author": "Mike Stobbe",
+      "title": "US health officials report 1st case of new form of mpox in a traveler",
+      "description": "Health officials say they have confirmed the first U.S. case of a new form of mpox that was first seen in eastern Congo.",
+      "url": "https://www.clickondetroit.com/health/2024/11/16/us-health-officials-report-1st-case-of-new-form-of-mpox-in-a-traveler/",
+      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/D53FYCPFMRHIZPJI3DAJJ2XDNI.jpg?_a=DATAdtfiZAA0",
+      "publishedAt": "2024-11-16 18:43:29",
+      "content": "NEW YORK Health officials said Saturday they have confirmed the first U.S. case of a new form of mpox that was first seen in eastern Congo. The person had traveled to eastern Africa and was treated\u2026 [+2311 chars]",
+      "retrievedAt": "2024-11-17 19:05:51.209566",
+      "internal_id": "ed6a65d26cc366399c2f84d272119d4207f5998da0e10ea277106df885c234e2",
+      "publishedAtLabel": "Nov 16"
+    },
+    {
+      "id": 15601,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": "CDC",
+      "title": "California confirms first clade I mpox case",
+      "description": "CDC to receive samples for addition viral characterization",
+      "url": "https://www.cdc.gov/media/releases/s1116-california-first-clade.html",
+      "urlToImage": null,
+      "publishedAt": "2024-11-16 18:35:00",
+      "content": "CDC to receive samples for addition viral characterization The California Department of Public Health confirmed, through laboratory testing, the first known case of clade I mpox in the United States\u2026 [+5635 chars]",
+      "retrievedAt": "2024-11-17 19:05:51.150990",
+      "internal_id": "fc471a1e020594af6804d1371e6d1d8d3d2249755273db30b7cac2c857c685f0",
+      "publishedAtLabel": "Nov 16"
+    },
+    {
+      "id": 15596,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Entekhab.ir",
+      "author": "info@entekhab.ir",
+      "title": "\u201c\u0646\u0642\u0634 \u062d\u06cc\u0627\u062a\u06cc \u067e\u0631\u0648\u062a\u0626\u06cc\u0646 IFITM3 \u062f\u0631 \u062c\u0644\u0648\u06af\u06cc\u0631\u06cc \u0627\u0632 \u0639\u0641\u0648\u0646\u062a\u200c\u0647\u0627\u06cc \u0634\u062f\u06cc\u062f \u0622\u0646\u0641\u0648\u0644\u0627\u0646\u0632\u0627 \u0648 \u0633\u0627\u0632\u06af\u0627\u0631\u06cc \u0648\u06cc\u0631\u0648\u0633\u200c\u0647\u0627 \u0628\u0627 \u0627\u0646\u0633\u0627\u0646\u201d",
+      "description": "\u0645\u062d\u0642\u0642\u0627\u0646 \u0646\u0642\u0634\u200c\u0647\u0627\u06cc \u062c\u062f\u06cc\u062f\u06cc \u0628\u0631\u0627\u06cc \u067e\u0631\u0648\u062a\u0626\u06cc\u0646\u06cc \u06a9\u0647 \u0645\u062f\u062a\u200c\u0647\u0627 \u0628\u0647 \u0639\u0646\u0648\u0627\u0646 \u0645\u062d\u0627\u0641\u0638\u06cc \u062f\u0631 \u0628\u0631\u0627\u0628\u0631 \u0639\u0641\u0648\u0646\u062a \u0634\u062f\u06cc\u062f \u0622\u0646\u0641\u0648\u0644\u0627\u0646\u0632\u0627 \u0634\u0646\u0627\u062e\u062a\u0647 \u0634\u062f\u0647 \u0627\u0633\u062a\u060c \u0634\u0646\u0627\u0633\u0627\u06cc\u06cc \u06a9\u0631\u062f\u0647\u200c\u0627\u0646\u062f. \u0627\u06cc\u0646 \u067e\u0631\u0648\u062a\u0626\u06cc\u0646\u060c \u062d\u062f\u0627\u0642\u0644 \u062a\u0639\u062f\u0627\u062f \u0630\u0631\u0627\u062a \u0648\u06cc\u0631\u0648\u0633\u06cc \u0645\u0648\u0631\u062f \u0646\u06cc\u0627\u0632 \u0628\u0631\u0627\u06cc \u0627\u06cc\u062c\u0627\u062f \u0628\u06cc\u0645\u0627\u0631\u06cc \u0631\u0627 \u0627\u0641\u0632\u0627\u06cc\u0634 \u0645\u06cc\u200c\u062f\u0647\u062f. \u0627\u06cc\u0646 \u0645\u0637\u0627\u0644\u0639\u0647 \u0647\u0645\u0686\u0646\u06cc\u0646 \u0646\u0634\u0627\u0646 \u062f\u0627\u062f \u06a9\u0647 \u0627\u06cc\u0646 \u067e\u0631\u0648\u062a\u0626\u06cc\u0646 \u0645\u0627\u0646\u0639 \u0627\u0632 \u062c\u2026",
+      "url": "https://www.entekhab.ir/fa/news/833080/\u201c\u0646\u0642\u0634-\u062d\u06cc\u0627\u062a\u06cc-\u067e\u0631\u0648\u062a\u0626\u06cc\u0646-ifitm3-\u062f\u0631-\u062c\u0644\u0648\u06af\u06cc\u0631\u06cc-\u0627\u0632-\u0639\u0641\u0648\u0646\u062a\u200c\u0647\u0627\u06cc-\u0634\u062f\u06cc\u062f-\u0622\u0646\u0641\u0648\u0644\u0627\u0646\u0632\u0627-\u0648-\u0633\u0627\u0632\u06af\u0627\u0631\u06cc-\u0648\u06cc\u0631\u0648\u0633\u200c\u0647\u0627-\u0628\u0627-\u0627\u0646\u0633\u0627\u0646\u201d",
+      "urlToImage": "https://cdn.entekhab.ir/files/fa/news/1403/8/26/1854209_239.jpeg",
+      "publishedAt": "2024-11-16 15:40:56",
+      "content": "(Entekhab.ir) : . . . . IFITM3 . . IFITM3 : . IFITM3 . (CDC) H5N1 . . IFITM3 .. IFITM3 . Nature Communications . IFITM3 ( ) . . IFITM3 . IFITM3 . H5N1 IFITM3 . . IFITM3 .. . \u2026 [+63 chars]",
+      "retrievedAt": "2024-11-17 19:05:49.201657",
+      "internal_id": "6b3f403f8b76e11d0591ca9069567174c7f6b4fa46ab50d1d163fba151a5c876",
+      "publishedAtLabel": "Nov 16"
+    },
+    {
+      "id": 15599,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "esquire.com",
+      "author": "Charles P. Pierce",
+      "title": "Donald Trump's Team Of Rejects Will Lead Us To Disaster",
+      "description": "Let's look to Argentina's battle with dengue for some clues about what our future might hold.",
+      "url": "https://www.esquire.com/news-politics/politics/a62925843/javier-milei-mar-a-lago-vist/",
+      "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/worker-sprays-chemicals-to-combat-mosquitoes-that-transmit-news-photo-1731759417.jpg?crop=1xw:0.74963xh;center,top&resize=1200:*",
+      "publishedAt": "2024-11-16 13:55:00",
+      "content": "(Permanent Musical Accompaniment To The Last Post Of The Week From The Blog's Favourite Living Canadian, And Belated Birthday Greetings To Him) There was a big hootenanny at Mar-a-Lago on Thursday \u2026 [+11441 chars]",
+      "retrievedAt": "2024-11-17 19:05:49.633358",
+      "internal_id": "4593277b70aeb50953bebfd09b897622fa75cbcfdeef1f4154424c935a066e91",
+      "publishedAtLabel": "Nov 16"
+    },
+    {
+      "id": 15600,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Tuttomercatoweb.com",
+      "author": "Andrea Piras",
+      "title": "Dia bloccato dalla malaria, l'epidemiologo: \"La trasmissione uomo-uomo non \u00e8 possibile\"",
+      "description": "Boulaye Dia \u00e8 bloccato in Senegal. L'attaccante della Lazio ha contratto il virus della malaria. Per fare luce sulla questione, l'edizione odierna del Corriere dello Sport ha contattato l'epidemiolog",
+      "url": "https://www.tuttomercatoweb.com/rassegna-stampa/dia-bloccato-dalla-malaria-l-epidemiologo-la-trasmissione-uomo-uomo-non-e-possibile-2035650",
+      "urlToImage": "https://tmw-storage.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/af/affb978accf34b25a678710dbc080474-40846-oooz0000.jpeg",
+      "publishedAt": "2024-11-16 08:23:00",
+      "content": "Boulaye Dia \u00e8 bloccato in Senegal. L'attaccante della Lazio ha contratto il virus della malaria. Per fare luce sulla questione, l'edizione odierna del Corriere dello Sport ha contattato l'epidemiolog\u2026 [+1180 chars]",
+      "retrievedAt": "2024-11-17 19:05:50.372818",
+      "internal_id": "50ca27ccb6358ba303b1936ab35328a5c4742d519cb88f9c5011fc62ab483305",
+      "publishedAtLabel": "Nov 16"
+    },
     {
       "id": 15593,
       "query": [
@@ -21170,132 +21332,6 @@
       "content": ", 7 . //. 35 . mpox ( ) , , 1 29 2024 . (). 35 525 mpox, 996 , . 23 29 4 098, - 156. mpox () - 30 766 990 . , 1 368 . . mpox 2022 11 2023 . , 14 . Mpox - , , . 1970 .",
       "retrievedAt": "2024-10-08 07:06:36.820755",
       "internal_id": "c8d41bd8a82c244700b16df93dce471063fff143fa71d152186b8512724ae634",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 14401,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Milenio",
-      "author": "Redacci\u00f3n",
-      "title": "QRoo avanza en la lucha contra el dengue: pasa del lugar 3 al 22 en casos nacionales",
-      "description": "Como resultado de la estrategia de lucha contra el dengue, Quintana Roo se encuentra en la posici\u00f3n n\u00famero 22 a nivel nacional por n\u00famero de casos, un logro hist\u00f3rico resultado de la estrategia, coordinaci\u00f3n e inversi\u00f3n.El gobierno de Mara Lezama Espinosa ha \u2026",
-      "url": "https://www.milenio.com/estados/quintana-roo-logra-reducir-casos-dengue",
-      "urlToImage": "https://cdn.milenio.com/uploads/media/2024/10/06/personal-salud-estrategia-combate-dengue.jpg",
-      "publishedAt": "2024-10-06 18:17:21",
-      "content": "Como resultado de la estrategia de lucha contra el dengue, Quintana Roo se encuentra en la posici\u00f3n n\u00famero 22a nivel nacional por n\u00famero de casos, un logro hist\u00f3rico resultado de la estrategia, coord\u2026 [+1233 chars]",
-      "retrievedAt": "2024-10-07 19:05:46.416575",
-      "internal_id": "fb8359d159b4770146ebb1fef0a0b941100a740e3096def2f8ea78203600662e",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 14441,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "BusinessLine",
-      "author": "G Naga Sridhar",
-      "title": "Putting cholera back in focus",
-      "description": "Cholera, a deadly diarrhoeal disease, is resurging globally, prompting calls for vaccination and improved public health measures.",
-      "url": "https://www.thehindubusinessline.com/specials/pulse/putting-cholera-back-in-focus/article68726024.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/miae01/article68726023.ece/alternates/LANDSCAPE_1200/2016-11-09T202739Z_932842931_S1AEULXCLNAA_RTRMADP_3_HAITI-CHOLERA.JPG",
-      "publishedAt": "2024-10-06 16:52:57",
-      "content": "In the rush to tackle emerging public health concerns like mpox and Covid-19, are diseases like cholera being overlooked? Rapid urbanisation, climate change, and conflicts are putting pressure on hea\u2026 [+3942 chars]",
-      "retrievedAt": "2024-10-09 07:07:06.985248",
-      "internal_id": "4dcf1791d2170865df6770b818e237aa6a0b1e38b356e6d79a9b97dff16a4ca3",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 14415,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Montevideo.com.uy",
-      "author": "Montevideo Portal",
-      "title": "El Congo, foco del brote de viruela del mono, comienza la campa\u00f1a de vacunaci\u00f3n",
-      "description": "La mpox, que comenz\u00f3 a expandirse desde la vecina Kivu del Sur, est\u00e1 presente ya en 23 de las 26 provincias del pa\u00eds.",
-      "url": "https://www.montevideo.com.uy/Salud/El-Congo-foco-del-brote-de-viruela-del-mono-comienza-la-campana-de-vacunacion-uc902427",
-      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202207/_W933_80/808770.jpg",
-      "publishedAt": "2024-10-06 16:15:00",
-      "content": "La Rep\u00fablica Democr\u00e1tica del Congo (RDC), foco del actual brote de viruela del mono (mpox), comenz\u00f3 este s\u00e1bado la campa\u00f1a de vacunaci\u00f3n contra la enfermedad en la provincia de Kivu del Norte, en \u2026 [+3683 chars]",
-      "retrievedAt": "2024-10-08 07:06:36.998521",
-      "internal_id": "a3a00c45095f9f7ae77bef5891de72e4eaad698431ee503d5d0cfb05251726c0",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 14406,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "New Zealand Herald",
-      "author": "Jamie Morton",
-      "title": "Scientists reveal first results of bird flu sampling; health plan shows how NZ would respond to human outbreak",
-      "description": "Sampling shows no sign of big-risk bird flu - but its NZ arrival is 'just matter of time'.",
-      "url": "https://www.nzherald.co.nz/nz/scientists-reveal-first-results-of-bird-flu-sampling-health-plan-shows-how-nz-would-respond-to-human-outbreak/ME7OORURMJHYDFCSVAHHBUIDRU/",
-      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/I5QUGT3H4AQADPWY2BXDCBLOFM.jpg?auth=507e06d0b5d82b1a5d186e3e57ff45ad9a4fb846b921f13034617d776f4b61b1&width=1200&height=675&quality=70&smart=true",
-      "publishedAt": "2024-10-06 16:00:00",
-      "content": "Oceania remains the last region yet to record a case of H5N1, which has killed nearly 300 million birds worldwide, including tens of thousands of endangered and endemic species. Scientists have been\u2026 [+3786 chars]",
-      "retrievedAt": "2024-10-08 07:06:33.254628",
-      "internal_id": "5461537a67c76376a7d1c1b0005341128e64d73f362306a24e3efdc3ab3eab6a",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 14402,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "la-nacion",
-      "source_name": "La Nacion",
-      "author": "Cintia Perazo",
-      "title": "Dengue: la nueva inteligencia artificial que usar\u00e1n en la provincia de Buenos Aires para intentar anticiparse a los brotes",
-      "description": "El programa, desarrollado por investigadores de la Unsam, ya se est\u00e1 probando y promete inferir cu\u00e1ntos mosquitos infectados habr\u00e1 en cada manzana del conurbano",
-      "url": "https://www.lanacion.com.ar/sociedad/dengue-la-nueva-inteligencia-artificial-que-usaran-en-la-provincia-de-buenos-aires-para-intentar-nid06102024/",
-      "urlToImage": "https://resizer.glanacion.com/resizer/v2/el-dengue-se-contagia-por-la-picadura-del-VYNUJTEDOFEQNNIQ4SPVPFIUCA.jpg?auth=241260c572bad34eade992656cf41cbdc3bf5b53ec8d7849f230ef7202a9c141&width=768&quality=70&smart=false",
-      "publishedAt": "2024-10-06 15:30:00",
-      "content": "Un equipo de investigadores de la Universidad Nacional de San Mart\u00edn (Unsam), liderado por Ezequiel \u00c1lvarez, est\u00e1 desarrollando un modelo de inteligencia artificial bayesiana que permitir\u00e1 anticipar \u2026 [+7718 chars]",
-      "retrievedAt": "2024-10-07 19:05:46.489307",
-      "internal_id": "199661668e62d7913ed09632ec701443735ed6c24b8bfd3dc7f6895c5f324940",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 14404,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "BBC News",
-      "author": "http://www.facebook.com/bbcnews",
-      "title": "\u0427\u043e\u043c\u0443 \u043c\u0456\u043d\u044f\u0442\u0438 \u043f\u043e\u0441\u0442\u0456\u043b\u044c\u043d\u0443 \u0431\u0456\u043b\u0438\u0437\u043d\u0443 \u0432\u0430\u0440\u0442\u043e \u0447\u0430\u0441\u0442\u0456\u0448\u0435",
-      "description": "\u041c\u0438 \u043f\u0440\u043e\u0432\u043e\u0434\u0438\u043c\u043e \u043d\u0430 \u043f\u0440\u043e\u0441\u0442\u0438\u0440\u0430\u0434\u043b\u0430\u0445 \u0456 \u043f\u043e\u0434\u0443\u0448\u043a\u0430\u0445 \u0442\u0440\u0435\u0442\u0438\u043d\u0443 \u0441\u0432\u043e\u0433\u043e \u0436\u0438\u0442\u0442\u044f \u0449\u043e\u0434\u043d\u044f, \u0456 \u0446\u0435\u0439 \u043a\u043e\u043d\u0442\u0430\u043a\u0442 \u0441\u0442\u0432\u043e\u0440\u044e\u0454 \u0456\u0434\u0435\u0430\u043b\u044c\u043d\u0435 \u0441\u0435\u0440\u0435\u0434\u043e\u0432\u0438\u0449\u0435 \u0434\u043b\u044f \u043a\u0443\u043f\u0438 \u043d\u0435\u0431\u0430\u0436\u0430\u043d\u0438\u0445 \u0433\u043e\u0441\u0442\u0435\u0439.",
-      "url": "https://www.bbc.com/ukrainian/articles/c17lxe84pk2o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_ukrainian/4a90/live/93eb8570-825d-11ef-a96a-4578729d5d06.jpg",
-      "publishedAt": "2024-10-06 12:57:11",
-      "content": "Article information , . , , . . , , , . - , , , . , . 500 , , , . , , . . 2013 , , . , , - S. aureus, , . \" , \", - , , . , Getty Images , , , , . 2018 , , , , . . 2022 , (mpox).\u2026 [+472 chars]",
-      "retrievedAt": "2024-10-07 19:05:48.100667",
-      "internal_id": "fac9e291a8c7df398968a765d17d6decda9bb0f861135150c7c7d0210073ff1c",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 14403,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "VOA News",
-      "author": "webdesk@voanews.com (Associated Press)",
-      "title": "Congo starts mpox vaccinations in effort to slow outbreaks",
-      "description": "GOMA, Congo \u2014 Congolese authorities on Saturday began vaccinations against mpox, nearly two months after the disease outbreak that spread from Congo to several African countries and beyond was declared a global emergency by the World Health Organization. Th\u2026",
-      "url": "https://www.voanews.com/a/congo-starts-mpox-vaccinations-in-effort-to-slow-outbreaks/7812086.html",
-      "urlToImage": "https://gdb.voanews.com/F2A047DA-F41F-406F-A699-3C87C334BCA6.jpg",
-      "publishedAt": "2024-10-06 07:11:34",
-      "content": "GOMA, Congo Congolese authorities on Saturday began vaccinations against mpox, nearly two months after the disease outbreak that spread from Congo to several African countries and beyond was declare\u2026 [+3282 chars]",
-      "retrievedAt": "2024-10-07 19:05:47.955180",
-      "internal_id": "fe487d05e9b2250a6d57ce4b443e1a3cd84340b29390439d476a26f8cd086a69",
       "publishedAtLabel": "Oct 6"
     }
   ]
