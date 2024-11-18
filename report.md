@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 51
-- **Last harvest:** 2024-11-18 07:07
-- **Most recent article:** 2024-11-17 06:24:47
+- **New articles in last harvest:** 19
+- **Last harvest:** 2024-11-18 19:05
+- **Most recent article:** 2024-11-17 19:00:40
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-41 | 24-42 | 24-43 | 24-44 | 24-45 | 24-46 | 24-47 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 40 | 81 | 131 | 75 | 63 | 62 | 10 | 462 |
-| dengue | 33 | 50 | 53 | 31 | 31 | 36 | 1 | 235 |
-| h5n1 | 9 | 18 | 12 | 61 | 36 | 40 | 2 | 178 |
+| mpox | 36 | 81 | 131 | 75 | 63 | 62 | 17 | 465 |
+| dengue | 31 | 50 | 53 | 31 | 31 | 36 | 7 | 239 |
+| h5n1 | 8 | 18 | 12 | 61 | 36 | 40 | 2 | 177 |
 | malaria | 13 | 18 | 58 | 16 | 26 | 33 | 1 | 165 |
-| measles | 5 | 3 | 1 | 13 | 3 | 32 | 1 | 58 |
-| rabies | 6 | 7 | 3 | 10 | 5 | 11 | 0 | 42 |
+| measles | 5 | 3 | 1 | 13 | 3 | 32 | 3 | 60 |
+| rabies | 6 | 7 | 3 | 10 | 5 | 11 | 1 | 43 |
 | zika | 4 | 6 | 6 | 3 | 9 | 4 | 0 | 32 |
-| pertussis | 2 | 9 | 3 | 1 | 3 | 8 | 1 | 27 |
-| chikungunya | 3 | 4 | 7 | 2 | 2 | 3 | 0 | 21 |
-| hpai | 1 | 2 | 2 | 7 | 4 | 4 | 0 | 20 |
+| pertussis | 2 | 9 | 3 | 1 | 3 | 8 | 2 | 28 |
+| chikungunya | 3 | 4 | 7 | 2 | 2 | 3 | 1 | 22 |
+| hpai | 1 | 2 | 2 | 7 | 4 | 4 | 1 | 21 |
 | meningitis | 2 | 1 | 6 | 3 | 5 | 2 | 0 | 19 |
 | leptospirosis | 1 | 1 | 0 | 3 | 10 | 3 | 0 | 18 |
 | typhoid | 0 | 1 | 3 | 4 | 1 | 1 | 0 | 10 |
@@ -33,11 +33,31 @@ Source: [News API](https://newsapi.org/)
 
 ---
 
+## 24-47 (rabies)
+
+- [Gorsuch: Peanut the Squirrel Shows Overreach of Government](https://legalinsurrection.com/2024/11/gorsuch-peanut-the-squirrel-shows-overreach-of-government/) (Legalinsurrection.com)
+
 ## 24-47 (pertussis)
+
+- [Whooping cough and pneumonia on the rise in Mass.](https://www.boston.com/news/health/2024/11/17/whooping-cough-and-pneumonia-on-the-rise-in-mass/) (Boston.com)
 
 - [What Does it Mean to Own the Next 4 Years?](https://sciencebasedmedicine.org/ownit2/) (Sciencebasedmedicine.org)
 
 ## 24-47 (mpox)
+
+- [US health officials report 1st case of new form of mpox in traveler](https://kutv.com/news/nation-world/us-health-officials-report-1st-case-of-new-form-of-mpox-in-traveler) (KUTV 2News)
+
+- [San Mateo County Reports First Known US Case of Emerging Mpox Strain](https://www.kqed.org/news/12014826/san-mateo-county-reports-first-known-u-s-case-of-emerging-mpox-strain) (KQED)
+
+- [US reports first known case of new strain of mpox](https://www.abc.net.au/news/2024-11-17/united-states-reports-first-clade-i-mpox-case/104612314) (ABC News (AU))
+
+- [Angop сообщило о первом случае заражения оспой обезьян в Анголе](https://tass.ru/obschestvo/22424001) (Tass.ru)
+
+- [Le premier cas d'infection par une nouvelle souche de mpox a été confirmé aux États-Unis](https://fr.sputniknews.africa/20241117/le-premier-cas-dinfection-par-une-nouvelle-souche-de-mpox-a-ete-confirme-aux-etats-unis-1069272599.html) (Sputniknews.africa)
+
+- [Primul caz de infectare cu noua tulpină mpox, confirmată în California](https://adevarul.ro/stiri-interne/sanatate/primul-caz-de-infectare-cu-noua-tulpina-mpox-2402181.html) (Adevarul.ro)
+
+- [Agresszívabb formája jelent meg a majomhimlőnek Amerikában](https://www.origo.hu/tudomany/2024/11/majomhimlo-mpox-amerika-kalifornia-egyes-klad) (Origo.hu)
 
 - [W Stanach Zjednoczonych wykryto pierwszy przypadek nowego wariantu mpox](https://tvn24.pl/swiat/usa-wirus-mpox-nowy-wariant-wykryty-w-stanach-zjednoczonych-st8182826) (Tvn24.pl)
 
@@ -61,11 +81,19 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-47 (measles)
 
+- [Measles: An avoidable surge](https://www.thehindubusinessline.com/specials/pulse/measles-an-avoidable-surge/article68878758.ece) (BusinessLine)
+
+- [WHO warns: Measles outbreak spreading alarmingly](https://www.jpost.com/health-and-wellness/article-829480) (The Jerusalem Post)
+
 - [What Does it Mean to Own the Next 4 Years?](https://sciencebasedmedicine.org/ownit2/) (Sciencebasedmedicine.org)
 
 ## 24-47 (malaria)
 
 - [Lazio, buone notizie dal Senegal: Dia non ha la malaria](https://www.tuttomercatoweb.com/serie-a/lazio-buone-notizie-dal-senegal-dia-non-ha-la-malaria-2035904) (Tuttomercatoweb.com)
+
+## 24-47 (hpai)
+
+- [Human Bird Flu Case Found In Oregon](https://www.shtfplan.com/headline-news/human-bird-flu-case-found-in-oregon) (Shtfplan.com)
 
 ## 24-47 (h5n1)
 
@@ -75,7 +103,23 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-47 (dengue)
 
+- [Klimawandel schürt Dengue-Fieber](https://www.welt.de/gesundheit/article254558630/Dengue-Fieber-Klimawandel-foerdert-Ausbreitung-von-Viren-und-deren-Uebertraegern.html) (DIE WELT)
+
+- [Children, parents campaign for "Climate Care, Dengue Free"](https://en.antaranews.com/news/334753/children-parents-campaign-for-climate-care-dengue-free) (Antaranews.com)
+
+- [Denguefieber: Forscher führen Anstieg der Dengue-Zahlen auf Klimawandel zurück](https://www.zeit.de/wissen/2024-11/denguefieber-klimawandel-ausbreitung-studie) (Die Zeit)
+
+- [Krankheiten: Studie: Klimawandel verschärft Ausbreitung des Denguefiebers](https://www.tagesspiegel.de/wissen/krankheiten-studie-klimawandel-verscharft-ausbreitung-des-denguefiebers-12720668.html) (Der Tagesspiegel)
+
+- [Krankheiten: Studie: Klimawandel verschärft Ausbreitung des Denguefiebers](https://www.stern.de/panorama/wissen/krankheiten--studie--klimawandel-verschaerft-ausbreitung-des-denguefiebers-35234784.html) (STERN.de)
+
+- [Bangladesh deaths from dengue cross 400 as outbreak worsens](https://www.thestar.com.my/news/world/2024/11/17/bangladesh-deaths-from-dengue-cross-400-as-outbreak-worsens) (The Star Online)
+
 - [Waspada DBD di Musim Hujan, Gerakan Satu Rumah Satu Jumantik Jadi Kunci Lawan Dengue](https://www.liputan6.com/health/read/5791891/waspada-dbd-di-musim-hujan-gerakan-satu-rumah-satu-jumantik-jadi-kunci-lawan-dengue) (Liputan6.com)
+
+## 24-47 (chikungunya)
+
+- [What to know about the Chikungunya vaccine and where to get it in B.C.](https://vancouversun.com/news/bc-residents-chikungunya-vaccine) (Vancouver Sun)
 
 ## 24-46 (zika)
 
@@ -2641,14 +2685,6 @@ Source: [News API](https://newsapi.org/)
 
 - [В Африке выявили более 35 тыс. случаев с подозрением на mpox с начала года](https://tass.ru/obschestvo/22056017) (Tass.ru)
 
-- [Putting cholera back in focus](https://www.thehindubusinessline.com/specials/pulse/putting-cholera-back-in-focus/article68726024.ece) (BusinessLine)
-
-- [El Congo, foco del brote de viruela del mono, comienza la campaña de vacunación](https://www.montevideo.com.uy/Salud/El-Congo-foco-del-brote-de-viruela-del-mono-comienza-la-campana-de-vacunacion-uc902427) (Montevideo.com.uy)
-
-- [Чому міняти постільну білизну варто частіше](https://www.bbc.com/ukrainian/articles/c17lxe84pk2o) (BBC News)
-
-- [Congo starts mpox vaccinations in effort to slow outbreaks](https://www.voanews.com/a/congo-starts-mpox-vaccinations-in-effort-to-slow-outbreaks/7812086.html) (VOA News)
-
 ## 24-41 (meningitis)
 
 - [Massachusetts pharmacist gets up to 15 years in prison for meningitis outbreak deaths](https://abcnews.go.com/US/wireStory/massachusetts-pharmacist-gets-15-years-prison-meningitis-outbreak-114734224) (ABC News)
@@ -2721,8 +2757,6 @@ Source: [News API](https://newsapi.org/)
 
 - [The US is ramping up bird flu surveillance – but will it be enough?](https://www.newscientist.com/article/2450743-the-us-is-ramping-up-bird-flu-surveillance-but-will-it-be-enough/) (New Scientist)
 
-- [Scientists reveal first results of bird flu sampling; health plan shows how NZ would respond to human outbreak](https://www.nzherald.co.nz/nz/scientists-reveal-first-results-of-bird-flu-sampling-health-plan-shows-how-nz-would-respond-to-human-outbreak/ME7OORURMJHYDFCSVAHHBUIDRU/) (New Zealand Herald)
-
 ## 24-41 (dengue)
 
 - [Prevenzione da Dengue a Pesaro, estesa la disinfestazione](https://www.ansa.it/marche/notizie/2024/10/12/prevenzione-da-dengue-a-pesaro-estesa-la-disinfestazione_6486dfc5-f7fe-42fa-94c1-7c1a874a7204.html) (ANSA.it)
@@ -2786,10 +2820,6 @@ Source: [News API](https://newsapi.org/)
 - [County health officials detect first case of dengue virus in Escondido](https://www.10news.com/news/local-news/north-county-news/county-health-officials-detect-first-case-of-dengue-virus-in-escondido) (10News)
 
 - [Implementan plan contra el dengue en Acapulco tras paso de 'John': ¿Cuándo inicia?](https://www.milenio.com/estados/plan-contra-el-dengue-en-acapulco-guerrero-tras-john) (Milenio)
-
-- [QRoo avanza en la lucha contra el dengue: pasa del lugar 3 al 22 en casos nacionales](https://www.milenio.com/estados/quintana-roo-logra-reducir-casos-dengue) (Milenio)
-
-- [Dengue: la nueva inteligencia artificial que usarán en la provincia de Buenos Aires para intentar anticiparse a los brotes](https://www.lanacion.com.ar/sociedad/dengue-la-nueva-inteligencia-artificial-que-usaran-en-la-provincia-de-buenos-aires-para-intentar-nid06102024/) (La Nacion)
 
 ## 24-41 (chikungunya)
 
