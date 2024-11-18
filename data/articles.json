@@ -1,8 +1,891 @@
 {
-  "last_updated": "2024-11-17 19:05",
-  "count_articles_total": 1182,
-  "count_articles_new": 9,
+  "last_updated": "2024-11-18 07:07",
+  "count_articles_total": 1240,
+  "count_articles_new": 51,
   "articles": [
+    {
+      "id": 15608,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "ynet",
+      "source_name": "Ynet",
+      "author": "\u05d9\u05d5\u05d2\u05d1 \u05d9\u05e9\u05e8\u05d0\u05dc\u05d9",
+      "title": "\u05ea\u05de\u05d5\u05ea\u05d4 \u05d4\u05de\u05d5\u05e0\u05d9\u05ea: \u05d3\u05d9\u05d5\u05d5\u05d7 \u05e8\u05d0\u05e9\u05d5\u05df \u05e2\u05dc \u05ea\u05d7\u05dc\u05d5\u05d0\u05d4 \u05d1\u05e9\u05e4\u05e2\u05ea \u05d4\u05e2\u05d5\u05e4\u05d5\u05ea \u05d1\u05e7\u05e8\u05d1 \u05d9\u05d5\u05e0\u05e7\u05d9\u05dd \u05d9\u05de\u05d9\u05d9\u05dd",
+      "description": "\u05e9\u05e4\u05e2\u05ea \u05d4\u05e2\u05d5\u05e4\u05d5\u05ea \u05d4\u05d9\u05d9\u05ea\u05d4 \u05d1\u05e2\u05d9\u05d4 \u05e9\u05e4\u05d2\u05e2\u05d4 \u05ea\u05d7\u05d9\u05dc\u05d4 \u05e8\u05e7 \u05d1\u05e2\u05d5\u05e4\u05d5\u05ea. \u05d0\u05d5\u05dc\u05dd \u05e2\u05d3 \u05de\u05d4\u05e8\u05d4 \u05d4\u05d6\u05df \u05d4\u05d0\u05dc\u05d9\u05dd H5N1, \u05d4\u05ea\u05e4\u05e9\u05d8 \u05d5\u05e4\u05d2\u05e2 \u05d1\u05de\u05d9\u05e0\u05d9\u05dd \u05e8\u05d1\u05d9\u05dd, \u05d1\u05d9\u05df \u05d4\u05d9\u05ea\u05e8 \u05d1\u05e4\u05d9\u05dc\u05d9 \u05d9\u05dd \u05d1\u05d0\u05e8\u05d2\u05e0\u05d8\u05d9\u05e0\u05d4 - \u05d4\u05de\u05e7\u05e8\u05d4 \u05d4\u05e8\u05d0\u05e9\u05d5\u05df \u05de\u05e1\u05d5\u05d2\u05d5 \u05d1\u05d9\u05df \u05d9\u05d5\u05e0\u05e7\u05d9\u05dd \u05d9\u05de\u05d9\u05d9\u05dd. \u05d4\u05d0\u05dd \u05d9\u05d9\u05de\u05e6\u05d0 \u05e4\u05ea\u05e8\u05d5\u05df \u05dc\u05d1\u05e2\u05d9\u05d4 \u05d1\u05e2\u05dc\u05ea \u05d4\u05d4\u05e9\u05dc\u05db\u05d5\u05ea \u05d4\u05d2\u05dc\u05d5\u05d1\u05dc\u05d9\u05d5\u05ea?",
+      "url": "https://www.ynet.co.il/environment-science/article/h1e4qbdgje",
+      "urlToImage": "https://ynet-pic1.yit.co.il/picserver5/crop_images/2024/11/12/r1GPK7bG1x/r1GPK7bG1x_0_6_2736_1541_0_large.jpg",
+      "publishedAt": "2024-11-17 06:24:47",
+      "content": ". , H5N1, -17 , -97% . , , . \" \", \" , . \" , , H5N1, \". , - . \" H5N1 B3.2, ( 2022)\", \" ( ). \" , . , \". , . \" \", , . \" . 2022. \". , \", . H5N1 \" -30 , , 2020.",
+      "retrievedAt": "2024-11-18 07:07:19.177023",
+      "internal_id": "ce934e0e0e2ac15087c1e5f773359cc92787c391cd7dfb5fbcb7e64f096da2ba",
+      "publishedAtLabel": "Nov 17"
+    },
+    {
+      "id": 15636,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Tvn24.pl",
+      "author": "ek/gp",
+      "title": "W Stanach Zjednoczonych wykryto pierwszy przypadek nowego wariantu mpox",
+      "description": "W Kalifornii wykryto pierwszy w Stanach Zjednoczonych przypadek nowego wariantu wirusa mpox. Stan zaka\u017conej osoby si\u0119 poprawia, przebywa w izolacji domowej.",
+      "url": "https://tvn24.pl/swiat/usa-wirus-mpox-nowy-wariant-wykryty-w-stanach-zjednoczonych-st8182826",
+      "urlToImage": "https://tvn24.pl/najnowsze/cdn-zdjecie-rmdssj-mpox-malpia-ospa-7544281/alternates/LANDSCAPE_1280",
+      "publishedAt": "2024-11-17 06:23:57",
+      "content": "W Kalifornii wykryto pierwszy w Stanach Zjednoczonych przypadek nowego wariantu wirusa mpox. Stan zakaonej osoby si poprawia, przebywa w izolacji domowej. W sobot Centrum Kontroli i Zapobiegania Ch\u2026 [+1281 chars]",
+      "retrievedAt": "2024-11-18 07:07:22.080999",
+      "internal_id": "e4cbff578f0304adb966da1cc60984addbc85c0e6cf2bd355f2af45951c0dd0f",
+      "publishedAtLabel": "Nov 17"
+    },
+    {
+      "id": 15615,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Tuttomercatoweb.com",
+      "author": "Lorenzo Beccarisi",
+      "title": "Lazio, buone notizie dal Senegal: Dia non ha la malaria",
+      "description": "Arrivano buone notizie per la Lazio dal Senegal. Dopo l'allarme scattato a met\u00e0 settimana sulle condizioni di Boulaye Dia, nella serata di ieri \u00e8 stata confermata la negativit\u00e0 dei test svolti dall",
+      "url": "https://www.tuttomercatoweb.com/serie-a/lazio-buone-notizie-dal-senegal-dia-non-ha-la-malaria-2035904",
+      "urlToImage": "https://tmw-storage.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/af/affb978accf34b25a678710dbc080474-40846-oooz0000.jpeg",
+      "publishedAt": "2024-11-17 05:30:00",
+      "content": "Arrivano buone notizie per la Lazio dal Senegal. Dopo l'allarme scattato a met\u00e0 settimana sulle condizioni di Boulaye Dia, nella serata di ieri \u00e8 stata confermata la negativit\u00e0 dei test svolti dall'a\u2026 [+1802 chars]",
+      "retrievedAt": "2024-11-18 07:07:20.533479",
+      "internal_id": "fa37e3bc92a00b97d628dc3efc2fabd29ea72410c62795a0ee34d721c802479f",
+      "publishedAtLabel": "Nov 17"
+    },
+    {
+      "id": 15607,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Microbe.tv",
+      "author": "Vincent Racaniello",
+      "title": "TWiV 1167: Virus cloak and entry",
+      "description": "TWiV reveals a novel H5N1 reassortant virus in Cambodia, circulating vaccine derived poliovirus type 2 in more countries, circulation in the blood of humans of infectious parvovirus B19 coated with active proteases, and B cell receptor dependent enhancement o\u2026",
+      "url": "https://www.microbe.tv/twiv/twiv-1167/",
+      "urlToImage": null,
+      "publishedAt": "2024-11-17 05:00:00",
+      "content": "TWiV reveals a novel H5N1 reassortant virus in Cambodia, circulating vaccine derived poliovirus type 2 in more countries, circulation in the blood of humans of infectious parvovirus B19 coated with a\u2026 [+820 chars]",
+      "retrievedAt": "2024-11-18 07:07:19.169672",
+      "internal_id": "b70a19cf6bf450f701f36b5a7f032cf479f43df3803cddc4ef7e376b914960fb",
+      "publishedAtLabel": "Nov 17"
+    },
+    {
+      "id": 15630,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Life.ru",
+      "author": "\u0422\u0438\u043c\u0443\u0440 \u0425\u0438\u043d\u0433\u0435\u0435\u0432",
+      "title": "\u0412 \u0421\u0428\u0410 \u043f\u043e\u0434\u0442\u0432\u0435\u0440\u0436\u0434\u0451\u043d \u043f\u0435\u0440\u0432\u044b\u0439 \u0441\u043b\u0443\u0447\u0430\u0439 \u0437\u0430\u0440\u0430\u0436\u0435\u043d\u0438\u044f \u0442\u044f\u0436\u0451\u043b\u044b\u043c \u0448\u0442\u0430\u043c\u043c\u043e\u043c \u043e\u0441\u043f\u044b \u043e\u0431\u0435\u0437\u044c\u044f\u043d",
+      "description": "\u041e\u0440\u0433\u0430\u043d\u044b \u0437\u0434\u0440\u0430\u0432\u043e\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f \u0421\u0428\u0410 \u043f\u043e\u0434\u0442\u0432\u0435\u0440\u0434\u0438\u043b\u0438 \u043f\u0435\u0440\u0432\u044b\u0439 \u0441\u043b\u0443\u0447\u0430\u0439 \u0437\u0430\u0440\u0430\u0436\u0435\u043d\u0438\u044f \u043d\u043e\u0432\u044b\u043c \u0448\u0442\u0430\u043c\u043c\u043e\u043c \u0432\u0438\u0440\u0443\u0441\u0430 mpox (\u041e\u0441\u043f\u0430 \u043e\u0431\u0435\u0437\u044c\u044f\u043d), \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0431\u044b\u043b \u0432\u043f\u0435\u0440\u0432\u044b\u0435 \u0432\u044b\u044f\u0432\u043b\u0435\u043d \u0432 \u0412\u043e\u0441\u0442\u043e\u0447\u043d\u043e\u0439 \u0410\u0444\u0440\u0438\u043a\u0435. \u041e\u0431 \u044d\u0442\u043e\u043c \u0441\u043e\u043e\u0431\u0449\u0430\u0435\u0442 \u0430\u0433\u0435\u043d\u0442\u0441\u0442\u0432\u043e Associated Press.\u0427\u0438\u0442\u0430\u0442\u044c \u0434\u0430\u043b\u0435\u0435...",
+      "url": "https://life.ru/p/1703550",
+      "urlToImage": "https://static.life.ru/publications/2024/8/15/364148265888.2652.webp",
+      "publishedAt": "2024-11-17 04:51:36",
+      "content": "mpox ( ), . Associated Press. . , . , , . , . () , 22 . .",
+      "retrievedAt": "2024-11-18 07:07:22.020503",
+      "internal_id": "57f94219cea90c839093c33ef3893875d0c32e3046f8d4f47b74e8a57730c17e",
+      "publishedAtLabel": "Nov 17"
+    },
+    {
+      "id": 15626,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Tass.ru",
+      "author": null,
+      "title": "\u0412 \u0421\u0428\u0410 \u0432\u044b\u044f\u0432\u0438\u043b\u0438 \u043f\u0435\u0440\u0432\u044b\u0439 \u0441\u043b\u0443\u0447\u0430\u0439 \u0437\u0430\u0440\u0430\u0436\u0435\u043d\u0438\u044f \u043d\u043e\u0432\u044b\u043c \u0448\u0442\u0430\u043c\u043c\u043e\u043c \u043e\u0441\u043f\u044b \u043e\u0431\u0435\u0437\u044c\u044f\u043d",
+      "description": "\u041a\u0430\u043a \u0441\u043e\u043e\u0431\u0449\u0438\u043b \u041a\u0430\u043b\u0438\u0444\u043e\u0440\u043d\u0438\u0439\u0441\u043a\u0438\u0439 \u0434\u0435\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442 \u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0437\u0434\u0440\u0430\u0432\u043e\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f, \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0448\u0435\u0433\u043e \u0438\u0437\u043e\u043b\u0438\u0440\u043e\u0432\u0430\u043b\u0438 \u043e\u0442 \u043a\u043e\u043d\u0442\u0430\u043a\u0442\u043e\u0432 \u0441 \u0434\u0440\u0443\u0433\u0438\u043c\u0438 \u043b\u044e\u0434\u044c\u043c\u0438",
+      "url": "https://tass.ru/obschestvo/22422651",
+      "urlToImage": "https://cdn-storage-media.tass.ru/thumb/ru/obschestvo/22422651?u=2024-11-17T04:39:57.929391",
+      "publishedAt": "2024-11-17 04:39:57",
+      "content": "-, 17 . //. (mpox) -. -, . , . , . , , . , , , . , , . 1 2024 50 840 . - 1 083. 2023 545%. . 85,8% 99,4% . - , , . 1970 . mpox 10%.",
+      "retrievedAt": "2024-11-18 07:07:21.989128",
+      "internal_id": "aec81f0f15335a01fa5d8a4dd78591a19282316c92e60a90279f96d3d7e351f8",
+      "publishedAtLabel": "Nov 17"
+    },
+    {
+      "id": 15635,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "lenta",
+      "source_name": "Lenta",
+      "author": "\u0415\u0432\u0433\u0435\u043d\u0438\u0439 \u0421\u0438\u043b\u0430\u0435\u0432",
+      "title": "\u0412 \u0421\u0428\u0410 \u0437\u0430\u0444\u0438\u043a\u0441\u0438\u0440\u043e\u0432\u0430\u043b\u0438 \u043f\u0435\u0440\u0432\u044b\u0439 \u0441\u043b\u0443\u0447\u0430\u0439 \u0437\u0430\u0440\u0430\u0436\u0435\u043d\u0438\u044f \u0442\u044f\u0436\u0435\u043b\u044b\u043c \u0448\u0442\u0430\u043c\u043c\u043e\u043c",
+      "description": "\u041f\u0435\u0440\u0432\u044b\u0439 \u0441\u043b\u0443\u0447\u0430\u0439 \u0437\u0430\u0440\u0430\u0436\u0435\u043d\u0438\u044f \u0442\u044f\u0436\u0435\u043b\u044b\u043c \u0448\u0442\u0430\u043c\u043c\u043e\u043c mpox (\u0441lade I, \u043e\u0441\u043f\u0430 \u043e\u0431\u0435\u0437\u044c\u044f\u043d) \u0437\u0430\u0444\u0438\u043a\u0441\u0438\u0440\u043e\u0432\u0430\u043b\u0438 \u0432 \u0448\u0442\u0430\u0442\u0435 \u041a\u0430\u043b\u0438\u0444\u043e\u0440\u043d\u0438\u044f (\u0421\u0428\u0410). \u041e\u0431 \u044d\u0442\u043e\u043c \u0441\u043e\u043e\u0431\u0449\u0438\u043b \u0442\u0435\u043b\u0435\u043a\u0430\u043d\u0430\u043b CNN",
+      "url": "https://lenta.ru/news/2024/11/17/v-ssha-zafiksirovali-pervyy-sluchay-zarazheniya-tyazhelym-shtammom/",
+      "urlToImage": "https://icdn.lenta.ru/images/2024/11/17/07/20241117073752989/share_ee7d3d6aa7e9a2b2fca110ec408ed550.jpg",
+      "publishedAt": "2024-11-17 04:31:00",
+      "content": "",
+      "retrievedAt": "2024-11-18 07:07:22.069144",
+      "internal_id": "135b584853a5792d3f2b746a5d9c25b2f6bc50a95aaf291753ccff2e24fe4dc2",
+      "publishedAtLabel": "Nov 17"
+    },
+    {
+      "id": 15650,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": "Jasmine Baehr",
+      "title": "First known case of rare mpox strain confirmed in United States",
+      "description": "A new strain of mpox has been confirmed on American shores after a traveler returned to California from a visit to Africa, but risk to the public remains \"very low.\"",
+      "url": "https://www.foxnews.com/health/first-case-rare-strain-mpox-confirmed-united-states",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/11/new-monkeypox-strain.jpg",
+      "publishedAt": "2024-11-17 03:42:18",
+      "content": "The California Department of Public Health (CDPH) has reported the first known U.S. case of an emerging strain of the mpox virus, according to a CDPH release Saturday. The case of \"clade I mpox\" was\u2026 [+2473 chars]",
+      "retrievedAt": "2024-11-18 07:07:22.199489",
+      "internal_id": "9f90562455a0c95c4029d608f421f1f51e6bafc9d48649353fd209e230cb1697",
+      "publishedAtLabel": "Nov 17"
+    },
+    {
+      "id": 15614,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Liputan6.com",
+      "author": "Dyah Puspita Wisnuwardani",
+      "title": "Waspada DBD di Musim Hujan, Gerakan Satu Rumah Satu Jumantik Jadi Kunci Lawan Dengue",
+      "description": "Untuk mencegah penyebaran DBD, Kementerian Kesehatan terus menggalakkan gerakan pemberantasan sarang nyamuk, terutama melalui kampanye Satu Rumah Satu Jumantik yang bertujuan menempatkan juru pemantau jentik di setiap rumah.",
+      "url": "https://www.liputan6.com/health/read/5791891/waspada-dbd-di-musim-hujan-gerakan-satu-rumah-satu-jumantik-jadi-kunci-lawan-dengue",
+      "urlToImage": "https://cdn0-production-images-kly.akamaized.net/bwaS5B3e33x9xScoBm_gdUIaLO4=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/4692965/original/021595000_1703062289-Ilustrasi_hujan__payung.jpg",
+      "publishedAt": "2024-11-17 02:37:58",
+      "content": "DBD mengalami penyebaran yang makin luas di Indonesia. Di tahun 2024, daerah yang terjangkit mencapai 482 kabupaten/kota. Selain itu, siklus penyebaran DBD yang dulu rata-rata 10 tahun kini menjadi t\u2026 [+899 chars]",
+      "retrievedAt": "2024-11-18 07:07:19.652615",
+      "internal_id": "be11218daabc85b95bb06b24a2c164d6177ec4a6483114e5f2fdec8d5dc9b63f",
+      "publishedAtLabel": "Nov 17"
+    },
+    {
+      "id": 15605,
+      "query": [
+        "pertussis",
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Sciencebasedmedicine.org",
+      "author": "Jonathan Howard",
+      "title": "What Does it Mean to Own the Next 4 Years?",
+      "description": "It means pertussis and measles outbreaks will be happening under your watch and you'll be held responsible while your boss is an anti-vaxx crank. Enjoy! The post What Does it Mean to Own the Next 4 Years? first appeared on Science-Based Medicine.",
+      "url": "https://sciencebasedmedicine.org/ownit2/",
+      "urlToImage": "https://sciencebasedmedicine.org/wp-content/uploads/2024/11/image-17.png",
+      "publishedAt": "2024-11-17 02:31:03",
+      "content": "His sometimes eccentric scientific claims, from vaccines to AIDS My previous article was titled If You Sanewashed RFK Jr., Or If You Sanewashed Doctors Who Did, You Own the Next 4 Years. Let me expl\u2026 [+4813 chars]",
+      "retrievedAt": "2024-11-18 07:07:16.999596",
+      "internal_id": "5b8e794e1d73fbe338e7bc7f439cb570542dfabcd529e57703b4d826d8c85757",
+      "publishedAtLabel": "Nov 17"
+    },
+    {
+      "id": 15639,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "DW (English)",
+      "author": "Deutsche Welle",
+      "title": "US reports first case of new mpox variant",
+      "description": "The first case of clade I mpox was reported in California, the CDC said. The individual was treated and is now isolating at home. US health officials confirmed a case of the clade I mpox in California on Saturday. This is the first case of the strain in the U\u2026",
+      "url": "https://www.dw.com/en/us-reports-first-case-of-new-mpox-variant/a-70802996",
+      "urlToImage": "https://static.dw.com/image/70802994_6.jpg",
+      "publishedAt": "2024-11-17 02:30:00",
+      "content": "US health officials confirmed a case of the clade I mpox in California on Saturday. This is the first case of the strain in the United States. The Centers for Disease Control and Prevention (CDC) sa\u2026 [+1957 chars]",
+      "retrievedAt": "2024-11-18 07:07:22.106374",
+      "internal_id": "b31d56255464448aebbec27656879a2621d113dcfc7d25139dfd15a042516dc4",
+      "publishedAtLabel": "Nov 17"
+    },
+    {
+      "id": 15619,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Gonzalo Zegarra",
+      "title": "Confirman primer caso en EE.UU. de una cepa m\u00e1s grave de mpox o viruela del mono en California",
+      "description": "El primer caso conocido en los Estados Unidos de una cepa m\u00e1s grave de viruela del mono o mpox se confirm\u00f3 en California, seg\u00fan informaron este s\u00e1bado los Centros para el Control y la Prevenci\u00f3n de Enfermedades de los EE.UU. (CDC). El riesgo de viruela del mo\u2026",
+      "url": "https://cnnespanol.cnn.com/2024/11/16/primer-caso-ee-uu-cepa-grave-viruela-mono-mpox-california-trax",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1782401-26500-copy.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-11-17 02:27:25",
+      "content": "(CNN) El primer caso conocido en los Estados Unidos de una cepa m\u00e1s severa de mpox o viruela del mono se confirm\u00f3 en California, informaron este s\u00e1bado los Centros para el Control y la Prevenci\u00f3n de \u2026 [+3464 chars]",
+      "retrievedAt": "2024-11-18 07:07:21.937810",
+      "internal_id": "8aa8ae12726967182bb8239a69e506ebf07b0224fae9c180d7fc628e83fac4de",
+      "publishedAtLabel": "Nov 17"
+    },
+    {
+      "id": 15625,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "VOA News",
+      "author": "webdesk@voanews.com (Associated Press)",
+      "title": "Health officials report first case of new form of mpox in US",
+      "description": "NEW YORK \u2014 Health officials said Saturday they have confirmed the first U.S. case of a new form of mpox that was first seen in eastern Congo. The person had traveled to eastern Africa and was treated in Northern California upon return, according to the Cal\u2026",
+      "url": "https://www.voanews.com/a/health-officials-report-first-case-of-new-form-of-mpox-in-us/7866681.html",
+      "urlToImage": "https://gdb.voanews.com/0185AAF4-31F6-46DB-9DAD-926208327180.jpg",
+      "publishedAt": "2024-11-17 01:33:09",
+      "content": "NEW YORK Health officials said Saturday they have confirmed the first U.S. case of a new form of mpox that was first seen in eastern Congo. The person had traveled to eastern Africa and was treate\u2026 [+1938 chars]",
+      "retrievedAt": "2024-11-18 07:07:21.982791",
+      "internal_id": "c47926171a549dab69c8c29808e97eece44eb105033c0036fcf003a00ed7e523",
+      "publishedAtLabel": "Nov 17"
+    },
+    {
+      "id": 15631,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Ferra.ru",
+      "author": "\u0410\u043d\u0434\u0440\u0435\u0439 \u041a\u0430\u0434\u0443\u043a\u043e\u0432",
+      "title": "\u0412 \u0421\u0428\u0410 \u0432\u044b\u044f\u0432\u0438\u043b\u0438 \u043f\u0435\u0440\u0432\u044b\u0439 \u0441\u043b\u0443\u0447\u0430\u0439 \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0430\u043d\u0438\u044f \u0442\u044f\u0436\u0451\u043b\u044b\u043c \u0448\u0442\u0430\u043c\u043c\u043e\u043c \u043e\u0441\u043f\u044b \u043e\u0431\u0435\u0437\u044c\u044f\u043d",
+      "description": "\u0412 \u0421\u0428\u0410, \u0432 \u0448\u0442\u0430\u0442\u0435 \u041a\u0430\u043b\u0438\u0444\u043e\u0440\u043d\u0438\u044f, \u0437\u0430\u0444\u0438\u043a\u0441\u0438\u0440\u043e\u0432\u0430\u043d \u043f\u0435\u0440\u0432\u044b\u0439 \u0441\u043b\u0443\u0447\u0430\u0439 \u0442\u044f\u0436\u0451\u043b\u043e\u0433\u043e \u0448\u0442\u0430\u043c\u043c\u0430 mpox \u2014 \u043e\u0441\u043f\u044b \u043e\u0431\u0435\u0437\u044c\u044f\u043d. \u041e\u0431 \u044d\u0442\u043e\u043c \u0437\u0430\u044f\u0432\u0438\u043b\u0430 \u043f\u0440\u0435\u0441\u0441-\u0441\u043b\u0443\u0436\u0431\u0430 \u0426\u0435\u043d\u0442\u0440\u043e\u0432 \u043f\u043e \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044e \u0438 \u043f\u0440\u043e\u0444\u0438\u043b\u0430\u043a\u0442\u0438\u043a\u0435 \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0430\u043d\u0438\u0439 \u0421\u0428\u0410 (CDC).",
+      "url": "https://www.ferra.ru/news/health/v-ssha-vyyavili-pervyi-sluchai-zabolevaniya-tyazhyolym-shtammom-ospy-obezyan-17-11-2024.htm",
+      "urlToImage": "https://www.ferra.ru/imgs/2024/11/17/01/6657620/7edfd9357c30ef2ed2d2f6d99aab888bb07711b9.jpg",
+      "publishedAt": "2024-11-17 01:23:21",
+      "content": ", , . mpox. . \u00ab clade I mpox , mpox. , \u00bb, CDC.",
+      "retrievedAt": "2024-11-18 07:07:22.026922",
+      "internal_id": "8f17068de6c75205bc8416b91eb570d56a5baa44121d43ea2ac958f3a4c66a9d",
+      "publishedAtLabel": "Nov 17"
+    },
+    {
+      "id": 15654,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "Youri Benadjaoud",
+      "title": "California confirms first US case of more severe mpox strain -- but risk to public remains low",
+      "description": "California confirms first US case of more severe mpox strain -- but risk to public remains lowgo.com",
+      "url": "https://abcnews.go.com/Health/california-confirms-us-case-severe-mpox-strain-risk/story?id=115936257",
+      "urlToImage": "https://i.abcnewsfe.com/a/74fc8b83-2a86-448c-b6c5-d20ffac076f0/monkeypox-gty-er-230515_1684180461938_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2024-11-17 01:02:25",
+      "content": "Health officials in California have confirmed the first domestic case of a more severe strain of mpox in a traveler from Eastern Africa, according to the U.S. Centers for Disease Control and Preventi\u2026 [+1436 chars]",
+      "retrievedAt": "2024-11-18 07:07:22.230879",
+      "internal_id": "c6affa67c38bb352410c9d587b0f4e4660eaeb49263d262a9e215e1dd4ec3c35",
+      "publishedAtLabel": "Nov 17"
+    },
+    {
+      "id": 15645,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "WISN Milwaukee",
+      "author": "Jamie Gumbrecht",
+      "title": "United States' first known case of more severe strain of mpox confirmed in California",
+      "description": "The person diagnosed with clade I mpox had recently traveled from Eastern Africa, where an mpox outbreak is ongoing.",
+      "url": "https://www.wisn.com/article/first-known-case-severe-strain-mpox-california/62927067",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/cnn-l19jb21wb25lbnrzl2ltywdll2luc3rhbmnlcy9jbtnranvnmjmwmdbum2i2bwt3emh5exg0-l19jb21wb25lbnrzl2fydgljbguvaw5zdgfuy2vzl2ntm2tqbdi1ejawmw8yy3fxodfrzzvtbgq-jpg-67392a68ad86b.jpg?crop=1.00xw:0.657xh;0,0.00560xh&resize=1200:*",
+      "publishedAt": "2024-11-16 23:44:48",
+      "content": "The United States' first known case of a more severe strain of mpox was confirmed in California, the U.S. Centers for Disease Control and Prevention said Saturday. The risk of clade I mpox to the pub\u2026 [+2856 chars]",
+      "retrievedAt": "2024-11-18 07:07:22.167341",
+      "internal_id": "8ecc15cecd85da82e451e268ada40c734c8174e17daaa8c614fbc6b462172fda",
+      "publishedAtLabel": "Nov 16"
+    },
+    {
+      "id": 15646,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "WXII12 Winston-Salem",
+      "author": "Jamie Gumbrecht",
+      "title": "United States' first known case of more severe strain of mpox confirmed in California",
+      "description": "The person diagnosed with clade I mpox had recently traveled from Eastern Africa, where an mpox outbreak is ongoing.",
+      "url": "https://www.wxii12.com/article/first-known-case-severe-strain-mpox-california/62927067",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/cnn-l19jb21wb25lbnrzl2ltywdll2luc3rhbmnlcy9jbtnranvnmjmwmdbum2i2bwt3emh5exg0-l19jb21wb25lbnrzl2fydgljbguvaw5zdgfuy2vzl2ntm2tqbdi1ejawmw8yy3fxodfrzzvtbgq-jpg-67392a68ad86b.jpg?crop=1.00xw:0.657xh;0,0.00560xh&resize=1200:*",
+      "publishedAt": "2024-11-16 23:43:23",
+      "content": "The United States' first known case of a more severe strain of mpox was confirmed in California, the U.S. Centers for Disease Control and Prevention said Saturday. The risk of clade I mpox to the pub\u2026 [+2856 chars]",
+      "retrievedAt": "2024-11-18 07:07:22.173944",
+      "internal_id": "aa177bcaf4f9d1426b010b63d5f6249ea1ef233cf8f5b4c6cf7b9b653a24871b",
+      "publishedAtLabel": "Nov 16"
+    },
+    {
+      "id": 15647,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "WESH Orlando",
+      "author": "Jamie Gumbrecht",
+      "title": "United States' first known case of more severe strain of mpox confirmed in California",
+      "description": "The person diagnosed with clade I mpox had recently traveled from Eastern Africa, where an mpox outbreak is ongoing.",
+      "url": "https://www.wesh.com/article/first-known-case-severe-strain-mpox-california/62927067",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/cnn-l19jb21wb25lbnrzl2ltywdll2luc3rhbmnlcy9jbtnranvnmjmwmdbum2i2bwt3emh5exg0-l19jb21wb25lbnrzl2fydgljbguvaw5zdgfuy2vzl2ntm2tqbdi1ejawmw8yy3fxodfrzzvtbgq-jpg-67392a68ad86b.jpg?crop=1.00xw:0.657xh;0,0.00560xh&resize=1200:*",
+      "publishedAt": "2024-11-16 23:41:18",
+      "content": "The United States' first known case of a more severe strain of mpox was confirmed in California, the U.S. Centers for Disease Control and Prevention said Saturday. The risk of clade I mpox to the pub\u2026 [+2856 chars]",
+      "retrievedAt": "2024-11-18 07:07:22.180145",
+      "internal_id": "7d94a49ff3d97bbe053d4b4e89de35e4b60d63bfe799956a0409cd737df86a3c",
+      "publishedAtLabel": "Nov 16"
+    },
+    {
+      "id": 15622,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Mandy Taheri",
+      "title": "More Severe Mpox Strain Appears in US: What We Know",
+      "description": "California confirmed the first case of clade I mpox on Saturday.",
+      "url": "https://www.newsweek.com/more-severe-mpox-strain-appears-us-what-we-know-1986977",
+      "urlToImage": "https://d.newsweek.com/en/full/2522787/mpox.jpg",
+      "publishedAt": "2024-11-16 23:16:03",
+      "content": "The California Department of Health confirmed on Saturday the first case of clade I mpox in the United States. Where Is the Case? The first confirmed case of clade I mpox is in California after th\u2026 [+3341 chars]",
+      "retrievedAt": "2024-11-18 07:07:21.957995",
+      "internal_id": "02926802652ba80fcff658567bec3a3f94a6ca5676f6351930466adad0a3092f",
+      "publishedAtLabel": "Nov 16"
+    },
+    {
+      "id": 15624,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Observador.pt",
+      "author": "Ag\u00eancia Lusa",
+      "title": "Detetado primeiro caso de nova variante de mpox nos EUA",
+      "description": "As autoridades sanit\u00e1rias confirmaram o primeiro caso nos Estados Unidos de uma nova variante de mpox que foi detetada pela primeira vez no leste do Congo.",
+      "url": "https://observador.pt/2024/11/16/detetado-primeiro-caso-de-nova-variante-de-mpox-nos-eua/",
+      "urlToImage": "https://wm.observador.pt/wm/obs/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1124%3Anowe%3A0%3A104%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2024%2F11%2F16210918%2F39155588.jpg",
+      "publishedAt": "2024-11-16 23:09:19",
+      "content": "As autoridades sanit\u00e1rias disseram este s\u00e1bado que confirmaram o primeiro caso nos Estados Unidos de uma nova variante de mpox que foi detetada pela primeira vez no leste do Congo. A pessoa afetada \u2026 [+1249 chars]",
+      "retrievedAt": "2024-11-18 07:07:21.976462",
+      "internal_id": "1a6905c722bba29327144db834ba1b6c39186c4ad835bf262ae43e71310d1c53",
+      "publishedAtLabel": "Nov 16"
+    },
+    {
+      "id": 15653,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Sky.com",
+      "author": "Dylan Donnelly",
+      "title": "First case of new Mpox strain recorded in US, California health officials say",
+      "description": "First case of new Mpox strain recorded in US, California health officials saysky.com",
+      "url": "https://news.sky.com/story/first-case-of-new-mpox-strain-recorded-in-us-california-health-officials-say-13255388",
+      "urlToImage": "https://e3.365dm.com/24/10/1600x900/skynews-monkeypox-mpox_6724137.jpg?20241022133257",
+      "publishedAt": "2024-11-16 23:06:33",
+      "content": "A case of Clade 1b mpox has been recorded in the US for the first time, health officials have said. It was detected in northern California after a person returned from eastern Africa, the California\u2026 [+1693 chars]",
+      "retrievedAt": "2024-11-18 07:07:22.223938",
+      "internal_id": "4f737ee2adfdee1900ea0815088dbf4de8dc8cca434e6805bf7201f0fb498cd9",
+      "publishedAtLabel": "Nov 16"
+    },
+    {
+      "id": 15610,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "VOA News",
+      "author": "webdesk@voanews.com (Agence France-Presse)",
+      "title": "Researchers blame climate change for one fifth of dengue cases",
+      "description": "paris \u2014 Climate change is responsible for nearly a fifth of the record number of dengue cases worldwide this year, U.S. researchers said Saturday, seeking to shine a light on how rising temperatures help spread disease. Researchers have been working to dem\u2026",
+      "url": "https://www.voanews.com/a/fifth-of-dengue-cases-due-to-climate-change-researchers-/7866482.html",
+      "urlToImage": "https://gdb.voanews.com/E017032E-EB08-4FCE-8C26-8724CC217A59.jpg",
+      "publishedAt": "2024-11-16 22:45:51",
+      "content": "paris Climate change is responsible for nearly a fifth of the record number of dengue cases worldwide this year, U.S. researchers said Saturday, seeking to shine a light on how rising temperatures h\u2026 [+3311 chars]",
+      "retrievedAt": "2024-11-18 07:07:19.560190",
+      "internal_id": "5b1b9399253787e40aae135a3f9b00bd0e1637ccc2b1265d363bd1fd1b4a71eb",
+      "publishedAtLabel": "Nov 16"
+    },
+    {
+      "id": 15640,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "PBS",
+      "author": "PBS News Weekend",
+      "title": "News Wrap: Israel targets eastern and southern Lebanon with more deadly airstrikes",
+      "description": "In our news wrap Saturday, Israeli airstrikes killed at least 16 people in Lebanon and Gaza, a patient in California is being treated for a new form of mpox first seen in eastern Congo, prosecutors allege Sean \"Diddy\" Combs is trying to obstruct justice while\u2026",
+      "url": "https://www.pbs.org/newshour/show/news-wrap-israel-targets-eastern-and-southern-lebanon-with-more-deadly-airstrikes",
+      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2024/11/NewsWrap-15-1024x683.jpg",
+      "publishedAt": "2024-11-16 22:45:35",
+      "content": "In our news wrap Saturday, Israeli airstrikes killed at least 16 people in Lebanon and Gaza, a patient in California is being treated for a new form of mpox first seen in eastern Congo, prosecutors a\u2026 [+186 chars]",
+      "retrievedAt": "2024-11-18 07:07:22.123728",
+      "internal_id": "7acae83fe95b49e8a7c1c528f540ca7f59ac2b198c29ed0dda56b5c53712f733",
+      "publishedAtLabel": "Nov 16"
+    },
+    {
+      "id": 15652,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Newsbreak.com",
+      "author": "Jamie Gumbrecht",
+      "title": "United States\u2019 first known case of more severe strain of mpox confirmed in California",
+      "description": "The United States\u2019 first known case of a more severe strain of mpox was confirmed in California, the US Centers for Disease Control and Prevention said Saturday. The risk of clade I mpox to the public remains low, the agency said.",
+      "url": "https://www.newsbreak.com/share/3677520160840-united-states-first-known-case-of-more-severe-strain-of-mpox-confirmed-in-california?s=a2&amp;share_destination_id=MTkwMDE2MzI3LTE3MzE3OTcwNjQ5OTY%3D&amp;pd=0CrHvTAd&amp;hl=en_US&amp;send_time=1731797065&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2224.45.0%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_model_exp_24q4-control%2Cns_foryou_recall_exp_24q4-v7%2Cns_foryou_rank_exp_24q4-v8%2Cns_local_strategy_24q4_exp-v15%2Cns_pushv1-v9%2Cns_foryou_blend_exp_24q4-v6",
+      "urlToImage": "https://img.particlenews.com/img/id/4K7QZ6_0wpYSg5M00?type=thumbnail_1600x1200",
+      "publishedAt": "2024-11-16 22:44:59",
+      "content": "ByBy Jamie Gumbrecht, CNN, 3 hours ago",
+      "retrievedAt": "2024-11-18 07:07:22.217592",
+      "internal_id": "21fef5108b64b9962ca9bd3456fe0548f9d995a5c0f246ba3519844da597d88c",
+      "publishedAtLabel": "Nov 16"
+    },
+    {
+      "id": 15612,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Estad\u00e3o Conte\u00fado",
+      "title": "19% dos atuais casos de dengue no mundo s\u00e3o atribu\u00edveis \u00e0s mudan\u00e7as clim\u00e1ticas, aponta estudo",
+      "description": "Segundo pesquisadores, cerca de 257 milh\u00f5es de pessoas vivem em \u00e1reas nas quais a incid\u00eancia da doen\u00e7a pode duplicar nos pr\u00f3ximos anos. Temperaturas entre 20\u00baC e 29\u00baC s\u00e3o as mais favor\u00e1veis para a propaga\u00e7\u00e3o",
+      "url": "https://www.terra.com.br/byte/ciencia/19-dos-atuais-casos-de-dengue-no-mundo-sao-atribuiveis-as-mudancas-climaticas-aponta-estudo,6dd4d1692de1358028b186bcb11ad62awzeoap44.html",
+      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2024-11-16 22:19:37",
+      "content": "As altera\u00e7\u00f5es clim\u00e1ticas s\u00e3o respons\u00e1veis por quase um quinto dos casos de dengue, com o n\u00famero em 2024 a caminho de duplicar o recorde alcan\u00e7ado em 2023, de acordo com um estudo norte-americano publ\u2026 [+3396 chars]",
+      "retrievedAt": "2024-11-18 07:07:19.598592",
+      "internal_id": "dee8929691abedfd5ed277589bdf636e8befe8f46bfcb23cfd2a3a9a5aad7156",
+      "publishedAtLabel": "Nov 16"
+    },
+    {
+      "id": 15627,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Iz.ru",
+      "author": "\u041c\u0435\u0440\u0435\u043d\u043a\u043e\u0432\u0430 \u0410\u043b\u0438\u0441\u0430 \u0410\u043d\u0434\u0440\u0435\u0435\u0432\u043d\u0430",
+      "title": "\u0412 \u0421\u0428\u0410 \u0437\u0430\u0444\u0438\u043a\u0441\u0438\u0440\u043e\u0432\u0430\u043b\u0438 \u043f\u0435\u0440\u0432\u044b\u0439 \u0441\u043b\u0443\u0447\u0430\u0439 \u0437\u0430\u0440\u0430\u0436\u0435\u043d\u0438\u044f \u0442\u044f\u0436\u0435\u043b\u044b\u043c \u0448\u0442\u0430\u043c\u043c\u043e\u043c mpox",
+      "description": "\u041f\u0435\u0440\u0432\u044b\u0439 \u0441\u043b\u0443\u0447\u0430\u0439 \u0438\u043d\u0444\u0438\u0446\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u0442\u044f\u0436\u0435\u043b\u044b\u043c \u0448\u0442\u0430\u043c\u043c\u043e\u043c mpox (\u0441lade I) \u0432 \u0421\u0428\u0410 \u0431\u044b\u043b \u043e\u0431\u043d\u0430\u0440\u0443\u0436\u0435\u043d \u0432 \u041a\u0430\u043b\u0438\u0444\u043e\u0440\u043d\u0438\u0438. \u041e\u0431 \u044d\u0442\u043e\u043c 16 \u043d\u043e\u044f\u0431\u0440\u044f \u0441\u043e\u043e\u0431\u0449\u0430\u0435\u0442 \u0442\u0435\u043b\u0435\u043a\u0430\u043d\u0430\u043b CNN.\u00ab\u0417\u0430\u0431\u043e\u043b\u0435\u0432\u0448\u0438\u0439 clade I mpox \u043d\u0435\u0434\u0430\u0432\u043d\u043e \u0432\u0435\u0440\u043d\u0443\u043b\u0441\u044f \u0438\u0437 \u0412\u043e\u0441\u0442\u043e\u0447\u043d\u043e\u0439 \u0410\u0444\u0440\u0438\u043a\u0438, \u0433\u0434\u0435 \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0430\u0435\u0442\u0441\u044f \u0432\u0441\u043f\u044b\u0448\u043a\u0430 mpox. \u041f\u0430\u0446\u0438\u0435\u043d\u0442 \u043f\u043e\u043b\u0443\u0447\u0430\u043b \u043b\u0435\u0447\u0435\u043d\u0438\u0435 \u0432 \u043c\u0435\u0441\u0442\u043d\u2026",
+      "url": "https://iz.ru/1792073/2024-11-17/v-ssa-zafiksirovali-pervyi-slucai-zarazenia-tazelym-stammom-mpox",
+      "urlToImage": "http://cdn.iz.ru/sites/default/files/styles/900x506/public/news-2024-11/2024-11-06T182649Z_712010049_RC2PJ9AU7F5A_RTRMADP_3_HEALTH-MPOX-AFRICA.jpg?itok=bsf8HgDD",
+      "publishedAt": "2024-11-16 21:47:00",
+      "content": "mpox (lade I) . 16 CNN. \u00ab clade I mpox , mpox. , \u00bb, (CDC). , . . CDC . , 5 , mpox . , . . , 30 , mpox . (UKHSA). 13 (mpox) . , 11- 24- . , 14 , - 2 . (mpox) , . , , : , , , , . 14 21 .",
+      "retrievedAt": "2024-11-18 07:07:21.995401",
+      "internal_id": "5a6b29dfd4a073637f19a4bd8d4b587a81bf1bf72cb2fe239ce3820492ac7e75",
+      "publishedAtLabel": "Nov 16"
+    },
+    {
+      "id": 15621,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.nrc.nl",
+      "author": "Tjarda van der Spek",
+      "title": "Nieuwe mpox-variant nu ook in VS opgedoken",
+      "description": "Mpox: Het gaat om een persoon in Californi\u00eb die onlangs vanuit Oost-Afrika naar de VS was gereisd en milde klachten had. Hij of zij werd direct na terugkeer in de VS behandeld en zit sindsdien thuis in quarantaine.",
+      "url": "https://www.nrc.nl/nieuws/2024/11/16/nieuwe-mpox-variant-nu-ook-in-vs-opgedoken-a4873427",
+      "urlToImage": "https://images.nrc.nl/AwQtwZm-tB7WxyRJvMwrFOLCZ2U=/1200x627/smart/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2024/11/16221230/ANP-506392406.jpg",
+      "publishedAt": "2024-11-16 21:37:21",
+      "content": "In de Verenigde Staten is de nieuwe variant van mpox opgedoken. Dat meldt de Amerikaanse gezondheidsdienst CDC zaterdag. Het gaat om de zogenoemde clade 1b-variant van mpox, die al maanden rondgaat i\u2026 [+2768 chars]",
+      "retrievedAt": "2024-11-18 07:07:21.951282",
+      "internal_id": "8286fce7a23a05588852ecf3c2cf8263ad60c94b3e2eb7ed21ac361afb74fe16",
+      "publishedAtLabel": "Nov 16"
+    },
+    {
+      "id": 15628,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Orf.at",
+      "author": "ORF.at",
+      "title": "Erstmals neue Mpox-Variante in den USA nachgewiesen",
+      "description": "",
+      "url": "https://orf.at/stories/3376190/",
+      "urlToImage": "https://orf.at/mojo/1_4_1/storyserver//news/common/images/og-fallback-news.png",
+      "publishedAt": "2024-11-16 21:03:12",
+      "content": "In den USA ist erstmals ein Fall einer neuen Mpox-Variante nachgewiesen worden. Die US-Gesundheitsbeh\u00f6rde (CDC) teilte gestern mit, bei dem Patienten handle es sich um eine Person, die k\u00fcrzlich von O\u2026 [+524 chars]",
+      "retrievedAt": "2024-11-18 07:07:22.007976",
+      "internal_id": "d4f8a1ca7e0d0adf47413cdea81d85639f0ca14244d85fb6c6bf2b2c235396b8",
+      "publishedAtLabel": "Nov 16"
+    },
+    {
+      "id": 15641,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Digi24.ro",
+      "author": "Bogdan Enache",
+      "title": "SUA confirm\u0103 primul s\u0103u pacient cu noua form\u0103 de mpox",
+      "description": "Oficialii din domeniul sanitar au anun\u0163at s\u00e2mb\u0103t\u0103 c\u0103 au confirmat primul caz din SUA al unei noi forme de mpox care a fost observat\u0103 pentru prima dat\u0103 \u00een estul Congo, relateaz\u0103 AP.",
+      "url": "https://www.digi24.ro/stiri/externe/sua/sua-confirma-primul-sau-pacient-cu-noua-forma-de-mpox-3009143",
+      "urlToImage": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjQl/MkYwOCUyRjE0JTJGMjA0ODg3MF8yMDQ4/ODcwX21wb3gtdmFyaW9sYS1tYWltdXRl/aS1zaHV0dGVyc3RvY2tfMjIzNzI0NDg2/MS5wbmcmdz0xMjAwJmg9NjMwJnpjPTEm/aGFzaD1mZDJiMTY0ODliN2IzMTFmMzI5OWM0OWViMjk5M2I2MA==.thumb.jpg",
+      "publishedAt": "2024-11-16 20:57:10",
+      "content": "Oficialii din domeniul sanitar au anunat s\u00e2mbt c au confirmat primul caz din SUA al unei noi forme de mpox care a fost observat pentru prima dat \u00een estul Congo, relateaz AP. Pacientul respectiv, o p\u2026 [+2137 chars]",
+      "retrievedAt": "2024-11-18 07:07:22.130166",
+      "internal_id": "9f09bf6abf5864887716d67236ef764724980ab897ea9bff201232e7b57dc5ec",
+      "publishedAtLabel": "Nov 16"
+    },
+    {
+      "id": 15620,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Hotnews.ro",
+      "author": "Viorela Marin",
+      "title": "Autorit\u0103\u0163ile sanitare din SUA raporteaz\u0103 un prim caz al noii forme de mpox",
+      "description": "Oficialii americani din domeniul sanitar au anun\u0163at s\u00e2mb\u0103t\u0103 c\u0103 au confirmat primul caz din SUA al unei noi forme de mpox care a fost observat\u0103 pentru prima dat\u0103 \u00een estul Congo, relateaz\u0103 News.ro cit\u00e2nd agen\u021bia\u2026",
+      "url": "http://hotnews.ro/autoritatile-sanitare-din-sua-raporteaza-un-prim-caz-al-noii-forme-de-mpox-1836965",
+      "urlToImage": "https://hotnews.ro/wp-content/uploads/2024/08/profimedia-0710338143.jpg",
+      "publishedAt": "2024-11-16 20:55:15",
+      "content": "Oficialii americani din domeniul sanitar au anunat s\u00e2mbt c au confirmat primul caz din SUA al unei noi forme de mpox care a fost observat pentru prima dat \u00een estul Congo, relateaz News.ro cit\u00e2nd agen\u2026 [+2154 chars]",
+      "retrievedAt": "2024-11-18 07:07:21.944854",
+      "internal_id": "83a28ad09bb657400487dffdbb83157e41f4983af995f0d220a62fabf77479c3",
+      "publishedAtLabel": "Nov 16"
+    },
+    {
+      "id": 15618,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": null,
+      "title": "US reports first case of emerging mpox strain",
+      "description": "A person in California has tested positive for the emerging strain, which can cause a more serious illness.",
+      "url": "https://www.bbc.com/news/articles/cy87gr4l02mo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7fce/live/8297c0d0-a45a-11ef-b61a-67c9c47ede65.jpg",
+      "publishedAt": "2024-11-16 20:54:13",
+      "content": "California has reported the first US case of mpox - formerly known as monkeypox - that is part of a new outbreak. The state's department of health, the CDPH, said the new case was from the Clade I s\u2026 [+1645 chars]",
+      "retrievedAt": "2024-11-18 07:07:21.930759",
+      "internal_id": "94ca5a3c226a09062f966586177241bebbd2263ecbd25250852c49b1c6f00a61",
+      "publishedAtLabel": "Nov 16"
+    },
+    {
+      "id": 15629,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Mediafax.ro",
+      "author": "Iris Dutescu",
+      "title": "California confirm\u0103 primul caz de infectare cu mpox Clade 1",
+      "description": "Acesta este primul caz de infectare cu aceast\u0103 tulpin\u0103 depistat \u00een Statele Unite, potrivit Reuters.",
+      "url": "https://www.mediafax.ro/externe/california-confirma-primul-caz-de-infectare-cu-mpox-clade-1-22559936",
+      "urlToImage": "https://storage0.dms.mpinteractiv.ro/media/1/1/3614/22559936/1/7769390-mediafax-foto-ap.jpg?width=640",
+      "publishedAt": "2024-11-16 20:33:03",
+      "content": "Potrivit CDC, cazul a fost diagnosticat la o persoan care a cltorit recent din Africa de Est. Persoana a fost tratat la scurt timp dup revenirea sa \u00een SUA la o unitate medical local i a fost externat\u2026 [+834 chars]",
+      "retrievedAt": "2024-11-18 07:07:22.014195",
+      "internal_id": "84cec86bf9555eb294b2a0a2b91a77ed6aa47eac170fbf4b00e4d2dbdecb2d65",
+      "publishedAtLabel": "Nov 16"
+    },
+    {
+      "id": 15648,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "KGO-TV",
+      "author": "ABC7 Bay Area Digital Staff",
+      "title": "Clade I Mpox: Officials report 1st US case of new aggressive strain in California",
+      "description": "Officials confirm the first known U.S. case of the new aggressive mpox strain, Clade I mpox, is in San Mateo County",
+      "url": "https://abc7news.com/post/clade-mpox-officials-report-1st-us-case-new-aggressive-strain-california/15551174/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/15197456_081724-kgo-mpox-img.jpg?w=1600",
+      "publishedAt": "2024-11-16 20:30:34",
+      "content": "SAN MATEO COUNTY, Calif. (KGO) -- Officials confirmed on Saturday the first known U.S. case of the new aggressive mpox strain, Clade I mpox, is in the Bay Area. Officials with San Mateo County Healt\u2026 [+3324 chars]",
+      "retrievedAt": "2024-11-18 07:07:22.186381",
+      "internal_id": "377267a7e436c877e977fc9f767590148b5be517ca1e240445b2094b34d19a10",
+      "publishedAtLabel": "Nov 16"
+    },
+    {
+      "id": 15634,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Portfolio.hu",
+      "author": "Portfolio.hu",
+      "title": "Majomhiml\u0151-fert\u0151z\u00e9st azonos\u00edtottak Kaliforni\u00e1ban",
+      "description": "Az Egyes\u00fclt \u00c1llamokban el\u0151sz\u00f6r diagnosztiz\u00e1ltak majomhiml\u0151 (mpox) fert\u0151z\u00e9st. A Betegs\u00e9gellen\u0151rz\u00e9si \u00e9s Megel\u0151z\u00e9si K\u00f6zpont (CDC) szombati k\u00f6zlem\u00e9nye szerint a kaliforniai esetet egy nemr\u00e9g Kelet-Afrik\u00e1b\u00f3l hazat\u00e9rt utaz\u00f3n\u00e1l azonos\u00edtott\u00e1k.",
+      "url": "https://www.portfolio.hu/gazdasag/20241116/majomhimlo-fertozest-azonositottak-kaliforniaban-723610",
+      "urlToImage": "https://pcdn.hu/articles/images-xl/b/e/t/betegseg-majomhimlo-686601.jpg",
+      "publishedAt": "2024-11-16 20:24:00",
+      "content": "A CDC t\u00e1j\u00e9koztat\u00e1sa alapj\u00e1n a fertz\u00f6tt szem\u00e9lyt r\u00f6viddel az Egyes\u00fclt \u00c1llamokba val\u00f3 visszat\u00e9r\u00e9se ut\u00e1n egy helyi eg\u00e9szs\u00e9g\u00fcgyi int\u00e9zm\u00e9nyben l\u00e1tt\u00e1k el. A vizsg\u00e1latokat k\u00f6veten a p\u00e1ciensek hazaengedt\u00e9k,\u2026 [+869 chars]",
+      "retrievedAt": "2024-11-18 07:07:22.062781",
+      "internal_id": "66afa0edd41d00a5874c083f46db6f7a7be9a1b63eb094b27b11628f985696ce",
+      "publishedAtLabel": "Nov 16"
+    },
+    {
+      "id": 15638,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "MIKE STOBBE AP medical writer",
+      "title": "US health officials report 1st case of new form of mpox in a traveler",
+      "description": "Health officials say they have confirmed the first U.S. case of a new form of mpox that was first seen in eastern Congo",
+      "url": "https://abcnews.go.com/Health/wireStory/us-health-officials-report-1st-case-new-form-115934226",
+      "urlToImage": "https://i.abcnewsfe.com/a/1d039cb9-eab2-4a36-b398-570730dabdce/wirestory_6e2ee003f53b7dc1d2e33ec16ba7c628_16x9.jpg?w=1600",
+      "publishedAt": "2024-11-16 20:22:26",
+      "content": "NEW YORK -- Health officials said Saturday they have confirmed the first U.S. case of a new form of mpox that was first seen in eastern Congo. The person had traveled to eastern Africa and was trea\u2026 [+2161 chars]",
+      "retrievedAt": "2024-11-18 07:07:22.100065",
+      "internal_id": "046f99d86297d74989b44c67f9151031ddc6a822af46b223f1eca2000ac44954",
+      "publishedAtLabel": "Nov 16"
+    },
+    {
+      "id": 15632,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Independent.ie",
+      "author": "Mike Stobbe",
+      "title": "US health officials report first case of new form of mpox in man who visited Africa",
+      "description": "Health officials in the United States said tonight they have confirmed the first U.S. case of a new form of mpox that was first seen in eastern Congo.",
+      "url": "https://www.independent.ie/world-news/north-america/us-health-officials-report-first-case-of-new-form-of-mpox-in-man-who-visited-africa/a1120463605.html",
+      "urlToImage": "https://focus.independent.ie/thumbor/JC4_ZQuJsYGbEJ651gtUWwcHf6U=/125x0:1475x900/629x0/prod-mh-ireland/2453be1b-218a-4033-8cd5-af494f852ece/38f90905-188f-440e-a6a8-7ec7670f0c1e/2453be1b-218a-4033-8cd5-af494f852ece.jpg",
+      "publishedAt": "2024-11-16 20:19:15",
+      "content": "Breaking | Health officials in the United States said tonight they have confirmed the first U.S. case of a new form of mpox that was first seen in eastern Congo. The person had travelled to easter\u2026 [+174 chars]",
+      "retrievedAt": "2024-11-18 07:07:22.044523",
+      "internal_id": "2cfed23640fa3f82a7ef11279504ed30e382e8e80e6cde25d55319aaca03baff",
+      "publishedAtLabel": "Nov 16"
+    },
+    {
+      "id": 15637,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Investing.com",
+      "author": "Reuters",
+      "title": "California confirms first clade I mpox case",
+      "description": "California confirms first clade I mpox case",
+      "url": "https://www.investing.com/news/world-news/california-confirms-first-clade-i-mpox-case-3726854",
+      "urlToImage": "https://i-invdn-com.investing.com/news/news_headline_open_108x81._800x533_L_1419519630.jpg",
+      "publishedAt": "2024-11-16 20:15:39",
+      "content": "WASHINGTON (Reuters) - A case of clade I mpox has been confirmed in California, the Centers for Disease Control and Prevention said on Saturday, marking the first case of the strain the United States\u2026 [+407 chars]",
+      "retrievedAt": "2024-11-18 07:07:22.088203",
+      "internal_id": "b6ec5c22b100934f92adfb4ac1f0135b274ffe886f41d2c59aff25bb868e6a38",
+      "publishedAtLabel": "Nov 16"
+    },
+    {
+      "id": 15613,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Nacion.com",
+      "author": "AFP",
+      "title": "Cambio clim\u00e1tico impulsa el dengue y podr\u00eda duplicar casos en 2024",
+      "description": "El cambio clim\u00e1tico est\u00e1 detr\u00e1s del 19% de los casos de dengue en el mundo. En 2024, la enfermedad podr\u00eda romper todos los r\u00e9cords.",
+      "url": "https://www.nacion.com/el-mundo/cambio-climatico-impulsa-el-dengue-y-podria/EN2BTAW35VGZHMZI7BKO7EGZ3E/story/",
+      "urlToImage": "https://www.nacion.com/resizer/v2/CZM4IVS4UBCA7OMEHS5G7LWONM.jpg?smart=true&auth=b4926ff15d9543b90af1fa90840adb79ef1b91064379c30f07d411ed1b45c9b3&width=1440",
+      "publishedAt": "2024-11-16 20:15:00",
+      "content": "Par\u00eds. El cambio clim\u00e1tico explica casi una quinta parte de los casos de dengue, cuyo n\u00famero en 2024 podr\u00eda duplicar el r\u00e9cord de 2023, seg\u00fan un estudio estadounidense publicado el s\u00e1bado.La propagac\u2026 [+3202 chars]",
+      "retrievedAt": "2024-11-18 07:07:19.635755",
+      "internal_id": "b4db371f74bd7312393a2ad5782b3ac9c5767f0df394d82e7ef0482776d4c670",
+      "publishedAtLabel": "Nov 16"
+    },
+    {
+      "id": 15649,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "NBC Bay Area",
+      "author": "Nbc Bay Area Staff",
+      "title": "First case of mpox strain reported in San Mateo County, health officials say",
+      "description": "San Mateo County health officials said on Saturday they have reported the first known case of clade I mpox in California and the United States.",
+      "url": "https://www.nbcbayarea.com/news/local/new-mpox-strain-reported-san-mateo-county/3711857/",
+      "urlToImage": "https://media.nbcbayarea.com/2024/08/AP24220568552413.jpg?quality=85&strip=all&resize=1200%2C675",
+      "publishedAt": "2024-11-16 19:51:22",
+      "content": "San Mateo County health officials said on Saturday they have reported the first known case of clade I mpox in California and the United States. According to the San Mateo County Health, a person be\u2026 [+909 chars]",
+      "retrievedAt": "2024-11-18 07:07:22.192440",
+      "internal_id": "97ab25dc122f926107d546dd53c6082c3b36ce5c4b0cb1f5375d2226b2510f2b",
+      "publishedAtLabel": "Nov 16"
+    },
+    {
+      "id": 15644,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Newsbreak.com",
+      "author": "Jamie Gumbrecht",
+      "title": "United States\u2019 first known case of more severe strain of mpox confirmed in California",
+      "description": "The United States\u2019 first known case of a more severe strain of mpox was confirmed in California, the US Centers for Disease Control and Prevention said Saturday. The risk of clade I mpox to the public remains low, the agency said.",
+      "url": "https://www.newsbreak.com/share/3677520160840-united-states-first-known-case-of-more-severe-strain-of-mpox-confirmed-in-california?_f=app_share&amp;pd=09ygkVxi&amp;lang=en_US&amp;send_time=1731790471&amp;trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2224.31.0.23%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_pushv1-v3%2Cns_local_strategy_24q4_exp-v10%2Cns_summary_v1-v1%2Cns_foryou_blend_exp_24q4-v8%2Cns_foryou_recall_exp_24q4-v3%2Cns_foryou_model_exp_24q4-v6%2Cns_foryou_rank_exp_24q4-v3&amp;s=i2",
+      "urlToImage": "https://img.particlenews.com/img/id/4K7QZ6_0wpYSg5M00?type=thumbnail_1600x1200",
+      "publishedAt": "2024-11-16 19:49:29",
+      "content": "ByBy Jamie Gumbrecht, CNN, 3 hours ago",
+      "retrievedAt": "2024-11-18 07:07:22.160808",
+      "internal_id": "a63ea96abd930231f2230b7f2e96e897b44db2756f3b958b234633ea31195bb5",
+      "publishedAtLabel": "Nov 16"
+    },
+    {
+      "id": 15651,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Jamie Gumbrecht",
+      "title": "United States\u2019 first known case of more severe strain of mpox confirmed in California | CNN",
+      "description": "The United States\u2019 first known case of a more severe strain of mpox was confirmed in California, the US Centers for Disease Control and Prevention said Saturday. The risk of clade I mpox to the public remains low, the agency said.",
+      "url": "https://www.cnn.com/2024/11/16/health/mpox-clade1-california-first/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/26500-copy.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-11-16 19:49:29",
+      "content": "The United States first known case of a more severe strain of mpox was confirmed in California, the US Centers for Disease Control and Prevention said Saturday. The risk of clade I mpox to the public\u2026 [+2888 chars]",
+      "retrievedAt": "2024-11-18 07:07:22.205734",
+      "internal_id": "f3a0536e053fecce73b83a9259442bb23187c9d4358f575e606b1cb32fe849a6",
+      "publishedAtLabel": "Nov 16"
+    },
+    {
+      "id": 15655,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "STAT",
+      "author": "Helen Branswell",
+      "title": "First U.S. case of new mpox strain clade Ib detected in California",
+      "description": "California has detected the country\u2019s first case of a new mpox strain in a person who recently traveled from Eastern Africa",
+      "url": "https://www.statnews.com/2024/11/16/mpox-clade-ib-california/",
+      "urlToImage": "https://www.statnews.com/wp-content/uploads/2024/08/52705884232_1cbc6b7846_k-1024x576.jpg",
+      "publishedAt": "2024-11-16 19:45:27",
+      "content": "California has detected the countrys first case of a new mpox strain that is spreading from person to person. The infected individual had recently traveled from Eastern Africa, where multiple countri\u2026 [+4000 chars]",
+      "retrievedAt": "2024-11-18 07:07:22.242673",
+      "internal_id": "7a42babb69c4900454c94734a7c502f1a1c9b3d086b0a7e3349bf96f8a39b49a",
+      "publishedAtLabel": "Nov 16"
+    },
+    {
+      "id": 15617,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "football-italia",
+      "source_name": "Football Italia",
+      "author": "Susy Campanale",
+      "title": "Lazio striker Dia given all-clear after malaria scare",
+      "description": "According to the latest reports out of Senegal, Lazio striker Boulaye Dia underwent tests that showed he had not contracted malaria.",
+      "url": "https://football-italia.net/lazio-striker-dia-all-clear-malaria-scare/",
+      "urlToImage": "https://icdn.football-italia.net/wp-content/uploads/2024/09/Boulauye-Dia-smile-Lazio.jpg",
+      "publishedAt": "2024-11-16 19:44:54",
+      "content": "According to the latest reports out of Senegal, Lazio striker Boulaye Dia underwent tests that showed he had not contracted malaria. The forward felt unwell earlier this week and was left out of the\u2026 [+800 chars]",
+      "retrievedAt": "2024-11-18 07:07:20.587488",
+      "internal_id": "b3f3427348f19a2b0c8a39b946a00e4153625e5680e34180782755ff584a6ef6",
+      "publishedAtLabel": "Nov 16"
+    },
+    {
+      "id": 15623,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "nbc-news",
+      "source_name": "NBC News",
+      "author": "Aria Bendix",
+      "title": "U.S. confirms first case of more aggressive strain of mpox",
+      "description": "The U.S. has reported its first case of a more aggressive strain of mpox. The WHO declared the virus' spread a public health emergency in August.",
+      "url": "https://www.nbcnews.com/health/health-news/us-first-mpox-case-aggressive-strain-rcna167403",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-08/240821-mpox-vl-456p-f9f320.jpg",
+      "publishedAt": "2024-11-16 19:42:26",
+      "content": "The U.S. on Saturday reported its first case of a more aggressive strain of mpox: an individual in California who had recently traveled from Eastern Africa. The case was confirmed by the California\u2026 [+4832 chars]",
+      "retrievedAt": "2024-11-18 07:07:21.964264",
+      "internal_id": "23a7565748d851a9b70e161632709c3994a508163c695305cd9b6172c248724f",
+      "publishedAtLabel": "Nov 16"
+    },
+    {
+      "id": 15642,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Newser",
+      "author": "Bob Cronin",
+      "title": "First US Case of New Form of Mpox Surfaces in California",
+      "description": "Health officials said Saturday they have confirmed the first US case of a new form of mpox that was first seen in eastern Congo. The person had traveled to eastern Africa and was treated in Northern California upon return, according to the state Department of\u2026",
+      "url": "https://www.newser.com/story/359614/first-case-of-new-form-of-mpox-confirmed-in-us.html",
+      "urlToImage": "https://img2-azrcdn.newser.com/image/1573103-12-20241116141002.jpeg",
+      "publishedAt": "2024-11-16 19:40:00",
+      "content": "Earlier this year, scientists reported the emergence of a new form of mpox in Africa that was spread through close contact including through sex. More than 3,100 confirmed cases have been reported ju\u2026 [+769 chars]",
+      "retrievedAt": "2024-11-18 07:07:22.137010",
+      "internal_id": "a573efb61525ac241e821844fe722ce017ca0798da41f3af035bb4544425d39d",
+      "publishedAtLabel": "Nov 16"
+    },
+    {
+      "id": 15616,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Tuttomercatoweb.com",
+      "author": "Paolo Lora Lamia",
+      "title": "Lazio, sospiro di sollievo per Dia: non ha la malaria, pu\u00f2 esserci contro il Bologna",
+      "description": "La Lazio e Boulaye Dia possono sorridere, dopo giorni decisamente complicati. Come riporta Gazzetta.it, hanno dato esito negativo gli esami a cui si \u00e8 sottoposto oggi a Dakar l'attaccante dopo che gi",
+      "url": "https://www.tuttomercatoweb.com/serie-a/lazio-sospiro-di-sollievo-per-dia-non-ha-la-malaria-puo-esserci-contro-il-bologna-2035841",
+      "urlToImage": "https://tmw-storage.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/af/affb978accf34b25a678710dbc080474-40846-oooz0000.jpeg",
+      "publishedAt": "2024-11-16 19:38:51",
+      "content": "La Lazio e Boulaye Dia possono sorridere, dopo giorni decisamente complicati. Come riporta Gazzetta.it, hanno dato esito negativo gli esami a cui si \u00e8 sottoposto oggi a Dakar l'attaccante dopo che gi\u2026 [+762 chars]",
+      "retrievedAt": "2024-11-18 07:07:20.555568",
+      "internal_id": "8bc23c80bf2d8e59eecfa22e958c8f8b371d14fddfdbef9f8a1dcbbe66f392fa",
+      "publishedAtLabel": "Nov 16"
+    },
+    {
+      "id": 15643,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "seattlepi.com",
+      "author": "By MIKE STOBBE, AP Medical Writer",
+      "title": "US health officials report 1st case of new form of mpox in a traveler",
+      "description": "Health officials say they have confirmed the first U.S. case of a new form of mpox that was first seen in eastern Congo. Authorities said Saturday the risk to the public is low. The person had traveled to eastern Africa and was treated in California. Official\u2026",
+      "url": "https://www.seattlepi.com/news/article/us-health-officials-report-1st-case-of-new-form-19921805.php",
+      "urlToImage": "https://s.hdnux.com/photos/01/45/77/22/26735786/3/rawImage.jpg",
+      "publishedAt": "2024-11-16 19:28:16",
+      "content": "FILE - This colorized electron microscope image provided by the National Institute of Allergy and Infectious Diseases in 2024 shows Mpox virus particles, orange, found within infected cells, green. (\u2026 [+1857 chars]",
+      "retrievedAt": "2024-11-18 07:07:22.148688",
+      "internal_id": "6c6d9130ee11dc5fe1243304884faa9c6fbd47883ec5d92d2518be9939cf084d",
+      "publishedAtLabel": "Nov 16"
+    },
+    {
+      "id": 15611,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Portfolio.hu",
+      "author": "Portfolio.hu",
+      "title": "Kider\u00fclt, h\u00e1ny fokban terjesztik legink\u00e1bb a sz\u00fanyogok a hal\u00e1los k\u00f3rt",
+      "description": "A dengue-l\u00e1z terjed\u00e9se \u00e9s az \u00e9ghajlatv\u00e1ltoz\u00e1s k\u00f6z\u00f6tti \u00f6sszef\u00fcgg\u00e9st vizsg\u00e1lta egy \u00faj tanulm\u00e1ny, amely szerint a betegs\u00e9g el\u0151fordul\u00e1s\u00e1nak k\u00f6zel \u00f6t\u00f6de a glob\u00e1lis felmeleged\u00e9snek tulajdon\u00edthat\u00f3. A kutat\u00f3k figyelmeztetnek: ha nem tesz\u00fcnk l\u00e9p\u00e9seket a kl\u00edmav\u00e1ltoz\u00e1s \u2026",
+      "url": "https://www.portfolio.hu/gazdasag/20241116/kiderult-hany-fokban-terjesztik-leginkabb-a-szunyogok-a-halalos-kort-723604",
+      "urlToImage": "https://pcdn.hu/articles/images-md/k/l/m/klmavltozs-egszsggy-globlis-felmelegeds-hmrsklet-kutats-szn-dioxid-kibocs-715822.jpg",
+      "publishedAt": "2024-11-16 19:19:00",
+      "content": "A kutat\u00e1s sor\u00e1n 21 \u00e1zsiai \u00e9s amerikai orsz\u00e1g 1,5 milli\u00f3 dengue-fertz\u00e9s\u00e9t elemezt\u00e9k az 1993 \u00e9s 2019 k\u00f6z\u00f6tti idszakban. Az elemz\u00e9sbe csak olyan orsz\u00e1gokat vontak be, ahol a betegs\u00e9g end\u00e9mi\u00e1s, vagyis re\u2026 [+3030 chars]",
+      "retrievedAt": "2024-11-18 07:07:19.576743",
+      "internal_id": "c9c50fb17786d90636ceb125aa96e24e3a34d80e1e232b2d15c1940e9d01ead8",
+      "publishedAtLabel": "Nov 16"
+    },
+    {
+      "id": 15609,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "International Business Times",
+      "author": "Daniel Lawler",
+      "title": "Fifth Of Dengue Cases Due To Climate Change: Researchers",
+      "description": "Climate change is responsible for nearly a fifth of the record number of dengue cases worldwide this year, US researchers said on Saturday, seeking to shine a light on how rising temperatures help spread disease.",
+      "url": "https://www.ibtimes.com/fifth-dengue-cases-due-climate-change-researchers-3751373",
+      "urlToImage": "https://d.ibtimes.com/en/full/4562288/dengue-which-sometimes-fatal-transmitted-via-bites-infected-mosquitoes.jpg",
+      "publishedAt": "2024-11-16 19:15:12",
+      "content": "Climate change is responsible for nearly a fifth of the record number of dengue cases worldwide this year, US researchers said on Saturday, seeking to shine a light on how rising temperatures help sp\u2026 [+3281 chars]",
+      "retrievedAt": "2024-11-18 07:07:19.553541",
+      "internal_id": "fb7f47b04e2cc6a1e7f256edb222df9b0864fda8700a71de6d4ecc8394d7a75e",
+      "publishedAtLabel": "Nov 16"
+    },
     {
       "id": 15597,
       "query": [
@@ -76,6 +959,24 @@
       "publishedAtLabel": "Nov 16"
     },
     {
+      "id": 15633,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": "CDC",
+      "title": "California confirms first clade I mpox case",
+      "description": "CDC to receive samples for addition viral characterization",
+      "url": "https://www.cdc.gov/media/releases/2024/s1116-california-first-clade.html",
+      "urlToImage": "https://www.cdc.gov/media/media/images/2024/09/cdc-logo.jpg?_=52313",
+      "publishedAt": "2024-11-16 18:45:00",
+      "content": "CDC to receive samples for addition viral characterization The California Department of Public Health confirmed, through laboratory testing, the first known case of clade I mpox in the United States\u2026 [+5635 chars]",
+      "retrievedAt": "2024-11-18 07:07:22.056318",
+      "internal_id": "3f8a912475ad3af87c653996d56ee24d8646459778208b28e292971c20116a40",
+      "publishedAtLabel": "Nov 16"
+    },
+    {
       "id": 15604,
       "query": [
         "mpox"
@@ -145,6 +1046,24 @@
       "content": "(Permanent Musical Accompaniment To The Last Post Of The Week From The Blog's Favourite Living Canadian, And Belated Birthday Greetings To Him) There was a big hootenanny at Mar-a-Lago on Thursday \u2026 [+11441 chars]",
       "retrievedAt": "2024-11-17 19:05:49.633358",
       "internal_id": "4593277b70aeb50953bebfd09b897622fa75cbcfdeef1f4154424c935a066e91",
+      "publishedAtLabel": "Nov 16"
+    },
+    {
+      "id": 15606,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Sky News Australia",
+      "author": "Adriana Mageros",
+      "title": "Measles alert issued by NSW Health after confirmed case recorded at pub, petrol station in Sydney's Inner West",
+      "description": "A measles alert has been issued for Sydney's Inner West after a resident visited multiple locations in the area while infectious, including a pub and petrol station.",
+      "url": "https://www.skynews.com.au/lifestyle/health/measles-alert-issued-by-nsw-health-after-confirmed-case-recorded-at-pub-petrol-station-in-sydneys-inner-west/news-story/01ee7e0a573aec034411c52701b8078e",
+      "urlToImage": "https://content.api.news/v3/images/bin/2c01df0679a02d2253093ffa6b1c03fd",
+      "publishedAt": "2024-11-16 09:38:11",
+      "content": "A measles alert has been issued for Sydney's Inner West after a resident visited multiple locations in the area while infectious, including a pub and petrol station. NSW Health said the person rece\u2026 [+2280 chars]",
+      "retrievedAt": "2024-11-18 07:07:18.407839",
+      "internal_id": "c71ceda460d85e37fb85ed49c3be6d829ce2d37211fb0ef43fb3b3a5c6edf3ca",
       "publishedAtLabel": "Nov 16"
     },
     {
@@ -21332,6 +22251,132 @@
       "content": ", 7 . //. 35 . mpox ( ) , , 1 29 2024 . (). 35 525 mpox, 996 , . 23 29 4 098, - 156. mpox () - 30 766 990 . , 1 368 . . mpox 2022 11 2023 . , 14 . Mpox - , , . 1970 .",
       "retrievedAt": "2024-10-08 07:06:36.820755",
       "internal_id": "c8d41bd8a82c244700b16df93dce471063fff143fa71d152186b8512724ae634",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 14401,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Milenio",
+      "author": "Redacci\u00f3n",
+      "title": "QRoo avanza en la lucha contra el dengue: pasa del lugar 3 al 22 en casos nacionales",
+      "description": "Como resultado de la estrategia de lucha contra el dengue, Quintana Roo se encuentra en la posici\u00f3n n\u00famero 22 a nivel nacional por n\u00famero de casos, un logro hist\u00f3rico resultado de la estrategia, coordinaci\u00f3n e inversi\u00f3n.El gobierno de Mara Lezama Espinosa ha \u2026",
+      "url": "https://www.milenio.com/estados/quintana-roo-logra-reducir-casos-dengue",
+      "urlToImage": "https://cdn.milenio.com/uploads/media/2024/10/06/personal-salud-estrategia-combate-dengue.jpg",
+      "publishedAt": "2024-10-06 18:17:21",
+      "content": "Como resultado de la estrategia de lucha contra el dengue, Quintana Roo se encuentra en la posici\u00f3n n\u00famero 22a nivel nacional por n\u00famero de casos, un logro hist\u00f3rico resultado de la estrategia, coord\u2026 [+1233 chars]",
+      "retrievedAt": "2024-10-07 19:05:46.416575",
+      "internal_id": "fb8359d159b4770146ebb1fef0a0b941100a740e3096def2f8ea78203600662e",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 14441,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "BusinessLine",
+      "author": "G Naga Sridhar",
+      "title": "Putting cholera back in focus",
+      "description": "Cholera, a deadly diarrhoeal disease, is resurging globally, prompting calls for vaccination and improved public health measures.",
+      "url": "https://www.thehindubusinessline.com/specials/pulse/putting-cholera-back-in-focus/article68726024.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/miae01/article68726023.ece/alternates/LANDSCAPE_1200/2016-11-09T202739Z_932842931_S1AEULXCLNAA_RTRMADP_3_HAITI-CHOLERA.JPG",
+      "publishedAt": "2024-10-06 16:52:57",
+      "content": "In the rush to tackle emerging public health concerns like mpox and Covid-19, are diseases like cholera being overlooked? Rapid urbanisation, climate change, and conflicts are putting pressure on hea\u2026 [+3942 chars]",
+      "retrievedAt": "2024-10-09 07:07:06.985248",
+      "internal_id": "4dcf1791d2170865df6770b818e237aa6a0b1e38b356e6d79a9b97dff16a4ca3",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 14415,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "El Congo, foco del brote de viruela del mono, comienza la campa\u00f1a de vacunaci\u00f3n",
+      "description": "La mpox, que comenz\u00f3 a expandirse desde la vecina Kivu del Sur, est\u00e1 presente ya en 23 de las 26 provincias del pa\u00eds.",
+      "url": "https://www.montevideo.com.uy/Salud/El-Congo-foco-del-brote-de-viruela-del-mono-comienza-la-campana-de-vacunacion-uc902427",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202207/_W933_80/808770.jpg",
+      "publishedAt": "2024-10-06 16:15:00",
+      "content": "La Rep\u00fablica Democr\u00e1tica del Congo (RDC), foco del actual brote de viruela del mono (mpox), comenz\u00f3 este s\u00e1bado la campa\u00f1a de vacunaci\u00f3n contra la enfermedad en la provincia de Kivu del Norte, en \u2026 [+3683 chars]",
+      "retrievedAt": "2024-10-08 07:06:36.998521",
+      "internal_id": "a3a00c45095f9f7ae77bef5891de72e4eaad698431ee503d5d0cfb05251726c0",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 14406,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "New Zealand Herald",
+      "author": "Jamie Morton",
+      "title": "Scientists reveal first results of bird flu sampling; health plan shows how NZ would respond to human outbreak",
+      "description": "Sampling shows no sign of big-risk bird flu - but its NZ arrival is 'just matter of time'.",
+      "url": "https://www.nzherald.co.nz/nz/scientists-reveal-first-results-of-bird-flu-sampling-health-plan-shows-how-nz-would-respond-to-human-outbreak/ME7OORURMJHYDFCSVAHHBUIDRU/",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/I5QUGT3H4AQADPWY2BXDCBLOFM.jpg?auth=507e06d0b5d82b1a5d186e3e57ff45ad9a4fb846b921f13034617d776f4b61b1&width=1200&height=675&quality=70&smart=true",
+      "publishedAt": "2024-10-06 16:00:00",
+      "content": "Oceania remains the last region yet to record a case of H5N1, which has killed nearly 300 million birds worldwide, including tens of thousands of endangered and endemic species. Scientists have been\u2026 [+3786 chars]",
+      "retrievedAt": "2024-10-08 07:06:33.254628",
+      "internal_id": "5461537a67c76376a7d1c1b0005341128e64d73f362306a24e3efdc3ab3eab6a",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 14402,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "Cintia Perazo",
+      "title": "Dengue: la nueva inteligencia artificial que usar\u00e1n en la provincia de Buenos Aires para intentar anticiparse a los brotes",
+      "description": "El programa, desarrollado por investigadores de la Unsam, ya se est\u00e1 probando y promete inferir cu\u00e1ntos mosquitos infectados habr\u00e1 en cada manzana del conurbano",
+      "url": "https://www.lanacion.com.ar/sociedad/dengue-la-nueva-inteligencia-artificial-que-usaran-en-la-provincia-de-buenos-aires-para-intentar-nid06102024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/el-dengue-se-contagia-por-la-picadura-del-VYNUJTEDOFEQNNIQ4SPVPFIUCA.jpg?auth=241260c572bad34eade992656cf41cbdc3bf5b53ec8d7849f230ef7202a9c141&width=768&quality=70&smart=false",
+      "publishedAt": "2024-10-06 15:30:00",
+      "content": "Un equipo de investigadores de la Universidad Nacional de San Mart\u00edn (Unsam), liderado por Ezequiel \u00c1lvarez, est\u00e1 desarrollando un modelo de inteligencia artificial bayesiana que permitir\u00e1 anticipar \u2026 [+7718 chars]",
+      "retrievedAt": "2024-10-07 19:05:46.489307",
+      "internal_id": "199661668e62d7913ed09632ec701443735ed6c24b8bfd3dc7f6895c5f324940",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 14404,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": "http://www.facebook.com/bbcnews",
+      "title": "\u0427\u043e\u043c\u0443 \u043c\u0456\u043d\u044f\u0442\u0438 \u043f\u043e\u0441\u0442\u0456\u043b\u044c\u043d\u0443 \u0431\u0456\u043b\u0438\u0437\u043d\u0443 \u0432\u0430\u0440\u0442\u043e \u0447\u0430\u0441\u0442\u0456\u0448\u0435",
+      "description": "\u041c\u0438 \u043f\u0440\u043e\u0432\u043e\u0434\u0438\u043c\u043e \u043d\u0430 \u043f\u0440\u043e\u0441\u0442\u0438\u0440\u0430\u0434\u043b\u0430\u0445 \u0456 \u043f\u043e\u0434\u0443\u0448\u043a\u0430\u0445 \u0442\u0440\u0435\u0442\u0438\u043d\u0443 \u0441\u0432\u043e\u0433\u043e \u0436\u0438\u0442\u0442\u044f \u0449\u043e\u0434\u043d\u044f, \u0456 \u0446\u0435\u0439 \u043a\u043e\u043d\u0442\u0430\u043a\u0442 \u0441\u0442\u0432\u043e\u0440\u044e\u0454 \u0456\u0434\u0435\u0430\u043b\u044c\u043d\u0435 \u0441\u0435\u0440\u0435\u0434\u043e\u0432\u0438\u0449\u0435 \u0434\u043b\u044f \u043a\u0443\u043f\u0438 \u043d\u0435\u0431\u0430\u0436\u0430\u043d\u0438\u0445 \u0433\u043e\u0441\u0442\u0435\u0439.",
+      "url": "https://www.bbc.com/ukrainian/articles/c17lxe84pk2o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_ukrainian/4a90/live/93eb8570-825d-11ef-a96a-4578729d5d06.jpg",
+      "publishedAt": "2024-10-06 12:57:11",
+      "content": "Article information , . , , . . , , , . - , , , . , . 500 , , , . , , . . 2013 , , . , , - S. aureus, , . \" , \", - , , . , Getty Images , , , , . 2018 , , , , . . 2022 , (mpox).\u2026 [+472 chars]",
+      "retrievedAt": "2024-10-07 19:05:48.100667",
+      "internal_id": "fac9e291a8c7df398968a765d17d6decda9bb0f861135150c7c7d0210073ff1c",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 14403,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "VOA News",
+      "author": "webdesk@voanews.com (Associated Press)",
+      "title": "Congo starts mpox vaccinations in effort to slow outbreaks",
+      "description": "GOMA, Congo \u2014 Congolese authorities on Saturday began vaccinations against mpox, nearly two months after the disease outbreak that spread from Congo to several African countries and beyond was declared a global emergency by the World Health Organization. Th\u2026",
+      "url": "https://www.voanews.com/a/congo-starts-mpox-vaccinations-in-effort-to-slow-outbreaks/7812086.html",
+      "urlToImage": "https://gdb.voanews.com/F2A047DA-F41F-406F-A699-3C87C334BCA6.jpg",
+      "publishedAt": "2024-10-06 07:11:34",
+      "content": "GOMA, Congo Congolese authorities on Saturday began vaccinations against mpox, nearly two months after the disease outbreak that spread from Congo to several African countries and beyond was declare\u2026 [+3282 chars]",
+      "retrievedAt": "2024-10-07 19:05:47.955180",
+      "internal_id": "fe487d05e9b2250a6d57ce4b443e1a3cd84340b29390439d476a26f8cd086a69",
       "publishedAtLabel": "Oct 6"
     }
   ]

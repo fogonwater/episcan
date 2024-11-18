@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 9
-- **Last harvest:** 2024-11-17 19:05
-- **Most recent article:** 2024-11-16 19:00:00
+- **New articles in last harvest:** 51
+- **Last harvest:** 2024-11-18 07:07
+- **Most recent article:** 2024-11-17 06:24:47
 
 ---
 
@@ -10,28 +10,72 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 24-41 | 24-42 | 24-43 | 24-44 | 24-45 | 24-46 | Total |
-|--|-|-|-|-|-|-|-|
-| mpox | 36 | 81 | 131 | 75 | 63 | 34 | 420 |
-| dengue | 31 | 50 | 53 | 31 | 31 | 31 | 227 |
-| h5n1 | 8 | 18 | 12 | 61 | 36 | 40 | 175 |
-| malaria | 13 | 18 | 58 | 16 | 26 | 31 | 162 |
-| measles | 5 | 3 | 1 | 13 | 3 | 31 | 56 |
-| rabies | 6 | 7 | 3 | 10 | 5 | 11 | 42 |
-| zika | 4 | 6 | 6 | 3 | 9 | 4 | 32 |
-| pertussis | 2 | 9 | 3 | 1 | 3 | 8 | 26 |
-| chikungunya | 3 | 4 | 7 | 2 | 2 | 3 | 21 |
-| hpai | 1 | 2 | 2 | 7 | 4 | 4 | 20 |
-| meningitis | 2 | 1 | 6 | 3 | 5 | 2 | 19 |
-| leptospirosis | 1 | 1 | 0 | 3 | 10 | 3 | 18 |
-| typhoid | 0 | 1 | 3 | 4 | 1 | 1 | 10 |
-| shigellosis | 3 | 0 | 1 | 0 | 0 | 1 | 5 |
-| yersinia | 1 | 0 | 0 | 3 | 0 | 0 | 4 |
+| Disease | 24-41 | 24-42 | 24-43 | 24-44 | 24-45 | 24-46 | 24-47 | Total |
+|--|-|-|-|-|-|-|-|-|
+| mpox | 40 | 81 | 131 | 75 | 63 | 62 | 10 | 462 |
+| dengue | 33 | 50 | 53 | 31 | 31 | 36 | 1 | 235 |
+| h5n1 | 9 | 18 | 12 | 61 | 36 | 40 | 2 | 178 |
+| malaria | 13 | 18 | 58 | 16 | 26 | 33 | 1 | 165 |
+| measles | 5 | 3 | 1 | 13 | 3 | 32 | 1 | 58 |
+| rabies | 6 | 7 | 3 | 10 | 5 | 11 | 0 | 42 |
+| zika | 4 | 6 | 6 | 3 | 9 | 4 | 0 | 32 |
+| pertussis | 2 | 9 | 3 | 1 | 3 | 8 | 1 | 27 |
+| chikungunya | 3 | 4 | 7 | 2 | 2 | 3 | 0 | 21 |
+| hpai | 1 | 2 | 2 | 7 | 4 | 4 | 0 | 20 |
+| meningitis | 2 | 1 | 6 | 3 | 5 | 2 | 0 | 19 |
+| leptospirosis | 1 | 1 | 0 | 3 | 10 | 3 | 0 | 18 |
+| typhoid | 0 | 1 | 3 | 4 | 1 | 1 | 0 | 10 |
+| shigellosis | 3 | 0 | 1 | 0 | 0 | 1 | 0 | 5 |
+| yersinia | 1 | 0 | 0 | 3 | 0 | 0 | 0 | 4 |
 
 
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 24-47 (pertussis)
+
+- [What Does it Mean to Own the Next 4 Years?](https://sciencebasedmedicine.org/ownit2/) (Sciencebasedmedicine.org)
+
+## 24-47 (mpox)
+
+- [W Stanach Zjednoczonych wykryto pierwszy przypadek nowego wariantu mpox](https://tvn24.pl/swiat/usa-wirus-mpox-nowy-wariant-wykryty-w-stanach-zjednoczonych-st8182826) (Tvn24.pl)
+
+- [В США подтверждён первый случай заражения тяжёлым штаммом оспы обезьян](https://life.ru/p/1703550) (Life.ru)
+
+- [В США выявили первый случай заражения новым штаммом оспы обезьян](https://tass.ru/obschestvo/22422651) (Tass.ru)
+
+- [В США зафиксировали первый случай заражения тяжелым штаммом](https://lenta.ru/news/2024/11/17/v-ssha-zafiksirovali-pervyy-sluchay-zarazheniya-tyazhelym-shtammom/) (Lenta)
+
+- [First known case of rare mpox strain confirmed in United States](https://www.foxnews.com/health/first-case-rare-strain-mpox-confirmed-united-states) (Fox News)
+
+- [US reports first case of new mpox variant](https://www.dw.com/en/us-reports-first-case-of-new-mpox-variant/a-70802996) (DW (English))
+
+- [Confirman primer caso en EE.UU. de una cepa más grave de mpox o viruela del mono en California](https://cnnespanol.cnn.com/2024/11/16/primer-caso-ee-uu-cepa-grave-viruela-mono-mpox-california-trax) (CNN)
+
+- [Health officials report first case of new form of mpox in US](https://www.voanews.com/a/health-officials-report-first-case-of-new-form-of-mpox-in-us/7866681.html) (VOA News)
+
+- [В США выявили первый случай заболевания тяжёлым штаммом оспы обезьян](https://www.ferra.ru/news/health/v-ssha-vyyavili-pervyi-sluchai-zabolevaniya-tyazhyolym-shtammom-ospy-obezyan-17-11-2024.htm) (Ferra.ru)
+
+- [California confirms first US case of more severe mpox strain -- but risk to public remains low](https://abcnews.go.com/Health/california-confirms-us-case-severe-mpox-strain-risk/story?id=115936257) (ABC News)
+
+## 24-47 (measles)
+
+- [What Does it Mean to Own the Next 4 Years?](https://sciencebasedmedicine.org/ownit2/) (Sciencebasedmedicine.org)
+
+## 24-47 (malaria)
+
+- [Lazio, buone notizie dal Senegal: Dia non ha la malaria](https://www.tuttomercatoweb.com/serie-a/lazio-buone-notizie-dal-senegal-dia-non-ha-la-malaria-2035904) (Tuttomercatoweb.com)
+
+## 24-47 (h5n1)
+
+- [תמותה המונית: דיווח ראשון על תחלואה בשפעת העופות בקרב יונקים ימיים](https://www.ynet.co.il/environment-science/article/h1e4qbdgje) (Ynet)
+
+- [TWiV 1167: Virus cloak and entry](https://www.microbe.tv/twiv/twiv-1167/) (Microbe.tv)
+
+## 24-47 (dengue)
+
+- [Waspada DBD di Musim Hujan, Gerakan Satu Rumah Satu Jumantik Jadi Kunci Lawan Dengue](https://www.liputan6.com/health/read/5791891/waspada-dbd-di-musim-hujan-gerakan-satu-rumah-satu-jumantik-jadi-kunci-lawan-dengue) (Liputan6.com)
 
 ## 24-46 (zika)
 
@@ -95,9 +139,65 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-46 (mpox)
 
+- [United States' first known case of more severe strain of mpox confirmed in California](https://www.wisn.com/article/first-known-case-severe-strain-mpox-california/62927067) (WISN Milwaukee)
+
+- [United States' first known case of more severe strain of mpox confirmed in California](https://www.wxii12.com/article/first-known-case-severe-strain-mpox-california/62927067) (WXII12 Winston-Salem)
+
+- [United States' first known case of more severe strain of mpox confirmed in California](https://www.wesh.com/article/first-known-case-severe-strain-mpox-california/62927067) (WESH Orlando)
+
+- [More Severe Mpox Strain Appears in US: What We Know](https://www.newsweek.com/more-severe-mpox-strain-appears-us-what-we-know-1986977) (Newsweek)
+
+- [Detetado primeiro caso de nova variante de mpox nos EUA](https://observador.pt/2024/11/16/detetado-primeiro-caso-de-nova-variante-de-mpox-nos-eua/) (Observador.pt)
+
+- [First case of new Mpox strain recorded in US, California health officials say](https://news.sky.com/story/first-case-of-new-mpox-strain-recorded-in-us-california-health-officials-say-13255388) (Sky.com)
+
+- [News Wrap: Israel targets eastern and southern Lebanon with more deadly airstrikes](https://www.pbs.org/newshour/show/news-wrap-israel-targets-eastern-and-southern-lebanon-with-more-deadly-airstrikes) (PBS)
+
+- [United States’ first known case of more severe strain of mpox confirmed in California](https://www.newsbreak.com/share/3677520160840-united-states-first-known-case-of-more-severe-strain-of-mpox-confirmed-in-california?s=a2&amp;share_destination_id=MTkwMDE2MzI3LTE3MzE3OTcwNjQ5OTY%3D&amp;pd=0CrHvTAd&amp;hl=en_US&amp;send_time=1731797065&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2224.45.0%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_model_exp_24q4-control%2Cns_foryou_recall_exp_24q4-v7%2Cns_foryou_rank_exp_24q4-v8%2Cns_local_strategy_24q4_exp-v15%2Cns_pushv1-v9%2Cns_foryou_blend_exp_24q4-v6) (Newsbreak.com)
+
+- [В США зафиксировали первый случай заражения тяжелым штаммом mpox](https://iz.ru/1792073/2024-11-17/v-ssa-zafiksirovali-pervyi-slucai-zarazenia-tazelym-stammom-mpox) (Iz.ru)
+
+- [Nieuwe mpox-variant nu ook in VS opgedoken](https://www.nrc.nl/nieuws/2024/11/16/nieuwe-mpox-variant-nu-ook-in-vs-opgedoken-a4873427) (Www.nrc.nl)
+
+- [Erstmals neue Mpox-Variante in den USA nachgewiesen](https://orf.at/stories/3376190/) (Orf.at)
+
+- [SUA confirmă primul său pacient cu noua formă de mpox](https://www.digi24.ro/stiri/externe/sua/sua-confirma-primul-sau-pacient-cu-noua-forma-de-mpox-3009143) (Digi24.ro)
+
+- [Autorităţile sanitare din SUA raportează un prim caz al noii forme de mpox](http://hotnews.ro/autoritatile-sanitare-din-sua-raporteaza-un-prim-caz-al-noii-forme-de-mpox-1836965) (Hotnews.ro)
+
+- [US reports first case of emerging mpox strain](https://www.bbc.com/news/articles/cy87gr4l02mo) (BBC News)
+
+- [California confirmă primul caz de infectare cu mpox Clade 1](https://www.mediafax.ro/externe/california-confirma-primul-caz-de-infectare-cu-mpox-clade-1-22559936) (Mediafax.ro)
+
+- [Clade I Mpox: Officials report 1st US case of new aggressive strain in California](https://abc7news.com/post/clade-mpox-officials-report-1st-us-case-new-aggressive-strain-california/15551174/) (KGO-TV)
+
+- [Majomhimlő-fertőzést azonosítottak Kaliforniában](https://www.portfolio.hu/gazdasag/20241116/majomhimlo-fertozest-azonositottak-kaliforniaban-723610) (Portfolio.hu)
+
+- [US health officials report 1st case of new form of mpox in a traveler](https://abcnews.go.com/Health/wireStory/us-health-officials-report-1st-case-new-form-115934226) (ABC News)
+
+- [US health officials report first case of new form of mpox in man who visited Africa](https://www.independent.ie/world-news/north-america/us-health-officials-report-first-case-of-new-form-of-mpox-in-man-who-visited-africa/a1120463605.html) (Independent.ie)
+
+- [California confirms first clade I mpox case](https://www.investing.com/news/world-news/california-confirms-first-clade-i-mpox-case-3726854) (Investing.com)
+
+- [First case of mpox strain reported in San Mateo County, health officials say](https://www.nbcbayarea.com/news/local/new-mpox-strain-reported-san-mateo-county/3711857/) (NBC Bay Area)
+
+- [United States’ first known case of more severe strain of mpox confirmed in California](https://www.newsbreak.com/share/3677520160840-united-states-first-known-case-of-more-severe-strain-of-mpox-confirmed-in-california?_f=app_share&amp;pd=09ygkVxi&amp;lang=en_US&amp;send_time=1731790471&amp;trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2224.31.0.23%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_pushv1-v3%2Cns_local_strategy_24q4_exp-v10%2Cns_summary_v1-v1%2Cns_foryou_blend_exp_24q4-v8%2Cns_foryou_recall_exp_24q4-v3%2Cns_foryou_model_exp_24q4-v6%2Cns_foryou_rank_exp_24q4-v3&amp;s=i2) (Newsbreak.com)
+
+- [United States’ first known case of more severe strain of mpox confirmed in California | CNN](https://www.cnn.com/2024/11/16/health/mpox-clade1-california-first/index.html) (CNN)
+
+- [First U.S. case of new mpox strain clade Ib detected in California](https://www.statnews.com/2024/11/16/mpox-clade-ib-california/) (STAT)
+
+- [U.S. confirms first case of more aggressive strain of mpox](https://www.nbcnews.com/health/health-news/us-first-mpox-case-aggressive-strain-rcna167403) (NBC News)
+
+- [First US Case of New Form of Mpox Surfaces in California](https://www.newser.com/story/359614/first-case-of-new-form-of-mpox-confirmed-in-us.html) (Newser)
+
+- [US health officials report 1st case of new form of mpox in a traveler](https://www.seattlepi.com/news/article/us-health-officials-report-1st-case-of-new-form-19921805.php) (seattlepi.com)
+
 - [U.S. health officials report 1st case of new form of mpox in a traveler](https://www.cbsnews.com/news/us-health-officials-report-1st-case-new-form-mpox-traveler/) (CBS News)
 
 - [US health officials report 1st case of new form of mpox in a traveler](https://economictimes.indiatimes.com/news/international/world-news/us-health-officials-report-1st-case-of-new-form-of-mpox-in-a-traveler/articleshow/115369187.cms) (The Times of India)
+
+- [California confirms first clade I mpox case](https://www.cdc.gov/media/releases/2024/s1116-california-first-clade.html) (Cdc.gov)
 
 - [US health officials report 1st case of new form of mpox in a traveler](https://www.clickondetroit.com/health/2024/11/16/us-health-officials-report-1st-case-of-new-form-of-mpox-in-a-traveler/) (WDIV ClickOnDetroit)
 
@@ -171,6 +271,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-46 (measles)
 
+- [Measles alert issued by NSW Health after confirmed case recorded at pub, petrol station in Sydney's Inner West](https://www.skynews.com.au/lifestyle/health/measles-alert-issued-by-nsw-health-after-confirmed-case-recorded-at-pub-petrol-station-in-sydneys-inner-west/news-story/01ee7e0a573aec034411c52701b8078e) (Sky News Australia)
+
 - [With measles cases surging globally, health officials tell us what LA County is doing right](https://abc7.com/post/global-measles-cases-rise-health-officials-tell-us-what-la-county-is-doing-right-vaccine/15546618/) (KABC-TV)
 
 - ['Not a fully honest accounting': CNN anchor calls out Trump pick over measles outbreak](https://www.rawstory.com/rfk-jr-2669891798/) (Raw Story)
@@ -234,6 +336,10 @@ Source: [News API](https://newsapi.org/)
 - [Nigerian children on World Immunisation Day](https://punchng.com/nigerian-children-on-world-immunisation-day/) (The Punch)
 
 ## 24-46 (malaria)
+
+- [Lazio striker Dia given all-clear after malaria scare](https://football-italia.net/lazio-striker-dia-all-clear-malaria-scare/) (Football Italia)
+
+- [Lazio, sospiro di sollievo per Dia: non ha la malaria, può esserci contro il Bologna](https://www.tuttomercatoweb.com/serie-a/lazio-sospiro-di-sollievo-per-dia-non-ha-la-malaria-puo-esserci-contro-il-bologna-2035841) (Tuttomercatoweb.com)
 
 - [Dia bloccato dalla malaria, l'epidemiologo: "La trasmissione uomo-uomo non è possibile"](https://www.tuttomercatoweb.com/rassegna-stampa/dia-bloccato-dalla-malaria-l-epidemiologo-la-trasmissione-uomo-uomo-non-e-possibile-2035650) (Tuttomercatoweb.com)
 
@@ -398,6 +504,16 @@ Source: [News API](https://newsapi.org/)
 - [Experts Weigh In On Bird Flu Concerns, And The Consensus Isn't As Scary As You Might Think](https://www.huffpost.com/entry/bird-flu-h1n5-virus_l_672bc43ae4b01cfbdad3a432) (HuffPost)
 
 ## 24-46 (dengue)
+
+- [Researchers blame climate change for one fifth of dengue cases](https://www.voanews.com/a/fifth-of-dengue-cases-due-to-climate-change-researchers-/7866482.html) (VOA News)
+
+- [19% dos atuais casos de dengue no mundo são atribuíveis às mudanças climáticas, aponta estudo](https://www.terra.com.br/byte/ciencia/19-dos-atuais-casos-de-dengue-no-mundo-sao-atribuiveis-as-mudancas-climaticas-aponta-estudo,6dd4d1692de1358028b186bcb11ad62awzeoap44.html) (Terra.com.br)
+
+- [Cambio climático impulsa el dengue y podría duplicar casos en 2024](https://www.nacion.com/el-mundo/cambio-climatico-impulsa-el-dengue-y-podria/EN2BTAW35VGZHMZI7BKO7EGZ3E/story/) (Nacion.com)
+
+- [Kiderült, hány fokban terjesztik leginkább a szúnyogok a halálos kórt](https://www.portfolio.hu/gazdasag/20241116/kiderult-hany-fokban-terjesztik-leginkabb-a-szunyogok-a-halalos-kort-723604) (Portfolio.hu)
+
+- [Fifth Of Dengue Cases Due To Climate Change: Researchers](https://www.ibtimes.com/fifth-dengue-cases-due-climate-change-researchers-3751373) (International Business Times)
 
 - ['Dengue is coming': Climate-fueled rise in cases will affect the US, scientists warn](https://www.livescience.com/health/viruses-infections-disease/dengue-is-coming-climate-fueled-rise-in-cases-will-affect-the-us-scientists-warn) (Live Science)
 
@@ -2525,6 +2641,14 @@ Source: [News API](https://newsapi.org/)
 
 - [В Африке выявили более 35 тыс. случаев с подозрением на mpox с начала года](https://tass.ru/obschestvo/22056017) (Tass.ru)
 
+- [Putting cholera back in focus](https://www.thehindubusinessline.com/specials/pulse/putting-cholera-back-in-focus/article68726024.ece) (BusinessLine)
+
+- [El Congo, foco del brote de viruela del mono, comienza la campaña de vacunación](https://www.montevideo.com.uy/Salud/El-Congo-foco-del-brote-de-viruela-del-mono-comienza-la-campana-de-vacunacion-uc902427) (Montevideo.com.uy)
+
+- [Чому міняти постільну білизну варто частіше](https://www.bbc.com/ukrainian/articles/c17lxe84pk2o) (BBC News)
+
+- [Congo starts mpox vaccinations in effort to slow outbreaks](https://www.voanews.com/a/congo-starts-mpox-vaccinations-in-effort-to-slow-outbreaks/7812086.html) (VOA News)
+
 ## 24-41 (meningitis)
 
 - [Massachusetts pharmacist gets up to 15 years in prison for meningitis outbreak deaths](https://abcnews.go.com/US/wireStory/massachusetts-pharmacist-gets-15-years-prison-meningitis-outbreak-114734224) (ABC News)
@@ -2597,6 +2721,8 @@ Source: [News API](https://newsapi.org/)
 
 - [The US is ramping up bird flu surveillance – but will it be enough?](https://www.newscientist.com/article/2450743-the-us-is-ramping-up-bird-flu-surveillance-but-will-it-be-enough/) (New Scientist)
 
+- [Scientists reveal first results of bird flu sampling; health plan shows how NZ would respond to human outbreak](https://www.nzherald.co.nz/nz/scientists-reveal-first-results-of-bird-flu-sampling-health-plan-shows-how-nz-would-respond-to-human-outbreak/ME7OORURMJHYDFCSVAHHBUIDRU/) (New Zealand Herald)
+
 ## 24-41 (dengue)
 
 - [Prevenzione da Dengue a Pesaro, estesa la disinfestazione](https://www.ansa.it/marche/notizie/2024/10/12/prevenzione-da-dengue-a-pesaro-estesa-la-disinfestazione_6486dfc5-f7fe-42fa-94c1-7c1a874a7204.html) (ANSA.it)
@@ -2660,6 +2786,10 @@ Source: [News API](https://newsapi.org/)
 - [County health officials detect first case of dengue virus in Escondido](https://www.10news.com/news/local-news/north-county-news/county-health-officials-detect-first-case-of-dengue-virus-in-escondido) (10News)
 
 - [Implementan plan contra el dengue en Acapulco tras paso de 'John': ¿Cuándo inicia?](https://www.milenio.com/estados/plan-contra-el-dengue-en-acapulco-guerrero-tras-john) (Milenio)
+
+- [QRoo avanza en la lucha contra el dengue: pasa del lugar 3 al 22 en casos nacionales](https://www.milenio.com/estados/quintana-roo-logra-reducir-casos-dengue) (Milenio)
+
+- [Dengue: la nueva inteligencia artificial que usarán en la provincia de Buenos Aires para intentar anticiparse a los brotes](https://www.lanacion.com.ar/sociedad/dengue-la-nueva-inteligencia-artificial-que-usaran-en-la-provincia-de-buenos-aires-para-intentar-nid06102024/) (La Nacion)
 
 ## 24-41 (chikungunya)
 
