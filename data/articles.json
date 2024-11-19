@@ -1,8 +1,370 @@
 {
-  "last_updated": "2024-11-19 07:07",
-  "count_articles_total": 1275,
-  "count_articles_new": 16,
+  "last_updated": "2024-11-19 19:06",
+  "count_articles_total": 1288,
+  "count_articles_new": 20,
   "articles": [
+    {
+      "id": 15696,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Medical Xpress",
+      "author": "Susanne Rust",
+      "title": "H5N1 bird flu infects 5 more humans in California, and 1 in Oregon",
+      "description": "As H5N1 bird flu spreads among California dairy herds and southward-migrating birds, health officials announced Friday six more human cases of infection: five in California and one in Oregon \u2014 the state's first.",
+      "url": "https://medicalxpress.com/news/2024-11-h5n1-bird-flu-infects-humans.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2014/1-h5n1.jpg",
+      "publishedAt": "2024-11-18 17:46:09",
+      "content": "As H5N1 bird flu spreads among California dairy herds and southward-migrating birds, health officials announced Friday six more human cases of infection: five in California and one in Oregon the stat\u2026 [+3429 chars]",
+      "retrievedAt": "2024-11-19 19:06:01.501396",
+      "internal_id": "64223e3768000b2abeace3fedd96397d48f554c72c68801b6e4ce382a40f36aa",
+      "publishedAtLabel": "Nov 18"
+    },
+    {
+      "id": 15702,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "football-italia",
+      "source_name": "Football Italia",
+      "author": "Susy Campanale",
+      "title": "Baroni gives Dia update for Lazio after malaria scare",
+      "description": "Lazio coach Marco Baroni hopes that Boulaye Dia will be fit enough to play against Bologna this weekend after a malaria scare while on international duty with Senegal.",
+      "url": "https://football-italia.net/baroni-gives-dia-update-lazio-malaria-scare/",
+      "urlToImage": "https://icdn.football-italia.net/wp-content/uploads/2024/08/GVIDiPMXMAAc6eN.jpg",
+      "publishedAt": "2024-11-18 16:43:56",
+      "content": "Lazio coach Marco Baroni hopes that Boulaye Dia will be fit enough to play against Bologna this weekend after a malaria scare while on international duty with Senegal. The striker had been called up\u2026 [+1392 chars]",
+      "retrievedAt": "2024-11-19 19:06:02.922779",
+      "internal_id": "d93c74a8bcc26eed598d9dead219a51a016329f2bee9e9a7326cfc65152914c1",
+      "publishedAtLabel": "Nov 18"
+    },
+    {
+      "id": 15695,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "dh.be",
+      "author": "Ludovic Jimenez",
+      "title": "\u201cElle pourrait \u00e9voluer vers la prochaine pand\u00e9mie humaine\u201d : pourquoi la propagation de ce virus met en alerte la communaut\u00e9 scientifique",
+      "description": "L\u2019apparition d\u2019infections humaines et animales pousse les sp\u00e9cialistes \u00e0 alerter sur le risque de mutation du virus H5N1, d\u00e9j\u00e0 en circulation depuis plusieurs ann\u00e9es. D\u2019apr\u00e8s le virologue Steven Van Gucht (Sciensano), une vigilance mondiale s\u2019impose. ...",
+      "url": "https://www.dhnet.be/actu/sante/2024/11/18/elle-pourrait-evoluer-vers-la-prochaine-pandemie-humaine-pourquoi-la-propagation-de-ce-virus-met-en-alerte-la-communaute-scientifique-TDVTDKJLQVFBRAX6LEFW6RN6WY/",
+      "urlToImage": "https://www.dhnet.be/resizer/v2/HWDNLBBWG5EYTJGZZTHQHGLZXQ.jpg?auth=cc2329242c1e49e50324cf4450f1f1f945f7237ea503d10a3a139a1a03e38c33&width=1200&height=630&quality=85&focal=1500%2C1000&watermark=https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Fipmgroup%2FDZNGDE46VVGXRGHD3TEI5RB3GM.png%3A100%3A0%2C559",
+      "publishedAt": "2024-11-18 16:30:25",
+      "content": "guillement Si des mesures plus strictes avaient \u00e9t\u00e9 prises d\u00e8s le d\u00e9but, la situation aurait pu \u00eatre ma\u00eetris\u00e9e\" Steven Van Gucht, virologue chez Sciensano Face \u00e0 cette situation, les experts expri\u2026 [+4658 chars]",
+      "retrievedAt": "2024-11-19 19:06:01.446989",
+      "internal_id": "4a7342f9cf253c958fc9b79a4c42e040a455732d8a800fd1288f13e958b9253e",
+      "publishedAtLabel": "Nov 18"
+    },
+    {
+      "id": 15710,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Clement Meseko, Veterinarian & Virologist, National Veterinary Research Institute, Vom, Jos",
+      "title": "Quels sont les animaux porteurs de mpox ? Notre \u00e9tude a identifi\u00e9 les rongeurs vivant dans les for\u00eats africaines comme l'une des sources de la maladie",
+      "description": "\u00c0 l'\u00e9tat naturel, le mpox est principalement limit\u00e9 aux r\u00e9gions foresti\u00e8res humides d'Afrique de l'Ouest et d'Afrique centrale.",
+      "url": "https://theconversation.com/quels-sont-les-animaux-porteurs-de-mpox-notre-etude-a-identifie-les-rongeurs-vivant-dans-les-forets-africaines-comme-lune-des-sources-de-la-maladie-243812",
+      "urlToImage": "https://images.theconversation.com/files/632283/original/file-20241115-15-y4pavv.jpg?ixlib=rb-4.1.0&rect=0%2C592%2C4165%2C2082&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2024-11-18 15:54:12",
+      "content": "Le mpox est une maladie caus\u00e9e par le virus de la variole du singe, hautement infectieux. Elle se transmet assez facilement d'une personne \u00e0 l'autre. Mais \u00e0 l'origine, elle provient d'animaux infect\u00e9\u2026 [+7719 chars]",
+      "retrievedAt": "2024-11-19 19:06:04.755373",
+      "internal_id": "ad9b6ad5b461c108a1efc5f0540534ea33378a8288d1e700a25d331dbbc2d8a0",
+      "publishedAtLabel": "Nov 18"
+    },
+    {
+      "id": 15705,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Ravenna Alves",
+      "title": "EUA registra 1\u00b0 caso de nova cepa da mpox. Saiba sintomas da doen\u00e7a",
+      "description": "Nova vers\u00e3o do v\u00edrus \u00e9 considerada mais grave e foi identificada pela primeira vez na Rep\u00fablica Democr\u00e1tica do Congo",
+      "url": "https://www.metropoles.com/saude/eua-registra-nova-cepa-mpox-veja-sintomas",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/09/17132738/mpox-maos.jpg",
+      "publishedAt": "2024-11-18 15:03:53",
+      "content": "Ap\u00f3s o registro do primeiro caso da cepa Clado 1b da mpox nos Estados Unidos, a possibilidade de dissemina\u00e7\u00e3o da doen\u00e7a voltou a preocupar as autoridades de sa\u00fade. A variante Clado 1b \u00e9 considerada \u2026 [+3151 chars]",
+      "retrievedAt": "2024-11-19 19:06:04.609602",
+      "internal_id": "5e4db798f4467621d9bf39ee9371a0c107e205ef1f3850dc35cdb37d5dedd85b",
+      "publishedAtLabel": "Nov 18"
+    },
+    {
+      "id": 15700,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Jdgreear.com",
+      "author": "J.D. Greear",
+      "title": "The First Sounds We Hear Are Words of Personal Love",
+      "description": "I once heard the story of a man named Steve who, when he was 2 years old, became deaf after contracting spinal meningitis. For the... The post The First Sounds We Hear Are Words of Personal Love appeared first on JD Greear Ministries.",
+      "url": "https://jdgreear.com/the-first-sounds-we-hear-are-words-of-personal-love/",
+      "urlToImage": "https://jdgreear.com/wp-content/uploads/2024/09/love.jpg",
+      "publishedAt": "2024-11-18 15:00:05",
+      "content": "I once heard the story of a man named Steve who, when he was 2 years old, became deaf after contracting spinal meningitis. For the next 58 years of his life, he lived in total silenceno music, no lau\u2026 [+5317 chars]",
+      "retrievedAt": "2024-11-19 19:06:02.202186",
+      "internal_id": "8c567480a6f6c00a67a303b7afee6741b8ca5b5641c6c37819923ab718131427",
+      "publishedAtLabel": "Nov 18"
+    },
+    {
+      "id": 15708,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Steven Lam, Postdoctoral Scientist, CGIAR System Organization, Delia Grace, Professor Food Safety Systems at the Natural Resources Institute (UK) and contributing scientist ILRI, International Livestock Research Institute",
+      "title": "Contre le virus mpox en Afrique : rendre plus s\u00fbrs les march\u00e9s de viande sauvage, cause originelle de l\u2019\u00e9pid\u00e9mie",
+      "description": "Les strat\u00e9gies de lutte contre le mpox doivent aussi s\u2019attaquer \u00e0 la cause profonde de l\u2019\u00e9pid\u00e9mie de variole simienne en Afrique : les conditions de vente de viande sauvage sur les march\u00e9s.",
+      "url": "https://theconversation.com/contre-le-virus-mpox-en-afrique-rendre-plus-surs-les-marches-de-viande-sauvage-cause-originelle-de-lepidemie-243489",
+      "urlToImage": "https://images.theconversation.com/files/631443/original/file-20241112-23-s88fvb.jpg?ixlib=rb-4.1.0&rect=0%2C711%2C6006%2C2998&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2024-11-18 14:52:08",
+      "content": "Les strat\u00e9gies de lutte contre l\u2019\u00e9pid\u00e9mie de mpox qui s\u00e9vit en Afrique en 2024 se concentrent sur la pr\u00e9vention de la transmission interhumaine. Elles doivent aussi s\u2019attaquer aux causes profondes, e\u2026 [+8459 chars]",
+      "retrievedAt": "2024-11-19 19:06:04.674264",
+      "internal_id": "dc865fba145e5504e958e0ead181f86a3fdae34f295d95a6686c1a04080ff67c",
+      "publishedAtLabel": "Nov 18"
+    },
+    {
+      "id": 15707,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Estad\u00e3o Conte\u00fado",
+      "title": "Mpox: entenda o que a OMS vai avaliar em reuni\u00e3o marcada para o dia 22",
+      "description": "Neste m\u00eas, o Reino Unido confirmou tr\u00eas casos de transmiss\u00e3o local da doen\u00e7a, os primeiros fora do continente africano",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/mpox-entenda-o-que-a-oms-vai-avaliar-em-reuniao-marcada-para-o-dia-22,cba7b102d7cc122ea68d1b72605ff45a2o7szbed.html",
+      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2024-11-18 14:41:57",
+      "content": "A Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS) convocou seu Comit\u00ea de Emerg\u00eancia para reavaliar a situa\u00e7\u00e3o da mpox (antes chamada de \"var\u00edola dosmacacos\") em escala global. A reuni\u00e3o, marcada para o dia 22 de \u2026 [+4141 chars]",
+      "retrievedAt": "2024-11-19 19:06:04.659458",
+      "internal_id": "e11d6ecea875437a509fae941a0c809713c1c3979e144e8f509b8541dbeadb9d",
+      "publishedAtLabel": "Nov 18"
+    },
+    {
+      "id": 15706,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Record.com.mx",
+      "author": "@record_mexico",
+      "title": "Estados Unidos confirma primer caso de la nueva cepa del mpox",
+      "description": "Cient\u00edficos reportan que esta variante de la viruela del mono es m\u00e1s agresiva que las anteriores",
+      "url": "https://www.record.com.mx/contra/estados-unidos-confirma-primer-caso-de-la-nueva-cepa-del-mpox",
+      "urlToImage": "https://www.record.com.mx/sites/default/files/articulos/2024/11/18/cepa_mpox_3.jpg",
+      "publishedAt": "2024-11-18 14:41:47",
+      "content": "Las autoridades de salud estadounidenses informaron que han confirmado el primer caso en Estados Unidos de un nuevo tipo de viruela del mono o mpox que se detect\u00f3 por primera vez en el este de la Rep\u2026 [+2456 chars]",
+      "retrievedAt": "2024-11-19 19:06:04.621200",
+      "internal_id": "de0d135902aeafc5936932932e16c6b077380651d3cba1acf432e4bce901b2fe",
+      "publishedAtLabel": "Nov 18"
+    },
+    {
+      "id": 15693,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Hatty Willmoth",
+      "title": "Map Shows States Where Bird Flu H5N1 Has Spread",
+      "description": "Avian influenza H5N1 infection in humans has spread to seven U.S. states, growing from 46 cases last week to 52 cases this week.",
+      "url": "https://www.newsweek.com/bird-avian-flu-map-us-states-1987366",
+      "urlToImage": "https://d.newsweek.com/en/full/2523226/map-virus-chicken.png",
+      "publishedAt": "2024-11-18 14:01:21",
+      "content": "Hawaii could become the eighth U.S. state to see human cases of bird flu, after the state's Department of Health issued a warning on Sunday to members of the public who attended a pet fair. The Cent\u2026 [+3989 chars]",
+      "retrievedAt": "2024-11-19 19:06:01.400719",
+      "internal_id": "01609f905dbd933369d509e6023ec2d9454822bf22e4b2e4f887886f5201d005",
+      "publishedAtLabel": "Nov 18"
+    },
+    {
+      "id": 15698,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Claver N. Adjobi, Julien Z. B. Zahouli, N\u00e9gnorogo Guindo-Coulibaly, Allassane F. Ouattara, Laura Vavassori, Maurice A. Adja",
+      "title": "Assessing the ecological patterns of Aedes aegypti in areas with high arboviral risks in the large city of Abidjan, C\u00f4te d\u2019Ivoire",
+      "description": "Author summary As most sub-Saharan African cities, Abidjan in C\u00f4te d\u2019Ivoire has faced recently a considerable increase in the outbreaks of dengue (DEN) and yellow fever (YF). However, critical data are still lacking on the ecology of the main vector Aedes aeg\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012647",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012647.g004&size=inline",
+      "publishedAt": "2024-11-18 14:00:00",
+      "content": "Introduction Aedes mosquito-borne arboviral diseases such as dengue (DEN), yellow fever (YF), chikungunya (CHIK) and Zika (ZIK), pose a significant threat to over 831 million people, representing 70\u2026 [+59504 chars]",
+      "retrievedAt": "2024-11-19 19:06:01.935022",
+      "internal_id": "9c8161b39b691a334ae7d1234111dd34f368b1f61711de91ed71521905b81e22",
+      "publishedAtLabel": "Nov 18"
+    },
+    {
+      "id": 15694,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Radiozamaneh.org",
+      "author": "ramtin",
+      "title": "\u0648\u06cc\u0631\u0648\u0633 \u0622\u0646\u0641\u0648\u0644\u0627\u0646\u0632\u0627\u06cc \u067e\u0631\u0646\u062f\u06af\u0627\u0646 \u0627\u0686\u200c\u06f5\u200c\u0627\u0646\u06f1 \u0628\u0647 \u062e\u0648\u06a9 \u0648 \u0622\u0628\u0632\u06cc\u0627\u0646 \u0647\u0645 \u0631\u0633\u06cc\u062f: \u0622\u06cc\u0627 \u0622\u0645\u0627\u062f\u0647 \u067e\u0627\u0646\u062f\u0645\u06cc\u06a9 \u0628\u0639\u062f\u06cc \u0647\u0633\u062a\u06cc\u0645\u061f",
+      "description": "\u0631\u0627\u0645\u062a\u06cc\u0646 \u0634\u0647\u0631\u0632\u0627\u062f - \u067e\u0633 \u0627\u0632 \u0622\u0646\u06a9\u0647 \u0648\u06cc\u0631\u0648\u0633 \u0622\u0646\u0641\u0648\u0644\u0627\u0646\u0632\u0627\u06cc \u067e\u0631\u0646\u062f\u06af\u0627\u0646 \u0627\u0686\u06f5\u0627\u0646\u06f1 \u062f\u0631 \u0645\u06cc\u0627\u0646 \u06a9\u0627\u0631\u06af\u0631\u0627\u0646 \u062f\u0627\u0645\u062f\u0627\u0631\u06cc\u200c\u0647\u0627\u06cc \u0622\u0645\u0631\u06cc\u06a9\u0627 \u067e\u062e\u0634 \u0634\u062f\u060c \u062d\u0627\u0644\u0627 \u0628\u0647 \u063a\u0631\u0628 \u06a9\u0627\u0646\u0627\u062f\u0627 \u0631\u0633\u06cc\u062f\u0647 \u0648 \u0627\u06cc\u0646 \u0648\u06cc\u0631\u0648\u0633 \u0631\u0627 \u062f\u0631 \u062e\u0648\u06a9 \u0647\u0645 \u06cc\u0627\u0641\u062a\u0647\u200c\u0627\u0646\u062f. \u0622\u06cc\u0627 \u067e\u0627\u0646\u062f\u0645\u06cc\u06a9 \u0628\u0639\u062f\u06cc \u0628\u0627 \u0627\u06cc\u0646 \u0648\u06cc\u0631\u0648\u0633 \u062e\u0648\u0627\u0647\u062f \u0628\u0648\u062f \u0648 \u0622\u06cc\u0627 \u0622\u0645\u0627\u062f\u0647 \u0622\u0646 \u0647\u0633\u062a\u06cc\u0645\u061f",
+      "url": "https://prod.radiozamaneh.org/839237",
+      "urlToImage": null,
+      "publishedAt": "2024-11-18 13:00:00",
+      "content": ": , , : Featured Splash, Featured Top, H5N1, , , , ,",
+      "retrievedAt": "2024-11-19 19:06:01.429718",
+      "internal_id": "2d519565bfb55e7f31c3c7f2ce1fa61da272bf340ff9e22f5d45a7f0e87b24eb",
+      "publishedAtLabel": "Nov 18"
+    },
+    {
+      "id": 15692,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "\u0627\u0644\u062f\u0648\u0644 \u0628\u0627\u062a\u062a \u0645\u0647\u0648\u0648\u0633\u0629 \u0628\u0640\"\u0627\u0644\u0641\u0648\u0632 \u0641\u064a \u0633\u0628\u0627\u0642 \u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a\" - \u0627\u0644\u063a\u0627\u0631\u062f\u064a\u0627\u0646",
+      "description": "\u0641\u064a \u062c\u0648\u0644\u0629 \u0627\u0644\u0635\u062d\u0627\u0641\u0629 \u0627\u0644\u064a\u0648\u0645\u060c \u0646\u0633\u062a\u0639\u0631\u0636 \u0633\u0628\u0627\u0642 \u0627\u0644\u062f\u0648\u0644 \u0644\u0644\u062a\u0641\u0648\u0642 \u0627\u0644\u0639\u0633\u0643\u0631\u064a \u0628\u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a\u060c \u062a\u0639\u0644\u064a\u0642\u0627\u064b \u0645\u062b\u064a\u0631\u0627\u064b \u062d\u0648\u0644 \u0648\u0632\u064a\u0631 \u0627\u0644\u0635\u062d\u0629 \u0627\u0644\u0623\u0645\u0631\u064a\u0643\u064a \u0627\u0644\u0645\u0642\u0628\u0644 \u0648\u0622\u0631\u0627\u0626\u0647 \u0627\u0644\u0645\u062b\u064a\u0631\u0629 \u0644\u0644\u062c\u062f\u0644\u060c \u0648\u062f\u062e\u0648\u0644 \u0625\u064a\u0644\u0648\u0646 \u0645\u0627\u0633\u0643 \u0628\u0642\u0648\u0629 \u0625\u0644\u0649 \u0627\u0644\u0645\u0634\u0647\u062f \u0627\u0644\u0633\u064a\u0627\u0633\u064a.",
+      "url": "https://www.bbc.com/arabic/articles/crk41xpppyeo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_arabic/9c4d/live/e76ea0d0-a592-11ef-b01a-7f094b2599de.jpg",
+      "publishedAt": "2024-11-18 11:54:40",
+      "content": "Getty Images \" \" . \" \" . \" \" . \" \" . . . . \" \" . . . . Getty Images . . ( ) . . . : \" \" -19 \" \". \" \" \" (MMR) -19 . . . . H5N1 . H5N1 . . \" \" . -1\u2026 [+187 chars]",
+      "retrievedAt": "2024-11-19 19:06:01.393693",
+      "internal_id": "8497efda7dea2e2d05fbe65a6ec603b03b42576631c2b22eadaddc5acb83e131",
+      "publishedAtLabel": "Nov 18"
+    },
+    {
+      "id": 15697,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Der Tagesspiegel",
+      "title": "13 Millionen Infektionen und 8.500 Todesf\u00e4lle dieses Jahr : W\u00e4rmeres Klima f\u00fchrt zu mehr Dengue-Infektionen",
+      "description": "Die steigenden Temperaturen haben gesundheitliche Folgen. Einer Studie zufolge versch\u00e4rft der menschengemachte Klimawandel die Ausbreitung des Denguefiebers.",
+      "url": "https://www.tagesspiegel.de/wissen/13-millionen-infektionen-und-8500-todesfalle-dieses-jahr-warmeres-klima-fuhrt-zu-mehr-dengue-infektionen-12724742.html",
+      "urlToImage": null,
+      "publishedAt": "2024-11-18 11:13:10",
+      "content": "Bei vielen Infektionskrankheiten ist im Zuge des Klimawandels mit einem Anstieg der Fallzahlen und einer Ausbreitung der Erreger zu rechnen. Dazu geh\u00f6rt schon jetzt das Denguefieber: Rund 19 Prozent \u2026 [+5758 chars]",
+      "retrievedAt": "2024-11-19 19:06:01.901482",
+      "internal_id": "5742d33748bab5135de3a784f51957000cd54f268f991d25f0ab3ddd8522f3e2",
+      "publishedAtLabel": "Nov 18"
+    },
+    {
+      "id": 15691,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Scientific American",
+      "author": "Rachel Feltman, Andrea Thompson, Alec Luhn, Fonda Mwangi, Madison Goldberg",
+      "title": "Drought across the U.S., H5N1 in Canada and Uranus Data Reevaluated",
+      "description": "A serious bird flu infection in Canada, a troubling projection of future plastic waste and dispatches from a global climate convention.",
+      "url": "https://www.scientificamerican.com/podcast/episode/drought-across-the-u-s-h5n1-in-canada-and-uranus-data-reevaluated/",
+      "urlToImage": "https://static.scientificamerican.com/dam/m/450fc996fe659a91/original/SQ-Monday-EP-Art.png?m=1717792183.71&w=1200",
+      "publishedAt": "2024-11-18 11:00:00",
+      "content": "[CLIP: Theme music] Rachel Feltman: Happy Monday, listeners! For Scientific American\u2019s Science Quickly, I\u2019m Rachel Feltman. Let\u2019s get the week started by catching up on a few science stories you mig\u2026 [+10849 chars]",
+      "retrievedAt": "2024-11-19 19:06:01.361832",
+      "internal_id": "5ab4a74f6776c3e60a6f5da25e770202c3c9518cacc2d4b20ae2240e94b0ece3",
+      "publishedAtLabel": "Nov 18"
+    },
+    {
+      "id": 15703,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Ayana Archie",
+      "title": "A more severe strain of mpox has been detected in the U.S. for the first time",
+      "description": "The patient was traveling from East Africa, where the mpox disease is endemic. The CDC says the strain does not present a high risk to the general population.",
+      "url": "https://www.npr.org/2024/11/18/nx-s1-5194956/mpox-strain-california",
+      "urlToImage": "https://media.npr.org/assets/img/2023/06/16/monkey-pox-virus_wide-15ed16e88f2fcc744a41a402efd21f011c980bc1.jpg?s=1400&c=100&f=jpeg",
+      "publishedAt": "2024-11-18 10:08:44",
+      "content": "An electron microscopic image of mpox virus particles. Smith Collection/Gado via Getty Images A strain of mpox disease that had previously been undetected in the U.S. has been found in California, \u2026 [+1652 chars]",
+      "retrievedAt": "2024-11-19 19:06:04.439485",
+      "internal_id": "588ecd17ddb6186051641542e458736600452ec33ff2a2bea4ad390e94ea27de",
+      "publishedAtLabel": "Nov 18"
+    },
+    {
+      "id": 15709,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Malaysiakini",
+      "author": "Bernama",
+      "title": "No new Mpox cases since Sept 16 - health minister",
+      "description": "No new Mpox cases since Sept 16 - health ministermalaysiakini.com",
+      "url": "https://www.malaysiakini.com/news/726284",
+      "urlToImage": "https://i.newscdn.net/publisher-c1a3f893382d2b2f8a9aa22a654d9c97/2024/08/395894dfbe4831819042f7451b83c63a.jpg",
+      "publishedAt": "2024-11-18 08:32:38",
+      "content": "No new cases of Mpox have been detected since Sept 16, 2024, said Health Minister Dzulkefly Ahmad. He said this was after the Health Ministry screened 22.8 million tourists at the many entry points \u2026 [+69 chars]",
+      "retrievedAt": "2024-11-19 19:06:04.727761",
+      "internal_id": "4318a71c33b9698de51c31edb1b988f63f993ee97e94934c9928ae620dddea31",
+      "publishedAtLabel": "Nov 18"
+    },
+    {
+      "id": 15701,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "title": "Durango: familias de v\u00edctimas de meningitis exigen justicia",
+      "description": "Durango, Dgo., Dos a\u00f1os despu\u00e9s de decretarse emergencia sanitaria en Durango por 80 casos positivos de meningitis, familiares y sobrevivientes exigieron justicia para 63 de los 80 enfermos, pues s\u00f3lo se han otorgados indemnizaciones a 17 familias. Treinta y \u2026",
+      "url": "https://www.jornada.com.mx/2024/11/18/estados/025n1est",
+      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "publishedAt": "2024-11-18 08:11:20",
+      "content": "Peri\u00f3dico La JornadaLunes 18 de noviembre de 2024, p. 25 Durango, Dgo., Dos a\u00f1os despu\u00e9s de decretarse emergencia sanitaria en Durango por 80 casos positivos de meningitis, familiares y sobrevivient\u2026 [+2917 chars]",
+      "retrievedAt": "2024-11-19 19:06:02.209449",
+      "internal_id": "33b468dfa7115603f9bdc4e7d5fc36ce818b20754519196995b9af00b6f6dfb4",
+      "publishedAtLabel": "Nov 18"
+    },
+    {
+      "id": 15699,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ary-news",
+      "source_name": "Ary News",
+      "author": "Web Desk",
+      "title": "Dengue tally reaches 7451 cases in Punjab",
+      "description": "LAHORE: Dengue cases have surged in Lahore with 56 new instances reported in the past 24 hours, ARY News reported on Monday. As per the statistics",
+      "url": "https://arynews.tv/dengue-tally-reaches-7451-cases-in-punjab/",
+      "urlToImage": "https://arynews.tv/wp-content/uploads/2024/11/dengue-2.jpg",
+      "publishedAt": "2024-11-18 07:49:01",
+      "content": "LAHORE: Dengue cases have surged in Lahore with 56 new instances reported in the past 24 hours, ARY News reported on Monday. As per the statistics released by the Punjab Department of Health Care, a\u2026 [+1261 chars]",
+      "retrievedAt": "2024-11-19 19:06:01.947399",
+      "internal_id": "8eb52ae7d808271cfaf4273fabe1765c8eedb47a8039c3baab6f48865f62371c",
+      "publishedAtLabel": "Nov 18"
+    },
+    {
+      "id": 15704,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Natemat.pl",
+      "author": "Antonina Zborowska",
+      "title": "Wr\u00f3ci\u0142 z podr\u00f3\u017cy z Afryki i wyl\u0105dowa\u0142 w szpitalu. WHO bije na alarm: Jest nowy wariant wirusa mpox",
+      "description": "Zaka\u017cenie nowym wariantem mpox, znanym wcze\u015bniej jako ma\u0142pia ospa, wykryto w Kalifornii. To pierwszy taki przypadek w USA. Choroba przenosi si\u0119 przez bliski kontakt i wywo\u0142uje zmiany sk\u00f3rne oraz objawy podobne do grypy. Wirusy i powodowane przez nie choroby \u2026",
+      "url": "https://natemat.pl/577070,nowy-wariant-wirusa-mpox-w-usa-pacjent-przywiozl-go-z-afryki",
+      "urlToImage": "https://m.natemat.pl/01611328671141d1dfbff69235b8eac9,1200,0,0,0.jpg",
+      "publishedAt": "2024-11-18 07:14:18",
+      "content": "Daj napiwek autorowi Daj napiwek autorowi Wirusy i powodowane przez nie choroby s nieodcznym elementem naszego wiata czsto niebezpieczne, czasem nieprzewidywalne. W Kalifornii odnotowano pierwszy w\u2026 [+1915 chars]",
+      "retrievedAt": "2024-11-19 19:06:04.536122",
+      "internal_id": "8c754e9912a772875dea49680a606586cad07f4c67bff18be62f9e56edcac24c",
+      "publishedAtLabel": "Nov 18"
+    },
     {
       "id": 15689,
       "query": [
@@ -22882,132 +23244,6 @@
       "content": ", 7 . //. 35 . mpox ( ) , , 1 29 2024 . (). 35 525 mpox, 996 , . 23 29 4 098, - 156. mpox () - 30 766 990 . , 1 368 . . mpox 2022 11 2023 . , 14 . Mpox - , , . 1970 .",
       "retrievedAt": "2024-10-08 07:06:36.820755",
       "internal_id": "c8d41bd8a82c244700b16df93dce471063fff143fa71d152186b8512724ae634",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 14401,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Milenio",
-      "author": "Redacci\u00f3n",
-      "title": "QRoo avanza en la lucha contra el dengue: pasa del lugar 3 al 22 en casos nacionales",
-      "description": "Como resultado de la estrategia de lucha contra el dengue, Quintana Roo se encuentra en la posici\u00f3n n\u00famero 22 a nivel nacional por n\u00famero de casos, un logro hist\u00f3rico resultado de la estrategia, coordinaci\u00f3n e inversi\u00f3n.El gobierno de Mara Lezama Espinosa ha \u2026",
-      "url": "https://www.milenio.com/estados/quintana-roo-logra-reducir-casos-dengue",
-      "urlToImage": "https://cdn.milenio.com/uploads/media/2024/10/06/personal-salud-estrategia-combate-dengue.jpg",
-      "publishedAt": "2024-10-06 18:17:21",
-      "content": "Como resultado de la estrategia de lucha contra el dengue, Quintana Roo se encuentra en la posici\u00f3n n\u00famero 22a nivel nacional por n\u00famero de casos, un logro hist\u00f3rico resultado de la estrategia, coord\u2026 [+1233 chars]",
-      "retrievedAt": "2024-10-07 19:05:46.416575",
-      "internal_id": "fb8359d159b4770146ebb1fef0a0b941100a740e3096def2f8ea78203600662e",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 14441,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "BusinessLine",
-      "author": "G Naga Sridhar",
-      "title": "Putting cholera back in focus",
-      "description": "Cholera, a deadly diarrhoeal disease, is resurging globally, prompting calls for vaccination and improved public health measures.",
-      "url": "https://www.thehindubusinessline.com/specials/pulse/putting-cholera-back-in-focus/article68726024.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/miae01/article68726023.ece/alternates/LANDSCAPE_1200/2016-11-09T202739Z_932842931_S1AEULXCLNAA_RTRMADP_3_HAITI-CHOLERA.JPG",
-      "publishedAt": "2024-10-06 16:52:57",
-      "content": "In the rush to tackle emerging public health concerns like mpox and Covid-19, are diseases like cholera being overlooked? Rapid urbanisation, climate change, and conflicts are putting pressure on hea\u2026 [+3942 chars]",
-      "retrievedAt": "2024-10-09 07:07:06.985248",
-      "internal_id": "4dcf1791d2170865df6770b818e237aa6a0b1e38b356e6d79a9b97dff16a4ca3",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 14415,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Montevideo.com.uy",
-      "author": "Montevideo Portal",
-      "title": "El Congo, foco del brote de viruela del mono, comienza la campa\u00f1a de vacunaci\u00f3n",
-      "description": "La mpox, que comenz\u00f3 a expandirse desde la vecina Kivu del Sur, est\u00e1 presente ya en 23 de las 26 provincias del pa\u00eds.",
-      "url": "https://www.montevideo.com.uy/Salud/El-Congo-foco-del-brote-de-viruela-del-mono-comienza-la-campana-de-vacunacion-uc902427",
-      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202207/_W933_80/808770.jpg",
-      "publishedAt": "2024-10-06 16:15:00",
-      "content": "La Rep\u00fablica Democr\u00e1tica del Congo (RDC), foco del actual brote de viruela del mono (mpox), comenz\u00f3 este s\u00e1bado la campa\u00f1a de vacunaci\u00f3n contra la enfermedad en la provincia de Kivu del Norte, en \u2026 [+3683 chars]",
-      "retrievedAt": "2024-10-08 07:06:36.998521",
-      "internal_id": "a3a00c45095f9f7ae77bef5891de72e4eaad698431ee503d5d0cfb05251726c0",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 14406,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "New Zealand Herald",
-      "author": "Jamie Morton",
-      "title": "Scientists reveal first results of bird flu sampling; health plan shows how NZ would respond to human outbreak",
-      "description": "Sampling shows no sign of big-risk bird flu - but its NZ arrival is 'just matter of time'.",
-      "url": "https://www.nzherald.co.nz/nz/scientists-reveal-first-results-of-bird-flu-sampling-health-plan-shows-how-nz-would-respond-to-human-outbreak/ME7OORURMJHYDFCSVAHHBUIDRU/",
-      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/I5QUGT3H4AQADPWY2BXDCBLOFM.jpg?auth=507e06d0b5d82b1a5d186e3e57ff45ad9a4fb846b921f13034617d776f4b61b1&width=1200&height=675&quality=70&smart=true",
-      "publishedAt": "2024-10-06 16:00:00",
-      "content": "Oceania remains the last region yet to record a case of H5N1, which has killed nearly 300 million birds worldwide, including tens of thousands of endangered and endemic species. Scientists have been\u2026 [+3786 chars]",
-      "retrievedAt": "2024-10-08 07:06:33.254628",
-      "internal_id": "5461537a67c76376a7d1c1b0005341128e64d73f362306a24e3efdc3ab3eab6a",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 14402,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "la-nacion",
-      "source_name": "La Nacion",
-      "author": "Cintia Perazo",
-      "title": "Dengue: la nueva inteligencia artificial que usar\u00e1n en la provincia de Buenos Aires para intentar anticiparse a los brotes",
-      "description": "El programa, desarrollado por investigadores de la Unsam, ya se est\u00e1 probando y promete inferir cu\u00e1ntos mosquitos infectados habr\u00e1 en cada manzana del conurbano",
-      "url": "https://www.lanacion.com.ar/sociedad/dengue-la-nueva-inteligencia-artificial-que-usaran-en-la-provincia-de-buenos-aires-para-intentar-nid06102024/",
-      "urlToImage": "https://resizer.glanacion.com/resizer/v2/el-dengue-se-contagia-por-la-picadura-del-VYNUJTEDOFEQNNIQ4SPVPFIUCA.jpg?auth=241260c572bad34eade992656cf41cbdc3bf5b53ec8d7849f230ef7202a9c141&width=768&quality=70&smart=false",
-      "publishedAt": "2024-10-06 15:30:00",
-      "content": "Un equipo de investigadores de la Universidad Nacional de San Mart\u00edn (Unsam), liderado por Ezequiel \u00c1lvarez, est\u00e1 desarrollando un modelo de inteligencia artificial bayesiana que permitir\u00e1 anticipar \u2026 [+7718 chars]",
-      "retrievedAt": "2024-10-07 19:05:46.489307",
-      "internal_id": "199661668e62d7913ed09632ec701443735ed6c24b8bfd3dc7f6895c5f324940",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 14404,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "BBC News",
-      "author": "http://www.facebook.com/bbcnews",
-      "title": "\u0427\u043e\u043c\u0443 \u043c\u0456\u043d\u044f\u0442\u0438 \u043f\u043e\u0441\u0442\u0456\u043b\u044c\u043d\u0443 \u0431\u0456\u043b\u0438\u0437\u043d\u0443 \u0432\u0430\u0440\u0442\u043e \u0447\u0430\u0441\u0442\u0456\u0448\u0435",
-      "description": "\u041c\u0438 \u043f\u0440\u043e\u0432\u043e\u0434\u0438\u043c\u043e \u043d\u0430 \u043f\u0440\u043e\u0441\u0442\u0438\u0440\u0430\u0434\u043b\u0430\u0445 \u0456 \u043f\u043e\u0434\u0443\u0448\u043a\u0430\u0445 \u0442\u0440\u0435\u0442\u0438\u043d\u0443 \u0441\u0432\u043e\u0433\u043e \u0436\u0438\u0442\u0442\u044f \u0449\u043e\u0434\u043d\u044f, \u0456 \u0446\u0435\u0439 \u043a\u043e\u043d\u0442\u0430\u043a\u0442 \u0441\u0442\u0432\u043e\u0440\u044e\u0454 \u0456\u0434\u0435\u0430\u043b\u044c\u043d\u0435 \u0441\u0435\u0440\u0435\u0434\u043e\u0432\u0438\u0449\u0435 \u0434\u043b\u044f \u043a\u0443\u043f\u0438 \u043d\u0435\u0431\u0430\u0436\u0430\u043d\u0438\u0445 \u0433\u043e\u0441\u0442\u0435\u0439.",
-      "url": "https://www.bbc.com/ukrainian/articles/c17lxe84pk2o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_ukrainian/4a90/live/93eb8570-825d-11ef-a96a-4578729d5d06.jpg",
-      "publishedAt": "2024-10-06 12:57:11",
-      "content": "Article information , . , , . . , , , . - , , , . , . 500 , , , . , , . . 2013 , , . , , - S. aureus, , . \" , \", - , , . , Getty Images , , , , . 2018 , , , , . . 2022 , (mpox).\u2026 [+472 chars]",
-      "retrievedAt": "2024-10-07 19:05:48.100667",
-      "internal_id": "fac9e291a8c7df398968a765d17d6decda9bb0f861135150c7c7d0210073ff1c",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 14403,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "VOA News",
-      "author": "webdesk@voanews.com (Associated Press)",
-      "title": "Congo starts mpox vaccinations in effort to slow outbreaks",
-      "description": "GOMA, Congo \u2014 Congolese authorities on Saturday began vaccinations against mpox, nearly two months after the disease outbreak that spread from Congo to several African countries and beyond was declared a global emergency by the World Health Organization. Th\u2026",
-      "url": "https://www.voanews.com/a/congo-starts-mpox-vaccinations-in-effort-to-slow-outbreaks/7812086.html",
-      "urlToImage": "https://gdb.voanews.com/F2A047DA-F41F-406F-A699-3C87C334BCA6.jpg",
-      "publishedAt": "2024-10-06 07:11:34",
-      "content": "GOMA, Congo Congolese authorities on Saturday began vaccinations against mpox, nearly two months after the disease outbreak that spread from Congo to several African countries and beyond was declare\u2026 [+3282 chars]",
-      "retrievedAt": "2024-10-07 19:05:47.955180",
-      "internal_id": "fe487d05e9b2250a6d57ce4b443e1a3cd84340b29390439d476a26f8cd086a69",
       "publishedAtLabel": "Oct 6"
     }
   ]

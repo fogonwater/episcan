@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 16
-- **Last harvest:** 2024-11-19 07:07
-- **Most recent article:** 2024-11-18 00:01:40
+- **New articles in last harvest:** 20
+- **Last harvest:** 2024-11-19 19:06
+- **Most recent article:** 2024-11-18 17:46:09
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-41 | 24-42 | 24-43 | 24-44 | 24-45 | 24-46 | 24-47 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 40 | 81 | 131 | 75 | 63 | 62 | 19 | 471 |
-| dengue | 33 | 50 | 53 | 31 | 31 | 36 | 7 | 241 |
-| h5n1 | 9 | 18 | 12 | 61 | 36 | 40 | 12 | 188 |
-| malaria | 13 | 18 | 58 | 16 | 26 | 33 | 3 | 167 |
+| mpox | 36 | 81 | 131 | 75 | 63 | 62 | 27 | 475 |
+| dengue | 31 | 50 | 53 | 31 | 31 | 36 | 10 | 242 |
+| h5n1 | 8 | 18 | 12 | 61 | 36 | 40 | 18 | 193 |
+| malaria | 13 | 18 | 58 | 16 | 26 | 33 | 4 | 168 |
 | measles | 5 | 3 | 1 | 13 | 3 | 33 | 3 | 61 |
 | rabies | 6 | 7 | 3 | 10 | 5 | 11 | 1 | 43 |
-| zika | 4 | 6 | 6 | 3 | 9 | 4 | 1 | 33 |
+| zika | 4 | 6 | 6 | 3 | 9 | 4 | 2 | 34 |
 | pertussis | 2 | 9 | 3 | 1 | 3 | 8 | 2 | 28 |
-| chikungunya | 3 | 4 | 7 | 2 | 2 | 3 | 2 | 23 |
+| chikungunya | 3 | 4 | 7 | 2 | 2 | 3 | 3 | 24 |
+| meningitis | 2 | 1 | 6 | 3 | 5 | 2 | 2 | 21 |
 | hpai | 1 | 2 | 2 | 7 | 4 | 4 | 1 | 21 |
-| meningitis | 2 | 1 | 6 | 3 | 5 | 2 | 0 | 19 |
 | leptospirosis | 1 | 1 | 0 | 3 | 10 | 3 | 0 | 18 |
 | typhoid | 0 | 1 | 3 | 4 | 1 | 1 | 0 | 10 |
 | shigellosis | 3 | 0 | 1 | 0 | 0 | 1 | 0 | 5 |
@@ -34,6 +34,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-47 (zika)
+
+- [Assessing the ecological patterns of Aedes aegypti in areas with high arboviral risks in the large city of Abidjan, Côte d’Ivoire](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012647) (Plos.org)
 
 - [Extrato de própolis mostra ação antiviral contra zika, chikungunya e mayaro](https://gizmodo.uol.com.br/extrato-de-propolis-mostra-acao-antiviral-contra-zika-chikungunya-e-mayaro/) (Uol.com.br)
 
@@ -48,6 +50,22 @@ Source: [News API](https://newsapi.org/)
 - [What Does it Mean to Own the Next 4 Years?](https://sciencebasedmedicine.org/ownit2/) (Sciencebasedmedicine.org)
 
 ## 24-47 (mpox)
+
+- [Quels sont les animaux porteurs de mpox ? Notre étude a identifié les rongeurs vivant dans les forêts africaines comme l'une des sources de la maladie](https://theconversation.com/quels-sont-les-animaux-porteurs-de-mpox-notre-etude-a-identifie-les-rongeurs-vivant-dans-les-forets-africaines-comme-lune-des-sources-de-la-maladie-243812) (The Conversation Africa)
+
+- [EUA registra 1° caso de nova cepa da mpox. Saiba sintomas da doença](https://www.metropoles.com/saude/eua-registra-nova-cepa-mpox-veja-sintomas) (Metropoles.com)
+
+- [Contre le virus mpox en Afrique : rendre plus sûrs les marchés de viande sauvage, cause originelle de l’épidémie](https://theconversation.com/contre-le-virus-mpox-en-afrique-rendre-plus-surs-les-marches-de-viande-sauvage-cause-originelle-de-lepidemie-243489) (The Conversation Africa)
+
+- [Mpox: entenda o que a OMS vai avaliar em reunião marcada para o dia 22](https://www.terra.com.br/vida-e-estilo/saude/mpox-entenda-o-que-a-oms-vai-avaliar-em-reuniao-marcada-para-o-dia-22,cba7b102d7cc122ea68d1b72605ff45a2o7szbed.html) (Terra.com.br)
+
+- [Estados Unidos confirma primer caso de la nueva cepa del mpox](https://www.record.com.mx/contra/estados-unidos-confirma-primer-caso-de-la-nueva-cepa-del-mpox) (Record.com.mx)
+
+- [A more severe strain of mpox has been detected in the U.S. for the first time](https://www.npr.org/2024/11/18/nx-s1-5194956/mpox-strain-california) (NPR)
+
+- [No new Mpox cases since Sept 16 - health minister](https://www.malaysiakini.com/news/726284) (Malaysiakini)
+
+- [Wrócił z podróży z Afryki i wylądował w szpitalu. WHO bije na alarm: Jest nowy wariant wirusa mpox](https://natemat.pl/577070,nowy-wariant-wirusa-mpox-w-usa-pacjent-przywiozl-go-z-afryki) (Natemat.pl)
 
 - [FG begins Mpox vaccination in seven states today](https://punchng.com/fg-begins-mpox-vaccination-in-seven-states-today/) (The Punch)
 
@@ -87,6 +105,12 @@ Source: [News API](https://newsapi.org/)
 
 - [California confirms first US case of more severe mpox strain -- but risk to public remains low](https://abcnews.go.com/Health/california-confirms-us-case-severe-mpox-strain-risk/story?id=115936257) (ABC News)
 
+## 24-47 (meningitis)
+
+- [The First Sounds We Hear Are Words of Personal Love](https://jdgreear.com/the-first-sounds-we-hear-are-words-of-personal-love/) (Jdgreear.com)
+
+- [Durango: familias de víctimas de meningitis exigen justicia](https://www.jornada.com.mx/2024/11/18/estados/025n1est) (Jornada.com.mx)
+
 ## 24-47 (measles)
 
 - [Measles: An avoidable surge](https://www.thehindubusinessline.com/specials/pulse/measles-an-avoidable-surge/article68878758.ece) (BusinessLine)
@@ -96,6 +120,8 @@ Source: [News API](https://newsapi.org/)
 - [What Does it Mean to Own the Next 4 Years?](https://sciencebasedmedicine.org/ownit2/) (Sciencebasedmedicine.org)
 
 ## 24-47 (malaria)
+
+- [Baroni gives Dia update for Lazio after malaria scare](https://football-italia.net/baroni-gives-dia-update-lazio-malaria-scare/) (Football Italia)
 
 - [Buone notizie per Boulaye Dia: il senegalese rientra a Roma, falso allarme sulla malaria](https://www.tuttomercatoweb.com/i-fatti-del-giorno/buone-notizie-per-boulaye-dia-il-senegalese-rientra-a-roma-falso-allarme-sulla-malaria-2036142) (Tuttomercatoweb.com)
 
@@ -108,6 +134,18 @@ Source: [News API](https://newsapi.org/)
 - [Human Bird Flu Case Found In Oregon](https://www.shtfplan.com/headline-news/human-bird-flu-case-found-in-oregon) (Shtfplan.com)
 
 ## 24-47 (h5n1)
+
+- [H5N1 bird flu infects 5 more humans in California, and 1 in Oregon](https://medicalxpress.com/news/2024-11-h5n1-bird-flu-infects-humans.html) (Medical Xpress)
+
+- [“Elle pourrait évoluer vers la prochaine pandémie humaine” : pourquoi la propagation de ce virus met en alerte la communauté scientifique](https://www.dhnet.be/actu/sante/2024/11/18/elle-pourrait-evoluer-vers-la-prochaine-pandemie-humaine-pourquoi-la-propagation-de-ce-virus-met-en-alerte-la-communaute-scientifique-TDVTDKJLQVFBRAX6LEFW6RN6WY/) (dh.be)
+
+- [Map Shows States Where Bird Flu H5N1 Has Spread](https://www.newsweek.com/bird-avian-flu-map-us-states-1987366) (Newsweek)
+
+- [ویروس آنفولانزای پرندگان اچ‌۵‌ان۱ به خوک و آبزیان هم رسید: آیا آماده پاندمیک بعدی هستیم؟](https://prod.radiozamaneh.org/839237) (Radiozamaneh.org)
+
+- [الدول باتت مهووسة بـ"الفوز في سباق الذكاء الاصطناعي" - الغارديان](https://www.bbc.com/arabic/articles/crk41xpppyeo) (BBC News)
+
+- [Drought across the U.S., H5N1 in Canada and Uranus Data Reevaluated](https://www.scientificamerican.com/podcast/episode/drought-across-the-u-s-h5n1-in-canada-and-uranus-data-reevaluated/) (Scientific American)
 
 - [Poultry infected with bird flu found on commercial farm in England](https://abcnews.go.com/US/wireStory/poultry-infected-bird-flu-found-commercial-farm-england-115951984) (ABC News)
 
@@ -135,6 +173,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-47 (dengue)
 
+- [Assessing the ecological patterns of Aedes aegypti in areas with high arboviral risks in the large city of Abidjan, Côte d’Ivoire](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012647) (Plos.org)
+
+- [13 Millionen Infektionen und 8.500 Todesfälle dieses Jahr : Wärmeres Klima führt zu mehr Dengue-Infektionen](https://www.tagesspiegel.de/wissen/13-millionen-infektionen-und-8500-todesfalle-dieses-jahr-warmeres-klima-fuhrt-zu-mehr-dengue-infektionen-12724742.html) (Der Tagesspiegel)
+
+- [Dengue tally reaches 7451 cases in Punjab](https://arynews.tv/dengue-tally-reaches-7451-cases-in-punjab/) (Ary News)
+
 - [Klimawandel schürt Dengue-Fieber](https://www.welt.de/gesundheit/article254558630/Dengue-Fieber-Klimawandel-foerdert-Ausbreitung-von-Viren-und-deren-Uebertraegern.html) (DIE WELT)
 
 - [Children, parents campaign for "Climate Care, Dengue Free"](https://en.antaranews.com/news/334753/children-parents-campaign-for-climate-care-dengue-free) (Antaranews.com)
@@ -150,6 +194,8 @@ Source: [News API](https://newsapi.org/)
 - [Waspada DBD di Musim Hujan, Gerakan Satu Rumah Satu Jumantik Jadi Kunci Lawan Dengue](https://www.liputan6.com/health/read/5791891/waspada-dbd-di-musim-hujan-gerakan-satu-rumah-satu-jumantik-jadi-kunci-lawan-dengue) (Liputan6.com)
 
 ## 24-47 (chikungunya)
+
+- [Assessing the ecological patterns of Aedes aegypti in areas with high arboviral risks in the large city of Abidjan, Côte d’Ivoire](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012647) (Plos.org)
 
 - [Extrato de própolis mostra ação antiviral contra zika, chikungunya e mayaro](https://gizmodo.uol.com.br/extrato-de-propolis-mostra-acao-antiviral-contra-zika-chikungunya-e-mayaro/) (Uol.com.br)
 
@@ -2721,14 +2767,6 @@ Source: [News API](https://newsapi.org/)
 
 - [В Африке выявили более 35 тыс. случаев с подозрением на mpox с начала года](https://tass.ru/obschestvo/22056017) (Tass.ru)
 
-- [Putting cholera back in focus](https://www.thehindubusinessline.com/specials/pulse/putting-cholera-back-in-focus/article68726024.ece) (BusinessLine)
-
-- [El Congo, foco del brote de viruela del mono, comienza la campaña de vacunación](https://www.montevideo.com.uy/Salud/El-Congo-foco-del-brote-de-viruela-del-mono-comienza-la-campana-de-vacunacion-uc902427) (Montevideo.com.uy)
-
-- [Чому міняти постільну білизну варто частіше](https://www.bbc.com/ukrainian/articles/c17lxe84pk2o) (BBC News)
-
-- [Congo starts mpox vaccinations in effort to slow outbreaks](https://www.voanews.com/a/congo-starts-mpox-vaccinations-in-effort-to-slow-outbreaks/7812086.html) (VOA News)
-
 ## 24-41 (meningitis)
 
 - [Massachusetts pharmacist gets up to 15 years in prison for meningitis outbreak deaths](https://abcnews.go.com/US/wireStory/massachusetts-pharmacist-gets-15-years-prison-meningitis-outbreak-114734224) (ABC News)
@@ -2801,8 +2839,6 @@ Source: [News API](https://newsapi.org/)
 
 - [The US is ramping up bird flu surveillance – but will it be enough?](https://www.newscientist.com/article/2450743-the-us-is-ramping-up-bird-flu-surveillance-but-will-it-be-enough/) (New Scientist)
 
-- [Scientists reveal first results of bird flu sampling; health plan shows how NZ would respond to human outbreak](https://www.nzherald.co.nz/nz/scientists-reveal-first-results-of-bird-flu-sampling-health-plan-shows-how-nz-would-respond-to-human-outbreak/ME7OORURMJHYDFCSVAHHBUIDRU/) (New Zealand Herald)
-
 ## 24-41 (dengue)
 
 - [Prevenzione da Dengue a Pesaro, estesa la disinfestazione](https://www.ansa.it/marche/notizie/2024/10/12/prevenzione-da-dengue-a-pesaro-estesa-la-disinfestazione_6486dfc5-f7fe-42fa-94c1-7c1a874a7204.html) (ANSA.it)
@@ -2866,10 +2902,6 @@ Source: [News API](https://newsapi.org/)
 - [County health officials detect first case of dengue virus in Escondido](https://www.10news.com/news/local-news/north-county-news/county-health-officials-detect-first-case-of-dengue-virus-in-escondido) (10News)
 
 - [Implementan plan contra el dengue en Acapulco tras paso de 'John': ¿Cuándo inicia?](https://www.milenio.com/estados/plan-contra-el-dengue-en-acapulco-guerrero-tras-john) (Milenio)
-
-- [QRoo avanza en la lucha contra el dengue: pasa del lugar 3 al 22 en casos nacionales](https://www.milenio.com/estados/quintana-roo-logra-reducir-casos-dengue) (Milenio)
-
-- [Dengue: la nueva inteligencia artificial que usarán en la provincia de Buenos Aires para intentar anticiparse a los brotes](https://www.lanacion.com.ar/sociedad/dengue-la-nueva-inteligencia-artificial-que-usaran-en-la-provincia-de-buenos-aires-para-intentar-nid06102024/) (La Nacion)
 
 ## 24-41 (chikungunya)
 
