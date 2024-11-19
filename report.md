@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 19
-- **Last harvest:** 2024-11-18 19:05
-- **Most recent article:** 2024-11-17 19:00:40
+- **New articles in last harvest:** 16
+- **Last harvest:** 2024-11-19 07:07
+- **Most recent article:** 2024-11-18 00:01:40
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-41 | 24-42 | 24-43 | 24-44 | 24-45 | 24-46 | 24-47 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 36 | 81 | 131 | 75 | 63 | 62 | 17 | 465 |
-| dengue | 31 | 50 | 53 | 31 | 31 | 36 | 7 | 239 |
-| h5n1 | 8 | 18 | 12 | 61 | 36 | 40 | 2 | 177 |
-| malaria | 13 | 18 | 58 | 16 | 26 | 33 | 1 | 165 |
-| measles | 5 | 3 | 1 | 13 | 3 | 32 | 3 | 60 |
+| mpox | 40 | 81 | 131 | 75 | 63 | 62 | 19 | 471 |
+| dengue | 33 | 50 | 53 | 31 | 31 | 36 | 7 | 241 |
+| h5n1 | 9 | 18 | 12 | 61 | 36 | 40 | 12 | 188 |
+| malaria | 13 | 18 | 58 | 16 | 26 | 33 | 3 | 167 |
+| measles | 5 | 3 | 1 | 13 | 3 | 33 | 3 | 61 |
 | rabies | 6 | 7 | 3 | 10 | 5 | 11 | 1 | 43 |
-| zika | 4 | 6 | 6 | 3 | 9 | 4 | 0 | 32 |
+| zika | 4 | 6 | 6 | 3 | 9 | 4 | 1 | 33 |
 | pertussis | 2 | 9 | 3 | 1 | 3 | 8 | 2 | 28 |
-| chikungunya | 3 | 4 | 7 | 2 | 2 | 3 | 1 | 22 |
+| chikungunya | 3 | 4 | 7 | 2 | 2 | 3 | 2 | 23 |
 | hpai | 1 | 2 | 2 | 7 | 4 | 4 | 1 | 21 |
 | meningitis | 2 | 1 | 6 | 3 | 5 | 2 | 0 | 19 |
 | leptospirosis | 1 | 1 | 0 | 3 | 10 | 3 | 0 | 18 |
@@ -33,6 +33,10 @@ Source: [News API](https://newsapi.org/)
 
 ---
 
+## 24-47 (zika)
+
+- [Extrato de própolis mostra ação antiviral contra zika, chikungunya e mayaro](https://gizmodo.uol.com.br/extrato-de-propolis-mostra-acao-antiviral-contra-zika-chikungunya-e-mayaro/) (Uol.com.br)
+
 ## 24-47 (rabies)
 
 - [Gorsuch: Peanut the Squirrel Shows Overreach of Government](https://legalinsurrection.com/2024/11/gorsuch-peanut-the-squirrel-shows-overreach-of-government/) (Legalinsurrection.com)
@@ -44,6 +48,10 @@ Source: [News API](https://newsapi.org/)
 - [What Does it Mean to Own the Next 4 Years?](https://sciencebasedmedicine.org/ownit2/) (Sciencebasedmedicine.org)
 
 ## 24-47 (mpox)
+
+- [FG begins Mpox vaccination in seven states today](https://punchng.com/fg-begins-mpox-vaccination-in-seven-states-today/) (The Punch)
+
+- [City scientist wins top prize for rapid mpox testing kit](https://timesofindia.indiatimes.com/city/mumbai/breakthrough-in-mpox-testing-indian-scientist-develops-rapid-kit/articleshow/115393416.cms) (The Times of India)
 
 - [US health officials report 1st case of new form of mpox in traveler](https://kutv.com/news/nation-world/us-health-officials-report-1st-case-of-new-form-of-mpox-in-traveler) (KUTV 2News)
 
@@ -89,6 +97,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-47 (malaria)
 
+- [Buone notizie per Boulaye Dia: il senegalese rientra a Roma, falso allarme sulla malaria](https://www.tuttomercatoweb.com/i-fatti-del-giorno/buone-notizie-per-boulaye-dia-il-senegalese-rientra-a-roma-falso-allarme-sulla-malaria-2036142) (Tuttomercatoweb.com)
+
+- [Boulaye Dia supera la malaria](https://www.mundodeportivo.com/futbol/serie-a/20241117/1002354957/boulaye-dia-supera-malaria.html) (Mundodeportivo.com)
+
 - [Lazio, buone notizie dal Senegal: Dia non ha la malaria](https://www.tuttomercatoweb.com/serie-a/lazio-buone-notizie-dal-senegal-dia-non-ha-la-malaria-2035904) (Tuttomercatoweb.com)
 
 ## 24-47 (hpai)
@@ -96,6 +108,26 @@ Source: [News API](https://newsapi.org/)
 - [Human Bird Flu Case Found In Oregon](https://www.shtfplan.com/headline-news/human-bird-flu-case-found-in-oregon) (Shtfplan.com)
 
 ## 24-47 (h5n1)
+
+- [Poultry infected with bird flu found on commercial farm in England](https://abcnews.go.com/US/wireStory/poultry-infected-bird-flu-found-commercial-farm-england-115951984) (ABC News)
+
+- [Poultry infected with bird flu found on commercial farm in England](https://abcnews.go.com/Business/wireStory/poultry-infected-bird-flu-found-commercial-farm-england-115951986) (ABC News)
+
+- [Poultry infected with bird flu found on commercial farm in England](https://www.seattlepi.com/business/article/poultry-infected-with-bird-flu-found-on-19924131.php) (seattlepi.com)
+
+- [Poultry infected with bird flu found on commercial farm in England](https://abcnews.go.com/Health/wireStory/poultry-infected-bird-flu-found-commercial-farm-england-115951985) (ABC News)
+
+- [Outbreak of bird flu strain H5N1 on Cornish farm](https://www.bbc.com/news/articles/c9vnlpep7ljo) (BBC News)
+
+- [UK confirms bird flu cases at commercial poultry farm](https://japantoday.com/category/world/uk-confirms-bird-flu-cases-at-commercial-poultry-farm) (Japan Today)
+
+- [Marea Britanie confirmă cazuri de gripă aviară la o fermă avicolă comercială](https://www.mediafax.ro/externe/marea-britanie-confirma-cazuri-de-gripa-aviara-la-o-ferma-avicola-comerciala-22560970) (Mediafax.ro)
+
+- [UK confirms bird flu cases at commercial poultry farm](https://www.thestar.com.my/news/world/2024/11/18/uk-confirms-bird-flu-cases-at-commercial-poultry-farm) (The Star Online)
+
+- [Svært smittsom fugleinfluensa påvist i Storbritannia](https://www.nrk.no/nyheter/svaert-smittsom-fugleinfluensa-pavist-i-storbritannia-1.17130790) (NRK)
+
+- [Another strain of bird flu confirmed in UK, as mass cull ordered](https://news.sky.com/story/another-strain-of-bird-flu-confirmed-in-uk-as-mass-cull-ordered-13255884) (Sky.com)
 
 - [תמותה המונית: דיווח ראשון על תחלואה בשפעת העופות בקרב יונקים ימיים](https://www.ynet.co.il/environment-science/article/h1e4qbdgje) (Ynet)
 
@@ -118,6 +150,8 @@ Source: [News API](https://newsapi.org/)
 - [Waspada DBD di Musim Hujan, Gerakan Satu Rumah Satu Jumantik Jadi Kunci Lawan Dengue](https://www.liputan6.com/health/read/5791891/waspada-dbd-di-musim-hujan-gerakan-satu-rumah-satu-jumantik-jadi-kunci-lawan-dengue) (Liputan6.com)
 
 ## 24-47 (chikungunya)
+
+- [Extrato de própolis mostra ação antiviral contra zika, chikungunya e mayaro](https://gizmodo.uol.com.br/extrato-de-propolis-mostra-acao-antiviral-contra-zika-chikungunya-e-mayaro/) (Uol.com.br)
 
 - [What to know about the Chikungunya vaccine and where to get it in B.C.](https://vancouversun.com/news/bc-residents-chikungunya-vaccine) (Vancouver Sun)
 
@@ -320,6 +354,8 @@ Source: [News API](https://newsapi.org/)
 - [With measles cases surging globally, health officials tell us what LA County is doing right](https://abc7.com/post/global-measles-cases-rise-health-officials-tell-us-what-la-county-is-doing-right-vaccine/15546618/) (KABC-TV)
 
 - ['Not a fully honest accounting': CNN anchor calls out Trump pick over measles outbreak](https://www.rawstory.com/rfk-jr-2669891798/) (Raw Story)
+
+- [Trump's Health Guy Linked to Measles Outbreak That Killed Dozens of Children (Futurism)](https://www.smartnews.com/en-us/article/4748331014240084856) (Smartnews.com)
 
 - [Trump's Health Guy Linked to Measles Outbreak That Killed Dozens of Children](https://futurism.com/neoscope/rkf-measles-outbreak) (Futurism)
 
@@ -2685,6 +2721,14 @@ Source: [News API](https://newsapi.org/)
 
 - [В Африке выявили более 35 тыс. случаев с подозрением на mpox с начала года](https://tass.ru/obschestvo/22056017) (Tass.ru)
 
+- [Putting cholera back in focus](https://www.thehindubusinessline.com/specials/pulse/putting-cholera-back-in-focus/article68726024.ece) (BusinessLine)
+
+- [El Congo, foco del brote de viruela del mono, comienza la campaña de vacunación](https://www.montevideo.com.uy/Salud/El-Congo-foco-del-brote-de-viruela-del-mono-comienza-la-campana-de-vacunacion-uc902427) (Montevideo.com.uy)
+
+- [Чому міняти постільну білизну варто частіше](https://www.bbc.com/ukrainian/articles/c17lxe84pk2o) (BBC News)
+
+- [Congo starts mpox vaccinations in effort to slow outbreaks](https://www.voanews.com/a/congo-starts-mpox-vaccinations-in-effort-to-slow-outbreaks/7812086.html) (VOA News)
+
 ## 24-41 (meningitis)
 
 - [Massachusetts pharmacist gets up to 15 years in prison for meningitis outbreak deaths](https://abcnews.go.com/US/wireStory/massachusetts-pharmacist-gets-15-years-prison-meningitis-outbreak-114734224) (ABC News)
@@ -2757,6 +2801,8 @@ Source: [News API](https://newsapi.org/)
 
 - [The US is ramping up bird flu surveillance – but will it be enough?](https://www.newscientist.com/article/2450743-the-us-is-ramping-up-bird-flu-surveillance-but-will-it-be-enough/) (New Scientist)
 
+- [Scientists reveal first results of bird flu sampling; health plan shows how NZ would respond to human outbreak](https://www.nzherald.co.nz/nz/scientists-reveal-first-results-of-bird-flu-sampling-health-plan-shows-how-nz-would-respond-to-human-outbreak/ME7OORURMJHYDFCSVAHHBUIDRU/) (New Zealand Herald)
+
 ## 24-41 (dengue)
 
 - [Prevenzione da Dengue a Pesaro, estesa la disinfestazione](https://www.ansa.it/marche/notizie/2024/10/12/prevenzione-da-dengue-a-pesaro-estesa-la-disinfestazione_6486dfc5-f7fe-42fa-94c1-7c1a874a7204.html) (ANSA.it)
@@ -2820,6 +2866,10 @@ Source: [News API](https://newsapi.org/)
 - [County health officials detect first case of dengue virus in Escondido](https://www.10news.com/news/local-news/north-county-news/county-health-officials-detect-first-case-of-dengue-virus-in-escondido) (10News)
 
 - [Implementan plan contra el dengue en Acapulco tras paso de 'John': ¿Cuándo inicia?](https://www.milenio.com/estados/plan-contra-el-dengue-en-acapulco-guerrero-tras-john) (Milenio)
+
+- [QRoo avanza en la lucha contra el dengue: pasa del lugar 3 al 22 en casos nacionales](https://www.milenio.com/estados/quintana-roo-logra-reducir-casos-dengue) (Milenio)
+
+- [Dengue: la nueva inteligencia artificial que usarán en la provincia de Buenos Aires para intentar anticiparse a los brotes](https://www.lanacion.com.ar/sociedad/dengue-la-nueva-inteligencia-artificial-que-usaran-en-la-provincia-de-buenos-aires-para-intentar-nid06102024/) (La Nacion)
 
 ## 24-41 (chikungunya)
 

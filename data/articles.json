@@ -1,8 +1,279 @@
 {
-  "last_updated": "2024-11-18 19:05",
-  "count_articles_total": 1252,
-  "count_articles_new": 19,
+  "last_updated": "2024-11-19 07:07",
+  "count_articles_total": 1275,
+  "count_articles_new": 16,
   "articles": [
+    {
+      "id": 15689,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Lara Adejoro",
+      "title": "FG begins Mpox vaccination in seven states today",
+      "description": "The Mpox vaccination will commence today (Monday) in seven states in the country, The PUNCH reports. This was disclosed exclusively to our correspondent by the Executive Director and Chief Executive Officer of the National Primary Health Care Development Agen\u2026",
+      "url": "https://punchng.com/fg-begins-mpox-vaccination-in-seven-states-today/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2024/11/07153218/Mpox-Vaccines-1200x630.jpeg",
+      "publishedAt": "2024-11-18 00:01:40",
+      "content": "The Mpox vaccination will commence today (Monday) in seven states in the country, The PUNCH reports. This was disclosed exclusively to our correspondent by the Executive Director and Chief Executive\u2026 [+1975 chars]",
+      "retrievedAt": "2024-11-19 07:06:59.921070",
+      "internal_id": "186ce1f6f4fd957508a6b00f2e846ce107444cb3d2903a82e2ff0b33d03c0b3e",
+      "publishedAtLabel": "Nov 18"
+    },
+    {
+      "id": 15687,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Tuttomercatoweb.com",
+      "author": "Giacomo Iacobellis",
+      "title": "Buone notizie per Boulaye Dia: il senegalese rientra a Roma, falso allarme sulla malaria",
+      "description": "Buone notizie per la Lazio e per Boulaye Dia. L'attaccante senegalese torner\u00e0 a breve in Italia per rimettersi a disposizione di mister Baroni. Nei giorni scorsi hanno dato infatti esito negativo gli",
+      "url": "https://www.tuttomercatoweb.com/i-fatti-del-giorno/buone-notizie-per-boulaye-dia-il-senegalese-rientra-a-roma-falso-allarme-sulla-malaria-2036142",
+      "urlToImage": "https://tmw-storage.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/af/affb978accf34b25a678710dbc080474-40846-oooz0000.jpeg",
+      "publishedAt": "2024-11-17 23:49:18",
+      "content": "Buone notizie per la Lazio e per Boulaye Dia. L'attaccante senegalese torner\u00e0 a breve in Italia per rimettersi a disposizione di mister Baroni. Nei giorni scorsi hanno dato infatti esito negativo gli\u2026 [+1085 chars]",
+      "retrievedAt": "2024-11-19 07:06:58.993252",
+      "internal_id": "c5ab4ab7e107fe618ba56c5ca5423368230541bb0e9f0787d7dfe0a4a6dec747",
+      "publishedAtLabel": "Nov 17"
+    },
+    {
+      "id": 15681,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "The Associated Press",
+      "title": "Poultry infected with bird flu found on commercial farm in England",
+      "description": "Poultry on a commercial farm in England have been infected with the bird flu virus",
+      "url": "https://abcnews.go.com/US/wireStory/poultry-infected-bird-flu-found-commercial-farm-england-115951984",
+      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "publishedAt": "2024-11-17 23:42:02",
+      "content": "Poultry on a commercial farm in England have been infected with the bird flu virus, the U.K. government said Sunday. The H5N1 virus was found in kept birds in St. Ives, a seaside town in Cornwall. A\u2026 [+599 chars]",
+      "retrievedAt": "2024-11-19 07:06:57.880997",
+      "internal_id": "52b903947a35f920a17c1727be6c35b4a70e06e4df781df76e10a0d076151b84",
+      "publishedAtLabel": "Nov 17"
+    },
+    {
+      "id": 15683,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "The Associated Press",
+      "title": "Poultry infected with bird flu found on commercial farm in England",
+      "description": "Poultry on a commercial farm in England have been infected with the bird flu virus",
+      "url": "https://abcnews.go.com/Business/wireStory/poultry-infected-bird-flu-found-commercial-farm-england-115951986",
+      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "publishedAt": "2024-11-17 23:33:54",
+      "content": "Poultry on a commercial farm in England have been infected with the bird flu virus, the U.K. government said Sunday. The H5N1 virus was found in kept birds in St. Ives, a seaside town in Cornwall. A\u2026 [+599 chars]",
+      "retrievedAt": "2024-11-19 07:06:57.894463",
+      "internal_id": "f64a8e8b7e94b59d580b3f6a6f8bf9cdaadac9766797ad1487c3de21db8b2e2f",
+      "publishedAtLabel": "Nov 17"
+    },
+    {
+      "id": 15685,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "seattlepi.com",
+      "author": "By The Associated Press",
+      "title": "Poultry infected with bird flu found on commercial farm in England",
+      "description": "Poultry on a commercial farm in England have been infected with the bird flu virus. The U.K. government says the H5N1 virus was found in birds in St. Ives, which is a seaside town in Cornwall. All the poultry in the infected area will be humanely culled. It w\u2026",
+      "url": "https://www.seattlepi.com/business/article/poultry-infected-with-bird-flu-found-on-19924131.php",
+      "urlToImage": "https://s.hdnux.com/photos/01/34/02/65/24128891/5/rawImage.jpg",
+      "publishedAt": "2024-11-17 23:21:55",
+      "content": "Poultry on a commercial farm in England have been infected with the bird flu virus, the U.K. government said Sunday. The H5N1 virus was found in kept birds in St. Ives, a seaside town in Cornwall. A\u2026 [+646 chars]",
+      "retrievedAt": "2024-11-19 07:06:57.919692",
+      "internal_id": "b501b5d52f63d6965c97183a8b6bfe867ea4f6be7c6756b1687488901224354f",
+      "publishedAtLabel": "Nov 17"
+    },
+    {
+      "id": 15680,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "The Associated Press",
+      "title": "Poultry infected with bird flu found on commercial farm in England",
+      "description": "Poultry on a commercial farm in England have been infected with the bird flu virus",
+      "url": "https://abcnews.go.com/Health/wireStory/poultry-infected-bird-flu-found-commercial-farm-england-115951985",
+      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "publishedAt": "2024-11-17 23:18:02",
+      "content": "Poultry on a commercial farm in England have been infected with the bird flu virus, the U.K. government said Sunday. The H5N1 virus was found in kept birds in St. Ives, a seaside town in Cornwall. A\u2026 [+599 chars]",
+      "retrievedAt": "2024-11-19 07:06:57.873938",
+      "internal_id": "7fdf3889f96b45e043b2eb6d74c5bfaf20888c1e55fba1c55e86a2d5fb0a6e55",
+      "publishedAtLabel": "Nov 17"
+    },
+    {
+      "id": 15688,
+      "query": [
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Uol.com.br",
+      "author": "Ag\u00eancia Fapesp",
+      "title": "Extrato de pr\u00f3polis mostra a\u00e7\u00e3o antiviral contra zika, chikungunya e mayaro",
+      "description": "Pesquisa conduzida no Instituto Butantan busca identificar um composto que possa ser usado tanto na preven\u00e7\u00e3o quanto no tratamento de arboviroses The post Extrato de pr\u00f3polis mostra a\u00e7\u00e3o antiviral contra zika, chikungunya e mayaro appeared first on Giz Brasil.",
+      "url": "https://gizmodo.uol.com.br/extrato-de-propolis-mostra-acao-antiviral-contra-zika-chikungunya-e-mayaro/",
+      "urlToImage": "https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2024/11/propolis-0.webp",
+      "publishedAt": "2024-11-17 23:00:03",
+      "content": "Texto: Fernanda Bassette | Ag\u00eancia FAPESP Pesquisa realizada por cientistas do Instituto Butantan, em S\u00e3o Paulo, constatou que o extrato aquoso de pr\u00f3polis \u00e9 capaz de combater a replica\u00e7\u00e3o dos v\u00edrus\u2026 [+5595 chars]",
+      "retrievedAt": "2024-11-19 07:06:59.285159",
+      "internal_id": "6c71ccbcdc932f174a0d7dd873103bd5a1a0e87711814b7e194315fcbd6f53ee",
+      "publishedAtLabel": "Nov 17"
+    },
+    {
+      "id": 15676,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": null,
+      "title": "Outbreak of bird flu strain H5N1 on Cornish farm",
+      "description": "A bird flu outbreak has been confirmed in a commercial poultry farm in Cornwall.",
+      "url": "https://www.bbc.com/news/articles/c9vnlpep7ljo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/dff6/live/13752e20-a52e-11ef-8469-51dfa99a1cf9.jpg",
+      "publishedAt": "2024-11-17 21:54:14",
+      "content": "A bird flu outbreak has been confirmed at a commercial poultry farm in Cornwall. The government said all poultry on the infected premises - near Rosudgeon, St Ives - would be humanely culled and a 3\u2026 [+597 chars]",
+      "retrievedAt": "2024-11-19 07:06:57.840137",
+      "internal_id": "b067eed5caf991092489751ba1428436623dbe3b066b0b49c7666c8404a1b856",
+      "publishedAtLabel": "Nov 17"
+    },
+    {
+      "id": 15678,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Japan Today",
+      "author": null,
+      "title": "UK confirms bird flu cases at commercial poultry farm",
+      "description": "Britain said on Sunday it had confirmed a strain of the H5N1 bird flu virus in commercial poultry at premises near the town of St Ives in southwest England. All poultry on the premises will be humanely culled, and a 3 km protection zone and 10 km surveillance\u2026",
+      "url": "https://japantoday.com/category/world/uk-confirms-bird-flu-cases-at-commercial-poultry-farm",
+      "urlToImage": null,
+      "publishedAt": "2024-11-17 21:11:56",
+      "content": "Britain said on Sunday it had confirmed a strain of the H5N1 bird flu virus in commercial poultry at premises near the town of St Ives in southwest England. All poultry on the premises will be human\u2026 [+767 chars]",
+      "retrievedAt": "2024-11-19 07:06:57.854471",
+      "internal_id": "8fc3f3298cc52bc72920ae7278f4f6725ee9c8cd48fa2abdce6a0d94cff5b7bc",
+      "publishedAtLabel": "Nov 17"
+    },
+    {
+      "id": 15677,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Mediafax.ro",
+      "author": "Laura Buciu",
+      "title": "Marea Britanie confirm\u0103 cazuri de grip\u0103 aviar\u0103 la o ferm\u0103 avicol\u0103 comercial\u0103",
+      "description": "Marea Britanie a anun\u0163at duminic\u0103 faptul c\u0103 a confirmat prezen\u0163a unei tulpini a virusului gripei aviare H5N1 la p\u0103s\u0103ri de curte din exploata\u0163ii comerciale din apropierea ora\u015fului St Ives din sud-vestul Angliei, relateaz\u0103 Reuters.",
+      "url": "https://www.mediafax.ro/externe/marea-britanie-confirma-cazuri-de-gripa-aviara-la-o-ferma-avicola-comerciala-22560970",
+      "urlToImage": "https://storage0.dms.mpinteractiv.ro/media/1/1/3614/22560970/1/curcani.jpg?width=640",
+      "publishedAt": "2024-11-17 20:52:08",
+      "content": "Toate psrile de curte din incint vor fi sacrificate \u00een mod uman, iar o zon de protecie de 3 km i o zon de supraveghere de 10 km au fost instituite, a adugat guvernul britanic \u00eentr-o declaraie. Ace\u2026 [+1332 chars]",
+      "retrievedAt": "2024-11-19 07:06:57.847687",
+      "internal_id": "901389c38c01dc08516bd38d2f27383a1148673e675ec11877443bbb45d43c97",
+      "publishedAtLabel": "Nov 17"
+    },
+    {
+      "id": 15684,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "UK confirms bird flu cases at commercial poultry farm",
+      "description": "(Reuters) - Britain said on Sunday it had confirmed a strain of the H5N1 bird flu virus in commercial poultry at premises near the town of St Ives in southwest England. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2024/11/18/uk-confirms-bird-flu-cases-at-commercial-poultry-farm",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2024-11-17 20:35:00",
+      "content": "(Reuters) - Britain said on Sunday it had confirmed a strain of the H5N1 bird flu virus in commercial poultry at premises near the town of St Ives in southwest England. All poultry on the premises \u2026 [+867 chars]",
+      "retrievedAt": "2024-11-19 07:06:57.907102",
+      "internal_id": "e13b51ff3abd6fc93b194e29e32d7285b5010c6a55fc1acd9c28feeaf9e0de0e",
+      "publishedAtLabel": "Nov 17"
+    },
+    {
+      "id": 15686,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Mundodeportivo.com",
+      "author": "EFE EFE",
+      "title": "Boulaye Dia supera la malaria",
+      "description": "El senegal\u00e9s Boulaye Dia, ex jugador del Villarreal y delantero de la Lazio que hace apenas tres d\u00edas fue diagnosticado con malaria, podr\u00e1 volver a entrenar con normalidad con su club este martes.",
+      "url": "https://www.mundodeportivo.com/futbol/serie-a/20241117/1002354957/boulaye-dia-supera-malaria.html",
+      "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/11/17/673a4ff80140d.r_d.1362-819-3610.jpeg",
+      "publishedAt": "2024-11-17 20:20:31",
+      "content": "El senegal\u00e9s Boulaye Dia, ex jugador del Villarreal y delantero de la Lazio que hace apenas tres d\u00edas fue diagnosticado con malaria, podr\u00e1 volver a entrenar con normalidad con su club este martes. \"\u2026 [+709 chars]",
+      "retrievedAt": "2024-11-19 07:06:58.948004",
+      "internal_id": "feca349d181fcddffc0d00c2c6a6a9aa026412ec51164c30e8de4863b1320897",
+      "publishedAtLabel": "Nov 17"
+    },
+    {
+      "id": 15690,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Times Of India",
+      "title": "City scientist wins top prize for rapid mpox testing kit",
+      "description": "Dr. Shyam Sundar Nandi from the National Institute of Virology has created a rapid mpox testing kit that delivers results in just one hour, significantly improving public health responses amidst rising global mpox cases.",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/breakthrough-in-mpox-testing-indian-scientist-develops-rapid-kit/articleshow/115393416.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-11-17 19:51:41",
+      "content": "10 easy South Indian snacks for Friday evenings",
+      "retrievedAt": "2024-11-19 07:07:00.011608",
+      "internal_id": "81e9d94f279c6014ba3e0b4b6e2f3576462823fb08e06182f6b34a4c56607b68",
+      "publishedAtLabel": "Nov 17"
+    },
+    {
+      "id": 15682,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "nrk",
+      "source_name": "NRK",
+      "author": "NRK",
+      "title": "Sv\u00e6rt smittsom fugleinfluensa p\u00e5vist i Storbritannia",
+      "description": "Britiske myndigheter bekrefter at en sv\u00e6rt smittsom fugleinfluensa (H5N1) er p\u00e5vist i fj\u00e6rfe s\u00f8rvest i landet. Det skriver nyhetsbyr\u00e5et Reuters. Veterin\u00e6rinstitutttet har tidligere meldt at virustypen sirkulerer blant villfugl i Europa.",
+      "url": "https://www.nrk.no/nyheter/svaert-smittsom-fugleinfluensa-pavist-i-storbritannia-1.17130790",
+      "urlToImage": "https://static.nrk.no/nrkno/serum/2.0.513/common/img/default.jpg",
+      "publishedAt": "2024-11-17 19:35:56",
+      "content": "Britiske myndigheter bekrefter at en sv\u00e6rt smittsom fugleinfluensa (H5N1) er p\u00e5vist i fj\u00e6rfe s\u00f8rvest i landet. Det skriver nyhetsbyr\u00e5et Reuters. Veterin\u00e6rinstitutttet har tidligere meldt at virusty\u2026 [+38 chars]",
+      "retrievedAt": "2024-11-19 07:06:57.887670",
+      "internal_id": "d6a3d5afebfa7282c5a1cbff02ed3579b1dad09a4ffa7baa96da94522df133f1",
+      "publishedAtLabel": "Nov 17"
+    },
+    {
+      "id": 15679,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Sky.com",
+      "author": null,
+      "title": "Another strain of bird flu confirmed in UK, as mass cull ordered",
+      "description": "Another strain of bird flu (H5N1) has been confirmed at a poultry farm in Cornwall, with a mass cull of the birds ordered by the government.",
+      "url": "https://news.sky.com/story/another-strain-of-bird-flu-confirmed-in-uk-as-mass-cull-ordered-13255884",
+      "urlToImage": "https://e3.365dm.com/24/11/1600x900/skynews-chicken-bird-blu-flu_6750643.jpg?20241117194815",
+      "publishedAt": "2024-11-17 19:24:00",
+      "content": "Another strain of bird flu (H5N1) has been confirmed at a poultry farm in Cornwall, with a mass cull of the birds ordered by the government. All birds at the St Ives premises will now be humanely k\u2026 [+771 chars]",
+      "retrievedAt": "2024-11-19 07:06:57.861182",
+      "internal_id": "906fc1246b9aea70bd118b3ef43957d78818ae79de19afdf74eb715df7d406af",
+      "publishedAtLabel": "Nov 17"
+    },
     {
       "id": 15657,
       "query": [
@@ -1532,6 +1803,24 @@
       "content": "Robert F. Kennedy Jr., the notorious conspiracy theorist tapped by Donald Trump to lead the Department of Health and Human Services, is not telling the truth about his involvement in a measles outbre\u2026 [+2925 chars]",
       "retrievedAt": "2024-11-17 07:06:14.195194",
       "internal_id": "7ac6a1d66aa622420646ea4be27e6418ea62afb4be4e60a98bb6f8f52d1ebfe8",
+      "publishedAtLabel": "Nov 15"
+    },
+    {
+      "id": 15675,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Smartnews.com",
+      "author": "Ashley Bardhan",
+      "title": "Trump's Health Guy Linked to Measles Outbreak That Killed Dozens of Children (Futurism)",
+      "description": "There are plenty of reasons to be skeptical about Robert F. Kennedy Jr., Donald Trump's newly minted secretary of Health and Human Services. But a particular...",
+      "url": "https://www.smartnews.com/en-us/article/4748331014240084856",
+      "urlToImage": "https://thumbnail.smartnews.com/?url=https%3A%2F%2Fsmartnews-assets.s3-ap-northeast-1.amazonaws.com%2Fus-marketing%2Fadcreative%2F36f122c204353fed56110f523f86cc30-SMARTNEWS_LOGO.png",
+      "publishedAt": "2024-11-15 22:14:03",
+      "content": "There are plentyofreasons to be skeptical about Robert F. Kennedy Jr., Donald Trump's newly minted secretary of Health and Human Services. But a particularly concrete example might be that he lobbie\u2026 [+10 chars]",
+      "retrievedAt": "2024-11-19 07:06:57.236350",
+      "internal_id": "22a408b600290a9abcb80921d69a3c682ea18a1983ea15b32fb701e2fda3f225",
       "publishedAtLabel": "Nov 15"
     },
     {
@@ -22593,6 +22882,132 @@
       "content": ", 7 . //. 35 . mpox ( ) , , 1 29 2024 . (). 35 525 mpox, 996 , . 23 29 4 098, - 156. mpox () - 30 766 990 . , 1 368 . . mpox 2022 11 2023 . , 14 . Mpox - , , . 1970 .",
       "retrievedAt": "2024-10-08 07:06:36.820755",
       "internal_id": "c8d41bd8a82c244700b16df93dce471063fff143fa71d152186b8512724ae634",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 14401,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Milenio",
+      "author": "Redacci\u00f3n",
+      "title": "QRoo avanza en la lucha contra el dengue: pasa del lugar 3 al 22 en casos nacionales",
+      "description": "Como resultado de la estrategia de lucha contra el dengue, Quintana Roo se encuentra en la posici\u00f3n n\u00famero 22 a nivel nacional por n\u00famero de casos, un logro hist\u00f3rico resultado de la estrategia, coordinaci\u00f3n e inversi\u00f3n.El gobierno de Mara Lezama Espinosa ha \u2026",
+      "url": "https://www.milenio.com/estados/quintana-roo-logra-reducir-casos-dengue",
+      "urlToImage": "https://cdn.milenio.com/uploads/media/2024/10/06/personal-salud-estrategia-combate-dengue.jpg",
+      "publishedAt": "2024-10-06 18:17:21",
+      "content": "Como resultado de la estrategia de lucha contra el dengue, Quintana Roo se encuentra en la posici\u00f3n n\u00famero 22a nivel nacional por n\u00famero de casos, un logro hist\u00f3rico resultado de la estrategia, coord\u2026 [+1233 chars]",
+      "retrievedAt": "2024-10-07 19:05:46.416575",
+      "internal_id": "fb8359d159b4770146ebb1fef0a0b941100a740e3096def2f8ea78203600662e",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 14441,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "BusinessLine",
+      "author": "G Naga Sridhar",
+      "title": "Putting cholera back in focus",
+      "description": "Cholera, a deadly diarrhoeal disease, is resurging globally, prompting calls for vaccination and improved public health measures.",
+      "url": "https://www.thehindubusinessline.com/specials/pulse/putting-cholera-back-in-focus/article68726024.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/miae01/article68726023.ece/alternates/LANDSCAPE_1200/2016-11-09T202739Z_932842931_S1AEULXCLNAA_RTRMADP_3_HAITI-CHOLERA.JPG",
+      "publishedAt": "2024-10-06 16:52:57",
+      "content": "In the rush to tackle emerging public health concerns like mpox and Covid-19, are diseases like cholera being overlooked? Rapid urbanisation, climate change, and conflicts are putting pressure on hea\u2026 [+3942 chars]",
+      "retrievedAt": "2024-10-09 07:07:06.985248",
+      "internal_id": "4dcf1791d2170865df6770b818e237aa6a0b1e38b356e6d79a9b97dff16a4ca3",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 14415,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "El Congo, foco del brote de viruela del mono, comienza la campa\u00f1a de vacunaci\u00f3n",
+      "description": "La mpox, que comenz\u00f3 a expandirse desde la vecina Kivu del Sur, est\u00e1 presente ya en 23 de las 26 provincias del pa\u00eds.",
+      "url": "https://www.montevideo.com.uy/Salud/El-Congo-foco-del-brote-de-viruela-del-mono-comienza-la-campana-de-vacunacion-uc902427",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202207/_W933_80/808770.jpg",
+      "publishedAt": "2024-10-06 16:15:00",
+      "content": "La Rep\u00fablica Democr\u00e1tica del Congo (RDC), foco del actual brote de viruela del mono (mpox), comenz\u00f3 este s\u00e1bado la campa\u00f1a de vacunaci\u00f3n contra la enfermedad en la provincia de Kivu del Norte, en \u2026 [+3683 chars]",
+      "retrievedAt": "2024-10-08 07:06:36.998521",
+      "internal_id": "a3a00c45095f9f7ae77bef5891de72e4eaad698431ee503d5d0cfb05251726c0",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 14406,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "New Zealand Herald",
+      "author": "Jamie Morton",
+      "title": "Scientists reveal first results of bird flu sampling; health plan shows how NZ would respond to human outbreak",
+      "description": "Sampling shows no sign of big-risk bird flu - but its NZ arrival is 'just matter of time'.",
+      "url": "https://www.nzherald.co.nz/nz/scientists-reveal-first-results-of-bird-flu-sampling-health-plan-shows-how-nz-would-respond-to-human-outbreak/ME7OORURMJHYDFCSVAHHBUIDRU/",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/I5QUGT3H4AQADPWY2BXDCBLOFM.jpg?auth=507e06d0b5d82b1a5d186e3e57ff45ad9a4fb846b921f13034617d776f4b61b1&width=1200&height=675&quality=70&smart=true",
+      "publishedAt": "2024-10-06 16:00:00",
+      "content": "Oceania remains the last region yet to record a case of H5N1, which has killed nearly 300 million birds worldwide, including tens of thousands of endangered and endemic species. Scientists have been\u2026 [+3786 chars]",
+      "retrievedAt": "2024-10-08 07:06:33.254628",
+      "internal_id": "5461537a67c76376a7d1c1b0005341128e64d73f362306a24e3efdc3ab3eab6a",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 14402,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "Cintia Perazo",
+      "title": "Dengue: la nueva inteligencia artificial que usar\u00e1n en la provincia de Buenos Aires para intentar anticiparse a los brotes",
+      "description": "El programa, desarrollado por investigadores de la Unsam, ya se est\u00e1 probando y promete inferir cu\u00e1ntos mosquitos infectados habr\u00e1 en cada manzana del conurbano",
+      "url": "https://www.lanacion.com.ar/sociedad/dengue-la-nueva-inteligencia-artificial-que-usaran-en-la-provincia-de-buenos-aires-para-intentar-nid06102024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/el-dengue-se-contagia-por-la-picadura-del-VYNUJTEDOFEQNNIQ4SPVPFIUCA.jpg?auth=241260c572bad34eade992656cf41cbdc3bf5b53ec8d7849f230ef7202a9c141&width=768&quality=70&smart=false",
+      "publishedAt": "2024-10-06 15:30:00",
+      "content": "Un equipo de investigadores de la Universidad Nacional de San Mart\u00edn (Unsam), liderado por Ezequiel \u00c1lvarez, est\u00e1 desarrollando un modelo de inteligencia artificial bayesiana que permitir\u00e1 anticipar \u2026 [+7718 chars]",
+      "retrievedAt": "2024-10-07 19:05:46.489307",
+      "internal_id": "199661668e62d7913ed09632ec701443735ed6c24b8bfd3dc7f6895c5f324940",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 14404,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": "http://www.facebook.com/bbcnews",
+      "title": "\u0427\u043e\u043c\u0443 \u043c\u0456\u043d\u044f\u0442\u0438 \u043f\u043e\u0441\u0442\u0456\u043b\u044c\u043d\u0443 \u0431\u0456\u043b\u0438\u0437\u043d\u0443 \u0432\u0430\u0440\u0442\u043e \u0447\u0430\u0441\u0442\u0456\u0448\u0435",
+      "description": "\u041c\u0438 \u043f\u0440\u043e\u0432\u043e\u0434\u0438\u043c\u043e \u043d\u0430 \u043f\u0440\u043e\u0441\u0442\u0438\u0440\u0430\u0434\u043b\u0430\u0445 \u0456 \u043f\u043e\u0434\u0443\u0448\u043a\u0430\u0445 \u0442\u0440\u0435\u0442\u0438\u043d\u0443 \u0441\u0432\u043e\u0433\u043e \u0436\u0438\u0442\u0442\u044f \u0449\u043e\u0434\u043d\u044f, \u0456 \u0446\u0435\u0439 \u043a\u043e\u043d\u0442\u0430\u043a\u0442 \u0441\u0442\u0432\u043e\u0440\u044e\u0454 \u0456\u0434\u0435\u0430\u043b\u044c\u043d\u0435 \u0441\u0435\u0440\u0435\u0434\u043e\u0432\u0438\u0449\u0435 \u0434\u043b\u044f \u043a\u0443\u043f\u0438 \u043d\u0435\u0431\u0430\u0436\u0430\u043d\u0438\u0445 \u0433\u043e\u0441\u0442\u0435\u0439.",
+      "url": "https://www.bbc.com/ukrainian/articles/c17lxe84pk2o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_ukrainian/4a90/live/93eb8570-825d-11ef-a96a-4578729d5d06.jpg",
+      "publishedAt": "2024-10-06 12:57:11",
+      "content": "Article information , . , , . . , , , . - , , , . , . 500 , , , . , , . . 2013 , , . , , - S. aureus, , . \" , \", - , , . , Getty Images , , , , . 2018 , , , , . . 2022 , (mpox).\u2026 [+472 chars]",
+      "retrievedAt": "2024-10-07 19:05:48.100667",
+      "internal_id": "fac9e291a8c7df398968a765d17d6decda9bb0f861135150c7c7d0210073ff1c",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 14403,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "VOA News",
+      "author": "webdesk@voanews.com (Associated Press)",
+      "title": "Congo starts mpox vaccinations in effort to slow outbreaks",
+      "description": "GOMA, Congo \u2014 Congolese authorities on Saturday began vaccinations against mpox, nearly two months after the disease outbreak that spread from Congo to several African countries and beyond was declared a global emergency by the World Health Organization. Th\u2026",
+      "url": "https://www.voanews.com/a/congo-starts-mpox-vaccinations-in-effort-to-slow-outbreaks/7812086.html",
+      "urlToImage": "https://gdb.voanews.com/F2A047DA-F41F-406F-A699-3C87C334BCA6.jpg",
+      "publishedAt": "2024-10-06 07:11:34",
+      "content": "GOMA, Congo Congolese authorities on Saturday began vaccinations against mpox, nearly two months after the disease outbreak that spread from Congo to several African countries and beyond was declare\u2026 [+3282 chars]",
+      "retrievedAt": "2024-10-07 19:05:47.955180",
+      "internal_id": "fe487d05e9b2250a6d57ce4b443e1a3cd84340b29390439d476a26f8cd086a69",
       "publishedAtLabel": "Oct 6"
     }
   ]
