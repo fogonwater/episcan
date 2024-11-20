@@ -1,8 +1,422 @@
 {
-  "last_updated": "2024-11-20 07:06",
-  "count_articles_total": 1310,
-  "count_articles_new": 15,
+  "last_updated": "2024-11-20 19:05",
+  "count_articles_total": 1326,
+  "count_articles_new": 23,
   "articles": [
+    {
+      "id": 15731,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Sopitas.com",
+      "author": "Christian V\u00e1zquez",
+      "title": "Ay, no: Gripe aviar H5N1 habr\u00eda mutado y ser\u00eda m\u00e1s contagiosa",
+      "description": "\u00bfTe acuerdas del caso de gripe aviar H5N1 del que te contamos apenas la semana pasada? Bueno, ya era preocupante nom\u00e1s saber que se hab\u00eda presentado,... The post Ay, no: Gripe aviar H5N1 habr\u00eda mutado y ser\u00eda m\u00e1s contagiosa appeared first on Sopitas.com.",
+      "url": "https://www.sopitas.com/noticias/gripe-aviar-h5n1-posible-mutacion-virus-mas-contagioso-caso-columbia-canada/",
+      "urlToImage": "https://www.sopitas.com/wp-content/uploads/2024/11/gripe-aviar-h5n1_c56123.jpg",
+      "publishedAt": "2024-11-19 18:13:19",
+      "content": "Lo que necesitas saber: La gripe aviar H5N1 es relativamente \"nueva\", pero ya infect\u00f3 a 11 personas en Estados Unidos y un adolescente en Canad\u00e1 \u00bfTe acuerdas del caso de gripe aviar H5N1 del que te\u2026 [+2698 chars]",
+      "retrievedAt": "2024-11-20 19:05:55.567049",
+      "internal_id": "61085a6283b1497b5b2edb55f5149b100ad4b97a08d8afb2eed8e1426687119c",
+      "publishedAtLabel": "Nov 19"
+    },
+    {
+      "id": 15732,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Protothema.gr",
+      "author": null,
+      "title": "\u039a\u03b1\u03bd\u03b1\u03b4\u03ac\u03c2: \u0397 \u03b3\u03c1\u03af\u03c0\u03b7 \u03c4\u03c9\u03bd \u03c0\u03c4\u03b7\u03bd\u03ce\u03bd \u03bc\u03c0\u03bf\u03c1\u03b5\u03af \u03bd\u03b1 \u03bc\u03b5\u03c4\u03b1\u03bb\u03bb\u03ac\u03c7\u03c4\u03b7\u03ba\u03b5 \u03b3\u03b9\u03b1 \u03bd\u03b1 \u03b4\u03b9\u03b1\u03b4\u03af\u03b4\u03b5\u03c4\u03b1\u03b9 \u03c0\u03b9\u03bf \u03b5\u03cd\u03ba\u03bf\u03bb\u03b1 \u03c3\u03b5 \u03b1\u03bd\u03b8\u03c1\u03ce\u03c0\u03bf\u03c5\u03c2",
+      "description": "\u0397 \u03ad\u03c1\u03b5\u03c5\u03bd\u03b1 \u03c3\u03b5 \u03ad\u03bd\u03b1 \u03bd\u03b5\u03b1\u03c1\u03cc \u03b1\u03c3\u03b8\u03b5\u03bd\u03ae \u03c3\u03c4\u03bf\u03bd \u039a\u03b1\u03bd\u03b1\u03b4\u03ac \u03b4\u03b5\u03af\u03c7\u03bd\u03b5\u03b9 \u03cc\u03c4\u03b9 \u03c0\u03ac\u03c3\u03c7\u03b5\u03b9 \u03b1\u03c0\u03cc \u03c0\u03b1\u03c1\u03b1\u03bb\u03bb\u03b1\u03b3\u03ae \u03bc\u03b5 \u03bc\u03b5\u03c4\u03ac\u03bb\u03bb\u03b1\u03be\u03b7 \u2013 \u0391\u03c3\u03b1\u03c6\u03ad\u03c2 \u03c4\u03bf \u03c0\u03ce\u03c2 \u03c0\u03c1\u03bf\u03c3\u03b2\u03bb\u03ae\u03b8\u03b7\u03ba\u03b5 \u03b1\u03c0\u03cc \u03c4\u03b7 \u03bd\u03cc\u03c3\u03bf | \u0393\u03c1\u03af\u03c0\u03b7 \u03c4\u03c9\u03bd \u03c0\u03c4\u03b7\u03bd\u03ce\u03bd | \u039a\u03b1\u03bd\u03b1\u03b4\u03ac\u03c2 | \u039c\u03b5\u03c4\u03ac\u03bb\u03bb\u03b1\u03be\u03b7 | \u039a\u03cc\u03c3\u03bc\u03bf\u03c2",
+      "url": "https://www.protothema.gr/world/article/1563973/kanadas-i-gripi-ton-ptinon-borei-na-metallahtike-gia-na-diadidetai-pio-eukola-se-anthropous/",
+      "urlToImage": "https://www.protothema.gr/images/640x360share/jpg/files/2024-04-18/bird-flu-arthrou-new.jpg",
+      "publishedAt": "2024-11-19 17:32:06",
+      "content": "(H5N1) , .H5N1 . , Guardian, 2 8 . , .H5N1 . H5N1 . , , . . , , , , . .51 , . 11 , , . : 27 - :",
+      "retrievedAt": "2024-11-20 19:05:55.594615",
+      "internal_id": "3804104cf86d6a92cb51efa0808bba7f3b5ee994c394194ca6763d05e0fea80d",
+      "publishedAtLabel": "Nov 19"
+    },
+    {
+      "id": 15727,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Vox",
+      "author": "Dylan Scott",
+      "title": "The stunning success of vaccines in America, in one chart",
+      "description": "Measles, mumps, and polio are supposed to be diseases of the past. In the early to mid-20th century, scientists developed vaccines that effectively eliminated the risk of anyone getting sick or dying from illnesses that had killed millions over millennia of h\u2026",
+      "url": "https://www.vox.com/future-perfect/386215/trump-rfk-jr-vaccines-health-measles-chart",
+      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2024/11/GettyImages-80925411.jpg?quality=90&strip=all&crop=0%2C17.422437135088%2C100%2C65.155125729824&w=1200",
+      "publishedAt": "2024-11-19 17:27:44",
+      "content": "Measles, mumps, and polio are supposed to be diseases of the past. In the early to mid-20th century, scientists developed vaccines that effectively eliminated the risk of anyone getting sick or dying\u2026 [+4736 chars]",
+      "retrievedAt": "2024-11-20 19:05:55.002606",
+      "internal_id": "c551bb431d34f1c13314b88f179f2970f75730944f6fb72e2f93dd64d3e05d3b",
+      "publishedAtLabel": "Nov 19"
+    },
+    {
+      "id": 15742,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "fortune",
+      "source_name": "Fortune",
+      "author": "Chris Morris",
+      "title": "A new, potentially more dangerous version of mpox has been found in the U.S.",
+      "description": "Case in California is the first in the nation.",
+      "url": "https://fortune.com/2024/11/19/mpox-new-strain-california-2024/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/11/GettyImages-1402562733-e1732029894941.jpg?resize=1200,600",
+      "publishedAt": "2024-11-19 16:45:54",
+      "content": "A new, potentially more dangerous, strain of mpox, the virus formerly known as monkeypox, has been reported in California.The California Department of Public Health (CDPH) has reported the first know\u2026 [+1386 chars]",
+      "retrievedAt": "2024-11-20 19:05:57.940572",
+      "internal_id": "a773b867a8c866d5cc13d5ed1949572bed32132ce225d787b10fc008e6d2585f",
+      "publishedAtLabel": "Nov 19"
+    },
+    {
+      "id": 15735,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Lavenir.net",
+      "author": "La R\u00e9daction de L'Avenir avec Belga",
+      "title": "Un premier cas humain de grippe aviaire identifi\u00e9 au Canada : faut-il s\u2019inqui\u00e9ter d\u2019une potentielle pand\u00e9mie ?",
+      "description": "La grippe aviaire est le plus souvent rep\u00e9r\u00e9e parmi des populations d\u2019oiseaux sauvages ou de volaille. Mais le virus est \u00e0 surveiller. ...",
+      "url": "https://www.lavenir.net/actu/societe/2024/11/19/un-premier-cas-humain-de-grippe-aviaire-identifie-au-canada-faut-il-sinquieter-dune-potentielle-pandemie-K7NM6VUK75CSHCEFQ744ETGL7U/",
+      "urlToImage": "https://www.lavenir.net/resizer/v2/C5ENF4QFEVCUVFQXAFBCN4W3NA.jpg?auth=09edfa0cb090003794c5dcb9ac90235b649fa48114e339bebdedc54f6b77ad73&width=1200&height=630&quality=85&focal=549%2C368&watermark=https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Fipmgroup%2FUVYY255VT5BDBHOGCTGBCGI364.png%3A100%3A0%2C558",
+      "publishedAt": "2024-11-19 16:14:30",
+      "content": "Steven Van Gucht a r\u00e9agi \u00e0 cette actualit\u00e9 aupr\u00e8s de nos confr\u00e8res de la Derni\u00e8re Heure/Les Sports +. Le virologue de chez Sciensano indique que le virus H5N1 doit \u00eatre surveill\u00e9 de pr\u00e8s. \"L'homme pe\u2026 [+1198 chars]",
+      "retrievedAt": "2024-11-20 19:05:55.661772",
+      "internal_id": "44d42f2bfb31f5c8ee8ceb42ea6897948ac807a2c839ef6c550106f7196f7a4f",
+      "publishedAtLabel": "Nov 19"
+    },
+    {
+      "id": 15734,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Levif.be",
+      "author": "Elise Legrand",
+      "title": "Transmission \u00e0 l\u2019humain, risque de pand\u00e9mie, vaccin: tout savoir sur le virus H5N1",
+      "description": "La transmission r\u00e9cente du virus H5N1 \u00e0 un adolescent canadien alerte les autorit\u00e9s sanitaires sur la capacit\u00e9 mutationnelle de la grippe aviaire. A terme, une propagation interhumaine n\u2019est pas exclue. La vigilance est de mise en Europe. The post Transmissi\u2026",
+      "url": "https://www.levif.be/societe/sante/transmission-a-lhumain-risque-de-pandemie-vaccin-tout-savoir-sur-le-virus-h5n1/",
+      "urlToImage": "https://img.static-rmg.be/a/view/q75/w1600/h836/f50.00,50.00/6768959/unnamed-file-jpg.jpg",
+      "publishedAt": "2024-11-19 16:13:18",
+      "content": "La transmission r\u00e9cente du virus H5N1 \u00e0 un adolescent canadien alerte les autorit\u00e9s sanitaires sur la capacit\u00e9 mutationnelle de la grippe aviaire. A terme, une propagation interhumaine nest pas exclu\u2026 [+4808 chars]",
+      "retrievedAt": "2024-11-20 19:05:55.623333",
+      "internal_id": "1f86356f4cecd39b73206cef01da9f6f65b60b485c56b8ec744fa8c735caf869",
+      "publishedAtLabel": "Nov 19"
+    },
+    {
+      "id": 15729,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": "Aayushi Singh Chauhan",
+      "title": "Measles Prevention Checklist For Parents: Everything You Should Know",
+      "description": "This checklist equips parents with the knowledge and actionable steps needed to protect their families effectively against measles.",
+      "url": "https://doctor.ndtv.com/children/measles-prevention-checklist-for-parents-everything-you-should-know-7057848",
+      "urlToImage": "https://c.ndtvimg.com/2019-03/6sockms8_philippines-measles-outbreak_625x300_08_March_19.jpg?im=FeatureCrop,algorithm=dnn,width=620,height=350",
+      "publishedAt": "2024-11-19 15:58:48",
+      "content": "Measles, a highly contagious viral disease, remains a significant global health concern, particularly affecting children. Despite being preventable through vaccination, recent years have seen a resur\u2026 [+5123 chars]",
+      "retrievedAt": "2024-11-20 19:05:55.027788",
+      "internal_id": "a189b3694fbb0dda88c134bde23039f21c45130aeb1e12c75b532a6a8214db82",
+      "publishedAtLabel": "Nov 19"
+    },
+    {
+      "id": 15746,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Nieuwsblad.be",
+      "author": "Jan Bartosik",
+      "title": "Universiteit Antwerpen co\u00f6rdineert twee onderzoeksprojecten in strijd tegen mpox-virus in Midden- en West-Afrika: \u201cUitbraak is nog niet onder controle\u201d",
+      "description": "Zwangere vrouwen staan centraal in twee grote onderzoeksprojecten die de strijd met het mpox-virus aangaan. De projecten worden geco\u00f6rdineerd door de Universiteit Antwerpen en krijgen bijna 9 miljoen euro aan financiering van de Europese Unie en de internatio\u2026",
+      "url": "https://www.nieuwsblad.be/cnt/dmf20241119_95739830",
+      "urlToImage": "https://static.nieuwsblad.be/Assets/Images_Upload/2024/11/19/9e613d29-3749-4471-b39d-93467eb3868f.png?maxheight=460&maxwidth=638",
+      "publishedAt": "2024-11-19 15:56:00",
+      "content": "De uitbraak van het mpox-virus in Midden- en West-Afrika is nog niet onder controle, klinkt het bij UAntwerpen. Mpox is een virale infectieziekte die meestal van dieren op mensen wordt overgedragen. \u2026 [+3418 chars]",
+      "retrievedAt": "2024-11-20 19:05:58.076101",
+      "internal_id": "d641b96d89d6d2283452980e47b56fc8fb1d08fe3f7d3ab9046b3b80f2cf5c88",
+      "publishedAtLabel": "Nov 19"
+    },
+    {
+      "id": 15747,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.gva.be",
+      "author": "Jan Bartosik",
+      "title": "Universiteit Antwerpen co\u00f6rdineert twee onderzoeksprojecten in strijd tegen mpox-virus in Midden- en West-Afrika: \u201cUitbraak is nog niet onder controle\u201d",
+      "description": "Zwangere vrouwen staan centraal in twee grote onderzoeksprojecten die de strijd met het mpox-virus aangaan. De projecten worden geco\u00f6rdineerd door de Universiteit Antwerpen en krijgen bijna 9 miljoen euro aan financiering van de Europese Unie en de internatio\u2026",
+      "url": "https://www.gva.be/cnt/dmf20241119_95739830",
+      "urlToImage": "https://static.gva.be/Assets/Images_Upload/2024/11/19/9e613d29-3749-4471-b39d-93467eb3868f.png?maxheight=460&maxwidth=629",
+      "publishedAt": "2024-11-19 15:56:00",
+      "content": "De uitbraak van het mpox-virus in Midden- en West-Afrika is nog niet onder controle, klinkt het bij UAntwerpen. Mpox is een virale infectieziekte die meestal van dieren op mensen wordt overgedragen. \u2026 [+3418 chars]",
+      "retrievedAt": "2024-11-20 19:05:58.082686",
+      "internal_id": "174046364990f719082e41e09b677c003640b046103385201a8b53cc941f867f",
+      "publishedAtLabel": "Nov 19"
+    },
+    {
+      "id": 15738,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Scientific American",
+      "author": "Maggie Fox",
+      "title": "RFK, Jr., Is a Bad Prescription for U.S. Public Health",
+      "description": "Prominent vaccine skeptic RFK, Jr., is a proven menace to public health. But with a bird flu outbreak looming, he is poised to take a perch atop the federal public health enterprise",
+      "url": "https://www.scientificamerican.com/article/rfk-jr-is-a-bad-prescription-for-u-s-public-health/",
+      "urlToImage": "https://static.scientificamerican.com/dam/m/1fcc150e320c5a11/original/Robert_F_Kennedy_Jr.jpg?m=1731946604.732&w=1200",
+      "publishedAt": "2024-11-19 15:00:00",
+      "content": "Remember ivermectin, the antiparasitic drug that right-wing media figures wrongly touted as a cure for COVID? How about hydroxychloroquine, the malaria treatment taken by thousands who then suffered \u2026 [+8442 chars]",
+      "retrievedAt": "2024-11-20 19:05:57.005642",
+      "internal_id": "c645372789a2cd6fcd56e5b78a4132e6e224d806daf085eff69b8b6359051b6a",
+      "publishedAtLabel": "Nov 19"
+    },
+    {
+      "id": 15728,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "TheWrap",
+      "author": "Andi Ortiz",
+      "title": "Seth Meyers Loves That Trump \u2018Hazed\u2019 RFK Jr. With McDonald\u2019s Photo Op: \u2018That Right There Is a F\u2013ing Grimace\u2019 | Video",
+      "description": "\"After this, Trump made everyone do shots, but RFK Jr.'s was the measles vaccine,\" the NBC host jokes The post Seth Meyers Loves That Trump \u2018Hazed\u2019 RFK Jr. With McDonald\u2019s Photo Op: \u2018That Right There Is a F\u2013ing Grimace\u2019 | Video appeared first on TheWrap.",
+      "url": "https://www.thewrap.com/rfk-jr-trump-mcdonald-photo-seth-meyers-hazed/",
+      "urlToImage": "https://i0.wp.com/www.thewrap.com/wp-content/uploads/2024/11/seth-meyers-rfk-jr.jpg?fit=1200%2C675&ssl=1",
+      "publishedAt": "2024-11-19 14:49:13",
+      "content": "As Donald Trumps next cabinet starts to take shape, he and some of the people hes chosen including RFK Jr. posed for a photo on his plane of a team McDonalds feast. And that really amused Seth Meyers\u2026 [+1224 chars]",
+      "retrievedAt": "2024-11-20 19:05:55.015501",
+      "internal_id": "ba24a750aad8d1f0ef1f512b2e38726e202b0b4ff524f2514d64a1884df92fe2",
+      "publishedAtLabel": "Nov 19"
+    },
+    {
+      "id": 15741,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Gizmodo.com",
+      "author": "Lucas Handley",
+      "title": "Primer registro de viruela del mono m\u00e1s grave en los EE.UU. Lo que se sabe",
+      "description": "Las autoridades sanitarias de California reportaron el primer caso conocido de viruela del mono clado I.",
+      "url": "https://es.gizmodo.com/primer-registro-de-viruela-del-mono-mas-grave-en-los-ee-uu-lo-que-se-sabe-2000135605",
+      "urlToImage": "https://es.gizmodo.com/app/uploads/2024/11/Diseno-sin-titulo-67-5.jpg",
+      "publishedAt": "2024-11-19 14:18:51",
+      "content": "Una versi\u00f3n de la viruela mpox m\u00e1s peligrosa potencialmente ha llegado oficialmente a California. Las autoridades sanitarias informaron el primer caso conocido de mpox (antes, viruela del mono) clado\u2026 [+2735 chars]",
+      "retrievedAt": "2024-11-20 19:05:57.891433",
+      "internal_id": "e7e0d30d3aaa8e64e03e28b3d6735d66a912fc4f7c8d5b22ba6dc7c10d15134c",
+      "publishedAtLabel": "Nov 19"
+    },
+    {
+      "id": 15745,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Elisabeth Mahase",
+      "title": "Mpox: US reports first clade Ib case as campaigners call for cheaper tests",
+      "description": "The US has reported its first confirmed case of clade Ib mpox in a person who is thought to have become infected while travelling and is experiencing mild illness.1In an announcement on 16 November, officials from the county of San Mateo in California said th\u2026",
+      "url": "https://www.bmj.com/content/387/bmj.q2576",
+      "urlToImage": "https://www.bmj.com/sites/default/files/highwire/bmj/387/8448.cover-source.jpg",
+      "publishedAt": "2024-11-19 13:11:13",
+      "content": "The US has reported its first confirmed case of clade Ib mpox in a person who is thought to have become infected while travelling and is experiencing mild illness.1 In an announcement on 16 November\u2026 [+346 chars]",
+      "retrievedAt": "2024-11-20 19:05:57.998857",
+      "internal_id": "e99b15081f91fcbefd207d66d4a64fc90b53c240bd6b35eba125c1aa091190ff",
+      "publishedAtLabel": "Nov 19"
+    },
+    {
+      "id": 15730,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Alexander Tin",
+      "title": "Bird flu reaches Hawaii, the last state that had escaped it",
+      "description": "Officials suspect that migratory birds likely spread the H5N1 virus there.",
+      "url": "https://www.cbsnews.com/news/bird-flu-reaches-hawaii-infecting-last-state-to-have-escaped-h5n1-outbreak/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/11/13/64d021f6-4444-4002-a5e4-8b9cf3ace186/thumbnail/1200x630/e8f20e6a9bd8a29391fcddcd8a70c4c0/ap24312642041229.jpg?v=6125856b135c6847bbc622c9704e0334",
+      "publishedAt": "2024-11-19 12:29:44",
+      "content": "Authorities in Hawaii are warning residents who attended a local pet fair to watch for symptoms of avian influenza after a local flock of ducks and other birds tested positive for the H5N1 virus that\u2026 [+4069 chars]",
+      "retrievedAt": "2024-11-20 19:05:55.554511",
+      "internal_id": "e4704d6df7123743eb04261510335f2ccd3674594715cc906a665fb2eb2f85ce",
+      "publishedAtLabel": "Nov 19"
+    },
+    {
+      "id": 15736,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Hvg.hu",
+      "author": "hvg@hvg.hu",
+      "title": "Addig hagyta kezeletlen\u00fcl az emberis\u00e9g a glob\u00e1lis felmeleged\u00e9st, hogy terjedni kezdett egy tr\u00f3pusi v\u00edrus",
+      "description": "Amerikai kutat\u00f3k szerint egyre s\u00falyosabb probl\u00e9m\u00e1t jelent a dengue-l\u00e1z, egy \u00e9v alatt h\u00e1romszoros\u00e1ra n\u0151tt az Egyes\u00fclt \u00c1llamokban a fert\u0151z\u00f6ttek sz\u00e1ma. A vil\u00e1g m\u00e1s r\u00e9szei sem fogj\u00e1k meg\u00faszni a tendenci\u00e1t.",
+      "url": "https://hvg.hu/tudomany/20241119_globalis-felmelegedes-klimavaltozas-dengue-laz-szunyogcsipes",
+      "urlToImage": "https://img.hvg.hu/Img/7fcefbf8-ac48-4ee6-aef5-32203afa118c/91db07eb-67d3-488c-b845-23131f07b2d5.jpg",
+      "publishedAt": "2024-11-19 12:03:00",
+      "content": "Soha nem betegedtek m\u00e9g meg annyian a vil\u00e1gon a dengue-l\u00e1zban, mint az idei \u00e9vben. Csak az Egyes\u00fclt \u00c1llamokban 12 milli\u00f3 esetet regisztr\u00e1ltak, ami m\u00e1r \u00f6nmag\u00e1ban is soknak tnik, pl\u00e1ne akkor, ha hozz\u00e1v\u2026 [+2394 chars]",
+      "retrievedAt": "2024-11-20 19:05:56.020809",
+      "internal_id": "7328c9e4389e34bbea57351f5b16bb706e09cd98cf69a94bfb456a47d69d5fc3",
+      "publishedAtLabel": "Nov 19"
+    },
+    {
+      "id": 15743,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Legalinsurrection.com",
+      "author": "Leslie Eastman",
+      "title": "California Confirms Nation\u2019s First Case of Virulent Clade 1 Monkeypox",
+      "description": "CDC assures Americans Clade I mpox is not spreading in American communities. The post California Confirms Nation\u2019s First Case of Virulent Clade 1 Monkeypox first appeared on Le\u00b7gal In\u00b7sur\u00b7rec\u00b7tion.",
+      "url": "https://legalinsurrection.com/2024/11/california-confirms-nations-first-case-of-virulent-clade-1-monkeypox/",
+      "urlToImage": "https://legalinsurrection.com/wp-content/uploads/2024/11/LI-71-CA-Monkeypox.png",
+      "publishedAt": "2024-11-19 12:00:27",
+      "content": "We have been following the spread of the virulent new monkeypox variant (i.e., mpox clade) that is at the center of a significant outbreak in the Democratic Republic of Congo (DRC) and neighboring co\u2026 [+2596 chars]",
+      "retrievedAt": "2024-11-20 19:05:57.974204",
+      "internal_id": "103890ca55127e99dbb4e439a4ab267c421d87f15fba5405b92051647b733dc6",
+      "publishedAtLabel": "Nov 19"
+    },
+    {
+      "id": 15739,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Taiwo Bankole",
+      "title": "FG urges action as malaria cases spike in Ogun",
+      "description": "The Minister of Health, Ali Pate, has raised concerns over the rising malaria prevalence in Ogun State, which increased from 22 per cent in 2018 to 25 per cent in 2021. He urged enhanced collaboration to drive the nation towards a zero-malaria target. Pate, r\u2026",
+      "url": "https://punchng.com/fg-urges-action-as-malaria-cases-spike-in-ogun/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2023/09/11124341/Pate_cropped_h1-2.jpg",
+      "publishedAt": "2024-11-19 10:40:43",
+      "content": "The Minister of Health, Ali Pate, has raised concerns over the rising malaria prevalence in Ogun State, which increased from 22 per cent in 2018 to 25 per cent in 2021. He urged enhanced collaborati\u2026 [+2463 chars]",
+      "retrievedAt": "2024-11-20 19:05:57.039833",
+      "internal_id": "511d1ec00e68eae4923de5ce220bccdd0dff9c79cd3d7f049123425d6503fb67",
+      "publishedAtLabel": "Nov 19"
+    },
+    {
+      "id": 15740,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Standard Digital",
+      "author": "Afp",
+      "title": "Urban mosquito sparks malaria surge in East Africa",
+      "description": "The spread of a mosquito in East Africa that thrives in urban areas and is immune to insecticide is fuelling a surge in malaria that could reverse decades of progress against the disease.",
+      "url": "https://www.standardmedia.co.ke/health/health-science/article/2001506618/urban-mosquito-sparks-malaria-surge-in-east-africa",
+      "urlToImage": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/sA7QxpobXntOGjZOlndGMntydtISO3nEJ0rbgcJd.jpg",
+      "publishedAt": "2024-11-19 10:01:35",
+      "content": "Ruth Kavere 65, demonstrates to use a mosquito net with her granddaughter Faith, 3, who completed doses through the world\u2019s first malaria vaccine pilot program, at home in Mukuli on March 7, 2023. [A\u2026 [+3947 chars]",
+      "retrievedAt": "2024-11-20 19:05:57.080783",
+      "internal_id": "5d4b7a27b9de7e55608eb6f6eca3d5608546caff7d5c294acba14063f8999170",
+      "publishedAtLabel": "Nov 19"
+    },
+    {
+      "id": 15744,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Life.ru",
+      "author": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0430 \u0416\u0443\u0440\u0430\u0432\u0441\u043a\u0430\u044f",
+      "title": "\u0412 \u0420\u043e\u0441\u0441\u0438\u0438 \u0437\u0430 \u043d\u0435\u0434\u0435\u043b\u044e \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0430\u0435\u043c\u043e\u0441\u0442\u044c \u043a\u043e\u0432\u0438\u0434\u043e\u043c \u0432\u044b\u0440\u043e\u0441\u043b\u0430 \u043d\u0430 21,6%",
+      "description": "\u0412 \u0420\u043e\u0441\u0441\u0438\u0438 \u0437\u0430 \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u044e\u044e \u043d\u0435\u0434\u0435\u043b\u044e \u043d\u0430\u0431\u043b\u044e\u0434\u0430\u0435\u0442\u0441\u044f \u0437\u043d\u0430\u0447\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0435 \u0443\u0432\u0435\u043b\u0438\u0447\u0435\u043d\u0438\u0435 \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0430\u0435\u043c\u043e\u0441\u0442\u0438 \u043a\u043e\u0440\u043e\u043d\u0430\u0432\u0438\u0440\u0443\u0441\u043d\u043e\u0439 \u0438\u043d\u0444\u0435\u043a\u0446\u0438\u0435\u0439. \u0420\u043e\u0441\u0442 \u0441\u043b\u0443\u0447\u0430\u0435\u0432 \u0437\u0430\u0440\u0430\u0436\u0435\u043d\u0438\u044f \u043e\u0442\u043c\u0435\u0447\u0435\u043d \u0432 65 \u0440\u0435\u0433\u0438\u043e\u043d\u0430\u0445 \u0441\u0442\u0440\u0430\u043d\u044b, \u0430 \u0433\u043e\u0441\u043f\u0438\u0442\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u0439 \u2014 \u0432 53 \u0441\u0443\u0431\u044a\u0435\u043a\u0442\u0430\u0445 \u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u043e\u0439 \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u0438. \u042d\u0442\u043e \u0441\u0432\u0438\u0434\u0435\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u0443\u0435\u0442 \u043e \u0442\u043e\u043c, \u0447\u0442\u043e \u0441\u0438\u0442\u0443\u0430\u0446\u0438\u044f \u0441 \u043a\u043e\u2026",
+      "url": "https://life.ru/p/1704228",
+      "urlToImage": "https://static.life.ru/publications/2024/11/19/812422506318.1361.webp",
+      "publishedAt": "2024-11-19 09:45:47",
+      "content": ". 65 , 53 . , . , 21,6%. 19,5%. 21 523 10,7% . , . , 46 . . . , . . , . mpox. . , .",
+      "retrievedAt": "2024-11-20 19:05:57.986714",
+      "internal_id": "e553cea9f2f688ad329884929871e238d7f2860c49291f5c47049e1a78d80e2c",
+      "publishedAtLabel": "Nov 19"
+    },
+    {
+      "id": 15748,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Interia.pl",
+      "author": "Karolina S\u0142odkiewicz",
+      "title": "Nowy wariant ma\u0142piej ospy potwierdzony w USA. Jakie s\u0105 objawy zaka\u017cenia?",
+      "description": "O ma\u0142piej ospie m\u00f3wi si\u0119 od kilku miesi\u0119cy ju\u017c nie tylko w kontek\u015bcie Afryki, ale ca\u0142ego \u015bwiata. Wirus ten ca\u0142y czas mutuje i pojawia si\u0119 w zupe\u0142nie nowych, dot\u0105d nieznanych wariantach. Zaka\u017cenie nowym wariantem mpox w\u0142a\u015bnie wykryto w Stanach Zjednoczonych.",
+      "url": "https://wydarzenia.interia.pl/zagranica/news-nowy-wariant-malpiej-ospy-potwierdzony-w-usa-jakie-sa-objawy,nId,7858122",
+      "urlToImage": "https://i.iplsc.com/-/000K4UKCTI2PHB2E-C461-F4.jpg",
+      "publishedAt": "2024-11-19 09:14:35",
+      "content": "WHO, czyli wiatowa Organizacja Zdrowia, w sierpniu ogosia, e mapia ospa stanowi globalne zagroenie dla zdrowia publicznego. Dotychczas wirus by aktywny g\u00f3wnie w Demokratycznej Republice Konga, jednak\u2026 [+3252 chars]",
+      "retrievedAt": "2024-11-20 19:05:58.138979",
+      "internal_id": "70fdfc63a6c9b76b2ce4715c72db5b9daa25b4d0919eea0815529970a9fa1a51",
+      "publishedAtLabel": "Nov 19"
+    },
+    {
+      "id": 15737,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Huffingtonpost.es",
+      "author": "Redacci\u00f3n HuffPost",
+      "title": "La enfermedad que rodea el cerebro a\u00fan sin erradicar con un \u00edndice de mortalidad del 37% en mayores de 60 a\u00f1os",
+      "description": "La meningitis bacteriana es una infecci\u00f3n grave que afecta las membranas que rodean el cerebro y la m\u00e9dula espinal. A pesar de los avances m\u00e9dicos, esta enfermedad sigue siendo una amenaza significativa, especialmente para las personas mayores de \u2026",
+      "url": "https://www.huffingtonpost.es/sociedad/la-enfermedad-rodea-cerebroun-eraddicar-indice-mortalidad-37-mayores-60nos-hpe1.html",
+      "urlToImage": "https://img.huffingtonpost.es/files/og_thumbnail/uploads/2023/06/01/una-imagen-de-archivo-de-un-cerebro.jpeg",
+      "publishedAt": "2024-11-19 09:00:00",
+      "content": "La meningitis bacteriana es una infecci\u00f3n grave que afecta las membranas que rodean el cerebro y la m\u00e9dula espinal. A pesar de los avances m\u00e9dicos, esta enfermedad sigue siendo una amenaza significat\u2026 [+3936 chars]",
+      "retrievedAt": "2024-11-20 19:05:56.449648",
+      "internal_id": "7353ff2e8418d5f6c08870436358f8cb43a05e3af45e8075366181fc4980da73",
+      "publishedAtLabel": "Nov 19"
+    },
+    {
+      "id": 15726,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "SHARON LING",
+      "title": "Seven rabies deaths recorded in Sarawak this year",
+      "description": "KUCHING: Sarawak has recorded seven deaths from rabies this year, bringing the total fatalities to 75 since the outbreak began in 2017, the state legislative assembly was told. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2024/11/19/seven-rabies-deaths-recorded-in-sarawak-this-year",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/11/19/3025091.jpg",
+      "publishedAt": "2024-11-19 08:40:00",
+      "content": "KUCHING: Sarawak has recorded seven deaths from rabies this year, bringing the total fatalities to 75 since the outbreak began in 2017, the state legislative assembly was told. State Food Industry, \u2026 [+1660 chars]",
+      "retrievedAt": "2024-11-20 19:05:54.718054",
+      "internal_id": "1593c39ed4304f25ead0e45d7cdcfc60082f4e008ae8cbe8cde6bec03aefaf8e",
+      "publishedAtLabel": "Nov 19"
+    },
+    {
+      "id": 15733,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Lalibre.be",
+      "author": "Ludovic Jimenez",
+      "title": "\"Cela m\u2019inqui\u00e8te beaucoup. Si le virus d\u00e9veloppe la capacit\u00e9 de se transmettre d\u2019homme \u00e0 homme, cela pourrait \u00eatre le d\u00e9but d\u2019une pand\u00e9mie\"",
+      "description": "L\u2019apparition d\u2019infections humaines et animales pousse les sp\u00e9cialistes \u00e0 alerter sur le risque de mutation du virus H5N1, d\u00e9j\u00e0 en circulation depuis plusieurs ann\u00e9es. D\u2019apr\u00e8s le virologue Steven Van Gucht (Sciensano), une vigilance mondiale s\u2019impose. ...",
+      "url": "https://www.lalibre.be/planete/sante/2024/11/19/cela-minquiete-beaucoup-si-le-virus-developpe-la-capacite-de-se-transmettre-dhomme-a-homme-cela-pourrait-etre-le-debut-dune-pandemie-VZPRV7S4Q5CEDIFSB6ECLFKWZA/",
+      "urlToImage": "https://www.lalibre.be/resizer/v2/KN4I7K4J3JFWXLR3YEMUENPRCA.jpg?auth=7a994edab45c0692e7411428eb5b9711ce687864425a3f7f2bd4f5a23fbb6fb0&width=1200&height=630&quality=85&focal=373%2C249&watermark=https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Fipmgroup%2F3R4IDPARFVEO3L2LC5OCCXQ5RM.png%3A100%3A0%2C557",
+      "publishedAt": "2024-11-19 08:20:13",
+      "content": "guillement Si des mesures plus strictes avaient \u00e9t\u00e9 prises d\u00e8s le d\u00e9but, la situation aurait pu \u00eatre ma\u00eetris\u00e9e\" Steven Van Gucht, virologue chez Sciensano Face \u00e0 cette situation, les experts expri\u2026 [+4473 chars]",
+      "retrievedAt": "2024-11-20 19:05:55.606275",
+      "internal_id": "6270e771bfcfb620cf5774334398a75bab30c8950553703361a1cbbaa7de16f6",
+      "publishedAtLabel": "Nov 19"
+    },
     {
       "id": 15717,
       "query": [
@@ -23514,132 +23928,6 @@
       "content": ", 7 . //. 35 . mpox ( ) , , 1 29 2024 . (). 35 525 mpox, 996 , . 23 29 4 098, - 156. mpox () - 30 766 990 . , 1 368 . . mpox 2022 11 2023 . , 14 . Mpox - , , . 1970 .",
       "retrievedAt": "2024-10-08 07:06:36.820755",
       "internal_id": "c8d41bd8a82c244700b16df93dce471063fff143fa71d152186b8512724ae634",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 14401,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Milenio",
-      "author": "Redacci\u00f3n",
-      "title": "QRoo avanza en la lucha contra el dengue: pasa del lugar 3 al 22 en casos nacionales",
-      "description": "Como resultado de la estrategia de lucha contra el dengue, Quintana Roo se encuentra en la posici\u00f3n n\u00famero 22 a nivel nacional por n\u00famero de casos, un logro hist\u00f3rico resultado de la estrategia, coordinaci\u00f3n e inversi\u00f3n.El gobierno de Mara Lezama Espinosa ha \u2026",
-      "url": "https://www.milenio.com/estados/quintana-roo-logra-reducir-casos-dengue",
-      "urlToImage": "https://cdn.milenio.com/uploads/media/2024/10/06/personal-salud-estrategia-combate-dengue.jpg",
-      "publishedAt": "2024-10-06 18:17:21",
-      "content": "Como resultado de la estrategia de lucha contra el dengue, Quintana Roo se encuentra en la posici\u00f3n n\u00famero 22a nivel nacional por n\u00famero de casos, un logro hist\u00f3rico resultado de la estrategia, coord\u2026 [+1233 chars]",
-      "retrievedAt": "2024-10-07 19:05:46.416575",
-      "internal_id": "fb8359d159b4770146ebb1fef0a0b941100a740e3096def2f8ea78203600662e",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 14441,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "BusinessLine",
-      "author": "G Naga Sridhar",
-      "title": "Putting cholera back in focus",
-      "description": "Cholera, a deadly diarrhoeal disease, is resurging globally, prompting calls for vaccination and improved public health measures.",
-      "url": "https://www.thehindubusinessline.com/specials/pulse/putting-cholera-back-in-focus/article68726024.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/miae01/article68726023.ece/alternates/LANDSCAPE_1200/2016-11-09T202739Z_932842931_S1AEULXCLNAA_RTRMADP_3_HAITI-CHOLERA.JPG",
-      "publishedAt": "2024-10-06 16:52:57",
-      "content": "In the rush to tackle emerging public health concerns like mpox and Covid-19, are diseases like cholera being overlooked? Rapid urbanisation, climate change, and conflicts are putting pressure on hea\u2026 [+3942 chars]",
-      "retrievedAt": "2024-10-09 07:07:06.985248",
-      "internal_id": "4dcf1791d2170865df6770b818e237aa6a0b1e38b356e6d79a9b97dff16a4ca3",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 14415,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Montevideo.com.uy",
-      "author": "Montevideo Portal",
-      "title": "El Congo, foco del brote de viruela del mono, comienza la campa\u00f1a de vacunaci\u00f3n",
-      "description": "La mpox, que comenz\u00f3 a expandirse desde la vecina Kivu del Sur, est\u00e1 presente ya en 23 de las 26 provincias del pa\u00eds.",
-      "url": "https://www.montevideo.com.uy/Salud/El-Congo-foco-del-brote-de-viruela-del-mono-comienza-la-campana-de-vacunacion-uc902427",
-      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202207/_W933_80/808770.jpg",
-      "publishedAt": "2024-10-06 16:15:00",
-      "content": "La Rep\u00fablica Democr\u00e1tica del Congo (RDC), foco del actual brote de viruela del mono (mpox), comenz\u00f3 este s\u00e1bado la campa\u00f1a de vacunaci\u00f3n contra la enfermedad en la provincia de Kivu del Norte, en \u2026 [+3683 chars]",
-      "retrievedAt": "2024-10-08 07:06:36.998521",
-      "internal_id": "a3a00c45095f9f7ae77bef5891de72e4eaad698431ee503d5d0cfb05251726c0",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 14406,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "New Zealand Herald",
-      "author": "Jamie Morton",
-      "title": "Scientists reveal first results of bird flu sampling; health plan shows how NZ would respond to human outbreak",
-      "description": "Sampling shows no sign of big-risk bird flu - but its NZ arrival is 'just matter of time'.",
-      "url": "https://www.nzherald.co.nz/nz/scientists-reveal-first-results-of-bird-flu-sampling-health-plan-shows-how-nz-would-respond-to-human-outbreak/ME7OORURMJHYDFCSVAHHBUIDRU/",
-      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/I5QUGT3H4AQADPWY2BXDCBLOFM.jpg?auth=507e06d0b5d82b1a5d186e3e57ff45ad9a4fb846b921f13034617d776f4b61b1&width=1200&height=675&quality=70&smart=true",
-      "publishedAt": "2024-10-06 16:00:00",
-      "content": "Oceania remains the last region yet to record a case of H5N1, which has killed nearly 300 million birds worldwide, including tens of thousands of endangered and endemic species. Scientists have been\u2026 [+3786 chars]",
-      "retrievedAt": "2024-10-08 07:06:33.254628",
-      "internal_id": "5461537a67c76376a7d1c1b0005341128e64d73f362306a24e3efdc3ab3eab6a",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 14402,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "la-nacion",
-      "source_name": "La Nacion",
-      "author": "Cintia Perazo",
-      "title": "Dengue: la nueva inteligencia artificial que usar\u00e1n en la provincia de Buenos Aires para intentar anticiparse a los brotes",
-      "description": "El programa, desarrollado por investigadores de la Unsam, ya se est\u00e1 probando y promete inferir cu\u00e1ntos mosquitos infectados habr\u00e1 en cada manzana del conurbano",
-      "url": "https://www.lanacion.com.ar/sociedad/dengue-la-nueva-inteligencia-artificial-que-usaran-en-la-provincia-de-buenos-aires-para-intentar-nid06102024/",
-      "urlToImage": "https://resizer.glanacion.com/resizer/v2/el-dengue-se-contagia-por-la-picadura-del-VYNUJTEDOFEQNNIQ4SPVPFIUCA.jpg?auth=241260c572bad34eade992656cf41cbdc3bf5b53ec8d7849f230ef7202a9c141&width=768&quality=70&smart=false",
-      "publishedAt": "2024-10-06 15:30:00",
-      "content": "Un equipo de investigadores de la Universidad Nacional de San Mart\u00edn (Unsam), liderado por Ezequiel \u00c1lvarez, est\u00e1 desarrollando un modelo de inteligencia artificial bayesiana que permitir\u00e1 anticipar \u2026 [+7718 chars]",
-      "retrievedAt": "2024-10-07 19:05:46.489307",
-      "internal_id": "199661668e62d7913ed09632ec701443735ed6c24b8bfd3dc7f6895c5f324940",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 14404,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "BBC News",
-      "author": "http://www.facebook.com/bbcnews",
-      "title": "\u0427\u043e\u043c\u0443 \u043c\u0456\u043d\u044f\u0442\u0438 \u043f\u043e\u0441\u0442\u0456\u043b\u044c\u043d\u0443 \u0431\u0456\u043b\u0438\u0437\u043d\u0443 \u0432\u0430\u0440\u0442\u043e \u0447\u0430\u0441\u0442\u0456\u0448\u0435",
-      "description": "\u041c\u0438 \u043f\u0440\u043e\u0432\u043e\u0434\u0438\u043c\u043e \u043d\u0430 \u043f\u0440\u043e\u0441\u0442\u0438\u0440\u0430\u0434\u043b\u0430\u0445 \u0456 \u043f\u043e\u0434\u0443\u0448\u043a\u0430\u0445 \u0442\u0440\u0435\u0442\u0438\u043d\u0443 \u0441\u0432\u043e\u0433\u043e \u0436\u0438\u0442\u0442\u044f \u0449\u043e\u0434\u043d\u044f, \u0456 \u0446\u0435\u0439 \u043a\u043e\u043d\u0442\u0430\u043a\u0442 \u0441\u0442\u0432\u043e\u0440\u044e\u0454 \u0456\u0434\u0435\u0430\u043b\u044c\u043d\u0435 \u0441\u0435\u0440\u0435\u0434\u043e\u0432\u0438\u0449\u0435 \u0434\u043b\u044f \u043a\u0443\u043f\u0438 \u043d\u0435\u0431\u0430\u0436\u0430\u043d\u0438\u0445 \u0433\u043e\u0441\u0442\u0435\u0439.",
-      "url": "https://www.bbc.com/ukrainian/articles/c17lxe84pk2o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_ukrainian/4a90/live/93eb8570-825d-11ef-a96a-4578729d5d06.jpg",
-      "publishedAt": "2024-10-06 12:57:11",
-      "content": "Article information , . , , . . , , , . - , , , . , . 500 , , , . , , . . 2013 , , . , , - S. aureus, , . \" , \", - , , . , Getty Images , , , , . 2018 , , , , . . 2022 , (mpox).\u2026 [+472 chars]",
-      "retrievedAt": "2024-10-07 19:05:48.100667",
-      "internal_id": "fac9e291a8c7df398968a765d17d6decda9bb0f861135150c7c7d0210073ff1c",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 14403,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "VOA News",
-      "author": "webdesk@voanews.com (Associated Press)",
-      "title": "Congo starts mpox vaccinations in effort to slow outbreaks",
-      "description": "GOMA, Congo \u2014 Congolese authorities on Saturday began vaccinations against mpox, nearly two months after the disease outbreak that spread from Congo to several African countries and beyond was declared a global emergency by the World Health Organization. Th\u2026",
-      "url": "https://www.voanews.com/a/congo-starts-mpox-vaccinations-in-effort-to-slow-outbreaks/7812086.html",
-      "urlToImage": "https://gdb.voanews.com/F2A047DA-F41F-406F-A699-3C87C334BCA6.jpg",
-      "publishedAt": "2024-10-06 07:11:34",
-      "content": "GOMA, Congo Congolese authorities on Saturday began vaccinations against mpox, nearly two months after the disease outbreak that spread from Congo to several African countries and beyond was declare\u2026 [+3282 chars]",
-      "retrievedAt": "2024-10-07 19:05:47.955180",
-      "internal_id": "fe487d05e9b2250a6d57ce4b443e1a3cd84340b29390439d476a26f8cd086a69",
       "publishedAtLabel": "Oct 6"
     }
   ]

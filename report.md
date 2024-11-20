@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 15
-- **Last harvest:** 2024-11-20 07:06
-- **Most recent article:** 2024-11-19 07:00:00
+- **New articles in last harvest:** 23
+- **Last harvest:** 2024-11-20 19:05
+- **Most recent article:** 2024-11-19 18:13:19
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-41 | 24-42 | 24-43 | 24-44 | 24-45 | 24-46 | 24-47 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 40 | 81 | 131 | 75 | 63 | 62 | 29 | 481 |
-| dengue | 33 | 50 | 53 | 31 | 31 | 36 | 14 | 248 |
-| h5n1 | 9 | 18 | 12 | 61 | 36 | 40 | 23 | 199 |
-| malaria | 13 | 18 | 58 | 16 | 26 | 33 | 7 | 171 |
-| measles | 5 | 3 | 1 | 13 | 3 | 33 | 3 | 61 |
-| rabies | 6 | 7 | 3 | 10 | 5 | 11 | 1 | 43 |
+| mpox | 36 | 81 | 131 | 75 | 63 | 62 | 37 | 485 |
+| dengue | 31 | 50 | 53 | 31 | 31 | 36 | 15 | 247 |
+| h5n1 | 8 | 18 | 12 | 61 | 36 | 40 | 29 | 204 |
+| malaria | 13 | 18 | 58 | 16 | 26 | 33 | 10 | 174 |
+| measles | 5 | 3 | 1 | 13 | 3 | 33 | 6 | 64 |
+| rabies | 6 | 7 | 3 | 10 | 5 | 11 | 2 | 44 |
 | zika | 4 | 6 | 6 | 3 | 9 | 4 | 2 | 34 |
 | pertussis | 2 | 9 | 3 | 1 | 3 | 8 | 3 | 29 |
 | chikungunya | 3 | 4 | 7 | 2 | 2 | 3 | 3 | 24 |
-| meningitis | 2 | 1 | 6 | 3 | 5 | 2 | 2 | 21 |
+| meningitis | 2 | 1 | 6 | 3 | 5 | 2 | 3 | 22 |
 | hpai | 1 | 2 | 2 | 7 | 4 | 4 | 1 | 21 |
 | leptospirosis | 1 | 1 | 0 | 3 | 10 | 3 | 0 | 18 |
 | typhoid | 0 | 1 | 3 | 4 | 1 | 1 | 0 | 10 |
@@ -41,6 +41,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-47 (rabies)
 
+- [Seven rabies deaths recorded in Sarawak this year](https://www.thestar.com.my/news/nation/2024/11/19/seven-rabies-deaths-recorded-in-sarawak-this-year) (The Star Online)
+
 - [Gorsuch: Peanut the Squirrel Shows Overreach of Government](https://legalinsurrection.com/2024/11/gorsuch-peanut-the-squirrel-shows-overreach-of-government/) (Legalinsurrection.com)
 
 ## 24-47 (pertussis)
@@ -52,6 +54,22 @@ Source: [News API](https://newsapi.org/)
 - [What Does it Mean to Own the Next 4 Years?](https://sciencebasedmedicine.org/ownit2/) (Sciencebasedmedicine.org)
 
 ## 24-47 (mpox)
+
+- [A new, potentially more dangerous version of mpox has been found in the U.S.](https://fortune.com/2024/11/19/mpox-new-strain-california-2024/) (Fortune)
+
+- [Universiteit Antwerpen coördineert twee onderzoeksprojecten in strijd tegen mpox-virus in Midden- en West-Afrika: “Uitbraak is nog niet onder controle”](https://www.nieuwsblad.be/cnt/dmf20241119_95739830) (Nieuwsblad.be)
+
+- [Universiteit Antwerpen coördineert twee onderzoeksprojecten in strijd tegen mpox-virus in Midden- en West-Afrika: “Uitbraak is nog niet onder controle”](https://www.gva.be/cnt/dmf20241119_95739830) (Www.gva.be)
+
+- [Primer registro de viruela del mono más grave en los EE.UU. Lo que se sabe](https://es.gizmodo.com/primer-registro-de-viruela-del-mono-mas-grave-en-los-ee-uu-lo-que-se-sabe-2000135605) (Gizmodo.com)
+
+- [Mpox: US reports first clade Ib case as campaigners call for cheaper tests](https://www.bmj.com/content/387/bmj.q2576) (The BMJ)
+
+- [California Confirms Nation’s First Case of Virulent Clade 1 Monkeypox](https://legalinsurrection.com/2024/11/california-confirms-nations-first-case-of-virulent-clade-1-monkeypox/) (Legalinsurrection.com)
+
+- [В России за неделю заболеваемость ковидом выросла на 21,6%](https://life.ru/p/1704228) (Life.ru)
+
+- [Nowy wariant małpiej ospy potwierdzony w USA. Jakie są objawy zakażenia?](https://wydarzenia.interia.pl/zagranica/news-nowy-wariant-malpiej-ospy-potwierdzony-w-usa-jakie-sa-objawy,nId,7858122) (Interia.pl)
 
 - [Virus Mpox Clade I Terdeteksi Masuk AS, Punya Riwayat Traveling ke Afrika](https://www.liputan6.com/health/read/5794009/virus-mpox-clade-i-terdeteksi-masuk-as-punya-riwayat-traveling-ke-afrika) (Liputan6.com)
 
@@ -113,11 +131,19 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-47 (meningitis)
 
+- [La enfermedad que rodea el cerebro aún sin erradicar con un índice de mortalidad del 37% en mayores de 60 años](https://www.huffingtonpost.es/sociedad/la-enfermedad-rodea-cerebroun-eraddicar-indice-mortalidad-37-mayores-60nos-hpe1.html) (Huffingtonpost.es)
+
 - [The First Sounds We Hear Are Words of Personal Love](https://jdgreear.com/the-first-sounds-we-hear-are-words-of-personal-love/) (Jdgreear.com)
 
 - [Durango: familias de víctimas de meningitis exigen justicia](https://www.jornada.com.mx/2024/11/18/estados/025n1est) (Jornada.com.mx)
 
 ## 24-47 (measles)
+
+- [The stunning success of vaccines in America, in one chart](https://www.vox.com/future-perfect/386215/trump-rfk-jr-vaccines-health-measles-chart) (Vox)
+
+- [Measles Prevention Checklist For Parents: Everything You Should Know](https://doctor.ndtv.com/children/measles-prevention-checklist-for-parents-everything-you-should-know-7057848) (NDTV News)
+
+- [Seth Meyers Loves That Trump ‘Hazed’ RFK Jr. With McDonald’s Photo Op: ‘That Right There Is a F–ing Grimace’ | Video](https://www.thewrap.com/rfk-jr-trump-mcdonald-photo-seth-meyers-hazed/) (TheWrap)
 
 - [Measles: An avoidable surge](https://www.thehindubusinessline.com/specials/pulse/measles-an-avoidable-surge/article68878758.ece) (BusinessLine)
 
@@ -126,6 +152,12 @@ Source: [News API](https://newsapi.org/)
 - [What Does it Mean to Own the Next 4 Years?](https://sciencebasedmedicine.org/ownit2/) (Sciencebasedmedicine.org)
 
 ## 24-47 (malaria)
+
+- [RFK, Jr., Is a Bad Prescription for U.S. Public Health](https://www.scientificamerican.com/article/rfk-jr-is-a-bad-prescription-for-u-s-public-health/) (Scientific American)
+
+- [FG urges action as malaria cases spike in Ogun](https://punchng.com/fg-urges-action-as-malaria-cases-spike-in-ogun/) (The Punch)
+
+- [Urban mosquito sparks malaria surge in East Africa](https://www.standardmedia.co.ke/health/health-science/article/2001506618/urban-mosquito-sparks-malaria-surge-in-east-africa) (Standard Digital)
 
 - [Urban mosquito sparks malaria surge in East Africa](https://www.voanews.com/a/urban-mosquito-sparks-malaria-surge-in-east-africa-/7868872.html) (VOA News)
 
@@ -146,6 +178,18 @@ Source: [News API](https://newsapi.org/)
 - [Human Bird Flu Case Found In Oregon](https://www.shtfplan.com/headline-news/human-bird-flu-case-found-in-oregon) (Shtfplan.com)
 
 ## 24-47 (h5n1)
+
+- [Ay, no: Gripe aviar H5N1 habría mutado y sería más contagiosa](https://www.sopitas.com/noticias/gripe-aviar-h5n1-posible-mutacion-virus-mas-contagioso-caso-columbia-canada/) (Sopitas.com)
+
+- [Καναδάς: Η γρίπη των πτηνών μπορεί να μεταλλάχτηκε για να διαδίδεται πιο εύκολα σε ανθρώπους](https://www.protothema.gr/world/article/1563973/kanadas-i-gripi-ton-ptinon-borei-na-metallahtike-gia-na-diadidetai-pio-eukola-se-anthropous/) (Protothema.gr)
+
+- [Un premier cas humain de grippe aviaire identifié au Canada : faut-il s’inquiéter d’une potentielle pandémie ?](https://www.lavenir.net/actu/societe/2024/11/19/un-premier-cas-humain-de-grippe-aviaire-identifie-au-canada-faut-il-sinquieter-dune-potentielle-pandemie-K7NM6VUK75CSHCEFQ744ETGL7U/) (Lavenir.net)
+
+- [Transmission à l’humain, risque de pandémie, vaccin: tout savoir sur le virus H5N1](https://www.levif.be/societe/sante/transmission-a-lhumain-risque-de-pandemie-vaccin-tout-savoir-sur-le-virus-h5n1/) (Levif.be)
+
+- [Bird flu reaches Hawaii, the last state that had escaped it](https://www.cbsnews.com/news/bird-flu-reaches-hawaii-infecting-last-state-to-have-escaped-h5n1-outbreak/) (CBS News)
+
+- ["Cela m’inquiète beaucoup. Si le virus développe la capacité de se transmettre d’homme à homme, cela pourrait être le début d’une pandémie"](https://www.lalibre.be/planete/sante/2024/11/19/cela-minquiete-beaucoup-si-le-virus-developpe-la-capacite-de-se-transmettre-dhomme-a-homme-cela-pourrait-etre-le-debut-dune-pandemie-VZPRV7S4Q5CEDIFSB6ECLFKWZA/) (Lalibre.be)
 
 - [Pacient s ptačí chřipkou skončil v kritickém stavu v nemocnici. Není zřejmé, kde se mohl nakazit](https://vtm.zive.cz/clanky/pacient-s-ptaci-chripkou-skoncil-v-kritickem-stavu-v-nemocnici-neni-zrejme-kde-se-mohl-nakazit/sc-870-a-231342/default.aspx) (Zive.cz)
 
@@ -194,6 +238,8 @@ Source: [News API](https://newsapi.org/)
 - [TWiV 1167: Virus cloak and entry](https://www.microbe.tv/twiv/twiv-1167/) (Microbe.tv)
 
 ## 24-47 (dengue)
+
+- [Addig hagyta kezeletlenül az emberiség a globális felmelegedést, hogy terjedni kezdett egy trópusi vírus](https://hvg.hu/tudomany/20241119_globalis-felmelegedes-klimavaltozas-dengue-laz-szunyogcsipes) (Hvg.hu)
 
 - [Descoberta sobre mosquitos pode ajudar no combate de várias doenças](https://olhardigital.com.br/2024/11/19/ciencia-e-espaco/descoberta-sobre-mosquitos-pode-ajudar-no-combate-de-varias-doencas/) (Olhardigital.com.br)
 
@@ -2797,14 +2843,6 @@ Source: [News API](https://newsapi.org/)
 
 - [В Африке выявили более 35 тыс. случаев с подозрением на mpox с начала года](https://tass.ru/obschestvo/22056017) (Tass.ru)
 
-- [Putting cholera back in focus](https://www.thehindubusinessline.com/specials/pulse/putting-cholera-back-in-focus/article68726024.ece) (BusinessLine)
-
-- [El Congo, foco del brote de viruela del mono, comienza la campaña de vacunación](https://www.montevideo.com.uy/Salud/El-Congo-foco-del-brote-de-viruela-del-mono-comienza-la-campana-de-vacunacion-uc902427) (Montevideo.com.uy)
-
-- [Чому міняти постільну білизну варто частіше](https://www.bbc.com/ukrainian/articles/c17lxe84pk2o) (BBC News)
-
-- [Congo starts mpox vaccinations in effort to slow outbreaks](https://www.voanews.com/a/congo-starts-mpox-vaccinations-in-effort-to-slow-outbreaks/7812086.html) (VOA News)
-
 ## 24-41 (meningitis)
 
 - [Massachusetts pharmacist gets up to 15 years in prison for meningitis outbreak deaths](https://abcnews.go.com/US/wireStory/massachusetts-pharmacist-gets-15-years-prison-meningitis-outbreak-114734224) (ABC News)
@@ -2877,8 +2915,6 @@ Source: [News API](https://newsapi.org/)
 
 - [The US is ramping up bird flu surveillance – but will it be enough?](https://www.newscientist.com/article/2450743-the-us-is-ramping-up-bird-flu-surveillance-but-will-it-be-enough/) (New Scientist)
 
-- [Scientists reveal first results of bird flu sampling; health plan shows how NZ would respond to human outbreak](https://www.nzherald.co.nz/nz/scientists-reveal-first-results-of-bird-flu-sampling-health-plan-shows-how-nz-would-respond-to-human-outbreak/ME7OORURMJHYDFCSVAHHBUIDRU/) (New Zealand Herald)
-
 ## 24-41 (dengue)
 
 - [Prevenzione da Dengue a Pesaro, estesa la disinfestazione](https://www.ansa.it/marche/notizie/2024/10/12/prevenzione-da-dengue-a-pesaro-estesa-la-disinfestazione_6486dfc5-f7fe-42fa-94c1-7c1a874a7204.html) (ANSA.it)
@@ -2942,10 +2978,6 @@ Source: [News API](https://newsapi.org/)
 - [County health officials detect first case of dengue virus in Escondido](https://www.10news.com/news/local-news/north-county-news/county-health-officials-detect-first-case-of-dengue-virus-in-escondido) (10News)
 
 - [Implementan plan contra el dengue en Acapulco tras paso de 'John': ¿Cuándo inicia?](https://www.milenio.com/estados/plan-contra-el-dengue-en-acapulco-guerrero-tras-john) (Milenio)
-
-- [QRoo avanza en la lucha contra el dengue: pasa del lugar 3 al 22 en casos nacionales](https://www.milenio.com/estados/quintana-roo-logra-reducir-casos-dengue) (Milenio)
-
-- [Dengue: la nueva inteligencia artificial que usarán en la provincia de Buenos Aires para intentar anticiparse a los brotes](https://www.lanacion.com.ar/sociedad/dengue-la-nueva-inteligencia-artificial-que-usaran-en-la-provincia-de-buenos-aires-para-intentar-nid06102024/) (La Nacion)
 
 ## 24-41 (chikungunya)
 
