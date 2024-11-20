@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 20
-- **Last harvest:** 2024-11-19 19:06
-- **Most recent article:** 2024-11-18 17:46:09
+- **New articles in last harvest:** 15
+- **Last harvest:** 2024-11-20 07:06
+- **Most recent article:** 2024-11-19 07:00:00
 
 ---
 
@@ -12,14 +12,14 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-41 | 24-42 | 24-43 | 24-44 | 24-45 | 24-46 | 24-47 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 36 | 81 | 131 | 75 | 63 | 62 | 27 | 475 |
-| dengue | 31 | 50 | 53 | 31 | 31 | 36 | 10 | 242 |
-| h5n1 | 8 | 18 | 12 | 61 | 36 | 40 | 18 | 193 |
-| malaria | 13 | 18 | 58 | 16 | 26 | 33 | 4 | 168 |
+| mpox | 40 | 81 | 131 | 75 | 63 | 62 | 29 | 481 |
+| dengue | 33 | 50 | 53 | 31 | 31 | 36 | 14 | 248 |
+| h5n1 | 9 | 18 | 12 | 61 | 36 | 40 | 23 | 199 |
+| malaria | 13 | 18 | 58 | 16 | 26 | 33 | 7 | 171 |
 | measles | 5 | 3 | 1 | 13 | 3 | 33 | 3 | 61 |
 | rabies | 6 | 7 | 3 | 10 | 5 | 11 | 1 | 43 |
 | zika | 4 | 6 | 6 | 3 | 9 | 4 | 2 | 34 |
-| pertussis | 2 | 9 | 3 | 1 | 3 | 8 | 2 | 28 |
+| pertussis | 2 | 9 | 3 | 1 | 3 | 8 | 3 | 29 |
 | chikungunya | 3 | 4 | 7 | 2 | 2 | 3 | 3 | 24 |
 | meningitis | 2 | 1 | 6 | 3 | 5 | 2 | 2 | 21 |
 | hpai | 1 | 2 | 2 | 7 | 4 | 4 | 1 | 21 |
@@ -45,11 +45,17 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-47 (pertussis)
 
+- [New nasal vaccine shows promise in curbing whooping cough spread](https://www.sciencedaily.com/releases/2024/11/241118170658.htm) (Science Daily)
+
 - [Whooping cough and pneumonia on the rise in Mass.](https://www.boston.com/news/health/2024/11/17/whooping-cough-and-pneumonia-on-the-rise-in-mass/) (Boston.com)
 
 - [What Does it Mean to Own the Next 4 Years?](https://sciencebasedmedicine.org/ownit2/) (Sciencebasedmedicine.org)
 
 ## 24-47 (mpox)
+
+- [Virus Mpox Clade I Terdeteksi Masuk AS, Punya Riwayat Traveling ke Afrika](https://www.liputan6.com/health/read/5794009/virus-mpox-clade-i-terdeteksi-masuk-as-punya-riwayat-traveling-ke-afrika) (Liputan6.com)
+
+- [More Severe Mpox Variant Found in the U.S. for the First Time. Here’s What We Know](https://gizmodo.com/more-severe-mpox-variant-found-in-the-u-s-for-the-first-time-heres-what-we-know-2000525874) (Gizmodo.com)
 
 - [Quels sont les animaux porteurs de mpox ? Notre étude a identifié les rongeurs vivant dans les forêts africaines comme l'une des sources de la maladie](https://theconversation.com/quels-sont-les-animaux-porteurs-de-mpox-notre-etude-a-identifie-les-rongeurs-vivant-dans-les-forets-africaines-comme-lune-des-sources-de-la-maladie-243812) (The Conversation Africa)
 
@@ -121,6 +127,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-47 (malaria)
 
+- [Urban mosquito sparks malaria surge in East Africa](https://www.voanews.com/a/urban-mosquito-sparks-malaria-surge-in-east-africa-/7868872.html) (VOA News)
+
+- [Urban Mosquito Sparks Malaria Surge In East Africa](https://www.ibtimes.com/urban-mosquito-sparks-malaria-surge-east-africa-3751680) (International Business Times)
+
+- [Urban mosquito sparks malaria surge in East Africa](https://www.digitaljournal.com/world/urban-mosquito-sparks-malaria-surge-in-east-africa/article) (Digital Journal)
+
 - [Baroni gives Dia update for Lazio after malaria scare](https://football-italia.net/baroni-gives-dia-update-lazio-malaria-scare/) (Football Italia)
 
 - [Buone notizie per Boulaye Dia: il senegalese rientra a Roma, falso allarme sulla malaria](https://www.tuttomercatoweb.com/i-fatti-del-giorno/buone-notizie-per-boulaye-dia-il-senegalese-rientra-a-roma-falso-allarme-sulla-malaria-2036142) (Tuttomercatoweb.com)
@@ -134,6 +146,16 @@ Source: [News API](https://newsapi.org/)
 - [Human Bird Flu Case Found In Oregon](https://www.shtfplan.com/headline-news/human-bird-flu-case-found-in-oregon) (Shtfplan.com)
 
 ## 24-47 (h5n1)
+
+- [Pacient s ptačí chřipkou skončil v kritickém stavu v nemocnici. Není zřejmé, kde se mohl nakazit](https://vtm.zive.cz/clanky/pacient-s-ptaci-chripkou-skoncil-v-kritickem-stavu-v-nemocnici-neni-zrejme-kde-se-mohl-nakazit/sc-870-a-231342/default.aspx) (Zive.cz)
+
+- [« Il n’y aurait pas d’autres solutions que de tout fermer » : les experts inquiets face à l’émergence d’un virus](https://www.lesoir.be/636817/article/2024-11-19/il-ny-aurait-pas-dautres-solutions-que-de-tout-fermer-les-experts-inquiets-face) (Le Soir)
+
+- [El caso de gripe aviar H5N1 en Canadá eleva un punto más su amenaza pandémica: "Es francamente preocupante"](https://www.elespanol.com/ciencia/salud/20241119/caso-gripe-aviar-h5n1-canada-eleva-punto-amenaza-pandemica-francamente-preocupante/902160251_0.html) (Elespanol.com)
+
+- [Bird flu risk to humans: Canadian case has unsettling viral mutations](https://www.statnews.com/2024/11/18/bird-flu-pandemic-h5n1-virus-mutations-canada-genomic-analysis/) (STAT)
+
+- [More Human Cases of Bird Flu In California](https://www.shtfplan.com/headline-news/more-human-cases-of-bird-flu-in-california) (Shtfplan.com)
 
 - [H5N1 bird flu infects 5 more humans in California, and 1 in Oregon](https://medicalxpress.com/news/2024-11-h5n1-bird-flu-infects-humans.html) (Medical Xpress)
 
@@ -172,6 +194,14 @@ Source: [News API](https://newsapi.org/)
 - [TWiV 1167: Virus cloak and entry](https://www.microbe.tv/twiv/twiv-1167/) (Microbe.tv)
 
 ## 24-47 (dengue)
+
+- [Descoberta sobre mosquitos pode ajudar no combate de várias doenças](https://olhardigital.com.br/2024/11/19/ciencia-e-espaco/descoberta-sobre-mosquitos-pode-ajudar-no-combate-de-varias-doencas/) (Olhardigital.com.br)
+
+- [Meer dan 400 doden door grote dengue-uitbraak in Bangladesh](https://businessam.be/bangladesh-dengue-uitbraak-2023/) (Businessam.be)
+
+- [世界初、デング熱重症化予測診断キットの製造承認を取得](https://prtimes.jp/main/html/rd/p/000000005.000054718.html) (Prtimes.jp)
+
+- [Climate change and the rising dengue fever burden](https://www.digitaljournal.com/tech-science/climate-change-and-the-rising-dengue-fever-burden/article) (Digital Journal)
 
 - [Assessing the ecological patterns of Aedes aegypti in areas with high arboviral risks in the large city of Abidjan, Côte d’Ivoire](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012647) (Plos.org)
 
@@ -2767,6 +2797,14 @@ Source: [News API](https://newsapi.org/)
 
 - [В Африке выявили более 35 тыс. случаев с подозрением на mpox с начала года](https://tass.ru/obschestvo/22056017) (Tass.ru)
 
+- [Putting cholera back in focus](https://www.thehindubusinessline.com/specials/pulse/putting-cholera-back-in-focus/article68726024.ece) (BusinessLine)
+
+- [El Congo, foco del brote de viruela del mono, comienza la campaña de vacunación](https://www.montevideo.com.uy/Salud/El-Congo-foco-del-brote-de-viruela-del-mono-comienza-la-campana-de-vacunacion-uc902427) (Montevideo.com.uy)
+
+- [Чому міняти постільну білизну варто частіше](https://www.bbc.com/ukrainian/articles/c17lxe84pk2o) (BBC News)
+
+- [Congo starts mpox vaccinations in effort to slow outbreaks](https://www.voanews.com/a/congo-starts-mpox-vaccinations-in-effort-to-slow-outbreaks/7812086.html) (VOA News)
+
 ## 24-41 (meningitis)
 
 - [Massachusetts pharmacist gets up to 15 years in prison for meningitis outbreak deaths](https://abcnews.go.com/US/wireStory/massachusetts-pharmacist-gets-15-years-prison-meningitis-outbreak-114734224) (ABC News)
@@ -2839,6 +2877,8 @@ Source: [News API](https://newsapi.org/)
 
 - [The US is ramping up bird flu surveillance – but will it be enough?](https://www.newscientist.com/article/2450743-the-us-is-ramping-up-bird-flu-surveillance-but-will-it-be-enough/) (New Scientist)
 
+- [Scientists reveal first results of bird flu sampling; health plan shows how NZ would respond to human outbreak](https://www.nzherald.co.nz/nz/scientists-reveal-first-results-of-bird-flu-sampling-health-plan-shows-how-nz-would-respond-to-human-outbreak/ME7OORURMJHYDFCSVAHHBUIDRU/) (New Zealand Herald)
+
 ## 24-41 (dengue)
 
 - [Prevenzione da Dengue a Pesaro, estesa la disinfestazione](https://www.ansa.it/marche/notizie/2024/10/12/prevenzione-da-dengue-a-pesaro-estesa-la-disinfestazione_6486dfc5-f7fe-42fa-94c1-7c1a874a7204.html) (ANSA.it)
@@ -2902,6 +2942,10 @@ Source: [News API](https://newsapi.org/)
 - [County health officials detect first case of dengue virus in Escondido](https://www.10news.com/news/local-news/north-county-news/county-health-officials-detect-first-case-of-dengue-virus-in-escondido) (10News)
 
 - [Implementan plan contra el dengue en Acapulco tras paso de 'John': ¿Cuándo inicia?](https://www.milenio.com/estados/plan-contra-el-dengue-en-acapulco-guerrero-tras-john) (Milenio)
+
+- [QRoo avanza en la lucha contra el dengue: pasa del lugar 3 al 22 en casos nacionales](https://www.milenio.com/estados/quintana-roo-logra-reducir-casos-dengue) (Milenio)
+
+- [Dengue: la nueva inteligencia artificial que usarán en la provincia de Buenos Aires para intentar anticiparse a los brotes](https://www.lanacion.com.ar/sociedad/dengue-la-nueva-inteligencia-artificial-que-usaran-en-la-provincia-de-buenos-aires-para-intentar-nid06102024/) (La Nacion)
 
 ## 24-41 (chikungunya)
 

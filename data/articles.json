@@ -1,8 +1,278 @@
 {
-  "last_updated": "2024-11-19 19:06",
-  "count_articles_total": 1288,
-  "count_articles_new": 20,
+  "last_updated": "2024-11-20 07:06",
+  "count_articles_total": 1310,
+  "count_articles_new": 15,
   "articles": [
+    {
+      "id": 15717,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Leandro Costa Criscuolo",
+      "title": "Descoberta sobre mosquitos pode ajudar no combate de v\u00e1rias doen\u00e7as",
+      "description": "Estudo revela que, sem audi\u00e7\u00e3o, machos n\u00e3o conseguem se reproduzir, permitindo novas estrat\u00e9gias no combate a doen\u00e7as, como mal\u00e1ria e dengue O post Descoberta sobre mosquitos pode ajudar no combate de v\u00e1rias doen\u00e7as apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2024/11/19/ciencia-e-espaco/descoberta-sobre-mosquitos-pode-ajudar-no-combate-de-varias-doencas/",
+      "urlToImage": "https://img.odcdn.com.br/wp-content/uploads/2024/11/mosquito.jpg",
+      "publishedAt": "2024-11-19 07:00:00",
+      "content": "Estudos gen\u00e9ticos recentes revelaram que, quando os mosquitos machos perdem a audi\u00e7\u00e3o, eles tamb\u00e9m perdem a capacidade de se reproduzir, descoberta essa que pode abrir portas para novas abordagens de\u2026 [+1524 chars]",
+      "retrievedAt": "2024-11-20 07:06:55.365614",
+      "internal_id": "bc154fd3675a65821db8302be582c9e867453b5fa0931b8dcb63766654af3d5b",
+      "publishedAtLabel": "Nov 19"
+    },
+    {
+      "id": 15716,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Zive.cz",
+      "author": "Karel Kili\u00e1n",
+      "title": "Pacient s pta\u010d\u00ed ch\u0159ipkou skon\u010dil v kritick\u00e9m stavu v nemocnici. Nen\u00ed z\u0159ejm\u00e9, kde se mohl nakazit",
+      "description": "",
+      "url": "https://vtm.zive.cz/clanky/pacient-s-ptaci-chripkou-skoncil-v-kritickem-stavu-v-nemocnici-neni-zrejme-kde-se-mohl-nakazit/sc-870-a-231342/default.aspx",
+      "urlToImage": "https://www.zive.cz/getthumbnail.aspx?q=100&height=20000&width=20000&id_file=249142444",
+      "publishedAt": "2024-11-19 06:45:00",
+      "content": "Souasn\u00e1 vlna pta\u00ed chipky H5N1 nezas\u00e1hla pouze ptactvo a zv\u00edata na farm\u00e1ch, ale bohuel tak\u00e9 pronikla mezi lidi. V Kanad se na za\u00e1tku listopadu objevil v provincii Britsk\u00e1 Kolumbie prvn\u00ed p\u00edpad od roku \u2026 [+3391 chars]",
+      "retrievedAt": "2024-11-20 07:06:55.020973",
+      "internal_id": "006bf35cd125306301e3fad9d05cae4b0ef8d2873bd79625a0ec952a9bf7f470",
+      "publishedAtLabel": "Nov 19"
+    },
+    {
+      "id": 15713,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Le Soir",
+      "author": "Par La r\u00e9daction avec agences",
+      "title": "\u00ab Il n\u2019y aurait pas d\u2019autres solutions que de tout fermer \u00bb : les experts inquiets face \u00e0 l\u2019\u00e9mergence d\u2019un virus",
+      "description": "Une personne a \u00e9t\u00e9 pour la premi\u00e8re fois au Canada test\u00e9e positive \u00e0 la grippe aviaire, ont rapport\u00e9 les autorit\u00e9s samedi. Les experts se montrent inquiets face \u00e0 ce cas humain, expliquant qu\u2019une transmission \u00e0 plus grande \u00e9chelle serait dramatique.",
+      "url": "https://www.lesoir.be/636817/article/2024-11-19/il-ny-aurait-pas-dautres-solutions-que-de-tout-fermer-les-experts-inquiets-face",
+      "urlToImage": "https://leseng.rosselcdn.net/sites/default/files/dpistyles_v2/ena_16_9_extra_big/2024/11/19/node_636817/31746344/public/2024/11/19/29787815.jpeg?itok=5Na9KhmN1731999341",
+      "publishedAt": "2024-11-19 06:42:36",
+      "content": "Au Canada, une personne a \u00e9t\u00e9 contamin\u00e9e au virus du H5N1, aussi connu sous le nom de grippe aviaire. Le malade, un adolescent, est soign\u00e9 dans un h\u00f4pital pour enfants pour une grippe aviaire caus\u00e9e \u2026 [+1435 chars]",
+      "retrievedAt": "2024-11-20 07:06:54.973988",
+      "internal_id": "e6701da094f7ff5624f8befe8e05248638b70d95deedceebe1d66be07c4e4faa",
+      "publishedAtLabel": "Nov 19"
+    },
+    {
+      "id": 15720,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Businessam.be",
+      "author": "businessam.be",
+      "title": "Meer dan 400 doden door grote dengue-uitbraak in Bangladesh",
+      "description": "Key takeaways Bangladesh wordt geconfronteerd met de ernstigste uitbraak van knokkelkoorts in de recente geschiedenis, met meer dan 400 geregistreerde sterfgevallen als gevolg van complicaties door het virus. Ziekenhuizen hebben moeite om de toename van het a\u2026",
+      "url": "https://businessam.be/bangladesh-dengue-uitbraak-2023/",
+      "urlToImage": "https://media.businessam.be/mosquito-1548947_1920.jpg",
+      "publishedAt": "2024-11-19 05:31:00",
+      "content": "Key takeaways In het hele land zijn 78.595 pati\u00ebnten in het ziekenhuis opgenomen en meer dan 4.173 pati\u00ebnten worden momenteel behandeld.De hoofdstad Dhaka alleen al is goed voor 1.8\u2026 [+2803 chars]",
+      "retrievedAt": "2024-11-20 07:06:55.418940",
+      "internal_id": "cc2d73eb4cde3617ad97a225babeff4aa128af4a0e3505127c9dca27d47f473b",
+      "publishedAtLabel": "Nov 19"
+    },
+    {
+      "id": 15722,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "VOA News",
+      "author": "webdesk@voanews.com (Agence France-Presse)",
+      "title": "Urban mosquito sparks malaria surge in East Africa",
+      "description": "NAIROBI, KENYA \u2014 The spread of a mosquito in East Africa that thrives in urban areas and is immune to insecticide is fueling a surge in malaria that could reverse decades of progress against the disease, experts say. Africa accounted for about 95% of the 24\u2026",
+      "url": "https://www.voanews.com/a/urban-mosquito-sparks-malaria-surge-in-east-africa-/7868872.html",
+      "urlToImage": "https://gdb.voanews.com/457A6DE8-904B-46B0-BB81-32AC10BEF869.jpg",
+      "publishedAt": "2024-11-19 05:12:54",
+      "content": "NAIROBI, KENYA The spread of a mosquito in East Africa that thrives in urban areas and is immune to insecticide is fueling a surge in malaria that could reverse decades of progress against the disea\u2026 [+3742 chars]",
+      "retrievedAt": "2024-11-20 07:06:55.956673",
+      "internal_id": "8dfe9bc9eb4b66639916f0e2d29da6e4a483e5596afa00d55ae37038f45b6055",
+      "publishedAtLabel": "Nov 19"
+    },
+    {
+      "id": 15721,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "International Business Times",
+      "author": "Eric RANDOLPH",
+      "title": "Urban Mosquito Sparks Malaria Surge In East Africa",
+      "description": "The spread of a mosquito in East Africa that thrives in urban areas and is immune to insecticide is fuelling a surge in malaria that could reverse decades of progress against the disease, experts say.",
+      "url": "https://www.ibtimes.com/urban-mosquito-sparks-malaria-surge-east-africa-3751680",
+      "urlToImage": "https://d.ibtimes.com/en/full/4562853/bed-nets-now-prime-weapon-against-malaria-may-much-less-effective-against-urban-mosquito.jpg",
+      "publishedAt": "2024-11-19 03:42:17",
+      "content": "The spread of a mosquito in East Africa that thrives in urban areas and is immune to insecticide is fuelling a surge in malaria that could reverse decades of progress against the disease, experts say\u2026 [+3512 chars]",
+      "retrievedAt": "2024-11-20 07:06:55.949627",
+      "internal_id": "4888aa2ddd3735924f45ca808dff74cfd500d0111af9cc4a94ef2fe30ed217a3",
+      "publishedAtLabel": "Nov 19"
+    },
+    {
+      "id": 15723,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Digital Journal",
+      "author": "AFP",
+      "title": "Urban mosquito sparks malaria surge in East Africa",
+      "description": "The spread of a mosquito in East Africa that thrives in urban areas and is immune to insecticide is fuelling a surge in malaria that could reverse decades of progress against the disease, experts say. Africa accounted for about 95 percent of the 249 million m\u2026",
+      "url": "https://www.digitaljournal.com/world/urban-mosquito-sparks-malaria-surge-in-east-africa/article",
+      "urlToImage": "https://www.digitaljournal.com/wp-content/uploads/2024/11/887d7cc44a224e2372c24b62883f64a7c43c0561.jpg",
+      "publishedAt": "2024-11-19 03:37:32",
+      "content": "Bed nets -- up to now the prime weapon against malaria -- may be much less effective against the urban mosquito - Copyright AFP/File YASUYOSHI CHIBA The spread of a mosquito in East Africa that thri\u2026 [+3903 chars]",
+      "retrievedAt": "2024-11-20 07:06:55.995671",
+      "internal_id": "7a5ce172aed9fb969348a6cc2e1de0d0d45ef384d0a3b6e6ab12e36b3b680b25",
+      "publishedAtLabel": "Nov 19"
+    },
+    {
+      "id": 15714,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Elespanol.com",
+      "author": "Marcos Dom\u00ednguez",
+      "title": "El caso de gripe aviar H5N1 en Canad\u00e1 eleva un punto m\u00e1s su amenaza pand\u00e9mica: \"Es francamente preocupante\"",
+      "description": "La secuenciaci\u00f3n del virus ha detectado dos mutaciones relacionadas con una mayor capacidad de uni\u00f3n a las c\u00e9lulas humanas. M\u00e1s informaci\u00f3n: El primer caso de gripe aviar de origen desconocido abre la puerta al contagio entre humanos",
+      "url": "https://www.elespanol.com/ciencia/salud/20241119/caso-gripe-aviar-h5n1-canada-eleva-punto-amenaza-pandemica-francamente-preocupante/902160251_0.html",
+      "urlToImage": "https://s1.elespanol.com/2023/04/17/ciencia/salud/756935072_232484031_1706x960.jpg",
+      "publishedAt": "2024-11-19 01:36:29",
+      "content": "El caso del adolescente canadiense en la UCI tras haber enfermado por la gripe aviar A(H5N1) ha tra\u00eddo una desagradable sorpresa: la secuenciaci\u00f3n del virus ha descubierto dos mutaciones que lo hacen\u2026 [+5910 chars]",
+      "retrievedAt": "2024-11-20 07:06:54.991425",
+      "internal_id": "4c8a4d690410ef64359369ecbcc33e76304817d52688e8b22f8f0c731f4b17c7",
+      "publishedAtLabel": "Nov 19"
+    },
+    {
+      "id": 15718,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Prtimes.jp",
+      "author": null,
+      "title": "\u4e16\u754c\u521d\u3001\u30c7\u30f3\u30b0\u71b1\u91cd\u75c7\u5316\u4e88\u6e2c\u8a3a\u65ad\u30ad\u30c3\u30c8\u306e\u88fd\u9020\u627f\u8a8d\u3092\u53d6\u5f97",
+      "description": "[\u682a\u5f0f\u4f1a\u793e\u30d3\u30ba\u30b8\u30fc\u30f3] [\u753b\u50cf: https://prcdn.freetls.fastly.net/release_image/54718/5/54718-5-341efc3c66175f318c851791a8fd7c58-1363x809.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&bg...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000005.000054718.html",
+      "urlToImage": "https://prcdn.freetls.fastly.net/release_image/54718/5/54718-5-341efc3c66175f318c851791a8fd7c58-1363x809.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "publishedAt": "2024-11-19 01:00:00",
+      "content": "AMED4VisCheck Dengue NS1 Rapid Antigen Serotyping Test AMED 2015-201920202024 3.99,6002 4 PCR4PCRNS141551 20251ASEAN 2018(VisGene, Ltd.) 32315 06-4864-4566 201842 8(202442) 19601970HbA1\u2026 [+148 chars]",
+      "retrievedAt": "2024-11-20 07:06:55.398903",
+      "internal_id": "1fb633dc2bf5270dae6095467277b3783d7b8ed1ba36937505994b9356aaea1c",
+      "publishedAtLabel": "Nov 19"
+    },
+    {
+      "id": 15725,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Liputan6.com",
+      "author": "Benedikta Desideria",
+      "title": "Virus Mpox Clade I Terdeteksi Masuk AS, Punya Riwayat Traveling ke Afrika",
+      "description": "Pertama kali kasus Mpox Clade I terdeteksi masuk Amerika Serikat. Pasien yang kini menjalani isolasi di California ini memang punya riwayat ke Afrika.",
+      "url": "https://www.liputan6.com/health/read/5794009/virus-mpox-clade-i-terdeteksi-masuk-as-punya-riwayat-traveling-ke-afrika",
+      "urlToImage": "https://cdn1-production-images-kly.akamaized.net/FjlTQq235IoHPd_80s-nNp3tRbc=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/4065938/original/068702900_1656387327-Cacar_Monyet.jpg",
+      "publishedAt": "2024-11-18 23:38:11",
+      "content": "Liputan6.com, Jakarta Strain virus Mpox atau cacar monyet yang menyebabkan outbreak di Afrika Timur dan Tengah yakni clade 1 telah masuk Amerika Serikat (AS). Menurut Centers for Disease Control and \u2026 [+1174 chars]",
+      "retrievedAt": "2024-11-20 07:06:57.174563",
+      "internal_id": "46023dc15fb73dc94e4a9cf5c4447e95bec1a884854c177a15ad58607920f290",
+      "publishedAtLabel": "Nov 18"
+    },
+    {
+      "id": 15719,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Digital Journal",
+      "author": "Dr. Tim Sandle",
+      "title": "Climate change and the rising dengue fever burden",
+      "description": "Countries in the Americas alone have recorded almost 12 million cases in 2024. The post Climate change and the rising dengue fever burden appeared first on Digital Journal.",
+      "url": "https://www.digitaljournal.com/tech-science/climate-change-and-the-rising-dengue-fever-burden/article",
+      "urlToImage": "https://www.digitaljournal.com/wp-content/uploads/2023/03/AAA-3-1.jpg",
+      "publishedAt": "2024-11-18 22:50:15",
+      "content": "Male Culex species mosquito. Source - Volkmar Becher, Public Domain Climate change is having a global impact on dengue transmission, accounting for 19 percent of the current dengue burden. Human cl\u2026 [+1969 chars]",
+      "retrievedAt": "2024-11-20 07:06:55.412260",
+      "internal_id": "1994655ada0209b7bc19b089e2e0b9e6a900ad0f324bff9a8072abceb9b3bc05",
+      "publishedAtLabel": "Nov 18"
+    },
+    {
+      "id": 15711,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "New nasal vaccine shows promise in curbing whooping cough spread",
+      "description": "A new nasal whooping cough vaccine showed an ability to prevent both infection and transmission of the disease in mice. Current vaccines offer treatment but fail to halt transmission of the bacteria that cause the disease.",
+      "url": "https://www.sciencedaily.com/releases/2024/11/241118170658.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2024-11-18 22:06:58",
+      "content": "As whooping cough cases rise in the U.S., a new nasal vaccine developed by Tulane University may hold the key to reducing the spread of the highly contagious respiratory disease.Current pertussis vac\u2026 [+2533 chars]",
+      "retrievedAt": "2024-11-20 07:06:53.846126",
+      "internal_id": "8a02a72c7f050e747656fedda9a78fdd0cde2d6bb3d38d2d2c349460f203499d",
+      "publishedAtLabel": "Nov 18"
+    },
+    {
+      "id": 15715,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "STAT",
+      "author": "Helen Branswell",
+      "title": "Bird flu risk to humans: Canadian case has unsettling viral mutations",
+      "description": "The H5N1 virus that infected a Canadian teen appears not to have spread, but it shows signs of mutation that makes flu virologists nervous.",
+      "url": "https://www.statnews.com/2024/11/18/bird-flu-pandemic-h5n1-virus-mutations-canada-genomic-analysis/",
+      "urlToImage": "https://www.statnews.com/wp-content/uploads/2024/11/GettyImages-2183268008-1024x576.jpg",
+      "publishedAt": "2024-11-18 21:33:30",
+      "content": "The genetic sequence of the H5N1 bird flu virus that infected a teenager in British Columbia shows that the virus had undergone mutational changes that would make it easier for that version of H5N1 t\u2026 [+6204 chars]",
+      "retrievedAt": "2024-11-20 07:06:55.009381",
+      "internal_id": "25f688b8893defa61bce0cf5a921eb7a76b04b3616243c284d34cfa5d066d239",
+      "publishedAtLabel": "Nov 18"
+    },
+    {
+      "id": 15712,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Shtfplan.com",
+      "author": "Mac Slavo",
+      "title": "More Human Cases of Bird Flu In California",
+      "description": "The bird flu outbreak is continuing to spread in human beings. More cases have been confirmed in California as Canada reports its first human case.",
+      "url": "https://www.shtfplan.com/headline-news/more-human-cases-of-bird-flu-in-california",
+      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2023/12/bird-flu1.jpg",
+      "publishedAt": "2024-11-18 21:00:14",
+      "content": "The bird flu outbreak is continuing to spread in human beings. More cases have been confirmed in California as Canada reports its first human case. Five new human cases of H5N1 bird flu have been de\u2026 [+1931 chars]",
+      "retrievedAt": "2024-11-20 07:06:54.930840",
+      "internal_id": "ee5f396e7a5075eeb3eb1179ca93a0a20fb81d527150c46788c1e15609bee5f9",
+      "publishedAtLabel": "Nov 18"
+    },
+    {
+      "id": 15724,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Gizmodo.com",
+      "author": "Ed Cara",
+      "title": "More Severe Mpox Variant Found in the U.S. for the First Time. Here\u2019s What We Know",
+      "description": "California health officials have recently reported the first known case of clade I mpox to be detected in the U.S.",
+      "url": "https://gizmodo.com/more-severe-mpox-variant-found-in-the-u-s-for-the-first-time-heres-what-we-know-2000525874",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/11/mpox.jpg",
+      "publishedAt": "2024-11-18 20:55:16",
+      "content": "A potentially more dangerous version of mpox, formerly known as monkeypox, has officially made it stateside. California health officials recently reported the first known case of clade I mpox to be d\u2026 [+3185 chars]",
+      "retrievedAt": "2024-11-20 07:06:56.888728",
+      "internal_id": "0c00716a485e6605134f4e1392edf4790ed512e6a6c98ac71b5ce38478dd12aa",
+      "publishedAtLabel": "Nov 18"
+    },
     {
       "id": 15696,
       "query": [
@@ -23244,6 +23514,132 @@
       "content": ", 7 . //. 35 . mpox ( ) , , 1 29 2024 . (). 35 525 mpox, 996 , . 23 29 4 098, - 156. mpox () - 30 766 990 . , 1 368 . . mpox 2022 11 2023 . , 14 . Mpox - , , . 1970 .",
       "retrievedAt": "2024-10-08 07:06:36.820755",
       "internal_id": "c8d41bd8a82c244700b16df93dce471063fff143fa71d152186b8512724ae634",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 14401,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Milenio",
+      "author": "Redacci\u00f3n",
+      "title": "QRoo avanza en la lucha contra el dengue: pasa del lugar 3 al 22 en casos nacionales",
+      "description": "Como resultado de la estrategia de lucha contra el dengue, Quintana Roo se encuentra en la posici\u00f3n n\u00famero 22 a nivel nacional por n\u00famero de casos, un logro hist\u00f3rico resultado de la estrategia, coordinaci\u00f3n e inversi\u00f3n.El gobierno de Mara Lezama Espinosa ha \u2026",
+      "url": "https://www.milenio.com/estados/quintana-roo-logra-reducir-casos-dengue",
+      "urlToImage": "https://cdn.milenio.com/uploads/media/2024/10/06/personal-salud-estrategia-combate-dengue.jpg",
+      "publishedAt": "2024-10-06 18:17:21",
+      "content": "Como resultado de la estrategia de lucha contra el dengue, Quintana Roo se encuentra en la posici\u00f3n n\u00famero 22a nivel nacional por n\u00famero de casos, un logro hist\u00f3rico resultado de la estrategia, coord\u2026 [+1233 chars]",
+      "retrievedAt": "2024-10-07 19:05:46.416575",
+      "internal_id": "fb8359d159b4770146ebb1fef0a0b941100a740e3096def2f8ea78203600662e",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 14441,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "BusinessLine",
+      "author": "G Naga Sridhar",
+      "title": "Putting cholera back in focus",
+      "description": "Cholera, a deadly diarrhoeal disease, is resurging globally, prompting calls for vaccination and improved public health measures.",
+      "url": "https://www.thehindubusinessline.com/specials/pulse/putting-cholera-back-in-focus/article68726024.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/miae01/article68726023.ece/alternates/LANDSCAPE_1200/2016-11-09T202739Z_932842931_S1AEULXCLNAA_RTRMADP_3_HAITI-CHOLERA.JPG",
+      "publishedAt": "2024-10-06 16:52:57",
+      "content": "In the rush to tackle emerging public health concerns like mpox and Covid-19, are diseases like cholera being overlooked? Rapid urbanisation, climate change, and conflicts are putting pressure on hea\u2026 [+3942 chars]",
+      "retrievedAt": "2024-10-09 07:07:06.985248",
+      "internal_id": "4dcf1791d2170865df6770b818e237aa6a0b1e38b356e6d79a9b97dff16a4ca3",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 14415,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "El Congo, foco del brote de viruela del mono, comienza la campa\u00f1a de vacunaci\u00f3n",
+      "description": "La mpox, que comenz\u00f3 a expandirse desde la vecina Kivu del Sur, est\u00e1 presente ya en 23 de las 26 provincias del pa\u00eds.",
+      "url": "https://www.montevideo.com.uy/Salud/El-Congo-foco-del-brote-de-viruela-del-mono-comienza-la-campana-de-vacunacion-uc902427",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202207/_W933_80/808770.jpg",
+      "publishedAt": "2024-10-06 16:15:00",
+      "content": "La Rep\u00fablica Democr\u00e1tica del Congo (RDC), foco del actual brote de viruela del mono (mpox), comenz\u00f3 este s\u00e1bado la campa\u00f1a de vacunaci\u00f3n contra la enfermedad en la provincia de Kivu del Norte, en \u2026 [+3683 chars]",
+      "retrievedAt": "2024-10-08 07:06:36.998521",
+      "internal_id": "a3a00c45095f9f7ae77bef5891de72e4eaad698431ee503d5d0cfb05251726c0",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 14406,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "New Zealand Herald",
+      "author": "Jamie Morton",
+      "title": "Scientists reveal first results of bird flu sampling; health plan shows how NZ would respond to human outbreak",
+      "description": "Sampling shows no sign of big-risk bird flu - but its NZ arrival is 'just matter of time'.",
+      "url": "https://www.nzherald.co.nz/nz/scientists-reveal-first-results-of-bird-flu-sampling-health-plan-shows-how-nz-would-respond-to-human-outbreak/ME7OORURMJHYDFCSVAHHBUIDRU/",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/I5QUGT3H4AQADPWY2BXDCBLOFM.jpg?auth=507e06d0b5d82b1a5d186e3e57ff45ad9a4fb846b921f13034617d776f4b61b1&width=1200&height=675&quality=70&smart=true",
+      "publishedAt": "2024-10-06 16:00:00",
+      "content": "Oceania remains the last region yet to record a case of H5N1, which has killed nearly 300 million birds worldwide, including tens of thousands of endangered and endemic species. Scientists have been\u2026 [+3786 chars]",
+      "retrievedAt": "2024-10-08 07:06:33.254628",
+      "internal_id": "5461537a67c76376a7d1c1b0005341128e64d73f362306a24e3efdc3ab3eab6a",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 14402,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "Cintia Perazo",
+      "title": "Dengue: la nueva inteligencia artificial que usar\u00e1n en la provincia de Buenos Aires para intentar anticiparse a los brotes",
+      "description": "El programa, desarrollado por investigadores de la Unsam, ya se est\u00e1 probando y promete inferir cu\u00e1ntos mosquitos infectados habr\u00e1 en cada manzana del conurbano",
+      "url": "https://www.lanacion.com.ar/sociedad/dengue-la-nueva-inteligencia-artificial-que-usaran-en-la-provincia-de-buenos-aires-para-intentar-nid06102024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/el-dengue-se-contagia-por-la-picadura-del-VYNUJTEDOFEQNNIQ4SPVPFIUCA.jpg?auth=241260c572bad34eade992656cf41cbdc3bf5b53ec8d7849f230ef7202a9c141&width=768&quality=70&smart=false",
+      "publishedAt": "2024-10-06 15:30:00",
+      "content": "Un equipo de investigadores de la Universidad Nacional de San Mart\u00edn (Unsam), liderado por Ezequiel \u00c1lvarez, est\u00e1 desarrollando un modelo de inteligencia artificial bayesiana que permitir\u00e1 anticipar \u2026 [+7718 chars]",
+      "retrievedAt": "2024-10-07 19:05:46.489307",
+      "internal_id": "199661668e62d7913ed09632ec701443735ed6c24b8bfd3dc7f6895c5f324940",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 14404,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": "http://www.facebook.com/bbcnews",
+      "title": "\u0427\u043e\u043c\u0443 \u043c\u0456\u043d\u044f\u0442\u0438 \u043f\u043e\u0441\u0442\u0456\u043b\u044c\u043d\u0443 \u0431\u0456\u043b\u0438\u0437\u043d\u0443 \u0432\u0430\u0440\u0442\u043e \u0447\u0430\u0441\u0442\u0456\u0448\u0435",
+      "description": "\u041c\u0438 \u043f\u0440\u043e\u0432\u043e\u0434\u0438\u043c\u043e \u043d\u0430 \u043f\u0440\u043e\u0441\u0442\u0438\u0440\u0430\u0434\u043b\u0430\u0445 \u0456 \u043f\u043e\u0434\u0443\u0448\u043a\u0430\u0445 \u0442\u0440\u0435\u0442\u0438\u043d\u0443 \u0441\u0432\u043e\u0433\u043e \u0436\u0438\u0442\u0442\u044f \u0449\u043e\u0434\u043d\u044f, \u0456 \u0446\u0435\u0439 \u043a\u043e\u043d\u0442\u0430\u043a\u0442 \u0441\u0442\u0432\u043e\u0440\u044e\u0454 \u0456\u0434\u0435\u0430\u043b\u044c\u043d\u0435 \u0441\u0435\u0440\u0435\u0434\u043e\u0432\u0438\u0449\u0435 \u0434\u043b\u044f \u043a\u0443\u043f\u0438 \u043d\u0435\u0431\u0430\u0436\u0430\u043d\u0438\u0445 \u0433\u043e\u0441\u0442\u0435\u0439.",
+      "url": "https://www.bbc.com/ukrainian/articles/c17lxe84pk2o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_ukrainian/4a90/live/93eb8570-825d-11ef-a96a-4578729d5d06.jpg",
+      "publishedAt": "2024-10-06 12:57:11",
+      "content": "Article information , . , , . . , , , . - , , , . , . 500 , , , . , , . . 2013 , , . , , - S. aureus, , . \" , \", - , , . , Getty Images , , , , . 2018 , , , , . . 2022 , (mpox).\u2026 [+472 chars]",
+      "retrievedAt": "2024-10-07 19:05:48.100667",
+      "internal_id": "fac9e291a8c7df398968a765d17d6decda9bb0f861135150c7c7d0210073ff1c",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 14403,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "VOA News",
+      "author": "webdesk@voanews.com (Associated Press)",
+      "title": "Congo starts mpox vaccinations in effort to slow outbreaks",
+      "description": "GOMA, Congo \u2014 Congolese authorities on Saturday began vaccinations against mpox, nearly two months after the disease outbreak that spread from Congo to several African countries and beyond was declared a global emergency by the World Health Organization. Th\u2026",
+      "url": "https://www.voanews.com/a/congo-starts-mpox-vaccinations-in-effort-to-slow-outbreaks/7812086.html",
+      "urlToImage": "https://gdb.voanews.com/F2A047DA-F41F-406F-A699-3C87C334BCA6.jpg",
+      "publishedAt": "2024-10-06 07:11:34",
+      "content": "GOMA, Congo Congolese authorities on Saturday began vaccinations against mpox, nearly two months after the disease outbreak that spread from Congo to several African countries and beyond was declare\u2026 [+3282 chars]",
+      "retrievedAt": "2024-10-07 19:05:47.955180",
+      "internal_id": "fe487d05e9b2250a6d57ce4b443e1a3cd84340b29390439d476a26f8cd086a69",
       "publishedAtLabel": "Oct 6"
     }
   ]
