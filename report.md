@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 25
-- **Last harvest:** 2024-11-21 07:06
-- **Most recent article:** 2024-11-20 06:34:31
+- **New articles in last harvest:** 16
+- **Last harvest:** 2024-11-21 19:06
+- **Most recent article:** 2024-11-20 17:58:00
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-41 | 24-42 | 24-43 | 24-44 | 24-45 | 24-46 | 24-47 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 40 | 81 | 131 | 75 | 63 | 62 | 48 | 500 |
-| dengue | 33 | 50 | 53 | 31 | 31 | 36 | 18 | 252 |
-| h5n1 | 9 | 18 | 12 | 61 | 36 | 40 | 32 | 208 |
-| malaria | 13 | 18 | 58 | 16 | 26 | 33 | 14 | 178 |
-| measles | 5 | 3 | 1 | 13 | 3 | 33 | 7 | 65 |
+| mpox | 36 | 81 | 131 | 75 | 63 | 62 | 51 | 499 |
+| dengue | 31 | 50 | 53 | 31 | 31 | 36 | 22 | 254 |
+| h5n1 | 8 | 18 | 12 | 61 | 36 | 40 | 34 | 209 |
+| malaria | 13 | 18 | 58 | 16 | 26 | 33 | 19 | 183 |
+| measles | 5 | 3 | 1 | 13 | 3 | 33 | 8 | 66 |
 | rabies | 6 | 7 | 3 | 10 | 5 | 11 | 3 | 45 |
 | zika | 4 | 6 | 6 | 3 | 9 | 4 | 3 | 35 |
 | pertussis | 2 | 9 | 3 | 1 | 3 | 8 | 3 | 29 |
-| chikungunya | 3 | 4 | 7 | 2 | 2 | 3 | 3 | 24 |
+| chikungunya | 3 | 4 | 7 | 2 | 2 | 3 | 4 | 25 |
 | meningitis | 2 | 1 | 6 | 3 | 5 | 2 | 4 | 23 |
-| hpai | 1 | 2 | 2 | 7 | 4 | 4 | 1 | 21 |
+| hpai | 1 | 2 | 2 | 7 | 4 | 4 | 2 | 22 |
 | leptospirosis | 1 | 1 | 0 | 3 | 10 | 3 | 0 | 18 |
 | typhoid | 0 | 1 | 3 | 4 | 1 | 1 | 0 | 10 |
 | shigellosis | 3 | 0 | 1 | 0 | 0 | 1 | 0 | 5 |
@@ -58,6 +58,12 @@ Source: [News API](https://newsapi.org/)
 - [What Does it Mean to Own the Next 4 Years?](https://sciencebasedmedicine.org/ownit2/) (Sciencebasedmedicine.org)
 
 ## 24-47 (mpox)
+
+- [UN authorizes first mpox vaccine for children in an attempt to control Congo outbreak](https://abcnews.go.com/Health/wireStory/authorizes-1st-mpox-vaccine-children-attempt-control-outbreak-116041849) (ABC News)
+
+- [The UN authorizes the 1st mpox vaccine for children in an attempt to control the outbreak in Congo](https://www.seattlepi.com/news/world/article/the-un-authorizes-the-1st-mpox-vaccine-for-19931540.php) (seattlepi.com)
+
+- [องค์การอนามัยโลกอนุมัติวัคซีนฝีดาษลิงแบบฉุกเฉิน เป็นโรคที่สองต่อจาก COVID-19](https://www.blognone.com/node/143235) (Blognone.com)
 
 - [L'OMS approuve un second vaccin contre le mpox: "Une étape importante..."](https://www.lalibre.be/planete/sante/2024/11/20/loms-approuve-un-second-vaccin-contre-le-mpox-une-etape-importante-MGDBFBSVMRC6JAD5XDOA55NAX4/) (Lalibre.be)
 
@@ -167,6 +173,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-47 (measles)
 
+- [Food Supply](https://gothamgal.com/2024/11/food-supply/) (Gothamgal.com)
+
 - [The stunning success of vaccines in America, in one chart (Dylan Scott/Vox)](https://www.memeorandum.com/241119/p77) (Memeorandum.com)
 
 - [The stunning success of vaccines in America, in one chart](https://www.vox.com/future-perfect/386215/trump-rfk-jr-vaccines-health-measles-chart) (Vox)
@@ -182,6 +190,16 @@ Source: [News API](https://newsapi.org/)
 - [What Does it Mean to Own the Next 4 Years?](https://sciencebasedmedicine.org/ownit2/) (Sciencebasedmedicine.org)
 
 ## 24-47 (malaria)
+
+- [Notice of Special Interest (NOSI): Accelerating Malaria Vaccine and Monoclonal Antibody Discovery](https://grants.nih.gov/grants/guide/notice-files/NOT-AI-24-072.html) (National Institutes of Health)
+
+- [Stopping severe malaria by harnessing natural human antibodies](https://www.sciencedaily.com/releases/2024/11/241120121738.htm) (Science Daily)
+
+- [Anticuerpos humanos podrían prevenir infecciones de malaria severa](https://www.montevideo.com.uy/Salud/Anticuerpos-humanos-podrian-prevenir-infecciones-de-malaria-severa-uc907124) (Montevideo.com.uy)
+
+- [Global Fund applauds Malawi efforts against malaria, tuberculosis, AIDS](http://en.people.cn/n3/2024/1120/c90000-20245086.html) (People.cn)
+
+- [Malaria te lijf gaan met een nieuw vaccin op basis van een kreupel gemaakte parasiet](https://www.nrc.nl/nieuws/2024/11/20/malaria-te-lijf-gaan-met-een-nieuw-vaccin-op-basis-van-een-kreupel-gemaakte-parasiet-a4873856) (Www.nrc.nl)
 
 - [Notice of Early Expiration of "Notice of Special Interest (NOSI): Accelerating Malaria Vaccine Discovery", NOT-AI-22-014](https://grants.nih.gov/grants/guide/notice-files/NOT-AI-24-086.html) (National Institutes of Health)
 
@@ -213,9 +231,15 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-47 (hpai)
 
+- [おっさん達「待望のドラクエ3リメイクきた！やりまくるぞ！！」 → モンスター以上の難敵〇〇で詰みまくるおっさん続出ｗｗｗｗｗ](http://jin115.com/archives/52412768.html) (Jin115.com)
+
 - [Human Bird Flu Case Found In Oregon](https://www.shtfplan.com/headline-news/human-bird-flu-case-found-in-oregon) (Shtfplan.com)
 
 ## 24-47 (h5n1)
+
+- [Influenza aviaria, scienziati in allarme per le mutazioni del virus nell’adolescente canadese. In Usa caso sospetto in un bimbo](https://www.ilfattoquotidiano.it/2024/11/20/influenza-aviaria-scienziati-in-allarme-per-le-mutazioni-del-virus-nelladolescente-canadese-in-usa-caso-sospetto-in-un-bimbo/7774427/) (Ilfattoquotidiano.it)
+
+- [Rischio aviaria anche sull’uomo? Cosa c’è da sapere sulle mutazioni del virus](https://www.ilgiornale.it/news/farmaci-e-terapie/rischio-aviaria-anche-sull-uomo-cosa-c-sapere-sulle-2400610.html) (Ilgiornale.it)
 
 - [Influenza A Virus Antibodies in Ducks and Introduction of Highly Pathogenic Influenza A(H5N1) Virus, Tennessee, USA](https://wwwnc.cdc.gov/eid/article/30/12/24-1126_article) (Cdc.gov)
 
@@ -283,6 +307,14 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-47 (dengue)
 
+- [Faro e Lisboa sob risco acrescido de transmissão da dengue](https://expresso.pt/sociedade/saude/2024-11-20-faro-e-lisboa-sob-risco-acrescido-de-transmissao-da-dengue-6778468c) (Expresso.pt)
+
+- [Dengue-láz: robbanásszerűen nő a betegek száma](https://www.origo.hu/tudomany/2024/11/dengue-laz-klimavaltozas) (Origo.hu)
+
+- [Understanding the factors contributing to dengue virus and chikungunya virus seropositivity and seroconversion among children in Kenya](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012616) (Plos.org)
+
+- [Meer dan 400 doden door ernstige uitbraak van dengue in Bangladesh](https://newsmonkey.be/doden-uitbraak-dengue-bangladesh/) (Newsmonkey.be)
+
 - [Alerta en Puerto Rico por aumento de casos de dengue](https://cnnespanol.cnn.com/2024/11/19/alerta-puerto-rico-aumento-dengue-orix) (CNN)
 
 - [Dengue: una provincia concentra más del 80% de los casos confirmados y los sospechosos llevan cinco semanas en alza](https://www.lanacion.com.ar/sociedad/dengue-una-provincia-concentra-mas-del-80-de-los-casos-confirmados-y-los-sospechosos-llevan-cinco-nid19112024/) (La Nacion)
@@ -320,6 +352,8 @@ Source: [News API](https://newsapi.org/)
 - [Waspada DBD di Musim Hujan, Gerakan Satu Rumah Satu Jumantik Jadi Kunci Lawan Dengue](https://www.liputan6.com/health/read/5791891/waspada-dbd-di-musim-hujan-gerakan-satu-rumah-satu-jumantik-jadi-kunci-lawan-dengue) (Liputan6.com)
 
 ## 24-47 (chikungunya)
+
+- [Understanding the factors contributing to dengue virus and chikungunya virus seropositivity and seroconversion among children in Kenya](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012616) (Plos.org)
 
 - [Assessing the ecological patterns of Aedes aegypti in areas with high arboviral risks in the large city of Abidjan, Côte d’Ivoire](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012647) (Plos.org)
 
@@ -2893,14 +2927,6 @@ Source: [News API](https://newsapi.org/)
 
 - [В Африке выявили более 35 тыс. случаев с подозрением на mpox с начала года](https://tass.ru/obschestvo/22056017) (Tass.ru)
 
-- [Putting cholera back in focus](https://www.thehindubusinessline.com/specials/pulse/putting-cholera-back-in-focus/article68726024.ece) (BusinessLine)
-
-- [El Congo, foco del brote de viruela del mono, comienza la campaña de vacunación](https://www.montevideo.com.uy/Salud/El-Congo-foco-del-brote-de-viruela-del-mono-comienza-la-campana-de-vacunacion-uc902427) (Montevideo.com.uy)
-
-- [Чому міняти постільну білизну варто частіше](https://www.bbc.com/ukrainian/articles/c17lxe84pk2o) (BBC News)
-
-- [Congo starts mpox vaccinations in effort to slow outbreaks](https://www.voanews.com/a/congo-starts-mpox-vaccinations-in-effort-to-slow-outbreaks/7812086.html) (VOA News)
-
 ## 24-41 (meningitis)
 
 - [Massachusetts pharmacist gets up to 15 years in prison for meningitis outbreak deaths](https://abcnews.go.com/US/wireStory/massachusetts-pharmacist-gets-15-years-prison-meningitis-outbreak-114734224) (ABC News)
@@ -2973,8 +2999,6 @@ Source: [News API](https://newsapi.org/)
 
 - [The US is ramping up bird flu surveillance – but will it be enough?](https://www.newscientist.com/article/2450743-the-us-is-ramping-up-bird-flu-surveillance-but-will-it-be-enough/) (New Scientist)
 
-- [Scientists reveal first results of bird flu sampling; health plan shows how NZ would respond to human outbreak](https://www.nzherald.co.nz/nz/scientists-reveal-first-results-of-bird-flu-sampling-health-plan-shows-how-nz-would-respond-to-human-outbreak/ME7OORURMJHYDFCSVAHHBUIDRU/) (New Zealand Herald)
-
 ## 24-41 (dengue)
 
 - [Prevenzione da Dengue a Pesaro, estesa la disinfestazione](https://www.ansa.it/marche/notizie/2024/10/12/prevenzione-da-dengue-a-pesaro-estesa-la-disinfestazione_6486dfc5-f7fe-42fa-94c1-7c1a874a7204.html) (ANSA.it)
@@ -3038,10 +3062,6 @@ Source: [News API](https://newsapi.org/)
 - [County health officials detect first case of dengue virus in Escondido](https://www.10news.com/news/local-news/north-county-news/county-health-officials-detect-first-case-of-dengue-virus-in-escondido) (10News)
 
 - [Implementan plan contra el dengue en Acapulco tras paso de 'John': ¿Cuándo inicia?](https://www.milenio.com/estados/plan-contra-el-dengue-en-acapulco-guerrero-tras-john) (Milenio)
-
-- [QRoo avanza en la lucha contra el dengue: pasa del lugar 3 al 22 en casos nacionales](https://www.milenio.com/estados/quintana-roo-logra-reducir-casos-dengue) (Milenio)
-
-- [Dengue: la nueva inteligencia artificial que usarán en la provincia de Buenos Aires para intentar anticiparse a los brotes](https://www.lanacion.com.ar/sociedad/dengue-la-nueva-inteligencia-artificial-que-usaran-en-la-provincia-de-buenos-aires-para-intentar-nid06102024/) (La Nacion)
 
 ## 24-41 (chikungunya)
 

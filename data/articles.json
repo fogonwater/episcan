@@ -1,8 +1,297 @@
 {
-  "last_updated": "2024-11-21 07:06",
-  "count_articles_total": 1358,
-  "count_articles_new": 25,
+  "last_updated": "2024-11-21 19:06",
+  "count_articles_total": 1367,
+  "count_articles_new": 16,
   "articles": [
+    {
+      "id": 15784,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "National Institutes of Health",
+      "author": null,
+      "title": "Notice of Special Interest (NOSI): Accelerating Malaria Vaccine and Monoclonal Antibody Discovery",
+      "description": "NIH Funding Opportunities and Notices in the NIH Guide for Grants and Contracts: Notice of Special Interest (NOSI): Accelerating Malaria Vaccine and Monoclonal Antibody Discovery NOT-AI-24-072. NIAID",
+      "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-AI-24-072.html",
+      "urlToImage": null,
+      "publishedAt": "2024-11-20 17:58:00",
+      "content": "The purpose of this Notice of Special Interest (NOSI) is to invite applications proposing early-phase translational research to generate new malaria vaccine candidates or monoclonal antibody (mAb)-ba\u2026 [+5099 chars]",
+      "retrievedAt": "2024-11-21 19:05:58.934901",
+      "internal_id": "9b8a826ef5454a6abc4d016b2e4ca3f7b5b8b1835c8c5abd9fc6a03e65f6307e",
+      "publishedAtLabel": "Nov 20"
+    },
+    {
+      "id": 15783,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "Stopping severe malaria by harnessing natural human antibodies",
+      "description": "Scientists have identified human antibodies capable of targeting the proteins responsible for severe malaria, potentially paving the way for new vaccines or treatments. Using organ-on-a-chip technology, researchers successfully demonstrated that these antibod\u2026",
+      "url": "https://www.sciencedaily.com/releases/2024/11/241120121738.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2024-11-20 17:17:38",
+      "content": "Malaria, particularly in its severe forms, remains a global health and economic burden. It causes the deaths of more than 600,000 people every year -- most of them African children under five. In a n\u2026 [+4623 chars]",
+      "retrievedAt": "2024-11-21 19:05:58.890709",
+      "internal_id": "0f525f74aa544c45b36c00edb1256e425d0978572d917ce27b1bff0982916cff",
+      "publishedAtLabel": "Nov 20"
+    },
+    {
+      "id": 15785,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "Anticuerpos humanos podr\u00edan prevenir infecciones de malaria severa",
+      "description": "La malaria grave afecta principalmente a los ni\u00f1os africanos menores de cinco a\u00f1os.",
+      "url": "https://www.montevideo.com.uy/Salud/Anticuerpos-humanos-podrian-prevenir-infecciones-de-malaria-severa-uc907124",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202411/_W933_80/902275.jpg",
+      "publishedAt": "2024-11-20 17:17:00",
+      "content": "Algunos anticuerpos humanos son capaces de atacar a las prote\u00ednas responsables de la malaria severa, una enfermedad que provoca m\u00e1s de medio mill\u00f3n de muertes anuales, un descubrimiento que abre la\u2026 [+3504 chars]",
+      "retrievedAt": "2024-11-21 19:05:58.942051",
+      "internal_id": "efdcc63aad8a4f6570aab1103712eaa2338e3fbc9ea5023761671c730fdb9d84",
+      "publishedAtLabel": "Nov 20"
+    },
+    {
+      "id": 15778,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Expresso.pt",
+      "author": "Vera L\u00facia Arreigoso",
+      "title": "Faro e Lisboa sob risco acrescido de transmiss\u00e3o da dengue",
+      "description": "Concentra\u00e7\u00e3o de mosquitos vetores do v\u00edrus aumentou e \u00e9 preciso sensibilizar a popula\u00e7\u00e3o para minimizar a propaga\u00e7\u00e3o. O alerta \u00e9 feito pelo Instituto de Higiene e Medicina Tropical",
+      "url": "https://expresso.pt/sociedade/saude/2024-11-20-faro-e-lisboa-sob-risco-acrescido-de-transmissao-da-dengue-6778468c",
+      "urlToImage": "https://images.impresa.pt/expresso/2023-11-23-Aedes-albopictus-fb015af4/1.91x1?wm=true&outputFormat=jpeg",
+      "publishedAt": "2024-11-20 16:43:07",
+      "content": "S\u00e3o mais as popula\u00e7\u00f5es de mosquitos vetores do v\u00edrus da doen\u00e7a dengue identificadas nas regi\u00f5es de Faro e de Lisboa. O Instituto de Higiene e Medicina Tropical alerta para a presen\u00e7a mais not\u00f3ria da \u2026 [+303 chars]",
+      "retrievedAt": "2024-11-21 19:05:58.258796",
+      "internal_id": "0b42bdd707e8cdf826c0c474b7389014043e6699cdedb561f62a5810f30f8e30",
+      "publishedAtLabel": "Nov 20"
+    },
+    {
+      "id": 15780,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Origo.hu",
+      "author": "Origo",
+      "title": "Dengue-l\u00e1z: robban\u00e1sszer\u0171en n\u0151 a betegek sz\u00e1ma",
+      "description": "A glob\u00e1lis \u00e9ghajlatv\u00e1ltoz\u00e1s nem puszt\u00e1n az \u00f6kosziszt\u00e9m\u00e1kat \u00e9s a term\u00e9szetes k\u00f6rnyezetet form\u00e1lja \u00e1t, de komoly fenyeget\u00e9st jelent az emberi eg\u00e9szs\u00e9gre is. Egy \u00faj kutat\u00e1s szerint a dengue-l\u00e1z terjed\u00e9s\u00e9nek dr\u00e1mai n\u00f6veked\u00e9se k\u00f6zvetlen kapcsolatban \u00e1ll az emelked\u2026",
+      "url": "https://www.origo.hu/tudomany/2024/11/dengue-laz-klimavaltozas",
+      "urlToImage": "https://cdn.origo.hu/2024/11/QVu82ExV5SXZ8t43OtBkpjwaQer2myPZKLXu2SOKv8A/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzhiZjI3YTdlNjE0YjQzMGU5M2E2OWZlOGE1YzMzMTE2.webp",
+      "publishedAt": "2024-11-20 15:30:35",
+      "content": "A Stanford \u00e9s a Harvard Egyetem szak\u00e9rti \u00e1ltal vezetett amerikai kutat\u00f3csoport \u00e1tfog\u00f3 tanulm\u00e1nyt k\u00e9sz\u00edtett a dengue-l\u00e1z terjed\u00e9s\u00e9nek okair\u00f3l. A kutat\u00e1s szerint a kl\u00edmav\u00e1ltoz\u00e1s tehet k\u00f6zvetlen\u00fcl felel\u2026 [+2290 chars]",
+      "retrievedAt": "2024-11-21 19:05:58.293391",
+      "internal_id": "c435df263a6c319ae93ae0877aa54c5aa6d9900787b04ed6c04b48c1e45a9997",
+      "publishedAtLabel": "Nov 20"
+    },
+    {
+      "id": 15775,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Jin115.com",
+      "author": "jin115a",
+      "title": "\u304a\u3063\u3055\u3093\u9054\u300c\u5f85\u671b\u306e\u30c9\u30e9\u30af\u30a83\u30ea\u30e1\u30a4\u30af\u304d\u305f\uff01\u3084\u308a\u307e\u304f\u308b\u305e\uff01\uff01\u300d \u2192 \u30e2\u30f3\u30b9\u30bf\u30fc\u4ee5\u4e0a\u306e\u96e3\u6575\u3007\u3007\u3067\u8a70\u307f\u307e\u304f\u308b\u304a\u3063\u3055\u3093\u7d9a\u51fa\uff57\uff57\uff57\uff57\uff57",
+      "description": "\u304a\u3063\u3055\u3093\u9054\u300c\u5f85\u671b\u306e\u30c9\u30e9\u30af\u30a83\u30ea\u30e1\u30a4\u30af\u304d\u305f\uff01\u3084\u308a\u307e\u304f\u308b\u305e\uff01\uff01\u300d \u2192 \u30e2\u30f3\u30b9\u30bf\u30fc\u4ee5\u4e0a\u306e\u96e3\u6575\u3007\u3007\u3067\u8a70\u307f\u307e\u304f\u308b\u304a\u3063\u3055\u3093\u7d9a\u51fa\uff57\uff57\uff57\uff57\uff57 - \u30aa\u30ec\u7684\u30b2\u30fc\u30e0\u901f\u5831\u306e\u8a18\u4e8b",
+      "url": "http://jin115.com/archives/52412768.html",
+      "urlToImage": "https://livedoor.blogimg.jp/jin115/imgs/5/1/518685f7.jpg",
+      "publishedAt": "2024-11-20 15:00:36",
+      "content": "363 23wwwwww 3 653 SNS 36HP 3231145 11PS4Switch23SwitchPC wwww w 2III HPAI HD-2D 12 3TV 12/4 Powered by",
+      "retrievedAt": "2024-11-21 19:05:57.186154",
+      "internal_id": "aa1120cfbf464a80450af6a880734eff767436c1669c6a3876c16ea26ea669da",
+      "publishedAtLabel": "Nov 20"
+    },
+    {
+      "id": 15787,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "The Associated Press",
+      "title": "UN authorizes first mpox vaccine for children in an attempt to control Congo outbreak",
+      "description": "The World Health Organization has authorized the first mpox vaccine for children",
+      "url": "https://abcnews.go.com/Health/wireStory/authorizes-1st-mpox-vaccine-children-attempt-control-outbreak-116041849",
+      "urlToImage": "https://i.abcnewsfe.com/a/75f62aac-77e9-4a66-89f8-a26e70f763a4/wirestory_50dbd1f75a4bb61ceeefcb9bbeb95314_16x9.jpg?w=1600",
+      "publishedAt": "2024-11-20 14:46:32",
+      "content": "GENEVA -- The World Health Organization has authorized the first mpox vaccine for children, a decision experts hope will help make immunizations more widely available to one of the hardest-hit popula\u2026 [+2612 chars]",
+      "retrievedAt": "2024-11-21 19:06:00.008929",
+      "internal_id": "717cd317a850926bb79458f6ecb4c96cd32e4787fe2c7e40136d1132ba6dc7b0",
+      "publishedAtLabel": "Nov 20"
+    },
+    {
+      "id": 15786,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "People.cn",
+      "author": "F_300924",
+      "title": "Global Fund applauds Malawi efforts against malaria, tuberculosis, AIDS",
+      "description": "LILONGWE, Nov. 20 (Xinhua) -- The Global Fund has applauded Malawi for being resilient in the wake o",
+      "url": "http://en.people.cn/n3/2024/1120/c90000-20245086.html",
+      "urlToImage": null,
+      "publishedAt": "2024-11-20 14:41:36",
+      "content": "(Xinhua) 22:35, November 20, 2024 LILONGWE, Nov. 20 (Xinhua) -- The Global Fund has applauded Malawi for being resilient in the wake of climatic disasters and disease outbreaks in the past few years\u2026 [+2957 chars]",
+      "retrievedAt": "2024-11-21 19:05:58.960331",
+      "internal_id": "315cae2a31de731030e9b0e6023725a072cb710b7851957e3bf34b4654feb3ef",
+      "publishedAtLabel": "Nov 20"
+    },
+    {
+      "id": 15782,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Www.nrc.nl",
+      "author": "Anne van Kessel",
+      "title": "Malaria te lijf gaan met een nieuw vaccin op basis van een kreupel gemaakte parasiet",
+      "description": "Begin 2022 stapt een groep jonge, gezonde vrijwilligers \u2019s ochtends vroeg in Leiden in een bus die hen naar het muggenlaboratorium in Nijmegen brengt. Daar nemen ze plaats op een stoel en leggen hun armen ontbloot op tafel. Een laborant komt binnen en plaatst\u2026",
+      "url": "https://www.nrc.nl/nieuws/2024/11/20/malaria-te-lijf-gaan-met-een-nieuw-vaccin-op-basis-van-een-kreupel-gemaakte-parasiet-a4873856",
+      "urlToImage": "https://images.nrc.nl/VoCT2hQ6JiAoxq7Z3DRfrmiBJjQ=/1200x627/smart/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2024/11/20165157/data124447802-ee7fcc.jpg",
+      "publishedAt": "2024-11-20 14:28:18",
+      "content": "Begin 2022 stapt een groep jonge, gezonde vrijwilligers s ochtends vroeg in Leiden in een bus die hen naar het muggenlaboratorium in Nijmegen brengt. Daar nemen ze plaats op een stoel en leggen hun a\u2026 [+9234 chars]",
+      "retrievedAt": "2024-11-21 19:05:58.878297",
+      "internal_id": "bc4c62545f40a0db2c15220e59a6d20f7c24758a95ef10268d661b009117e338",
+      "publishedAtLabel": "Nov 20"
+    },
+    {
+      "id": 15789,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "seattlepi.com",
+      "author": null,
+      "title": "The UN authorizes the 1st mpox vaccine for children in an attempt to control the outbreak in Congo",
+      "description": "The World Health Organization has authorized the first mpox vaccine for children. Experts hope it will help make immunizations more widely available to one of the hardest-hit populations during the ongoing outbreaks of the disease in Congo and elsewhere in Af\u2026",
+      "url": "https://www.seattlepi.com/news/world/article/the-un-authorizes-the-1st-mpox-vaccine-for-19931540.php",
+      "urlToImage": "https://s.hdnux.com/photos/01/45/22/37/26552275/9/rawImage.jpg",
+      "publishedAt": "2024-11-20 14:03:28",
+      "content": "FILE - 2 year old Emile Miango, who has mpox, lies in a hospital, in Kamituga, South Kivu province, Sept. 4, 2024, which is the epicenter of the world's latest outbreak of the disease in eastern Cong\u2026 [+2941 chars]",
+      "retrievedAt": "2024-11-21 19:06:00.104394",
+      "internal_id": "9e4ccebc6128d20a51fffd225c56b0c8548e877d47c05201c7fdf9060595d42e",
+      "publishedAtLabel": "Nov 20"
+    },
+    {
+      "id": 15781,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Amna Tariq, Aslam Khan, Francis Mutuku, Bryson Ndenga, Donal Bisanzio, Elysse N. Grossi-Soyster, Zainab Jembe, Priscilla Maina, Philip Chebii, Charles Ronga, Victoria Okuta, Angelle Desiree LaBeaud",
+      "title": "Understanding the factors contributing to dengue virus and chikungunya virus seropositivity and seroconversion among children in Kenya",
+      "description": "Author summary Dengue virus (DENV) and chikungunya virus (CHIKV) are important arboviral infections that cause endemic febrile disease specially among children in Kenya. Since there is no active surveillance for DENV and CHIKV infections in Kenya, the actual \u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012616",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012616.g004&size=inline",
+      "publishedAt": "2024-11-20 14:00:00",
+      "content": "Abstract Dengue virus (DENV) and chikungunya virus (CHIKV) are causes of endemic febrile disease among Kenyan children. The exposure risk to these infections is highly multifactorial and linked to e\u2026 [+48563 chars]",
+      "retrievedAt": "2024-11-21 19:05:58.316382",
+      "internal_id": "34757b078d123cb99edc92bc60c95c1511565d088fb2b07419728bc393052e4b",
+      "publishedAtLabel": "Nov 20"
+    },
+    {
+      "id": 15776,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Ilfattoquotidiano.it",
+      "author": "F. Q.",
+      "title": "Influenza aviaria, scienziati in allarme per le mutazioni del virus nell\u2019adolescente canadese. In Usa caso sospetto in un bimbo",
+      "description": "Dopo il caso confermato di influenza aviaria di un adolescente in Canada, dalla California (Usa) arriva la notizia di un sospetto caso di infezione da virus H5n1 in un bambino che frequenta l\u2019asilo. Il piccolo, a differenza del 14enne che \u00e8 ricoverato a Vanco\u2026",
+      "url": "https://www.ilfattoquotidiano.it/2024/11/20/influenza-aviaria-scienziati-in-allarme-per-le-mutazioni-del-virus-nelladolescente-canadese-in-usa-caso-sospetto-in-un-bimbo/7774427/",
+      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2024/11/20/aviaria-1-1200x630.jpg",
+      "publishedAt": "2024-11-20 13:18:35",
+      "content": "Dopo il caso confermato di influenza aviaria di un adolescente in Canada, dalla California (Usa) arriva la notizia di un sospetto caso di infezione da virus H5n1 in un bambino che frequenta l\u2019asilo. \u2026 [+6877 chars]",
+      "retrievedAt": "2024-11-21 19:05:57.687347",
+      "internal_id": "f1a116514ed034c44f7ac5c00d4e2caea745b9f64c7f0f95b96c41c53b59e985",
+      "publishedAtLabel": "Nov 20"
+    },
+    {
+      "id": 15774,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Gothamgal.com",
+      "author": "Joanne Wilson",
+      "title": "Food Supply",
+      "description": "I believe in vaccines. Nobody wants to return to the days of polio, measles, rubella, diphtheria, tetanus, hepatitis, and whooping cough. The impact of these vaccinations is that we are all living healthier, longer lives. Is there a small percentage of people\u2026",
+      "url": "https://gothamgal.com/2024/11/food-supply/",
+      "urlToImage": "https://gothamgal.com/content/uploads/2024/11/download.jpg",
+      "publishedAt": "2024-11-20 12:32:11",
+      "content": "I believe in vaccines. Nobody wants to return to the days of polio, measles, rubella, diphtheria, tetanus, hepatitis, and whooping cough. The impact of these vaccinations is that we are all living he\u2026 [+1569 chars]",
+      "retrievedAt": "2024-11-21 19:05:56.784363",
+      "internal_id": "eb6a5752e2c2e5ca0c40fa327fbfcc7c652adc8eaa4baf1d809a0fa124a7af4d",
+      "publishedAtLabel": "Nov 20"
+    },
+    {
+      "id": 15777,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Ilgiornale.it",
+      "author": "redazione@ilgiornale-web.it (Alessandro Ferro)",
+      "title": "Rischio aviaria anche sull\u2019uomo? Cosa c\u2019\u00e8 da sapere sulle mutazioni del virus",
+      "description": "Sono bassi e scarsi i segnali per una futura pandemia causata dal virus dell'aviaria ma il contagio di un giovane canadese preoccupa gli esperti: come potrebbe essere mutato il virus e come si trasmetterebbe il contagio nell'uomo",
+      "url": "https://www.ilgiornale.it/news/farmaci-e-terapie/rischio-aviaria-anche-sull-uomo-cosa-c-sapere-sulle-2400610.html",
+      "urlToImage": "https://img.ilgcdn.com/sites/default/files/styles/social/public/foto/2024/10/22/aviaria_influenza_ipa_fg.jpg?_=1729588502",
+      "publishedAt": "2024-11-20 09:16:42",
+      "content": "Non giungono notizie positive dal Canada dove un giovane si trova ricoverato in ospedale perch\u00e9 colpito dall'influenza aviaria causata dal virus H5N1 e tutt'ora in condizioni critiche. Questo caso, c\u2026 [+3821 chars]",
+      "retrievedAt": "2024-11-21 19:05:57.764558",
+      "internal_id": "c98bda540afc0872881e1214c328d24050d3648a0022a1a469eb88fb3333cbca",
+      "publishedAtLabel": "Nov 20"
+    },
+    {
+      "id": 15779,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Newsmonkey.be",
+      "author": "Florian Callens",
+      "title": "Meer dan 400 doden door ernstige uitbraak van dengue in Bangladesh",
+      "description": "Bangladesh wordt momenteel getroffen door de dodelijkste uitbraak van dengue in zijn geschiedenis. Sinds het begin van de uitbraak zijn meer dan 400 mensen overleden en tienduizenden anderen opgenomen in ziekenhuizen. De situatie legt een enorme druk op de ge\u2026",
+      "url": "https://newsmonkey.be/doden-uitbraak-dengue-bangladesh/",
+      "urlToImage": "https://media.newsmonkey.be/Muggen-1656574289-scaled.jpg",
+      "publishedAt": "2024-11-20 07:40:00",
+      "content": "Bangladesh wordt momenteel getroffen door de dodelijkste uitbraak van dengue in zijn geschiedenis. Sinds het begin van de uitbraak zijn meer dan 400 mensen overleden en tienduizenden anderen opgenome\u2026 [+2237 chars]",
+      "retrievedAt": "2024-11-21 19:05:58.276373",
+      "internal_id": "346ff4e41d1cde338ff36049686316e4c6300b8b107dac9dcc7aabb11d0c2dbf",
+      "publishedAtLabel": "Nov 20"
+    },
+    {
+      "id": 15788,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Blognone.com",
+      "author": "lew",
+      "title": "\u0e2d\u0e07\u0e04\u0e4c\u0e01\u0e32\u0e23\u0e2d\u0e19\u0e32\u0e21\u0e31\u0e22\u0e42\u0e25\u0e01\u0e2d\u0e19\u0e38\u0e21\u0e31\u0e15\u0e34\u0e27\u0e31\u0e04\u0e0b\u0e35\u0e19\u0e1d\u0e35\u0e14\u0e32\u0e29\u0e25\u0e34\u0e07\u0e41\u0e1a\u0e1a\u0e09\u0e38\u0e01\u0e40\u0e09\u0e34\u0e19 \u0e40\u0e1b\u0e47\u0e19\u0e42\u0e23\u0e04\u0e17\u0e35\u0e48\u0e2a\u0e2d\u0e07\u0e15\u0e48\u0e2d\u0e08\u0e32\u0e01 COVID-19",
+      "description": "\u0e2d\u0e07\u0e04\u0e4c\u0e01\u0e32\u0e23\u0e2d\u0e19\u0e32\u0e21\u0e31\u0e22\u0e42\u0e25\u0e01\u0e2b\u0e23\u0e37\u0e2d WHO \u0e1b\u0e23\u0e30\u0e01\u0e32\u0e28\u0e23\u0e31\u0e1a\u0e23\u0e2d\u0e07\u0e27\u0e31\u0e04\u0e0b\u0e35\u0e19 LC16m8 \u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e42\u0e23\u0e04 mpox \u0e2b\u0e23\u0e37\u0e2d\u0e1d\u0e35\u0e14\u0e32\u0e29\u0e25\u0e34\u0e07 \u0e2b\u0e25\u0e31\u0e07\u0e08\u0e32\u0e01\u0e21\u0e35\u0e23\u0e32\u0e22\u0e07\u0e32\u0e19\u0e41\u0e1e\u0e23\u0e48\u0e01\u0e23\u0e30\u0e08\u0e32\u0e22\u0e44\u0e1b 80 \u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28 \u0e23\u0e27\u0e21\u0e1c\u0e39\u0e49\u0e1b\u0e48\u0e27\u0e22 39,000 \u0e42\u0e14\u0e22\u0e40\u0e1b\u0e47\u0e19\u0e01\u0e23\u0e30\u0e1a\u0e27\u0e19\u0e01\u0e32\u0e23\u0e23\u0e31\u0e1a\u0e23\u0e2d\u0e07\u0e09\u0e38\u0e01\u0e40\u0e09\u0e34\u0e19 (Emergency Use Listing - EUL) \u0e17\u0e35\u0e48\u0e40\u0e04\u0e22\u0e43\u0e0a\u0e49\u0e15\u0e2d\u0e19\u0e2d\u0e19\u0e38\u0e21\u0e31\u0e15\u0e34\u0e27\u0e31\u0e04\u0e0b\u0e35\u0e19 COVID-19 LC16m8 \u0e40\u0e1b\u0e47\u0e19\u0e27\u0e31\u0e04\u0e0b\u0e35\u0e19\u0e40\u0e0a\u0e37\u0e49\u0e2d\u0e15\u0e32\u0e22\u0e1e\u0e31\u2026",
+      "url": "https://www.blognone.com/node/143235",
+      "urlToImage": "https://www.blognone.com/sites/default/files/externals/13fa38d6d87819a36f0464a731ca048d.jpg",
+      "publishedAt": "2024-11-20 07:19:02",
+      "content": "WHO LC16m8 mpox 80 39,000 (Emergency Use Listing - EUL) COVID-19 LC16m8 Chiba Serum Institute 1975 (smallpox) KM Biologics LC16m8 3.05 LC16m8 mpox 12-15 WHO mpox Modified Vaccinia Ankara-Bavari\u2026 [+96 chars]",
+      "retrievedAt": "2024-11-21 19:06:00.081350",
+      "internal_id": "08bae5c60fcc28be105037ace43fa6b96999936bf1254aec3ca2897a41cde198",
+      "publishedAtLabel": "Nov 20"
+    },
     {
       "id": 15759,
       "query": [
@@ -24378,132 +24667,6 @@
       "content": ", 7 . //. 35 . mpox ( ) , , 1 29 2024 . (). 35 525 mpox, 996 , . 23 29 4 098, - 156. mpox () - 30 766 990 . , 1 368 . . mpox 2022 11 2023 . , 14 . Mpox - , , . 1970 .",
       "retrievedAt": "2024-10-08 07:06:36.820755",
       "internal_id": "c8d41bd8a82c244700b16df93dce471063fff143fa71d152186b8512724ae634",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 14401,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Milenio",
-      "author": "Redacci\u00f3n",
-      "title": "QRoo avanza en la lucha contra el dengue: pasa del lugar 3 al 22 en casos nacionales",
-      "description": "Como resultado de la estrategia de lucha contra el dengue, Quintana Roo se encuentra en la posici\u00f3n n\u00famero 22 a nivel nacional por n\u00famero de casos, un logro hist\u00f3rico resultado de la estrategia, coordinaci\u00f3n e inversi\u00f3n.El gobierno de Mara Lezama Espinosa ha \u2026",
-      "url": "https://www.milenio.com/estados/quintana-roo-logra-reducir-casos-dengue",
-      "urlToImage": "https://cdn.milenio.com/uploads/media/2024/10/06/personal-salud-estrategia-combate-dengue.jpg",
-      "publishedAt": "2024-10-06 18:17:21",
-      "content": "Como resultado de la estrategia de lucha contra el dengue, Quintana Roo se encuentra en la posici\u00f3n n\u00famero 22a nivel nacional por n\u00famero de casos, un logro hist\u00f3rico resultado de la estrategia, coord\u2026 [+1233 chars]",
-      "retrievedAt": "2024-10-07 19:05:46.416575",
-      "internal_id": "fb8359d159b4770146ebb1fef0a0b941100a740e3096def2f8ea78203600662e",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 14441,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "BusinessLine",
-      "author": "G Naga Sridhar",
-      "title": "Putting cholera back in focus",
-      "description": "Cholera, a deadly diarrhoeal disease, is resurging globally, prompting calls for vaccination and improved public health measures.",
-      "url": "https://www.thehindubusinessline.com/specials/pulse/putting-cholera-back-in-focus/article68726024.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/miae01/article68726023.ece/alternates/LANDSCAPE_1200/2016-11-09T202739Z_932842931_S1AEULXCLNAA_RTRMADP_3_HAITI-CHOLERA.JPG",
-      "publishedAt": "2024-10-06 16:52:57",
-      "content": "In the rush to tackle emerging public health concerns like mpox and Covid-19, are diseases like cholera being overlooked? Rapid urbanisation, climate change, and conflicts are putting pressure on hea\u2026 [+3942 chars]",
-      "retrievedAt": "2024-10-09 07:07:06.985248",
-      "internal_id": "4dcf1791d2170865df6770b818e237aa6a0b1e38b356e6d79a9b97dff16a4ca3",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 14415,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Montevideo.com.uy",
-      "author": "Montevideo Portal",
-      "title": "El Congo, foco del brote de viruela del mono, comienza la campa\u00f1a de vacunaci\u00f3n",
-      "description": "La mpox, que comenz\u00f3 a expandirse desde la vecina Kivu del Sur, est\u00e1 presente ya en 23 de las 26 provincias del pa\u00eds.",
-      "url": "https://www.montevideo.com.uy/Salud/El-Congo-foco-del-brote-de-viruela-del-mono-comienza-la-campana-de-vacunacion-uc902427",
-      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202207/_W933_80/808770.jpg",
-      "publishedAt": "2024-10-06 16:15:00",
-      "content": "La Rep\u00fablica Democr\u00e1tica del Congo (RDC), foco del actual brote de viruela del mono (mpox), comenz\u00f3 este s\u00e1bado la campa\u00f1a de vacunaci\u00f3n contra la enfermedad en la provincia de Kivu del Norte, en \u2026 [+3683 chars]",
-      "retrievedAt": "2024-10-08 07:06:36.998521",
-      "internal_id": "a3a00c45095f9f7ae77bef5891de72e4eaad698431ee503d5d0cfb05251726c0",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 14406,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "New Zealand Herald",
-      "author": "Jamie Morton",
-      "title": "Scientists reveal first results of bird flu sampling; health plan shows how NZ would respond to human outbreak",
-      "description": "Sampling shows no sign of big-risk bird flu - but its NZ arrival is 'just matter of time'.",
-      "url": "https://www.nzherald.co.nz/nz/scientists-reveal-first-results-of-bird-flu-sampling-health-plan-shows-how-nz-would-respond-to-human-outbreak/ME7OORURMJHYDFCSVAHHBUIDRU/",
-      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/I5QUGT3H4AQADPWY2BXDCBLOFM.jpg?auth=507e06d0b5d82b1a5d186e3e57ff45ad9a4fb846b921f13034617d776f4b61b1&width=1200&height=675&quality=70&smart=true",
-      "publishedAt": "2024-10-06 16:00:00",
-      "content": "Oceania remains the last region yet to record a case of H5N1, which has killed nearly 300 million birds worldwide, including tens of thousands of endangered and endemic species. Scientists have been\u2026 [+3786 chars]",
-      "retrievedAt": "2024-10-08 07:06:33.254628",
-      "internal_id": "5461537a67c76376a7d1c1b0005341128e64d73f362306a24e3efdc3ab3eab6a",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 14402,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "la-nacion",
-      "source_name": "La Nacion",
-      "author": "Cintia Perazo",
-      "title": "Dengue: la nueva inteligencia artificial que usar\u00e1n en la provincia de Buenos Aires para intentar anticiparse a los brotes",
-      "description": "El programa, desarrollado por investigadores de la Unsam, ya se est\u00e1 probando y promete inferir cu\u00e1ntos mosquitos infectados habr\u00e1 en cada manzana del conurbano",
-      "url": "https://www.lanacion.com.ar/sociedad/dengue-la-nueva-inteligencia-artificial-que-usaran-en-la-provincia-de-buenos-aires-para-intentar-nid06102024/",
-      "urlToImage": "https://resizer.glanacion.com/resizer/v2/el-dengue-se-contagia-por-la-picadura-del-VYNUJTEDOFEQNNIQ4SPVPFIUCA.jpg?auth=241260c572bad34eade992656cf41cbdc3bf5b53ec8d7849f230ef7202a9c141&width=768&quality=70&smart=false",
-      "publishedAt": "2024-10-06 15:30:00",
-      "content": "Un equipo de investigadores de la Universidad Nacional de San Mart\u00edn (Unsam), liderado por Ezequiel \u00c1lvarez, est\u00e1 desarrollando un modelo de inteligencia artificial bayesiana que permitir\u00e1 anticipar \u2026 [+7718 chars]",
-      "retrievedAt": "2024-10-07 19:05:46.489307",
-      "internal_id": "199661668e62d7913ed09632ec701443735ed6c24b8bfd3dc7f6895c5f324940",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 14404,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "BBC News",
-      "author": "http://www.facebook.com/bbcnews",
-      "title": "\u0427\u043e\u043c\u0443 \u043c\u0456\u043d\u044f\u0442\u0438 \u043f\u043e\u0441\u0442\u0456\u043b\u044c\u043d\u0443 \u0431\u0456\u043b\u0438\u0437\u043d\u0443 \u0432\u0430\u0440\u0442\u043e \u0447\u0430\u0441\u0442\u0456\u0448\u0435",
-      "description": "\u041c\u0438 \u043f\u0440\u043e\u0432\u043e\u0434\u0438\u043c\u043e \u043d\u0430 \u043f\u0440\u043e\u0441\u0442\u0438\u0440\u0430\u0434\u043b\u0430\u0445 \u0456 \u043f\u043e\u0434\u0443\u0448\u043a\u0430\u0445 \u0442\u0440\u0435\u0442\u0438\u043d\u0443 \u0441\u0432\u043e\u0433\u043e \u0436\u0438\u0442\u0442\u044f \u0449\u043e\u0434\u043d\u044f, \u0456 \u0446\u0435\u0439 \u043a\u043e\u043d\u0442\u0430\u043a\u0442 \u0441\u0442\u0432\u043e\u0440\u044e\u0454 \u0456\u0434\u0435\u0430\u043b\u044c\u043d\u0435 \u0441\u0435\u0440\u0435\u0434\u043e\u0432\u0438\u0449\u0435 \u0434\u043b\u044f \u043a\u0443\u043f\u0438 \u043d\u0435\u0431\u0430\u0436\u0430\u043d\u0438\u0445 \u0433\u043e\u0441\u0442\u0435\u0439.",
-      "url": "https://www.bbc.com/ukrainian/articles/c17lxe84pk2o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_ukrainian/4a90/live/93eb8570-825d-11ef-a96a-4578729d5d06.jpg",
-      "publishedAt": "2024-10-06 12:57:11",
-      "content": "Article information , . , , . . , , , . - , , , . , . 500 , , , . , , . . 2013 , , . , , - S. aureus, , . \" , \", - , , . , Getty Images , , , , . 2018 , , , , . . 2022 , (mpox).\u2026 [+472 chars]",
-      "retrievedAt": "2024-10-07 19:05:48.100667",
-      "internal_id": "fac9e291a8c7df398968a765d17d6decda9bb0f861135150c7c7d0210073ff1c",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 14403,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "VOA News",
-      "author": "webdesk@voanews.com (Associated Press)",
-      "title": "Congo starts mpox vaccinations in effort to slow outbreaks",
-      "description": "GOMA, Congo \u2014 Congolese authorities on Saturday began vaccinations against mpox, nearly two months after the disease outbreak that spread from Congo to several African countries and beyond was declared a global emergency by the World Health Organization. Th\u2026",
-      "url": "https://www.voanews.com/a/congo-starts-mpox-vaccinations-in-effort-to-slow-outbreaks/7812086.html",
-      "urlToImage": "https://gdb.voanews.com/F2A047DA-F41F-406F-A699-3C87C334BCA6.jpg",
-      "publishedAt": "2024-10-06 07:11:34",
-      "content": "GOMA, Congo Congolese authorities on Saturday began vaccinations against mpox, nearly two months after the disease outbreak that spread from Congo to several African countries and beyond was declare\u2026 [+3282 chars]",
-      "retrievedAt": "2024-10-07 19:05:47.955180",
-      "internal_id": "fe487d05e9b2250a6d57ce4b443e1a3cd84340b29390439d476a26f8cd086a69",
       "publishedAtLabel": "Oct 6"
     }
   ]
