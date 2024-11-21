@@ -1,8 +1,458 @@
 {
-  "last_updated": "2024-11-20 19:05",
-  "count_articles_total": 1326,
-  "count_articles_new": 23,
+  "last_updated": "2024-11-21 07:06",
+  "count_articles_total": 1358,
+  "count_articles_new": 25,
   "articles": [
+    {
+      "id": 15759,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "National Institutes of Health",
+      "author": null,
+      "title": "Notice of Early Expiration of \"Notice of Special Interest (NOSI): Accelerating Malaria Vaccine Discovery\", NOT-AI-22-014",
+      "description": "NIH Funding Opportunities and Notices in the NIH Guide for Grants and Contracts: Notice of Early Expiration of",
+      "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-AI-24-086.html",
+      "urlToImage": null,
+      "publishedAt": "2024-11-20 06:34:31",
+      "content": "Notice of Early Expiration of \"Notice of Special Interest (NOSI): Accelerating Malaria Vaccine Discovery\", NOT-AI-22-014 November 20, 2024 December 2, 2021 - Notice of Special Interest (NOS\u2026 [+909 chars]",
+      "retrievedAt": "2024-11-21 07:06:56.871860",
+      "internal_id": "17f019e0811d25b82aaf1f4922ca60db4a8813027f27fa9a95fd43c3b67d8b56",
+      "publishedAtLabel": "Nov 20"
+    },
+    {
+      "id": 15770,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Lalibre.be",
+      "author": "Belga Belga",
+      "title": "L'OMS approuve un second vaccin contre le mpox: \"Une \u00e9tape importante...\"",
+      "description": "L'Organisation mondiale de la sant\u00e9 (OMS) a approuv\u00e9 mardi un vaccin contre le mpox fabriqu\u00e9 par la soci\u00e9t\u00e9 pharmaceutique japonaise KM Biologics pour un usage d'urgence, le deuxi\u00e8me \u00e0 obtenir l'approbation de l'agence. ...",
+      "url": "https://www.lalibre.be/planete/sante/2024/11/20/loms-approuve-un-second-vaccin-contre-le-mpox-une-etape-importante-MGDBFBSVMRC6JAD5XDOA55NAX4/",
+      "urlToImage": "https://www.lalibre.be/resizer/v2/PPXLCA5YYRHNVIPD3PST55GPGA.jpg?auth=365fe0268863153da3f702593557098f7b7c0ff1f80ad01a52e4a18531a90195&width=1200&height=630&quality=85&focal=2113%2C1408&watermark=https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Fipmgroup%2F3R4IDPARFVEO3L2LC5OCCXQ5RM.png%3A100%3A0%2C557",
+      "publishedAt": "2024-11-20 05:57:11",
+      "content": "Mpox: le nouveau variant se transmet surtout entre humains, montre une \u00e9tudeEn septembre, l'OMS avait d\u00e9j\u00e0 pr\u00e9qualifi\u00e9 un autre vaccin contre le mpox, le MVA-BN. Le 14 ao\u00fbt, l'agence sanitaire des N\u2026 [+550 chars]",
+      "retrievedAt": "2024-11-21 07:06:57.844643",
+      "internal_id": "2c6c93e1978e2b7f0f87182adbcb2f2d85374744a1e91c26e5712b09e8638453",
+      "publishedAtLabel": "Nov 20"
+    },
+    {
+      "id": 15764,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Mediafax.ro",
+      "author": "Iris Dutescu",
+      "title": "OMS aprob\u0103 al doilea vaccin \u00eempotriva mpox",
+      "description": "Organiza\u0163ia Mondial\u0103 a S\u0103n\u0103t\u0103\u0163ii (OMS) a aprobat mar\u0163i un nou vaccin \u00eempotriva mpox produs de compania farmaceutic\u0103 japonez\u0103 KM Biologics pentru utilizare \u00een situa\u0163ii de urgen\u0163\u0103.",
+      "url": "https://www.mediafax.ro/sanatate/oms-aproba-al-doilea-vaccin-impotriva-mpox-22565055",
+      "urlToImage": "https://storage0.dms.mpinteractiv.ro/media/1/1/38026/22565055/1/7783730-mediafax-foto-ap-alain-jocard.jpg?width=640",
+      "publishedAt": "2024-11-20 05:52:50",
+      "content": "OMS a acordat vaccinului LC16m8 autorizaia de utilizare \u00een caz de urgen, care, potrivit organizaiei, va facilita accesul sporit i rapid la vaccinuri \u00een comunitile \u00een care focarele de mpox sunt \u00een cre\u2026 [+955 chars]",
+      "retrievedAt": "2024-11-21 07:06:57.699337",
+      "internal_id": "c5b26b69079bfb47a038377334c71572fffe7e94d665c7ba4774ed5b95f7fbae",
+      "publishedAtLabel": "Nov 20"
+    },
+    {
+      "id": 15769,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "dh.be",
+      "author": "Belga Belga",
+      "title": "L'OMS approuve un second vaccin contre le mpox: \"Une \u00e9tape importante...\"",
+      "description": "L'Organisation mondiale de la sant\u00e9 (OMS) a approuv\u00e9 mardi un vaccin contre le mpox fabriqu\u00e9 par la soci\u00e9t\u00e9 pharmaceutique japonaise KM Biologics pour un usage d'urgence, le deuxi\u00e8me \u00e0 obtenir l'approbation de l'agence. ...",
+      "url": "https://www.dhnet.be/actu/sante/2024/11/20/loms-approuve-un-second-vaccin-contre-le-mpox-une-etape-importante-4IRV2HJEDFASTCYS3XTXPGKMFM/",
+      "urlToImage": "https://www.dhnet.be/resizer/v2/PPXLCA5YYRHNVIPD3PST55GPGA.jpg?auth=365fe0268863153da3f702593557098f7b7c0ff1f80ad01a52e4a18531a90195&width=1200&height=630&quality=85&focal=2113%2C1408&watermark=https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Fipmgroup%2FDZNGDE46VVGXRGHD3TEI5RB3GM.png%3A100%3A0%2C559",
+      "publishedAt": "2024-11-20 05:29:37",
+      "content": "Variole du singe devenue \"mpox\" : pourquoi l'OMS a fait \u00e9voluer le nom de la maladie ?En septembre, l'OMS avait d\u00e9j\u00e0 pr\u00e9qualifi\u00e9 un autre vaccin contre le mpox, le MVA-BN. Le 14 ao\u00fbt, l'agence sanit\u2026 [+560 chars]",
+      "retrievedAt": "2024-11-21 07:06:57.811728",
+      "internal_id": "c6c42f5b55f8093fe5af34f14d27a30ee19067c5c107d7438dc49f7d162a6c68",
+      "publishedAtLabel": "Nov 20"
+    },
+    {
+      "id": 15749,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Concurrent Rabies and Canine Distemper Outbreaks and Infection in Endangered Ethiopian Wolves",
+      "description": "Rabies and Canine Distemper Outbreaks in Wolves",
+      "url": "https://wwwnc.cdc.gov/eid/article/30/12/24-0432_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2024-11-20 05:00:00",
+      "content": "Disclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released.Infectious diseases are an\u2026 [+24899 chars]",
+      "retrievedAt": "2024-11-21 07:06:54.520069",
+      "internal_id": "0f90c8223e03dd89cf7568c45af3da0dc4a8d3905cc289534510cd4a39c0eb01",
+      "publishedAtLabel": "Nov 20"
+    },
+    {
+      "id": 15751,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Influenza A Virus Antibodies in Ducks and Introduction of Highly Pathogenic Influenza A(H5N1) Virus, Tennessee, USA",
+      "description": "Influenza A Virus Antibodies in Ducks",
+      "url": "https://wwwnc.cdc.gov/eid/article/30/12/24-1126_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2024-11-20 05:00:00",
+      "content": "Disclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released.Highly pathogenic (HP) inf\u2026 [+8509 chars]",
+      "retrievedAt": "2024-11-21 07:06:55.578687",
+      "internal_id": "390a1c77c4579b58f82eae9fc7191ff489625cda2c64b5c76ec94cabd2c4feb3",
+      "publishedAtLabel": "Nov 20"
+    },
+    {
+      "id": 15767,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Milenio",
+      "author": "AFP",
+      "title": "OMS aprueba una segunda vacuna contra mpox",
+      "description": "La Organizaci\u00f3n Mundial de la Salud (OMS) aprob\u00f3 el martes una vacuna contra la mpox de la farmac\u00e9utica japonesa KM Bilogics, la segunda en obtener la luz verde de la agencia de la ONU.La OMS explic\u00f3 que permitir\u00e1 el uso de emergencia del inmunizante LC16m8 p\u2026",
+      "url": "https://www.milenio.com/internacional/oms-aprueba-una-segunda-vacuna-contra-mpox",
+      "urlToImage": "https://cdn.milenio.com/uploads/media/2024/11/19/oms-permitira-emergencia-inmunizante-lc.jpg",
+      "publishedAt": "2024-11-20 02:04:00",
+      "content": "La Organizaci\u00f3n Mundial de la Salud (OMS) aprob\u00f3 el martes una vacuna contra la mpox de la farmac\u00e9utica japonesa KM Bilogics, la segunda en obtener la luz verde de la agencia de la ONU. La OMS expli\u2026 [+1800 chars]",
+      "retrievedAt": "2024-11-21 07:06:57.798500",
+      "internal_id": "c51ed53d570d371897030a02e9cb2d0a683bb9e21fd71d14dc536998cd064166",
+      "publishedAtLabel": "Nov 20"
+    },
+    {
+      "id": 15760,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Wnd.com",
+      "author": "Agence France-Presse",
+      "title": "\u2018Unprecedented\u2019: Urban mosquito sparks malaria surge, and it\u2019s immune to insecticide",
+      "description": "'The invasion and spread of Anopheles stephensi has the potential to change the malaria landscape in Africa and reverse decades of progress we've made towards malaria control'",
+      "url": "https://www.wnd.com/2024/11/unprecedented-urban-mosquito-sparks-malaria-surge-and-its-immune-to-insecticide/",
+      "urlToImage": "https://www.wnd.com/wp-content/uploads/2024/06/mosquito-mosquitoes-insects-sucking-blood-blue-jeans-disease-flesh-eating-bacteria-infection-pixabay.jpg",
+      "publishedAt": "2024-11-20 01:37:02",
+      "content": "(VOICE OF AMERICA) \u2014 NAIROBI, KENYA \u2014 The spread of a mosquito in East Africa that thrives in urban areas and is immune to insecticide is fueling a surge in malaria that could reverse decades of prog\u2026 [+398 chars]",
+      "retrievedAt": "2024-11-21 07:06:56.879005",
+      "internal_id": "a05af14f2210807eeb1336610fe621c3c21c1b71266c4a14eae8d1452eac35c9",
+      "publishedAtLabel": "Nov 20"
+    },
+    {
+      "id": 15758,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Taiwo Bankole",
+      "title": "Rising malaria prevalence in Ogun worrisome \u2013 Minister",
+      "description": "The Minister of Health, Prof Ali Pate, has expressed concern over the rising prevalence of malaria in Ogun State. He noted that while malaria prevalence was coming down nationally, it was rather spiking in Ogun State. Prof Pate, represented by a director from\u2026",
+      "url": "https://punchng.com/rising-malaria-prevalence-in-ogun-worrisome-minister/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2024/07/15202311/PATE.jpg",
+      "publishedAt": "2024-11-20 00:22:47",
+      "content": "The Minister of Health, Prof Ali Pate, has expressed concern over the rising prevalence of malaria in Ogun State. He noted that while malaria prevalence was coming down nationally, it was rather spi\u2026 [+2069 chars]",
+      "retrievedAt": "2024-11-21 07:06:56.838488",
+      "internal_id": "c14f93abbad31575758249f0f052597979dc257d3ee382085308626f1039818e",
+      "publishedAtLabel": "Nov 20"
+    },
+    {
+      "id": 15757,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Punch Editorial Board",
+      "title": "Upsurge in Lassa fever and meningitis morbidity",
+      "description": "NIGERIA is witnessing a surge in the number of Lassa fever and meningitis cases across certain states. According to the Nigeria Centre for Disease Control, Nigeria recorded 1,035 confirmed cases of Lassa fever out of 8,569 suspected cases, and 174 deaths in 2\u2026",
+      "url": "https://punchng.com/upsurge-in-lassa-fever-and-meningitis-morbidity/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2024/03/29191654/Lassa-fever.jpg",
+      "publishedAt": "2024-11-20 00:00:57",
+      "content": "NIGERIA is witnessing a surge in the number of Lassa fever and meningitis cases across certain states. According to the Nigeria Centre for Disease Control, Nigeria recorded 1,035 confirmed cases of L\u2026 [+3706 chars]",
+      "retrievedAt": "2024-11-21 07:06:56.345416",
+      "internal_id": "a9140536e92a7a1f41a34de0b42d63a1300ccc512b03eb05f2123056266faeb3",
+      "publishedAtLabel": "Nov 20"
+    },
+    {
+      "id": 15762,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Elifesciences.org",
+      "author": "laurent.chatel-chaix@inrs.ca (A\u00efssatou A\u00efcha Sow), laurent.chatel-chaix@inrs.ca (Ana\u00efs Anton), laurent.chatel-chaix@inrs.ca (Cheyanne L Bemis), laurent.chatel-chaix@inrs.ca (Christopher J Neufeldt), laurent.chatel-chaix@inrs.ca (Cl\u00e9ment Mazeaud), laurent.chatel-chaix@inrs.ca (Flavie Charbonneau), laurent.chatel-chaix@inrs.ca (Higor Sette Pereira), laurent.chatel-chaix@inrs.ca (Jonathan E Owen), laurent.chatel-chaix@inrs.ca (Laurent Chatel-Chaix), laurent.chatel-chaix@inrs.ca (Pietro Scaturro), laurent.chatel-chaix@inrs.ca (Stefan Pfister), laurent.chatel-chaix@inrs.ca (Trushar R Patel), laurent.chatel-chaix@inrs.ca (Zachary E Robinson)",
+      "title": "Zika virus remodels and hijacks IGF2BP2 ribonucleoprotein complex to promote viral replication organelle biogenesis",
+      "description": "Zika virus (ZIKV) infection causes significant human disease that, with no approved treatment or vaccine, constitutes a major public health concern. Its life cycle entirely relies on the cytoplasmic fate of the viral RNA genome (vRNA) through a fine-tuned equ\u2026",
+      "url": "https://elifesciences.org/articles/94347",
+      "urlToImage": "https://elifesciences.org/assets/images/social/icon-600x600@1.52e87ee6.png",
+      "publishedAt": "2024-11-20 00:00:00",
+      "content": "In this study, to identify new host factors that regulate viral processes involving the orthoflavivirus vRNA, we have assessed 10 RBPs which were previously reported to regulate the life cycle of HCV\u2026 [+12214 chars]",
+      "retrievedAt": "2024-11-21 07:06:57.022159",
+      "internal_id": "bd3bfdafb569220091a5cbae53e36efe2a93296cf41ef18b590225598a5ca340",
+      "publishedAtLabel": "Nov 20"
+    },
+    {
+      "id": 15763,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "CBS News",
+      "title": "Doctor on E. coli outbreaks, whooping cough, bird flu and mpox",
+      "description": "Cases of several dangerous bacterial infections and viruses have been growing around the U.S. CBS News medical contributor Dr. Celine Gounder answers questions about these health concerns. She also discusses President-elect Donald Trump's choice of Dr. Mehme\u2026",
+      "url": "https://www.cbsnews.com/video/doctor-e-coli-outbreaks-whooping-cough-bird-flu-mpox/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/11/19/ebde929a-95ed-4274-9065-beef78d844e1/thumbnail/1200x630/d8cfb0e4ddc99aa25932c8eb53e39f88/cbsn-fusion-doctor-e-coli-outbreaks-whooping-cough-bird-flu-mpox-thumbnail.jpg?v=6125856b135c6847bbc622c9704e0334",
+      "publishedAt": "2024-11-19 23:57:00",
+      "content": "Watch CBS News Copyright \u00a92024 CBS Interactive Inc. All rights reserved. Get browser notifications for breaking news, live events, and exclusive reporting. Not NowTurn On",
+      "retrievedAt": "2024-11-21 07:06:57.692356",
+      "internal_id": "42e9ed2f5432511ea27e7d298d8d5377c3a7bdd6a92dab44beb90938dfcc23a4",
+      "publishedAtLabel": "Nov 19"
+    },
+    {
+      "id": 15766,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "le-monde",
+      "source_name": "Le Monde",
+      "author": "Le Monde avec AFP",
+      "title": "Virus mpox : l\u2019OMS approuve un second vaccin, fabriqu\u00e9 par une soci\u00e9t\u00e9 pharmaceutique japonaise",
+      "description": "Cette autorisation d\u2019utilisation d\u2019urgence de l\u2019OMS permet \u00e0 tous les pays d\u2019approuver et d\u2019importer rapidement le vaccin LC16m8 en vue de sa distribution.",
+      "url": "https://www.lemonde.fr/sante/article/2024/11/20/virus-mpox-l-oms-approuve-un-second-vaccin-fabrique-par-une-societe-pharmaceutique-japonaise_6403895_1651302.html",
+      "urlToImage": "https://img.lemde.fr/2024/11/18/0/0/5500/3666/1440/960/60/0/3f92b11_2024-11-18t133411z-243379916-rc2p7balx2lb-rtrmadp-3-africa-mpox-nigeria.JPG",
+      "publishedAt": "2024-11-19 23:30:09",
+      "content": "Un responsable de la sant\u00e9 nig\u00e9rian administre un vaccin contre le mpox, au Centre m\u00e9dical f\u00e9d\u00e9ral dAbuja, au Nig\u00e9ria, le 18 novembre 2024. MARVELLOUS DUROWAIYE / REUTERS Un nouveau vaccin contre le\u2026 [+1691 chars]",
+      "retrievedAt": "2024-11-21 07:06:57.781709",
+      "internal_id": "88eb0b0366fbce7dfb0b89f0ddb8bf89b4124de3f5d7dd2862710e45e45e1e85",
+      "publishedAtLabel": "Nov 19"
+    },
+    {
+      "id": 15761,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "the-irish-times",
+      "source_name": "The Irish Times",
+      "author": "Airielle Lowe",
+      "title": "Trump names TV doctor Mehmet Oz as Medicare, Medicaid chief",
+      "description": "Oz was an informal health adviser to Trump during Covid-19, when he promoted the use of hydroxychloroquine, an anti-malaria drug that was not approved to treat the coronavirus",
+      "url": "https://www.irishtimes.com/world/us/2024/11/19/trump-names-tv-doctor-mehmet-oz-as-medicare-medicaid-chief/",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/4VL6AUBQLWOG2XEDMTYTX7W33M.jpg?smart=true&auth=6be7d2d83742564047d5dc50e7f886d7fa05fad9770460c61c724aa79e8e6956&width=1200&height=630",
+      "publishedAt": "2024-11-19 23:16:35",
+      "content": "President-elect Donald Trump is nominating celebrity doctor and television personality Mehmet Oz to lead the Centers for Medicare and Medicaid Services. America is facing a Healthcare Crisis, and th\u2026 [+1680 chars]",
+      "retrievedAt": "2024-11-21 07:06:56.886025",
+      "internal_id": "ff6b34752c53879aa5601c2b7c4f7983d2b1dd7c6bc9e734780d9ef8508af320",
+      "publishedAtLabel": "Nov 19"
+    },
+    {
+      "id": 15768,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": "Agence France-Presse",
+      "title": "WHO Approves Second Mpox Vaccine For Emergency Use",
+      "description": "The World Health Organization on Tuesday approved an mpox vaccine from Japanese pharma company KM Biologics for emergency use, the second one to get the agency&#039;s seal of approval.",
+      "url": "https://www.ndtv.com/world-news/who-approves-second-mpox-vaccine-for-emergency-use-7059431",
+      "urlToImage": "https://c.ndtvimg.com/2024-10/lf6louj8_mpox_625x300_22_October_24.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+      "publishedAt": "2024-11-19 22:07:06",
+      "content": "Geneva: The World Health Organization on Tuesday approved an mpox vaccine from Japanese pharma company KM Biologics for emergency use, the second one to get the agency's seal of approval. The WHO sa\u2026 [+2067 chars]",
+      "retrievedAt": "2024-11-21 07:06:57.805553",
+      "internal_id": "1531bf03523a6c5d99cffc920a4b84df6cbe910634af0aceb3fa9c3f75af4e9e",
+      "publishedAtLabel": "Nov 19"
+    },
+    {
+      "id": 15773,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "World Health Organization",
+      "author": "World Health Organization: WHO",
+      "title": "WHO adds LC16m8 mpox vaccine to Emergency Use Listing",
+      "description": "The World Health Organization (WHO) has granted Emergency Use Listing (EUL) for the LC16m8 mpox vaccine, making it the second mpox vaccine to be supported by WHO following\u2026",
+      "url": "https://www.who.int/news/item/19-11-2024-who-adds-lc16m8-mpox-vaccine-to-emergency-use-listing",
+      "urlToImage": "https://cdn.who.int/media/images/default-source/emergencies-and-disasters/2024---mpox-outbreak/mpox-drc-2024.tmb-1200v.jpg?sfvrsn=d60ea35b_1",
+      "publishedAt": "2024-11-19 22:06:45",
+      "content": "The World Health Organization (WHO) has granted Emergency Use Listing (EUL) for the LC16m8 mpox vaccine, making it the second mpox vaccine to be supported by WHO following the Director-General\u2019s decl\u2026 [+4401 chars]",
+      "retrievedAt": "2024-11-21 07:06:57.930799",
+      "internal_id": "3abe0dc5d2780909d6139979c088dc728f7910891d191b6956397eeb28e6668e",
+      "publishedAtLabel": "Nov 19"
+    },
+    {
+      "id": 15753,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": "Angelica Stabile",
+      "title": "Bird flu surges in several US states with reports of new outbreaks: 'Getting worse'",
+      "description": "Bird flu continues to spread across the U.S., with new infections in Hawaii and continued human outbreaks in California. Experts discuss the threat to humans and how to prevent infection.",
+      "url": "https://www.foxnews.com/health/bird-flu-surges-several-us-states-reports-new-outbreaks-getting-worse",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/11/istock-2149841969.jpg",
+      "publishedAt": "2024-11-19 21:49:03",
+      "content": "Avian influenza A (H5N1), commonly known as bird flu, continues to make its way through the U.S., as Hawaii joins the list of affected states. The Hawaiian Department of Agriculture (HDOA) reported \u2026 [+5595 chars]",
+      "retrievedAt": "2024-11-21 07:06:55.635370",
+      "internal_id": "20932c7773d920c85efb9ccd7166e8b8578515b45fb9b73e6df2bf0301e5ee9f",
+      "publishedAtLabel": "Nov 19"
+    },
+    {
+      "id": 15754,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Andrea Gomez",
+      "title": "Alerta en Puerto Rico por aumento de casos de dengue",
+      "description": "En un comunicado de prensa, el DSPR detall\u00f3 que \u201chasta la fecha, se han confirmado nueve defunciones y una m\u00e1s est\u00e1 bajo investigaci\u00f3n\u201d. The post Alerta en Puerto Rico por aumento de casos de dengue appeared first on CNN.",
+      "url": "https://cnnespanol.cnn.com/2024/11/19/alerta-puerto-rico-aumento-dengue-orix",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1783657-dengue.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-11-19 21:20:55",
+      "content": "(CNN Espa\u00f1ol) El Departamento de Salud de Puerto Rico (DSPR) inform\u00f3 el domingo que el n\u00famero de casos positivos de dengue confirmados en la isla en lo que va de 2024 es de 4.798, un aumento signific\u2026 [+2510 chars]",
+      "retrievedAt": "2024-11-21 07:06:56.028422",
+      "internal_id": "9b7c8c309f3de480fd395256c289b9608b49dfd4fa814af45d684c818e52e850",
+      "publishedAtLabel": "Nov 19"
+    },
+    {
+      "id": 15756,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": null,
+      "title": "Dengue: una provincia concentra m\u00e1s del 80% de los casos confirmados y los sospechosos llevan cinco semanas en alza",
+      "description": "El Ministerio de Salud actualiz\u00f3 hoy los datos nacionales; a diferencia de otros a\u00f1os, se empezaron a tener en cuenta las infecciones asociadas con la vacunaci\u00f3n",
+      "url": "https://www.lanacion.com.ar/sociedad/dengue-una-provincia-concentra-mas-del-80-de-los-casos-confirmados-y-los-sospechosos-llevan-cinco-nid19112024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/mosquitos-dengue-sociedad-conicet-mutacion-GIVGLGPAVZEFJGD7DZPCWKB3PE.jpg?auth=ca384a3964af1c1260dbb7054d338c84e389263e4ec9fb9d270af7aec2fea7fb&width=1200&quality=70&smart=false&height=803",
+      "publishedAt": "2024-11-19 20:37:03",
+      "content": "Al momento, en lo que va de esta nueva temporada de dengue, las notificaciones de casos sospechosos llevan cinco semanas en alza y el n\u00famero de personas que contrajeron la enfermedad por transmisi\u00f3n \u2026 [+2962 chars]",
+      "retrievedAt": "2024-11-21 07:06:56.095407",
+      "internal_id": "2a24427708e561d8e876ff1bf47afff40d0793c1cd2e6556d386e79081efa124",
+      "publishedAtLabel": "Nov 19"
+    },
+    {
+      "id": 15772,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "Mary Kekatos",
+      "title": "Here's what you need to know about mpox after CDC sent alert to doctors",
+      "description": "California recently reported the first U.S. case of a more severe form of mpox.",
+      "url": "https://abcnews.go.com/Health/cdc-alert-mpox-california-case/story?id=116004320",
+      "urlToImage": "https://i.abcnewsfe.com/a/e5d644d9-dac5-49cd-a9a1-f8005877e6c0/mpox-1-gty-er-241119_1732037918517_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2024-11-19 20:05:00",
+      "content": "Doctors are encouraging Americans not to panic about mpox even after a recent severe case was detected in California and federal health officials sent out a notice to physicians to be on the lookout \u2026 [+4837 chars]",
+      "retrievedAt": "2024-11-21 07:06:57.902467",
+      "internal_id": "b86eeca9dfaf98262cafa7271fbe2ee2f50ffa74f8ab5a46dc4c4095252d551e",
+      "publishedAtLabel": "Nov 19"
+    },
+    {
+      "id": 15771,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "KQED",
+      "author": "Carly Severn",
+      "title": "The First US Clade I Mpox Case Has Been Found in the Bay Area. Here\u2019s What to Know",
+      "description": "What to know about the new U.S. case of clade I mpox, how mpox spreads, what symptoms to be aware of and who should get an mpox vaccine.",
+      "url": "https://www.kqed.org/news/12014961/the-first-us-clade-i-mpox-case-has-been-found-in-the-bay-area-heres-what-to-know",
+      "urlToImage": "https://cdn.kqed.org/wp-content/uploads/sites/10/2024/11/GettyImages-1412757326_qed-1020x710.jpg",
+      "publishedAt": "2024-11-19 20:00:07",
+      "content": "What do we know about this first clade I mpox case in the U.S.? Not a great deal \u2014 because health officials don\u2019t want to release details that could identify this person. We know that the patient r\u2026 [+8611 chars]",
+      "retrievedAt": "2024-11-21 07:06:57.878254",
+      "internal_id": "56c0fbb81e5202c959cf222b3098025f4c7f6e5514c7cd5cf23c7120c9ee7b54",
+      "publishedAtLabel": "Nov 19"
+    },
+    {
+      "id": 15752,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Gazeta.pl",
+      "author": "Jagoda R\u00f3\u017cycka",
+      "title": "Wirus \"wysoce zjadliwej grypy\" wykryty na Dolnym \u015al\u0105sku. Wprowadzono restrykcje",
+      "description": "Na Dolnym \u015al\u0105sku wykryto u dzikich ptak\u00f3w wirusa grypy wysoce zjadliwej H5N1. Wojewoda dolno\u015bl\u0105ski wyda\u0142 specjalne rozporz\u0105dzenie, w kt\u00f3rym poinformowano o restrykcjach.",
+      "url": "https://wiadomosci.gazeta.pl/wiadomosci/7,114883,31477395,wirus-wysoce-zjadliwej-grypy-wykryty-na-dolnym-slasku-wprowadzono.html",
+      "urlToImage": "https://bi.im-g.pl/im/e3/04/1e/z31477475IER,Zdjecie-ilustracyjne.jpg",
+      "publishedAt": "2024-11-19 19:54:00",
+      "content": "Co si\u0119 dzieje: Wojewoda dolno\u015bl\u0105ski Maciej Awi\u017ce\u0144 wyda\u0142 specjalne rozporz\u0105dzenie w zwi\u0105zku z wyst\u0105pieniem wirusa grypy H5N1 u dzikich ptak\u00f3w na terenie wojew\u00f3dztwa. Chodzi o \u0142ab\u0119dzie nieme wyst\u0119puj\u0105c\u2026 [+1719 chars]",
+      "retrievedAt": "2024-11-21 07:06:55.606548",
+      "internal_id": "7657c9154b6c94744d332419d5be15f03bcf832e91f1cc41dcc0547c5473c835",
+      "publishedAtLabel": "Nov 19"
+    },
+    {
+      "id": 15750,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "The stunning success of vaccines in America, in one chart (Dylan Scott/Vox)",
+      "description": "Dylan Scott / Vox: The stunning success of vaccines in America, in one chart \u2014 Measles, mumps, and polio are supposed to be diseases of the past. In the early to mid-20th century, scientists developed vaccines that effectively eliminated the risk of anyone\u2026",
+      "url": "https://www.memeorandum.com/241119/p77",
+      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2024/11/GettyImages-80925411.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "publishedAt": "2024-11-19 19:45:01",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2024-11-21 07:06:54.893198",
+      "internal_id": "978e208d0a919987428e372a6f93fd96a66b8cc8db6973c04c32be4fbf063862",
+      "publishedAtLabel": "Nov 19"
+    },
+    {
+      "id": 15765,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Jess Thomson",
+      "title": "How Severe Is the Mpox Strain Confirmed in California?",
+      "description": "The \"risk of clade I mpox to the public in the United States remains low,\" the U.S. Centers for Disease Control and Prevention says.",
+      "url": "https://www.newsweek.com/mpox-california-clade-i-first-case-outbreak-1988435",
+      "urlToImage": "https://d.newsweek.com/en/full/2524901/california-mpox.jpg",
+      "publishedAt": "2024-11-19 19:33:44",
+      "content": "A reportedly deadlier strain of mpox has been recorded in the U.S. for the first time, the U.S. Centers for Disease Control and Prevention (CDC) has announced. This clade I mpox outbreak first arose\u2026 [+6087 chars]",
+      "retrievedAt": "2024-11-21 07:06:57.716759",
+      "internal_id": "46081b6303b0132cfba8047af5481324305020949d0d938f86aac7ab561b119a",
+      "publishedAtLabel": "Nov 19"
+    },
+    {
+      "id": 15755,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Nacion.com",
+      "author": "Irene Rodr\u00edguez",
+      "title": "CCSS confirma casos aut\u00f3ctonos de dengue en cant\u00f3n de Cartago",
+      "description": "CCSS detect\u00f3 pacientes que se contagiaron en cant\u00f3n Central de Cartago, lo que implica que virus y mosquito transmisor ya se adaptaron al clima, lo que facilita la transmisi\u00f3n",
+      "url": "https://www.nacion.com/el-pais/ccss-confirma-casos-autoctonos-de-dengue-en-canton/O3WZFXFBZZBGFJGJ4UGSU6GNAE/story/",
+      "urlToImage": "https://www.nacion.com/resizer/v2/MV6BSDKKAVCGPI4V2AQ22C6G3M.jpeg?smart=true&auth=8155e8882a80a3d6e5b48e555d8410d6c5d706b4db2314c3a167f39400a2c9a6&width=1440",
+      "publishedAt": "2024-11-19 19:05:57",
+      "content": "El virus del dengue y el mosquito transmisor se adaptaron al clima del cant\u00f3n Central de Cartago. Esta es la conclusi\u00f3n de la Caja Costarricense de Seguro Social (CCSS) al confirmar los primeros diez\u2026 [+4297 chars]",
+      "retrievedAt": "2024-11-21 07:06:56.088471",
+      "internal_id": "9fecaecf3932d5b0cc76d3047500dc17b8e241ca694ca8b7810b9356648ec7d5",
+      "publishedAtLabel": "Nov 19"
+    },
     {
       "id": 15731,
       "query": [
@@ -23928,6 +24378,132 @@
       "content": ", 7 . //. 35 . mpox ( ) , , 1 29 2024 . (). 35 525 mpox, 996 , . 23 29 4 098, - 156. mpox () - 30 766 990 . , 1 368 . . mpox 2022 11 2023 . , 14 . Mpox - , , . 1970 .",
       "retrievedAt": "2024-10-08 07:06:36.820755",
       "internal_id": "c8d41bd8a82c244700b16df93dce471063fff143fa71d152186b8512724ae634",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 14401,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Milenio",
+      "author": "Redacci\u00f3n",
+      "title": "QRoo avanza en la lucha contra el dengue: pasa del lugar 3 al 22 en casos nacionales",
+      "description": "Como resultado de la estrategia de lucha contra el dengue, Quintana Roo se encuentra en la posici\u00f3n n\u00famero 22 a nivel nacional por n\u00famero de casos, un logro hist\u00f3rico resultado de la estrategia, coordinaci\u00f3n e inversi\u00f3n.El gobierno de Mara Lezama Espinosa ha \u2026",
+      "url": "https://www.milenio.com/estados/quintana-roo-logra-reducir-casos-dengue",
+      "urlToImage": "https://cdn.milenio.com/uploads/media/2024/10/06/personal-salud-estrategia-combate-dengue.jpg",
+      "publishedAt": "2024-10-06 18:17:21",
+      "content": "Como resultado de la estrategia de lucha contra el dengue, Quintana Roo se encuentra en la posici\u00f3n n\u00famero 22a nivel nacional por n\u00famero de casos, un logro hist\u00f3rico resultado de la estrategia, coord\u2026 [+1233 chars]",
+      "retrievedAt": "2024-10-07 19:05:46.416575",
+      "internal_id": "fb8359d159b4770146ebb1fef0a0b941100a740e3096def2f8ea78203600662e",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 14441,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "BusinessLine",
+      "author": "G Naga Sridhar",
+      "title": "Putting cholera back in focus",
+      "description": "Cholera, a deadly diarrhoeal disease, is resurging globally, prompting calls for vaccination and improved public health measures.",
+      "url": "https://www.thehindubusinessline.com/specials/pulse/putting-cholera-back-in-focus/article68726024.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/miae01/article68726023.ece/alternates/LANDSCAPE_1200/2016-11-09T202739Z_932842931_S1AEULXCLNAA_RTRMADP_3_HAITI-CHOLERA.JPG",
+      "publishedAt": "2024-10-06 16:52:57",
+      "content": "In the rush to tackle emerging public health concerns like mpox and Covid-19, are diseases like cholera being overlooked? Rapid urbanisation, climate change, and conflicts are putting pressure on hea\u2026 [+3942 chars]",
+      "retrievedAt": "2024-10-09 07:07:06.985248",
+      "internal_id": "4dcf1791d2170865df6770b818e237aa6a0b1e38b356e6d79a9b97dff16a4ca3",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 14415,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "El Congo, foco del brote de viruela del mono, comienza la campa\u00f1a de vacunaci\u00f3n",
+      "description": "La mpox, que comenz\u00f3 a expandirse desde la vecina Kivu del Sur, est\u00e1 presente ya en 23 de las 26 provincias del pa\u00eds.",
+      "url": "https://www.montevideo.com.uy/Salud/El-Congo-foco-del-brote-de-viruela-del-mono-comienza-la-campana-de-vacunacion-uc902427",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202207/_W933_80/808770.jpg",
+      "publishedAt": "2024-10-06 16:15:00",
+      "content": "La Rep\u00fablica Democr\u00e1tica del Congo (RDC), foco del actual brote de viruela del mono (mpox), comenz\u00f3 este s\u00e1bado la campa\u00f1a de vacunaci\u00f3n contra la enfermedad en la provincia de Kivu del Norte, en \u2026 [+3683 chars]",
+      "retrievedAt": "2024-10-08 07:06:36.998521",
+      "internal_id": "a3a00c45095f9f7ae77bef5891de72e4eaad698431ee503d5d0cfb05251726c0",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 14406,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "New Zealand Herald",
+      "author": "Jamie Morton",
+      "title": "Scientists reveal first results of bird flu sampling; health plan shows how NZ would respond to human outbreak",
+      "description": "Sampling shows no sign of big-risk bird flu - but its NZ arrival is 'just matter of time'.",
+      "url": "https://www.nzherald.co.nz/nz/scientists-reveal-first-results-of-bird-flu-sampling-health-plan-shows-how-nz-would-respond-to-human-outbreak/ME7OORURMJHYDFCSVAHHBUIDRU/",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/I5QUGT3H4AQADPWY2BXDCBLOFM.jpg?auth=507e06d0b5d82b1a5d186e3e57ff45ad9a4fb846b921f13034617d776f4b61b1&width=1200&height=675&quality=70&smart=true",
+      "publishedAt": "2024-10-06 16:00:00",
+      "content": "Oceania remains the last region yet to record a case of H5N1, which has killed nearly 300 million birds worldwide, including tens of thousands of endangered and endemic species. Scientists have been\u2026 [+3786 chars]",
+      "retrievedAt": "2024-10-08 07:06:33.254628",
+      "internal_id": "5461537a67c76376a7d1c1b0005341128e64d73f362306a24e3efdc3ab3eab6a",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 14402,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "Cintia Perazo",
+      "title": "Dengue: la nueva inteligencia artificial que usar\u00e1n en la provincia de Buenos Aires para intentar anticiparse a los brotes",
+      "description": "El programa, desarrollado por investigadores de la Unsam, ya se est\u00e1 probando y promete inferir cu\u00e1ntos mosquitos infectados habr\u00e1 en cada manzana del conurbano",
+      "url": "https://www.lanacion.com.ar/sociedad/dengue-la-nueva-inteligencia-artificial-que-usaran-en-la-provincia-de-buenos-aires-para-intentar-nid06102024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/el-dengue-se-contagia-por-la-picadura-del-VYNUJTEDOFEQNNIQ4SPVPFIUCA.jpg?auth=241260c572bad34eade992656cf41cbdc3bf5b53ec8d7849f230ef7202a9c141&width=768&quality=70&smart=false",
+      "publishedAt": "2024-10-06 15:30:00",
+      "content": "Un equipo de investigadores de la Universidad Nacional de San Mart\u00edn (Unsam), liderado por Ezequiel \u00c1lvarez, est\u00e1 desarrollando un modelo de inteligencia artificial bayesiana que permitir\u00e1 anticipar \u2026 [+7718 chars]",
+      "retrievedAt": "2024-10-07 19:05:46.489307",
+      "internal_id": "199661668e62d7913ed09632ec701443735ed6c24b8bfd3dc7f6895c5f324940",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 14404,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": "http://www.facebook.com/bbcnews",
+      "title": "\u0427\u043e\u043c\u0443 \u043c\u0456\u043d\u044f\u0442\u0438 \u043f\u043e\u0441\u0442\u0456\u043b\u044c\u043d\u0443 \u0431\u0456\u043b\u0438\u0437\u043d\u0443 \u0432\u0430\u0440\u0442\u043e \u0447\u0430\u0441\u0442\u0456\u0448\u0435",
+      "description": "\u041c\u0438 \u043f\u0440\u043e\u0432\u043e\u0434\u0438\u043c\u043e \u043d\u0430 \u043f\u0440\u043e\u0441\u0442\u0438\u0440\u0430\u0434\u043b\u0430\u0445 \u0456 \u043f\u043e\u0434\u0443\u0448\u043a\u0430\u0445 \u0442\u0440\u0435\u0442\u0438\u043d\u0443 \u0441\u0432\u043e\u0433\u043e \u0436\u0438\u0442\u0442\u044f \u0449\u043e\u0434\u043d\u044f, \u0456 \u0446\u0435\u0439 \u043a\u043e\u043d\u0442\u0430\u043a\u0442 \u0441\u0442\u0432\u043e\u0440\u044e\u0454 \u0456\u0434\u0435\u0430\u043b\u044c\u043d\u0435 \u0441\u0435\u0440\u0435\u0434\u043e\u0432\u0438\u0449\u0435 \u0434\u043b\u044f \u043a\u0443\u043f\u0438 \u043d\u0435\u0431\u0430\u0436\u0430\u043d\u0438\u0445 \u0433\u043e\u0441\u0442\u0435\u0439.",
+      "url": "https://www.bbc.com/ukrainian/articles/c17lxe84pk2o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_ukrainian/4a90/live/93eb8570-825d-11ef-a96a-4578729d5d06.jpg",
+      "publishedAt": "2024-10-06 12:57:11",
+      "content": "Article information , . , , . . , , , . - , , , . , . 500 , , , . , , . . 2013 , , . , , - S. aureus, , . \" , \", - , , . , Getty Images , , , , . 2018 , , , , . . 2022 , (mpox).\u2026 [+472 chars]",
+      "retrievedAt": "2024-10-07 19:05:48.100667",
+      "internal_id": "fac9e291a8c7df398968a765d17d6decda9bb0f861135150c7c7d0210073ff1c",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 14403,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "VOA News",
+      "author": "webdesk@voanews.com (Associated Press)",
+      "title": "Congo starts mpox vaccinations in effort to slow outbreaks",
+      "description": "GOMA, Congo \u2014 Congolese authorities on Saturday began vaccinations against mpox, nearly two months after the disease outbreak that spread from Congo to several African countries and beyond was declared a global emergency by the World Health Organization. Th\u2026",
+      "url": "https://www.voanews.com/a/congo-starts-mpox-vaccinations-in-effort-to-slow-outbreaks/7812086.html",
+      "urlToImage": "https://gdb.voanews.com/F2A047DA-F41F-406F-A699-3C87C334BCA6.jpg",
+      "publishedAt": "2024-10-06 07:11:34",
+      "content": "GOMA, Congo Congolese authorities on Saturday began vaccinations against mpox, nearly two months after the disease outbreak that spread from Congo to several African countries and beyond was declare\u2026 [+3282 chars]",
+      "retrievedAt": "2024-10-07 19:05:47.955180",
+      "internal_id": "fe487d05e9b2250a6d57ce4b443e1a3cd84340b29390439d476a26f8cd086a69",
       "publishedAtLabel": "Oct 6"
     }
   ]
