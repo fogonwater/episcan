@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 10
-- **Last harvest:** 2024-11-22 07:06
-- **Most recent article:** 2024-11-21 05:13:00
+- **New articles in last harvest:** 17
+- **Last harvest:** 2024-11-22 19:06
+- **Most recent article:** 2024-11-21 19:04:24
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-41 | 24-42 | 24-43 | 24-44 | 24-45 | 24-46 | 24-47 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 40 | 81 | 131 | 75 | 63 | 62 | 56 | 508 |
-| dengue | 33 | 50 | 53 | 31 | 31 | 36 | 24 | 258 |
-| h5n1 | 9 | 18 | 12 | 61 | 36 | 40 | 34 | 210 |
-| malaria | 13 | 18 | 58 | 16 | 26 | 33 | 20 | 184 |
-| measles | 5 | 3 | 1 | 13 | 3 | 33 | 9 | 67 |
-| rabies | 6 | 7 | 3 | 10 | 5 | 11 | 4 | 46 |
+| mpox | 36 | 81 | 131 | 75 | 63 | 62 | 60 | 508 |
+| dengue | 31 | 50 | 53 | 31 | 31 | 36 | 26 | 258 |
+| h5n1 | 8 | 18 | 12 | 61 | 36 | 40 | 36 | 211 |
+| malaria | 13 | 18 | 58 | 16 | 26 | 33 | 22 | 186 |
+| measles | 5 | 3 | 1 | 13 | 3 | 33 | 11 | 69 |
+| rabies | 6 | 7 | 3 | 10 | 5 | 11 | 5 | 47 |
 | zika | 4 | 6 | 6 | 3 | 9 | 4 | 3 | 35 |
-| pertussis | 2 | 9 | 3 | 1 | 3 | 8 | 3 | 29 |
+| pertussis | 2 | 9 | 3 | 1 | 3 | 8 | 4 | 30 |
 | chikungunya | 3 | 4 | 7 | 2 | 2 | 3 | 4 | 25 |
+| hpai | 1 | 2 | 2 | 7 | 4 | 4 | 3 | 23 |
 | meningitis | 2 | 1 | 6 | 3 | 5 | 2 | 4 | 23 |
-| hpai | 1 | 2 | 2 | 7 | 4 | 4 | 2 | 22 |
 | leptospirosis | 1 | 1 | 0 | 3 | 10 | 3 | 0 | 18 |
-| typhoid | 0 | 1 | 3 | 4 | 1 | 1 | 0 | 10 |
+| typhoid | 0 | 1 | 3 | 4 | 1 | 1 | 2 | 12 |
 | shigellosis | 3 | 0 | 1 | 0 | 0 | 1 | 0 | 5 |
 | yersinia | 1 | 0 | 0 | 3 | 0 | 0 | 0 | 4 |
 
@@ -41,7 +41,15 @@ Source: [News API](https://newsapi.org/)
 
 - [Extrato de própolis mostra ação antiviral contra zika, chikungunya e mayaro](https://gizmodo.uol.com.br/extrato-de-propolis-mostra-acao-antiviral-contra-zika-chikungunya-e-mayaro/) (Uol.com.br)
 
+## 24-47 (typhoid)
+
+- [Trump: RFK Jr. would be a disaster. It could get even worse.](https://slate.com/_pages/cm3qctm2m0000lpkye5w6cw4v.html) (Slate Magazine)
+
+- [There Are Three Main Reasons You Are Alive Right Now. RFK Jr. Is Fighting Tooth and Nail Against One of Them.](https://slate.com/technology/2024/11/trump-rfk-jr-bird-flu-vaccines-raw-milk.html) (Slate Magazine)
+
 ## 24-47 (rabies)
+
+- [Rabid raccoon caught in Richmond on Saturday](https://richmond.com/news/local/crime-courts/rabid-raccoon-reported-richmond-and-henrico-health-districts-hawthorne-avenue-rabies/article_62964098-a826-11ef-8e11-9b6e8dcd0612.html) (Richmond.com)
 
 - [Ten people in North exposed to rabies-infected badger](https://www.jpost.com/israel-news/article-830081) (The Jerusalem Post)
 
@@ -53,6 +61,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-47 (pertussis)
 
+- [Nasal vaccine may cut whooping cough spread](https://www.futurity.org/nasal-vaccine-whooping-cough-3258062/) (Futurity: Research News)
+
 - [New nasal vaccine shows promise in curbing whooping cough spread](https://www.sciencedaily.com/releases/2024/11/241118170658.htm) (Science Daily)
 
 - [Whooping cough and pneumonia on the rise in Mass.](https://www.boston.com/news/health/2024/11/17/whooping-cough-and-pneumonia-on-the-rise-in-mass/) (Boston.com)
@@ -60,6 +70,14 @@ Source: [News API](https://newsapi.org/)
 - [What Does it Mean to Own the Next 4 Years?](https://sciencebasedmedicine.org/ownit2/) (Sciencebasedmedicine.org)
 
 ## 24-47 (mpox)
+
+- [Mpox: OMS aprova primeira vacina para uso emergencial em crianças](https://olhardigital.com.br/2024/11/21/medicina-e-saude/mpox-oms-aprova-primeira-vacina-para-uso-emergencial-em-criancas/) (Olhardigital.com.br)
+
+- [Mpox: OMS aprova primeira vacina para uso emergencial em crianças](https://www.infomoney.com.br/saude/mpox-oms-aprova-primeira-vacina-para-uso-emergencial-em-criancas/) (InfoMoney)
+
+- [OMS a aprobat un nou vaccin dezvoltat de japonezi împotriva variolei maimuței](https://adevarul.ro/stiri-interne/sanatate/oms-a-aprobat-un-nou-vaccin-dezvoltat-de-japonezi-2403281.html) (Adevarul.ro)
+
+- [ВОЗ одобрила первую вакцину от оспы обезьян для детей](https://nplus1.ru/news/2024/11/21/thank-japan) (Nplus1.ru)
 
 - [Ve Maymun çiçeği aşısı onaylandı!](https://www.haber7.com/dunya/haber/3480231-ve-maymun-cicegi-asisi-onaylandi) (Haber7.com)
 
@@ -185,6 +203,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-47 (measles)
 
+- [Deep neural networks for endemic measles dynamics: Comparative analysis and integration with mechanistic models](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012616) (Plos.org)
+
+- [Was RFK Jr. Responsible for 83 Deaths in Samoa?](https://dianeravitch.net/2024/11/21/was-rfk-jr-responsible-for-83-deaths-in-samoa/) (Dianeravitch.net)
+
 - [N.B. measles outbreak pushing Canada's case count to 5-year high](https://www.cbc.ca/news/canada/new-brunswick/measles-outbreak-new-brunswick-cases-vaccine-canada-1.7388431) (CBC News)
 
 - [Food Supply](https://gothamgal.com/2024/11/food-supply/) (Gothamgal.com)
@@ -204,6 +226,10 @@ Source: [News API](https://newsapi.org/)
 - [What Does it Mean to Own the Next 4 Years?](https://sciencebasedmedicine.org/ownit2/) (Sciencebasedmedicine.org)
 
 ## 24-47 (malaria)
+
+- [Dyadic Receives $3 Million Grant to Develop Cost-Effective Monoclonal Antibodies for RSV and Malaria Using C1 Platform Technology](https://www.globenewswire.com/news-release/2024/11/21/2985204/0/en/Dyadic-Receives-3-Million-Grant-to-Develop-Cost-Effective-Monoclonal-Antibodies-for-RSV-and-Malaria-Using-C1-Platform-Technology.html) (GlobeNewswire)
+
+- [Araştırma: Genetiği değiştirilmiş sivrisineklerin ısırığı daha etkili sıtma aşılarında kullanılabilir](https://www.aa.com.tr/tr/arastirma/arastirma-genetigi-degistirilmis-sivrisineklerin-isirigi-daha-etkili-sitma-asilarinda-kullanilabilir/3399968) (Anadolu Agency)
 
 - [Buone notizie da Dia, cattive da Tavares e Pedro: la Lazio fa la conta per la ripresa](https://www.tuttomercatoweb.com/i-fatti-del-giorno/buone-notizie-da-dia-cattive-da-tavares-e-pedro-la-lazio-fa-la-conta-per-la-ripresa-2037195) (Tuttomercatoweb.com)
 
@@ -247,11 +273,17 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-47 (hpai)
 
+- [CA Health Dept. Reports a Child Tested Positive for Highly Pathogenic Bird Flu Strain](https://legalinsurrection.com/2024/11/ca-health-dept-reports-a-child-tested-positive-for-highly-pathogenic-bird-flu-strain/) (Legalinsurrection.com)
+
 - [おっさん達「待望のドラクエ3リメイクきた！やりまくるぞ！！」 → モンスター以上の難敵〇〇で詰みまくるおっさん続出ｗｗｗｗｗ](http://jin115.com/archives/52412768.html) (Jin115.com)
 
 - [Human Bird Flu Case Found In Oregon](https://www.shtfplan.com/headline-news/human-bird-flu-case-found-in-oregon) (Shtfplan.com)
 
 ## 24-47 (h5n1)
+
+- [Canadá: vírus da gripe aviária sofreu mutações para infectar humanos](https://www.metropoles.com/saude/gripe-aviaria-mutacoes-para-humano) (Metropoles.com)
+
+- [Expert Council Q&A – Epi-3587](https://www.thesurvivalpodcast.com/experts-3587) (Thesurvivalpodcast.com)
 
 - [Influenza aviaria, scienziati in allarme per le mutazioni del virus nell’adolescente canadese. In Usa caso sospetto in un bimbo](https://www.ilfattoquotidiano.it/2024/11/20/influenza-aviaria-scienziati-in-allarme-per-le-mutazioni-del-virus-nelladolescente-canadese-in-usa-caso-sospetto-in-un-bimbo/7774427/) (Ilfattoquotidiano.it)
 
@@ -322,6 +354,10 @@ Source: [News API](https://newsapi.org/)
 - [TWiV 1167: Virus cloak and entry](https://www.microbe.tv/twiv/twiv-1167/) (Microbe.tv)
 
 ## 24-47 (dengue)
+
+- [Dengue: fake news ainda atrapalham, mas maioria acredita na vacina](https://www.metropoles.com/saude/estudo-sobre-confianca-em-vacinacao-dengue) (Metropoles.com)
+
+- [Dengue: un kit argentino](https://noticias.perfil.com/noticias/medicina/dengue-un-kit-argentino.phtml) (Perfil.com)
 
 - [Diagnostics for optimised dengue surveillance: a qualitative focus group study to investigate user experience and requirements in Thailand](https://bmjopen.bmj.com/content/14/11/e085946) (The BMJ)
 
@@ -2947,14 +2983,6 @@ Source: [News API](https://newsapi.org/)
 
 - [В Африке выявили более 35 тыс. случаев с подозрением на mpox с начала года](https://tass.ru/obschestvo/22056017) (Tass.ru)
 
-- [Putting cholera back in focus](https://www.thehindubusinessline.com/specials/pulse/putting-cholera-back-in-focus/article68726024.ece) (BusinessLine)
-
-- [El Congo, foco del brote de viruela del mono, comienza la campaña de vacunación](https://www.montevideo.com.uy/Salud/El-Congo-foco-del-brote-de-viruela-del-mono-comienza-la-campana-de-vacunacion-uc902427) (Montevideo.com.uy)
-
-- [Чому міняти постільну білизну варто частіше](https://www.bbc.com/ukrainian/articles/c17lxe84pk2o) (BBC News)
-
-- [Congo starts mpox vaccinations in effort to slow outbreaks](https://www.voanews.com/a/congo-starts-mpox-vaccinations-in-effort-to-slow-outbreaks/7812086.html) (VOA News)
-
 ## 24-41 (meningitis)
 
 - [Massachusetts pharmacist gets up to 15 years in prison for meningitis outbreak deaths](https://abcnews.go.com/US/wireStory/massachusetts-pharmacist-gets-15-years-prison-meningitis-outbreak-114734224) (ABC News)
@@ -3027,8 +3055,6 @@ Source: [News API](https://newsapi.org/)
 
 - [The US is ramping up bird flu surveillance – but will it be enough?](https://www.newscientist.com/article/2450743-the-us-is-ramping-up-bird-flu-surveillance-but-will-it-be-enough/) (New Scientist)
 
-- [Scientists reveal first results of bird flu sampling; health plan shows how NZ would respond to human outbreak](https://www.nzherald.co.nz/nz/scientists-reveal-first-results-of-bird-flu-sampling-health-plan-shows-how-nz-would-respond-to-human-outbreak/ME7OORURMJHYDFCSVAHHBUIDRU/) (New Zealand Herald)
-
 ## 24-41 (dengue)
 
 - [Prevenzione da Dengue a Pesaro, estesa la disinfestazione](https://www.ansa.it/marche/notizie/2024/10/12/prevenzione-da-dengue-a-pesaro-estesa-la-disinfestazione_6486dfc5-f7fe-42fa-94c1-7c1a874a7204.html) (ANSA.it)
@@ -3092,10 +3118,6 @@ Source: [News API](https://newsapi.org/)
 - [County health officials detect first case of dengue virus in Escondido](https://www.10news.com/news/local-news/north-county-news/county-health-officials-detect-first-case-of-dengue-virus-in-escondido) (10News)
 
 - [Implementan plan contra el dengue en Acapulco tras paso de 'John': ¿Cuándo inicia?](https://www.milenio.com/estados/plan-contra-el-dengue-en-acapulco-guerrero-tras-john) (Milenio)
-
-- [QRoo avanza en la lucha contra el dengue: pasa del lugar 3 al 22 en casos nacionales](https://www.milenio.com/estados/quintana-roo-logra-reducir-casos-dengue) (Milenio)
-
-- [Dengue: la nueva inteligencia artificial que usarán en la provincia de Buenos Aires para intentar anticiparse a los brotes](https://www.lanacion.com.ar/sociedad/dengue-la-nueva-inteligencia-artificial-que-usaran-en-la-provincia-de-buenos-aires-para-intentar-nid06102024/) (La Nacion)
 
 ## 24-41 (chikungunya)
 

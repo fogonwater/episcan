@@ -1,8 +1,314 @@
 {
-  "last_updated": "2024-11-22 07:06",
-  "count_articles_total": 1384,
-  "count_articles_new": 10,
+  "last_updated": "2024-11-22 19:06",
+  "count_articles_total": 1394,
+  "count_articles_new": 17,
   "articles": [
+    {
+      "id": 15806,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Bruno Bucis",
+      "title": "Canad\u00e1: v\u00edrus da gripe avi\u00e1ria sofreu muta\u00e7\u00f5es para infectar humanos",
+      "description": "An\u00e1lise do v\u00edrus da gripe avi\u00e1ria encontrado no corpo de jovem canadense mostrou adapta\u00e7\u00f5es para se espalhar mais facilmente em humanos",
+      "url": "https://www.metropoles.com/saude/gripe-aviaria-mutacoes-para-humano",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2023/10/11105218/galinha-clonada-dolly-gripe-aviaria-compressed.jpg",
+      "publishedAt": "2024-11-21 19:04:24",
+      "content": "O governo canadense revelou que o v\u00edrus H5N1, respons\u00e1vel pela interna\u00e7\u00e3o de um adolescente no pa\u00eds, tem uma s\u00e9rie de muta\u00e7\u00f5es para se adaptar melhor ao organismo humano. A infec\u00e7\u00e3o do jovem \u00e9 o pri\u2026 [+2926 chars]",
+      "retrievedAt": "2024-11-22 19:05:57.341478",
+      "internal_id": "91d80f6869559ab85b0808c77d362ed57ed6b2c34d0e61b6f1926ef459b02406",
+      "publishedAtLabel": "Nov 21"
+    },
+    {
+      "id": 15805,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Thesurvivalpodcast.com",
+      "author": "The Survival Podcast",
+      "title": "Expert Council Q&A \u2013 Epi-3587",
+      "description": "Today on The Survival Podcast the expert council answers your questions on endless wars, American made shotguns, Bitcoin, rabbits, H5N1 bird flu, holiday beverages, venison sausage and more. Make sure if you submit content for an expert council show you \u2026 Con\u2026",
+      "url": "https://www.thesurvivalpodcast.com/experts-3587",
+      "urlToImage": "https://www.thesurvivalpodcast.com/wp-content/uploads/2024/11/3587-thumb.jpeg",
+      "publishedAt": "2024-11-21 17:59:37",
+      "content": "Podcast: Play in new window | Download (Duration: 1:23:04 \u2014 23.8MB) Today on The Survival Podcast the expert council answers your questions on endless wars, American made shotguns, Bitcoin, rabbits,\u2026 [+1816 chars]",
+      "retrievedAt": "2024-11-22 19:05:57.316124",
+      "internal_id": "2641eaffa94f5d115056af90865b78c93b612c34c7eb771bc024828ad10eee51",
+      "publishedAtLabel": "Nov 21"
+    },
+    {
+      "id": 15807,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Beth\u00e2nia Nunes",
+      "title": "Dengue: fake news ainda atrapalham, mas maioria acredita na vacina",
+      "description": "Levantamento mostra que quatro em cada 10 brasileiros dizem ter recebido informa\u00e7\u00f5es falsas sobre vacinas nas redes sociais",
+      "url": "https://www.metropoles.com/saude/estudo-sobre-confianca-em-vacinacao-dengue",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/05/20173232/dengue-brasil.jpg",
+      "publishedAt": "2024-11-21 17:42:56",
+      "content": "O Brasil viveu a pior epidemia de dengue de sua hist\u00f3ria em 2024, com mais de 6,5 milh\u00f5es de casos prov\u00e1veis da doen\u00e7a e 5.832 mil mortes. A aproxima\u00e7\u00e3o do ver\u00e3o volta a preocupar os m\u00e9dicos devido \u00e0\u2026 [+4320 chars]",
+      "retrievedAt": "2024-11-22 19:05:57.848564",
+      "internal_id": "163f05921fb8e2ca7fa389c72ed6303b1d490dead7b49513b109582be6ccaeb3",
+      "publishedAtLabel": "Nov 21"
+    },
+    {
+      "id": 15801,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Richmond.com",
+      "author": "From staff reports",
+      "title": "Rabid raccoon caught in Richmond on Saturday",
+      "description": "A raccoon captured last weekend on Hawthorne Avenue in Richmond has tested positive for rabies.",
+      "url": "https://richmond.com/news/local/crime-courts/rabid-raccoon-reported-richmond-and-henrico-health-districts-hawthorne-avenue-rabies/article_62964098-a826-11ef-8e11-9b6e8dcd0612.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/6/29/62964098-a826-11ef-8e11-9b6e8dcd0612/673f64971e188.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2024-11-21 17:00:00",
+      "content": "A raccoon captured last weekend on Hawthorne Avenue in Richmond has tested positive for rabies. The Richmond and Henrico Health Districts said in a release that Richmond Animal Care and Control obse\u2026 [+2608 chars]",
+      "retrievedAt": "2024-11-22 19:05:56.176854",
+      "internal_id": "98a74a84b477fa2e28c49024ca46e2807abeebc0fcd1e32f29116d709202522a",
+      "publishedAtLabel": "Nov 21"
+    },
+    {
+      "id": 15816,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Slate Magazine",
+      "author": "Laura Helmuth",
+      "title": "Trump: RFK Jr. would be a disaster. It could get even worse.",
+      "description": "Trump: RFK Jr. would be a disaster. It could get even worse.slate.com",
+      "url": "https://slate.com/_pages/cm3qctm2m0000lpkye5w6cw4v.html",
+      "urlToImage": "https://compote.slate.com/images/d261c9f1-b8cc-4334-ace3-71176954e222.jpeg?crop=1425%2C950%2Cx0%2Cy0&width=1560",
+      "publishedAt": "2024-11-21 14:58:35",
+      "content": "There are three big reasons you are alive today. One: clean water. Congratulations! You and/or your ancestors didnt die of dysentery. You didnt die of cholera. You didnt die of typhoid fever. Two: \u2026 [+5633 chars]",
+      "retrievedAt": "2024-11-22 19:05:59.828501",
+      "internal_id": "3a095c8f2a9dad15d20182f9ebef06e24eb13fa8ccde498f03536fe8960d0a74",
+      "publishedAtLabel": "Nov 21"
+    },
+    {
+      "id": 15800,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Futurity: Research News",
+      "author": "Andrew Yawn-Tulane",
+      "title": "Nasal vaccine may cut whooping cough spread",
+      "description": "\"...we hope to improve on existing vaccines and limit the spread of whooping cough in communities.\"",
+      "url": "https://www.futurity.org/nasal-vaccine-whooping-cough-3258062/",
+      "urlToImage": "https://www.futurity.org/wp/wp-content/uploads/2024/11/nasal-vaccine-whooping-cough-1600.jpg",
+      "publishedAt": "2024-11-21 14:46:49",
+      "content": "As whooping cough cases rise in the US, a new nasal vaccine may hold the key to reducing the spread of the highly contagious respiratory disease. Current pertussis vaccines are widely used and effec\u2026 [+2509 chars]",
+      "retrievedAt": "2024-11-22 19:05:56.005752",
+      "internal_id": "2d07ac579d3eab9630a5ff3c92af1a0ca3fdd8eed77c48de4b3c7ed1b185a88c",
+      "publishedAtLabel": "Nov 21"
+    },
+    {
+      "id": 15811,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Alessandro Di Lorenzo",
+      "title": "Mpox: OMS aprova primeira vacina para uso emergencial em crian\u00e7as",
+      "description": "Segundo a OMS, a vacina \u00e9 vital para proteger crian\u00e7as menores de um ano de idade que vivem em locais onde h\u00e1 surtos do v\u00edrus O post Mpox: OMS aprova primeira vacina para uso emergencial em crian\u00e7as apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2024/11/21/medicina-e-saude/mpox-oms-aprova-primeira-vacina-para-uso-emergencial-em-criancas/",
+      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2024/08/vacina-mpox-1.jpg",
+      "publishedAt": "2024-11-21 14:35:31",
+      "content": "A mpox foi recentemente classificada como uma nova emerg\u00eancia global pela Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS). A decis\u00e3o foi tomada em fun\u00e7\u00e3o da r\u00e1pida propaga\u00e7\u00e3o da variante 1B do v\u00edrus, mais contagi\u2026 [+2205 chars]",
+      "retrievedAt": "2024-11-22 19:05:59.333056",
+      "internal_id": "d99f94387b74c9844e04c14f272082158b60984ecf1184ba61ea78cc818defd2",
+      "publishedAtLabel": "Nov 21"
+    },
+    {
+      "id": 15802,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Wyatt G. Madden, Wei Jin, Benjamin Lopman, Andreas Zufle, Benjamin Dalziel, C. Jessica E. Metcalf, Bryan T. Grenfell, Max S. Y. Lau",
+      "title": "Deep neural networks for endemic measles dynamics: Comparative analysis and integration with mechanistic models",
+      "description": "Author summary Mechanistic models have been foundational in developing an understanding of the transmission dynamics of infectious diseases including measles. In contrast to their mechanistic counterparts, machine learning techniques including neural networks\u2026",
+      "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012616",
+      "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1012616.g005&size=inline",
+      "publishedAt": "2024-11-21 14:00:00",
+      "content": "Abstract Measles is an important infectious disease system both for its burden on public health and as an opportunity for studying nonlinear spatio-temporal disease dynamics. Traditional mechanistic\u2026 [+46568 chars]",
+      "retrievedAt": "2024-11-22 19:05:56.601168",
+      "internal_id": "93fd76a7f8d48edf713fe1e0f3e94b6efaa7be609309fa321929b61b462d8c2a",
+      "publishedAtLabel": "Nov 21"
+    },
+    {
+      "id": 15803,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Dianeravitch.net",
+      "author": "dianeravitch",
+      "title": "Was RFK Jr. Responsible for 83 Deaths in Samoa?",
+      "description": "Robert F. Kennedy Jr. visited in Samoa in 2019. While there, he proselytized on the dangers of vaccines. After he left, the number of people getting vaccines declined. 83 people died of measles, many of them children. They were not vaccinated. RFK is not mere\u2026",
+      "url": "https://dianeravitch.net/2024/11/21/was-rfk-jr-responsible-for-83-deaths-in-samoa/",
+      "urlToImage": "https://dianeravitch.net/wp-content/uploads/2017/12/diane.jpg?w=200",
+      "publishedAt": "2024-11-21 14:00:00",
+      "content": "Robert F. Kennedy Jr. visited in Samoa in 2019. While there, he proselytized on the dangers of vaccines. After he left, the number of people getting vaccines declined. 83 people died of measles, many\u2026 [+2156 chars]",
+      "retrievedAt": "2024-11-22 19:05:56.613587",
+      "internal_id": "a64edd88b3694f319dd755b10849ac7f0127d2a9ec94f0771d4dca49c654aa20",
+      "publishedAtLabel": "Nov 21"
+    },
+    {
+      "id": 15810,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Dyadic International, Inc.",
+      "title": "Dyadic Receives $3 Million Grant to Develop Cost-Effective Monoclonal Antibodies for RSV and Malaria Using C1 Platform Technology",
+      "description": "Grant Received from the Bill & Melinda Gates Foundation to Fund Development of Affordable Therapeutics Grant Received from the Bill & Melinda Gates Foundation to Fund Development of Affordable Therapeutics",
+      "url": "https://www.globenewswire.com/news-release/2024/11/21/2985204/0/en/Dyadic-Receives-3-Million-Grant-to-Develop-Cost-Effective-Monoclonal-Antibodies-for-RSV-and-Malaria-Using-C1-Platform-Technology.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/7c9352a9-ab47-4933-a7d6-21f0c82a13eb",
+      "publishedAt": "2024-11-21 13:30:00",
+      "content": "JUPITER, Fla., Nov. 21, 2024 (GLOBE NEWSWIRE) -- Dyadic International, Inc. (NASDAQ: DYAI), a global biotechnology company, announced today that it has been awarded a $3 million grant from the Gates \u2026 [+5459 chars]",
+      "retrievedAt": "2024-11-22 19:05:58.596805",
+      "internal_id": "0c4385687f6f6bd7fc1155b38899f9992cf4404ae857659b39861c119e66ab11",
+      "publishedAtLabel": "Nov 21"
+    },
+    {
+      "id": 15804,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Legalinsurrection.com",
+      "author": "Leslie Eastman",
+      "title": "CA Health Dept. Reports a Child Tested Positive for Highly Pathogenic Bird Flu Strain",
+      "description": "Meanwhile, The New York Times is scare-reporting on the US response. The post CA Health Dept. Reports a Child Tested Positive for Highly Pathogenic Bird Flu Strain first appeared on Le\u00b7gal In\u00b7sur\u00b7rec\u00b7tion.",
+      "url": "https://legalinsurrection.com/2024/11/ca-health-dept-reports-a-child-tested-positive-for-highly-pathogenic-bird-flu-strain/",
+      "urlToImage": "https://legalinsurrection.com/wp-content/uploads/2024/11/LI-75-bird-flu-virus.png",
+      "publishedAt": "2024-11-21 12:00:06",
+      "content": "In our most recent reports on the \u201cbird flu,\u201d California now appears to be the new epicenter for Highly Pathogenic Avian Influenza (HPAI), as several of the states dairy workers at herds impacted by\u2026 [+3885 chars]",
+      "retrievedAt": "2024-11-22 19:05:56.823535",
+      "internal_id": "2b6afac0a8003a97244eee608e42329d65f71e6144d1d8d23ea3f14e5d9d60b1",
+      "publishedAtLabel": "Nov 21"
+    },
+    {
+      "id": 15814,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "info-money",
+      "source_name": "InfoMoney",
+      "author": "marialuizadourado",
+      "title": "Mpox: OMS aprova primeira vacina para uso emergencial em crian\u00e7as",
+      "description": "Foram notificados casos da doen\u00e7a em pelo menos 80 pa\u00edses em 2024 The post Mpox: OMS aprova primeira vacina para uso emergencial em crian\u00e7as appeared first on InfoMoney.",
+      "url": "https://www.infomoney.com.br/saude/mpox-oms-aprova-primeira-vacina-para-uso-emergencial-em-criancas/",
+      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2024/08/2024-08-22T131236Z_1_LYNXMPEK7L0HZ_RTROPTP_4_HEALTH-MPOX.jpg?quality=70",
+      "publishedAt": "2024-11-21 11:44:59",
+      "content": "A Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS) aprovou a inclus\u00e3o da vacina LC16m8 contra a mpox \u00e0 lista de insumos de uso emergencial. Este \u00e9 o segundo imunizante aprovado pela entidade para controle e preven\u2026 [+1297 chars]",
+      "retrievedAt": "2024-11-22 19:05:59.419970",
+      "internal_id": "82abbbd337a70b850d07840bcf5a04814649021b955c00eea404ecd15f0a04f7",
+      "publishedAtLabel": "Nov 21"
+    },
+    {
+      "id": 15812,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Adevarul.ro",
+      "author": "Iustina Rusu",
+      "title": "OMS a aprobat un nou vaccin dezvoltat de japonezi \u00eempotriva variolei maimu\u021bei",
+      "description": "Acesta este cel de-al doilea ser \u00eempotriva variolei maimu\u021bei care a ob\u0163inut o autorizare.",
+      "url": "https://adevarul.ro/stiri-interne/sanatate/oms-a-aprobat-un-nou-vaccin-dezvoltat-de-japonezi-2403281.html",
+      "urlToImage": "https://cdn.adh.reperio.news/image-8/8a3c2ac1-b898-424f-a61f-d121a4ba822b/index.jpeg?p=f%3Djpeg%26w%3D1200%26h%3D630%26r%3Dcover",
+      "publishedAt": "2024-11-21 11:16:12",
+      "content": "Organizaia Mondial a Sntii (OMS) a aprobat mari, 19 noiembrie, un vaccin \u00eempotriva mpox (variola maimuei) fabricat de compania farmaceutic japonez KM Biologics pentru utilizare \u00een regim de urgen. Ace\u2026 [+2188 chars]",
+      "retrievedAt": "2024-11-22 19:05:59.356916",
+      "internal_id": "2d09700678ebe740c4052bebe8700298b32deab8b026b06d01f9645e0e2f3258",
+      "publishedAtLabel": "Nov 21"
+    },
+    {
+      "id": 15809,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Anadolu Agency",
+      "author": null,
+      "title": "Ara\u015ft\u0131rma: Geneti\u011fi de\u011fi\u015ftirilmi\u015f sivrisineklerin \u0131s\u0131r\u0131\u011f\u0131 daha etkili s\u0131tma a\u015f\u0131lar\u0131nda kullan\u0131labilir",
+      "description": "Bilim insanlar\u0131, geneti\u011fi de\u011fi\u015ftirilmi\u015f \"malaria\" paraziti ta\u015f\u0131yan sivrisineklerin \u0131s\u0131r\u0131\u011f\u0131n\u0131n, insanlarda s\u0131tmaya kar\u015f\u0131 daha g\u00fc\u00e7l\u00fc ba\u011f\u0131\u015f\u0131kl\u0131k sa\u011flad\u0131\u011f\u0131 ve daha etkili bir a\u015f\u0131 y\u00f6nteminde kullan\u0131labilece\u011fini ortaya koydu. - Anadolu Ajans\u0131",
+      "url": "https://www.aa.com.tr/tr/arastirma/arastirma-genetigi-degistirilmis-sivrisineklerin-isirigi-daha-etkili-sitma-asilarinda-kullanilabilir/3399968",
+      "urlToImage": "https://cdnuploads.aa.com.tr/uploads/Contents/2024/11/21/thumbs_b_c_587b1521f4f6c160f5542a9dd0514a4e.jpg?v=134739",
+      "publishedAt": "2024-11-21 10:45:06",
+      "content": "Hollanda'daki Leiden \u00dcniversitesi ve Radboud \u00dcniversitesindeki Tp Merkezilerinde y\u00fcr\u00fct\u00fclen aratrmada, bilim insanlar, son birka\u00e7 ay i\u00e7erisinde stma ge\u00e7irmemi yetikinleri inceledi. Aratrmaya katlanla\u2026 [+973 chars]",
+      "retrievedAt": "2024-11-22 19:05:58.545048",
+      "internal_id": "2ffa0e0d46a752db30a6942b95a368198519411def709f00a1a6c4c0577c03ea",
+      "publishedAtLabel": "Nov 21"
+    },
+    {
+      "id": 15815,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Slate Magazine",
+      "author": "Laura Helmuth",
+      "title": "There Are Three Main Reasons You Are Alive Right Now. RFK Jr. Is Fighting Tooth and Nail Against One of Them.",
+      "description": "Things could get really bad.",
+      "url": "https://slate.com/technology/2024/11/trump-rfk-jr-bird-flu-vaccines-raw-milk.html",
+      "urlToImage": "https://compote.slate.com/images/d261c9f1-b8cc-4334-ace3-71176954e222.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+      "publishedAt": "2024-11-21 10:40:00",
+      "content": "There are three big reasons you are alive today. One: clean water. Congratulations! You and/or your ancestors didnt die of dysentery. You didnt die of cholera. You didnt die of typhoid fever. Two: \u2026 [+5614 chars]",
+      "retrievedAt": "2024-11-22 19:05:59.821405",
+      "internal_id": "eeb0b884d8f304976fa368e88fc5c0d2808ff39911f64c30dcee18c0741c5472",
+      "publishedAtLabel": "Nov 21"
+    },
+    {
+      "id": 15808,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Perfil.com",
+      "author": "Andrea Gentil",
+      "title": "Dengue: un kit argentino",
+      "description": "Desarrollado por cient\u00edficos del CONICET, permite detectar los 4 serotipos del virus. Leer m\u00e1s",
+      "url": "https://noticias.perfil.com/noticias/medicina/dengue-un-kit-argentino.phtml",
+      "urlToImage": "https://fotos.perfil.com/2024/11/20/trim/1280/720/equipo-kit-argentino-detectar-1914967.jpg",
+      "publishedAt": "2024-11-21 09:30:00",
+      "content": "El verano 2023/2024 estuvo marcado por el mayor brote de dengue del que la Argentina haya tenido registro: fueron confirmados 583.297 casos y se registraron 419 personas fallecidas. La enfermedad est\u2026 [+7928 chars]",
+      "retrievedAt": "2024-11-22 19:05:57.894422",
+      "internal_id": "9ea0ee7927151f208692025c7619a129b2791c4068b4792b28922045055536bb",
+      "publishedAtLabel": "Nov 21"
+    },
+    {
+      "id": 15813,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Nplus1.ru",
+      "author": "\u041e\u043b\u0435\u0433 \u041b\u0438\u0449\u0443\u043a",
+      "title": "\u0412\u041e\u0417 \u043e\u0434\u043e\u0431\u0440\u0438\u043b\u0430 \u043f\u0435\u0440\u0432\u0443\u044e \u0432\u0430\u043a\u0446\u0438\u043d\u0443 \u043e\u0442 \u043e\u0441\u043f\u044b \u043e\u0431\u0435\u0437\u044c\u044f\u043d \u0434\u043b\u044f \u0434\u0435\u0442\u0435\u0439",
+      "description": "\u0412\u041e\u0417 \u043e\u0434\u043e\u0431\u0440\u0438\u043b\u0430 \u043f\u0435\u0440\u0432\u0443\u044e \u0432\u0430\u043a\u0446\u0438\u043d\u0443 \u043e\u0442 \u043e\u0441\u043f\u044b \u043e\u0431\u0435\u0437\u044c\u044f\u043d \u0434\u043b\u044f \u0434\u0435\u0442\u0435\u0439",
+      "url": "https://nplus1.ru/news/2024/11/21/thank-japan",
+      "urlToImage": "https://minio.nplus1.ru/app-images/974021/673e612403dbf_cover_share.jpg",
+      "publishedAt": "2024-11-21 07:39:00",
+      "content": "() (, mpox ), , . LC16m8, KM Biologics. MVA-BN Bavarian-Nordic, 2024 . 3,05 LC16m8. , , , , (GHEC).",
+      "retrievedAt": "2024-11-22 19:05:59.413050",
+      "internal_id": "8018898dde57d7008ec937eb1e9d00c5ddc478ab3bbd9862b82cc2c4f590dfa8",
+      "publishedAtLabel": "Nov 21"
+    },
     {
       "id": 15798,
       "query": [
@@ -24847,132 +25153,6 @@
       "content": ", 7 . //. 35 . mpox ( ) , , 1 29 2024 . (). 35 525 mpox, 996 , . 23 29 4 098, - 156. mpox () - 30 766 990 . , 1 368 . . mpox 2022 11 2023 . , 14 . Mpox - , , . 1970 .",
       "retrievedAt": "2024-10-08 07:06:36.820755",
       "internal_id": "c8d41bd8a82c244700b16df93dce471063fff143fa71d152186b8512724ae634",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 14401,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Milenio",
-      "author": "Redacci\u00f3n",
-      "title": "QRoo avanza en la lucha contra el dengue: pasa del lugar 3 al 22 en casos nacionales",
-      "description": "Como resultado de la estrategia de lucha contra el dengue, Quintana Roo se encuentra en la posici\u00f3n n\u00famero 22 a nivel nacional por n\u00famero de casos, un logro hist\u00f3rico resultado de la estrategia, coordinaci\u00f3n e inversi\u00f3n.El gobierno de Mara Lezama Espinosa ha \u2026",
-      "url": "https://www.milenio.com/estados/quintana-roo-logra-reducir-casos-dengue",
-      "urlToImage": "https://cdn.milenio.com/uploads/media/2024/10/06/personal-salud-estrategia-combate-dengue.jpg",
-      "publishedAt": "2024-10-06 18:17:21",
-      "content": "Como resultado de la estrategia de lucha contra el dengue, Quintana Roo se encuentra en la posici\u00f3n n\u00famero 22a nivel nacional por n\u00famero de casos, un logro hist\u00f3rico resultado de la estrategia, coord\u2026 [+1233 chars]",
-      "retrievedAt": "2024-10-07 19:05:46.416575",
-      "internal_id": "fb8359d159b4770146ebb1fef0a0b941100a740e3096def2f8ea78203600662e",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 14441,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "BusinessLine",
-      "author": "G Naga Sridhar",
-      "title": "Putting cholera back in focus",
-      "description": "Cholera, a deadly diarrhoeal disease, is resurging globally, prompting calls for vaccination and improved public health measures.",
-      "url": "https://www.thehindubusinessline.com/specials/pulse/putting-cholera-back-in-focus/article68726024.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/miae01/article68726023.ece/alternates/LANDSCAPE_1200/2016-11-09T202739Z_932842931_S1AEULXCLNAA_RTRMADP_3_HAITI-CHOLERA.JPG",
-      "publishedAt": "2024-10-06 16:52:57",
-      "content": "In the rush to tackle emerging public health concerns like mpox and Covid-19, are diseases like cholera being overlooked? Rapid urbanisation, climate change, and conflicts are putting pressure on hea\u2026 [+3942 chars]",
-      "retrievedAt": "2024-10-09 07:07:06.985248",
-      "internal_id": "4dcf1791d2170865df6770b818e237aa6a0b1e38b356e6d79a9b97dff16a4ca3",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 14415,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Montevideo.com.uy",
-      "author": "Montevideo Portal",
-      "title": "El Congo, foco del brote de viruela del mono, comienza la campa\u00f1a de vacunaci\u00f3n",
-      "description": "La mpox, que comenz\u00f3 a expandirse desde la vecina Kivu del Sur, est\u00e1 presente ya en 23 de las 26 provincias del pa\u00eds.",
-      "url": "https://www.montevideo.com.uy/Salud/El-Congo-foco-del-brote-de-viruela-del-mono-comienza-la-campana-de-vacunacion-uc902427",
-      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202207/_W933_80/808770.jpg",
-      "publishedAt": "2024-10-06 16:15:00",
-      "content": "La Rep\u00fablica Democr\u00e1tica del Congo (RDC), foco del actual brote de viruela del mono (mpox), comenz\u00f3 este s\u00e1bado la campa\u00f1a de vacunaci\u00f3n contra la enfermedad en la provincia de Kivu del Norte, en \u2026 [+3683 chars]",
-      "retrievedAt": "2024-10-08 07:06:36.998521",
-      "internal_id": "a3a00c45095f9f7ae77bef5891de72e4eaad698431ee503d5d0cfb05251726c0",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 14406,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "New Zealand Herald",
-      "author": "Jamie Morton",
-      "title": "Scientists reveal first results of bird flu sampling; health plan shows how NZ would respond to human outbreak",
-      "description": "Sampling shows no sign of big-risk bird flu - but its NZ arrival is 'just matter of time'.",
-      "url": "https://www.nzherald.co.nz/nz/scientists-reveal-first-results-of-bird-flu-sampling-health-plan-shows-how-nz-would-respond-to-human-outbreak/ME7OORURMJHYDFCSVAHHBUIDRU/",
-      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/I5QUGT3H4AQADPWY2BXDCBLOFM.jpg?auth=507e06d0b5d82b1a5d186e3e57ff45ad9a4fb846b921f13034617d776f4b61b1&width=1200&height=675&quality=70&smart=true",
-      "publishedAt": "2024-10-06 16:00:00",
-      "content": "Oceania remains the last region yet to record a case of H5N1, which has killed nearly 300 million birds worldwide, including tens of thousands of endangered and endemic species. Scientists have been\u2026 [+3786 chars]",
-      "retrievedAt": "2024-10-08 07:06:33.254628",
-      "internal_id": "5461537a67c76376a7d1c1b0005341128e64d73f362306a24e3efdc3ab3eab6a",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 14402,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "la-nacion",
-      "source_name": "La Nacion",
-      "author": "Cintia Perazo",
-      "title": "Dengue: la nueva inteligencia artificial que usar\u00e1n en la provincia de Buenos Aires para intentar anticiparse a los brotes",
-      "description": "El programa, desarrollado por investigadores de la Unsam, ya se est\u00e1 probando y promete inferir cu\u00e1ntos mosquitos infectados habr\u00e1 en cada manzana del conurbano",
-      "url": "https://www.lanacion.com.ar/sociedad/dengue-la-nueva-inteligencia-artificial-que-usaran-en-la-provincia-de-buenos-aires-para-intentar-nid06102024/",
-      "urlToImage": "https://resizer.glanacion.com/resizer/v2/el-dengue-se-contagia-por-la-picadura-del-VYNUJTEDOFEQNNIQ4SPVPFIUCA.jpg?auth=241260c572bad34eade992656cf41cbdc3bf5b53ec8d7849f230ef7202a9c141&width=768&quality=70&smart=false",
-      "publishedAt": "2024-10-06 15:30:00",
-      "content": "Un equipo de investigadores de la Universidad Nacional de San Mart\u00edn (Unsam), liderado por Ezequiel \u00c1lvarez, est\u00e1 desarrollando un modelo de inteligencia artificial bayesiana que permitir\u00e1 anticipar \u2026 [+7718 chars]",
-      "retrievedAt": "2024-10-07 19:05:46.489307",
-      "internal_id": "199661668e62d7913ed09632ec701443735ed6c24b8bfd3dc7f6895c5f324940",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 14404,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "BBC News",
-      "author": "http://www.facebook.com/bbcnews",
-      "title": "\u0427\u043e\u043c\u0443 \u043c\u0456\u043d\u044f\u0442\u0438 \u043f\u043e\u0441\u0442\u0456\u043b\u044c\u043d\u0443 \u0431\u0456\u043b\u0438\u0437\u043d\u0443 \u0432\u0430\u0440\u0442\u043e \u0447\u0430\u0441\u0442\u0456\u0448\u0435",
-      "description": "\u041c\u0438 \u043f\u0440\u043e\u0432\u043e\u0434\u0438\u043c\u043e \u043d\u0430 \u043f\u0440\u043e\u0441\u0442\u0438\u0440\u0430\u0434\u043b\u0430\u0445 \u0456 \u043f\u043e\u0434\u0443\u0448\u043a\u0430\u0445 \u0442\u0440\u0435\u0442\u0438\u043d\u0443 \u0441\u0432\u043e\u0433\u043e \u0436\u0438\u0442\u0442\u044f \u0449\u043e\u0434\u043d\u044f, \u0456 \u0446\u0435\u0439 \u043a\u043e\u043d\u0442\u0430\u043a\u0442 \u0441\u0442\u0432\u043e\u0440\u044e\u0454 \u0456\u0434\u0435\u0430\u043b\u044c\u043d\u0435 \u0441\u0435\u0440\u0435\u0434\u043e\u0432\u0438\u0449\u0435 \u0434\u043b\u044f \u043a\u0443\u043f\u0438 \u043d\u0435\u0431\u0430\u0436\u0430\u043d\u0438\u0445 \u0433\u043e\u0441\u0442\u0435\u0439.",
-      "url": "https://www.bbc.com/ukrainian/articles/c17lxe84pk2o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_ukrainian/4a90/live/93eb8570-825d-11ef-a96a-4578729d5d06.jpg",
-      "publishedAt": "2024-10-06 12:57:11",
-      "content": "Article information , . , , . . , , , . - , , , . , . 500 , , , . , , . . 2013 , , . , , - S. aureus, , . \" , \", - , , . , Getty Images , , , , . 2018 , , , , . . 2022 , (mpox).\u2026 [+472 chars]",
-      "retrievedAt": "2024-10-07 19:05:48.100667",
-      "internal_id": "fac9e291a8c7df398968a765d17d6decda9bb0f861135150c7c7d0210073ff1c",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 14403,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "VOA News",
-      "author": "webdesk@voanews.com (Associated Press)",
-      "title": "Congo starts mpox vaccinations in effort to slow outbreaks",
-      "description": "GOMA, Congo \u2014 Congolese authorities on Saturday began vaccinations against mpox, nearly two months after the disease outbreak that spread from Congo to several African countries and beyond was declared a global emergency by the World Health Organization. Th\u2026",
-      "url": "https://www.voanews.com/a/congo-starts-mpox-vaccinations-in-effort-to-slow-outbreaks/7812086.html",
-      "urlToImage": "https://gdb.voanews.com/F2A047DA-F41F-406F-A699-3C87C334BCA6.jpg",
-      "publishedAt": "2024-10-06 07:11:34",
-      "content": "GOMA, Congo Congolese authorities on Saturday began vaccinations against mpox, nearly two months after the disease outbreak that spread from Congo to several African countries and beyond was declare\u2026 [+3282 chars]",
-      "retrievedAt": "2024-10-07 19:05:47.955180",
-      "internal_id": "fe487d05e9b2250a6d57ce4b443e1a3cd84340b29390439d476a26f8cd086a69",
       "publishedAtLabel": "Oct 6"
     }
   ]
