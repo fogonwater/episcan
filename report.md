@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 16
-- **Last harvest:** 2024-11-21 19:06
-- **Most recent article:** 2024-11-20 17:58:00
+- **New articles in last harvest:** 10
+- **Last harvest:** 2024-11-22 07:06
+- **Most recent article:** 2024-11-21 05:13:00
 
 ---
 
@@ -12,12 +12,12 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-41 | 24-42 | 24-43 | 24-44 | 24-45 | 24-46 | 24-47 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 36 | 81 | 131 | 75 | 63 | 62 | 51 | 499 |
-| dengue | 31 | 50 | 53 | 31 | 31 | 36 | 22 | 254 |
-| h5n1 | 8 | 18 | 12 | 61 | 36 | 40 | 34 | 209 |
-| malaria | 13 | 18 | 58 | 16 | 26 | 33 | 19 | 183 |
-| measles | 5 | 3 | 1 | 13 | 3 | 33 | 8 | 66 |
-| rabies | 6 | 7 | 3 | 10 | 5 | 11 | 3 | 45 |
+| mpox | 40 | 81 | 131 | 75 | 63 | 62 | 56 | 508 |
+| dengue | 33 | 50 | 53 | 31 | 31 | 36 | 24 | 258 |
+| h5n1 | 9 | 18 | 12 | 61 | 36 | 40 | 34 | 210 |
+| malaria | 13 | 18 | 58 | 16 | 26 | 33 | 20 | 184 |
+| measles | 5 | 3 | 1 | 13 | 3 | 33 | 9 | 67 |
+| rabies | 6 | 7 | 3 | 10 | 5 | 11 | 4 | 46 |
 | zika | 4 | 6 | 6 | 3 | 9 | 4 | 3 | 35 |
 | pertussis | 2 | 9 | 3 | 1 | 3 | 8 | 3 | 29 |
 | chikungunya | 3 | 4 | 7 | 2 | 2 | 3 | 4 | 25 |
@@ -43,6 +43,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-47 (rabies)
 
+- [Ten people in North exposed to rabies-infected badger](https://www.jpost.com/israel-news/article-830081) (The Jerusalem Post)
+
 - [Concurrent Rabies and Canine Distemper Outbreaks and Infection in Endangered Ethiopian Wolves](https://wwwnc.cdc.gov/eid/article/30/12/24-0432_article) (Cdc.gov)
 
 - [Seven rabies deaths recorded in Sarawak this year](https://www.thestar.com.my/news/nation/2024/11/19/seven-rabies-deaths-recorded-in-sarawak-this-year) (The Star Online)
@@ -58,6 +60,16 @@ Source: [News API](https://newsapi.org/)
 - [What Does it Mean to Own the Next 4 Years?](https://sciencebasedmedicine.org/ownit2/) (Sciencebasedmedicine.org)
 
 ## 24-47 (mpox)
+
+- [Ve Maymun çiçeği aşısı onaylandı!](https://www.haber7.com/dunya/haber/3480231-ve-maymun-cicegi-asisi-onaylandi) (Haber7.com)
+
+- [Red Cross warns as Mpox cases hit 108](https://punchng.com/red-cross-warns-as-mpox-cases-hit-108/) (The Punch)
+
+- [Maymun çiçeği aşısı onaylandı](https://www.haberturk.com/maymun-cicegi-asisi-onaylandi-3739653) (Haberturk.com)
+
+- [DSÖ'den M çiçeği için Japon aşısına acil onay](https://www.patronlardunyasi.com/dsoden-m-cicegi-icin-japon-asisina-acil-onay) (Patronlardunyasi.com)
+
+- [DSÖ, M çiçeği virüsüne karşı "LC16m8 aşısını" onayladı](https://www.aa.com.tr/tr/saglik/dso-m-cicegi-virusune-karsi-lc16m8-asisini-onayladi/3399452) (Anadolu Agency)
 
 - [UN authorizes first mpox vaccine for children in an attempt to control Congo outbreak](https://abcnews.go.com/Health/wireStory/authorizes-1st-mpox-vaccine-children-attempt-control-outbreak-116041849) (ABC News)
 
@@ -173,6 +185,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-47 (measles)
 
+- [N.B. measles outbreak pushing Canada's case count to 5-year high](https://www.cbc.ca/news/canada/new-brunswick/measles-outbreak-new-brunswick-cases-vaccine-canada-1.7388431) (CBC News)
+
 - [Food Supply](https://gothamgal.com/2024/11/food-supply/) (Gothamgal.com)
 
 - [The stunning success of vaccines in America, in one chart (Dylan Scott/Vox)](https://www.memeorandum.com/241119/p77) (Memeorandum.com)
@@ -190,6 +204,8 @@ Source: [News API](https://newsapi.org/)
 - [What Does it Mean to Own the Next 4 Years?](https://sciencebasedmedicine.org/ownit2/) (Sciencebasedmedicine.org)
 
 ## 24-47 (malaria)
+
+- [Buone notizie da Dia, cattive da Tavares e Pedro: la Lazio fa la conta per la ripresa](https://www.tuttomercatoweb.com/i-fatti-del-giorno/buone-notizie-da-dia-cattive-da-tavares-e-pedro-la-lazio-fa-la-conta-per-la-ripresa-2037195) (Tuttomercatoweb.com)
 
 - [Notice of Special Interest (NOSI): Accelerating Malaria Vaccine and Monoclonal Antibody Discovery](https://grants.nih.gov/grants/guide/notice-files/NOT-AI-24-072.html) (National Institutes of Health)
 
@@ -306,6 +322,10 @@ Source: [News API](https://newsapi.org/)
 - [TWiV 1167: Virus cloak and entry](https://www.microbe.tv/twiv/twiv-1167/) (Microbe.tv)
 
 ## 24-47 (dengue)
+
+- [Diagnostics for optimised dengue surveillance: a qualitative focus group study to investigate user experience and requirements in Thailand](https://bmjopen.bmj.com/content/14/11/e085946) (The BMJ)
+
+- [Total de mortes sobe para sete após um ano de dengue em Cabo Verde](https://observador.pt/2024/11/20/total-de-mortes-sobe-para-sete-apos-um-ano-de-dengue-em-cabo-verde/) (Observador.pt)
 
 - [Faro e Lisboa sob risco acrescido de transmissão da dengue](https://expresso.pt/sociedade/saude/2024-11-20-faro-e-lisboa-sob-risco-acrescido-de-transmissao-da-dengue-6778468c) (Expresso.pt)
 
@@ -2927,6 +2947,14 @@ Source: [News API](https://newsapi.org/)
 
 - [В Африке выявили более 35 тыс. случаев с подозрением на mpox с начала года](https://tass.ru/obschestvo/22056017) (Tass.ru)
 
+- [Putting cholera back in focus](https://www.thehindubusinessline.com/specials/pulse/putting-cholera-back-in-focus/article68726024.ece) (BusinessLine)
+
+- [El Congo, foco del brote de viruela del mono, comienza la campaña de vacunación](https://www.montevideo.com.uy/Salud/El-Congo-foco-del-brote-de-viruela-del-mono-comienza-la-campana-de-vacunacion-uc902427) (Montevideo.com.uy)
+
+- [Чому міняти постільну білизну варто частіше](https://www.bbc.com/ukrainian/articles/c17lxe84pk2o) (BBC News)
+
+- [Congo starts mpox vaccinations in effort to slow outbreaks](https://www.voanews.com/a/congo-starts-mpox-vaccinations-in-effort-to-slow-outbreaks/7812086.html) (VOA News)
+
 ## 24-41 (meningitis)
 
 - [Massachusetts pharmacist gets up to 15 years in prison for meningitis outbreak deaths](https://abcnews.go.com/US/wireStory/massachusetts-pharmacist-gets-15-years-prison-meningitis-outbreak-114734224) (ABC News)
@@ -2999,6 +3027,8 @@ Source: [News API](https://newsapi.org/)
 
 - [The US is ramping up bird flu surveillance – but will it be enough?](https://www.newscientist.com/article/2450743-the-us-is-ramping-up-bird-flu-surveillance-but-will-it-be-enough/) (New Scientist)
 
+- [Scientists reveal first results of bird flu sampling; health plan shows how NZ would respond to human outbreak](https://www.nzherald.co.nz/nz/scientists-reveal-first-results-of-bird-flu-sampling-health-plan-shows-how-nz-would-respond-to-human-outbreak/ME7OORURMJHYDFCSVAHHBUIDRU/) (New Zealand Herald)
+
 ## 24-41 (dengue)
 
 - [Prevenzione da Dengue a Pesaro, estesa la disinfestazione](https://www.ansa.it/marche/notizie/2024/10/12/prevenzione-da-dengue-a-pesaro-estesa-la-disinfestazione_6486dfc5-f7fe-42fa-94c1-7c1a874a7204.html) (ANSA.it)
@@ -3062,6 +3092,10 @@ Source: [News API](https://newsapi.org/)
 - [County health officials detect first case of dengue virus in Escondido](https://www.10news.com/news/local-news/north-county-news/county-health-officials-detect-first-case-of-dengue-virus-in-escondido) (10News)
 
 - [Implementan plan contra el dengue en Acapulco tras paso de 'John': ¿Cuándo inicia?](https://www.milenio.com/estados/plan-contra-el-dengue-en-acapulco-guerrero-tras-john) (Milenio)
+
+- [QRoo avanza en la lucha contra el dengue: pasa del lugar 3 al 22 en casos nacionales](https://www.milenio.com/estados/quintana-roo-logra-reducir-casos-dengue) (Milenio)
+
+- [Dengue: la nueva inteligencia artificial que usarán en la provincia de Buenos Aires para intentar anticiparse a los brotes](https://www.lanacion.com.ar/sociedad/dengue-la-nueva-inteligencia-artificial-que-usaran-en-la-provincia-de-buenos-aires-para-intentar-nid06102024/) (La Nacion)
 
 ## 24-41 (chikungunya)
 
