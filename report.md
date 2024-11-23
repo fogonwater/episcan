@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 4
-- **Last harvest:** 2024-11-23 07:06
-- **Most recent article:** 2024-11-22 06:18:53
+- **New articles in last harvest:** 7
+- **Last harvest:** 2024-11-23 19:06
+- **Most recent article:** 2024-11-22 16:04:27
 
 ---
 
@@ -12,10 +12,10 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-41 | 24-42 | 24-43 | 24-44 | 24-45 | 24-46 | 24-47 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 40 | 81 | 131 | 75 | 63 | 62 | 60 | 512 |
-| dengue | 33 | 50 | 53 | 31 | 31 | 36 | 26 | 260 |
-| h5n1 | 9 | 18 | 12 | 61 | 36 | 40 | 37 | 213 |
-| malaria | 13 | 18 | 58 | 16 | 26 | 33 | 24 | 188 |
+| mpox | 36 | 81 | 131 | 75 | 63 | 62 | 62 | 510 |
+| dengue | 31 | 50 | 53 | 31 | 31 | 36 | 27 | 259 |
+| h5n1 | 8 | 18 | 12 | 61 | 36 | 40 | 38 | 213 |
+| malaria | 13 | 18 | 58 | 16 | 26 | 33 | 26 | 190 |
 | measles | 5 | 3 | 1 | 13 | 3 | 33 | 11 | 69 |
 | rabies | 6 | 7 | 3 | 10 | 5 | 11 | 5 | 47 |
 | zika | 4 | 6 | 6 | 3 | 9 | 4 | 3 | 35 |
@@ -25,8 +25,8 @@ By US epiweek (i.e. Sunday to Saturday)
 | meningitis | 2 | 1 | 6 | 3 | 5 | 2 | 5 | 24 |
 | leptospirosis | 1 | 1 | 0 | 3 | 10 | 3 | 0 | 18 |
 | typhoid | 0 | 1 | 3 | 4 | 1 | 1 | 2 | 12 |
+| yersinia | 1 | 0 | 0 | 3 | 0 | 0 | 1 | 5 |
 | shigellosis | 3 | 0 | 1 | 0 | 0 | 1 | 0 | 5 |
-| yersinia | 1 | 0 | 0 | 3 | 0 | 0 | 0 | 4 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -40,6 +40,10 @@ Source: [News API](https://newsapi.org/)
 - [Assessing the ecological patterns of Aedes aegypti in areas with high arboviral risks in the large city of Abidjan, Côte d’Ivoire](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012647) (Plos.org)
 
 - [Extrato de própolis mostra ação antiviral contra zika, chikungunya e mayaro](https://gizmodo.uol.com.br/extrato-de-propolis-mostra-acao-antiviral-contra-zika-chikungunya-e-mayaro/) (Uol.com.br)
+
+## 24-47 (yersinia)
+
+- [Singapore recalls French cheese after potential contamination with gastroenteritis-causing bacteria](https://www.channelnewsasia.com/singapore/cheese-france-recalled-potential-contamination-gastroenteritis-causing-bacteria-4765431) (CNA)
 
 ## 24-47 (typhoid)
 
@@ -70,6 +74,10 @@ Source: [News API](https://newsapi.org/)
 - [What Does it Mean to Own the Next 4 Years?](https://sciencebasedmedicine.org/ownit2/) (Sciencebasedmedicine.org)
 
 ## 24-47 (mpox)
+
+- [BBC visits mpox clinic as WHO says DR Congo cases 'plateauing'](https://www.bbc.com/news/articles/cqxw1l05l1ro) (BBC News)
+
+- [OMS aprova 1ª vacina contra mpox para crianças](https://dinheirama.com/oms-aprova-1a-vacina-contra-mpox-para-criancas/) (Dinheirama.com)
 
 - [Mpox: OMS aprova primeira vacina para uso emergencial em crianças](https://olhardigital.com.br/2024/11/21/medicina-e-saude/mpox-oms-aprova-primeira-vacina-para-uso-emergencial-em-criancas/) (Olhardigital.com.br)
 
@@ -229,6 +237,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-47 (malaria)
 
+- [Accertamento morte celebrale per 40enne che ha contratto malaria](https://www.ansa.it/sardegna/notizie/2024/11/22/accertamento-morte-celebrale-per-40enne-che-ha-contratto-malaria_fc3e7e6d-cc76-49f1-9dc3-4650672d88d0.html) (ANSA.it)
+
+- [Caso di malaria, 40enne ricoverato in gravi condizioni a Olbia](https://www.ansa.it/sardegna/notizie/2024/11/22/caso-di-malaria-40enne-ricoverato-in-gravi-condizioni-a-olbia_3eebd7f2-289a-4f2f-91fd-a3f5c0a0cd71.html) (ANSA.it)
+
 - [Vaccines have successfully been delivered via mosquito bite](https://newatlas.com/infectious-diseases/mosquito-bite-vaccine-malaria/) (New Atlas)
 
 - [Kokrajhar sees alarming spike in malaria cases](https://thehillstimes.in/assam/kokrajhar-sees-alarming-spike-in-malaria-cases) (Thehillstimes.in)
@@ -288,6 +300,8 @@ Source: [News API](https://newsapi.org/)
 - [Human Bird Flu Case Found In Oregon](https://www.shtfplan.com/headline-news/human-bird-flu-case-found-in-oregon) (Shtfplan.com)
 
 ## 24-47 (h5n1)
+
+- [World on the brink of a disastrous bird flu outbreak: Highly pathogenic H5N1 virus may lead to another pandemic, is more transmissible to humans](https://economictimes.indiatimes.com/news/international/us/world-on-the-brink-of-a-disastrous-bird-flu-outbreak-highly-pathogenic-h5n1-virus-may-lead-to-another-pandemic-is-more-transmissible-to-humans/articleshow/115568778.cms) (The Times of India)
 
 - [Advanced H5N1 Kit To Help In Early, Rapid Detection Of Bird Flu](https://www.ndtv.com/world-news/advanced-h5n1-kit-to-help-in-early-rapid-detection-of-bird-flu-7077187) (NDTV News)
 
@@ -364,6 +378,8 @@ Source: [News API](https://newsapi.org/)
 - [TWiV 1167: Virus cloak and entry](https://www.microbe.tv/twiv/twiv-1167/) (Microbe.tv)
 
 ## 24-47 (dengue)
+
+- [EXCLUSIVE | 'IPL ka sabse tez bowler... ': Umran Malik breaks silence](https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/exclusive-ipl-ka-sabse-tez-bowler-umran-malik-breaks-silence-on-time-with-srh/articleshow/115569826.cms) (The Times of India)
 
 - [Dengue: fake news ainda atrapalham, mas maioria acredita na vacina](https://www.metropoles.com/saude/estudo-sobre-confianca-em-vacinacao-dengue) (Metropoles.com)
 
@@ -2993,14 +3009,6 @@ Source: [News API](https://newsapi.org/)
 
 - [В Африке выявили более 35 тыс. случаев с подозрением на mpox с начала года](https://tass.ru/obschestvo/22056017) (Tass.ru)
 
-- [Putting cholera back in focus](https://www.thehindubusinessline.com/specials/pulse/putting-cholera-back-in-focus/article68726024.ece) (BusinessLine)
-
-- [El Congo, foco del brote de viruela del mono, comienza la campaña de vacunación](https://www.montevideo.com.uy/Salud/El-Congo-foco-del-brote-de-viruela-del-mono-comienza-la-campana-de-vacunacion-uc902427) (Montevideo.com.uy)
-
-- [Чому міняти постільну білизну варто частіше](https://www.bbc.com/ukrainian/articles/c17lxe84pk2o) (BBC News)
-
-- [Congo starts mpox vaccinations in effort to slow outbreaks](https://www.voanews.com/a/congo-starts-mpox-vaccinations-in-effort-to-slow-outbreaks/7812086.html) (VOA News)
-
 ## 24-41 (meningitis)
 
 - [Massachusetts pharmacist gets up to 15 years in prison for meningitis outbreak deaths](https://abcnews.go.com/US/wireStory/massachusetts-pharmacist-gets-15-years-prison-meningitis-outbreak-114734224) (ABC News)
@@ -3073,8 +3081,6 @@ Source: [News API](https://newsapi.org/)
 
 - [The US is ramping up bird flu surveillance – but will it be enough?](https://www.newscientist.com/article/2450743-the-us-is-ramping-up-bird-flu-surveillance-but-will-it-be-enough/) (New Scientist)
 
-- [Scientists reveal first results of bird flu sampling; health plan shows how NZ would respond to human outbreak](https://www.nzherald.co.nz/nz/scientists-reveal-first-results-of-bird-flu-sampling-health-plan-shows-how-nz-would-respond-to-human-outbreak/ME7OORURMJHYDFCSVAHHBUIDRU/) (New Zealand Herald)
-
 ## 24-41 (dengue)
 
 - [Prevenzione da Dengue a Pesaro, estesa la disinfestazione](https://www.ansa.it/marche/notizie/2024/10/12/prevenzione-da-dengue-a-pesaro-estesa-la-disinfestazione_6486dfc5-f7fe-42fa-94c1-7c1a874a7204.html) (ANSA.it)
@@ -3138,10 +3144,6 @@ Source: [News API](https://newsapi.org/)
 - [County health officials detect first case of dengue virus in Escondido](https://www.10news.com/news/local-news/north-county-news/county-health-officials-detect-first-case-of-dengue-virus-in-escondido) (10News)
 
 - [Implementan plan contra el dengue en Acapulco tras paso de 'John': ¿Cuándo inicia?](https://www.milenio.com/estados/plan-contra-el-dengue-en-acapulco-guerrero-tras-john) (Milenio)
-
-- [QRoo avanza en la lucha contra el dengue: pasa del lugar 3 al 22 en casos nacionales](https://www.milenio.com/estados/quintana-roo-logra-reducir-casos-dengue) (Milenio)
-
-- [Dengue: la nueva inteligencia artificial que usarán en la provincia de Buenos Aires para intentar anticiparse a los brotes](https://www.lanacion.com.ar/sociedad/dengue-la-nueva-inteligencia-artificial-que-usaran-en-la-provincia-de-buenos-aires-para-intentar-nid06102024/) (La Nacion)
 
 ## 24-41 (chikungunya)
 
