@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 17
-- **Last harvest:** 2024-11-22 19:06
-- **Most recent article:** 2024-11-21 19:04:24
+- **New articles in last harvest:** 4
+- **Last harvest:** 2024-11-23 07:06
+- **Most recent article:** 2024-11-22 06:18:53
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-41 | 24-42 | 24-43 | 24-44 | 24-45 | 24-46 | 24-47 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 36 | 81 | 131 | 75 | 63 | 62 | 60 | 508 |
-| dengue | 31 | 50 | 53 | 31 | 31 | 36 | 26 | 258 |
-| h5n1 | 8 | 18 | 12 | 61 | 36 | 40 | 36 | 211 |
-| malaria | 13 | 18 | 58 | 16 | 26 | 33 | 22 | 186 |
+| mpox | 40 | 81 | 131 | 75 | 63 | 62 | 60 | 512 |
+| dengue | 33 | 50 | 53 | 31 | 31 | 36 | 26 | 260 |
+| h5n1 | 9 | 18 | 12 | 61 | 36 | 40 | 37 | 213 |
+| malaria | 13 | 18 | 58 | 16 | 26 | 33 | 24 | 188 |
 | measles | 5 | 3 | 1 | 13 | 3 | 33 | 11 | 69 |
 | rabies | 6 | 7 | 3 | 10 | 5 | 11 | 5 | 47 |
 | zika | 4 | 6 | 6 | 3 | 9 | 4 | 3 | 35 |
 | pertussis | 2 | 9 | 3 | 1 | 3 | 8 | 4 | 30 |
 | chikungunya | 3 | 4 | 7 | 2 | 2 | 3 | 4 | 25 |
-| hpai | 1 | 2 | 2 | 7 | 4 | 4 | 3 | 23 |
-| meningitis | 2 | 1 | 6 | 3 | 5 | 2 | 4 | 23 |
+| hpai | 1 | 2 | 2 | 7 | 4 | 4 | 4 | 24 |
+| meningitis | 2 | 1 | 6 | 3 | 5 | 2 | 5 | 24 |
 | leptospirosis | 1 | 1 | 0 | 3 | 10 | 3 | 0 | 18 |
 | typhoid | 0 | 1 | 3 | 4 | 1 | 1 | 2 | 12 |
 | shigellosis | 3 | 0 | 1 | 0 | 0 | 1 | 0 | 5 |
@@ -193,6 +193,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-47 (meningitis)
 
+- [Secretaría de Salud clausura clínicas particulares en Tabasco tras brote de meningitis](https://www.milenio.com/estados/salud-clausura-clinicas-particulares-en-tabasco-por-brote-meningitis) (Milenio)
+
 - [Upsurge in Lassa fever and meningitis morbidity](https://punchng.com/upsurge-in-lassa-fever-and-meningitis-morbidity/) (The Punch)
 
 - [La enfermedad que rodea el cerebro aún sin erradicar con un índice de mortalidad del 37% en mayores de 60 años](https://www.huffingtonpost.es/sociedad/la-enfermedad-rodea-cerebroun-eraddicar-indice-mortalidad-37-mayores-60nos-hpe1.html) (Huffingtonpost.es)
@@ -226,6 +228,10 @@ Source: [News API](https://newsapi.org/)
 - [What Does it Mean to Own the Next 4 Years?](https://sciencebasedmedicine.org/ownit2/) (Sciencebasedmedicine.org)
 
 ## 24-47 (malaria)
+
+- [Vaccines have successfully been delivered via mosquito bite](https://newatlas.com/infectious-diseases/mosquito-bite-vaccine-malaria/) (New Atlas)
+
+- [Kokrajhar sees alarming spike in malaria cases](https://thehillstimes.in/assam/kokrajhar-sees-alarming-spike-in-malaria-cases) (Thehillstimes.in)
 
 - [Dyadic Receives $3 Million Grant to Develop Cost-Effective Monoclonal Antibodies for RSV and Malaria Using C1 Platform Technology](https://www.globenewswire.com/news-release/2024/11/21/2985204/0/en/Dyadic-Receives-3-Million-Grant-to-Develop-Cost-Effective-Monoclonal-Antibodies-for-RSV-and-Malaria-Using-C1-Platform-Technology.html) (GlobeNewswire)
 
@@ -273,6 +279,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-47 (hpai)
 
+- [Advanced H5N1 Kit To Help In Early, Rapid Detection Of Bird Flu](https://www.ndtv.com/world-news/advanced-h5n1-kit-to-help-in-early-rapid-detection-of-bird-flu-7077187) (NDTV News)
+
 - [CA Health Dept. Reports a Child Tested Positive for Highly Pathogenic Bird Flu Strain](https://legalinsurrection.com/2024/11/ca-health-dept-reports-a-child-tested-positive-for-highly-pathogenic-bird-flu-strain/) (Legalinsurrection.com)
 
 - [おっさん達「待望のドラクエ3リメイクきた！やりまくるぞ！！」 → モンスター以上の難敵〇〇で詰みまくるおっさん続出ｗｗｗｗｗ](http://jin115.com/archives/52412768.html) (Jin115.com)
@@ -280,6 +288,8 @@ Source: [News API](https://newsapi.org/)
 - [Human Bird Flu Case Found In Oregon](https://www.shtfplan.com/headline-news/human-bird-flu-case-found-in-oregon) (Shtfplan.com)
 
 ## 24-47 (h5n1)
+
+- [Advanced H5N1 Kit To Help In Early, Rapid Detection Of Bird Flu](https://www.ndtv.com/world-news/advanced-h5n1-kit-to-help-in-early-rapid-detection-of-bird-flu-7077187) (NDTV News)
 
 - [Canadá: vírus da gripe aviária sofreu mutações para infectar humanos](https://www.metropoles.com/saude/gripe-aviaria-mutacoes-para-humano) (Metropoles.com)
 
@@ -2983,6 +2993,14 @@ Source: [News API](https://newsapi.org/)
 
 - [В Африке выявили более 35 тыс. случаев с подозрением на mpox с начала года](https://tass.ru/obschestvo/22056017) (Tass.ru)
 
+- [Putting cholera back in focus](https://www.thehindubusinessline.com/specials/pulse/putting-cholera-back-in-focus/article68726024.ece) (BusinessLine)
+
+- [El Congo, foco del brote de viruela del mono, comienza la campaña de vacunación](https://www.montevideo.com.uy/Salud/El-Congo-foco-del-brote-de-viruela-del-mono-comienza-la-campana-de-vacunacion-uc902427) (Montevideo.com.uy)
+
+- [Чому міняти постільну білизну варто частіше](https://www.bbc.com/ukrainian/articles/c17lxe84pk2o) (BBC News)
+
+- [Congo starts mpox vaccinations in effort to slow outbreaks](https://www.voanews.com/a/congo-starts-mpox-vaccinations-in-effort-to-slow-outbreaks/7812086.html) (VOA News)
+
 ## 24-41 (meningitis)
 
 - [Massachusetts pharmacist gets up to 15 years in prison for meningitis outbreak deaths](https://abcnews.go.com/US/wireStory/massachusetts-pharmacist-gets-15-years-prison-meningitis-outbreak-114734224) (ABC News)
@@ -3055,6 +3073,8 @@ Source: [News API](https://newsapi.org/)
 
 - [The US is ramping up bird flu surveillance – but will it be enough?](https://www.newscientist.com/article/2450743-the-us-is-ramping-up-bird-flu-surveillance-but-will-it-be-enough/) (New Scientist)
 
+- [Scientists reveal first results of bird flu sampling; health plan shows how NZ would respond to human outbreak](https://www.nzherald.co.nz/nz/scientists-reveal-first-results-of-bird-flu-sampling-health-plan-shows-how-nz-would-respond-to-human-outbreak/ME7OORURMJHYDFCSVAHHBUIDRU/) (New Zealand Herald)
+
 ## 24-41 (dengue)
 
 - [Prevenzione da Dengue a Pesaro, estesa la disinfestazione](https://www.ansa.it/marche/notizie/2024/10/12/prevenzione-da-dengue-a-pesaro-estesa-la-disinfestazione_6486dfc5-f7fe-42fa-94c1-7c1a874a7204.html) (ANSA.it)
@@ -3118,6 +3138,10 @@ Source: [News API](https://newsapi.org/)
 - [County health officials detect first case of dengue virus in Escondido](https://www.10news.com/news/local-news/north-county-news/county-health-officials-detect-first-case-of-dengue-virus-in-escondido) (10News)
 
 - [Implementan plan contra el dengue en Acapulco tras paso de 'John': ¿Cuándo inicia?](https://www.milenio.com/estados/plan-contra-el-dengue-en-acapulco-guerrero-tras-john) (Milenio)
+
+- [QRoo avanza en la lucha contra el dengue: pasa del lugar 3 al 22 en casos nacionales](https://www.milenio.com/estados/quintana-roo-logra-reducir-casos-dengue) (Milenio)
+
+- [Dengue: la nueva inteligencia artificial que usarán en la provincia de Buenos Aires para intentar anticiparse a los brotes](https://www.lanacion.com.ar/sociedad/dengue-la-nueva-inteligencia-artificial-que-usaran-en-la-provincia-de-buenos-aires-para-intentar-nid06102024/) (La Nacion)
 
 ## 24-41 (chikungunya)
 

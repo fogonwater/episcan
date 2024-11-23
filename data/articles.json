@@ -1,8 +1,81 @@
 {
-  "last_updated": "2024-11-22 19:06",
-  "count_articles_total": 1394,
-  "count_articles_new": 17,
+  "last_updated": "2024-11-23 07:06",
+  "count_articles_total": 1405,
+  "count_articles_new": 4,
   "articles": [
+    {
+      "id": 15819,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "New Atlas",
+      "author": "Loz Blain",
+      "title": "Vaccines have successfully been delivered via mosquito bite",
+      "description": "Mosquitoes do a superb job of spreading diseases like malaria \u2013 now researchers have shown it's possible to hijack these pests and distribute vaccines via mosquito bite. In human trials, these mozzie-borne vaccines proved around 90% effective.Continue Reading\u2026",
+      "url": "https://newatlas.com/infectious-diseases/mosquito-bite-vaccine-malaria/",
+      "urlToImage": "https://assets.newatlas.com/dims4/default/9f667d0/2147483647/strip/true/crop/2400x1260+0+251/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F96%2Faf%2F9df0cea44f7789212d276f576bd9%2Fdepositphotos-65968075-xl.jpg&na.image_optimisation=0",
+      "publishedAt": "2024-11-22 06:18:53",
+      "content": "Mosquitoes do a superb job of spreading diseases like malaria now researchers have shown it's possible to hijack these pests and distribute vaccines via mosquito bite. In human trials, these mozzie-b\u2026 [+5401 chars]",
+      "retrievedAt": "2024-11-23 07:06:56.044655",
+      "internal_id": "64193e8587887ec8a0cf8f03280752fcf6f3ecba7d8004a16bda212ecbe271bb",
+      "publishedAtLabel": "Nov 22"
+    },
+    {
+      "id": 15817,
+      "query": [
+        "hpai",
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": "IANS",
+      "title": "Advanced H5N1 Kit To Help In Early, Rapid Detection Of Bird Flu",
+      "description": "The newly developed Steadfast helps differentiate between highly pathogenic avian influenza (HPAI) and low pathogenic avian influenza (LPAI) strains.",
+      "url": "https://www.ndtv.com/world-news/advanced-h5n1-kit-to-help-in-early-rapid-detection-of-bird-flu-7077187",
+      "urlToImage": "https://c.ndtvimg.com/2024-11/eulu15t8_bird-flu_625x300_10_November_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "publishedAt": "2024-11-22 04:58:57",
+      "content": "New Delhi: Amid rising threats of bird flu killing hundreds of birds and also spilling over to some mammals and even humans, a global research team on Friday announced Steadfast -- an advanced diagno\u2026 [+2104 chars]",
+      "retrievedAt": "2024-11-23 07:06:54.798361",
+      "internal_id": "362c26daa5c053e42f4541017ac7ad851b562186881ef03c813ed7a1df40ea60",
+      "publishedAtLabel": "Nov 22"
+    },
+    {
+      "id": 15820,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Thehillstimes.in",
+      "author": "The Hills Times",
+      "title": "Kokrajhar sees alarming spike in malaria cases",
+      "description": "HT Correspondent KOKRAJHAR, Nov 21: Kokrajhar district has witnessed a sharp rise in malaria cases this year, with 1,991 cases reported till November 20, 2024, compared to 256 cases in 2023.Two deaths have been reported in the last week, including that of a f\u2026",
+      "url": "https://thehillstimes.in/assam/kokrajhar-sees-alarming-spike-in-malaria-cases",
+      "urlToImage": "https://thehillstimes.in/wp-content/uploads/2024/11/112557192.webp",
+      "publishedAt": "2024-11-22 00:40:00",
+      "content": "HT Correspondent KOKRAJHAR, Nov 21: Kokrajhar district has witnessed a sharp rise in malaria cases this year, with 1,991 cases reported till November 20, 2024, compared to 256 cases in 2023.Two deat\u2026 [+452 chars]",
+      "retrievedAt": "2024-11-23 07:06:56.106306",
+      "internal_id": "a292447ec0877048dc384e6dbb6596d287a188fd8123c3aa31aa6760451a0270",
+      "publishedAtLabel": "Nov 22"
+    },
+    {
+      "id": 15818,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Milenio",
+      "author": "Liliana Collado Calc\u00e1neo",
+      "title": "Secretar\u00eda de Salud clausura cl\u00ednicas particulares en Tabasco tras brote de meningitis",
+      "description": "La Secretar\u00eda de Salud clausur\u00f3 cuatro cl\u00ednicas particulares y una m\u00e1s de manera parcial en los municipios de C\u00e1rdenas y Huimanguillo, pertenecientes a Tabasco, por casos de meningitis.Adem\u00e1s, activ\u00f3 protocolos de alerta y atenci\u00f3n m\u00e9dica en todos los hospita\u2026",
+      "url": "https://www.milenio.com/estados/salud-clausura-clinicas-particulares-en-tabasco-por-brote-meningitis",
+      "urlToImage": "https://cdn.milenio.com/uploads/media/2024/11/21/meningitis-tabasco-cierran-clinicas-reporte.jpg",
+      "publishedAt": "2024-11-21 23:50:00",
+      "content": "La Secretar\u00eda de Salud clausur\u00f3 cuatro cl\u00ednicas particulares y una m\u00e1s de manera parcial en los municipios de C\u00e1rdenas y Huimanguillo, pertenecientes a Tabasco, por casos de meningitis. Adem\u00e1s, act\u2026 [+2216 chars]",
+      "retrievedAt": "2024-11-23 07:06:55.594561",
+      "internal_id": "2d3d283d08590752378edb1ea6aecccfeec1053fccdc055cc7b7742f88d3cfc6",
+      "publishedAtLabel": "Nov 21"
+    },
     {
       "id": 15806,
       "query": [
@@ -25153,6 +25226,132 @@
       "content": ", 7 . //. 35 . mpox ( ) , , 1 29 2024 . (). 35 525 mpox, 996 , . 23 29 4 098, - 156. mpox () - 30 766 990 . , 1 368 . . mpox 2022 11 2023 . , 14 . Mpox - , , . 1970 .",
       "retrievedAt": "2024-10-08 07:06:36.820755",
       "internal_id": "c8d41bd8a82c244700b16df93dce471063fff143fa71d152186b8512724ae634",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 14401,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Milenio",
+      "author": "Redacci\u00f3n",
+      "title": "QRoo avanza en la lucha contra el dengue: pasa del lugar 3 al 22 en casos nacionales",
+      "description": "Como resultado de la estrategia de lucha contra el dengue, Quintana Roo se encuentra en la posici\u00f3n n\u00famero 22 a nivel nacional por n\u00famero de casos, un logro hist\u00f3rico resultado de la estrategia, coordinaci\u00f3n e inversi\u00f3n.El gobierno de Mara Lezama Espinosa ha \u2026",
+      "url": "https://www.milenio.com/estados/quintana-roo-logra-reducir-casos-dengue",
+      "urlToImage": "https://cdn.milenio.com/uploads/media/2024/10/06/personal-salud-estrategia-combate-dengue.jpg",
+      "publishedAt": "2024-10-06 18:17:21",
+      "content": "Como resultado de la estrategia de lucha contra el dengue, Quintana Roo se encuentra en la posici\u00f3n n\u00famero 22a nivel nacional por n\u00famero de casos, un logro hist\u00f3rico resultado de la estrategia, coord\u2026 [+1233 chars]",
+      "retrievedAt": "2024-10-07 19:05:46.416575",
+      "internal_id": "fb8359d159b4770146ebb1fef0a0b941100a740e3096def2f8ea78203600662e",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 14441,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "BusinessLine",
+      "author": "G Naga Sridhar",
+      "title": "Putting cholera back in focus",
+      "description": "Cholera, a deadly diarrhoeal disease, is resurging globally, prompting calls for vaccination and improved public health measures.",
+      "url": "https://www.thehindubusinessline.com/specials/pulse/putting-cholera-back-in-focus/article68726024.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/miae01/article68726023.ece/alternates/LANDSCAPE_1200/2016-11-09T202739Z_932842931_S1AEULXCLNAA_RTRMADP_3_HAITI-CHOLERA.JPG",
+      "publishedAt": "2024-10-06 16:52:57",
+      "content": "In the rush to tackle emerging public health concerns like mpox and Covid-19, are diseases like cholera being overlooked? Rapid urbanisation, climate change, and conflicts are putting pressure on hea\u2026 [+3942 chars]",
+      "retrievedAt": "2024-10-09 07:07:06.985248",
+      "internal_id": "4dcf1791d2170865df6770b818e237aa6a0b1e38b356e6d79a9b97dff16a4ca3",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 14415,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "El Congo, foco del brote de viruela del mono, comienza la campa\u00f1a de vacunaci\u00f3n",
+      "description": "La mpox, que comenz\u00f3 a expandirse desde la vecina Kivu del Sur, est\u00e1 presente ya en 23 de las 26 provincias del pa\u00eds.",
+      "url": "https://www.montevideo.com.uy/Salud/El-Congo-foco-del-brote-de-viruela-del-mono-comienza-la-campana-de-vacunacion-uc902427",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202207/_W933_80/808770.jpg",
+      "publishedAt": "2024-10-06 16:15:00",
+      "content": "La Rep\u00fablica Democr\u00e1tica del Congo (RDC), foco del actual brote de viruela del mono (mpox), comenz\u00f3 este s\u00e1bado la campa\u00f1a de vacunaci\u00f3n contra la enfermedad en la provincia de Kivu del Norte, en \u2026 [+3683 chars]",
+      "retrievedAt": "2024-10-08 07:06:36.998521",
+      "internal_id": "a3a00c45095f9f7ae77bef5891de72e4eaad698431ee503d5d0cfb05251726c0",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 14406,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "New Zealand Herald",
+      "author": "Jamie Morton",
+      "title": "Scientists reveal first results of bird flu sampling; health plan shows how NZ would respond to human outbreak",
+      "description": "Sampling shows no sign of big-risk bird flu - but its NZ arrival is 'just matter of time'.",
+      "url": "https://www.nzherald.co.nz/nz/scientists-reveal-first-results-of-bird-flu-sampling-health-plan-shows-how-nz-would-respond-to-human-outbreak/ME7OORURMJHYDFCSVAHHBUIDRU/",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/I5QUGT3H4AQADPWY2BXDCBLOFM.jpg?auth=507e06d0b5d82b1a5d186e3e57ff45ad9a4fb846b921f13034617d776f4b61b1&width=1200&height=675&quality=70&smart=true",
+      "publishedAt": "2024-10-06 16:00:00",
+      "content": "Oceania remains the last region yet to record a case of H5N1, which has killed nearly 300 million birds worldwide, including tens of thousands of endangered and endemic species. Scientists have been\u2026 [+3786 chars]",
+      "retrievedAt": "2024-10-08 07:06:33.254628",
+      "internal_id": "5461537a67c76376a7d1c1b0005341128e64d73f362306a24e3efdc3ab3eab6a",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 14402,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "Cintia Perazo",
+      "title": "Dengue: la nueva inteligencia artificial que usar\u00e1n en la provincia de Buenos Aires para intentar anticiparse a los brotes",
+      "description": "El programa, desarrollado por investigadores de la Unsam, ya se est\u00e1 probando y promete inferir cu\u00e1ntos mosquitos infectados habr\u00e1 en cada manzana del conurbano",
+      "url": "https://www.lanacion.com.ar/sociedad/dengue-la-nueva-inteligencia-artificial-que-usaran-en-la-provincia-de-buenos-aires-para-intentar-nid06102024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/el-dengue-se-contagia-por-la-picadura-del-VYNUJTEDOFEQNNIQ4SPVPFIUCA.jpg?auth=241260c572bad34eade992656cf41cbdc3bf5b53ec8d7849f230ef7202a9c141&width=768&quality=70&smart=false",
+      "publishedAt": "2024-10-06 15:30:00",
+      "content": "Un equipo de investigadores de la Universidad Nacional de San Mart\u00edn (Unsam), liderado por Ezequiel \u00c1lvarez, est\u00e1 desarrollando un modelo de inteligencia artificial bayesiana que permitir\u00e1 anticipar \u2026 [+7718 chars]",
+      "retrievedAt": "2024-10-07 19:05:46.489307",
+      "internal_id": "199661668e62d7913ed09632ec701443735ed6c24b8bfd3dc7f6895c5f324940",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 14404,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": "http://www.facebook.com/bbcnews",
+      "title": "\u0427\u043e\u043c\u0443 \u043c\u0456\u043d\u044f\u0442\u0438 \u043f\u043e\u0441\u0442\u0456\u043b\u044c\u043d\u0443 \u0431\u0456\u043b\u0438\u0437\u043d\u0443 \u0432\u0430\u0440\u0442\u043e \u0447\u0430\u0441\u0442\u0456\u0448\u0435",
+      "description": "\u041c\u0438 \u043f\u0440\u043e\u0432\u043e\u0434\u0438\u043c\u043e \u043d\u0430 \u043f\u0440\u043e\u0441\u0442\u0438\u0440\u0430\u0434\u043b\u0430\u0445 \u0456 \u043f\u043e\u0434\u0443\u0448\u043a\u0430\u0445 \u0442\u0440\u0435\u0442\u0438\u043d\u0443 \u0441\u0432\u043e\u0433\u043e \u0436\u0438\u0442\u0442\u044f \u0449\u043e\u0434\u043d\u044f, \u0456 \u0446\u0435\u0439 \u043a\u043e\u043d\u0442\u0430\u043a\u0442 \u0441\u0442\u0432\u043e\u0440\u044e\u0454 \u0456\u0434\u0435\u0430\u043b\u044c\u043d\u0435 \u0441\u0435\u0440\u0435\u0434\u043e\u0432\u0438\u0449\u0435 \u0434\u043b\u044f \u043a\u0443\u043f\u0438 \u043d\u0435\u0431\u0430\u0436\u0430\u043d\u0438\u0445 \u0433\u043e\u0441\u0442\u0435\u0439.",
+      "url": "https://www.bbc.com/ukrainian/articles/c17lxe84pk2o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_ukrainian/4a90/live/93eb8570-825d-11ef-a96a-4578729d5d06.jpg",
+      "publishedAt": "2024-10-06 12:57:11",
+      "content": "Article information , . , , . . , , , . - , , , . , . 500 , , , . , , . . 2013 , , . , , - S. aureus, , . \" , \", - , , . , Getty Images , , , , . 2018 , , , , . . 2022 , (mpox).\u2026 [+472 chars]",
+      "retrievedAt": "2024-10-07 19:05:48.100667",
+      "internal_id": "fac9e291a8c7df398968a765d17d6decda9bb0f861135150c7c7d0210073ff1c",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 14403,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "VOA News",
+      "author": "webdesk@voanews.com (Associated Press)",
+      "title": "Congo starts mpox vaccinations in effort to slow outbreaks",
+      "description": "GOMA, Congo \u2014 Congolese authorities on Saturday began vaccinations against mpox, nearly two months after the disease outbreak that spread from Congo to several African countries and beyond was declared a global emergency by the World Health Organization. Th\u2026",
+      "url": "https://www.voanews.com/a/congo-starts-mpox-vaccinations-in-effort-to-slow-outbreaks/7812086.html",
+      "urlToImage": "https://gdb.voanews.com/F2A047DA-F41F-406F-A699-3C87C334BCA6.jpg",
+      "publishedAt": "2024-10-06 07:11:34",
+      "content": "GOMA, Congo Congolese authorities on Saturday began vaccinations against mpox, nearly two months after the disease outbreak that spread from Congo to several African countries and beyond was declare\u2026 [+3282 chars]",
+      "retrievedAt": "2024-10-07 19:05:47.955180",
+      "internal_id": "fe487d05e9b2250a6d57ce4b443e1a3cd84340b29390439d476a26f8cd086a69",
       "publishedAtLabel": "Oct 6"
     }
   ]
