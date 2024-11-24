@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 22
-- **Last harvest:** 2024-11-24 07:07
-- **Most recent article:** 2024-11-23 05:55:05
+- **New articles in last harvest:** 9
+- **Last harvest:** 2024-11-24 19:06
+- **Most recent article:** 2024-11-23 17:00:00
 
 ---
 
@@ -12,12 +12,12 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-42 | 24-43 | 24-44 | 24-45 | 24-46 | 24-47 | Total |
 |--|-|-|-|-|-|-|-|
-| mpox | 81 | 131 | 75 | 63 | 62 | 73 | 485 |
-| dengue | 49 | 53 | 31 | 31 | 36 | 27 | 227 |
-| h5n1 | 18 | 12 | 61 | 36 | 40 | 45 | 212 |
+| mpox | 78 | 131 | 75 | 63 | 62 | 75 | 484 |
+| dengue | 47 | 53 | 31 | 31 | 36 | 28 | 226 |
+| h5n1 | 16 | 12 | 61 | 36 | 40 | 50 | 215 |
 | malaria | 18 | 58 | 16 | 26 | 33 | 27 | 178 |
 | measles | 3 | 1 | 13 | 3 | 33 | 11 | 64 |
-| rabies | 7 | 3 | 10 | 5 | 11 | 5 | 41 |
+| rabies | 7 | 3 | 10 | 5 | 11 | 6 | 42 |
 | zika | 6 | 6 | 3 | 9 | 4 | 3 | 31 |
 | pertussis | 9 | 3 | 1 | 3 | 8 | 5 | 29 |
 | chikungunya | 4 | 7 | 2 | 2 | 3 | 5 | 23 |
@@ -55,6 +55,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-47 (rabies)
 
+- [Florida Department of Health Issues Rabies Alert for Viera After Captured Fox Tests Positive - Space Coast Daily](https://spacecoastdaily.com/2024/11/florida-department-of-health-issues-rabies-alert-for-viera-after-captured-fox-tests-positive/) (SpaceCoastDaily.com)
+
 - [Rabid raccoon caught in Richmond on Saturday](https://richmond.com/news/local/crime-courts/rabid-raccoon-reported-richmond-and-henrico-health-districts-hawthorne-avenue-rabies/article_62964098-a826-11ef-8e11-9b6e8dcd0612.html) (Richmond.com)
 
 - [Ten people in North exposed to rabies-infected badger](https://www.jpost.com/israel-news/article-830081) (The Jerusalem Post)
@@ -78,6 +80,10 @@ Source: [News API](https://newsapi.org/)
 - [What Does it Mean to Own the Next 4 Years?](https://sciencebasedmedicine.org/ownit2/) (Sciencebasedmedicine.org)
 
 ## 24-47 (mpox)
+
+- [OMS mantiene su nivel máximo de alerta con respecto a la epidemia de mpox](https://www.montevideo.com.uy/Salud/OMS-mantiene-su-nivel-maximo-de-alerta-con-respecto-a-la-epidemia-de-mpox-uc907415) (Montevideo.com.uy)
+
+- [First Case of Mpox Detected in Canada](https://sputnikglobe.com/20241123/first-case-of-mpox-detected-in-canada-1120972517.html) (Sputnikglobe.com)
 
 - [Mpox: l'OMS maintient son plus haut niveau d'alerte](https://fr.sputniknews.africa/20241123/mpox-loms-maintient-son-plus-haut-niveau-dalerte-1069367874.html) (Sputniknews.africa)
 
@@ -329,6 +335,16 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-47 (h5n1)
 
+- [Kongatják a vészharangot: halálos vírus mutálódott, új világjárvány robbanhat be?](https://www.portfolio.hu/global/20241123/kongatjak-a-veszharangot-halalos-virus-mutalodott-uj-vilagjarvany-robbanhat-be-724950) (Portfolio.hu)
+
+- [Megjelent a madárinfluenza az Egyesült Államokban](https://www.origo.hu/nagyvilag/2024/11/madarinfluenza-usa-gyerek-fertozes) (Origo.hu)
+
+- [Grippe aviaire chez l'homme : "Si on laisse le virus circuler, on prend le risque d’une mutation"](https://www.marianne.net/societe/sante/grippe-aviaire-chez-l-homme-si-on-laisse-le-virus-circuler-on-prend-le-risque-dune-mutation) (Marianne.net)
+
+- [H5N1-Fälle in Nordamerika: Kind und Jugendliche mit Vogelgrippe infiziert](https://www.tagesspiegel.de/wissen/h5n1-falle-in-nordamerika-kind-und-jugendliche-mit-vogelgrippe-infiziert-12758435.html) (Der Tagesspiegel)
+
+- [H5N1-Fall in Kalifornien: USA melden erste Ansteckung mit Vogelgrippe bei einem Kind](https://www.tagesspiegel.de/wissen/h5n1-in-kalifornien-bestatigt-usa-melden-erste-ansteckung-mit-vogelgrippe-bei-kind-12758435.html) (Der Tagesspiegel)
+
 - [Erstes Kind an Vogelgrippe erkrankt: Warum das beunruhigt](https://www.morgenpost.de/panorama/article407746929/erstmals-kind-an-vogelgrippe-erkrankt-warum-das-beunruhigt.html) (Berliner Morgenpost)
 
 - [Behördenmeldung in Kalifornien: Erstmals Kind in USA mit Vogelgrippe infiziert](https://www.n-tv.de/wissen/Erstmals-Kind-in-USA-mit-Vogelgrippe-infiziert-article25382009.html) (N-tv.de)
@@ -420,6 +436,8 @@ Source: [News API](https://newsapi.org/)
 - [TWiV 1167: Virus cloak and entry](https://www.microbe.tv/twiv/twiv-1167/) (Microbe.tv)
 
 ## 24-47 (dengue)
+
+- [Climate change plays a role in global rise of dengue fever](https://www.npr.org/2024/11/23/nx-s1-5193356/climate-change-dengue-fever-mosquito-mexico-brazil) (NPR)
 
 - [EXCLUSIVE | 'IPL ka sabse tez bowler... ': Umran Malik breaks silence](https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/exclusive-ipl-ka-sabse-tez-bowler-umran-malik-breaks-silence-on-time-with-srh/articleshow/115569826.cms) (The Times of India)
 
@@ -2721,12 +2739,6 @@ Source: [News API](https://newsapi.org/)
 
 - [В Зимбабве зафиксировали два первых случая заражения оспой обезьян](https://news.mail.ru/incident/63197353/) (Mail.ru)
 
-- [Zimbabwe reports two mpox cases](https://www.thestar.com.my/news/world/2024/10/14/zimbabwe-reports-two-mpox-cases) (The Star Online)
-
-- [Zimbabwe reports first two mpox cases of unspecified variant](https://www.thestar.com.my/news/world/2024/10/13/zimbabwe-reports-first-two-mpox-cases-of-unspecified-variant) (The Star Online)
-
-- [First mpox diagnostic test approved by WHO](https://www.thestar.com.my/lifestyle/health/2024/10/13/first-mpox-diagnostic-test-approved-by-who) (The Star Online)
-
 ## 24-42 (meningitis)
 
 - [Meningococcal disease confirmed at Bonham Elementary School](https://www.fox26houston.com/news/meningococcal-disease-confirmed-bonham-elementary-school) (fox26houston.com)
@@ -2816,10 +2828,6 @@ Source: [News API](https://newsapi.org/)
 - [‘Real and significant threat’: Federal government pledges $95 million to prepare for arrival of deadly bird flu strain H5N1](https://www.skynews.com.au/lifestyle/health/real-and-significant-threat-federal-government-pledges-95-million-to-prepare-for-arrival-of-deadly-bird-flu-strain-h5n1/news-story/b19142b01e36899ca631b650fb092869) (Sky News Australia)
 
 - [Voice to Parliament: One year on](https://www.crikey.com.au/2024/10/14/indigenous-voice-to-parliament-anniversary-bird-flu-h5n1/) (Crikey)
-
-- [Australia commits $64 million to protect against looming bird flu threat](https://www.japantimes.co.jp/news/2024/10/13/asia-pacific/australia-bird-flu-funding/) (The Japan Times)
-
-- [Labor sets out $95 million to combat potential arrival of deadly bird flu strain H5N1](https://www.abc.net.au/news/2024-10-13/labor-announces-95m-in-funding-for-bird-flu-h5n1/104467622) (ABC News (AU))
 
 ## 24-42 (dengue)
 
@@ -2916,10 +2924,6 @@ Source: [News API](https://newsapi.org/)
 - [Bangladesh records highest daily spike of 9 dengue deaths this year](http://en.people.cn/n3/2024/1014/c90000-20229117.html) (People.cn)
 
 - [Dengue deaths, cases in Bacolod increasing further](https://rpnradio.com/dengue-deaths-cases-in-bacolod-increasing-further/) (Rpnradio.com)
-
-- [First diphtheria death in Ferozepur: 3-Year-old girl dies from bacterial infection](https://timesofindia.indiatimes.com/city/chandigarh/first-diphtheria-death-in-ferozepur-3-year-old-girl-dies-from-bacterial-infection/articleshow/114194849.cms) (The Times of India)
-
-- [Dengue: 4 more die, 660 hospitalised in 24hrs](https://www.tbsnews.net/bangladesh/health/dengue-4-more-die-660-hospitalised-24hrs-965891) (Tbsnews.net)
 
 ## 24-42 (chikungunya)
 

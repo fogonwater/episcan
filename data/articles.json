@@ -1,8 +1,170 @@
 {
-  "last_updated": "2024-11-24 07:07",
-  "count_articles_total": 1314,
-  "count_articles_new": 22,
+  "last_updated": "2024-11-24 19:06",
+  "count_articles_total": 1316,
+  "count_articles_new": 9,
   "articles": [
+    {
+      "id": 15852,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Portfolio.hu",
+      "author": "Portfolio.hu",
+      "title": "Kongatj\u00e1k a v\u00e9szharangot: hal\u00e1los v\u00edrus mut\u00e1l\u00f3dott, \u00faj vil\u00e1gj\u00e1rv\u00e1ny robbanhat be?",
+      "description": "Az elm\u00falt napokban bej\u00e1rta a sajt\u00f3t a h\u00edr, miszerint egy kanadai tin\u00e9dzser kritikus \u00e1llapotban ker\u00fclt k\u00f3rh\u00e1zba, miut\u00e1n mad\u00e1rinfluenz\u00e1val (H5N1) fert\u0151z\u0151d\u00f6tt meg. Az els\u0151sorban a baromfi \u00e9s szarvasmarha-\u00e1llom\u00e1nyokban jelen l\u00e9v\u0151 v\u00edrus kor\u00e1bban is fert\u0151z\u00f6tt m\u00e1r m\u2026",
+      "url": "https://www.portfolio.hu/global/20241123/kongatjak-a-veszharangot-halalos-virus-mutalodott-uj-vilagjarvany-robbanhat-be-724950",
+      "urlToImage": "https://pcdn.hu/articles/images-xl/b/e/t/betegseg-egeszseg-egeszsegugy-fertozes-jarvany-kutatas-orvostudomany-vakcina-717084.jpg",
+      "publishedAt": "2024-11-23 17:00:00",
+      "content": "A sajt\u00f3ban november k\u00f6zep\u00e9n kezdtek el cikkezni a Kanadai K\u00f6zeg\u00e9szs\u00e9g\u00fcgyi Hivatal bejelent\u00e9sei nyom\u00e1n arr\u00f3l, hogy egy mad\u00e1rinfluenza (H5N1) v\u00edrussal megfertzd\u00f6tt kanadai tin\u00e9dzsert kritikus \u00e1llapotb\u2026 [+7964 chars]",
+      "retrievedAt": "2024-11-24 19:06:35.362517",
+      "internal_id": "4d4a3182ce4aa94e7537119ea89cbb09106bc45da68c491d997f75381ade299a",
+      "publishedAtLabel": "Nov 23"
+    },
+    {
+      "id": 15853,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Origo.hu",
+      "author": "Origo",
+      "title": "Megjelent a mad\u00e1rinfluenza az Egyes\u00fclt \u00c1llamokban",
+      "description": "Az amerikai j\u00e1rv\u00e1ny\u00fcgyi \u00e9s megel\u0151z\u00e9si k\u00f6zpontok (CDC) p\u00e9nteken meger\u0151s\u00edtett\u00e9k az orsz\u00e1g els\u0151 H5N1 mad\u00e1rinfluenza-fert\u0151z\u00e9ses eset\u00e9t egy gyermekn\u00e9l.",
+      "url": "https://www.origo.hu/nagyvilag/2024/11/madarinfluenza-usa-gyerek-fertozes",
+      "urlToImage": "https://cdn.origo.hu/2024/11/Y5qV0Vs03KJ6RiFcNti2AkYW9EYnOUETGi_7GLrS4Ms/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzJjODhhZDJjMTE3ZjRlZDk4Y2U5YmJmMWQzMmE4Mjhm.webp",
+      "publishedAt": "2024-11-23 15:37:37",
+      "content": "A CDC megers\u00edtette, hogy jelenleg nincs bizony\u00edt\u00e9k arra, hogy a gyerek megfertz\u00f6tt volna m\u00e1sokat, de folytatj\u00e1k a kontaktok nyomon k\u00f6vet\u00e9s\u00e9t. A gyermek csal\u00e1dtagjainak tesztje negat\u00edv volt. Az \u00fcgyn\u00f6k\u2026 [+1324 chars]",
+      "retrievedAt": "2024-11-24 19:06:35.400239",
+      "internal_id": "27db50cbd55593c305c58478308fc2bdb2bd0d1371eaea7f63a8c5ec12f1a9f4",
+      "publishedAtLabel": "Nov 23"
+    },
+    {
+      "id": 15851,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Marianne.net",
+      "author": "Chlo\u00e9 S\u00e9mat",
+      "title": "Grippe aviaire chez l'homme : \"Si on laisse le virus circuler, on prend le risque d\u2019une mutation\"",
+      "description": "Aux \u00c9tats-Unis, un 55e cas humain de grippe aviaire a \u00e9t\u00e9 d\u00e9tect\u00e9 dans la baie de San Francisco, en parall\u00e8le des multiples contaminations d'\u00e9levages bovins. Un tel ph\u00e9nom\u00e8ne est-il \u00e0 craindre en France ? Existe-t-il des risques de transmission interhumaine ?\u2026",
+      "url": "https://www.marianne.net/societe/sante/grippe-aviaire-chez-l-homme-si-on-laisse-le-virus-circuler-on-prend-le-risque-dune-mutation",
+      "urlToImage": "https://media.marianne.net/assets/asvFLDdjiNk2yPpG8.jpg?w=1540&h=924&r=fill",
+      "publishedAt": "2024-11-23 14:28:14",
+      "content": "En France,le virus H5N1 se limite pour l'instant aux \u00e9levages de canards.Soumyabrata Roy/NurPhoto Par Chlo\u00e9 S\u00e9mat Publi\u00e9 le 23/11/2024 \u00e0 17:28 Aux \u00c9tats-Unis, un 55e cas humain de grippe aviaire \u2026 [+6738 chars]",
+      "retrievedAt": "2024-11-24 19:06:35.344386",
+      "internal_id": "bfa46a12bb863e7fc2c8f26824a086303d00745b7bd3420101036a04ebb5e456",
+      "publishedAtLabel": "Nov 23"
+    },
+    {
+      "id": 15858,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "OMS mantiene su nivel m\u00e1ximo de alerta con respecto a la epidemia de mpox",
+      "description": "La Rep\u00fablica Democr\u00e1tica del Congo (RDC) es el pa\u00eds m\u00e1s afectado por la enfermedad, seguido de Burundi y Nigeria.",
+      "url": "https://www.montevideo.com.uy/Salud/OMS-mantiene-su-nivel-maximo-de-alerta-con-respecto-a-la-epidemia-de-mpox-uc907415",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202408/_W933_80/891795.jpg",
+      "publishedAt": "2024-11-23 14:27:00",
+      "content": "La Organizaci\u00f3n Mundial de la Salud decidi\u00f3 el viernes mantener su nivel m\u00e1ximo de alerta con respecto a la epidemia de mpox, cuyo n\u00famero de casos y pa\u00edses afectados contin\u00faa en aumento, seg\u00fan un com\u2026 [+1577 chars]",
+      "retrievedAt": "2024-11-24 19:06:37.746816",
+      "internal_id": "3c37bdc5df7f265f1ded3a16e9cb3a1a15b5552c30b8b72626ce482da900ec3a",
+      "publishedAtLabel": "Nov 23"
+    },
+    {
+      "id": 15856,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Alejandra Borunda",
+      "title": "Climate change plays a role in global rise of dengue fever",
+      "description": "Over 12 million cases of dengue fever were reported in 2024, the most ever. A study suggests climate change has likely played a significant role in the disease's expansion.",
+      "url": "https://www.npr.org/2024/11/23/nx-s1-5193356/climate-change-dengue-fever-mosquito-mexico-brazil",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x1688+0+101/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4f%2F56%2F546ed2104c95a53c3589dd4b1808%2Fgettyimages-2147900423.jpg",
+      "publishedAt": "2024-11-23 13:47:53",
+      "content": "In 2023, some 6 million cases of dengue fever were reported worldwide more than ever before. Then, 2024 blew that record away. More than 12 million cases have been reported worldwide so far this ye\u2026 [+7183 chars]",
+      "retrievedAt": "2024-11-24 19:06:35.876052",
+      "internal_id": "e13cf9530be36db928cec22e6acd62ec073f93ab82fc74ee8df07fd48eecf696",
+      "publishedAtLabel": "Nov 23"
+    },
+    {
+      "id": 15850,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "SpaceCoastDaily.com",
+      "author": "Juan Rodriguez",
+      "title": "Florida Department of Health Issues Rabies Alert for Viera After Captured Fox Tests Positive - Space Coast Daily",
+      "description": "Florida Department of Health Issues Rabies Alert for Viera After Captured Fox Tests Positive - Space Coast Dailyspacecoastdaily.com",
+      "url": "https://spacecoastdaily.com/2024/11/florida-department-of-health-issues-rabies-alert-for-viera-after-captured-fox-tests-positive/",
+      "urlToImage": "https://spacecoastdaily.com/wp-content/uploads/2018/09/RABIES-ALERT580-2.jpg",
+      "publishedAt": "2024-11-23 12:40:38",
+      "content": "Home \u00bb Home \u00bb Florida Department of Health Issues Rabies Alert for Viera After Captured Fox Tests PositiveBy Space Coast Daily // November 23, 2024 The Florida Department of Health in Brevard Cou\u2026 [+2399 chars]",
+      "retrievedAt": "2024-11-24 19:06:34.141323",
+      "internal_id": "60ddf6646d00800ee45e994d9631ce445524e39bcdd7b264187aeb1ade6eeb9a",
+      "publishedAtLabel": "Nov 23"
+    },
+    {
+      "id": 15854,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Der Tagesspiegel",
+      "title": "H5N1-F\u00e4lle in Nordamerika: Kind und Jugendliche mit Vogelgrippe infiziert",
+      "description": "Derzeit grassiert die gr\u00f6\u00dfte je dokumentierte Vogelgrippewelle. In den USA infizierte sich nun erstmals ein Kind. In Kanada k\u00e4mpft ein Teenager mit einem mutierten Virus.",
+      "url": "https://www.tagesspiegel.de/wissen/h5n1-falle-in-nordamerika-kind-und-jugendliche-mit-vogelgrippe-infiziert-12758435.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/12427472/alternates/BASE_16_9_W1400/1732360301000/file-photo-illustration-shows-test-tube-labelled-bird-flu-words-and-u-s-flag.jpeg",
+      "publishedAt": "2024-11-23 11:15:26",
+      "content": "Zwei Vogelgrippe-F\u00e4lle bei einem Kind und einem Teenager in Nordamerika geben Wissenschaftlern Anlass zur Sorge. Zum einen wurde in den USA die erste Infektion eines Kindes mit dem Vogelgrippe-Virus \u2026 [+4862 chars]",
+      "retrievedAt": "2024-11-24 19:06:35.411911",
+      "internal_id": "b3300b8635b0b6d990df6026a3ef692e75ca870bf1db5a3a4520f98bd36ed10f",
+      "publishedAtLabel": "Nov 23"
+    },
+    {
+      "id": 15855,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Der Tagesspiegel",
+      "title": "H5N1-Fall in Kalifornien: USA melden erste Ansteckung mit Vogelgrippe bei einem Kind",
+      "description": "Derzeit grassiert die gr\u00f6\u00dfte je dokumentierte Vogelgrippewelle. In den USA erkrankte jetzt erstmals ein Kind an H5N1. Es hatte offenbar nur leichte Symptome.",
+      "url": "https://www.tagesspiegel.de/wissen/h5n1-in-kalifornien-bestatigt-usa-melden-erste-ansteckung-mit-vogelgrippe-bei-kind-12758435.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/12427472/alternates/BASE_16_9_W1400/1732360301000/file-photo-illustration-shows-test-tube-labelled-bird-flu-words-and-u-s-flag.jpeg",
+      "publishedAt": "2024-11-23 11:15:26",
+      "content": "Erstmals in den USA ist ein Kind positiv auf Vogelgrippe getestet worden. Das im kalifornischen Alameda County lebende Kind habe milde Symptome gezeigt und erhole sich nach einer Grippebehandlung zu \u2026 [+2943 chars]",
+      "retrievedAt": "2024-11-24 19:06:35.418695",
+      "internal_id": "77fde909a9694120019c10809915a75c4ef50d732e29bc1224017a08a15609f3",
+      "publishedAtLabel": "Nov 23"
+    },
+    {
+      "id": 15857,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Sputnikglobe.com",
+      "author": "Sputnik International",
+      "title": "First Case of Mpox Detected in Canada",
+      "description": "MOSCOW (Sputnik) - The first case of mpox, also known as monkeypox, has been detected in the central Canadian province of Manitoba, according to a statement published on the local government's website.",
+      "url": "https://sputnikglobe.com/20241123/first-case-of-mpox-detected-in-canada-1120972517.html",
+      "urlToImage": "https://cdn1.img.sputnikglobe.com/images/sharing/article/eng/1120972517.jpg?10619949601732347014",
+      "publishedAt": "2024-11-23 07:30:13",
+      "content": "Sputnik brings you all the latest breaking stories, expert analysis and videos from North and South America. https://sputnikglobe.com/20241123/first-case-of-mpox-detected-in-canada-1120972517.html \u2026 [+1435 chars]",
+      "retrievedAt": "2024-11-24 19:06:37.656724",
+      "internal_id": "407ba0411d22e6d3ea48ae54dba4515b7bd605ccbb6ad4f61c39a3ae62617d93",
+      "publishedAtLabel": "Nov 23"
+    },
     {
       "id": 15840,
       "query": [
@@ -23583,132 +23745,6 @@
       "content": "VOICE REFERENDUM ANNIVERSARY Today marks one year since Australia voted down a proposal to enshrine an Indigenous Voice to Parliament in the constitution. The AAP this morning quotes a spokesperson \u2026 [+12475 chars]",
       "retrievedAt": "2024-10-15 07:06:26.776795",
       "internal_id": "06ad02bc83552c95a113690de69b653d974edcbfd5eb46cbb16d66f770400d13",
-      "publishedAtLabel": "Oct 13"
-    },
-    {
-      "id": 14538,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "Dinesh K Sharma",
-      "title": "First diphtheria death in Ferozepur: 3-Year-old girl dies from bacterial infection",
-      "description": "Ferozepur's first diphtheria death amid the dengue season triggers alarm as a three-year-old passes away in Faridkot. Health teams conduct surveys, finding one more suspected case but tests negative. Authorities initiate door-to-door surveillance in affected \u2026",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/first-diphtheria-death-in-ferozepur-3-year-old-girl-dies-from-bacterial-infection/articleshow/114194849.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-114194880,width-1070,height-580,imgsize-524198,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-10-13 17:27:06",
-      "content": "What is far-infrared therapy good for?",
-      "retrievedAt": "2024-10-14 19:05:40.512157",
-      "internal_id": "ecd2975479ae8b0f861b894c2ee18393e8be581bfbd304036955ee4be9486078",
-      "publishedAtLabel": "Oct 13"
-    },
-    {
-      "id": 14540,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "Tichaona Chifamba",
-      "title": "Zimbabwe reports two mpox cases",
-      "description": "HARARE, Oct. 13 (Xinhua) -- Zimbabwe on Sunday announced two confirmed cases of mpox in people who have traveled to South Africa and Tanzania. Read full story",
-      "url": "https://www.thestar.com.my/news/world/2024/10/14/zimbabwe-reports-two-mpox-cases",
-      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
-      "publishedAt": "2024-10-13 17:03:00",
-      "content": "HARARE, Oct. 13 (Xinhua) -- Zimbabwe on Sunday announced two confirmed cases of mpox in people who have traveled to South Africa and Tanzania. Zimbabwe's Health and Child Care Minister Douglas Momb\u2026 [+928 chars]",
-      "retrievedAt": "2024-10-14 19:05:42.390223",
-      "internal_id": "06086a8516d330a84ac271b2e82a895a00cbf76715568b83ed3a7aef592fa834",
-      "publishedAtLabel": "Oct 13"
-    },
-    {
-      "id": 14541,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "The Star Online",
-      "title": "Zimbabwe reports first two mpox cases of unspecified variant",
-      "description": "HARARE (Reuters) - Zimbabwe has confirmed its first two cases of mpox, the health ministry said on Sunday, without specifying which variant had been recorded. Read full story",
-      "url": "https://www.thestar.com.my/news/world/2024/10/13/zimbabwe-reports-first-two-mpox-cases-of-unspecified-variant",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/10/13/2962482.jpg",
-      "publishedAt": "2024-10-13 15:58:00",
-      "content": "HARARE (Reuters) - Zimbabwe has confirmed its first two cases of mpox, the health ministry said on Sunday, without specifying which variant had been recorded. The first case was detected in an 11-ye\u2026 [+1192 chars]",
-      "retrievedAt": "2024-10-14 19:05:42.401892",
-      "internal_id": "116525f54e51e2c7abd45e0ce38fa1f2b6bd6ac02de82aaa4cba2153b73e62d2",
-      "publishedAtLabel": "Oct 13"
-    },
-    {
-      "id": 14539,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Tbsnews.net",
-      "author": "Unb",
-      "title": "Dengue: 4 more die, 660 hospitalised in 24hrs",
-      "description": "A total of 42,470 dengue cases have been reported since 1 January 2024",
-      "url": "https://www.tbsnews.net/bangladesh/health/dengue-4-more-die-660-hospitalised-24hrs-965891",
-      "urlToImage": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/09/04/dengue_ward_rajibdhar_0288.jpg",
-      "publishedAt": "2024-10-13 12:53:46",
-      "content": "Four more deaths were reported from dengue in 24 hours till Sunday morning, raising the number of fatalities from the mosquito-borne disease in Bangladesh to 214 this year. During the period, 660 mo\u2026 [+696 chars]",
-      "retrievedAt": "2024-10-14 19:05:40.554552",
-      "internal_id": "18618de64306b6ebbedb3a8ef4ab8d5532a735f2b4083b33bd58241acf3a91b4",
-      "publishedAtLabel": "Oct 13"
-    },
-    {
-      "id": 14542,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "Agency",
-      "title": "First mpox diagnostic test approved by WHO",
-      "description": "The availability of such a test will help speed up identification of mpox patients and help prevent its transmission.",
-      "url": "https://www.thestar.com.my/lifestyle/health/2024/10/13/first-mpox-diagnostic-test-approved-by-who",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/10/11/2959154.jpg",
-      "publishedAt": "2024-10-13 12:33:12",
-      "content": "The World Health Organization (WHO) announced on Oct 4 (2024) that it had approved the use of the first diagnostic test for mpox, a key tool for countries battling outbreaks of this infectious diseas\u2026 [+1499 chars]",
-      "retrievedAt": "2024-10-14 19:05:42.413453",
-      "internal_id": "6c4bcd0cd81f98f672edd0accbe831f9b120493c7ea2ed87cb2a7b029a330b0c",
-      "publishedAtLabel": "Oct 13"
-    },
-    {
-      "id": 14537,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "The Japan Times",
-      "author": "The Japan Times",
-      "title": "Australia commits $64 million to protect against looming bird flu threat",
-      "description": "Oceania is the last region free of the H5N1 clade 2.3.4.4b avian influenza, which has killed hundreds of millions of birds since emerging in 2020.",
-      "url": "https://www.japantimes.co.jp/news/2024/10/13/asia-pacific/australia-bird-flu-funding/",
-      "urlToImage": "https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/13/427549.JPG?v=3.1",
-      "publishedAt": "2024-10-13 11:42:00",
-      "content": "SYDNEY Australia's government said on Sunday it would spend an extra 95 million Australian dollars ($64.13 million) to protect against a destructive bird flu strain that has spread through bird and m\u2026 [+1416 chars]",
-      "retrievedAt": "2024-10-14 19:05:40.172763",
-      "internal_id": "742e0fe55403bcf84740d2b06891cf81af7b9068348b9984e38eb6acb127de4c",
-      "publishedAtLabel": "Oct 13"
-    },
-    {
-      "id": 14536,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "abc-news-au",
-      "source_name": "ABC News (AU)",
-      "author": "Esther Linder",
-      "title": "Labor sets out $95 million to combat potential arrival of deadly bird flu strain H5N1",
-      "description": "Biosecurity, environmental funding for protected native species and a top-up of the national stockpile of flu vaccines are part of preparations for the arrival of H5N1 to Australia.",
-      "url": "https://www.abc.net.au/news/2024-10-13/labor-announces-95m-in-funding-for-bird-flu-h5n1/104467622",
-      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/0b04ad35e96a4248c2825a4d68019d9c?impolicy=wcms_watermark_news&cropH=3233&cropW=5748&xPos=0&yPos=384&width=862&height=485&imformat=generic",
-      "publishedAt": "2024-10-13 11:32:07",
-      "content": "The looming arrival of a deadly strain of bird flu in Australia has prompted the federal government to set up a $95 million preparation fund as part of a swathe of biosecurity and environmental measu\u2026 [+3844 chars]",
-      "retrievedAt": "2024-10-14 19:05:40.122524",
-      "internal_id": "2c124687742780b77f0309fe129d557baf4ecbf028e76d325027c4e90e697d72",
       "publishedAtLabel": "Oct 13"
     }
   ]
