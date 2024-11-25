@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 9
-- **Last harvest:** 2024-11-24 19:06
-- **Most recent article:** 2024-11-23 17:00:00
+- **New articles in last harvest:** 5
+- **Last harvest:** 2024-11-25 07:07
+- **Most recent article:** 2024-11-24 05:36:40
 
 ---
 
@@ -10,28 +10,40 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 24-42 | 24-43 | 24-44 | 24-45 | 24-46 | 24-47 | Total |
-|--|-|-|-|-|-|-|-|
-| mpox | 78 | 131 | 75 | 63 | 62 | 75 | 484 |
-| dengue | 47 | 53 | 31 | 31 | 36 | 28 | 226 |
-| h5n1 | 16 | 12 | 61 | 36 | 40 | 50 | 215 |
-| malaria | 18 | 58 | 16 | 26 | 33 | 27 | 178 |
-| measles | 3 | 1 | 13 | 3 | 33 | 11 | 64 |
-| rabies | 7 | 3 | 10 | 5 | 11 | 6 | 42 |
-| zika | 6 | 6 | 3 | 9 | 4 | 3 | 31 |
-| pertussis | 9 | 3 | 1 | 3 | 8 | 5 | 29 |
-| chikungunya | 4 | 7 | 2 | 2 | 3 | 5 | 23 |
-| hpai | 2 | 2 | 7 | 4 | 4 | 4 | 23 |
-| meningitis | 1 | 6 | 3 | 5 | 2 | 5 | 22 |
-| leptospirosis | 0 | 0 | 3 | 10 | 3 | 0 | 16 |
-| typhoid | 1 | 3 | 4 | 1 | 1 | 3 | 13 |
-| yersinia | 0 | 0 | 3 | 0 | 0 | 1 | 4 |
-| shigellosis | 0 | 1 | 0 | 0 | 1 | 0 | 2 |
+| Disease | 24-42 | 24-43 | 24-44 | 24-45 | 24-46 | 24-47 | 24-48 | Total |
+|--|-|-|-|-|-|-|-|-|
+| mpox | 81 | 131 | 75 | 63 | 62 | 76 | 0 | 488 |
+| dengue | 49 | 53 | 31 | 31 | 36 | 28 | 1 | 229 |
+| h5n1 | 18 | 12 | 61 | 36 | 40 | 50 | 1 | 218 |
+| malaria | 18 | 58 | 16 | 26 | 33 | 27 | 0 | 178 |
+| measles | 3 | 1 | 13 | 3 | 33 | 11 | 0 | 64 |
+| rabies | 7 | 3 | 10 | 5 | 11 | 7 | 1 | 44 |
+| zika | 6 | 6 | 3 | 9 | 4 | 3 | 0 | 31 |
+| pertussis | 9 | 3 | 1 | 3 | 8 | 5 | 0 | 29 |
+| chikungunya | 4 | 7 | 2 | 2 | 3 | 5 | 0 | 23 |
+| hpai | 2 | 2 | 7 | 4 | 4 | 4 | 0 | 23 |
+| meningitis | 1 | 6 | 3 | 5 | 2 | 5 | 0 | 22 |
+| leptospirosis | 0 | 0 | 3 | 10 | 3 | 0 | 0 | 16 |
+| typhoid | 1 | 3 | 4 | 1 | 1 | 3 | 0 | 13 |
+| yersinia | 0 | 0 | 3 | 0 | 0 | 1 | 0 | 4 |
+| shigellosis | 0 | 1 | 0 | 0 | 1 | 0 | 0 | 2 |
 
 
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 24-48 (rabies)
+
+- [Colorado mulls rule that would raise minimum age of imported pets to curb rabies](https://www.denverpost.com/2024/11/23/colorado-considering-imported-pets-rule-curb-rabies/) (The Denver Post)
+
+## 24-48 (h5n1)
+
+- [日本と韓国から家禽肉・家禽製品の輸入を一時停止＝香港](https://www.afpbb.com/articles/-/3550357) (Afpbb.com)
+
+## 24-48 (dengue)
+
+- [Dengue in Westbengal: শীতেও ডেঙ্গুর বাড়বাড়ন্ত, চিন্তার ভাঁজ স্বাস্থ্য দফতরের কপালে](https://bengali.indianexpress.com/west-bengal/dengue-cases-rising-in-west-bengal-day-by-day-govt-says-situation-under-control-7604565) (The Indian Express)
 
 ## 24-47 (zika)
 
@@ -54,6 +66,8 @@ Source: [News API](https://newsapi.org/)
 - [There Are Three Main Reasons You Are Alive Right Now. RFK Jr. Is Fighting Tooth and Nail Against One of Them.](https://slate.com/technology/2024/11/trump-rfk-jr-bird-flu-vaccines-raw-milk.html) (Slate Magazine)
 
 ## 24-47 (rabies)
+
+- [Boldy James - The Bricktionary (2024)](https://post.rlsbb.cc/boldy-james-the-bricktionary-2024/) (Rlsbb.cc)
 
 - [Florida Department of Health Issues Rabies Alert for Viera After Captured Fox Tests Positive - Space Coast Daily](https://spacecoastdaily.com/2024/11/florida-department-of-health-issues-rabies-alert-for-viera-after-captured-fox-tests-positive/) (SpaceCoastDaily.com)
 
@@ -80,6 +94,8 @@ Source: [News API](https://newsapi.org/)
 - [What Does it Mean to Own the Next 4 Years?](https://sciencebasedmedicine.org/ownit2/) (Sciencebasedmedicine.org)
 
 ## 24-47 (mpox)
+
+- [Mpox: OMS aprova primeira vacina para uso emergencial em crianças](https://gizmodo.uol.com.br/mpox-oms-aprova-primeira-vacina-para-uso-emergencial-em-criancas/) (Uol.com.br)
 
 - [OMS mantiene su nivel máximo de alerta con respecto a la epidemia de mpox](https://www.montevideo.com.uy/Salud/OMS-mantiene-su-nivel-maximo-de-alerta-con-respecto-a-la-epidemia-de-mpox-uc907415) (Montevideo.com.uy)
 
@@ -2739,6 +2755,12 @@ Source: [News API](https://newsapi.org/)
 
 - [В Зимбабве зафиксировали два первых случая заражения оспой обезьян](https://news.mail.ru/incident/63197353/) (Mail.ru)
 
+- [Zimbabwe reports two mpox cases](https://www.thestar.com.my/news/world/2024/10/14/zimbabwe-reports-two-mpox-cases) (The Star Online)
+
+- [Zimbabwe reports first two mpox cases of unspecified variant](https://www.thestar.com.my/news/world/2024/10/13/zimbabwe-reports-first-two-mpox-cases-of-unspecified-variant) (The Star Online)
+
+- [First mpox diagnostic test approved by WHO](https://www.thestar.com.my/lifestyle/health/2024/10/13/first-mpox-diagnostic-test-approved-by-who) (The Star Online)
+
 ## 24-42 (meningitis)
 
 - [Meningococcal disease confirmed at Bonham Elementary School](https://www.fox26houston.com/news/meningococcal-disease-confirmed-bonham-elementary-school) (fox26houston.com)
@@ -2828,6 +2850,10 @@ Source: [News API](https://newsapi.org/)
 - [‘Real and significant threat’: Federal government pledges $95 million to prepare for arrival of deadly bird flu strain H5N1](https://www.skynews.com.au/lifestyle/health/real-and-significant-threat-federal-government-pledges-95-million-to-prepare-for-arrival-of-deadly-bird-flu-strain-h5n1/news-story/b19142b01e36899ca631b650fb092869) (Sky News Australia)
 
 - [Voice to Parliament: One year on](https://www.crikey.com.au/2024/10/14/indigenous-voice-to-parliament-anniversary-bird-flu-h5n1/) (Crikey)
+
+- [Australia commits $64 million to protect against looming bird flu threat](https://www.japantimes.co.jp/news/2024/10/13/asia-pacific/australia-bird-flu-funding/) (The Japan Times)
+
+- [Labor sets out $95 million to combat potential arrival of deadly bird flu strain H5N1](https://www.abc.net.au/news/2024-10-13/labor-announces-95m-in-funding-for-bird-flu-h5n1/104467622) (ABC News (AU))
 
 ## 24-42 (dengue)
 
@@ -2924,6 +2950,10 @@ Source: [News API](https://newsapi.org/)
 - [Bangladesh records highest daily spike of 9 dengue deaths this year](http://en.people.cn/n3/2024/1014/c90000-20229117.html) (People.cn)
 
 - [Dengue deaths, cases in Bacolod increasing further](https://rpnradio.com/dengue-deaths-cases-in-bacolod-increasing-further/) (Rpnradio.com)
+
+- [First diphtheria death in Ferozepur: 3-Year-old girl dies from bacterial infection](https://timesofindia.indiatimes.com/city/chandigarh/first-diphtheria-death-in-ferozepur-3-year-old-girl-dies-from-bacterial-infection/articleshow/114194849.cms) (The Times of India)
+
+- [Dengue: 4 more die, 660 hospitalised in 24hrs](https://www.tbsnews.net/bangladesh/health/dengue-4-more-die-660-hospitalised-24hrs-965891) (Tbsnews.net)
 
 ## 24-42 (chikungunya)
 
