@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 6
-- **Last harvest:** 2024-11-26 07:07
-- **Most recent article:** 2024-11-25 07:04:35
+- **New articles in last harvest:** 16
+- **Last harvest:** 2024-11-26 19:05
+- **Most recent article:** 2024-11-25 18:22:46
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-42 | 24-43 | 24-44 | 24-45 | 24-46 | 24-47 | 24-48 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 81 | 131 | 75 | 63 | 62 | 76 | 3 | 491 |
-| dengue | 49 | 53 | 31 | 31 | 36 | 28 | 6 | 234 |
-| h5n1 | 18 | 12 | 61 | 36 | 40 | 50 | 5 | 222 |
+| mpox | 78 | 131 | 75 | 63 | 62 | 76 | 4 | 489 |
+| dengue | 47 | 53 | 31 | 31 | 36 | 28 | 11 | 237 |
+| h5n1 | 16 | 12 | 61 | 36 | 40 | 50 | 11 | 226 |
 | malaria | 18 | 58 | 16 | 26 | 33 | 27 | 3 | 181 |
 | measles | 3 | 1 | 13 | 3 | 33 | 11 | 1 | 65 |
-| rabies | 7 | 3 | 10 | 5 | 11 | 7 | 2 | 45 |
-| zika | 6 | 6 | 3 | 9 | 4 | 3 | 0 | 31 |
+| rabies | 7 | 3 | 10 | 5 | 11 | 7 | 4 | 47 |
+| zika | 6 | 6 | 3 | 9 | 4 | 3 | 1 | 32 |
 | pertussis | 9 | 3 | 1 | 3 | 8 | 5 | 0 | 29 |
-| chikungunya | 4 | 7 | 2 | 2 | 3 | 5 | 0 | 23 |
+| chikungunya | 4 | 7 | 2 | 2 | 3 | 5 | 3 | 26 |
 | hpai | 2 | 2 | 7 | 4 | 4 | 4 | 0 | 23 |
 | meningitis | 1 | 6 | 3 | 5 | 2 | 5 | 0 | 22 |
 | leptospirosis | 0 | 0 | 3 | 10 | 3 | 0 | 0 | 16 |
@@ -33,17 +33,27 @@ Source: [News API](https://newsapi.org/)
 
 ---
 
+## 24-48 (zika)
+
+- [Effects of copper nanoparticles synthesized from the entomopathogen Metarhizium robertsii against the dengue vector Aedes albopictus (Skuse, 1894)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0314279) (Plos.org)
+
 ## 24-48 (typhoid)
 
 - [NGO screens children for HIV, hepatitis](https://punchng.com/ngo-screens-children-for-hiv-hepatitis/) (The Punch)
 
 ## 24-48 (rabies)
 
+- [Big Bad Wolves (2013)](https://www.kino-zeit.de/film-kritiken-trailer/big-bad-wolves) (Kino-zeit.de)
+
+- [Examining the molecular clock hypothesis for the contemporary evolution of the rabies virus](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012740) (Plos.org)
+
 - [Boldy James and Benny The Butcher Play With Art and Reality On ‘Rabies’](http://www.rollingstone.com/music/music-features/boldy-james-and-benny-the-butcher-rabies-new-song-1235176806/) (Rolling Stone)
 
 - [Colorado mulls rule that would raise minimum age of imported pets to curb rabies](https://www.denverpost.com/2024/11/23/colorado-considering-imported-pets-rule-curb-rabies/) (The Denver Post)
 
 ## 24-48 (mpox)
+
+- [City scientists discover novel approach to detect Mpox virus](https://timesofindia.indiatimes.com/city/bengaluru/breakthrough-in-mpox-virus-detection-new-method-developed-by-city-scientists/articleshow/115669330.cms) (The Times of India)
 
 - [OMS decide que mpox ainda figura como emergência global](https://dinheirama.com/oms-decide-que-mpox-ainda-figura-como-emergencia-global/) (Dinheirama.com)
 
@@ -65,6 +75,18 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-48 (h5n1)
 
+- [Older people may have better immunity against bird flu virus](https://www.newscientist.com/article/2457782-older-people-may-have-better-immunity-against-bird-flu-virus/) (New Scientist)
+
+- [Bird Flu Confirmed In Human Child](https://www.shtfplan.com/member-exclusive/bird-flu-confirmed-in-human-child) (Shtfplan.com)
+
+- [Monday headlines: Desolate streams](https://themorningnews.org/p/monday-headlines-desolate-streams) (Themorningnews.org)
+
+- [In den USA und Kanada - Kind und Teenager mit Vogelgrippe infiziert](https://www.bild.de/leben-wissen/vogelgrippe-virus-h5n1-kind-und-teenager-mit-vogelgrippe-infiziert-6744584ae7f5a002d28a5235) (Bild)
+
+- [America’s Alarming Bird-Flu Strategy: Hope for the Best](http://nymag.com/intelligencer/article/is-bird-flu-inching-closer-to-becoming-a-pandemic.html) (New York Magazine)
+
+- [Raw Milk Recall as Bird Flu Found During Test](https://www.newsweek.com/raw-milk-recall-bird-flu-1990942) (Newsweek)
+
 - [Avian flu virus sparks mammal mutation concerns in Quebec](https://montrealgazette.com/news/local-news/avian-flu-virus-sparks-mammal-mutation-concerns-in-quebec) (Montreal Gazette)
 
 - [Erstmals Kind in den USA mit Vogelgrippe infiziert](https://www.diepresse.com/19105604/erstmals-kind-in-den-usa-mit-vogelgrippe-infiziert) (Diepresse.com)
@@ -77,6 +99,16 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-48 (dengue)
 
+- [El ECDC notifica más de 14 millones de casos de dengue y 10.000 muertes relacionadas este año a nivel mundial](https://www.infosalus.com/salud-investigacion/noticia-ecdc-notifica-mas-14-millones-casos-dengue-10000-muertes-relacionadas-ano-nivel-mundial-20241125192246.html) (Infosalus.com)
+
+- [Effects of copper nanoparticles synthesized from the entomopathogen Metarhizium robertsii against the dengue vector Aedes albopictus (Skuse, 1894)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0314279) (Plos.org)
+
+- [The impact of COVID-19 mobility restrictions on dengue transmission in urban areas](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012644) (Plos.org)
+
+- [Clinical and laboratory comparison of severe (Group B and C) Dengue cases with molecular characterization from 2019 epidemics in Dhaka, Bangladesh](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012686) (Plos.org)
+
+- [Período chuvoso redobra cuidados para a prevenção e combate à dengue](https://www.metropoles.com/conteudo-especial/combate-a-dengue) (Metropoles.com)
+
 - [കേരളം കാണാൻ വന്ന അയര്‍ലന്‍ഡുകാരന്റെ ജീവനെടുത്ത ഡെങ്കി; മരണം ഇന്ന് മടങ്ങാനിരിക്കെ; വേണം ജാഗ്രത, dengue fever, symptoms of dengue fever, dengue fever death kerala](https://www.mathrubhumi.com/health/news/hike-in-dengue-fever-cases-in-kochi-kerala-1.10108455) (Mathrubhumi.com)
 
 - [Wolbachia mosquito releases to reach 50% of all Singapore households by 2026 to combat dengue](https://www.channelnewsasia.com/singapore/wolbachia-aedes-mosquito-dengue-50-all-households-2026-4768391) (CNA)
@@ -88,6 +120,14 @@ Source: [News API](https://newsapi.org/)
 - [Alejandro Svarch * y José Moya **: Calor, humedad y mosquitos: crónica de una temporada de dengue](https://www.jornada.com.mx/2024/11/24/politica/012a2pol) (Jornada.com.mx)
 
 - [Dengue in Westbengal: শীতেও ডেঙ্গুর বাড়বাড়ন্ত, চিন্তার ভাঁজ স্বাস্থ্য দফতরের কপালে](https://bengali.indianexpress.com/west-bengal/dengue-cases-rising-in-west-bengal-day-by-day-govt-says-situation-under-control-7604565) (The Indian Express)
+
+## 24-48 (chikungunya)
+
+- [El ECDC notifica 480.000 casos del virus de Chikungunya y 190 muertes en todo el mundo](https://www.infosalus.com/salud-investigacion/noticia-ecdc-notifica-480000-casos-virus-chikungunya-190-muertes-todo-mundo-20241125191117.html) (Infosalus.com)
+
+- [Effects of copper nanoparticles synthesized from the entomopathogen Metarhizium robertsii against the dengue vector Aedes albopictus (Skuse, 1894)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0314279) (Plos.org)
+
+- [IPN desarrolla vacunas experimentales contra los virus tropicales](https://www.jornada.com.mx/2024/11/25/politica/015n2pol) (Jornada.com.mx)
 
 ## 24-47 (zika)
 
@@ -2799,12 +2839,6 @@ Source: [News API](https://newsapi.org/)
 
 - [В Зимбабве зафиксировали два первых случая заражения оспой обезьян](https://news.mail.ru/incident/63197353/) (Mail.ru)
 
-- [Zimbabwe reports two mpox cases](https://www.thestar.com.my/news/world/2024/10/14/zimbabwe-reports-two-mpox-cases) (The Star Online)
-
-- [Zimbabwe reports first two mpox cases of unspecified variant](https://www.thestar.com.my/news/world/2024/10/13/zimbabwe-reports-first-two-mpox-cases-of-unspecified-variant) (The Star Online)
-
-- [First mpox diagnostic test approved by WHO](https://www.thestar.com.my/lifestyle/health/2024/10/13/first-mpox-diagnostic-test-approved-by-who) (The Star Online)
-
 ## 24-42 (meningitis)
 
 - [Meningococcal disease confirmed at Bonham Elementary School](https://www.fox26houston.com/news/meningococcal-disease-confirmed-bonham-elementary-school) (fox26houston.com)
@@ -2894,10 +2928,6 @@ Source: [News API](https://newsapi.org/)
 - [‘Real and significant threat’: Federal government pledges $95 million to prepare for arrival of deadly bird flu strain H5N1](https://www.skynews.com.au/lifestyle/health/real-and-significant-threat-federal-government-pledges-95-million-to-prepare-for-arrival-of-deadly-bird-flu-strain-h5n1/news-story/b19142b01e36899ca631b650fb092869) (Sky News Australia)
 
 - [Voice to Parliament: One year on](https://www.crikey.com.au/2024/10/14/indigenous-voice-to-parliament-anniversary-bird-flu-h5n1/) (Crikey)
-
-- [Australia commits $64 million to protect against looming bird flu threat](https://www.japantimes.co.jp/news/2024/10/13/asia-pacific/australia-bird-flu-funding/) (The Japan Times)
-
-- [Labor sets out $95 million to combat potential arrival of deadly bird flu strain H5N1](https://www.abc.net.au/news/2024-10-13/labor-announces-95m-in-funding-for-bird-flu-h5n1/104467622) (ABC News (AU))
 
 ## 24-42 (dengue)
 
@@ -2994,10 +3024,6 @@ Source: [News API](https://newsapi.org/)
 - [Bangladesh records highest daily spike of 9 dengue deaths this year](http://en.people.cn/n3/2024/1014/c90000-20229117.html) (People.cn)
 
 - [Dengue deaths, cases in Bacolod increasing further](https://rpnradio.com/dengue-deaths-cases-in-bacolod-increasing-further/) (Rpnradio.com)
-
-- [First diphtheria death in Ferozepur: 3-Year-old girl dies from bacterial infection](https://timesofindia.indiatimes.com/city/chandigarh/first-diphtheria-death-in-ferozepur-3-year-old-girl-dies-from-bacterial-infection/articleshow/114194849.cms) (The Times of India)
-
-- [Dengue: 4 more die, 660 hospitalised in 24hrs](https://www.tbsnews.net/bangladesh/health/dengue-4-more-die-660-hospitalised-24hrs-965891) (Tbsnews.net)
 
 ## 24-42 (chikungunya)
 

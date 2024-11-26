@@ -1,8 +1,298 @@
 {
-  "last_updated": "2024-11-26 07:07",
-  "count_articles_total": 1346,
-  "count_articles_new": 6,
+  "last_updated": "2024-11-26 19:05",
+  "count_articles_total": 1355,
+  "count_articles_new": 16,
   "articles": [
+    {
+      "id": 15894,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "El ECDC notifica m\u00e1s de 14 millones de casos de dengue y 10.000 muertes relacionadas este a\u00f1o a nivel mundial",
+      "description": "El Centro Europeo para la Prevenci\u00f3n y Control de Enfermedades (ECDC) ha informado de la notificaci\u00f3n de m\u00e1s de 14 millones de casos de dengue y 10.000 muertes relacionadas con la enfermedad desde principios de a\u00f1o a nivel mundial.",
+      "url": "https://www.infosalus.com/salud-investigacion/noticia-ecdc-notifica-mas-14-millones-casos-dengue-10000-muertes-relacionadas-ano-nivel-mundial-20241125192246.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20241125192246_1200.jpg",
+      "publishedAt": "2024-11-25 18:22:46",
+      "content": "MADRID 25 Nov. (EUROPA PRESS) - El Centro Europeo para la Prevenci\u00f3n y Control de Enfermedades (ECDC) ha informado de la notificaci\u00f3n de m\u00e1s de 14 millones de casos de dengue y 10.000 muertes rela\u2026 [+1703 chars]",
+      "retrievedAt": "2024-11-26 19:05:53.494010",
+      "internal_id": "258198720d8301df2e45eb236ab39753d27b286cca90842a96338086cd82dad6",
+      "publishedAtLabel": "Nov 25"
+    },
+    {
+      "id": 15896,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "El ECDC notifica 480.000 casos del virus de Chikungunya y 190 muertes en todo el mundo",
+      "description": "El Centro Europeo para la Prevenci\u00f3n y el Control de Enfermedades (ECDC, por sus siglas en ingl\u00e9s) ha informado de que en este a\u00f1o 2024 se han notificado aproximadamente 480.000 casos del virus de Chikungunya (CHIKVD) y 190 muertes en todo el mundo.",
+      "url": "https://www.infosalus.com/salud-investigacion/noticia-ecdc-notifica-480000-casos-virus-chikungunya-190-muertes-todo-mundo-20241125191117.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20241125191117_1200.jpg",
+      "publishedAt": "2024-11-25 18:11:17",
+      "content": "MADRID 25 Nov. (EUROPA PRESS) - El Centro Europeo para la Prevenci\u00f3n y el Control de Enfermedades (ECDC, por sus siglas en ingl\u00e9s) ha informado de que en este a\u00f1o 2024 se han notificado aproximada\u2026 [+1812 chars]",
+      "retrievedAt": "2024-11-26 19:05:55.590398",
+      "internal_id": "9b46d74c8858ef4f6b047760bc5928efb73f46f6d7cec60c84a5b624f49adcce",
+      "publishedAtLabel": "Nov 25"
+    },
+    {
+      "id": 15897,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Chethan Kumar",
+      "title": "City scientists discover novel approach to detect Mpox virus",
+      "description": "Scientists at JNCASR have developed a groundbreaking method for detecting the monkeypox virus (Mpox), utilizing innovative DNA structures for precise diagnosis and potential therapeutic applications. This novel approach addresses global public health concerns\u2026",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/breakthrough-in-mpox-virus-detection-new-method-developed-by-city-scientists/articleshow/115669330.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-11-25 18:03:39",
+      "content": "Persimmon: Nutrients, health benefits of this vibrant orange colored fruit",
+      "retrievedAt": "2024-11-26 19:05:56.349102",
+      "internal_id": "55c01f71eee4d27ba8294a26ab1e6f6a2dc5727106adf11d90389a4492b96f06",
+      "publishedAtLabel": "Nov 25"
+    },
+    {
+      "id": 15884,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "new-scientist",
+      "source_name": "New Scientist",
+      "author": "Carissa Wong",
+      "title": "Older people may have better immunity against bird flu virus",
+      "description": "Most people born before 1968 have antibodies against flu viruses similar to the H5N1 strain circulating today, which might lower their risk of severe illness",
+      "url": "https://www.newscientist.com/article/2457782-older-people-may-have-better-immunity-against-bird-flu-virus/",
+      "urlToImage": "https://images.newscientist.com/wp-content/uploads/2024/11/25152816/SEI_230441927.jpg",
+      "publishedAt": "2024-11-25 18:00:42",
+      "content": "The H5N1 bird flu virus has caused sporadic cases in humans Luca Bruno/Associated Press/Alamy If the H5N1 bird flu virus sparks a pandemic, older people may have better immunity than younger people\u2026 [+416 chars]",
+      "retrievedAt": "2024-11-26 19:05:52.788342",
+      "internal_id": "a6c2a4fd3b06dd05e5076f3fa09f6bbde422e7d7e558cc2fcfeededaa54b2e23",
+      "publishedAtLabel": "Nov 25"
+    },
+    {
+      "id": 15885,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Shtfplan.com",
+      "author": "Mac Slavo",
+      "title": "Bird Flu Confirmed In Human Child",
+      "description": "The health \"experts\" are \"on alert\" after the first case of bird flu has been found in a child. The Centers for Disease Control and Prevention (CDC) confirmed a case of avian influenza (H5N1) in a boy in California on November 22nd.",
+      "url": "https://www.shtfplan.com/member-exclusive/bird-flu-confirmed-in-human-child",
+      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2024/11/birdflu.jpg",
+      "publishedAt": "2024-11-25 16:00:55",
+      "content": "Commenting Policy: Some comments on this web site are automatically moderated through our Spam protection systems. Please be patient if your comment isn\u2019t immediately available. We\u2019re not trying to \u2026 [+423 chars]",
+      "retrievedAt": "2024-11-26 19:05:52.818072",
+      "internal_id": "ff1a798428fd56ab59c5f2f97e6fde7c4f60692c38fc49cfecd898e9468aad91",
+      "publishedAtLabel": "Nov 25"
+    },
+    {
+      "id": 15889,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Themorningnews.org",
+      "author": null,
+      "title": "Monday headlines: Desolate streams",
+      "description": "The ICC's warrants for Netanyahu and Gallant sent shockwaves, but don't expect the Court to rock American Exceptionalism, an \"assertion of who the rules apply to and who they don't.\" / Forever Wars The first known H5N1 infection in a child in the US was conf\u2026",
+      "url": "https://themorningnews.org/p/monday-headlines-desolate-streams",
+      "urlToImage": "https://themorningnews.org/images/tmn-logo-share.png",
+      "publishedAt": "2024-11-25 15:40:00",
+      "content": "\"Donald Trump held a rally at Madison Square Garden last night that was so racist it got the New York Times to dust off the actual word 'racist' and use it in a headline.\" / Welcome to Hell World A \u2026 [+2216 chars]",
+      "retrievedAt": "2024-11-26 19:05:52.886408",
+      "internal_id": "4c3083b4c96194c7c538e41e3e5dc21712e0fb399c811b283c38df1de9ec55fe",
+      "publishedAtLabel": "Nov 25"
+    },
+    {
+      "id": 15883,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Kino-zeit.de",
+      "author": "kinoadmin",
+      "title": "Big Bad Wolves (2013)",
+      "description": "Film Constantin Film Big Bad Wolves von Aharon Keshales und Navot Papushado Bad cop, bad cop Vor zwei Jahren \u00fcberraschten die israelischen Drehbuchautoren und Regisseure Aharon Keshales und Navot Papushado mit dem Slasher Rabies, d\u2026",
+      "url": "https://www.kino-zeit.de/film-kritiken-trailer/big-bad-wolves",
+      "urlToImage": null,
+      "publishedAt": "2024-11-25 15:36:19",
+      "content": "In B\u00f6ses verhei\u00dfender Zeitlupe und glei\u00dfendem Sonnenlicht spielen Kinder in einem alten Lagergeb\u00e4ude Verstecke. Und wie in Paul Lynchs Prom Night geht das Spiel nicht gut aus. Die Polizei findet eine\u2026 [+2416 chars]",
+      "retrievedAt": "2024-11-26 19:05:51.438393",
+      "internal_id": "25573c37fa259a6c21dc0384c8a590db6a9e84586d63bad12c68461ca77d68d1",
+      "publishedAtLabel": "Nov 25"
+    },
+    {
+      "id": 15887,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "bild",
+      "source_name": "Bild",
+      "author": "BILD",
+      "title": "In den USA und Kanada - Kind und Teenager mit Vogelgrippe infiziert",
+      "description": "Zwei Vogelgrippe-F\u00e4lle geben Wissenschaftlern Anlass zur Sorge. Zum einen wurde in den USA die erste Infektion eines Kindes festgestellt. Zum anderen entdeckten Fachleute das Virus bei einem kanadischen Teenager.",
+      "url": "https://www.bild.de/leben-wissen/vogelgrippe-virus-h5n1-kind-und-teenager-mit-vogelgrippe-infiziert-6744584ae7f5a002d28a5235",
+      "urlToImage": "https://images.bild.de/6744584ae7f5a002d28a5235/6fc4703951739734074ba0c8596f9185,1e6d7df0?w=1280",
+      "publishedAt": "2024-11-25 15:34:10",
+      "content": "Zwei Vogelgrippe-F\u00e4lle geben Wissenschaftlern Anlass zur Sorge. Zum einen wurde in den USA die erste Infektion eines Kindes mit dem Vogelgrippe-Virus H5N1 festgestellt. Zum anderen entdeckten Fachleu\u2026 [+1814 chars]",
+      "retrievedAt": "2024-11-26 19:05:52.844638",
+      "internal_id": "82fe489f6c6b38645587c59bded9109aff9fe25da155b7185cdd155fef53a03d",
+      "publishedAtLabel": "Nov 25"
+    },
+    {
+      "id": 15882,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Rowan Durrant, Christina A. Cobbold, Kirstyn Brunker, Kathryn Campbell, Jonathan Dushoff, Elaine A. Ferguson, Gurdeep Jaswant, Ahmed Lugelo, Kennedy Lushasi, Lwitiko Sikana, Katie Hampson",
+      "title": "Examining the molecular clock hypothesis for the contemporary evolution of the rabies virus",
+      "description": "Author summary Rabies is a neglected disease that kills around 60,000 people each year. After entering the body, the incubation period of the virus is usually less than one month, but can sometimes span months to years. While we normally assume a virus accumu\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012740",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1012740.g004&size=inline",
+      "publishedAt": "2024-11-25 14:00:00",
+      "content": "Abstract The molecular clock hypothesis assumes that mutations accumulate on an organisms genome at a constant rate over time, but this assumption does not always hold true. While modelling approach\u2026 [+46742 chars]",
+      "retrievedAt": "2024-11-26 19:05:51.411310",
+      "internal_id": "7494b4e3105f92d17f3f0c84285446b4861f4a333c5e1b553ff59225c998fe4b",
+      "publishedAtLabel": "Nov 25"
+    },
+    {
+      "id": 15890,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Perumal Vivekanandhan, Kannan Swathy, Pittarate Sarayut, Patcharin Krutmuang",
+      "title": "Effects of copper nanoparticles synthesized from the entomopathogen Metarhizium robertsii against the dengue vector Aedes albopictus (Skuse, 1894)",
+      "description": "Aedes albopictus, known as the Asian tiger mosquito, is a significant vector for dengue fever, chikungunya, zika virus, yellow fever. Current control methods rely on chemical insecticides, which face challenges such as resistance, environmental harm, and impa\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0314279",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0314279.g008&size=inline",
+      "publishedAt": "2024-11-25 14:00:00",
+      "content": "Citation: Vivekanandhan P, Swathy K, Sarayut P, Krutmuang P (2024) Effects of copper nanoparticles synthesized from the entomopathogen Metarhizium robertsii against the dengue vector Aedes albopictus\u2026 [+35470 chars]",
+      "retrievedAt": "2024-11-26 19:05:53.443442",
+      "internal_id": "70006f70fb214c73b54a68b9198a57204c370ce459de8515356a8df63bbc3e1a",
+      "publishedAtLabel": "Nov 25"
+    },
+    {
+      "id": 15892,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Jorge L. B. Ara\u00fajo, Rafael Bomfim, Cesar I. N. Sampaio Filho, Luciano P. G. Cavalcanti, Antonio S. Lima Neto, Jos\u00e9 S. Andrade Jr., Vasco Furtado",
+      "title": "The impact of COVID-19 mobility restrictions on dengue transmission in urban areas",
+      "description": "Author summary In our study, we discovered a surprising connection between mobility restrictions during the COVID-19 pandemic and the reduction in the spread of dengue, a mosquito-borne disease. We analyzed data from a large city over several years, including\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012644",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012644.g007&size=inline",
+      "publishedAt": "2024-11-25 14:00:00",
+      "content": "Citation: Ara\u00fajo JLB, Bomfim R, Sampaio Filho CIN, Cavalcanti LPG, Lima Neto AS, Andrade JS Jr, et al. (2024) The impact of COVID-19 mobility restrictions on dengue transmission in urban areas. PLoS \u2026 [+45371 chars]",
+      "retrievedAt": "2024-11-26 19:05:53.469336",
+      "internal_id": "4b63f5019be6d4b7bb3dba006da23bc685cf8a2483319c8c6451bcceefadf26b",
+      "publishedAtLabel": "Nov 25"
+    },
+    {
+      "id": 15893,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Fazle Rabbi Chowdhury, Zazeba Hossain, Nahid Parvez, Forhad Uddin Hasan Chowdhury, Mohammad Anwarul Bari, Sudip Ranjan Deb, Mustak Ibn Ayub, Md Uzzwal Mallik, Sakib Aman, Mohammad Ahsanul Haque, Md Arman Hossain, Murada Alam, Muhammad Kamrul Islam, Md Mujibur Rahman",
+      "title": "Clinical and laboratory comparison of severe (Group B and C) Dengue cases with molecular characterization from 2019 epidemics in Dhaka, Bangladesh",
+      "description": "Author summary Bangladesh experienced an unprecedented dengue surge in 2019. This cross sectional study was done in 3 hospitals in Dhaka, Bangladesh spanning from 1st July to 31st December, 2019 enrolling a total of 1978 participants. We observed a shift of c\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012686",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012686.g004&size=inline",
+      "publishedAt": "2024-11-25 14:00:00",
+      "content": "Abstract Acute arboviral infections like dengue have a significant negative socioeconomic and health impact on many tropical and subtropical areas of the world. About 3.9 billion Individuals are at \u2026 [+42445 chars]",
+      "retrievedAt": "2024-11-26 19:05:53.475993",
+      "internal_id": "e389a6e5394380a052f4f7f2c21db276890f0d12f5062638f1d43fb264ecea82",
+      "publishedAtLabel": "Nov 25"
+    },
+    {
+      "id": 15888,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "new-york-magazine",
+      "source_name": "New York Magazine",
+      "author": "Benjamin Hart",
+      "title": "America\u2019s Alarming Bird-Flu Strategy: Hope for the Best",
+      "description": "America\u2019s lackluster response to an increasingly concerning bird-flu outbreak helps raise the risk of a larger crisis, Professors David O\u2019Connor and Tom Friedrich say.",
+      "url": "http://nymag.com/intelligencer/article/is-bird-flu-inching-closer-to-becoming-a-pandemic.html",
+      "urlToImage": "https://pyxis.nymag.com/v1/imgs/2bb/520/1a6c694aaee5d08fe34a833859efd7d525-JAQ-avianflu.1x.rsocial.w1200.jpg",
+      "publishedAt": "2024-11-25 11:00:39",
+      "content": "H5N1, a subtype of avian flu, has been a major issue for American farmers since 2020. But its increasingly becoming a problem for people, too. Initially confined to poultry, the virus has spread to s\u2026 [+20953 chars]",
+      "retrievedAt": "2024-11-26 19:05:52.857168",
+      "internal_id": "f46a1f8f41eb15776497175562a9e7e0535799f42ee4a7d91b57e86b3bbf4cd1",
+      "publishedAtLabel": "Nov 25"
+    },
+    {
+      "id": 15895,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "title": "IPN desarrolla vacunas experimentales contra los virus tropicales",
+      "description": "Con el Laboratorio Nacional de Vacunolog\u00eda y Virus Tropicales (Lnvyvt), de alta contenci\u00f3n biol\u00f3gica, el Instituto Polit\u00e9cnico Nacional (IPN) desarolla vacunas experimentales y vectores vacunales en el estudio de virus tropicales, entre ellos Chikungunya y Ma\u2026",
+      "url": "https://www.jornada.com.mx/2024/11/25/politica/015n2pol",
+      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "publishedAt": "2024-11-25 09:56:19",
+      "content": "Peri\u00f3dico La JornadaLunes 25 de noviembre de 2024, p. 15 Con el Laboratorio Nacional de Vacunolog\u00eda y Virus Tropicales (Lnvyvt), de alta contenci\u00f3n biol\u00f3gica, el Instituto Polit\u00e9cnico Nacional (IPN)\u2026 [+1516 chars]",
+      "retrievedAt": "2024-11-26 19:05:55.563680",
+      "internal_id": "09bcf9f3252244ce57744e2fd8e58f7468769853a9eb8661328cf92914561712",
+      "publishedAtLabel": "Nov 25"
+    },
+    {
+      "id": 15886,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Lottie McGrath",
+      "title": "Raw Milk Recall as Bird Flu Found During Test",
+      "description": "Robert F. Kennedy Jr., Donald Trump's health secretary pick, has promoted raw milk, which contains bacteria that can cause illness.",
+      "url": "https://www.newsweek.com/raw-milk-recall-bird-flu-1990942",
+      "urlToImage": "https://d.newsweek.com/en/full/2528818/h5n1.jpg",
+      "publishedAt": "2024-11-25 09:52:55",
+      "content": "A dairy farm in California has issued a voluntary raw milk recall after H5N1 bird flu was detected in samples. Raw Farm, in Fresno, is recalling cream-top raw milk products produced on November 9. T\u2026 [+4529 chars]",
+      "retrievedAt": "2024-11-26 19:05:52.826660",
+      "internal_id": "7e6eb17374f0ce37fd173139b3b3432ba4fbde8064be7aae1af0b7b57009baaf",
+      "publishedAtLabel": "Nov 25"
+    },
+    {
+      "id": 15891,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Conte\u00fado Especial",
+      "title": "Per\u00edodo chuvoso redobra cuidados para a preven\u00e7\u00e3o e combate \u00e0 dengue",
+      "description": "At\u00e9 o in\u00edcio de novembro, foram contabilizados mais de 276,5 mil casos da doen\u00e7a no DF, a pior epidemia de dengue da hist\u00f3ria",
+      "url": "https://www.metropoles.com/conteudo-especial/combate-a-dengue",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2020/02/03150003/Dengue2.jpg",
+      "publishedAt": "2024-11-25 09:00:22",
+      "content": "O Distrito Federal enfrentou a pior epidemia de dengue da hist\u00f3ria em 2024. At\u00e9 o in\u00edcio de novembro, foram contabilizados 319.330 casos da doen\u00e7a. Um n\u00famero que representa 853,7% a mais do que o reg\u2026 [+4551 chars]",
+      "retrievedAt": "2024-11-26 19:05:53.451171",
+      "internal_id": "ba42ab9e794f007cdc932d4d83156846f0c73f7a01cd5870d19bfe64cbd2ce16",
+      "publishedAtLabel": "Nov 25"
+    },
     {
       "id": 15878,
       "query": [
@@ -24159,132 +24449,6 @@
       "content": "VOICE REFERENDUM ANNIVERSARY Today marks one year since Australia voted down a proposal to enshrine an Indigenous Voice to Parliament in the constitution. The AAP this morning quotes a spokesperson \u2026 [+12475 chars]",
       "retrievedAt": "2024-10-15 07:06:26.776795",
       "internal_id": "06ad02bc83552c95a113690de69b653d974edcbfd5eb46cbb16d66f770400d13",
-      "publishedAtLabel": "Oct 13"
-    },
-    {
-      "id": 14538,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "Dinesh K Sharma",
-      "title": "First diphtheria death in Ferozepur: 3-Year-old girl dies from bacterial infection",
-      "description": "Ferozepur's first diphtheria death amid the dengue season triggers alarm as a three-year-old passes away in Faridkot. Health teams conduct surveys, finding one more suspected case but tests negative. Authorities initiate door-to-door surveillance in affected \u2026",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/first-diphtheria-death-in-ferozepur-3-year-old-girl-dies-from-bacterial-infection/articleshow/114194849.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-114194880,width-1070,height-580,imgsize-524198,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-10-13 17:27:06",
-      "content": "What is far-infrared therapy good for?",
-      "retrievedAt": "2024-10-14 19:05:40.512157",
-      "internal_id": "ecd2975479ae8b0f861b894c2ee18393e8be581bfbd304036955ee4be9486078",
-      "publishedAtLabel": "Oct 13"
-    },
-    {
-      "id": 14540,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "Tichaona Chifamba",
-      "title": "Zimbabwe reports two mpox cases",
-      "description": "HARARE, Oct. 13 (Xinhua) -- Zimbabwe on Sunday announced two confirmed cases of mpox in people who have traveled to South Africa and Tanzania. Read full story",
-      "url": "https://www.thestar.com.my/news/world/2024/10/14/zimbabwe-reports-two-mpox-cases",
-      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
-      "publishedAt": "2024-10-13 17:03:00",
-      "content": "HARARE, Oct. 13 (Xinhua) -- Zimbabwe on Sunday announced two confirmed cases of mpox in people who have traveled to South Africa and Tanzania. Zimbabwe's Health and Child Care Minister Douglas Momb\u2026 [+928 chars]",
-      "retrievedAt": "2024-10-14 19:05:42.390223",
-      "internal_id": "06086a8516d330a84ac271b2e82a895a00cbf76715568b83ed3a7aef592fa834",
-      "publishedAtLabel": "Oct 13"
-    },
-    {
-      "id": 14541,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "The Star Online",
-      "title": "Zimbabwe reports first two mpox cases of unspecified variant",
-      "description": "HARARE (Reuters) - Zimbabwe has confirmed its first two cases of mpox, the health ministry said on Sunday, without specifying which variant had been recorded. Read full story",
-      "url": "https://www.thestar.com.my/news/world/2024/10/13/zimbabwe-reports-first-two-mpox-cases-of-unspecified-variant",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/10/13/2962482.jpg",
-      "publishedAt": "2024-10-13 15:58:00",
-      "content": "HARARE (Reuters) - Zimbabwe has confirmed its first two cases of mpox, the health ministry said on Sunday, without specifying which variant had been recorded. The first case was detected in an 11-ye\u2026 [+1192 chars]",
-      "retrievedAt": "2024-10-14 19:05:42.401892",
-      "internal_id": "116525f54e51e2c7abd45e0ce38fa1f2b6bd6ac02de82aaa4cba2153b73e62d2",
-      "publishedAtLabel": "Oct 13"
-    },
-    {
-      "id": 14539,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Tbsnews.net",
-      "author": "Unb",
-      "title": "Dengue: 4 more die, 660 hospitalised in 24hrs",
-      "description": "A total of 42,470 dengue cases have been reported since 1 January 2024",
-      "url": "https://www.tbsnews.net/bangladesh/health/dengue-4-more-die-660-hospitalised-24hrs-965891",
-      "urlToImage": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/09/04/dengue_ward_rajibdhar_0288.jpg",
-      "publishedAt": "2024-10-13 12:53:46",
-      "content": "Four more deaths were reported from dengue in 24 hours till Sunday morning, raising the number of fatalities from the mosquito-borne disease in Bangladesh to 214 this year. During the period, 660 mo\u2026 [+696 chars]",
-      "retrievedAt": "2024-10-14 19:05:40.554552",
-      "internal_id": "18618de64306b6ebbedb3a8ef4ab8d5532a735f2b4083b33bd58241acf3a91b4",
-      "publishedAtLabel": "Oct 13"
-    },
-    {
-      "id": 14542,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "Agency",
-      "title": "First mpox diagnostic test approved by WHO",
-      "description": "The availability of such a test will help speed up identification of mpox patients and help prevent its transmission.",
-      "url": "https://www.thestar.com.my/lifestyle/health/2024/10/13/first-mpox-diagnostic-test-approved-by-who",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/10/11/2959154.jpg",
-      "publishedAt": "2024-10-13 12:33:12",
-      "content": "The World Health Organization (WHO) announced on Oct 4 (2024) that it had approved the use of the first diagnostic test for mpox, a key tool for countries battling outbreaks of this infectious diseas\u2026 [+1499 chars]",
-      "retrievedAt": "2024-10-14 19:05:42.413453",
-      "internal_id": "6c4bcd0cd81f98f672edd0accbe831f9b120493c7ea2ed87cb2a7b029a330b0c",
-      "publishedAtLabel": "Oct 13"
-    },
-    {
-      "id": 14537,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "The Japan Times",
-      "author": "The Japan Times",
-      "title": "Australia commits $64 million to protect against looming bird flu threat",
-      "description": "Oceania is the last region free of the H5N1 clade 2.3.4.4b avian influenza, which has killed hundreds of millions of birds since emerging in 2020.",
-      "url": "https://www.japantimes.co.jp/news/2024/10/13/asia-pacific/australia-bird-flu-funding/",
-      "urlToImage": "https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/13/427549.JPG?v=3.1",
-      "publishedAt": "2024-10-13 11:42:00",
-      "content": "SYDNEY Australia's government said on Sunday it would spend an extra 95 million Australian dollars ($64.13 million) to protect against a destructive bird flu strain that has spread through bird and m\u2026 [+1416 chars]",
-      "retrievedAt": "2024-10-14 19:05:40.172763",
-      "internal_id": "742e0fe55403bcf84740d2b06891cf81af7b9068348b9984e38eb6acb127de4c",
-      "publishedAtLabel": "Oct 13"
-    },
-    {
-      "id": 14536,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "abc-news-au",
-      "source_name": "ABC News (AU)",
-      "author": "Esther Linder",
-      "title": "Labor sets out $95 million to combat potential arrival of deadly bird flu strain H5N1",
-      "description": "Biosecurity, environmental funding for protected native species and a top-up of the national stockpile of flu vaccines are part of preparations for the arrival of H5N1 to Australia.",
-      "url": "https://www.abc.net.au/news/2024-10-13/labor-announces-95m-in-funding-for-bird-flu-h5n1/104467622",
-      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/0b04ad35e96a4248c2825a4d68019d9c?impolicy=wcms_watermark_news&cropH=3233&cropW=5748&xPos=0&yPos=384&width=862&height=485&imformat=generic",
-      "publishedAt": "2024-10-13 11:32:07",
-      "content": "The looming arrival of a deadly strain of bird flu in Australia has prompted the federal government to set up a $95 million preparation fund as part of a swathe of biosecurity and environmental measu\u2026 [+3844 chars]",
-      "retrievedAt": "2024-10-14 19:05:40.122524",
-      "internal_id": "2c124687742780b77f0309fe129d557baf4ecbf028e76d325027c4e90e697d72",
       "publishedAtLabel": "Oct 13"
     }
   ]
