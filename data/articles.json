@@ -1,8 +1,260 @@
 {
-  "last_updated": "2024-11-27 07:07",
-  "count_articles_total": 1372,
-  "count_articles_new": 10,
+  "last_updated": "2024-11-27 19:05",
+  "count_articles_total": 1379,
+  "count_articles_new": 14,
   "articles": [
+    {
+      "id": 15911,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": null,
+      "title": "Temporada de dengue: en busca de evitar faltantes de repelente, la Anmat elimina un requisito para la venta",
+      "description": "Los laboratorios habilitados para producirlos quedar\u00e1n exceptuados de presentar ante la autoridad regulatoria informaci\u00f3n sobre la eficacia de nuevos productos",
+      "url": "https://www.lanacion.com.ar/sociedad/temporada-de-dengue-en-busca-de-evitar-faltantes-de-repelente-la-anmat-elimina-un-requisito-para-su-nid26112024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/el-gobierno-busca-prevenir-falta-de-stock-de-T6UA3NPI5BDEHOWWDNLL2ULK54.jpg?auth=225f8c2380502b74182409104d3c007637a75ead41f260c8a7a451c4d4aa24af&width=1200&quality=70&smart=false&height=800",
+      "publishedAt": "2024-11-26 18:53:06",
+      "content": "Los laboratorios habilitados para producir repelentes quedar\u00e1n exceptuados de presentar ante la autoridad regulatoria informaci\u00f3n sobre la eficacia de un nuevo producto durante esta temporada de deng\u2026 [+2676 chars]",
+      "retrievedAt": "2024-11-27 19:05:54.419608",
+      "internal_id": "869df8c7859934305567683f06e0f8897777b4641f3e324986ff12db2ea1c3e8",
+      "publishedAtLabel": "Nov 26"
+    },
+    {
+      "id": 15915,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "MacRumors",
+      "author": "Joe Rossignol",
+      "title": "Apple Has Scaled Back (PRODUCT)RED Color Option Over Past Few Years",
+      "description": "Since 2006, Apple has partnered with the (RED) brand to raise money for The Global Fund, an organization that aims to combat diseases such as HIV/AIDS, tuberculosis, and malaria in Africa. Through this partnership, Apple has long offered a (PRODUCT)RED color \u2026",
+      "url": "https://www.macrumors.com/2024/11/26/apple-has-scaled-back-productred/",
+      "urlToImage": "https://images.macrumors.com/t/TZJG-cWQuL55OOPaSbF7Gbjkh3c=/1600x/article-new/2024/11/PRODUCT-RED-Products.jpg",
+      "publishedAt": "2024-11-26 18:10:03",
+      "content": "Since 2006, Apple has partnered with the (RED) brand to raise money for The Global Fund, an organization that aims to combat diseases such as HIV/AIDS, tuberculosis, and malaria in Africa. Through th\u2026 [+1401 chars]",
+      "retrievedAt": "2024-11-27 19:05:55.174621",
+      "internal_id": "fbd6a51fa338494d15871f2d9a81bb64a02bc84730d6e5c01b91dc003d3c23cb",
+      "publishedAtLabel": "Nov 26"
+    },
+    {
+      "id": 15913,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": "Greg Norman",
+      "title": "Texas records first locally transmitted dengue fever case of 2024",
+      "description": "The first locally transmitted case of dengue fever in 2024 in Texas has been recorded in Cameron County, the Texas Department of State Health Services says.",
+      "url": "https://www.foxnews.com/health/texas-records-first-locally-transmitted-dengue-fever-case-2024",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/09/mosquito-on-skin.jpg",
+      "publishedAt": "2024-11-26 17:32:25",
+      "content": "Texas first locally transmitted case of dengue fever in 2024 has been recorded as the state is experiencing its highest annual case count in decades, officials say. The mosquito-driven virus was fo\u2026 [+1849 chars]",
+      "retrievedAt": "2024-11-27 19:05:54.444172",
+      "internal_id": "cda5c51f5800b08fbf65085d44325eb12688101921b52599da7720bcfb7c084e",
+      "publishedAtLabel": "Nov 26"
+    },
+    {
+      "id": 15914,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "MacRumors",
+      "author": "Joe Rossignol",
+      "title": "Apple Pay Donation Campaign for World AIDS Day Returns This Friday",
+      "description": "Apple today announced that it will again donate $5 for every purchase made using Apple Pay on Apple.com, through the Apple Store app, or at an Apple Store to The Global Fund to Fight AIDS, Tuberculosis and Malaria from November 29 through December 8. Apple sa\u2026",
+      "url": "https://www.macrumors.com/2024/11/26/apple-pay-world-aids-day-donation-campaign/",
+      "urlToImage": "https://images.macrumors.com/t/9V_Zt4LEE8vg2lN_U0Dtu1_rNzE=/1694x/article-new/2023/11/Apple-Pay-RED-2023.jpg",
+      "publishedAt": "2024-11-26 17:09:02",
+      "content": "Apple today announced that it will again donate $5 for every purchase made using Apple Pay on Apple.com, through the Apple Store app, or at an Apple Store to The Global Fund to Fight AIDS, Tuberculos\u2026 [+768 chars]",
+      "retrievedAt": "2024-11-27 19:05:55.167045",
+      "internal_id": "0561ce10b843f0ca9c9c9fc0090bbff7c5067c3bcb0b3884f8346059998a7e8d",
+      "publishedAtLabel": "Nov 26"
+    },
+    {
+      "id": 15908,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Live Science",
+      "author": "Stephanie Pappas",
+      "title": "How to avoid bird flu",
+      "description": "The vast majority of human cases of H5N1 bird flu in the U.S. have resulted from direct contact with animals, so a few simple precautions can keep most people's risk very low.",
+      "url": "https://www.livescience.com/health/flu/how-to-avoid-bird-flu",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/swAiRVKjT3a4BCPS8jpcdb-1200-80.jpg",
+      "publishedAt": "2024-11-26 15:45:00",
+      "content": "H5N1 bird flu is spreading through poultry and cattle in the United States, and some cases have been reported in people. No human-to-human spread of the virus has been documented, and the vast major\u2026 [+7101 chars]",
+      "retrievedAt": "2024-11-27 19:05:53.573522",
+      "internal_id": "fa37eeb9e3da33e528d5413c0220dffb29b925f90ff3c1a2872a7afad121b978",
+      "publishedAtLabel": "Nov 26"
+    },
+    {
+      "id": 15921,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Jennifer Rigby, Ange Kasongo, Sonia Rolley",
+      "title": "Analysis-New mpox vaccines for Congo's children held up by old problem",
+      "description": "LONDON/KINSHASA (Reuters) - Adults started getting vaccinations against mpox in Democratic Republic of Congo's capital this week. But there were no shots available for children, the most vulnerable group, after a key dose donation was held back by an old lega\u2026",
+      "url": "https://www.thestar.com.my/news/world/2024/11/26/analysis-new-mpox-vaccines-for-congo039s-children-held-up-by-old-problem",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/11/26/3037561.jpg",
+      "publishedAt": "2024-11-26 14:48:00",
+      "content": "LONDON/KINSHASA (Reuters) - Adults started getting vaccinations against mpox in Democratic Republic of Congo's capital this week. But there were no shots available for children, the most vulnerable g\u2026 [+4135 chars]",
+      "retrievedAt": "2024-11-27 19:05:56.081533",
+      "internal_id": "4a7b1a89be7cb288d44766d30565f08c47eb476686197784b1fd98d80d11a6e5",
+      "publishedAtLabel": "Nov 26"
+    },
+    {
+      "id": 15917,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Brian Kennedy",
+      "title": "South Sudan: Surge in admissions for severe malaria among children shows a health system under serious strain",
+      "description": "Healthcare situations in Sudan and South Sudan are continuing to worsen amid threats of armed conflict, population displacements, economic catastrophe, and flooding. Brian Kennedy reports South Sudan is seeing a surge in cases of severe malaria in children, \u2026",
+      "url": "https://www.bmj.com/content/387/bmj.q2649",
+      "urlToImage": "https://www.bmj.com/sites/default/files/highwire/bmj/387/8449.cover-source.jpg",
+      "publishedAt": "2024-11-26 14:41:19",
+      "content": "Healthcare situations in Sudan and South Sudan are continuing to worsen amid threats of armed conflict, population displacements, economic catastrophe, and flooding. Brian Kennedy reports South Suda\u2026 [+934 chars]",
+      "retrievedAt": "2024-11-27 19:05:55.193794",
+      "internal_id": "70f32c21691f10b5d8f467f059c9ba0b40e4b8e81a91e02540c87f27a0767c02",
+      "publishedAtLabel": "Nov 26"
+    },
+    {
+      "id": 15909,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "S\u00fcddeutsche Zeitung",
+      "author": "Von Berit Uhlmann",
+      "title": "Vogelgrippe H5N1: \u201eIch habe ein bisschen Angst, dass hier gerade irgendetwas losgeht\u201c",
+      "description": "In Nordamerika haben sich drei Menschen mit H5N1 infiziert, ohne Kontakt zu Tieren gehabt zu haben. Was das bedeutet.",
+      "url": "https://www.sueddeutsche.de/gesundheit/vogelgrippe-nordamerika-infektionen-mutationen-menschen-li.3153428",
+      "urlToImage": "https://www.sueddeutsche.de/2023/10/10/83c7487e-5443-4615-b2fd-f063188e25c6.jpeg?q=60&fm=webp&width=1200&rect=0%2C0%2C1283%2C722",
+      "publishedAt": "2024-11-26 14:01:45",
+      "content": "In Nordamerika grassiert das Vogelgrippe-Virus H5N1 ungebremst. Kann sich der Erreger an Menschen anpassen?Seit Jahresbeginn verbreitet sich das Vogelgrippevirus H5N1 in Nordamerika nicht nur unter V\u2026 [+317 chars]",
+      "retrievedAt": "2024-11-27 19:05:53.662133",
+      "internal_id": "d4e36920f78d4d4cf035113cc05039f0443479645fd012d7ac5dded052c4b47a",
+      "publishedAtLabel": "Nov 26"
+    },
+    {
+      "id": 15910,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Lembris Laanyuni Njotto, Wilfred Senyoni, Ottmar Cronie, Michael Alifrangis, Anna-Sofie Stensgaard",
+      "title": "Quantitative modelling for dengue and Aedes mosquitoes in Africa: A systematic review of current approaches and future directions for Early Warning System development",
+      "description": "Author summary Infections from dengue and other arboviral mosquito-borne diseases transmitted by Aedes mosquitoes are on the rise globally, with Africa being no exception. Their advances are driven by anthropogenic factors, such as rapid urbanisation, globali\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012679",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012679.g003&size=inline",
+      "publishedAt": "2024-11-26 14:00:00",
+      "content": "Abstract The rapid spread and growing number of dengue cases worldwide, alongside the absence of comprehensive vaccines and medications, highlights the critical need for robust tools to monitor, pre\u2026 [+73682 chars]",
+      "retrievedAt": "2024-11-27 19:05:54.402106",
+      "internal_id": "cdaf7dfec712cae20ab3aa862be958d296668ef1c762b83de78e246873e50ce2",
+      "publishedAtLabel": "Nov 26"
+    },
+    {
+      "id": 15916,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Leganerd.com",
+      "author": "Daniela Giannace",
+      "title": "Zanzare geneticamente modificate: una risorsa per immunizzare contro la malaria",
+      "description": "Le zanzare da sempre sono viste come degli insetti molto fastidiosi, ma in molti sottovalutato il fatto che sono purtroppo anche molto pericolose. Effettivamente, questi insetti volanti trasmettono spesso delle malattie anche piuttosto serie ed importanti. Ad\u2026",
+      "url": "https://leganerd.com/2024/11/26/zanzare-geneticamente-modificate-una-risorsa-per-immunizzare-contro-la-malaria/",
+      "urlToImage": "https://leganerd.com/wp-content/uploads/2024/11/zanzara.jpg",
+      "publishedAt": "2024-11-26 11:56:09",
+      "content": "Le zanzare da sempre sono viste come degli insetti molto fastidiosi, ma in molti sottovalutato il fatto che sono purtroppo anche molto pericolose. Effettivamente, questi insetti volanti trasmettono s\u2026 [+1804 chars]",
+      "retrievedAt": "2024-11-27 19:05:55.181505",
+      "internal_id": "50ae363a1c77b27f96a88e514c4e4deb784f8eb70e633c81b90a1e272ed3573c",
+      "publishedAtLabel": "Nov 26"
+    },
+    {
+      "id": 15919,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Liputan6.com",
+      "author": "Ade Nasihudin Al Ansori",
+      "title": "KLB Malaria Landa Kabupaten Rokan Hilir, PMI Distribusikan 1.500 Kelambu",
+      "description": "Rokan Hilir menjadi salah satu wilayah dengan peningkatan kasus malaria yang signifikan pada 2024, PMI bagikan kelambu.",
+      "url": "https://www.liputan6.com/health/read/5807736/klb-malaria-landa-kabupaten-rokan-hilir-pmi-distribusikan-1500-kelambu",
+      "urlToImage": "https://cdn1-production-images-kly.akamaized.net/M_Iq7i_t0EQPtJ9gPFuqgAChZTk=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/5024341/original/070538500_1732615427-transparent-silk-fabric-material.jpg",
+      "publishedAt": "2024-11-26 10:58:39",
+      "content": "Liputan6.com, Jakarta - Wabah penyakit malaria merebak di Kabupaten Rokan Hilir, Riau. Dengan adanya kasus baru-baru ini, Palang Merah Indonesia (PMI) menyebut kabupaten tersebut tengah mengalami Kej\u2026 [+1134 chars]",
+      "retrievedAt": "2024-11-27 19:05:55.219227",
+      "internal_id": "7d99a20f4fdbafa54c239021b5b1249898f0930650254d4c0194260e31383563",
+      "publishedAtLabel": "Nov 26"
+    },
+    {
+      "id": 15920,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Kalbaronline.com",
+      "author": "Shella Rimang",
+      "title": "Simak Penyebab, Gejala, Pengobatan, dan Pencegahan Malaria Tropika",
+      "description": "KalbarOnline - Malaria tropika merupakan salah satu jenis malaria yang paling serius dan berpotensi mematikan. Penyakit ini disebabkan oleh infeksi Plasmodium falciparum, parasit yang ditularkan melalui gigitan nyamuk Anopheles betina yang terinfeksi. Malar\u2026",
+      "url": "https://kalbaronline.com/2024/11/26/simak-penyebab-gejala-pengobatan-dan-pencegahan-malaria-tropika/",
+      "urlToImage": "https://kalbaronline.com/wp-content/uploads/2024/11/malaria.jpg",
+      "publishedAt": "2024-11-26 10:27:08",
+      "content": "KalbarOnline \u2013 Malaria tropika merupakan salah satu jenis malaria yang paling serius dan berpotensi mematikan. Penyakit ini disebabkan oleh infeksi Plasmodium falciparum, parasit yang ditularkan mel\u2026 [+2246 chars]",
+      "retrievedAt": "2024-11-27 19:05:55.226238",
+      "internal_id": "e6e09af405e90072d2679fac7a2a05a89b079167251276bb3ba64b72a5a4939c",
+      "publishedAtLabel": "Nov 26"
+    },
+    {
+      "id": 15918,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Lara Adejoro",
+      "title": "Nigeria loses $1.1bn annually to malaria, Health minister laments",
+      "description": "The Coordinating Minister of Health and Social Welfare, Prof Muhammad Pate, has said the annual loss to Nigeria\u2019s Gross Domestic Product from malaria exceeds $1.1bn. Pate said this at the inaugural meeting of the Advisory on Malaria Elimination in Nigeria in \u2026",
+      "url": "https://punchng.com/nigeria-loses-1-1bn-annually-to-malaria-health-minister-laments/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2024/11/26102310/Pate.png",
+      "publishedAt": "2024-11-26 10:23:51",
+      "content": "The Coordinating Minister of Health and Social Welfare, Prof Muhammad Pate, has said the annual loss to Nigeria\u2019s Gross Domestic Product from malaria exceeds $1.1bn. Pate said this at the inaugural \u2026 [+2309 chars]",
+      "retrievedAt": "2024-11-27 19:05:55.200350",
+      "internal_id": "3beb27cb722cb32e05f3bfac0371533d82f8d1819b36ee1c1bf71f456d8d5097",
+      "publishedAtLabel": "Nov 26"
+    },
+    {
+      "id": 15912,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Aumento dei casi di febbre dengue a Peshawar",
+      "description": "... (ANSA)",
+      "url": "https://www.ansa.it/sito/photogallery/primopiano/2024/11/26/aumento-dei-casi-di-febbre-dengue-a-peshawar_bb72a231-43e8-4598-957d-7311888ae6ca.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2024/11/26/92a700fc68e3cc4d025e6b50bec79c28.jpg",
+      "publishedAt": "2024-11-26 09:22:42",
+      "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all\u2019abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad \u2026 [+320 chars]",
+      "retrievedAt": "2024-11-27 19:05:54.426273",
+      "internal_id": "b7c7a83086bf15f8fd5e7f538d2434e08b7f5a3113adbba7966755c0b964661c",
+      "publishedAtLabel": "Nov 26"
+    },
     {
       "id": 15907,
       "query": [
@@ -24629,132 +24881,6 @@
       "content": "VOICE REFERENDUM ANNIVERSARY Today marks one year since Australia voted down a proposal to enshrine an Indigenous Voice to Parliament in the constitution. The AAP this morning quotes a spokesperson \u2026 [+12475 chars]",
       "retrievedAt": "2024-10-15 07:06:26.776795",
       "internal_id": "06ad02bc83552c95a113690de69b653d974edcbfd5eb46cbb16d66f770400d13",
-      "publishedAtLabel": "Oct 13"
-    },
-    {
-      "id": 14538,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "Dinesh K Sharma",
-      "title": "First diphtheria death in Ferozepur: 3-Year-old girl dies from bacterial infection",
-      "description": "Ferozepur's first diphtheria death amid the dengue season triggers alarm as a three-year-old passes away in Faridkot. Health teams conduct surveys, finding one more suspected case but tests negative. Authorities initiate door-to-door surveillance in affected \u2026",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/first-diphtheria-death-in-ferozepur-3-year-old-girl-dies-from-bacterial-infection/articleshow/114194849.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-114194880,width-1070,height-580,imgsize-524198,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-10-13 17:27:06",
-      "content": "What is far-infrared therapy good for?",
-      "retrievedAt": "2024-10-14 19:05:40.512157",
-      "internal_id": "ecd2975479ae8b0f861b894c2ee18393e8be581bfbd304036955ee4be9486078",
-      "publishedAtLabel": "Oct 13"
-    },
-    {
-      "id": 14540,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "Tichaona Chifamba",
-      "title": "Zimbabwe reports two mpox cases",
-      "description": "HARARE, Oct. 13 (Xinhua) -- Zimbabwe on Sunday announced two confirmed cases of mpox in people who have traveled to South Africa and Tanzania. Read full story",
-      "url": "https://www.thestar.com.my/news/world/2024/10/14/zimbabwe-reports-two-mpox-cases",
-      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
-      "publishedAt": "2024-10-13 17:03:00",
-      "content": "HARARE, Oct. 13 (Xinhua) -- Zimbabwe on Sunday announced two confirmed cases of mpox in people who have traveled to South Africa and Tanzania. Zimbabwe's Health and Child Care Minister Douglas Momb\u2026 [+928 chars]",
-      "retrievedAt": "2024-10-14 19:05:42.390223",
-      "internal_id": "06086a8516d330a84ac271b2e82a895a00cbf76715568b83ed3a7aef592fa834",
-      "publishedAtLabel": "Oct 13"
-    },
-    {
-      "id": 14541,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "The Star Online",
-      "title": "Zimbabwe reports first two mpox cases of unspecified variant",
-      "description": "HARARE (Reuters) - Zimbabwe has confirmed its first two cases of mpox, the health ministry said on Sunday, without specifying which variant had been recorded. Read full story",
-      "url": "https://www.thestar.com.my/news/world/2024/10/13/zimbabwe-reports-first-two-mpox-cases-of-unspecified-variant",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/10/13/2962482.jpg",
-      "publishedAt": "2024-10-13 15:58:00",
-      "content": "HARARE (Reuters) - Zimbabwe has confirmed its first two cases of mpox, the health ministry said on Sunday, without specifying which variant had been recorded. The first case was detected in an 11-ye\u2026 [+1192 chars]",
-      "retrievedAt": "2024-10-14 19:05:42.401892",
-      "internal_id": "116525f54e51e2c7abd45e0ce38fa1f2b6bd6ac02de82aaa4cba2153b73e62d2",
-      "publishedAtLabel": "Oct 13"
-    },
-    {
-      "id": 14539,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Tbsnews.net",
-      "author": "Unb",
-      "title": "Dengue: 4 more die, 660 hospitalised in 24hrs",
-      "description": "A total of 42,470 dengue cases have been reported since 1 January 2024",
-      "url": "https://www.tbsnews.net/bangladesh/health/dengue-4-more-die-660-hospitalised-24hrs-965891",
-      "urlToImage": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/09/04/dengue_ward_rajibdhar_0288.jpg",
-      "publishedAt": "2024-10-13 12:53:46",
-      "content": "Four more deaths were reported from dengue in 24 hours till Sunday morning, raising the number of fatalities from the mosquito-borne disease in Bangladesh to 214 this year. During the period, 660 mo\u2026 [+696 chars]",
-      "retrievedAt": "2024-10-14 19:05:40.554552",
-      "internal_id": "18618de64306b6ebbedb3a8ef4ab8d5532a735f2b4083b33bd58241acf3a91b4",
-      "publishedAtLabel": "Oct 13"
-    },
-    {
-      "id": 14542,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "Agency",
-      "title": "First mpox diagnostic test approved by WHO",
-      "description": "The availability of such a test will help speed up identification of mpox patients and help prevent its transmission.",
-      "url": "https://www.thestar.com.my/lifestyle/health/2024/10/13/first-mpox-diagnostic-test-approved-by-who",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/10/11/2959154.jpg",
-      "publishedAt": "2024-10-13 12:33:12",
-      "content": "The World Health Organization (WHO) announced on Oct 4 (2024) that it had approved the use of the first diagnostic test for mpox, a key tool for countries battling outbreaks of this infectious diseas\u2026 [+1499 chars]",
-      "retrievedAt": "2024-10-14 19:05:42.413453",
-      "internal_id": "6c4bcd0cd81f98f672edd0accbe831f9b120493c7ea2ed87cb2a7b029a330b0c",
-      "publishedAtLabel": "Oct 13"
-    },
-    {
-      "id": 14537,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "The Japan Times",
-      "author": "The Japan Times",
-      "title": "Australia commits $64 million to protect against looming bird flu threat",
-      "description": "Oceania is the last region free of the H5N1 clade 2.3.4.4b avian influenza, which has killed hundreds of millions of birds since emerging in 2020.",
-      "url": "https://www.japantimes.co.jp/news/2024/10/13/asia-pacific/australia-bird-flu-funding/",
-      "urlToImage": "https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/13/427549.JPG?v=3.1",
-      "publishedAt": "2024-10-13 11:42:00",
-      "content": "SYDNEY Australia's government said on Sunday it would spend an extra 95 million Australian dollars ($64.13 million) to protect against a destructive bird flu strain that has spread through bird and m\u2026 [+1416 chars]",
-      "retrievedAt": "2024-10-14 19:05:40.172763",
-      "internal_id": "742e0fe55403bcf84740d2b06891cf81af7b9068348b9984e38eb6acb127de4c",
-      "publishedAtLabel": "Oct 13"
-    },
-    {
-      "id": 14536,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "abc-news-au",
-      "source_name": "ABC News (AU)",
-      "author": "Esther Linder",
-      "title": "Labor sets out $95 million to combat potential arrival of deadly bird flu strain H5N1",
-      "description": "Biosecurity, environmental funding for protected native species and a top-up of the national stockpile of flu vaccines are part of preparations for the arrival of H5N1 to Australia.",
-      "url": "https://www.abc.net.au/news/2024-10-13/labor-announces-95m-in-funding-for-bird-flu-h5n1/104467622",
-      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/0b04ad35e96a4248c2825a4d68019d9c?impolicy=wcms_watermark_news&cropH=3233&cropW=5748&xPos=0&yPos=384&width=862&height=485&imformat=generic",
-      "publishedAt": "2024-10-13 11:32:07",
-      "content": "The looming arrival of a deadly strain of bird flu in Australia has prompted the federal government to set up a $95 million preparation fund as part of a swathe of biosecurity and environmental measu\u2026 [+3844 chars]",
-      "retrievedAt": "2024-10-14 19:05:40.122524",
-      "internal_id": "2c124687742780b77f0309fe129d557baf4ecbf028e76d325027c4e90e697d72",
       "publishedAtLabel": "Oct 13"
     }
   ]

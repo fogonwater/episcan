@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 10
-- **Last harvest:** 2024-11-27 07:07
-- **Most recent article:** 2024-11-26 06:49:38
+- **New articles in last harvest:** 14
+- **Last harvest:** 2024-11-27 19:05
+- **Most recent article:** 2024-11-26 18:53:06
 
 ---
 
@@ -12,10 +12,10 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-42 | 24-43 | 24-44 | 24-45 | 24-46 | 24-47 | 24-48 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 81 | 131 | 75 | 63 | 62 | 76 | 6 | 494 |
-| dengue | 49 | 53 | 31 | 31 | 36 | 28 | 15 | 243 |
-| h5n1 | 18 | 12 | 61 | 36 | 40 | 50 | 15 | 232 |
-| malaria | 18 | 58 | 16 | 26 | 33 | 27 | 3 | 181 |
+| mpox | 78 | 131 | 75 | 63 | 62 | 76 | 7 | 492 |
+| dengue | 47 | 53 | 31 | 31 | 36 | 28 | 19 | 245 |
+| h5n1 | 16 | 12 | 61 | 36 | 40 | 50 | 17 | 232 |
+| malaria | 18 | 58 | 16 | 26 | 33 | 27 | 10 | 188 |
 | measles | 3 | 1 | 13 | 3 | 33 | 11 | 1 | 65 |
 | rabies | 7 | 3 | 10 | 5 | 11 | 7 | 4 | 47 |
 | zika | 6 | 6 | 3 | 9 | 4 | 3 | 1 | 32 |
@@ -53,6 +53,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-48 (mpox)
 
+- [Analysis-New mpox vaccines for Congo's children held up by old problem](https://www.thestar.com.my/news/world/2024/11/26/analysis-new-mpox-vaccines-for-congo039s-children-held-up-by-old-problem) (The Star Online)
+
 - [Immer wieder neue Fälle: Mpox-Ausbruch bleibt „Notlage“ [premium]](https://www.diepresse.com/19109217/immer-wieder-neue-faelle-mpox-ausbruch-bleibt-notlage) (Diepresse.com)
 
 - [The eradication of small pox may have the set stage for the mpox outbreak](https://www.npr.org/2024/11/25/nx-s1-5198586/the-eradication-of-small-pox-may-have-the-set-stage-for-the-mpox-outbreak) (NPR)
@@ -71,6 +73,20 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-48 (malaria)
 
+- [Apple Has Scaled Back (PRODUCT)RED Color Option Over Past Few Years](https://www.macrumors.com/2024/11/26/apple-has-scaled-back-productred/) (MacRumors)
+
+- [Apple Pay Donation Campaign for World AIDS Day Returns This Friday](https://www.macrumors.com/2024/11/26/apple-pay-world-aids-day-donation-campaign/) (MacRumors)
+
+- [South Sudan: Surge in admissions for severe malaria among children shows a health system under serious strain](https://www.bmj.com/content/387/bmj.q2649) (The BMJ)
+
+- [Zanzare geneticamente modificate: una risorsa per immunizzare contro la malaria](https://leganerd.com/2024/11/26/zanzare-geneticamente-modificate-una-risorsa-per-immunizzare-contro-la-malaria/) (Leganerd.com)
+
+- [KLB Malaria Landa Kabupaten Rokan Hilir, PMI Distribusikan 1.500 Kelambu](https://www.liputan6.com/health/read/5807736/klb-malaria-landa-kabupaten-rokan-hilir-pmi-distribusikan-1500-kelambu) (Liputan6.com)
+
+- [Simak Penyebab, Gejala, Pengobatan, dan Pencegahan Malaria Tropika](https://kalbaronline.com/2024/11/26/simak-penyebab-gejala-pengobatan-dan-pencegahan-malaria-tropika/) (Kalbaronline.com)
+
+- [Nigeria loses $1.1bn annually to malaria, Health minister laments](https://punchng.com/nigeria-loses-1-1bn-annually-to-malaria-health-minister-laments/) (The Punch)
+
 - [Plasmodium falciparum molecular surveillance to inform the Mozambican National Malaria Control Programme strategy: protocol](https://bmjopen.bmj.com/content/14/11/e092590) (The BMJ)
 
 - [Durchbruch gegen die Krankheit? - Erste Malaria-Impfung per Mückenstich!](https://www.bild.de/leben-wissen/wissenschaft/mueckenstiche-als-impfung-durchbruch-gegen-malaria-6742db4cd3e4b22ff2f6ab7b) (Bild)
@@ -78,6 +94,10 @@ Source: [News API](https://newsapi.org/)
 - [Au Burkina Faso, Halidou Tinto, artisan d’un nouveau vaccin contre le paludisme](https://www.jeuneafrique.com/1631409/societe/au-burkina-faso-halidou-tinto-artisan-dun-nouveau-vaccin-contre-le-paludisme/) (Jeune Afrique)
 
 ## 24-48 (h5n1)
+
+- [How to avoid bird flu](https://www.livescience.com/health/flu/how-to-avoid-bird-flu) (Live Science)
+
+- [Vogelgrippe H5N1: „Ich habe ein bisschen Angst, dass hier gerade irgendetwas losgeht“](https://www.sueddeutsche.de/gesundheit/vogelgrippe-nordamerika-infektionen-mutationen-menschen-li.3153428) (Süddeutsche Zeitung)
 
 - [¿Estamos preparados para una pandemia causada por la gripe aviar? "No partimos de cero pero es un virus complicado"](https://www.elespanol.com/ciencia/salud/20241126/preparados-pandemia-causada-gripe-aviar-no-partimos-cero-viruscomplicado/903909814_0.html) (Elespanol.com)
 
@@ -110,6 +130,14 @@ Source: [News API](https://newsapi.org/)
 - [日本と韓国から家禽肉・家禽製品の輸入を一時停止＝香港](https://www.afpbb.com/articles/-/3550357) (Afpbb.com)
 
 ## 24-48 (dengue)
+
+- [Temporada de dengue: en busca de evitar faltantes de repelente, la Anmat elimina un requisito para la venta](https://www.lanacion.com.ar/sociedad/temporada-de-dengue-en-busca-de-evitar-faltantes-de-repelente-la-anmat-elimina-un-requisito-para-su-nid26112024/) (La Nacion)
+
+- [Texas records first locally transmitted dengue fever case of 2024](https://www.foxnews.com/health/texas-records-first-locally-transmitted-dengue-fever-case-2024) (Fox News)
+
+- [Quantitative modelling for dengue and Aedes mosquitoes in Africa: A systematic review of current approaches and future directions for Early Warning System development](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012679) (Plos.org)
+
+- [Aumento dei casi di febbre dengue a Peshawar](https://www.ansa.it/sito/photogallery/primopiano/2024/11/26/aumento-dei-casi-di-febbre-dengue-a-peshawar_bb72a231-43e8-4598-957d-7311888ae6ca.html) (ANSA.it)
 
 - [Editorial: Dengue en Cartago](https://www.nacion.com/opinion/editorial/editorial-dengue-en-cartago/N7HEGYGDCNAETD7JIB5GVU4FVU/story/) (Nacion.com)
 
@@ -2859,12 +2887,6 @@ Source: [News API](https://newsapi.org/)
 
 - [В Зимбабве зафиксировали два первых случая заражения оспой обезьян](https://news.mail.ru/incident/63197353/) (Mail.ru)
 
-- [Zimbabwe reports two mpox cases](https://www.thestar.com.my/news/world/2024/10/14/zimbabwe-reports-two-mpox-cases) (The Star Online)
-
-- [Zimbabwe reports first two mpox cases of unspecified variant](https://www.thestar.com.my/news/world/2024/10/13/zimbabwe-reports-first-two-mpox-cases-of-unspecified-variant) (The Star Online)
-
-- [First mpox diagnostic test approved by WHO](https://www.thestar.com.my/lifestyle/health/2024/10/13/first-mpox-diagnostic-test-approved-by-who) (The Star Online)
-
 ## 24-42 (meningitis)
 
 - [Meningococcal disease confirmed at Bonham Elementary School](https://www.fox26houston.com/news/meningococcal-disease-confirmed-bonham-elementary-school) (fox26houston.com)
@@ -2954,10 +2976,6 @@ Source: [News API](https://newsapi.org/)
 - [‘Real and significant threat’: Federal government pledges $95 million to prepare for arrival of deadly bird flu strain H5N1](https://www.skynews.com.au/lifestyle/health/real-and-significant-threat-federal-government-pledges-95-million-to-prepare-for-arrival-of-deadly-bird-flu-strain-h5n1/news-story/b19142b01e36899ca631b650fb092869) (Sky News Australia)
 
 - [Voice to Parliament: One year on](https://www.crikey.com.au/2024/10/14/indigenous-voice-to-parliament-anniversary-bird-flu-h5n1/) (Crikey)
-
-- [Australia commits $64 million to protect against looming bird flu threat](https://www.japantimes.co.jp/news/2024/10/13/asia-pacific/australia-bird-flu-funding/) (The Japan Times)
-
-- [Labor sets out $95 million to combat potential arrival of deadly bird flu strain H5N1](https://www.abc.net.au/news/2024-10-13/labor-announces-95m-in-funding-for-bird-flu-h5n1/104467622) (ABC News (AU))
 
 ## 24-42 (dengue)
 
@@ -3054,10 +3072,6 @@ Source: [News API](https://newsapi.org/)
 - [Bangladesh records highest daily spike of 9 dengue deaths this year](http://en.people.cn/n3/2024/1014/c90000-20229117.html) (People.cn)
 
 - [Dengue deaths, cases in Bacolod increasing further](https://rpnradio.com/dengue-deaths-cases-in-bacolod-increasing-further/) (Rpnradio.com)
-
-- [First diphtheria death in Ferozepur: 3-Year-old girl dies from bacterial infection](https://timesofindia.indiatimes.com/city/chandigarh/first-diphtheria-death-in-ferozepur-3-year-old-girl-dies-from-bacterial-infection/articleshow/114194849.cms) (The Times of India)
-
-- [Dengue: 4 more die, 660 hospitalised in 24hrs](https://www.tbsnews.net/bangladesh/health/dengue-4-more-die-660-hospitalised-24hrs-965891) (Tbsnews.net)
 
 ## 24-42 (chikungunya)
 
