@@ -1,8 +1,188 @@
 {
-  "last_updated": "2024-11-26 19:05",
-  "count_articles_total": 1355,
-  "count_articles_new": 16,
+  "last_updated": "2024-11-27 07:07",
+  "count_articles_total": 1372,
+  "count_articles_new": 10,
   "articles": [
+    {
+      "id": 15907,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Diepresse.com",
+      "author": "K\u00f6ksal Baltaci",
+      "title": "Immer wieder neue F\u00e4lle: Mpox-Ausbruch bleibt \u201eNotlage\u201c [premium]",
+      "description": "Zuletzt gab es die ersten best\u00e4tigten F\u00e4lle in den USA, in \u00d6sterreich wurde die neue Variante des Virus noch nicht nachgewiesen. Sie ist ansteckender und gef\u00e4hrlicher.",
+      "url": "https://www.diepresse.com/19109217/immer-wieder-neue-faelle-mpox-ausbruch-bleibt-notlage",
+      "urlToImage": "https://img.diepresse.com/public/incoming/hg40on-HEALTH-MPOXAFRICA/alternates/DPR_SOCIAL_NACHRICHTEN/HEALTH-MPOXAFRICA",
+      "publishedAt": "2024-11-26 06:49:38",
+      "content": "Zuletzt gab es die ersten best\u00e4tigten F\u00e4lle in den USA, in \u00d6sterreich wurde die neue Variante des Virus noch nicht nachgewiesen. Sie ist ansteckender und gef\u00e4hrlicher. Der erste nachgewiesene Fall i\u2026 [+514 chars]",
+      "retrievedAt": "2024-11-27 07:07:11.014577",
+      "internal_id": "6c90c68079b57c26be49a156d48e4edc00eb6bd92d5b6a234c2ddd802ae08118",
+      "publishedAtLabel": "Nov 26"
+    },
+    {
+      "id": 15903,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Nacion.com",
+      "author": "Consejo Editorial de La Naci\u00f3n",
+      "title": "Editorial: Dengue en Cartago",
+      "description": "Cartago enfrenta el primer brote de dengue en tres d\u00e9cadas de presencia de la enfermedad en Costa Rica.",
+      "url": "https://www.nacion.com/opinion/editorial/editorial-dengue-en-cartago/N7HEGYGDCNAETD7JIB5GVU4FVU/story/",
+      "urlToImage": "https://www.nacion.com/resizer/v2/OBKKOEWHIJAE3JXNAOC4FDQB5Q.jpeg?smart=true&auth=e00f809a229923c6ed1b3ccd8a0701359909bf109de76823811b189b1ab692a3&width=1440",
+      "publishedAt": "2024-11-26 03:30:00",
+      "content": "El virus del dengue y el mosquito transmisor se adaptaron al clima del cant\u00f3n Central de Cartago, concluye la Caja Costarricense de Seguro Social (CCSS) luego de confirmar los primeros diez casos aut\u2026 [+3589 chars]",
+      "retrievedAt": "2024-11-27 07:07:09.687762",
+      "internal_id": "d82d220a47adecaef3ab5447d96288fe99755fa7e9ccbb582b2f54cf0715e2d6",
+      "publishedAtLabel": "Nov 26"
+    },
+    {
+      "id": 15905,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "montgomerycountypolicereporter.com",
+      "author": "Jamie Nash",
+      "title": "Texas public health officials announce first locally acquired case of dengue virus in 2024",
+      "description": "The first locally acquired case of dengue virus in 2024 was reported in a Cameron County resident. It has been a highly active year for dengue virus globally. As of today, there have been 106 travel-associated dengue cases, including one death reported in Tex\u2026",
+      "url": "https://montgomerycountypolicereporter.com/texas-public-health-officials-announce-first-locally-acquired-case-of-dengue-virus-in-2024/",
+      "urlToImage": "https://montgomerycountypolicereporter.com/wp-content/uploads/2023/06/Screenshot-2023-06-20-154002.png",
+      "publishedAt": "2024-11-26 03:28:59",
+      "content": "Earlier this year, the Centers for Disease Control and Prevention alerted health care providers about the increased risk of dengue virus infections based on an unprecedented number of cases reported \u2026 [+2140 chars]",
+      "retrievedAt": "2024-11-27 07:07:09.724657",
+      "internal_id": "f0588804ec599bcab8f5c217c9d91f1df788d84dc7c4670cc94d2d38d6705cb4",
+      "publishedAtLabel": "Nov 26"
+    },
+    {
+      "id": 15899,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Elespanol.com",
+      "author": "Pablo Garc\u00eda Santos",
+      "title": "\u00bfEstamos preparados para una pandemia causada por la gripe aviar? \"No partimos de cero pero es un virus complicado\"",
+      "description": "Los expertos se muestran preocupados por los \"cambios epidemiol\u00f3gicos\" que se han producido en los \u00faltimos a\u00f1os y que \"nunca antes\" hab\u00edan visto. M\u00e1s informaci\u00f3n: El caso de gripe aviar H5N1 en Canad\u00e1 eleva un punto m\u00e1s su amenaza pand\u00e9mica: \"Es francamente p\u2026",
+      "url": "https://www.elespanol.com/ciencia/salud/20241126/preparados-pandemia-causada-gripe-aviar-no-partimos-cero-viruscomplicado/903909814_0.html",
+      "urlToImage": "https://s1.elespanol.com/2024/11/25/ciencia/salud/903920515_251168772_1706x960.jpg",
+      "publishedAt": "2024-11-26 01:29:28",
+      "content": "Las noticias sobre gripe aviar no dejan de sucederse en Estados Unidos. La \u00faltima ha sido la detecci\u00f3n del virus en una muestra de leche cruda que se encontraba de venta al p\u00fablico en California. En \u2026 [+4968 chars]",
+      "retrievedAt": "2024-11-27 07:07:09.434016",
+      "internal_id": "d1736068f02a5c0ffc8a976c421701b131e6a2018ccec2e0a52efe1f372e7479",
+      "publishedAtLabel": "Nov 26"
+    },
+    {
+      "id": 15902,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "Youri Benadjaoud, Leah Sarnoff",
+      "title": "Texas officials announce first locally acquired case of dengue virus in 2024",
+      "description": "\"Locally acquired\" means that the people infected have no history of traveling to an area of the world where dengue normally spreads.",
+      "url": "https://abcnews.go.com/US/texas-officials-announce-locally-acquired-case-dengue-virus/story?id=116217833",
+      "urlToImage": "https://i.abcnewsfe.com/a/dfc49d5b-ba4f-4619-b87f-c4f7229286eb/mosquito-nile-west-sd-lv-240825_1724609388778_hpMain_2_16x9.jpg?w=1600",
+      "publishedAt": "2024-11-26 00:15:43",
+      "content": "Texas public health officials announced on Monday that the state's first locally acquired case of dengue virus of the year was reported in Cameron County. There have been 106 travel-associated dengu\u2026 [+1795 chars]",
+      "retrievedAt": "2024-11-27 07:07:09.647264",
+      "internal_id": "493e7ca96738d2cdbd583423e021bcee72a7bc7a3d8a8f2b0c26a5b4111fb461",
+      "publishedAtLabel": "Nov 26"
+    },
+    {
+      "id": 15906,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Gabrielle Emanuel",
+      "title": "The eradication of small pox may have the set stage for the mpox outbreak",
+      "description": "After small pox was eradicated and vaccinations against the disease came to an end, people in parts of Africa started getting sick with something rarely seen before - mpox. Researchers eventually realized that with the end of smallpox vaccinations, any immun\u2026",
+      "url": "https://www.npr.org/2024/11/25/nx-s1-5198586/the-eradication-of-small-pox-may-have-the-set-stage-for-the-mpox-outbreak",
+      "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+      "publishedAt": "2024-11-25 22:30:58",
+      "content": "After small pox was eradicated and vaccinations against the disease came to an end, people in parts of Africa started getting sick with something rarely seen before - mpox. Researchers eventually rea\u2026 [+294 chars]",
+      "retrievedAt": "2024-11-27 07:07:10.958278",
+      "internal_id": "bebb8197553e4cde1445ca290f7c5d8c874a300578b347c6a0de44ed87f30663",
+      "publishedAtLabel": "Nov 25"
+    },
+    {
+      "id": 15901,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "WebMD",
+      "author": "Lisa O'Mary",
+      "title": "First Bird Flu Case in a Child Reported in California",
+      "description": "A child in California has been infected with bird flu. It\u2019s the first case of H5N1 influenza in a minor, and the number of human infections in the U.S. this year has now reached 55, according to the CDC.",
+      "url": "https://www.webmd.com/cold-and-flu/news/20241125/first-bird-case-child-california",
+      "urlToImage": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/article_thumbnails/other/generic_virus_illustration_other/1800x1200_getty_rf_generic_virus_illustration_other.jpg",
+      "publishedAt": "2024-11-25 22:30:34",
+      "content": "Nov. 25, 2024 A child in California has been infected with bird flu. Its the first case of H5N1 influenza in a minor, and the number of human infections in the U.S. this year has now reached 55, ac\u2026 [+2234 chars]",
+      "retrievedAt": "2024-11-27 07:07:09.481537",
+      "internal_id": "516394e02edf5aab8f5b055c701a928ed356f2ea69025ec0e05ca99eff79ee23",
+      "publishedAtLabel": "Nov 25"
+    },
+    {
+      "id": 15904,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "Alejandro Horvat",
+      "title": "Dengue: ya hay un aumento leve de los casos confirmados en la Argentina",
+      "description": "Adem\u00e1s, se mantiene en ascenso la cifra de notificaciones de la enfermedad",
+      "url": "https://www.lanacion.com.ar/sociedad/dengue-ya-hay-un-aumento-leve-de-los-casos-confirmados-en-la-argentina-nid25112024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/el-numero-de-infectados-de-dengue-en-el-pais-tuvo-UEVV7GIQO5B55ABEJY6D63KFUM.jpg?auth=6bf2acf99e38a7ad513c92cc7ac988248579742c1b25c49aeb0593dd5b1a9901&width=1200&quality=70&smart=false&height=800",
+      "publishedAt": "2024-11-25 21:31:04",
+      "content": "Las infecciones confirmadas de dengue en la Argentina empezaron a mostrar un leve aumento. En la \u00faltima actualizaci\u00f3n del Bolet\u00edn Epidemiol\u00f3gico Nacional (BEN), correspondiente a la semana del 10 al \u2026 [+5058 chars]",
+      "retrievedAt": "2024-11-27 07:07:09.712005",
+      "internal_id": "ed65a1bf81ca9848f4fa4984360d9637717e897a63a3a0542aa5dd128eea8181",
+      "publishedAtLabel": "Nov 25"
+    },
+    {
+      "id": 15898,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Live Science",
+      "author": "pandora.dewan@futurenet.com (Pandora Dewan)",
+      "title": "Bird flu strikes 1st child in the US \u2014 CDC says infection source unknown",
+      "description": "A child in California caught bird flu amid a recall of raw milk in the state, but investigations have found no evidence that the case was caused by raw milk.",
+      "url": "https://www.livescience.com/health/viruses-infections-disease/bird-flu-strikes-1st-child-in-the-us-cdc-says-infection-source-unknown",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/zTipaAATgmyWEuAvTQgJbK-1200-80.jpg",
+      "publishedAt": "2024-11-25 19:55:22",
+      "content": "A child in California is recovering from H5N1 bird flu after becoming the first kid in the Unites States to get infected with the virus, the U.S. Centers for Disease Control and Prevention (CDC) repo\u2026 [+5243 chars]",
+      "retrievedAt": "2024-11-27 07:07:09.345304",
+      "internal_id": "7febeed902fc2069a09fa3618265a23cf24863ff1e0e05da988cb1c40e040d8e",
+      "publishedAtLabel": "Nov 25"
+    },
+    {
+      "id": 15900,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "WebMD",
+      "author": "Julie Stewart",
+      "title": "Bird Flu and Thanksgiving: Is Turkey Still on the Table?",
+      "description": "As the H5N1 virus infects more people nationwide, here\u2019s what you need to know.",
+      "url": "https://www.webmd.com/diet/news/20241125/bird-flu-thanksgiving-turkey-safe",
+      "urlToImage": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/article_thumbnails/blog_posts/multiple-myeloma/1800x1200_carving_turkey_at_holiday_meal.jpg",
+      "publishedAt": "2024-11-25 19:30:38",
+      "content": "The chances of an H5N1-infected chicken or turkey getting into the food chain are very, very, very low, said Webby. If an infected bird did end up at a processing plant, the infected tissue usuall\u2026 [+2389 chars]",
+      "retrievedAt": "2024-11-27 07:07:09.469232",
+      "internal_id": "75cbdb150da2a0f0a98122b399aa549c5d8539022ff56b74b9f0fa6276d6c54a",
+      "publishedAtLabel": "Nov 25"
+    },
     {
       "id": 15894,
       "query": [
@@ -24449,6 +24629,132 @@
       "content": "VOICE REFERENDUM ANNIVERSARY Today marks one year since Australia voted down a proposal to enshrine an Indigenous Voice to Parliament in the constitution. The AAP this morning quotes a spokesperson \u2026 [+12475 chars]",
       "retrievedAt": "2024-10-15 07:06:26.776795",
       "internal_id": "06ad02bc83552c95a113690de69b653d974edcbfd5eb46cbb16d66f770400d13",
+      "publishedAtLabel": "Oct 13"
+    },
+    {
+      "id": 14538,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Dinesh K Sharma",
+      "title": "First diphtheria death in Ferozepur: 3-Year-old girl dies from bacterial infection",
+      "description": "Ferozepur's first diphtheria death amid the dengue season triggers alarm as a three-year-old passes away in Faridkot. Health teams conduct surveys, finding one more suspected case but tests negative. Authorities initiate door-to-door surveillance in affected \u2026",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/first-diphtheria-death-in-ferozepur-3-year-old-girl-dies-from-bacterial-infection/articleshow/114194849.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-114194880,width-1070,height-580,imgsize-524198,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-10-13 17:27:06",
+      "content": "What is far-infrared therapy good for?",
+      "retrievedAt": "2024-10-14 19:05:40.512157",
+      "internal_id": "ecd2975479ae8b0f861b894c2ee18393e8be581bfbd304036955ee4be9486078",
+      "publishedAtLabel": "Oct 13"
+    },
+    {
+      "id": 14540,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Tichaona Chifamba",
+      "title": "Zimbabwe reports two mpox cases",
+      "description": "HARARE, Oct. 13 (Xinhua) -- Zimbabwe on Sunday announced two confirmed cases of mpox in people who have traveled to South Africa and Tanzania. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2024/10/14/zimbabwe-reports-two-mpox-cases",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2024-10-13 17:03:00",
+      "content": "HARARE, Oct. 13 (Xinhua) -- Zimbabwe on Sunday announced two confirmed cases of mpox in people who have traveled to South Africa and Tanzania. Zimbabwe's Health and Child Care Minister Douglas Momb\u2026 [+928 chars]",
+      "retrievedAt": "2024-10-14 19:05:42.390223",
+      "internal_id": "06086a8516d330a84ac271b2e82a895a00cbf76715568b83ed3a7aef592fa834",
+      "publishedAtLabel": "Oct 13"
+    },
+    {
+      "id": 14541,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "Zimbabwe reports first two mpox cases of unspecified variant",
+      "description": "HARARE (Reuters) - Zimbabwe has confirmed its first two cases of mpox, the health ministry said on Sunday, without specifying which variant had been recorded. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2024/10/13/zimbabwe-reports-first-two-mpox-cases-of-unspecified-variant",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/10/13/2962482.jpg",
+      "publishedAt": "2024-10-13 15:58:00",
+      "content": "HARARE (Reuters) - Zimbabwe has confirmed its first two cases of mpox, the health ministry said on Sunday, without specifying which variant had been recorded. The first case was detected in an 11-ye\u2026 [+1192 chars]",
+      "retrievedAt": "2024-10-14 19:05:42.401892",
+      "internal_id": "116525f54e51e2c7abd45e0ce38fa1f2b6bd6ac02de82aaa4cba2153b73e62d2",
+      "publishedAtLabel": "Oct 13"
+    },
+    {
+      "id": 14539,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Tbsnews.net",
+      "author": "Unb",
+      "title": "Dengue: 4 more die, 660 hospitalised in 24hrs",
+      "description": "A total of 42,470 dengue cases have been reported since 1 January 2024",
+      "url": "https://www.tbsnews.net/bangladesh/health/dengue-4-more-die-660-hospitalised-24hrs-965891",
+      "urlToImage": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/09/04/dengue_ward_rajibdhar_0288.jpg",
+      "publishedAt": "2024-10-13 12:53:46",
+      "content": "Four more deaths were reported from dengue in 24 hours till Sunday morning, raising the number of fatalities from the mosquito-borne disease in Bangladesh to 214 this year. During the period, 660 mo\u2026 [+696 chars]",
+      "retrievedAt": "2024-10-14 19:05:40.554552",
+      "internal_id": "18618de64306b6ebbedb3a8ef4ab8d5532a735f2b4083b33bd58241acf3a91b4",
+      "publishedAtLabel": "Oct 13"
+    },
+    {
+      "id": 14542,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Agency",
+      "title": "First mpox diagnostic test approved by WHO",
+      "description": "The availability of such a test will help speed up identification of mpox patients and help prevent its transmission.",
+      "url": "https://www.thestar.com.my/lifestyle/health/2024/10/13/first-mpox-diagnostic-test-approved-by-who",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/10/11/2959154.jpg",
+      "publishedAt": "2024-10-13 12:33:12",
+      "content": "The World Health Organization (WHO) announced on Oct 4 (2024) that it had approved the use of the first diagnostic test for mpox, a key tool for countries battling outbreaks of this infectious diseas\u2026 [+1499 chars]",
+      "retrievedAt": "2024-10-14 19:05:42.413453",
+      "internal_id": "6c4bcd0cd81f98f672edd0accbe831f9b120493c7ea2ed87cb2a7b029a330b0c",
+      "publishedAtLabel": "Oct 13"
+    },
+    {
+      "id": 14537,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "The Japan Times",
+      "author": "The Japan Times",
+      "title": "Australia commits $64 million to protect against looming bird flu threat",
+      "description": "Oceania is the last region free of the H5N1 clade 2.3.4.4b avian influenza, which has killed hundreds of millions of birds since emerging in 2020.",
+      "url": "https://www.japantimes.co.jp/news/2024/10/13/asia-pacific/australia-bird-flu-funding/",
+      "urlToImage": "https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/13/427549.JPG?v=3.1",
+      "publishedAt": "2024-10-13 11:42:00",
+      "content": "SYDNEY Australia's government said on Sunday it would spend an extra 95 million Australian dollars ($64.13 million) to protect against a destructive bird flu strain that has spread through bird and m\u2026 [+1416 chars]",
+      "retrievedAt": "2024-10-14 19:05:40.172763",
+      "internal_id": "742e0fe55403bcf84740d2b06891cf81af7b9068348b9984e38eb6acb127de4c",
+      "publishedAtLabel": "Oct 13"
+    },
+    {
+      "id": 14536,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "abc-news-au",
+      "source_name": "ABC News (AU)",
+      "author": "Esther Linder",
+      "title": "Labor sets out $95 million to combat potential arrival of deadly bird flu strain H5N1",
+      "description": "Biosecurity, environmental funding for protected native species and a top-up of the national stockpile of flu vaccines are part of preparations for the arrival of H5N1 to Australia.",
+      "url": "https://www.abc.net.au/news/2024-10-13/labor-announces-95m-in-funding-for-bird-flu-h5n1/104467622",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/0b04ad35e96a4248c2825a4d68019d9c?impolicy=wcms_watermark_news&cropH=3233&cropW=5748&xPos=0&yPos=384&width=862&height=485&imformat=generic",
+      "publishedAt": "2024-10-13 11:32:07",
+      "content": "The looming arrival of a deadly strain of bird flu in Australia has prompted the federal government to set up a $95 million preparation fund as part of a swathe of biosecurity and environmental measu\u2026 [+3844 chars]",
+      "retrievedAt": "2024-10-14 19:05:40.122524",
+      "internal_id": "2c124687742780b77f0309fe129d557baf4ecbf028e76d325027c4e90e697d72",
       "publishedAtLabel": "Oct 13"
     }
   ]
