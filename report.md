@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 14
-- **Last harvest:** 2024-11-27 19:05
-- **Most recent article:** 2024-11-26 18:53:06
+- **New articles in last harvest:** 10
+- **Last harvest:** 2024-11-28 07:07
+- **Most recent article:** 2024-11-27 06:19:11
 
 ---
 
@@ -12,12 +12,12 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-42 | 24-43 | 24-44 | 24-45 | 24-46 | 24-47 | 24-48 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 78 | 131 | 75 | 63 | 62 | 76 | 7 | 492 |
-| dengue | 47 | 53 | 31 | 31 | 36 | 28 | 19 | 245 |
-| h5n1 | 16 | 12 | 61 | 36 | 40 | 50 | 17 | 232 |
-| malaria | 18 | 58 | 16 | 26 | 33 | 27 | 10 | 188 |
-| measles | 3 | 1 | 13 | 3 | 33 | 11 | 1 | 65 |
-| rabies | 7 | 3 | 10 | 5 | 11 | 7 | 4 | 47 |
+| mpox | 81 | 131 | 75 | 63 | 62 | 76 | 7 | 495 |
+| dengue | 49 | 53 | 31 | 31 | 36 | 28 | 20 | 248 |
+| h5n1 | 18 | 12 | 61 | 36 | 40 | 50 | 21 | 238 |
+| malaria | 18 | 58 | 16 | 26 | 33 | 27 | 13 | 191 |
+| measles | 3 | 1 | 13 | 3 | 33 | 11 | 2 | 66 |
+| rabies | 7 | 3 | 10 | 5 | 11 | 7 | 5 | 48 |
 | zika | 6 | 6 | 3 | 9 | 4 | 3 | 1 | 32 |
 | pertussis | 9 | 3 | 1 | 3 | 8 | 5 | 0 | 29 |
 | chikungunya | 4 | 7 | 2 | 2 | 3 | 5 | 3 | 26 |
@@ -42,6 +42,8 @@ Source: [News API](https://newsapi.org/)
 - [NGO screens children for HIV, hepatitis](https://punchng.com/ngo-screens-children-for-hiv-hepatitis/) (The Punch)
 
 ## 24-48 (rabies)
+
+- [Valley resident dies from rabies after suspected bat bite, health officials confirm](https://abc30.com/post/valley-resident-dies-rabies-after-suspected-bat-bite-health-officials-confirm/15591076/) (KFSN-TV)
 
 - [Big Bad Wolves (2013)](https://www.kino-zeit.de/film-kritiken-trailer/big-bad-wolves) (Kino-zeit.de)
 
@@ -69,9 +71,17 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-48 (measles)
 
+- [I’ll never forget what Robert F. Kennedy Jnr did during Samoa’s measles outbreak - Brian Deer](https://www.nzherald.co.nz/world/ill-never-forget-what-robert-f-kennedy-jnr-did-during-samoas-measles-outbreak-brian-deer/WCBALRD42RDDDHQQ2C65DYD6LM/) (New Zealand Herald)
+
 - [The Fundamental Problem with R.F.K., Jr.,’s Nomination to H.H.S.](https://www.newyorker.com/magazine/2024/12/02/the-fundamental-problem-with-rfk-jrs-nomination-to-hhs) (The New Yorker)
 
 ## 24-48 (malaria)
+
+- [Nigeria loses $1.1bn to malaria yearly – Minister](https://punchng.com/nigeria-loses-1-1bn-to-malaria-yearly-minister/) (The Punch)
+
+- [CEM Pramod Boro inspects malaria affected areas in Kokrajhar](https://thehillstimes.in/assam/cem-pramod-boro-inspects-malaria-affected-areas-in-kokrajhar) (Thehillstimes.in)
+
+- [Apple Pay, nuova campagna di fondi per la Giornata mondiale contro l’AIDS](https://www.macitynet.it/apple-pay-nuova-campagna-di-fondi-per-la-giornata-mondiale-contro-laids/) (Macitynet.it)
 
 - [Apple Has Scaled Back (PRODUCT)RED Color Option Over Past Few Years](https://www.macrumors.com/2024/11/26/apple-has-scaled-back-productred/) (MacRumors)
 
@@ -94,6 +104,14 @@ Source: [News API](https://newsapi.org/)
 - [Au Burkina Faso, Halidou Tinto, artisan d’un nouveau vaccin contre le paludisme](https://www.jeuneafrique.com/1631409/societe/au-burkina-faso-halidou-tinto-artisan-dun-nouveau-vaccin-contre-le-paludisme/) (Jeune Afrique)
 
 ## 24-48 (h5n1)
+
+- [Case of bird flu infection in British Columbia is still a mystery, for now](https://www.statnews.com/2024/11/26/bird-flu-canada-teen-cause-of-h5n1-avian-flu-infection-remains-unknown/) (STAT)
+
+- [California: advierten sobre el consumo de esta popular leche que se vende en supermercados](https://www.lanacion.com.ar/estados-unidos/california/california-advierten-sobre-el-consumo-de-esta-popular-leche-que-se-vende-en-supermercados-nid26112024/) (La Nacion)
+
+- [What Are the Symptoms of Bird Flu?](https://time.com/7198616/bird-flu-symptoms-h5n1-conjunctivitis/) (Time)
+
+- [Cause of B.C. teen's H5N1 avian flu infection still unknown, health officials say](https://www.cbc.ca/news/canada/british-columbia/cause-h5n1-avian-flu-unknown-1.7393759) (CBC News)
 
 - [How to avoid bird flu](https://www.livescience.com/health/flu/how-to-avoid-bird-flu) (Live Science)
 
@@ -130,6 +148,8 @@ Source: [News API](https://newsapi.org/)
 - [日本と韓国から家禽肉・家禽製品の輸入を一時停止＝香港](https://www.afpbb.com/articles/-/3550357) (Afpbb.com)
 
 ## 24-48 (dengue)
+
+- [Texas Reports First Case Of Locally Acquired Dengue This Year: Here's What To Know](https://www.medicaldaily.com/texas-reports-first-case-locally-acquired-dengue-this-year-heres-what-know-472733) (Medical Daily)
 
 - [Temporada de dengue: en busca de evitar faltantes de repelente, la Anmat elimina un requisito para la venta](https://www.lanacion.com.ar/sociedad/temporada-de-dengue-en-busca-de-evitar-faltantes-de-repelente-la-anmat-elimina-un-requisito-para-su-nid26112024/) (La Nacion)
 
@@ -2887,6 +2907,12 @@ Source: [News API](https://newsapi.org/)
 
 - [В Зимбабве зафиксировали два первых случая заражения оспой обезьян](https://news.mail.ru/incident/63197353/) (Mail.ru)
 
+- [Zimbabwe reports two mpox cases](https://www.thestar.com.my/news/world/2024/10/14/zimbabwe-reports-two-mpox-cases) (The Star Online)
+
+- [Zimbabwe reports first two mpox cases of unspecified variant](https://www.thestar.com.my/news/world/2024/10/13/zimbabwe-reports-first-two-mpox-cases-of-unspecified-variant) (The Star Online)
+
+- [First mpox diagnostic test approved by WHO](https://www.thestar.com.my/lifestyle/health/2024/10/13/first-mpox-diagnostic-test-approved-by-who) (The Star Online)
+
 ## 24-42 (meningitis)
 
 - [Meningococcal disease confirmed at Bonham Elementary School](https://www.fox26houston.com/news/meningococcal-disease-confirmed-bonham-elementary-school) (fox26houston.com)
@@ -2976,6 +3002,10 @@ Source: [News API](https://newsapi.org/)
 - [‘Real and significant threat’: Federal government pledges $95 million to prepare for arrival of deadly bird flu strain H5N1](https://www.skynews.com.au/lifestyle/health/real-and-significant-threat-federal-government-pledges-95-million-to-prepare-for-arrival-of-deadly-bird-flu-strain-h5n1/news-story/b19142b01e36899ca631b650fb092869) (Sky News Australia)
 
 - [Voice to Parliament: One year on](https://www.crikey.com.au/2024/10/14/indigenous-voice-to-parliament-anniversary-bird-flu-h5n1/) (Crikey)
+
+- [Australia commits $64 million to protect against looming bird flu threat](https://www.japantimes.co.jp/news/2024/10/13/asia-pacific/australia-bird-flu-funding/) (The Japan Times)
+
+- [Labor sets out $95 million to combat potential arrival of deadly bird flu strain H5N1](https://www.abc.net.au/news/2024-10-13/labor-announces-95m-in-funding-for-bird-flu-h5n1/104467622) (ABC News (AU))
 
 ## 24-42 (dengue)
 
@@ -3072,6 +3102,10 @@ Source: [News API](https://newsapi.org/)
 - [Bangladesh records highest daily spike of 9 dengue deaths this year](http://en.people.cn/n3/2024/1014/c90000-20229117.html) (People.cn)
 
 - [Dengue deaths, cases in Bacolod increasing further](https://rpnradio.com/dengue-deaths-cases-in-bacolod-increasing-further/) (Rpnradio.com)
+
+- [First diphtheria death in Ferozepur: 3-Year-old girl dies from bacterial infection](https://timesofindia.indiatimes.com/city/chandigarh/first-diphtheria-death-in-ferozepur-3-year-old-girl-dies-from-bacterial-infection/articleshow/114194849.cms) (The Times of India)
+
+- [Dengue: 4 more die, 660 hospitalised in 24hrs](https://www.tbsnews.net/bangladesh/health/dengue-4-more-die-660-hospitalised-24hrs-965891) (Tbsnews.net)
 
 ## 24-42 (chikungunya)
 

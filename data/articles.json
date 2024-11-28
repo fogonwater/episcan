@@ -1,8 +1,188 @@
 {
-  "last_updated": "2024-11-27 19:05",
-  "count_articles_total": 1379,
-  "count_articles_new": 14,
+  "last_updated": "2024-11-28 07:07",
+  "count_articles_total": 1396,
+  "count_articles_new": 10,
   "articles": [
+    {
+      "id": 15928,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Medical Daily",
+      "author": "Suneeta Sunny",
+      "title": "Texas Reports First Case Of Locally Acquired Dengue This Year: Here's What To Know",
+      "description": "Since 2013, Texas has reported 665 dengue cases, including 40 locally acquired infections. This year, however, marks the state's highest annual case count since 2002.",
+      "url": "https://www.medicaldaily.com/texas-reports-first-case-locally-acquired-dengue-this-year-heres-what-know-472733",
+      "urlToImage": "https://d.medicaldaily.com/en/full/479156/dengue-fever.jpg",
+      "publishedAt": "2024-11-27 06:19:11",
+      "content": "Texas health officials have reported the state's first locally acquired dengue fever case of the year, identified in a Cameron County resident with no travel history to areas where the disease is com\u2026 [+2233 chars]",
+      "retrievedAt": "2024-11-28 07:07:15.397005",
+      "internal_id": "879a12d101745fcb0ad54e1cae30b8cddad7ed93a7067f43cfec97087f455cb8",
+      "publishedAtLabel": "Nov 27"
+    },
+    {
+      "id": 15923,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "New Zealand Herald",
+      "author": "Brian Deer",
+      "title": "I\u2019ll never forget what Robert F. Kennedy Jnr did during Samoa\u2019s measles outbreak - Brian Deer",
+      "description": "NYT OPINION: What he did during a measles epidemic in Samoa shouldn't be forgotten.",
+      "url": "https://www.nzherald.co.nz/world/ill-never-forget-what-robert-f-kennedy-jnr-did-during-samoas-measles-outbreak-brian-deer/WCBALRD42RDDDHQQ2C65DYD6LM/",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/3T2XCLJZIBGXFEPO7WTT5PPPEE.jpg?auth=819c0afa6ef4b2f9e6f3cd4106fd6f41a5d4ddb5f2d47321f5013025bd78b25f&width=1200&height=675&quality=70&focal=1377%2C651&smart=false",
+      "publishedAt": "2024-11-27 01:44:06",
+      "content": "I was in Samoa during that outbreak as part of my more than 16 years of reporting on the anti-vaccine movement. The cause of the outbreak was not the vaccine, but most likely an infected traveller wh\u2026 [+3867 chars]",
+      "retrievedAt": "2024-11-28 07:07:14.243775",
+      "internal_id": "b7df8c7fc85a10b7638af57ce3b7f3554c2eed882cea4ae01cdf78f8b62e467a",
+      "publishedAtLabel": "Nov 27"
+    },
+    {
+      "id": 15930,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Lara Adejoro",
+      "title": "Nigeria loses $1.1bn to malaria yearly \u2013 Minister",
+      "description": "The Coordinating Minister of Health and Social Welfare, Prof Muhammad Pate said the annual loss to Nigeria\u2019s Gross Domestic Product from malaria exceeds $1.1bn. Prof Pate said this in Abuja at the inaugural meeting of the Advisory Body on Malaria Elimination \u2026",
+      "url": "https://punchng.com/nigeria-loses-1-1bn-to-malaria-yearly-minister/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2024/07/15202311/PATE.jpg",
+      "publishedAt": "2024-11-27 00:19:10",
+      "content": "The Coordinating Minister of Health and Social Welfare, Prof Muhammad Pate said the annual loss to Nigerias Gross Domestic Product from malaria exceeds $1.1bn. Prof Pate said this in Abuja at the in\u2026 [+2304 chars]",
+      "retrievedAt": "2024-11-28 07:07:16.246174",
+      "internal_id": "0874add25fbd31e3619dfacf76d326bc71c4ab7e45b9b0c9ef816b408b26a72f",
+      "publishedAtLabel": "Nov 27"
+    },
+    {
+      "id": 15931,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Thehillstimes.in",
+      "author": "The Hills Times",
+      "title": "CEM Pramod Boro inspects malaria affected areas in Kokrajhar",
+      "description": "HT Correspondent KOKRAJHAR, Nov 26: Stepping to eradicate the sparking rate of the malaria in Kokrajhar district, on Tuesday, Pramod Boro, the chief executive member of Bodoland Territorial Region visited at the Lungsung area,and took stock about the prevaili\u2026",
+      "url": "https://thehillstimes.in/assam/cem-pramod-boro-inspects-malaria-affected-areas-in-kokrajhar",
+      "urlToImage": "https://thehillstimes.in/wp-content/uploads/2024/11/2ND-LEAD-11.jpg",
+      "publishedAt": "2024-11-26 23:50:00",
+      "content": "HT Correspondent KOKRAJHAR, Nov 26: Stepping to eradicate the sparking rate of the malaria in Kokrajhar district, on Tuesday, Pramod Boro, the chief executive member of Bodoland Territorial Region v\u2026 [+2188 chars]",
+      "retrievedAt": "2024-11-28 07:07:16.258648",
+      "internal_id": "5745849af0599f21aaa00197be1ed7f9106f9d63eaeae213e5d93ea33a47f5af",
+      "publishedAtLabel": "Nov 26"
+    },
+    {
+      "id": 15927,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "STAT",
+      "author": "Helen Branswell",
+      "title": "Case of bird flu infection in British Columbia is still a mystery, for now",
+      "description": "Health officials in British Columbia, Canada, have failed, for now, to confirm how a teenager there became infected with H5N1 bird flu.",
+      "url": "https://www.statnews.com/2024/11/26/bird-flu-canada-teen-cause-of-h5n1-avian-flu-infection-remains-unknown/",
+      "urlToImage": "https://www.statnews.com/wp-content/uploads/2024/11/GettyImages-631869890-1024x576.jpg",
+      "publishedAt": "2024-11-26 21:42:31",
+      "content": "Health officials in British Columbia, Canada, have closed for now their investigation into how a teenager there became infected with H5N1 bird flu because they have run out of leads to pursue, the pr\u2026 [+3213 chars]",
+      "retrievedAt": "2024-11-28 07:07:14.930075",
+      "internal_id": "2fe29ded364337cf49f47edec0328ed4c74230c56c0c5697ebd53a0c07e4091a",
+      "publishedAtLabel": "Nov 26"
+    },
+    {
+      "id": 15926,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "LA NACION",
+      "title": "California: advierten sobre el consumo de esta popular leche que se vende en supermercados",
+      "description": "Las autoridades de California han emitido una advertencia sobre los riesgos de consumir leche no pasteurizada, tras detectar el virus de la gripe aviar en estos productos. Conoce los peligros y las recomendaciones de los expertos para evitar enfermedades grav\u2026",
+      "url": "https://www.lanacion.com.ar/estados-unidos/california/california-advierten-sobre-el-consumo-de-esta-popular-leche-que-se-vende-en-supermercados-nid26112024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/detectan-casos-de-productos-infectados-con-el-VC5UZOS5S5FMPMMAI5SE2US64U.jpg?auth=ddbd6f5b34ed79f9c7b712d172d4a54516e224b388bf96ea03c16dd9494ce56b&width=1200&quality=70&smart=false&height=800",
+      "publishedAt": "2024-11-26 20:42:40",
+      "content": "El Departamento de Salud P\u00fablica de California (CDPH, por sus siglas en ingl\u00e9s) alert\u00f3 el pasado domingo sobre la presencia del virus de la gripe aviar H5N1 en un lote de leche cruda producida por Ra\u2026 [+4089 chars]",
+      "retrievedAt": "2024-11-28 07:07:14.912113",
+      "internal_id": "71dc9e6cca71e23907f781b284d5065dad3812f78ba49fa60c100809d37f5400",
+      "publishedAtLabel": "Nov 26"
+    },
+    {
+      "id": 15929,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Macitynet.it",
+      "author": "Mauro Notarianni",
+      "title": "Apple Pay, nuova campagna di fondi per la Giornata mondiale contro l\u2019AIDS",
+      "description": "Apple ha fatto sapere che dal 29 novembre all'8 dicembre doner\u00e0 5$ per ogni acquisto pagato con Apple Pay su apple.com, nell\u2019app Apple Store o negli Apple Store, fondi che andranno al Fondo globale per la lotta all'Aids, la tubercolosi e la malaria, - su maci\u2026",
+      "url": "https://www.macitynet.it/apple-pay-nuova-campagna-di-fondi-per-la-giornata-mondiale-contro-laids/",
+      "urlToImage": "https://www.macitynet.it/wp-content/uploads/2024/11/ApplePayred.jpg",
+      "publishedAt": "2024-11-26 20:29:05",
+      "content": "Apple ha fatto sapere che dal 29 novembre all\u20198 dicembre doner\u00e0 5$ per ogni acquisto pagato con Apple Pay su apple.com, nell\u2019app Apple Store o negli Apple Store, fondi che andranno al Fondo globale p\u2026 [+1197 chars]",
+      "retrievedAt": "2024-11-28 07:07:16.222770",
+      "internal_id": "2b7770732e1d71756a4d647e65d69b61c821908810ef585781d6e24672153243",
+      "publishedAtLabel": "Nov 26"
+    },
+    {
+      "id": 15924,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "time",
+      "source_name": "Time",
+      "author": "Jamie Ducharme",
+      "title": "What Are the Symptoms of Bird Flu?",
+      "description": "Bird flu has sickened 55 people in the U.S. this year. Here's what to know about the symptoms of H5N1 avian influenza, or bird flu.",
+      "url": "https://time.com/7198616/bird-flu-symptoms-h5n1-conjunctivitis/",
+      "urlToImage": "https://api.time.com/wp-content/uploads/2024/11/bird-flu_801e62.jpg?quality=85&w=1200&h=628&crop=1",
+      "publishedAt": "2024-11-26 20:20:16",
+      "content": "It's the season for sniffles and sore throats, which means that scientists are monitoring the usual suspects like influenza, RSV, and COVID-19. But theyre also watching another virus this winter: H5N\u2026 [+3884 chars]",
+      "retrievedAt": "2024-11-28 07:07:14.816377",
+      "internal_id": "7cafeb8c43a3c3475c1c65585d71bcd26510fc2679d1d7e933bd673c1b86332a",
+      "publishedAtLabel": "Nov 26"
+    },
+    {
+      "id": 15925,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Cause of B.C. teen's H5N1 avian flu infection still unknown, health officials say",
+      "description": "B.C. health officials say they still don't know how a teenager became infected with the H5N1 strain of avian flu, believed to be the first such case in Canada. The teenager is still in critical condition, the province says, adding that no further cases have b\u2026",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/cause-h5n1-avian-flu-unknown-1.7393759",
+      "urlToImage": "https://i.cbc.ca/1.7391120.1732305681!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/bird-flu.jpg",
+      "publishedAt": "2024-11-26 20:17:53",
+      "content": "B.C. health officials say they still don't know how a teenager became infected with the H5N1 strain of avian flu, but say no further cases have been identified. Earlier this month, health officials \u2026 [+2811 chars]",
+      "retrievedAt": "2024-11-28 07:07:14.856627",
+      "internal_id": "fedf18c137b246705ebf966fd99429cd61ee0b2641819ba97d9e3ed29a4720e9",
+      "publishedAtLabel": "Nov 26"
+    },
+    {
+      "id": 15922,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "KFSN-TV",
+      "author": "Vince Ybarra",
+      "title": "Valley resident dies from rabies after suspected bat bite, health officials confirm",
+      "description": "A local educator is being remembered for her dedication to her classroom and community after she died from rabies.",
+      "url": "https://abc30.com/post/valley-resident-dies-rabies-after-suspected-bat-bite-health-officials-confirm/15591076/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/15592265_rabies-death-img.png?w=1600",
+      "publishedAt": "2024-11-26 19:35:21",
+      "content": "FRESNO COUNTY, Calif. (KFSN) -- Fresno County health officials have confirmed that a person has died from rabies. The Public Health Department says it believes the patient was bitten by a bat in Mer\u2026 [+2167 chars]",
+      "retrievedAt": "2024-11-28 07:07:14.001070",
+      "internal_id": "0456a054c9643e819a40e0ba51ddb17f589b95f33b2b61542ba8619811b61dd0",
+      "publishedAtLabel": "Nov 26"
+    },
     {
       "id": 15911,
       "query": [
@@ -24881,6 +25061,132 @@
       "content": "VOICE REFERENDUM ANNIVERSARY Today marks one year since Australia voted down a proposal to enshrine an Indigenous Voice to Parliament in the constitution. The AAP this morning quotes a spokesperson \u2026 [+12475 chars]",
       "retrievedAt": "2024-10-15 07:06:26.776795",
       "internal_id": "06ad02bc83552c95a113690de69b653d974edcbfd5eb46cbb16d66f770400d13",
+      "publishedAtLabel": "Oct 13"
+    },
+    {
+      "id": 14538,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Dinesh K Sharma",
+      "title": "First diphtheria death in Ferozepur: 3-Year-old girl dies from bacterial infection",
+      "description": "Ferozepur's first diphtheria death amid the dengue season triggers alarm as a three-year-old passes away in Faridkot. Health teams conduct surveys, finding one more suspected case but tests negative. Authorities initiate door-to-door surveillance in affected \u2026",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/first-diphtheria-death-in-ferozepur-3-year-old-girl-dies-from-bacterial-infection/articleshow/114194849.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-114194880,width-1070,height-580,imgsize-524198,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-10-13 17:27:06",
+      "content": "What is far-infrared therapy good for?",
+      "retrievedAt": "2024-10-14 19:05:40.512157",
+      "internal_id": "ecd2975479ae8b0f861b894c2ee18393e8be581bfbd304036955ee4be9486078",
+      "publishedAtLabel": "Oct 13"
+    },
+    {
+      "id": 14540,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Tichaona Chifamba",
+      "title": "Zimbabwe reports two mpox cases",
+      "description": "HARARE, Oct. 13 (Xinhua) -- Zimbabwe on Sunday announced two confirmed cases of mpox in people who have traveled to South Africa and Tanzania. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2024/10/14/zimbabwe-reports-two-mpox-cases",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2024-10-13 17:03:00",
+      "content": "HARARE, Oct. 13 (Xinhua) -- Zimbabwe on Sunday announced two confirmed cases of mpox in people who have traveled to South Africa and Tanzania. Zimbabwe's Health and Child Care Minister Douglas Momb\u2026 [+928 chars]",
+      "retrievedAt": "2024-10-14 19:05:42.390223",
+      "internal_id": "06086a8516d330a84ac271b2e82a895a00cbf76715568b83ed3a7aef592fa834",
+      "publishedAtLabel": "Oct 13"
+    },
+    {
+      "id": 14541,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "Zimbabwe reports first two mpox cases of unspecified variant",
+      "description": "HARARE (Reuters) - Zimbabwe has confirmed its first two cases of mpox, the health ministry said on Sunday, without specifying which variant had been recorded. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2024/10/13/zimbabwe-reports-first-two-mpox-cases-of-unspecified-variant",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/10/13/2962482.jpg",
+      "publishedAt": "2024-10-13 15:58:00",
+      "content": "HARARE (Reuters) - Zimbabwe has confirmed its first two cases of mpox, the health ministry said on Sunday, without specifying which variant had been recorded. The first case was detected in an 11-ye\u2026 [+1192 chars]",
+      "retrievedAt": "2024-10-14 19:05:42.401892",
+      "internal_id": "116525f54e51e2c7abd45e0ce38fa1f2b6bd6ac02de82aaa4cba2153b73e62d2",
+      "publishedAtLabel": "Oct 13"
+    },
+    {
+      "id": 14539,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Tbsnews.net",
+      "author": "Unb",
+      "title": "Dengue: 4 more die, 660 hospitalised in 24hrs",
+      "description": "A total of 42,470 dengue cases have been reported since 1 January 2024",
+      "url": "https://www.tbsnews.net/bangladesh/health/dengue-4-more-die-660-hospitalised-24hrs-965891",
+      "urlToImage": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/09/04/dengue_ward_rajibdhar_0288.jpg",
+      "publishedAt": "2024-10-13 12:53:46",
+      "content": "Four more deaths were reported from dengue in 24 hours till Sunday morning, raising the number of fatalities from the mosquito-borne disease in Bangladesh to 214 this year. During the period, 660 mo\u2026 [+696 chars]",
+      "retrievedAt": "2024-10-14 19:05:40.554552",
+      "internal_id": "18618de64306b6ebbedb3a8ef4ab8d5532a735f2b4083b33bd58241acf3a91b4",
+      "publishedAtLabel": "Oct 13"
+    },
+    {
+      "id": 14542,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Agency",
+      "title": "First mpox diagnostic test approved by WHO",
+      "description": "The availability of such a test will help speed up identification of mpox patients and help prevent its transmission.",
+      "url": "https://www.thestar.com.my/lifestyle/health/2024/10/13/first-mpox-diagnostic-test-approved-by-who",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/10/11/2959154.jpg",
+      "publishedAt": "2024-10-13 12:33:12",
+      "content": "The World Health Organization (WHO) announced on Oct 4 (2024) that it had approved the use of the first diagnostic test for mpox, a key tool for countries battling outbreaks of this infectious diseas\u2026 [+1499 chars]",
+      "retrievedAt": "2024-10-14 19:05:42.413453",
+      "internal_id": "6c4bcd0cd81f98f672edd0accbe831f9b120493c7ea2ed87cb2a7b029a330b0c",
+      "publishedAtLabel": "Oct 13"
+    },
+    {
+      "id": 14537,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "The Japan Times",
+      "author": "The Japan Times",
+      "title": "Australia commits $64 million to protect against looming bird flu threat",
+      "description": "Oceania is the last region free of the H5N1 clade 2.3.4.4b avian influenza, which has killed hundreds of millions of birds since emerging in 2020.",
+      "url": "https://www.japantimes.co.jp/news/2024/10/13/asia-pacific/australia-bird-flu-funding/",
+      "urlToImage": "https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/13/427549.JPG?v=3.1",
+      "publishedAt": "2024-10-13 11:42:00",
+      "content": "SYDNEY Australia's government said on Sunday it would spend an extra 95 million Australian dollars ($64.13 million) to protect against a destructive bird flu strain that has spread through bird and m\u2026 [+1416 chars]",
+      "retrievedAt": "2024-10-14 19:05:40.172763",
+      "internal_id": "742e0fe55403bcf84740d2b06891cf81af7b9068348b9984e38eb6acb127de4c",
+      "publishedAtLabel": "Oct 13"
+    },
+    {
+      "id": 14536,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "abc-news-au",
+      "source_name": "ABC News (AU)",
+      "author": "Esther Linder",
+      "title": "Labor sets out $95 million to combat potential arrival of deadly bird flu strain H5N1",
+      "description": "Biosecurity, environmental funding for protected native species and a top-up of the national stockpile of flu vaccines are part of preparations for the arrival of H5N1 to Australia.",
+      "url": "https://www.abc.net.au/news/2024-10-13/labor-announces-95m-in-funding-for-bird-flu-h5n1/104467622",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/0b04ad35e96a4248c2825a4d68019d9c?impolicy=wcms_watermark_news&cropH=3233&cropW=5748&xPos=0&yPos=384&width=862&height=485&imformat=generic",
+      "publishedAt": "2024-10-13 11:32:07",
+      "content": "The looming arrival of a deadly strain of bird flu in Australia has prompted the federal government to set up a $95 million preparation fund as part of a swathe of biosecurity and environmental measu\u2026 [+3844 chars]",
+      "retrievedAt": "2024-10-14 19:05:40.122524",
+      "internal_id": "2c124687742780b77f0309fe129d557baf4ecbf028e76d325027c4e90e697d72",
       "publishedAtLabel": "Oct 13"
     }
   ]
