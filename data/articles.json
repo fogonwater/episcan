@@ -1,8 +1,296 @@
 {
-  "last_updated": "2024-11-28 07:07",
-  "count_articles_total": 1396,
-  "count_articles_new": 10,
+  "last_updated": "2024-11-28 19:06",
+  "count_articles_total": 1405,
+  "count_articles_new": 16,
   "articles": [
+    {
+      "id": 15938,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "Alejandro Horvat",
+      "title": "Recomendaci\u00f3n de especialistas: qui\u00e9nes deber\u00edan vacunarse contra el dengue",
+      "description": "Los expertos consideran que la inmunizaci\u00f3n es \u201cimprescindible\u201d para evitar las formas graves de la enfermedad",
+      "url": "https://www.lanacion.com.ar/sociedad/recomendacion-de-especialistas-quienes-deberian-vacunarse-contra-el-dengue-nid27112024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/ademas-de-la-vacunacion-los-expertos-insisten-en-L4WR4F6OZJDIDDMJTL6FICYISY.JPG?auth=9113a0445d22c887dc022df530ba1741e6d9c61535c6849c7d2656ac9f6921bd&width=1200&quality=70&smart=false&height=798",
+      "publishedAt": "2024-11-27 18:31:40",
+      "content": "La vacuna contra el dengue, una innovaci\u00f3n que promete reducir las complicaciones graves de esta enfermedad, se encuentra en el centro del debate sanitario en la Argentina. A pesar de los esfuerzos p\u2026 [+4874 chars]",
+      "retrievedAt": "2024-11-28 19:06:08.430158",
+      "internal_id": "089f8accffe2c59178a584103aa08635d5a64c1dc54faf0094dec828892ad99f",
+      "publishedAtLabel": "Nov 27"
+    },
+    {
+      "id": 15946,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
+      "author": "En partenariat avec Destination Sant\u00e9",
+      "title": "Sant\u00e9 - Vaccination. Chikungunya : un premier vaccin disponible en France",
+      "description": "Apr\u00e8s le feu vert de l'Union europ\u00e9enne, Valvena annonce la commercialisation en France du premier vaccin contre le chikungunya, cette maladie virale transmise par le moustique.",
+      "url": "https://www.ledauphine.com/magazine-sante/2024/11/27/chikungunya-un-premier-vaccin-disponible-en-france",
+      "urlToImage": "https://cdn-s-www.ledauphine.com/images/B53E5699-4EE2-4523-8D53-E171EF334C67/FB1200/photo-1732528497.jpg",
+      "publishedAt": "2024-11-27 18:00:00",
+      "content": "Valvena France a annonc\u00e9 le mercredi 20 novembre la mise \u00e0 disposition en France du premier vaccin contre le chikungunya. IXCHIQ est un vaccin att\u00e9nu\u00e9 vivant c\u2019est-\u00e0-dire qu\u2019il est constitu\u00e9 de virus\u2026 [+2365 chars]",
+      "retrievedAt": "2024-11-28 19:06:09.826410",
+      "internal_id": "b96b378641b9deaddd8a1bd5d8d11e100e891403ea58add8ab05a2000c0ab438",
+      "publishedAtLabel": "Nov 27"
+    },
+    {
+      "id": 15932,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Siphokazi Vuso, Wang Lei",
+      "title": "South Africa warns travelers of rabies risks",
+      "description": "CAPE TOWN, Nov. 27 (Xinhua) -- South African authorities have warned the public and travelers of rabies in dogs, Cape fur seals, and wildlife in the country as the traditional Thanksgiving holiday season approaches. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2024/11/28/south-africa-warns-travelers-of-rabies-risks",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2024-11-27 17:07:00",
+      "content": "CAPE TOWN, Nov. 27 (Xinhua) -- South African authorities have warned the public and travelers of rabies in dogs, Cape fur seals, and wildlife in the country as the traditional Thanksgiving holiday se\u2026 [+1937 chars]",
+      "retrievedAt": "2024-11-28 19:06:07.079272",
+      "internal_id": "d41ddc51743f2fba705179d88318fb1542946ae47bd7633b5c4f844f9a73bf2f",
+      "publishedAtLabel": "Nov 27"
+    },
+    {
+      "id": 15937,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "L'Express",
+      "author": "Yohan Blavignat",
+      "title": "La grippe aviaire, ce virus qui se rapproche des humains : ces sc\u00e9narios que redoutent les scientifiques",
+      "description": "Alors qu\u2019un adolescent hospitalis\u00e9 pour H5N1 au Canada pourrait \u00eatre porteur d\u2019une variante du virus qui le rendrait plus transmissible entre humains, plusieurs autres indices laissent craindre le pire.",
+      "url": "https://www.lexpress.fr/sciences-sante/la-grippe-aviaire-ce-virus-qui-se-rapproche-des-humains-ces-scenarios-que-redoutent-les-755HNY3TOVGOHKDTXPC4SIU35M/",
+      "urlToImage": "https://www.lexpress.fr/resizer/v2/BHXSIDNPW5H57JMS2UNJMYTMJE.jpg?auth=d1b430dd2b0e6f7d28d1f625acc83c11883e908140bb07c84f260227cbedae32&width=1200&height=630&quality=85&focal=631%2C431",
+      "publishedAt": "2024-11-27 17:00:00",
+      "content": "Le sc\u00e9nario de la fin d'ann\u00e9e 2019, avec l'\u00e9mergence d'une pand\u00e9mie en Chine, pourrait-il se reproduire dans les prochaines semaines, depuis les Etats-Unis cette fois, \u00e0 cause du virus de la grippe a\u2026 [+10948 chars]",
+      "retrievedAt": "2024-11-28 19:06:08.002825",
+      "internal_id": "8d44bb7a8bb42608ff01968546a7e4ba49f71dee1e2343758a7a508bca5a4889",
+      "publishedAtLabel": "Nov 27"
+    },
+    {
+      "id": 15933,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "DW (English)",
+      "author": "Elizabeth Schumacher",
+      "title": "Germany sees dramatic rise in measles cases",
+      "description": "Fatal diseases like measles and Hepatitis B are on the rise in Germany, despite accessible vaccines. Anti-vaccine social media, the COVID-19 pandemic, and imported cases are thought to be behind the drastic increase.",
+      "url": "https://www.dw.com/en/germany-sees-dramatic-rise-in-measles-cases/a-70901183",
+      "urlToImage": "https://static.dw.com/image/61632256_6.jpg",
+      "publishedAt": "2024-11-27 15:26:00",
+      "content": "\"Measles have come back to Germany,\" according to the country's top disease control center, the Robert-Koch Institute (RKI). 2024 has seen a staggering rise in the number of cases of the illness, whi\u2026 [+4676 chars]",
+      "retrievedAt": "2024-11-28 19:06:07.323038",
+      "internal_id": "4ce4d768f9bbd0499c6506c712c4086f59968e7fbf9b3b5120f1e9b45f133732",
+      "publishedAtLabel": "Nov 27"
+    },
+    {
+      "id": 15945,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Cult of Mac",
+      "author": "David Snow",
+      "title": "Holiday-shop with Apple Pay to help fight AIDS",
+      "description": "Automatic $5 Apple Pay donations support The Global Fund to Fight AIDS, Tuberculosis and Malaria November 29 through December 8. (via Cult of Mac - Apple news, rumors, reviews and how-tos)",
+      "url": "https://www.cultofmac.com/news/apple-pay-donations",
+      "urlToImage": "https://www.cultofmac.com/wp-content/uploads/2024/11/Apple-World-AIDS-Day-hero_big.jpg.large_2x-1536x864-1.jpg",
+      "publishedAt": "2024-11-27 15:22:44",
+      "content": "Apple said it will once again run its annual charitable giving campaign coinciding with World AIDS Day on December 1. And that gives holiday shoppers an opportunity to easily contribute to global hea\u2026 [+2165 chars]",
+      "retrievedAt": "2024-11-28 19:06:09.333806",
+      "internal_id": "e020821d1ea84c5400460b166f7e8f1bac1196e2aec47accd952214099ebe9cd",
+      "publishedAtLabel": "Nov 27"
+    },
+    {
+      "id": 15934,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Ilfattoquotidiano.it",
+      "author": "F. Q.",
+      "title": "Aviaria, ancora grave l\u2019adolescente canadese. Il rebus mutazione, ignota l\u2019origine dell\u2019infezione",
+      "description": "\u00c8 ancora in condizioni critiche ed \u00e8 ricoverato in terapia intensiva a Vancouver l\u2019adolescente canadese colpito dall\u2019influenza aviaria H5N1. Dopo giorni di silenzio e assenza di informazioni Bonnie Henry, responsabile sanitario della provincia British Columbi\u2026",
+      "url": "https://www.ilfattoquotidiano.it/2024/11/27/aviaria-ancora-in-condizioni-critiche-ladolescente-canadese-ricoverato-a-vancouver-ignota-lorigine-dellinfezione/7783203/",
+      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2024/11/27/ospedale-canadese-1200x630.jpg",
+      "publishedAt": "2024-11-27 13:24:56",
+      "content": "Roma, 27 nov. (Adnkronos) - \"Si \u00e8 creato un sistema connettivo sull'economia circolare dei rifiuti da imballaggio importante che ci ha portato nei posti pi\u00f9 alti del ranking europeo: un successo di u\u2026 [+2996 chars]",
+      "retrievedAt": "2024-11-28 19:06:07.913228",
+      "internal_id": "89a5110fb6ccfe540713ceec51f7af2e22288b4ad76fedd8b412bde474cf2529",
+      "publishedAtLabel": "Nov 27"
+    },
+    {
+      "id": 15943,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Mactrast.com",
+      "author": "Chris Hauk",
+      "title": "Apple Pay $5 Donations for World AIDS Day Campaign Returns This Friday",
+      "description": "Apple will make a $5 donation to the The Global Fund to Fight AIDS, Tuberculosis and Malaria for every purchase made using Apple Pay on Apple.com, through the Apple Store app, or at an Apple Store.Read More...",
+      "url": "https://www.mactrast.com/2024/11/apple-pay-5-donations-for-world-aids-day-campaign-returns-this-friday/",
+      "urlToImage": "https://www.mactrast.com/wp-content/uploads/2018/12/PRODUCT_RED_Mac_Black.jpg",
+      "publishedAt": "2024-11-27 13:05:16",
+      "content": "Apple on Tuesday announced that it will make a $5 donation to the The Global Fund to Fight AIDS, Tuberculosis and Malaria for every purchase made using Apple Pay on Apple.com, through the Apple Store\u2026 [+1036 chars]",
+      "retrievedAt": "2024-11-28 19:06:09.290265",
+      "internal_id": "8e23e523553b745936d6eafb18c121b4185219410192e61c7e2fe7ed0b48c9c2",
+      "publishedAtLabel": "Nov 27"
+    },
+    {
+      "id": 15935,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Owen Dyer",
+      "title": "Bird flu: First paediatric case in US is confirmed in California",
+      "description": "The US Centers for Disease Control and Prevention (CDC) has confirmed the country\u2019s first paediatric H5N1 infection, in a child in Alameda County, California. The patient, who had only mild symptoms and is no longer testing positive, is the second case among \u2026",
+      "url": "https://www.bmj.com/content/387/bmj.q2657",
+      "urlToImage": "https://www.bmj.com/sites/default/files/highwire/bmj/387/8449.cover-source.jpg",
+      "publishedAt": "2024-11-27 11:46:38",
+      "content": "The US Centers for Disease Control and Prevention (CDC) has confirmed the countrys first paediatric H5N1 infection, in a child in Alameda County, California. The patient, who had only mild symptoms a\u2026 [+1078 chars]",
+      "retrievedAt": "2024-11-28 19:06:07.942144",
+      "internal_id": "d7161b47e26c5291febbaa43dd4ef0e0dfb0cc16b6c310b8661371b61d728fb1",
+      "publishedAtLabel": "Nov 27"
+    },
+    {
+      "id": 15940,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Viswanath Pilla",
+      "title": "Abbott launches 14-valent pneumonia vaccine for children",
+      "description": "Abbott India launched PneumoShield 14, a pneumonia vaccine for children aged six weeks and older. This vaccine offers broader protection than existing vaccines by covering 14 pneumococcal strains, addressing infections like pneumonia and meningitis.",
+      "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/abbott-launches-14-valent-pneumonia-vaccine-for-children/articleshow/115733574.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-115733539,width-1200,height-630,imgsize-18874,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2024-11-27 11:29:10",
+      "content": "Marketing Future of Marketing &amp; Branding Masterclass By - Dr. David Aaker, Professor Emeritus at the Haas School of Business, UC Berkeley, Author | Speaker | Thought Leader | Branding Consultan\u2026 [+14 chars]",
+      "retrievedAt": "2024-11-28 19:06:08.775762",
+      "internal_id": "b7ba4e1af2ba9020b0b1c8989c7c0c14d5293a1f4c0d50af613235ec7ea49e89",
+      "publishedAtLabel": "Nov 27"
+    },
+    {
+      "id": 15939,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Aye Paing, Laura Elliff\u2013O\u2019Shea, Lisa Boardman, David Turner, Linda Glennie",
+      "title": "Meningitis (bacterial) and meningococcal disease: recognition, diagnosis and management\u2014summary of updated NICE guidance",
+      "description": "### What you need to know Bacterial meningitis and meningococcal disease are uncommon but life-threatening conditions. Early recognition is important but difficult because of the non-specific ways in which individuals present. The National Institute for Heal\u2026",
+      "url": "https://www.bmj.com/content/387/bmj.q2452",
+      "urlToImage": "https://www.bmj.com/sites/default/files/highwire/bmj/387/8449.cover-source.jpg",
+      "publishedAt": "2024-11-27 10:47:59",
+      "content": "Aye Paing, technical analyst1, Laura Elliff-OShea, technical adviser1, Lisa Boardman, guideline topic lead1, David Turner, clinical associate professor and honorary\u2026 [+2754 chars]",
+      "retrievedAt": "2024-11-28 19:06:08.768555",
+      "internal_id": "ed71fb353aa73f44c84287a0818eb0d3d41bc20901f02741dcba439724a4c927",
+      "publishedAtLabel": "Nov 27"
+    },
+    {
+      "id": 15936,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Cdr.cz",
+      "author": "Francesco",
+      "title": "Syrov\u00e9 kalifornsk\u00e9 ml\u00e9ko sta\u017eeno z prodeje: Obsahovalo virus pta\u010d\u00ed ch\u0159ipky",
+      "description": "Kalifornsk\u00e9 \u00fa\u0159ady na\u0159\u00eddily sta\u017een\u00ed syrov\u00e9ho (nepasterizovan\u00e9ho) ml\u00e9ka pot\u00e9, co testy odhalily p\u0159\u00edtomnost viru pta\u010d\u00ed ch\u0159ipky H5N1. Tento krok vyvol\u00e1v\u00e1 obavy ohledn\u011b bezpe\u010dnosti nepasterizovan\u00fdch ml\u00e9\u010dn\u00fdch produkt\u016f a jejich potenci\u00e1ln\u00edho rizika pro lidsk\u00e9 zdrav\u00ed.",
+      "url": "https://cdr.cz/clanek/syrove-kalifornske-mleko-stazeno-z-prodeje-obsahovalo-virus-ptaci-chripky",
+      "urlToImage": null,
+      "publishedAt": "2024-11-27 10:00:00",
+      "content": "Kontaminace syrov\u00e9ho ml\u00e9ka virem H5N1 V ned\u00e1vn\u00e9 dob byl v Kalifornii zjitn virus pta\u00ed chipky H5N1 v ari syrov\u00e9ho ml\u00e9ka prod\u00e1van\u00e9ho spolenost\u00ed Raw Farm, LLC z okresu Fresno. Kontaminace byla odhalena\u2026 [+3413 chars]",
+      "retrievedAt": "2024-11-28 19:06:07.948619",
+      "internal_id": "f638d5268724b1839fbeff61f5949019c0209bedc9d9b1a9b2f58a0e772ffd4c",
+      "publishedAtLabel": "Nov 27"
+    },
+    {
+      "id": 15941,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Ispazio.net",
+      "author": "Francesco Santagati",
+      "title": "Apple riduce il numero di prodotti (PRODUCT)RED ma continua il supporto a The Global Fund",
+      "description": "Apple riduce il numero di prodotti (PRODUCT)RED ma continua il supporto a The Global Fund Apple ha sempre avuto un forte impegno nella lotta contro malattie come l\u2019HIV/AIDS, la tubercolosi e la malaria, grazie alla sua partnership con il marchio (RED). Tutta\u2026",
+      "url": "https://www.ispazio.net/2084066/apple-riduce-prodotti-product-red",
+      "urlToImage": "https://www.ispazio.net/wp-content/uploads/2024/11/apple-prodcutred-ispazio.jpg",
+      "publishedAt": "2024-11-27 09:58:07",
+      "content": "Apple ha sempre avuto un forte impegno nella lotta contro malattie come lHIV/AIDS, la tubercolosi e la malaria, grazie alla sua partnership con il marchio (RED). Tuttavia, negli ultimi anni si \u00e8 osse\u2026 [+1588 chars]",
+      "retrievedAt": "2024-11-28 19:06:09.265696",
+      "internal_id": "736f00f1ad60b1e9476f2e946b13a8aae387953077e6d6cf2aba5533fe66a074",
+      "publishedAtLabel": "Nov 27"
+    },
+    {
+      "id": 15942,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Ipadizate.com",
+      "author": "Sergio J. Ortiz",
+      "title": "Apple sigue apoyando a (RED) y el D\u00eda Mundial del Sida, pero llevamos tiempo sin ver dispositivos rojos",
+      "description": "La campa\u00f1a (RED) de Apple est\u00e1 de vuelta por el D\u00eda Mundial del Sida. La firma de la manzana mordida realizar\u00e1 donaciones de 5 d\u00f3lares al Fondo Global para la Lucha contra el sida, la tuberculosis y la malaria por cada compra a trav\u00e9s de Apple Pay en su sitio\u2026",
+      "url": "https://ipadizate.com/apple/apple-sigue-apoyando-a-red-y-el-dia-mundial-del-sida-pero-llevamos-tiempo-sin-ver-dispositivos-rojos",
+      "urlToImage": "https://ipadizate.com/hero/2024/11/apple-product-red.jpeg?width=1200",
+      "publishedAt": "2024-11-27 09:34:07",
+      "content": "Dispositivos de la campa\u00f1a Product(RED) La campa\u00f1a (RED) de Apple est\u00e1 de vuelta por el D\u00eda Mundial del Sida. La firma de la manzana mordida realizar\u00e1 donaciones de 5 d\u00f3lares al Fondo Global para la\u2026 [+2936 chars]",
+      "retrievedAt": "2024-11-28 19:06:09.277860",
+      "internal_id": "4f0d5627100c58288e849225ee2065095fcb8191c707a9236df74a5f106659da",
+      "publishedAtLabel": "Nov 27"
+    },
+    {
+      "id": 15947,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "New mpox case detected in Malaysia",
+      "description": "PETALING JAYA: A new monkeypox (mpox) case has been detected in Malaysia, says the Health Ministry. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2024/11/27/new-mpox-case-detected-in-malaysia",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/11/27/3039209.jpg",
+      "publishedAt": "2024-11-27 09:24:00",
+      "content": "PETALING JAYA: A new monkeypox (mpox) case has been detected in Malaysia, says the Health Ministry. The latest case, a clade II infection, was reported on Monday (Nov 25). The case involves a 34-ye\u2026 [+1293 chars]",
+      "retrievedAt": "2024-11-28 19:06:10.060642",
+      "internal_id": "9a75079fbf2353a415bf71c6446d016464f3606a13abe29ba43dadf26b5397db",
+      "publishedAtLabel": "Nov 27"
+    },
+    {
+      "id": 15944,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Appgefahren.de",
+      "author": "Freddy",
+      "title": "Gibt es bald keine Apple-Produkte in (PRODUCT)RED mehr?",
+      "description": "Seit 2006 kooperiert Apple mit der Marke (RED), um den Global Fund zu unterst\u00fctzen, eine Organisation, die sich dem Kampf gegen Krankheiten wie HIV/AIDS, Tuberkulose und Malaria in Afrika widmet. Im Rahmen dieser Partnerschaft hat Apple \u00fcber Jahre hinweg vers\u2026",
+      "url": "https://www.appgefahren.de/gibt-es-bald-keine-apple-produkte-in-productred-mehr-369899.html",
+      "urlToImage": "https://www.appgefahren.de/wp-content/uploads/2023/12/Apple-PRODUCT-RED-Familie-Banner.jpg",
+      "publishedAt": "2024-11-27 07:48:44",
+      "content": "Seit 2006 kooperiert Apple mit der Marke (RED), um den Global Fund zu unterst\u00fctzen, eine Organisation, die sich dem Kampf gegen Krankheiten wie HIV/AIDS, Tuberkulose und Malaria in Afrika widmet. Im \u2026 [+2094 chars]",
+      "retrievedAt": "2024-11-28 19:06:09.327113",
+      "internal_id": "6f1f2ec7a54d77c210684bbcb2416fa73da048d196f9aaa5e9ddf964264bfee0",
+      "publishedAtLabel": "Nov 27"
+    },
     {
       "id": 15928,
       "query": [
@@ -25061,132 +25349,6 @@
       "content": "VOICE REFERENDUM ANNIVERSARY Today marks one year since Australia voted down a proposal to enshrine an Indigenous Voice to Parliament in the constitution. The AAP this morning quotes a spokesperson \u2026 [+12475 chars]",
       "retrievedAt": "2024-10-15 07:06:26.776795",
       "internal_id": "06ad02bc83552c95a113690de69b653d974edcbfd5eb46cbb16d66f770400d13",
-      "publishedAtLabel": "Oct 13"
-    },
-    {
-      "id": 14538,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "Dinesh K Sharma",
-      "title": "First diphtheria death in Ferozepur: 3-Year-old girl dies from bacterial infection",
-      "description": "Ferozepur's first diphtheria death amid the dengue season triggers alarm as a three-year-old passes away in Faridkot. Health teams conduct surveys, finding one more suspected case but tests negative. Authorities initiate door-to-door surveillance in affected \u2026",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/first-diphtheria-death-in-ferozepur-3-year-old-girl-dies-from-bacterial-infection/articleshow/114194849.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-114194880,width-1070,height-580,imgsize-524198,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-10-13 17:27:06",
-      "content": "What is far-infrared therapy good for?",
-      "retrievedAt": "2024-10-14 19:05:40.512157",
-      "internal_id": "ecd2975479ae8b0f861b894c2ee18393e8be581bfbd304036955ee4be9486078",
-      "publishedAtLabel": "Oct 13"
-    },
-    {
-      "id": 14540,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "Tichaona Chifamba",
-      "title": "Zimbabwe reports two mpox cases",
-      "description": "HARARE, Oct. 13 (Xinhua) -- Zimbabwe on Sunday announced two confirmed cases of mpox in people who have traveled to South Africa and Tanzania. Read full story",
-      "url": "https://www.thestar.com.my/news/world/2024/10/14/zimbabwe-reports-two-mpox-cases",
-      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
-      "publishedAt": "2024-10-13 17:03:00",
-      "content": "HARARE, Oct. 13 (Xinhua) -- Zimbabwe on Sunday announced two confirmed cases of mpox in people who have traveled to South Africa and Tanzania. Zimbabwe's Health and Child Care Minister Douglas Momb\u2026 [+928 chars]",
-      "retrievedAt": "2024-10-14 19:05:42.390223",
-      "internal_id": "06086a8516d330a84ac271b2e82a895a00cbf76715568b83ed3a7aef592fa834",
-      "publishedAtLabel": "Oct 13"
-    },
-    {
-      "id": 14541,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "The Star Online",
-      "title": "Zimbabwe reports first two mpox cases of unspecified variant",
-      "description": "HARARE (Reuters) - Zimbabwe has confirmed its first two cases of mpox, the health ministry said on Sunday, without specifying which variant had been recorded. Read full story",
-      "url": "https://www.thestar.com.my/news/world/2024/10/13/zimbabwe-reports-first-two-mpox-cases-of-unspecified-variant",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/10/13/2962482.jpg",
-      "publishedAt": "2024-10-13 15:58:00",
-      "content": "HARARE (Reuters) - Zimbabwe has confirmed its first two cases of mpox, the health ministry said on Sunday, without specifying which variant had been recorded. The first case was detected in an 11-ye\u2026 [+1192 chars]",
-      "retrievedAt": "2024-10-14 19:05:42.401892",
-      "internal_id": "116525f54e51e2c7abd45e0ce38fa1f2b6bd6ac02de82aaa4cba2153b73e62d2",
-      "publishedAtLabel": "Oct 13"
-    },
-    {
-      "id": 14539,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Tbsnews.net",
-      "author": "Unb",
-      "title": "Dengue: 4 more die, 660 hospitalised in 24hrs",
-      "description": "A total of 42,470 dengue cases have been reported since 1 January 2024",
-      "url": "https://www.tbsnews.net/bangladesh/health/dengue-4-more-die-660-hospitalised-24hrs-965891",
-      "urlToImage": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/09/04/dengue_ward_rajibdhar_0288.jpg",
-      "publishedAt": "2024-10-13 12:53:46",
-      "content": "Four more deaths were reported from dengue in 24 hours till Sunday morning, raising the number of fatalities from the mosquito-borne disease in Bangladesh to 214 this year. During the period, 660 mo\u2026 [+696 chars]",
-      "retrievedAt": "2024-10-14 19:05:40.554552",
-      "internal_id": "18618de64306b6ebbedb3a8ef4ab8d5532a735f2b4083b33bd58241acf3a91b4",
-      "publishedAtLabel": "Oct 13"
-    },
-    {
-      "id": 14542,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "Agency",
-      "title": "First mpox diagnostic test approved by WHO",
-      "description": "The availability of such a test will help speed up identification of mpox patients and help prevent its transmission.",
-      "url": "https://www.thestar.com.my/lifestyle/health/2024/10/13/first-mpox-diagnostic-test-approved-by-who",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/10/11/2959154.jpg",
-      "publishedAt": "2024-10-13 12:33:12",
-      "content": "The World Health Organization (WHO) announced on Oct 4 (2024) that it had approved the use of the first diagnostic test for mpox, a key tool for countries battling outbreaks of this infectious diseas\u2026 [+1499 chars]",
-      "retrievedAt": "2024-10-14 19:05:42.413453",
-      "internal_id": "6c4bcd0cd81f98f672edd0accbe831f9b120493c7ea2ed87cb2a7b029a330b0c",
-      "publishedAtLabel": "Oct 13"
-    },
-    {
-      "id": 14537,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "The Japan Times",
-      "author": "The Japan Times",
-      "title": "Australia commits $64 million to protect against looming bird flu threat",
-      "description": "Oceania is the last region free of the H5N1 clade 2.3.4.4b avian influenza, which has killed hundreds of millions of birds since emerging in 2020.",
-      "url": "https://www.japantimes.co.jp/news/2024/10/13/asia-pacific/australia-bird-flu-funding/",
-      "urlToImage": "https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/13/427549.JPG?v=3.1",
-      "publishedAt": "2024-10-13 11:42:00",
-      "content": "SYDNEY Australia's government said on Sunday it would spend an extra 95 million Australian dollars ($64.13 million) to protect against a destructive bird flu strain that has spread through bird and m\u2026 [+1416 chars]",
-      "retrievedAt": "2024-10-14 19:05:40.172763",
-      "internal_id": "742e0fe55403bcf84740d2b06891cf81af7b9068348b9984e38eb6acb127de4c",
-      "publishedAtLabel": "Oct 13"
-    },
-    {
-      "id": 14536,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "abc-news-au",
-      "source_name": "ABC News (AU)",
-      "author": "Esther Linder",
-      "title": "Labor sets out $95 million to combat potential arrival of deadly bird flu strain H5N1",
-      "description": "Biosecurity, environmental funding for protected native species and a top-up of the national stockpile of flu vaccines are part of preparations for the arrival of H5N1 to Australia.",
-      "url": "https://www.abc.net.au/news/2024-10-13/labor-announces-95m-in-funding-for-bird-flu-h5n1/104467622",
-      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/0b04ad35e96a4248c2825a4d68019d9c?impolicy=wcms_watermark_news&cropH=3233&cropW=5748&xPos=0&yPos=384&width=862&height=485&imformat=generic",
-      "publishedAt": "2024-10-13 11:32:07",
-      "content": "The looming arrival of a deadly strain of bird flu in Australia has prompted the federal government to set up a $95 million preparation fund as part of a swathe of biosecurity and environmental measu\u2026 [+3844 chars]",
-      "retrievedAt": "2024-10-14 19:05:40.122524",
-      "internal_id": "2c124687742780b77f0309fe129d557baf4ecbf028e76d325027c4e90e697d72",
       "publishedAtLabel": "Oct 13"
     }
   ]

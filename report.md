@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 10
-- **Last harvest:** 2024-11-28 07:07
-- **Most recent article:** 2024-11-27 06:19:11
+- **New articles in last harvest:** 16
+- **Last harvest:** 2024-11-28 19:06
+- **Most recent article:** 2024-11-27 18:31:40
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-42 | 24-43 | 24-44 | 24-45 | 24-46 | 24-47 | 24-48 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 81 | 131 | 75 | 63 | 62 | 76 | 7 | 495 |
-| dengue | 49 | 53 | 31 | 31 | 36 | 28 | 20 | 248 |
-| h5n1 | 18 | 12 | 61 | 36 | 40 | 50 | 21 | 238 |
-| malaria | 18 | 58 | 16 | 26 | 33 | 27 | 13 | 191 |
-| measles | 3 | 1 | 13 | 3 | 33 | 11 | 2 | 66 |
-| rabies | 7 | 3 | 10 | 5 | 11 | 7 | 5 | 48 |
+| mpox | 78 | 131 | 75 | 63 | 62 | 76 | 8 | 493 |
+| dengue | 47 | 53 | 31 | 31 | 36 | 28 | 21 | 247 |
+| h5n1 | 16 | 12 | 61 | 36 | 40 | 50 | 25 | 240 |
+| malaria | 18 | 58 | 16 | 26 | 33 | 27 | 18 | 196 |
+| measles | 3 | 1 | 13 | 3 | 33 | 11 | 3 | 67 |
+| rabies | 7 | 3 | 10 | 5 | 11 | 7 | 6 | 49 |
 | zika | 6 | 6 | 3 | 9 | 4 | 3 | 1 | 32 |
 | pertussis | 9 | 3 | 1 | 3 | 8 | 5 | 0 | 29 |
-| chikungunya | 4 | 7 | 2 | 2 | 3 | 5 | 3 | 26 |
+| chikungunya | 4 | 7 | 2 | 2 | 3 | 5 | 4 | 27 |
+| meningitis | 1 | 6 | 3 | 5 | 2 | 5 | 2 | 24 |
 | hpai | 2 | 2 | 7 | 4 | 4 | 4 | 0 | 23 |
-| meningitis | 1 | 6 | 3 | 5 | 2 | 5 | 0 | 22 |
 | leptospirosis | 0 | 0 | 3 | 10 | 3 | 0 | 0 | 16 |
 | typhoid | 1 | 3 | 4 | 1 | 1 | 3 | 1 | 14 |
 | yersinia | 0 | 0 | 3 | 0 | 0 | 1 | 0 | 4 |
@@ -43,6 +43,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-48 (rabies)
 
+- [South Africa warns travelers of rabies risks](https://www.thestar.com.my/news/world/2024/11/28/south-africa-warns-travelers-of-rabies-risks) (The Star Online)
+
 - [Valley resident dies from rabies after suspected bat bite, health officials confirm](https://abc30.com/post/valley-resident-dies-rabies-after-suspected-bat-bite-health-officials-confirm/15591076/) (KFSN-TV)
 
 - [Big Bad Wolves (2013)](https://www.kino-zeit.de/film-kritiken-trailer/big-bad-wolves) (Kino-zeit.de)
@@ -54,6 +56,8 @@ Source: [News API](https://newsapi.org/)
 - [Colorado mulls rule that would raise minimum age of imported pets to curb rabies](https://www.denverpost.com/2024/11/23/colorado-considering-imported-pets-rule-curb-rabies/) (The Denver Post)
 
 ## 24-48 (mpox)
+
+- [New mpox case detected in Malaysia](https://www.thestar.com.my/news/nation/2024/11/27/new-mpox-case-detected-in-malaysia) (The Star Online)
 
 - [Analysis-New mpox vaccines for Congo's children held up by old problem](https://www.thestar.com.my/news/world/2024/11/26/analysis-new-mpox-vaccines-for-congo039s-children-held-up-by-old-problem) (The Star Online)
 
@@ -69,13 +73,31 @@ Source: [News API](https://newsapi.org/)
 
 - [Face au Mpox, la nécessaire sécurisation des marchés de viande sauvage](https://www.jeuneafrique.com/1633221/societe/face-au-mpox-la-necessaire-securisation-des-marches-de-viande-sauvage/) (Jeune Afrique)
 
+## 24-48 (meningitis)
+
+- [Abbott launches 14-valent pneumonia vaccine for children](https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/abbott-launches-14-valent-pneumonia-vaccine-for-children/articleshow/115733574.cms) (The Times of India)
+
+- [Meningitis (bacterial) and meningococcal disease: recognition, diagnosis and management—summary of updated NICE guidance](https://www.bmj.com/content/387/bmj.q2452) (The BMJ)
+
 ## 24-48 (measles)
+
+- [Germany sees dramatic rise in measles cases](https://www.dw.com/en/germany-sees-dramatic-rise-in-measles-cases/a-70901183) (DW (English))
 
 - [I’ll never forget what Robert F. Kennedy Jnr did during Samoa’s measles outbreak - Brian Deer](https://www.nzherald.co.nz/world/ill-never-forget-what-robert-f-kennedy-jnr-did-during-samoas-measles-outbreak-brian-deer/WCBALRD42RDDDHQQ2C65DYD6LM/) (New Zealand Herald)
 
 - [The Fundamental Problem with R.F.K., Jr.,’s Nomination to H.H.S.](https://www.newyorker.com/magazine/2024/12/02/the-fundamental-problem-with-rfk-jrs-nomination-to-hhs) (The New Yorker)
 
 ## 24-48 (malaria)
+
+- [Holiday-shop with Apple Pay to help fight AIDS](https://www.cultofmac.com/news/apple-pay-donations) (Cult of Mac)
+
+- [Apple Pay $5 Donations for World AIDS Day Campaign Returns This Friday](https://www.mactrast.com/2024/11/apple-pay-5-donations-for-world-aids-day-campaign-returns-this-friday/) (Mactrast.com)
+
+- [Apple riduce il numero di prodotti (PRODUCT)RED ma continua il supporto a The Global Fund](https://www.ispazio.net/2084066/apple-riduce-prodotti-product-red) (Ispazio.net)
+
+- [Apple sigue apoyando a (RED) y el Día Mundial del Sida, pero llevamos tiempo sin ver dispositivos rojos](https://ipadizate.com/apple/apple-sigue-apoyando-a-red-y-el-dia-mundial-del-sida-pero-llevamos-tiempo-sin-ver-dispositivos-rojos) (Ipadizate.com)
+
+- [Gibt es bald keine Apple-Produkte in (PRODUCT)RED mehr?](https://www.appgefahren.de/gibt-es-bald-keine-apple-produkte-in-productred-mehr-369899.html) (Appgefahren.de)
 
 - [Nigeria loses $1.1bn to malaria yearly – Minister](https://punchng.com/nigeria-loses-1-1bn-to-malaria-yearly-minister/) (The Punch)
 
@@ -104,6 +126,14 @@ Source: [News API](https://newsapi.org/)
 - [Au Burkina Faso, Halidou Tinto, artisan d’un nouveau vaccin contre le paludisme](https://www.jeuneafrique.com/1631409/societe/au-burkina-faso-halidou-tinto-artisan-dun-nouveau-vaccin-contre-le-paludisme/) (Jeune Afrique)
 
 ## 24-48 (h5n1)
+
+- [La grippe aviaire, ce virus qui se rapproche des humains : ces scénarios que redoutent les scientifiques](https://www.lexpress.fr/sciences-sante/la-grippe-aviaire-ce-virus-qui-se-rapproche-des-humains-ces-scenarios-que-redoutent-les-755HNY3TOVGOHKDTXPC4SIU35M/) (L'Express)
+
+- [Aviaria, ancora grave l’adolescente canadese. Il rebus mutazione, ignota l’origine dell’infezione](https://www.ilfattoquotidiano.it/2024/11/27/aviaria-ancora-in-condizioni-critiche-ladolescente-canadese-ricoverato-a-vancouver-ignota-lorigine-dellinfezione/7783203/) (Ilfattoquotidiano.it)
+
+- [Bird flu: First paediatric case in US is confirmed in California](https://www.bmj.com/content/387/bmj.q2657) (The BMJ)
+
+- [Syrové kalifornské mléko staženo z prodeje: Obsahovalo virus ptačí chřipky](https://cdr.cz/clanek/syrove-kalifornske-mleko-stazeno-z-prodeje-obsahovalo-virus-ptaci-chripky) (Cdr.cz)
 
 - [Case of bird flu infection in British Columbia is still a mystery, for now](https://www.statnews.com/2024/11/26/bird-flu-canada-teen-cause-of-h5n1-avian-flu-infection-remains-unknown/) (STAT)
 
@@ -149,6 +179,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-48 (dengue)
 
+- [Recomendación de especialistas: quiénes deberían vacunarse contra el dengue](https://www.lanacion.com.ar/sociedad/recomendacion-de-especialistas-quienes-deberian-vacunarse-contra-el-dengue-nid27112024/) (La Nacion)
+
 - [Texas Reports First Case Of Locally Acquired Dengue This Year: Here's What To Know](https://www.medicaldaily.com/texas-reports-first-case-locally-acquired-dengue-this-year-heres-what-know-472733) (Medical Daily)
 
 - [Temporada de dengue: en busca de evitar faltantes de repelente, la Anmat elimina un requisito para la venta](https://www.lanacion.com.ar/sociedad/temporada-de-dengue-en-busca-de-evitar-faltantes-de-repelente-la-anmat-elimina-un-requisito-para-su-nid26112024/) (La Nacion)
@@ -190,6 +222,8 @@ Source: [News API](https://newsapi.org/)
 - [Dengue in Westbengal: শীতেও ডেঙ্গুর বাড়বাড়ন্ত, চিন্তার ভাঁজ স্বাস্থ্য দফতরের কপালে](https://bengali.indianexpress.com/west-bengal/dengue-cases-rising-in-west-bengal-day-by-day-govt-says-situation-under-control-7604565) (The Indian Express)
 
 ## 24-48 (chikungunya)
+
+- [Santé - Vaccination. Chikungunya : un premier vaccin disponible en France](https://www.ledauphine.com/magazine-sante/2024/11/27/chikungunya-un-premier-vaccin-disponible-en-france) (Le Dauphiné Libéré)
 
 - [El ECDC notifica 480.000 casos del virus de Chikungunya y 190 muertes en todo el mundo](https://www.infosalus.com/salud-investigacion/noticia-ecdc-notifica-480000-casos-virus-chikungunya-190-muertes-todo-mundo-20241125191117.html) (Infosalus.com)
 
@@ -2907,12 +2941,6 @@ Source: [News API](https://newsapi.org/)
 
 - [В Зимбабве зафиксировали два первых случая заражения оспой обезьян](https://news.mail.ru/incident/63197353/) (Mail.ru)
 
-- [Zimbabwe reports two mpox cases](https://www.thestar.com.my/news/world/2024/10/14/zimbabwe-reports-two-mpox-cases) (The Star Online)
-
-- [Zimbabwe reports first two mpox cases of unspecified variant](https://www.thestar.com.my/news/world/2024/10/13/zimbabwe-reports-first-two-mpox-cases-of-unspecified-variant) (The Star Online)
-
-- [First mpox diagnostic test approved by WHO](https://www.thestar.com.my/lifestyle/health/2024/10/13/first-mpox-diagnostic-test-approved-by-who) (The Star Online)
-
 ## 24-42 (meningitis)
 
 - [Meningococcal disease confirmed at Bonham Elementary School](https://www.fox26houston.com/news/meningococcal-disease-confirmed-bonham-elementary-school) (fox26houston.com)
@@ -3002,10 +3030,6 @@ Source: [News API](https://newsapi.org/)
 - [‘Real and significant threat’: Federal government pledges $95 million to prepare for arrival of deadly bird flu strain H5N1](https://www.skynews.com.au/lifestyle/health/real-and-significant-threat-federal-government-pledges-95-million-to-prepare-for-arrival-of-deadly-bird-flu-strain-h5n1/news-story/b19142b01e36899ca631b650fb092869) (Sky News Australia)
 
 - [Voice to Parliament: One year on](https://www.crikey.com.au/2024/10/14/indigenous-voice-to-parliament-anniversary-bird-flu-h5n1/) (Crikey)
-
-- [Australia commits $64 million to protect against looming bird flu threat](https://www.japantimes.co.jp/news/2024/10/13/asia-pacific/australia-bird-flu-funding/) (The Japan Times)
-
-- [Labor sets out $95 million to combat potential arrival of deadly bird flu strain H5N1](https://www.abc.net.au/news/2024-10-13/labor-announces-95m-in-funding-for-bird-flu-h5n1/104467622) (ABC News (AU))
 
 ## 24-42 (dengue)
 
@@ -3102,10 +3126,6 @@ Source: [News API](https://newsapi.org/)
 - [Bangladesh records highest daily spike of 9 dengue deaths this year](http://en.people.cn/n3/2024/1014/c90000-20229117.html) (People.cn)
 
 - [Dengue deaths, cases in Bacolod increasing further](https://rpnradio.com/dengue-deaths-cases-in-bacolod-increasing-further/) (Rpnradio.com)
-
-- [First diphtheria death in Ferozepur: 3-Year-old girl dies from bacterial infection](https://timesofindia.indiatimes.com/city/chandigarh/first-diphtheria-death-in-ferozepur-3-year-old-girl-dies-from-bacterial-infection/articleshow/114194849.cms) (The Times of India)
-
-- [Dengue: 4 more die, 660 hospitalised in 24hrs](https://www.tbsnews.net/bangladesh/health/dengue-4-more-die-660-hospitalised-24hrs-965891) (Tbsnews.net)
 
 ## 24-42 (chikungunya)
 
