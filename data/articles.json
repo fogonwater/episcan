@@ -1,8 +1,206 @@
 {
-  "last_updated": "2024-11-29 07:07",
-  "count_articles_total": 1417,
-  "count_articles_new": 5,
+  "last_updated": "2024-11-29 19:06",
+  "count_articles_total": 1421,
+  "count_articles_new": 11,
   "articles": [
+    {
+      "id": 15953,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TOI Trending Desk",
+      "title": "California resident dies from rabies after bat bite: Symptoms and treatment explained",
+      "description": "A California man from Fresno County has died after being bitten by a rabid bat a month prior in Merced County. State and local health officials confirmed rabies as the cause. Health authorities warn that bat bites may be small and hard to detect, urging immed\u2026",
+      "url": "https://timesofindia.indiatimes.com/etimes/trending/california-resident-dies-from-rabies-after-bat-bite-symptoms-and-treatment-explained/articleshow/115781266.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-115781303,width-1070,height-580,imgsize-83646,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-11-28 19:04:33",
+      "content": "UP: Ghaziabad boy dies of rabies month after he was bitten by dog; FIR registered against four people",
+      "retrievedAt": "2024-11-29 19:06:03.181048",
+      "internal_id": "74703d80b370ca6ed8426ad6af81d0012c13a66f1b8f8aa1efe9fabc88f89c34",
+      "publishedAtLabel": "Nov 28"
+    },
+    {
+      "id": 15956,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Levif.be",
+      "author": "Le Vif",
+      "title": "Grippe H5N1: l\u2019OMS appelle \u00e0 renforcer la surveillance apr\u00e8s un premier cas chez un enfant",
+      "description": "Face \u00e0 l'augmentation des cas de H5N1 chez l'humain, l'OMS appelle la communaut\u00e9 internationale \u00e0 renforcer sa surveillance et de redoubler d'efforts pour r\u00e9duire les risques d'infection, aussi bien chez les animaux que chez l'homme. The post Grippe H5N1: l\u2019O\u2026",
+      "url": "https://www.levif.be/societe/sante/grippe-h5n1-oms-appelle-a-renforcer-la-surveillance-apres-un-premier-cas-chez-un-enfant/",
+      "urlToImage": "https://img.static-rmg.be/a/view/q75/w1600/h836/f40.85,70.24/6797040/gettyimages-1527395463-jpg.jpg",
+      "publishedAt": "2024-11-28 18:15:54",
+      "content": "Face \u00e0 l\u2019augmentation des cas de H5N1 chez l\u2019humain, l\u2019OMS appelle la communaut\u00e9 internationale \u00e0 renforcer sa surveillance et de redoubler d\u2019efforts pour r\u00e9duire les risques d\u2019infection, aussi bien \u2026 [+2971 chars]",
+      "retrievedAt": "2024-11-29 19:06:04.008264",
+      "internal_id": "65615fdc228b3061d04e470387ec6b00771adec15ae59b301d7bc17a96828615",
+      "publishedAtLabel": "Nov 28"
+    },
+    {
+      "id": 15957,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ouniversodatv.com",
+      "author": "Anderson Ramos",
+      "title": "\"Sa\u00fade e F\u00e9\" destaca cuidados e aumento da dengue no ver\u00e3o",
+      "description": "Foto: Produ\u00e7\u00e3o TV Aparecida O \" Sa\u00fade e F\u00e9 \" deste s\u00e1bado (30/11), \u00e0s 16h, traz como tema a dengue, um assunto que est\u00e1 sempre em ...",
+      "url": "https://www.ouniversodatv.com/2024/11/saude-e-fe-destaca-cuidados-e-aumento.html",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyTA-yLHzoPt3lO-MhbB8YhCiZYb27KBDKcjKvzTlkc4wG0-lxoj0zz7BMtxAHT9fAbNowE4DEqqq0DNB9LQ-IJ14XPKQs2zW-LAA_AHtsx66VU79ObIx4pBmazH2MUPSIHcbqeY860SsUs5Iu7tpjBFTgUzkXbHholRBmcMljIxz72WsewL1iKALZwlct/w1600/SFE%203011%20(2).jpeg",
+      "publishedAt": "2024-11-28 18:09:00",
+      "content": "Foto: Produ\u00e7\u00e3o TV Aparecida O \"Sa\u00fade e F\u00e9\" deste s\u00e1bado (30/11), \u00e0s 16h, traz como tema a dengue, um assunto que est\u00e1 sempre em alta com a proximid\u2026 [+1296 chars]",
+      "retrievedAt": "2024-11-29 19:06:04.482324",
+      "internal_id": "3d731295a8a4a4b556c54542b79c0316628d614ad9aaac98299ef79fdcaed271",
+      "publishedAtLabel": "Nov 28"
+    },
+    {
+      "id": 15960,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Lara Adejoro",
+      "title": "NAFDAC warns Nigerians of fake anti-malaria drugs in circulation",
+      "description": "The National Agency for Food and Drugs Administration and Control has raised an alert over the circulation of counterfeit Combiart Dispersible Tablet 20/120mg in Nigeria. NAFDAC disclosed this via a post on its X handle on Thursday. According to the agency, t\u2026",
+      "url": "https://punchng.com/nafdac-warns-nigerians-of-fake-anti-malaria-drugs-in-circulation/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2024/11/28184913/fake-anti-malaria-drug.png",
+      "publishedAt": "2024-11-28 18:01:44",
+      "content": "The National Agency for Food and Drugs Administration and Control has raised an alert over the circulation of counterfeit Combiart Dispersible Tablet 20/120mg in Nigeria. NAFDAC disclosed this via a\u2026 [+2862 chars]",
+      "retrievedAt": "2024-11-29 19:06:04.972538",
+      "internal_id": "63632fb1504a1b2d8117b5b3650f7f95e12ffb9bf3b6d43f6a55f14774a64bf3",
+      "publishedAtLabel": "Nov 28"
+    },
+    {
+      "id": 15955,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Portfolio.hu",
+      "author": "Portfolio.hu",
+      "title": "Nem az a k\u00e9rd\u00e9s, lesz-e \u00faj j\u00e1rv\u00e1ny, hanem hogy mikor - Fokozott \u00e9bers\u00e9gre sz\u00f3l\u00edtott fel a WHO",
+      "description": "Az Eg\u00e9szs\u00e9g\u00fcgyi Vil\u00e1gszervezet (WHO) fokozott \u00e9bers\u00e9gre sz\u00f3l\u00edt fel a H5N1 mad\u00e1rinfluenza terjed\u00e9s\u00e9nek megf\u00e9kez\u00e9se \u00e9rdek\u00e9ben. A szervezet szak\u00e9rt\u0151i szerint kulcsfontoss\u00e1g\u00fa az \u00e1llatok, k\u00fcl\u00f6n\u00f6sen a vadon \u00e9l\u0151 madarak \u00e9s a baromfik szigor\u00fabb megfigyel\u00e9se, valamint\u2026",
+      "url": "https://www.portfolio.hu/global/20241128/nem-az-a-kerdes-lesz-e-uj-jarvany-hanem-hogy-mikor-fokozott-ebersegre-szolitott-fel-a-who-726428",
+      "urlToImage": "https://cdn.portfolio.hu/articles/images-xl/m/a/d/madarinfluenza-h5n1-718412.jpg",
+      "publishedAt": "2024-11-28 17:54:00",
+      "content": "A WHO j\u00e1rv\u00e1ny\u00fcgyi szak\u00e9rtje, Maria Van Kerkhove egy online sajt\u00f3t\u00e1j\u00e9koztat\u00f3n hangs\u00falyozta a glob\u00e1lis \u00f6sszefog\u00e1s fontoss\u00e1g\u00e1t. \"Amire val\u00f3ban sz\u00fcks\u00e9g\u00fcnk van glob\u00e1lisan, az Egyes\u00fclt \u00c1llamokban \u00e9s k\u00fclf\u00f6l\u2026 [+1759 chars]",
+      "retrievedAt": "2024-11-29 19:06:03.985943",
+      "internal_id": "785545658c1cef77c59206ec2c04cc067ce8aa820c39f64478be67db64c0b6a5",
+      "publishedAtLabel": "Nov 28"
+    },
+    {
+      "id": 15962,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": "UK Health Security Agency",
+      "title": "Guidance: Mpox: information for contacts of cases of clade I mpox",
+      "description": "Follow-up advice for contacts of a clade I mpox case.",
+      "url": "https://www.gov.uk/government/publications/mpox-information-for-contacts-of-cases-of-clade-i-mpox",
+      "urlToImage": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png",
+      "publishedAt": "2024-11-28 16:41:49",
+      "content": "We use some essential cookies to make this website work. Wed like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services. We also use coo\u2026 [+70 chars]",
+      "retrievedAt": "2024-11-29 19:06:05.583908",
+      "internal_id": "1f501ecaf926702894f8f9316985ac29ff9e7745806235dc35c4e0d48fb61fbe",
+      "publishedAtLabel": "Nov 28"
+    },
+    {
+      "id": 15963,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "World Health Organization",
+      "author": "World Health Organization: WHO",
+      "title": "Second meeting of the International Health Regulations (2005) Emergency Committee regarding the upsurge of mpox 2024",
+      "description": "The Director-General of the World Health Organization (WHO) is hereby transmitting the report of the second meeting of the International Health Regulations (2005) (IHR) Emergency Committee (Committee) reg\u2026",
+      "url": "https://www.who.int/news/item/28-11-2024-second-meeting-of-the-international-health-regulations-(2005)-emergency-committee-regarding-the-upsurge-of-mpox-2024",
+      "urlToImage": "https://cdn.who.int/media/images/default-source/topics/diseases-and-conditions/mpox/taking-sample-from-mpox-patient.tmb-1200v.jpg?sfvrsn=75c033cc_6",
+      "publishedAt": "2024-11-28 15:41:02",
+      "content": "The Director-General of the World Health Organization (WHO) is hereby transmitting the report of the second meeting of the International Health Regulations (2005) (IHR) Emergency Committee (Committee\u2026 [+29418 chars]",
+      "retrievedAt": "2024-11-29 19:06:05.622852",
+      "internal_id": "5e3b8d61faac711f75bee7990fa83b351f1707146863b9190a430f6c593b709c",
+      "publishedAtLabel": "Nov 28"
+    },
+    {
+      "id": 15954,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Inter Press Service",
+      "author": "Isatou Touray",
+      "title": "Eliminating Rabies in Africa Must Begin with Quality Data",
+      "description": "Rabies, despite being a major public health concern in Africa, is still not fully understood, due to the limited data available on it. This has slowed down efforts to eliminate it, yet the continent bears a significant burden of the disease and accounts for m\u2026",
+      "url": "https://www.ipsnews.net/2024/11/eliminating-rabies-africa-must-begin-quality-data/",
+      "urlToImage": "https://www.ipsnews.net/Library/2024/11/rabies.jpg",
+      "publishedAt": "2024-11-28 14:10:21",
+      "content": "Africa, Headlines, Health, Poverty &amp; SDGsOpinion To effectively eliminate rabies in the continent, there is need for the right information on its prevalence, transmission patterns, vaccination r\u2026 [+5172 chars]",
+      "retrievedAt": "2024-11-29 19:06:03.235126",
+      "internal_id": "d1f3e042c7189ba7fe34a0ad32a126fc9bd721b58198ce90eb4ac9d3818cadc9",
+      "publishedAtLabel": "Nov 28"
+    },
+    {
+      "id": 15959,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Internazionale.it",
+      "author": "Internazionale",
+      "title": "Vaccinati dalle zanzare",
+      "description": "La zanzara anofele ( nella foto ), che trasmette il plasmodio della malaria, pu\u00f2 essere usata per combattere la malattia. Il New England Journal of Medicine ha pubblicato\u2026 Leggi",
+      "url": "https://www.internazionale.it/magazine/2024/11/28/vaccinati-dalle-zanzare",
+      "urlToImage": "https://media.internazionale.it/images/2024/11/28/258459-sd.jpg",
+      "publishedAt": "2024-11-28 11:36:55",
+      "content": "La zanzara anofele ( nella foto ), che trasmette il plasmodio della malaria, pu\u00f2 essere usata per combattere la malattia. Il New England Journal of Medicine ha pubblicato i risultati della sperimenta\u2026 [+741 chars]",
+      "retrievedAt": "2024-11-29 19:06:04.931525",
+      "internal_id": "a4af43038d88a2c38ccc6544e049f22302a9bb575d49257f342125b37434b3f7",
+      "publishedAtLabel": "Nov 28"
+    },
+    {
+      "id": 15958,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": "UK Health Security Agency",
+      "title": "Press release: UK on brink of defeating meningococcal C",
+      "description": "The fight against meningococcal B continues.",
+      "url": "https://www.gov.uk/government/news/uk-on-brink-of-defeating-meningococcal-c",
+      "urlToImage": "https://assets.publishing.service.gov.uk/media/674822adcf0d45234dd8d0ff/s960_menin.png",
+      "publishedAt": "2024-11-28 09:30:30",
+      "content": "New UKHSA data shows that cases of meningococcal disease, which typically causes meningitis and septicaemia, continue to decline due to the success of the NHS vaccination programmes over the past two\u2026 [+4607 chars]",
+      "retrievedAt": "2024-11-29 19:06:04.686943",
+      "internal_id": "2b1cdcebf304e8c85a15a7ad43f8861e7135a29d02435fffbd7c3c032bde3647",
+      "publishedAtLabel": "Nov 28"
+    },
+    {
+      "id": 15961,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Kashamuka, M. M., Banek, K., White, S. J., Atibu, J. L., Mvuama, N. M., Bala, J. A. M., Nseka, T. M., Kihuma, G., Diallo, A. O., Nkalani, M., Mahilu, G. E., Manenga, F., Varun, G., Vulu, F., Mampuya, P. N., Dinglasan, R., Bobanga, T., Emch, M., Juliano, J. J., Parr, J. B., Mwapasa, V., Tshefu, A. K.",
+      "title": "Baseline characteristics for phase II of the Kinshasa Malaria Cohort Study: cohort profile",
+      "description": "Purpose The Democratic Republic of Congo has one of the highest burdens of malaria in the world, accounting for 12.3% of malaria cases and 11.6% of malaria deaths. The country has been scaling up various malaria control interventions, but how the malaria burd\u2026",
+      "url": "https://bmjopen.bmj.com/content/14/11/e085360",
+      "urlToImage": "https://bmjopen.bmj.com/pages/wp-content/uploads/sites/7/2019/07/bmjopen-default-cover.png",
+      "publishedAt": "2024-11-28 07:55:15",
+      "content": "This was a prospective observational cohort study comprising 1635 individuals from 7 sites in Kinshasa.",
+      "retrievedAt": "2024-11-29 19:06:05.002370",
+      "internal_id": "61b87797fbab3b1c4be18f1a47998545ce95bcbcb41bc4c1c783e9e0f2d68fae",
+      "publishedAtLabel": "Nov 28"
+    },
     {
       "id": 15950,
       "query": [
@@ -25439,132 +25637,6 @@
       "content": "VOICE REFERENDUM ANNIVERSARY Today marks one year since Australia voted down a proposal to enshrine an Indigenous Voice to Parliament in the constitution. The AAP this morning quotes a spokesperson \u2026 [+12475 chars]",
       "retrievedAt": "2024-10-15 07:06:26.776795",
       "internal_id": "06ad02bc83552c95a113690de69b653d974edcbfd5eb46cbb16d66f770400d13",
-      "publishedAtLabel": "Oct 13"
-    },
-    {
-      "id": 14538,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "Dinesh K Sharma",
-      "title": "First diphtheria death in Ferozepur: 3-Year-old girl dies from bacterial infection",
-      "description": "Ferozepur's first diphtheria death amid the dengue season triggers alarm as a three-year-old passes away in Faridkot. Health teams conduct surveys, finding one more suspected case but tests negative. Authorities initiate door-to-door surveillance in affected \u2026",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/first-diphtheria-death-in-ferozepur-3-year-old-girl-dies-from-bacterial-infection/articleshow/114194849.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-114194880,width-1070,height-580,imgsize-524198,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-10-13 17:27:06",
-      "content": "What is far-infrared therapy good for?",
-      "retrievedAt": "2024-10-14 19:05:40.512157",
-      "internal_id": "ecd2975479ae8b0f861b894c2ee18393e8be581bfbd304036955ee4be9486078",
-      "publishedAtLabel": "Oct 13"
-    },
-    {
-      "id": 14540,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "Tichaona Chifamba",
-      "title": "Zimbabwe reports two mpox cases",
-      "description": "HARARE, Oct. 13 (Xinhua) -- Zimbabwe on Sunday announced two confirmed cases of mpox in people who have traveled to South Africa and Tanzania. Read full story",
-      "url": "https://www.thestar.com.my/news/world/2024/10/14/zimbabwe-reports-two-mpox-cases",
-      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
-      "publishedAt": "2024-10-13 17:03:00",
-      "content": "HARARE, Oct. 13 (Xinhua) -- Zimbabwe on Sunday announced two confirmed cases of mpox in people who have traveled to South Africa and Tanzania. Zimbabwe's Health and Child Care Minister Douglas Momb\u2026 [+928 chars]",
-      "retrievedAt": "2024-10-14 19:05:42.390223",
-      "internal_id": "06086a8516d330a84ac271b2e82a895a00cbf76715568b83ed3a7aef592fa834",
-      "publishedAtLabel": "Oct 13"
-    },
-    {
-      "id": 14541,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "The Star Online",
-      "title": "Zimbabwe reports first two mpox cases of unspecified variant",
-      "description": "HARARE (Reuters) - Zimbabwe has confirmed its first two cases of mpox, the health ministry said on Sunday, without specifying which variant had been recorded. Read full story",
-      "url": "https://www.thestar.com.my/news/world/2024/10/13/zimbabwe-reports-first-two-mpox-cases-of-unspecified-variant",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/10/13/2962482.jpg",
-      "publishedAt": "2024-10-13 15:58:00",
-      "content": "HARARE (Reuters) - Zimbabwe has confirmed its first two cases of mpox, the health ministry said on Sunday, without specifying which variant had been recorded. The first case was detected in an 11-ye\u2026 [+1192 chars]",
-      "retrievedAt": "2024-10-14 19:05:42.401892",
-      "internal_id": "116525f54e51e2c7abd45e0ce38fa1f2b6bd6ac02de82aaa4cba2153b73e62d2",
-      "publishedAtLabel": "Oct 13"
-    },
-    {
-      "id": 14539,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Tbsnews.net",
-      "author": "Unb",
-      "title": "Dengue: 4 more die, 660 hospitalised in 24hrs",
-      "description": "A total of 42,470 dengue cases have been reported since 1 January 2024",
-      "url": "https://www.tbsnews.net/bangladesh/health/dengue-4-more-die-660-hospitalised-24hrs-965891",
-      "urlToImage": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/09/04/dengue_ward_rajibdhar_0288.jpg",
-      "publishedAt": "2024-10-13 12:53:46",
-      "content": "Four more deaths were reported from dengue in 24 hours till Sunday morning, raising the number of fatalities from the mosquito-borne disease in Bangladesh to 214 this year. During the period, 660 mo\u2026 [+696 chars]",
-      "retrievedAt": "2024-10-14 19:05:40.554552",
-      "internal_id": "18618de64306b6ebbedb3a8ef4ab8d5532a735f2b4083b33bd58241acf3a91b4",
-      "publishedAtLabel": "Oct 13"
-    },
-    {
-      "id": 14542,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "Agency",
-      "title": "First mpox diagnostic test approved by WHO",
-      "description": "The availability of such a test will help speed up identification of mpox patients and help prevent its transmission.",
-      "url": "https://www.thestar.com.my/lifestyle/health/2024/10/13/first-mpox-diagnostic-test-approved-by-who",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/10/11/2959154.jpg",
-      "publishedAt": "2024-10-13 12:33:12",
-      "content": "The World Health Organization (WHO) announced on Oct 4 (2024) that it had approved the use of the first diagnostic test for mpox, a key tool for countries battling outbreaks of this infectious diseas\u2026 [+1499 chars]",
-      "retrievedAt": "2024-10-14 19:05:42.413453",
-      "internal_id": "6c4bcd0cd81f98f672edd0accbe831f9b120493c7ea2ed87cb2a7b029a330b0c",
-      "publishedAtLabel": "Oct 13"
-    },
-    {
-      "id": 14537,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "The Japan Times",
-      "author": "The Japan Times",
-      "title": "Australia commits $64 million to protect against looming bird flu threat",
-      "description": "Oceania is the last region free of the H5N1 clade 2.3.4.4b avian influenza, which has killed hundreds of millions of birds since emerging in 2020.",
-      "url": "https://www.japantimes.co.jp/news/2024/10/13/asia-pacific/australia-bird-flu-funding/",
-      "urlToImage": "https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/13/427549.JPG?v=3.1",
-      "publishedAt": "2024-10-13 11:42:00",
-      "content": "SYDNEY Australia's government said on Sunday it would spend an extra 95 million Australian dollars ($64.13 million) to protect against a destructive bird flu strain that has spread through bird and m\u2026 [+1416 chars]",
-      "retrievedAt": "2024-10-14 19:05:40.172763",
-      "internal_id": "742e0fe55403bcf84740d2b06891cf81af7b9068348b9984e38eb6acb127de4c",
-      "publishedAtLabel": "Oct 13"
-    },
-    {
-      "id": 14536,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "abc-news-au",
-      "source_name": "ABC News (AU)",
-      "author": "Esther Linder",
-      "title": "Labor sets out $95 million to combat potential arrival of deadly bird flu strain H5N1",
-      "description": "Biosecurity, environmental funding for protected native species and a top-up of the national stockpile of flu vaccines are part of preparations for the arrival of H5N1 to Australia.",
-      "url": "https://www.abc.net.au/news/2024-10-13/labor-announces-95m-in-funding-for-bird-flu-h5n1/104467622",
-      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/0b04ad35e96a4248c2825a4d68019d9c?impolicy=wcms_watermark_news&cropH=3233&cropW=5748&xPos=0&yPos=384&width=862&height=485&imformat=generic",
-      "publishedAt": "2024-10-13 11:32:07",
-      "content": "The looming arrival of a deadly strain of bird flu in Australia has prompted the federal government to set up a $95 million preparation fund as part of a swathe of biosecurity and environmental measu\u2026 [+3844 chars]",
-      "retrievedAt": "2024-10-14 19:05:40.122524",
-      "internal_id": "2c124687742780b77f0309fe129d557baf4ecbf028e76d325027c4e90e697d72",
       "publishedAtLabel": "Oct 13"
     }
   ]
