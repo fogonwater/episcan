@@ -1,8 +1,98 @@
 {
-  "last_updated": "2024-11-28 19:06",
-  "count_articles_total": 1405,
-  "count_articles_new": 16,
+  "last_updated": "2024-11-29 07:07",
+  "count_articles_total": 1417,
+  "count_articles_new": 5,
   "articles": [
+    {
+      "id": 15950,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Spektrum.de",
+      "author": "Lars Fischer",
+      "title": "Wie nah H5N1 einer Pandemie wirklich ist",
+      "description": "Zwei neue Mutationen bei der Vogelgrippe H5N1, die neulich bei einem schwer erkrankten jungen Menschen in Kanada gefunden wurden, machen Fachleuten Sorgen. Und das durchaus zu Recht. Zum ersten mal zeigt der Subtyp H5N1 dort \u2026",
+      "url": "https://scilogs.spektrum.de/fischblog/wie-nah-vogelgrippe-h5n1-einer-pandemie-ist/",
+      "urlToImage": "https://scilogs.spektrum.de/fischblog/files/Titel_H5N1__-scaled.jpg",
+      "publishedAt": "2024-11-28 06:23:15",
+      "content": "Zwei neue Mutationen bei der Vogelgrippe H5N1, die neulich bei einem schwer erkrankten jungen Menschen in Kanada gefunden wurden, machen Fachleuten Sorgen. Und das durchaus zu Recht. Zum ersten mal z\u2026 [+11048 chars]",
+      "retrievedAt": "2024-11-29 07:07:08.751688",
+      "internal_id": "6ac5e5e3792d6ab29d403a6324b0daa656521252da57bad17108569cdb7c59de",
+      "publishedAtLabel": "Nov 28"
+    },
+    {
+      "id": 15952,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Independent.ie",
+      "author": "Eilish O'Regan",
+      "title": "Cases of more dangerous mpox strain yet to be found here since alert in summer",
+      "description": "It is more than three months since the World Health Organisation (WHO) declared mpox a public health emergency of international concern, but to date Ireland has seen no cases of a new and more dangerous strain of the virus.",
+      "url": "https://www.independent.ie/irish-news/cases-of-more-dangerous-mpox-strain-yet-to-be-found-here-since-alert-in-summer/a899230250.html",
+      "urlToImage": "https://focus.independent.ie/thumbor/3foJ_IrKp2lVlIx3-O079jtQGnE=/629x460/smart/prod-mh-ireland/9ccda947-8b0d-4606-847b-82aaa3aab356/3828878f-7790-43cd-bbb7-d19d41c4eb63/9ccda947-8b0d-4606-847b-82aaa3aab356.jpg",
+      "publishedAt": "2024-11-28 02:30:00",
+      "content": "It is more than three months since the World Health Organisation (WHO) declared mpox a public health emergency of international concern, but to date Ireland has seen no cases of a new and more danger\u2026 [+2877 chars]",
+      "retrievedAt": "2024-11-29 07:07:10.818975",
+      "internal_id": "605f24029166d6e60ad8e6bd1833a84b750cd3bdcda658d528edff00bac521ab",
+      "publishedAtLabel": "Nov 28"
+    },
+    {
+      "id": 15951,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Thehillstimes.in",
+      "author": "The Hills Times",
+      "title": "Malaria outbreak sparks health crisis in Kokrajhar",
+      "description": "HT Correspondent KOKRAJHAR, Nov 27: The surge of malaria in Kokrajhar district and its adjoining areas has been creating chaos among the citizens over the past few days. Notably, five people have succumbed to the disease in recent days\u2014including a 4-year-old\u2026",
+      "url": "https://thehillstimes.in/assam/malaria-outbreak-sparks-health-crisis-in-kokrajhar",
+      "urlToImage": "https://thehillstimes.in/wp-content/uploads/2024/11/Malaria-outbreak-sparks-health-crisis-in-Kokrajhar.jpg",
+      "publishedAt": "2024-11-27 23:45:00",
+      "content": "HT Correspondent KOKRAJHAR, Nov 27: The surge of malaria in Kokrajhar district and its adjoining areas has been creating chaos among the citizens over the past few days. Notably, five people have \u2026 [+2191 chars]",
+      "retrievedAt": "2024-11-29 07:07:09.880507",
+      "internal_id": "16951e2d9f776d3e36953a28fe609dd303bd3ad218932c43ba510f3b1d2eae4d",
+      "publishedAtLabel": "Nov 27"
+    },
+    {
+      "id": 15948,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "KTVU San Francisco",
+      "author": "Ktvu Staff",
+      "title": "California resident dies from rabies after bitten by infected bat",
+      "description": "A California man has died after being bitten by a suspected rabid bat, state health officials said.",
+      "url": "https://www.ktvu.com/news/california-resident-dies-from-rabies-after-bitten-infected-bat",
+      "urlToImage": "https://images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2024/11/1280/720/gettyimages-1802701173-scaled.jpg?ve=1&tl=1",
+      "publishedAt": "2024-11-27 22:39:12",
+      "content": "FRESNO, Calif. - A California resident has died after being bitten by a suspected rabid bat, state health officials said. The victim, from Fresno County, died late last week after experiencing sympt\u2026 [+954 chars]",
+      "retrievedAt": "2024-11-29 07:07:07.689698",
+      "internal_id": "24c1080d12302e78f79559e03420c3261374c0fcde6efeafa02657615538b70e",
+      "publishedAtLabel": "Nov 27"
+    },
+    {
+      "id": 15949,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "new-scientist",
+      "source_name": "New Scientist",
+      "author": "Grace Wade",
+      "title": "Bird flu may be adapting to become more infectious to humans",
+      "description": "Three people in North America without known animal exposures have tested positive for the bird flu virus H5N1, and samples from two of them suggest the virus is adapting to humans",
+      "url": "https://www.newscientist.com/article/2458133-bird-flu-may-be-adapting-to-become-more-infectious-to-humans/",
+      "urlToImage": "https://images.newscientist.com/wp-content/uploads/2024/11/27195227/SEI_231128002.jpg",
+      "publishedAt": "2024-11-27 20:20:21",
+      "content": "Bird flu has been spreading in wild animals for years but it\u2019s now adapting to humans Vuk Valcic//SOPA Images/LightRocket via Getty Images The threat of the deadly H5N1 bird flu virus adapting to h\u2026 [+326 chars]",
+      "retrievedAt": "2024-11-29 07:07:08.728589",
+      "internal_id": "5507f64fd8d33d499d2a6ea378d3228ef321e9170ca97fa43c76a1f8ab1fac4c",
+      "publishedAtLabel": "Nov 27"
+    },
     {
       "id": 15938,
       "query": [
@@ -25349,6 +25439,132 @@
       "content": "VOICE REFERENDUM ANNIVERSARY Today marks one year since Australia voted down a proposal to enshrine an Indigenous Voice to Parliament in the constitution. The AAP this morning quotes a spokesperson \u2026 [+12475 chars]",
       "retrievedAt": "2024-10-15 07:06:26.776795",
       "internal_id": "06ad02bc83552c95a113690de69b653d974edcbfd5eb46cbb16d66f770400d13",
+      "publishedAtLabel": "Oct 13"
+    },
+    {
+      "id": 14538,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Dinesh K Sharma",
+      "title": "First diphtheria death in Ferozepur: 3-Year-old girl dies from bacterial infection",
+      "description": "Ferozepur's first diphtheria death amid the dengue season triggers alarm as a three-year-old passes away in Faridkot. Health teams conduct surveys, finding one more suspected case but tests negative. Authorities initiate door-to-door surveillance in affected \u2026",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/first-diphtheria-death-in-ferozepur-3-year-old-girl-dies-from-bacterial-infection/articleshow/114194849.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-114194880,width-1070,height-580,imgsize-524198,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-10-13 17:27:06",
+      "content": "What is far-infrared therapy good for?",
+      "retrievedAt": "2024-10-14 19:05:40.512157",
+      "internal_id": "ecd2975479ae8b0f861b894c2ee18393e8be581bfbd304036955ee4be9486078",
+      "publishedAtLabel": "Oct 13"
+    },
+    {
+      "id": 14540,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Tichaona Chifamba",
+      "title": "Zimbabwe reports two mpox cases",
+      "description": "HARARE, Oct. 13 (Xinhua) -- Zimbabwe on Sunday announced two confirmed cases of mpox in people who have traveled to South Africa and Tanzania. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2024/10/14/zimbabwe-reports-two-mpox-cases",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2024-10-13 17:03:00",
+      "content": "HARARE, Oct. 13 (Xinhua) -- Zimbabwe on Sunday announced two confirmed cases of mpox in people who have traveled to South Africa and Tanzania. Zimbabwe's Health and Child Care Minister Douglas Momb\u2026 [+928 chars]",
+      "retrievedAt": "2024-10-14 19:05:42.390223",
+      "internal_id": "06086a8516d330a84ac271b2e82a895a00cbf76715568b83ed3a7aef592fa834",
+      "publishedAtLabel": "Oct 13"
+    },
+    {
+      "id": 14541,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "Zimbabwe reports first two mpox cases of unspecified variant",
+      "description": "HARARE (Reuters) - Zimbabwe has confirmed its first two cases of mpox, the health ministry said on Sunday, without specifying which variant had been recorded. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2024/10/13/zimbabwe-reports-first-two-mpox-cases-of-unspecified-variant",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/10/13/2962482.jpg",
+      "publishedAt": "2024-10-13 15:58:00",
+      "content": "HARARE (Reuters) - Zimbabwe has confirmed its first two cases of mpox, the health ministry said on Sunday, without specifying which variant had been recorded. The first case was detected in an 11-ye\u2026 [+1192 chars]",
+      "retrievedAt": "2024-10-14 19:05:42.401892",
+      "internal_id": "116525f54e51e2c7abd45e0ce38fa1f2b6bd6ac02de82aaa4cba2153b73e62d2",
+      "publishedAtLabel": "Oct 13"
+    },
+    {
+      "id": 14539,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Tbsnews.net",
+      "author": "Unb",
+      "title": "Dengue: 4 more die, 660 hospitalised in 24hrs",
+      "description": "A total of 42,470 dengue cases have been reported since 1 January 2024",
+      "url": "https://www.tbsnews.net/bangladesh/health/dengue-4-more-die-660-hospitalised-24hrs-965891",
+      "urlToImage": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/09/04/dengue_ward_rajibdhar_0288.jpg",
+      "publishedAt": "2024-10-13 12:53:46",
+      "content": "Four more deaths were reported from dengue in 24 hours till Sunday morning, raising the number of fatalities from the mosquito-borne disease in Bangladesh to 214 this year. During the period, 660 mo\u2026 [+696 chars]",
+      "retrievedAt": "2024-10-14 19:05:40.554552",
+      "internal_id": "18618de64306b6ebbedb3a8ef4ab8d5532a735f2b4083b33bd58241acf3a91b4",
+      "publishedAtLabel": "Oct 13"
+    },
+    {
+      "id": 14542,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Agency",
+      "title": "First mpox diagnostic test approved by WHO",
+      "description": "The availability of such a test will help speed up identification of mpox patients and help prevent its transmission.",
+      "url": "https://www.thestar.com.my/lifestyle/health/2024/10/13/first-mpox-diagnostic-test-approved-by-who",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/10/11/2959154.jpg",
+      "publishedAt": "2024-10-13 12:33:12",
+      "content": "The World Health Organization (WHO) announced on Oct 4 (2024) that it had approved the use of the first diagnostic test for mpox, a key tool for countries battling outbreaks of this infectious diseas\u2026 [+1499 chars]",
+      "retrievedAt": "2024-10-14 19:05:42.413453",
+      "internal_id": "6c4bcd0cd81f98f672edd0accbe831f9b120493c7ea2ed87cb2a7b029a330b0c",
+      "publishedAtLabel": "Oct 13"
+    },
+    {
+      "id": 14537,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "The Japan Times",
+      "author": "The Japan Times",
+      "title": "Australia commits $64 million to protect against looming bird flu threat",
+      "description": "Oceania is the last region free of the H5N1 clade 2.3.4.4b avian influenza, which has killed hundreds of millions of birds since emerging in 2020.",
+      "url": "https://www.japantimes.co.jp/news/2024/10/13/asia-pacific/australia-bird-flu-funding/",
+      "urlToImage": "https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/13/427549.JPG?v=3.1",
+      "publishedAt": "2024-10-13 11:42:00",
+      "content": "SYDNEY Australia's government said on Sunday it would spend an extra 95 million Australian dollars ($64.13 million) to protect against a destructive bird flu strain that has spread through bird and m\u2026 [+1416 chars]",
+      "retrievedAt": "2024-10-14 19:05:40.172763",
+      "internal_id": "742e0fe55403bcf84740d2b06891cf81af7b9068348b9984e38eb6acb127de4c",
+      "publishedAtLabel": "Oct 13"
+    },
+    {
+      "id": 14536,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "abc-news-au",
+      "source_name": "ABC News (AU)",
+      "author": "Esther Linder",
+      "title": "Labor sets out $95 million to combat potential arrival of deadly bird flu strain H5N1",
+      "description": "Biosecurity, environmental funding for protected native species and a top-up of the national stockpile of flu vaccines are part of preparations for the arrival of H5N1 to Australia.",
+      "url": "https://www.abc.net.au/news/2024-10-13/labor-announces-95m-in-funding-for-bird-flu-h5n1/104467622",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/0b04ad35e96a4248c2825a4d68019d9c?impolicy=wcms_watermark_news&cropH=3233&cropW=5748&xPos=0&yPos=384&width=862&height=485&imformat=generic",
+      "publishedAt": "2024-10-13 11:32:07",
+      "content": "The looming arrival of a deadly strain of bird flu in Australia has prompted the federal government to set up a $95 million preparation fund as part of a swathe of biosecurity and environmental measu\u2026 [+3844 chars]",
+      "retrievedAt": "2024-10-14 19:05:40.122524",
+      "internal_id": "2c124687742780b77f0309fe129d557baf4ecbf028e76d325027c4e90e697d72",
       "publishedAtLabel": "Oct 13"
     }
   ]
