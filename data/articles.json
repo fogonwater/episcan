@@ -1,8 +1,260 @@
 {
-  "last_updated": "2024-11-29 19:06",
-  "count_articles_total": 1421,
-  "count_articles_new": 11,
+  "last_updated": "2024-11-30 07:06",
+  "count_articles_total": 1444,
+  "count_articles_new": 16,
   "articles": [
+    {
+      "id": 15964,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": "Christina Shaw",
+      "title": "California woman dies from Fresno County's first human case of rabies in more than 30 years",
+      "description": "Fresno County health officials confirmed its first human case of rabies since 1992 has claimed the life of a California art teacher.",
+      "url": "https://www.foxnews.com/us/california-woman-dies-from-fresno-countys-first-human-case-rabies-more-than-30-years",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/11/84416913_1732577282504880_r.jpg",
+      "publishedAt": "2024-11-29 07:01:41",
+      "content": "A California woman died of rabies after allegedly being bitten by a bat in her classroom, according to Fresno County health officials. The woman, later identified as Leah Seneng, 60, marks the first\u2026 [+1586 chars]",
+      "retrievedAt": "2024-11-30 07:06:01.873017",
+      "internal_id": "4494c2a5d11ee0118c8fdf6ff80dfa9001e9177e448131b4cbd76d5e03f3ddb1",
+      "publishedAtLabel": "Nov 29"
+    },
+    {
+      "id": 15968,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Le Soir",
+      "author": "Par Le Soir",
+      "title": "\u00ab Le covid ne serait qu\u2019un petit joueur par rapport \u00e0 ce grand bandit \u00bb : les scientifiques alertent sur un virus",
+      "description": "Le virus H5N1 pourrait se transmettre entre humains, mettent en garde les experts.",
+      "url": "https://www.lesoir.be/639155/article/2024-11-29/le-covid-ne-serait-quun-petit-joueur-par-rapport-ce-grand-bandit-les",
+      "urlToImage": "https://leseng.rosselcdn.net/sites/default/files/dpistyles_v2/ena_16_9_extra_big/2024/10/08/node_639155/31624177/public/2024/10/08/27307056.jpeg?itok=CLaMjxrv1732862413",
+      "publishedAt": "2024-11-29 06:39:02",
+      "content": "Le virus H5N1 est plac\u00e9 sous haute surveillance dans le monde entier. Yves Van Laethem met en garde contre la propagation de ce virus chez lhomme, rapporte Sudinfo. Les cas dinfection au H5N1 remont\u2026 [+708 chars]",
+      "retrievedAt": "2024-11-30 07:06:02.661967",
+      "internal_id": "08520905e030f2e7b5608359cd67948b72257495b7b878ec688e617f353f366f",
+      "publishedAtLabel": "Nov 29"
+    },
+    {
+      "id": 15976,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "Un nuevo enfoque para predecir la resistencia a los medicamentos contra la malaria",
+      "description": "Investigadores de la Universidad de California en San Diego (Estados Unidos) han analizado los genomas de cientos de par\u00e1sitos de la malaria para determinar qu\u00e9 variantes gen\u00e9ticas tienen m\u00e1s probabilidades de conferir resistencia a los medicamentos; sus hall\u2026",
+      "url": "https://www.infosalus.com/salud-investigacion/noticia-nuevo-enfoque-predecir-resistencia-medicamentos-contra-malaria-20241129070347.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20241129070347_1200.jpg",
+      "publishedAt": "2024-11-29 06:03:47",
+      "content": "MADRID, 29 Nov. (EUROPA PRESS) - Investigadores de la Universidad de California en San Diego (Estados Unidos) han analizado los genomas de cientos de par\u00e1sitos de la malaria para determinar qu\u00e9 \u2026 [+5069 chars]",
+      "retrievedAt": "2024-11-30 07:06:03.400816",
+      "internal_id": "de3ad7337f857f2e7c8d14e9ffc6c9c5b2f3d20c1599dadcec241bc8ed0fb2fc",
+      "publishedAtLabel": "Nov 29"
+    },
+    {
+      "id": 15977,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "ScienceBlog.com",
+      "author": "Horizon Magazine",
+      "title": "EU takes the lead in the search for new mpox treatments",
+      "description": "As the monkeypox virus continues to pose a threat to global health, EU-funded researchers are working together with international partners to manage the disease and protect the most vulnerable. By Michaela Nesvarova On a Sunday evening in June 2022, a patient\u2026",
+      "url": "https://horizon.scienceblog.com/2916/eu-takes-the-lead-in-the-search-for-new-mpox-treatments/",
+      "urlToImage": null,
+      "publishedAt": "2024-11-29 06:01:25",
+      "content": "As the monkeypox virus continues to pose a threat to global health, EU-funded researchers are working together with international partners to manage the disease and protect the most vulnerable. By M\u2026 [+6949 chars]",
+      "retrievedAt": "2024-11-30 07:06:03.902564",
+      "internal_id": "4e0f26df9be1775162a8be2ba72fb0b55ae9f89c01f2c90059a368ab6a949f55",
+      "publishedAtLabel": "Nov 29"
+    },
+    {
+      "id": 15973,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Suaraindonesia-news.com",
+      "author": "admin",
+      "title": "Antisipasi Penyebaran Nyamuk DBD, Kodim 0826/Pamekasan Lakukan Fogging",
+      "description": "PAMEKASAN, Jumat (29/11) suaraindonesia-news.com \u2013 Dalam rangka mencegah... The post Antisipasi Penyebaran Nyamuk DBD, Kodim 0826/Pamekasan Lakukan Fogging appeared first on Suara Indonesia.",
+      "url": "https://suaraindonesia-news.com/antisipasi-penyebaran-nyamuk-dbd-kodim-0826-pamekasan-lakukan-fogging/",
+      "urlToImage": "https://suaraindonesia-news.com/wp-content/uploads/2024/11/IMG_20241129_124705.jpg",
+      "publishedAt": "2024-11-29 05:51:12",
+      "content": "PAMEKASAN, Jumat (29/11) suaraindonesia-news.com Dalam rangka mencegah penyebaran nyamuk Aedes aegypti, penyebab Demam Berdarah Dengue (DBD), Kodim 0826/Pamekasan melaksanakan kegiatan fogging di lin\u2026 [+1344 chars]",
+      "retrievedAt": "2024-11-30 07:06:02.953769",
+      "internal_id": "d459ede14b9ac6d2574750a5df8e8b7d7015a7c5895af1b5e40e9e2610b60280",
+      "publishedAtLabel": "Nov 29"
+    },
+    {
+      "id": 15975,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Melese, Y. A., Merid, M. W., Mekonnen, G. B.",
+      "title": "Magnitude and associated factors of delayed treatment seeking among patients with malaria in Andabet district, Northwest Ethiopia, 2022: a multicentre institution-based cross-sectional study",
+      "description": "Objective This study aimed to assess the prevalence of delayed treatment seeking and its associated factors among patients with malaria in the Andabet district, Northwest Ethiopia, 2022. Design An institution-based cross-sectional study was conducted from 8 \u2026",
+      "url": "https://bmjopen.bmj.com/content/14/11/e087888",
+      "urlToImage": "https://bmjopen.bmj.com/pages/wp-content/uploads/sites/7/2019/07/bmjopen-default-cover.png",
+      "publishedAt": "2024-11-29 05:39:17",
+      "content": "Introduction Malaria is a primary cause of disease and mortality worldwide. The WHO estimates that there have been 241 million cases and 627 000 fatalities from malaria, with 31 countries responsibl\u2026 [+10946 chars]",
+      "retrievedAt": "2024-11-30 07:06:03.387062",
+      "internal_id": "5186e3fe0cbe70462da9faad105c5997543bfa51ef9192b829fee1b758229ffb",
+      "publishedAtLabel": "Nov 29"
+    },
+    {
+      "id": 15979,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Iz.ru",
+      "author": "\u0411\u0443\u0442\u0435\u043d\u043a\u043e \u041d\u0430\u0442\u0430\u043b\u044c\u044f \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u043e\u0432\u043d\u0430",
+      "title": "\u0412 \u0412\u041e\u0417 \u0441\u043e\u043e\u0431\u0449\u0438\u043b\u0438 \u043e \u0431\u043e\u043b\u0435\u0435 \u0447\u0435\u043c 14 \u0442\u044b\u0441. \u043f\u043e\u0434\u0442\u0432\u0435\u0440\u0436\u0434\u0435\u043d\u043d\u044b\u0445 \u0441\u043b\u0443\u0447\u0430\u0435\u0432 mpox \u0432 \u0410\u0444\u0440\u0438\u043a\u0435",
+      "description": "\u0421 \u043d\u0430\u0447\u0430\u043b\u0430 2024 \u0433\u043e\u0434\u0430 \u0432 \u0410\u0444\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u043e\u043c \u0440\u0435\u0433\u0438\u043e\u043d\u0435 \u0431\u044b\u043b\u043e \u0437\u0430\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u043e \u043d\u0435 \u043c\u0435\u043d\u0435\u0435 13 \u0442\u044b\u0441. \u043b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u043e \u043f\u043e\u0434\u0442\u0432\u0435\u0440\u0436\u0434\u0435\u043d\u043d\u044b\u0445 \u0441\u043b\u0443\u0447\u0430\u0435\u0432 \u043e\u0441\u043f\u044b \u043e\u0431\u0435\u0437\u044c\u044f\u043d (mpox). \u041e\u0431 \u044d\u0442\u043e\u043c 21 \u043d\u043e\u044f\u0431\u0440\u044f \u0441\u043e\u043e\u0431\u0449\u0438\u043b\u0438 \u043d\u0430 \u0441\u0430\u0439\u0442\u0435 \u0412\u0441\u0435\u043c\u0438\u0440\u043d\u043e\u0439 \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u0438 \u0437\u0434\u0440\u0430\u0432\u043e\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f (\u0412\u041e\u0417).",
+      "url": "https://iz.ru/1798777/2024-11-29/v-voz-soobsili-o-bolee-cem-14-tys-podtverzdennyh-slucaah-mpox-v-afrike",
+      "urlToImage": "http://cdn.iz.ru/sites/default/files/styles/900x506/public/news-2024-11/TASS_74715217.jpg?itok=zZ_9TrRo",
+      "publishedAt": "2024-11-29 00:56:12",
+      "content": "2024 13 . (mpox). 21 (). , 97% , . . \u00ab, , , , , , mpox , , \u00bb, . , 16 , mpox (lade I) . , , mpox. , 30 , mpox . (UKHSA). - mpox 2 . Mpox , . , , : , , , , . 14 21 .",
+      "retrievedAt": "2024-11-30 07:06:03.937677",
+      "internal_id": "fff09f1099ff3113675801add13cf6daf11fcc3ed370c84fc6404187f464b053",
+      "publishedAtLabel": "Nov 29"
+    },
+    {
+      "id": 15967,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "VOA News",
+      "author": "webdesk@voanews.com (Agence France-Presse)",
+      "title": "WHO wants bird flu surveillance stepped up",
+      "description": "geneva \u2014 The World Health Organization on Thursday urged countries to step up surveillance for bird flu after the first case was detected in a child in the United States. A small but growing number of H5N1 avian influenza infections have been detected in h\u2026",
+      "url": "https://www.voanews.com/a/who-wants-bird-flu-surveillance-stepped-up-/7880736.html",
+      "urlToImage": "https://gdb.voanews.com/2598C1A1-995D-4262-BE7E-1EE4245F9DFC.jpg",
+      "publishedAt": "2024-11-28 23:48:17",
+      "content": "geneva The World Health Organization on Thursday urged countries to step up surveillance for bird flu after the first case was detected in a child in the United States. A small but growing number \u2026 [+2478 chars]",
+      "retrievedAt": "2024-11-30 07:06:02.648603",
+      "internal_id": "bba15b7117ede544d0da4015e1964cb2b9d4000381b78b5a918f98c0161ed9d5",
+      "publishedAtLabel": "Nov 28"
+    },
+    {
+      "id": 15974,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Lara Adejoro",
+      "title": "NAFDAC mops up fake malaria drug",
+      "description": "The National Agency for Food and Drugs Administration and Control has alerted the public to the circulation of counterfeit Combiart Dispersible Tablet 20/120mg in the country. In a post on its X handle on Thursday, the agency said it had alerted its offices n\u2026",
+      "url": "https://punchng.com/nafdac-begins-mop-up-of-fake-indian-made-malaria-drug/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2024/11/28184940/fake-anti-malaria-drug.png",
+      "publishedAt": "2024-11-28 23:32:54",
+      "content": "The National Agency for Food and Drugs Administration and Control has alerted the public to the circulation of counterfeit Combiart Dispersible Tablet 20/120mg in the country. In a post on its X han\u2026 [+3071 chars]",
+      "retrievedAt": "2024-11-30 07:06:03.350275",
+      "internal_id": "25cfa00683ec5a099e043e1392eecfc100376b4158654ae6db8ee0effb4eacdf",
+      "publishedAtLabel": "Nov 28"
+    },
+    {
+      "id": 15972,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Legalinsurrection.com",
+      "author": "Leslie Eastman",
+      "title": "Texas Reports Its First Case of Locally Transmitted Dengue Fever",
+      "description": "So far in 2024, Florida has reported 53 locally acquired cases of \"break-bone fever\", while California has recorded 15. The post Texas Reports Its First Case of Locally Transmitted Dengue Fever first appeared on Le\u00b7gal In\u00b7sur\u00b7rec\u00b7tion.",
+      "url": "https://legalinsurrection.com/2024/11/texas-reports-its-first-case-of-locally-transmitted-dengue-fever/",
+      "urlToImage": "https://legalinsurrection.com/wp-content/uploads/2016/10/LI-34-Mosquito-e1476243914966.png",
+      "publishedAt": "2024-11-28 23:00:15",
+      "content": "At the start of fall, I reported on an unprecedented cluster of locally acquired dengue fever in Los Angeles County. Earlier this summer, I shared the news that Florida health officials issued a den\u2026 [+3435 chars]",
+      "retrievedAt": "2024-11-30 07:06:02.896818",
+      "internal_id": "565a9870bf0542fd01b8d33323f404acc4c4c38bce6ce304eac5be6c39420cf3",
+      "publishedAtLabel": "Nov 28"
+    },
+    {
+      "id": 15966,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Anelyse Weiler, Assistant Professor, Sociology, University of Victoria, Tayler Zavitz, PhD candidate, Animals & Society Research Initiative, University of Victoria",
+      "title": "B.C. youth H5N1 diagnosis: Anti-whistleblower \u201cag-gag\u201d laws help global pandemics grow and spread",
+      "description": "New laws in Canada will make it harder for whistleblowers to shed light on cruelty and malpractice in animal agriculture \u2014 and will hinder efforts to prevent the next global pandemic.",
+      "url": "https://theconversation.com/b-c-youth-h5n1-diagnosis-anti-whistleblower-ag-gag-laws-help-global-pandemics-grow-and-spread-243556",
+      "urlToImage": "https://images.theconversation.com/files/635059/original/file-20241128-18-lyr37x.jpg?ixlib=rb-4.1.0&rect=0%2C786%2C5472%2C2736&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2024-11-28 21:56:36",
+      "content": "A teen in British Columbia recently became critically ill after becoming infected with H5N1. H5N1 is a highly pathogenic strain of bird flu. Outbreaks of avian influenza (bird flu) in livestock and\u2026 [+6795 chars]",
+      "retrievedAt": "2024-11-30 07:06:02.625019",
+      "internal_id": "bcc0fffc892b38c1421a00b28a2b566eef07d20c4ed701791d544ce1cfa35cb7",
+      "publishedAtLabel": "Nov 28"
+    },
+    {
+      "id": 15971,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Pedro Pupulim",
+      "title": "SBP e CUFA se unem novamente em a\u00e7\u00f5es de combate \u00e0 dengue nas favelas",
+      "description": "No ano passado, o projeto impactou a vida de mais de 100 mil moradores das comunidades, segundo a empresa",
+      "url": "https://veja.abril.com.br/coluna/radar/sbp-e-cufa-se-unem-novamente-em-acoes-de-combate-a-dengue-nas-favelas",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2016/06/04-caracol-penha-rio-de-janeiro-alemao-20110416-original.jpeg?quality=70&strip=info&crop=1&resize=1080,565",
+      "publishedAt": "2024-11-28 21:30:28",
+      "content": "Black Friday: Revista em casa a partir de 8,90/semana Continua ap\u00f3s publicidade No ano passado, o projeto impactou a vida de mais de 100 mil moradores das comunidades, segundo a empresa Por Pedro \u2026 [+2167 chars]",
+      "retrievedAt": "2024-11-30 07:06:02.889372",
+      "internal_id": "e7e36af1dcf935cccc24fa1bec0d61a5af80d0f5d4990e57fd4bff71739eadec",
+      "publishedAtLabel": "Nov 28"
+    },
+    {
+      "id": 15965,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "N.B. has 'room to grow' on vaccine uptake, health officer says amid measles outbreak",
+      "description": "New Brunswick needs to build on the percentage of kindergarten students who meet immunization requirements, says Fredericton's regional medical officer of health, but measles vaccine coverage is \"pretty good.\"",
+      "url": "https://www.cbc.ca/news/canada/new-brunswick/measles-outbreak-new-brunswick-immunization-requirements-students-mark-mckelvie-1.7395637",
+      "urlToImage": "https://i.cbc.ca/1.5120934.1711128804!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/usa-measles-states.jpg",
+      "publishedAt": "2024-11-28 20:00:55",
+      "content": "New Brunswick needs to \"build on\" the percentage of kindergarten students who meet immunization requirements, says Fredericton's regional medical officer of health, but measles vaccine coverage is \"p\u2026 [+3978 chars]",
+      "retrievedAt": "2024-11-30 07:06:02.087958",
+      "internal_id": "ab73e9d9f13e0eaa57007a50ecc80f5e6c26d37fee4fafdaa566e2f20565e3e2",
+      "publishedAtLabel": "Nov 28"
+    },
+    {
+      "id": 15978,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "info-money",
+      "source_name": "InfoMoney",
+      "author": "camillebocanegra",
+      "title": "Epidemia de mpox pode chegar a plat\u00f4 no pr\u00f3ximo ano, diz centro africano",
+      "description": "N\u00famero de casos de mpox vai continuar subindo nas pr\u00f3ximas quatro semanas at\u00e9 estabiliza\u00e7\u00e3o The post Epidemia de mpox pode chegar a plat\u00f4 no pr\u00f3ximo ano, diz centro africano appeared first on InfoMoney.",
+      "url": "https://www.infomoney.com.br/saude/epidemia-de-mpox-pode-chegar-a-plato-no-proximo-ano-diz-centro-africano/",
+      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2024/08/2024-08-22T131236Z_1_LYNXMPEK7L0HZ_RTROPTP_4_HEALTH-MPOX.jpg?quality=70",
+      "publishedAt": "2024-11-28 19:47:31",
+      "content": "O n\u00famero de casos de mpox vai continuar subindo nas pr\u00f3ximas quatro semanas antes de come\u00e7ar a dar sinais de estabiliza\u00e7\u00e3o no come\u00e7o do pr\u00f3ximo ano, disse nesta quinta-feira o Centro de Controle e Pr\u2026 [+1645 chars]",
+      "retrievedAt": "2024-11-30 07:06:03.909462",
+      "internal_id": "5e6b030fce884c16e6e4685c92eeee8e1661ef17d0238a81f2ba4d9a43a38f0d",
+      "publishedAtLabel": "Nov 28"
+    },
     {
       "id": 15953,
       "query": [
@@ -220,6 +472,24 @@
       "publishedAtLabel": "Nov 28"
     },
     {
+      "id": 15969,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Lalibre.be",
+      "author": "Ma\u00efli Bernaerts",
+      "title": "Grippe aviaire : l\u2019inqui\u00e9tude des scientifiques autour d\u2019une possible mutation du virus",
+      "description": "Pour la premi\u00e8re fois au Canada, un adolescent a \u00e9t\u00e9 plac\u00e9 aux soins intensifs apr\u00e8s avoir contract\u00e9 la grippe H5N1. ...",
+      "url": "https://www.lalibre.be/planete/sante/2024/11/28/grippe-aviaire-linquietude-des-scientifiques-autour-dune-possible-mutation-du-virus-MVWJADBW3BFDXFUO5ZSVM6XSZ4/",
+      "urlToImage": "https://www.lalibre.be/resizer/v2/KA3N333EOFCPHLPE5BFTZI3DXE.jpg?auth=568eba461d1446589e9f960db071b498ca337bde50d1ea6ba501a5d511978965&width=1200&height=630&quality=85&focal=256%2C143&watermark=https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Fipmgroup%2F3R4IDPARFVEO3L2LC5OCCXQ5RM.png%3A100%3A0%2C557",
+      "publishedAt": "2024-11-28 05:33:35",
+      "content": "\"Si le virus H5N1 circulait de mani\u00e8re silencieuse chez cet h\u00f4te, ce serait un \u00e9l\u00e9ment d'inqui\u00e9tude suppl\u00e9mentaire\"\"Depuis le d\u00e9but de l'ann\u00e9e, au moins quarante cas de grippe H5N1 ont \u00e9t\u00e9 rapport\u00e9s \u2026 [+3211 chars]",
+      "retrievedAt": "2024-11-30 07:06:02.703128",
+      "internal_id": "e3b98da2aa848b374085123853d658a0c2a50ef46bca079a3d0491bc9bac1ac8",
+      "publishedAtLabel": "Nov 28"
+    },
+    {
       "id": 15952,
       "query": [
         "mpox"
@@ -343,6 +613,24 @@
       "content": "CAPE TOWN, Nov. 27 (Xinhua) -- South African authorities have warned the public and travelers of rabies in dogs, Cape fur seals, and wildlife in the country as the traditional Thanksgiving holiday se\u2026 [+1937 chars]",
       "retrievedAt": "2024-11-28 19:06:07.079272",
       "internal_id": "d41ddc51743f2fba705179d88318fb1542946ae47bd7633b5c4f844f9a73bf2f",
+      "publishedAtLabel": "Nov 27"
+    },
+    {
+      "id": 15970,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Plant Based News",
+      "author": "Polly Foreman",
+      "title": "Bird Flu Found In Raw Milk In The US, Officials Say",
+      "description": "Bird flu H5N1 has been found in raw milk in California, officials have said, raising concerns about the growing threat of the virus",
+      "url": "https://plantbasednews.org/lifestyle/health-and-fitness/bird-flu-raw-milk/",
+      "urlToImage": "https://plantbasednews.org/app/uploads/2024/11/plant-based-news-raw-milk-bird-flu.jpg",
+      "publishedAt": "2024-11-27 17:03:10",
+      "content": "The bird flu virus has been found in raw milk sold in California, officials have confirmed. Read more: CDC Reports Fourth Human Case Of Bird Flu In US According to reports, the H5N1 virus was foun\u2026 [+2411 chars]",
+      "retrievedAt": "2024-11-30 07:06:02.715587",
+      "internal_id": "04d4b780e3a5e2d596f10cccd5b2cf974a2fd7629b7fa3e85d4ff80a9c88de05",
       "publishedAtLabel": "Nov 27"
     },
     {
@@ -25637,6 +25925,132 @@
       "content": "VOICE REFERENDUM ANNIVERSARY Today marks one year since Australia voted down a proposal to enshrine an Indigenous Voice to Parliament in the constitution. The AAP this morning quotes a spokesperson \u2026 [+12475 chars]",
       "retrievedAt": "2024-10-15 07:06:26.776795",
       "internal_id": "06ad02bc83552c95a113690de69b653d974edcbfd5eb46cbb16d66f770400d13",
+      "publishedAtLabel": "Oct 13"
+    },
+    {
+      "id": 14538,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Dinesh K Sharma",
+      "title": "First diphtheria death in Ferozepur: 3-Year-old girl dies from bacterial infection",
+      "description": "Ferozepur's first diphtheria death amid the dengue season triggers alarm as a three-year-old passes away in Faridkot. Health teams conduct surveys, finding one more suspected case but tests negative. Authorities initiate door-to-door surveillance in affected \u2026",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/first-diphtheria-death-in-ferozepur-3-year-old-girl-dies-from-bacterial-infection/articleshow/114194849.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-114194880,width-1070,height-580,imgsize-524198,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-10-13 17:27:06",
+      "content": "What is far-infrared therapy good for?",
+      "retrievedAt": "2024-10-14 19:05:40.512157",
+      "internal_id": "ecd2975479ae8b0f861b894c2ee18393e8be581bfbd304036955ee4be9486078",
+      "publishedAtLabel": "Oct 13"
+    },
+    {
+      "id": 14540,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Tichaona Chifamba",
+      "title": "Zimbabwe reports two mpox cases",
+      "description": "HARARE, Oct. 13 (Xinhua) -- Zimbabwe on Sunday announced two confirmed cases of mpox in people who have traveled to South Africa and Tanzania. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2024/10/14/zimbabwe-reports-two-mpox-cases",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2024-10-13 17:03:00",
+      "content": "HARARE, Oct. 13 (Xinhua) -- Zimbabwe on Sunday announced two confirmed cases of mpox in people who have traveled to South Africa and Tanzania. Zimbabwe's Health and Child Care Minister Douglas Momb\u2026 [+928 chars]",
+      "retrievedAt": "2024-10-14 19:05:42.390223",
+      "internal_id": "06086a8516d330a84ac271b2e82a895a00cbf76715568b83ed3a7aef592fa834",
+      "publishedAtLabel": "Oct 13"
+    },
+    {
+      "id": 14541,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "Zimbabwe reports first two mpox cases of unspecified variant",
+      "description": "HARARE (Reuters) - Zimbabwe has confirmed its first two cases of mpox, the health ministry said on Sunday, without specifying which variant had been recorded. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2024/10/13/zimbabwe-reports-first-two-mpox-cases-of-unspecified-variant",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/10/13/2962482.jpg",
+      "publishedAt": "2024-10-13 15:58:00",
+      "content": "HARARE (Reuters) - Zimbabwe has confirmed its first two cases of mpox, the health ministry said on Sunday, without specifying which variant had been recorded. The first case was detected in an 11-ye\u2026 [+1192 chars]",
+      "retrievedAt": "2024-10-14 19:05:42.401892",
+      "internal_id": "116525f54e51e2c7abd45e0ce38fa1f2b6bd6ac02de82aaa4cba2153b73e62d2",
+      "publishedAtLabel": "Oct 13"
+    },
+    {
+      "id": 14539,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Tbsnews.net",
+      "author": "Unb",
+      "title": "Dengue: 4 more die, 660 hospitalised in 24hrs",
+      "description": "A total of 42,470 dengue cases have been reported since 1 January 2024",
+      "url": "https://www.tbsnews.net/bangladesh/health/dengue-4-more-die-660-hospitalised-24hrs-965891",
+      "urlToImage": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/09/04/dengue_ward_rajibdhar_0288.jpg",
+      "publishedAt": "2024-10-13 12:53:46",
+      "content": "Four more deaths were reported from dengue in 24 hours till Sunday morning, raising the number of fatalities from the mosquito-borne disease in Bangladesh to 214 this year. During the period, 660 mo\u2026 [+696 chars]",
+      "retrievedAt": "2024-10-14 19:05:40.554552",
+      "internal_id": "18618de64306b6ebbedb3a8ef4ab8d5532a735f2b4083b33bd58241acf3a91b4",
+      "publishedAtLabel": "Oct 13"
+    },
+    {
+      "id": 14542,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Agency",
+      "title": "First mpox diagnostic test approved by WHO",
+      "description": "The availability of such a test will help speed up identification of mpox patients and help prevent its transmission.",
+      "url": "https://www.thestar.com.my/lifestyle/health/2024/10/13/first-mpox-diagnostic-test-approved-by-who",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/10/11/2959154.jpg",
+      "publishedAt": "2024-10-13 12:33:12",
+      "content": "The World Health Organization (WHO) announced on Oct 4 (2024) that it had approved the use of the first diagnostic test for mpox, a key tool for countries battling outbreaks of this infectious diseas\u2026 [+1499 chars]",
+      "retrievedAt": "2024-10-14 19:05:42.413453",
+      "internal_id": "6c4bcd0cd81f98f672edd0accbe831f9b120493c7ea2ed87cb2a7b029a330b0c",
+      "publishedAtLabel": "Oct 13"
+    },
+    {
+      "id": 14537,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "The Japan Times",
+      "author": "The Japan Times",
+      "title": "Australia commits $64 million to protect against looming bird flu threat",
+      "description": "Oceania is the last region free of the H5N1 clade 2.3.4.4b avian influenza, which has killed hundreds of millions of birds since emerging in 2020.",
+      "url": "https://www.japantimes.co.jp/news/2024/10/13/asia-pacific/australia-bird-flu-funding/",
+      "urlToImage": "https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/13/427549.JPG?v=3.1",
+      "publishedAt": "2024-10-13 11:42:00",
+      "content": "SYDNEY Australia's government said on Sunday it would spend an extra 95 million Australian dollars ($64.13 million) to protect against a destructive bird flu strain that has spread through bird and m\u2026 [+1416 chars]",
+      "retrievedAt": "2024-10-14 19:05:40.172763",
+      "internal_id": "742e0fe55403bcf84740d2b06891cf81af7b9068348b9984e38eb6acb127de4c",
+      "publishedAtLabel": "Oct 13"
+    },
+    {
+      "id": 14536,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "abc-news-au",
+      "source_name": "ABC News (AU)",
+      "author": "Esther Linder",
+      "title": "Labor sets out $95 million to combat potential arrival of deadly bird flu strain H5N1",
+      "description": "Biosecurity, environmental funding for protected native species and a top-up of the national stockpile of flu vaccines are part of preparations for the arrival of H5N1 to Australia.",
+      "url": "https://www.abc.net.au/news/2024-10-13/labor-announces-95m-in-funding-for-bird-flu-h5n1/104467622",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/0b04ad35e96a4248c2825a4d68019d9c?impolicy=wcms_watermark_news&cropH=3233&cropW=5748&xPos=0&yPos=384&width=862&height=485&imformat=generic",
+      "publishedAt": "2024-10-13 11:32:07",
+      "content": "The looming arrival of a deadly strain of bird flu in Australia has prompted the federal government to set up a $95 million preparation fund as part of a swathe of biosecurity and environmental measu\u2026 [+3844 chars]",
+      "retrievedAt": "2024-10-14 19:05:40.122524",
+      "internal_id": "2c124687742780b77f0309fe129d557baf4ecbf028e76d325027c4e90e697d72",
       "publishedAtLabel": "Oct 13"
     }
   ]
