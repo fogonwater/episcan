@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 16
-- **Last harvest:** 2024-11-30 07:06
-- **Most recent article:** 2024-11-29 07:01:41
+- **New articles in last harvest:** 23
+- **Last harvest:** 2024-11-30 19:05
+- **Most recent article:** 2024-11-29 18:19:20
 
 ---
 
@@ -12,20 +12,20 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-42 | 24-43 | 24-44 | 24-45 | 24-46 | 24-47 | 24-48 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 81 | 131 | 75 | 63 | 62 | 76 | 14 | 502 |
-| dengue | 49 | 53 | 31 | 31 | 36 | 28 | 25 | 253 |
-| h5n1 | 18 | 12 | 61 | 36 | 40 | 50 | 34 | 251 |
-| malaria | 18 | 58 | 16 | 26 | 33 | 27 | 25 | 203 |
-| measles | 3 | 1 | 13 | 3 | 33 | 11 | 4 | 68 |
-| rabies | 7 | 3 | 10 | 5 | 11 | 7 | 10 | 53 |
+| mpox | 78 | 131 | 75 | 63 | 62 | 76 | 25 | 510 |
+| h5n1 | 16 | 12 | 61 | 36 | 40 | 50 | 37 | 252 |
+| dengue | 47 | 53 | 31 | 31 | 36 | 28 | 25 | 251 |
+| malaria | 18 | 58 | 16 | 26 | 33 | 27 | 27 | 205 |
+| measles | 3 | 1 | 13 | 3 | 33 | 11 | 5 | 69 |
+| rabies | 7 | 3 | 10 | 5 | 11 | 7 | 12 | 55 |
 | zika | 6 | 6 | 3 | 9 | 4 | 3 | 1 | 32 |
-| pertussis | 9 | 3 | 1 | 3 | 8 | 5 | 0 | 29 |
+| pertussis | 9 | 3 | 1 | 3 | 8 | 5 | 1 | 30 |
 | chikungunya | 4 | 7 | 2 | 2 | 3 | 5 | 4 | 27 |
 | meningitis | 1 | 6 | 3 | 5 | 2 | 5 | 3 | 25 |
 | hpai | 2 | 2 | 7 | 4 | 4 | 4 | 0 | 23 |
-| leptospirosis | 0 | 0 | 3 | 10 | 3 | 0 | 0 | 16 |
+| leptospirosis | 0 | 0 | 3 | 10 | 3 | 0 | 2 | 18 |
 | typhoid | 1 | 3 | 4 | 1 | 1 | 3 | 1 | 14 |
-| yersinia | 0 | 0 | 3 | 0 | 0 | 1 | 0 | 4 |
+| yersinia | 0 | 0 | 3 | 0 | 0 | 1 | 1 | 5 |
 | shigellosis | 0 | 1 | 0 | 0 | 1 | 0 | 0 | 2 |
 
 
@@ -37,11 +37,19 @@ Source: [News API](https://newsapi.org/)
 
 - [Effects of copper nanoparticles synthesized from the entomopathogen Metarhizium robertsii against the dengue vector Aedes albopictus (Skuse, 1894)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0314279) (Plos.org)
 
+## 24-48 (yersinia)
+
+- [Des fromages Mont d'or rappelés en Europe et à Singapour, déjà plus de 70 personnes malades](https://www.20minutes.fr/sante/4124236-20241129-fromages-mont-or-rappeles-europe-singapour-deja-plus-70-personnes-malades) (20 Minutes)
+
 ## 24-48 (typhoid)
 
 - [NGO screens children for HIV, hepatitis](https://punchng.com/ngo-screens-children-for-hiv-hepatitis/) (The Punch)
 
 ## 24-48 (rabies)
+
+- [Teacher dies of rabies after being bitten by bat in classroom](https://www.today.com/health/news/teacher-dies-rabies-bat-bite-rcna182215) (TODAY)
+
+- [Teacher Dies After Suspected Bat Bite in Classroom](https://www.newser.com/story/360288/rabies-death-in-california-county-is-first-in-30-years.html) (Newser)
 
 - [California woman dies from Fresno County's first human case of rabies in more than 30 years](https://www.foxnews.com/us/california-woman-dies-from-fresno-countys-first-human-case-rabies-more-than-30-years) (Fox News)
 
@@ -63,7 +71,33 @@ Source: [News API](https://newsapi.org/)
 
 - [Colorado mulls rule that would raise minimum age of imported pets to curb rabies](https://www.denverpost.com/2024/11/23/colorado-considering-imported-pets-rule-curb-rabies/) (The Denver Post)
 
+## 24-48 (pertussis)
+
+- [Improving vaccine uptake during pregnancy](https://www.bmj.com/content/387/bmj.q2631) (The BMJ)
+
 ## 24-48 (mpox)
+
+- [Fifth Case of New Mpox Strain Detected in UK - Health Agency](https://sputnikglobe.com/20241129/fifth-case-of-new-mpox-strain-detected-in-uk---health-agency-1121042971.html) (Sputnikglobe.com)
+
+- [Marea Britanie confirmă al cincilea caz de îmbolnăvire cu noua variantă de mpox, în doar câteva săptămâni](https://www.digi24.ro/stiri/externe/marea-britanie-confirma-al-cincilea-caz-de-imbolnavire-cu-noua-varianta-de-mpox-in-doar-cateva-saptamani-3026409) (Digi24.ro)
+
+- [Fifth person with mpox confirmed in England](https://www.bbc.com/news/articles/c3wqg05v60wo) (BBC News)
+
+- [Mpox: Fifth England case confirmed in Leeds](https://www.bbc.co.uk/news/articles/c3wqg05v60wo) (BBC News)
+
+- [Mpox: UK reports new case of clade Ib infection](https://www.bmj.com/content/387/bmj.q2687) (The BMJ)
+
+- [Al cincilea caz de mpox cu tulpina Clade 1b confirmat în Marea Britanie](https://www.mediafax.ro/sanatate/al-cincilea-caz-de-mpox-cu-tulpina-clade-1b-confirmat-in-marea-britanie-22581733) (Mediafax.ro)
+
+- [Mpox in Afrika nicht zu stoppen?: Die Fallzahlen steigen immer weiter](https://www.tagesspiegel.de/wissen/mpox-in-afrika-nicht-zu-stoppen-die-fallzahlen-steigen-immer-weiter-12791528.html) (Der Tagesspiegel)
+
+- [Fifth mpox case detected in England with individual under 'specialist care' after landing on plane from Uganda](https://www.gbnews.com/health/mpox-case-fifth-detected-england-specialist-care-landing-plane-uganda) (Gbnews.com)
+
+- [Fifth case of mpox strain detected in UK](https://news.sky.com/story/fifth-case-of-mpox-clade-1b-detected-in-leeds-ukhsa-confirms-13262885) (Sky.com)
+
+- [Nytt bekräftat mpox-fall i England](https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1311978) (Aftonbladet.se)
+
+- [„Man kann nicht einmal daran denken, alle Verdachtsfälle zu isolieren“](https://www.welt.de/wissenschaft/article254708676/Mpox-Man-kann-nicht-einmal-daran-denken-alle-Verdachtsfaelle-zu-isolieren.html) (DIE WELT)
 
 - [EU takes the lead in the search for new mpox treatments](https://horizon.scienceblog.com/2916/eu-takes-the-lead-in-the-search-for-new-mpox-treatments/) (ScienceBlog.com)
 
@@ -103,6 +137,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-48 (measles)
 
+- [ZDoggMD on RFK Jr.’s Rise: “I’m Talking About Like These Science Based Medicine Guys”](https://sciencebasedmedicine.org/notourfault/) (Sciencebasedmedicine.org)
+
 - [N.B. has 'room to grow' on vaccine uptake, health officer says amid measles outbreak](https://www.cbc.ca/news/canada/new-brunswick/measles-outbreak-new-brunswick-immunization-requirements-students-mark-mckelvie-1.7395637) (CBC News)
 
 - [Germany sees dramatic rise in measles cases](https://www.dw.com/en/germany-sees-dramatic-rise-in-measles-cases/a-70901183) (DW (English))
@@ -112,6 +148,10 @@ Source: [News API](https://newsapi.org/)
 - [The Fundamental Problem with R.F.K., Jr.,’s Nomination to H.H.S.](https://www.newyorker.com/magazine/2024/12/02/the-fundamental-problem-with-rfk-jrs-nomination-to-hhs) (The New Yorker)
 
 ## 24-48 (malaria)
+
+- [Apple rolls out ‘Support (RED) With Apple Pay’ donation campaign](https://www.ilounge.com/news/apple-pay/apple-rolls-out-support-red-with-apple-pay-donation-campaign) (iLounge)
+
+- [Desarrollan nuevo enfoque para predecir la resistencia de la malaria a los fármacos](https://www.montevideo.com.uy/Salud/Desarrollan-nuevo-enfoque-para-predecir-la-resistencia-de-la-malaria-a-los-farmacos-uc908056) (Montevideo.com.uy)
 
 - [Un nuevo enfoque para predecir la resistencia a los medicamentos contra la malaria](https://www.infosalus.com/salud-investigacion/noticia-nuevo-enfoque-predecir-resistencia-medicamentos-contra-malaria-20241129070347.html) (Infosalus.com)
 
@@ -163,7 +203,19 @@ Source: [News API](https://newsapi.org/)
 
 - [Au Burkina Faso, Halidou Tinto, artisan d’un nouveau vaccin contre le paludisme](https://www.jeuneafrique.com/1631409/societe/au-burkina-faso-halidou-tinto-artisan-dun-nouveau-vaccin-contre-le-paludisme/) (Jeune Afrique)
 
+## 24-48 (leptospirosis)
+
+- [Negeri Sembilan Health Dept detects eight suspected leptospirosis cases](https://www.thestar.com.my/news/nation/2024/11/29/negeri-sembilan-health-dept-detects-eight-suspected-leptospirosis-cases) (The Star Online)
+
+- [Negri's Ulu Bendul Park closed till Dec 15 over suspected leptospirosis cases](https://www.thestar.com.my/news/nation/2024/11/29/negri039s-ulu-bendul-park-closed-till-dec-15-over-suspected-leptospirosis-cases) (The Star Online)
+
 ## 24-48 (h5n1)
+
+- [Vogelgrippevirus H5N1: Das Virus tut, was viele befürchtet haben](https://www.zeit.de/gesundheit/2024-11/vogelgrippevirus-h5n1-usa-kanada-kuehe-entwicklung-pandemie) (Die Zeit)
+
+- [A bird flu pandemic would be one of the most foreseeable catastrophes in history](https://economictimes.indiatimes.com/news/international/world-news/a-bird-flu-pandemic-would-be-one-of-the-most-foreseeable-catastrophes-in-history/articleshow/115812455.cms) (The Times of India)
+
+- [Influenza aviaria, la virologa Capua: “Allarmi inascoltati”, l’infettivologo Bassetti: “Dov’è il piano pandemico?”](https://www.ilfattoquotidiano.it/2024/11/29/influenza-aviaria-capua-allarmi-inascoltati-bassetti-piano-pandemico/7785443/) (Ilfattoquotidiano.it)
 
 - [« Le covid ne serait qu’un petit joueur par rapport à ce grand bandit » : les scientifiques alertent sur un virus](https://www.lesoir.be/639155/article/2024-11-29/le-covid-ne-serait-quun-petit-joueur-par-rapport-ce-grand-bandit-les) (Le Soir)
 
@@ -3005,12 +3057,6 @@ Source: [News API](https://newsapi.org/)
 
 - [В Зимбабве зафиксировали два первых случая заражения оспой обезьян](https://news.mail.ru/incident/63197353/) (Mail.ru)
 
-- [Zimbabwe reports two mpox cases](https://www.thestar.com.my/news/world/2024/10/14/zimbabwe-reports-two-mpox-cases) (The Star Online)
-
-- [Zimbabwe reports first two mpox cases of unspecified variant](https://www.thestar.com.my/news/world/2024/10/13/zimbabwe-reports-first-two-mpox-cases-of-unspecified-variant) (The Star Online)
-
-- [First mpox diagnostic test approved by WHO](https://www.thestar.com.my/lifestyle/health/2024/10/13/first-mpox-diagnostic-test-approved-by-who) (The Star Online)
-
 ## 24-42 (meningitis)
 
 - [Meningococcal disease confirmed at Bonham Elementary School](https://www.fox26houston.com/news/meningococcal-disease-confirmed-bonham-elementary-school) (fox26houston.com)
@@ -3100,10 +3146,6 @@ Source: [News API](https://newsapi.org/)
 - [‘Real and significant threat’: Federal government pledges $95 million to prepare for arrival of deadly bird flu strain H5N1](https://www.skynews.com.au/lifestyle/health/real-and-significant-threat-federal-government-pledges-95-million-to-prepare-for-arrival-of-deadly-bird-flu-strain-h5n1/news-story/b19142b01e36899ca631b650fb092869) (Sky News Australia)
 
 - [Voice to Parliament: One year on](https://www.crikey.com.au/2024/10/14/indigenous-voice-to-parliament-anniversary-bird-flu-h5n1/) (Crikey)
-
-- [Australia commits $64 million to protect against looming bird flu threat](https://www.japantimes.co.jp/news/2024/10/13/asia-pacific/australia-bird-flu-funding/) (The Japan Times)
-
-- [Labor sets out $95 million to combat potential arrival of deadly bird flu strain H5N1](https://www.abc.net.au/news/2024-10-13/labor-announces-95m-in-funding-for-bird-flu-h5n1/104467622) (ABC News (AU))
 
 ## 24-42 (dengue)
 
@@ -3200,10 +3242,6 @@ Source: [News API](https://newsapi.org/)
 - [Bangladesh records highest daily spike of 9 dengue deaths this year](http://en.people.cn/n3/2024/1014/c90000-20229117.html) (People.cn)
 
 - [Dengue deaths, cases in Bacolod increasing further](https://rpnradio.com/dengue-deaths-cases-in-bacolod-increasing-further/) (Rpnradio.com)
-
-- [First diphtheria death in Ferozepur: 3-Year-old girl dies from bacterial infection](https://timesofindia.indiatimes.com/city/chandigarh/first-diphtheria-death-in-ferozepur-3-year-old-girl-dies-from-bacterial-infection/articleshow/114194849.cms) (The Times of India)
-
-- [Dengue: 4 more die, 660 hospitalised in 24hrs](https://www.tbsnews.net/bangladesh/health/dengue-4-more-die-660-hospitalised-24hrs-965891) (Tbsnews.net)
 
 ## 24-42 (chikungunya)
 

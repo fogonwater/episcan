@@ -1,8 +1,422 @@
 {
-  "last_updated": "2024-11-30 07:06",
-  "count_articles_total": 1444,
-  "count_articles_new": 16,
+  "last_updated": "2024-11-30 19:05",
+  "count_articles_total": 1460,
+  "count_articles_new": 23,
   "articles": [
+    {
+      "id": 15987,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "iLounge",
+      "author": "Samantha Wiley",
+      "title": "Apple rolls out \u2018Support (RED) With Apple Pay\u2019 donation campaign",
+      "description": "Apple recently said that a $5 donation will be sent to The Global Fund to Fight AIDS, Tuberculosis, and Malaria for Apple Pay purchases on Apple.com. The donation campaign with The Global Fund starts on November 29 and ends on December 8, with a $3 million ca\u2026",
+      "url": "https://www.ilounge.com/news/apple-pay/apple-rolls-out-support-red-with-apple-pay-donation-campaign",
+      "urlToImage": "https://www.ilounge.com/wp-content/uploads/2024/11/Apple-Pay-3.png",
+      "publishedAt": "2024-11-29 18:19:20",
+      "content": "Apple recently said that a $5 donation will be sent to The Global Fund to Fight AIDS, Tuberculosis, and Malaria for Apple Pay purchases on Apple.com. The donation campaign with The Global Fund start\u2026 [+672 chars]",
+      "retrievedAt": "2024-11-30 19:05:32.071556",
+      "internal_id": "aeb5f67908722537ddd4d36acea58b857a3b0be7bc2236318a6655f800e83f13",
+      "publishedAtLabel": "Nov 29"
+    },
+    {
+      "id": 16002,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "20 Minutes",
+      "author": "E.P. (20 Minutes)",
+      "title": "Des fromages Mont d'or rappel\u00e9s en Europe et \u00e0 Singapour, d\u00e9j\u00e0 plus de 70 personnes malades",
+      "description": "Le gouvernement a \u00e9mis un rappel le 21 novembre pour plusieurs lots de fromages Mont d'or produits par une coop\u00e9rative du Doubs. Le risque concerne la pr\u00e9sence de bact\u00e9ries Yersinia enterocolitica, qui peuvent causer des gastro-ent\u00e9rites",
+      "url": "https://www.20minutes.fr/sante/4124236-20241129-fromages-mont-or-rappeles-europe-singapour-deja-plus-70-personnes-malades",
+      "urlToImage": "https://img.20mn.fr/Y5drRAmDRS68B9yxLq1KTik/1444x920_plusieurs-lots-de-fromages-mont-d-or-font-l-objet-d-un-rappel-gouvernemental-en-raison-d-un-risque-sanitaire",
+      "publishedAt": "2024-11-29 17:40:05",
+      "content": "Attention \u00e0 ne pas consommer les produits concern\u00e9s si vous en avez chez vous. Des lots de fromages Mont d'or font lobjet dun rappel depuis le 21 novembre par le gouvernement car ils sont susceptible\u2026 [+685 chars]",
+      "retrievedAt": "2024-11-30 19:05:33.633734",
+      "internal_id": "d96acf9fa8240f0a04f93917a24e7e809cdc53267757d128e53c3e3575cfba10",
+      "publishedAtLabel": "Nov 29"
+    },
+    {
+      "id": 15988,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "Desarrollan nuevo enfoque para predecir la resistencia de la malaria a los f\u00e1rmacos",
+      "description": "Para lograrlo se analiz\u00f3 el genoma de 724 par\u00e1sitos de la malaria evolucionados en el laboratorio para desarrollar resistencia.",
+      "url": "https://www.montevideo.com.uy/Salud/Desarrollan-nuevo-enfoque-para-predecir-la-resistencia-de-la-malaria-a-los-farmacos-uc908056",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/201606/_W933_80/569220.png",
+      "publishedAt": "2024-11-29 17:06:00",
+      "content": "Estudiar el genoma de los par\u00e1sitos de la malaria y determinar qu\u00e9 variantes gen\u00e9ticas tienen m\u00e1s probabilidades de desarrollar resistencia a los f\u00e1rmacos. Este nuevo enfoque puede abrir el camino \u2026 [+1716 chars]",
+      "retrievedAt": "2024-11-30 19:05:32.148585",
+      "internal_id": "8479ccddebb753c06730ab83233237644b3b7ea19ddcdea99e9b8a1acd2e258f",
+      "publishedAtLabel": "Nov 29"
+    },
+    {
+      "id": 15984,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "ZEIT ONLINE: Gesundheit - Kai Kupferschmidt",
+      "title": "Vogelgrippevirus H5N1: Das Virus tut, was viele bef\u00fcrchtet haben",
+      "description": "Ein schwer kranker Teenager in Kanada, verseuchte Milch und beunruhigende Mutationen: Das Vogelgrippevirus H5N1 macht Fachleute immer nerv\u00f6ser.",
+      "url": "https://www.zeit.de/gesundheit/2024-11/vogelgrippevirus-h5n1-usa-kanada-kuehe-entwicklung-pandemie",
+      "urlToImage": "https://img.zeit.de/gesundheit/2024-11/vogelgrippevirus-h5n1-usa-kanada-kuehe-entwicklung-pandemie-bild-2/wide__1300x731",
+      "publishedAt": "2024-11-29 16:30:11",
+      "content": "In erh\u00f6hter Alarmbereitschaft sind Forscher, die sich mit dem Vogelgrippevirus H5N1 besch\u00e4ftigen, schon l\u00e4nger. Doch in den vergangenen Wochen hat sich die Anspannung bei vielen Experten noch einmal \u2026 [+681 chars]",
+      "retrievedAt": "2024-11-30 19:05:30.815128",
+      "internal_id": "f2ff091a8c6cadaadd6c15ec0ebf66b58b11c24a0e229242af3b670947047e7f",
+      "publishedAtLabel": "Nov 29"
+    },
+    {
+      "id": 15982,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "TODAY",
+      "author": "A. Pawlowski",
+      "title": "Teacher dies of rabies after being bitten by bat in classroom",
+      "description": "A California teacher has reportedly died of rabies after she was bitten by a bat she found in her classroom.",
+      "url": "https://www.today.com/health/news/teacher-dies-rabies-bat-bite-rcna182215",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2024-11/bat-kills-teacher-te-241129-f78bc6.jpg",
+      "publishedAt": "2024-11-29 15:52:00",
+      "content": "A California teacher has reportedly died of rabies after she was bitten by a bat she found in her classroom. Fresno County has confirmed one of its residents passed away from the disease after a sus\u2026 [+3109 chars]",
+      "retrievedAt": "2024-11-30 19:05:29.724936",
+      "internal_id": "6aa205255b71e9ac41a410374b84b71b62ba4860e9a0e0c63bf4da4c22d63b6f",
+      "publishedAtLabel": "Nov 29"
+    },
+    {
+      "id": 15981,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Newser",
+      "author": "Jenn Gidman",
+      "title": "Teacher Dies After Suspected Bat Bite in Classroom",
+      "description": "A California educator has died from rabies after she was reportedly bitten by a bat at her school in nearby Merced County. Per the Fresno Bee , Fresno County's Department of Public Health last week noted that an individual had been exposed to rabies and was h\u2026",
+      "url": "https://www.newser.com/story/360288/rabies-death-in-california-county-is-first-in-30-years.html",
+      "urlToImage": "https://img1-azrcdn.newser.com/image/1575612-12-20241129092202.jpeg",
+      "publishedAt": "2024-11-29 15:00:00",
+      "content": "A California educator has died from rabies after she was reportedly bitten by a bat at her school in nearby Merced County. Per the Fresno Bee, Fresno County's Department of Public Health last week no\u2026 [+1503 chars]",
+      "retrievedAt": "2024-11-30 19:05:29.706029",
+      "internal_id": "0eb8ed6e0ab0febce1f34f6c602fe8548c09867ba07f7db012f2bae4fdfc1642",
+      "publishedAtLabel": "Nov 29"
+    },
+    {
+      "id": 15986,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "New York Times",
+      "title": "A bird flu pandemic would be one of the most foreseeable catastrophes in history",
+      "description": "Nearly five years post-COVID, the next pandemic's only barrier is luck. H5N1 avian flu infects a third of California's dairy herds, posing significant risk. Seasonal flu increases chances of human transmission. The Biden administration's inaction and weakened\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/a-bird-flu-pandemic-would-be-one-of-the-most-foreseeable-catastrophes-in-history/articleshow/115812455.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-115812526,width-1200,height-630,imgsize-88814,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2024-11-29 14:21:44",
+      "content": "Almost five years after COVID blew into our lives, the main thing standing between us and the next global pandemic is luck. And with the advent of flu season, that luck may well be running out.The H5\u2026 [+7502 chars]",
+      "retrievedAt": "2024-11-30 19:05:30.908475",
+      "internal_id": "271fef6ed5f6f920aecf9838f20bc70af39602fbb56e049e05e4e913f7fdf4e5",
+      "publishedAtLabel": "Nov 29"
+    },
+    {
+      "id": 15991,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Sputnikglobe.com",
+      "author": "Sputnik International",
+      "title": "Fifth Case of New Mpox Strain Detected in UK - Health Agency",
+      "description": "MOSCOW (Sputnik) - Another case of the new mpox strain, Clade lb mpox, has been detected in the United Kingdom, bringing the total number of infections to five, the UK Health Security Agency (UKHSA) said on Friday.",
+      "url": "https://sputnikglobe.com/20241129/fifth-case-of-new-mpox-strain-detected-in-uk---health-agency-1121042971.html",
+      "urlToImage": "https://cdn1.img.sputnikglobe.com/images/sharing/article/eng/1121042971.jpg?11075007791732885572",
+      "publishedAt": "2024-11-29 13:06:12",
+      "content": "Check out all the latest trending news and stories from across the globe and the Internet! Lifestyle, cultural stories, social media hits, latest science and technology news, photos, videos, and much\u2026 [+3753 chars]",
+      "retrievedAt": "2024-11-30 19:05:32.888824",
+      "internal_id": "610e793592c249f22b1467cbe197998f89c0f863dcd1d4808f6a906dde9c9164",
+      "publishedAtLabel": "Nov 29"
+    },
+    {
+      "id": 15996,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Digi24.ro",
+      "author": "Andreea Stanciu",
+      "title": "Marea Britanie confirm\u0103 al cincilea caz de \u00eemboln\u0103vire cu noua variant\u0103 de mpox, \u00een doar c\u00e2teva s\u0103pt\u0103m\u00e2ni",
+      "description": "Anglia a raportat \u00eenc\u0103 o infec\u021bie cu noua variant\u0103 Mpox, clada lb, potrivit Agen\u0163iei pentru siguran\u0163\u0103 sanitar\u0103 din Regatul Unit (UKHSA). Acesta este al cincilea caz confirmat \u00een Marea Britanie \u00een ultimele s\u0103pt\u0103m\u00e2ni, informeaz\u0103 Reuters, preluat\u0103 de Agerpres.",
+      "url": "https://www.digi24.ro/stiri/externe/marea-britanie-confirma-al-cincilea-caz-de-imbolnavire-cu-noua-varianta-de-mpox-in-doar-cateva-saptamani-3026409",
+      "urlToImage": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjQl/MkYxMSUyRjIyJTJGMjEzNDc2NV8yMTM0/NzY1X3NodXR0ZXJzdG9ja18yNTAyODg4/NzkzLmpwZyZ3PTEyMDAmaD02MzAmemM9/MSZoYXNoPTBjMGRjNDllMmE1OGM4ZDQxMzMwODMxOGZmNjc2MTA2.thumb.jpg",
+      "publishedAt": "2024-11-29 12:59:49",
+      "content": "Anglia a raportat \u00eenc o infecie cu noua variant Mpox, clada lb, potrivit Ageniei pentru siguran sanitar din Regatul Unit (UKHSA). Acesta este al cincilea caz confirmat \u00een Marea Britanie \u00een ultimele s\u2026 [+711 chars]",
+      "retrievedAt": "2024-11-30 19:05:32.953533",
+      "internal_id": "b90c4cad6a032c8306969064ef82509676427291deac6b044abb6146e34cc7e1",
+      "publishedAtLabel": "Nov 29"
+    },
+    {
+      "id": 15990,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": null,
+      "title": "Fifth person with mpox confirmed in England",
+      "description": "The new case has been detected in Leeds after the infected person travelled from Uganda.",
+      "url": "https://www.bbc.com/news/articles/c3wqg05v60wo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4f95/live/08fe6f40-ae4a-11ef-ad87-e1f6f2a59d85.jpg",
+      "publishedAt": "2024-11-29 12:41:31",
+      "content": "A new case of a strain of mpox spreading in some parts of central and east Africa has been confirmed in Leeds. The infected person had recently returned from Uganda where Clade 1b mpox, which used t\u2026 [+1958 chars]",
+      "retrievedAt": "2024-11-30 19:05:32.882275",
+      "internal_id": "5d847a30c1560252eac5c213f1a500112a396458cdb7cd1be7fca595513bae38",
+      "publishedAtLabel": "Nov 29"
+    },
+    {
+      "id": 15998,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "bbc-news",
+      "source_name": "BBC News",
+      "author": "Bbc News",
+      "title": "Mpox: Fifth England case confirmed in Leeds",
+      "description": "The new case has been detected in Leeds after the infected person travelled from Uganda.",
+      "url": "https://www.bbc.co.uk/news/articles/c3wqg05v60wo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4f95/live/08fe6f40-ae4a-11ef-ad87-e1f6f2a59d85.jpg",
+      "publishedAt": "2024-11-29 12:41:31",
+      "content": "There have been cases of a milder form of mpox called Clade 2 in the UK for several years. Cases of the more serious Clade 1 are rarer in the UK. But UK health officials had expected to detect a s\u2026 [+745 chars]",
+      "retrievedAt": "2024-11-30 19:05:32.983542",
+      "internal_id": "f5fd73510eed20e33ac520a004e8dd2895e47e18d3051b368d7af347f029628f",
+      "publishedAtLabel": "Nov 29"
+    },
+    {
+      "id": 15985,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Ilfattoquotidiano.it",
+      "author": "F. Q.",
+      "title": "Influenza aviaria, la virologa Capua: \u201cAllarmi inascoltati\u201d, l\u2019infettivologo Bassetti: \u201cDov\u2019\u00e8 il piano pandemico?\u201d",
+      "description": "Parla di \u201callarmi inascoltati\u201d sul virus \u201cacrobata\u201d ovvero H5N1 la virologa Ilaria Capua che in un intervento sul Corriere della Sera punta il dito contro gli Usa dove l\u2019influenza aviaria da aprile \u00e8 stata registrata nei bovini da latte e si \u00e8 propagata in mo\u2026",
+      "url": "https://www.ilfattoquotidiano.it/2024/11/29/influenza-aviaria-capua-allarmi-inascoltati-bassetti-piano-pandemico/7785443/",
+      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2024/04/03/influenza-aviaria-1200x630.jpg",
+      "publishedAt": "2024-11-29 12:34:01",
+      "content": "Parla di \u201callarmi inascoltati\u201d sul virus \u201cacrobata\u201d ovvero H5N1 la virologa Ilaria Capua che in un intervento sul Corriere della Sera punta il dito contro gli Usa dove l\u2019influenza aviaria da aprile \u00e8\u2026 [+4335 chars]",
+      "retrievedAt": "2024-11-30 19:05:30.827513",
+      "internal_id": "8d6c8650ec319a9743ce12b1f4e19c9f3da64093150a7fa5660d6ca9e2623f95",
+      "publishedAtLabel": "Nov 29"
+    },
+    {
+      "id": 15994,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Gareth Iacobucci",
+      "title": "Mpox: UK reports new case of clade Ib infection",
+      "description": "A new case of clade Ib mpox has been detected in England, the UK Health Security Agency (UKHSA) has disclosed.The case was detected in Leeds, and the patient is being treated at Sheffield Teaching Hospitals NHS Foundation Trust, officials said. The person had\u2026",
+      "url": "https://www.bmj.com/content/387/bmj.q2687",
+      "urlToImage": "https://www.bmj.com/sites/default/files/highwire/bmj/387/8450.cover-source.jpg",
+      "publishedAt": "2024-11-29 12:11:55",
+      "content": "A new case of clade Ib mpox has been detected in England, the UK Health Security Agency (UKHSA) has disclosed. The case was detected in Leeds, and the patient is being treated at Sheffield Teaching \u2026 [+227 chars]",
+      "retrievedAt": "2024-11-30 19:05:32.909030",
+      "internal_id": "e8388812e706fa3b66c940e750c4404ad3044f8ca07f1f5409a77a1b019968c3",
+      "publishedAtLabel": "Nov 29"
+    },
+    {
+      "id": 15992,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Mediafax.ro",
+      "author": "Iris Dutescu",
+      "title": "Al cincilea caz de mpox cu tulpina Clade 1b confirmat \u00een Marea Britanie",
+      "description": "Un al cincilea caz al unei noi tulpini de mpox a fost detectat \u00een Marea Britanie.",
+      "url": "https://www.mediafax.ro/sanatate/al-cincilea-caz-de-mpox-cu-tulpina-clade-1b-confirmat-in-marea-britanie-22581733",
+      "urlToImage": "https://storage0.dms.mpinteractiv.ro/media/1/1/38026/22581733/1/profimedia-0102295129.jpg?width=640",
+      "publishedAt": "2024-11-29 12:06:12",
+      "content": "Persoana infectat - care se afl acum sub \u00eengrijire de specialitate la Sheffield Teaching Hospitals NHS Foundation Trust - se \u00eentorsese recent din Uganda, unde se \u00eenregistreaz un numr tot mai mare de \u2026 [+1412 chars]",
+      "retrievedAt": "2024-11-30 19:05:32.895880",
+      "internal_id": "e692e2a99c2b03466481c705807d723dbe38844504655c0485fb0fff1bcdef2c",
+      "publishedAtLabel": "Nov 29"
+    },
+    {
+      "id": 15997,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Eva Krafczyk",
+      "title": "Mpox in Afrika nicht zu stoppen?: Die Fallzahlen steigen immer weiter",
+      "description": "Seit mehr als drei Monaten gilt die Krankheit Mpox als globaler medizinischer Notfall. In Afrika, dem Kontinent mit den bei weitem meisten F\u00e4llen, ist die Ausbreitung au\u00dfer Kontrolle.",
+      "url": "https://www.tagesspiegel.de/wissen/mpox-in-afrika-nicht-zu-stoppen-die-fallzahlen-steigen-immer-weiter-12791528.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/12401588/alternates/BASE_16_9_W1400/1726752570000/a-congolese-nurse-takes-a-sample-from-nsimire-nakaziba-a-suspected-case-of-mpox-in-the-treatment-centre-at-the-kavumu-hospital-in-kabare-territory.jpeg",
+      "publishedAt": "2024-11-29 11:35:13",
+      "content": "Jede Woche neue Krankheitsf\u00e4lle und mittlerweile mehr als tausend Tote: Seit Monaten k\u00e4mpfen die Gesundheitsbeh\u00f6rden in Afrika gegen die Krankheit Mpox. Auch wenn Impfkampagnen begonnen haben, schein\u2026 [+8442 chars]",
+      "retrievedAt": "2024-11-30 19:05:32.960462",
+      "internal_id": "b60775b3d8f688d40ca9a5f7af7c5bad9c3ddc6158d3a9abcc17cbce3618baf1",
+      "publishedAtLabel": "Nov 29"
+    },
+    {
+      "id": 16000,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "Negeri Sembilan Health Dept detects eight suspected leptospirosis cases",
+      "description": "SEREMBAN: The Negeri Sembilan Health Department has detected eight suspected Leptospirosis cases, commonly known as rat urine disease, at the Ulu Bendul Recreational Park, as circulated on social media, said its director Datuk Dr Harlina Abdul Rashid. Read fu\u2026",
+      "url": "https://www.thestar.com.my/news/nation/2024/11/29/negeri-sembilan-health-dept-detects-eight-suspected-leptospirosis-cases",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/11/29/3043234.jpeg",
+      "publishedAt": "2024-11-29 11:03:00",
+      "content": "SEREMBAN: The Negeri Sembilan Health Department has detected eight suspected Leptospirosis cases, commonly known as rat urine disease, at the Ulu Bendul Recreational Park, as circulated on social med\u2026 [+1404 chars]",
+      "retrievedAt": "2024-11-30 19:05:33.351545",
+      "internal_id": "7c60ba7ba07b9799dd74215a60b6925e97a73e18212ee1682bede5cc32fe378d",
+      "publishedAtLabel": "Nov 29"
+    },
+    {
+      "id": 15980,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Azeem Majeed",
+      "title": "Improving vaccine uptake during pregnancy",
+      "description": "Healthcare providers should inform women about risks and benefits Respiratory syncytial virus vaccine is the latest addition to the immunisations offered during pregnancy in the UK by the NHS.1 Vaccines against influenza, pertussis, and covid-19 are already \u2026",
+      "url": "https://www.bmj.com/content/387/bmj.q2631",
+      "urlToImage": "https://www.bmj.com/sites/default/files/highwire/bmj/387/8450.cover-source.jpg",
+      "publishedAt": "2024-11-29 10:28:55",
+      "content": "Azeem Majeed, professor of primary care and public healthDepartment of Primary Care and Public Health, Imperial College London, London, UK a.majeed{at}imp\u2026 [+1120 chars]",
+      "retrievedAt": "2024-11-30 19:05:29.362388",
+      "internal_id": "89e450832be93490887b77c45ea4b2609d02f1ddd88322b4a9015382aeba7a3e",
+      "publishedAtLabel": "Nov 29"
+    },
+    {
+      "id": 15999,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Gbnews.com",
+      "author": "Holly Bishop",
+      "title": "Fifth mpox case detected in England with individual under 'specialist care' after landing on plane from Uganda",
+      "description": "A fifth mpox case has been detected in England, with the infected individual under \"specialist care\" after flying in from Uganda.A patient in Leeds was found to have the Clade IB Mpox strain. It is a new form of the virus linked to a global health emergency d\u2026",
+      "url": "https://www.gbnews.com/health/mpox-case-fifth-detected-england-specialist-care-landing-plane-uganda",
+      "urlToImage": "https://www.gbnews.com/media-library/mpox-outbreak-vaccine-production-increased-after-new-strain-found.jpg?id=53178333&width=1200&height=600&coordinates=0%2C72%2C0%2C73",
+      "publishedAt": "2024-11-29 10:21:48",
+      "content": "A fifth mpox case has been detected in England, with the infected individual under \"specialist care\" after flying in from Uganda. A patient in Leeds was found to have the Clade IB Mpox strain. It is\u2026 [+2204 chars]",
+      "retrievedAt": "2024-11-30 19:05:32.990332",
+      "internal_id": "94c0524024e64afc8e4a74d3135dd341f04f6b2daea31e03c3c95cea93f2b448",
+      "publishedAtLabel": "Nov 29"
+    },
+    {
+      "id": 15993,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Sky.com",
+      "author": null,
+      "title": "Fifth case of mpox strain detected in UK",
+      "description": "A fifth case of a new strain of mpox has been detected in the UK.",
+      "url": "https://news.sky.com/story/fifth-case-of-mpox-clade-1b-detected-in-leeds-ukhsa-confirms-13262885",
+      "urlToImage": "https://e3.365dm.com/24/08/1600x900/skynews-mpox-monkeypox_6659153.jpg?20240817165843",
+      "publishedAt": "2024-11-29 10:16:00",
+      "content": "A fifth case of a new strain of mpox has been detected in the UK. The UK Health Security Agency (UKHSA) said the latest case of Clade 1b mpox was detected in Leeds. The individual - who is now unde\u2026 [+1510 chars]",
+      "retrievedAt": "2024-11-30 19:05:32.902484",
+      "internal_id": "24ee472724c47add13c67f85f87debe9637ff8f00195c778bfffbd242398986b",
+      "publishedAtLabel": "Nov 29"
+    },
+    {
+      "id": 15995,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Aftonbladet.se",
+      "author": null,
+      "title": "Nytt bekr\u00e4ftat mpox-fall i England",
+      "description": "\u25b8 Ett nytt fall av mpox klad 1 har uppt\u00e4ckts hos en person i staden Leeds i England, rapporterar nyhetsbyr\u00e5n Reuters.",
+      "url": "https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1311978",
+      "urlToImage": "https://images.aftonbladet-cdn.se/v2/images/156fc268-adec-4fec-ac17-baa7f1dbdb35?fit=crop&format=auto&h=56&q=50&w=100&s=8d717b112fa508073dcc3292ac8f7acfdc612d33",
+      "publishedAt": "2024-11-29 10:14:41",
+      "content": "Nytt bekr\u00e4ftat mpox-fall i England Nytt bekr\u00e4ftat mpox-fall i England Ett nytt fall av mpox klad 1 har uppt\u00e4ckts hos en person i staden Leeds i England, rapporterar nyhetsbyr\u00e5n Reuters. De\u2026 [+9495 chars]",
+      "retrievedAt": "2024-11-30 19:05:32.926017",
+      "internal_id": "0d303e5675e9933e8d7669903f62448132bc1ebc87ed4d73057fcc64f602eada",
+      "publishedAtLabel": "Nov 29"
+    },
+    {
+      "id": 16001,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "SARBAN SINGH",
+      "title": "Negri's Ulu Bendul Park closed till Dec 15 over suspected leptospirosis cases",
+      "description": "SEREMBAN: The Ulu Bendul Recreational Park has been closed temporarily until Dec 15 after eight cases believed related to leptospirosis were reported there in recent days, says Negri Sembilan Health director Datuk Dr Harlina Abdul Rashid. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2024/11/29/negri039s-ulu-bendul-park-closed-till-dec-15-over-suspected-leptospirosis-cases",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/11/29/3042956.jpg",
+      "publishedAt": "2024-11-29 09:11:00",
+      "content": "SEREMBAN: The Ulu Bendul Recreational Park has been closed temporarily until Dec 15 after eight cases believed related to leptospirosis were reported there in recent days, says Negri Sembilan Health \u2026 [+1231 chars]",
+      "retrievedAt": "2024-11-30 19:05:33.358698",
+      "internal_id": "d1cfd88160ad3e3cdfcb4652ac90be4af5bc819b6266b2e39eeb16b7d8ffe7da",
+      "publishedAtLabel": "Nov 29"
+    },
+    {
+      "id": 15983,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Sciencebasedmedicine.org",
+      "author": "Jonathan Howard",
+      "title": "ZDoggMD on RFK Jr.\u2019s Rise: \u201cI\u2019m Talking About Like These Science Based Medicine Guys\u201d",
+      "description": "Dr. Zubin Damania praised and promoted RFK Jr.-loving doctors. We criticized these doctors and corrected their factual errors. See the difference? The post ZDoggMD on RFK Jr.\u2019s Rise: \u201cI\u2019m Talking About Like These Science Based Medicine Guys\u201d first appeared on\u2026",
+      "url": "https://sciencebasedmedicine.org/notourfault/",
+      "urlToImage": "https://sciencebasedmedicine.org/wp-content/uploads/2024/11/image-26.png",
+      "publishedAt": "2024-11-29 08:00:00",
+      "content": "In 2019, Dr. Zubin Damania (ZDoggMD) recorded a video titled Deadly Samoan Measles Outbreak, What Can We Learn? In it, he rightfully criticized anti-vaxxers for triggering this outbreak. He said: Th\u2026 [+4564 chars]",
+      "retrievedAt": "2024-11-30 19:05:30.114230",
+      "internal_id": "fcd5c10dd549acbfe648e7f4e2a8b4a18f633b9cd821efbd0c4ff1380ca97cd1",
+      "publishedAtLabel": "Nov 29"
+    },
+    {
+      "id": 15989,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "DIE WELT",
+      "author": "WELT",
+      "title": "\u201eMan kann nicht einmal daran denken, alle Verdachtsf\u00e4lle zu isolieren\u201c",
+      "description": "Seit mehr als drei Monaten gilt die Krankheit Mpox als globaler medizinischer Notfall. In Afrika steigen die Krankheitszahlen. Es hapert an Impfstoffen und Impfprogrammen, vor allem f\u00fcr Kinder. Ist die Krankheit \u00fcberhaupt zu stoppen?",
+      "url": "https://www.welt.de/wissenschaft/article254708676/Mpox-Man-kann-nicht-einmal-daran-denken-alle-Verdachtsfaelle-zu-isolieren.html",
+      "urlToImage": "https://img.welt.de/img/wissenschaft/mobile254708672/1387935077-ci16x9-w1200/A-Nigerian-health-official-prepares-to-administer-a-mpox-vaccination-to-a-woman-at-Federal-Medic.jpg",
+      "publishedAt": "2024-11-29 07:42:59",
+      "content": "Seit mehr als drei Monaten gilt die Krankheit Mpox als globaler medizinischer Notfall. In Afrika steigen die Krankheitszahlen. Es hapert an Impfstoffen und Impfprogrammen, vor allem f\u00fcr Kinder. Ist d\u2026 [+6346 chars]",
+      "retrievedAt": "2024-11-30 19:05:32.875318",
+      "internal_id": "13673b461c5283b851151980763ad741b0a5862cdcd9a0fdae1dec92121f02a3",
+      "publishedAtLabel": "Nov 29"
+    },
     {
       "id": 15964,
       "query": [
@@ -25925,132 +26339,6 @@
       "content": "VOICE REFERENDUM ANNIVERSARY Today marks one year since Australia voted down a proposal to enshrine an Indigenous Voice to Parliament in the constitution. The AAP this morning quotes a spokesperson \u2026 [+12475 chars]",
       "retrievedAt": "2024-10-15 07:06:26.776795",
       "internal_id": "06ad02bc83552c95a113690de69b653d974edcbfd5eb46cbb16d66f770400d13",
-      "publishedAtLabel": "Oct 13"
-    },
-    {
-      "id": 14538,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "Dinesh K Sharma",
-      "title": "First diphtheria death in Ferozepur: 3-Year-old girl dies from bacterial infection",
-      "description": "Ferozepur's first diphtheria death amid the dengue season triggers alarm as a three-year-old passes away in Faridkot. Health teams conduct surveys, finding one more suspected case but tests negative. Authorities initiate door-to-door surveillance in affected \u2026",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/first-diphtheria-death-in-ferozepur-3-year-old-girl-dies-from-bacterial-infection/articleshow/114194849.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-114194880,width-1070,height-580,imgsize-524198,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-10-13 17:27:06",
-      "content": "What is far-infrared therapy good for?",
-      "retrievedAt": "2024-10-14 19:05:40.512157",
-      "internal_id": "ecd2975479ae8b0f861b894c2ee18393e8be581bfbd304036955ee4be9486078",
-      "publishedAtLabel": "Oct 13"
-    },
-    {
-      "id": 14540,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "Tichaona Chifamba",
-      "title": "Zimbabwe reports two mpox cases",
-      "description": "HARARE, Oct. 13 (Xinhua) -- Zimbabwe on Sunday announced two confirmed cases of mpox in people who have traveled to South Africa and Tanzania. Read full story",
-      "url": "https://www.thestar.com.my/news/world/2024/10/14/zimbabwe-reports-two-mpox-cases",
-      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
-      "publishedAt": "2024-10-13 17:03:00",
-      "content": "HARARE, Oct. 13 (Xinhua) -- Zimbabwe on Sunday announced two confirmed cases of mpox in people who have traveled to South Africa and Tanzania. Zimbabwe's Health and Child Care Minister Douglas Momb\u2026 [+928 chars]",
-      "retrievedAt": "2024-10-14 19:05:42.390223",
-      "internal_id": "06086a8516d330a84ac271b2e82a895a00cbf76715568b83ed3a7aef592fa834",
-      "publishedAtLabel": "Oct 13"
-    },
-    {
-      "id": 14541,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "The Star Online",
-      "title": "Zimbabwe reports first two mpox cases of unspecified variant",
-      "description": "HARARE (Reuters) - Zimbabwe has confirmed its first two cases of mpox, the health ministry said on Sunday, without specifying which variant had been recorded. Read full story",
-      "url": "https://www.thestar.com.my/news/world/2024/10/13/zimbabwe-reports-first-two-mpox-cases-of-unspecified-variant",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/10/13/2962482.jpg",
-      "publishedAt": "2024-10-13 15:58:00",
-      "content": "HARARE (Reuters) - Zimbabwe has confirmed its first two cases of mpox, the health ministry said on Sunday, without specifying which variant had been recorded. The first case was detected in an 11-ye\u2026 [+1192 chars]",
-      "retrievedAt": "2024-10-14 19:05:42.401892",
-      "internal_id": "116525f54e51e2c7abd45e0ce38fa1f2b6bd6ac02de82aaa4cba2153b73e62d2",
-      "publishedAtLabel": "Oct 13"
-    },
-    {
-      "id": 14539,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Tbsnews.net",
-      "author": "Unb",
-      "title": "Dengue: 4 more die, 660 hospitalised in 24hrs",
-      "description": "A total of 42,470 dengue cases have been reported since 1 January 2024",
-      "url": "https://www.tbsnews.net/bangladesh/health/dengue-4-more-die-660-hospitalised-24hrs-965891",
-      "urlToImage": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/09/04/dengue_ward_rajibdhar_0288.jpg",
-      "publishedAt": "2024-10-13 12:53:46",
-      "content": "Four more deaths were reported from dengue in 24 hours till Sunday morning, raising the number of fatalities from the mosquito-borne disease in Bangladesh to 214 this year. During the period, 660 mo\u2026 [+696 chars]",
-      "retrievedAt": "2024-10-14 19:05:40.554552",
-      "internal_id": "18618de64306b6ebbedb3a8ef4ab8d5532a735f2b4083b33bd58241acf3a91b4",
-      "publishedAtLabel": "Oct 13"
-    },
-    {
-      "id": 14542,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "Agency",
-      "title": "First mpox diagnostic test approved by WHO",
-      "description": "The availability of such a test will help speed up identification of mpox patients and help prevent its transmission.",
-      "url": "https://www.thestar.com.my/lifestyle/health/2024/10/13/first-mpox-diagnostic-test-approved-by-who",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/10/11/2959154.jpg",
-      "publishedAt": "2024-10-13 12:33:12",
-      "content": "The World Health Organization (WHO) announced on Oct 4 (2024) that it had approved the use of the first diagnostic test for mpox, a key tool for countries battling outbreaks of this infectious diseas\u2026 [+1499 chars]",
-      "retrievedAt": "2024-10-14 19:05:42.413453",
-      "internal_id": "6c4bcd0cd81f98f672edd0accbe831f9b120493c7ea2ed87cb2a7b029a330b0c",
-      "publishedAtLabel": "Oct 13"
-    },
-    {
-      "id": 14537,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "The Japan Times",
-      "author": "The Japan Times",
-      "title": "Australia commits $64 million to protect against looming bird flu threat",
-      "description": "Oceania is the last region free of the H5N1 clade 2.3.4.4b avian influenza, which has killed hundreds of millions of birds since emerging in 2020.",
-      "url": "https://www.japantimes.co.jp/news/2024/10/13/asia-pacific/australia-bird-flu-funding/",
-      "urlToImage": "https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/13/427549.JPG?v=3.1",
-      "publishedAt": "2024-10-13 11:42:00",
-      "content": "SYDNEY Australia's government said on Sunday it would spend an extra 95 million Australian dollars ($64.13 million) to protect against a destructive bird flu strain that has spread through bird and m\u2026 [+1416 chars]",
-      "retrievedAt": "2024-10-14 19:05:40.172763",
-      "internal_id": "742e0fe55403bcf84740d2b06891cf81af7b9068348b9984e38eb6acb127de4c",
-      "publishedAtLabel": "Oct 13"
-    },
-    {
-      "id": 14536,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "abc-news-au",
-      "source_name": "ABC News (AU)",
-      "author": "Esther Linder",
-      "title": "Labor sets out $95 million to combat potential arrival of deadly bird flu strain H5N1",
-      "description": "Biosecurity, environmental funding for protected native species and a top-up of the national stockpile of flu vaccines are part of preparations for the arrival of H5N1 to Australia.",
-      "url": "https://www.abc.net.au/news/2024-10-13/labor-announces-95m-in-funding-for-bird-flu-h5n1/104467622",
-      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/0b04ad35e96a4248c2825a4d68019d9c?impolicy=wcms_watermark_news&cropH=3233&cropW=5748&xPos=0&yPos=384&width=862&height=485&imformat=generic",
-      "publishedAt": "2024-10-13 11:32:07",
-      "content": "The looming arrival of a deadly strain of bird flu in Australia has prompted the federal government to set up a $95 million preparation fund as part of a swathe of biosecurity and environmental measu\u2026 [+3844 chars]",
-      "retrievedAt": "2024-10-14 19:05:40.122524",
-      "internal_id": "2c124687742780b77f0309fe129d557baf4ecbf028e76d325027c4e90e697d72",
       "publishedAtLabel": "Oct 13"
     }
   ]
