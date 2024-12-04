@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
 - **New articles in last harvest:** 13
-- **Last harvest:** 2024-12-04 07:07
-- **Most recent article:** 2024-12-03 07:00:05
+- **Last harvest:** 2024-12-04 19:07
+- **Most recent article:** 2024-12-03 17:41:55
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-43 | 24-44 | 24-45 | 24-46 | 24-47 | 24-48 | 24-49 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 130 | 75 | 63 | 62 | 76 | 26 | 3 | 435 |
-| h5n1 | 12 | 61 | 36 | 40 | 50 | 38 | 8 | 245 |
-| dengue | 51 | 31 | 31 | 36 | 28 | 25 | 2 | 204 |
-| malaria | 57 | 16 | 26 | 33 | 27 | 29 | 7 | 195 |
+| mpox | 130 | 75 | 63 | 62 | 76 | 26 | 5 | 437 |
+| h5n1 | 12 | 61 | 36 | 40 | 50 | 38 | 12 | 249 |
+| dengue | 49 | 31 | 31 | 36 | 28 | 25 | 4 | 204 |
+| malaria | 42 | 16 | 26 | 33 | 27 | 29 | 10 | 183 |
 | measles | 1 | 13 | 3 | 33 | 11 | 6 | 1 | 68 |
-| rabies | 3 | 10 | 5 | 11 | 7 | 12 | 2 | 50 |
-| zika | 6 | 3 | 9 | 4 | 3 | 1 | 3 | 29 |
-| chikungunya | 7 | 2 | 2 | 3 | 5 | 4 | 3 | 26 |
+| rabies | 3 | 10 | 5 | 11 | 7 | 12 | 3 | 51 |
+| zika | 5 | 3 | 9 | 4 | 3 | 1 | 3 | 28 |
+| chikungunya | 6 | 2 | 2 | 3 | 5 | 4 | 3 | 25 |
 | meningitis | 6 | 3 | 5 | 2 | 5 | 3 | 0 | 24 |
-| pertussis | 3 | 1 | 3 | 8 | 5 | 1 | 0 | 21 |
+| pertussis | 2 | 1 | 3 | 8 | 5 | 1 | 1 | 21 |
 | hpai | 2 | 7 | 4 | 4 | 4 | 0 | 0 | 21 |
 | leptospirosis | 0 | 3 | 10 | 3 | 0 | 2 | 0 | 18 |
 | typhoid | 3 | 4 | 1 | 1 | 3 | 1 | 0 | 13 |
@@ -43,11 +43,21 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-49 (rabies)
 
+- [California teacher dies from suspected rabid bat bite](https://ktla.com/news/california/california-teacher-dies-from-suspect-rabid-bat-bite/) (KTLA Los Angeles)
+
 - [California Teacher Dies From Rare Rabies Infection After Bat Encounter in Classroom](https://gizmodo.com/california-teacher-dies-from-rare-rabies-infection-after-bat-encounter-in-classroom-2000532968) (Gizmodo.com)
 
 - [Three rabid animals in region reported by health districts](https://roanoke.com/news/local/three-rabid-animals-in-region-reported-by-health-districts/article_34217bb8-b0ed-11ef-8d65-e7bf49f86b3a.html) (Roanoke Times)
 
+## 24-49 (pertussis)
+
+- [Yellowstone County seeing resurgence of whooping cough](https://billingsgazette.com/news/local/whooping-coungh-riverstone-health-billings-montana/article_b1ce07f4-b19a-11ef-b9eb-a78727220dca.html) (Billings Gazette)
+
 ## 24-49 (mpox)
+
+- [Giubileo Roma, dall'aviaria al Covid e Mpox: i possibili rischi sanitari](https://www.ilgiornale.it/news/adnkronos/giubileo-roma-dallaviaria-covid-e-mpox-i-possibili-rischi-2406492.html) (Ilgiornale.it)
+
+- [Mpox : les efforts commencent à « porter leurs fruits », malgré près de 60 000 cas enregistrés en Afrique](https://www.lemonde.fr/planete/article/2024/12/03/mpox-les-efforts-commencent-a-porter-leurs-fruits-malgre-pres-de-60-000-cas-enregistres-en-afrique_6427001_3244.html) (Le Monde)
 
 - [Low rates of flu vaccine take-up: Concerns for the season ahead](https://www.digitaljournal.com/life/low-rates-of-flu-vaccine-take-up-concerns-for-the-season-ahead/article) (Digital Journal)
 
@@ -60,6 +70,12 @@ Source: [News API](https://newsapi.org/)
 - [Senegal launches national measles, rubella vaccination campaign](https://www.thestar.com.my/news/world/2024/12/03/senegal-launches-national-measles-rubella-vaccination-campaign) (The Star Online)
 
 ## 24-49 (malaria)
+
+- [Treatment outcomes and associated factors in severe malaria patients at University of Gondar Hospital, Northwest Ethiopia: A retrospective study (2020–2023)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0309681) (Plos.org)
+
+- [Nigeria begonnen met grote vaccinatiecampagne tegen malaria](https://nos.nl/l/2546912) (Nos.nl)
+
+- [Beats: (PRODUCT)RED Solo 4 Kopfhörer zum World AIDS Day präsentiert](https://www.appgefahren.de/beats-productred-solo-4-kopfhoerer-zum-world-aids-day-praesentiert-370194.html) (Appgefahren.de)
 
 - [Ogun targets malaria-free status by 2030](https://punchng.com/ogun-targets-malaria-free-status-by-2030/) (The Punch)
 
@@ -76,6 +92,14 @@ Source: [News API](https://newsapi.org/)
 - [Correction: Evaluation of a parasite-density based pooled targeted amplicon deep sequencing (TADS) method for molecular surveillance of Plasmodium falciparum drug resistance genes in Haiti](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0315044) (Plos.org)
 
 ## 24-49 (h5n1)
+
+- [Reino Unido almacena vacunas contra el H5N1 ante el riesgo de pandemia](https://www.nuevatribuna.es/articulo/global/reino-unido-almacena-vacunas-h5n1-riesgo-pandemia/20241203171217233087.html) (Nuevatribuna.es)
+
+- [Controlling minor outbreaks is necessary to prepare for major pandemics](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002945) (Plos.org)
+
+- [Here we go again](https://freethoughtblogs.com/pharyngula/2024/12/03/here-we-go-again-7/) (Freethoughtblogs.com)
+
+- [Difícil evitar una pandemia de gripe aviar catastrófica](https://www.milenio.com/internacional/dificil-evitar-pandemia-gripe-aviar-catastrofica) (Milenio)
 
 - [Vogelgrippe in Milch nachgewiesen – US-Supermärkte reagieren](https://www.morgenpost.de/panorama/article407813455/vogelgrippe-in-milch-nachgewiesen-us-supermaerkte-reagieren.html) (Berliner Morgenpost)
 
@@ -94,6 +118,10 @@ Source: [News API](https://newsapi.org/)
 - [NZ’s first case of high pathogenic strain of bird flu found on Otago egg farm](https://www.nzherald.co.nz/nz/nzs-first-case-of-bird-flu-found-on-otago-egg-farm/7GU4CPBVARFWJDAOGKJGFUNSBM/) (New Zealand Herald)
 
 ## 24-49 (dengue)
+
+- [Correction: A fully automated sample-to-answer PCR system for easy and sensitive detection of dengue virus in human serum and mosquitos](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0315117) (Plos.org)
+
+- [Correction: An RT-PCR panel for rapid serotyping of dengue virus serotypes 1 to 4 in human serum and mosquito on a field-deployable PCR system](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0315046) (Plos.org)
 
 - [डेंगू, मलेरिया जैसी बीमारी के लिए 59 रुपये में मिलेगा इंश्योरेंस, PhonePe लेकर आया प्लान, इतना मिलेगा कवरेज](https://hindi.moneycontrol.com/news/your-money/phonepe-health-insurance-plan-for-coverage-for-dengue-malaria-in-just-rupees-59-gives-rupees-one-lakh-coverage-1941008.html) (Moneycontrol)
 
@@ -2343,8 +2371,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Little disease but lots of bites: social, urbanistic, and entomological risk factors of human exposure to Aedes aegypti in South Texas, U.S.](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011953) (Plos.org)
 
-- [La Consejería de Sanidad coloca trampas para saber si el mosquito tigre ha llegado a Castilla y León](https://www.abc.es/espana/castilla-leon/consejeria-sanidad-coloca-trampas-saber-mosquito-tigre-20241020175506-nt.html) (Www.abc.es)
-
 ## 24-43 (typhoid)
 
 - [Did you know Vaishali actor Sanjay Mitra was originally cast for Ashokan's role in 'Amaram'?](https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/did-you-know-vaishali-actor-sanjay-mitra-was-originally-cast-for-ashokans-role-in-amaram/articleshow/114584424.cms) (The Times of India)
@@ -2370,8 +2396,6 @@ Source: [News API](https://newsapi.org/)
 - [For the Youngest, Pertussis Is Dangerous and Preventable](https://insights.som.yale.edu/insights/for-the-youngest-pertussis-is-dangerous-and-preventable) (Yale.edu)
 
 - [Weszły bezpłatne szczepienia przeciw krztuścowi dla ciężarnych. Czy to pomoże w walce z chorobą?](https://natemat.pl/zdrowie/573472,krztusiec-to-grozna-szczegolnie-dla-dzieci-zakazna-choroba-bakteryjna) (Natemat.pl)
-
-- [Заболеваемость коклюшем в российском регионе превысила многолетний уровень в 6,6 раза](https://life.ru/p/1696250) (Life.ru)
 
 ## 24-43 (mpox)
 
@@ -2739,36 +2763,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Egypt declared malaria-free after 100-year effort](https://www.bbc.com/news/articles/cm2yl8pjgn2o) (BBC News)
 
-- [WHO: Egypti vapautunut malariasta](https://www.is.fi/ulkomaat/art-2000010775616.html) (Www.is.fi)
-
-- [WHO certifies Egypt as malaria-free](https://punchng.com/who-certifies-egypt-as-malaria-free/) (The Punch)
-
-- [WHO certifies Egypt as malaria-free](https://economictimes.indiatimes.com/news/international/world-news/who-certifies-egypt-as-malaria-free/articleshow/114403253.cms) (The Times of India)
-
-- [WHO erklärt Ägypten als „offiziell malariafrei“](https://www.diepresse.com/18987090/who-erklaert-aegypten-als-offiziell-malariafrei) (Diepresse.com)
-
-- [WHO says it has certified Egypt as malaria free](https://www.jpost.com/breaking-news/article-825366) (The Jerusalem Post)
-
-- [WHO erklärt Ägypten als „offiziell malariafrei“](https://orf.at/stories/3373377/) (Orf.at)
-
-- [Malaria: Ägypten jetzt offiziell malariafrei](https://www.tagesspiegel.de/wissen/malaria-agypten-jetzt-offiziell-malariafrei-12566834.html) (Der Tagesspiegel)
-
-- [Malaria: Ägypten jetzt offiziell malariafrei](https://www.zeit.de/news/2024-10/20/aegypten-jetzt-offiziell-malariafrei) (Die Zeit)
-
-- [Malaria: Ägypten jetzt offiziell malariafrei](https://www.stern.de/panorama/wissen/malaria--aegypten-jetzt-offiziell-malariafrei-35158982.html) (STERN.de)
-
-- ["Seidenstraße der Gesundheit": Wie chinesische Pharmakonzerne nach Afrika expandieren](https://www.telepolis.de/features/Seidenstrasse-der-Gesundheit-Wie-chinesische-Pharmakonzerne-nach-Afrika-expandieren-9980775.html) (Telepolis.de)
-
-- [»Historisk«: Egypten er erklæret malariafri for første gang nogensinde](https://politiken.dk/danmark/sundhed/art10123881/Egypten-er-erkl%C3%A6ret-malariafri-for-f%C3%B8rste-gang-nogensinde) (Politiken.dk)
-
-- [Egypten er erklæret malariafri](https://www.dr.dk/nyheder/seneste/egypten-er-erklaeret-malariafri) (Www.dr.dk)
-
-- [WHO: Egypt er malariafritt](https://www.nrk.no/nyheter/who_-egypt-er-malariafritt-1.17090703) (NRK)
-
-- [Victorie împotriva malariei. Egiptul, declarat oficial liber de această boală](https://www.mediafax.ro/externe/victorie-impotriva-malariei-egiptul-declarat-oficial-liber-de-aceasta-boala-22520105) (Mediafax.ro)
-
-- [WHO: Malaria on hävitetty Egyptistä](https://yle.fi/a/74-20119034) (YLE News)
-
 ## 24-43 (hpai)
 
 - [Ny bølge av fugleinfluensa blant villfugl i Nord-Norge](https://www.nrk.no/tromsogfinnmark/ny-bolge-av-fugleinfluensa-blant-villfugl-i-nord-norge-1.17093931) (NRK)
@@ -2901,10 +2895,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Little disease but lots of bites: social, urbanistic, and entomological risk factors of human exposure to Aedes aegypti in South Texas, U.S.](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011953) (Plos.org)
 
-- [La Consejería de Sanidad coloca trampas para saber si el mosquito tigre ha llegado a Castilla y León](https://www.abc.es/espana/castilla-leon/consejeria-sanidad-coloca-trampas-saber-mosquito-tigre-20241020175506-nt.html) (Www.abc.es)
-
-- [Casos de dengue no Brasil disparam 400% em 2024 em relação ao ano anterior](https://brasil.perfil.com/saude/casos-de-dengue-no-brasil-disparam-400-em-2024-em-relacao-ao-ano-anterior.phtml) (Perfil.com)
-
 ## 24-43 (chikungunya)
 
 - [Chikungunya surge in Pakistan: What we know about the mosquito-borne virus](https://www.aljazeera.com/news/2024/10/24/chikungunya-surge-in-pakistan-what-we-know-about-the-mosquito-borne-virus) (Al Jazeera English)
@@ -2918,5 +2908,3 @@ Source: [News API](https://newsapi.org/)
 - [Valneva effectuera des présentations sur le chikungunya lors de différentes conférences scientifiques de premier plan](https://www.globenewswire.com/news-release/2024/10/21/2966375/0/fr/Valneva-effectuera-des-pr%C3%A9sentations-sur-le-chikungunya-lors-de-diff%C3%A9rentes-conf%C3%A9rences-scientifiques-de-premier-plan.html) (GlobeNewswire)
 
 - [Little disease but lots of bites: social, urbanistic, and entomological risk factors of human exposure to Aedes aegypti in South Texas, U.S.](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011953) (Plos.org)
-
-- [La Consejería de Sanidad coloca trampas para saber si el mosquito tigre ha llegado a Castilla y León](https://www.abc.es/espana/castilla-leon/consejeria-sanidad-coloca-trampas-saber-mosquito-tigre-20241020175506-nt.html) (Www.abc.es)
