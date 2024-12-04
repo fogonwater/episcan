@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 10
-- **Last harvest:** 2024-12-03 19:05
-- **Most recent article:** 2024-12-02 18:42:26
+- **New articles in last harvest:** 13
+- **Last harvest:** 2024-12-04 07:07
+- **Most recent article:** 2024-12-03 07:00:05
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-43 | 24-44 | 24-45 | 24-46 | 24-47 | 24-48 | 24-49 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 130 | 75 | 63 | 62 | 76 | 26 | 1 | 433 |
-| h5n1 | 12 | 61 | 36 | 40 | 50 | 38 | 5 | 242 |
-| dengue | 49 | 31 | 31 | 36 | 28 | 25 | 2 | 202 |
-| malaria | 42 | 16 | 26 | 33 | 27 | 29 | 3 | 176 |
+| mpox | 130 | 75 | 63 | 62 | 76 | 26 | 3 | 435 |
+| h5n1 | 12 | 61 | 36 | 40 | 50 | 38 | 8 | 245 |
+| dengue | 51 | 31 | 31 | 36 | 28 | 25 | 2 | 204 |
+| malaria | 57 | 16 | 26 | 33 | 27 | 29 | 7 | 195 |
 | measles | 1 | 13 | 3 | 33 | 11 | 6 | 1 | 68 |
-| rabies | 3 | 10 | 5 | 11 | 7 | 12 | 0 | 48 |
-| zika | 5 | 3 | 9 | 4 | 3 | 1 | 3 | 28 |
+| rabies | 3 | 10 | 5 | 11 | 7 | 12 | 2 | 50 |
+| zika | 6 | 3 | 9 | 4 | 3 | 1 | 3 | 29 |
+| chikungunya | 7 | 2 | 2 | 3 | 5 | 4 | 3 | 26 |
 | meningitis | 6 | 3 | 5 | 2 | 5 | 3 | 0 | 24 |
-| chikungunya | 6 | 2 | 2 | 3 | 5 | 4 | 1 | 23 |
+| pertussis | 3 | 1 | 3 | 8 | 5 | 1 | 0 | 21 |
 | hpai | 2 | 7 | 4 | 4 | 4 | 0 | 0 | 21 |
-| pertussis | 2 | 1 | 3 | 8 | 5 | 1 | 0 | 20 |
 | leptospirosis | 0 | 3 | 10 | 3 | 0 | 2 | 0 | 18 |
 | typhoid | 3 | 4 | 1 | 1 | 3 | 1 | 0 | 13 |
 | yersinia | 0 | 3 | 0 | 0 | 1 | 1 | 0 | 5 |
@@ -41,7 +41,17 @@ Source: [News API](https://newsapi.org/)
 
 - [A zebrafish-based in vivo model of Zika virus infection unveils alterations of the glutamatergic neuronal development and NS4A as a key viral determinant of neuropathogenesis](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012756) (Plos.org)
 
+## 24-49 (rabies)
+
+- [California Teacher Dies From Rare Rabies Infection After Bat Encounter in Classroom](https://gizmodo.com/california-teacher-dies-from-rare-rabies-infection-after-bat-encounter-in-classroom-2000532968) (Gizmodo.com)
+
+- [Three rabid animals in region reported by health districts](https://roanoke.com/news/local/three-rabid-animals-in-region-reported-by-health-districts/article_34217bb8-b0ed-11ef-8d65-e7bf49f86b3a.html) (Roanoke Times)
+
 ## 24-49 (mpox)
+
+- [Low rates of flu vaccine take-up: Concerns for the season ahead](https://www.digitaljournal.com/life/low-rates-of-flu-vaccine-take-up-concerns-for-the-season-ahead/article) (Digital Journal)
+
+- [Încă un caz de variola maimuței confirmat în Anglia. Cine este pacientul și cum s-a îmbolnăvit](https://adevarul.ro/stiri-interne/sanatate/inca-un-caz-de-variola-maimutei-confirmat-in-2405825.html) (Adevarul.ro)
 
 - ['Bleeding eye' virus sparks global fear: Urgent warning issued to UK, Africa travelers over 'deadliest' disease. Check symptoms](https://economictimes.indiatimes.com/news/international/global-trends/bleeding-eye-marburg-mpox-oropouche-virus-sparks-global-fear-urgent-warning-issued-to-uk-africa-travelers-over-deadliest-disease-check-symptoms/articleshow/115891504.cms) (The Times of India)
 
@@ -51,6 +61,14 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-49 (malaria)
 
+- [Ogun targets malaria-free status by 2030](https://punchng.com/ogun-targets-malaria-free-status-by-2030/) (The Punch)
+
+- [Ogun eyes malaria-free status by 2030](https://punchng.com/ogun-eyes-malaria-free-status-by-2030/) (The Punch)
+
+- [I got malaria on purpose and so can you](https://www.vox.com/future-perfect/387901/malaria-vaccine-treatment-challenge-trial) (Vox)
+
+- [Beats Debuts (PRODUCT)RED Solo 4 Headphones, But You Won't Be Able to Buy Them](https://www.macrumors.com/2024/12/02/beats-productred-solo-4-headphones/) (MacRumors)
+
 - [Malaria vaccine rolled out in world's worst-affected country](https://www.bbc.com/news/articles/crk0mpz47jjo) (BBC News)
 
 - [डेंगू, मलेरिया जैसी बीमारी के लिए 59 रुपये में मिलेगा इंश्योरेंस, PhonePe लेकर आया प्लान, इतना मिलेगा कवरेज](https://hindi.moneycontrol.com/news/your-money/phonepe-health-insurance-plan-for-coverage-for-dengue-malaria-in-just-rupees-59-gives-rupees-one-lakh-coverage-1941008.html) (Moneycontrol)
@@ -58,6 +76,12 @@ Source: [News API](https://newsapi.org/)
 - [Correction: Evaluation of a parasite-density based pooled targeted amplicon deep sequencing (TADS) method for molecular surveillance of Plasmodium falciparum drug resistance genes in Haiti](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0315044) (Plos.org)
 
 ## 24-49 (h5n1)
+
+- [Vogelgrippe in Milch nachgewiesen – US-Supermärkte reagieren](https://www.morgenpost.de/panorama/article407813455/vogelgrippe-in-milch-nachgewiesen-us-supermaerkte-reagieren.html) (Berliner Morgenpost)
+
+- [Influenza A(H5N1) Virus Clade 2.3.2.1a in Traveler Returning to Australia from India, 2024](https://wwwnc.cdc.gov/eid/article/31/1/24-1210_article) (Cdc.gov)
+
+- [Monday headlines: You, robot](https://themorningnews.org/p/monday-headlines-you-robot) (Themorningnews.org)
 
 - [H5N1 Bird Flu Concerns Grow. Are COVID-19 Mistakes Being Repeated?](https://www.forbes.com/sites/brucelee/2024/12/02/h5n1-bird-flu-concerns-grow-are-covid-19-mistakes-being-repeated/) (Forbes)
 
@@ -76,6 +100,10 @@ Source: [News API](https://newsapi.org/)
 - [Three years of insecticide resistance evolution and associated mechanisms in Aedes aegypti populations of Ouagadougou, Burkina Faso](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012138) (Plos.org)
 
 ## 24-49 (chikungunya)
+
+- [Valneva annonce des données positives sur la persistance des anticorps à trois ans pour son vaccin à dose unique contre le chikungunya, IXCHIQ®](https://www.globenewswire.com/news-release/2024/12/03/2990253/0/fr/Valneva-annonce-des-donn%C3%A9es-positives-sur-la-persistance-des-anticorps-%C3%A0-trois-ans-pour-son-vaccin-%C3%A0-dose-unique-contre-le-chikungunya-IXCHIQ.html) (GlobeNewswire)
+
+- [Valneva Reports Positive Three-Year Antibody Persistence Data for its Single-Shot Chikungunya Vaccine IXCHIQ®](https://www.globenewswire.com/news-release/2024/12/03/2990253/0/en/Valneva-Reports-Positive-Three-Year-Antibody-Persistence-Data-for-its-Single-Shot-Chikungunya-Vaccine-IXCHIQ.html) (GlobeNewswire)
 
 - [Three years of insecticide resistance evolution and associated mechanisms in Aedes aegypti populations of Ouagadougou, Burkina Faso](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012138) (Plos.org)
 
@@ -2315,6 +2343,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Little disease but lots of bites: social, urbanistic, and entomological risk factors of human exposure to Aedes aegypti in South Texas, U.S.](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011953) (Plos.org)
 
+- [La Consejería de Sanidad coloca trampas para saber si el mosquito tigre ha llegado a Castilla y León](https://www.abc.es/espana/castilla-leon/consejeria-sanidad-coloca-trampas-saber-mosquito-tigre-20241020175506-nt.html) (Www.abc.es)
+
 ## 24-43 (typhoid)
 
 - [Did you know Vaishali actor Sanjay Mitra was originally cast for Ashokan's role in 'Amaram'?](https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/did-you-know-vaishali-actor-sanjay-mitra-was-originally-cast-for-ashokans-role-in-amaram/articleshow/114584424.cms) (The Times of India)
@@ -2340,6 +2370,8 @@ Source: [News API](https://newsapi.org/)
 - [For the Youngest, Pertussis Is Dangerous and Preventable](https://insights.som.yale.edu/insights/for-the-youngest-pertussis-is-dangerous-and-preventable) (Yale.edu)
 
 - [Weszły bezpłatne szczepienia przeciw krztuścowi dla ciężarnych. Czy to pomoże w walce z chorobą?](https://natemat.pl/zdrowie/573472,krztusiec-to-grozna-szczegolnie-dla-dzieci-zakazna-choroba-bakteryjna) (Natemat.pl)
+
+- [Заболеваемость коклюшем в российском регионе превысила многолетний уровень в 6,6 раза](https://life.ru/p/1696250) (Life.ru)
 
 ## 24-43 (mpox)
 
@@ -2707,6 +2739,36 @@ Source: [News API](https://newsapi.org/)
 
 - [Egypt declared malaria-free after 100-year effort](https://www.bbc.com/news/articles/cm2yl8pjgn2o) (BBC News)
 
+- [WHO: Egypti vapautunut malariasta](https://www.is.fi/ulkomaat/art-2000010775616.html) (Www.is.fi)
+
+- [WHO certifies Egypt as malaria-free](https://punchng.com/who-certifies-egypt-as-malaria-free/) (The Punch)
+
+- [WHO certifies Egypt as malaria-free](https://economictimes.indiatimes.com/news/international/world-news/who-certifies-egypt-as-malaria-free/articleshow/114403253.cms) (The Times of India)
+
+- [WHO erklärt Ägypten als „offiziell malariafrei“](https://www.diepresse.com/18987090/who-erklaert-aegypten-als-offiziell-malariafrei) (Diepresse.com)
+
+- [WHO says it has certified Egypt as malaria free](https://www.jpost.com/breaking-news/article-825366) (The Jerusalem Post)
+
+- [WHO erklärt Ägypten als „offiziell malariafrei“](https://orf.at/stories/3373377/) (Orf.at)
+
+- [Malaria: Ägypten jetzt offiziell malariafrei](https://www.tagesspiegel.de/wissen/malaria-agypten-jetzt-offiziell-malariafrei-12566834.html) (Der Tagesspiegel)
+
+- [Malaria: Ägypten jetzt offiziell malariafrei](https://www.zeit.de/news/2024-10/20/aegypten-jetzt-offiziell-malariafrei) (Die Zeit)
+
+- [Malaria: Ägypten jetzt offiziell malariafrei](https://www.stern.de/panorama/wissen/malaria--aegypten-jetzt-offiziell-malariafrei-35158982.html) (STERN.de)
+
+- ["Seidenstraße der Gesundheit": Wie chinesische Pharmakonzerne nach Afrika expandieren](https://www.telepolis.de/features/Seidenstrasse-der-Gesundheit-Wie-chinesische-Pharmakonzerne-nach-Afrika-expandieren-9980775.html) (Telepolis.de)
+
+- [»Historisk«: Egypten er erklæret malariafri for første gang nogensinde](https://politiken.dk/danmark/sundhed/art10123881/Egypten-er-erkl%C3%A6ret-malariafri-for-f%C3%B8rste-gang-nogensinde) (Politiken.dk)
+
+- [Egypten er erklæret malariafri](https://www.dr.dk/nyheder/seneste/egypten-er-erklaeret-malariafri) (Www.dr.dk)
+
+- [WHO: Egypt er malariafritt](https://www.nrk.no/nyheter/who_-egypt-er-malariafritt-1.17090703) (NRK)
+
+- [Victorie împotriva malariei. Egiptul, declarat oficial liber de această boală](https://www.mediafax.ro/externe/victorie-impotriva-malariei-egiptul-declarat-oficial-liber-de-aceasta-boala-22520105) (Mediafax.ro)
+
+- [WHO: Malaria on hävitetty Egyptistä](https://yle.fi/a/74-20119034) (YLE News)
+
 ## 24-43 (hpai)
 
 - [Ny bølge av fugleinfluensa blant villfugl i Nord-Norge](https://www.nrk.no/tromsogfinnmark/ny-bolge-av-fugleinfluensa-blant-villfugl-i-nord-norge-1.17093931) (NRK)
@@ -2839,6 +2901,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Little disease but lots of bites: social, urbanistic, and entomological risk factors of human exposure to Aedes aegypti in South Texas, U.S.](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011953) (Plos.org)
 
+- [La Consejería de Sanidad coloca trampas para saber si el mosquito tigre ha llegado a Castilla y León](https://www.abc.es/espana/castilla-leon/consejeria-sanidad-coloca-trampas-saber-mosquito-tigre-20241020175506-nt.html) (Www.abc.es)
+
+- [Casos de dengue no Brasil disparam 400% em 2024 em relação ao ano anterior](https://brasil.perfil.com/saude/casos-de-dengue-no-brasil-disparam-400-em-2024-em-relacao-ao-ano-anterior.phtml) (Perfil.com)
+
 ## 24-43 (chikungunya)
 
 - [Chikungunya surge in Pakistan: What we know about the mosquito-borne virus](https://www.aljazeera.com/news/2024/10/24/chikungunya-surge-in-pakistan-what-we-know-about-the-mosquito-borne-virus) (Al Jazeera English)
@@ -2852,3 +2918,5 @@ Source: [News API](https://newsapi.org/)
 - [Valneva effectuera des présentations sur le chikungunya lors de différentes conférences scientifiques de premier plan](https://www.globenewswire.com/news-release/2024/10/21/2966375/0/fr/Valneva-effectuera-des-pr%C3%A9sentations-sur-le-chikungunya-lors-de-diff%C3%A9rentes-conf%C3%A9rences-scientifiques-de-premier-plan.html) (GlobeNewswire)
 
 - [Little disease but lots of bites: social, urbanistic, and entomological risk factors of human exposure to Aedes aegypti in South Texas, U.S.](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011953) (Plos.org)
+
+- [La Consejería de Sanidad coloca trampas para saber si el mosquito tigre ha llegado a Castilla y León](https://www.abc.es/espana/castilla-leon/consejeria-sanidad-coloca-trampas-saber-mosquito-tigre-20241020175506-nt.html) (Www.abc.es)
