@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 12
-- **Last harvest:** 2024-12-05 07:07
-- **Most recent article:** 2024-12-04 06:20:34
+- **New articles in last harvest:** 15
+- **Last harvest:** 2024-12-05 19:05
+- **Most recent article:** 2024-12-04 18:50:21
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-43 | 24-44 | 24-45 | 24-46 | 24-47 | 24-48 | 24-49 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 130 | 75 | 63 | 62 | 76 | 26 | 6 | 438 |
-| h5n1 | 12 | 61 | 36 | 40 | 50 | 38 | 12 | 249 |
-| dengue | 51 | 31 | 31 | 36 | 28 | 25 | 4 | 206 |
-| malaria | 57 | 16 | 26 | 33 | 27 | 29 | 12 | 200 |
-| measles | 1 | 13 | 3 | 33 | 11 | 6 | 2 | 69 |
+| mpox | 130 | 75 | 63 | 62 | 76 | 26 | 11 | 443 |
+| h5n1 | 12 | 61 | 36 | 40 | 50 | 38 | 16 | 253 |
+| dengue | 49 | 31 | 31 | 36 | 28 | 25 | 5 | 205 |
+| malaria | 42 | 16 | 26 | 33 | 27 | 29 | 14 | 187 |
+| measles | 1 | 13 | 3 | 33 | 11 | 6 | 3 | 70 |
 | rabies | 3 | 10 | 5 | 11 | 7 | 12 | 9 | 57 |
-| zika | 6 | 3 | 9 | 4 | 3 | 1 | 3 | 29 |
-| chikungunya | 7 | 2 | 2 | 3 | 5 | 4 | 5 | 28 |
-| meningitis | 6 | 3 | 5 | 2 | 5 | 3 | 0 | 24 |
-| pertussis | 3 | 1 | 3 | 8 | 5 | 1 | 1 | 22 |
+| chikungunya | 6 | 2 | 2 | 3 | 5 | 4 | 6 | 28 |
+| zika | 5 | 3 | 9 | 4 | 3 | 1 | 3 | 28 |
+| meningitis | 6 | 3 | 5 | 2 | 5 | 3 | 1 | 25 |
+| pertussis | 2 | 1 | 3 | 8 | 5 | 1 | 1 | 21 |
 | hpai | 2 | 7 | 4 | 4 | 4 | 0 | 0 | 21 |
 | leptospirosis | 0 | 3 | 10 | 3 | 0 | 2 | 0 | 18 |
 | typhoid | 3 | 4 | 1 | 1 | 3 | 1 | 0 | 13 |
@@ -67,6 +67,16 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-49 (mpox)
 
+- [Unbekannte Krankheit: Kongo meldet mindestens 67 Tote – und Hunderte Erkrankte](https://www.tagesspiegel.de/gesundheit/unbekannte-krankheit-kongo-meldet-mindestens-67-tote--und-hunderte-erkrankte-12820016.html) (Der Tagesspiegel)
+
+- [Betroffen sind vor allem Kinder - Zahlreiche Tote nach Ausbruch von unbekannter Krankheit im Kongo](https://www.focus.de/panorama/welt/betroffen-sind-vor-allem-kinder-zahlreiche-tote-nach-ausbruch-von-unbekannter-krankheit-im-kongo_id_260535898.html) (Focus)
+
+- [Amid bleeding eye virus scare, mystery disease with flu-like symptoms kills almost 150 in Africa, sparks pandemic fears](https://economictimes.indiatimes.com/news/international/global-trends/amid-bleeding-eye-virus-scare-mystery-disease-with-flu-like-symptoms-kills-almost-150-in-africa-congo-sparks-pandemic-fears-mpox/articleshow/115973419.cms) (The Times of India)
+
+- [La OMS investiga una enfermedad desconocida que ha causado 143 muertes en la República Democrática del Congo](https://www.eldiario.es/sociedad/oms-investiga-enfermedad-desconocida-causado-143-muertes-republica-democratica-congo_1_11874745.html) (Eldiario.es)
+
+- [İngiltere’de 5. vakanın görülmesiyle birlikte uzmanlar “maymun çiçeği virüsünün en sık gözden kaçan” belirtisini açıkladı!](https://www.haber7.com/saglik/haber/3484254-ingilterede-5-vakanin-gorulmesiyle-birlikte-uzmanlar-maymun-cicegi-virusunun-en-sik-gozden-kacan-belirtisini-acikladi) (Haber7.com)
+
 - [Гинцбург допустил, что оспа обезьян сможет передаваться воздушно-капельным путем](https://tass.ru/obschestvo/22567555) (Tass.ru)
 
 - [Giubileo Roma, dall'aviaria al Covid e Mpox: i possibili rischi sanitari](https://www.ilgiornale.it/news/adnkronos/giubileo-roma-dallaviaria-covid-e-mpox-i-possibili-rischi-2406492.html) (Ilgiornale.it)
@@ -79,13 +89,23 @@ Source: [News API](https://newsapi.org/)
 
 - ['Bleeding eye' virus sparks global fear: Urgent warning issued to UK, Africa travelers over 'deadliest' disease. Check symptoms](https://economictimes.indiatimes.com/news/international/global-trends/bleeding-eye-marburg-mpox-oropouche-virus-sparks-global-fear-urgent-warning-issued-to-uk-africa-travelers-over-deadliest-disease-check-symptoms/articleshow/115891504.cms) (The Times of India)
 
+## 24-49 (meningitis)
+
+- [Mourning in Patras: The 16-year-old girl who had been diagnosed with meningitis has died](https://en.protothema.gr/2024/12/04/mourning-in-patras-the-16-year-old-girl-who-had-been-diagnosed-with-meningitis-has-died/) (Protothema.gr)
+
 ## 24-49 (measles)
+
+- [Measles outbreak in N.B. renews interest in national vaccination registry](https://www.cbc.ca/news/canada/new-brunswick/measles-outbreak-new-brunswick-national-vaccination-registry-1.7398752) (CBC News)
 
 - [Nominee For CDC Director, Weldon, May Push For Big Changes In Vaccine Policy](https://www.forbes.com/sites/joshuacohen/2024/12/03/nominee-for-cdc-director-weldon-may-push-for-big-changes-in-vaccine-policy/) (Forbes)
 
 - [Senegal launches national measles, rubella vaccination campaign](https://www.thestar.com.my/news/world/2024/12/03/senegal-launches-national-measles-rubella-vaccination-campaign) (The Star Online)
 
 ## 24-49 (malaria)
+
+- [Welke ziekte zorgt voor een dodelijke uitbraak in Congo? Het zou malaria kunnen zijn](https://www.nrc.nl/nieuws/2024/12/04/welke-ziekte-zorgt-voor-een-dodelijke-uitbraak-in-congo-het-zou-malaria-kunnen-zijn-a4875421) (Www.nrc.nl)
+
+- [Nigeria start historisch inentingsinitiatief tegen malaria bij kinderen](https://businessam.be/nigeria-start-historisch-inentingsinitiatief-tegen-malaria-bij-kinderen/) (Businessam.be)
 
 - [Diri hails FG for starting malaria vaccination in Bayelsa](https://punchng.com/diri-hails-fg-for-starting-malaria-vaccination-in-bayelsa/) (The Punch)
 
@@ -113,6 +133,14 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-49 (h5n1)
 
+- [It’s One of RFK Jr.’s Favorite Things. It Could Cause the Next Pandemic.](https://slate.com/technology/2024/12/raw-milk-bird-flu-rfk-jr-antibodies-vaccines.html) (Slate Magazine)
+
+- [Raw Milk Recall in California As 'Bird Flu Contamination' Feared](https://www.newsweek.com/raw-milk-recall-california-bird-flu-virus-contamination-1995514) (Newsweek)
+
+- [Can Antarctic Wildlife Survive Another Deadly Bird Flu Season?](https://www.scientificamerican.com/article/can-antarctic-wildlife-survive-another-deadly-bird-flu-season/) (Scientific American)
+
+- [Can bird flu spread through air? How to stay safe](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/can-bird-flu-spread-through-air-how-to-stay-safe/articleshow/115970902.cms) (The Times of India)
+
 - [Reino Unido almacena vacunas contra el H5N1 ante el riesgo de pandemia](https://www.nuevatribuna.es/articulo/global/reino-unido-almacena-vacunas-h5n1-riesgo-pandemia/20241203171217233087.html) (Nuevatribuna.es)
 
 - [Controlling minor outbreaks is necessary to prepare for major pandemics](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002945) (Plos.org)
@@ -139,6 +167,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-49 (dengue)
 
+- [Climate-based modelling and forecasting of dengue in three endemic departments of Peru](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012596) (Plos.org)
+
 - [Correction: A fully automated sample-to-answer PCR system for easy and sensitive detection of dengue virus in human serum and mosquitos](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0315117) (Plos.org)
 
 - [Correction: An RT-PCR panel for rapid serotyping of dengue virus serotypes 1 to 4 in human serum and mosquito on a field-deployable PCR system](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0315046) (Plos.org)
@@ -148,6 +178,8 @@ Source: [News API](https://newsapi.org/)
 - [Three years of insecticide resistance evolution and associated mechanisms in Aedes aegypti populations of Ouagadougou, Burkina Faso](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012138) (Plos.org)
 
 ## 24-49 (chikungunya)
+
+- [Look at chikungunya toll as cases up 3x in Maha this year](https://timesofindia.indiatimes.com/city/mumbai/chikungunya-cases-surge-in-maharashtra-3x-increase-raises-concerns/articleshow/115981898.cms) (The Times of India)
 
 - [Valneva Announces Peer-Reviewed Publication on the Global Health and Economic Burden of Chikungunya in The British Medical Journal](https://www.globenewswire.com/news-release/2024/12/04/2991194/0/en/Valneva-Announces-Peer-Reviewed-Publication-on-the-Global-Health-and-Economic-Burden-of-Chikungunya-in-The-British-Medical-Journal.html) (GlobeNewswire)
 
@@ -2395,8 +2427,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Little disease but lots of bites: social, urbanistic, and entomological risk factors of human exposure to Aedes aegypti in South Texas, U.S.](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011953) (Plos.org)
 
-- [La Consejería de Sanidad coloca trampas para saber si el mosquito tigre ha llegado a Castilla y León](https://www.abc.es/espana/castilla-leon/consejeria-sanidad-coloca-trampas-saber-mosquito-tigre-20241020175506-nt.html) (Www.abc.es)
-
 ## 24-43 (typhoid)
 
 - [Did you know Vaishali actor Sanjay Mitra was originally cast for Ashokan's role in 'Amaram'?](https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/did-you-know-vaishali-actor-sanjay-mitra-was-originally-cast-for-ashokans-role-in-amaram/articleshow/114584424.cms) (The Times of India)
@@ -2422,8 +2452,6 @@ Source: [News API](https://newsapi.org/)
 - [For the Youngest, Pertussis Is Dangerous and Preventable](https://insights.som.yale.edu/insights/for-the-youngest-pertussis-is-dangerous-and-preventable) (Yale.edu)
 
 - [Weszły bezpłatne szczepienia przeciw krztuścowi dla ciężarnych. Czy to pomoże w walce z chorobą?](https://natemat.pl/zdrowie/573472,krztusiec-to-grozna-szczegolnie-dla-dzieci-zakazna-choroba-bakteryjna) (Natemat.pl)
-
-- [Заболеваемость коклюшем в российском регионе превысила многолетний уровень в 6,6 раза](https://life.ru/p/1696250) (Life.ru)
 
 ## 24-43 (mpox)
 
@@ -2791,36 +2819,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Egypt declared malaria-free after 100-year effort](https://www.bbc.com/news/articles/cm2yl8pjgn2o) (BBC News)
 
-- [WHO: Egypti vapautunut malariasta](https://www.is.fi/ulkomaat/art-2000010775616.html) (Www.is.fi)
-
-- [WHO certifies Egypt as malaria-free](https://punchng.com/who-certifies-egypt-as-malaria-free/) (The Punch)
-
-- [WHO certifies Egypt as malaria-free](https://economictimes.indiatimes.com/news/international/world-news/who-certifies-egypt-as-malaria-free/articleshow/114403253.cms) (The Times of India)
-
-- [WHO erklärt Ägypten als „offiziell malariafrei“](https://www.diepresse.com/18987090/who-erklaert-aegypten-als-offiziell-malariafrei) (Diepresse.com)
-
-- [WHO says it has certified Egypt as malaria free](https://www.jpost.com/breaking-news/article-825366) (The Jerusalem Post)
-
-- [WHO erklärt Ägypten als „offiziell malariafrei“](https://orf.at/stories/3373377/) (Orf.at)
-
-- [Malaria: Ägypten jetzt offiziell malariafrei](https://www.tagesspiegel.de/wissen/malaria-agypten-jetzt-offiziell-malariafrei-12566834.html) (Der Tagesspiegel)
-
-- [Malaria: Ägypten jetzt offiziell malariafrei](https://www.zeit.de/news/2024-10/20/aegypten-jetzt-offiziell-malariafrei) (Die Zeit)
-
-- [Malaria: Ägypten jetzt offiziell malariafrei](https://www.stern.de/panorama/wissen/malaria--aegypten-jetzt-offiziell-malariafrei-35158982.html) (STERN.de)
-
-- ["Seidenstraße der Gesundheit": Wie chinesische Pharmakonzerne nach Afrika expandieren](https://www.telepolis.de/features/Seidenstrasse-der-Gesundheit-Wie-chinesische-Pharmakonzerne-nach-Afrika-expandieren-9980775.html) (Telepolis.de)
-
-- [»Historisk«: Egypten er erklæret malariafri for første gang nogensinde](https://politiken.dk/danmark/sundhed/art10123881/Egypten-er-erkl%C3%A6ret-malariafri-for-f%C3%B8rste-gang-nogensinde) (Politiken.dk)
-
-- [Egypten er erklæret malariafri](https://www.dr.dk/nyheder/seneste/egypten-er-erklaeret-malariafri) (Www.dr.dk)
-
-- [WHO: Egypt er malariafritt](https://www.nrk.no/nyheter/who_-egypt-er-malariafritt-1.17090703) (NRK)
-
-- [Victorie împotriva malariei. Egiptul, declarat oficial liber de această boală](https://www.mediafax.ro/externe/victorie-impotriva-malariei-egiptul-declarat-oficial-liber-de-aceasta-boala-22520105) (Mediafax.ro)
-
-- [WHO: Malaria on hävitetty Egyptistä](https://yle.fi/a/74-20119034) (YLE News)
-
 ## 24-43 (hpai)
 
 - [Ny bølge av fugleinfluensa blant villfugl i Nord-Norge](https://www.nrk.no/tromsogfinnmark/ny-bolge-av-fugleinfluensa-blant-villfugl-i-nord-norge-1.17093931) (NRK)
@@ -2953,10 +2951,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Little disease but lots of bites: social, urbanistic, and entomological risk factors of human exposure to Aedes aegypti in South Texas, U.S.](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011953) (Plos.org)
 
-- [La Consejería de Sanidad coloca trampas para saber si el mosquito tigre ha llegado a Castilla y León](https://www.abc.es/espana/castilla-leon/consejeria-sanidad-coloca-trampas-saber-mosquito-tigre-20241020175506-nt.html) (Www.abc.es)
-
-- [Casos de dengue no Brasil disparam 400% em 2024 em relação ao ano anterior](https://brasil.perfil.com/saude/casos-de-dengue-no-brasil-disparam-400-em-2024-em-relacao-ao-ano-anterior.phtml) (Perfil.com)
-
 ## 24-43 (chikungunya)
 
 - [Chikungunya surge in Pakistan: What we know about the mosquito-borne virus](https://www.aljazeera.com/news/2024/10/24/chikungunya-surge-in-pakistan-what-we-know-about-the-mosquito-borne-virus) (Al Jazeera English)
@@ -2970,5 +2964,3 @@ Source: [News API](https://newsapi.org/)
 - [Valneva effectuera des présentations sur le chikungunya lors de différentes conférences scientifiques de premier plan](https://www.globenewswire.com/news-release/2024/10/21/2966375/0/fr/Valneva-effectuera-des-pr%C3%A9sentations-sur-le-chikungunya-lors-de-diff%C3%A9rentes-conf%C3%A9rences-scientifiques-de-premier-plan.html) (GlobeNewswire)
 
 - [Little disease but lots of bites: social, urbanistic, and entomological risk factors of human exposure to Aedes aegypti in South Texas, U.S.](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011953) (Plos.org)
-
-- [La Consejería de Sanidad coloca trampas para saber si el mosquito tigre ha llegado a Castilla y León](https://www.abc.es/espana/castilla-leon/consejeria-sanidad-coloca-trampas-saber-mosquito-tigre-20241020175506-nt.html) (Www.abc.es)

@@ -1,8 +1,278 @@
 {
-  "last_updated": "2024-12-05 07:07",
-  "count_articles_total": 1331,
-  "count_articles_new": 12,
+  "last_updated": "2024-12-05 19:05",
+  "count_articles_total": 1328,
+  "count_articles_new": 15,
   "articles": [
+    {
+      "id": 16063,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Slate Magazine",
+      "author": "Alex Tey",
+      "title": "It\u2019s One of RFK Jr.\u2019s Favorite Things. It Could Cause the Next Pandemic.",
+      "description": "This is just one scenario. But it\u2019s dangerous.",
+      "url": "https://slate.com/technology/2024/12/raw-milk-bird-flu-rfk-jr-antibodies-vaccines.html",
+      "urlToImage": "https://compote.slate.com/images/b976e63c-eac0-4e9b-b85e-82908ffd4778.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+      "publishedAt": "2024-12-04 18:50:21",
+      "content": "Bird flu just might have found a direct route toward infecting more humans. Health officials in California announced last week that they had found fragments of the H5N1 avian influenza virus in a ret\u2026 [+7009 chars]",
+      "retrievedAt": "2024-12-05 19:05:48.860383",
+      "internal_id": "b80f0b36c9d4e32df4991d8fa79c151b57066f24dd82ee1122ac2f1d6b1bf31a",
+      "publishedAtLabel": "Dec 4"
+    },
+    {
+      "id": 16068,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Times Of India",
+      "title": "Look at chikungunya toll as cases up 3x in Maha this year",
+      "description": "Maharashtra witnesses a threefold increase in chikungunya cases in 2024. Experts highlight the underestimated health and financial impact of the disease, with severe complications rare but occurring more frequently this year.",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/chikungunya-cases-surge-in-maharashtra-3x-increase-raises-concerns/articleshow/115981898.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-115981895,width-1070,height-580,imgsize-58588,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-12-04 18:35:30",
+      "content": "Nitanshi Goel captures hearts with her innocence",
+      "retrievedAt": "2024-12-05 19:05:50.493609",
+      "internal_id": "86865bbd236219d45849e8aa514128a76463d1b8b2e828f4ac4b2c2b82b26571",
+      "publishedAtLabel": "Dec 4"
+    },
+    {
+      "id": 16061,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Jess Thomson",
+      "title": "Raw Milk Recall in California As 'Bird Flu Contamination' Feared",
+      "description": "A brand of raw milk and cream products has been recalled across California after the H5N1 bird flu virus was detected in samples.",
+      "url": "https://www.newsweek.com/raw-milk-recall-california-bird-flu-virus-contamination-1995514",
+      "urlToImage": "https://d.newsweek.com/en/full/2536052/raw-milk-bird-flu.jpg",
+      "publishedAt": "2024-12-04 16:26:07",
+      "content": "Raw milk products have been recalled across California due to potential contamination with bird flu. All milk and cream products from Raw Farm, LLC have been voluntarily recalled across the state, f\u2026 [+6162 chars]",
+      "retrievedAt": "2024-12-05 19:05:48.822689",
+      "internal_id": "ab1ad0e6117adf29caa40c9a7957d44c253415d09884e67d12b5d736ef2c5ce6",
+      "publishedAtLabel": "Dec 4"
+    },
+    {
+      "id": 16065,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Protothema.gr",
+      "author": "admin",
+      "title": "Mourning in Patras: The 16-year-old girl who had been diagnosed with meningitis has died",
+      "description": "The teenager had been in the ICU since October - she had fainted during class The post Mourning in Patras: The 16-year-old girl who had been diagnosed with meningitis has died appeared first on ProtoThema English.",
+      "url": "https://en.protothema.gr/2024/12/04/mourning-in-patras-the-16-year-old-girl-who-had-been-diagnosed-with-meningitis-has-died/",
+      "urlToImage": "https://en.protothema.gr/wp-content/uploads/2024/12/meth-arthrou-1.jpg-1.jpg",
+      "publishedAt": "2024-12-04 15:32:05",
+      "content": "The 16-year-old girl from Patra had been diagnosed with meningitis. The student had fainted in the area where the 2nd and 6th P.E.A.L.s are co-located and was diagnosed with meningococcal type B. Ac\u2026 [+496 chars]",
+      "retrievedAt": "2024-12-05 19:05:49.627147",
+      "internal_id": "c0209b4c0c361d1bc2e73bd95a1c97f1c2b91ff66bc242b6dae2bf9e131127d0",
+      "publishedAtLabel": "Dec 4"
+    },
+    {
+      "id": 16069,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Der Tagesspiegel",
+      "title": "Unbekannte Krankheit: Kongo meldet mindestens 67 Tote \u2013 und Hunderte Erkrankte",
+      "description": "Die Gesundheitsbeh\u00f6rden in der Demokratischen Republik Kongo k\u00e4mpfen seit Monaten gegen den Mpox-Ausbruch. Nun gibt eine neue Krankheit R\u00e4tsel auf. Betroffen sind vor allem Kinder.",
+      "url": "https://www.tagesspiegel.de/gesundheit/unbekannte-krankheit-kongo-meldet-mindestens-67-tote--und-hunderte-erkrankte-12820016.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/12820028/alternates/BASE_16_9_W1400/1733324836000/symbolfoto-mpox-ausbruche-kongo.jpeg",
+      "publishedAt": "2024-12-04 15:19:32",
+      "content": "In den vergangenen zwei Wochen sind in der Demokratischen Republik Kongo nach Angaben von Gesundheitsbeh\u00f6rden mindestens 67 Menschen an den Folgen einer bislang ungekl\u00e4rten Krankheit gestorben. Apo\u2026 [+2873 chars]",
+      "retrievedAt": "2024-12-05 19:05:50.824905",
+      "internal_id": "2dd26c60d18a858529dd0df52c8726ea338b895089163a21fac33a8832d0640d",
+      "publishedAtLabel": "Dec 4"
+    },
+    {
+      "id": 16066,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Www.nrc.nl",
+      "author": "Karlijn Saris",
+      "title": "Welke ziekte zorgt voor een dodelijke uitbraak in Congo? Het zou malaria kunnen zijn",
+      "description": "Ziekte-uitbraak in Congo: In de Democratische Republiek Congo zijn door een onbekende ziekte tientallen mensen gestorven. Deskundigen zijn onderweg om de ziekteverwekker te achterhalen. Wat weten we?",
+      "url": "https://www.nrc.nl/nieuws/2024/12/04/welke-ziekte-zorgt-voor-een-dodelijke-uitbraak-in-congo-het-zou-malaria-kunnen-zijn-a4875421",
+      "urlToImage": "https://images.nrc.nl/L8OGj1xNtYydPAKiW0f9Po-Ox5s=/1200x627/smart/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data125200865-7e399a.jpg",
+      "publishedAt": "2024-12-04 15:12:16",
+      "content": "Een tot nu toe onbekende ziekte heeft de afgelopen maand 143 dodelijke slachtoffers gemaakt in de Democratische Republiek Congo, melden lokale autoriteiten. De ge\u00efnfecteerden hebben griepachtige klac\u2026 [+4526 chars]",
+      "retrievedAt": "2024-12-05 19:05:49.976158",
+      "internal_id": "91be1dc7bc243aa185f15f89dc1db84acbe635ae215100a87f35baef29caa7fc",
+      "publishedAtLabel": "Dec 4"
+    },
+    {
+      "id": 16072,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "focus",
+      "source_name": "Focus",
+      "author": "dpa",
+      "title": "Betroffen sind vor allem Kinder - Zahlreiche Tote nach Ausbruch von unbekannter Krankheit im Kongo",
+      "description": "Die Gesundheitsbeh\u00f6rden in der Demokratischen Republik Kongo k\u00e4mpfen seit Monaten gegen den Mpox-Ausbruch. Nun gibt eine neue Krankheit R\u00e4tsel auf. Betroffen sind vor allem Kinder.",
+      "url": "https://www.focus.de/panorama/welt/betroffen-sind-vor-allem-kinder-zahlreiche-tote-nach-ausbruch-von-unbekannter-krankheit-im-kongo_id_260535898.html",
+      "urlToImage": "https://p6.focus.de/img/fotos/id_260535897/ein-gesundheitsarbeiter-in-der-demokratischen-republik-kongo..jpg?im=Crop%3D%280%2C231%2C3463%2C1732%29%3BResize%3D%281200%2C627%29&impolicy=perceptual&quality=mediumHigh&hash=c2d8d342709f23351301f992c4553b10a6e48881709a5b63781c19f364056350",
+      "publishedAt": "2024-12-04 14:07:58",
+      "content": "Die Gesundheitsbeh\u00f6rden in der Demokratischen Republik Kongo k\u00e4mpfen seit Monaten gegen den Mpox-Ausbruch. Nun gibt eine neue Krankheit R\u00e4tsel auf. Betroffen sind vor allem Kinder.In den vergangenen \u2026 [+1835 chars]",
+      "retrievedAt": "2024-12-05 19:05:50.869966",
+      "internal_id": "ed204277124d25ac34dd08cd403cadf164a50f9d0d8a062093ae0bd9f32c1ce2",
+      "publishedAtLabel": "Dec 4"
+    },
+    {
+      "id": 16064,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Cathal Mills, Christl A. Donnelly",
+      "title": "Climate-based modelling and forecasting of dengue in three endemic departments of Peru",
+      "description": "Author summary Dengue fever is a mosquito-borne infectious disease. It is a growing, substantial threat to global public health as rising climatic variability drives the expansion and increase in incidence of the disease. In the northern coastal regions of Pe\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012596",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012596.g006&size=inline",
+      "publishedAt": "2024-12-04 14:00:00",
+      "content": "Citation: Mills C, Donnelly CA (2024) Climate-based modelling and forecasting of dengue in three endemic departments of Peru. PLoS Negl Trop Dis 18(12): e0012596. https://doi.org/10.1371/journal.p\u2026 [+61746 chars]",
+      "retrievedAt": "2024-12-05 19:05:49.245942",
+      "internal_id": "f30609cc65e535b72723499dc2c2b2cbc8a928a94ea46408dd1901010aebd5a1",
+      "publishedAtLabel": "Dec 4"
+    },
+    {
+      "id": 16060,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Scientific American",
+      "author": "Meghan Bartels",
+      "title": "Can Antarctic Wildlife Survive Another Deadly Bird Flu Season?",
+      "description": "Last year avian influenza brought death to the picturesque island of South Georgia off Antarctica. This season scientists hope things will be different",
+      "url": "https://www.scientificamerican.com/article/can-antarctic-wildlife-survive-another-deadly-bird-flu-season/",
+      "urlToImage": "https://static.scientificamerican.com/dam/m/1826af9812d2327c/original/King_Penguins_and_dead_seals.JPG?m=1733257291.129&w=1200",
+      "publishedAt": "2024-12-04 12:00:00",
+      "content": "Bird flu has crept uncomfortably close to home in recent months. Public health experts have detected nearly five dozen known infections of the H5N1 avian influenza virus in people in the U.S. Dairy f\u2026 [+11676 chars]",
+      "retrievedAt": "2024-12-05 19:05:48.797978",
+      "internal_id": "6d2fca5a2e5d63285961642729b5b83aed1ffdef8f4163dd72c94dae55e14fdd",
+      "publishedAtLabel": "Dec 4"
+    },
+    {
+      "id": 16071,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ET Online",
+      "title": "Amid bleeding eye virus scare, mystery disease with flu-like symptoms kills almost 150 in Africa, sparks pandemic fears",
+      "description": "Nearly 150 people have lost their lives due to an unknown and mysterious disease with flu-like symptoms in southwestern Congo in Africa. The symptoms of this disease include fever, headache cough and anaemia. Congo is already by the mpox epidemic with over 1,\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/amid-bleeding-eye-virus-scare-mystery-disease-with-flu-like-symptoms-kills-almost-150-in-africa-congo-sparks-pandemic-fears-mpox/articleshow/115973419.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-115973803,width-1200,height-630,imgsize-2880053,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2024-12-04 11:47:29",
+      "content": "At a time when Africa is grappling with 'bleeding eye virus' scare, health officials have raised the alarm after an unknown disease with flu-like symptoms killed nearly 150 people since first being d\u2026 [+3790 chars]",
+      "retrievedAt": "2024-12-05 19:05:50.857273",
+      "internal_id": "58d9202c52f50a638b5e4ec96b0060dc4864450aa90f8503c3a33a6022a53736",
+      "publishedAtLabel": "Dec 4"
+    },
+    {
+      "id": 16062,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "etimes.in",
+      "title": "Can bird flu spread through air? How to stay safe",
+      "description": "Bird flu, or H5N1, typically spreads through direct contact with infected birds, but a recent study reveals a concerning development. The virus may be evolving to spread through the air, posing a heightened risk to those working closely with animals.",
+      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/can-bird-flu-spread-through-air-how-to-stay-safe/articleshow/115970902.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-115971012,width-1070,height-580,imgsize-1309694,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-12-04 10:43:33",
+      "content": "Winter diseases you must be careful about as days get colder",
+      "retrievedAt": "2024-12-05 19:05:48.853056",
+      "internal_id": "691ab209f587e7f5c03ad930221c325078c893fc8ff3c0cb9d907448be731394",
+      "publishedAtLabel": "Dec 4"
+    },
+    {
+      "id": 16067,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Businessam.be",
+      "author": "businessam.be",
+      "title": "Nigeria start historisch inentingsinitiatief tegen malaria bij kinderen",
+      "description": "Key takeaways Nigeria heeft een belangrijke stap voorwaarts gezet in zijn strijd tegen malaria door een historisch vaccinatie-initiatief voor kinderen te lanceren. Vanaf 2 december 2024 zal het R21/Matrix-M vaccin worden toegediend aan kinderen van vijf tot e\u2026",
+      "url": "https://businessam.be/nigeria-start-historisch-inentingsinitiatief-tegen-malaria-bij-kinderen/",
+      "urlToImage": "https://businessam.be/media/Microscopisch-beeld-van-de-eencellige-die-malaria-veroorzaakt-en-de-malariamug-1691673051.jpg",
+      "publishedAt": "2024-12-04 10:29:00",
+      "content": "Key takeaways Het R21/Matrix-M vaccin is gelanceerd in Nigeria als onderdeel van een historisch vaccinatie-initiatief voor kinderen van vijf tot elf maanden.Het programma is gericht\u2026 [+5276 chars]",
+      "retrievedAt": "2024-12-05 19:05:50.012322",
+      "internal_id": "8b8ac74b375132c00489efd14c2d0b57b6e120081fa7cc126bd042ae16c33940",
+      "publishedAtLabel": "Dec 4"
+    },
+    {
+      "id": 16073,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Eldiario.es",
+      "author": "elDiario.es",
+      "title": "La OMS investiga una enfermedad desconocida que ha causado 143 muertes en la Rep\u00fablica Democr\u00e1tica del Congo",
+      "description": "Los s\u00edntomas son similares a los de la gripe y un equipo m\u00e9dico ya viaja al suroeste del pa\u00eds para estudiar los casos, que van en aumento Hemeroteca - \u00bfPor qu\u00e9 las vacunas de mpox no llegaban a \u00c1frica? No alcanza con la solidaridad Una enfermedad descon\u2026",
+      "url": "https://www.eldiario.es/sociedad/oms-investiga-enfermedad-desconocida-causado-143-muertes-republica-democratica-congo_1_11874745.html",
+      "urlToImage": "https://static.eldiario.es/clip/8d222f39-d7fb-4a30-bf4f-ce62def8e777_facebook-watermarked-aspect-ratio_default_0.jpg",
+      "publishedAt": "2024-12-04 10:12:40",
+      "content": "Una enfermedad desconocida con s\u00edntomas similares a los de la gripe ha matado a 143 personas en una provincia del suroeste de la Rep\u00fablica Democr\u00e1tica del Congo, seg\u00fan informan varias agencias intern\u2026 [+1450 chars]",
+      "retrievedAt": "2024-12-05 19:05:50.877053",
+      "internal_id": "407cc15d159002bc29213b056b28a35b7b9598858ea1a21392444490ecdc24d2",
+      "publishedAtLabel": "Dec 4"
+    },
+    {
+      "id": 16059,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Measles outbreak in N.B. renews interest in national vaccination registry",
+      "description": "A measles outbreak in New Brunswick and surge of cases across Canada has renewed calls for a national vaccination registry.",
+      "url": "https://www.cbc.ca/news/canada/new-brunswick/measles-outbreak-new-brunswick-national-vaccination-registry-1.7398752",
+      "urlToImage": "https://i.cbc.ca/1.5120934.1733232929!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/usa-measles-states.jpg",
+      "publishedAt": "2024-12-04 10:00:00",
+      "content": "A measles outbreak in New Brunswick and a surge of cases across Canada has renewed calls for a national vaccination registry. New Brunswick has 50 confirmed cases of the highly infectious respirator\u2026 [+7373 chars]",
+      "retrievedAt": "2024-12-05 19:05:47.985183",
+      "internal_id": "28c89079162503ff5a1a8a96344f13b22118950701129c064089f96d11942b9a",
+      "publishedAtLabel": "Dec 4"
+    },
+    {
+      "id": 16070,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Haber7.com",
+      "author": "Elif Kocal\u0131",
+      "title": "\u0130ngiltere\u2019de 5. vakan\u0131n g\u00f6r\u00fclmesiyle birlikte uzmanlar \u201cmaymun \u00e7i\u00e7e\u011fi vir\u00fcs\u00fcn\u00fcn en s\u0131k g\u00f6zden ka\u00e7an\u201d belirtisini a\u00e7\u0131klad\u0131!",
+      "description": "\u0130ngiltere'de son derece bula\u015f\u0131c\u0131 Clade Ib mpox'un be\u015finci vakas\u0131 g\u00f6r\u00fcld\u00fc. \u0130\u015fte maymun \u00e7i\u00e7e\u011fi vir\u00fcs\u00fcn\u00fcn en s\u0131k g\u00f6zden ka\u00e7an belirtisi olan \u015fi\u015fmi\u015f lenf d\u00fc\u011f\u00fcmleri ve bu \u00f6l\u00fcmc\u00fcl vir\u00fcs\u00fcn di\u011fer belirtileri hakk\u0131nda bilmeniz gerekenler.",
+      "url": "https://www.haber7.com/saglik/haber/3484254-ingilterede-5-vakanin-gorulmesiyle-birlikte-uzmanlar-maymun-cicegi-virusunun-en-sik-gozden-kacan-belirtisini-acikladi",
+      "urlToImage": "https://i12.haber7.net//haber/haber7/og_image/2024/49/ingilterede_5_vakanin_gorulmesiyle_birlikte_uzmanlar_maymun_cicegi_virusunun_en_sik_gozden_kacan_belirtisini_acikladi_1733297465_4843.jpg",
+      "publishedAt": "2024-12-04 07:36:00",
+      "content": "ngilterede Maymun \u00c7i\u00e7ei (mpox) vir\u00fcs\u00fcn\u00fcn beinci vakas doruland. Leedste yaayan ve Uganda'dan yeni d\u00f6nen bir kiiyle ilgili olduu belirtilen bu vaka, uzmanlarn dikkatini, maymun \u00e7i\u00e7ei vir\u00fcs\u00fcn\u00fcn en sk g\u2026 [+3162 chars]",
+      "retrievedAt": "2024-12-05 19:05:50.831934",
+      "internal_id": "a0af3ea4bdede1c4a18e81e84dbd9443d5c0bba190414abae833090dc6b6375d",
+      "publishedAtLabel": "Dec 4"
+    },
     {
       "id": 16050,
       "query": [
@@ -23683,332 +23953,6 @@
       "content": "Egypt has been certified malaria-free by the World Health Organization (WHO) - an achievement hailed by the UN public health agency as \"truly historic\". Malaria is as old as Egyptian civilization it\u2026 [+1519 chars]",
       "retrievedAt": "2024-10-22 07:07:33.775251",
       "internal_id": "51672a6c21b679473192fd2b7a366f7a77adb147ef4b9a00ac10f620e6dfd38a",
-      "publishedAtLabel": "Oct 20"
-    },
-    {
-      "id": 14745,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Www.is.fi",
-      "author": "STT\u2013AFP",
-      "title": "WHO: Egypti vapautunut malariasta",
-      "description": "WHO:n johtaja kutsui saavutusta historialliseksi.",
-      "url": "https://www.is.fi/ulkomaat/art-2000010775616.html",
-      "urlToImage": "https://images.sanoma-sndp.fi/2b0c678caf4f50b9f66102ecdaa3b4f7.jpg/some/is-default.jpg",
-      "publishedAt": "2024-10-20 18:18:00",
-      "content": "WHO:n johtaja kutsui saavutusta historialliseksi.Egyptiss\u00e4 ei ole en\u00e4\u00e4 malariaa, vahvisti Maailman terveysj\u00e4rjest\u00f6 WHO. Sen johtaja Tedros Adhanom Ghebreyesus kutsui saavutusta historialliseksi. Mal\u2026 [+585 chars]",
-      "retrievedAt": "2024-10-21 19:05:50.969670",
-      "internal_id": "62cd7803fafe42a51e64c6f0b9e481af6a31a85ea4596f7641c42321d93c9499",
-      "publishedAtLabel": "Oct 20"
-    },
-    {
-      "id": 14736,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The Punch",
-      "author": "Lara Adejoro",
-      "title": "WHO certifies Egypt as malaria-free",
-      "description": "The World Health Organisation has certified Egypt as malaria-free. The achievement follows a nearly 100-year effort by the Egyptian government and people to end a disease that has been present in the country since ancient times, according to a statement issue\u2026",
-      "url": "https://punchng.com/who-certifies-egypt-as-malaria-free/",
-      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2020/03/28212321/World-Health-Organization-logo.jpg",
-      "publishedAt": "2024-10-20 17:55:08",
-      "content": "The World Health Organisation has certified Egypt as malaria-free. The achievement follows a nearly 100-year effort by the Egyptian government and people to end a disease that has been present in th\u2026 [+2311 chars]",
-      "retrievedAt": "2024-10-21 19:05:50.874809",
-      "internal_id": "01edece4669ab13d26683dafc6ea225244d8fb8f3e6e1beb06a84a1188906caa",
-      "publishedAtLabel": "Oct 20"
-    },
-    {
-      "id": 14744,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "AFP",
-      "title": "WHO certifies Egypt as malaria-free",
-      "description": "Egypt has been certified as malaria-free by the WHO after nearly a century of efforts. This historic achievement required proving interruption of malaria transmission for three years and preventing its re-establishment. Egypt will continue vigilant efforts in\u2026",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/who-certifies-egypt-as-malaria-free/articleshow/114403253.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-114403278,width-1200,height-630,imgsize-4060,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2024-10-20 17:42:20",
-      "content": "Egypt was certified as malaria-free on Sunday, with the World Health Organization calling the achievement \"truly historic\" and the culmination of nearly a century of work to stamp out the disease.\"Ma\u2026 [+2024 chars]",
-      "retrievedAt": "2024-10-21 19:05:50.947880",
-      "internal_id": "897bbc1b9b32dfce89e7cc2a2cec9ae0081edf9492d8dc971dfcb55c9f376528",
-      "publishedAtLabel": "Oct 20"
-    },
-    {
-      "id": 14739,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Diepresse.com",
-      "author": "Die Presse",
-      "title": "WHO erkl\u00e4rt \u00c4gypten als \u201eoffiziell malariafrei\u201c",
-      "description": "Die \u00dcbertragungskette einheimischer Malariaerkrankungen ist in dem Land am Nil seit mindestens drei Jahren unterbrochen. Weltweit sind 44 L\u00e4nder und ein Territorium entsprechend zertifiziert.",
-      "url": "https://www.diepresse.com/18987090/who-erklaert-aegypten-als-offiziell-malariafrei",
-      "urlToImage": "https://img.diepresse.com/public/incoming/4bm6a7-FILES-US-HEALTH-MALARIA-DISEASES/alternates/DPR_SOCIAL_NACHRICHTEN/FILES-US-HEALTH-MALARIA-DISEASES",
-      "publishedAt": "2024-10-20 17:15:46",
-      "content": "Die \u00dcbertragungskette einheimischer Malariaerkrankungen ist in dem Land am Nil seit mindestens drei Jahren unterbrochen. Weltweit sind 44 L\u00e4nder und ein Territorium entsprechend zertifiziert. \u00c4gypte\u2026 [+1400 chars]",
-      "retrievedAt": "2024-10-21 19:05:50.892327",
-      "internal_id": "2b9a1941b1971ccb877023ba4c9bf743b33b75a00cae17faff5b7a3d89db1f63",
-      "publishedAtLabel": "Oct 20"
-    },
-    {
-      "id": 14742,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "the-jerusalem-post",
-      "source_name": "The Jerusalem Post",
-      "author": "BY REUTERS",
-      "title": "WHO says it has certified Egypt as malaria free",
-      "description": "The World Health Organization said on Sunday it had certified Egypt as malaria free, marking the elimination of a disease that had been present in the country since ancient times.The WHO grants certification to countries that have proven beyond reasonable dou\u2026",
-      "url": "https://www.jpost.com/breaking-news/article-825366",
-      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/534687",
-      "publishedAt": "2024-10-20 17:02:12",
-      "content": "The World Health Organization said on Sunday it had certified Egypt as malaria free, marking the elimination of a disease that had been present in the country since ancient times. The WHO grants cer\u2026 [+322 chars]",
-      "retrievedAt": "2024-10-21 19:05:50.929605",
-      "internal_id": "c41bc8d11b6f0e11ee7982f82470b00b0f46b5ca28b6100df136352834adb4b2",
-      "publishedAtLabel": "Oct 20"
-    },
-    {
-      "id": 14740,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Orf.at",
-      "author": "ORF.at",
-      "title": "WHO erkl\u00e4rt \u00c4gypten als \u201eoffiziell malariafrei\u201c",
-      "description": "",
-      "url": "https://orf.at/stories/3373377/",
-      "urlToImage": "https://orf.at/mojo/1_4_1/storyserver//news/common/images/og-fallback-news.png",
-      "publishedAt": "2024-10-20 16:58:13",
-      "content": "\u00c4gypten ist offiziell zum malariafreien Gebiet erkl\u00e4rt worden. Die Weltgesundheitsorganisation (WHO) gratulierte der Regierung in Kairo und h\u00e4ndigte ihr ein Zertifikat aus. Malaria ist so alt wie die\u2026 [+1191 chars]",
-      "retrievedAt": "2024-10-21 19:05:50.907894",
-      "internal_id": "3174f1649a6aeb3068dca4c62d923ef43c4c104239f93e9dacf49e97279be214",
-      "publishedAtLabel": "Oct 20"
-    },
-    {
-      "id": 14737,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "der-tagesspiegel",
-      "source_name": "Der Tagesspiegel",
-      "author": "Der Tagesspiegel",
-      "title": "Malaria: \u00c4gypten jetzt offiziell malariafrei",
-      "description": "Seit mindestens 6000 Jahren wurden die Menschen in \u00c4gypten von Malaria heimgesucht. Nun hat das Land die Krankheit in den Griff bekommen und wird daf\u00fcr von der WHO ausgezeichnet.",
-      "url": "https://www.tagesspiegel.de/wissen/malaria-agypten-jetzt-offiziell-malariafrei-12566834.html",
-      "urlToImage": "https://www.tagesspiegel.de/images/12566831/alternates/BASE_16_9_W1400/1729439856000/malaria.jpeg",
-      "publishedAt": "2024-10-20 15:57:36",
-      "content": "\u00c4gypten ist offiziell zum malariafreien Gebiet erkl\u00e4rt worden. Die Weltgesundheitsorganisation (WHO) gratulierte der Regierung in Kairo und h\u00e4ndigte ihr ein Zertifikat aus. Malaria ist so alt wie d\u2026 [+2000 chars]",
-      "retrievedAt": "2024-10-21 19:05:50.880570",
-      "internal_id": "34717c713b97d7f8a4174a10fef9aeea37c58d6fecfa5588261c1ffe95b75683",
-      "publishedAtLabel": "Oct 20"
-    },
-    {
-      "id": 14731,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "die-zeit",
-      "source_name": "Die Zeit",
-      "author": "ZEIT ONLINE: News -",
-      "title": "Malaria: \u00c4gypten jetzt offiziell malariafrei",
-      "description": "Hier finden Sie Informationen zu dem Thema \u201eMalaria\u201c. Lesen Sie jetzt \u201e\u00c4gypten jetzt offiziell malariafrei\u201c.",
-      "url": "https://www.zeit.de/news/2024-10/20/aegypten-jetzt-offiziell-malariafrei",
-      "urlToImage": "https://img.zeit.de/news/2024-10/20/aegypten-jetzt-offiziell-malariafrei-image-group/wide__1300x731",
-      "publishedAt": "2024-10-20 15:56:38",
-      "content": "\u00c4gypten ist offiziell zum malariafreien Gebiet erkl\u00e4rt worden. Die Weltgesundheitsorganisation (WHO) gratulierte der Regierung in Kairo und h\u00e4ndigte ihr ein Zertifikat aus. \u00abMalaria ist so alt wie \u2026 [+1973 chars]",
-      "retrievedAt": "2024-10-21 19:05:50.832194",
-      "internal_id": "16638f593c23d868c43b2663f9846d00c58a4d41667e52fd08e8417bee784151",
-      "publishedAtLabel": "Oct 20"
-    },
-    {
-      "id": 14741,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "STERN.de",
-      "author": "STERN.de",
-      "title": "Malaria: \u00c4gypten jetzt offiziell malariafrei",
-      "description": "Seit mindestens 6000 Jahren wurden die Menschen in \u00c4gypten von Malaria heimgesucht. Nun hat das Land die Krankheit in den Griff bekommen und wird daf\u00fcr von der WHO ausgezeichnet.",
-      "url": "https://www.stern.de/panorama/wissen/malaria--aegypten-jetzt-offiziell-malariafrei-35158982.html",
-      "urlToImage": "https://image.stern.de/35158984/t/A7/v1/w1440/r1.7778/-/20--o4rqg23epzv16axw800h600jpeg---7db4fe1767e381b4.jpg",
-      "publishedAt": "2024-10-20 15:56:38",
-      "content": "Seit mindestens 6000 Jahren wurden die Menschen in \u00c4gypten von Malaria heimgesucht. Nun hat das Land die Krankheit in den Griff bekommen und wird daf\u00fcr von der WHO ausgezeichnet. \u00c4gypten ist offizie\u2026 [+1425 chars]",
-      "retrievedAt": "2024-10-21 19:05:50.914234",
-      "internal_id": "0f35b64a0658550a35755db2028ec8cd7f60f8fd3fd36121228d5c392abe6ffe",
-      "publishedAtLabel": "Oct 20"
-    },
-    {
-      "id": 14729,
-      "query": [
-        "dengue",
-        "zika",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Www.abc.es",
-      "author": "(abc)",
-      "title": "La Consejer\u00eda de Sanidad coloca trampas para saber si el mosquito tigre ha llegado a Castilla y Le\u00f3n",
-      "description": "La Consejer\u00eda de Sanidad trabaja en detectar la presencia del mosquito tigre en Castilla y Le\u00f3n, un insecto que si est\u00e1 infectado puede transmitir enfermedades como el dengue, zika, fiebre amarilla y chikungunya, y que fue detectado por primera vez en Espa\u00f1a,\u2026",
-      "url": "https://www.abc.es/espana/castilla-leon/consejeria-sanidad-coloca-trampas-saber-mosquito-tigre-20241020175506-nt.html",
-      "urlToImage": "https://s1.abcstatics.com/abc/www/multimedia/espana/2024/10/20/mosquito-U31331730810XvJ-1024x512@diario_abc.JPG",
-      "publishedAt": "2024-10-20 15:55:07",
-      "content": "La Consejer\u00eda de Sanidad trabaja en detectar la presencia del mosquito tigre en Castilla y Le\u00f3n, un insecto que si est\u00e1 infectado puede transmitir enfermedades como el dengue, zika, fiebre amarilla y\u2026 [+3397 chars]",
-      "retrievedAt": "2024-10-21 19:05:49.895441",
-      "internal_id": "8ba78c45c996e9b0c79601ba3ed5a0bc585d751a79e62034101054e4ce444c22",
-      "publishedAtLabel": "Oct 20"
-    },
-    {
-      "id": 14732,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Telepolis.de",
-      "author": "Marcel Kunzmann",
-      "title": "\"Seidenstra\u00dfe der Gesundheit\": Wie chinesische Pharmakonzerne nach Afrika expandieren",
-      "description": "China investiert in Afrikas Pharmasektor. Fabriken f\u00fcr Malaria- und HIV-Medikamente entstehen. Was steckt hinter der \"Seidenstra\u00dfe der Gesundheit\"?",
-      "url": "https://www.telepolis.de/features/Seidenstrasse-der-Gesundheit-Wie-chinesische-Pharmakonzerne-nach-Afrika-expandieren-9980775.html",
-      "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/8/8/9/3/0/shutterstock_2480971445-98df43e1e5d1ce00.jpeg",
-      "publishedAt": "2024-10-20 15:30:00",
-      "content": "Chinas Pharmakonzerne expandieren derzeit massiv nach Afrika (Bild: Gumpanat/Shutterstock.com) China investiert in Afrikas Pharmasektor. Fabriken f\u00fcr Malaria- und HIV-Medikamente entstehen. Was ste\u2026 [+3665 chars]",
-      "retrievedAt": "2024-10-21 19:05:50.838908",
-      "internal_id": "08579b1d2db8f5bff7859a0611c895f94ea1b322b8b9fe6efefe69d41bcd0614",
-      "publishedAtLabel": "Oct 20"
-    },
-    {
-      "id": 14734,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Politiken.dk",
-      "author": null,
-      "title": "\u00bbHistorisk\u00ab: Egypten er erkl\u00e6ret malariafri for f\u00f8rste gang nogensinde",
-      "description": "Malaria plagede faraoerne, men er ikke l\u00e6ngere en del af Egyptens virkelighed, lyder det fra WHO.",
-      "url": "https://politiken.dk/danmark/sundhed/art10123881/Egypten-er-erkl%C3%A6ret-malariafri-for-f%C3%B8rste-gang-nogensinde",
-      "urlToImage": "https://politiken.dk/incoming/img10123890.j8ii9u/ORIGINALS/original_750/SCIENCE-MOSQUITO",
-      "publishedAt": "2024-10-20 15:18:06",
-      "content": "Gem artiklen Gemt L\u00e6st Egypten er s\u00f8ndag for f\u00f8rste gang nogensinde erkl\u00e6ret malariafri, oplyser Verdenssundhedsorganisationen (WHO), som kalder udryddelsen af den potentielt d\u00f8delige sygdom i lan\u2026 [+882 chars]",
-      "retrievedAt": "2024-10-21 19:05:50.856568",
-      "internal_id": "50a063ba90d74c56e10ee4b11475a3a236c1d873ecad6974ab73cfbf629106c7",
-      "publishedAtLabel": "Oct 20"
-    },
-    {
-      "id": 14733,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Www.dr.dk",
-      "author": null,
-      "title": "Egypten er erkl\u00e6ret malariafri",
-      "description": "Det er slut med malaria i Egypten.",
-      "url": "https://www.dr.dk/nyheder/seneste/egypten-er-erklaeret-malariafri",
-      "urlToImage": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fapi.dr.dk%2Ffreja%2Fimage%2Fraw%2F317&w=700",
-      "publishedAt": "2024-10-20 14:48:00",
-      "content": "Moldovas nuv\u00e6rende pr\u00e6sident, Maia Sandu, der h\u00e5ber p\u00e5 genvalg, har nu stemt til landets delte pr\u00e6sident- og EU-valg i dag. Hun er oppe mod ti andre kandidater, men forel\u00f8big st\u00e5r hun st\u00e6rkest i men\u2026 [+1487 chars]",
-      "retrievedAt": "2024-10-21 19:05:50.845187",
-      "internal_id": "8f929e2abeccfa569efb768a2c4563285b2aa436ace28b0d1ea812e199790173",
-      "publishedAtLabel": "Oct 20"
-    },
-    {
-      "id": 14743,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "nrk",
-      "source_name": "NRK",
-      "author": "NRK",
-      "title": "WHO: Egypt er malariafritt",
-      "description": "Egypt ble s\u00f8ndag sertifisert som malariafritt av Verdens helseorganisasjon (WHO), melder Reuters. \u2013 Malaria er like gammel som den egyptiske sivilisasjonen selv, men sykdommen som plaget faraoene tilh\u00f8rer n\u00e5 dens historie og ikke dens fremtid, sa WHO-sjef Ted\u2026",
-      "url": "https://www.nrk.no/nyheter/who_-egypt-er-malariafritt-1.17090703",
-      "urlToImage": "https://static.nrk.no/nrkno/serum/2.0.511/common/img/default.jpg",
-      "publishedAt": "2024-10-20 14:35:08",
-      "content": "Egypt ble s\u00f8ndag sertifisert som malariafritt av Verdens helseorganisasjon (WHO), melder Reuters. Malaria er like gammel som den egyptiske sivilisasjonen selv, men sykdommen som plaget faraoene til\u2026 [+448 chars]",
-      "retrievedAt": "2024-10-21 19:05:50.936544",
-      "internal_id": "5a164df5a68acaa1124643c00f8ec08c9651cd639b786cf3deff838f726e9c7b",
-      "publishedAtLabel": "Oct 20"
-    },
-    {
-      "id": 14738,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Mediafax.ro",
-      "author": "Andreea Tobias",
-      "title": "Victorie \u00eempotriva malariei. Egiptul, declarat oficial liber de aceast\u0103 boal\u0103",
-      "description": "Organiza\u0163ia Mondial\u0103 a S\u0103n\u0103t\u0103\u0163ii (OMS) anun\u0163\u0103 c\u0103 Egiptul a fost certificat oficial ca fiind liber de malarie.",
-      "url": "https://www.mediafax.ro/externe/victorie-impotriva-malariei-egiptul-declarat-oficial-liber-de-aceasta-boala-22520105",
-      "urlToImage": "https://storage0.dms.mpinteractiv.ro/media/1/1/3614/22520105/1/profimedia-0103058591.jpg?width=640",
-      "publishedAt": "2024-10-20 14:34:17",
-      "content": "Malaria este la fel de veche ca \u00eensi civilizaia egiptean, dar boala care i-a afectat pe faraoni aparine acum istoriei sale i nu viitorului su. Aceast certificare a Egiptului ca fiind liber de malarie\u2026 [+1376 chars]",
-      "retrievedAt": "2024-10-21 19:05:50.886440",
-      "internal_id": "9b657c0eb977d858d81633603cb70579ab6b41689ba5473eb66cc20d3f9b30bd",
-      "publishedAtLabel": "Oct 20"
-    },
-    {
-      "id": 14735,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "YLE News",
-      "author": null,
-      "title": "WHO: Malaria on h\u00e4vitetty Egyptist\u00e4",
-      "description": "Uutiset nopeasti ja luotettavasti.",
-      "url": "https://yle.fi/a/74-20119034",
-      "urlToImage": "https://images.cdn.yle.fi/image/upload/w_1200,ar_1.91,c_fill,g_faces/q_auto:eco,f_auto,fl_lossy/39-12692236617e49e05397",
-      "publishedAt": "2024-10-20 13:59:57",
-      "content": "Maailman terveysj\u00e4rjest\u00f6 WHO ilmoitti sunnuntaina, ett\u00e4 malaria on nyt virallisesti h\u00e4vitetty Egyptist\u00e4. Malaria on onnistuttu h\u00e4vitt\u00e4m\u00e4\u00e4n aiemmin my\u00f6s Mauritiuksen tasavallassa ja Algeriassa. Tamm\u2026 [+76 chars]",
-      "retrievedAt": "2024-10-21 19:05:50.867814",
-      "internal_id": "79f48831c65a9493bb27ff4519521f200b1a6d426d08b929d885ecb35ca31880",
-      "publishedAtLabel": "Oct 20"
-    },
-    {
-      "id": 14730,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Perfil.com",
-      "author": "Perfil Brasil",
-      "title": "Casos de dengue no Brasil disparam 400% em 2024 em rela\u00e7\u00e3o ao ano anterior",
-      "description": "Esse n\u00famero alarmante abrange o per\u00edodo de 1\u00ba de janeiro a 7 de outubro, evidenciando a gravidade da situa\u00e7\u00e3o",
-      "url": "https://brasil.perfil.com/saude/casos-de-dengue-no-brasil-disparam-400-em-2024-em-relacao-ao-ano-anterior.phtml",
-      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/10/20/42568048-dengue1729373702315.jpg",
-      "publishedAt": "2024-10-20 10:29:17",
-      "content": "O cen\u00e1rio da dengue no Brasil tem se mostrado cada vez mais preocupante, especialmente com o aumento expressivo dos casos nos \u00faltimos anos. Recentemente, foi relatado um total de 6,5 milh\u00f5es de casos\u2026 [+2813 chars]",
-      "retrievedAt": "2024-10-21 19:05:49.988394",
-      "internal_id": "86d2c1c020124d64573da6ac1ccb2a651e4f54777a572888d3793fcbbd1cef6b",
-      "publishedAtLabel": "Oct 20"
-    },
-    {
-      "id": 14728,
-      "query": [
-        "pertussis"
-      ],
-      "source_id": null,
-      "source_name": "Life.ru",
-      "author": "\u0410\u043b\u0435\u043d\u0430 \u041f\u0435\u043d\u0447\u0443\u0433\u0438\u043d\u0430",
-      "title": "\u0417\u0430\u0431\u043e\u043b\u0435\u0432\u0430\u0435\u043c\u043e\u0441\u0442\u044c \u043a\u043e\u043a\u043b\u044e\u0448\u0435\u043c \u0432 \u0440\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u043e\u043c \u0440\u0435\u0433\u0438\u043e\u043d\u0435 \u043f\u0440\u0435\u0432\u044b\u0441\u0438\u043b\u0430 \u043c\u043d\u043e\u0433\u043e\u043b\u0435\u0442\u043d\u0438\u0439 \u0443\u0440\u043e\u0432\u0435\u043d\u044c \u0432 6,6 \u0440\u0430\u0437\u0430",
-      "description": "\u0412 \u0427\u0443\u0432\u0430\u0448\u0438\u0438 \u043d\u0430\u0431\u043b\u044e\u0434\u0430\u0435\u0442\u0441\u044f \u0440\u043e\u0441\u0442 \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0430\u0435\u043c\u043e\u0441\u0442\u0438 \u043a\u043e\u043a\u043b\u044e\u0448\u0435\u043c, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043f\u0440\u0435\u0432\u044b\u0441\u0438\u043b \u0441\u0440\u0435\u0434\u043d\u0438\u0439 \u043c\u043d\u043e\u0433\u043e\u043b\u0435\u0442\u043d\u0438\u0439 \u0443\u0440\u043e\u0432\u0435\u043d\u044c \u0432 6,6 \u0440\u0430\u0437\u0430. \u0417\u0430 \u0434\u0435\u0432\u044f\u0442\u044c \u043c\u0435\u0441\u044f\u0446\u0435\u0432 \u0432 \u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0435 \u0437\u0430\u0440\u0430\u0437\u0438\u043b\u0438\u0441\u044c 104 \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u0430: 11 \u0432\u0437\u0440\u043e\u0441\u043b\u044b\u0445 \u0438 93 \u0440\u0435\u0431\u0435\u043d\u043a\u0430. \u041e\u0431 \u044d\u0442\u043e\u043c \u0441\u043e\u043e\u0431\u0449\u0438\u043b\u0438 \u0432 \u0426\u0435\u043d\u0442\u0440\u0435 \u0433\u0438\u0433\u0438\u0435\u043d\u044b \u0438 \u044d\u043f\u0438\u0434\u0435\u043c\u0438\u043e\u043b\u043e\u0433\u0438\u0438 \u0427\u0443\u0432\u0430\u0448\u0438\u0438.\u0427\u0438\u0442\u0430\u0442\u044c \u0434\u0430\u043b\u2026",
-      "url": "https://life.ru/p/1696250",
-      "urlToImage": "https://static.life.ru/publications/2024/10/20/941380082927.6152.webp",
-      "publishedAt": "2024-10-20 07:38:59",
-      "content": ", 6,6 . 104 : 11 93 . . 9 100 000 , 1,36 100 . : 43 38 . \u00ab , Bordatella pertussis ( \u00ab \u00bb). , . -\u00bb, . . . - . , . , , - . . , .",
-      "retrievedAt": "2024-10-21 19:05:48.469643",
-      "internal_id": "21502750c1a66f87fa53ddc331c1766cf89d5d4fd195c58a87bd7b802dee62ea",
       "publishedAtLabel": "Oct 20"
     }
   ]
