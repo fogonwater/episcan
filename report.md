@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 12
-- **Last harvest:** 2024-12-06 07:07
-- **Most recent article:** 2024-12-05 05:00:00
+- **New articles in last harvest:** 21
+- **Last harvest:** 2024-12-06 19:06
+- **Most recent article:** 2024-12-05 19:05:00
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-43 | 24-44 | 24-45 | 24-46 | 24-47 | 24-48 | 24-49 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 130 | 75 | 63 | 62 | 76 | 26 | 14 | 446 |
-| h5n1 | 12 | 61 | 36 | 40 | 50 | 38 | 17 | 254 |
-| dengue | 51 | 31 | 31 | 36 | 28 | 25 | 6 | 208 |
-| malaria | 57 | 16 | 26 | 33 | 27 | 29 | 18 | 206 |
+| mpox | 130 | 75 | 63 | 62 | 76 | 26 | 16 | 448 |
+| h5n1 | 12 | 61 | 36 | 40 | 50 | 38 | 29 | 266 |
+| dengue | 49 | 31 | 31 | 36 | 28 | 25 | 6 | 206 |
+| malaria | 42 | 16 | 26 | 33 | 27 | 29 | 23 | 196 |
 | measles | 1 | 13 | 3 | 33 | 11 | 6 | 3 | 70 |
 | rabies | 3 | 10 | 5 | 11 | 7 | 12 | 11 | 59 |
-| chikungunya | 7 | 2 | 2 | 3 | 5 | 4 | 6 | 29 |
-| zika | 6 | 3 | 9 | 4 | 3 | 1 | 3 | 29 |
-| meningitis | 6 | 3 | 5 | 2 | 5 | 3 | 1 | 25 |
+| zika | 5 | 3 | 9 | 4 | 3 | 1 | 4 | 29 |
+| chikungunya | 6 | 2 | 2 | 3 | 5 | 4 | 6 | 28 |
+| meningitis | 6 | 3 | 5 | 2 | 5 | 3 | 2 | 26 |
 | hpai | 2 | 7 | 4 | 4 | 4 | 0 | 1 | 22 |
-| pertussis | 3 | 1 | 3 | 8 | 5 | 1 | 1 | 22 |
+| pertussis | 2 | 1 | 3 | 8 | 5 | 1 | 1 | 21 |
 | leptospirosis | 0 | 3 | 10 | 3 | 0 | 2 | 0 | 18 |
 | typhoid | 3 | 4 | 1 | 1 | 3 | 1 | 0 | 13 |
 | yersinia | 0 | 3 | 0 | 0 | 1 | 1 | 0 | 5 |
@@ -34,6 +34,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-49 (zika)
+
+- [Aprovada após dez anos de trâmite no Congresso, reparação a pessoas com microcefalia causada pelo vírus Zika aguarda sanção de Lula](https://www.terra.com.br/nos/aprovada-apos-dez-anos-de-tramite-no-congresso-reparacao-a-pessoas-com-microcefalia-causada-pelo-virus-zika-aguarda-sancao-de-lula,943255b213f17a0890ac1b62cc2f54192k472zr6.html) (Terra.com.br)
 
 - [Three years of insecticide resistance evolution and associated mechanisms in Aedes aegypti populations of Ouagadougou, Burkina Faso](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012138) (Plos.org)
 
@@ -71,6 +73,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-49 (mpox)
 
+- [V Kongu se šíří neznámá nemoc. Zabila desítky lidí, polovina byly děti](https://www.idnes.cz/zpravy/zahranicni/kongo-mpox-nemoc-chripka-roger-kamba.A241205_155045_zahranicni_svm) (Idnes.cz)
+
+- [Mehr als 130 Tote durch unbekannte Krankheit im Kongo](https://www.tagesschau.de/ausland/afrika/kongo-krankheit-100.html) (tagesschau.de)
+
 - [Case Reports of Human Monkeypox Virus Infections, Uganda, 2024](https://wwwnc.cdc.gov/eid/article/31/1/24-1269_article) (Cdc.gov)
 
 - [Ukjent influensalignende sykdom: Minst 79 mennesker døde i Kongo](https://www.nrk.no/urix/ukjent-influensalignende-sykdom_-minst-79-mennesker-dode-i-kongo-1.17155674) (NRK)
@@ -101,6 +107,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-49 (meningitis)
 
+- [Origins: Mark Twain’s Famous White Suit](https://blogs.loc.gov/loc/2024/12/origins-mark-twains-famous-white-suit/) (Loc.gov)
+
 - [Mourning in Patras: The 16-year-old girl who had been diagnosed with meningitis has died](https://en.protothema.gr/2024/12/04/mourning-in-patras-the-16-year-old-girl-who-had-been-diagnosed-with-meningitis-has-died/) (Protothema.gr)
 
 ## 24-49 (measles)
@@ -112,6 +120,16 @@ Source: [News API](https://newsapi.org/)
 - [Senegal launches national measles, rubella vaccination campaign](https://www.thestar.com.my/news/world/2024/12/03/senegal-launches-national-measles-rubella-vaccination-campaign) (The Star Online)
 
 ## 24-49 (malaria)
+
+- [GA mayor found not guilty of leaving gin in a ditch for inmates to find](https://www.wsbtv.com/news/local/ga-mayor-found-not-guilty-leaving-gin-ditch-inmates-find/C6X377BFONDIJGFGNRWOE34MCI/) (WSB Atlanta)
+
+- [Studie: Neuer Malaria-Impfstoff macht Mücken zu fliegenden Spritzen](https://www.stern.de/gesundheit/neuer-malaria-impfstoff-wird-von-muecken-uebertragen-35284072.html) (STERN.de)
+
+- [Copy number variants underlie major selective sweeps in insecticide resistance genes in Anopheles arabiensis](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002898) (Plos.org)
+
+- [Forest Loss Undermines Malaria Prevention Tools](https://scienceblog.com/550021/forest-loss-undermines-malaria-prevention-tools/) (ScienceBlog.com)
+
+- [„A-B-Null“ und 46 weitere: Blutgruppen bestimmen mit, wie gesund wir sind](https://www.tagesspiegel.de/wissen/a-b-null-und-46-weitere-blutgruppen-bestimmen-mit-wie-gesund-wir-sind-12811193.html) (Der Tagesspiegel)
 
 - [PfMORC protein regulates chromatin accessibility and transcriptional repression in the human malaria parasite, Plasmodium falciparum](https://elifesciences.org/articles/92499) (Elifesciences.org)
 
@@ -154,6 +172,30 @@ Source: [News API](https://newsapi.org/)
 - [Helport AI to Participate in the iAccess Alpha Virtual Best Ideas Winter Conference on December 10-11, 2024](https://www.globenewswire.com/news-release/2024/12/04/2991923/0/en/Helport-AI-to-Participate-in-the-iAccess-Alpha-Virtual-Best-Ideas-Winter-Conference-on-December-10-11-2024.html) (GlobeNewswire)
 
 ## 24-49 (h5n1)
+
+- [Zwei Vogelgrippe-Mutationen reichen für eine Pandemie](https://www.dw.com/de/zwei-vogelgrippe-mutationen-reichen-f%C3%BCr-eine-pandemie/a-70973646) (DW (English))
+
+- ['Alarming' bird flu study finds danger just one viral mutation away](https://www.statnews.com/2024/12/05/h5n1-bird-flu-study-journal-science-raises-alarm-potential-human-transmission/) (STAT)
+
+- [H5N1: Die Vogelgrippe ist da draußen – "und wir müssen alles tun, um vorbereitet zu sein"](https://www.sueddeutsche.de/gesundheit/vorbereitung-vogelgrippe-pandemie-grossbritannien-impfstoffvorraete-li.3160970) (Süddeutsche Zeitung)
+
+- [H5N1: Die Vogelgrippe ist da draußen – „und wir müssen alles tun, um vorbereitet zu sein“](https://www.sueddeutsche.de/gesundheit/vogelgrippe-pandemie-vorbereitung-grossbritannien-impfstoffvorraete-deutschland-li.3160970) (Süddeutsche Zeitung)
+
+- [H5N1 bird flu is closer to gaining pandemic potential than we thought](https://www.newscientist.com/article/2459077-h5n1-bird-flu-is-closer-to-gaining-pandemic-potential-than-we-thought/) (New Scientist)
+
+- [Más cerca de una pandemia por la gripe aviar: estamos a una sola mutación de que el virus H5N1 se contagie entre humanos](https://www.eldiario.es/sociedad/cerca-pandemia-gripe-aviar-sola-mutacion-virus-h5n1-contagie-humanos_1_11876814.html) (Eldiario.es)
+
+- [Bird Flu Virus Is One Mutation Away from Adapting to Human Cells](https://www.scientificamerican.com/article/bird-flu-virus-is-one-mutation-away-from-adapting-to-human-cells/) (Scientific American)
+
+- [Influenza: Eine einzelne Mutation könnte es dem Vogelgrippevirus H5N1 erlauben, Menschen viel effizienter zu infizieren als bisher](https://www.spektrum.de/news/grippevirus-alarmierend-hohes-pandemiepotenzial-von-h5n1/2245927) (Spektrum.de)
+
+- [Basta una sola mutación en el virus de la gripe H5N1 para facilitar su transmisión humana](https://www.abc.es/salud/enfermedades/basta-sola-mutacion-virus-gripe-bovina-h5n1-20241205104748-nt.html) (Www.abc.es)
+
+- [Avian flu virus has been found in raw milk − a reminder of how pasteurization protects health](https://theconversation.com/avian-flu-virus-has-been-found-in-raw-milk-a-reminder-of-how-pasteurization-protects-health-245102) (The Conversation Africa)
+
+- [L’aviaria si sta evolvendo](https://www.internazionale.it/magazine/2024/12/05/l-aviaria-si-sta-evolvendo) (Internazionale.it)
+
+- [Will There Be a Bird Flu Epidemic Under Trump?](https://www.thenation.com/article/society/will-there-be-a-bird-flu-outbreak-under-trump/) (Thenation.com)
 
 - [Risk of bird flu in Hawke’s Bay? Step-up the biosecurity](https://www.nzherald.co.nz/hawkes-bay-today/news/risk-of-bird-flu-in-hawkes-bay-step-up-the-biosecurity/OHPWJ2WLFZA7TNIHBVK3Y6BDYM/) (New Zealand Herald)
 
@@ -2453,8 +2495,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Little disease but lots of bites: social, urbanistic, and entomological risk factors of human exposure to Aedes aegypti in South Texas, U.S.](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011953) (Plos.org)
 
-- [La Consejería de Sanidad coloca trampas para saber si el mosquito tigre ha llegado a Castilla y León](https://www.abc.es/espana/castilla-leon/consejeria-sanidad-coloca-trampas-saber-mosquito-tigre-20241020175506-nt.html) (Www.abc.es)
-
 ## 24-43 (typhoid)
 
 - [Did you know Vaishali actor Sanjay Mitra was originally cast for Ashokan's role in 'Amaram'?](https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/did-you-know-vaishali-actor-sanjay-mitra-was-originally-cast-for-ashokans-role-in-amaram/articleshow/114584424.cms) (The Times of India)
@@ -2480,8 +2520,6 @@ Source: [News API](https://newsapi.org/)
 - [For the Youngest, Pertussis Is Dangerous and Preventable](https://insights.som.yale.edu/insights/for-the-youngest-pertussis-is-dangerous-and-preventable) (Yale.edu)
 
 - [Weszły bezpłatne szczepienia przeciw krztuścowi dla ciężarnych. Czy to pomoże w walce z chorobą?](https://natemat.pl/zdrowie/573472,krztusiec-to-grozna-szczegolnie-dla-dzieci-zakazna-choroba-bakteryjna) (Natemat.pl)
-
-- [Заболеваемость коклюшем в российском регионе превысила многолетний уровень в 6,6 раза](https://life.ru/p/1696250) (Life.ru)
 
 ## 24-43 (mpox)
 
@@ -2849,36 +2887,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Egypt declared malaria-free after 100-year effort](https://www.bbc.com/news/articles/cm2yl8pjgn2o) (BBC News)
 
-- [WHO: Egypti vapautunut malariasta](https://www.is.fi/ulkomaat/art-2000010775616.html) (Www.is.fi)
-
-- [WHO certifies Egypt as malaria-free](https://punchng.com/who-certifies-egypt-as-malaria-free/) (The Punch)
-
-- [WHO certifies Egypt as malaria-free](https://economictimes.indiatimes.com/news/international/world-news/who-certifies-egypt-as-malaria-free/articleshow/114403253.cms) (The Times of India)
-
-- [WHO erklärt Ägypten als „offiziell malariafrei“](https://www.diepresse.com/18987090/who-erklaert-aegypten-als-offiziell-malariafrei) (Diepresse.com)
-
-- [WHO says it has certified Egypt as malaria free](https://www.jpost.com/breaking-news/article-825366) (The Jerusalem Post)
-
-- [WHO erklärt Ägypten als „offiziell malariafrei“](https://orf.at/stories/3373377/) (Orf.at)
-
-- [Malaria: Ägypten jetzt offiziell malariafrei](https://www.tagesspiegel.de/wissen/malaria-agypten-jetzt-offiziell-malariafrei-12566834.html) (Der Tagesspiegel)
-
-- [Malaria: Ägypten jetzt offiziell malariafrei](https://www.zeit.de/news/2024-10/20/aegypten-jetzt-offiziell-malariafrei) (Die Zeit)
-
-- [Malaria: Ägypten jetzt offiziell malariafrei](https://www.stern.de/panorama/wissen/malaria--aegypten-jetzt-offiziell-malariafrei-35158982.html) (STERN.de)
-
-- ["Seidenstraße der Gesundheit": Wie chinesische Pharmakonzerne nach Afrika expandieren](https://www.telepolis.de/features/Seidenstrasse-der-Gesundheit-Wie-chinesische-Pharmakonzerne-nach-Afrika-expandieren-9980775.html) (Telepolis.de)
-
-- [»Historisk«: Egypten er erklæret malariafri for første gang nogensinde](https://politiken.dk/danmark/sundhed/art10123881/Egypten-er-erkl%C3%A6ret-malariafri-for-f%C3%B8rste-gang-nogensinde) (Politiken.dk)
-
-- [Egypten er erklæret malariafri](https://www.dr.dk/nyheder/seneste/egypten-er-erklaeret-malariafri) (Www.dr.dk)
-
-- [WHO: Egypt er malariafritt](https://www.nrk.no/nyheter/who_-egypt-er-malariafritt-1.17090703) (NRK)
-
-- [Victorie împotriva malariei. Egiptul, declarat oficial liber de această boală](https://www.mediafax.ro/externe/victorie-impotriva-malariei-egiptul-declarat-oficial-liber-de-aceasta-boala-22520105) (Mediafax.ro)
-
-- [WHO: Malaria on hävitetty Egyptistä](https://yle.fi/a/74-20119034) (YLE News)
-
 ## 24-43 (hpai)
 
 - [Ny bølge av fugleinfluensa blant villfugl i Nord-Norge](https://www.nrk.no/tromsogfinnmark/ny-bolge-av-fugleinfluensa-blant-villfugl-i-nord-norge-1.17093931) (NRK)
@@ -3011,10 +3019,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Little disease but lots of bites: social, urbanistic, and entomological risk factors of human exposure to Aedes aegypti in South Texas, U.S.](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011953) (Plos.org)
 
-- [La Consejería de Sanidad coloca trampas para saber si el mosquito tigre ha llegado a Castilla y León](https://www.abc.es/espana/castilla-leon/consejeria-sanidad-coloca-trampas-saber-mosquito-tigre-20241020175506-nt.html) (Www.abc.es)
-
-- [Casos de dengue no Brasil disparam 400% em 2024 em relação ao ano anterior](https://brasil.perfil.com/saude/casos-de-dengue-no-brasil-disparam-400-em-2024-em-relacao-ao-ano-anterior.phtml) (Perfil.com)
-
 ## 24-43 (chikungunya)
 
 - [Chikungunya surge in Pakistan: What we know about the mosquito-borne virus](https://www.aljazeera.com/news/2024/10/24/chikungunya-surge-in-pakistan-what-we-know-about-the-mosquito-borne-virus) (Al Jazeera English)
@@ -3028,5 +3032,3 @@ Source: [News API](https://newsapi.org/)
 - [Valneva effectuera des présentations sur le chikungunya lors de différentes conférences scientifiques de premier plan](https://www.globenewswire.com/news-release/2024/10/21/2966375/0/fr/Valneva-effectuera-des-pr%C3%A9sentations-sur-le-chikungunya-lors-de-diff%C3%A9rentes-conf%C3%A9rences-scientifiques-de-premier-plan.html) (GlobeNewswire)
 
 - [Little disease but lots of bites: social, urbanistic, and entomological risk factors of human exposure to Aedes aegypti in South Texas, U.S.](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011953) (Plos.org)
-
-- [La Consejería de Sanidad coloca trampas para saber si el mosquito tigre ha llegado a Castilla y León](https://www.abc.es/espana/castilla-leon/consejeria-sanidad-coloca-trampas-saber-mosquito-tigre-20241020175506-nt.html) (Www.abc.es)
