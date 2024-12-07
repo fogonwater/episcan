@@ -1,8 +1,404 @@
 {
-  "last_updated": "2024-12-07 07:06",
-  "count_articles_total": 1394,
-  "count_articles_new": 15,
+  "last_updated": "2024-12-07 19:05",
+  "count_articles_total": 1398,
+  "count_articles_new": 22,
   "articles": [
+    {
+      "id": 16129,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "The Week Magazine",
+      "author": "theweekonlineeditors@futurenet.com (Peter Weber, The Week US)",
+      "title": "Bird flu one mutuation from human threat, study finds",
+      "description": "A Scripps Research Institute study found one genetic tweak of the virus could enable its spread among people",
+      "url": "https://theweek.com/health/bird-flu-mutation-human-cells-new-research",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/tvvQeNEQyALHuSThgxngzk-1200-80.jpg",
+      "publishedAt": "2024-12-06 16:49:42",
+      "content": "What happened A single genetic mutation could turn the H5N1 avian flu virus infecting U.S. dairy herds into a version transmissible between humans, researchers at Scripps Research Institute reported\u2026 [+1481 chars]",
+      "retrievedAt": "2024-12-07 19:05:47.857184",
+      "internal_id": "501a55e7260625657ac89fab3ab6346afcbcba75cc0f798f2f685290cbd5a993",
+      "publishedAtLabel": "Dec 6"
+    },
+    {
+      "id": 16125,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Courrier International",
+      "author": "Carole Lembezat",
+      "title": "La grippe aviaire est-elle la prochaine pand\u00e9mie ?",
+      "description": "Un faisceau de travaux scientifiques sur les virus de type HxNy, et en particulier sur H5N1 qui circule actuellement chez les oiseaux et dans les \u00e9levages de bovins, sugg\u00e8re que des mutations le rendent plus efficace pour infecter les humains. M\u00eame s\u2019il est r\u2026",
+      "url": "https://www.courrierinternational.com/article/sante-la-grippe-aviaire-est-elle-la-prochaine-pandemie_225381",
+      "urlToImage": "https://focus.courrierinternational.com/2024/12/06/76/0/1157/771/1200/630/60/0/b2b1619_1733502697793-virus.jpg",
+      "publishedAt": "2024-12-06 16:45:56",
+      "content": "Si la plan\u00e8te se trouve en pleine pand\u00e9mie de grippe dici quelques mois, ce ne sera pas tr\u00e8s \u00e9tonnant,commence Science dans un article grand public.La revue scientifique am\u00e9ricaine nest pas la seule \u2026 [+1141 chars]",
+      "retrievedAt": "2024-12-07 19:05:47.802536",
+      "internal_id": "da79d4979beaa377cb8dc9acd9b8c35126c82a02cde3b6e30833e064bb9475d5",
+      "publishedAtLabel": "Dec 6"
+    },
+    {
+      "id": 16137,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "TODAY",
+      "author": "A. Pawlowski",
+      "title": "Concern grows over whether bird flu could lead to a pandemic: What to know",
+      "description": "H5N1, a type of avian influenza, has led to a bird flu outbreak in humans the U.S. Will it cause a pandemic? Experts explain bird flu does to humans and more.",
+      "url": "https://www.today.com/health/disease/bird-flu-pandemic-rcna183174",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2024-11/birdflu-new-pandemic-te-241113-f21b44.jpg",
+      "publishedAt": "2024-12-06 16:33:04",
+      "content": "H5N1 bird flu, a type of avian influenza, has infected dozens of people in the U.S., and spread to seven states and Canada this year. As concern grows over whether it could lead to another pandemic \u2026 [+13484 chars]",
+      "retrievedAt": "2024-12-07 19:05:48.026878",
+      "internal_id": "6edea9648aff42e44b3e67aebe8137bb01841bd8f7cb67373142c2a926e75707",
+      "publishedAtLabel": "Dec 6"
+    },
+    {
+      "id": 16126,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "DW (English)",
+      "author": "Matthew Ward Agius",
+      "title": "Could bird flu in US livestock, poultry pose risk to humans?",
+      "description": "Nations are buying H5N1 bird flu vaccines as the virus continues to spread among livestock in the US. Some experts say H5N1 may mutate into an international public health threat.",
+      "url": "https://www.dw.com/en/could-bird-flu-in-us-livestock-poultry-pose-risk-to-humans/a-70988147",
+      "urlToImage": "https://static.dw.com/image/69161110_6.jpg",
+      "publishedAt": "2024-12-06 16:29:00",
+      "content": "The spread of H5N1 avian influenza in North America has countries not just the US on alert. Some are buying up vaccine stocks and ramping up precautionary measures in response to the circulating vir\u2026 [+6015 chars]",
+      "retrievedAt": "2024-12-07 19:05:47.825865",
+      "internal_id": "ffeb39155459d7c134b4bc0be165f48114e118e4e58bd874b30893bb98e89c62",
+      "publishedAtLabel": "Dec 6"
+    },
+    {
+      "id": 16127,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "DW (English)",
+      "author": "Matthew Ward Agius",
+      "title": "Could bird flu in US livestock, poultry be risk to humans?",
+      "description": "Nations are buying H5N1 bird flu vaccines as the virus continues to spread among livestock in the United States. Some experts say H5N1 may mutate into an international public health threat.",
+      "url": "https://www.dw.com/en/could-bird-flu-in-us-livestock-poultry-be-risk-to-humans/a-70988147",
+      "urlToImage": "https://static.dw.com/image/69161110_6.jpg",
+      "publishedAt": "2024-12-06 16:29:00",
+      "content": "The spread of H5N1 avian influenza in North America has countries beyond the United States on alert. Some governments are buying up vaccine stocks and ramping up precautionary measures in response t\u2026 [+6062 chars]",
+      "retrievedAt": "2024-12-07 19:05:47.832339",
+      "internal_id": "fe8e82be28a4ab94ebf27303732be73303d098d4a59d8a04a7cfed58611b2bf4",
+      "publishedAtLabel": "Dec 6"
+    },
+    {
+      "id": 16136,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "N-tv.de",
+      "author": "n-tv NACHRICHTEN",
+      "title": "Nur eine Mutation entfernt: Ist das Vogelgrippe-Virus kurz vor Anpassung an Menschen?",
+      "description": "In den USA grassiert das Vogelgrippe-Virus H5N1 inzwischen auf Rinderfarmen. Forscher finden nun heraus, dass eine einzige Mutation beim Virus ausreichen k\u00f6nnte, damit es Menschen leichter infiziert. Eine gro\u00dfe Sorge ist, dass dies eine neue Pandemie zur Folg\u2026",
+      "url": "https://www.n-tv.de/wissen/Ist-das-Vogelgrippe-Virus-kurz-vor-Anpassung-an-Menschen-article25414963.html",
+      "urlToImage": "https://bilder2.n-tv.de/img/incoming/crop25415209/6651326376-cImg_16_9-w1200/490224203.jpg",
+      "publishedAt": "2024-12-06 16:20:29",
+      "content": "In den USA grassiert das Vogelgrippe-Virus H5N1 inzwischen auf Rinderfarmen. Forscher finden nun heraus, dass eine einzige Mutation beim Virus ausreichen k\u00f6nnte, damit es Menschen leichter infiziert.\u2026 [+3866 chars]",
+      "retrievedAt": "2024-12-07 19:05:48.019171",
+      "internal_id": "623e4301103421ccb8ee6fa7e82b14adc30294461889de592f9b8ac50d84e982",
+      "publishedAtLabel": "Dec 6"
+    },
+    {
+      "id": 16142,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Elespanol.com",
+      "author": "J.A. G\u00f3mez",
+      "title": "La OMS baraja distintas hip\u00f3tesis sobre el origen de la enfermedad que ha causado al menos 71 muertos en RD Congo",
+      "description": "La Organizaci\u00f3n Mundial de la Salud no descarta que se trate de un virus respiratorio como la gripe o un brote de malaria o sarampi\u00f3n. M\u00e1s informaci\u00f3n: El inesperado resurgir del letal virus de Marburgo: crece la preocupaci\u00f3n tras un brote con 10 muertos en R\u2026",
+      "url": "https://www.elespanol.com/ciencia/salud/20241206/oms-baraja-distintas-hipotesis-origen-enfermedad-causado-muertes-rd-congo/906659461_0.html",
+      "urlToImage": "https://s1.elespanol.com/2024/08/16/actualidad/878672766_248520568_1706x960.jpg",
+      "publishedAt": "2024-12-06 16:00:49",
+      "content": "Un pat\u00f3geno respiratorio similar a los virus de la gripe o el covid-19 es barajado como posible origen de la enfermedad a\u00fan desconocida que ha causado al menos 71 muertes en la Rep\u00fablica Democr\u00e1tica \u2026 [+2654 chars]",
+      "retrievedAt": "2024-12-07 19:05:49.089428",
+      "internal_id": "a26ddf84c08535a49272e2c3918ed0ce30e3974b36ad028a93948957c90d15ef",
+      "publishedAtLabel": "Dec 6"
+    },
+    {
+      "id": 16141,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Lavozdegalicia.es",
+      "author": "efe",
+      "title": "La OMS env\u00eda expertos al Congo para investigar la misteriosa enfermedad que caus\u00f3 ya 71 muertos",
+      "description": "Se est\u00e1 investigando un pat\u00f3geno respiratorio como la gripe o el covid-19 como posible causa, as\u00ed como la malaria, el sarampi\u00f3n y otros",
+      "url": "https://www.lavozdegalicia.es/noticia/sociedad/2024/12/06/oms-envia-expertos-congo-investigar-misteriosa-enfermedad-causo-71-muertos/00031733498034379675115.htm",
+      "urlToImage": "https://img.lavdg.com/sc/O88qc6O6FdmX7RLLvItyiNVpXZY=/1280x/2024/12/06/00121733499361990580366/Foto/eup_20241117_153539332.jpg",
+      "publishedAt": "2024-12-06 15:37:00",
+      "content": "La Organizaci\u00f3n Mundial de la Salud (OMS) ha enviado expertos para ayudar a las autoridades sanitarias de la Rep\u00fablica Democr\u00e1tica del Congo (RDC) a investigar una misteriosa enfermedad que ha causad\u2026 [+2859 chars]",
+      "retrievedAt": "2024-12-07 19:05:49.082408",
+      "internal_id": "6e68be596c954cdda04d95dae65f2d4d9bc45cee12fe5e6fb21ba5029a764665",
+      "publishedAtLabel": "Dec 6"
+    },
+    {
+      "id": 16132,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "Nicole Simon",
+      "title": "Vogelgrippe: Sind wir nur wenige Mutationen entfernt von der Katastrophe?",
+      "description": "In einem Fall ist sie bereits aufgetaucht: Laut einer neuen Studie reicht eine einzige Mutation des Vogelgrippevirus H5N1, um Menschen effektiv infizieren zu k\u00f6nnen.",
+      "url": "https://www.stern.de/gesundheit/vogelgrippe--sind-wir-wenige-mutationen-von-der-katastrophe-entfernt--35287910.html",
+      "urlToImage": "https://image.stern.de/35287940/t/z8/v5/w1440/r1.7778/-/vogelgrippevirus.jpg",
+      "publishedAt": "2024-12-06 15:19:00",
+      "content": "Kopiere den aktuellen Link In einem Fall ist sie bereits aufgetaucht: Laut einer neuen Studie reicht eine einzige Mutation des Vogelgrippevirus H5N1, um Menschen effektiv infizieren zu k\u00f6nnen. Seit\u2026 [+685 chars]",
+      "retrievedAt": "2024-12-07 19:05:47.969525",
+      "internal_id": "381a152b6b81b830e97fb6546b360fb4c081d959bb4fe416713c5795df8d4f73",
+      "publishedAtLabel": "Dec 6"
+    },
+    {
+      "id": 16133,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "Nicole Simon",
+      "title": "Neue Studie: Schon eine Mutation kann das Vogelgrippevirus f\u00fcr den Menschen gef\u00e4hrlich machen",
+      "description": "In einem Fall ist sie bereits aufgetaucht: Laut einer neuen Studie reicht eine einzige Mutation des Vogelgrippevirus H5N1, um Menschen effektiv infizieren zu k\u00f6nnen.",
+      "url": "https://www.stern.de/gesundheit/neue-vogelgrippe-studie--schon-eine-einzige-mutation-reicht-35287910.html",
+      "urlToImage": "https://image.stern.de/35287940/t/z8/v5/w1440/r1.7778/-/vogelgrippevirus.jpg",
+      "publishedAt": "2024-12-06 15:19:00",
+      "content": "Kopiere den aktuellen Link In einem Fall ist sie bereits aufgetaucht: Laut einer neuen Studie reicht eine einzige Mutation des Vogelgrippevirus H5N1, um Menschen effektiv infizieren zu k\u00f6nnen. Seit\u2026 [+685 chars]",
+      "retrievedAt": "2024-12-07 19:05:47.977184",
+      "internal_id": "cb469f4bc25d498226711d74b0f80f10c34adce0c3363403631d273488316cf3",
+      "publishedAtLabel": "Dec 6"
+    },
+    {
+      "id": 16135,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Discover Magazine",
+      "author": "Kerry E. Kaylegian, Penn State",
+      "title": "Bird Flu Has Been Found in Raw Milk \u2212 A Reminder of How Pasteurization Protects Health",
+      "description": "Pasteurizing milk kills disease-causing pathogens that dairy cattle pick up in fields and barns.",
+      "url": "https://www.discovermagazine.com/health/bird-flu-has-been-found-in-raw-milk-a-reminder-of-how-pasteurization",
+      "urlToImage": "https://images.ctfassets.net/cnu0m8re1exe/26MIorC25kbQuGhsQbaIbi/7f344b67939e7158edf8c09fc719c421/dairy-cow-giving-side-eye.jpg",
+      "publishedAt": "2024-12-06 15:00:00",
+      "content": "As the H5N1 avian flu virus continues to spread in poultry flocks and dairy cattle, consumers may worry about whether the U.S. milk supply is safe to drink. According to the U.S. Food and Drug Admini\u2026 [+7335 chars]",
+      "retrievedAt": "2024-12-07 19:05:48.007329",
+      "internal_id": "0836246e53f41299d8747937f9b1b12a60883c74dc194ff958664b8f2757549c",
+      "publishedAtLabel": "Dec 6"
+    },
+    {
+      "id": 16128,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Aristeguinoticias.com",
+      "author": "Redacci\u00f3n AN / APV",
+      "title": "Hallan una mutaci\u00f3n que podr\u00eda ayudar a transmitir el virus de la gripe aviar a humanos",
+      "description": "Para estudiar c\u00f3mo sucedi\u00f3 esta mutaci\u00f3n, el equipo introdujo varias mutaciones en la prote\u00edna hemaglutinina 2.3.4.4b del H5N1.",
+      "url": "https://aristeguinoticias.com/0612/kiosko/hallan-una-mutacion-que-podria-ayudar-a-transmitir-el-virus-de-la-gripe-aviar-a-humanos/",
+      "urlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2024/12/gripe-aviar-6122024.jpeg",
+      "publishedAt": "2024-12-06 14:34:17",
+      "content": "[S\u00edguenos ahora tambi\u00e9n en WhatsApp. Da clic aqu\u00ed] Un equipo de cient\u00edficos estadounidense descubri\u00f3 una sola mutaci\u00f3n que podr\u00eda facilitar la infecci\u00f3n del virus de la gripe aviar y su posible tran\u2026 [+4195 chars]",
+      "retrievedAt": "2024-12-07 19:05:47.844893",
+      "internal_id": "abdfaff3509fb79072dfb2b26d28615bdb3d048101cafffcf7e889bbc5d3a440",
+      "publishedAtLabel": "Dec 6"
+    },
+    {
+      "id": 16138,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Nguyen Tat Thanh, Vo Thanh Luan, Do Chau Viet, Trinh Huu Tung, Vu Thien",
+      "title": "A machine learning-based risk score for prediction of mechanical ventilation in children with dengue shock syndrome: A retrospective cohort study",
+      "description": "Background Patients with severe dengue who develop severe respiratory failure requiring mechanical ventilation (MV) support have significantly increased mortality rates. This study aimed to develop a robust machine learning-based risk score to predict the nee\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0315281",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0315281.g005&size=inline",
+      "publishedAt": "2024-12-06 14:00:00",
+      "content": "Citation: Thanh NT, Luan VT, Viet DC, Tung TH, Thien V (2024) A machine learning-based risk score for prediction of mechanical ventilation in children with dengue shock syndrome: A retrospective coho\u2026 [+30370 chars]",
+      "retrievedAt": "2024-12-07 19:05:48.224045",
+      "internal_id": "27ebe5c7fbee363b712106d46dd21079a60008bdf995112f20a099adb7dd0a2f",
+      "publishedAtLabel": "Dec 6"
+    },
+    {
+      "id": 16140,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Research and Markets",
+      "title": "Malaria Diagnostics Market Overview Report 2024 - Malaria Diagnostics Market Set to Reach Over $1 Billion by 2030 as Technological Advances Drive Growth",
+      "description": "Key growth trends include the rising incidence of malaria in various regions, particularly in sub-Saharan Africa and parts of Asia and increased awareness of malaria's impact on public health has led to greater investment in diagnostic technologies and resear\u2026",
+      "url": "https://www.globenewswire.com/news-release/2024/12/06/2993085/28124/en/Malaria-Diagnostics-Market-Overview-Report-2024-Malaria-Diagnostics-Market-Set-to-Reach-Over-1-Billion-by-2030-as-Technological-Advances-Drive-Growth.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "publishedAt": "2024-12-06 14:00:00",
+      "content": "Dublin, Dec. 06, 2024 (GLOBE NEWSWIRE) -- The \"Malaria Diagnostics - A Global Market Overview\" report has been added to ResearchAndMarkets.com's offering. The global Malaria Diagnostics market is es\u2026 [+6060 chars]",
+      "retrievedAt": "2024-12-07 19:05:49.035109",
+      "internal_id": "4b1610074ea1e70f7574aca012af4cee295a65ba675db518d69ee68c62e4c946",
+      "publishedAtLabel": "Dec 6"
+    },
+    {
+      "id": 16134,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Origo.hu",
+      "author": "Origo",
+      "title": "Mad\u00e1rinfluenza vesz\u00e9lyei: egy mut\u00e1ci\u00f3 vil\u00e1gj\u00e1rv\u00e1nyt okozhat",
+      "description": "A koronav\u00edrus \u00e1ltal okozott vil\u00e1gj\u00e1rv\u00e1ny miatt az elm\u00falt \u00e9vekben az \u00e1llatr\u00f3l emberre ugr\u00f3 k\u00f3rokoz\u00f3k a figyelem k\u00f6z\u00e9ppontj\u00e1ba ker\u00fcltek. Jelenleg k\u00fcl\u00f6n\u00f6sen a mad\u00e1rinfluenza vesz\u00e9lyei miatt agg\u00f3dnak a szakemberek. A H5N1 v\u00edrus ugyanis nemcsak az \u00e1llatok k\u00f6z\u00f6tt t\u2026",
+      "url": "https://www.origo.hu/tudomany/2024/12/madarinfluenza-veszelyei-mutacio",
+      "urlToImage": "https://cdn.origo.hu/2024/12/o4mpA3cBggs1kd-lrXtqPcMjgEmetaMl9XP52h3p1U0/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzgyNGMzYWQxNTJiYjRkOTRhMmI0YWI0YTUxOWQ1Yjkx.webp",
+      "publishedAt": "2024-12-06 13:57:46",
+      "content": "A j\u00e1rv\u00e1nyok kock\u00e1zat\u00e1t tov\u00e1bb n\u00f6veli, hogy a H5N1 v\u00edrus \u00e1llatokban magas koncentr\u00e1ci\u00f3ban van jelen. B\u00e1r az emberi sejtekhez val\u00f3 alkalmazkod\u00e1sa jelenleg el\u00e9gg\u00e9 korl\u00e1tozott, az \u00e1llatokkal val\u00f3 gyakori\u2026 [+2428 chars]",
+      "retrievedAt": "2024-12-07 19:05:47.994998",
+      "internal_id": "000ea78e91532bab8a6bb829f3d128e31eb2458f39c9c08414d37c25ee3beb74",
+      "publishedAtLabel": "Dec 6"
+    },
+    {
+      "id": 16143,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "Nicole Hei\u00dfmann, Nicole Simon, Bernhard Albrecht",
+      "title": "Ansteckende Erkrankung: Im Kongo w\u00fctet eine neue Krankheit \u2013 das sind die wichtigsten Fakten",
+      "description": "Nach Mpox breitet sich im Kongo nun eine neue Infektionskrankheit aus. Woher stammt sie? Wie gef\u00e4hrlich ist sie? Und wie schnell k\u00f6nnte sie um sich greifen?",
+      "url": "https://www.stern.de/panorama/wissen/im-kongo-wuetet-eine-neue-krankheit--das-sind-die-wichtigsten-fakten--35288198.html",
+      "urlToImage": "https://image.stern.de/35288286/t/ss/v3/w1440/r1.7778/-/kongo-krankheit-x-helfer.jpg",
+      "publishedAt": "2024-12-06 13:39:00",
+      "content": "Kopiere den aktuellen Link Nach Mpox breitet sich im Kongo nun eine neue Infektionskrankheit aus. Woher stammt sie? Wie gef\u00e4hrlich ist sie? Und wie schnell k\u00f6nnte sie um sich greifen? Im Kongo bere\u2026 [+5946 chars]",
+      "retrievedAt": "2024-12-07 19:05:50.017808",
+      "internal_id": "e1052d14d00759c2788ed41dff4afcad7c43d7d87112199eb24a73f604ae2dc4",
+      "publishedAtLabel": "Dec 6"
+    },
+    {
+      "id": 16123,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Arthur Allen",
+      "title": "How measles, whooping cough and worse could roar back on RFK Jr.'s watch",
+      "description": "With anti-vaccine activist Robert F. Kennedy Jr. in charge of the nation's biggest health agency, it wouldn't take much tampering to enable vaccine-preventable diseases to make a comeback.",
+      "url": "https://www.npr.org/sections/shots-health-news/2024/12/06/nx-s1-5218574/rfk-vaccines-anti-vaccine-infectious-disease",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x576+0+54/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F20%2Fec%2F419d97dc44158321c042b268e60a%2Fgettyimages-2180585974.jpg",
+      "publishedAt": "2024-12-06 11:00:00",
+      "content": "The availability of safe, effective COVID vaccines less than a year into the pandemic marked a high point in the 300-year history of vaccination, seemingly heralding an age of protection against infe\u2026 [+11752 chars]",
+      "retrievedAt": "2024-12-07 19:05:47.108049",
+      "internal_id": "200f6e306c4e81b89091517c91f3d2bc99eec240ec7254f95f2c7825747f13c7",
+      "publishedAtLabel": "Dec 6"
+    },
+    {
+      "id": 16124,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Kffhealthnews.org",
+      "author": "Arthur Allen",
+      "title": "How Measles, Whooping Cough, and Worse Could Roar Back on RFK Jr.\u2019s Watch",
+      "description": "Inoculation campaigns that protect children and adults from dangerous diseases rely on a delicate web of state and federal laws and programs. If senior officials cast doubt on vaccine safety, the whole system might collapse, especially in red states.",
+      "url": "https://kffhealthnews.org/news/article/rfk-jr-hhs-vaccine-policy-preventable-infectious-diseases-resurge/",
+      "urlToImage": "https://kffhealthnews.org/wp-content/uploads/sites/2/2024/12/GettyImages-2185178997-resized.jpg",
+      "publishedAt": "2024-12-06 10:00:00",
+      "content": "Arthur AllenThe availability of safe, effective covid vaccines less than a year into the pandemic marked a high point in the 300-year history of vaccination, seemingly heralding an age of protection \u2026 [+11678 chars]",
+      "retrievedAt": "2024-12-07 19:05:47.129590",
+      "internal_id": "9e39a687e140c77791638fa599f95d9206848f75ad3357ed6a70a912fd9d8822",
+      "publishedAtLabel": "Dec 6"
+    },
+    {
+      "id": 16131,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Spektrum.de",
+      "author": "Mike Zeitz, Lars Fischer",
+      "title": "Die neuen Mutationen der Vogelgrippe",
+      "description": "Das H5N1-Virus hat sich an menschliche Rezeptoren angepasst - die gef\u00e4hrlichste Mutation bisher. Doch nicht die einzige, die das Virus braucht. Was jetzt noch zur Pandemie fehlt.",
+      "url": "https://www.spektrum.de/video/h5n1-die-neuen-mutationen-der-vogelgrippe/2246047",
+      "urlToImage": "https://static.spektrum.de/fm/912/f1920x1080/Titel_H5N1-Anpassung.jpg",
+      "publishedAt": "2024-12-06 10:00:00",
+      "content": "Ein Video von Heute m\u00fcssen wir mal wieder einen Blick auf das Vogelgrippevirus H5N1 werfen, das seit einigen Jahren weltweit grassiert. Da gab es n\u00e4mlich jetzt zwei wirklich unerfreuliche Entwicklun\u2026 [+1409 chars]",
+      "retrievedAt": "2024-12-07 19:05:47.913892",
+      "internal_id": "ff44a9eeeaf6284603e1279e3820c87eda3496921dc1454d061318a52808ccd3",
+      "publishedAtLabel": "Dec 6"
+    },
+    {
+      "id": 16130,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Mediafax.ro",
+      "author": "Petru Mazilu",
+      "title": "Gripa aviar\u0103 s-ar putea transmite \u00eentre oameni dac\u0103 se produce o muta\u0163ie a virusului - studiu",
+      "description": "O singur\u0103 muta\u0163ie a virusului ar putea permite gripei aviare H5N1 s\u0103 se r\u0103sp\u00e2ndeasc\u0103 \u00eentre oameni. Descoperirea apar\u0163ine cercet\u0103torilor \u015fi a fost publicat\u0103 \u00eentr-un studiu. Oamenii de \u015ftiin\u0163\u0103 avertizeaz\u0103 c\u0103 astfel ar putea s\u0103 apar\u0103 o pandemie.",
+      "url": "https://www.mediafax.ro/stiinta-sanatate/gripa-aviara-s-ar-putea-transmite-intre-oameni-daca-se-produce-o-mutatie-a-virusului-studiu-22595123",
+      "urlToImage": "https://storage0.dms.mpinteractiv.ro/media/1/1/7627/22595123/1/gaini-victor-ciupuliga.jpg?width=640",
+      "publishedAt": "2024-12-06 08:31:02",
+      "content": "Zeci de oameni din Statele Unite ale Americii au avut grip aviar. Ei s-au infectat de la animale deoarece nu exist dovezi c boala viral s-a rsp\u00e2ndit de la o persoan la alta. Cu toate acestea, o singu\u2026 [+1550 chars]",
+      "retrievedAt": "2024-12-07 19:05:47.863984",
+      "internal_id": "b20c4616f98259eea03918915d0722b9d95486561a28c7f9726cf55cd0ce4709",
+      "publishedAtLabel": "Dec 6"
+    },
+    {
+      "id": 16139,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Postkhmer.com",
+      "author": "Post Khmer",
+      "title": "\u1797\u17d2\u1793\u17c6\u1796\u17c1\u1789 \u1794\u17c9\u17bb\u179f\u17d2\u178a\u17b7\u17cd | \u200b\u1780\u1798\u17d2\u1796\u17bb\u1787\u17b6\u200b\u1787\u17c6\u179a\u17bb\u1789\u200b\u1780\u17b6\u179a\u200b\u1795\u17d2\u179f\u1796\u17d2\u179c\u1795\u17d2\u179f\u17b6\u1799\u200b\u179f\u1780\u17d2\u178f\u17b6\u1793\u17bb\u1796\u179b\u200b\u1791\u17c1\u179f\u1785\u179a\u178e\u17cd\u200b\u1791\u17c5\u200b\u178f\u17c6\u1794\u1793\u17cb\u200b\u179a\u178a\u17d2\u178b\u1794\u17b6\u179b\u1796\u17b7\u179f\u17c1\u179f\u200b\u17a0\u17bb\u1784\u1780\u17bb\u1784 \u1793\u17b7\u1784\u200b\u1798\u17c9\u17b6\u1780\u17b6\u179c",
+      "description": "\u1797\u17d2\u1793\u17c6\u1796\u17c1\u1789 \u1794\u17c9\u17bb\u179f\u17d2\u178a\u17b7\u17cd | \u200b\u1780\u1798\u17d2\u1796\u17bb\u1787\u17b6\u200b\u1787\u17c6\u179a\u17bb\u1789\u200b\u1780\u17b6\u179a\u200b\u1795\u17d2\u179f\u1796\u17d2\u179c\u1795\u17d2\u179f\u17b6\u1799\u200b\u179f\u1780\u17d2\u178f\u17b6\u1793\u17bb\u1796\u179b\u200b\u1791\u17c1\u179f\u1785\u179a\u178e\u17cd\u200b\u1791\u17c5\u200b\u178f\u17c6\u1794\u1793\u17cb\u200b\u179a\u178a\u17d2\u178b\u1794\u17b6\u179b\u1796\u17b7\u179f\u17c1\u179f\u200b\u17a0\u17bb\u1784\u1780\u17bb\u1784 \u1793\u17b7\u1784\u200b\u1798\u17c9\u17b6\u1780\u17b6\u179cpostkhmer.com",
+      "url": "https://www.postkhmer.com/business/2024-12-6-1415-260819",
+      "urlToImage": "https://pppkhmer.sgp1.digitaloceanspaces.com/image/main/202412/6_12_2024_bbbb.jpg",
+      "publishedAt": "2024-12-06 07:38:49",
+      "content": "\u00abGX Foundation Khmer Cuisine Charity Dinner\u00bb \u00abGX Foundation Khmer Cuisine Charity Dinner\u00bb \u00abProject for Health Protection Against Dengue Fever\u201d GX Foundation Khmer Cuisine Charity Dinner , LEU\u2026 [+297 chars]",
+      "retrievedAt": "2024-12-07 19:05:48.254348",
+      "internal_id": "c9a300019131d9dce20991ac4d1463df15821b9e8de38ae0dba6e3297b6313d6",
+      "publishedAtLabel": "Dec 6"
+    },
+    {
+      "id": 16122,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Thairath.co.th",
+      "author": "Thairath",
+      "title": "\u0e1b\u0e49\u0e2d\u0e07\u0e01\u0e31\u0e19\u0e14\u0e39\u0e41\u0e25\u0e2d\u0e22\u0e48\u0e32\u0e07\u0e44\u0e23 \u0e40\u0e21\u0e37\u0e48\u0e2d \"\u0e44\u0e2d\u0e01\u0e23\u0e19\" \u0e23\u0e30\u0e1a\u0e32\u0e14",
+      "description": "\u0e42\u0e23\u0e04\u0e44\u0e2d\u0e01\u0e23\u0e19\u0e04\u0e37\u0e2d\u0e2d\u0e30\u0e44\u0e23 \u0e40\u0e0a\u0e47\u0e01\u0e2d\u0e32\u0e01\u0e32\u0e23\u0e41\u0e25\u0e30\u0e27\u0e34\u0e18\u0e35\u0e1b\u0e49\u0e2d\u0e07\u0e01\u0e31\u0e19\u0e23\u0e31\u0e01\u0e29\u0e32\u0e42\u0e23\u0e04\u0e44\u0e2d\u0e01\u0e23\u0e19 \u0e40\u0e0a\u0e37\u0e49\u0e2d\u0e41\u0e1a\u0e04\u0e17\u0e35\u0e40\u0e23\u0e35\u0e22\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e04\u0e27\u0e23\u0e21\u0e2d\u0e07\u0e02\u0e49\u0e32\u0e21",
+      "url": "https://www.thairath.co.th/lifestyle/health-and-beauty/2829590",
+      "urlToImage": "https://static.thairath.co.th/media/dFQROr7oWzulq5Fa6rHCJuvxkVlKO6YvuI1rouWYH6CgXBC5mxxGgX1qh4eL7ZP9MYE.jpg",
+      "publishedAt": "2024-12-06 07:23:56",
+      "content": "\u201c\u201d \u201c\u201d (Bordetella pertussis) 80-100% 20% 5-10 3 3 1 (Catarrhal phase) 2 (Paroxysmal phase) 7-10 1 () ( 5-10 ) 5-10 1 2 3 (Convalescent phase) 2 - 3 <\u2026 [+86 chars]",
+      "retrievedAt": "2024-12-07 19:05:46.302931",
+      "internal_id": "8d9a9503d686f29e95246113456fd1ff68913ff77c71becdd3e6457acd23fa95",
+      "publishedAtLabel": "Dec 6"
+    },
     {
       "id": 16111,
       "query": [
@@ -24817,332 +25213,6 @@
       "content": "Egypt has been certified malaria-free by the World Health Organization (WHO) - an achievement hailed by the UN public health agency as \"truly historic\". Malaria is as old as Egyptian civilization it\u2026 [+1519 chars]",
       "retrievedAt": "2024-10-22 07:07:33.775251",
       "internal_id": "51672a6c21b679473192fd2b7a366f7a77adb147ef4b9a00ac10f620e6dfd38a",
-      "publishedAtLabel": "Oct 20"
-    },
-    {
-      "id": 14745,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Www.is.fi",
-      "author": "STT\u2013AFP",
-      "title": "WHO: Egypti vapautunut malariasta",
-      "description": "WHO:n johtaja kutsui saavutusta historialliseksi.",
-      "url": "https://www.is.fi/ulkomaat/art-2000010775616.html",
-      "urlToImage": "https://images.sanoma-sndp.fi/2b0c678caf4f50b9f66102ecdaa3b4f7.jpg/some/is-default.jpg",
-      "publishedAt": "2024-10-20 18:18:00",
-      "content": "WHO:n johtaja kutsui saavutusta historialliseksi.Egyptiss\u00e4 ei ole en\u00e4\u00e4 malariaa, vahvisti Maailman terveysj\u00e4rjest\u00f6 WHO. Sen johtaja Tedros Adhanom Ghebreyesus kutsui saavutusta historialliseksi. Mal\u2026 [+585 chars]",
-      "retrievedAt": "2024-10-21 19:05:50.969670",
-      "internal_id": "62cd7803fafe42a51e64c6f0b9e481af6a31a85ea4596f7641c42321d93c9499",
-      "publishedAtLabel": "Oct 20"
-    },
-    {
-      "id": 14736,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The Punch",
-      "author": "Lara Adejoro",
-      "title": "WHO certifies Egypt as malaria-free",
-      "description": "The World Health Organisation has certified Egypt as malaria-free. The achievement follows a nearly 100-year effort by the Egyptian government and people to end a disease that has been present in the country since ancient times, according to a statement issue\u2026",
-      "url": "https://punchng.com/who-certifies-egypt-as-malaria-free/",
-      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2020/03/28212321/World-Health-Organization-logo.jpg",
-      "publishedAt": "2024-10-20 17:55:08",
-      "content": "The World Health Organisation has certified Egypt as malaria-free. The achievement follows a nearly 100-year effort by the Egyptian government and people to end a disease that has been present in th\u2026 [+2311 chars]",
-      "retrievedAt": "2024-10-21 19:05:50.874809",
-      "internal_id": "01edece4669ab13d26683dafc6ea225244d8fb8f3e6e1beb06a84a1188906caa",
-      "publishedAtLabel": "Oct 20"
-    },
-    {
-      "id": 14744,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "AFP",
-      "title": "WHO certifies Egypt as malaria-free",
-      "description": "Egypt has been certified as malaria-free by the WHO after nearly a century of efforts. This historic achievement required proving interruption of malaria transmission for three years and preventing its re-establishment. Egypt will continue vigilant efforts in\u2026",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/who-certifies-egypt-as-malaria-free/articleshow/114403253.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-114403278,width-1200,height-630,imgsize-4060,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2024-10-20 17:42:20",
-      "content": "Egypt was certified as malaria-free on Sunday, with the World Health Organization calling the achievement \"truly historic\" and the culmination of nearly a century of work to stamp out the disease.\"Ma\u2026 [+2024 chars]",
-      "retrievedAt": "2024-10-21 19:05:50.947880",
-      "internal_id": "897bbc1b9b32dfce89e7cc2a2cec9ae0081edf9492d8dc971dfcb55c9f376528",
-      "publishedAtLabel": "Oct 20"
-    },
-    {
-      "id": 14739,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Diepresse.com",
-      "author": "Die Presse",
-      "title": "WHO erkl\u00e4rt \u00c4gypten als \u201eoffiziell malariafrei\u201c",
-      "description": "Die \u00dcbertragungskette einheimischer Malariaerkrankungen ist in dem Land am Nil seit mindestens drei Jahren unterbrochen. Weltweit sind 44 L\u00e4nder und ein Territorium entsprechend zertifiziert.",
-      "url": "https://www.diepresse.com/18987090/who-erklaert-aegypten-als-offiziell-malariafrei",
-      "urlToImage": "https://img.diepresse.com/public/incoming/4bm6a7-FILES-US-HEALTH-MALARIA-DISEASES/alternates/DPR_SOCIAL_NACHRICHTEN/FILES-US-HEALTH-MALARIA-DISEASES",
-      "publishedAt": "2024-10-20 17:15:46",
-      "content": "Die \u00dcbertragungskette einheimischer Malariaerkrankungen ist in dem Land am Nil seit mindestens drei Jahren unterbrochen. Weltweit sind 44 L\u00e4nder und ein Territorium entsprechend zertifiziert. \u00c4gypte\u2026 [+1400 chars]",
-      "retrievedAt": "2024-10-21 19:05:50.892327",
-      "internal_id": "2b9a1941b1971ccb877023ba4c9bf743b33b75a00cae17faff5b7a3d89db1f63",
-      "publishedAtLabel": "Oct 20"
-    },
-    {
-      "id": 14742,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "the-jerusalem-post",
-      "source_name": "The Jerusalem Post",
-      "author": "BY REUTERS",
-      "title": "WHO says it has certified Egypt as malaria free",
-      "description": "The World Health Organization said on Sunday it had certified Egypt as malaria free, marking the elimination of a disease that had been present in the country since ancient times.The WHO grants certification to countries that have proven beyond reasonable dou\u2026",
-      "url": "https://www.jpost.com/breaking-news/article-825366",
-      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/534687",
-      "publishedAt": "2024-10-20 17:02:12",
-      "content": "The World Health Organization said on Sunday it had certified Egypt as malaria free, marking the elimination of a disease that had been present in the country since ancient times. The WHO grants cer\u2026 [+322 chars]",
-      "retrievedAt": "2024-10-21 19:05:50.929605",
-      "internal_id": "c41bc8d11b6f0e11ee7982f82470b00b0f46b5ca28b6100df136352834adb4b2",
-      "publishedAtLabel": "Oct 20"
-    },
-    {
-      "id": 14740,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Orf.at",
-      "author": "ORF.at",
-      "title": "WHO erkl\u00e4rt \u00c4gypten als \u201eoffiziell malariafrei\u201c",
-      "description": "",
-      "url": "https://orf.at/stories/3373377/",
-      "urlToImage": "https://orf.at/mojo/1_4_1/storyserver//news/common/images/og-fallback-news.png",
-      "publishedAt": "2024-10-20 16:58:13",
-      "content": "\u00c4gypten ist offiziell zum malariafreien Gebiet erkl\u00e4rt worden. Die Weltgesundheitsorganisation (WHO) gratulierte der Regierung in Kairo und h\u00e4ndigte ihr ein Zertifikat aus. Malaria ist so alt wie die\u2026 [+1191 chars]",
-      "retrievedAt": "2024-10-21 19:05:50.907894",
-      "internal_id": "3174f1649a6aeb3068dca4c62d923ef43c4c104239f93e9dacf49e97279be214",
-      "publishedAtLabel": "Oct 20"
-    },
-    {
-      "id": 14737,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "der-tagesspiegel",
-      "source_name": "Der Tagesspiegel",
-      "author": "Der Tagesspiegel",
-      "title": "Malaria: \u00c4gypten jetzt offiziell malariafrei",
-      "description": "Seit mindestens 6000 Jahren wurden die Menschen in \u00c4gypten von Malaria heimgesucht. Nun hat das Land die Krankheit in den Griff bekommen und wird daf\u00fcr von der WHO ausgezeichnet.",
-      "url": "https://www.tagesspiegel.de/wissen/malaria-agypten-jetzt-offiziell-malariafrei-12566834.html",
-      "urlToImage": "https://www.tagesspiegel.de/images/12566831/alternates/BASE_16_9_W1400/1729439856000/malaria.jpeg",
-      "publishedAt": "2024-10-20 15:57:36",
-      "content": "\u00c4gypten ist offiziell zum malariafreien Gebiet erkl\u00e4rt worden. Die Weltgesundheitsorganisation (WHO) gratulierte der Regierung in Kairo und h\u00e4ndigte ihr ein Zertifikat aus. Malaria ist so alt wie d\u2026 [+2000 chars]",
-      "retrievedAt": "2024-10-21 19:05:50.880570",
-      "internal_id": "34717c713b97d7f8a4174a10fef9aeea37c58d6fecfa5588261c1ffe95b75683",
-      "publishedAtLabel": "Oct 20"
-    },
-    {
-      "id": 14731,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "die-zeit",
-      "source_name": "Die Zeit",
-      "author": "ZEIT ONLINE: News -",
-      "title": "Malaria: \u00c4gypten jetzt offiziell malariafrei",
-      "description": "Hier finden Sie Informationen zu dem Thema \u201eMalaria\u201c. Lesen Sie jetzt \u201e\u00c4gypten jetzt offiziell malariafrei\u201c.",
-      "url": "https://www.zeit.de/news/2024-10/20/aegypten-jetzt-offiziell-malariafrei",
-      "urlToImage": "https://img.zeit.de/news/2024-10/20/aegypten-jetzt-offiziell-malariafrei-image-group/wide__1300x731",
-      "publishedAt": "2024-10-20 15:56:38",
-      "content": "\u00c4gypten ist offiziell zum malariafreien Gebiet erkl\u00e4rt worden. Die Weltgesundheitsorganisation (WHO) gratulierte der Regierung in Kairo und h\u00e4ndigte ihr ein Zertifikat aus. \u00abMalaria ist so alt wie \u2026 [+1973 chars]",
-      "retrievedAt": "2024-10-21 19:05:50.832194",
-      "internal_id": "16638f593c23d868c43b2663f9846d00c58a4d41667e52fd08e8417bee784151",
-      "publishedAtLabel": "Oct 20"
-    },
-    {
-      "id": 14741,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "STERN.de",
-      "author": "STERN.de",
-      "title": "Malaria: \u00c4gypten jetzt offiziell malariafrei",
-      "description": "Seit mindestens 6000 Jahren wurden die Menschen in \u00c4gypten von Malaria heimgesucht. Nun hat das Land die Krankheit in den Griff bekommen und wird daf\u00fcr von der WHO ausgezeichnet.",
-      "url": "https://www.stern.de/panorama/wissen/malaria--aegypten-jetzt-offiziell-malariafrei-35158982.html",
-      "urlToImage": "https://image.stern.de/35158984/t/A7/v1/w1440/r1.7778/-/20--o4rqg23epzv16axw800h600jpeg---7db4fe1767e381b4.jpg",
-      "publishedAt": "2024-10-20 15:56:38",
-      "content": "Seit mindestens 6000 Jahren wurden die Menschen in \u00c4gypten von Malaria heimgesucht. Nun hat das Land die Krankheit in den Griff bekommen und wird daf\u00fcr von der WHO ausgezeichnet. \u00c4gypten ist offizie\u2026 [+1425 chars]",
-      "retrievedAt": "2024-10-21 19:05:50.914234",
-      "internal_id": "0f35b64a0658550a35755db2028ec8cd7f60f8fd3fd36121228d5c392abe6ffe",
-      "publishedAtLabel": "Oct 20"
-    },
-    {
-      "id": 14729,
-      "query": [
-        "dengue",
-        "zika",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Www.abc.es",
-      "author": "(abc)",
-      "title": "La Consejer\u00eda de Sanidad coloca trampas para saber si el mosquito tigre ha llegado a Castilla y Le\u00f3n",
-      "description": "La Consejer\u00eda de Sanidad trabaja en detectar la presencia del mosquito tigre en Castilla y Le\u00f3n, un insecto que si est\u00e1 infectado puede transmitir enfermedades como el dengue, zika, fiebre amarilla y chikungunya, y que fue detectado por primera vez en Espa\u00f1a,\u2026",
-      "url": "https://www.abc.es/espana/castilla-leon/consejeria-sanidad-coloca-trampas-saber-mosquito-tigre-20241020175506-nt.html",
-      "urlToImage": "https://s1.abcstatics.com/abc/www/multimedia/espana/2024/10/20/mosquito-U31331730810XvJ-1024x512@diario_abc.JPG",
-      "publishedAt": "2024-10-20 15:55:07",
-      "content": "La Consejer\u00eda de Sanidad trabaja en detectar la presencia del mosquito tigre en Castilla y Le\u00f3n, un insecto que si est\u00e1 infectado puede transmitir enfermedades como el dengue, zika, fiebre amarilla y\u2026 [+3397 chars]",
-      "retrievedAt": "2024-10-21 19:05:49.895441",
-      "internal_id": "8ba78c45c996e9b0c79601ba3ed5a0bc585d751a79e62034101054e4ce444c22",
-      "publishedAtLabel": "Oct 20"
-    },
-    {
-      "id": 14732,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Telepolis.de",
-      "author": "Marcel Kunzmann",
-      "title": "\"Seidenstra\u00dfe der Gesundheit\": Wie chinesische Pharmakonzerne nach Afrika expandieren",
-      "description": "China investiert in Afrikas Pharmasektor. Fabriken f\u00fcr Malaria- und HIV-Medikamente entstehen. Was steckt hinter der \"Seidenstra\u00dfe der Gesundheit\"?",
-      "url": "https://www.telepolis.de/features/Seidenstrasse-der-Gesundheit-Wie-chinesische-Pharmakonzerne-nach-Afrika-expandieren-9980775.html",
-      "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/8/8/9/3/0/shutterstock_2480971445-98df43e1e5d1ce00.jpeg",
-      "publishedAt": "2024-10-20 15:30:00",
-      "content": "Chinas Pharmakonzerne expandieren derzeit massiv nach Afrika (Bild: Gumpanat/Shutterstock.com) China investiert in Afrikas Pharmasektor. Fabriken f\u00fcr Malaria- und HIV-Medikamente entstehen. Was ste\u2026 [+3665 chars]",
-      "retrievedAt": "2024-10-21 19:05:50.838908",
-      "internal_id": "08579b1d2db8f5bff7859a0611c895f94ea1b322b8b9fe6efefe69d41bcd0614",
-      "publishedAtLabel": "Oct 20"
-    },
-    {
-      "id": 14734,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Politiken.dk",
-      "author": null,
-      "title": "\u00bbHistorisk\u00ab: Egypten er erkl\u00e6ret malariafri for f\u00f8rste gang nogensinde",
-      "description": "Malaria plagede faraoerne, men er ikke l\u00e6ngere en del af Egyptens virkelighed, lyder det fra WHO.",
-      "url": "https://politiken.dk/danmark/sundhed/art10123881/Egypten-er-erkl%C3%A6ret-malariafri-for-f%C3%B8rste-gang-nogensinde",
-      "urlToImage": "https://politiken.dk/incoming/img10123890.j8ii9u/ORIGINALS/original_750/SCIENCE-MOSQUITO",
-      "publishedAt": "2024-10-20 15:18:06",
-      "content": "Gem artiklen Gemt L\u00e6st Egypten er s\u00f8ndag for f\u00f8rste gang nogensinde erkl\u00e6ret malariafri, oplyser Verdenssundhedsorganisationen (WHO), som kalder udryddelsen af den potentielt d\u00f8delige sygdom i lan\u2026 [+882 chars]",
-      "retrievedAt": "2024-10-21 19:05:50.856568",
-      "internal_id": "50a063ba90d74c56e10ee4b11475a3a236c1d873ecad6974ab73cfbf629106c7",
-      "publishedAtLabel": "Oct 20"
-    },
-    {
-      "id": 14733,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Www.dr.dk",
-      "author": null,
-      "title": "Egypten er erkl\u00e6ret malariafri",
-      "description": "Det er slut med malaria i Egypten.",
-      "url": "https://www.dr.dk/nyheder/seneste/egypten-er-erklaeret-malariafri",
-      "urlToImage": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fapi.dr.dk%2Ffreja%2Fimage%2Fraw%2F317&w=700",
-      "publishedAt": "2024-10-20 14:48:00",
-      "content": "Moldovas nuv\u00e6rende pr\u00e6sident, Maia Sandu, der h\u00e5ber p\u00e5 genvalg, har nu stemt til landets delte pr\u00e6sident- og EU-valg i dag. Hun er oppe mod ti andre kandidater, men forel\u00f8big st\u00e5r hun st\u00e6rkest i men\u2026 [+1487 chars]",
-      "retrievedAt": "2024-10-21 19:05:50.845187",
-      "internal_id": "8f929e2abeccfa569efb768a2c4563285b2aa436ace28b0d1ea812e199790173",
-      "publishedAtLabel": "Oct 20"
-    },
-    {
-      "id": 14743,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "nrk",
-      "source_name": "NRK",
-      "author": "NRK",
-      "title": "WHO: Egypt er malariafritt",
-      "description": "Egypt ble s\u00f8ndag sertifisert som malariafritt av Verdens helseorganisasjon (WHO), melder Reuters. \u2013 Malaria er like gammel som den egyptiske sivilisasjonen selv, men sykdommen som plaget faraoene tilh\u00f8rer n\u00e5 dens historie og ikke dens fremtid, sa WHO-sjef Ted\u2026",
-      "url": "https://www.nrk.no/nyheter/who_-egypt-er-malariafritt-1.17090703",
-      "urlToImage": "https://static.nrk.no/nrkno/serum/2.0.511/common/img/default.jpg",
-      "publishedAt": "2024-10-20 14:35:08",
-      "content": "Egypt ble s\u00f8ndag sertifisert som malariafritt av Verdens helseorganisasjon (WHO), melder Reuters. Malaria er like gammel som den egyptiske sivilisasjonen selv, men sykdommen som plaget faraoene til\u2026 [+448 chars]",
-      "retrievedAt": "2024-10-21 19:05:50.936544",
-      "internal_id": "5a164df5a68acaa1124643c00f8ec08c9651cd639b786cf3deff838f726e9c7b",
-      "publishedAtLabel": "Oct 20"
-    },
-    {
-      "id": 14738,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Mediafax.ro",
-      "author": "Andreea Tobias",
-      "title": "Victorie \u00eempotriva malariei. Egiptul, declarat oficial liber de aceast\u0103 boal\u0103",
-      "description": "Organiza\u0163ia Mondial\u0103 a S\u0103n\u0103t\u0103\u0163ii (OMS) anun\u0163\u0103 c\u0103 Egiptul a fost certificat oficial ca fiind liber de malarie.",
-      "url": "https://www.mediafax.ro/externe/victorie-impotriva-malariei-egiptul-declarat-oficial-liber-de-aceasta-boala-22520105",
-      "urlToImage": "https://storage0.dms.mpinteractiv.ro/media/1/1/3614/22520105/1/profimedia-0103058591.jpg?width=640",
-      "publishedAt": "2024-10-20 14:34:17",
-      "content": "Malaria este la fel de veche ca \u00eensi civilizaia egiptean, dar boala care i-a afectat pe faraoni aparine acum istoriei sale i nu viitorului su. Aceast certificare a Egiptului ca fiind liber de malarie\u2026 [+1376 chars]",
-      "retrievedAt": "2024-10-21 19:05:50.886440",
-      "internal_id": "9b657c0eb977d858d81633603cb70579ab6b41689ba5473eb66cc20d3f9b30bd",
-      "publishedAtLabel": "Oct 20"
-    },
-    {
-      "id": 14735,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "YLE News",
-      "author": null,
-      "title": "WHO: Malaria on h\u00e4vitetty Egyptist\u00e4",
-      "description": "Uutiset nopeasti ja luotettavasti.",
-      "url": "https://yle.fi/a/74-20119034",
-      "urlToImage": "https://images.cdn.yle.fi/image/upload/w_1200,ar_1.91,c_fill,g_faces/q_auto:eco,f_auto,fl_lossy/39-12692236617e49e05397",
-      "publishedAt": "2024-10-20 13:59:57",
-      "content": "Maailman terveysj\u00e4rjest\u00f6 WHO ilmoitti sunnuntaina, ett\u00e4 malaria on nyt virallisesti h\u00e4vitetty Egyptist\u00e4. Malaria on onnistuttu h\u00e4vitt\u00e4m\u00e4\u00e4n aiemmin my\u00f6s Mauritiuksen tasavallassa ja Algeriassa. Tamm\u2026 [+76 chars]",
-      "retrievedAt": "2024-10-21 19:05:50.867814",
-      "internal_id": "79f48831c65a9493bb27ff4519521f200b1a6d426d08b929d885ecb35ca31880",
-      "publishedAtLabel": "Oct 20"
-    },
-    {
-      "id": 14730,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Perfil.com",
-      "author": "Perfil Brasil",
-      "title": "Casos de dengue no Brasil disparam 400% em 2024 em rela\u00e7\u00e3o ao ano anterior",
-      "description": "Esse n\u00famero alarmante abrange o per\u00edodo de 1\u00ba de janeiro a 7 de outubro, evidenciando a gravidade da situa\u00e7\u00e3o",
-      "url": "https://brasil.perfil.com/saude/casos-de-dengue-no-brasil-disparam-400-em-2024-em-relacao-ao-ano-anterior.phtml",
-      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/10/20/42568048-dengue1729373702315.jpg",
-      "publishedAt": "2024-10-20 10:29:17",
-      "content": "O cen\u00e1rio da dengue no Brasil tem se mostrado cada vez mais preocupante, especialmente com o aumento expressivo dos casos nos \u00faltimos anos. Recentemente, foi relatado um total de 6,5 milh\u00f5es de casos\u2026 [+2813 chars]",
-      "retrievedAt": "2024-10-21 19:05:49.988394",
-      "internal_id": "86d2c1c020124d64573da6ac1ccb2a651e4f54777a572888d3793fcbbd1cef6b",
-      "publishedAtLabel": "Oct 20"
-    },
-    {
-      "id": 14728,
-      "query": [
-        "pertussis"
-      ],
-      "source_id": null,
-      "source_name": "Life.ru",
-      "author": "\u0410\u043b\u0435\u043d\u0430 \u041f\u0435\u043d\u0447\u0443\u0433\u0438\u043d\u0430",
-      "title": "\u0417\u0430\u0431\u043e\u043b\u0435\u0432\u0430\u0435\u043c\u043e\u0441\u0442\u044c \u043a\u043e\u043a\u043b\u044e\u0448\u0435\u043c \u0432 \u0440\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u043e\u043c \u0440\u0435\u0433\u0438\u043e\u043d\u0435 \u043f\u0440\u0435\u0432\u044b\u0441\u0438\u043b\u0430 \u043c\u043d\u043e\u0433\u043e\u043b\u0435\u0442\u043d\u0438\u0439 \u0443\u0440\u043e\u0432\u0435\u043d\u044c \u0432 6,6 \u0440\u0430\u0437\u0430",
-      "description": "\u0412 \u0427\u0443\u0432\u0430\u0448\u0438\u0438 \u043d\u0430\u0431\u043b\u044e\u0434\u0430\u0435\u0442\u0441\u044f \u0440\u043e\u0441\u0442 \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0430\u0435\u043c\u043e\u0441\u0442\u0438 \u043a\u043e\u043a\u043b\u044e\u0448\u0435\u043c, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043f\u0440\u0435\u0432\u044b\u0441\u0438\u043b \u0441\u0440\u0435\u0434\u043d\u0438\u0439 \u043c\u043d\u043e\u0433\u043e\u043b\u0435\u0442\u043d\u0438\u0439 \u0443\u0440\u043e\u0432\u0435\u043d\u044c \u0432 6,6 \u0440\u0430\u0437\u0430. \u0417\u0430 \u0434\u0435\u0432\u044f\u0442\u044c \u043c\u0435\u0441\u044f\u0446\u0435\u0432 \u0432 \u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0435 \u0437\u0430\u0440\u0430\u0437\u0438\u043b\u0438\u0441\u044c 104 \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u0430: 11 \u0432\u0437\u0440\u043e\u0441\u043b\u044b\u0445 \u0438 93 \u0440\u0435\u0431\u0435\u043d\u043a\u0430. \u041e\u0431 \u044d\u0442\u043e\u043c \u0441\u043e\u043e\u0431\u0449\u0438\u043b\u0438 \u0432 \u0426\u0435\u043d\u0442\u0440\u0435 \u0433\u0438\u0433\u0438\u0435\u043d\u044b \u0438 \u044d\u043f\u0438\u0434\u0435\u043c\u0438\u043e\u043b\u043e\u0433\u0438\u0438 \u0427\u0443\u0432\u0430\u0448\u0438\u0438.\u0427\u0438\u0442\u0430\u0442\u044c \u0434\u0430\u043b\u2026",
-      "url": "https://life.ru/p/1696250",
-      "urlToImage": "https://static.life.ru/publications/2024/10/20/941380082927.6152.webp",
-      "publishedAt": "2024-10-20 07:38:59",
-      "content": ", 6,6 . 104 : 11 93 . . 9 100 000 , 1,36 100 . : 43 38 . \u00ab , Bordatella pertussis ( \u00ab \u00bb). , . -\u00bb, . . . - . , . , , - . . , .",
-      "retrievedAt": "2024-10-21 19:05:48.469643",
-      "internal_id": "21502750c1a66f87fa53ddc331c1766cf89d5d4fd195c58a87bd7b802dee62ea",
       "publishedAtLabel": "Oct 20"
     }
   ]
