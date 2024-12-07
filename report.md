@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 21
-- **Last harvest:** 2024-12-06 19:06
-- **Most recent article:** 2024-12-05 19:05:00
+- **New articles in last harvest:** 15
+- **Last harvest:** 2024-12-07 07:06
+- **Most recent article:** 2024-12-06 06:01:43
 
 ---
 
@@ -13,16 +13,16 @@ By US epiweek (i.e. Sunday to Saturday)
 | Disease | 24-43 | 24-44 | 24-45 | 24-46 | 24-47 | 24-48 | 24-49 | Total |
 |--|-|-|-|-|-|-|-|-|
 | mpox | 130 | 75 | 63 | 62 | 76 | 26 | 16 | 448 |
-| h5n1 | 12 | 61 | 36 | 40 | 50 | 38 | 29 | 266 |
-| dengue | 49 | 31 | 31 | 36 | 28 | 25 | 6 | 206 |
-| malaria | 42 | 16 | 26 | 33 | 27 | 29 | 23 | 196 |
-| measles | 1 | 13 | 3 | 33 | 11 | 6 | 3 | 70 |
-| rabies | 3 | 10 | 5 | 11 | 7 | 12 | 11 | 59 |
-| zika | 5 | 3 | 9 | 4 | 3 | 1 | 4 | 29 |
-| chikungunya | 6 | 2 | 2 | 3 | 5 | 4 | 6 | 28 |
+| h5n1 | 12 | 61 | 36 | 40 | 50 | 38 | 41 | 278 |
+| malaria | 57 | 16 | 26 | 33 | 27 | 29 | 23 | 211 |
+| dengue | 51 | 31 | 31 | 36 | 28 | 25 | 6 | 208 |
+| measles | 1 | 13 | 3 | 33 | 11 | 6 | 4 | 71 |
+| rabies | 3 | 10 | 5 | 11 | 7 | 12 | 12 | 60 |
+| zika | 6 | 3 | 9 | 4 | 3 | 1 | 4 | 30 |
+| chikungunya | 7 | 2 | 2 | 3 | 5 | 4 | 6 | 29 |
 | meningitis | 6 | 3 | 5 | 2 | 5 | 3 | 2 | 26 |
+| pertussis | 3 | 1 | 3 | 8 | 5 | 1 | 2 | 23 |
 | hpai | 2 | 7 | 4 | 4 | 4 | 0 | 1 | 22 |
-| pertussis | 2 | 1 | 3 | 8 | 5 | 1 | 1 | 21 |
 | leptospirosis | 0 | 3 | 10 | 3 | 0 | 2 | 0 | 18 |
 | typhoid | 3 | 4 | 1 | 1 | 3 | 1 | 0 | 13 |
 | yersinia | 0 | 3 | 0 | 0 | 1 | 1 | 0 | 5 |
@@ -44,6 +44,8 @@ Source: [News API](https://newsapi.org/)
 - [A zebrafish-based in vivo model of Zika virus infection unveils alterations of the glutamatergic neuronal development and NS4A as a key viral determinant of neuropathogenesis](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012756) (Plos.org)
 
 ## 24-49 (rabies)
+
+- [Glefser mot vaksinekrav: – De har rota noe så vanvittig](https://www.nrk.no/innlandet/flere-hundekjorere-vurderer-a-trekke-seg-pa-grunn-av-rabies-krav-under-femundlopet-1.17154269) (NRK)
 
 - [Lärarinnan biten i klassrummet – dog](https://www.expressen.se/nyheter/varlden/lararinnan-biten-i-klassrummet-dog/) (Expressen.se)
 
@@ -68,6 +70,8 @@ Source: [News API](https://newsapi.org/)
 - [Three rabid animals in region reported by health districts](https://roanoke.com/news/local/three-rabid-animals-in-region-reported-by-health-districts/article_34217bb8-b0ed-11ef-8d65-e7bf49f86b3a.html) (Roanoke Times)
 
 ## 24-49 (pertussis)
+
+- [U.S. sets Thanksgiving record for whooping cough cases](https://www.cbsnews.com/news/whooping-cough-record-thanksgiving-2024/) (CBS News)
 
 - [Yellowstone County seeing resurgence of whooping cough](https://billingsgazette.com/news/local/whooping-coungh-riverstone-health-billings-montana/article_b1ce07f4-b19a-11ef-b9eb-a78727220dca.html) (Billings Gazette)
 
@@ -112,6 +116,8 @@ Source: [News API](https://newsapi.org/)
 - [Mourning in Patras: The 16-year-old girl who had been diagnosed with meningitis has died](https://en.protothema.gr/2024/12/04/mourning-in-patras-the-16-year-old-girl-who-had-been-diagnosed-with-meningitis-has-died/) (Protothema.gr)
 
 ## 24-49 (measles)
+
+- [Measles-Infected Passenger Arrived at LAX Nov. 27, May Have Exposed Others - MyNewsLA.com](http://mynewsla.com/business/2024/12/05/measles-infected-passenger-arrived-at-lax-nov-27-may-have-exposed-others/) (Mynewsla.com)
 
 - [Measles outbreak in N.B. renews interest in national vaccination registry](https://www.cbc.ca/news/canada/new-brunswick/measles-outbreak-new-brunswick-national-vaccination-registry-1.7398752) (CBC News)
 
@@ -172,6 +178,30 @@ Source: [News API](https://newsapi.org/)
 - [Helport AI to Participate in the iAccess Alpha Virtual Best Ideas Winter Conference on December 10-11, 2024](https://www.globenewswire.com/news-release/2024/12/04/2991923/0/en/Helport-AI-to-Participate-in-the-iAccess-Alpha-Virtual-Best-Ideas-Winter-Conference-on-December-10-11-2024.html) (GlobeNewswire)
 
 ## 24-49 (h5n1)
+
+- [Ausland - Zwei Vogelgrippe-Mutationen reichen für eine Pandemie](https://www.focus.de/politik/ausland/zwei-vogelgrippe-mutationen-reichen-fuer-eine-pandemie_ba87eade-9459-4c52-af66-ddd02fe0d38e.html) (Focus)
+
+- [Evidence of Influenza A(H5N1) Spillover Infections in Horses, Mongolia](https://wwwnc.cdc.gov/eid/article/31/1/24-1266_article) (Cdc.gov)
+
+- [ТАСС: новая мутация в "техасском" птичьем гриппе повысила его заразность](https://rg.ru/2024/12/06/tass-novaia-mutaciia-v-tehasskom-ptichem-grippe-povysila-ego-zaraznost.html) (Rg.ru)
+
+- [Más cerca de una pandemia por la gripe aviar: estamos a una sola mutación de que el virus H5N1 se contagie entre humanos](https://www.meneame.net/m/ciencia/mas-cerca-pandemia-gripe-aviar-estamos-sola-mutacion-virus-h5n1) (Meneame.net)
+
+- [Una sola mutación de la gripe aviar H5N1 permitiría que se contagie entre humanos](https://www.publico.es/ciencias/sola-mutacion-gripe-aviar-h5n1-permitiria-contagie-humanos.html) (Publico.es)
+
+- [Una única mutación de la la hemaglutinina del virus de la gripe aviar puede permitir su contagio de humano a humano](https://www.lavozdegalicia.es/noticia/somosagro/ganaderia/2024/12/05/unica-mutacion-hemaglutinina-virus-gripe-aviar-puede-permitir-contagio-humano-humano/00031733428818493720477.htm) (Lavozdegalicia.es)
+
+- [The Bird Flu Virus Is One Mutation Away from Getting More Dangerous](https://time.com/7200088/can-bird-flu-infect-humans/) (Time)
+
+- [A single gene mutation could enable H5N1 to spread between people, study finds](https://www.livescience.com/health/flu/a-single-gene-mutation-could-enable-h5n1-to-spread-between-people-study-finds) (Live Science)
+
+- [Scientists identify mutation that could facilitate H5N1 'bird flu' virus infection and potential transmission in humans](https://www.sciencedaily.com/releases/2024/12/241205142418.htm) (Science Daily)
+
+- [Bird Flu Mutation Could Trigger Pandemic in Humans](https://www.newsweek.com/bird-flu-mutation-trigger-pandemic-humans-1996203) (Newsweek)
+
+- [Científicos descubren una mutación que podría ayudar a transmitir el virus de la gripe aviar H5N1 a humanos](https://www.elespanol.com/ciencia/salud/20241205/cientificos-descubren-mutacion-podria-ayudar-transmitir-virus-gripe-aviar-h5n1-humanos/906409917_0.html) (Elespanol.com)
+
+- [Выявлена мутация в «техасском» птичьем гриппе, повышающая его заразность](https://news.mail.ru/society/63950153/) (Mail.ru)
 
 - [Zwei Vogelgrippe-Mutationen reichen für eine Pandemie](https://www.dw.com/de/zwei-vogelgrippe-mutationen-reichen-f%C3%BCr-eine-pandemie/a-70973646) (DW (English))
 
@@ -2495,6 +2525,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Little disease but lots of bites: social, urbanistic, and entomological risk factors of human exposure to Aedes aegypti in South Texas, U.S.](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011953) (Plos.org)
 
+- [La Consejería de Sanidad coloca trampas para saber si el mosquito tigre ha llegado a Castilla y León](https://www.abc.es/espana/castilla-leon/consejeria-sanidad-coloca-trampas-saber-mosquito-tigre-20241020175506-nt.html) (Www.abc.es)
+
 ## 24-43 (typhoid)
 
 - [Did you know Vaishali actor Sanjay Mitra was originally cast for Ashokan's role in 'Amaram'?](https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/did-you-know-vaishali-actor-sanjay-mitra-was-originally-cast-for-ashokans-role-in-amaram/articleshow/114584424.cms) (The Times of India)
@@ -2520,6 +2552,8 @@ Source: [News API](https://newsapi.org/)
 - [For the Youngest, Pertussis Is Dangerous and Preventable](https://insights.som.yale.edu/insights/for-the-youngest-pertussis-is-dangerous-and-preventable) (Yale.edu)
 
 - [Weszły bezpłatne szczepienia przeciw krztuścowi dla ciężarnych. Czy to pomoże w walce z chorobą?](https://natemat.pl/zdrowie/573472,krztusiec-to-grozna-szczegolnie-dla-dzieci-zakazna-choroba-bakteryjna) (Natemat.pl)
+
+- [Заболеваемость коклюшем в российском регионе превысила многолетний уровень в 6,6 раза](https://life.ru/p/1696250) (Life.ru)
 
 ## 24-43 (mpox)
 
@@ -2887,6 +2921,36 @@ Source: [News API](https://newsapi.org/)
 
 - [Egypt declared malaria-free after 100-year effort](https://www.bbc.com/news/articles/cm2yl8pjgn2o) (BBC News)
 
+- [WHO: Egypti vapautunut malariasta](https://www.is.fi/ulkomaat/art-2000010775616.html) (Www.is.fi)
+
+- [WHO certifies Egypt as malaria-free](https://punchng.com/who-certifies-egypt-as-malaria-free/) (The Punch)
+
+- [WHO certifies Egypt as malaria-free](https://economictimes.indiatimes.com/news/international/world-news/who-certifies-egypt-as-malaria-free/articleshow/114403253.cms) (The Times of India)
+
+- [WHO erklärt Ägypten als „offiziell malariafrei“](https://www.diepresse.com/18987090/who-erklaert-aegypten-als-offiziell-malariafrei) (Diepresse.com)
+
+- [WHO says it has certified Egypt as malaria free](https://www.jpost.com/breaking-news/article-825366) (The Jerusalem Post)
+
+- [WHO erklärt Ägypten als „offiziell malariafrei“](https://orf.at/stories/3373377/) (Orf.at)
+
+- [Malaria: Ägypten jetzt offiziell malariafrei](https://www.tagesspiegel.de/wissen/malaria-agypten-jetzt-offiziell-malariafrei-12566834.html) (Der Tagesspiegel)
+
+- [Malaria: Ägypten jetzt offiziell malariafrei](https://www.zeit.de/news/2024-10/20/aegypten-jetzt-offiziell-malariafrei) (Die Zeit)
+
+- [Malaria: Ägypten jetzt offiziell malariafrei](https://www.stern.de/panorama/wissen/malaria--aegypten-jetzt-offiziell-malariafrei-35158982.html) (STERN.de)
+
+- ["Seidenstraße der Gesundheit": Wie chinesische Pharmakonzerne nach Afrika expandieren](https://www.telepolis.de/features/Seidenstrasse-der-Gesundheit-Wie-chinesische-Pharmakonzerne-nach-Afrika-expandieren-9980775.html) (Telepolis.de)
+
+- [»Historisk«: Egypten er erklæret malariafri for første gang nogensinde](https://politiken.dk/danmark/sundhed/art10123881/Egypten-er-erkl%C3%A6ret-malariafri-for-f%C3%B8rste-gang-nogensinde) (Politiken.dk)
+
+- [Egypten er erklæret malariafri](https://www.dr.dk/nyheder/seneste/egypten-er-erklaeret-malariafri) (Www.dr.dk)
+
+- [WHO: Egypt er malariafritt](https://www.nrk.no/nyheter/who_-egypt-er-malariafritt-1.17090703) (NRK)
+
+- [Victorie împotriva malariei. Egiptul, declarat oficial liber de această boală](https://www.mediafax.ro/externe/victorie-impotriva-malariei-egiptul-declarat-oficial-liber-de-aceasta-boala-22520105) (Mediafax.ro)
+
+- [WHO: Malaria on hävitetty Egyptistä](https://yle.fi/a/74-20119034) (YLE News)
+
 ## 24-43 (hpai)
 
 - [Ny bølge av fugleinfluensa blant villfugl i Nord-Norge](https://www.nrk.no/tromsogfinnmark/ny-bolge-av-fugleinfluensa-blant-villfugl-i-nord-norge-1.17093931) (NRK)
@@ -3019,6 +3083,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Little disease but lots of bites: social, urbanistic, and entomological risk factors of human exposure to Aedes aegypti in South Texas, U.S.](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011953) (Plos.org)
 
+- [La Consejería de Sanidad coloca trampas para saber si el mosquito tigre ha llegado a Castilla y León](https://www.abc.es/espana/castilla-leon/consejeria-sanidad-coloca-trampas-saber-mosquito-tigre-20241020175506-nt.html) (Www.abc.es)
+
+- [Casos de dengue no Brasil disparam 400% em 2024 em relação ao ano anterior](https://brasil.perfil.com/saude/casos-de-dengue-no-brasil-disparam-400-em-2024-em-relacao-ao-ano-anterior.phtml) (Perfil.com)
+
 ## 24-43 (chikungunya)
 
 - [Chikungunya surge in Pakistan: What we know about the mosquito-borne virus](https://www.aljazeera.com/news/2024/10/24/chikungunya-surge-in-pakistan-what-we-know-about-the-mosquito-borne-virus) (Al Jazeera English)
@@ -3032,3 +3100,5 @@ Source: [News API](https://newsapi.org/)
 - [Valneva effectuera des présentations sur le chikungunya lors de différentes conférences scientifiques de premier plan](https://www.globenewswire.com/news-release/2024/10/21/2966375/0/fr/Valneva-effectuera-des-pr%C3%A9sentations-sur-le-chikungunya-lors-de-diff%C3%A9rentes-conf%C3%A9rences-scientifiques-de-premier-plan.html) (GlobeNewswire)
 
 - [Little disease but lots of bites: social, urbanistic, and entomological risk factors of human exposure to Aedes aegypti in South Texas, U.S.](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011953) (Plos.org)
+
+- [La Consejería de Sanidad coloca trampas para saber si el mosquito tigre ha llegado a Castilla y León](https://www.abc.es/espana/castilla-leon/consejeria-sanidad-coloca-trampas-saber-mosquito-tigre-20241020175506-nt.html) (Www.abc.es)
