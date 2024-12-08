@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 14
-- **Last harvest:** 2024-12-08 07:06
-- **Most recent article:** 2024-12-07 06:56:56
+- **New articles in last harvest:** 4
+- **Last harvest:** 2024-12-08 19:05
+- **Most recent article:** 2024-12-07 17:45:17
 
 ---
 
@@ -13,9 +13,9 @@ By US epiweek (i.e. Sunday to Saturday)
 | Disease | 24-44 | 24-45 | 24-46 | 24-47 | 24-48 | 24-49 | Total |
 |--|-|-|-|-|-|-|-|
 | mpox | 75 | 63 | 62 | 76 | 26 | 20 | 322 |
-| h5n1 | 61 | 36 | 40 | 50 | 38 | 62 | 287 |
-| dengue | 30 | 31 | 36 | 28 | 25 | 9 | 159 |
-| malaria | 16 | 26 | 33 | 27 | 29 | 26 | 157 |
+| h5n1 | 60 | 36 | 40 | 50 | 38 | 65 | 289 |
+| dengue | 30 | 31 | 36 | 28 | 25 | 10 | 160 |
+| malaria | 15 | 26 | 33 | 27 | 29 | 26 | 156 |
 | measles | 13 | 3 | 33 | 11 | 6 | 7 | 73 |
 | rabies | 10 | 5 | 11 | 7 | 12 | 12 | 57 |
 | zika | 3 | 9 | 4 | 3 | 1 | 4 | 24 |
@@ -24,7 +24,7 @@ By US epiweek (i.e. Sunday to Saturday)
 | hpai | 7 | 4 | 4 | 4 | 0 | 2 | 21 |
 | meningitis | 3 | 5 | 2 | 5 | 3 | 2 | 20 |
 | leptospirosis | 3 | 10 | 3 | 0 | 2 | 0 | 18 |
-| typhoid | 4 | 1 | 1 | 3 | 1 | 0 | 10 |
+| typhoid | 3 | 1 | 1 | 3 | 1 | 0 | 9 |
 | yersinia | 3 | 0 | 0 | 1 | 1 | 0 | 5 |
 | shigellosis | 0 | 0 | 1 | 0 | 0 | 0 | 1 |
 
@@ -205,6 +205,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-49 (h5n1)
 
+- [Was der Fall eines Teenagers über H5N1 verrät](https://www.welt.de/gesundheit/article254800344/Vogelgrippe-In-den-USA-sind-jetzt-Milchtests-Pflicht-um-H5N1-zu-kontrollieren.html) (DIE WELT)
+
+- [Drasztikus lépéseket tesz Amerika, hogy megállítsa az új járványt](https://www.portfolio.hu/gazdasag/20241207/drasztikus-lepeseket-tesz-amerika-hogy-megallitsa-az-uj-jarvanyt-728335) (Portfolio.hu)
+
+- [US orders nationwide milk testing in bid to stop spread of bird flu in cows](https://news.sky.com/story/us-orders-nationwide-milk-testing-in-bid-to-stop-spread-of-bird-flu-in-cows-13268478) (Sky.com)
+
 - [Is milk safe? Your questions about bird flu and dairy, answered](https://economictimes.indiatimes.com/news/international/global-trends/is-milk-safe-your-questions-about-bird-flu-and-dairy-answered/articleshow/116068376.cms) (The Times of India)
 
 - [EEUU ordena análisis de leche cruda en el país para detectar casos de gripe aviar](https://noticiaslatam.lat/20241207/eeuu-ordena-analisis-de-leche-cruda-en-el-pais-para-detectar-casos-de-gripe-aviar-1159565741.html) (Noticiaslatam.lat)
@@ -330,6 +336,8 @@ Source: [News API](https://newsapi.org/)
 - [NZ’s first case of high pathogenic strain of bird flu found on Otago egg farm](https://www.nzherald.co.nz/nz/nzs-first-case-of-bird-flu-found-on-otago-egg-farm/7GU4CPBVARFWJDAOGKJGFUNSBM/) (New Zealand Herald)
 
 ## 24-49 (dengue)
+
+- [Control y prevención del dengue, “tarea esencial” ante el alza en casos: especialistas](https://www.jornada.com.mx/2024/12/07/sociedad/027n1soc) (Jornada.com.mx)
 
 - [El primer test de antígeno argentino que permite diagnosticar el dengue](https://noticias.perfil.com/noticias/ciencia/el-primer-test-de-antigeno-argentino-que-permite-diagnosticar-el-dengue.phtml) (Perfil.com)
 
@@ -2119,8 +2127,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Time to Get Typhoid! Classic Oregon Trail Video Game to Get Movie Treatment](https://reactormag.com/time-to-get-typhoid-classic-oregon-trail-video-game-to-get-movie-treatment/) (Reactormag.com)
 
-- [What raises the risk of Typhoid among children living in crowded areas](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/what-raises-the-risk-of-typhoid-among-children-living-in-crowded-areas/articleshow/114660592.cms) (The Times of India)
-
 ## 24-44 (rabies)
 
 - [Instagram famous squirrel named Peanut euthanised by New York authorities](https://www.abc.net.au/news/2024-11-02/peanut-the-internet-famous-squirrel-euthanised-authorities/104552922) (ABC News (AU))
@@ -2367,8 +2373,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Ogun, SFH deploy 1,180 town announcers for mosquito nets distribution](https://punchng.com/ogun-sfh-deploy-1180-town-announcers-for-mosquito-nets-distribution/) (The Punch)
 
-- [Experts caution FG on malaria vaccine mass rollout](https://punchng.com/experts-caution-fg-on-malaria-vaccine-mass-rollout/) (The Punch)
-
 ## 24-44 (leptospirosis)
 
 - [Martín-Moreno, catedrático de la UV: "A las 72 horas de la inundación se agravan los riesgos de infección, hay que poner medidas ya"](https://www.meneame.net/m/actualidad/martin-moreno-catedratico-uv-72-horas-inundacion-agravan-riesgos) (Meneame.net)
@@ -2514,8 +2518,6 @@ Source: [News API](https://newsapi.org/)
 - [H5N1 virus isolated from infected dairy worker is 100% lethal in ferrets, but does not appear to be circulating in nature anymore](https://www.sciencedaily.com/releases/2024/10/241028131451.htm) (Science Daily)
 
 - [Flu season will complicate tracking spread of H5N1 avian influenza](https://www.statnews.com/2024/10/28/flu-season-presents-challenges-in-tracking-h5n1-avian-influenza-outbreak/) (STAT)
-
-- [Exclusive: Emails Reveal How Health Departments Struggle To Track Human Cases of Bird Flu](https://www.nakedcapitalism.com/2024/10/exclusive-emails-reveal-how-health-departments-struggle-to-track-human-cases-of-bird-flu.html) (Nakedcapitalism.com)
 
 ## 24-44 (dengue)
 

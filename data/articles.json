@@ -1,8 +1,80 @@
 {
-  "last_updated": "2024-12-08 07:06",
-  "count_articles_total": 1160,
-  "count_articles_new": 14,
+  "last_updated": "2024-12-08 19:05",
+  "count_articles_total": 1161,
+  "count_articles_new": 4,
   "articles": [
+    {
+      "id": 16158,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "DIE WELT",
+      "author": "Sonja Kastilan",
+      "title": "Was der Fall eines Teenagers \u00fcber H5N1 verr\u00e4t",
+      "description": "Im Fr\u00fchjahr steckte sich erstmals ein Mensch an einer Kuh mit Vogelgrippe an. Inzwischen sind es Dutzende F\u00e4lle, und H5N1 breitet sich in den Herden aus. Dabei fehlt nicht viel, dass Menschen sich leichter infizieren \u2013 Forschern fordern engmaschige Kontrollen.",
+      "url": "https://www.welt.de/gesundheit/article254800344/Vogelgrippe-In-den-USA-sind-jetzt-Milchtests-Pflicht-um-H5N1-zu-kontrollieren.html",
+      "urlToImage": "https://img.welt.de/img/gesundheit/mobile254800370/4507933177-ci16x9-w1200/Black-and-white-spotted-dairy-cows-at-a-farm-in-Wisconsin-2.jpg",
+      "publishedAt": "2024-12-07 17:45:17",
+      "content": "Im Fr\u00fchjahr steckte sich erstmals ein Mensch an einer Kuh mit Vogelgrippe an. Inzwischen sind es Dutzende F\u00e4lle, und H5N1 breitet sich in den Herden aus. Dabei fehlt nicht viel, dass Menschen sich le\u2026 [+9415 chars]",
+      "retrievedAt": "2024-12-08 19:05:44.239423",
+      "internal_id": "7f174399479d4f4ebb012ffbf9384bcf398a409824a21f48ece18d9dc0ce0362",
+      "publishedAtLabel": "Dec 7"
+    },
+    {
+      "id": 16160,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Portfolio.hu",
+      "author": "Portfolio.hu",
+      "title": "Drasztikus l\u00e9p\u00e9seket tesz Amerika, hogy meg\u00e1ll\u00edtsa az \u00faj j\u00e1rv\u00e1nyt",
+      "description": "Az Egyes\u00fclt \u00c1llamok korm\u00e1nya orsz\u00e1gos szint\u0171 int\u00e9zked\u00e9seket vezet be a mad\u00e1rinfluenza terjed\u00e9s\u00e9nek megf\u00e9kez\u00e9s\u00e9re a tejtermel\u0151 \u00e1gazatban. A d\u00f6nt\u00e9s \u00e9rtelm\u00e9ben december k\u00f6zep\u00e9t\u0151l k\u00f6telez\u0151v\u00e9 v\u00e1lik a nyers \u00e9s paszt\u0151r\u00f6zetlen tej vizsg\u00e1lata a H5N1 v\u00edrusra. Az int\u00e9zk\u2026",
+      "url": "https://www.portfolio.hu/gazdasag/20241207/drasztikus-lepeseket-tesz-amerika-hogy-megallitsa-az-uj-jarvanyt-728335",
+      "urlToImage": "https://cdn.portfolio.hu/articles/images-md/e/g/e/egeszsegugy-orvos-influenza-betegseg-jarvany-fertozes-koronavirus-tunet-covid-711613.jpg",
+      "publishedAt": "2024-12-07 17:36:00",
+      "content": "Az Egyes\u00fclt \u00c1llamokban m\u00e1rciusban azonos\u00edtott\u00e1k elsz\u00f6r a H5N1 mad\u00e1rinfluenza v\u00edrus egy v\u00e1ltozat\u00e1t tejel tehenekben. Az\u00f3ta a fertz\u00e9s 15 \u00e1llamra terjedt ki, \u00e9s t\u00f6bb mint 700 \u00e1llom\u00e1nyt \u00e9rintett. A hel\u2026 [+1098 chars]",
+      "retrievedAt": "2024-12-08 19:05:44.320289",
+      "internal_id": "5c2f48ffecf9e37a1ad6baad9fbcfc520dc87f5fd3353327514ff364f419e8e2",
+      "publishedAtLabel": "Dec 7"
+    },
+    {
+      "id": 16161,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "title": "Control y prevenci\u00f3n del dengue, \u201ctarea esencial\u201d ante el alza en casos: especialistas",
+      "description": "Ante la mayor epidemia de dengue a nivel global jam\u00e1s registrada, con 13 millones de casos y m\u00e1s de 8 mil 500 muertes, es decir, casi el doble de las registradas en 2023, el control y prevenci\u00f3n de los brotes \u201cdebe ser una tarea esencial para los estados\u201d, ad\u2026",
+      "url": "https://www.jornada.com.mx/2024/12/07/sociedad/027n1soc",
+      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "publishedAt": "2024-12-07 09:01:53",
+      "content": "Peri\u00f3dico La JornadaS\u00e1bado 7 de diciembre de 2024, p. 27 Ante la mayor epidemia de dengue a nivel global jam\u00e1s registrada, con 13 millones de casos y m\u00e1s de 8 mil 500 muertes, es decir, casi el dobl\u2026 [+2220 chars]",
+      "retrievedAt": "2024-12-08 19:05:44.665053",
+      "internal_id": "86bbfe942d9d3240a7d8c25f952c7b34b4556b962715ca1a3be657b40bbdeabf",
+      "publishedAtLabel": "Dec 7"
+    },
+    {
+      "id": 16159,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Sky.com",
+      "author": null,
+      "title": "US orders nationwide milk testing in bid to stop spread of bird flu in cows",
+      "description": "Milk will be tested for bird flu across the US in a bid to contain a virus spreading among farms.",
+      "url": "https://news.sky.com/story/us-orders-nationwide-milk-testing-in-bid-to-stop-spread-of-bird-flu-in-cows-13268478",
+      "urlToImage": "https://e3.365dm.com/24/12/1600x900/skynews-cows-bird-flu_6768863.jpg?20241207085718",
+      "publishedAt": "2024-12-07 08:36:00",
+      "content": "Milk will be tested for bird flu across the US in a bid to contain a virus spreading among farms. A strand of the virus known as H5N1 - which has also been identified in birds in the UK - was detect\u2026 [+1796 chars]",
+      "retrievedAt": "2024-12-08 19:05:44.312850",
+      "internal_id": "f3233e6e8c16e04e464f90e930ed008d11057df61adadc76f11e8ff65609d17a",
+      "publishedAtLabel": "Dec 7"
+    },
     {
       "id": 16153,
       "query": [
@@ -20865,60 +20937,6 @@
       "content": "A man from northern Israel contracted rabies after being bitten by his pet dog, Israeli media reported on Sunday. According to the reports, the man was sent to intensive care following the bite and \u2026 [+236 chars]",
       "retrievedAt": "2024-10-29 07:06:33.659787",
       "internal_id": "9f1990124459b13d8c31fffeb273d60d6024a83d2f33b25f0489bb801d39d7b1",
-      "publishedAtLabel": "Oct 27"
-    },
-    {
-      "id": 14999,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The Punch",
-      "author": "Bola Bamigbola",
-      "title": "Experts caution FG on malaria vaccine mass rollout",
-      "description": "A group of scientists under the aegis of Living Science Foundation has called on the Federal Government to drop the plan to incorporate a newly developed malaria vaccine into the routine immunisation schedule in the country. This was contained in a press stat\u2026",
-      "url": "https://punchng.com/experts-caution-fg-on-malaria-vaccine-mass-rollout/",
-      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2024/10/27182204/Untitled.jpg",
-      "publishedAt": "2024-10-27 17:34:24",
-      "content": "A group of scientists under the aegis of Living Science Foundation has called on the Federal Government to drop the plan to incorporate a newly developed malaria vaccine into the routine immunisation\u2026 [+4204 chars]",
-      "retrievedAt": "2024-10-28 19:05:46.209733",
-      "internal_id": "4caaec3e97f371d7699b31c81c633a2cf4b18e1268fd03de902d4b8196bc0eb7",
-      "publishedAtLabel": "Oct 27"
-    },
-    {
-      "id": 15000,
-      "query": [
-        "typhoid"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "etimes.in",
-      "title": "What raises the risk of Typhoid among children living in crowded areas",
-      "description": "Typhoid, a bacterial infection common in tropical regions, spreads through contaminated food and water, often affecting children in overcrowded areas. Poor sanitation, including practices like open defecation and unhygienic food handling, heighten the risk. B\u2026",
-      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/what-raises-the-risk-of-typhoid-among-children-living-in-crowded-areas/articleshow/114660592.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-114660573,width-1070,height-580,imgsize-499179,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-10-27 15:43:05",
-      "content": "Body pain in women linked to their belly fat!",
-      "retrievedAt": "2024-10-28 19:05:47.103487",
-      "internal_id": "2cadd958732713478a87dee105bd71389debae8d6710c64cd26c1bcb8483934a",
-      "publishedAtLabel": "Oct 27"
-    },
-    {
-      "id": 14998,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Nakedcapitalism.com",
-      "author": "Conor Gallagher",
-      "title": "Exclusive: Emails Reveal How Health Departments Struggle To Track Human Cases of Bird Flu",
-      "description": "Emails show how health officials struggle to track the bird flu, partly in deference to the agricultural industry. As a result, researchers don\u2019t know how often farmworkers are being infected \u2014 and could miss alarming signals.",
-      "url": "https://www.nakedcapitalism.com/2024/10/exclusive-emails-reveal-how-health-departments-struggle-to-track-human-cases-of-bird-flu.html",
-      "urlToImage": "https://www.nakedcapitalism.com/wp-content/uploads/2024/10/1-1024x672.png",
-      "publishedAt": "2024-10-27 09:00:23",
-      "content": "Conor here: Entirely unsurprising, especially if you read Lamberts Oct. 24 piece Biden Bets on Let Er Rip with a SECOND Pandemic-Grade Virus: H5N1 (Bird Flu). That dealt largely with cattle. The foll\u2026 [+11520 chars]",
-      "retrievedAt": "2024-10-28 19:05:45.295162",
-      "internal_id": "3ed6f65ff026efe8905684b1c8d64766c6085fdc240e1a19386781164ccf7f86",
       "publishedAtLabel": "Oct 27"
     }
   ]
