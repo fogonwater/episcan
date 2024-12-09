@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 4
-- **Last harvest:** 2024-12-08 19:05
-- **Most recent article:** 2024-12-07 17:45:17
+- **New articles in last harvest:** 8
+- **Last harvest:** 2024-12-09 07:07
+- **Most recent article:** 2024-12-08 07:00:00
 
 ---
 
@@ -10,28 +10,38 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 24-44 | 24-45 | 24-46 | 24-47 | 24-48 | 24-49 | Total |
-|--|-|-|-|-|-|-|-|
-| mpox | 75 | 63 | 62 | 76 | 26 | 20 | 322 |
-| h5n1 | 60 | 36 | 40 | 50 | 38 | 65 | 289 |
-| dengue | 30 | 31 | 36 | 28 | 25 | 10 | 160 |
-| malaria | 15 | 26 | 33 | 27 | 29 | 26 | 156 |
-| measles | 13 | 3 | 33 | 11 | 6 | 7 | 73 |
-| rabies | 10 | 5 | 11 | 7 | 12 | 12 | 57 |
-| zika | 3 | 9 | 4 | 3 | 1 | 4 | 24 |
-| pertussis | 1 | 3 | 8 | 5 | 1 | 4 | 22 |
-| chikungunya | 2 | 2 | 3 | 5 | 4 | 6 | 22 |
-| hpai | 7 | 4 | 4 | 4 | 0 | 2 | 21 |
-| meningitis | 3 | 5 | 2 | 5 | 3 | 2 | 20 |
-| leptospirosis | 3 | 10 | 3 | 0 | 2 | 0 | 18 |
-| typhoid | 3 | 1 | 1 | 3 | 1 | 0 | 9 |
-| yersinia | 3 | 0 | 0 | 1 | 1 | 0 | 5 |
-| shigellosis | 0 | 0 | 1 | 0 | 0 | 0 | 1 |
+| Disease | 24-44 | 24-45 | 24-46 | 24-47 | 24-48 | 24-49 | 24-50 | Total |
+|--|-|-|-|-|-|-|-|-|
+| mpox | 75 | 63 | 62 | 76 | 26 | 20 | 0 | 322 |
+| h5n1 | 61 | 36 | 40 | 50 | 38 | 67 | 2 | 294 |
+| dengue | 30 | 31 | 36 | 28 | 25 | 10 | 0 | 160 |
+| malaria | 16 | 26 | 33 | 27 | 29 | 27 | 0 | 158 |
+| measles | 13 | 3 | 33 | 11 | 6 | 9 | 0 | 75 |
+| rabies | 10 | 5 | 11 | 7 | 12 | 13 | 0 | 58 |
+| zika | 3 | 9 | 4 | 3 | 1 | 4 | 0 | 24 |
+| pertussis | 1 | 3 | 8 | 5 | 1 | 4 | 1 | 23 |
+| chikungunya | 2 | 2 | 3 | 5 | 4 | 6 | 0 | 22 |
+| hpai | 7 | 4 | 4 | 4 | 0 | 2 | 0 | 21 |
+| meningitis | 3 | 5 | 2 | 5 | 3 | 2 | 0 | 20 |
+| leptospirosis | 3 | 10 | 3 | 0 | 2 | 0 | 0 | 18 |
+| typhoid | 4 | 1 | 1 | 3 | 1 | 0 | 0 | 10 |
+| yersinia | 3 | 0 | 0 | 1 | 1 | 0 | 0 | 5 |
+| shigellosis | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 1 |
 
 
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 24-50 (pertussis)
+
+- [Understanding whooping cough](https://www.bostonherald.com/2024/12/08/understanding-whooping-cough/) (Boston Herald)
+
+## 24-50 (h5n1)
+
+- [Spredningen af fugleinfluenza bekymrer: Smitte mellem mennesker rykker nærmere](https://ing.dk/artikel/spredningen-af-fugleinfluenza-bekymrer-smitte-mellem-mennesker-rykker-naermere) (Ing.dk)
+
+- [Эксперт: без вакцинации ускоряется преодоление межвидового барьера птичьего гриппа](https://tass.ru/obschestvo/22608023) (Tass.ru)
 
 ## 24-49 (zika)
 
@@ -44,6 +54,8 @@ Source: [News API](https://newsapi.org/)
 - [A zebrafish-based in vivo model of Zika virus infection unveils alterations of the glutamatergic neuronal development and NS4A as a key viral determinant of neuropathogenesis](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012756) (Plos.org)
 
 ## 24-49 (rabies)
+
+- [Airdropping vaccines to eliminate canine rabies in Texas](https://www.metafilter.com/206623/Airdropping-vaccines-to-eliminate-canine-rabies-in-Texas) (Metafilter.com)
 
 - [Glefser mot vaksinekrav: – De har rota noe så vanvittig](https://www.nrk.no/innlandet/flere-hundekjorere-vurderer-a-trekke-seg-pa-grunn-av-rabies-krav-under-femundlopet-1.17154269) (NRK)
 
@@ -129,6 +141,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-49 (measles)
 
+- [Hundreds of people may have been exposed to measles last month, Montreal Public Health says](https://www.cbc.ca/news/canada/montreal/measles-palais-des-congr%C3%A8s-trudeau-airport-montreal-public-health-1.7404601) (CBC News)
+
+- [Mysterious New Disease X is Officially Here, Potentially Airborne](https://www.newsbreak.com/share/3705898375696-mysterious-new-disease-x-is-officially-here-potentially-airborne?_f=app_share&amp;pd=0IigyxGY&amp;lang=en_US&amp;send_time=1733598939&amp;trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2224.28.1.2%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_local_strategy_24q4_exp-v9%2Cns_push_exp_rt_bucketv12-v3%2Cns_foryou_blend_exp_24q4-control%2Cns_foryou_rank_exp_24q4-v9%2Cns_foryou_recall_exp_24q4-v3%2Cns_foryou_model_exp_24q4-v8&amp;s=i2) (Newsbreak.com)
+
 - [How measles, whooping cough and worse could roar back on RFK Jr.'s watch (Arthur Allen/NPR)](https://www.memeorandum.com/241206/p86) (Memeorandum.com)
 
 - [How measles, whooping cough and worse could roar back on RFK Jr.'s watch](https://www.npr.org/sections/shots-health-news/2024/12/06/nx-s1-5218574/rfk-vaccines-anti-vaccine-infectious-disease) (NPR)
@@ -144,6 +160,8 @@ Source: [News API](https://newsapi.org/)
 - [Senegal launches national measles, rubella vaccination campaign](https://www.thestar.com.my/news/world/2024/12/03/senegal-launches-national-measles-rubella-vaccination-campaign) (The Star Online)
 
 ## 24-49 (malaria)
+
+- [Mysterious New Disease X is Officially Here, Potentially Airborne](https://www.newsbreak.com/share/3705898375696-mysterious-new-disease-x-is-officially-here-potentially-airborne?_f=app_share&amp;pd=0IigyxGY&amp;lang=en_US&amp;send_time=1733598939&amp;trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2224.28.1.2%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_local_strategy_24q4_exp-v9%2Cns_push_exp_rt_bucketv12-v3%2Cns_foryou_blend_exp_24q4-control%2Cns_foryou_rank_exp_24q4-v9%2Cns_foryou_recall_exp_24q4-v3%2Cns_foryou_model_exp_24q4-v8&amp;s=i2) (Newsbreak.com)
 
 - [La OMS baraja distintas hipótesis sobre el origen de la enfermedad que ha causado al menos 71 muertos en RD Congo](https://www.elespanol.com/ciencia/salud/20241206/oms-baraja-distintas-hipotesis-origen-enfermedad-causado-muertes-rd-congo/906659461_0.html) (Elespanol.com)
 
@@ -204,6 +222,10 @@ Source: [News API](https://newsapi.org/)
 - [Helport AI to Participate in the iAccess Alpha Virtual Best Ideas Winter Conference on December 10-11, 2024](https://www.globenewswire.com/news-release/2024/12/04/2991923/0/en/Helport-AI-to-Participate-in-the-iAccess-Alpha-Virtual-Best-Ideas-Winter-Conference-on-December-10-11-2024.html) (GlobeNewswire)
 
 ## 24-49 (h5n1)
+
+- [Эксперт Альтштейн: вирусы птичьего гриппа грозят пандемией](https://tass.ru/obschestvo/22607925) (Tass.ru)
+
+- [فقط یک جهش تا تهدید جهانی؛ آیا آنفلوانزای پرندگان ویروس دنیاگیر بعدی است؟](https://www.zoomit.ir/health-medical/430877-bird-flu-close-to-pandemic/) (Zoomit.ir)
 
 - [Was der Fall eines Teenagers über H5N1 verrät](https://www.welt.de/gesundheit/article254800344/Vogelgrippe-In-den-USA-sind-jetzt-Milchtests-Pflicht-um-H5N1-zu-kontrollieren.html) (DIE WELT)
 
@@ -2127,6 +2149,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Time to Get Typhoid! Classic Oregon Trail Video Game to Get Movie Treatment](https://reactormag.com/time-to-get-typhoid-classic-oregon-trail-video-game-to-get-movie-treatment/) (Reactormag.com)
 
+- [What raises the risk of Typhoid among children living in crowded areas](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/what-raises-the-risk-of-typhoid-among-children-living-in-crowded-areas/articleshow/114660592.cms) (The Times of India)
+
 ## 24-44 (rabies)
 
 - [Instagram famous squirrel named Peanut euthanised by New York authorities](https://www.abc.net.au/news/2024-11-02/peanut-the-internet-famous-squirrel-euthanised-authorities/104552922) (ABC News (AU))
@@ -2373,6 +2397,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Ogun, SFH deploy 1,180 town announcers for mosquito nets distribution](https://punchng.com/ogun-sfh-deploy-1180-town-announcers-for-mosquito-nets-distribution/) (The Punch)
 
+- [Experts caution FG on malaria vaccine mass rollout](https://punchng.com/experts-caution-fg-on-malaria-vaccine-mass-rollout/) (The Punch)
+
 ## 24-44 (leptospirosis)
 
 - [Martín-Moreno, catedrático de la UV: "A las 72 horas de la inundación se agravan los riesgos de infección, hay que poner medidas ya"](https://www.meneame.net/m/actualidad/martin-moreno-catedratico-uv-72-horas-inundacion-agravan-riesgos) (Meneame.net)
@@ -2518,6 +2544,8 @@ Source: [News API](https://newsapi.org/)
 - [H5N1 virus isolated from infected dairy worker is 100% lethal in ferrets, but does not appear to be circulating in nature anymore](https://www.sciencedaily.com/releases/2024/10/241028131451.htm) (Science Daily)
 
 - [Flu season will complicate tracking spread of H5N1 avian influenza](https://www.statnews.com/2024/10/28/flu-season-presents-challenges-in-tracking-h5n1-avian-influenza-outbreak/) (STAT)
+
+- [Exclusive: Emails Reveal How Health Departments Struggle To Track Human Cases of Bird Flu](https://www.nakedcapitalism.com/2024/10/exclusive-emails-reveal-how-health-departments-struggle-to-track-human-cases-of-bird-flu.html) (Nakedcapitalism.com)
 
 ## 24-44 (dengue)
 

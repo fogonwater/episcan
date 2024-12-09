@@ -1,8 +1,153 @@
 {
-  "last_updated": "2024-12-08 19:05",
-  "count_articles_total": 1161,
-  "count_articles_new": 4,
+  "last_updated": "2024-12-09 07:07",
+  "count_articles_total": 1172,
+  "count_articles_new": 8,
   "articles": [
+    {
+      "id": 16169,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Ing.dk",
+      "author": "Mathias Abildskov",
+      "title": "Spredningen af fugleinfluenza bekymrer: Smitte mellem mennesker rykker n\u00e6rmere",
+      "description": "Fugleinfluenza-variant v\u00e6kker bekymring hos myndigheder og forskere, efter at sygdommen har spredt sig til pattedyr. Et nyt studie viser, at varianten har potentiale til at kunne smitte mellem mennesker.",
+      "url": "https://ing.dk/artikel/spredningen-af-fugleinfluenza-bekymrer-smitte-mellem-mennesker-rykker-naermere",
+      "urlToImage": "https://ing.dk/sites/mi/files/styles/open_graph_image_16_9/public/2024-12/20051011-101911-pf-2969x2227ma.jpg?itok=mzmljs5v",
+      "publishedAt": "2024-12-08 07:00:00",
+      "content": "P\u00e5 et canadisk hospital ligger en teenager i respirator. Tilstanden er stabil, men beskrives som kritisk. Den canadiske teenager er blevet testet positiv for fugleinfluenza-varianten H5N1, som er e\u2026 [+65 chars]",
+      "retrievedAt": "2024-12-09 07:07:50.140265",
+      "internal_id": "45eb39a0fad894d8b8b6a28f041a1d9ca318b8bb154bf4cfed1b6465911b5f41",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 16162,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Boston Herald",
+      "author": "Dr. Shreya Doshi",
+      "title": "Understanding whooping cough",
+      "description": "Here's what else to know about whooping cough, including why it's surging in the United States, how it is treated and when children and adults should get the vaccine.",
+      "url": "https://www.bostonherald.com/2024/12/08/understanding-whooping-cough/",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2024/12/BHR-Z-WFIL-01.jpg?w=1024&h=683",
+      "publishedAt": "2024-12-08 05:53:26",
+      "content": "Whooping cough, or pertussis, is a highly contagious respiratory infection caused by bacteria called Bordetella pertussis. The infection attacks the lining of the breathing passages. People can get w\u2026 [+5675 chars]",
+      "retrievedAt": "2024-12-09 07:07:47.937262",
+      "internal_id": "0e1ba61f1e51a8c2ff2fe641a190e89d5d186890017e9f0524dd9a1916e8bc93",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 16167,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Tass.ru",
+      "author": null,
+      "title": "\u042d\u043a\u0441\u043f\u0435\u0440\u0442: \u0431\u0435\u0437 \u0432\u0430\u043a\u0446\u0438\u043d\u0430\u0446\u0438\u0438 \u0443\u0441\u043a\u043e\u0440\u044f\u0435\u0442\u0441\u044f \u043f\u0440\u0435\u043e\u0434\u043e\u043b\u0435\u043d\u0438\u0435 \u043c\u0435\u0436\u0432\u0438\u0434\u043e\u0432\u043e\u0433\u043e \u0431\u0430\u0440\u044c\u0435\u0440\u0430 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430",
+      "description": "\u0417\u0430\u0432\u0435\u0434\u0443\u044e\u0449\u0430\u044f \u043a\u0430\u0444\u0435\u0434\u0440\u043e\u0439 \u0432\u0438\u0440\u0443\u0441\u043e\u043b\u043e\u0433\u0438\u0438 \u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u043e\u0439 \u043c\u0435\u0434\u0438\u0446\u0438\u043d\u0441\u043a\u043e\u0439 \u0430\u043a\u0430\u0434\u0435\u043c\u0438\u0438 \u043d\u0435\u043f\u0440\u0435\u0440\u044b\u0432\u043d\u043e\u0433\u043e \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0438\u044f \u0415\u043b\u0435\u043d\u0430 \u041c\u0430\u043b\u0438\u043d\u043d\u0438\u043a\u043e\u0432\u0430 \u043e\u0442\u043c\u0435\u0442\u0438\u043b\u0430, \u0447\u0442\u043e \u0432\u0430\u0436\u043d\u043e, \u0447\u0442\u043e\u0431\u044b \u043b\u044e\u0434\u0438 \u0441\u0435\u0433\u043e\u0434\u043d\u044f \u043f\u0440\u0438\u0432\u0438\u0432\u0430\u043b\u0438\u0441\u044c",
+      "url": "https://tass.ru/obschestvo/22608023",
+      "urlToImage": "https://cdn-storage-media.tass.ru/thumb/ru/obschestvo/22608023?u=2024-12-08T01:29:08.910017",
+      "publishedAt": "2024-12-08 01:29:08",
+      "content": ", 8 . //. , , , . , . - Science , , , H5N1 . , 226 . \" . , , , [ ] H5N1 [ ], H1N1 [ ], H3N2 [ ], , , , . , , , , . , \", - . , , , , . \" \", - . , 10 . \" , , . , \", - . , , , - . \" . , , , \", \u2026 [+2 chars]",
+      "retrievedAt": "2024-12-09 07:07:50.089085",
+      "internal_id": "3a5bf5bb20cf26e7f5ab3c3b063d7994b98728216bed639252a2f77d8e15aea0",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 16168,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Tass.ru",
+      "author": null,
+      "title": "\u042d\u043a\u0441\u043f\u0435\u0440\u0442 \u0410\u043b\u044c\u0442\u0448\u0442\u0435\u0439\u043d: \u0432\u0438\u0440\u0443\u0441\u044b \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430 \u0433\u0440\u043e\u0437\u044f\u0442 \u043f\u0430\u043d\u0434\u0435\u043c\u0438\u0435\u0439",
+      "description": "\u0413\u043b\u0430\u0432\u043d\u044b\u0439 \u043d\u0430\u0443\u0447\u043d\u044b\u0439 \u0441\u043e\u0442\u0440\u0443\u0434\u043d\u0438\u043a \u041d\u0418\u0426 \u044d\u043f\u0438\u0434\u0435\u043c\u0438\u043e\u043b\u043e\u0433\u0438\u0438 \u0438 \u043c\u0438\u043a\u0440\u043e\u0431\u0438\u043e\u043b\u043e\u0433\u0438\u0438 \u0438\u043c. \u041d. \u0424. \u0413\u0430\u043c\u0430\u043b\u0435\u0438 \u0410\u043d\u0430\u0442\u043e\u043b\u0438\u0439 \u0410\u043b\u044c\u0442\u0448\u0442\u0435\u0439\u043d \u043f\u0440\u0438 \u044d\u0442\u043e\u043c \u043e\u0442\u043c\u0435\u0442\u0438\u043b, \u0447\u0442\u043e \u043e\u043d\u0438 \u043e\u0447\u0435\u043d\u044c \u043f\u043b\u043e\u0445\u043e \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u044f\u044e\u0442\u0441\u044f \u043e\u0442 \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u0430 \u043a \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u0443",
+      "url": "https://tass.ru/obschestvo/22607925",
+      "urlToImage": "https://cdn-storage-media.tass.ru/thumb/ru/obschestvo/22607925?u=2024-12-07T23:48:25.073532",
+      "publishedAt": "2024-12-07 23:48:25",
+      "content": ", 8 . //. , . , . . . . - Science , , , H5N1 . , 226 . \" - , . , , , , . , , , , \", - . , , . , , . \" [ ], , , , . &lt;...&gt; , - . H5N1, , , , , , , , \", - .",
+      "retrievedAt": "2024-12-09 07:07:50.107293",
+      "internal_id": "6141db6c5632ab4fa13ec59a2724ca1f2fe872860bfa01418c3cb63db8717ff8",
+      "publishedAtLabel": "Dec 7"
+    },
+    {
+      "id": 16164,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Hundreds of people may have been exposed to measles last month, Montreal Public Health says",
+      "description": "Montreal Public Health says hundreds of people may have been exposed to measles between Nov. 23 and Nov. 26. during and after a recent NATO conference held in the city. According to the health agency, places of exposure to measles include the Palais des congr\u2026",
+      "url": "https://www.cbc.ca/news/canada/montreal/measles-palais-des-congr%C3%A8s-trudeau-airport-montreal-public-health-1.7404601",
+      "urlToImage": "https://i.cbc.ca/1.6639420.1733606876!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/palais-des-congres-de-montreal.jpg",
+      "publishedAt": "2024-12-07 23:11:22",
+      "content": "Montreal Public Health says hundreds of people may have been exposed to measles between Nov. 23 and Nov. 26. during and after a recent NATO conference held in the city. It says one of the participan\u2026 [+912 chars]",
+      "retrievedAt": "2024-12-09 07:07:48.897058",
+      "internal_id": "278d33fc1e3119b2764725355117b684150e954b091c53da7d6f2166bf6e9e87",
+      "publishedAtLabel": "Dec 7"
+    },
+    {
+      "id": 16163,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Metafilter.com",
+      "author": "ShooBoo",
+      "title": "Airdropping vaccines to eliminate canine rabies in Texas",
+      "description": "We are researchers who began studying wildlife rabies and oral vaccination in the 1980s. From providing a proof of concept in using oral vaccines in raccoons to being among the first to use new rabies vaccines in the 1990s, we were on the ground floor of effo\u2026",
+      "url": "https://www.metafilter.com/206623/Airdropping-vaccines-to-eliminate-canine-rabies-in-Texas",
+      "urlToImage": "https://cdn.mefi.us/images/mefi/apple-touch-icon.png",
+      "publishedAt": "2024-12-07 22:32:14",
+      "content": "MetaFilter is a weblog that anyone can contribute a link or a comment to. A typical weblog is one person posting their thoughts on the unique things they find on the web. This website exists to break\u2026 [+120 chars]",
+      "retrievedAt": "2024-12-09 07:07:48.196561",
+      "internal_id": "6b7df0b19c2831adf7b5d8cd6570c2104881ee6e215a9cad0588e3563aa86187",
+      "publishedAtLabel": "Dec 7"
+    },
+    {
+      "id": 16166,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Zoomit.ir",
+      "author": "\u063a\u0632\u0644 \u0627\u0645\u06cc\u0631\u06cc",
+      "title": "\u0641\u0642\u0637 \u06cc\u06a9 \u062c\u0647\u0634 \u062a\u0627 \u062a\u0647\u062f\u06cc\u062f \u062c\u0647\u0627\u0646\u06cc\u061b \u0622\u06cc\u0627 \u0622\u0646\u0641\u0644\u0648\u0627\u0646\u0632\u0627\u06cc \u067e\u0631\u0646\u062f\u06af\u0627\u0646 \u0648\u06cc\u0631\u0648\u0633 \u062f\u0646\u06cc\u0627\u06af\u06cc\u0631 \u0628\u0639\u062f\u06cc \u0627\u0633\u062a\u061f",
+      "description": "\u0648\u06cc\u0631\u0648\u0633 \u0622\u0646\u0641\u0644\u0648\u0627\u0646\u0632\u0627\u06cc\u06cc \u06a9\u0647 \u0627\u06a9\u0646\u0648\u0646 \u062f\u0631 \u067e\u0631\u0646\u062f\u06af\u0627\u0646 \u0648 \u06af\u0627\u0648\u0647\u0627 \u0634\u06cc\u0648\u0639 \u06cc\u0627\u0641\u062a\u0647\u060c \u062a\u0648\u0627\u0646\u0627\u06cc\u06cc \u0628\u0627\u0644\u0627\u06cc\u06cc \u062f\u0631 \u0622\u0644\u0648\u062f\u0647\u200c\u06a9\u0631\u062f\u0646 \u0627\u0646\u0633\u0627\u0646\u200c\u0647\u0627 \u062f\u0627\u0631\u062f. \u06cc\u06a9 \u062c\u0647\u0634 \u0628\u0631\u0627\u06cc \u0627\u0646\u062a\u0642\u0627\u0644 \u0648\u06cc\u0631\u0648\u0633 \u0628\u0647 \u0628\u062f\u0646 \u0627\u0646\u0633\u0627\u0646 \u06a9\u0627\u0641\u06cc \u0627\u0633\u062a.",
+      "url": "https://www.zoomit.ir/health-medical/430877-bird-flu-close-to-pandemic/",
+      "urlToImage": "https://api2.zoomit.ir/media/gettyimages-1463467315-scaled-6754828c3a6387dccefad280",
+      "publishedAt": "2024-12-07 20:20:00",
+      "content": "H5N1 . . . . : \u00ab .\u00bb . H5N1 . . . H5N1 . . \u00ab \u00bb . : \u00ab .\u00bb . . . . . . . : \u00ab .\u00bb . H5N1 . H5N1 . . . \u00ab \u00bb : \u00ab .\u00bb H5N1 . . . . : \u00ab .\u00bb : \u00ab . .\u00bb . : \u00ab .\u00bb .",
+      "retrievedAt": "2024-12-09 07:07:50.034391",
+      "internal_id": "5e4cf2938cc3eef2667f177dca52022cee24b8a0fe39aaddd4510676b24f94be",
+      "publishedAtLabel": "Dec 7"
+    },
+    {
+      "id": 16165,
+      "query": [
+        "measles",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Newsbreak.com",
+      "author": "Jolana Miller",
+      "title": "Mysterious New Disease X is Officially Here, Potentially Airborne",
+      "description": "Respiratory pathogens like influenza and COVID-19 are being investigated as possible causes of this new Disease X. According to NPR, so are malaria and measles. The U.S. Centers for Disease Control and Prevention, as well as other countries, are standing by t\u2026",
+      "url": "https://www.newsbreak.com/share/3705898375696-mysterious-new-disease-x-is-officially-here-potentially-airborne?_f=app_share&amp;pd=0IigyxGY&amp;lang=en_US&amp;send_time=1733598939&amp;trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2224.28.1.2%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_local_strategy_24q4_exp-v9%2Cns_push_exp_rt_bucketv12-v3%2Cns_foryou_blend_exp_24q4-control%2Cns_foryou_rank_exp_24q4-v9%2Cns_foryou_recall_exp_24q4-v3%2Cns_foryou_model_exp_24q4-v8&amp;s=i2",
+      "urlToImage": "https://img.particlenews.com/img/id/1mgzoz_0xH8vC2D00?type=thumbnail_1600x1200",
+      "publishedAt": "2024-12-07 19:16:13",
+      "content": "Brian Thompsons murder has already prompted other insurance companies to make a major mass decision After the Brian Thompson debacle, its clear were living in the worst nightmare of a member of an i\u2026 [+510 chars]",
+      "retrievedAt": "2024-12-09 07:07:48.916716",
+      "internal_id": "5b1e6d3f0106931477cedc72ded24194f4ab04f8ec6c2cc31fc7f9f06122a365",
+      "publishedAtLabel": "Dec 7"
+    },
     {
       "id": 16158,
       "query": [
@@ -20937,6 +21082,60 @@
       "content": "A man from northern Israel contracted rabies after being bitten by his pet dog, Israeli media reported on Sunday. According to the reports, the man was sent to intensive care following the bite and \u2026 [+236 chars]",
       "retrievedAt": "2024-10-29 07:06:33.659787",
       "internal_id": "9f1990124459b13d8c31fffeb273d60d6024a83d2f33b25f0489bb801d39d7b1",
+      "publishedAtLabel": "Oct 27"
+    },
+    {
+      "id": 14999,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Bola Bamigbola",
+      "title": "Experts caution FG on malaria vaccine mass rollout",
+      "description": "A group of scientists under the aegis of Living Science Foundation has called on the Federal Government to drop the plan to incorporate a newly developed malaria vaccine into the routine immunisation schedule in the country. This was contained in a press stat\u2026",
+      "url": "https://punchng.com/experts-caution-fg-on-malaria-vaccine-mass-rollout/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2024/10/27182204/Untitled.jpg",
+      "publishedAt": "2024-10-27 17:34:24",
+      "content": "A group of scientists under the aegis of Living Science Foundation has called on the Federal Government to drop the plan to incorporate a newly developed malaria vaccine into the routine immunisation\u2026 [+4204 chars]",
+      "retrievedAt": "2024-10-28 19:05:46.209733",
+      "internal_id": "4caaec3e97f371d7699b31c81c633a2cf4b18e1268fd03de902d4b8196bc0eb7",
+      "publishedAtLabel": "Oct 27"
+    },
+    {
+      "id": 15000,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "etimes.in",
+      "title": "What raises the risk of Typhoid among children living in crowded areas",
+      "description": "Typhoid, a bacterial infection common in tropical regions, spreads through contaminated food and water, often affecting children in overcrowded areas. Poor sanitation, including practices like open defecation and unhygienic food handling, heighten the risk. B\u2026",
+      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/what-raises-the-risk-of-typhoid-among-children-living-in-crowded-areas/articleshow/114660592.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-114660573,width-1070,height-580,imgsize-499179,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-10-27 15:43:05",
+      "content": "Body pain in women linked to their belly fat!",
+      "retrievedAt": "2024-10-28 19:05:47.103487",
+      "internal_id": "2cadd958732713478a87dee105bd71389debae8d6710c64cd26c1bcb8483934a",
+      "publishedAtLabel": "Oct 27"
+    },
+    {
+      "id": 14998,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Nakedcapitalism.com",
+      "author": "Conor Gallagher",
+      "title": "Exclusive: Emails Reveal How Health Departments Struggle To Track Human Cases of Bird Flu",
+      "description": "Emails show how health officials struggle to track the bird flu, partly in deference to the agricultural industry. As a result, researchers don\u2019t know how often farmworkers are being infected \u2014 and could miss alarming signals.",
+      "url": "https://www.nakedcapitalism.com/2024/10/exclusive-emails-reveal-how-health-departments-struggle-to-track-human-cases-of-bird-flu.html",
+      "urlToImage": "https://www.nakedcapitalism.com/wp-content/uploads/2024/10/1-1024x672.png",
+      "publishedAt": "2024-10-27 09:00:23",
+      "content": "Conor here: Entirely unsurprising, especially if you read Lamberts Oct. 24 piece Biden Bets on Let Er Rip with a SECOND Pandemic-Grade Virus: H5N1 (Bird Flu). That dealt largely with cattle. The foll\u2026 [+11520 chars]",
+      "retrievedAt": "2024-10-28 19:05:45.295162",
+      "internal_id": "3ed6f65ff026efe8905684b1c8d64766c6085fdc240e1a19386781164ccf7f86",
       "publishedAtLabel": "Oct 27"
     }
   ]
