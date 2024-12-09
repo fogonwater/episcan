@@ -1,8 +1,136 @@
 {
-  "last_updated": "2024-12-09 07:07",
-  "count_articles_total": 1172,
+  "last_updated": "2024-12-09 19:05",
+  "count_articles_total": 1177,
   "count_articles_new": 8,
   "articles": [
+    {
+      "id": 16172,
+      "query": [
+        "measles",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Newsbreak.com",
+      "author": "Jolana Miller",
+      "title": "Mysterious New Disease X Is Officially Here, Potentially Airborne",
+      "description": "Respiratory pathogens like influenza and COVID-19 are being investigated as possible causes of this new Disease X. According to NPR, so are malaria and measles. The U.S. Centers for Disease Control and Prevention, as well as other countries, are standing by t\u2026",
+      "url": "https://www.newsbreak.com/share/3706705509412-mysterious-new-disease-x-is-officially-here-potentially-airborne?s=a2&amp;share_destination_id=MTg0MzY1NzI5LTE3MzM2NzY0MDE4NzY%3D&amp;pd=0CTZwnpM&amp;hl=en_US&amp;send_time=1733676401&amp;actBtn=feedbackShareButton&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2224.49.0%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_recall_exp_24q4-v3%2Cns_foryou_model_exp_24q4-v9%2Cns_foryou_blend_exp_24q4-v2%2Cns_local_strategy_24q4_exp-v8%2Cns_push_exp_rt_bucketv12-v9%2Cns_foryou_rank_exp_24q4-v5",
+      "urlToImage": "https://img.particlenews.com/img/id/1mgzoz_0xHy97VV00?type=thumbnail_1600x1200",
+      "publishedAt": "2024-12-08 16:47:09",
+      "content": "Convicted Murderer Lyle Menendez, 56, Caught in Secret Prison Affair With 21-Year-Old British Student He Met on Facebook Convicted murderer Lyle Menendez , known for the infamous 1989 deaths of his\u2026 [+539 chars]",
+      "retrievedAt": "2024-12-09 19:05:54.889696",
+      "internal_id": "4b7ce154b96a3012d03811f6f70dd35d784ba63d9f457f60b7fe4a452a2b5d75",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 16175,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Simone Humml",
+      "title": "Wann die Vogelgrippe f\u00fcr Menschen gef\u00e4hrlich wird: Bereits winzige \u00c4nderung w\u00fcrde ausreichen",
+      "description": "Noch ist keine anhaltende \u00dcbertragung des Vogelgrippe-Virus H5N1 von Mensch zu Mensch nachgewiesen worden. Doch schon nach Austausch eines Bausteins kann es leichter an menschliche Zellen andocken.",
+      "url": "https://www.tagesspiegel.de/wissen/wann-die-vogelgrippe-fur-menschen-gefahrlich-wird-bereits-winzige-anderung-wurde-ausreichen-12841436.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/12427472/alternates/BASE_16_9_W1400/1732360301000/file-photo-illustration-shows-test-tube-labelled-bird-flu-words-and-u-s-flag.jpeg",
+      "publishedAt": "2024-12-08 16:23:37",
+      "content": "Eine kleine \u00c4nderung des von Milchk\u00fchen auf Menschen gelangten Vogelgrippe-Virus kann einer Studie zufolge den Grundstein f\u00fcr eine \u00dcbertragung zwischen Menschen legen. Das Virus wurde in diesem Fr\u00fchj\u2026 [+1032 chars]",
+      "retrievedAt": "2024-12-09 19:05:55.574972",
+      "internal_id": "e6b081500f6e75b5b29d0d67e690b53671e0dee5156a473ed0726ab13aeb5bbf",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 16173,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Legalinsurrection.com",
+      "author": "Leslie Eastman",
+      "title": "USDA Orders Testing of Raw and Unpasteurized Milk for Presence of Bird Flu Virus",
+      "description": "Yet, No one has yet been known to become ill with this virus from drinking raw. The post USDA Orders Testing of Raw and Unpasteurized Milk for Presence of Bird Flu Virus first appeared on Le\u00b7gal In\u00b7sur\u00b7rec\u00b7tion.",
+      "url": "https://legalinsurrection.com/2024/12/usda-orders-testing-of-raw-and-unpasteurized-milk-for-presence-of-bird-flu-virus/",
+      "urlToImage": "https://legalinsurrection.com/wp-content/uploads/2017/11/Milk-Cows.jpg",
+      "publishedAt": "2024-12-08 15:00:56",
+      "content": "In our most recent reports on the bird flu, California has become the new epicenter for Highly Pathogenic Avian Influenza (HPAI), as several of the states dairy workers at herds impacted by the path\u2026 [+4448 chars]",
+      "retrievedAt": "2024-12-09 19:05:55.149332",
+      "internal_id": "d79fc4ba7d527630215ed741484893ca7071afba08a5611d8c7f7c3417a4d490",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 16171,
+      "query": [
+        "measles",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Newsbreak.com",
+      "author": "Jolana Miller",
+      "title": "Mysterious New Disease X Is Officially Here, Potentially Airborne",
+      "description": "Respiratory pathogens like influenza and COVID-19 are being investigated as possible causes of this new Disease X. According to NPR, so are malaria and measles. The U.S. Centers for Disease Control and Prevention, as well as other countries, are standing by t\u2026",
+      "url": "https://www.newsbreak.com/share/3706705509412-mysterious-new-disease-x-is-officially-here-potentially-airborne?_f=app_share&amp;pd=0EuIdPvZ&amp;lang=en_US&amp;send_time=1733680315&amp;trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2224.48.0.25%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_local_strategy_24q4_exp-v11%2Cns_push_exp_rt_bucketv12-control%2Cns_foryou_rank_exp_24q4-v4%2Cns_foryou_blend_exp_24q4-v6%2Cns_foryou_model_exp_24q4-v8%2Cns_foryou_recall_exp_24q4-v7&amp;s=i2",
+      "urlToImage": "https://img.particlenews.com/img/id/1mgzoz_0xHy97VV00?type=thumbnail_1600x1200",
+      "publishedAt": "2024-12-08 14:00:34",
+      "content": "Convicted Murderer Lyle Menendez, 56, Caught in Secret Prison Affair With 21-Year-Old British Student He Met on Facebook Convicted murderer Lyle Menendez , known for the infamous 1989 deaths of his\u2026 [+539 chars]",
+      "retrievedAt": "2024-12-09 19:05:54.877052",
+      "internal_id": "677bc505ea9d5f785d6b8fe845d0e95de58d57b9cd4536814a9a6eaaebf6f146",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 16170,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "CP24 Toronto's Breaking News",
+      "author": "Alex Arsenych",
+      "title": "Public Health Ontario report: whooping cough cases highest in 17 years",
+      "description": "The number of whooping cough cases in Ontario this year has reached a level that hasn\u2019t been seen in 17 years.",
+      "url": "https://www.cp24.com/news/2024/12/08/ontario-saw-the-highest-number-of-whooping-cough-cases-in-the-last-17-years-report/",
+      "urlToImage": "https://www.cp24.com/resizer/v2/YR4A4OZHJJRIUH6ENPHBMVOJIM.jpg?smart=true&auth=5be3ada27b20e9bd9c82e3a4dcc2826c5261bc1a689fe92273750fa152100ebb&width=1200&height=630",
+      "publishedAt": "2024-12-08 11:49:42",
+      "content": "The number of whooping cough cases in Ontario this year has reached a level that hasnt been seen in 17 years. In November, Public Health Ontario (PHO) published its findings on pertussis, commonly k\u2026 [+4485 chars]",
+      "retrievedAt": "2024-12-09 19:05:54.451716",
+      "internal_id": "dafa24cba75d671317551db02c0ad79e01594dec8bf53eeb78d869db90e76106",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 16174,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "bild",
+      "source_name": "Bild",
+      "author": "Mara Pallokat",
+      "title": "Forscher schlagen Alarm - Vogelgrippe nur eine Mutation vom Menschen entfernt",
+      "description": "Amerikanische Forscher entdecken, dass eine kleine Ver\u00e4nderung im H5N1-Virus ausreicht, um Menschen einfacher zu infizieren und eine Pandemie auszul\u00f6sen.",
+      "url": "https://www.bild.de/leben-wissen/vogelgrippe-neue-pandemie-durch-schnelle-mutation-moeglich-67555ac036814417822d0009",
+      "urlToImage": "https://images.bild.de/67555ac036814417822d0009/a7cd1a60323df0c1dcbfe3e0e7392a39,bdfcb9c8?w=1280",
+      "publishedAt": "2024-12-08 10:16:07",
+      "content": "Die Vogelgrippe k\u00f6nnte bald schneller auf den Menschen \u00fcberspringen und dabei sogar eine neue Pandemie ausl\u00f6sen! Millionen Tiere hat die in der Fachsprache avi\u00e4re Influenza genannte Infektion get\u00f6te\u2026 [+2222 chars]",
+      "retrievedAt": "2024-12-09 19:05:55.521079",
+      "internal_id": "816ceec5262d95982d6808b42fb35035362e031ef2b322b7f4734f26f6770264",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 16176,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "focus",
+      "source_name": "Focus",
+      "author": "dpa",
+      "title": "Hohe Dunkelziffer - Experten: Schon winzige Ver\u00e4nderung macht Vogelgrippe gef\u00e4hrlich f\u00fcr uns",
+      "description": "Noch ist keine anhaltende \u00dcbertragung des Vogelgrippe-Virus H5N1 von Mensch zu Mensch nachgewiesen worden. Doch schon nach Austausch eines Bausteins kann es leichter an menschliche Zellen andocken. Das zeigt eine neue Studie",
+      "url": "https://www.focus.de/gesundheit/news/experten-schon-winzige-veraenderung-macht-vogelgrippe-gefaehrlich-fuer-uns_id_260544505.html",
+      "urlToImage": "https://p6.focus.de/img/fotos/id_260094435/gettyimages-522933314.jpg?im=Crop%3D%280%2C175%2C2122%2C1061%29%3BResize%3D%281200%2C627%29&impolicy=perceptual&quality=mediumHigh&hash=4f934f15acfc4ce2377e1af3350622319e356b831eddaeaf7e95ef9e1fb624a6",
+      "publishedAt": "2024-12-08 09:02:42",
+      "content": "Noch ist keine anhaltende \u00dcbertragung des Vogelgrippe-Virus H5N1 von Mensch zu Mensch nachgewiesen worden. Doch schon nach Austausch eines Bausteins kann es leichter an menschliche Zellen andocken. D\u2026 [+5309 chars]",
+      "retrievedAt": "2024-12-09 19:05:55.656686",
+      "internal_id": "c2b033a55c391653dbfe8f66d540bcd2796e10de8078c6511eee8c438a028a18",
+      "publishedAtLabel": "Dec 8"
+    },
     {
       "id": 16169,
       "query": [
@@ -651,6 +779,24 @@
       "content": "Kopiere den aktuellen Link In einem Fall ist sie bereits aufgetaucht: Laut einer neuen Studie reicht eine einzige Mutation des Vogelgrippevirus H5N1, um Menschen effektiv infizieren zu k\u00f6nnen. Seit\u2026 [+685 chars]",
       "retrievedAt": "2024-12-07 19:05:47.977184",
       "internal_id": "cb469f4bc25d498226711d74b0f80f10c34adce0c3363403631d273488316cf3",
+      "publishedAtLabel": "Dec 6"
+    },
+    {
+      "id": 16177,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Kffhealthnews.org",
+      "author": "Arthur Allen",
+      "title": "Por qu\u00e9 el sarampi\u00f3n, la tos ferina y otras enfermedades graves podr\u00edan resurgir con RFK Jr.",
+      "description": "Expertos afirman que una confluencia de factores podr\u00eda causar el resurgimiento de epidemias mortales de enfermedades como el sarampi\u00f3n, la tos ferina y la meningitis, o incluso de polio.",
+      "url": "https://kffhealthnews.org/news/article/por-que-el-sarampion-la-tos-ferina-y-otras-enfermedades-graves-podrian-resurgir-con-rfk-jr/",
+      "urlToImage": "https://kffhealthnews.org/wp-content/uploads/sites/2/2024/12/GettyImages-2185178997-resized.jpg",
+      "publishedAt": "2024-12-06 15:03:01",
+      "content": "Arthur AllenLa disponibilidad de vacunas seguras y eficaces contra covid a menos de un a\u00f1o del inicio de la pandemia marc\u00f3 un hito en los tres siglos de historia de la vacunaci\u00f3n: comenzaba, aparente\u2026 [+12740 chars]",
+      "retrievedAt": "2024-12-09 19:05:56.009874",
+      "internal_id": "91c267a62b8aa734ec627e49ab09f0688c7b32b84d2e4917bde35a297d08cb52",
       "publishedAtLabel": "Dec 6"
     },
     {
@@ -21082,60 +21228,6 @@
       "content": "A man from northern Israel contracted rabies after being bitten by his pet dog, Israeli media reported on Sunday. According to the reports, the man was sent to intensive care following the bite and \u2026 [+236 chars]",
       "retrievedAt": "2024-10-29 07:06:33.659787",
       "internal_id": "9f1990124459b13d8c31fffeb273d60d6024a83d2f33b25f0489bb801d39d7b1",
-      "publishedAtLabel": "Oct 27"
-    },
-    {
-      "id": 14999,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The Punch",
-      "author": "Bola Bamigbola",
-      "title": "Experts caution FG on malaria vaccine mass rollout",
-      "description": "A group of scientists under the aegis of Living Science Foundation has called on the Federal Government to drop the plan to incorporate a newly developed malaria vaccine into the routine immunisation schedule in the country. This was contained in a press stat\u2026",
-      "url": "https://punchng.com/experts-caution-fg-on-malaria-vaccine-mass-rollout/",
-      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2024/10/27182204/Untitled.jpg",
-      "publishedAt": "2024-10-27 17:34:24",
-      "content": "A group of scientists under the aegis of Living Science Foundation has called on the Federal Government to drop the plan to incorporate a newly developed malaria vaccine into the routine immunisation\u2026 [+4204 chars]",
-      "retrievedAt": "2024-10-28 19:05:46.209733",
-      "internal_id": "4caaec3e97f371d7699b31c81c633a2cf4b18e1268fd03de902d4b8196bc0eb7",
-      "publishedAtLabel": "Oct 27"
-    },
-    {
-      "id": 15000,
-      "query": [
-        "typhoid"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "etimes.in",
-      "title": "What raises the risk of Typhoid among children living in crowded areas",
-      "description": "Typhoid, a bacterial infection common in tropical regions, spreads through contaminated food and water, often affecting children in overcrowded areas. Poor sanitation, including practices like open defecation and unhygienic food handling, heighten the risk. B\u2026",
-      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/what-raises-the-risk-of-typhoid-among-children-living-in-crowded-areas/articleshow/114660592.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-114660573,width-1070,height-580,imgsize-499179,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-10-27 15:43:05",
-      "content": "Body pain in women linked to their belly fat!",
-      "retrievedAt": "2024-10-28 19:05:47.103487",
-      "internal_id": "2cadd958732713478a87dee105bd71389debae8d6710c64cd26c1bcb8483934a",
-      "publishedAtLabel": "Oct 27"
-    },
-    {
-      "id": 14998,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Nakedcapitalism.com",
-      "author": "Conor Gallagher",
-      "title": "Exclusive: Emails Reveal How Health Departments Struggle To Track Human Cases of Bird Flu",
-      "description": "Emails show how health officials struggle to track the bird flu, partly in deference to the agricultural industry. As a result, researchers don\u2019t know how often farmworkers are being infected \u2014 and could miss alarming signals.",
-      "url": "https://www.nakedcapitalism.com/2024/10/exclusive-emails-reveal-how-health-departments-struggle-to-track-human-cases-of-bird-flu.html",
-      "urlToImage": "https://www.nakedcapitalism.com/wp-content/uploads/2024/10/1-1024x672.png",
-      "publishedAt": "2024-10-27 09:00:23",
-      "content": "Conor here: Entirely unsurprising, especially if you read Lamberts Oct. 24 piece Biden Bets on Let Er Rip with a SECOND Pandemic-Grade Virus: H5N1 (Bird Flu). That dealt largely with cattle. The foll\u2026 [+11520 chars]",
-      "retrievedAt": "2024-10-28 19:05:45.295162",
-      "internal_id": "3ed6f65ff026efe8905684b1c8d64766c6085fdc240e1a19386781164ccf7f86",
       "publishedAtLabel": "Oct 27"
     }
   ]

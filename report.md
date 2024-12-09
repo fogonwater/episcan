@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
 - **New articles in last harvest:** 8
-- **Last harvest:** 2024-12-09 07:07
-- **Most recent article:** 2024-12-08 07:00:00
+- **Last harvest:** 2024-12-09 19:05
+- **Most recent article:** 2024-12-08 16:47:09
 
 ---
 
@@ -13,18 +13,18 @@ By US epiweek (i.e. Sunday to Saturday)
 | Disease | 24-44 | 24-45 | 24-46 | 24-47 | 24-48 | 24-49 | 24-50 | Total |
 |--|-|-|-|-|-|-|-|-|
 | mpox | 75 | 63 | 62 | 76 | 26 | 20 | 0 | 322 |
-| h5n1 | 61 | 36 | 40 | 50 | 38 | 67 | 2 | 294 |
+| h5n1 | 60 | 36 | 40 | 50 | 38 | 67 | 5 | 296 |
 | dengue | 30 | 31 | 36 | 28 | 25 | 10 | 0 | 160 |
-| malaria | 16 | 26 | 33 | 27 | 29 | 27 | 0 | 158 |
-| measles | 13 | 3 | 33 | 11 | 6 | 9 | 0 | 75 |
+| malaria | 15 | 26 | 33 | 27 | 29 | 27 | 2 | 159 |
+| measles | 13 | 3 | 33 | 11 | 6 | 9 | 2 | 77 |
 | rabies | 10 | 5 | 11 | 7 | 12 | 13 | 0 | 58 |
+| pertussis | 1 | 3 | 8 | 5 | 1 | 4 | 2 | 24 |
 | zika | 3 | 9 | 4 | 3 | 1 | 4 | 0 | 24 |
-| pertussis | 1 | 3 | 8 | 5 | 1 | 4 | 1 | 23 |
+| hpai | 7 | 4 | 4 | 4 | 0 | 2 | 1 | 22 |
 | chikungunya | 2 | 2 | 3 | 5 | 4 | 6 | 0 | 22 |
-| hpai | 7 | 4 | 4 | 4 | 0 | 2 | 0 | 21 |
-| meningitis | 3 | 5 | 2 | 5 | 3 | 2 | 0 | 20 |
+| meningitis | 3 | 5 | 2 | 5 | 3 | 3 | 0 | 21 |
 | leptospirosis | 3 | 10 | 3 | 0 | 2 | 0 | 0 | 18 |
-| typhoid | 4 | 1 | 1 | 3 | 1 | 0 | 0 | 10 |
+| typhoid | 3 | 1 | 1 | 3 | 1 | 0 | 0 | 9 |
 | yersinia | 3 | 0 | 0 | 1 | 1 | 0 | 0 | 5 |
 | shigellosis | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 1 |
 
@@ -35,9 +35,33 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-50 (pertussis)
 
+- [Public Health Ontario report: whooping cough cases highest in 17 years](https://www.cp24.com/news/2024/12/08/ontario-saw-the-highest-number-of-whooping-cough-cases-in-the-last-17-years-report/) (CP24 Toronto's Breaking News)
+
 - [Understanding whooping cough](https://www.bostonherald.com/2024/12/08/understanding-whooping-cough/) (Boston Herald)
 
+## 24-50 (measles)
+
+- [Mysterious New Disease X Is Officially Here, Potentially Airborne](https://www.newsbreak.com/share/3706705509412-mysterious-new-disease-x-is-officially-here-potentially-airborne?s=a2&amp;share_destination_id=MTg0MzY1NzI5LTE3MzM2NzY0MDE4NzY%3D&amp;pd=0CTZwnpM&amp;hl=en_US&amp;send_time=1733676401&amp;actBtn=feedbackShareButton&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2224.49.0%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_recall_exp_24q4-v3%2Cns_foryou_model_exp_24q4-v9%2Cns_foryou_blend_exp_24q4-v2%2Cns_local_strategy_24q4_exp-v8%2Cns_push_exp_rt_bucketv12-v9%2Cns_foryou_rank_exp_24q4-v5) (Newsbreak.com)
+
+- [Mysterious New Disease X Is Officially Here, Potentially Airborne](https://www.newsbreak.com/share/3706705509412-mysterious-new-disease-x-is-officially-here-potentially-airborne?_f=app_share&amp;pd=0EuIdPvZ&amp;lang=en_US&amp;send_time=1733680315&amp;trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2224.48.0.25%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_local_strategy_24q4_exp-v11%2Cns_push_exp_rt_bucketv12-control%2Cns_foryou_rank_exp_24q4-v4%2Cns_foryou_blend_exp_24q4-v6%2Cns_foryou_model_exp_24q4-v8%2Cns_foryou_recall_exp_24q4-v7&amp;s=i2) (Newsbreak.com)
+
+## 24-50 (malaria)
+
+- [Mysterious New Disease X Is Officially Here, Potentially Airborne](https://www.newsbreak.com/share/3706705509412-mysterious-new-disease-x-is-officially-here-potentially-airborne?s=a2&amp;share_destination_id=MTg0MzY1NzI5LTE3MzM2NzY0MDE4NzY%3D&amp;pd=0CTZwnpM&amp;hl=en_US&amp;send_time=1733676401&amp;actBtn=feedbackShareButton&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2224.49.0%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_recall_exp_24q4-v3%2Cns_foryou_model_exp_24q4-v9%2Cns_foryou_blend_exp_24q4-v2%2Cns_local_strategy_24q4_exp-v8%2Cns_push_exp_rt_bucketv12-v9%2Cns_foryou_rank_exp_24q4-v5) (Newsbreak.com)
+
+- [Mysterious New Disease X Is Officially Here, Potentially Airborne](https://www.newsbreak.com/share/3706705509412-mysterious-new-disease-x-is-officially-here-potentially-airborne?_f=app_share&amp;pd=0EuIdPvZ&amp;lang=en_US&amp;send_time=1733680315&amp;trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2224.48.0.25%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_local_strategy_24q4_exp-v11%2Cns_push_exp_rt_bucketv12-control%2Cns_foryou_rank_exp_24q4-v4%2Cns_foryou_blend_exp_24q4-v6%2Cns_foryou_model_exp_24q4-v8%2Cns_foryou_recall_exp_24q4-v7&amp;s=i2) (Newsbreak.com)
+
+## 24-50 (hpai)
+
+- [USDA Orders Testing of Raw and Unpasteurized Milk for Presence of Bird Flu Virus](https://legalinsurrection.com/2024/12/usda-orders-testing-of-raw-and-unpasteurized-milk-for-presence-of-bird-flu-virus/) (Legalinsurrection.com)
+
 ## 24-50 (h5n1)
+
+- [Wann die Vogelgrippe für Menschen gefährlich wird: Bereits winzige Änderung würde ausreichen](https://www.tagesspiegel.de/wissen/wann-die-vogelgrippe-fur-menschen-gefahrlich-wird-bereits-winzige-anderung-wurde-ausreichen-12841436.html) (Der Tagesspiegel)
+
+- [Forscher schlagen Alarm - Vogelgrippe nur eine Mutation vom Menschen entfernt](https://www.bild.de/leben-wissen/vogelgrippe-neue-pandemie-durch-schnelle-mutation-moeglich-67555ac036814417822d0009) (Bild)
+
+- [Hohe Dunkelziffer - Experten: Schon winzige Veränderung macht Vogelgrippe gefährlich für uns](https://www.focus.de/gesundheit/news/experten-schon-winzige-veraenderung-macht-vogelgrippe-gefaehrlich-fuer-uns_id_260544505.html) (Focus)
 
 - [Spredningen af fugleinfluenza bekymrer: Smitte mellem mennesker rykker nærmere](https://ing.dk/artikel/spredningen-af-fugleinfluenza-bekymrer-smitte-mellem-mennesker-rykker-naermere) (Ing.dk)
 
@@ -134,6 +158,8 @@ Source: [News API](https://newsapi.org/)
 - ['Bleeding eye' virus sparks global fear: Urgent warning issued to UK, Africa travelers over 'deadliest' disease. Check symptoms](https://economictimes.indiatimes.com/news/international/global-trends/bleeding-eye-marburg-mpox-oropouche-virus-sparks-global-fear-urgent-warning-issued-to-uk-africa-travelers-over-deadliest-disease-check-symptoms/articleshow/115891504.cms) (The Times of India)
 
 ## 24-49 (meningitis)
+
+- [Por qué el sarampión, la tos ferina y otras enfermedades graves podrían resurgir con RFK Jr.](https://kffhealthnews.org/news/article/por-que-el-sarampion-la-tos-ferina-y-otras-enfermedades-graves-podrian-resurgir-con-rfk-jr/) (Kffhealthnews.org)
 
 - [Origins: Mark Twain’s Famous White Suit](https://blogs.loc.gov/loc/2024/12/origins-mark-twains-famous-white-suit/) (Loc.gov)
 
@@ -2149,8 +2175,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Time to Get Typhoid! Classic Oregon Trail Video Game to Get Movie Treatment](https://reactormag.com/time-to-get-typhoid-classic-oregon-trail-video-game-to-get-movie-treatment/) (Reactormag.com)
 
-- [What raises the risk of Typhoid among children living in crowded areas](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/what-raises-the-risk-of-typhoid-among-children-living-in-crowded-areas/articleshow/114660592.cms) (The Times of India)
-
 ## 24-44 (rabies)
 
 - [Instagram famous squirrel named Peanut euthanised by New York authorities](https://www.abc.net.au/news/2024-11-02/peanut-the-internet-famous-squirrel-euthanised-authorities/104552922) (ABC News (AU))
@@ -2397,8 +2421,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Ogun, SFH deploy 1,180 town announcers for mosquito nets distribution](https://punchng.com/ogun-sfh-deploy-1180-town-announcers-for-mosquito-nets-distribution/) (The Punch)
 
-- [Experts caution FG on malaria vaccine mass rollout](https://punchng.com/experts-caution-fg-on-malaria-vaccine-mass-rollout/) (The Punch)
-
 ## 24-44 (leptospirosis)
 
 - [Martín-Moreno, catedrático de la UV: "A las 72 horas de la inundación se agravan los riesgos de infección, hay que poner medidas ya"](https://www.meneame.net/m/actualidad/martin-moreno-catedratico-uv-72-horas-inundacion-agravan-riesgos) (Meneame.net)
@@ -2544,8 +2566,6 @@ Source: [News API](https://newsapi.org/)
 - [H5N1 virus isolated from infected dairy worker is 100% lethal in ferrets, but does not appear to be circulating in nature anymore](https://www.sciencedaily.com/releases/2024/10/241028131451.htm) (Science Daily)
 
 - [Flu season will complicate tracking spread of H5N1 avian influenza](https://www.statnews.com/2024/10/28/flu-season-presents-challenges-in-tracking-h5n1-avian-influenza-outbreak/) (STAT)
-
-- [Exclusive: Emails Reveal How Health Departments Struggle To Track Human Cases of Bird Flu](https://www.nakedcapitalism.com/2024/10/exclusive-emails-reveal-how-health-departments-struggle-to-track-human-cases-of-bird-flu.html) (Nakedcapitalism.com)
 
 ## 24-44 (dengue)
 
