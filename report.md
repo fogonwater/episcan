@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 8
-- **Last harvest:** 2024-12-09 19:05
-- **Most recent article:** 2024-12-08 16:47:09
+- **New articles in last harvest:** 16
+- **Last harvest:** 2024-12-10 07:07
+- **Most recent article:** 2024-12-09 04:45:00
 
 ---
 
@@ -12,10 +12,10 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-44 | 24-45 | 24-46 | 24-47 | 24-48 | 24-49 | 24-50 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 75 | 63 | 62 | 76 | 26 | 20 | 0 | 322 |
-| h5n1 | 60 | 36 | 40 | 50 | 38 | 67 | 5 | 296 |
+| mpox | 75 | 63 | 62 | 76 | 26 | 20 | 5 | 327 |
+| h5n1 | 61 | 36 | 40 | 50 | 38 | 69 | 6 | 300 |
+| malaria | 16 | 26 | 33 | 27 | 29 | 27 | 9 | 167 |
 | dengue | 30 | 31 | 36 | 28 | 25 | 10 | 0 | 160 |
-| malaria | 15 | 26 | 33 | 27 | 29 | 27 | 2 | 159 |
 | measles | 13 | 3 | 33 | 11 | 6 | 9 | 2 | 77 |
 | rabies | 10 | 5 | 11 | 7 | 12 | 13 | 0 | 58 |
 | pertussis | 1 | 3 | 8 | 5 | 1 | 4 | 2 | 24 |
@@ -24,7 +24,7 @@ By US epiweek (i.e. Sunday to Saturday)
 | chikungunya | 2 | 2 | 3 | 5 | 4 | 6 | 0 | 22 |
 | meningitis | 3 | 5 | 2 | 5 | 3 | 3 | 0 | 21 |
 | leptospirosis | 3 | 10 | 3 | 0 | 2 | 0 | 0 | 18 |
-| typhoid | 3 | 1 | 1 | 3 | 1 | 0 | 0 | 9 |
+| typhoid | 4 | 1 | 1 | 3 | 1 | 0 | 1 | 11 |
 | yersinia | 3 | 0 | 0 | 1 | 1 | 0 | 0 | 5 |
 | shigellosis | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 1 |
 
@@ -33,11 +33,27 @@ Source: [News API](https://newsapi.org/)
 
 ---
 
+## 24-50 (typhoid)
+
+- [An Ancient Killer Is Rapidly Becoming Resistant to Antibiotics, Study Warns](https://www.sciencealert.com/an-ancient-killer-is-rapidly-becoming-resistant-to-antibiotics-study-warns) (ScienceAlert)
+
 ## 24-50 (pertussis)
 
 - [Public Health Ontario report: whooping cough cases highest in 17 years](https://www.cp24.com/news/2024/12/08/ontario-saw-the-highest-number-of-whooping-cough-cases-in-the-last-17-years-report/) (CP24 Toronto's Breaking News)
 
 - [Understanding whooping cough](https://www.bostonherald.com/2024/12/08/understanding-whooping-cough/) (Boston Herald)
+
+## 24-50 (mpox)
+
+- [Morocco produces Africa’s first mpox tests as the continent tries to rely less on imports](https://abcnews.go.com/Health/wireStory/morocco-produces-africas-mpox-tests-continent-rely-imports-116588354) (ABC News)
+
+- [Morocco produces Africa’s first mpox tests as the continent tries to rely less on imports](https://abcnews.go.com/Business/wireStory/morocco-produces-africas-mpox-tests-continent-rely-imports-116588355) (ABC News)
+
+- [Morocco produces Africa’s first mpox tests as the continent tries to rely less on imports](https://abcnews.go.com/International/wireStory/morocco-produces-africas-mpox-tests-continent-rely-imports-116588353) (ABC News)
+
+- [Morocco produces Africa’s first mpox tests as the continent tries to rely less on imports](https://financialpost.com/pmn/morocco-produces-africas-first-mpox-tests-as-the-continent-tries-to-rely-less-on-imports) (Financial Post)
+
+- [Perth gay venue offering free mpox vaccinations as cases rise across Australia](https://www.abc.net.au/news/2024-12-09/perth-gay-sauna-to-offer-free-monkeypox-vaccines/104695122) (ABC News (AU))
 
 ## 24-50 (measles)
 
@@ -46,6 +62,20 @@ Source: [News API](https://newsapi.org/)
 - [Mysterious New Disease X Is Officially Here, Potentially Airborne](https://www.newsbreak.com/share/3706705509412-mysterious-new-disease-x-is-officially-here-potentially-airborne?_f=app_share&amp;pd=0EuIdPvZ&amp;lang=en_US&amp;send_time=1733680315&amp;trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2224.48.0.25%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_local_strategy_24q4_exp-v11%2Cns_push_exp_rt_bucketv12-control%2Cns_foryou_rank_exp_24q4-v4%2Cns_foryou_blend_exp_24q4-v6%2Cns_foryou_model_exp_24q4-v8%2Cns_foryou_recall_exp_24q4-v7&amp;s=i2) (Newsbreak.com)
 
 ## 24-50 (malaria)
+
+- [WHO untersucht Fälle: "Krankheit X" vielleicht Folge von Malaria oder Covid-19](https://www.n-tv.de/wissen/Krankheit-X-vielleicht-Folge-von-Malaria-oder-Covid-19-article25418353.html) (N-tv.de)
+
+- [Kongo: WHO vermutet "Krankheit X" als Folge von Malaria oder Covid-19](https://www.zeit.de/gesundheit/2024-12/krankheit-x-kongo-who-ursache-covid-malaria) (Die Zeit)
+
+- [WHO: „Krankheit X“ vielleicht Folge von Malaria oder Covid](https://www.morgenpost.de/panorama/article407856892/who-krankheit-x-vielleicht-folge-von-malaria-oder-covid.html) (Berliner Morgenpost)
+
+- [“Onbekende ziekte” in Congo mogelijk gevolg van malaria of COVID-19, zegt WHO](https://www.hbvl.be/cnt/dmf20241208_97858832) (Hbvl.be)
+
+- [“Onbekende ziekte” in Congo mogelijk gevolg van malaria of COVID-19, zegt WHO](https://www.gva.be/cnt/dmf20241208_97713233) (Www.gva.be)
+
+- [“Onbekende ziekte” in Congo mogelijk gevolg van malaria of COVID-19, zegt WHO](https://www.nieuwsblad.be/cnt/dmf20241208_97675932) (Nieuwsblad.be)
+
+- [Promising New Malaria Vaccine Can Be Injected by Mosquito Bite](https://www.sciencealert.com/promising-new-malaria-vaccine-can-be-injected-by-mosquito-bite) (ScienceAlert)
 
 - [Mysterious New Disease X Is Officially Here, Potentially Airborne](https://www.newsbreak.com/share/3706705509412-mysterious-new-disease-x-is-officially-here-potentially-airborne?s=a2&amp;share_destination_id=MTg0MzY1NzI5LTE3MzM2NzY0MDE4NzY%3D&amp;pd=0CTZwnpM&amp;hl=en_US&amp;send_time=1733676401&amp;actBtn=feedbackShareButton&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2224.49.0%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_recall_exp_24q4-v3%2Cns_foryou_model_exp_24q4-v9%2Cns_foryou_blend_exp_24q4-v2%2Cns_local_strategy_24q4_exp-v8%2Cns_push_exp_rt_bucketv12-v9%2Cns_foryou_rank_exp_24q4-v5) (Newsbreak.com)
 
@@ -56,6 +86,8 @@ Source: [News API](https://newsapi.org/)
 - [USDA Orders Testing of Raw and Unpasteurized Milk for Presence of Bird Flu Virus](https://legalinsurrection.com/2024/12/usda-orders-testing-of-raw-and-unpasteurized-milk-for-presence-of-bird-flu-virus/) (Legalinsurrection.com)
 
 ## 24-50 (h5n1)
+
+- [Quels pays ont le mieux géré la crise du Covid-19 ? Une étude scientifique apporte la réponse](https://www.lexpress.fr/sciences-sante/quels-pays-ont-le-mieux-gere-la-crise-du-covid-19-une-etude-scientifique-apporte-la-reponse-5LTIVL2YNBCGNESJV5CQEFVB3Y/) (L'Express)
 
 - [Wann die Vogelgrippe für Menschen gefährlich wird: Bereits winzige Änderung würde ausreichen](https://www.tagesspiegel.de/wissen/wann-die-vogelgrippe-fur-menschen-gefahrlich-wird-bereits-winzige-anderung-wurde-ausreichen-12841436.html) (Der Tagesspiegel)
 
@@ -253,6 +285,8 @@ Source: [News API](https://newsapi.org/)
 
 - [فقط یک جهش تا تهدید جهانی؛ آیا آنفلوانزای پرندگان ویروس دنیاگیر بعدی است؟](https://www.zoomit.ir/health-medical/430877-bird-flu-close-to-pandemic/) (Zoomit.ir)
 
+- [USDA to Require Testing of Milk to Monitor Spread of Bird Flu](https://www.motherjones.com/politics/2024/12/usda-to-require-testing-of-milk-to-monitor-spread-of-bird-flu/) (Mother Jones)
+
 - [Was der Fall eines Teenagers über H5N1 verrät](https://www.welt.de/gesundheit/article254800344/Vogelgrippe-In-den-USA-sind-jetzt-Milchtests-Pflicht-um-H5N1-zu-kontrollieren.html) (DIE WELT)
 
 - [Drasztikus lépéseket tesz Amerika, hogy megállítsa az új járványt](https://www.portfolio.hu/gazdasag/20241207/drasztikus-lepeseket-tesz-amerika-hogy-megallitsa-az-uj-jarvanyt-728335) (Portfolio.hu)
@@ -274,6 +308,8 @@ Source: [News API](https://newsapi.org/)
 - [Single Mutation Could Enable H5N1 Bird Flu to Better Infect Humans, Study Finds](https://scienceblog.com/550083/single-mutation-could-enable-h5n1-bird-flu-to-better-infect-humans-study-finds/) (ScienceBlog.com)
 
 - [USDA Announces New Federal Order, Begins National Milk Testing Strategy to Address H5N1 in Dairy Herds (USDA)](https://www.memeorandum.com/241206/p62) (Memeorandum.com)
+
+- [US government to begin expanded testing of milk supply to better track the spread of bird flu | CNN](https://www.cnn.com/2024/12/06/health/milk-supply-testing-bird-flu-usda/index.html) (CNN)
 
 - [Bird flu one mutuation from human threat, study finds](https://theweek.com/health/bird-flu-mutation-human-cells-new-research) (The Week Magazine)
 
@@ -2175,6 +2211,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Time to Get Typhoid! Classic Oregon Trail Video Game to Get Movie Treatment](https://reactormag.com/time-to-get-typhoid-classic-oregon-trail-video-game-to-get-movie-treatment/) (Reactormag.com)
 
+- [What raises the risk of Typhoid among children living in crowded areas](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/what-raises-the-risk-of-typhoid-among-children-living-in-crowded-areas/articleshow/114660592.cms) (The Times of India)
+
 ## 24-44 (rabies)
 
 - [Instagram famous squirrel named Peanut euthanised by New York authorities](https://www.abc.net.au/news/2024-11-02/peanut-the-internet-famous-squirrel-euthanised-authorities/104552922) (ABC News (AU))
@@ -2421,6 +2459,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Ogun, SFH deploy 1,180 town announcers for mosquito nets distribution](https://punchng.com/ogun-sfh-deploy-1180-town-announcers-for-mosquito-nets-distribution/) (The Punch)
 
+- [Experts caution FG on malaria vaccine mass rollout](https://punchng.com/experts-caution-fg-on-malaria-vaccine-mass-rollout/) (The Punch)
+
 ## 24-44 (leptospirosis)
 
 - [Martín-Moreno, catedrático de la UV: "A las 72 horas de la inundación se agravan los riesgos de infección, hay que poner medidas ya"](https://www.meneame.net/m/actualidad/martin-moreno-catedratico-uv-72-horas-inundacion-agravan-riesgos) (Meneame.net)
@@ -2566,6 +2606,8 @@ Source: [News API](https://newsapi.org/)
 - [H5N1 virus isolated from infected dairy worker is 100% lethal in ferrets, but does not appear to be circulating in nature anymore](https://www.sciencedaily.com/releases/2024/10/241028131451.htm) (Science Daily)
 
 - [Flu season will complicate tracking spread of H5N1 avian influenza](https://www.statnews.com/2024/10/28/flu-season-presents-challenges-in-tracking-h5n1-avian-influenza-outbreak/) (STAT)
+
+- [Exclusive: Emails Reveal How Health Departments Struggle To Track Human Cases of Bird Flu](https://www.nakedcapitalism.com/2024/10/exclusive-emails-reveal-how-health-departments-struggle-to-track-human-cases-of-bird-flu.html) (Nakedcapitalism.com)
 
 ## 24-44 (dengue)
 

@@ -1,8 +1,260 @@
 {
-  "last_updated": "2024-12-09 19:05",
-  "count_articles_total": 1177,
-  "count_articles_new": 8,
+  "last_updated": "2024-12-10 07:07",
+  "count_articles_total": 1196,
+  "count_articles_new": 16,
   "articles": [
+    {
+      "id": 16178,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "L'Express",
+      "author": "Victor Garcia",
+      "title": "Quels pays ont le mieux g\u00e9r\u00e9 la crise du Covid-19 ? Une \u00e9tude scientifique apporte la r\u00e9ponse",
+      "description": "Ces travaux, qui comparent les politiques de treize pays d\u2019Europe de l\u2019Ouest, montrent que les Etats qui ont pris des mesures le plus t\u00f4t ont sauv\u00e9 le plus de personnes et ont le mieux prot\u00e9g\u00e9 leur \u00e9conomie.",
+      "url": "https://www.lexpress.fr/sciences-sante/quels-pays-ont-le-mieux-gere-la-crise-du-covid-19-une-etude-scientifique-apporte-la-reponse-5LTIVL2YNBCGNESJV5CQEFVB3Y/",
+      "urlToImage": "https://www.lexpress.fr/resizer/v2/H2C2LNFR7ZCEFOOKOA4YQ5N2CE.jpg?auth=f3434ba0b5702ef6b1659c4626b33f6966f713d861142fdcafc4f22fbefe4b65&width=1200&height=630&quality=85&focal=1038%2C832",
+      "publishedAt": "2024-12-09 04:45:00",
+      "content": "La crise du Covid-19 a beau \u00eatre termin\u00e9e, la menace dune future pand\u00e9mie nest pas pourtant autant exclue. Les inqui\u00e9tudes des \u00e9pid\u00e9miologistes autour des cas de grippe aviaire H5N1 aux Etats-Unis ou\u2026 [+9998 chars]",
+      "retrievedAt": "2024-12-10 07:07:23.901256",
+      "internal_id": "0324f439a53e4b32edd3538d1693fe5a64c0350f5f1e6f9fc014ed2cb4d28f2a",
+      "publishedAtLabel": "Dec 9"
+    },
+    {
+      "id": 16189,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "SAM METZ Associated Press, RUTH ALONGA Associated Press",
+      "title": "Morocco produces Africa\u2019s first mpox tests as the continent tries to rely less on imports",
+      "description": "After African countries struggled to get testing kits during the COVID-19 pandemic, officials vowed to make the continent less dependent on imported medical supplies",
+      "url": "https://abcnews.go.com/Health/wireStory/morocco-produces-africas-mpox-tests-continent-rely-imports-116588354",
+      "urlToImage": "https://i.abcnewsfe.com/a/a8b9f8c8-aca6-41f2-9f5c-ed98868e17aa/wirestory_160a6ac88cf9f7f5cad729c4dea97cde_16x9.jpg?w=1600",
+      "publishedAt": "2024-12-09 04:30:32",
+      "content": "TAMESNA, Morocco -- After African countries struggled to get testing kits during the COVID-19 pandemic, officials vowed to make the continent less dependent on imported medical supplies. Now, in a fi\u2026 [+5375 chars]",
+      "retrievedAt": "2024-12-10 07:07:25.385937",
+      "internal_id": "5feea09530ff0127c99ebcdf0d4f39fc2af341db7dca6bb937692acb05c5b4e2",
+      "publishedAtLabel": "Dec 9"
+    },
+    {
+      "id": 16191,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "SAM METZ Associated Press, RUTH ALONGA Associated Press",
+      "title": "Morocco produces Africa\u2019s first mpox tests as the continent tries to rely less on imports",
+      "description": "After African countries struggled to get testing kits during the COVID-19 pandemic, officials vowed to make the continent less dependent on imported medical supplies",
+      "url": "https://abcnews.go.com/Business/wireStory/morocco-produces-africas-mpox-tests-continent-rely-imports-116588355",
+      "urlToImage": "https://i.abcnewsfe.com/a/a8b9f8c8-aca6-41f2-9f5c-ed98868e17aa/wirestory_160a6ac88cf9f7f5cad729c4dea97cde_16x9.jpg?w=1600",
+      "publishedAt": "2024-12-09 04:15:02",
+      "content": "TAMESNA, Morocco -- After African countries struggled to get testing kits during the COVID-19 pandemic, officials vowed to make the continent less dependent on imported medical supplies. Now, in a fi\u2026 [+5375 chars]",
+      "retrievedAt": "2024-12-10 07:07:25.401873",
+      "internal_id": "b798ecdd6dc62dfb6a6009ba9fee262c3b5aafd90a1444b8c688d739d5ebc720",
+      "publishedAtLabel": "Dec 9"
+    },
+    {
+      "id": 16188,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "SAM METZ Associated Press, RUTH ALONGA Associated Press",
+      "title": "Morocco produces Africa\u2019s first mpox tests as the continent tries to rely less on imports",
+      "description": "After African countries struggled to get testing kits during the COVID-19 pandemic, officials vowed to make the continent less dependent on imported medical supplies",
+      "url": "https://abcnews.go.com/International/wireStory/morocco-produces-africas-mpox-tests-continent-rely-imports-116588353",
+      "urlToImage": "https://i.abcnewsfe.com/a/a8b9f8c8-aca6-41f2-9f5c-ed98868e17aa/wirestory_160a6ac88cf9f7f5cad729c4dea97cde_16x9.jpg?w=1600",
+      "publishedAt": "2024-12-09 04:14:58",
+      "content": "TAMESNA, Morocco -- After African countries struggled to get testing kits during the COVID-19 pandemic, officials vowed to make the continent less dependent on imported medical supplies. Now, in a fi\u2026 [+5375 chars]",
+      "retrievedAt": "2024-12-10 07:07:25.378492",
+      "internal_id": "1f3f87f30b56cccae513c1e4bc345c15923301a5cb11504af41281a7cbc835f3",
+      "publishedAtLabel": "Dec 9"
+    },
+    {
+      "id": 16190,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "financial-post",
+      "source_name": "Financial Post",
+      "author": "The Associated Press",
+      "title": "Morocco produces Africa\u2019s first mpox tests as the continent tries to rely less on imports",
+      "description": "TAMESNA, Morocco (AP) \u2014 After African countries struggled to get testing kits during the COVID-19 pandemic, officials vowed to make the continent less dependent on imported medical supplies. Now, in a first for Africa, a Moroccan company is filling orders for\u2026",
+      "url": "https://financialpost.com/pmn/morocco-produces-africas-first-mpox-tests-as-the-continent-tries-to-rely-less-on-imports",
+      "urlToImage": null,
+      "publishedAt": "2024-12-09 04:11:45",
+      "content": "Author of the article: Article content TAMESNA, Morocco (AP) After African countries struggled to get testing kits during the COVID-19 pandemic, officials vowed to make the continent less dependent\u2026 [+8282 chars]",
+      "retrievedAt": "2024-12-10 07:07:25.393589",
+      "internal_id": "bea7e9d196118a6726dbdb884cf6f2068b0c032eb99d60cd5e44951103db0eb7",
+      "publishedAtLabel": "Dec 9"
+    },
+    {
+      "id": 16193,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "ScienceAlert",
+      "author": "Carly Cassella",
+      "title": "An Ancient Killer Is Rapidly Becoming Resistant to Antibiotics, Study Warns",
+      "description": "Typhoid fever might be rare in developed countries, but this ancient threat, thought to have been around for millennia, is still very much a danger in our modern world.",
+      "url": "https://www.sciencealert.com/an-ancient-killer-is-rapidly-becoming-resistant-to-antibiotics-study-warns",
+      "urlToImage": "https://www.sciencealert.com/images/2022-06/processed/Typhoidbacterium_1024.jpg",
+      "publishedAt": "2024-12-08 23:47:34",
+      "content": "Typhoid fever might be rare in developed countries, but this ancient threat, thought to have been around for millennia, is still very much a danger in our modern world. According to recent research,\u2026 [+4654 chars]",
+      "retrievedAt": "2024-12-10 07:07:25.716017",
+      "internal_id": "45c0aacaed8f6a9efea2b2e3a2c193a370180f92e186d5db231989c641da7039",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 16187,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "N-tv.de",
+      "author": "n-tv NACHRICHTEN",
+      "title": "WHO untersucht F\u00e4lle: \"Krankheit X\" vielleicht Folge von Malaria oder Covid-19",
+      "description": "In einer entlegenen Region im Kongo grassiert eine Krankheit mit grippe\u00e4hnlichen Symptomen, die f\u00fcr Betroffene t\u00f6dlich enden kann. Die WHO h\u00e4lt es f\u00fcr m\u00f6glich, dass bekannte Krankheiten die Ausl\u00f6ser sind.",
+      "url": "https://www.n-tv.de/wissen/Krankheit-X-vielleicht-Folge-von-Malaria-oder-Covid-19-article25418353.html",
+      "urlToImage": "https://bilder1.n-tv.de/img/incoming/crop25418352/7631325556-cImg_16_9-w1200/13214213.jpg",
+      "publishedAt": "2024-12-08 22:50:18",
+      "content": "In einer entlegenen Region im Kongo grassiert eine Krankheit mit grippe\u00e4hnlichen Symptomen, die f\u00fcr Betroffene t\u00f6dlich enden kann. Die WHO h\u00e4lt es f\u00fcr m\u00f6glich, dass bekannte Krankheiten die Ausl\u00f6ser \u2026 [+1841 chars]",
+      "retrievedAt": "2024-12-10 07:07:24.477928",
+      "internal_id": "afea79b396bf47c9715bb8edc7d5ab35abea98b7ad96d66f165336024b390f61",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 16181,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "ZEIT ONLINE: Gesundheit - Larissa K\u00f6gl",
+      "title": "Kongo: WHO vermutet \"Krankheit X\" als Folge von Malaria oder Covid-19",
+      "description": "Immer mehr Menschen erkranken im zentralafrikanischen Kongo an der unbekannten \"Krankheit X\". Nach Einsch\u00e4tzung der WHO k\u00f6nnten bereits bekannte Erreger die Ursache sein.",
+      "url": "https://www.zeit.de/gesundheit/2024-12/krankheit-x-kongo-who-ursache-covid-malaria",
+      "urlToImage": "https://img.zeit.de/gesundheit/2024-12/krankheit-x-kongo-who-ursache-covid-malaria-bild/wide__1300x731",
+      "publishedAt": "2024-12-08 22:37:17",
+      "content": "Die Weltgesundheitsorganisation (WHO) h\u00e4lt es f\u00fcr m\u00f6glich, dass die bisher unbekannte \"Krankheit X\" in der Demokratischen Republik Kongo auf bereits bekannte Ursachen zur\u00fcckzuf\u00fchren ist. Anhand der S\u2026 [+1298 chars]",
+      "retrievedAt": "2024-12-10 07:07:24.427045",
+      "internal_id": "ca1d6b952f6e5dc865d2cba8985e650328a077fbecf5d9069767b1dfa16ea256",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 16183,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Berliner Morgenpost",
+      "author": "FUNKE Mediengruppe",
+      "title": "WHO: \u201eKrankheit X\u201c vielleicht Folge von Malaria oder Covid",
+      "description": "Das R\u00e4tselraten um die \u201eKrankheit X\u201c im Kongo h\u00e4lt an. Die WHO h\u00e4lt es f\u00fcr m\u00f6glich, dass bekannte Krankheiten die Ausl\u00f6ser sind.",
+      "url": "https://www.morgenpost.de/panorama/article407856892/who-krankheit-x-vielleicht-folge-von-malaria-oder-covid.html",
+      "urlToImage": "https://img.sparknews.funkemedien.de/407856895/407856895_1733694782_v16_9_1600.jpeg",
+      "publishedAt": "2024-12-08 21:54:32",
+      "content": "Genf/Berlin. Das R\u00e4tselraten um die Krankheit X im Kongo h\u00e4lt an. Die WHO h\u00e4lt es f\u00fcr m\u00f6glich, dass bekannte Krankheiten die Ausl\u00f6ser sind. Die mysteri\u00f6se Krankheit X im S\u00fcdwesten der Demokratischen\u2026 [+1493 chars]",
+      "retrievedAt": "2024-12-10 07:07:24.442233",
+      "internal_id": "1cec74d8ba90d4b57f24e59c6e687010a88dbf3b0a29de1ed65c4e07431298f0",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 16185,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Hbvl.be",
+      "author": "hbvl.be",
+      "title": "\u201cOnbekende ziekte\u201d in Congo mogelijk gevolg van malaria of COVID-19, zegt WHO",
+      "description": "De Wereldgezondheidsorganisatie (WHO) denkt dat mogelijk bekende ziekten aan de oorzaak liggen van de mysterieuze ziekte die in het zuidwesten van de Democratische Republiek Congo is opgedoken. Daar werden al 406 besmettingen gemeld, 31 mensen kwamen om het l\u2026",
+      "url": "https://www.hbvl.be/cnt/dmf20241208_97858832",
+      "urlToImage": "https://static.hbvl.be/Assets/Images_Upload/2024/12/06/bd58192f-b7e9-484d-8d89-7f731a71b17a.jpg?maxheight=460&maxwidth=629",
+      "publishedAt": "2024-12-08 21:49:34",
+      "content": "De Wereldgezondheidsorganisatie (WHO) denkt dat mogelijk bekende ziekten aan de oorzaak liggen van de mysterieuze ziekte die in het zuidwesten van de Democratische Republiek Congo is opgedoken. Daar \u2026 [+1057 chars]",
+      "retrievedAt": "2024-12-10 07:07:24.462085",
+      "internal_id": "c55221364d738c3c68dcbd4ce3a2260a76d1e528e6057ded50458f770a448aff",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 16184,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Www.gva.be",
+      "author": "gva.be",
+      "title": "\u201cOnbekende ziekte\u201d in Congo mogelijk gevolg van malaria of COVID-19, zegt WHO",
+      "description": "De Wereldgezondheidsorganisatie (WHO) denkt dat mogelijk bekende ziekten aan de oorzaak liggen van de mysterieuze ziekte die in het zuidwesten van de Democratische Republiek Congo is opgedoken. Daar werden al 406 besmettingen gemeld, 31 mensen kwamen om het l\u2026",
+      "url": "https://www.gva.be/cnt/dmf20241208_97713233",
+      "urlToImage": "https://static.gva.be/Assets/Images_Upload/2024/12/06/bd58192f-b7e9-484d-8d89-7f731a71b17a.jpg?maxheight=460&maxwidth=629",
+      "publishedAt": "2024-12-08 21:23:22",
+      "content": "De Wereldgezondheidsorganisatie (WHO) denkt dat mogelijk bekende ziekten aan de oorzaak liggen van de mysterieuze ziekte die in het zuidwesten van de Democratische Republiek Congo is opgedoken. Daar \u2026 [+1057 chars]",
+      "retrievedAt": "2024-12-10 07:07:24.455115",
+      "internal_id": "0ae1ae55628ac011d4250d7ef30a485049bcac3812f5c54a159157047f84038a",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 16186,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Nieuwsblad.be",
+      "author": "nieuwsblad.be",
+      "title": "\u201cOnbekende ziekte\u201d in Congo mogelijk gevolg van malaria of COVID-19, zegt WHO",
+      "description": "De Wereldgezondheidsorganisatie (WHO) denkt dat mogelijk bekende ziekten aan de oorzaak liggen van de mysterieuze ziekte die in het zuidwesten van de Democratische Republiek Congo is opgedoken. Daar werden al 406 besmettingen gemeld, 31 mensen kwamen om het l\u2026",
+      "url": "https://www.nieuwsblad.be/cnt/dmf20241208_97675932",
+      "urlToImage": "https://static.nieuwsblad.be/Assets/Images_Upload/2024/12/06/bd58192f-b7e9-484d-8d89-7f731a71b17a.jpg?maxheight=460&maxwidth=638",
+      "publishedAt": "2024-12-08 21:18:46",
+      "content": "De Wereldgezondheidsorganisatie (WHO) denkt dat mogelijk bekende ziekten aan de oorzaak liggen van de mysterieuze ziekte die in het zuidwesten van de Democratische Republiek Congo is opgedoken. Daar \u2026 [+1057 chars]",
+      "retrievedAt": "2024-12-10 07:07:24.469431",
+      "internal_id": "7dde48b321b3c9693ac2d4b34d851a1c29cc4aea116be7261281ab5a1c212f3a",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 16192,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "abc-news-au",
+      "source_name": "ABC News (AU)",
+      "author": "Lauren Smith",
+      "title": "Perth gay venue offering free mpox vaccinations as cases rise across Australia",
+      "description": "As mpox cases continue to rise across Australia, a gay venue in Perth is offering free vaccinations and screening in a bid to get ahead of a potential outbreak.",
+      "url": "https://www.abc.net.au/news/2024-12-09/perth-gay-sauna-to-offer-free-monkeypox-vaccines/104695122",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/ed2304a39b22456c51c9cc0f1947195e?impolicy=wcms_watermark_news&cropH=1238&cropW=2200&xPos=0&yPos=206&width=862&height=485&imformat=generic",
+      "publishedAt": "2024-12-08 21:09:06",
+      "content": "As mpox cases continue to rise across Australia, a gay venue in Perth is offering free vaccinations. The vast majority of cases in the recent outbreak have been recorded in Victoria and New South Wa\u2026 [+3644 chars]",
+      "retrievedAt": "2024-12-10 07:07:25.409652",
+      "internal_id": "f15b3c13f610cd2d4530f6b19114d1a3aec41844a3d1a2b0fa7985a2799056a4",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 16182,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "ScienceAlert",
+      "author": "David Nield",
+      "title": "Promising New Malaria Vaccine Can Be Injected by Mosquito Bite",
+      "description": "Mosquitoes are normally associated with spreading malaria rather than preventing it, but in a new study scientists have used the insects to administer a promising new vaccine that could offer much better protection against the disease than current options.",
+      "url": "https://www.sciencealert.com/promising-new-malaria-vaccine-can-be-injected-by-mosquito-bite",
+      "urlToImage": "https://www.sciencealert.com/images/2024/11/MosquitoBite.jpg",
+      "publishedAt": "2024-12-08 20:00:26",
+      "content": "Mosquitoes are normally associated with spreading malaria rather than preventing it, but in a new study scientists have used the insects to administer a promising new vaccine that could offer much be\u2026 [+2970 chars]",
+      "retrievedAt": "2024-12-10 07:07:24.434799",
+      "internal_id": "3d0a1b30e715194ad8a3edafdd97b46a472d76882fa7e9df7c2e109e9b5d92f5",
+      "publishedAtLabel": "Dec 8"
+    },
     {
       "id": 16172,
       "query": [
@@ -274,6 +526,24 @@
       "content": "Brian Thompsons murder has already prompted other insurance companies to make a major mass decision After the Brian Thompson debacle, its clear were living in the worst nightmare of a member of an i\u2026 [+510 chars]",
       "retrievedAt": "2024-12-09 07:07:48.916716",
       "internal_id": "5b1e6d3f0106931477cedc72ded24194f4ab04f8ec6c2cc31fc7f9f06122a365",
+      "publishedAtLabel": "Dec 7"
+    },
+    {
+      "id": 16179,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Mother Jones",
+      "author": "Noah Lanard",
+      "title": "USDA to Require Testing of Milk to Monitor Spread of Bird Flu",
+      "description": "The United States Department of Agriculture will begin mandatory testing of US milk supplies for bird flu. The Friday announcement was a break from the previously voluntary testing program for the bird flu virus known as H5N1. This strain of bird flu was firs\u2026",
+      "url": "https://www.motherjones.com/politics/2024/12/usda-to-require-testing-of-milk-to-monitor-spread-of-bird-flu/",
+      "urlToImage": "https://www.motherjones.com/wp-content/uploads/2024/12/AP24341697334626.jpg?w=1200&h=630&crop=1",
+      "publishedAt": "2024-12-07 17:48:06",
+      "content": "A researcher performs a rapid antigen test on milk from a dairy cow inoculated against bird flu in a containment building at the National Animal Disease Center research facility in Ames, Iowa, in Jul\u2026 [+5942 chars]",
+      "retrievedAt": "2024-12-10 07:07:23.926677",
+      "internal_id": "3088b4578975dbb2028232d7534dda551c1c5edcfe59b42ac963acc005998f43",
       "publishedAtLabel": "Dec 7"
     },
     {
@@ -599,6 +869,24 @@
       "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
       "retrievedAt": "2024-12-08 07:06:09.460318",
       "internal_id": "3c211ba19e7bbcbc90f3b659cb17ab9ced6d06861c1c6e1eb77e534cb3671210",
+      "publishedAtLabel": "Dec 6"
+    },
+    {
+      "id": 16180,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Brenda Goodman",
+      "title": "US government to begin expanded testing of milk supply to better track the spread of bird flu | CNN",
+      "description": "The US Department of Agriculture is set to begin testing raw milk from dairy silos around the nation in an effort to better track the H5N1 bird flu that has been spreading in dairy cattle since March.",
+      "url": "https://www.cnn.com/2024/12/06/health/milk-supply-testing-bird-flu-usda/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2118661286.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-12-06 18:34:08",
+      "content": "The US Department of Agriculture will begin testing raw milk from dairy silos around the nation in an effort to better track the H5N1 bird flu that has been spreading in dairy cattle since March. Th\u2026 [+3355 chars]",
+      "retrievedAt": "2024-12-10 07:07:23.935447",
+      "internal_id": "37b9a416a0f51fd61600e7f46ff9d440dcdf1d2d7d14b11e89ff7ca5404230f6",
       "publishedAtLabel": "Dec 6"
     },
     {
@@ -21228,6 +21516,60 @@
       "content": "A man from northern Israel contracted rabies after being bitten by his pet dog, Israeli media reported on Sunday. According to the reports, the man was sent to intensive care following the bite and \u2026 [+236 chars]",
       "retrievedAt": "2024-10-29 07:06:33.659787",
       "internal_id": "9f1990124459b13d8c31fffeb273d60d6024a83d2f33b25f0489bb801d39d7b1",
+      "publishedAtLabel": "Oct 27"
+    },
+    {
+      "id": 14999,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Bola Bamigbola",
+      "title": "Experts caution FG on malaria vaccine mass rollout",
+      "description": "A group of scientists under the aegis of Living Science Foundation has called on the Federal Government to drop the plan to incorporate a newly developed malaria vaccine into the routine immunisation schedule in the country. This was contained in a press stat\u2026",
+      "url": "https://punchng.com/experts-caution-fg-on-malaria-vaccine-mass-rollout/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2024/10/27182204/Untitled.jpg",
+      "publishedAt": "2024-10-27 17:34:24",
+      "content": "A group of scientists under the aegis of Living Science Foundation has called on the Federal Government to drop the plan to incorporate a newly developed malaria vaccine into the routine immunisation\u2026 [+4204 chars]",
+      "retrievedAt": "2024-10-28 19:05:46.209733",
+      "internal_id": "4caaec3e97f371d7699b31c81c633a2cf4b18e1268fd03de902d4b8196bc0eb7",
+      "publishedAtLabel": "Oct 27"
+    },
+    {
+      "id": 15000,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "etimes.in",
+      "title": "What raises the risk of Typhoid among children living in crowded areas",
+      "description": "Typhoid, a bacterial infection common in tropical regions, spreads through contaminated food and water, often affecting children in overcrowded areas. Poor sanitation, including practices like open defecation and unhygienic food handling, heighten the risk. B\u2026",
+      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/what-raises-the-risk-of-typhoid-among-children-living-in-crowded-areas/articleshow/114660592.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-114660573,width-1070,height-580,imgsize-499179,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-10-27 15:43:05",
+      "content": "Body pain in women linked to their belly fat!",
+      "retrievedAt": "2024-10-28 19:05:47.103487",
+      "internal_id": "2cadd958732713478a87dee105bd71389debae8d6710c64cd26c1bcb8483934a",
+      "publishedAtLabel": "Oct 27"
+    },
+    {
+      "id": 14998,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Nakedcapitalism.com",
+      "author": "Conor Gallagher",
+      "title": "Exclusive: Emails Reveal How Health Departments Struggle To Track Human Cases of Bird Flu",
+      "description": "Emails show how health officials struggle to track the bird flu, partly in deference to the agricultural industry. As a result, researchers don\u2019t know how often farmworkers are being infected \u2014 and could miss alarming signals.",
+      "url": "https://www.nakedcapitalism.com/2024/10/exclusive-emails-reveal-how-health-departments-struggle-to-track-human-cases-of-bird-flu.html",
+      "urlToImage": "https://www.nakedcapitalism.com/wp-content/uploads/2024/10/1-1024x672.png",
+      "publishedAt": "2024-10-27 09:00:23",
+      "content": "Conor here: Entirely unsurprising, especially if you read Lamberts Oct. 24 piece Biden Bets on Let Er Rip with a SECOND Pandemic-Grade Virus: H5N1 (Bird Flu). That dealt largely with cattle. The foll\u2026 [+11520 chars]",
+      "retrievedAt": "2024-10-28 19:05:45.295162",
+      "internal_id": "3ed6f65ff026efe8905684b1c8d64766c6085fdc240e1a19386781164ccf7f86",
       "publishedAtLabel": "Oct 27"
     }
   ]
