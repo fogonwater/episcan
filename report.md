@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
 - **New articles in last harvest:** 16
-- **Last harvest:** 2024-12-10 07:07
-- **Most recent article:** 2024-12-09 04:45:00
+- **Last harvest:** 2024-12-10 19:06
+- **Most recent article:** 2024-12-09 17:58:00
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-44 | 24-45 | 24-46 | 24-47 | 24-48 | 24-49 | 24-50 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 75 | 63 | 62 | 76 | 26 | 20 | 5 | 327 |
-| h5n1 | 61 | 36 | 40 | 50 | 38 | 69 | 6 | 300 |
-| malaria | 16 | 26 | 33 | 27 | 29 | 27 | 9 | 167 |
-| dengue | 30 | 31 | 36 | 28 | 25 | 10 | 0 | 160 |
-| measles | 13 | 3 | 33 | 11 | 6 | 9 | 2 | 77 |
+| mpox | 75 | 63 | 62 | 76 | 26 | 20 | 7 | 329 |
+| h5n1 | 60 | 36 | 40 | 50 | 38 | 69 | 13 | 306 |
+| malaria | 15 | 26 | 33 | 27 | 29 | 27 | 13 | 170 |
+| dengue | 30 | 31 | 36 | 28 | 25 | 10 | 1 | 161 |
+| measles | 13 | 3 | 33 | 11 | 6 | 9 | 3 | 78 |
 | rabies | 10 | 5 | 11 | 7 | 12 | 13 | 0 | 58 |
+| zika | 3 | 9 | 4 | 3 | 1 | 4 | 1 | 25 |
+| chikungunya | 2 | 2 | 3 | 5 | 4 | 6 | 2 | 24 |
 | pertussis | 1 | 3 | 8 | 5 | 1 | 4 | 2 | 24 |
-| zika | 3 | 9 | 4 | 3 | 1 | 4 | 0 | 24 |
 | hpai | 7 | 4 | 4 | 4 | 0 | 2 | 1 | 22 |
-| chikungunya | 2 | 2 | 3 | 5 | 4 | 6 | 0 | 22 |
 | meningitis | 3 | 5 | 2 | 5 | 3 | 3 | 0 | 21 |
 | leptospirosis | 3 | 10 | 3 | 0 | 2 | 0 | 0 | 18 |
-| typhoid | 4 | 1 | 1 | 3 | 1 | 0 | 1 | 11 |
+| typhoid | 3 | 1 | 1 | 3 | 1 | 0 | 1 | 10 |
 | yersinia | 3 | 0 | 0 | 1 | 1 | 0 | 0 | 5 |
 | shigellosis | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 1 |
 
@@ -32,6 +32,10 @@ By US epiweek (i.e. Sunday to Saturday)
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 24-50 (zika)
+
+- [Cientistas alertam para riscos de dengue, chikungunya e a Zika em Portugal](https://observador.pt/2024/12/09/cientistas-alertam-para-riscos-de-dengue-chikungunya-e-a-zika-em-portugal/) (Observador.pt)
 
 ## 24-50 (typhoid)
 
@@ -45,6 +49,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-50 (mpox)
 
+- [«Krankheit X» verbreitet sich in Kongo-Kinshasa – ein unbekannter Erreger verursacht Grippesymptome und Todesfälle](https://www.nzz.ch/wissenschaft/krankheit-x-verursacht-todesfaelle-bei-kindern-in-kongo-kinshasa-ld.1861482) (Www.nzz.ch)
+
+- [Perth gay venue offers free mpox screening, vaccinations](https://www.abc.net.au/news/2024-12-09/perth-gay-venue-offers-free-mpox-screening,/104705224) (ABC News (AU))
+
 - [Morocco produces Africa’s first mpox tests as the continent tries to rely less on imports](https://abcnews.go.com/Health/wireStory/morocco-produces-africas-mpox-tests-continent-rely-imports-116588354) (ABC News)
 
 - [Morocco produces Africa’s first mpox tests as the continent tries to rely less on imports](https://abcnews.go.com/Business/wireStory/morocco-produces-africas-mpox-tests-continent-rely-imports-116588355) (ABC News)
@@ -57,11 +65,21 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-50 (measles)
 
+- [How measles, whooping cough, and worse could roar back on RFK Jr.’s watch](https://www.pennlive.com/health/2024/12/how-measles-whooping-cough-and-worse-could-roar-back-on-rfk-jrs-watch.html) (PennLive)
+
 - [Mysterious New Disease X Is Officially Here, Potentially Airborne](https://www.newsbreak.com/share/3706705509412-mysterious-new-disease-x-is-officially-here-potentially-airborne?s=a2&amp;share_destination_id=MTg0MzY1NzI5LTE3MzM2NzY0MDE4NzY%3D&amp;pd=0CTZwnpM&amp;hl=en_US&amp;send_time=1733676401&amp;actBtn=feedbackShareButton&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2224.49.0%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_recall_exp_24q4-v3%2Cns_foryou_model_exp_24q4-v9%2Cns_foryou_blend_exp_24q4-v2%2Cns_local_strategy_24q4_exp-v8%2Cns_push_exp_rt_bucketv12-v9%2Cns_foryou_rank_exp_24q4-v5) (Newsbreak.com)
 
 - [Mysterious New Disease X Is Officially Here, Potentially Airborne](https://www.newsbreak.com/share/3706705509412-mysterious-new-disease-x-is-officially-here-potentially-airborne?_f=app_share&amp;pd=0EuIdPvZ&amp;lang=en_US&amp;send_time=1733680315&amp;trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2224.48.0.25%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_local_strategy_24q4_exp-v11%2Cns_push_exp_rt_bucketv12-control%2Cns_foryou_rank_exp_24q4-v4%2Cns_foryou_blend_exp_24q4-v6%2Cns_foryou_model_exp_24q4-v8%2Cns_foryou_recall_exp_24q4-v7&amp;s=i2) (Newsbreak.com)
 
 ## 24-50 (malaria)
+
+- [A potent and selective reaction hijacking inhibitor of Plasmodium falciparum tyrosine tRNA synthetase exhibits single dose oral efficacy in vivo](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012429) (Plos.org)
+
+- [Correction: Expanding the role of village malaria workers in Cambodia: Implementation and evaluation of four health education packages](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0315636) (Plos.org)
+
+- [Sin ciencia no hay salud, sin salud no hay futuro](https://www.abc.es/economia/ciencia-salud-salud-futuro-20241209161117-nt.html) (Www.abc.es)
+
+- [„Krankheit X“ vielleicht Folge von Malaria oder Covid-19](https://science.orf.at/stories/3227930/) (Science.orf.at)
 
 - [WHO untersucht Fälle: "Krankheit X" vielleicht Folge von Malaria oder Covid-19](https://www.n-tv.de/wissen/Krankheit-X-vielleicht-Folge-von-Malaria-oder-Covid-19-article25418353.html) (N-tv.de)
 
@@ -87,6 +105,20 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-50 (h5n1)
 
+- [¿Podría la gripe aviar H5N1 representar un riesgo para los humanos?](https://www.dw.com/es/podr%C3%ADa-la-gripe-aviar-h5n1-representar-un-riesgo-para-los-humanos/a-71006872) (DW (English))
+
+- [El 61% de los argentinos ve poco o nada grave querer reducir el Estado al mínimo.](https://finofilipino.org/el-61-de-los-argentinos-ve-poco-o-nada-grave-querer-reducir-el-estado-al-minimo/) (Finofilipino.org)
+
+- [Edad media a la que la gente joven deja el hogar paterno en Europa (2023)](https://finofilipino.org/edad-media-a-la-que-la-gente-joven-deja-el-hogar-paterno-en-europa-2023/) (Finofilipino.org)
+
+- [Mi extraña adicción: ¿Real o FALSO?](https://finofilipino.org/mi-extrana-adiccion-real-o-falso/) (Finofilipino.org)
+
+- [Alguien se ha quedado a gusto hoy en la redacción de La Sexta…](https://finofilipino.org/alguien-se-ha-quedado-a-gusto-hoy-en-la-redaccion-de-la-sexta/) (Finofilipino.org)
+
+- [La parte mala de la adolescencia de un hombre es una inversión de futuro.](https://finofilipino.org/la-parte-mala-de-la-adolescencia-de-un-hombre-es-una-inversion-de-futuro/) (Finofilipino.org)
+
+- [Estamos a una sola mutación de que el virus H5N1 se contagie entre humanos](https://finofilipino.org/estamos-a-una-sola-mutacion-de-que-el-virus-h5n1-se-contagie-entre-humanos/) (Finofilipino.org)
+
 - [Quels pays ont le mieux géré la crise du Covid-19 ? Une étude scientifique apporte la réponse](https://www.lexpress.fr/sciences-sante/quels-pays-ont-le-mieux-gere-la-crise-du-covid-19-une-etude-scientifique-apporte-la-reponse-5LTIVL2YNBCGNESJV5CQEFVB3Y/) (L'Express)
 
 - [Wann die Vogelgrippe für Menschen gefährlich wird: Bereits winzige Änderung würde ausreichen](https://www.tagesspiegel.de/wissen/wann-die-vogelgrippe-fur-menschen-gefahrlich-wird-bereits-winzige-anderung-wurde-ausreichen-12841436.html) (Der Tagesspiegel)
@@ -98,6 +130,16 @@ Source: [News API](https://newsapi.org/)
 - [Spredningen af fugleinfluenza bekymrer: Smitte mellem mennesker rykker nærmere](https://ing.dk/artikel/spredningen-af-fugleinfluenza-bekymrer-smitte-mellem-mennesker-rykker-naermere) (Ing.dk)
 
 - [Эксперт: без вакцинации ускоряется преодоление межвидового барьера птичьего гриппа](https://tass.ru/obschestvo/22608023) (Tass.ru)
+
+## 24-50 (dengue)
+
+- [Cientistas alertam para riscos de dengue, chikungunya e a Zika em Portugal](https://observador.pt/2024/12/09/cientistas-alertam-para-riscos-de-dengue-chikungunya-e-a-zika-em-portugal/) (Observador.pt)
+
+## 24-50 (chikungunya)
+
+- [Strategic vaccination responses to Chikungunya outbreaks in Rome: Insights from a dynamic transmission model](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012713) (Plos.org)
+
+- [Cientistas alertam para riscos de dengue, chikungunya e a Zika em Portugal](https://observador.pt/2024/12/09/cientistas-alertam-para-riscos-de-dengue-chikungunya-e-a-zika-em-portugal/) (Observador.pt)
 
 ## 24-49 (zika)
 
@@ -2211,8 +2253,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Time to Get Typhoid! Classic Oregon Trail Video Game to Get Movie Treatment](https://reactormag.com/time-to-get-typhoid-classic-oregon-trail-video-game-to-get-movie-treatment/) (Reactormag.com)
 
-- [What raises the risk of Typhoid among children living in crowded areas](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/what-raises-the-risk-of-typhoid-among-children-living-in-crowded-areas/articleshow/114660592.cms) (The Times of India)
-
 ## 24-44 (rabies)
 
 - [Instagram famous squirrel named Peanut euthanised by New York authorities](https://www.abc.net.au/news/2024-11-02/peanut-the-internet-famous-squirrel-euthanised-authorities/104552922) (ABC News (AU))
@@ -2459,8 +2499,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Ogun, SFH deploy 1,180 town announcers for mosquito nets distribution](https://punchng.com/ogun-sfh-deploy-1180-town-announcers-for-mosquito-nets-distribution/) (The Punch)
 
-- [Experts caution FG on malaria vaccine mass rollout](https://punchng.com/experts-caution-fg-on-malaria-vaccine-mass-rollout/) (The Punch)
-
 ## 24-44 (leptospirosis)
 
 - [Martín-Moreno, catedrático de la UV: "A las 72 horas de la inundación se agravan los riesgos de infección, hay que poner medidas ya"](https://www.meneame.net/m/actualidad/martin-moreno-catedratico-uv-72-horas-inundacion-agravan-riesgos) (Meneame.net)
@@ -2606,8 +2644,6 @@ Source: [News API](https://newsapi.org/)
 - [H5N1 virus isolated from infected dairy worker is 100% lethal in ferrets, but does not appear to be circulating in nature anymore](https://www.sciencedaily.com/releases/2024/10/241028131451.htm) (Science Daily)
 
 - [Flu season will complicate tracking spread of H5N1 avian influenza](https://www.statnews.com/2024/10/28/flu-season-presents-challenges-in-tracking-h5n1-avian-influenza-outbreak/) (STAT)
-
-- [Exclusive: Emails Reveal How Health Departments Struggle To Track Human Cases of Bird Flu](https://www.nakedcapitalism.com/2024/10/exclusive-emails-reveal-how-health-departments-struggle-to-track-human-cases-of-bird-flu.html) (Nakedcapitalism.com)
 
 ## 24-44 (dengue)
 

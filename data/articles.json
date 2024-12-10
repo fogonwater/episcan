@@ -1,8 +1,298 @@
 {
-  "last_updated": "2024-12-10 07:07",
-  "count_articles_total": 1196,
+  "last_updated": "2024-12-10 19:06",
+  "count_articles_total": 1209,
   "count_articles_new": 16,
   "articles": [
+    {
+      "id": 16201,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "DW (English)",
+      "author": "Matthew Ward Agius",
+      "title": "\u00bfPodr\u00eda la gripe aviar H5N1 representar un riesgo para los humanos?",
+      "description": "Los pa\u00edses compran vacunas contra la gripe aviar H5N1, mientras el virus se propaga entre el ganado de EE. UU. Algunos expertos dicen que el H5N1 puede mutar y ser una amenaza para la salud p\u00fablica internacional. La propagaci\u00f3n de la gripe aviar H5N1 en Estad\u2026",
+      "url": "https://www.dw.com/es/podr%C3%ADa-la-gripe-aviar-h5n1-representar-un-riesgo-para-los-humanos/a-71006872",
+      "urlToImage": "https://static.dw.com/image/69161110_6.jpg",
+      "publishedAt": "2024-12-09 17:58:00",
+      "content": "La propagaci\u00f3n de la gripe aviar H5N1 en Estados Unidos tiene tambi\u00e9n en alerta a otros pa\u00edses. Algunos gobiernos compran existencias de vacunas y aumentan las medidas de precauci\u00f3n en respuesta al v\u2026 [+4376 chars]",
+      "retrievedAt": "2024-12-10 19:06:06.409384",
+      "internal_id": "7821c865da218185e3a1a08b1f1dbbd278421076c661006234939082744c1a7d",
+      "publishedAtLabel": "Dec 9"
+    },
+    {
+      "id": 16209,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.nzz.ch",
+      "author": "Stephanie Lahrtz (slz)",
+      "title": "\u00abKrankheit X\u00bb verbreitet sich in Kongo-Kinshasa \u2013 ein unbekannter Erreger verursacht Grippesymptome und Todesf\u00e4lle",
+      "description": "Noch besteht laut mehreren Gesundheitsbeh\u00f6rden kein Grund zur Panik. Es k\u00f6nnte zwar ein v\u00f6llig neuer Erreger sein. Aber auch eine andere Erkl\u00e4rung ist plausibel.",
+      "url": "https://www.nzz.ch/wissenschaft/krankheit-x-verursacht-todesfaelle-bei-kindern-in-kongo-kinshasa-ld.1861482",
+      "urlToImage": "https://img.nzz.ch/2024/12/09/58051bfc-a7a9-41f0-bc5b-0eea4993acb7.jpeg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=8126,4571,x0,y362&wmark=nzz",
+      "publishedAt": "2024-12-09 14:57:33",
+      "content": "W\u00e4hrend sich im S\u00fcdwesten von Kongo-Kinshasa die \"Krankheit X\" ausbreitet, k\u00e4mpfen Experten anderswo in speziellen Behandlungszentren (wie hier gezeigt) gegen Mpox-Viren. Seit Ende Oktober sind bei \u2026 [+5287 chars]",
+      "retrievedAt": "2024-12-10 19:06:08.458073",
+      "internal_id": "d31f17d58c4c270e47c4a250272dc91d24dc1fd3cc08072a5decbb55b22692b0",
+      "publishedAtLabel": "Dec 9"
+    },
+    {
+      "id": 16194,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "PennLive",
+      "author": "The Associated Press",
+      "title": "How measles, whooping cough, and worse could roar back on RFK Jr.\u2019s watch",
+      "description": "State legislators who question vaccine safety are poised to introduce bills to weaken school-entry vaccine requirements or do away with them altogether.",
+      "url": "https://www.pennlive.com/health/2024/12/how-measles-whooping-cough-and-worse-could-roar-back-on-rfk-jrs-watch.html",
+      "urlToImage": "https://www.pennlive.com/resizer/v2/YXSHTKW6A5CUDGWC5JPR22Q3QI.jpg?auth=9ceb394d5dda877cd3e13ec725f6f1c40848dc4c69314459cb246975e63c2719&width=1280&quality=90",
+      "publishedAt": "2024-12-09 14:02:16",
+      "content": "By Arthur Allen, KFF Health News (TNS) The availability of safe, effective COVID vaccines less than a year into the pandemic marked a high point in the 300-year history of vaccination, seemingly her\u2026 [+11580 chars]",
+      "retrievedAt": "2024-12-10 19:06:05.432368",
+      "internal_id": "fcc5f411d4f70dd4d38274c74b20a886e42501bd9eef4382a1ebcb0995ae5433",
+      "publishedAtLabel": "Dec 9"
+    },
+    {
+      "id": 16205,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Stanley C. Xie, Chia-Wei Tai, Craig J. Morton, Liting Ma, Shih-Chung Huang, Sergio Wittlin, Yawei Du, Yongbo Hu, Con Dogovski, Mina Salimimarand, Robert Griffin, Dylan England, Elisa de la Cruz, Ioanna Deni, Tomas Yeo, Anna Y. Burkhard, Josefine Striepen, Kyra A. Schindler, Benigno Crespo, Francisco J. Gamo, Yogesh Khandokar, Craig A. Hutton, Tayla Rabie, Lyn-Mari\u00e9 Birkholtz, Mufuliat T. Famodimu, Michael J. Delves, Judith Bolsher, Karin M. J. Koolen, Rianne van der Laak, Anna C. C. Aguiar, Dhelio B. Pereira, Rafael V. C. Guido, Darren J. Creek, David A. Fidock, Lawrence R. Dick, Stephen L. Brand, Alexandra E. Gould, Steven Langston, Michael D. W. Griffin, Leann Tilley",
+      "title": "A potent and selective reaction hijacking inhibitor of Plasmodium falciparum tyrosine tRNA synthetase exhibits single dose oral efficacy in vivo",
+      "description": "Author summary Malaria is a devastating disease caused by the Plasmodium parasite, with more than 200 million cases and 600,000 deaths reported in 2022. Worryingly, the emergence of clinically artemisinin-resistant P. falciparum was first identified in Southe\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012429",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1012429.g006&size=inline",
+      "publishedAt": "2024-12-09 14:00:00",
+      "content": "Citation: Xie SC, Tai C-W, Morton CJ, Ma L, Huang S-C, Wittlin S, et al. (2024) A potent and selective reaction hijacking inhibitor of Plasmodium falciparum tyrosine tRNA synthetase exhibits single d\u2026 [+67362 chars]",
+      "retrievedAt": "2024-12-10 19:06:07.464542",
+      "internal_id": "8c3f9fe83a44471014b8daeb607755d9d85a98c427052a2d783af963ad164d3d",
+      "publishedAtLabel": "Dec 9"
+    },
+    {
+      "id": 16206,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Mipharny Betrian, Dafne Umans, Moul Vanna, Sam Ol, Bipin Adhikari, Chan Davoeung, James J. Callery, Yok Sovann, Thomas J. Peto, Richard J. Maude, Rob W. van der Pluijm, Voeurng Bunreth, Martin P. Grobusch, Mich\u00e8le van Vugt, Yoel Lubell, Lorenz von Seidlein, Arjen M. Dondorp, Siv Sovannaroth, Dysoley Lek, Rupam Tripura",
+      "title": "Correction: Expanding the role of village malaria workers in Cambodia: Implementation and evaluation of four health education packages",
+      "description": "",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0315636",
+      "urlToImage": null,
+      "publishedAt": "2024-12-09 14:00:00",
+      "content": "The 12th authors name is spelled incorrectly. The correct name is: Voeurng Bunreth.Citation: Betrian M, Umans D, Vanna M, Ol S, Adhikari B, Davoeung C, et al. (2024) Correction: Expanding the role of\u2026 [+475 chars]",
+      "retrievedAt": "2024-12-10 19:06:07.471988",
+      "internal_id": "1e01291b792dd8f5490ce05cca8a4d7cf2da8d247858d6f7ed58d0f84c38229a",
+      "publishedAtLabel": "Dec 9"
+    },
+    {
+      "id": 16207,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Albertus Constantijn Sloof, Martijn Boer, Gerard T. Vondeling, Adrianne M. de Roo, Juan Carlos Jaramillo, Maarten J. Postma",
+      "title": "Strategic vaccination responses to Chikungunya outbreaks in Rome: Insights from a dynamic transmission model",
+      "description": "Author summary Chikungunya virus (CHIKV) outbreaks, exacerbated by the spread of the Aedes albopictus mosquito and climate change, are a growing public health concern. Our study explores the potential impact of emergency vaccination during a large-scale CHIKV\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012713",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012713.g001&size=inline",
+      "publishedAt": "2024-12-09 14:00:00",
+      "content": "Abstract Background Chikungunya virus (CHIKV) outbreaks, driven by the expanding habitat of the Aedes albopictus mosquito and global climate change, pose a significant threat to public health. Our \u2026 [+52293 chars]",
+      "retrievedAt": "2024-12-10 19:06:08.017350",
+      "internal_id": "570c8168d5d974dc7d020e993a432bdd8d2c04b89e4f0f70c9d03efe18231def",
+      "publishedAtLabel": "Dec 9"
+    },
+    {
+      "id": 16196,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Finofilipino.org",
+      "author": "Fino",
+      "title": "El 61% de los argentinos ve poco o nada grave querer reducir el Estado al m\u00ednimo.",
+      "description": "@jdoedoe101101 Ver post completo: El 61% de los argentinos ve poco o nada grave querer reducir el Estado al m\u00ednimo.",
+      "url": "https://finofilipino.org/el-61-de-los-argentinos-ve-poco-o-nada-grave-querer-reducir-el-estado-al-minimo/",
+      "urlToImage": "https://finofilipino.org/wp-content/uploads/2024/12/serfqwrgwr.jpg",
+      "publishedAt": "2024-12-09 13:00:49",
+      "content": "Una sola mutaci\u00f3n en el virus de la gripe aviar H5N1 puede hacer que el virus cambie su afinidad de receptores de tipo animal a receptores de tipo humano y aumentar el riesgo de desencadenar una futu\u2026 [+98 chars]",
+      "retrievedAt": "2024-12-10 19:06:06.362677",
+      "internal_id": "3afb45e93645b15a305571763d76557dc48a4270b741f79498c5492fff1bc6a9",
+      "publishedAtLabel": "Dec 9"
+    },
+    {
+      "id": 16202,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Observador.pt",
+      "author": "Ag\u00eancia Lusa",
+      "title": "Cientistas alertam para riscos de dengue, chikungunya e a Zika em Portugal",
+      "description": "O mosquito 'Aedesalbopictus', que pode transmitir dengue, Zika e chikungunya, tem grande capacidade de adapta\u00e7\u00e3o, o que facilita a sua dissemina\u00e7\u00e3o, especialmente em \u00e1reas urbanas Lisboa e Faro.",
+      "url": "https://observador.pt/2024/12/09/cientistas-alertam-para-riscos-de-dengue-chikungunya-e-a-zika-em-portugal/",
+      "urlToImage": "https://wm.observador.pt/wm/obs/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A1002%3A562%3Anowe%3A0%3A0%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2024%2F03%2F20150705%2F42469414.jpg",
+      "publishedAt": "2024-12-09 12:55:26",
+      "content": "Investigadores do Laborat\u00f3rio Associado Terra alertaram esta segunda-feira para os riscos para a sa\u00fade p\u00fablica da presen\u00e7a em Portugal do mosquito \u2018Aedes albopictus\u2019, que pode transmitir doen\u00e7as vira\u2026 [+2788 chars]",
+      "retrievedAt": "2024-12-10 19:06:06.834001",
+      "internal_id": "b044f3a800cdedcd65109032544bb1f8744ee02143d487ac9a9ca1f354488ea0",
+      "publishedAtLabel": "Dec 9"
+    },
+    {
+      "id": 16200,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Finofilipino.org",
+      "author": "Fino",
+      "title": "Edad media a la que la gente joven deja el hogar paterno en Europa (2023)",
+      "description": "@landgeist Ver post completo: Edad media a la que la gente joven deja el hogar paterno en Europa (2023)",
+      "url": "https://finofilipino.org/edad-media-a-la-que-la-gente-joven-deja-el-hogar-paterno-en-europa-2023/",
+      "urlToImage": "https://finofilipino.org/wp-content/uploads/2024/12/sedfqdwergw.jpg",
+      "publishedAt": "2024-12-09 12:30:50",
+      "content": "Una sola mutaci\u00f3n en el virus de la gripe aviar H5N1 puede hacer que el virus cambie su afinidad de receptores de tipo animal a receptores de tipo humano y aumentar el riesgo de desencadenar una futu\u2026 [+98 chars]",
+      "retrievedAt": "2024-12-10 19:06:06.392146",
+      "internal_id": "5c681ebcf575eae52ab282f2704336650e4006ca6968bf1029fbc1ecd6d04652",
+      "publishedAtLabel": "Dec 9"
+    },
+    {
+      "id": 16198,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Finofilipino.org",
+      "author": "Fino",
+      "title": "Mi extra\u00f1a adicci\u00f3n: \u00bfReal o FALSO?",
+      "description": "\u00bfPuede un hombre tener relaciones con su coche? \u00bfO es teatrillo? Ver post completo: Mi extra\u00f1a adicci\u00f3n: \u00bfReal o FALSO?",
+      "url": "https://finofilipino.org/mi-extrana-adiccion-real-o-falso/",
+      "urlToImage": "https://finofilipino.org/wp-content/uploads/2024/12/werfaqwewertg.jpg",
+      "publishedAt": "2024-12-09 12:00:17",
+      "content": "Una sola mutaci\u00f3n en el virus de la gripe aviar H5N1 puede hacer que el virus cambie su afinidad de receptores de tipo animal a receptores de tipo humano y aumentar el riesgo de desencadenar una futu\u2026 [+98 chars]",
+      "retrievedAt": "2024-12-10 19:06:06.377841",
+      "internal_id": "473e559e67740f663e7e621d5e25522257b6f48a22ac4091bdab122a91cfacf7",
+      "publishedAtLabel": "Dec 9"
+    },
+    {
+      "id": 16199,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Finofilipino.org",
+      "author": "Fino",
+      "title": "Alguien se ha quedado a gusto hoy en la redacci\u00f3n de La Sexta\u2026",
+      "description": "Creo que en este caso, publicaron esta noticia solo para darle el gusto de hacer el chiste al rotulista de la sexta. Contexto: (es una monja que trabaj\u00f3 para la mafia Calabresa). @Tigr\u00e9nidas. Ver post completo: Alguien se ha quedado a gusto hoy en la redacci\u00f3\u2026",
+      "url": "https://finofilipino.org/alguien-se-ha-quedado-a-gusto-hoy-en-la-redaccion-de-la-sexta/",
+      "urlToImage": "https://finofilipino.org/wp-content/uploads/2024/12/rewwdqaecrsetgherh.jpg",
+      "publishedAt": "2024-12-09 11:30:31",
+      "content": "Una sola mutaci\u00f3n en el virus de la gripe aviar H5N1 puede hacer que el virus cambie su afinidad de receptores de tipo animal a receptores de tipo humano y aumentar el riesgo de desencadenar una futu\u2026 [+98 chars]",
+      "retrievedAt": "2024-12-10 19:06:06.384535",
+      "internal_id": "5b59d4a4f817e2075c6dfe1d768e3c6edb4b9163eecc9d9e828a2a70ddc4955d",
+      "publishedAtLabel": "Dec 9"
+    },
+    {
+      "id": 16197,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Finofilipino.org",
+      "author": "Fino",
+      "title": "La parte mala de la adolescencia de un hombre es una inversi\u00f3n de futuro.",
+      "description": "@MMcgei Ver post completo: La parte mala de la adolescencia de un hombre es una inversi\u00f3n de futuro.",
+      "url": "https://finofilipino.org/la-parte-mala-de-la-adolescencia-de-un-hombre-es-una-inversion-de-futuro/",
+      "urlToImage": "https://finofilipino.org/wp-content/uploads/2024/12/werfdqewrwrgtw.jpg",
+      "publishedAt": "2024-12-09 11:00:33",
+      "content": "Una sola mutaci\u00f3n en el virus de la gripe aviar H5N1 puede hacer que el virus cambie su afinidad de receptores de tipo animal a receptores de tipo humano y aumentar el riesgo de desencadenar una futu\u2026 [+98 chars]",
+      "retrievedAt": "2024-12-10 19:06:06.370335",
+      "internal_id": "765a7918a20e57998c4370f5d7d97d3230f07e493564c1958548a7f7ca699532",
+      "publishedAtLabel": "Dec 9"
+    },
+    {
+      "id": 16208,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "abc-news-au",
+      "source_name": "ABC News (AU)",
+      "author": null,
+      "title": "Perth gay venue offers free mpox screening, vaccinations",
+      "description": "Follow the latest news headlines from Australia's most trusted source. Read in-depth expert analysis and watch live coverage on ABC News.",
+      "url": "https://www.abc.net.au/news/2024-12-09/perth-gay-venue-offers-free-mpox-screening,/104705224",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/e7003f91b456c180bded5778b847bf74?impolicy=wcms_watermark_news&cropH=576&cropW=1024&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+      "publishedAt": "2024-12-09 10:38:51",
+      "content": "A Perth gay venue is offering free mpox screening and vaccinations to try to head off any significant outbreak.",
+      "retrievedAt": "2024-12-10 19:06:08.443870",
+      "internal_id": "bc8bab5b55eb801cf3fa46ee1766c3e8992ea5e5281c166ac048fc4192c6e2a7",
+      "publishedAtLabel": "Dec 9"
+    },
+    {
+      "id": 16204,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Www.abc.es",
+      "author": "(abc)",
+      "title": "Sin ciencia no hay salud, sin salud no hay futuro",
+      "description": "Seg\u00fan la Organizaci\u00f3n Mundial de la Salud, m\u00e1s de 240 millones de personas contraen malaria cada a\u00f1o, un mill\u00f3n de personas mueren de tuberculosis y las resistencias a los antibi\u00f3ticos se han convertido ya en una de las diez amenazas para la salud p\u00fablica mun\u2026",
+      "url": "https://www.abc.es/economia/ciencia-salud-salud-futuro-20241209161117-nt.html",
+      "urlToImage": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/12/09/GSK-centro-de-innovacion10-U14867063858eJK-1024x512@diario_abc.jpg",
+      "publishedAt": "2024-12-09 10:00:19",
+      "content": "Seg\u00fan la Organizaci\u00f3n Mundial de la Salud, m\u00e1s de 240 millones de personas contraen malaria cada a\u00f1o, un mill\u00f3n de personas mueren de tuberculosis y las resistencias a los antibi\u00f3ticos se han convert\u2026 [+3974 chars]",
+      "retrievedAt": "2024-12-10 19:06:07.447742",
+      "internal_id": "239533a3b3330216fbb0f43148b3d02977e7a6b4e9d3ccf58b725c13c082682a",
+      "publishedAtLabel": "Dec 9"
+    },
+    {
+      "id": 16195,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Finofilipino.org",
+      "author": "Fino",
+      "title": "Estamos a una sola mutaci\u00f3n de que el virus H5N1 se contagie entre humanos",
+      "description": "Una sola mutaci\u00f3n en el virus de la gripe aviar H5N1 puede hacer que el virus cambie su afinidad de receptores de tipo animal a receptores de tipo humano y aumentar el riesgo de desencadenar una futura pandemia de gripe, seg\u00fan un nuevo estudio publicado este \u2026",
+      "url": "https://finofilipino.org/estamos-a-una-sola-mutacion-de-que-el-virus-h5n1-se-contagie-entre-humanos/",
+      "urlToImage": "https://finofilipino.org/wp-content/uploads/2024/12/sdfvcdgfbdfbgdn.jpg",
+      "publishedAt": "2024-12-09 10:00:11",
+      "content": "Fue el responsable de Al Qaeda en Siria. Designado como terrorista por Estados Unidos y la ONU, Washington ofrezca por su cabeza 10 millones de d\u00f3lares. Abu Mohamed Al Jolani, que ha encabezado con s\u2026 [+290 chars]",
+      "retrievedAt": "2024-12-10 19:06:06.323330",
+      "internal_id": "b5fe59410b79439f2a5d7336bbb46539cbd0357ce14178ff8d885c88feb5abe0",
+      "publishedAtLabel": "Dec 9"
+    },
+    {
+      "id": 16203,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Science.orf.at",
+      "author": "ORF.at",
+      "title": "\u201eKrankheit X\u201c vielleicht Folge von Malaria oder Covid-19",
+      "description": "Die mysteri\u00f6se \u201eKrankheit X\u201c im S\u00fcdwesten der Demokratischen Republik Kongo k\u00f6nnte nach einer Einsch\u00e4tzung der Weltgesundheitsorganisation (WHO) auch auf bekannte Ursachen zur\u00fcckzuf\u00fchren sein. Anhand der Symptome \u201ewerden akute Lungenentz\u00fcndung, Influenza, Cov\u2026",
+      "url": "https://science.orf.at/stories/3227930/",
+      "urlToImage": "https://ibs.orf.at/science?image=https%3A%2F%2Ftubestatic.orf.at%2Fmojo%2F1_4_1%2Fstoryserver%2Ftube%2Fscience%2Fimages%2Fog-fallback.jpg%3Fs%3D9468ebfda8d575e29237d4fe069891178635d8e1",
+      "publishedAt": "2024-12-09 08:03:23",
+      "content": "In der abgelegenen Region Panzi in der Provinz Kwango seien inzwischen 406 F\u00e4lle gemeldet worden. 31 Menschen seien gestorben. \u00dcberwiegend seien Kinder betroffen, besonders unter F\u00fcnfj\u00e4hrige. Alle se\u2026 [+908 chars]",
+      "retrievedAt": "2024-12-10 19:06:07.423137",
+      "internal_id": "9f139cb78a36f441092efe10bcd58b6d48a548ff200a9e6c3d569ef659dfad73",
+      "publishedAtLabel": "Dec 9"
+    },
     {
       "id": 16178,
       "query": [
@@ -21516,60 +21806,6 @@
       "content": "A man from northern Israel contracted rabies after being bitten by his pet dog, Israeli media reported on Sunday. According to the reports, the man was sent to intensive care following the bite and \u2026 [+236 chars]",
       "retrievedAt": "2024-10-29 07:06:33.659787",
       "internal_id": "9f1990124459b13d8c31fffeb273d60d6024a83d2f33b25f0489bb801d39d7b1",
-      "publishedAtLabel": "Oct 27"
-    },
-    {
-      "id": 14999,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The Punch",
-      "author": "Bola Bamigbola",
-      "title": "Experts caution FG on malaria vaccine mass rollout",
-      "description": "A group of scientists under the aegis of Living Science Foundation has called on the Federal Government to drop the plan to incorporate a newly developed malaria vaccine into the routine immunisation schedule in the country. This was contained in a press stat\u2026",
-      "url": "https://punchng.com/experts-caution-fg-on-malaria-vaccine-mass-rollout/",
-      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2024/10/27182204/Untitled.jpg",
-      "publishedAt": "2024-10-27 17:34:24",
-      "content": "A group of scientists under the aegis of Living Science Foundation has called on the Federal Government to drop the plan to incorporate a newly developed malaria vaccine into the routine immunisation\u2026 [+4204 chars]",
-      "retrievedAt": "2024-10-28 19:05:46.209733",
-      "internal_id": "4caaec3e97f371d7699b31c81c633a2cf4b18e1268fd03de902d4b8196bc0eb7",
-      "publishedAtLabel": "Oct 27"
-    },
-    {
-      "id": 15000,
-      "query": [
-        "typhoid"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "etimes.in",
-      "title": "What raises the risk of Typhoid among children living in crowded areas",
-      "description": "Typhoid, a bacterial infection common in tropical regions, spreads through contaminated food and water, often affecting children in overcrowded areas. Poor sanitation, including practices like open defecation and unhygienic food handling, heighten the risk. B\u2026",
-      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/what-raises-the-risk-of-typhoid-among-children-living-in-crowded-areas/articleshow/114660592.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-114660573,width-1070,height-580,imgsize-499179,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-10-27 15:43:05",
-      "content": "Body pain in women linked to their belly fat!",
-      "retrievedAt": "2024-10-28 19:05:47.103487",
-      "internal_id": "2cadd958732713478a87dee105bd71389debae8d6710c64cd26c1bcb8483934a",
-      "publishedAtLabel": "Oct 27"
-    },
-    {
-      "id": 14998,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Nakedcapitalism.com",
-      "author": "Conor Gallagher",
-      "title": "Exclusive: Emails Reveal How Health Departments Struggle To Track Human Cases of Bird Flu",
-      "description": "Emails show how health officials struggle to track the bird flu, partly in deference to the agricultural industry. As a result, researchers don\u2019t know how often farmworkers are being infected \u2014 and could miss alarming signals.",
-      "url": "https://www.nakedcapitalism.com/2024/10/exclusive-emails-reveal-how-health-departments-struggle-to-track-human-cases-of-bird-flu.html",
-      "urlToImage": "https://www.nakedcapitalism.com/wp-content/uploads/2024/10/1-1024x672.png",
-      "publishedAt": "2024-10-27 09:00:23",
-      "content": "Conor here: Entirely unsurprising, especially if you read Lamberts Oct. 24 piece Biden Bets on Let Er Rip with a SECOND Pandemic-Grade Virus: H5N1 (Bird Flu). That dealt largely with cattle. The foll\u2026 [+11520 chars]",
-      "retrievedAt": "2024-10-28 19:05:45.295162",
-      "internal_id": "3ed6f65ff026efe8905684b1c8d64766c6085fdc240e1a19386781164ccf7f86",
       "publishedAtLabel": "Oct 27"
     }
   ]
