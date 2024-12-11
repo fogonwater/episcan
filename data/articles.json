@@ -1,8 +1,350 @@
 {
-  "last_updated": "2024-12-11 07:07",
-  "count_articles_total": 1231,
+  "last_updated": "2024-12-11 19:05",
+  "count_articles_total": 1247,
   "count_articles_new": 19,
   "articles": [
+    {
+      "id": 16233,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Der Tagesspiegel",
+      "title": "Schon 12,6 Millionen F\u00e4lle dieses Jahr: Lateinamerika erlebt schwere Dengue-Epidemie",
+      "description": "Die klimatischen Bedingungen sind nur ein Faktor, warum sich die Gelbfieberm\u00fccke so verbreitet. Lateinarmerika versucht, mit Bakterien und Impfungen dagegenzuhalten.",
+      "url": "https://www.tagesspiegel.de/gesundheit/schon-126-millionen-falle-dieses-jahr-lateinamerika-erlebt-schwere-dengue-epidemie-12854444.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/12854471/alternates/BASE_16_9_W1400/1733856404000/dengue-fieber-in-brasilien.jpeg",
+      "publishedAt": "2024-12-10 18:49:41",
+      "content": "Lateinamerika erlebt die schwerste Dengue-Epidemie seit Beginn der systematischen Erhebung 1980. Im laufenden Jahr wurden 12,6 Millionen F\u00e4lle registriert - fast dreimal so viele wie 2023, wie die Pa\u2026 [+2775 chars]",
+      "retrievedAt": "2024-12-11 19:05:55.821550",
+      "internal_id": "4fb67cbd0047eabd393d9b99cd27b444c771f31d601164fa6184d3074cf2266d",
+      "publishedAtLabel": "Dec 10"
+    },
+    {
+      "id": 16237,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Diepresse.com",
+      "author": "Die Presse",
+      "title": "WHO: Viele \u201eKrankheit X\u201c-Patienten haben Malaria",
+      "description": "In Gro\u00dfteil der Proben wurde Malaria nachgewiesen. Es braucht aber noch weitere Untersuchungen, um endg\u00fcltig Entwarnung geben zu k\u00f6nnen.",
+      "url": "https://www.diepresse.com/19165404/who-viele-krankheit-x-patienten-haben-malaria",
+      "urlToImage": "https://img.diepresse.com/public/incoming/o9acfh-FILES-KENYA-HEALTH-VACCINE-MALARIA/alternates/DPR_SOCIAL_NACHRICHTEN/FILES-KENYA-HEALTH-VACCINE-MALARIA",
+      "publishedAt": "2024-12-10 18:37:01",
+      "content": "In Gro\u00dfteil der Proben wurde Malaria nachgewiesen. Es braucht aber noch weitere Untersuchungen, um endg\u00fcltig Entwarnung geben zu k\u00f6nnen. Steckt doch Malaria oder eine andere bekannte Atemwegserkrank\u2026 [+1689 chars]",
+      "retrievedAt": "2024-12-11 19:05:56.497659",
+      "internal_id": "2def9a75c35fcffcba14469f28b35cf95bc6224a5a385278dd0573f2503cd7b3",
+      "publishedAtLabel": "Dec 10"
+    },
+    {
+      "id": 16243,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "ZEIT ONLINE: Gesellschaft - Eric Voigt",
+      "title": "Demokratische Republik Kongo: Viele Patienten mit \"Krankheit X\" haben offenbar Malaria",
+      "description": "Nach der Sorge \u00fcber eine bisher unbekannte Krankheit in Zentralafrika mehren sich die Zeichen f\u00fcr eine Entwarnung. Die WHO hat in vielen Proben Malaria nachgewiesen.",
+      "url": "https://www.zeit.de/gesellschaft/2024-12/krankheit-x-kongo-who-malaria",
+      "urlToImage": "https://img.zeit.de/gesundheit/2024-12/weltgesundheitsorganisation-krankheit-x-malaria-bild/wide__1300x731",
+      "publishedAt": "2024-12-10 18:23:26",
+      "content": "Hinter der \"Krankheit X\" in der Demokratischen Republik Kongo stecken wahrscheinlich bereits bekannte Erreger. Die WHO wies nach eigenen Angaben in zehn von zw\u00f6lf medizinischen Proben von Patienten, \u2026 [+1521 chars]",
+      "retrievedAt": "2024-12-11 19:05:56.585399",
+      "internal_id": "7d7492a6546303fc1ef22d76db5a98b1941c59b2a7a52f3a51819e07aeac19a5",
+      "publishedAtLabel": "Dec 10"
+    },
+    {
+      "id": 16238,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Orf.at",
+      "author": "ORF.at",
+      "title": "\u201eKrankheit X\u201c: Viele Infizierte hatten Malaria",
+      "description": "",
+      "url": "https://orf.at/stories/3378580/",
+      "urlToImage": "https://orf.at/mojo/1_4_1/storyserver//news/common/images/og-fallback-news.png",
+      "publishedAt": "2024-12-10 17:38:18",
+      "content": "Nach der gro\u00dfen Sorge \u00fcber eine neue Krankheit X in der Demokratischen Republik Kongo mehren sich die Zeichen f\u00fcr eine Entwarnung: Die Weltgesundheitsorganisation (WHO) hat in zehn von zw\u00f6lf medizini\u2026 [+1093 chars]",
+      "retrievedAt": "2024-12-11 19:05:56.504629",
+      "internal_id": "a5ed8597462751d2c5a8d589b21c00a2287b573b696a359848aaba4903e42d48",
+      "publishedAtLabel": "Dec 10"
+    },
+    {
+      "id": 16241,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Der Tagesspiegel",
+      "title": "Unbekannte Krankheit im Kongo: WHO: Viele \u201eKrankheit X\u201c-Patienten haben Malaria",
+      "description": "In einer abgelegenen Provinz im Kongo starben zuletzt Hunderte Menschen. Die Zeichen verdichten sich, dass die Ursache daf\u00fcr nicht auf eine neue gef\u00e4hrliche Krankheit zur\u00fcckgeht.",
+      "url": "https://www.tagesspiegel.de/wissen/unbekannte-krankheit-im-kongo-who-viele-krankheit-x-patienten-haben-malaria-12854276.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/12854273/alternates/BASE_16_9_W1400/1733851620000/symbolfoto-mpox-ausbruche-kongo.jpeg",
+      "publishedAt": "2024-12-10 17:27:00",
+      "content": "Steckt doch Malaria oder eine andere bekannte Atemwegserkrankung hinter der Krankheit X? Nach der gro\u00dfen Sorge \u00fcber eine neue, mysteri\u00f6se Krankheit X in der Demokratischen Republik Kongo mehren sich \u2026 [+2284 chars]",
+      "retrievedAt": "2024-12-11 19:05:56.543501",
+      "internal_id": "33f0230e3fab4eb2c4c0812d5bd10939cb1b1d524e8deb3b76d559fe89608ce8",
+      "publishedAtLabel": "Dec 10"
+    },
+    {
+      "id": 16235,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "ZEIT ONLINE: News -",
+      "title": "Unbekannte Krankheit im Kongo: WHO: Viele \"Krankheit X\"-Patienten haben Malaria",
+      "description": "Hier finden Sie Informationen zu dem Thema \u201eUnbekannte Krankheit im Kongo\u201c. Lesen Sie jetzt \u201eWHO: Viele \"Krankheit X\"-Patienten haben Malaria\u201c.",
+      "url": "https://www.zeit.de/news/2024-12/10/who-viele-krankheit-x-patienten-haben-malaria",
+      "urlToImage": "https://img.zeit.de/news/2024-12/10/who-viele-krankheit-x-patienten-haben-malaria-image-group/wide__1300x731",
+      "publishedAt": "2024-12-10 17:25:50",
+      "content": "Steckt doch Malaria oder eine andere bekannte Atemwegserkrankung hinter der \u00abKrankheit X\u00bb? Nach der gro\u00dfen Sorge \u00fcber eine neue, mysteri\u00f6se \u00abKrankheit X\u00bb in der Demokratischen Republik Kongo mehren s\u2026 [+1563 chars]",
+      "retrievedAt": "2024-12-11 19:05:56.482534",
+      "internal_id": "2db10630479b96476cb2cc7bd4493c8eb280232cc87c8404acc8e759d5a38e1d",
+      "publishedAtLabel": "Dec 10"
+    },
+    {
+      "id": 16242,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "Unbekannte Krankheit im Kongo: WHO: Viele \"Krankheit X\"-Patienten haben Malaria",
+      "description": "In einer abgelegenen Provinz im Kongo starben zuletzt Hunderte Menschen. Die Zeichen verdichten sich, dass die Ursache daf\u00fcr nicht auf eine neue gef\u00e4hrliche Krankheit zur\u00fcckgeht.",
+      "url": "https://www.stern.de/panorama/wissen/unbekannte-krankheit-im-kongo--who--viele--krankheit-x--patienten-haben-malaria-35300102.html",
+      "urlToImage": "https://image.stern.de/35300104/t/15/v1/w1440/r1.7778/-/10--pyn4cp6xn4v6axs2048jpeg---15ae3cedf0c5fb67.jpg",
+      "publishedAt": "2024-12-10 17:25:50",
+      "content": "Kopiere den aktuellen Link In einer abgelegenen Provinz im Kongo starben zuletzt Hunderte Menschen. Die Zeichen verdichten sich, dass die Ursache daf\u00fcr nicht auf eine neue gef\u00e4hrliche Krankheit zur\u00fc\u2026 [+1731 chars]",
+      "retrievedAt": "2024-12-11 19:05:56.550582",
+      "internal_id": "d44e6e566994977e62050f48b14fc886363dcafe01a14b01e32337396be6b2b6",
+      "publishedAtLabel": "Dec 10"
+    },
+    {
+      "id": 16234,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "El dengue deja un r\u00e9cord de 12,6 millones de casos y 7.713 muertes en 2024 en Am\u00e9rica",
+      "description": "Los datos triplican los de 2023. La enfermedad ha afectado especialmente a Brasil, Argentina, Colombia y M\u00e9xico.",
+      "url": "https://www.montevideo.com.uy/Salud/El-dengue-deja-un-record-de-12-6-millones-de-casos-y-7-713-muertes-en-2024-en-America-uc909102",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202412/_W933_80/904352.jpg",
+      "publishedAt": "2024-12-10 17:10:00",
+      "content": "La epidemia del dengue en el continente americano se ha cobrado 7.713 vidas en 2024 con 12,6 millones de casos registrados, un r\u00e9cord que pr\u00e1cticamente triplica los datos del a\u00f1o anterior, seg\u00fan in\u2026 [+2089 chars]",
+      "retrievedAt": "2024-12-11 19:05:55.828924",
+      "internal_id": "4855c55a65ccba85947e8688e84c939905b7543ff790d79dbdd60e97bb12a3a6",
+      "publishedAtLabel": "Dec 10"
+    },
+    {
+      "id": 16232,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "",
+      "title": "Government to test milk for bird flu | CNN",
+      "description": "The US Department of Agriculture will begin testing raw milk from dairy silos across the nation to better track the H5N1 bird flu that has been spreading in cattle since March.",
+      "url": "https://www.cnn.com/2024/12/10/health/video/gupta-bird-flu-raw-milk-on-call-digvid",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2187132467.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-12-10 15:09:48",
+      "content": "The US Department of Agriculture will begin testing raw milk from dairy silos across the nation to better track the H5N1 bird flu that has been spreading in cattle since March.",
+      "retrievedAt": "2024-12-11 19:05:55.512875",
+      "internal_id": "d2e73d68d7a4e9fd0693a87ed9e57932b784c0eebf91f04a1253d91478a5de72",
+      "publishedAtLabel": "Dec 10"
+    },
+    {
+      "id": 16236,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Patrick Banda, Felix Masiye, Oliver Kaonga, Jesse Bump, Peter Berman",
+      "title": "Determining household out of pocket payments, incidence of catastrophic expenditures and impoverishment among patients with malaria in Zambia\u2019s path towards Universal Health Coverage",
+      "description": "Background The World Health Organisation (WHO) estimates that about 3.2 billion people which is nearly half of the world\u2019s population are at risk of malaria. Annually about 216 million cases and 445,000 deaths of malaria occur globally. Africa accounted for 9\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0312906",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0312906.t005&size=inline",
+      "publishedAt": "2024-12-10 14:00:00",
+      "content": "Abstract Background The World Health Organisation (WHO) estimates that about 3.2 billion people which is nearly half of the worlds population are at risk of malaria. Annually about 216 million case\u2026 [+35870 chars]",
+      "retrievedAt": "2024-12-11 19:05:56.490275",
+      "internal_id": "ec827a3e9af7f6e6ca401b6c4099fbddd83b2c6e7f7de4f69aff6ea5fded9237",
+      "publishedAtLabel": "Dec 10"
+    },
+    {
+      "id": 16239,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Saeun Park, Paul Bangirana, Ezekiel Mupere, Reagan I. Baluku, Erika S. Helgeson, Sarah E. Cusick",
+      "title": "Association of COVID-19-related perceptions and experiences with depression and anxiety in Ugandan caregivers of young children with malaria and iron deficiency: A cross-sectional study",
+      "description": "Background Caregivers of young children may have been particularly vulnerable to mental health challenges during the COVID-19 pandemic due to its negative impacts on their housing, finances, and childcare demands. This study explored the associations between \u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0314409",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0314409.g001&size=inline",
+      "publishedAt": "2024-12-10 14:00:00",
+      "content": "Abstract Background Caregivers of young children may have been particularly vulnerable to mental health challenges during the COVID-19 pandemic due to its negative impacts on their housing, finance\u2026 [+49629 chars]",
+      "retrievedAt": "2024-12-11 19:05:56.517198",
+      "internal_id": "288882a294d2eb1409772b16a2e935436379b3f8b8d320d9d3bbe633ba2175d7",
+      "publishedAtLabel": "Dec 10"
+    },
+    {
+      "id": 16240,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Raquel Gonz\u00e1lez, Tacilta Nhampossa, Ant\u00eda Figueroa-Romero, Andr\u00e9-Marie Tchouatieu, Christine Manyando, Clara Menendez",
+      "title": "Protecting the most vulnerable: The urgent need to include HIV-exposed children in malaria chemoprevention strategies",
+      "description": "Raquel Gonz\u00e1lez and colleagues discuss the drugs available to HIV-exposed children to prevent malaria infection and the urgent need to evaluate alternative agents.",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004498",
+      "urlToImage": "https://journals.plos.org/plosmedicine/article/figure/image?id=10.1371/journal.pmed.1004498.t001&size=inline",
+      "publishedAt": "2024-12-10 14:00:00",
+      "content": "Citation: Gonz\u00e1lez R, Nhampossa T, Figueroa-Romero A, Tchouatieu A-M, Manyando C, Menendez C (2024) Protecting the most vulnerable: The urgent need to include HIV-exposed children in malaria chemopre\u2026 [+18165 chars]",
+      "retrievedAt": "2024-12-11 19:05:56.535833",
+      "internal_id": "f56a4071bd28b04b4f7c6e558922067f6a4b8909e2b9a449ad96a8ff2af914dd",
+      "publishedAtLabel": "Dec 10"
+    },
+    {
+      "id": 16245,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Sputniknews.africa",
+      "author": "Sputnik Afrique",
+      "title": "Premiers tests mpox d\u00e9velopp\u00e9s sur le continent africain",
+      "description": "Depuis le mois d'ao\u00fbt, la soci\u00e9t\u00e9 Moldiag fabrique les tests de d\u00e9pistage dans son usine au Maroc, pour un prix de 5 dollars l'unit\u00e9, relate Associated Press.",
+      "url": "https://fr.sputniknews.africa/20241210/premiers-tests-mpox-developpes-sur-le-continent-africain-1069644348.html",
+      "urlToImage": "https://cdn1.img.sputniknews.africa/images/sharing/article/fra/1069644348.jpg?10645171761733838746",
+      "publishedAt": "2024-12-10 13:52:25",
+      "content": "https://fr.sputniknews.africa/20241210/premiers-tests-mpox-developpes-sur-le-continent-africain-1069644348.html Premiers tests mpox d\u00e9velopp\u00e9s sur le continent africain Premiers tests mpox d\u00e9velopp\u2026 [+1363 chars]",
+      "retrievedAt": "2024-12-11 19:05:57.193553",
+      "internal_id": "04b36b6c281d0f3ea3637f08bb15d0e3936762e69d2a03a0acc5ae0197be0135",
+      "publishedAtLabel": "Dec 10"
+    },
+    {
+      "id": 16247,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Standard Digital",
+      "author": "Sharon Wanga",
+      "title": "Five new Mpox cases confirmed in Kenya",
+      "description": "Five new Mpox cases confirmed in 12 counties, including Nakuru and Mombasa, raising the total to 28; Health CS Deborah Barasa reports one death and eight under care.",
+      "url": "https://www.standardmedia.co.ke/health/health-science/article/2001507819/five-new-mpox-cases-confirmed-in-kenya",
+      "urlToImage": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/Ps9vi5pUhmMh9d5e0mMAGlH190O2e6l8e0GDiEHg.jpg",
+      "publishedAt": "2024-12-10 12:15:39",
+      "content": "The Ministry of Health has confirmed five more cases of Mpox bringing the number up to 28 in the last week. In the weekly updates on the outbreak, health Cabinet Secretary Debora Barasa said that th\u2026 [+1395 chars]",
+      "retrievedAt": "2024-12-11 19:05:57.247197",
+      "internal_id": "3c530ed1f22b6856e407ebed7d254399fadd58d7d1df5b2e2d70f92a5ff36283",
+      "publishedAtLabel": "Dec 10"
+    },
+    {
+      "id": 16229,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "7NEWS.com.au",
+      "author": "7news",
+      "title": "WA Health issues measles alert after returned travel visits several healthcare sites while infected",
+      "description": "West Aussies in Perth\u2019s eastern suburbs are being urged to monitor for symptoms after a measles case was confirmed in a returned traveller from South East Asia.",
+      "url": "https://7news.com.au/news/wa/wa-health-issues-measles-alert-after-returned-travel-visits-several-healthcare-sites-while-infected-c-17039212",
+      "urlToImage": "https://images.7news.com.au/publication/C-17039212/3e994fad21989b07faecf7baa8c1727aad4fe4d0-16x9-x140y198w4127h2322.jpg?imwidth=1200",
+      "publishedAt": "2024-12-10 11:24:41",
+      "content": "West Aussies in Perths eastern suburbs are being urged to monitor for symptoms after a measles case was confirmed in a returned traveller from South East Asia. The traveller returned to Perth on a J\u2026 [+1691 chars]",
+      "retrievedAt": "2024-12-11 19:05:54.688781",
+      "internal_id": "94424e93908ffc43d2fae0919be1e8cf3e73581a65845175f874a7b04d001ffb",
+      "publishedAtLabel": "Dec 10"
+    },
+    {
+      "id": 16244,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Everyeye.it",
+      "author": "Gianluca Cobucci",
+      "title": "Distruggere la malaria alla radice ora \u00e8 possibile grazie a questa scoperta casuale",
+      "description": "Il futuro della lotta alla malaria, che porta 600.000 morti l'anno, potrebbe passare proprio da una polvere tanto semplice quanto straordinaria.Un nuovo biopesticida a base di batteri sta dimostrando di essere un\u2019arma letale contro le zanzare portatrici di ma\u2026",
+      "url": "https://tech.everyeye.it/notizie/distruggere-malaria-radice-possibile-scoperta-casuale-763354.html",
+      "urlToImage": "https://images.everyeye.it/img-notizie/distruggere-malaria-radice-possibile-scoperta-casuale-v3-763354.jpg",
+      "publishedAt": "2024-12-10 11:00:00",
+      "content": "Un nuovo biopesticida a base di batteri sta dimostrando di essere un\u2019arma letale contro le zanzare portatrici di malaria, comprese quelle resistenti agli insetticidi. Sviluppato dai ricercatori della\u2026 [+1745 chars]",
+      "retrievedAt": "2024-12-11 19:05:56.604956",
+      "internal_id": "57db7908a381f629920af3f466a0a8aabe3ca7421e06e51748d4bd7c7778daa7",
+      "publishedAtLabel": "Dec 10"
+    },
+    {
+      "id": 16246,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "La OMS mantiene como alto el riesgo para la salud p\u00fablica de la nueva variante de mpox",
+      "description": "La Organizaci\u00f3n Mundial de la Salud (OMS) ha informado de que el riesgo general para la salud p\u00fablica de la nueva variante clado Ib de la enfermedad mpox es alto, al igual que el riesgo nacional e internacional de difusi\u00f3n, por lo que el brote contin\u00faa siendo\u2026",
+      "url": "https://www.infosalus.com/actualidad/noticia-oms-mantiene-alto-riesgo-salud-publica-nueva-variante-mpox-20241210115406.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20241210115406_1200.jpg",
+      "publishedAt": "2024-12-10 10:54:06",
+      "content": "MADRID 10 Dic. (EUROPA PRESS) - La Organizaci\u00f3n Mundial de la Salud (OMS) ha informado de que el riesgo general para la salud p\u00fablica de la nueva variante clado Ib de la enfermedad mpox es alto, a\u2026 [+3750 chars]",
+      "retrievedAt": "2024-12-11 19:05:57.211636",
+      "internal_id": "2f9e40fe861dc2086d79124779377500da080b002848b3af4e16dc0c7143320e",
+      "publishedAtLabel": "Dec 10"
+    },
+    {
+      "id": 16231,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Patronlardunyasi.com",
+      "author": "Patronlar D\u00fcnyas\u0131",
+      "title": "Ku\u015f gribi H5N1'in tek bir mutasyonu yeni bir pandemiye neden olabilir",
+      "description": "Yeni bir ara\u015ft\u0131rma, H5N1 ku\u015f gribi vir\u00fcs\u00fcn\u00fcn insanlardan insana ge\u00e7i\u015finin tek bir mutasyonla \u00e7ok daha kolay hale gelebilece\u011fini ortaya koydu. Ara\u015ft\u0131rmac\u0131lara g\u00f6re, bu durum, vir\u00fcs\u00fcn pandemiye yol a\u00e7mas\u0131n\u0131 kolayla\u015ft\u0131rabilir.",
+      "url": "https://www.patronlardunyasi.com/kus-gribi-h5n1in-tek-bir-mutasyonu-yeni-bir-pandemiye-neden-olabilir",
+      "urlToImage": "https://image.patronlardunyasi.com/static/content/24-12/10/kus_gribi_mutasyonu_yeni_pandemmiye_neden_olabilir2.jpg",
+      "publishedAt": "2024-12-10 08:19:51",
+      "content": "Kaliforniya\u2019daki Scripps Aratrma Enstit\u00fcs\u00fc'nden bilim insanlar, H5N1 ku gribi vir\u00fcs\u00fcn\u00fcn insan h\u00fccrelerine tutunmasn salayacak bir mutasyonu inceledi. Aratrma sonu\u00e7larn ise Science Dergisi\u2019nde yaynlad\u2026 [+1302 chars]",
+      "retrievedAt": "2024-12-11 19:05:55.478289",
+      "internal_id": "1e41b656c073cbb1fa06517ed71ebd1ab58ca24e1734181e6db5131de4e44e5a",
+      "publishedAtLabel": "Dec 10"
+    },
+    {
+      "id": 16230,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "PerthNow",
+      "author": "Perthnow",
+      "title": "WA Health issues measles alert after returned travel visits several healthcare sites while infected",
+      "description": "West Aussies in Perth\u2019s eastern suburbs are being urged to monitor for symptoms after a measles case was confirmed in a returned traveller from South East Asia.",
+      "url": "https://www.perthnow.com.au/news/health/wa-health-issues-measles-alert-after-returned-travel-visits-several-healthcare-sites-while-infected-c-17039212",
+      "urlToImage": "https://images.perthnow.com.au/publication/C-17039212/3e994fad21989b07faecf7baa8c1727aad4fe4d0-16x9-x140y198w4127h2322.jpg?imwidth=1200",
+      "publishedAt": "2024-12-10 08:11:00",
+      "content": "West Aussies in Perths eastern suburbs are being urged to monitor for symptoms after a measles case was confirmed in a returned traveller from South East Asia. The traveller returned to Perth on a J\u2026 [+1641 chars]",
+      "retrievedAt": "2024-12-11 19:05:54.736706",
+      "internal_id": "56bbcd0958b1483f2e88f1609b581fe356ae501f9a221a86b5342c7bfdfd9351",
+      "publishedAtLabel": "Dec 10"
+    },
     {
       "id": 16228,
       "query": [
@@ -22149,60 +22491,6 @@
       "content": "A man from northern Israel contracted rabies after being bitten by his pet dog, Israeli media reported on Sunday. According to the reports, the man was sent to intensive care following the bite and \u2026 [+236 chars]",
       "retrievedAt": "2024-10-29 07:06:33.659787",
       "internal_id": "9f1990124459b13d8c31fffeb273d60d6024a83d2f33b25f0489bb801d39d7b1",
-      "publishedAtLabel": "Oct 27"
-    },
-    {
-      "id": 14999,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The Punch",
-      "author": "Bola Bamigbola",
-      "title": "Experts caution FG on malaria vaccine mass rollout",
-      "description": "A group of scientists under the aegis of Living Science Foundation has called on the Federal Government to drop the plan to incorporate a newly developed malaria vaccine into the routine immunisation schedule in the country. This was contained in a press stat\u2026",
-      "url": "https://punchng.com/experts-caution-fg-on-malaria-vaccine-mass-rollout/",
-      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2024/10/27182204/Untitled.jpg",
-      "publishedAt": "2024-10-27 17:34:24",
-      "content": "A group of scientists under the aegis of Living Science Foundation has called on the Federal Government to drop the plan to incorporate a newly developed malaria vaccine into the routine immunisation\u2026 [+4204 chars]",
-      "retrievedAt": "2024-10-28 19:05:46.209733",
-      "internal_id": "4caaec3e97f371d7699b31c81c633a2cf4b18e1268fd03de902d4b8196bc0eb7",
-      "publishedAtLabel": "Oct 27"
-    },
-    {
-      "id": 15000,
-      "query": [
-        "typhoid"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "etimes.in",
-      "title": "What raises the risk of Typhoid among children living in crowded areas",
-      "description": "Typhoid, a bacterial infection common in tropical regions, spreads through contaminated food and water, often affecting children in overcrowded areas. Poor sanitation, including practices like open defecation and unhygienic food handling, heighten the risk. B\u2026",
-      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/what-raises-the-risk-of-typhoid-among-children-living-in-crowded-areas/articleshow/114660592.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-114660573,width-1070,height-580,imgsize-499179,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-10-27 15:43:05",
-      "content": "Body pain in women linked to their belly fat!",
-      "retrievedAt": "2024-10-28 19:05:47.103487",
-      "internal_id": "2cadd958732713478a87dee105bd71389debae8d6710c64cd26c1bcb8483934a",
-      "publishedAtLabel": "Oct 27"
-    },
-    {
-      "id": 14998,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Nakedcapitalism.com",
-      "author": "Conor Gallagher",
-      "title": "Exclusive: Emails Reveal How Health Departments Struggle To Track Human Cases of Bird Flu",
-      "description": "Emails show how health officials struggle to track the bird flu, partly in deference to the agricultural industry. As a result, researchers don\u2019t know how often farmworkers are being infected \u2014 and could miss alarming signals.",
-      "url": "https://www.nakedcapitalism.com/2024/10/exclusive-emails-reveal-how-health-departments-struggle-to-track-human-cases-of-bird-flu.html",
-      "urlToImage": "https://www.nakedcapitalism.com/wp-content/uploads/2024/10/1-1024x672.png",
-      "publishedAt": "2024-10-27 09:00:23",
-      "content": "Conor here: Entirely unsurprising, especially if you read Lamberts Oct. 24 piece Biden Bets on Let Er Rip with a SECOND Pandemic-Grade Virus: H5N1 (Bird Flu). That dealt largely with cattle. The foll\u2026 [+11520 chars]",
-      "retrievedAt": "2024-10-28 19:05:45.295162",
-      "internal_id": "3ed6f65ff026efe8905684b1c8d64766c6085fdc240e1a19386781164ccf7f86",
       "publishedAtLabel": "Oct 27"
     }
   ]
