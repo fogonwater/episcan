@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 16
-- **Last harvest:** 2024-12-10 19:06
-- **Most recent article:** 2024-12-09 17:58:00
+- **New articles in last harvest:** 19
+- **Last harvest:** 2024-12-11 07:07
+- **Most recent article:** 2024-12-10 07:00:00
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-44 | 24-45 | 24-46 | 24-47 | 24-48 | 24-49 | 24-50 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 75 | 63 | 62 | 76 | 26 | 20 | 7 | 329 |
-| h5n1 | 60 | 36 | 40 | 50 | 38 | 69 | 13 | 306 |
-| malaria | 15 | 26 | 33 | 27 | 29 | 27 | 13 | 170 |
+| mpox | 75 | 63 | 62 | 76 | 26 | 20 | 13 | 335 |
+| h5n1 | 61 | 36 | 40 | 50 | 38 | 70 | 22 | 317 |
+| malaria | 16 | 26 | 33 | 27 | 29 | 27 | 13 | 171 |
 | dengue | 30 | 31 | 36 | 28 | 25 | 10 | 1 | 161 |
-| measles | 13 | 3 | 33 | 11 | 6 | 9 | 3 | 78 |
-| rabies | 10 | 5 | 11 | 7 | 12 | 13 | 0 | 58 |
+| measles | 13 | 3 | 33 | 11 | 6 | 9 | 5 | 80 |
+| rabies | 10 | 5 | 11 | 7 | 12 | 13 | 1 | 59 |
 | zika | 3 | 9 | 4 | 3 | 1 | 4 | 1 | 25 |
 | chikungunya | 2 | 2 | 3 | 5 | 4 | 6 | 2 | 24 |
 | pertussis | 1 | 3 | 8 | 5 | 1 | 4 | 2 | 24 |
-| hpai | 7 | 4 | 4 | 4 | 0 | 2 | 1 | 22 |
+| hpai | 7 | 4 | 4 | 4 | 0 | 2 | 2 | 23 |
 | meningitis | 3 | 5 | 2 | 5 | 3 | 3 | 0 | 21 |
 | leptospirosis | 3 | 10 | 3 | 0 | 2 | 0 | 0 | 18 |
-| typhoid | 3 | 1 | 1 | 3 | 1 | 0 | 1 | 10 |
+| typhoid | 4 | 1 | 1 | 3 | 1 | 0 | 1 | 11 |
 | yersinia | 3 | 0 | 0 | 1 | 1 | 0 | 0 | 5 |
 | shigellosis | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 1 |
 
@@ -41,6 +41,10 @@ Source: [News API](https://newsapi.org/)
 
 - [An Ancient Killer Is Rapidly Becoming Resistant to Antibiotics, Study Warns](https://www.sciencealert.com/an-ancient-killer-is-rapidly-becoming-resistant-to-antibiotics-study-warns) (ScienceAlert)
 
+## 24-50 (rabies)
+
+- [K’taka 3rd in rabies deaths in India from 2021-24](https://timesofindia.indiatimes.com/city/bengaluru/karnataka-ranks-3rd-in-rabies-deaths-in-india-urgent-action-needed/articleshow/116150125.cms) (The Times of India)
+
 ## 24-50 (pertussis)
 
 - [Public Health Ontario report: whooping cough cases highest in 17 years](https://www.cp24.com/news/2024/12/08/ontario-saw-the-highest-number-of-whooping-cough-cases-in-the-last-17-years-report/) (CP24 Toronto's Breaking News)
@@ -48,6 +52,18 @@ Source: [News API](https://newsapi.org/)
 - [Understanding whooping cough](https://www.bostonherald.com/2024/12/08/understanding-whooping-cough/) (Boston Herald)
 
 ## 24-50 (mpox)
+
+- [Congo-Brazzaville: élaboration en cours d'un de plan de vaccination contre le Mpox](https://fr.sputniknews.africa/20241210/congo-brazzaville-elaboration-en-cours-dun-de-plan-de-vaccination-contre-le-mpox-1069630371.html) (Sputniknews.africa)
+
+- [Det här har vi googlat på under 2024](https://www.aftonbladet.se/nyheter/a/Jb3e17/det-har-har-vi-googlat-pa-under-2024) (Aftonbladet.se)
+
+- [ВОЗ фиксирует рост заболеваемости оспой обезьян в Африке в конце 2024 года](https://life.ru/p/1710563) (Life.ru)
+
+- [Morocco produces Africa’s first mpox tests as the continent tries to rely less on imports](https://www.wnd.com/2024/12/morocco-produces-africas-first-mpox-tests-as-the-continent-tries-to-rely-less-on-imports/) (Wnd.com)
+
+- [В Африке с ноября выявили более 2 тыс. случаев оспы обезьян](https://tass.ru/obschestvo/22624001) (Tass.ru)
+
+- [Ticker: NYC ad agency titans Omnicom and Interpublic to form $30B powerhouse; Morocco produces Africa’s first mpox tests](https://www.bostonherald.com/2024/12/09/ticker-nyc-ad-agency-titans-omnicom-and-interpublic-to-form-30b-powerhouse-morocco-produces-africas-first-mpox-tests/) (Boston Herald)
 
 - [«Krankheit X» verbreitet sich in Kongo-Kinshasa – ein unbekannter Erreger verursacht Grippesymptome und Todesfälle](https://www.nzz.ch/wissenschaft/krankheit-x-verursacht-todesfaelle-bei-kindern-in-kongo-kinshasa-ld.1861482) (Www.nzz.ch)
 
@@ -64,6 +80,10 @@ Source: [News API](https://newsapi.org/)
 - [Perth gay venue offering free mpox vaccinations as cases rise across Australia](https://www.abc.net.au/news/2024-12-09/perth-gay-sauna-to-offer-free-monkeypox-vaccines/104695122) (ABC News (AU))
 
 ## 24-50 (measles)
+
+- [How Measles, Whooping Cough, and Worse Could Roar Back on RFK Jr.'s Watch](https://www.medpagetoday.com/infectiousdisease/vaccines/113302) (MedPage Today)
+
+- [How measles, whooping cough, and worse could roar back on RFK Jr.’s watch](https://www.bostonherald.com/2024/12/09/measles-whooping-cough-rfk-jr/) (Boston Herald)
 
 - [How measles, whooping cough, and worse could roar back on RFK Jr.’s watch](https://www.pennlive.com/health/2024/12/how-measles-whooping-cough-and-worse-could-roar-back-on-rfk-jrs-watch.html) (PennLive)
 
@@ -101,11 +121,27 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-50 (hpai)
 
+- [Replication Restriction of Influenza A(H5N1) Clade 2.3.4.4b Viruses by Human Immune Factor, 2023–2024](https://wwwnc.cdc.gov/eid/article/31/1/24-1236_article) (Cdc.gov)
+
 - [USDA Orders Testing of Raw and Unpasteurized Milk for Presence of Bird Flu Virus](https://legalinsurrection.com/2024/12/usda-orders-testing-of-raw-and-unpasteurized-milk-for-presence-of-bird-flu-virus/) (Legalinsurrection.com)
 
 ## 24-50 (h5n1)
 
+- [¿Estamos a un paso de una nueva pandemia? La gripe aviar está a una mutación de que se propague entre humanos](https://www.infosalus.com/salud-investigacion/noticia-estamos-paso-nueva-pandemia-gripe-aviar-mutacion-propague-humanos-20241210074949.html) (Infosalus.com)
+
+- [Bird Flu Poised To Spark Next Global Pandemic, Experts Warn Of Rising Risks](https://www.ndtv.com/science/bird-flu-poised-to-spark-the-next-global-pandemic-experts-warn-of-rising-risks-7213390) (NDTV News)
+
+- [Replication Restriction of Influenza A(H5N1) Clade 2.3.4.4b Viruses by Human Immune Factor, 2023–2024](https://wwwnc.cdc.gov/eid/article/31/1/24-1236_article) (Cdc.gov)
+
+- [A Single Mutation Could Bring Bird Flu a Critical Step Closer to a New Pandemic](https://www.sciencealert.com/a-single-mutation-could-bring-bird-flu-a-critical-step-closer-to-a-new-pandemic) (ScienceAlert)
+
+- [What are your questions about bird flu and milk? | CNN](https://www.cnn.com/2024/12/09/health/milk-bird-flu-gupta-callout/index.html) (CNN)
+
+- [A Single Mutation Could Send Avian Flu From Birds to Humans](https://www.popularmechanics.com/science/health/a63119336/single-mutation-bird-flu-humans/) (Popular Mechanics)
+
 - [¿Podría la gripe aviar H5N1 representar un riesgo para los humanos?](https://www.dw.com/es/podr%C3%ADa-la-gripe-aviar-h5n1-representar-un-riesgo-para-los-humanos/a-71006872) (DW (English))
+
+- [Nur eine Mutation trennt Vogelgrippe vom Menschen](https://www.krone.at/3620337) (Krone.at)
 
 - [El 61% de los argentinos ve poco o nada grave querer reducir el Estado al mínimo.](https://finofilipino.org/el-61-de-los-argentinos-ve-poco-o-nada-grave-querer-reducir-el-estado-al-minimo/) (Finofilipino.org)
 
@@ -121,6 +157,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Quels pays ont le mieux géré la crise du Covid-19 ? Une étude scientifique apporte la réponse](https://www.lexpress.fr/sciences-sante/quels-pays-ont-le-mieux-gere-la-crise-du-covid-19-une-etude-scientifique-apporte-la-reponse-5LTIVL2YNBCGNESJV5CQEFVB3Y/) (L'Express)
 
+- [US government to begin expanded testing of milk supply to better track the spread of bird flu](https://www.wesh.com/article/us-expanded-testing-of-milk-supply-track-spread-of-bird-flu/63118481) (WESH Orlando)
+
 - [Wann die Vogelgrippe für Menschen gefährlich wird: Bereits winzige Änderung würde ausreichen](https://www.tagesspiegel.de/wissen/wann-die-vogelgrippe-fur-menschen-gefahrlich-wird-bereits-winzige-anderung-wurde-ausreichen-12841436.html) (Der Tagesspiegel)
 
 - [Forscher schlagen Alarm - Vogelgrippe nur eine Mutation vom Menschen entfernt](https://www.bild.de/leben-wissen/vogelgrippe-neue-pandemie-durch-schnelle-mutation-moeglich-67555ac036814417822d0009) (Bild)
@@ -128,6 +166,8 @@ Source: [News API](https://newsapi.org/)
 - [Hohe Dunkelziffer - Experten: Schon winzige Veränderung macht Vogelgrippe gefährlich für uns](https://www.focus.de/gesundheit/news/experten-schon-winzige-veraenderung-macht-vogelgrippe-gefaehrlich-fuer-uns_id_260544505.html) (Focus)
 
 - [Spredningen af fugleinfluenza bekymrer: Smitte mellem mennesker rykker nærmere](https://ing.dk/artikel/spredningen-af-fugleinfluenza-bekymrer-smitte-mellem-mennesker-rykker-naermere) (Ing.dk)
+
+- [Possible bird flu reported in child in Marin County](https://www.ktvu.com/news/possible-bird-flu-reported-child-marin-county) (KTVU San Francisco)
 
 - [Эксперт: без вакцинации ускоряется преодоление межвидового барьера птичьего гриппа](https://tass.ru/obschestvo/22608023) (Tass.ru)
 
@@ -336,6 +376,8 @@ Source: [News API](https://newsapi.org/)
 - [US orders nationwide milk testing in bid to stop spread of bird flu in cows](https://news.sky.com/story/us-orders-nationwide-milk-testing-in-bid-to-stop-spread-of-bird-flu-in-cows-13268478) (Sky.com)
 
 - [Is milk safe? Your questions about bird flu and dairy, answered](https://economictimes.indiatimes.com/news/international/global-trends/is-milk-safe-your-questions-about-bird-flu-and-dairy-answered/articleshow/116068376.cms) (The Times of India)
+
+- [Study finds single mutation could enable H5N1 strain of bird flu to bind more easily with human cells, sparking concern about rapid spread](https://www.skynews.com.au/lifestyle/health/study-finds-single-mutation-could-enable-h5n1-strain-of-bird-flu-to-bind-more-easily-with-human-cells-sparking-concern-about-rapid-spread/news-story/8e517492a940ef7b8059575037350057) (Sky News Australia)
 
 - [EEUU ordena análisis de leche cruda en el país para detectar casos de gripe aviar](https://noticiaslatam.lat/20241207/eeuu-ordena-analisis-de-leche-cruda-en-el-pais-para-detectar-casos-de-gripe-aviar-1159565741.html) (Noticiaslatam.lat)
 
@@ -2253,6 +2295,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Time to Get Typhoid! Classic Oregon Trail Video Game to Get Movie Treatment](https://reactormag.com/time-to-get-typhoid-classic-oregon-trail-video-game-to-get-movie-treatment/) (Reactormag.com)
 
+- [What raises the risk of Typhoid among children living in crowded areas](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/what-raises-the-risk-of-typhoid-among-children-living-in-crowded-areas/articleshow/114660592.cms) (The Times of India)
+
 ## 24-44 (rabies)
 
 - [Instagram famous squirrel named Peanut euthanised by New York authorities](https://www.abc.net.au/news/2024-11-02/peanut-the-internet-famous-squirrel-euthanised-authorities/104552922) (ABC News (AU))
@@ -2499,6 +2543,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Ogun, SFH deploy 1,180 town announcers for mosquito nets distribution](https://punchng.com/ogun-sfh-deploy-1180-town-announcers-for-mosquito-nets-distribution/) (The Punch)
 
+- [Experts caution FG on malaria vaccine mass rollout](https://punchng.com/experts-caution-fg-on-malaria-vaccine-mass-rollout/) (The Punch)
+
 ## 24-44 (leptospirosis)
 
 - [Martín-Moreno, catedrático de la UV: "A las 72 horas de la inundación se agravan los riesgos de infección, hay que poner medidas ya"](https://www.meneame.net/m/actualidad/martin-moreno-catedratico-uv-72-horas-inundacion-agravan-riesgos) (Meneame.net)
@@ -2644,6 +2690,8 @@ Source: [News API](https://newsapi.org/)
 - [H5N1 virus isolated from infected dairy worker is 100% lethal in ferrets, but does not appear to be circulating in nature anymore](https://www.sciencedaily.com/releases/2024/10/241028131451.htm) (Science Daily)
 
 - [Flu season will complicate tracking spread of H5N1 avian influenza](https://www.statnews.com/2024/10/28/flu-season-presents-challenges-in-tracking-h5n1-avian-influenza-outbreak/) (STAT)
+
+- [Exclusive: Emails Reveal How Health Departments Struggle To Track Human Cases of Bird Flu](https://www.nakedcapitalism.com/2024/10/exclusive-emails-reveal-how-health-departments-struggle-to-track-human-cases-of-bird-flu.html) (Nakedcapitalism.com)
 
 ## 24-44 (dengue)
 

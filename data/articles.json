@@ -1,8 +1,279 @@
 {
-  "last_updated": "2024-12-10 19:06",
-  "count_articles_total": 1209,
-  "count_articles_new": 16,
+  "last_updated": "2024-12-11 07:07",
+  "count_articles_total": 1231,
+  "count_articles_new": 19,
   "articles": [
+    {
+      "id": 16228,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Sputniknews.africa",
+      "author": "Alg\u00e9rie Presse Service (APS)",
+      "title": "Congo-Brazzaville: \u00e9laboration en cours d'un de plan de vaccination contre le Mpox",
+      "description": "Des experts multisectoriels en mati\u00e8re de sant\u00e9 ont approuv\u00e9, au terme d'un atelier soutenu par le Programme des Nations Unies pour le d\u00e9veloppement et d'autres partenaires financiers, un projet de plan national de d\u00e9ploiement de vaccination contre l'\u00e9pid\u00e9mie\u2026",
+      "url": "https://fr.sputniknews.africa/20241210/congo-brazzaville-elaboration-en-cours-dun-de-plan-de-vaccination-contre-le-mpox-1069630371.html",
+      "urlToImage": "https://cdn1.img.sputniknews.africa/images/sharing/article/fra/1069630371.jpg?10683643261733814002",
+      "publishedAt": "2024-12-10 07:00:00",
+      "content": "https://fr.sputniknews.africa/20241210/congo-brazzaville-elaboration-en-cours-dun-de-plan-de-vaccination-contre-le-mpox-1069630371.html Congo-Brazzaville: \u00e9laboration en cours d'un de plan de vaccin\u2026 [+5148 chars]",
+      "retrievedAt": "2024-12-11 07:07:25.591283",
+      "internal_id": "98df9ace2687841ec591ab8d1b9f6d42c87607dc69b0efb8f5f4149ac61aff87",
+      "publishedAtLabel": "Dec 10"
+    },
+    {
+      "id": 16216,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "\u00bfEstamos a un paso de una nueva pandemia? La gripe aviar est\u00e1 a una mutaci\u00f3n de que se propague entre humanos",
+      "description": "Un estudio reciente dirigido por cient\u00edficos de Scripps Research, un centro de investigaci\u00f3n m\u00e9dica de Estados Unidos, revela que una sola mutaci\u00f3n en el virus H5N1 de la gripe aviar que ha infectado recientemente a las vacas lecheras en los EE.",
+      "url": "https://www.infosalus.com/salud-investigacion/noticia-estamos-paso-nueva-pandemia-gripe-aviar-mutacion-propague-humanos-20241210074949.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20241210074949_1200.jpg",
+      "publishedAt": "2024-12-10 06:49:49",
+      "content": "MADRID, 10 Dic. (EUROPA PRESS) - Un estudio reciente dirigido por cient\u00edficos de Scripps Research, un centro de investigaci\u00f3n m\u00e9dica de Estados Unidos, revela que una sola mutaci\u00f3n en el virus H\u2026 [+5690 chars]",
+      "retrievedAt": "2024-12-11 07:07:23.202029",
+      "internal_id": "e550e9f69560292091d3796ed6f0a8414c6269114800aa24e54f76f07efb037c",
+      "publishedAtLabel": "Dec 10"
+    },
+    {
+      "id": 16223,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Aftonbladet.se",
+      "author": "TT",
+      "title": "Det h\u00e4r har vi googlat p\u00e5 under 2024",
+      "description": "Taylor Swift, Liam Paynes d\u00f6d, Gunilla Perssons \u00e5lder \u2013 och mykoplasma. Det var n\u00e5gra av de mest trendande s\u00f6k\u00e4mnena p\u00e5 Google i Sverige under 2024.",
+      "url": "https://www.aftonbladet.se/nyheter/a/Jb3e17/det-har-har-vi-googlat-pa-under-2024",
+      "urlToImage": "https://images.aftonbladet-cdn.se/v2/images/60de2db5-3803-4a18-a7a3-0abfe7b6a45f?fit=crop&format=auto&h=1317&q=50&w=1900&s=ee6118ed7be791b68f3a298d44217ba744f24f9f",
+      "publishedAt": "2024-12-10 06:30:31",
+      "content": "\u00c5rets mest trendande s\u00f6kningar 1. EM 2. OS 3. Liam Payne 4. Taylor Swift 5. Truls M\u00f6reg\u00e5rdh 6. C Gambino 7. Iphone 16 8. Temu 9. Mykoplasma 10. Love is Blind: Sverige Vad? 1. Vad \u00e4r mpox?\u2026 [+980 chars]",
+      "retrievedAt": "2024-12-11 07:07:25.549327",
+      "internal_id": "6d3818bba94fdb75eb3d4f7bfeea18a5c12797ee8e8e83d28c79eb9b779ebda3",
+      "publishedAtLabel": "Dec 10"
+    },
+    {
+      "id": 16215,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": "Nikhil Pandey",
+      "title": "Bird Flu Poised To Spark Next Global Pandemic, Experts Warn Of Rising Risks",
+      "description": "Scientists identify mutation that could facilitate H5N1 &quot;bird flu&quot; virus infection and potential transmission in humans.",
+      "url": "https://www.ndtv.com/science/bird-flu-poised-to-spark-the-next-global-pandemic-experts-warn-of-rising-risks-7213390",
+      "urlToImage": "https://c.ndtvimg.com/2021-11/in4q6u44_bird-flu-outbreak-reuters_625x300_15_November_21.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "publishedAt": "2024-12-10 05:15:28",
+      "content": "As the H5N1 bird flu virus is spreading fast among animals in the United States, scientists are now on high alert for signs of human-to-human transmission. According to new research, the virus might \u2026 [+2495 chars]",
+      "retrievedAt": "2024-12-11 07:07:23.174356",
+      "internal_id": "fac66f7a81951fc3fa34a739fda088a1247bb3ac503def2f4459ba74e39c54ad",
+      "publishedAtLabel": "Dec 10"
+    },
+    {
+      "id": 16213,
+      "query": [
+        "hpai",
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Replication Restriction of Influenza A(H5N1) Clade 2.3.4.4b Viruses by Human Immune Factor, 2023\u20132024",
+      "description": "HPAI A(H5N1) Clade 2.3.4.4b Viruses, 2023\u20132024",
+      "url": "https://wwwnc.cdc.gov/eid/article/31/1/24-1236_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2024-12-10 05:00:00",
+      "content": "Disclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released.Since 2022, clade 2.3.4.4b\u2026 [+6684 chars]",
+      "retrievedAt": "2024-12-11 07:07:22.697805",
+      "internal_id": "e92d8d399a4fbefc52d41bcafa1712067834423f5a3a53d5753ad5f9d75b7573",
+      "publishedAtLabel": "Dec 10"
+    },
+    {
+      "id": 16214,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "ScienceAlert",
+      "author": "David Nield",
+      "title": "A Single Mutation Could Bring Bird Flu a Critical Step Closer to a New Pandemic",
+      "description": "With the H5N1 bird flu virus spreading quickly across animals in the US, experts are on high alert for signs of human-to-human transmission.",
+      "url": "https://www.sciencealert.com/a-single-mutation-could-bring-bird-flu-a-critical-step-closer-to-a-new-pandemic",
+      "urlToImage": "https://www.sciencealert.com/images/2024/12/HoldingBird.jpg",
+      "publishedAt": "2024-12-10 04:16:32",
+      "content": "With the H5N1 bird fluvirus spreading quickly across animals in the US, experts are on high alert for signs of human-to-human transmission. Such a jump could become far easier with just a single muta\u2026 [+3070 chars]",
+      "retrievedAt": "2024-12-11 07:07:23.077302",
+      "internal_id": "2d58aac27bb1e45751633954429623984eff299d0ffd1c185ff42447879ebaa3",
+      "publishedAtLabel": "Dec 10"
+    },
+    {
+      "id": 16221,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": null,
+      "title": "What are your questions about bird flu and milk? | CNN",
+      "description": "Infectious disease experts have called for expanded testing for H5N1 bird flu in milk since it began spreading among dairy cows in the United States this year. They argue that the virus can\u2019t be contained until farms, veterinarians and federal regulators know\u2026",
+      "url": "https://www.cnn.com/2024/12/09/health/milk-bird-flu-gupta-callout/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2150341563-20240702161626563.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-12-10 01:16:44",
+      "content": "Infectious disease experts have called for expanded testing for H5N1 bird flu in milk since it began spreading among dairy cows in the United States this year. They argue that the virus cant be conta\u2026 [+272 chars]",
+      "retrievedAt": "2024-12-11 07:07:23.249825",
+      "internal_id": "d80a2a1e638aeba0c670acddb3c22196de89f2af61857350d4152cc72b74d39a",
+      "publishedAtLabel": "Dec 10"
+    },
+    {
+      "id": 16212,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "MedPage Today",
+      "author": "Arthur Allen",
+      "title": "How Measles, Whooping Cough, and Worse Could Roar Back on RFK Jr.'s Watch",
+      "description": "How Measles, Whooping Cough, and Worse Could Roar Back on RFK Jr.'s Watchmedpagetoday.com",
+      "url": "https://www.medpagetoday.com/infectiousdisease/vaccines/113302",
+      "urlToImage": "https://assets.medpagetoday.net/media/images/113xxx/113302.jpg",
+      "publishedAt": "2024-12-10 00:06:24",
+      "content": "The availability of safe, effective COVID vaccines less than a year into the pandemic marked a high point in the 300-year history of vaccination, seemingly heralding an age of protection against infe\u2026 [+11992 chars]",
+      "retrievedAt": "2024-12-11 07:07:22.197249",
+      "internal_id": "8fdb254c23fc85112e6fc7831735f2754a25b847322b7fcd8451169ce3a9dab6",
+      "publishedAtLabel": "Dec 10"
+    },
+    {
+      "id": 16224,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Life.ru",
+      "author": "\u0422\u0438\u043c\u0443\u0440 \u0425\u0438\u043d\u0433\u0435\u0435\u0432",
+      "title": "\u0412\u041e\u0417 \u0444\u0438\u043a\u0441\u0438\u0440\u0443\u0435\u0442 \u0440\u043e\u0441\u0442 \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0430\u0435\u043c\u043e\u0441\u0442\u0438 \u043e\u0441\u043f\u043e\u0439 \u043e\u0431\u0435\u0437\u044c\u044f\u043d \u0432 \u0410\u0444\u0440\u0438\u043a\u0435 \u0432 \u043a\u043e\u043d\u0446\u0435 2024 \u0433\u043e\u0434\u0430",
+      "description": "\u0412 \u043f\u0435\u0440\u0438\u043e\u0434 \u0441 3 \u043d\u043e\u044f\u0431\u0440\u044f \u043f\u043e 1 \u0434\u0435\u043a\u0430\u0431\u0440\u044f \u043d\u0430 \u0430\u0444\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u043e\u043c \u043a\u043e\u043d\u0442\u0438\u043d\u0435\u043d\u0442\u0435 \u043b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u043e \u043f\u043e\u0434\u0442\u0432\u0435\u0440\u0436\u0434\u0435\u043d\u043e \u0441\u0432\u044b\u0448\u0435 2 \u0442\u044b\u0441\u044f\u0447 \u043d\u043e\u0432\u044b\u0445 \u0441\u043b\u0443\u0447\u0430\u0435\u0432 \u0437\u0430\u0440\u0430\u0436\u0435\u043d\u0438\u044f \u043e\u0441\u043f\u043e\u0439 \u043e\u0431\u0435\u0437\u044c\u044f\u043d (mpox). \u0421\u043e\u0433\u043b\u0430\u0441\u043d\u043e \u0434\u0430\u043d\u043d\u044b\u043c \u0412\u0441\u0435\u043c\u0438\u0440\u043d\u043e\u0439 \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u0438 \u0437\u0434\u0440\u0430\u0432\u043e\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f (\u0412\u041e\u0417), \u043d\u0430\u0438\u0431\u043e\u043b\u0435\u0435 \u0437\u043d\u0430\u0447\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u0440\u043e\u0441\u0442 \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0430\u0435\u043c\u043e\u0441\u0442\u0438 \u0438 \u0441\u043c\u0435\u0440\u0442\u043d\u043e\u0441\u0442\u0438\u2026",
+      "url": "https://life.ru/p/1710563",
+      "urlToImage": "https://static.life.ru/ip/unsafe/rs:fill:1200:/gravity:ce/q:100/czM6Ly9saWZlLXN0YXRpYy9wdWJsaWNhdGlvbnMvMjAyNC8xMi85LzEzMjI3Njc5NzAyMTEuMTM1LndlYnA=",
+      "publishedAt": "2024-12-09 23:32:43",
+      "content": "3 1 2 (mpox). (), (). 13 171, 2 023 . 57, . , 851 , 9 513. , mpox, . , . 2022 115 , 255 . , Ib . , Ib 2024 .",
+      "retrievedAt": "2024-12-11 07:07:25.557639",
+      "internal_id": "24e5a57edd82943d61995ffbfc67d861750ba3a6b880c3b5d7016fed264c8dd4",
+      "publishedAtLabel": "Dec 9"
+    },
+    {
+      "id": 16227,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Wnd.com",
+      "author": "Joe Kovacs",
+      "title": "Morocco produces Africa\u2019s first mpox tests as the continent tries to rely less on imports",
+      "description": "'This is a major problem. The main issue remains the laboratory, which is not adequately equipped'",
+      "url": "https://www.wnd.com/2024/12/morocco-produces-africas-first-mpox-tests-as-the-continent-tries-to-rely-less-on-imports/",
+      "urlToImage": "https://www.wnd.com/wp-content/uploads/2024/06/vaccine-vaccination-medicine-doctor-Pixabay-copyright-free-image.jpg",
+      "publishedAt": "2024-12-09 23:25:10",
+      "content": "(AP) \u2014 After African countries struggled to get testing kits during the COVID-19 pandemic, officials vowed to make the continent less dependent on imported medical supplies. Now, in a first for Afric\u2026 [+804 chars]",
+      "retrievedAt": "2024-12-11 07:07:25.579374",
+      "internal_id": "d468ca2d01930996f9117302a019f29de912d231cf0848136bea9b4b1b5e416c",
+      "publishedAtLabel": "Dec 9"
+    },
+    {
+      "id": 16226,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Tass.ru",
+      "author": null,
+      "title": "\u0412 \u0410\u0444\u0440\u0438\u043a\u0435 \u0441 \u043d\u043e\u044f\u0431\u0440\u044f \u0432\u044b\u044f\u0432\u0438\u043b\u0438 \u0431\u043e\u043b\u0435\u0435 2 \u0442\u044b\u0441. \u0441\u043b\u0443\u0447\u0430\u0435\u0432 \u043e\u0441\u043f\u044b \u043e\u0431\u0435\u0437\u044c\u044f\u043d",
+      "description": "\u0417\u0430 \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0438\u0439 \u043c\u0435\u0441\u044f\u0446 \u0410\u043d\u0433\u043e\u043b\u0430 \u043f\u043e\u043f\u043e\u043b\u043d\u0438\u043b\u0430 \u0447\u0438\u0441\u043b\u043e \u0441\u0442\u0440\u0430\u043d, \u0433\u0434\u0435 \u0432\u044b\u044f\u0432\u043b\u0435\u043d\u0430 \u0431\u043e\u043b\u0435\u0437\u043d\u044c mpox",
+      "url": "https://tass.ru/obschestvo/22624001",
+      "urlToImage": "https://cdn-storage-media.tass.ru/thumb/ru/obschestvo/22624001?u=2024-12-09T22:52:27.154025",
+      "publishedAt": "2024-12-09 22:52:27",
+      "content": ", 10 . //. 2 . mpox (\"\", ) 3 1 . (), (). , 1 1 2024 13 171 mpox 57 , 2 023 4 , 3 . 3 851, 9 513. , mpox. 1 2022 31 115 101 mpox, 255 . mpox 2022 11 2023 . , 14 - . Mpox - , , . 1970 .",
+      "retrievedAt": "2024-12-11 07:07:25.572489",
+      "internal_id": "0219e760282f5b21ac9ae80b46526864b39d79f72923a1c3c4ec5621923960cd",
+      "publishedAtLabel": "Dec 9"
+    },
+    {
+      "id": 16225,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Boston Herald",
+      "author": "Associated Press",
+      "title": "Ticker: NYC ad agency titans Omnicom and Interpublic to form $30B powerhouse; Morocco produces Africa\u2019s first mpox tests",
+      "description": "Ticker: NYC ad agency titans Omnicom and Interpublic to form $30B powerhouse; Morocco produces Africa\u2019s first mpox tests",
+      "url": "https://www.bostonherald.com/2024/12/09/ticker-nyc-ad-agency-titans-omnicom-and-interpublic-to-form-30b-powerhouse-morocco-produces-africas-first-mpox-tests/",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2024/05/Congo_Mpox_Outbreak_17856.jpg?w=1024&h=880",
+      "publishedAt": "2024-12-09 22:14:29",
+      "content": "Omnicom is buying Interpublic Group in a stock-for-stock deal that will create the largest ad agency in the world with combined annual revenue of almost $26 billion. The names may be unfamiliar to m\u2026 [+1213 chars]",
+      "retrievedAt": "2024-12-11 07:07:25.565456",
+      "internal_id": "2c4a8fc91241900d9006eaa542a0b1d774741de6277697735e1df8c9519f127f",
+      "publishedAtLabel": "Dec 9"
+    },
+    {
+      "id": 16219,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Popular Mechanics",
+      "author": "Tim Newcomb",
+      "title": "A Single Mutation Could Send Avian Flu From Birds to Humans",
+      "description": "A Single Mutation Could Send Avian Flu From Birds to Humanspopularmechanics.com",
+      "url": "https://www.popularmechanics.com/science/health/a63119336/single-mutation-bird-flu-humans/",
+      "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/drop-of-black-and-green-paint-slides-on-a-white-royalty-free-image-1733775771.pjpeg?crop=1.00xw:0.595xh;0,0.192xh&resize=1200:*",
+      "publishedAt": "2024-12-09 20:37:51",
+      "content": "A new study by biologists from the Scripps Research Institute shows that a bird flu virus is just a single mutation away from having human-ready receptors.If the H5N1 virus does make\u2026 [+4525 chars]",
+      "retrievedAt": "2024-12-11 07:07:23.234997",
+      "internal_id": "8d46f8fd87a2159863da065ff0abb7cffbb0ce85327c5f470a685cbf130c38e2",
+      "publishedAtLabel": "Dec 9"
+    },
+    {
+      "id": 16210,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Times Of India",
+      "title": "K\u2019taka 3rd in rabies deaths in India from 2021-24",
+      "description": "Recent data reveals that Karnataka has the third highest number of rabies deaths in India from 2021 to 2024, prompting calls for increased awareness and action to address the rising threat from rabies and other infectious diseases.",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/karnataka-ranks-3rd-in-rabies-deaths-in-india-urgent-action-needed/articleshow/116150125.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-12-09 20:23:49",
+      "content": "Karishma Tanna slays the boss lady vibe in stunning monochrome formals",
+      "retrievedAt": "2024-12-11 07:07:21.791470",
+      "internal_id": "52a2b955545850682e0c9b557ff5fee14d3293a91a92624b1afd5588a2268c69",
+      "publishedAtLabel": "Dec 9"
+    },
+    {
+      "id": 16211,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Boston Herald",
+      "author": "Kff Health News",
+      "title": "How measles, whooping cough, and worse could roar back on RFK Jr.\u2019s watch",
+      "description": "It\u2019s unclear how far the administration would go to discourage vaccination, but if levels drop enough, vaccine-preventable illnesses and deaths might soar.",
+      "url": "https://www.bostonherald.com/2024/12/09/measles-whooping-cough-rfk-jr/",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2024/12/RFK1-1.jpeg?w=1024&h=682",
+      "publishedAt": "2024-12-09 20:23:18",
+      "content": "By Arthur Allen | KFF Health News The availability of safe, effective COVID vaccines less than a year into the pandemic marked a high point in the 300-year history of vaccination, seemingly heraldin\u2026 [+11822 chars]",
+      "retrievedAt": "2024-12-11 07:07:22.176470",
+      "internal_id": "445dd702a456330556ee1c34280e0fe2f0cdc9dc0ba169efdcb36a44db513121",
+      "publishedAtLabel": "Dec 9"
+    },
     {
       "id": 16201,
       "query": [
@@ -19,6 +290,24 @@
       "content": "La propagaci\u00f3n de la gripe aviar H5N1 en Estados Unidos tiene tambi\u00e9n en alerta a otros pa\u00edses. Algunos gobiernos compran existencias de vacunas y aumentan las medidas de precauci\u00f3n en respuesta al v\u2026 [+4376 chars]",
       "retrievedAt": "2024-12-10 19:06:06.409384",
       "internal_id": "7821c865da218185e3a1a08b1f1dbbd278421076c661006234939082744c1a7d",
+      "publishedAtLabel": "Dec 9"
+    },
+    {
+      "id": 16217,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Krone.at",
+      "author": "Stephan Brodicky",
+      "title": "Nur eine Mutation trennt Vogelgrippe vom Menschen",
+      "description": "Wissenschaftler schlagen Alarm: Das H5N1-Virus, besser bekannt als Vogelgrippe, ben\u00f6tigt laut einer aktuellen Studie nur noch eine einzige Mutation, ...",
+      "url": "https://www.krone.at/3620337",
+      "urlToImage": "https://imgl.krone.at/scaled/3620358/v1e3fad/og_image.jpg",
+      "publishedAt": "2024-12-09 15:23:13",
+      "content": "Erschreckend, wie schnell sich das Virus anpassen k\u00f6nnteEs ist erschreckend, wie schnell sich das Virus anpassen k\u00f6nnte, erkl\u00e4rt James Paulson, einer der Studienautoren und Biochemiker am Scripps Res\u2026 [+227 chars]",
+      "retrievedAt": "2024-12-11 07:07:23.220575",
+      "internal_id": "d1d697094a1e547c769a8130adc849cd289ef8f344acf515920bab802bb1edcb",
       "publishedAtLabel": "Dec 9"
     },
     {
@@ -528,6 +817,24 @@
       "publishedAtLabel": "Dec 8"
     },
     {
+      "id": 16222,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "WESH Orlando",
+      "author": "Brenda Goodman",
+      "title": "US government to begin expanded testing of milk supply to better track the spread of bird flu",
+      "description": "The U.S. Department of Agriculture will begin testing raw milk from dairy silos around the nation in an effort to better track the bird flu that has been spreading in dairy cattle since March.",
+      "url": "https://www.wesh.com/article/us-expanded-testing-of-milk-supply-track-spread-of-bird-flu/63118481",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/cnn-l19jb21wb25lbnrzl2ltywdll2luc3rhbmnlcy9jbtrkmnj2yxgwmdaxm2i1dmvozwvynxz0-l19jb21wb25lbnrzl2fydgljbguvaw5zdgfuy2vzl2ntngqyothnedawnwyyynfky3y4n2m4mdc-jpg-6755f43a0add6.jpg?crop=1.00xw:0.846xh;0,0.120xh&resize=1200:*",
+      "publishedAt": "2024-12-08 21:01:51",
+      "content": "CNN \u2014The U.S. Department of Agriculture will begin testing raw milk from dairy silos around the nation in an effort to better track the H5N1 bird flu that has been spreading in dairy cattle since Mar\u2026 [+1980 chars]",
+      "retrievedAt": "2024-12-11 07:07:23.256736",
+      "internal_id": "bb2459d724798bc8ae87c4c61b2c8217847fad875c23a6ecffa5599b34593558",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
       "id": 16182,
       "query": [
         "malaria"
@@ -707,6 +1014,24 @@
       "content": "Whooping cough, or pertussis, is a highly contagious respiratory infection caused by bacteria called Bordetella pertussis. The infection attacks the lining of the breathing passages. People can get w\u2026 [+5675 chars]",
       "retrievedAt": "2024-12-09 07:07:47.937262",
       "internal_id": "0e1ba61f1e51a8c2ff2fe641a190e89d5d186890017e9f0524dd9a1916e8bc93",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 16218,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "KTVU San Francisco",
+      "author": "Ktvu Staff",
+      "title": "Possible bird flu reported in child in Marin County",
+      "description": "Marin County Public Health is reporting a possible case of H5N1, also known as the bird flu, in a child.",
+      "url": "https://www.ktvu.com/news/possible-bird-flu-reported-child-marin-county",
+      "urlToImage": "https://images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2024/12/1280/720/gettyimages-71656303.jpg?ve=1&tl=1",
+      "publishedAt": "2024-12-08 03:38:30",
+      "content": "MARIN COUNTY, Calif. - Marin County Public Health is reporting a possible case of H5N1, also known as the bird flu, in a child. It's unclear when exactly the child potentially contracted the disease\u2026 [+855 chars]",
+      "retrievedAt": "2024-12-11 07:07:23.227812",
+      "internal_id": "b74b1a20803a4ef63bbe9152eb1d641f5a8d5baa5d82c2eea616a5b9e1006146",
       "publishedAtLabel": "Dec 8"
     },
     {
@@ -924,6 +1249,24 @@
       "content": "The U.S. Department of Agriculture announced Friday that it would soon begin testing the country's milk supply for H5N1, the virus that causes bird flu.Milk has been a central concern as cases of bir\u2026 [+5720 chars]",
       "retrievedAt": "2024-12-08 07:06:09.610362",
       "internal_id": "6000bd6b36883912501481a8269a0740aa1f8420987d38294ecdec4999c68f1d",
+      "publishedAtLabel": "Dec 7"
+    },
+    {
+      "id": 16220,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Sky News Australia",
+      "author": "Gemma Crotty",
+      "title": "Study finds single mutation could enable H5N1 strain of bird flu to bind more easily with human cells, sparking concern about rapid spread",
+      "description": "A study has identified a single mutation which could enable a strain of bird flu to more easily attach to human cell receptors, sparking concerns it could spread rapidly among humans.",
+      "url": "https://www.skynews.com.au/lifestyle/health/study-finds-single-mutation-could-enable-h5n1-strain-of-bird-flu-to-bind-more-easily-with-human-cells-sparking-concern-about-rapid-spread/news-story/8e517492a940ef7b8059575037350057",
+      "urlToImage": "https://content.api.news/v3/images/bin/c57dc0e322e923892761cb0c5f6a15fe",
+      "publishedAt": "2024-12-07 06:09:18",
+      "content": "A study has identified a single mutation which could enable a strain of bird flu to more easily attach to human cell receptors, sparking concerns it could spread rapidly among humans. The H5N1 stra\u2026 [+2382 chars]",
+      "retrievedAt": "2024-12-11 07:07:23.241724",
+      "internal_id": "24d0b22c5b3559364b472ce871856a9334c77b550f2dcedd2800acf25b353ef6",
       "publishedAtLabel": "Dec 7"
     },
     {
@@ -21806,6 +22149,60 @@
       "content": "A man from northern Israel contracted rabies after being bitten by his pet dog, Israeli media reported on Sunday. According to the reports, the man was sent to intensive care following the bite and \u2026 [+236 chars]",
       "retrievedAt": "2024-10-29 07:06:33.659787",
       "internal_id": "9f1990124459b13d8c31fffeb273d60d6024a83d2f33b25f0489bb801d39d7b1",
+      "publishedAtLabel": "Oct 27"
+    },
+    {
+      "id": 14999,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Bola Bamigbola",
+      "title": "Experts caution FG on malaria vaccine mass rollout",
+      "description": "A group of scientists under the aegis of Living Science Foundation has called on the Federal Government to drop the plan to incorporate a newly developed malaria vaccine into the routine immunisation schedule in the country. This was contained in a press stat\u2026",
+      "url": "https://punchng.com/experts-caution-fg-on-malaria-vaccine-mass-rollout/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2024/10/27182204/Untitled.jpg",
+      "publishedAt": "2024-10-27 17:34:24",
+      "content": "A group of scientists under the aegis of Living Science Foundation has called on the Federal Government to drop the plan to incorporate a newly developed malaria vaccine into the routine immunisation\u2026 [+4204 chars]",
+      "retrievedAt": "2024-10-28 19:05:46.209733",
+      "internal_id": "4caaec3e97f371d7699b31c81c633a2cf4b18e1268fd03de902d4b8196bc0eb7",
+      "publishedAtLabel": "Oct 27"
+    },
+    {
+      "id": 15000,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "etimes.in",
+      "title": "What raises the risk of Typhoid among children living in crowded areas",
+      "description": "Typhoid, a bacterial infection common in tropical regions, spreads through contaminated food and water, often affecting children in overcrowded areas. Poor sanitation, including practices like open defecation and unhygienic food handling, heighten the risk. B\u2026",
+      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/what-raises-the-risk-of-typhoid-among-children-living-in-crowded-areas/articleshow/114660592.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-114660573,width-1070,height-580,imgsize-499179,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-10-27 15:43:05",
+      "content": "Body pain in women linked to their belly fat!",
+      "retrievedAt": "2024-10-28 19:05:47.103487",
+      "internal_id": "2cadd958732713478a87dee105bd71389debae8d6710c64cd26c1bcb8483934a",
+      "publishedAtLabel": "Oct 27"
+    },
+    {
+      "id": 14998,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Nakedcapitalism.com",
+      "author": "Conor Gallagher",
+      "title": "Exclusive: Emails Reveal How Health Departments Struggle To Track Human Cases of Bird Flu",
+      "description": "Emails show how health officials struggle to track the bird flu, partly in deference to the agricultural industry. As a result, researchers don\u2019t know how often farmworkers are being infected \u2014 and could miss alarming signals.",
+      "url": "https://www.nakedcapitalism.com/2024/10/exclusive-emails-reveal-how-health-departments-struggle-to-track-human-cases-of-bird-flu.html",
+      "urlToImage": "https://www.nakedcapitalism.com/wp-content/uploads/2024/10/1-1024x672.png",
+      "publishedAt": "2024-10-27 09:00:23",
+      "content": "Conor here: Entirely unsurprising, especially if you read Lamberts Oct. 24 piece Biden Bets on Let Er Rip with a SECOND Pandemic-Grade Virus: H5N1 (Bird Flu). That dealt largely with cattle. The foll\u2026 [+11520 chars]",
+      "retrievedAt": "2024-10-28 19:05:45.295162",
+      "internal_id": "3ed6f65ff026efe8905684b1c8d64766c6085fdc240e1a19386781164ccf7f86",
       "publishedAtLabel": "Oct 27"
     }
   ]
