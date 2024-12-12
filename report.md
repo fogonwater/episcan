@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 19
-- **Last harvest:** 2024-12-11 19:05
-- **Most recent article:** 2024-12-10 18:49:41
+- **New articles in last harvest:** 16
+- **Last harvest:** 2024-12-12 07:07
+- **Most recent article:** 2024-12-11 06:25:55
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-44 | 24-45 | 24-46 | 24-47 | 24-48 | 24-49 | 24-50 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 75 | 63 | 62 | 76 | 26 | 20 | 16 | 338 |
-| h5n1 | 60 | 36 | 40 | 50 | 38 | 70 | 24 | 318 |
-| malaria | 15 | 26 | 33 | 27 | 29 | 27 | 23 | 180 |
-| dengue | 30 | 31 | 36 | 28 | 25 | 10 | 3 | 163 |
+| mpox | 75 | 63 | 62 | 76 | 26 | 20 | 18 | 340 |
+| h5n1 | 61 | 36 | 40 | 50 | 38 | 70 | 26 | 321 |
+| malaria | 16 | 26 | 33 | 27 | 29 | 27 | 26 | 184 |
+| dengue | 30 | 31 | 36 | 28 | 25 | 10 | 12 | 172 |
 | measles | 13 | 3 | 33 | 11 | 6 | 9 | 7 | 82 |
 | rabies | 10 | 5 | 11 | 7 | 12 | 13 | 1 | 59 |
-| zika | 3 | 9 | 4 | 3 | 1 | 4 | 1 | 25 |
-| chikungunya | 2 | 2 | 3 | 5 | 4 | 6 | 2 | 24 |
+| zika | 3 | 9 | 4 | 3 | 1 | 4 | 2 | 26 |
+| chikungunya | 2 | 2 | 3 | 5 | 4 | 6 | 3 | 25 |
 | pertussis | 1 | 3 | 8 | 5 | 1 | 4 | 2 | 24 |
 | hpai | 7 | 4 | 4 | 4 | 0 | 2 | 2 | 23 |
 | meningitis | 3 | 5 | 2 | 5 | 3 | 3 | 0 | 21 |
 | leptospirosis | 3 | 10 | 3 | 0 | 2 | 0 | 0 | 18 |
-| typhoid | 3 | 1 | 1 | 3 | 1 | 0 | 1 | 10 |
+| typhoid | 4 | 1 | 1 | 3 | 1 | 0 | 1 | 11 |
 | yersinia | 3 | 0 | 0 | 1 | 1 | 0 | 0 | 5 |
 | shigellosis | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 1 |
 
@@ -34,6 +34,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-50 (zika)
+
+- [Knowledge, attitudes and practice questionnaires in dengue, Zika, chikungunya and yellow fever settings: a scoping review protocol](https://bmjopen.bmj.com/content/14/12/e090251) (The BMJ)
 
 - [Cientistas alertam para riscos de dengue, chikungunya e a Zika em Portugal](https://observador.pt/2024/12/09/cientistas-alertam-para-riscos-de-dengue-chikungunya-e-a-zika-em-portugal/) (Observador.pt)
 
@@ -52,6 +54,10 @@ Source: [News API](https://newsapi.org/)
 - [Understanding whooping cough](https://www.bostonherald.com/2024/12/08/understanding-whooping-cough/) (Boston Herald)
 
 ## 24-50 (mpox)
+
+- [Más de 400 contagios y decenas de muertos: qué se sabe sobre la enfermedad que ha puesto a RD Congo en "alerta máxima"](https://www.elespanol.com/ciencia/salud/20241211/contagios-decenas-muertos-sabe-enfermedad-puesto-rd-congo-alerta-maxima/907659789_0.html) (Elespanol.com)
+
+- [Interim Results from STOMP Study of SIGA’s Tecovirimat in Treatment of Mpox Announced](https://www.globenewswire.com/news-release/2024/12/10/2994943/9738/en/Interim-Results-from-STOMP-Study-of-SIGA-s-Tecovirimat-in-Treatment-of-Mpox-Announced.html) (GlobeNewswire)
 
 - [Premiers tests mpox développés sur le continent africain](https://fr.sputniknews.africa/20241210/premiers-tests-mpox-developpes-sur-le-continent-africain-1069644348.html) (Sputniknews.africa)
 
@@ -102,6 +108,12 @@ Source: [News API](https://newsapi.org/)
 - [Mysterious New Disease X Is Officially Here, Potentially Airborne](https://www.newsbreak.com/share/3706705509412-mysterious-new-disease-x-is-officially-here-potentially-airborne?_f=app_share&amp;pd=0EuIdPvZ&amp;lang=en_US&amp;send_time=1733680315&amp;trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2224.48.0.25%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_local_strategy_24q4_exp-v11%2Cns_push_exp_rt_bucketv12-control%2Cns_foryou_rank_exp_24q4-v4%2Cns_foryou_blend_exp_24q4-v6%2Cns_foryou_model_exp_24q4-v8%2Cns_foryou_recall_exp_24q4-v7&amp;s=i2) (Newsbreak.com)
 
 ## 24-50 (malaria)
+
+- [Malaria parasites require a divergent heme oxygenase for apicoplast gene expression and biogenesis](https://elifesciences.org/articles/100256) (Elifesciences.org)
+
+- [Rätselhafte Epidemie könnte Malaria sein](https://www.welt.de/gesundheit/article254831910/Krankheit-X-Altbekannte-Erreger-koennten-fuer-die-raetselhafte-Epidemie-im-Kongo-verantwortlich-sein.html) (DIE WELT)
+
+- [WHO findet Hinweise auf Malaria bei "Krankheit X"](https://www.tagesschau.de/ausland/afrika/who-krankheit-x-malaria-kongo-100.html) (tagesschau.de)
 
 - [WHO: Viele „Krankheit X“-Patienten haben Malaria](https://www.diepresse.com/19165404/who-viele-krankheit-x-patienten-haben-malaria) (Diepresse.com)
 
@@ -157,6 +169,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-50 (h5n1)
 
+- [Alerta vermelho: gripe aviária a um passo de infectar humanos](https://olhardigital.com.br/2024/12/11/medicina-e-saude/alerta-vermelho-gripe-aviaria-a-um-passo-de-infectar-humanos/) (Olhardigital.com.br)
+
+- [Gripe aviária está a uma mutação de ser transmitida entre humanos](https://www.metropoles.com/saude/gripe-aviaria-a-uma-mutacao-infectar-humanos) (Metropoles.com)
+
 - [Government to test milk for bird flu | CNN](https://www.cnn.com/2024/12/10/health/video/gupta-bird-flu-raw-milk-on-call-digvid) (CNN)
 
 - [Kuş gribi H5N1'in tek bir mutasyonu yeni bir pandemiye neden olabilir](https://www.patronlardunyasi.com/kus-gribi-h5n1in-tek-bir-mutasyonu-yeni-bir-pandemiye-neden-olabilir) (Patronlardunyasi.com)
@@ -207,6 +223,24 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-50 (dengue)
 
+- [Record outbreak of Dengue fever in Central and South America](https://www.bbc.com/news/articles/czendjlx849o) (BBC News)
+
+- [Cocirculation of 4 Dengue Virus Serotypes, Putumayo Amazon Basin, 2023–2024](https://wwwnc.cdc.gov/eid/article/31/1/24-0888_article) (Cdc.gov)
+
+- [Concerns Raised as Dengue Spreads in the Americas at Record-Setting Pace](https://www.newsweek.com/concerns-raised-dengue-spreads-americas-record-setting-pace-1998834) (Newsweek)
+
+- [Knowledge, attitudes and practice questionnaires in dengue, Zika, chikungunya and yellow fever settings: a scoping review protocol](https://bmjopen.bmj.com/content/14/12/e090251) (The BMJ)
+
+- [Brasil lidera casos e mortes por dengue num ano recorde nas Américas](https://observador.pt/2024/12/10/brasil-lidera-casos-e-mortes-por-dengue-num-ano-recorde-nas-americas/) (Observador.pt)
+
+- [Dengue cases set a new record in the Americas this year as deaths also surge](https://www.bostonherald.com/2024/12/10/dengue-cases-new-record-americas/) (Boston Herald)
+
+- [Cambio climático triplicó casos de dengue, la epidemia más grande de las Américas: OPS](https://www.milenio.com/ciencia-y-salud/cambio-climatico-triplica-casos-dengue-americas-ops) (Milenio)
+
+- [Dengue cases set a new record in the Americas this year as deaths also surge](https://abcnews.go.com/International/wireStory/dengue-cases-set-new-record-americas-year-deaths-116650805) (ABC News)
+
+- [Dengue cases set a new record in the Americas this year as deaths also surge](https://abcnews.go.com/Health/wireStory/dengue-cases-set-new-record-americas-year-deaths-116650806) (ABC News)
+
 - [Schon 12,6 Millionen Fälle dieses Jahr: Lateinamerika erlebt schwere Dengue-Epidemie](https://www.tagesspiegel.de/gesundheit/schon-126-millionen-falle-dieses-jahr-lateinamerika-erlebt-schwere-dengue-epidemie-12854444.html) (Der Tagesspiegel)
 
 - [El dengue deja un récord de 12,6 millones de casos y 7.713 muertes en 2024 en América](https://www.montevideo.com.uy/Salud/El-dengue-deja-un-record-de-12-6-millones-de-casos-y-7-713-muertes-en-2024-en-America-uc909102) (Montevideo.com.uy)
@@ -214,6 +248,8 @@ Source: [News API](https://newsapi.org/)
 - [Cientistas alertam para riscos de dengue, chikungunya e a Zika em Portugal](https://observador.pt/2024/12/09/cientistas-alertam-para-riscos-de-dengue-chikungunya-e-a-zika-em-portugal/) (Observador.pt)
 
 ## 24-50 (chikungunya)
+
+- [Knowledge, attitudes and practice questionnaires in dengue, Zika, chikungunya and yellow fever settings: a scoping review protocol](https://bmjopen.bmj.com/content/14/12/e090251) (The BMJ)
 
 - [Strategic vaccination responses to Chikungunya outbreaks in Rome: Insights from a dynamic transmission model](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012713) (Plos.org)
 
@@ -2333,6 +2369,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Time to Get Typhoid! Classic Oregon Trail Video Game to Get Movie Treatment](https://reactormag.com/time-to-get-typhoid-classic-oregon-trail-video-game-to-get-movie-treatment/) (Reactormag.com)
 
+- [What raises the risk of Typhoid among children living in crowded areas](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/what-raises-the-risk-of-typhoid-among-children-living-in-crowded-areas/articleshow/114660592.cms) (The Times of India)
+
 ## 24-44 (rabies)
 
 - [Instagram famous squirrel named Peanut euthanised by New York authorities](https://www.abc.net.au/news/2024-11-02/peanut-the-internet-famous-squirrel-euthanised-authorities/104552922) (ABC News (AU))
@@ -2579,6 +2617,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Ogun, SFH deploy 1,180 town announcers for mosquito nets distribution](https://punchng.com/ogun-sfh-deploy-1180-town-announcers-for-mosquito-nets-distribution/) (The Punch)
 
+- [Experts caution FG on malaria vaccine mass rollout](https://punchng.com/experts-caution-fg-on-malaria-vaccine-mass-rollout/) (The Punch)
+
 ## 24-44 (leptospirosis)
 
 - [Martín-Moreno, catedrático de la UV: "A las 72 horas de la inundación se agravan los riesgos de infección, hay que poner medidas ya"](https://www.meneame.net/m/actualidad/martin-moreno-catedratico-uv-72-horas-inundacion-agravan-riesgos) (Meneame.net)
@@ -2724,6 +2764,8 @@ Source: [News API](https://newsapi.org/)
 - [H5N1 virus isolated from infected dairy worker is 100% lethal in ferrets, but does not appear to be circulating in nature anymore](https://www.sciencedaily.com/releases/2024/10/241028131451.htm) (Science Daily)
 
 - [Flu season will complicate tracking spread of H5N1 avian influenza](https://www.statnews.com/2024/10/28/flu-season-presents-challenges-in-tracking-h5n1-avian-influenza-outbreak/) (STAT)
+
+- [Exclusive: Emails Reveal How Health Departments Struggle To Track Human Cases of Bird Flu](https://www.nakedcapitalism.com/2024/10/exclusive-emails-reveal-how-health-departments-struggle-to-track-human-cases-of-bird-flu.html) (Nakedcapitalism.com)
 
 ## 24-44 (dengue)
 

@@ -1,8 +1,298 @@
 {
-  "last_updated": "2024-12-11 19:05",
-  "count_articles_total": 1247,
-  "count_articles_new": 19,
+  "last_updated": "2024-12-12 07:07",
+  "count_articles_total": 1266,
+  "count_articles_new": 16,
   "articles": [
+    {
+      "id": 16253,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": null,
+      "title": "Record outbreak of Dengue fever in Central and South America",
+      "description": "More than 12.6m cases were recorded this year, the region's UN health organisation says.",
+      "url": "https://www.bbc.com/news/articles/czendjlx849o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/f4a4/live/10b47840-b789-11ef-a2c8-251ed25f1a18.jpg",
+      "publishedAt": "2024-12-11 06:25:55",
+      "content": "The number of cases of dengue fever in Central and South America has nearly tripled to a record high this year, the Pan American Health Organisation (Paho) said on Tuesday. More than 12.6m cases and\u2026 [+1679 chars]",
+      "retrievedAt": "2024-12-12 07:07:20.942634",
+      "internal_id": "07444ab4ba17f691e759866c4ef747de5883cfb6d75eb51738d91f8b387bf8aa",
+      "publishedAtLabel": "Dec 11"
+    },
+    {
+      "id": 16255,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Cocirculation of 4 Dengue Virus Serotypes, Putumayo Amazon Basin, 2023\u20132024",
+      "description": "Cocirculation of 4 Dengue Virus Serotypes, Putumayo Amazon Basin, 2023\u20132024",
+      "url": "https://wwwnc.cdc.gov/eid/article/31/1/24-0888_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2024-12-11 05:00:00",
+      "content": "Disclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released.Latin America, including E\u2026 [+5077 chars]",
+      "retrievedAt": "2024-12-12 07:07:20.961700",
+      "internal_id": "0a76cb943eaadda59ece056bc88808ff74a25c766fa4fe0cedd6ac845300b4e6",
+      "publishedAtLabel": "Dec 11"
+    },
+    {
+      "id": 16248,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Rodrigo Mozelli",
+      "title": "Alerta vermelho: gripe avi\u00e1ria a um passo de infectar humanos",
+      "description": "Embora n\u00famero de infec\u00e7\u00f5es tenha crescido e epis\u00f3dios preocupantes tenham sido registrados, doen\u00e7a ainda n\u00e3o \u00e9 transmitida entre seres humanos O post Alerta vermelho: gripe avi\u00e1ria a um passo de infectar humanos apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2024/12/11/medicina-e-saude/alerta-vermelho-gripe-aviaria-a-um-passo-de-infectar-humanos/",
+      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2024/12/gripe_aviaria.jpg",
+      "publishedAt": "2024-12-11 03:23:12",
+      "content": "Os casos de infec\u00e7\u00e3o pelo v\u00edrus da gripe avi\u00e1ria (H5N1) aumentaram neste ano, especialmente ap\u00f3s a doen\u00e7a come\u00e7ar a afetar mam\u00edferos, incluindo fazendas de gado nos Estados Unidos. Embora o n\u00famero d\u2026 [+1992 chars]",
+      "retrievedAt": "2024-12-12 07:07:20.161865",
+      "internal_id": "a5df5940e11fbffc0f7e1d0d08761a26e176f9eb0c989baadb19bf4285d63b0f",
+      "publishedAtLabel": "Dec 11"
+    },
+    {
+      "id": 16263,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Elespanol.com",
+      "author": "In\u00e9s S\u00e1nchez-Manjavacas Casta\u00f1o",
+      "title": "M\u00e1s de 400 contagios y decenas de muertos: qu\u00e9 se sabe sobre la enfermedad que ha puesto a RD Congo en \"alerta m\u00e1xima\"",
+      "description": "Esta patolog\u00eda afecta mayoritariamente a ni\u00f1os entre 0 y 14 a\u00f1os y los casos graves se relacionan con anemia y desnutrici\u00f3n. M\u00e1s informaci\u00f3n: Bruno Gonz\u00e1lez-Zorn, experto en superbacterias: \"Hay que controlar los antibi\u00f3ticos como se hace con los psicotr\u00f3pico\u2026",
+      "url": "https://www.elespanol.com/ciencia/salud/20241211/contagios-decenas-muertos-sabe-enfermedad-puesto-rd-congo-alerta-maxima/907659789_0.html",
+      "urlToImage": "https://s1.elespanol.com/2024/12/10/ciencia/salud/907670069_251566810_1706x960.png",
+      "publishedAt": "2024-12-11 02:13:56",
+      "content": "Rep\u00fablica Democr\u00e1tica del Congo se enfrenta a una nueva crisis sanitaria. Adem\u00e1s del brote de mpox que ha causado estragos desde este verano, ahora tiene que abordar una nueva enfermedad totalmente d\u2026 [+5279 chars]",
+      "retrievedAt": "2024-12-12 07:07:23.649987",
+      "internal_id": "37fccdfeb4aa3d18959b707670b7743a2d4ac4b08770a00718d39eda7f56bd7e",
+      "publishedAtLabel": "Dec 11"
+    },
+    {
+      "id": 16260,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Elifesciences.org",
+      "author": "dgoldberg@wustl.edu (Akinobu Senoo), dgoldberg@wustl.edu (Amanda Mixon Blackwell), dgoldberg@wustl.edu (Armiyaw S Nasamu), dgoldberg@wustl.edu (Celine Slam), dgoldberg@wustl.edu (Daniel E Goldberg), dgoldberg@wustl.edu (James A Wohlschlegel), dgoldberg@wustl.edu (Jose Manuel Martinez Caaveiro), dgoldberg@wustl.edu (Kouhei Tsumoto), dgoldberg@wustl.edu (Paul A Sigala), dgoldberg@wustl.edu (Shota Kudo), dgoldberg@wustl.edu (Yasaman Jami-Alahmadi)",
+      "title": "Malaria parasites require a divergent heme oxygenase for apicoplast gene expression and biogenesis",
+      "description": "Malaria parasites have evolved unusual metabolic adaptations that specialize them for growth within heme-rich human erythrocytes. During blood-stage infection, Plasmodium falciparum parasites internalize and digest abundant host hemoglobin within the digestiv\u2026",
+      "url": "https://elifesciences.org/articles/100256",
+      "urlToImage": "https://elifesciences.org/assets/images/social/icon-600x600@1.52e87ee6.png",
+      "publishedAt": "2024-12-11 00:00:00",
+      "content": "Reagent type (species) or resourceDesignationSource or referenceIdentifiersAdditional information Cell line (Plasmodium falciparu\u2026 [+37761 chars]",
+      "retrievedAt": "2024-12-12 07:07:21.753687",
+      "internal_id": "64ebd634a820f508bf68d0bfc52a1aecf903e00c75c43ca8bca73108fb86a950",
+      "publishedAtLabel": "Dec 11"
+    },
+    {
+      "id": 16261,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "DIE WELT",
+      "author": "WELT",
+      "title": "R\u00e4tselhafte Epidemie k\u00f6nnte Malaria sein",
+      "description": "Noch ist es nicht best\u00e4tigt. Aber wom\u00f6glich sind keine neuen Erreger, sondern altbekannte Parasiten f\u00fcr die Todesf\u00e4lle in der Demokratischen Republik Kongo verantwortlich. Erste Ergebnisse der WHO liegen vor.",
+      "url": "https://www.welt.de/gesundheit/article254831910/Krankheit-X-Altbekannte-Erreger-koennten-fuer-die-raetselhafte-Epidemie-im-Kongo-verantwortlich-sein.html",
+      "urlToImage": "https://img.welt.de/img/gesundheit/mobile254831908/6077935657-ci16x9-w1200/Testing-for-malaria-conceptual-image.jpg",
+      "publishedAt": "2024-12-10 22:42:59",
+      "content": "Noch ist es nicht best\u00e4tigt. Aber wom\u00f6glich sind keine neuen Erreger, sondern altbekannte Parasiten f\u00fcr die Todesf\u00e4lle in der Demokratischen Republik Kongo verantwortlich. Erste Ergebnisse der WHO li\u2026 [+2473 chars]",
+      "retrievedAt": "2024-12-12 07:07:21.810581",
+      "internal_id": "887ca250f56f81e1cd9c7b4279b6cd3478e5dc85774505dfbf4e471b22ffa7e5",
+      "publishedAtLabel": "Dec 10"
+    },
+    {
+      "id": 16251,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Natalie Venegas",
+      "title": "Concerns Raised as Dengue Spreads in the Americas at Record-Setting Pace",
+      "description": "According to officials, there have been 12.6 million suspected cases of dengue this year, which is nearly triple the figures from 2023.",
+      "url": "https://www.newsweek.com/concerns-raised-dengue-spreads-americas-record-setting-pace-1998834",
+      "urlToImage": "https://d.newsweek.com/en/full/2540996/dengue.jpg",
+      "publishedAt": "2024-12-10 22:36:23",
+      "content": "Concerns among health officials have continued the spread of dengue fever as cases have reached unprecedented levels in the Americas. According to officials, there have been 12.6 million suspected c\u2026 [+3913 chars]",
+      "retrievedAt": "2024-12-12 07:07:20.927419",
+      "internal_id": "431b57593545a6fa06a643b85d85450b095461243a26d6af22968bd54d1b76eb",
+      "publishedAtLabel": "Dec 10"
+    },
+    {
+      "id": 16258,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Robayo Gonzalez, C. X., Nasri, B., Szaroz, D., Zinszer, K.",
+      "title": "Knowledge, attitudes and practice questionnaires in dengue, Zika, chikungunya and yellow fever settings: a scoping review protocol",
+      "description": "Introduction Arboviruses are a broad classification of viral pathogens that require vectors such as mosquitoes for infection transmission. The burden of arboviral diseases worldwide is substantial, affecting millions of people annually, with the Aedes aegyp\u2026",
+      "url": "https://bmjopen.bmj.com/content/14/12/e090251",
+      "urlToImage": "https://bmjopen.bmj.com/pages/wp-content/uploads/sites/7/2019/07/bmjopen-default-cover.png",
+      "publishedAt": "2024-12-10 22:02:56",
+      "content": "Introduction Arboviruses are arthropodborne viruses that transmit infections, including dengue, yellow fever, Zika and chikungunya.1 These viruses are a major public health concern due to the increa\u2026 [+7315 chars]",
+      "retrievedAt": "2024-12-12 07:07:20.988220",
+      "internal_id": "b430b3d1b42723630029c23ae518039bc84ff58013de75ed17611aa7d5395075",
+      "publishedAtLabel": "Dec 10"
+    },
+    {
+      "id": 16249,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Bruno Bucis",
+      "title": "Gripe avi\u00e1ria est\u00e1 a uma muta\u00e7\u00e3o de ser transmitida entre humanos",
+      "description": "V\u00edrus da gripe avi\u00e1ria se adaptou para afetar mam\u00edferos e que est\u00e1 mais perto que nunca de ser transmiss\u00edvel entre humanos",
+      "url": "https://www.metropoles.com/saude/gripe-aviaria-a-uma-mutacao-infectar-humanos",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2023/05/22203143/gripe-aviaria-1.jpg",
+      "publishedAt": "2024-12-10 21:21:45",
+      "content": "Os casos de pessoas infectadas com o v\u00edrus da gripe avi\u00e1ria (H5N1) se tornaram mais frequentes neste ano conforme a doen\u00e7a come\u00e7ou a afetar mam\u00edferos, inclusive em fazendas de gado nos Estados Unidos\u2026 [+2173 chars]",
+      "retrievedAt": "2024-12-12 07:07:20.269770",
+      "internal_id": "b8fb2b93d5964f483d42d7ed99ead130eb709137250c8fd14e5a500ee46fffce",
+      "publishedAtLabel": "Dec 10"
+    },
+    {
+      "id": 16262,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "SIGA Technologies Inc.",
+      "title": "Interim Results from STOMP Study of SIGA\u2019s Tecovirimat in Treatment of Mpox Announced",
+      "description": "NEW YORK, Dec. 10, 2024 (GLOBE NEWSWIRE) -- The National Institutes of Health\u2019s (NIH) National Institute of Allergy and Infectious Diseases (NIAID) today announced results from an interim analysis of the Study of Tecovirimat for Human Mpox Virus (STOMP) clini\u2026",
+      "url": "https://www.globenewswire.com/news-release/2024/12/10/2994943/9738/en/Interim-Results-from-STOMP-Study-of-SIGA-s-Tecovirimat-in-Treatment-of-Mpox-Announced.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/93028aa6-8191-4392-a7b1-447b046cd93b",
+      "publishedAt": "2024-12-10 21:00:00",
+      "content": "Interim analysis shows that tecovirimat did not improve time to lesion resolution compared to placebo in adults with mild to moderate clade II mpoxStudy stopped enrolling patients in\u2026 [+11119 chars]",
+      "retrievedAt": "2024-12-12 07:07:23.614651",
+      "internal_id": "2b2888f36513630fae34fe2a631d422727c56b222195c084ac9997778aaa9611",
+      "publishedAtLabel": "Dec 10"
+    },
+    {
+      "id": 16250,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Observador.pt",
+      "author": "Ag\u00eancia Lusa",
+      "title": "Brasil lidera casos e mortes por dengue num ano recorde nas Am\u00e9ricas",
+      "description": "O Brasil registou este ano mais de 6 milh\u00f5es de casos prov\u00e1veis de dengue e, embora a incid\u00eancia da epidemia tenha diminu\u00eddo drasticamente nos \u00faltimos meses, foram registadas 5.898 mortes pela doen\u00e7a.",
+      "url": "https://observador.pt/2024/12/10/brasil-lidera-casos-e-mortes-por-dengue-num-ano-recorde-nas-americas/",
+      "urlToImage": "https://wm.observador.pt/wm/obs/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1122%3Anowe%3A0%3A133%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2022%2F12%2F27183035%2F20319735.jpg",
+      "publishedAt": "2024-12-10 20:56:49",
+      "content": "O Brasil foi o principal respons\u00e1vel pelos casos de dengue nas Am\u00e9ricas, num ano recorde na regi\u00e3o, no qual foram registadas 7.713 mortes e 12,6 milh\u00f5es de casos, indicou esta ter\u00e7a-feira a Organiza\u00e7\u2026 [+2546 chars]",
+      "retrievedAt": "2024-12-12 07:07:20.913619",
+      "internal_id": "78fa55438b055c6aea1c87f0fa137269a8b35250f52862111b2f0b7fa3971bc9",
+      "publishedAtLabel": "Dec 10"
+    },
+    {
+      "id": 16252,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Boston Herald",
+      "author": "Associated Press",
+      "title": "Dengue cases set a new record in the Americas this year as deaths also surge",
+      "description": "More than 7,700 deaths have been reported in the Caribbean and the Americas so far in 2024, a more than 200% increase, compared to 2,467 deaths in 2023, according to the organization.",
+      "url": "https://www.bostonherald.com/2024/12/10/dengue-cases-new-record-americas/",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2024/12/Dengue_Surge_97478.jpg?w=1024&h=682",
+      "publishedAt": "2024-12-10 20:39:39",
+      "content": "By D\u00c1NICA COTO SAN JUAN, Puerto Rico (AP) \u2014 Dengue fever is sweeping across the Caribbean and the Americas, with a record 12.6 million suspected cases of the mosquito-transmitted virus reported this\u2026 [+3983 chars]",
+      "retrievedAt": "2024-12-12 07:07:20.934600",
+      "internal_id": "de09b3e1de1e685a46b80dbcd6d56258341e05e6183b8b98af0ebc4cd1cf5ca0",
+      "publishedAtLabel": "Dec 10"
+    },
+    {
+      "id": 16256,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Milenio",
+      "author": "Blanca Valadez,Fanny Miranda",
+      "title": "Cambio clim\u00e1tico triplic\u00f3 casos de dengue, la epidemia m\u00e1s grande de las Am\u00e9ricas: OPS",
+      "description": "Las sequ\u00edas, inundaciones y altas temperaturas, asociados al cambio clim\u00e1tico, provocaron un aumento exponencial de casos de dengueen la regi\u00f3n de las Am\u00e9ricas, donde este a\u00f1o, se triplic\u00f3 el r\u00e9cord de 2023; por lo que la Organizaci\u00f3n Panamericana de la Salud\u2026",
+      "url": "https://www.milenio.com/ciencia-y-salud/cambio-climatico-triplica-casos-dengue-americas-ops",
+      "urlToImage": "https://cdn.milenio.com/uploads/media/2024/12/10/menores-anos-representan-tercio-casos.jpg",
+      "publishedAt": "2024-12-10 20:25:34",
+      "content": "Las sequ\u00edas, inundaciones y altas temperaturas, asociados alcambio clim\u00e1tico, provocaron un aumento exponencial de casos de dengue en la regi\u00f3n de las Am\u00e9ricas, donde este a\u00f1o, se triplic\u00f3 el r\u00e9cord \u2026 [+3636 chars]",
+      "retrievedAt": "2024-12-12 07:07:20.968305",
+      "internal_id": "b069b72e8a918ab6d53683fd92933e3ed91a5137b5ce15b777c0ea7a52ae5cf6",
+      "publishedAtLabel": "Dec 10"
+    },
+    {
+      "id": 16254,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "D\u00c1NICA COTO Associated Press",
+      "title": "Dengue cases set a new record in the Americas this year as deaths also surge",
+      "description": "Dengue fever is sweeping across the Caribbean and the Americas, with a record 12.6 million suspected cases of the mosquito-transmitted virus reported this year, nearly triple the number from last year",
+      "url": "https://abcnews.go.com/International/wireStory/dengue-cases-set-new-record-americas-year-deaths-116650805",
+      "urlToImage": "https://i.abcnewsfe.com/a/5088ce97-1105-40f7-961f-76b20f1c9d62/wirestory_c7ba61d28009533336f23f9b954f1aa6_16x9.jpg?w=1600",
+      "publishedAt": "2024-12-10 19:42:26",
+      "content": "SAN JUAN, Puerto Rico -- SAN JUAN, Puerto Rico (AP) Dengue fever is sweeping across the Caribbean and the Americas, with a record 12.6 million suspected cases of the mosquito-transmitted virus report\u2026 [+3920 chars]",
+      "retrievedAt": "2024-12-12 07:07:20.949346",
+      "internal_id": "24c21aa953e40579bec8c596f18456e1e005aa2cebae86c88566815bd9e6ae1b",
+      "publishedAtLabel": "Dec 10"
+    },
+    {
+      "id": 16257,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "D\u00c1NICA COTO Associated Press",
+      "title": "Dengue cases set a new record in the Americas this year as deaths also surge",
+      "description": "Dengue fever is sweeping across the Caribbean and the Americas, with a record 12.6 million suspected cases of the mosquito-transmitted virus reported this year, nearly triple the number from last year",
+      "url": "https://abcnews.go.com/Health/wireStory/dengue-cases-set-new-record-americas-year-deaths-116650806",
+      "urlToImage": "https://i.abcnewsfe.com/a/5088ce97-1105-40f7-961f-76b20f1c9d62/wirestory_c7ba61d28009533336f23f9b954f1aa6_16x9.jpg?w=1600",
+      "publishedAt": "2024-12-10 19:28:11",
+      "content": "SAN JUAN, Puerto Rico -- SAN JUAN, Puerto Rico (AP) Dengue fever is sweeping across the Caribbean and the Americas, with a record 12.6 million suspected cases of the mosquito-transmitted virus report\u2026 [+3920 chars]",
+      "retrievedAt": "2024-12-12 07:07:20.975232",
+      "internal_id": "abc9ead9963a3c82f5c2362e0ffa31f25dc0a1678d242e9ac9910d792f3c2599",
+      "publishedAtLabel": "Dec 10"
+    },
+    {
+      "id": 16259,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "tagesschau.de",
+      "author": null,
+      "title": "WHO findet Hinweise auf Malaria bei \"Krankheit X\"",
+      "description": "Hunderte Kranke und viele Todesf\u00e4lle in Zentralafrika: Die unbekannte \"Krankheit X\" versetzte die Weltgesundheitsorganisation in Alarmbereitschaft. Nun konnte die WHO in zahlreichen Proben Malaria nachweisen.",
+      "url": "https://www.tagesschau.de/ausland/afrika/who-krankheit-x-malaria-kongo-100.html",
+      "urlToImage": "https://images.tagesschau.de/image/21bc33b8-90e8-47ac-a96b-3900ffaee88f/AAABk7HfUVw/AAABkZLhkrw/16x9-1280/krankheit-x-kongo-100.jpg",
+      "publishedAt": "2024-12-10 19:15:09",
+      "content": "Stand: 10.12.2024 20:15 Uhr Hunderte Kranke und viele Todesf\u00e4lle in Zentralafrika: Die unbekannte \"Krankheit X\" versetzte die Weltgesundheitsorganisation in Alarmbereitschaft. Nun konnte die WHO in \u2026 [+2503 chars]",
+      "retrievedAt": "2024-12-12 07:07:21.707380",
+      "internal_id": "37e6ebe41cccb572eadb2c13c02184ca45191959c2523a1bf8fd00dd24f19dbe",
+      "publishedAtLabel": "Dec 10"
+    },
     {
       "id": 16233,
       "query": [
@@ -22491,6 +22781,60 @@
       "content": "A man from northern Israel contracted rabies after being bitten by his pet dog, Israeli media reported on Sunday. According to the reports, the man was sent to intensive care following the bite and \u2026 [+236 chars]",
       "retrievedAt": "2024-10-29 07:06:33.659787",
       "internal_id": "9f1990124459b13d8c31fffeb273d60d6024a83d2f33b25f0489bb801d39d7b1",
+      "publishedAtLabel": "Oct 27"
+    },
+    {
+      "id": 14999,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Bola Bamigbola",
+      "title": "Experts caution FG on malaria vaccine mass rollout",
+      "description": "A group of scientists under the aegis of Living Science Foundation has called on the Federal Government to drop the plan to incorporate a newly developed malaria vaccine into the routine immunisation schedule in the country. This was contained in a press stat\u2026",
+      "url": "https://punchng.com/experts-caution-fg-on-malaria-vaccine-mass-rollout/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2024/10/27182204/Untitled.jpg",
+      "publishedAt": "2024-10-27 17:34:24",
+      "content": "A group of scientists under the aegis of Living Science Foundation has called on the Federal Government to drop the plan to incorporate a newly developed malaria vaccine into the routine immunisation\u2026 [+4204 chars]",
+      "retrievedAt": "2024-10-28 19:05:46.209733",
+      "internal_id": "4caaec3e97f371d7699b31c81c633a2cf4b18e1268fd03de902d4b8196bc0eb7",
+      "publishedAtLabel": "Oct 27"
+    },
+    {
+      "id": 15000,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "etimes.in",
+      "title": "What raises the risk of Typhoid among children living in crowded areas",
+      "description": "Typhoid, a bacterial infection common in tropical regions, spreads through contaminated food and water, often affecting children in overcrowded areas. Poor sanitation, including practices like open defecation and unhygienic food handling, heighten the risk. B\u2026",
+      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/what-raises-the-risk-of-typhoid-among-children-living-in-crowded-areas/articleshow/114660592.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-114660573,width-1070,height-580,imgsize-499179,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-10-27 15:43:05",
+      "content": "Body pain in women linked to their belly fat!",
+      "retrievedAt": "2024-10-28 19:05:47.103487",
+      "internal_id": "2cadd958732713478a87dee105bd71389debae8d6710c64cd26c1bcb8483934a",
+      "publishedAtLabel": "Oct 27"
+    },
+    {
+      "id": 14998,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Nakedcapitalism.com",
+      "author": "Conor Gallagher",
+      "title": "Exclusive: Emails Reveal How Health Departments Struggle To Track Human Cases of Bird Flu",
+      "description": "Emails show how health officials struggle to track the bird flu, partly in deference to the agricultural industry. As a result, researchers don\u2019t know how often farmworkers are being infected \u2014 and could miss alarming signals.",
+      "url": "https://www.nakedcapitalism.com/2024/10/exclusive-emails-reveal-how-health-departments-struggle-to-track-human-cases-of-bird-flu.html",
+      "urlToImage": "https://www.nakedcapitalism.com/wp-content/uploads/2024/10/1-1024x672.png",
+      "publishedAt": "2024-10-27 09:00:23",
+      "content": "Conor here: Entirely unsurprising, especially if you read Lamberts Oct. 24 piece Biden Bets on Let Er Rip with a SECOND Pandemic-Grade Virus: H5N1 (Bird Flu). That dealt largely with cattle. The foll\u2026 [+11520 chars]",
+      "retrievedAt": "2024-10-28 19:05:45.295162",
+      "internal_id": "3ed6f65ff026efe8905684b1c8d64766c6085fdc240e1a19386781164ccf7f86",
       "publishedAtLabel": "Oct 27"
     }
   ]
