@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 16
-- **Last harvest:** 2024-12-12 07:07
-- **Most recent article:** 2024-12-11 06:25:55
+- **New articles in last harvest:** 53
+- **Last harvest:** 2024-12-12 19:05
+- **Most recent article:** 2024-12-11 18:59:00
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-44 | 24-45 | 24-46 | 24-47 | 24-48 | 24-49 | 24-50 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 75 | 63 | 62 | 76 | 26 | 20 | 18 | 340 |
-| h5n1 | 61 | 36 | 40 | 50 | 38 | 70 | 26 | 321 |
-| malaria | 16 | 26 | 33 | 27 | 29 | 27 | 26 | 184 |
-| dengue | 30 | 31 | 36 | 28 | 25 | 10 | 12 | 172 |
-| measles | 13 | 3 | 33 | 11 | 6 | 9 | 7 | 82 |
-| rabies | 10 | 5 | 11 | 7 | 12 | 13 | 1 | 59 |
-| zika | 3 | 9 | 4 | 3 | 1 | 4 | 2 | 26 |
-| chikungunya | 2 | 2 | 3 | 5 | 4 | 6 | 3 | 25 |
+| mpox | 75 | 63 | 62 | 76 | 26 | 20 | 20 | 342 |
+| h5n1 | 60 | 36 | 40 | 50 | 38 | 70 | 38 | 332 |
+| malaria | 15 | 26 | 33 | 27 | 29 | 27 | 52 | 209 |
+| dengue | 30 | 31 | 36 | 28 | 25 | 10 | 21 | 181 |
+| measles | 13 | 3 | 33 | 11 | 6 | 9 | 8 | 83 |
+| rabies | 10 | 5 | 11 | 7 | 12 | 13 | 2 | 60 |
+| zika | 3 | 9 | 4 | 3 | 1 | 4 | 3 | 27 |
+| chikungunya | 2 | 2 | 3 | 5 | 4 | 6 | 4 | 26 |
+| hpai | 7 | 4 | 4 | 4 | 0 | 2 | 3 | 24 |
 | pertussis | 1 | 3 | 8 | 5 | 1 | 4 | 2 | 24 |
-| hpai | 7 | 4 | 4 | 4 | 0 | 2 | 2 | 23 |
+| leptospirosis | 3 | 10 | 3 | 0 | 2 | 0 | 3 | 21 |
 | meningitis | 3 | 5 | 2 | 5 | 3 | 3 | 0 | 21 |
-| leptospirosis | 3 | 10 | 3 | 0 | 2 | 0 | 0 | 18 |
-| typhoid | 4 | 1 | 1 | 3 | 1 | 0 | 1 | 11 |
+| typhoid | 3 | 1 | 1 | 3 | 1 | 0 | 1 | 10 |
 | yersinia | 3 | 0 | 0 | 1 | 1 | 0 | 0 | 5 |
 | shigellosis | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 1 |
 
@@ -34,6 +34,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-50 (zika)
+
+- [Indonesia joins in malaria research to prevent transmission at IKN](https://en.antaranews.com/news/337846/indonesia-joins-in-malaria-research-to-prevent-transmission-at-ikn) (Antaranews.com)
 
 - [Knowledge, attitudes and practice questionnaires in dengue, Zika, chikungunya and yellow fever settings: a scoping review protocol](https://bmjopen.bmj.com/content/14/12/e090251) (The BMJ)
 
@@ -45,6 +47,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-50 (rabies)
 
+- [Rabiesfond for hundekjørere i Femundløpet](https://www.nrk.no/innlandet/rabiesfond-for-hundekjorere-i-femundlopet-1.17165583) (NRK)
+
 - [K’taka 3rd in rabies deaths in India from 2021-24](https://timesofindia.indiatimes.com/city/bengaluru/karnataka-ranks-3rd-in-rabies-deaths-in-india-urgent-action-needed/articleshow/116150125.cms) (The Times of India)
 
 ## 24-50 (pertussis)
@@ -54,6 +58,10 @@ Source: [News API](https://newsapi.org/)
 - [Understanding whooping cough](https://www.bostonherald.com/2024/12/08/understanding-whooping-cough/) (Boston Herald)
 
 ## 24-50 (mpox)
+
+- [ВООЗ: Кількість випадків малярії зросла на 11 млн](https://ua.korrespondent.net/world/4739422-vooz-kilkist-vypadkiv-maliarii-zrosla-na-11-mln) (Korrespondent.net)
+
+- [Kongo: Was steckt hinter der Krankheit "X"? Erste Daten deuten auf einen alten Bekannten hin](https://www.stern.de/panorama/wissen/im-kongo-wuetet-eine-krankheitswelle--koennte-es-malaria-sein--35288198.html) (STERN.de)
 
 - [Más de 400 contagios y decenas de muertos: qué se sabe sobre la enfermedad que ha puesto a RD Congo en "alerta máxima"](https://www.elespanol.com/ciencia/salud/20241211/contagios-decenas-muertos-sabe-enfermedad-puesto-rd-congo-alerta-maxima/907659789_0.html) (Elespanol.com)
 
@@ -93,6 +101,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-50 (measles)
 
+- [Infectious diseases killed Victorian children at alarming rates — their novels highlight the fragility of public health today](https://www.bostonherald.com/2024/12/11/infectious-diseases-killed-victorian-children-at-alarming-rates-their-novels-highlight-the-fragility-of-public-health-today/) (Boston Herald)
+
 - [WA Health issues measles alert after returned travel visits several healthcare sites while infected](https://7news.com.au/news/wa/wa-health-issues-measles-alert-after-returned-travel-visits-several-healthcare-sites-while-infected-c-17039212) (7NEWS.com.au)
 
 - [WA Health issues measles alert after returned travel visits several healthcare sites while infected](https://www.perthnow.com.au/news/health/wa-health-issues-measles-alert-after-returned-travel-visits-several-healthcare-sites-while-infected-c-17039212) (PerthNow)
@@ -108,6 +118,58 @@ Source: [News API](https://newsapi.org/)
 - [Mysterious New Disease X Is Officially Here, Potentially Airborne](https://www.newsbreak.com/share/3706705509412-mysterious-new-disease-x-is-officially-here-potentially-airborne?_f=app_share&amp;pd=0EuIdPvZ&amp;lang=en_US&amp;send_time=1733680315&amp;trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2224.48.0.25%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_local_strategy_24q4_exp-v11%2Cns_push_exp_rt_bucketv12-control%2Cns_foryou_rank_exp_24q4-v4%2Cns_foryou_blend_exp_24q4-v6%2Cns_foryou_model_exp_24q4-v8%2Cns_foryou_recall_exp_24q4-v7&amp;s=i2) (Newsbreak.com)
 
 ## 24-50 (malaria)
+
+- [Congo's Mystery Disease Might Be Malaria: Authorities](https://www.newsweek.com/congos-mystery-disease-might-malaria-authorities-1999343) (Newsweek)
+
+- [Authorities say the mystery disease in Congo might be malaria but more testing is needed](https://abcnews.go.com/Health/wireStory/authorities-mystery-disease-congo-malaria-testing-needed-116682334) (ABC News)
+
+- [Authorities say the mystery disease in Congo might be malaria but more testing is needed](https://abcnews.go.com/International/wireStory/authorities-mystery-disease-congo-malaria-testing-needed-116682323) (ABC News)
+
+- [Reaktion auf die „Krankheit X“ zeigt laut Experten Mangel auf](https://www.faz.net/aktuell/wissen/medizin-ernaehrung/tropenmediziner-reaktion-auf-krankheit-x-zeigt-mangel-auf-110168811.html) (Faz.net)
+
+- [Kongo: Was steckt hinter der Krankheit "X"? Erste Daten deuten auf einen alten Bekannten hin](https://www.stern.de/panorama/wissen/im-kongo-wuetet-eine-krankheitswelle--koennte-es-malaria-sein--35288198.html) (STERN.de)
+
+- [„Krankheit X“ ist wohl Malaria – aber das ist kein Grund zur Entwarnung](https://www.welt.de/debatte/kommentare/article254839938/Krankheit-X-ist-wohl-Malaria-kein-Grund-zur-Entwarnung.html) (DIE WELT)
+
+- [Krankeitsausbruch im Kongo: Tropenmediziner warnt vor verschleppter Pandemiebekämpfung](https://www.tagesspiegel.de/wissen/krankeitsausbruch-im-kongo-tropenmediziner-warnt-vor-verschleppter-pandemiebekampfung-12858208.html) (Der Tagesspiegel)
+
+- [Le nombre de cas de malaria a augmenté de 11 millions dans le monde en 2023: "Personne ne devrait succomber à cette maladie" (infographies)](https://www.lavenir.net/actu/monde/2024/12/11/le-nombre-de-cas-de-malaria-a-augmente-de-11-millions-dans-le-monde-en-2023-personne-ne-devrait-succomber-a-cette-maladie-infographies-55YZRDU2RVGRFH6YEOWOWC3HL4/) (Lavenir.net)
+
+- [Malattia del Congo e malaria, i dubbi degli scienziati italiani: “Ci sono sintomi respiratori, ipotizzare anche altro”](https://www.ilfattoquotidiano.it/2024/12/11/malattia-congo-malaria-dubbi-scienziati-ipotizzare-altro/7800576/) (Ilfattoquotidiano.it)
+
+- [Erste Indizien sprechen für Malaria](https://science.orf.at/stories/3228003/) (Science.orf.at)
+
+- [Malariafälle nehmen noch immer weltweit zu](https://www.dw.com/de/malariaf%C3%A4lle-nehmen-noch-immer-weltweit-zu/a-71022368) (DW (English))
+
+- [Malattia del Congo, arrivano i primi test: "L'80% dei campioni positivi alla malaria"](https://www.ilgiornale.it/news/cronaca-internazionale/malattia-congo-arrivano-i-primi-test-l80-dei-campioni-2410317.html) (Ilgiornale.it)
+
+- [Oms, in Congo dai primi test 80% campioni positivi a malaria](https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2024/12/11/-omsin-congo-da-primi-test-80-campioni-positivi-a-malaria-_f11cc990-edd6-461f-9ec4-166766ffdea2.html) (ANSA.it)
+
+- [La ONU alerta de que la malaria acabó con la vida de 600.000 personas en 2023](https://www.abc.es/sociedad/onu-alerta-malaria-acabo-vida-600000-personas-20241211102852-nt.html) (Www.abc.es)
+
+- [++ Oms,in Congo da primi test 80% campioni positivi a malaria ++](https://www.ansa.it/sito/notizie/flash/2024/12/11/-omsin-congo-da-primi-test-80-campioni-positivi-a-malaria-_33de6e23-21f4-43a7-8c2e-5650eca72ec8.html) (ANSA.it)
+
+- [Malaria: Drug resistance and fragile health systems are hindering progress, WHO warns](https://www.bmj.com/content/387/bmj.q2776) (The BMJ)
+
+- [WHO: Milliarden Malariafälle seit 2000 verhindert](https://orf.at/stories/3378624/) (Orf.at)
+
+- [Malaria Mortality Returns To Pre-Covid Levels: WHO](https://www.ndtv.com/world-news/malaria-mortality-returns-to-pre-covid-levels-who-7223010) (NDTV News)
+
+- [Aantal malariagevallen stijgt voor vijfde jaar op rij, dodentol blijft stabiel](https://www.hbvl.be/cnt/dmf20241211_93178043) (Hbvl.be)
+
+- [Udviklingen går den forkerte vej: Flere malaria-tilfælde i 2023](https://www.dr.dk/nyheder/seneste/udviklingen-gaar-den-forkerte-vej-flere-malaria-tilfaelde-i-2023) (Www.dr.dk)
+
+- [Aantal malariagevallen stijgt voor vijfde jaar op rij, dodentol blijft stabiel](https://www.gva.be/cnt/dmf20241211_93053269) (Www.gva.be)
+
+- [Aantal malariagevallen stijgt voor vijfde jaar op rij, dodentol blijft stabiel](https://www.nieuwsblad.be/cnt/dmf20241211_92960138) (Nieuwsblad.be)
+
+- [Malaria Mortality Returns To Pre-Covid Levels: WHO](https://www.ibtimes.com/malaria-mortality-returns-pre-covid-levels-who-3754966) (International Business Times)
+
+- [“Ze hebben mogelijk meer dan één ziekte”: patiënten met ‘mysterieuze ziekte’ testen ook positief op malaria](https://www.hbvl.be/cnt/dmf20241211_92848946) (Hbvl.be)
+
+- [“Ze hebben mogelijk meer dan één ziekte”: patiënten met ‘mysterieuze ziekte’ in Congo testen ook positief op malaria](https://www.gva.be/cnt/dmf20241211_92691329) (Www.gva.be)
+
+- [“Ze hebben mogelijk meer dan één ziekte”: patiënten met ‘mysterieuze ziekte’ testen ook positief op malaria](https://www.nieuwsblad.be/cnt/dmf20241211_92660763) (Nieuwsblad.be)
 
 - [Malaria parasites require a divergent heme oxygenase for apicoplast gene expression and biogenesis](https://elifesciences.org/articles/100256) (Elifesciences.org)
 
@@ -161,13 +223,47 @@ Source: [News API](https://newsapi.org/)
 
 - [Mysterious New Disease X Is Officially Here, Potentially Airborne](https://www.newsbreak.com/share/3706705509412-mysterious-new-disease-x-is-officially-here-potentially-airborne?_f=app_share&amp;pd=0EuIdPvZ&amp;lang=en_US&amp;send_time=1733680315&amp;trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2224.48.0.25%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_local_strategy_24q4_exp-v11%2Cns_push_exp_rt_bucketv12-control%2Cns_foryou_rank_exp_24q4-v4%2Cns_foryou_blend_exp_24q4-v6%2Cns_foryou_model_exp_24q4-v8%2Cns_foryou_recall_exp_24q4-v7&amp;s=i2) (Newsbreak.com)
 
+## 24-50 (leptospirosis)
+
+- [Over 10,000 rat fever cases reported in Sri Lanka in 2024](https://www.thestar.com.my/news/world/2024/12/12/over-10000-rat-fever-cases-reported-in-sri-lanka-in-2024) (The Star Online)
+
+- [A cesspool of scum, toxic rot and viruses](https://www.thestar.com.my/news/nation/2024/12/12/a-cesspool-of-scum-toxic-rot-and-viruses) (The Star Online)
+
+- [Leptospira seroprevalence and associated risk factors among slaughterhouse workers in Western Bahr El Ghazal State, South Sudan](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012700) (Plos.org)
+
 ## 24-50 (hpai)
+
+- [Statutory guidance: Bird flu: general licence for the movement of poultry carcases for disposal from premises in a protection zone in England (EXD339(HPAI)(E))](https://www.gov.uk/government/publications/bird-flu-general-licence-for-the-movement-of-poultry-carcases-for-disposal-from-premises-in-a-protection-zone-in-england-exd339hpaie) (Www.gov.uk)
 
 - [Replication Restriction of Influenza A(H5N1) Clade 2.3.4.4b Viruses by Human Immune Factor, 2023–2024](https://wwwnc.cdc.gov/eid/article/31/1/24-1236_article) (Cdc.gov)
 
 - [USDA Orders Testing of Raw and Unpasteurized Milk for Presence of Bird Flu Virus](https://legalinsurrection.com/2024/12/usda-orders-testing-of-raw-and-unpasteurized-milk-for-presence-of-bird-flu-virus/) (Legalinsurrection.com)
 
 ## 24-50 (h5n1)
+
+- [Virus most likely to cause next pandemic 'could be passed to humans' from horses](https://news.sky.com/story/virus-most-likely-to-cause-next-pandemic-could-be-passed-to-humans-from-horses-study-finds-13271625) (Sky.com)
+
+- [Nova pandemia? Gripe aviária está a uma mutação de chegar aos humanos, alertam cientistas](https://saude.ig.com.br/2024-12-11/nova-pandemia-gripe-aviaria-mutacao-humanos.html) (Ig.com.br)
+
+- [América enfrenta peor epidemia de dengue en más de 40 años](https://www.nacion.com/el-mundo/america-enfrenta-peor-epidemia-de-dengue-en-mas-de/672Q2FBIGVFW3HDKCKRDZ3JA4Q/story/) (Nacion.com)
+
+- [Ausgabe 53/2024: Unsere Quellen](https://www.zeit.de/wq/2024-53) (Die Zeit)
+
+- [Vogelgrippevirus: Nur noch ein Schritt?](https://www.zeit.de/2024/53/vogelgrippe-virus-uebertragung-mensch-mutation) (Die Zeit)
+
+- [Wednesday, December 11, 2024](https://kffhealthnews.org/morning-briefing/wednesday-december-11-2024/) (Kffhealthnews.org)
+
+- [V košickej zoo potvrdili vtáčiu chrípku. Pre verejnosť je zatvorená](https://spravy.pravda.sk/domace/clanok/733821-v-kosickej-zoo-potvrdili-vtaciu-chripku-pre-verejnost-je-zatvorena/) (Pravda.sk)
+
+- [Simulations Suggest Flu Virus Vulnerability](https://physics.aps.org/articles/v17/177) (Aps.org)
+
+- [禽流感有變異跡象，專家：恐大流行](https://technews.tw/2024/12/11/bird-flu-shows-signs-of-mutation/) (Technews.tw)
+
+- [Tierseuchen: Geflügelpest bei Wildvögeln in Dithmarschen festgestellt](https://www.zeit.de/news/2024-12/11/gefluegelpest-bei-wildvoegeln-in-dithmarschen-festgestellt) (Die Zeit)
+
+- [Grippe aviaire : Les mutations du virus et les cas humains inquiètent les experts](https://www.20minutes.fr/societe/4128504-20241211-grippe-aviaire-mutations-virus-cas-humains-inquietent-experts) (20 Minutes)
+
+- [Pandemic Experts Are Worried About Bird Flu](https://www.huffpost.com/entry/bird-flu-pandemic-experts_l_67584c7ae4b0f51b80bdccf5) (HuffPost)
 
 - [Alerta vermelho: gripe aviária a um passo de infectar humanos](https://olhardigital.com.br/2024/12/11/medicina-e-saude/alerta-vermelho-gripe-aviaria-a-um-passo-de-infectar-humanos/) (Olhardigital.com.br)
 
@@ -223,6 +319,24 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-50 (dengue)
 
+- [Dia D contra dengue promove ações de conscientização no próximo sábado (14)](https://ultimosegundo.ig.com.br/parceiros/gps-brasilia/2024-12-11/dia-d-contra-dengue-promove-acoes-de-conscientizacao-no-proximo-sabado-14.html) (Ig.com.br)
+
+- [América enfrenta peor epidemia de dengue en más de 40 años](https://www.nacion.com/el-mundo/america-enfrenta-peor-epidemia-de-dengue-en-mas-de/672Q2FBIGVFW3HDKCKRDZ3JA4Q/story/) (Nacion.com)
+
+- [Dengue ha enviado a 46 menores al Hospital de Niños](https://www.nacion.com/el-pais/dengue-ha-enviado-a-46-menores-al-hospital-de/AB5YBFZENFFBFDOYSZHQCJ3VRI/story/) (Nacion.com)
+
+- [Indonesia joins in malaria research to prevent transmission at IKN](https://en.antaranews.com/news/337846/indonesia-joins-in-malaria-research-to-prevent-transmission-at-ikn) (Antaranews.com)
+
+- [Casos de dengue batem recorde nas Américas em 2024](https://www.dw.com/pt-br/casos-de-dengue-batem-recorde-nas-am%C3%A9ricas-em-2024/a-71023485) (DW (English))
+
+- [Klimapolitik - Dengue-Fieber: Was hilft und wie schützt man sich?](https://www.focus.de/earth/klimapolitik/dengue-fieber-was-hilft-und-wie-schuetzt-man-sich_cbecca7b-a985-44fa-8029-d62bb71350dc.html) (Focus)
+
+- [Growth Trends in the Dengue Vaccines Industry, 2024-2028 & 2033](https://www.globenewswire.com/news-release/2024/12/11/2995151/28124/en/Growth-Trends-in-the-Dengue-Vaccines-Industry-2024-2028-2033.html) (GlobeNewswire)
+
+- [Évtizedek óta nem látott méreteket ölt a dengue-lázas esetszám Amerikában](https://www.origo.hu/nagyvilag/2024/12/dengue-laz-szunyog-del-kozep-amerika) (Origo.hu)
+
+- [Nel Sud e nel Centro America non ci sono mai stati tanti casi di dengue come quest’anno](https://www.ilpost.it/2024/12/11/dengue-sud-centro-america-dengue/) (Ilpost.it)
+
 - [Record outbreak of Dengue fever in Central and South America](https://www.bbc.com/news/articles/czendjlx849o) (BBC News)
 
 - [Cocirculation of 4 Dengue Virus Serotypes, Putumayo Amazon Basin, 2023–2024](https://wwwnc.cdc.gov/eid/article/31/1/24-0888_article) (Cdc.gov)
@@ -248,6 +362,8 @@ Source: [News API](https://newsapi.org/)
 - [Cientistas alertam para riscos de dengue, chikungunya e a Zika em Portugal](https://observador.pt/2024/12/09/cientistas-alertam-para-riscos-de-dengue-chikungunya-e-a-zika-em-portugal/) (Observador.pt)
 
 ## 24-50 (chikungunya)
+
+- [Indonesia joins in malaria research to prevent transmission at IKN](https://en.antaranews.com/news/337846/indonesia-joins-in-malaria-research-to-prevent-transmission-at-ikn) (Antaranews.com)
 
 - [Knowledge, attitudes and practice questionnaires in dengue, Zika, chikungunya and yellow fever settings: a scoping review protocol](https://bmjopen.bmj.com/content/14/12/e090251) (The BMJ)
 
@@ -2369,8 +2485,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Time to Get Typhoid! Classic Oregon Trail Video Game to Get Movie Treatment](https://reactormag.com/time-to-get-typhoid-classic-oregon-trail-video-game-to-get-movie-treatment/) (Reactormag.com)
 
-- [What raises the risk of Typhoid among children living in crowded areas](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/what-raises-the-risk-of-typhoid-among-children-living-in-crowded-areas/articleshow/114660592.cms) (The Times of India)
-
 ## 24-44 (rabies)
 
 - [Instagram famous squirrel named Peanut euthanised by New York authorities](https://www.abc.net.au/news/2024-11-02/peanut-the-internet-famous-squirrel-euthanised-authorities/104552922) (ABC News (AU))
@@ -2617,8 +2731,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Ogun, SFH deploy 1,180 town announcers for mosquito nets distribution](https://punchng.com/ogun-sfh-deploy-1180-town-announcers-for-mosquito-nets-distribution/) (The Punch)
 
-- [Experts caution FG on malaria vaccine mass rollout](https://punchng.com/experts-caution-fg-on-malaria-vaccine-mass-rollout/) (The Punch)
-
 ## 24-44 (leptospirosis)
 
 - [Martín-Moreno, catedrático de la UV: "A las 72 horas de la inundación se agravan los riesgos de infección, hay que poner medidas ya"](https://www.meneame.net/m/actualidad/martin-moreno-catedratico-uv-72-horas-inundacion-agravan-riesgos) (Meneame.net)
@@ -2764,8 +2876,6 @@ Source: [News API](https://newsapi.org/)
 - [H5N1 virus isolated from infected dairy worker is 100% lethal in ferrets, but does not appear to be circulating in nature anymore](https://www.sciencedaily.com/releases/2024/10/241028131451.htm) (Science Daily)
 
 - [Flu season will complicate tracking spread of H5N1 avian influenza](https://www.statnews.com/2024/10/28/flu-season-presents-challenges-in-tracking-h5n1-avian-influenza-outbreak/) (STAT)
-
-- [Exclusive: Emails Reveal How Health Departments Struggle To Track Human Cases of Bird Flu](https://www.nakedcapitalism.com/2024/10/exclusive-emails-reveal-how-health-departments-struggle-to-track-human-cases-of-bird-flu.html) (Nakedcapitalism.com)
 
 ## 24-44 (dengue)
 

@@ -1,8 +1,966 @@
 {
-  "last_updated": "2024-12-12 07:07",
-  "count_articles_total": 1266,
-  "count_articles_new": 16,
+  "last_updated": "2024-12-12 19:05",
+  "count_articles_total": 1316,
+  "count_articles_new": 53,
   "articles": [
+    {
+      "id": 16313,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Korrespondent.net",
+      "author": "1",
+      "title": "\u0412\u041e\u041e\u0417: \u041a\u0456\u043b\u044c\u043a\u0456\u0441\u0442\u044c \u0432\u0438\u043f\u0430\u0434\u043a\u0456\u0432 \u043c\u0430\u043b\u044f\u0440\u0456\u0457 \u0437\u0440\u043e\u0441\u043b\u0430 \u043d\u0430 11 \u043c\u043b\u043d",
+      "description": "\u0421\u0435\u0440\u0435\u0434 \u043f\u0440\u0438\u0447\u0438\u043d \u0437\u0440\u043e\u0441\u0442\u0430\u043d\u043d\u044f \u0437\u0430\u0445\u0432\u043e\u0440\u044e\u0432\u0430\u043d\u043e\u0441\u0442\u0456 - \u043f\u0430\u043d\u0434\u0435\u043c\u0456\u044f COVID-19, \u0437\u0440\u043e\u0441\u0442\u0430\u043d\u043d\u044f \u043d\u0430\u0441\u0435\u043b\u0435\u043d\u043d\u044f, \u043a\u043b\u0456\u043c\u0430\u0442\u0438\u0447\u043d\u0456 \u0437\u043c\u0456\u043d\u0438, \u043a\u043e\u043d\u0444\u043b\u0456\u043a\u0442\u0438, \u0441\u0442\u0456\u0439\u043a\u0456\u0441\u0442\u044c \u0434\u043e \u043b\u0456\u043a\u0456\u0432 \u0442\u0430 \u0456\u043d\u0441\u0435\u043a\u0442\u0438\u0446\u0438\u0434\u0456\u0432, \u0430 \u0442\u0430\u043a\u043e\u0436 \u043d\u0435\u0441\u0442\u0430\u0447\u0430 \u0444\u0456\u043d\u0430\u043d\u0441\u0443\u0432\u0430\u043d\u043d\u044f.",
+      "url": "https://ua.korrespondent.net/world/4739422-vooz-kilkist-vypadkiv-maliarii-zrosla-na-11-mln",
+      "urlToImage": "https://kor.ill.in.ua/m/1260x900/4276052.jpg",
+      "publishedAt": "2024-12-11 18:59:00",
+      "content": "2023 11 , 263 . , . Reuters , 11 . , 2023 11 2022 . , 597 000 , 2022 , 5 . , , . , 2000 2015 , . - COVID-19, , , , , . 2023 4 , 8,3 . , ' (mpox) \" '\". , . .net Telegram WhatsApp. https://t\u2026 [+27 chars]",
+      "retrievedAt": "2024-12-12 19:05:48.701887",
+      "internal_id": "2e779010d3495076a9c0566d6964ee709a949a8a935be3d7df8fcddb1811f2bf",
+      "publishedAtLabel": "Dec 11"
+    },
+    {
+      "id": 16266,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": "Department for Environment, Food & Rural Affairs",
+      "title": "Statutory guidance: Bird flu: general licence for the movement of poultry carcases for disposal from premises in a protection zone in England (EXD339(HPAI)(E))",
+      "description": "You should use this licence to move poultry carcases for disposal from premises in a protection zone in England.",
+      "url": "https://www.gov.uk/government/publications/bird-flu-general-licence-for-the-movement-of-poultry-carcases-for-disposal-from-premises-in-a-protection-zone-in-england-exd339hpaie",
+      "urlToImage": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png",
+      "publishedAt": "2024-12-11 18:18:24",
+      "content": "We use some essential cookies to make this website work. Wed like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services. We also use coo\u2026 [+70 chars]",
+      "retrievedAt": "2024-12-12 19:05:46.510405",
+      "internal_id": "d939879010f10c32c49c13e6dff310eba7af0c5a7d0dbfe7c24d48f5b4a61b60",
+      "publishedAtLabel": "Dec 11"
+    },
+    {
+      "id": 16296,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Natalie Venegas",
+      "title": "Congo's Mystery Disease Might Be Malaria: Authorities",
+      "description": "Health officials revealed Congo's mysterious illness causing flu-like symptoms and dozens of deaths could be malaria.",
+      "url": "https://www.newsweek.com/congos-mystery-disease-might-malaria-authorities-1999343",
+      "urlToImage": "https://d.newsweek.com/en/full/2541699/congo-hospital.jpg",
+      "publishedAt": "2024-12-11 18:08:19",
+      "content": "A mysterious illness causing flu-like symptoms and dozens of deaths in southwestern Congo could be malaria, health officials said on Wednesday. What Happened? In recent weeks, the mystery disease h\u2026 [+3094 chars]",
+      "retrievedAt": "2024-12-12 19:05:47.824593",
+      "internal_id": "190445f0fd3c0f9c617edab07c13132d172bb31462d08c31f046fc22459ae9ee",
+      "publishedAtLabel": "Dec 11"
+    },
+    {
+      "id": 16270,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Sky.com",
+      "author": "Thomas Moore",
+      "title": "Virus most likely to cause next pandemic 'could be passed to humans' from horses",
+      "description": "Bird flu can infect horses without causing any symptoms, according to new research, raising fears that the virus could be spreading undetected.",
+      "url": "https://news.sky.com/story/virus-most-likely-to-cause-next-pandemic-could-be-passed-to-humans-from-horses-study-finds-13271625",
+      "urlToImage": "https://e3.365dm.com/24/12/1600x900/skynews-horse-farm_6773518.jpg?20241211173701",
+      "publishedAt": "2024-12-11 17:17:00",
+      "content": "Bird flu can infect horses without causing any symptoms, according to new research, raising fears that the virus could be spreading undetected. It's another twist in the emerging threat of the H5N1 \u2026 [+2778 chars]",
+      "retrievedAt": "2024-12-12 19:05:46.827152",
+      "internal_id": "9d4ec285ddff2e9c4606608cedfe510ec2d83e9bc5aefcdb8e52029b7c2b7e2c",
+      "publishedAtLabel": "Dec 11"
+    },
+    {
+      "id": 16273,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "iG \u00daltimo Segundo, iG \u00daltimo Segundo",
+      "title": "Nova pandemia? Gripe avi\u00e1ria est\u00e1 a uma muta\u00e7\u00e3o de chegar aos humanos, alertam cientistas",
+      "description": "Novas muta\u00e7\u00f5es do H5N1 est\u00e1 afetando esp\u00e9cies de animais pela primeira vez",
+      "url": "https://saude.ig.com.br/2024-12-11/nova-pandemia-gripe-aviaria-mutacao-humanos.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/f5/lh/30/f5lh30vc36n3visqrjfaflq5w.jpg",
+      "publishedAt": "2024-12-11 17:03:11",
+      "content": "Cientistas alertam sobre uma poss\u00edvel amea\u00e7a de uma nova pandemia causada pela gripe avi\u00e1ria . O v\u00edrus, que costumava infectar apenas aves, tem acumulado muta\u00e7\u00f5es \u00e0 medida que se espalha entre vacas\u2026 [+3171 chars]",
+      "retrievedAt": "2024-12-12 19:05:46.870875",
+      "internal_id": "df292512b14f28fde8ac8c6a70639ad83296c13b3b15ac77af06e9a52f5391c1",
+      "publishedAtLabel": "Dec 11"
+    },
+    {
+      "id": 16281,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "GPS Bras\u00edlia, GPS Bras\u00edlia",
+      "title": "Dia D contra dengue promove a\u00e7\u00f5es de conscientiza\u00e7\u00e3o no pr\u00f3ximo s\u00e1bado (14)",
+      "description": "O governo federal vai promover o Dia D de mobiliza\u00e7\u00e3o de a\u00e7\u00f5es de preven\u00e7\u00e3o contra...",
+      "url": "https://ultimosegundo.ig.com.br/parceiros/gps-brasilia/2024-12-11/dia-d-contra-dengue-promove-acoes-de-conscientizacao-no-proximo-sabado-14.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/93/nl/ux/93nluxuqazn5neolhhcn2erol.jpg",
+      "publishedAt": "2024-12-11 16:39:25",
+      "content": "O governo federal vai promover o Dia D de mobiliza\u00e7\u00e3o de a\u00e7\u00f5es de preven\u00e7\u00e3o contra a dengue no pr\u00f3ximo s\u00e1bado (14). Em 2024, foram contabilizados, at\u00e9 agora, mais de 6,7 milh\u00f5es de casos e 5.950 mort\u2026 [+3262 chars]",
+      "retrievedAt": "2024-12-12 19:05:47.270644",
+      "internal_id": "417102c6fab2f5c86432fbb2af9e053e894a291b234a4e78898fff0338a22cf8",
+      "publishedAtLabel": "Dec 11"
+    },
+    {
+      "id": 16316,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Rathindra",
+      "title": "Over 10,000 rat fever cases reported in Sri Lanka in 2024",
+      "description": "COLOMBO, Dec. 11 (Xinhua) -- Over 10,000 cases of leptospirosis, commonly known as rat fever, have been reported in Sri Lanka so far this year, a senior official from the epidemiology unit of the Ministry of Health told a press conference on Wednesday. Read f\u2026",
+      "url": "https://www.thestar.com.my/news/world/2024/12/12/over-10000-rat-fever-cases-reported-in-sri-lanka-in-2024",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2024-12-11 16:22:00",
+      "content": "COLOMBO, Dec. 11 (Xinhua) -- Over 10,000 cases of leptospirosis, commonly known as rat fever, have been reported in Sri Lanka so far this year, a senior official from the epidemiology unit of the Min\u2026 [+817 chars]",
+      "retrievedAt": "2024-12-12 19:05:48.996369",
+      "internal_id": "83cf91d01eabd28add1cb254fb88d0408256be2a359caf0ebfee98c7f0f50221",
+      "publishedAtLabel": "Dec 11"
+    },
+    {
+      "id": 16264,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "nrk",
+      "source_name": "NRK",
+      "author": "NRK",
+      "title": "Rabiesfond for hundekj\u00f8rere i Femundl\u00f8pet",
+      "description": "Da Det internasjonale hundekj\u00f8rerforbundet (IFSS) satte krav om at alle hunder under Femundl\u00f8pet m\u00e5tte v\u00e6re vaksinert mot rabies, m\u00f8tte det massiv motstand fra profilerte hundekj\u00f8rere. N\u00e5 er det opprettet to ulike rabiesfond til norske deltakere under Femundl\u2026",
+      "url": "https://www.nrk.no/innlandet/rabiesfond-for-hundekjorere-i-femundlopet-1.17165583",
+      "urlToImage": "https://gfx.nrk.no/Lilpj8B94fD7JCnrouOWZwHSl2xazZOJjsSXDInDzrNQ.jpg",
+      "publishedAt": "2024-12-11 16:21:14",
+      "content": "Da Det internasjonale hundekj\u00f8rerforbundet (IFSS) satte krav om at alle hunder under Femundl\u00f8pet m\u00e5tte v\u00e6re vaksinert mot rabies, m\u00f8tte det massiv motstand fra profilerte hundekj\u00f8rere. N\u00e5 er det opp\u2026 [+726 chars]",
+      "retrievedAt": "2024-12-12 19:05:46.016749",
+      "internal_id": "a1c087e07242c3144f16fec62537af7d0d75a11f6dca32af39bfe9901fb34884",
+      "publishedAtLabel": "Dec 11"
+    },
+    {
+      "id": 16275,
+      "query": [
+        "h5n1",
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Nacion.com",
+      "author": "AFP",
+      "title": "Am\u00e9rica enfrenta peor epidemia de dengue en m\u00e1s de 40 a\u00f1os",
+      "description": "Dengue azota a pa\u00edses de Am\u00e9rica con 12,6 millones de casos. OPS alerta sobre menores de 15 a\u00f1os, quienes representan un tercio de casos graves en Costa Rica, M\u00e9xico y Paraguay.",
+      "url": "https://www.nacion.com/el-mundo/america-enfrenta-peor-epidemia-de-dengue-en-mas-de/672Q2FBIGVFW3HDKCKRDZ3JA4Q/story/",
+      "urlToImage": "https://www.nacion.com/resizer/v2/OBKKOEWHIJAE3JXNAOC4FDQB5Q.jpeg?smart=true&auth=e00f809a229923c6ed1b3ccd8a0701359909bf109de76823811b189b1ab692a3&width=1440",
+      "publishedAt": "2024-12-11 16:01:56",
+      "content": "Washington. La Organizaci\u00f3n Panamericana de la Salud (OPS) alert\u00f3 este martes sobre el incremento de casos de dengue , Oropouche y gripe aviar (H5N1) en Am\u00e9rica.La regi\u00f3n enfrenta la peor epidemia d\u2026 [+2503 chars]",
+      "retrievedAt": "2024-12-12 19:05:46.896429",
+      "internal_id": "11b2fa83f80f4f45507c29fab5ecb5b1bcf829affae998c701d03b07d429b89d",
+      "publishedAtLabel": "Dec 11"
+    },
+    {
+      "id": 16314,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "TEH ATHIRA YUSOF",
+      "title": "A cesspool of scum, toxic rot and viruses",
+      "description": "PETALING JAYA: Managing diseases during the flood season is a significant challenge, particularly when it comes to leptospirosis, because its symptoms resemble those of other infections, health experts say. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2024/12/12/a-cesspool-of-scum-toxic-rot-and-viruses",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/12/12/3064546.jpg",
+      "publishedAt": "2024-12-11 16:00:00",
+      "content": "Stop playing in floodwaters, its a breeding ground for diseases, warn health experts PETALING JAYA: Managing diseases during the flood season is a significant challenge, particularly when it comes t\u2026 [+3426 chars]",
+      "retrievedAt": "2024-12-12 19:05:48.982001",
+      "internal_id": "c021e980dd0640f3f69447d32cc789118046216c520a2650649a56848ca2ef6d",
+      "publishedAtLabel": "Dec 11"
+    },
+    {
+      "id": 16302,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "JEAN-YVES KAMALE Associated Press",
+      "title": "Authorities say the mystery disease in Congo might be malaria but more testing is needed",
+      "description": "Authorities say the mystery flu-like illness that has killed dozens of people in southwest Congo in recent weeks might be malaria",
+      "url": "https://abcnews.go.com/Health/wireStory/authorities-mystery-disease-congo-malaria-testing-needed-116682334",
+      "urlToImage": "https://i.abcnewsfe.com/a/4c632431-89ec-40d5-8462-e9bb93a107ba/wirestory_c772403273a89b5dcdc86778ad7eeed3_16x9.jpg?w=1600",
+      "publishedAt": "2024-12-11 15:58:41",
+      "content": "KINSHASA, Congo -- The mystery flu-like illness that has killed dozens of people in southwest Congo in recent weeks might be malaria, according to results from laboratory samples of infected people, \u2026 [+2261 chars]",
+      "retrievedAt": "2024-12-12 19:05:47.902626",
+      "internal_id": "552d4d22f0fe79b68612601e0e268548552d35d3819cde08c77c2009c965266a",
+      "publishedAtLabel": "Dec 11"
+    },
+    {
+      "id": 16299,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "JEAN-YVES KAMALE Associated Press",
+      "title": "Authorities say the mystery disease in Congo might be malaria but more testing is needed",
+      "description": "Authorities say the mystery flu-like illness that has killed dozens of people in southwest Congo in recent weeks might be malaria",
+      "url": "https://abcnews.go.com/International/wireStory/authorities-mystery-disease-congo-malaria-testing-needed-116682323",
+      "urlToImage": "https://i.abcnewsfe.com/a/4c632431-89ec-40d5-8462-e9bb93a107ba/wirestory_c772403273a89b5dcdc86778ad7eeed3_16x9.jpg?w=1600",
+      "publishedAt": "2024-12-11 15:58:38",
+      "content": "KINSHASA, Congo -- The mystery flu-like illness that has killed dozens of people in southwest Congo in recent weeks might be malaria, according to results from laboratory samples of infected people, \u2026 [+2261 chars]",
+      "retrievedAt": "2024-12-12 19:05:47.860973",
+      "internal_id": "4de9f297863d3e7dc55e899acd043f7e234909a58c96907bf9b27298d03f7f0a",
+      "publishedAtLabel": "Dec 11"
+    },
+    {
+      "id": 16298,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Faz.net",
+      "author": "dpa, hell.",
+      "title": "Reaktion auf die \u201eKrankheit X\u201c zeigt laut Experten Mangel auf",
+      "description": "Hinter den mysteri\u00f6sen Krankheitsf\u00e4lle im Kongo k\u00f6nnte schlussendlich Malaria stecken. Doch die Reaktion darauf zeigt laut einem deutschen Mediziner: Wir sind nicht gut vorbereitet.",
+      "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/tropenmediziner-reaktion-auf-krankheit-x-zeigt-mangel-auf-110168811.html",
+      "urlToImage": "https://media1.faz.net/ppmedia/aktuell/gesellschaft/1308588638/1.10168839/facebook_teaser/ein-gesundheitsarbeiter-in-der.jpg",
+      "publishedAt": "2024-12-11 15:47:20",
+      "content": "Die Beh\u00f6rden im Kongo sprachen in den vergangenen Tagen von einer unbekannten Krankheit X. Doch laut der Weltgesundheitsorganisation (WHO) wurde in 10 von 12 medizinischen Proben von Patienten Malari\u2026 [+2173 chars]",
+      "retrievedAt": "2024-12-12 19:05:47.854227",
+      "internal_id": "0b68620f049c284bc6f1ce9084c1b5e22f29ca939b2622271259fb34a1d976aa",
+      "publishedAtLabel": "Dec 11"
+    },
+    {
+      "id": 16272,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "ZEIT ONLINE: Wissen -",
+      "title": "Ausgabe 53/2024: Unsere Quellen",
+      "description": "Hier haben wir recherchiert. Dies sind die zentralen Quellen der Wissen-Texte in der ZEIT Ausgabe vom 12.12.2024:",
+      "url": "https://www.zeit.de/wq/2024-53",
+      "urlToImage": "https://img.zeit.de/administratives/sharing/fallback-image/wide__1300x731",
+      "publishedAt": "2024-12-11 15:45:07",
+      "content": "Nur noch ein Schritt? In Kanada hat sich ein Jugendlicher mit H5N1 infiziert und niemand wei\u00df woher. In Kalifornien sind 40 Prozent der Rinderherden mit H5N1 infiziert. Das Vogelgrippevirus ha\u2026 [+2026 chars]",
+      "retrievedAt": "2024-12-12 19:05:46.863835",
+      "internal_id": "41a6100ceed92c0067893a5dd615dde027357728b2d3cc8e85f2e416864a9b5d",
+      "publishedAtLabel": "Dec 11"
+    },
+    {
+      "id": 16268,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "ZEIT ONLINE: Gesundheit - Harro Albrecht",
+      "title": "Vogelgrippevirus: Nur noch ein Schritt?",
+      "description": "Das Vogelgrippevirus H5N1 ist nur noch eine Mutation davon entfernt, sich unter Menschen zu verbreiten, legt eine Studie nahe. Doch ganz so einfach ist es wohl nicht.",
+      "url": "https://www.zeit.de/2024/53/vogelgrippe-virus-uebertragung-mensch-mutation",
+      "urlToImage": "https://img.zeit.de/2024/53/nur-noch-ein-schritt-bild-2/wide__1300x731",
+      "publishedAt": "2024-12-11 15:44:24",
+      "content": "Schlie\u00dfen Artikelzusammenfassung Der Virologe Martin Beer beruhigt, dass das Vogelgrippevirus H5N1 noch nicht bereit ist, eine Pandemie auszul\u00f6sen, da es noch nicht gen\u00fcgend Mutationen hat, um dem \u2026 [+829 chars]",
+      "retrievedAt": "2024-12-12 19:05:46.750957",
+      "internal_id": "a3d21d7e4342ad2c27a559718e4afe37f7e9c6cd0e699e18703afea426e79b59",
+      "publishedAtLabel": "Dec 11"
+    },
+    {
+      "id": 16312,
+      "query": [
+        "malaria",
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "Nicole Hei\u00dfmann, Nicole Simon, Bernhard Albrecht",
+      "title": "Kongo: Was steckt hinter der Krankheit \"X\"? Erste Daten deuten auf einen alten Bekannten hin",
+      "description": "Nach Mpox breitet sich im Kongo wieder eine Infektionswelle aus. Vorl\u00e4ufige Daten der Weltgesundheitsorganisation deuten auf Malaria hin. Die wichtigsten Hintergr\u00fcnde.",
+      "url": "https://www.stern.de/panorama/wissen/im-kongo-wuetet-eine-krankheitswelle--koennte-es-malaria-sein--35288198.html",
+      "urlToImage": "https://image.stern.de/35288286/t/ss/v3/w1440/r1.7778/-/kongo-krankheit-x-helfer.jpg",
+      "publishedAt": "2024-12-11 14:41:00",
+      "content": "Stern plusZugang zu stern+statt 11,96 nur 1 Jetzt testen Bereits registriert?Hier anmelden",
+      "retrievedAt": "2024-12-12 19:05:47.999620",
+      "internal_id": "6d541d0597451e5297ca01a52e60488b1277ec22e5cee1d6e8845b4077f5edcd",
+      "publishedAtLabel": "Dec 11"
+    },
+    {
+      "id": 16282,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Nacion.com",
+      "author": "Irene Rodr\u00edguez",
+      "title": "Dengue ha enviado a 46 menores al Hospital de Ni\u00f1os",
+      "description": "El Hospital Nacional de Ni\u00f1os ha hospitalizado a 46 menores por dengue, seis con dengue grave. En Costa Rica, una de cada tres infecciones es en menores de 15 a\u00f1os, seg\u00fan la OPS.",
+      "url": "https://www.nacion.com/el-pais/dengue-ha-enviado-a-46-menores-al-hospital-de/AB5YBFZENFFBFDOYSZHQCJ3VRI/story/",
+      "urlToImage": "https://www.nacion.com/resizer/v2/ULIJ4QSZVBH5NHW7DVOT3EQHOE.jpg?smart=true&auth=af9ed96852439f0bae311bc3502fe96437d2e56ff5e64af3bd8347054ccd40f6&width=1440",
+      "publishedAt": "2024-12-11 14:30:00",
+      "content": "En lo que va del a\u00f1o, el Hospital Nacional de Ni\u00f1os (HNN) ha atendido a 430 menores con una prueba positiva por dengue. De ellos, 46 han requerido hospitalizaci\u00f3n.Aunque ninguno de ellos ha fallecido\u2026 [+6335 chars]",
+      "retrievedAt": "2024-12-12 19:05:47.283080",
+      "internal_id": "dc89ea3cbd73fe4c08201e8046ef11a776a85f993e4dad3c4897a6d1deca915e",
+      "publishedAtLabel": "Dec 11"
+    },
+    {
+      "id": 16286,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Antaranews.com",
+      "author": "Mecca Yumna, Resinta Sulistiyandari",
+      "title": "Indonesia joins in malaria research to prevent transmission at IKN",
+      "description": "Indonesia&#39;s Health Ministry participated in research on malaria and other mosquito-borne diseases, such as dengue fever, zika, chikungunya, and Japanese ...",
+      "url": "https://en.antaranews.com/news/337846/indonesia-joins-in-malaria-research-to-prevent-transmission-at-ikn",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2024/10/15/IMG_20240930_210435.jpg",
+      "publishedAt": "2024-12-11 14:28:47",
+      "content": "Jakarta (ANTARA) - Indonesia's Health Ministry participated in research on malaria and other mosquito-borne diseases, such as dengue fever, zika, chikungunya, and Japanese Encephalitis, to mitigate t\u2026 [+2900 chars]",
+      "retrievedAt": "2024-12-12 19:05:47.327573",
+      "internal_id": "0dc63682d9e7021d30a9a812c8a3aa3fb6d73d0828e5692fd7aff9fff8385d61",
+      "publishedAtLabel": "Dec 11"
+    },
+    {
+      "id": 16287,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "DIE WELT",
+      "author": "Edda Grabar",
+      "title": "\u201eKrankheit X\u201c ist wohl Malaria \u2013 aber das ist kein Grund zur Entwarnung",
+      "description": "Wie es aussieht, handelt es sich bei der unbekannten Krankheit im Kongo um Malaria. Aber dies darf kein Grund zur Entwarnung sein. Denn sollten Experten dort doch noch ein gef\u00e4hrliches Virus finden, w\u00e4re es eventuell zu sp\u00e4t, um es einzud\u00e4mmen.",
+      "url": "https://www.welt.de/debatte/kommentare/article254839938/Krankheit-X-ist-wohl-Malaria-kein-Grund-zur-Entwarnung.html",
+      "urlToImage": "https://img.welt.de/img/debatte/kommentare/mobile254839936/2347931077-ci16x9-w1200/A-health-worker-prepares-to-adminis.jpg",
+      "publishedAt": "2024-12-11 14:28:35",
+      "content": "Wie es aussieht, handelt es sich bei der unbekannten Krankheit im Kongo um Malaria. Aber dies darf kein Grund zur Entwarnung sein. Denn sollten Experten dort doch noch ein gef\u00e4hrliches Virus finden, \u2026 [+3177 chars]",
+      "retrievedAt": "2024-12-12 19:05:47.742382",
+      "internal_id": "6f7156d4047d16b595696a5b38c7f26b8523802d0e9bb02d4e101cc27e6f2bc7",
+      "publishedAtLabel": "Dec 11"
+    },
+    {
+      "id": 16277,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Kffhealthnews.org",
+      "author": null,
+      "title": "Wednesday, December 11, 2024",
+      "description": "ACA enrollment, reproductive health privacy, \"forever chemicals,\" cancer, ultraprocessed food, Trump's nominees, opioids, and more",
+      "url": "https://kffhealthnews.org/morning-briefing/wednesday-december-11-2024/",
+      "urlToImage": "https://kffhealthnews.org/wp-content/uploads/sites/2/2023/04/2023_morning-briefing2.jpg",
+      "publishedAt": "2024-12-11 14:06:30",
+      "content": "California Child's Bird Flu Infection Resembles Strain Sickening Dairy Cows The H5N1 case, confirmed by the CDC, is still perplexing as the child was not known to have been exposed to sick livestock\u2026 [+4692 chars]",
+      "retrievedAt": "2024-12-12 19:05:46.921198",
+      "internal_id": "1c157277c0388fb184bbf7d23f182d28c6e6c0a44ae09935865aacb78da9c674",
+      "publishedAtLabel": "Dec 11"
+    },
+    {
+      "id": 16301,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Jan Kixm\u00fcller",
+      "title": "Krankeitsausbruch im Kongo: Tropenmediziner warnt vor verschleppter Pandemiebek\u00e4mpfung",
+      "description": "Der Tropenmediziner Torsten Feldt fordert rasche Reaktionen auf Krankheitsausbr\u00fcche. F\u00fcr die \u201eKrankheit X\u201c im Kongo nennt die WHO Malaria als m\u00f6gliche Ursache. Besonders gef\u00e4hrdet: unterern\u00e4hrte Kinder in entlegenen Gebieten.",
+      "url": "https://www.tagesspiegel.de/wissen/krankeitsausbruch-im-kongo-tropenmediziner-warnt-vor-verschleppter-pandemiebekampfung-12858208.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/12214427/alternates/BASE_16_9_W1400/1733924716000/drcongo-health-mpox.jpeg",
+      "publishedAt": "2024-12-11 14:05:01",
+      "content": "Nach der vorl\u00e4ufigen Entwarnung der Weltgesundheitsorganisation (WHO) zu dem mysteri\u00f6sen Krankheitsausbruch in der Demokratischen Republik Kongo fordert der deutsche Tropenmediziner Torsten Feldt vom\u2026 [+7277 chars]",
+      "retrievedAt": "2024-12-12 19:05:47.879670",
+      "internal_id": "6c04eb90d3160f9a4c8b5c24a1b399dccffafed4014893ddf7c584a945d3e5f0",
+      "publishedAtLabel": "Dec 11"
+    },
+    {
+      "id": 16315,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "David Onafruo, Anou Dreyfus, Joseph Erume, Clovice Kankya, Ambrose Jubara, Ikwap Kokas, Terence Odoch, Musso Munyeme, Lordrick Alinaitwe, Estella Kitale, Peter Marin, Esther Sabbath, J\u00f6rn Klein",
+      "title": "Leptospira seroprevalence and associated risk factors among slaughterhouse workers in Western Bahr El Ghazal State, South Sudan",
+      "description": "Author summary Leptospirosis is a re-emerging zoonotic disease affecting people who work closely with animals. In Africa, livestock contact is thought to be a potential source of human Leptospira exposure. This study examined occupational exposure among slaug\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012700",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012700.t003&size=inline",
+      "publishedAt": "2024-12-11 14:00:00",
+      "content": "Citation: Onafruo D, Dreyfus A, Erume J, Kankya C, Jubara A, Kokas I, et al. (2024) Leptospira seroprevalence and associated risk factors among slaughterhouse workers in Western Bahr El Ghazal State,\u2026 [+21312 chars]",
+      "retrievedAt": "2024-12-12 19:05:48.989533",
+      "internal_id": "79368e2a59264a0bf2816ca13b806f8c03d18544605696450ca703a906a72c16",
+      "publishedAtLabel": "Dec 11"
+    },
+    {
+      "id": 16265,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Boston Herald",
+      "author": "Associated Press",
+      "title": "Infectious diseases killed Victorian children at alarming rates \u2014 their novels highlight the fragility of public health today",
+      "description": "Andrea Kaston Tange (The Conversation is an independent and nonprofit source of news, analysis and commentary from academic experts.) Andrea Kaston Tange, Macalester College (THE CONVERSATION) Modern medicine has enabled citizens of wealthy, industrialized na\u2026",
+      "url": "https://www.bostonherald.com/2024/12/11/infectious-diseases-killed-victorian-children-at-alarming-rates-their-novels-highlight-the-fragility-of-public-health-today/",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2024/12/AP24088650771987.jpg?w=1024&h=683",
+      "publishedAt": "2024-12-11 13:40:46",
+      "content": "Multiple technologies now prevent epidemic spread of these and other once-common childhood illnesses, including polio, tetanus, whooping cough, measles, scarlet fever and cholera. Originally Publish\u2026 [+35 chars]",
+      "retrievedAt": "2024-12-12 19:05:46.321746",
+      "internal_id": "04a384ddef7bd235ee1a14683a21f96638bee48f2478dc086c65acc523cdc1f5",
+      "publishedAtLabel": "Dec 11"
+    },
+    {
+      "id": 16308,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Lavenir.net",
+      "author": "Belga Belga",
+      "title": "Le nombre de cas de malaria a augment\u00e9 de 11 millions dans le monde en 2023: \"Personne ne devrait succomber \u00e0 cette maladie\" (infographies)",
+      "description": "Le nombre de cas de malaria a augment\u00e9 de 11 millions sur un an pour atteindre 263 millions en 2023, selon les estimations de l'Organisation mondiale de la sant\u00e9 (OMS). La maladie a fait 597.000 victimes, un nombre stable. ...",
+      "url": "https://www.lavenir.net/actu/monde/2024/12/11/le-nombre-de-cas-de-malaria-a-augmente-de-11-millions-dans-le-monde-en-2023-personne-ne-devrait-succomber-a-cette-maladie-infographies-55YZRDU2RVGRFH6YEOWOWC3HL4/",
+      "urlToImage": "https://www.lavenir.net/resizer/v2/KNJA4AJBIJCRXGIXKD4MEO2IGQ.jpg?auth=9e1b780e78eaf37ca0e6993a2e0b31b16e7d6b675145543255cfd35fe123cc28&width=1200&height=630&quality=85&focal=3000%2C2000&watermark=https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Fipmgroup%2FUVYY255VT5BDBHOGCTGBCGI364.png%3A100%3A0%2C558",
+      "publishedAt": "2024-12-11 13:09:29",
+      "content": "Sur pr\u00e8s de 85 Etats end\u00e9miques, 25 n'identifient plus que moins de dix cas par an. En Afrique, le taux de mortalit\u00e9 atteint encore pr\u00e8s de 53 pour 100.000. Soit le double de l'objectif affich\u00e9 pour \u2026 [+1141 chars]",
+      "retrievedAt": "2024-12-12 19:05:47.944533",
+      "internal_id": "86b7697b5b1ec063d031a2975d90c3c6f893a94ea2fdc859824701c9f56dbccf",
+      "publishedAtLabel": "Dec 11"
+    },
+    {
+      "id": 16288,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Ilfattoquotidiano.it",
+      "author": "F. Q.",
+      "title": "Malattia del Congo e malaria, i dubbi degli scienziati italiani: \u201cCi sono sintomi respiratori, ipotizzare anche altro\u201d",
+      "description": "I sintomi di questa malattia sono mal di testa, tosse, febbre, difficolt\u00e0 respiratorie, dolori muscolari, affaticamento e anemia L'articolo Malattia del Congo e malaria, i dubbi degli scienziati italiani: \u201cCi sono sintomi respiratori, ipotizzare anche altro\u201d \u2026",
+      "url": "https://www.ilfattoquotidiano.it/2024/12/11/malattia-congo-malaria-dubbi-scienziati-ipotizzare-altro/7800576/",
+      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2022/02/11/bassetti1200-1200x630.jpg",
+      "publishedAt": "2024-12-11 12:58:06",
+      "content": "La notizia che siano state riscontrate positivit\u00e0 alla malaria nei pazienti colpiti in Africa dalla malattia del Congo, non sorprende del tutto visto che gi\u00e0 nei giorni scorsi le istituzioni internaz\u2026 [+3035 chars]",
+      "retrievedAt": "2024-12-12 19:05:47.749428",
+      "internal_id": "f274c5244e802e4dd8a9fdef9f9f6516dd6f325a2d8cfaa70b58f7fb2025a576",
+      "publishedAtLabel": "Dec 11"
+    },
+    {
+      "id": 16284,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "DW (English)",
+      "author": "Deutsche Welle",
+      "title": "Casos de dengue batem recorde nas Am\u00e9ricas em 2024",
+      "description": "Surto \u00e9 maior registrado desde o in\u00edcio da medi\u00e7\u00e3o em 1980, segundo a Opas. Brasil lidera no n\u00famero de casos. Mudan\u00e7as clim\u00e1ticas impulsionaram aumento alarmante de infectados.",
+      "url": "https://www.dw.com/pt-br/casos-de-dengue-batem-recorde-nas-am%C3%A9ricas-em-2024/a-71023485",
+      "urlToImage": "https://static.dw.com/image/70326755_6.jpg",
+      "publishedAt": "2024-12-11 12:23:00",
+      "content": "Os casos de dengue quase triplicaram neste ano nas Am\u00e9ricas, e a doen\u00e7a ampliou seu territ\u00f3rio, alertou a Organiza\u00e7\u00e3o Pan-Americana da Sa\u00fade (Opas) nesta ter\u00e7a-feira (10/12). A regi\u00e3o das Am\u00e9ricas en\u2026 [+5239 chars]",
+      "retrievedAt": "2024-12-12 19:05:47.296254",
+      "internal_id": "e1c2003330c8dd94717aaadcb0e608ff33e0bc663ec90447d334b14c99cbc75e",
+      "publishedAtLabel": "Dec 11"
+    },
+    {
+      "id": 16303,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Science.orf.at",
+      "author": "ORF.at",
+      "title": "Erste Indizien sprechen f\u00fcr Malaria",
+      "description": "Nach der Unklarheit \u00fcber die unbekannte \u201eKrankheit X\u201c mit einer hohen Zahl von Todesf\u00e4llen in der Demokratischen Republik Kongo sind erste Ergebnisse von Labortests ver\u00f6ffentlicht worden: In zehn von zw\u00f6lf Proben wurde Malaria nachgewiesen. Bei einem mutma\u00dfli\u2026",
+      "url": "https://science.orf.at/stories/3228003/",
+      "urlToImage": "https://ibs.orf.at/science?image=https%3A%2F%2Ftubestatic.orf.at%2Fmojo%2F1_4_1%2Fstoryserver%2Ftube%2Fscience%2Fimages%2Fog-fallback.jpg%3Fs%3D9468ebfda8d575e29237d4fe069891178635d8e1",
+      "publishedAt": "2024-12-11 12:01:25",
+      "content": "Fieber, Husten, Gliederschmerzen verbunden mit akut auftretender An\u00e4mie, also Blutarmut: Diese Symptome sind bereits seit Wochen bekannt. Die lokalen Beh\u00f6rden in der abgelegenen Region Panzi in der P\u2026 [+3008 chars]",
+      "retrievedAt": "2024-12-12 19:05:47.909751",
+      "internal_id": "d9dff2177d1e7ccaa38dd68a6fe93ac3bc06595bf65f2cdff2ac320705615db8",
+      "publishedAtLabel": "Dec 11"
+    },
+    {
+      "id": 16279,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "focus",
+      "source_name": "Focus",
+      "author": "FOCUS online",
+      "title": "Klimapolitik - Dengue-Fieber: Was hilft und wie sch\u00fctzt man sich?",
+      "description": "In Lateinamerika sind 2024 besonders viele Menschen am Dengue-Fieber erkrankt - darunter vor allem Kinder. Ein Grund f\u00fcr die gestiegenen Zahlen ist der Klimawandel. Dies sind wirksame Medikamente und Schutzma\u00dfnahmen.",
+      "url": "https://www.focus.de/earth/klimapolitik/dengue-fieber-was-hilft-und-wie-schuetzt-man-sich_cbecca7b-a985-44fa-8029-d62bb71350dc.html",
+      "urlToImage": "https://quadro.burda-forward.de/ctf/1fea4b03-64c5-47e7-a7f5-c6fc6f714f06.d37b3374-db96-4d43-b7bf-605a025a7d33.jpeg?im=Resize%3D%281200%2C630%29&hash=87ff682cdefd8e934b13139f69440ddf6addb6900ffaefc7bf1de24c816eeca2",
+      "publishedAt": "2024-12-11 11:11:33",
+      "content": "Lateinamerika erlebt die schwerste Dengue-Epidemie seit Beginn der systematischen Erhebung 1980. Registriert wurden 2024 bisher 12,6 Millionen F\u00e4lle - fast dreimal so viele wie 2023, teilte die Panam\u2026 [+5589 chars]",
+      "retrievedAt": "2024-12-12 19:05:47.200108",
+      "internal_id": "56023533917ee72fae8876c96248a6b42ec3d725bb52f8d6d2165d97078a8fbe",
+      "publishedAtLabel": "Dec 11"
+    },
+    {
+      "id": 16292,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "DW (English)",
+      "author": "Deutsche Welle",
+      "title": "Malariaf\u00e4lle nehmen noch immer weltweit zu",
+      "description": "Die Bek\u00e4mpfung der Malaria macht zwar erhebliche Fortschritte. Aber nach wie vor ist die Tropenkrankheit eine t\u00f6dliche Gefahr, vor allem in Afrika. Die Zahl der Infektionen steigt. Weltweit haben sich im vergangenen Jahr wieder mehr Menschen mit Malaria infiz\u2026",
+      "url": "https://www.dw.com/de/malariaf%C3%A4lle-nehmen-noch-immer-weltweit-zu/a-71022368",
+      "urlToImage": "https://static.dw.com/image/70232772_6.jpg",
+      "publishedAt": "2024-12-11 11:06:00",
+      "content": "Weltweit haben sich im vergangenen Jahr wieder mehr Menschen mit Malaria infiziert. Der j\u00fcngste Weltmalariabericht der Weltgesundheitsorganisation (WHO) dokumentiert 263 Millionen F\u00e4lle f\u00fcr 2023. Das\u2026 [+4310 chars]",
+      "retrievedAt": "2024-12-12 19:05:47.776421",
+      "internal_id": "dea95895ed000df07a7dfe4dd8e8bf1b1bdf980d258170c803e716c45425e746",
+      "publishedAtLabel": "Dec 11"
+    },
+    {
+      "id": 16274,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Pravda.sk",
+      "author": "TASR",
+      "title": "V ko\u0161ickej zoo potvrdili vt\u00e1\u010diu chr\u00edpku. Pre verejnos\u0165 je zatvoren\u00e1",
+      "description": "N\u00e1kazu v\u00edrusom H5N1 u ka\u010dice druhu pot\u00e1pa\u010d prilbat\u00fd potvrdilo N\u00e1rodn\u00e9 referen\u010dn\u00e9 laborat\u00f3rium vo Zvolene.",
+      "url": "https://spravy.pravda.sk/domace/clanok/733821-v-kosickej-zoo-potvrdili-vtaciu-chripku-pre-verejnost-je-zatvorena/",
+      "urlToImage": "http://ipravda.sk/res/2024/12/11/thumbs/potapac-prilbaty-clanokW.jpg",
+      "publishedAt": "2024-12-11 10:56:00",
+      "content": "Koick\u00e1 zoologick\u00e1 z\u00e1hrada je od stredy pre verejnos zatvoren\u00e1 pre v\u00fdskyt vt\u00e1ej chr\u00edpky. N\u00e1kazu v\u00edrusom H5N1 u kaice druhu pot\u00e1pa prilbat\u00fd potvrdilo N\u00e1rodn\u00e9 referenn\u00e9 laborat\u00f3rium vo Zvolene. Informov\u2026 [+1588 chars]",
+      "retrievedAt": "2024-12-12 19:05:46.883580",
+      "internal_id": "d961fdcc48dfce0140899e1c78b4406d03cfd2b0650c78c8320e4676f4376162",
+      "publishedAtLabel": "Dec 11"
+    },
+    {
+      "id": 16300,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Ilgiornale.it",
+      "author": "redazione@ilgiornale-web.it (Roberta Damiata)",
+      "title": "Malattia del Congo, arrivano i primi test: \"L'80% dei campioni positivi alla malaria\"",
+      "description": "L'Oms: possibile siano coinvolte pi\u00f9 malattie. Il direttore generale dell'organizzazione: \"Aspettiamo ulteriori analisi\"",
+      "url": "https://www.ilgiornale.it/news/cronaca-internazionale/malattia-congo-arrivano-i-primi-test-l80-dei-campioni-2410317.html",
+      "urlToImage": "https://img.ilgcdn.com/sites/default/files/styles/social/public/foto/2024/12/06/1733503991-22575697-large.jpg?_=1733503991",
+      "publishedAt": "2024-12-11 10:31:37",
+      "content": "Sono arrivati i primi test prelevati su alcuni malati di quella definita \"malattia del Congo\" che sta creando molta preoccupazione anche se al momento non ci sono basi per creare timori. A raccontarl\u2026 [+1744 chars]",
+      "retrievedAt": "2024-12-12 19:05:47.867371",
+      "internal_id": "284796f25dac08185b76480b395d3fdce5cd3c74c486c01d922b206a1ecc62df",
+      "publishedAtLabel": "Dec 11"
+    },
+    {
+      "id": 16280,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Research and Markets",
+      "title": "Growth Trends in the Dengue Vaccines Industry, 2024-2028 & 2033",
+      "description": "Dengue Vaccine Market Set to Grow at 12.3% CAGR, Driven by Advancements in Tetravalent Formulations Dengue Vaccine Market Set to Grow at 12.3% CAGR, Driven by Advancements in Tetravalent Formulations",
+      "url": "https://www.globenewswire.com/news-release/2024/12/11/2995151/28124/en/Growth-Trends-in-the-Dengue-Vaccines-Industry-2024-2028-2033.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "publishedAt": "2024-12-11 10:04:00",
+      "content": "Dublin, Dec. 11, 2024 (GLOBE NEWSWIRE) -- The \"Dengue Vaccine Market Report 2024\" report has been added to ResearchAndMarkets.com's offering. The dengue vaccine market size has grown rapidly in rece\u2026 [+5431 chars]",
+      "retrievedAt": "2024-12-12 19:05:47.247061",
+      "internal_id": "195650cc8bf2c7f2b6df6bad196d8604ebec0c6d57bf7f1c2a3a6173d1bbd1f7",
+      "publishedAtLabel": "Dec 11"
+    },
+    {
+      "id": 16271,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Aps.org",
+      "author": "Rachel Berkowitz",
+      "title": "Simulations Suggest Flu Virus Vulnerability",
+      "description": "Author(s): Rachel BerkowitzStudies of influenza A\u2019s unusual propulsion strategy suggest that drugs could target a critical protein.[Physics 17, 177] Published Wed Dec 11, 2024",
+      "url": "https://physics.aps.org/articles/v17/177",
+      "urlToImage": "https://physics.aps.org/assets/51b500d4-0968-4ce4-b0c2-d5d5511640a0/e177_1_thumb.png",
+      "publishedAt": "2024-12-11 10:00:00",
+      "content": "You make me sick. A transmission electron microscope (TEM) image shows a rod-shaped H5N1 (bird flu) virus, which is a subtype of the influenza A virus. In the background, a second TEM image shows sph\u2026 [+6055 chars]",
+      "retrievedAt": "2024-12-12 19:05:46.851116",
+      "internal_id": "bfc0a1e808dbdedd002ca37e8f60299a8e2cf3a38f768234bd64ef1285b60c7a",
+      "publishedAtLabel": "Dec 11"
+    },
+    {
+      "id": 16290,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Oms, in Congo dai primi test 80% campioni positivi a malaria",
+      "description": "Per ora 10 su 12. Dg Tedros: 'Ma aspettiamo altri risultati' (ANSA)",
+      "url": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2024/12/11/-omsin-congo-da-primi-test-80-campioni-positivi-a-malaria-_f11cc990-edd6-461f-9ec4-166766ffdea2.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2024/12/10/78136022d2e70921e064027ff636fb98.jpg",
+      "publishedAt": "2024-12-11 09:50:16",
+      "content": "\"Dei 12 campioni iniziali raccolti, 10 sono risultati positivi alla malaria, anche se \u00e8 possibile che sia coinvolta pi\u00f9 di una malattia\". \u00c8 quanto ha affermato il direttore generale dell'Oms Tedros A\u2026 [+1605 chars]",
+      "retrievedAt": "2024-12-12 19:05:47.763367",
+      "internal_id": "2891233775931a63a773231fe34aafa48b9cbd1d1bc158e6d5f4bd921f542c58",
+      "publishedAtLabel": "Dec 11"
+    },
+    {
+      "id": 16269,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Technews.tw",
+      "author": "\u4e2d\u592e\u793e",
+      "title": "\u79bd\u6d41\u611f\u6709\u8b8a\u7570\u8de1\u8c61\uff0c\u5c08\u5bb6\uff1a\u6050\u5927\u6d41\u884c",
+      "description": "\u885b\u751f\u5c08\u5bb6\u4e00\u76f4\u4ee5\u4f86\u90fd\u5728\u8b66\u544a\u79bd\u6d41\u611f\u53ef\u80fd\u5927\u6d41\u884c\uff0c\u96a8\u8457\u9019\u7a2e\u75c5\u6bd2\u5728\u7f8e\u570b\u725b\u7fa4\u4e2d\u50b3\u64ad\u4e26\u611f\u67d3\u4eba\u985e\uff0c\u79bd\u6d41\u611f\u5df2\u986f\u793a\u51fa\u8b8a\u7570\u8de1\u8c61\u3002 \u79bd\u6d41\u611f\u4e0d\u4e00\u5b9a\u6703\u958b\u59cb\u5728\u4eba\u8207\u4eba\u4e4b\u9593\u50b3\u64ad\uff0c\u7f8e\u570b\u885b\u751f\u7576\u5c40\u4e5f\u5f37\u8abf\uff0c\u4e00\u822c\u6c11\u773e\u9762\u81e8\u7684\u98a8\u96aa\u4ecd\u4f4e\u3002 1996\u5e74\u81f4\u547d\u79bd\u6d41\u611f\u8b8a\u7a2eH5N1\u9996\u6b21\u5728\u4e2d\u570b\u51fa\u73fe\uff0c\u4f46\u904e\u53bb\u56db\u5e74\u5b83\u7684\u50b3\u64ad\u7bc4\u570d\u6bd4\u4ee5\u5f80\u4efb\u4f55\u6642\u5019\u90fd\u66f4\u5ee3\u6cdb\uff0c\u751a\u81f3\u5230\u9054\u4ee5\u524d\u672a\u66fe...",
+      "url": "https://technews.tw/2024/12/11/bird-flu-shows-signs-of-mutation/",
+      "urlToImage": "https://img.technews.tw/wp-content/uploads/2024/02/05145243/pigeon.jpg",
+      "publishedAt": "2024-12-11 09:30:19",
+      "content": "1996H5N1 World Organisation for Animal Health202110379315 3 Centers for Disease Control and Prevention58 111157% SAS InstituteMeg Schaeffer Pixabay",
+      "retrievedAt": "2024-12-12 19:05:46.808601",
+      "internal_id": "30dc6c56b5f91317119fc0cfc4df0a006fb34697c13d76258477d77924837f6f",
+      "publishedAtLabel": "Dec 11"
+    },
+    {
+      "id": 16294,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Www.abc.es",
+      "author": "(abc)",
+      "title": "La ONU alerta de que la malaria acab\u00f3 con la vida de 600.000 personas en 2023",
+      "description": "De acuerdo con el \u00faltimo informe de la Organizaci\u00f3n Mundial de la Salud (OMS) publicado hoy, en Ginebra, a pesar de los esfuerzos realizados, la malaria sigue siendo una amenaza para la salud p\u00fablica, a nivel mundial, principalmente porque millones de persona\u2026",
+      "url": "https://www.abc.es/sociedad/onu-alerta-malaria-acabo-vida-600000-personas-20241211102852-nt.html",
+      "urlToImage": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2024/12/11/malaria-ksYB--1024x512@diario_abc.jpg",
+      "publishedAt": "2024-12-11 09:28:52",
+      "content": "De acuerdo con el \u00faltimo informe de la Organizaci\u00f3n Mundial de la Salud (OMS) publicado hoy, en Ginebra, a pesar de los esfuerzos realizados, la malaria sigue siendo una amenaza para la salud p\u00fablica\u2026 [+4014 chars]",
+      "retrievedAt": "2024-12-12 19:05:47.795270",
+      "internal_id": "b7d04b15e2c831592bdd8b57e8c9bd226cb7cfa16ac8ecb372326b320808c4d1",
+      "publishedAtLabel": "Dec 11"
+    },
+    {
+      "id": 16289,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "++ Oms,in Congo da primi test 80% campioni positivi a malaria ++",
+      "description": "\"Dei 12 campioni iniziali raccolti, 10 sono risultati positivi alla malaria, anche se \u00e8 possibile che sia coinvolta pi\u00f9 di una malattia\". (ANSA)",
+      "url": "https://www.ansa.it/sito/notizie/flash/2024/12/11/-omsin-congo-da-primi-test-80-campioni-positivi-a-malaria-_33de6e23-21f4-43a7-8c2e-5650eca72ec8.html",
+      "urlToImage": "https://www.ansa.it",
+      "publishedAt": "2024-12-11 09:26:06",
+      "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all\u2019abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad \u2026 [+320 chars]",
+      "retrievedAt": "2024-12-12 19:05:47.756685",
+      "internal_id": "d36a22705ee2986a309b1a1aca15886b1833d71687b32355ec9a89c9eea65d11",
+      "publishedAtLabel": "Dec 11"
+    },
+    {
+      "id": 16267,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "ZEIT ONLINE: News -",
+      "title": "Tierseuchen: Gefl\u00fcgelpest bei Wildv\u00f6geln in Dithmarschen festgestellt",
+      "description": "Hier finden Sie Informationen zu dem Thema \u201eTierseuchen\u201c. Lesen Sie jetzt \u201eGefl\u00fcgelpest bei Wildv\u00f6geln in Dithmarschen festgestellt\u201c.",
+      "url": "https://www.zeit.de/news/2024-12/11/gefluegelpest-bei-wildvoegeln-in-dithmarschen-festgestellt",
+      "urlToImage": "https://img.zeit.de/news/2024-12/11/gefluegelpest-bei-wildvoegeln-in-dithmarschen-festgestellt-image-group/wide__1300x731",
+      "publishedAt": "2024-12-11 09:15:39",
+      "content": "Im Kreis Dithmarschen ist zum ersten Mal in diesem Winter Gefl\u00fcgelpest bei einem Wildvogel nachgewiesen worden. Das hochansteckende Influenzavirus H5N1 sei am 2. Dezember 2024 bei einer Nonnengans in\u2026 [+753 chars]",
+      "retrievedAt": "2024-12-12 19:05:46.737857",
+      "internal_id": "b041486e79aebf652b841f3096a6d7009e1c6a24ea10277b258ed011638ea2ec",
+      "publishedAtLabel": "Dec 11"
+    },
+    {
+      "id": 16295,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Elisabeth Mahase",
+      "title": "Malaria: Drug resistance and fragile health systems are hindering progress, WHO warns",
+      "description": "Weak health systems, increasing drug resistance, and funding shortages are impeding progress towards eliminating malaria, as cases rise but mortality falls, the World Health Organization has said.1In its annual malaria report, WHO said there were an estimated\u2026",
+      "url": "https://www.bmj.com/content/387/bmj.q2776",
+      "urlToImage": "https://www.bmj.com/sites/default/files/highwire/bmj/387/8451.cover-source.jpg",
+      "publishedAt": "2024-12-11 09:08:45",
+      "content": "Weak health systems, increasing drug resistance, and funding shortages are impeding progress towards eliminating malaria, as cases rise but mortality falls, the World Health Organization has said.1 \u2026 [+409 chars]",
+      "retrievedAt": "2024-12-12 19:05:47.801638",
+      "internal_id": "df6f85c04de29ddf2efbdd08b6cbad6b97441cbdbdd7f9b5ef24b03a73b2daba",
+      "publishedAtLabel": "Dec 11"
+    },
+    {
+      "id": 16297,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Orf.at",
+      "author": "ORF.at",
+      "title": "WHO: Milliarden Malariaf\u00e4lle seit 2000 verhindert",
+      "description": "",
+      "url": "https://orf.at/stories/3378624/",
+      "urlToImage": "https://orf.at/mojo/1_4_1/storyserver//news/common/images/og-fallback-news.png",
+      "publishedAt": "2024-12-11 09:08:22",
+      "content": "Durch Gefahrenaufkl\u00e4rung, Moskitonetze und Impfungen sind nach Sch\u00e4tzungen der Weltgesundheitsorganisation (WHO) seit dem Jahr 2000 rund 2,2 Milliarden Malariaf\u00e4lle verhindert worden. Zudem seien run\u2026 [+935 chars]",
+      "retrievedAt": "2024-12-12 19:05:47.841758",
+      "internal_id": "bfd3355ff06725a18de5d8b7a1fe8f8a501a019291789dcbd61ba5c890ea865f",
+      "publishedAtLabel": "Dec 11"
+    },
+    {
+      "id": 16304,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": "Agence France-Presse",
+      "title": "Malaria Mortality Returns To Pre-Covid Levels: WHO",
+      "description": "Malaria mortality has fallen back to levels seen before the Covid-19 crisis, the WHO said, but called for faster progress against the disease.",
+      "url": "https://www.ndtv.com/world-news/malaria-mortality-returns-to-pre-covid-levels-who-7223010",
+      "urlToImage": "https://c.ndtvimg.com/2019-11/op90fov8_malaria_625x300_20_November_19.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "publishedAt": "2024-12-11 09:01:16",
+      "content": "Geneva: Malaria mortality has fallen back to levels seen before the Covid-19 crisis, the WHO said Wednesday, but called for faster progress against the disease that killed nearly some 597,000 people \u2026 [+3586 chars]",
+      "retrievedAt": "2024-12-12 19:05:47.916325",
+      "internal_id": "3ecb579ebd1a3351219958105165703efc55982594bc179c0ca0f3cc4af66cba",
+      "publishedAtLabel": "Dec 11"
+    },
+    {
+      "id": 16283,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Origo.hu",
+      "author": "Origo",
+      "title": "\u00c9vtizedek \u00f3ta nem l\u00e1tott m\u00e9reteket \u00f6lt a dengue-l\u00e1zas esetsz\u00e1m Amerik\u00e1ban",
+      "description": "A dengue-l\u00e1zas megbeteged\u00e9sek sz\u00e1ma K\u00f6z\u00e9p- \u00e9s D\u00e9l-Amerik\u00e1ban id\u00e9n csaknem megh\u00e1romszoroz\u00f3dott, \u00e9s rekordot d\u00f6nt\u00f6tt - k\u00f6z\u00f6lte kedden a P\u00e1namerikai Eg\u00e9szs\u00e9g\u00fcgyi Szervezet.",
+      "url": "https://www.origo.hu/nagyvilag/2024/12/dengue-laz-szunyog-del-kozep-amerika",
+      "urlToImage": "https://cdn.origo.hu/2024/12/qq6EKLzIs10NKM77vOFhZWSOYvQsZaUL1a1Vw147S5E/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2NhOWIwZmJlODI0ZjRiZDg5ZWM4Yzc4MWFiZWE1MWVm.webp",
+      "publishedAt": "2024-12-11 08:59:33",
+      "content": "Ahogy az Orig\u00f3n is besz\u00e1moltunk r\u00f3la, a Stanford \u00e9s a Harvard Egyetem szak\u00e9rti \u00e1ltal vezetett amerikai kutat\u00f3csoport \u00e1tfog\u00f3 tanulm\u00e1nyt k\u00e9sz\u00edtett a dengue-l\u00e1z terjed\u00e9s\u00e9nek okair\u00f3l. Arr\u00f3l is \u00edrtunk, ho\u2026 [+2092 chars]",
+      "retrievedAt": "2024-12-12 19:05:47.289450",
+      "internal_id": "b5308b7ed5a347d69fc367349a8a2c9234cd854cb62dfb832f447ebe340c068c",
+      "publishedAtLabel": "Dec 11"
+    },
+    {
+      "id": 16307,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Hbvl.be",
+      "author": "mts",
+      "title": "Aantal malariagevallen stijgt voor vijfde jaar op rij, dodentol blijft stabiel",
+      "description": "Voor het vijfde jaar op rij is in 2023 het aantal malariagevallen dat wereldwijd geteld is opnieuw toegenomen. Er waren zowat 263 miljoen besmettingen met het malariavirus, of 11 miljoen meer dan in 2022. Het aantal doden bleef wel min of meer stabiel, op 597\u2026",
+      "url": "https://www.hbvl.be/cnt/dmf20241211_93178043",
+      "urlToImage": "https://static.hbvl.be/Assets/Images_Upload/2024/12/11/3f05a858-26b7-487b-aefe-b99f391747be.jpg?maxheight=460&maxwidth=629",
+      "publishedAt": "2024-12-11 08:49:24",
+      "content": "Voor het vijfde jaar op rij is in 2023 het aantal malariagevallen dat wereldwijd geteld is opnieuw toegenomen. Er waren zowat 263 miljoen besmettingen met het malariavirus, of 11 miljoen meer dan in \u2026 [+2610 chars]",
+      "retrievedAt": "2024-12-12 19:05:47.937515",
+      "internal_id": "7a7a09e93905434339ae1012126158f9cea1e0de75701c236957a517c82e81e3",
+      "publishedAtLabel": "Dec 11"
+    },
+    {
+      "id": 16291,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Www.dr.dk",
+      "author": null,
+      "title": "Udviklingen g\u00e5r den forkerte vej: Flere malaria-tilf\u00e6lde i 2023",
+      "description": "Antallet af malaria-tilf\u00e6lde var 11 millioner h\u00f8jere i 2023, end det var \u00e5ret forinden.",
+      "url": "https://www.dr.dk/nyheder/seneste/udviklingen-gaar-den-forkerte-vej-flere-malaria-tilfaelde-i-2023",
+      "urlToImage": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fapi.dr.dk%2Ffreja%2Fimage%2Fraw%2F317&w=700",
+      "publishedAt": "2024-12-11 08:47:00",
+      "content": "Senere i dag vil det internationale fodboldbold, Fifa, udpege en v\u00e6rt for VM-slutrunden i 2034. Med al sandsynlighed bliver det Saudi-Arabien, da der ikke er kommet andre bud. Nu kritiserer kulturm\u2026 [+888 chars]",
+      "retrievedAt": "2024-12-12 19:05:47.769915",
+      "internal_id": "6570aa4c13f0f6ea50abeb819585f46a7e47648d67844bf5865987b913c1846b",
+      "publishedAtLabel": "Dec 11"
+    },
+    {
+      "id": 16306,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Www.gva.be",
+      "author": "mts",
+      "title": "Aantal malariagevallen stijgt voor vijfde jaar op rij, dodentol blijft stabiel",
+      "description": "Voor het vijfde jaar op rij is in 2023 het aantal malariagevallen dat wereldwijd geteld is opnieuw toegenomen. Er waren zowat 263 miljoen besmettingen met het malariavirus, of 11 miljoen meer dan in 2022. Het aantal doden bleef wel min of meer stabiel, op 597\u2026",
+      "url": "https://www.gva.be/cnt/dmf20241211_93053269",
+      "urlToImage": "https://static.gva.be/Assets/Images_Upload/2024/12/11/3f05a858-26b7-487b-aefe-b99f391747be.jpg?maxheight=460&maxwidth=629",
+      "publishedAt": "2024-12-11 08:28:44",
+      "content": "Voor het vijfde jaar op rij is in 2023 het aantal malariagevallen dat wereldwijd geteld is opnieuw toegenomen. Er waren zowat 263 miljoen besmettingen met het malariavirus, of 11 miljoen meer dan in \u2026 [+2821 chars]",
+      "retrievedAt": "2024-12-12 19:05:47.929600",
+      "internal_id": "684aac5d78561add90683532141a90f50b9b4563aa43b8e91ec6aaf047fc134c",
+      "publishedAtLabel": "Dec 11"
+    },
+    {
+      "id": 16276,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "20 Minutes",
+      "author": "20 Minutes avec AFP (20 Minutes)",
+      "title": "Grippe aviaire : Les mutations du virus et les cas humains inqui\u00e8tent les experts",
+      "description": "La grippe aviaire se propage \u00e0 de plus en plus d'esp\u00e8ces de mammif\u00e8res et les cas humains se multiplient. Aux Etats-Unis, des scientifiques tirent la sonnette d'alarme",
+      "url": "https://www.20minutes.fr/societe/4128504-20241211-grippe-aviaire-mutations-virus-cas-humains-inquietent-experts",
+      "urlToImage": "https://img.20mn.fr/j_vjpqEMRIaNy2NiQb1l1yk/1444x920_depuis-mars-des-elevages-laitiers-du-colorado-sont-touches-par-la-grippe-aviaire-et-58-personnes-ont-ete-testees-positives-cette-annee-aux-etats-unis",
+      "publishedAt": "2024-12-11 08:18:25",
+      "content": "Un virus qui mute et des experts de plus en plus inquiets. La grippe aviaire A (H5N1), apparue en 1996 en Chine chez les oiseaux, touche un nombre croissant desp\u00e8ces de mammif\u00e8res et des r\u00e9gions du m\u2026 [+3956 chars]",
+      "retrievedAt": "2024-12-12 19:05:46.914361",
+      "internal_id": "1fef097f307711cb25beee2e5fe8be1ee9dc2ccc1604f03b21bc2f88cbfd0f9b",
+      "publishedAtLabel": "Dec 11"
+    },
+    {
+      "id": 16278,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "HuffPost",
+      "author": "Jillian Wilson",
+      "title": "Pandemic Experts Are Worried About Bird Flu",
+      "description": "Infectious disease experts reveal what does and doesn't alarm them when it comes to the H5N1 virus.",
+      "url": "https://www.huffpost.com/entry/bird-flu-pandemic-experts_l_67584c7ae4b0f51b80bdccf5",
+      "urlToImage": "https://img.huffingtonpost.com/asset/6758928119000055001dd0da.jpeg?ops=1200_630",
+      "publishedAt": "2024-12-11 08:16:23",
+      "content": "Experts are concerned for farm workers who are most likely to get sick from bird flu. Its hard to turn on the news or look online without seeing something related to bird flu. Also known as H5N1, th\u2026 [+10361 chars]",
+      "retrievedAt": "2024-12-12 19:05:46.927953",
+      "internal_id": "ef3914a054d3e957815f926a43b618086b57f41a4239b29d43552dfe20b5b5f7",
+      "publishedAtLabel": "Dec 11"
+    },
+    {
+      "id": 16305,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Nieuwsblad.be",
+      "author": "mts",
+      "title": "Aantal malariagevallen stijgt voor vijfde jaar op rij, dodentol blijft stabiel",
+      "description": "Voor het vijfde jaar op rij is in 2023 het aantal malariagevallen dat wereldwijd geteld is opnieuw toegenomen. Er waren zowat 263 miljoen besmettingen met het malariavirus, of 11 miljoen meer dan in 2022. Het aantal doden bleef wel min of meer stabiel, op 597\u2026",
+      "url": "https://www.nieuwsblad.be/cnt/dmf20241211_92960138",
+      "urlToImage": "https://static.nieuwsblad.be/Assets/Images_Upload/2024/12/11/3f05a858-26b7-487b-aefe-b99f391747be.jpg?maxheight=460&maxwidth=638",
+      "publishedAt": "2024-12-11 08:12:23",
+      "content": "Voor het vijfde jaar op rij is in 2023 het aantal malariagevallen dat wereldwijd geteld is opnieuw toegenomen. Er waren zowat 263 miljoen besmettingen met het malariavirus, of 11 miljoen meer dan in \u2026 [+2610 chars]",
+      "retrievedAt": "2024-12-12 19:05:47.922809",
+      "internal_id": "c618372309a3122dec5f816bd48536c63d4fd9f2416e4751db61596623382ef8",
+      "publishedAtLabel": "Dec 11"
+    },
+    {
+      "id": 16293,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "International Business Times",
+      "author": "Agnes PEDRERO",
+      "title": "Malaria Mortality Returns To Pre-Covid Levels: WHO",
+      "description": "Malaria mortality has fallen back to levels seen before the Covid-19 crisis, the WHO said Wednesday, but called for faster progress against the disease that killed nearly some 597,000 people last year.",
+      "url": "https://www.ibtimes.com/malaria-mortality-returns-pre-covid-levels-who-3754966",
+      "urlToImage": "https://d.ibtimes.com/en/full/4568239/kenya-was-among-first-countries-roll-out-malaria-vaccines.jpg",
+      "publishedAt": "2024-12-11 08:12:09",
+      "content": "Malaria mortality has fallen back to levels seen before the Covid-19 crisis, the WHO said Wednesday, but called for faster progress against the disease that killed nearly some 597,000 people last yea\u2026 [+3442 chars]",
+      "retrievedAt": "2024-12-12 19:05:47.788432",
+      "internal_id": "ad78e7d9188bf5c15e7dd7b1224883df797e3a679dffdc8aa314e6526da328ee",
+      "publishedAtLabel": "Dec 11"
+    },
+    {
+      "id": 16310,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Hbvl.be",
+      "author": "mts",
+      "title": "\u201cZe hebben mogelijk meer dan \u00e9\u00e9n ziekte\u201d: pati\u00ebnten met \u2018mysterieuze ziekte\u2019 testen ook positief op malaria",
+      "description": "De tientallen mensen die in Congo bezweken zijn aan een nog niet-ge\u00efdentificeerde ziekte, hadden in werkelijkheid mogelijk meer dan \u00e9\u00e9n ziekte onder de leden. Dat meldt de Wereldgezondheidsorganisatie (WHO).",
+      "url": "https://www.hbvl.be/cnt/dmf20241211_92848946",
+      "urlToImage": "https://static.hbvl.be/Assets/Images_Upload/2024/12/11/b9c2e03f-d874-49d1-8a3a-477a3d144581.jpg?maxheight=460&maxwidth=629",
+      "publishedAt": "2024-12-11 07:54:34",
+      "content": "De tientallen mensen die in Congo bezweken zijn aan een nog niet-ge\u00efdentificeerde ziekte, hadden in werkelijkheid mogelijk meer dan \u00e9\u00e9n ziekte onder de leden. Dat meldt de Wereldgezondheidsorganisati\u2026 [+1478 chars]",
+      "retrievedAt": "2024-12-12 19:05:47.974574",
+      "internal_id": "30032e82eb2cbd6d933a6c4c11b81a1058c947a7c63edba4d5c649ea4c9fbebd",
+      "publishedAtLabel": "Dec 11"
+    },
+    {
+      "id": 16285,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ilpost.it",
+      "author": null,
+      "title": "Nel Sud e nel Centro America non ci sono mai stati tanti casi di dengue come quest\u2019anno",
+      "description": "",
+      "url": "https://www.ilpost.it/2024/12/11/dengue-sud-centro-america-dengue/",
+      "urlToImage": "https://www.ilpost.it/wp-content/uploads/2024/12/11/1733902818-dengue.jpg",
+      "publishedAt": "2024-12-11 07:46:03",
+      "content": "Secondo la Pan American Health Organization (PAHO), l\u2019organizzazione panamericana della Sanit\u00e0 delle Nazioni Unite, nel 2024 nel Sud e nel Centro America c\u2019\u00e8 stato un aumento di casi di dengue, malat\u2026 [+1202 chars]",
+      "retrievedAt": "2024-12-12 19:05:47.320337",
+      "internal_id": "1bfdac875fc3ccdd1a70b4e1815c96b781f569d88c25d3d5aab138dd1a650b0d",
+      "publishedAtLabel": "Dec 11"
+    },
+    {
+      "id": 16311,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Www.gva.be",
+      "author": "mts",
+      "title": "\u201cZe hebben mogelijk meer dan \u00e9\u00e9n ziekte\u201d: pati\u00ebnten met \u2018mysterieuze ziekte\u2019 in Congo testen ook positief op malaria",
+      "description": "De tientallen mensen die in Congo bezweken zijn aan een nog niet-ge\u00efdentificeerde ziekte, hadden in werkelijkheid mogelijk meer dan \u00e9\u00e9n ziekte onder de leden. Dat meldt de Wereldgezondheidsorganisatie (WHO).",
+      "url": "https://www.gva.be/cnt/dmf20241211_92691329",
+      "urlToImage": "https://static.gva.be/Assets/Images_Upload/2024/12/11/b9c2e03f-d874-49d1-8a3a-477a3d144581.jpg?maxheight=460&maxwidth=629",
+      "publishedAt": "2024-12-11 07:28:27",
+      "content": "De tientallen mensen die in Congo bezweken zijn aan een nog niet-ge\u00efdentificeerde ziekte, hadden in werkelijkheid mogelijk meer dan \u00e9\u00e9n ziekte onder de leden. Dat meldt de Wereldgezondheidsorganisati\u2026 [+1676 chars]",
+      "retrievedAt": "2024-12-12 19:05:47.992983",
+      "internal_id": "ed9ef7a28042cf598aee86d5c1eac05d8fbbfbae66cb1320fbb5fba1ef4aa680",
+      "publishedAtLabel": "Dec 11"
+    },
+    {
+      "id": 16309,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Nieuwsblad.be",
+      "author": "mts",
+      "title": "\u201cZe hebben mogelijk meer dan \u00e9\u00e9n ziekte\u201d: pati\u00ebnten met \u2018mysterieuze ziekte\u2019 testen ook positief op malaria",
+      "description": "De tientallen mensen die in Congo bezweken zijn aan een nog niet-ge\u00efdentificeerde ziekte, hadden in werkelijkheid mogelijk meer dan \u00e9\u00e9n ziekte onder de leden. Dat meldt de Wereldgezondheidsorganisatie (WHO).",
+      "url": "https://www.nieuwsblad.be/cnt/dmf20241211_92660763",
+      "urlToImage": "https://static.nieuwsblad.be/Assets/Images_Upload/2024/12/11/b9c2e03f-d874-49d1-8a3a-477a3d144581.jpg?maxheight=460&maxwidth=638",
+      "publishedAt": "2024-12-11 07:23:22",
+      "content": "De tientallen mensen die in Congo bezweken zijn aan een nog niet-ge\u00efdentificeerde ziekte, hadden in werkelijkheid mogelijk meer dan \u00e9\u00e9n ziekte onder de leden. Dat meldt de Wereldgezondheidsorganisati\u2026 [+1478 chars]",
+      "retrievedAt": "2024-12-12 19:05:47.956897",
+      "internal_id": "01a86192dfbbe0a16872074760b992d9b6f1277be534ea42d9beac9b1bb051b0",
+      "publishedAtLabel": "Dec 11"
+    },
     {
       "id": 16253,
       "query": [
@@ -22781,60 +23739,6 @@
       "content": "A man from northern Israel contracted rabies after being bitten by his pet dog, Israeli media reported on Sunday. According to the reports, the man was sent to intensive care following the bite and \u2026 [+236 chars]",
       "retrievedAt": "2024-10-29 07:06:33.659787",
       "internal_id": "9f1990124459b13d8c31fffeb273d60d6024a83d2f33b25f0489bb801d39d7b1",
-      "publishedAtLabel": "Oct 27"
-    },
-    {
-      "id": 14999,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The Punch",
-      "author": "Bola Bamigbola",
-      "title": "Experts caution FG on malaria vaccine mass rollout",
-      "description": "A group of scientists under the aegis of Living Science Foundation has called on the Federal Government to drop the plan to incorporate a newly developed malaria vaccine into the routine immunisation schedule in the country. This was contained in a press stat\u2026",
-      "url": "https://punchng.com/experts-caution-fg-on-malaria-vaccine-mass-rollout/",
-      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2024/10/27182204/Untitled.jpg",
-      "publishedAt": "2024-10-27 17:34:24",
-      "content": "A group of scientists under the aegis of Living Science Foundation has called on the Federal Government to drop the plan to incorporate a newly developed malaria vaccine into the routine immunisation\u2026 [+4204 chars]",
-      "retrievedAt": "2024-10-28 19:05:46.209733",
-      "internal_id": "4caaec3e97f371d7699b31c81c633a2cf4b18e1268fd03de902d4b8196bc0eb7",
-      "publishedAtLabel": "Oct 27"
-    },
-    {
-      "id": 15000,
-      "query": [
-        "typhoid"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "etimes.in",
-      "title": "What raises the risk of Typhoid among children living in crowded areas",
-      "description": "Typhoid, a bacterial infection common in tropical regions, spreads through contaminated food and water, often affecting children in overcrowded areas. Poor sanitation, including practices like open defecation and unhygienic food handling, heighten the risk. B\u2026",
-      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/what-raises-the-risk-of-typhoid-among-children-living-in-crowded-areas/articleshow/114660592.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-114660573,width-1070,height-580,imgsize-499179,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-10-27 15:43:05",
-      "content": "Body pain in women linked to their belly fat!",
-      "retrievedAt": "2024-10-28 19:05:47.103487",
-      "internal_id": "2cadd958732713478a87dee105bd71389debae8d6710c64cd26c1bcb8483934a",
-      "publishedAtLabel": "Oct 27"
-    },
-    {
-      "id": 14998,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Nakedcapitalism.com",
-      "author": "Conor Gallagher",
-      "title": "Exclusive: Emails Reveal How Health Departments Struggle To Track Human Cases of Bird Flu",
-      "description": "Emails show how health officials struggle to track the bird flu, partly in deference to the agricultural industry. As a result, researchers don\u2019t know how often farmworkers are being infected \u2014 and could miss alarming signals.",
-      "url": "https://www.nakedcapitalism.com/2024/10/exclusive-emails-reveal-how-health-departments-struggle-to-track-human-cases-of-bird-flu.html",
-      "urlToImage": "https://www.nakedcapitalism.com/wp-content/uploads/2024/10/1-1024x672.png",
-      "publishedAt": "2024-10-27 09:00:23",
-      "content": "Conor here: Entirely unsurprising, especially if you read Lamberts Oct. 24 piece Biden Bets on Let Er Rip with a SECOND Pandemic-Grade Virus: H5N1 (Bird Flu). That dealt largely with cattle. The foll\u2026 [+11520 chars]",
-      "retrievedAt": "2024-10-28 19:05:45.295162",
-      "internal_id": "3ed6f65ff026efe8905684b1c8d64766c6085fdc240e1a19386781164ccf7f86",
       "publishedAtLabel": "Oct 27"
     }
   ]
