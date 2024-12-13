@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 11
-- **Last harvest:** 2024-12-13 07:07
-- **Most recent article:** 2024-12-12 06:39:56
+- **New articles in last harvest:** 28
+- **Last harvest:** 2024-12-13 19:05
+- **Most recent article:** 2024-12-12 18:06:49
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-44 | 24-45 | 24-46 | 24-47 | 24-48 | 24-49 | 24-50 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 75 | 63 | 62 | 76 | 26 | 20 | 20 | 342 |
-| h5n1 | 61 | 36 | 40 | 50 | 38 | 70 | 43 | 338 |
-| malaria | 16 | 26 | 33 | 27 | 29 | 27 | 56 | 214 |
-| dengue | 30 | 31 | 36 | 28 | 25 | 10 | 21 | 181 |
-| measles | 13 | 3 | 33 | 11 | 6 | 9 | 9 | 84 |
+| h5n1 | 60 | 36 | 40 | 50 | 38 | 70 | 52 | 346 |
+| mpox | 75 | 63 | 62 | 76 | 26 | 20 | 22 | 344 |
+| malaria | 15 | 26 | 33 | 27 | 29 | 27 | 62 | 219 |
+| dengue | 30 | 31 | 36 | 28 | 25 | 10 | 27 | 187 |
+| measles | 13 | 3 | 33 | 11 | 6 | 9 | 10 | 85 |
 | rabies | 10 | 5 | 11 | 7 | 12 | 13 | 2 | 60 |
-| chikungunya | 2 | 2 | 3 | 5 | 4 | 6 | 5 | 27 |
+| chikungunya | 2 | 2 | 3 | 5 | 4 | 6 | 6 | 28 |
 | zika | 3 | 9 | 4 | 3 | 1 | 4 | 3 | 27 |
-| hpai | 7 | 4 | 4 | 4 | 0 | 2 | 3 | 24 |
-| pertussis | 1 | 3 | 8 | 5 | 1 | 4 | 2 | 24 |
+| pertussis | 1 | 3 | 8 | 5 | 1 | 4 | 4 | 26 |
+| hpai | 7 | 4 | 4 | 4 | 0 | 2 | 4 | 25 |
+| meningitis | 3 | 5 | 2 | 5 | 3 | 3 | 1 | 22 |
 | leptospirosis | 3 | 10 | 3 | 0 | 2 | 0 | 3 | 21 |
-| meningitis | 3 | 5 | 2 | 5 | 3 | 3 | 0 | 21 |
-| typhoid | 4 | 1 | 1 | 3 | 1 | 0 | 1 | 11 |
+| typhoid | 3 | 1 | 1 | 3 | 1 | 0 | 1 | 10 |
 | yersinia | 3 | 0 | 0 | 1 | 1 | 0 | 0 | 5 |
 | shigellosis | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 1 |
 
@@ -53,11 +53,19 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-50 (pertussis)
 
+- [Disease known to hospitalize children is continuing to spread in Michigan](https://www.mlive.com/public-interest/2024/12/disease-known-to-hospitalize-children-is-continuing-to-spread-in-michigan.html) (mlive.com)
+
+- [Cazurile de tuse convulsivă sunt în creștere. Ce semne are boala și de ce este deosebit de periculoasă pentru copiii mici](http://hotnews.ro/cazurile-de-tuse-convulsiva-sunt-in-crestere-ce-semne-are-boala-si-de-ce-este-deosebit-de-periculoasa-pentru-copiii-mici-1859161) (Hotnews.ro)
+
 - [Public Health Ontario report: whooping cough cases highest in 17 years](https://www.cp24.com/news/2024/12/08/ontario-saw-the-highest-number-of-whooping-cough-cases-in-the-last-17-years-report/) (CP24 Toronto's Breaking News)
 
 - [Understanding whooping cough](https://www.bostonherald.com/2024/12/08/understanding-whooping-cough/) (Boston Herald)
 
 ## 24-50 (mpox)
+
+- [DR Congo reports nearly 54,000 suspected mpox cases this year](https://www.thestar.com.my/news/world/2024/12/13/dr-congo-reports-nearly-54000-suspected-mpox-cases-this-year) (The Star Online)
+
+- [How mpox virus spreads](https://flowingdata.com/2024/12/12/how-mpox-virus-spreads/) (Flowingdata.com)
 
 - [ВООЗ: Кількість випадків малярії зросла на 11 млн](https://ua.korrespondent.net/world/4739422-vooz-kilkist-vypadkiv-maliarii-zrosla-na-11-mln) (Korrespondent.net)
 
@@ -99,7 +107,13 @@ Source: [News API](https://newsapi.org/)
 
 - [Perth gay venue offering free mpox vaccinations as cases rise across Australia](https://www.abc.net.au/news/2024-12-09/perth-gay-sauna-to-offer-free-monkeypox-vaccines/104695122) (ABC News (AU))
 
+## 24-50 (meningitis)
+
+- [Guidance: Meningitis and septicaemia: leaflet for new university entrants](https://www.gov.uk/government/publications/meningitis-and-septicaemia-leaflet-for-new-university-entrants) (Www.gov.uk)
+
 ## 24-50 (measles)
+
+- [WA Health issues second measles alert in three days after a second, unrelated case confirmed in Perth](https://www.perthnow.com.au/news/health/wa-health-issues-second-measles-alert-in-three-days-after-a-second-unrelated-case-confirmed-in-perth-c-17063461) (PerthNow)
 
 - [The Bonus Protections of Routine Vaccines](https://www.webmd.com/vaccines/news/20241211/bonus-protections-routine-vaccines) (WebMD)
 
@@ -120,6 +134,18 @@ Source: [News API](https://newsapi.org/)
 - [Mysterious New Disease X Is Officially Here, Potentially Airborne](https://www.newsbreak.com/share/3706705509412-mysterious-new-disease-x-is-officially-here-potentially-airborne?_f=app_share&amp;pd=0EuIdPvZ&amp;lang=en_US&amp;send_time=1733680315&amp;trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2224.48.0.25%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_local_strategy_24q4_exp-v11%2Cns_push_exp_rt_bucketv12-control%2Cns_foryou_rank_exp_24q4-v4%2Cns_foryou_blend_exp_24q4-v6%2Cns_foryou_model_exp_24q4-v8%2Cns_foryou_recall_exp_24q4-v7&amp;s=i2) (Newsbreak.com)
 
 ## 24-50 (malaria)
+
+- [Nog altijd geen duidelijkheid over ‘Ziekte X’ in Congo: meer stalen nodig](https://www.gva.be/cnt/dmf20241212_95819252) (Www.gva.be)
+
+- [Nog altijd geen duidelijkheid over ‘Ziekte X’ in Congo: meer stalen nodig](https://www.nieuwsblad.be/cnt/dmf20241212_95771189) (Nieuwsblad.be)
+
+- [Proben mit schlechter Qualität: Weiter keine Gewissheit zu "Krankheit X" - neue Proben nötig](https://www.zeit.de/news/2024-12/12/weiter-keine-gewissheit-zu-krankheit-x-neue-proben-noetig) (Die Zeit)
+
+- [DAILY CURRENT AFFAIRS IAS | UPSC Prelims and Mains Exam – 12th December 2024](https://iasbaba.com/2024/12/daily-current-affairs-ias-upsc-prelims-and-mains-exam-12th-december-2024/) (Iasbaba.com)
+
+- [Hardest-hit Nigeria is latest African country to provide malaria vaccine to young children](https://abcnews.go.com/Health/wireStory/hardest-hit-nigeria-latest-african-country-provide-malaria-116712646) (ABC News)
+
+- [Hardest-hit Nigeria is latest African country to provide malaria vaccine to young children](https://abcnews.go.com/International/wireStory/hardest-hit-nigeria-latest-african-country-provide-malaria-116712645) (ABC News)
 
 - [New study rates vaccine in malaria treatment](https://punchng.com/new-study-rates-vaccine-in-malaria-treatment/) (The Punch)
 
@@ -243,6 +269,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-50 (hpai)
 
+- [A Single Mutation Could Cause Bird Flu To Become Transmissible Between Humans](https://www.shtfplan.com/headline-news/a-single-mutation-could-cause-bird-flu-to-become-transmissible-between-humans) (Shtfplan.com)
+
 - [Statutory guidance: Bird flu: general licence for the movement of poultry carcases for disposal from premises in a protection zone in England (EXD339(HPAI)(E))](https://www.gov.uk/government/publications/bird-flu-general-licence-for-the-movement-of-poultry-carcases-for-disposal-from-premises-in-a-protection-zone-in-england-exd339hpaie) (Www.gov.uk)
 
 - [Replication Restriction of Influenza A(H5N1) Clade 2.3.4.4b Viruses by Human Immune Factor, 2023–2024](https://wwwnc.cdc.gov/eid/article/31/1/24-1236_article) (Cdc.gov)
@@ -250,6 +278,24 @@ Source: [News API](https://newsapi.org/)
 - [USDA Orders Testing of Raw and Unpasteurized Milk for Presence of Bird Flu Virus](https://legalinsurrection.com/2024/12/usda-orders-testing-of-raw-and-unpasteurized-milk-for-presence-of-bird-flu-virus/) (Legalinsurrection.com)
 
 ## 24-50 (h5n1)
+
+- [Los caballos se pueden contagiar del virus H5N1 de la gripe aviar, pero la infección pasa desapercibida](https://www.infosalus.com/salud-investigacion/noticia-caballos-pueden-contagiar-virus-h5n1-gripe-aviar-infeccion-pasa-desapercibida-20241212190649.html) (Infosalus.com)
+
+- [La gripe aviar podría infectar a humanos con solo una pequeña mutación, según un reciente hallazgo](https://www.lavanguardia.com/andro4all/ciencia/la-gripe-aviar-podria-infectar-a-humanos-con-solo-una-pequena-mutacion-segun-un-reciente-hallazgo) (La Vanguardia)
+
+- [Aggódva figyelnek a tudósok: házi macskákban mutálódhat a halálos vírus](https://www.portfolio.hu/global/20241212/aggodva-figyelnek-a-tudosok-hazi-macskakban-mutalodhat-a-halalos-virus-729497) (Portfolio.hu)
+
+- [Grippe aviaire : nous ne sommes plus qu’à une mutation d’une transmission entre les humains, le pire scénario !](https://www.futura-sciences.com/sante/actualites/grippe-aviaire-grippe-aviaire-nous-ne-sommes-plus-qua-mutation-transmission-humains-pire-scenario-118205/) (Futura)
+
+- [On frôle la catastrophe : la grippe aviaire n’est plus qu’à une mutation de déclencher une pandémie humaine !](https://www.futura-sciences.com/sante/actualites/grippe-aviaire-on-frole-catastrophe-grippe-aviaire-nest-plus-qua-mutation-declencher-pandemie-humaine-118205/) (Futura)
+
+- [В Роспотребнадзоре назвали риск перехода гриппа птиц на людей высоким](https://vfokuse.mail.ru/article/v-rospotrebnadzore-nazvali-risk-perehoda-grippa-ptic-na-lyudey-vysokim-64041781/) (Mail.ru)
+
+- [Эксперт Кутырев: существует порядка 10 тыс. неизученных вирусов животных](https://news.mail.ru/society/64041613/) (Mail.ru)
+
+- [Gripe aviária: uma única mutação pode facilitar infecção em humanos](https://olhardigital.com.br/2024/12/12/medicina-e-saude/gripe-aviaria-uma-unica-mutacao-pode-facilitar-infeccao-em-humanos/) (Olhardigital.com.br)
+
+- [Глава Роспотребнадзора заявила о высоком риске перехода птичьего гриппа на людей](https://life.ru/p/1711285) (Life.ru)
 
 - [Möwe mit Vogelgrippe am Bodensee entdeckt](https://vorarlberg.orf.at/stories/3284958/) (Vorarlberg.orf.at)
 
@@ -339,6 +385,18 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-50 (dengue)
 
+- [Epidemiology of Dengue - Puerto Rico, 2010-2024](https://www.cdc.gov/mmwr/volumes/73/wr/mm7349a1.htm) (Cdc.gov)
+
+- [Cost of dengue in Colombia: A systematic review](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012718) (Plos.org)
+
+- [Geographically weighted regression analysis for nonnegative continuous outcomes: An application to Taiwan dengue data](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0315327) (Plos.org)
+
+- [La Réunion va tester l’introduction de moustiques stériles pour limiter la dengue et le chikungunya](https://www.ouest-france.fr/region-la-reunion/la-reunion-va-tester-lintroduction-de-moustiques-steriles-pour-limiter-la-dengue-et-le-chikungunya-3e41b384-b86c-11ef-ae82-b812024140bb) (Ouest-France)
+
+- [Il bilancio della dengue](https://www.internazionale.it/magazine/2024/12/12/il-bilancio-della-dengue) (Internazionale.it)
+
+- [Los expertos avisan de que la próxima pandemia será por gripe e instan a aprobar la especialidad de enfermedades infecciosas](https://www.meneame.net/m/actualidad/expertos-avisan-proxima-pandemia-sera-gripe-instan-aprobar) (Meneame.net)
+
 - [Dia D contra dengue promove ações de conscientização no próximo sábado (14)](https://ultimosegundo.ig.com.br/parceiros/gps-brasilia/2024-12-11/dia-d-contra-dengue-promove-acoes-de-conscientizacao-no-proximo-sabado-14.html) (Ig.com.br)
 
 - [América enfrenta peor epidemia de dengue en más de 40 años](https://www.nacion.com/el-mundo/america-enfrenta-peor-epidemia-de-dengue-en-mas-de/672Q2FBIGVFW3HDKCKRDZ3JA4Q/story/) (Nacion.com)
@@ -382,6 +440,8 @@ Source: [News API](https://newsapi.org/)
 - [Cientistas alertam para riscos de dengue, chikungunya e a Zika em Portugal](https://observador.pt/2024/12/09/cientistas-alertam-para-riscos-de-dengue-chikungunya-e-a-zika-em-portugal/) (Observador.pt)
 
 ## 24-50 (chikungunya)
+
+- [La Réunion va tester l’introduction de moustiques stériles pour limiter la dengue et le chikungunya](https://www.ouest-france.fr/region-la-reunion/la-reunion-va-tester-lintroduction-de-moustiques-steriles-pour-limiter-la-dengue-et-le-chikungunya-3e41b384-b86c-11ef-ae82-b812024140bb) (Ouest-France)
 
 - [‘Chicharito’ con influenza y ‘Chiquete’ con chikungunya](https://www.excelsior.com.mx/adrenalina/chicharito-con-influenza-y-chiquete-con-chikungunya/1689153) (Excelsior.com.mx)
 
@@ -2507,8 +2567,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Time to Get Typhoid! Classic Oregon Trail Video Game to Get Movie Treatment](https://reactormag.com/time-to-get-typhoid-classic-oregon-trail-video-game-to-get-movie-treatment/) (Reactormag.com)
 
-- [What raises the risk of Typhoid among children living in crowded areas](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/what-raises-the-risk-of-typhoid-among-children-living-in-crowded-areas/articleshow/114660592.cms) (The Times of India)
-
 ## 24-44 (rabies)
 
 - [Instagram famous squirrel named Peanut euthanised by New York authorities](https://www.abc.net.au/news/2024-11-02/peanut-the-internet-famous-squirrel-euthanised-authorities/104552922) (ABC News (AU))
@@ -2755,8 +2813,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Ogun, SFH deploy 1,180 town announcers for mosquito nets distribution](https://punchng.com/ogun-sfh-deploy-1180-town-announcers-for-mosquito-nets-distribution/) (The Punch)
 
-- [Experts caution FG on malaria vaccine mass rollout](https://punchng.com/experts-caution-fg-on-malaria-vaccine-mass-rollout/) (The Punch)
-
 ## 24-44 (leptospirosis)
 
 - [Martín-Moreno, catedrático de la UV: "A las 72 horas de la inundación se agravan los riesgos de infección, hay que poner medidas ya"](https://www.meneame.net/m/actualidad/martin-moreno-catedratico-uv-72-horas-inundacion-agravan-riesgos) (Meneame.net)
@@ -2902,8 +2958,6 @@ Source: [News API](https://newsapi.org/)
 - [H5N1 virus isolated from infected dairy worker is 100% lethal in ferrets, but does not appear to be circulating in nature anymore](https://www.sciencedaily.com/releases/2024/10/241028131451.htm) (Science Daily)
 
 - [Flu season will complicate tracking spread of H5N1 avian influenza](https://www.statnews.com/2024/10/28/flu-season-presents-challenges-in-tracking-h5n1-avian-influenza-outbreak/) (STAT)
-
-- [Exclusive: Emails Reveal How Health Departments Struggle To Track Human Cases of Bird Flu](https://www.nakedcapitalism.com/2024/10/exclusive-emails-reveal-how-health-departments-struggle-to-track-human-cases-of-bird-flu.html) (Nakedcapitalism.com)
 
 ## 24-44 (dengue)
 

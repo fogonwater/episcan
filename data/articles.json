@@ -1,8 +1,513 @@
 {
-  "last_updated": "2024-12-13 07:07",
-  "count_articles_total": 1330,
-  "count_articles_new": 11,
+  "last_updated": "2024-12-13 19:05",
+  "count_articles_total": 1355,
+  "count_articles_new": 28,
   "articles": [
+    {
+      "id": 16340,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "Los caballos se pueden contagiar del virus H5N1 de la gripe aviar, pero la infecci\u00f3n pasa desapercibida",
+      "description": "Un nuevo estudio de la Universidad de Glasgow (Reino Unido), publicado en la revista 'Emerging Infectious Diseases', ha demostrado que los caballos pueden infectarse del virus H5N1 de la gripe aviar, sin embargo los autores aseguran que el virus pasa desaperc\u2026",
+      "url": "https://www.infosalus.com/salud-investigacion/noticia-caballos-pueden-contagiar-virus-h5n1-gripe-aviar-infeccion-pasa-desapercibida-20241212190649.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20241212190649_1200.jpg",
+      "publishedAt": "2024-12-12 18:06:49",
+      "content": "MADRID 12 Dic. (EUROPA PRESS) - Un nuevo estudio de la Universidad de Glasgow (Reino Unido), publicado en la revista 'Emerging Infectious Diseases', ha demostrado que los caballos pueden infectars\u2026 [+3634 chars]",
+      "retrievedAt": "2024-12-13 19:05:41.261418",
+      "internal_id": "766e1c2a51bf043eeedde82003ebc9dd0537e8825a1b6f50702294af19a6a610",
+      "publishedAtLabel": "Dec 12"
+    },
+    {
+      "id": 16342,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": "CDC",
+      "title": "Epidemiology of Dengue - Puerto Rico, 2010-2024",
+      "description": "This report describes changing trends among patients with dengue in Puerto Rico.",
+      "url": "https://www.cdc.gov/mmwr/volumes/73/wr/mm7349a1.htm",
+      "urlToImage": "https://www.cdc.gov/mmwr/volumes/73/wr/social-media/mm7349a1_DenguePR_IMAGE_12Dec2024_1200x675.png?_=30272",
+      "publishedAt": "2024-12-12 18:00:00",
+      "content": "Dengue Case Characteristics A total of 39,094 dengue cases were reported to PRDH during 2010\u20132024, including 30,517 (78.1%) during 2010\u20132019; 2,695 (6.9%) during 2020\u20132022; and 5,882 (15.0%) during \u2026 [+3967 chars]",
+      "retrievedAt": "2024-12-13 19:05:41.765093",
+      "internal_id": "bbb2166fc2cf8b0349b35832c4300be62dcedb6adaf97e895b2f77f5fd265b0a",
+      "publishedAtLabel": "Dec 12"
+    },
+    {
+      "id": 16355,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Shi Yu",
+      "title": "DR Congo reports nearly 54,000 suspected mpox cases this year",
+      "description": "KINSHASA, Dec. 12 (Xinhua) -- The Democratic Republic of the Congo (DRC) has reported 53,860 suspected cases of mpox, including 1,225 deaths, since the beginning of this year, the Ministry of Public Health announced Thursday. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2024/12/13/dr-congo-reports-nearly-54000-suspected-mpox-cases-this-year",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2024-12-12 17:50:00",
+      "content": "KINSHASA, Dec. 12 (Xinhua) -- The Democratic Republic of the Congo (DRC) has reported 53,860 suspected cases of mpox, including 1,225 deaths, since the beginning of this year, the Ministry of Public \u2026 [+1332 chars]",
+      "retrievedAt": "2024-12-13 19:05:43.775483",
+      "internal_id": "d2fcf77d886c48d9a25b0a7070dcd477003966e36c6ab2e186da40ed36529a42",
+      "publishedAtLabel": "Dec 12"
+    },
+    {
+      "id": 16329,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "mlive.com",
+      "author": "Justin P. Hicks | Jhicks3@mlive.com",
+      "title": "Disease known to hospitalize children is continuing to spread in Michigan",
+      "description": "Michigan has seen its total reported infections in 2024 more than double the annual average from 2017-2019.",
+      "url": "https://www.mlive.com/public-interest/2024/12/disease-known-to-hospitalize-children-is-continuing-to-spread-in-michigan.html",
+      "urlToImage": "https://www.mlive.com/resizer/v2/6XEGUYNRXFFTZN6DKUNQDTZFDQ.jpg?auth=28f904cb4e538819d349ba762a75185b13d1a5bebfb71d20c8259584ea6bb081&width=1280&quality=90",
+      "publishedAt": "2024-12-12 17:25:47",
+      "content": "More than half of infants who contract pertussis require hospitalization. Once their condition has deteriorated enough to require medical care, there isnt much physicians can do to treat them or sp\u2026 [+3326 chars]",
+      "retrievedAt": "2024-12-13 19:05:39.543722",
+      "internal_id": "ccd1106570d6372d91356a41aded46ff9ff89f5138ab2af6f82472d812bc8106",
+      "publishedAtLabel": "Dec 12"
+    },
+    {
+      "id": 16353,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Www.gva.be",
+      "author": "mvdb",
+      "title": "Nog altijd geen duidelijkheid over \u2018Ziekte X\u2019 in Congo: meer stalen nodig",
+      "description": "Of er in het zuidwesten van Congo daadwerkelijk een \u2018Ziekte X\u2019 rondgaat of dat vele burgers ziek zijn door bekende ziektes als malaria blijft voorlopig onduidelijk. Het Afrikaanse gezondheidsagentschap Afrika CDC zegt dat de stalen uit het getroffen gebied in\u2026",
+      "url": "https://www.gva.be/cnt/dmf20241212_95819252",
+      "urlToImage": "https://static.gva.be/Assets/Images_Upload/2024/12/12/52d97de4-371b-4c4c-aaf2-e4c0494940bf.jpg?maxheight=460&maxwidth=629",
+      "publishedAt": "2024-12-12 16:07:57",
+      "content": "Of er in het zuidwesten van Congo daadwerkelijk een Ziekte X rondgaat of dat vele burgers ziek zijn door bekende ziektes als malaria blijft voorlopig onduidelijk. Het Afrikaanse gezondheidsagentschap\u2026 [+1651 chars]",
+      "retrievedAt": "2024-12-13 19:05:42.800603",
+      "internal_id": "7a1209491184c4e0c89ddd3061d4b98cac9cc58fb31ca6bbd66a5adf40d6b4f3",
+      "publishedAtLabel": "Dec 12"
+    },
+    {
+      "id": 16352,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Nieuwsblad.be",
+      "author": "mvdb",
+      "title": "Nog altijd geen duidelijkheid over \u2018Ziekte X\u2019 in Congo: meer stalen nodig",
+      "description": "Of er in het zuidwesten van Congo daadwerkelijk een \u2018Ziekte X\u2019 rondgaat of dat vele burgers ziek zijn door bekende ziektes als malaria blijft voorlopig onduidelijk. Het Afrikaanse gezondheidsagentschap Afrika CDC zegt dat de stalen uit het getroffen gebied in\u2026",
+      "url": "https://www.nieuwsblad.be/cnt/dmf20241212_95771189",
+      "urlToImage": "https://static.nieuwsblad.be/Assets/Images_Upload/2024/12/12/52d97de4-371b-4c4c-aaf2-e4c0494940bf.jpg?maxheight=460&maxwidth=638",
+      "publishedAt": "2024-12-12 16:01:10",
+      "content": "Of er in het zuidwesten van Congo daadwerkelijk een Ziekte X rondgaat of dat vele burgers ziek zijn door bekende ziektes als malaria blijft voorlopig onduidelijk. Het Afrikaanse gezondheidsagentschap\u2026 [+1766 chars]",
+      "retrievedAt": "2024-12-13 19:05:42.781888",
+      "internal_id": "d11b0c81f286780df81eeeab67be73f095c1f7411abf988815d21a8908157ae4",
+      "publishedAtLabel": "Dec 12"
+    },
+    {
+      "id": 16331,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Shtfplan.com",
+      "author": "Mac Slavo",
+      "title": "A Single Mutation Could Cause Bird Flu To Become Transmissible Between Humans",
+      "description": "The health authorities have discovered that one single mutation of the HPAI (highly pathogenic avian influenza) virus could cause it to become transmissible between human beings. If the medical industry thinks they can profit heavily off this mutation, we can\u2026",
+      "url": "https://www.shtfplan.com/headline-news/a-single-mutation-could-cause-bird-flu-to-become-transmissible-between-humans",
+      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2024/12/birdflu1.jpg",
+      "publishedAt": "2024-12-12 16:00:46",
+      "content": "Commenting Policy: Some comments on this web site are automatically moderated through our Spam protection systems. Please be patient if your comment isn\u2019t immediately available. We\u2019re not trying to \u2026 [+423 chars]",
+      "retrievedAt": "2024-12-13 19:05:40.573999",
+      "internal_id": "2f0b67554633ef573091958635689421f872cdc62427cac8d46fee993f691d8d",
+      "publishedAtLabel": "Dec 12"
+    },
+    {
+      "id": 16333,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "La Vanguardia",
+      "author": "Sergio Agudo",
+      "title": "La gripe aviar podr\u00eda infectar a humanos con solo una peque\u00f1a mutaci\u00f3n, seg\u00fan un reciente hallazgo",
+      "description": "Un nuevo estudio del Instituto Scripps en California ha encendido las alarmas en la comunidad cient\u00edfica al revelar c\u00f3mo unas simples modificaciones gen\u00e9ticas podr\u00edan hacer que el virus H5N1 de la gripe aviar sea m\u00e1s transmisible entre humanos. La investigaci\u2026",
+      "url": "https://www.lavanguardia.com/andro4all/ciencia/la-gripe-aviar-podria-infectar-a-humanos-con-solo-una-pequena-mutacion-segun-un-reciente-hallazgo",
+      "urlToImage": "https://www.lavanguardia.com/andro4all/hero/2024/09/el-tibet-escondia-virus-congelados-hace-41-000-anos-que-pueden-ser-clave-para-el-desarrollo-cientifico.jpg?width=1200",
+      "publishedAt": "2024-12-12 15:01:43",
+      "content": "El virus de la gripe aviar ahora podr\u00eda transmitirse m\u00e1s f\u00e1cilmente a los mam\u00edferos Un nuevo estudio del Instituto Scripps en California ha encendido las alarmas en la comunidad cient\u00edfica al revela\u2026 [+2490 chars]",
+      "retrievedAt": "2024-12-13 19:05:41.083475",
+      "internal_id": "3245f0e100fb05f443d33044077564051e118ff1d541ff710f6cb08ae0500496",
+      "publishedAtLabel": "Dec 12"
+    },
+    {
+      "id": 16336,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Portfolio.hu",
+      "author": "Portfolio.hu",
+      "title": "Agg\u00f3dva figyelnek a tud\u00f3sok: h\u00e1zi macsk\u00e1kban mut\u00e1l\u00f3dhat a hal\u00e1los v\u00edrus",
+      "description": "Egy friss tanulm\u00e1ny szerint a h\u00e1zi macsk\u00e1kban ak\u00e1r az emberekre vesz\u00e9lyes v\u00e1ltozatai is kialakulhatnak a mad\u00e1rinfluenza (H5N1) v\u00edrusnak. B\u00e1r a H5N1 az eddigi ismereteink szerint nem k\u00e9pes emberr\u0151l emberre terjedni, a kutat\u00f3k agg\u00f3dnak, hogy a macsk\u00e1kban potenc\u2026",
+      "url": "https://www.portfolio.hu/global/20241212/aggodva-figyelnek-a-tudosok-hazi-macskakban-mutalodhat-a-halalos-virus-729497",
+      "urlToImage": "https://pcdn.hu/articles/images-xl/a/l/l/allat-allattartas-borond-haziallat-kisallat-kutya-macska-otthon-szallitas-utazas-721525.jpg",
+      "publishedAt": "2024-12-12 14:52:00",
+      "content": "\u00c9szak-Amerik\u00e1ban m\u00e1r legal\u00e1bb 60 embert fertz\u00f6tt meg a kontinensen id\u00e9n probl\u00e9m\u00e1kat okoz\u00f3 mad\u00e1rinfluenza v\u00edrussal. Az eredetileg fleg a sz\u00e1rnyas-\u00e1llom\u00e1nyokat vesz\u00e9lyeztet v\u00edrus id\u00e9n tavasszal kezdett\u2026 [+2071 chars]",
+      "retrievedAt": "2024-12-13 19:05:41.153383",
+      "internal_id": "f2efd92253d3f47b044322831dbe4acc6c19524ed8b0b4b5e9c067366253c49c",
+      "publishedAtLabel": "Dec 12"
+    },
+    {
+      "id": 16348,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "ZEIT ONLINE: News -",
+      "title": "Proben mit schlechter Qualit\u00e4t: Weiter keine Gewissheit zu \"Krankheit X\" - neue Proben n\u00f6tig",
+      "description": "Hier finden Sie Informationen zu dem Thema \u201eProben mit schlechter Qualit\u00e4t\u201c. Lesen Sie jetzt \u201eWeiter keine Gewissheit zu \"Krankheit X\" - neue Proben n\u00f6tig\u201c.",
+      "url": "https://www.zeit.de/news/2024-12/12/weiter-keine-gewissheit-zu-krankheit-x-neue-proben-noetig",
+      "urlToImage": "https://img.zeit.de/news/2024-12/12/weiter-keine-gewissheit-zu-krankheit-x-neue-proben-noetig-image-group/wide__1300x731",
+      "publishedAt": "2024-12-12 14:29:08",
+      "content": "Ob im S\u00fcdwesten der Demokratischen Republik Kongo wirklich eine \u00abKrankheit X\u00bb kursiert oder dort zahlreiche Menschen wegen bekannter Erreger wie Malaria krank sind, bleibt vorerst weiter unklar. Die \u2026 [+2012 chars]",
+      "retrievedAt": "2024-12-13 19:05:42.577107",
+      "internal_id": "298529300ee0bdbc7f9a87fff8684f1b177c1221b8722f6cbbbe539bd54de8fc",
+      "publishedAtLabel": "Dec 12"
+    },
+    {
+      "id": 16344,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Alfonso J. Rodr\u00edguez-Morales, Eduardo L\u00f3pez-Medina, Iv\u00e1n Arboleda, Jaime A. Cardona-Ospina, Jaime Castellanos, \u00c1lvaro A. Faccini-Mart\u00ednez, Elaine Gallagher, Riona Hanley, Pio L\u00f3pez, Salim Mattar, Carlos Eduardo P\u00e9rez, Randee Kastner, Humberto Reynales, Fernando Rosso, Jing Shen, Wilmer E. Villamil-G\u00f3mez, Marcela Fuquen",
+      "title": "Cost of dengue in Colombia: A systematic review",
+      "description": "Author summary Dengue fever is a significant public health concern globally. Colombia, like many other tropical and subtropical countries, faces the challenge of managing and mitigating the burden of dengue. We developed a systematic review of the costs of de\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012718",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012718.g001&size=inline",
+      "publishedAt": "2024-12-12 14:00:00",
+      "content": "Abstract Background Dengue is hyperendemic in Colombia. It imposes a substantial economic burden on patients, caregivers, society, and the national health system. We intend to identify and synthesi\u2026 [+36503 chars]",
+      "retrievedAt": "2024-12-13 19:05:41.827932",
+      "internal_id": "3e3d3cb332c604c97b5b6542dfb18460962ededcbee79802241cc57977eb17ed",
+      "publishedAtLabel": "Dec 12"
+    },
+    {
+      "id": 16346,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Vivian Yi-Ju Chen, Yun-Ciao Yang",
+      "title": "Geographically weighted regression analysis for nonnegative continuous outcomes: An application to Taiwan dengue data",
+      "description": "Geographically Weighted Regression (GWR) has gained widespread popularity across various disciplines for investigating spatial heterogeneity with respect to data relationships in georeferenced datasets. However, GWR is typically limited to the analysis of con\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0315327",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0315327.g009&size=inline",
+      "publishedAt": "2024-12-12 14:00:00",
+      "content": "Abstract Geographically Weighted Regression (GWR) has gained widespread popularity across various disciplines for investigating spatial heterogeneity with respect to data relationships in georeferen\u2026 [+56173 chars]",
+      "retrievedAt": "2024-12-13 19:05:41.868255",
+      "internal_id": "88e87b3ed2a1815202930115e7e107376bac95d37053f82a1f1002d222c36abe",
+      "publishedAtLabel": "Dec 12"
+    },
+    {
+      "id": 16334,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Futura",
+      "author": "Nathalie Mayer, Journaliste",
+      "title": "Grippe aviaire : nous ne sommes plus qu\u2019\u00e0 une mutation d\u2019une transmission entre les humains, le pire sc\u00e9nario !",
+      "description": "La grippe aviaire H5N1 circule dans le monde depuis plusieurs ann\u00e9es et elle a finalement infect\u00e9 des mammif\u00e8res. Et m\u00eame des humains. Le virus ne serait d\u00e9sormais plus qu\u2019\u00e0 une mutation de se transmettre d\u2019humain \u00e0 humain. Allons-nous vers une pand\u00e9mie ?",
+      "url": "https://www.futura-sciences.com/sante/actualites/grippe-aviaire-grippe-aviaire-nous-ne-sommes-plus-qua-mutation-transmission-humains-pire-scenario-118205/",
+      "urlToImage": "https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/c/9/3/c93ef79f6e_50224572_grippe-aviaire-vaches.jpg",
+      "publishedAt": "2024-12-12 12:58:34",
+      "content": "Les oiseaux - domestiques et sauvages -, les phoques, les porcs, les vachesvaches, les chats... et les humains ont quelque chose d'ennuyeux en commun depuis quelques mois. Ils sont infect\u00e9s par un vi\u2026 [+4330 chars]",
+      "retrievedAt": "2024-12-13 19:05:41.090487",
+      "internal_id": "5e7ea5097c8afa083cf9e6bce86492f750ed42398b7aebef76b8bd0a9c7eab6a",
+      "publishedAtLabel": "Dec 12"
+    },
+    {
+      "id": 16339,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Futura",
+      "author": "Nathalie Mayer, Journaliste",
+      "title": "On fr\u00f4le la catastrophe : la grippe aviaire n\u2019est plus qu\u2019\u00e0 une mutation de d\u00e9clencher une pand\u00e9mie humaine !",
+      "description": "La grippe aviaire H5N1 circule dans le monde depuis plusieurs ann\u00e9es maintenant. Elle a finalement infect\u00e9 des mammif\u00e8res. Et m\u00eame des humains. Le virus ne serait d\u00e9sormais plus qu\u2019\u00e0 une mutation de se transmettre d\u2019humain \u00e0 humain. Allons-nous vers une pand\u00e9\u2026",
+      "url": "https://www.futura-sciences.com/sante/actualites/grippe-aviaire-on-frole-catastrophe-grippe-aviaire-nest-plus-qua-mutation-declencher-pandemie-humaine-118205/",
+      "urlToImage": "https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/c/9/3/c93ef79f6e_50224572_grippe-aviaire-vaches.jpg",
+      "publishedAt": "2024-12-12 12:58:34",
+      "content": "Les oiseaux - domestiques et sauvages -, les phoques, les porcs, les vachesvaches, les chats... et les humains ont quelque chose d'ennuyeux en commun depuis quelques mois. Ils sont infect\u00e9s par un vi\u2026 [+4330 chars]",
+      "retrievedAt": "2024-12-13 19:05:41.237939",
+      "internal_id": "3f1dc3e66d5f0f864e46bfdf62c4121174fe1aca01d2f4e966a1029988f15d57",
+      "publishedAtLabel": "Dec 12"
+    },
+    {
+      "id": 16328,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Hotnews.ro",
+      "author": "Alina Neagu",
+      "title": "Cazurile de tuse convulsiv\u0103 sunt \u00een cre\u0219tere. Ce semne are boala \u0219i de ce este deosebit de periculoas\u0103 pentru copiii mici",
+      "description": "Tusea convulsiv\u0103 sau \u201etusea m\u0103g\u0103reasc\u0103\u201d este o boal\u0103 acut\u0103 infec\u021bioas\u0103, foarte contagioas\u0103, produs\u0103 de bacteria Bordetella pertussis. Afec\u021biunea este deosebit de periculoas\u0103 pentru sugari \u0219i copii mici, deoarece poate determina complica\u021bii grave (pneumonie, l\u2026",
+      "url": "http://hotnews.ro/cazurile-de-tuse-convulsiva-sunt-in-crestere-ce-semne-are-boala-si-de-ce-este-deosebit-de-periculoasa-pentru-copiii-mici-1859161",
+      "urlToImage": "https://hotnews.ro/wp-content/uploads/2024/12/Tuse-convulsiva.jpg",
+      "publishedAt": "2024-12-12 12:54:15",
+      "content": "Tusea convulsiv sau tusea mgreasc este o boal acut infecioas, foarte contagioas, produs de bacteria Bordetella pertussis. Afeciunea este deosebit de periculoas pentru sugari i copii mici, deoarece po\u2026 [+4676 chars]",
+      "retrievedAt": "2024-12-13 19:05:39.514907",
+      "internal_id": "32b192205b0c632222bde65dd21bb3e20432de0475521e5b9e814ebaab569d50",
+      "publishedAtLabel": "Dec 12"
+    },
+    {
+      "id": 16343,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Ouest-France",
+      "author": "\u00c0 La R\u00e9union, J\u00e9romine DOUX.",
+      "title": "La R\u00e9union va tester l\u2019introduction de moustiques st\u00e9riles pour limiter la dengue et le chikungunya",
+      "description": "\u00c0 partir du mois d\u2019avril, plus de 10 millions de moustiques tigres st\u00e9riles seront l\u00e2ch\u00e9s dans le sud de l\u2019\u00eele. L\u2019objectif : diminuer consid\u00e9rablement leur population afin de limiter la propagation de la dengue mais \u00e9galement du chikungunya.",
+      "url": "https://www.ouest-france.fr/region-la-reunion/la-reunion-va-tester-lintroduction-de-moustiques-steriles-pour-limiter-la-dengue-et-le-chikungunya-3e41b384-b86c-11ef-ae82-b812024140bb",
+      "urlToImage": "https://media.ouest-france.fr/v1/pictures/MjAyNDEyZWNjMWJhMzI5MjgyZmU4ZDdjYjI4MjU0MmY1NDdhMzI?width=1260&height=708&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=076bc5c956c2a6a187e91891978af6e622e34c184bc5431593b899456dd09e9a",
+      "publishedAt": "2024-12-12 11:38:18",
+      "content": "Dans quelques mois, sur l\u00eele de La R\u00e9union J\u00e9r\u00e9my Bouyer placera de jeunes moustiques tigres dans des cages d\u00e9mergence pour les entreposer dans des irradiateurs, les rendant quasiment tous st\u00e9riles. \u2026 [+680 chars]",
+      "retrievedAt": "2024-12-13 19:05:41.782884",
+      "internal_id": "548f1c6c140c07143301a667773e132aceb3b5fda8b4371038c58015b4cce892",
+      "publishedAtLabel": "Dec 12"
+    },
+    {
+      "id": 16341,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Internazionale.it",
+      "author": "Internazionale",
+      "title": "Il bilancio della dengue",
+      "description": "Il 10 dicembre l\u2019Organizzazione panamericana della sanit\u00e0 ha reso noto che nelle Americhe nel 2024 sono morte 7.700 persone per la dengue, con 12,6 milioni di casi registrati\u2026. Leggi",
+      "url": "https://www.internazionale.it/magazine/2024/12/12/il-bilancio-della-dengue",
+      "urlToImage": "https://static.internazionale.it/assets/img/internazionale-icon.png",
+      "publishedAt": "2024-12-12 11:26:21",
+      "content": "Il 10 dicembre lOrganizzazione panamericana della sanit\u00e0 ha reso noto che nelle Americhe nel 2024 sono morte 7.700 persone per la dengue, con 12,6 milioni di casi registrati. \u00c8 il dato pi\u00f9 grave dal \u2026 [+287 chars]",
+      "retrievedAt": "2024-12-13 19:05:41.735829",
+      "internal_id": "fbf0f5e02f4c373651dc494b2a396e889f541195371511f5d1ac34bfad490115",
+      "publishedAtLabel": "Dec 12"
+    },
+    {
+      "id": 16350,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Iasbaba.com",
+      "author": "IASbaba",
+      "title": "DAILY CURRENT AFFAIRS IAS | UPSC Prelims and Mains Exam \u2013 12th December 2024",
+      "description": "Archives (PRELIMS & MAINS Focus) Practice MCQs ANSWERS FOR 11th December \u2013 Daily Practice MCQs The post DAILY CURRENT AFFAIRS IAS | UPSC Prelims and Mains Exam \u2013 12th December 2024 appeared first on IASbaba.",
+      "url": "https://iasbaba.com/2024/12/daily-current-affairs-ias-upsc-prelims-and-mains-exam-12th-december-2024/",
+      "urlToImage": "https://iasbaba.com/wp-content/uploads/2024/12/malaria-300x168.png",
+      "publishedAt": "2024-12-12 10:39:22",
+      "content": "Q1.) Consider the following statements regarding malaria: Malaria is caused by viruses transmitted through the bites of female Anopheles mosquitoes.People with malaria can spread th\u2026 [+1451 chars]",
+      "retrievedAt": "2024-12-13 19:05:42.704156",
+      "internal_id": "4bce4b72eb0bdc6d53252d88f06e969a0d932beefe002a002b7e86491959a4c0",
+      "publishedAtLabel": "Dec 12"
+    },
+    {
+      "id": 16347,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": "Public Health England",
+      "title": "Guidance: Meningitis and septicaemia: leaflet for new university entrants",
+      "description": "Provides information on the MenACWY vaccine for students entering university this autumn.",
+      "url": "https://www.gov.uk/government/publications/meningitis-and-septicaemia-leaflet-for-new-university-entrants",
+      "urlToImage": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png",
+      "publishedAt": "2024-12-12 10:23:28",
+      "content": "A catchup programme offering MenACWY vaccination to all 13 to 19 year olds and new university entrants started in August 2015, in response to a rapid and accelerating increase in cases of invasive me\u2026 [+198 chars]",
+      "retrievedAt": "2024-12-13 19:05:42.066550",
+      "internal_id": "13417ce383880ac08ea2c0da670834c6811d771a29131a17e4cb128a89e682f5",
+      "publishedAtLabel": "Dec 12"
+    },
+    {
+      "id": 16337,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Mail.ru",
+      "author": "\u0414\u0435\u043d\u0438\u0441 \u0416\u043e\u0445\u043e\u0432",
+      "title": "\u0412 \u0420\u043e\u0441\u043f\u043e\u0442\u0440\u0435\u0431\u043d\u0430\u0434\u0437\u043e\u0440\u0435 \u043d\u0430\u0437\u0432\u0430\u043b\u0438 \u0440\u0438\u0441\u043a \u043f\u0435\u0440\u0435\u0445\u043e\u0434\u0430 \u0433\u0440\u0438\u043f\u043f\u0430 \u043f\u0442\u0438\u0446 \u043d\u0430 \u043b\u044e\u0434\u0435\u0439 \u0432\u044b\u0441\u043e\u043a\u0438\u043c",
+      "description": "\u0422\u0430\u043a\u043e\u0435 \u043c\u043d\u0435\u043d\u0438\u0435 \u0432\u044b\u0441\u043a\u0430\u0437\u0430\u043b\u0430 \u0433\u043b\u0430\u0432\u0430 \u0432\u0435\u0434\u043e\u043c\u0441\u0442\u0432\u0430 \u0410\u043d\u043d\u0430 \u041f\u043e\u043f\u043e\u0432\u0430.",
+      "url": "https://vfokuse.mail.ru/article/v-rospotrebnadzore-nazvali-risk-perehoda-grippa-ptic-na-lyudey-vysokim-64041781/",
+      "urlToImage": "https://resizer.mail.ru/p/1b26bec0-bb39-5656-9b74-d92434ffadd0/op:15/logo:bottom:vfokuse.png/AQAGNvX-OqhljjDGkNaLFwMfl1jfR70lqaTpbYa50JWxbhOeGrdZQeEGimjHQG0cU6sYZNV598471tjQBVG3d3LEytE.jpg",
+      "publishedAt": "2024-12-12 09:31:46",
+      "content": "\u2014 , 1996 . H5N1 . 2021 280 , , . , 20 . , \u2014 .",
+      "retrievedAt": "2024-12-13 19:05:41.192411",
+      "internal_id": "f0320e6c4a8ac27373dd3c12db015f434f0d043c880c13dc5466e513a87c1ea1",
+      "publishedAtLabel": "Dec 12"
+    },
+    {
+      "id": 16330,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "PerthNow",
+      "author": "Perthnow",
+      "title": "WA Health issues second measles alert in three days after a second, unrelated case confirmed in Perth",
+      "description": "WA Health has issued its second measles alert in three days after another returned traveller contracted the infection overseas.",
+      "url": "https://www.perthnow.com.au/news/health/wa-health-issues-second-measles-alert-in-three-days-after-a-second-unrelated-case-confirmed-in-perth-c-17063461",
+      "urlToImage": "https://images.perthnow.com.au/publication/C-17063461/48fe6bf0e83220150b1de962bd067efbe458717c-16x9-x1y0w2446h1376.jpg?imwidth=1200",
+      "publishedAt": "2024-12-12 09:21:47",
+      "content": "WA Health has issued its second measles alert in three days after another returned traveller contracted the infection overseas. People arriving in Perth from Singapore via flight SQ225 on Sunday hav\u2026 [+1475 chars]",
+      "retrievedAt": "2024-12-13 19:05:40.279803",
+      "internal_id": "05cea7b5dee674a5593058af88e90118f6c33e3d10cc381b1fe3e8bcc444a6c0",
+      "publishedAtLabel": "Dec 12"
+    },
+    {
+      "id": 16338,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Mail.ru",
+      "author": "\u0418\u043d\u0435\u0441\u0441\u0430 \u041a\u0443\u0445\u0430\u0440\u0438\u0448\u0438\u043d\u0430",
+      "title": "\u042d\u043a\u0441\u043f\u0435\u0440\u0442 \u041a\u0443\u0442\u044b\u0440\u0435\u0432: \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0443\u0435\u0442 \u043f\u043e\u0440\u044f\u0434\u043a\u0430 10 \u0442\u044b\u0441. \u043d\u0435\u0438\u0437\u0443\u0447\u0435\u043d\u043d\u044b\u0445 \u0432\u0438\u0440\u0443\u0441\u043e\u0432 \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u0445",
+      "description": "\u0414\u0438\u0440\u0435\u043a\u0442\u043e\u0440 \u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u043e\u0433\u043e \u043f\u0440\u043e\u0442\u0438\u0432\u043e\u0447\u0443\u043c\u043d\u043e\u0433\u043e \u0438\u043d\u0441\u0442\u0438\u0442\u0443\u0442\u0430 \u00ab\u041c\u0438\u043a\u0440\u043e\u0431\u00bb \u0440\u0430\u0441\u0441\u043a\u0430\u0437\u0430\u043b, \u0447\u0442\u043e \u0441 \u043f\u043e\u043c\u043e\u0449\u044c\u044e \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0439 \u0443\u0434\u0430\u0435\u0442\u0441\u044f \u0440\u0430\u0441\u0448\u0438\u0440\u0438\u0442\u044c \u0437\u043d\u0430\u043d\u0438\u044f \u043f\u043e \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0435 \u0438 \u043e\u0431\u044a\u0435\u043c\u0443 \u0446\u0438\u0440\u043a\u0443\u043b\u044f\u0446\u0438\u0438 \u0432\u0438\u0440\u0443\u0441\u043e\u0432, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u043c\u0435\u043d\u0435\u0435 \u0432\u0438\u0440\u0443\u043b\u0435\u043d\u0442\u043d\u044b \u0434\u043b\u044f \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u0445, \u043d\u043e \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u044f\u044e\u0442 \u0440\u0438\u0441\u043a \u0441\u043e\u0432\u0435\u0440\u0448\u0435\u043d\u0438\u044f \u043c\u0435\u0436\u0432\u0438\u0434\u043e\u0432\u043e\u0433\u043e \u043f\u0435\u0440\u0435\u0445\u043e\u0434\u0430.",
+      "url": "https://news.mail.ru/society/64041613/",
+      "urlToImage": "https://news.mail.ru/social_preview/64041613/?time=39f7ab6f3f035eecf07c4e4b02930571",
+      "publishedAt": "2024-12-12 09:01:16",
+      "content": "- Science , , , H5N1 . , 226 .",
+      "retrievedAt": "2024-12-13 19:05:41.199271",
+      "internal_id": "e5d2837b1d5d152b030c391580c1b5e61553ccc16c36a46ba9f210fab90386a5",
+      "publishedAtLabel": "Dec 12"
+    },
+    {
+      "id": 16332,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Nayra Teles",
+      "title": "Gripe avi\u00e1ria: uma \u00fanica muta\u00e7\u00e3o pode facilitar infec\u00e7\u00e3o em humanos",
+      "description": "Pesquisadores descobriram que o v\u00edrus da gripe avi\u00e1ria precisa sofrer apenas uma \u00fanica muta\u00e7\u00e3o para conseguir infectar humanos O post Gripe avi\u00e1ria: uma \u00fanica muta\u00e7\u00e3o pode facilitar infec\u00e7\u00e3o em humanos apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2024/12/12/medicina-e-saude/gripe-aviaria-uma-unica-mutacao-pode-facilitar-infeccao-em-humanos/",
+      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2024/12/h5n1-1024x1024.png",
+      "publishedAt": "2024-12-12 08:50:00",
+      "content": "Atualmente, a gripe avi\u00e1ria afeta apenas aves e, ocasionalmente, mam\u00edferos. No entanto, uma \u00fanica muta\u00e7\u00e3o no v\u00edrus H5N1 pode tornar a doen\u00e7a perigosa para os humanos. A descoberta foi feita por pesqu\u2026 [+2226 chars]",
+      "retrievedAt": "2024-12-13 19:05:41.075613",
+      "internal_id": "9b0fbeba3ec5f6e12da9e3db8d78006f099e1f5fd7fd3764db54f186fd354126",
+      "publishedAtLabel": "Dec 12"
+    },
+    {
+      "id": 16335,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Life.ru",
+      "author": "\u041d\u0430\u0442\u0430\u043b\u044c\u044f \u0410\u0444\u043e\u043d\u0438\u043d\u0430",
+      "title": "\u0413\u043b\u0430\u0432\u0430 \u0420\u043e\u0441\u043f\u043e\u0442\u0440\u0435\u0431\u043d\u0430\u0434\u0437\u043e\u0440\u0430 \u0437\u0430\u044f\u0432\u0438\u043b\u0430 \u043e \u0432\u044b\u0441\u043e\u043a\u043e\u043c \u0440\u0438\u0441\u043a\u0435 \u043f\u0435\u0440\u0435\u0445\u043e\u0434\u0430 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430 \u043d\u0430 \u043b\u044e\u0434\u0435\u0439",
+      "description": "\u0412 \u0420\u043e\u0441\u0441\u0438\u0438 \u043e\u0442\u043c\u0435\u0447\u0430\u0435\u0442\u0441\u044f \u0432\u044b\u0441\u043e\u043a\u0438\u0439 \u0440\u0438\u0441\u043a \u043f\u043e \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u044e \u044d\u043f\u0438\u0434\u0435\u043c\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u043f\u0440\u043e\u0446\u0435\u0441\u0441\u0430 \u0438\u0437-\u0437\u0430 \u043f\u0435\u0440\u0435\u0445\u043e\u0434\u0430 \u0433\u0440\u0438\u043f\u043f\u0430 \u043f\u0442\u0438\u0446 \u043d\u0430 \u043b\u044e\u0434\u0435\u0439. \u0421\u0435\u0439\u0447\u0430\u0441 \u0435\u0433\u043e \u043e\u0446\u0435\u043d\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u0438 \u0435\u0433\u043e \u043d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e \u043f\u0440\u0435\u0434\u0443\u043f\u0440\u0435\u0434\u0438\u0442\u044c, \u0440\u0430\u0441\u0441\u043a\u0430\u0437\u0430\u043b\u0430 \u0433\u043b\u0430\u0432\u0430 \u0420\u043e\u0441\u043f\u043e\u0442\u0440\u0435\u0431\u043d\u0430\u0434\u0437\u043e\u0440\u0430 \u0410\u043d\u043d\u0430 \u041f\u043e\u043f\u043e\u0432\u0430.",
+      "url": "https://life.ru/p/1711285",
+      "urlToImage": "https://static.life.ru/publications/2024/12/12/476655422934.2254.webp",
+      "publishedAt": "2024-12-12 08:18:18",
+      "content": "- . , . \u00ab ...\u00bb, - . , , \u00ab \u00bb. , . , H5N1. 12 . , , , , , , .",
+      "retrievedAt": "2024-12-13 19:05:41.119488",
+      "internal_id": "87d6c3130ebc45f3e5aa32fc94bb439059e29caa58320c60a76849c21101fc69",
+      "publishedAtLabel": "Dec 12"
+    },
+    {
+      "id": 16351,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "CHINEDU ASADU Associated Press, DAN IKPOYI Associated Press",
+      "title": "Hardest-hit Nigeria is latest African country to provide malaria vaccine to young children",
+      "description": "Nigeria is the latest African country to give a new malaria vaccine to young childen",
+      "url": "https://abcnews.go.com/Health/wireStory/hardest-hit-nigeria-latest-african-country-provide-malaria-116712646",
+      "urlToImage": "https://i.abcnewsfe.com/a/1d644e41-7e36-40ec-9557-2fcf045b3cdd/wirestory_e2e11f0b2f199ab3967b98ef0a006b26_16x9.jpg?w=1600",
+      "publishedAt": "2024-12-12 08:14:33",
+      "content": "BAYELSA, Nigeria -- Ominike Marvis has lost count of the number of times her 6-year-old son has had malaria. So when Nigeria started offering a malaria vaccine, she was eager to protect her youngest \u2026 [+3194 chars]",
+      "retrievedAt": "2024-12-13 19:05:42.726963",
+      "internal_id": "cd721648a95884b75fe128bc5eb14eb27a22e6d3b778d471288f892423b899c6",
+      "publishedAtLabel": "Dec 12"
+    },
+    {
+      "id": 16349,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "CHINEDU ASADU Associated Press, DAN IKPOYI Associated Press",
+      "title": "Hardest-hit Nigeria is latest African country to provide malaria vaccine to young children",
+      "description": "Nigeria is the latest African country to give a new malaria vaccine to young childen",
+      "url": "https://abcnews.go.com/International/wireStory/hardest-hit-nigeria-latest-african-country-provide-malaria-116712645",
+      "urlToImage": "https://i.abcnewsfe.com/a/1d644e41-7e36-40ec-9557-2fcf045b3cdd/wirestory_e2e11f0b2f199ab3967b98ef0a006b26_16x9.jpg?w=1600",
+      "publishedAt": "2024-12-12 08:14:32",
+      "content": "BAYELSA, Nigeria -- Ominike Marvis has lost count of the number of times her 6-year-old son has had malaria. So when Nigeria started offering a malaria vaccine, she was eager to protect her youngest \u2026 [+3194 chars]",
+      "retrievedAt": "2024-12-13 19:05:42.680943",
+      "internal_id": "8421f2dff8a90d011e536d1b162bdeb8a2a077f4e0774afd852c838bf5e6ae4b",
+      "publishedAtLabel": "Dec 12"
+    },
+    {
+      "id": 16354,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Flowingdata.com",
+      "author": "Nathan Yau",
+      "title": "How mpox virus spreads",
+      "description": "For Reuters, Arathy J Aluckal, Jitesh Chowdhury, and Vijdan Mohammad Kawoosa illustrate how the mpox virus spreads, its variants, and who it affects. The last chart in the article, shown above, str\u2026",
+      "url": "https://flowingdata.com/2024/12/12/how-mpox-virus-spreads/",
+      "urlToImage": "https://flowingdata.com/wp-content/uploads/2024/12/mpox-demographics.png",
+      "publishedAt": "2024-12-12 08:12:53",
+      "content": "For Reuters, Arathy J Aluckal, Jitesh Chowdhury, and Vijdan Mohammad Kawoosa illustrate how the mpox virus spreads, its variants, and who it affects. The last chart in the article, shown above, str\u2026 [+346 chars]",
+      "retrievedAt": "2024-12-13 19:05:43.690979",
+      "internal_id": "2c6c4ea9692c0ad1f2abc3567a24170edf39cbb95bd9bf8bf282852e4666bf31",
+      "publishedAtLabel": "Dec 12"
+    },
+    {
+      "id": 16345,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Meneame.net",
+      "author": "BenjaminLinus",
+      "title": "Los expertos avisan de que la pr\u00f3xima pandemia ser\u00e1 por gripe e instan a aprobar la especialidad de enfermedades infecciosas",
+      "description": "Las enfermedades infecciosas han experimentado en los \u00faltimos a\u00f1os, y especialmente en 2024, un aumento notable del n\u00famero de casos. La gripe aviar, el virus del Nilo, el dengue, o la tendencia creciente de las infecciones por transmisi\u00f3n sexual son algunas d\u2026",
+      "url": "https://www.meneame.net/m/actualidad/expertos-avisan-proxima-pandemia-sera-gripe-instan-aprobar",
+      "urlToImage": "https://www.meneame.net/backend/media?type=link&id=4008838&version=0&ts=1733991188&image.webp",
+      "publishedAt": "2024-12-12 08:04:18",
+      "content": "",
+      "retrievedAt": "2024-12-13 19:05:41.834793",
+      "internal_id": "41b0ee6d9697881415e8aa5317a29dfb9b0f3428aa2f81dbd1d0e197331c7cdc",
+      "publishedAtLabel": "Dec 12"
+    },
     {
       "id": 16324,
       "query": [
@@ -23937,60 +24442,6 @@
       "content": "A man from northern Israel contracted rabies after being bitten by his pet dog, Israeli media reported on Sunday. According to the reports, the man was sent to intensive care following the bite and \u2026 [+236 chars]",
       "retrievedAt": "2024-10-29 07:06:33.659787",
       "internal_id": "9f1990124459b13d8c31fffeb273d60d6024a83d2f33b25f0489bb801d39d7b1",
-      "publishedAtLabel": "Oct 27"
-    },
-    {
-      "id": 14999,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The Punch",
-      "author": "Bola Bamigbola",
-      "title": "Experts caution FG on malaria vaccine mass rollout",
-      "description": "A group of scientists under the aegis of Living Science Foundation has called on the Federal Government to drop the plan to incorporate a newly developed malaria vaccine into the routine immunisation schedule in the country. This was contained in a press stat\u2026",
-      "url": "https://punchng.com/experts-caution-fg-on-malaria-vaccine-mass-rollout/",
-      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2024/10/27182204/Untitled.jpg",
-      "publishedAt": "2024-10-27 17:34:24",
-      "content": "A group of scientists under the aegis of Living Science Foundation has called on the Federal Government to drop the plan to incorporate a newly developed malaria vaccine into the routine immunisation\u2026 [+4204 chars]",
-      "retrievedAt": "2024-10-28 19:05:46.209733",
-      "internal_id": "4caaec3e97f371d7699b31c81c633a2cf4b18e1268fd03de902d4b8196bc0eb7",
-      "publishedAtLabel": "Oct 27"
-    },
-    {
-      "id": 15000,
-      "query": [
-        "typhoid"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "etimes.in",
-      "title": "What raises the risk of Typhoid among children living in crowded areas",
-      "description": "Typhoid, a bacterial infection common in tropical regions, spreads through contaminated food and water, often affecting children in overcrowded areas. Poor sanitation, including practices like open defecation and unhygienic food handling, heighten the risk. B\u2026",
-      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/what-raises-the-risk-of-typhoid-among-children-living-in-crowded-areas/articleshow/114660592.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-114660573,width-1070,height-580,imgsize-499179,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-10-27 15:43:05",
-      "content": "Body pain in women linked to their belly fat!",
-      "retrievedAt": "2024-10-28 19:05:47.103487",
-      "internal_id": "2cadd958732713478a87dee105bd71389debae8d6710c64cd26c1bcb8483934a",
-      "publishedAtLabel": "Oct 27"
-    },
-    {
-      "id": 14998,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Nakedcapitalism.com",
-      "author": "Conor Gallagher",
-      "title": "Exclusive: Emails Reveal How Health Departments Struggle To Track Human Cases of Bird Flu",
-      "description": "Emails show how health officials struggle to track the bird flu, partly in deference to the agricultural industry. As a result, researchers don\u2019t know how often farmworkers are being infected \u2014 and could miss alarming signals.",
-      "url": "https://www.nakedcapitalism.com/2024/10/exclusive-emails-reveal-how-health-departments-struggle-to-track-human-cases-of-bird-flu.html",
-      "urlToImage": "https://www.nakedcapitalism.com/wp-content/uploads/2024/10/1-1024x672.png",
-      "publishedAt": "2024-10-27 09:00:23",
-      "content": "Conor here: Entirely unsurprising, especially if you read Lamberts Oct. 24 piece Biden Bets on Let Er Rip with a SECOND Pandemic-Grade Virus: H5N1 (Bird Flu). That dealt largely with cattle. The foll\u2026 [+11520 chars]",
-      "retrievedAt": "2024-10-28 19:05:45.295162",
-      "internal_id": "3ed6f65ff026efe8905684b1c8d64766c6085fdc240e1a19386781164ccf7f86",
       "publishedAtLabel": "Oct 27"
     }
   ]
