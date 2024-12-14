@@ -1,8 +1,80 @@
 {
-  "last_updated": "2024-12-13 19:05",
-  "count_articles_total": 1355,
-  "count_articles_new": 28,
+  "last_updated": "2024-12-14 07:06",
+  "count_articles_total": 1364,
+  "count_articles_new": 6,
   "articles": [
+    {
+      "id": 16361,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Japan Times",
+      "author": "The Japan Times",
+      "title": "Congo to get Japan's mpox vaccine for children, Africa CDC says",
+      "description": "Japan pledged in September to donate doses from its national stockpile of LC16m8 vaccines.",
+      "url": "https://www.japantimes.co.jp/news/2024/12/13/japan/japan-mpox-vaccine-congo/",
+      "urlToImage": "https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/13/439896.jpg?v=3.1",
+      "publishedAt": "2024-12-13 01:45:00",
+      "content": "DAKAR, Senegal The Democratic Republic of Congo should start to receive 3 million doses of mpox vaccine from Japan next week that can be used for children, the Africa Centers for Disease Control and \u2026 [+425 chars]",
+      "retrievedAt": "2024-12-14 07:06:08.523226",
+      "internal_id": "0bcee2b726aed5499341de9e27bebc11a497236f89b9a83ce54ce65cc6fba4ec",
+      "publishedAtLabel": "Dec 13"
+    },
+    {
+      "id": 16357,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Elespanol.com",
+      "author": "Marcos Dom\u00ednguez",
+      "title": "La amenaza silenciosa de los gatos: pueden ser el \u00faltimo eslab\u00f3n para que la gripe aviar se transmita entre humanos",
+      "description": "Un estudio revela que tienen receptores para la gripe H5N1 y la para la humana, lo que los convierte en potenciales laboratorios de recombinaci\u00f3n. M\u00e1s informaci\u00f3n: La gripe aviar da un nuevo salto que alerta a los cient\u00edficos: cu\u00e1l es el riesgo para los human\u2026",
+      "url": "https://www.elespanol.com/ciencia/salud/20241213/amenaza-silenciosa-gatos-pueden-ultimo-eslabon-gripe-aviar-transmita-humanos/908159611_0.html",
+      "urlToImage": "https://s1.elespanol.com/2024/12/12/ciencia/salud/908170071_251637019_1706x960.jpg",
+      "publishedAt": "2024-12-13 01:37:40",
+      "content": "Es un pasito m\u00e1s, pero nadie sabe a qu\u00e9 distancia est\u00e1 la meta. La gripe aviar H5N1 es la mayor amenaza infecciosa que se cierne sobre la humanidad y un estudio apunta a que la clave que falta para c\u2026 [+4841 chars]",
+      "retrievedAt": "2024-12-14 07:06:04.600086",
+      "internal_id": "5ada993bb10e67ce8103f7aa635b35f762119d13a691a19a2371032a7754a549",
+      "publishedAtLabel": "Dec 13"
+    },
+    {
+      "id": 16356,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "WXYZ",
+      "author": "Sarah Michals",
+      "title": "Michigan reports 1,500+ whopping cough cases, up from 110 in 2023",
+      "description": "Veronica McNally from West Bloomfield has made it her life's work to talk about vaccines and pertussis, also known as whooping cough.",
+      "url": "https://www.wxyz.com/news/michigan-reports-1-500-whopping-cough-cases-up-from-110-in-2023",
+      "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/9598a6f/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fause%2Fslices%2F50d%2Fbe88c4e651db4a7dbe102614d7272948%2F50d6ad0f7a8d470b9234052d0fd7724b%2Fposter_19816dfc33044ceea6d9ffb219c1f730.jpg",
+      "publishedAt": "2024-12-12 23:44:32",
+      "content": "SOUTHFIELD, Mich. (WXYZ) Veronica McNally from West Bloomfield has made it her life's work to talk about vaccines and pertussis, also known as whooping cough. She told 7 News Detroit that she and h\u2026 [+2368 chars]",
+      "retrievedAt": "2024-12-14 07:06:01.690474",
+      "internal_id": "c54a4165e79a6c1a61aaae4b0c8fb46c45ddb11b41acc0607fd2103e19768d5e",
+      "publishedAtLabel": "Dec 12"
+    },
+    {
+      "id": 16358,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "STAT",
+      "author": "Helen Branswell",
+      "title": "CDC finds no evidence of bird flu virus in California child",
+      "description": "After public health labs in California failed to confirm a positive result, a sample was sent to the CDC, which Thursday said it was negative for \"all flu targets.\"",
+      "url": "https://www.statnews.com/2024/12/12/bird-flu-california-toddler-cdc-no-evidence-virus/",
+      "urlToImage": "https://www.statnews.com/wp-content/uploads/2024/04/1841-1024x576.jpg",
+      "publishedAt": "2024-12-12 22:58:53",
+      "content": "Testing of samples taken from a child in California thought to have contracted H5N1 bird flu after drinking raw milk turned up no evidence of influenza viruses, the Centers for Disease Control and Pr\u2026 [+4758 chars]",
+      "retrievedAt": "2024-12-14 07:06:04.633218",
+      "internal_id": "c7b3362ece2778126e39daaba5edef217c8cdb503b952ae43c522c71b7cd5e64",
+      "publishedAtLabel": "Dec 12"
+    },
     {
       "id": 16340,
       "query": [
@@ -91,6 +163,24 @@
       "content": "Of er in het zuidwesten van Congo daadwerkelijk een Ziekte X rondgaat of dat vele burgers ziek zijn door bekende ziektes als malaria blijft voorlopig onduidelijk. Het Afrikaanse gezondheidsagentschap\u2026 [+1651 chars]",
       "retrievedAt": "2024-12-13 19:05:42.800603",
       "internal_id": "7a1209491184c4e0c89ddd3061d4b98cac9cc58fb31ca6bbd66a5adf40d6b4f3",
+      "publishedAtLabel": "Dec 12"
+    },
+    {
+      "id": 16359,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "DIE WELT",
+      "author": "WELT",
+      "title": "Warten auf neue Proben",
+      "description": "Die m\u00f6gliche \u201eKrankheit X\u201c im Kongo gibt nach wie vor R\u00e4tsel auf. Zwar wurden Proben positiv auf Malaria getestet, doch ihre Qualit\u00e4t \u00fcberzeugte die Experten nicht. Sie hoffen auf neues Testmaterial f\u00fcr eine sichere Diagnose.",
+      "url": "https://www.welt.de/gesundheit/article254856548/Krankheit-X-Wirklich-Malaria-Experten-muessen-auf-neue-Proben-warten.html",
+      "urlToImage": "https://img.welt.de/img/gesundheit/mobile254856544/6587936527-ci16x9-w1200/Kongo.jpg",
+      "publishedAt": "2024-12-12 16:03:52",
+      "content": "Die m\u00f6gliche Krankheit X im Kongo gibt nach wie vor R\u00e4tsel auf. Zwar wurden Proben positiv auf Malaria getestet, doch ihre Qualit\u00e4t \u00fcberzeugte die Experten nicht. Sie hoffen auf neues Testmaterial f\u00fc\u2026 [+4046 chars]",
+      "retrievedAt": "2024-12-14 07:06:06.837527",
+      "internal_id": "b96df2256ccc2c661a4e87d618c81b8e89d6acad0ff8c209e3c3d165a5f57988",
       "publishedAtLabel": "Dec 12"
     },
     {
@@ -921,6 +1011,24 @@
       "content": "KINSHASA, Congo -- The mystery flu-like illness that has killed dozens of people in southwest Congo in recent weeks might be malaria, according to results from laboratory samples of infected people, \u2026 [+2261 chars]",
       "retrievedAt": "2024-12-12 19:05:47.860973",
       "internal_id": "4de9f297863d3e7dc55e899acd043f7e234909a58c96907bf9b27298d03f7f0a",
+      "publishedAtLabel": "Dec 11"
+    },
+    {
+      "id": 16360,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Nos.nl",
+      "author": null,
+      "title": "Tien pati\u00ebnten met mysterieuze ziekte in Congo hebben ook malaria",
+      "description": "Tien pati\u00ebnten die lijden aan de mysterieuze ziekte die al tientallen mensen het leven heeft gekost in de Democratische Republiek Congo zijn positief getest op malaria. Dat zegt de topman van de Wereldgezondheidsorganisatie (WHO). Twaalf mensen met de onbeken\u2026",
+      "url": "https://nos.nl/l/2547941",
+      "urlToImage": "https://cdn.nos.nl/image/2024/12/11/1168151/1024x576a.jpg",
+      "publishedAt": "2024-12-11 15:55:09",
+      "content": "Tien pati\u00ebnten die lijden aan de mysterieuze ziekte die al tientallen mensen het leven heeft gekost in de Democratische Republiek Congo zijn positief getest op malaria. Dat zegt de topman van de Were\u2026 [+1476 chars]",
+      "retrievedAt": "2024-12-14 07:06:06.849639",
+      "internal_id": "7428b80be0bc59bbea22fc49e71d7850a0f977ee4452d52d3dead8fb7970d080",
       "publishedAtLabel": "Dec 11"
     },
     {
@@ -24442,6 +24550,60 @@
       "content": "A man from northern Israel contracted rabies after being bitten by his pet dog, Israeli media reported on Sunday. According to the reports, the man was sent to intensive care following the bite and \u2026 [+236 chars]",
       "retrievedAt": "2024-10-29 07:06:33.659787",
       "internal_id": "9f1990124459b13d8c31fffeb273d60d6024a83d2f33b25f0489bb801d39d7b1",
+      "publishedAtLabel": "Oct 27"
+    },
+    {
+      "id": 14999,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Bola Bamigbola",
+      "title": "Experts caution FG on malaria vaccine mass rollout",
+      "description": "A group of scientists under the aegis of Living Science Foundation has called on the Federal Government to drop the plan to incorporate a newly developed malaria vaccine into the routine immunisation schedule in the country. This was contained in a press stat\u2026",
+      "url": "https://punchng.com/experts-caution-fg-on-malaria-vaccine-mass-rollout/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2024/10/27182204/Untitled.jpg",
+      "publishedAt": "2024-10-27 17:34:24",
+      "content": "A group of scientists under the aegis of Living Science Foundation has called on the Federal Government to drop the plan to incorporate a newly developed malaria vaccine into the routine immunisation\u2026 [+4204 chars]",
+      "retrievedAt": "2024-10-28 19:05:46.209733",
+      "internal_id": "4caaec3e97f371d7699b31c81c633a2cf4b18e1268fd03de902d4b8196bc0eb7",
+      "publishedAtLabel": "Oct 27"
+    },
+    {
+      "id": 15000,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "etimes.in",
+      "title": "What raises the risk of Typhoid among children living in crowded areas",
+      "description": "Typhoid, a bacterial infection common in tropical regions, spreads through contaminated food and water, often affecting children in overcrowded areas. Poor sanitation, including practices like open defecation and unhygienic food handling, heighten the risk. B\u2026",
+      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/what-raises-the-risk-of-typhoid-among-children-living-in-crowded-areas/articleshow/114660592.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-114660573,width-1070,height-580,imgsize-499179,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-10-27 15:43:05",
+      "content": "Body pain in women linked to their belly fat!",
+      "retrievedAt": "2024-10-28 19:05:47.103487",
+      "internal_id": "2cadd958732713478a87dee105bd71389debae8d6710c64cd26c1bcb8483934a",
+      "publishedAtLabel": "Oct 27"
+    },
+    {
+      "id": 14998,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Nakedcapitalism.com",
+      "author": "Conor Gallagher",
+      "title": "Exclusive: Emails Reveal How Health Departments Struggle To Track Human Cases of Bird Flu",
+      "description": "Emails show how health officials struggle to track the bird flu, partly in deference to the agricultural industry. As a result, researchers don\u2019t know how often farmworkers are being infected \u2014 and could miss alarming signals.",
+      "url": "https://www.nakedcapitalism.com/2024/10/exclusive-emails-reveal-how-health-departments-struggle-to-track-human-cases-of-bird-flu.html",
+      "urlToImage": "https://www.nakedcapitalism.com/wp-content/uploads/2024/10/1-1024x672.png",
+      "publishedAt": "2024-10-27 09:00:23",
+      "content": "Conor here: Entirely unsurprising, especially if you read Lamberts Oct. 24 piece Biden Bets on Let Er Rip with a SECOND Pandemic-Grade Virus: H5N1 (Bird Flu). That dealt largely with cattle. The foll\u2026 [+11520 chars]",
+      "retrievedAt": "2024-10-28 19:05:45.295162",
+      "internal_id": "3ed6f65ff026efe8905684b1c8d64766c6085fdc240e1a19386781164ccf7f86",
       "publishedAtLabel": "Oct 27"
     }
   ]

@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 28
-- **Last harvest:** 2024-12-13 19:05
-- **Most recent article:** 2024-12-12 18:06:49
+- **New articles in last harvest:** 6
+- **Last harvest:** 2024-12-14 07:06
+- **Most recent article:** 2024-12-13 01:45:00
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-44 | 24-45 | 24-46 | 24-47 | 24-48 | 24-49 | 24-50 | Total |
 |--|-|-|-|-|-|-|-|-|
-| h5n1 | 60 | 36 | 40 | 50 | 38 | 70 | 52 | 346 |
-| mpox | 75 | 63 | 62 | 76 | 26 | 20 | 22 | 344 |
-| malaria | 15 | 26 | 33 | 27 | 29 | 27 | 62 | 219 |
+| h5n1 | 61 | 36 | 40 | 50 | 38 | 70 | 54 | 349 |
+| mpox | 75 | 63 | 62 | 76 | 26 | 20 | 23 | 345 |
+| malaria | 16 | 26 | 33 | 27 | 29 | 27 | 64 | 222 |
 | dengue | 30 | 31 | 36 | 28 | 25 | 10 | 27 | 187 |
 | measles | 13 | 3 | 33 | 11 | 6 | 9 | 10 | 85 |
 | rabies | 10 | 5 | 11 | 7 | 12 | 13 | 2 | 60 |
 | chikungunya | 2 | 2 | 3 | 5 | 4 | 6 | 6 | 28 |
+| pertussis | 1 | 3 | 8 | 5 | 1 | 4 | 5 | 27 |
 | zika | 3 | 9 | 4 | 3 | 1 | 4 | 3 | 27 |
-| pertussis | 1 | 3 | 8 | 5 | 1 | 4 | 4 | 26 |
 | hpai | 7 | 4 | 4 | 4 | 0 | 2 | 4 | 25 |
 | meningitis | 3 | 5 | 2 | 5 | 3 | 3 | 1 | 22 |
 | leptospirosis | 3 | 10 | 3 | 0 | 2 | 0 | 3 | 21 |
-| typhoid | 3 | 1 | 1 | 3 | 1 | 0 | 1 | 10 |
+| typhoid | 4 | 1 | 1 | 3 | 1 | 0 | 1 | 11 |
 | yersinia | 3 | 0 | 0 | 1 | 1 | 0 | 0 | 5 |
 | shigellosis | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 1 |
 
@@ -53,6 +53,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-50 (pertussis)
 
+- [Michigan reports 1,500+ whopping cough cases, up from 110 in 2023](https://www.wxyz.com/news/michigan-reports-1-500-whopping-cough-cases-up-from-110-in-2023) (WXYZ)
+
 - [Disease known to hospitalize children is continuing to spread in Michigan](https://www.mlive.com/public-interest/2024/12/disease-known-to-hospitalize-children-is-continuing-to-spread-in-michigan.html) (mlive.com)
 
 - [Cazurile de tuse convulsivă sunt în creștere. Ce semne are boala și de ce este deosebit de periculoasă pentru copiii mici](http://hotnews.ro/cazurile-de-tuse-convulsiva-sunt-in-crestere-ce-semne-are-boala-si-de-ce-este-deosebit-de-periculoasa-pentru-copiii-mici-1859161) (Hotnews.ro)
@@ -62,6 +64,8 @@ Source: [News API](https://newsapi.org/)
 - [Understanding whooping cough](https://www.bostonherald.com/2024/12/08/understanding-whooping-cough/) (Boston Herald)
 
 ## 24-50 (mpox)
+
+- [Congo to get Japan's mpox vaccine for children, Africa CDC says](https://www.japantimes.co.jp/news/2024/12/13/japan/japan-mpox-vaccine-congo/) (The Japan Times)
 
 - [DR Congo reports nearly 54,000 suspected mpox cases this year](https://www.thestar.com.my/news/world/2024/12/13/dr-congo-reports-nearly-54000-suspected-mpox-cases-this-year) (The Star Online)
 
@@ -137,6 +141,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Nog altijd geen duidelijkheid over ‘Ziekte X’ in Congo: meer stalen nodig](https://www.gva.be/cnt/dmf20241212_95819252) (Www.gva.be)
 
+- [Warten auf neue Proben](https://www.welt.de/gesundheit/article254856548/Krankheit-X-Wirklich-Malaria-Experten-muessen-auf-neue-Proben-warten.html) (DIE WELT)
+
 - [Nog altijd geen duidelijkheid over ‘Ziekte X’ in Congo: meer stalen nodig](https://www.nieuwsblad.be/cnt/dmf20241212_95771189) (Nieuwsblad.be)
 
 - [Proben mit schlechter Qualität: Weiter keine Gewissheit zu "Krankheit X" - neue Proben nötig](https://www.zeit.de/news/2024-12/12/weiter-keine-gewissheit-zu-krankheit-x-neue-proben-noetig) (Die Zeit)
@@ -160,6 +166,8 @@ Source: [News API](https://newsapi.org/)
 - [Authorities say the mystery disease in Congo might be malaria but more testing is needed](https://abcnews.go.com/Health/wireStory/authorities-mystery-disease-congo-malaria-testing-needed-116682334) (ABC News)
 
 - [Authorities say the mystery disease in Congo might be malaria but more testing is needed](https://abcnews.go.com/International/wireStory/authorities-mystery-disease-congo-malaria-testing-needed-116682323) (ABC News)
+
+- [Tien patiënten met mysterieuze ziekte in Congo hebben ook malaria](https://nos.nl/l/2547941) (Nos.nl)
 
 - [Reaktion auf die „Krankheit X“ zeigt laut Experten Mangel auf](https://www.faz.net/aktuell/wissen/medizin-ernaehrung/tropenmediziner-reaktion-auf-krankheit-x-zeigt-mangel-auf-110168811.html) (Faz.net)
 
@@ -278,6 +286,10 @@ Source: [News API](https://newsapi.org/)
 - [USDA Orders Testing of Raw and Unpasteurized Milk for Presence of Bird Flu Virus](https://legalinsurrection.com/2024/12/usda-orders-testing-of-raw-and-unpasteurized-milk-for-presence-of-bird-flu-virus/) (Legalinsurrection.com)
 
 ## 24-50 (h5n1)
+
+- [La amenaza silenciosa de los gatos: pueden ser el último eslabón para que la gripe aviar se transmita entre humanos](https://www.elespanol.com/ciencia/salud/20241213/amenaza-silenciosa-gatos-pueden-ultimo-eslabon-gripe-aviar-transmita-humanos/908159611_0.html) (Elespanol.com)
+
+- [CDC finds no evidence of bird flu virus in California child](https://www.statnews.com/2024/12/12/bird-flu-california-toddler-cdc-no-evidence-virus/) (STAT)
 
 - [Los caballos se pueden contagiar del virus H5N1 de la gripe aviar, pero la infección pasa desapercibida](https://www.infosalus.com/salud-investigacion/noticia-caballos-pueden-contagiar-virus-h5n1-gripe-aviar-infeccion-pasa-desapercibida-20241212190649.html) (Infosalus.com)
 
@@ -2567,6 +2579,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Time to Get Typhoid! Classic Oregon Trail Video Game to Get Movie Treatment](https://reactormag.com/time-to-get-typhoid-classic-oregon-trail-video-game-to-get-movie-treatment/) (Reactormag.com)
 
+- [What raises the risk of Typhoid among children living in crowded areas](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/what-raises-the-risk-of-typhoid-among-children-living-in-crowded-areas/articleshow/114660592.cms) (The Times of India)
+
 ## 24-44 (rabies)
 
 - [Instagram famous squirrel named Peanut euthanised by New York authorities](https://www.abc.net.au/news/2024-11-02/peanut-the-internet-famous-squirrel-euthanised-authorities/104552922) (ABC News (AU))
@@ -2813,6 +2827,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Ogun, SFH deploy 1,180 town announcers for mosquito nets distribution](https://punchng.com/ogun-sfh-deploy-1180-town-announcers-for-mosquito-nets-distribution/) (The Punch)
 
+- [Experts caution FG on malaria vaccine mass rollout](https://punchng.com/experts-caution-fg-on-malaria-vaccine-mass-rollout/) (The Punch)
+
 ## 24-44 (leptospirosis)
 
 - [Martín-Moreno, catedrático de la UV: "A las 72 horas de la inundación se agravan los riesgos de infección, hay que poner medidas ya"](https://www.meneame.net/m/actualidad/martin-moreno-catedratico-uv-72-horas-inundacion-agravan-riesgos) (Meneame.net)
@@ -2958,6 +2974,8 @@ Source: [News API](https://newsapi.org/)
 - [H5N1 virus isolated from infected dairy worker is 100% lethal in ferrets, but does not appear to be circulating in nature anymore](https://www.sciencedaily.com/releases/2024/10/241028131451.htm) (Science Daily)
 
 - [Flu season will complicate tracking spread of H5N1 avian influenza](https://www.statnews.com/2024/10/28/flu-season-presents-challenges-in-tracking-h5n1-avian-influenza-outbreak/) (STAT)
+
+- [Exclusive: Emails Reveal How Health Departments Struggle To Track Human Cases of Bird Flu](https://www.nakedcapitalism.com/2024/10/exclusive-emails-reveal-how-health-departments-struggle-to-track-human-cases-of-bird-flu.html) (Nakedcapitalism.com)
 
 ## 24-44 (dengue)
 
