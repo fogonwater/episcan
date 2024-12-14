@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 6
-- **Last harvest:** 2024-12-14 07:06
-- **Most recent article:** 2024-12-13 01:45:00
+- **New articles in last harvest:** 16
+- **Last harvest:** 2024-12-14 19:05
+- **Most recent article:** 2024-12-13 18:57:00
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-44 | 24-45 | 24-46 | 24-47 | 24-48 | 24-49 | 24-50 | Total |
 |--|-|-|-|-|-|-|-|-|
-| h5n1 | 61 | 36 | 40 | 50 | 38 | 70 | 54 | 349 |
-| mpox | 75 | 63 | 62 | 76 | 26 | 20 | 23 | 345 |
-| malaria | 16 | 26 | 33 | 27 | 29 | 27 | 64 | 222 |
-| dengue | 30 | 31 | 36 | 28 | 25 | 10 | 27 | 187 |
+| h5n1 | 60 | 36 | 40 | 50 | 38 | 70 | 59 | 353 |
+| mpox | 75 | 63 | 62 | 76 | 26 | 20 | 25 | 347 |
+| malaria | 15 | 26 | 33 | 27 | 29 | 27 | 67 | 224 |
+| dengue | 30 | 31 | 36 | 28 | 25 | 10 | 30 | 190 |
 | measles | 13 | 3 | 33 | 11 | 6 | 9 | 10 | 85 |
 | rabies | 10 | 5 | 11 | 7 | 12 | 13 | 2 | 60 |
-| chikungunya | 2 | 2 | 3 | 5 | 4 | 6 | 6 | 28 |
+| chikungunya | 2 | 2 | 3 | 5 | 4 | 6 | 7 | 29 |
+| zika | 3 | 9 | 4 | 3 | 1 | 4 | 4 | 28 |
 | pertussis | 1 | 3 | 8 | 5 | 1 | 4 | 5 | 27 |
-| zika | 3 | 9 | 4 | 3 | 1 | 4 | 3 | 27 |
+| meningitis | 3 | 5 | 2 | 5 | 3 | 3 | 4 | 25 |
 | hpai | 7 | 4 | 4 | 4 | 0 | 2 | 4 | 25 |
-| meningitis | 3 | 5 | 2 | 5 | 3 | 3 | 1 | 22 |
 | leptospirosis | 3 | 10 | 3 | 0 | 2 | 0 | 3 | 21 |
-| typhoid | 4 | 1 | 1 | 3 | 1 | 0 | 1 | 11 |
+| typhoid | 3 | 1 | 1 | 3 | 1 | 0 | 1 | 10 |
 | yersinia | 3 | 0 | 0 | 1 | 1 | 0 | 0 | 5 |
 | shigellosis | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 1 |
 
@@ -34,6 +34,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-50 (zika)
+
+- [RJ tem vacinação contra dengue na Maré e outros 13 locais](https://www.terra.com.br/visao-do-corre/pega-a-visao/rj-tem-vacinacao-contra-dengue-na-mare-e-outros-13-locais,9118ce1e4ca0c69834ba79efdc6f9166zl51ldvl.html) (Terra.com.br)
 
 - [Indonesia joins in malaria research to prevent transmission at IKN](https://en.antaranews.com/news/337846/indonesia-joins-in-malaria-research-to-prevent-transmission-at-ikn) (Antaranews.com)
 
@@ -64,6 +66,10 @@ Source: [News API](https://newsapi.org/)
 - [Understanding whooping cough](https://www.bostonherald.com/2024/12/08/understanding-whooping-cough/) (Boston Herald)
 
 ## 24-50 (mpox)
+
+- [Mpox became a global health emergency for the second time in 2024](https://www.newscientist.com/article/2459809-mpox-became-a-global-health-emergency-for-the-second-time-in-2024/) (New Scientist)
+
+- [Fears in DRC as mystery disease kills dozens, mainly children](https://www.aljazeera.com/features/2024/12/13/fears-in-drc-as-mystery-disease-kills-dozens-mainly-children) (Al Jazeera English)
 
 - [Congo to get Japan's mpox vaccine for children, Africa CDC says](https://www.japantimes.co.jp/news/2024/12/13/japan/japan-mpox-vaccine-congo/) (The Japan Times)
 
@@ -113,6 +119,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-50 (meningitis)
 
+- [Luis Canut lanza un reivindicativo mensaje sobre su ceguera: «Estoy muy orgulloso de ser ciego, que es lo que soy»](https://www.abc.es/gente/luis-canut-lanza-reivindicativo-mensaje-sobre-ceguera-20241213184429-nt.html) (Www.abc.es)
+
+- [Brain inflammation may be the reason behind muscle fatigue after infection and injury](https://theconversation.com/brain-inflammation-may-be-the-reason-behind-muscle-fatigue-after-infection-and-injury-239817) (The Conversation Africa)
+
+- [Luis Canut, su lección de vida con el apoyo inquebrantable de Patricia Pérez: "Estoy orgulloso de ser ciego"](https://www.elconfidencialdigital.com/articulo/cotilleo/luis-canut-leccion-vida-apoyo-inquebrantable-patricia-perez-estoy-orgulloso-ser-ciego/20241213111946895637.html) (Elconfidencialdigital.com)
+
 - [Guidance: Meningitis and septicaemia: leaflet for new university entrants](https://www.gov.uk/government/publications/meningitis-and-septicaemia-leaflet-for-new-university-entrants) (Www.gov.uk)
 
 ## 24-50 (measles)
@@ -138,6 +150,12 @@ Source: [News API](https://newsapi.org/)
 - [Mysterious New Disease X Is Officially Here, Potentially Airborne](https://www.newsbreak.com/share/3706705509412-mysterious-new-disease-x-is-officially-here-potentially-airborne?_f=app_share&amp;pd=0EuIdPvZ&amp;lang=en_US&amp;send_time=1733680315&amp;trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2224.48.0.25%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_local_strategy_24q4_exp-v11%2Cns_push_exp_rt_bucketv12-control%2Cns_foryou_rank_exp_24q4-v4%2Cns_foryou_blend_exp_24q4-v6%2Cns_foryou_model_exp_24q4-v8%2Cns_foryou_recall_exp_24q4-v7&amp;s=i2) (Newsbreak.com)
 
 ## 24-50 (malaria)
+
+- [SULLA MISTERIOSA MALATTIA IN CONGO NON STIAMO CAPENDO UNA MAZZA – I “CENTRES FOR DISEASE CONTROL AND PREVENTION” DELL’AFRICA HA CHIARITO CHE BISOGNERÀ ASPETTARE ANCORA DEL TEMPO PRIMA DI CONOSCERE GLI AGENTI PATOGENI RESPONSABILI DELL'EPIDEMIA: I TEST SUI PRIMI CAMPIONI SI SONO DIMOSTRATI POCO AFFIDABILI E L’UNICA CERTEZZA È CHE UN PICCOLO NUMERO DI CAMPIONI ANALIZZATI RISULTAVA POSITIVO ALLA MALARIA – I CASI SONO SALITI A 527 E…](https://www.dagospia.com/rubrica-29/cronache/misteriosa-malattia-congo-non-stiamo-capendo-mazza-ndash-418121.htm) (Dagospia.com)
+
+- [OMS avertizează că schimbările climatice reprezintă „o criză sanitară”. Malaria şi holera se vor răspândi mai repede](https://www.digi24.ro/stiri/actualitate/sanatate/oms-avertizeaza-ca-schimbarile-climatice-reprezinta-o-criza-sanitara-malaria-si-holera-se-vor-raspandi-mai-repede-3045825) (Digi24.ro)
+
+- [TU Delft-team Epoch wint AI-prijs om hulp bij malaria-doorbraak](https://www.dutchcowboys.nl/nieuws/tu-delft-team-epoch-wint-ai-prijs-om-hulp-bij-malaria-doorbraak) (Dutchcowboys.nl)
 
 - [Nog altijd geen duidelijkheid over ‘Ziekte X’ in Congo: meer stalen nodig](https://www.gva.be/cnt/dmf20241212_95819252) (Www.gva.be)
 
@@ -287,6 +305,16 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-50 (h5n1)
 
+- [Friday headlines: Future perfunct](https://themorningnews.org/p/friday-headlines-future-perfunct) (Themorningnews.org)
+
+- [Домашние кошки могут болеть птичьим гриппом: ученые встревожены](https://hi-tech.mail.ru/news/119394-domashnie-koshki-mogut-bolet-ptichim-grippom-uchenye-vstrevozheny/) (Mail.ru)
+
+- [전북 부안서 고병원성 AI…올 겨울철 열 번째 사례](https://www.khan.co.kr/article/202412132140001) (Khan.co.kr)
+
+- [Američtí epidemiologové vyzývají: Připravte se na pandemii ptačí chřipky](https://vtm.zive.cz/clanky/americti-epidemiologove-vyzyvaji-pripravte-se-na-pandemii-ptaci-chripky/sc-870-a-231790/default.aspx) (Zive.cz)
+
+- [Two Cats Die After Consuming Recalled Raw Milk—LA Health Authorities Suspect They Contracted Bird Flu](https://www.forbes.com/sites/siladityaray/2024/12/13/two-cats-die-after-consuming-recalled-raw-milk-la-health-authorities-suspect-they-contracted-bird-flu/) (Forbes)
+
 - [La amenaza silenciosa de los gatos: pueden ser el último eslabón para que la gripe aviar se transmita entre humanos](https://www.elespanol.com/ciencia/salud/20241213/amenaza-silenciosa-gatos-pueden-ultimo-eslabon-gripe-aviar-transmita-humanos/908159611_0.html) (Elespanol.com)
 
 - [CDC finds no evidence of bird flu virus in California child](https://www.statnews.com/2024/12/12/bird-flu-california-toddler-cdc-no-evidence-virus/) (STAT)
@@ -397,6 +425,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-50 (dengue)
 
+- [RJ tem vacinação contra dengue na Maré e outros 13 locais](https://www.terra.com.br/visao-do-corre/pega-a-visao/rj-tem-vacinacao-contra-dengue-na-mare-e-outros-13-locais,9118ce1e4ca0c69834ba79efdc6f9166zl51ldvl.html) (Terra.com.br)
+
+- [Malaria Is Rising With a Vengeance, Killing Massive Numbers, Most in Africa](https://www.motherjones.com/environment/2024/12/malaria-rising-case-numbers-deaths-killer-africa-mosquito-nets-funding-shortfall/) (Mother Jones)
+
+- [Nova classe de antivirais pode ajudar a combater futuras pandemias](https://olhardigital.com.br/2024/12/13/medicina-e-saude/nova-classe-de-antivirais-pode-ajudar-a-combater-futuras-pandemias/) (Olhardigital.com.br)
+
 - [Epidemiology of Dengue - Puerto Rico, 2010-2024](https://www.cdc.gov/mmwr/volumes/73/wr/mm7349a1.htm) (Cdc.gov)
 
 - [Cost of dengue in Colombia: A systematic review](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012718) (Plos.org)
@@ -452,6 +486,8 @@ Source: [News API](https://newsapi.org/)
 - [Cientistas alertam para riscos de dengue, chikungunya e a Zika em Portugal](https://observador.pt/2024/12/09/cientistas-alertam-para-riscos-de-dengue-chikungunya-e-a-zika-em-portugal/) (Observador.pt)
 
 ## 24-50 (chikungunya)
+
+- [RJ tem vacinação contra dengue na Maré e outros 13 locais](https://www.terra.com.br/visao-do-corre/pega-a-visao/rj-tem-vacinacao-contra-dengue-na-mare-e-outros-13-locais,9118ce1e4ca0c69834ba79efdc6f9166zl51ldvl.html) (Terra.com.br)
 
 - [La Réunion va tester l’introduction de moustiques stériles pour limiter la dengue et le chikungunya](https://www.ouest-france.fr/region-la-reunion/la-reunion-va-tester-lintroduction-de-moustiques-steriles-pour-limiter-la-dengue-et-le-chikungunya-3e41b384-b86c-11ef-ae82-b812024140bb) (Ouest-France)
 
@@ -2579,8 +2615,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Time to Get Typhoid! Classic Oregon Trail Video Game to Get Movie Treatment](https://reactormag.com/time-to-get-typhoid-classic-oregon-trail-video-game-to-get-movie-treatment/) (Reactormag.com)
 
-- [What raises the risk of Typhoid among children living in crowded areas](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/what-raises-the-risk-of-typhoid-among-children-living-in-crowded-areas/articleshow/114660592.cms) (The Times of India)
-
 ## 24-44 (rabies)
 
 - [Instagram famous squirrel named Peanut euthanised by New York authorities](https://www.abc.net.au/news/2024-11-02/peanut-the-internet-famous-squirrel-euthanised-authorities/104552922) (ABC News (AU))
@@ -2827,8 +2861,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Ogun, SFH deploy 1,180 town announcers for mosquito nets distribution](https://punchng.com/ogun-sfh-deploy-1180-town-announcers-for-mosquito-nets-distribution/) (The Punch)
 
-- [Experts caution FG on malaria vaccine mass rollout](https://punchng.com/experts-caution-fg-on-malaria-vaccine-mass-rollout/) (The Punch)
-
 ## 24-44 (leptospirosis)
 
 - [Martín-Moreno, catedrático de la UV: "A las 72 horas de la inundación se agravan los riesgos de infección, hay que poner medidas ya"](https://www.meneame.net/m/actualidad/martin-moreno-catedratico-uv-72-horas-inundacion-agravan-riesgos) (Meneame.net)
@@ -2974,8 +3006,6 @@ Source: [News API](https://newsapi.org/)
 - [H5N1 virus isolated from infected dairy worker is 100% lethal in ferrets, but does not appear to be circulating in nature anymore](https://www.sciencedaily.com/releases/2024/10/241028131451.htm) (Science Daily)
 
 - [Flu season will complicate tracking spread of H5N1 avian influenza](https://www.statnews.com/2024/10/28/flu-season-presents-challenges-in-tracking-h5n1-avian-influenza-outbreak/) (STAT)
-
-- [Exclusive: Emails Reveal How Health Departments Struggle To Track Human Cases of Bird Flu](https://www.nakedcapitalism.com/2024/10/exclusive-emails-reveal-how-health-departments-struggle-to-track-human-cases-of-bird-flu.html) (Nakedcapitalism.com)
 
 ## 24-44 (dengue)
 
