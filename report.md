@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 12
-- **Last harvest:** 2024-12-15 07:06
-- **Most recent article:** 2024-12-14 04:44:06
+- **New articles in last harvest:** 6
+- **Last harvest:** 2024-12-15 19:05
+- **Most recent article:** 2024-12-14 12:33:00
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-45 | 24-46 | 24-47 | 24-48 | 24-49 | 24-50 | Total |
 |--|-|-|-|-|-|-|-|
-| h5n1 | 36 | 40 | 50 | 38 | 70 | 60 | 294 |
-| mpox | 61 | 62 | 76 | 26 | 20 | 25 | 270 |
-| malaria | 26 | 33 | 27 | 29 | 27 | 74 | 216 |
-| dengue | 31 | 36 | 28 | 25 | 10 | 32 | 162 |
-| measles | 3 | 33 | 11 | 6 | 9 | 10 | 72 |
-| rabies | 5 | 11 | 7 | 12 | 13 | 3 | 51 |
+| h5n1 | 34 | 40 | 50 | 38 | 70 | 61 | 293 |
+| mpox | 60 | 62 | 76 | 26 | 20 | 26 | 270 |
+| malaria | 26 | 33 | 27 | 29 | 27 | 75 | 217 |
+| dengue | 30 | 36 | 28 | 25 | 10 | 33 | 162 |
+| measles | 2 | 33 | 11 | 6 | 9 | 10 | 71 |
+| rabies | 3 | 11 | 7 | 12 | 13 | 3 | 49 |
 | pertussis | 3 | 8 | 5 | 1 | 4 | 6 | 27 |
 | chikungunya | 2 | 3 | 5 | 4 | 6 | 7 | 27 |
 | zika | 9 | 4 | 3 | 1 | 4 | 4 | 25 |
-| meningitis | 4 | 2 | 5 | 3 | 3 | 5 | 22 |
+| meningitis | 4 | 2 | 5 | 3 | 3 | 7 | 24 |
 | hpai | 4 | 4 | 4 | 0 | 2 | 4 | 18 |
 | leptospirosis | 10 | 3 | 0 | 2 | 0 | 3 | 18 |
 | typhoid | 1 | 1 | 3 | 1 | 0 | 1 | 7 |
@@ -70,6 +70,8 @@ Source: [News API](https://newsapi.org/)
 - [Understanding whooping cough](https://www.bostonherald.com/2024/12/08/understanding-whooping-cough/) (Boston Herald)
 
 ## 24-50 (mpox)
+
+- [Nieznana choroba w Afryce. Są pierwsze wyniki badań](https://wydarzenia.interia.pl/zagranica/news-nieznana-choroba-w-afryce-sa-pierwsze-wyniki-badan,nId,7875726) (Interia.pl)
 
 - [Mpox became a global health emergency for the second time in 2024](https://www.newscientist.com/article/2459809-mpox-became-a-global-health-emergency-for-the-second-time-in-2024/) (New Scientist)
 
@@ -123,6 +125,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-50 (meningitis)
 
+- [Patricia Pérez, emocionada, se rompe en '¡De viernes!' al narrar cómo su marido afronta la ceguera](https://www.elconfidencial.com/television/programas-tv/2024-12-14/patricia-perez-rompe-de-viernes-marido-ceguera-enfermedad_4023832/) (Elconfidencial.com)
+
+- [Patricia Pérez se rompe al hablar de la grave enfermedad de su marido: "Le apartó de todo"](https://www.mundodeportivo.com/elotromundo/television/20241214/1002371045/patricia-perez-rompe-hablar-grave-enfermedad-marido-luis-canut-le-aparto-dct.html) (Mundodeportivo.com)
+
 - [Luis Canut, marido de Patricia Pérez, cuenta cómo afronta su nueva vida: 'Estoy orgulloso de ser ciego'](https://www.hola.com/actualidad/20241214735764/luis-canut-declaraciones-orgulloso-ser-ciego/) (Hola)
 
 - [Luis Canut lanza un reivindicativo mensaje sobre su ceguera: «Estoy muy orgulloso de ser ciego, que es lo que soy»](https://www.abc.es/gente/luis-canut-lanza-reivindicativo-mensaje-sobre-ceguera-20241213184429-nt.html) (Www.abc.es)
@@ -156,6 +162,8 @@ Source: [News API](https://newsapi.org/)
 - [Mysterious New Disease X Is Officially Here, Potentially Airborne](https://www.newsbreak.com/share/3706705509412-mysterious-new-disease-x-is-officially-here-potentially-airborne?_f=app_share&amp;pd=0EuIdPvZ&amp;lang=en_US&amp;send_time=1733680315&amp;trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2224.48.0.25%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_local_strategy_24q4_exp-v11%2Cns_push_exp_rt_bucketv12-control%2Cns_foryou_rank_exp_24q4-v4%2Cns_foryou_blend_exp_24q4-v6%2Cns_foryou_model_exp_24q4-v8%2Cns_foryou_recall_exp_24q4-v7&amp;s=i2) (Newsbreak.com)
 
 ## 24-50 (malaria)
+
+- [Malattia del Congo, l’infettivologo: “La malaria contratta più volte determina l’anemia. Il caso di Lucca potrebbe essere influenza”](https://www.ilfattoquotidiano.it/2024/12/14/malattia-del-congo-linfettivologo-la-malaria-contratta-piu-volte-determina-lanemia-il-caso-di-lucca-potrebbe-essere-influenza/7800670/) (Ilfattoquotidiano.it)
 
 - [Nigeria accounts for 46% of malaria deaths – WHO](https://punchng.com/nigeria-accounts-for-46-of-malaria-deaths-who/) (The Punch)
 
@@ -325,6 +333,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-50 (h5n1)
 
+- [H5N1. Ozempic. Toxic drugs. Here are the health stories we're watching in 2025](https://www.cbc.ca/news/health/second-opinion-yearender-2024-1.7410395) (CBC News)
+
 - [For Wild Animals, the Bird Flu Disaster Is Already Here (Emily Anthes/New York Times)](https://www.memeorandum.com/241213/p70) (Memeorandum.com)
 
 - [Friday headlines: Future perfunct](https://themorningnews.org/p/friday-headlines-future-perfunct) (Themorningnews.org)
@@ -446,6 +456,8 @@ Source: [News API](https://newsapi.org/)
 - [Эксперт: без вакцинации ускоряется преодоление межвидового барьера птичьего гриппа](https://tass.ru/obschestvo/22608023) (Tass.ru)
 
 ## 24-50 (dengue)
+
+- [[Kolom Pakar] Prof Tjandra Yoga Aditama: Hujan dan Antisipasi Dengue](https://www.liputan6.com/health/read/5834610/kolom-pakar-prof-tjandra-yoga-aditama-hujan-dan-antisipasi-dengue) (Liputan6.com)
 
 - [Dengue: 1,342 cases, two deaths reported from Dec 3 to Dec 9, says Health DG](https://www.thestar.com.my/news/nation/2024/12/14/dengue-1342-cases-two-deaths-reported-from-dec-3-to-dec-9-says-health-dg) (The Star Online)
 
@@ -2227,10 +2239,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Expert Says Unlikely Peanut Had Rabies, Officials Might Have Been Impulsive](https://www.tmz.com/2024/11/05/peanut-squirrel-unlikely-had-rabies-expert/) (TMZ)
 
-- [Social Media Star Peanut the Squirrel Euthanized by New York State, Owners Plan to Take Legal Action](https://www.justjared.com/2024/11/03/social-media-star-peanut-the-squirrel-euthanized-by-new-york-state-owners-plan-to-take-legal-action/) (Just Jared)
-
-- [Why Instagram-famous 'Peanut the Squirrel' was euthanised by NY officials? The controversy that caught US elections by storm](https://economictimes.indiatimes.com/news/international/global-trends/why-instagram-famous-peanut-the-squirrel-was-euthanised-by-ny-officials-the-controversy-that-caught-us-elections-by-storm/articleshow/114913238.cms) (The Times of India)
-
 ## 24-45 (pertussis)
 
 - [Whooping cough found at NMU](https://www.wnmufm.org/health/2024-11-05/whooping-cough-found-at-nmu) (Wnmufm.org)
@@ -2361,8 +2369,6 @@ Source: [News API](https://newsapi.org/)
 
 - [More cases of new mpox strain detected in UK](https://news.sky.com/story/mpox-more-cases-of-new-clade-1b-strain-detected-in-uk-13248258) (Sky.com)
 
-- [Mpox cases in Congo may be stabilizing, but more vaccines needed to stamp out virus](https://www.voanews.com/a/mpox-cases-in-congo-may-be-stabilizing-but-more-vaccines-needed-to-stamp-out-virus-/7849399.html) (VOA News)
-
 ## 24-45 (meningitis)
 
 - [Signs of deadly infection passed through sharing straws following the death of 19-year-old after music festival](https://www.ladbible.com/news/health/meningitis-b-signs-deadly-infection-710455-20241107) (LADbible)
@@ -2378,8 +2384,6 @@ Source: [News API](https://newsapi.org/)
 - [Number of confirmed measles cases in New Brunswick rises to 25](https://www.cbc.ca/news/canada/new-brunswick/nov-9-measles-update-1.7379486) (CBC News)
 
 - [Trump May End Water Fluoridation On Day One, Will Consider Banning Vaccines](https://www.wonkette.com/p/trump-may-end-water-fluoridation) (Wonkette.com)
-
-- [Trump Thinks America Wants His Perversions (A.B. Stoddard/The Bulwark)](https://www.memeorandum.com/241103/p22) (Memeorandum.com)
 
 ## 24-45 (malaria)
 
@@ -2537,10 +2541,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Highly Pathogenic Avian Influenza A(H5N1) Virus Infection in Cats, South Korea, 2023](https://wwwnc.cdc.gov/eid/article/30/12/24-0154_article) (Cdc.gov)
 
-- [חזיר נדבק בשפעת העופות בארה"ב: "חשש מווירוס חדש ואלים שידביק בני אדם"](https://www.ynet.co.il/health/article/byho112vbkl) (Ynet)
-
-- [„Der Mensch ist bislang kein guter Wirt“](https://www.faz.net/aktuell/wissen/leben-gene/vogelgrippe-was-der-uebersprung-aufs-schwein-bedeutet-110083432.html) (Faz.net)
-
 ## 24-45 (dengue)
 
 - [Lei que prevê contratação de 800 agentes de saúde é publicada no DODF](https://www.metropoles.com/distrito-federal/lei-que-preve-contratacao-de-800-agentes-de-saude-e-publicada-no-dodf) (Metropoles.com)
@@ -2602,8 +2602,6 @@ Source: [News API](https://newsapi.org/)
 - [Baguio: Karaniwang mga sakit, dapat hindi dapat ipagwalang bahala – Dr. Brillantes](https://rpnradio.com/baguio-karaniwang-mga-sakit-dapat-hindi-dapat-ipagwalang-bahala-dr-brillantes/) (Rpnradio.com)
 
 - [Mosquito da dengue pica por cima da roupa? Veja a opinião de especialistas](https://catracalivre.com.br/saude-bem-estar/mosquito-da-dengue-pica-roupa/) (Catracalivre.com.br)
-
-- [Kolkata reports second dengue death in Bidhannagar amid declining cases](https://timesofindia.indiatimes.com/city/kolkata/kolkata-reports-second-dengue-death-in-bidhannagar-area-amid-declining-cases/articleshow/114910748.cms) (The Times of India)
 
 ## 24-45 (chikungunya)
 
