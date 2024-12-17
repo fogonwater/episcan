@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 6
-- **Last harvest:** 2024-12-17 07:07
-- **Most recent article:** 2024-12-16 06:58:31
+- **New articles in last harvest:** 48
+- **Last harvest:** 2024-12-17 19:05
+- **Most recent article:** 2024-12-16 18:44:27
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-45 | 24-46 | 24-47 | 24-48 | 24-49 | 24-50 | 24-51 | Total |
 |--|-|-|-|-|-|-|-|-|
-| h5n1 | 36 | 40 | 50 | 38 | 70 | 61 | 2 | 297 |
-| mpox | 61 | 62 | 76 | 26 | 20 | 26 | 3 | 274 |
-| malaria | 26 | 33 | 27 | 29 | 27 | 76 | 1 | 219 |
-| dengue | 31 | 36 | 28 | 25 | 10 | 33 | 4 | 167 |
-| measles | 3 | 33 | 11 | 6 | 9 | 10 | 0 | 72 |
-| rabies | 5 | 11 | 7 | 12 | 13 | 3 | 0 | 51 |
-| chikungunya | 2 | 3 | 5 | 4 | 6 | 7 | 1 | 28 |
+| mpox | 60 | 62 | 76 | 26 | 20 | 26 | 32 | 302 |
+| h5n1 | 34 | 40 | 50 | 38 | 70 | 61 | 7 | 300 |
+| malaria | 26 | 33 | 27 | 29 | 27 | 76 | 4 | 222 |
+| dengue | 30 | 36 | 28 | 25 | 10 | 33 | 12 | 174 |
+| measles | 2 | 33 | 11 | 6 | 9 | 10 | 0 | 71 |
+| rabies | 3 | 11 | 7 | 12 | 13 | 3 | 0 | 49 |
+| chikungunya | 2 | 3 | 5 | 4 | 6 | 7 | 2 | 29 |
 | pertussis | 3 | 8 | 5 | 1 | 4 | 6 | 0 | 27 |
+| meningitis | 4 | 2 | 5 | 3 | 3 | 7 | 1 | 25 |
 | zika | 9 | 4 | 3 | 1 | 4 | 4 | 0 | 25 |
-| meningitis | 4 | 2 | 5 | 3 | 3 | 7 | 0 | 24 |
-| hpai | 4 | 4 | 4 | 0 | 2 | 4 | 0 | 18 |
+| hpai | 4 | 4 | 4 | 0 | 2 | 4 | 2 | 20 |
 | leptospirosis | 10 | 3 | 0 | 2 | 0 | 3 | 0 | 18 |
 | typhoid | 1 | 1 | 3 | 1 | 0 | 1 | 0 | 7 |
 | yersinia | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 2 |
@@ -35,23 +35,123 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-51 (mpox)
 
+- [У Німеччині зафіксували спалах віспи мавп](https://ua.korrespondent.net/world/4740663-u-nimechchyni-zafiksuvaly-spalakh-vispy-mavp) (Korrespondent.net)
+
+- [Schule in NRW vorsorglich wegen Mpox geschlossen](https://www.faz.net/aktuell/gesellschaft/gesundheit/mpox-virus-nachgewiesen-schule-in-nrw-vorsorglich-geschlossen-110178836.html) (Faz.net)
+
+- [In Afrika angesteckt: Schule bei Köln wegen Mpox-Fällen geschlossen](https://www.n-tv.de/panorama/Schule-bei-Koeln-wegen-Mpox-Faellen-geschlossen-article25436142.html) (N-tv.de)
+
+- [Schule in Nordrhein-Westfalen wegen Mpox vorsorglich geschlossen](https://www.tagesschau.de/inland/mpox-faelle-102.html) (tagesschau.de)
+
+- [4 cases of new mpox variant reported in Germany](https://www.thestar.com.my/news/world/2024/12/17/4-cases-of-new-mpox-variant-reported-in-germany) (The Star Online)
+
+- [Två barn mpox-smittade – skola stänger](https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1316464) (Aftonbladet.se)
+
+- [Mpox: Förderschule in NRW wegen Mpox-Infektion vorerst geschlossen](https://www.zeit.de/gesundheit/2024-12/mpox-infektion-nrw-roesrath-foerderschule-schliessung) (Die Zeit)
+
+- [Gefährdungslage weiterhin „gering“: Behörden melden zweiten Nachweis von neuer Mpox-Variante in Deutschland](https://www.tagesspiegel.de/gesundheit/gefahrdungslage-weiterhin-gering-behorden-melden-zweiten-nachweis-von-neuer-mpox-variante-in-deutschland-12884599.html) (Der Tagesspiegel)
+
+- [Mpox cases in Uganda surpass 1,000 mark: official](https://www.thestar.com.my/news/world/2024/12/17/mpox-cases-in-uganda-surpass-1000-mark-official) (The Star Online)
+
+- [Schule in NRW vorsorglich wegen Mpox geschlossen](https://www.faz.net/aktuell/gesellschaft/gesundheit/schule-in-nrw-vorsorglich-wegen-mpox-geschlossen-110178836.html) (Faz.net)
+
+- [Nach Infektionen von Kindern - Schule in NRW wegen Affenpocken geschlossen!](https://www.bild.de/news/inland/nach-infektionen-von-kindern-schule-in-nrw-wegen-affenpocken-geschlossen-67604c9ce91835077f84c5f9) (Bild)
+
+- [Schule in NRW wegen Mpox-Virus geschlossen](https://www.welt.de/vermischtes/article254890302/Nach-Infektion-von-zwei-Kindern-Schule-in-NRW-wegen-Mpox-Virus-geschlossen.html) (DIE WELT)
+
+- [Wegen Mpox – Behörden schließen Schule nach Infektion von zwei Kindern](https://www.welt.de/vermischtes/article254890302/NRW-Wegen-Mpox-Behoerden-schliessen-Schule-nach-Infektion-von-zwei-Kindern.html) (DIE WELT)
+
+- [Bis Freitag - Wegen Mpox: Schule in NRW vorsorglich geschlossen](https://www.focus.de/panorama/welt/wegen-mpox-schule-in-nrw-vorsorglich-geschlossen_id_260566948.html) (Focus)
+
+- [Krankheiten: Wegen Mpox: Schule in NRW vorsorglich geschlossen](https://www.stern.de/panorama/wissen/krankheiten--wegen-mpox--schule-in-nrw-vorsorglich-geschlossen-35314002.html) (STERN.de)
+
+- [Neue Mpox-Variante in Deutschland: Übertragung und Symptome](https://www.morgenpost.de/panorama/article401543127/mpox-variante-virus-symptome-deutschland-krankheit.html) (Berliner Morgenpost)
+
+- [Bavarian Nordic enters licence, manufacturing agreement for its mpox vaccine with Serum Institute of India](https://www.thehindubusinessline.com/news/bavarian-nordic-enters-licence-manufacturing-agreement-for-its-mpox-caccine-with-serum-institute-of-india/article68992537.ece) (BusinessLine)
+
+- [Virus: Neue Mpox-Variante in Deutschland breitet sich aus – Familie betroffen](https://www.stern.de/gesundheit/mpox-in-deutschland--mehr-ansteckungen-mit-neuer-variante-nachgewiesen-35314584.html) (STERN.de)
+
+- [Weitere Mpox-Infektionen in Deutschland](https://www.dw.com/de/weitere-mpox-infektionen-in-deutschland/a-71069676) (DW (English))
+
+- [Weitere Nachweise neuer Mpox-Variante in Deutschland](https://www.tagesschau.de/inland/gesellschaft/mpox-faelle-100.html) (tagesschau.de)
+
+- [Neue Mpox-Variante in Deutschland – Familie infiziert](https://www.morgenpost.de/panorama/article407910442/neue-mpox-variante-in-deutschland-familie-infiziert.html) (Berliner Morgenpost)
+
+- [Neue Mpox-Variante breitet sich in Deutschland aus – Familie mit Schulkindern in Quarantäne](https://www.welt.de/gesundheit/article254886236/Mpox-Neue-Variante-breitet-sich-in-Deutschland-aus-Familie-mit-Schulkindern-in-Quarantaene.html) (DIE WELT)
+
+- [Behörden melden zweiten Nachweis von neuer Mpox-Variante in Deutschland](https://www.stern.de/news/behoerden-melden-zweiten-nachweis-von-neuer-mpox-variante-in-deutschland-35314248.html) (STERN.de)
+
+- [Bavarian Nordic inks Mpox vaccine deal with Serum Institute](https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/bavarian-nordic-inks-mpox-vaccine-deal-with-serum-institute/articleshow/116367507.cms) (The Times of India)
+
+- [Krankheiten: Wegen Mpox: Schule in NRW vorsorglich geschlossen](https://www.tagesspiegel.de/wissen/krankheiten-wegen-mpox-schule-in-nrw-vorsorglich-geschlossen-12882307.html) (Der Tagesspiegel)
+
+- [Krankheiten: Weitere Fälle neuer Mpox-Variante in Deutschland](https://www.tagesspiegel.de/wissen/krankheiten-weitere-falle-neuer-mpox-variante-in-deutschland-12882307.html) (Der Tagesspiegel)
+
+- [Krankheiten: Weitere Fälle neuer Mpox-Variante in Deutschland](https://www.zeit.de/news/2024-12/16/weitere-faelle-neuer-mpox-variante-in-deutschland) (Die Zeit)
+
+- [Krankheiten: Weitere Fälle neuer Mpox-Variante in Deutschland](https://www.stern.de/panorama/wissen/krankheiten--weitere-faelle-neuer-mpox-variante-in-deutschland-35314002.html) (STERN.de)
+
+- [Person aus NRW steckte sich in Afrika an - Ganze Familie an Mpox-Virus erkrankt](https://www.bild.de/regional/nordrhein-westfalen/mpox-virus-in-nrw-ganze-familie-in-quarantaene-vier-personen-erkrankt-675ff134d4ebe04d116410ad) (Bild)
+
 - [Auf Afrika-Reise angesteckt - Neue Mpox-Variante in NRW nachgewiesen - Familie in Quarantäne](https://www.focus.de/gesundheit/in-nrw-erster-fall-der-neuen-mpox-variante-nachgewiesen-familie-in-quarantaene_id_260564612.html) (Focus)
 
 - [Bavarian Nordic Enters License and Manufacturing Agreement for its Mpox Vaccine with Serum Institute of India](https://www.globenewswire.com/news-release/2024/12/16/2997224/0/en/Bavarian-Nordic-Enters-License-and-Manufacturing-Agreement-for-its-Mpox-Vaccine-with-Serum-Institute-of-India.html) (GlobeNewswire)
 
 - [Bavarian Nordic indgår licens- og produktionsaftale omkring mpox-vaccine med Serum Institute of India](https://www.globenewswire.com/news-release/2024/12/16/2997224/0/da/Bavarian-Nordic-indg%C3%A5r-licens-og-produktionsaftale-omkring-mpox-vaccine-med-Serum-Institute-of-India.html) (GlobeNewswire)
 
+## 24-51 (meningitis)
+
+- [Luis Canut cuenta lo que sufre su mujer Patricia Pérez desde que se quedó ciego](https://www.bekia.es/celebrities/noticias/luis-canut-cuenta-sufre-mujer-patricia-perez-ciego/) (Bekia.es)
+
 ## 24-51 (malaria)
+
+- [IISER Pune Scientist Recognized by EMBO for Malaria Drug Resistance Research](https://timesofindia.indiatimes.com/education/news/iiser-pune-scientist-recognized-by-embo-for-malaria-drug-resistance-research/articleshow/116369416.cms) (The Times of India)
+
+- [After Long Decline, Malaria Cases Rising Amid Worsening Floods](https://e360.yale.edu/digest/climate-change-malaria) (Yale.edu)
+
+- [Mücken als Impf-Helfer gegen Malaria](https://www.telepolis.de/features/Muecken-als-Impf-Helfer-gegen-Malaria-10199119.html) (Telepolis.de)
 
 - [¡América rompe 'malaria', hace historia y es tricampeón de Liga MX!](https://www.excelsior.com.mx/adrenalina/america-rompe-malaria-hace-historia-y-es-tricampeon-de-liga-mx/1689851) (Excelsior.com.mx)
 
+## 24-51 (hpai)
+
+- [Bird Flu Mutation Raises Pandemic Red Flags](https://www.shtfplan.com/member-exclusive/bird-flu-mutation-raises-pandemic-red-flags) (Shtfplan.com)
+
+- [Helport AI to Participate in Fireside Chat with Alliance Global Partners on December 17, 2024](https://www.globenewswire.com/news-release/2024/12/16/2997534/0/en/Helport-AI-to-Participate-in-Fireside-Chat-with-Alliance-Global-Partners-on-December-17-2024.html) (GlobeNewswire)
+
 ## 24-51 (h5n1)
+
+- [Bird Flu Mutation Raises Pandemic Red Flags](https://www.shtfplan.com/member-exclusive/bird-flu-mutation-raises-pandemic-red-flags) (Shtfplan.com)
+
+- [Ces cas mortels de grippe aviaire chez des chats inquiètent les chercheurs](https://www.futura-sciences.com/sante/actualites/grippe-aviaire-ces-cas-mortels-grippe-aviaire-chez-chats-inquietent-chercheurs-118281/) (Futura)
+
+- [Gripe aviária: regiões são ‘bloqueadas’ na Inglaterra](https://olhardigital.com.br/2024/12/16/medicina-e-saude/gripe-aviaria-regioes-sao-bloqueadas-na-inglaterra/) (Olhardigital.com.br)
+
+- [충남 청양 산란계 농장서 고병원성 조류인플루엔자(AI) 발생](https://www.khan.co.kr/article/202412161940001) (Khan.co.kr)
+
+- [Вирус гриппа А сохранил заразность в сыром коровьем молоке на несколько дней](https://nplus1.ru/news/2024/12/16/influenza-in-raw-milk) (Nplus1.ru)
 
 - [2 San Joaquin County farmworkers infected with bird flu after exposure to sick animals](https://www.recordnet.com/story/news/healthcare/2024/12/15/2-san-joaquin-county-farmworkers-test-positive-for-bird-flu/76997469007/) (Stockton Record)
 
 - [« La gestion américaine de la crise du virus H5N1 met, et va continuer à mettre, le monde entier en danger »](https://www.lemonde.fr/idees/article/2024/12/15/la-gestion-americaine-de-la-crise-du-virus-h5n1-met-et-va-continuer-a-mettre-le-monde-entier-en-danger_6449393_3232.html) (Le Monde)
 
 ## 24-51 (dengue)
+
+- [Butantan pede à Anvisa registro da sua vacina contra a dengue, a 1ª do mundo em dose única](https://ultimosegundo.ig.com.br/parceiros/gps-brasilia/2024-12-16/butantan-pede-a-anvisa-registro-da-sua-vacina-contra-a-dengue--a-1-do-mundo-em-dose-unica.html) (Ig.com.br)
+
+- [Instituto Butantan pede registo de vacina contra a dengue a órgão regulador do Brasil](https://observador.pt/2024/12/16/instituto-butantan-pede-registo-de-vacina-contra-a-dengue-a-orgao-regulador-do-brasil/) (Observador.pt)
+
+- [Instituto Butantan entra com pedido de registro da vacina contra a dengue na Anvisa](https://valor.globo.com/brasil/noticia/2024/12/16/instituto-butantan-entra-com-pedido-de-registro-da-vacina-contra-a-dengue-na-anvisa.ghtml) (Globo)
+
+- [Butantan pede aprovação de vacina da dengue em dose única à Anvisa](https://www.infomoney.com.br/saude/butantan-pede-aprovacao-de-vacina-da-dengue-em-dose-unica-a-anvisa/) (InfoMoney)
+
+- [Butantan pede à Anvisa registro da sua vacina contra a dengue, a 1ª do mundo em dose única](https://www.terra.com.br/vida-e-estilo/saude/butantan-pede-a-anvisa-registro-da-sua-vacina-contra-a-dengue-a-1-do-mundo-em-dose-unica,22a5c095f0ce11b6cb0057b6f0bca175va6sc24k.html) (Terra.com.br)
+
+- [Dengue: Butantan solicita registro de vacina em dose única à Anvisa](https://veja.abril.com.br/saude/dengue-butantan-solicita-registro-de-vacina-em-dose-unica-a-anvisa) (Abril.com.br)
+
+- [Inteligencia Artificial contra el dengue](https://noticias.perfil.com/noticias/medicina/ia-contra-el-dengue.phtml) (Perfil.com)
+
+- [Butantan envia à Anvisa pedido de aprovação da vacina contra dengue](https://www.metropoles.com/saude/butantan-pede-anvisa-vacina-dengue) (Metropoles.com)
 
 - [Saúde quer levar vacina contra dengue para dentro das escolas em 2025](https://www.metropoles.com/distrito-federal/saude-quer-levar-vacina-contra-dengue-para-dentro-das-escolas-em-2025) (Metropoles.com)
 
@@ -62,6 +162,8 @@ Source: [News API](https://newsapi.org/)
 - [OMS: enfrenta América la mayor epidemia de dengue en 44 años](https://www.jornada.com.mx/2024/12/15/politica/009n1pol) (Jornada.com.mx)
 
 ## 24-51 (chikungunya)
+
+- [Cyclone à Mayotte : Choléra, chikungunya, hépatite A… L’île menacée par les épidémies](https://www.20minutes.fr/sante/4129423-20241216-cyclone-mayotte-cholera-chikungunya-hepatite-ile-menacee-epidemies) (20 Minutes)
 
 - [TWiV 1175: A hitchiker's guide to virology](https://www.microbe.tv/twiv/twiv-1175/) (Microbe.tv)
 
@@ -2273,10 +2375,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Expert Says Unlikely Peanut Had Rabies, Officials Might Have Been Impulsive](https://www.tmz.com/2024/11/05/peanut-squirrel-unlikely-had-rabies-expert/) (TMZ)
 
-- [Social Media Star Peanut the Squirrel Euthanized by New York State, Owners Plan to Take Legal Action](https://www.justjared.com/2024/11/03/social-media-star-peanut-the-squirrel-euthanized-by-new-york-state-owners-plan-to-take-legal-action/) (Just Jared)
-
-- [Why Instagram-famous 'Peanut the Squirrel' was euthanised by NY officials? The controversy that caught US elections by storm](https://economictimes.indiatimes.com/news/international/global-trends/why-instagram-famous-peanut-the-squirrel-was-euthanised-by-ny-officials-the-controversy-that-caught-us-elections-by-storm/articleshow/114913238.cms) (The Times of India)
-
 ## 24-45 (pertussis)
 
 - [Whooping cough found at NMU](https://www.wnmufm.org/health/2024-11-05/whooping-cough-found-at-nmu) (Wnmufm.org)
@@ -2407,8 +2505,6 @@ Source: [News API](https://newsapi.org/)
 
 - [More cases of new mpox strain detected in UK](https://news.sky.com/story/mpox-more-cases-of-new-clade-1b-strain-detected-in-uk-13248258) (Sky.com)
 
-- [Mpox cases in Congo may be stabilizing, but more vaccines needed to stamp out virus](https://www.voanews.com/a/mpox-cases-in-congo-may-be-stabilizing-but-more-vaccines-needed-to-stamp-out-virus-/7849399.html) (VOA News)
-
 ## 24-45 (meningitis)
 
 - [Signs of deadly infection passed through sharing straws following the death of 19-year-old after music festival](https://www.ladbible.com/news/health/meningitis-b-signs-deadly-infection-710455-20241107) (LADbible)
@@ -2424,8 +2520,6 @@ Source: [News API](https://newsapi.org/)
 - [Number of confirmed measles cases in New Brunswick rises to 25](https://www.cbc.ca/news/canada/new-brunswick/nov-9-measles-update-1.7379486) (CBC News)
 
 - [Trump May End Water Fluoridation On Day One, Will Consider Banning Vaccines](https://www.wonkette.com/p/trump-may-end-water-fluoridation) (Wonkette.com)
-
-- [Trump Thinks America Wants His Perversions (A.B. Stoddard/The Bulwark)](https://www.memeorandum.com/241103/p22) (Memeorandum.com)
 
 ## 24-45 (malaria)
 
@@ -2583,10 +2677,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Highly Pathogenic Avian Influenza A(H5N1) Virus Infection in Cats, South Korea, 2023](https://wwwnc.cdc.gov/eid/article/30/12/24-0154_article) (Cdc.gov)
 
-- [חזיר נדבק בשפעת העופות בארה"ב: "חשש מווירוס חדש ואלים שידביק בני אדם"](https://www.ynet.co.il/health/article/byho112vbkl) (Ynet)
-
-- [„Der Mensch ist bislang kein guter Wirt“](https://www.faz.net/aktuell/wissen/leben-gene/vogelgrippe-was-der-uebersprung-aufs-schwein-bedeutet-110083432.html) (Faz.net)
-
 ## 24-45 (dengue)
 
 - [Lei que prevê contratação de 800 agentes de saúde é publicada no DODF](https://www.metropoles.com/distrito-federal/lei-que-preve-contratacao-de-800-agentes-de-saude-e-publicada-no-dodf) (Metropoles.com)
@@ -2648,8 +2738,6 @@ Source: [News API](https://newsapi.org/)
 - [Baguio: Karaniwang mga sakit, dapat hindi dapat ipagwalang bahala – Dr. Brillantes](https://rpnradio.com/baguio-karaniwang-mga-sakit-dapat-hindi-dapat-ipagwalang-bahala-dr-brillantes/) (Rpnradio.com)
 
 - [Mosquito da dengue pica por cima da roupa? Veja a opinião de especialistas](https://catracalivre.com.br/saude-bem-estar/mosquito-da-dengue-pica-roupa/) (Catracalivre.com.br)
-
-- [Kolkata reports second dengue death in Bidhannagar amid declining cases](https://timesofindia.indiatimes.com/city/kolkata/kolkata-reports-second-dengue-death-in-bidhannagar-area-amid-declining-cases/articleshow/114910748.cms) (The Times of India)
 
 ## 24-45 (chikungunya)
 

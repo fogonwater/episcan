@@ -1,8 +1,873 @@
 {
-  "last_updated": "2024-12-17 07:07",
-  "count_articles_total": 1182,
-  "count_articles_new": 6,
+  "last_updated": "2024-12-17 19:05",
+  "count_articles_total": 1223,
+  "count_articles_new": 48,
   "articles": [
+    {
+      "id": 16419,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "GPS Bras\u00edlia, GPS Bras\u00edlia",
+      "title": "Butantan pede \u00e0 Anvisa registro da sua vacina contra a dengue, a 1\u00aa do mundo em dose \u00fanica",
+      "description": "O Instituto Butantan submeteu \u00e0 Ag\u00eancia Nacional de Vigil\u00e2ncia Sanit\u00e1ria (Anvisa) o pedido de registro...",
+      "url": "https://ultimosegundo.ig.com.br/parceiros/gps-brasilia/2024-12-16/butantan-pede-a-anvisa-registro-da-sua-vacina-contra-a-dengue--a-1-do-mundo-em-dose-unica.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/f0/q8/p7/f0q8p73eovlda0qysdefd8w1y.jpg",
+      "publishedAt": "2024-12-16 18:44:27",
+      "content": "O Instituto Butantan submeteu \u00e0 Ag\u00eancia Nacional de Vigil\u00e2ncia Sanit\u00e1ria (Anvisa) o pedido de registro da vacina contra a dengue , a Butantan-DV. A solicita\u00e7\u00e3o foi feita nesta segunda-feira (16). Se \u2026 [+3908 chars]",
+      "retrievedAt": "2024-12-17 19:05:54.283550",
+      "internal_id": "03839a812edd9a3c753901ca1e5e64f937b88bb8fef0a5a70ef420285b17bc08",
+      "publishedAtLabel": "Dec 16"
+    },
+    {
+      "id": 16453,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Korrespondent.net",
+      "author": "1",
+      "title": "\u0423 \u041d\u0456\u043c\u0435\u0447\u0447\u0438\u043d\u0456 \u0437\u0430\u0444\u0456\u043a\u0441\u0443\u0432\u0430\u043b\u0438 \u0441\u043f\u0430\u043b\u0430\u0445 \u0432\u0456\u0441\u043f\u0438 \u043c\u0430\u0432\u043f",
+      "description": "\u041d\u0430\u0440\u0430\u0437\u0456 \u0440\u0438\u0437\u0438\u043a \u043f\u043e\u0434\u0430\u043b\u044c\u0448\u043e\u0433\u043e \u043f\u043e\u0448\u0438\u0440\u0435\u043d\u043d\u044f \u0432\u0456\u0440\u0443\u0441\u0443 \u0437\u0430\u043b\u0438\u0448\u0430\u0454\u0442\u044c\u0441\u044f \u043d\u0438\u0437\u044c\u043a\u0438\u043c, \u043e\u0441\u043a\u0456\u043b\u044c\u043a\u0438 Mpox \u043f\u0435\u0440\u0435\u0434\u0430\u0454\u0442\u044c\u0441\u044f \u043b\u0438\u0448\u0435 \u0447\u0435\u0440\u0435\u0437 \u0442\u0456\u0441\u043d\u0438\u0439 \u0444\u0456\u0437\u0438\u0447\u043d\u0438\u0439 \u043a\u043e\u043d\u0442\u0430\u043a\u0442.",
+      "url": "https://ua.korrespondent.net/world/4740663-u-nimechchyni-zafiksuvaly-spalakh-vispy-mavp",
+      "urlToImage": "https://kor.ill.in.ua/m/1260x900/4277344.jpg",
+      "publishedAt": "2024-12-16 18:39:00",
+      "content": "- Mpox , . , . . Bild , 16 . , Klade 1b. . . . , , Mpox . . : , . , . , 14 , . clade 1b. . .net Telegram WhatsApp. https://t.me/korrespondentnetWhatsApp",
+      "retrievedAt": "2024-12-17 19:05:56.142075",
+      "internal_id": "f5395d37726b1676e12da841ca9aafb84a5d69217c683c2813ea917da2e5141a",
+      "publishedAtLabel": "Dec 16"
+    },
+    {
+      "id": 16415,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Observador.pt",
+      "author": "Ag\u00eancia Lusa",
+      "title": "Instituto Butantan pede registo de vacina contra a dengue a \u00f3rg\u00e3o regulador do Brasil",
+      "description": "O Instituto Butantan desenvolveu uma vacina contra a dengue que ser\u00e1 \u00fanica no mundo a ser aplicada em dose \u00fanica. O Brasil registou este ano mais de 6 milh\u00f5es e meio de casos da doen\u00e7a.",
+      "url": "https://observador.pt/2024/12/16/instituto-butantan-pede-registo-de-vacina-contra-a-dengue-a-orgao-regulador-do-brasil/",
+      "urlToImage": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1124%3Anowe%3A0%3A104%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2021%2F07%2F25120256%2F30453674.jpg?layer=obstop:T",
+      "publishedAt": "2024-12-16 17:52:31",
+      "content": "O Instituto Butantan anunciou esta segunda-feira que entregou a documenta\u00e7\u00e3o para a submiss\u00e3o do registo de uma vacina contra a dengue chamada Butantan-DV \u00e0 Ag\u00eancia Nacional de Vigil\u00e2ncia Sanit\u00e1ria (\u2026 [+2497 chars]",
+      "retrievedAt": "2024-12-17 19:05:54.227412",
+      "internal_id": "1d8720cae768f5dec76fc107e1aaa08147570c6d17bda416bc8e8d9ace62d11b",
+      "publishedAtLabel": "Dec 16"
+    },
+    {
+      "id": 16421,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Instituto Butantan entra com pedido de registro da vacina contra a dengue na Anvisa",
+      "description": "Se aprovada, a Butantan-DV ser\u00e1 a primeira vacina do mundo em dose \u00fanica contra a dengue",
+      "url": "https://valor.globo.com/brasil/noticia/2024/12/16/instituto-butantan-entra-com-pedido-de-registro-da-vacina-contra-a-dengue-na-anvisa.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/V1UqmGPMlfyLGLep7uZOf_Wmfgg=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2024/c/A/UXCddZSXAHr4wkaY3yWg/vacina-dengue-11.jpg",
+      "publishedAt": "2024-12-16 17:51:22",
+      "content": "O Instituto Butantan, \u00f3rg\u00e3o ligado \u00e0 Secretaria de Estado da Sa\u00fade, concluiu nesta segunda-feira (16) o pedido de registro \u00e0 Anvisa de sua candidata \u00e0 vacina contra a dengue, a Butantan-DV. O Institu\u2026 [+2947 chars]",
+      "retrievedAt": "2024-12-17 19:05:54.297141",
+      "internal_id": "885111825ce1838d49be98687da2f0ff4e4a6f0e7c606713a6aca26396c28b3d",
+      "publishedAtLabel": "Dec 16"
+    },
+    {
+      "id": 16428,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Faz.net",
+      "author": "dpa",
+      "title": "Schule in NRW vorsorglich wegen Mpox geschlossen",
+      "description": "Bei einer Familie im nordrhein-westf\u00e4lischen R\u00f6srath ist die neueste Variante des Mpox-Virus nachgewiesen worden. Eine Person hatte sich mutma\u00dflich bei einer Reise nach Afrika infiziert.",
+      "url": "https://www.faz.net/aktuell/gesellschaft/gesundheit/mpox-virus-nachgewiesen-schule-in-nrw-vorsorglich-geschlossen-110178836.html",
+      "urlToImage": "https://media1.faz.net/ppmedia/aktuell/gesellschaft/1463696161/1.10178843/facebook_teaser/aufnahme-von-partikeln-des.jpg",
+      "publishedAt": "2024-12-16 17:15:34",
+      "content": "Kontaktpersonen aus schulischem und beruflichem Umfeld ermittelt Zuvor war eine Infektion mit der sogenannten Klade 1b bei vier Mitgliedern einer im Kreis wohnenden Familie, darunter zwei Schulkinde\u2026 [+2993 chars]",
+      "retrievedAt": "2024-12-17 19:05:55.925572",
+      "internal_id": "a4728ecfe2c062a07e01c1e8c733c856cf56967130270d8a11703739a381b53e",
+      "publishedAtLabel": "Dec 16"
+    },
+    {
+      "id": 16417,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "info-money",
+      "source_name": "InfoMoney",
+      "author": "Gabriel",
+      "title": "Butantan pede aprova\u00e7\u00e3o de vacina da dengue em dose \u00fanica \u00e0 Anvisa",
+      "description": "Se aprovado, o Butantan afirma que poder\u00e1 produzir at\u00e9 100 milh\u00f5es de doses nos pr\u00f3ximos tr\u00eas anos, com a expectativa de disponibilizar um milh\u00e3o j\u00e1 em 2025 The post Butantan pede aprova\u00e7\u00e3o de vacina da dengue em dose \u00fanica \u00e0 Anvisa appeared first on InfoMone\u2026",
+      "url": "https://www.infomoney.com.br/saude/butantan-pede-aprovacao-de-vacina-da-dengue-em-dose-unica-a-anvisa/",
+      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2024/10/aedes-mosquito-c-niaid.webp?quality=70",
+      "publishedAt": "2024-12-16 17:12:58",
+      "content": "O Instituto Butantan apresentou nesta segunda-feira (16) um pedido \u00e0 Ag\u00eancia Nacional de Vigil\u00e2ncia Sanit\u00e1ria (Anvisa) para o registro de sua nova vacina contra a dengue, a Butantan-DV. O imunizante \u2026 [+2113 chars]",
+      "retrievedAt": "2024-12-17 19:05:54.264384",
+      "internal_id": "31de3737d4e8d25f7d5c796d74ca485f4ba3d61d5fe72276888269b94a319069",
+      "publishedAtLabel": "Dec 16"
+    },
+    {
+      "id": 16450,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "N-tv.de",
+      "author": "n-tv NACHRICHTEN",
+      "title": "In Afrika angesteckt: Schule bei K\u00f6ln wegen Mpox-F\u00e4llen geschlossen",
+      "description": "Nach einem ersten Nachweis im Oktober gibt es nun weitere F\u00e4lle von Infektionen mit der neuen Mpox-Variante 1b in Deutschland. Betroffen ist eine Familie mit Schulkindern. Eine F\u00f6rderschule in Nordrhein-Westfalen wird deswegen nun vorsorglich geschlossen.",
+      "url": "https://www.n-tv.de/panorama/Schule-bei-Koeln-wegen-Mpox-Faellen-geschlossen-article25436142.html",
+      "urlToImage": "https://bilder3.n-tv.de/img/incoming/crop25198178/7751326598-cImg_16_9-w1200/57c1d3626a7ac6de276ab1c20b3c4751.jpg",
+      "publishedAt": "2024-12-16 17:02:36",
+      "content": "Nach einem ersten Nachweis im Oktober gibt es nun weitere F\u00e4lle von Infektionen mit der neuen Mpox-Variante 1b in Deutschland. Betroffen ist eine Familie mit Schulkindern. Eine F\u00f6rderschule in Nordrh\u2026 [+3437 chars]",
+      "retrievedAt": "2024-12-17 19:05:56.116623",
+      "internal_id": "caaa4bdb51028d15ba38d183954a482abd9f4c8da0287edaf511eaa6ceb2f5bd",
+      "publishedAtLabel": "Dec 16"
+    },
+    {
+      "id": 16416,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Estad\u00e3o Conte\u00fado",
+      "title": "Butantan pede \u00e0 Anvisa registro da sua vacina contra a dengue, a 1\u00aa do mundo em dose \u00fanica",
+      "description": "Com a aprova\u00e7\u00e3o, o Instituto poder\u00e1 disponibilizar cerca de 100 milh\u00f5es de doses para a rede p\u00fablica de sa\u00fade do Brasil",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/butantan-pede-a-anvisa-registro-da-sua-vacina-contra-a-dengue-a-1-do-mundo-em-dose-unica,22a5c095f0ce11b6cb0057b6f0bca175va6sc24k.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/12/16/539944666-dou4nt5qivcvzk6czqqfehxjw4.jpg",
+      "publishedAt": "2024-12-16 17:00:54",
+      "content": "O Instituto Butantan submeteu \u00e0 Ag\u00eancia Nacional de Vigil\u00e2ncia Sanit\u00e1ria (Anvisa) o pedido de registro da vacina contra a dengue, a Butantan-DV. A solicita\u00e7\u00e3o foi feita nesta segunda-feira, 16. Se ap\u2026 [+3733 chars]",
+      "retrievedAt": "2024-12-17 19:05:54.249770",
+      "internal_id": "9a8b27324ee76b89d3e79c292e781f3764eb79d34a3efe45f6cba242ad6d518b",
+      "publishedAtLabel": "Dec 16"
+    },
+    {
+      "id": 16426,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "20 Minutes",
+      "author": "Diane Regny (20 Minutes)",
+      "title": "Cyclone \u00e0 Mayotte : Chol\u00e9ra, chikungunya, h\u00e9patite A\u2026 L\u2019\u00eele menac\u00e9e par les \u00e9pid\u00e9mies",
+      "description": "Priv\u00e9s d\u2019eau potable, d\u2019abris et d\u2019un syst\u00e8me de soin fonctionnel, les Mahorais risquent d\u2019\u00eatre touch\u00e9s par des \u00e9pid\u00e9mies apr\u00e8s le passage du cyclone Chido",
+      "url": "https://www.20minutes.fr/sante/4129423-20241216-cyclone-mayotte-cholera-chikungunya-hepatite-ile-menacee-epidemies",
+      "urlToImage": "https://img.20mn.fr/1E7S1Qe4S_a9NQcn5h4rASk/1444x920_this-photograph-shows-a-pile-of-debris-of-metal-sheets-and-wood-after-the-cyclone-chido-hit-france-s-indian-ocean-territory-of-mayotte-on-december-14-2024-in-the-capital-mamoudzou-at-least-14-people-were-killed-in-mayotte-when-a-fierce-cyclone-battered-the-french-indian-ocean-territory-authorities-said-on-december-15-2024-with-officials-warning-it-will-take-days-to-know-the-full-toll-photo-by-daniel-mouhamadi-afp",
+      "publishedAt": "2024-12-16 16:53:10",
+      "content": "Apr\u00e8s la pluie, les \u00e9pid\u00e9mies ? Larchipel de Mayotte a \u00e9t\u00e9 d\u00e9vast\u00e9 par le cyclone Chido, samedi. Des rafales \u00e0 plus de 220 km/h ont arrach\u00e9 les toits, d\u00e9vast\u00e9s les bidonvilles et d\u00e9racin\u00e9 arbres et p\u2026 [+3962 chars]",
+      "retrievedAt": "2024-12-17 19:05:55.550593",
+      "internal_id": "61d6d44665e89b5af6d783121051da569ff823e2bb84e1b9543665cd6103694a",
+      "publishedAtLabel": "Dec 16"
+    },
+    {
+      "id": 16430,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "tagesschau.de",
+      "author": null,
+      "title": "Schule in Nordrhein-Westfalen wegen Mpox vorsorglich geschlossen",
+      "description": "In Nordrhein-Westfalen ist eine Schule geschlossen worden, nachdem bei zwei Sch\u00fclern eine Infektion mit dem Mpox-Virus festgestellt wurde. Laut Beh\u00f6rden befinden sich die Infizierten in Quarant\u00e4ne, ihre Krankheitsverl\u00e4ufe seien mild.",
+      "url": "https://www.tagesschau.de/inland/mpox-faelle-102.html",
+      "urlToImage": "https://images.tagesschau.de/image/85d5963d-7abd-466a-9e89-358b002142ec/AAABkXBZL-o/AAABkZLhkrw/16x9-1280/mpox-132.jpg",
+      "publishedAt": "2024-12-16 16:39:10",
+      "content": "Stand: 16.12.2024 17:39 Uhr In Nordrhein-Westfalen ist eine Schule geschlossen worden, nachdem bei zwei Sch\u00fclern eine Infektion mit dem Mpox-Virus festgestellt wurde. Laut Beh\u00f6rden befinden sich die\u2026 [+2642 chars]",
+      "retrievedAt": "2024-12-17 19:05:55.940243",
+      "internal_id": "8fd9393ecf8c50d1a3f1fa8aa2844cbe79d024b03cd9af9de049dee140e838f5",
+      "publishedAtLabel": "Dec 16"
+    },
+    {
+      "id": 16454,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Chu Yi",
+      "title": "4 cases of new mpox variant reported in Germany",
+      "description": "BERLIN, Dec. 16 (Xinhua) -- German authorities reported on Monday four cases of the new Clade Ib variant of the mpox virus, including two infections in school-age children, in a western community near Cologne. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2024/12/17/4-cases-of-new-mpox-variant-reported-in-germany",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2024-12-16 16:27:00",
+      "content": "BERLIN, Dec. 16 (Xinhua) -- German authorities reported on Monday four cases of the new Clade Ib variant of the mpox virus, including two infections in school-age children, in a western community nea\u2026 [+1054 chars]",
+      "retrievedAt": "2024-12-17 19:05:56.149382",
+      "internal_id": "24bf34c62dd2f373504b2ec6e9cf65e8519df49081147a044945b3a9875e0352",
+      "publishedAtLabel": "Dec 16"
+    },
+    {
+      "id": 16443,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Aftonbladet.se",
+      "author": null,
+      "title": "Tv\u00e5 barn mpox-smittade \u2013 skola st\u00e4nger",
+      "description": "\u25b8 En skola i tyska R\u00f6srath, utanf\u00f6r K\u00f6ln, st\u00e4nger som f\u00f6rsiktighets\u00e5tg\u00e4rd efter att tv\u00e5 elever konstaterats smittade av\u2026",
+      "url": "https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1316464",
+      "urlToImage": "https://images.aftonbladet-cdn.se/v2/images/156fc268-adec-4fec-ac17-baa7f1dbdb35?fit=crop&format=auto&h=56&q=50&w=100&s=8d717b112fa508073dcc3292ac8f7acfdc612d33",
+      "publishedAt": "2024-12-16 16:23:58",
+      "content": "Tv\u00e5 barn mpox-smittade skola st\u00e4nger Tv\u00e5 barn mpox-smittade skola st\u00e4nger En skola i tyska R\u00f6srath, utanf\u00f6r K\u00f6ln, st\u00e4nger som f\u00f6rsiktighets\u00e5tg\u00e4rd efter att tv\u00e5 elever konstaterats smittade \u2026 [+10716 chars]",
+      "retrievedAt": "2024-12-17 19:05:56.052646",
+      "internal_id": "aecad778ce4a1e0bca03250ce15fcce6bbef3e3632c404fd762fb2c8f9263b84",
+      "publishedAtLabel": "Dec 16"
+    },
+    {
+      "id": 16432,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "ZEIT ONLINE: Gesundheit - Mathis Gann",
+      "title": "Mpox: F\u00f6rderschule in NRW wegen Mpox-Infektion vorerst geschlossen",
+      "description": "In einem Landkreis Nahe K\u00f6ln gibt es mehrere Mpox-F\u00e4lle. Die Schule, auf die zwei infizierte Kinder gehen, muss nun auf Distanzunterricht umstellen.",
+      "url": "https://www.zeit.de/gesundheit/2024-12/mpox-infektion-nrw-roesrath-foerderschule-schliessung",
+      "urlToImage": "https://img.zeit.de/gesellschaft/2024-12/mpox-infektion-nrw-roesrath-foerderschule-schliessung-bild/wide__1300x731",
+      "publishedAt": "2024-12-16 16:23:14",
+      "content": "Aufgrund der Infektion zweier Kinder mit der neuen Variante des Mpox-Virus wird eine Schule in Nordrhein-Westfalen vorsorglich bis Ferienbeginn geschlossen. Die Sch\u00fcler einer F\u00f6rderschule in R\u00f6srath \u2026 [+1850 chars]",
+      "retrievedAt": "2024-12-17 19:05:55.959459",
+      "internal_id": "f17f9019e22159f9e72f26212a16862174fa24c81fbe30221588f52812429cb7",
+      "publishedAtLabel": "Dec 16"
+    },
+    {
+      "id": 16441,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Der Tagesspiegel",
+      "title": "Gef\u00e4hrdungslage weiterhin \u201egering\u201c: Beh\u00f6rden melden zweiten Nachweis von neuer Mpox-Variante in Deutschland",
+      "description": "Eine Familie aus Nordrhein-Westfalen hat sich mit der neuen Variante des Virus angesteckt. Die infizierten Kinder erhalten ab sofort Distanzunterricht. Die Schule schlie\u00dft vor\u00fcbergehend.",
+      "url": "https://www.tagesspiegel.de/gesundheit/gefahrdungslage-weiterhin-gering-behorden-melden-zweiten-nachweis-von-neuer-mpox-variante-in-deutschland-12884599.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/12884608/alternates/BASE_16_9_W1400/1734364820000/affenpockenvirus.jpeg",
+      "publishedAt": "2024-12-16 16:17:06",
+      "content": "Nach einer Infektion von zwei Kindern mit der neuen Variante des Mpox-Virus wird eine Schule in der N\u00e4he von K\u00f6ln vorsorglich geschlossen. Die Sch\u00fcler einer F\u00f6rderschule in R\u00f6srath erhielten ab sofor\u2026 [+3600 chars]",
+      "retrievedAt": "2024-12-17 19:05:56.027272",
+      "internal_id": "bf283d7dd5f8fd4212ce1d081b25fc732b82bdcf2b6433fe9232e31fca843ca2",
+      "publishedAtLabel": "Dec 16"
+    },
+    {
+      "id": 16455,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Samuel Okiror, Nie Zuguo",
+      "title": "Mpox cases in Uganda surpass 1,000 mark: official",
+      "description": "KAMPALA, Dec. 16 (Xinhua) -- The cumulative number of confirmed mpox cases in Uganda has surpassed 1,000, with six deaths reported since the outbreak was declared five months ago in the East African country, the Ministry of Health said on Monday. Read full st\u2026",
+      "url": "https://www.thestar.com.my/news/world/2024/12/17/mpox-cases-in-uganda-surpass-1000-mark-official",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2024-12-16 16:11:00",
+      "content": "KAMPALA, Dec. 16 (Xinhua) -- The cumulative number of confirmed mpox cases in Uganda has surpassed 1,000, with six deaths reported since the outbreak was declared five months ago in the East African \u2026 [+1223 chars]",
+      "retrievedAt": "2024-12-17 19:05:56.155917",
+      "internal_id": "ffabcfa2aa4caf418caff1ede2a9157cabf0a5b969dee0b4f9e6a7f317743a36",
+      "publishedAtLabel": "Dec 16"
+    },
+    {
+      "id": 16442,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Faz.net",
+      "author": "jdhz./dpa",
+      "title": "Schule in NRW vorsorglich wegen Mpox geschlossen",
+      "description": "Bei einer Familie im nordrhein-westf\u00e4lischen R\u00f6srath ist die neueste Variante des Mpox-Virus nachgewiesen worden. Eine Person hatte sich mutma\u00dflich bei einer Reise nach Afrika infiziert.",
+      "url": "https://www.faz.net/aktuell/gesellschaft/gesundheit/schule-in-nrw-vorsorglich-wegen-mpox-geschlossen-110178836.html",
+      "urlToImage": "https://media1.faz.net/ppmedia/aktuell/gesellschaft/1463696161/1.10178843/facebook_teaser/aufnahme-von-partikeln-des.jpg",
+      "publishedAt": "2024-12-16 16:10:22",
+      "content": "Mittlerweile habe sich auch die Erkrankung bei drei weiteren Familienmitgliedern, darunter zwei Kindern, best\u00e4tigt. Die Sch\u00fcler einer F\u00f6rderschule in R\u00f6srath erhielten bis einschlie\u00dflich Freitag Dist\u2026 [+852 chars]",
+      "retrievedAt": "2024-12-17 19:05:56.034623",
+      "internal_id": "40b2799d9e4a29c22011615279d6f939b2d6818155007314b3f6dfef4aa1e9c9",
+      "publishedAtLabel": "Dec 16"
+    },
+    {
+      "id": 16408,
+      "query": [
+        "hpai",
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Shtfplan.com",
+      "author": "Mac Slavo",
+      "title": "Bird Flu Mutation Raises Pandemic Red Flags",
+      "description": "In a recent study, researchers found that a single alteration in a protein on the surface of the highly pathogenic avian influenza (HPAI) H5N1 virus could significantly increase its potential for human-to-human transmission. Unsurprisingly enough, the study i\u2026",
+      "url": "https://www.shtfplan.com/member-exclusive/bird-flu-mutation-raises-pandemic-red-flags",
+      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2023/12/bird-flu1.jpg",
+      "publishedAt": "2024-12-16 16:00:35",
+      "content": "Commenting Policy: Some comments on this web site are automatically moderated through our Spam protection systems. Please be patient if your comment isn\u2019t immediately available. We\u2019re not trying to \u2026 [+423 chars]",
+      "retrievedAt": "2024-12-17 19:05:53.467549",
+      "internal_id": "0d260386c046a77211ad8b705a494b6abbf5a694a5e1012e08e2420947a7ea36",
+      "publishedAtLabel": "Dec 16"
+    },
+    {
+      "id": 16436,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "bild",
+      "source_name": "Bild",
+      "author": "Nina Stampflmeier, Ren\u00e9 Garzke",
+      "title": "Nach Infektionen von Kindern - Schule in NRW wegen Affenpocken geschlossen!",
+      "description": "Nach einer Infektion von zwei Kindern mit der neuen Variante des Mpox-Virus wird eine S...",
+      "url": "https://www.bild.de/news/inland/nach-infektionen-von-kindern-schule-in-nrw-wegen-affenpocken-geschlossen-67604c9ce91835077f84c5f9",
+      "urlToImage": "https://images.bild.de/67604c9ce91835077f84c5f9/dae7949a3967ed75584f2e71d8858a49,9312e87c?w=1280",
+      "publishedAt": "2024-12-16 15:59:03",
+      "content": "Nach einer Infektion von zwei Kindern mit der neuen Variante des Mpox-Virus wird eine Schule in der N\u00e4he von K\u00f6ln vorsorglich geschlossen. Die Sch\u00fcler einer F\u00f6rderschule in R\u00f6srath (Nordrhein-Westfal\u2026 [+2174 chars]",
+      "retrievedAt": "2024-12-17 19:05:55.987133",
+      "internal_id": "6d5f10aa8d23e18735c762ff99283d7afe373c32ff8959c83f207210116ff38b",
+      "publishedAtLabel": "Dec 16"
+    },
+    {
+      "id": 16431,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "DIE WELT",
+      "author": "WELT",
+      "title": "Schule in NRW wegen Mpox-Virus geschlossen",
+      "description": "Nach einer Infektion von zwei Kindern mit der neuen Variante des Mpox-Virus wird eine Schule in der N\u00e4he von K\u00f6ln vorsorglich geschlossen. Die Sch\u00fcler einer F\u00f6rderschule in R\u00f6srath erhielten ab sofort bis einschlie\u00dflich Freitag Distanzunterricht, teilte der R\u2026",
+      "url": "https://www.welt.de/vermischtes/article254890302/Nach-Infektion-von-zwei-Kindern-Schule-in-NRW-wegen-Mpox-Virus-geschlossen.html",
+      "urlToImage": "https://img.welt.de/img/masters/mobile160492822/7651629427-ci16x9-w1200/welt-fallback-jpg.jpg",
+      "publishedAt": "2024-12-16 15:53:49",
+      "content": "Nach einer Infektion von zwei Kindern mit der neuen Variante des Mpox-Virus wird eine Schule in der N\u00e4he von K\u00f6ln vorsorglich geschlossen. Die Sch\u00fcler einer F\u00f6rderschule in R\u00f6srath erhielten ab sofor\u2026 [+88 chars]",
+      "retrievedAt": "2024-12-17 19:05:55.947154",
+      "internal_id": "2e0963e16f8cb788d89ea819750d8445929bbb79b6f37050a4af9c3960e91b0f",
+      "publishedAtLabel": "Dec 16"
+    },
+    {
+      "id": 16444,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "DIE WELT",
+      "author": "WELT",
+      "title": "Wegen Mpox \u2013 Beh\u00f6rden schlie\u00dfen Schule nach Infektion von zwei Kindern",
+      "description": "In Deutschland sind weitere F\u00e4lle der neuen Variante des Mpox-Virus nachgewiesen worden \u2013 darunter auch zwei Kinder. Als Konsequenz erhalten die Sch\u00fcler einer F\u00f6rderschule in der N\u00e4he von K\u00f6ln diese Woche Distanzunterricht.",
+      "url": "https://www.welt.de/vermischtes/article254890302/NRW-Wegen-Mpox-Behoerden-schliessen-Schule-nach-Infektion-von-zwei-Kindern.html",
+      "urlToImage": "https://img.welt.de/img/vermischtes/mobile254891410/0887934767-ci16x9-w1200/Mpox-Virus.jpg",
+      "publishedAt": "2024-12-16 15:53:49",
+      "content": "In Deutschland sind weitere F\u00e4lle der neuen Variante des Mpox-Virus nachgewiesen worden darunter auch zwei Kinder. Als Konsequenz erhalten die Sch\u00fcler einer F\u00f6rderschule in der N\u00e4he von K\u00f6ln diese Wo\u2026 [+2982 chars]",
+      "retrievedAt": "2024-12-17 19:05:56.070173",
+      "internal_id": "6190357774c287d52d5b2fc3d8e762f694beda514fe2cbf421c7b691169cf2a2",
+      "publishedAtLabel": "Dec 16"
+    },
+    {
+      "id": 16452,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "focus",
+      "source_name": "Focus",
+      "author": "FOCUS online",
+      "title": "Bis Freitag - Wegen Mpox: Schule in NRW vorsorglich geschlossen",
+      "description": "Nach einer Infektion von zwei Kindern mit der neuen Variante des Mpox-Virus wird eine Schule in der N\u00e4he von K\u00f6ln vorsorglich geschlossen. Die Sch\u00fcler einer F\u00f6rderschule in R\u00f6srath erhielten ab sofort bis einschlie\u00dflich Freitag Distanzunterricht, teilte der R\u2026",
+      "url": "https://www.focus.de/panorama/welt/wegen-mpox-schule-in-nrw-vorsorglich-geschlossen_id_260566948.html",
+      "urlToImage": "https://p6.focus.de/img/fotos/id_201059270/neu-eilmeldung.png?im=Crop%3D%280%2C26%2C977%2C488%29%3BResize%3D%281200%2C627%29&impolicy=perceptual&quality=mediumHigh&hash=5011c49dc45eeff768d42d8c11406506760a37dc79769f769b536c1cef72e86d",
+      "publishedAt": "2024-12-16 15:53:49",
+      "content": " Kommentare E-Mail Teilen Mehr Twitter Drucken Feedback Fehler meldenSie haben einen Fehler gefunden? Bitte markieren S\u2026 [+463 chars]",
+      "retrievedAt": "2024-12-17 19:05:56.129622",
+      "internal_id": "fc251d6cedaa151533024059ad392bbc6534c4ffe8cf3f30c770c6889ce5f0e1",
+      "publishedAtLabel": "Dec 16"
+    },
+    {
+      "id": 16435,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "Krankheiten: Wegen Mpox: Schule in NRW vorsorglich geschlossen",
+      "description": "Nach einer Infektion von zwei Kindern mit der neuen Variante des Mpox-Virus wird eine Schule in der N\u00e4he von K\u00f6ln vorsorglich geschlossen. Die Sch\u00fcler einer F\u00f6rderschule in R\u00f6srath erhielten ab sofort bis einschlie\u00dflich Freitag Distanzunterricht, teilte der R\u2026",
+      "url": "https://www.stern.de/panorama/wissen/krankheiten--wegen-mpox--schule-in-nrw-vorsorglich-geschlossen-35314002.html",
+      "urlToImage": "https://image.stern.de/35315334/t/kd/v1/w1440/r1.7778/-/16--sfhnv56u4pv5axs2048jpeg---594c1dfd5aab61b6.jpg",
+      "publishedAt": "2024-12-16 15:51:15",
+      "content": "Kopiere den aktuellen Link Nach einer Infektion von zwei Kindern mit der neuen Variante des Mpox-Virus wird eine Schule in der N\u00e4he von K\u00f6ln vorsorglich geschlossen. Die Sch\u00fcler einer F\u00f6rderschule i\u2026 [+116 chars]",
+      "retrievedAt": "2024-12-17 19:05:55.980643",
+      "internal_id": "15e7c5c5857e68a2b9882c9b480e9480698f9c4a5a998db9a87a725e7baeb8f7",
+      "publishedAtLabel": "Dec 16"
+    },
+    {
+      "id": 16439,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Berliner Morgenpost",
+      "author": "Tobias E\u00dfer,Philipp Luther",
+      "title": "Neue Mpox-Variante in Deutschland: \u00dcbertragung und Symptome",
+      "description": "Die Mpox-Variante Klade 1b ist erneut in Deutschland nachgewiesen worden. Lesen Sie jetzt: Welche Symptome bringt das Virus mit, wie \u00fcbertr\u00e4gt es sich?",
+      "url": "https://www.morgenpost.de/panorama/article401543127/mpox-variante-virus-symptome-deutschland-krankheit.html",
+      "urlToImage": "https://img.sparknews.funkemedien.de/407913846/407913846_1734362021_v16_9_1600.jpeg",
+      "publishedAt": "2024-12-16 15:15:00",
+      "content": "Berlin. Die Mpox-Variante Klade 1b ist erneut in Deutschland nachgewiesen worden. Welche Symptome bringt das Virus mit, wie \u00fcbertr\u00e4gt es sich? Das Virus Mpox ist wieder in Deutschland nachge\u2026 [+5027 chars]",
+      "retrievedAt": "2024-12-17 19:05:56.007890",
+      "internal_id": "d092e9291077712086c57cb7082b12a52d33858896d255e5eaed814d6e6ba367",
+      "publishedAtLabel": "Dec 16"
+    },
+    {
+      "id": 16414,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Paula Felix",
+      "title": "Dengue: Butantan solicita registro de vacina em dose \u00fanica \u00e0 Anvisa",
+      "description": "Em caso de aprova\u00e7\u00e3o, instituto j\u00e1 pode distribuir 1 milh\u00e3o de doses em 2025 e outras 100 milh\u00f5es em 2026 e 2027; pa\u00eds enfrenta surto da doen\u00e7a",
+      "url": "https://veja.abril.com.br/saude/dengue-butantan-solicita-registro-de-vacina-em-dose-unica-a-anvisa",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2023/06/aedes_aegypti-dengue2.webp?crop=1&resize=1080,565",
+      "publishedAt": "2024-12-16 15:14:25",
+      "content": "PRORROGAMOS! Assine a partir de 1,50/semanaAedes aegypti: a picada da f\u00eamea do mosquito transmite a dengue (Divulga\u00e7\u00e3o/Divulga\u00e7\u00e3o) Continua ap\u00f3s publicidade O Instituto Butantan informou que conclu\u2026 [+4858 chars]",
+      "retrievedAt": "2024-12-17 19:05:54.220627",
+      "internal_id": "2bc789a23f4a0f56b2dab3e4fd9a30ab686e0024f206df54702d7813738e8ed7",
+      "publishedAtLabel": "Dec 16"
+    },
+    {
+      "id": 16420,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Perfil.com",
+      "author": "Gustavo Winkler",
+      "title": "Inteligencia Artificial contra el dengue",
+      "description": "Una iniciativa que une la ciencia, la universidad y la gesti\u00f3n provincial busca anticiparse y prevenir brotes de la enfermedad. Leer m\u00e1s",
+      "url": "https://noticias.perfil.com/noticias/medicina/ia-contra-el-dengue.phtml",
+      "urlToImage": "https://fotos.perfil.com/2024/12/16/trim/1280/720/dengue-1931400.jpg",
+      "publishedAt": "2024-12-16 15:12:38",
+      "content": "El dengue sigue sin dar tregua en Am\u00e9rica. Entre las semanas epidemiol\u00f3gicas 1 y 44 del 2024, se reportaron un total de 12.479.437 casos sospechosos (incidencia acumulada de 1.307 casos por 100.000 h\u2026 [+9281 chars]",
+      "retrievedAt": "2024-12-17 19:05:54.290631",
+      "internal_id": "31f3de1edf150573f836fbb84f1ae627a3a30b8068633792afd36d5d14d184f5",
+      "publishedAtLabel": "Dec 16"
+    },
+    {
+      "id": 16447,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "BusinessLine",
+      "author": "BL Pune Bureau",
+      "title": "Bavarian Nordic enters licence, manufacturing agreement for its mpox vaccine with Serum Institute of India",
+      "description": "As part of this collaboration, the companies will execute a technology transfer of the existing manufacturing process for MVA-BN to SII",
+      "url": "https://www.thehindubusinessline.com/news/bavarian-nordic-enters-licence-manufacturing-agreement-for-its-mpox-caccine-with-serum-institute-of-india/article68992537.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/9y6qts/article68992712.ece/alternates/LANDSCAPE_1200/2024-12-12T165218Z_1917723610_RC2EEAARK299_RTRMADP_3_HEALTH-MPOX-AFRICA-JAPAN.JPG",
+      "publishedAt": "2024-12-16 14:49:02",
+      "content": "Bavarian Nordic A/S has announced a licence and manufacturing agreement with Serum Institute of India Pvt. Ltd. (SII) for its MVA-BN mpox vaccine. As part of this collaboration, the companies will \u2026 [+2184 chars]",
+      "retrievedAt": "2024-12-17 19:05:56.090685",
+      "internal_id": "2b4fd41b42933f0ee749374ddeca11741d09f3c78678298cdcfee5608b487e26",
+      "publishedAtLabel": "Dec 16"
+    },
+    {
+      "id": 16411,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Futura",
+      "author": "Nathalie Mayer, Journaliste",
+      "title": "Ces cas mortels de grippe aviaire chez des chats inqui\u00e8tent les chercheurs",
+      "description": "Les cas de chats infect\u00e9s par la grippe aviaire se multiplient. Des cas graves qui entra\u00eenent souvent la mort. Les chercheurs sont d\u2019autant plus inquiets qu\u2019ils craignent aujourd\u2019hui des adaptations du virus qui lui permettrait de sauter des chats\u2026 \u00e0 leurs co\u2026",
+      "url": "https://www.futura-sciences.com/sante/actualites/grippe-aviaire-ces-cas-mortels-grippe-aviaire-chez-chats-inquietent-chercheurs-118281/",
+      "urlToImage": "https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/2/9/b/29b89f3fdc_50224684_chats-grippe-aviaire.jpg",
+      "publishedAt": "2024-12-16 14:28:10",
+      "content": "Le virus hautement pathog\u00e8ne de la grippe aviaire H5N1 a fait son apparition en Chine en 1996. Au fil des ann\u00e9es, il s'est diversifi\u00e9. Celui que les scientifiques identifient comme le cladeclade 2.3.\u2026 [+4100 chars]",
+      "retrievedAt": "2024-12-17 19:05:53.852586",
+      "internal_id": "e9595f94db16b1da6811433e54ea033e20f47203499c427e0085a8b5f3a83342",
+      "publishedAtLabel": "Dec 16"
+    },
+    {
+      "id": 16418,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Beth\u00e2nia Nunes",
+      "title": "Butantan envia \u00e0 Anvisa pedido de aprova\u00e7\u00e3o da vacina contra dengue",
+      "description": "Vacina do Butantan contra a dengue pode ser a primeira do mundo a oferecer prote\u00e7\u00e3o contra a doen\u00e7a com uma \u00fanica dose",
+      "url": "https://www.metropoles.com/saude/butantan-pede-anvisa-vacina-dengue",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/02/02130903/Vacina-dengue-2.jpg",
+      "publishedAt": "2024-12-16 14:03:41",
+      "content": "O Instituto Butantan enviou \u00e0 Ag\u00eancia Nacional de Vigil\u00e2ncia Sanit\u00e1ria (Anvisa), nesta segunda-feira (16/12), o pedido de registro de sua vacina contra a dengue. Se for aprovado, o imunizante ser\u00e1 o \u2026 [+2052 chars]",
+      "retrievedAt": "2024-12-17 19:05:54.271635",
+      "internal_id": "30a0204a57f3fd1d17718e06efebdaac367d25ad2c471eed57fc7159b8bcdb24",
+      "publishedAtLabel": "Dec 16"
+    },
+    {
+      "id": 16440,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "Virus: Neue Mpox-Variante in Deutschland breitet sich aus \u2013 Familie betroffen",
+      "description": "Nach einem ersten Nachweis im Oktober wurden nun weitere F\u00e4lle von Infektionen mit der neuen Mpox-Variante 1b in Deutschland erfasst. Betroffen ist eine Familie mit Schulkindern.",
+      "url": "https://www.stern.de/gesundheit/mpox-in-deutschland--mehr-ansteckungen-mit-neuer-variante-nachgewiesen-35314584.html",
+      "urlToImage": "https://image.stern.de/35314604/t/Wa/v1/w1440/r1.7778/-/mpox.jpg",
+      "publishedAt": "2024-12-16 13:52:00",
+      "content": "Kopiere den aktuellen Link Nach einem ersten Nachweis im Oktober wurden nun weitere F\u00e4lle von Infektionen mit der neuen Mpox-Variante 1b in Deutschland erfasst. Betroffen ist eine Familie mit Schulk\u2026 [+2766 chars]",
+      "retrievedAt": "2024-12-17 19:05:56.019850",
+      "internal_id": "2c8f4197b18fcb424f4250527190f09cbe18d609cab3e979e619d68595799998",
+      "publishedAtLabel": "Dec 16"
+    },
+    {
+      "id": 16410,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Alessandro Di Lorenzo",
+      "title": "Gripe avi\u00e1ria: regi\u00f5es s\u00e3o \u2018bloqueadas\u2019 na Inglaterra",
+      "description": "Quadro condados foram inseridos na chamada Zona de Preven\u00e7\u00e3o da Gripe Avi\u00e1ria ap\u00f3s o H5N1, v\u00edrus respons\u00e1vel pela doen\u00e7a, ser identificado O post Gripe avi\u00e1ria: regi\u00f5es s\u00e3o \u2018bloqueadas\u2019 na Inglaterra apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2024/12/16/medicina-e-saude/gripe-aviaria-regioes-sao-bloqueadas-na-inglaterra/",
+      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2024/06/Gripe-Aviaria.jpg",
+      "publishedAt": "2024-12-16 13:50:07",
+      "content": "A gripe avi\u00e1ria continua representando um enorme desafio para as autoridades em sa\u00fade do mundo todo. Na Inglaterra, por exemplo, quadro condados foram inseridos na chamada Zona de Preven\u00e7\u00e3o da Gripe \u2026 [+1956 chars]",
+      "retrievedAt": "2024-12-17 19:05:53.839949",
+      "internal_id": "507b7e8caf8625f0346a9914d4f845c61da61148b839fd54e0ede055f7ce7946",
+      "publishedAtLabel": "Dec 16"
+    },
+    {
+      "id": 16433,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "DW (English)",
+      "author": "Deutsche Welle",
+      "title": "Weitere Mpox-Infektionen in Deutschland",
+      "description": "Die Herkunft der neuen Mpox-Infektionen ist Afrika - dort herrscht seit Ausbreitung der neuen Mpox-Variante Klade 1b die h\u00f6chste Alarmstufe. In Deutschland ist zum zweiten Mal eine im Ausland erworbene Infektion mit der neuen Mpox-Variante Klade 1b nachgewies\u2026",
+      "url": "https://www.dw.com/de/weitere-mpox-infektionen-in-deutschland/a-71069676",
+      "urlToImage": "https://static.dw.com/image/70802994_6.jpg",
+      "publishedAt": "2024-12-16 13:40:00",
+      "content": "In Deutschland ist zum zweiten Mal eine im Ausland erworbene Infektion mit der neuen Mpox-Variante Klade 1b nachgewiesen worden. Betroffen sei eine Familie aus dem Rheinisch-Bergischen Kreis in Nordr\u2026 [+2311 chars]",
+      "retrievedAt": "2024-12-17 19:05:55.966596",
+      "internal_id": "6e3d3bc49e4fc9f0b5cd31b2538172d5b437fa9b978e66e452a91ff0e8918a4d",
+      "publishedAtLabel": "Dec 16"
+    },
+    {
+      "id": 16409,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Helport AI, Inc.",
+      "title": "Helport AI to Participate in Fireside Chat with Alliance Global Partners on December 17, 2024",
+      "description": "SINGAPORE and SAN DIEGO, Dec. 16, 2024 (GLOBE NEWSWIRE) -- Helport AI Limited (NASDAQ: HPAI) (\u201cHelport AI\u201d or the \u201cCompany\u201d), an AI technology company serving enterprise clients with intelligent customer communication software, services and solutions, today a\u2026",
+      "url": "https://www.globenewswire.com/news-release/2024/12/16/2997534/0/en/Helport-AI-to-Participate-in-Fireside-Chat-with-Alliance-Global-Partners-on-December-17-2024.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/4165bcbe-7c28-4ab2-a6fa-6df96179cf81",
+      "publishedAt": "2024-12-16 13:31:00",
+      "content": "SINGAPORE and SAN DIEGO, Dec. 16, 2024 (GLOBE NEWSWIRE) -- Helport AI Limited (NASDAQ: HPAI) (Helport AI or the Company), an AI technology company serving enterprise clients with intelligent customer\u2026 [+2654 chars]",
+      "retrievedAt": "2024-12-17 19:05:53.492711",
+      "internal_id": "65567f6715c5bb1e2ba8eb91b55780c815ca8927053d2ba833b43ebb576c7a2d",
+      "publishedAtLabel": "Dec 16"
+    },
+    {
+      "id": 16429,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "tagesschau.de",
+      "author": null,
+      "title": "Weitere Nachweise neuer Mpox-Variante in Deutschland",
+      "description": "Nach einem ersten Nachweis im Oktober wurden in den letzten Tagen weitere F\u00e4lle von Infektionen mit der neuen Mpox-Variante 1b in Deutschland erfasst. Betroffen ist eine Familie mit Schulkindern aus Nordrhein-Westfalen.",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/mpox-faelle-100.html",
+      "urlToImage": "https://images.tagesschau.de/image/687bc306-107e-4378-9208-be2fbd38d8c7/AAABk8-kL50/AAABkZLhkrw/16x9-1280/mpox-134.jpg",
+      "publishedAt": "2024-12-16 13:24:24",
+      "content": "Stand: 16.12.2024 14:24 Uhr Nach einem ersten Nachweis im Oktober wurden in den letzten Tagen weitere F\u00e4lle von Infektionen mit der neuen Mpox-Variante 1b in Deutschland erfasst. Betroffen ist eine \u2026 [+2654 chars]",
+      "retrievedAt": "2024-12-17 19:05:55.932646",
+      "internal_id": "51c8c6af79fe3944c34dd7ded7a621babeab550915ac78e992c452d180a110c4",
+      "publishedAtLabel": "Dec 16"
+    },
+    {
+      "id": 16437,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Berliner Morgenpost",
+      "author": "FUNKE Mediengruppe",
+      "title": "Neue Mpox-Variante in Deutschland \u2013 Familie infiziert",
+      "description": "Die als Affenpocken bekannte Krankheit Mpox erreicht Deutschland. Eine ganze Familie gilt als infiziert. Was bisher bekannt ist.",
+      "url": "https://www.morgenpost.de/panorama/article407910442/neue-mpox-variante-in-deutschland-familie-infiziert.html",
+      "urlToImage": "https://img.sparknews.funkemedien.de/407910707/407910707_1734354766_v16_9_1600.jpeg",
+      "publishedAt": "2024-12-16 13:12:46",
+      "content": "Berlin. Die als Affenpocken bekannte Krankheit Mpox erreicht Deutschland. Eine ganze Familie gilt als infiziert. Was bisher bekannt ist. Das Mpox-Virus, das vor allem auf dem afrikanischen Kontinent\u2026 [+2600 chars]",
+      "retrievedAt": "2024-12-17 19:05:55.993986",
+      "internal_id": "238ff5c037fa289a7e9b54e1be6e3f074630fd85afc10589e3a27ac4de1fa7e1",
+      "publishedAtLabel": "Dec 16"
+    },
+    {
+      "id": 16445,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "DIE WELT",
+      "author": "WELT",
+      "title": "Neue Mpox-Variante breitet sich in Deutschland aus \u2013 Familie mit Schulkindern in Quarant\u00e4ne",
+      "description": "Mitte Oktober ist die neue Mpox-Variante Klade 1b erstmals in Deutschland nachgewiesen worden. Jetzt erfassten die Beh\u00f6rden weitere F\u00e4lle in Deutschland. Betroffen ist eine Familie mit zwei Schulkindern aus Nordrhein-Westfalen.",
+      "url": "https://www.welt.de/gesundheit/article254886236/Mpox-Neue-Variante-breitet-sich-in-Deutschland-aus-Familie-mit-Schulkindern-in-Quarantaene.html",
+      "urlToImage": "https://img.welt.de/img/gesundheit/mobile254886230/1897932347-ci16x9-w1200/Mpox-Virus.jpg",
+      "publishedAt": "2024-12-16 12:05:09",
+      "content": "Mitte Oktober ist die neue Mpox-Variante Klade 1b erstmals in Deutschland nachgewiesen worden. Jetzt erfassten die Beh\u00f6rden weitere F\u00e4lle in Deutschland. Betroffen ist eine Familie mit zwei Schulkind\u2026 [+2856 chars]",
+      "retrievedAt": "2024-12-17 19:05:56.076940",
+      "internal_id": "4606d4cad9ecb82a67a22681ac27f9e8a1800cbae3d8423272770cc8be7e3e73",
+      "publishedAtLabel": "Dec 16"
+    },
+    {
+      "id": 16425,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Ardhra Nair",
+      "title": "IISER Pune Scientist Recognized by EMBO for Malaria Drug Resistance Research",
+      "description": "Krishanpal Karmodiya, a faculty member at IISER Pune, has earned recognition in the prestigious European Molecular Biology Organization (EMBO) network for his pioneering work on drug resistance in Plasmodium falciparum, the malaria-causing parasite. His team'\u2026",
+      "url": "https://timesofindia.indiatimes.com/education/news/iiser-pune-scientist-recognized-by-embo-for-malaria-drug-resistance-research/articleshow/116369416.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-116369407,width-1070,height-580,imgsize-68124,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-12-16 11:48:54",
+      "content": "8 reasons why emotional intelligence matters more than IQ for career success",
+      "retrievedAt": "2024-12-17 19:05:54.982335",
+      "internal_id": "66f957052a73cae9bb03d482c8944dee5b9dc89e3f0b4c959b6f4a804bf8798b",
+      "publishedAtLabel": "Dec 16"
+    },
+    {
+      "id": 16451,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "Beh\u00f6rden melden zweiten Nachweis von neuer Mpox-Variante in Deutschland",
+      "description": "In Deutschland ist zum zweiten Mal eine im Ausland erworbene Infektion mit der neuen Mpox-Variante Klade 1b nachgewiesen worden. Betroffen sei eine Familie aus dem Rheinisch-Bergischen Kreis in Nordrhein-Westfalen, wie die Landkreisverwaltung in Bergisch Glad\u2026",
+      "url": "https://www.stern.de/news/behoerden-melden-zweiten-nachweis-von-neuer-mpox-variante-in-deutschland-35314248.html",
+      "urlToImage": "https://image.stern.de/35314250/t/1z/v1/w1440/r1.7778/-/16--proben-in-einem-medizinischen-labor---d4bea089ce41957c.jpg",
+      "publishedAt": "2024-12-16 11:48:51",
+      "content": "Kopiere den aktuellen Link In Deutschland ist zum zweiten Mal eine im Ausland erworbene Infektion mit der neuen Mpox-Variante Klade 1b nachgewiesen worden. Betroffen sei eine Familie aus dem Rheinis\u2026 [+2198 chars]",
+      "retrievedAt": "2024-12-17 19:05:56.123175",
+      "internal_id": "fdd07e2f854710f15bcf1f3d10fd56a525adb54e581cf34ef3de5c7c949d08e7",
+      "publishedAtLabel": "Dec 16"
+    },
+    {
+      "id": 16424,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Yale.edu",
+      "author": null,
+      "title": "After Long Decline, Malaria Cases Rising Amid Worsening Floods",
+      "description": "Malaria killed almost 600,000 people in 2023, as cases rose for the fifth consecutive year, according to a new report from the World Health Organization. Read more on E360 \u2192",
+      "url": "https://e360.yale.edu/digest/climate-change-malaria",
+      "urlToImage": null,
+      "publishedAt": "2024-12-16 11:00:00",
+      "content": "Malaria killed almost 600,000 people in 2023, as cases rose for the fifth consecutive year, according to a new report from the World Health Organization. Biological threats such as rising resistance\u2026 [+3451 chars]",
+      "retrievedAt": "2024-12-17 19:05:54.943225",
+      "internal_id": "0bf3eb6d768f9ae6331c0117041a5f9ae1c4d605ca5adf25e92f0897e91c40db",
+      "publishedAtLabel": "Dec 16"
+    },
+    {
+      "id": 16448,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Bloomberg",
+      "title": "Bavarian Nordic inks Mpox vaccine deal with Serum Institute",
+      "description": "Bavarian Nordic A/S partnered with the Serum Institute of India to produce its mpox vaccine. The Serum Institute will supply the Indian market and expand Bavarian's global manufacturing capacity through a profit-sharing agreement. This comes as mpox cases s\u2026",
+      "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/bavarian-nordic-inks-mpox-vaccine-deal-with-serum-institute/articleshow/116367507.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-116367486,width-1200,height-630,imgsize-54956,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2024-12-16 10:52:04",
+      "content": "Artificial Intelligence(AI) Learn InVideo AI: Create Videos from Text Easily By - Prince Patni, Software Developer (BI, Data Science) View Program",
+      "retrievedAt": "2024-12-17 19:05:56.097344",
+      "internal_id": "df523a54421a5019f8f84c63552e7984328fee84ae82a8042090d80cb3d28424",
+      "publishedAtLabel": "Dec 16"
+    },
+    {
+      "id": 16446,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Der Tagesspiegel",
+      "title": "Krankheiten: Wegen Mpox: Schule in NRW vorsorglich geschlossen",
+      "description": "Wegen Mpox: Schule in NRW vorsorglich geschlossen",
+      "url": "https://www.tagesspiegel.de/wissen/krankheiten-wegen-mpox-schule-in-nrw-vorsorglich-geschlossen-12882307.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/12885775/alternates/BASE_16_9_W1400/1734364342000/affenpockenvirus.jpeg",
+      "publishedAt": "2024-12-16 10:49:48",
+      "content": "Nach einer Infektion von zwei Kindern mit der neuen Variante des Mpox-Virus wird eine Schule in der N\u00e4he von K\u00f6ln vorsorglich geschlossen. Die Sch\u00fcler einer F\u00f6rderschule in R\u00f6srath erhielten ab sofor\u2026 [+182 chars]",
+      "retrievedAt": "2024-12-17 19:05:56.084093",
+      "internal_id": "3ee15c170543d4ef12596e5dc267c92f730cf694b5ae0706a5d552f01c95f1ab",
+      "publishedAtLabel": "Dec 16"
+    },
+    {
+      "id": 16449,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Der Tagesspiegel",
+      "title": "Krankheiten: Weitere F\u00e4lle neuer Mpox-Variante in Deutschland",
+      "description": "Nach einem ersten Nachweis im Oktober wurden in den letzten Tagen weitere F\u00e4lle von Infektionen mit der neuen Mpox-Variante 1b in Deutschland erfasst. Betroffen ist eine Familie mit Schulkindern.",
+      "url": "https://www.tagesspiegel.de/wissen/krankheiten-weitere-falle-neuer-mpox-variante-in-deutschland-12882307.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/12882304/alternates/BASE_16_9_W1400/1734346187000/affenpockenvirus.jpeg",
+      "publishedAt": "2024-12-16 10:49:48",
+      "content": "In Deutschland sind weitere F\u00e4lle der neuen Variante des Mpox-Virus unter anderem bei zwei Kindern nachgewiesen worden. Zun\u00e4chst sei eine Infektion mit der sogenannten Klade 1b best\u00e4tigt worden, teil\u2026 [+3412 chars]",
+      "retrievedAt": "2024-12-17 19:05:56.104216",
+      "internal_id": "c51b56fd2c4d28401943f91c6fabdcdc35ff6e56567b94a2ebb22c2ab8159c96",
+      "publishedAtLabel": "Dec 16"
+    },
+    {
+      "id": 16427,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "ZEIT ONLINE: News -",
+      "title": "Krankheiten: Weitere F\u00e4lle neuer Mpox-Variante in Deutschland",
+      "description": "Hier finden Sie Informationen zu dem Thema \u201eKrankheiten\u201c. Lesen Sie jetzt \u201eWeitere F\u00e4lle neuer Mpox-Variante in Deutschland\u201c.",
+      "url": "https://www.zeit.de/news/2024-12/16/weitere-faelle-neuer-mpox-variante-in-deutschland",
+      "urlToImage": "https://img.zeit.de/news/2024-12/16/weitere-faelle-neuer-mpox-variante-in-deutschland-image-group/wide__1300x731",
+      "publishedAt": "2024-12-16 10:48:42",
+      "content": "In Deutschland sind weitere F\u00e4lle der neuen Variante des Mpox-Virus unter anderem bei zwei Kindern nachgewiesen worden. Zun\u00e4chst sei eine Infektion mit der sogenannten Klade 1b best\u00e4tigt worden, teil\u2026 [+2689 chars]",
+      "retrievedAt": "2024-12-17 19:05:55.918125",
+      "internal_id": "07d29afa2b79ca47e45dcc991b00a19eaf334c5da327e2a63e02892f601907d0",
+      "publishedAtLabel": "Dec 16"
+    },
+    {
+      "id": 16434,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "Krankheiten: Weitere F\u00e4lle neuer Mpox-Variante in Deutschland",
+      "description": "Nach einem ersten Nachweis im Oktober wurden in den letzten Tagen weitere F\u00e4lle von Infektionen mit der neuen Mpox-Variante 1b in Deutschland erfasst. Betroffen ist eine Familie mit Schulkindern.",
+      "url": "https://www.stern.de/panorama/wissen/krankheiten--weitere-faelle-neuer-mpox-variante-in-deutschland-35314002.html",
+      "urlToImage": "https://image.stern.de/35314004/t/6h/v1/w1440/r1.7778/-/16--yz5nffj4eav4axs2048jpeg---ece9180bfe1a1de7.jpg",
+      "publishedAt": "2024-12-16 10:48:42",
+      "content": "Kopiere den aktuellen Link Nach einem ersten Nachweis im Oktober wurden in den letzten Tagen weitere F\u00e4lle von Infektionen mit der neuen Mpox-Variante 1b in Deutschland erfasst. Betroffen ist eine F\u2026 [+2874 chars]",
+      "retrievedAt": "2024-12-17 19:05:55.973920",
+      "internal_id": "2362e07b089fd02dea7af54738a74c5c6b2a930cde2dd1e9513a73ad5df00d26",
+      "publishedAtLabel": "Dec 16"
+    },
+    {
+      "id": 16412,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Khan.co.kr",
+      "author": "\ucd5c\uc2b9\ud604 \uae30\uc790 cshdmz@kyunghyang.com",
+      "title": "\ucda9\ub0a8 \uccad\uc591 \uc0b0\ub780\uacc4 \ub18d\uc7a5\uc11c \uace0\ubcd1\uc6d0\uc131 \uc870\ub958\uc778\ud50c\ub8e8\uc5d4\uc790(AI) \ubc1c\uc0dd",
+      "description": "\uace0\ubcd1\uc6d0\uc131 AI \uc0ac\ub840 11\uac74\uc73c\ub85c \ub298\uc5b4 \uad11\uc5ed\ubc29\uc81c\uae30 \uc790\ub8cc\uc0ac\uc9c4. \ucd98\ucc9c\uc2dc \uc81c\uacf5 \ucda9\ub0a8 \uccad\uc591\uad70\uc758 \ud55c \uc0b0\ub780\uacc4 \ub18d\uc7a5\uc5d0\uc11c \uace0\ubcd1\uc6d0\uc131 \uc870\ub958\uc778\ud50c\ub8e8\uc5d4\uc790(AI)\uac00 \ubc1c\uc0dd\ud574 \uac00\ucd95 \ubc29\uc5ed \ub2f9\uad6d\uc774 \uae34\uae09 \ubc29\uc5ed \ud65c\ub3d9\uc5d0 \ub3cc\uc785\ud588\ub2e4. \uace0\ubcd1\uc6d0\uc131 \uc870\ub958\uc778\ud50c\ub8e8\uc5d4\uc790(AI) \uc911\uc559\uc0ac\uace0\uc218\uc2b5\ubcf8\ubd80(\uc911\uc218\ubcf8)\ub294 \uc9c0\ub09c 15\uc77c \uccad\uc591\uad70\uc758 \ud55c \uc0b0\ub780\uacc4 \ub18d\uc7a5\uc758 \ub18d\uc7a5\uc8fc\uac00 \uc758\uc2ec \uc0ac\ub840\ub97c \uc2e0\uace0\ud574 \uc815\ubc00 \uac80\uc0ac\ub97c \ud55c \uacb0\uacfc, \uace0\ubcd1\uc6d0\uc131 AI(\u00b7\u00b7\u00b7",
+      "url": "https://www.khan.co.kr/article/202412161940001",
+      "urlToImage": "https://img.khan.co.kr/news/2024/12/16/news-p.v1.20241216.1b96623b47104915a1631e14584479ac_P1.jpg",
+      "publishedAt": "2024-12-16 10:40:00",
+      "content": ". (AI) . (AI) () 15 , AI(H5N1) 16 . 11 AI . 14 . (SOP) . , 17 4 .",
+      "retrievedAt": "2024-12-17 19:05:53.870538",
+      "internal_id": "649dfcfa909c1783a67a54aed0845bc6875aeef77936f9b9c0892e7f9bf01fab",
+      "publishedAtLabel": "Dec 16"
+    },
+    {
+      "id": 16422,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Bekia.es",
+      "author": "Tamara Garc\u00eda Copado",
+      "title": "Luis Canut cuenta lo que sufre su mujer Patricia P\u00e9rez desde que se qued\u00f3 ciego",
+      "description": "El productor ha tenido que adaptar a su nueva vida llena de cambios, igual que lo ha hecho su mujer junto a \u00e9l. La vida de Luis Canut cambi\u00f3 por completo en marzo de 2022 debido a una meningitis criptoc\u00f3cica que me mantuvo cuatro meses ingresado en el hospita\u2026",
+      "url": "https://www.bekia.es/celebrities/noticias/luis-canut-cuenta-sufre-mujer-patricia-perez-ciego/",
+      "urlToImage": "https://www.bekia.es/images/articulos/portada/136000/136836.jpg",
+      "publishedAt": "2024-12-16 10:22:47",
+      "content": "La vida de Luis Canut cambi\u00f3 por completo en marzo de 2022 debido a una meningitis criptoc\u00f3cica que me mantuvo cuatro meses ingresado en el hospital. Los efectos secundarios de la enfermedad continua\u2026 [+2265 chars]",
+      "retrievedAt": "2024-12-17 19:05:54.562819",
+      "internal_id": "f257acfbaaa44c8e6c30e1ee01e842a36e30d61ae607c4cb7729cec7801745d3",
+      "publishedAtLabel": "Dec 16"
+    },
+    {
+      "id": 16438,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "bild",
+      "source_name": "Bild",
+      "author": "Nina Stampflmeier",
+      "title": "Person aus NRW steckte sich in Afrika an - Ganze Familie an Mpox-Virus erkrankt",
+      "description": "Eine Familie in Nordrhein-Westfalen steht unter Quarant\u00e4ne, nachdem ein Mitglied sich mit dem gef\u00e4hrlichen Mpox-Virus auf einer Afrika-Reise infiziert hat.",
+      "url": "https://www.bild.de/regional/nordrhein-westfalen/mpox-virus-in-nrw-ganze-familie-in-quarantaene-vier-personen-erkrankt-675ff134d4ebe04d116410ad",
+      "urlToImage": "https://images.bild.de/675ff134d4ebe04d116410ad/05c46e5b4707f8b7866115e5b262258a,eb3c785a?w=1280",
+      "publishedAt": "2024-12-16 10:21:25",
+      "content": "D\u00fcsseldorf Quarant\u00e4ne f\u00fcr eine ganze Familie! Das gef\u00e4hrliche Mpox-Virus ist bei einer Person im Rheinisch-Bergischen Kreis ausgebrochen und hat drei weitere Familienmitglieder, darunter zwei Kinder,\u2026 [+2350 chars]",
+      "retrievedAt": "2024-12-17 19:05:56.001296",
+      "internal_id": "f8e7e35e497820d95fef88c8c71f9b9e78491e2920007c631e5027e3c6e6e57c",
+      "publishedAtLabel": "Dec 16"
+    },
+    {
+      "id": 16423,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Telepolis.de",
+      "author": "Uwe Kerkow",
+      "title": "M\u00fccken als Impf-Helfer gegen Malaria",
+      "description": "Ein neuer, vielversprechender Malaria-Impfstoff wird in Versuchen durch M\u00fcckenstiche verabreicht. W\u00e4re das in der Praxis auch gro\u00dffl\u00e4chig nutzbar?",
+      "url": "https://www.telepolis.de/features/Muecken-als-Impf-Helfer-gegen-Malaria-10199119.html",
+      "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/7/6/3/1/2/0/Zwischenablage-2-0af366a254229b9e.jpeg",
+      "publishedAt": "2024-12-16 10:00:00",
+      "content": "Malariaerreger im Blutabstrich. Foto: Ccurve, shutterstock Ein neuer, vielversprechender Malaria-Impfstoff wird in Versuchen durch M\u00fcckenstiche verabreicht. W\u00e4re das in der Praxis auch gro\u00dffl\u00e4chig n\u2026 [+3907 chars]",
+      "retrievedAt": "2024-12-17 19:05:54.936120",
+      "internal_id": "2c94848096f731d6a7d97fc938c2650f33d8f59c8919d49d66354cc74f773e48",
+      "publishedAtLabel": "Dec 16"
+    },
+    {
+      "id": 16413,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Nplus1.ru",
+      "author": "\u041a\u0430\u0442\u0435\u0440\u0438\u043d\u0430 \u041f\u0435\u0442\u0440\u043e\u0432\u0430",
+      "title": "\u0412\u0438\u0440\u0443\u0441 \u0433\u0440\u0438\u043f\u043f\u0430 \u0410 \u0441\u043e\u0445\u0440\u0430\u043d\u0438\u043b \u0437\u0430\u0440\u0430\u0437\u043d\u043e\u0441\u0442\u044c \u0432 \u0441\u044b\u0440\u043e\u043c \u043a\u043e\u0440\u043e\u0432\u044c\u0435\u043c \u043c\u043e\u043b\u043e\u043a\u0435 \u043d\u0430 \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u043e \u0434\u043d\u0435\u0439",
+      "description": "\u0412\u0438\u0440\u0443\u0441 \u0433\u0440\u0438\u043f\u043f\u0430 \u0410 \u0441\u043e\u0445\u0440\u0430\u043d\u0438\u043b \u0437\u0430\u0440\u0430\u0437\u043d\u043e\u0441\u0442\u044c \u0432 \u0441\u044b\u0440\u043e\u043c \u043a\u043e\u0440\u043e\u0432\u044c\u0435\u043c \u043c\u043e\u043b\u043e\u043a\u0435 \u043d\u0430 \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u043e \u0434\u043d\u0435\u0439",
+      "url": "https://nplus1.ru/news/2024/12/16/influenza-in-raw-milk",
+      "urlToImage": "https://minio.nplus1.ru/app-images/980695/675fe997bf67a_cover_share.png",
+      "publishedAt": "2024-12-16 08:51:00",
+      "content": "(Alexandria Boehm) , . H1N1 PR8, . 4 . , 2,3 99 . . 63 30 , . H5N1, . 2024 , . . H1N1, , , , .",
+      "retrievedAt": "2024-12-17 19:05:53.900546",
+      "internal_id": "e469bf5f0b315234e9ad54e36c7e36b8e13e95437fdae60d5402bcf3a522d12d",
+      "publishedAtLabel": "Dec 16"
+    },
     {
       "id": 16407,
       "query": [
@@ -21199,132 +22064,6 @@
       "content": "El triple campe\u00f3n del mundo neerland\u00e9s Max Verstappen (Red Bull) dio un golpe de autoridad en su ad\u00e1n por ganar un cuarto t\u00edtulo seguido y reforz\u00f3 su liderato en el Mundial de F\u00f3rmula Uno al ganar de\u2026 [+9488 chars]",
       "retrievedAt": "2024-11-05 07:06:27.126213",
       "internal_id": "2ca6258c8c8c4e3bae727acd8d98f3acda50a4e4c509cae83cc73d789701af78",
-      "publishedAtLabel": "Nov 3"
-    },
-    {
-      "id": 15228,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Memeorandum.com",
-      "author": null,
-      "title": "Trump Thinks America Wants His Perversions (A.B. Stoddard/The Bulwark)",
-      "description": "A.B. Stoddard / The Bulwark: Trump Thinks America Wants His Perversions \u2014 Let's hope he is wrong. \u2014 MEASLES, MISINFORMATION, a \u201cvigorous spanking\u201d of misogyny\u2014whether women like it or not\u2014a violent nine-gun fantasy for political enemies, crudeness, petty \u2026",
-      "url": "https://www.memeorandum.com/241103/p22",
-      "urlToImage": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7beacf28-6b55-4b8a-8c4a-5019eaabf5a3_2439x1627.jpeg",
-      "publishedAt": "2024-11-03 15:45:00",
-      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
-      "retrievedAt": "2024-11-04 19:06:03.800086",
-      "internal_id": "48a14302ed577d62c426b6acc90cf0926c91407304620d568186b61dcddec5ff",
-      "publishedAtLabel": "Nov 3"
-    },
-    {
-      "id": 15226,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Just Jared",
-      "author": "Just Jared",
-      "title": "Social Media Star Peanut the Squirrel Euthanized by New York State, Owners Plan to Take Legal Action",
-      "description": "Peanut the Squirrel is making waves worldwide. The beloved social media star, with over 619,000 followers on Instagram and 100,000 followers on TikTok alone, was sadly euthanized by New York state wildlife officials as part of a test for rabies, via CBS News.\u2026",
-      "url": "https://www.justjared.com/2024/11/03/social-media-star-peanut-the-squirrel-euthanized-by-new-york-state-owners-plan-to-take-legal-action/",
-      "urlToImage": "https://cdn01.justjared.com/wp-content/uploads/headlines/2024/11/peanut-squirrel-dead-social.jpg",
-      "publishedAt": "2024-11-03 14:18:23",
-      "content": "Peanut the Squirrel is making waves worldwide. The beloved social media star, with over 619,000 followers on Instagram and 100,000 followers on TikTok alone, was sadly euthanized by New York state w\u2026 [+2459 chars]",
-      "retrievedAt": "2024-11-04 19:06:03.349995",
-      "internal_id": "9a8861ed7ebbc1519ee612a4d852bf9c444c0f4abb33908da3152e8f916d5c72",
-      "publishedAtLabel": "Nov 3"
-    },
-    {
-      "id": 15227,
-      "query": [
-        "rabies"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "ET Online",
-      "title": "Why Instagram-famous 'Peanut the Squirrel' was euthanised by NY officials? The controversy that caught US elections by storm",
-      "description": "Peanut, an Instagram-famous squirrel, was euthanized by New York authorities to test for rabies, sparking outrage and controversy. Owner Mark Longo claims his home was raided for hours, while Elon Musk criticized the government's actions on social media, ampl\u2026",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/why-instagram-famous-peanut-the-squirrel-was-euthanised-by-ny-officials-the-controversy-that-caught-us-elections-by-storm/articleshow/114913238.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-114913212,width-1200,height-630,imgsize-74122,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2024-11-03 12:38:37",
-      "content": "An Instagram-famed squirrel being euthanised has boiled down to a controversy, taking major attention in the weekend leading to US elections scheduled for Nov 5. Following the incident, the far-right\u2026 [+2561 chars]",
-      "retrievedAt": "2024-11-04 19:06:03.390479",
-      "internal_id": "c280846f493a6206fb055952c7e3a553fc0bd42119c544aad15f6f640a5c0675",
-      "publishedAtLabel": "Nov 3"
-    },
-    {
-      "id": 15230,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "ynet",
-      "source_name": "Ynet",
-      "author": "\u05e6\u05d5\u05e8 \u05d2\u05d5\u05d0\u05d8\u05d4",
-      "title": "\u05d7\u05d6\u05d9\u05e8 \u05e0\u05d3\u05d1\u05e7 \u05d1\u05e9\u05e4\u05e2\u05ea \u05d4\u05e2\u05d5\u05e4\u05d5\u05ea \u05d1\u05d0\u05e8\u05d4\"\u05d1: \"\u05d7\u05e9\u05e9 \u05de\u05d5\u05d5\u05d9\u05e8\u05d5\u05e1 \u05d7\u05d3\u05e9 \u05d5\u05d0\u05dc\u05d9\u05dd \u05e9\u05d9\u05d3\u05d1\u05d9\u05e7 \u05d1\u05e0\u05d9 \u05d0\u05d3\u05dd\"",
-      "description": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d7\u05e7\u05dc\u05d0\u05d5\u05ea \u05d4\u05d0\u05de\u05e8\u05d9\u05e7\u05e0\u05d9 \u05d3\u05d9\u05d5\u05d5\u05d7 \u05d1\u05d0\u05d7\u05e8\u05d5\u05e0\u05d4 \u05e2\u05dc \u05de\u05e7\u05e8\u05d4 \u05e8\u05d0\u05e9\u05d5\u05df \u05e9\u05dc \u05e9\u05e4\u05e2\u05ea \u05d4\u05e2\u05d5\u05e4\u05d5\u05ea \u05de\u05d6\u05df H5N1 \u05d1\u05d7\u05d6\u05d9\u05e8\u05d9\u05dd. \u05d4\u05d7\u05d5\u05d5\u05d4 \u05d1\u05d0\u05d5\u05e8\u05d2\u05d5\u05df \u05e9\u05d1\u05d4 \u05d4\u05ea\u05d2\u05dc\u05ea\u05d4 \u05d4\u05d4\u05d3\u05d1\u05e7\u05d4 \u05d4\u05d5\u05db\u05e0\u05e1\u05d4 \u05dc\u05d4\u05e1\u05d2\u05e8, \u05d5\u05e0\u05d1\u05d3\u05e7\u05ea \u05d4\u05d0\u05e4\u05e9\u05e8\u05d5\u05ea \u05dc\u05d4\u05e2\u05d1\u05e8\u05d4 \u05e9\u05dc \u05d4\u05e0\u05d2\u05d9\u05e3 \u05de\u05e2\u05d5\u05e4\u05d5\u05ea \u05dc\u05d9\u05d5\u05e0\u05e7\u05d9\u05dd. \u05e4\u05e8\u05d5\u05e4' \u05d9\u05e9\u05e8\u05d0\u05dc \u05e4\u05d5\u05d8\u05e1\u05de\u05df, \u05de\u05d5\u05de\u05d7\u05d4 \u05dc\u05de\u05d7\u05dc\u05d5\u05ea \u05d6\u05d9\u05d4\u05d5\u05de\u05d9\u05d5\u05ea \u05d1\u05de\u05db\u05d1\u05d9: \"\u05d7\u05d6\u05d9\u05e8\u05d9\u05dd \u05d3\u05d5\u05de\u05d9\u05dd \u05dc\u05d1\u05e0\u05d9 \u05d0\u05d3\u05dd \u05d1\u05d2\u05e0\u05d8\u05d9\u05e7\u05d4 \u05e9\u05dc\u05d4\u2026",
-      "url": "https://www.ynet.co.il/health/article/byho112vbkl",
-      "urlToImage": "https://ynet-pic1.yit.co.il/picserver5/crop_images/2024/11/03/By111e6NWJl/By111e6NWJl_0_59_1000_563_0_large.jpg",
-      "publishedAt": "2024-11-03 12:36:58",
-      "content": ", \"\" - . . H1N1 -2009 , . ' , , : \" , , . , , -. - \". \" , , , : \" , , () . , , , . \". ' \" . \" , , \". : \" . , \". . \" , , , . \" '' , . \", .",
-      "retrievedAt": "2024-11-04 19:06:04.715626",
-      "internal_id": "da5eb6f3b6e1d7b28854ff56526c6fe03880a6b195d33071c9e3c4abecc9d5a8",
-      "publishedAtLabel": "Nov 3"
-    },
-    {
-      "id": 15232,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "VOA News",
-      "author": "webdesk@voanews.com (Associated Press)",
-      "title": "Mpox cases in Congo may be stabilizing, but more vaccines needed to stamp out virus",
-      "description": "Goma, Congo \u2014 Some health officials say mpox cases in Congo appear to be \u201cstabilizing\u201d \u2014 a possible sign that the main epidemic for which the World Health Organization made a global emergency declaration in August might be on the decline. In recent weeks,\u2026",
-      "url": "https://www.voanews.com/a/mpox-cases-in-congo-may-be-stabilizing-but-more-vaccines-needed-to-stamp-out-virus-/7849399.html",
-      "urlToImage": "https://gdb.voanews.com/38E367F4-5A38-40E6-8148-15ADC0E2527D.jpg",
-      "publishedAt": "2024-11-03 12:21:25",
-      "content": "Goma, Congo Some health officials say mpox cases in Congo appear to be stabilizing a possible sign that the main epidemic for which the World Health Organization made a global emergency declaration \u2026 [+4734 chars]",
-      "retrievedAt": "2024-11-04 19:06:06.577063",
-      "internal_id": "5088c984af91dc35899b1ae0f4fd2795c97d4e1b73e817925d6683620bfdcd0b",
-      "publishedAtLabel": "Nov 3"
-    },
-    {
-      "id": 15231,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "Suman Chakraborti",
-      "title": "Kolkata reports second dengue death in Bidhannagar amid declining cases",
-      "description": "Shibani Das, 69, from Gopalpur Sarat Pally in Bidhannagar, died of dengue on Saturday. This is the second dengue death in the area this year. Kolkata has recorded lower dengue cases this year compared to previous years, with precautionary measures in place. O\u2026",
-      "url": "https://timesofindia.indiatimes.com/city/kolkata/kolkata-reports-second-dengue-death-in-bidhannagar-area-amid-declining-cases/articleshow/114910748.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-114910667,width-1070,height-580,imgsize-32062,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-11-03 10:18:16",
-      "content": "9 animals that live in rainforests",
-      "retrievedAt": "2024-11-04 19:06:05.095710",
-      "internal_id": "740c1ce1211164e71f7d8b5c5fe40b97b04759d42431bc0acd37f59e13305bb6",
-      "publishedAtLabel": "Nov 3"
-    },
-    {
-      "id": 15229,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Faz.net",
-      "author": "Pia Heinemann",
-      "title": "\u201eDer Mensch ist bislang kein guter Wirt\u201c",
-      "description": "Ein Schwein in den USA ist positiv auf das weltweit grassierende Vogelgrippevirus getestet worden. Warum das absehbar war \u2013 und was es bedeutet.",
-      "url": "https://www.faz.net/aktuell/wissen/leben-gene/vogelgrippe-was-der-uebersprung-aufs-schwein-bedeutet-110083432.html",
-      "urlToImage": "https://media0.faz.net/ppmedia/aktuell/110701573/1.10085608/facebook_teaser_fplus/drei-h5n1-partikel-in-einer.jpg",
-      "publishedAt": "2024-11-03 07:09:20",
-      "content": "Um das Vogelgrippevirus H5N1 kehr keine Ruhe ein. Zuletzt wurde es bei einem Schwein auf einem kleinen Hof in Oregon gefunden. Dort waren G\u00e4nse, H\u00fchner, Schafe, Ziegen und Schweine gehalten worden. A\u2026 [+333 chars]",
-      "retrievedAt": "2024-11-04 19:06:04.553350",
-      "internal_id": "f2c071b0e101c3cee4423bd66447e61c55910efc125983d549ca156dff89672d",
       "publishedAtLabel": "Nov 3"
     }
   ]
