@@ -1,8 +1,116 @@
 {
-  "last_updated": "2024-12-16 19:05",
-  "count_articles_total": 1169,
-  "count_articles_new": 3,
+  "last_updated": "2024-12-17 07:07",
+  "count_articles_total": 1182,
+  "count_articles_new": 6,
   "articles": [
+    {
+      "id": 16407,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "focus",
+      "source_name": "Focus",
+      "author": "FOCUS online",
+      "title": "Auf Afrika-Reise angesteckt - Neue Mpox-Variante in NRW nachgewiesen - Familie in Quarant\u00e4ne",
+      "description": "Am Wochenende wurde im Rheinisch-Bergischen Kreis (Nordrhein-Westfalen) erstmals ein Fall der aktuellen Mpox-Variante nachgewiesen. Die betroffene Familie befindet sich in Quarant\u00e4ne.",
+      "url": "https://www.focus.de/gesundheit/in-nrw-erster-fall-der-neuen-mpox-variante-nachgewiesen-familie-in-quarantaene_id_260564612.html",
+      "urlToImage": "https://p6.focus.de/img/panorama/id_260423072/ein-mpox-test..jpg?im=Crop%3D%280%2C375%2C1000%2C500%29%3BResize%3D%281200%2C627%29&impolicy=perceptual&quality=mediumHigh&hash=4900785544216f43f39a1a20978b51fdb4dacef3f957da941ac1570a0d6dbe41",
+      "publishedAt": "2024-12-16 06:58:31",
+      "content": "Am Wochenende wurde im Rheinisch-Bergischen Kreis (Nordrhein-Westfalen) erstmals ein Fall der aktuellen Mpox-Variante nachgewiesen. Die betroffene Familie befindet sich in Quarant\u00e4ne.Dabei habe sich \u2026 [+1789 chars]",
+      "retrievedAt": "2024-12-17 07:07:14.804670",
+      "internal_id": "35bd86a24972e6215899f1229e52f318e82bba9b97d20c2abeb83461b534c7f4",
+      "publishedAtLabel": "Dec 16"
+    },
+    {
+      "id": 16405,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Bavarian Nordic A/S",
+      "title": "Bavarian Nordic Enters License and Manufacturing Agreement for its Mpox Vaccine with Serum Institute of India",
+      "description": "COPENHAGEN, Denmark, December 16, 2024 \u2013 Bavarian Nordic A/S (OMX: BAVA) announced today a license and manufacturing agreement for its MVA-BN\u00ae mpox vaccine with Serum Institute of India Pvt. Ltd. (\u201cSII\u201d). Under the agreement, the companies will undertake a te\u2026",
+      "url": "https://www.globenewswire.com/news-release/2024/12/16/2997224/0/en/Bavarian-Nordic-Enters-License-and-Manufacturing-Agreement-for-its-Mpox-Vaccine-with-Serum-Institute-of-India.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/bbcf063e-cba2-4e1d-b8cd-9279c8088ae9",
+      "publishedAt": "2024-12-16 06:30:00",
+      "content": "Tech transfer of MVA-BN\u00ae will help increase global mpox vaccine manufacturing capacity and further expand the equitable access to vulnerable populations.Serum Institute of India obta\u2026 [+4528 chars]",
+      "retrievedAt": "2024-12-17 07:07:14.785818",
+      "internal_id": "65c1b1c4459e953650678fea4efc620571e9876983c047973495a3ed9e0b75a8",
+      "publishedAtLabel": "Dec 16"
+    },
+    {
+      "id": 16406,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Bavarian Nordic A/S",
+      "title": "Bavarian Nordic indg\u00e5r licens- og produktionsaftale omkring mpox-vaccine med Serum Institute of India",
+      "description": "K\u00d8BENHAVN, Danmark, 16. december 2024 \u2013 Bavarian Nordic A/S (OMX: BAVA) meddelte i dag, at selskabet har indg\u00e5et en licens- og produktionsaftale omkring MVA-BN\u00ae mpox-vaccinen med Serum Institute of India Pvt. Ltd. (\u201cSII\u201d). I henhold til aftalen vil parterne a\u2026",
+      "url": "https://www.globenewswire.com/news-release/2024/12/16/2997224/0/da/Bavarian-Nordic-indg%C3%A5r-licens-og-produktionsaftale-omkring-mpox-vaccine-med-Serum-Institute-of-India.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/bbcf063e-cba2-4e1d-b8cd-9279c8088ae9",
+      "publishedAt": "2024-12-16 06:30:00",
+      "content": "En teknologioverf\u00f8rsel for MVA-BN\u00ae bidrager til at \u00f8ge den globale produktionskapacitet for mpox-vaccinen samt til yderligere at \u00f8ge adgangen til vaccinen for udsatte befolkningsgrupper.\u2026 [+4789 chars]",
+      "retrievedAt": "2024-12-17 07:07:14.792835",
+      "internal_id": "cad0f869a8466dbcbeeeb228b7980580d05a0612332fc2796c8880a41f69fef5",
+      "publishedAtLabel": "Dec 16"
+    },
+    {
+      "id": 16403,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Samara Schwingel",
+      "title": "Sa\u00fade quer levar vacina contra dengue para dentro das escolas em 2025",
+      "description": "Ao Metr\u00f3poles, o subsecret\u00e1rio de Vigil\u00e2ncia \u00e0 Sa\u00fade afirmou que a pasta quer aumentar a cobertura vacinal contra a dengue em 2025",
+      "url": "https://www.metropoles.com/distrito-federal/saude-quer-levar-vacina-contra-dengue-para-dentro-das-escolas-em-2025",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/02/09113222/Vacinacao-dengue-UBS-Asa-10.jpg",
+      "publishedAt": "2024-12-16 06:15:16",
+      "content": "Devido \u00e0 baixa ades\u00e3o \u00e0 campanha de vacina\u00e7\u00e3o contra a dengue deste ano, a Secretaria de Sa\u00fade do Distrito Federal (SES-DF) analisa a possibilidade de levar o imunizante para dentro das escolas p\u00fabli\u2026 [+6210 chars]",
+      "retrievedAt": "2024-12-17 07:07:13.302024",
+      "internal_id": "b732b0aa3d6203ab81a454ca175b9f722ebc913d8cf55d3d83f12dcbeb7ebe90",
+      "publishedAtLabel": "Dec 16"
+    },
+    {
+      "id": 16404,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Excelsior.com.mx",
+      "author": "bernardo.ferreira",
+      "title": "\u00a1Am\u00e9rica rompe 'malaria', hace historia y es tricampe\u00f3n de Liga MX!",
+      "description": "Bernardo Ferreira Con un ag\u00f3nico final, Am\u00e9rica consigui\u00f3 el tricampeonato en la Liga MX al vencer 3-2 a Rayados de Monterrey en el Apertura 2024; las \u00c1guilas rompieron la \u2018malaria\u2019 de no coronarse fuera del Estadio Azteca. NO TE PIERDAS: Am\u00e9rica confirma \u2026",
+      "url": "https://www.excelsior.com.mx/adrenalina/america-rompe-malaria-hace-historia-y-es-tricampeon-de-liga-mx/1689851",
+      "urlToImage": "https://www.excelsior.com.mx/media/pictures/2024/12/15/3229204.jpg",
+      "publishedAt": "2024-12-16 03:09:47",
+      "content": "Con un ag\u00f3nico final, Am\u00e9rica consigui\u00f3 el tricampeonato en la Liga MX al vencer 3-2 a Rayados de Monterrey en el Apertura 2024; las \u00c1guilas rompieron la malaria de no coronarse fuera del Estadio Azt\u2026 [+2652 chars]",
+      "retrievedAt": "2024-12-17 07:07:14.010268",
+      "internal_id": "6ef3f0722772559276228ef52602c964f97389e53bcf4d886f93549e90aba3d1",
+      "publishedAtLabel": "Dec 16"
+    },
+    {
+      "id": 16402,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Excelsior.com.mx",
+      "author": "angel.salinas",
+      "title": "M\u00e9xico acumula 20 mil 931 casos por dengue",
+      "description": "Patricia Rodr\u00edguez Calva Hasta el pasado 09 de diciembre, en 30 entidades, nuestro pa\u00eds acumul\u00f3 120 mil 931 casos de dengue con el reporte de 362 muertes. Por lo anterior, en tan solo una semana se confirmaron 3 mil 436 personas contagiadas con el viru\u2026",
+      "url": "https://www.excelsior.com.mx/nacional/mexico-acumula-20-mil-931-casos-por-dengue/1689802",
+      "urlToImage": "https://www.excelsior.com.mx/media/pictures/2024/12/15/3228994.jpg",
+      "publishedAt": "2024-12-15 19:18:57",
+      "content": "Hasta el pasado 09 de diciembre, en 30 entidades, nuestro pa\u00eds acumul\u00f3 120 mil 931 casos de dengue con el reporte de 362 muertes. Por lo anterior, en tan solo una semana se confirmaron 3 mil 436 \u2026 [+1252 chars]",
+      "retrievedAt": "2024-12-17 07:07:13.266934",
+      "internal_id": "e143a31c8095d8efbd0668c137f51c53d14464b6b7defa77df8186851c0c3386",
+      "publishedAtLabel": "Dec 15"
+    },
     {
       "id": 16400,
       "query": [
@@ -21091,6 +21199,132 @@
       "content": "El triple campe\u00f3n del mundo neerland\u00e9s Max Verstappen (Red Bull) dio un golpe de autoridad en su ad\u00e1n por ganar un cuarto t\u00edtulo seguido y reforz\u00f3 su liderato en el Mundial de F\u00f3rmula Uno al ganar de\u2026 [+9488 chars]",
       "retrievedAt": "2024-11-05 07:06:27.126213",
       "internal_id": "2ca6258c8c8c4e3bae727acd8d98f3acda50a4e4c509cae83cc73d789701af78",
+      "publishedAtLabel": "Nov 3"
+    },
+    {
+      "id": 15228,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "Trump Thinks America Wants His Perversions (A.B. Stoddard/The Bulwark)",
+      "description": "A.B. Stoddard / The Bulwark: Trump Thinks America Wants His Perversions \u2014 Let's hope he is wrong. \u2014 MEASLES, MISINFORMATION, a \u201cvigorous spanking\u201d of misogyny\u2014whether women like it or not\u2014a violent nine-gun fantasy for political enemies, crudeness, petty \u2026",
+      "url": "https://www.memeorandum.com/241103/p22",
+      "urlToImage": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7beacf28-6b55-4b8a-8c4a-5019eaabf5a3_2439x1627.jpeg",
+      "publishedAt": "2024-11-03 15:45:00",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2024-11-04 19:06:03.800086",
+      "internal_id": "48a14302ed577d62c426b6acc90cf0926c91407304620d568186b61dcddec5ff",
+      "publishedAtLabel": "Nov 3"
+    },
+    {
+      "id": 15226,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Just Jared",
+      "author": "Just Jared",
+      "title": "Social Media Star Peanut the Squirrel Euthanized by New York State, Owners Plan to Take Legal Action",
+      "description": "Peanut the Squirrel is making waves worldwide. The beloved social media star, with over 619,000 followers on Instagram and 100,000 followers on TikTok alone, was sadly euthanized by New York state wildlife officials as part of a test for rabies, via CBS News.\u2026",
+      "url": "https://www.justjared.com/2024/11/03/social-media-star-peanut-the-squirrel-euthanized-by-new-york-state-owners-plan-to-take-legal-action/",
+      "urlToImage": "https://cdn01.justjared.com/wp-content/uploads/headlines/2024/11/peanut-squirrel-dead-social.jpg",
+      "publishedAt": "2024-11-03 14:18:23",
+      "content": "Peanut the Squirrel is making waves worldwide. The beloved social media star, with over 619,000 followers on Instagram and 100,000 followers on TikTok alone, was sadly euthanized by New York state w\u2026 [+2459 chars]",
+      "retrievedAt": "2024-11-04 19:06:03.349995",
+      "internal_id": "9a8861ed7ebbc1519ee612a4d852bf9c444c0f4abb33908da3152e8f916d5c72",
+      "publishedAtLabel": "Nov 3"
+    },
+    {
+      "id": 15227,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ET Online",
+      "title": "Why Instagram-famous 'Peanut the Squirrel' was euthanised by NY officials? The controversy that caught US elections by storm",
+      "description": "Peanut, an Instagram-famous squirrel, was euthanized by New York authorities to test for rabies, sparking outrage and controversy. Owner Mark Longo claims his home was raided for hours, while Elon Musk criticized the government's actions on social media, ampl\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/why-instagram-famous-peanut-the-squirrel-was-euthanised-by-ny-officials-the-controversy-that-caught-us-elections-by-storm/articleshow/114913238.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-114913212,width-1200,height-630,imgsize-74122,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2024-11-03 12:38:37",
+      "content": "An Instagram-famed squirrel being euthanised has boiled down to a controversy, taking major attention in the weekend leading to US elections scheduled for Nov 5. Following the incident, the far-right\u2026 [+2561 chars]",
+      "retrievedAt": "2024-11-04 19:06:03.390479",
+      "internal_id": "c280846f493a6206fb055952c7e3a553fc0bd42119c544aad15f6f640a5c0675",
+      "publishedAtLabel": "Nov 3"
+    },
+    {
+      "id": 15230,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "ynet",
+      "source_name": "Ynet",
+      "author": "\u05e6\u05d5\u05e8 \u05d2\u05d5\u05d0\u05d8\u05d4",
+      "title": "\u05d7\u05d6\u05d9\u05e8 \u05e0\u05d3\u05d1\u05e7 \u05d1\u05e9\u05e4\u05e2\u05ea \u05d4\u05e2\u05d5\u05e4\u05d5\u05ea \u05d1\u05d0\u05e8\u05d4\"\u05d1: \"\u05d7\u05e9\u05e9 \u05de\u05d5\u05d5\u05d9\u05e8\u05d5\u05e1 \u05d7\u05d3\u05e9 \u05d5\u05d0\u05dc\u05d9\u05dd \u05e9\u05d9\u05d3\u05d1\u05d9\u05e7 \u05d1\u05e0\u05d9 \u05d0\u05d3\u05dd\"",
+      "description": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d7\u05e7\u05dc\u05d0\u05d5\u05ea \u05d4\u05d0\u05de\u05e8\u05d9\u05e7\u05e0\u05d9 \u05d3\u05d9\u05d5\u05d5\u05d7 \u05d1\u05d0\u05d7\u05e8\u05d5\u05e0\u05d4 \u05e2\u05dc \u05de\u05e7\u05e8\u05d4 \u05e8\u05d0\u05e9\u05d5\u05df \u05e9\u05dc \u05e9\u05e4\u05e2\u05ea \u05d4\u05e2\u05d5\u05e4\u05d5\u05ea \u05de\u05d6\u05df H5N1 \u05d1\u05d7\u05d6\u05d9\u05e8\u05d9\u05dd. \u05d4\u05d7\u05d5\u05d5\u05d4 \u05d1\u05d0\u05d5\u05e8\u05d2\u05d5\u05df \u05e9\u05d1\u05d4 \u05d4\u05ea\u05d2\u05dc\u05ea\u05d4 \u05d4\u05d4\u05d3\u05d1\u05e7\u05d4 \u05d4\u05d5\u05db\u05e0\u05e1\u05d4 \u05dc\u05d4\u05e1\u05d2\u05e8, \u05d5\u05e0\u05d1\u05d3\u05e7\u05ea \u05d4\u05d0\u05e4\u05e9\u05e8\u05d5\u05ea \u05dc\u05d4\u05e2\u05d1\u05e8\u05d4 \u05e9\u05dc \u05d4\u05e0\u05d2\u05d9\u05e3 \u05de\u05e2\u05d5\u05e4\u05d5\u05ea \u05dc\u05d9\u05d5\u05e0\u05e7\u05d9\u05dd. \u05e4\u05e8\u05d5\u05e4' \u05d9\u05e9\u05e8\u05d0\u05dc \u05e4\u05d5\u05d8\u05e1\u05de\u05df, \u05de\u05d5\u05de\u05d7\u05d4 \u05dc\u05de\u05d7\u05dc\u05d5\u05ea \u05d6\u05d9\u05d4\u05d5\u05de\u05d9\u05d5\u05ea \u05d1\u05de\u05db\u05d1\u05d9: \"\u05d7\u05d6\u05d9\u05e8\u05d9\u05dd \u05d3\u05d5\u05de\u05d9\u05dd \u05dc\u05d1\u05e0\u05d9 \u05d0\u05d3\u05dd \u05d1\u05d2\u05e0\u05d8\u05d9\u05e7\u05d4 \u05e9\u05dc\u05d4\u2026",
+      "url": "https://www.ynet.co.il/health/article/byho112vbkl",
+      "urlToImage": "https://ynet-pic1.yit.co.il/picserver5/crop_images/2024/11/03/By111e6NWJl/By111e6NWJl_0_59_1000_563_0_large.jpg",
+      "publishedAt": "2024-11-03 12:36:58",
+      "content": ", \"\" - . . H1N1 -2009 , . ' , , : \" , , . , , -. - \". \" , , , : \" , , () . , , , . \". ' \" . \" , , \". : \" . , \". . \" , , , . \" '' , . \", .",
+      "retrievedAt": "2024-11-04 19:06:04.715626",
+      "internal_id": "da5eb6f3b6e1d7b28854ff56526c6fe03880a6b195d33071c9e3c4abecc9d5a8",
+      "publishedAtLabel": "Nov 3"
+    },
+    {
+      "id": 15232,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "VOA News",
+      "author": "webdesk@voanews.com (Associated Press)",
+      "title": "Mpox cases in Congo may be stabilizing, but more vaccines needed to stamp out virus",
+      "description": "Goma, Congo \u2014 Some health officials say mpox cases in Congo appear to be \u201cstabilizing\u201d \u2014 a possible sign that the main epidemic for which the World Health Organization made a global emergency declaration in August might be on the decline. In recent weeks,\u2026",
+      "url": "https://www.voanews.com/a/mpox-cases-in-congo-may-be-stabilizing-but-more-vaccines-needed-to-stamp-out-virus-/7849399.html",
+      "urlToImage": "https://gdb.voanews.com/38E367F4-5A38-40E6-8148-15ADC0E2527D.jpg",
+      "publishedAt": "2024-11-03 12:21:25",
+      "content": "Goma, Congo Some health officials say mpox cases in Congo appear to be stabilizing a possible sign that the main epidemic for which the World Health Organization made a global emergency declaration \u2026 [+4734 chars]",
+      "retrievedAt": "2024-11-04 19:06:06.577063",
+      "internal_id": "5088c984af91dc35899b1ae0f4fd2795c97d4e1b73e817925d6683620bfdcd0b",
+      "publishedAtLabel": "Nov 3"
+    },
+    {
+      "id": 15231,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Suman Chakraborti",
+      "title": "Kolkata reports second dengue death in Bidhannagar amid declining cases",
+      "description": "Shibani Das, 69, from Gopalpur Sarat Pally in Bidhannagar, died of dengue on Saturday. This is the second dengue death in the area this year. Kolkata has recorded lower dengue cases this year compared to previous years, with precautionary measures in place. O\u2026",
+      "url": "https://timesofindia.indiatimes.com/city/kolkata/kolkata-reports-second-dengue-death-in-bidhannagar-area-amid-declining-cases/articleshow/114910748.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-114910667,width-1070,height-580,imgsize-32062,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-11-03 10:18:16",
+      "content": "9 animals that live in rainforests",
+      "retrievedAt": "2024-11-04 19:06:05.095710",
+      "internal_id": "740c1ce1211164e71f7d8b5c5fe40b97b04759d42431bc0acd37f59e13305bb6",
+      "publishedAtLabel": "Nov 3"
+    },
+    {
+      "id": 15229,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Faz.net",
+      "author": "Pia Heinemann",
+      "title": "\u201eDer Mensch ist bislang kein guter Wirt\u201c",
+      "description": "Ein Schwein in den USA ist positiv auf das weltweit grassierende Vogelgrippevirus getestet worden. Warum das absehbar war \u2013 und was es bedeutet.",
+      "url": "https://www.faz.net/aktuell/wissen/leben-gene/vogelgrippe-was-der-uebersprung-aufs-schwein-bedeutet-110083432.html",
+      "urlToImage": "https://media0.faz.net/ppmedia/aktuell/110701573/1.10085608/facebook_teaser_fplus/drei-h5n1-partikel-in-einer.jpg",
+      "publishedAt": "2024-11-03 07:09:20",
+      "content": "Um das Vogelgrippevirus H5N1 kehr keine Ruhe ein. Zuletzt wurde es bei einem Schwein auf einem kleinen Hof in Oregon gefunden. Dort waren G\u00e4nse, H\u00fchner, Schafe, Ziegen und Schweine gehalten worden. A\u2026 [+333 chars]",
+      "retrievedAt": "2024-11-04 19:06:04.553350",
+      "internal_id": "f2c071b0e101c3cee4423bd66447e61c55910efc125983d549ca156dff89672d",
       "publishedAtLabel": "Nov 3"
     }
   ]

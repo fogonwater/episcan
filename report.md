@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 3
-- **Last harvest:** 2024-12-16 19:05
-- **Most recent article:** 2024-12-15 15:34:21
+- **New articles in last harvest:** 6
+- **Last harvest:** 2024-12-17 07:07
+- **Most recent article:** 2024-12-16 06:58:31
 
 ---
 
@@ -12,12 +12,12 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-45 | 24-46 | 24-47 | 24-48 | 24-49 | 24-50 | 24-51 | Total |
 |--|-|-|-|-|-|-|-|-|
-| h5n1 | 34 | 40 | 50 | 38 | 70 | 61 | 2 | 295 |
-| mpox | 60 | 62 | 76 | 26 | 20 | 26 | 0 | 270 |
-| malaria | 26 | 33 | 27 | 29 | 27 | 76 | 0 | 218 |
-| dengue | 30 | 36 | 28 | 25 | 10 | 33 | 2 | 164 |
-| measles | 2 | 33 | 11 | 6 | 9 | 10 | 0 | 71 |
-| rabies | 3 | 11 | 7 | 12 | 13 | 3 | 0 | 49 |
+| h5n1 | 36 | 40 | 50 | 38 | 70 | 61 | 2 | 297 |
+| mpox | 61 | 62 | 76 | 26 | 20 | 26 | 3 | 274 |
+| malaria | 26 | 33 | 27 | 29 | 27 | 76 | 1 | 219 |
+| dengue | 31 | 36 | 28 | 25 | 10 | 33 | 4 | 167 |
+| measles | 3 | 33 | 11 | 6 | 9 | 10 | 0 | 72 |
+| rabies | 5 | 11 | 7 | 12 | 13 | 3 | 0 | 51 |
 | chikungunya | 2 | 3 | 5 | 4 | 6 | 7 | 1 | 28 |
 | pertussis | 3 | 8 | 5 | 1 | 4 | 6 | 0 | 27 |
 | zika | 9 | 4 | 3 | 1 | 4 | 4 | 0 | 25 |
@@ -33,6 +33,18 @@ Source: [News API](https://newsapi.org/)
 
 ---
 
+## 24-51 (mpox)
+
+- [Auf Afrika-Reise angesteckt - Neue Mpox-Variante in NRW nachgewiesen - Familie in Quarantäne](https://www.focus.de/gesundheit/in-nrw-erster-fall-der-neuen-mpox-variante-nachgewiesen-familie-in-quarantaene_id_260564612.html) (Focus)
+
+- [Bavarian Nordic Enters License and Manufacturing Agreement for its Mpox Vaccine with Serum Institute of India](https://www.globenewswire.com/news-release/2024/12/16/2997224/0/en/Bavarian-Nordic-Enters-License-and-Manufacturing-Agreement-for-its-Mpox-Vaccine-with-Serum-Institute-of-India.html) (GlobeNewswire)
+
+- [Bavarian Nordic indgår licens- og produktionsaftale omkring mpox-vaccine med Serum Institute of India](https://www.globenewswire.com/news-release/2024/12/16/2997224/0/da/Bavarian-Nordic-indg%C3%A5r-licens-og-produktionsaftale-omkring-mpox-vaccine-med-Serum-Institute-of-India.html) (GlobeNewswire)
+
+## 24-51 (malaria)
+
+- [¡América rompe 'malaria', hace historia y es tricampeón de Liga MX!](https://www.excelsior.com.mx/adrenalina/america-rompe-malaria-hace-historia-y-es-tricampeon-de-liga-mx/1689851) (Excelsior.com.mx)
+
 ## 24-51 (h5n1)
 
 - [2 San Joaquin County farmworkers infected with bird flu after exposure to sick animals](https://www.recordnet.com/story/news/healthcare/2024/12/15/2-san-joaquin-county-farmworkers-test-positive-for-bird-flu/76997469007/) (Stockton Record)
@@ -40,6 +52,10 @@ Source: [News API](https://newsapi.org/)
 - [« La gestion américaine de la crise du virus H5N1 met, et va continuer à mettre, le monde entier en danger »](https://www.lemonde.fr/idees/article/2024/12/15/la-gestion-americaine-de-la-crise-du-virus-h5n1-met-et-va-continuer-a-mettre-le-monde-entier-en-danger_6449393_3232.html) (Le Monde)
 
 ## 24-51 (dengue)
+
+- [Saúde quer levar vacina contra dengue para dentro das escolas em 2025](https://www.metropoles.com/distrito-federal/saude-quer-levar-vacina-contra-dengue-para-dentro-das-escolas-em-2025) (Metropoles.com)
+
+- [México acumula 20 mil 931 casos por dengue](https://www.excelsior.com.mx/nacional/mexico-acumula-20-mil-931-casos-por-dengue/1689802) (Excelsior.com.mx)
 
 - [6mila morti di dengue in Brasile nel 2024, è record. L’allarme: “Cambiamenti climatici e siccità favoriscono riproduzione della zanzara”](https://www.ilfattoquotidiano.it/2024/12/15/morti-dengue-brasile-recort-allarme-cambiamenti-climatici-news/7805431/) (Ilfattoquotidiano.it)
 
@@ -2257,6 +2273,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Expert Says Unlikely Peanut Had Rabies, Officials Might Have Been Impulsive](https://www.tmz.com/2024/11/05/peanut-squirrel-unlikely-had-rabies-expert/) (TMZ)
 
+- [Social Media Star Peanut the Squirrel Euthanized by New York State, Owners Plan to Take Legal Action](https://www.justjared.com/2024/11/03/social-media-star-peanut-the-squirrel-euthanized-by-new-york-state-owners-plan-to-take-legal-action/) (Just Jared)
+
+- [Why Instagram-famous 'Peanut the Squirrel' was euthanised by NY officials? The controversy that caught US elections by storm](https://economictimes.indiatimes.com/news/international/global-trends/why-instagram-famous-peanut-the-squirrel-was-euthanised-by-ny-officials-the-controversy-that-caught-us-elections-by-storm/articleshow/114913238.cms) (The Times of India)
+
 ## 24-45 (pertussis)
 
 - [Whooping cough found at NMU](https://www.wnmufm.org/health/2024-11-05/whooping-cough-found-at-nmu) (Wnmufm.org)
@@ -2387,6 +2407,8 @@ Source: [News API](https://newsapi.org/)
 
 - [More cases of new mpox strain detected in UK](https://news.sky.com/story/mpox-more-cases-of-new-clade-1b-strain-detected-in-uk-13248258) (Sky.com)
 
+- [Mpox cases in Congo may be stabilizing, but more vaccines needed to stamp out virus](https://www.voanews.com/a/mpox-cases-in-congo-may-be-stabilizing-but-more-vaccines-needed-to-stamp-out-virus-/7849399.html) (VOA News)
+
 ## 24-45 (meningitis)
 
 - [Signs of deadly infection passed through sharing straws following the death of 19-year-old after music festival](https://www.ladbible.com/news/health/meningitis-b-signs-deadly-infection-710455-20241107) (LADbible)
@@ -2402,6 +2424,8 @@ Source: [News API](https://newsapi.org/)
 - [Number of confirmed measles cases in New Brunswick rises to 25](https://www.cbc.ca/news/canada/new-brunswick/nov-9-measles-update-1.7379486) (CBC News)
 
 - [Trump May End Water Fluoridation On Day One, Will Consider Banning Vaccines](https://www.wonkette.com/p/trump-may-end-water-fluoridation) (Wonkette.com)
+
+- [Trump Thinks America Wants His Perversions (A.B. Stoddard/The Bulwark)](https://www.memeorandum.com/241103/p22) (Memeorandum.com)
 
 ## 24-45 (malaria)
 
@@ -2559,6 +2583,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Highly Pathogenic Avian Influenza A(H5N1) Virus Infection in Cats, South Korea, 2023](https://wwwnc.cdc.gov/eid/article/30/12/24-0154_article) (Cdc.gov)
 
+- [חזיר נדבק בשפעת העופות בארה"ב: "חשש מווירוס חדש ואלים שידביק בני אדם"](https://www.ynet.co.il/health/article/byho112vbkl) (Ynet)
+
+- [„Der Mensch ist bislang kein guter Wirt“](https://www.faz.net/aktuell/wissen/leben-gene/vogelgrippe-was-der-uebersprung-aufs-schwein-bedeutet-110083432.html) (Faz.net)
+
 ## 24-45 (dengue)
 
 - [Lei que prevê contratação de 800 agentes de saúde é publicada no DODF](https://www.metropoles.com/distrito-federal/lei-que-preve-contratacao-de-800-agentes-de-saude-e-publicada-no-dodf) (Metropoles.com)
@@ -2620,6 +2648,8 @@ Source: [News API](https://newsapi.org/)
 - [Baguio: Karaniwang mga sakit, dapat hindi dapat ipagwalang bahala – Dr. Brillantes](https://rpnradio.com/baguio-karaniwang-mga-sakit-dapat-hindi-dapat-ipagwalang-bahala-dr-brillantes/) (Rpnradio.com)
 
 - [Mosquito da dengue pica por cima da roupa? Veja a opinião de especialistas](https://catracalivre.com.br/saude-bem-estar/mosquito-da-dengue-pica-roupa/) (Catracalivre.com.br)
+
+- [Kolkata reports second dengue death in Bidhannagar amid declining cases](https://timesofindia.indiatimes.com/city/kolkata/kolkata-reports-second-dengue-death-in-bidhannagar-area-amid-declining-cases/articleshow/114910748.cms) (The Times of India)
 
 ## 24-45 (chikungunya)
 
