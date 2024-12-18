@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 48
-- **Last harvest:** 2024-12-17 19:05
-- **Most recent article:** 2024-12-16 18:44:27
+- **New articles in last harvest:** 18
+- **Last harvest:** 2024-12-18 07:06
+- **Most recent article:** 2024-12-17 06:14:44
 
 ---
 
@@ -12,12 +12,12 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-45 | 24-46 | 24-47 | 24-48 | 24-49 | 24-50 | 24-51 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 60 | 62 | 76 | 26 | 20 | 26 | 32 | 302 |
-| h5n1 | 34 | 40 | 50 | 38 | 70 | 61 | 7 | 300 |
+| mpox | 61 | 62 | 76 | 26 | 20 | 26 | 43 | 314 |
+| h5n1 | 36 | 40 | 50 | 38 | 70 | 61 | 8 | 303 |
 | malaria | 26 | 33 | 27 | 29 | 27 | 76 | 4 | 222 |
-| dengue | 30 | 36 | 28 | 25 | 10 | 33 | 12 | 174 |
-| measles | 2 | 33 | 11 | 6 | 9 | 10 | 0 | 71 |
-| rabies | 3 | 11 | 7 | 12 | 13 | 3 | 0 | 49 |
+| dengue | 31 | 36 | 28 | 25 | 10 | 33 | 17 | 180 |
+| measles | 3 | 33 | 11 | 6 | 9 | 10 | 1 | 73 |
+| rabies | 5 | 11 | 7 | 12 | 13 | 3 | 0 | 51 |
 | chikungunya | 2 | 3 | 5 | 4 | 6 | 7 | 2 | 29 |
 | pertussis | 3 | 8 | 5 | 1 | 4 | 6 | 0 | 27 |
 | meningitis | 4 | 2 | 5 | 3 | 3 | 7 | 1 | 25 |
@@ -34,6 +34,28 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-51 (mpox)
+
+- [Ouganda: le nombre de cas de Mpox atteint le millier](https://fr.sputniknews.africa/20241217/ouganda-le-nombre-de-cas-de-mpox-atteint-le-millier-1069750328.html) (Sputniknews.africa)
+
+- [Neue Virus-Variante: Schule nahe Köln bleibt wegen Mpox geschlossen](https://www.stern.de/gesundheit/mpox-nahe-koeln--betroffene-schule-bleibt-vorerst-geschlossen-35316390.html) (STERN.de)
+
+- [Research and Development of Medical Countermeasures for Emerging Infectious Diseases, China, 1990–2022](https://wwwnc.cdc.gov/eid/article/31/1/23-0638_article) (Cdc.gov)
+
+- [В Германии есть заразившиеся опасным штаммом вируса mpox](https://www.dw.com/ru/v-germanii-est-zarazivsiesa-opasnym-stammom-virusa-mpox/a-71076229) (DW (English))
+
+- [Krankheiten: Schule bleibt wegen Mpox vorsorglich geschlossen](https://www.tagesspiegel.de/wissen/krankheiten-schule-bleibt-wegen-mpox-vorsorglich-geschlossen-12887134.html) (Der Tagesspiegel)
+
+- [Krankheiten: Kreis: Bislang keine weiteren Fälle von Mpox bekannt](https://www.tagesspiegel.de/wissen/krankheiten-kreis-bislang-keine-weiteren-falle-von-mpox-bekannt-12887134.html) (Der Tagesspiegel)
+
+- [Krankheiten: Schule bleibt wegen Mpox vorsorglich geschlossen](https://www.zeit.de/news/2024-12/17/schule-bleibt-wegen-mpox-vorsorglich-geschlossen) (Die Zeit)
+
+- [Krankheiten: Schule bleibt wegen Mpox vorsorglich geschlossen](https://www.stern.de/panorama/wissen/krankheiten--schule-bleibt-wegen-mpox-vorsorglich-geschlossen-35316198.html) (STERN.de)
+
+- [German school temporarily closed after mpox case reported](https://www.dw.com/en/german-school-temporarily-closed-after-mpox-case-reported/a-71073359) (DW (English))
+
+- [Mpox: German school temporarily closed after case reported](https://www.dw.com/en/mpox-german-school-temporarily-closed-after-case-reported/a-71073359) (DW (English))
+
+- [Almanya'da 2 çocukta M çiçeği virüsü tespit edildi](https://www.patronlardunyasi.com/almanyada-2-cocukta-m-cicegi-virusu-tespit-edildi) (Patronlardunyasi.com)
 
 - [У Німеччині зафіксували спалах віспи мавп](https://ua.korrespondent.net/world/4740663-u-nimechchyni-zafiksuvaly-spalakh-vispy-mavp) (Korrespondent.net)
 
@@ -103,6 +125,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Luis Canut cuenta lo que sufre su mujer Patricia Pérez desde que se quedó ciego](https://www.bekia.es/celebrities/noticias/luis-canut-cuenta-sufre-mujer-patricia-perez-ciego/) (Bekia.es)
 
+## 24-51 (measles)
+
+- [Toddler diagnosed with measles in Brisbane had passed through multiple airports](https://www.9news.com.au/national/measles-alert-brisbane-two-year-old-boy-confirmed-case/f3b785ff-9686-41fa-9be9-70a51899d530) (9News)
+
 ## 24-51 (malaria)
 
 - [IISER Pune Scientist Recognized by EMBO for Malaria Drug Resistance Research](https://timesofindia.indiatimes.com/education/news/iiser-pune-scientist-recognized-by-embo-for-malaria-drug-resistance-research/articleshow/116369416.cms) (The Times of India)
@@ -121,6 +147,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-51 (h5n1)
 
+- [Το ρολόι μίας νέας πανδημίας χτυπάει και δεν είμαστε έτοιμοι](https://www.skai.gr/news/health/covid-19-mia-alli-pandimia-einai-anapofeykti-kai-den-eimaste-etoimoi) (Skai.gr)
+
 - [Bird Flu Mutation Raises Pandemic Red Flags](https://www.shtfplan.com/member-exclusive/bird-flu-mutation-raises-pandemic-red-flags) (Shtfplan.com)
 
 - [Ces cas mortels de grippe aviaire chez des chats inquiètent les chercheurs](https://www.futura-sciences.com/sante/actualites/grippe-aviaire-ces-cas-mortels-grippe-aviaire-chez-chats-inquietent-chercheurs-118281/) (Futura)
@@ -136,6 +164,16 @@ Source: [News API](https://newsapi.org/)
 - [« La gestion américaine de la crise du virus H5N1 met, et va continuer à mettre, le monde entier en danger »](https://www.lemonde.fr/idees/article/2024/12/15/la-gestion-americaine-de-la-crise-du-virus-h5n1-met-et-va-continuer-a-mettre-le-monde-entier-en-danger_6449393_3232.html) (Le Monde)
 
 ## 24-51 (dengue)
+
+- [Iriga: PHO, naitala ang pagtaas ng kaso sa dengue ngayong taon sa Albay](https://rpnradio.com/iriga-pho-naitala-ang-pagtaas-ng-kaso-sa-dengue-ngayong-taon-sa-albay/) (Rpnradio.com)
+
+- [Pengalaman Anak-Anak Samarinda Divaksin Dengue, Awalnya Mengira Rasanya seperti Digigit Harimau](https://www.liputan6.com/health/read/5838921/pengalaman-anak-anak-samarinda-divaksin-dengue-awalnya-mengira-rasanya-seperti-digigit-harimau) (Liputan6.com)
+
+- [Vacina contra a dengue: Butantan pede à Anvisa para registrar 1º imunizante de dose única](https://ultimosegundo.ig.com.br/politica/2024-12-16/butantan-solicita-a-anvisa-registro-de-vacina-contra-a-dengue-de-dose-unica.html) (Ig.com.br)
+
+- [Butantan pede registro de vacina contra dengue para Anvisa](https://ultimosegundo.ig.com.br/brasil/2024-12-16/butantan-pede-registro-de-vacina-contra-dengue-para-anvisa.html) (Ig.com.br)
+
+- [Por qué está costando conseguir un turno para darse la vacuna contra el dengue](https://www.lanacion.com.ar/sociedad/por-que-esta-costando-conseguir-un-turno-para-darse-la-vacuna-contra-el-dengue-nid16122024/) (La Nacion)
 
 - [Butantan pede à Anvisa registro da sua vacina contra a dengue, a 1ª do mundo em dose única](https://ultimosegundo.ig.com.br/parceiros/gps-brasilia/2024-12-16/butantan-pede-a-anvisa-registro-da-sua-vacina-contra-a-dengue--a-1-do-mundo-em-dose-unica.html) (Ig.com.br)
 
@@ -2375,6 +2413,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Expert Says Unlikely Peanut Had Rabies, Officials Might Have Been Impulsive](https://www.tmz.com/2024/11/05/peanut-squirrel-unlikely-had-rabies-expert/) (TMZ)
 
+- [Social Media Star Peanut the Squirrel Euthanized by New York State, Owners Plan to Take Legal Action](https://www.justjared.com/2024/11/03/social-media-star-peanut-the-squirrel-euthanized-by-new-york-state-owners-plan-to-take-legal-action/) (Just Jared)
+
+- [Why Instagram-famous 'Peanut the Squirrel' was euthanised by NY officials? The controversy that caught US elections by storm](https://economictimes.indiatimes.com/news/international/global-trends/why-instagram-famous-peanut-the-squirrel-was-euthanised-by-ny-officials-the-controversy-that-caught-us-elections-by-storm/articleshow/114913238.cms) (The Times of India)
+
 ## 24-45 (pertussis)
 
 - [Whooping cough found at NMU](https://www.wnmufm.org/health/2024-11-05/whooping-cough-found-at-nmu) (Wnmufm.org)
@@ -2505,6 +2547,8 @@ Source: [News API](https://newsapi.org/)
 
 - [More cases of new mpox strain detected in UK](https://news.sky.com/story/mpox-more-cases-of-new-clade-1b-strain-detected-in-uk-13248258) (Sky.com)
 
+- [Mpox cases in Congo may be stabilizing, but more vaccines needed to stamp out virus](https://www.voanews.com/a/mpox-cases-in-congo-may-be-stabilizing-but-more-vaccines-needed-to-stamp-out-virus-/7849399.html) (VOA News)
+
 ## 24-45 (meningitis)
 
 - [Signs of deadly infection passed through sharing straws following the death of 19-year-old after music festival](https://www.ladbible.com/news/health/meningitis-b-signs-deadly-infection-710455-20241107) (LADbible)
@@ -2520,6 +2564,8 @@ Source: [News API](https://newsapi.org/)
 - [Number of confirmed measles cases in New Brunswick rises to 25](https://www.cbc.ca/news/canada/new-brunswick/nov-9-measles-update-1.7379486) (CBC News)
 
 - [Trump May End Water Fluoridation On Day One, Will Consider Banning Vaccines](https://www.wonkette.com/p/trump-may-end-water-fluoridation) (Wonkette.com)
+
+- [Trump Thinks America Wants His Perversions (A.B. Stoddard/The Bulwark)](https://www.memeorandum.com/241103/p22) (Memeorandum.com)
 
 ## 24-45 (malaria)
 
@@ -2677,6 +2723,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Highly Pathogenic Avian Influenza A(H5N1) Virus Infection in Cats, South Korea, 2023](https://wwwnc.cdc.gov/eid/article/30/12/24-0154_article) (Cdc.gov)
 
+- [חזיר נדבק בשפעת העופות בארה"ב: "חשש מווירוס חדש ואלים שידביק בני אדם"](https://www.ynet.co.il/health/article/byho112vbkl) (Ynet)
+
+- [„Der Mensch ist bislang kein guter Wirt“](https://www.faz.net/aktuell/wissen/leben-gene/vogelgrippe-was-der-uebersprung-aufs-schwein-bedeutet-110083432.html) (Faz.net)
+
 ## 24-45 (dengue)
 
 - [Lei que prevê contratação de 800 agentes de saúde é publicada no DODF](https://www.metropoles.com/distrito-federal/lei-que-preve-contratacao-de-800-agentes-de-saude-e-publicada-no-dodf) (Metropoles.com)
@@ -2738,6 +2788,8 @@ Source: [News API](https://newsapi.org/)
 - [Baguio: Karaniwang mga sakit, dapat hindi dapat ipagwalang bahala – Dr. Brillantes](https://rpnradio.com/baguio-karaniwang-mga-sakit-dapat-hindi-dapat-ipagwalang-bahala-dr-brillantes/) (Rpnradio.com)
 
 - [Mosquito da dengue pica por cima da roupa? Veja a opinião de especialistas](https://catracalivre.com.br/saude-bem-estar/mosquito-da-dengue-pica-roupa/) (Catracalivre.com.br)
+
+- [Kolkata reports second dengue death in Bidhannagar amid declining cases](https://timesofindia.indiatimes.com/city/kolkata/kolkata-reports-second-dengue-death-in-bidhannagar-area-amid-declining-cases/articleshow/114910748.cms) (The Times of India)
 
 ## 24-45 (chikungunya)
 
