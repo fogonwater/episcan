@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 18
-- **Last harvest:** 2024-12-18 07:06
-- **Most recent article:** 2024-12-17 06:14:44
+- **New articles in last harvest:** 42
+- **Last harvest:** 2024-12-18 19:05
+- **Most recent article:** 2024-12-17 18:46:02
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-45 | 24-46 | 24-47 | 24-48 | 24-49 | 24-50 | 24-51 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 61 | 62 | 76 | 26 | 20 | 26 | 43 | 314 |
-| h5n1 | 36 | 40 | 50 | 38 | 70 | 61 | 8 | 303 |
-| malaria | 26 | 33 | 27 | 29 | 27 | 76 | 4 | 222 |
-| dengue | 31 | 36 | 28 | 25 | 10 | 33 | 17 | 180 |
-| measles | 3 | 33 | 11 | 6 | 9 | 10 | 1 | 73 |
-| rabies | 5 | 11 | 7 | 12 | 13 | 3 | 0 | 51 |
+| mpox | 60 | 62 | 76 | 26 | 20 | 26 | 62 | 332 |
+| h5n1 | 34 | 40 | 50 | 38 | 70 | 61 | 13 | 306 |
+| malaria | 26 | 33 | 27 | 29 | 27 | 76 | 16 | 234 |
+| dengue | 30 | 36 | 28 | 25 | 10 | 33 | 21 | 183 |
+| measles | 2 | 33 | 11 | 6 | 9 | 10 | 1 | 72 |
+| rabies | 3 | 11 | 7 | 12 | 13 | 3 | 0 | 49 |
 | chikungunya | 2 | 3 | 5 | 4 | 6 | 7 | 2 | 29 |
-| pertussis | 3 | 8 | 5 | 1 | 4 | 6 | 0 | 27 |
-| meningitis | 4 | 2 | 5 | 3 | 3 | 7 | 1 | 25 |
+| pertussis | 3 | 8 | 5 | 1 | 4 | 6 | 1 | 28 |
+| meningitis | 4 | 2 | 5 | 3 | 3 | 7 | 2 | 26 |
 | zika | 9 | 4 | 3 | 1 | 4 | 4 | 0 | 25 |
 | hpai | 4 | 4 | 4 | 0 | 2 | 4 | 2 | 20 |
 | leptospirosis | 10 | 3 | 0 | 2 | 0 | 3 | 0 | 18 |
@@ -33,7 +33,49 @@ Source: [News API](https://newsapi.org/)
 
 ---
 
+## 24-51 (pertussis)
+
+- [Keuchhusten mit hohen Fallzahlen](https://tirol.orf.at/stories/3285693/) (Tirol.orf.at)
+
 ## 24-51 (mpox)
+
+- [Mpox in Deutschland: Was die Schulschließung wegen der neuen mpox-Variante bedeutet](https://www.zeit.de/gesundheit/2024-12/mpox-deutschland-virus-variante-pandemie-koeln) (Die Zeit)
+
+- [Mpox-Virus: Bislang keine weiteren Fälle von Mpox in Deutschland bekannt](https://www.zeit.de/gesundheit/2024-12/mpox-virus-nrw-familie-rheinisch-bergisch-kreis) (Die Zeit)
+
+- [Neue Mpox-Variante in Deutschland: Schule in Nordrhein-Westfalen vorsorglich geschlossen](https://taz.de/Neue-Mpox-Variante-in-Deutschland/!6054350/) (taz.de)
+
+- [Krankheiten: Wegen Mpox: Schule in NRW vorsorglich geschlossen](https://www.tagesspiegel.de/krankheiten-wegen-mpox-schule-in-nrw-vorsorglich-geschlossen-12892036.html) (Der Tagesspiegel)
+
+- [Zwei infizierte Kinder bei Köln: Schulschließung wegen Mpox - Wie bedrohlich ist die Lage?](https://www.n-tv.de/wissen/Schulschliessung-wegen-Mpox-Wie-bedrohlich-ist-die-Lage-article25438241.html) (N-tv.de)
+
+- [Małpia ospa w Niemczech. Wirus został wykryty u dzieci. Zamknięto szkołę](https://wiadomosci.gazeta.pl/wiadomosci/7,114881,31552237,malpia-ospa-w-niemczech-wirus-zostal-wykryty-u-dzieci-zamknieto.html) (Gazeta.pl)
+
+- [Krankheiten: Kreis: Bislang keine weiteren Fälle von Mpox bekannt](https://www.stern.de/panorama/wissen/krankheiten--kreis--bislang-keine-weiteren-faelle-von-mpox-bekannt-35316198.html) (STERN.de)
+
+- [Ansteckende Virusinfektion - Schule bei Köln schließt wegen Mpox - wie sich das Virus verbreitet](https://www.focus.de/gesundheit/news/schulschliessung-wegen-mpox_id_260569419.html) (Focus)
+
+- [Ansteckende Virusinfektion: Schulschließung wegen Mpox - Was bedeutet das?](https://www.tagesspiegel.de/wissen/ansteckende-virusinfektion-schulschliessung-wegen-mpox-was-bedeutet-das-12889627.html) (Der Tagesspiegel)
+
+- [Ansteckende Virusinfektion: Schulschließung wegen Mpox - Was bedeutet das?](https://www.zeit.de/news/2024-12/17/schulschliessung-wegen-mpox-was-bedeutet-das) (Die Zeit)
+
+- [Ansteckende Virusinfektion: Schulschließung wegen Mpox - Was bedeutet das?](https://www.stern.de/panorama/wissen/ansteckende-virusinfektion--schulschliessung-wegen-mpox---was-bedeutet-das--35317850.html) (STERN.de)
+
+- [WHO hat weltweit Notlage ausgerufen - Wie gefährlich ist Mpox für Menschen?](https://www.focus.de/gesundheit/who-hat-weltweit-notlage-ausgerufen-wie-gefaehrlich-ist-mpox-fuer-menschen_id_260225510.html) (Focus)
+
+- [Maymun çiçeği virüsü Avrupa'da yayılıyor: Almanya'da eğitime ara verildi!](https://www.turkiyegazetesi.com.tr/dunya/maymun-cicegi-virusu-avrupada-yayiliyor-almanyada-egitime-ara-verildi-1080747) (Turkiyegazetesi.com.tr)
+
+- [„Eine Familie aus dem Landkreis hat sich mit dem Mpox-Virus infiziert“](https://www.welt.de/vermischtes/video254894358/Mpox-Virus-in-NRW-Eine-Familie-aus-dem-Landkreis-hat-sich-mit-dem-Mpox-Virus-infiziert.html) (DIE WELT)
+
+- [„Rund 4000 infektiöse Fälle sind in Deutschland bekannt“](https://www.welt.de/vermischtes/video254894358/Mpox-Virus-in-NRW-Rund-4000-infektioese-Faelle-sind-in-Deutschland-bekannt.html) (DIE WELT)
+
+- [Mpox-Virus: Förderschule in NRW nach Mpox-Infektionen vorrübergehend geschlossen](https://www.zeit.de/gesellschaft/zeitgeschehen/2024-12/nrw-mpox-variante-schule-geschlossen) (Die Zeit)
+
+- [Schulschließung wegen Mpox-Viren: Wie gefährlich sind die Affenpocken?](https://www.telepolis.de/features/Schulschliessung-wegen-Mpox-Viren-Wie-gefaehrlich-sind-die-Affenpocken-10202373.html) (Telepolis.de)
+
+- [Ανακοίνωση Υπουργείου Υγείας για την νόσο Mpox ( Ευλογιά των Πιθήκων ) – Ό,τι πρέπει να γνωρίζεις](https://dialogos.com.cy/anakoinosi-ypoyrgeioy-ygeias-gia-tin-noso-mpox-eylogia-ton-pithikon-oti-prepei-na-gnorizeis/) (Dialogos.com.cy)
+
+- [Wegen Mpox – Behörden schließen Schule in NRW nach Infektion von zwei Kindern](https://www.welt.de/wissenschaft/video254894214/Roesrath-bei-Koeln-Wegen-Mpox-Behoerden-schliessen-Schule-in-NRW-nach-Infektion-von-zwei-Kindern.html) (DIE WELT)
 
 - [Ouganda: le nombre de cas de Mpox atteint le millier](https://fr.sputniknews.africa/20241217/ouganda-le-nombre-de-cas-de-mpox-atteint-le-millier-1069750328.html) (Sputniknews.africa)
 
@@ -123,6 +165,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-51 (meningitis)
 
+- [Targeted metabolomics investigation of metabolic markers of Mycobacterium tuberculosis in the cerebrospinal fluid of paediatric patients with tuberculous meningitis](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0314854) (Plos.org)
+
 - [Luis Canut cuenta lo que sufre su mujer Patricia Pérez desde que se quedó ciego](https://www.bekia.es/celebrities/noticias/luis-canut-cuenta-sufre-mujer-patricia-perez-ciego/) (Bekia.es)
 
 ## 24-51 (measles)
@@ -130,6 +174,30 @@ Source: [News API](https://newsapi.org/)
 - [Toddler diagnosed with measles in Brisbane had passed through multiple airports](https://www.9news.com.au/national/measles-alert-brisbane-two-year-old-boy-confirmed-case/f3b785ff-9686-41fa-9be9-70a51899d530) (9News)
 
 ## 24-51 (malaria)
+
+- [La «maladie mystérieuse» en République démocratique du Congo est une forme grave de malaria](https://www.liberation.fr/international/afrique/la-maladie-mysterieuse-en-republique-democratique-du-congo-est-une-forme-grave-de-malaria-20241217_V5IMAUEQX5GERDJXJZZVJRMMRA/) (Libération)
+
+- [Malattia del Congo, il ministero della Sanità: “Non è misteriosa, ma solo una forma grave di malaria”](https://www.ilfattoquotidiano.it/2024/12/17/malattia-del-congo-il-ministero-della-sanita-non-e-misteriosa-ma-solo-una-forma-grave-di-malaria/7808236/) (Ilfattoquotidiano.it)
+
+- [143 Menschen ums Leben gekommen: Mysteriöse Krankheit im Kongo ist schwere Malaria](https://www.tagesspiegel.de/wissen/143-menschen-ums-leben-gekommen-mysteriose-krankheit-im-kongo-ist-schwere-malaria-12892375.html) (Der Tagesspiegel)
+
+- [Torna dal Congo e muore in Veneto per una febbre con emorragia](https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2024/12/17/torna-dal-congo-e-muore-in-veneto-per-una-febbre-con-emorragia_378702f5-71b1-4dfd-b161-0ea6385d88f4.html) (ANSA.it)
+
+- [In Congo "forma grave di malaria". Torna dal Congo e muore per sospetta febbre con emorragia](https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2024/12/17/-torna-dal-congo-e-muore-per-sospetta-febbre-con-emorragia-_378702f5-71b1-4dfd-b161-0ea6385d88f4.html) (ANSA.it)
+
+- [Congo's health ministry says unknown disease is severe malaria](https://www.channelnewsasia.com/world/congos-health-ministry-says-unknown-disease-severe-malaria-4812301) (CNA)
+
+- [Misterio resuelto: la enfermedad X que ha matado a 143 personas en Congo es una forma grave de malaria](https://www.eldiario.es/sociedad/misterio-resuelto-enfermedad-x-matado-143-personas-congo-forma-grave-malaria_1_11909179.html) (Eldiario.es)
+
+- [Alvorlig malaria bag mystiske dødsfald i DR Congo](https://www.dr.dk/nyheder/seneste/alvorlig-malaria-bag-mystiske-doedsfald-i-dr-congo) (Www.dr.dk)
+
+- [»Mysteriet er endelig løst«: Alvorlig malaria skyld i flere dødsfald i centralafrikansk land](https://politiken.dk/internationalt/art10213894/%C2%BBMysteriet-er-endelig-l%C3%B8st%C2%AB-Alvorlig-malaria-skyld-i-flere-d%C3%B8dsfald-i-centralafrikansk-land) (Politiken.dk)
+
+- [Behörden: „Krankheit X“ in DR Kongo schwere Malaria](https://orf.at/stories/3379247/) (Orf.at)
+
+- [Maternal lipid mobilization is essential for embryonic development in the malaria vector Anopheles gambiae](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002960) (Plos.org)
+
+- [Ukjent dødelig sykdom i Kongo er malaria](https://www.nrk.no/nyheter/ukjent-dodelig-sykdom-i-kongo-er-malaria-1.17173694) (NRK)
 
 - [IISER Pune Scientist Recognized by EMBO for Malaria Drug Resistance Research](https://timesofindia.indiatimes.com/education/news/iiser-pune-scientist-recognized-by-embo-for-malaria-drug-resistance-research/articleshow/116369416.cms) (The Times of India)
 
@@ -146,6 +214,16 @@ Source: [News API](https://newsapi.org/)
 - [Helport AI to Participate in Fireside Chat with Alliance Global Partners on December 17, 2024](https://www.globenewswire.com/news-release/2024/12/16/2997534/0/en/Helport-AI-to-Participate-in-Fireside-Chat-with-Alliance-Global-Partners-on-December-17-2024.html) (GlobeNewswire)
 
 ## 24-51 (h5n1)
+
+- [OMS reporta más de 70 casos de gripe aviar en humanos durante 2024](https://www.milenio.com/internacional/oms-reporta-aumento-casos-gripe-aviar-humanos-2024) (Milenio)
+
+- [Bird flu case confirmed in Texas City after infected bird found](https://www.fox26houston.com/news/bird-flu-case-detected-texas-city-infected-bird) (fox26houston.com)
+
+- [Bird Flu Threat: Is the Next Human Pandemic Coming?](https://economictimes.indiatimes.com/news/international/us/bird-flu-threat-is-the-next-human-pandemic-coming/articleshow/116405072.cms) (The Times of India)
+
+- [La OMS sube a 76 los casos de gripe aviar en humanos en 2024, pero mantiene la alerta baja](https://www.montevideo.com.uy/Salud/La-OMS-sube-a-76-los-casos-de-gripe-aviar-en-humanos-en-2024-pero-mantiene-la-alerta-baja-uc909731) (Montevideo.com.uy)
+
+- [Wildest Things Science Learned about the Human Body in 2024](https://www.scientificamerican.com/article/wildest-things-science-learned-about-the-human-body-in-2024/) (Scientific American)
 
 - [Το ρολόι μίας νέας πανδημίας χτυπάει και δεν είμαστε έτοιμοι](https://www.skai.gr/news/health/covid-19-mia-alli-pandimia-einai-anapofeykti-kai-den-eimaste-etoimoi) (Skai.gr)
 
@@ -164,6 +242,14 @@ Source: [News API](https://newsapi.org/)
 - [« La gestion américaine de la crise du virus H5N1 met, et va continuer à mettre, le monde entier en danger »](https://www.lemonde.fr/idees/article/2024/12/15/la-gestion-americaine-de-la-crise-du-virus-h5n1-met-et-va-continuer-a-mettre-le-monde-entier-en-danger_6449393_3232.html) (Le Monde)
 
 ## 24-51 (dengue)
+
+- [Butantan cria primeira vacina de dose única contra dengue e solicita aprovação da Anvisa](https://www.tudocelular.com/mercado/noticias/n229670/butantan-cria-primeira-vacina-de-dose-unica-contra-dengue-e-solicita-aprovacao-da-anvisa.html) (Tudocelular.com)
+
+- [Brasil: Instituto Butantan solicita el registro de su vacuna contra el dengue](https://www.montevideo.com.uy/Salud/Brasil-Instituto-Butantan-solicita-el-registro-de-su-vacuna-contra-el-dengue-uc909737) (Montevideo.com.uy)
+
+- [Dengue: Butantan pede registro de vacina de dose única à Anvisa](https://olhardigital.com.br/2024/12/17/medicina-e-saude/dengue-butantan-pede-registro-de-vacina-de-dose-unica-a-anvisa/) (Olhardigital.com.br)
+
+- [Dengue toma impulso y se dispara en últimos 5 años; 2024 supera los 120 mil casos acumulados](https://www.excelsior.com.mx/nacional/dengue-toma-impulso-y-se-dispara-en-ultimos-5-anos-2024-supera-los-120-mil-casos-acumulados) (Excelsior.com.mx)
 
 - [Iriga: PHO, naitala ang pagtaas ng kaso sa dengue ngayong taon sa Albay](https://rpnradio.com/iriga-pho-naitala-ang-pagtaas-ng-kaso-sa-dengue-ngayong-taon-sa-albay/) (Rpnradio.com)
 
@@ -2413,10 +2499,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Expert Says Unlikely Peanut Had Rabies, Officials Might Have Been Impulsive](https://www.tmz.com/2024/11/05/peanut-squirrel-unlikely-had-rabies-expert/) (TMZ)
 
-- [Social Media Star Peanut the Squirrel Euthanized by New York State, Owners Plan to Take Legal Action](https://www.justjared.com/2024/11/03/social-media-star-peanut-the-squirrel-euthanized-by-new-york-state-owners-plan-to-take-legal-action/) (Just Jared)
-
-- [Why Instagram-famous 'Peanut the Squirrel' was euthanised by NY officials? The controversy that caught US elections by storm](https://economictimes.indiatimes.com/news/international/global-trends/why-instagram-famous-peanut-the-squirrel-was-euthanised-by-ny-officials-the-controversy-that-caught-us-elections-by-storm/articleshow/114913238.cms) (The Times of India)
-
 ## 24-45 (pertussis)
 
 - [Whooping cough found at NMU](https://www.wnmufm.org/health/2024-11-05/whooping-cough-found-at-nmu) (Wnmufm.org)
@@ -2547,8 +2629,6 @@ Source: [News API](https://newsapi.org/)
 
 - [More cases of new mpox strain detected in UK](https://news.sky.com/story/mpox-more-cases-of-new-clade-1b-strain-detected-in-uk-13248258) (Sky.com)
 
-- [Mpox cases in Congo may be stabilizing, but more vaccines needed to stamp out virus](https://www.voanews.com/a/mpox-cases-in-congo-may-be-stabilizing-but-more-vaccines-needed-to-stamp-out-virus-/7849399.html) (VOA News)
-
 ## 24-45 (meningitis)
 
 - [Signs of deadly infection passed through sharing straws following the death of 19-year-old after music festival](https://www.ladbible.com/news/health/meningitis-b-signs-deadly-infection-710455-20241107) (LADbible)
@@ -2564,8 +2644,6 @@ Source: [News API](https://newsapi.org/)
 - [Number of confirmed measles cases in New Brunswick rises to 25](https://www.cbc.ca/news/canada/new-brunswick/nov-9-measles-update-1.7379486) (CBC News)
 
 - [Trump May End Water Fluoridation On Day One, Will Consider Banning Vaccines](https://www.wonkette.com/p/trump-may-end-water-fluoridation) (Wonkette.com)
-
-- [Trump Thinks America Wants His Perversions (A.B. Stoddard/The Bulwark)](https://www.memeorandum.com/241103/p22) (Memeorandum.com)
 
 ## 24-45 (malaria)
 
@@ -2723,10 +2801,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Highly Pathogenic Avian Influenza A(H5N1) Virus Infection in Cats, South Korea, 2023](https://wwwnc.cdc.gov/eid/article/30/12/24-0154_article) (Cdc.gov)
 
-- [חזיר נדבק בשפעת העופות בארה"ב: "חשש מווירוס חדש ואלים שידביק בני אדם"](https://www.ynet.co.il/health/article/byho112vbkl) (Ynet)
-
-- [„Der Mensch ist bislang kein guter Wirt“](https://www.faz.net/aktuell/wissen/leben-gene/vogelgrippe-was-der-uebersprung-aufs-schwein-bedeutet-110083432.html) (Faz.net)
-
 ## 24-45 (dengue)
 
 - [Lei que prevê contratação de 800 agentes de saúde é publicada no DODF](https://www.metropoles.com/distrito-federal/lei-que-preve-contratacao-de-800-agentes-de-saude-e-publicada-no-dodf) (Metropoles.com)
@@ -2788,8 +2862,6 @@ Source: [News API](https://newsapi.org/)
 - [Baguio: Karaniwang mga sakit, dapat hindi dapat ipagwalang bahala – Dr. Brillantes](https://rpnradio.com/baguio-karaniwang-mga-sakit-dapat-hindi-dapat-ipagwalang-bahala-dr-brillantes/) (Rpnradio.com)
 
 - [Mosquito da dengue pica por cima da roupa? Veja a opinião de especialistas](https://catracalivre.com.br/saude-bem-estar/mosquito-da-dengue-pica-roupa/) (Catracalivre.com.br)
-
-- [Kolkata reports second dengue death in Bidhannagar amid declining cases](https://timesofindia.indiatimes.com/city/kolkata/kolkata-reports-second-dengue-death-in-bidhannagar-area-amid-declining-cases/articleshow/114910748.cms) (The Times of India)
 
 ## 24-45 (chikungunya)
 

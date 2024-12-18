@@ -1,8 +1,764 @@
 {
-  "last_updated": "2024-12-18 07:06",
-  "count_articles_total": 1248,
-  "count_articles_new": 18,
+  "last_updated": "2024-12-18 19:05",
+  "count_articles_total": 1283,
+  "count_articles_new": 42,
   "articles": [
+    {
+      "id": 16499,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "ZEIT ONLINE: Gesundheit - Tom Kattwinkel, Ingo Arzt",
+      "title": "Mpox in Deutschland: Was die Schulschlie\u00dfung wegen der neuen mpox-Variante bedeutet",
+      "description": "Erstmals muss in Deutschland eine Schule wegen des mpox-Virus schlie\u00dfen. Das Virus droht eine Pandemie auszul\u00f6sen. Ein Grund zur Sorge? Ja, aber anders als gedacht.",
+      "url": "https://www.zeit.de/gesundheit/2024-12/mpox-deutschland-virus-variante-pandemie-koeln",
+      "urlToImage": "https://img.zeit.de/gesundheit/2024-12/mpox-deutschland-virus-variante-pandemie-koeln-bild/wide__1300x731",
+      "publishedAt": "2024-12-17 18:46:02",
+      "content": "Schlie\u00dfen Artikelzusammenfassung In R\u00f6srath wurde eine Schule aufgrund von zwei Sch\u00fclern, die sich mit der neuen Mpox-Variante 1b infiziert haben, bis zu den Weihnachtsferien geschlossen. Die Kinde\u2026 [+972 chars]",
+      "retrievedAt": "2024-12-18 19:05:57.655846",
+      "internal_id": "4c9820158b9e159a3ee7277bf155056824b21ec988a2cf61bf1c099b7d0ed8dd",
+      "publishedAtLabel": "Dec 17"
+    },
+    {
+      "id": 16485,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "liberation",
+      "source_name": "Lib\u00e9ration",
+      "author": "LIBERATION, AFP, Reuters .",
+      "title": "La \u00abmaladie myst\u00e9rieuse\u00bb en R\u00e9publique d\u00e9mocratique du Congo est une forme grave de malaria",
+      "description": "Le minist\u00e8re de la sant\u00e9 congolais a lev\u00e9 ce mardi 17 d\u00e9cembre le voile sur la nature de l\u2019affection, qui a fait des dizaines de victimes en un peu plus d\u2019un mois dans une r\u00e9gion recul\u00e9e du pays.",
+      "url": "https://www.liberation.fr/international/afrique/la-maladie-mysterieuse-en-republique-democratique-du-congo-est-une-forme-grave-de-malaria-20241217_V5IMAUEQX5GERDJXJZZVJRMMRA/",
+      "urlToImage": "https://www.liberation.fr/resizer/LVe6HN8Fq-h1sHpZE9iu5qBiCVg=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/4HTWTHY4JZGH3DX5Q6Y5G77VG4.jpg",
+      "publishedAt": "2024-12-17 18:19:29",
+      "content": "\u00abLe myst\u00e8re est enfin r\u00e9solu\u00bb. Le minist\u00e8re de la Sant\u00e9 de la R\u00e9publique d\u00e9mocratique du Congo a annonc\u00e9 ce mardi 17 d\u00e9cembre que la maladie non identifi\u00e9e circulant dans le pays \u00e9tait une forme grav\u2026 [+1454 chars]",
+      "retrievedAt": "2024-12-18 19:05:56.751800",
+      "internal_id": "7c1c9e962cc3945c07f1237d9a92790e372966ad360e9b3da480272759f6fda9",
+      "publishedAtLabel": "Dec 17"
+    },
+    {
+      "id": 16476,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Milenio",
+      "author": "Agencia EFE",
+      "title": "OMS reporta m\u00e1s de 70 casos de gripe aviar en humanos durante 2024",
+      "description": "La Organizaci\u00f3n Mundial de la Salud (OMS) elev\u00f3 este martes a 76 el n\u00famero total de casos notificados de gripe aviar (H5N1) en humanos en lo que va de 2024, aunque subray\u00f3 que el riesgo para la poblaci\u00f3n general de infectarse sigue siendo bajo.En una actualiz\u2026",
+      "url": "https://www.milenio.com/internacional/oms-reporta-aumento-casos-gripe-aviar-humanos-2024",
+      "urlToImage": "https://cdn.milenio.com/uploads/media/2024/12/17/casos-de-gripe-aviar-foto.jpeg",
+      "publishedAt": "2024-12-17 17:50:53",
+      "content": "La Organizaci\u00f3n Mundial de la Salud (OMS) elev\u00f3 este martes a 76 el n\u00famero total de casos notificados de gripe aviar (H5N1) en humanos en lo que va de 2024, aunque subray\u00f3 que el riesgo para la pobla\u2026 [+1669 chars]",
+      "retrievedAt": "2024-12-18 19:05:55.557462",
+      "internal_id": "3668cc4165f2faaf98a59c39e686f93d9eade1d2669fada5a522ccfc4c252068",
+      "publishedAtLabel": "Dec 17"
+    },
+    {
+      "id": 16498,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "ZEIT ONLINE: Gesundheit - Larissa K\u00f6gl",
+      "title": "Mpox-Virus: Bislang keine weiteren F\u00e4lle von Mpox in Deutschland bekannt",
+      "description": "Die mit dem Mpox-Virus infizierte Familie in NRW hat bisher einen milden Krankheitsverlauf. Eine Schule wurde geschlossen, die Betroffenen sind in h\u00e4uslicher Quarant\u00e4ne.",
+      "url": "https://www.zeit.de/gesundheit/2024-12/mpox-virus-nrw-familie-rheinisch-bergisch-kreis",
+      "urlToImage": "https://img.zeit.de/administratives/sharing/fallback-image/wide__1300x731",
+      "publishedAt": "2024-12-17 17:49:08",
+      "content": "Nach dem Nachweis des Mpox-Virus bei einer Familie im Rheinisch-Bergischen Kreis bei K\u00f6ln sind bisher keine weiteren F\u00e4lle bekanntgeworden. Vier Familienmitglieder hatten sich mit der neuen Variante \u2026 [+1262 chars]",
+      "retrievedAt": "2024-12-18 19:05:57.648784",
+      "internal_id": "e7b00f48e7a5010b6225a8e2944060cae19ba8bbdee9867d579a99392a630e70",
+      "publishedAtLabel": "Dec 17"
+    },
+    {
+      "id": 16487,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Ilfattoquotidiano.it",
+      "author": "F. Q.",
+      "title": "Malattia del Congo, il ministero della Sanit\u00e0: \u201cNon \u00e8 misteriosa, ma solo una forma grave di malaria\u201d",
+      "description": "I sintomi di questa malattia sono mal di testa, tosse, febbre, difficolt\u00e0 respiratorie, dolori muscolari, affaticamento e anemia (nei casi gravi) L'articolo Malattia del Congo, il ministero della Sanit\u00e0: \u201cNon \u00e8 misteriosa, ma solo una forma grave di malaria\u201d \u2026",
+      "url": "https://www.ilfattoquotidiano.it/2024/12/17/malattia-del-congo-il-ministero-della-sanita-non-e-misteriosa-ma-solo-una-forma-grave-di-malaria/7808236/",
+      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2024/12/05/Congo_malattia_sconosciuta_morti-1200x630.jpg",
+      "publishedAt": "2024-12-17 17:30:04",
+      "content": "Roma, 17 dic. (Adnkronos Salute) - Tempo di bilanci per la Societ\u00e0 Italiana di andrologia che in questi giorni ha riunito a Milano i suoi esperti in una 2 giorni di lavori incentrati su S3, Salute Se\u2026 [+4537 chars]",
+      "retrievedAt": "2024-12-18 19:05:56.776635",
+      "internal_id": "612cb1768cc385fbe2b1c23990ad1e051d3466a24bf31a36657266dcc50ca2fe",
+      "publishedAtLabel": "Dec 17"
+    },
+    {
+      "id": 16495,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Der Tagesspiegel",
+      "title": "143 Menschen ums Leben gekommen: Mysteri\u00f6se Krankheit im Kongo ist schwere Malaria",
+      "description": "Eine schwere Malaria in Form einer Atemwegserkrankung grassiert in Kongo. Unterern\u00e4hrung soll bei dem Krankheitsverlauf eine Rolle spielen",
+      "url": "https://www.tagesspiegel.de/wissen/143-menschen-ums-leben-gekommen-mysteriose-krankheit-im-kongo-ist-schwere-malaria-12892375.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/12892525/alternates/BASE_16_9_W1400/1734455719000/bei-der-krankheit-x-handelt-es-sich-um-schwere-malaria-in-form-einer-atemwegserkrankung.jpeg",
+      "publishedAt": "2024-12-17 17:16:04",
+      "content": "Bei einer bisher mysteri\u00f6sen Erkrankung in einer abgelegenen Region der Demokratischen Republik Kongo handelt es sich nach Einsch\u00e4tzung der Beh\u00f6rden um eine schwere Form der Malaria. Das R\u00e4tsel ist e\u2026 [+472 chars]",
+      "retrievedAt": "2024-12-18 19:05:56.854685",
+      "internal_id": "83be5256472894ec841bc6431bd4cfa638624070f3f016e76d2dbb9cb97e2771",
+      "publishedAtLabel": "Dec 17"
+    },
+    {
+      "id": 16486,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Torna dal Congo e muore in Veneto per una febbre con emorragia",
+      "description": "La Regione avvia accertamenti con lo Spallanzani. Per il paese africano la malattia misteriosa \"\u00e8 una grave forma di malaria\", ma per l'Oms non \u00e8 ancora determinata la causa (ANSA)",
+      "url": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2024/12/17/torna-dal-congo-e-muore-in-veneto-per-una-febbre-con-emorragia_378702f5-71b1-4dfd-b161-0ea6385d88f4.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2022/8/6/e5a981379035efae78d3938a440c5a03.jpg",
+      "publishedAt": "2024-12-17 17:12:15",
+      "content": "Un caso sospetto di morte per febbre con emorragia in una persona di 55 anni, rientrata di recente da un viaggio in Congo, residente in provincia di Treviso, \u00e8 stato comunicato dal Servizio Igiene Sa\u2026 [+2115 chars]",
+      "retrievedAt": "2024-12-18 19:05:56.770062",
+      "internal_id": "4cb391f95b3aea0ef947587f0ee4cd67c11ca4fea7cfbe68ab3896d08ac02a4c",
+      "publishedAtLabel": "Dec 17"
+    },
+    {
+      "id": 16488,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "In Congo \"forma grave di malaria\". Torna dal Congo e muore per sospetta febbre con emorragia",
+      "description": "Un caso sospetto di morte per febbre con emorragia in una persona di 55 anni, rientrata di recente da un viaggio in Congo, residente in provincia di Treviso, \u00e8 stato comunicato dal Servizio Igiene Sanit\u00e0 Pubblica dell'Azienda Ulss 2 Marca trevigiana. (ANSA)",
+      "url": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2024/12/17/-torna-dal-congo-e-muore-per-sospetta-febbre-con-emorragia-_378702f5-71b1-4dfd-b161-0ea6385d88f4.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2022/8/6/e5a981379035efae78d3938a440c5a03.jpg",
+      "publishedAt": "2024-12-17 16:36:31",
+      "content": "Il ministero della Sanit\u00e0 della Repubblica Democratica del Congo ha dichiarato oggi che la malattia precedentemente non identificata e che circola nella regione di Panzi \u00e8 \"una forma grave di malaria\u2026 [+1068 chars]",
+      "retrievedAt": "2024-12-18 19:05:56.783293",
+      "internal_id": "94d2c10801b2cdcf1db65fa55220c384ce55bcafbc614fc7d102eb18bb1a2b40",
+      "publishedAtLabel": "Dec 17"
+    },
+    {
+      "id": 16494,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "CNA",
+      "author": null,
+      "title": "Congo's health ministry says unknown disease is severe malaria",
+      "description": "LUBUMBASHI: Democratic Republic of Congo's health ministry said on Tuesday (Dec 17) that a previously unidentified disease circulating in the country's Panzi&nb",
+      "url": "https://www.channelnewsasia.com/world/congos-health-ministry-says-unknown-disease-severe-malaria-4812301",
+      "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--rcdMl53w--/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/congo_disease_30067.jpg?itok=JVQkYm0_",
+      "publishedAt": "2024-12-17 16:35:11",
+      "content": "LUBUMBASHI: Democratic Republic of Congo's health ministry said on Tuesday (Dec 17) that a previously unidentified disease circulating in the country's Panzi health zone is a severe form of malaria. \u2026 [+406 chars]",
+      "retrievedAt": "2024-12-18 19:05:56.847723",
+      "internal_id": "4c22403ae037b771de1c158a787db0b2460ae36949bbe35ae08926eada29076c",
+      "publishedAtLabel": "Dec 17"
+    },
+    {
+      "id": 16479,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "fox26houston.com",
+      "author": "Terrian Spurs",
+      "title": "Bird flu case confirmed in Texas City after infected bird found",
+      "description": "A case of the bird flu has been confirmed in Texas City by Galveston County officials after they detected the virus in a bird in December.",
+      "url": "https://www.fox26houston.com/news/bird-flu-case-detected-texas-city-infected-bird",
+      "urlToImage": "https://images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/12/1280/720/gettyimages-472088698.jpg?ve=1&tl=1",
+      "publishedAt": "2024-12-17 16:28:03",
+      "content": "GALVESTON COUNTY, Texas - The Galveston County Health District (GCHD) confirmed the first case of avian influenza (H5N1), a virus often called \"bird flu\", was detected in a bird found in Texas City e\u2026 [+2225 chars]",
+      "retrievedAt": "2024-12-18 19:05:55.584291",
+      "internal_id": "d79870b566c6bcfa1cfe581f9736490c05aa88218afbd709e6f9aea8abce1a6b",
+      "publishedAtLabel": "Dec 17"
+    },
+    {
+      "id": 16511,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "taz.de",
+      "author": "Luisa Faust",
+      "title": "Neue Mpox-Variante in Deutschland: Schule in Nordrhein-Westfalen vorsorglich geschlossen",
+      "description": "Weil sich zwei Kinder mit der neuen Mpox-Variante infiziert haben, bleibt ihre Schule vorsorglich geschlossen. Die Bedrohung ist laut RKI aber gering.",
+      "url": "https://taz.de/Neue-Mpox-Variante-in-Deutschland/!6054350/",
+      "urlToImage": "https://taz.de/picture/7421366/1200/36746533-1.jpeg",
+      "publishedAt": "2024-12-17 16:27:00",
+      "content": "Weil sich zwei Kinder mit der neuen Mpox-Variante infiziert haben, bleibt ihre Schule vorsorglich geschlossen. Die Bedrohung ist laut RKI aber gering. mehr...",
+      "retrievedAt": "2024-12-18 19:05:57.936454",
+      "internal_id": "66874d175d21891c8d107be9bcf3e3d72ecf5d1361aa4b10db2a08d7fb31e0be",
+      "publishedAtLabel": "Dec 17"
+    },
+    {
+      "id": 16503,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Der Tagesspiegel",
+      "title": "Krankheiten: Wegen Mpox: Schule in NRW vorsorglich geschlossen",
+      "description": "Wegen Mpox: Schule in NRW vorsorglich geschlossen",
+      "url": "https://www.tagesspiegel.de/krankheiten-wegen-mpox-schule-in-nrw-vorsorglich-geschlossen-12892036.html",
+      "urlToImage": null,
+      "publishedAt": "2024-12-17 16:01:03",
+      "content": "Nach einer Infektion von zwei Kindern mit der neuen Variante des Mpox-Virus wird eine Schule in der N\u00e4he von K\u00f6ln vorsorglich geschlossen. Die Sch\u00fcler einer F\u00f6rderschule in R\u00f6srath erhielten ab sofor\u2026 [+181 chars]",
+      "retrievedAt": "2024-12-18 19:05:57.762023",
+      "internal_id": "8a9c49117b4462ca26f8e39e8dcbb22683e175ba9741232d998ff1414c726918",
+      "publishedAtLabel": "Dec 17"
+    },
+    {
+      "id": 16496,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Eldiario.es",
+      "author": "elDiario.es",
+      "title": "Misterio resuelto: la enfermedad X que ha matado a 143 personas en Congo es una forma grave de malaria",
+      "description": "Las autoridades de la Rep\u00fablica Democr\u00e1tica del Congo informan de que el brote, que estaba bajo la lupa de la OMS, se debe en realidad a casos de malaria agravada por la desnutrici\u00f3n en la regi\u00f3n afectada Hemeroteca - La OMS investiga una enfermedad descono\u2026",
+      "url": "https://www.eldiario.es/sociedad/misterio-resuelto-enfermedad-x-matado-143-personas-congo-forma-grave-malaria_1_11909179.html",
+      "urlToImage": "https://static.eldiario.es/clip/bc538758-b9e5-41b8-aa29-3e565d71e7e4_facebook-watermarked-aspect-ratio_default_0.jpg",
+      "publishedAt": "2024-12-17 15:35:26",
+      "content": "La enfermedad desconocida con s\u00edntomas similares a los de la gripe que ha matado a 143 personas en una provincia del suroeste de la Rep\u00fablica Democr\u00e1tica del Congo es en realidad una forma grave de m\u2026 [+1329 chars]",
+      "retrievedAt": "2024-12-18 19:05:56.862412",
+      "internal_id": "b3cd620b2e55472fcda27acff82c8bbdb1236b9a9c865c5df81a9146ac18a5b0",
+      "publishedAtLabel": "Dec 17"
+    },
+    {
+      "id": 16481,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Tudocelular.com",
+      "author": "Tudocelular.com",
+      "title": "Butantan cria primeira vacina de dose \u00fanica contra dengue e solicita aprova\u00e7\u00e3o da Anvisa",
+      "description": "Vacina \u00e9 a primeira de dose \u00fanica no mundo contra a dengue com potencial de reduzir drasticamente as mortes pelo v\u00edrus no Brasil.",
+      "url": "https://www.tudocelular.com/mercado/noticias/n229670/butantan-cria-primeira-vacina-de-dose-unica-contra-dengue-e-solicita-aprovacao-da-anvisa.html",
+      "urlToImage": "https://t2.tudocdn.net/691369?w=1920",
+      "publishedAt": "2024-12-17 15:05:00",
+      "content": "O Brasil j\u00e1 possui campanhas de vacina\u00e7\u00e3o contra a dengue, mas o Instituto Butantan desenvolveu o primeiro imunizante de dose \u00fanica no mundo contra o v\u00edrus. Atualmente, a vacina est\u00e1 sob an\u00e1lise da A\u2026 [+1457 chars]",
+      "retrievedAt": "2024-12-18 19:05:55.970609",
+      "internal_id": "65d45d06d79239f8e525cfa8c6a90beed0aace85e9daa3d140591021cc56653b",
+      "publishedAtLabel": "Dec 17"
+    },
+    {
+      "id": 16490,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Www.dr.dk",
+      "author": null,
+      "title": "Alvorlig malaria bag mystiske d\u00f8dsfald i DR Congo",
+      "description": "Sundhedseksperter har den seneste m\u00e5neds tid k\u00e6mpet med at finde \u00e5rsagen til en hidtil ukendt sygdom, som har kostet over 100 mennesker livet i DR Congo.",
+      "url": "https://www.dr.dk/nyheder/seneste/alvorlig-malaria-bag-mystiske-doedsfald-i-dr-congo",
+      "urlToImage": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fapi.dr.dk%2Ffreja%2Fimage%2Fraw%2F317&w=700",
+      "publishedAt": "2024-12-17 15:03:00",
+      "content": "Israelske, amerikanske og egyptiske embedsm\u00e6nd er i dag samlet i den qatarske hovedstad, Doha, for at forhandle en v\u00e5benhvileaftale i Gaza. Og det g\u00e5r i en positiv retning, lyder det fra Hamas i en \u2026 [+819 chars]",
+      "retrievedAt": "2024-12-18 19:05:56.801770",
+      "internal_id": "c10394b832e7054264a5aeb63829d2c1e5e1d0d9ff26f2817bd400a08d64eb29",
+      "publishedAtLabel": "Dec 17"
+    },
+    {
+      "id": 16492,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Politiken.dk",
+      "author": null,
+      "title": "\u00bbMysteriet er endelig l\u00f8st\u00ab: Alvorlig malaria skyld i flere d\u00f8dsfald i centralafrikansk land",
+      "description": "Sygdom med influenzalignende symptomer har kostet over 100 mennesker livet i Den Demokratiske Republik Congo.",
+      "url": "https://politiken.dk/internationalt/art10213894/%C2%BBMysteriet-er-endelig-l%C3%B8st%C2%AB-Alvorlig-malaria-skyld-i-flere-d%C3%B8dsfald-i-centralafrikansk-land",
+      "urlToImage": "",
+      "publishedAt": "2024-12-17 14:50:55",
+      "content": "Gem artiklen Gemt L\u00e6st En hidtil ukendt sygdom, som har kostet over 100 mennesker livet i Den Demokratiske Republik Congo, har vist sig at v\u00e6re en alvorlig form for malaria. Det meddeler landets \u2026 [+1022 chars]",
+      "retrievedAt": "2024-12-18 19:05:56.815026",
+      "internal_id": "8a879a9a52a061402e39d036455d3e0b803bb76f2435b2584fe74d5aada092c6",
+      "publishedAtLabel": "Dec 17"
+    },
+    {
+      "id": 16491,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Orf.at",
+      "author": "ORF.at",
+      "title": "Beh\u00f6rden: \u201eKrankheit X\u201c in DR Kongo schwere Malaria",
+      "description": "",
+      "url": "https://orf.at/stories/3379247/",
+      "urlToImage": "https://orf.at/mojo/1_4_1/storyserver//news/common/images/og-fallback-news.png",
+      "publishedAt": "2024-12-17 14:29:19",
+      "content": "Bei einer bisher mysteri\u00f6sen Erkrankung in einer abgelegenen Region der Demokratischen Republik (DR) Kongo handelt es sich nach Einsch\u00e4tzung der Beh\u00f6rden um eine schwere Form der Malaria. Das R\u00e4tsel\u2026 [+301 chars]",
+      "retrievedAt": "2024-12-18 19:05:56.808428",
+      "internal_id": "6002f9d37e6d34d35543d03d4794c556bd2807bdd95f0e246342ecc847f4c14b",
+      "publishedAtLabel": "Dec 17"
+    },
+    {
+      "id": 16478,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "The Feed",
+      "title": "Bird Flu Threat: Is the Next Human Pandemic Coming?",
+      "description": "Bird flu, especially the H5N1 strain, has become a major concern worldwide due to its increasing spread and potential to mutate into a deadly human pandemic.",
+      "url": "https://economictimes.indiatimes.com/news/international/us/bird-flu-threat-is-the-next-human-pandemic-coming/articleshow/116405072.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-116405136,width-1200,height-630,imgsize-88814,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2024-12-17 14:09:34",
+      "content": "Finance Value and Valuation Masterclass By - CA Himanshu Jain, Ex McKinsey, Moody's, and PwC, Co - founder, The WallStreet School View Program",
+      "retrievedAt": "2024-12-18 19:05:55.571795",
+      "internal_id": "aefc3429d3e0716f143494103cd19e170349616d1e34e2a12f030b41c58a23d0",
+      "publishedAtLabel": "Dec 17"
+    },
+    {
+      "id": 16508,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "N-tv.de",
+      "author": "n-tv NACHRICHTEN",
+      "title": "Zwei infizierte Kinder bei K\u00f6ln: Schulschlie\u00dfung wegen Mpox - Wie bedrohlich ist die Lage?",
+      "description": "Eine Familie erkrankt in der N\u00e4he von K\u00f6ln an der neuen Mpox-Variante. Die Schule der betroffenen Kinder wird daraufhin vorsorglich geschlossen. Das weckt schlimme Erinnerungen an die Corona-Pandemie. Doch wie gro\u00df ist die Gefahr einer Ausbreitung der Mpox-Vi\u2026",
+      "url": "https://www.n-tv.de/wissen/Schulschliessung-wegen-Mpox-Wie-bedrohlich-ist-die-Lage-article25438241.html",
+      "urlToImage": "https://bilder2.n-tv.de/img/incoming/crop25438693/4811326299-cImg_16_9-w1200/490227620.jpg",
+      "publishedAt": "2024-12-17 14:00:27",
+      "content": "Eine Familie erkrankt in der N\u00e4he von K\u00f6ln an der neuen Mpox-Variante. Die Schule der betroffenen Kinder wird daraufhin vorsorglich geschlossen. Das weckt schlimme Erinnerungen an die Corona-Pandemie\u2026 [+6555 chars]",
+      "retrievedAt": "2024-12-18 19:05:57.866592",
+      "internal_id": "cf7c7c3d15afd07dafd413a71b07747451aa1e429d7b100c30a4aeeb1d7f3bef",
+      "publishedAtLabel": "Dec 17"
+    },
+    {
+      "id": 16484,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Victory Samuel, Regan Solomons, Shayne Mason",
+      "title": "Targeted metabolomics investigation of metabolic markers of Mycobacterium tuberculosis in the cerebrospinal fluid of paediatric patients with tuberculous meningitis",
+      "description": "Objective To investigate metabolic markers linked to Mycobacterium tuberculosis (M. tb) in the cerebrospinal fluid (CSF) of a South African cohort of paediatric tuberculous meningitis (TBM). Methods Targeted proton magnetic resonance (1H-NMR) spectroscopy a\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0314854",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0314854.g004&size=inline",
+      "publishedAt": "2024-12-17 14:00:00",
+      "content": "Abstract Objective To investigate metabolic markers linked to Mycobacterium tuberculosis (M. tb) in the cerebrospinal fluid (CSF) of a South African cohort of paediatric tuberculous meningitis (TBM\u2026 [+39953 chars]",
+      "retrievedAt": "2024-12-18 19:05:56.381977",
+      "internal_id": "f14a1f8bf57520950e448f1d4ffeded2a3a4960b42c0c7ebef8a3202650d4c81",
+      "publishedAtLabel": "Dec 17"
+    },
+    {
+      "id": 16489,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Maurice A. Itoe, W. Robert Shaw, Iryna Stryapunina, Charles Vidoudez, Duo Peng, Esrah W. Du, Tasneem A. Rinvee, Naresh Singh, Yan Yan, Oleksandr Hulai, Kate E. Thornburg, Flaminia Catteruccia",
+      "title": "Maternal lipid mobilization is essential for embryonic development in the malaria vector Anopheles gambiae",
+      "description": "Lipid mobilization contributes to the growth of Plasmodium falciparum parasites in their Anopheles vector, but whether it has a role role in mosquito reproduction remains unknown. These authors show that maternal lipid mobilization is essential for embryonic \u2026",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002960",
+      "urlToImage": "https://journals.plos.org/plosbiology/article/figure/image?id=10.1371/journal.pbio.3002960.g004&size=inline",
+      "publishedAt": "2024-12-17 14:00:00",
+      "content": "Abstract Lipid metabolism is an essential component in reproductive physiology. While lipid mobilization has been implicated in the growth of Plasmodium falciparum malaria parasites in their Anophel\u2026 [+81588 chars]",
+      "retrievedAt": "2024-12-18 19:05:56.795448",
+      "internal_id": "dab8aeb93cf91bdbed43d96fecfee22aa370bdee4826b438d8ff5c4788021d5b",
+      "publishedAtLabel": "Dec 17"
+    },
+    {
+      "id": 16514,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Gazeta.pl",
+      "author": "Izabela Alberczyk",
+      "title": "Ma\u0142pia ospa w Niemczech. Wirus zosta\u0142 wykryty u dzieci. Zamkni\u0119to szko\u0142\u0119",
+      "description": "Mpox (dawniej ma\u0142pia ospa) spowodowa\u0142a zamkni\u0119cie jednej ze szk\u00f3\u0142 w Niemczech - poinformowa\u0142 \"Bild\". Jak si\u0119 okaza\u0142o, do zara\u017cenia dzieci mia\u0142o doj\u015b\u0107 wskutek kontaktu z osob\u0105, kt\u00f3ra wr\u00f3ci\u0142a z Afryki. Dziennikarze ustalili, w jakim stanie s\u0105 chorzy.",
+      "url": "https://wiadomosci.gazeta.pl/wiadomosci/7,114881,31552237,malpia-ospa-w-niemczech-wirus-zostal-wykryty-u-dzieci-zamknieto.html",
+      "urlToImage": "https://bi.im-g.pl/im/ba/c7/1d/z31225786IER,Szpital--zdjecie-ilustracyjne-.jpg",
+      "publishedAt": "2024-12-17 13:58:00",
+      "content": "Zamkni\u0119ta szko\u0142a: Wed\u0142ug doniesie\u0144 \"Bild\" szko\u0142a w R\u00f6srath w pobli\u017cu Kolonii (Niemcy) zosta\u0142a zamkni\u0119ta. Powodem by\u0142o wykrycie wirusa mpox u dwojga dzieci. W zwi\u0105zku z tym uczniowie rozpocz\u0119li nauk\u0119 \u2026 [+1309 chars]",
+      "retrievedAt": "2024-12-18 19:05:57.978813",
+      "internal_id": "7cd36ff344e0dcb8b96f6bd64d4d4c9a4f80f98413262748ad0bb8c68b04732c",
+      "publishedAtLabel": "Dec 17"
+    },
+    {
+      "id": 16493,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "nrk",
+      "source_name": "NRK",
+      "author": "NRK",
+      "title": "Ukjent d\u00f8delig sykdom i Kongo er malaria",
+      "description": "Den ukjente sykdommen som har spredt seg i Den demokratiske republikken Kongo, er en alvorlig form for malaria. Det melder landets helsedepartement if\u00f8lge Reuters.",
+      "url": "https://www.nrk.no/nyheter/ukjent-dodelig-sykdom-i-kongo-er-malaria-1.17173694",
+      "urlToImage": "https://static.nrk.no/nrkno/serum/2.0.513/common/img/default.jpg",
+      "publishedAt": "2024-12-17 13:45:42",
+      "content": "Norsk Presseforbund, logo. Vi arbeider etterV\u00e6r Varsom-plakatens reglerfor god presseskikk. Den som mener seg rammet av urettmessig publisering, oppfordres til \u00e5 ta kontakt med redaksjonen. Pressen\u2026 [+135 chars]",
+      "retrievedAt": "2024-12-18 19:05:56.832671",
+      "internal_id": "e33b5bcf1534470017d9ae2408fa2ec04b798d5ec9be5989bb97427cbd7adfae",
+      "publishedAtLabel": "Dec 17"
+    },
+    {
+      "id": 16483,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "Brasil: Instituto Butantan solicita el registro de su vacuna contra el dengue",
+      "description": "De aprobarse, ser\u00e1 la primera inmunizaci\u00f3n monodosis contra le enfermedad.",
+      "url": "https://www.montevideo.com.uy/Salud/Brasil-Instituto-Butantan-solicita-el-registro-de-su-vacuna-contra-el-dengue-uc909737",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/201702/_W933_80/602597.jpg",
+      "publishedAt": "2024-12-17 13:28:00",
+      "content": "El Instituto Butantan solicit\u00f3 este lunes ante la Agencia Nacional de Vigilancia Sanitaria (Anvisa) de Brasil el registro de la vacuna contra el dengue que desarroll\u00f3 para poder comenzar a usarla, \u2026 [+2670 chars]",
+      "retrievedAt": "2024-12-18 19:05:56.020954",
+      "internal_id": "e087fa1f761c25bda66b9ed1577b5679e5fca85dc090a51f48bd4cf5420ee54b",
+      "publishedAtLabel": "Dec 17"
+    },
+    {
+      "id": 16512,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "Krankheiten: Kreis: Bislang keine weiteren F\u00e4lle von Mpox bekannt",
+      "description": "Die mit dem Mpox-Virus infizierte Familie aus dem Rheinisch-Bergischen Kreis bei K\u00f6ln hat bislang einen milden Krankheitsverlauf. Sie muss bis zum Abheilen des Hautausschlags in Quarant\u00e4ne bleiben.",
+      "url": "https://www.stern.de/panorama/wissen/krankheiten--kreis--bislang-keine-weiteren-faelle-von-mpox-bekannt-35316198.html",
+      "urlToImage": "https://image.stern.de/35318158/t/lD/v1/w1440/r1.7778/-/17--hegaoyzfbnv1axs2048jpeg---a5785e6263923a83.jpg",
+      "publishedAt": "2024-12-17 13:27:14",
+      "content": "Kopiere den aktuellen Link Die mit dem Mpox-Virus infizierte Familie aus dem Rheinisch-Bergischen Kreis bei K\u00f6ln hat bislang einen milden Krankheitsverlauf. Sie muss bis zum Abheilen des Hautausschl\u2026 [+2048 chars]",
+      "retrievedAt": "2024-12-18 19:05:57.943125",
+      "internal_id": "34fadffef94d3491ef43303fed834bb8e70082ac97756a39670dc094d84feba4",
+      "publishedAtLabel": "Dec 17"
+    },
+    {
+      "id": 16477,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "La OMS sube a 76 los casos de gripe aviar en humanos en 2024, pero mantiene la alerta baja",
+      "description": "La gran mayor\u00eda de los reportes proceden de Estados Unidos.",
+      "url": "https://www.montevideo.com.uy/Salud/La-OMS-sube-a-76-los-casos-de-gripe-aviar-en-humanos-en-2024-pero-mantiene-la-alerta-baja-uc909731",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/201505/_W933_80/500742.jpg",
+      "publishedAt": "2024-12-17 12:44:00",
+      "content": "La Organizaci\u00f3n Mundial de la Salud (OMS) elev\u00f3 este martes a 76 el n\u00famero total de casos notificados de gripe aviar (H5N1) en humanos en lo que va de 2024, aunque subray\u00f3 que el riesgo para la pob\u2026 [+1781 chars]",
+      "retrievedAt": "2024-12-18 19:05:55.564834",
+      "internal_id": "a53fdbb701a29b55e8e28db9b32d0514ca8add91651f20383a14892ed2863977",
+      "publishedAtLabel": "Dec 17"
+    },
+    {
+      "id": 16506,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "focus",
+      "source_name": "Focus",
+      "author": "dpa",
+      "title": "Ansteckende Virusinfektion - Schule bei K\u00f6ln schlie\u00dft wegen Mpox - wie sich das Virus verbreitet",
+      "description": "Zwei Kinder aus dem Rheinisch-Bergischen Kreis bei K\u00f6ln sind mit Mpox-Viren infiziert. Vorsorglich wird ihre Schule geschlossen. Besteht Grund zur Sorge? Antworten auf zentrale Fragen.",
+      "url": "https://www.focus.de/gesundheit/news/schulschliessung-wegen-mpox_id_260569419.html",
+      "urlToImage": "https://p6.focus.de/img/wissen/diverses/id_260569418/so-sehen-die-mpox-viruspartikel-unter-dem-mikroskop-aus.-archivbild-.jpg?im=Crop%3D%280%2C171%2C2048%2C1024%29%3BResize%3D%281200%2C627%29&impolicy=perceptual&quality=mediumHigh&hash=dfdacfce57b6fe1411bd68c79c29c36a5daf75709e90162253bb831519d65325",
+      "publishedAt": "2024-12-17 12:25:05",
+      "content": "Warum bleibt die Schule zu? Es handelt sich um eine Vorsichtsma\u00dfnahme. Enge Kontakte zwischen Sch\u00fclerinnen und Sch\u00fclern und somit eine m\u00f6gliche weitere Verbreitung des Erregers sollten verhindert we\u2026 [+6109 chars]",
+      "retrievedAt": "2024-12-18 19:05:57.830893",
+      "internal_id": "809195ed1a2431377a40b988d2a97b82e3e691aa653ba166c5bd0b63085ab0bf",
+      "publishedAtLabel": "Dec 17"
+    },
+    {
+      "id": 16510,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Der Tagesspiegel",
+      "title": "Ansteckende Virusinfektion: Schulschlie\u00dfung wegen Mpox - Was bedeutet das?",
+      "description": "Wegen zwei mit Mpox infizierten Kindern schlie\u00dft eine Schule in der N\u00e4he von K\u00f6ln. Wie gro\u00df ist das Risiko einer \u00dcbertragung?",
+      "url": "https://www.tagesspiegel.de/wissen/ansteckende-virusinfektion-schulschliessung-wegen-mpox-was-bedeutet-das-12889627.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/12889624/alternates/BASE_16_9_W1400/1734438101000/mpox.jpeg",
+      "publishedAt": "2024-12-17 12:21:41",
+      "content": "Zwei Kinder aus dem Rheinisch-Bergischen Kreis bei K\u00f6ln sind mit Mpox-Viren infiziert, vorsorglich wird eine Schule geschlossen. Besteht Grund zur Sorge? Antworten auf zentrale Fragen. Warum bleibt\u2026 [+7051 chars]",
+      "retrievedAt": "2024-12-18 19:05:57.912908",
+      "internal_id": "f18fac743b98dcdece4cee9ad38872665652a30d02efa18e720c3f963003113b",
+      "publishedAtLabel": "Dec 17"
+    },
+    {
+      "id": 16500,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "ZEIT ONLINE: News -",
+      "title": "Ansteckende Virusinfektion: Schulschlie\u00dfung wegen Mpox - Was bedeutet das?",
+      "description": "Hier finden Sie Informationen zu dem Thema \u201eAnsteckende Virusinfektion\u201c. Lesen Sie jetzt \u201eSchulschlie\u00dfung wegen Mpox - Was bedeutet das?\u201c.",
+      "url": "https://www.zeit.de/news/2024-12/17/schulschliessung-wegen-mpox-was-bedeutet-das",
+      "urlToImage": "https://img.zeit.de/news/2024-12/17/schulschliessung-wegen-mpox-was-bedeutet-das-image-group/wide__1300x731",
+      "publishedAt": "2024-12-17 12:20:26",
+      "content": "Zwei Kinder aus dem Rheinisch-Bergischen Kreis bei K\u00f6ln sind mit Mpox-Viren infiziert, vorsorglich wird eine Schule geschlossen. Besteht Grund zur Sorge? Antworten auf zentrale Fragen. Warum bleibt \u2026 [+6315 chars]",
+      "retrievedAt": "2024-12-18 19:05:57.667997",
+      "internal_id": "8fb0bb03921790fb3f9e077949825311be38b6e0c6c73440caa01373afb49430",
+      "publishedAtLabel": "Dec 17"
+    },
+    {
+      "id": 16505,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "Ansteckende Virusinfektion: Schulschlie\u00dfung wegen Mpox - Was bedeutet das?",
+      "description": "R\u00f6srath - Zwei Kinder aus dem Rheinisch-Bergischen Kreis bei K\u00f6ln sind mit Mpox-Viren infiziert, vorsorglich wird eine Schule geschlossen. Besteht Grund",
+      "url": "https://www.stern.de/panorama/wissen/ansteckende-virusinfektion--schulschliessung-wegen-mpox---was-bedeutet-das--35317850.html",
+      "urlToImage": "https://image.stern.de/35317852/t/rC/v1/w1440/r1.7778/-/17--kn2ehk3uy7v7axs2048jpeg---0aac7c7637216718.jpg",
+      "publishedAt": "2024-12-17 12:20:26",
+      "content": "Kopiere den aktuellen Link Wegen zwei mit Mpox infizierten Kindern schlie\u00dft eine Schule in der N\u00e4he von K\u00f6ln. Wie gro\u00df ist das Risiko einer \u00dcbertragung? Zwei Kinder aus dem Rheinisch-Bergischen Kre\u2026 [+6430 chars]",
+      "retrievedAt": "2024-12-18 19:05:57.823995",
+      "internal_id": "0f7be4f7626c52a67b5ff3a993e7a7b3d0e8c206b23383815f2a80399004d776",
+      "publishedAtLabel": "Dec 17"
+    },
+    {
+      "id": 16474,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Tirol.orf.at",
+      "author": "ORF.at",
+      "title": "Keuchhusten mit hohen Fallzahlen",
+      "description": "Im laufenden Jahr 2024 hat es in Tirol nach Angaben der Gesundheitsdirektion bisher rund 3.900 F\u00e4lle von Keuchhusten (Pertussis) gegeben. Das ist ein H\u00f6chstwert in den vergangenen zehn Jahren. Besonders gef\u00e4hrdet sind von dieser hochansteckenden Krankheit Ne\u2026",
+      "url": "https://tirol.orf.at/stories/3285693/",
+      "urlToImage": "https://ibs.orf.at/tir?image=https%3A%2F%2Foekastatic.orf.at%2Fmims%2F2024%2F24%2F84%2Fcrops%2Fw%3D1200%2Ch%3D627%2Cq%3D75%2F2243884_master_852384_husten.jpg%3Fs%3D38c0014ab3addfa7455a7fee88f1537a58bb1c4d",
+      "publishedAt": "2024-12-17 12:10:57",
+      "content": "Fr\u00fchestens ab der 8. Woche k\u00f6nnen Neugeborene mit einer Sechsfachimpfung, die auch den Keuchhusten enth\u00e4lt, vor einer Infektion gesch\u00fctzt werden. Die Impfung wird in den Mutter-Kind-Pass eingetragen.\u2026 [+1630 chars]",
+      "retrievedAt": "2024-12-18 19:05:54.517700",
+      "internal_id": "544d297340dbfb301fff25e480c3934b779255382afb9de00f6b06a7b6874248",
+      "publishedAtLabel": "Dec 17"
+    },
+    {
+      "id": 16480,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Alessandro Di Lorenzo",
+      "title": "Dengue: Butantan pede registro de vacina de dose \u00fanica \u00e0 Anvisa",
+      "description": "Caso o uso do imunizante seja aprovado, o Butantan prev\u00ea a entrega de um milh\u00e3o de doses ao Minist\u00e9rio da Sa\u00fade em 2025 O post Dengue: Butantan pede registro de vacina de dose \u00fanica \u00e0 Anvisa apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2024/12/17/medicina-e-saude/dengue-butantan-pede-registro-de-vacina-de-dose-unica-a-anvisa/",
+      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2024/08/vacina-dengue-1.jpg",
+      "publishedAt": "2024-12-17 12:02:39",
+      "content": "O ano de 2024 tem sido o pior da hist\u00f3ria do Brasil quando o assunto \u00e9 a dengue. Por aqui, o n\u00famero de casos e mortes provocados pela doen\u00e7a j\u00e1 \u00e9 recorde. Diversos fatores podem explicar este crescim\u2026 [+2266 chars]",
+      "retrievedAt": "2024-12-18 19:05:55.935344",
+      "internal_id": "9074f7b9d733b5df04f1278edf792c58078773612693cb9b96fe8a9bc7a84719",
+      "publishedAtLabel": "Dec 17"
+    },
+    {
+      "id": 16509,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "focus",
+      "source_name": "Focus",
+      "author": "Von Redakteur Michael Amon",
+      "title": "WHO hat weltweit Notlage ausgerufen - Wie gef\u00e4hrlich ist Mpox f\u00fcr Menschen?",
+      "description": "Bei einer Familie in R\u00f6srath bei K\u00f6ln wurde die neue Mpox-Virus-Variante festgestellt. Die Schule der betroffenen Kinder bleibt vorsorglich bis nach den Weihnachtsferien geschlossen. Aber wie gef\u00e4hrlich ist das Affenpocken-Virus eigentlich?Von Redakteur Micha\u2026",
+      "url": "https://www.focus.de/gesundheit/who-hat-weltweit-notlage-ausgerufen-wie-gefaehrlich-ist-mpox-fuer-menschen_id_260225510.html",
+      "urlToImage": "https://p6.focus.de/img/fotos/id_260209448/mpox.jpg?im=Crop%3D%280%2C123%2C3461%2C1733%29%3BResize%3D%281200%2C627%29&impolicy=perceptual&quality=mediumHigh&hash=724d4bc02fb0ab4d7ed91d6a2cdb0549c2e8f1a359b327244b47e9a48f70000e",
+      "publishedAt": "2024-12-17 12:01:20",
+      "content": "Bei einer Familie in R\u00f6srath bei K\u00f6ln wurde die neue Mpox-Virus-Variante festgestellt. Die Schule der betroffenen Kinder bleibt vorsorglich bis nach den Weihnachtsferien geschlossen. Aber wie gef\u00e4hrl\u2026 [+2628 chars]",
+      "retrievedAt": "2024-12-18 19:05:57.885281",
+      "internal_id": "22a09b104c0812681afbb47b8796a48386329b67d55db9905ab420a8b361fa44",
+      "publishedAtLabel": "Dec 17"
+    },
+    {
+      "id": 16475,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Scientific American",
+      "author": "Tanya Lewis",
+      "title": "Wildest Things Science Learned about the Human Body in 2024",
+      "description": "From periods of rapid aging in our 40s and 60s to ancient brains that don\u2019t decompose, here are some of the year\u2019s most intriguing stories about human biology",
+      "url": "https://www.scientificamerican.com/article/wildest-things-science-learned-about-the-human-body-in-2024/",
+      "urlToImage": "https://static.scientificamerican.com/dam/m/1d2d0064663f6405/original/SA_Aging-40-and-60-years-old.jpg?m=1734396731.036&w=1200",
+      "publishedAt": "2024-12-17 11:30:00",
+      "content": "It can sometimes feel like health coverage is a constant drumbeat of bad news\u2014and indeed, this year has had its share of negative stories, from the emergence of H5N1 bird flu in U.S. dairy cows posin\u2026 [+3785 chars]",
+      "retrievedAt": "2024-12-18 19:05:55.500369",
+      "internal_id": "075e04ea0b98a67af3146ecdfe52c6ce1d1677b0cfd8866cbaeccaa113f5530a",
+      "publishedAtLabel": "Dec 17"
+    },
+    {
+      "id": 16513,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Turkiyegazetesi.com.tr",
+      "author": "https://www.facebook.com/turkiyegazetesi",
+      "title": "Maymun \u00e7i\u00e7e\u011fi vir\u00fcs\u00fc Avrupa'da yay\u0131l\u0131yor: Almanya'da e\u011fitime ara verildi!",
+      "description": "Almanya'n\u0131n Kuzey Ren Vestfalya (KRV) eyaletinde yer alan R\u00f6srath'taki bir \u00f6zel okulda, iki \u00f6\u011frenciye M \u00e7i\u00e7e\u011fi vir\u00fcs\u00fc (mpox) bula\u015fmas\u0131n\u0131n ard\u0131ndan, okulda e\u011fitim cuma g\u00fcn\u00fcne kadar ask\u0131ya al\u0131nd\u0131.",
+      "url": "https://www.turkiyegazetesi.com.tr/dunya/maymun-cicegi-virusu-avrupada-yayiliyor-almanyada-egitime-ara-verildi-1080747",
+      "urlToImage": "https://i.turkiyegazetesi.com.tr/images/24-12/17/maymun-cicegi-virusu-avrupada-yayiliyor-almanyada-egitime-ara-verildi-17344349985610.jpg",
+      "publishedAt": "2024-12-17 11:15:10",
+      "content": "",
+      "retrievedAt": "2024-12-18 19:05:57.966686",
+      "internal_id": "65ff1ba6b7d36296035ebfde562674e385e8643dbd785dc00863760babc3a7b8",
+      "publishedAtLabel": "Dec 17"
+    },
+    {
+      "id": 16482,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Excelsior.com.mx",
+      "author": "citlallin.andrade",
+      "title": "Dengue toma impulso y se dispara en \u00faltimos 5 a\u00f1os; 2024 supera los 120 mil casos acumulados",
+      "description": "M\u00e9xico Social / Mario Luis Fuentes / www.mexicosocial.org El dengue ha crecido r\u00e1pidamente, en los \u00faltimos cinco a\u00f1os, como una de las enfermedades transmitidas por vectores, de mayor impacto en la salud p\u00fablica en M\u00e9xico. En efecto, de acuerdo con los dat\u2026",
+      "url": "https://www.excelsior.com.mx/nacional/dengue-toma-impulso-y-se-dispara-en-ultimos-5-anos-2024-supera-los-120-mil-casos-acumulados",
+      "urlToImage": "https://www.excelsior.com.mx/media/pictures/2024/12/17/3229755.jpg",
+      "publishedAt": "2024-12-17 09:55:40",
+      "content": "El dengue ha crecido r\u00e1pidamente, en los \u00faltimos cinco a\u00f1os, como una de las enfermedades transmitidas por vectores, de mayor impacto en la salud p\u00fablica en M\u00e9xico. En efecto, de acuerdo con los dat\u2026 [+3361 chars]",
+      "retrievedAt": "2024-12-18 19:05:55.982615",
+      "internal_id": "401c582eff504404a36b1174249bded4f0e154d20b5bb2306458229540c215a8",
+      "publishedAtLabel": "Dec 17"
+    },
+    {
+      "id": 16501,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "DIE WELT",
+      "author": null,
+      "title": "\u201eEine Familie aus dem Landkreis hat sich mit dem Mpox-Virus infiziert\u201c",
+      "description": "Eine F\u00f6rderschule in R\u00f6srath bei K\u00f6ln wurde vorsorglich geschlossen, nachdem zwei Kinder mit einer neuen Variante des Mpox-Virus infiziert wurden. \u201eEine Familie aus dem Landkreis hat sich mit dem Mpox-Virus infiziert\u201c, berichtet Anna-Marleen Howe.",
+      "url": "https://www.welt.de/vermischtes/video254894358/Mpox-Virus-in-NRW-Eine-Familie-aus-dem-Landkreis-hat-sich-mit-dem-Mpox-Virus-infiziert.html",
+      "urlToImage": "https://img.welt.de/img/vermischtes/mobile254894596/2057935487-ci16x9-w1200/Image-67612d79565de3318e7fdcbd.jpg",
+      "publishedAt": "2024-12-17 08:42:47",
+      "content": "Eine F\u00f6rderschule in R\u00f6srath bei K\u00f6ln wurde vorsorglich geschlossen, nachdem zwei Kinder mit einer neuen Variante des Mpox-Virus infiziert wurden. Eine Familie aus dem Landkreis hat sich mit dem Mpox\u2026 [+105 chars]",
+      "retrievedAt": "2024-12-18 19:05:57.696218",
+      "internal_id": "73aad0621c8ee7a51e7fc16154ba8363aacb341d1e820421a70e3738b50658b8",
+      "publishedAtLabel": "Dec 17"
+    },
+    {
+      "id": 16507,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "DIE WELT",
+      "author": null,
+      "title": "\u201eRund 4000 infekti\u00f6se F\u00e4lle sind in Deutschland bekannt\u201c",
+      "description": "Eine F\u00f6rderschule in R\u00f6srath bei K\u00f6ln wurde vorsorglich geschlossen, nachdem zwei Kinder mit einer neuen Variante des Mpox-Virus infiziert wurden. \u201eEine Familie aus dem Landkreis hat sich mit dem Mpox-Virus infiziert\u201c, berichtet Anna-Marleen Howe.",
+      "url": "https://www.welt.de/vermischtes/video254894358/Mpox-Virus-in-NRW-Rund-4000-infektioese-Faelle-sind-in-Deutschland-bekannt.html",
+      "urlToImage": "https://img.welt.de/img/vermischtes/mobile254894596/4527930247-ci16x9-w1200/Image-67612d79565de3318e7fdcbd.jpg",
+      "publishedAt": "2024-12-17 08:42:47",
+      "content": "Eine F\u00f6rderschule in R\u00f6srath bei K\u00f6ln wurde vorsorglich geschlossen, nachdem zwei Kinder mit einer neuen Variante des Mpox-Virus infiziert wurden. Eine Familie aus dem Landkreis hat sich mit dem Mpox\u2026 [+105 chars]",
+      "retrievedAt": "2024-12-18 19:05:57.849077",
+      "internal_id": "97e7fdcf3fc94c48e38babd0abb2021eba70241189c5100b9e13bf7320446227",
+      "publishedAtLabel": "Dec 17"
+    },
+    {
+      "id": 16497,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "ZEIT ONLINE: Zeitgeschehen - Lennart Jerke",
+      "title": "Mpox-Virus: F\u00f6rderschule in NRW nach Mpox-Infektionen vorr\u00fcbergehend geschlossen",
+      "description": "Eine Schule geht wieder in den Distanzunterricht: Bei K\u00f6ln haben sich Kinder mit dem Mpox-Virus infiziert. Deren Schule wird daher bis ins neue Jahr hinein geschlossen.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2024-12/nrw-mpox-variante-schule-geschlossen",
+      "urlToImage": "https://img.zeit.de/gesellschaft/zeitgeschehen/2024-12/nrw-mpox-variante-schule-geschlossen-bild/wide__1300x731",
+      "publishedAt": "2024-12-17 08:05:27",
+      "content": "Eine Schule in Nordrhein-Westfalen ist aufgrund mehrerer Mpox-F\u00e4lle vor\u00fcbergehend geschlossen. Die Sch\u00fclerinnen und Sch\u00fcler einer F\u00f6rderschule in R\u00f6srath nahe K\u00f6ln erhalten bis einschlie\u00dflich Freitag\u2026 [+2025 chars]",
+      "retrievedAt": "2024-12-18 19:05:57.641325",
+      "internal_id": "9badc0baf09a4086e902eae7c784e811002bbd571e5e545ef6a79ea1ef473f5e",
+      "publishedAtLabel": "Dec 17"
+    },
+    {
+      "id": 16502,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Telepolis.de",
+      "author": "Thea Petrik",
+      "title": "Schulschlie\u00dfung wegen Mpox-Viren: Wie gef\u00e4hrlich sind die Affenpocken?",
+      "description": "Schule in NRW stellt in letzter Woche vor Weihnachtsferien auf Distanzunterricht um. Familie unter Quarant\u00e4ne. Gibt es bundesweit Grund zur Sorge?",
+      "url": "https://www.telepolis.de/features/Schulschliessung-wegen-Mpox-Viren-Wie-gefaehrlich-sind-die-Affenpocken-10202373.html",
+      "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/7/6/4/5/7/5/Mpox-a685645a4004a127.jpeg",
+      "publishedAt": "2024-12-17 08:00:00",
+      "content": "Solche Hautver\u00e4nderungen weisen auf eine Mpox-Infektion hin. Foto: CaptureStock Studio / Shutterstock.com Schule in NRW stellt in letzter Woche vor Weihnachtsferien auf Distanzunterricht um. Familie\u2026 [+2731 chars]",
+      "retrievedAt": "2024-12-18 19:05:57.723952",
+      "internal_id": "a6facd2b29460b50eb2605de3be794d3c711b13b6dfb48f099ffaaf927f6c92d",
+      "publishedAtLabel": "Dec 17"
+    },
+    {
+      "id": 16515,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Dialogos.com.cy",
+      "author": "newsroom",
+      "title": "\u0391\u03bd\u03b1\u03ba\u03bf\u03af\u03bd\u03c9\u03c3\u03b7 \u03a5\u03c0\u03bf\u03c5\u03c1\u03b3\u03b5\u03af\u03bf\u03c5 \u03a5\u03b3\u03b5\u03af\u03b1\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03bd\u03cc\u03c3\u03bf Mpox ( \u0395\u03c5\u03bb\u03bf\u03b3\u03b9\u03ac \u03c4\u03c9\u03bd \u03a0\u03b9\u03b8\u03ae\u03ba\u03c9\u03bd ) \u2013 \u038c,\u03c4\u03b9 \u03c0\u03c1\u03ad\u03c0\u03b5\u03b9 \u03bd\u03b1 \u03b3\u03bd\u03c9\u03c1\u03af\u03b6\u03b5\u03b9\u03c2",
+      "description": "\u0391\u03c5\u03c4\u03bf\u03cd\u03c3\u03b9\u03b1 \u03b7 \u03b1\u03bd\u03b1\u03ba\u03bf\u03af\u03bd\u03c9\u03c3\u03b7 \u03c4\u03bf\u03c5 \u03a5\u03c0\u03bf\u03c5\u03c1\u03b3\u03b5\u03af\u03bf\u03c5 \u03a5\u03b3\u03b5\u03af\u03b1\u03c2: \u0391\u03bd\u03b1\u03c6\u03bf\u03c1\u03b9\u03ba\u03ac \u03bc\u03b5 \u03c4\u03bf\u03bd \u03c0\u03c1\u03cc\u03c3\u03c6\u03b1\u03c4\u03bf \u03b5\u03bd\u03c4\u03bf\u03c0\u03b9\u03c3\u03bc\u03cc \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03bf\u03c2 Mpox \u03c3\u03c4\u03b7 \u03c7\u03ce\u03c1\u03b1 \u03bc\u03b1\u03c2, \u03c4\u03bf \u03a5\u03c0\u03bf\u03c5\u03c1\u03b3\u03b5\u03af\u03bf \u03a5\u03b3\u03b5\u03af\u03b1\u03c2 \u03b5\u03c0\u03b9\u03b8\u03c5\u03bc\u03b5\u03af \u03bd\u03b1 \u03b5\u03bd\u03b7\u03bc\u03b5\u03c1\u03ce\u03c3\u03b5\u03b9 \u03c4\u03bf \u03ba\u03bf\u03b9\u03bd\u03cc \u03b3\u03b9\u03b1 \u03c4\u03b1 \u03b1\u03ba\u03cc\u03bb\u03bf\u03c5\u03b8\u03b1: \u03a4\u03c1\u03ad\u03c7\u03bf\u03c5\u03c3\u03b1 \u03ba\u03b1\u03c4\u03ac\u03c3\u03c4\u03b1\u03c3\u03b7 \u0395\u03c0\u03af \u03c4\u03bf\u03c5 \u03c0\u03b1\u03c1\u03cc\u03bd\u03c4\u03bf\u03c2, \u03c3\u03cd\u03bc\u03c6\u03c9\u03bd\u03b1 \u03bc\u03b5 \u03c4\u03bf \u0395\u03c5\u03c1\u03c9\u03c0\u03b1\u03ca\u03ba\u03cc \u039a\u03ad\u03bd\u03c4\u03c1\u03bf \u03a0\u03c1\u03cc\u03bb\u03b7\u03c8\u03b7\u03c2 \u03ba\u03b1\u2026",
+      "url": "https://dialogos.com.cy/anakoinosi-ypoyrgeioy-ygeias-gia-tin-noso-mpox-eylogia-ton-pithikon-oti-prepei-na-gnorizeis/",
+      "urlToImage": "https://dialogos.com.cy/wp-content/uploads/2024/09/mpox.jpg",
+      "publishedAt": "2024-12-17 07:59:20",
+      "content": "\u00a9 Dialogos Media Group - , , , / , , , , ( ) , , , , , .",
+      "retrievedAt": "2024-12-18 19:05:58.012331",
+      "internal_id": "a80510aec89dd95d81783f56c681f1c10c16e0b6ad2ca8d94fd8b39d4f492f5b",
+      "publishedAtLabel": "Dec 17"
+    },
+    {
+      "id": 16504,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "DIE WELT",
+      "author": null,
+      "title": "Wegen Mpox \u2013 Beh\u00f6rden schlie\u00dfen Schule in NRW nach Infektion von zwei Kindern",
+      "description": "Nach zwei Mpox-Infektionen bei Schulkindern bleibt eine F\u00f6rderschule in R\u00f6srath bei K\u00f6ln vorsorglich geschlossen. Die betroffene Familie ist in Quarant\u00e4ne, der Krankheitsverlauf ist bisher mild. Sch\u00fcler erhalten Distanzunterricht.",
+      "url": "https://www.welt.de/wissenschaft/video254894214/Roesrath-bei-Koeln-Wegen-Mpox-Behoerden-schliessen-Schule-in-NRW-nach-Infektion-von-zwei-Kindern.html",
+      "urlToImage": "https://img.welt.de/img/wissenschaft/mobile254894212/8457934847-ci16x9-w1200/Mpox-Virus.jpg",
+      "publishedAt": "2024-12-17 07:23:36",
+      "content": "Nach zwei Mpox-Infektionen bei Schulkindern bleibt eine F\u00f6rderschule in R\u00f6srath bei K\u00f6ln vorsorglich geschlossen. Die betroffene Familie ist in Quarant\u00e4ne, der Krankheitsverlauf ist bisher mild. Sch\u00fc\u2026 [+90 chars]",
+      "retrievedAt": "2024-12-18 19:05:57.810901",
+      "internal_id": "fad8a680609142f2b906d421669dfe195fee46266fa526fd776f76700f67f13f",
+      "publishedAtLabel": "Dec 17"
+    },
     {
       "id": 16465,
       "query": [
@@ -22388,132 +23144,6 @@
       "content": "El triple campe\u00f3n del mundo neerland\u00e9s Max Verstappen (Red Bull) dio un golpe de autoridad en su ad\u00e1n por ganar un cuarto t\u00edtulo seguido y reforz\u00f3 su liderato en el Mundial de F\u00f3rmula Uno al ganar de\u2026 [+9488 chars]",
       "retrievedAt": "2024-11-05 07:06:27.126213",
       "internal_id": "2ca6258c8c8c4e3bae727acd8d98f3acda50a4e4c509cae83cc73d789701af78",
-      "publishedAtLabel": "Nov 3"
-    },
-    {
-      "id": 15228,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Memeorandum.com",
-      "author": null,
-      "title": "Trump Thinks America Wants His Perversions (A.B. Stoddard/The Bulwark)",
-      "description": "A.B. Stoddard / The Bulwark: Trump Thinks America Wants His Perversions \u2014 Let's hope he is wrong. \u2014 MEASLES, MISINFORMATION, a \u201cvigorous spanking\u201d of misogyny\u2014whether women like it or not\u2014a violent nine-gun fantasy for political enemies, crudeness, petty \u2026",
-      "url": "https://www.memeorandum.com/241103/p22",
-      "urlToImage": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7beacf28-6b55-4b8a-8c4a-5019eaabf5a3_2439x1627.jpeg",
-      "publishedAt": "2024-11-03 15:45:00",
-      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
-      "retrievedAt": "2024-11-04 19:06:03.800086",
-      "internal_id": "48a14302ed577d62c426b6acc90cf0926c91407304620d568186b61dcddec5ff",
-      "publishedAtLabel": "Nov 3"
-    },
-    {
-      "id": 15226,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Just Jared",
-      "author": "Just Jared",
-      "title": "Social Media Star Peanut the Squirrel Euthanized by New York State, Owners Plan to Take Legal Action",
-      "description": "Peanut the Squirrel is making waves worldwide. The beloved social media star, with over 619,000 followers on Instagram and 100,000 followers on TikTok alone, was sadly euthanized by New York state wildlife officials as part of a test for rabies, via CBS News.\u2026",
-      "url": "https://www.justjared.com/2024/11/03/social-media-star-peanut-the-squirrel-euthanized-by-new-york-state-owners-plan-to-take-legal-action/",
-      "urlToImage": "https://cdn01.justjared.com/wp-content/uploads/headlines/2024/11/peanut-squirrel-dead-social.jpg",
-      "publishedAt": "2024-11-03 14:18:23",
-      "content": "Peanut the Squirrel is making waves worldwide. The beloved social media star, with over 619,000 followers on Instagram and 100,000 followers on TikTok alone, was sadly euthanized by New York state w\u2026 [+2459 chars]",
-      "retrievedAt": "2024-11-04 19:06:03.349995",
-      "internal_id": "9a8861ed7ebbc1519ee612a4d852bf9c444c0f4abb33908da3152e8f916d5c72",
-      "publishedAtLabel": "Nov 3"
-    },
-    {
-      "id": 15227,
-      "query": [
-        "rabies"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "ET Online",
-      "title": "Why Instagram-famous 'Peanut the Squirrel' was euthanised by NY officials? The controversy that caught US elections by storm",
-      "description": "Peanut, an Instagram-famous squirrel, was euthanized by New York authorities to test for rabies, sparking outrage and controversy. Owner Mark Longo claims his home was raided for hours, while Elon Musk criticized the government's actions on social media, ampl\u2026",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/why-instagram-famous-peanut-the-squirrel-was-euthanised-by-ny-officials-the-controversy-that-caught-us-elections-by-storm/articleshow/114913238.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-114913212,width-1200,height-630,imgsize-74122,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2024-11-03 12:38:37",
-      "content": "An Instagram-famed squirrel being euthanised has boiled down to a controversy, taking major attention in the weekend leading to US elections scheduled for Nov 5. Following the incident, the far-right\u2026 [+2561 chars]",
-      "retrievedAt": "2024-11-04 19:06:03.390479",
-      "internal_id": "c280846f493a6206fb055952c7e3a553fc0bd42119c544aad15f6f640a5c0675",
-      "publishedAtLabel": "Nov 3"
-    },
-    {
-      "id": 15230,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "ynet",
-      "source_name": "Ynet",
-      "author": "\u05e6\u05d5\u05e8 \u05d2\u05d5\u05d0\u05d8\u05d4",
-      "title": "\u05d7\u05d6\u05d9\u05e8 \u05e0\u05d3\u05d1\u05e7 \u05d1\u05e9\u05e4\u05e2\u05ea \u05d4\u05e2\u05d5\u05e4\u05d5\u05ea \u05d1\u05d0\u05e8\u05d4\"\u05d1: \"\u05d7\u05e9\u05e9 \u05de\u05d5\u05d5\u05d9\u05e8\u05d5\u05e1 \u05d7\u05d3\u05e9 \u05d5\u05d0\u05dc\u05d9\u05dd \u05e9\u05d9\u05d3\u05d1\u05d9\u05e7 \u05d1\u05e0\u05d9 \u05d0\u05d3\u05dd\"",
-      "description": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d7\u05e7\u05dc\u05d0\u05d5\u05ea \u05d4\u05d0\u05de\u05e8\u05d9\u05e7\u05e0\u05d9 \u05d3\u05d9\u05d5\u05d5\u05d7 \u05d1\u05d0\u05d7\u05e8\u05d5\u05e0\u05d4 \u05e2\u05dc \u05de\u05e7\u05e8\u05d4 \u05e8\u05d0\u05e9\u05d5\u05df \u05e9\u05dc \u05e9\u05e4\u05e2\u05ea \u05d4\u05e2\u05d5\u05e4\u05d5\u05ea \u05de\u05d6\u05df H5N1 \u05d1\u05d7\u05d6\u05d9\u05e8\u05d9\u05dd. \u05d4\u05d7\u05d5\u05d5\u05d4 \u05d1\u05d0\u05d5\u05e8\u05d2\u05d5\u05df \u05e9\u05d1\u05d4 \u05d4\u05ea\u05d2\u05dc\u05ea\u05d4 \u05d4\u05d4\u05d3\u05d1\u05e7\u05d4 \u05d4\u05d5\u05db\u05e0\u05e1\u05d4 \u05dc\u05d4\u05e1\u05d2\u05e8, \u05d5\u05e0\u05d1\u05d3\u05e7\u05ea \u05d4\u05d0\u05e4\u05e9\u05e8\u05d5\u05ea \u05dc\u05d4\u05e2\u05d1\u05e8\u05d4 \u05e9\u05dc \u05d4\u05e0\u05d2\u05d9\u05e3 \u05de\u05e2\u05d5\u05e4\u05d5\u05ea \u05dc\u05d9\u05d5\u05e0\u05e7\u05d9\u05dd. \u05e4\u05e8\u05d5\u05e4' \u05d9\u05e9\u05e8\u05d0\u05dc \u05e4\u05d5\u05d8\u05e1\u05de\u05df, \u05de\u05d5\u05de\u05d7\u05d4 \u05dc\u05de\u05d7\u05dc\u05d5\u05ea \u05d6\u05d9\u05d4\u05d5\u05de\u05d9\u05d5\u05ea \u05d1\u05de\u05db\u05d1\u05d9: \"\u05d7\u05d6\u05d9\u05e8\u05d9\u05dd \u05d3\u05d5\u05de\u05d9\u05dd \u05dc\u05d1\u05e0\u05d9 \u05d0\u05d3\u05dd \u05d1\u05d2\u05e0\u05d8\u05d9\u05e7\u05d4 \u05e9\u05dc\u05d4\u2026",
-      "url": "https://www.ynet.co.il/health/article/byho112vbkl",
-      "urlToImage": "https://ynet-pic1.yit.co.il/picserver5/crop_images/2024/11/03/By111e6NWJl/By111e6NWJl_0_59_1000_563_0_large.jpg",
-      "publishedAt": "2024-11-03 12:36:58",
-      "content": ", \"\" - . . H1N1 -2009 , . ' , , : \" , , . , , -. - \". \" , , , : \" , , () . , , , . \". ' \" . \" , , \". : \" . , \". . \" , , , . \" '' , . \", .",
-      "retrievedAt": "2024-11-04 19:06:04.715626",
-      "internal_id": "da5eb6f3b6e1d7b28854ff56526c6fe03880a6b195d33071c9e3c4abecc9d5a8",
-      "publishedAtLabel": "Nov 3"
-    },
-    {
-      "id": 15232,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "VOA News",
-      "author": "webdesk@voanews.com (Associated Press)",
-      "title": "Mpox cases in Congo may be stabilizing, but more vaccines needed to stamp out virus",
-      "description": "Goma, Congo \u2014 Some health officials say mpox cases in Congo appear to be \u201cstabilizing\u201d \u2014 a possible sign that the main epidemic for which the World Health Organization made a global emergency declaration in August might be on the decline. In recent weeks,\u2026",
-      "url": "https://www.voanews.com/a/mpox-cases-in-congo-may-be-stabilizing-but-more-vaccines-needed-to-stamp-out-virus-/7849399.html",
-      "urlToImage": "https://gdb.voanews.com/38E367F4-5A38-40E6-8148-15ADC0E2527D.jpg",
-      "publishedAt": "2024-11-03 12:21:25",
-      "content": "Goma, Congo Some health officials say mpox cases in Congo appear to be stabilizing a possible sign that the main epidemic for which the World Health Organization made a global emergency declaration \u2026 [+4734 chars]",
-      "retrievedAt": "2024-11-04 19:06:06.577063",
-      "internal_id": "5088c984af91dc35899b1ae0f4fd2795c97d4e1b73e817925d6683620bfdcd0b",
-      "publishedAtLabel": "Nov 3"
-    },
-    {
-      "id": 15231,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "Suman Chakraborti",
-      "title": "Kolkata reports second dengue death in Bidhannagar amid declining cases",
-      "description": "Shibani Das, 69, from Gopalpur Sarat Pally in Bidhannagar, died of dengue on Saturday. This is the second dengue death in the area this year. Kolkata has recorded lower dengue cases this year compared to previous years, with precautionary measures in place. O\u2026",
-      "url": "https://timesofindia.indiatimes.com/city/kolkata/kolkata-reports-second-dengue-death-in-bidhannagar-area-amid-declining-cases/articleshow/114910748.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-114910667,width-1070,height-580,imgsize-32062,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-11-03 10:18:16",
-      "content": "9 animals that live in rainforests",
-      "retrievedAt": "2024-11-04 19:06:05.095710",
-      "internal_id": "740c1ce1211164e71f7d8b5c5fe40b97b04759d42431bc0acd37f59e13305bb6",
-      "publishedAtLabel": "Nov 3"
-    },
-    {
-      "id": 15229,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Faz.net",
-      "author": "Pia Heinemann",
-      "title": "\u201eDer Mensch ist bislang kein guter Wirt\u201c",
-      "description": "Ein Schwein in den USA ist positiv auf das weltweit grassierende Vogelgrippevirus getestet worden. Warum das absehbar war \u2013 und was es bedeutet.",
-      "url": "https://www.faz.net/aktuell/wissen/leben-gene/vogelgrippe-was-der-uebersprung-aufs-schwein-bedeutet-110083432.html",
-      "urlToImage": "https://media0.faz.net/ppmedia/aktuell/110701573/1.10085608/facebook_teaser_fplus/drei-h5n1-partikel-in-einer.jpg",
-      "publishedAt": "2024-11-03 07:09:20",
-      "content": "Um das Vogelgrippevirus H5N1 kehr keine Ruhe ein. Zuletzt wurde es bei einem Schwein auf einem kleinen Hof in Oregon gefunden. Dort waren G\u00e4nse, H\u00fchner, Schafe, Ziegen und Schweine gehalten worden. A\u2026 [+333 chars]",
-      "retrievedAt": "2024-11-04 19:06:04.553350",
-      "internal_id": "f2c071b0e101c3cee4423bd66447e61c55910efc125983d549ca156dff89672d",
       "publishedAtLabel": "Nov 3"
     }
   ]
