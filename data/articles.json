@@ -1,8 +1,333 @@
 {
-  "last_updated": "2024-12-18 19:05",
-  "count_articles_total": 1283,
-  "count_articles_new": 42,
+  "last_updated": "2024-12-19 07:06",
+  "count_articles_total": 1309,
+  "count_articles_new": 19,
   "articles": [
+    {
+      "id": 16520,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Surveillance Strategy in Duck Flocks Vaccinated against Highly Pathogenic Avian Influenza Virus",
+      "description": "Duck Flocks Vaccinated against HPAIV",
+      "url": "https://wwwnc.cdc.gov/eid/article/31/1/24-1140_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2024-12-18 05:00:00",
+      "content": "Disclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released.During 20002016, one quart\u2026 [+24889 chars]",
+      "retrievedAt": "2024-12-19 07:06:53.871722",
+      "internal_id": "0deae843fa7fdb2f7b6b9279d2cfd7f36713e55c00095e58db380759509540ed",
+      "publishedAtLabel": "Dec 18"
+    },
+    {
+      "id": 16532,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "ZEIT ONLINE: News -",
+      "title": "Anfrage gestellt: Landesregierung soll Krisenpl\u00e4ne f\u00fcr Mpox offenlegen",
+      "description": "Hier finden Sie Informationen zu dem Thema \u201eAnfrage gestellt\u201c. Lesen Sie jetzt \u201eLandesregierung soll Krisenpl\u00e4ne f\u00fcr Mpox offenlegen\u201c.",
+      "url": "https://www.zeit.de/news/2024-12/18/landesregierung-soll-krisenplaene-fuer-mpox-offenlegen",
+      "urlToImage": "https://img.zeit.de/news/2024-12/18/landesregierung-soll-krisenplaene-fuer-mpox-offenlegen-image-group/wide__1300x731",
+      "publishedAt": "2024-12-18 04:00:39",
+      "content": "Die SPD will von der Landesregierung wissen, wie NRW auf eine m\u00f6gliche Ausbreitung des Mpox-Virus vorbereitet w\u00e4re. Die Opposition will im Landtag eine sogenannte Kleine Anfrage auf den Weg bringen, \u2026 [+1807 chars]",
+      "retrievedAt": "2024-12-19 07:06:56.111947",
+      "internal_id": "988324ff54c44965036e646f2222b273826268c6508c1f3d790553fd40260615",
+      "publishedAtLabel": "Dec 18"
+    },
+    {
+      "id": 16533,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "Anfrage gestellt: Landesregierung soll Krisenpl\u00e4ne f\u00fcr Mpox offenlegen",
+      "description": "Wie ist NRW auf eine m\u00f6gliche Ausbreitung des Mpox-Virus vorbereitet? Was w\u00fcrde mit Schulen und Kitas passieren? Das will die SPD im Landtag jetzt von der Regierung wissen.",
+      "url": "https://www.stern.de/gesellschaft/regional/nordrhein-westfalen/anfrage-gestellt--landesregierung-soll-krisenplaene-fuer-mpox-offenlegen-35319872.html",
+      "urlToImage": "https://image.stern.de/35319874/t/t-/v1/w1440/r1.7778/-/18--r4tupmrs6sv5axs2048jpeg---19248d1fe947b2ab.jpg",
+      "publishedAt": "2024-12-18 04:00:39",
+      "content": "Kopiere den aktuellen Link Wie ist NRW auf eine m\u00f6gliche Ausbreitung des Mpox-Virus vorbereitet? Was w\u00fcrde mit Schulen und Kitas passieren? Das will die SPD im Landtag jetzt von der Regierung wissen\u2026 [+1969 chars]",
+      "retrievedAt": "2024-12-19 07:06:56.221258",
+      "internal_id": "cb76aa030c99fd127088c405ae55cda2ce5905253ce1a88d32bab2f9307be11a",
+      "publishedAtLabel": "Dec 18"
+    },
+    {
+      "id": 16525,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Adevarul.ro",
+      "author": "Laura Macavei",
+      "title": "Organiza\u021bia Mondial\u0103 a S\u0103n\u0103t\u0103\u021bii avertizeaz\u0103: malaria, febra dengue \u0219i holera, noile boli ale viitorului",
+      "description": "\u0218eful Organiza\u0163iei Mondiale a S\u0103n\u0103t\u0103\u0163ii a avertizat c\u0103 schimb\u0103rile climatice care au \u0219i vor avea loc reprezint\u0103, \u00een mod fundamental, o criz\u0103 sanitar\u0103 de actualitate. Transmiterea unor boli precum malaria, febra dengue \u015fi holera va fi accelerat\u0103 de intensifica\u2026",
+      "url": "https://adevarul.ro/stiri-interne/sanatate/organizatia-mondiala-a-sanatatii-avertizeaza-2409308.html",
+      "urlToImage": "https://cdn.adh.reperio.news/image-3/36f41877-6ee6-462c-bdcf-6437274d203c/index.jpeg?p=f%3Djpeg%26w%3D1200%26h%3D630%26r%3Dcover",
+      "publishedAt": "2024-12-18 02:01:25",
+      "content": "eful Organizaiei Mondiale a Sntii a avertizat c schimbrile climatice care au i vor avea loc reprezint, \u00een mod fundamental, o criz sanitar de actualitate. Transmiterea unor boli precum malaria, febra \u2026 [+3043 chars]",
+      "retrievedAt": "2024-12-19 07:06:54.539275",
+      "internal_id": "2e4e2b2a391f77b7f232c4e7777de28a7d7435e41222940432d486a2f9ff1891",
+      "publishedAtLabel": "Dec 18"
+    },
+    {
+      "id": 16530,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Punch Editorial Board",
+      "title": "Nigeria and the malaria epidemic",
+      "description": "THE 2024 World Malaria Report has once again signalled the need for African leaders, especially in Nigeria, to adopt effective measures to tackle the epidemic and improve the quality of life in the region. According to the report published by the World Health\u2026",
+      "url": "https://punchng.com/nigeria-and-the-malaria-epidemic/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2016/04/22015336/malaria.jpg",
+      "publishedAt": "2024-12-18 00:51:35",
+      "content": "THE 2024 World Malaria Report has once again signalled the need for African leaders, especially in Nigeria, to adopt effective measures to tackle the epidemic and improve the quality of life in the r\u2026 [+3575 chars]",
+      "retrievedAt": "2024-12-19 07:06:55.400020",
+      "internal_id": "2e712a7109a500afdb3d480a7647b7fab864e489f846e682e8a4cbf98076c282",
+      "publishedAtLabel": "Dec 18"
+    },
+    {
+      "id": 16534,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Excelsior.com.mx",
+      "author": "pedro.diaz",
+      "title": "Se reportan 114 contagios de viruela s\u00edmica en el a\u00f1o",
+      "description": "Patricia Rodr\u00edguez Calva (prc@gimm.com.mx) La Secretar\u00eda de Salud inform\u00f3 que durante la semana epidemiol\u00f3gica n\u00famero 49 \u2014que comprendi\u00f3 del 1 al 7 de diciembre\u2014, nuestro pa\u00eds sum\u00f3 114 casos de mpox o viruela s\u00edmica en 14 entidades. Durante este a\u00f1o, que e\u2026",
+      "url": "https://www.excelsior.com.mx/nacional/2024-reportan-114-contagios-viruela-simica/1690196",
+      "urlToImage": "https://www.excelsior.com.mx/media/pictures/2024/12/17/3230235.jpg",
+      "publishedAt": "2024-12-18 00:39:37",
+      "content": "La Secretar\u00eda de Salud inform\u00f3 que durante la semana epidemiol\u00f3gica n\u00famero 49 que comprendi\u00f3 del 1 al 7 de diciembre, nuestro pa\u00eds sum\u00f3 114 casos de mpox o viruela s\u00edmica en 14 entidades. Durante es\u2026 [+1053 chars]",
+      "retrievedAt": "2024-12-19 07:06:56.245975",
+      "internal_id": "6e1c9da0eabdfa6afb5e4f3bb2a48bf52c34e2bf3a64fbb76055be783adc9795",
+      "publishedAtLabel": "Dec 18"
+    },
+    {
+      "id": 16522,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "National Institutes of Health",
+      "author": null,
+      "title": "2024 NIH Research Highlights - Basic Research Insights",
+      "description": "Noteworthy NIH advances in basic research include insights into the H5N1 avian influenza outbreak, mapping how cancers form and spread, and progress in understanding the brain.",
+      "url": "https://www.nih.gov/news-events/nih-research-matters/2024-nih-research-highlights-basic-research-insights",
+      "urlToImage": null,
+      "publishedAt": "2024-12-18 00:00:00",
+      "content": "H5N1 avian influenza transmission Researchers gained insights into whether the H5N1 flu outbreak in cows could lead to a human pandemic. H5N1 survived in raw dairy milk kept under refrigerated condi\u2026 [+2777 chars]",
+      "retrievedAt": "2024-12-19 07:06:54.234630",
+      "internal_id": "1269b11bbea0efc4f8c6ca78e4e30af40e607aa2360d0ea4a34e8481d2c1162b",
+      "publishedAtLabel": "Dec 18"
+    },
+    {
+      "id": 16516,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "KQED",
+      "author": "Steph Rodriguez",
+      "title": "Berkeley Whooping Cough Cases Have Nearly Quadrupled in 2 Months",
+      "description": "The increase in pertussis cases in Berkeley so far this winter comes amid a statewide surge in the disease, which largely affects young children and infants.",
+      "url": "https://www.kqed.org/news/12018646/berkeley-whooping-cough-cases-nearly-quadrupled-2-months",
+      "urlToImage": "https://cdn.kqed.org/wp-content/uploads/sites/10/2024/12/WhoopingCoughGetty2-1020x680.jpg",
+      "publishedAt": "2024-12-17 23:48:41",
+      "content": "Berkeley\u2019s uptick is part of a growing trend of whooping cough cases in California and the Bay Area, especially in Marin County, that health experts believe can be attributed to vaccine hesitancy and\u2026 [+3448 chars]",
+      "retrievedAt": "2024-12-19 07:06:53.040780",
+      "internal_id": "ab1346efe881bdaa0898c46396dedccf92ae68afb278a2cbc22aca8ccd4b8181",
+      "publishedAtLabel": "Dec 17"
+    },
+    {
+      "id": 16521,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "El Financiero",
+      "author": "EFE",
+      "title": "Gripe aviar: Casos en humanos suben a 76; OMS mantiene riesgo de contagio en bajo",
+      "description": "La OMS subray\u00f3 que el riesgo para la poblaci\u00f3n general de infectarse de gripe aviar sigue siendo de momento bajo.",
+      "url": "https://www.elfinanciero.com.mx/mundo/2024/12/17/gripe-aviar-casos-en-humanos-suben-a-76-oms-mantiene-riesgo-de-contagio-en-bajo/",
+      "urlToImage": "https://elfinanciero.com.mx/resizer/v2/O27VNMIG45GZPEUITWQADBM4IQ.jpg?smart=true&auth=bfdbcade157de50bdd83e93803828c0dd3017f814e43194eb7d93f28e2fd73f2&width=1200&height=630",
+      "publishedAt": "2024-12-17 23:47:52",
+      "content": "La Organizaci\u00f3n Mundial de la Salud (OMS) elev\u00f3 este martes a 76 el n\u00famero total de casos notificados de gripe aviar (H5N1) en humanos en lo que va de 2024, aunque subray\u00f3 que el riesgo para la pobla\u2026 [+1729 chars]",
+      "retrievedAt": "2024-12-19 07:06:54.205903",
+      "internal_id": "e1611acff0624b419cda8cf9f7864d75e1e80bd2e094ceaa940a773477920762",
+      "publishedAtLabel": "Dec 17"
+    },
+    {
+      "id": 16529,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "VOA News",
+      "author": "webdesk@voanews.com (Reuters)",
+      "title": "Unknown disease in Congo revealed to be severe malaria, health authorities say",
+      "description": "KINSHASA \u2014 Democratic Republic of Congo's Health Ministry said on Tuesday that a previously unidentified disease circulating in the southwestern Kwango province is a severe form of malaria. Earlier this month, local authorities said the disease had killed \u2026",
+      "url": "https://www.voanews.com/a/unknown-disease-in-congo-revealed-to-be-severe-malaria-health-authorities-say/7904952.html",
+      "urlToImage": "https://gdb.voanews.com/2E178474-CEDB-4F56-9D0A-10307219CD93.jpg",
+      "publishedAt": "2024-12-17 23:00:05",
+      "content": "KINSHASA Democratic Republic of Congo's Health Ministry said on Tuesday that a previously unidentified disease circulating in the southwestern Kwango province is a severe form of malaria. Earlier \u2026 [+1163 chars]",
+      "retrievedAt": "2024-12-19 07:06:55.387011",
+      "internal_id": "96d96cd1ada9afb70835046885cf7bd4bab65eea6cd223cd23cec74d1c9298d2",
+      "publishedAtLabel": "Dec 17"
+    },
+    {
+      "id": 16519,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "INFORUM",
+      "author": "Noah Losing",
+      "title": "Infant vaccination rates drop below safe levels in Cass County",
+      "description": "Infant vaccination rates in Cass County sit at 68%, below the 95% goal. Experts warn diseases such as measles spread fast when coverage dips too low.",
+      "url": "https://www.inforum.com/news/north-dakota/infant-vaccination-rates-drop-below-safe-levels-in-cass-county",
+      "urlToImage": "https://cdn.forumcomm.com/dims4/default/7bc6df4/2147483647/strip/true/crop/3680x2456+0+0/resize/1597x1066!/quality/90/?url=https%3A%2F%2Ffcc-cue-exports-brightspot.s3.us-west-2.amazonaws.com%2Ffccnn%2Fbinary%2Fcopy%2Fd2%2Fc7%2F464be76a16b25f97f95cb625133a%2F3332220-measles-binary-788358.jpg",
+      "publishedAt": "2024-12-17 22:42:06",
+      "content": "FARGO Health professionals are urging the public to keep up to date on vaccinations for infants. Since the COVID pandemic, the tide has turned widely for those giving their infants the MMR (measles,\u2026 [+698 chars]",
+      "retrievedAt": "2024-12-19 07:06:53.579584",
+      "internal_id": "116b39a5555dd7350304aa39abe1dddd9e604e32dc6e4e2115de0e02949276ac",
+      "publishedAtLabel": "Dec 17"
+    },
+    {
+      "id": 16524,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Diogo Sponchiato",
+      "title": "Os 14 avan\u00e7os m\u00e9dicos mais not\u00e1veis do ano, segundo peri\u00f3dico cient\u00edfico",
+      "description": "Publica\u00e7\u00e3o elege os estudos mais impactantes de 2024: da vacina brasileira para dengue a novas indica\u00e7\u00f5es para os rem\u00e9dios voltados \u00e0 obesidade",
+      "url": "https://veja.abril.com.br/saude/os-14-avancos-medicos-mais-notaveis-do-ano-segundo-periodico-cientifico",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2024/05/GettyImages-1297039481.jpg.jpg?quality=70&strip=info&crop=1&resize=1080,565",
+      "publishedAt": "2024-12-17 21:19:48",
+      "content": "PRORROGAMOS! Assine a partir de 1,50/semanaDe imunizante contra dengue a terapias gen\u00e9ticas: inova\u00e7\u00e3o cient\u00edfica est\u00e1 chegando \u00e0 sociedade (//Getty Images) Continua ap\u00f3s publicidade Com 212 anos de\u2026 [+9083 chars]",
+      "retrievedAt": "2024-12-19 07:06:54.494039",
+      "internal_id": "cc6d759fb1b7b423d0f5b7e06045c484d58307e9b6d111243947a43d102572de",
+      "publishedAtLabel": "Dec 17"
+    },
+    {
+      "id": 16518,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Newsbreak.com",
+      "author": "Susan Carpenter",
+      "title": "Haitian immigrants eating pets is PolitiFact's Lie of the Year",
+      "description": "Politicians aren\u2019t always known for being truthful. They often traffic in fibs, obfuscations and outright lies, which has led to various organizations dedicated to fact-checking and PolitiFact\u2019s annual Lie of the Year. What You Need To Know. The 2024 PolitiFa\u2026",
+      "url": "https://www.newsbreak.com/share/3719844721514-haitian-immigrants-eating-pets-is-politifact-s-lie-of-the-year?s=a2&amp;share_destination_id=MjcwOTY1NjQ2LTE3MzQ1NDU5NDg0NDM%3D&amp;pd=0IKwXeeE&amp;hl=en_US&amp;send_time=1734545948&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2224.21.0%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_blend_exp_25q1-v2%2Cns_foryou_recall_exp_24q4-v6%2Cns_foryou_rank_exp_24q4-v5%2Cns_foryou_model_exp_25q1-v9%2Cns_local_strategy_24q4_exp-v1%2Cns_push_exp_rt_bucketv12-v2",
+      "urlToImage": "https://img.particlenews.com/img/id/3W9QcR_0xVCE5al00?type=thumbnail_1600x1200",
+      "publishedAt": "2024-12-17 21:10:00",
+      "content": "Rabies Task Force Issues Urgent Public Appeal Following Rare Finding on Cape Cod In a startling development that has caught the attention of wildlife experts, a deceased raccoon with porcupine quill\u2026 [+247 chars]",
+      "retrievedAt": "2024-12-19 07:06:53.258514",
+      "internal_id": "45cc7456c0a4b0f373ad2996ee51cfa1c884a50bd7a1ef9c2a8ff22a92fc5f74",
+      "publishedAtLabel": "Dec 17"
+    },
+    {
+      "id": 16517,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Equinechronicle.com",
+      "author": "Delores Kuhlwein",
+      "title": "Zoetis Reminds Horse Owners of the Importance of Booster Vaccination for Pregnant Broodmares in the Third Trimester",
+      "description": "Zoetis\u2019 Core EQ Innovator\u00ae is the first and only vaccine shown to be safe for use as a booster against all core equine diseases, including rabies, 4 to 6 weeks prior to foaling. PARSIPPANY, N.J. (Dec. 11, 2024)\u2014Zoetis Inc., the world\u2019s leading animal health c\u2026",
+      "url": "http://www.equinechronicle.com/zoetis-reminds-horse-owners-of-the-importance-of-booster-vaccination-for-pregnant-broodmares-in-the-third-trimester/",
+      "urlToImage": null,
+      "publishedAt": "2024-12-17 20:37:33",
+      "content": "AdobeStock image Zoetis Core EQ Innovator\u00ae is the first and only vaccine shown to be safe for use as a booster against all core equine diseases, including rabies, 4 to 6 weeks prior to foaling. PAR\u2026 [+3232 chars]",
+      "retrievedAt": "2024-12-19 07:06:53.251480",
+      "internal_id": "11d048fff93ec06fa9fbb2f4bfd8c1e367797b7a84f7e04d598a95c94b5f9345",
+      "publishedAtLabel": "Dec 17"
+    },
+    {
+      "id": 16528,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "In Congo una 'forma grave di malaria'. Una morte sospetta in Veneto",
+      "description": "La Regione avvia accertamenti con lo Spallanzani. Per il paese africano la malattia misteriosa \"\u00e8 una grave forma di malaria\", ma per l'Oms non \u00e8 ancora determinata la causa (ANSA)",
+      "url": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2024/12/17/in-congo-una-forma-grave-di-malaria.-una-morte-sospetta-in-veneto_378702f5-71b1-4dfd-b161-0ea6385d88f4.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2022/8/6/e5a981379035efae78d3938a440c5a03.jpg",
+      "publishedAt": "2024-12-17 20:24:49",
+      "content": "Sembrerebbe risolto, almeno secondo le autorit\u00e0 sanitarie africane, il mistero della malattia sconosciuta che ha fatto centinaia di vittime in una regione del Congo. Si tratterebbe infatti, ha reso n\u2026 [+2960 chars]",
+      "retrievedAt": "2024-12-19 07:06:55.341942",
+      "internal_id": "9b5736a82d3fc819e68bd39405f1ebf394e0d2bd3cede21fc0e0a7c38e70f03b",
+      "publishedAtLabel": "Dec 17"
+    },
+    {
+      "id": 16531,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Congo's health ministry identifies flu-like disease as severe malaria",
+      "description": "Democratic Republic of Congo's health ministry said on Tuesday that a previously unidentified disease circulating in the southwestern Kwango province is a severe form of malaria.",
+      "url": "https://www.cbc.ca/news/health/congo-1.7412926",
+      "urlToImage": "https://i.cbc.ca/1.7412974.1734465502!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_1180/congo-hospital.jpg?im=Resize%3D620",
+      "publishedAt": "2024-12-17 20:04:04",
+      "content": "Democratic Republic of Congo's health ministry said on Tuesday that a previously unidentified disease circulating in the southwestern Kwango province is a severe form of malaria. Earlier this month,\u2026 [+1161 chars]",
+      "retrievedAt": "2024-12-19 07:06:55.429425",
+      "internal_id": "90e485dd2a8e9600979fd93de234710dca540b0e8e779c289de4eba3ba910902",
+      "publishedAtLabel": "Dec 17"
+    },
+    {
+      "id": 16526,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "al-jazeera-english",
+      "source_name": "Al Jazeera English",
+      "author": "Al Jazeera",
+      "title": "Mysterious disease in DRC is severe malaria, health authorities say",
+      "description": "Health authorities said the disease presents in the form of a respiratory illness.",
+      "url": "https://www.aljazeera.com/news/2024/12/17/mysterious-disease-in-dr-congo-is-severe-malaria-health-authorities-say",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/12/AP24340567558423-1734458230.jpg?resize=1200%2C675",
+      "publishedAt": "2024-12-17 19:48:39",
+      "content": "A previously unknown disease making the rounds in the Democratic Republic of Congo (DRC) is a severe form of malaria, the countrys health ministry has announced. Health authorities on Tuesday said t\u2026 [+2021 chars]",
+      "retrievedAt": "2024-12-19 07:06:55.316774",
+      "internal_id": "ed7b38dc704815f6868099f3c96d1c9d93467820ed8a23fac7d9fc2328f0ff23",
+      "publishedAtLabel": "Dec 17"
+    },
+    {
+      "id": 16527,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Joshua P. Cohen, Senior Contributor, \n Joshua P. Cohen, Senior Contributor\n https://www.forbes.com/sites/joshuacohen/",
+      "title": "Malaria Is Official Cause Of Flu-Like Mystery Illness In Congo",
+      "description": "A mystery illness found in a remote part of Congo has been officially identified as a severe form of malaria, which has sickened nearly 600 people and killed 143.",
+      "url": "https://www.forbes.com/sites/joshuacohen/2024/12/17/malaria-is-official-cause-of-flu-like-mystery-illness-in-congo/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67619f99a6e20b1b1a611b58/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-12-17 19:32:13",
+      "content": "LUKUTU, DEMOCRATIC REPUBLIC OF CONGO: Bamongo Godefroid lay in a hospital bed sick with malaria with ... [+] his little sister nearby in a photo taken in March 2006, in Lukutu, DRC. On the 17th of De\u2026 [+3731 chars]",
+      "retrievedAt": "2024-12-19 07:06:55.329751",
+      "internal_id": "0af54d223612edea1db0c3c34e568def62cdb6871945164bcf1ba8ab869580bf",
+      "publishedAtLabel": "Dec 17"
+    },
     {
       "id": 16499,
       "query": [
@@ -595,6 +920,24 @@
       "content": "Bei einer Familie in R\u00f6srath bei K\u00f6ln wurde die neue Mpox-Virus-Variante festgestellt. Die Schule der betroffenen Kinder bleibt vorsorglich bis nach den Weihnachtsferien geschlossen. Aber wie gef\u00e4hrl\u2026 [+2628 chars]",
       "retrievedAt": "2024-12-18 19:05:57.885281",
       "internal_id": "22a09b104c0812681afbb47b8796a48386329b67d55db9905ab420a8b361fa44",
+      "publishedAtLabel": "Dec 17"
+    },
+    {
+      "id": 16523,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "UN News",
+      "author": "dpicampaigns",
+      "title": "Avian flu reported in 108 countries across five continents, says UN health agency",
+      "description": "Avian influenza has caused the deaths of more than 300 million birds worldwide and the virus \u201cis increasingly crossing species barriers\u201d, according to UN health officers. Read Full Story on UN News The post Avian flu reported in 108 countries across five cont\u2026",
+      "url": "https://news.un.org/en/story/2024/12/1158286",
+      "urlToImage": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/29-06-2021_FAO_bird_flu_Egypt.jpg/image770x420cropped.jpg",
+      "publishedAt": "2024-12-17 12:00:00",
+      "content": "In an update on the mutating virus - known as H5N1 Dr. Madhur Dhingra from the Food and Agriculture Organization, FAO, said that it had spilled over into wildlife. More than 500 bird species have be\u2026 [+2296 chars]",
+      "retrievedAt": "2024-12-19 07:06:54.241397",
+      "internal_id": "3075edd96e29f9fd08c950a2ca5cd5c0a77aaab02a97059b2723f89abb7193fe",
       "publishedAtLabel": "Dec 17"
     },
     {
@@ -23144,6 +23487,132 @@
       "content": "El triple campe\u00f3n del mundo neerland\u00e9s Max Verstappen (Red Bull) dio un golpe de autoridad en su ad\u00e1n por ganar un cuarto t\u00edtulo seguido y reforz\u00f3 su liderato en el Mundial de F\u00f3rmula Uno al ganar de\u2026 [+9488 chars]",
       "retrievedAt": "2024-11-05 07:06:27.126213",
       "internal_id": "2ca6258c8c8c4e3bae727acd8d98f3acda50a4e4c509cae83cc73d789701af78",
+      "publishedAtLabel": "Nov 3"
+    },
+    {
+      "id": 15228,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "Trump Thinks America Wants His Perversions (A.B. Stoddard/The Bulwark)",
+      "description": "A.B. Stoddard / The Bulwark: Trump Thinks America Wants His Perversions \u2014 Let's hope he is wrong. \u2014 MEASLES, MISINFORMATION, a \u201cvigorous spanking\u201d of misogyny\u2014whether women like it or not\u2014a violent nine-gun fantasy for political enemies, crudeness, petty \u2026",
+      "url": "https://www.memeorandum.com/241103/p22",
+      "urlToImage": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7beacf28-6b55-4b8a-8c4a-5019eaabf5a3_2439x1627.jpeg",
+      "publishedAt": "2024-11-03 15:45:00",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2024-11-04 19:06:03.800086",
+      "internal_id": "48a14302ed577d62c426b6acc90cf0926c91407304620d568186b61dcddec5ff",
+      "publishedAtLabel": "Nov 3"
+    },
+    {
+      "id": 15226,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Just Jared",
+      "author": "Just Jared",
+      "title": "Social Media Star Peanut the Squirrel Euthanized by New York State, Owners Plan to Take Legal Action",
+      "description": "Peanut the Squirrel is making waves worldwide. The beloved social media star, with over 619,000 followers on Instagram and 100,000 followers on TikTok alone, was sadly euthanized by New York state wildlife officials as part of a test for rabies, via CBS News.\u2026",
+      "url": "https://www.justjared.com/2024/11/03/social-media-star-peanut-the-squirrel-euthanized-by-new-york-state-owners-plan-to-take-legal-action/",
+      "urlToImage": "https://cdn01.justjared.com/wp-content/uploads/headlines/2024/11/peanut-squirrel-dead-social.jpg",
+      "publishedAt": "2024-11-03 14:18:23",
+      "content": "Peanut the Squirrel is making waves worldwide. The beloved social media star, with over 619,000 followers on Instagram and 100,000 followers on TikTok alone, was sadly euthanized by New York state w\u2026 [+2459 chars]",
+      "retrievedAt": "2024-11-04 19:06:03.349995",
+      "internal_id": "9a8861ed7ebbc1519ee612a4d852bf9c444c0f4abb33908da3152e8f916d5c72",
+      "publishedAtLabel": "Nov 3"
+    },
+    {
+      "id": 15227,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ET Online",
+      "title": "Why Instagram-famous 'Peanut the Squirrel' was euthanised by NY officials? The controversy that caught US elections by storm",
+      "description": "Peanut, an Instagram-famous squirrel, was euthanized by New York authorities to test for rabies, sparking outrage and controversy. Owner Mark Longo claims his home was raided for hours, while Elon Musk criticized the government's actions on social media, ampl\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/why-instagram-famous-peanut-the-squirrel-was-euthanised-by-ny-officials-the-controversy-that-caught-us-elections-by-storm/articleshow/114913238.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-114913212,width-1200,height-630,imgsize-74122,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2024-11-03 12:38:37",
+      "content": "An Instagram-famed squirrel being euthanised has boiled down to a controversy, taking major attention in the weekend leading to US elections scheduled for Nov 5. Following the incident, the far-right\u2026 [+2561 chars]",
+      "retrievedAt": "2024-11-04 19:06:03.390479",
+      "internal_id": "c280846f493a6206fb055952c7e3a553fc0bd42119c544aad15f6f640a5c0675",
+      "publishedAtLabel": "Nov 3"
+    },
+    {
+      "id": 15230,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "ynet",
+      "source_name": "Ynet",
+      "author": "\u05e6\u05d5\u05e8 \u05d2\u05d5\u05d0\u05d8\u05d4",
+      "title": "\u05d7\u05d6\u05d9\u05e8 \u05e0\u05d3\u05d1\u05e7 \u05d1\u05e9\u05e4\u05e2\u05ea \u05d4\u05e2\u05d5\u05e4\u05d5\u05ea \u05d1\u05d0\u05e8\u05d4\"\u05d1: \"\u05d7\u05e9\u05e9 \u05de\u05d5\u05d5\u05d9\u05e8\u05d5\u05e1 \u05d7\u05d3\u05e9 \u05d5\u05d0\u05dc\u05d9\u05dd \u05e9\u05d9\u05d3\u05d1\u05d9\u05e7 \u05d1\u05e0\u05d9 \u05d0\u05d3\u05dd\"",
+      "description": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d7\u05e7\u05dc\u05d0\u05d5\u05ea \u05d4\u05d0\u05de\u05e8\u05d9\u05e7\u05e0\u05d9 \u05d3\u05d9\u05d5\u05d5\u05d7 \u05d1\u05d0\u05d7\u05e8\u05d5\u05e0\u05d4 \u05e2\u05dc \u05de\u05e7\u05e8\u05d4 \u05e8\u05d0\u05e9\u05d5\u05df \u05e9\u05dc \u05e9\u05e4\u05e2\u05ea \u05d4\u05e2\u05d5\u05e4\u05d5\u05ea \u05de\u05d6\u05df H5N1 \u05d1\u05d7\u05d6\u05d9\u05e8\u05d9\u05dd. \u05d4\u05d7\u05d5\u05d5\u05d4 \u05d1\u05d0\u05d5\u05e8\u05d2\u05d5\u05df \u05e9\u05d1\u05d4 \u05d4\u05ea\u05d2\u05dc\u05ea\u05d4 \u05d4\u05d4\u05d3\u05d1\u05e7\u05d4 \u05d4\u05d5\u05db\u05e0\u05e1\u05d4 \u05dc\u05d4\u05e1\u05d2\u05e8, \u05d5\u05e0\u05d1\u05d3\u05e7\u05ea \u05d4\u05d0\u05e4\u05e9\u05e8\u05d5\u05ea \u05dc\u05d4\u05e2\u05d1\u05e8\u05d4 \u05e9\u05dc \u05d4\u05e0\u05d2\u05d9\u05e3 \u05de\u05e2\u05d5\u05e4\u05d5\u05ea \u05dc\u05d9\u05d5\u05e0\u05e7\u05d9\u05dd. \u05e4\u05e8\u05d5\u05e4' \u05d9\u05e9\u05e8\u05d0\u05dc \u05e4\u05d5\u05d8\u05e1\u05de\u05df, \u05de\u05d5\u05de\u05d7\u05d4 \u05dc\u05de\u05d7\u05dc\u05d5\u05ea \u05d6\u05d9\u05d4\u05d5\u05de\u05d9\u05d5\u05ea \u05d1\u05de\u05db\u05d1\u05d9: \"\u05d7\u05d6\u05d9\u05e8\u05d9\u05dd \u05d3\u05d5\u05de\u05d9\u05dd \u05dc\u05d1\u05e0\u05d9 \u05d0\u05d3\u05dd \u05d1\u05d2\u05e0\u05d8\u05d9\u05e7\u05d4 \u05e9\u05dc\u05d4\u2026",
+      "url": "https://www.ynet.co.il/health/article/byho112vbkl",
+      "urlToImage": "https://ynet-pic1.yit.co.il/picserver5/crop_images/2024/11/03/By111e6NWJl/By111e6NWJl_0_59_1000_563_0_large.jpg",
+      "publishedAt": "2024-11-03 12:36:58",
+      "content": ", \"\" - . . H1N1 -2009 , . ' , , : \" , , . , , -. - \". \" , , , : \" , , () . , , , . \". ' \" . \" , , \". : \" . , \". . \" , , , . \" '' , . \", .",
+      "retrievedAt": "2024-11-04 19:06:04.715626",
+      "internal_id": "da5eb6f3b6e1d7b28854ff56526c6fe03880a6b195d33071c9e3c4abecc9d5a8",
+      "publishedAtLabel": "Nov 3"
+    },
+    {
+      "id": 15232,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "VOA News",
+      "author": "webdesk@voanews.com (Associated Press)",
+      "title": "Mpox cases in Congo may be stabilizing, but more vaccines needed to stamp out virus",
+      "description": "Goma, Congo \u2014 Some health officials say mpox cases in Congo appear to be \u201cstabilizing\u201d \u2014 a possible sign that the main epidemic for which the World Health Organization made a global emergency declaration in August might be on the decline. In recent weeks,\u2026",
+      "url": "https://www.voanews.com/a/mpox-cases-in-congo-may-be-stabilizing-but-more-vaccines-needed-to-stamp-out-virus-/7849399.html",
+      "urlToImage": "https://gdb.voanews.com/38E367F4-5A38-40E6-8148-15ADC0E2527D.jpg",
+      "publishedAt": "2024-11-03 12:21:25",
+      "content": "Goma, Congo Some health officials say mpox cases in Congo appear to be stabilizing a possible sign that the main epidemic for which the World Health Organization made a global emergency declaration \u2026 [+4734 chars]",
+      "retrievedAt": "2024-11-04 19:06:06.577063",
+      "internal_id": "5088c984af91dc35899b1ae0f4fd2795c97d4e1b73e817925d6683620bfdcd0b",
+      "publishedAtLabel": "Nov 3"
+    },
+    {
+      "id": 15231,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Suman Chakraborti",
+      "title": "Kolkata reports second dengue death in Bidhannagar amid declining cases",
+      "description": "Shibani Das, 69, from Gopalpur Sarat Pally in Bidhannagar, died of dengue on Saturday. This is the second dengue death in the area this year. Kolkata has recorded lower dengue cases this year compared to previous years, with precautionary measures in place. O\u2026",
+      "url": "https://timesofindia.indiatimes.com/city/kolkata/kolkata-reports-second-dengue-death-in-bidhannagar-area-amid-declining-cases/articleshow/114910748.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-114910667,width-1070,height-580,imgsize-32062,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-11-03 10:18:16",
+      "content": "9 animals that live in rainforests",
+      "retrievedAt": "2024-11-04 19:06:05.095710",
+      "internal_id": "740c1ce1211164e71f7d8b5c5fe40b97b04759d42431bc0acd37f59e13305bb6",
+      "publishedAtLabel": "Nov 3"
+    },
+    {
+      "id": 15229,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Faz.net",
+      "author": "Pia Heinemann",
+      "title": "\u201eDer Mensch ist bislang kein guter Wirt\u201c",
+      "description": "Ein Schwein in den USA ist positiv auf das weltweit grassierende Vogelgrippevirus getestet worden. Warum das absehbar war \u2013 und was es bedeutet.",
+      "url": "https://www.faz.net/aktuell/wissen/leben-gene/vogelgrippe-was-der-uebersprung-aufs-schwein-bedeutet-110083432.html",
+      "urlToImage": "https://media0.faz.net/ppmedia/aktuell/110701573/1.10085608/facebook_teaser_fplus/drei-h5n1-partikel-in-einer.jpg",
+      "publishedAt": "2024-11-03 07:09:20",
+      "content": "Um das Vogelgrippevirus H5N1 kehr keine Ruhe ein. Zuletzt wurde es bei einem Schwein auf einem kleinen Hof in Oregon gefunden. Dort waren G\u00e4nse, H\u00fchner, Schafe, Ziegen und Schweine gehalten worden. A\u2026 [+333 chars]",
+      "retrievedAt": "2024-11-04 19:06:04.553350",
+      "internal_id": "f2c071b0e101c3cee4423bd66447e61c55910efc125983d549ca156dff89672d",
       "publishedAtLabel": "Nov 3"
     }
   ]

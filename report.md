@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 42
-- **Last harvest:** 2024-12-18 19:05
-- **Most recent article:** 2024-12-17 18:46:02
+- **New articles in last harvest:** 19
+- **Last harvest:** 2024-12-19 07:06
+- **Most recent article:** 2024-12-18 05:00:00
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-45 | 24-46 | 24-47 | 24-48 | 24-49 | 24-50 | 24-51 | Total |
 |--|-|-|-|-|-|-|-|-|
-| mpox | 60 | 62 | 76 | 26 | 20 | 26 | 62 | 332 |
-| h5n1 | 34 | 40 | 50 | 38 | 70 | 61 | 13 | 306 |
-| malaria | 26 | 33 | 27 | 29 | 27 | 76 | 16 | 234 |
-| dengue | 30 | 36 | 28 | 25 | 10 | 33 | 21 | 183 |
-| measles | 2 | 33 | 11 | 6 | 9 | 10 | 1 | 72 |
-| rabies | 3 | 11 | 7 | 12 | 13 | 3 | 0 | 49 |
+| mpox | 61 | 62 | 76 | 26 | 20 | 26 | 65 | 336 |
+| h5n1 | 36 | 40 | 50 | 38 | 70 | 61 | 16 | 311 |
+| malaria | 26 | 33 | 27 | 29 | 27 | 76 | 23 | 241 |
+| dengue | 31 | 36 | 28 | 25 | 10 | 33 | 23 | 186 |
+| measles | 3 | 33 | 11 | 6 | 9 | 10 | 2 | 74 |
+| rabies | 5 | 11 | 7 | 12 | 13 | 3 | 2 | 53 |
+| pertussis | 3 | 8 | 5 | 1 | 4 | 6 | 2 | 29 |
 | chikungunya | 2 | 3 | 5 | 4 | 6 | 7 | 2 | 29 |
-| pertussis | 3 | 8 | 5 | 1 | 4 | 6 | 1 | 28 |
 | meningitis | 4 | 2 | 5 | 3 | 3 | 7 | 2 | 26 |
 | zika | 9 | 4 | 3 | 1 | 4 | 4 | 0 | 25 |
-| hpai | 4 | 4 | 4 | 0 | 2 | 4 | 2 | 20 |
+| hpai | 4 | 4 | 4 | 0 | 2 | 4 | 3 | 21 |
 | leptospirosis | 10 | 3 | 0 | 2 | 0 | 3 | 0 | 18 |
 | typhoid | 1 | 1 | 3 | 1 | 0 | 1 | 0 | 7 |
 | yersinia | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 2 |
@@ -33,11 +33,25 @@ Source: [News API](https://newsapi.org/)
 
 ---
 
+## 24-51 (rabies)
+
+- [Haitian immigrants eating pets is PolitiFact's Lie of the Year](https://www.newsbreak.com/share/3719844721514-haitian-immigrants-eating-pets-is-politifact-s-lie-of-the-year?s=a2&amp;share_destination_id=MjcwOTY1NjQ2LTE3MzQ1NDU5NDg0NDM%3D&amp;pd=0IKwXeeE&amp;hl=en_US&amp;send_time=1734545948&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2224.21.0%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_blend_exp_25q1-v2%2Cns_foryou_recall_exp_24q4-v6%2Cns_foryou_rank_exp_24q4-v5%2Cns_foryou_model_exp_25q1-v9%2Cns_local_strategy_24q4_exp-v1%2Cns_push_exp_rt_bucketv12-v2) (Newsbreak.com)
+
+- [Zoetis Reminds Horse Owners of the Importance of Booster Vaccination for Pregnant Broodmares in the Third Trimester](http://www.equinechronicle.com/zoetis-reminds-horse-owners-of-the-importance-of-booster-vaccination-for-pregnant-broodmares-in-the-third-trimester/) (Equinechronicle.com)
+
 ## 24-51 (pertussis)
+
+- [Berkeley Whooping Cough Cases Have Nearly Quadrupled in 2 Months](https://www.kqed.org/news/12018646/berkeley-whooping-cough-cases-nearly-quadrupled-2-months) (KQED)
 
 - [Keuchhusten mit hohen Fallzahlen](https://tirol.orf.at/stories/3285693/) (Tirol.orf.at)
 
 ## 24-51 (mpox)
+
+- [Anfrage gestellt: Landesregierung soll Krisenpläne für Mpox offenlegen](https://www.zeit.de/news/2024-12/18/landesregierung-soll-krisenplaene-fuer-mpox-offenlegen) (Die Zeit)
+
+- [Anfrage gestellt: Landesregierung soll Krisenpläne für Mpox offenlegen](https://www.stern.de/gesellschaft/regional/nordrhein-westfalen/anfrage-gestellt--landesregierung-soll-krisenplaene-fuer-mpox-offenlegen-35319872.html) (STERN.de)
+
+- [Se reportan 114 contagios de viruela símica en el año](https://www.excelsior.com.mx/nacional/2024-reportan-114-contagios-viruela-simica/1690196) (Excelsior.com.mx)
 
 - [Mpox in Deutschland: Was die Schulschließung wegen der neuen mpox-Variante bedeutet](https://www.zeit.de/gesundheit/2024-12/mpox-deutschland-virus-variante-pandemie-koeln) (Die Zeit)
 
@@ -171,9 +185,25 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-51 (measles)
 
+- [Infant vaccination rates drop below safe levels in Cass County](https://www.inforum.com/news/north-dakota/infant-vaccination-rates-drop-below-safe-levels-in-cass-county) (INFORUM)
+
 - [Toddler diagnosed with measles in Brisbane had passed through multiple airports](https://www.9news.com.au/national/measles-alert-brisbane-two-year-old-boy-confirmed-case/f3b785ff-9686-41fa-9be9-70a51899d530) (9News)
 
 ## 24-51 (malaria)
+
+- [Organizația Mondială a Sănătății avertizează: malaria, febra dengue și holera, noile boli ale viitorului](https://adevarul.ro/stiri-interne/sanatate/organizatia-mondiala-a-sanatatii-avertizeaza-2409308.html) (Adevarul.ro)
+
+- [Nigeria and the malaria epidemic](https://punchng.com/nigeria-and-the-malaria-epidemic/) (The Punch)
+
+- [Unknown disease in Congo revealed to be severe malaria, health authorities say](https://www.voanews.com/a/unknown-disease-in-congo-revealed-to-be-severe-malaria-health-authorities-say/7904952.html) (VOA News)
+
+- [In Congo una 'forma grave di malaria'. Una morte sospetta in Veneto](https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2024/12/17/in-congo-una-forma-grave-di-malaria.-una-morte-sospetta-in-veneto_378702f5-71b1-4dfd-b161-0ea6385d88f4.html) (ANSA.it)
+
+- [Congo's health ministry identifies flu-like disease as severe malaria](https://www.cbc.ca/news/health/congo-1.7412926) (CBC News)
+
+- [Mysterious disease in DRC is severe malaria, health authorities say](https://www.aljazeera.com/news/2024/12/17/mysterious-disease-in-dr-congo-is-severe-malaria-health-authorities-say) (Al Jazeera English)
+
+- [Malaria Is Official Cause Of Flu-Like Mystery Illness In Congo](https://www.forbes.com/sites/joshuacohen/2024/12/17/malaria-is-official-cause-of-flu-like-mystery-illness-in-congo/) (Forbes)
 
 - [La «maladie mystérieuse» en République démocratique du Congo est une forme grave de malaria](https://www.liberation.fr/international/afrique/la-maladie-mysterieuse-en-republique-democratique-du-congo-est-une-forme-grave-de-malaria-20241217_V5IMAUEQX5GERDJXJZZVJRMMRA/) (Libération)
 
@@ -209,11 +239,17 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-51 (hpai)
 
+- [Surveillance Strategy in Duck Flocks Vaccinated against Highly Pathogenic Avian Influenza Virus](https://wwwnc.cdc.gov/eid/article/31/1/24-1140_article) (Cdc.gov)
+
 - [Bird Flu Mutation Raises Pandemic Red Flags](https://www.shtfplan.com/member-exclusive/bird-flu-mutation-raises-pandemic-red-flags) (Shtfplan.com)
 
 - [Helport AI to Participate in Fireside Chat with Alliance Global Partners on December 17, 2024](https://www.globenewswire.com/news-release/2024/12/16/2997534/0/en/Helport-AI-to-Participate-in-Fireside-Chat-with-Alliance-Global-Partners-on-December-17-2024.html) (GlobeNewswire)
 
 ## 24-51 (h5n1)
+
+- [2024 NIH Research Highlights - Basic Research Insights](https://www.nih.gov/news-events/nih-research-matters/2024-nih-research-highlights-basic-research-insights) (National Institutes of Health)
+
+- [Gripe aviar: Casos en humanos suben a 76; OMS mantiene riesgo de contagio en bajo](https://www.elfinanciero.com.mx/mundo/2024/12/17/gripe-aviar-casos-en-humanos-suben-a-76-oms-mantiene-riesgo-de-contagio-en-bajo/) (El Financiero)
 
 - [OMS reporta más de 70 casos de gripe aviar en humanos durante 2024](https://www.milenio.com/internacional/oms-reporta-aumento-casos-gripe-aviar-humanos-2024) (Milenio)
 
@@ -222,6 +258,8 @@ Source: [News API](https://newsapi.org/)
 - [Bird Flu Threat: Is the Next Human Pandemic Coming?](https://economictimes.indiatimes.com/news/international/us/bird-flu-threat-is-the-next-human-pandemic-coming/articleshow/116405072.cms) (The Times of India)
 
 - [La OMS sube a 76 los casos de gripe aviar en humanos en 2024, pero mantiene la alerta baja](https://www.montevideo.com.uy/Salud/La-OMS-sube-a-76-los-casos-de-gripe-aviar-en-humanos-en-2024-pero-mantiene-la-alerta-baja-uc909731) (Montevideo.com.uy)
+
+- [Avian flu reported in 108 countries across five continents, says UN health agency](https://news.un.org/en/story/2024/12/1158286) (UN News)
 
 - [Wildest Things Science Learned about the Human Body in 2024](https://www.scientificamerican.com/article/wildest-things-science-learned-about-the-human-body-in-2024/) (Scientific American)
 
@@ -242,6 +280,10 @@ Source: [News API](https://newsapi.org/)
 - [« La gestion américaine de la crise du virus H5N1 met, et va continuer à mettre, le monde entier en danger »](https://www.lemonde.fr/idees/article/2024/12/15/la-gestion-americaine-de-la-crise-du-virus-h5n1-met-et-va-continuer-a-mettre-le-monde-entier-en-danger_6449393_3232.html) (Le Monde)
 
 ## 24-51 (dengue)
+
+- [Organizația Mondială a Sănătății avertizează: malaria, febra dengue și holera, noile boli ale viitorului](https://adevarul.ro/stiri-interne/sanatate/organizatia-mondiala-a-sanatatii-avertizeaza-2409308.html) (Adevarul.ro)
+
+- [Os 14 avanços médicos mais notáveis do ano, segundo periódico científico](https://veja.abril.com.br/saude/os-14-avancos-medicos-mais-notaveis-do-ano-segundo-periodico-cientifico) (Abril.com.br)
 
 - [Butantan cria primeira vacina de dose única contra dengue e solicita aprovação da Anvisa](https://www.tudocelular.com/mercado/noticias/n229670/butantan-cria-primeira-vacina-de-dose-unica-contra-dengue-e-solicita-aprovacao-da-anvisa.html) (Tudocelular.com)
 
@@ -2499,6 +2541,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Expert Says Unlikely Peanut Had Rabies, Officials Might Have Been Impulsive](https://www.tmz.com/2024/11/05/peanut-squirrel-unlikely-had-rabies-expert/) (TMZ)
 
+- [Social Media Star Peanut the Squirrel Euthanized by New York State, Owners Plan to Take Legal Action](https://www.justjared.com/2024/11/03/social-media-star-peanut-the-squirrel-euthanized-by-new-york-state-owners-plan-to-take-legal-action/) (Just Jared)
+
+- [Why Instagram-famous 'Peanut the Squirrel' was euthanised by NY officials? The controversy that caught US elections by storm](https://economictimes.indiatimes.com/news/international/global-trends/why-instagram-famous-peanut-the-squirrel-was-euthanised-by-ny-officials-the-controversy-that-caught-us-elections-by-storm/articleshow/114913238.cms) (The Times of India)
+
 ## 24-45 (pertussis)
 
 - [Whooping cough found at NMU](https://www.wnmufm.org/health/2024-11-05/whooping-cough-found-at-nmu) (Wnmufm.org)
@@ -2629,6 +2675,8 @@ Source: [News API](https://newsapi.org/)
 
 - [More cases of new mpox strain detected in UK](https://news.sky.com/story/mpox-more-cases-of-new-clade-1b-strain-detected-in-uk-13248258) (Sky.com)
 
+- [Mpox cases in Congo may be stabilizing, but more vaccines needed to stamp out virus](https://www.voanews.com/a/mpox-cases-in-congo-may-be-stabilizing-but-more-vaccines-needed-to-stamp-out-virus-/7849399.html) (VOA News)
+
 ## 24-45 (meningitis)
 
 - [Signs of deadly infection passed through sharing straws following the death of 19-year-old after music festival](https://www.ladbible.com/news/health/meningitis-b-signs-deadly-infection-710455-20241107) (LADbible)
@@ -2644,6 +2692,8 @@ Source: [News API](https://newsapi.org/)
 - [Number of confirmed measles cases in New Brunswick rises to 25](https://www.cbc.ca/news/canada/new-brunswick/nov-9-measles-update-1.7379486) (CBC News)
 
 - [Trump May End Water Fluoridation On Day One, Will Consider Banning Vaccines](https://www.wonkette.com/p/trump-may-end-water-fluoridation) (Wonkette.com)
+
+- [Trump Thinks America Wants His Perversions (A.B. Stoddard/The Bulwark)](https://www.memeorandum.com/241103/p22) (Memeorandum.com)
 
 ## 24-45 (malaria)
 
@@ -2801,6 +2851,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Highly Pathogenic Avian Influenza A(H5N1) Virus Infection in Cats, South Korea, 2023](https://wwwnc.cdc.gov/eid/article/30/12/24-0154_article) (Cdc.gov)
 
+- [חזיר נדבק בשפעת העופות בארה"ב: "חשש מווירוס חדש ואלים שידביק בני אדם"](https://www.ynet.co.il/health/article/byho112vbkl) (Ynet)
+
+- [„Der Mensch ist bislang kein guter Wirt“](https://www.faz.net/aktuell/wissen/leben-gene/vogelgrippe-was-der-uebersprung-aufs-schwein-bedeutet-110083432.html) (Faz.net)
+
 ## 24-45 (dengue)
 
 - [Lei que prevê contratação de 800 agentes de saúde é publicada no DODF](https://www.metropoles.com/distrito-federal/lei-que-preve-contratacao-de-800-agentes-de-saude-e-publicada-no-dodf) (Metropoles.com)
@@ -2862,6 +2916,8 @@ Source: [News API](https://newsapi.org/)
 - [Baguio: Karaniwang mga sakit, dapat hindi dapat ipagwalang bahala – Dr. Brillantes](https://rpnradio.com/baguio-karaniwang-mga-sakit-dapat-hindi-dapat-ipagwalang-bahala-dr-brillantes/) (Rpnradio.com)
 
 - [Mosquito da dengue pica por cima da roupa? Veja a opinião de especialistas](https://catracalivre.com.br/saude-bem-estar/mosquito-da-dengue-pica-roupa/) (Catracalivre.com.br)
+
+- [Kolkata reports second dengue death in Bidhannagar amid declining cases](https://timesofindia.indiatimes.com/city/kolkata/kolkata-reports-second-dengue-death-in-bidhannagar-area-amid-declining-cases/articleshow/114910748.cms) (The Times of India)
 
 ## 24-45 (chikungunya)
 
