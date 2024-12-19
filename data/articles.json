@@ -1,8 +1,854 @@
 {
-  "last_updated": "2024-12-19 07:06",
-  "count_articles_total": 1309,
-  "count_articles_new": 19,
+  "last_updated": "2024-12-19 19:05",
+  "count_articles_total": 1349,
+  "count_articles_new": 47,
   "articles": [
+    {
+      "id": 16544,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "BroBible",
+      "author": "Douglas Charles",
+      "title": "Severe Case Of Bird Flu Strikes First Human In The United States",
+      "description": "A person in Louisiana has been hospitalized with a severe case of the bird flu. It is the first known human H5N1 infection in the United States, according to the U.S. Centers for Disease Control and Prevention (CDC). \u201cWhile an investigation into the source of\u2026",
+      "url": "https://brobible.com/culture/article/severe-bird-flu-first-human-united-states/",
+      "urlToImage": "https://brobible.com/wp-content/uploads/2024/12/Bird-Flu-And-Dairy-Cow.jpg",
+      "publishedAt": "2024-12-18 19:04:52",
+      "content": "iStockphoto A person in Louisiana has been hospitalized with a severe case of the bird flu. It is the first known human H5N1 infection in the United States, according to the U.S. Centers for Disease\u2026 [+2870 chars]",
+      "retrievedAt": "2024-12-19 19:05:35.931672",
+      "internal_id": "81a53a7c90805dccef2a5b2df1d993652791c02926e0b929039a09409177c363",
+      "publishedAtLabel": "Dec 18"
+    },
+    {
+      "id": 16539,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "CDC Confirms First Severe Case of H5N1 Bird Flu in the United States (CDC Newsroom)",
+      "description": "CDC Newsroom: CDC Confirms First Severe Case of H5N1 Bird Flu in the United States \u2014 STATEMENT \u2014 CDC Media Relations \u2014 (404) 639-3286 \u2014 A patient has been hospitalized with a severe case of avian influenza A(H5N1) virus (\"H5N1 bird flu\") infection in \u2026",
+      "url": "https://www.memeorandum.com/241218/p66",
+      "urlToImage": "https://www.cdc.gov/media/media/images/2024/09/cdc-logo.jpg?_=52313",
+      "publishedAt": "2024-12-18 18:40:01",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2024-12-19 19:05:35.876013",
+      "internal_id": "c8348b6aa3e422e073de478dece336419bdacd80128cf08736d9e1a31d38aaa6",
+      "publishedAtLabel": "Dec 18"
+    },
+    {
+      "id": 16543,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "US confirms first severe human case of bird flu (Reuters)",
+      "description": "Reuters: US confirms first severe human case of bird flu \u2014 The U.S. Centers for Disease Control and Prevention said on Wednesday that a patient has been hospitalized with a severe case of H5N1 infection in Louisiana, marking the first known instance of a se\u2026",
+      "url": "https://www.memeorandum.com/241218/p64",
+      "urlToImage": "https://www.reuters.com/resizer/v2/VU33XFFMXJPRZPUIMU67UKKCQY.jpg?auth=c3cded488debb7d4870b99d39c0ad3afb782c009eae0d49c841b242968dcba23&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2024-12-18 18:40:01",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2024-12-19 19:05:35.919810",
+      "internal_id": "2351d1e2f03f68b0370a42b1532b44aaa984c02015c63f6ce51df2bf439a1192",
+      "publishedAtLabel": "Dec 18"
+    },
+    {
+      "id": 16542,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Dan Gooding",
+      "title": "Symptoms of H5N1 Strain Bird Flu: CDC Says First Severe Case in US",
+      "description": "A patient in Louisiana was hospitalized after a recent exposure with the CDC issuing guidance to those most at-risk of infection.",
+      "url": "https://www.newsweek.com/bird-flu-symptoms-h5n1-cdc-list-avian-influenza-2003032",
+      "urlToImage": "https://d.newsweek.com/en/full/2547351/bird-flu-december-2024.jpg",
+      "publishedAt": "2024-12-18 18:38:50",
+      "content": "What's New The Center for Disease Control and Prevention (CDC) announced the first severe case of bird flu in the United States on Wednesday, after a patient in Louisiana was hospitalized. There ha\u2026 [+5005 chars]",
+      "retrievedAt": "2024-12-19 19:05:35.912987",
+      "internal_id": "ec5ac511b95c7c89231ecc4fbe511138504c30bf2d815a4b1ae95d26fdb9e323",
+      "publishedAtLabel": "Dec 18"
+    },
+    {
+      "id": 16558,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "MedPage Today",
+      "author": "Kristina Fiore",
+      "title": "U.S. Reports First Severe Case of Bird Flu",
+      "description": "U.S. Reports First Severe Case of Bird Flumedpagetoday.com",
+      "url": "https://www.medpagetoday.com/infectiousdisease/uritheflu/113453",
+      "urlToImage": "https://assets.medpagetoday.net/media/images/113xxx/113453.jpg",
+      "publishedAt": "2024-12-18 18:35:25",
+      "content": "The U.S. has reported its first severe case of H5N1 bird flu requiring hospitalization, the CDC announced. The patient, in Louisiana, had exposure to sick and dead birds in a backyard flock, accordi\u2026 [+3331 chars]",
+      "retrievedAt": "2024-12-19 19:05:36.097975",
+      "internal_id": "13855ddde19bf0108483a9ff25c8552e065f6a397d260df996540e7a5b02bf9f",
+      "publishedAtLabel": "Dec 18"
+    },
+    {
+      "id": 16546,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Digi24.ro",
+      "author": "Bogdan Enache",
+      "title": "Primul caz grav de grip\u0103 aviar\u0103 la om, raportat \u00een Statele Unite ale Americii",
+      "description": "Centrul american pentru Prevenirea \u015fi Controlul Bolilor (CDC) a anun\u0163at miercuri c\u0103 un pacient a fost spitalizat din cauza unei infec\u0163ii severe cu H5N1 \u00een Louisiana, acesta fiind primul caz grav de grip\u0103 aviar\u0103 cunoscut p\u00e2n\u0103 \u00een prezent \u00een r\u00e2ndul oamenilor \u00een \u2026",
+      "url": "https://www.digi24.ro/stiri/externe/sua/primul-caz-grav-de-gripa-aviara-la-om-raportat-in-statele-unite-ale-americii-3052055",
+      "urlToImage": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjQl/MkYwNCUyRjAzJTJGMTk0NDQ3Ml8xOTQ0/NDcyX3NodXR0ZXJzdG9ja18yMjEzNTI0/OTIxLmpwZyZ3PTEyMDAmaD02MzAmemM9/MSZoYXNoPTVkNTc5ZDQ3NjFhZjJkMWU4NGQ3YWVkNDc3ZDY2N2Ux.thumb.jpg",
+      "publishedAt": "2024-12-18 18:32:32",
+      "content": "Centrul american pentru Prevenirea i Controlul Bolilor (CDC) a anunat miercuri c un pacient a fost spitalizat din cauza unei infecii severe cu H5N1 \u00een Louisiana, acesta fiind primul caz grav de grip \u2026 [+1239 chars]",
+      "retrievedAt": "2024-12-19 19:05:35.944616",
+      "internal_id": "ad5530551146f3e59850cd8fdb80fb82e101a1ef4d092664ef50c6696801c530",
+      "publishedAtLabel": "Dec 18"
+    },
+    {
+      "id": 16547,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "H5N1-Virus: Erster schwerer Vogelgrippefall bei einem Patienten in den USA",
+      "description": "Erstmals wurde in den USA bei einem Patienten der erste schwere Fall von Vogelgrippe diagnostiziert. Bislang haben sich 61 Menschen dort mit dem Virus infiziert.",
+      "url": "https://www.stern.de/gesundheit/vogelgrippe--erster-schwerer-fall-bei-einem-menschen-in-den-usa-35322674.html",
+      "urlToImage": "https://image.stern.de/35322676/t/Wa/v1/w1440/r1.7778/-/vogelgrippe-usa.jpg",
+      "publishedAt": "2024-12-18 18:31:00",
+      "content": "Kopiere den aktuellen Link Erstmals wurde in den USA bei einem Patienten der erste schwere Fall von Vogelgrippe diagnostiziert. Bislang haben sich 61 Menschen dort mit dem Virus infiziert. Im s\u00fcdli\u2026 [+1446 chars]",
+      "retrievedAt": "2024-12-19 19:05:35.951695",
+      "internal_id": "9d3a75a6e8da2626fb629e0dec4fe3abb59b8f834ac2b0b09047fdb6d6609451",
+      "publishedAtLabel": "Dec 18"
+    },
+    {
+      "id": 16563,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Shtfplan.com",
+      "author": "Mac Slavo",
+      "title": "Mystery Illness In Congo Is Malaria",
+      "description": "The mystery illness that has been sickening mainly malnourished children in the Democratic Republic of Congo (DRC) has been identified as Malaria. This flu-like illness is a serious disease caused by a parasite that infects a certain type of mosquito.",
+      "url": "https://www.shtfplan.com/headline-news/mystery-illness-in-congo-is-malaria",
+      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2017/05/ebola-outbreak1.jpg",
+      "publishedAt": "2024-12-18 18:30:36",
+      "content": "The mystery illness that has been sickening mainly malnourished children in the Democratic Republic of Congo (DRC) has been identified as Malaria. This flu-like illness is a serious disease caused by\u2026 [+2107 chars]",
+      "retrievedAt": "2024-12-19 19:05:37.153324",
+      "internal_id": "9d6ac9916bfa5670ed10220aac5564fecb4411ae4d4927afbcb1e232c15efa30",
+      "publishedAtLabel": "Dec 18"
+    },
+    {
+      "id": 16540,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Mediafax.ro",
+      "author": "Iulia Kelt",
+      "title": "SUA confirm\u0103 primul caz sever de grip\u0103 aviar\u0103 la om",
+      "description": "Un pacient din Louisiana a fost spitalizat cu o infec\u0163ie sever\u0103 cu virusul H5N1, ceea ce reprezint\u0103 primul caz cunoscut de boal\u0103 sever\u0103 la om \u00een Statele Unite, scrie Reuters.",
+      "url": "https://www.mediafax.ro/externe/sua-confirma-primul-caz-sever-de-gripa-aviara-la-om-22615388",
+      "urlToImage": "https://storage0.dms.mpinteractiv.ro/media/1/1/3614/22615388/1/7730201-mediafax-foto-ap-bob-edme.jpg?width=640",
+      "publishedAt": "2024-12-18 18:20:45",
+      "content": "Centrul pentru Controlul i Prevenirea Bolilor (CDC) din SUA a confirmat miercuri primul caz sever de infecie cu virusul H5N1 la un om. Pacientul a fost spitalizat \u00een Louisiana, fiind astfel primul ca\u2026 [+1262 chars]",
+      "retrievedAt": "2024-12-19 19:05:35.888338",
+      "internal_id": "4e744ae10debdc82884a888ce02ba97c6502c5c358d68c129d16712e810a4d85",
+      "publishedAtLabel": "Dec 18"
+    },
+    {
+      "id": 16541,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Politicalwire.com",
+      "author": "Taegan Goddard",
+      "title": "CDC Confirms First Case of Bird Flu in the U.S.",
+      "description": "\"The U.S. Centers for Disease Control and Prevention said on Wednesday that a patient has been hospitalized with a severe case of H5N1 infection in Louisiana, marking the first known instance of a severe human",
+      "url": "https://politicalwire.com/2024/12/18/cdc-confirms-first-case-of-bird-flu-in-the-u-s/",
+      "urlToImage": "https://politicalwire.com/wp-content/uploads/2018/02/PW-podcast-logo.jpg",
+      "publishedAt": "2024-12-18 18:02:49",
+      "content": "\u201cThere are a lot of blogs and news sites claiming to understand politics, but only a few actually do. Political Wire is one of them.\u201d Chuck Todd, host of \u201cMeet the Press\u201d \u201cConcise. Relevant. To th\u2026 [+594 chars]",
+      "retrievedAt": "2024-12-19 19:05:35.900429",
+      "internal_id": "6d6ee93ce487dc9d3fc2cce39c963b83e21790e3ad1fc76f3edb5f4cc86876e7",
+      "publishedAtLabel": "Dec 18"
+    },
+    {
+      "id": 16551,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ET Online",
+      "title": "Bird Flu: How milk can spread the H5N1 Avian influenza",
+      "description": "Avian influenza is spreading rapidly through milk on US dairy farms, particularly in large-scale operations. The virus reproduces in cow udders, contaminating milk and potentially infecting workers. While pasteurization kills the virus, raw milk poses a risk\u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/bird-flu-how-milk-can-spread-the-h5n1-avian-influenza/articleshow/116446649.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-116446729,width-1200,height-630,imgsize-28440,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2024-12-18 17:59:52",
+      "content": "Finance Value and Valuation Masterclass By - CA Himanshu Jain, Ex McKinsey, Moody's, and PwC, Co - founder, The WallStreet School View Program",
+      "retrievedAt": "2024-12-19 19:05:35.994963",
+      "internal_id": "1904a7cb7372b031ef8600aac817a5f8f949e8c5578668b52ccd9b21f1dae6bf",
+      "publishedAtLabel": "Dec 18"
+    },
+    {
+      "id": 16571,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "El ECDC notifica m\u00e1s de 200 muertes por el virus de Chikungunya en todo el mundo este a\u00f1o",
+      "description": "El Centro Europeo para la Prevenci\u00f3n y el Control de Enfermedades (ECDC, por sus siglas en ingl\u00e9s) ha actualizado la situaci\u00f3n del virus de Chikungunya (CHIKVD) a nivel global y ha elevado a m\u00e1s de 200 los fallecimientos a causa de enfermedades asociadas a es\u2026",
+      "url": "https://www.infosalus.com/salud-investigacion/noticia-ecdc-notifica-mas-200-muertes-virus-chikungunya-todo-mundo-ano-20241218184833.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20241218184833_1200.jpg",
+      "publishedAt": "2024-12-18 17:48:33",
+      "content": "MADRID 18 Dic. (EUROPA PRESS) - El Centro Europeo para la Prevenci\u00f3n y el Control de Enfermedades (ECDC, por sus siglas en ingl\u00e9s) ha actualizado la situaci\u00f3n del virus de Chikungunya (CHIKVD) a niv\u2026 [+2922 chars]",
+      "retrievedAt": "2024-12-19 19:05:37.590269",
+      "internal_id": "24191af3d83f5ed88e8f6759d18dbb305462bf2488bff3cf688a8553b1775490",
+      "publishedAtLabel": "Dec 18"
+    },
+    {
+      "id": 16555,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Milenio",
+      "author": "Blanca Valadez",
+      "title": "Virus aviar afecta al ganado lechero y ya se conformaron 58 casos humanos: OPS",
+      "description": "La Organizaci\u00f3n Panamericana de la Salud (OPS) alert\u00f3 que la gripe aviar A/ H5N1 que com\u00fanmente se encontraba en las aves, ahora ya est\u00e1 infectando a otras 50 especies como es el ganado lechero detectado en Estados Unidos.\u201cEn 2024, se informaron 58 casos huma\u2026",
+      "url": "https://www.milenio.com/politica/gripe-aviar-efecta-ganado-lechero-58-casos-humanos-ops",
+      "urlToImage": "https://cdn.milenio.com/uploads/media/2024/05/30/establo-con-vacas-productoras-especial.jpeg",
+      "publishedAt": "2024-12-18 17:36:55",
+      "content": "La Organizaci\u00f3n Panamericana de la Salud (OPS) alert\u00f3 que la gripe aviar A/ H5N1 que com\u00fanmente se encontraba en las aves, ahora ya est\u00e1 infectando a otras 50 especies como es el ganado lechero detec\u2026 [+6022 chars]",
+      "retrievedAt": "2024-12-19 19:05:36.070796",
+      "internal_id": "28db8307537d2195f19db0091570b504879ac8869a09ef5f65663fc27b4634f9",
+      "publishedAtLabel": "Dec 18"
+    },
+    {
+      "id": 16552,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "nbc-news",
+      "source_name": "NBC News",
+      "author": "Evan Bush",
+      "title": "U.S. reports first severe human case of bird flu, in a patient hospitalized in Louisiana",
+      "description": "The Centers for Disease Control and Prevention has confirmed the first severe case of bird flu in a human. The patient is hospitalized in Louisiana.",
+      "url": "https://www.nbcnews.com/health/health-news/first-severe-human-case-bird-flu-rcna184698",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-07/240715-chickens-illinois-8b1b6c.jpg",
+      "publishedAt": "2024-12-18 17:08:56",
+      "content": "A person in Louisiana has been hospitalized with bird flu the countrys first severe human H5N1 infection, according to the Centers for Disease Control and Prevention. The agency said the person wa\u2026 [+592 chars]",
+      "retrievedAt": "2024-12-19 19:05:36.002226",
+      "internal_id": "8c9b69745831d30bc57b862a2ca1e7296bc1ac649eea348601cdf46187a0288f",
+      "publishedAtLabel": "Dec 18"
+    },
+    {
+      "id": 16557,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": "Reuters",
+      "title": "First severe case of bird flu detected in US, CDC confirms",
+      "description": "A patient has been hospitalized with a severe case of H5N1 infection in Louisiana, the CDC said. This is first instance of a severe illness linked to bird flu in the U.S.",
+      "url": "https://www.foxnews.com/health/first-severe-case-bird-flu-detected-us-cdc-confirms",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/12/first-severe-case-of-bird-flu-in-us.jpg",
+      "publishedAt": "2024-12-18 16:59:17",
+      "content": "A patient was hospitalized with a severe case of bird flu in Louisiana, the CDC said.This case is the first confirmed instance of a severe human infection linked to the H5N1 virus.</\u2026 [+1370 chars]",
+      "retrievedAt": "2024-12-19 19:05:36.091204",
+      "internal_id": "3d0297a35b39eb5626a4f8053810cb8b4ff8d8e6305dfc0f70b32cde317cd1a2",
+      "publishedAtLabel": "Dec 18"
+    },
+    {
+      "id": 16548,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "CDC confirms first severe case of H5N1 bird flu in U.S.",
+      "description": "The U.S. Centers for Disease Control and Prevention says a patient has been hospitalized with a severe case of H5N1 infection in Louisiana, making it the first instance of a severe illness linked to the virus in the United States.",
+      "url": "https://www.cbc.ca/news/health/h5n1-cdc-1.7413772",
+      "urlToImage": "https://i.cbc.ca/1.7391120.1732305681!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_1180/bird-flu.jpg?im=Resize%3D620",
+      "publishedAt": "2024-12-18 16:58:05",
+      "content": "A person in Louisiana has the first severe illness caused by bird flu in the U.S., health officials said Wednesday. The patient had been in contact with sick and dead birds in backyard flocks, the U\u2026 [+1362 chars]",
+      "retrievedAt": "2024-12-19 19:05:35.963950",
+      "internal_id": "b7d8f6cc98e1edc9b5062b7d6fc79022c8133b7cbb20fa0cc67c1bf678a13d73",
+      "publishedAtLabel": "Dec 18"
+    },
+    {
+      "id": 16556,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "il-sole-24-ore",
+      "source_name": "Il Sole 24 Ore",
+      "author": null,
+      "title": "Usa, primo caso di influenza aviaria grave in un uomo",
+      "description": "Il paziente \u00e8 stato ricoverato in ospedale in Louisiana",
+      "url": "https://www.ilsole24ore.com/art/usa-primo-caso-influenza-aviaria-grave-un-uomo-AGCmokqB",
+      "urlToImage": "https://i2.res.24o.it/images2010/S24/Documenti/2024/12/19/Immagini/Ritagli/SOLECARTA_2024070219323098_TECNAVIA_PHOTO_GENERALE_798005-U23628483362lpR-1440x752@IlSole24Ore-Web.jpg?r=1170x507",
+      "publishedAt": "2024-12-18 16:52:25",
+      "content": "Ascolta la versione audio dell'articolo 2' di lettura Primo caso grave di influenza aviaria - A (H5N1) - in un uomo negli Stati Uniti: lo rendono noto le autorit\u00e0 sanitarie americane. Il paziente \u2026 [+1191 chars]",
+      "retrievedAt": "2024-12-19 19:05:36.079170",
+      "internal_id": "854039f722cc7d78b305197dd87ee9fdd26e607e3db307f43abdafe3afb300c1",
+      "publishedAtLabel": "Dec 18"
+    },
+    {
+      "id": 16553,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Tan Jingjing",
+      "title": "U.S. confirms first human bird flu severe case",
+      "description": "LOS ANGELES, Dec. 18 (Xinhua) -- The United States has confirmed a severe human case of avian influenza A (H5N1) virus (H5N1 bird flu) infection. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2024/12/19/us-confirms-first-human-bird-flu-severe-case",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2024-12-18 16:51:00",
+      "content": "LOS ANGELES, Dec. 18 (Xinhua) -- The United States has confirmed a severe human case of avian influenza A (H5N1) virus (H5N1 bird flu) infection. A patient has been hospitalized with H5N1 bird flu \u2026 [+804 chars]",
+      "retrievedAt": "2024-12-19 19:05:36.008758",
+      "internal_id": "fd9e51e588c0d59db88ffabb7c97077d97b41b71f7bc8f3852e3ed9d2538f455",
+      "publishedAtLabel": "Dec 18"
+    },
+    {
+      "id": 16568,
+      "query": [
+        "zika"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "PTI",
+      "title": "Suspected Zika case: Sample from Andhra sent to NIV Pune for confirmation",
+      "description": "A five-year-old boy from Venkatapuram village in Nellore district, Andhra Pradesh, is suspected of having the Zika virus. His blood sample has been sent to NIV, Pune for confirmation. The child has been shifted to Chennai for advanced treatment. Health offici\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/suspected-zika-case-sample-from-andhra-sent-to-niv-pune-for-confirmation/articleshow/116445592.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-116445673,width-1200,height-630,imgsize-7400,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2024-12-18 16:48:50",
+      "content": "Artificial Intelligence(AI) AI and Analytics based Business Strategy By - Tanusree De, Managing Director- Accenture Technology Lead, Trustworthy AI Center of Excellence: ATCI View Program",
+      "retrievedAt": "2024-12-19 19:05:37.377301",
+      "internal_id": "ea569c5b5f276763d4a01836064f4e64bb962c18874df7213e40f45853d007e4",
+      "publishedAtLabel": "Dec 18"
+    },
+    {
+      "id": 16554,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Meneame.net",
+      "author": "Larpeir\u00e1n",
+      "title": "Un paciente de Luisiana es el primer caso grave de gripe aviar en EE.UU., seg\u00fan las autoridades sanitarias [ENG]",
+      "description": "Un ciudadano estadounidense que reside en Luisiana padece el primer caso grave del virus H5N1 de la gripe aviar que ha sido hospitalizado en EE UU., seg\u00fan informaron el mi\u00e9rcoles las autoridades sanitarias. El paciente hab\u00eda estado en contacto con aves enferm\u2026",
+      "url": "https://www.meneame.net/m/ciencia/paciente-luisiana-primer-caso-grave-gripe-aviar-ee-uu-segun-eng",
+      "urlToImage": "https://www.meneame.net/backend/media?type=link&id=4010839&version=0&ts=1734540546&image.webp",
+      "publishedAt": "2024-12-18 16:44:13",
+      "content": "",
+      "retrievedAt": "2024-12-19 19:05:36.021041",
+      "internal_id": "7c3c0e735fc028779c6e4ce497ce78eada56349b43f99ce0bfbe73818dd9ce23",
+      "publishedAtLabel": "Dec 18"
+    },
+    {
+      "id": 16559,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Jamie Gumbrecht",
+      "title": "United States\u2019 first severe case of bird flu confirmed in Louisiana | CNN",
+      "description": "A patient in Louisiana has been hospitalized with a severe case of H5N1 bird flu, the US Centers for Disease Control and Prevention said, the first such case in the United States.",
+      "url": "https://www.cnn.com/2024/12/18/health/severe-bird-flu-louisiana-first-us-case/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1242380169.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-12-18 16:30:54",
+      "content": "A patient in Louisiana has been hospitalized with a severe case of H5N1 bird flu, the US Centers for Disease Control and Prevention said, the first such case in the United States. The agency said We\u2026 [+1496 chars]",
+      "retrievedAt": "2024-12-19 19:05:36.104324",
+      "internal_id": "887e2e5c2efc63b45483b68f7a53b6b9ebf035a1f9588c51ab90809713c6f66b",
+      "publishedAtLabel": "Dec 18"
+    },
+    {
+      "id": 16550,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Investing.com",
+      "author": "Reuters",
+      "title": "CDC confirms first severe case of bird flu in US",
+      "description": "CDC confirms first severe case of bird flu in US",
+      "url": "https://www.investing.com/news/world-news/cdc-confirms-first-severe-case-of-bird-flu-in-us-3779851",
+      "urlToImage": "https://i-invdn-com.investing.com/news/world_news_3_69x52._800x533_L_1419494235.jpg",
+      "publishedAt": "2024-12-18 16:26:03",
+      "content": "(Reuters) - The U.S. Centers for Disease Control and Prevention said on Wednesday a patient has been hospitalized with a severe case of H5N1 infection in Louisiana, making it the first instance of a \u2026 [+113 chars]",
+      "retrievedAt": "2024-12-19 19:05:35.987782",
+      "internal_id": "5118072083b38d5946a369e33276e0abded5ed520c28de7e9c462cb545adecdb",
+      "publishedAtLabel": "Dec 18"
+    },
+    {
+      "id": 16545,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": "CDC",
+      "title": "CDC Confirms First Severe Case of H5N1 Bird Flu in the United States",
+      "description": "December 18, 2024-- A patient has been hospitalized with a severe case of avian influenza A(H5N1)",
+      "url": "https://www.cdc.gov/media/releases/2024/m1218-h5n1-flu.html",
+      "urlToImage": "https://www.cdc.gov/media/media/images/2024/09/cdc-logo.jpg?_=52313",
+      "publishedAt": "2024-12-18 15:43:00",
+      "content": "December 18, 2024-- A patient has been hospitalized with a severe case of avian influenza A(H5N1) virus (\"H5N1 bird flu\") infection in Louisiana. This marks the first instance of severe illness linke\u2026 [+3258 chars]",
+      "retrievedAt": "2024-12-19 19:05:35.938274",
+      "internal_id": "38ff390a61bbe6d50a1012e8b4129ac1d02ffa026dabacc2613021bc07384fa7",
+      "publishedAtLabel": "Dec 18"
+    },
+    {
+      "id": 16562,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Spallanzani: 'Il morto in Veneto \u00e8 per malaria'",
+      "description": "Esclusa la presenza di altri patogeni (ANSA)",
+      "url": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2024/12/18/spallanzani-il-morto-in-veneto-e-per-malaria_e666e666-6c07-467c-acfe-4de2900688ec.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2010/3/21/e96a5dba174bea15cd65a62a3cd07b73.jpg",
+      "publishedAt": "2024-12-18 15:31:35",
+      "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all\u2019abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad \u2026 [+320 chars]",
+      "retrievedAt": "2024-12-19 19:05:37.114866",
+      "internal_id": "17e20bb3271f7598bf166a0ea766d96422422bfe2b19cefc141f69c58b63452d",
+      "publishedAtLabel": "Dec 18"
+    },
+    {
+      "id": 16579,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "DIE WELT",
+      "author": "WELT",
+      "title": "\u201eKein fl\u00e4chendeckendes, gr\u00f6\u00dferes Problem\u201c f\u00fcr Deutschland",
+      "description": "Weil zwei Kinder sich mit Mpox infiziert hatten, wurde eine Schule in Nordrhein-Westfalen geschlossen. Experten halten die lokalen Ma\u00dfnahmen f\u00fcr ausreichend. Laut Bundesgesundheitsminister Karl Lauterbach erh\u00f6ht sich das Risiko eines Ausbruchs f\u00fcr Deutschland\u2026",
+      "url": "https://www.welt.de/gesundheit/article254911044/Mpox-in-Deutschland-Kein-flaechendeckendes-groesseres-Problem.html",
+      "urlToImage": "https://img.welt.de/img/gesundheit/mobile254911042/7007936357-ci16x9-w1200/Mpox.jpg",
+      "publishedAt": "2024-12-18 15:28:58",
+      "content": "Weil zwei Kinder sich mit Mpox infiziert hatten, wurde eine Schule in Nordrhein-Westfalen geschlossen. Experten halten die lokalen Ma\u00dfnahmen f\u00fcr ausreichend. Laut Bundesgesundheitsminister Karl Laute\u2026 [+2931 chars]",
+      "retrievedAt": "2024-12-19 19:05:38.146420",
+      "internal_id": "fdb2b71c3405eb3b7df5649f48a8ff86a9e1ff57b50a7f28735babed4f4dc05c",
+      "publishedAtLabel": "Dec 18"
+    },
+    {
+      "id": 16537,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ET Online",
+      "title": "Golden jackal with rabies attacks woman in Mumbai",
+      "description": "A golden jackal attacked a woman in Mumbai's BARC Colony. Wildlife experts captured the animal. The woman received preventive treatment at a hospital. The jackal showed signs of rabies. Tests are underway to confirm the diagnosis. The forest department urge\u2026",
+      "url": "https://economictimes.indiatimes.com/news/mumbai-news/golden-jackal-with-rabies-attacks-woman-in-mumbai/articleshow/116443498.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-116443557,width-1200,height-630,imgsize-143012,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2024-12-18 15:21:04",
+      "content": "A golden jackal attacked a woman in Mumbai's BARC Colony, Anushakti Nagar, on Wednesday evening before being captured by wildlife experts. The woman was rushed to the hospital for preventive treatmen\u2026 [+840 chars]",
+      "retrievedAt": "2024-12-19 19:05:34.733246",
+      "internal_id": "c03f0831b0ef15710050988ab8eac92424a7c2d4e37e929c4fd225177b6a207f",
+      "publishedAtLabel": "Dec 18"
+    },
+    {
+      "id": 16576,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": null,
+      "title": "2 Monkeypox Cases Reported In Kerala, Patients Recently Travelled From UAE",
+      "description": "Two cases of Monkeypox (Mpox) have been reported in Kerala, state Health Minister Veena George said on Wednesday.",
+      "url": "https://www.ndtv.com/india-news/2-monkeypox-cases-reported-in-kerala-patients-recently-travelled-from-uae-7279328",
+      "urlToImage": "https://c.ndtvimg.com/2024-10/lf6louj8_mpox_625x300_22_October_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "publishedAt": "2024-12-18 15:06:39",
+      "content": "Kerala had reported a few monkeypox cases in September this year. (Representational) Thiruvananthapuram: Two cases of Monkeypox (Mpox) have been reported in Kerala, state Health Minister Veena Georg\u2026 [+1476 chars]",
+      "retrievedAt": "2024-12-19 19:05:38.066427",
+      "internal_id": "404cea29982ee7c7fb809e0e49e372c4bb069a02e87fcee57ad6cab8154dbc25",
+      "publishedAtLabel": "Dec 18"
+    },
+    {
+      "id": 16561,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "++ Spallanzani, morto in Veneto per malaria ++",
+      "description": "I risultati sui campioni di sangue relativi alla persona di Trevignano (Treviso) deceduta di ritorno da un viaggio in Congo hanno evidenziato la presenza di plasmodium falciparum, agente responsabile della malaria. (ANSA)",
+      "url": "https://www.ansa.it/sito/notizie/flash/2024/12/18/-spallanzani-morto-in-veneto-per-malaria-_ee596270-f445-4e10-8ead-984aed59f81e.html",
+      "urlToImage": "https://www.ansa.it",
+      "publishedAt": "2024-12-18 15:03:55",
+      "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all\u2019abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad \u2026 [+320 chars]",
+      "retrievedAt": "2024-12-19 19:05:37.108094",
+      "internal_id": "7a952344f00d6d891f3caaf2cfe126c9983cafb0856ecb39db39613b3afadc67",
+      "publishedAtLabel": "Dec 18"
+    },
+    {
+      "id": 16538,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "Tiny Coffins: Measles Is Killing Thousands of Children in Congo (New York Times)",
+      "description": "New York Times: Tiny Coffins: Measles Is Killing Thousands of Children in Congo \u2014 Problems with getting vaccines to families have left many children unvaccinated and in danger of contracting the virus. \u2014 Werra Maulu Botey, in black polo shirt, with the co\u2026",
+      "url": "https://www.memeorandum.com/241218/p31",
+      "urlToImage": "https://static01.nyt.com/images/2024/12/12/multimedia/xx-measles-congo-01-wzcg/xx-measles-congo-01-wzcg-facebookJumbo.jpg",
+      "publishedAt": "2024-12-18 14:50:01",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2024-12-19 19:05:35.130030",
+      "internal_id": "642b6c37c9b7924c423ba978812f1d9e70a245daca15977c1a19c9be1d204209",
+      "publishedAtLabel": "Dec 18"
+    },
+    {
+      "id": 16560,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "GPS Bras\u00edlia, GPS Bras\u00edlia",
+      "title": "DF Legal realiza mais de 80 mil a\u00e7\u00f5es fiscais e amplia combate \u00e0 dengue em 2024",
+      "description": "Seja na ordem urban\u00edstica ou em quest\u00f5es relacionadas \u00e0 sa\u00fade p\u00fablica, a Secretaria DF Legal...",
+      "url": "https://ultimosegundo.ig.com.br/parceiros/gps-brasilia/2024-12-18/df-legal-realiza-mais-de-80-mil-acoes-fiscais-e-amplia-combate-a-dengue-em-2024.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/2a/lo/ab/2aloabb38f8vajyio51ugt6vi.jpg",
+      "publishedAt": "2024-12-18 14:36:36",
+      "content": "Seja na ordem urban\u00edstica ou em quest\u00f5es relacionadas \u00e0 sa\u00fade p\u00fablica, a Secretaria DF Legal apresentou resultados relevantes em 2024. Ao longo do ano, a pasta ajudou no combate \u00e0 dengue e fechou o c\u2026 [+3073 chars]",
+      "retrievedAt": "2024-12-19 19:05:36.655350",
+      "internal_id": "e563d10db921fb51eb587bc7069c2eebb0a8e31a8237aea487b61042db7a6fb4",
+      "publishedAtLabel": "Dec 18"
+    },
+    {
+      "id": 16565,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Legalinsurrection.com",
+      "author": "Leslie Eastman",
+      "title": "Public Health Officials Suggest Mystery Disease in Congo Could be Malaria",
+      "description": "Interestingly, medical journals suggest there is a resurgence of malaria in the region....due to medical service disruption \"exacerbated by COVID-19-related health service disruption.\" The post Public Health Officials Suggest Mystery Disease in Congo Could be\u2026",
+      "url": "https://legalinsurrection.com/2024/12/public-health-officials-suggest-mystery-disease-in-congo-could-be-malaria/",
+      "urlToImage": "https://legalinsurrection.com/wp-content/uploads/2016/10/LI-34-Mosquito-e1476243914966.png",
+      "publishedAt": "2024-12-18 14:00:33",
+      "content": "The latest death toll from the mysterious disease in the Democratic Republic of Congo is difficult to determine precisely due to varying reports. The last time I reported on the illness, which has hi\u2026 [+4858 chars]",
+      "retrievedAt": "2024-12-19 19:05:37.199137",
+      "internal_id": "cec816cd637ec87da2d8b5678ab73313e78fdf307b9084f1701ec210b1c7c9e5",
+      "publishedAtLabel": "Dec 18"
+    },
+    {
+      "id": 16564,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Sri Krishna, Shrikant Nema, Ruchika Sangle, Amreen Ahmad, Akansha Singh, Devendra Kumar, Anil K. Verma, Venkatachalam Udhayakumar, Aparup Das, Anup R. Anvikar, Praveen K. Bharti",
+      "title": "Low prevalence of Plasmodium falciparum histidine-rich protein 2 and 3 gene deletions in malaria-endemic states of India",
+      "description": "Rapid diagnostic tests (RDTs) are crucial for diagnosing malaria in resource-limited settings. These tests, which detect the histidine-rich protein 2 (PfHRP2) and its structural homologue PfHRP3, are specifically designed to identify Plasmodium falciparum. De\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0315662",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0315662.g003&size=inline",
+      "publishedAt": "2024-12-18 14:00:00",
+      "content": "Abstract Rapid diagnostic tests (RDTs) are crucial for diagnosing malaria in resource-limited settings. These tests, which detect the histidine-rich protein 2 (PfHRP2) and its structural homologue P\u2026 [+18626 chars]",
+      "retrievedAt": "2024-12-19 19:05:37.170861",
+      "internal_id": "f946adaaa88b479cc75dad83c78ca179ecef2032f560e8c96812b7cbe10f7831",
+      "publishedAtLabel": "Dec 18"
+    },
+    {
+      "id": 16570,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Robert T. Jones, Scott J. Tytheridge, Carolin Vegvari, Hannah R. Meredith, Elizabeth A. Pretorius, Thomas H. Ant, James G. Logan",
+      "title": "The effectiveness of putative wearable repellent technologies to protect against mosquito biting and Aedes-borne diseases, and their economic impact",
+      "description": "Author summary Mosquito-borne diseases threaten millions worldwide, necessitating effective personal protection tools. Our study assessed wash-in and spray-on repellents against Aedes aegypti mosquitoes, the vectors of Zika and other arboviruses. When applied\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012621",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012621.g007&size=inline",
+      "publishedAt": "2024-12-18 14:00:00",
+      "content": "Citation: Jones RT, Tytheridge SJ, Vegvari C, Meredith HR, Pretorius EA, Ant TH, et al. (2024) The effectiveness of putative wearable repellent technologies to protect against mosquito biting and Aed\u2026 [+42845 chars]",
+      "retrievedAt": "2024-12-19 19:05:37.391272",
+      "internal_id": "105b859332596138623228db5238b1faa55c7d62c59aadfbd803f1be830ca4ba",
+      "publishedAtLabel": "Dec 18"
+    },
+    {
+      "id": 16580,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Der Tagesspiegel",
+      "title": "Krankheiten: Lauterbach: Mpox derzeit kein fl\u00e4chendeckendes Problem",
+      "description": "Nach Bekanntwerden von Mpox-F\u00e4llen in einer Familie sind regionale Schutzma\u00dfnahmen verh\u00e4ngt worden. Wie ist die Gef\u00e4hrdung bundesweit?",
+      "url": "https://www.tagesspiegel.de/wissen/krankheiten-lauterbach-mpox-derzeit-kein-flachendeckendes-problem-12897421.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/12897418/alternates/BASE_16_9_W1400/1734530267000/kabinettssitzung-statement-bundesgesundheitsminister-lauterbach.jpeg",
+      "publishedAt": "2024-12-18 13:57:47",
+      "content": "Bundesgesundheitsminister Karl Lauterbach sieht nach dem aktuellen Auftreten des Mpox-Virus in Nordrhein-Westfalen vorerst kein h\u00f6heres Risiko f\u00fcr Deutschland. Wir haben zum jetzigen Zeitpunkt keinen\u2026 [+2682 chars]",
+      "retrievedAt": "2024-12-19 19:05:38.180319",
+      "internal_id": "0521c0f02096cecb35cc4f0385bb149c5cff693abaeabac0fec62a3a5ddec088",
+      "publishedAtLabel": "Dec 18"
+    },
+    {
+      "id": 16572,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "ZEIT ONLINE: News -",
+      "title": "Krankheiten: Lauterbach: Mpox derzeit kein fl\u00e4chendeckendes Problem",
+      "description": "Hier finden Sie Informationen zu dem Thema \u201eKrankheiten\u201c. Lesen Sie jetzt \u201eLauterbach: Mpox derzeit kein fl\u00e4chendeckendes Problem\u201c.",
+      "url": "https://www.zeit.de/news/2024-12/18/lauterbach-mpox-derzeit-kein-flaechendeckendes-problem",
+      "urlToImage": "https://img.zeit.de/news/2024-12/18/lauterbach-mpox-derzeit-kein-flaechendeckendes-problem-image-group/wide__1300x731",
+      "publishedAt": "2024-12-18 13:56:40",
+      "content": "Bundesgesundheitsminister Karl Lauterbach sieht nach dem aktuellen Auftreten des Mpox-Virus in Nordrhein-Westfalen vorerst kein h\u00f6heres Risiko f\u00fcr Deutschland. \u00abWir haben zum jetzigen Zeitpunkt keine\u2026 [+1967 chars]",
+      "retrievedAt": "2024-12-19 19:05:37.893401",
+      "internal_id": "9ab648d61fada1f69a99a533085c867ae4cdbf1004c1c31f3a3e9102a11a30b5",
+      "publishedAtLabel": "Dec 18"
+    },
+    {
+      "id": 16581,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "Krankheiten: Lauterbach: Mpox derzeit kein fl\u00e4chendeckendes Problem",
+      "description": "Berlin - Bundesgesundheitsminister Karl Lauterbach sieht nach dem aktuellen Auftreten des Mpox-Virus in Nordrhein-Westfalen vorerst kein h\u00f6heres Risiko",
+      "url": "https://www.stern.de/panorama/wissen/krankheiten--lauterbach--mpox-derzeit-kein-flaechendeckendes-problem-35321786.html",
+      "urlToImage": "https://image.stern.de/35321788/t/cj/v1/w1440/r1.7778/-/18--oc5hl2cesfv8axs2048jpeg---fefa6a1e9a75ce8d.jpg",
+      "publishedAt": "2024-12-18 13:56:40",
+      "content": "Kopiere den aktuellen Link Nach Bekanntwerden von Mpox-F\u00e4llen in einer Familie sind regionale Schutzma\u00dfnahmen verh\u00e4ngt worden. Wie ist die Gef\u00e4hrdung bundesweit? Bundesgesundheitsminister Karl Laut\u2026 [+2091 chars]",
+      "retrievedAt": "2024-12-19 19:05:38.219953",
+      "internal_id": "32b072da8fe9afee18c75d6b902167ffe33ea283d017874717d04d33a7bca56c",
+      "publishedAtLabel": "Dec 18"
+    },
+    {
+      "id": 16567,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Torna dal Congo e muore: Rocca, da primi esami \u00e8 malaria",
+      "description": "\"Non sono ancora terminati tutti gli esami, ma i primi riscontri portano ad un caso di malaria e non a virus sconosciuti. Ovviamente gli esami vanno approfonditi e sono in corso ulteriori verifiche\". (ANSA)",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2024/12/18/torna-dal-congo-e-muore-rocca-da-primi-esami-e-malaria_878d93d9-c35d-4c2d-aa4b-cb6a725c3bae.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2024/9/3/cf8a255bffaeec3306646f28cd7b50bd.jpg",
+      "publishedAt": "2024-12-18 13:55:48",
+      "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all\u2019abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad \u2026 [+320 chars]",
+      "retrievedAt": "2024-12-19 19:05:37.239929",
+      "internal_id": "788912718624cd4b6c760aefe0ac85329873ca116b6c238b863de0a7d1bf361a",
+      "publishedAtLabel": "Dec 18"
+    },
+    {
+      "id": 16566,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Torna dal Congo e muore: Rocca, da primi esami \u00e8 malaria",
+      "description": "\"Non sono ancora terminati tutti gli esami, ma i primi riscontri portano ad un caso di malaria e non a virus sconosciuti. Ovviamente gli esami vanno approfonditi e sono in corso ulteriori verifiche\". (ANSA)",
+      "url": "https://www.ansa.it/sito/notizie/topnews/2024/12/18/torna-dal-congo-e-muore-rocca-da-primi-esami-e-malaria_2053cdc9-c913-4da9-850a-7f92519bd148.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2024/9/3/cf8a255bffaeec3306646f28cd7b50bd.jpg",
+      "publishedAt": "2024-12-18 13:55:46",
+      "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all\u2019abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad \u2026 [+320 chars]",
+      "retrievedAt": "2024-12-19 19:05:37.216760",
+      "internal_id": "7a4c0135ec2836d8536bc76a7d4c09eaea19cd8ab7f6a958e1efc34928402659",
+      "publishedAtLabel": "Dec 18"
+    },
+    {
+      "id": 16536,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "International Business Times",
+      "author": "Elizabeth Urban",
+      "title": "Animal Lover Who Tried To Save Raccoon From Getting Run Over Ends Up With Thousands in Medical Bills After Bloody Bite",
+      "description": "An animal lover who tried to save a raccoon from getting run over ended up with thousands of dollars in medical bills after the raccoon bit her.",
+      "url": "https://www.ibtimes.com/massachusetts-woman-initially-received-bill-more-56000-3755996",
+      "urlToImage": "https://d.ibtimes.com/en/full/4570055/raccoon.jpg",
+      "publishedAt": "2024-12-18 13:09:15",
+      "content": "An animal lover who tried to save a raccoon from getting run over ended up with thousands of dollars in medical bills and four rabies shots after the animal bit her, according to a report. Back in M\u2026 [+1857 chars]",
+      "retrievedAt": "2024-12-19 19:05:34.725939",
+      "internal_id": "fe1f1068e76388d80a7188614f6b1c5be69f889f88781f712eebd822af830909",
+      "publishedAtLabel": "Dec 18"
+    },
+    {
+      "id": 16578,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "PTI",
+      "title": "Two Monkeypox cases reported in Kerala",
+      "description": "Two men returning to Kerala from the UAE have tested positive for monkeypox (Mpox), according to state Health Minister Veena George. One case was identified in Wayanad district, and the other in Kannur. Health officials have advised individuals who were in co\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/two-monkeypox-cases-reported-in-kerala/articleshow/116440888.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-116440902,width-1200,height-630,imgsize-8486,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2024-12-18 13:06:36",
+      "content": "Two cases of monkeypox (Mpox) have been reported in Kerala, state Health Minister Veena George said on Wednesday. Two men, who recently returned to Kerala from the United Arab Emirates (UAE), tested \u2026 [+547 chars]",
+      "retrievedAt": "2024-12-19 19:05:38.134205",
+      "internal_id": "4f6697351d5de119685c07d3b64a18d41b41d232fc0d47f56f4fd052e3d4ff45",
+      "publishedAtLabel": "Dec 18"
+    },
+    {
+      "id": 16549,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": "Bhavya Sukheja",
+      "title": "Next Pandemic Might Come From The US, Spanish Experts Warn",
+      "description": "The next pandemic might come from the United States, experts in Spain have warned.",
+      "url": "https://www.ndtv.com/world-news/amid-rising-bird-flu-cases-in-humans-experts-warn-next-pandemic-may-come-from-the-us-7278401",
+      "urlToImage": "https://c.ndtvimg.com/2024-11/kemt7u1o_face-mask_625x300_18_November_24.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "publishedAt": "2024-12-18 13:06:29",
+      "content": "The next pandemic might come from the United States, experts in Spain have warned. According to La Vanguardia, infectious disease specialists have said that as H5N1 avian flu continues to mutate and \u2026 [+2787 chars]",
+      "retrievedAt": "2024-12-19 19:05:35.981140",
+      "internal_id": "b9f7f89f60c078d4fe4f8215996f81840bae0942d9f506242288abf9ed7bce41",
+      "publishedAtLabel": "Dec 18"
+    },
+    {
+      "id": 16575,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "Krankheiten: Beh\u00f6rden: Risiko von gr\u00f6\u00dferer Mpox-Ausbreitung gering",
+      "description": "Nach Mpox-F\u00e4llen bei einer Familie im Rheinisch-Bergischen Kreis ist eine F\u00f6rderschule vorsorglich geschlossen worden. Ein Experte h\u00e4lt das f\u00fcr vern\u00fcnftig. Zugleich sei der Fall anders als bei Corona.",
+      "url": "https://www.stern.de/gesellschaft/regional/nordrhein-westfalen/krankheiten--behoerden--risiko-von-groesserer-mpox-ausbreitung-gering-35320060.html",
+      "urlToImage": "https://image.stern.de/35321168/t/sV/v1/w1440/r1.7778/-/18--wbn2ma7kmvv1axs2048jpeg---edc9ba98565b9f6b.jpg",
+      "publishedAt": "2024-12-18 12:03:05",
+      "content": "Kopiere den aktuellen Link Nach Mpox-F\u00e4llen bei einer Familie im Rheinisch-Bergischen Kreis ist eine F\u00f6rderschule vorsorglich geschlossen worden. Ein Experte h\u00e4lt das f\u00fcr vern\u00fcnftig. Zugleich sei de\u2026 [+3542 chars]",
+      "retrievedAt": "2024-12-19 19:05:38.043174",
+      "internal_id": "82b6ace4f7e708b2f50e465cb31327f80179ee6a1893edc2bd74c058189eee92",
+      "publishedAtLabel": "Dec 18"
+    },
+    {
+      "id": 16569,
+      "query": [
+        "zika"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Sandeep Raghavan",
+      "title": "Andhra Pradesh: Suspected case of Zika virus sparks panic among locals in Nellore district",
+      "description": "A six-year-old boy from Venkatapuram village in Nellore district is suspected to have contracted the Zika virus. He was initially treated in Nellore and later shifted to Chennai. Blood samples were sent to Pune for confirmation. Health officials set up a medi\u2026",
+      "url": "https://timesofindia.indiatimes.com/city/vijayawada/andhra-pradesh-suspected-case-of-zika-virus-sparks-panic-among-locals-in-nellore-district/articleshow/116438032.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-116438078,width-1070,height-580,imgsize-17626,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-12-18 11:33:31",
+      "content": "10 best places to visit in North India for a thrilling wildlife experience",
+      "retrievedAt": "2024-12-19 19:05:37.384628",
+      "internal_id": "6858773afbe48d3de93f0171c5146667d90485644a870e6a16a1105f33a511af",
+      "publishedAtLabel": "Dec 18"
+    },
+    {
+      "id": 16535,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Nplus1.ru",
+      "author": "\u041e\u043b\u0435\u0433 \u041b\u0438\u0449\u0443\u043a",
+      "title": "\u041a\u043e\u043a\u043b\u044e\u0448 \u0432\u044b\u0437\u0432\u0430\u043b \u043a\u0440\u043e\u0432\u043e\u0438\u0437\u043b\u0438\u044f\u043d\u0438\u044f \u0432 \u0433\u043b\u0430\u0437\u0430 \u0443 \u0448\u0432\u0435\u0439\u0446\u0430\u0440\u0441\u043a\u043e\u0433\u043e \u043c\u0430\u043b\u044c\u0447\u0438\u043a\u0430",
+      "description": "\u041a\u043e\u043a\u043b\u044e\u0448 \u0432\u044b\u0437\u0432\u0430\u043b \u043a\u0440\u043e\u0432\u043e\u0438\u0437\u043b\u0438\u044f\u043d\u0438\u044f \u0432 \u0433\u043b\u0430\u0437\u0430 \u0443 \u0448\u0432\u0435\u0439\u0446\u0430\u0440\u0441\u043a\u043e\u0433\u043e \u043c\u0430\u043b\u044c\u0447\u0438\u043a\u0430",
+      "url": "https://nplus1.ru/news/2024/12/18/cough-to-eye-bleeding",
+      "urlToImage": "https://minio.nplus1.ru/app-images/981301/6761f5b9811b8_cover_share.jpg",
+      "publishedAt": "2024-12-18 09:00:00",
+      "content": "10- , . , . , . . . (Leopold Simma) (Maxine Gesch) New England Journal of Medicine. , Bordetella pertussis, . , . . , . . , , .",
+      "retrievedAt": "2024-12-19 19:05:34.398090",
+      "internal_id": "7a165fc5040e8bff57514b1dec51d36e51534d1c718dfcb84313523212544643",
+      "publishedAtLabel": "Dec 18"
+    },
+    {
+      "id": 16577,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Mail.ru",
+      "author": "\u0414\u0435\u043d\u0438\u0441 \u0416\u043e\u0445\u043e\u0432",
+      "title": "\u0427\u0442\u043e \u0438\u0437\u0432\u0435\u0441\u0442\u043d\u043e \u043e \u0432\u0441\u043f\u044b\u0448\u043a\u0435 \u0441\u0442\u0440\u0430\u043d\u043d\u043e\u0439 \u0431\u043e\u043b\u0435\u0437\u043d\u0438 \u0432 \u0423\u0433\u0430\u043d\u0434\u0435",
+      "description": "\u041e\u043d\u0430 \u0432\u044b\u0437\u044b\u0432\u0430\u0435\u0442 \u0434\u0440\u043e\u0436\u044c \u0443 \u0436\u0435\u043d\u0449\u0438\u043d \u0438 \u0434\u0435\u0432\u043e\u0447\u0435\u043a, \u043d\u043e \u043f\u043e\u0434\u0434\u0430\u0435\u0442\u0441\u044f \u043b\u0435\u0447\u0435\u043d\u0438\u044e \u0430\u043d\u0442\u0438\u0431\u0438\u043e\u0442\u0438\u043a\u0430\u043c\u0438.",
+      "url": "https://vfokuse.mail.ru/article/chto-izvestno-o-vspyshke-strannoy-bolezni-v-ugande-64122203/",
+      "urlToImage": "https://resizer.mail.ru/p/3e263a88-e804-59c0-9587-ade695859f6b/op:15/logo:bottom:vfokuse.png/AQAGo8xfht5y7TYgYG7XCOlfBwvAsLD6CViYLWLDenUZnBB10Z3guwsMAQULkReCQNg-hfXk_IX5uLIijtJ1LGaY6yk.jpg",
+      "publishedAt": "2024-12-18 08:01:48",
+      "content": "Business Insider Africa , \u00ab-\u00bb (Dinga Dinga, \u00ab, \u00bb) . . Al Jazeera . - . 592 , 6,2%. , , . (mpox). , , . , . , . Mpox , .",
+      "retrievedAt": "2024-12-19 19:05:38.095060",
+      "internal_id": "2f016d0cebc4a7fa4b91b0fdb92d5f49be87df9937dcaf50491348c710abe281",
+      "publishedAtLabel": "Dec 18"
+    },
+    {
+      "id": 16573,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "ZEIT ONLINE: News -",
+      "title": "Krankheiten: Epidemiologe: Schulschlie\u00dfung wegen Mpox in R\u00f6srath richtig",
+      "description": "Hier finden Sie Informationen zu dem Thema \u201eKrankheiten\u201c. Lesen Sie jetzt \u201eEpidemiologe: Schulschlie\u00dfung wegen Mpox in R\u00f6srath richtig\u201c.",
+      "url": "https://www.zeit.de/news/2024-12/18/epidemiologe-schulschliessung-wegen-mpox-in-roesrath-richtig",
+      "urlToImage": "https://img.zeit.de/news/2024-12/18/epidemiologe-schulschliessung-wegen-mpox-in-roesrath-richtig-image-group/wide__1300x731",
+      "publishedAt": "2024-12-18 07:19:46",
+      "content": "Der Epidemiologe Hajo Zeeb h\u00e4lt die Schulschlie\u00dfung im Rheinisch-Bergischen Kreis nach dem Nachweis des Mpox-Virus bei einer Familie f\u00fcr richtig. \u00abDas ist tats\u00e4chlich sehr vern\u00fcnftig, denke ich, hier\u2026 [+1864 chars]",
+      "retrievedAt": "2024-12-19 19:05:37.911307",
+      "internal_id": "c9806835dccebc72075507b05467b9813f65d1ce50b30565e2da60150c2b6720",
+      "publishedAtLabel": "Dec 18"
+    },
+    {
+      "id": 16574,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "Krankheiten: Epidemiologe: Schulschlie\u00dfung wegen Mpox in R\u00f6srath richtig",
+      "description": "Nach Mpox-F\u00e4llen bei einer Familie im Rheinisch-Bergischen Kreis ist eine F\u00f6rderschule vorsorglich geschlossen worden. Ein Experte h\u00e4lt das f\u00fcr vern\u00fcnftig. Zugleich sei der Fall anders als bei Corona.",
+      "url": "https://www.stern.de/gesellschaft/regional/nordrhein-westfalen/krankheiten--epidemiologe--schulschliessung-wegen-mpox-in-roesrath-richtig-35320060.html",
+      "urlToImage": "https://image.stern.de/35320062/t/1N/v1/w1440/r1.7778/-/18--nfotu3353gv1axs2048jpeg---ca23bf0c3a5a08b2.jpg",
+      "publishedAt": "2024-12-18 07:19:46",
+      "content": "Kopiere den aktuellen Link Nach Mpox-F\u00e4llen bei einer Familie im Rheinisch-Bergischen Kreis ist eine F\u00f6rderschule vorsorglich geschlossen worden. Ein Experte h\u00e4lt das f\u00fcr vern\u00fcnftig. Zugleich sei de\u2026 [+2054 chars]",
+      "retrievedAt": "2024-12-19 19:05:37.971653",
+      "internal_id": "257e2edf08875d7f9caed77c343a3db340741dae74d3f350d31413a18a2db913",
+      "publishedAtLabel": "Dec 18"
+    },
     {
       "id": 16520,
       "query": [
@@ -23487,132 +24333,6 @@
       "content": "El triple campe\u00f3n del mundo neerland\u00e9s Max Verstappen (Red Bull) dio un golpe de autoridad en su ad\u00e1n por ganar un cuarto t\u00edtulo seguido y reforz\u00f3 su liderato en el Mundial de F\u00f3rmula Uno al ganar de\u2026 [+9488 chars]",
       "retrievedAt": "2024-11-05 07:06:27.126213",
       "internal_id": "2ca6258c8c8c4e3bae727acd8d98f3acda50a4e4c509cae83cc73d789701af78",
-      "publishedAtLabel": "Nov 3"
-    },
-    {
-      "id": 15228,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Memeorandum.com",
-      "author": null,
-      "title": "Trump Thinks America Wants His Perversions (A.B. Stoddard/The Bulwark)",
-      "description": "A.B. Stoddard / The Bulwark: Trump Thinks America Wants His Perversions \u2014 Let's hope he is wrong. \u2014 MEASLES, MISINFORMATION, a \u201cvigorous spanking\u201d of misogyny\u2014whether women like it or not\u2014a violent nine-gun fantasy for political enemies, crudeness, petty \u2026",
-      "url": "https://www.memeorandum.com/241103/p22",
-      "urlToImage": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7beacf28-6b55-4b8a-8c4a-5019eaabf5a3_2439x1627.jpeg",
-      "publishedAt": "2024-11-03 15:45:00",
-      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
-      "retrievedAt": "2024-11-04 19:06:03.800086",
-      "internal_id": "48a14302ed577d62c426b6acc90cf0926c91407304620d568186b61dcddec5ff",
-      "publishedAtLabel": "Nov 3"
-    },
-    {
-      "id": 15226,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Just Jared",
-      "author": "Just Jared",
-      "title": "Social Media Star Peanut the Squirrel Euthanized by New York State, Owners Plan to Take Legal Action",
-      "description": "Peanut the Squirrel is making waves worldwide. The beloved social media star, with over 619,000 followers on Instagram and 100,000 followers on TikTok alone, was sadly euthanized by New York state wildlife officials as part of a test for rabies, via CBS News.\u2026",
-      "url": "https://www.justjared.com/2024/11/03/social-media-star-peanut-the-squirrel-euthanized-by-new-york-state-owners-plan-to-take-legal-action/",
-      "urlToImage": "https://cdn01.justjared.com/wp-content/uploads/headlines/2024/11/peanut-squirrel-dead-social.jpg",
-      "publishedAt": "2024-11-03 14:18:23",
-      "content": "Peanut the Squirrel is making waves worldwide. The beloved social media star, with over 619,000 followers on Instagram and 100,000 followers on TikTok alone, was sadly euthanized by New York state w\u2026 [+2459 chars]",
-      "retrievedAt": "2024-11-04 19:06:03.349995",
-      "internal_id": "9a8861ed7ebbc1519ee612a4d852bf9c444c0f4abb33908da3152e8f916d5c72",
-      "publishedAtLabel": "Nov 3"
-    },
-    {
-      "id": 15227,
-      "query": [
-        "rabies"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "ET Online",
-      "title": "Why Instagram-famous 'Peanut the Squirrel' was euthanised by NY officials? The controversy that caught US elections by storm",
-      "description": "Peanut, an Instagram-famous squirrel, was euthanized by New York authorities to test for rabies, sparking outrage and controversy. Owner Mark Longo claims his home was raided for hours, while Elon Musk criticized the government's actions on social media, ampl\u2026",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/why-instagram-famous-peanut-the-squirrel-was-euthanised-by-ny-officials-the-controversy-that-caught-us-elections-by-storm/articleshow/114913238.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-114913212,width-1200,height-630,imgsize-74122,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2024-11-03 12:38:37",
-      "content": "An Instagram-famed squirrel being euthanised has boiled down to a controversy, taking major attention in the weekend leading to US elections scheduled for Nov 5. Following the incident, the far-right\u2026 [+2561 chars]",
-      "retrievedAt": "2024-11-04 19:06:03.390479",
-      "internal_id": "c280846f493a6206fb055952c7e3a553fc0bd42119c544aad15f6f640a5c0675",
-      "publishedAtLabel": "Nov 3"
-    },
-    {
-      "id": 15230,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "ynet",
-      "source_name": "Ynet",
-      "author": "\u05e6\u05d5\u05e8 \u05d2\u05d5\u05d0\u05d8\u05d4",
-      "title": "\u05d7\u05d6\u05d9\u05e8 \u05e0\u05d3\u05d1\u05e7 \u05d1\u05e9\u05e4\u05e2\u05ea \u05d4\u05e2\u05d5\u05e4\u05d5\u05ea \u05d1\u05d0\u05e8\u05d4\"\u05d1: \"\u05d7\u05e9\u05e9 \u05de\u05d5\u05d5\u05d9\u05e8\u05d5\u05e1 \u05d7\u05d3\u05e9 \u05d5\u05d0\u05dc\u05d9\u05dd \u05e9\u05d9\u05d3\u05d1\u05d9\u05e7 \u05d1\u05e0\u05d9 \u05d0\u05d3\u05dd\"",
-      "description": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d7\u05e7\u05dc\u05d0\u05d5\u05ea \u05d4\u05d0\u05de\u05e8\u05d9\u05e7\u05e0\u05d9 \u05d3\u05d9\u05d5\u05d5\u05d7 \u05d1\u05d0\u05d7\u05e8\u05d5\u05e0\u05d4 \u05e2\u05dc \u05de\u05e7\u05e8\u05d4 \u05e8\u05d0\u05e9\u05d5\u05df \u05e9\u05dc \u05e9\u05e4\u05e2\u05ea \u05d4\u05e2\u05d5\u05e4\u05d5\u05ea \u05de\u05d6\u05df H5N1 \u05d1\u05d7\u05d6\u05d9\u05e8\u05d9\u05dd. \u05d4\u05d7\u05d5\u05d5\u05d4 \u05d1\u05d0\u05d5\u05e8\u05d2\u05d5\u05df \u05e9\u05d1\u05d4 \u05d4\u05ea\u05d2\u05dc\u05ea\u05d4 \u05d4\u05d4\u05d3\u05d1\u05e7\u05d4 \u05d4\u05d5\u05db\u05e0\u05e1\u05d4 \u05dc\u05d4\u05e1\u05d2\u05e8, \u05d5\u05e0\u05d1\u05d3\u05e7\u05ea \u05d4\u05d0\u05e4\u05e9\u05e8\u05d5\u05ea \u05dc\u05d4\u05e2\u05d1\u05e8\u05d4 \u05e9\u05dc \u05d4\u05e0\u05d2\u05d9\u05e3 \u05de\u05e2\u05d5\u05e4\u05d5\u05ea \u05dc\u05d9\u05d5\u05e0\u05e7\u05d9\u05dd. \u05e4\u05e8\u05d5\u05e4' \u05d9\u05e9\u05e8\u05d0\u05dc \u05e4\u05d5\u05d8\u05e1\u05de\u05df, \u05de\u05d5\u05de\u05d7\u05d4 \u05dc\u05de\u05d7\u05dc\u05d5\u05ea \u05d6\u05d9\u05d4\u05d5\u05de\u05d9\u05d5\u05ea \u05d1\u05de\u05db\u05d1\u05d9: \"\u05d7\u05d6\u05d9\u05e8\u05d9\u05dd \u05d3\u05d5\u05de\u05d9\u05dd \u05dc\u05d1\u05e0\u05d9 \u05d0\u05d3\u05dd \u05d1\u05d2\u05e0\u05d8\u05d9\u05e7\u05d4 \u05e9\u05dc\u05d4\u2026",
-      "url": "https://www.ynet.co.il/health/article/byho112vbkl",
-      "urlToImage": "https://ynet-pic1.yit.co.il/picserver5/crop_images/2024/11/03/By111e6NWJl/By111e6NWJl_0_59_1000_563_0_large.jpg",
-      "publishedAt": "2024-11-03 12:36:58",
-      "content": ", \"\" - . . H1N1 -2009 , . ' , , : \" , , . , , -. - \". \" , , , : \" , , () . , , , . \". ' \" . \" , , \". : \" . , \". . \" , , , . \" '' , . \", .",
-      "retrievedAt": "2024-11-04 19:06:04.715626",
-      "internal_id": "da5eb6f3b6e1d7b28854ff56526c6fe03880a6b195d33071c9e3c4abecc9d5a8",
-      "publishedAtLabel": "Nov 3"
-    },
-    {
-      "id": 15232,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "VOA News",
-      "author": "webdesk@voanews.com (Associated Press)",
-      "title": "Mpox cases in Congo may be stabilizing, but more vaccines needed to stamp out virus",
-      "description": "Goma, Congo \u2014 Some health officials say mpox cases in Congo appear to be \u201cstabilizing\u201d \u2014 a possible sign that the main epidemic for which the World Health Organization made a global emergency declaration in August might be on the decline. In recent weeks,\u2026",
-      "url": "https://www.voanews.com/a/mpox-cases-in-congo-may-be-stabilizing-but-more-vaccines-needed-to-stamp-out-virus-/7849399.html",
-      "urlToImage": "https://gdb.voanews.com/38E367F4-5A38-40E6-8148-15ADC0E2527D.jpg",
-      "publishedAt": "2024-11-03 12:21:25",
-      "content": "Goma, Congo Some health officials say mpox cases in Congo appear to be stabilizing a possible sign that the main epidemic for which the World Health Organization made a global emergency declaration \u2026 [+4734 chars]",
-      "retrievedAt": "2024-11-04 19:06:06.577063",
-      "internal_id": "5088c984af91dc35899b1ae0f4fd2795c97d4e1b73e817925d6683620bfdcd0b",
-      "publishedAtLabel": "Nov 3"
-    },
-    {
-      "id": 15231,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "Suman Chakraborti",
-      "title": "Kolkata reports second dengue death in Bidhannagar amid declining cases",
-      "description": "Shibani Das, 69, from Gopalpur Sarat Pally in Bidhannagar, died of dengue on Saturday. This is the second dengue death in the area this year. Kolkata has recorded lower dengue cases this year compared to previous years, with precautionary measures in place. O\u2026",
-      "url": "https://timesofindia.indiatimes.com/city/kolkata/kolkata-reports-second-dengue-death-in-bidhannagar-area-amid-declining-cases/articleshow/114910748.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-114910667,width-1070,height-580,imgsize-32062,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-11-03 10:18:16",
-      "content": "9 animals that live in rainforests",
-      "retrievedAt": "2024-11-04 19:06:05.095710",
-      "internal_id": "740c1ce1211164e71f7d8b5c5fe40b97b04759d42431bc0acd37f59e13305bb6",
-      "publishedAtLabel": "Nov 3"
-    },
-    {
-      "id": 15229,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Faz.net",
-      "author": "Pia Heinemann",
-      "title": "\u201eDer Mensch ist bislang kein guter Wirt\u201c",
-      "description": "Ein Schwein in den USA ist positiv auf das weltweit grassierende Vogelgrippevirus getestet worden. Warum das absehbar war \u2013 und was es bedeutet.",
-      "url": "https://www.faz.net/aktuell/wissen/leben-gene/vogelgrippe-was-der-uebersprung-aufs-schwein-bedeutet-110083432.html",
-      "urlToImage": "https://media0.faz.net/ppmedia/aktuell/110701573/1.10085608/facebook_teaser_fplus/drei-h5n1-partikel-in-einer.jpg",
-      "publishedAt": "2024-11-03 07:09:20",
-      "content": "Um das Vogelgrippevirus H5N1 kehr keine Ruhe ein. Zuletzt wurde es bei einem Schwein auf einem kleinen Hof in Oregon gefunden. Dort waren G\u00e4nse, H\u00fchner, Schafe, Ziegen und Schweine gehalten worden. A\u2026 [+333 chars]",
-      "retrievedAt": "2024-11-04 19:06:04.553350",
-      "internal_id": "f2c071b0e101c3cee4423bd66447e61c55910efc125983d549ca156dff89672d",
       "publishedAtLabel": "Nov 3"
     }
   ]
