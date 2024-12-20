@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 36
-- **Last harvest:** 2024-12-20 07:06
-- **Most recent article:** 2024-12-19 07:00:00
+- **New articles in last harvest:** 30
+- **Last harvest:** 2024-12-20 19:06
+- **Most recent article:** 2024-12-19 18:39:55
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-45 | 24-46 | 24-47 | 24-48 | 24-49 | 24-50 | 24-51 | Total |
 |--|-|-|-|-|-|-|-|-|
-| h5n1 | 36 | 40 | 50 | 38 | 70 | 61 | 60 | 355 |
-| mpox | 61 | 62 | 76 | 26 | 20 | 26 | 76 | 347 |
-| malaria | 26 | 33 | 27 | 29 | 27 | 76 | 33 | 251 |
-| dengue | 31 | 36 | 28 | 25 | 10 | 33 | 26 | 189 |
-| measles | 3 | 33 | 11 | 6 | 9 | 10 | 3 | 75 |
-| rabies | 5 | 11 | 7 | 12 | 13 | 3 | 6 | 57 |
-| chikungunya | 2 | 3 | 5 | 4 | 6 | 7 | 6 | 33 |
+| h5n1 | 34 | 40 | 50 | 38 | 70 | 61 | 76 | 369 |
+| mpox | 60 | 62 | 76 | 26 | 20 | 26 | 77 | 347 |
+| malaria | 26 | 33 | 27 | 29 | 27 | 76 | 42 | 260 |
+| dengue | 30 | 36 | 28 | 25 | 10 | 33 | 28 | 190 |
+| measles | 2 | 33 | 11 | 6 | 9 | 10 | 3 | 74 |
+| rabies | 3 | 11 | 7 | 12 | 13 | 3 | 6 | 55 |
+| chikungunya | 2 | 3 | 5 | 4 | 6 | 7 | 8 | 35 |
 | pertussis | 3 | 8 | 5 | 1 | 4 | 6 | 3 | 30 |
 | zika | 9 | 4 | 3 | 1 | 4 | 4 | 3 | 28 |
 | meningitis | 4 | 2 | 5 | 3 | 3 | 7 | 3 | 27 |
-| hpai | 4 | 4 | 4 | 0 | 2 | 4 | 4 | 22 |
+| hpai | 4 | 4 | 4 | 0 | 2 | 4 | 5 | 23 |
 | leptospirosis | 10 | 3 | 0 | 2 | 0 | 3 | 0 | 18 |
 | typhoid | 1 | 1 | 3 | 1 | 0 | 1 | 0 | 7 |
 | yersinia | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 2 |
@@ -64,6 +64,8 @@ Source: [News API](https://newsapi.org/)
 - [Keuchhusten mit hohen Fallzahlen](https://tirol.orf.at/stories/3285693/) (Tirol.orf.at)
 
 ## 24-51 (mpox)
+
+- [En Afrique, à quand la santé pour tous et partout ?](https://www.lemonde.fr/afrique/article/2024/12/19/en-afrique-a-quand-la-sante-pour-tous-et-partout_6457297_3212.html) (Le Monde)
 
 - [Ansteckende Virusinfektion - Schule bei Köln schließt wegen Mpox – was Sie jetzt wissen müssen](https://www.focus.de/gesundheit/news/schulschliessung-wegen-schule-bei-koeln-schliesst-wegen-mpox-wie-sich-das-virus-verbreitet_id_260569419.html) (Focus)
 
@@ -235,6 +237,24 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-51 (malaria)
 
+- [Mayoría de infectados por la enfermedad misteriosa del Congo dan positivo en malaria](https://forbes.com.mx/mayoria-de-infectados-por-la-enfermedad-misteriosa-del-congo-dan-positivo-en-malaria/) (Forbes.com.mx)
+
+- [Mystery illness in Congo could be severe malaria, health officials say](https://www.nbcnews.com/health/health-news/congo-disease-outbreak-severe-malaria-rcna183299) (NBC News)
+
+- [Congo: mayoría de infectados por “enfermedad misteriosa” dan positivo en malaria](https://www.montevideo.com.uy/Salud/Congo-mayoria-de-infectados-por-enfermedad-misteriosa-dan-positivo-en-malaria-uc909973) (Montevideo.com.uy)
+
+- [“Onbekende ziekte” in Congo is waarschijnlijk malaria](https://www.hbvl.be/cnt/dmf20241219_96165486) (Hbvl.be)
+
+- [“Onbekende ziekte” in Congo is waarschijnlijk malaria](https://www.gva.be/cnt/dmf20241219_96083077) (Www.gva.be)
+
+- [“Onbekende ziekte” in Congo is waarschijnlijk malaria](https://www.nieuwsblad.be/cnt/dmf20241219_96001797) (Nieuwsblad.be)
+
+- [Africa CDC Update: Diagnosis Of Disease X In DRC Leaning Toward Malaria](https://www.forbes.com/sites/davewessner/2024/12/19/africa-cdc-update-diagnosis-of-disease-x-in-drc-leaning-toward-malaria/) (Forbes)
+
+- [Health-Related Quality of Life due to malaria in the Brazilian Amazon using EQ-5D-3L](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012739) (Plos.org)
+
+- [Undiagnosed disease in Congo may be linked to malaria, Africa CDC says](https://abcnews.go.com/Health/undiagnosed-disease-congo-linked-malaria-africa-cdc/story?id=116939557) (ABC News)
+
 - ['Disease X' In Congo Revealed To Be Malaria, Authorities Issue Warning](https://www.ndtv.com/world-news/disease-x-in-congo-revealed-to-be-malaria-authorities-issue-urgent-warning-7283556) (NDTV News)
 
 - [Discovery provides hope in fighting drug-resistant malaria](https://www.sciencedaily.com/releases/2024/12/241218174837.htm) (Science Daily)
@@ -303,6 +323,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-51 (hpai)
 
+- [Statutory guidance: Bird flu: licence to move and spread used poultry litter, manure and slurry in a protection or surveillance zone](https://www.gov.uk/government/publications/bird-flu-licence-to-move-and-spread-used-poultry-litter-manure-and-slurry-in-a-protection-or-surveillance-zone) (Www.gov.uk)
+
 - [Bird flu identified in Kenosha County poultry flock](https://www.wisn.com/article/kenosha-county-bird-flu-identified-poultry-flock/63229134) (WISN Milwaukee)
 
 - [Surveillance Strategy in Duck Flocks Vaccinated against Highly Pathogenic Avian Influenza Virus](https://wwwnc.cdc.gov/eid/article/31/1/24-1140_article) (Cdc.gov)
@@ -312,6 +334,38 @@ Source: [News API](https://newsapi.org/)
 - [Helport AI to Participate in Fireside Chat with Alliance Global Partners on December 17, 2024](https://www.globenewswire.com/news-release/2024/12/16/2997534/0/en/Helport-AI-to-Participate-in-Fireside-Chat-with-Alliance-Global-Partners-on-December-17-2024.html) (GlobeNewswire)
 
 ## 24-51 (h5n1)
+
+- [What Is Bird Flu? Symptoms & Treatment Amid the H5N1 California Outbreak](https://hollywoodlife.com/feature/what-is-bird-flu-symptoms-5355549/) (Hollywood Life)
+
+- [California declares bird flu emergency](https://theweek.com/health/california-bird-flu-emergency) (The Week Magazine)
+
+- [California declares emergency after severe U.S. case of H5N1 bird flu](https://www.cbsnews.com/video/california-declares-emergency-after-severe-u-s-case-of-h5n1-bird-flu/) (CBS News)
+
+- [Why has California declared a state of emergency over bird flu?](https://www.aljazeera.com/news/2024/12/19/why-has-california-declared-a-state-of-emergency-over-bird-flu) (Al Jazeera English)
+
+- [California'da kuş gribi alarmı!](https://www.haberturk.com/california-da-artan-kus-gribi-vakalari-nedeniyle-acil-durum-ilan-edildi-haberler-3748289) (Haberturk.com)
+
+- [California declara el estado de emergencia para contrarrestar los contagios de la gripe aviar](https://www.lavozdegalicia.es/noticia/somosagro/ganaderia/2024/12/19/california-declara-estado-emergencia-contrarrestar-atender-contagios-gripe-aviar/00031734602155516251126.htm) (Lavozdegalicia.es)
+
+- [California declara el estado de emergencia tras un caso grave de gripe aviar en EEUU](https://www.expansion.com/directivos/estilo-vida/salud/2024/12/19/6763fb7be5fdea39448b4596.html) (Expansion.com)
+
+- [أول إصابة خطيرة بأنفلونزا الطيور في أمريكا.. أين شُخّصت؟](https://arabic.cnn.com/science-and-health/article/2024/12/19/severe-bird-flu-louisiana-first-us-case) (CNN)
+
+- [U.S. confirms first human bird flu severe case](https://www.globalsecurity.org/security/library/news/2024/12/sec-241219-pdo01.htm) (Globalsecurity.org)
+
+- [Bird flu spillover to other species poses global health threat, experts warn](https://www.globalsecurity.org/security/library/news/2024/12/sec-241218-voa01.htm) (Globalsecurity.org)
+
+- [Kalifornien erklärt Vogelgrippe-Notlage - Hunderte Kuhherden betroffen](https://www.tagesschau.de/ausland/amerika/vogelgrippe-kuehe-usa-100.html) (tagesschau.de)
+
+- [¿Pandemia? ¿Y el presupuesto?](https://www.excelsior.com.mx/opinion/yuriria-sierra/pandemia-y-el-presupuesto/1690475) (Excelsior.com.mx)
+
+- [В США зафиксировали первый случай тяжелой формы птичьего гриппа](https://www.ferra.ru/news/health/v-ssha-zafiksirovali-pervyi-sluchai-tyazheloi-formy-ptichego-grippa-18-12-2024.htm) (Ferra.ru)
+
+- [What to Know About Bird Flu in the U.S. After CDC Announces First ‘Severe’ Human Case](https://time.com/7203290/bird-flu-united-states-severe-case-h5n1-explainer/) (Time)
+
+- [ABD'nin California eyaletinde artan kuş gribi vakaları nedeniyle "acil durum" ilan edildi](https://www.aa.com.tr/tr/saglik/abdnin-california-eyaletinde-artan-kus-gribi-vakalari-nedeniyle-acil-durum-ilan-edildi/3428409) (Anadolu Agency)
+
+- [Онищенко заявил о единичных случаях заражения вирусом гриппа птиц H5N1 в РФ](https://tass.ru/obschestvo/22712931) (Tass.ru)
 
 - [美國人類感染 H5N1 禽流感增至 61 例，首度出現重症](https://technews.tw/2024/12/19/human-infection-with-h5n1-appears-severe-for-the-first-time/) (Technews.tw)
 
@@ -435,6 +489,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-51 (dengue)
 
+- [Genetic diversity of dengue virus circulating in the Philippines (2014–2019) and comparison with dengue vaccine strains](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012697) (Plos.org)
+
+- [Crean vacuna contra alfavirus; desarrollada por el IPN](https://www.excelsior.com.mx/nacional/crean-vacuna-contra-alfavirus-ipn/1690487) (Excelsior.com.mx)
+
 - [Cloro: 250 anos de transformação e progresso](https://observador.pt/opiniao/cloro-250-anos-de-transformacao-e-progresso/) (Observador.pt)
 
 - [Dengue Infections Soar Globally While Prevention And Treatment Options Fade](https://www.forbes.com/sites/stephenthomas/2024/12/18/dengue-infections-soar-globally-while-prevention-and-treatment-options-fade/) (Forbes)
@@ -488,6 +546,10 @@ Source: [News API](https://newsapi.org/)
 - [OMS: enfrenta América la mayor epidemia de dengue en 44 años](https://www.jornada.com.mx/2024/12/15/politica/009n1pol) (Jornada.com.mx)
 
 ## 24-51 (chikungunya)
+
+- [Crean vacuna contra alfavirus; desarrollada por el IPN](https://www.excelsior.com.mx/nacional/crean-vacuna-contra-alfavirus-ipn/1690487) (Excelsior.com.mx)
+
+- [Desarrollan vacuna contra virus relacionado a chikungunya](https://www.jornada.com.mx/2024/12/19/politica/012n2pol) (Jornada.com.mx)
 
 - [Valneva accroît l’accessibilité de son vaccin contre le chikungunya en Asie grâce à une collaboration avec le Serum Institute of India](https://www.globenewswire.com/news-release/2024/12/19/2999537/0/fr/Valneva-accro%C3%AEt-l-accessibilit%C3%A9-de-son-vaccin-contre-le-chikungunya-en-Asie-gr%C3%A2ce-%C3%A0-une-collaboration-avec-le-Serum-Institute-of-India.html) (GlobeNewswire)
 
@@ -2709,10 +2771,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Expert Says Unlikely Peanut Had Rabies, Officials Might Have Been Impulsive](https://www.tmz.com/2024/11/05/peanut-squirrel-unlikely-had-rabies-expert/) (TMZ)
 
-- [Social Media Star Peanut the Squirrel Euthanized by New York State, Owners Plan to Take Legal Action](https://www.justjared.com/2024/11/03/social-media-star-peanut-the-squirrel-euthanized-by-new-york-state-owners-plan-to-take-legal-action/) (Just Jared)
-
-- [Why Instagram-famous 'Peanut the Squirrel' was euthanised by NY officials? The controversy that caught US elections by storm](https://economictimes.indiatimes.com/news/international/global-trends/why-instagram-famous-peanut-the-squirrel-was-euthanised-by-ny-officials-the-controversy-that-caught-us-elections-by-storm/articleshow/114913238.cms) (The Times of India)
-
 ## 24-45 (pertussis)
 
 - [Whooping cough found at NMU](https://www.wnmufm.org/health/2024-11-05/whooping-cough-found-at-nmu) (Wnmufm.org)
@@ -2843,8 +2901,6 @@ Source: [News API](https://newsapi.org/)
 
 - [More cases of new mpox strain detected in UK](https://news.sky.com/story/mpox-more-cases-of-new-clade-1b-strain-detected-in-uk-13248258) (Sky.com)
 
-- [Mpox cases in Congo may be stabilizing, but more vaccines needed to stamp out virus](https://www.voanews.com/a/mpox-cases-in-congo-may-be-stabilizing-but-more-vaccines-needed-to-stamp-out-virus-/7849399.html) (VOA News)
-
 ## 24-45 (meningitis)
 
 - [Signs of deadly infection passed through sharing straws following the death of 19-year-old after music festival](https://www.ladbible.com/news/health/meningitis-b-signs-deadly-infection-710455-20241107) (LADbible)
@@ -2860,8 +2916,6 @@ Source: [News API](https://newsapi.org/)
 - [Number of confirmed measles cases in New Brunswick rises to 25](https://www.cbc.ca/news/canada/new-brunswick/nov-9-measles-update-1.7379486) (CBC News)
 
 - [Trump May End Water Fluoridation On Day One, Will Consider Banning Vaccines](https://www.wonkette.com/p/trump-may-end-water-fluoridation) (Wonkette.com)
-
-- [Trump Thinks America Wants His Perversions (A.B. Stoddard/The Bulwark)](https://www.memeorandum.com/241103/p22) (Memeorandum.com)
 
 ## 24-45 (malaria)
 
@@ -3019,10 +3073,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Highly Pathogenic Avian Influenza A(H5N1) Virus Infection in Cats, South Korea, 2023](https://wwwnc.cdc.gov/eid/article/30/12/24-0154_article) (Cdc.gov)
 
-- [חזיר נדבק בשפעת העופות בארה"ב: "חשש מווירוס חדש ואלים שידביק בני אדם"](https://www.ynet.co.il/health/article/byho112vbkl) (Ynet)
-
-- [„Der Mensch ist bislang kein guter Wirt“](https://www.faz.net/aktuell/wissen/leben-gene/vogelgrippe-was-der-uebersprung-aufs-schwein-bedeutet-110083432.html) (Faz.net)
-
 ## 24-45 (dengue)
 
 - [Lei que prevê contratação de 800 agentes de saúde é publicada no DODF](https://www.metropoles.com/distrito-federal/lei-que-preve-contratacao-de-800-agentes-de-saude-e-publicada-no-dodf) (Metropoles.com)
@@ -3084,8 +3134,6 @@ Source: [News API](https://newsapi.org/)
 - [Baguio: Karaniwang mga sakit, dapat hindi dapat ipagwalang bahala – Dr. Brillantes](https://rpnradio.com/baguio-karaniwang-mga-sakit-dapat-hindi-dapat-ipagwalang-bahala-dr-brillantes/) (Rpnradio.com)
 
 - [Mosquito da dengue pica por cima da roupa? Veja a opinião de especialistas](https://catracalivre.com.br/saude-bem-estar/mosquito-da-dengue-pica-roupa/) (Catracalivre.com.br)
-
-- [Kolkata reports second dengue death in Bidhannagar amid declining cases](https://timesofindia.indiatimes.com/city/kolkata/kolkata-reports-second-dengue-death-in-bidhannagar-area-amid-declining-cases/articleshow/114910748.cms) (The Times of India)
 
 ## 24-45 (chikungunya)
 

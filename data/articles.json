@@ -1,8 +1,549 @@
 {
-  "last_updated": "2024-12-20 07:06",
-  "count_articles_total": 1392,
-  "count_articles_new": 36,
+  "last_updated": "2024-12-20 19:06",
+  "count_articles_total": 1415,
+  "count_articles_new": 30,
   "articles": [
+    {
+      "id": 16639,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Forbes.com.mx",
+      "author": "Forbes Staff",
+      "title": "Mayor\u00eda de infectados por la enfermedad misteriosa del Congo dan positivo en malaria",
+      "description": "Forbes M\u00e9xico. Mayor\u00eda de infectados por la enfermedad misteriosa del Congo dan positivo en malaria De 29 pruebas PCR para malaria, 25 fueron positivas, es decir, el 86.2% de los casos, mientras que de 88 tests de diagn\u00f3stico r\u00e1pido, 55 resultaron positivos\u2026",
+      "url": "https://forbes.com.mx/mayoria-de-infectados-por-la-enfermedad-misteriosa-del-congo-dan-positivo-en-malaria/",
+      "urlToImage": "https://cdn.forbes.com.mx/2024/12/congo.webp",
+      "publishedAt": "2024-12-19 18:39:55",
+      "content": "M\u00e1s de dos tercios de los pacientes de la misteriosa enfermedad de la Rep\u00fablica Democr\u00e1tica del Congo (RDC) que fueron testados de malaria dieron positivo en la prueba, inform\u00f3 este jueves la agencia\u2026 [+3158 chars]",
+      "retrievedAt": "2024-12-20 19:05:57.222353",
+      "internal_id": "b3123c88c58d4252ed603d59c1d72c77bf7a31d6fc210354087b6e6876ee996c",
+      "publishedAtLabel": "Dec 19"
+    },
+    {
+      "id": 16644,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "nbc-news",
+      "source_name": "NBC News",
+      "author": "Aria Bendix , Marina Kopf",
+      "title": "Mystery illness in Congo could be severe malaria, health officials say",
+      "description": "Severe malaria is the likely cause of dozens of unexplained deaths and nearly 600 illnesses in the Democratic Republic of Congo, health officials believe.",
+      "url": "https://www.nbcnews.com/health/health-news/congo-disease-outbreak-severe-malaria-rcna183299",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-12/241217-Anopheles-stephensi-mosquito-al-1327-5c5b1c.jpg",
+      "publishedAt": "2024-12-19 17:55:54",
+      "content": "Health officials are narrowing in on the cause of dozens of unexplained deaths in the Democratic Republic of Congo. The Africa Centers for Disease Control and Prevention said Thursday that a severe f\u2026 [+4621 chars]",
+      "retrievedAt": "2024-12-20 19:05:57.294500",
+      "internal_id": "19789626995af6ad15d358db6023b73463d78aeda1600f4af02d73aa6098f7aa",
+      "publishedAtLabel": "Dec 19"
+    },
+    {
+      "id": 16631,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Hollywood Life",
+      "author": "Elisabeth McGowan",
+      "title": "What Is Bird Flu? Symptoms & Treatment Amid the H5N1 California Outbreak",
+      "description": "California Governor Gavin Newsom has issued a state of emergency in response to a bird flu outbreak.",
+      "url": "https://hollywoodlife.com/feature/what-is-bird-flu-symptoms-5355549/",
+      "urlToImage": "https://hollywoodlife.com/wp-content/uploads/2024/12/GettyImages-512423538_d9779d-e1734626634680.jpeg?fit=4900%2C2768",
+      "publishedAt": "2024-12-19 17:38:29",
+      "content": "Image Credit: Getty Images California is in a state of emergency due to a recent bird flu outbreak. As residents grapple with the news, many are learning more about the virus how to look for signs a\u2026 [+2247 chars]",
+      "retrievedAt": "2024-12-20 19:05:55.841087",
+      "internal_id": "955b8a81c726dea1166e67e95e5d3bab7891599b4257caaa13206b29e8ed6fe1",
+      "publishedAtLabel": "Dec 19"
+    },
+    {
+      "id": 16643,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "Congo: mayor\u00eda de infectados por \u201cenfermedad misteriosa\u201d dan positivo en malaria",
+      "description": "La OMS apunta a una posible conexi\u00f3n entre malaria y la desnutrici\u00f3n.",
+      "url": "https://www.montevideo.com.uy/Salud/Congo-mayoria-de-infectados-por-enfermedad-misteriosa-dan-positivo-en-malaria-uc909973",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/201606/_W933_80/569220.png",
+      "publishedAt": "2024-12-19 17:17:00",
+      "content": "M\u00e1s de dos tercios de los pacientes de la misteriosa enfermedad de la Rep\u00fablica Democr\u00e1tica del Congo (RDC) que fueron testados de malaria dieron positivo en la prueba, inform\u00f3 este jueves la agenc\u2026 [+3022 chars]",
+      "retrievedAt": "2024-12-20 19:05:57.287590",
+      "internal_id": "14a65e2c0aba3d818e4a9448a9061a84072e5f0740c283c6ce1a1b8eaa853927",
+      "publishedAtLabel": "Dec 19"
+    },
+    {
+      "id": 16640,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Hbvl.be",
+      "author": "gjs",
+      "title": "\u201cOnbekende ziekte\u201d in Congo is waarschijnlijk malaria",
+      "description": "De mysterieuze ziekte die honderden mensen in Congo trof en aan 37 mensen het leven heeft gekost, is waarschijnlijk malaria verergerd door de kwetsbaarheid van de bevolking. Dat zegt het Afrikaanse CDC, het African Centre for Disease Control.",
+      "url": "https://www.hbvl.be/cnt/dmf20241219_96165486",
+      "urlToImage": "https://static.hbvl.be/Assets/Images_Upload/2024/12/19/53a2c99f-679e-4bd9-9b41-de17986279e8.jpg?maxheight=460&maxwidth=629",
+      "publishedAt": "2024-12-19 17:07:18",
+      "content": "De mysterieuze ziekte die honderden mensen in Congo trof en aan 37 mensen het leven heeft gekost, is waarschijnlijk malaria verergerd door de kwetsbaarheid van de bevolking. Dat zegt het Afrikaanse C\u2026 [+1243 chars]",
+      "retrievedAt": "2024-12-20 19:05:57.240599",
+      "internal_id": "0d8641ee0b9f44bc39501fc92378d6318aa990fa061a15122731823b00c43b66",
+      "publishedAtLabel": "Dec 19"
+    },
+    {
+      "id": 16642,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Www.gva.be",
+      "author": "gjs",
+      "title": "\u201cOnbekende ziekte\u201d in Congo is waarschijnlijk malaria",
+      "description": "De mysterieuze ziekte die honderden mensen in Congo trof en aan 37 mensen het leven heeft gekost, is waarschijnlijk malaria verergerd door de kwetsbaarheid van de bevolking. Dat zegt het Afrikaanse CDC, het African Centre for Disease Control.",
+      "url": "https://www.gva.be/cnt/dmf20241219_96083077",
+      "urlToImage": "https://static.gva.be/Assets/Images_Upload/2024/12/19/53a2c99f-679e-4bd9-9b41-de17986279e8.jpg?maxheight=460&maxwidth=629",
+      "publishedAt": "2024-12-19 16:50:33",
+      "content": "De mysterieuze ziekte die honderden mensen in Congo trof en aan 37 mensen het leven heeft gekost, is waarschijnlijk malaria verergerd door de kwetsbaarheid van de bevolking. Dat zegt het Afrikaanse C\u2026 [+1243 chars]",
+      "retrievedAt": "2024-12-20 19:05:57.253835",
+      "internal_id": "4a50f80e56bb096f246dff2f19387b7f4b92a1ebe6cd699aae8919efa4137263",
+      "publishedAtLabel": "Dec 19"
+    },
+    {
+      "id": 16641,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Nieuwsblad.be",
+      "author": "gjs",
+      "title": "\u201cOnbekende ziekte\u201d in Congo is waarschijnlijk malaria",
+      "description": "De mysterieuze ziekte die honderden mensen in Congo trof en aan 37 mensen het leven heeft gekost, is waarschijnlijk malaria verergerd door de kwetsbaarheid van de bevolking. Dat zegt het Afrikaanse CDC, het African Centre for Disease Control.",
+      "url": "https://www.nieuwsblad.be/cnt/dmf20241219_96001797",
+      "urlToImage": "https://static.nieuwsblad.be/Assets/Images_Upload/2024/12/19/53a2c99f-679e-4bd9-9b41-de17986279e8.jpg?maxheight=460&maxwidth=638",
+      "publishedAt": "2024-12-19 16:38:13",
+      "content": "De mysterieuze ziekte die honderden mensen in Congo trof en aan 37 mensen het leven heeft gekost, is waarschijnlijk malaria verergerd door de kwetsbaarheid van de bevolking. Dat zegt het Afrikaanse C\u2026 [+1243 chars]",
+      "retrievedAt": "2024-12-20 19:05:57.247100",
+      "internal_id": "bc5e973f3f9a1462bf9d65e28645e10f46405d72cffaeeaa896936e86543c0b3",
+      "publishedAtLabel": "Dec 19"
+    },
+    {
+      "id": 16625,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "The Week Magazine",
+      "author": "theweek@futurenet.com (Rafi Schwartz, The Week US)",
+      "title": "California declares bird flu emergency",
+      "description": "The emergency came hours after the nation's first person with severe bird flu infection was hospitalized",
+      "url": "https://theweek.com/health/california-bird-flu-emergency",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/jWaXxiVjcXTijGThxQMnTE-1200-80.jpg",
+      "publishedAt": "2024-12-19 16:21:29",
+      "content": "What happened California Gov. Gavin Newsom (D) declared a state of emergency Wednesday as a rash of H5N1 avian flu outbreaks at Central Valley dairies spread to Southern California. Hours earlier, f\u2026 [+1679 chars]",
+      "retrievedAt": "2024-12-20 19:05:55.726987",
+      "internal_id": "67bc5d81a23f106a48857076f8d816558b07cf72547d53cee0a314dea953d383",
+      "publishedAtLabel": "Dec 19"
+    },
+    {
+      "id": 16618,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": "Department for Environment, Food & Rural Affairs",
+      "title": "Statutory guidance: Bird flu: licence to move and spread used poultry litter, manure and slurry in a protection or surveillance zone",
+      "description": "General licence to move from premises and spread poultry litter, manure and slurry in a protection or surveillance zone in England. (EXD353(HPAI)(E))",
+      "url": "https://www.gov.uk/government/publications/bird-flu-licence-to-move-and-spread-used-poultry-litter-manure-and-slurry-in-a-protection-or-surveillance-zone",
+      "urlToImage": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png",
+      "publishedAt": "2024-12-19 16:04:09",
+      "content": "We use some essential cookies to make this website work. Wed like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services. We also use coo\u2026 [+70 chars]",
+      "retrievedAt": "2024-12-20 19:05:55.384319",
+      "internal_id": "aa4e6c5577bf0a654d0565045f78b22bdc9dca4a1d3bc9060d9e1921c4d2d1e9",
+      "publishedAtLabel": "Dec 19"
+    },
+    {
+      "id": 16623,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "CBS News",
+      "title": "California declares emergency after severe U.S. case of H5N1 bird flu",
+      "description": "A Louisiana patient is critically ill with severe respiratory symptoms from H5N1 bird flu, marking the 61st U.S. human case this year. California has declared a state of emergency. CBS News medical contributor Dr. Celine Gounder explains the public health ris\u2026",
+      "url": "https://www.cbsnews.com/video/california-declares-emergency-after-severe-u-s-case-of-h5n1-bird-flu/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/12/19/00457ca8-0f48-4ada-88a5-3e71199b33cf/thumbnail/1200x630/ac77c0277fb6a79d481cf134b997968c/1219-cmo-birdflu.jpg?v=fa9977353833f46f40b07abcd9d5240b",
+      "publishedAt": "2024-12-19 15:45:02",
+      "content": "Watch CBS News Copyright \u00a92024 CBS Interactive Inc. All rights reserved. Get browser notifications for breaking news, live events, and exclusive reporting. Not NowTurn On",
+      "retrievedAt": "2024-12-20 19:05:55.703141",
+      "internal_id": "211f7627f599ff52360b402f8e35779bd912e09444cbad34308a46c0afb8c7b0",
+      "publishedAtLabel": "Dec 19"
+    },
+    {
+      "id": 16638,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Dave Wessner, Contributor, \n Dave Wessner, Contributor\n https://www.forbes.com/sites/coronavirusfrontlines/people/davewessner/",
+      "title": "Africa CDC Update: Diagnosis Of Disease X In DRC Leaning Toward Malaria",
+      "description": "Researchers continue to investigate the so-called Disease X in the DRC. Officials from the Africa CDC noted that the diagnosis is leaning toward malaria.",
+      "url": "https://www.forbes.com/sites/davewessner/2024/12/19/africa-cdc-update-diagnosis-of-disease-x-in-drc-leaning-toward-malaria/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/676438841b8605d91fe2791d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-12-19 15:27:33",
+      "content": "Current results suggest that malaria contributes to so-called Disease X in the DRC. The potential ... [+] impact of other factors remains to be determined. Image courtesy Centers for Disease Control \u2026 [+3616 chars]",
+      "retrievedAt": "2024-12-20 19:05:57.113730",
+      "internal_id": "c53a9221329966feacb1e7d899629ddf0a6dfa2d15603025620424cd9615b0e9",
+      "publishedAtLabel": "Dec 19"
+    },
+    {
+      "id": 16636,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "John Mark Velasco, Chonticha Klungthong, Piyawan Chinnawirotpisan, Paula Corazon Diones, Maria Theresa Valderama, Susie Leonardia, Wudtichai Manasatienkij, Khajohn Joonlasak, Prinyada Rodpradit, Jennifer Mateo, Vicente Vila II, Fatima Claire Navarro, Anthony Jones, Aaron Farmer, Stefan Fernandez",
+      "title": "Genetic diversity of dengue virus circulating in the Philippines (2014\u20132019) and comparison with dengue vaccine strains",
+      "description": "Author summary Dengue virus has four distinct serotypes and each serotype is further divided into distinct genotypes. There are currently two licensed dengue vaccines, Dengvaxia and QDENGA and we compared the genotypes of the circulating wild type (WT) dengue\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012697",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012697.g002&size=inline",
+      "publishedAt": "2024-12-19 14:00:00",
+      "content": "Abstract Dengue virus has four distinct serotypes and the genetic diversity within each of the four serotypes contribute to its complexity. An important aspect of dengue molecular evolutionary studi\u2026 [+50196 chars]",
+      "retrievedAt": "2024-12-20 19:05:56.424320",
+      "internal_id": "f0fbef66e6b83a26b62d7d7c725d68faaa0f02bb5d25bd4c7eb7fc675f8674cf",
+      "publishedAtLabel": "Dec 19"
+    },
+    {
+      "id": 16645,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "M\u00f4nica Viegas Andrade, Kenya Valeria Micaela de Souza Noronha, Gilvan Ramalho Guedes, Nayara Abreu Juli\u00e3o, Lucas Resende de Carvalho, Aline de Souza, Val\u00e9ria Andrade Silva, Andre Soares Motta-Santos, Henrique Bracarense, C\u00e1ssio Peterka, Marcia C. Castro",
+      "title": "Health-Related Quality of Life due to malaria in the Brazilian Amazon using EQ-5D-3L",
+      "description": "Author summary Malaria is an infectious disease transmitted by mosquitoes, primarily affecting tropical and subtropical regions worldwide. Despite significant efforts to control malaria, the rates of illness and death are still important. In the Americas, Bra\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012739",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012739.g006&size=inline",
+      "publishedAt": "2024-12-19 14:00:00",
+      "content": "Abstract Malaria is a mosquito-borne infectious disease caused by protozoa of the genus Plasmodium. Despite of the progress in malaria control in the last decades, malaria remains a major public hea\u2026 [+30894 chars]",
+      "retrievedAt": "2024-12-20 19:05:57.306998",
+      "internal_id": "3d47ebcee8c4649cc14379495b19dd74813b08e45aa7f8281d9a35739cf5f5fa",
+      "publishedAtLabel": "Dec 19"
+    },
+    {
+      "id": 16637,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "Mary Kekatos",
+      "title": "Undiagnosed disease in Congo may be linked to malaria, Africa CDC says",
+      "description": "A deadly, undiagnosed disease that has been spreading in one region of the Democratic Republic of Congo (DRC) may be linked to malaria, health officials said Thursday.",
+      "url": "https://abcnews.go.com/Health/undiagnosed-disease-congo-linked-malaria-africa-cdc/story?id=116939557",
+      "urlToImage": "https://i.abcnewsfe.com/a/60ac84b4-28a5-4a2e-b5ce-ae93ee1dd7bb/congo1-ap-file-ml-241219_1734614877333_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2024-12-19 13:43:58",
+      "content": "A deadly, undiagnosed disease that has been spreading in one region of the Democratic Republic of Congo (DRC) may be linked to malaria, health officials said Thursday. As of Dec. 14, the latest date\u2026 [+881 chars]",
+      "retrievedAt": "2024-12-20 19:05:57.095653",
+      "internal_id": "9fc3b342966164bf8828b10400efd454e27d0529e235de347acd0cb4da380dc5",
+      "publishedAtLabel": "Dec 19"
+    },
+    {
+      "id": 16621,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "al-jazeera-english",
+      "source_name": "Al Jazeera English",
+      "author": "Sarah Shamim",
+      "title": "Why has California declared a state of emergency over bird flu?",
+      "description": "Cases of the H5N1 strain of bird flu are on the rise in humans in the US, with the first severe case reported.",
+      "url": "https://www.aljazeera.com/news/2024/12/19/why-has-california-declared-a-state-of-emergency-over-bird-flu",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/12/AFP__20240524__34TT4TX__v1__HighRes__UsHealthBirdFlu-1734608396.jpg?resize=1920%2C1440",
+      "publishedAt": "2024-12-19 13:40:22",
+      "content": "California Governor Gavin Newsom declared a state of emergency on Wednesday in response to growing concerns about bird flu cases in the state. Meanwhile, on the same day, the countrys first severe ca\u2026 [+7286 chars]",
+      "retrievedAt": "2024-12-20 19:05:55.647584",
+      "internal_id": "800a5507b75eacd6f50c8204cb4870727f9ac0d1ca2b05c91cea18a25d78aafb",
+      "publishedAtLabel": "Dec 19"
+    },
+    {
+      "id": 16647,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "le-monde",
+      "source_name": "Le Monde",
+      "author": "Marie de Verg\u00e8s",
+      "title": "En Afrique, \u00e0 quand la sant\u00e9 pour tous et partout ?",
+      "description": "Une majorit\u00e9 d\u2019Africains n\u2019a toujours pas acc\u00e8s aux services de sant\u00e9 essentiels. Le renforcement des syst\u00e8mes de proximit\u00e9, des centres de soins primaires aux agents communautaires, est au c\u0153ur des r\u00e9flexions.",
+      "url": "https://www.lemonde.fr/afrique/article/2024/12/19/en-afrique-a-quand-la-sante-pour-tous-et-partout_6457297_3212.html",
+      "urlToImage": "https://img.lemde.fr/2024/12/13/3/0/5500/3666/1440/960/60/0/2545fab_1734097744656-2024-07-24t083646z-1358737340-rc2zx8anyyon-rtrmadp-3-health-mpox-congo.JPG",
+      "publishedAt": "2024-12-19 12:00:05",
+      "content": "V\u00e9rification des l\u00e9sions cutan\u00e9es dun enfant atteint de Mpox, au centre de traitement de Munigi, pr\u00e8s de Goma (R\u00e9publique d\u00e9mocratique du Congo), le 19 juillet 2024. ARLETTE BASHIZI/REUTERS En R\u00e9pub\u2026 [+8812 chars]",
+      "retrievedAt": "2024-12-20 19:05:58.732854",
+      "internal_id": "9e41a6e0cc4c184a274536e38b348d3ec9dfc916d92fd46c20397b9f8fbb2269",
+      "publishedAtLabel": "Dec 19"
+    },
+    {
+      "id": 16624,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Haberturk.com",
+      "author": "Habert\u00fcrk",
+      "title": "California'da ku\u015f gribi alarm\u0131!",
+      "description": "ABD'nin California eyaletinde ku\u015f gribi (H5N1) vakalar\u0131nda g\u00f6zlemlenen art\u0131\u015f sonucu \"acil durum\" ilan edildi.",
+      "url": "https://www.haberturk.com/california-da-artan-kus-gribi-vakalari-nedeniyle-acil-durum-ilan-edildi-haberler-3748289",
+      "urlToImage": "https://im.haberturk.com/l/2024/12/19/ver1734608871/3748289/jpg/1200x628",
+      "publishedAt": "2024-12-19 11:48:05",
+      "content": "California Valilik Ofisinden yaplan a\u00e7klamada, 16 eyaletteki b\u00fcy\u00fckba hayvanlarda tespit edilen vir\u00fcs\u00fcn, G\u00fcney California \u00e7iftliklerindeki ineklerde de g\u00f6r\u00fclmesiyle hastaln yaylmn kontrol altna almak \u2026 [+868 chars]",
+      "retrievedAt": "2024-12-20 19:05:55.709609",
+      "internal_id": "9b5821cfd89c969acf80f492f5fcb0a4664807d3bb043e32d4161176a5dc399e",
+      "publishedAtLabel": "Dec 19"
+    },
+    {
+      "id": 16630,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Lavozdegalicia.es",
+      "author": "Somos Agro",
+      "title": "California declara el estado de emergencia para contrarrestar los contagios de la gripe aviar",
+      "description": "En este estado ya se hab\u00eda suspendido la distribuci\u00f3n de leche cruda y ahora se toma esta decisi\u00f3n despu\u00e9s de que una persona de Luisiana fuera considerada el primer caso severo en Estados Unidos de esta enfermedad",
+      "url": "https://www.lavozdegalicia.es/noticia/somosagro/ganaderia/2024/12/19/california-declara-estado-emergencia-contrarrestar-atender-contagios-gripe-aviar/00031734602155516251126.htm",
+      "urlToImage": "https://img.lavdg.com/sc/DkMTKVsene5GJFbxWeZBCHaFEIc=/1280x/2024/12/19/00121734602702173683292/Foto/C_20241031_190631000.jpg",
+      "publishedAt": "2024-12-19 11:34:00",
+      "content": "El gobernador de California, Gavin Newsom, declar\u00f3 este mi\u00e9rcoles el estado de emergencia debido a que el virus de la gripe aviar H5N1 se ha estado diseminando por las ganader\u00edas del estado y se han \u2026 [+3620 chars]",
+      "retrievedAt": "2024-12-20 19:05:55.828515",
+      "internal_id": "a9f5106fcea3dc16475319ba51a24e7567b7c89ce749c8aa15158a568d443f87",
+      "publishedAtLabel": "Dec 19"
+    },
+    {
+      "id": 16622,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Expansion.com",
+      "author": "Marga Castillo",
+      "title": "California declara el estado de emergencia tras un caso grave de gripe aviar en EEUU",
+      "description": "Funcionarios de salud de Luisiana han confirmado hoy el primer caso grave de influenza aviar A(H5N1) (gripe aviar H5N1), m\u00e1s conocida como gripe aviar, en un humano en Estados...",
+      "url": "https://www.expansion.com/directivos/estilo-vida/salud/2024/12/19/6763fb7be5fdea39448b4596.html",
+      "urlToImage": "https://phantom-expansion.unidadeditorial.es/dd9ef1a0e7c0b89d6c3a0ef351f1cf18/crop/127x113/1914x1304/resize/1200/f/webp/assets/multimedia/imagenes/2024/12/19/17346075448537.jpg",
+      "publishedAt": "2024-12-19 11:26:57",
+      "content": "Luisiana registra el primer caso de una persona con gripe aviar grave y California declara el estado de emergencia.Funcionarios de salud de Luisiana han confirmado hoy el primer caso grave de influen\u2026 [+6359 chars]",
+      "retrievedAt": "2024-12-20 19:05:55.675627",
+      "internal_id": "21189176016fb1feda44d360607f0dfdd6d7cbfce785b40d794e8da6dbfe8835",
+      "publishedAtLabel": "Dec 19"
+    },
+    {
+      "id": 16632,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "CNN \u0628\u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+      "title": "\u0623\u0648\u0644 \u0625\u0635\u0627\u0628\u0629 \u062e\u0637\u064a\u0631\u0629 \u0628\u0623\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u0637\u064a\u0648\u0631 \u0641\u064a \u0623\u0645\u0631\u064a\u0643\u0627.. \u0623\u064a\u0646 \u0634\u064f\u062e\u0651\u0635\u062a\u061f",
+      "description": "\u0623\u0641\u0627\u062f\u062a \u0627\u0644\u0645\u0631\u0627\u0643\u0632 \u0627\u0644\u0623\u0645\u0631\u064a\u0643\u064a\u0629 \u0644\u0645\u0643\u0627\u0641\u062d\u0629 \u0627\u0644\u0623\u0645\u0631\u0627\u0636 \u0648\u0627\u0644\u0633\u064a\u0637\u0631\u0629 \u0639\u0644\u064a\u0647\u0627 (CDC) \u0623\u0646\u0651 \u0645\u0631\u064a\u0636\u0627\u064b \u0641\u064a \u0648\u0644\u0627\u064a\u0629 \u0644\u0648\u064a\u0632\u064a\u0627\u0646\u0627 \u062f\u062e\u0644 \u0627\u0644\u0645\u0633\u062a\u0634\u0641\u0649 \u0628\u0633\u0628\u0628 \u0625\u0635\u0627\u0628\u062a\u0647 \u0628\u062d\u0627\u0644\u0629 \u0634\u062f\u064a\u062f\u0629 \u0645\u0646 \u0641\u064a\u0631\u0648\u0633 \u0623\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u0637\u064a\u0648\u0631 H5N1\u060c \u0648\u0647\u064a \u0623\u0648\u0644 \u062d\u0627\u0644\u0629 \u0645\u0646 \u0646\u0648\u0639\u0647\u0627 \u0641\u064a \u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629.",
+      "url": "https://arabic.cnn.com/science-and-health/article/2024/12/19/severe-bird-flu-louisiana-first-us-case",
+      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2024/12/19/images/285657.jpg",
+      "publishedAt": "2024-12-19 11:22:51",
+      "content": "",
+      "retrievedAt": "2024-12-20 19:05:55.847715",
+      "internal_id": "621d53c8d640a856c61a5814744d8ce58067ce9116a4bdb66625ec186dbf6419",
+      "publishedAtLabel": "Dec 19"
+    },
+    {
+      "id": 16635,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Excelsior.com.mx",
+      "author": "mauricio.alvarado.martinez",
+      "title": "Crean vacuna contra alfavirus; desarrollada por el IPN",
+      "description": "Laura Toribio Una nueva vacuna contra el virus emergente denominado mayaro, relacionado con chikungunya, y que se transmite por el mismo mosquito que infecta con el virus del dengue, fue desarrollada por el Instituto Polit\u00e9cnico Nacional (IPN), junto con la \u2026",
+      "url": "https://www.excelsior.com.mx/nacional/crean-vacuna-contra-alfavirus-ipn/1690487",
+      "urlToImage": "https://www.excelsior.com.mx/media/pictures/2024/12/19/3231064.jpg",
+      "publishedAt": "2024-12-19 10:42:57",
+      "content": "Una nueva vacuna contra el virus emergentedenominado mayaro, relacionado con chikungunya, y que se transmite por el mismo mosquito que infecta con el virus del dengue, fue desarrollada por el Institu\u2026 [+1788 chars]",
+      "retrievedAt": "2024-12-20 19:05:56.401600",
+      "internal_id": "5da103dcea448ab32e710dccbe6fa634978f14a0b0c455454a8aa67e7646240a",
+      "publishedAtLabel": "Dec 19"
+    },
+    {
+      "id": 16646,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "title": "Desarrollan vacuna contra virus relacionado a chikungunya",
+      "description": "El Instituto Polit\u00e9cnico Nacional (IPN) desarroll\u00f3, junto con la Universidad de Oxford y el Centro M\u00e9dico de la Universidad de Texas (UTMB), una nueva vacuna contra el virus emergente denominado Mayaro, relacionado a chikungunya, y que se transmite por el mis\u2026",
+      "url": "https://www.jornada.com.mx/2024/12/19/politica/012n2pol",
+      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "publishedAt": "2024-12-19 10:21:29",
+      "content": "Peri\u00f3dico La JornadaJueves 19 de diciembre de 2024, p. 12 El Instituto Polit\u00e9cnico Nacional (IPN) desarroll\u00f3, junto con la Universidad de Oxford y el Centro M\u00e9dico de la Universidad de Texas (UTMB),\u2026 [+1836 chars]",
+      "retrievedAt": "2024-12-20 19:05:58.207605",
+      "internal_id": "a45eba4e8913f91704c7a8d5550d5181d3f4eaa4c75916bc613f63d7243ec4b4",
+      "publishedAtLabel": "Dec 19"
+    },
+    {
+      "id": 16627,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Globalsecurity.org",
+      "author": "John Pike",
+      "title": "U.S. confirms first human bird flu severe case",
+      "description": "The United States has confirmed a severe human case of avian influenza A (H5N1) virus (H5N1 bird flu) infection.",
+      "url": "https://www.globalsecurity.org/security/library/news/2024/12/sec-241219-pdo01.htm",
+      "urlToImage": null,
+      "publishedAt": "2024-12-19 09:56:40",
+      "content": "People's Daily Online (Xinhua) 11:19, December 19, 2024 LOS ANGELES, Dec. 18 (Xinhua) -- The United States has confirmed a severe human case of avian influenza A (H5N1) virus (H5N1 bird flu) infect\u2026 [+967 chars]",
+      "retrievedAt": "2024-12-20 19:05:55.740464",
+      "internal_id": "1f3fd6db871b5a894d43b801c9c6efcc822be05997e85b961c25391dbfede70b",
+      "publishedAtLabel": "Dec 19"
+    },
+    {
+      "id": 16628,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Globalsecurity.org",
+      "author": "John Pike",
+      "title": "Bird flu spillover to other species poses global health threat, experts warn",
+      "description": "International human and animal health experts warn the H5N1 avian influenza is evolving quickly and posing a global health threat as the virus is increasingly crossing species barriers and infecting a wide range of domestic and wild mammals.",
+      "url": "https://www.globalsecurity.org/security/library/news/2024/12/sec-241218-voa01.htm",
+      "urlToImage": null,
+      "publishedAt": "2024-12-19 09:56:35",
+      "content": "By Lisa Schlein December 18, 2024 International human and animal health experts warn the H5N1 avian influenza is evolving quickly and posing a global health threat as the virus is increasingly cross\u2026 [+5174 chars]",
+      "retrievedAt": "2024-12-20 19:05:55.799334",
+      "internal_id": "d6c44a63c24483e357b03b7b34be673ad9e178f837e7cc007f49a5f34282b04f",
+      "publishedAtLabel": "Dec 19"
+    },
+    {
+      "id": 16620,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "tagesschau.de",
+      "author": "Reinhard Spiegelhauer",
+      "title": "Kalifornien erkl\u00e4rt Vogelgrippe-Notlage - Hunderte Kuhherden betroffen",
+      "description": "In Kalifornien grassiert die Vogelgrippe - und zwar in Milchbetrieben. Der Gouverneur hat nun eine Notlage erkl\u00e4rt. Fachleute warnen seit Monaten, dass sich das H5N1-Virus unter Menschen verbreiten k\u00f6nnte. Von R. Spiegelhauer.",
+      "url": "https://www.tagesschau.de/ausland/amerika/vogelgrippe-kuehe-usa-100.html",
+      "urlToImage": "https://images.tagesschau.de/image/0b541483-9568-4007-93b8-8e74d262f896/AAABk95NCbQ/AAABkZLhkrw/16x9-1280/kuehe-kalifornien-102.jpg",
+      "publishedAt": "2024-12-19 09:43:31",
+      "content": "Stand: 19.12.2024 10:43 Uhr In Kalifornien grassiert die Vogelgrippe - und zwar in Milchbetrieben. Der Gouverneur hat nun eine Notlage erkl\u00e4rt. Fachleute warnen seit Monaten, dass sich das H5N1-Viru\u2026 [+3808 chars]",
+      "retrievedAt": "2024-12-20 19:05:55.640863",
+      "internal_id": "104f4358fb6baf07156ad5ce92d37c13564ac93a51492820c77d2c329a2b30df",
+      "publishedAtLabel": "Dec 19"
+    },
+    {
+      "id": 16634,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Excelsior.com.mx",
+      "author": "mauricio.alvarado.martinez",
+      "title": "\u00bfPandemia? \u00bfY el presupuesto?",
+      "description": "La reciente declaraci\u00f3n de emergencia en California por el contagio de la gripe aviar H5N1 a seres humanos es un recordatorio alarmante de lo vulnerables que somos ante las enfermedades zoon\u00f3ticas. Este virus, que hasta hace poco se consideraba una amenaza co\u2026",
+      "url": "https://www.excelsior.com.mx/opinion/yuriria-sierra/pandemia-y-el-presupuesto/1690475",
+      "urlToImage": "https://www.excelsior.com.mx/media/opinion/vertical/2015/04/28/1204730.jpg",
+      "publishedAt": "2024-12-19 08:26:09",
+      "content": "La reciente declaraci\u00f3n de emergencia en California por el contagio de la gripe aviar H5N1 a seres humanos es un recordatorio alarmante de lo vulnerables que somos ante las enfermedades zoon\u00f3ticas. E\u2026 [+3928 chars]",
+      "retrievedAt": "2024-12-20 19:05:55.865955",
+      "internal_id": "d3ce0b69733f420d6c3e0857eb583fd4a22cab7b70bea89a8afdcf78910a3cee",
+      "publishedAtLabel": "Dec 19"
+    },
+    {
+      "id": 16633,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Ferra.ru",
+      "author": "\u041c\u0430\u043a\u0441\u0438\u043c \u041c\u043d\u043e\u0433\u043e\u0441\u043b\u043e\u0432\u043d\u044b\u0439",
+      "title": "\u0412 \u0421\u0428\u0410 \u0437\u0430\u0444\u0438\u043a\u0441\u0438\u0440\u043e\u0432\u0430\u043b\u0438 \u043f\u0435\u0440\u0432\u044b\u0439 \u0441\u043b\u0443\u0447\u0430\u0439 \u0442\u044f\u0436\u0435\u043b\u043e\u0439 \u0444\u043e\u0440\u043c\u044b \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430",
+      "description": "\u0426\u0435\u043d\u0442\u0440 \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044f \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0430\u043d\u0438\u0439 \u0421\u0428\u0410 (CDC) \u043f\u043e\u0434\u0442\u0432\u0435\u0440\u0434\u0438\u043b \u043f\u0435\u0440\u0432\u044b\u0439 \u0441\u043b\u0443\u0447\u0430\u0439 \u0442\u044f\u0436\u0435\u043b\u043e\u0439 \u0444\u043e\u0440\u043c\u044b \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430 H5N1 \u0432 \u0421\u0428\u0410 \u0432 \u044d\u0442\u043e\u043c \u0433\u043e\u0434\u0443. \u041f\u0430\u0446\u0438\u0435\u043d\u0442 \u0438\u0437 \u044e\u0433\u043e-\u0437\u0430\u043f\u0430\u0434\u043d\u043e\u0439 \u041b\u0443\u0438\u0437\u0438\u0430\u043d\u044b \u0431\u044b\u043b \u0433\u043e\u0441\u043f\u0438\u0442\u0430\u043b\u0438\u0437\u0438\u0440\u043e\u0432\u0430\u043d \u043f\u043e\u0441\u043b\u0435 \u043a\u043e\u043d\u0442\u0430\u043a\u0442\u0430 \u0441 \u0431\u043e\u043b\u044c\u043d\u044b\u043c\u0438 \u0438 \u043c\u0435\u0440\u0442\u0432\u044b\u043c\u0438 \u043f\u0442\u0438\u0446\u0430\u043c\u0438. \u042d\u0442\u043e \u043f\u0435\u0440\u0432\u044b\u0439 \u0437\u0430\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0439 \u0441\u043b\u0443\u0447\u0430\u0439, \u0441\u0432\u044f\u0437\u0430\u2026",
+      "url": "https://www.ferra.ru/news/health/v-ssha-zafiksirovali-pervyi-sluchai-tyazheloi-formy-ptichego-grippa-18-12-2024.htm",
+      "urlToImage": "https://www.ferra.ru/imgs/2024/12/18/20/6687572/44cfac6c9a48e643a376c2ff1605b8d07245b3d7.jpeg",
+      "publishedAt": "2024-12-19 08:11:28",
+      "content": "61 , , . . , D1.1, . . CDC , . , , , . . . .",
+      "retrievedAt": "2024-12-20 19:05:55.854299",
+      "internal_id": "0f38aef298467314c96d683f939e51c26bdacf6bf19f7c9f2e028070b8f9ebfb",
+      "publishedAtLabel": "Dec 19"
+    },
+    {
+      "id": 16619,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "time",
+      "source_name": "Time",
+      "author": "Chad de Guzman",
+      "title": "What to Know About Bird Flu in the U.S. After CDC Announces First \u2018Severe\u2019 Human Case",
+      "description": "Here\u2019s what to know about the United States\u2019 first confirmed severe case of H5N1 avian influenza\u2014and how to protect yourself.",
+      "url": "https://time.com/7203290/bird-flu-united-states-severe-case-h5n1-explainer/",
+      "urlToImage": "https://api.time.com/wp-content/uploads/2024/12/cdc.jpg?quality=85&w=1024&h=628&crop=1",
+      "publishedAt": "2024-12-19 08:00:00",
+      "content": "The Centers for Disease Control and Prevention (CDC) confirmed on Wednesday the United States first severe human case of H5N1 avian influenzaor bird flu, a zoonotic infection which has stoked fears o\u2026 [+2784 chars]",
+      "retrievedAt": "2024-12-20 19:05:55.607111",
+      "internal_id": "74408a6e67d7c743410e214f69da67dcb208344b260efa33e4d36a1c2425c3db",
+      "publishedAtLabel": "Dec 19"
+    },
+    {
+      "id": 16626,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Anadolu Agency",
+      "author": null,
+      "title": "ABD'nin California eyaletinde artan ku\u015f gribi vakalar\u0131 nedeniyle \"acil durum\" ilan edildi",
+      "description": "ABD'nin California eyaletinde ku\u015f gribi (H5N1) vakalar\u0131nda g\u00f6zlemlenen art\u0131\u015f sonucu \"acil durum\" ilan edildi. - Anadolu Ajans\u0131",
+      "url": "https://www.aa.com.tr/tr/saglik/abdnin-california-eyaletinde-artan-kus-gribi-vakalari-nedeniyle-acil-durum-ilan-edildi/3428409",
+      "urlToImage": "https://cdnuploads.aa.com.tr/uploads/Contents/2024/12/19/thumbs_b_c_6dcb8caa36fe4072e4b65bcd16a548e8.jpg?v=103429",
+      "publishedAt": "2024-12-19 07:27:53",
+      "content": "California Valilik Ofisinden yaplan a\u00e7klamada, 16 eyaletteki b\u00fcy\u00fckba hayvanlarda tespit edilen vir\u00fcs\u00fcn, G\u00fcney California \u00e7iftliklerindeki ineklerde de g\u00f6r\u00fclmesiyle hastaln yaylmn kontrol altna almak \u2026 [+1030 chars]",
+      "retrievedAt": "2024-12-20 19:05:55.733862",
+      "internal_id": "60a888ed3a0a901c74ebef5148bc720b05ca454970be1fb56a246f9e77dc14b7",
+      "publishedAtLabel": "Dec 19"
+    },
+    {
+      "id": 16629,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Tass.ru",
+      "author": null,
+      "title": "\u041e\u043d\u0438\u0449\u0435\u043d\u043a\u043e \u0437\u0430\u044f\u0432\u0438\u043b \u043e \u0435\u0434\u0438\u043d\u0438\u0447\u043d\u044b\u0445 \u0441\u043b\u0443\u0447\u0430\u044f\u0445 \u0437\u0430\u0440\u0430\u0436\u0435\u043d\u0438\u044f \u0432\u0438\u0440\u0443\u0441\u043e\u043c \u0433\u0440\u0438\u043f\u043f\u0430 \u043f\u0442\u0438\u0446 H5N1 \u0432 \u0420\u0424",
+      "description": "\u0417\u0430\u043c\u0435\u0441\u0442\u0438\u0442\u0435\u043b\u044c \u043f\u0440\u0435\u0437\u0438\u0434\u0435\u043d\u0442\u0430 \u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u043e\u0439 \u0430\u043a\u0430\u0434\u0435\u043c\u0438\u0438 \u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0438\u044f \u0441\u043e\u043e\u0431\u0449\u0438\u043b, \u0447\u0442\u043e \u0437\u0430 \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0430\u043d\u0438\u0435\u043c \u0432\u0435\u0434\u0435\u0442\u0441\u044f \u043f\u043e\u0441\u0442\u043e\u044f\u043d\u043d\u044b\u0439 \u043c\u043e\u043d\u0438\u0442\u043e\u0440\u0438\u043d\u0433",
+      "url": "https://tass.ru/obschestvo/22712931",
+      "urlToImage": "https://cdn-storage-media.tass.ru/thumb/ru/obschestvo/22712931?u=2024-12-19T07:15:56.305353",
+      "publishedAt": "2024-12-19 07:15:56",
+      "content": ", 19 . //. , . , , . \" 1986 , . , , , . &lt;&gt; [ ], , . , , - \", - . , , . , , , , , . - , . , , , , .",
+      "retrievedAt": "2024-12-20 19:05:55.805882",
+      "internal_id": "6a60df24706a239ab5acd0bb7b2e70392142a1b14fc2731a99cb16fcd02bfae9",
+      "publishedAtLabel": "Dec 19"
+    },
     {
       "id": 16614,
       "query": [
@@ -24981,132 +25522,6 @@
       "content": "El triple campe\u00f3n del mundo neerland\u00e9s Max Verstappen (Red Bull) dio un golpe de autoridad en su ad\u00e1n por ganar un cuarto t\u00edtulo seguido y reforz\u00f3 su liderato en el Mundial de F\u00f3rmula Uno al ganar de\u2026 [+9488 chars]",
       "retrievedAt": "2024-11-05 07:06:27.126213",
       "internal_id": "2ca6258c8c8c4e3bae727acd8d98f3acda50a4e4c509cae83cc73d789701af78",
-      "publishedAtLabel": "Nov 3"
-    },
-    {
-      "id": 15228,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Memeorandum.com",
-      "author": null,
-      "title": "Trump Thinks America Wants His Perversions (A.B. Stoddard/The Bulwark)",
-      "description": "A.B. Stoddard / The Bulwark: Trump Thinks America Wants His Perversions \u2014 Let's hope he is wrong. \u2014 MEASLES, MISINFORMATION, a \u201cvigorous spanking\u201d of misogyny\u2014whether women like it or not\u2014a violent nine-gun fantasy for political enemies, crudeness, petty \u2026",
-      "url": "https://www.memeorandum.com/241103/p22",
-      "urlToImage": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7beacf28-6b55-4b8a-8c4a-5019eaabf5a3_2439x1627.jpeg",
-      "publishedAt": "2024-11-03 15:45:00",
-      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
-      "retrievedAt": "2024-11-04 19:06:03.800086",
-      "internal_id": "48a14302ed577d62c426b6acc90cf0926c91407304620d568186b61dcddec5ff",
-      "publishedAtLabel": "Nov 3"
-    },
-    {
-      "id": 15226,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Just Jared",
-      "author": "Just Jared",
-      "title": "Social Media Star Peanut the Squirrel Euthanized by New York State, Owners Plan to Take Legal Action",
-      "description": "Peanut the Squirrel is making waves worldwide. The beloved social media star, with over 619,000 followers on Instagram and 100,000 followers on TikTok alone, was sadly euthanized by New York state wildlife officials as part of a test for rabies, via CBS News.\u2026",
-      "url": "https://www.justjared.com/2024/11/03/social-media-star-peanut-the-squirrel-euthanized-by-new-york-state-owners-plan-to-take-legal-action/",
-      "urlToImage": "https://cdn01.justjared.com/wp-content/uploads/headlines/2024/11/peanut-squirrel-dead-social.jpg",
-      "publishedAt": "2024-11-03 14:18:23",
-      "content": "Peanut the Squirrel is making waves worldwide. The beloved social media star, with over 619,000 followers on Instagram and 100,000 followers on TikTok alone, was sadly euthanized by New York state w\u2026 [+2459 chars]",
-      "retrievedAt": "2024-11-04 19:06:03.349995",
-      "internal_id": "9a8861ed7ebbc1519ee612a4d852bf9c444c0f4abb33908da3152e8f916d5c72",
-      "publishedAtLabel": "Nov 3"
-    },
-    {
-      "id": 15227,
-      "query": [
-        "rabies"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "ET Online",
-      "title": "Why Instagram-famous 'Peanut the Squirrel' was euthanised by NY officials? The controversy that caught US elections by storm",
-      "description": "Peanut, an Instagram-famous squirrel, was euthanized by New York authorities to test for rabies, sparking outrage and controversy. Owner Mark Longo claims his home was raided for hours, while Elon Musk criticized the government's actions on social media, ampl\u2026",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/why-instagram-famous-peanut-the-squirrel-was-euthanised-by-ny-officials-the-controversy-that-caught-us-elections-by-storm/articleshow/114913238.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-114913212,width-1200,height-630,imgsize-74122,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2024-11-03 12:38:37",
-      "content": "An Instagram-famed squirrel being euthanised has boiled down to a controversy, taking major attention in the weekend leading to US elections scheduled for Nov 5. Following the incident, the far-right\u2026 [+2561 chars]",
-      "retrievedAt": "2024-11-04 19:06:03.390479",
-      "internal_id": "c280846f493a6206fb055952c7e3a553fc0bd42119c544aad15f6f640a5c0675",
-      "publishedAtLabel": "Nov 3"
-    },
-    {
-      "id": 15230,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "ynet",
-      "source_name": "Ynet",
-      "author": "\u05e6\u05d5\u05e8 \u05d2\u05d5\u05d0\u05d8\u05d4",
-      "title": "\u05d7\u05d6\u05d9\u05e8 \u05e0\u05d3\u05d1\u05e7 \u05d1\u05e9\u05e4\u05e2\u05ea \u05d4\u05e2\u05d5\u05e4\u05d5\u05ea \u05d1\u05d0\u05e8\u05d4\"\u05d1: \"\u05d7\u05e9\u05e9 \u05de\u05d5\u05d5\u05d9\u05e8\u05d5\u05e1 \u05d7\u05d3\u05e9 \u05d5\u05d0\u05dc\u05d9\u05dd \u05e9\u05d9\u05d3\u05d1\u05d9\u05e7 \u05d1\u05e0\u05d9 \u05d0\u05d3\u05dd\"",
-      "description": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d7\u05e7\u05dc\u05d0\u05d5\u05ea \u05d4\u05d0\u05de\u05e8\u05d9\u05e7\u05e0\u05d9 \u05d3\u05d9\u05d5\u05d5\u05d7 \u05d1\u05d0\u05d7\u05e8\u05d5\u05e0\u05d4 \u05e2\u05dc \u05de\u05e7\u05e8\u05d4 \u05e8\u05d0\u05e9\u05d5\u05df \u05e9\u05dc \u05e9\u05e4\u05e2\u05ea \u05d4\u05e2\u05d5\u05e4\u05d5\u05ea \u05de\u05d6\u05df H5N1 \u05d1\u05d7\u05d6\u05d9\u05e8\u05d9\u05dd. \u05d4\u05d7\u05d5\u05d5\u05d4 \u05d1\u05d0\u05d5\u05e8\u05d2\u05d5\u05df \u05e9\u05d1\u05d4 \u05d4\u05ea\u05d2\u05dc\u05ea\u05d4 \u05d4\u05d4\u05d3\u05d1\u05e7\u05d4 \u05d4\u05d5\u05db\u05e0\u05e1\u05d4 \u05dc\u05d4\u05e1\u05d2\u05e8, \u05d5\u05e0\u05d1\u05d3\u05e7\u05ea \u05d4\u05d0\u05e4\u05e9\u05e8\u05d5\u05ea \u05dc\u05d4\u05e2\u05d1\u05e8\u05d4 \u05e9\u05dc \u05d4\u05e0\u05d2\u05d9\u05e3 \u05de\u05e2\u05d5\u05e4\u05d5\u05ea \u05dc\u05d9\u05d5\u05e0\u05e7\u05d9\u05dd. \u05e4\u05e8\u05d5\u05e4' \u05d9\u05e9\u05e8\u05d0\u05dc \u05e4\u05d5\u05d8\u05e1\u05de\u05df, \u05de\u05d5\u05de\u05d7\u05d4 \u05dc\u05de\u05d7\u05dc\u05d5\u05ea \u05d6\u05d9\u05d4\u05d5\u05de\u05d9\u05d5\u05ea \u05d1\u05de\u05db\u05d1\u05d9: \"\u05d7\u05d6\u05d9\u05e8\u05d9\u05dd \u05d3\u05d5\u05de\u05d9\u05dd \u05dc\u05d1\u05e0\u05d9 \u05d0\u05d3\u05dd \u05d1\u05d2\u05e0\u05d8\u05d9\u05e7\u05d4 \u05e9\u05dc\u05d4\u2026",
-      "url": "https://www.ynet.co.il/health/article/byho112vbkl",
-      "urlToImage": "https://ynet-pic1.yit.co.il/picserver5/crop_images/2024/11/03/By111e6NWJl/By111e6NWJl_0_59_1000_563_0_large.jpg",
-      "publishedAt": "2024-11-03 12:36:58",
-      "content": ", \"\" - . . H1N1 -2009 , . ' , , : \" , , . , , -. - \". \" , , , : \" , , () . , , , . \". ' \" . \" , , \". : \" . , \". . \" , , , . \" '' , . \", .",
-      "retrievedAt": "2024-11-04 19:06:04.715626",
-      "internal_id": "da5eb6f3b6e1d7b28854ff56526c6fe03880a6b195d33071c9e3c4abecc9d5a8",
-      "publishedAtLabel": "Nov 3"
-    },
-    {
-      "id": 15232,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "VOA News",
-      "author": "webdesk@voanews.com (Associated Press)",
-      "title": "Mpox cases in Congo may be stabilizing, but more vaccines needed to stamp out virus",
-      "description": "Goma, Congo \u2014 Some health officials say mpox cases in Congo appear to be \u201cstabilizing\u201d \u2014 a possible sign that the main epidemic for which the World Health Organization made a global emergency declaration in August might be on the decline. In recent weeks,\u2026",
-      "url": "https://www.voanews.com/a/mpox-cases-in-congo-may-be-stabilizing-but-more-vaccines-needed-to-stamp-out-virus-/7849399.html",
-      "urlToImage": "https://gdb.voanews.com/38E367F4-5A38-40E6-8148-15ADC0E2527D.jpg",
-      "publishedAt": "2024-11-03 12:21:25",
-      "content": "Goma, Congo Some health officials say mpox cases in Congo appear to be stabilizing a possible sign that the main epidemic for which the World Health Organization made a global emergency declaration \u2026 [+4734 chars]",
-      "retrievedAt": "2024-11-04 19:06:06.577063",
-      "internal_id": "5088c984af91dc35899b1ae0f4fd2795c97d4e1b73e817925d6683620bfdcd0b",
-      "publishedAtLabel": "Nov 3"
-    },
-    {
-      "id": 15231,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "Suman Chakraborti",
-      "title": "Kolkata reports second dengue death in Bidhannagar amid declining cases",
-      "description": "Shibani Das, 69, from Gopalpur Sarat Pally in Bidhannagar, died of dengue on Saturday. This is the second dengue death in the area this year. Kolkata has recorded lower dengue cases this year compared to previous years, with precautionary measures in place. O\u2026",
-      "url": "https://timesofindia.indiatimes.com/city/kolkata/kolkata-reports-second-dengue-death-in-bidhannagar-area-amid-declining-cases/articleshow/114910748.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-114910667,width-1070,height-580,imgsize-32062,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-11-03 10:18:16",
-      "content": "9 animals that live in rainforests",
-      "retrievedAt": "2024-11-04 19:06:05.095710",
-      "internal_id": "740c1ce1211164e71f7d8b5c5fe40b97b04759d42431bc0acd37f59e13305bb6",
-      "publishedAtLabel": "Nov 3"
-    },
-    {
-      "id": 15229,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Faz.net",
-      "author": "Pia Heinemann",
-      "title": "\u201eDer Mensch ist bislang kein guter Wirt\u201c",
-      "description": "Ein Schwein in den USA ist positiv auf das weltweit grassierende Vogelgrippevirus getestet worden. Warum das absehbar war \u2013 und was es bedeutet.",
-      "url": "https://www.faz.net/aktuell/wissen/leben-gene/vogelgrippe-was-der-uebersprung-aufs-schwein-bedeutet-110083432.html",
-      "urlToImage": "https://media0.faz.net/ppmedia/aktuell/110701573/1.10085608/facebook_teaser_fplus/drei-h5n1-partikel-in-einer.jpg",
-      "publishedAt": "2024-11-03 07:09:20",
-      "content": "Um das Vogelgrippevirus H5N1 kehr keine Ruhe ein. Zuletzt wurde es bei einem Schwein auf einem kleinen Hof in Oregon gefunden. Dort waren G\u00e4nse, H\u00fchner, Schafe, Ziegen und Schweine gehalten worden. A\u2026 [+333 chars]",
-      "retrievedAt": "2024-11-04 19:06:04.553350",
-      "internal_id": "f2c071b0e101c3cee4423bd66447e61c55910efc125983d549ca156dff89672d",
       "publishedAtLabel": "Nov 3"
     }
   ]
