@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 30
-- **Last harvest:** 2024-12-20 19:06
-- **Most recent article:** 2024-12-19 18:39:55
+- **New articles in last harvest:** 11
+- **Last harvest:** 2024-12-21 07:05
+- **Most recent article:** 2024-12-20 02:31:29
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-45 | 24-46 | 24-47 | 24-48 | 24-49 | 24-50 | 24-51 | Total |
 |--|-|-|-|-|-|-|-|-|
-| h5n1 | 34 | 40 | 50 | 38 | 70 | 61 | 76 | 369 |
-| mpox | 60 | 62 | 76 | 26 | 20 | 26 | 77 | 347 |
-| malaria | 26 | 33 | 27 | 29 | 27 | 76 | 42 | 260 |
-| dengue | 30 | 36 | 28 | 25 | 10 | 33 | 28 | 190 |
-| measles | 2 | 33 | 11 | 6 | 9 | 10 | 3 | 74 |
-| rabies | 3 | 11 | 7 | 12 | 13 | 3 | 6 | 55 |
+| h5n1 | 36 | 40 | 50 | 38 | 70 | 61 | 81 | 376 |
+| mpox | 61 | 62 | 76 | 26 | 20 | 26 | 77 | 348 |
+| malaria | 26 | 33 | 27 | 29 | 27 | 76 | 45 | 263 |
+| dengue | 31 | 36 | 28 | 25 | 10 | 33 | 29 | 192 |
+| measles | 3 | 33 | 11 | 6 | 9 | 10 | 4 | 76 |
+| rabies | 5 | 11 | 7 | 12 | 13 | 3 | 7 | 58 |
 | chikungunya | 2 | 3 | 5 | 4 | 6 | 7 | 8 | 35 |
 | pertussis | 3 | 8 | 5 | 1 | 4 | 6 | 3 | 30 |
-| zika | 9 | 4 | 3 | 1 | 4 | 4 | 3 | 28 |
+| zika | 9 | 4 | 3 | 1 | 4 | 4 | 4 | 29 |
 | meningitis | 4 | 2 | 5 | 3 | 3 | 7 | 3 | 27 |
 | hpai | 4 | 4 | 4 | 0 | 2 | 4 | 5 | 23 |
 | leptospirosis | 10 | 3 | 0 | 2 | 0 | 3 | 0 | 18 |
@@ -35,6 +35,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-51 (zika)
 
+- [Aranjuez crea casas de murciélagos para que controlen al mosquito tigre transmisor del dengue y el zika](https://www.elespanol.com/madrid/sociedad/20241220/aranjuez-crea-casas-murcielagos-controlen-mosquito-tigre-transmisor-dengue-zika/909909313_0.html) (Elespanol.com)
+
 - [Suspected Zika case: Sample from Andhra sent to NIV Pune for confirmation](https://economictimes.indiatimes.com/news/india/suspected-zika-case-sample-from-andhra-sent-to-niv-pune-for-confirmation/articleshow/116445592.cms) (The Times of India)
 
 - [The effectiveness of putative wearable repellent technologies to protect against mosquito biting and Aedes-borne diseases, and their economic impact](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012621) (Plos.org)
@@ -42,6 +44,8 @@ Source: [News API](https://newsapi.org/)
 - [Andhra Pradesh: Suspected case of Zika virus sparks panic among locals in Nellore district](https://timesofindia.indiatimes.com/city/vijayawada/andhra-pradesh-suspected-case-of-zika-virus-sparks-panic-among-locals-in-nellore-district/articleshow/116438032.cms) (The Times of India)
 
 ## 24-51 (rabies)
+
+- [You'll Never Believe This, But Congress Buried A 40% Pay Raise For Themselves Inside The New 1,500 Page Stopgap Bill](https://www.newsbreak.com/share/3722800375966-you-ll-never-believe-this-but-congress-buried-a-40-pay-raise-for-themselves-inside-the-new-1-500-page-stopgap-bill?s=a99&amp;share_destination_id=MTc3ODUwNzE4LTE3MzQ2NDM2NTMyOTE%3D&amp;pd=0C2F5yfb&amp;hl=en_US&amp;send_time=1734643653&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2224.50.0%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_local_strategy_24q4_exp-v13%2Cns_foryou_blend_exp_25q1-v8%2Cns_foryou_recall_exp_24q4-v8%2Cns_foryou_rank_exp_24q4-v3%2Cns_foryou_model_exp_25q1-v8%2Cns_push_exp_rt_bucketv12-v6) (Newsbreak.com)
 
 - [Why did Switzerland once drop thousands of chicken heads in its forest?](https://timesofindia.indiatimes.com/etimes/trending/why-did-switzerland-once-drop-thousands-of-chicken-heads-in-its-forest/articleshow/116458426.cms) (The Times of India)
 
@@ -229,6 +233,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-51 (measles)
 
+- [AHS alert: Measles exposure at Calgary hospital, airport and grocery store](https://www.cbc.ca/news/canada/calgary/calgary-ahs-measles-exposure-alert-1.7415412) (CBC News)
+
 - [Tiny Coffins: Measles Is Killing Thousands of Children in Congo (New York Times)](https://www.memeorandum.com/241218/p31) (Memeorandum.com)
 
 - [Infant vaccination rates drop below safe levels in Cass County](https://www.inforum.com/news/north-dakota/infant-vaccination-rates-drop-below-safe-levels-in-cass-county) (INFORUM)
@@ -236,6 +242,10 @@ Source: [News API](https://newsapi.org/)
 - [Toddler diagnosed with measles in Brisbane had passed through multiple airports](https://www.9news.com.au/national/measles-alert-brisbane-two-year-old-boy-confirmed-case/f3b785ff-9686-41fa-9be9-70a51899d530) (9News)
 
 ## 24-51 (malaria)
+
+- [CDC Confirms Malaria Likely Culprit in Deadly DR Congo Outbreak Mystery](https://www.sciencealert.com/cdc-confirms-malaria-likely-culprit-in-deadly-dr-congo-outbreak-mystery) (ScienceAlert)
+
+- [Mystery outbreak in DR Congo likely caused by malaria](https://www.bbc.com/news/articles/cn08xz015nyo) (BBC News)
 
 - [Mayoría de infectados por la enfermedad misteriosa del Congo dan positivo en malaria](https://forbes.com.mx/mayoria-de-infectados-por-la-enfermedad-misteriosa-del-congo-dan-positivo-en-malaria/) (Forbes.com.mx)
 
@@ -272,6 +282,8 @@ Source: [News API](https://newsapi.org/)
 - [Torna dal Congo e muore: Rocca, da primi esami è malaria](https://www.ansa.it/sito/notizie/cronaca/2024/12/18/torna-dal-congo-e-muore-rocca-da-primi-esami-e-malaria_878d93d9-c35d-4c2d-aa4b-cb6a725c3bae.html) (ANSA.it)
 
 - [Torna dal Congo e muore: Rocca, da primi esami è malaria](https://www.ansa.it/sito/notizie/topnews/2024/12/18/torna-dal-congo-e-muore-rocca-da-primi-esami-e-malaria_2053cdc9-c913-4da9-850a-7f92519bd148.html) (ANSA.it)
+
+- [Chi era Andrea Poloni, morto di ritorno dal Congo per febbre emorragica: la malaria e le mancate cure](https://www.ilfattoquotidiano.it/2024/12/18/chi-era-andrea-poloni-morto-di-ritorno-dal-congo-per-febbre-emorragica-la-malaria-e-le-mancate-cure/7809034/) (Ilfattoquotidiano.it)
 
 - [Severe antigen excess confounding the detection of Plasmodium falciparum via rapid antigen assay](https://jcp.bmj.com/content/78/1/71) (The BMJ)
 
@@ -335,6 +347,14 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-51 (h5n1)
 
+- [Nueva alarma de gripe aviar en EEUU con dos caras del virus en circulación: "El riesgo de que una mutación se transmita en humanos aumenta"](https://www.elmundo.es/ciencia-y-salud/salud/2024/12/20/676463e0e85ece75668b4572.html) (El Mundo)
+
+- [”C’est un virus dangereux qui peut avoir un potentiel pandémique. On peut en effet imaginer un scénario catastrophe où deux éléments se combinent”](https://www.lalibre.be/planete/sante/2024/12/19/cest-un-virus-dangereux-qui-peut-avoir-un-potentiel-pandemique-on-peut-en-effet-imaginer-un-scenario-catastrophe-ou-deux-elements-se-combinent-O4GML4G5RNHGLAPNSHGWVTXWYU/) (Lalibre.be)
+
+- [米国で初の鳥インフル重症患者、加州が非常事態宣言、乳牛に拡大](https://natgeo.nikkeibp.co.jp/atcl/news/24/122000702/?rss) (Nikkeibp.co.jp)
+
+- [New vaccines show promise against seasonal, H5N1 flu strains](https://www.dw.com/en/new-vaccines-show-promise-against-seasonal-h5n1-flu-strains/a-71111141) (DW (English))
+
 - [What Is Bird Flu? Symptoms & Treatment Amid the H5N1 California Outbreak](https://hollywoodlife.com/feature/what-is-bird-flu-symptoms-5355549/) (Hollywood Life)
 
 - [California declares bird flu emergency](https://theweek.com/health/california-bird-flu-emergency) (The Week Magazine)
@@ -362,6 +382,8 @@ Source: [News API](https://newsapi.org/)
 - [В США зафиксировали первый случай тяжелой формы птичьего гриппа](https://www.ferra.ru/news/health/v-ssha-zafiksirovali-pervyi-sluchai-tyazheloi-formy-ptichego-grippa-18-12-2024.htm) (Ferra.ru)
 
 - [What to Know About Bird Flu in the U.S. After CDC Announces First ‘Severe’ Human Case](https://time.com/7203290/bird-flu-united-states-severe-case-h5n1-explainer/) (Time)
+
+- [Acil durum ilan edildi: ABD’de ilk ciddi kuş gribi vakası!](https://www.haber7.com/saglik/haber/3488890-acil-durum-ilan-edildi-abdde-ilk-ciddi-kus-gribi-vakasi) (Haber7.com)
 
 - [ABD'nin California eyaletinde artan kuş gribi vakaları nedeniyle "acil durum" ilan edildi](https://www.aa.com.tr/tr/saglik/abdnin-california-eyaletinde-artan-kus-gribi-vakalari-nedeniyle-acil-durum-ilan-edildi/3428409) (Anadolu Agency)
 
@@ -488,6 +510,8 @@ Source: [News API](https://newsapi.org/)
 - [« La gestion américaine de la crise du virus H5N1 met, et va continuer à mettre, le monde entier en danger »](https://www.lemonde.fr/idees/article/2024/12/15/la-gestion-americaine-de-la-crise-du-virus-h5n1-met-et-va-continuer-a-mettre-le-monde-entier-en-danger_6449393_3232.html) (Le Monde)
 
 ## 24-51 (dengue)
+
+- [Aranjuez crea casas de murciélagos para que controlen al mosquito tigre transmisor del dengue y el zika](https://www.elespanol.com/madrid/sociedad/20241220/aranjuez-crea-casas-murcielagos-controlen-mosquito-tigre-transmisor-dengue-zika/909909313_0.html) (Elespanol.com)
 
 - [Genetic diversity of dengue virus circulating in the Philippines (2014–2019) and comparison with dengue vaccine strains](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012697) (Plos.org)
 
@@ -2771,6 +2795,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Expert Says Unlikely Peanut Had Rabies, Officials Might Have Been Impulsive](https://www.tmz.com/2024/11/05/peanut-squirrel-unlikely-had-rabies-expert/) (TMZ)
 
+- [Social Media Star Peanut the Squirrel Euthanized by New York State, Owners Plan to Take Legal Action](https://www.justjared.com/2024/11/03/social-media-star-peanut-the-squirrel-euthanized-by-new-york-state-owners-plan-to-take-legal-action/) (Just Jared)
+
+- [Why Instagram-famous 'Peanut the Squirrel' was euthanised by NY officials? The controversy that caught US elections by storm](https://economictimes.indiatimes.com/news/international/global-trends/why-instagram-famous-peanut-the-squirrel-was-euthanised-by-ny-officials-the-controversy-that-caught-us-elections-by-storm/articleshow/114913238.cms) (The Times of India)
+
 ## 24-45 (pertussis)
 
 - [Whooping cough found at NMU](https://www.wnmufm.org/health/2024-11-05/whooping-cough-found-at-nmu) (Wnmufm.org)
@@ -2901,6 +2929,8 @@ Source: [News API](https://newsapi.org/)
 
 - [More cases of new mpox strain detected in UK](https://news.sky.com/story/mpox-more-cases-of-new-clade-1b-strain-detected-in-uk-13248258) (Sky.com)
 
+- [Mpox cases in Congo may be stabilizing, but more vaccines needed to stamp out virus](https://www.voanews.com/a/mpox-cases-in-congo-may-be-stabilizing-but-more-vaccines-needed-to-stamp-out-virus-/7849399.html) (VOA News)
+
 ## 24-45 (meningitis)
 
 - [Signs of deadly infection passed through sharing straws following the death of 19-year-old after music festival](https://www.ladbible.com/news/health/meningitis-b-signs-deadly-infection-710455-20241107) (LADbible)
@@ -2916,6 +2946,8 @@ Source: [News API](https://newsapi.org/)
 - [Number of confirmed measles cases in New Brunswick rises to 25](https://www.cbc.ca/news/canada/new-brunswick/nov-9-measles-update-1.7379486) (CBC News)
 
 - [Trump May End Water Fluoridation On Day One, Will Consider Banning Vaccines](https://www.wonkette.com/p/trump-may-end-water-fluoridation) (Wonkette.com)
+
+- [Trump Thinks America Wants His Perversions (A.B. Stoddard/The Bulwark)](https://www.memeorandum.com/241103/p22) (Memeorandum.com)
 
 ## 24-45 (malaria)
 
@@ -3073,6 +3105,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Highly Pathogenic Avian Influenza A(H5N1) Virus Infection in Cats, South Korea, 2023](https://wwwnc.cdc.gov/eid/article/30/12/24-0154_article) (Cdc.gov)
 
+- [חזיר נדבק בשפעת העופות בארה"ב: "חשש מווירוס חדש ואלים שידביק בני אדם"](https://www.ynet.co.il/health/article/byho112vbkl) (Ynet)
+
+- [„Der Mensch ist bislang kein guter Wirt“](https://www.faz.net/aktuell/wissen/leben-gene/vogelgrippe-was-der-uebersprung-aufs-schwein-bedeutet-110083432.html) (Faz.net)
+
 ## 24-45 (dengue)
 
 - [Lei que prevê contratação de 800 agentes de saúde é publicada no DODF](https://www.metropoles.com/distrito-federal/lei-que-preve-contratacao-de-800-agentes-de-saude-e-publicada-no-dodf) (Metropoles.com)
@@ -3134,6 +3170,8 @@ Source: [News API](https://newsapi.org/)
 - [Baguio: Karaniwang mga sakit, dapat hindi dapat ipagwalang bahala – Dr. Brillantes](https://rpnradio.com/baguio-karaniwang-mga-sakit-dapat-hindi-dapat-ipagwalang-bahala-dr-brillantes/) (Rpnradio.com)
 
 - [Mosquito da dengue pica por cima da roupa? Veja a opinião de especialistas](https://catracalivre.com.br/saude-bem-estar/mosquito-da-dengue-pica-roupa/) (Catracalivre.com.br)
+
+- [Kolkata reports second dengue death in Bidhannagar amid declining cases](https://timesofindia.indiatimes.com/city/kolkata/kolkata-reports-second-dengue-death-in-bidhannagar-area-amid-declining-cases/articleshow/114910748.cms) (The Times of India)
 
 ## 24-45 (chikungunya)
 
