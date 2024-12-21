@@ -1,8 +1,296 @@
 {
-  "last_updated": "2024-12-21 07:05",
-  "count_articles_total": 1433,
-  "count_articles_new": 11,
+  "last_updated": "2024-12-21 19:05",
+  "count_articles_total": 1442,
+  "count_articles_new": 16,
   "articles": [
+    {
+      "id": 16673,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "Casi 70.000 casos y 1.268 muertes por mpox en \u00c1frica durante 2024",
+      "description": "A lo largo de este a\u00f1o ha habido un aumento del 789 % de casos confirmados respecto a todo 2023.",
+      "url": "https://www.montevideo.com.uy/Salud/Casi-70-000-casos-y-1-268-muertes-por-mpox-en-Africa-durante-2024-uc910082",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202408/_W933_80/891795.jpg",
+      "publishedAt": "2024-12-20 18:17:00",
+      "content": "\u00c1frica ha registrado 69.211 casos (14.794 confirmados) y 1.268 muertes por mpox desde principios de 2024, inform\u00f3 este jueves la agencia de salud p\u00fablica de la Uni\u00f3n Africana (UA). \"La epidemia va\u2026 [+2890 chars]",
+      "retrievedAt": "2024-12-21 19:05:25.785604",
+      "internal_id": "cc722d73eb9f325ce8bc65be8e09c812a9a983164e22d802e2c5639d7ac07d1d",
+      "publishedAtLabel": "Dec 20"
+    },
+    {
+      "id": 16674,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Liu Fangqiang, Habtamu",
+      "title": "Mpox cases in Africa near 70,000 mark: Africa CDC",
+      "description": "ADDIS ABABA, Dec. 20 (Xinhua) -- The number of mpox cases reported in Africa so far this year has surpassed 69,000, with the death toll rising to more than 1,260, Africa Centers for Disease Control and Prevention (Africa CDC) has reported. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2024/12/21/mpox-cases-in-africa-near-70000-mark-africa-cdc",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2024-12-20 17:29:00",
+      "content": "ADDIS ABABA, Dec. 20 (Xinhua) -- The number of mpox cases reported in Africa so far this year has surpassed 69,000, with the death toll rising to more than 1,260, Africa Centers for Disease Control a\u2026 [+2180 chars]",
+      "retrievedAt": "2024-12-21 19:05:25.793500",
+      "internal_id": "be33fe4bbcbd4a767c5329906b03c62d2fe062f9ba3ebfadd058c89dd6b05020",
+      "publishedAtLabel": "Dec 20"
+    },
+    {
+      "id": 16668,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "PTI",
+      "title": "India registers 'significant progress' in reducing malaria cases: WHO",
+      "description": "India has made significant strides in reducing malaria cases and deaths, exiting the WHO's high-burden group. Community health workers, primarily women, have been instrumental in reaching remote populations. While progress is being made, global efforts conti\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/india-registers-significant-progress-in-reducing-malaria-cases-who/articleshow/116511733.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-116511747,width-1200,height-630,imgsize-1570380,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2024-12-20 16:38:11",
+      "content": "India has demonstrated significant progress in reducing malaria cases and associated mortality in the country's high-endemic states, according to the findings of the World Health Organisation's (WHO)\u2026 [+2705 chars]",
+      "retrievedAt": "2024-12-21 19:05:24.904656",
+      "internal_id": "d102cd2a8e879de178d98036e5acf33f451d642c9df14ff9fddcbb8c4df155d9",
+      "publishedAtLabel": "Dec 20"
+    },
+    {
+      "id": 16669,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "PTI",
+      "title": "India registers 'significant progress' in reducing malaria cases: WHO",
+      "description": "LONDON: India has demonstrated significant progress in reducing malaria cases and associated mortality in the country's high-endemic states, according.",
+      "url": "https://timesofindia.indiatimes.com/india/india-registers-significant-progress-in-reducing-malaria-cases-who/articleshow/116510603.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-116510624,width-1070,height-580,imgsize-890491,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-12-20 15:46:11",
+      "content": "Ananya Panday takes the fashion world by storm with her trendsetting wardrobe",
+      "retrievedAt": "2024-12-21 19:05:24.917548",
+      "internal_id": "34d7c1e491d2cafa0ed035d6d1f95f59f0669dff676ffb4517ca306fc6233a3e",
+      "publishedAtLabel": "Dec 20"
+    },
+    {
+      "id": 16667,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Research and Markets",
+      "title": "Meningitis Clinical Trials Review 2024 - Clinical Trials by Region, Country, Phase, Trial Status, End Points Status and Sponsor Type",
+      "description": "Dublin, Dec. 20, 2024 (GLOBE NEWSWIRE) -- The \"Meningitis - Global Clinical Trials Review, 2024\" clinical trials has been added to ResearchAndMarkets.com's offering.The report provides an overview of Meningitis Clinical trials scenario. This report provides t\u2026",
+      "url": "https://www.globenewswire.com/news-release/2024/12/20/3000681/28124/en/Meningitis-Clinical-Trials-Review-2024-Clinical-Trials-by-Region-Country-Phase-Trial-Status-End-Points-Status-and-Sponsor-Type.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "publishedAt": "2024-12-20 14:47:00",
+      "content": "Dublin, Dec. 20, 2024 (GLOBE NEWSWIRE) -- The \"Meningitis - Global Clinical Trials Review, 2024\" clinical trials has been added to ResearchAndMarkets.com's offering. The report provides an overview \u2026 [+4130 chars]",
+      "retrievedAt": "2024-12-21 19:05:24.361247",
+      "internal_id": "7e9f2ee8832898f4d372be4cae4a7598a948adf0c20210f9eb690578c0182c0c",
+      "publishedAtLabel": "Dec 20"
+    },
+    {
+      "id": 16660,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Courrier International",
+      "author": null,
+      "title": "Un premier cas grave de grippe aviaire chez l\u2019humain confirm\u00e9 aux \u00c9tats-Unis",
+      "description": "Le 18 d\u00e9cembre, les autorit\u00e9s am\u00e9ricaines ont confirm\u00e9 qu\u2019une personne infect\u00e9e par le virus H5N1 avait \u00e9t\u00e9 hospitalis\u00e9e. Une premi\u00e8re aux \u00c9tats-Unis. Le m\u00eame jour, la Californie d\u00e9clarait l\u2019\u00e9tat d\u2019urgence pour ses \u00e9levages de bovins.",
+      "url": "https://www.courrierinternational.com/article/sante-un-premier-cas-grave-de-grippe-aviaire-chez-l-humain-confirme-aux-etats-unis_225924",
+      "urlToImage": "https://focus.courrierinternational.com/2024/11/22/64/0/1157/771/1200/630/60/0/c787dcd_afp-36n43xf.jpg",
+      "publishedAt": "2024-12-20 14:39:59",
+      "content": "Un patient en Louisiane a \u00e9t\u00e9 hospitalis\u00e9 pour un cas grave de grippe aviaire H5N1, ont indiqu\u00e9 les Centres am\u00e9ricains pour le contr\u00f4le et la pr\u00e9vention des maladies (CDC). Cest le premier cas de ce \u2026 [+818 chars]",
+      "retrievedAt": "2024-12-21 19:05:23.323023",
+      "internal_id": "7cec18e577addc46b53eaf41dc19588f59563c37e858490659c0bf437acf889d",
+      "publishedAtLabel": "Dec 20"
+    },
+    {
+      "id": 16659,
+      "query": [
+        "hpai"
+      ],
+      "source_id": "nrk",
+      "source_name": "NRK",
+      "author": "NRK",
+      "title": "H\u00f8ypatogen fugleinfluensa p\u00e5vist hos gaupe",
+      "description": "Det er p\u00e5vist h\u00f8ypatogen fugleinfluensa (HPAI) i Kv\u00e6nangen kommune i Troms. Gaupen er trolig smittet etter kontakt med syk eller d\u00f8d fugl. Det opplyser Veterin\u00e6rinstituttet i en pressemelding. \u2013 Dette er f\u00f8rste gang at HPAI av subtypen H5N5 er p\u00e5vist hos gaup\u2026",
+      "url": "https://www.nrk.no/tromsogfinnmark/hoypatogen-fugleinfluensa-pavist-hos-gaupe-1.17179288",
+      "urlToImage": "https://static.nrk.no/nrkno/serum/2.0.513/common/img/default.jpg",
+      "publishedAt": "2024-12-20 14:38:00",
+      "content": "Det er p\u00e5vist h\u00f8ypatogen fugleinfluensa (HPAI) i Kv\u00e6nangen kommune i Troms. Gaupen er trolig smittet etter kontakt med syk eller d\u00f8d fugl. Det opplyser Veterin\u00e6rinstituttet i en pressemelding. Det\u2026 [+442 chars]",
+      "retrievedAt": "2024-12-21 19:05:22.743235",
+      "internal_id": "c520acfc1b6420f34de26c027c656929ab0aaa358a2cbe229821ef9c64c84295",
+      "publishedAtLabel": "Dec 20"
+    },
+    {
+      "id": 16672,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "Louisiana forbids public health workers from promoting COVID, flu and mpox shots (Rosemary Westwood/NPR)",
+      "description": "Rosemary Westwood / NPR: Louisiana forbids public health workers from promoting COVID, flu and mpox shots \u2014 A group of high-level managers at the Louisiana Department of Health walked into a Nov. 14 meeting in Baton Rouge expecting to talk about outreach an\u2026",
+      "url": "https://www.memeorandum.com/241220/p19",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1760x990+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2b%2F7b%2F93df68c244cc964919c87a1201f8%2Fnolo-vax.jpg",
+      "publishedAt": "2024-12-20 14:15:07",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2024-12-21 19:05:25.709852",
+      "internal_id": "33a3bb1c87f013ea45816e6cd16585ea7120d9c98e0345db023a2bb56382392e",
+      "publishedAtLabel": "Dec 20"
+    },
+    {
+      "id": 16662,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Foodpolitics.com",
+      "author": "Marion",
+      "title": "More good news: USDA is requiring testing of raw milk",
+      "description": "Let\u2019s end Food Politics this year (this is the last post until January 6) with some more good news: USDA Builds on Actions to Protect Livestock and Public Health from H5N1 Avian Influenza The Agriculture Department\u2019s Animal and Plant Health Inspection Service\u2026",
+      "url": "https://www.foodpolitics.com/2024/12/more-good-news-usda-is-requiring-testing-of-raw-milk/",
+      "urlToImage": null,
+      "publishedAt": "2024-12-20 14:00:24",
+      "content": "Let\u2019s end Food Politics this year (this is the last post until January 6) with some more good news: USDA Builds on Actions to Protect Livestock and Public Health from H5N1 Avian Influenza The Agricu\u2026 [+1331 chars]",
+      "retrievedAt": "2024-12-21 19:05:23.377835",
+      "internal_id": "b7b34d732c1c8da5ad20e837e949726cc52a146d7a710cfb231612ddd4a7a585",
+      "publishedAtLabel": "Dec 20"
+    },
+    {
+      "id": 16670,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Muluken Assefa, Fekadu Massebo, Temesgen Ashine, Teklu Wegayehu",
+      "title": "Population travel increases the risk of Plasmodium falciparum infection in the highland population of Gardula Zone, South Ethiopia: A longitudinal study",
+      "description": "Population movement influences malaria epidemiology and can be a threat to malaria control and elimination. In Ethiopia, highland dwellers often travel to lowland areas where malaria is endemic. The current study aimed to assess the incidence of malaria and r\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0315900",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0315900.t005&size=inline",
+      "publishedAt": "2024-12-20 14:00:00",
+      "content": "Abstract Population movement influences malaria epidemiology and can be a threat to malaria control and elimination. In Ethiopia, highland dwellers often travel to lowland areas where malaria is end\u2026 [+37978 chars]",
+      "retrievedAt": "2024-12-21 19:05:24.963036",
+      "internal_id": "d10cfdebb963ab8623db28e9f62a53c7d32185c6f27c832300b078e9e1db0e1f",
+      "publishedAtLabel": "Dec 20"
+    },
+    {
+      "id": 16663,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Shtfplan.com",
+      "author": "Mac Slavo",
+      "title": "Here It Comes: California Has Declared A State Of Emergency Due To The Bird Flu",
+      "description": "Are we on the verge of another major public health crisis? Will we soon see the return of lockdowns, shutdowns, testing, masks, and mandates? Since 2022, the H5N1 bird flu has been causing chaos all over the globe.",
+      "url": "https://www.shtfplan.com/headline-news/here-it-comes-california-has-declared-a-state-of-emergency-due-to-the-bird-flu",
+      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2024/05/birdflu1.jpg",
+      "publishedAt": "2024-12-20 13:30:40",
+      "content": "This article was originally published by Michael Snyder at The End of the American Dream. Are we on the verge of another major public health crisis? Will we soon see the return of lockdowns, shutd\u2026 [+7600 chars]",
+      "retrievedAt": "2024-12-21 19:05:23.413844",
+      "internal_id": "5355f58f28eef1558be57fc019c4ac3e3538c6887fb1a84b6893c669c557f4d2",
+      "publishedAtLabel": "Dec 20"
+    },
+    {
+      "id": 16664,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Khan.co.kr",
+      "author": "\uae40\ucc3d\ud6a8 \uc120\uc784\uae30\uc790 chkim@kyunghyang.com",
+      "title": "\uae40\ud3ec\uc11c \uc0b0\ub780\uacc4 \ub18d\uc7a5\uc11c \uace0\ubcd1\uc6d0\uc131 AI\u00b7\u00b7\u00b7\uc804\uad6d 13\ubc88\uc9f8 \ubc1c\uc0dd",
+      "description": "\ud55c \uc721\uc6a9 \uc624\ub9ac\ub18d\uc7a5\uc5d0\uc11c \uace0\uc6d0\ubcd1\uc6d0 \uc870\ub958\uc778\ud50c\ub8e8\uc5d4\uc790(AI)\uac00 \uac80\ucd9c\ub3fc \ubc29\uc5ed \ub2f9\uad6d \uad00\uacc4\uc790\ub4e4\uc774 \ubd84\uc8fc\ud788 \uc6c0\uc9c1\uc774\uace0 \uc788\ub2e4. \uc5f0\ud569\ub274\uc2a4 \uace0\ubcd1\uc6d0\uc131 \uc870\ub958\uc778\ud50c\ub8e8\uc5d4\uc790(AI) \uc911\uc559\uc0ac\uace0\uc218\uc2b5\ubcf8\ubd80\ub294 \uacbd\uae30 \uae40\ud3ec\uc2dc\uc758 \ud55c \uc0b0\ub780\uacc4 \ub18d\uc7a5\uc5d0\uc11c \uace0\ubcd1\uc6d0\uc131 AI(H5N1) \uac10\uc5fc \uc0ac\ub840\uac00 \ub098\uc654\ub2e4\uace0 20\uc77c \ubc1d\ud614\ub2e4. \uc911\uc218\ubcf8\uc740 \uacbd\uae30\ub3c4 \ub3d9\ubb3c\uc704\uc0dd\uc2dc\ud5d8\uc18c\uac00 \uc608\ucc30 \uac80\uc0ac\ub97c \ud558\ub358 \uc911 \ubc1c\uc0dd \uc0ac\uc2e4\uc744 \ud655\uc778\ud588\ub2e4\uace0 \ubc1d\ud614\ub2e4. \uc774\ub294 \uc62c\ud574\u00b7\u00b7\u00b7",
+      "url": "https://www.khan.co.kr/article/202412202156001",
+      "urlToImage": "https://img.khan.co.kr/news/2024/12/20/news-p.v1.20241220.9c52c48476db429a858c15823a401064_P1.jpg",
+      "publishedAt": "2024-12-20 12:56:00",
+      "content": "(AI) . (AI) AI(H5N1) 20 . . 13 . AI . 75000 . 38 , \u00b7\u00b7 . 12 AI 451000 (8120) 0.5% .",
+      "retrievedAt": "2024-12-21 19:05:23.432607",
+      "internal_id": "2d11d687f8f1b715ceb1d3e0388d0eaa4692c0e45e9ec9b26358ae81336e72a3",
+      "publishedAtLabel": "Dec 20"
+    },
+    {
+      "id": 16661,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Zoomit.ir",
+      "author": "\u0645\u0631\u06cc\u0645 \u0635\u0641\u062f\u0631\u06cc",
+      "title": "\u062a\u0627\u06cc\u06cc\u062f \u0627\u0648\u0644\u06cc\u0646 \u0645\u0648\u0631\u062f \u0627\u0628\u062a\u0644\u0627\u06cc \u0634\u062f\u06cc\u062f \u0627\u0646\u0633\u0627\u0646 \u0628\u0647 \u0622\u0646\u0641\u0644\u0648\u0627\u0646\u0632\u0627\u06cc \u067e\u0631\u0646\u062f\u06af\u0627\u0646 \u062f\u0631 \u0622\u0645\u0631\u06cc\u06a9\u0627",
+      "description": "\u062f\u0631 \u067e\u06cc \u0634\u0646\u0627\u0633\u0627\u06cc\u06cc \u0645\u0648\u0631\u062f \u0634\u062f\u06cc\u062f\u06cc \u0627\u0632 \u0622\u0646\u0641\u0644\u0648\u0627\u0646\u0632\u0627\u06cc \u067e\u0631\u0646\u062f\u06af\u0627\u0646 \u062f\u0631 \u0627\u0646\u0633\u0627\u0646\u200c\u0647\u0627\u060c \u0627\u06cc\u0627\u0644\u062a \u06a9\u0627\u0644\u06cc\u0641\u0631\u0646\u06cc\u0627 \u0628\u0631\u0627\u06cc \u062a\u0642\u0648\u06cc\u062a \u0648\u0627\u06a9\u0646\u0634 \u062e\u0648\u062f\u060c \u0648\u0636\u0639\u06cc\u062a \u0627\u0636\u0637\u0631\u0627\u0631\u06cc \u0627\u0639\u0644\u0627\u0645 \u06a9\u0631\u062f\u0647 \u0627\u0633\u062a.",
+      "url": "https://www.zoomit.ir/health-medical/431540-us-first-severe-illness-human-case-bird-flu/",
+      "urlToImage": "https://api2.zoomit.ir/media/bird-flu-67651e957576f088f9be5384",
+      "publishedAt": "2024-12-20 12:25:00",
+      "content": ". . . . . . (CDC) . H5N1 . . H5 . . . . . . H5N1 D1.1 . . D1.1 B3.13 . B3.13 . . . . SAS . . mRNA . (H5N1) . . . . .",
+      "retrievedAt": "2024-12-21 19:05:23.342043",
+      "internal_id": "45e4c7a15c9a3eab981bcba9fc3281f9bf92f4728eb56d53e22f6ab086e1e767",
+      "publishedAtLabel": "Dec 20"
+    },
+    {
+      "id": 16665,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Faz.net",
+      "author": "Pia Heinemann",
+      "title": "H5N1 in Louisiana: Schwere Vogelgrippe-Erkrankungen bei Menschen",
+      "description": "In Louisiana wurde ein Mann ins Krankenhaus eingeliefert, weil er schwer an einer H5N1-Infektion erkrankt ist. Es ist der zweite heftige Verlauf innerhalb weniger Wochen. Was bedeutet das f\u00fcr die Pandemiegefahr?",
+      "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/schwer-erkrankter-patient-droht-eine-pandemie-mit-h5n1-110186671.html",
+      "urlToImage": "https://media1.faz.net/ppmedia/aktuell/3260546398/1.10186889/facebook_teaser/vogelgrippeviren-gelb-in.jpg",
+      "publishedAt": "2024-12-20 10:40:16",
+      "content": "Diese Variante war zuvor bei einem schwer an der Vogelgrippe erkrankten Jugendlichen in British Columbia, Kanada, gefunden worden. Auch im benachbarten US-Bundesstaat Washington war diese Variante be\u2026 [+6416 chars]",
+      "retrievedAt": "2024-12-21 19:05:23.466497",
+      "internal_id": "ed56b1967e1e8adb59d538a22c119a662847f6664ceae692665770a2a68a7669",
+      "publishedAtLabel": "Dec 20"
+    },
+    {
+      "id": 16671,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Rosemary Westwood",
+      "title": "Louisiana forbids public health workers from promoting COVID, flu and mpox shots",
+      "description": "An NPR investigation found Louisiana health officials told staff to stop promoting vaccines for COVID, flu and mpox, holding flu shot events or otherwise encouraging the public to get those vaccines.",
+      "url": "https://www.npr.org/sections/shots-health-news/2024/12/20/nx-s1-5223440/louisiana-ban-public-health-promoting-covid-flu-mpox-vaccines-landry-rfk-jr-anti-vaccine",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1760x990+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2b%2F7b%2F93df68c244cc964919c87a1201f8%2Fnolo-vax.jpg",
+      "publishedAt": "2024-12-20 10:00:35",
+      "content": "A group of high-level managers at the Louisiana Department of Health walked into a Nov. 14 meeting in Baton Rouge expecting to talk about outreach and community events. Instead, they were told by an\u2026 [+17691 chars]",
+      "retrievedAt": "2024-12-21 19:05:25.702682",
+      "internal_id": "a56c153297100b34ddea19b771a169d492f82080fdf12a7dea3c8578337bb1ae",
+      "publishedAtLabel": "Dec 20"
+    },
+    {
+      "id": 16666,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Globalsecurity.org",
+      "author": "John Pike",
+      "title": "U.S. California declares state of emergency over bird flu",
+      "description": "California Governor Gavin Newsom on Wednesday declared a state of emergency in response to the outbreak of Avian influenza A (H5N1), commonly known as bird flu, which has infected 34 people in the Golden State.",
+      "url": "https://www.globalsecurity.org/security/library/news/2024/12/sec-241219-pdo02.htm",
+      "urlToImage": null,
+      "publishedAt": "2024-12-20 08:18:10",
+      "content": "People's Daily Online (Xinhua) 13:12, December 19, 2024 LOS ANGELES, Dec. 18 (Xinhua) -- California Governor Gavin Newsom on Wednesday declared a state of emergency in response to the outbreak of A\u2026 [+1370 chars]",
+      "retrievedAt": "2024-12-21 19:05:23.479284",
+      "internal_id": "b31aab8977359539bf7382d2e1f72363efdcc1feb520636035c5fc728ace725c",
+      "publishedAtLabel": "Dec 20"
+    },
     {
       "id": 16657,
       "query": [
@@ -25721,132 +26009,6 @@
       "content": "El triple campe\u00f3n del mundo neerland\u00e9s Max Verstappen (Red Bull) dio un golpe de autoridad en su ad\u00e1n por ganar un cuarto t\u00edtulo seguido y reforz\u00f3 su liderato en el Mundial de F\u00f3rmula Uno al ganar de\u2026 [+9488 chars]",
       "retrievedAt": "2024-11-05 07:06:27.126213",
       "internal_id": "2ca6258c8c8c4e3bae727acd8d98f3acda50a4e4c509cae83cc73d789701af78",
-      "publishedAtLabel": "Nov 3"
-    },
-    {
-      "id": 15228,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Memeorandum.com",
-      "author": null,
-      "title": "Trump Thinks America Wants His Perversions (A.B. Stoddard/The Bulwark)",
-      "description": "A.B. Stoddard / The Bulwark: Trump Thinks America Wants His Perversions \u2014 Let's hope he is wrong. \u2014 MEASLES, MISINFORMATION, a \u201cvigorous spanking\u201d of misogyny\u2014whether women like it or not\u2014a violent nine-gun fantasy for political enemies, crudeness, petty \u2026",
-      "url": "https://www.memeorandum.com/241103/p22",
-      "urlToImage": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7beacf28-6b55-4b8a-8c4a-5019eaabf5a3_2439x1627.jpeg",
-      "publishedAt": "2024-11-03 15:45:00",
-      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
-      "retrievedAt": "2024-11-04 19:06:03.800086",
-      "internal_id": "48a14302ed577d62c426b6acc90cf0926c91407304620d568186b61dcddec5ff",
-      "publishedAtLabel": "Nov 3"
-    },
-    {
-      "id": 15226,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Just Jared",
-      "author": "Just Jared",
-      "title": "Social Media Star Peanut the Squirrel Euthanized by New York State, Owners Plan to Take Legal Action",
-      "description": "Peanut the Squirrel is making waves worldwide. The beloved social media star, with over 619,000 followers on Instagram and 100,000 followers on TikTok alone, was sadly euthanized by New York state wildlife officials as part of a test for rabies, via CBS News.\u2026",
-      "url": "https://www.justjared.com/2024/11/03/social-media-star-peanut-the-squirrel-euthanized-by-new-york-state-owners-plan-to-take-legal-action/",
-      "urlToImage": "https://cdn01.justjared.com/wp-content/uploads/headlines/2024/11/peanut-squirrel-dead-social.jpg",
-      "publishedAt": "2024-11-03 14:18:23",
-      "content": "Peanut the Squirrel is making waves worldwide. The beloved social media star, with over 619,000 followers on Instagram and 100,000 followers on TikTok alone, was sadly euthanized by New York state w\u2026 [+2459 chars]",
-      "retrievedAt": "2024-11-04 19:06:03.349995",
-      "internal_id": "9a8861ed7ebbc1519ee612a4d852bf9c444c0f4abb33908da3152e8f916d5c72",
-      "publishedAtLabel": "Nov 3"
-    },
-    {
-      "id": 15227,
-      "query": [
-        "rabies"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "ET Online",
-      "title": "Why Instagram-famous 'Peanut the Squirrel' was euthanised by NY officials? The controversy that caught US elections by storm",
-      "description": "Peanut, an Instagram-famous squirrel, was euthanized by New York authorities to test for rabies, sparking outrage and controversy. Owner Mark Longo claims his home was raided for hours, while Elon Musk criticized the government's actions on social media, ampl\u2026",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/why-instagram-famous-peanut-the-squirrel-was-euthanised-by-ny-officials-the-controversy-that-caught-us-elections-by-storm/articleshow/114913238.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-114913212,width-1200,height-630,imgsize-74122,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2024-11-03 12:38:37",
-      "content": "An Instagram-famed squirrel being euthanised has boiled down to a controversy, taking major attention in the weekend leading to US elections scheduled for Nov 5. Following the incident, the far-right\u2026 [+2561 chars]",
-      "retrievedAt": "2024-11-04 19:06:03.390479",
-      "internal_id": "c280846f493a6206fb055952c7e3a553fc0bd42119c544aad15f6f640a5c0675",
-      "publishedAtLabel": "Nov 3"
-    },
-    {
-      "id": 15230,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "ynet",
-      "source_name": "Ynet",
-      "author": "\u05e6\u05d5\u05e8 \u05d2\u05d5\u05d0\u05d8\u05d4",
-      "title": "\u05d7\u05d6\u05d9\u05e8 \u05e0\u05d3\u05d1\u05e7 \u05d1\u05e9\u05e4\u05e2\u05ea \u05d4\u05e2\u05d5\u05e4\u05d5\u05ea \u05d1\u05d0\u05e8\u05d4\"\u05d1: \"\u05d7\u05e9\u05e9 \u05de\u05d5\u05d5\u05d9\u05e8\u05d5\u05e1 \u05d7\u05d3\u05e9 \u05d5\u05d0\u05dc\u05d9\u05dd \u05e9\u05d9\u05d3\u05d1\u05d9\u05e7 \u05d1\u05e0\u05d9 \u05d0\u05d3\u05dd\"",
-      "description": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d7\u05e7\u05dc\u05d0\u05d5\u05ea \u05d4\u05d0\u05de\u05e8\u05d9\u05e7\u05e0\u05d9 \u05d3\u05d9\u05d5\u05d5\u05d7 \u05d1\u05d0\u05d7\u05e8\u05d5\u05e0\u05d4 \u05e2\u05dc \u05de\u05e7\u05e8\u05d4 \u05e8\u05d0\u05e9\u05d5\u05df \u05e9\u05dc \u05e9\u05e4\u05e2\u05ea \u05d4\u05e2\u05d5\u05e4\u05d5\u05ea \u05de\u05d6\u05df H5N1 \u05d1\u05d7\u05d6\u05d9\u05e8\u05d9\u05dd. \u05d4\u05d7\u05d5\u05d5\u05d4 \u05d1\u05d0\u05d5\u05e8\u05d2\u05d5\u05df \u05e9\u05d1\u05d4 \u05d4\u05ea\u05d2\u05dc\u05ea\u05d4 \u05d4\u05d4\u05d3\u05d1\u05e7\u05d4 \u05d4\u05d5\u05db\u05e0\u05e1\u05d4 \u05dc\u05d4\u05e1\u05d2\u05e8, \u05d5\u05e0\u05d1\u05d3\u05e7\u05ea \u05d4\u05d0\u05e4\u05e9\u05e8\u05d5\u05ea \u05dc\u05d4\u05e2\u05d1\u05e8\u05d4 \u05e9\u05dc \u05d4\u05e0\u05d2\u05d9\u05e3 \u05de\u05e2\u05d5\u05e4\u05d5\u05ea \u05dc\u05d9\u05d5\u05e0\u05e7\u05d9\u05dd. \u05e4\u05e8\u05d5\u05e4' \u05d9\u05e9\u05e8\u05d0\u05dc \u05e4\u05d5\u05d8\u05e1\u05de\u05df, \u05de\u05d5\u05de\u05d7\u05d4 \u05dc\u05de\u05d7\u05dc\u05d5\u05ea \u05d6\u05d9\u05d4\u05d5\u05de\u05d9\u05d5\u05ea \u05d1\u05de\u05db\u05d1\u05d9: \"\u05d7\u05d6\u05d9\u05e8\u05d9\u05dd \u05d3\u05d5\u05de\u05d9\u05dd \u05dc\u05d1\u05e0\u05d9 \u05d0\u05d3\u05dd \u05d1\u05d2\u05e0\u05d8\u05d9\u05e7\u05d4 \u05e9\u05dc\u05d4\u2026",
-      "url": "https://www.ynet.co.il/health/article/byho112vbkl",
-      "urlToImage": "https://ynet-pic1.yit.co.il/picserver5/crop_images/2024/11/03/By111e6NWJl/By111e6NWJl_0_59_1000_563_0_large.jpg",
-      "publishedAt": "2024-11-03 12:36:58",
-      "content": ", \"\" - . . H1N1 -2009 , . ' , , : \" , , . , , -. - \". \" , , , : \" , , () . , , , . \". ' \" . \" , , \". : \" . , \". . \" , , , . \" '' , . \", .",
-      "retrievedAt": "2024-11-04 19:06:04.715626",
-      "internal_id": "da5eb6f3b6e1d7b28854ff56526c6fe03880a6b195d33071c9e3c4abecc9d5a8",
-      "publishedAtLabel": "Nov 3"
-    },
-    {
-      "id": 15232,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "VOA News",
-      "author": "webdesk@voanews.com (Associated Press)",
-      "title": "Mpox cases in Congo may be stabilizing, but more vaccines needed to stamp out virus",
-      "description": "Goma, Congo \u2014 Some health officials say mpox cases in Congo appear to be \u201cstabilizing\u201d \u2014 a possible sign that the main epidemic for which the World Health Organization made a global emergency declaration in August might be on the decline. In recent weeks,\u2026",
-      "url": "https://www.voanews.com/a/mpox-cases-in-congo-may-be-stabilizing-but-more-vaccines-needed-to-stamp-out-virus-/7849399.html",
-      "urlToImage": "https://gdb.voanews.com/38E367F4-5A38-40E6-8148-15ADC0E2527D.jpg",
-      "publishedAt": "2024-11-03 12:21:25",
-      "content": "Goma, Congo Some health officials say mpox cases in Congo appear to be stabilizing a possible sign that the main epidemic for which the World Health Organization made a global emergency declaration \u2026 [+4734 chars]",
-      "retrievedAt": "2024-11-04 19:06:06.577063",
-      "internal_id": "5088c984af91dc35899b1ae0f4fd2795c97d4e1b73e817925d6683620bfdcd0b",
-      "publishedAtLabel": "Nov 3"
-    },
-    {
-      "id": 15231,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "Suman Chakraborti",
-      "title": "Kolkata reports second dengue death in Bidhannagar amid declining cases",
-      "description": "Shibani Das, 69, from Gopalpur Sarat Pally in Bidhannagar, died of dengue on Saturday. This is the second dengue death in the area this year. Kolkata has recorded lower dengue cases this year compared to previous years, with precautionary measures in place. O\u2026",
-      "url": "https://timesofindia.indiatimes.com/city/kolkata/kolkata-reports-second-dengue-death-in-bidhannagar-area-amid-declining-cases/articleshow/114910748.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-114910667,width-1070,height-580,imgsize-32062,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-11-03 10:18:16",
-      "content": "9 animals that live in rainforests",
-      "retrievedAt": "2024-11-04 19:06:05.095710",
-      "internal_id": "740c1ce1211164e71f7d8b5c5fe40b97b04759d42431bc0acd37f59e13305bb6",
-      "publishedAtLabel": "Nov 3"
-    },
-    {
-      "id": 15229,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Faz.net",
-      "author": "Pia Heinemann",
-      "title": "\u201eDer Mensch ist bislang kein guter Wirt\u201c",
-      "description": "Ein Schwein in den USA ist positiv auf das weltweit grassierende Vogelgrippevirus getestet worden. Warum das absehbar war \u2013 und was es bedeutet.",
-      "url": "https://www.faz.net/aktuell/wissen/leben-gene/vogelgrippe-was-der-uebersprung-aufs-schwein-bedeutet-110083432.html",
-      "urlToImage": "https://media0.faz.net/ppmedia/aktuell/110701573/1.10085608/facebook_teaser_fplus/drei-h5n1-partikel-in-einer.jpg",
-      "publishedAt": "2024-11-03 07:09:20",
-      "content": "Um das Vogelgrippevirus H5N1 kehr keine Ruhe ein. Zuletzt wurde es bei einem Schwein auf einem kleinen Hof in Oregon gefunden. Dort waren G\u00e4nse, H\u00fchner, Schafe, Ziegen und Schweine gehalten worden. A\u2026 [+333 chars]",
-      "retrievedAt": "2024-11-04 19:06:04.553350",
-      "internal_id": "f2c071b0e101c3cee4423bd66447e61c55910efc125983d549ca156dff89672d",
       "publishedAtLabel": "Nov 3"
     }
   ]

@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 11
-- **Last harvest:** 2024-12-21 07:05
-- **Most recent article:** 2024-12-20 02:31:29
+- **New articles in last harvest:** 16
+- **Last harvest:** 2024-12-21 19:05
+- **Most recent article:** 2024-12-20 18:17:00
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-45 | 24-46 | 24-47 | 24-48 | 24-49 | 24-50 | 24-51 | Total |
 |--|-|-|-|-|-|-|-|-|
-| h5n1 | 36 | 40 | 50 | 38 | 70 | 61 | 81 | 376 |
-| mpox | 61 | 62 | 76 | 26 | 20 | 26 | 77 | 348 |
-| malaria | 26 | 33 | 27 | 29 | 27 | 76 | 45 | 263 |
-| dengue | 31 | 36 | 28 | 25 | 10 | 33 | 29 | 192 |
-| measles | 3 | 33 | 11 | 6 | 9 | 10 | 4 | 76 |
-| rabies | 5 | 11 | 7 | 12 | 13 | 3 | 7 | 58 |
+| h5n1 | 34 | 40 | 50 | 38 | 70 | 61 | 88 | 381 |
+| mpox | 60 | 62 | 76 | 26 | 20 | 26 | 81 | 351 |
+| malaria | 26 | 33 | 27 | 29 | 27 | 76 | 48 | 266 |
+| dengue | 30 | 36 | 28 | 25 | 10 | 33 | 29 | 191 |
+| measles | 2 | 33 | 11 | 6 | 9 | 10 | 4 | 75 |
+| rabies | 3 | 11 | 7 | 12 | 13 | 3 | 7 | 56 |
 | chikungunya | 2 | 3 | 5 | 4 | 6 | 7 | 8 | 35 |
 | pertussis | 3 | 8 | 5 | 1 | 4 | 6 | 3 | 30 |
 | zika | 9 | 4 | 3 | 1 | 4 | 4 | 4 | 29 |
-| meningitis | 4 | 2 | 5 | 3 | 3 | 7 | 3 | 27 |
-| hpai | 4 | 4 | 4 | 0 | 2 | 4 | 5 | 23 |
+| meningitis | 4 | 2 | 5 | 3 | 3 | 7 | 4 | 28 |
+| hpai | 4 | 4 | 4 | 0 | 2 | 4 | 6 | 24 |
 | leptospirosis | 10 | 3 | 0 | 2 | 0 | 3 | 0 | 18 |
 | typhoid | 1 | 1 | 3 | 1 | 0 | 1 | 0 | 7 |
 | yersinia | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 2 |
@@ -68,6 +68,14 @@ Source: [News API](https://newsapi.org/)
 - [Keuchhusten mit hohen Fallzahlen](https://tirol.orf.at/stories/3285693/) (Tirol.orf.at)
 
 ## 24-51 (mpox)
+
+- [Casi 70.000 casos y 1.268 muertes por mpox en África durante 2024](https://www.montevideo.com.uy/Salud/Casi-70-000-casos-y-1-268-muertes-por-mpox-en-Africa-durante-2024-uc910082) (Montevideo.com.uy)
+
+- [Mpox cases in Africa near 70,000 mark: Africa CDC](https://www.thestar.com.my/news/world/2024/12/21/mpox-cases-in-africa-near-70000-mark-africa-cdc) (The Star Online)
+
+- [Louisiana forbids public health workers from promoting COVID, flu and mpox shots (Rosemary Westwood/NPR)](https://www.memeorandum.com/241220/p19) (Memeorandum.com)
+
+- [Louisiana forbids public health workers from promoting COVID, flu and mpox shots](https://www.npr.org/sections/shots-health-news/2024/12/20/nx-s1-5223440/louisiana-ban-public-health-promoting-covid-flu-mpox-vaccines-landry-rfk-jr-anti-vaccine) (NPR)
 
 - [En Afrique, à quand la santé pour tous et partout ?](https://www.lemonde.fr/afrique/article/2024/12/19/en-afrique-a-quand-la-sante-pour-tous-et-partout_6457297_3212.html) (Le Monde)
 
@@ -225,6 +233,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-51 (meningitis)
 
+- [Meningitis Clinical Trials Review 2024 - Clinical Trials by Region, Country, Phase, Trial Status, End Points Status and Sponsor Type](https://www.globenewswire.com/news-release/2024/12/20/3000681/28124/en/Meningitis-Clinical-Trials-Review-2024-Clinical-Trials-by-Region-Country-Phase-Trial-Status-End-Points-Status-and-Sponsor-Type.html) (GlobeNewswire)
+
 - [Meningococcal Vaccine Market is Set to Grow from USD 3,950.2 Million in 2024 to USD 9,014 Million by 2034, Registering a Robust CAGR of 8.6% | FMI](https://www.globenewswire.com/news-release/2024/12/19/2999459/0/en/Meningococcal-Vaccine-Market-is-Set-to-Grow-from-USD-3-950-2-Million-in-2024-to-USD-9-014-Million-by-2034-Registering-a-Robust-CAGR-of-8-6-FMI.html) (GlobeNewswire)
 
 - [Targeted metabolomics investigation of metabolic markers of Mycobacterium tuberculosis in the cerebrospinal fluid of paediatric patients with tuberculous meningitis](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0314854) (Plos.org)
@@ -242,6 +252,12 @@ Source: [News API](https://newsapi.org/)
 - [Toddler diagnosed with measles in Brisbane had passed through multiple airports](https://www.9news.com.au/national/measles-alert-brisbane-two-year-old-boy-confirmed-case/f3b785ff-9686-41fa-9be9-70a51899d530) (9News)
 
 ## 24-51 (malaria)
+
+- [India registers 'significant progress' in reducing malaria cases: WHO](https://economictimes.indiatimes.com/news/india/india-registers-significant-progress-in-reducing-malaria-cases-who/articleshow/116511733.cms) (The Times of India)
+
+- [India registers 'significant progress' in reducing malaria cases: WHO](https://timesofindia.indiatimes.com/india/india-registers-significant-progress-in-reducing-malaria-cases-who/articleshow/116510603.cms) (The Times of India)
+
+- [Population travel increases the risk of Plasmodium falciparum infection in the highland population of Gardula Zone, South Ethiopia: A longitudinal study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0315900) (Plos.org)
 
 - [CDC Confirms Malaria Likely Culprit in Deadly DR Congo Outbreak Mystery](https://www.sciencealert.com/cdc-confirms-malaria-likely-culprit-in-deadly-dr-congo-outbreak-mystery) (ScienceAlert)
 
@@ -335,6 +351,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-51 (hpai)
 
+- [Høypatogen fugleinfluensa påvist hos gaupe](https://www.nrk.no/tromsogfinnmark/hoypatogen-fugleinfluensa-pavist-hos-gaupe-1.17179288) (NRK)
+
 - [Statutory guidance: Bird flu: licence to move and spread used poultry litter, manure and slurry in a protection or surveillance zone](https://www.gov.uk/government/publications/bird-flu-licence-to-move-and-spread-used-poultry-litter-manure-and-slurry-in-a-protection-or-surveillance-zone) (Www.gov.uk)
 
 - [Bird flu identified in Kenosha County poultry flock](https://www.wisn.com/article/kenosha-county-bird-flu-identified-poultry-flock/63229134) (WISN Milwaukee)
@@ -346,6 +364,20 @@ Source: [News API](https://newsapi.org/)
 - [Helport AI to Participate in Fireside Chat with Alliance Global Partners on December 17, 2024](https://www.globenewswire.com/news-release/2024/12/16/2997534/0/en/Helport-AI-to-Participate-in-Fireside-Chat-with-Alliance-Global-Partners-on-December-17-2024.html) (GlobeNewswire)
 
 ## 24-51 (h5n1)
+
+- [Un premier cas grave de grippe aviaire chez l’humain confirmé aux États-Unis](https://www.courrierinternational.com/article/sante-un-premier-cas-grave-de-grippe-aviaire-chez-l-humain-confirme-aux-etats-unis_225924) (Courrier International)
+
+- [More good news: USDA is requiring testing of raw milk](https://www.foodpolitics.com/2024/12/more-good-news-usda-is-requiring-testing-of-raw-milk/) (Foodpolitics.com)
+
+- [Here It Comes: California Has Declared A State Of Emergency Due To The Bird Flu](https://www.shtfplan.com/headline-news/here-it-comes-california-has-declared-a-state-of-emergency-due-to-the-bird-flu) (Shtfplan.com)
+
+- [김포서 산란계 농장서 고병원성 AI···전국 13번째 발생](https://www.khan.co.kr/article/202412202156001) (Khan.co.kr)
+
+- [تایید اولین مورد ابتلای شدید انسان به آنفلوانزای پرندگان در آمریکا](https://www.zoomit.ir/health-medical/431540-us-first-severe-illness-human-case-bird-flu/) (Zoomit.ir)
+
+- [H5N1 in Louisiana: Schwere Vogelgrippe-Erkrankungen bei Menschen](https://www.faz.net/aktuell/wissen/medizin-ernaehrung/schwer-erkrankter-patient-droht-eine-pandemie-mit-h5n1-110186671.html) (Faz.net)
+
+- [U.S. California declares state of emergency over bird flu](https://www.globalsecurity.org/security/library/news/2024/12/sec-241219-pdo02.htm) (Globalsecurity.org)
 
 - [Nueva alarma de gripe aviar en EEUU con dos caras del virus en circulación: "El riesgo de que una mutación se transmita en humanos aumenta"](https://www.elmundo.es/ciencia-y-salud/salud/2024/12/20/676463e0e85ece75668b4572.html) (El Mundo)
 
@@ -2795,10 +2827,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Expert Says Unlikely Peanut Had Rabies, Officials Might Have Been Impulsive](https://www.tmz.com/2024/11/05/peanut-squirrel-unlikely-had-rabies-expert/) (TMZ)
 
-- [Social Media Star Peanut the Squirrel Euthanized by New York State, Owners Plan to Take Legal Action](https://www.justjared.com/2024/11/03/social-media-star-peanut-the-squirrel-euthanized-by-new-york-state-owners-plan-to-take-legal-action/) (Just Jared)
-
-- [Why Instagram-famous 'Peanut the Squirrel' was euthanised by NY officials? The controversy that caught US elections by storm](https://economictimes.indiatimes.com/news/international/global-trends/why-instagram-famous-peanut-the-squirrel-was-euthanised-by-ny-officials-the-controversy-that-caught-us-elections-by-storm/articleshow/114913238.cms) (The Times of India)
-
 ## 24-45 (pertussis)
 
 - [Whooping cough found at NMU](https://www.wnmufm.org/health/2024-11-05/whooping-cough-found-at-nmu) (Wnmufm.org)
@@ -2929,8 +2957,6 @@ Source: [News API](https://newsapi.org/)
 
 - [More cases of new mpox strain detected in UK](https://news.sky.com/story/mpox-more-cases-of-new-clade-1b-strain-detected-in-uk-13248258) (Sky.com)
 
-- [Mpox cases in Congo may be stabilizing, but more vaccines needed to stamp out virus](https://www.voanews.com/a/mpox-cases-in-congo-may-be-stabilizing-but-more-vaccines-needed-to-stamp-out-virus-/7849399.html) (VOA News)
-
 ## 24-45 (meningitis)
 
 - [Signs of deadly infection passed through sharing straws following the death of 19-year-old after music festival](https://www.ladbible.com/news/health/meningitis-b-signs-deadly-infection-710455-20241107) (LADbible)
@@ -2946,8 +2972,6 @@ Source: [News API](https://newsapi.org/)
 - [Number of confirmed measles cases in New Brunswick rises to 25](https://www.cbc.ca/news/canada/new-brunswick/nov-9-measles-update-1.7379486) (CBC News)
 
 - [Trump May End Water Fluoridation On Day One, Will Consider Banning Vaccines](https://www.wonkette.com/p/trump-may-end-water-fluoridation) (Wonkette.com)
-
-- [Trump Thinks America Wants His Perversions (A.B. Stoddard/The Bulwark)](https://www.memeorandum.com/241103/p22) (Memeorandum.com)
 
 ## 24-45 (malaria)
 
@@ -3105,10 +3129,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Highly Pathogenic Avian Influenza A(H5N1) Virus Infection in Cats, South Korea, 2023](https://wwwnc.cdc.gov/eid/article/30/12/24-0154_article) (Cdc.gov)
 
-- [חזיר נדבק בשפעת העופות בארה"ב: "חשש מווירוס חדש ואלים שידביק בני אדם"](https://www.ynet.co.il/health/article/byho112vbkl) (Ynet)
-
-- [„Der Mensch ist bislang kein guter Wirt“](https://www.faz.net/aktuell/wissen/leben-gene/vogelgrippe-was-der-uebersprung-aufs-schwein-bedeutet-110083432.html) (Faz.net)
-
 ## 24-45 (dengue)
 
 - [Lei que prevê contratação de 800 agentes de saúde é publicada no DODF](https://www.metropoles.com/distrito-federal/lei-que-preve-contratacao-de-800-agentes-de-saude-e-publicada-no-dodf) (Metropoles.com)
@@ -3170,8 +3190,6 @@ Source: [News API](https://newsapi.org/)
 - [Baguio: Karaniwang mga sakit, dapat hindi dapat ipagwalang bahala – Dr. Brillantes](https://rpnradio.com/baguio-karaniwang-mga-sakit-dapat-hindi-dapat-ipagwalang-bahala-dr-brillantes/) (Rpnradio.com)
 
 - [Mosquito da dengue pica por cima da roupa? Veja a opinião de especialistas](https://catracalivre.com.br/saude-bem-estar/mosquito-da-dengue-pica-roupa/) (Catracalivre.com.br)
-
-- [Kolkata reports second dengue death in Bidhannagar amid declining cases](https://timesofindia.indiatimes.com/city/kolkata/kolkata-reports-second-dengue-death-in-bidhannagar-area-amid-declining-cases/articleshow/114910748.cms) (The Times of India)
 
 ## 24-45 (chikungunya)
 
