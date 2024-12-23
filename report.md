@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 3
-- **Last harvest:** 2024-12-22 19:05
-- **Most recent article:** 2024-12-21 11:00:00
+- **New articles in last harvest:** 14
+- **Last harvest:** 2024-12-23 07:07
+- **Most recent article:** 2024-12-22 06:38:53
 
 ---
 
@@ -10,28 +10,32 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 24-46 | 24-47 | 24-48 | 24-49 | 24-50 | 24-51 | Total |
-|--|-|-|-|-|-|-|-|
-| h5n1 | 32 | 50 | 38 | 70 | 61 | 90 | 341 |
-| mpox | 61 | 76 | 26 | 20 | 26 | 92 | 301 |
-| malaria | 32 | 27 | 29 | 27 | 76 | 59 | 250 |
-| dengue | 33 | 28 | 25 | 10 | 33 | 30 | 159 |
-| measles | 31 | 11 | 6 | 9 | 10 | 5 | 72 |
-| rabies | 11 | 7 | 12 | 13 | 3 | 7 | 53 |
-| chikungunya | 2 | 5 | 4 | 6 | 7 | 8 | 32 |
-| pertussis | 7 | 5 | 1 | 4 | 6 | 4 | 27 |
-| meningitis | 2 | 5 | 3 | 3 | 7 | 5 | 25 |
-| hpai | 4 | 4 | 0 | 2 | 4 | 6 | 20 |
-| zika | 3 | 3 | 1 | 4 | 4 | 4 | 19 |
-| leptospirosis | 2 | 0 | 2 | 0 | 3 | 0 | 7 |
-| typhoid | 1 | 3 | 1 | 0 | 1 | 0 | 6 |
-| shigellosis | 1 | 0 | 0 | 0 | 0 | 1 | 2 |
-| yersinia | 0 | 1 | 1 | 0 | 0 | 0 | 2 |
+| Disease | 24-46 | 24-47 | 24-48 | 24-49 | 24-50 | 24-51 | 24-52 | Total |
+|--|-|-|-|-|-|-|-|-|
+| h5n1 | 37 | 50 | 38 | 70 | 61 | 101 | 0 | 357 |
+| mpox | 62 | 76 | 26 | 20 | 26 | 92 | 1 | 303 |
+| malaria | 33 | 27 | 29 | 27 | 76 | 60 | 0 | 252 |
+| dengue | 36 | 28 | 25 | 10 | 33 | 30 | 0 | 162 |
+| measles | 32 | 11 | 6 | 9 | 10 | 6 | 0 | 74 |
+| rabies | 11 | 7 | 12 | 13 | 3 | 7 | 0 | 53 |
+| chikungunya | 3 | 5 | 4 | 6 | 7 | 8 | 0 | 33 |
+| pertussis | 8 | 5 | 1 | 4 | 6 | 4 | 0 | 28 |
+| meningitis | 2 | 5 | 3 | 3 | 7 | 5 | 0 | 25 |
+| hpai | 4 | 4 | 0 | 2 | 4 | 6 | 0 | 20 |
+| zika | 4 | 3 | 1 | 4 | 4 | 4 | 0 | 20 |
+| leptospirosis | 3 | 0 | 2 | 0 | 3 | 0 | 0 | 8 |
+| typhoid | 1 | 3 | 1 | 0 | 1 | 0 | 0 | 6 |
+| shigellosis | 1 | 0 | 0 | 0 | 0 | 1 | 0 | 2 |
+| yersinia | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 2 |
 
 
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 24-52 (mpox)
+
+- [Singapore watching four diseases including Covid-19 and mpox,as part of pandemic preparedness, says health minister](https://www.thestar.com.my/aseanplus/aseanplus-news/2024/12/22/singapore-watching-four-diseases-including-covid-19-and-mpoxas-part-of-pandemic-preparedness-says-health-minister) (The Star Online)
 
 ## 24-51 (zika)
 
@@ -273,6 +277,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-51 (measles)
 
+- [Doctors on alert for possible outbreak after AHS issues measles warning for Calgary](https://www.cbc.ca/news/canada/calgary/alberta-doctors-measles-alert-1.7417288) (CBC News)
+
 - [Possible measles exposure at Pearson airport on Dec. 8, Toronto Public Health warns](https://www.cbc.ca/news/canada/toronto/tph-possible-measles-exposure-pearson-airport-1.7416690) (CBC News)
 
 - [AHS alert: Measles exposure at Calgary hospital, airport and grocery store](https://www.cbc.ca/news/canada/calgary/calgary-ahs-measles-exposure-alert-1.7415412) (CBC News)
@@ -292,6 +298,8 @@ Source: [News API](https://newsapi.org/)
 - ['Mystery disease' in Congo turned out to be malaria — and potentially, another disease](https://www.livescience.com/health/viruses-infections-disease/mystery-disease-in-congo-turned-out-to-be-malaria-and-potentially-another-disease) (Live Science)
 
 - [Breaking Public Health Developments: H5N1 Emergency, 'Disease X' as Malaria, Widespread Spike Protein Poisoning, and Vaccine Propaganda](https://petermcculloughmd.substack.com/p/breaking-public-health-developments) (Substack.com)
+
+- [India registers ‘significant progress’ in reducing malaria cases: WHO](https://statetimes.in/india-registers-significant-progress-in-reducing-malaria-cases-who/) (Statetimes.in)
 
 - [India registers 'significant progress' in reducing malaria cases: WHO](https://economictimes.indiatimes.com/news/india/india-registers-significant-progress-in-reducing-malaria-cases-who/articleshow/116511733.cms) (The Times of India)
 
@@ -419,11 +427,21 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-51 (h5n1)
 
+- ["Rischi per le donne in gravidanza". La nuova allerta sull’aviaria](https://www.ilgiornale.it/news/farmaci-e-terapie/rischi-donne-gravidanza-nuova-allerta-sull-aviaria-2414966.html) (Ilgiornale.it)
+
+- [Camille Besombes, infectiologue : « La circulation mondiale du virus hautement pathogène H5N1 est particulièrement préoccupante »](https://www.lemonde.fr/idees/article/2024/12/21/camille-besombes-infectiologue-la-circulation-mondiale-du-virus-hautement-pathogene-h5n1-est-particulierement-preoccupante_6460016_3232.html) (Le Monde)
+
 - [Louisiana Patient Tests Positive For Bird Flu – On Par With Dr. Peter Hotez’s Pandemic Threats](https://www.shtfplan.com/headline-news/louisiana-patient-tests-positive-for-bird-flu-on-par-with-dr-peter-hotezs-pandemic-threats) (Shtfplan.com)
 
 - [Gripe aviária: Entenda por que Califórnia decretou estado de emergência](https://veja.abril.com.br/saude/gripe-aviaria-entenda-por-que-california-decretou-estado-de-emergencia) (Abril.com.br)
 
+- [Gripe aviária: após 1º caso grave nos EUA, qual o risco no Brasil?](https://www.metropoles.com/saude/riscos-da-gripe-aviaria-no-brasil) (Metropoles.com)
+
+- [Medizin: Vogelgrippe: Droht die nächste Pandemie?](https://www.sueddeutsche.de/gesundheit/pandemie-h5n1-li.3169677) (Süddeutsche Zeitung)
+
 - [Un premier cas grave de grippe aviaire chez l’humain confirmé aux États-Unis](https://www.courrierinternational.com/article/sante-un-premier-cas-grave-de-grippe-aviaire-chez-l-humain-confirme-aux-etats-unis_225924) (Courrier International)
+
+- [La OMS estima que el riesgo de la gripe aviar H5N1 es bajo a pesar del creciente número de brotes en animales](https://www.infosalus.com/actualidad/noticia-oms-estima-riesgo-gripe-aviar-h5n1-pesar-creciente-numero-brotes-animales-20241220150141.html) (Infosalus.com)
 
 - [More good news: USDA is requiring testing of raw milk](https://www.foodpolitics.com/2024/12/more-good-news-usda-is-requiring-testing-of-raw-milk/) (Foodpolitics.com)
 
@@ -437,6 +455,8 @@ Source: [News API](https://newsapi.org/)
 
 - [U.S. California declares state of emergency over bird flu](https://www.globalsecurity.org/security/library/news/2024/12/sec-241219-pdo02.htm) (Globalsecurity.org)
 
+- [H5N1 Virus: What Is Avian Flu And Why Is It A Global Health Threat?](https://www.ndtv.com/health/h5n1-virus-what-is-avian-flu-and-why-is-it-a-global-health-threat-7291993) (NDTV News)
+
 - [Nueva alarma de gripe aviar en EEUU con dos caras del virus en circulación: "El riesgo de que una mutación se transmita en humanos aumenta"](https://www.elmundo.es/ciencia-y-salud/salud/2024/12/20/676463e0e85ece75668b4572.html) (El Mundo)
 
 - [”C’est un virus dangereux qui peut avoir un potentiel pandémique. On peut en effet imaginer un scénario catastrophe où deux éléments se combinent”](https://www.lalibre.be/planete/sante/2024/12/19/cest-un-virus-dangereux-qui-peut-avoir-un-potentiel-pandemique-on-peut-en-effet-imaginer-un-scenario-catastrophe-ou-deux-elements-se-combinent-O4GML4G5RNHGLAPNSHGWVTXWYU/) (Lalibre.be)
@@ -444,6 +464,10 @@ Source: [News API](https://newsapi.org/)
 - [米国で初の鳥インフル重症患者、加州が非常事態宣言、乳牛に拡大](https://natgeo.nikkeibp.co.jp/atcl/news/24/122000702/?rss) (Nikkeibp.co.jp)
 
 - [New vaccines show promise against seasonal, H5N1 flu strains](https://www.dw.com/en/new-vaccines-show-promise-against-seasonal-h5n1-flu-strains/a-71111141) (DW (English))
+
+- [Grippe aviaire aux Etats-Unis : comprendre l’épidémie en chiffres](https://www.lexpress.fr/sciences-sante/sante/grippe-aviaire-aux-etats-unis-comprendre-lepidemie-en-chiffres-XNRIQYVOTNAM7DPKP4GMLDAOUE/) (L'Express)
+
+- [México se mantiene en alerta ante caso grave de gripe aviar en humanos en EU](https://www.milenio.com/ciencia-y-salud/mexico-alerta-caso-grave-gripe-aviar-humanos-eu) (Milenio)
 
 - [What Is Bird Flu? Symptoms & Treatment Amid the H5N1 California Outbreak](https://hollywoodlife.com/feature/what-is-bird-flu-symptoms-5355549/) (Hollywood Life)
 
@@ -459,7 +483,11 @@ Source: [News API](https://newsapi.org/)
 
 - [California declara el estado de emergencia tras un caso grave de gripe aviar en EEUU](https://www.expansion.com/directivos/estilo-vida/salud/2024/12/19/6763fb7be5fdea39448b4596.html) (Expansion.com)
 
+- [Eerste patiënt met ernstige vogelgriep in VS, Californië roept noodtoestand uit](https://www.standaard.be/cnt/dmf20241219_94105724) (Standaard.be)
+
 - [أول إصابة خطيرة بأنفلونزا الطيور في أمريكا.. أين شُخّصت؟](https://arabic.cnn.com/science-and-health/article/2024/12/19/severe-bird-flu-louisiana-first-us-case) (CNN)
+
+- [États-Unis. Un premier cas critique de grippe aviaire chez l'humain](https://www.ledauphine.com/faits-divers-justice/2024/12/19/un-premier-cas-critique-de-grippe-aviaire-chez-l-humain) (Le Dauphiné Libéré)
 
 - [U.S. confirms first human bird flu severe case](https://www.globalsecurity.org/security/library/news/2024/12/sec-241219-pdo01.htm) (Globalsecurity.org)
 
@@ -472,6 +500,8 @@ Source: [News API](https://newsapi.org/)
 - [В США зафиксировали первый случай тяжелой формы птичьего гриппа](https://www.ferra.ru/news/health/v-ssha-zafiksirovali-pervyi-sluchai-tyazheloi-formy-ptichego-grippa-18-12-2024.htm) (Ferra.ru)
 
 - [What to Know About Bird Flu in the U.S. After CDC Announces First ‘Severe’ Human Case](https://time.com/7203290/bird-flu-united-states-severe-case-h5n1-explainer/) (Time)
+
+- [California decreta el estado de emergencia por la gripe aviar tras la confirmación de un paciente grave en Luisiana](https://www.meneame.net/m/actualidad/california-decreta-estado-emergencia-gripe-aviar-tras-paciente) (Meneame.net)
 
 - [Acil durum ilan edildi: ABD’de ilk ciddi kuş gribi vakası!](https://www.haber7.com/saglik/haber/3488890-acil-durum-ilan-edildi-abdde-ilk-ciddi-kus-gribi-vakasi) (Haber7.com)
 
@@ -2353,6 +2383,8 @@ Source: [News API](https://newsapi.org/)
 
 - [¿Hay riesgo de dengue o zika tras el paso de la DANA? El mosquito que puede proliferar en aguas estancadas de España](https://www.alimente.elconfidencial.com/bienestar/2024-11-14/hay-riesgo-de-dengue-o-zika-tras-el-paso-de-la-dana_4003875/) (Elconfidencial.com)
 
+- [Continúan acciones de prevención contra Dengue, Zika y Chikungunya en Chiapas: Rutilio Escandón](https://www.jornada.com.mx/2024/11/10/estados/021n4est) (Jornada.com.mx)
+
 ## 24-46 (typhoid)
 
 - [Four-year typhoid fever outbreak in Canada linked to chronic carrier](https://www.foodsafetynews.com/2024/11/four-year-typhoid-fever-outbreak-in-canada-linked-to-chronic-carrier/) (Food Safety News)
@@ -2400,6 +2432,8 @@ Source: [News API](https://newsapi.org/)
 - [โรงเรียนสาธิต มศว.ปทุมวัน ปิดเรียน 2 สัปดาห์ หลังพบเด็กป่วยไอกรน](https://www.thairath.co.th/news/society/2825340) (Thairath.co.th)
 
 - [WA Health: Significant increase in reported cases of pertussis (whooping cough) | Whatcom News](https://whatcom-news.com/wa-health-significant-increase-in-reported-cases-of-pertussis-whooping-cough_220911/) (Whatcom-news.com)
+
+- [Diphtheria-tetanus-pertussis immunization and sudden infant death: results of the National Institute of Child Health and Human Development Cooperative Epidemiological Study of Sudden Infant Death Syndrome risk factors](https://pubmed.ncbi.nlm.nih.gov/3493477/) (National Institutes of Health)
 
 ## 24-46 (mpox)
 
@@ -2525,6 +2559,8 @@ Source: [News API](https://newsapi.org/)
 
 - [WHO kaller inn til nytt krisemøte om mpox](https://www.nrk.no/nyheter/who-kaller-inn-til-nytt-krisemote-om-mpox-1.17120756) (NRK)
 
+- [WHO, Africa CDC strengthen Mpox vaccination in Nigeria, 16 other countries](https://punchng.com/who-africa-cdc-strengthen-mpox-vaccination-in-nigeria-16-other-countries/) (The Punch)
+
 ## 24-46 (meningitis)
 
 - [Lassa fever, meningitis deaths hit 535](https://punchng.com/lassa-fever-meningitis-deaths-hit-535/) (The Punch)
@@ -2595,6 +2631,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Machine learning algorithms for prediction of measles one vaccination dropout among 12-23 months children in Ethiopia](https://bmjopen.bmj.com/content/14/11/e089764) (The BMJ)
 
+- [Daily Tech News 10 November 2024](https://acecomments.mu.nu/?post=412315) (Acecomments.mu.nu)
+
 ## 24-46 (malaria)
 
 - [Lazio striker Dia given all-clear after malaria scare](https://football-italia.net/lazio-striker-dia-all-clear-malaria-scare/) (Football Italia)
@@ -2661,11 +2699,15 @@ Source: [News API](https://newsapi.org/)
 
 - [मुंबई में रोज 22 लोगों को होता है मलेरिया, घर-घर में ब्रीडिंग स्पॉट्स, आंकड़े डरा देंगे](https://navbharattimes.indiatimes.com/metro/mumbai/development/malaria-symptoms-caused-by-cases-in-mumbai-maharashtra-data/articleshow/115156656.cms) (The Times of India)
 
+- [UN: 1,4 Millionen Menschen von Überschwemmungen im Südsudan betroffen](https://www.faz.net/aktuell/gesellschaft/ungluecke/suedsudan-1-4-millionen-menschen-von-ueberschwemmungen-betroffen-110101826.html) (Faz.net)
+
 ## 24-46 (leptospirosis)
 
 - [¿Qué es la leptospirosis? Una amenaza invisible en zonas inundadas](https://www.nationalgeographic.com.es/ciencia/que-es-leptospirosis-enfermedad-que-protegerse-inundaciones_23616) (Nationalgeographic.com.es)
 
 - [Exposure to live saprophytic Leptospira before challenge with a pathogenic serovar prevents severe leptospirosis and promotes kidney homeostasis](https://elifesciences.org/articles/96470) (Elifesciences.org)
+
+- [Llega un nuevo temporal de lluvia y frío a España: Aemet avisa por DANA, nevadas y 100 l/m esta semana en estas zonas](https://www.elespanol.com/ciencia/meteorologia/20241110/llega-nuevo-temporal-lluvia-frio-espana-aemet-avisa-dana-nevadas-lm-semana-zonas/899660612_0.html) (Elespanol.com)
 
 ## 24-46 (hpai)
 
@@ -2743,6 +2785,16 @@ Source: [News API](https://newsapi.org/)
 
 - [Many Bird Flu Infections Among Dairy Workers Go Undetected](https://www.forbes.com/sites/victoriaforster/2024/11/10/many-bird-flu-infections-among-dairy-workers-go-undetected/) (Forbes)
 
+- [Das steckt hinter der Dunkelziffer der Infektionsfälle](https://www.welt.de/wissenschaft/article254453336/Vogelgrippe-bei-Menschen-Das-steckt-hinter-der-Dunkelziffer-der-Infektionsfaelle.html) (DIE WELT)
+
+- [Canada Reports First Human Case Of H5N1 Bird Flu](https://www.forbes.com/sites/victoriaforster/2024/11/10/canada-reports-first-human-case-of-h5n1-bird-flu/) (Forbes)
+
+- [Vogelgrippe: Vogelgrippe-Fälle bei Menschen bleiben oft unentdeckt](https://www.zeit.de/gesundheit/2024-11/vogelgrippe-menschen-unentdeckt-usa) (Die Zeit)
+
+- [Vogelgrippe in den USA: Fälle bei Menschen bleiben oft unentdeckt](https://www.tagesspiegel.de/wissen/vogelgrippe-in-den-usa-falle-bei-menschen-bleiben-oft-unentdeckt-12679604.html) (Der Tagesspiegel)
+
+- [Bird flu among pigs should worry humans too](https://www.livemint.com/opinion/online-views/bird-flu-pigs-virus-outbreak-h5n1-virus-mammals-pandemic-chickens-11731230798297.html) (Livemint)
+
 ## 24-46 (dengue)
 
 - [Researchers blame climate change for one fifth of dengue cases](https://www.voanews.com/a/fifth-of-dengue-cases-due-to-climate-change-researchers-/7866482.html) (VOA News)
@@ -2811,8 +2863,16 @@ Source: [News API](https://newsapi.org/)
 
 - [Bacolod: Negros Occidental logs 5,528 dengue cases](https://rpnradio.com/bacolod-negros-occidental-logs-5528-dengue-cases/) (Rpnradio.com)
 
+- [Health officials sound alarm after disease spreads in Florida following devastating hurricanes: 'Their pain is remarkable'](https://www.newsbreak.com/share/3668986070323-health-officials-sound-alarm-after-disease-spreads-in-florida-following-devastating-hurricanes-their-pain-is-remarkable?s=a2&amp;share_destination_id=OTc5NjE4ODYtMTczMTI1MjcwNDc4NA%3D%3D&amp;pd=06d2MQ1a&amp;hl=en_US&amp;send_time=1731252704&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2224.44.0%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_local_strategy_24q4_exp-v3%2Cns_foryou_model_exp_24q4-control%2Cns_foryou_rank_exp_24q4-v1%2Cns_foryou_recall_exp_24q4-control%2Cns_pushv1-v9%2Cns_foryou_blend_exp_24q4-v5) (Newsbreak.com)
+
+- [Continúan acciones de prevención contra Dengue, Zika y Chikungunya en Chiapas: Rutilio Escandón](https://www.jornada.com.mx/2024/11/10/estados/021n4est) (Jornada.com.mx)
+
+- [Dengue in Westbengal: ভয় ধরাচ্ছে রাজ্যের ডেঙ্গু পরিস্থিতি, চলতি মাসে আক্রান্তের পরিসংখ্যান চমকে দিতে বাধ্য](https://bengali.indianexpress.com/west-bengal/dengue-cases-rising-in-west-bengal-govt-says-situation-under-control-7569144) (The Indian Express)
+
 ## 24-46 (chikungunya)
 
 - [Dengue, coronavírus, influenza, chikungunya: de onde vêm os nomes dos vírus e das doenças?](https://gizmodo.uol.com.br/dengue-coronavirus-influenza-chikungunya-de-onde-vem-os-nomes-dos-virus-e-das-doencas/) (Uol.com.br)
 
 - [Chikungunya and vaccines: Combatting mosquito diseases](https://www.digitaljournal.com/tech-science/chikungunya-and-vaccines-combatting-mosquito-diseases/article) (Digital Journal)
+
+- [Continúan acciones de prevención contra Dengue, Zika y Chikungunya en Chiapas: Rutilio Escandón](https://www.jornada.com.mx/2024/11/10/estados/021n4est) (Jornada.com.mx)
