@@ -1,8 +1,369 @@
 {
-  "last_updated": "2024-12-24 07:06",
-  "count_articles_total": 1324,
-  "count_articles_new": 15,
+  "last_updated": "2024-12-24 19:05",
+  "count_articles_total": 1332,
+  "count_articles_new": 21,
   "articles": [
+    {
+      "id": 16736,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Twistedsifter.com",
+      "author": "Michael Levanduski",
+      "title": "Disturbing New Report From World Health Organization Finds A 20% Spike In Cases Of Measles Worldwide Resulting In Over 100,000 Fatal Cases",
+      "description": "It is heartbreaking that this preventable disease is still killing to many.",
+      "url": "http://twistedsifter.com/2024/12/disturbing-new-report-from-world-health-organization-finds-a-20-spike-in-cases-of-measles-worldwide-resulting-in-over-100000-fatal-cases/",
+      "urlToImage": "https://twistedsifter.com/wp-content/uploads/2024/12/measles-rash.png",
+      "publishedAt": "2024-12-23 18:48:18",
+      "content": "Measles is a disease that most people in first-world countries have heard of, but very few have actually gotten or even seen in person. For adults with a healthy immune system, measles is a somewhat \u2026 [+2999 chars]",
+      "retrievedAt": "2024-12-24 19:05:35.093116",
+      "internal_id": "db0c74047a089840f059d46eef603c4395d0a8a932f00539a8c07290152263f6",
+      "publishedAtLabel": "Dec 23"
+    },
+    {
+      "id": 16749,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Themorningnews.org",
+      "author": null,
+      "title": "Monday headlines: Never melt better",
+      "description": "In an unwritten, unannounced policy change, Louisiana's Dept. of Health is forbidding employees from promoting Covid, flu, or mpox vaccines. / NPR Photos of daily life for the Palestinian people\u2014\"before all hell broke loose\"\u2014by Adam Rouhana. / VICE An inter\u2026",
+      "url": "https://themorningnews.org/p/monday-headlines-never-melt-better",
+      "urlToImage": "https://themorningnews.org/images/tmn-logo-share.png",
+      "publishedAt": "2024-12-23 18:26:00",
+      "content": "In an unwritten, unannounced policy change, Louisiana's Dept. of Health is forbidding employees from promoting Covid, flu, or mpox vaccines. / NPR Photos of daily life for the Palestinian people\u2014\"be\u2026 [+2219 chars]",
+      "retrievedAt": "2024-12-24 19:05:38.135058",
+      "internal_id": "217849005f71342ea89063d2427bee015da0c6fac4255d4be65e6ffbe8dc6ea5",
+      "publishedAtLabel": "Dec 23"
+    },
+    {
+      "id": 16737,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Global News",
+      "author": "Sawyer Bogdan",
+      "title": "Ontario reports spike in measles cases; 37 linked to an exposure in New Brunswick | Globalnews.ca",
+      "description": "Public health officials say a cluster of measles cases in Ontario linked to an exposure in New Brunswick has grown to 37 cases.",
+      "url": "https://globalnews.ca/news/10931316/ontario-reports-spike-in-measles-cases-37-linked-to-an-exposure-in-new-brunswick/",
+      "urlToImage": "https://globalnews.ca/wp-content/uploads/2024/12/measles-vaccine_1.jpg?quality=85&strip=all&w=720&h=379&crop=1",
+      "publishedAt": "2024-12-23 17:46:32",
+      "content": "Public health officials say a cluster of measles cases in Ontario linked to an exposure in New Brunswick has grown to 37. Public Health Ontario says 11 of those cases are confirmed and 26 are probab\u2026 [+775 chars]",
+      "retrievedAt": "2024-12-24 19:05:35.129892",
+      "internal_id": "f5992508294fc9c6ffa23c219d1910c55dc30e112982c1d214541d3529776a78",
+      "publishedAtLabel": "Dec 23"
+    },
+    {
+      "id": 16752,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Shi Yu",
+      "title": "Mpox situation in Africa remains \"especially concerning:\" WHO",
+      "description": "KINSHASA, Dec. 23 (Xinhua) -- The epidemiological situation of Mpox in Africa remains \"especially concerning,\" with high case counts observed in the Democratic Republic of the Congo (DRC), Burundi, and Uganda, the World Health Organization (WHO) said Monday. \u2026",
+      "url": "https://www.thestar.com.my/news/world/2024/12/24/mpox-situation-in-africa-remains-especially-concerning-who",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2024-12-23 17:13:00",
+      "content": "KINSHASA, Dec. 23 (Xinhua) -- The epidemiological situation of Mpox in Africa remains \"especially concerning,\" with high case counts observed in the Democratic Republic of the Congo (DRC), Burundi, a\u2026 [+1483 chars]",
+      "retrievedAt": "2024-12-24 19:05:38.167599",
+      "internal_id": "09e6dbbf2cbff6c15ff347a55f26ee92f5e8381492969173c05ece8d33e8ddbd",
+      "publishedAtLabel": "Dec 23"
+    },
+    {
+      "id": 16754,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "La OMS advierte sobre el aumento de casos de mpox en Australia, aunque descienden a nivel global un 13%",
+      "description": "La Organizaci\u00f3n Mundial de la Salud (OMS) ha advertido este lunes sobre una \"tendencia al alza sin precedentes\" de los casos registrados de mpox del clado IIb en Australia durante los \u00faltimos meses, con 1.352 notificaciones hasta el pasado 30 de noviembre.",
+      "url": "https://www.infosalus.com/salud-investigacion/noticia-oms-advierte-aumento-casos-mpox-australia-descienden-nivel-global-13-20241223173735.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20241223173735_1200.jpg",
+      "publishedAt": "2024-12-23 16:37:35",
+      "content": "MADRID 23 Dic. (EUROPA PRESS) - La Organizaci\u00f3n Mundial de la Salud (OMS) ha advertido este lunes sobre una \"tendencia al alza sin precedentes\" de los casos registrados de mpox del clado IIb en Au\u2026 [+2809 chars]",
+      "retrievedAt": "2024-12-24 19:05:38.187766",
+      "internal_id": "f08b65b14963a075df56f6d91750843760716d6fbe28da6d9af8ba62e2d2945f",
+      "publishedAtLabel": "Dec 23"
+    },
+    {
+      "id": 16748,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Skai.gr",
+      "author": "Newsroom",
+      "title": "\u0395\u039f\u0394\u03a5: 18 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03b5\u03c5\u03bb\u03bf\u03b3\u03b9\u03ac\u03c2 \u03c4\u03c9\u03bd \u03c0\u03b9\u03b8\u03ae\u03ba\u03c9\u03bd \u03c4\u03bf\u03c5\u03c2 \u03c4\u03b5\u03bb\u03b5\u03c5\u03c4\u03b1\u03af\u03bf\u03c5\u03c2 \u03b4\u03cd\u03bf \u03bc\u03ae\u03bd\u03b5\u03c2",
+      "description": "\u03a4\u03b1 \u03c3\u03c5\u03bc\u03c0\u03c4\u03ce\u03bc\u03b1\u03c4\u03b1, \u03bf\u03b9 \u03c4\u03c1\u03cc\u03c0\u03bf\u03b9 \u03bc\u03b5\u03c4\u03ac\u03b4\u03bf\u03c3\u03b7\u03c2 \u03ba\u03b1\u03b9 \u03c4\u03b1 \u03bc\u03ad\u03c4\u03c1\u03b1 \u03c0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c3\u03af\u03b1\u03c2 - \u03a0\u03bf\u03cd \u03c0\u03c1\u03b1\u03b3\u03bc\u03b1\u03c4\u03bf\u03c0\u03bf\u03b9\u03bf\u03cd\u03bd\u03c4\u03b1\u03b9 \u03bf\u03b9 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03bf\u03af \u03ba\u03b1\u03c4\u03ac \u03c4\u03b7\u03c2 \u03bd\u03cc\u03c3\u03bf\u03c5",
+      "url": "https://www.skai.gr/news/health/eody-18-epivevaiomena-krousmata-eylogias-ton-pithikon",
+      "urlToImage": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2024-09/shutterstock-emvolio-mpox.jpg?itok=bI931qhx",
+      "publishedAt": "2024-12-23 16:14:37",
+      "content": "T 2024 (), 18 mpox (). mpox mpox , . mpox mpox. mpox , . / / , . mpox : , , , , , , 1 5 . , . mpox : * * * (.. , /) , mpox . : * (, , , , , , 1 5 ) * , * mpox .' (MSM), , , . ,\u2026 [+404 chars]",
+      "retrievedAt": "2024-12-24 19:05:38.116378",
+      "internal_id": "a5d857a703c5bed40dc32718b8d404a4678c76eaa32c52f3f6a9da684f14114d",
+      "publishedAtLabel": "Dec 23"
+    },
+    {
+      "id": 16753,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Protothema.gr",
+      "author": null,
+      "title": "Mpox: 18 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03c5\u03bb\u03bf\u03b3\u03b9\u03ac\u03c2 \u03c4\u03c9\u03bd \u03c0\u03b9\u03b8\u03ae\u03ba\u03c9\u03bd \u03c4\u03bf \u03b4\u03af\u03bc\u03b7\u03bd\u03bf \u039d\u03bf\u03b5\u03bc\u03b2\u03c1\u03af\u03bf\u03c5 - \u0394\u03b5\u03ba\u03b5\u03bc\u03b2\u03c1\u03af\u03bf\u03c5 \u03c3\u03c4\u03b7\u03bd \u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+      "description": "\u03a0\u03bf\u03b9\u03b1 \u03c4\u03b1 \u03c3\u03c5\u03bc\u03c0\u03c4\u03ce\u03bc\u03b1\u03c4\u03b1 \u03ba\u03b1\u03b9 \u03bf\u03b9 \u03c4\u03c1\u03cc\u03c0\u03bf\u03b9 \u03bc\u03b5\u03c4\u03ac\u03b4\u03bf\u03c3\u03b7\u03c2 \u03c4\u03b7\u03c2 \u03bd\u03cc\u03c3\u03bf\u03c5 | \u0399\u03cc\u03c2 Mpox | mpox | \u039a\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 | \u0395\u03bb\u03bb\u03ac\u03b4\u03b1 | \u0395\u039f\u0394\u03a5 | \u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+      "url": "https://www.protothema.gr/greece/article/1579534/mpox-18-krousmata-tis-eulogias-ton-pithikon-to-dimino-noemvriou-dekemvriou-stin-ellada/",
+      "urlToImage": "https://www.protothema.gr/images/640x360share/1/jpg/files/2024-08-27/mpox_arxeio_n.jpg",
+      "publishedAt": "2024-12-23 15:55:17",
+      "content": "Chuck Taylor All Star, , .",
+      "retrievedAt": "2024-12-24 19:05:38.174491",
+      "internal_id": "79aa19f179623eef080c2f657e85d17119415ca5e8f2c24c6108fb524edd95b4",
+      "publishedAtLabel": "Dec 23"
+    },
+    {
+      "id": 16750,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Alphafreepress.gr",
+      "author": "\u0395\u03c5\u03c4\u03c5\u03c7\u03af\u03b1 \u03a0\u03b1\u03c0\u03bf\u03cd\u03bb\u03b9\u03b1",
+      "title": "\u039a\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 mpox \u0395\u03bb\u03bb\u03ac\u03b4\u03b1: \u03a3\u03c5\u03bd\u03b1\u03b3\u03b5\u03c1\u03bc\u03cc\u03c2 \u03c3\u03c4\u03bf\u03bd \u0395\u039f\u0394\u03a5",
+      "description": "\u039a\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c4\u03bf\u03c5 \u03b9\u03bf\u03cd mpox \u03b5\u03bd\u03c4\u03bf\u03c0\u03af\u03c3\u03c4\u03b7\u03ba\u03b1\u03bd \u03c3\u03c4\u03b7 \u03c7\u03ce\u03c1\u03b1 \u03bc\u03b1\u03c2 \u03c4\u03bf \u03b4\u03b9\u03ac\u03c3\u03c4\u03b7\u03bc\u03b1 \u03bc\u03b5\u03c4\u03b1\u03be\u03cd \u039d\u03bf\u03b5\u03bc\u03b2\u03c1\u03af\u03bf\u03c5 \u03ba\u03b1\u03b9 \u0394\u03b5\u03ba\u03b5\u03bc\u03b2\u03c1\u03af\u03bf\u03c5. \u03a3\u03cd\u03bc\u03c6\u03c9\u03bd\u03b1 \u03bc\u03b5 \u03c4\u03bf\u03bd \u0395\u039f\u0394\u03a5, \u03ba\u03b1\u03c4\u03b1\u03b3\u03c1\u03ac\u03c6\u03b7\u03ba\u03b1\u03bd 18 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1",
+      "url": "https://www.alphafreepress.gr/2024/12/23/ellada/krousmata-mpox-ellada-synagermos-ston-eody/",
+      "urlToImage": "https://www.alphafreepress.gr/wp-content/uploads/2024/11/maska-mixani.jpg",
+      "publishedAt": "2024-12-23 15:38:09",
+      "content": "mpox . , 18 mpox. mpox , mpox . mpox mpox. mpox , , . / / , . mpox : , , , , , , 1 5 . , . mpox mpox : . . . (.. , /). , mpox (, , , , , , 1 5 ), mpox , : (MSM), , , . , 3 . mpox (.. , ,\u2026 [+425 chars]",
+      "retrievedAt": "2024-12-24 19:05:38.141640",
+      "internal_id": "ec1622f9287b4e98b72bd1f00344c9a861a3842c4d8de9f7277c9774c150e30d",
+      "publishedAtLabel": "Dec 23"
+    },
+    {
+      "id": 16743,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "Alejandro Horvat",
+      "title": "Vacaciones en Brasil: estas son las vacunas que los m\u00e9dicos recomiendan darse antes de viajar",
+      "description": "El dengue en Brasil es un problema aun mayor que en la Argentina y, adem\u00e1s, hay zonas que requieren prevenci\u00f3n contra la fiebre amarilla",
+      "url": "https://www.lanacion.com.ar/sociedad/vacaciones-en-brasil-estas-son-las-vacunas-que-los-medicos-recomiendan-darse-antes-de-viajar-nid23122024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/antes-de-viajar-a-brasil-los-especialistas-5D7WAHZ3BND6HGBBXMWY3PEVOI.jpg?auth=6bd02f3cfbc4eb66380f45dc9c10affbca30793c52dea042818830677b8c721c&width=1200&quality=70&smart=false&height=800",
+      "publishedAt": "2024-12-23 15:34:18",
+      "content": "Este verano, Brasil se posiciona nuevamente como uno de los destinos favoritos para los argentinos, impulsado por la devaluaci\u00f3n del real y un tipo de cambio favorable. Sin embargo, el para\u00edso tropic\u2026 [+6844 chars]",
+      "retrievedAt": "2024-12-24 19:05:36.171644",
+      "internal_id": "90cd255ff80f9c4727367d3fc05406f24511a89e95bf62a051030d663966f82a",
+      "publishedAtLabel": "Dec 23"
+    },
+    {
+      "id": 16746,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Tass.ru",
+      "author": null,
+      "title": "\u0412 \u043c\u0438\u0440\u0435 \u0431\u043e\u043b\u0435\u0435 117 \u0442\u044b\u0441. \u0447\u0435\u043b\u043e\u0432\u0435\u043a \u0437\u0430\u0440\u0430\u0437\u0438\u043b\u0438\u0441\u044c \u043e\u0441\u043f\u043e\u0439 \u043e\u0431\u0435\u0437\u044c\u044f\u043d \u0441 \u043d\u0430\u0447\u0430\u043b\u0430 \u0433\u043e\u0434\u0430",
+      "description": "\u0418\u0437 \u043d\u0438\u0445 263 \u0443\u043c\u0435\u0440\u043b\u0438, \u0441\u043e\u043e\u0431\u0449\u0430\u0435\u0442\u0441\u044f \u0432 \u0435\u0436\u0435\u043c\u0435\u0441\u044f\u0447\u043d\u043e\u043c \u043e\u0442\u0447\u0435\u0442\u0435 \u0412\u0441\u0435\u043c\u0438\u0440\u043d\u043e\u0439 \u041e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u0438 \u0417\u0434\u0440\u0430\u0432\u043e\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f",
+      "url": "https://tass.ru/obschestvo/22753533",
+      "urlToImage": "https://cdn-storage-media.tass.ru/thumb/ru/obschestvo/22753533?u=2024-12-23T15:22:36.091566",
+      "publishedAt": "2024-12-23 15:22:36",
+      "content": ", 23 . //. 117 663 mpox (\"\", ) 2024 , 263 . (). , 13,2% , 2 726 . - 71,2% - , (), . , . mpox 2022 11 2023 . . Mpox - , , . 1970 . , , , . mpox 1% 10%. .",
+      "retrievedAt": "2024-12-24 19:05:38.100864",
+      "internal_id": "a04e065fe1810552ce3b7c25d7799a11e166e9ed36e3baa9abc2c4a203e07596",
+      "publishedAtLabel": "Dec 23"
+    },
+    {
+      "id": 16747,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Naftemporiki.gr",
+      "author": "\u03a0\u03ad\u03c4\u03c1\u03bf\u03c2 \u03a3\u03c4\u03b5\u03c6\u03b1\u03bd\u03ae\u03c2",
+      "title": "\u0395\u03c5\u03bb\u03bf\u03b3\u03b9\u03ac \u03c0\u03b9\u03b8\u03ae\u03ba\u03c9\u03bd (mbox): \u039d\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c3\u03c4\u03b7\u03bd \u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+      "description": "\u03a3\u03c5\u03bd\u03bf\u03bb\u03b9\u03ba\u03ac 18 \u03b5\u03c0\u03b9\u03b2\u03b5\u03b2\u03b1\u03b9\u03c9\u03bc\u03ad\u03bd\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03b5\u03c5\u03bb\u03bf\u03b3\u03b9\u03ac\u03c2 \u03c4\u03c9\u03bd \u03c0\u03b9\u03b8\u03ae\u03ba\u03c9\u03bd \u03b1\u03bd\u03b1\u03c6\u03ad\u03c1\u03b8\u03b7\u03ba\u03b1\u03bd \u03c3\u03c4\u03b7\u03bd \u0395\u03bb\u03bb\u03ac\u03b4\u03b1 \u03c4\u03bf \u03b4\u03af\u03bc\u03b7\u03bd\u03bf \u039d\u03bf\u03b5\u03bc\u03b2\u03c1\u03af\u03bf\u03c5 \u03ba\u03b1\u03b9 \u0394\u03b5\u03ba\u03b5\u03bc\u03b2\u03c1\u03af\u03bf\u03c5 2024. \u039f \u0395\u03b8\u03bd\u03b9\u03ba\u03cc\u03c2 \u039f\u03c1\u03b3\u03b1\u03bd\u03b9\u03c3\u03bc\u03cc\u03c2 \u0394\u03b7\u03bc\u03cc\u03c3\u03b9\u03b1\u03c2 \u03a5\u03b3\u03b5\u03af\u03b1\u03c2 (\u0395\u039f\u0394\u03a5) \u03ba\u03ac\u03bd\u03b5\u03b9 \u03bb\u03cc\u03b3\u03bf \u03b3\u03b9\u03b1 \u03b1\u03cd\u03be\u03b7\u03c3\u03b7\u03c2 \u03c4\u03c9\u03bd \u03c0\u03b5\u03c1\u03b9\u03c3\u03c4\u03b1\u03c4\u03b9\u03ba\u03ce\u03bd \u03c4\u03bf \u03c4\u03b5\u03bb\u03b5\u03c5\u03c4\u03b1\u03af\u03bf\u2026 \u0395\u03c5\u03bb\u03bf\u03b3\u03b9\u03ac \u03c0\u03b9\u03b8\u03ae\u03ba\u03c9\u03bd (mbox): \u039d\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c3\u2026",
+      "url": "https://www.naftemporiki.gr/health/1864764/eylogia-pithikon-mbox-nea-kroysmata-stin-ellada/",
+      "urlToImage": "https://www.naftemporiki.gr/wp-content/uploads/2022/05/1865494.jpeg",
+      "publishedAt": "2024-12-23 15:06:08",
+      "content": "18 2024. () , mpox . mpox mpox. , . / / , . mpox : , , , , , , 1 5 . , . mpox : : (, , , , , , 1 5 ). , . mpox , :\u2013 (MSM), , , . , 3 . \u2013 mpox (.. , \u2026 [+380 chars]",
+      "retrievedAt": "2024-12-24 19:05:38.109407",
+      "internal_id": "51dc923b89d4e514810bacd6798c3e19d2ddf4a1cebd64946c6d87241579627d",
+      "publishedAtLabel": "Dec 23"
+    },
+    {
+      "id": 16751,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Newsit.gr",
+      "author": "\u0391\u03bd\u03b4\u03c1\u03ad\u03b1\u03c2 \u039c\u03bf\u03c1\u03c6\u03cc\u03c0\u03bf\u03c5\u03bb\u03bf\u03c2",
+      "title": "\u0395\u039f\u0394\u03a5: 18 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03c5\u03bb\u03bf\u03b3\u03b9\u03ac\u03c2 \u03c4\u03c9\u03bd \u03c0\u03b9\u03b8\u03ae\u03ba\u03c9\u03bd \u03c4\u03bf \u03b4\u03af\u03bc\u03b7\u03bd\u03bf \u039d\u03bf\u03b5\u03bc\u03b2\u03c1\u03af\u03bf\u03c5 \u2013 \u0394\u03b5\u03ba\u03b5\u03bc\u03b2\u03c1\u03af\u03bf\u03c5 \u03c3\u03c4\u03b7\u03bd \u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+      "description": "\u0394\u03b5\u03ba\u03b1\u03bf\u03ba\u03c4\u03ce \u03b5\u03c0\u03b9\u03b2\u03b5\u03b2\u03b1\u03b9\u03c9\u03bc\u03ad\u03bd\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03c5\u03bb\u03bf\u03b3\u03b9\u03ac\u03c2 \u03c4\u03c9\u03bd \u03c0\u03b9\u03b8\u03ae\u03ba\u03c9\u03bd (mpox) \u03b1\u03bd\u03b1\u03c6\u03ad\u03c1\u03b8\u03b7\u03ba\u03b1\u03bd \u03c4\u03bf \u03b4\u03b9\u03ac\u03c3\u03c4\u03b7\u03bc\u03b1 \u03bc\u03b5\u03c4\u03b1\u03be\u03cd \u039d\u03bf\u03b5\u03bc\u03b2\u03c1\u03af\u03bf\u03c5 \u03ba\u03b1\u03b9 \u0394\u03b5\u03ba\u03b5\u03bc\u03b2\u03c1\u03af\u03bf\u03c5 2024 \u03c3\u03c4\u03bf\u03bd \u0395\u03b8\u03bd\u03b9\u03ba\u03cc \u039f\u03c1\u03b3\u03b1\u03bd\u03b9\u03c3\u03bc\u03cc \u0394\u03b7\u03bc\u03cc\u03c3\u03b9\u03b1\u03c2\u03a5\u03b3\u03b5\u03af\u03b1\u03c2 (\u0395\u039f\u0394\u03a5). \u039b\u03cc\u03b3\u03c9 \u03c4\u03b7\u03c2 \u03c0\u03b1\u03c1\u03b1\u03c4\u03b7\u03c1\u03bf\u03cd\u03bc\u03b5\u03bd\u03b7\u03c2 \u03b1\u03cd\u03be\u03b7\u03c3\u03b7\u03c2 ... To \u03ac\u03c1\u03b8\u03c1\u03bf \u0395\u039f\u0394\u03a5: 18 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03c5\u03bb\u03bf\u03b3\u03b9\u03ac\u03c2 \u03c4\u03c9\u03bd \u03c0\u03b9\u03b8\u03ae\u03ba\u03c9\u2026",
+      "url": "https://www.newsit.gr/ellada/eody-18-krousmata-tis-eylogias-ton-pithikon-to-dimino-noemvriou-dekemvriou-stin-ellada/4267701/",
+      "urlToImage": "https://www.newsit.gr/wp-content/uploads/2024/12/mpox_r-scaled-1-1200x630.jpg",
+      "publishedAt": "2024-12-23 14:52:19",
+      "content": "",
+      "retrievedAt": "2024-12-24 19:05:38.149032",
+      "internal_id": "92a260c2592a472cda72ffc8fa132bf199c6e2f787745dc848abf570d85aaa13",
+      "publishedAtLabel": "Dec 23"
+    },
+    {
+      "id": 16744,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Bethan Cracknell Daniels, Darunee Buddhari, Taweewun Hunsawong, Sopon Iamsirithaworn, Aaron R. Farmer, Derek A. T. Cummings, Kathryn B. Anderson, Ilaria Dorigatti",
+      "title": "Predicting the infecting dengue serotype from antibody titre data using machine learning",
+      "description": "Author summary Dengue is a viral infection transmitted by mosquitoes that has rapidly spread worldwide over the past 50 years. It is caused by four distinct virus serotypes, and developing a vaccine that protects against all of them is a key goal. However, ac\u2026",
+      "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012188",
+      "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1012188.g006&size=inline",
+      "publishedAt": "2024-12-23 14:00:00",
+      "content": "Abstract The development of a safe and efficacious vaccine that provides immunity against all four dengue virus serotypes is a priority, and a significant challenge for vaccine development has been \u2026 [+63795 chars]",
+      "retrievedAt": "2024-12-24 19:05:36.188789",
+      "internal_id": "6f53cdd777d47137bfa1f35d6179efd2950cca02b9bc1c8d3060964fcdb74eab",
+      "publishedAtLabel": "Dec 23"
+    },
+    {
+      "id": 16756,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Eric J. Nilles, Cecilia Then Paulino, Renee Galloway, Michael de St. Aubin, Helen J. Mayfield, Angela Cadavid Restrepo, Devan Dumas, Salome Garnier, Marie Caroline Etienne, William Duke, Farah Pe\u00f1a, Naomi Iihoshi, Gabriela Abdalla, Beatriz Lopez, Lucia de la Cruz, Bernarda Henr\u00edquez, Kara Durski, Margaret Baldwin, Gideon Loevinsohn, Eleanor M. Rees, Beatris Martin, Benn Sartorius, Ronald Skewes-Ramm, Emily Zielinski Guti\u00e9rrez, Adam Kucharski, Colleen L. Lau",
+      "title": "Seroepidemiology of human leptospirosis in the Dominican Republic: A multistage cluster survey, 2021",
+      "description": "Author summary Leptospirosis is a significant public health concern in many tropical regions, but its true burden is often unrecognized due to limited diagnostic capacity and under-reporting. Using a multistage household survey, we assessed human leptospirosi\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012463",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012463.g003&size=inline",
+      "publishedAt": "2024-12-23 14:00:00",
+      "content": "Abstract Little is known about the epidemiology of leptospirosis in the Dominican Republic, the second most populous country in the Caribbean. We report on findings from a multi-stage household surv\u2026 [+44845 chars]",
+      "retrievedAt": "2024-12-24 19:05:38.778297",
+      "internal_id": "b15083438bfc0a57239694e358dd85c24ed455ee01691d8eebbc97f8cd0c8d0c",
+      "publishedAtLabel": "Dec 23"
+    },
+    {
+      "id": 16742,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Ilona Kickbusch, Rick A. Bright",
+      "title": "Governing global health with a planetary mindset",
+      "description": "In 2023, a disturbing milestone was reached: six out of nine planetary boundaries were crossed, signalling an unprecedented threat to Earth's stability.1 Simultaneously, the world grappled with a relentless series of disease outbreaks\u2014Ebola, dengue, Zika, cov\u2026",
+      "url": "https://www.bmj.com/content/387/bmj.q2822",
+      "urlToImage": "https://www.bmj.com/sites/default/files/highwire/bmj/387/8452.cover-source.jpg",
+      "publishedAt": "2024-12-23 13:26:24",
+      "content": "Ilona Kickbusch, director1, Rick A. Bright, chief executive21Geneva Graduate Institute 2Bright Global Health, Washington, DC USA In 2023, a d\u2026 [+5513 chars]",
+      "retrievedAt": "2024-12-24 19:05:36.159095",
+      "internal_id": "1aa494c45084e7ac3de721b95d89d21878d6881b2f427e04bf26cc8cfbf053f1",
+      "publishedAtLabel": "Dec 23"
+    },
+    {
+      "id": 16755,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "World Health Organization",
+      "author": null,
+      "title": "Multi-country outbreak of mpox, External situation report#44 - 23 December 2024",
+      "description": "Multi-country outbreak of mpox, External situation report#44 - 23 December 2024who.int",
+      "url": "https://www.who.int/publications/m/item/multi-country-outbreak-of-mpox--external-situation-report-44---23-december-2024",
+      "urlToImage": "https://www.who.int/images/default-source/departments/ntd-library/yaws/covers-thumbnails/thumbanil-20241223_mpox-external-sitrep-44.tmb-479v.jpg?Culture=en&sfvrsn=493f6e8b_1",
+      "publishedAt": "2024-12-23 13:23:05",
+      "content": "Overview This is the 44th situation report for the multi-country outbreak of mpox, and the last situation report to be published in 2024. It provides details on the latest epidemiological trends, \u2026 [+342 chars]",
+      "retrievedAt": "2024-12-24 19:05:38.195251",
+      "internal_id": "2e416f4399f42a95d2e6d9b60ce8a5e35b5bfc3f0b27997b63b9cc14653369dc",
+      "publishedAtLabel": "Dec 23"
+    },
+    {
+      "id": 16738,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Computerworld.dk",
+      "author": "Jim Nielsen",
+      "title": "Vores vidensindsamling og demokratiske samtale p\u00e5virkes af helt lukkede beslutninger i en enkelt privat virksomhed",
+      "description": "Klumme: Aktuel dansk rapport om tech-giganternes rolle som dansk infrastruktur s\u00e6tter ord p\u00e5 noget, alle vi andre David\u2019er ogs\u00e5 skal t\u00e6nke p\u00e5, n\u00e5r vi leger med Goliat\u2019erne.",
+      "url": "https://www.computerworld.dk/art/289800/vores-vidensindsamling-og-demokratiske-samtale-paavirkes-af-helt-lukkede-beslutninger-i-en-enkelt-privat-virksomhed",
+      "urlToImage": "https://www.computerworld.dk/fil/156506?width=600&height=315&focus=1",
+      "publishedAt": "2024-12-23 12:40:00",
+      "content": "Klumme: Aktuel dansk rapport om tech-giganternes rolle som dansk infrastruktur s\u00e6tter ord p\u00e5 noget, alle vi andre Davider ogs\u00e5 skal t\u00e6nke p\u00e5, n\u00e5r vi leger med Goliaterne.Annonceindl\u00e6g fra HPAI-eksper\u2026 [+4401 chars]",
+      "retrievedAt": "2024-12-24 19:05:35.302917",
+      "internal_id": "740dad65608f09682997594347d871b0f5a45701a292cfd5367c11e2bf1aa666",
+      "publishedAtLabel": "Dec 23"
+    },
+    {
+      "id": 16741,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Aristeguinoticias.com",
+      "author": "Redacci\u00f3n AN / MDS",
+      "title": "Mariana Rodr\u00edguez Cant\u00fa da positivo a dengue",
+      "description": "El reporte m\u00e9dico se\u00f1ala que se trata de una etapa temprana de la enfermedad v\u00edrica, que se transmite por la picadura de un mosquito.",
+      "url": "https://aristeguinoticias.com/2312/mexico/mariana-rodriguez-cantu-da-positivo-a-dengue/",
+      "urlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2024/12/mariana-rodriguez-dengue-23122024.jpg",
+      "publishedAt": "2024-12-23 11:12:06",
+      "content": "Mariana Rodr\u00edguez Cant\u00fa, presidenta de Amar a Nuevo Le\u00f3n y esposa del gobernador de dicha entidad, Samuel Garc\u00eda Sep\u00falveda, result\u00f3 positiva a dengue, despu\u00e9s de al menos dos d\u00edas con fiebre y malest\u2026 [+1277 chars]",
+      "retrievedAt": "2024-12-24 19:05:36.141155",
+      "internal_id": "4ff32dfac113871124013efd5b5bb040635c040b56c309a6d620a78ebe431a18",
+      "publishedAtLabel": "Dec 23"
+    },
+    {
+      "id": 16740,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Elisabeth Mahase",
+      "title": "Bird flu: US reports first severe human case as California declares state of emergency",
+      "description": "The US has reported its first severe case of H5N1 avian influenza in a patient who has been admitted to hospital in Louisiana, bringing the total number of human cases of H5 bird flu in the country to 61 since April 2024.In a statement issued on 18 December t\u2026",
+      "url": "https://www.bmj.com/content/387/bmj.q2859",
+      "urlToImage": "https://www.bmj.com/sites/default/files/highwire/bmj/387/8452.cover-source.jpg",
+      "publishedAt": "2024-12-23 09:51:14",
+      "content": "The US has reported its first severe case of H5N1 avian influenza in a patient who has been admitted to hospital in Louisiana, bringing the total number of human cases of H5 bird flu in the country t\u2026 [+258 chars]",
+      "retrievedAt": "2024-12-24 19:05:35.748032",
+      "internal_id": "978c169dc762dfef2c7d58ee58d8fd743a68cb0b0b28b35f2344ca02ba944bd9",
+      "publishedAtLabel": "Dec 23"
+    },
+    {
+      "id": 16745,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Burioni sulla malattia in Congo: \"Una forma particolarmente grave di malaria\"",
+      "description": "Il virologo ospite da Fabio Fazio a Che Tempo Che Fa: \"Non \u00e8 una nuova malattia\" (ANSA)",
+      "url": "https://www.ansa.it/sito/videogallery/mondo/2024/12/23/burioni-sulla-malattia-in-congo-una-forma-particolarmente-grave-di-malaria_59393315-595b-4f70-b127-177e6a8fd8bd.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2024/12/23/77b3cb21ed27b075d33a4a2abbe973a3.jpg",
+      "publishedAt": "2024-12-23 08:05:59",
+      "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all\u2019abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad \u2026 [+320 chars]",
+      "retrievedAt": "2024-12-24 19:05:36.933099",
+      "internal_id": "97e6500e0009931d0e97613da88bde52a9b5e5c4f637a39e8398b2ebfb1981a1",
+      "publishedAtLabel": "Dec 23"
+    },
     {
       "id": 16726,
       "query": [
@@ -19,6 +380,24 @@
       "content": "Every week or so, scientists issue another warning that the H5N1 bird flu is inching closer to exploding into a pandemic. Despite having contended with a pandemic that broke out less than five years\u2026 [+616 chars]",
       "retrievedAt": "2024-12-24 07:06:19.743115",
       "internal_id": "c9e7184ebfca8d3246cc943a52edce488e66851282a8250dc41ae509b8cfc48a",
+      "publishedAtLabel": "Dec 23"
+    },
+    {
+      "id": 16739,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "R-bloggers.com",
+      "author": "Adam Kucharski",
+      "title": "How well prepared are we to rapidly analyse a new influenza pandemic? A brief perspective on analysis conducted for UK government advisory groups during COVID-19",
+      "description": "With multiple reports of influenza H5N1 cases that have no clear animal exposure, it is useful to consider what kinds of analysis would be required, and how easily this could be performed. As a starting point, this post reflects on some of the r... Contin\u2026",
+      "url": "https://www.r-bloggers.com/2024/12/how-well-prepared-are-we-to-rapidly-analyse-a-new-influenza-pandemic-a-brief-perspective-on-analysis-conducted-for-uk-government-advisory-groups-during-covid-19/",
+      "urlToImage": "https://latex.codecogs.com/png.latex?R_t",
+      "publishedAt": "2024-12-23 00:00:00",
+      "content": "With multiple reports of influenza H5N1 cases that have no clear animal exposure, it is useful to consider what kinds of analysis would be required, and how easily this could be performed. As a start\u2026 [+16970 chars]",
+      "retrievedAt": "2024-12-24 19:05:35.693044",
+      "internal_id": "ade97c0cc90beae5ad375883173bccb05f0f5e6500b681ec0ed88cfbce0a94a9",
       "publishedAtLabel": "Dec 23"
     },
     {
@@ -23640,242 +24019,6 @@
       "content": "WHATCOM COUNTY, Wash. The Washington State Department of Health reported on November 7th that, as of November 2nd, 1,193 cases of pertussis, commonly known as whooping cough, had been reported across\u2026 [+1883 chars]",
       "retrievedAt": "2024-11-12 07:06:21.407044",
       "internal_id": "7e91ca12dc04b7a0ba4fc77d6784176a566754e78f74879959d8a5b6c7f2db13",
-      "publishedAtLabel": "Nov 10"
-    },
-    {
-      "id": 15416,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "DIE WELT",
-      "author": "WELT",
-      "title": "Das steckt hinter der Dunkelziffer der Infektionsf\u00e4lle",
-      "description": "Weltweit grassiert das H5N1-Virus. V\u00f6gel, K\u00fche, Schweine stecken sich an, aber auch Menschen. In US-amerikanischen Milchvieh-Betrieben, die als ein Hotspot gelten, wurden nun Mitarbeiter getestet. Dabei zeigte sich: Zahlreiche Erkrankungen bleiben unentdeckt \u2026",
-      "url": "https://www.welt.de/wissenschaft/article254453336/Vogelgrippe-bei-Menschen-Das-steckt-hinter-der-Dunkelziffer-der-Infektionsfaelle.html",
-      "urlToImage": "https://img.welt.de/img/wissenschaft/mobile254453334/2637933997-ci16x9-w1200/Bird-Flu-Virus.jpg",
-      "publishedAt": "2024-11-10 15:52:08",
-      "content": "Weltweit grassiert das H5N1-Virus. V\u00f6gel, K\u00fche, Schweine stecken sich an, aber auch Menschen. In US-amerikanischen Milchvieh-Betrieben, die als ein Hotspot gelten, wurden nun Mitarbeiter getestet. Da\u2026 [+2404 chars]",
-      "retrievedAt": "2024-11-11 19:05:29.950458",
-      "internal_id": "12080f5267567775babd661bb32bb9cf771f6ee73f73872806d3e53978ad302e",
-      "publishedAtLabel": "Nov 10"
-    },
-    {
-      "id": 15420,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Newsbreak.com",
-      "author": "Yahoo!",
-      "title": "Health officials sound alarm after disease spreads in Florida following devastating hurricanes: 'Their pain is remarkable'",
-      "description": "Floridians are still feeling the ripple effects of extreme rainfall from Hurricanes Milton and Helene. In a concerning development, Fox Weather reported that the Tampa area is now contending with the spread of the mosquito-borne illness dengue fever. What's h\u2026",
-      "url": "https://www.newsbreak.com/share/3668986070323-health-officials-sound-alarm-after-disease-spreads-in-florida-following-devastating-hurricanes-their-pain-is-remarkable?s=a2&amp;share_destination_id=OTc5NjE4ODYtMTczMTI1MjcwNDc4NA%3D%3D&amp;pd=06d2MQ1a&amp;hl=en_US&amp;send_time=1731252704&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2224.44.0%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_local_strategy_24q4_exp-v3%2Cns_foryou_model_exp_24q4-control%2Cns_foryou_rank_exp_24q4-v1%2Cns_foryou_recall_exp_24q4-control%2Cns_pushv1-v9%2Cns_foryou_blend_exp_24q4-v5",
-      "urlToImage": "https://img.particlenews.com/img/id/1S0MEt_0wgxijW700?type=thumbnail_1600x1200",
-      "publishedAt": "2024-11-10 15:32:15",
-      "content": "Its essential to note our commitment to transparency: Our Terms of Use acknowledge that our services may not always be error-free, and our Community Standards emphasize our discretion in enforcing \u2026 [+246 chars]",
-      "retrievedAt": "2024-11-11 19:05:30.362383",
-      "internal_id": "4854464ecb739ac3f1bccaf18ab0b627e22a55921a27e8347cec5fe716b34fc7",
-      "publishedAtLabel": "Nov 10"
-    },
-    {
-      "id": 15414,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Forbes",
-      "author": "Victoria Forster, Contributor, \n Victoria Forster, Contributor\n https://www.forbes.com/sites/victoriaforster/",
-      "title": "Canada Reports First Human Case Of H5N1 Bird Flu",
-      "description": "A teenager in British Columbia, Canada has been hospitalized with a presumed case of H5N1 bird flu, the first detected human case in the country in the current outbreak.",
-      "url": "https://www.forbes.com/sites/victoriaforster/2024/11/10/canada-reports-first-human-case-of-h5n1-bird-flu/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6730c3f0682d22411f9eda93/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2024-11-10 14:43:29",
-      "content": "A Canadian teenager has been hospitalized with bird flu, the first human case of H5N1 in the current ... [+] outbreak detected in the country. getty A teenager in British Columbia, Canada has been \u2026 [+2690 chars]",
-      "retrievedAt": "2024-11-11 19:05:29.900367",
-      "internal_id": "5784063b05bd6ffa2574153f7d91e74895ea0b46fca15117ef73043586782089",
-      "publishedAtLabel": "Nov 10"
-    },
-    {
-      "id": 15412,
-      "query": [
-        "pertussis"
-      ],
-      "source_id": null,
-      "source_name": "National Institutes of Health",
-      "author": null,
-      "title": "Diphtheria-tetanus-pertussis immunization and sudden infant death: results of the National Institute of Child Health and Human Development Cooperative Epidemiological Study of Sudden Infant Death Syndrome risk factors",
-      "description": "The possible association between diphtheria-pertussis-tetanus (DTP) immunization and the subsequent occurrence of sudden infant death has been examined using data from the National Institute of Child Health and Human Development (NICHD) Sudden Infant Death Sy\u2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/3493477/",
-      "urlToImage": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg",
-      "publishedAt": "2024-11-10 12:29:32",
-      "content": "The possible association between diphtheria-pertussis-tetanus (DTP) immunization and the subsequent occurrence of sudden infant death has been examined using data from the National Institute of Child\u2026 [+1613 chars]",
-      "retrievedAt": "2024-11-11 19:05:28.821764",
-      "internal_id": "6c74d4cedaf64c99b074cc0ce810af2f99f59160b59d083290122b862efbb964",
-      "publishedAtLabel": "Nov 10"
-    },
-    {
-      "id": 15417,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "die-zeit",
-      "source_name": "Die Zeit",
-      "author": "ZEIT ONLINE: Gesundheit - Wenke Husmann",
-      "title": "Vogelgrippe: Vogelgrippe-F\u00e4lle bei Menschen bleiben oft unentdeckt",
-      "description": "Derzeit grassiert die gr\u00f6\u00dfte je dokumentierte Vogelgrippewelle. Auch viele K\u00fche sind betroffen, und offenbar auch Mitarbeiter von Milchvieh-Betrieben \u2013 ohne es zu sp\u00fcren.",
-      "url": "https://www.zeit.de/gesundheit/2024-11/vogelgrippe-menschen-unentdeckt-usa",
-      "urlToImage": "https://img.zeit.de/gesundheit/2024-11/vogelgrippe-menschen-unentdeckt-usa-bild/wide__1300x731",
-      "publishedAt": "2024-11-10 12:10:30",
-      "content": "Zahlreiche Infektionen von Menschen mit dem Vogelgrippe-Virus H5N1 in Milchvieh-Betrieben in den USA werden offenbar nicht entdeckt. Beim Testen von Mitarbeitenden in Betrieben, in denen das Virus un\u2026 [+3038 chars]",
-      "retrievedAt": "2024-11-11 19:05:29.956996",
-      "internal_id": "9cdf1dbcec166ebc18ac14171ad34462bc52a751560997a66fe2351c09724fa2",
-      "publishedAtLabel": "Nov 10"
-    },
-    {
-      "id": 15423,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "The Punch",
-      "author": "Lara Adejoro",
-      "title": "WHO, Africa CDC strengthen Mpox vaccination in Nigeria, 16 other countries",
-      "description": "The World Health Organisation and the Africa Centres for Disease Control and Prevention have committed to guiding the development of targeted mpox vaccine preparedness and deployment plans to ensure the efficient use of available doses. This decision was reac\u2026",
-      "url": "https://punchng.com/who-africa-cdc-strengthen-mpox-vaccination-in-nigeria-16-other-countries/",
-      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2023/05/13101855/logo-who.tmb-1200v.jpg",
-      "publishedAt": "2024-11-10 11:23:54",
-      "content": "The World Health Organisation and the Africa Centres for Disease Control and Prevention have committed to guiding the development of targeted mpox vaccine preparedness and deployment plans to ensure \u2026 [+3980 chars]",
-      "retrievedAt": "2024-11-11 19:05:31.656413",
-      "internal_id": "a3a7346c7ca81a0863a1c88d3577075b4fb8a21f6d12b68212a51a14249c1835",
-      "publishedAtLabel": "Nov 10"
-    },
-    {
-      "id": 15418,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "der-tagesspiegel",
-      "source_name": "Der Tagesspiegel",
-      "author": "Der Tagesspiegel",
-      "title": "Vogelgrippe in den USA: F\u00e4lle bei Menschen bleiben oft unentdeckt",
-      "description": "Derzeit grassiert die gr\u00f6\u00dfte je dokumentierte Vogelgrippewelle. In den USA sind auch viele K\u00fche betroffen. Nun zeigen Tests: Viele Mitarbeiter von Milchvieh-Betrieben sind infiziert, ohne es zu wissen.",
-      "url": "https://www.tagesspiegel.de/wissen/vogelgrippe-in-den-usa-falle-bei-menschen-bleiben-oft-unentdeckt-12679604.html",
-      "urlToImage": "https://www.tagesspiegel.de/images/12679628/alternates/BASE_16_9_W1400/1731235904000/vogelgrippe-in-den-usa.jpeg",
-      "publishedAt": "2024-11-10 10:58:24",
-      "content": "Zahlreiche Infektionen von Menschen mit dem Vogelgrippe-Virus H5N1 in Milchvieh-Betrieben in den USA werden offenbar nicht entdeckt. Beim Testen von Mitarbeitern in Betrieben, in denen das Virus bei \u2026 [+3594 chars]",
-      "retrievedAt": "2024-11-11 19:05:29.968806",
-      "internal_id": "6e0eaf61df4edb61532aa164c28620251907950f180d812ee2cf23de08783753",
-      "publishedAtLabel": "Nov 10"
-    },
-    {
-      "id": 15415,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Livemint",
-      "author": "mint",
-      "title": "Bird flu among pigs should worry humans too",
-      "description": "While virus outbreaks have waxed and waned, in 2022 something strange started happening with vastly more birds and mammals getting infected and even dying globally. Scientists need to conduct more research to understand this virus. After covid, we know the ri\u2026",
-      "url": "https://www.livemint.com/opinion/online-views/bird-flu-pigs-virus-outbreak-h5n1-virus-mammals-pandemic-chickens-11731230798297.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2024/11/10/1600x900/2-0-106799100-MK-AM098A-OLYMPIGS-3C-0_1681495746567_1731232236185.jpg",
-      "publishedAt": "2024-11-10 10:00:17",
-      "content": "When the US Department of Agriculture announced that the H5N1 bird flu had turned up in a pig, I dropped what I was doing to read it. The situation didnt quite match the nightmare scenario some exper\u2026 [+4564 chars]",
-      "retrievedAt": "2024-11-11 19:05:29.938607",
-      "internal_id": "acc89cf73f815fabb449b14b6ad1b8ad6671a600a0dc50a70d42d9b687a4315a",
-      "publishedAtLabel": "Nov 10"
-    },
-    {
-      "id": 15422,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Faz.net",
-      "author": "AFP",
-      "title": "UN: 1,4 Millionen Menschen von \u00dcberschwemmungen im S\u00fcdsudan betroffen",
-      "description": "Fast 400.000 Menschen wurden nach UN-Angaben durch das Hochwasser im S\u00fcdsudan vertrieben. Die Malaria-F\u00e4lle steigen \u2013 und \u00fcberfordern das Gesundheitssystem. Die humanit\u00e4re Lage im Land ist ohnehin dramatisch.",
-      "url": "https://www.faz.net/aktuell/gesellschaft/ungluecke/suedsudan-1-4-millionen-menschen-von-ueberschwemmungen-betroffen-110101826.html",
-      "urlToImage": "https://media0.faz.net/ppmedia/aktuell/992566442/1.10101830/facebook_teaser/die-weltbank-hatte-am-1.jpg",
-      "publishedAt": "2024-11-10 09:47:21",
-      "content": "Inzwischen seien die Menschen in 43 Bezirken sowie in der zwischen S\u00fcdsudan und Sudan umstrittenen Region Abyei von dem Hochwasser betroffen, erkl\u00e4rte das UN-B\u00fcro f\u00fcr humanit\u00e4re Angelegenheiten. In 2\u2026 [+1536 chars]",
-      "retrievedAt": "2024-11-11 19:05:31.098656",
-      "internal_id": "6d13cf1781648a0b6b7fb64bc408e001e26c27d42c3395bdbfb0cf25ad6a162e",
-      "publishedAtLabel": "Nov 10"
-    },
-    {
-      "id": 15419,
-      "query": [
-        "dengue",
-        "zika",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Jornada.com.mx",
-      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "title": "Contin\u00faan acciones de prevenci\u00f3n contra Dengue, Zika y Chikungunya en Chiapas: Rutilio Escand\u00f3n",
-      "description": "En el contexto de la Mesa de Coordinaci\u00f3n Estatal para la Construcci\u00f3n de la Paz y la Segu-ridad, el gobernador de Chiapas, Rutilio Escan-d\u00f3n Cadenas, destac\u00f3 que las autoridades fede-rales, estatales y municipales contin\u00faan con las acciones prioritarias de l\u2026",
-      "url": "https://www.jornada.com.mx/2024/11/10/estados/021n4est",
-      "urlToImage": "https://www.jornada.com.mx/2024/11/10/fotos/021n4est-1.jpg",
-      "publishedAt": "2024-11-10 09:36:53",
-      "content": "Peri\u00f3dico La JornadaDomingo 10 de noviembre de 2024, p. 21 En el contexto de la Mesa de Coordinaci\u00f3n Estatal para la Construcci\u00f3n de la Paz y la Segu-ridad, el gobernador de Chiapas, Rutilio Escan-d\u2026 [+620 chars]",
-      "retrievedAt": "2024-11-11 19:05:30.339812",
-      "internal_id": "ac38807124be84f45c30f3ceb8cafd79bae6421f87907f275b8da782dc71413a",
-      "publishedAtLabel": "Nov 10"
-    },
-    {
-      "id": 15421,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Indian Express",
-      "author": "IE Bangla Web Desk",
-      "title": "Dengue in Westbengal: \u09ad\u09df \u09a7\u09b0\u09be\u099a\u09cd\u099b\u09c7 \u09b0\u09be\u099c\u09cd\u09af\u09c7\u09b0 \u09a1\u09c7\u0999\u09cd\u0997\u09c1 \u09aa\u09b0\u09bf\u09b8\u09cd\u09a5\u09bf\u09a4\u09bf, \u099a\u09b2\u09a4\u09bf \u09ae\u09be\u09b8\u09c7 \u0986\u0995\u09cd\u09b0\u09be\u09a8\u09cd\u09a4\u09c7\u09b0 \u09aa\u09b0\u09bf\u09b8\u0982\u0996\u09cd\u09af\u09be\u09a8 \u099a\u09ae\u0995\u09c7 \u09a6\u09bf\u09a4\u09c7 \u09ac\u09be\u09a7\u09cd\u09af",
-      "description": "Dengue in Westbengal: \u098f\u0996\u09a8\u0993 \u09b6\u09c0\u09a4 \u09b8\u09c7\u09ad\u09be\u09ac\u09c7 \u09b0\u09be\u099c\u09cd\u09af\u09c7 \u09aa\u09cd\u09b0\u09ac\u09c7\u09b6 \u0995\u09b0\u09c7\u09a8\u09bf\u0964 \u098f\u09a6\u09bf\u0995\u09c7 \u09a6\u09bf\u09a8\u09c7 \u09a6\u09bf\u09a8\u09c7 \u09b0\u09be\u099c\u09cd\u09af\u09c7 \u09ac\u09c7\u09dc\u09c7\u0987 \u099a\u09b2\u09c7\u099b\u09c7 \u09a1\u09c7\u0999\u09cd\u0997\u09c1 \u0986\u0995\u09cd\u09b0\u09be\u09a8\u09cd\u09a4\u09c7\u09b0 \u09b8\u0982\u0996\u09cd\u09af\u09be\u0964 \u09b8\u09cd\u09ac\u09be\u09b8\u09cd\u09a5\u09cd\u09af \u09a6\u09ab\u09a4\u09b0\u09c7\u09b0 \u09aa\u09b0\u09bf\u09b8\u0982\u0996\u09cd\u09af\u09be\u09a8 \u0995\u09bf\u09a8\u09cd\u09a4\u09c1 \u099a\u09ae\u0995\u09c7 \u09a6\u09c7\u0993\u09df\u09be\u09b0 \u09ae\u09a4\u0987\u0964 \u09b8\u09cd\u09ac\u09be\u09b8\u09cd\u09a5\u09cd\u09af \u09a6\u09ab\u09a4\u09b0 \u09b8\u09c2\u09a4\u09cd\u09b0\u09c7 \u099c\u09be\u09a8\u09be \u0997\u09bf\u09df\u09c7\u099b\u09c7 \u09ea\u09a0\u09be \u09a8\u09ad\u09c7\u09ae\u09cd\u09ac\u09b0 \u09aa\u09b0\u09cd\u09af\u09a8\u09cd\u09a4 \u09b0\u09be\u099c\u09cd\u09af\u09c7 \u09ae\u09cb\u099f \u09a1\u09c7\u0999\u09cd\u0997\u09c1 \u0986\u0995\u09cd\u09b0\u09be\u09a8\u09cd\u09a4\u09c7\u09b0 \u09b8\u0982\u0996\u09cd\u2026",
-      "url": "https://bengali.indianexpress.com/west-bengal/dengue-cases-rising-in-west-bengal-govt-says-situation-under-control-7569144",
-      "urlToImage": "https://img-cdn.thepublive.com/fit-in/1200x675/indian-express-bangla/media/media_files/2024/11/10/NQB51nJjKXMCwmT24VId.jpg",
-      "publishedAt": "2024-11-10 09:13:46",
-      "content": "Dengue in Westbengal: , , , ! , , ,, - , , ' '?",
-      "retrievedAt": "2024-11-11 19:05:30.369074",
-      "internal_id": "53986fd0600c7f132e024791825ba9669ea53b47b2c7f07d0cc6baa99d9bc6d9",
-      "publishedAtLabel": "Nov 10"
-    },
-    {
-      "id": 15413,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Acecomments.mu.nu",
-      "author": "Pixy Misa",
-      "title": "Daily Tech News 10 November 2024",
-      "description": "Top Story Beata Halassy had breast cancer - for the third time, despite chemotherapy and a mastectomy. She had cancer. She gave it measles and it died. (Nature) Beata is a virologist so she prepared her own virus culture -...",
-      "url": "https://acecomments.mu.nu/?post=412315",
-      "urlToImage": null,
-      "publishedAt": "2024-11-10 09:00:00",
-      "content": "Disclaimer: You thought he was buying a social network in terminal decline. He bought a solar system.",
-      "retrievedAt": "2024-11-11 19:05:29.475144",
-      "internal_id": "bae36c58b7c159bf44713745c260ef138a70d806f492de198b851d2545e749c5",
-      "publishedAtLabel": "Nov 10"
-    },
-    {
-      "id": 15424,
-      "query": [
-        "leptospirosis"
-      ],
-      "source_id": null,
-      "source_name": "Elespanol.com",
-      "author": "P. Fava",
-      "title": "Llega un nuevo temporal de lluvia y fr\u00edo a Espa\u00f1a: Aemet avisa por DANA, nevadas y 100 l/m esta semana en estas zonas",
-      "description": "Los vientos fr\u00edos del norte har\u00e1n su entrada coincidiendo con el comienzo de la semana, y se espera el comienzo del temporal para el martes. M\u00e1s informaci\u00f3n: As\u00ed es la leptospirosis: la infecci\u00f3n que amenaza a los afectados de la DANA tras el estancamiento de\u2026",
-      "url": "https://www.elespanol.com/ciencia/meteorologia/20241110/llega-nuevo-temporal-lluvia-frio-espana-aemet-avisa-dana-nevadas-lm-semana-zonas/899660612_0.html",
-      "urlToImage": "https://s1.elespanol.com/2024/11/10/ciencia/meteorologia/900170005_250752543_1706x960.png",
-      "publishedAt": "2024-11-10 08:51:48",
-      "content": "La relativa estabilidad atmosf\u00e9rica de los \u00faltimos d\u00edas, sumada a temperaturas que han llegado a ser ligeramente superiores a las habituales para la \u00e9poca del a\u00f1o, tiene las horas contadas. Rub\u00e9n del\u2026 [+3391 chars]",
-      "retrievedAt": "2024-11-11 19:05:31.930287",
-      "internal_id": "de73704a34e08961747be2d344cf11311868d0c70ba0e3c83901cb055c20b1e1",
       "publishedAtLabel": "Nov 10"
     }
   ]

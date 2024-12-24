@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 15
-- **Last harvest:** 2024-12-24 07:06
-- **Most recent article:** 2024-12-23 06:30:00
+- **New articles in last harvest:** 21
+- **Last harvest:** 2024-12-24 19:05
+- **Most recent article:** 2024-12-23 18:48:18
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-46 | 24-47 | 24-48 | 24-49 | 24-50 | 24-51 | 24-52 | Total |
 |--|-|-|-|-|-|-|-|-|
-| h5n1 | 37 | 50 | 38 | 70 | 61 | 112 | 5 | 373 |
-| mpox | 62 | 76 | 26 | 20 | 26 | 92 | 1 | 303 |
-| malaria | 33 | 27 | 29 | 27 | 76 | 60 | 1 | 253 |
-| dengue | 36 | 28 | 25 | 10 | 33 | 30 | 4 | 166 |
-| measles | 32 | 11 | 6 | 9 | 10 | 6 | 0 | 74 |
+| h5n1 | 32 | 50 | 38 | 70 | 61 | 112 | 7 | 370 |
+| mpox | 61 | 76 | 26 | 20 | 26 | 92 | 11 | 312 |
+| malaria | 32 | 27 | 29 | 27 | 76 | 60 | 2 | 253 |
+| dengue | 33 | 28 | 25 | 10 | 33 | 30 | 8 | 167 |
+| measles | 31 | 11 | 6 | 9 | 10 | 6 | 2 | 75 |
 | rabies | 11 | 7 | 12 | 13 | 3 | 7 | 1 | 54 |
-| chikungunya | 3 | 5 | 4 | 6 | 7 | 8 | 0 | 33 |
-| pertussis | 8 | 5 | 1 | 4 | 6 | 4 | 0 | 28 |
+| chikungunya | 2 | 5 | 4 | 6 | 7 | 8 | 0 | 32 |
+| pertussis | 7 | 5 | 1 | 4 | 6 | 4 | 0 | 27 |
 | meningitis | 2 | 5 | 3 | 3 | 7 | 5 | 0 | 25 |
-| hpai | 4 | 4 | 0 | 2 | 4 | 6 | 0 | 20 |
-| zika | 4 | 3 | 1 | 4 | 4 | 4 | 0 | 20 |
-| leptospirosis | 3 | 0 | 2 | 0 | 3 | 0 | 0 | 8 |
+| hpai | 4 | 4 | 0 | 2 | 4 | 6 | 1 | 21 |
+| zika | 3 | 3 | 1 | 4 | 4 | 4 | 1 | 20 |
+| leptospirosis | 2 | 0 | 2 | 0 | 3 | 0 | 1 | 8 |
 | typhoid | 1 | 3 | 1 | 0 | 1 | 0 | 0 | 6 |
 | shigellosis | 1 | 0 | 0 | 0 | 0 | 1 | 0 | 2 |
 | yersinia | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 2 |
@@ -33,21 +33,65 @@ Source: [News API](https://newsapi.org/)
 
 ---
 
+## 24-52 (zika)
+
+- [Governing global health with a planetary mindset](https://www.bmj.com/content/387/bmj.q2822) (The BMJ)
+
 ## 24-52 (rabies)
 
 - [Maria Gunther: Lyckliga i alla sina dagar – men mår prinsessorna verkligen bra?](https://www.dn.se/varlden/maria-gunther-lyckliga-i-alla-sina-dagar-men-mar-prinsessorna-verkligen-bra/) (Www.dn.se)
 
 ## 24-52 (mpox)
 
+- [Monday headlines: Never melt better](https://themorningnews.org/p/monday-headlines-never-melt-better) (Themorningnews.org)
+
+- [Mpox situation in Africa remains "especially concerning:" WHO](https://www.thestar.com.my/news/world/2024/12/24/mpox-situation-in-africa-remains-especially-concerning-who) (The Star Online)
+
+- [La OMS advierte sobre el aumento de casos de mpox en Australia, aunque descienden a nivel global un 13%](https://www.infosalus.com/salud-investigacion/noticia-oms-advierte-aumento-casos-mpox-australia-descienden-nivel-global-13-20241223173735.html) (Infosalus.com)
+
+- [ΕΟΔΥ: 18 κρούσματα ευλογιάς των πιθήκων τους τελευταίους δύο μήνες](https://www.skai.gr/news/health/eody-18-epivevaiomena-krousmata-eylogias-ton-pithikon) (Skai.gr)
+
+- [Mpox: 18 κρούσματα της ευλογιάς των πιθήκων το δίμηνο Νοεμβρίου - Δεκεμβρίου στην Ελλάδα](https://www.protothema.gr/greece/article/1579534/mpox-18-krousmata-tis-eulogias-ton-pithikon-to-dimino-noemvriou-dekemvriou-stin-ellada/) (Protothema.gr)
+
+- [Κρούσματα mpox Ελλάδα: Συναγερμός στον ΕΟΔΥ](https://www.alphafreepress.gr/2024/12/23/ellada/krousmata-mpox-ellada-synagermos-ston-eody/) (Alphafreepress.gr)
+
+- [В мире более 117 тыс. человек заразились оспой обезьян с начала года](https://tass.ru/obschestvo/22753533) (Tass.ru)
+
+- [Ευλογιά πιθήκων (mbox): Νέα κρούσματα στην Ελλάδα](https://www.naftemporiki.gr/health/1864764/eylogia-pithikon-mbox-nea-kroysmata-stin-ellada/) (Naftemporiki.gr)
+
+- [ΕΟΔΥ: 18 κρούσματα της ευλογιάς των πιθήκων το δίμηνο Νοεμβρίου – Δεκεμβρίου στην Ελλάδα](https://www.newsit.gr/ellada/eody-18-krousmata-tis-eylogias-ton-pithikon-to-dimino-noemvriou-dekemvriou-stin-ellada/4267701/) (Newsit.gr)
+
+- [Multi-country outbreak of mpox, External situation report#44 - 23 December 2024](https://www.who.int/publications/m/item/multi-country-outbreak-of-mpox--external-situation-report-44---23-december-2024) (World Health Organization)
+
 - [Singapore watching four diseases including Covid-19 and mpox,as part of pandemic preparedness, says health minister](https://www.thestar.com.my/aseanplus/aseanplus-news/2024/12/22/singapore-watching-four-diseases-including-covid-19-and-mpoxas-part-of-pandemic-preparedness-says-health-minister) (The Star Online)
+
+## 24-52 (measles)
+
+- [Disturbing New Report From World Health Organization Finds A 20% Spike In Cases Of Measles Worldwide Resulting In Over 100,000 Fatal Cases](http://twistedsifter.com/2024/12/disturbing-new-report-from-world-health-organization-finds-a-20-spike-in-cases-of-measles-worldwide-resulting-in-over-100000-fatal-cases/) (Twistedsifter.com)
+
+- [Ontario reports spike in measles cases; 37 linked to an exposure in New Brunswick | Globalnews.ca](https://globalnews.ca/news/10931316/ontario-reports-spike-in-measles-cases-37-linked-to-an-exposure-in-new-brunswick/) (Global News)
 
 ## 24-52 (malaria)
 
+- [Burioni sulla malattia in Congo: "Una forma particolarmente grave di malaria"](https://www.ansa.it/sito/videogallery/mondo/2024/12/23/burioni-sulla-malattia-in-congo-una-forma-particolarmente-grave-di-malaria_59393315-595b-4f70-b127-177e6a8fd8bd.html) (ANSA.it)
+
 - [How I saved 1 human life (in expectation) without overthinking it](https://www.lesswrong.com/posts/ojhLv79GhpKbfqxiF/how-i-saved-1-human-life-in-expectation-without-overthinking) (Lesswrong.com)
+
+## 24-52 (leptospirosis)
+
+- [Seroepidemiology of human leptospirosis in the Dominican Republic: A multistage cluster survey, 2021](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012463) (Plos.org)
+
+## 24-52 (hpai)
+
+- [Vores vidensindsamling og demokratiske samtale påvirkes af helt lukkede beslutninger i en enkelt privat virksomhed](https://www.computerworld.dk/art/289800/vores-vidensindsamling-og-demokratiske-samtale-paavirkes-af-helt-lukkede-beslutninger-i-en-enkelt-privat-virksomhed) (Computerworld.dk)
 
 ## 24-52 (h5n1)
 
+- [Bird flu: US reports first severe human case as California declares state of emergency](https://www.bmj.com/content/387/bmj.q2859) (The BMJ)
+
 - [Another pandemic is inevitable, and the U.S. isn't ready](https://www.japantimes.co.jp/commentary/2024/12/23/world/another-pandemic-is-inevitable/) (The Japan Times)
+
+- [How well prepared are we to rapidly analyse a new influenza pandemic? A brief perspective on analysis conducted for UK government advisory groups during COVID-19](https://www.r-bloggers.com/2024/12/how-well-prepared-are-we-to-rapidly-analyse-a-new-influenza-pandemic-a-brief-perspective-on-analysis-conducted-for-uk-government-advisory-groups-during-covid-19/) (R-bloggers.com)
 
 - [Pierwszy tak ciężki przypadek ptasiej grypy w USA. Stan 65-latka jest krytyczny. 61 osób zakażonych](https://wiadomosci.gazeta.pl/wiadomosci/7,114881,31566135,p.html) (Gazeta.pl)
 
@@ -58,6 +102,14 @@ Source: [News API](https://newsapi.org/)
 - [Singapore watching four diseases including Covid-19 and mpox,as part of pandemic preparedness, says health minister](https://www.thestar.com.my/aseanplus/aseanplus-news/2024/12/22/singapore-watching-four-diseases-including-covid-19-and-mpoxas-part-of-pandemic-preparedness-says-health-minister) (The Star Online)
 
 ## 24-52 (dengue)
+
+- [Vacaciones en Brasil: estas son las vacunas que los médicos recomiendan darse antes de viajar](https://www.lanacion.com.ar/sociedad/vacaciones-en-brasil-estas-son-las-vacunas-que-los-medicos-recomiendan-darse-antes-de-viajar-nid23122024/) (La Nacion)
+
+- [Predicting the infecting dengue serotype from antibody titre data using machine learning](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012188) (Plos.org)
+
+- [Governing global health with a planetary mindset](https://www.bmj.com/content/387/bmj.q2822) (The BMJ)
+
+- [Mariana Rodríguez Cantú da positivo a dengue](https://aristeguinoticias.com/2312/mexico/mariana-rodriguez-cantu-da-positivo-a-dengue/) (Aristeguinoticias.com)
 
 - [Cuál es la enfermedad que se expande en Florida y preocupa a las autoridades: hay casos en Tampa Bay](https://www.lanacion.com.ar/estados-unidos/florida/cual-es-la-enfermedad-que-se-expande-en-florida-y-preocupa-a-las-autoridades-hay-casos-en-tampa-bay-nid22122024/) (La Nacion)
 
@@ -2435,8 +2487,6 @@ Source: [News API](https://newsapi.org/)
 
 - [¿Hay riesgo de dengue o zika tras el paso de la DANA? El mosquito que puede proliferar en aguas estancadas de España](https://www.alimente.elconfidencial.com/bienestar/2024-11-14/hay-riesgo-de-dengue-o-zika-tras-el-paso-de-la-dana_4003875/) (Elconfidencial.com)
 
-- [Continúan acciones de prevención contra Dengue, Zika y Chikungunya en Chiapas: Rutilio Escandón](https://www.jornada.com.mx/2024/11/10/estados/021n4est) (Jornada.com.mx)
-
 ## 24-46 (typhoid)
 
 - [Four-year typhoid fever outbreak in Canada linked to chronic carrier](https://www.foodsafetynews.com/2024/11/four-year-typhoid-fever-outbreak-in-canada-linked-to-chronic-carrier/) (Food Safety News)
@@ -2484,8 +2534,6 @@ Source: [News API](https://newsapi.org/)
 - [โรงเรียนสาธิต มศว.ปทุมวัน ปิดเรียน 2 สัปดาห์ หลังพบเด็กป่วยไอกรน](https://www.thairath.co.th/news/society/2825340) (Thairath.co.th)
 
 - [WA Health: Significant increase in reported cases of pertussis (whooping cough) | Whatcom News](https://whatcom-news.com/wa-health-significant-increase-in-reported-cases-of-pertussis-whooping-cough_220911/) (Whatcom-news.com)
-
-- [Diphtheria-tetanus-pertussis immunization and sudden infant death: results of the National Institute of Child Health and Human Development Cooperative Epidemiological Study of Sudden Infant Death Syndrome risk factors](https://pubmed.ncbi.nlm.nih.gov/3493477/) (National Institutes of Health)
 
 ## 24-46 (mpox)
 
@@ -2611,8 +2659,6 @@ Source: [News API](https://newsapi.org/)
 
 - [WHO kaller inn til nytt krisemøte om mpox](https://www.nrk.no/nyheter/who-kaller-inn-til-nytt-krisemote-om-mpox-1.17120756) (NRK)
 
-- [WHO, Africa CDC strengthen Mpox vaccination in Nigeria, 16 other countries](https://punchng.com/who-africa-cdc-strengthen-mpox-vaccination-in-nigeria-16-other-countries/) (The Punch)
-
 ## 24-46 (meningitis)
 
 - [Lassa fever, meningitis deaths hit 535](https://punchng.com/lassa-fever-meningitis-deaths-hit-535/) (The Punch)
@@ -2683,8 +2729,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Machine learning algorithms for prediction of measles one vaccination dropout among 12-23 months children in Ethiopia](https://bmjopen.bmj.com/content/14/11/e089764) (The BMJ)
 
-- [Daily Tech News 10 November 2024](https://acecomments.mu.nu/?post=412315) (Acecomments.mu.nu)
-
 ## 24-46 (malaria)
 
 - [Lazio striker Dia given all-clear after malaria scare](https://football-italia.net/lazio-striker-dia-all-clear-malaria-scare/) (Football Italia)
@@ -2751,15 +2795,11 @@ Source: [News API](https://newsapi.org/)
 
 - [मुंबई में रोज 22 लोगों को होता है मलेरिया, घर-घर में ब्रीडिंग स्पॉट्स, आंकड़े डरा देंगे](https://navbharattimes.indiatimes.com/metro/mumbai/development/malaria-symptoms-caused-by-cases-in-mumbai-maharashtra-data/articleshow/115156656.cms) (The Times of India)
 
-- [UN: 1,4 Millionen Menschen von Überschwemmungen im Südsudan betroffen](https://www.faz.net/aktuell/gesellschaft/ungluecke/suedsudan-1-4-millionen-menschen-von-ueberschwemmungen-betroffen-110101826.html) (Faz.net)
-
 ## 24-46 (leptospirosis)
 
 - [¿Qué es la leptospirosis? Una amenaza invisible en zonas inundadas](https://www.nationalgeographic.com.es/ciencia/que-es-leptospirosis-enfermedad-que-protegerse-inundaciones_23616) (Nationalgeographic.com.es)
 
 - [Exposure to live saprophytic Leptospira before challenge with a pathogenic serovar prevents severe leptospirosis and promotes kidney homeostasis](https://elifesciences.org/articles/96470) (Elifesciences.org)
-
-- [Llega un nuevo temporal de lluvia y frío a España: Aemet avisa por DANA, nevadas y 100 l/m esta semana en estas zonas](https://www.elespanol.com/ciencia/meteorologia/20241110/llega-nuevo-temporal-lluvia-frio-espana-aemet-avisa-dana-nevadas-lm-semana-zonas/899660612_0.html) (Elespanol.com)
 
 ## 24-46 (hpai)
 
@@ -2837,16 +2877,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Many Bird Flu Infections Among Dairy Workers Go Undetected](https://www.forbes.com/sites/victoriaforster/2024/11/10/many-bird-flu-infections-among-dairy-workers-go-undetected/) (Forbes)
 
-- [Das steckt hinter der Dunkelziffer der Infektionsfälle](https://www.welt.de/wissenschaft/article254453336/Vogelgrippe-bei-Menschen-Das-steckt-hinter-der-Dunkelziffer-der-Infektionsfaelle.html) (DIE WELT)
-
-- [Canada Reports First Human Case Of H5N1 Bird Flu](https://www.forbes.com/sites/victoriaforster/2024/11/10/canada-reports-first-human-case-of-h5n1-bird-flu/) (Forbes)
-
-- [Vogelgrippe: Vogelgrippe-Fälle bei Menschen bleiben oft unentdeckt](https://www.zeit.de/gesundheit/2024-11/vogelgrippe-menschen-unentdeckt-usa) (Die Zeit)
-
-- [Vogelgrippe in den USA: Fälle bei Menschen bleiben oft unentdeckt](https://www.tagesspiegel.de/wissen/vogelgrippe-in-den-usa-falle-bei-menschen-bleiben-oft-unentdeckt-12679604.html) (Der Tagesspiegel)
-
-- [Bird flu among pigs should worry humans too](https://www.livemint.com/opinion/online-views/bird-flu-pigs-virus-outbreak-h5n1-virus-mammals-pandemic-chickens-11731230798297.html) (Livemint)
-
 ## 24-46 (dengue)
 
 - [Researchers blame climate change for one fifth of dengue cases](https://www.voanews.com/a/fifth-of-dengue-cases-due-to-climate-change-researchers-/7866482.html) (VOA News)
@@ -2915,16 +2945,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Bacolod: Negros Occidental logs 5,528 dengue cases](https://rpnradio.com/bacolod-negros-occidental-logs-5528-dengue-cases/) (Rpnradio.com)
 
-- [Health officials sound alarm after disease spreads in Florida following devastating hurricanes: 'Their pain is remarkable'](https://www.newsbreak.com/share/3668986070323-health-officials-sound-alarm-after-disease-spreads-in-florida-following-devastating-hurricanes-their-pain-is-remarkable?s=a2&amp;share_destination_id=OTc5NjE4ODYtMTczMTI1MjcwNDc4NA%3D%3D&amp;pd=06d2MQ1a&amp;hl=en_US&amp;send_time=1731252704&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2224.44.0%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_local_strategy_24q4_exp-v3%2Cns_foryou_model_exp_24q4-control%2Cns_foryou_rank_exp_24q4-v1%2Cns_foryou_recall_exp_24q4-control%2Cns_pushv1-v9%2Cns_foryou_blend_exp_24q4-v5) (Newsbreak.com)
-
-- [Continúan acciones de prevención contra Dengue, Zika y Chikungunya en Chiapas: Rutilio Escandón](https://www.jornada.com.mx/2024/11/10/estados/021n4est) (Jornada.com.mx)
-
-- [Dengue in Westbengal: ভয় ধরাচ্ছে রাজ্যের ডেঙ্গু পরিস্থিতি, চলতি মাসে আক্রান্তের পরিসংখ্যান চমকে দিতে বাধ্য](https://bengali.indianexpress.com/west-bengal/dengue-cases-rising-in-west-bengal-govt-says-situation-under-control-7569144) (The Indian Express)
-
 ## 24-46 (chikungunya)
 
 - [Dengue, coronavírus, influenza, chikungunya: de onde vêm os nomes dos vírus e das doenças?](https://gizmodo.uol.com.br/dengue-coronavirus-influenza-chikungunya-de-onde-vem-os-nomes-dos-virus-e-das-doencas/) (Uol.com.br)
 
 - [Chikungunya and vaccines: Combatting mosquito diseases](https://www.digitaljournal.com/tech-science/chikungunya-and-vaccines-combatting-mosquito-diseases/article) (Digital Journal)
-
-- [Continúan acciones de prevención contra Dengue, Zika y Chikungunya en Chiapas: Rutilio Escandón](https://www.jornada.com.mx/2024/11/10/estados/021n4est) (Jornada.com.mx)
