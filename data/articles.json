@@ -1,8 +1,98 @@
 {
-  "last_updated": "2024-12-23 19:05",
-  "count_articles_total": 1296,
-  "count_articles_new": 4,
+  "last_updated": "2024-12-24 07:06",
+  "count_articles_total": 1324,
+  "count_articles_new": 15,
   "articles": [
+    {
+      "id": 16726,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "The Japan Times",
+      "author": "F.D. Flam",
+      "title": "Another pandemic is inevitable, and the U.S. isn't ready",
+      "description": "U.S. President-elect Donald Trump\u2019s picks to lead the nation\u2019s top public health agencies also don\u2019t inspire confidence.",
+      "url": "https://www.japantimes.co.jp/commentary/2024/12/23/world/another-pandemic-is-inevitable/",
+      "urlToImage": "https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/23/441812.jpg?v=3.1",
+      "publishedAt": "2024-12-23 06:30:00",
+      "content": "Every week or so, scientists issue another warning that the H5N1 bird flu is inching closer to exploding into a pandemic. Despite having contended with a pandemic that broke out less than five years\u2026 [+616 chars]",
+      "retrievedAt": "2024-12-24 07:06:19.743115",
+      "internal_id": "c9e7184ebfca8d3246cc943a52edce488e66851282a8250dc41ae509b8cfc48a",
+      "publishedAtLabel": "Dec 23"
+    },
+    {
+      "id": 16734,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "EL TIEMPO (GDA)",
+      "title": "Cu\u00e1l es la enfermedad que se expande en Florida y preocupa a las autoridades: hay casos en Tampa Bay",
+      "description": "En los \u00faltimos tres meses el n\u00famero de contagios se ha duplicado en varias regiones de la Florida",
+      "url": "https://www.lanacion.com.ar/estados-unidos/florida/cual-es-la-enfermedad-que-se-expande-en-florida-y-preocupa-a-las-autoridades-hay-casos-en-tampa-bay-nid22122024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/en-los-ultimos-meses-se-han-multiplicado-los-A44PD5MNHRBQVAYVWD6PCJ4K2E.jpg?auth=9e901fafd34bcfe708a66b00bae42049952e4c0c9e463176b970d5f85c1880a6&width=1200&quality=70&smart=false&height=800",
+      "publishedAt": "2024-12-22 23:25:25",
+      "content": "Desde el pasado mes de agosto, las autoridades de salud del condado de Hillsborough, Florida, se encuentran preocupadas por la expansi\u00f3n de una enfermedad: se trata de los casos de dengue en el \u00e1rea,\u2026 [+1129 chars]",
+      "retrievedAt": "2024-12-24 07:06:20.127929",
+      "internal_id": "8ca5680a5791da6847ada4473020ddad83a56ad536bf5559a36154c07d0966cc",
+      "publishedAtLabel": "Dec 22"
+    },
+    {
+      "id": 16733,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Digital Journal",
+      "author": "Dr. Tim Sandle",
+      "title": "Common bacterium protects Brazilian city from dengue storm",
+      "description": "The introduction of Wolbachia (wMel strain) into Aedes aegypti mosquitoes reduces their capacity to transmit dengue and other arboviruses. The post Common bacterium protects Brazilian city from dengue storm appeared first on Digital Journal.",
+      "url": "https://www.digitaljournal.com/tech-science/common-bacterium-protects-brazilian-city-from-dengue-storm/article",
+      "urlToImage": "https://www.digitaljournal.com/wp-content/uploads/2021/07/Aedes-mosquito.jpg",
+      "publishedAt": "2024-12-22 22:27:37",
+      "content": "Aedes aegypti, a common vector of dengue fever and yellow fever. Image by Muhammad Mahdi Karim. GNU License, V1.2 With climate change acting as an accelerant fuelling dengues surge, new findings pre\u2026 [+2804 chars]",
+      "retrievedAt": "2024-12-24 07:06:20.109827",
+      "internal_id": "681757bd02177ad6b7ec7a62289ff41f23548da12f436f7493a8e933d30921ae",
+      "publishedAtLabel": "Dec 22"
+    },
+    {
+      "id": 16735,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Lesswrong.com",
+      "author": "Christopher King",
+      "title": "How I saved 1 human life (in expectation) without overthinking it",
+      "description": "Published on December 22, 2024 8:53 PM GMTDoes any of this sound familiar? You want to donate as effectively as possible, but you are worried about making the wrong choice. Should it be malaria nets, animal welfare, maybe x-risk? Also, how can you determine w\u2026",
+      "url": "https://www.lesswrong.com/posts/ojhLv79GhpKbfqxiF/how-i-saved-1-human-life-in-expectation-without-overthinking",
+      "urlToImage": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg",
+      "publishedAt": "2024-12-22 20:53:14",
+      "content": "Does any of this sound familiar? You want to donate as effectively as possible, but you are worried about making the wrong choice. Should it be malaria nets, animal welfare, maybe x-risk? Also, how c\u2026 [+5748 chars]",
+      "retrievedAt": "2024-12-24 07:06:21.322932",
+      "internal_id": "30a8aa2b5502162847ca82267b7a899815e54a67d3e93b8a9527e82ab6c45d2c",
+      "publishedAtLabel": "Dec 22"
+    },
+    {
+      "id": 16724,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Gazeta.pl",
+      "author": "Karolina Trela",
+      "title": "Pierwszy tak ci\u0119\u017cki przypadek ptasiej grypy w USA. Stan 65-latka jest krytyczny. 61 os\u00f3b zaka\u017conych",
+      "description": "W Stanach Zjednoczonych wykryto pierwszy ci\u0119\u017cki przypadek ptasiej grypy H5N1. Choroba dotkn\u0119\u0142a seniora ze stanu Luizjana. Co jeszcze ustalono?",
+      "url": "https://wiadomosci.gazeta.pl/wiadomosci/7,114881,31566135,p.html",
+      "urlToImage": "https://bi.im-g.pl/im/67/1a/1e/z31566183IER,W-USA-odnotowano-pierwszy-powazny-przypadek-ptasie.jpg",
+      "publishedAt": "2024-12-22 19:56:00",
+      "content": "Doniesienia z USA: Ameryka\u0144skie s\u0142u\u017cby epidemiologiczne poda\u0142y, \u017ce 65-letni m\u0119\u017cczyzna ma rozleg\u0142\u0105 infekcj\u0119. Do zaka\u017cenia mia\u0142o doj\u015b\u0107 w wyniku kontaktu z przydomowym drobiem - jest to pierwszy taki pr\u2026 [+1099 chars]",
+      "retrievedAt": "2024-12-24 07:06:19.729663",
+      "internal_id": "70b65642f13b1dbea4d5c7ad207de5895b22c8c856745b39e910bd6719b57392",
+      "publishedAtLabel": "Dec 22"
+    },
     {
       "id": 16720,
       "query": [
@@ -58,6 +148,24 @@
       "publishedAtLabel": "Dec 22"
     },
     {
+      "id": 16729,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Mustsharenews.com",
+      "author": "Jeremy Lee",
+      "title": "H5N1 poses 'highest risk' of becoming next pandemic, S'pore health authorities monitoring situation",
+      "description": "H5N1 poses the \"highest risk\" of becoming the next pandemic and Singapore's health authorities are monitoring it, said the Health Minister.",
+      "url": "https://mustsharenews.com/h5n1-pandemic-risk/",
+      "urlToImage": "https://mustsharenews.com/wp-content/uploads/2024/12/H5N1-poses-highest-risk-of-becoming-next-pandemic-Spore-health-authorities-monitoring-situation.jpg",
+      "publishedAt": "2024-12-22 11:38:13",
+      "content": "H5N1, also known as bird flu, poses the \u201chighest risk\u201d of becoming the next pandemic, with the Singapore health authorities monitoring the situation. This was revealed in a Facebook post by Health M\u2026 [+3494 chars]",
+      "retrievedAt": "2024-12-24 07:06:19.792592",
+      "internal_id": "21c63bceb7bf8d67dac233ecc9c702e486ef118176488b5b7b43ef28cefb1343",
+      "publishedAtLabel": "Dec 22"
+    },
+    {
       "id": 16717,
       "query": [
         "rabies"
@@ -78,7 +186,8 @@
     {
       "id": 16716,
       "query": [
-        "mpox"
+        "mpox",
+        "h5n1"
       ],
       "source_id": null,
       "source_name": "The Star Online",
@@ -148,6 +257,24 @@
       "publishedAtLabel": "Dec 21"
     },
     {
+      "id": 16727,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Mother Jones",
+      "author": "Artis Curiskis",
+      "title": "What Bird Flu Means for Milk",
+      "description": "On Wednesday, California became the first state to issue a declaration of emergency regarding the avian flu (H5N1). That same day, the Centers for Disease Control and Prevention (CDC) confirmed the first severe case of the flu in a human on US soil and outbre\u2026",
+      "url": "https://www.motherjones.com/environment/2024/12/bird-flu-milk-dairy-cows-avian-flu-raw-milk/",
+      "urlToImage": "https://www.motherjones.com/wp-content/uploads/2024/12/BirdFluDairyIndustry_final.jpg?w=1200&h=630&crop=1",
+      "publishedAt": "2024-12-21 11:00:00",
+      "content": "Some cows are experiencing milk production issues due to the bird flu according to experts.Liz Hafalia/San Francisco Chronicle via AP Fight disinformation: Sign up for the free Mother Jones Daily ne\u2026 [+10201 chars]",
+      "retrievedAt": "2024-12-24 07:06:19.749554",
+      "internal_id": "991bc7ae569ae5fe0c7f97081fb36a1fce020cbf8baa1495f8b648f708dad903",
+      "publishedAtLabel": "Dec 21"
+    },
+    {
       "id": 16701,
       "query": [
         "meningitis"
@@ -163,6 +290,24 @@
       "content": "How to spot a manipulator, as per psychology",
       "retrievedAt": "2024-12-22 19:05:24.611648",
       "internal_id": "0e7bcba778c3a6e942612171b028a15446e09dca0f41a8977022dc1e89f9377a",
+      "publishedAtLabel": "Dec 21"
+    },
+    {
+      "id": 16725,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Patronlardunyasi.com",
+      "author": null,
+      "title": "ABD'nin California eyaletinde artan ku\u015f gribi vakalar\u0131 nedeniyle \"acil durum\" ilan edildi",
+      "description": "ABD'nin California eyaletinde artan ku\u015f gribi vakalar\u0131 acil durum ilan edilmesine neden oldu. Valilik, 16 eyaletteki b\u00fcy\u00fckba\u015f hayvanlarda tespit edilen vir\u00fcs\u00fcn, G\u00fcney California \u00e7iftliklerindeki ineklerde de g\u00f6r\u00fclmesiyle hastal\u0131\u011f\u0131n yay\u0131l\u0131m\u0131n\u0131 kontrol alt\u0131na \u2026",
+      "url": "https://www.patronlardunyasi.com/abdnin-california-eyaletinde-artan-kus-gribi-vakalari-nedeniyle-acil-durum-ilan-edildi",
+      "urlToImage": "https://image.patronlardunyasi.com/static/content/24-12/21/abd-kus-gribi.png",
+      "publishedAt": "2024-12-21 07:54:27",
+      "content": "California'da ku gribi (H5N1) vakalarnda g\u00f6zlemlenen art sonucu, hastaln daha fazla yaylmasn engellemek amacyla 'acil durum' ilan edildi. Konuya y\u00f6nelik a\u00e7klama yapan California Valisi Gavin Newsom, \u2026 [+678 chars]",
+      "retrievedAt": "2024-12-24 07:06:19.736167",
+      "internal_id": "888e681980b08bfc334c3729602c7bdd0636faa1f9c0d11cc034386acc9f7a5a",
       "publishedAtLabel": "Dec 21"
     },
     {
@@ -185,9 +330,28 @@
       "publishedAtLabel": "Dec 21"
     },
     {
+      "id": 16722,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "La Tribune.fr",
+      "author": "Marie Nidiau",
+      "title": "Grippe aviaire : trois questions sur la mont\u00e9e des cas",
+      "description": "Les cas de grippe aviaire se multiplient Outre-Atlantique. Propagation, sympt\u00f4mes, vaccins... La Tribune a r\u00e9pondu \u00e0 trois grandes questions sur ce virus qui inqui\u00e8te les scientifiques.",
+      "url": "https://www.latribune.fr/entreprises-finance/industrie/chimie-pharmacie/grippe-aviaire-trois-questions-sur-la-montee-des-cas-1014467.html",
+      "urlToImage": "https://static.latribune.fr/full_width/2118702/photo-d-un-eleveur-francais-de-canards-dans-un-elevage-de-volailles-a-castelnau-tursan.jpg",
+      "publishedAt": "2024-12-21 07:00:00",
+      "content": "Un premier cas grave de grippe aviaire (H5N1) a \u00e9t\u00e9 d\u00e9tect\u00e9 chez l'Homme aux Etats-Unis cette semaine. C'est le 61e contamin\u00e9 dans le pays depuis avril. Une hausse croissante des cas qui fait craindr\u2026 [+4196 chars]",
+      "retrievedAt": "2024-12-24 07:06:19.715737",
+      "internal_id": "83d9581866e32f80a6000a76c73b2c21b5b1cfb43c81c247e6b366df2077f98b",
+      "publishedAtLabel": "Dec 21"
+    },
+    {
       "id": 16689,
       "query": [
-        "mpox"
+        "mpox",
+        "h5n1"
       ],
       "source_id": null,
       "source_name": "The Straits Times",
@@ -473,6 +637,24 @@
       "publishedAtLabel": "Dec 20"
     },
     {
+      "id": 16728,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "20 Minutes",
+      "author": "Laurent Garrigues (20 Minutes)",
+      "title": "Grippe aviaire : Le patient hospitalis\u00e9 aux Etats-Unis est dans un \u00e9tat critique",
+      "description": "Le patient atteint par la grippe aviaire en Louisiane est toujours hospitalis\u00e9. Ag\u00e9 de plus de 65 ans, il se trouve actuellement dans un \u00e9tat critique",
+      "url": "https://www.20minutes.fr/monde/etats-unis/4130408-20241220-grippe-aviaire-patient-hospitalise-etats-unis-etat-critique",
+      "urlToImage": "https://img.20mn.fr/ErcC9Ym1TlGsvD3XVBmN6Sk/1444x920_a-nurse-in-a-room-of-a-patient-with-coronavirus-in-the-resuscitation-department-of-the-hospital-of-the-purpan-chu-the-hospital-has-been-welcoming-patients-with-the-coronavirus-covid19-since-the-epidemic-from-china-appeared-in-france-caregivers-take-turns-with-hospital-patients-november-27-2020-toulouse-france-une-infirmiere-dans-une-chambre-d-un-patient-atteint-du-coronavirus-dans-le-service-de-reanimation-de-l-hopital-du-chu-de-purpan-l-hopital-accueille-des-malades-du-coronavirus-covid19-depuis-que-l-epidemie-venue-de-chine-a-fait-son-apparition-en-france-des-soignants-se-relayent-en-permanence-aupres-des-patients-hospitalises-27-novembre-2020-toulouse-france-scheiber-1-522-2012111753-credit-fred-scheiber-sipa-2012111759",
+      "publishedAt": "2024-12-20 21:32:28",
+      "content": "Apr\u00e8s avoir confirm\u00e9 un premier cas grave de grippe aviaire H5N1 sur le sol am\u00e9ricain, les autorit\u00e9s sanitaires ont apport\u00e9 plus de pr\u00e9cisions vendredi. Le patient, un r\u00e9sident de Louisiane \u00e2g\u00e9 de pl\u2026 [+2573 chars]",
+      "retrievedAt": "2024-12-24 07:06:19.757008",
+      "internal_id": "052e0ab54a9fdea72e4931f46874cbb5782d9a309f7c24bd5874e8c8d8685c6a",
+      "publishedAtLabel": "Dec 20"
+    },
+    {
       "id": 16704,
       "query": [
         "h5n1"
@@ -547,7 +729,8 @@
     {
       "id": 16686,
       "query": [
-        "malaria"
+        "malaria",
+        "h5n1"
       ],
       "source_id": null,
       "source_name": "Substack.com",
@@ -632,6 +815,24 @@
       "content": "20. Dezember 2024, 17:25 UhrLesezeit: 8 Min. L\u00e4ngst infiziert der H5N1-Erreger auch Menschen, manche erkranken schwer. Bislang gelingt es dem Virus nicht, sich unter Menschen auszubreiten. Die Frage\u2026 [+564 chars]",
       "retrievedAt": "2024-12-23 07:07:03.080533",
       "internal_id": "beb352c5f3597861816a7ce3b7d0c6944ec690ece7bd1f83d734cc5cd1802134",
+      "publishedAtLabel": "Dec 20"
+    },
+    {
+      "id": 16723,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "TODAY",
+      "author": "Caroline Kee",
+      "title": "What to know about bird flu symptoms as US reports first 'severe' human case",
+      "description": "At least 61 people in the US have contracted bird flu amid outbreaks in poultry and dairy cows. What are the symptoms? What to know about highly pathogenic avian influenza, aka, H5N1.",
+      "url": "https://www.today.com/health/disease/bird-flu-symptoms-rcna184997",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2024-05/bird-flu-cz-240522-78835e.jpg",
+      "publishedAt": "2024-12-20 16:07:45",
+      "content": "As bird flu continues to spread among poultry and dairy cows across the United States, health officials have confirmed the country's first \"severe\" human case of avian influenza (H5N1). A person in \u2026 [+10484 chars]",
+      "retrievedAt": "2024-12-24 07:06:19.722494",
+      "internal_id": "2b31553187e282a1fba6d5f7cd92d5c629dafd604ce543948862f878fffa448e",
       "publishedAtLabel": "Dec 20"
     },
     {
@@ -869,6 +1070,42 @@
       "publishedAtLabel": "Dec 20"
     },
     {
+      "id": 16731,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "STAT",
+      "author": "Megan Molteni",
+      "title": "California bird flu emergency declaration highlights a larger issue",
+      "description": "Reports that cows have been infected despite farmers' preventive measures indicate there are multiple routes of transmission",
+      "url": "https://www.statnews.com/2024/12/20/california-h5n1-bird-flu-emergency-declaration-avian-flu-spread-dairy-cattle/",
+      "urlToImage": "https://www.statnews.com/wp-content/uploads/2024/12/GettyImages-1210114330-1024x576.jpg",
+      "publishedAt": "2024-12-20 09:43:15",
+      "content": "In the ongoing outbreak of H5N1 bird flu among the nations dairy cattle, federal officials have consistently expressed confidence that they know enough about how the virus is spreading to put a stop \u2026 [+11193 chars]",
+      "retrievedAt": "2024-12-24 07:06:19.819578",
+      "internal_id": "d71d91c731b896a4bcbfe38dec35f61e5954f18eb1f1976be61763e8b30a0eda",
+      "publishedAtLabel": "Dec 20"
+    },
+    {
+      "id": 16730,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Nationalgeographic.com.es",
+      "author": "Sergio Parra, Sergio Parra",
+      "title": "\u00bfQu\u00e9 es la gripe aviar H5N1 y por qu\u00e9 preocupa a los expertos?",
+      "description": "El 13 de diciembre, los Centros para el Control y la Prevenci\u00f3n de Enfermedades (CDC) confirmaron el primer caso severo de gripe aviar H5N1 en un ser humano en los Estados Unidos. Este hito epidemiol\u00f3gico tuvo lugar en Luisiana, donde un paciente, expuesto a \u2026",
+      "url": "https://www.nationalgeographic.com.es/ciencia/que-es-gripe-aviar-h5n1-y-por-que-preocupa-a-expertos_23926",
+      "urlToImage": "https://content.nationalgeographic.com.es/medio/2024/12/20/aves-de-traspatio_b0ab0b39_1280_241220011736_1200x630.webp",
+      "publishedAt": "2024-12-20 09:00:00",
+      "content": "El 13 de diciembre, los Centros para el Control y la Prevenci\u00f3n de Enfermedades (CDC) confirmaron el primer caso severo de gripe aviar H5N1 en un ser humano en los Estados Unidos. Este hito epidemiol\u2026 [+3533 chars]",
+      "retrievedAt": "2024-12-24 07:06:19.811626",
+      "internal_id": "5b8d25766f815ca57f5cd5f36aaa6a933864749f3b69dc44706d5d5fd876ba3f",
+      "publishedAtLabel": "Dec 20"
+    },
+    {
       "id": 16666,
       "query": [
         "h5n1"
@@ -902,6 +1139,42 @@
       "content": "Can avian flu cause a global health threat? Avian influenza, commonly known as bird flu, has re-emerged as a significant global health threat in 2024. According to the United Nations, the Highly Pat\u2026 [+5360 chars]",
       "retrievedAt": "2024-12-23 07:07:03.094549",
       "internal_id": "1b5647a7a5f00bcf98c392680dbcd492828bd01218a4fd7caa6f23aca4172712",
+      "publishedAtLabel": "Dec 20"
+    },
+    {
+      "id": 16732,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Katherine Dillinger",
+      "title": "More raw milk recalled in California after discovery of bird flu virus in farm tank | CNN",
+      "description": "The California Department of Food and Agriculture has issued a statewide recall of raw milk produced and packaged by Valley Milk Simply Bottled after H5N1 bird flu virus was found in samples from a bulk tank at the company\u2019s dairy farm.",
+      "url": "https://www.cnn.com/2024/12/19/health/california-bird-flu-raw-milk-recall/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/california-department-of-food-and-agriculture-headquarters-entrance.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-12-20 07:10:17",
+      "content": "The California Department of Food and Agriculture has issued a statewide recall of raw milk produced and packaged by Valley Milk Simply Bottled after H5N1 bird flu virus was found in samples from a b\u2026 [+1719 chars]",
+      "retrievedAt": "2024-12-24 07:06:19.826638",
+      "internal_id": "9c399dc827b2e51f56ba5ab49c28263b327f43c79377d85ab34a934925beeab1",
+      "publishedAtLabel": "Dec 20"
+    },
+    {
+      "id": 16721,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
+      "author": "Arthur Sautrel",
+      "title": "D\u00e9cryptage. Un cas grave aux \u00c9tats-Unis : la grippe aviaire devient-elle dangereuse pour l\u2019humain ?",
+      "description": "Cette semaine, la grippe aviaire a provoqu\u00e9 un premier cas grave aux \u00c9tats-Unis, relan\u00e7ant les inqui\u00e9tudes sur le virus. Mais certains \u00e9l\u00e9ments rassurent les scientifiques sur le risque de voir la maladie se transformer en pand\u00e9mie.",
+      "url": "https://www.ledauphine.com/sante/2024/12/20/un-cas-grave-aux-etats-unis-la-grippe-aviaire-devient-elle-dangereuse-pour-l-homme",
+      "urlToImage": "https://cdn-s-www.ledauphine.com/images/6CFBDE9F-B056-4A7B-BEBC-EAAECF614E0C/FB1200/photo-1734633984.jpg",
+      "publishedAt": "2024-12-20 05:45:00",
+      "content": "La grippe aviaire ne ralentit pas aux \u00c9tats-Unis. Mercredi, une 61e contamination humaine a \u00e9t\u00e9 recens\u00e9e depuis le mois d\u2019avril, p\u00e9riode o\u00f9 le virus H5N1 s\u2019est r\u00e9pandu aux vaches laiti\u00e8res dans le pa\u2026 [+3029 chars]",
+      "retrievedAt": "2024-12-24 07:06:19.689469",
+      "internal_id": "e50f33f85ee6a913132d4b26997020e987e7c0591e80d2ea18350ade0e6ad523",
       "publishedAtLabel": "Dec 20"
     },
     {
@@ -23367,6 +23640,242 @@
       "content": "WHATCOM COUNTY, Wash. The Washington State Department of Health reported on November 7th that, as of November 2nd, 1,193 cases of pertussis, commonly known as whooping cough, had been reported across\u2026 [+1883 chars]",
       "retrievedAt": "2024-11-12 07:06:21.407044",
       "internal_id": "7e91ca12dc04b7a0ba4fc77d6784176a566754e78f74879959d8a5b6c7f2db13",
+      "publishedAtLabel": "Nov 10"
+    },
+    {
+      "id": 15416,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "DIE WELT",
+      "author": "WELT",
+      "title": "Das steckt hinter der Dunkelziffer der Infektionsf\u00e4lle",
+      "description": "Weltweit grassiert das H5N1-Virus. V\u00f6gel, K\u00fche, Schweine stecken sich an, aber auch Menschen. In US-amerikanischen Milchvieh-Betrieben, die als ein Hotspot gelten, wurden nun Mitarbeiter getestet. Dabei zeigte sich: Zahlreiche Erkrankungen bleiben unentdeckt \u2026",
+      "url": "https://www.welt.de/wissenschaft/article254453336/Vogelgrippe-bei-Menschen-Das-steckt-hinter-der-Dunkelziffer-der-Infektionsfaelle.html",
+      "urlToImage": "https://img.welt.de/img/wissenschaft/mobile254453334/2637933997-ci16x9-w1200/Bird-Flu-Virus.jpg",
+      "publishedAt": "2024-11-10 15:52:08",
+      "content": "Weltweit grassiert das H5N1-Virus. V\u00f6gel, K\u00fche, Schweine stecken sich an, aber auch Menschen. In US-amerikanischen Milchvieh-Betrieben, die als ein Hotspot gelten, wurden nun Mitarbeiter getestet. Da\u2026 [+2404 chars]",
+      "retrievedAt": "2024-11-11 19:05:29.950458",
+      "internal_id": "12080f5267567775babd661bb32bb9cf771f6ee73f73872806d3e53978ad302e",
+      "publishedAtLabel": "Nov 10"
+    },
+    {
+      "id": 15420,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Newsbreak.com",
+      "author": "Yahoo!",
+      "title": "Health officials sound alarm after disease spreads in Florida following devastating hurricanes: 'Their pain is remarkable'",
+      "description": "Floridians are still feeling the ripple effects of extreme rainfall from Hurricanes Milton and Helene. In a concerning development, Fox Weather reported that the Tampa area is now contending with the spread of the mosquito-borne illness dengue fever. What's h\u2026",
+      "url": "https://www.newsbreak.com/share/3668986070323-health-officials-sound-alarm-after-disease-spreads-in-florida-following-devastating-hurricanes-their-pain-is-remarkable?s=a2&amp;share_destination_id=OTc5NjE4ODYtMTczMTI1MjcwNDc4NA%3D%3D&amp;pd=06d2MQ1a&amp;hl=en_US&amp;send_time=1731252704&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2224.44.0%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_local_strategy_24q4_exp-v3%2Cns_foryou_model_exp_24q4-control%2Cns_foryou_rank_exp_24q4-v1%2Cns_foryou_recall_exp_24q4-control%2Cns_pushv1-v9%2Cns_foryou_blend_exp_24q4-v5",
+      "urlToImage": "https://img.particlenews.com/img/id/1S0MEt_0wgxijW700?type=thumbnail_1600x1200",
+      "publishedAt": "2024-11-10 15:32:15",
+      "content": "Its essential to note our commitment to transparency: Our Terms of Use acknowledge that our services may not always be error-free, and our Community Standards emphasize our discretion in enforcing \u2026 [+246 chars]",
+      "retrievedAt": "2024-11-11 19:05:30.362383",
+      "internal_id": "4854464ecb739ac3f1bccaf18ab0b627e22a55921a27e8347cec5fe716b34fc7",
+      "publishedAtLabel": "Nov 10"
+    },
+    {
+      "id": 15414,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Victoria Forster, Contributor, \n Victoria Forster, Contributor\n https://www.forbes.com/sites/victoriaforster/",
+      "title": "Canada Reports First Human Case Of H5N1 Bird Flu",
+      "description": "A teenager in British Columbia, Canada has been hospitalized with a presumed case of H5N1 bird flu, the first detected human case in the country in the current outbreak.",
+      "url": "https://www.forbes.com/sites/victoriaforster/2024/11/10/canada-reports-first-human-case-of-h5n1-bird-flu/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6730c3f0682d22411f9eda93/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-11-10 14:43:29",
+      "content": "A Canadian teenager has been hospitalized with bird flu, the first human case of H5N1 in the current ... [+] outbreak detected in the country. getty A teenager in British Columbia, Canada has been \u2026 [+2690 chars]",
+      "retrievedAt": "2024-11-11 19:05:29.900367",
+      "internal_id": "5784063b05bd6ffa2574153f7d91e74895ea0b46fca15117ef73043586782089",
+      "publishedAtLabel": "Nov 10"
+    },
+    {
+      "id": 15412,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "National Institutes of Health",
+      "author": null,
+      "title": "Diphtheria-tetanus-pertussis immunization and sudden infant death: results of the National Institute of Child Health and Human Development Cooperative Epidemiological Study of Sudden Infant Death Syndrome risk factors",
+      "description": "The possible association between diphtheria-pertussis-tetanus (DTP) immunization and the subsequent occurrence of sudden infant death has been examined using data from the National Institute of Child Health and Human Development (NICHD) Sudden Infant Death Sy\u2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3493477/",
+      "urlToImage": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg",
+      "publishedAt": "2024-11-10 12:29:32",
+      "content": "The possible association between diphtheria-pertussis-tetanus (DTP) immunization and the subsequent occurrence of sudden infant death has been examined using data from the National Institute of Child\u2026 [+1613 chars]",
+      "retrievedAt": "2024-11-11 19:05:28.821764",
+      "internal_id": "6c74d4cedaf64c99b074cc0ce810af2f99f59160b59d083290122b862efbb964",
+      "publishedAtLabel": "Nov 10"
+    },
+    {
+      "id": 15417,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "ZEIT ONLINE: Gesundheit - Wenke Husmann",
+      "title": "Vogelgrippe: Vogelgrippe-F\u00e4lle bei Menschen bleiben oft unentdeckt",
+      "description": "Derzeit grassiert die gr\u00f6\u00dfte je dokumentierte Vogelgrippewelle. Auch viele K\u00fche sind betroffen, und offenbar auch Mitarbeiter von Milchvieh-Betrieben \u2013 ohne es zu sp\u00fcren.",
+      "url": "https://www.zeit.de/gesundheit/2024-11/vogelgrippe-menschen-unentdeckt-usa",
+      "urlToImage": "https://img.zeit.de/gesundheit/2024-11/vogelgrippe-menschen-unentdeckt-usa-bild/wide__1300x731",
+      "publishedAt": "2024-11-10 12:10:30",
+      "content": "Zahlreiche Infektionen von Menschen mit dem Vogelgrippe-Virus H5N1 in Milchvieh-Betrieben in den USA werden offenbar nicht entdeckt. Beim Testen von Mitarbeitenden in Betrieben, in denen das Virus un\u2026 [+3038 chars]",
+      "retrievedAt": "2024-11-11 19:05:29.956996",
+      "internal_id": "9cdf1dbcec166ebc18ac14171ad34462bc52a751560997a66fe2351c09724fa2",
+      "publishedAtLabel": "Nov 10"
+    },
+    {
+      "id": 15423,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Lara Adejoro",
+      "title": "WHO, Africa CDC strengthen Mpox vaccination in Nigeria, 16 other countries",
+      "description": "The World Health Organisation and the Africa Centres for Disease Control and Prevention have committed to guiding the development of targeted mpox vaccine preparedness and deployment plans to ensure the efficient use of available doses. This decision was reac\u2026",
+      "url": "https://punchng.com/who-africa-cdc-strengthen-mpox-vaccination-in-nigeria-16-other-countries/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2023/05/13101855/logo-who.tmb-1200v.jpg",
+      "publishedAt": "2024-11-10 11:23:54",
+      "content": "The World Health Organisation and the Africa Centres for Disease Control and Prevention have committed to guiding the development of targeted mpox vaccine preparedness and deployment plans to ensure \u2026 [+3980 chars]",
+      "retrievedAt": "2024-11-11 19:05:31.656413",
+      "internal_id": "a3a7346c7ca81a0863a1c88d3577075b4fb8a21f6d12b68212a51a14249c1835",
+      "publishedAtLabel": "Nov 10"
+    },
+    {
+      "id": 15418,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Der Tagesspiegel",
+      "title": "Vogelgrippe in den USA: F\u00e4lle bei Menschen bleiben oft unentdeckt",
+      "description": "Derzeit grassiert die gr\u00f6\u00dfte je dokumentierte Vogelgrippewelle. In den USA sind auch viele K\u00fche betroffen. Nun zeigen Tests: Viele Mitarbeiter von Milchvieh-Betrieben sind infiziert, ohne es zu wissen.",
+      "url": "https://www.tagesspiegel.de/wissen/vogelgrippe-in-den-usa-falle-bei-menschen-bleiben-oft-unentdeckt-12679604.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/12679628/alternates/BASE_16_9_W1400/1731235904000/vogelgrippe-in-den-usa.jpeg",
+      "publishedAt": "2024-11-10 10:58:24",
+      "content": "Zahlreiche Infektionen von Menschen mit dem Vogelgrippe-Virus H5N1 in Milchvieh-Betrieben in den USA werden offenbar nicht entdeckt. Beim Testen von Mitarbeitern in Betrieben, in denen das Virus bei \u2026 [+3594 chars]",
+      "retrievedAt": "2024-11-11 19:05:29.968806",
+      "internal_id": "6e0eaf61df4edb61532aa164c28620251907950f180d812ee2cf23de08783753",
+      "publishedAtLabel": "Nov 10"
+    },
+    {
+      "id": 15415,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Livemint",
+      "author": "mint",
+      "title": "Bird flu among pigs should worry humans too",
+      "description": "While virus outbreaks have waxed and waned, in 2022 something strange started happening with vastly more birds and mammals getting infected and even dying globally. Scientists need to conduct more research to understand this virus. After covid, we know the ri\u2026",
+      "url": "https://www.livemint.com/opinion/online-views/bird-flu-pigs-virus-outbreak-h5n1-virus-mammals-pandemic-chickens-11731230798297.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2024/11/10/1600x900/2-0-106799100-MK-AM098A-OLYMPIGS-3C-0_1681495746567_1731232236185.jpg",
+      "publishedAt": "2024-11-10 10:00:17",
+      "content": "When the US Department of Agriculture announced that the H5N1 bird flu had turned up in a pig, I dropped what I was doing to read it. The situation didnt quite match the nightmare scenario some exper\u2026 [+4564 chars]",
+      "retrievedAt": "2024-11-11 19:05:29.938607",
+      "internal_id": "acc89cf73f815fabb449b14b6ad1b8ad6671a600a0dc50a70d42d9b687a4315a",
+      "publishedAtLabel": "Nov 10"
+    },
+    {
+      "id": 15422,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Faz.net",
+      "author": "AFP",
+      "title": "UN: 1,4 Millionen Menschen von \u00dcberschwemmungen im S\u00fcdsudan betroffen",
+      "description": "Fast 400.000 Menschen wurden nach UN-Angaben durch das Hochwasser im S\u00fcdsudan vertrieben. Die Malaria-F\u00e4lle steigen \u2013 und \u00fcberfordern das Gesundheitssystem. Die humanit\u00e4re Lage im Land ist ohnehin dramatisch.",
+      "url": "https://www.faz.net/aktuell/gesellschaft/ungluecke/suedsudan-1-4-millionen-menschen-von-ueberschwemmungen-betroffen-110101826.html",
+      "urlToImage": "https://media0.faz.net/ppmedia/aktuell/992566442/1.10101830/facebook_teaser/die-weltbank-hatte-am-1.jpg",
+      "publishedAt": "2024-11-10 09:47:21",
+      "content": "Inzwischen seien die Menschen in 43 Bezirken sowie in der zwischen S\u00fcdsudan und Sudan umstrittenen Region Abyei von dem Hochwasser betroffen, erkl\u00e4rte das UN-B\u00fcro f\u00fcr humanit\u00e4re Angelegenheiten. In 2\u2026 [+1536 chars]",
+      "retrievedAt": "2024-11-11 19:05:31.098656",
+      "internal_id": "6d13cf1781648a0b6b7fb64bc408e001e26c27d42c3395bdbfb0cf25ad6a162e",
+      "publishedAtLabel": "Nov 10"
+    },
+    {
+      "id": 15419,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "title": "Contin\u00faan acciones de prevenci\u00f3n contra Dengue, Zika y Chikungunya en Chiapas: Rutilio Escand\u00f3n",
+      "description": "En el contexto de la Mesa de Coordinaci\u00f3n Estatal para la Construcci\u00f3n de la Paz y la Segu-ridad, el gobernador de Chiapas, Rutilio Escan-d\u00f3n Cadenas, destac\u00f3 que las autoridades fede-rales, estatales y municipales contin\u00faan con las acciones prioritarias de l\u2026",
+      "url": "https://www.jornada.com.mx/2024/11/10/estados/021n4est",
+      "urlToImage": "https://www.jornada.com.mx/2024/11/10/fotos/021n4est-1.jpg",
+      "publishedAt": "2024-11-10 09:36:53",
+      "content": "Peri\u00f3dico La JornadaDomingo 10 de noviembre de 2024, p. 21 En el contexto de la Mesa de Coordinaci\u00f3n Estatal para la Construcci\u00f3n de la Paz y la Segu-ridad, el gobernador de Chiapas, Rutilio Escan-d\u2026 [+620 chars]",
+      "retrievedAt": "2024-11-11 19:05:30.339812",
+      "internal_id": "ac38807124be84f45c30f3ceb8cafd79bae6421f87907f275b8da782dc71413a",
+      "publishedAtLabel": "Nov 10"
+    },
+    {
+      "id": 15421,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Indian Express",
+      "author": "IE Bangla Web Desk",
+      "title": "Dengue in Westbengal: \u09ad\u09df \u09a7\u09b0\u09be\u099a\u09cd\u099b\u09c7 \u09b0\u09be\u099c\u09cd\u09af\u09c7\u09b0 \u09a1\u09c7\u0999\u09cd\u0997\u09c1 \u09aa\u09b0\u09bf\u09b8\u09cd\u09a5\u09bf\u09a4\u09bf, \u099a\u09b2\u09a4\u09bf \u09ae\u09be\u09b8\u09c7 \u0986\u0995\u09cd\u09b0\u09be\u09a8\u09cd\u09a4\u09c7\u09b0 \u09aa\u09b0\u09bf\u09b8\u0982\u0996\u09cd\u09af\u09be\u09a8 \u099a\u09ae\u0995\u09c7 \u09a6\u09bf\u09a4\u09c7 \u09ac\u09be\u09a7\u09cd\u09af",
+      "description": "Dengue in Westbengal: \u098f\u0996\u09a8\u0993 \u09b6\u09c0\u09a4 \u09b8\u09c7\u09ad\u09be\u09ac\u09c7 \u09b0\u09be\u099c\u09cd\u09af\u09c7 \u09aa\u09cd\u09b0\u09ac\u09c7\u09b6 \u0995\u09b0\u09c7\u09a8\u09bf\u0964 \u098f\u09a6\u09bf\u0995\u09c7 \u09a6\u09bf\u09a8\u09c7 \u09a6\u09bf\u09a8\u09c7 \u09b0\u09be\u099c\u09cd\u09af\u09c7 \u09ac\u09c7\u09dc\u09c7\u0987 \u099a\u09b2\u09c7\u099b\u09c7 \u09a1\u09c7\u0999\u09cd\u0997\u09c1 \u0986\u0995\u09cd\u09b0\u09be\u09a8\u09cd\u09a4\u09c7\u09b0 \u09b8\u0982\u0996\u09cd\u09af\u09be\u0964 \u09b8\u09cd\u09ac\u09be\u09b8\u09cd\u09a5\u09cd\u09af \u09a6\u09ab\u09a4\u09b0\u09c7\u09b0 \u09aa\u09b0\u09bf\u09b8\u0982\u0996\u09cd\u09af\u09be\u09a8 \u0995\u09bf\u09a8\u09cd\u09a4\u09c1 \u099a\u09ae\u0995\u09c7 \u09a6\u09c7\u0993\u09df\u09be\u09b0 \u09ae\u09a4\u0987\u0964 \u09b8\u09cd\u09ac\u09be\u09b8\u09cd\u09a5\u09cd\u09af \u09a6\u09ab\u09a4\u09b0 \u09b8\u09c2\u09a4\u09cd\u09b0\u09c7 \u099c\u09be\u09a8\u09be \u0997\u09bf\u09df\u09c7\u099b\u09c7 \u09ea\u09a0\u09be \u09a8\u09ad\u09c7\u09ae\u09cd\u09ac\u09b0 \u09aa\u09b0\u09cd\u09af\u09a8\u09cd\u09a4 \u09b0\u09be\u099c\u09cd\u09af\u09c7 \u09ae\u09cb\u099f \u09a1\u09c7\u0999\u09cd\u0997\u09c1 \u0986\u0995\u09cd\u09b0\u09be\u09a8\u09cd\u09a4\u09c7\u09b0 \u09b8\u0982\u0996\u09cd\u2026",
+      "url": "https://bengali.indianexpress.com/west-bengal/dengue-cases-rising-in-west-bengal-govt-says-situation-under-control-7569144",
+      "urlToImage": "https://img-cdn.thepublive.com/fit-in/1200x675/indian-express-bangla/media/media_files/2024/11/10/NQB51nJjKXMCwmT24VId.jpg",
+      "publishedAt": "2024-11-10 09:13:46",
+      "content": "Dengue in Westbengal: , , , ! , , ,, - , , ' '?",
+      "retrievedAt": "2024-11-11 19:05:30.369074",
+      "internal_id": "53986fd0600c7f132e024791825ba9669ea53b47b2c7f07d0cc6baa99d9bc6d9",
+      "publishedAtLabel": "Nov 10"
+    },
+    {
+      "id": 15413,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Acecomments.mu.nu",
+      "author": "Pixy Misa",
+      "title": "Daily Tech News 10 November 2024",
+      "description": "Top Story Beata Halassy had breast cancer - for the third time, despite chemotherapy and a mastectomy. She had cancer. She gave it measles and it died. (Nature) Beata is a virologist so she prepared her own virus culture -...",
+      "url": "https://acecomments.mu.nu/?post=412315",
+      "urlToImage": null,
+      "publishedAt": "2024-11-10 09:00:00",
+      "content": "Disclaimer: You thought he was buying a social network in terminal decline. He bought a solar system.",
+      "retrievedAt": "2024-11-11 19:05:29.475144",
+      "internal_id": "bae36c58b7c159bf44713745c260ef138a70d806f492de198b851d2545e749c5",
+      "publishedAtLabel": "Nov 10"
+    },
+    {
+      "id": 15424,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Elespanol.com",
+      "author": "P. Fava",
+      "title": "Llega un nuevo temporal de lluvia y fr\u00edo a Espa\u00f1a: Aemet avisa por DANA, nevadas y 100 l/m esta semana en estas zonas",
+      "description": "Los vientos fr\u00edos del norte har\u00e1n su entrada coincidiendo con el comienzo de la semana, y se espera el comienzo del temporal para el martes. M\u00e1s informaci\u00f3n: As\u00ed es la leptospirosis: la infecci\u00f3n que amenaza a los afectados de la DANA tras el estancamiento de\u2026",
+      "url": "https://www.elespanol.com/ciencia/meteorologia/20241110/llega-nuevo-temporal-lluvia-frio-espana-aemet-avisa-dana-nevadas-lm-semana-zonas/899660612_0.html",
+      "urlToImage": "https://s1.elespanol.com/2024/11/10/ciencia/meteorologia/900170005_250752543_1706x960.png",
+      "publishedAt": "2024-11-10 08:51:48",
+      "content": "La relativa estabilidad atmosf\u00e9rica de los \u00faltimos d\u00edas, sumada a temperaturas que han llegado a ser ligeramente superiores a las habituales para la \u00e9poca del a\u00f1o, tiene las horas contadas. Rub\u00e9n del\u2026 [+3391 chars]",
+      "retrievedAt": "2024-11-11 19:05:31.930287",
+      "internal_id": "de73704a34e08961747be2d344cf11311868d0c70ba0e3c83901cb055c20b1e1",
       "publishedAtLabel": "Nov 10"
     }
   ]
