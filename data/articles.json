@@ -1,8 +1,296 @@
 {
-  "last_updated": "2024-12-24 19:05",
-  "count_articles_total": 1332,
-  "count_articles_new": 21,
+  "last_updated": "2024-12-25 07:06",
+  "count_articles_total": 1361,
+  "count_articles_new": 16,
   "articles": [
+    {
+      "id": 16766,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "El Financiero",
+      "author": "Alberto Silva / Corresponsal",
+      "title": "\u2018Calenturon y dolor de cuerpo\u2019: Mariana Rodr\u00edguez tiene dengue; esto sabemos de su estado de salud",
+      "description": "Mariana Rodr\u00edguez pas\u00f3 el lunes aislada debido a la infecci\u00f3n de dengue que padece.",
+      "url": "https://www.elfinanciero.com.mx/estados/2024/12/24/mariana-rodriguez-tiene-dengue-estado-de-salud-que-le-paso-a-la-esposa-de-samuel-garcia/",
+      "urlToImage": "https://elfinanciero.com.mx/resizer/v2/5RST6GJXTVAE5JTCZOLEIMWZFI.jpg?smart=true&auth=824ebbc0abe6f6d4897787d97cbc9ad5e6d5502c8746990b5f150e1b4168309c&width=1200&height=630",
+      "publishedAt": "2024-12-24 06:10:06",
+      "content": "En medio de la alta incidencia de casos de dengue en Nuevo Le\u00f3n, Mariana Rodr\u00edguez Cant\u00fa, empresaria, influencer, y esposa del gobernador Samuel Garc\u00eda, fue diagnosticada con la enfermedad, seg\u00fan con\u2026 [+1648 chars]",
+      "retrievedAt": "2024-12-25 07:06:25.104010",
+      "internal_id": "8a1bb6b30c6d9950696fbfc945c537e166287a3c345cfba42411da575da04c99",
+      "publishedAtLabel": "Dec 24"
+    },
+    {
+      "id": 16768,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Lavozdegalicia.es",
+      "author": "LA VOZ",
+      "title": "Una meningitis que padeci\u00f3 cuando era ni\u00f1o le caus\u00f3 una discapacidad, pero Jos\u00e9 Mu\u00f1iz celebra los cien a\u00f1os \u00abmuy contento\u00bb",
+      "description": "El centenario de A Pobra do Carami\u00f1al recibi\u00f3 la visita de su familia en la residencia de Barbad\u00e1s donde vive",
+      "url": "https://www.lavozdegalicia.es/noticia/ourense/barbadas/2024/12/23/meningitis-causo-deficiencia-nino-jose-muniz-celebra-cien-anos-contento/00031734975207114267319.htm",
+      "urlToImage": "https://img.lavdg.com/sc/q6J_VpQ8_pQBolcBcNBmHgW0Hq8=/1280x/2024/12/23/00121734976021851324413/Foto/O_20241223_180817000.jpg",
+      "publishedAt": "2024-12-24 04:00:00",
+      "content": "La residencia Nosa Se\u00f1ora dos Milagres de Barbad\u00e1s celebr\u00f3 este lunes un cumplea\u00f1os muy especial. Jos\u00e9 Mu\u00f1iz cumpli\u00f3 cien a\u00f1os \u00abmuy contento\u00bb y con la tranquilidad de haber llevado una buena vida. El\u2026 [+1279 chars]",
+      "retrievedAt": "2024-12-25 07:06:25.570856",
+      "internal_id": "76123179245a7a20cee115c15bd4493880c214e62da3d90757413bc46cda8b29",
+      "publishedAtLabel": "Dec 24"
+    },
+    {
+      "id": 16761,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": "Greg Wehner",
+      "title": "First rare human case of bird flu reported in Los Angeles County",
+      "description": "The LA County Department of Public Health confirmed the first human case of bird flu in the county, just days after Gov. Gavin Newsom issued a state of emergency over the disease.",
+      "url": "https://www.foxnews.com/health/first-rare-human-case-of-bird-flu-reported-in-los-angeles-county",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/12/first-severe-case-of-bird-flu-in-us.jpg",
+      "publishedAt": "2024-12-24 02:42:52",
+      "content": "The first human case of H5N1, more commonly known as avian influenza or bird flu, has been confirmed in Los Angeles County in California, in connection with an adult who was exposed to livestock. Th\u2026 [+2818 chars]",
+      "retrievedAt": "2024-12-25 07:06:24.775287",
+      "internal_id": "68ca949b1318f1fd38fde9483bac041987b3b1bb3866f7cdd60fa8d34c81a8a3",
+      "publishedAtLabel": "Dec 24"
+    },
+    {
+      "id": 16760,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "7NEWS.com.au",
+      "author": "7news",
+      "title": "Health alert issued on Christmas Eve after second measles case visits multiple locations across NSW",
+      "description": "Health alert issued on Christmas Eve after second measles case visits multiple locations across NSW7news.com.au",
+      "url": "https://7news.com.au/news/health-alert-issued-on-christmas-eve-after-second-measles-case-visits-multiple-locations-across-nsw-c-17184457",
+      "urlToImage": "https://images.7news.com.au/publication/C-17184457/eee5bd20be10086d1dd508e230d63ddda7de4a37-16x9-x0y0w2000h1125.png?imwidth=1200",
+      "publishedAt": "2024-12-24 02:32:22",
+      "content": "A measles alert has been issued in NSW on Christmas Eve after a confirmed case visited multiple locations across the state. The individual had recently returned from Southeast Asia, where several co\u2026 [+2213 chars]",
+      "retrievedAt": "2024-12-25 07:06:24.028400",
+      "internal_id": "f42236efbdbe4b58aaf2c93ecd723afe09e4da30b2a8f25041efc46ddacc3357",
+      "publishedAtLabel": "Dec 24"
+    },
+    {
+      "id": 16762,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Dean Fioresi",
+      "title": "Los Angeles County records its first human case of bird flu, public health officials say",
+      "description": "Health officials say it's the first human case of H151 bird flu detected in Los Angeles County this year.",
+      "url": "https://www.cbsnews.com/losangeles/news/los-angeles-county-confirmed-case-bird-flu-farm-worker/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/09/25/f1eb4a9b-05d4-4495-b24a-bafbaf390450/thumbnail/1200x630/584b6ac0234c2c574e541f313fab1356/co-cv-dairy-bird-flu-o-kmaxbv8b.jpg?v=fa9977353833f46f40b07abcd9d5240b",
+      "publishedAt": "2024-12-24 01:17:30",
+      "content": "Public health officials have confirmed the first human case of H5N1 bird flu in Los Angeles County this year. A statement released on Monday said that the infected person, an adult, was exposed to i\u2026 [+2307 chars]",
+      "retrievedAt": "2024-12-25 07:06:24.782237",
+      "internal_id": "811448c5c80c104174244b57784ff0efe332a402dd9f0099aeb0771e2cc8edeb",
+      "publishedAtLabel": "Dec 24"
+    },
+    {
+      "id": 16772,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "People.com.cn",
+      "author": "F_200780",
+      "title": "\u042d\u043f\u0438\u0434\u0435\u043c\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0441\u0438\u0442\u0443\u0430\u0446\u0438\u044f \u0441 mpox \u0432 \u0410\u0444\u0440\u0438\u043a\u0435 \u043e\u0441\u0442\u0430\u0435\u0442\u0441\u044f \"\u043e\u0441\u043e\u0431\u0435\u043d\u043d\u043e \u0442\u0440\u0435\u0432\u043e\u0436\u043d\u043e\u0439\" -- \u0412\u041e\u0417",
+      "description": "\u041a\u0438\u043d\u0448\u0430\u0441\u0430, 23 \u0434\u0435\u043a\u0430\u0431\u0440\u044f /\u0421\u0438\u043d\u044c\u0445\u0443\u0430/ -- \u042d\u043f\u0438\u0434\u0435\u043c\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0441\u0438\u0442\u0443\u0430\u0446\u0438\u044f \u0441 \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0430\u043d\u0438\u0435\u043c mpox /\u043d\u043e\u0432\u043e\u0435 \u043d\u0430\u0438\u043c\u0435\u043d\u043e\u0432\u0430\u043d\u0438\u0435",
+      "url": "http://russian.people.com.cn/n3/2024/1224/c31520-20257563.html",
+      "urlToImage": null,
+      "publishedAt": "2024-12-24 01:02:54",
+      "content": ", 23 // -- mpox / / \" \", //, . //. , 15 20 13 769 , 60 . , 9513 . , mpox, , , , . Clade 1b, 2023 . , . \" Clade 1b mpox /MPXV/ \", -- , , , . Mpox -- , . -- Clade 1 Clade 2, Clade 1b Clade 2b, \u2026 [+51 chars]",
+      "retrievedAt": "2024-12-25 07:06:26.911630",
+      "internal_id": "c746d9b2f9801d20789825e81e4b34f96c252e1e9e858dfbc785462bdf459fc2",
+      "publishedAtLabel": "Dec 24"
+    },
+    {
+      "id": 16770,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The New Republic",
+      "author": "Timothy Noah",
+      "title": "Trump Wants to Bring Back the American Imperium",
+      "description": "Something about the holiday season seems to inspire nostalgia for the American imperium\u2014that epoch from 1898 through the first decade or so of the 20th century when the United States sought unapologetically to become an imperial power. Two decades ago, then-V\u2026",
+      "url": "https://newrepublic.com/article/189657/trump-imperium-greenland-panama-canal",
+      "urlToImage": "https://images.newrepublic.com/e81f6ccbc2abafa45010ad618e8641fefe2efeb4.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+      "publishedAt": "2024-12-23 23:52:07",
+      "content": "It may not surprise you that Trump mangled his facts about Panama, overstating by more than 600 percent the number of Americans who died building the Canal (only some of them from malaria). Indeed, i\u2026 [+2089 chars]",
+      "retrievedAt": "2024-12-25 07:06:25.858172",
+      "internal_id": "6671a9c7c549eda4bdaf9cb5db164e63c4e37ad9b603f31d14ef635be4a5f9be",
+      "publishedAtLabel": "Dec 23"
+    },
+    {
+      "id": 16757,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Newser",
+      "author": "Bob Cronin",
+      "title": "Whooping Cough in US Hits a 10-Year High",
+      "description": "The number of whooping cough cases in the US so far in 2024 is more than 32,000, the highest in a decade, Centers for Disease Control and Prevention data show. As many cases of pertussis, as it's also known, were reported in the 12 weeks before Dec. 14 as...",
+      "url": "https://www.newser.com/story/361469/whooping-cough-in-us-hits-a-10-year-high.html",
+      "urlToImage": "https://img2-azrcdn.newser.com/image/1580451-12-20241223165602.jpeg",
+      "publishedAt": "2024-12-23 22:26:00",
+      "content": "The number of whooping cough cases in the US so far in 2024 is more than 32,000, the highest in a decade, Centers for Disease Control and Prevention data show. As many cases of pertussis, as it's als\u2026 [+1650 chars]",
+      "retrievedAt": "2024-12-25 07:06:23.654888",
+      "internal_id": "85c8cfa9efd065f4bdcc80d48eca89606f6987def9f17d32a98f06682cae932f",
+      "publishedAtLabel": "Dec 23"
+    },
+    {
+      "id": 16758,
+      "query": [
+        "measles"
+      ],
+      "source_id": "nbc-news",
+      "source_name": "NBC News",
+      "author": "Brandy Zadrozny",
+      "title": "Anti-vaccine group with ties to RFK Jr. saw another windfall last year, records show",
+      "description": "Del Bigtree's Informed Consent Action Network, which advocates against polio, measles, hepatitis and Covid vaccines, brought in $23 million last year, tax records show.",
+      "url": "https://www.nbcnews.com/news/us-news/anti-vaccine-group-ican-del-bigtree-rfk-jr-nearly-doubled-revenue-rcna185214",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-12/241223-del-bigtree-ican-mn-0950-0f76ab.jpg",
+      "publishedAt": "2024-12-23 21:14:41",
+      "content": "Del Bigtree, a leading voice in the anti-vaccine movement, brought in a record windfall last year for the nonprofit group he founded, according to the latest tax filings. The Informed Consent Actio\u2026 [+5622 chars]",
+      "retrievedAt": "2024-12-25 07:06:24.007893",
+      "internal_id": "45802e00696c70ddf811ac117309f89f8234d602ed8dc3279aac6b57b3936293",
+      "publishedAtLabel": "Dec 23"
+    },
+    {
+      "id": 16767,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Thomaz Molina",
+      "title": "Com mais de 2 milh\u00f5es de casos de dengue em 2024, SP bate recorde",
+      "description": "Esses s\u00e3o os maiores n\u00fameros registrados desde o in\u00edcio da s\u00e9rie hist\u00f3rica, no ano 2000. Veja dicas para evitar novos casos de dengue",
+      "url": "https://www.metropoles.com/sao-paulo/com-mais-de-2-milhoes-de-casos-de-dengue-em-2024-sp-bate-recorde",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/10/30153517/agentes-saude-dengue.jpg",
+      "publishedAt": "2024-12-23 20:54:25",
+      "content": "S\u00e3o Paulo O estado de S\u00e3o Paulo registrou mais de 2 milh\u00f5es de casos confirmados de dengue em 2024, de acordo com o painel de monitoramento da doen\u00e7a feito pela Secretaria Estadual da Sa\u00fade. Segundo \u2026 [+6420 chars]",
+      "retrievedAt": "2024-12-25 07:06:25.110830",
+      "internal_id": "a797b275fe5b6015ad53f49437de5a3d1a3bf44df716bd70cee5809f920fefdc",
+      "publishedAtLabel": "Dec 23"
+    },
+    {
+      "id": 16771,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Crooksandliars.com",
+      "author": "John Amato",
+      "title": "Bogus Hydroxychloroquine Study Finally Retracted",
+      "description": "During the height of the COVID hysteria, then-President Trump promoted hydroxychloroquine, a drug used for Malaria as a possible cure for COVID-19, which caused a national panic. MAGATs continually used this study to prove its efficacy even though many virol\u2026",
+      "url": "https://crooksandliars.com/2024/12/trump-promoted-hydroxychloroquine-study",
+      "urlToImage": "https://crooksandliars.com/files/mediaposters/2020/04/44743.jpg",
+      "publishedAt": "2024-12-23 20:33:08",
+      "content": "During the height of the COVID hysteria, then-President Trump promoted hydroxychloroquine, a drug used for Malaria as a possible cure for COVID-19, which caused a national panic. MAGATs continually\u2026 [+957 chars]",
+      "retrievedAt": "2024-12-25 07:06:25.865752",
+      "internal_id": "29a07a140f7d4bef00dc66be944e07e7ac9ebc7d293b8a41036c10d799eb8ce3",
+      "publishedAtLabel": "Dec 23"
+    },
+    {
+      "id": 16763,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Estad\u00e3o Conte\u00fado",
+      "title": "Dengue: S\u00e3o Paulo registra recorde com mais de 2 milh\u00f5es de casos prov\u00e1veis em 2024",
+      "description": "Estado tem mais de 2 mil mortes; Brasil enfrentou maior epidemia da doen\u00e7a da hist\u00f3ria neste ano",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/dengue-sao-paulo-registra-recorde-com-mais-de-2-milhoes-de-casos-provaveis-em-2024,97f0178a01addda71e432b1f2788c502mirumjvk.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/12/23/1413666231-2jk37yhfz5e67cvsqgufks2zqu.jpg",
+      "publishedAt": "2024-12-23 20:15:43",
+      "content": "Com mais de 2,16 milh\u00f5es de casos prov\u00e1veis de dengue neste ano, 2024 superou o recorde anterior, de 745 mil, de 2015, e se tornou o ano com maior n\u00famero de notifica\u00e7\u00f5es da hist\u00f3ria do estado de S\u00e3o \u2026 [+2339 chars]",
+      "retrievedAt": "2024-12-25 07:06:25.067458",
+      "internal_id": "20e7029775581fd8cbe4eec2fbc217225997ff65694f5ef56cc51d05a4a51381",
+      "publishedAtLabel": "Dec 23"
+    },
+    {
+      "id": 16764,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Excelsior.com.mx",
+      "author": "angel.salinas",
+      "title": "A d\u00edas de Fin de A\u00f1o, M\u00e9xico reporta 123 mil 141 casos de dengue; 462 decesos",
+      "description": "Patricia Rodr\u00edguez Calva A unos d\u00edas de que concluya el a\u00f1o, M\u00e9xico report\u00f3 m\u00e1s del doble de contagios y muertes por dengue con respecto al 2023. Al corte del 16 de diciembre, los casos ascendieron a 123 mil 141, con el registro de 462 decesos en 30 enti\u2026",
+      "url": "https://www.excelsior.com.mx/nacional/mexico-reporta-123-mil-141-casos-dengue-462-decesos/1691086",
+      "urlToImage": "https://www.excelsior.com.mx/media/pictures/2024/12/23/3232818.jpg",
+      "publishedAt": "2024-12-23 20:09:03",
+      "content": "A unos d\u00edas de que concluya el a\u00f1o, M\u00e9xico report\u00f3 m\u00e1s del doble de contagios y muertes por dengue con respecto al 2023. Al corte del 16 de diciembre, los casos ascendieron a 123 mil 141, con el re\u2026 [+1600 chars]",
+      "retrievedAt": "2024-12-25 07:06:25.085624",
+      "internal_id": "d92d3c83bdbc32602cc0964d57b16c14dc1cbd0de29e7eb78101ff4ba4e5b217",
+      "publishedAtLabel": "Dec 23"
+    },
+    {
+      "id": 16759,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Ontario reports spike in measles cases; 37 linked to an exposure in New Brunswick",
+      "description": "Public Health Ontario says all but 2 cases were in people who weren't immunized against the disease. The agency says between 2013 and 2023, the province didn't record more than 22 cases in any one year.",
+      "url": "https://www.cbc.ca/news/canada/toronto/ontario-measles-spike-linked-new-brunswick-exposure-1.7418123",
+      "urlToImage": "https://i.cbc.ca/1.5343123.1714000801!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/measles-virus.jpg?im=Resize%3D620",
+      "publishedAt": "2024-12-23 19:57:15",
+      "content": "Public health officials say a cluster of measles cases in Ontario linked to an exposure in New Brunswick has grown to 37. Public Health Ontario says 11 of those cases are confirmed and 26 are probab\u2026 [+799 chars]",
+      "retrievedAt": "2024-12-25 07:06:24.015275",
+      "internal_id": "1443d795fe32f520ff789c11babc4f21ec65bc66da1b317abdfbd1937094f61e",
+      "publishedAtLabel": "Dec 23"
+    },
+    {
+      "id": 16765,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Excelsior.com.mx",
+      "author": "angel.salinas",
+      "title": "Mariana Rodr\u00edguez da positivo a dengue; esto sabemos de su salud",
+      "description": "Fernanda Escobar / ABC Noticias / Monterrey Mariana Rodr\u00edguez Cant\u00fa, titular de Amar a Nuevo Le\u00f3n, inform\u00f3 que dio positivo a dengue, tras entregar juguetes de Navidad en el DIF Monarcas. A trav\u00e9s de su cuenta de Instagram que la esposa del gobernador S\u2026",
+      "url": "https://www.excelsior.com.mx/nacional/mariana-rodriguez-da-positivo-dengue-este-su-estado-salud/1691082",
+      "urlToImage": "https://www.excelsior.com.mx/media/styles/image1200x630/public/pictures/2024/12/23/3232799.jpg",
+      "publishedAt": "2024-12-23 19:40:53",
+      "content": "Mariana Rodr\u00edguez Cant\u00fa, titular de Amar a Nuevo Le\u00f3n, inform\u00f3 que dio positivo a dengue, tras entregar juguetes de Navidad en el DIF Monarcas. A trav\u00e9s de su cuenta de Instagram que la esposa de\u2026 [+1801 chars]",
+      "retrievedAt": "2024-12-25 07:06:25.092080",
+      "internal_id": "b2835711b5b87d59d139b71a718b269b054c1b1eeee5c900f959a4c1056a1838",
+      "publishedAtLabel": "Dec 23"
+    },
+    {
+      "id": 16769,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "MacRumors",
+      "author": "Joe Rossignol",
+      "title": "Apple Pay Donation Campaign for World AIDS Day Raised $3 Million",
+      "description": "(RED) today announced that the annual Apple Pay donation campaign raised a total of $3 million this year for The Global Fund to Fight AIDS, Tuberculosis and Malaria. Apple's donation was capped at $3 million, so it reached that cap. \"Thank you, Apple and\u2026",
+      "url": "https://www.macrumors.com/2024/12/23/apple-pay-donation-campaign-raised-3-million/",
+      "urlToImage": "https://images.macrumors.com/t/jV_isiqlh-ivfR2f_KYq-zjwBJY=/1600x/article-new/2024/12/Apple-Pay-RED.jpg",
+      "publishedAt": "2024-12-23 19:05:34",
+      "content": "(RED) today announced that the annual Apple Pay donation campaign raised a total of $3 million this year for The Global Fund to Fight AIDS, Tuberculosis and Malaria. Apple's donation was capped at $3\u2026 [+1151 chars]",
+      "retrievedAt": "2024-12-25 07:06:25.844704",
+      "internal_id": "e50e7d356d63f2a88eadee9b96091cd46a9251273c04719583e566045b252ab3",
+      "publishedAtLabel": "Dec 23"
+    },
     {
       "id": 16736,
       "query": [
@@ -24019,6 +24307,242 @@
       "content": "WHATCOM COUNTY, Wash. The Washington State Department of Health reported on November 7th that, as of November 2nd, 1,193 cases of pertussis, commonly known as whooping cough, had been reported across\u2026 [+1883 chars]",
       "retrievedAt": "2024-11-12 07:06:21.407044",
       "internal_id": "7e91ca12dc04b7a0ba4fc77d6784176a566754e78f74879959d8a5b6c7f2db13",
+      "publishedAtLabel": "Nov 10"
+    },
+    {
+      "id": 15416,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "DIE WELT",
+      "author": "WELT",
+      "title": "Das steckt hinter der Dunkelziffer der Infektionsf\u00e4lle",
+      "description": "Weltweit grassiert das H5N1-Virus. V\u00f6gel, K\u00fche, Schweine stecken sich an, aber auch Menschen. In US-amerikanischen Milchvieh-Betrieben, die als ein Hotspot gelten, wurden nun Mitarbeiter getestet. Dabei zeigte sich: Zahlreiche Erkrankungen bleiben unentdeckt \u2026",
+      "url": "https://www.welt.de/wissenschaft/article254453336/Vogelgrippe-bei-Menschen-Das-steckt-hinter-der-Dunkelziffer-der-Infektionsfaelle.html",
+      "urlToImage": "https://img.welt.de/img/wissenschaft/mobile254453334/2637933997-ci16x9-w1200/Bird-Flu-Virus.jpg",
+      "publishedAt": "2024-11-10 15:52:08",
+      "content": "Weltweit grassiert das H5N1-Virus. V\u00f6gel, K\u00fche, Schweine stecken sich an, aber auch Menschen. In US-amerikanischen Milchvieh-Betrieben, die als ein Hotspot gelten, wurden nun Mitarbeiter getestet. Da\u2026 [+2404 chars]",
+      "retrievedAt": "2024-11-11 19:05:29.950458",
+      "internal_id": "12080f5267567775babd661bb32bb9cf771f6ee73f73872806d3e53978ad302e",
+      "publishedAtLabel": "Nov 10"
+    },
+    {
+      "id": 15420,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Newsbreak.com",
+      "author": "Yahoo!",
+      "title": "Health officials sound alarm after disease spreads in Florida following devastating hurricanes: 'Their pain is remarkable'",
+      "description": "Floridians are still feeling the ripple effects of extreme rainfall from Hurricanes Milton and Helene. In a concerning development, Fox Weather reported that the Tampa area is now contending with the spread of the mosquito-borne illness dengue fever. What's h\u2026",
+      "url": "https://www.newsbreak.com/share/3668986070323-health-officials-sound-alarm-after-disease-spreads-in-florida-following-devastating-hurricanes-their-pain-is-remarkable?s=a2&amp;share_destination_id=OTc5NjE4ODYtMTczMTI1MjcwNDc4NA%3D%3D&amp;pd=06d2MQ1a&amp;hl=en_US&amp;send_time=1731252704&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2224.44.0%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_local_strategy_24q4_exp-v3%2Cns_foryou_model_exp_24q4-control%2Cns_foryou_rank_exp_24q4-v1%2Cns_foryou_recall_exp_24q4-control%2Cns_pushv1-v9%2Cns_foryou_blend_exp_24q4-v5",
+      "urlToImage": "https://img.particlenews.com/img/id/1S0MEt_0wgxijW700?type=thumbnail_1600x1200",
+      "publishedAt": "2024-11-10 15:32:15",
+      "content": "Its essential to note our commitment to transparency: Our Terms of Use acknowledge that our services may not always be error-free, and our Community Standards emphasize our discretion in enforcing \u2026 [+246 chars]",
+      "retrievedAt": "2024-11-11 19:05:30.362383",
+      "internal_id": "4854464ecb739ac3f1bccaf18ab0b627e22a55921a27e8347cec5fe716b34fc7",
+      "publishedAtLabel": "Nov 10"
+    },
+    {
+      "id": 15414,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Victoria Forster, Contributor, \n Victoria Forster, Contributor\n https://www.forbes.com/sites/victoriaforster/",
+      "title": "Canada Reports First Human Case Of H5N1 Bird Flu",
+      "description": "A teenager in British Columbia, Canada has been hospitalized with a presumed case of H5N1 bird flu, the first detected human case in the country in the current outbreak.",
+      "url": "https://www.forbes.com/sites/victoriaforster/2024/11/10/canada-reports-first-human-case-of-h5n1-bird-flu/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6730c3f0682d22411f9eda93/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-11-10 14:43:29",
+      "content": "A Canadian teenager has been hospitalized with bird flu, the first human case of H5N1 in the current ... [+] outbreak detected in the country. getty A teenager in British Columbia, Canada has been \u2026 [+2690 chars]",
+      "retrievedAt": "2024-11-11 19:05:29.900367",
+      "internal_id": "5784063b05bd6ffa2574153f7d91e74895ea0b46fca15117ef73043586782089",
+      "publishedAtLabel": "Nov 10"
+    },
+    {
+      "id": 15412,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "National Institutes of Health",
+      "author": null,
+      "title": "Diphtheria-tetanus-pertussis immunization and sudden infant death: results of the National Institute of Child Health and Human Development Cooperative Epidemiological Study of Sudden Infant Death Syndrome risk factors",
+      "description": "The possible association between diphtheria-pertussis-tetanus (DTP) immunization and the subsequent occurrence of sudden infant death has been examined using data from the National Institute of Child Health and Human Development (NICHD) Sudden Infant Death Sy\u2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3493477/",
+      "urlToImage": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg",
+      "publishedAt": "2024-11-10 12:29:32",
+      "content": "The possible association between diphtheria-pertussis-tetanus (DTP) immunization and the subsequent occurrence of sudden infant death has been examined using data from the National Institute of Child\u2026 [+1613 chars]",
+      "retrievedAt": "2024-11-11 19:05:28.821764",
+      "internal_id": "6c74d4cedaf64c99b074cc0ce810af2f99f59160b59d083290122b862efbb964",
+      "publishedAtLabel": "Nov 10"
+    },
+    {
+      "id": 15417,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "ZEIT ONLINE: Gesundheit - Wenke Husmann",
+      "title": "Vogelgrippe: Vogelgrippe-F\u00e4lle bei Menschen bleiben oft unentdeckt",
+      "description": "Derzeit grassiert die gr\u00f6\u00dfte je dokumentierte Vogelgrippewelle. Auch viele K\u00fche sind betroffen, und offenbar auch Mitarbeiter von Milchvieh-Betrieben \u2013 ohne es zu sp\u00fcren.",
+      "url": "https://www.zeit.de/gesundheit/2024-11/vogelgrippe-menschen-unentdeckt-usa",
+      "urlToImage": "https://img.zeit.de/gesundheit/2024-11/vogelgrippe-menschen-unentdeckt-usa-bild/wide__1300x731",
+      "publishedAt": "2024-11-10 12:10:30",
+      "content": "Zahlreiche Infektionen von Menschen mit dem Vogelgrippe-Virus H5N1 in Milchvieh-Betrieben in den USA werden offenbar nicht entdeckt. Beim Testen von Mitarbeitenden in Betrieben, in denen das Virus un\u2026 [+3038 chars]",
+      "retrievedAt": "2024-11-11 19:05:29.956996",
+      "internal_id": "9cdf1dbcec166ebc18ac14171ad34462bc52a751560997a66fe2351c09724fa2",
+      "publishedAtLabel": "Nov 10"
+    },
+    {
+      "id": 15423,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Lara Adejoro",
+      "title": "WHO, Africa CDC strengthen Mpox vaccination in Nigeria, 16 other countries",
+      "description": "The World Health Organisation and the Africa Centres for Disease Control and Prevention have committed to guiding the development of targeted mpox vaccine preparedness and deployment plans to ensure the efficient use of available doses. This decision was reac\u2026",
+      "url": "https://punchng.com/who-africa-cdc-strengthen-mpox-vaccination-in-nigeria-16-other-countries/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2023/05/13101855/logo-who.tmb-1200v.jpg",
+      "publishedAt": "2024-11-10 11:23:54",
+      "content": "The World Health Organisation and the Africa Centres for Disease Control and Prevention have committed to guiding the development of targeted mpox vaccine preparedness and deployment plans to ensure \u2026 [+3980 chars]",
+      "retrievedAt": "2024-11-11 19:05:31.656413",
+      "internal_id": "a3a7346c7ca81a0863a1c88d3577075b4fb8a21f6d12b68212a51a14249c1835",
+      "publishedAtLabel": "Nov 10"
+    },
+    {
+      "id": 15418,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Der Tagesspiegel",
+      "title": "Vogelgrippe in den USA: F\u00e4lle bei Menschen bleiben oft unentdeckt",
+      "description": "Derzeit grassiert die gr\u00f6\u00dfte je dokumentierte Vogelgrippewelle. In den USA sind auch viele K\u00fche betroffen. Nun zeigen Tests: Viele Mitarbeiter von Milchvieh-Betrieben sind infiziert, ohne es zu wissen.",
+      "url": "https://www.tagesspiegel.de/wissen/vogelgrippe-in-den-usa-falle-bei-menschen-bleiben-oft-unentdeckt-12679604.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/12679628/alternates/BASE_16_9_W1400/1731235904000/vogelgrippe-in-den-usa.jpeg",
+      "publishedAt": "2024-11-10 10:58:24",
+      "content": "Zahlreiche Infektionen von Menschen mit dem Vogelgrippe-Virus H5N1 in Milchvieh-Betrieben in den USA werden offenbar nicht entdeckt. Beim Testen von Mitarbeitern in Betrieben, in denen das Virus bei \u2026 [+3594 chars]",
+      "retrievedAt": "2024-11-11 19:05:29.968806",
+      "internal_id": "6e0eaf61df4edb61532aa164c28620251907950f180d812ee2cf23de08783753",
+      "publishedAtLabel": "Nov 10"
+    },
+    {
+      "id": 15415,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Livemint",
+      "author": "mint",
+      "title": "Bird flu among pigs should worry humans too",
+      "description": "While virus outbreaks have waxed and waned, in 2022 something strange started happening with vastly more birds and mammals getting infected and even dying globally. Scientists need to conduct more research to understand this virus. After covid, we know the ri\u2026",
+      "url": "https://www.livemint.com/opinion/online-views/bird-flu-pigs-virus-outbreak-h5n1-virus-mammals-pandemic-chickens-11731230798297.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2024/11/10/1600x900/2-0-106799100-MK-AM098A-OLYMPIGS-3C-0_1681495746567_1731232236185.jpg",
+      "publishedAt": "2024-11-10 10:00:17",
+      "content": "When the US Department of Agriculture announced that the H5N1 bird flu had turned up in a pig, I dropped what I was doing to read it. The situation didnt quite match the nightmare scenario some exper\u2026 [+4564 chars]",
+      "retrievedAt": "2024-11-11 19:05:29.938607",
+      "internal_id": "acc89cf73f815fabb449b14b6ad1b8ad6671a600a0dc50a70d42d9b687a4315a",
+      "publishedAtLabel": "Nov 10"
+    },
+    {
+      "id": 15422,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Faz.net",
+      "author": "AFP",
+      "title": "UN: 1,4 Millionen Menschen von \u00dcberschwemmungen im S\u00fcdsudan betroffen",
+      "description": "Fast 400.000 Menschen wurden nach UN-Angaben durch das Hochwasser im S\u00fcdsudan vertrieben. Die Malaria-F\u00e4lle steigen \u2013 und \u00fcberfordern das Gesundheitssystem. Die humanit\u00e4re Lage im Land ist ohnehin dramatisch.",
+      "url": "https://www.faz.net/aktuell/gesellschaft/ungluecke/suedsudan-1-4-millionen-menschen-von-ueberschwemmungen-betroffen-110101826.html",
+      "urlToImage": "https://media0.faz.net/ppmedia/aktuell/992566442/1.10101830/facebook_teaser/die-weltbank-hatte-am-1.jpg",
+      "publishedAt": "2024-11-10 09:47:21",
+      "content": "Inzwischen seien die Menschen in 43 Bezirken sowie in der zwischen S\u00fcdsudan und Sudan umstrittenen Region Abyei von dem Hochwasser betroffen, erkl\u00e4rte das UN-B\u00fcro f\u00fcr humanit\u00e4re Angelegenheiten. In 2\u2026 [+1536 chars]",
+      "retrievedAt": "2024-11-11 19:05:31.098656",
+      "internal_id": "6d13cf1781648a0b6b7fb64bc408e001e26c27d42c3395bdbfb0cf25ad6a162e",
+      "publishedAtLabel": "Nov 10"
+    },
+    {
+      "id": 15419,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "title": "Contin\u00faan acciones de prevenci\u00f3n contra Dengue, Zika y Chikungunya en Chiapas: Rutilio Escand\u00f3n",
+      "description": "En el contexto de la Mesa de Coordinaci\u00f3n Estatal para la Construcci\u00f3n de la Paz y la Segu-ridad, el gobernador de Chiapas, Rutilio Escan-d\u00f3n Cadenas, destac\u00f3 que las autoridades fede-rales, estatales y municipales contin\u00faan con las acciones prioritarias de l\u2026",
+      "url": "https://www.jornada.com.mx/2024/11/10/estados/021n4est",
+      "urlToImage": "https://www.jornada.com.mx/2024/11/10/fotos/021n4est-1.jpg",
+      "publishedAt": "2024-11-10 09:36:53",
+      "content": "Peri\u00f3dico La JornadaDomingo 10 de noviembre de 2024, p. 21 En el contexto de la Mesa de Coordinaci\u00f3n Estatal para la Construcci\u00f3n de la Paz y la Segu-ridad, el gobernador de Chiapas, Rutilio Escan-d\u2026 [+620 chars]",
+      "retrievedAt": "2024-11-11 19:05:30.339812",
+      "internal_id": "ac38807124be84f45c30f3ceb8cafd79bae6421f87907f275b8da782dc71413a",
+      "publishedAtLabel": "Nov 10"
+    },
+    {
+      "id": 15421,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Indian Express",
+      "author": "IE Bangla Web Desk",
+      "title": "Dengue in Westbengal: \u09ad\u09df \u09a7\u09b0\u09be\u099a\u09cd\u099b\u09c7 \u09b0\u09be\u099c\u09cd\u09af\u09c7\u09b0 \u09a1\u09c7\u0999\u09cd\u0997\u09c1 \u09aa\u09b0\u09bf\u09b8\u09cd\u09a5\u09bf\u09a4\u09bf, \u099a\u09b2\u09a4\u09bf \u09ae\u09be\u09b8\u09c7 \u0986\u0995\u09cd\u09b0\u09be\u09a8\u09cd\u09a4\u09c7\u09b0 \u09aa\u09b0\u09bf\u09b8\u0982\u0996\u09cd\u09af\u09be\u09a8 \u099a\u09ae\u0995\u09c7 \u09a6\u09bf\u09a4\u09c7 \u09ac\u09be\u09a7\u09cd\u09af",
+      "description": "Dengue in Westbengal: \u098f\u0996\u09a8\u0993 \u09b6\u09c0\u09a4 \u09b8\u09c7\u09ad\u09be\u09ac\u09c7 \u09b0\u09be\u099c\u09cd\u09af\u09c7 \u09aa\u09cd\u09b0\u09ac\u09c7\u09b6 \u0995\u09b0\u09c7\u09a8\u09bf\u0964 \u098f\u09a6\u09bf\u0995\u09c7 \u09a6\u09bf\u09a8\u09c7 \u09a6\u09bf\u09a8\u09c7 \u09b0\u09be\u099c\u09cd\u09af\u09c7 \u09ac\u09c7\u09dc\u09c7\u0987 \u099a\u09b2\u09c7\u099b\u09c7 \u09a1\u09c7\u0999\u09cd\u0997\u09c1 \u0986\u0995\u09cd\u09b0\u09be\u09a8\u09cd\u09a4\u09c7\u09b0 \u09b8\u0982\u0996\u09cd\u09af\u09be\u0964 \u09b8\u09cd\u09ac\u09be\u09b8\u09cd\u09a5\u09cd\u09af \u09a6\u09ab\u09a4\u09b0\u09c7\u09b0 \u09aa\u09b0\u09bf\u09b8\u0982\u0996\u09cd\u09af\u09be\u09a8 \u0995\u09bf\u09a8\u09cd\u09a4\u09c1 \u099a\u09ae\u0995\u09c7 \u09a6\u09c7\u0993\u09df\u09be\u09b0 \u09ae\u09a4\u0987\u0964 \u09b8\u09cd\u09ac\u09be\u09b8\u09cd\u09a5\u09cd\u09af \u09a6\u09ab\u09a4\u09b0 \u09b8\u09c2\u09a4\u09cd\u09b0\u09c7 \u099c\u09be\u09a8\u09be \u0997\u09bf\u09df\u09c7\u099b\u09c7 \u09ea\u09a0\u09be \u09a8\u09ad\u09c7\u09ae\u09cd\u09ac\u09b0 \u09aa\u09b0\u09cd\u09af\u09a8\u09cd\u09a4 \u09b0\u09be\u099c\u09cd\u09af\u09c7 \u09ae\u09cb\u099f \u09a1\u09c7\u0999\u09cd\u0997\u09c1 \u0986\u0995\u09cd\u09b0\u09be\u09a8\u09cd\u09a4\u09c7\u09b0 \u09b8\u0982\u0996\u09cd\u2026",
+      "url": "https://bengali.indianexpress.com/west-bengal/dengue-cases-rising-in-west-bengal-govt-says-situation-under-control-7569144",
+      "urlToImage": "https://img-cdn.thepublive.com/fit-in/1200x675/indian-express-bangla/media/media_files/2024/11/10/NQB51nJjKXMCwmT24VId.jpg",
+      "publishedAt": "2024-11-10 09:13:46",
+      "content": "Dengue in Westbengal: , , , ! , , ,, - , , ' '?",
+      "retrievedAt": "2024-11-11 19:05:30.369074",
+      "internal_id": "53986fd0600c7f132e024791825ba9669ea53b47b2c7f07d0cc6baa99d9bc6d9",
+      "publishedAtLabel": "Nov 10"
+    },
+    {
+      "id": 15413,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Acecomments.mu.nu",
+      "author": "Pixy Misa",
+      "title": "Daily Tech News 10 November 2024",
+      "description": "Top Story Beata Halassy had breast cancer - for the third time, despite chemotherapy and a mastectomy. She had cancer. She gave it measles and it died. (Nature) Beata is a virologist so she prepared her own virus culture -...",
+      "url": "https://acecomments.mu.nu/?post=412315",
+      "urlToImage": null,
+      "publishedAt": "2024-11-10 09:00:00",
+      "content": "Disclaimer: You thought he was buying a social network in terminal decline. He bought a solar system.",
+      "retrievedAt": "2024-11-11 19:05:29.475144",
+      "internal_id": "bae36c58b7c159bf44713745c260ef138a70d806f492de198b851d2545e749c5",
+      "publishedAtLabel": "Nov 10"
+    },
+    {
+      "id": 15424,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Elespanol.com",
+      "author": "P. Fava",
+      "title": "Llega un nuevo temporal de lluvia y fr\u00edo a Espa\u00f1a: Aemet avisa por DANA, nevadas y 100 l/m esta semana en estas zonas",
+      "description": "Los vientos fr\u00edos del norte har\u00e1n su entrada coincidiendo con el comienzo de la semana, y se espera el comienzo del temporal para el martes. M\u00e1s informaci\u00f3n: As\u00ed es la leptospirosis: la infecci\u00f3n que amenaza a los afectados de la DANA tras el estancamiento de\u2026",
+      "url": "https://www.elespanol.com/ciencia/meteorologia/20241110/llega-nuevo-temporal-lluvia-frio-espana-aemet-avisa-dana-nevadas-lm-semana-zonas/899660612_0.html",
+      "urlToImage": "https://s1.elespanol.com/2024/11/10/ciencia/meteorologia/900170005_250752543_1706x960.png",
+      "publishedAt": "2024-11-10 08:51:48",
+      "content": "La relativa estabilidad atmosf\u00e9rica de los \u00faltimos d\u00edas, sumada a temperaturas que han llegado a ser ligeramente superiores a las habituales para la \u00e9poca del a\u00f1o, tiene las horas contadas. Rub\u00e9n del\u2026 [+3391 chars]",
+      "retrievedAt": "2024-11-11 19:05:31.930287",
+      "internal_id": "de73704a34e08961747be2d344cf11311868d0c70ba0e3c83901cb055c20b1e1",
       "publishedAtLabel": "Nov 10"
     }
   ]
