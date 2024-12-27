@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 8
-- **Last harvest:** 2024-12-27 07:06
-- **Most recent article:** 2024-12-26 05:01:00
+- **New articles in last harvest:** 17
+- **Last harvest:** 2024-12-27 19:05
+- **Most recent article:** 2024-12-26 18:28:25
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-46 | 24-47 | 24-48 | 24-49 | 24-50 | 24-51 | 24-52 | Total |
 |--|-|-|-|-|-|-|-|-|
-| h5n1 | 37 | 50 | 38 | 70 | 61 | 112 | 14 | 382 |
-| mpox | 62 | 76 | 26 | 20 | 26 | 92 | 31 | 333 |
-| malaria | 33 | 27 | 29 | 27 | 76 | 60 | 6 | 258 |
-| dengue | 36 | 28 | 25 | 10 | 33 | 30 | 14 | 176 |
-| measles | 32 | 11 | 6 | 9 | 10 | 6 | 8 | 82 |
+| h5n1 | 32 | 50 | 38 | 70 | 61 | 112 | 24 | 387 |
+| mpox | 61 | 76 | 26 | 20 | 26 | 92 | 32 | 333 |
+| malaria | 32 | 27 | 29 | 27 | 76 | 60 | 7 | 258 |
+| dengue | 33 | 28 | 25 | 10 | 33 | 30 | 16 | 175 |
+| measles | 31 | 11 | 6 | 9 | 10 | 6 | 9 | 82 |
 | rabies | 11 | 7 | 12 | 13 | 3 | 7 | 3 | 56 |
-| chikungunya | 3 | 5 | 4 | 6 | 7 | 8 | 0 | 33 |
-| pertussis | 8 | 5 | 1 | 4 | 6 | 4 | 1 | 29 |
-| meningitis | 2 | 5 | 3 | 3 | 7 | 5 | 2 | 27 |
-| hpai | 4 | 4 | 0 | 2 | 4 | 6 | 4 | 24 |
-| zika | 4 | 3 | 1 | 4 | 4 | 4 | 1 | 21 |
-| leptospirosis | 3 | 0 | 2 | 0 | 3 | 0 | 1 | 9 |
+| chikungunya | 2 | 5 | 4 | 6 | 7 | 8 | 0 | 32 |
+| hpai | 4 | 4 | 0 | 2 | 4 | 6 | 8 | 28 |
+| meningitis | 2 | 5 | 3 | 3 | 7 | 5 | 3 | 28 |
+| pertussis | 7 | 5 | 1 | 4 | 6 | 4 | 1 | 28 |
+| zika | 3 | 3 | 1 | 4 | 4 | 4 | 1 | 20 |
+| leptospirosis | 2 | 0 | 2 | 0 | 3 | 0 | 2 | 9 |
 | yersinia | 0 | 1 | 1 | 0 | 0 | 0 | 5 | 7 |
 | typhoid | 1 | 3 | 1 | 0 | 1 | 0 | 0 | 6 |
 | shigellosis | 1 | 0 | 0 | 0 | 0 | 1 | 0 | 2 |
@@ -62,6 +62,8 @@ Source: [News API](https://newsapi.org/)
 - [Whooping Cough in US Hits a 10-Year High](https://www.newser.com/story/361469/whooping-cough-in-us-hits-a-10-year-high.html) (Newser)
 
 ## 24-52 (mpox)
+
+- [Top global health issues of 2025: bird flu, mpox, future of the WHO](https://www.statnews.com/2024/12/26/global-health-three-issues-to-watch/) (STAT)
 
 - [WHO: Mpox situation in Africa remains 'especially concerning'](https://www.standardmedia.co.ke/health/health-science/article/2001508609/who-mpox-situation-in-africa-remains-especially-concerning) (Standard Digital)
 
@@ -127,11 +129,15 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-52 (meningitis)
 
+- [The SpxA1-TenA toxin-antitoxin system regulates epigenetic variations of Streptococcus pneumoniae by targeting protein synthesis](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012801) (Plos.org)
+
 - [Bebé de 1 año murió por meningitis tras presunta negligencia médica en Cesfam de Cartagena](https://www.cnnchile.com/pais/bebe-1-ano-murio-meningitis-negligencia-medica-cesfam-cartagena_20241225/) (Cnnchile.com)
 
 - [Una meningitis que padeció cuando era niño le causó una discapacidad, pero José Muñiz celebra los cien años «muy contento»](https://www.lavozdegalicia.es/noticia/ourense/barbadas/2024/12/23/meningitis-causo-deficiencia-nino-jose-muniz-celebra-cien-anos-contento/00031734975207114267319.htm) (Lavozdegalicia.es)
 
 ## 24-52 (measles)
+
+- [Bird flu, measles top 2025 concerns for Canada's chief public health officer](https://www.thestar.com/politics/bird-flu-measles-top-2025-concerns-for-canadas-chief-public-health-officer/article_6916143d-26ee-55f2-913f-2be1f9b15d5c.html) (Toronto Star)
 
 - [Measles, polio detected as authorities urge caution](https://www.perthnow.com.au/news/health/measles-polio-detected-as-authorities-urge-caution-c-17187023) (PerthNow)
 
@@ -151,6 +157,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-52 (malaria)
 
+- [Medizinerin über Forschung zu Parasiten: „Wir müssen längerfristigen Impfschutz aufbauen“](https://taz.de/Medizinerin-ueber-Forschung-zu-Parasiten/!6054482/) (taz.de)
+
 - [Apple, 3 milioni di dollari al Fondo Globale per combattere AIDS, Tubercolosi e Malaria](https://www.macitynet.it/apple-3-milioni-di-dollari-al-fondo-globale-per-combattere-aids-tubercolosi-e-malaria/) (Macitynet.it)
 
 - [Trump Wants to Bring Back the American Imperium](https://newrepublic.com/article/189657/trump-imperium-greenland-panama-canal) (The New Republic)
@@ -165,9 +173,19 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-52 (leptospirosis)
 
+- [Grenadian cats as potential reservoir for Leptospira](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012784) (Plos.org)
+
 - [Seroepidemiology of human leptospirosis in the Dominican Republic: A multistage cluster survey, 2021](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012463) (Plos.org)
 
 ## 24-52 (hpai)
+
+- [Cat Food recalled after Cat dies of Bird Flu](https://www.foodpoisonjournal.com/food-poisoning-information/cat-food-recalled-after-cat-dies-of-bird-flu/) (Foodpoisonjournal.com)
+
+- [20 Big Cats at a Washington State Sanctuary Die of Bird Flu](https://legalinsurrection.com/2024/12/20-big-cats-at-a-washington-state-sanctuary-die-of-bird-flu/) (Legalinsurrection.com)
+
+- [Deadly Bird Flu Devastates Big Cat Sanctuary](https://www.newsweek.com/bird-flu-devastates-big-cat-sanctuary-2006056) (Newsweek)
+
+- [ABD'de kuş gribi vakaları devam ediyor: Bengal kaplanı ve pumalar dahil 20 kadar yabani kedi öldü](https://anlatilaninotesi.com.tr/20241226/abdde-kus-gribi-vakalari-devam-ediyor-bengal-kaplani-ve-pumalar-dahil-20-kadar-yabani-kedi-oldu-1092042760.html) (Anlatilaninotesi.com.tr)
 
 - [【本日みつけたお買い得品】17万円ちょっとでRyzen AI搭載ノートが買える福袋など。日本HPが「新春大祭り」開催](https://pc.watch.impress.co.jp/docs/news/todays_sales/1650955.html) (Impress.co.jp)
 
@@ -178,6 +196,26 @@ Source: [News API](https://newsapi.org/)
 - [Vores vidensindsamling og demokratiske samtale påvirkes af helt lukkede beslutninger i en enkelt privat virksomhed](https://www.computerworld.dk/art/289800/vores-vidensindsamling-og-demokratiske-samtale-paavirkes-af-helt-lukkede-beslutninger-i-en-enkelt-privat-virksomhed) (Computerworld.dk)
 
 ## 24-52 (h5n1)
+
+- [Ihmisten H5N1-lintuinfluenssa­tapaukset ovat lisääntyneet, mutta taudin ei vieläkään tiedetä tarttuneen ihmisestä toiseen](https://yle.fi/a/74-20131238) (YLE News)
+
+- [What to Know About Cat Food Recall After Pet Dies of Bird Flu in Oregon](https://gizmodo.com/what-to-know-about-cat-food-recall-after-pet-dies-of-bird-flu-in-oregon-2000543274) (Gizmodo.com)
+
+- [Oregon House Cat Died After Eating Pet Food That Tested Positive For Bird Flu](https://www.huffpost.com/entry/bc-us-bird-flu-pet-food-oregon_n_676d8964e4b0186e1db6c9c6) (HuffPost)
+
+- [Cat Food recalled after Cat dies of Bird Flu](https://www.foodpoisonjournal.com/food-poisoning-information/cat-food-recalled-after-cat-dies-of-bird-flu/) (Foodpoisonjournal.com)
+
+- [Tijger en poema’s sterven aan vogelgriep in VS, “we nemen virus maar beter ernstig”](https://www.standaard.be/cnt/dmf20241226_95554871) (Standaard.be)
+
+- [20 Big Cats at a Washington State Sanctuary Die of Bird Flu](https://legalinsurrection.com/2024/12/20-big-cats-at-a-washington-state-sanctuary-die-of-bird-flu/) (Legalinsurrection.com)
+
+- [Bird flu, measles top 2025 concerns for Canada's chief public health officer](https://www.thestar.com/politics/bird-flu-measles-top-2025-concerns-for-canadas-chief-public-health-officer/article_6916143d-26ee-55f2-913f-2be1f9b15d5c.html) (Toronto Star)
+
+- [Big Cats Drop Dead of H5N1 at Sanctuary](https://www.newser.com/story/361569/big-cats-drop-dead-of-h5n1-at-sanctuary.html) (Newser)
+
+- [Canada health concerns 2025: chief public health officer](https://www.ctvnews.ca/health/bird-flu-measles-top-2025-concerns-for-canada-s-chief-public-health-officer-1.7157885) (Ctvnews.ca)
+
+- [Top global health issues of 2025: bird flu, mpox, future of the WHO](https://www.statnews.com/2024/12/26/global-health-three-issues-to-watch/) (STAT)
 
 - [This Infectious Disease Is Likely To Be Biggest Emerging Problem In 2025](https://www.ndtv.com/india-news/this-infectious-disease-is-likely-to-be-biggest-emerging-problem-in-2025-7333418) (NDTV News)
 
@@ -208,6 +246,10 @@ Source: [News API](https://newsapi.org/)
 - [Singapore watching four diseases including Covid-19 and mpox,as part of pandemic preparedness, says health minister](https://www.thestar.com.my/aseanplus/aseanplus-news/2024/12/22/singapore-watching-four-diseases-including-covid-19-and-mpoxas-part-of-pandemic-preparedness-says-health-minister) (The Star Online)
 
 ## 24-52 (dengue)
+
+- [Fernán Quirós, hizo una importante aclaración sobre la segunda infección por dengue: “Es una exageración absoluta”](https://www.lanacion.com.ar/sociedad/fernan-quiros-hizo-una-importante-aclaracion-sobre-la-segunda-infeccion-por-dengue-es-una-nid26122024/) (La Nacion)
+
+- [Impact of the COVID-19 pandemic on dengue in Brazil: Interrupted time series analysis of changes in surveillance and transmission](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012726) (Plos.org)
 
 - ['Grudinho': estudantes do RJ criam repelente natural adesivo e ganham prêmio nacional](https://www.terra.com.br/noticias/educacao/grudinho-estudantes-do-rj-criam-repelente-natural-adesivo-e-ganham-premio-nacional,8641230895ec19c27c2de65864999739pufb2v4v.html) (Terra.com.br)
 
@@ -2605,8 +2647,6 @@ Source: [News API](https://newsapi.org/)
 
 - [¿Hay riesgo de dengue o zika tras el paso de la DANA? El mosquito que puede proliferar en aguas estancadas de España](https://www.alimente.elconfidencial.com/bienestar/2024-11-14/hay-riesgo-de-dengue-o-zika-tras-el-paso-de-la-dana_4003875/) (Elconfidencial.com)
 
-- [Continúan acciones de prevención contra Dengue, Zika y Chikungunya en Chiapas: Rutilio Escandón](https://www.jornada.com.mx/2024/11/10/estados/021n4est) (Jornada.com.mx)
-
 ## 24-46 (typhoid)
 
 - [Four-year typhoid fever outbreak in Canada linked to chronic carrier](https://www.foodsafetynews.com/2024/11/four-year-typhoid-fever-outbreak-in-canada-linked-to-chronic-carrier/) (Food Safety News)
@@ -2654,8 +2694,6 @@ Source: [News API](https://newsapi.org/)
 - [โรงเรียนสาธิต มศว.ปทุมวัน ปิดเรียน 2 สัปดาห์ หลังพบเด็กป่วยไอกรน](https://www.thairath.co.th/news/society/2825340) (Thairath.co.th)
 
 - [WA Health: Significant increase in reported cases of pertussis (whooping cough) | Whatcom News](https://whatcom-news.com/wa-health-significant-increase-in-reported-cases-of-pertussis-whooping-cough_220911/) (Whatcom-news.com)
-
-- [Diphtheria-tetanus-pertussis immunization and sudden infant death: results of the National Institute of Child Health and Human Development Cooperative Epidemiological Study of Sudden Infant Death Syndrome risk factors](https://pubmed.ncbi.nlm.nih.gov/3493477/) (National Institutes of Health)
 
 ## 24-46 (mpox)
 
@@ -2781,8 +2819,6 @@ Source: [News API](https://newsapi.org/)
 
 - [WHO kaller inn til nytt krisemøte om mpox](https://www.nrk.no/nyheter/who-kaller-inn-til-nytt-krisemote-om-mpox-1.17120756) (NRK)
 
-- [WHO, Africa CDC strengthen Mpox vaccination in Nigeria, 16 other countries](https://punchng.com/who-africa-cdc-strengthen-mpox-vaccination-in-nigeria-16-other-countries/) (The Punch)
-
 ## 24-46 (meningitis)
 
 - [Lassa fever, meningitis deaths hit 535](https://punchng.com/lassa-fever-meningitis-deaths-hit-535/) (The Punch)
@@ -2853,8 +2889,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Machine learning algorithms for prediction of measles one vaccination dropout among 12-23 months children in Ethiopia](https://bmjopen.bmj.com/content/14/11/e089764) (The BMJ)
 
-- [Daily Tech News 10 November 2024](https://acecomments.mu.nu/?post=412315) (Acecomments.mu.nu)
-
 ## 24-46 (malaria)
 
 - [Lazio striker Dia given all-clear after malaria scare](https://football-italia.net/lazio-striker-dia-all-clear-malaria-scare/) (Football Italia)
@@ -2921,15 +2955,11 @@ Source: [News API](https://newsapi.org/)
 
 - [मुंबई में रोज 22 लोगों को होता है मलेरिया, घर-घर में ब्रीडिंग स्पॉट्स, आंकड़े डरा देंगे](https://navbharattimes.indiatimes.com/metro/mumbai/development/malaria-symptoms-caused-by-cases-in-mumbai-maharashtra-data/articleshow/115156656.cms) (The Times of India)
 
-- [UN: 1,4 Millionen Menschen von Überschwemmungen im Südsudan betroffen](https://www.faz.net/aktuell/gesellschaft/ungluecke/suedsudan-1-4-millionen-menschen-von-ueberschwemmungen-betroffen-110101826.html) (Faz.net)
-
 ## 24-46 (leptospirosis)
 
 - [¿Qué es la leptospirosis? Una amenaza invisible en zonas inundadas](https://www.nationalgeographic.com.es/ciencia/que-es-leptospirosis-enfermedad-que-protegerse-inundaciones_23616) (Nationalgeographic.com.es)
 
 - [Exposure to live saprophytic Leptospira before challenge with a pathogenic serovar prevents severe leptospirosis and promotes kidney homeostasis](https://elifesciences.org/articles/96470) (Elifesciences.org)
-
-- [Llega un nuevo temporal de lluvia y frío a España: Aemet avisa por DANA, nevadas y 100 l/m esta semana en estas zonas](https://www.elespanol.com/ciencia/meteorologia/20241110/llega-nuevo-temporal-lluvia-frio-espana-aemet-avisa-dana-nevadas-lm-semana-zonas/899660612_0.html) (Elespanol.com)
 
 ## 24-46 (hpai)
 
@@ -3007,16 +3037,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Many Bird Flu Infections Among Dairy Workers Go Undetected](https://www.forbes.com/sites/victoriaforster/2024/11/10/many-bird-flu-infections-among-dairy-workers-go-undetected/) (Forbes)
 
-- [Das steckt hinter der Dunkelziffer der Infektionsfälle](https://www.welt.de/wissenschaft/article254453336/Vogelgrippe-bei-Menschen-Das-steckt-hinter-der-Dunkelziffer-der-Infektionsfaelle.html) (DIE WELT)
-
-- [Canada Reports First Human Case Of H5N1 Bird Flu](https://www.forbes.com/sites/victoriaforster/2024/11/10/canada-reports-first-human-case-of-h5n1-bird-flu/) (Forbes)
-
-- [Vogelgrippe: Vogelgrippe-Fälle bei Menschen bleiben oft unentdeckt](https://www.zeit.de/gesundheit/2024-11/vogelgrippe-menschen-unentdeckt-usa) (Die Zeit)
-
-- [Vogelgrippe in den USA: Fälle bei Menschen bleiben oft unentdeckt](https://www.tagesspiegel.de/wissen/vogelgrippe-in-den-usa-falle-bei-menschen-bleiben-oft-unentdeckt-12679604.html) (Der Tagesspiegel)
-
-- [Bird flu among pigs should worry humans too](https://www.livemint.com/opinion/online-views/bird-flu-pigs-virus-outbreak-h5n1-virus-mammals-pandemic-chickens-11731230798297.html) (Livemint)
-
 ## 24-46 (dengue)
 
 - [Researchers blame climate change for one fifth of dengue cases](https://www.voanews.com/a/fifth-of-dengue-cases-due-to-climate-change-researchers-/7866482.html) (VOA News)
@@ -3085,16 +3105,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Bacolod: Negros Occidental logs 5,528 dengue cases](https://rpnradio.com/bacolod-negros-occidental-logs-5528-dengue-cases/) (Rpnradio.com)
 
-- [Health officials sound alarm after disease spreads in Florida following devastating hurricanes: 'Their pain is remarkable'](https://www.newsbreak.com/share/3668986070323-health-officials-sound-alarm-after-disease-spreads-in-florida-following-devastating-hurricanes-their-pain-is-remarkable?s=a2&amp;share_destination_id=OTc5NjE4ODYtMTczMTI1MjcwNDc4NA%3D%3D&amp;pd=06d2MQ1a&amp;hl=en_US&amp;send_time=1731252704&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2224.44.0%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_local_strategy_24q4_exp-v3%2Cns_foryou_model_exp_24q4-control%2Cns_foryou_rank_exp_24q4-v1%2Cns_foryou_recall_exp_24q4-control%2Cns_pushv1-v9%2Cns_foryou_blend_exp_24q4-v5) (Newsbreak.com)
-
-- [Continúan acciones de prevención contra Dengue, Zika y Chikungunya en Chiapas: Rutilio Escandón](https://www.jornada.com.mx/2024/11/10/estados/021n4est) (Jornada.com.mx)
-
-- [Dengue in Westbengal: ভয় ধরাচ্ছে রাজ্যের ডেঙ্গু পরিস্থিতি, চলতি মাসে আক্রান্তের পরিসংখ্যান চমকে দিতে বাধ্য](https://bengali.indianexpress.com/west-bengal/dengue-cases-rising-in-west-bengal-govt-says-situation-under-control-7569144) (The Indian Express)
-
 ## 24-46 (chikungunya)
 
 - [Dengue, coronavírus, influenza, chikungunya: de onde vêm os nomes dos vírus e das doenças?](https://gizmodo.uol.com.br/dengue-coronavirus-influenza-chikungunya-de-onde-vem-os-nomes-dos-virus-e-das-doencas/) (Uol.com.br)
 
 - [Chikungunya and vaccines: Combatting mosquito diseases](https://www.digitaljournal.com/tech-science/chikungunya-and-vaccines-combatting-mosquito-diseases/article) (Digital Journal)
-
-- [Continúan acciones de prevención contra Dengue, Zika y Chikungunya en Chiapas: Rutilio Escandón](https://www.jornada.com.mx/2024/11/10/estados/021n4est) (Jornada.com.mx)
