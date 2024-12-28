@@ -1,8 +1,279 @@
 {
-  "last_updated": "2024-12-28 07:06",
-  "count_articles_total": 1434,
-  "count_articles_new": 16,
+  "last_updated": "2024-12-28 19:05",
+  "count_articles_total": 1436,
+  "count_articles_new": 15,
   "articles": [
+    {
+      "id": 16847,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Ctvnews.ca",
+      "author": "Ctv News",
+      "title": "Whooping cough outbreaks in Canada: What health officials say",
+      "description": "Canadian health officials say they're seeing spikes in whooping cough cases in parts of the country as the U.S. deals with case numbers not seen in more than a decade.",
+      "url": "https://www.ctvnews.ca/health/whooping-cough-is-on-the-rise-in-the-states-what-s-happening-in-canada-1.7158480",
+      "urlToImage": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2024/12/27/whooping-cough-outbreak-canada-1-7158486-1735318398402.jpg",
+      "publishedAt": "2024-12-27 17:30:31",
+      "content": "Whooping cough is being reported in higher-than-usual numbers in parts of Canada this year, health officials tell CTVNews.ca. Cases of whooping cough also known as pertussis or the 100-day cough are\u2026 [+4346 chars]",
+      "retrievedAt": "2024-12-28 19:05:24.083531",
+      "internal_id": "43a94660e9f8cccf30e8f0362fe17f98701d8fff7f1993bdd345a8842374fb47",
+      "publishedAtLabel": "Dec 27"
+    },
+    {
+      "id": 16856,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "seattlepi.com",
+      "author": "By LAURA UNGAR, AP Science Writer",
+      "title": "Bird flu virus likely mutated within a Louisiana patient, CDC says",
+      "description": "A genetic analysis suggests the bird flu virus mutated inside a Louisiana patient who contracted the first severe case of the illness in the United States. The U.S. Centers for Disease Control and Prevention reported the finding this week. Scientists believe \u2026",
+      "url": "https://www.seattlepi.com/news/article/bird-flu-virus-likely-mutated-within-a-louisiana-20003146.php",
+      "urlToImage": "https://s.hdnux.com/photos/01/46/40/50/26872337/3/rawImage.jpg",
+      "publishedAt": "2024-12-27 16:27:36",
+      "content": "FILE - This undated electron microscopic image provided by the Centers for Disease Control and Prevention shows two Influenza A (H5N1) virions, a type of bird flu virus. (Cynthia Goldsmith, Jackie Ka\u2026 [+2270 chars]",
+      "retrievedAt": "2024-12-28 19:05:25.291854",
+      "internal_id": "5edc73151613d6e0f6ea8c1a52b6f4dc5e28b8d17d9c53dac2c503ddc4779ffd",
+      "publishedAtLabel": "Dec 27"
+    },
+    {
+      "id": 16855,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "TODAY",
+      "author": "Meghan Holohan",
+      "title": "Cat dies of bird flu after eating contaminated cat food, company issues recall",
+      "description": "Northwest Naturals is recalling a batch of its pet food after a cat died from bird flu, which was found in the cat food. Bird flu can be more severe in cats, experts say.",
+      "url": "https://www.today.com/health/recall/cat-food-bird-flu-recall-rcna185534",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2024-12/recall-cat-food-mc-241227-copy-67ff05.jpg",
+      "publishedAt": "2024-12-27 16:24:04",
+      "content": "Northwest Naturals is recalling one batch of its cat food after a house cat died of bird flu and the raw food it ate was found to be contaminated with the virus H5N1, according to the Oregon Departme\u2026 [+4088 chars]",
+      "retrievedAt": "2024-12-28 19:05:25.274184",
+      "internal_id": "1bc2faa127a86e06b1f0d70846d3b00564f996b78241e8f7dba96cf36c99ca83",
+      "publishedAtLabel": "Dec 27"
+    },
+    {
+      "id": 16849,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Quartz India",
+      "author": "Bruce Gil",
+      "title": "Bird flu mutations in the US's first severe H5N1 case may boost the virus's ability to infect humans",
+      "description": "Genetic analysis of H5N1 bird flu viruses from a severely ill patient in Louisiana revealed multiple mutations that may enhance the virus\u2019s ability to bind to human upper airway cells, the Centers for Disease Control and Prevention (CDC) reported on Thursday.\u2026",
+      "url": "https://qz.com/bird-flu-mutation-cdc-1851729283",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/51bffaf32040740e1ac51db753002cb6.jpg",
+      "publishedAt": "2024-12-27 16:16:00",
+      "content": "Genetic analysis of H5N1 bird flu viruses from a severely ill patient in Louisiana revealed multiple mutations that may enhance the viruss ability to bind to human upper airway cells, the Centers for\u2026 [+1911 chars]",
+      "retrievedAt": "2024-12-28 19:05:25.160695",
+      "internal_id": "7ab8df7c16710db59bb6a158bee6a13b962318837dde4cad7f241cbaa6200abf",
+      "publishedAtLabel": "Dec 27"
+    },
+    {
+      "id": 16853,
+      "query": [
+        "h5n1",
+        "malaria"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "El Pa\u00eds (Uruguay)",
+      "title": "\u00bfQu\u00e9 enfermedad infecciosa ser\u00e1 probablemente el mayor problema emergente en 2025?",
+      "description": "Si bien est\u00e1n las \u201cpandemias silenciosas\u201d como la malaria, el VIH y la tuberculosis, el virus H5N1 est\u00e1 a punto de convertirse en un problema grave el a\u00f1o que viene",
+      "url": "https://www.lanacion.com.ar/lifestyle/que-enfermedad-infecciosa-sera-probablemente-el-mayor-problema-emergente-en-2025-nid27122024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/gripe-LGFUVDVI7NCXTAEBA5SCAIR5GA.jpeg?auth=87c7325f3742c4692e877d94b26a97ed32df71bdbe1941f47a7cc7fd4d8270c6&width=1200&quality=70&smart=false&height=801",
+      "publishedAt": "2024-12-27 16:11:56",
+      "content": "El Covid-19 surgi\u00f3 de repente, se propag\u00f3 r\u00e1pidamente y mat\u00f3 a millones de personas en todo el mundo. Desde entonces, creo que es justo decir que la mayor\u00eda de la gente ha estado nerviosa ante la apa\u2026 [+4677 chars]",
+      "retrievedAt": "2024-12-28 19:05:25.244189",
+      "internal_id": "f9a70ee3cb30a3245692a6becd3ce935cfe8adf36b07982d8c7ca96ae088a276",
+      "publishedAtLabel": "Dec 27"
+    },
+    {
+      "id": 16846,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": "vice-news",
+      "source_name": "Vice News",
+      "author": "Luis Prada",
+      "title": "CDC Reveals Concerning Reason Americans Are Coughing So Much",
+      "description": "If you\u2019ve noticed your friends, family, or coworkers coughing like they were actively attempting to flip themselves inside out, there\u2019s a chance they may have had whooping cough, otherwise known as Pertussis. That\u2019s because as of a CDC report issued on Decemb\u2026",
+      "url": "http://www.vice.com/en/article/cdc-reveals-concerning-reason-americans-are-coughing-so-much/",
+      "urlToImage": "https://www.vice.com/wp-content/uploads/sites/2/2024/12/whooping-cough-cases-highest-in-a-decade.jpg?w=1200",
+      "publishedAt": "2024-12-27 15:52:58",
+      "content": "If youve noticed your friends, family, or coworkers coughing like they were actively attempting to flip themselves inside out, theres a chance they may have had whooping cough, otherwise known as Per\u2026 [+1501 chars]",
+      "retrievedAt": "2024-12-28 19:05:24.058733",
+      "internal_id": "f39ce2da5c888d1f067a18ac33400a476b07ce42c979902eac5d633736ec5740",
+      "publishedAtLabel": "Dec 27"
+    },
+    {
+      "id": 16852,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Joe Edwards",
+      "title": "CDC Issues Update on Bird Flu 'Mutations' in Humans",
+      "description": "The CDC said it has found mutations in the first severe case of bird flu in the U.S.",
+      "url": "https://www.newsweek.com/cdc-update-bird-flu-mutations-humans-2006519",
+      "urlToImage": "https://d.newsweek.com/en/full/2552163/cdc-hq.jpg",
+      "publishedAt": "2024-12-27 15:10:13",
+      "content": "The Centers for Disease Control and Prevention (CDC) has identified mutations in a strain of the avian influenza virus H5N1, also known as bird flu, found in a Louisiana patient. The mutations were \u2026 [+2754 chars]",
+      "retrievedAt": "2024-12-28 19:05:25.204567",
+      "internal_id": "5adf0611b704c599def82e0491e8f340ac22b85a3ee5cc2ca2fbe401b58b3602",
+      "publishedAtLabel": "Dec 27"
+    },
+    {
+      "id": 16848,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "BroBible",
+      "author": "Cass Anderson",
+      "title": "Bird Flu Outbreak Has Already Killed 20 Big Cats At One Sanctuary Including 4 Cougars And A Tiger",
+      "description": "The emerging Highly pathogenic avian influenza (HPAI / bird flu) outbreak across the United States has already claimed the lives of 20 big cats at a sanctuary in Washington state. The Wild Felid Advocacy Center of Washington shared a tragic update days ago wi\u2026",
+      "url": "https://brobible.com/culture/article/bird-flu-claims-lives-20-big-cats-at-washington-sanctuary/",
+      "urlToImage": "https://brobible.com/wp-content/uploads/2024/08/mountain-lion-in-tree.jpg",
+      "publishedAt": "2024-12-27 15:04:04",
+      "content": "iStockphoto / Bransen Jackson The emerging Highly pathogenic avian influenza (HPAI / bird flu) outbreak across the United States has already claimed the lives of 20 big cats at a sanctuary in Washin\u2026 [+2227 chars]",
+      "retrievedAt": "2024-12-28 19:05:24.910656",
+      "internal_id": "c3bf3f3f6439c4f39e30714daefb6b7c6e5b29f5d8a7533d789368f73447dc32",
+      "publishedAtLabel": "Dec 27"
+    },
+    {
+      "id": 16854,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Ahram-canada.com",
+      "author": "\u0623\u0645\u0644 \u0641\u0631\u062c",
+      "title": "\u062a\u0641\u0627\u0635\u064a\u0644 \u062d\u0648\u0644 \u0627\u0646\u062a\u0634\u0627\u0631 \u0623\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u0637\u064a\u0648\u0631 \u0641\u064a \u0643\u0646\u062f\u0627",
+      "description": "\u0627\u0644\u0623\u0647\u0631\u0627\u0645 \u0627\u0644\u0643\u0646\u062f\u064a .. \u062a\u0648\u0631\u0646\u062a\u0648 \u062a\u0631\u0627\u0642\u0628 \u0647\u064a\u0626\u0629 \u0627\u0644\u0635\u062d\u0629 \u0627\u0644\u0639\u0627\u0645\u0629 \u0641\u064a \u0643\u0646\u062f\u0627 \u0628\u0627\u0647\u062a\u0645\u0627\u0645 \u0627\u0646\u062a\u0634\u0627\u0631 \u0641\u064a\u0631\u0648\u0633 \u0623\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u0637\u064a\u0648\u0631 H5N1\u060c \u0625\u0636\u0627\u0641\u0629 \u0625\u0644\u0649 \u062a\u0632\u0627\u064a\u062f \u0625\u0635\u0627\u0628\u0627\u062a \u0627\u0644\u062d\u0635\u0628\u0629 \u0623\u064a\u0636\u0627\u060c \u0648 \u0630\u0644\u0643 \u0628\u062d\u0644\u0648\u0644 \u0627\u0644\u0639\u0627\u0645 \u0627\u0644\u062c\u062f\u064a\u062f 2025. \u0648\u062a\u0632\u0627\u064a\u062f \u0627\u0646\u062a\u0634\u0627\u0631 \u0641\u064a\u0631\u0648\u0633 H5N1\u060c \u0648\u0647\u0648 \u0633\u0644\u0627\u0644\u0629 \u0645\u0646 \u0641\u064a\u0631\u0648\u0633\u0627\u062a \u0623\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u0637\u064a\u0648\u0631\u060c \u0627\u0644\u0634\u062f\u064a\u062f\u0629 \u0627\u0644\u062a\u064a \u062a\u062d\u0645\u0644\u0647\u0627 \u0627\u0644\u0637\u064a\u0648\u0631 \u0627\u2026",
+      "url": "https://www.ahram-canada.com/233001/",
+      "urlToImage": "https://www.ahram-canada.com/wp-content/uploads/2023/04/\u0625\u0646\u0641\u0644\u0648\u0646\u0632\u0627-\u0627\u0644\u0637\u064a\u0648\u0631-\u0645\u0648\u0627\u0642\u0639-660x330.jpg",
+      "publishedAt": "2024-12-27 14:21:55",
+      "content": "11 , , .. H5N1 2025. H5N1 . . : \u201c \u201d. . 65 2024 . 65 . . .. \u2026",
+      "retrievedAt": "2024-12-28 19:05:25.262162",
+      "internal_id": "0c9584e6f9374c511ecc503a75a5d7fb2e0603c30d38dc42b210feb3ffcf12ae",
+      "publishedAtLabel": "Dec 27"
+    },
+    {
+      "id": 16860,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Nplus1.ru",
+      "author": "\u041c\u0438\u0445\u0430\u0438\u043b \u041f\u043e\u0434\u0440\u0435\u0437\u043e\u0432",
+      "title": "\u0412 \u0434\u0440\u0435\u0432\u043d\u0435\u0435\u0433\u0438\u043f\u0435\u0442\u0441\u043a\u043e\u0439 \u043c\u0443\u043c\u0438\u0438 \u043d\u0430\u0448\u043b\u0438 \u0414\u041d\u041a \u0447\u0443\u043c\u043d\u043e\u0439 \u043f\u0430\u043b\u043e\u0447\u043a\u0438",
+      "description": "\u0424\u0440\u0430\u043d\u043a \u041c\u0430\u0439\u043a\u0441\u043d\u0435\u0440 (Frank Maixner) \u0438\u0437 \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u0441\u043a\u043e\u0433\u043e \u0446\u0435\u043d\u0442\u0440\u0430 Eurac Research \u0441\u043e\u0432\u043c\u0435\u0441\u0442\u043d\u043e \u0441 \u043a\u043e\u043b\u043b\u0435\u0433\u0430\u043c\u0438 \u043f\u0440\u043e\u0430\u043d\u0430\u043b\u0438\u0437\u0438\u0440\u043e\u0432\u0430\u043b \u043e\u0431\u0440\u0430\u0437\u0446\u044b, \u0438\u0437\u0432\u043b\u0435\u0447\u0435\u043d\u043d\u044b\u0435 \u0438\u0437 \u0434\u0440\u0435\u0432\u043d\u0435\u0435\u0433\u0438\u043f\u0435\u0442\u0441\u043a\u043e\u0439 \u043c\u0443\u043c\u0438\u0438 \u0432\u0437\u0440\u043e\u0441\u043b\u043e\u0433\u043e \u043c\u0443\u0436\u0447\u0438\u043d\u044b, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u0445\u0440\u0430\u043d\u0438\u0442\u0441\u044f \u0432 \u0415\u0433\u0438\u043f\u0435\u0442\u0441\u043a\u043e\u043c \u043c\u0443\u0437\u0435\u0435 \u0422\u0443\u0440\u0438\u043d\u0430. \u0423\u0447\u0435\u043d\u044b\u0435 \u043e\u0431\u043d\u0430\u0440\u0443\u0436\u0438\u043b\u0438 \u0432 \u0442\u043a\u0430\u043d\u044f\u0445 \u044d\u0442\u043e\u0433\u043e \u0447\u0435\u043b\u2026",
+      "url": "https://nplus1.ru/news/2024/12/27/yersinia-pestis-in-egyptian-mummy",
+      "urlToImage": "https://minio.nplus1.ru/app-images/984190/676e64d52a7d4_cover_share.jpeg",
+      "publishedAt": "2024-12-27 12:41:00",
+      "content": "(Frank Maixner) Eurac Research , , . (Yersinia pestis), , 16861449 , . , , . , . , , . , - , , . , , , . , , , .",
+      "retrievedAt": "2024-12-28 19:05:27.425697",
+      "internal_id": "e8cf25bb14d73abe742685cbb0fbf9b093c39dca3529d990970f1a81a6dadf03",
+      "publishedAtLabel": "Dec 27"
+    },
+    {
+      "id": 16859,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "Dengue cases rise to 1,407 in ME51, two fatalities reported, says Health DG",
+      "description": "PUTRAJAYA: The number of dengue cases nationwide rose to 1,407 in Epidemiological Week 51 (ME51) from Dec 15 to Dec 21, up from 1,384 reported the previous week. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2024/12/27/dengue-cases-rise-to-1407-in-me51-two-fatalities-reported-says-health-dg",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/12/27/3089484.jpg",
+      "publishedAt": "2024-12-27 12:07:00",
+      "content": "PUTRAJAYA: The number of dengue cases nationwide rose to 1,407 in Epidemiological Week 51 (ME51) from Dec 15 to Dec 21, up from 1,384 reported the previous week. In a statement on Friday (Dec 27), H\u2026 [+950 chars]",
+      "retrievedAt": "2024-12-28 19:05:25.484805",
+      "internal_id": "6fe97047377844b0e9d342a100ed0f61db80312184bcf3e5973f9a87e7205b42",
+      "publishedAtLabel": "Dec 27"
+    },
+    {
+      "id": 16851,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Berliner Morgenpost",
+      "author": "FUNKE Mediengruppe",
+      "title": "Erster schwerer Fall: Vogelgrippe H5N1 zeigt neue Mutationen",
+      "description": "Die CDC hat bei einem schweren Fall von Vogelgrippe in den USA Mutationen des Virus entdeckt. Sie k\u00f6nnte eine Schl\u00fcsselrolle spielen.",
+      "url": "https://www.morgenpost.de/panorama/article407971116/vogelgrippe-h5n1-zeigt-neue-mutationen-erster-schwerer-fall.html",
+      "urlToImage": "https://img.sparknews.funkemedien.de/407971121/407971121_1735293497_v16_9_1600.jpeg",
+      "publishedAt": "2024-12-27 09:58:17",
+      "content": "Berlin. Die CDC hat bei einem schweren Fall von Vogelgrippe in den USA Mutationen des Virus entdeckt. Sie k\u00f6nnte eine Schl\u00fcsselrolle spielen. Nachdem in den USA der erste schwere Fall der Vogelgripp\u2026 [+1361 chars]",
+      "retrievedAt": "2024-12-28 19:05:25.186182",
+      "internal_id": "7149ec4143bef9c48355891225b4e6d4d069acacf78ae18277225e87056dd765",
+      "publishedAtLabel": "Dec 27"
+    },
+    {
+      "id": 16858,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Research and Markets",
+      "title": "Dengue Fever Global Clinical Trials Review 2024: Clinical Trials by Region, Country, Trial Status, Trial Phase, Sponsor Type and End Point Status",
+      "description": "Dublin, Dec. 27, 2024 (GLOBE NEWSWIRE) -- The \"Dengue Fever - Global Clinical Trials Review, 2024\" has been added to ResearchAndMarkets.com's offering.The clinical trial report provides an overview of the Dengue Fever Clinical trials scenario. This report pro\u2026",
+      "url": "https://www.globenewswire.com/news-release/2024/12/27/3002170/28124/en/Dengue-Fever-Global-Clinical-Trials-Review-2024-Clinical-Trials-by-Region-Country-Trial-Status-Trial-Phase-Sponsor-Type-and-End-Point-Status.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "publishedAt": "2024-12-27 09:32:00",
+      "content": "Dublin, Dec. 27, 2024 (GLOBE NEWSWIRE) -- The \"Dengue Fever - Global Clinical Trials Review, 2024\" has been added to ResearchAndMarkets.com's offering. The clinical trial report provides an overview\u2026 [+4373 chars]",
+      "retrievedAt": "2024-12-28 19:05:25.460703",
+      "internal_id": "00f5dad1b0381128832feb358fc944680e1e620bb5bde97674ecc4294956dddc",
+      "publishedAtLabel": "Dec 27"
+    },
+    {
+      "id": 16857,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "title": "Jalisco, primer lugar nacional en dengue con 20 mil 313 casos",
+      "description": "Guadalajara, Jal., Jalisco, con 20 mil 313 enfermos confirmados de dengue durante 2024, repiti\u00f3 por tercera ocasi\u00f3n en seis a\u00f1os en el primer lugar nacional de contagiados, imponiendo un r\u00e9cord preliminar de 56 personas fallecidas por la dolencia, pues falta \u2026",
+      "url": "https://www.jornada.com.mx/2024/12/27/estados/022n1est",
+      "urlToImage": "https://www.jornada.com.mx/2024/12/27/fotos/022n1est-1.jpg",
+      "publishedAt": "2024-12-27 08:56:56",
+      "content": "Peri\u00f3dico La JornadaViernes 27 de diciembre de 2024, p. 22 Guadalajara, Jal., Jalisco, con 20 mil 313 enfermos confirmados de dengue durante 2024, repiti\u00f3 por tercera ocasi\u00f3n en seis a\u00f1os en el prim\u2026 [+2826 chars]",
+      "retrievedAt": "2024-12-28 19:05:25.453828",
+      "internal_id": "65a767a8ee5965a7d7c78b50693441c4ab2c3b65b749edd6cb43d0eb640c5bd1",
+      "publishedAtLabel": "Dec 27"
+    },
+    {
+      "id": 16850,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Life.ru",
+      "author": "\u041c\u0430\u0440\u0438\u043d\u0430 \u0424\u0435\u0449\u0435\u043d\u043a\u043e",
+      "title": "\u0422\u044f\u0436\u0451\u043b\u0430\u044f \u043c\u0443\u0442\u0430\u0446\u0438\u044f \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430 \u043e\u0431\u043d\u0430\u0440\u0443\u0436\u0435\u043d\u0430 \u0443 \u043f\u0430\u0446\u0438\u0435\u043d\u0442\u0430 \u0432 \u0421\u0428\u0410",
+      "description": "\u0412\u0438\u0440\u0443\u0441 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430 \u043f\u0440\u0435\u0442\u0435\u0440\u043f\u0435\u043b \u043c\u0443\u0442\u0430\u0446\u0438\u044e \u0432 \u0421\u0428\u0410 \u0443 \u043f\u0430\u0446\u0438\u0435\u043d\u0442\u0430 \u0438\u0437 \u041b\u0443\u0438\u0437\u0438\u0430\u043d\u044b. \u041f\u043e \u0434\u0430\u043d\u043d\u044b\u043c Reuters, \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0430\u043d\u0438\u0435 \u043f\u0440\u043e\u0442\u0435\u043a\u0430\u043b\u043e \u0432 \u0442\u044f\u0436\u0435\u043b\u043e\u0439 \u0444\u043e\u0440\u043c\u0435.",
+      "url": "https://life.ru/p/1715528",
+      "urlToImage": "https://static.life.ru/publications/2024/12/27/1732828464440.3564.webp",
+      "publishedAt": "2024-12-27 07:50:45",
+      "content": ". Reuters, . , . , . , , \u00ab \u00bb H5N1 . , . , , . , , , 56%. . A(H5N2).",
+      "retrievedAt": "2024-12-28 19:05:25.173668",
+      "internal_id": "8f7e726d9756166a8ee0c007c2790ef90068c1500e0859ef325a22244f7deb8f",
+      "publishedAtLabel": "Dec 27"
+    },
     {
       "id": 16833,
       "query": [
@@ -25627,242 +25898,6 @@
       "content": "WHATCOM COUNTY, Wash. The Washington State Department of Health reported on November 7th that, as of November 2nd, 1,193 cases of pertussis, commonly known as whooping cough, had been reported across\u2026 [+1883 chars]",
       "retrievedAt": "2024-11-12 07:06:21.407044",
       "internal_id": "7e91ca12dc04b7a0ba4fc77d6784176a566754e78f74879959d8a5b6c7f2db13",
-      "publishedAtLabel": "Nov 10"
-    },
-    {
-      "id": 15416,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "DIE WELT",
-      "author": "WELT",
-      "title": "Das steckt hinter der Dunkelziffer der Infektionsf\u00e4lle",
-      "description": "Weltweit grassiert das H5N1-Virus. V\u00f6gel, K\u00fche, Schweine stecken sich an, aber auch Menschen. In US-amerikanischen Milchvieh-Betrieben, die als ein Hotspot gelten, wurden nun Mitarbeiter getestet. Dabei zeigte sich: Zahlreiche Erkrankungen bleiben unentdeckt \u2026",
-      "url": "https://www.welt.de/wissenschaft/article254453336/Vogelgrippe-bei-Menschen-Das-steckt-hinter-der-Dunkelziffer-der-Infektionsfaelle.html",
-      "urlToImage": "https://img.welt.de/img/wissenschaft/mobile254453334/2637933997-ci16x9-w1200/Bird-Flu-Virus.jpg",
-      "publishedAt": "2024-11-10 15:52:08",
-      "content": "Weltweit grassiert das H5N1-Virus. V\u00f6gel, K\u00fche, Schweine stecken sich an, aber auch Menschen. In US-amerikanischen Milchvieh-Betrieben, die als ein Hotspot gelten, wurden nun Mitarbeiter getestet. Da\u2026 [+2404 chars]",
-      "retrievedAt": "2024-11-11 19:05:29.950458",
-      "internal_id": "12080f5267567775babd661bb32bb9cf771f6ee73f73872806d3e53978ad302e",
-      "publishedAtLabel": "Nov 10"
-    },
-    {
-      "id": 15420,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Newsbreak.com",
-      "author": "Yahoo!",
-      "title": "Health officials sound alarm after disease spreads in Florida following devastating hurricanes: 'Their pain is remarkable'",
-      "description": "Floridians are still feeling the ripple effects of extreme rainfall from Hurricanes Milton and Helene. In a concerning development, Fox Weather reported that the Tampa area is now contending with the spread of the mosquito-borne illness dengue fever. What's h\u2026",
-      "url": "https://www.newsbreak.com/share/3668986070323-health-officials-sound-alarm-after-disease-spreads-in-florida-following-devastating-hurricanes-their-pain-is-remarkable?s=a2&amp;share_destination_id=OTc5NjE4ODYtMTczMTI1MjcwNDc4NA%3D%3D&amp;pd=06d2MQ1a&amp;hl=en_US&amp;send_time=1731252704&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2224.44.0%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_local_strategy_24q4_exp-v3%2Cns_foryou_model_exp_24q4-control%2Cns_foryou_rank_exp_24q4-v1%2Cns_foryou_recall_exp_24q4-control%2Cns_pushv1-v9%2Cns_foryou_blend_exp_24q4-v5",
-      "urlToImage": "https://img.particlenews.com/img/id/1S0MEt_0wgxijW700?type=thumbnail_1600x1200",
-      "publishedAt": "2024-11-10 15:32:15",
-      "content": "Its essential to note our commitment to transparency: Our Terms of Use acknowledge that our services may not always be error-free, and our Community Standards emphasize our discretion in enforcing \u2026 [+246 chars]",
-      "retrievedAt": "2024-11-11 19:05:30.362383",
-      "internal_id": "4854464ecb739ac3f1bccaf18ab0b627e22a55921a27e8347cec5fe716b34fc7",
-      "publishedAtLabel": "Nov 10"
-    },
-    {
-      "id": 15414,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Forbes",
-      "author": "Victoria Forster, Contributor, \n Victoria Forster, Contributor\n https://www.forbes.com/sites/victoriaforster/",
-      "title": "Canada Reports First Human Case Of H5N1 Bird Flu",
-      "description": "A teenager in British Columbia, Canada has been hospitalized with a presumed case of H5N1 bird flu, the first detected human case in the country in the current outbreak.",
-      "url": "https://www.forbes.com/sites/victoriaforster/2024/11/10/canada-reports-first-human-case-of-h5n1-bird-flu/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6730c3f0682d22411f9eda93/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2024-11-10 14:43:29",
-      "content": "A Canadian teenager has been hospitalized with bird flu, the first human case of H5N1 in the current ... [+] outbreak detected in the country. getty A teenager in British Columbia, Canada has been \u2026 [+2690 chars]",
-      "retrievedAt": "2024-11-11 19:05:29.900367",
-      "internal_id": "5784063b05bd6ffa2574153f7d91e74895ea0b46fca15117ef73043586782089",
-      "publishedAtLabel": "Nov 10"
-    },
-    {
-      "id": 15412,
-      "query": [
-        "pertussis"
-      ],
-      "source_id": null,
-      "source_name": "National Institutes of Health",
-      "author": null,
-      "title": "Diphtheria-tetanus-pertussis immunization and sudden infant death: results of the National Institute of Child Health and Human Development Cooperative Epidemiological Study of Sudden Infant Death Syndrome risk factors",
-      "description": "The possible association between diphtheria-pertussis-tetanus (DTP) immunization and the subsequent occurrence of sudden infant death has been examined using data from the National Institute of Child Health and Human Development (NICHD) Sudden Infant Death Sy\u2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/3493477/",
-      "urlToImage": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg",
-      "publishedAt": "2024-11-10 12:29:32",
-      "content": "The possible association between diphtheria-pertussis-tetanus (DTP) immunization and the subsequent occurrence of sudden infant death has been examined using data from the National Institute of Child\u2026 [+1613 chars]",
-      "retrievedAt": "2024-11-11 19:05:28.821764",
-      "internal_id": "6c74d4cedaf64c99b074cc0ce810af2f99f59160b59d083290122b862efbb964",
-      "publishedAtLabel": "Nov 10"
-    },
-    {
-      "id": 15417,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "die-zeit",
-      "source_name": "Die Zeit",
-      "author": "ZEIT ONLINE: Gesundheit - Wenke Husmann",
-      "title": "Vogelgrippe: Vogelgrippe-F\u00e4lle bei Menschen bleiben oft unentdeckt",
-      "description": "Derzeit grassiert die gr\u00f6\u00dfte je dokumentierte Vogelgrippewelle. Auch viele K\u00fche sind betroffen, und offenbar auch Mitarbeiter von Milchvieh-Betrieben \u2013 ohne es zu sp\u00fcren.",
-      "url": "https://www.zeit.de/gesundheit/2024-11/vogelgrippe-menschen-unentdeckt-usa",
-      "urlToImage": "https://img.zeit.de/gesundheit/2024-11/vogelgrippe-menschen-unentdeckt-usa-bild/wide__1300x731",
-      "publishedAt": "2024-11-10 12:10:30",
-      "content": "Zahlreiche Infektionen von Menschen mit dem Vogelgrippe-Virus H5N1 in Milchvieh-Betrieben in den USA werden offenbar nicht entdeckt. Beim Testen von Mitarbeitenden in Betrieben, in denen das Virus un\u2026 [+3038 chars]",
-      "retrievedAt": "2024-11-11 19:05:29.956996",
-      "internal_id": "9cdf1dbcec166ebc18ac14171ad34462bc52a751560997a66fe2351c09724fa2",
-      "publishedAtLabel": "Nov 10"
-    },
-    {
-      "id": 15423,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "The Punch",
-      "author": "Lara Adejoro",
-      "title": "WHO, Africa CDC strengthen Mpox vaccination in Nigeria, 16 other countries",
-      "description": "The World Health Organisation and the Africa Centres for Disease Control and Prevention have committed to guiding the development of targeted mpox vaccine preparedness and deployment plans to ensure the efficient use of available doses. This decision was reac\u2026",
-      "url": "https://punchng.com/who-africa-cdc-strengthen-mpox-vaccination-in-nigeria-16-other-countries/",
-      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2023/05/13101855/logo-who.tmb-1200v.jpg",
-      "publishedAt": "2024-11-10 11:23:54",
-      "content": "The World Health Organisation and the Africa Centres for Disease Control and Prevention have committed to guiding the development of targeted mpox vaccine preparedness and deployment plans to ensure \u2026 [+3980 chars]",
-      "retrievedAt": "2024-11-11 19:05:31.656413",
-      "internal_id": "a3a7346c7ca81a0863a1c88d3577075b4fb8a21f6d12b68212a51a14249c1835",
-      "publishedAtLabel": "Nov 10"
-    },
-    {
-      "id": 15418,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "der-tagesspiegel",
-      "source_name": "Der Tagesspiegel",
-      "author": "Der Tagesspiegel",
-      "title": "Vogelgrippe in den USA: F\u00e4lle bei Menschen bleiben oft unentdeckt",
-      "description": "Derzeit grassiert die gr\u00f6\u00dfte je dokumentierte Vogelgrippewelle. In den USA sind auch viele K\u00fche betroffen. Nun zeigen Tests: Viele Mitarbeiter von Milchvieh-Betrieben sind infiziert, ohne es zu wissen.",
-      "url": "https://www.tagesspiegel.de/wissen/vogelgrippe-in-den-usa-falle-bei-menschen-bleiben-oft-unentdeckt-12679604.html",
-      "urlToImage": "https://www.tagesspiegel.de/images/12679628/alternates/BASE_16_9_W1400/1731235904000/vogelgrippe-in-den-usa.jpeg",
-      "publishedAt": "2024-11-10 10:58:24",
-      "content": "Zahlreiche Infektionen von Menschen mit dem Vogelgrippe-Virus H5N1 in Milchvieh-Betrieben in den USA werden offenbar nicht entdeckt. Beim Testen von Mitarbeitern in Betrieben, in denen das Virus bei \u2026 [+3594 chars]",
-      "retrievedAt": "2024-11-11 19:05:29.968806",
-      "internal_id": "6e0eaf61df4edb61532aa164c28620251907950f180d812ee2cf23de08783753",
-      "publishedAtLabel": "Nov 10"
-    },
-    {
-      "id": 15415,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Livemint",
-      "author": "mint",
-      "title": "Bird flu among pigs should worry humans too",
-      "description": "While virus outbreaks have waxed and waned, in 2022 something strange started happening with vastly more birds and mammals getting infected and even dying globally. Scientists need to conduct more research to understand this virus. After covid, we know the ri\u2026",
-      "url": "https://www.livemint.com/opinion/online-views/bird-flu-pigs-virus-outbreak-h5n1-virus-mammals-pandemic-chickens-11731230798297.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2024/11/10/1600x900/2-0-106799100-MK-AM098A-OLYMPIGS-3C-0_1681495746567_1731232236185.jpg",
-      "publishedAt": "2024-11-10 10:00:17",
-      "content": "When the US Department of Agriculture announced that the H5N1 bird flu had turned up in a pig, I dropped what I was doing to read it. The situation didnt quite match the nightmare scenario some exper\u2026 [+4564 chars]",
-      "retrievedAt": "2024-11-11 19:05:29.938607",
-      "internal_id": "acc89cf73f815fabb449b14b6ad1b8ad6671a600a0dc50a70d42d9b687a4315a",
-      "publishedAtLabel": "Nov 10"
-    },
-    {
-      "id": 15422,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Faz.net",
-      "author": "AFP",
-      "title": "UN: 1,4 Millionen Menschen von \u00dcberschwemmungen im S\u00fcdsudan betroffen",
-      "description": "Fast 400.000 Menschen wurden nach UN-Angaben durch das Hochwasser im S\u00fcdsudan vertrieben. Die Malaria-F\u00e4lle steigen \u2013 und \u00fcberfordern das Gesundheitssystem. Die humanit\u00e4re Lage im Land ist ohnehin dramatisch.",
-      "url": "https://www.faz.net/aktuell/gesellschaft/ungluecke/suedsudan-1-4-millionen-menschen-von-ueberschwemmungen-betroffen-110101826.html",
-      "urlToImage": "https://media0.faz.net/ppmedia/aktuell/992566442/1.10101830/facebook_teaser/die-weltbank-hatte-am-1.jpg",
-      "publishedAt": "2024-11-10 09:47:21",
-      "content": "Inzwischen seien die Menschen in 43 Bezirken sowie in der zwischen S\u00fcdsudan und Sudan umstrittenen Region Abyei von dem Hochwasser betroffen, erkl\u00e4rte das UN-B\u00fcro f\u00fcr humanit\u00e4re Angelegenheiten. In 2\u2026 [+1536 chars]",
-      "retrievedAt": "2024-11-11 19:05:31.098656",
-      "internal_id": "6d13cf1781648a0b6b7fb64bc408e001e26c27d42c3395bdbfb0cf25ad6a162e",
-      "publishedAtLabel": "Nov 10"
-    },
-    {
-      "id": 15419,
-      "query": [
-        "dengue",
-        "zika",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Jornada.com.mx",
-      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "title": "Contin\u00faan acciones de prevenci\u00f3n contra Dengue, Zika y Chikungunya en Chiapas: Rutilio Escand\u00f3n",
-      "description": "En el contexto de la Mesa de Coordinaci\u00f3n Estatal para la Construcci\u00f3n de la Paz y la Segu-ridad, el gobernador de Chiapas, Rutilio Escan-d\u00f3n Cadenas, destac\u00f3 que las autoridades fede-rales, estatales y municipales contin\u00faan con las acciones prioritarias de l\u2026",
-      "url": "https://www.jornada.com.mx/2024/11/10/estados/021n4est",
-      "urlToImage": "https://www.jornada.com.mx/2024/11/10/fotos/021n4est-1.jpg",
-      "publishedAt": "2024-11-10 09:36:53",
-      "content": "Peri\u00f3dico La JornadaDomingo 10 de noviembre de 2024, p. 21 En el contexto de la Mesa de Coordinaci\u00f3n Estatal para la Construcci\u00f3n de la Paz y la Segu-ridad, el gobernador de Chiapas, Rutilio Escan-d\u2026 [+620 chars]",
-      "retrievedAt": "2024-11-11 19:05:30.339812",
-      "internal_id": "ac38807124be84f45c30f3ceb8cafd79bae6421f87907f275b8da782dc71413a",
-      "publishedAtLabel": "Nov 10"
-    },
-    {
-      "id": 15421,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Indian Express",
-      "author": "IE Bangla Web Desk",
-      "title": "Dengue in Westbengal: \u09ad\u09df \u09a7\u09b0\u09be\u099a\u09cd\u099b\u09c7 \u09b0\u09be\u099c\u09cd\u09af\u09c7\u09b0 \u09a1\u09c7\u0999\u09cd\u0997\u09c1 \u09aa\u09b0\u09bf\u09b8\u09cd\u09a5\u09bf\u09a4\u09bf, \u099a\u09b2\u09a4\u09bf \u09ae\u09be\u09b8\u09c7 \u0986\u0995\u09cd\u09b0\u09be\u09a8\u09cd\u09a4\u09c7\u09b0 \u09aa\u09b0\u09bf\u09b8\u0982\u0996\u09cd\u09af\u09be\u09a8 \u099a\u09ae\u0995\u09c7 \u09a6\u09bf\u09a4\u09c7 \u09ac\u09be\u09a7\u09cd\u09af",
-      "description": "Dengue in Westbengal: \u098f\u0996\u09a8\u0993 \u09b6\u09c0\u09a4 \u09b8\u09c7\u09ad\u09be\u09ac\u09c7 \u09b0\u09be\u099c\u09cd\u09af\u09c7 \u09aa\u09cd\u09b0\u09ac\u09c7\u09b6 \u0995\u09b0\u09c7\u09a8\u09bf\u0964 \u098f\u09a6\u09bf\u0995\u09c7 \u09a6\u09bf\u09a8\u09c7 \u09a6\u09bf\u09a8\u09c7 \u09b0\u09be\u099c\u09cd\u09af\u09c7 \u09ac\u09c7\u09dc\u09c7\u0987 \u099a\u09b2\u09c7\u099b\u09c7 \u09a1\u09c7\u0999\u09cd\u0997\u09c1 \u0986\u0995\u09cd\u09b0\u09be\u09a8\u09cd\u09a4\u09c7\u09b0 \u09b8\u0982\u0996\u09cd\u09af\u09be\u0964 \u09b8\u09cd\u09ac\u09be\u09b8\u09cd\u09a5\u09cd\u09af \u09a6\u09ab\u09a4\u09b0\u09c7\u09b0 \u09aa\u09b0\u09bf\u09b8\u0982\u0996\u09cd\u09af\u09be\u09a8 \u0995\u09bf\u09a8\u09cd\u09a4\u09c1 \u099a\u09ae\u0995\u09c7 \u09a6\u09c7\u0993\u09df\u09be\u09b0 \u09ae\u09a4\u0987\u0964 \u09b8\u09cd\u09ac\u09be\u09b8\u09cd\u09a5\u09cd\u09af \u09a6\u09ab\u09a4\u09b0 \u09b8\u09c2\u09a4\u09cd\u09b0\u09c7 \u099c\u09be\u09a8\u09be \u0997\u09bf\u09df\u09c7\u099b\u09c7 \u09ea\u09a0\u09be \u09a8\u09ad\u09c7\u09ae\u09cd\u09ac\u09b0 \u09aa\u09b0\u09cd\u09af\u09a8\u09cd\u09a4 \u09b0\u09be\u099c\u09cd\u09af\u09c7 \u09ae\u09cb\u099f \u09a1\u09c7\u0999\u09cd\u0997\u09c1 \u0986\u0995\u09cd\u09b0\u09be\u09a8\u09cd\u09a4\u09c7\u09b0 \u09b8\u0982\u0996\u09cd\u2026",
-      "url": "https://bengali.indianexpress.com/west-bengal/dengue-cases-rising-in-west-bengal-govt-says-situation-under-control-7569144",
-      "urlToImage": "https://img-cdn.thepublive.com/fit-in/1200x675/indian-express-bangla/media/media_files/2024/11/10/NQB51nJjKXMCwmT24VId.jpg",
-      "publishedAt": "2024-11-10 09:13:46",
-      "content": "Dengue in Westbengal: , , , ! , , ,, - , , ' '?",
-      "retrievedAt": "2024-11-11 19:05:30.369074",
-      "internal_id": "53986fd0600c7f132e024791825ba9669ea53b47b2c7f07d0cc6baa99d9bc6d9",
-      "publishedAtLabel": "Nov 10"
-    },
-    {
-      "id": 15413,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Acecomments.mu.nu",
-      "author": "Pixy Misa",
-      "title": "Daily Tech News 10 November 2024",
-      "description": "Top Story Beata Halassy had breast cancer - for the third time, despite chemotherapy and a mastectomy. She had cancer. She gave it measles and it died. (Nature) Beata is a virologist so she prepared her own virus culture -...",
-      "url": "https://acecomments.mu.nu/?post=412315",
-      "urlToImage": null,
-      "publishedAt": "2024-11-10 09:00:00",
-      "content": "Disclaimer: You thought he was buying a social network in terminal decline. He bought a solar system.",
-      "retrievedAt": "2024-11-11 19:05:29.475144",
-      "internal_id": "bae36c58b7c159bf44713745c260ef138a70d806f492de198b851d2545e749c5",
-      "publishedAtLabel": "Nov 10"
-    },
-    {
-      "id": 15424,
-      "query": [
-        "leptospirosis"
-      ],
-      "source_id": null,
-      "source_name": "Elespanol.com",
-      "author": "P. Fava",
-      "title": "Llega un nuevo temporal de lluvia y fr\u00edo a Espa\u00f1a: Aemet avisa por DANA, nevadas y 100 l/m esta semana en estas zonas",
-      "description": "Los vientos fr\u00edos del norte har\u00e1n su entrada coincidiendo con el comienzo de la semana, y se espera el comienzo del temporal para el martes. M\u00e1s informaci\u00f3n: As\u00ed es la leptospirosis: la infecci\u00f3n que amenaza a los afectados de la DANA tras el estancamiento de\u2026",
-      "url": "https://www.elespanol.com/ciencia/meteorologia/20241110/llega-nuevo-temporal-lluvia-frio-espana-aemet-avisa-dana-nevadas-lm-semana-zonas/899660612_0.html",
-      "urlToImage": "https://s1.elespanol.com/2024/11/10/ciencia/meteorologia/900170005_250752543_1706x960.png",
-      "publishedAt": "2024-11-10 08:51:48",
-      "content": "La relativa estabilidad atmosf\u00e9rica de los \u00faltimos d\u00edas, sumada a temperaturas que han llegado a ser ligeramente superiores a las habituales para la \u00e9poca del a\u00f1o, tiene las horas contadas. Rub\u00e9n del\u2026 [+3391 chars]",
-      "retrievedAt": "2024-11-11 19:05:31.930287",
-      "internal_id": "de73704a34e08961747be2d344cf11311868d0c70ba0e3c83901cb055c20b1e1",
       "publishedAtLabel": "Nov 10"
     }
   ]
