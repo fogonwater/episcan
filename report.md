@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 29
-- **Last harvest:** 2024-12-29 07:05
-- **Most recent article:** 2024-12-28 07:00:00
+- **New articles in last harvest:** 23
+- **Last harvest:** 2024-12-29 19:05
+- **Most recent article:** 2024-12-28 14:45:28
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-47 | 24-48 | 24-49 | 24-50 | 24-51 | 24-52 | Total |
 |--|-|-|-|-|-|-|-|
-| h5n1 | 48 | 38 | 70 | 61 | 112 | 54 | 383 |
-| mpox | 66 | 26 | 20 | 26 | 92 | 35 | 265 |
-| malaria | 26 | 29 | 27 | 76 | 60 | 19 | 237 |
-| dengue | 27 | 25 | 10 | 33 | 30 | 20 | 145 |
-| measles | 10 | 6 | 9 | 10 | 6 | 11 | 52 |
-| rabies | 7 | 12 | 13 | 3 | 7 | 7 | 49 |
-| chikungunya | 5 | 4 | 6 | 7 | 8 | 0 | 30 |
-| hpai | 4 | 0 | 2 | 4 | 6 | 11 | 27 |
+| h5n1 | 48 | 38 | 70 | 61 | 112 | 62 | 391 |
+| mpox | 59 | 26 | 20 | 26 | 92 | 35 | 258 |
+| malaria | 26 | 29 | 27 | 76 | 60 | 29 | 247 |
+| dengue | 21 | 25 | 10 | 33 | 30 | 22 | 141 |
+| measles | 8 | 6 | 9 | 10 | 6 | 11 | 50 |
+| rabies | 6 | 12 | 13 | 3 | 7 | 8 | 49 |
+| chikungunya | 4 | 4 | 6 | 7 | 8 | 0 | 29 |
+| hpai | 3 | 0 | 2 | 4 | 6 | 12 | 27 |
 | meningitis | 5 | 3 | 3 | 7 | 5 | 3 | 26 |
-| pertussis | 4 | 1 | 4 | 6 | 4 | 5 | 24 |
+| pertussis | 3 | 1 | 4 | 6 | 4 | 6 | 24 |
 | zika | 3 | 1 | 4 | 4 | 4 | 2 | 18 |
 | yersinia | 1 | 1 | 0 | 0 | 0 | 6 | 8 |
 | leptospirosis | 0 | 2 | 0 | 3 | 0 | 2 | 7 |
@@ -55,6 +55,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-52 (rabies)
 
+- [1 person dead after rabies exposure, health officials say](https://www.whio.com/news/local/1-person-dead-after-rabies-exposure-health-officials-say/72VZZHU33ZHZ7K5BO3MN32WSPM/) (WHIO)
+
 - [Kentucky Department of Public Health confirms first rabies case since 1996, one person dead](https://www.wpsdlocal6.com/health/kentucky-department-of-public-health-confirms-first-rabies-case-since-1996-one-person-dead/article_98415c02-c4c1-11ef-9378-470a6195e5e5.html) (WPSD Local 6)
 
 - [Rare case of human rabies kills NKY resident](https://www.fox19.com/2024/12/28/rare-case-human-rabies-kills-nky-resident/) (FOX19)
@@ -70,6 +72,8 @@ Source: [News API](https://newsapi.org/)
 - [Maria Gunther: Lyckliga i alla sina dagar – men mår prinsessorna verkligen bra?](https://www.dn.se/varlden/maria-gunther-lyckliga-i-alla-sina-dagar-men-mar-prinsessorna-verkligen-bra/) (Www.dn.se)
 
 ## 24-52 (pertussis)
+
+- [В США зафиксировали резкий рост коклюша — самый высокий за десятилетие](https://www.ferra.ru/news/health/v-ssha-zafiksirovali-rezkii-rost-koklyusha-samyi-vysokii-za-desyatiletie-27-12-2024.htm) (Ferra.ru)
 
 - [Whooping cough outbreaks in Canada: What health officials say](https://www.ctvnews.ca/health/whooping-cough-is-on-the-rise-in-the-states-what-s-happening-in-canada-1.7158480) (Ctvnews.ca)
 
@@ -187,6 +191,26 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-52 (malaria)
 
+- [Bekannte Erreger: WHO: Wohl doch keine mysteriöse „Krankheit X“ im Kongo](https://www.sueddeutsche.de/gesundheit/krankheit-x-kongo-who-li.3173769) (Süddeutsche Zeitung)
+
+- [Bekannte Erreger: WHO: Doch wohl keine mysteriöse „Krankheit X“ im Kongo](https://www.sueddeutsche.de/wissen/krankheit-x-kongo-who-li.3173769) (Süddeutsche Zeitung)
+
+- [La enfermedad desconocida del Congo es en realidad una mezcla de virus respiratorios agravados por la malaria y la desnutrición](https://www.lavozdegalicia.es/noticia/sociedad/2024/12/28/enfermedad-desconocida-congo-realidad-mezcla-virus-respiratorios-agravados-malaria-desnutricion/00031735384240837687988.htm) (Lavozdegalicia.es)
+
+- [WHO bestätigt: Ursache für rätselhafte Todesfälle im Kongo gefunden](https://www.diepresse.com/19210623/who-bestaetigt-ursache-fuer-raetselhafte-todesfaelle-im-kongo-gefunden) (Diepresse.com)
+
+- [Mysterieuze ziekte in Congo waarschijnlijk mix van malaria en luchtwegaandoeningen, zegt WHO](https://www.gva.be/cnt/dmf20241228_93741166) (Www.gva.be)
+
+- [Mysterieuze ziekte in Congo waarschijnlijk mix van malaria en luchtwegaandoeningen, zegt WHO](https://www.hbvl.be/cnt/dmf20241228_93634861) (Hbvl.be)
+
+- [Mysterieuze ziekte in Congo waarschijnlijk mix van malaria en luchtwegaandoeningen, zegt WHO](https://www.nieuwsblad.be/cnt/dmf20241228_93585706) (Nieuwsblad.be)
+
+- [Ursachen für „Krankheit X“ gefunden](https://orf.at/stories/3380157/) (Orf.at)
+
+- [Lauter bekannte Erreger: WHO: Doch wohl keine mysteriöse „Krankheit X“ im Kongo](https://www.tagesspiegel.de/wissen/lauter-bekannte-erreger-who-doch-wohl-keine-mysteriose-krankheit-x-im-kongo-12936019.html) (Der Tagesspiegel)
+
+- [Lauter bekannte Erreger: WHO: Doch wohl keine mysteriöse "Krankheit X" im Kongo](https://www.stern.de/panorama/wissen/lauter-bekannte-erreger--who--doch-wohl-keine-mysterioese--krankheit-x--im-kongo-35341308.html) (STERN.de)
+
 - [La enfermedad «X» del Congo era un cóctel letal: malaria, gripe y pobreza](https://www.abc.es/sociedad/enfermedad-congo-era-coctel-letal-malaria-gripe-20241227205618-nt.html) (Www.abc.es)
 
 - [Acute respiratory infections complicated by malaria (previously undiagnosed disease) - Democratic Republic of the Congo (World Health Organization)](https://www.memeorandum.com/241227/p52) (Memeorandum.com)
@@ -233,6 +257,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-52 (hpai)
 
+- [First Severe Human Infection Of Bird Flu Virus In The US Shows Signs Of Mutation](https://www.iflscience.com/first-severe-human-infection-of-bird-flu-virus-in-the-us-shows-signs-of-mutation-77410) (IFLScience)
+
 - [Bird Flu Outbreak Has Already Killed 20 Big Cats At One Sanctuary Including 4 Cougars And A Tiger](https://brobible.com/culture/article/bird-flu-claims-lives-20-big-cats-at-washington-sanctuary/) (BroBible)
 
 - [Amazon må udskyde plan om at få de ansatte tilbage på kontoret: Har ikke plads til dem](https://www.computerworld.dk/art/289895/amazon-maa-udskyde-plan-om-at-faa-de-ansatte-tilbage-paa-kontoret-har-ikke-plads-til-dem) (Computerworld.dk)
@@ -256,6 +282,22 @@ Source: [News API](https://newsapi.org/)
 - [Vores vidensindsamling og demokratiske samtale påvirkes af helt lukkede beslutninger i en enkelt privat virksomhed](https://www.computerworld.dk/art/289800/vores-vidensindsamling-og-demokratiske-samtale-paavirkes-af-helt-lukkede-beslutninger-i-en-enkelt-privat-virksomhed) (Computerworld.dk)
 
 ## 24-52 (h5n1)
+
+- [Роспотребнадзор оценил угрозу от новой мутации вируса гриппа птиц в США](https://vfokuse.mail.ru/article/rospotrebnadzor-ocenil-ugrozu-ot-novoy-mutacii-virusa-grippa-ptic-v-ssha-64272090/) (Mail.ru)
+
+- [CDC releases new report on bird flu mutations in humans](https://www.today.com/video/cdc-releases-new-report-on-bird-flu-mutations-in-humans-228071493769) (TODAY)
+
+- [Ανησυχία στις ΗΠΑ από τις πρόσφατες μολύνσεις από τον ιό της γρίπης των πτηνών](https://www.skai.gr/news/world/ipa-anisyxia-apo-tis-prosfates-molynseis-apo-ton-io-tis-gripis-ton-ptinon) (Skai.gr)
+
+- [禽流感疫情蔓延：美國國內首例人類重症死亡，家貓食用帶病毒鮮食後身亡](https://www.thenewslens.com/article/246940) (Thenewslens.com)
+
+- [У пациента в США обнаружили мутировавший птичий грипп: опасен ли он для России](https://rg.ru/2024/12/28/u-pacienta-v-ssha-obnaruzhili-mutirovavshij-ptichij-gripp-opasen-li-on-dlia-rossii.html) (Rg.ru)
+
+- [美禽流感H5N1再現新突變：貓科動物染疫恐增傳人風險](https://www.storm.mg/article/5300430) (Storm.mg)
+
+- [Mutations discovered in first severe human bird flu case in the US: What we know so far](https://economictimes.indiatimes.com/news/international/global-trends/mutations-discovered-in-first-severe-human-bird-flu-case-in-the-us-what-we-know-so-far/articleshow/116733745.cms) (The Times of India)
+
+- [Γρίπη των πτηνών: Μετάλλαξη του ιού σε ασθενή στις ΗΠΑ – Ανησυχία από τους ειδικούς](https://www.newsit.gr/kosmos/gripi-ton-ptinon-metallaksi-tou-iou-se-astheni-stis-ipa-anisyxia-apo-tous-eidikous/4270155/) (Newsit.gr)
 
 - [ВОЗ прогнозирует риск пандемии птичьего гриппа. Что нужно знать](https://iz.ru/1814518/2024-12-28/voz-prognoziruet-risk-pandemii-pticego-grippa-cto-nuzno-znat) (Iz.ru)
 
@@ -366,6 +408,10 @@ Source: [News API](https://newsapi.org/)
 - [Singapore watching four diseases including Covid-19 and mpox,as part of pandemic preparedness, says health minister](https://www.thestar.com.my/aseanplus/aseanplus-news/2024/12/22/singapore-watching-four-diseases-including-covid-19-and-mpoxas-part-of-pandemic-preparedness-says-health-minister) (The Star Online)
 
 ## 24-52 (dengue)
+
+- [Dengue em SP: especialista alerta para risco de casos graves em 2025](https://www.metropoles.com/sao-paulo/dengue-sp-especialista-risco-2025) (Metropoles.com)
+
+- [Estudantes de SP criam algoritmo capaz de prever casos de dengue](https://www.metropoles.com/sao-paulo/estudantes-de-sp-criam-algoritmo-capaz-de-prever-casos-de-dengue) (Metropoles.com)
 
 - [Dengue, mpox, gripe aviar… 2025 viene con amenaza de resurgimiento de enfermedades infecciosas](https://www.elfinanciero.com.mx/salud/2024/12/27/dengue-mpox-gripe-aviar-2025-viene-con-amenaza-de-resurgimiento-de-enfermedades-infecciosas/) (El Financiero)
 
@@ -2325,8 +2371,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Seven rabies deaths recorded in Sarawak this year](https://www.thestar.com.my/news/nation/2024/11/19/seven-rabies-deaths-recorded-in-sarawak-this-year) (The Star Online)
 
-- [Gorsuch: Peanut the Squirrel Shows Overreach of Government](https://legalinsurrection.com/2024/11/gorsuch-peanut-the-squirrel-shows-overreach-of-government/) (Legalinsurrection.com)
-
 ## 24-47 (pertussis)
 
 - [Coqueluche: Veja os sintomas e o tratamento contra a doença](https://valor.globo.com/brasil/noticia/2024/11/22/coqueluche-veja-sintomas-em-criancas-e-adultos-e-o-tratamento-para-doenca.ghtml) (Globo)
@@ -2334,8 +2378,6 @@ Source: [News API](https://newsapi.org/)
 - [Nasal vaccine may cut whooping cough spread](https://www.futurity.org/nasal-vaccine-whooping-cough-3258062/) (Futurity: Research News)
 
 - [New nasal vaccine shows promise in curbing whooping cough spread](https://www.sciencedaily.com/releases/2024/11/241118170658.htm) (Science Daily)
-
-- [Whooping cough and pneumonia on the rise in Mass.](https://www.boston.com/news/health/2024/11/17/whooping-cough-and-pneumonia-on-the-rise-in-mass/) (Boston.com)
 
 ## 24-47 (mpox)
 
@@ -2457,20 +2499,6 @@ Source: [News API](https://newsapi.org/)
 
 - [City scientist wins top prize for rapid mpox testing kit](https://timesofindia.indiatimes.com/city/mumbai/breakthrough-in-mpox-testing-indian-scientist-develops-rapid-kit/articleshow/115393416.cms) (The Times of India)
 
-- [US health officials report 1st case of new form of mpox in traveler](https://kutv.com/news/nation-world/us-health-officials-report-1st-case-of-new-form-of-mpox-in-traveler) (KUTV 2News)
-
-- [San Mateo County Reports First Known US Case of Emerging Mpox Strain](https://www.kqed.org/news/12014826/san-mateo-county-reports-first-known-u-s-case-of-emerging-mpox-strain) (KQED)
-
-- [US reports first known case of new strain of mpox](https://www.abc.net.au/news/2024-11-17/united-states-reports-first-clade-i-mpox-case/104612314) (ABC News (AU))
-
-- [Angop сообщило о первом случае заражения оспой обезьян в Анголе](https://tass.ru/obschestvo/22424001) (Tass.ru)
-
-- [Le premier cas d'infection par une nouvelle souche de mpox a été confirmé aux États-Unis](https://fr.sputniknews.africa/20241117/le-premier-cas-dinfection-par-une-nouvelle-souche-de-mpox-a-ete-confirme-aux-etats-unis-1069272599.html) (Sputniknews.africa)
-
-- [Primul caz de infectare cu noua tulpină mpox, confirmată în California](https://adevarul.ro/stiri-interne/sanatate/primul-caz-de-infectare-cu-noua-tulpina-mpox-2402181.html) (Adevarul.ro)
-
-- [Agresszívabb formája jelent meg a majomhimlőnek Amerikában](https://www.origo.hu/tudomany/2024/11/majomhimlo-mpox-amerika-kalifornia-egyes-klad) (Origo.hu)
-
 ## 24-47 (meningitis)
 
 - [Secretaría de Salud clausura clínicas particulares en Tabasco tras brote de meningitis](https://www.milenio.com/estados/salud-clausura-clinicas-particulares-en-tabasco-por-brote-meningitis) (Milenio)
@@ -2500,10 +2528,6 @@ Source: [News API](https://newsapi.org/)
 - [Measles Prevention Checklist For Parents: Everything You Should Know](https://doctor.ndtv.com/children/measles-prevention-checklist-for-parents-everything-you-should-know-7057848) (NDTV News)
 
 - [Seth Meyers Loves That Trump ‘Hazed’ RFK Jr. With McDonald’s Photo Op: ‘That Right There Is a F–ing Grimace’ | Video](https://www.thewrap.com/rfk-jr-trump-mcdonald-photo-seth-meyers-hazed/) (TheWrap)
-
-- [Measles: An avoidable surge](https://www.thehindubusinessline.com/specials/pulse/measles-an-avoidable-surge/article68878758.ece) (BusinessLine)
-
-- [WHO warns: Measles outbreak spreading alarmingly](https://www.jpost.com/health-and-wellness/article-829480) (The Jerusalem Post)
 
 ## 24-47 (malaria)
 
@@ -2566,8 +2590,6 @@ Source: [News API](https://newsapi.org/)
 - [CA Health Dept. Reports a Child Tested Positive for Highly Pathogenic Bird Flu Strain](https://legalinsurrection.com/2024/11/ca-health-dept-reports-a-child-tested-positive-for-highly-pathogenic-bird-flu-strain/) (Legalinsurrection.com)
 
 - [おっさん達「待望のドラクエ3リメイクきた！やりまくるぞ！！」 → モンスター以上の難敵〇〇で詰みまくるおっさん続出ｗｗｗｗｗ](http://jin115.com/archives/52412768.html) (Jin115.com)
-
-- [Human Bird Flu Case Found In Oregon](https://www.shtfplan.com/headline-news/human-bird-flu-case-found-in-oregon) (Shtfplan.com)
 
 ## 24-47 (h5n1)
 
@@ -2711,18 +2733,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Dengue tally reaches 7451 cases in Punjab](https://arynews.tv/dengue-tally-reaches-7451-cases-in-punjab/) (Ary News)
 
-- [Klimawandel schürt Dengue-Fieber](https://www.welt.de/gesundheit/article254558630/Dengue-Fieber-Klimawandel-foerdert-Ausbreitung-von-Viren-und-deren-Uebertraegern.html) (DIE WELT)
-
-- [Children, parents campaign for "Climate Care, Dengue Free"](https://en.antaranews.com/news/334753/children-parents-campaign-for-climate-care-dengue-free) (Antaranews.com)
-
-- [Denguefieber: Forscher führen Anstieg der Dengue-Zahlen auf Klimawandel zurück](https://www.zeit.de/wissen/2024-11/denguefieber-klimawandel-ausbreitung-studie) (Die Zeit)
-
-- [Krankheiten: Studie: Klimawandel verschärft Ausbreitung des Denguefiebers](https://www.tagesspiegel.de/wissen/krankheiten-studie-klimawandel-verscharft-ausbreitung-des-denguefiebers-12720668.html) (Der Tagesspiegel)
-
-- [Krankheiten: Studie: Klimawandel verschärft Ausbreitung des Denguefiebers](https://www.stern.de/panorama/wissen/krankheiten--studie--klimawandel-verschaerft-ausbreitung-des-denguefiebers-35234784.html) (STERN.de)
-
-- [Bangladesh deaths from dengue cross 400 as outbreak worsens](https://www.thestar.com.my/news/world/2024/11/17/bangladesh-deaths-from-dengue-cross-400-as-outbreak-worsens) (The Star Online)
-
 ## 24-47 (chikungunya)
 
 - [Chikungunya Outbreak Risks after the 2014 Outbreak, Dominican Republic](https://wwwnc.cdc.gov/eid/article/30/12/24-0824_article) (Cdc.gov)
@@ -2732,5 +2742,3 @@ Source: [News API](https://newsapi.org/)
 - [Assessing the ecological patterns of Aedes aegypti in areas with high arboviral risks in the large city of Abidjan, Côte d’Ivoire](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012647) (Plos.org)
 
 - [Extrato de própolis mostra ação antiviral contra zika, chikungunya e mayaro](https://gizmodo.uol.com.br/extrato-de-propolis-mostra-acao-antiviral-contra-zika-chikungunya-e-mayaro/) (Uol.com.br)
-
-- [What to know about the Chikungunya vaccine and where to get it in B.C.](https://vancouversun.com/news/bc-residents-chikungunya-vaccine) (Vancouver Sun)
