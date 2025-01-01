@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 11
-- **Last harvest:** 2025-01-01 07:06
-- **Most recent article:** 2024-12-31 07:00:00
+- **New articles in last harvest:** 12
+- **Last harvest:** 2025-01-01 19:05
+- **Most recent article:** 2024-12-31 16:29:01
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-47 | 24-48 | 24-49 | 24-50 | 24-51 | 24-52 | 24-53 | Total |
 |--|-|-|-|-|-|-|-|-|
-| h5n1 | 48 | 38 | 70 | 61 | 112 | 65 | 19 | 413 |
-| mpox | 66 | 26 | 20 | 26 | 92 | 35 | 0 | 265 |
-| malaria | 26 | 29 | 27 | 76 | 60 | 30 | 14 | 262 |
-| dengue | 27 | 25 | 10 | 33 | 30 | 24 | 4 | 153 |
-| measles | 10 | 6 | 9 | 10 | 6 | 11 | 2 | 54 |
-| rabies | 7 | 12 | 13 | 3 | 7 | 8 | 0 | 50 |
-| chikungunya | 5 | 4 | 6 | 7 | 8 | 0 | 2 | 32 |
-| hpai | 4 | 0 | 2 | 4 | 6 | 12 | 1 | 29 |
+| h5n1 | 48 | 38 | 70 | 61 | 112 | 65 | 25 | 419 |
+| malaria | 26 | 29 | 27 | 76 | 60 | 30 | 15 | 263 |
+| mpox | 59 | 26 | 20 | 26 | 92 | 35 | 2 | 260 |
+| dengue | 21 | 25 | 10 | 33 | 30 | 24 | 6 | 149 |
+| measles | 8 | 6 | 9 | 10 | 6 | 11 | 3 | 53 |
+| rabies | 6 | 12 | 13 | 3 | 7 | 8 | 1 | 50 |
+| chikungunya | 4 | 4 | 6 | 7 | 8 | 0 | 2 | 31 |
+| hpai | 3 | 0 | 2 | 4 | 6 | 12 | 1 | 28 |
 | meningitis | 5 | 3 | 3 | 7 | 5 | 3 | 1 | 27 |
-| pertussis | 4 | 1 | 4 | 6 | 4 | 6 | 0 | 25 |
+| pertussis | 3 | 1 | 4 | 6 | 4 | 6 | 0 | 24 |
 | zika | 3 | 1 | 4 | 4 | 4 | 2 | 0 | 18 |
 | yersinia | 1 | 1 | 0 | 0 | 0 | 6 | 0 | 8 |
 | leptospirosis | 0 | 2 | 0 | 3 | 0 | 2 | 0 | 7 |
@@ -33,17 +33,31 @@ Source: [News API](https://newsapi.org/)
 
 ---
 
+## 24-53 (rabies)
+
+- [Heightened alert: Vets fear rabies entering Israel via animals from Lebanon, Syria](https://www.jpost.com/health-and-wellness/article-835502) (The Jerusalem Post)
+
+## 24-53 (mpox)
+
+- [Ministry of Health raises alarm over new wave of MPOX infections](https://www.citizen.digital/news/ministry-of-health-raises-alarm-over-new-wave-of-mpox-infections-n355200) (Citizen.digital)
+
+- [داروهای کاهش وزن، ویروس‌های حیله‌گر، حمله به قرص سقط جنین: مهم‌ترین اخبار سلامت سال ۲۰۲۴](https://www.entekhab.ir/fa/news/842011/داروهای-کاهش-وزن-ویروس‌های-حیله‌گر-حمله-به-قرص-سقط-جنین-مهم‌ترین-اخبار-سلامت-سال-۲۰۲۴) (Entekhab.ir)
+
 ## 24-53 (meningitis)
 
 - [Parents say 'trust your gut' after infant sent home from hospital later diagnosed with meningitis](https://www.cbc.ca/news/canada/windsor/windsor-hospital-baby-london-1.7420410) (CBC News)
 
 ## 24-53 (measles)
 
+- [RFK Jr. Is Trying To Write Himself Out of 2019 Samoan Measles Epidemic](https://www.snopes.com//news/2024/12/31/rfk-jr-samoa-measles-epidemic-2019/) (Snopes.com)
+
 - [In Missouri, 9% of kindergarten students are not vaccinated against measles, polio](https://www.stltoday.com/news/local/metro/in-missouri-9-of-kindergarten-students-are-not-vaccinated-against-measles-polio/article_1d543810-a762-11ef-b1b0-771e5a29b6ef.html) (STLtoday.com)
 
 - [Gaslighting RFK Jr.’s role in the deadly Samoan measles outbreak](https://sciencebasedmedicine.org/gaslighting-rfk-jr-s-role-in-the-deadly-samoan-measles-outbreak/) (Sciencebasedmedicine.org)
 
 ## 24-53 (malaria)
+
+- [Generation of a genetically double-attenuated Plasmodium berghei parasite that fully arrests growth during late liver stage development](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0316164) (Plos.org)
 
 - [24 Things That Made the World a Better Place in 2024](https://www.wired.com/story/24-things-that-made-the-world-a-better-place-in-2024-good-news/) (Wired)
 
@@ -78,6 +92,18 @@ Source: [News API](https://newsapi.org/)
 - [Il primo caso di influenza aviaria mostra i segni di una mutazione: c'è da preoccuparsi?](https://tech.everyeye.it/notizie/caso-influenza-aviaria-mostra-segni-mutazione-e-preoccuparsi-767704.html) (Everyeye.it)
 
 ## 24-53 (h5n1)
+
+- [How Worried Should We Be About Bird Flu?](http://www.rollingstone.com/culture/culture-features/bird-flu-h5n1-virus-explained-1235222042/) (Rolling Stone)
+
+- [I’m an Emergency Physician Keeping an Eye on Bird Flu. It’s Getting Dicey.](https://slate.com/technology/2024/12/bird-flu-emergency-physician-worried-transmission-cases.html) (Slate Magazine)
+
+- [CDC on High Alert as Bird Flu Cases Rise in the US: Is the H5N1 Virus Showing Pandemic Red Flags?](https://economictimes.indiatimes.com/news/international/us/cdc-on-high-alert-as-bird-flu-cases-rise-in-the-us-is-the-h5n1-virus-showing-pandemic-red-flags/articleshow/116836738.cms) (The Times of India)
+
+- [FDA Testing Cheese For Bird Flu Amid Multi-State Outbreak](https://www.ibtimes.com/fda-testing-cheese-bird-flu-amid-multi-state-outbreak-3757416) (International Business Times)
+
+- [Ingen pandemi har hittil latt seg forutse. Verden blir alltid overrasket.](https://www.aftenposten.no/meninger/debatt/i/gwyVp9/fugleinfluensa-ingen-pandemi-har-hittil-latt-seg-forutse-verden-blir-alltid-overrasket) (Aftenposten)
+
+- [داروهای کاهش وزن، ویروس‌های حیله‌گر، حمله به قرص سقط جنین: مهم‌ترین اخبار سلامت سال ۲۰۲۴](https://www.entekhab.ir/fa/news/842011/داروهای-کاهش-وزن-ویروس‌های-حیله‌گر-حمله-به-قرص-سقط-جنین-مهم‌ترین-اخبار-سلامت-سال-۲۰۲۴) (Entekhab.ir)
 
 - [경북 영천 야생조류서 고병원성 조류인플루엔자 검출](https://www.khan.co.kr/article/202412310900011) (Khan.co.kr)
 
@@ -118,6 +144,10 @@ Source: [News API](https://newsapi.org/)
 - [طفرة جديدة تثير القلق.. إنفلونزا الطيور تستهدف خلايا التنفس لدى البشر](https://arabic.cnn.com/science-and-health/video/2024/12/29/v167569-bird-flu-mutates-to-target-human-respiratory-cells) (CNN)
 
 ## 24-53 (dengue)
+
+- [Bangladesh records 575 dengue deaths in 2024](https://www.thestar.com.my/news/world/2025/01/01/bangladesh-records-575-dengue-deaths-in-2024) (The Star Online)
+
+- [RM3.32mil in dengue fines issued this year but only 65% paid up, says Johor exco man](https://www.thestar.com.my/news/nation/2024/12/31/rm332mil-in-dengue-fines-issued-this-year-but-only-65-paid-up-says-johor-exco-man) (The Star Online)
 
 - [Japanese encephalitis: Summer's first case of mosquito-borne virus detected in Victorian](https://thenightly.com.au/society/health/japanese-encephalitis-summers-first-case-of-mosquito-borne-virus-detected-in-victorian-c-17244120) (Thenightly.com.au)
 
@@ -2483,8 +2513,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Seven rabies deaths recorded in Sarawak this year](https://www.thestar.com.my/news/nation/2024/11/19/seven-rabies-deaths-recorded-in-sarawak-this-year) (The Star Online)
 
-- [Gorsuch: Peanut the Squirrel Shows Overreach of Government](https://legalinsurrection.com/2024/11/gorsuch-peanut-the-squirrel-shows-overreach-of-government/) (Legalinsurrection.com)
-
 ## 24-47 (pertussis)
 
 - [Coqueluche: Veja os sintomas e o tratamento contra a doença](https://valor.globo.com/brasil/noticia/2024/11/22/coqueluche-veja-sintomas-em-criancas-e-adultos-e-o-tratamento-para-doenca.ghtml) (Globo)
@@ -2492,8 +2520,6 @@ Source: [News API](https://newsapi.org/)
 - [Nasal vaccine may cut whooping cough spread](https://www.futurity.org/nasal-vaccine-whooping-cough-3258062/) (Futurity: Research News)
 
 - [New nasal vaccine shows promise in curbing whooping cough spread](https://www.sciencedaily.com/releases/2024/11/241118170658.htm) (Science Daily)
-
-- [Whooping cough and pneumonia on the rise in Mass.](https://www.boston.com/news/health/2024/11/17/whooping-cough-and-pneumonia-on-the-rise-in-mass/) (Boston.com)
 
 ## 24-47 (mpox)
 
@@ -2615,20 +2641,6 @@ Source: [News API](https://newsapi.org/)
 
 - [City scientist wins top prize for rapid mpox testing kit](https://timesofindia.indiatimes.com/city/mumbai/breakthrough-in-mpox-testing-indian-scientist-develops-rapid-kit/articleshow/115393416.cms) (The Times of India)
 
-- [US health officials report 1st case of new form of mpox in traveler](https://kutv.com/news/nation-world/us-health-officials-report-1st-case-of-new-form-of-mpox-in-traveler) (KUTV 2News)
-
-- [San Mateo County Reports First Known US Case of Emerging Mpox Strain](https://www.kqed.org/news/12014826/san-mateo-county-reports-first-known-u-s-case-of-emerging-mpox-strain) (KQED)
-
-- [US reports first known case of new strain of mpox](https://www.abc.net.au/news/2024-11-17/united-states-reports-first-clade-i-mpox-case/104612314) (ABC News (AU))
-
-- [Angop сообщило о первом случае заражения оспой обезьян в Анголе](https://tass.ru/obschestvo/22424001) (Tass.ru)
-
-- [Le premier cas d'infection par une nouvelle souche de mpox a été confirmé aux États-Unis](https://fr.sputniknews.africa/20241117/le-premier-cas-dinfection-par-une-nouvelle-souche-de-mpox-a-ete-confirme-aux-etats-unis-1069272599.html) (Sputniknews.africa)
-
-- [Primul caz de infectare cu noua tulpină mpox, confirmată în California](https://adevarul.ro/stiri-interne/sanatate/primul-caz-de-infectare-cu-noua-tulpina-mpox-2402181.html) (Adevarul.ro)
-
-- [Agresszívabb formája jelent meg a majomhimlőnek Amerikában](https://www.origo.hu/tudomany/2024/11/majomhimlo-mpox-amerika-kalifornia-egyes-klad) (Origo.hu)
-
 ## 24-47 (meningitis)
 
 - [Secretaría de Salud clausura clínicas particulares en Tabasco tras brote de meningitis](https://www.milenio.com/estados/salud-clausura-clinicas-particulares-en-tabasco-por-brote-meningitis) (Milenio)
@@ -2658,10 +2670,6 @@ Source: [News API](https://newsapi.org/)
 - [Measles Prevention Checklist For Parents: Everything You Should Know](https://doctor.ndtv.com/children/measles-prevention-checklist-for-parents-everything-you-should-know-7057848) (NDTV News)
 
 - [Seth Meyers Loves That Trump ‘Hazed’ RFK Jr. With McDonald’s Photo Op: ‘That Right There Is a F–ing Grimace’ | Video](https://www.thewrap.com/rfk-jr-trump-mcdonald-photo-seth-meyers-hazed/) (TheWrap)
-
-- [Measles: An avoidable surge](https://www.thehindubusinessline.com/specials/pulse/measles-an-avoidable-surge/article68878758.ece) (BusinessLine)
-
-- [WHO warns: Measles outbreak spreading alarmingly](https://www.jpost.com/health-and-wellness/article-829480) (The Jerusalem Post)
 
 ## 24-47 (malaria)
 
@@ -2724,8 +2732,6 @@ Source: [News API](https://newsapi.org/)
 - [CA Health Dept. Reports a Child Tested Positive for Highly Pathogenic Bird Flu Strain](https://legalinsurrection.com/2024/11/ca-health-dept-reports-a-child-tested-positive-for-highly-pathogenic-bird-flu-strain/) (Legalinsurrection.com)
 
 - [おっさん達「待望のドラクエ3リメイクきた！やりまくるぞ！！」 → モンスター以上の難敵〇〇で詰みまくるおっさん続出ｗｗｗｗｗ](http://jin115.com/archives/52412768.html) (Jin115.com)
-
-- [Human Bird Flu Case Found In Oregon](https://www.shtfplan.com/headline-news/human-bird-flu-case-found-in-oregon) (Shtfplan.com)
 
 ## 24-47 (h5n1)
 
@@ -2869,18 +2875,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Dengue tally reaches 7451 cases in Punjab](https://arynews.tv/dengue-tally-reaches-7451-cases-in-punjab/) (Ary News)
 
-- [Klimawandel schürt Dengue-Fieber](https://www.welt.de/gesundheit/article254558630/Dengue-Fieber-Klimawandel-foerdert-Ausbreitung-von-Viren-und-deren-Uebertraegern.html) (DIE WELT)
-
-- [Children, parents campaign for "Climate Care, Dengue Free"](https://en.antaranews.com/news/334753/children-parents-campaign-for-climate-care-dengue-free) (Antaranews.com)
-
-- [Denguefieber: Forscher führen Anstieg der Dengue-Zahlen auf Klimawandel zurück](https://www.zeit.de/wissen/2024-11/denguefieber-klimawandel-ausbreitung-studie) (Die Zeit)
-
-- [Krankheiten: Studie: Klimawandel verschärft Ausbreitung des Denguefiebers](https://www.tagesspiegel.de/wissen/krankheiten-studie-klimawandel-verscharft-ausbreitung-des-denguefiebers-12720668.html) (Der Tagesspiegel)
-
-- [Krankheiten: Studie: Klimawandel verschärft Ausbreitung des Denguefiebers](https://www.stern.de/panorama/wissen/krankheiten--studie--klimawandel-verschaerft-ausbreitung-des-denguefiebers-35234784.html) (STERN.de)
-
-- [Bangladesh deaths from dengue cross 400 as outbreak worsens](https://www.thestar.com.my/news/world/2024/11/17/bangladesh-deaths-from-dengue-cross-400-as-outbreak-worsens) (The Star Online)
-
 ## 24-47 (chikungunya)
 
 - [Chikungunya Outbreak Risks after the 2014 Outbreak, Dominican Republic](https://wwwnc.cdc.gov/eid/article/30/12/24-0824_article) (Cdc.gov)
@@ -2890,5 +2884,3 @@ Source: [News API](https://newsapi.org/)
 - [Assessing the ecological patterns of Aedes aegypti in areas with high arboviral risks in the large city of Abidjan, Côte d’Ivoire](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012647) (Plos.org)
 
 - [Extrato de própolis mostra ação antiviral contra zika, chikungunya e mayaro](https://gizmodo.uol.com.br/extrato-de-propolis-mostra-acao-antiviral-contra-zika-chikungunya-e-mayaro/) (Uol.com.br)
-
-- [What to know about the Chikungunya vaccine and where to get it in B.C.](https://vancouversun.com/news/bc-residents-chikungunya-vaccine) (Vancouver Sun)
