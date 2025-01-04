@@ -1,8 +1,368 @@
 {
-  "last_updated": "2025-01-04 07:06",
-  "count_articles_total": 1349,
-  "count_articles_new": 8,
+  "last_updated": "2025-01-04 19:05",
+  "count_articles_total": 1350,
+  "count_articles_new": 20,
   "articles": [
+    {
+      "id": 17017,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Ag\u00eancia Brasil",
+      "title": "Casos de dengue em 2024 passam de 6,4 milh\u00f5es. Mortes somam 5,9 mil",
+      "description": "O coeficiente de incid\u00eancia da dengue, at\u00e9 o dia 28 de dezembro, era de 3.193,5 casos para cada 100 mil habitantes",
+      "url": "https://www.metropoles.com/brasil/casos-de-dengue-em-2024-passam-de-64-milhoes-mortes-somam-59-mil",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/05/20173232/dengue-brasil.jpg",
+      "publishedAt": "2025-01-03 18:35:19",
+      "content": "Dados do Painel de Monitoramento de Arboviroses do Minist\u00e9rio da Sa\u00fade mostram que o pa\u00eds registrou, ao longo de todo o ano de 2024, um total de 6.484.890 casos prov\u00e1veis de dengue e 5.972 mortes pro\u2026 [+1644 chars]",
+      "retrievedAt": "2025-01-04 19:05:30.606789",
+      "internal_id": "0c7e861788e28e9db1f696251d1406cf411cc0bd84f9e7126e0b34870fb13c94",
+      "publishedAtLabel": "Jan 3"
+    },
+    {
+      "id": 17019,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Futurity: Research News",
+      "author": "Brett Beasley-Notre Dame",
+      "title": "\u2018Mosquito shield\u2019 cuts malaria infections by a third",
+      "description": "\"We are proud to see the impact of this work already translating into action in for millions of people at risk of malaria here.\"",
+      "url": "https://www.futurity.org/malaria-transmission-3262912-2/",
+      "urlToImage": "https://www.futurity.org/wp/wp-content/uploads/2025/01/mosquito-shield-malaria-infections-1600.jpg",
+      "publishedAt": "2025-01-03 18:25:29",
+      "content": "A new tool for fighting malaria called a spatial repellent showed a significant impact on reducing malaria infections in a new study. The spatial repellent product, Mosquito Shield, used alongside i\u2026 [+4522 chars]",
+      "retrievedAt": "2025-01-04 19:05:31.779406",
+      "internal_id": "d1e8991884f7fb3563eaf283372a7e34db05e23c52d259764e2b1c6c8d403538",
+      "publishedAtLabel": "Jan 3"
+    },
+    {
+      "id": 17013,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "AFP",
+      "title": "US announces $306 million in new bird flu funding",
+      "description": "President Joe Biden's administration will allocate $306 million to enhance bird flu response efforts before President-elect Donald Trump takes office. The funding aims to support preparedness, monitoring, and research on the H5N1 virus. With 66 human cases re\u2026",
+      "url": "https://timesofindia.indiatimes.com/world/us/us-announces-306-million-in-new-bird-flu-funding/articleshow/116923900.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-116923970,width-1070,height-580,imgsize-34872,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2025-01-03 17:59:41",
+      "content": "9 foods to keep your kidneys healthy",
+      "retrievedAt": "2025-01-04 19:05:30.152355",
+      "internal_id": "f6a742f4009eaed3b1dc90a0fbba30a4549bdd8c3b0db8e88dfe129a0310a134",
+      "publishedAtLabel": "Jan 3"
+    },
+    {
+      "id": 17025,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Themorningnews.org",
+      "author": null,
+      "title": "Friday headlines: The year that was and wasn\u2019t, 2024 edition",
+      "description": "\"Of those 200 casualties, only 10 were confirmed as known Hamas operatives.\" Interviews with active-duty IDF soldiers about what's really happening in Gaza. (Content warning) / Haaretz See also: 10 conflicts to watch in 2025. / International Crisis Group As\u2026",
+      "url": "https://themorningnews.org/p/friday-headlines-the-year-that-was-and-wasnt-2024-edition",
+      "urlToImage": "https://themorningnews.org/images/tmn-logo-share.png",
+      "publishedAt": "2025-01-03 17:54:00",
+      "content": "In an unwritten, unannounced policy change, Louisiana's Dept. of Health is forbidding employees from promoting Covid, flu, or mpox vaccines. / NPR Photos of daily life for the Palestinian people\u2014\"be\u2026 [+2219 chars]",
+      "retrievedAt": "2025-01-04 19:05:33.380062",
+      "internal_id": "bc500042c5438c684a296a0b0d3d75a3a919eac080dcafab0c90f61de4262f3d",
+      "publishedAtLabel": "Jan 3"
+    },
+    {
+      "id": 17020,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "Researchers discover class of anti-malaria antibodies",
+      "description": "Antibodies that bind to a previously untargeted portion of the malaria parasite could lead to new monoclonal antibody treatments and vaccines for malaria.",
+      "url": "https://www.sciencedaily.com/releases/2025/01/250103124926.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2025-01-03 17:49:26",
+      "content": "A novel class of antibodies that binds to a previously untargeted portion of the malaria parasite could lead to new prevention methods, according to a study from researchers at the National Institute\u2026 [+4228 chars]",
+      "retrievedAt": "2025-01-04 19:05:31.787011",
+      "internal_id": "06ea4f0b3aeba876f63a0139e65665e253c7eb89d6a3547ab79e3dc07b52dbe3",
+      "publishedAtLabel": "Jan 3"
+    },
+    {
+      "id": 17014,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Www.gva.be",
+      "author": "mvdb",
+      "title": "66 mensen in VS besmet en noodtoestand in Canada: valt het vogelgriepvirus nog in te tomen?",
+      "description": "Een Canadees meisje (13) is drie weken lang op intensieve zorgen verpleegd na een besmetting met het H5N1-vogelgriepvirus. De Amerikaanse staat Californi\u00eb heeft zelfs de noodtoestand uitgeroepen en in de VS raakten 66 mensen in 2024 besmet. Valt het vogelgrie\u2026",
+      "url": "https://www.gva.be/cnt/dmf20250103_96142529",
+      "urlToImage": "https://static.gva.be/Assets/Images_Upload/2025/01/03/73661e09-7977-4d4d-bbe7-06a74909407f.png?maxheight=460&maxwidth=629",
+      "publishedAt": "2025-01-03 17:03:40",
+      "content": "Volgens viroloog Steven Van Gucht zijn er geen indicaties dat vogelgriep kan spreiden van mens op mens.",
+      "retrievedAt": "2025-01-04 19:05:30.159809",
+      "internal_id": "0554a2608a71d3ffcc0ce9108cade0a157f470835fa0147125dc32cd73fc59b8",
+      "publishedAtLabel": "Jan 3"
+    },
+    {
+      "id": 17012,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Nieuwsblad.be",
+      "author": "mvdb",
+      "title": "66 mensen in VS besmet en noodtoestand in Canada: valt het vogelgriepvirus nog in te tomen?",
+      "description": "Een Canadees meisje (13) is drie weken lang op intensieve zorgen verpleegd na een besmetting met het H5N1-vogelgriepvirus. De Amerikaanse staat Californi\u00eb heeft zelfs de noodtoestand uitgeroepen en in de VS raakten 66 mensen in 2024 besmet. Valt het vogelgrie\u2026",
+      "url": "https://www.nieuwsblad.be/cnt/dmf20250103_96097391",
+      "urlToImage": "https://static.nieuwsblad.be/Assets/Images_Upload/2025/01/03/73661e09-7977-4d4d-bbe7-06a74909407f.png?maxheight=460&maxwidth=638",
+      "publishedAt": "2025-01-03 16:56:09",
+      "content": "Volgens viroloog Steven Van Gucht zijn er geen indicaties dat vogelgriep kan spreiden van mens op mens.",
+      "retrievedAt": "2025-01-04 19:05:30.145461",
+      "internal_id": "ac062a68e9cce57feabcdb6a32a505a5e0fcf8de2613b7976d40a53fcc21cd3b",
+      "publishedAtLabel": "Jan 3"
+    },
+    {
+      "id": 17011,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "Un estudio sugiere que \"muchas personas\" ya cuentan con c\u00e9lulas T listas para combatir la gripe aviar H5N1",
+      "description": "Un equipo del Instituto de Inmunolog\u00eda de La Jolla (LJI, Estados Unidos) ha descubierto que \"muchas personas\" podr\u00edan contar ya con c\u00e9lulas T preparadas para combatir la gripe aviar H5N1, un hallazgo que llega en un momento en el que las infecciones de este t\u2026",
+      "url": "https://www.infosalus.com/salud-investigacion/noticia-estudio-sugiere-muchas-personas-ya-cuentan-celulas-listas-combatir-gripe-aviar-h5n1-20250103175150.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20250103175150_1200.jpg",
+      "publishedAt": "2025-01-03 16:51:50",
+      "content": "MADRID 3 Ene. (EUROPA PRESS) - Un equipo del Instituto de Inmunolog\u00eda de La Jolla (LJI, Estados Unidos) ha descubierto que \"muchas personas\" podr\u00edan contar ya con c\u00e9lulas T preparadas para combati\u2026 [+3097 chars]",
+      "retrievedAt": "2025-01-04 19:05:30.131205",
+      "internal_id": "76c47c9f8a7649665a6fad869aba526a031bf6430bc4f303b91f470f0d14d1a8",
+      "publishedAtLabel": "Jan 3"
+    },
+    {
+      "id": 17010,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Jess Thomson",
+      "title": "Bird Flu Update: How Regular Influenza May Help Protect You",
+      "description": "Previous seasonal flu infections and vaccinations may protect us against infection from the highly pathogenic H5N1 bird flu outbreak.",
+      "url": "https://www.newsweek.com/bird-flu-h5n1-immune-system-t-cells-seasonal-influenza-2009187",
+      "urlToImage": "https://d.newsweek.com/en/full/2555756/bird-flu-immune-system.jpg",
+      "publishedAt": "2025-01-03 15:56:39",
+      "content": "As cases of H5N1 bird flu rise across the U.S., some of us may be more immune to the virus than others. Many people may have immune cells called \"T cells\" primed and ready to fight the \"highly patho\u2026 [+5240 chars]",
+      "retrievedAt": "2025-01-04 19:05:30.078792",
+      "internal_id": "f6ccf99071365a9b5b0313f6b1369ccbbe20c2899d8df4a686353d506eaa0af9",
+      "publishedAtLabel": "Jan 3"
+    },
+    {
+      "id": 17018,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Suaraindonesia-news.com",
+      "author": "admin",
+      "title": "Cegah DBD, Serma Yanto dan Puskesmas Pademawu Lakukan Fogging di Desa Bunder",
+      "description": "PAMEKASAN, Jumat (03/01) suaraindonesia-news.com \u2013 Untuk mencegah penyebaran... The post Cegah DBD, Serma Yanto dan Puskesmas Pademawu Lakukan Fogging di Desa Bunder appeared first on Suara Indonesia.",
+      "url": "https://suaraindonesia-news.com/cegah-dbd-serma-yanto-dan-puskesmas-pademawu-lakukan-fogging-di-desa-bunder/",
+      "urlToImage": "https://suaraindonesia-news.com/wp-content/uploads/2025/01/IMG_20250103_224104.jpg",
+      "publishedAt": "2025-01-03 15:45:28",
+      "content": "PAMEKASAN, Jumat (03/01) suaraindonesia-news.com Untuk mencegah penyebaran penyakit Demam Berdarah Dengue (DBD), Babinsa Desa Bunder, Koramil 0826-06 Pademawu, Serma Yanto, bersama tim dari Puskesmas\u2026 [+1603 chars]",
+      "retrievedAt": "2025-01-04 19:05:30.648785",
+      "internal_id": "598ba7c7e027c3eaa66e01314f6ce3f8da048b42abddfcb35066b490315b4882",
+      "publishedAtLabel": "Jan 3"
+    },
+    {
+      "id": 17008,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Computerworld.dk",
+      "author": "Anders Bruun",
+      "title": "Forskere har m\u00e5lt, hvor hurtigt mennesker t\u00e6nker - og det g\u00e5r forbl\u00f8ffende langsomt: S\u00e5 sl\u00f8vt fungerer din hjerne",
+      "description": "Ny forskning tyder p\u00e5, at Elon Musks planer om at \u00f8ge \"den menneskelige b\u00e5ndbredde\" for at kunne kommunikere med computere og AI er overfl\u00f8dige.",
+      "url": "https://www.computerworld.dk/art/289927/forskere-har-maalt-hvor-hurtigt-mennesker-taenker-og-det-gaar-forbloeffende-langsomt-saa-sloevt-fungerer-din-hjerne",
+      "urlToImage": "https://www.computerworld.dk/fil/230581?width=600&height=315&focus=1",
+      "publishedAt": "2025-01-03 14:59:00",
+      "content": "Ny forskning tyder p\u00e5, at Elon Musks planer om at \u00f8ge \"den menneskelige b\u00e5ndbredde\" for at kunne kommunikere med computere og AI er overfl\u00f8dige.Annonceindl\u00e6g fra HPAI-ekspert Robert Luciani: Den rigt\u2026 [+3234 chars]",
+      "retrievedAt": "2025-01-04 19:05:29.069719",
+      "internal_id": "301ed18ef7e1fe515be35bea8cab8c4793afa0df48e06d29c75bd882cfa36997",
+      "publishedAtLabel": "Jan 3"
+    },
+    {
+      "id": 17016,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Sa\u00fade em Dia",
+      "title": "Sintomas de dengue: cuidado durante o ver\u00e3o precisa ser redobrado",
+      "description": "Fortes chuvas e calor intenso aumentam a prolifera\u00e7\u00e3o do mosquito da dengue. Saiba identificar os sintomas leves e de alta gravidade",
+      "url": "https://www.metropoles.com/saude/sintomas-dengue-cuidado-no-verao",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/05/20133115/Dengue-compressed-2.jpg",
+      "publishedAt": "2025-01-03 14:31:17",
+      "content": "Durante o ver\u00e3o, \u00e9 comum os casos de dengue se tornarem mais frequentes. A Universidade Aberta do Sistema \u00danico de Sa\u00fade (UNA-SUS) aponta que a combina\u00e7\u00e3o entre altas temperaturas e chuvas favorece o\u2026 [+1970 chars]",
+      "retrievedAt": "2025-01-04 19:05:30.588222",
+      "internal_id": "2b3996ef76655163744e6a15e170579796584168b530d5748f72680a373c513b",
+      "publishedAtLabel": "Jan 3"
+    },
+    {
+      "id": 17021,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Pere Millat-Mart\u00ednez, Michelle Katusele, Bernadine Kasian, Elias Omera, Esther Jamea, Lina Lorry, Aina Casellas, Dan Ouchi, Chilaka Wali, Sylvia Raulo, Arthur Elizah, Peter Kaman, Absalom Dau, Muker Sakur, Lemen Kilepak, Siub Yabu, Nelson Koata, John Kave, Michael Toa, Christopher Urakusie, Charles Kongs, Frank Kisba, Moses Laman, Oriol Mitj\u00e0, William Pomat, Quique Bassat, Stephan Karl, B\u00e0rbara Baro",
+      "title": "Human and entomological determinants of malaria transmission in the Lihir Islands of Papua New Guinea: A cross-sectional study",
+      "description": "Author summary The Lihir Islands of Papua New Guinea host a mining operation on Aniolam, the main island, which implements specific vector control strategies in the mine-impacted zone (MIZ); whereas the remaining areas rely solely on distribution of long-last\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012277",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012277.g004&size=inline",
+      "publishedAt": "2025-01-03 14:00:00",
+      "content": "Citation: Millat-Mart\u00ednez P, Katusele M, Kasian B, Omera E, Jamea E, Lorry L, et al. (2025) Human and entomological determinants of malaria transmission in the Lihir Islands of Papua New Guinea: A cr\u2026 [+50362 chars]",
+      "retrievedAt": "2025-01-04 19:05:31.818679",
+      "internal_id": "abb3e6e5b87cbd632643772d0e3a06389a1d142471385d54a6643798e295f006",
+      "publishedAtLabel": "Jan 3"
+    },
+    {
+      "id": 17022,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Christopher C. Hayes, Coby Schal",
+      "title": "Repellency and toxicity of long-lasting insecticide-treated bed nets (LLINs) to bed bugs",
+      "description": "Vector control is essential for eliminating malaria, a vector-borne parasitic disease responsible for over half a million deaths annually. Success of vector control programs hinges on community acceptance of products like long-lasting insecticide-treated nets\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0313595",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0313595.g005&size=inline",
+      "publishedAt": "2025-01-03 14:00:00",
+      "content": "Citation: Hayes CC, Schal C (2025) Repellency and toxicity of long-lasting insecticide-treated bed nets (LLINs) to bed bugs. PLoS ONE 20(1): e0313595. https://doi.org/10.1371/journal.pone.0313595 \u2026 [+41792 chars]",
+      "retrievedAt": "2025-01-04 19:05:31.837518",
+      "internal_id": "4cc5615bd4ec8bc7a0c1bfee1d11f3c5af6024a938db52f0f502d07a5e3593db",
+      "publishedAtLabel": "Jan 3"
+    },
+    {
+      "id": 17006,
+      "query": [
+        "measles"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ET Online",
+      "title": "Amid reports of HMPV outbreak in China, doctors warn of 11 diseases that could trigger pandemic 2.0 like Covid",
+      "description": "Doctors highlight 11 diseases that may cause significant issues by 2025, including a potential resurgence of Covid-19 and the emergence of an unknown 'Disease X.' Measles, cholera, scabies, and bird flu are also noted for their potential threat due to declini\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/amid-reports-of-hmpv-outbreak-in-china-doctors-warn-11-diseases-that-could-trigger-pandemic-2-0-like-covid/articleshow/116916139.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-116917267,width-1200,height-630,imgsize-1229132,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-01-03 12:08:39",
+      "content": "Doctors are concerned about 11 diseases that could cause problems in 2025, including a theoretical \"Disease X\" and a potential resurgence of Covid-19. Measles, cholera, scabies, and bird flu are also\u2026 [+4126 chars]",
+      "retrievedAt": "2025-01-04 19:05:28.705542",
+      "internal_id": "e9f93be152272405998b712e2ce29b216975a2f93526fa0133b86dbf5898e1ac",
+      "publishedAtLabel": "Jan 3"
+    },
+    {
+      "id": 17023,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "ZEIT ONLINE: News -",
+      "title": "Nach Schulschlie\u00dfung bei K\u00f6ln: Keine weiteren Mpox-F\u00e4lle im Rheinisch-Bergischen Kreis",
+      "description": "Hier finden Sie Informationen zu dem Thema \u201eNach Schulschlie\u00dfung bei K\u00f6ln\u201c. Lesen Sie jetzt \u201eKeine weiteren Mpox-F\u00e4lle im Rheinisch-Bergischen Kreis\u201c.",
+      "url": "https://www.zeit.de/news/2025-01/03/keine-weiteren-mpox-faelle-im-rheinisch-bergischen-kreis",
+      "urlToImage": "https://img.zeit.de/news/2025-01/03/keine-weiteren-mpox-faelle-im-rheinisch-bergischen-kreis-image-group/wide__1300x731",
+      "publishedAt": "2025-01-03 10:53:04",
+      "content": "Im Rheinisch-Bergischen Kreis gibt es nach den vier Infektionsf\u00e4llen mit der Krankheit Mpox im Dezember nun eine Entwarnung. Mit Ablauf der Inkubationszeit habe es keine weiteren F\u00e4lle gegeben, wie d\u2026 [+1227 chars]",
+      "retrievedAt": "2025-01-04 19:05:33.358699",
+      "internal_id": "b965353a12fe455082b84f2d9776ffb5320ee43e1d5a7a98411b92fd56b6c20a",
+      "publishedAtLabel": "Jan 3"
+    },
+    {
+      "id": 17024,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "Nach Schulschlie\u00dfung bei K\u00f6ln: Keine weiteren Mpox-F\u00e4lle im Rheinisch-Bergischen Kreis",
+      "description": "Im Dezember wurden bei K\u00f6ln bei vier Personen Mpox-Infektionen festgestellt - eine F\u00f6rderschule musste schlie\u00dfen. Bez\u00fcglich m\u00f6glicher weiterer Infektionen im Kreis gibt es nun eine Entwarnung.",
+      "url": "https://www.stern.de/gesellschaft/regional/nordrhein-westfalen/nach-schulschliessung-bei-koeln--keine-weiteren-mpox-faelle-im-rheinisch-bergischen-kreis-35352410.html",
+      "urlToImage": "https://image.stern.de/35352412/t/BS/v1/w1440/r1.7778/-/03--nrct3gyyuwv6axs2048jpeg---b20a3f3122a5b37e.jpg",
+      "publishedAt": "2025-01-03 10:53:04",
+      "content": "Kopiere den aktuellen Link Im Dezember wurden bei K\u00f6ln bei vier Personen Mpox-Infektionen festgestellt - eine F\u00f6rderschule musste schlie\u00dfen. Bez\u00fcglich m\u00f6glicher weiterer Infektionen im Kreis gibt es\u2026 [+1409 chars]",
+      "retrievedAt": "2025-01-04 19:05:33.366325",
+      "internal_id": "c4791c1b54da40bdfdb36fc46324bf274b3ee14121973c1da7571289bec8a845",
+      "publishedAtLabel": "Jan 3"
+    },
+    {
+      "id": 17009,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Le Point",
+      "author": "Thomas Graindorge",
+      "title": "Va-t-on vers une pand\u00e9mie de grippe aviaire \u00e0 cause\u2026 des chats ?",
+      "description": "Les chats, dont les oiseaux sont une proie naturelle, pourraient participer a la propagation du virus H5N1. Des milliers de felins pourraient etre concernes.",
+      "url": "https://www.lepoint.fr/sante/va-t-on-vers-une-pandemie-de-grippe-aviaire-a-cause-des-chats-03-01-2025-2579137_40.php",
+      "urlToImage": "https://static.lpnt.fr/images/2025/01/03/27200695lpw-27200828-mega-une-jpg_10758843.jpg",
+      "publishedAt": "2025-01-03 10:30:00",
+      "content": "La France se dirige-t-elle vers une recrudescence des cas de grippe aviaire, dont un foyer a \u00e9t\u00e9 r\u00e9cemment d\u00e9couvert ? En tout cas, une r\u00e9cente \u00e9volution de la transmission du virus H5N1 pourrait aug\u2026 [+2863 chars]",
+      "retrievedAt": "2025-01-04 19:05:30.052801",
+      "internal_id": "75a48a64c789b0df23f46f43033157c8bf230c37f2716bac211eff445ccfc203",
+      "publishedAtLabel": "Jan 3"
+    },
+    {
+      "id": 17007,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Computerworld.dk",
+      "author": "Kristoffer Ingemand Petersen",
+      "title": "Konkurrence-myndigheder skrider ind: Gransker IBM's opk\u00f8b af cloud-selskab til 46 milliarder kroner",
+      "description": "IBM\u2019s k\u00e6mpeopk\u00f8b af HashiCorp er kommet under lup.",
+      "url": "https://www.computerworld.dk/art/289935/konkurrence-myndigheder-skrider-ind-gransker-ibms-opkoeb-af-cloud-selskab-til-46-milliarder-kroner",
+      "urlToImage": "https://www.computerworld.dk/fil/222801?width=600&height=315&focus=1",
+      "publishedAt": "2025-01-03 08:57:00",
+      "content": "IBMs k\u00e6mpeopk\u00f8b af HashiCorp er kommet under lup.Annonceindl\u00e6g fra HPAI-ekspert Robert Luciani: Den rigtige teknologi er afg\u00f8rende for succes med AI-udvikling Tidligere i \u00e5r blev det annonceret, at \u2026 [+2309 chars]",
+      "retrievedAt": "2025-01-04 19:05:29.059378",
+      "internal_id": "643ba4b451375c3e0c8cb038d9a5137c97e2b61074d30b954b50fe4501c9bf27",
+      "publishedAtLabel": "Jan 3"
+    },
+    {
+      "id": 17015,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Www.vrt.be",
+      "author": null,
+      "title": "VS krijgt vogelgriep bij koeien en pluimvee niet onder controle: \"Reactie bij start van uitbraak was veel te laks\"",
+      "description": "In de Verenigde Staten is het alle hens aan dek om het vogelgriepvirus H5N1 in te perken bij pluimvee en melkvee. Eerder kondigde California al de noodtoestand af en nu maakt de Amerikaanse president Joe Biden bijna 300 miljoen euro vrij om maatregelen te tre\u2026",
+      "url": "https://www.vrt.be/vrtnws/nl/2025/01/03/vogelgriep-verenigde-staten-noodtoestand/",
+      "urlToImage": "https://images.vrt.be/vrtnws_share/2025/01/03/6e68dcf4-8a70-4d78-8949-69406bbf9876.jpg",
+      "publishedAt": "2025-01-03 08:44:01",
+      "content": "Hoe verspreidt het vogelgriepvirus? Zoals de naam zegt, zijn vogels de bron van het virus. Meestal gaat het om wilde (trek)vogels die drinken of eten bij pluimvee. \"Maar plots zie je ook uitbraken \u2026 [+690 chars]",
+      "retrievedAt": "2025-01-04 19:05:30.166693",
+      "internal_id": "2cc6fe58d3fc8bd9e1bf7521b8d41895f6ce2c7a792abc89c2b4aac0f301dfed",
+      "publishedAtLabel": "Jan 3"
+    },
     {
       "id": 17000,
       "query": [
@@ -23987,348 +24347,6 @@
       "content": "Another strain of bird flu (H5N1) has been confirmed at a poultry farm in Cornwall, with a mass cull of the birds ordered by the government. All birds at the St Ives premises will now be humanely k\u2026 [+771 chars]",
       "retrievedAt": "2024-11-19 07:06:57.861182",
       "internal_id": "906fc1246b9aea70bd118b3ef43957d78818ae79de19afdf74eb715df7d406af",
-      "publishedAtLabel": "Nov 17"
-    },
-    {
-      "id": 15657,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Legalinsurrection.com",
-      "author": "Mary Chastain",
-      "title": "Gorsuch: Peanut the Squirrel Shows Overreach of Government",
-      "description": "The New York Department of Conservation euthanized Peanut and Fred the Raccoon and confirmed both tested negative for rabies. The post Gorsuch: Peanut the Squirrel Shows Overreach of Government first appeared on Le\u00b7gal In\u00b7sur\u00b7rec\u00b7tion.",
-      "url": "https://legalinsurrection.com/2024/11/gorsuch-peanut-the-squirrel-shows-overreach-of-government/",
-      "urlToImage": "https://legalinsurrection.com/wp-content/uploads/2024/11/Peanut-the-Squirrel.jpg",
-      "publishedAt": "2024-11-17 19:00:40",
-      "content": "Supreme Court Justice Neil Gorsuch used Peanut the Squirrel as an example of government overreach at the Federalist Society\u2019s annual dinner. From The Hill: Ive just seen too many cases like that. Y\u2026 [+3312 chars]",
-      "retrievedAt": "2024-11-18 19:05:41.850746",
-      "internal_id": "3ac74ad64f8adc7a2012413414f8de7ca8c4e37cac2eeab52f09884c9bedfa90",
-      "publishedAtLabel": "Nov 17"
-    },
-    {
-      "id": 15674,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "KUTV 2News",
-      "author": "Mike Stobbe Ap Medical Writer",
-      "title": "US health officials report 1st case of new form of mpox in traveler",
-      "description": "Health officials said Saturday they have confirmed the first U.S. case of a new form of mpox that was first seen in eastern Congo.The person had traveled to eas",
-      "url": "https://kutv.com/news/nation-world/us-health-officials-report-1st-case-of-new-form-of-mpox-in-traveler",
-      "urlToImage": "https://kutv.com/resources/media2/16x9/2577/986/0x135/90/907c2d9c-2e1d-4c36-ab49-d0f3fdf08f38-AP24321658476826.jpg",
-      "publishedAt": "2024-11-17 18:56:24",
-      "content": "NEW YORK (AP) Health officials said Saturday they have confirmed the first U.S. case of a new form of mpox that was first seen in eastern Congo. The person had traveled to eastern Africa and was tre\u2026 [+2177 chars]",
-      "retrievedAt": "2024-11-18 19:05:45.620236",
-      "internal_id": "5b0e31027f24fbffa05c404f620e888d7c55e8dcf2da79c4ce51b791d6aac0ab",
-      "publishedAtLabel": "Nov 17"
-    },
-    {
-      "id": 15660,
-      "query": [
-        "hpai"
-      ],
-      "source_id": null,
-      "source_name": "Shtfplan.com",
-      "author": "Mac Slavo",
-      "title": "Human Bird Flu Case Found In Oregon",
-      "description": "Oregon has just confirmed its first case of bird flu. The person infected with highly pathogenic avian influenza, or HPAI, was linked to a Clackamas County commercial poultry operation",
-      "url": "https://www.shtfplan.com/headline-news/human-bird-flu-case-found-in-oregon",
-      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2024/05/birdflu1.jpg",
-      "publishedAt": "2024-11-17 18:00:16",
-      "content": "Oregon has just confirmed its first case of bird flu. The person infected with highly pathogenic avian influenza, or HPAI, was linked to a Clackamas County commercial poultry operation The Oregon De\u2026 [+2578 chars]",
-      "retrievedAt": "2024-11-18 19:05:42.908338",
-      "internal_id": "2cd32ff0ea26b57ce336fcb79b978e735065f0de9f731cb0869f06065b67ac61",
-      "publishedAtLabel": "Nov 17"
-    },
-    {
-      "id": 15673,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "KQED",
-      "author": "Lakshmi Sarah",
-      "title": "San Mateo County Reports First Known US Case of Emerging Mpox Strain",
-      "description": "The person had traveled to eastern Africa and was treated in San Mateo County upon return, according to the California Department of Public Health. Symptoms are improving and the risk to the public is low.",
-      "url": "https://www.kqed.org/news/12014826/san-mateo-county-reports-first-known-u-s-case-of-emerging-mpox-strain",
-      "urlToImage": "https://cdn.kqed.org/wp-content/uploads/sites/10/2024/11/AP24321658476826-1020x680.jpg",
-      "publishedAt": "2024-11-17 16:43:18",
-      "content": "More than 3,100 confirmed cases have been reported just since late September, according to the World Health Organization. The vast majority of them have been in three African countries \u2014 Burundi, Uga\u2026 [+1024 chars]",
-      "retrievedAt": "2024-11-18 19:05:45.545454",
-      "internal_id": "3088f26eaf6412fdd2bfe23dfa6bb98d31951d07c8e0d02e7898c10629af5c5d",
-      "publishedAtLabel": "Nov 17"
-    },
-    {
-      "id": 15667,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Vancouver Sun",
-      "author": "Sarah Grochowski",
-      "title": "What to know about the Chikungunya vaccine and where to get it in B.C.",
-      "description": "British Columbians travelling to tropical and subtropical regions have access to a new vaccine following Health Canada's approval of IXCHIQ.",
-      "url": "https://vancouversun.com/news/bc-residents-chikungunya-vaccine",
-      "urlToImage": "https://smartcdn.gprod.postmedia.digital/vancouversun/wp-content/uploads/2024/11/png-1116-valneva-canada-vaccine-1-1.jpg",
-      "publishedAt": "2024-11-17 16:21:07",
-      "content": "British Columbians travelling to tropical and subtropical regions now have access to a new vaccine following Health Canadas approval of IXCHIQ, the worlds first vaccine for the Chikungunya virus. De\u2026 [+3326 chars]",
-      "retrievedAt": "2024-11-18 19:05:45.016359",
-      "internal_id": "c8ef2dbfb652350a15eaa916d868c3c5db879f1ba909e940270122706023b290",
-      "publishedAtLabel": "Nov 17"
-    },
-    {
-      "id": 15664,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "DIE WELT",
-      "author": "Stefan Parsch",
-      "title": "Klimawandel sch\u00fcrt Dengue-Fieber",
-      "description": "Die Asiatische Tigerm\u00fccke ist auch in Deutschland heimisch. Noch \u00fcbertr\u00e4gt sie hierzulande keine Dengue-Viren, aber weltweit nehmen die Krankheitsf\u00e4lle zu \u2013 durch den Klimawandel. Erfolgreiche Versuche in Brasilien lassen nun hoffen, dass Bakterien bei Bek\u00e4mp\u2026",
-      "url": "https://www.welt.de/gesundheit/article254558630/Dengue-Fieber-Klimawandel-foerdert-Ausbreitung-von-Viren-und-deren-Uebertraegern.html",
-      "urlToImage": "https://img.welt.de/img/gesundheit/mobile254558628/0347933747-ci16x9-w1200/A-health-worker-dispense-insecticid-3.jpg",
-      "publishedAt": "2024-11-17 15:17:57",
-      "content": "Die Asiatische Tigerm\u00fccke ist auch in Deutschland heimisch. Noch \u00fcbertr\u00e4gt sie hierzulande keine Dengue-Viren, aber weltweit nehmen die Krankheitsf\u00e4lle zu durch den Klimawandel. Erfolgreiche Versuche\u2026 [+5332 chars]",
-      "retrievedAt": "2024-11-18 19:05:43.711791",
-      "internal_id": "db1d1c33be17c1a541c4436145f595f029d625e8a962d17f7aa7be6efa2396ce",
-      "publishedAtLabel": "Nov 17"
-    },
-    {
-      "id": 15666,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Antaranews.com",
-      "author": "Chairul Rohman, Katriana",
-      "title": "Children, parents campaign for \"Climate Care, Dengue Free\"",
-      "description": "Hundreds of children and parents of the Child Campaigner Save the Children Indonesia group in Jakarta initiated an educational movement with the theme ...",
-      "url": "https://en.antaranews.com/news/334753/children-parents-campaign-for-climate-care-dengue-free",
-      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2024/11/17/WhatsApp-Image-2024-11-17-at-08.56.12.jpeg",
-      "publishedAt": "2024-11-17 15:16:43",
-      "content": "Jakarta (ANTARA) - Hundreds of children and parents of the Child Campaigner Save the Children Indonesia group in Jakarta initiated an educational movement with the theme \"Climate Care, Dengue Free\" i\u2026 [+3216 chars]",
-      "retrievedAt": "2024-11-18 19:05:43.782442",
-      "internal_id": "07c4b4a3ad24b41fe7eb4da8b9d1c47e27eadec3761c1869d5b85ac7c81b8953",
-      "publishedAtLabel": "Nov 17"
-    },
-    {
-      "id": 15656,
-      "query": [
-        "pertussis"
-      ],
-      "source_id": null,
-      "source_name": "Boston.com",
-      "author": "Morgan Rousseau",
-      "title": "Whooping cough and pneumonia on the rise in Mass.",
-      "description": "Cases of the respiratory illnesses are up nationally this year, signaling a return to pre-pandemic levels.",
-      "url": "https://www.boston.com/news/health/2024/11/17/whooping-cough-and-pneumonia-on-the-rise-in-mass/",
-      "urlToImage": "https://bdc2020.o0bc.com/wp-content/uploads/2021/06/BDC_Logo_2020_256x256-60d0abc34135e.png",
-      "publishedAt": "2024-11-17 12:59:00",
-      "content": "Health Public health officials are warning of an uptick in whooping cough and pneumonia cases in Massachusetts and nationwide. Whooping cough, formally known as pertussis, can present like the com\u2026 [+2002 chars]",
-      "retrievedAt": "2024-11-18 19:05:41.454403",
-      "internal_id": "b5c16e64b95d2b113d4b6a35f57308f38a63ff505801153f8e23a991065ee8f4",
-      "publishedAtLabel": "Nov 17"
-    },
-    {
-      "id": 15662,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "die-zeit",
-      "source_name": "Die Zeit",
-      "author": "ZEIT ONLINE: Wissen - Larissa K\u00f6gl",
-      "title": "Denguefieber: Forscher f\u00fchren Anstieg der Dengue-Zahlen auf Klimawandel zur\u00fcck",
-      "description": "Steigende Temperaturen bedeuten laut einer Studie mehr Infektionen mit bestimmten Krankheiten weltweit. Das Denguefieber k\u00f6nne sich etwa rasant ausbreiten.",
-      "url": "https://www.zeit.de/wissen/2024-11/denguefieber-klimawandel-ausbreitung-studie",
-      "urlToImage": "https://img.zeit.de/wissen/2024-11/denguefieber-klimawandel-ausbreitung-studie-bild/wide__1300x731",
-      "publishedAt": "2024-11-17 12:29:12",
-      "content": "Bei vielen Infektionskrankheiten ist einer Studie zufolge der Klimawandel f\u00fcr den Anstieg der Fallzahlen und eine Ausbreitung der Erreger verantwortlich. Dies gelte auch f\u00fcr Denguefieber, teilte das \u2026 [+2642 chars]",
-      "retrievedAt": "2024-11-18 19:05:43.693572",
-      "internal_id": "90edf6337316ce913e31d071c2111ef97de0ae46ff2854cad5d9035817bf5ce7",
-      "publishedAtLabel": "Nov 17"
-    },
-    {
-      "id": 15659,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "BusinessLine",
-      "author": "Team BL",
-      "title": "Measles: An avoidable surge",
-      "description": "Global measles cases surge in 2023 due to inadequate vaccination coverage, highlighting the need for increased immunization efforts worldwide.",
-      "url": "https://www.thehindubusinessline.com/specials/pulse/measles-an-avoidable-surge/article68878758.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/7qbas0/article68878761.ece/alternates/LANDSCAPE_1200/IMG_USA-MEASLES_CALIFORN_2_1_KECJ5BG5.jpg",
-      "publishedAt": "2024-11-17 12:18:07",
-      "content": "An estimated 10.3 million cases of measles had been reported globally in 2023, a 20 per cent increase from 2022, according to new estimates from the World Health Organization and the US Centers for D\u2026 [+680 chars]",
-      "retrievedAt": "2024-11-18 19:05:42.521549",
-      "internal_id": "6a9e301a7220fa880cc151b1ad150f4be4a2477256d74262aa2df4b989440560",
-      "publishedAtLabel": "Nov 17"
-    },
-    {
-      "id": 15668,
-      "query": [
-        "mpox"
-      ],
-      "source_id": "abc-news-au",
-      "source_name": "ABC News (AU)",
-      "author": "ABC News",
-      "title": "US reports first known case of new strain of mpox",
-      "description": "Mpox is a rare disease caused by infection with a virus in the same family as the one that causes smallpox.",
-      "url": "https://www.abc.net.au/news/2024-11-17/united-states-reports-first-clade-i-mpox-case/104612314",
-      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/c69703f380cea256ee833be664ef7e46?impolicy=wcms_watermark_news&cropH=1450&cropW=2577&xPos=0&yPos=134&width=862&height=485&imformat=generic",
-      "publishedAt": "2024-11-17 12:12:05",
-      "content": "Health officials said on Saturday they have confirmed the first US case of a new form of mpox that was first seen in eastern Democratic Republic of Congo (DRC). The person had travelled to eastern A\u2026 [+2549 chars]",
-      "retrievedAt": "2024-11-18 19:05:45.329406",
-      "internal_id": "52bf042d2ac9585d2e7888dc70744ea5ad826c20f2862b4c8ad1f777e2def3cd",
-      "publishedAtLabel": "Nov 17"
-    },
-    {
-      "id": 15658,
-      "query": [
-        "measles"
-      ],
-      "source_id": "the-jerusalem-post",
-      "source_name": "The Jerusalem Post",
-      "author": "BY DR. ITAY GAL",
-      "title": "WHO warns: Measles outbreak spreading alarmingly",
-      "description": "In 2023, 10.3 million measles cases were reported globally, marking a 20% increase from the previous year. The WHO attributes this rise to insufficient vaccination coverage, leading to outbreaks.",
-      "url": "https://www.jpost.com/health-and-wellness/article-829480",
-      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/576447",
-      "publishedAt": "2024-11-17 11:42:15",
-      "content": "The global measles outbreak continues unabated. In 2023, the number of reported measles cases surged by 20%, reaching 10.3 million globally, according to estimates by the World Health Organization (W\u2026 [+2717 chars]",
-      "retrievedAt": "2024-11-18 19:05:42.450272",
-      "internal_id": "fbb487ed2bf7720bb63f59bde3aa7eea601cceb20f4c70c8403b8c989ced1a61",
-      "publishedAtLabel": "Nov 17"
-    },
-    {
-      "id": 15661,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "der-tagesspiegel",
-      "source_name": "Der Tagesspiegel",
-      "author": "Der Tagesspiegel",
-      "title": "Krankheiten: Studie: Klimawandel versch\u00e4rft Ausbreitung des Denguefiebers",
-      "description": "Bestimmte Tigerm\u00fccken f\u00fchlen sich wohl, wenn es muckelig warm ist - mit der Erderw\u00e4rmung breiten sie sich darum regional st\u00e4rker aus. Mit im Gefolge haben sie gef\u00e4hrliche Erreger wie das Dengue-Virus.",
-      "url": "https://www.tagesspiegel.de/wissen/krankheiten-studie-klimawandel-verscharft-ausbreitung-des-denguefiebers-12720668.html",
-      "urlToImage": "https://www.tagesspiegel.de/images/12720665/alternates/BASE_16_9_W1400/1731841276000/mit-modifizierten-mucken-im-kampf-gegen-dengue-in-brasilien.jpeg",
-      "publishedAt": "2024-11-17 11:01:16",
-      "content": "Bei vielen Infektionskrankheiten ist im Zuge des Klimawandels mit einem Anstieg der Fallzahlen und einer Ausbreitung der Erreger zu rechnen. Denguefieber geh\u00f6rt definitiv dazu, wie ein Forschungsteam\u2026 [+5100 chars]",
-      "retrievedAt": "2024-11-18 19:05:43.666484",
-      "internal_id": "96d180857884b047cc9f5ed93de49fe783ede5b3f674e42052332a86d1634873",
-      "publishedAtLabel": "Nov 17"
-    },
-    {
-      "id": 15665,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "STERN.de",
-      "author": "STERN.de",
-      "title": "Krankheiten: Studie: Klimawandel versch\u00e4rft Ausbreitung des Denguefiebers",
-      "description": "Bestimmte Tigerm\u00fccken f\u00fchlen sich wohl, wenn es muckelig warm ist - mit der Erderw\u00e4rmung breiten sie sich darum regional st\u00e4rker aus. Mit im Gefolge haben sie gef\u00e4hrliche Erreger wie das Dengue-Virus.",
-      "url": "https://www.stern.de/panorama/wissen/krankheiten--studie--klimawandel-verschaerft-ausbreitung-des-denguefiebers-35234784.html",
-      "urlToImage": "https://image.stern.de/35234786/t/Zi/v1/w1440/r1.7778/-/17--ysa76rfc2tv24axs2048jpeg---26aa82413a2fef4d.jpg",
-      "publishedAt": "2024-11-17 10:59:45",
-      "content": "Kopiere den aktuellen Link Bestimmte Tigerm\u00fccken f\u00fchlen sich wohl, wenn es muckelig warm ist - mit der Erderw\u00e4rmung breiten sie sich darum regional st\u00e4rker aus. Mit im Gefolge haben sie gef\u00e4hrliche \u2026 [+4567 chars]",
-      "retrievedAt": "2024-11-18 19:05:43.738760",
-      "internal_id": "b8c70be69a04869411606e929bcce3d5348c0b450a3b5ffe961d0fa9cf96bd85",
-      "publishedAtLabel": "Nov 17"
-    },
-    {
-      "id": 15670,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Tass.ru",
-      "author": null,
-      "title": "Angop \u0441\u043e\u043e\u0431\u0449\u0438\u043b\u043e \u043e \u043f\u0435\u0440\u0432\u043e\u043c \u0441\u043b\u0443\u0447\u0430\u0435 \u0437\u0430\u0440\u0430\u0436\u0435\u043d\u0438\u044f \u043e\u0441\u043f\u043e\u0439 \u043e\u0431\u0435\u0437\u044c\u044f\u043d \u0432 \u0410\u043d\u0433\u043e\u043b\u0435",
-      "description": "\u041f\u0440\u043e\u0432\u043e\u0434\u044f\u0442\u0441\u044f \u043c\u0435\u0440\u043e\u043f\u0440\u0438\u044f\u0442\u0438\u044f \u043f\u043e \u0434\u0435\u0437\u0438\u043d\u0444\u0435\u043a\u0446\u0438\u0438 \u0436\u0438\u043b\u044c\u044f \u0438 \u043e\u0442\u0441\u043b\u0435\u0436\u0438\u0432\u0430\u043d\u0438\u044e \u043a\u043e\u043d\u0442\u0430\u043a\u0442\u043e\u0432 \u043f\u0430\u0446\u0438\u0435\u043d\u0442\u0430, \u043e\u0442\u043c\u0435\u0442\u0438\u043b\u043e \u0430\u0433\u0435\u043d\u0442\u0441\u0442\u0432\u043e",
-      "url": "https://tass.ru/obschestvo/22424001",
-      "urlToImage": "https://cdn-storage-media.tass.ru/thumb/ru/obschestvo/22424001?u=2024-11-17T10:51:29.331926",
-      "publishedAt": "2024-11-17 10:51:29",
-      "content": ", 17 . //. mpox ( ) . Angop . , 28- , (). . , . , 500% . 19 50 . , 1048. , , 85,7% 99,5% . , , .",
-      "retrievedAt": "2024-11-18 19:05:45.437246",
-      "internal_id": "b5f7f5ddec67d346064ac2f081c30f626883bfb62c9fcebc4932d7cee7882e6f",
-      "publishedAtLabel": "Nov 17"
-    },
-    {
-      "id": 15671,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Sputniknews.africa",
-      "author": "Sputnik Afrique",
-      "title": "Le premier cas d'infection par une nouvelle souche de mpox a \u00e9t\u00e9 confirm\u00e9 aux \u00c9tats-Unis",
-      "description": "Le cas a \u00e9t\u00e9 d\u00e9tect\u00e9 chez un homme r\u00e9cemment arriv\u00e9 d'Afrique. Il a \u00e9t\u00e9 trait\u00e9, isol\u00e9 de tout contact et est en voie de gu\u00e9rison, indique la Sant\u00e9 publique de Californie.",
-      "url": "https://fr.sputniknews.africa/20241117/le-premier-cas-dinfection-par-une-nouvelle-souche-de-mpox-a-ete-confirme-aux-etats-unis-1069272599.html",
-      "urlToImage": "https://cdn1.img.sputniknews.africa/images/sharing/article/fra/1069272599.jpg?10678475121731839817",
-      "publishedAt": "2024-11-17 10:36:40",
-      "content": "https://fr.sputniknews.africa/20241117/le-premier-cas-dinfection-par-une-nouvelle-souche-de-mpox-a-ete-confirme-aux-etats-unis-1069272599.html Le premier cas d'infection par une nouvelle souche de m\u2026 [+1555 chars]",
-      "retrievedAt": "2024-11-18 19:05:45.469569",
-      "internal_id": "29ee788fbaee5c2620952d349de21b7857f7355796e8b04b3db901f51b93b713",
-      "publishedAtLabel": "Nov 17"
-    },
-    {
-      "id": 15669,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Adevarul.ro",
-      "author": "Laura Macavei",
-      "title": "Primul caz de infectare cu noua tulpin\u0103 mpox, confirmat\u0103 \u00een California",
-      "description": "Oficialii americani din domeniul sanitar au confirmat primul caz de infectare cu noua variant\u0103 mpox (variola maimu\u021bei). Potrivit Departamentului de S\u0103n\u0103tate Public\u0103 din California, pacientul este o persoan\u0103 care s-a \u00eentors recent din Africa de Est.",
-      "url": "https://adevarul.ro/stiri-interne/sanatate/primul-caz-de-infectare-cu-noua-tulpina-mpox-2402181.html",
-      "urlToImage": "https://cdn.adh.reperio.news/image-a/a9d6be9e-cfef-4c31-9e17-a3bc42064fcb/index.jpeg?p=f%3Djpeg%26w%3D1200%26h%3D630%26r%3Dcover",
-      "publishedAt": "2024-11-17 09:40:59",
-      "content": "Oficialii americani din domeniul sanitar au confirmat primul caz de infectare cu noua variant mpox (variola maimuei). Potrivit Departamentului de Sntate Public din California, pacientul este o perso\u2026 [+3175 chars]",
-      "retrievedAt": "2024-11-18 19:05:45.378476",
-      "internal_id": "7b4e606830125ccdf2c28cb3e269ff61a01dd442783e32e823ec93a0641dd3c8",
-      "publishedAtLabel": "Nov 17"
-    },
-    {
-      "id": 15672,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Origo.hu",
-      "author": "Origo",
-      "title": "Agressz\u00edvabb form\u00e1ja jelent meg a majomhiml\u0151nek Amerik\u00e1ban",
-      "description": "A kaliforniai San Mateo megy\u00e9ben jelentett\u00e9k az els\u0151 esetet az Egyes\u00fclt \u00c1llamokban, melyet a majomhiml\u0151 (mpox) fert\u0151z\u00e9s egy s\u00falyosabb t\u00f6rzse okozott - k\u00f6z\u00f6lte az Egyes\u00fclt \u00c1llamok Betegs\u00e9gellen\u0151rz\u00e9si \u00e9s Megel\u0151z\u00e9si K\u00f6zpontja (CDC).",
-      "url": "https://www.origo.hu/tudomany/2024/11/majomhimlo-mpox-amerika-kalifornia-egyes-klad",
-      "urlToImage": "https://cdn.origo.hu/2024/11/DOPE7nHQAY9YFayuR5xslTjUKQ4rmuZwFj9PCKMM2ac/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzRlM2Q2NzUwNjliYTRiZmU5YzM3NWVhMTk5NzRjNDgy.webp",
-      "publishedAt": "2024-11-17 09:24:06",
-      "content": "A vizsg\u00e1latok megers\u00edtett\u00e9k, hogy a mostani majomhiml (mpox) fertz\u00e9ses esetn\u00e9l az I-es kl\u00e1dba tartoz\u00f3 t\u00f6rzset azonos\u00edtott\u00e1k. A kaliforniai k\u00f6zeg\u00e9szs\u00e9g\u00fcgyi hivatal szerint az illet nemr\u00e9g \u00e9rkezett A\u2026 [+970 chars]",
-      "retrievedAt": "2024-11-18 19:05:45.512813",
-      "internal_id": "7be23b0993c6961b62777f641582e6847d234935dc17eed602850b6876cfe4d4",
-      "publishedAtLabel": "Nov 17"
-    },
-    {
-      "id": 15663,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "Ruma Paul",
-      "title": "Bangladesh deaths from dengue cross 400 as outbreak worsens",
-      "description": "DHAKA (Reuters) - Bangladesh is battling its worst outbreak of dengue in years, with more than 400 deaths as rising temperatures and a longer monsoon season drive a surge in infections, leaving hospitals struggling to cope, particularly in urban areas. Read f\u2026",
-      "url": "https://www.thestar.com.my/news/world/2024/11/17/bangladesh-deaths-from-dengue-cross-400-as-outbreak-worsens",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/11/17/3021576.jpg",
-      "publishedAt": "2024-11-17 08:02:00",
-      "content": "DHAKA (Reuters) - Bangladesh is battling its worst outbreak of dengue in years, with more than 400 deaths as rising temperatures and a longer monsoon season drive a surge in infections, leaving hospi\u2026 [+2185 chars]",
-      "retrievedAt": "2024-11-18 19:05:43.705110",
-      "internal_id": "6fa3bcc0c235ae495bd2b0eeb8e12e54690a5b773bc417d35175f8a3c6bb1b97",
       "publishedAtLabel": "Nov 17"
     }
   ]
