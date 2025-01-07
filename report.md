@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 6
-- **Last harvest:** 2025-01-07 07:06
-- **Most recent article:** 2025-01-06 06:40:43
+- **New articles in last harvest:** 17
+- **Last harvest:** 2025-01-07 19:05
+- **Most recent article:** 2025-01-06 18:45:00
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-48 | 24-49 | 24-50 | 24-51 | 24-52 | 24-53 | 25-1 | 25-2 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| h5n1 | 37 | 70 | 61 | 112 | 65 | 27 | 27 | 6 | 405 |
-| malaria | 29 | 27 | 76 | 60 | 30 | 15 | 10 | 3 | 250 |
-| mpox | 26 | 20 | 26 | 92 | 35 | 2 | 6 | 0 | 207 |
-| dengue | 24 | 10 | 33 | 30 | 24 | 6 | 12 | 3 | 142 |
-| measles | 6 | 9 | 10 | 6 | 11 | 3 | 6 | 0 | 51 |
-| rabies | 11 | 13 | 3 | 7 | 8 | 1 | 1 | 1 | 45 |
-| hpai | 0 | 2 | 4 | 6 | 12 | 1 | 4 | 1 | 30 |
-| chikungunya | 4 | 6 | 7 | 8 | 0 | 2 | 0 | 0 | 27 |
+| h5n1 | 34 | 70 | 61 | 112 | 65 | 27 | 27 | 10 | 406 |
+| malaria | 26 | 27 | 76 | 60 | 30 | 15 | 10 | 6 | 250 |
+| mpox | 25 | 20 | 26 | 92 | 35 | 2 | 6 | 1 | 207 |
+| dengue | 21 | 10 | 33 | 30 | 24 | 6 | 12 | 9 | 145 |
+| measles | 5 | 9 | 10 | 6 | 11 | 3 | 6 | 1 | 51 |
+| rabies | 10 | 13 | 3 | 7 | 8 | 1 | 1 | 1 | 44 |
+| hpai | 0 | 2 | 4 | 6 | 12 | 1 | 4 | 3 | 32 |
+| chikungunya | 4 | 6 | 7 | 8 | 0 | 2 | 0 | 1 | 28 |
 | meningitis | 3 | 3 | 7 | 5 | 3 | 1 | 2 | 0 | 24 |
 | pertussis | 1 | 4 | 6 | 4 | 6 | 0 | 1 | 0 | 22 |
-| zika | 1 | 4 | 4 | 4 | 2 | 0 | 0 | 0 | 15 |
+| zika | 1 | 4 | 4 | 4 | 2 | 0 | 0 | 3 | 18 |
 | yersinia | 1 | 0 | 0 | 0 | 6 | 0 | 0 | 0 | 7 |
 | leptospirosis | 2 | 0 | 3 | 0 | 2 | 0 | 0 | 0 | 7 |
 | typhoid | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 2 |
@@ -33,11 +33,33 @@ Source: [News API](https://newsapi.org/)
 
 ---
 
+## 25-2 (zika)
+
+- [Vacina da USP contra Covid-19 apresenta resultados promissores em testes com camundongos](https://veja.abril.com.br/saude/vacina-da-usp-contra-covid-19-apresenta-resultados-promissores-em-testes-com-camundongos) (Abril.com.br)
+
+- [7 dicas para usar o repelente de maneira correta](https://www.terra.com.br/vida-e-estilo/saude/7-dicas-para-usar-o-repelente-de-maneira-correta,d78537fe78fbeac5018427b7f606182fa6rc68ct.html) (Terra.com.br)
+
+- [A low pre-existing anti-NS1 humoral immunity to DENV is associated with microcephaly development after gestational ZIKV exposure](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012193) (Plos.org)
+
 ## 25-2 (rabies)
 
 - [Solana’s PNUT Prodigy Picks DLUME as 2025’s Next Big Thing – Could You Be Next?](https://zycrypto.com/solanas-pnut-prodigy-picks-dlume-as-2025s-next-big-thing-could-you-be-next/) (ZyCrypto)
 
+## 25-2 (mpox)
+
+- [Monday headlines: You still have made a choice](https://themorningnews.org/p/monday-headlines-you-still-have-made-a-choice) (Themorningnews.org)
+
+## 25-2 (measles)
+
+- [New measles case confirmed in Montreal](https://www.cbc.ca/news/canada/montreal/new-measles-case-montreal-1.7423560) (CBC News)
+
 ## 25-2 (malaria)
+
+- [Human mobility and malaria risk in peri-urban and rural communities in the Peruvian Amazon](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012058) (Plos.org)
+
+- [Malian field isolates provide insight into Plasmodium malariae intra-erythrocytic development and invasion](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012790) (Plos.org)
+
+- [Cell wall components of gut commensal bacteria stimulate peritrophic matrix formation in malaria vector mosquitoes through activation of the IMD pathway](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002967) (Plos.org)
 
 - [Text (actual latters) change when saving to PDF from Word. WTF?](https://ask.metafilter.com/383833/Text-actual-latters-change-when-saving-to-PDF-from-Word-WTF) (Metafilter.com)
 
@@ -47,9 +69,21 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-2 (hpai)
 
+- [CEO for børsnoteret cybersikkerheds-selskab er død i en alder af 54](https://www.computerworld.dk/art/289965/ceo-for-boersnoteret-cybersikkerheds-selskab-er-doed-i-en-alder-af-54) (Computerworld.dk)
+
+- [Ny bog klæder ledere på til at navigere i data og kunstig intelligens](https://www.computerworld.dk/art/289914/ny-bog-klaeder-ledere-paa-til-at-navigere-i-data-og-kunstig-intelligens) (Computerworld.dk)
+
 - [California egg prices continue to rise amid bird flu outbreaks](http://en.people.cn/n3/2025/0106/c90000-20262239.html) (People.cn)
 
 ## 25-2 (h5n1)
+
+- [Monday headlines: You still have made a choice](https://themorningnews.org/p/monday-headlines-you-still-have-made-a-choice) (Themorningnews.org)
+
+- [Virusvariante H5N1 festgestellt - Vogelgrippe an Gans in Frankfurt nachgewiesen](https://www.bild.de/regional/hessen/vogelgrippe-an-frankfurter-gans-nachgewiesen-677bfc250195b908c189bd12) (Bild)
+
+- [Tierseuche: Vogelgrippe an Frankfurter Gans nachgewiesen](https://www.zeit.de/news/2025-01/06/vogelgrippe-an-frankfurter-gans-nachgewiesen) (Die Zeit)
+
+- [First H5 Bird Flu Death Reported in United States](https://www.cdc.gov/media/releases/2025/m0106-h5-birdflu-death.html) (Cdc.gov)
 
 - [Estimating the benefits of a new flu drug (BXM)](https://www.lesswrong.com/posts/son5eEGymm4h856J9/estimating-the-benefits-of-a-new-flu-drug-bxm) (Lesswrong.com)
 
@@ -65,11 +99,27 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-2 (dengue)
 
+- [Vacina da USP contra Covid-19 apresenta resultados promissores em testes com camundongos](https://veja.abril.com.br/saude/vacina-da-usp-contra-covid-19-apresenta-resultados-promissores-em-testes-com-camundongos) (Abril.com.br)
+
+- [7 dicas para usar o repelente de maneira correta](https://www.terra.com.br/vida-e-estilo/saude/7-dicas-para-usar-o-repelente-de-maneira-correta,d78537fe78fbeac5018427b7f606182fa6rc68ct.html) (Terra.com.br)
+
+- [Tiger Health Update: চেহারার এ কী হাল! শার্টলেস ছবি পোস্ট করে কী লিখলেন টাইগার?](https://bengali.indianexpress.com/entertainment/tiger-shroff-shares-shirtless-photo-after-recovering-dengue-8596020) (The Indian Express)
+
+- [Casos de dengue crescem em SC e vacinação ainda enfrenta desafios](https://www.metropoles.com/brasil/casos-de-dengue-crescem-em-sc-e-vacinacao-ainda-enfrenta-desafios) (Metropoles.com)
+
+- [Number of dengue cases drop, one death recorded in EPI week 52](https://www.thestar.com.my/news/nation/2025/01/06/number-of-dengue-cases-drop-one-death-recorded-in-epi-week-52) (The Star Online)
+
+- [Migrantes que cruzan el Darién, con salud comprometida: OPS](https://www.jornada.com.mx/2025/01/06/politica/006n2pol) (Jornada.com.mx)
+
 - [Guerrero cierra el 2024 con casi siete mil casos de dengue y 61 muertes](https://www.excelsior.com.mx/nacional/dengue-guerrero-cierra-el-2024-con-casi-siete-mil-casos-y-61-muertes/1692712) (Excelsior.com.mx)
 
 - [4 fatos indispensáveis sobre a dengue que você precisa conhecer](https://catracalivre.com.br/saude-bem-estar/fatos-dengue-precisa-saber/) (Catracalivre.com.br)
 
 - [En plena temporada: qué medidas preventivas hay en la costa para evitar aumentos de casos de dengue](https://www.lanacion.com.ar/sociedad/en-plena-temporada-que-medidas-preventivas-hay-en-la-costa-para-evitar-aumentos-de-casos-de-dengue-nid05012025/) (La Nacion)
+
+## 25-2 (chikungunya)
+
+- [7 dicas para usar o repelente de maneira correta](https://www.terra.com.br/vida-e-estilo/saude/7-dicas-para-usar-o-repelente-de-maneira-correta,d78537fe78fbeac5018427b7f606182fa6rc68ct.html) (Terra.com.br)
 
 ## 25-1 (rabies)
 
@@ -2387,8 +2437,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Examining the molecular clock hypothesis for the contemporary evolution of the rabies virus](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012740) (Plos.org)
 
-- [Boldy James and Benny The Butcher Play With Art and Reality On ‘Rabies’](http://www.rollingstone.com/music/music-features/boldy-james-and-benny-the-butcher-rabies-new-song-1235176806/) (Rolling Stone)
-
 ## 24-48 (pertussis)
 
 - [Improving vaccine uptake during pregnancy](https://www.bmj.com/content/387/bmj.q2631) (The BMJ)
@@ -2445,8 +2493,6 @@ Source: [News API](https://newsapi.org/)
 
 - [World News in Brief: Mpox update, Haiti violence, deadly strikes in Ukraine, Pakistan attack condemned](https://www.globalsecurity.org/military/library/news/2024/11/mil-241122-unnews01.htm) (Globalsecurity.org)
 
-- [Face au Mpox, la nécessaire sécurisation des marchés de viande sauvage](https://www.jeuneafrique.com/1633221/societe/face-au-mpox-la-necessaire-securisation-des-marches-de-viande-sauvage/) (Jeune Afrique)
-
 ## 24-48 (meningitis)
 
 - [Press release: UK on brink of defeating meningococcal C](https://www.gov.uk/government/news/uk-on-brink-of-defeating-meningococcal-c) (Www.gov.uk)
@@ -2466,8 +2512,6 @@ Source: [News API](https://newsapi.org/)
 - [Germany sees dramatic rise in measles cases](https://www.dw.com/en/germany-sees-dramatic-rise-in-measles-cases/a-70901183) (DW (English))
 
 - [I’ll never forget what Robert F. Kennedy Jnr did during Samoa’s measles outbreak - Brian Deer](https://www.nzherald.co.nz/world/ill-never-forget-what-robert-f-kennedy-jnr-did-during-samoas-measles-outbreak-brian-deer/WCBALRD42RDDDHQQ2C65DYD6LM/) (New Zealand Herald)
-
-- [The Fundamental Problem with R.F.K., Jr.,’s Nomination to H.H.S.](https://www.newyorker.com/magazine/2024/12/02/the-fundamental-problem-with-rfk-jrs-nomination-to-hhs) (The New Yorker)
 
 ## 24-48 (malaria)
 
@@ -2522,12 +2566,6 @@ Source: [News API](https://newsapi.org/)
 - [Simak Penyebab, Gejala, Pengobatan, dan Pencegahan Malaria Tropika](https://kalbaronline.com/2024/11/26/simak-penyebab-gejala-pengobatan-dan-pencegahan-malaria-tropika/) (Kalbaronline.com)
 
 - [Nigeria loses $1.1bn annually to malaria, Health minister laments](https://punchng.com/nigeria-loses-1-1bn-annually-to-malaria-health-minister-laments/) (The Punch)
-
-- [Plasmodium falciparum molecular surveillance to inform the Mozambican National Malaria Control Programme strategy: protocol](https://bmjopen.bmj.com/content/14/11/e092590) (The BMJ)
-
-- [Durchbruch gegen die Krankheit? - Erste Malaria-Impfung per Mückenstich!](https://www.bild.de/leben-wissen/wissenschaft/mueckenstiche-als-impfung-durchbruch-gegen-malaria-6742db4cd3e4b22ff2f6ab7b) (Bild)
-
-- [Au Burkina Faso, Halidou Tinto, artisan d’un nouveau vaccin contre le paludisme](https://www.jeuneafrique.com/1631409/societe/au-burkina-faso-halidou-tinto-artisan-dun-nouveau-vaccin-contre-le-paludisme/) (Jeune Afrique)
 
 ## 24-48 (leptospirosis)
 
@@ -2605,12 +2643,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Avian flu virus sparks mammal mutation concerns in Quebec](https://montrealgazette.com/news/local-news/avian-flu-virus-sparks-mammal-mutation-concerns-in-quebec) (Montreal Gazette)
 
-- [Erstmals Kind in den USA mit Vogelgrippe infiziert](https://www.diepresse.com/19105604/erstmals-kind-in-den-usa-mit-vogelgrippe-infiziert) (Diepresse.com)
-
-- [An menschlichen Wirt angepasst: Vogelgrippe-Virus H5N1 mutiert in Teenager](https://www.n-tv.de/wissen/Vogelgrippe-Virus-H5N1-mutiert-in-Teenager-article25383544.html) (N-tv.de)
-
-- [عودة فيروس قديم..ما السبب وراء ارتفاع حالات إنفلونزا الطيور خلال فصل الخريف؟](https://arabic.cnn.com/science-and-health/video/2024/11/24/v165853-bird-flu-return) (CNN)
-
 ## 24-48 (dengue)
 
 - [Antisipasi Penyebaran Nyamuk DBD, Kodim 0826/Pamekasan Lakukan Fogging](https://suaraindonesia-news.com/antisipasi-penyebaran-nyamuk-dbd-kodim-0826-pamekasan-lakukan-fogging/) (Suaraindonesia-news.com)
@@ -2654,12 +2686,6 @@ Source: [News API](https://newsapi.org/)
 - [കേരളം കാണാൻ വന്ന അയര്‍ലന്‍ഡുകാരന്റെ ജീവനെടുത്ത ഡെങ്കി; മരണം ഇന്ന് മടങ്ങാനിരിക്കെ; വേണം ജാഗ്രത, dengue fever, symptoms of dengue fever, dengue fever death kerala](https://www.mathrubhumi.com/health/news/hike-in-dengue-fever-cases-in-kochi-kerala-1.10108455) (Mathrubhumi.com)
 
 - [Wolbachia mosquito releases to reach 50% of all Singapore households by 2026 to combat dengue](https://www.channelnewsasia.com/singapore/wolbachia-aedes-mosquito-dengue-50-all-households-2026-4768391) (CNA)
-
-- [Alejandro Svarch * y José Moya **: Calor, humedad y mosquitos: crónica de una temporada de dengue](https://www.jornada.com.mx/2024/11/24/opinion/012a2pol) (Jornada.com.mx)
-
-- [En lo que va del año, 262 decesos y más de 110 mil casos de dengue](https://www.jornada.com.mx/2024/11/24/sociedad/027n1soc) (Jornada.com.mx)
-
-- [Alejandro Svarch * y José Moya **: Calor, humedad y mosquitos: crónica de una temporada de dengue](https://www.jornada.com.mx/2024/11/24/politica/012a2pol) (Jornada.com.mx)
 
 ## 24-48 (chikungunya)
 
