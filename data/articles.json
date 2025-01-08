@@ -1,8 +1,1376 @@
 {
-  "last_updated": "2025-01-07 19:05",
-  "count_articles_total": 1199,
-  "count_articles_new": 17,
+  "last_updated": "2025-01-08 07:06",
+  "count_articles_total": 1287,
+  "count_articles_new": 76,
   "articles": [
+    {
+      "id": 17148,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "20 Minutes",
+      "author": "X.M. (20 Minutes)",
+      "title": "Toute l\u2019info en deux minutes : \u00ab Charlie Hebdo \u00bb t\u00eate haute 10 ans apr\u00e8s, variant Mpox et s\u00e9isme au Tibet",
+      "description": "\u00ab 20 Minutes \u00bb compile pour vous les infos qu\u2019il ne faut pas manquer ce mardi matin",
+      "url": "https://www.20minutes.fr/societe/4132322-20250107-toute-info-deux-minutes-charlie-hebdo-tete-haute-10-ans-apres-variant-mpox-seisme-tibet",
+      "urlToImage": "https://img.20mn.fr/kFO1suEpSqmBHXJ_XKDZaSk/1444x920_january-7-2024-anciens-locaux-redaction-charlie-hebdo-rue-nicolas-appert-hommage-9-ans-houplinerenard-1-1533-credit-houpline-renard-sipa-2401071715",
+      "publishedAt": "2025-01-07 07:04:48",
+      "content": "Vous avez manqu\u00e9 les infos de ce d\u00e9but de matin\u00e9e ? On vous a concoct\u00e9 un r\u00e9cap pour vous aider \u00e0 y voir plus clair. En ce 7 janvier, la France se recueille. Il y a dix ans jour pour jour, le pays b\u2026 [+2030 chars]",
+      "retrievedAt": "2025-01-08 07:06:25.929646",
+      "internal_id": "f05b159ca22293eae210f07a1ebd53b77a6704d543a6992ae16bb7a2e2c19835",
+      "publishedAtLabel": "Jan 7"
+    },
+    {
+      "id": 17136,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Le Point",
+      "author": "Thomas Graindorge",
+      "title": "Plus dangereux et plus contagieux, le nouveau variant du mpox d\u00e9tect\u00e9 en France",
+      "description": "Le variant clade 1b du virus a ete pour la premiere fois detecte chez une malade, en Bretagne. Les autorites sanitaires s'attendent a ce que de nouveaux cas soient reperes.",
+      "url": "https://www.lepoint.fr/sante/plus-dangereux-et-plus-contagieux-le-nouveau-variant-du-virus-mpox-detecte-en-france-07-01-2025-2579350_40.php",
+      "urlToImage": "https://static.lpnt.fr/images/2025/01/07/27205372lpw-27205389-mega-une-jpg_10763666.jpg",
+      "publishedAt": "2025-01-07 07:01:00",
+      "content": "Jusqu'\u00e0 maintenant, la France avait \u00e9t\u00e9 \u00e9pargn\u00e9e. Comme rapport\u00e9 par nos confr\u00e8res de Ouest-France, un premier cas du nouveau variant du virus mpox (anciennement variole du singe) a \u00e9t\u00e9 d\u00e9tect\u00e9 en Br\u2026 [+3132 chars]",
+      "retrievedAt": "2025-01-08 07:06:25.842433",
+      "internal_id": "51ce131422428e9b51bcf8a9f41ff7e790f9ed68f5ede917d0ed15a78c6b1e87",
+      "publishedAtLabel": "Jan 7"
+    },
+    {
+      "id": 17142,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Der Tagesspiegel",
+      "title": "Frau aus der Bretagne infiziert: Frankreich meldet ersten Fall der neuen Mpox-Variante",
+      "description": "Fieber, Muskelschmerzen, pocken\u00e4hnliche Pusteln: In Westfrankreich ist erstmals die \u201eKlade 1b\u201c des Mpox-Virus aufgetreten. Die Beh\u00f6rden suchen nun nach der Quelle der Infektion.",
+      "url": "https://www.tagesspiegel.de/wissen/frau-aus-der-bretagne-infiziert-frankreich-meldet-ersten-fall-der-neuen-mpox-variante-12971626.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/12971641/alternates/BASE_16_9_W1400/1736232913000/mpox.jpeg",
+      "publishedAt": "2025-01-07 07:00:08",
+      "content": "In Frankreich ist erstmals eine Infektion mit der neuen Mpox-Variante Klade 1b nachgewiesen worden. Der Fall sei in der westfranz\u00f6sischen Region Bretagne best\u00e4tigt worden, erkl\u00e4rte das Gesundheitsmin\u2026 [+2785 chars]",
+      "retrievedAt": "2025-01-08 07:06:25.884990",
+      "internal_id": "84cfe4fb8c6ab1d0a1374050368a4cdf411707498a2b5b96374ecd02243d0580",
+      "publishedAtLabel": "Jan 7"
+    },
+    {
+      "id": 17143,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "L'Express",
+      "author": "L\u2019Express",
+      "title": "Mpox : ce que l\u2019on sait du premier cas du nouveau variant d\u00e9tect\u00e9 en France",
+      "description": "Un premier cas de mpox de clade 1b a \u00e9t\u00e9 d\u00e9tect\u00e9 en France cette semaine, selon le minist\u00e8re de la Sant\u00e9 qui se veut rassurant sur le risque d\u2019infection pour la population g\u00e9n\u00e9rale.",
+      "url": "https://www.lexpress.fr/sciences-sante/sante/mpox-ce-que-lon-sait-du-premier-cas-du-nouveau-variant-detecte-en-france-SUMZTPBEL5EXPPFKTTXH7J33MY/",
+      "urlToImage": "https://www.lexpress.fr/resizer/v2/3WPFJ75725DBRDCETUUWDRGJ3E.jpg?auth=0783179224387bf286d9fff33548fbd994602eb6af5cb38bfd71ba60a5dbcc7b&width=1200&height=630&quality=85&focal=991%2C610",
+      "publishedAt": "2025-01-07 06:50:39",
+      "content": "Cest le premier cas en France, qui devient ainsi le cinqui\u00e8me pays europ\u00e9en touch\u00e9. Selon des informations du journal Ouest France, une femme domicili\u00e9e en Bretagne a \u00e9t\u00e9 d\u00e9tect\u00e9e positive \u00e0 la nouve\u2026 [+2814 chars]",
+      "retrievedAt": "2025-01-08 07:06:25.893361",
+      "internal_id": "878b2383c4b060f6b3c2fe912efba321b2aaeca11dcbd8593d80b1ddbb4311f7",
+      "publishedAtLabel": "Jan 7"
+    },
+    {
+      "id": 17122,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "N-tv.de",
+      "author": "n-tv NACHRICHTEN",
+      "title": "Klade 1b gilt als gef\u00e4hrlicher: Frankreich weist Infektion mit neuer Mpox-Variante nach",
+      "description": "Nach belegten F\u00e4llen der neuen Mpox-Variante Klade 1b etwa in Gro\u00dfbritannien und Deutschland wird sie jetzt auch in Frankreich nachgewiesen. Der betroffene Patient war selbst nicht in Afrika, wo das Virus derzeit grassiert. Das Gesundheitsministerium ist dem \u2026",
+      "url": "https://www.n-tv.de/panorama/Frankreich-weist-Infektion-mit-neuer-Mpox-Variante-nach-article25470967.html",
+      "urlToImage": "https://bilder3.n-tv.de/img/incoming/crop25470934/2731322612-cImg_16_9-w1200/imago753688920.jpg",
+      "publishedAt": "2025-01-07 06:35:26",
+      "content": "Nach belegten F\u00e4llen der neuen Mpox-Variante Klade 1b etwa in Gro\u00dfbritannien und Deutschland wird sie jetzt auch in Frankreich nachgewiesen. Der betroffene Patient war selbst nicht in Afrika, wo das \u2026 [+1779 chars]",
+      "retrievedAt": "2025-01-08 07:06:25.729816",
+      "internal_id": "d92f1314a29da3ad1aa76e7c94606d4a806a0d6e5f67b954d8a20baef84aea95",
+      "publishedAtLabel": "Jan 7"
+    },
+    {
+      "id": 17075,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Computerworld.dk",
+      "author": "Jacob \u00d8. Wittorff",
+      "title": "Flere virksomheder ramt af datal\u00e6k i forbindelse med cyberangreb p\u00e5 Alles L\u00e6gehus",
+      "description": "Flere danske virksomheder blev af cyberangreb og datal\u00e6k samme dag, som Alles L\u00e6gehus. Datatilsynet unders\u00f8ger nu om, der er en sammenh\u00e6ng.",
+      "url": "https://www.computerworld.dk/art/289968/flere-virksomheder-ramt-af-datalaek-i-forbindelse-med-cyberangreb-paa-alles-laegehus",
+      "urlToImage": "https://www.computerworld.dk/fil/212671?width=600&height=315&focus=1",
+      "publishedAt": "2025-01-07 06:12:00",
+      "content": "Flere danske virksomheder blev af cyberangreb og datal\u00e6k samme dag, som Alles L\u00e6gehus. Datatilsynet unders\u00f8ger nu om, der er en sammenh\u00e6ng.Annonceindl\u00e6g fra HPAI-ekspert Robert Luciani: Den rigtige t\u2026 [+1293 chars]",
+      "retrievedAt": "2025-01-08 07:06:22.210865",
+      "internal_id": "bbe55605693c29bb972aa72273a12369550e4b175f3e0125de49c6cd77c357e3",
+      "publishedAtLabel": "Jan 7"
+    },
+    {
+      "id": 17120,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Mediafax.ro",
+      "author": "Andreea Tobias",
+      "title": "Fran\u0163a: prima infec\u0163ie cu noua variant\u0103 a virusului mpox, cea mai periculoas\u0103 p\u00e2n\u0103 acum",
+      "description": "Autorit\u0103\u0163ile franceze confirm\u0103 primul caz al noii variante a virusului mpox (fost\u0103 variol\u0103 maimu\u0163ei) pe teritoriul \u0163\u0103rii.",
+      "url": "https://www.mediafax.ro/externe/franta-prima-infectie-cu-noua-varianta-a-virusului-mpox-cea-mai-periculoasa-pana-acum-22636633",
+      "urlToImage": "https://storage0.dms.mpinteractiv.ro/media/1/1/3614/22636633/1/vaiolo.jpg?width=640",
+      "publishedAt": "2025-01-07 06:11:07",
+      "content": "O femeie din regiunea Bretania a fost diagnosticat cu clada 1b, considerat cea mai contagioas i letal variant a virusului p\u00e2n \u00een prezent, transmite AFP. Femeia nu a cltorit \u00een Africa Central, dar \u2026 [+1692 chars]",
+      "retrievedAt": "2025-01-08 07:06:25.715925",
+      "internal_id": "7ca8d5b08cf8b433c56c5b47dede1b2e6522d6aee81f13fa0478d40c6bf98658",
+      "publishedAtLabel": "Jan 7"
+    },
+    {
+      "id": 17092,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Mediafax.ro",
+      "author": "Andreea Tobias",
+      "title": "Primul deces cauzat de gripa aviar\u0103 \u00een SUA",
+      "description": "O persoan\u0103 \u00een v\u00e2rst\u0103 de peste 65 de ani din statul Louisiana a devenit prima victim\u0103 a gripei aviare \u00een Statele Unite.",
+      "url": "https://www.mediafax.ro/externe/primul-deces-cauzat-de-gripa-aviara-in-sua-22636598",
+      "urlToImage": "https://storage0.dms.mpinteractiv.ro/media/1/1/3614/22636598/1/gripa-aviara-h5n1.jpg?width=640",
+      "publishedAt": "2025-01-07 05:56:15",
+      "content": "Pacientul, care suferea i de alte boli, a luat virusul H5N1 dup ce a fost expus la psri de curte necomerciale i psri slbatice, anun autoritile sanitare americane, potrivit AFP. Centrul pentru Cont\u2026 [+2099 chars]",
+      "retrievedAt": "2025-01-08 07:06:22.739919",
+      "internal_id": "1ab14ab281532e8a86d4eb9d27298843860dccea54d9f25aadf59dd6219a419e",
+      "publishedAtLabel": "Jan 7"
+    },
+    {
+      "id": 17101,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "lenta",
+      "source_name": "Lenta",
+      "author": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0430 \u0421\u0438\u043d\u0438\u0446\u044b\u043d\u0430",
+      "title": "\u0412 \u0421\u0428\u0410 \u0437\u0430\u0444\u0438\u043a\u0441\u0438\u0440\u043e\u0432\u0430\u043d \u043f\u0435\u0440\u0432\u044b\u0439 \u0441\u043b\u0443\u0447\u0430\u0439 \u0441\u043c\u0435\u0440\u0442\u0438 \u043e\u0442 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430",
+      "description": "\u041f\u0435\u0440\u0432\u044b\u0439 \u0441\u043b\u0443\u0447\u0430\u0439 \u0441\u043c\u0435\u0440\u0442\u0438 \u043e\u0442 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430 \u0442\u0438\u043f\u0430 H5N1 \u0437\u0430\u0444\u0438\u043a\u0441\u0438\u0440\u043e\u0432\u0430\u043b\u0438 \u0432 \u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u043e\u043c \u0448\u0442\u0430\u0442\u0435 \u041b\u0443\u0438\u0437\u0438\u0430\u043d\u0430. \u041e\u0431 \u044d\u0442\u043e\u043c \u0440\u0430\u0441\u0441\u043a\u0430\u0437\u0430\u043b\u0438 \u0432 \u043f\u0440\u0435\u0441\u0441-\u0441\u043b\u0443\u0436\u0431\u0435 \u043c\u0435\u0441\u0442\u043d\u043e\u0433\u043e \u0434\u0435\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442\u0430 \u0437\u0434\u0440\u0430\u0432\u043e\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f",
+      "url": "https://lenta.ru/news/2025/01/07/v-ssha-zafiksirovan-pervyy-sluchay-smerti-ot-ptichiego-grippa/",
+      "urlToImage": "https://icdn.lenta.ru/assets/webpack/images/lenta_og.8735b949.png",
+      "publishedAt": "2025-01-07 05:50:35",
+      "content": "",
+      "retrievedAt": "2025-01-08 07:06:22.811124",
+      "internal_id": "b061494915bd3d8ce9f9cbd73fd0d7bab47194af306a4e7316863f2bf1dae6a0",
+      "publishedAtLabel": "Jan 7"
+    },
+    {
+      "id": 17097,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Bankier.pl",
+      "author": "Redaktor Bankier.pl",
+      "title": "W USA pierwszy zgon z powodu ptasiej grypy",
+      "description": "W\u0142adze odpowiedzialne za zdrowie publiczne w stanie Luizjana poinformowa\u0142y o \u015bmierci pierwszej osoby w USA zaka\u017conej wirusem ptasiej grypy (H5N1). Zmar\u0142y to 65-letni m\u0119\u017cczyzna, kt\u00f3ry w grudniu trafi\u0142 do szpitala w ci\u0119\u017ckim stanie.",
+      "url": "https://www.bankier.pl/wiadomosc/W-USA-pierwszy-zgon-z-powodu-ptasiej-grypy-8870098.html",
+      "urlToImage": "https://galeria.bankier.pl/p/4/4/d0ad70a3a6a8b6-948-568-0-47-1721-1032.jpg",
+      "publishedAt": "2025-01-07 05:43:00",
+      "content": "Wadze odpowiedzialne za zdrowie publiczne w stanie Luizjana poinformoway o mierci pierwszej osoby w USA zakaonej wirusem ptasiej grypy (H5N1). Zmary to 65-letni mczyzna, kt\u00f3ry w grudniu trafi do szpi\u2026 [+1659 chars]",
+      "retrievedAt": "2025-01-08 07:06:22.783521",
+      "internal_id": "abc15034cc7162e8879553d27b11e2e88430bf75759f2904244b227d74e251aa",
+      "publishedAtLabel": "Jan 7"
+    },
+    {
+      "id": 17141,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Digi24.ro",
+      "author": "Bogdan Enache",
+      "title": "Primul caz de \u00eemboln\u0103vire cu noua variant\u0103 mpox detectat \u00een Fran\u021ba",
+      "description": "Fran\u0163a a confirmat primul s\u0103u caz de virus mpox, varianta cladei 1b, \u00een Bretania, a anun\u0163at luni Ministerul S\u0103n\u0103t\u0103\u0163ii. OMS continu\u0103 s\u0103 men\u0163in\u0103 alerta maxim\u0103 pe fondul epidemiei \u00een curs. M\u0103surile de monitorizare \u015fi control al r\u0103sp\u00e2ndirii, legate de transmitere\u2026",
+      "url": "https://www.digi24.ro/stiri/externe/ue/primul-caz-de-imbolnavire-cu-noua-varianta-mpox-detectat-in-franta-3070821",
+      "urlToImage": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjQl/MkYxMSUyRjIyJTJGMjEzNDc2NV8yMTM0/NzY1X3NodXR0ZXJzdG9ja18yNTAyODg4/NzkzLmpwZyZ3PTEyMDAmaD02MzAmemM9/MSZoYXNoPTBjMGRjNDllMmE1OGM4ZDQxMzMwODMxOGZmNjc2MTA2.thumb.jpg",
+      "publishedAt": "2025-01-07 05:37:50",
+      "content": "Frana a confirmat primul su caz de virus mpox, varianta cladei 1b, \u00een Bretania, a anunat luni Ministerul Sntii. OMS continu s menin alerta maxim pe fondul epidemiei \u00een curs. Msurile de monitorizare i\u2026 [+1437 chars]",
+      "retrievedAt": "2025-01-08 07:06:25.878231",
+      "internal_id": "08d31c5fec9e9f7fed436a4a585244a8a160298aa6cd7e644c81e2165029f108",
+      "publishedAtLabel": "Jan 7"
+    },
+    {
+      "id": 17146,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Peru21.pe",
+      "author": "Redacci\u00f3n PER\u00da21",
+      "title": "Un primer caso de la nueva variante de mpox identificado en Francia",
+      "description": "Un primer caso de la nueva variante de mpox identificado en Francia | El paciente es alguien que ha estado en contacto con dos personas que regresaron de \u00c1frica.",
+      "url": "https://peru21.pe/mundo/un-primer-caso-de-la-nueva-variante-de-mpox-identificado-en-francia",
+      "urlToImage": "https://peru21-pe.b-cdn.net/sites/default/efsfiles/2025-01/mpox.jpeg",
+      "publishedAt": "2025-01-07 05:33:09",
+      "content": "Un primer caso de la nueva variante de mpox fue identificado en Francia, indic\u00f3 este lunes el Ministerio de Salud de ese pa\u00eds, en un comunicado que confirm\u00f3 una informaci\u00f3n de un diario local. El Mi\u2026 [+1816 chars]",
+      "retrievedAt": "2025-01-08 07:06:25.915040",
+      "internal_id": "ee4122ba01a36d1eef342a286015395ea96f75d077c1aaed8856237a0964d611",
+      "publishedAtLabel": "Jan 7"
+    },
+    {
+      "id": 17119,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Telegraaf.nl",
+      "author": "onze correspondent",
+      "title": "Eerste besmetting met nieuwe mpox-variant gemeld in Frankrijk",
+      "description": "In Frankrijk is voor het eerst een besmetting gemeld met de nieuwe, besmettelijkere variant van het mpox-virus. De pati\u00ebnt woont in Bretagne en er zijn voorzorgsmaatregelen genomen, meldt het Franse ministerie van Volksgezondheid.",
+      "url": "https://www.telegraaf.nl/nieuws/189484568/eerste-besmetting-met-nieuwe-mpox-variant-gemeld-in-frankrijk",
+      "urlToImage": "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/22a84d08-ccb3-11ef-a5ed-f6c322f11ffe.jpg",
+      "publishedAt": "2025-01-07 04:52:02",
+      "content": "\u00a9 ANP / Imago Stock &amp; People In Frankrijk is voor het eerst een besmetting gemeld met de nieuwe, besmettelijkere variant van het mpox-virus.",
+      "retrievedAt": "2025-01-08 07:06:25.708602",
+      "internal_id": "8be48d94ce025320fdfdc4cc01d93d55a08da107ce09cd56ae79b3bade37bc1b",
+      "publishedAtLabel": "Jan 7"
+    },
+    {
+      "id": 17115,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "lenta",
+      "source_name": "Lenta",
+      "author": "\u041c\u0430\u0440\u0438\u043d\u0430 \u0421\u043e\u0432\u0438\u043d\u0430",
+      "title": "\u0412 \u0421\u0428\u0410 \u0437\u0430\u0444\u0438\u043a\u0441\u0438\u0440\u043e\u0432\u0430\u043b\u0438 \u043f\u0435\u0440\u0432\u0443\u044e \u0441\u043c\u0435\u0440\u0442\u044c \u043e\u0442 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430",
+      "description": "\u0412 \u0421\u0428\u0410 \u0432\u043f\u0435\u0440\u0432\u044b\u0435 \u0437\u0430\u0444\u0438\u043a\u0441\u0438\u0440\u043e\u0432\u0430\u043b\u0438 \u0441\u043c\u0435\u0440\u0442\u044c \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u0430 \u043e\u0442 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430 H5N1. \u041e\u0431 \u044d\u0442\u043e\u043c \u0441\u043e\u043e\u0431\u0449\u0438\u043b\u0430 \u043f\u0440\u0435\u0441\u0441-\u0441\u043b\u0443\u0436\u0431\u0430 \u0414\u0435\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442\u0430 \u0437\u0434\u0440\u0430\u0432\u043e\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f \u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u043e\u0433\u043e \u0448\u0442\u0430\u0442\u0430 \u041b\u0443\u0438\u0437\u0438\u0430\u043d\u0430",
+      "url": "https://lenta.ru/news/2025/01/07/v-ssha-zafiksirovali-pervuyu-smert-ot-ptichiego-grippa/",
+      "urlToImage": "https://icdn.lenta.ru/images/2025/01/07/06/20250107063725600/share_ffb7280cb19cf5cebc4408fe9a7d170a.jpg",
+      "publishedAt": "2025-01-07 03:35:00",
+      "content": ": IMAGO / www.imago-images.de / Global Look Press",
+      "retrievedAt": "2025-01-08 07:06:22.927338",
+      "internal_id": "921574303d00a8a383393daba9ddee3300c601c8cb205da855cb16ff34829de8",
+      "publishedAtLabel": "Jan 7"
+    },
+    {
+      "id": 17128,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Berliner Morgenpost",
+      "author": "FUNKE Mediengruppe",
+      "title": "Mpox: Frankreich meldet erste Infektion mit Variante Klade 1b",
+      "description": "Frankreich hat den ersten Infizierten mit der neuen Mpox-Variante gemeldet. Die erkrankte Person selbst war nicht in ein Risikogebiet gereist.",
+      "url": "https://www.morgenpost.de/panorama/article408027249/mpox-frankreich-meldet-erste-infektion-mit-variante-klade-1b.html",
+      "urlToImage": "https://img.sparknews.funkemedien.de/407916520/407916520_1736219397_v16_9_1600.jpeg",
+      "publishedAt": "2025-01-07 03:09:58",
+      "content": "Berlin. Frankreich hat den ersten Infizierten mit der neuen Mpox-Variante gemeldet. Die erkrankte Person selbst war nicht in ein Risikogebiet gereist. In Frankreich ist erstmals eine Infektion mit d\u2026 [+2082 chars]",
+      "retrievedAt": "2025-01-08 07:06:25.772608",
+      "internal_id": "e279b065193d68986247f30e08b4f9f6aa929d81efed0ff60e76f3064459204d",
+      "publishedAtLabel": "Jan 7"
+    },
+    {
+      "id": 17127,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "bild",
+      "source_name": "Bild",
+      "author": "BILD",
+      "title": "\u201eKlade 1b\u201c breitet sich aus - Frankreich: Erste Infektion mit neuer Mpox-Variante",
+      "description": "In Frankreich ist erstmals eine Infektion mit der neuen Mpox-Variante Klade 1b nachgewiesen worden. Der Fall sei in der westfranz\u00f6si...",
+      "url": "https://www.bild.de/leben-wissen/affenpocken-in-frankreich-1-infektion-mit-mpox-variante-klade-1b-677c90e10195b908c189c096",
+      "urlToImage": "https://images.bild.de/677c90e10195b908c189c096/2e5e8d2714d6b554cc7cece23334c06d-landscape,55252d79?w=1280",
+      "publishedAt": "2025-01-07 02:35:22",
+      "content": "In Frankreich ist erstmals eine Infektion mit der neuen Mpox-Variante Klade 1b nachgewiesen worden. Der Fall sei in der westfranz\u00f6sischen Region Bretagne best\u00e4tigt worden, erkl\u00e4rte das Gesundheitsmin\u2026 [+1384 chars]",
+      "retrievedAt": "2025-01-08 07:06:25.765256",
+      "internal_id": "136ff0964127a88bf96b473c41e3128b54dbe52ea7f0f3d121d06d10c24cfe45",
+      "publishedAtLabel": "Jan 7"
+    },
+    {
+      "id": 17107,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Mail.ru",
+      "author": "\u0414\u0438\u0430\u043d\u0430 \u0414\u044c\u044f\u043a\u043e\u0432\u0430",
+      "title": "\u0412 \u0421\u0428\u0410 \u0437\u0430\u044f\u0432\u0438\u043b\u0438 \u043e \u043f\u0435\u0440\u0432\u043e\u0439 \u0436\u0435\u0440\u0442\u0432\u0435 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430 H5N1",
+      "description": "\u0416\u0438\u0442\u0435\u043b\u044c \u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u043e\u0433\u043e \u0448\u0442\u0430\u0442\u0430 \u041b\u0443\u0438\u0437\u0438\u0430\u043d\u0430 \u0441\u043a\u043e\u043d\u0447\u0430\u043b\u0441\u044f \u043e\u0442 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430 H5N1. \u041f\u043e \u0434\u0430\u043d\u043d\u044b\u043c \u043c\u0435\u0441\u0442\u043d\u043e\u0433\u043e \u0434\u0435\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442\u0430 \u0437\u0434\u0440\u0430\u0432\u043e\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f, \u044d\u0442\u043e \u043f\u0435\u0440\u0432\u0430\u044f \u0441\u043c\u0435\u0440\u0442\u044c \u043e\u0442 \u0443\u043a\u0430\u0437\u0430\u043d\u043d\u043e\u0433\u043e \u043d\u0435\u0434\u0443\u0433\u0430 \u043d\u0430 \u0442\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u0438 \u0421\u0428\u0410.",
+      "url": "https://news.mail.ru/incident/64347935/",
+      "urlToImage": "https://resizer.mail.ru/p/70dd4139-b329-5138-962f-55161bcbcf03/op:15/logo:bottom:news.png/AQAGSf0OyQPSrH7FOAj2oBqqOARu52xO2PXwMJzcL8YL5uFAp1SHdMC-BusFy8cNUP8SpJ534xqsd2VqPTORyFOLfZg.png",
+      "publishedAt": "2025-01-07 02:33:13",
+      "content": "H5N1. , .",
+      "retrievedAt": "2025-01-08 07:06:22.870489",
+      "internal_id": "ec82aeae151898f5f110f15ae789eed1721024297ec3a9f6509e28bd5016f8d3",
+      "publishedAtLabel": "Jan 7"
+    },
+    {
+      "id": 17089,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Life.ru",
+      "author": "\u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440 \u041e\u0437\u0435\u0440\u043e\u0432",
+      "title": "\u0412 \u0421\u0428\u0410 \u0437\u0430\u044f\u0432\u0438\u043b\u0438 \u043e \u043f\u0435\u0440\u0432\u043e\u0439 \u0436\u0435\u0440\u0442\u0432\u0435 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430 H5N1",
+      "description": "\u0416\u0438\u0442\u0435\u043b\u044c \u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u043e\u0433\u043e \u0448\u0442\u0430\u0442\u0430 \u041b\u0443\u0438\u0437\u0438\u0430\u043d\u0430 \u0441\u043a\u043e\u043d\u0447\u0430\u043b\u0441\u044f \u043e\u0442 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430 H5N1. \u041f\u043e \u0434\u0430\u043d\u043d\u044b\u043c \u043c\u0435\u0441\u0442\u043d\u043e\u0433\u043e \u0434\u0435\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442\u0430 \u0437\u0434\u0440\u0430\u0432\u043e\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f, \u044d\u0442\u043e \u043f\u0435\u0440\u0432\u0430\u044f \u0441\u043c\u0435\u0440\u0442\u044c \u043e\u0442 \u0443\u043a\u0430\u0437\u0430\u043d\u043d\u043e\u0433\u043e \u043d\u0435\u0434\u0443\u0433\u0430 \u043d\u0430 \u0442\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u0438 \u0421\u0428\u0410.",
+      "url": "https://life.ru/p/1717516",
+      "urlToImage": "https://static.life.ru/publications/2024/9/12/1362728698607.657.webp",
+      "publishedAt": "2025-01-07 02:31:09",
+      "content": "Shutterstock / FOTODOM / EliteExposure",
+      "retrievedAt": "2025-01-08 07:06:22.712966",
+      "internal_id": "483656d1baf617dd8b8c1379cd804ba85503405db6a2085cb54326730afcb5dc",
+      "publishedAtLabel": "Jan 7"
+    },
+    {
+      "id": 17129,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": "Agence France-Presse",
+      "title": "France Confirms First Case Of Mpox Variant",
+      "description": "France has detected its first case of a new mpox virus, the health ministry said on Monday. A case of the clade 1b variant was confirmed in the western Brittany region.",
+      "url": "https://www.ndtv.com/world-news/france-confirms-first-case-of-mpox-variant-7416471",
+      "urlToImage": "https://c.ndtvimg.com/2024-10/lf6louj8_mpox_625x300_22_October_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "publishedAt": "2025-01-07 02:29:00",
+      "content": "Paris, France: France has detected its first case of a new mpox virus, the health ministry said Monday, weeks after the World Health Organization maintained its highest alert level amid the epidemic.\u2026 [+1351 chars]",
+      "retrievedAt": "2025-01-08 07:06:25.791358",
+      "internal_id": "321ddc5f425f5cf49bac59dcdbbb3fb57096d3807a20235e3e9115a105bfaf48",
+      "publishedAtLabel": "Jan 7"
+    },
+    {
+      "id": 17093,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Protothema.gr",
+      "author": null,
+      "title": "\u03a0\u03c1\u03ce\u03c4\u03bf\u03c2 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03c2 \u03b1\u03bd\u03b8\u03c1\u03ce\u03c0\u03bf\u03c5 \u03b5\u03be\u03b1\u03b9\u03c4\u03af\u03b1\u03c2 \u03c4\u03b7\u03c2 \u03b3\u03c1\u03af\u03c0\u03b7\u03c2 \u03c4\u03c9\u03bd \u03c0\u03c4\u03b7\u03bd\u03ce\u03bd \u03c3\u03c4\u03b9\u03c2 \u0397\u03a0\u0391",
+      "description": "\u0395\u03c0\u03c1\u03cc\u03ba\u03b5\u03b9\u03c4\u03bf \u03b3\u03b9\u03b1 \u03b7\u03bb\u03b9\u03ba\u03b9\u03c9\u03bc\u03ad\u03bd\u03bf \u03b1\u03c3\u03b8\u03b5\u03bd\u03ae \u03bc\u03b5 \u03c5\u03c0\u03bf\u03ba\u03b5\u03af\u03bc\u03b5\u03bd\u03b1 \u03bd\u03bf\u03c3\u03ae\u03bc\u03b1\u03c4\u03b1 - \u039c\u03bf\u03bb\u03cd\u03bd\u03b8\u03b7\u03ba\u03b5 \u03b1\u03c0\u03cc \u03c4\u03bf\u03bd \u03b9\u03cc H5N1 \u03ad\u03c0\u03b5\u03b9\u03c4\u03b1 \u03b1\u03c0\u03cc \u03b5\u03c0\u03b1\u03c6\u03ae \u03bc\u03b5 \u03bf\u03b9\u03ba\u03cc\u03c3\u03b9\u03c4\u03b1 \u03ba\u03b1\u03b9 \u03ac\u03b3\u03c1\u03b9\u03b1 \u03c0\u03c4\u03b7\u03bd\u03ac | \u0397\u03a0\u0391 | \u0393\u03c1\u03af\u03c0\u03b7 \u03c4\u03c9\u03bd \u03c0\u03c4\u03b7\u03bd\u03ce\u03bd | \u039a\u03cc\u03c3\u03bc\u03bf\u03c2",
+      "url": "https://www.protothema.gr/world/article/1584358/protos-thanatos-anthropou-exaitias-tis-gripis-ton-ptinon-stis-ipa/",
+      "urlToImage": "https://www.protothema.gr/images/640x360share/1/jpg/files/2024-09-07/birdflu_2153601469.jpg",
+      "publishedAt": "2025-01-07 02:23:44",
+      "content": ", , ., 65 , H5N1 . \u00ab \u00bb, .\u00ab H5N1 \u00bb, . \u00ab \u00bb \u00ab H5N1, , . \u00ab H5N1 \u00bb, . , \u00ab\u00bb, .\u00ab , , , \u00bb, . , . , 66 , . . H5N1 ., , , . H5N1 , .",
+      "retrievedAt": "2025-01-08 07:06:22.748322",
+      "internal_id": "219ac0861c87aeaec3b15a99623f8a6a6371833ebef3272b3688b0ed398ce1af",
+      "publishedAtLabel": "Jan 7"
+    },
+    {
+      "id": 17091,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Skai.gr",
+      "author": "Newsroom",
+      "title": "\u03a0\u03c1\u03ce\u03c4\u03bf\u03c2 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03c2 \u03b1\u03bd\u03b8\u03c1\u03ce\u03c0\u03bf\u03c5 \u03b5\u03be\u03b1\u03b9\u03c4\u03af\u03b1\u03c2 \u03c4\u03b7\u03c2 \u03b3\u03c1\u03af\u03c0\u03b7\u03c2 \u03c4\u03c9\u03bd \u03c0\u03c4\u03b7\u03bd\u03ce\u03bd \u03c3\u03c4\u03b9\u03c2 \u0397\u03a0\u0391",
+      "description": "\u039f \u03b1\u03c3\u03b8\u03b5\u03bd\u03ae\u03c2, \u03ac\u03bd\u03c9 \u03c4\u03c9\u03bd 65 \u03b5\u03c4\u03ce\u03bd, \u03ae\u03c4\u03b1\u03bd \u03c4\u03bf \u03c0\u03c1\u03ce\u03c4\u03bf \u03c3\u03bf\u03b2\u03b1\u03c1\u03cc \u03b1\u03bd\u03b8\u03c1\u03ce\u03c0\u03b9\u03bd\u03bf \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1 \u03c4\u03b7\u03c2 H5N1 \u03c0\u03bf\u03c5 \u03b5\u03bd\u03c4\u03bf\u03c0\u03af\u03c3\u03c4\u03b7\u03ba\u03b5 \u03c3\u03c4\u03b7 \u03c7\u03ce\u03c1\u03b1.",
+      "url": "https://www.skai.gr/news/world/protos-thanatos-anthropou-eksaitias-tis-gripis-ton-ptinon-stis-ipa",
+      "urlToImage": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2020-10/usa_flag_ap.jpg?itok=5VHIa32n",
+      "publishedAt": "2025-01-07 02:21:35",
+      "content": ", 65 , H5N1 . , , . , 65 , H5N1 . \u00ab \u00bb, . \u00ab H5N1 \u00bb, . \u00ab \u00bb \u00ab H5N1, , . \u00ab H5N1 \u00bb, . , \u00ab\u00bb, . \u00ab , , , \u00bb, . , . , 66 , . . H5N1 . , , , . H5N1 , . A (H5N1) 1996, , 2020, . , , . \u2026 [+25 chars]",
+      "retrievedAt": "2025-01-08 07:06:22.727247",
+      "internal_id": "cea354036671e086427180a6acabb066e721cd6d7932ef35e6c9cf9b140ee7a4",
+      "publishedAtLabel": "Jan 7"
+    },
+    {
+      "id": 17108,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Mail.ru",
+      "author": "\u041b\u0435\u043e\u043d\u0438\u0434 \u041c\u043e\u043d\u0438\u043d",
+      "title": "\u0412 \u0421\u0428\u0410 \u0437\u0430\u0444\u0438\u043a\u0441\u0438\u0440\u043e\u0432\u0430\u043d\u0430 \u043f\u0435\u0440\u0432\u0430\u044f \u0441\u043c\u0435\u0440\u0442\u044c \u043e\u0442 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430 H5N1",
+      "description": "\u0421\u043a\u043e\u043d\u0447\u0430\u043b\u0441\u044f \u043f\u0430\u0446\u0438\u0435\u043d\u0442 \u0432 \u0432\u043e\u0437\u0440\u0430\u0441\u0442\u0435 \u00ab\u0441\u0442\u0430\u0440\u0448\u0435 65 \u043b\u0435\u0442\u00bb.",
+      "url": "https://news.mail.ru/society/64347810/",
+      "urlToImage": "https://resizer.mail.ru/p/f39d01b7-a8f0-5037-aee7-abcd9640604c/op:15/logo:bottom:news.png/AQAGRMr8Ghz2a4WAWD6F3l3WGxR0Cs4mS5AjrysHy81Rw_Vurn2iHySOB0h53yjB7Y5fKRRw-QCaQJob_I9qH-Q0LW0.png",
+      "publishedAt": "2025-01-07 01:50:14",
+      "content": ", 2022 . , \u2014 . 2024 . 66 .",
+      "retrievedAt": "2025-01-08 07:06:22.877688",
+      "internal_id": "63d0ba235c4ce6e802b92a124a88f70ed443601e417f94e624f5253f52f9fc11",
+      "publishedAtLabel": "Jan 7"
+    },
+    {
+      "id": 17088,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Korrespondent.net",
+      "author": "1",
+      "title": "\u0412 \u0421\u0428\u0410 \u0437\u0430\u044f\u0432\u0438\u043b\u0438 \u043e \u043f\u0435\u0440\u0432\u043e\u0439 \u0441\u043c\u0435\u0440\u0442\u0438 \u043e\u0442 \u0433\u0440\u0438\u043f\u043f\u0430 H5N1",
+      "description": "\u0421 2003 \u0433\u043e\u0434\u0430 \u0432\u043e \u0432\u0441\u0435\u043c \u043c\u0438\u0440\u0435 \u0431\u044b\u043b\u043e \u0437\u0430\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u043e \u043e\u043a\u043e\u043b\u043e 900 \u0441\u043b\u0443\u0447\u0430\u0435\u0432 \u0437\u0430\u0440\u0430\u0436\u0435\u043d\u0438\u044f \u043b\u044e\u0434\u0435\u0439 \u043f\u0442\u0438\u0447\u044c\u0438\u043c \u0433\u0440\u0438\u043f\u043f\u043e\u043c, \u0438 \u043e\u043a\u043e\u043b\u043e \u043f\u043e\u043b\u043e\u0432\u0438\u043d\u044b \u0438\u0437 \u043d\u0438\u0445 \u0441\u043a\u043e\u043d\u0447\u0430\u043b\u0438\u0441\u044c.",
+      "url": "https://korrespondent.net/world/4745707-v-ssha-zaiavyly-o-pervoi-smerty-ot-hryppa-H5N1",
+      "urlToImage": "https://kor.ill.in.ua/m/1260x900/4282727.jpg",
+      "publishedAt": "2025-01-07 01:45:00",
+      "content": "\" , 50% , . , , . , , , , \", - . .net Telegram WhatsApp. https://t.me/korrespondentnetWhatsApp",
+      "retrievedAt": "2025-01-08 07:06:22.705694",
+      "internal_id": "1053f9ef18b5d764956ece1ace082ba8f6543c4de2b17bb78b0c937ad0f8308b",
+      "publishedAtLabel": "Jan 7"
+    },
+    {
+      "id": 17137,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Reuters",
+      "title": "France identifies first case of new mpox variant",
+      "description": "France confirms its first case of the new mpox variant in a woman from Brittany, linked to contacts who returned from Central Africa. Health officials are tracing the infection's source and potential contacts. The variant is tied to a WHO-declared global heal\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/france-identifies-first-case-of-new-mpox-variant/articleshow/117007184.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-117007198,width-1200,height-630,imgsize-54106,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-01-07 01:36:51",
+      "content": "Artificial Intelligence(AI) AI and Analytics based Business Strategy By - Tanusree De, Managing Director- Accenture Technology Lead, Trustworthy AI Center of Excellence: ATCI View Program",
+      "retrievedAt": "2025-01-08 07:06:25.849487",
+      "internal_id": "bc108425755bcdd462b7a08a11d1317db7e7b3c4a71766f87d61ebac1193d7b7",
+      "publishedAtLabel": "Jan 7"
+    },
+    {
+      "id": 17110,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Mail.ru",
+      "author": "\u041b\u0435\u043e\u043d\u0438\u0434 \u041c\u043e\u043d\u0438\u043d",
+      "title": "\u0412 \u0421\u0428\u0410 \u0437\u0430\u0444\u0438\u043a\u0441\u0438\u0440\u043e\u0432\u0430\u043b\u0438 \u043f\u0435\u0440\u0432\u0443\u044e \u0441\u043c\u0435\u0440\u0442\u044c \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u0430 \u043e\u0442 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430",
+      "description": "\u0411\u043e\u043b\u044c\u043d\u043e\u043c\u0443 \u0432\u0438\u0440\u0443\u0441\u043e\u043c H5N1 \u0431\u044b\u043b\u043e \u0431\u043e\u043b\u0435\u0435 65 \u043b\u0435\u0442, \u043e\u043d \u043b\u0435\u0436\u0430\u043b \u0432 \u0431\u043e\u043b\u044c\u043d\u0438\u0446\u0435 \u041b\u0443\u0438\u0437\u0438\u0430\u043d\u044b.",
+      "url": "https://news.mail.ru/incident/64347757/",
+      "urlToImage": "https://resizer.mail.ru/p/3528056b-0fbd-5b1e-9275-5b98a6a0c5b4/op:15/logo:bottom:news.png/AQAGNzh8jA9Q25vTrmx4a_Q-ePXWB4_Wl4zZj202WjC_O_bseSzm_WtNtQ1wk4AUAzwNb3knPQ2qypG4atWeigSq5bc.jpg",
+      "publishedAt": "2025-01-07 01:33:28",
+      "content": "\u00ab [ ] H5N1\u00bb, \u2014 . , 65 , .",
+      "retrievedAt": "2025-01-08 07:06:22.891932",
+      "internal_id": "f9bfe477cdea211469e29f32cbd6f28978de356348c079503a14fa964e7fc7e5",
+      "publishedAtLabel": "Jan 7"
+    },
+    {
+      "id": 17087,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "TheBlaze",
+      "author": "Blaze News",
+      "title": "First bird flu death reported in Louisiana of person exposed to wild birds, officials say",
+      "description": "Health officials say the first death due to H5N1 bird flu has been documented of a person in Louisiana who is believed to have been exposed to wild birds. The Louisiana Department of Health did not release the person's identity or gender but said that they w\u2026",
+      "url": "https://www.theblaze.com/news/bird-flu-death-louisiana-first",
+      "urlToImage": "https://www.theblaze.com/media-library/image.jpg?id=55481115&width=1200&height=600&coordinates=0%2C147%2C0%2C148",
+      "publishedAt": "2025-01-07 01:30:00",
+      "content": "Health officials say the first death due to H5N1 bird flu has been documented of a person in Louisiana who is believed to have been exposed to wild birds. The Louisiana Department of Health did not \u2026 [+1609 chars]",
+      "retrievedAt": "2025-01-08 07:06:22.698330",
+      "internal_id": "66c580cf8065b235f362e20cadc54799bc5e9cc05ae1eb330eaa46b0267c2f4a",
+      "publishedAtLabel": "Jan 7"
+    },
+    {
+      "id": 17090,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Tass.ru",
+      "author": null,
+      "title": "\u0412 \u0421\u0428\u0410 \u0437\u0430\u0444\u0438\u043a\u0441\u0438\u0440\u043e\u0432\u0430\u043b\u0438 \u043f\u0435\u0440\u0432\u0443\u044e \u0441\u043c\u0435\u0440\u0442\u044c \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u0430 \u043e\u0442 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430",
+      "description": "\u0411\u043e\u043b\u044c\u043d\u043e\u043c\u0443 \u0432\u0438\u0440\u0443\u0441\u043e\u043c H5N1 \u0431\u044b\u043b\u043e \u0431\u043e\u043b\u0435\u0435 65 \u043b\u0435\u0442, \u043e\u043d \u043b\u0435\u0436\u0430\u043b \u0432 \u0431\u043e\u043b\u044c\u043d\u0438\u0446\u0435 \u041b\u0443\u0438\u0437\u0438\u0430\u043d\u044b",
+      "url": "https://tass.ru/obschestvo/22830975",
+      "urlToImage": "https://cdn-storage-media.tass.ru/thumb/ru/obschestvo/22830975?u=2025-01-07T01:18:26.761598",
+      "publishedAt": "2025-01-07 01:18:26",
+      "content": "-, 7 . //. H5N1 . . \" [ ] H5N1\", - . , 65 , . \" H5N1 - , . . , \", - . 2022 , . 2024 . 66 10 . - , . , , , , .",
+      "retrievedAt": "2025-01-08 07:06:22.720133",
+      "internal_id": "4fbc2b5be3a56aa95360ddcacc64d74f8222a21e16a7df814511e6fbb6f217ee",
+      "publishedAtLabel": "Jan 7"
+    },
+    {
+      "id": 17086,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "le-monde",
+      "source_name": "Le Monde",
+      "author": "Le Monde avec AFP",
+      "title": "Les Etats-Unis rapportent un premier d\u00e9c\u00e8s humain li\u00e9 \u00e0 la grippe aviaire",
+      "description": "Le malade, \u00e2g\u00e9 de plus de 65 ans, \u00e9tait le premier cas grave humain d\u00e9tect\u00e9 dans le pays, et souffrait d\u2019autres pathologies. Il avait \u00e9t\u00e9 contamin\u00e9 par le virus H5N1 via des oiseaux de basse-cour et sauvages.",
+      "url": "https://www.lemonde.fr/planete/article/2025/01/07/les-etats-unis-rapportent-un-premier-deces-humain-lie-a-la-grippe-aviaire_6485204_3244.html",
+      "urlToImage": "https://img.lemde.fr/2025/01/06/0/0/3414/2276/1440/960/60/0/ac6f882_ftp-import-images-1-kfywkvcjbdnr-2025-01-06t222720z-993474186-rc2hxbacqs3e-rtrmadp-3-health-bird-flu-usa-death.JPG",
+      "publishedAt": "2025-01-07 01:09:35",
+      "content": "Une \u00e9prouvette portant la mention \u00ab grippe aviaire \u00bb devant le drapeau am\u00e9ricain. DADO RUVIC / REUTERS Un premier d\u00e9c\u00e8s humain li\u00e9 \u00e0 la grippe aviaire a \u00e9t\u00e9 recens\u00e9 aux Etats-Unis, ont annonc\u00e9, lund\u2026 [+4449 chars]",
+      "retrievedAt": "2025-01-08 07:06:22.690645",
+      "internal_id": "97beb23000ae6864eae5195ce10daaaa7367074a2e36f2369748e922a84e6925",
+      "publishedAtLabel": "Jan 7"
+    },
+    {
+      "id": 17113,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": null,
+      "title": "Estados Unidos report\u00f3 la primera muerte por gripe aviar: ten\u00eda 65 a\u00f1os y padec\u00eda problemas m\u00e9dicos",
+      "description": "Seg\u00fan relataron autoridades, el paciente hab\u00eda permanecido hospitalizado por s\u00edntomas respiratorios graves; contrajo el virus al estar expuesto a aves de corral no comerciales y silvestres",
+      "url": "https://www.lanacion.com.ar/estados-unidos/estados-unidos-reporto-la-primera-muerte-por-gripe-aviar-tenia-65-anos-y-padecia-problemas-medicos-nid06012025/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/estados-unidos-reporto-la-primera-muerte-por-XFGQR7WQH5CB5AVPWMMUUAZYME.jpg?auth=b9a6b33f6cb1377ddbb6a7ddba23d4e3545cbf800b70b665317bb125772ee0e0&width=1200&quality=70&smart=false&height=814",
+      "publishedAt": "2025-01-07 00:26:59",
+      "content": "El primer paciente contagiado por el virus de la influenza H5N1 -m\u00e1s conocido como gripe aviar- en Estados Unidos muri\u00f3 este lunes. Se trata de una persona de 65 a\u00f1os del estado de Luisiana, quien ha\u2026 [+2851 chars]",
+      "retrievedAt": "2025-01-08 07:06:22.912634",
+      "internal_id": "cfced253d9c25fc6ba1c2b2e38d5df0cae48b2d423626a0c5d4fc0fdea865085",
+      "publishedAtLabel": "Jan 7"
+    },
+    {
+      "id": 17084,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Pravda.com.ua",
+      "author": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u043f\u0440\u0430\u0432\u0434\u0430",
+      "title": "\u0423 \u0421\u0428\u0410 \u0437\u0430\u0444\u0456\u043a\u0441\u0443\u0432\u0430\u043b\u0438 \u043f\u0435\u0440\u0448\u0443 \u0441\u043c\u0435\u0440\u0442\u044c \u0432\u0456\u0434 \u043f\u0442\u0430\u0448\u0438\u043d\u043e\u0433\u043e \u0433\u0440\u0438\u043f\u0443 H5N1",
+      "description": "\u041f\u0435\u0440\u0448\u0430 \u043b\u044e\u0434\u0438\u043d\u0430 \u0437 \u0432\u0430\u0436\u043a\u0438\u043c \u0432\u0438\u043f\u0430\u0434\u043a\u043e\u043c \u043f\u0442\u0430\u0448\u0438\u043d\u043e\u0433\u043e \u0433\u0440\u0438\u043f\u0443 H5N1 \u043f\u043e\u043c\u0435\u0440\u043b\u0430 \u0443 \u0421\u0428\u0410. \u0414\u0436\u0435\u0440\u0435\u043b\u043e: CNN \u0456\u0437 \u043f\u043e\u0441\u0438\u043b\u0430\u043d\u043d\u044f\u043c \u043d\u0430 \u0414\u0435\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442 \u043e\u0445\u043e\u0440\u043e\u043d\u0438 \u0437\u0434\u043e\u0440\u043e\u0432'\u044f \u0448\u0442\u0430\u0442\u0443 \u041b\u0443\u0457\u0437\u0456\u0430\u043d\u0430 \u0414\u0435\u0442\u0430\u043b\u0456: \u041f\u043e\u0432\u0456\u0434\u043e\u043c\u043b\u044f\u0454\u0442\u044c\u0441\u044f, \u0449\u043e \u0446\u0435 \u043f\u0435\u0440\u0448\u0438\u0439 \u0432\u0438\u043f\u0430\u0434\u043e\u043a \u0441\u043c\u0435\u0440\u0442\u0456 \u043b\u044e\u0434\u0438\u043d\u0438 \u0432\u0456\u0434 \u043f\u0442\u0430\u0448\u0438\u043d\u043e\u0433\u043e \u0433\u0440\u0438\u043f\u0443 \u0432 \u0421\u0428\u0410.",
+      "url": "https://www.pravda.com.ua/news/2025/01/7/7492324/",
+      "urlToImage": "https://img.pravda.com/images/doc/7/4/7492324_fb_image_ukr_2025_01_07_02_25_29.jpg",
+      "publishedAt": "2025-01-07 00:22:22",
+      "content": "H5N1 . : CNN ' : , . , 65 , , , ' . ' , , ' . , H5N1 . D1.1, . , . ', 2003 900 , . , 50% , \u2013 , , . , , , , . \" 10 \u2013 5% \u2013 , . , Covid-19 2,6%\", \u2013 . : \u2013 , .",
+      "retrievedAt": "2025-01-08 07:06:22.676388",
+      "internal_id": "153b93541eda29545d6805053f0faa600436e1298f886a1a60c859d3a3d2431c",
+      "publishedAtLabel": "Jan 7"
+    },
+    {
+      "id": 17100,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Pravda.com.ua",
+      "author": "\u0423\u043a\u0440\u0430\u0438\u043d\u0441\u043a\u0430\u044f \u043f\u0440\u0430\u0432\u0434\u0430",
+      "title": "\u0412 \u0421\u0428\u0410 \u0437\u0430\u0444\u0438\u043a\u0441\u0438\u0440\u043e\u0432\u0430\u043b\u0438 \u043f\u0435\u0440\u0432\u0443\u044e \u0441\u043c\u0435\u0440\u0442\u044c \u043e\u0442 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430 H5N1",
+      "description": "\u041f\u0435\u0440\u0432\u044b\u0439 \u0447\u0435\u043b\u043e\u0432\u0435\u043a \u0441 \u0442\u044f\u0436\u0435\u043b\u044b\u043c \u0441\u043b\u0443\u0447\u0430\u0435\u043c \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430 H5N1 \u0443\u043c\u0435\u0440 \u0432 \u0421\u0428\u0410. \u0418\u0441\u0442\u043e\u0447\u043d\u0438\u043a: CNN \u0441\u043e \u0441\u0441\u044b\u043b\u043a\u043e\u0439 \u043d\u0430 \u0414\u0435\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442 \u0437\u0434\u0440\u0430\u0432\u043e\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f \u0448\u0442\u0430\u0442\u0430 \u041b\u0443\u0438\u0437\u0438\u0430\u043d\u0430 \u0414\u0435\u0442\u0430\u043b\u0438: \u0421\u043e\u043e\u0431\u0449\u0430\u0435\u0442\u0441\u044f, \u0447\u0442\u043e \u044d\u0442\u043e \u043f\u0435\u0440\u0432\u044b\u0439 \u0441\u043b\u0443\u0447\u0430\u0439 \u0441\u043c\u0435\u0440\u0442\u0438 \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u0430 \u043e\u0442 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430 \u0432 \u0421\u0428\u0410.",
+      "url": "https://www.pravda.com.ua/rus/news/2025/01/7/7492324/",
+      "urlToImage": "https://img.pravda.com/images/doc/7/4/7492324_fb_image_rus_2025_01_07_02_25_29.jpg",
+      "publishedAt": "2025-01-07 00:22:22",
+      "content": "H5N1 . : CNN : , . , 65 , , , . , , . , H5N1 . D1.1, . , . , 2003 900 , . , 50% , - , , . , , , , . \" 10 - 5% - , . , Covid-19 2,6%\", - . : - , .",
+      "retrievedAt": "2025-01-08 07:06:22.804009",
+      "internal_id": "94ca68031c2d2229f84aca60a5739130e125c8530e36cad3d6e351b336d69871",
+      "publishedAtLabel": "Jan 7"
+    },
+    {
+      "id": 17124,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Observador.pt",
+      "author": "Martim Andrade",
+      "title": "Mpox. Detetado primeiro caso de nova estirpe em Fran\u00e7a",
+      "description": "Clade 1b \u00e9 a variante mais letal, matando 4% dos doentes diagnosticados com o v\u00edrus. Paciente zero francesa esteve em contacto com duas pessoas que estiveram no centro de \u00c1frica.",
+      "url": "https://observador.pt/2025/01/07/mpox-detetado-primeiro-caso-de-nova-estirpe-em-franca/",
+      "urlToImage": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A4096%3A2303%3Anowe%3A0%3A214%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2025%2F01%2F06235806%2Fgettyimages-2186031372-scaled.jpg?layer=obstop:T",
+      "publishedAt": "2025-01-07 00:21:34",
+      "content": "Foi detetado o primeiro caso da nova variante de mpox em Fran\u00e7a esta segunda-feira, avan\u00e7a a ag\u00eancia France Presse (AFP), citando um comunicado do Minist\u00e9rio da Sa\u00fade franc\u00eas. A Organiza\u00e7\u00e3o Mundial d\u2026 [+1330 chars]",
+      "retrievedAt": "2025-01-08 07:06:25.744223",
+      "internal_id": "fabf2f2575b4743eb9dd6cc88ee6aa005cbdbe03762cab8c202fbaab74321749",
+      "publishedAtLabel": "Jan 7"
+    },
+    {
+      "id": 17150,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Legalinsurrection.com",
+      "author": "Leslie Eastman",
+      "title": "Covid Vaccine Scientists Creating New Shot for Bubonic Plague",
+      "description": "There are signs the plague bacteria has already developed resistance against antibiotics currently in use. The post Covid Vaccine Scientists Creating New Shot for Bubonic Plague first appeared on Le\u00b7gal In\u00b7sur\u00b7rec\u00b7tion.",
+      "url": "https://legalinsurrection.com/2025/01/covid-vaccine-scientists-creating-new-shot-for-bubonic-plague/",
+      "urlToImage": "https://legalinsurrection.com/wp-content/uploads/2020/07/Bubonic-Plague.jpg",
+      "publishedAt": "2025-01-07 00:00:34",
+      "content": "Bubonic plague is a severe infectious and potentially fatal disease caused by the bacterium Yersinia pestis. It is the most common form of plague and is primarily spread through the bite of infected \u2026 [+3529 chars]",
+      "retrievedAt": "2025-01-08 07:06:26.844623",
+      "internal_id": "7f99c8e468b95f12c9672b9534701bad4db25b50793a97e7d923d8cfcddab6e6",
+      "publishedAtLabel": "Jan 7"
+    },
+    {
+      "id": 17149,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "France identifies first case of new mpox variant, AFP reports",
+      "description": "PARIS (Reuters) - France has identified its first case of the new mpox variant, news agency AFP reported on Monday, citing a statement from the country's health ministry. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2025/01/07/france-identifies-first-case-of-new-mpox-variant-afp-reports",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/01/07/3104666.jpg",
+      "publishedAt": "2025-01-06 23:59:00",
+      "content": "PARIS (Reuters) - France has identified its first case of the new mpox variant, news agency AFP reported on Monday, citing a statement from the country's health ministry. The patient had not travel\u2026 [+740 chars]",
+      "retrievedAt": "2025-01-08 07:06:25.939597",
+      "internal_id": "c99c2ba447899665cc6b128586fe3e2f026096c69ac7a415807786b82c8960c1",
+      "publishedAtLabel": "Jan 6"
+    },
+    {
+      "id": 17109,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "info-money",
+      "source_name": "InfoMoney",
+      "author": "camillebocanegra",
+      "title": "Louisiana registra 1\u00aa morte relacionada \u00e0 gripe avi\u00e1ria nos EUA, diz ag\u00eancia",
+      "description": "Cerca de 70 pessoas nos EUA contra\u00edram a gripe avi\u00e1ria desde abril The post Louisiana registra 1\u00aa morte relacionada \u00e0 gripe avi\u00e1ria nos EUA, diz ag\u00eancia appeared first on InfoMoney.",
+      "url": "https://www.infomoney.com.br/mundo/louisiana-registra-1a-morte-relacionada-a-gripe-aviaria-nos-eua-diz-agencia/",
+      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2024/06/2024-06-13T201211Z_1_LYNXMPEK5C0T6_RTROPTP_4_HEALTH-BIRD-FLU-USA.jpg?quality=70",
+      "publishedAt": "2025-01-06 23:54:04",
+      "content": "O Departamento de Sa\u00fade da Louisiana disse nesta segunda-feira que um paciente norte-americano hospitalizado com gripe avi\u00e1ria H5N1 havia morrido, a primeira morte no pa\u00eds em decorr\u00eancia de um surto \u2026 [+1031 chars]",
+      "retrievedAt": "2025-01-08 07:06:22.884645",
+      "internal_id": "ef3d27f28bf4554e4aefe011188f814b54b8df7d76b4893c25e711323d69f768",
+      "publishedAtLabel": "Jan 6"
+    },
+    {
+      "id": 17134,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Milenio",
+      "author": "Agencia EFE ,Agencia AFP",
+      "title": "Detectan primer caso de variante de virus mpox en Francia",
+      "description": "Un primer caso de la nueva variante de mpox fue identificado en Francia, indic\u00f3 este lunes el Ministerio de Salud del pa\u00eds, en un comunicado que confirm\u00f3 una informaci\u00f3n de un diario local.El Ministerio fue informado \"de un primer caso humano de mpox de clado\u2026",
+      "url": "https://www.milenio.com/internacional/identifican-primer-caso-de-la-nueva-variante-de-mpox-en-francia",
+      "urlToImage": "https://cdn.milenio.com/uploads/media/2024/08/22/todos-los-turistas-deben-someterse.jpg",
+      "publishedAt": "2025-01-06 23:47:00",
+      "content": "Un primer caso de la nueva variante de mpox fue identificado en Francia, indic\u00f3 este lunes el Ministerio de Salud del pa\u00eds, en un comunicado que confirm\u00f3 una informaci\u00f3n de un diario local. El Minis\u2026 [+2044 chars]",
+      "retrievedAt": "2025-01-08 07:06:25.827597",
+      "internal_id": "4d33a1c8fd2cc39aefa8a33e101215db922884ba1789be322f1145d78140192c",
+      "publishedAtLabel": "Jan 6"
+    },
+    {
+      "id": 17104,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Cnbeta.com.tw",
+      "author": null,
+      "title": "\u8def\u6613\u65af\u5b89\u90a3\u5dde\u62a5\u544a\u7f8e\u56fd\u9996\u4f8b\u79bd\u6d41\u611f\u6b7b\u4ea1\u75c5\u4f8b \u5c1a\u65e0\u4eba\u9645\u4f20\u64ad\u8bc1\u636e",
+      "description": "\u7f8e\u56fd\u8def\u6613\u65af\u5b89\u90a3\u5dde\u4e00\u540d\u79bd\u6d41\u611f\u68c0\u6d4b\u5448\u9633\u6027\u7684\u60a3\u8005\u6b7b\u4ea1\uff0c\u8fd9\u662f\u7f8e\u56fd\u9996\u4f8b\u4e0e\u8fd9\u79cd\u547c\u5438\u9053\u75c5\u6bd2\u6709\u5173\u8054\u7684\u6b7b\u4ea1\u75c5\u4f8b\u3002\u8def\u6613\u65af\u5b89\u90a3\u5dde\u536b\u751f\u90e8\u95e8\u7684\u58f0\u660e\u663e\u793a\uff0c\u8fd9\u540d\u60a3\u8005\u5e74\u903e65\u5c81\u4e14\u60a3\u6709\u57fa\u7840\u75be\u75c5\u3002\u58f0\u660e\u79f0\uff0c\u76ee\u524d\u5c1a\u672a\u53d1\u73b0\u5176\u4ed6\u75c5\u4f8b\uff0c\u4e5f\u6ca1\u6709\u8bc1\u636e\u8868\u660e\u5b58\u5728\u4eba\u9645\u4f20\u64ad\u3002 \u8be5\u5dde\u673a\u6784\u79f0\uff0c\u8fd9\u540d\u60a3\u8005\u5728\u63a5\u89e6\u975e\u5546\u4e1a\u5bb6\u5ead\u9e21\u7fa4\u548c\u91ce\u751f\u9e1f\u7c7b\u540e\u611f\u67d3\u4e86H5N1\u3002\u8be5\u5c45\u6c11\u4e8e12\u6708\u4f5c\u4e3a\u7f8e\u56fd\u9996\u4f8b\u4e25\u91cd\u7684\u4eba\u611f\u67d3\u79bd\u6d41\u611f\u75c5\u4f8b\u800c\u5165\u9662\u3002\u7531\u4e8eH5N1\u75c5\u6bd2\u682a\u5df2\u5728\u7f8e\u56fd\u5bb6\u79bd\u548c\u5976\u725b\u573a\u8513\u5ef6\uff0c\u536b\u751f\u5b98\u5458\u4e00\u76f4\u4fdd\u6301\u9ad8\u5ea6\u8b66\u60d5\u3002\u867d\u7136\u5df2\u6709\u6570\u5341\u4eba\u53d7\u5230\u611f\u67d3\uff0c\u4f46\u76ee\u524d\u4e3a\u6b62\u8fd8\u6ca1\u6709\u8ff9\u8c61\u8868\u660e\u75c5\u6bd2\u5728\u4eba\u7fa4\u4e2d\u4f20\u64ad\u3002 \u67e5\u770b\u8bc4\u8bba",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1469046.htm",
+      "urlToImage": "https://static.cnbetacdn.com/article/2024/1219/20ab24e712ca635.jpg",
+      "publishedAt": "2025-01-06 23:36:35",
+      "content": "XPSInspironLatitudePrecision 2025-01-07 1441",
+      "retrievedAt": "2025-01-08 07:06:22.837124",
+      "internal_id": "cf2d71090e9b50091e2785d5c39ab903989c61b3fdee7215f0ed7e8639550a92",
+      "publishedAtLabel": "Jan 6"
+    },
+    {
+      "id": 17116,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "ZEIT ONLINE: Gesundheit - Eva Casper",
+      "title": "H5N1: USA melden ersten Todesfall nach Vogelgrippe-Infektion",
+      "description": "In Louisiana ist ein 65-J\u00e4hriger gestorben, der sich mit dem Vogelgrippevirus infiziert hatte. Der Mann hatte zuvor Kontakt mit V\u00f6geln und litt an Vorerkrankungen.",
+      "url": "https://www.zeit.de/gesundheit/2025-01/usa-melden-ersten-todesfall-nach-vogelgrippe-infektion",
+      "urlToImage": "https://img.zeit.de/gesundheit/2025-01/vogelgrippe-usa-erster-todesfall/wide__1300x731",
+      "publishedAt": "2025-01-06 23:16:52",
+      "content": "In den USA ist erstmals ein Mensch nach einer Infektion mit dem Vogelgrippevirus H5N1 gestorben. Bei dem Betroffenen handelt es sich um einen 65-J\u00e4hrigen aus dem US-Bundesstaat Louisiana. Wie die \u00f6\u2026 [+1581 chars]",
+      "retrievedAt": "2025-01-08 07:06:22.934225",
+      "internal_id": "9f0d1a4e04e1879678312c6d467cb7233f647afbaa8d29190567ebc2347232c0",
+      "publishedAtLabel": "Jan 6"
+    },
+    {
+      "id": 17078,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "CNET",
+      "author": "Jessica Rendall",
+      "title": "The First Human Bird Flu Death Has Occurred in the United States",
+      "description": "The Louisiana Department of Health reports the first U.S. human death caused by H5N1 bird flu.",
+      "url": "https://www.cnet.com/health/medical/first-human-bird-flu-death-united-states/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/cc9346c849edafa24ba68c1d3905502e2f8a502b/hub/2024/11/30/3b36a785-5883-4ffa-bc65-cb9fd3aa0ab6/gettyimages-1677819202.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-01-06 23:10:45",
+      "content": "The CDC confirmed the first US-based severe human case of H5N1 bird flu in Louisiana in December. The Louisiana Department of Health reported Monday that the patient had died. The LDH revealed that\u2026 [+8970 chars]",
+      "retrievedAt": "2025-01-08 07:06:22.626116",
+      "internal_id": "1990edf680488a5130147451c691b0d3ec6d8163caf98937cbb15d8ae07384af",
+      "publishedAtLabel": "Jan 6"
+    },
+    {
+      "id": 17117,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "Dengue cases down, but number of hotspots on the rise",
+      "description": "PUTRAJAYA: The number of dengue cases for the 52nd Epidemiological Week dropped to 1,341 with one death reported, compared to 1,407 cases and two deaths the previous week. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2025/01/07/dengue-cases-down-but-number-of-hotspots-on-the-rise",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/01/07/3104675.jpg",
+      "publishedAt": "2025-01-06 23:00:00",
+      "content": "PUTRAJAYA: The number of dengue cases for the 52nd Epidemiological Week dropped to 1,341 with one death reported, compared to 1,407 cases and two deaths the previous week. Health director-general Da\u2026 [+813 chars]",
+      "retrievedAt": "2025-01-08 07:06:23.239681",
+      "internal_id": "f644c72816fed5de5180869c98a547d1d7e2cc6cf401afd07b3c10fe56b0b88e",
+      "publishedAtLabel": "Jan 6"
+    },
+    {
+      "id": 17147,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Francetvinfo.fr",
+      "author": null,
+      "title": "Mpox : \"Aucune raison d'\u00eatre inquiet pour une \u00e9pid\u00e9mie \u00e0 grande \u00e9chelle\", estime l'infectiologue Karine Lacombe",
+      "description": "Apr\u00e8s la d\u00e9couverte en France du premier cas du nouveau variant, la cheffe du service des maladies infectieuses de l\u2019h\u00f4pital Saint-Antoine, \u00e0 Paris, se veut rassurante. \"Ce ne sont pas des virus qui \u00e9voluent comme on a pu le voir avec\" le Covid-19, estime-t-e\u2026",
+      "url": "https://www.francetvinfo.fr/sante/maladie/variole-du-singe/mpox-aucune-raison-d-etre-inquiet-pour-une-epidemie-a-grande-echelle-estime-l-infectiologue-karine-lacombe_6998375.html",
+      "urlToImage": "https://www.francetvinfo.fr/pictures/xTIMoDq38Acpm4dVqkSmFqtZUso/0x108:6000x3481/1500x843/2025/01/06/xnaphotostwo875248-677c5e4b14293030279298.jpg",
+      "publishedAt": "2025-01-06 22:52:30",
+      "content": "\"On n'est pas inquiets d'une transmission \u00e0 grande \u00e9chelle du virus, il faut prendre les pr\u00e9cautions n\u00e9cessaires, mais de l\u00e0 \u00e0 ce qu'il y ait une \u00e9pid\u00e9mie g\u00e9n\u00e9ralis\u00e9e, on est encore loin de la situat\u2026 [+1997 chars]",
+      "retrievedAt": "2025-01-08 07:06:25.922449",
+      "internal_id": "a9dc53cb0ab275caca0e2002b7aad70f1a2458bb45b0f65b31b2578c99e6a655",
+      "publishedAtLabel": "Jan 6"
+    },
+    {
+      "id": 17131,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.gva.be",
+      "author": "gva.be",
+      "title": "Frankrijk rapporteert eerste besmetting met nieuwe mpox-variant",
+      "description": "In Frankrijk is een eerste besmetting gemeld met de nieuwe, meer besmettelijke variant van het mpox-virus. Dat heeft het ministerie van Volksgezondheid maandagavond bevestigd in een persbericht na een artikel in het regionale krant Ouest-France.",
+      "url": "https://www.gva.be/cnt/dmf20250106_98219969",
+      "urlToImage": "https://static.gva.be/Assets/Images_Upload/2024/12/24/212298fd-a544-4df1-8854-f2a341359899.jpg?maxheight=460&maxwidth=629",
+      "publishedAt": "2025-01-06 22:49:48",
+      "content": "In Frankrijk is een eerste besmetting gemeld met de nieuwe, meer besmettelijke variant van het mpox-virus. Dat heeft het ministerie van Volksgezondheid maandagavond bevestigd in een persbericht na ee\u2026 [+985 chars]",
+      "retrievedAt": "2025-01-08 07:06:25.806241",
+      "internal_id": "2151d1396c1760e4d54802c2902475c2ab7d078d6d85eef58af4d11bd12067b9",
+      "publishedAtLabel": "Jan 6"
+    },
+    {
+      "id": 17125,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Skai.gr",
+      "author": "Newsroom",
+      "title": "\u03a3\u03c5\u03bd\u03b1\u03b3\u03b5\u03c1\u03bc\u03cc\u03c2 \u03c3\u03c4\u03b7 \u0393\u03b1\u03bb\u03bb\u03af\u03b1: \u0395\u03bd\u03c4\u03bf\u03c0\u03af\u03c3\u03c4\u03b7\u03ba\u03b5 \u03b1\u03bd\u03b8\u03c1\u03ce\u03c0\u03b9\u03bd\u03bf \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1 \u03c4\u03b7\u03c2 \u03bd\u03ad\u03b1\u03c2 \u03c0\u03b1\u03c1\u03b1\u03bb\u03bb\u03b1\u03b3\u03ae\u03c2 clade 1b \u03c4\u03b7\u03c2 mpox",
+      "description": "\u03a4\u03bf \u03b3\u03b1\u03bb\u03bb\u03b9\u03ba\u03cc \u03c5\u03c0\u03bf\u03c5\u03c1\u03b3\u03b5\u03af\u03bf \u0395\u03c1\u03b3\u03b1\u03c3\u03af\u03b1\u03c2 \u03ba\u03b1\u03b9 \u03a5\u03b3\u03b5\u03af\u03b1\u03c2 \u03b5\u03bd\u03b7\u03bc\u03b5\u03c1\u03ce\u03b8\u03b7\u03ba\u03b5 \u03b3\u03b9\u03b1 \u03c4\u03bf \u03c0\u03c1\u03ce\u03c4\u03bf \u03b1\u03bd\u03b8\u03c1\u03ce\u03c0\u03b9\u03bd\u03bf \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1 \u03c4\u03bf\u03c5 \u03b9\u03bf\u03cd Mpox \u03c4\u03b7\u03c2 clade 1b \u03c3\u03c4\u03b7\u03bd \u03b5\u03b8\u03bd\u03b9\u03ba\u03ae \u03b5\u03c0\u03b9\u03ba\u03c1\u03ac\u03c4\u03b5\u03b9\u03b1, \u03c3\u03c4\u03b7 \u0392\u03c1\u03b5\u03c4\u03ac\u03bd\u03b7",
+      "url": "https://www.skai.gr/news/health/gallia-entopistike-gia-proti-fora-i-nea-parallagi-clade-1b-tis-mpox",
+      "urlToImage": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2024-09/shutterstock-emvolio-mpox.jpg?itok=bI931qhx",
+      "publishedAt": "2025-01-06 22:37:09",
+      "content": "clade 1b mpox, , , \u00ab Mpox clade 1b , . \u00bb, . \u00ab, . \u00bb, , BFM TV. Mpox , . 2022, , clade 2, . .Skai.gr Google News .",
+      "retrievedAt": "2025-01-08 07:06:25.751066",
+      "internal_id": "9fe53d5e0923b1dd97ad295160432d35c475f1c5243a9e14af880411eb84b04e",
+      "publishedAtLabel": "Jan 6"
+    },
+    {
+      "id": 17099,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Agency Report",
+      "title": "US records first human bird flu death",
+      "description": "The first human death linked to bird flu has been reported in the United States, health authorities in the state of Louisiana said Monday, adding that the patient was elderly and suffered from other pathologies. The patient, aged over 65, had been hospitalise\u2026",
+      "url": "https://punchng.com/us-records-first-human-bird-flu-death/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2025/01/06232208/AFP__20250106__36T64ZB__v1__Preview__FilesUsHealthBirdFluVirus-1010x630.jpg",
+      "publishedAt": "2025-01-06 22:32:25",
+      "content": "(FILES) This handout electron micrograph, taken at 150,000 magnification, courtesy of the Centers for Disease Control and Prevention (CDC) shows an avian influenza A (H5N1) virion--a type of bird flu\u2026 [+771 chars]",
+      "retrievedAt": "2025-01-08 07:06:22.797350",
+      "internal_id": "cb6505a3b9b034a01a9ba89d9638974e1199732a6b1d783074f5c992805e191f",
+      "publishedAtLabel": "Jan 6"
+    },
+    {
+      "id": 17083,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Live Science",
+      "author": "Nicoletta Lanese",
+      "title": "1st deadly case of H5N1 bird flu reported in US",
+      "description": "The patient in Louisiana who contracted a severe case of bird flu has died, officials announced.",
+      "url": "https://www.livescience.com/health/flu/1st-deadly-case-of-h5n1-bird-flu-reported-in-us",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/7gPscbkTTpszLGxzNakqoe-1200-80.jpg",
+      "publishedAt": "2025-01-06 22:25:43",
+      "content": "A person in Louisiana who was hospitalized with a severe case of bird flu has died. The hospitalization, first announced Dec. 13 , marked the first severe case of H5N1 bird flu in the United States\u2026 [+3648 chars]",
+      "retrievedAt": "2025-01-08 07:06:22.668803",
+      "internal_id": "f4766b4ef7bbf17c384d3b6e7890f80f81077e59cf78b0dc403080faff378e42",
+      "publishedAtLabel": "Jan 6"
+    },
+    {
+      "id": 17144,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "20 Minutes",
+      "author": "20 Minutes avec AFP (20 Minutes)",
+      "title": "Mpox : Le tout premier cas du nouveau variant identifi\u00e9 en France \u00e0 Rennes",
+      "description": "Un premier cas de Mpox clade 1b a \u00e9t\u00e9 confirm\u00e9 en Bretagne. La patiente, sans historique de voyage en Afrique centrale, a \u00e9t\u00e9 en contact avec des personnes revenant de cette r\u00e9gion",
+      "url": "https://www.20minutes.fr/sante/4132297-20250106-mpox-tout-premier-cas-nouveau-variant-identifie-france-rennes",
+      "urlToImage": "https://img.20mn.fr/MpUsBxcrRSOCa8TpAoJ7QSk/1444x920_in-front-of-the-university-hospital-buildings-sign-indicating-south-hospital-regional-hospital-center-of-rennes-in-rennes-western-france-on-may-19-2023-photo-by-maylis-rolland-hans-lucas-hans-lucas-via-afp",
+      "publishedAt": "2025-01-06 22:16:17",
+      "content": "Le minist\u00e8re de la Sant\u00e9 a confirm\u00e9 lundi soir un premier cas humain de Mpox de clade 1b en France, pr\u00e9cis\u00e9ment en Bretagne. \u00ab Les mesures de gestion recommand\u00e9es ont \u00e9t\u00e9 mises en place \u00bb, indique le\u2026 [+1858 chars]",
+      "retrievedAt": "2025-01-08 07:06:25.900810",
+      "internal_id": "c5329a4e0828cef50eb36a51d2cef89a2929dc496964130f8ddff3066340d643",
+      "publishedAtLabel": "Jan 6"
+    },
+    {
+      "id": 17085,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Alexander Tin",
+      "title": "First U.S. bird flu death reported in Louisiana after severe case of H5N1",
+      "description": "The Louisiana patient was hospitalized with a severe case of bird flu in the first death in the U.S. caused by the H5N1 virus.",
+      "url": "https://www.cbsnews.com/news/bird-flu-h5n1-death-first-us-louisiana/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/03/08/3bfb408a-526e-452d-bdb3-6936e386e65d/thumbnail/1200x630/ab12754efafdeccc5282ab67ffc7e3f4/cbsn-fusion-h5n1-bird-flu-strain-spreading-to-other-mammals-across-us-thumbnail-1777246-640x360.jpg?v=6ffea931a1e284729a23a55e2e39c4e9",
+      "publishedAt": "2025-01-06 22:08:57",
+      "content": "A Louisiana resident has died after being hospitalized with bird flu, the state's health department announced Monday, marking the first U.S. death from the H5N1 virus. \"The patient was over the age \u2026 [+4271 chars]",
+      "retrievedAt": "2025-01-08 07:06:22.683687",
+      "internal_id": "b8e9fe2351dc68406f20931e0e25202df3952d0d068e5bceb0c5584c46bc699d",
+      "publishedAtLabel": "Jan 6"
+    },
+    {
+      "id": 17098,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "new-scientist",
+      "source_name": "New Scientist",
+      "author": "Grace Wade",
+      "title": "US reports first human death related to bird flu",
+      "description": "A person in Louisiana who became severely ill with a bird flu virus known as H5N1 in December has passed away from the infection, marking the first known bird flu death in the US",
+      "url": "https://www.newscientist.com/article/2462815-us-reports-first-human-death-related-to-bird-flu/",
+      "urlToImage": "https://images.newscientist.com/wp-content/uploads/2025/01/06211751/SEI_235205272.jpg",
+      "publishedAt": "2025-01-06 22:08:14",
+      "content": "Coloured transmission electron micrograph of H5N1 virus particles Science Photo Library A person in Louisiana has died from a bird flu virus known as H5N1. This is the first known death related to \u2026 [+1770 chars]",
+      "retrievedAt": "2025-01-08 07:06:22.790430",
+      "internal_id": "96011280c466201ec652dbeb6ca1aaea149f8d08fc2966d2f73cf7283e2b1a5c",
+      "publishedAtLabel": "Jan 6"
+    },
+    {
+      "id": 17105,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Louisiana reports 1st U.S. human death related to H5N1 avian flu",
+      "description": "The Louisiana Department of Health said on Monday that a U.S. patient hospitalized with H5N1 bird flu has died.",
+      "url": "https://www.cbc.ca/news/health/h5n1-death-louisiana-1.7424277",
+      "urlToImage": "https://i.cbc.ca/1.7391120.1732305681!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_1180/bird-flu.jpg?im=Resize%3D620",
+      "publishedAt": "2025-01-06 22:07:07",
+      "content": "The Louisiana Department of Health said on Monday that a U.S. patient hospitalized with H5N1 bird flu has died, the country's first death from an outbreak of the virus that has sickened dozens of peo\u2026 [+900 chars]",
+      "retrievedAt": "2025-01-08 07:06:22.844730",
+      "internal_id": "b8689e7e8252493a2adf28fd75c6e120fab5afa52b1dec20b09d54c4e7302f98",
+      "publishedAtLabel": "Jan 6"
+    },
+    {
+      "id": 17082,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Quartz India",
+      "author": "Bruce Gil",
+      "title": "The person with the first severe case of the H5N1 bird flu in the U.S. has died",
+      "description": "The Louisiana Department of Health has confirmed the death of the first person to contract a severe case of H5N1 bird flu in the U.S.Read more...",
+      "url": "https://qz.com/h5n1-bird-flu-death-us-1851733660",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/210d3560fe9f0a30ffabba5614731f97.jpg",
+      "publishedAt": "2025-01-06 22:04:00",
+      "content": "The Louisiana Department of Health has confirmed the death of the first person to contract a severe case of H5N1 bird flu in the U.S. The patient, who was over 65 and had undisclosed underlying heal\u2026 [+1715 chars]",
+      "retrievedAt": "2025-01-08 07:06:22.656372",
+      "internal_id": "1f97c13387500b2a189eb84cd32f285b2ec17c9280f4325a5cd77cc890322ecb",
+      "publishedAtLabel": "Jan 6"
+    },
+    {
+      "id": 17135,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "le-monde",
+      "source_name": "Le Monde",
+      "author": "Le Monde avec AFP",
+      "title": "Mpox : un premier cas du nouveau variant identifi\u00e9 en France",
+      "description": "Le minist\u00e8re de la sant\u00e9 a \u00e9t\u00e9 inform\u00e9 \u00ab d\u2019un premier cas humain de mpox de clade 1b sur le territoire national, en Bretagne \u00bb, d\u00e9taille le communiqu\u00e9. Le risque d\u2019infection de ce variant en Europe est consid\u00e9r\u00e9 comme faible.",
+      "url": "https://www.lemonde.fr/societe/article/2025/01/06/mpox-un-premier-cas-du-nouveau-variant-identifie-en-france_6485006_3224.html",
+      "urlToImage": "https://img.lemde.fr/2024/12/09/0/0/8640/5760/1440/960/60/0/6de14bd_d4f56595090447a8a1b76d3fbe87e050-0-b0219e2dfd3c4910b60509dd552785c2.jpg",
+      "publishedAt": "2025-01-06 22:03:51",
+      "content": "Un premier cas du nouveau variant de mpox a \u00e9t\u00e9 identifi\u00e9 en France, rapporte lundi 6 janvier, dans la soir\u00e9e \u00e0 lAgence France-Presse (AFP) le minist\u00e8re de la sant\u00e9. Le minist\u00e8re a \u00e9t\u00e9 inform\u00e9 \u00ab dun \u2026 [+1959 chars]",
+      "retrievedAt": "2025-01-08 07:06:25.835444",
+      "internal_id": "6907335acbb7b9494ec90ca143f0dd1a4958717a55b9919ac0e41634971a25e8",
+      "publishedAtLabel": "Jan 6"
+    },
+    {
+      "id": 17096,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Reuters",
+      "title": "Louisiana registra 1\u00aa morte relacionada \u00e0 gripe avi\u00e1ria nos EUA, diz ag\u00eancia",
+      "description": "O Departamento de Sa\u00fade da Louisiana disse nesta segunda-feira que um paciente norte-americano ...",
+      "url": "https://www.terra.com.br/noticias/mundo/louisiana-registra-1-morte-relacionada-a-gripe-aviaria-nos-eua-diz-agencia,089862ca6a25e3abd6362d6c276d2c88ilvjhy7o.html",
+      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2025-01-06 22:03:45",
+      "content": "O Departamento de Sa\u00fade da Louisiana disse nesta segunda-feira que um paciente norte-americano hospitalizado com gripe avi\u00e1ria H5N1 havia morrido, a primeira morte no pa\u00eds em decorr\u00eancia de um surto \u2026 [+1038 chars]",
+      "retrievedAt": "2025-01-08 07:06:22.775561",
+      "internal_id": "6a0d9280066d12f5bfc0c81d104a31ec6982dcf9d1e566db332746c0ecbf34fe",
+      "publishedAtLabel": "Jan 6"
+    },
+    {
+      "id": 17126,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Protothema.gr",
+      "author": null,
+      "title": "\u03a3\u03c5\u03bd\u03b1\u03b3\u03b5\u03c1\u03bc\u03cc\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03bf\u03bd mpox \u03c3\u03c4\u03b7 \u0393\u03b1\u03bb\u03bb\u03af\u03b1 - \u0395\u03bd\u03c4\u03bf\u03c0\u03af\u03c3\u03c4\u03b7\u03ba\u03b5 \u03b3\u03b9\u03b1 \u03c0\u03c1\u03ce\u03c4\u03b7 \u03c6\u03bf\u03c1\u03ac \u03b7 \u03bd\u03ad\u03b1 \u03c0\u03b1\u03c1\u03b1\u03bb\u03bb\u03b1\u03b3\u03ae clade 1b",
+      "description": "\u03a3\u03cd\u03bc\u03c6\u03c9\u03bd\u03b1 \u03bc\u03b5 \u03c4\u03bf \u03b3\u03b1\u03bb\u03bb\u03b9\u03ba\u03cc \u03c5\u03c0\u03bf\u03c5\u03c1\u03b3\u03b5\u03af\u03bf \u03a5\u03b3\u03b5\u03af\u03b1\u03c2, \u03c4\u03bf \u03c0\u03c1\u03ce\u03c4\u03bf \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1 \u03b5\u03af\u03c7\u03b5 \u03ad\u03c1\u03b8\u03b5\u03b9 \u03c3\u03b5 \u03b5\u03c0\u03b1\u03c6\u03ae \u03bc\u03b5 \u03b4\u03cd\u03bf \u03ac\u03c4\u03bf\u03bc\u03b1 \u03c0\u03bf\u03c5 \u03b5\u03af\u03c7\u03b1\u03bd \u03b5\u03c0\u03b9\u03c3\u03c4\u03c1\u03ad\u03c8\u03b5\u03b9 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u039a\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03ae \u0391\u03c6\u03c1\u03b9\u03ba\u03ae | \u0399\u03cc\u03c2 Mpox | mpox | \u0393\u03b1\u03bb\u03bb\u03af\u03b1 | \u039a\u03cc\u03c3\u03bc\u03bf\u03c2",
+      "url": "https://www.protothema.gr/world/article/1584348/sunagermos-gia-ton-mpox-sti-gallia-edopistike-gia-proti-fora-i-nea-parallagi-clade-1b/",
+      "urlToImage": "https://www.protothema.gr/images/640x360share/jpg/files/2025-01-06/mpox.jpg",
+      "publishedAt": "2025-01-06 22:00:00",
+      "content": ", clade 1b mpox, . \u00ab Mpox clade 1b , . \u00bb, , . \u00ab, . \u00bb, , BFM TV.Mpox , . 2022, , clade 2, . 1b 2023. , , 15 . 22 , 30 . , , . , , . , , .\u00ab 1b \u00bb, . \u00ab \u00bb, 215 mpox 2024 . : 1885 : \u00ab\u00bb - ,",
+      "retrievedAt": "2025-01-08 07:06:25.758007",
+      "internal_id": "c0d77d639e0fc2b8c943eabd259f455a8816742c8dd07a8af81299d4ee67995e",
+      "publishedAtLabel": "Jan 6"
+    },
+    {
+      "id": 17133,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Hbvl.be",
+      "author": "hbvl.be",
+      "title": "Frankrijk rapporteert eerste besmetting met nieuwe mpox-variant",
+      "description": "In Frankrijk is een eerste besmetting gemeld met de nieuwe, meer besmettelijke variant van het mpox-virus. Dat heeft het ministerie van Volksgezondheid maandagavond bevestigd in een persbericht na een artikel in het regionale krant Ouest-France.",
+      "url": "https://www.hbvl.be/cnt/dmf20250106_97908463",
+      "urlToImage": "https://static.hbvl.be/Assets/Images_Upload/2024/12/24/212298fd-a544-4df1-8854-f2a341359899.jpg?maxheight=460&maxwidth=629",
+      "publishedAt": "2025-01-06 21:57:36",
+      "content": "In Frankrijk is een eerste besmetting gemeld met de nieuwe, meer besmettelijke variant van het mpox-virus. Dat heeft het ministerie van Volksgezondheid maandagavond bevestigd in een persbericht na ee\u2026 [+985 chars]",
+      "retrievedAt": "2025-01-08 07:06:25.820267",
+      "internal_id": "e7b1161fb310d5bde68e0042954eccf3f4bdb084e7881b2e4303734a41af0ec8",
+      "publishedAtLabel": "Jan 6"
+    },
+    {
+      "id": 17132,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Nieuwsblad.be",
+      "author": "nieuwsblad.be",
+      "title": "Frankrijk rapporteert eerste besmetting met nieuwe mpox-variant",
+      "description": "In Frankrijk is een eerste besmetting gemeld met de nieuwe, meer besmettelijke variant van het mpox-virus. Dat heeft het ministerie van Volksgezondheid maandagavond bevestigd in een persbericht na een artikel in het regionale krant Ouest-France.",
+      "url": "https://www.nieuwsblad.be/cnt/dmf20250106_97883795",
+      "urlToImage": "https://static.nieuwsblad.be/Assets/Images_Upload/2024/12/24/212298fd-a544-4df1-8854-f2a341359899.jpg?maxheight=460&maxwidth=638",
+      "publishedAt": "2025-01-06 21:53:50",
+      "content": "In Frankrijk is een eerste besmetting gemeld met de nieuwe, meer besmettelijke variant van het mpox-virus. Dat heeft het ministerie van Volksgezondheid maandagavond bevestigd in een persbericht na ee\u2026 [+1074 chars]",
+      "retrievedAt": "2025-01-08 07:06:25.813289",
+      "internal_id": "93ff37f2b37a175d930e799c913077d4aa0d39168d4efc91085bf0f7a53eb422",
+      "publishedAtLabel": "Jan 6"
+    },
+    {
+      "id": 17112,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Lavenir.net",
+      "author": "Belga Belga",
+      "title": "Premier d\u00e9c\u00e8s humain li\u00e9 \u00e0 la grippe aviaire aux Etats-Unis",
+      "description": "Un premier d\u00e9c\u00e8s humain li\u00e9 \u00e0 la grippe aviaire a \u00e9t\u00e9 recens\u00e9 aux Etats-Unis, ont annonc\u00e9 lundi les autorit\u00e9s sanitaires de l'Etat am\u00e9ricain de Louisiane, pr\u00e9cisant qu'il s'agissait d'un patient \u00e2g\u00e9 qui souffrait d'autres pathologies. ...",
+      "url": "https://www.lavenir.net/actu/monde/2025/01/06/premier-deces-humain-lie-a-la-grippe-aviaire-aux-etats-unis-ICHFCWVL2VHEPIZ7S726ASFXAQ/",
+      "urlToImage": "https://www.lavenir.net/resizer/v2/C5ENF4QFEVCUVFQXAFBCN4W3NA.jpg?auth=09edfa0cb090003794c5dcb9ac90235b649fa48114e339bebdedc54f6b77ad73&width=1200&height=630&quality=85&focal=549%2C368&watermark=https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Fipmgroup%2FUVYY255VT5BDBHOGCTGBCGI364.png%3A100%3A0%2C558",
+      "publishedAt": "2025-01-06 21:46:37",
+      "content": "Le malade, \u00e2g\u00e9 de plus de 65 ans, \u00e9tait hospitalis\u00e9 pour une affection respiratoire, et constituait le premier cas grave de contamination humaine au virus H5N1 d\u00e9tect\u00e9 aux Etats-Unis. Malgr\u00e9 ce d\u00e9c\u00e8s\u2026 [+118 chars]",
+      "retrievedAt": "2025-01-08 07:06:22.905667",
+      "internal_id": "2dd5cd94f663ff6659944bf7da81bbe3ee8fc28a54737541478f7509067f9e87",
+      "publishedAtLabel": "Jan 6"
+    },
+    {
+      "id": 17140,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Lalibre.be",
+      "author": "Belga Belga",
+      "title": "Premier d\u00e9c\u00e8s humain li\u00e9 \u00e0 la grippe aviaire aux Etats-Unis",
+      "description": "Un premier cas du nouveau variant de mpox a \u00e9t\u00e9 identifi\u00e9 en France, indique lundi soir \u00e0 l'AFP le minist\u00e8re de la Sant\u00e9 dans un communiqu\u00e9, confirmant une information du quotidien r\u00e9gional Ouest-France. ...",
+      "url": "https://www.lalibre.be/planete/sante/2025/01/06/premier-deces-humain-lie-a-la-grippe-aviaire-aux-etats-unis-MDB3SFLCUBGHRHW5JSB2ARBAMM/",
+      "urlToImage": "https://www.lalibre.be/resizer/v2/CQFFT43QHVDMHFNORMA5I3CJKI.jpg?auth=309e955491f94e8e3af16141b9d9aaaba4d130d7d075dbe34c0fecf0e26ce253&width=1200&height=630&quality=85&focal=3000%2C2000&watermark=https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Fipmgroup%2F3R4IDPARFVEO3L2LC5OCCXQ5RM.png%3A100%3A0%2C557",
+      "publishedAt": "2025-01-06 21:42:27",
+      "content": "Le virus de la grippe aviaire aurait mut\u00e9 dans l'organisme d'un patient am\u00e9ricainLe minist\u00e8re rappelle que quatre pays de l'espace \u00e9conomique europ\u00e9en (EEE) ont recens\u00e9 des cas de mpox de clade 1b de\u2026 [+1165 chars]",
+      "retrievedAt": "2025-01-08 07:06:25.871387",
+      "internal_id": "3db0e1e8d707a980b1ae0619485b65aa429478513e715dbc28d5200419b7e081",
+      "publishedAtLabel": "Jan 6"
+    },
+    {
+      "id": 17094,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Japan Today",
+      "author": null,
+      "title": "Louisiana reports first bird flu-related death in U.S.",
+      "description": "The Louisiana Department of Health said on Monday that a U.S. patient hospitalized with H5N1 bird flu had died, the country's first death from an outbreak of the virus that has sickened dozens of people and millions of poultry and cattle. Nearly 70 people in \u2026",
+      "url": "https://japantoday.com/category/world/louisiana-reports-first-bird-flu-related-death-in-us-state-agency-says1",
+      "urlToImage": null,
+      "publishedAt": "2025-01-06 21:39:58",
+      "content": "The Louisiana Department of Health said on Monday that a U.S. patient hospitalized with H5N1 bird flu had died, the country's first death from an outbreak of the virus that has sickened dozens of peo\u2026 [+918 chars]",
+      "retrievedAt": "2025-01-08 07:06:22.754973",
+      "internal_id": "ca6d2b2fc9551c5efffb141c34c9a1a9ecd59f7dd1d0a209bd6cffb47583ad7b",
+      "publishedAtLabel": "Jan 6"
+    },
+    {
+      "id": 17103,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Der Tagesspiegel",
+      "title": "Krankheiten: Erstmals Mensch in USA nach Vogelgrippe-Infektion gestorben",
+      "description": "Derzeit grassiert die gr\u00f6\u00dfte je dokumentierte Vogelgrippewelle. In den USA ist nun erstmals ein Mensch nach einer Infektion gestorben.",
+      "url": "https://www.tagesspiegel.de/wissen/krankheiten-erstmals-mensch-in-usa-nach-vogelgrippe-infektion-gestorben-12971140.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/12971137/alternates/BASE_16_9_W1400/1736199499000/grauganse.jpeg",
+      "publishedAt": "2025-01-06 21:38:19",
+      "content": "In den USA ist erstmals ein Mensch nach einer Infektion mit dem Vogelgrippe-Virus H5N1 gestorben. Es handele sich um einen Menschen, der \u00e4lter als 65 Jahre gewesen sei und auch andere gesundheitliche\u2026 [+1941 chars]",
+      "retrievedAt": "2025-01-08 07:06:22.830455",
+      "internal_id": "1f42d8efa596db66de5345e37ee171a60779697832743129a0294814f45da41f",
+      "publishedAtLabel": "Jan 6"
+    },
+    {
+      "id": 17081,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "ZEIT ONLINE: News -",
+      "title": "Krankheiten: Erstmals Mensch in USA nach Vogelgrippe-Infektion gestorben",
+      "description": "Hier finden Sie Informationen zu dem Thema \u201eKrankheiten\u201c. Lesen Sie jetzt \u201eErstmals Mensch in USA nach Vogelgrippe-Infektion gestorben\u201c.",
+      "url": "https://www.zeit.de/news/2025-01/06/erstmals-mensch-in-usa-nach-vogelgrippe-infektion-gestorben",
+      "urlToImage": "https://img.zeit.de/news/2025-01/06/erstmals-mensch-in-usa-nach-vogelgrippe-infektion-gestorben-image-group/wide__1300x731",
+      "publishedAt": "2025-01-06 21:37:11",
+      "content": "In den USA ist erstmals ein Mensch nach einer Infektion mit dem Vogelgrippe-Virus H5N1 gestorben. Es handele sich um einen Menschen, der \u00e4lter als 65 Jahre gewesen sei und auch andere gesundheitliche\u2026 [+1216 chars]",
+      "retrievedAt": "2025-01-08 07:06:22.649529",
+      "internal_id": "985eba472df6c022ef3dd7789df4248c4c1d37e1db93bf44535a4366f0a3de89",
+      "publishedAtLabel": "Jan 6"
+    },
+    {
+      "id": 17102,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "Krankheiten: Erstmals Mensch in USA nach Vogelgrippe-Infektion gestorben",
+      "description": "Washington - In den USA ist erstmals ein Mensch nach einer Infektion mit dem Vogelgrippe-Virus H5N1 gestorben. Es handele sich um einen Menschen, der",
+      "url": "https://www.stern.de/panorama/wissen/krankheiten--erstmals-mensch-in-usa-nach-vogelgrippe-infektion-gestorben-35359158.html",
+      "urlToImage": "https://image.stern.de/35359160/t/3-/v1/w1440/r1.7778/-/06--6geefgak4vv8axs2048jpeg---3f1aee8db7dd79e7.jpg",
+      "publishedAt": "2025-01-06 21:37:11",
+      "content": "Kopiere den aktuellen Link Derzeit grassiert die gr\u00f6\u00dfte je dokumentierte Vogelgrippewelle. In den USA ist nun erstmals ein Mensch nach einer Infektion gestorben. In den USA ist erstmals ein Mensch \u2026 [+1340 chars]",
+      "retrievedAt": "2025-01-08 07:06:22.817928",
+      "internal_id": "ac53355bd08f43f713e006b77bd1e6745fdde0e094d6307274c89ac1218629e2",
+      "publishedAtLabel": "Jan 6"
+    },
+    {
+      "id": 17118,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Le HuffPost",
+      "author": "Le HuffPost avec AFP",
+      "title": "Mpox : le nouveau variant clade 1b d\u00e9tect\u00e9 sur une patiente en France, annonce le minist\u00e8re de la Sant\u00e9",
+      "description": "Le nouveau variant de la maladie auparavant appel\u00e9e \u00ab variole du singe \u00bb avait d\u00e9j\u00e0 \u00e9t\u00e9 d\u00e9tect\u00e9 en Europe notamment en Su\u00e8de et en Allemagne.",
+      "url": "https://www.huffingtonpost.fr/life/article/mpox-le-nouveau-variant-clade-1b-detecte-sur-une-patiente-en-france-annonce-le-ministere-de-la-sante_244455.html",
+      "urlToImage": "https://focus.huffingtonpost.fr/2024/08/16/234/0/4536/2551/1820/1023/75/0/00daa7c_1723831609605-000-36e99av.jpg",
+      "publishedAt": "2025-01-06 21:35:37",
+      "content": "SANT\u00c9 - Ce n\u00e9tait quune question de temps. Apr\u00e8s la Su\u00e8de, lAllemagne ou encore la Belgique, un premier cas du nouveau variant de mpox a \u00e9t\u00e9 identifi\u00e9 en France, a indiqu\u00e9 ce lundi 6 janvier au soir \u2026 [+2757 chars]",
+      "retrievedAt": "2025-01-08 07:06:25.700660",
+      "internal_id": "be2c622eb01c85eb6654a6462194351ede209afd56a6a952671cbe997a2f26db",
+      "publishedAtLabel": "Jan 6"
+    },
+    {
+      "id": 17106,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
+      "author": "La r\u00e9daction avec AFP",
+      "title": "Sant\u00e9. Premier d\u00e9c\u00e8s humain li\u00e9 \u00e0 la grippe aviaire aux Etats-Unis",
+      "description": "Un patient am\u00e9ricain de 65 ans, le premier cas grave de contamination humaine au virus H5N1 aux Etats-Unis, est d\u00e9c\u00e9d\u00e9.",
+      "url": "https://www.ledauphine.com/sante/2025/01/06/premier-deces-humain-lie-a-la-grippe-aviaire-aux-etats-unis",
+      "urlToImage": "https://cdn-s-www.ledauphine.com/images/AA45B7F3-D4FA-4332-A508-29E1F02DF290/FB1200/photo-1736199358.jpg",
+      "publishedAt": "2025-01-06 21:35:00",
+      "content": "Le Dauphin\u00e9 Lib\u00e9r\u00e9, en tant que responsable de traitement, recueille dans ce formulaire des informations qui sont enregistr\u00e9es dans un fichier informatis\u00e9 par son Service Relations Clients, la finali\u2026 [+854 chars]",
+      "retrievedAt": "2025-01-08 07:06:22.851817",
+      "internal_id": "89a9cd927da2eaef233b447b7d33a4fefa72e0d46ef74b1427079999b4ed1b6d",
+      "publishedAtLabel": "Jan 6"
+    },
+    {
+      "id": 17145,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Francetvinfo.fr",
+      "author": null,
+      "title": "Epid\u00e9mie de mpox : un premier cas du nouveau variant identifi\u00e9 en France, annonce le minist\u00e8re de la Sant\u00e9",
+      "description": "La femme infect\u00e9e par le mpox de clade 1b n'a pas voyag\u00e9 en Afrique centrale, r\u00e9gion dans laquelle les diff\u00e9rents variants du virus circulent activement depuis plusieurs mois, a pr\u00e9cis\u00e9 le minist\u00e8re de la Sant\u00e9 lundi.",
+      "url": "https://www.francetvinfo.fr/sante/maladie/variole-du-singe/epidemie-de-mpox-un-premier-cas-du-nouveau-variant-identifie-en-france-annonce-le-ministere-de-la-sante_6998294.html",
+      "urlToImage": "https://www.francetvinfo.fr/pictures/tmgFw6jY6fsPa94eKkmmOV92Poc/0x75:6240x3583/1500x843/2025/01/06/sipa-ap22908918-000002-677c4cffd1b4d571410626.jpg",
+      "publishedAt": "2025-01-06 21:31:04",
+      "content": "Un premier cas du nouveau variant du virus mpox, auparavant appel\u00e9 variole du singe, a \u00e9t\u00e9 identifi\u00e9 en France, selon un communiqu\u00e9 publi\u00e9 lundi 6 janvier par le minist\u00e8re du Travail, de la Sant\u00e9, de\u2026 [+1157 chars]",
+      "retrievedAt": "2025-01-08 07:06:25.907930",
+      "internal_id": "4c4d1d163f35918ecdd7ff3a376c18dc003c5379e6fd0879e74a0e545746f469",
+      "publishedAtLabel": "Jan 6"
+    },
+    {
+      "id": 17121,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "svenska-dagbladet",
+      "source_name": "Svenska Dagbladet",
+      "author": "SvD",
+      "title": "Frankrike bekr\u00e4ftar fall av farlig mpox",
+      "description": "Frankrike bekr\u00e4ftar ett f\u00f6rsta fall av den farligare varianten av mpox, klad 1b, rapporterar BFMTV.",
+      "url": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=53131",
+      "urlToImage": "https://static.svd.se/assets/assets/images/logo-sharing-backup.png",
+      "publishedAt": "2025-01-06 21:27:31",
+      "content": "Den kanadensiska premi\u00e4rministern Justin Trudeau meddelade vid en presskonferens p\u00e5 s\u00f6ndagseftermiddagen att han l\u00e4mnar posten som partiledare f\u00f6r Liberalerna och d\u00e4rmed \u00e4ven jobbet som premi\u00e4rminis\u2026 [+642 chars]",
+      "retrievedAt": "2025-01-08 07:06:25.723079",
+      "internal_id": "d74d15cc5cd93f74b3ac2f78e662eb41bf5adf1f3f3a81379d5174fb1c0df220",
+      "publishedAtLabel": "Jan 6"
+    },
+    {
+      "id": 17139,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Aftonbladet.se",
+      "author": null,
+      "title": "Frankrike bekr\u00e4ftar fall av farlig mpox",
+      "description": "\u25b8 Frankrike bekr\u00e4ftar ett f\u00f6rsta fall av den farligare varianten av mpox, klad 1b, rapporterar BFMTV.",
+      "url": "https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1321820",
+      "urlToImage": "https://imbo.vgc.no/users/bt/images/04bcfd306aa8e689a3c9414bd3bfbba5?t%5B%5D=maxSize%3Awidth%3D1200&publicKey=bt-w&accessToken=c154296237d328bb0097189f4214c2298d308c0f0bf0a123f0ff81c1890c743d",
+      "publishedAt": "2025-01-06 21:26:29",
+      "content": "Frankrike bekr\u00e4ftar fall av farlig mpox Tillverkning av tester f\u00f6r mpox i Marocko. Arkivbild. Foto: Mosa'ab Elshamy Frankrike bekr\u00e4ftar fall av farlig mpox Frankrike bekr\u00e4ftar ett f\u00f6rsta f\u2026 [+11614 chars]",
+      "retrievedAt": "2025-01-08 07:06:25.864149",
+      "internal_id": "3068bc0f6cc6616506da01cfc22baa6b40e37e066c742fa784ce9b4904fd6fb2",
+      "publishedAtLabel": "Jan 6"
+    },
+    {
+      "id": 17123,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Expressen.se",
+      "author": "redaktionen@expressen.se (TT)",
+      "title": "Frankrike bekr\u00e4ftar fall av farlig mpox",
+      "description": "Frankrike bekr\u00e4ftar ett f\u00f6rsta fall av den farligare varianten av mpox, klad 1b, rapporterar BFMTV .",
+      "url": "https://www.expressen.se/nyheter/varlden/frankrike-bekraftar-fall-av-farlig-mpox/",
+      "urlToImage": "https://www.expressen.se/images/logotype-for-sharing.png",
+      "publishedAt": "2025-01-06 21:23:37",
+      "content": "WHO beslutade i augusti i fjol att mpox klad 1 ska klassificeras som ett internationellt hot mot m\u00e4nniskors h\u00e4lsa. Smittan har framf\u00f6r allt spridits p\u00e5 den afrikanska kontinenten. Det f\u00f6rsta fallet \u2026 [+135 chars]",
+      "retrievedAt": "2025-01-08 07:06:25.737063",
+      "internal_id": "3d262ed35502cfc1f3860ed6e3b5a32cdda80e44c5f65078a8b3c984f19312ad",
+      "publishedAtLabel": "Jan 6"
+    },
+    {
+      "id": 17138,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Aftonbladet.se",
+      "author": "TT",
+      "title": "Frankrike bekr\u00e4ftar fall av farlig mpox",
+      "description": "\u25b8 Frankrike bekr\u00e4ftar ett f\u00f6rsta fall av den farligare varianten av mpox, klad 1b, rapporterar BFMTV.",
+      "url": "https://www.aftonbladet.se/nyheter/a/Jbqqb4/frankrike-bekraftar-fall-av-farlig-mpox",
+      "urlToImage": "https://images.aftonbladet-cdn.se/v2/images/20203ef5-b9a8-48ef-a566-10679ee687b0?fit=crop&format=auto&h=1267&q=50&w=1900&s=7ea89e08b260b6a37be258e4020c1822ed202be6",
+      "publishedAt": "2025-01-06 21:19:25",
+      "content": "Frankrike bekr\u00e4ftar ett f\u00f6rsta fall av den farligare varianten av mpox, klad 1b, rapporterar BFMTV. WHO beslutade i augusti i fjol att mpox klad 1 ska klassificeras som ett internationellt hot mot m\u2026 [+236 chars]",
+      "retrievedAt": "2025-01-08 07:06:25.856670",
+      "internal_id": "a4d8e72dcb8c6a53242ac995c8746360973f1c563293c7d7bc20cf1e568951f9",
+      "publishedAtLabel": "Jan 6"
+    },
+    {
+      "id": 17080,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Gizmodo.com",
+      "author": "Matt Novak",
+      "title": "Bird Flu Patient in Louisiana Becomes First Human Death in Current H5N1 Outbreak",
+      "description": "The patient acquired bird flu from backyard chickens.",
+      "url": "https://gizmodo.com/bird-flu-patient-in-louisiana-becomes-first-human-death-in-current-h5n1-outbreak-2000546656",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/01/bird-flu-milk.jpg",
+      "publishedAt": "2025-01-06 21:18:23",
+      "content": "A patient with the first \u201csevere case\u201d of bird flu in the U.S. has died, according to a press release Monday from the Louisiana Department of Health. It\u2019s the first human death from H5N1 in the count\u2026 [+3563 chars]",
+      "retrievedAt": "2025-01-08 07:06:22.642059",
+      "internal_id": "37bf4dd60fc8ee6f101b8b270760605103fd3362881e956feabf8ec3d68d8d58",
+      "publishedAtLabel": "Jan 6"
+    },
+    {
+      "id": 17079,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Brenda Goodman",
+      "title": "America's first bird flu death reported in Louisiana",
+      "description": "The first person to have a severe case of H5N1 bird flu in the United States has died, according to the Louisiana Department of Health.",
+      "url": "https://www.cnn.com/2025/01/06/health/bird-flu-death-louisiana/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap24361859677442.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2025-01-06 21:16:17",
+      "content": "The first person to have a severe case of H5N1 bird flu in the United States has died, according to the Louisiana Department of Health. This is the first human death from bird flu in the US. The per\u2026 [+2346 chars]",
+      "retrievedAt": "2025-01-08 07:06:22.634634",
+      "internal_id": "2ca6a3fbe6d96a35df6ac28099f168184e8fb7b48878e8a7af58159a50d8ac4c",
+      "publishedAtLabel": "Jan 6"
+    },
+    {
+      "id": 17130,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
+      "author": "La r\u00e9daction avec AFP",
+      "title": "Sant\u00e9. Un premier cas du nouveau variant du Mpox identifi\u00e9 en France",
+      "description": "Pour la premi\u00e8re fois, un cas du nouveau variant de Mpox a \u00e9t\u00e9 identifi\u00e9 en France, a r\u00e9v\u00e9l\u00e9 le minist\u00e8re de la Sant\u00e9.",
+      "url": "https://www.ledauphine.com/sante/2025/01/06/un-premier-cas-du-nouveau-variant-du-mpox-identifie-en-france",
+      "urlToImage": "https://cdn-s-www.ledauphine.com/images/6C22E6EE-324B-4E11-84A0-0DDD2E6232C6/FB1200/photo-1736198097.jpg",
+      "publishedAt": "2025-01-06 21:14:00",
+      "content": "Le Dauphin\u00e9 Lib\u00e9r\u00e9, en tant que responsable de traitement, recueille dans ce formulaire des informations qui sont enregistr\u00e9es dans un fichier informatis\u00e9 par son Service Relations Clients, la finali\u2026 [+854 chars]",
+      "retrievedAt": "2025-01-08 07:06:25.798430",
+      "internal_id": "2ed20a1de4a0f5307b05ee8fb5f63e406fc6516b1e618b545a507986a69b92e9",
+      "publishedAtLabel": "Jan 6"
+    },
+    {
+      "id": 17111,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "nbc-news",
+      "source_name": "NBC News",
+      "author": "Aria Bendix",
+      "title": "U.S. records its first human bird flu death",
+      "description": "The U.S. has recorded its first human death from bird flu, in a patient hospitalized in Louisiana. The case was considered the country\u2019s first severe human H5N1 infection.",
+      "url": "https://www.nbcnews.com/health/health-news/first-human-bird-flu-death-us-louisiana-rcna186466",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2022-11/221124-bird-flu-mb-1124-5cb51e.jpg",
+      "publishedAt": "2025-01-06 21:09:00",
+      "content": "The U.S. has recorded its first human death from bird flu, a grim milestone that comes as at least 66 cases have been recorded in the country. The patient, who was over 65 and had underlying medica\u2026 [+1260 chars]",
+      "retrievedAt": "2025-01-08 07:06:22.898762",
+      "internal_id": "2dacf30edf4ca5843183ed6e7066949c8b1896faef587918430ea8925612a65f",
+      "publishedAtLabel": "Jan 6"
+    },
+    {
+      "id": 17114,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "BFMTV",
+      "author": null,
+      "title": "\u00c9tats-Unis: un premier d\u00e9c\u00e8s li\u00e9 \u00e0 la grippe aviaire enregistr\u00e9 en Louisiane",
+      "description": "Le minist\u00e8re de la Sant\u00e9 de l'\u00c9tat de Louisiane annonce ce lundi 6 janvier qu'un premier d\u00e9c\u00e8s li\u00e9 \u00e0 la grippe H5N1 a \u00e9t\u00e9 enregistr\u00e9, \"un homme de plus de 65 ans souffrant de probl\u00e8mes m\u00e9dicaux sous-jacents\".",
+      "url": "https://www.bfmtv.com/international/amerique-nord/etats-unis/etats-unis-un-premier-deces-lie-a-la-grippe-aviaire-enregistre-en-louisiane_AN-202501060940.html",
+      "urlToImage": "https://images.bfmtv.com/sfcuXokAl2FAfbRH3WAmlKuS4cQ=/0x235:2000x1360/2000x0/images/Cette-image-publiee-le-24-mai-2024-par-le-CDC-et-le-NIAID-montre-le-virus-de-la-grippe-aviaire-A-H5N1-qui-touche-des-elevages-bovins-aux-Etats-Unis-1878197.jpg",
+      "publishedAt": "2025-01-06 20:56:39",
+      "content": "Le minist\u00e8re de la Sant\u00e9 de l'\u00c9tat de Louisiane annonce ce lundi 6 janvier qu'un premier d\u00e9c\u00e8s li\u00e9 \u00e0 la grippe H5N1 a \u00e9t\u00e9 enregistr\u00e9, \"un homme de plus de 65 ans souffrant de probl\u00e8mes m\u00e9dicaux sous-\u2026 [+1534 chars]",
+      "retrievedAt": "2025-01-08 07:06:22.920129",
+      "internal_id": "c09986fd8d1927572602e8f459bbdd72455ace0b33345774408cb2e4761d58d2",
+      "publishedAtLabel": "Jan 6"
+    },
+    {
+      "id": 17095,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Portfolio.hu",
+      "author": "Portfolio.hu",
+      "title": "Riaszt\u00f3 fordulat: V\u00e9gzetes kimenetel\u0171 H5N1 fert\u0151z\u00e9s az USA-ban",
+      "description": "A louisianai eg\u00e9szs\u00e9g\u00fcgyi hat\u00f3s\u00e1g bejelentette, hogy elhunyt az Egyes\u00fclt \u00c1llamok els\u0151, H5N1 mad\u00e1rinfluenza k\u00f3rh\u00e1zba ker\u00fclt betege. Hangs\u00falyozt\u00e1k, hogy b\u00e1r a k\u00f6zeg\u00e9szs\u00e9g\u00fcgyi kock\u00e1zat tov\u00e1bbra is alacsony, bizonyos csoportok fokozott vesz\u00e9lynek lehetnek kit\u00e9ve.",
+      "url": "https://www.portfolio.hu/gazdasag/20250106/riaszto-fordulat-vegzetes-kimenetelu-h5n1-fertozes-az-usa-ban-733007",
+      "urlToImage": "https://pcdn.hu/articles/images-xl/j/a/r/jarvany-bakterium-betegseg-egeszsegugy-fertozes-gyogyitas-gyogyszer-innovacio-kutata-724695.jpg",
+      "publishedAt": "2025-01-06 20:53:00",
+      "content": "A louisianai eg\u00e9szs\u00e9g\u00fcgyi hat\u00f3s\u00e1g h\u00e9tfi k\u00f6zlem\u00e9nye szerint elhunyt az a beteg, akit elsk\u00e9nt diagnosztiz\u00e1ltak H5N1 mad\u00e1rinfluenz\u00e1val az Egyes\u00fclt \u00c1llamokban. A t\u00e1j\u00e9koztat\u00e1s kiemelte, hogy az elhunyt 6\u2026 [+609 chars]",
+      "retrievedAt": "2025-01-08 07:06:22.762580",
+      "internal_id": "0501897b3e039f8b9f7a365593150c51783398eb4746d966424993ebfee5d127",
+      "publishedAtLabel": "Jan 6"
+    },
+    {
+      "id": 17076,
+      "query": [
+        "hpai"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": "Louis Casiano, Melissa Rudy",
+      "title": "Louisiana reports first bird flu-related human death in US",
+      "description": "A patient in Louisiana who had been hospitalized with the first human case of highly pathogenic avian influenza, or bird flu, has died, health officials said Monday.",
+      "url": "https://www.foxnews.com/health/louisiana-reports-first-bird-flu-related-human-death-us",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/01/bird-flu.jpg",
+      "publishedAt": "2025-01-06 20:47:36",
+      "content": "A patient in Louisiana who had been hospitalized with the first human case of highly pathogenic avian influenza (HPAI), has died, health officials announced on Monday. The death was reported by the\u2026 [+2978 chars]",
+      "retrievedAt": "2025-01-08 07:06:22.249570",
+      "internal_id": "884ba45816e8d0d05777c01d83e727394912eb03e46feb91417b3c7663cf73e9",
+      "publishedAtLabel": "Jan 6"
+    },
+    {
+      "id": 17077,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "KATC Lafayette News",
+      "author": null,
+      "title": "State health officials report first avian flu death",
+      "description": "The person who died was older than 65 and contracted H5N1 after exposure to a combination of a non-commercial backyard flock and wild birds.",
+      "url": "https://www.katc.com/news/covering-louisiana/state-health-officials-report-first-avian-flu-death",
+      "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/9c11bb3/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F96%2Fec%2Ffc7cf4fb452cbdc3f51cf4520072%2Fnew.jpg",
+      "publishedAt": "2025-01-06 20:32:54",
+      "content": "The Louisiana Department of Health reports the patient who had been hospitalized with the first human case of highly pathogenic avian influenza (HPAI), or H5N1, in Louisiana and the U.S. has died. \u2026 [+2627 chars]",
+      "retrievedAt": "2025-01-08 07:06:22.262630",
+      "internal_id": "f32fc0805d7ea1c8ebcdd0ed0ed59ab809d95faedda63c35e8ad0be535ba0ec9",
+      "publishedAtLabel": "Jan 6"
+    },
     {
       "id": 17064,
       "query": [
@@ -21628,6 +22996,222 @@
       "content": "The infection of mammalian species by avian flu viruses is causing concern, with cell replication in mammals making the virus more pathogenic to humans. A recent investigation into the increase in d\u2026 [+5001 chars]",
       "retrievedAt": "2024-11-26 07:07:01.898728",
       "internal_id": "e8baabf99bd21017d141d03b2944d20d1482fce25de6a6af63fd9c17dd0af78f",
+      "publishedAtLabel": "Nov 24"
+    },
+    {
+      "id": 15873,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "da Silva, C., Matambisso, G., Boene, S., Rovira-Vallbona, E., Pujol, A., Comiche, K., Sanchez, A., Greenhouse, B., Chidimatembue, A., Aranda-Diaz, A., Arnaldo, P., Ariani, C., Walker, P., Mbeve, H., Ndimande, N., Tembisse, D., Ruybal-Pesantez, S., Verity, R., Rafael, B., Candrinho, B., Mayor, A.",
+      "title": "Plasmodium falciparum molecular surveillance to inform the Mozambican National Malaria Control Programme strategy: protocol",
+      "description": "Introduction Malaria molecular surveillance has the potential to generate information on biological threats that compromise the effectiveness of antimalarial interventions. This study aims to streamline surveillance activities to inform the new strategic plan\u2026",
+      "url": "https://bmjopen.bmj.com/content/14/11/e092590",
+      "urlToImage": "https://bmjopen.bmj.com/pages/wp-content/uploads/sites/7/2019/07/bmjopen-default-cover.png",
+      "publishedAt": "2024-11-24 17:58:38",
+      "content": "Introduction Mozambique is among the 10 countries with the highest malaria burden in the world, with an estimated 10.4million cases in 2022.1 Malaria transmission is highly heterogeneous across the \u2026 [+13400 chars]",
+      "retrievedAt": "2024-11-25 19:06:05.573448",
+      "internal_id": "89a3eea43332ec474494b53463927591b959921c7d7acececb50fb84471e7bf6",
+      "publishedAtLabel": "Nov 24"
+    },
+    {
+      "id": 15864,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Rolling Stone",
+      "author": "Jeff Ihaza",
+      "title": "Boldy James and Benny The Butcher Play With Art and Reality On \u2018Rabies\u2019",
+      "description": "The track is a stand-out single from Boldy James and Harry Fraud\u2019s \u2018The Bricktionary\u2019 album.",
+      "url": "http://www.rollingstone.com/music/music-features/boldy-james-and-benny-the-butcher-rabies-new-song-1235176806/",
+      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2024/11/boldy-james-benny-the-butcher.jpg?crop=0px%2C26px%2C1800px%2C1015px&resize=1600%2C900",
+      "publishedAt": "2024-11-24 17:02:07",
+      "content": "Two of Griselda\u2019s best connected on \u201cRabies,\u201d a track from Boldy James and Harry Fraud\u2019s aptly named new album The Bricktionary. Both artists are recognized as skilled scribes of R-rated drug epics t\u2026 [+2036 chars]",
+      "retrievedAt": "2024-11-25 19:06:03.352109",
+      "internal_id": "7332c4bf00420b0c2dc57603b47a5493d558433624acb0289824ae2969fca0dd",
+      "publishedAtLabel": "Nov 24"
+    },
+    {
+      "id": 15875,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Jeune Afrique",
+      "author": "The Conversation",
+      "title": "Face au Mpox, la n\u00e9cessaire s\u00e9curisation des march\u00e9s de viande sauvage",
+      "description": "En parall\u00e8le des mesures pr\u00e9ventives traditionnelles destin\u00e9es \u00e0 endiguer l\u2019\u00e9pid\u00e9mie de \u00ab variole du singe \u00bb, le collectif One Health pr\u00e9conise de s\u2019attaquer au manque d\u2019hygi\u00e8ne et de r\u00e9gulation des march\u00e9s de viande sauvage en Afrique, cause profonde de la t\u2026",
+      "url": "https://www.jeuneafrique.com/1633221/societe/face-au-mpox-la-necessaire-securisation-des-marches-de-viande-sauvage/",
+      "urlToImage": "https://prod.cdn-medias.jeuneafrique.com/cdn-cgi/image/q=auto,f=auto,metadata=none,width=1280,height=720,fit=cover,gravity=0.5000x0.5000/https://prod.cdn-medias.jeuneafrique.com/medias/2024/11/22/jad20241122-the-conversation-mpox-viande-sauvage.jpg",
+      "publishedAt": "2024-11-24 15:08:48",
+      "content": "Dans de nombreux pays du monde, les animaux sauvages sont parfois tu\u00e9s pour \u00eatre mang\u00e9s, notamment les singes, les rats et les \u00e9cureuils. La viande sauvage contribue de mani\u00e8re significative \u00e0 la nut\u2026 [+7001 chars]",
+      "retrievedAt": "2024-11-25 19:06:06.611103",
+      "internal_id": "f207aba0c59742f045eb7a957d98ea647ad8157b3c2d380b9e5d7b21232fc050",
+      "publishedAtLabel": "Nov 24"
+    },
+    {
+      "id": 15867,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Diepresse.com",
+      "author": "Die Presse",
+      "title": "Erstmals Kind in den USA mit Vogelgrippe infiziert",
+      "description": "In Kanada hat sich indes ein Jugendlicher mit dem Vogelgrippevirus H5N1 infiziert. Das Virus ist mutiert und hat sich an den menschlichen Wirt angepasst.",
+      "url": "https://www.diepresse.com/19105604/erstmals-kind-in-den-usa-mit-vogelgrippe-infiziert",
+      "urlToImage": "https://img.diepresse.com/public/incoming/1r01sv-HEALTH-BIRDFLUMEXICO/alternates/DPR_SOCIAL_NACHRICHTEN/HEALTH-BIRDFLUMEXICO",
+      "publishedAt": "2024-11-24 11:40:32",
+      "content": "In Kanada hat sich indes ein Jugendlicher mit dem Vogelgrippevirus H5N1 infiziert. Das Virus ist mutiert und hat sich an den menschlichen Wirt angepasst. Zwei Vogelgrippe-F\u00e4lle bei einem Kind und ei\u2026 [+3696 chars]",
+      "retrievedAt": "2024-11-25 19:06:04.603474",
+      "internal_id": "5a32f8b67e59e060d40b2c556923d68d43e78519d83488eaf6bbf06cbb13e5f0",
+      "publishedAtLabel": "Nov 24"
+    },
+    {
+      "id": 15866,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "N-tv.de",
+      "author": "n-tv NACHRICHTEN",
+      "title": "An menschlichen Wirt angepasst: Vogelgrippe-Virus H5N1 mutiert in Teenager",
+      "description": "Das Vogelgrippe-Virus breitet sich in Nordamerika weiter aus: In den USA infizierte sich nun erstmals ein Kind. In Kanada k\u00e4mpft ein Teenager mit einem mutierten H5N1-Erreger. Experten zeigen sich besorgt.",
+      "url": "https://www.n-tv.de/wissen/Vogelgrippe-Virus-H5N1-mutiert-in-Teenager-article25383544.html",
+      "urlToImage": "https://bilder3.n-tv.de/img/incoming/crop25383558/0841323954-cImg_16_9-w1200/490232021.jpg",
+      "publishedAt": "2024-11-24 11:25:17",
+      "content": "Das Vogelgrippe-Virus breitet sich in Nordamerika weiter aus: In den USA infizierte sich nun erstmals ein Kind. In Kanada k\u00e4mpft ein Teenager mit einem mutierten H5N1-Erreger. Experten zeigen sich be\u2026 [+3722 chars]",
+      "retrievedAt": "2024-11-25 19:06:04.595948",
+      "internal_id": "60fc8f5478b14e18bf08da7bbf4c351a0274b4af96d1d15546358cb91eb94964",
+      "publishedAtLabel": "Nov 24"
+    },
+    {
+      "id": 15865,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The New Yorker",
+      "author": "Dhruv Khullar",
+      "title": "The Fundamental Problem with R.F.K., Jr.,\u2019s Nomination to H.H.S.",
+      "description": "Dhruv Khullar on the trouble\u2014and the opportunity\u2014with Robert F. Kennedy, Jr. He has many bad ideas\u2014about vaccines, COVID, the N.I.H., and the F.D.A. Yet the irony of our political moment is that his more reasonable positions are the ones that could sink his c\u2026",
+      "url": "https://www.newyorker.com/magazine/2024/12/02/the-fundamental-problem-with-rfk-jrs-nomination-to-hhs",
+      "urlToImage": "https://media.newyorker.com/photos/673e6dbc46f9b2a74bb8be57/16:9/w_1280,c_limit/Comment-RFK-Jr-and-America_social.jpg",
+      "publishedAt": "2024-11-24 11:00:00",
+      "content": "In 2018, two children in Samoa died after receiving measles vaccines, because the nurses who administered them had mistakenly mixed the vaccine powder with a muscle relaxant. Local vaccine skeptics s\u2026 [+6504 chars]",
+      "retrievedAt": "2024-11-25 19:06:03.946463",
+      "internal_id": "a23f0a7bfedb93b3753ce9921429adbdf9edd09105a5bc240665ae194f9ff15f",
+      "publishedAtLabel": "Nov 24"
+    },
+    {
+      "id": 15872,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "bild",
+      "source_name": "Bild",
+      "author": "Karen von Guttenberg",
+      "title": "Durchbruch gegen die Krankheit? - Erste Malaria-Impfung per M\u00fcckenstich!",
+      "description": "Wissenschaftler entwickeln eine neue Impfstrategie gegen Malaria, bei der gentechnisch ver\u00e4nderte Erreger durch M\u00fcckenstiche \u00fcbertragen werden.",
+      "url": "https://www.bild.de/leben-wissen/wissenschaft/mueckenstiche-als-impfung-durchbruch-gegen-malaria-6742db4cd3e4b22ff2f6ab7b",
+      "urlToImage": "https://images.bild.de/6742db4cd3e4b22ff2f6ab7b/46e66ebf71d06f9c7f0c5f33a83491c7,8705b3e7?w=1280",
+      "publishedAt": "2024-11-24 09:48:13",
+      "content": "Was klingt, wie ein schlechter Scherz, ist in Wirklichkeit eine neue Form der Impfung gegen Malaria: Der Impfstoff wird durch M\u00fcckenstiche \u00fcbertragen. Aber wie? Laut dem World Malaria Report 2023 de\u2026 [+1834 chars]",
+      "retrievedAt": "2024-11-25 19:06:05.549172",
+      "internal_id": "38e4cda32b130c5543608f68ed5f28579c113e3a4dd778ac1fb40eecf93257db",
+      "publishedAtLabel": "Nov 24"
+    },
+    {
+      "id": 15874,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Jeune Afrique",
+      "author": "Jeanne Le Bihan",
+      "title": "Au Burkina Faso, Halidou Tinto, artisan d\u2019un nouveau vaccin contre le paludisme",
+      "description": "Install\u00e9s \u00e0 moins de 100 km de Ouagadougou, le professeur ivoiro-burkinab\u00e8 et son \u00e9quipe ont jou\u00e9 un r\u00f4le majeur dans l\u2019\u00e9laboration du R21 contre la malaria, approuv\u00e9 par l\u2019OMS en 2023.",
+      "url": "https://www.jeuneafrique.com/1631409/societe/au-burkina-faso-halidou-tinto-artisan-dun-nouveau-vaccin-contre-le-paludisme/",
+      "urlToImage": "https://prod.cdn-medias.jeuneafrique.com/cdn-cgi/image/q=auto,f=auto,metadata=none,width=1280,height=720,fit=cover,gravity=0.5284x0.2692/https://prod.cdn-medias.jeuneafrique.com/medias/2024/11/22/jad20241122-homme-du-mois-halidou-tnto.jpg",
+      "publishedAt": "2024-11-24 09:05:06",
+      "content": "Le paludisme, le professeur Halidou Tinto en a fait une affaire personnelle. Depuis quen 1989, accabl\u00e9 par la fi\u00e8vre, les maux de t\u00eate et les vertiges, le futur scientifique est contraint de quitter \u2026 [+227 chars]",
+      "retrievedAt": "2024-11-25 19:06:05.592590",
+      "internal_id": "b40d10da2d0b78638e34b6ff921e32b417dc17221bff9a1c2216da7e9cbc9a95",
+      "publishedAtLabel": "Nov 24"
+    },
+    {
+      "id": 15870,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "Alejandro Svarch * y Jos\u00e9 Moya **",
+      "title": "Alejandro Svarch * y Jos\u00e9 Moya **: Calor, humedad y mosquitos: cr\u00f3nica de una temporada de dengue",
+      "description": "Al caer la tarde, las pangas y lanchas cruzan la cuenca veracruzana del r\u00edo Papaloapan. Mujeres y hombres regresan a sus hogares despu\u00e9s de una ardua jornada en la plantaci\u00f3n de ca\u00f1a de az\u00facar. Los d\u00edas lluviosos, con temperaturas que rondan los 30 grados, hu\u2026",
+      "url": "https://www.jornada.com.mx/2024/11/24/opinion/012a2pol",
+      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "publishedAt": "2024-11-24 09:04:56",
+      "content": "l caer la tarde, las pangas y lanchas cruzan la cuenca veracruzana del r\u00edo Papaloapan. Mujeres y hombres regresan a sus hogares despu\u00e9s de una ardua jornada en la plantaci\u00f3n de ca\u00f1a de az\u00facar. Los d\u00ed\u2026 [+4780 chars]",
+      "retrievedAt": "2024-11-25 19:06:04.917958",
+      "internal_id": "bf32a6ce1737866467f362ae84ccae5e822dbbfe09cbae71fa41e87c8b3d70b4",
+      "publishedAtLabel": "Nov 24"
+    },
+    {
+      "id": 15871,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "title": "En lo que va del a\u00f1o, 262 decesos y m\u00e1s de 110 mil casos de dengue",
+      "description": "La Direcci\u00f3n General de Epidemiolog\u00eda (DGE) de la Secretar\u00eda de Salud (Ssa) inform\u00f3 que en lo que va del a\u00f1o se han confirmado 110 mil 281 casos de dengue en el pa\u00eds, de los cuales, 48 mil 945 corresponden a dengue con signos de alarma y grave, y 61 mil 336, \u2026",
+      "url": "https://www.jornada.com.mx/2024/11/24/sociedad/027n1soc",
+      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "publishedAt": "2024-11-24 09:04:56",
+      "content": "Peri\u00f3dico La JornadaDomingo 24 de noviembre de 2024, p. 27 La Direcci\u00f3n General de Epidemiolog\u00eda (DGE) de la Secretar\u00eda de Salud (Ssa) inform\u00f3 que en lo que va del a\u00f1o se han confirmado 110 mil 281 \u2026 [+1641 chars]",
+      "retrievedAt": "2024-11-25 19:06:04.930546",
+      "internal_id": "5f33fc5f0112ff7897ada9caf5a7a5c8429033f4868b66f87109b4c805c64273",
+      "publishedAtLabel": "Nov 24"
+    },
+    {
+      "id": 15869,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "Alejandro Svarch * y Jos\u00e9 Moya **",
+      "title": "Alejandro Svarch * y Jos\u00e9 Moya **: Calor, humedad y mosquitos: cr\u00f3nica de una temporada de dengue",
+      "description": "Al caer la tarde, las pangas y lanchas cruzan la cuenca veracruzana del r\u00edo Papaloapan. Mujeres y hombres regresan a sus hogares despu\u00e9s de una ardua jornada en la plantaci\u00f3n de ca\u00f1a de az\u00facar. Los d\u00edas lluviosos, con temperaturas que rondan los 30 grados, hu\u2026",
+      "url": "https://www.jornada.com.mx/2024/11/24/politica/012a2pol",
+      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "publishedAt": "2024-11-24 09:04:55",
+      "content": "l caer la tarde, las pangas y lanchas cruzan la cuenca veracruzana del r\u00edo Papaloapan. Mujeres y hombres regresan a sus hogares despu\u00e9s de una ardua jornada en la plantaci\u00f3n de ca\u00f1a de az\u00facar. Los d\u00ed\u2026 [+4780 chars]",
+      "retrievedAt": "2024-11-25 19:06:04.910615",
+      "internal_id": "66f7f612f0312e2363ed0e2ebc5278c4375ac626687cf03f87ad090ca8f8e26f",
+      "publishedAtLabel": "Nov 24"
+    },
+    {
+      "id": 15868,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "CNN \u0628\u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+      "title": "\u0639\u0648\u062f\u0629 \u0641\u064a\u0631\u0648\u0633 \u0642\u062f\u064a\u0645..\u0645\u0627 \u0627\u0644\u0633\u0628\u0628 \u0648\u0631\u0627\u0621 \u0627\u0631\u062a\u0641\u0627\u0639 \u062d\u0627\u0644\u0627\u062a \u0625\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u0637\u064a\u0648\u0631 \u062e\u0644\u0627\u0644 \u0641\u0635\u0644 \u0627\u0644\u062e\u0631\u064a\u0641\u061f",
+      "description": "\u0641\u064a\u0631\u0648\u0633 \"H5N1\" \u0627\u0644\u0645\u0633\u0628\u0628 \u0644\u0625\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u0637\u064a\u0648\u0631 \u0647\u0648 \u0645\u0631\u0636 \u062a\u0646\u0641\u0651\u0633\u064a \u0634\u062f\u064a\u062f \u0627\u0644\u0639\u062f\u0648\u0649 \u064a\u0646\u062a\u0634\u0631 \u0641\u064a \u0648\u0644\u0627\u064a\u0627\u062a \u0623\u0645\u0631\u064a\u0643\u064a\u0629 \u0639\u062f\u0651\u0629 \u0628\u064a\u0646 \u0627\u0644\u0637\u064a\u0648\u0631 \u0627\u0644\u0628\u0631\u064a\u0629\u060c \u0648\u0627\u0644\u062f\u0648\u0627\u062c\u0646\u060c \u0648\u0627\u0644\u062d\u064a\u0648\u0627\u0646\u0627\u062a \u0627\u0644\u0623\u062e\u0631\u0649. \u0623\u062f\u0651\u0649 \u062a\u0641\u0634\u064a \u0625\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u0637\u064a\u0648\u0631 \u0625\u0644\u0649 \u0625\u0635\u0627\u0628\u0629 \u0623\u0643\u062b\u0631 \u0645\u0646 \u0623\u0631\u0628\u0639\u064a\u0646 \u0634\u062e\u0635\u064b\u0627 \u0641\u064a \u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629. \u0648\u0641\u064a \u062d\u064a\u0646 \u0623\u0646 \u0645\u0639\u0638\u0645 \u0627\u0644\u062d\u0627\u0644\u0627\u062a \u0627\u0644\u0628\u0634\u0631\u064a\u0629 \u0645\u062a\u0648\u0633\u0637\u0629\u060c \u0641\u2026",
+      "url": "https://arabic.cnn.com/science-and-health/video/2024/11/24/v165853-bird-flu-return",
+      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2024/11/24/images/283539.jpg",
+      "publishedAt": "2024-11-24 07:22:53",
+      "content": "",
+      "retrievedAt": "2024-11-25 19:06:04.628116",
+      "internal_id": "8604de16f0bb5e75966b283eda033b72c4fd5fc92e17cd40571f3d867343e51f",
       "publishedAtLabel": "Nov 24"
     }
   ]
