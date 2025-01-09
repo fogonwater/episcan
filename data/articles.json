@@ -1,8 +1,224 @@
 {
-  "last_updated": "2025-01-08 19:05",
-  "count_articles_total": 1332,
-  "count_articles_new": 57,
+  "last_updated": "2025-01-09 07:06",
+  "count_articles_total": 1356,
+  "count_articles_new": 12,
   "articles": [
+    {
+      "id": 17210,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Computerworld.dk",
+      "author": "Jacob \u00d8. Wittorff",
+      "title": "Nvidias ser billion-stor forretningsmulighed i fysiske robotter: \u201cDen st\u00f8rste teknologi-industri, som verden endnu har set\u201d",
+      "description": "Der er svimlende forretningsmuligheder i robot-industrien, lyder det fra Nvidia-topchefen Jensen Huang.",
+      "url": "https://www.computerworld.dk/art/289989/nvidias-ser-billion-stor-forretningsmulighed-i-fysiske-robotter-den-stoerste-teknologi-industri-som-verden-endnu-har-set",
+      "urlToImage": "https://www.computerworld.dk/fil/230628?width=600&height=315&focus=1",
+      "publishedAt": "2025-01-08 06:38:00",
+      "content": "Der er svimlende forretningsmuligheder i robot-industrien, lyder det fra Nvidia-topchefen Jensen Huang.Annonceindl\u00e6g fra HPAI-ekspert Robert Luciani: Den rigtige teknologi er afg\u00f8rende for succes med\u2026 [+1818 chars]",
+      "retrievedAt": "2025-01-09 07:06:33.342009",
+      "internal_id": "3db0ed11fd5681423398aa69646c20554075d1565c1f8b6d1241fea930ad38fd",
+      "publishedAtLabel": "Jan 8"
+    },
+    {
+      "id": 17218,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
+      "author": "En partenariat avec Destination Sant\u00e9",
+      "title": "Sant\u00e9. Premier cas de variant de la variole du singe en France : qui doit \u00eatre vaccin\u00e9 ?",
+      "description": "La France devient le quatri\u00e8me pays d\u2019Europe \u00e0 identifier sur son territoire un cas de mpox de clade 1b. Celui-ci s\u00e9vit actuellement en Afrique centrale et pourrait \u00eatre responsable de sympt\u00f4mes plus s\u00e9v\u00e8res que le clade 2, \u00e0 l'origine de l\u2019\u00e9pid\u00e9mie de 2022. \u2026",
+      "url": "https://www.ledauphine.com/magazine-sante/2025/01/08/premier-cas-de-mpox-de-clade-1b-en-france-qui-est-concerne-par-la-vaccination",
+      "urlToImage": "https://cdn-s-www.ledauphine.com/images/D4C3C435-F05D-4A8C-93C3-255943D375E2/FB1200/photo-1736316085.jpg",
+      "publishedAt": "2025-01-08 06:15:00",
+      "content": "Apr\u00e8s l\u2019identification d\u2019un premier cas de mpox (anciennement nomm\u00e9e \u00ab variole du singe \u00bb) de clade 1b en France m\u00e9tropolitaine, confirm\u00e9 lundi 6 janvier, les autorit\u00e9s sanitaires rappellent l\u2019import\u2026 [+4575 chars]",
+      "retrievedAt": "2025-01-09 07:06:35.977201",
+      "internal_id": "ef7ac588999a57cc02936a358686df28832555d0d6156bb1d504558c80b65118",
+      "publishedAtLabel": "Jan 8"
+    },
+    {
+      "id": 17208,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Comparison of Contemporary and Historic Highly Pathogenic Avian Influenza A(H5N1) Virus Replication in Human Lung Organoids",
+      "description": "HPAI H5N1 Virus Replication in Lung Organoids",
+      "url": "https://wwwnc.cdc.gov/eid/article/31/2/24-1147_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2025-01-08 05:00:00",
+      "content": "Clade 2.3.4.4b highly pathogenic avian influenza (HPAI) A(H5N1) viruses have circulated in avian species in North America since 2021. Subsequently, those viruses have been detected in a wide range of\u2026 [+9939 chars]",
+      "retrievedAt": "2025-01-09 07:06:33.273124",
+      "internal_id": "afc13b1d821ba71463c6921008716606297d46b9687dde1825f9468ed62fd474",
+      "publishedAtLabel": "Jan 8"
+    },
+    {
+      "id": 17217,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Straits Times",
+      "author": "Sarah Koh",
+      "title": "More than 13,600 dengue cases reported in Singapore in 2024, a rise of over 36% from 2023",
+      "description": "More than 13,600 dengue cases reported in Singapore in 2024, a rise of over 36% from 2023straitstimes.com",
+      "url": "https://www.straitstimes.com/singapore/health/more-than-13600-local-dengue-cases-reported-in-2024-a-rise-of-over-36-from-2023",
+      "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/10115c572c3c3b1271ad91bbde41c0a1c8ce14bede5c3ef75a831d3926f5dcfa",
+      "publishedAt": "2025-01-08 04:13:12",
+      "content": "SINGAPORE - There were more than 13,600 cases of dengue locally in 2024, an increase of over 36 per cent from the year before. According to the latest statistics on the National Environmental Agency\u2026 [+2378 chars]",
+      "retrievedAt": "2025-01-09 07:06:34.450873",
+      "internal_id": "4cbf0fe1c3e2615e6cb30c3a9d41e141c65e8b6fd08da8236573a0944d0868f0",
+      "publishedAtLabel": "Jan 8"
+    },
+    {
+      "id": 17212,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Technews.tw",
+      "author": "MoneyDJ",
+      "title": "\u79bd\u6d41\u611f\u6b7b\u4ea1\u9996\u4f8b\uff0b\u65b0\u51a0\u3001\u6d41\u611f\u75c5\u6bd2\u767c\u5a01\uff0c\u7f8e\u75ab\u82d7\u80a1\u98c6",
+      "description": "\u7f8e\u570b\u51fa\u73fe\u4eba\u985e\u56e0\u79bd\u6d41\u611f\u6b7b\u4ea1\u7684\u9996\u4f8b\uff0c\u52a0\u4e0a\u65b0\u51a0\u3001\u6d41\u611f\u75c5\u6bd2\u9f4a\u767c\u5a01\uff0c\u5e36\u52d5 mRNA \u7642\u6cd5\u53ca\u75ab\u82d7\u751f\u6280\u696d\u8005\u83ab\u5fb7\u7d0d\uff08Moderna Inc.\uff09\u7b49\u6982\u5ff5\u80a1\u885d\u9ad8\u3002 Barron's\u3001Business Insider\u7b49\u5916\u96fb\u5831\u5c0e\uff0c\u83ab\u5fb7\u7d0d\u662f\u5c11\u6578\u5e7e\u5bb6\u6b63\u5728\u958b\u767cH5N1\u79bd\u6d41\u611f\u75ab\u82d7\u7684\u696d\u8005\u4e4b\u4e00\u3002H5N1\u6b63\u5728\u5317\u7f8e\u8fb2\u5834\u53ca\u91ce\u751f\u52d5\u7269\u7fa4\u9ad4\u9593\u5feb\u901f\u50b3...",
+      "url": "https://finance.technews.tw/2025/01/08/moderna-stock-jumps-amid-bird-flu-vaccine-hope-after-first-u-s-death/",
+      "urlToImage": "https://img.technews.tw/wp-content/uploads/2021/12/03114045/mufid-majnun-ruQ-_rc5tOo-unsplash-e1642649360241.jpg",
+      "publishedAt": "2025-01-08 02:30:39",
+      "content": "mRNA Moderna Inc. Barron\u2019sBusiness InsiderH5N1H5N1 CDC20241666H5N120226720WHO950 6H5N165H5N1British Columbia132024H5N1 PfizerGSKCureVacmRNA CDCCOVID-19CDC13 711.65%47.532024117GSK ADR0.89%0.38%\u2026 [+220 chars]",
+      "retrievedAt": "2025-01-09 07:06:33.774421",
+      "internal_id": "cd13aa3201d2f0ff4843ecc72298019b769617f32325f9d42b5cddcf9ea16a63",
+      "publishedAtLabel": "Jan 8"
+    },
+    {
+      "id": 17214,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Technews.tw",
+      "author": "\u4e2d\u592e\u5ee3\u64ad\u96fb\u53f0",
+      "title": "\u7f8e\u570b\u9996\u4f8b\u4eba\u985e\u611f\u67d3\u79bd\u6d41\u611f\u6b7b\u4ea1\uff0c\u8a55\u4f30\u516c\u885b\u98a8\u96aa\u4ecd\u4f4e",
+      "description": "\u6cd5\u65b0\u793e\u5831\u5c0e\uff0c\u8def\u6613\u65af\u5b89\u90a3\u5dde\u885b\u751f\u5c40 6 \u65e5\u5ba3\u5e03\uff0c\u7f8e\u570b\u901a\u5831\u7b2c\u4e00\u8d77\u548c\u79bd\u6d41\u611f\u6709\u95dc\u7684\u4eba\u985e\u6b7b\u4ea1\u6848\u4f8b\uff0c\u9019\u540d\u75c5\u60a3\u6709\u6162\u6027\u75c5\u53f2\u3002 65\u6b72\u60a3\u8005\u56e0\u547c\u5438\u7cfb\u7d71\u75be\u75c5\u4f4f\u9662\uff0c\u662f\u7f8e\u570b\u9996\u6b21\u767c\u73fe\u5230\u4eba\u985e\u611f\u67d3H5N1\u79bd\u6d41\u611f\u7684\u56b4\u91cd\u75c5\u4f8b\u3002\u53bb\u5e7412\u6708\u4e2d\u65ec\u5ba3\u5e03\u9019\u540d\u60a3\u8005\u300c\u60c5\u6cc1\u5371\u6025\u300d\uff0c\u5f15\u767c\u7f8e\u570b\u53ef\u80fd\u7206\u767c\u79bd\u6d41\u611f\u5927\u6d41\u884c\u7684\u6182\u5fc3\uff0c\u4e16\u754c\u5404\u5730\u4e5f\u901a\u5831\u985e\u4f3c\u6848\u4f8b\u3002 \u8def\u6613\u65af\u5b89\u90a3...",
+      "url": "https://technews.tw/2025/01/08/first-human-death-from-avian-influenza-in-usa/",
+      "urlToImage": "https://img.technews.tw/wp-content/uploads/2025/01/07105701/bird-5627282_1280.jpg",
+      "publishedAt": "2025-01-08 00:30:26",
+      "content": "\u00a9 2013-2025 TechNews Inc. All rights reserved. | | | |",
+      "retrievedAt": "2025-01-09 07:06:33.940928",
+      "internal_id": "a7cdbc3cfadab9c975d5d9bde316e7851b78739870dee9f3df092bc559c60545",
+      "publishedAtLabel": "Jan 8"
+    },
+    {
+      "id": 17219,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Francetvinfo.fr",
+      "author": null,
+      "title": "Virus mpox : premi\u00e8re alerte en Bretagne",
+      "description": "Le nouveau variant du mpox a \u00e9t\u00e9 d\u00e9tect\u00e9 pour la premi\u00e8re fois en France, en Bretagne. C\u2019est une femme qui a \u00e9t\u00e9 contamin\u00e9e apr\u00e8s avoir \u00e9t\u00e9 en contact avec deux personnes de retour d\u2019Afrique centrale.",
+      "url": "https://www.francetvinfo.fr/sante/maladie/variole-du-singe/virus-mpox-premiere-alerte-en-bretagne_7000211.html",
+      "urlToImage": "https://www.francetvinfo.fr/pictures/u98bQ9nF73NuPikEkL-67DZSHpo/0x1:1423x802/1500x843/2025/01/07/mpox-677d9e2177a9a578062428.jpg",
+      "publishedAt": "2025-01-07 21:36:00",
+      "content": "Cest dans un h\u00f4pital de Rennes (Ille-et-Vilaine) quune femme a \u00e9t\u00e9 diagnostiqu\u00e9e avec le nouveau variant du mpox, plus dangereux et plus contagieux, une premi\u00e8re en France. La patiente, une trentenai\u2026 [+722 chars]",
+      "retrievedAt": "2025-01-09 07:06:36.055952",
+      "internal_id": "efaa783dc274669e574304784d63765309e40c92593c7f6d97f0495933578ce0",
+      "publishedAtLabel": "Jan 7"
+    },
+    {
+      "id": 17211,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Scientific American",
+      "author": "Tanya Lewis",
+      "title": "First Human Bird Flu Death in U.S. Reported\u2014How Worried Should We Be?",
+      "description": "Louisiana has reported the first U.S. fatality from avian influenza. Most of the country\u2019s human cases have been mild",
+      "url": "https://www.scientificamerican.com/article/first-human-bird-flu-death-in-u-s-reported-how-worried-should-we-be/",
+      "urlToImage": "https://static.scientificamerican.com/dam/m/87d9873c7e68967/original/H5N1-virus.jpg?m=1736283514.766&w=1200",
+      "publishedAt": "2025-01-07 21:15:00",
+      "content": "The Louisiana Department of Health recently reported the first U.S. death from H5N1 avian influenza: this individual was a patient who became severely ill and was hospitalized after having contact wi\u2026 [+4629 chars]",
+      "retrievedAt": "2025-01-09 07:06:33.689499",
+      "internal_id": "d1179d74a6c2f45b183e6b217fcd32e45d2b4e66e26091a341b70794abfb54b0",
+      "publishedAtLabel": "Jan 7"
+    },
+    {
+      "id": 17209,
+      "query": [
+        "hpai"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": "Angelica Stabile",
+      "title": "Can eggs spread bird flu? What you must know",
+      "description": "The spread of avian influenza (HPAI) has also impacted the nationwide supply of poultry products, including eggs. Experts discuss whether it's safe to continue eating eggs.",
+      "url": "https://www.foxnews.com/health/can-eggs-spread-bird-flu-what-you-must-know",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/01/gettyimages-1129381764.jpg",
+      "publishedAt": "2025-01-07 20:30:31",
+      "content": "Bird flu cases are rising in U.S. states, with the first death reported this week in Louisiana. The spread of avian influenza (HPAI) has also impacted the nationwide supply of poultry products, incl\u2026 [+3251 chars]",
+      "retrievedAt": "2025-01-09 07:06:33.323490",
+      "internal_id": "9ddf9f0dec7fe17d5372ab36110e562ef160782e7f347488e406fac5663c3b19",
+      "publishedAtLabel": "Jan 7"
+    },
+    {
+      "id": 17213,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Observador.pt",
+      "author": "Marina Ferreira",
+      "title": "Surto de gripe das aves em Sintra \u00e9 motivo para alarme? Sete perguntas e resposta sobre o H5N1",
+      "description": "Popula\u00e7\u00e3o em geral estar\u00e1 a salvo de contamina\u00e7\u00e3o, mas trabalhadores de avi\u00e1rios correm maior risco de infe\u00e7\u00e3o. Homem que morreu nos EUA e transmiss\u00e3o do v\u00edrus para bovinos preocupa especialistas.",
+      "url": "https://observador.pt/especiais/surto-de-gripe-das-aves-em-sintra-e-motivo-para-alarme-sete-perguntas-e-resposta-sobre-o-h5n1/",
+      "urlToImage": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1121%3Anowe%3A0%3A0%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2022%2F01%2F20150703%2F30376675.jpg?layer=obstop:T",
+      "publishedAt": "2025-01-07 19:42:28",
+      "content": "O alerta para o surto de gripe das aves em Portugal, mais concretamente em Sintra, numa explora\u00e7\u00e3o de galinhas poedeiras, foi lan\u00e7ado pela Organiza\u00e7\u00e3o Mundial da Sa\u00fade Animal (OMSA). Depois disso, a \u2026 [+8819 chars]",
+      "retrievedAt": "2025-01-09 07:06:33.885911",
+      "internal_id": "166eef70886d4b0d83d39893d67703d60c48f2e455a20c9875d759039ccfe5b8",
+      "publishedAtLabel": "Jan 7"
+    },
+    {
+      "id": 17215,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Ansa",
+      "title": "Uruguai ir\u00e1 combater dengue com mosquitos machos esterilizados",
+      "description": "No Uruguai, a dengue ser\u00e1 combatida a partir da esteriliza\u00e7\u00e3o de milhares de mosquitos machos da ...",
+      "url": "https://www.terra.com.br/noticias/mundo/uruguai-ira-combater-dengue-com-mosquitos-machos-esterilizados,acc98670d68e326dff571e673bb9246crwvs2nfq.html",
+      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2025-01-07 19:24:24",
+      "content": "No Uruguai, a dengue ser\u00e1 combatida a partir da esteriliza\u00e7\u00e3o de milhares de mosquitos machos da esp\u00e9cie Aedes aegypti em um teste piloto que visa avaliar a efic\u00e1cia da medida. A esteriliza\u00e7\u00e3o \u2026 [+1007 chars]",
+      "retrievedAt": "2025-01-09 07:06:34.363562",
+      "internal_id": "c24ef6c11993414947e194b6e461a6818cfeceae69d3a9b6c99d5d96d5fc0c09",
+      "publishedAtLabel": "Jan 7"
+    },
+    {
+      "id": 17216,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Prefeitura de SP diz que Minist\u00e9rio da Sa\u00fade n\u00e3o enviou vacinas suficientes contra dengue",
+      "description": "Administra\u00e7\u00e3o cobra mais 600 mil doses para completar o ciclo vacinal de crian\u00e7as e adolescentes entre 10 e 14 anos, p\u00fablico-alvo da campanha",
+      "url": "https://valor.globo.com/brasil/noticia/2025/01/07/prefeitura-de-sp-diz-que-ministerio-da-saude-nao-enviou-vacinas-suficientes-contra-dengue.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/N5N-dWwGa4sAIo7zbzPUDkzwgfI=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2024/C/e/LAkn6CS46zZ1eHG4Ux7Q/105876791.jpg",
+      "publishedAt": "2025-01-07 19:18:55",
+      "content": "A Prefeitura de S\u00e3o Paulo, comandada por Ricardo Nunes (MDB), afirmou, nesta ter\u00e7a-feira (7), que o Minist\u00e9rio da Sa\u00fade ainda n\u00e3o enviou o n\u00famero necess\u00e1rio de vacinas contra a dengue, e cobrou mais \u2026 [+2481 chars]",
+      "retrievedAt": "2025-01-09 07:06:34.416018",
+      "internal_id": "d5d87dfebc367b54d97478c706609f00ec4c9366c52c1ee76d370c72f9292655",
+      "publishedAtLabel": "Jan 7"
+    },
     {
       "id": 17179,
       "query": [
@@ -24024,6 +24240,222 @@
       "content": "The infection of mammalian species by avian flu viruses is causing concern, with cell replication in mammals making the virus more pathogenic to humans. A recent investigation into the increase in d\u2026 [+5001 chars]",
       "retrievedAt": "2024-11-26 07:07:01.898728",
       "internal_id": "e8baabf99bd21017d141d03b2944d20d1482fce25de6a6af63fd9c17dd0af78f",
+      "publishedAtLabel": "Nov 24"
+    },
+    {
+      "id": 15873,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "da Silva, C., Matambisso, G., Boene, S., Rovira-Vallbona, E., Pujol, A., Comiche, K., Sanchez, A., Greenhouse, B., Chidimatembue, A., Aranda-Diaz, A., Arnaldo, P., Ariani, C., Walker, P., Mbeve, H., Ndimande, N., Tembisse, D., Ruybal-Pesantez, S., Verity, R., Rafael, B., Candrinho, B., Mayor, A.",
+      "title": "Plasmodium falciparum molecular surveillance to inform the Mozambican National Malaria Control Programme strategy: protocol",
+      "description": "Introduction Malaria molecular surveillance has the potential to generate information on biological threats that compromise the effectiveness of antimalarial interventions. This study aims to streamline surveillance activities to inform the new strategic plan\u2026",
+      "url": "https://bmjopen.bmj.com/content/14/11/e092590",
+      "urlToImage": "https://bmjopen.bmj.com/pages/wp-content/uploads/sites/7/2019/07/bmjopen-default-cover.png",
+      "publishedAt": "2024-11-24 17:58:38",
+      "content": "Introduction Mozambique is among the 10 countries with the highest malaria burden in the world, with an estimated 10.4million cases in 2022.1 Malaria transmission is highly heterogeneous across the \u2026 [+13400 chars]",
+      "retrievedAt": "2024-11-25 19:06:05.573448",
+      "internal_id": "89a3eea43332ec474494b53463927591b959921c7d7acececb50fb84471e7bf6",
+      "publishedAtLabel": "Nov 24"
+    },
+    {
+      "id": 15864,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Rolling Stone",
+      "author": "Jeff Ihaza",
+      "title": "Boldy James and Benny The Butcher Play With Art and Reality On \u2018Rabies\u2019",
+      "description": "The track is a stand-out single from Boldy James and Harry Fraud\u2019s \u2018The Bricktionary\u2019 album.",
+      "url": "http://www.rollingstone.com/music/music-features/boldy-james-and-benny-the-butcher-rabies-new-song-1235176806/",
+      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2024/11/boldy-james-benny-the-butcher.jpg?crop=0px%2C26px%2C1800px%2C1015px&resize=1600%2C900",
+      "publishedAt": "2024-11-24 17:02:07",
+      "content": "Two of Griselda\u2019s best connected on \u201cRabies,\u201d a track from Boldy James and Harry Fraud\u2019s aptly named new album The Bricktionary. Both artists are recognized as skilled scribes of R-rated drug epics t\u2026 [+2036 chars]",
+      "retrievedAt": "2024-11-25 19:06:03.352109",
+      "internal_id": "7332c4bf00420b0c2dc57603b47a5493d558433624acb0289824ae2969fca0dd",
+      "publishedAtLabel": "Nov 24"
+    },
+    {
+      "id": 15875,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Jeune Afrique",
+      "author": "The Conversation",
+      "title": "Face au Mpox, la n\u00e9cessaire s\u00e9curisation des march\u00e9s de viande sauvage",
+      "description": "En parall\u00e8le des mesures pr\u00e9ventives traditionnelles destin\u00e9es \u00e0 endiguer l\u2019\u00e9pid\u00e9mie de \u00ab variole du singe \u00bb, le collectif One Health pr\u00e9conise de s\u2019attaquer au manque d\u2019hygi\u00e8ne et de r\u00e9gulation des march\u00e9s de viande sauvage en Afrique, cause profonde de la t\u2026",
+      "url": "https://www.jeuneafrique.com/1633221/societe/face-au-mpox-la-necessaire-securisation-des-marches-de-viande-sauvage/",
+      "urlToImage": "https://prod.cdn-medias.jeuneafrique.com/cdn-cgi/image/q=auto,f=auto,metadata=none,width=1280,height=720,fit=cover,gravity=0.5000x0.5000/https://prod.cdn-medias.jeuneafrique.com/medias/2024/11/22/jad20241122-the-conversation-mpox-viande-sauvage.jpg",
+      "publishedAt": "2024-11-24 15:08:48",
+      "content": "Dans de nombreux pays du monde, les animaux sauvages sont parfois tu\u00e9s pour \u00eatre mang\u00e9s, notamment les singes, les rats et les \u00e9cureuils. La viande sauvage contribue de mani\u00e8re significative \u00e0 la nut\u2026 [+7001 chars]",
+      "retrievedAt": "2024-11-25 19:06:06.611103",
+      "internal_id": "f207aba0c59742f045eb7a957d98ea647ad8157b3c2d380b9e5d7b21232fc050",
+      "publishedAtLabel": "Nov 24"
+    },
+    {
+      "id": 15867,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Diepresse.com",
+      "author": "Die Presse",
+      "title": "Erstmals Kind in den USA mit Vogelgrippe infiziert",
+      "description": "In Kanada hat sich indes ein Jugendlicher mit dem Vogelgrippevirus H5N1 infiziert. Das Virus ist mutiert und hat sich an den menschlichen Wirt angepasst.",
+      "url": "https://www.diepresse.com/19105604/erstmals-kind-in-den-usa-mit-vogelgrippe-infiziert",
+      "urlToImage": "https://img.diepresse.com/public/incoming/1r01sv-HEALTH-BIRDFLUMEXICO/alternates/DPR_SOCIAL_NACHRICHTEN/HEALTH-BIRDFLUMEXICO",
+      "publishedAt": "2024-11-24 11:40:32",
+      "content": "In Kanada hat sich indes ein Jugendlicher mit dem Vogelgrippevirus H5N1 infiziert. Das Virus ist mutiert und hat sich an den menschlichen Wirt angepasst. Zwei Vogelgrippe-F\u00e4lle bei einem Kind und ei\u2026 [+3696 chars]",
+      "retrievedAt": "2024-11-25 19:06:04.603474",
+      "internal_id": "5a32f8b67e59e060d40b2c556923d68d43e78519d83488eaf6bbf06cbb13e5f0",
+      "publishedAtLabel": "Nov 24"
+    },
+    {
+      "id": 15866,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "N-tv.de",
+      "author": "n-tv NACHRICHTEN",
+      "title": "An menschlichen Wirt angepasst: Vogelgrippe-Virus H5N1 mutiert in Teenager",
+      "description": "Das Vogelgrippe-Virus breitet sich in Nordamerika weiter aus: In den USA infizierte sich nun erstmals ein Kind. In Kanada k\u00e4mpft ein Teenager mit einem mutierten H5N1-Erreger. Experten zeigen sich besorgt.",
+      "url": "https://www.n-tv.de/wissen/Vogelgrippe-Virus-H5N1-mutiert-in-Teenager-article25383544.html",
+      "urlToImage": "https://bilder3.n-tv.de/img/incoming/crop25383558/0841323954-cImg_16_9-w1200/490232021.jpg",
+      "publishedAt": "2024-11-24 11:25:17",
+      "content": "Das Vogelgrippe-Virus breitet sich in Nordamerika weiter aus: In den USA infizierte sich nun erstmals ein Kind. In Kanada k\u00e4mpft ein Teenager mit einem mutierten H5N1-Erreger. Experten zeigen sich be\u2026 [+3722 chars]",
+      "retrievedAt": "2024-11-25 19:06:04.595948",
+      "internal_id": "60fc8f5478b14e18bf08da7bbf4c351a0274b4af96d1d15546358cb91eb94964",
+      "publishedAtLabel": "Nov 24"
+    },
+    {
+      "id": 15865,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The New Yorker",
+      "author": "Dhruv Khullar",
+      "title": "The Fundamental Problem with R.F.K., Jr.,\u2019s Nomination to H.H.S.",
+      "description": "Dhruv Khullar on the trouble\u2014and the opportunity\u2014with Robert F. Kennedy, Jr. He has many bad ideas\u2014about vaccines, COVID, the N.I.H., and the F.D.A. Yet the irony of our political moment is that his more reasonable positions are the ones that could sink his c\u2026",
+      "url": "https://www.newyorker.com/magazine/2024/12/02/the-fundamental-problem-with-rfk-jrs-nomination-to-hhs",
+      "urlToImage": "https://media.newyorker.com/photos/673e6dbc46f9b2a74bb8be57/16:9/w_1280,c_limit/Comment-RFK-Jr-and-America_social.jpg",
+      "publishedAt": "2024-11-24 11:00:00",
+      "content": "In 2018, two children in Samoa died after receiving measles vaccines, because the nurses who administered them had mistakenly mixed the vaccine powder with a muscle relaxant. Local vaccine skeptics s\u2026 [+6504 chars]",
+      "retrievedAt": "2024-11-25 19:06:03.946463",
+      "internal_id": "a23f0a7bfedb93b3753ce9921429adbdf9edd09105a5bc240665ae194f9ff15f",
+      "publishedAtLabel": "Nov 24"
+    },
+    {
+      "id": 15872,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "bild",
+      "source_name": "Bild",
+      "author": "Karen von Guttenberg",
+      "title": "Durchbruch gegen die Krankheit? - Erste Malaria-Impfung per M\u00fcckenstich!",
+      "description": "Wissenschaftler entwickeln eine neue Impfstrategie gegen Malaria, bei der gentechnisch ver\u00e4nderte Erreger durch M\u00fcckenstiche \u00fcbertragen werden.",
+      "url": "https://www.bild.de/leben-wissen/wissenschaft/mueckenstiche-als-impfung-durchbruch-gegen-malaria-6742db4cd3e4b22ff2f6ab7b",
+      "urlToImage": "https://images.bild.de/6742db4cd3e4b22ff2f6ab7b/46e66ebf71d06f9c7f0c5f33a83491c7,8705b3e7?w=1280",
+      "publishedAt": "2024-11-24 09:48:13",
+      "content": "Was klingt, wie ein schlechter Scherz, ist in Wirklichkeit eine neue Form der Impfung gegen Malaria: Der Impfstoff wird durch M\u00fcckenstiche \u00fcbertragen. Aber wie? Laut dem World Malaria Report 2023 de\u2026 [+1834 chars]",
+      "retrievedAt": "2024-11-25 19:06:05.549172",
+      "internal_id": "38e4cda32b130c5543608f68ed5f28579c113e3a4dd778ac1fb40eecf93257db",
+      "publishedAtLabel": "Nov 24"
+    },
+    {
+      "id": 15874,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Jeune Afrique",
+      "author": "Jeanne Le Bihan",
+      "title": "Au Burkina Faso, Halidou Tinto, artisan d\u2019un nouveau vaccin contre le paludisme",
+      "description": "Install\u00e9s \u00e0 moins de 100 km de Ouagadougou, le professeur ivoiro-burkinab\u00e8 et son \u00e9quipe ont jou\u00e9 un r\u00f4le majeur dans l\u2019\u00e9laboration du R21 contre la malaria, approuv\u00e9 par l\u2019OMS en 2023.",
+      "url": "https://www.jeuneafrique.com/1631409/societe/au-burkina-faso-halidou-tinto-artisan-dun-nouveau-vaccin-contre-le-paludisme/",
+      "urlToImage": "https://prod.cdn-medias.jeuneafrique.com/cdn-cgi/image/q=auto,f=auto,metadata=none,width=1280,height=720,fit=cover,gravity=0.5284x0.2692/https://prod.cdn-medias.jeuneafrique.com/medias/2024/11/22/jad20241122-homme-du-mois-halidou-tnto.jpg",
+      "publishedAt": "2024-11-24 09:05:06",
+      "content": "Le paludisme, le professeur Halidou Tinto en a fait une affaire personnelle. Depuis quen 1989, accabl\u00e9 par la fi\u00e8vre, les maux de t\u00eate et les vertiges, le futur scientifique est contraint de quitter \u2026 [+227 chars]",
+      "retrievedAt": "2024-11-25 19:06:05.592590",
+      "internal_id": "b40d10da2d0b78638e34b6ff921e32b417dc17221bff9a1c2216da7e9cbc9a95",
+      "publishedAtLabel": "Nov 24"
+    },
+    {
+      "id": 15870,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "Alejandro Svarch * y Jos\u00e9 Moya **",
+      "title": "Alejandro Svarch * y Jos\u00e9 Moya **: Calor, humedad y mosquitos: cr\u00f3nica de una temporada de dengue",
+      "description": "Al caer la tarde, las pangas y lanchas cruzan la cuenca veracruzana del r\u00edo Papaloapan. Mujeres y hombres regresan a sus hogares despu\u00e9s de una ardua jornada en la plantaci\u00f3n de ca\u00f1a de az\u00facar. Los d\u00edas lluviosos, con temperaturas que rondan los 30 grados, hu\u2026",
+      "url": "https://www.jornada.com.mx/2024/11/24/opinion/012a2pol",
+      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "publishedAt": "2024-11-24 09:04:56",
+      "content": "l caer la tarde, las pangas y lanchas cruzan la cuenca veracruzana del r\u00edo Papaloapan. Mujeres y hombres regresan a sus hogares despu\u00e9s de una ardua jornada en la plantaci\u00f3n de ca\u00f1a de az\u00facar. Los d\u00ed\u2026 [+4780 chars]",
+      "retrievedAt": "2024-11-25 19:06:04.917958",
+      "internal_id": "bf32a6ce1737866467f362ae84ccae5e822dbbfe09cbae71fa41e87c8b3d70b4",
+      "publishedAtLabel": "Nov 24"
+    },
+    {
+      "id": 15871,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "title": "En lo que va del a\u00f1o, 262 decesos y m\u00e1s de 110 mil casos de dengue",
+      "description": "La Direcci\u00f3n General de Epidemiolog\u00eda (DGE) de la Secretar\u00eda de Salud (Ssa) inform\u00f3 que en lo que va del a\u00f1o se han confirmado 110 mil 281 casos de dengue en el pa\u00eds, de los cuales, 48 mil 945 corresponden a dengue con signos de alarma y grave, y 61 mil 336, \u2026",
+      "url": "https://www.jornada.com.mx/2024/11/24/sociedad/027n1soc",
+      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "publishedAt": "2024-11-24 09:04:56",
+      "content": "Peri\u00f3dico La JornadaDomingo 24 de noviembre de 2024, p. 27 La Direcci\u00f3n General de Epidemiolog\u00eda (DGE) de la Secretar\u00eda de Salud (Ssa) inform\u00f3 que en lo que va del a\u00f1o se han confirmado 110 mil 281 \u2026 [+1641 chars]",
+      "retrievedAt": "2024-11-25 19:06:04.930546",
+      "internal_id": "5f33fc5f0112ff7897ada9caf5a7a5c8429033f4868b66f87109b4c805c64273",
+      "publishedAtLabel": "Nov 24"
+    },
+    {
+      "id": 15869,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "Alejandro Svarch * y Jos\u00e9 Moya **",
+      "title": "Alejandro Svarch * y Jos\u00e9 Moya **: Calor, humedad y mosquitos: cr\u00f3nica de una temporada de dengue",
+      "description": "Al caer la tarde, las pangas y lanchas cruzan la cuenca veracruzana del r\u00edo Papaloapan. Mujeres y hombres regresan a sus hogares despu\u00e9s de una ardua jornada en la plantaci\u00f3n de ca\u00f1a de az\u00facar. Los d\u00edas lluviosos, con temperaturas que rondan los 30 grados, hu\u2026",
+      "url": "https://www.jornada.com.mx/2024/11/24/politica/012a2pol",
+      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "publishedAt": "2024-11-24 09:04:55",
+      "content": "l caer la tarde, las pangas y lanchas cruzan la cuenca veracruzana del r\u00edo Papaloapan. Mujeres y hombres regresan a sus hogares despu\u00e9s de una ardua jornada en la plantaci\u00f3n de ca\u00f1a de az\u00facar. Los d\u00ed\u2026 [+4780 chars]",
+      "retrievedAt": "2024-11-25 19:06:04.910615",
+      "internal_id": "66f7f612f0312e2363ed0e2ebc5278c4375ac626687cf03f87ad090ca8f8e26f",
+      "publishedAtLabel": "Nov 24"
+    },
+    {
+      "id": 15868,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "CNN \u0628\u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+      "title": "\u0639\u0648\u062f\u0629 \u0641\u064a\u0631\u0648\u0633 \u0642\u062f\u064a\u0645..\u0645\u0627 \u0627\u0644\u0633\u0628\u0628 \u0648\u0631\u0627\u0621 \u0627\u0631\u062a\u0641\u0627\u0639 \u062d\u0627\u0644\u0627\u062a \u0625\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u0637\u064a\u0648\u0631 \u062e\u0644\u0627\u0644 \u0641\u0635\u0644 \u0627\u0644\u062e\u0631\u064a\u0641\u061f",
+      "description": "\u0641\u064a\u0631\u0648\u0633 \"H5N1\" \u0627\u0644\u0645\u0633\u0628\u0628 \u0644\u0625\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u0637\u064a\u0648\u0631 \u0647\u0648 \u0645\u0631\u0636 \u062a\u0646\u0641\u0651\u0633\u064a \u0634\u062f\u064a\u062f \u0627\u0644\u0639\u062f\u0648\u0649 \u064a\u0646\u062a\u0634\u0631 \u0641\u064a \u0648\u0644\u0627\u064a\u0627\u062a \u0623\u0645\u0631\u064a\u0643\u064a\u0629 \u0639\u062f\u0651\u0629 \u0628\u064a\u0646 \u0627\u0644\u0637\u064a\u0648\u0631 \u0627\u0644\u0628\u0631\u064a\u0629\u060c \u0648\u0627\u0644\u062f\u0648\u0627\u062c\u0646\u060c \u0648\u0627\u0644\u062d\u064a\u0648\u0627\u0646\u0627\u062a \u0627\u0644\u0623\u062e\u0631\u0649. \u0623\u062f\u0651\u0649 \u062a\u0641\u0634\u064a \u0625\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u0637\u064a\u0648\u0631 \u0625\u0644\u0649 \u0625\u0635\u0627\u0628\u0629 \u0623\u0643\u062b\u0631 \u0645\u0646 \u0623\u0631\u0628\u0639\u064a\u0646 \u0634\u062e\u0635\u064b\u0627 \u0641\u064a \u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629. \u0648\u0641\u064a \u062d\u064a\u0646 \u0623\u0646 \u0645\u0639\u0638\u0645 \u0627\u0644\u062d\u0627\u0644\u0627\u062a \u0627\u0644\u0628\u0634\u0631\u064a\u0629 \u0645\u062a\u0648\u0633\u0637\u0629\u060c \u0641\u2026",
+      "url": "https://arabic.cnn.com/science-and-health/video/2024/11/24/v165853-bird-flu-return",
+      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2024/11/24/images/283539.jpg",
+      "publishedAt": "2024-11-24 07:22:53",
+      "content": "",
+      "retrievedAt": "2024-11-25 19:06:04.628116",
+      "internal_id": "8604de16f0bb5e75966b283eda033b72c4fd5fc92e17cd40571f3d867343e51f",
       "publishedAtLabel": "Nov 24"
     }
   ]
