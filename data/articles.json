@@ -1,8 +1,444 @@
 {
-  "last_updated": "2025-01-09 07:06",
-  "count_articles_total": 1356,
-  "count_articles_new": 12,
+  "last_updated": "2025-01-09 19:05",
+  "count_articles_total": 1368,
+  "count_articles_new": 24,
   "articles": [
+    {
+      "id": 17243,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Francetvinfo.fr",
+      "author": "Pierre De Baudouin",
+      "title": "Epid\u00e9mie de mpox : \"Il n'y a pas d'inqui\u00e9tude particuli\u00e8re \u00e0 avoir, mais il faut \u00eatre prudent\", explique l'infectiologue Robert Sebbag",
+      "description": "Alors qu'un premier cas du nouveau variant du virus mpox (ou Monkeypox) a \u00e9t\u00e9 identifi\u00e9 en France, en Bretagne, faut-il s'inqui\u00e9ter en \u00cele-de-France ? D\u00e9cryptage avec Robert Sebbag, infectiologue \u00e0 l'h\u00f4pital Piti\u00e9-Salp\u00eatri\u00e8re, \u00e0 Paris.",
+      "url": "https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/epidemie-de-mpox-il-n-y-a-pas-d-inquietude-particuliere-a-avoir-mais-il-faut-etre-prudent-3087940.html",
+      "urlToImage": "https://france3-regions.francetvinfo.fr/image/O9U8KIivePpPxjq-5cUf5t4Ojw4/930x620/regions/2025/01/08/maxnewsfrfive789172-677e916d195a5778550120.jpg",
+      "publishedAt": "2025-01-08 16:35:08",
+      "content": "Alors qu'un premier cas du nouveau variant du virus mpox (ou Monkeypox) a \u00e9t\u00e9 identifi\u00e9 en France, en Bretagne, faut-il s'inqui\u00e9ter en \u00cele-de-France ? D\u00e9cryptage avec Robert Sebbag, infectiologue \u00e0 l\u2026 [+6173 chars]",
+      "retrievedAt": "2025-01-09 19:05:37.911877",
+      "internal_id": "036f12426ff2029e9b27eb6ead84e8c4e9e75c017d122981fd6f3be771caa08c",
+      "publishedAtLabel": "Jan 8"
+    },
+    {
+      "id": 17237,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Everyeye.it",
+      "author": "Rocco Auriemma",
+      "title": "Zanzare e parassiti, scoperto un metodo che li elimina pi\u00f9 velocemente",
+      "description": "Un metodo genetico rivoluzionario riduce la vita delle zanzare femmine, bloccando la diffusione di malattie come dengue e malaria in modo rapido e sicuro.Un nuovo metodo di controllo biologico dei parassiti potrebbe cambiare radicalmente la gestione delle mal\u2026",
+      "url": "https://tech.everyeye.it/notizie/zanzare-parassiti-scoperto-metodo-elimina-velocemente-769831.html",
+      "urlToImage": "https://images.everyeye.it/img-notizie/zanzare-parassiti-scoperto-metodo-elimina-velocemente-v3-769831.jpg",
+      "publishedAt": "2025-01-08 16:30:00",
+      "content": "Un nuovo metodo di controllo biologico dei parassiti potrebbe cambiare radicalmente la gestione delle malattie trasmesse dalle zanzare, offrendo risultati pi\u00f9 rapidi ed efficaci rispetto alle tecnich\u2026 [+3133 chars]",
+      "retrievedAt": "2025-01-09 19:05:35.935956",
+      "internal_id": "d20eb20b8b9f745a4de0962e4bd39a0c552889f3be7745e9bc5f656f39f78dda",
+      "publishedAtLabel": "Jan 8"
+    },
+    {
+      "id": 17227,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Rg.ru",
+      "author": null,
+      "title": "\u0412 \u0420\u043e\u0441\u0441\u0438\u044e \u0441\u043d\u043e\u0432\u0430 \u0438\u0434\u0435\u0442 \"\u0441\u0432\u0438\u043d\u043e\u0439\" \u0433\u0440\u0438\u043f\u043f, \u043e\u043f\u0430\u0441\u043d\u044b\u0439 \u043e\u0441\u043b\u043e\u0436\u043d\u0435\u043d\u0438\u044f\u043c\u0438",
+      "description": "\u0412 \u0420\u043e\u0441\u0441\u0438\u0438 \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u0443\u044e\u0442 \u0443\u0432\u0435\u043b\u0438\u0447\u0435\u043d\u0438\u0435 \u0441\u043b\u0443\u0447\u0430\u0435\u0432 \u0433\u0440\u0438\u043f\u043f\u0430. \u041f\u043e\u043a\u0430 \u043e \u0448\u0438\u0440\u043e\u043a\u043e\u043c \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0435\u043d\u0438\u0438 \u0438\u043d\u0444\u0435\u043a\u0446\u0438\u0438 \u0440\u0435\u0447\u0438 \u043d\u0435 \u0438\u0434\u0435\u0442, \u043d\u0430\u043f\u0440\u043e\u0442\u0438\u0432, \u0432 \u043a\u043e\u043d\u0446\u0435 \u0434\u0435\u043a\u0430\u0431\u0440\u044f \u0438 \u0432 \u043d\u043e\u0432\u043e\u0433\u043e\u0434\u043d\u044e\u044e \u0434\u0435\u043a\u0430\u0434\u0443 \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0430\u0435\u043c\u043e\u0441\u0442\u044c \u0438 \u041e\u0420\u0412\u0418, \u0438 \u043a\u043e\u0432\u0438\u0434\u043e\u043c \u0437\u0430\u043c\u0435\u0442\u043d\u043e \u0441\u043d\u0438\u0437\u0438\u043b\u0430\u0441\u044c.",
+      "url": "https://rg.ru/2025/01/08/tot-samyj.html",
+      "urlToImage": "https://cdnstatic.rg.ru/uploads/images/2025/01/08/ria_502816hr-1_2c0.jpg",
+      "publishedAt": "2025-01-08 16:10:59",
+      "content": "- . : (H1N1)pdm09 - \"\" , 2009 , . 308 - 2024 . COVID-19 - 60,7%, 8,7 . . . . \" , (H1N1)pdm09\", - . : , (H1N1)pdm09 \"\" 24 - 68 . COVID-19 : ( ) . A (H5N1) (). : , , , . , . . , , \"\" A (H1N1)p\u2026 [+117 chars]",
+      "retrievedAt": "2025-01-09 19:05:35.517926",
+      "internal_id": "3f3e8a6eb7f126c508d310c602b99900311d51ac7448c9f48ff90f3f83f3169e",
+      "publishedAtLabel": "Jan 8"
+    },
+    {
+      "id": 17242,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Themorningnews.org",
+      "author": null,
+      "title": "Wednesday headlines: Been there, done cat",
+      "description": "Migrants who successfully reach the United States use TikTok to document their new lives. / The New Yorker A new cache of documents reveals how the CIA monitored Latino civil rights pioneers. / axios The Heritage Foundation plans to \"identify and target\" ed\u2026",
+      "url": "https://themorningnews.org/p/wednesday-headlines-been-there-done-cat",
+      "urlToImage": "https://themorningnews.org/images/tmn-logo-share.png",
+      "publishedAt": "2025-01-08 15:48:00",
+      "content": "In an unwritten, unannounced policy change, Louisiana's Dept. of Health is forbidding employees from promoting Covid, flu, or mpox vaccines. / NPR Photos of daily life for the Palestinian people\u2014\"be\u2026 [+2219 chars]",
+      "retrievedAt": "2025-01-09 19:05:37.743275",
+      "internal_id": "a23957bc31cb4e2a381fa3c138cbcbbdefc97396b9b65dbd35596466699b6d2d",
+      "publishedAtLabel": "Jan 8"
+    },
+    {
+      "id": 17241,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Hotnews.ro",
+      "author": "\u0218tefania Gheorghe",
+      "title": "Noua variant\u0103 de mpox \u00een Fran\u021ba. Ministerul S\u0103n\u0103t\u0103\u021bii anun\u021b\u0103 c\u0103 riscul pentru popula\u021bie este unul \u201esc\u0103zut\u201d",
+      "description": "Fran\u021ba este a cincea \u021bar\u0103 din Europa care detecteaz\u0103 noua tulpin\u0103 de mpox, o boal\u0103 denumit\u0103 \u00een trecut \u201evariola maimu\u0163ei\u201d, care a afectat p\u00e2n\u0103 acum Africa Central\u0103. Boala infec\u021bioas\u0103 a ap\u0103rut la un pacient care\u2026",
+      "url": "http://hotnews.ro/noua-varianta-de-mpox-in-franta-ministerul-sanatatii-anunta-ca-riscul-pentru-populatie-este-unul-scazut-1876537",
+      "urlToImage": "https://hotnews.ro/wp-content/uploads/2024/10/profimedia-0713228765.jpg",
+      "publishedAt": "2025-01-08 14:53:59",
+      "content": "Frana este a cincea ar din Europa care detecteaz noua tulpin de mpox, o boal denumit \u00een trecut variola maimuei, care a afectat p\u00e2n acum Africa Central. Boala infecioas a aprut la un pacient care nu a\u2026 [+2029 chars]",
+      "retrievedAt": "2025-01-09 19:05:37.635855",
+      "internal_id": "3fb027ca85c0d503495059eb8e1efbef28e168c93336c08d6373d5b14b667f60",
+      "publishedAtLabel": "Jan 8"
+    },
+    {
+      "id": 17238,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Kelly T. Rios, James P. McGee, Aswathy Sebastian, Sanjaya Aththawala Gedara, Robert L. Moritz, Marina Feric, Sabrina Absalon, Kristian E. Swearingen, Scott E. Lindner",
+      "title": "Widespread release of translational repression across Plasmodium\u2019s host-to-vector transmission event",
+      "description": "Author summary The Plasmodium parasites that cause malaria have a small window of opportunity to transmit between mammals and mosquitoes, and thus they must prepare themselves to make the most of this event when it occurs. In this study, we investigated one e\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012823",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1012823.g006&size=inline",
+      "publishedAt": "2025-01-08 14:00:00",
+      "content": "Introduction Early embryonic development in higher eukaryotes depends on essential, maternally supplied products for early gene expression until the zygote can carry out its own gene expression prog\u2026 [+97622 chars]",
+      "retrievedAt": "2025-01-09 19:05:36.850057",
+      "internal_id": "950277fe0103d0a2bf6b8e115999d94a4638a66435f51d7e48d6ae9bf2e7f32c",
+      "publishedAtLabel": "Jan 8"
+    },
+    {
+      "id": 17234,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Francisco Dutra",
+      "title": "DF ter\u00e1 mosquitos infectados com bact\u00e9ria para combater a dengue",
+      "description": "DF passar\u00e1 a utilizar novo m\u00e9todo que emprega mosquitos infectados para conter a dengue e outras doen\u00e7as",
+      "url": "https://www.metropoles.com/distrito-federal/df-tera-mosquitos-infectados-com-bacteria-para-combater-a-dengue",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2025/01/08090208/mosquitos-bem-epidemia-dengue.jpg",
+      "publishedAt": "2025-01-08 12:48:47",
+      "content": "O Distrito Federal passar\u00e1 a usar mosquitos Aedes aegypti alterados para evitar uma nova epidemia de dengue. Conhecidos como \u201cmosquitos do bem\u201d, os insetos s\u00e3o infectados com uma bact\u00e9ria capaz de pa\u2026 [+2700 chars]",
+      "retrievedAt": "2025-01-09 19:05:35.852884",
+      "internal_id": "107da86b9695ea2ac236614e267d772633611af4bdcebfc600b3a38d163b080e",
+      "publishedAtLabel": "Jan 8"
+    },
+    {
+      "id": 17221,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Politicalwire.com",
+      "author": "Taegan Goddard",
+      "title": "Democrats Highlight Samoa Outbreak to Block RFK Jr.",
+      "description": "\u201cIn June 2019, Robert F. Kennedy Jr. traveled to the small Pacific island nation of Samoa, where he met with activists calling for Samoans to skip measles vaccines and opt for alternatives instead. Now that",
+      "url": "https://politicalwire.com/2025/01/08/democrats-highlight-samoa-outbreak-to-block-rfk-jr/",
+      "urlToImage": "https://politicalwire.com/wp-content/uploads/2018/02/PW-podcast-logo.jpg",
+      "publishedAt": "2025-01-08 12:37:37",
+      "content": "\u201cThere are a lot of blogs and news sites claiming to understand politics, but only a few actually do. Political Wire is one of them.\u201d Chuck Todd, host of \u201cMeet the Press\u201d \u201cConcise. Relevant. To th\u2026 [+594 chars]",
+      "retrievedAt": "2025-01-09 19:05:34.746431",
+      "internal_id": "e6f21f8351fe22c35788c15e652947516cdaa3a953f924fe97924cd4461f3d27",
+      "publishedAtLabel": "Jan 8"
+    },
+    {
+      "id": 17235,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "iG \u00daltimo Segundo, iG \u00daltimo Segundo",
+      "title": "\"T\u00e9cnica do macho t\u00f3xico\": esperma de mosquito pode ajudar a frear doen\u00e7as, sugere estudo",
+      "description": "M\u00e9todo usa \"esperma t\u00f3xico\" para eliminar f\u00eameas e reduzir a transmiss\u00e3o de doen\u00e7as como mal\u00e1ria e dengue",
+      "url": "https://ultimosegundo.ig.com.br/ciencia/2025-01-08/mosquito-esperma-toxico-frear-doencas.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/50/8k/kb/508kkbl1xt6t3pnsldf3u0ivi.jpg",
+      "publishedAt": "2025-01-08 12:10:00",
+      "content": "Pesquisadores australianos anunciaram na ter\u00e7a-feira (7) uma nova abordagem cient\u00edfica para combater doen\u00e7as tropicais , por meio de mosquitos geneticamente modificados com esperma t\u00f3xico. A t\u00e9cnica\u2026 [+1219 chars]",
+      "retrievedAt": "2025-01-09 19:05:35.860754",
+      "internal_id": "b81bc5d3d5b1824a553ff545e8c8f2cc8734b7c6afc78bcc082a12b396b40c08",
+      "publishedAtLabel": "Jan 8"
+    },
+    {
+      "id": 17233,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": null,
+      "title": "Scientists: \"Toxic\" semen could kill female mosquitoes, curb disease spread",
+      "description": "Female mosquitoes are targeted because only they bite and drink blood, thereby spreading diseases such as malaria and dengue fever.",
+      "url": "https://www.cbsnews.com/news/mosquitoes-toxic-semen-could-curb-disease-spread-researchers/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/01/08/eaf2104d-d11d-4c10-9be5-6f86084bae19/thumbnail/1200x630/071effdb3f7a5961118c91dcc2057850/gettyimages-1186003650.jpg?v=6ffea931a1e284729a23a55e2e39c4e9",
+      "publishedAt": "2025-01-08 12:01:31",
+      "content": "Genetically engineered mosquitoes with toxic semen could be a new weapon against tropical disease, Australian scientists said after trialing the novel pest control method. The \"toxic male technique\"\u2026 [+2849 chars]",
+      "retrievedAt": "2025-01-09 19:05:35.821294",
+      "internal_id": "c8de25a0b691c7ee6222e3f0f0a2bae902272dd27c82ed721001debfcefb79d6",
+      "publishedAtLabel": "Jan 8"
+    },
+    {
+      "id": 17224,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Slate.fr",
+      "author": "Elias Insa",
+      "title": "Inqui\u00e9tude autour d'une pand\u00e9mie de grippe A: des chevaux contractent le virus sans qu'on s'en aper\u00e7oive",
+      "description": "Le virus H5N1 se propage par des oiseaux sauvages dans ce pays d'Asie de l'Est, qui abrite cinq millions de chevaux.",
+      "url": "https://www.slate.fr/sante/inquietude-pandemie-grippe-a-chevaux-contractent-virus-sans-apercoive-aviaire-h5n1-oiseaux-asie-contamination-mongolie",
+      "urlToImage": "https://www.slate.fr/uploads/store/story_269456/original_269456.jpg",
+      "publishedAt": "2025-01-08 11:25:00",
+      "content": "Alors que la crainte d'une pand\u00e9mie de grippe aviaire plane, l'on apprend que le cheval est un porteur silencieux du virus. Une r\u00e9cente \u00e9tude de l'Universit\u00e9 de Glasgow r\u00e9v\u00e8le qu'en Mongolie, nombre \u2026 [+3059 chars]",
+      "retrievedAt": "2025-01-09 19:05:35.315885",
+      "internal_id": "97e3cf40988377c14f32e7d0392488a04f292255ae71f96b74a13995527f1ef6",
+      "publishedAtLabel": "Jan 8"
+    },
+    {
+      "id": 17220,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "HuffPost",
+      "author": "Marie Holmes",
+      "title": "This Illness Is Surging Right Now, And The Signs In Kids Aren't As Easy To Spot",
+      "description": "Here's what distinguishes whooping cough from the common cold.",
+      "url": "https://www.huffpost.com/entry/kids-whooping-cough-surge_l_677d4d9fe4b07acf439cc050",
+      "urlToImage": "https://img.huffingtonpost.com/asset/677d4db3160000230070ab8f.jpeg?ops=1200_630",
+      "publishedAt": "2025-01-08 10:45:08",
+      "content": "It can be hard to differentiate pertussis from other viruses. Among the many contagious diseases circulating right now RSV, walking pneumonia and norovirus among them is one that you may not have h\u2026 [+9912 chars]",
+      "retrievedAt": "2025-01-09 19:05:34.323932",
+      "internal_id": "2a28fa08d9134f03d8fac543d59c650357d71b4876024b6764ef75ac63b97762",
+      "publishedAtLabel": "Jan 8"
+    },
+    {
+      "id": 17240,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Numerama",
+      "author": "Marcus Dupont-Besnard",
+      "title": "Nouveau variant du virus mpox en Bretagne : 5 questions pour comprendre",
+      "description": "Une femme a \u00e9t\u00e9 d\u00e9tect\u00e9e positive au mpox, \u00e0 Rennes, en Bretagne. Il s'agit d'un nouveau variant de ce virus, clade 1b, plus transmissible, plus dangereux. Ses jours ne sont pas en danger. Une patiente a \u00e9t\u00e9 prise en charge \u00e0 Rennes, le 7 janvier 2025, apr\u00e8s \u2026",
+      "url": "https://www.numerama.com/sciences/1878124-nouveau-variant-du-virus-mpox-en-bretagne-5-questions-pour-comprendre.html",
+      "urlToImage": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2025/01/mpox-naid.jpg?resize=1600,900&key=684bcbdf&watermark",
+      "publishedAt": "2025-01-08 10:15:50",
+      "content": "Une femme a \u00e9t\u00e9 d\u00e9tect\u00e9e positive au mpox, \u00e0 Rennes, en Bretagne. Il s\u2019agit d\u2019un nouveau variant de ce virus, clade 1b, plus transmissible, plus dangereux. Ses jours ne sont pas en danger. Une patie\u2026 [+6314 chars]",
+      "retrievedAt": "2025-01-09 19:05:37.605021",
+      "internal_id": "92ecf3b0cd8ea50374c8ef70c75873c2f332eb6e8d5a449c570f4a1ae79342a7",
+      "publishedAtLabel": "Jan 8"
+    },
+    {
+      "id": 17229,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "title": "Un deceso por influenza aviar en EU desata temor a una pandemia",
+      "description": "La primera muerte relacionada con la influenza aviar A/H5N1 en Estados Unidos reaviv\u00f3 la preocupaci\u00f3n sobre el posible surgimiento de una nueva pandemia. Aunque la Organizaci\u00f3n Mundial de la Salud (OMS) asegur\u00f3 que el riesgo de transmisi\u00f3n de ese virus entre \u2026",
+      "url": "https://www.jornada.com.mx/2025/01/08/politica/012n2pol",
+      "urlToImage": "https://www.jornada.com.mx/2025/01/08/fotos/012n2pol-1.jpg",
+      "publishedAt": "2025-01-08 10:08:01",
+      "content": "Peri\u00f3dico La JornadaMi\u00e9rcoles 8 de enero de 2025, p. 12 La primera muerte relacionada con la influenza aviar A/H5N1 en Estados Unidos reaviv\u00f3 la preocupaci\u00f3n sobre el posible surgimiento de una nuev\u2026 [+2861 chars]",
+      "retrievedAt": "2025-01-09 19:05:35.555317",
+      "internal_id": "8dc59f3817e7d79d67ad8b476d189e4a98182895ced763915282fff35d7b2fa3",
+      "publishedAtLabel": "Jan 8"
+    },
+    {
+      "id": 17223,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Itainews.com",
+      "author": "damono3856",
+      "title": "\u59cb\u307e\u3063\u305f\u300c\u79fb\u6c11\u9006\u6d41\u300d\u2026\u7c73\u56fd\u306f\u30c8\u30e9\u30f3\u30d7\u3001\u6b27\u5dde\u306f\u6975\u53f3\u53f0\u982d\u3067\u5927\u91cf\u5e30\u56fd H5N1\u30d1\u30f3\u30c7\u30df\u30c3\u30af\u767a\u751f\u3067\u30b0\u30ed\u30fc\u30d0\u30eb\u5316\u306b\u30c8\u30c9\u30e1",
+      "description": "1 \u540d\u524d\uff1a\u304a\u65ad\u308a \u2605\uff1a2025/01/08(\u6c34) 00:12:32.05 ID:9s1/1XJM9.net \u59cb\u307e\u3063\u305f\u300c\u79fb\u6c11\u9006\u6d41\u300d\u2026\u7c73\u56fd\u306f\u30c8\u30e9\u30f3\u30d7\u3001\u6b27\u5dde\u306f\u6975\u53f3\u53f0\u982d\u3067\u5927\u91cf\u5e30\u56fd H5N1\u30d1\u30f3\u30c7\u30df\u30c3\u30af\u767a\u751f\u3067\u30b0\u30ed\u30fc\u30d0\u30eb\u5316\u306b\u30c8\u30c9\u30e1\u300a\u85e4 \u548c\u5f66\u300b#\u79fb\u6c11\u9006\u6d41 #\u5f37\u5236\u9001\u9084 #\u30a4\u30f3\u30d5\u30eb\u30a8\u30f3\u30b6 #\u30d1\u30f3\u30c7\u30df\u30c3\u30af #\u30c9\u30a4\u30c4 #\u30b9\u30a6...",
+      "url": "https://itainews.com/archives/2043575.html",
+      "urlToImage": "https://livedoor.blogimg.jp/dqnplus/imgs/1/4/148e921d-s.png",
+      "publishedAt": "2025-01-08 10:03:25",
+      "content": "12: 2025/01/08() 00:19:42.88 ID:yfxATrnF0 17: 2025/01/08() 00:21:31.05 ID:3Ws5HGOu0 18: 2025/01/08() 00:21:35.17 ID:iVMKfTSR0 13: 2025/01/08() 00:19:44.09 ID:ge45zfoH0 19: 2025/01/08() 00:21:40.9\u2026 [+1487 chars]",
+      "retrievedAt": "2025-01-09 19:05:35.291087",
+      "internal_id": "3853b3c8c2226669ff2cab61262974f43f44c3d904943dd70678ec22fa08a49d",
+      "publishedAtLabel": "Jan 8"
+    },
+    {
+      "id": 17236,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": "liberation",
+      "source_name": "Lib\u00e9ration",
+      "author": "LIBERATION, AFP",
+      "title": "Des moustiques au \u00absperme toxique\u00bb : une potentielle solution pour freiner la transmission des maladies tropicales",
+      "description": "Dans une \u00e9tude publi\u00e9e mardi 7 janvier, des scientifiques australiens pr\u00e9sentent une nouvelle technique de lutte biologique contre les moustiques. L\u2019id\u00e9e est de tuer les femelles, les seules \u00e0 piquer et \u00e0 propager la dengue ou le paludisme.",
+      "url": "https://www.liberation.fr/societe/sante/des-moustiques-au-sperme-toxique-une-potentielle-solution-pour-freiner-la-transmission-des-maladies-tropicales-20250108_SMMPPKSYHZAJPEURIWMHGQJKBM/",
+      "urlToImage": "https://www.liberation.fr/resizer/urs3ee0o-lHkSv4L_DxBovCsnVs=/1200x630/filters:format(jpg):quality(70):focal(1373x665:1383x675)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/J54ZHOUM5FFPNNVX26RVYFEKD4.jpg",
+      "publishedAt": "2025-01-08 09:32:11",
+      "content": "Dengue, zika, chikungunya, paludisme, fi\u00e8vre jaune Les moustiques transmettent sans arr\u00eat des maladies, certaines tr\u00e8s dangereuses, tuant plus dun million de personnes par an dans le monde. Pour endi\u2026 [+2645 chars]",
+      "retrievedAt": "2025-01-09 19:05:35.904947",
+      "internal_id": "5e9045b5b671c4e2c7777811f68cb9bf5683a7e9fc0236f355e9a28b48050a0d",
+      "publishedAtLabel": "Jan 8"
+    },
+    {
+      "id": 17232,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Newsit.gr",
+      "author": "\u03a3\u03bf\u03c6\u03af\u03b1 \u0392\u03b1\u03bb\u03c3\u03ac\u03bc\u03b7",
+      "title": "\u00ab\u039f \u03ba\u03cc\u03c3\u03bc\u03bf\u03c2 \u03b4\u03b5\u03bd \u03b5\u03af\u03bd\u03b1\u03b9 \u03c0\u03c1\u03bf\u03b5\u03c4\u03bf\u03b9\u03bc\u03b1\u03c3\u03bc\u03ad\u03bd\u03bf\u03c2 \u03b3\u03b9\u03b1 \u03ac\u03bb\u03bb\u03b7 \u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03af\u03b1\u00bb \u2013 \u0391\u03bd\u03b7\u03c3\u03c5\u03c7\u03af\u03b1 5 \u03c7\u03c1\u03cc\u03bd\u03b9\u03b1 \u03bc\u03b5\u03c4\u03ac \u03c4\u03bf\u03bd \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc",
+      "description": "\u039c\u03c0\u03bf\u03c1\u03b5\u03af \u03b7 \u03b5\u03bc\u03c6\u03ac\u03bd\u03b9\u03c3\u03b7 \u03c4\u03bf\u03c5 \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03bf\u03cd \u03c0\u03c1\u03b9\u03bd \u03b1\u03c0\u03cc \u03c0\u03ad\u03bd\u03c4\u03b5 \u03c7\u03c1\u03cc\u03bd\u03b9\u03b1 \u03bd\u03b1 \u03ac\u03c6\u03b7\u03c3\u03b5 \u03b5\u03ba\u03b1\u03c4\u03bf\u03bc\u03bc\u03cd\u03c1\u03b9\u03b1 \u03bd\u03b5\u03ba\u03c1\u03bf\u03cd\u03c2, \u03c9\u03c3\u03c4\u03cc\u03c3\u03bf, \u03ba\u03b1\u03bd\u03b5\u03af\u03c2 \u03b4\u03b5\u03bd \u03bc\u03c0\u03bf\u03c1\u03b5\u03af \u03bd\u03b1 \u03be\u03ad\u03c1\u03b5\u03b9 \u03c0\u03cc\u03c3\u03bf \u03ad\u03c4\u03bf\u03b9\u03bc\u03bf\u03c2 \u03b5\u03af\u03bd\u03b1\u03b9 \u03bf \u03ba\u03cc\u03c3\u03bc\u03bf\u03c2 \u03bd\u03b1 ... To \u03ac\u03c1\u03b8\u03c1\u03bf \u00ab\u039f \u03ba\u03cc\u03c3\u03bc\u03bf\u03c2 \u03b4\u03b5\u03bd \u03b5\u03af\u03bd\u03b1\u03b9 \u03c0\u03c1\u03bf\u03b5\u03c4\u03bf\u03b9\u03bc\u03b1\u03c3\u03bc\u03ad\u03bd\u03bf\u03c2 \u03b3\u03b9\u03b1 \u03ac\u03bb\u03bb\u03b7 \u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03af\u03b1\u00bb \u2013 \u0391\u03bd\u03b7\u03c3\u03c5\u03c7\u03af\u03b1 5 \u03c7\u03c1\u03cc\u03bd\u03b9\u03b1 \u03bc\u03b5\u03c4\u03ac \u03c4\u03bf\u03bd \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc \u03b4\u03b7\u2026",
+      "url": "https://www.newsit.gr/kosmos/o-kosmos-den-einai-proetoimasmenos-gia-alli-pandimia-anisyxia-5-xronia-meta-ton-koronoio/4277444/",
+      "urlToImage": "https://www.newsit.gr/wp-content/uploads/2025/01/iStock-2134367155-1200x630.jpg",
+      "publishedAt": "2025-01-08 09:32:01",
+      "content": ", , . . \u00ab \u00bb, , , Covid-19. \u00ab , \u00bb, . \u00ab \u00bb, . \u00ab \u00bb , , \u00ab 2009 (..: H1N1), Covid\u00bb. \u00ab \u00bb, . , , : \u00ab 2025, , , \u00bb. RNA (mRNA) . , \u00ab \u00bb, \u00ab \u00bb . H5N1 , Imperial College , H5N1 \u00ab \u00bb. , , . \u00ab , Co\u2026 [+229 chars]",
+      "retrievedAt": "2025-01-09 19:05:35.600688",
+      "internal_id": "7fbd5c60d9e1a9a08a28e30e7eac01148201697e8cfc4bccee484baf7a82186c",
+      "publishedAtLabel": "Jan 8"
+    },
+    {
+      "id": 17226,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Storm.mg",
+      "author": "\u674e\u9756\u68e0",
+      "title": "\u7f8e\u570b\u9996\u4f8bH5N1\u79bd\u6d41\u611f\u6b7b\u4ea1\u75c5\u4f8b\uff01CDC\u5f37\u8abf\u7121\u300c\u4eba\u50b3\u4eba\u300d\u98a8\u96aa\uff0c\u5c08\u5bb6\u64d4\u5fc3\u75c5\u6bd2\u52a0\u901f\u7a81\u8b8a",
+      "description": "\u7f8e\u570b\u8def\u6613\u65af\u5b89\u90a3\u5dde\uff08Louisiana\uff09\u885b\u751f\u5ef36\u65e5\u5ba3\u5e03\uff0c\u7576\u5730\u4e00\u4f4d\u5c45\u6c11\u56e0\u611f\u67d3\u79bd\u6d41\u611f\uff08bird flu\uff09\u4f4f\u9662\u5f8c\u4e0d\u5e78\u6b7b\u4ea1\uff0c...",
+      "url": "https://www.storm.mg/article/5306135",
+      "urlToImage": "https://image.cache.storm.mg/styles/smg-800x533-fp/s3/media/image/2025/01/08/20250108-043004_U29519_M1022225_3fb3.jpg?Eu2lrDUvSyvgcDdrD3CnvfmB766nh_yK&itok=7SnrsYV6",
+      "publishedAt": "2025-01-08 08:50:26",
+      "content": "Louisiana6bird fluH5N165 &lt;Google&gt; First U.S. bird flu death reported in Louisiana after severe case of H5N1 https://t.co/2ErQms7wTP CBS Mornings (@CBSMornings) January 7, 2025 2003H5N1400C\u2026 [+110 chars]",
+      "retrievedAt": "2025-01-09 19:05:35.504843",
+      "internal_id": "ee20f0839c8046907803c54c0f842b51b2124407793bcd0d38afee5fb4f6b633",
+      "publishedAtLabel": "Jan 8"
+    },
+    {
+      "id": 17222,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Computerworld.dk",
+      "author": "Carsten Folke M\u00f8ller",
+      "title": "Ni timers fort\u00e6lling om dr\u00e6ber-klovnen Pennywise fra It: T\u00f8r du kigge med?",
+      "description": "Stephen Kings ikoniske gyserunivers f\u00e5r nyt liv med HBO\u2019s kommende serie It: Welcome to Derry, som er en prequel til de succesfulde It-film med den d\u00f8dbringende klovn i centrum.",
+      "url": "https://www.computerworld.dk/art/289944/ni-timers-fortaelling-om-draeber-klovnen-pennywise-fra-it-toer-du-kigge-med",
+      "urlToImage": "https://www.computerworld.dk/fil/230573?width=600&height=315&focus=1",
+      "publishedAt": "2025-01-08 08:45:00",
+      "content": "Stephen Kings ikoniske gyserunivers f\u00e5r nyt liv med HBOs kommende serie It: Welcome to Derry, som er en prequel til de succesfulde It-film med den d\u00f8dbringende klovn i centrum.Annonceindl\u00e6g fra HPAI-\u2026 [+2258 chars]",
+      "retrievedAt": "2025-01-09 19:05:34.990937",
+      "internal_id": "9be2bedc3c01ac399a3cea868b420990affd6d972faea903f419d1695fe91d94",
+      "publishedAtLabel": "Jan 8"
+    },
+    {
+      "id": 17231,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Skai.gr",
+      "author": "Newsroom",
+      "title": "\u03a0\u039f\u03a5: \u0395\u03af\u03bd\u03b1\u03b9 \u03c0\u03c1\u03bf\u03b5\u03c4\u03bf\u03b9\u03bc\u03b1\u03c3\u03bc\u03ad\u03bd\u03bf\u03c2 \u03bf \u03ba\u03cc\u03c3\u03bc\u03bf\u03c2 \u03bd\u03b1 \u03b1\u03bd\u03c4\u03b9\u03bc\u03b5\u03c4\u03c9\u03c0\u03af\u03c3\u03b5\u03b9 \u03c4\u03b7\u03bd \u03b5\u03c0\u03cc\u03bc\u03b5\u03bd\u03b7 \u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03af\u03b1; \u0397 \u03b1\u03c0\u03ac\u03bd\u03c4\u03b7\u03c3\u03b7 \u03b5\u03af\u03bd\u03b1\u03b9 \u03cc\u03c7\u03b9",
+      "description": "\u039f \u03b5\u03c0\u03b9\u03ba\u03b5\u03c6\u03b1\u03bb\u03ae\u03c2 \u03c4\u03bf\u03c5 \u03a0\u03b1\u03b3\u03ba\u03cc\u03c3\u03bc\u03b9\u03bf\u03c5 \u039f\u03c1\u03b3\u03b1\u03bd\u03b9\u03c3\u03bc\u03bf\u03cd \u03a5\u03b3\u03b5\u03af\u03b1\u03c2 \u03ba\u03c1\u03bf\u03cd\u03b5\u03b9 \u03c4\u03bf\u03bd \u03ba\u03ce\u03b4\u03c9\u03bd\u03b1 \u03c4\u03bf\u03c5 \u03ba\u03b9\u03bd\u03b4\u03cd\u03bd\u03bf\u03c5 \u03c0\u03c1\u03bf\u03b5\u03b9\u03b4\u03bf\u03c0\u03bf\u03b9\u03ce\u03bd\u03c4\u03b1\u03c2 \u03cc\u03c4\u03b9 \u03bf \u03ba\u03cc\u03c3\u03bc\u03bf\u03c2 \u03b4\u03b5\u03bd \u03b5\u03af\u03bd\u03b1\u03b9 \u03c0\u03c1\u03bf\u03b5\u03c4\u03bf\u03b9\u03bc\u03b1\u03c3\u03bc\u03ad\u03bd\u03bf\u03c2 \u03b3\u03b9\u03b1 \u03ac\u03bb\u03bb\u03b7 \u03bc\u03af\u03b1 \u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03af\u03b1",
+      "url": "https://www.skai.gr/news/health/pou-einai-proetoimasmenos-o-kosmos-na-antimetopisei-tin-epomeni-pandimia-einai-polyploko",
+      "urlToImage": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2024-01/shutterstock-covid-maska.jpg?itok=VakVHL2o",
+      "publishedAt": "2025-01-08 08:39:55",
+      "content": "Covid-19, , , , , () . ; \u00ab\u00bb, , , Covid-19. \u00ab , \u00bb, : \u00ab \u00bb. , , \u00ab 2009 (..: H1N1), Covid\u00bb. \u00ab\u00bb, . , , : \u00ab 2025, , , \u00bb. RNA (mRNA) . , \u00ab \u00bb, \u00ab \u00bb . , Imperial College , H5N1 \u00ab \u00bb. , , . \u00ab , Cov\u2026 [+247 chars]",
+      "retrievedAt": "2025-01-09 19:05:35.593521",
+      "internal_id": "83728b9bdb3dafe44d3cf1d025717e75fe7b87fc22693d075e266f2891592ce0",
+      "publishedAtLabel": "Jan 8"
+    },
+    {
+      "id": 17225,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Globalsecurity.org",
+      "author": "John Pike",
+      "title": "First US Death From Mutated H5N1 Bird Flu Sparks Fears of New Pandemic",
+      "description": "The first death from the H5N1 bird flu was registered in the United State \u2014 in the state of Louisiana, local health department said.",
+      "url": "https://www.globalsecurity.org/security/library/news/2025/01/sec-250107-sputnik01.htm",
+      "urlToImage": null,
+      "publishedAt": "2025-01-08 08:35:17",
+      "content": "Sputnik News 20250107 MOSCOW (Sputnik) - The first death from the H5N1 bird flu was registered in the United State \u00e2\u0080\u0094 in the state of Louisiana, local health department said. At the end of Decemb\u2026 [+2111 chars]",
+      "retrievedAt": "2025-01-09 19:05:35.497686",
+      "internal_id": "0d64457042e83a7e0d7738324178a2ac6f340418039a108f60790ec3a9391caf",
+      "publishedAtLabel": "Jan 8"
+    },
+    {
+      "id": 17228,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Globalsecurity.org",
+      "author": "John Pike",
+      "title": "Avian flu risk still 'low' after first US patient dies from H5N1 virus: WHO",
+      "description": "A day after the United States reported its first human death from avian flu, the UN World Health Organization (WHO) insisted on Tuesday that the risk to the wider population remains \"low\".",
+      "url": "https://www.globalsecurity.org/security/library/news/2025/01/sec-250107-unnews01.htm",
+      "urlToImage": null,
+      "publishedAt": "2025-01-08 08:19:20",
+      "content": "7 January 2025 - A day after the United States reported its first human death from avian flu, the UN World Health Organization (WHO) insisted on Tuesday that the risk to the wider population remains \u2026 [+2929 chars]",
+      "retrievedAt": "2025-01-09 19:05:35.530829",
+      "internal_id": "a67e7706356eefd88a97a8cfb7d927a75f2776a1a1e4298e7e49b8825c911148",
+      "publishedAtLabel": "Jan 8"
+    },
+    {
+      "id": 17230,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Faz.net",
+      "author": "Pia Heinemann",
+      "title": "Was bedeuten neuen Mutationen bei zwei Patienten?",
+      "description": "Das Vogelgrippevirus H5N1 springt in den USA immer wieder auf Menschen \u00fcber und hat sich in Patienten angepasst. Beh\u00f6rden raten zu hoher Wachsamkeit.",
+      "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/vogelgrippe-warum-infiziert-h5n1-immer-wieder-menschen-110214943.html",
+      "urlToImage": "https://media0.faz.net/ppmedia/aktuell/3103522337/1.10215782/facebook_teaser_fplus/eine-medizinerin-in-den-usa.jpg",
+      "publishedAt": "2025-01-08 07:54:07",
+      "content": "Beunruhigende Nachrichten zur Vogelgrippe werden h\u00e4ufiger: Zuletzt waren im Erbgut des Virus aus Abstrichen eines schwer erkrankten Patienten in Louisiana Anpassungen an den Menschen gefunden worden.\u2026 [+493 chars]",
+      "retrievedAt": "2025-01-09 19:05:35.580118",
+      "internal_id": "1afa9ccf0268070ab975eb8de95e4cac0a3c42579daf0a374a09fc9dea9cb3c9",
+      "publishedAtLabel": "Jan 8"
+    },
+    {
+      "id": 17239,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Aajtak.in",
+      "author": "\u0926\u0940\u092a\u0915 \u092e\u093f\u0936\u094d\u0930\u093e",
+      "title": "HPMV, \u0915\u094b\u0930\u094b\u0928\u093e \u0939\u0940 \u0928\u0939\u0940\u0902... \u0907\u0938 \u0927\u0930\u0924\u0940 \u0928\u0947 \u091d\u0947\u0932\u0947 \u0939\u0948\u0902 10 \u0915\u0930\u094b\u0921\u093c \u0938\u0947 \u0905\u0927\u093f\u0915 \u0935\u093e\u092f\u0930\u0938, \u091c\u093e\u0928\u093f\u090f Viruses \u0915\u0940 \u0939\u093f\u0938\u094d\u091f\u094d\u0930\u0940",
+      "description": "\u092f\u0942\u0928\u093f\u0935\u0930\u094d\u0938\u093f\u091f\u0940 \u0911\u092b \u0915\u094b\u0932\u094b\u0930\u093e\u0921\u094b \u092c\u094b\u0932\u094d\u0921\u0930 \u0915\u0940 \u0935\u093e\u092f\u0930\u094b\u0932\u0949\u091c\u093f\u0938\u094d\u091f \u0938\u093e\u0930\u093e \u0938\u0949\u092f\u0930 \u0915\u0939\u0924\u0940 \u0939\u0948\u0902- \u0935\u093e\u092f\u0930\u0938 \u0939\u092e\u093e\u0930\u0940 \u0926\u0941\u0928\u093f\u092f\u093e \u092e\u0947\u0902 \u0928\u0939\u0940\u0902 \u0930\u0939\u0947 \u0939\u0948\u0902 \u092c\u0932\u094d\u0915\u093f \u0939\u092e \u0935\u093e\u092f\u0930\u0938 \u0915\u0940 \u0926\u0941\u0928\u093f\u092f\u093e \u092e\u0947\u0902 \u0930\u0939 \u0930\u0939\u0947 \u0939\u0948\u0902. \u0909\u0928\u094d\u0939\u094b\u0902\u0928\u0947 \u0939\u092e\u0947\u0902 \u091c\u0940\u0935\u0928\u0926\u093e\u0928 \u0926\u093f\u092f\u093e \u0939\u0941\u0906 \u0939\u0948. \u092a\u0943\u0925\u094d\u0935\u0940 \u092a\u0930 \u092e\u094c\u091c\u0942\u0926 \u0915\u0941\u0932 \u091c\u0940\u0935-\u091c\u0902\u0924\u0941\u0913\u0902 \u0915\u0940\u0906\u092c\u093e\u0926\u0940 \u0935\u093e\u092f\u0930\u0938 \u0915\u0940 \u0938\u0902\u0916\u094d\u092f\u093e \u0915\u0940 \u0924\u0941\u0932\u0928\u093e \u092e\u0947\u0902 \u0915\u0941\u091b \u092d\u0940 \u0928\u0939\u0940\u0902 \u2026",
+      "url": "https://www.aajtak.in/india/news/story/what-is-virus-how-they-formed-from-where-they-came-hpmv-corona-sars-mers-ebola-zika-know-the-history-of-viruses-ntc-dskc-2138586-2025-01-08",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202501/677e23133bb24-viruspng-080237433-16x9.png",
+      "publishedAt": "2025-01-08 07:10:51",
+      "content": "(HPMV) . HPMV . , . . , HPMV . , , , , HPMV . , , , . HPMV SARS, MERS, , Zika . 10 . () ... - . , . , ' . . - . . .' : HMPV , ? . , . , - . , . - . , - . - . - . 38 , . 38 . - . () ()\u2026 [+294 chars]",
+      "retrievedAt": "2025-01-09 19:05:37.159343",
+      "internal_id": "904c2c6546221a5e454f861f004e0d518665f6c47def8425b376db4cc9cbebe1",
+      "publishedAtLabel": "Jan 8"
+    },
     {
       "id": 17210,
       "query": [
@@ -24240,222 +24676,6 @@
       "content": "The infection of mammalian species by avian flu viruses is causing concern, with cell replication in mammals making the virus more pathogenic to humans. A recent investigation into the increase in d\u2026 [+5001 chars]",
       "retrievedAt": "2024-11-26 07:07:01.898728",
       "internal_id": "e8baabf99bd21017d141d03b2944d20d1482fce25de6a6af63fd9c17dd0af78f",
-      "publishedAtLabel": "Nov 24"
-    },
-    {
-      "id": 15873,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The BMJ",
-      "author": "da Silva, C., Matambisso, G., Boene, S., Rovira-Vallbona, E., Pujol, A., Comiche, K., Sanchez, A., Greenhouse, B., Chidimatembue, A., Aranda-Diaz, A., Arnaldo, P., Ariani, C., Walker, P., Mbeve, H., Ndimande, N., Tembisse, D., Ruybal-Pesantez, S., Verity, R., Rafael, B., Candrinho, B., Mayor, A.",
-      "title": "Plasmodium falciparum molecular surveillance to inform the Mozambican National Malaria Control Programme strategy: protocol",
-      "description": "Introduction Malaria molecular surveillance has the potential to generate information on biological threats that compromise the effectiveness of antimalarial interventions. This study aims to streamline surveillance activities to inform the new strategic plan\u2026",
-      "url": "https://bmjopen.bmj.com/content/14/11/e092590",
-      "urlToImage": "https://bmjopen.bmj.com/pages/wp-content/uploads/sites/7/2019/07/bmjopen-default-cover.png",
-      "publishedAt": "2024-11-24 17:58:38",
-      "content": "Introduction Mozambique is among the 10 countries with the highest malaria burden in the world, with an estimated 10.4million cases in 2022.1 Malaria transmission is highly heterogeneous across the \u2026 [+13400 chars]",
-      "retrievedAt": "2024-11-25 19:06:05.573448",
-      "internal_id": "89a3eea43332ec474494b53463927591b959921c7d7acececb50fb84471e7bf6",
-      "publishedAtLabel": "Nov 24"
-    },
-    {
-      "id": 15864,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Rolling Stone",
-      "author": "Jeff Ihaza",
-      "title": "Boldy James and Benny The Butcher Play With Art and Reality On \u2018Rabies\u2019",
-      "description": "The track is a stand-out single from Boldy James and Harry Fraud\u2019s \u2018The Bricktionary\u2019 album.",
-      "url": "http://www.rollingstone.com/music/music-features/boldy-james-and-benny-the-butcher-rabies-new-song-1235176806/",
-      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2024/11/boldy-james-benny-the-butcher.jpg?crop=0px%2C26px%2C1800px%2C1015px&resize=1600%2C900",
-      "publishedAt": "2024-11-24 17:02:07",
-      "content": "Two of Griselda\u2019s best connected on \u201cRabies,\u201d a track from Boldy James and Harry Fraud\u2019s aptly named new album The Bricktionary. Both artists are recognized as skilled scribes of R-rated drug epics t\u2026 [+2036 chars]",
-      "retrievedAt": "2024-11-25 19:06:03.352109",
-      "internal_id": "7332c4bf00420b0c2dc57603b47a5493d558433624acb0289824ae2969fca0dd",
-      "publishedAtLabel": "Nov 24"
-    },
-    {
-      "id": 15875,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Jeune Afrique",
-      "author": "The Conversation",
-      "title": "Face au Mpox, la n\u00e9cessaire s\u00e9curisation des march\u00e9s de viande sauvage",
-      "description": "En parall\u00e8le des mesures pr\u00e9ventives traditionnelles destin\u00e9es \u00e0 endiguer l\u2019\u00e9pid\u00e9mie de \u00ab variole du singe \u00bb, le collectif One Health pr\u00e9conise de s\u2019attaquer au manque d\u2019hygi\u00e8ne et de r\u00e9gulation des march\u00e9s de viande sauvage en Afrique, cause profonde de la t\u2026",
-      "url": "https://www.jeuneafrique.com/1633221/societe/face-au-mpox-la-necessaire-securisation-des-marches-de-viande-sauvage/",
-      "urlToImage": "https://prod.cdn-medias.jeuneafrique.com/cdn-cgi/image/q=auto,f=auto,metadata=none,width=1280,height=720,fit=cover,gravity=0.5000x0.5000/https://prod.cdn-medias.jeuneafrique.com/medias/2024/11/22/jad20241122-the-conversation-mpox-viande-sauvage.jpg",
-      "publishedAt": "2024-11-24 15:08:48",
-      "content": "Dans de nombreux pays du monde, les animaux sauvages sont parfois tu\u00e9s pour \u00eatre mang\u00e9s, notamment les singes, les rats et les \u00e9cureuils. La viande sauvage contribue de mani\u00e8re significative \u00e0 la nut\u2026 [+7001 chars]",
-      "retrievedAt": "2024-11-25 19:06:06.611103",
-      "internal_id": "f207aba0c59742f045eb7a957d98ea647ad8157b3c2d380b9e5d7b21232fc050",
-      "publishedAtLabel": "Nov 24"
-    },
-    {
-      "id": 15867,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Diepresse.com",
-      "author": "Die Presse",
-      "title": "Erstmals Kind in den USA mit Vogelgrippe infiziert",
-      "description": "In Kanada hat sich indes ein Jugendlicher mit dem Vogelgrippevirus H5N1 infiziert. Das Virus ist mutiert und hat sich an den menschlichen Wirt angepasst.",
-      "url": "https://www.diepresse.com/19105604/erstmals-kind-in-den-usa-mit-vogelgrippe-infiziert",
-      "urlToImage": "https://img.diepresse.com/public/incoming/1r01sv-HEALTH-BIRDFLUMEXICO/alternates/DPR_SOCIAL_NACHRICHTEN/HEALTH-BIRDFLUMEXICO",
-      "publishedAt": "2024-11-24 11:40:32",
-      "content": "In Kanada hat sich indes ein Jugendlicher mit dem Vogelgrippevirus H5N1 infiziert. Das Virus ist mutiert und hat sich an den menschlichen Wirt angepasst. Zwei Vogelgrippe-F\u00e4lle bei einem Kind und ei\u2026 [+3696 chars]",
-      "retrievedAt": "2024-11-25 19:06:04.603474",
-      "internal_id": "5a32f8b67e59e060d40b2c556923d68d43e78519d83488eaf6bbf06cbb13e5f0",
-      "publishedAtLabel": "Nov 24"
-    },
-    {
-      "id": 15866,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "N-tv.de",
-      "author": "n-tv NACHRICHTEN",
-      "title": "An menschlichen Wirt angepasst: Vogelgrippe-Virus H5N1 mutiert in Teenager",
-      "description": "Das Vogelgrippe-Virus breitet sich in Nordamerika weiter aus: In den USA infizierte sich nun erstmals ein Kind. In Kanada k\u00e4mpft ein Teenager mit einem mutierten H5N1-Erreger. Experten zeigen sich besorgt.",
-      "url": "https://www.n-tv.de/wissen/Vogelgrippe-Virus-H5N1-mutiert-in-Teenager-article25383544.html",
-      "urlToImage": "https://bilder3.n-tv.de/img/incoming/crop25383558/0841323954-cImg_16_9-w1200/490232021.jpg",
-      "publishedAt": "2024-11-24 11:25:17",
-      "content": "Das Vogelgrippe-Virus breitet sich in Nordamerika weiter aus: In den USA infizierte sich nun erstmals ein Kind. In Kanada k\u00e4mpft ein Teenager mit einem mutierten H5N1-Erreger. Experten zeigen sich be\u2026 [+3722 chars]",
-      "retrievedAt": "2024-11-25 19:06:04.595948",
-      "internal_id": "60fc8f5478b14e18bf08da7bbf4c351a0274b4af96d1d15546358cb91eb94964",
-      "publishedAtLabel": "Nov 24"
-    },
-    {
-      "id": 15865,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "The New Yorker",
-      "author": "Dhruv Khullar",
-      "title": "The Fundamental Problem with R.F.K., Jr.,\u2019s Nomination to H.H.S.",
-      "description": "Dhruv Khullar on the trouble\u2014and the opportunity\u2014with Robert F. Kennedy, Jr. He has many bad ideas\u2014about vaccines, COVID, the N.I.H., and the F.D.A. Yet the irony of our political moment is that his more reasonable positions are the ones that could sink his c\u2026",
-      "url": "https://www.newyorker.com/magazine/2024/12/02/the-fundamental-problem-with-rfk-jrs-nomination-to-hhs",
-      "urlToImage": "https://media.newyorker.com/photos/673e6dbc46f9b2a74bb8be57/16:9/w_1280,c_limit/Comment-RFK-Jr-and-America_social.jpg",
-      "publishedAt": "2024-11-24 11:00:00",
-      "content": "In 2018, two children in Samoa died after receiving measles vaccines, because the nurses who administered them had mistakenly mixed the vaccine powder with a muscle relaxant. Local vaccine skeptics s\u2026 [+6504 chars]",
-      "retrievedAt": "2024-11-25 19:06:03.946463",
-      "internal_id": "a23f0a7bfedb93b3753ce9921429adbdf9edd09105a5bc240665ae194f9ff15f",
-      "publishedAtLabel": "Nov 24"
-    },
-    {
-      "id": 15872,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "bild",
-      "source_name": "Bild",
-      "author": "Karen von Guttenberg",
-      "title": "Durchbruch gegen die Krankheit? - Erste Malaria-Impfung per M\u00fcckenstich!",
-      "description": "Wissenschaftler entwickeln eine neue Impfstrategie gegen Malaria, bei der gentechnisch ver\u00e4nderte Erreger durch M\u00fcckenstiche \u00fcbertragen werden.",
-      "url": "https://www.bild.de/leben-wissen/wissenschaft/mueckenstiche-als-impfung-durchbruch-gegen-malaria-6742db4cd3e4b22ff2f6ab7b",
-      "urlToImage": "https://images.bild.de/6742db4cd3e4b22ff2f6ab7b/46e66ebf71d06f9c7f0c5f33a83491c7,8705b3e7?w=1280",
-      "publishedAt": "2024-11-24 09:48:13",
-      "content": "Was klingt, wie ein schlechter Scherz, ist in Wirklichkeit eine neue Form der Impfung gegen Malaria: Der Impfstoff wird durch M\u00fcckenstiche \u00fcbertragen. Aber wie? Laut dem World Malaria Report 2023 de\u2026 [+1834 chars]",
-      "retrievedAt": "2024-11-25 19:06:05.549172",
-      "internal_id": "38e4cda32b130c5543608f68ed5f28579c113e3a4dd778ac1fb40eecf93257db",
-      "publishedAtLabel": "Nov 24"
-    },
-    {
-      "id": 15874,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Jeune Afrique",
-      "author": "Jeanne Le Bihan",
-      "title": "Au Burkina Faso, Halidou Tinto, artisan d\u2019un nouveau vaccin contre le paludisme",
-      "description": "Install\u00e9s \u00e0 moins de 100 km de Ouagadougou, le professeur ivoiro-burkinab\u00e8 et son \u00e9quipe ont jou\u00e9 un r\u00f4le majeur dans l\u2019\u00e9laboration du R21 contre la malaria, approuv\u00e9 par l\u2019OMS en 2023.",
-      "url": "https://www.jeuneafrique.com/1631409/societe/au-burkina-faso-halidou-tinto-artisan-dun-nouveau-vaccin-contre-le-paludisme/",
-      "urlToImage": "https://prod.cdn-medias.jeuneafrique.com/cdn-cgi/image/q=auto,f=auto,metadata=none,width=1280,height=720,fit=cover,gravity=0.5284x0.2692/https://prod.cdn-medias.jeuneafrique.com/medias/2024/11/22/jad20241122-homme-du-mois-halidou-tnto.jpg",
-      "publishedAt": "2024-11-24 09:05:06",
-      "content": "Le paludisme, le professeur Halidou Tinto en a fait une affaire personnelle. Depuis quen 1989, accabl\u00e9 par la fi\u00e8vre, les maux de t\u00eate et les vertiges, le futur scientifique est contraint de quitter \u2026 [+227 chars]",
-      "retrievedAt": "2024-11-25 19:06:05.592590",
-      "internal_id": "b40d10da2d0b78638e34b6ff921e32b417dc17221bff9a1c2216da7e9cbc9a95",
-      "publishedAtLabel": "Nov 24"
-    },
-    {
-      "id": 15870,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Jornada.com.mx",
-      "author": "Alejandro Svarch * y Jos\u00e9 Moya **",
-      "title": "Alejandro Svarch * y Jos\u00e9 Moya **: Calor, humedad y mosquitos: cr\u00f3nica de una temporada de dengue",
-      "description": "Al caer la tarde, las pangas y lanchas cruzan la cuenca veracruzana del r\u00edo Papaloapan. Mujeres y hombres regresan a sus hogares despu\u00e9s de una ardua jornada en la plantaci\u00f3n de ca\u00f1a de az\u00facar. Los d\u00edas lluviosos, con temperaturas que rondan los 30 grados, hu\u2026",
-      "url": "https://www.jornada.com.mx/2024/11/24/opinion/012a2pol",
-      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "publishedAt": "2024-11-24 09:04:56",
-      "content": "l caer la tarde, las pangas y lanchas cruzan la cuenca veracruzana del r\u00edo Papaloapan. Mujeres y hombres regresan a sus hogares despu\u00e9s de una ardua jornada en la plantaci\u00f3n de ca\u00f1a de az\u00facar. Los d\u00ed\u2026 [+4780 chars]",
-      "retrievedAt": "2024-11-25 19:06:04.917958",
-      "internal_id": "bf32a6ce1737866467f362ae84ccae5e822dbbfe09cbae71fa41e87c8b3d70b4",
-      "publishedAtLabel": "Nov 24"
-    },
-    {
-      "id": 15871,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Jornada.com.mx",
-      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "title": "En lo que va del a\u00f1o, 262 decesos y m\u00e1s de 110 mil casos de dengue",
-      "description": "La Direcci\u00f3n General de Epidemiolog\u00eda (DGE) de la Secretar\u00eda de Salud (Ssa) inform\u00f3 que en lo que va del a\u00f1o se han confirmado 110 mil 281 casos de dengue en el pa\u00eds, de los cuales, 48 mil 945 corresponden a dengue con signos de alarma y grave, y 61 mil 336, \u2026",
-      "url": "https://www.jornada.com.mx/2024/11/24/sociedad/027n1soc",
-      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "publishedAt": "2024-11-24 09:04:56",
-      "content": "Peri\u00f3dico La JornadaDomingo 24 de noviembre de 2024, p. 27 La Direcci\u00f3n General de Epidemiolog\u00eda (DGE) de la Secretar\u00eda de Salud (Ssa) inform\u00f3 que en lo que va del a\u00f1o se han confirmado 110 mil 281 \u2026 [+1641 chars]",
-      "retrievedAt": "2024-11-25 19:06:04.930546",
-      "internal_id": "5f33fc5f0112ff7897ada9caf5a7a5c8429033f4868b66f87109b4c805c64273",
-      "publishedAtLabel": "Nov 24"
-    },
-    {
-      "id": 15869,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Jornada.com.mx",
-      "author": "Alejandro Svarch * y Jos\u00e9 Moya **",
-      "title": "Alejandro Svarch * y Jos\u00e9 Moya **: Calor, humedad y mosquitos: cr\u00f3nica de una temporada de dengue",
-      "description": "Al caer la tarde, las pangas y lanchas cruzan la cuenca veracruzana del r\u00edo Papaloapan. Mujeres y hombres regresan a sus hogares despu\u00e9s de una ardua jornada en la plantaci\u00f3n de ca\u00f1a de az\u00facar. Los d\u00edas lluviosos, con temperaturas que rondan los 30 grados, hu\u2026",
-      "url": "https://www.jornada.com.mx/2024/11/24/politica/012a2pol",
-      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "publishedAt": "2024-11-24 09:04:55",
-      "content": "l caer la tarde, las pangas y lanchas cruzan la cuenca veracruzana del r\u00edo Papaloapan. Mujeres y hombres regresan a sus hogares despu\u00e9s de una ardua jornada en la plantaci\u00f3n de ca\u00f1a de az\u00facar. Los d\u00ed\u2026 [+4780 chars]",
-      "retrievedAt": "2024-11-25 19:06:04.910615",
-      "internal_id": "66f7f612f0312e2363ed0e2ebc5278c4375ac626687cf03f87ad090ca8f8e26f",
-      "publishedAtLabel": "Nov 24"
-    },
-    {
-      "id": 15868,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "cnn",
-      "source_name": "CNN",
-      "author": "CNN \u0628\u0627\u0644\u0639\u0631\u0628\u064a\u0629",
-      "title": "\u0639\u0648\u062f\u0629 \u0641\u064a\u0631\u0648\u0633 \u0642\u062f\u064a\u0645..\u0645\u0627 \u0627\u0644\u0633\u0628\u0628 \u0648\u0631\u0627\u0621 \u0627\u0631\u062a\u0641\u0627\u0639 \u062d\u0627\u0644\u0627\u062a \u0625\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u0637\u064a\u0648\u0631 \u062e\u0644\u0627\u0644 \u0641\u0635\u0644 \u0627\u0644\u062e\u0631\u064a\u0641\u061f",
-      "description": "\u0641\u064a\u0631\u0648\u0633 \"H5N1\" \u0627\u0644\u0645\u0633\u0628\u0628 \u0644\u0625\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u0637\u064a\u0648\u0631 \u0647\u0648 \u0645\u0631\u0636 \u062a\u0646\u0641\u0651\u0633\u064a \u0634\u062f\u064a\u062f \u0627\u0644\u0639\u062f\u0648\u0649 \u064a\u0646\u062a\u0634\u0631 \u0641\u064a \u0648\u0644\u0627\u064a\u0627\u062a \u0623\u0645\u0631\u064a\u0643\u064a\u0629 \u0639\u062f\u0651\u0629 \u0628\u064a\u0646 \u0627\u0644\u0637\u064a\u0648\u0631 \u0627\u0644\u0628\u0631\u064a\u0629\u060c \u0648\u0627\u0644\u062f\u0648\u0627\u062c\u0646\u060c \u0648\u0627\u0644\u062d\u064a\u0648\u0627\u0646\u0627\u062a \u0627\u0644\u0623\u062e\u0631\u0649. \u0623\u062f\u0651\u0649 \u062a\u0641\u0634\u064a \u0625\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u0637\u064a\u0648\u0631 \u0625\u0644\u0649 \u0625\u0635\u0627\u0628\u0629 \u0623\u0643\u062b\u0631 \u0645\u0646 \u0623\u0631\u0628\u0639\u064a\u0646 \u0634\u062e\u0635\u064b\u0627 \u0641\u064a \u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629. \u0648\u0641\u064a \u062d\u064a\u0646 \u0623\u0646 \u0645\u0639\u0638\u0645 \u0627\u0644\u062d\u0627\u0644\u0627\u062a \u0627\u0644\u0628\u0634\u0631\u064a\u0629 \u0645\u062a\u0648\u0633\u0637\u0629\u060c \u0641\u2026",
-      "url": "https://arabic.cnn.com/science-and-health/video/2024/11/24/v165853-bird-flu-return",
-      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2024/11/24/images/283539.jpg",
-      "publishedAt": "2024-11-24 07:22:53",
-      "content": "",
-      "retrievedAt": "2024-11-25 19:06:04.628116",
-      "internal_id": "8604de16f0bb5e75966b283eda033b72c4fd5fc92e17cd40571f3d867343e51f",
       "publishedAtLabel": "Nov 24"
     }
   ]

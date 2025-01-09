@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 12
-- **Last harvest:** 2025-01-09 07:06
-- **Most recent article:** 2025-01-08 06:38:00
+- **New articles in last harvest:** 24
+- **Last harvest:** 2025-01-09 19:05
+- **Most recent article:** 2025-01-08 16:35:08
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-48 | 24-49 | 24-50 | 24-51 | 24-52 | 24-53 | 25-1 | 25-2 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| h5n1 | 37 | 70 | 61 | 112 | 65 | 27 | 27 | 78 | 477 |
-| mpox | 26 | 20 | 26 | 92 | 35 | 2 | 6 | 57 | 264 |
-| malaria | 29 | 27 | 76 | 60 | 30 | 15 | 10 | 8 | 255 |
-| dengue | 24 | 10 | 33 | 30 | 24 | 6 | 12 | 17 | 156 |
-| measles | 6 | 9 | 10 | 6 | 11 | 3 | 6 | 3 | 54 |
-| rabies | 11 | 13 | 3 | 7 | 8 | 1 | 1 | 1 | 45 |
-| hpai | 0 | 2 | 4 | 6 | 12 | 1 | 4 | 10 | 39 |
-| chikungunya | 4 | 6 | 7 | 8 | 0 | 2 | 0 | 3 | 30 |
+| h5n1 | 34 | 70 | 61 | 112 | 65 | 27 | 27 | 88 | 484 |
+| mpox | 25 | 20 | 26 | 92 | 35 | 2 | 6 | 61 | 267 |
+| malaria | 26 | 27 | 76 | 60 | 30 | 15 | 10 | 11 | 255 |
+| dengue | 21 | 10 | 33 | 30 | 24 | 6 | 12 | 22 | 158 |
+| measles | 5 | 9 | 10 | 6 | 11 | 3 | 6 | 4 | 54 |
+| rabies | 10 | 13 | 3 | 7 | 8 | 1 | 1 | 1 | 44 |
+| hpai | 0 | 2 | 4 | 6 | 12 | 1 | 4 | 11 | 40 |
+| chikungunya | 4 | 6 | 7 | 8 | 0 | 2 | 0 | 4 | 31 |
 | meningitis | 3 | 3 | 7 | 5 | 3 | 1 | 2 | 0 | 24 |
-| pertussis | 1 | 4 | 6 | 4 | 6 | 0 | 1 | 0 | 22 |
-| zika | 1 | 4 | 4 | 4 | 2 | 0 | 0 | 4 | 19 |
+| pertussis | 1 | 4 | 6 | 4 | 6 | 0 | 1 | 1 | 23 |
+| zika | 1 | 4 | 4 | 4 | 2 | 0 | 0 | 6 | 21 |
 | yersinia | 1 | 0 | 0 | 0 | 6 | 0 | 0 | 1 | 8 |
 | leptospirosis | 2 | 0 | 3 | 0 | 2 | 0 | 0 | 0 | 7 |
 | typhoid | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 2 |
@@ -34,6 +34,10 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 25-2 (zika)
+
+- [Des moustiques au «sperme toxique» : une potentielle solution pour freiner la transmission des maladies tropicales](https://www.liberation.fr/societe/sante/des-moustiques-au-sperme-toxique-une-potentielle-solution-pour-freiner-la-transmission-des-maladies-tropicales-20250108_SMMPPKSYHZAJPEURIWMHGQJKBM/) (Libération)
+
+- [HPMV, कोरोना ही नहीं... इस धरती ने झेले हैं 10 करोड़ से अधिक वायरस, जानिए Viruses की हिस्ट्री](https://www.aajtak.in/india/news/story/what-is-virus-how-they-formed-from-where-they-came-hpmv-corona-sars-mers-ebola-zika-know-the-history-of-viruses-ntc-dskc-2138586-2025-01-08) (Aajtak.in)
 
 - [The growing challenge of arboviruses in Latin America: Dengue and Oropouche in focus](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012789) (Plos.org)
 
@@ -51,7 +55,19 @@ Source: [News API](https://newsapi.org/)
 
 - [Solana’s PNUT Prodigy Picks DLUME as 2025’s Next Big Thing – Could You Be Next?](https://zycrypto.com/solanas-pnut-prodigy-picks-dlume-as-2025s-next-big-thing-could-you-be-next/) (ZyCrypto)
 
+## 25-2 (pertussis)
+
+- [This Illness Is Surging Right Now, And The Signs In Kids Aren't As Easy To Spot](https://www.huffpost.com/entry/kids-whooping-cough-surge_l_677d4d9fe4b07acf439cc050) (HuffPost)
+
 ## 25-2 (mpox)
+
+- [Epidémie de mpox : "Il n'y a pas d'inquiétude particulière à avoir, mais il faut être prudent", explique l'infectiologue Robert Sebbag](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/epidemie-de-mpox-il-n-y-a-pas-d-inquietude-particuliere-a-avoir-mais-il-faut-etre-prudent-3087940.html) (Francetvinfo.fr)
+
+- [Wednesday headlines: Been there, done cat](https://themorningnews.org/p/wednesday-headlines-been-there-done-cat) (Themorningnews.org)
+
+- [Noua variantă de mpox în Franța. Ministerul Sănătății anunță că riscul pentru populație este unul „scăzut”](http://hotnews.ro/noua-varianta-de-mpox-in-franta-ministerul-sanatatii-anunta-ca-riscul-pentru-populatie-este-unul-scazut-1876537) (Hotnews.ro)
+
+- [Nouveau variant du virus mpox en Bretagne : 5 questions pour comprendre](https://www.numerama.com/sciences/1878124-nouveau-variant-du-virus-mpox-en-bretagne-5-questions-pour-comprendre.html) (Numerama)
 
 - [Santé. Premier cas de variant de la variole du singe en France : qui doit être vacciné ?](https://www.ledauphine.com/magazine-sante/2025/01/08/premier-cas-de-mpox-de-clade-1b-en-france-qui-est-concerne-par-la-vaccination) (Le Dauphiné Libéré)
 
@@ -169,6 +185,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-2 (measles)
 
+- [Democrats Highlight Samoa Outbreak to Block RFK Jr.](https://politicalwire.com/2025/01/08/democrats-highlight-samoa-outbreak-to-block-rfk-jr/) (Politicalwire.com)
+
 - [Measles outbreaks in South-East Asia bringing cases to Australia](https://www.abc.net.au/news/2025-01-08/measles-outbreaks-in-south-east-asia-bringing-cases-to-australia/104789088) (ABC News (AU))
 
 - [New Brunswick declares measles outbreak is over](https://www.cbc.ca/news/canada/new-brunswick/measles-outbreak-new-brunswick-over-fredericton-zone-3-1.7424785) (CBC News)
@@ -176,6 +194,12 @@ Source: [News API](https://newsapi.org/)
 - [New measles case confirmed in Montreal](https://www.cbc.ca/news/canada/montreal/new-measles-case-montreal-1.7423560) (CBC News)
 
 ## 25-2 (malaria)
+
+- [Zanzare e parassiti, scoperto un metodo che li elimina più velocemente](https://tech.everyeye.it/notizie/zanzare-parassiti-scoperto-metodo-elimina-velocemente-769831.html) (Everyeye.it)
+
+- [Widespread release of translational repression across Plasmodium’s host-to-vector transmission event](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012823) (Plos.org)
+
+- [Scientists: "Toxic" semen could kill female mosquitoes, curb disease spread](https://www.cbsnews.com/news/mosquitoes-toxic-semen-could-curb-disease-spread-researchers/) (CBS News)
 
 - [A natural resource curse: the unintended effects of gold mining on malaria](http://eprints.lse.ac.uk/126624/) (Lse.ac.uk)
 
@@ -194,6 +218,8 @@ Source: [News API](https://newsapi.org/)
 - [Malaria vaccine rollout, cholera outbreak, other events that shaped Nigeria’s health sector in 2024](https://www.premiumtimesng.com/health/health-features/765120-malaria-vaccine-rollout-cholera-outbreak-other-events-that-shaped-nigerias-health-sector-in-2024.html) (Premium Times)
 
 ## 25-2 (hpai)
+
+- [Ni timers fortælling om dræber-klovnen Pennywise fra It: Tør du kigge med?](https://www.computerworld.dk/art/289944/ni-timers-fortaelling-om-draeber-klovnen-pennywise-fra-it-toer-du-kigge-med) (Computerworld.dk)
 
 - [Nvidias ser billion-stor forretningsmulighed i fysiske robotter: “Den største teknologi-industri, som verden endnu har set”](https://www.computerworld.dk/art/289989/nvidias-ser-billion-stor-forretningsmulighed-i-fysiske-robotter-den-stoerste-teknologi-industri-som-verden-endnu-har-set) (Computerworld.dk)
 
@@ -216,6 +242,26 @@ Source: [News API](https://newsapi.org/)
 - [California egg prices continue to rise amid bird flu outbreaks](http://en.people.cn/n3/2025/0106/c90000-20262239.html) (People.cn)
 
 ## 25-2 (h5n1)
+
+- [В Россию снова идет "свиной" грипп, опасный осложнениями](https://rg.ru/2025/01/08/tot-samyj.html) (Rg.ru)
+
+- [Inquiétude autour d'une pandémie de grippe A: des chevaux contractent le virus sans qu'on s'en aperçoive](https://www.slate.fr/sante/inquietude-pandemie-grippe-a-chevaux-contractent-virus-sans-apercoive-aviaire-h5n1-oiseaux-asie-contamination-mongolie) (Slate.fr)
+
+- [Un deceso por influenza aviar en EU desata temor a una pandemia](https://www.jornada.com.mx/2025/01/08/politica/012n2pol) (Jornada.com.mx)
+
+- [始まった「移民逆流」…米国はトランプ、欧州は極右台頭で大量帰国 H5N1パンデミック発生でグローバル化にトドメ](https://itainews.com/archives/2043575.html) (Itainews.com)
+
+- [«Ο κόσμος δεν είναι προετοιμασμένος για άλλη πανδημία» – Ανησυχία 5 χρόνια μετά τον κορονοϊό](https://www.newsit.gr/kosmos/o-kosmos-den-einai-proetoimasmenos-gia-alli-pandimia-anisyxia-5-xronia-meta-ton-koronoio/4277444/) (Newsit.gr)
+
+- [美國首例H5N1禽流感死亡病例！CDC強調無「人傳人」風險，專家擔心病毒加速突變](https://www.storm.mg/article/5306135) (Storm.mg)
+
+- [ΠΟΥ: Είναι προετοιμασμένος ο κόσμος να αντιμετωπίσει την επόμενη πανδημία; Η απάντηση είναι όχι](https://www.skai.gr/news/health/pou-einai-proetoimasmenos-o-kosmos-na-antimetopisei-tin-epomeni-pandimia-einai-polyploko) (Skai.gr)
+
+- [First US Death From Mutated H5N1 Bird Flu Sparks Fears of New Pandemic](https://www.globalsecurity.org/security/library/news/2025/01/sec-250107-sputnik01.htm) (Globalsecurity.org)
+
+- [Avian flu risk still 'low' after first US patient dies from H5N1 virus: WHO](https://www.globalsecurity.org/security/library/news/2025/01/sec-250107-unnews01.htm) (Globalsecurity.org)
+
+- [Was bedeuten neuen Mutationen bei zwei Patienten?](https://www.faz.net/aktuell/wissen/medizin-ernaehrung/vogelgrippe-warum-infiziert-h5n1-immer-wieder-menschen-110214943.html) (Faz.net)
 
 - [禽流感死亡首例＋新冠、流感病毒發威，美疫苗股飆](https://finance.technews.tw/2025/01/08/moderna-stock-jumps-amid-bird-flu-vaccine-hope-after-first-u-s-death/) (Technews.tw)
 
@@ -375,6 +421,16 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-2 (dengue)
 
+- [Zanzare e parassiti, scoperto un metodo che li elimina più velocemente](https://tech.everyeye.it/notizie/zanzare-parassiti-scoperto-metodo-elimina-velocemente-769831.html) (Everyeye.it)
+
+- [DF terá mosquitos infectados com bactéria para combater a dengue](https://www.metropoles.com/distrito-federal/df-tera-mosquitos-infectados-com-bacteria-para-combater-a-dengue) (Metropoles.com)
+
+- ["Técnica do macho tóxico": esperma de mosquito pode ajudar a frear doenças, sugere estudo](https://ultimosegundo.ig.com.br/ciencia/2025-01-08/mosquito-esperma-toxico-frear-doencas.html) (Ig.com.br)
+
+- [Scientists: "Toxic" semen could kill female mosquitoes, curb disease spread](https://www.cbsnews.com/news/mosquitoes-toxic-semen-could-curb-disease-spread-researchers/) (CBS News)
+
+- [Des moustiques au «sperme toxique» : une potentielle solution pour freiner la transmission des maladies tropicales](https://www.liberation.fr/societe/sante/des-moustiques-au-sperme-toxique-une-potentielle-solution-pour-freiner-la-transmission-des-maladies-tropicales-20250108_SMMPPKSYHZAJPEURIWMHGQJKBM/) (Libération)
+
 - [More than 13,600 dengue cases reported in Singapore in 2024, a rise of over 36% from 2023](https://www.straitstimes.com/singapore/health/more-than-13600-local-dengue-cases-reported-in-2024-a-rise-of-over-36-from-2023) (The Straits Times)
 
 - [Uruguai irá combater dengue com mosquitos machos esterilizados](https://www.terra.com.br/noticias/mundo/uruguai-ira-combater-dengue-com-mosquitos-machos-esterilizados,acc98670d68e326dff571e673bb9246crwvs2nfq.html) (Terra.com.br)
@@ -410,6 +466,8 @@ Source: [News API](https://newsapi.org/)
 - [En plena temporada: qué medidas preventivas hay en la costa para evitar aumentos de casos de dengue](https://www.lanacion.com.ar/sociedad/en-plena-temporada-que-medidas-preventivas-hay-en-la-costa-para-evitar-aumentos-de-casos-de-dengue-nid05012025/) (La Nacion)
 
 ## 25-2 (chikungunya)
+
+- [Des moustiques au «sperme toxique» : une potentielle solution pour freiner la transmission des maladies tropicales](https://www.liberation.fr/societe/sante/des-moustiques-au-sperme-toxique-une-potentielle-solution-pour-freiner-la-transmission-des-maladies-tropicales-20250108_SMMPPKSYHZAJPEURIWMHGQJKBM/) (Libération)
 
 - [The growing challenge of arboviruses in Latin America: Dengue and Oropouche in focus](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012789) (Plos.org)
 
@@ -2733,8 +2791,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Examining the molecular clock hypothesis for the contemporary evolution of the rabies virus](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012740) (Plos.org)
 
-- [Boldy James and Benny The Butcher Play With Art and Reality On ‘Rabies’](http://www.rollingstone.com/music/music-features/boldy-james-and-benny-the-butcher-rabies-new-song-1235176806/) (Rolling Stone)
-
 ## 24-48 (pertussis)
 
 - [Improving vaccine uptake during pregnancy](https://www.bmj.com/content/387/bmj.q2631) (The BMJ)
@@ -2791,8 +2847,6 @@ Source: [News API](https://newsapi.org/)
 
 - [World News in Brief: Mpox update, Haiti violence, deadly strikes in Ukraine, Pakistan attack condemned](https://www.globalsecurity.org/military/library/news/2024/11/mil-241122-unnews01.htm) (Globalsecurity.org)
 
-- [Face au Mpox, la nécessaire sécurisation des marchés de viande sauvage](https://www.jeuneafrique.com/1633221/societe/face-au-mpox-la-necessaire-securisation-des-marches-de-viande-sauvage/) (Jeune Afrique)
-
 ## 24-48 (meningitis)
 
 - [Press release: UK on brink of defeating meningococcal C](https://www.gov.uk/government/news/uk-on-brink-of-defeating-meningococcal-c) (Www.gov.uk)
@@ -2812,8 +2866,6 @@ Source: [News API](https://newsapi.org/)
 - [Germany sees dramatic rise in measles cases](https://www.dw.com/en/germany-sees-dramatic-rise-in-measles-cases/a-70901183) (DW (English))
 
 - [I’ll never forget what Robert F. Kennedy Jnr did during Samoa’s measles outbreak - Brian Deer](https://www.nzherald.co.nz/world/ill-never-forget-what-robert-f-kennedy-jnr-did-during-samoas-measles-outbreak-brian-deer/WCBALRD42RDDDHQQ2C65DYD6LM/) (New Zealand Herald)
-
-- [The Fundamental Problem with R.F.K., Jr.,’s Nomination to H.H.S.](https://www.newyorker.com/magazine/2024/12/02/the-fundamental-problem-with-rfk-jrs-nomination-to-hhs) (The New Yorker)
 
 ## 24-48 (malaria)
 
@@ -2868,12 +2920,6 @@ Source: [News API](https://newsapi.org/)
 - [Simak Penyebab, Gejala, Pengobatan, dan Pencegahan Malaria Tropika](https://kalbaronline.com/2024/11/26/simak-penyebab-gejala-pengobatan-dan-pencegahan-malaria-tropika/) (Kalbaronline.com)
 
 - [Nigeria loses $1.1bn annually to malaria, Health minister laments](https://punchng.com/nigeria-loses-1-1bn-annually-to-malaria-health-minister-laments/) (The Punch)
-
-- [Plasmodium falciparum molecular surveillance to inform the Mozambican National Malaria Control Programme strategy: protocol](https://bmjopen.bmj.com/content/14/11/e092590) (The BMJ)
-
-- [Durchbruch gegen die Krankheit? - Erste Malaria-Impfung per Mückenstich!](https://www.bild.de/leben-wissen/wissenschaft/mueckenstiche-als-impfung-durchbruch-gegen-malaria-6742db4cd3e4b22ff2f6ab7b) (Bild)
-
-- [Au Burkina Faso, Halidou Tinto, artisan d’un nouveau vaccin contre le paludisme](https://www.jeuneafrique.com/1631409/societe/au-burkina-faso-halidou-tinto-artisan-dun-nouveau-vaccin-contre-le-paludisme/) (Jeune Afrique)
 
 ## 24-48 (leptospirosis)
 
@@ -2951,12 +2997,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Avian flu virus sparks mammal mutation concerns in Quebec](https://montrealgazette.com/news/local-news/avian-flu-virus-sparks-mammal-mutation-concerns-in-quebec) (Montreal Gazette)
 
-- [Erstmals Kind in den USA mit Vogelgrippe infiziert](https://www.diepresse.com/19105604/erstmals-kind-in-den-usa-mit-vogelgrippe-infiziert) (Diepresse.com)
-
-- [An menschlichen Wirt angepasst: Vogelgrippe-Virus H5N1 mutiert in Teenager](https://www.n-tv.de/wissen/Vogelgrippe-Virus-H5N1-mutiert-in-Teenager-article25383544.html) (N-tv.de)
-
-- [عودة فيروس قديم..ما السبب وراء ارتفاع حالات إنفلونزا الطيور خلال فصل الخريف؟](https://arabic.cnn.com/science-and-health/video/2024/11/24/v165853-bird-flu-return) (CNN)
-
 ## 24-48 (dengue)
 
 - [Antisipasi Penyebaran Nyamuk DBD, Kodim 0826/Pamekasan Lakukan Fogging](https://suaraindonesia-news.com/antisipasi-penyebaran-nyamuk-dbd-kodim-0826-pamekasan-lakukan-fogging/) (Suaraindonesia-news.com)
@@ -3000,12 +3040,6 @@ Source: [News API](https://newsapi.org/)
 - [കേരളം കാണാൻ വന്ന അയര്‍ലന്‍ഡുകാരന്റെ ജീവനെടുത്ത ഡെങ്കി; മരണം ഇന്ന് മടങ്ങാനിരിക്കെ; വേണം ജാഗ്രത, dengue fever, symptoms of dengue fever, dengue fever death kerala](https://www.mathrubhumi.com/health/news/hike-in-dengue-fever-cases-in-kochi-kerala-1.10108455) (Mathrubhumi.com)
 
 - [Wolbachia mosquito releases to reach 50% of all Singapore households by 2026 to combat dengue](https://www.channelnewsasia.com/singapore/wolbachia-aedes-mosquito-dengue-50-all-households-2026-4768391) (CNA)
-
-- [Alejandro Svarch * y José Moya **: Calor, humedad y mosquitos: crónica de una temporada de dengue](https://www.jornada.com.mx/2024/11/24/opinion/012a2pol) (Jornada.com.mx)
-
-- [En lo que va del año, 262 decesos y más de 110 mil casos de dengue](https://www.jornada.com.mx/2024/11/24/sociedad/027n1soc) (Jornada.com.mx)
-
-- [Alejandro Svarch * y José Moya **: Calor, humedad y mosquitos: crónica de una temporada de dengue](https://www.jornada.com.mx/2024/11/24/politica/012a2pol) (Jornada.com.mx)
 
 ## 24-48 (chikungunya)
 
