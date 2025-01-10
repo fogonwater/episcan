@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 24
-- **Last harvest:** 2025-01-09 19:05
-- **Most recent article:** 2025-01-08 16:35:08
+- **New articles in last harvest:** 7
+- **Last harvest:** 2025-01-10 07:06
+- **Most recent article:** 2025-01-09 07:03:00
 
 ---
 
@@ -12,13 +12,13 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-48 | 24-49 | 24-50 | 24-51 | 24-52 | 24-53 | 25-1 | 25-2 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| h5n1 | 34 | 70 | 61 | 112 | 65 | 27 | 27 | 88 | 484 |
-| mpox | 25 | 20 | 26 | 92 | 35 | 2 | 6 | 61 | 267 |
-| malaria | 26 | 27 | 76 | 60 | 30 | 15 | 10 | 11 | 255 |
-| dengue | 21 | 10 | 33 | 30 | 24 | 6 | 12 | 22 | 158 |
-| measles | 5 | 9 | 10 | 6 | 11 | 3 | 6 | 4 | 54 |
-| rabies | 10 | 13 | 3 | 7 | 8 | 1 | 1 | 1 | 44 |
-| hpai | 0 | 2 | 4 | 6 | 12 | 1 | 4 | 11 | 40 |
+| h5n1 | 37 | 70 | 61 | 112 | 65 | 27 | 27 | 88 | 487 |
+| mpox | 26 | 20 | 26 | 92 | 35 | 2 | 6 | 63 | 270 |
+| malaria | 29 | 27 | 76 | 60 | 30 | 15 | 10 | 12 | 259 |
+| dengue | 24 | 10 | 33 | 30 | 24 | 6 | 12 | 24 | 163 |
+| measles | 6 | 9 | 10 | 6 | 11 | 3 | 6 | 4 | 55 |
+| rabies | 11 | 13 | 3 | 7 | 8 | 1 | 1 | 1 | 45 |
+| hpai | 0 | 2 | 4 | 6 | 12 | 1 | 4 | 13 | 42 |
 | chikungunya | 4 | 6 | 7 | 8 | 0 | 2 | 0 | 4 | 31 |
 | meningitis | 3 | 3 | 7 | 5 | 3 | 1 | 2 | 0 | 24 |
 | pertussis | 1 | 4 | 6 | 4 | 6 | 0 | 1 | 1 | 23 |
@@ -60,6 +60,10 @@ Source: [News API](https://newsapi.org/)
 - [This Illness Is Surging Right Now, And The Signs In Kids Aren't As Easy To Spot](https://www.huffpost.com/entry/kids-whooping-cough-surge_l_677d4d9fe4b07acf439cc050) (HuffPost)
 
 ## 25-2 (mpox)
+
+- [China discovers cluster of new mpox strain](https://economictimes.indiatimes.com/news/international/world-news/china-discovers-cluster-of-new-mpox-strain/articleshow/117074413.cms) (The Times of India)
+
+- [WHO’s Slow Mpox Response Calls For a Rethink](https://www.livemint.com/opinion/online-views/whos-slow-mpox-response-calls-for-a-rethink-11736392916421.html) (Livemint)
 
 - [Epidémie de mpox : "Il n'y a pas d'inquiétude particulière à avoir, mais il faut être prudent", explique l'infectiologue Robert Sebbag](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/epidemie-de-mpox-il-n-y-a-pas-d-inquietude-particuliere-a-avoir-mais-il-faut-etre-prudent-3087940.html) (Francetvinfo.fr)
 
@@ -195,6 +199,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-2 (malaria)
 
+- [WHO prequalifies diagnostic test for P. vivax malaria relapse](https://www.premiumtimesng.com/health/health-news/765782-who-prequalifies-diagnostic-test-for-p-vivax-malaria-relapse.html) (Premium Times)
+
 - [Zanzare e parassiti, scoperto un metodo che li elimina più velocemente](https://tech.everyeye.it/notizie/zanzare-parassiti-scoperto-metodo-elimina-velocemente-769831.html) (Everyeye.it)
 
 - [Widespread release of translational repression across Plasmodium’s host-to-vector transmission event](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012823) (Plos.org)
@@ -218,6 +224,10 @@ Source: [News API](https://newsapi.org/)
 - [Malaria vaccine rollout, cholera outbreak, other events that shaped Nigeria’s health sector in 2024](https://www.premiumtimesng.com/health/health-features/765120-malaria-vaccine-rollout-cholera-outbreak-other-events-that-shaped-nigerias-health-sector-in-2024.html) (Premium Times)
 
 ## 25-2 (hpai)
+
+- [Hackere hævder at have stjålet massive mængder af lokationsdata om smartphone-brugere](https://www.computerworld.dk/art/290014/hackere-haevder-at-have-stjaalet-massive-maengder-af-lokationsdata-om-smartphone-brugere) (Computerworld.dk)
+
+- [Texas officials say dead birds found in early January tested positive for bird flu](https://www.foxnews.com/health/texas-officials-say-dead-birds-found-early-january-tested-positive-bird-flu) (Fox News)
 
 - [Ni timers fortælling om dræber-klovnen Pennywise fra It: Tør du kigge med?](https://www.computerworld.dk/art/289944/ni-timers-fortaelling-om-draeber-klovnen-pennywise-fra-it-toer-du-kigge-med) (Computerworld.dk)
 
@@ -420,6 +430,10 @@ Source: [News API](https://newsapi.org/)
 - [TWiV 1181: Seek and ye shall find, coronaviruses and phage](https://www.microbe.tv/twiv/twiv-1181/) (Microbe.tv)
 
 ## 25-2 (dengue)
+
+- [Armadilhas capturam ovos do mosquito da dengue com “água de cerveja”](https://www.metropoles.com/distrito-federal/armadilhas-capturam-ovos-do-mosquito-da-dengue-com-agua-de-cerveja) (Metropoles.com)
+
+- [Variante incomum da dengue volta a circular e aumenta risco de novos surtos](https://veja.abril.com.br/saude/variante-incomum-da-dengue-volta-a-circular-e-aumenta-risco-de-novos-surtos) (Abril.com.br)
 
 - [Zanzare e parassiti, scoperto un metodo che li elimina più velocemente](https://tech.everyeye.it/notizie/zanzare-parassiti-scoperto-metodo-elimina-velocemente-769831.html) (Everyeye.it)
 
@@ -2791,6 +2805,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Examining the molecular clock hypothesis for the contemporary evolution of the rabies virus](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012740) (Plos.org)
 
+- [Boldy James and Benny The Butcher Play With Art and Reality On ‘Rabies’](http://www.rollingstone.com/music/music-features/boldy-james-and-benny-the-butcher-rabies-new-song-1235176806/) (Rolling Stone)
+
 ## 24-48 (pertussis)
 
 - [Improving vaccine uptake during pregnancy](https://www.bmj.com/content/387/bmj.q2631) (The BMJ)
@@ -2847,6 +2863,8 @@ Source: [News API](https://newsapi.org/)
 
 - [World News in Brief: Mpox update, Haiti violence, deadly strikes in Ukraine, Pakistan attack condemned](https://www.globalsecurity.org/military/library/news/2024/11/mil-241122-unnews01.htm) (Globalsecurity.org)
 
+- [Face au Mpox, la nécessaire sécurisation des marchés de viande sauvage](https://www.jeuneafrique.com/1633221/societe/face-au-mpox-la-necessaire-securisation-des-marches-de-viande-sauvage/) (Jeune Afrique)
+
 ## 24-48 (meningitis)
 
 - [Press release: UK on brink of defeating meningococcal C](https://www.gov.uk/government/news/uk-on-brink-of-defeating-meningococcal-c) (Www.gov.uk)
@@ -2866,6 +2884,8 @@ Source: [News API](https://newsapi.org/)
 - [Germany sees dramatic rise in measles cases](https://www.dw.com/en/germany-sees-dramatic-rise-in-measles-cases/a-70901183) (DW (English))
 
 - [I’ll never forget what Robert F. Kennedy Jnr did during Samoa’s measles outbreak - Brian Deer](https://www.nzherald.co.nz/world/ill-never-forget-what-robert-f-kennedy-jnr-did-during-samoas-measles-outbreak-brian-deer/WCBALRD42RDDDHQQ2C65DYD6LM/) (New Zealand Herald)
+
+- [The Fundamental Problem with R.F.K., Jr.,’s Nomination to H.H.S.](https://www.newyorker.com/magazine/2024/12/02/the-fundamental-problem-with-rfk-jrs-nomination-to-hhs) (The New Yorker)
 
 ## 24-48 (malaria)
 
@@ -2920,6 +2940,12 @@ Source: [News API](https://newsapi.org/)
 - [Simak Penyebab, Gejala, Pengobatan, dan Pencegahan Malaria Tropika](https://kalbaronline.com/2024/11/26/simak-penyebab-gejala-pengobatan-dan-pencegahan-malaria-tropika/) (Kalbaronline.com)
 
 - [Nigeria loses $1.1bn annually to malaria, Health minister laments](https://punchng.com/nigeria-loses-1-1bn-annually-to-malaria-health-minister-laments/) (The Punch)
+
+- [Plasmodium falciparum molecular surveillance to inform the Mozambican National Malaria Control Programme strategy: protocol](https://bmjopen.bmj.com/content/14/11/e092590) (The BMJ)
+
+- [Durchbruch gegen die Krankheit? - Erste Malaria-Impfung per Mückenstich!](https://www.bild.de/leben-wissen/wissenschaft/mueckenstiche-als-impfung-durchbruch-gegen-malaria-6742db4cd3e4b22ff2f6ab7b) (Bild)
+
+- [Au Burkina Faso, Halidou Tinto, artisan d’un nouveau vaccin contre le paludisme](https://www.jeuneafrique.com/1631409/societe/au-burkina-faso-halidou-tinto-artisan-dun-nouveau-vaccin-contre-le-paludisme/) (Jeune Afrique)
 
 ## 24-48 (leptospirosis)
 
@@ -2997,6 +3023,12 @@ Source: [News API](https://newsapi.org/)
 
 - [Avian flu virus sparks mammal mutation concerns in Quebec](https://montrealgazette.com/news/local-news/avian-flu-virus-sparks-mammal-mutation-concerns-in-quebec) (Montreal Gazette)
 
+- [Erstmals Kind in den USA mit Vogelgrippe infiziert](https://www.diepresse.com/19105604/erstmals-kind-in-den-usa-mit-vogelgrippe-infiziert) (Diepresse.com)
+
+- [An menschlichen Wirt angepasst: Vogelgrippe-Virus H5N1 mutiert in Teenager](https://www.n-tv.de/wissen/Vogelgrippe-Virus-H5N1-mutiert-in-Teenager-article25383544.html) (N-tv.de)
+
+- [عودة فيروس قديم..ما السبب وراء ارتفاع حالات إنفلونزا الطيور خلال فصل الخريف؟](https://arabic.cnn.com/science-and-health/video/2024/11/24/v165853-bird-flu-return) (CNN)
+
 ## 24-48 (dengue)
 
 - [Antisipasi Penyebaran Nyamuk DBD, Kodim 0826/Pamekasan Lakukan Fogging](https://suaraindonesia-news.com/antisipasi-penyebaran-nyamuk-dbd-kodim-0826-pamekasan-lakukan-fogging/) (Suaraindonesia-news.com)
@@ -3040,6 +3072,12 @@ Source: [News API](https://newsapi.org/)
 - [കേരളം കാണാൻ വന്ന അയര്‍ലന്‍ഡുകാരന്റെ ജീവനെടുത്ത ഡെങ്കി; മരണം ഇന്ന് മടങ്ങാനിരിക്കെ; വേണം ജാഗ്രത, dengue fever, symptoms of dengue fever, dengue fever death kerala](https://www.mathrubhumi.com/health/news/hike-in-dengue-fever-cases-in-kochi-kerala-1.10108455) (Mathrubhumi.com)
 
 - [Wolbachia mosquito releases to reach 50% of all Singapore households by 2026 to combat dengue](https://www.channelnewsasia.com/singapore/wolbachia-aedes-mosquito-dengue-50-all-households-2026-4768391) (CNA)
+
+- [Alejandro Svarch * y José Moya **: Calor, humedad y mosquitos: crónica de una temporada de dengue](https://www.jornada.com.mx/2024/11/24/opinion/012a2pol) (Jornada.com.mx)
+
+- [En lo que va del año, 262 decesos y más de 110 mil casos de dengue](https://www.jornada.com.mx/2024/11/24/sociedad/027n1soc) (Jornada.com.mx)
+
+- [Alejandro Svarch * y José Moya **: Calor, humedad y mosquitos: crónica de una temporada de dengue](https://www.jornada.com.mx/2024/11/24/politica/012a2pol) (Jornada.com.mx)
 
 ## 24-48 (chikungunya)
 
