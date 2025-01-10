@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 7
-- **Last harvest:** 2025-01-10 07:06
-- **Most recent article:** 2025-01-09 07:03:00
+- **New articles in last harvest:** 29
+- **Last harvest:** 2025-01-10 19:05
+- **Most recent article:** 2025-01-09 19:01:04
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-48 | 24-49 | 24-50 | 24-51 | 24-52 | 24-53 | 25-1 | 25-2 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| h5n1 | 37 | 70 | 61 | 112 | 65 | 27 | 27 | 88 | 487 |
-| mpox | 26 | 20 | 26 | 92 | 35 | 2 | 6 | 63 | 270 |
-| malaria | 29 | 27 | 76 | 60 | 30 | 15 | 10 | 12 | 259 |
-| dengue | 24 | 10 | 33 | 30 | 24 | 6 | 12 | 24 | 163 |
-| measles | 6 | 9 | 10 | 6 | 11 | 3 | 6 | 4 | 55 |
-| rabies | 11 | 13 | 3 | 7 | 8 | 1 | 1 | 1 | 45 |
-| hpai | 0 | 2 | 4 | 6 | 12 | 1 | 4 | 13 | 42 |
+| h5n1 | 34 | 70 | 61 | 112 | 65 | 27 | 27 | 90 | 486 |
+| mpox | 25 | 20 | 26 | 92 | 35 | 2 | 6 | 79 | 285 |
+| malaria | 26 | 27 | 76 | 60 | 30 | 15 | 10 | 17 | 261 |
+| dengue | 21 | 10 | 33 | 30 | 24 | 6 | 12 | 28 | 164 |
+| measles | 5 | 9 | 10 | 6 | 11 | 3 | 6 | 5 | 55 |
+| rabies | 10 | 13 | 3 | 7 | 8 | 1 | 1 | 1 | 44 |
+| hpai | 0 | 2 | 4 | 6 | 12 | 1 | 4 | 14 | 43 |
 | chikungunya | 4 | 6 | 7 | 8 | 0 | 2 | 0 | 4 | 31 |
+| zika | 1 | 4 | 4 | 4 | 2 | 0 | 0 | 9 | 24 |
+| pertussis | 1 | 4 | 6 | 4 | 6 | 0 | 1 | 2 | 24 |
 | meningitis | 3 | 3 | 7 | 5 | 3 | 1 | 2 | 0 | 24 |
-| pertussis | 1 | 4 | 6 | 4 | 6 | 0 | 1 | 1 | 23 |
-| zika | 1 | 4 | 4 | 4 | 2 | 0 | 0 | 6 | 21 |
 | yersinia | 1 | 0 | 0 | 0 | 6 | 0 | 0 | 1 | 8 |
 | leptospirosis | 2 | 0 | 3 | 0 | 2 | 0 | 0 | 0 | 7 |
 | typhoid | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 2 |
@@ -34,6 +34,12 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 25-2 (zika)
+
+- [Governo dará R$ 60 mil a pessoas com deficiência causada pelo zika vírus](https://veja.abril.com.br/coluna/radar/governo-dara-r-60-mil-a-pessoas-com-deficiencia-causada-pelo-zika-virus) (Abril.com.br)
+
+- [Lula edita MP que dá auxílio de R$ 60 mil a crianças com zika vírus](https://www.metropoles.com/brasil/lula-edita-mp-que-da-apoio-de-r-60-mil-a-criancas-com-zika-virus) (Metropoles.com)
+
+- [Governo vai conceder ajuda financeira de R$ 60 mil à pessoa com deficiência decorrente da Zika](https://valor.globo.com/brasil/noticia/2025/01/09/governo-vai-conceder-ajuda-financeira-de-r-60-mil-pessoa-com-deficincia-decorrente-da-zika.ghtml) (Globo)
 
 - [Des moustiques au «sperme toxique» : une potentielle solution pour freiner la transmission des maladies tropicales](https://www.liberation.fr/societe/sante/des-moustiques-au-sperme-toxique-une-potentielle-solution-pour-freiner-la-transmission-des-maladies-tropicales-20250108_SMMPPKSYHZAJPEURIWMHGQJKBM/) (Libération)
 
@@ -57,9 +63,43 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-2 (pertussis)
 
+- [Tos ferina: qué sabemos sobre el incremento de casos ocasionados por la bacteria Bordetella pertussis](https://www.milenio.com/ciencia-y-salud/aumentan-casos-bordetella-pertussi-tos-ferina) (Milenio)
+
 - [This Illness Is Surging Right Now, And The Signs In Kids Aren't As Easy To Spot](https://www.huffpost.com/entry/kids-whooping-cough-surge_l_677d4d9fe4b07acf439cc050) (HuffPost)
 
 ## 25-2 (mpox)
+
+- [Κίνα: Το Πεκίνο ανακοίνωσε πέντε κρούσματα της νέας παραλλαγής της mpox](https://www.alphafreepress.gr/2025/01/09/kosmos/kina-to-pekino-anakoinose-pente-krousmata-tis-neas-parallagis-tis-mpox/) (Alphafreepress.gr)
+
+- [Mpox In China: Cluster Of New Mutated Strain Detected; Know Symptoms And Complication](https://www.ndtv.com/health/mpox-in-china-cluster-of-new-mutated-strain-detected-7438465) (NDTV News)
+
+- [Η Κίνα ανακοίνωσε πέντε κρούσματα της νέας παραλλαγής της mpox](https://www.newsit.gr/kosmos/i-kina-anakoinose-pente-krousmata-tis-neas-parallagis-tis-mpox/4279017/) (Newsit.gr)
+
+- [Συναγερμός στην Κίνα: Πέντε κρούσματα της νέας παραλλαγής της mpox](https://www.skai.gr/news/health/kina-pente-krousmata-tis-neas-parallagis-tis-astheneias-mpox) (Skai.gr)
+
+- [Variant du mpox : un foyer découvert en Chine](https://www.latribune.fr/entreprises-finance/industrie/chimie-pharmacie/variant-du-mpox-un-foyer-decouvert-en-chine-1015507.html) (La Tribune.fr)
+
+- [China reports five cases of new Mpox strain](https://punchng.com/china-reports-five-cases-of-new-mpox-strain/) (The Punch)
+
+- [Κίνα: Ανακοινώνει πέντε κρούσματα της νέας παραλλαγής της mpox – Τα σημάδια της νόσου](https://www.naftemporiki.gr/kosmos/1877643/kina-anakoinonei-pente-kroysmata-tis-neas-parallagis-tis-mpox-ta-simadia-tis-nosoy/) (Naftemporiki.gr)
+
+- [Συναγερμός για τον mpox στην Κίνα - Καταγράφηκαν 5 κρούσματα της νέας παραλλαγής clade 1b](https://www.protothema.gr/world/article/1585743/sunagermos-gia-ton-mpox-stin-kina-katagrafikan-5-krousmata-tis-neas-parallagis-clade-1b/) (Protothema.gr)
+
+- [Thursday headlines: We love LA](https://themorningnews.org/p/thursday-headlines-we-love-la) (Themorningnews.org)
+
+- [China reports 5 cases of new mpox strain](https://www.channelnewsasia.com/east-asia/china-mpox-strain-clade-1b-5-cases-4848246) (CNA)
+
+- [China descubre un brote de la nueva variante de la viruela símica](https://forbes.com.mx/china-descubre-un-brote-de-la-nueva-variante-de-la-viruela-simica/) (Forbes.com.mx)
+
+- [Viruela del mono llega a China; confirman primera infección por Mpox](https://www.milenio.com/internacional/viruela-mono-llega-china-reportan-infeccion-mpox) (Milenio)
+
+- [Malaysia actively monitors potential public health emergencies, says Health Minister](https://www.thestar.com.my/news/nation/2025/01/09/malaysia-actively-monitoring-potential-public-health-emergencies-says-health-minister) (The Star Online)
+
+- [China confirma primeiro surto de nova variante do vírus Mpox](https://observador.pt/2025/01/09/china-confirma-primeiro-surto-de-nova-variante-do-virus-mpox/) (Observador.pt)
+
+- [Mpox. China confirma primeiros casos de nova variante](https://ionline.sapo.pt/2025/01/09/mpox-china-confirma-primeiros-casos-de-nova-variante/) (Sapo.pt)
+
+- [A halálos vírus új, legsúlyosabb változatát azonosították Kínában](https://www.portfolio.hu/global/20250109/a-halalos-virus-uj-legsulyosabb-valtozatat-azonositottak-kinaban-733573) (Portfolio.hu)
 
 - [China discovers cluster of new mpox strain](https://economictimes.indiatimes.com/news/international/world-news/china-discovers-cluster-of-new-mpox-strain/articleshow/117074413.cms) (The Times of India)
 
@@ -189,6 +229,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-2 (measles)
 
+- [台灣麻疹疫情匡列破3000人 麻疹疫苗覆蓋率高無需緊張](https://www.cool3c.com/article/232528) (Cool3c.com)
+
 - [Democrats Highlight Samoa Outbreak to Block RFK Jr.](https://politicalwire.com/2025/01/08/democrats-highlight-samoa-outbreak-to-block-rfk-jr/) (Politicalwire.com)
 
 - [Measles outbreaks in South-East Asia bringing cases to Australia](https://www.abc.net.au/news/2025-01-08/measles-outbreaks-in-south-east-asia-bringing-cases-to-australia/104789088) (ABC News (AU))
@@ -198,6 +240,16 @@ Source: [News API](https://newsapi.org/)
 - [New measles case confirmed in Montreal](https://www.cbc.ca/news/canada/montreal/new-measles-case-montreal-1.7423560) (CBC News)
 
 ## 25-2 (malaria)
+
+- [Los chimpancés han evolucionado genéticamente para vivir en zonas con malaria](https://www.elmundo.es/ciencia-y-salud/ciencia/2025/01/09/677ec58ae85ece925d8b4570.html) (El Mundo)
+
+- [Muere el científico Manuel Elkin Patarroyo, creador de vacuna contra la malaria](https://www.elperiodico.com/es/ciencia/20250109/muere-cientifico-manuel-elkin-patarroyo-creador-vacuna-malaria-113253226) (Elperiodico.com)
+
+- [Kampf gegen Krankheiten - Giftiges Sperma soll Mücken töten](https://www.bild.de/leben-wissen/giftiges-sperma-gentechnik-gegen-tropenkrankheiten-677f684575a660732be0464f) (Bild)
+
+- [How do mosquito repellents work?](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/what-is-the-science-behind-mosquito-repellents-and-how-do-they-work/articleshow/117076844.cms) (The Times of India)
+
+- [What is the science behind mosquito repellents and how do they work?](https://timesofindia.indiatimes.com/etimes/trending/what-is-the-science-behind-mosquito-repellents-and-how-do-they-work/articleshow/117076844.cms) (The Times of India)
 
 - [WHO prequalifies diagnostic test for P. vivax malaria relapse](https://www.premiumtimesng.com/health/health-news/765782-who-prequalifies-diagnostic-test-for-p-vivax-malaria-relapse.html) (Premium Times)
 
@@ -224,6 +276,8 @@ Source: [News API](https://newsapi.org/)
 - [Malaria vaccine rollout, cholera outbreak, other events that shaped Nigeria’s health sector in 2024](https://www.premiumtimesng.com/health/health-features/765120-malaria-vaccine-rollout-cholera-outbreak-other-events-that-shaped-nigerias-health-sector-in-2024.html) (Premium Times)
 
 ## 25-2 (hpai)
+
+- [Cat Foods Containing Bird Flu Virus Found in California, Oregon](https://legalinsurrection.com/2025/01/cat-foods-containing-bird-flu-virus-found-in-california-oregon/) (Legalinsurrection.com)
 
 - [Hackere hævder at have stjålet massive mængder af lokationsdata om smartphone-brugere](https://www.computerworld.dk/art/290014/hackere-haevder-at-have-stjaalet-massive-maengder-af-lokationsdata-om-smartphone-brugere) (Computerworld.dk)
 
@@ -252,6 +306,10 @@ Source: [News API](https://newsapi.org/)
 - [California egg prices continue to rise amid bird flu outbreaks](http://en.people.cn/n3/2025/0106/c90000-20262239.html) (People.cn)
 
 ## 25-2 (h5n1)
+
+- [Tierseuchen: Vogelgrippe in Geflügelhaltung im Kreis Schleswig-Flensburg](https://www.zeit.de/news/2025-01/09/vogelgrippe-in-gefluegelhaltung-im-kreis-schleswig-flensburg) (Die Zeit)
+
+- [Cat Foods Containing Bird Flu Virus Found in California, Oregon](https://legalinsurrection.com/2025/01/cat-foods-containing-bird-flu-virus-found-in-california-oregon/) (Legalinsurrection.com)
 
 - [В Россию снова идет "свиной" грипп, опасный осложнениями](https://rg.ru/2025/01/08/tot-samyj.html) (Rg.ru)
 
@@ -430,6 +488,14 @@ Source: [News API](https://newsapi.org/)
 - [TWiV 1181: Seek and ye shall find, coronaviruses and phage](https://www.microbe.tv/twiv/twiv-1181/) (Microbe.tv)
 
 ## 25-2 (dengue)
+
+- [Seis estados terão incidência de dengue ainda maior em 2025](https://veja.abril.com.br/saude/seis-estados-terao-incidencia-de-dengue-ainda-maior-em-2025) (Abril.com.br)
+
+- [Kampf gegen Krankheiten - Giftiges Sperma soll Mücken töten](https://www.bild.de/leben-wissen/giftiges-sperma-gentechnik-gegen-tropenkrankheiten-677f684575a660732be0464f) (Bild)
+
+- [How do mosquito repellents work?](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/what-is-the-science-behind-mosquito-repellents-and-how-do-they-work/articleshow/117076844.cms) (The Times of India)
+
+- [What is the science behind mosquito repellents and how do they work?](https://timesofindia.indiatimes.com/etimes/trending/what-is-the-science-behind-mosquito-repellents-and-how-do-they-work/articleshow/117076844.cms) (The Times of India)
 
 - [Armadilhas capturam ovos do mosquito da dengue com “água de cerveja”](https://www.metropoles.com/distrito-federal/armadilhas-capturam-ovos-do-mosquito-da-dengue-com-agua-de-cerveja) (Metropoles.com)
 
@@ -2805,8 +2871,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Examining the molecular clock hypothesis for the contemporary evolution of the rabies virus](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012740) (Plos.org)
 
-- [Boldy James and Benny The Butcher Play With Art and Reality On ‘Rabies’](http://www.rollingstone.com/music/music-features/boldy-james-and-benny-the-butcher-rabies-new-song-1235176806/) (Rolling Stone)
-
 ## 24-48 (pertussis)
 
 - [Improving vaccine uptake during pregnancy](https://www.bmj.com/content/387/bmj.q2631) (The BMJ)
@@ -2863,8 +2927,6 @@ Source: [News API](https://newsapi.org/)
 
 - [World News in Brief: Mpox update, Haiti violence, deadly strikes in Ukraine, Pakistan attack condemned](https://www.globalsecurity.org/military/library/news/2024/11/mil-241122-unnews01.htm) (Globalsecurity.org)
 
-- [Face au Mpox, la nécessaire sécurisation des marchés de viande sauvage](https://www.jeuneafrique.com/1633221/societe/face-au-mpox-la-necessaire-securisation-des-marches-de-viande-sauvage/) (Jeune Afrique)
-
 ## 24-48 (meningitis)
 
 - [Press release: UK on brink of defeating meningococcal C](https://www.gov.uk/government/news/uk-on-brink-of-defeating-meningococcal-c) (Www.gov.uk)
@@ -2884,8 +2946,6 @@ Source: [News API](https://newsapi.org/)
 - [Germany sees dramatic rise in measles cases](https://www.dw.com/en/germany-sees-dramatic-rise-in-measles-cases/a-70901183) (DW (English))
 
 - [I’ll never forget what Robert F. Kennedy Jnr did during Samoa’s measles outbreak - Brian Deer](https://www.nzherald.co.nz/world/ill-never-forget-what-robert-f-kennedy-jnr-did-during-samoas-measles-outbreak-brian-deer/WCBALRD42RDDDHQQ2C65DYD6LM/) (New Zealand Herald)
-
-- [The Fundamental Problem with R.F.K., Jr.,’s Nomination to H.H.S.](https://www.newyorker.com/magazine/2024/12/02/the-fundamental-problem-with-rfk-jrs-nomination-to-hhs) (The New Yorker)
 
 ## 24-48 (malaria)
 
@@ -2940,12 +3000,6 @@ Source: [News API](https://newsapi.org/)
 - [Simak Penyebab, Gejala, Pengobatan, dan Pencegahan Malaria Tropika](https://kalbaronline.com/2024/11/26/simak-penyebab-gejala-pengobatan-dan-pencegahan-malaria-tropika/) (Kalbaronline.com)
 
 - [Nigeria loses $1.1bn annually to malaria, Health minister laments](https://punchng.com/nigeria-loses-1-1bn-annually-to-malaria-health-minister-laments/) (The Punch)
-
-- [Plasmodium falciparum molecular surveillance to inform the Mozambican National Malaria Control Programme strategy: protocol](https://bmjopen.bmj.com/content/14/11/e092590) (The BMJ)
-
-- [Durchbruch gegen die Krankheit? - Erste Malaria-Impfung per Mückenstich!](https://www.bild.de/leben-wissen/wissenschaft/mueckenstiche-als-impfung-durchbruch-gegen-malaria-6742db4cd3e4b22ff2f6ab7b) (Bild)
-
-- [Au Burkina Faso, Halidou Tinto, artisan d’un nouveau vaccin contre le paludisme](https://www.jeuneafrique.com/1631409/societe/au-burkina-faso-halidou-tinto-artisan-dun-nouveau-vaccin-contre-le-paludisme/) (Jeune Afrique)
 
 ## 24-48 (leptospirosis)
 
@@ -3023,12 +3077,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Avian flu virus sparks mammal mutation concerns in Quebec](https://montrealgazette.com/news/local-news/avian-flu-virus-sparks-mammal-mutation-concerns-in-quebec) (Montreal Gazette)
 
-- [Erstmals Kind in den USA mit Vogelgrippe infiziert](https://www.diepresse.com/19105604/erstmals-kind-in-den-usa-mit-vogelgrippe-infiziert) (Diepresse.com)
-
-- [An menschlichen Wirt angepasst: Vogelgrippe-Virus H5N1 mutiert in Teenager](https://www.n-tv.de/wissen/Vogelgrippe-Virus-H5N1-mutiert-in-Teenager-article25383544.html) (N-tv.de)
-
-- [عودة فيروس قديم..ما السبب وراء ارتفاع حالات إنفلونزا الطيور خلال فصل الخريف؟](https://arabic.cnn.com/science-and-health/video/2024/11/24/v165853-bird-flu-return) (CNN)
-
 ## 24-48 (dengue)
 
 - [Antisipasi Penyebaran Nyamuk DBD, Kodim 0826/Pamekasan Lakukan Fogging](https://suaraindonesia-news.com/antisipasi-penyebaran-nyamuk-dbd-kodim-0826-pamekasan-lakukan-fogging/) (Suaraindonesia-news.com)
@@ -3072,12 +3120,6 @@ Source: [News API](https://newsapi.org/)
 - [കേരളം കാണാൻ വന്ന അയര്‍ലന്‍ഡുകാരന്റെ ജീവനെടുത്ത ഡെങ്കി; മരണം ഇന്ന് മടങ്ങാനിരിക്കെ; വേണം ജാഗ്രത, dengue fever, symptoms of dengue fever, dengue fever death kerala](https://www.mathrubhumi.com/health/news/hike-in-dengue-fever-cases-in-kochi-kerala-1.10108455) (Mathrubhumi.com)
 
 - [Wolbachia mosquito releases to reach 50% of all Singapore households by 2026 to combat dengue](https://www.channelnewsasia.com/singapore/wolbachia-aedes-mosquito-dengue-50-all-households-2026-4768391) (CNA)
-
-- [Alejandro Svarch * y José Moya **: Calor, humedad y mosquitos: crónica de una temporada de dengue](https://www.jornada.com.mx/2024/11/24/opinion/012a2pol) (Jornada.com.mx)
-
-- [En lo que va del año, 262 decesos y más de 110 mil casos de dengue](https://www.jornada.com.mx/2024/11/24/sociedad/027n1soc) (Jornada.com.mx)
-
-- [Alejandro Svarch * y José Moya **: Calor, humedad y mosquitos: crónica de una temporada de dengue](https://www.jornada.com.mx/2024/11/24/politica/012a2pol) (Jornada.com.mx)
 
 ## 24-48 (chikungunya)
 

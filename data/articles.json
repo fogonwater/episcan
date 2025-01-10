@@ -1,8 +1,534 @@
 {
-  "last_updated": "2025-01-10 07:06",
-  "count_articles_total": 1387,
-  "count_articles_new": 7,
+  "last_updated": "2025-01-10 19:05",
+  "count_articles_total": 1404,
+  "count_articles_new": 29,
   "articles": [
+    {
+      "id": 17259,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "el-mundo",
+      "source_name": "El Mundo",
+      "author": "Teresa Guerrero",
+      "title": "Los chimpanc\u00e9s han evolucionado gen\u00e9ticamente para vivir en zonas con malaria",
+      "description": "Un gran estudio revela revela c\u00f3mo los chimpanc\u00e9s salvajes se han adaptado gen\u00e9ticamente para prosperar en diferentes tipos de h\u00e1bitats de bosque y sabana: \"Estudiarlos es muy \u00fatil para comprender enfermedades infecciosas compartidas con los humanos, y podr\u00eda\u2026",
+      "url": "https://www.elmundo.es/ciencia-y-salud/ciencia/2025/01/09/677ec58ae85ece925d8b4570.html",
+      "urlToImage": "https://phantom-elmundo.unidadeditorial.es/8387323230a78c525cfa5055406ff99a/f/webp/assets/multimedia/imagenes/2025/01/09/17364323599838.jpg",
+      "publishedAt": "2025-01-09 19:01:04",
+      "content": "No hay un animal vivo m\u00e1s parecido a nosotros que los chimpanc\u00e9s. Compartimos con ellos el 98% de nuestros genes, por lo que las conclusiones de un gran estudio gen\u00e9tico sobre ellos -publicado este j\u2026 [+3985 chars]",
+      "retrievedAt": "2025-01-10 19:05:39.548931",
+      "internal_id": "20b310b65cea0a5fceac6d738d02c9982d39464213cdc4d31dd0dd11ad55018f",
+      "publishedAtLabel": "Jan 9"
+    },
+    {
+      "id": 17274,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Alphafreepress.gr",
+      "author": "\u0395\u03c5\u03c4\u03c5\u03c7\u03af\u03b1 \u03a0\u03b1\u03c0\u03bf\u03cd\u03bb\u03b9\u03b1",
+      "title": "\u039a\u03af\u03bd\u03b1: \u03a4\u03bf \u03a0\u03b5\u03ba\u03af\u03bd\u03bf \u03b1\u03bd\u03b1\u03ba\u03bf\u03af\u03bd\u03c9\u03c3\u03b5 \u03c0\u03ad\u03bd\u03c4\u03b5 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c4\u03b7\u03c2 \u03bd\u03ad\u03b1\u03c2 \u03c0\u03b1\u03c1\u03b1\u03bb\u03bb\u03b1\u03b3\u03ae\u03c2 \u03c4\u03b7\u03c2 mpox",
+      "description": "\u03a0\u03ad\u03bd\u03c4\u03b5 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c4\u03b7\u03c2 \u03bd\u03ad\u03b1\u03c2 \u03c0\u03b1\u03c1\u03b1\u03bb\u03bb\u03b1\u03b3\u03ae\u03c2 \u03c4\u03b7\u03c2 mpox \u03b1\u03bd\u03b1\u03ba\u03bf\u03af\u03bd\u03c9\u03c3\u03b5 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03a0\u03ad\u03bc\u03c0\u03c4\u03b7 (09/01) \u03cc\u03c4\u03b9 \u03ba\u03b1\u03c4\u03ad\u03b3\u03c1\u03b1\u03c8\u03b5 \u03b7 \u039a\u03af\u03bd\u03b1 \u03b1\u03bb\u03bb\u03ac \u03b4\u03b9\u03b1\u03b2\u03b5\u03b2\u03b1\u03af\u03c9\u03c3\u03b5 \u03cc\u03c4\u03b9 \u03b7 \u03b5\u03c3\u03c4\u03af\u03b1 \u00ab\u03c0\u03b5\u03c1\u03b9\u03bf\u03c1\u03af",
+      "url": "https://www.alphafreepress.gr/2025/01/09/kosmos/kina-to-pekino-anakoinose-pente-krousmata-tis-neas-parallagis-tis-mpox/",
+      "urlToImage": "https://www.alphafreepress.gr/wp-content/uploads/2023/01/kina-koronoios.jpg",
+      "publishedAt": "2025-01-09 18:45:57",
+      "content": "mpox (09/01) \u00ab \u00bb. . 1970, 2022 , . mpox, , , . . mpox , clade 1b, . , , , . \u201c \u201d, . , .",
+      "retrievedAt": "2025-01-10 19:05:40.599973",
+      "internal_id": "eb2094711d8c053b08ef7ecee36315a88b3c28e28c61c3a9a7314ffc7d0b7432",
+      "publishedAtLabel": "Jan 9"
+    },
+    {
+      "id": 17275,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": "Varsha Vats",
+      "title": "Mpox In China: Cluster Of New Mutated Strain Detected; Know Symptoms And Complication",
+      "description": "WHO last August declared mpox a global public health emergency for the second time in two years.",
+      "url": "https://www.ndtv.com/health/mpox-in-china-cluster-of-new-mutated-strain-detected-7438465",
+      "urlToImage": "https://c.ndtvimg.com/2024-10/lf6louj8_mpox_625x300_22_October_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "publishedAt": "2025-01-09 18:27:47",
+      "content": "China's Centre for Disease Control and Prevention has said that it had detected the new mutated mpox strain clade Ib. The Chinese Health authorities have declared that they have found a cluster outbr\u2026 [+2167 chars]",
+      "retrievedAt": "2025-01-10 19:05:40.606924",
+      "internal_id": "fbffdfaa3054d76050da927e2638e4753b34a035ce723c789c923869ffed622a",
+      "publishedAtLabel": "Jan 9"
+    },
+    {
+      "id": 17269,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Newsit.gr",
+      "author": "\u03a7\u03c1\u03cd\u03c3\u03b1 \u03a0\u03b1\u03bd\u03bf\u03cd\u03c3\u03b7",
+      "title": "\u0397 \u039a\u03af\u03bd\u03b1 \u03b1\u03bd\u03b1\u03ba\u03bf\u03af\u03bd\u03c9\u03c3\u03b5 \u03c0\u03ad\u03bd\u03c4\u03b5 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c4\u03b7\u03c2 \u03bd\u03ad\u03b1\u03c2 \u03c0\u03b1\u03c1\u03b1\u03bb\u03bb\u03b1\u03b3\u03ae\u03c2 \u03c4\u03b7\u03c2 mpox",
+      "description": "\u0397 \u039a\u03af\u03bd\u03b1 \u03b1\u03bd\u03b1\u03ba\u03bf\u03af\u03bd\u03c9\u03c3\u03b5 \u03c4\u03b7\u03bd \u03a0\u03ad\u03bc\u03c0\u03c4\u03b7 (09.01.2025) \u03cc\u03c4\u03b9 \u03ba\u03b1\u03c4\u03ad\u03b3\u03c1\u03b1\u03c8\u03b5 5 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c4\u03b7\u03c2 \u03bd\u03ad\u03b1\u03c2 \u03c0\u03b1\u03c1\u03b1\u03bb\u03bb\u03b1\u03b3\u03ae\u03c2 \u03c4\u03b7\u03c2 mpox, \u03ba\u03bf\u03b9\u03bd\u03ce\u03c2 \u03c9\u03c2 \u03b5\u03c5\u03bb\u03bf\u03b3\u03b9\u03ac \u03c4\u03c9\u03bd \u03c0\u03b9\u03b8\u03ae\u03ba\u03c9\u03bd \u03b4\u03b9\u03b1\u03b2\u03b5\u03b2\u03b1\u03b9\u03ce\u03bd\u03bf\u03bd\u03c4\u03b1\u03c2 \u03cc\u03c4\u03b9 \u03b7 \u03b5\u03c3\u03c4\u03af\u03b1 \u03c0\u03b5\u03c1\u03b9\u03bf\u03c1\u03af\u03c3\u03c4\u03b7\u03ba\u03b5 ... To \u03ac\u03c1\u03b8\u03c1\u03bf \u0397 \u039a\u03af\u03bd\u03b1 \u03b1\u03bd\u03b1\u03ba\u03bf\u03af\u03bd\u03c9\u03c3\u03b5 \u03c0\u03ad\u03bd\u03c4\u03b5 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c4\u03b7\u03c2 \u03bd\u03ad\u03b1\u03c2 \u03c0\u03b1\u03c1\u03b1\u03bb\u03bb\u03b1\u03b3\u03ae\u03c2 \u03c4\u03b7\u03c2 mpox \u03b4\u03b7\u03bc\u03bf\u03c3\u03b9\u03b5\u03cd\u03c4\u03b7\u03ba\u03b5 \u2026",
+      "url": "https://www.newsit.gr/kosmos/i-kina-anakoinose-pente-krousmata-tis-neas-parallagis-tis-mpox/4279017/",
+      "urlToImage": "https://www.newsit.gr/wp-content/uploads/2025/01/mpox-r-1-1200x630.jpg",
+      "publishedAt": "2025-01-09 18:22:08",
+      "content": "20:22 9 2025 (09.01.2025) 5 mpox, . , clade 1b, . 4 . . \u00ab \u00bb, . \u00ab \u00bb, . mpox, . 10 1970, 2022 , . mpox, . , . 6 .",
+      "retrievedAt": "2025-01-10 19:05:40.533305",
+      "internal_id": "c83bfb3889fa582d205983c6321c3c74e61432b36a40b2627f3da59acedd91f0",
+      "publishedAtLabel": "Jan 9"
+    },
+    {
+      "id": 17260,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Elperiodico.com",
+      "author": "EFE",
+      "title": "Muere el cient\u00edfico Manuel Elkin Patarroyo, creador de vacuna contra la malaria",
+      "description": "El cient\u00edfico colombiano Manuel Elkin Patarroyo, descubridor de la primera vacuna contra la malaria, falleci\u00f3 este jueves en su casa en Bogot\u00e1, confirmaron a EFE fuentes familiares.Seguir leyendo....",
+      "url": "https://www.elperiodico.com/es/ciencia/20250109/muere-cientifico-manuel-elkin-patarroyo-creador-vacuna-malaria-113253226",
+      "urlToImage": "https://estaticos-cdn.prensaiberica.es/clip/26ae2476-b2ba-4383-b11e-8b9901873de9_16-9-discover-aspect-ratio_default_0.jpg",
+      "publishedAt": "2025-01-09 18:11:24",
+      "content": "El cient\u00edfico colombiano Manuel Elkin Patarroyo, descubridor de la primera vacuna contra la malaria, falleci\u00f3 este jueves en su casa en Bogot\u00e1, confirmaron a EFE fuentes familiares. Patarroyo, de 79\u2026 [+334 chars]",
+      "retrievedAt": "2025-01-10 19:05:39.649364",
+      "internal_id": "fe970ee30c2b3183c2437afa9dc2dbad5d87d270e810fbc2a3d4f0f14bc33431",
+      "publishedAtLabel": "Jan 9"
+    },
+    {
+      "id": 17255,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Luiz Paulo Souza",
+      "title": "Seis estados ter\u00e3o incid\u00eancia de dengue ainda maior em 2025",
+      "description": "Minist\u00e9rio da Sa\u00fade lan\u00e7a Centro de Opera\u00e7\u00f5es de Emerg\u00eancia (COE) para auxiliar combate",
+      "url": "https://veja.abril.com.br/saude/seis-estados-terao-incidencia-de-dengue-ainda-maior-em-2025",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2024/02/2-DENGUE-_-MOSQUITO-_-AEDES-AEGYPTI-_-FUMACE-a.jpg.jpg?quality=70&strip=info&crop=1&resize=1080,565",
+      "publishedAt": "2025-01-09 17:55:30",
+      "content": "F\u00e9rias: Assine a partir de 1,50/semanaMinist\u00e9rio da Sa\u00fade lan\u00e7a Centro de Opera\u00e7\u00f5es de Emerg\u00eancia (COE) para auxiliar combate Por Luiz Paulo Souza 9 jan 2025, 14h55 FUMAC\u00ca - \u00daltima cartada: med\u2026 [+4118 chars]",
+      "retrievedAt": "2025-01-10 19:05:39.022516",
+      "internal_id": "63ec1731d949fd9894f316c9ea6874db8be8630dc763720aefadd735c85da87d",
+      "publishedAtLabel": "Jan 9"
+    },
+    {
+      "id": 17267,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Skai.gr",
+      "author": "Newsroom",
+      "title": "\u03a3\u03c5\u03bd\u03b1\u03b3\u03b5\u03c1\u03bc\u03cc\u03c2 \u03c3\u03c4\u03b7\u03bd \u039a\u03af\u03bd\u03b1: \u03a0\u03ad\u03bd\u03c4\u03b5 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c4\u03b7\u03c2 \u03bd\u03ad\u03b1\u03c2 \u03c0\u03b1\u03c1\u03b1\u03bb\u03bb\u03b1\u03b3\u03ae\u03c2 \u03c4\u03b7\u03c2 mpox",
+      "description": "\u03a4\u03bf \u03bd\u03ad\u03bf \u03c0\u03b1\u03c1\u03b1\u03bb\u03bb\u03b1\u03b3\u03bc\u03ad\u03bd\u03bf \u03c3\u03c4\u03ad\u03bb\u03b5\u03c7\u03bf\u03c2 \u03c4\u03bf\u03c5 \u03b9\u03bf\u03cd, \u03c0\u03bf\u03c5 \u03bf\u03bd\u03bf\u03bc\u03ac\u03b6\u03b5\u03c4\u03b1\u03b9 clade 1b \u03b5\u03ba\u03b4\u03b7\u03bb\u03ce\u03bd\u03b5\u03c4\u03b1\u03b9 \u03ba\u03c5\u03c1\u03af\u03c9\u03c2 \u03bc\u03b5 \u03c5\u03c8\u03b7\u03bb\u03cc \u03c0\u03c5\u03c1\u03b5\u03c4\u03cc \u03ba\u03b1\u03b9 \u03c4\u03b7\u03bd \u03b5\u03bc\u03c6\u03ac\u03bd\u03b9\u03c3\u03b7 \u03b4\u03b5\u03c1\u03bc\u03b1\u03c4\u03b9\u03ba\u03ce\u03bd \u03b2\u03bb\u03b1\u03b2\u03ce\u03bd",
+      "url": "https://www.skai.gr/news/health/kina-pente-krousmata-tis-neas-parallagis-tis-astheneias-mpox",
+      "urlToImage": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/feedelio/ap-china_ec6aa7.jpg?itok=g4CZG9-X",
+      "publishedAt": "2025-01-09 16:52:02",
+      "content": ", clade 1b mpox \u00ab \u00bb. . 1970, 2022 , . mpox, , , . . , mpox , clade 1b, . , , , . \u00ab \u00bb, . , .",
+      "retrievedAt": "2025-01-10 19:05:40.481778",
+      "internal_id": "d0d6cef0512c433be547ad5549f97c4e116b14dd7940a01c5d1b3cc2b338b634",
+      "publishedAtLabel": "Jan 9"
+    },
+    {
+      "id": 17278,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "La Tribune.fr",
+      "author": "La Tribune",
+      "title": "Variant du mpox : un foyer d\u00e9couvert en Chine",
+      "description": "P\u00e9kin a annonc\u00e9 ce jeudi avoir enregistr\u00e9 cinq cas du nouveau variant de mpox, mais a assur\u00e9 que le foyer avait \u00e9t\u00e9 \u00ab efficacement ma\u00eetris\u00e9 \u00bb.",
+      "url": "https://www.latribune.fr/entreprises-finance/industrie/chimie-pharmacie/variant-du-mpox-un-foyer-decouvert-en-chine-1015507.html",
+      "urlToImage": "https://pictures.latribune.fr/cdn-cgi/image//638/2511638.png",
+      "publishedAt": "2025-01-09 16:40:00",
+      "content": "Les autorit\u00e9s sanitaires chinoises ont annonc\u00e9 ce jeudi avoir d\u00e9couvert un foyer du mpox de clade 1b, dont une personne ayant s\u00e9journ\u00e9 en R\u00e9publique d\u00e9mocratique du Congo (RDC) est consid\u00e9r\u00e9e comme l\u2026 [+2754 chars]",
+      "retrievedAt": "2025-01-10 19:05:40.726325",
+      "internal_id": "b77e135d3433e819301f02ff53fd45fbc7d0bf3ac1255f43da057b4f60164479",
+      "publishedAtLabel": "Jan 9"
+    },
+    {
+      "id": 17270,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Agency Report",
+      "title": "China reports five cases of new Mpox strain",
+      "description": "China said on Thursday it had recorded five cases of a new Mpox strain, but that the \u201coutbreak has been effectively handled.\u201d Mpox is caused by a virus transmitted to humans by animals but can also spread from person to person through close physical contact. \u2026",
+      "url": "https://punchng.com/china-reports-five-cases-of-new-mpox-strain/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2022/08/30230550/monkeypox.jpg",
+      "publishedAt": "2025-01-09 16:36:17",
+      "content": "China said on Thursday it had recorded five cases of a new Mpox strain, but that the \u201coutbreak has been effectively handled.\u201d Mpox is caused by a virus transmitted to humans by animals but can also \u2026 [+1298 chars]",
+      "retrievedAt": "2025-01-10 19:05:40.545786",
+      "internal_id": "7576d9a988b4e0a5d798db0ea2574cc848451c6af98aff87f20ccae9f23ab10b",
+      "publishedAtLabel": "Jan 9"
+    },
+    {
+      "id": 17268,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Naftemporiki.gr",
+      "author": "\u039a\u03b1\u03c4\u03b5\u03c1\u03af\u03bd\u03b1 \u0386\u03c4\u03c3\u03b7",
+      "title": "\u039a\u03af\u03bd\u03b1: \u0391\u03bd\u03b1\u03ba\u03bf\u03b9\u03bd\u03ce\u03bd\u03b5\u03b9 \u03c0\u03ad\u03bd\u03c4\u03b5 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c4\u03b7\u03c2 \u03bd\u03ad\u03b1\u03c2 \u03c0\u03b1\u03c1\u03b1\u03bb\u03bb\u03b1\u03b3\u03ae\u03c2 \u03c4\u03b7\u03c2 mpox \u2013 \u03a4\u03b1 \u03c3\u03b7\u03bc\u03ac\u03b4\u03b9\u03b1 \u03c4\u03b7\u03c2 \u03bd\u03cc\u03c3\u03bf\u03c5",
+      "description": "\u03a0\u03ad\u03bd\u03c4\u03b5 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c4\u03b7\u03c2 \u03bd\u03ad\u03b1\u03c2 \u03c0\u03b1\u03c1\u03b1\u03bb\u03bb\u03b1\u03b3\u03ae\u03c2 \u03c4\u03b7\u03c2 mpox, \u03b1\u03bd\u03b1\u03ba\u03bf\u03af\u03bd\u03c9\u03c3\u03b5 \u03cc\u03c4\u03b9 \u03ba\u03b1\u03c4\u03ad\u03b3\u03c1\u03b1\u03c8\u03b5 \u03b7 \u039a\u03af\u03bd\u03b1, \u03b1\u03bb\u03bb\u03ac \u03b4\u03b9\u03b1\u03b2\u03b5\u03b2\u03b1\u03af\u03c9\u03c3\u03b5 \u03cc\u03c4\u03b9 \u03b7 \u03b5\u03c3\u03c4\u03af\u03b1 \u00ab\u03c0\u03b5\u03c1\u03b9\u03bf\u03c1\u03af\u03c3\u03c4\u03b7\u03ba\u03b5 \u03b1\u03c0\u03bf\u03c4\u03b5\u03bb\u03b5\u03c3\u03bc\u03b1\u03c4\u03b9\u03ba\u03ac\u00bb. \u0397 \u03b1\u03c3\u03b8\u03ad\u03bd\u03b5\u03b9\u03b1 \u03c0\u03bf\u03c5 \u03c0\u03b5\u03c1\u03b9\u03bf\u03c1\u03b9\u03b6\u03cc\u03c4\u03b1\u03bd \u03c3\u03b5 \u03ba\u03b1\u03bc\u03b9\u03ac \u03b4\u03b5\u03ba\u03b1\u03c1\u03b9\u03ac \u03b1\u03c6\u03c1\u03b9\u03ba\u03b1\u03bd\u03b9\u03ba\u03ad\u03c2 \u03c7\u03ce\u03c1\u03b5\u03c2 \u03bc\u03b5\u03c4\u03ac \u03c4\u03b7\u03bd\u2026 \u039a\u03af\u03bd\u03b1: \u0391\u03bd\u03b1\u03ba\u03bf\u03b9\u03bd\u03ce\u03bd\u03b5\u03b9 \u03c0\u03ad\u03bd\u03c4\u03b5 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c4\u03b7\u03c2 \u03bd\u03ad\u03b1\u03c2 \u03c0\u03b1\u03c1\u03b1\u2026",
+      "url": "https://www.naftemporiki.gr/kosmos/1877643/kina-anakoinonei-pente-kroysmata-tis-neas-parallagis-tis-mpox-ta-simadia-tis-nosoy/",
+      "urlToImage": "https://www.naftemporiki.gr/wp-content/uploads/2024/08/Mpox1-e1723748627836.jpg",
+      "publishedAt": "2025-01-09 16:35:28",
+      "content": "mpox, , \u00ab \u00bb. 1970, 2022 , . , , . mpox, , , . . mpox , clade 1b, . , , , . \u00ab \u00bb, . , . :",
+      "retrievedAt": "2025-01-10 19:05:40.515741",
+      "internal_id": "3adf8084427824c0b418bfdad8a503e7d552def9afef038a0e660f000348babc",
+      "publishedAtLabel": "Jan 9"
+    },
+    {
+      "id": 17261,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Pedro Pupulim",
+      "title": "Governo dar\u00e1 R$ 60 mil a pessoas com defici\u00eancia causada pelo zika v\u00edrus",
+      "description": "Aux\u00edlio financeiro foi criado em medida provis\u00f3ria editada pelo presidente Lula nesta quinta-feira e vale para quem nasceu entre 2015 e 2024",
+      "url": "https://veja.abril.com.br/coluna/radar/governo-dara-r-60-mil-a-pessoas-com-deficiencia-causada-pelo-zika-virus",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2016/05/alx_mosquito-aedes-aegypti_-20160125-0004_original1.jpeg?quality=70&strip=info&crop=1&resize=1080,565",
+      "publishedAt": "2025-01-09 16:30:45",
+      "content": "F\u00e9rias: Assine a partir de 1,50/semana Aux\u00edlio financeiro foi criado em medida provis\u00f3ria editada pelo presidente Lula nesta quinta-feira e vale para quem nasceu entre 2015 e 2024 Por Pedro Pupulim\u2026 [+1693 chars]",
+      "retrievedAt": "2025-01-10 19:05:39.898661",
+      "internal_id": "8885bdfa6bbfe7e333719b973bc21f2009823fb02ecd9962bdf3a54968aa0bb1",
+      "publishedAtLabel": "Jan 9"
+    },
+    {
+      "id": 17266,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Protothema.gr",
+      "author": null,
+      "title": "\u03a3\u03c5\u03bd\u03b1\u03b3\u03b5\u03c1\u03bc\u03cc\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03bf\u03bd mpox \u03c3\u03c4\u03b7\u03bd \u039a\u03af\u03bd\u03b1 - \u039a\u03b1\u03c4\u03b1\u03b3\u03c1\u03ac\u03c6\u03b7\u03ba\u03b1\u03bd 5 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c4\u03b7\u03c2 \u03bd\u03ad\u03b1\u03c2 \u03c0\u03b1\u03c1\u03b1\u03bb\u03bb\u03b1\u03b3\u03ae\u03c2 clade 1b",
+      "description": "\u03a0\u03b7\u03b3\u03ae \u03b8\u03b5\u03c9\u03c1\u03b5\u03af\u03c4\u03b1\u03b9 \u03ad\u03bd\u03b1\u03c2 \u03ac\u03bd\u03b8\u03c1\u03c9\u03c0\u03bf\u03c2 \u03c0\u03bf\u03c5 \u03b5\u03af\u03c7\u03b5 \u03b4\u03b9\u03b1\u03bc\u03b5\u03af\u03bd\u03b5\u03b9 \u03c3\u03c4\u03b7 \u039b\u03b1\u03ca\u03ba\u03ae \u0394\u03b7\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03af\u03b1 \u03c4\u03bf\u03c5 \u039a\u03bf\u03bd\u03b3\u03ba\u03cc | mpox | \u0399\u03cc\u03c2 Mpox | \u039a\u03af\u03bd\u03b1 | \u039a\u03cc\u03c3\u03bc\u03bf\u03c2",
+      "url": "https://www.protothema.gr/world/article/1585743/sunagermos-gia-ton-mpox-stin-kina-katagrafikan-5-krousmata-tis-neas-parallagis-clade-1b/",
+      "urlToImage": "https://www.protothema.gr/images/640x360share/jpg/files/2025-01-09/mpox-arthro.jpg",
+      "publishedAt": "2025-01-09 16:29:54",
+      "content": ", , , . , , , . . DS, DS 7.",
+      "retrievedAt": "2025-01-10 19:05:40.474890",
+      "internal_id": "679c3141882dae285ade025cbb4389ca122055468582449e7a257f5b9f1a26f7",
+      "publishedAtLabel": "Jan 9"
+    },
+    {
+      "id": 17273,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Themorningnews.org",
+      "author": null,
+      "title": "Thursday headlines: We love LA",
+      "description": "California Governor Gavin Newsom says \"there's no fire season\u2014it's fire year.\" / The Los Angeles TimesA climate reporter in Pacific Palisades relates what it was like to lose her home. Similar: watching your home burn on a Ring camera. / New York Magazine, Cu\u2026",
+      "url": "https://themorningnews.org/p/thursday-headlines-we-love-la",
+      "urlToImage": "https://themorningnews.org/images/tmn-logo-share.png",
+      "publishedAt": "2025-01-09 16:23:00",
+      "content": "In an unwritten, unannounced policy change, Louisiana's Dept. of Health is forbidding employees from promoting Covid, flu, or mpox vaccines. / NPR Photos of daily life for the Palestinian people\u2014\"be\u2026 [+2219 chars]",
+      "retrievedAt": "2025-01-10 19:05:40.593218",
+      "internal_id": "4d4e51968d825ef8cf72bbd0e58f28e345eb2a7c6c4821591699ed5ae5efe842",
+      "publishedAtLabel": "Jan 9"
+    },
+    {
+      "id": 17264,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "CNA",
+      "author": null,
+      "title": "China reports 5 cases of new mpox strain",
+      "description": "BEIJING: China said on Thursday (Jan 9) it had recorded five cases of a new mpox strain, but that the \"outbreak has been effectively handled\". Mpox is caused by a virus transmitted to humans by animals but can also spread from person to person through close p\u2026",
+      "url": "https://www.channelnewsasia.com/east-asia/china-mpox-strain-clade-1b-5-cases-4848246",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--CoIkJQX---/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2025-01-09t055751z_1_lynxmpel0804p_rtroptp_3_health-mpox.jpg?itok=QeTcg39s",
+      "publishedAt": "2025-01-09 15:47:00",
+      "content": "Chinese health authorities said on Thursday that they had discovered a cluster outbreak of the mpox strain clade 1b, with the source of infection believed to be someone with a record of living in the\u2026 [+564 chars]",
+      "retrievedAt": "2025-01-10 19:05:40.445118",
+      "internal_id": "0c660f88e6fc1cce1f36b078b400ae7d14b60ef33b0c3cdafa0264526a154e2e",
+      "publishedAtLabel": "Jan 9"
+    },
+    {
+      "id": 17254,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "ZEIT ONLINE: News -",
+      "title": "Tierseuchen: Vogelgrippe in Gefl\u00fcgelhaltung im Kreis Schleswig-Flensburg",
+      "description": "Hier finden Sie Informationen zu dem Thema \u201eTierseuchen\u201c. Lesen Sie jetzt \u201eVogelgrippe in Gefl\u00fcgelhaltung im Kreis Schleswig-Flensburg\u201c.",
+      "url": "https://www.zeit.de/news/2025-01/09/vogelgrippe-in-gefluegelhaltung-im-kreis-schleswig-flensburg",
+      "urlToImage": "https://img.zeit.de/news/2025-01/09/vogelgrippe-in-gefluegelhaltung-im-kreis-schleswig-flensburg-image-group/wide__1300x731",
+      "publishedAt": "2025-01-09 15:30:30",
+      "content": "In einer Gefl\u00fcgelgruppe in Schleswig-Holstein ist die Vogelgrippe nachgewiesen worden. Betroffen von der Gefl\u00fcgelpest des Subtyps H5N1 ist nach Angaben des Kreises Schleswig-Flensburg eine kleine Hob\u2026 [+892 chars]",
+      "retrievedAt": "2025-01-10 19:05:38.457798",
+      "internal_id": "bebc483f6a905268659452654a4bf211b8e0d47b00d3b507f18dd2ed3d492a35",
+      "publishedAtLabel": "Jan 9"
+    },
+    {
+      "id": 17272,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Forbes.com.mx",
+      "author": "Forbes Staff",
+      "title": "China descubre un brote de la nueva variante de la viruela s\u00edmica",
+      "description": "Forbes M\u00e9xico. China descubre un brote de la nueva variante de la viruela s\u00edmica El Centro para el Control y la Prevenci\u00f3n de Enfermedades de China se\u00f1al\u00f3 que hab\u00eda detectado un brote de mpox que comenz\u00f3 con la infecci\u00f3n de un extranjero con antecedentes de\u2026",
+      "url": "https://forbes.com.mx/china-descubre-un-brote-de-la-nueva-variante-de-la-viruela-simica/",
+      "urlToImage": "https://cdn.forbes.com.mx/2024/08/mpox.webp",
+      "publishedAt": "2025-01-09 15:10:27",
+      "content": "Las autoridades sanitarias chinas dijeron este jueves que hab\u00edan detectado el nuevo clado Ib de la variante mutada de la viruela s\u00edmica, mientras la infecci\u00f3n v\u00edrica se extiende a m\u00e1s pa\u00edses despu\u00e9s \u2026 [+1981 chars]",
+      "retrievedAt": "2025-01-10 19:05:40.564885",
+      "internal_id": "d51474810f440796cac44ee1dcbba119bb55903bad0666cc49df518f93a245ce",
+      "publishedAtLabel": "Jan 9"
+    },
+    {
+      "id": 17276,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Milenio",
+      "author": "Agencia EFE",
+      "title": "Viruela del mono llega a China; confirman primera infecci\u00f3n por Mpox",
+      "description": "El Centro para el Control y la Prevenci\u00f3n de Enfermedades de China confirm\u00f3 hoy el primer caso de la nueva variante clado Ib de mpox (antes conocida como viruela del mono), cuyo origen se remonta un ciudadano extranjero con antecedentes de viajes y residencia\u2026",
+      "url": "https://www.milenio.com/internacional/viruela-mono-llega-china-reportan-infeccion-mpox",
+      "urlToImage": "https://cdn.milenio.com/uploads/media/2024/08/22/todos-los-turistas-deben-someterse.jpg",
+      "publishedAt": "2025-01-09 14:03:58",
+      "content": "El Centro para el Control y la Prevenci\u00f3n de Enfermedades de China confirm\u00f3 hoy el primer caso de la nueva variante clado Ib de mpox (antes conocida como viruela del mono), cuyo origen se remonta un \u2026 [+3299 chars]",
+      "retrievedAt": "2025-01-10 19:05:40.635951",
+      "internal_id": "4b70cdba9445bdd0a2ab7ba75b0966b8c26b9af182fd540a273f6fe2aeb927a2",
+      "publishedAtLabel": "Jan 9"
+    },
+    {
+      "id": 17253,
+      "query": [
+        "hpai",
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Legalinsurrection.com",
+      "author": "Leslie Eastman",
+      "title": "Cat Foods Containing Bird Flu Virus Found in California, Oregon",
+      "description": "In California, one pet-owner is suing after his cats died of H5N1 infection from drinking raw milk. The post Cat Foods Containing Bird Flu Virus Found in California, Oregon first appeared on Le\u00b7gal In\u00b7sur\u00b7rec\u00b7tion.",
+      "url": "https://legalinsurrection.com/2025/01/cat-foods-containing-bird-flu-virus-found-in-california-oregon/",
+      "urlToImage": "https://legalinsurrection.com/wp-content/uploads/2025/01/LI-004-Cats-Eating-Cat-Food.png",
+      "publishedAt": "2025-01-09 14:00:40",
+      "content": "The last time I reported on bird flu (aka H5N1 or \u2018highly pathogenic avian influenza\u2019/HPAI), it had sicked big cats at a Washington State sanctuary, killing 20 of the animals. While symptoms of bird\u2026 [+3809 chars]",
+      "retrievedAt": "2025-01-10 19:05:38.026173",
+      "internal_id": "ff06ed8ab2ecc1d89afec6ff22b7a409dd66dbd1bc08d9351e45e011f90299f1",
+      "publishedAtLabel": "Jan 9"
+    },
+    {
+      "id": 17279,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "BENJAMIN LEE",
+      "title": "Malaysia actively monitors potential public health emergencies, says Health Minister",
+      "description": "PETALING JAYA: Malaysia has been actively monitoring potential public health emergencies since August last year, says Datuk Seri Dr Dzulkefly Ahmad, following reports of a new mpox strain discovered in China. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2025/01/09/malaysia-actively-monitoring-potential-public-health-emergencies-says-health-minister",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/01/09/3109754.JPG",
+      "publishedAt": "2025-01-09 13:43:00",
+      "content": "PETALING JAYA: Malaysia has been actively monitoring potential public health emergencies since August last year, says Datuk Seri Dr Dzulkefly Ahmad (pic), following reports of a new mpox strain disco\u2026 [+1645 chars]",
+      "retrievedAt": "2025-01-10 19:05:40.739233",
+      "internal_id": "3265f92dda5c35dbe3d15cf3631e01e4fc23a4c56204bb6f5064de650161ebe9",
+      "publishedAtLabel": "Jan 9"
+    },
+    {
+      "id": 17251,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Milenio",
+      "author": "Lizeth Hern\u00e1ndez",
+      "title": "Tos ferina: qu\u00e9 sabemos sobre el incremento de casos ocasionados por la bacteria Bordetella pertussis",
+      "description": "La tosferina es una enfermedad antigua: se tiene informaci\u00f3n de ella desde la Edad Media. Aunque ha cambiado de nombre a lo largo del tiempo, su origen siempre ha sido el mismo: la bacteria Bordetella pertussis.Recientemente un comediante neolon\u00e9s dio a conoc\u2026",
+      "url": "https://www.milenio.com/ciencia-y-salud/aumentan-casos-bordetella-pertussi-tos-ferina",
+      "urlToImage": "https://cdn.milenio.com/uploads/media/2025/01/08/bordetella-pertussi-bacteria-responsable-tos.jpg",
+      "publishedAt": "2025-01-09 13:00:08",
+      "content": "La tosferina es una enfermedad antigua: se tiene informaci\u00f3n de ella desde la Edad Media. Aunque ha cambiado de nombre a lo largo del tiempo, su origen siempre ha sido el mismo: la bacteria Bordetell\u2026 [+4553 chars]",
+      "retrievedAt": "2025-01-10 19:05:37.257320",
+      "internal_id": "3972932fc08362f42b8991138ba8635d5890140ca22d41cc8cc68a00db225ff8",
+      "publishedAtLabel": "Jan 9"
+    },
+    {
+      "id": 17262,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Gabriel Buss",
+      "title": "Lula edita MP que d\u00e1 aux\u00edlio de R$ 60 mil a crian\u00e7as com zika v\u00edrus",
+      "description": "Medida foi publicada no Di\u00e1rio Oficial da Uni\u00e3o (DOU) e se aplica a nascidos de 1\u00ba de janeiro de 2015 e 31 de dezembro de 2024",
+      "url": "https://www.metropoles.com/brasil/lula-edita-mp-que-da-apoio-de-r-60-mil-a-criancas-com-zika-virus",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2023/03/02135354/Lula-assina-MP-do-novo-Bolsa-Familia.jpeg",
+      "publishedAt": "2025-01-09 12:27:39",
+      "content": "O presidente Luiz In\u00e1cio Lula da Silva (PT) editou uma medida provis\u00f3ria (MP) nesta quinta-feira (9/1) que d\u00e1 direito \u00e0 indeniza\u00e7\u00e3o de R$ 60 mil reais a beb\u00eas e crian\u00e7as que tenham defici\u00eancia causad\u2026 [+1447 chars]",
+      "retrievedAt": "2025-01-10 19:05:39.911509",
+      "internal_id": "48b6dbb7c446d92b81633b1b072c1299b1aa3d8524f484beff3b7cd603b12b14",
+      "publishedAtLabel": "Jan 9"
+    },
+    {
+      "id": 17263,
+      "query": [
+        "zika"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Governo vai conceder ajuda financeira de R$ 60 mil \u00e0 pessoa com defici\u00eancia decorrente da Zika",
+      "description": "Pagamento desse aux\u00edlio n\u00e3o ser\u00e1 considerado para fins de c\u00e1lculo de renda m\u00ednima destinado \u00e0 perman\u00eancia da pessoa no Cad\u00danico ou Bolsa Fam\u00edlia",
+      "url": "https://valor.globo.com/brasil/noticia/2025/01/09/governo-vai-conceder-ajuda-financeira-de-r-60-mil-pessoa-com-deficincia-decorrente-da-zika.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/bEQ2snw7r87LZvdm4QuhbkNzD3Q=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2019/p/t/EbxdgKRbWBXnRA3oM9rg/aedesebc.jpg",
+      "publishedAt": "2025-01-09 11:21:32",
+      "content": "O governo vai dar uma ajuda financeira de R$ 60 mil \u00e0 pessoa com defici\u00eancia decorrente de s\u00edndrome cong\u00eanita associada \u00e0 infec\u00e7\u00e3o pelo v\u00edrus Zika. O aux\u00edlio, que ser\u00e1 pago em parcela \u00fanica, est\u00e1 res\u2026 [+3624 chars]",
+      "retrievedAt": "2025-01-10 19:05:39.936439",
+      "internal_id": "601ad5681d1dc6d697ad00198c4d8b4e5f289b1b6c26466ad5187f7285a56aee",
+      "publishedAtLabel": "Jan 9"
+    },
+    {
+      "id": 17265,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Observador.pt",
+      "author": "Ag\u00eancia Lusa",
+      "title": "China confirma primeiro surto de nova variante do v\u00edrus Mpox",
+      "description": "As cidades de Pequim e Tianjin (norte) e as prov\u00edncias de Guangdong (sudeste) e Zhejiang (leste) ativaram um mecanismo conjunto de preven\u00e7\u00e3o e controlo para o rastreio epidemiol\u00f3gico.",
+      "url": "https://observador.pt/2025/01/09/china-confirma-primeiro-surto-de-nova-variante-do-virus-mpox/",
+      "urlToImage": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1124%3Anowe%3A0%3A103%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2024%2F08%2F27134351%2F43430595.jpg?layer=obstop:T",
+      "publishedAt": "2025-01-09 11:06:01",
+      "content": "A China confirmou esta quinta-feira o primeiro caso da nova variante clade Ib do Mpox (var\u00edola dos macacos), que remonta a um cidad\u00e3o estrangeiro com historial de viagens e resid\u00eancia na Rep\u00fablica De\u2026 [+2578 chars]",
+      "retrievedAt": "2025-01-10 19:05:40.468167",
+      "internal_id": "a800781d130c7cb3302d4c96fba4a6a2a4d521f40fa657bfce8c4a12cdf8b19f",
+      "publishedAtLabel": "Jan 9"
+    },
+    {
+      "id": 17277,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Sapo.pt",
+      "author": "Jornal i",
+      "title": "Mpox. China confirma primeiros casos de nova variante",
+      "description": "Segundo o o Centro de Controlo e Preven\u00e7\u00e3o de Doen\u00e7as (CDC) do pa\u00eds, o caso remonta a um cidad\u00e3o estrangeiro com historial de viagens e resid\u00eancia na Rep\u00fablica Democr\u00e1tica do Congo. O conte\u00fado Mpox. China confirma primeiros casos de nova variante aparece pri\u2026",
+      "url": "https://ionline.sapo.pt/2025/01/09/mpox-china-confirma-primeiros-casos-de-nova-variante/",
+      "urlToImage": "https://ionline.sapo.pt/wp-content/uploads/2025/01/dreamstime_m_330807969.jpg",
+      "publishedAt": "2025-01-09 09:42:15",
+      "content": "Segundo o o Centro de Controlo e Preven\u00e7\u00e3o de Doen\u00e7as (CDC) do pa\u00eds, o caso remonta a um cidad\u00e3o estrangeiro com historial de viagens e resid\u00eancia na Rep\u00fablica Democr\u00e1tica do Congo. A China confirmo\u2026 [+822 chars]",
+      "retrievedAt": "2025-01-10 19:05:40.664704",
+      "internal_id": "2cf8f638618aaa96d4744e7a2259e9a971f7f9eb5b628319f4dac15377416c76",
+      "publishedAtLabel": "Jan 9"
+    },
+    {
+      "id": 17271,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Portfolio.hu",
+      "author": "Portfolio.hu",
+      "title": "A hal\u00e1los v\u00edrus \u00faj, legs\u00falyosabb v\u00e1ltozat\u00e1t azonos\u00edtott\u00e1k K\u00edn\u00e1ban",
+      "description": "Az mpox-v\u00edrus \u00faj, mut\u00e1l\u00f3dott t\u00f6rzs\u00e9t azonos\u00edtott\u00e1k K\u00edn\u00e1ban, ami jelzi a k\u00f3rokoz\u00f3 terjed\u00e9s\u00e9t \u00fajabb f\u00f6ldrajzi ter\u00fcleteken. Az Eg\u00e9szs\u00e9g\u00fcgyi Vil\u00e1gszervezet (WHO) tavaly glob\u00e1lis eg\u00e9szs\u00e9g\u00fcgyi v\u00e9szhelyzetnek nyilv\u00e1n\u00edtotta az afrikai j\u00e1rv\u00e1nykit\u00f6r\u00e9st, az\u00f3ta a v\u00edrus f\u2026",
+      "url": "https://www.portfolio.hu/global/20250109/a-halalos-virus-uj-legsulyosabb-valtozatat-azonositottak-kinaban-733573",
+      "urlToImage": "https://pcdn.hu/articles/images-xl/m/a/j/majomhimlo-545537.jpg",
+      "publishedAt": "2025-01-09 09:25:00",
+      "content": "A k\u00ednai Betegs\u00e9gellenrz\u00e9si \u00e9s Megelz\u00e9si K\u00f6zpont (CDC) cs\u00fct\u00f6rt\u00f6k\u00f6n jelentette be, hogy egy \u00faj, Ib-kl\u00e1d n\u00e9ven ismert mpox-t\u00f6rzs (majomhiml) csoportj\u00e1t fedezt\u00e9k fel. A fertz\u00e9s forr\u00e1sa egy k\u00fclf\u00f6ldi \u00e1ll\u2026 [+1884 chars]",
+      "retrievedAt": "2025-01-10 19:05:40.558485",
+      "internal_id": "f0ec8618870fc01fe71065f1feb8939f4623bd6faadd9105c8da7dfda68b5caa",
+      "publishedAtLabel": "Jan 9"
+    },
+    {
+      "id": 17252,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Cool3c.com",
+      "author": "\u8a0e\u559c\u5c0f\u59d0",
+      "title": "\u53f0\u7063\u9ebb\u75b9\u75ab\u60c5\u5321\u5217\u78343000\u4eba \u9ebb\u75b9\u75ab\u82d7\u8986\u84cb\u7387\u9ad8\u7121\u9700\u7dca\u5f35",
+      "description": "\u53f0\u7063\u767c\u751f\u591a\u8d77\u9ebb\u75b9\u75ab\u60c5\uff0c\u75be\u75c5\u7ba1\u5236\u7f72(CDC)\u516c\u5e03\u78ba\u8a3a\u75c5\u4f8b\u905416\u4f8b\uff0c\u5321\u5217\u76f8\u95dc\u63a5\u89f8\u8005\u591a\u90543123\u4eba\uff0c\u5275\u4e0b\u8fd15\u5e74\u5321\u5217\u4eba\u6578\u65b0\u9ad8\u3002\u9ebb\u75b9\u662f\u7531\u611f\u67d3\u9ebb\u75b9\u75c5\u6bd2(Measles virus)\u5f15\u8d77\u7684\u6025\u6027\u547c\u5438\u9053\u50b3\u67d3\u75c5\uff0c\u4e3b\u8981\u85c9\u7531\u98db\u6cab\u6216\u63a5\u89f8\u75c5\u4eba\u9f3b\u54bd\u5206\u6ccc\u7269\u800c\u611f\u67d3\uff0c\u611f\u67d3\u5f8c\u521d\u671f\u75c7\u72c0\u548c\u611f\u5192\u76f8\u4f3c\uff0c\u5305\u542b\u767c\u71d2\u3001\u6d41\u9f3b\u6c34\u3001\u7d50\u819c\u708e\u3001\u54b3\u55fd\u7b49\u75c7\u72c0\uff0c3\u81f34\u5929\u5f8c\u6703\u767c\u73fe\u7d05\u75b9\uff0c\u4f46\u4e5f\u6709\u6975\u5c11\u6578\u500b\u6848\u4e0d\u51fa\u75b9\u6216\u6c92\u6709\u5178\u578b\u51fa\u75b9\u578b\u614b\u3002\u88ab\u5321\u5217\u70ba\u63a5\u89f8\u8005\u9700\u8981\u81ea\u4e3b\u5065\u5eb7\u7ba1\u740618\u5929\uff0c\u6bcf\u65e5\u65e9\u665a\u91cf\u9ad4\u6eab\uff0c\u4e26\u8a73\u5be6\u8a18\u9304\u9ad4\u6eab\u3001\u6d3b\u52d5\u53f2\u4ee5\u53ca\u7591\u4f3c\u75c7\u72c0\uff0c\u4e0d\u53ef\u81ea\u884c\u5c31\u91ab\uff0c\u4e5f\u61c9\u8a72\u8981\u907f\u514d\u51fa\u5165\u516c\u5171\u5834\u6240\uff0c\u51fa\u5165\u9700\u914d\u6234\u53e3\u7f69\uff0c\u624d\u4e0d\u6703\u6210\u70ba\u50b3\u2026",
+      "url": "https://www.cool3c.com/article/232528",
+      "urlToImage": "https://sw.cool3c.com/user/46749/2025/d0601f94-ebbe-4ad2-8a44-6aaab96cc611.jpg?fit=max&w=1400&q=80",
+      "publishedAt": "2025-01-09 09:04:11",
+      "content": "(CDC)1631235(Measles virus)3418 3 3198119811981 1981MMR515 98%MMR 3000",
+      "retrievedAt": "2025-01-10 19:05:37.742935",
+      "internal_id": "ca7c525c462886e8f9cd84d6426e02ba8389779e41fe5cfd00392ba74587592c",
+      "publishedAtLabel": "Jan 9"
+    },
+    {
+      "id": 17256,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": "bild",
+      "source_name": "Bild",
+      "author": "Mara Pallokat",
+      "title": "Kampf gegen Krankheiten - Giftiges Sperma soll M\u00fccken t\u00f6ten",
+      "description": "Australische Forscher entwickeln gentechnisch ver\u00e4nderte M\u00fccken mit giftigem Sperma, um Tropenkrankheiten wie Malaria und Dengue-Fieber zu bek\u00e4mpfen.",
+      "url": "https://www.bild.de/leben-wissen/giftiges-sperma-gentechnik-gegen-tropenkrankheiten-677f684575a660732be0464f",
+      "urlToImage": "https://images.bild.de/677f684575a660732be0464f/c1adb57ca51e0815581c60f96641bda1,e18f09b2?w=1280",
+      "publishedAt": "2025-01-09 08:13:11",
+      "content": "M\u00fccken-Weibchen ausrotten und dadurch Krankheiten bek\u00e4mpfen? Australische Wissenschaftler glauben: Gentechnisch ver\u00e4nderte M\u00fccken mit giftigem Sperma k\u00f6nnten eine neue Waffe gegen Tropenkrankheiten \u2026 [+1491 chars]",
+      "retrievedAt": "2025-01-10 19:05:39.035097",
+      "internal_id": "47464a3a654ecccaf881525ef3a46e97437befaa3fc068522a1df84715fcbb66",
+      "publishedAtLabel": "Jan 9"
+    },
+    {
+      "id": 17258,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TOI Trending Desk",
+      "title": "How do mosquito repellents work?",
+      "description": "The increase in temperature and presence of stagnant water boost mosquito populations, raising the risk of diseases like malaria and dengue. Mosquito repellents such as DEET and Picaridin are favored for their effectiveness. In comparison, natural repellents \u2026",
+      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/what-is-the-science-behind-mosquito-repellents-and-how-do-they-work/articleshow/117076844.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-117076986,width-1070,height-580,imgsize-30700,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2025-01-09 07:34:51",
+      "content": "10 amazing egg dishes you can make in the microwave",
+      "retrievedAt": "2025-01-10 19:05:39.098167",
+      "internal_id": "2ef55233def9781e397562ed2104aac0358b9e28d47468981bc7b74e7b81e907",
+      "publishedAtLabel": "Jan 9"
+    },
+    {
+      "id": 17257,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TOI Trending Desk",
+      "title": "What is the science behind mosquito repellents and how do they work?",
+      "description": "The increase in temperature and presence of stagnant water boost mosquito populations, raising the risk of diseases like malaria and dengue. Mosquito repellents such as DEET and Picaridin are favored for their effectiveness. In comparison, natural repellents \u2026",
+      "url": "https://timesofindia.indiatimes.com/etimes/trending/what-is-the-science-behind-mosquito-repellents-and-how-do-they-work/articleshow/117076844.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-117076986,width-1070,height-580,imgsize-30700,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2025-01-09 07:12:04",
+      "content": "Chum Darangs top 10 picture perfect looks",
+      "retrievedAt": "2025-01-10 19:05:39.091071",
+      "internal_id": "b13e025627fdbdca23401fcce2196cef99d3d1b1cecc9359775a2ab1945bb305",
+      "publishedAtLabel": "Jan 9"
+    },
     {
       "id": 17244,
       "query": [
@@ -24802,222 +25328,6 @@
       "content": "The infection of mammalian species by avian flu viruses is causing concern, with cell replication in mammals making the virus more pathogenic to humans. A recent investigation into the increase in d\u2026 [+5001 chars]",
       "retrievedAt": "2024-11-26 07:07:01.898728",
       "internal_id": "e8baabf99bd21017d141d03b2944d20d1482fce25de6a6af63fd9c17dd0af78f",
-      "publishedAtLabel": "Nov 24"
-    },
-    {
-      "id": 15873,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The BMJ",
-      "author": "da Silva, C., Matambisso, G., Boene, S., Rovira-Vallbona, E., Pujol, A., Comiche, K., Sanchez, A., Greenhouse, B., Chidimatembue, A., Aranda-Diaz, A., Arnaldo, P., Ariani, C., Walker, P., Mbeve, H., Ndimande, N., Tembisse, D., Ruybal-Pesantez, S., Verity, R., Rafael, B., Candrinho, B., Mayor, A.",
-      "title": "Plasmodium falciparum molecular surveillance to inform the Mozambican National Malaria Control Programme strategy: protocol",
-      "description": "Introduction Malaria molecular surveillance has the potential to generate information on biological threats that compromise the effectiveness of antimalarial interventions. This study aims to streamline surveillance activities to inform the new strategic plan\u2026",
-      "url": "https://bmjopen.bmj.com/content/14/11/e092590",
-      "urlToImage": "https://bmjopen.bmj.com/pages/wp-content/uploads/sites/7/2019/07/bmjopen-default-cover.png",
-      "publishedAt": "2024-11-24 17:58:38",
-      "content": "Introduction Mozambique is among the 10 countries with the highest malaria burden in the world, with an estimated 10.4million cases in 2022.1 Malaria transmission is highly heterogeneous across the \u2026 [+13400 chars]",
-      "retrievedAt": "2024-11-25 19:06:05.573448",
-      "internal_id": "89a3eea43332ec474494b53463927591b959921c7d7acececb50fb84471e7bf6",
-      "publishedAtLabel": "Nov 24"
-    },
-    {
-      "id": 15864,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Rolling Stone",
-      "author": "Jeff Ihaza",
-      "title": "Boldy James and Benny The Butcher Play With Art and Reality On \u2018Rabies\u2019",
-      "description": "The track is a stand-out single from Boldy James and Harry Fraud\u2019s \u2018The Bricktionary\u2019 album.",
-      "url": "http://www.rollingstone.com/music/music-features/boldy-james-and-benny-the-butcher-rabies-new-song-1235176806/",
-      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2024/11/boldy-james-benny-the-butcher.jpg?crop=0px%2C26px%2C1800px%2C1015px&resize=1600%2C900",
-      "publishedAt": "2024-11-24 17:02:07",
-      "content": "Two of Griselda\u2019s best connected on \u201cRabies,\u201d a track from Boldy James and Harry Fraud\u2019s aptly named new album The Bricktionary. Both artists are recognized as skilled scribes of R-rated drug epics t\u2026 [+2036 chars]",
-      "retrievedAt": "2024-11-25 19:06:03.352109",
-      "internal_id": "7332c4bf00420b0c2dc57603b47a5493d558433624acb0289824ae2969fca0dd",
-      "publishedAtLabel": "Nov 24"
-    },
-    {
-      "id": 15875,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Jeune Afrique",
-      "author": "The Conversation",
-      "title": "Face au Mpox, la n\u00e9cessaire s\u00e9curisation des march\u00e9s de viande sauvage",
-      "description": "En parall\u00e8le des mesures pr\u00e9ventives traditionnelles destin\u00e9es \u00e0 endiguer l\u2019\u00e9pid\u00e9mie de \u00ab variole du singe \u00bb, le collectif One Health pr\u00e9conise de s\u2019attaquer au manque d\u2019hygi\u00e8ne et de r\u00e9gulation des march\u00e9s de viande sauvage en Afrique, cause profonde de la t\u2026",
-      "url": "https://www.jeuneafrique.com/1633221/societe/face-au-mpox-la-necessaire-securisation-des-marches-de-viande-sauvage/",
-      "urlToImage": "https://prod.cdn-medias.jeuneafrique.com/cdn-cgi/image/q=auto,f=auto,metadata=none,width=1280,height=720,fit=cover,gravity=0.5000x0.5000/https://prod.cdn-medias.jeuneafrique.com/medias/2024/11/22/jad20241122-the-conversation-mpox-viande-sauvage.jpg",
-      "publishedAt": "2024-11-24 15:08:48",
-      "content": "Dans de nombreux pays du monde, les animaux sauvages sont parfois tu\u00e9s pour \u00eatre mang\u00e9s, notamment les singes, les rats et les \u00e9cureuils. La viande sauvage contribue de mani\u00e8re significative \u00e0 la nut\u2026 [+7001 chars]",
-      "retrievedAt": "2024-11-25 19:06:06.611103",
-      "internal_id": "f207aba0c59742f045eb7a957d98ea647ad8157b3c2d380b9e5d7b21232fc050",
-      "publishedAtLabel": "Nov 24"
-    },
-    {
-      "id": 15867,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Diepresse.com",
-      "author": "Die Presse",
-      "title": "Erstmals Kind in den USA mit Vogelgrippe infiziert",
-      "description": "In Kanada hat sich indes ein Jugendlicher mit dem Vogelgrippevirus H5N1 infiziert. Das Virus ist mutiert und hat sich an den menschlichen Wirt angepasst.",
-      "url": "https://www.diepresse.com/19105604/erstmals-kind-in-den-usa-mit-vogelgrippe-infiziert",
-      "urlToImage": "https://img.diepresse.com/public/incoming/1r01sv-HEALTH-BIRDFLUMEXICO/alternates/DPR_SOCIAL_NACHRICHTEN/HEALTH-BIRDFLUMEXICO",
-      "publishedAt": "2024-11-24 11:40:32",
-      "content": "In Kanada hat sich indes ein Jugendlicher mit dem Vogelgrippevirus H5N1 infiziert. Das Virus ist mutiert und hat sich an den menschlichen Wirt angepasst. Zwei Vogelgrippe-F\u00e4lle bei einem Kind und ei\u2026 [+3696 chars]",
-      "retrievedAt": "2024-11-25 19:06:04.603474",
-      "internal_id": "5a32f8b67e59e060d40b2c556923d68d43e78519d83488eaf6bbf06cbb13e5f0",
-      "publishedAtLabel": "Nov 24"
-    },
-    {
-      "id": 15866,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "N-tv.de",
-      "author": "n-tv NACHRICHTEN",
-      "title": "An menschlichen Wirt angepasst: Vogelgrippe-Virus H5N1 mutiert in Teenager",
-      "description": "Das Vogelgrippe-Virus breitet sich in Nordamerika weiter aus: In den USA infizierte sich nun erstmals ein Kind. In Kanada k\u00e4mpft ein Teenager mit einem mutierten H5N1-Erreger. Experten zeigen sich besorgt.",
-      "url": "https://www.n-tv.de/wissen/Vogelgrippe-Virus-H5N1-mutiert-in-Teenager-article25383544.html",
-      "urlToImage": "https://bilder3.n-tv.de/img/incoming/crop25383558/0841323954-cImg_16_9-w1200/490232021.jpg",
-      "publishedAt": "2024-11-24 11:25:17",
-      "content": "Das Vogelgrippe-Virus breitet sich in Nordamerika weiter aus: In den USA infizierte sich nun erstmals ein Kind. In Kanada k\u00e4mpft ein Teenager mit einem mutierten H5N1-Erreger. Experten zeigen sich be\u2026 [+3722 chars]",
-      "retrievedAt": "2024-11-25 19:06:04.595948",
-      "internal_id": "60fc8f5478b14e18bf08da7bbf4c351a0274b4af96d1d15546358cb91eb94964",
-      "publishedAtLabel": "Nov 24"
-    },
-    {
-      "id": 15865,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "The New Yorker",
-      "author": "Dhruv Khullar",
-      "title": "The Fundamental Problem with R.F.K., Jr.,\u2019s Nomination to H.H.S.",
-      "description": "Dhruv Khullar on the trouble\u2014and the opportunity\u2014with Robert F. Kennedy, Jr. He has many bad ideas\u2014about vaccines, COVID, the N.I.H., and the F.D.A. Yet the irony of our political moment is that his more reasonable positions are the ones that could sink his c\u2026",
-      "url": "https://www.newyorker.com/magazine/2024/12/02/the-fundamental-problem-with-rfk-jrs-nomination-to-hhs",
-      "urlToImage": "https://media.newyorker.com/photos/673e6dbc46f9b2a74bb8be57/16:9/w_1280,c_limit/Comment-RFK-Jr-and-America_social.jpg",
-      "publishedAt": "2024-11-24 11:00:00",
-      "content": "In 2018, two children in Samoa died after receiving measles vaccines, because the nurses who administered them had mistakenly mixed the vaccine powder with a muscle relaxant. Local vaccine skeptics s\u2026 [+6504 chars]",
-      "retrievedAt": "2024-11-25 19:06:03.946463",
-      "internal_id": "a23f0a7bfedb93b3753ce9921429adbdf9edd09105a5bc240665ae194f9ff15f",
-      "publishedAtLabel": "Nov 24"
-    },
-    {
-      "id": 15872,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "bild",
-      "source_name": "Bild",
-      "author": "Karen von Guttenberg",
-      "title": "Durchbruch gegen die Krankheit? - Erste Malaria-Impfung per M\u00fcckenstich!",
-      "description": "Wissenschaftler entwickeln eine neue Impfstrategie gegen Malaria, bei der gentechnisch ver\u00e4nderte Erreger durch M\u00fcckenstiche \u00fcbertragen werden.",
-      "url": "https://www.bild.de/leben-wissen/wissenschaft/mueckenstiche-als-impfung-durchbruch-gegen-malaria-6742db4cd3e4b22ff2f6ab7b",
-      "urlToImage": "https://images.bild.de/6742db4cd3e4b22ff2f6ab7b/46e66ebf71d06f9c7f0c5f33a83491c7,8705b3e7?w=1280",
-      "publishedAt": "2024-11-24 09:48:13",
-      "content": "Was klingt, wie ein schlechter Scherz, ist in Wirklichkeit eine neue Form der Impfung gegen Malaria: Der Impfstoff wird durch M\u00fcckenstiche \u00fcbertragen. Aber wie? Laut dem World Malaria Report 2023 de\u2026 [+1834 chars]",
-      "retrievedAt": "2024-11-25 19:06:05.549172",
-      "internal_id": "38e4cda32b130c5543608f68ed5f28579c113e3a4dd778ac1fb40eecf93257db",
-      "publishedAtLabel": "Nov 24"
-    },
-    {
-      "id": 15874,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Jeune Afrique",
-      "author": "Jeanne Le Bihan",
-      "title": "Au Burkina Faso, Halidou Tinto, artisan d\u2019un nouveau vaccin contre le paludisme",
-      "description": "Install\u00e9s \u00e0 moins de 100 km de Ouagadougou, le professeur ivoiro-burkinab\u00e8 et son \u00e9quipe ont jou\u00e9 un r\u00f4le majeur dans l\u2019\u00e9laboration du R21 contre la malaria, approuv\u00e9 par l\u2019OMS en 2023.",
-      "url": "https://www.jeuneafrique.com/1631409/societe/au-burkina-faso-halidou-tinto-artisan-dun-nouveau-vaccin-contre-le-paludisme/",
-      "urlToImage": "https://prod.cdn-medias.jeuneafrique.com/cdn-cgi/image/q=auto,f=auto,metadata=none,width=1280,height=720,fit=cover,gravity=0.5284x0.2692/https://prod.cdn-medias.jeuneafrique.com/medias/2024/11/22/jad20241122-homme-du-mois-halidou-tnto.jpg",
-      "publishedAt": "2024-11-24 09:05:06",
-      "content": "Le paludisme, le professeur Halidou Tinto en a fait une affaire personnelle. Depuis quen 1989, accabl\u00e9 par la fi\u00e8vre, les maux de t\u00eate et les vertiges, le futur scientifique est contraint de quitter \u2026 [+227 chars]",
-      "retrievedAt": "2024-11-25 19:06:05.592590",
-      "internal_id": "b40d10da2d0b78638e34b6ff921e32b417dc17221bff9a1c2216da7e9cbc9a95",
-      "publishedAtLabel": "Nov 24"
-    },
-    {
-      "id": 15870,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Jornada.com.mx",
-      "author": "Alejandro Svarch * y Jos\u00e9 Moya **",
-      "title": "Alejandro Svarch * y Jos\u00e9 Moya **: Calor, humedad y mosquitos: cr\u00f3nica de una temporada de dengue",
-      "description": "Al caer la tarde, las pangas y lanchas cruzan la cuenca veracruzana del r\u00edo Papaloapan. Mujeres y hombres regresan a sus hogares despu\u00e9s de una ardua jornada en la plantaci\u00f3n de ca\u00f1a de az\u00facar. Los d\u00edas lluviosos, con temperaturas que rondan los 30 grados, hu\u2026",
-      "url": "https://www.jornada.com.mx/2024/11/24/opinion/012a2pol",
-      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "publishedAt": "2024-11-24 09:04:56",
-      "content": "l caer la tarde, las pangas y lanchas cruzan la cuenca veracruzana del r\u00edo Papaloapan. Mujeres y hombres regresan a sus hogares despu\u00e9s de una ardua jornada en la plantaci\u00f3n de ca\u00f1a de az\u00facar. Los d\u00ed\u2026 [+4780 chars]",
-      "retrievedAt": "2024-11-25 19:06:04.917958",
-      "internal_id": "bf32a6ce1737866467f362ae84ccae5e822dbbfe09cbae71fa41e87c8b3d70b4",
-      "publishedAtLabel": "Nov 24"
-    },
-    {
-      "id": 15871,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Jornada.com.mx",
-      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "title": "En lo que va del a\u00f1o, 262 decesos y m\u00e1s de 110 mil casos de dengue",
-      "description": "La Direcci\u00f3n General de Epidemiolog\u00eda (DGE) de la Secretar\u00eda de Salud (Ssa) inform\u00f3 que en lo que va del a\u00f1o se han confirmado 110 mil 281 casos de dengue en el pa\u00eds, de los cuales, 48 mil 945 corresponden a dengue con signos de alarma y grave, y 61 mil 336, \u2026",
-      "url": "https://www.jornada.com.mx/2024/11/24/sociedad/027n1soc",
-      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "publishedAt": "2024-11-24 09:04:56",
-      "content": "Peri\u00f3dico La JornadaDomingo 24 de noviembre de 2024, p. 27 La Direcci\u00f3n General de Epidemiolog\u00eda (DGE) de la Secretar\u00eda de Salud (Ssa) inform\u00f3 que en lo que va del a\u00f1o se han confirmado 110 mil 281 \u2026 [+1641 chars]",
-      "retrievedAt": "2024-11-25 19:06:04.930546",
-      "internal_id": "5f33fc5f0112ff7897ada9caf5a7a5c8429033f4868b66f87109b4c805c64273",
-      "publishedAtLabel": "Nov 24"
-    },
-    {
-      "id": 15869,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Jornada.com.mx",
-      "author": "Alejandro Svarch * y Jos\u00e9 Moya **",
-      "title": "Alejandro Svarch * y Jos\u00e9 Moya **: Calor, humedad y mosquitos: cr\u00f3nica de una temporada de dengue",
-      "description": "Al caer la tarde, las pangas y lanchas cruzan la cuenca veracruzana del r\u00edo Papaloapan. Mujeres y hombres regresan a sus hogares despu\u00e9s de una ardua jornada en la plantaci\u00f3n de ca\u00f1a de az\u00facar. Los d\u00edas lluviosos, con temperaturas que rondan los 30 grados, hu\u2026",
-      "url": "https://www.jornada.com.mx/2024/11/24/politica/012a2pol",
-      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "publishedAt": "2024-11-24 09:04:55",
-      "content": "l caer la tarde, las pangas y lanchas cruzan la cuenca veracruzana del r\u00edo Papaloapan. Mujeres y hombres regresan a sus hogares despu\u00e9s de una ardua jornada en la plantaci\u00f3n de ca\u00f1a de az\u00facar. Los d\u00ed\u2026 [+4780 chars]",
-      "retrievedAt": "2024-11-25 19:06:04.910615",
-      "internal_id": "66f7f612f0312e2363ed0e2ebc5278c4375ac626687cf03f87ad090ca8f8e26f",
-      "publishedAtLabel": "Nov 24"
-    },
-    {
-      "id": 15868,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "cnn",
-      "source_name": "CNN",
-      "author": "CNN \u0628\u0627\u0644\u0639\u0631\u0628\u064a\u0629",
-      "title": "\u0639\u0648\u062f\u0629 \u0641\u064a\u0631\u0648\u0633 \u0642\u062f\u064a\u0645..\u0645\u0627 \u0627\u0644\u0633\u0628\u0628 \u0648\u0631\u0627\u0621 \u0627\u0631\u062a\u0641\u0627\u0639 \u062d\u0627\u0644\u0627\u062a \u0625\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u0637\u064a\u0648\u0631 \u062e\u0644\u0627\u0644 \u0641\u0635\u0644 \u0627\u0644\u062e\u0631\u064a\u0641\u061f",
-      "description": "\u0641\u064a\u0631\u0648\u0633 \"H5N1\" \u0627\u0644\u0645\u0633\u0628\u0628 \u0644\u0625\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u0637\u064a\u0648\u0631 \u0647\u0648 \u0645\u0631\u0636 \u062a\u0646\u0641\u0651\u0633\u064a \u0634\u062f\u064a\u062f \u0627\u0644\u0639\u062f\u0648\u0649 \u064a\u0646\u062a\u0634\u0631 \u0641\u064a \u0648\u0644\u0627\u064a\u0627\u062a \u0623\u0645\u0631\u064a\u0643\u064a\u0629 \u0639\u062f\u0651\u0629 \u0628\u064a\u0646 \u0627\u0644\u0637\u064a\u0648\u0631 \u0627\u0644\u0628\u0631\u064a\u0629\u060c \u0648\u0627\u0644\u062f\u0648\u0627\u062c\u0646\u060c \u0648\u0627\u0644\u062d\u064a\u0648\u0627\u0646\u0627\u062a \u0627\u0644\u0623\u062e\u0631\u0649. \u0623\u062f\u0651\u0649 \u062a\u0641\u0634\u064a \u0625\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u0637\u064a\u0648\u0631 \u0625\u0644\u0649 \u0625\u0635\u0627\u0628\u0629 \u0623\u0643\u062b\u0631 \u0645\u0646 \u0623\u0631\u0628\u0639\u064a\u0646 \u0634\u062e\u0635\u064b\u0627 \u0641\u064a \u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629. \u0648\u0641\u064a \u062d\u064a\u0646 \u0623\u0646 \u0645\u0639\u0638\u0645 \u0627\u0644\u062d\u0627\u0644\u0627\u062a \u0627\u0644\u0628\u0634\u0631\u064a\u0629 \u0645\u062a\u0648\u0633\u0637\u0629\u060c \u0641\u2026",
-      "url": "https://arabic.cnn.com/science-and-health/video/2024/11/24/v165853-bird-flu-return",
-      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2024/11/24/images/283539.jpg",
-      "publishedAt": "2024-11-24 07:22:53",
-      "content": "",
-      "retrievedAt": "2024-11-25 19:06:04.628116",
-      "internal_id": "8604de16f0bb5e75966b283eda033b72c4fd5fc92e17cd40571f3d867343e51f",
       "publishedAtLabel": "Nov 24"
     }
   ]
