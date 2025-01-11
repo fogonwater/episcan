@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 25
-- **Last harvest:** 2025-01-11 07:05
-- **Most recent article:** 2025-01-10 06:44:00
+- **New articles in last harvest:** 14
+- **Last harvest:** 2025-01-11 19:05
+- **Most recent article:** 2025-01-10 18:43:00
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-48 | 24-49 | 24-50 | 24-51 | 24-52 | 24-53 | 25-1 | 25-2 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| h5n1 | 37 | 70 | 61 | 112 | 65 | 27 | 27 | 97 | 496 |
-| mpox | 26 | 20 | 26 | 92 | 35 | 2 | 6 | 84 | 291 |
-| malaria | 29 | 27 | 76 | 60 | 30 | 15 | 10 | 26 | 273 |
-| dengue | 24 | 10 | 33 | 30 | 24 | 6 | 12 | 28 | 167 |
-| measles | 6 | 9 | 10 | 6 | 11 | 3 | 6 | 5 | 56 |
+| h5n1 | 34 | 70 | 61 | 112 | 65 | 27 | 27 | 100 | 496 |
+| mpox | 25 | 20 | 26 | 92 | 35 | 2 | 6 | 85 | 291 |
+| malaria | 26 | 27 | 76 | 60 | 30 | 15 | 10 | 29 | 273 |
+| dengue | 21 | 10 | 33 | 30 | 24 | 6 | 12 | 33 | 169 |
+| measles | 5 | 9 | 10 | 6 | 11 | 3 | 6 | 6 | 56 |
 | hpai | 0 | 2 | 4 | 6 | 12 | 1 | 4 | 17 | 46 |
-| rabies | 11 | 13 | 3 | 7 | 8 | 1 | 1 | 1 | 45 |
-| chikungunya | 4 | 6 | 7 | 8 | 0 | 2 | 0 | 4 | 31 |
-| zika | 1 | 4 | 4 | 4 | 2 | 0 | 0 | 11 | 26 |
+| rabies | 10 | 13 | 3 | 7 | 8 | 1 | 1 | 2 | 45 |
+| chikungunya | 4 | 6 | 7 | 8 | 0 | 2 | 0 | 5 | 32 |
+| zika | 1 | 4 | 4 | 4 | 2 | 0 | 0 | 13 | 28 |
 | pertussis | 1 | 4 | 6 | 4 | 6 | 0 | 1 | 2 | 24 |
 | meningitis | 3 | 3 | 7 | 5 | 3 | 1 | 2 | 0 | 24 |
 | yersinia | 1 | 0 | 0 | 0 | 6 | 0 | 0 | 1 | 8 |
@@ -34,6 +34,10 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 25-2 (zika)
+
+- [Insect-specific RNA viruses detection in Field-Caught Aedes aegypti mosquitoes from Argentina using NGS technology](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012792) (Plos.org)
+
+- [Governo pagará R$ 60 mil a famílias de crianças afetadas pelo Zika](https://www.infomoney.com.br/saude/governo-pagara-r-60-mil-a-familias-de-criancas-afetadas-pelo-zika/) (InfoMoney)
 
 - [Zika Virus Infection in Pregnant Traveler Returning to Denmark from Phuket, Thailand, 2024](https://wwwnc.cdc.gov/eid/article/31/2/24-1510_article) (Cdc.gov)
 
@@ -63,6 +67,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-2 (rabies)
 
+- [Young man dies of rabies at Seti provincial hospital](https://dineshkhabar.com/article/117684) (Dineshkhabar.com)
+
 - [Solana’s PNUT Prodigy Picks DLUME as 2025’s Next Big Thing – Could You Be Next?](https://zycrypto.com/solanas-pnut-prodigy-picks-dlume-as-2025s-next-big-thing-could-you-be-next/) (ZyCrypto)
 
 ## 25-2 (pertussis)
@@ -72,6 +78,8 @@ Source: [News API](https://newsapi.org/)
 - [This Illness Is Surging Right Now, And The Signs In Kids Aren't As Easy To Spot](https://www.huffpost.com/entry/kids-whooping-cough-surge_l_677d4d9fe4b07acf439cc050) (HuffPost)
 
 ## 25-2 (mpox)
+
+- [Friday headlines: Blowing in the wind](https://themorningnews.org/p/friday-headlines-blowing-in-the-wind) (Themorningnews.org)
 
 - [Detectan primer caso de nueva variante de viruela símica en China](https://www.excelsior.com.mx/global/detectan-nueva-variante-viruela-simica-china/1693491) (Excelsior.com.mx)
 
@@ -243,6 +251,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-2 (measles)
 
+- [Measles-infected ferry passenger travels from Tallinn to Helsinki](https://yle.fi/a/74-20136078) (YLE News)
+
 - [台灣麻疹疫情匡列破3000人 麻疹疫苗覆蓋率高無需緊張](https://www.cool3c.com/article/232528) (Cool3c.com)
 
 - [Democrats Highlight Samoa Outbreak to Block RFK Jr.](https://politicalwire.com/2025/01/08/democrats-highlight-samoa-outbreak-to-block-rfk-jr/) (Politicalwire.com)
@@ -254,6 +264,12 @@ Source: [News API](https://newsapi.org/)
 - [New measles case confirmed in Montreal](https://www.cbc.ca/news/canada/montreal/new-measles-case-montreal-1.7423560) (CBC News)
 
 ## 25-2 (malaria)
+
+- [Muere el científico colombiano Manuel Elkin Patarroyo, padre de vacuna contra la malaria](https://www.montevideo.com.uy/Salud/Muere-el-cientifico-colombiano-Manuel-Elkin-Patarroyo-padre-de-vacuna-contra-la-malaria-uc911754) (Montevideo.com.uy)
+
+- [Insurance query: Comprehensive home healthcare services for infectious diseases](https://www.thehindubusinessline.com/portfolio/personal-finance/insurance-query-comprehensive-home-healthcare-hhc-services-for-infectious-diseases/article69072100.ece) (BusinessLine)
+
+- [Fallece el científico colombiano Manuel Elkin Patarroyo, creador de la vacuna contra la malaria](https://www.libertaddigital.com/ciencia-tecnologia/ciencia/2025-01-10/fallece-el-cientifico-colombiano-manuel-elkin-patarroyo-creador-de-la-vacuna-contra-la-malaria-7205640/) (Libertaddigital.com)
 
 - [Los chimpancés están genéticamente adaptados a su entorno y a infecciones como la malaria](https://www.milenio.com/ciencia-y-salud/chimpances-estan-geneticamente-adaptados-incluso-a-infecciones) (Milenio)
 
@@ -344,6 +360,12 @@ Source: [News API](https://newsapi.org/)
 - [California egg prices continue to rise amid bird flu outbreaks](http://en.people.cn/n3/2025/0106/c90000-20262239.html) (People.cn)
 
 ## 25-2 (h5n1)
+
+- [TOMI Environmental Solutions Positioned to Address Growing Global Disease Threats with SteraMist Technology](https://www.globenewswire.com/news-release/2025/01/10/3007681/34752/en/TOMI-Environmental-Solutions-Positioned-to-Address-Growing-Global-Disease-Threats-with-SteraMist-Technology.html) (GlobeNewswire)
+
+- [ماذا نعرف عن فيروس "أإنفلونزا الطيور".. وهل سيتحوّل إلى جائحة؟](https://arabic.cnn.com/science-and-health/article/2025/01/10/bird-flu-h5n1-pandemic-risk-explained) (CNN)
+
+- [La FDA realizará pruebas en quesos de leche cruda para detectar gripe aviar](https://www.gastronomiaycia.com/la-fda-realizara-pruebas-en-quesos-de-leche-cruda-para-detectar-gripe-aviar/) (Gastronomiaycia.com)
 
 - [How worried should we be about a bird flu pandemic?](https://www.newscientist.com/article/2463511-how-worried-should-we-be-about-a-bird-flu-pandemic/) (New Scientist)
 
@@ -541,6 +563,16 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-2 (dengue)
 
+- [Dengue severity by serotype and immune status in 19 years of pediatric clinical studies in Nicaragua](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012811) (Plos.org)
+
+- [Associations of resuscitation fluid load, colloid-to-crystalloid infusion ratio and clinical outcomes in children with dengue shock syndrome](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012786) (Plos.org)
+
+- [Insect-specific RNA viruses detection in Field-Caught Aedes aegypti mosquitoes from Argentina using NGS technology](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012792) (Plos.org)
+
+- [Insurance query: Comprehensive home healthcare services for infectious diseases](https://www.thehindubusinessline.com/portfolio/personal-finance/insurance-query-comprehensive-home-healthcare-hhc-services-for-infectious-diseases/article69072100.ece) (BusinessLine)
+
+- [Dengue: 14 cidades de São Paulo decretam estado de emergência](https://saude.ig.com.br/2025-01-10/dengue-cidadessp-emergencia.html) (Ig.com.br)
+
 - [Seis estados terão incidência de dengue ainda maior em 2025](https://veja.abril.com.br/saude/seis-estados-terao-incidencia-de-dengue-ainda-maior-em-2025) (Abril.com.br)
 
 - [Kampf gegen Krankheiten - Giftiges Sperma soll Mücken töten](https://www.bild.de/leben-wissen/giftiges-sperma-gentechnik-gegen-tropenkrankheiten-677f684575a660732be0464f) (Bild)
@@ -598,6 +630,8 @@ Source: [News API](https://newsapi.org/)
 - [En plena temporada: qué medidas preventivas hay en la costa para evitar aumentos de casos de dengue](https://www.lanacion.com.ar/sociedad/en-plena-temporada-que-medidas-preventivas-hay-en-la-costa-para-evitar-aumentos-de-casos-de-dengue-nid05012025/) (La Nacion)
 
 ## 25-2 (chikungunya)
+
+- [Insect-specific RNA viruses detection in Field-Caught Aedes aegypti mosquitoes from Argentina using NGS technology](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012792) (Plos.org)
 
 - [Des moustiques au «sperme toxique» : une potentielle solution pour freiner la transmission des maladies tropicales](https://www.liberation.fr/societe/sante/des-moustiques-au-sperme-toxique-une-potentielle-solution-pour-freiner-la-transmission-des-maladies-tropicales-20250108_SMMPPKSYHZAJPEURIWMHGQJKBM/) (Libération)
 
@@ -2923,8 +2957,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Examining the molecular clock hypothesis for the contemporary evolution of the rabies virus](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012740) (Plos.org)
 
-- [Boldy James and Benny The Butcher Play With Art and Reality On ‘Rabies’](http://www.rollingstone.com/music/music-features/boldy-james-and-benny-the-butcher-rabies-new-song-1235176806/) (Rolling Stone)
-
 ## 24-48 (pertussis)
 
 - [Improving vaccine uptake during pregnancy](https://www.bmj.com/content/387/bmj.q2631) (The BMJ)
@@ -2981,8 +3013,6 @@ Source: [News API](https://newsapi.org/)
 
 - [World News in Brief: Mpox update, Haiti violence, deadly strikes in Ukraine, Pakistan attack condemned](https://www.globalsecurity.org/military/library/news/2024/11/mil-241122-unnews01.htm) (Globalsecurity.org)
 
-- [Face au Mpox, la nécessaire sécurisation des marchés de viande sauvage](https://www.jeuneafrique.com/1633221/societe/face-au-mpox-la-necessaire-securisation-des-marches-de-viande-sauvage/) (Jeune Afrique)
-
 ## 24-48 (meningitis)
 
 - [Press release: UK on brink of defeating meningococcal C](https://www.gov.uk/government/news/uk-on-brink-of-defeating-meningococcal-c) (Www.gov.uk)
@@ -3002,8 +3032,6 @@ Source: [News API](https://newsapi.org/)
 - [Germany sees dramatic rise in measles cases](https://www.dw.com/en/germany-sees-dramatic-rise-in-measles-cases/a-70901183) (DW (English))
 
 - [I’ll never forget what Robert F. Kennedy Jnr did during Samoa’s measles outbreak - Brian Deer](https://www.nzherald.co.nz/world/ill-never-forget-what-robert-f-kennedy-jnr-did-during-samoas-measles-outbreak-brian-deer/WCBALRD42RDDDHQQ2C65DYD6LM/) (New Zealand Herald)
-
-- [The Fundamental Problem with R.F.K., Jr.,’s Nomination to H.H.S.](https://www.newyorker.com/magazine/2024/12/02/the-fundamental-problem-with-rfk-jrs-nomination-to-hhs) (The New Yorker)
 
 ## 24-48 (malaria)
 
@@ -3058,12 +3086,6 @@ Source: [News API](https://newsapi.org/)
 - [Simak Penyebab, Gejala, Pengobatan, dan Pencegahan Malaria Tropika](https://kalbaronline.com/2024/11/26/simak-penyebab-gejala-pengobatan-dan-pencegahan-malaria-tropika/) (Kalbaronline.com)
 
 - [Nigeria loses $1.1bn annually to malaria, Health minister laments](https://punchng.com/nigeria-loses-1-1bn-annually-to-malaria-health-minister-laments/) (The Punch)
-
-- [Plasmodium falciparum molecular surveillance to inform the Mozambican National Malaria Control Programme strategy: protocol](https://bmjopen.bmj.com/content/14/11/e092590) (The BMJ)
-
-- [Durchbruch gegen die Krankheit? - Erste Malaria-Impfung per Mückenstich!](https://www.bild.de/leben-wissen/wissenschaft/mueckenstiche-als-impfung-durchbruch-gegen-malaria-6742db4cd3e4b22ff2f6ab7b) (Bild)
-
-- [Au Burkina Faso, Halidou Tinto, artisan d’un nouveau vaccin contre le paludisme](https://www.jeuneafrique.com/1631409/societe/au-burkina-faso-halidou-tinto-artisan-dun-nouveau-vaccin-contre-le-paludisme/) (Jeune Afrique)
 
 ## 24-48 (leptospirosis)
 
@@ -3141,12 +3163,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Avian flu virus sparks mammal mutation concerns in Quebec](https://montrealgazette.com/news/local-news/avian-flu-virus-sparks-mammal-mutation-concerns-in-quebec) (Montreal Gazette)
 
-- [Erstmals Kind in den USA mit Vogelgrippe infiziert](https://www.diepresse.com/19105604/erstmals-kind-in-den-usa-mit-vogelgrippe-infiziert) (Diepresse.com)
-
-- [An menschlichen Wirt angepasst: Vogelgrippe-Virus H5N1 mutiert in Teenager](https://www.n-tv.de/wissen/Vogelgrippe-Virus-H5N1-mutiert-in-Teenager-article25383544.html) (N-tv.de)
-
-- [عودة فيروس قديم..ما السبب وراء ارتفاع حالات إنفلونزا الطيور خلال فصل الخريف؟](https://arabic.cnn.com/science-and-health/video/2024/11/24/v165853-bird-flu-return) (CNN)
-
 ## 24-48 (dengue)
 
 - [Antisipasi Penyebaran Nyamuk DBD, Kodim 0826/Pamekasan Lakukan Fogging](https://suaraindonesia-news.com/antisipasi-penyebaran-nyamuk-dbd-kodim-0826-pamekasan-lakukan-fogging/) (Suaraindonesia-news.com)
@@ -3190,12 +3206,6 @@ Source: [News API](https://newsapi.org/)
 - [കേരളം കാണാൻ വന്ന അയര്‍ലന്‍ഡുകാരന്റെ ജീവനെടുത്ത ഡെങ്കി; മരണം ഇന്ന് മടങ്ങാനിരിക്കെ; വേണം ജാഗ്രത, dengue fever, symptoms of dengue fever, dengue fever death kerala](https://www.mathrubhumi.com/health/news/hike-in-dengue-fever-cases-in-kochi-kerala-1.10108455) (Mathrubhumi.com)
 
 - [Wolbachia mosquito releases to reach 50% of all Singapore households by 2026 to combat dengue](https://www.channelnewsasia.com/singapore/wolbachia-aedes-mosquito-dengue-50-all-households-2026-4768391) (CNA)
-
-- [Alejandro Svarch * y José Moya **: Calor, humedad y mosquitos: crónica de una temporada de dengue](https://www.jornada.com.mx/2024/11/24/opinion/012a2pol) (Jornada.com.mx)
-
-- [En lo que va del año, 262 decesos y más de 110 mil casos de dengue](https://www.jornada.com.mx/2024/11/24/sociedad/027n1soc) (Jornada.com.mx)
-
-- [Alejandro Svarch * y José Moya **: Calor, humedad y mosquitos: crónica de una temporada de dengue](https://www.jornada.com.mx/2024/11/24/politica/012a2pol) (Jornada.com.mx)
 
 ## 24-48 (chikungunya)
 
