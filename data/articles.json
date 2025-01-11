@@ -1,8 +1,332 @@
 {
-  "last_updated": "2025-01-10 19:05",
-  "count_articles_total": 1404,
-  "count_articles_new": 29,
+  "last_updated": "2025-01-11 07:05",
+  "count_articles_total": 1441,
+  "count_articles_new": 25,
   "articles": [
+    {
+      "id": 17282,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Computerworld.dk",
+      "author": "Jacob \u00d8. Wittorff",
+      "title": "Tesla offentligg\u00f8r ny Model Y med skarpt design og l\u00e6ngere r\u00e6kkevidde \u2013 se den her",
+      "description": "Det har v\u00e6ret ventet l\u00e6nge, men nu har Tesla offentliggjort billederne af den helt nye, opdaterede Model Y.",
+      "url": "https://www.computerworld.dk/art/290039/tesla-offentliggoer-ny-model-y-med-skarpt-design-og-laengere-raekkevidde-se-den-her",
+      "urlToImage": "https://www.computerworld.dk/fil/230713?width=600&height=315&focus=1",
+      "publishedAt": "2025-01-10 06:44:00",
+      "content": "Det har v\u00e6ret ventet l\u00e6nge, men nu har Tesla offentliggjort billederne af den helt nye, opdaterede Model Y.Annonceindl\u00e6g fra HPAI-ekspert Robert Luciani: Den rigtige teknologi er afg\u00f8rende for succes\u2026 [+1998 chars]",
+      "retrievedAt": "2025-01-11 07:05:55.240458",
+      "internal_id": "b9a387f3c9937563f53f10154ed0b0cefa36229e42db6749ddcbe231ae300dea",
+      "publishedAtLabel": "Jan 10"
+    },
+    {
+      "id": 17280,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Computerworld.dk",
+      "author": "Jacob \u00d8. Wittorff",
+      "title": "Metas afskaffelse af faktatjekkere kan f\u00f8re til b\u00f8der og forbud i EU",
+      "description": "B\u00f8der og i yderste konsekvens et regul\u00e6rt forbud kan v\u00e6re konsekvenser, hvis Meta og Mark Zuckerberg indf\u00f8rer sit nye system for faktatjek i EU.",
+      "url": "https://www.computerworld.dk/art/290038/metas-afskaffelse-af-faktatjekkere-kan-foere-til-boeder-og-forbud-i-eu",
+      "urlToImage": "https://www.computerworld.dk/fil/230338?width=600&height=315&focus=1",
+      "publishedAt": "2025-01-10 06:12:00",
+      "content": "B\u00f8der og i yderste konsekvens et regul\u00e6rt forbud kan v\u00e6re konsekvenser, hvis Meta og Mark Zuckerberg indf\u00f8rer sit nye system for faktatjek i EU.Annonceindl\u00e6g fra HPAI-ekspert Robert Luciani: Den rigt\u2026 [+1485 chars]",
+      "retrievedAt": "2025-01-11 07:05:55.174803",
+      "internal_id": "ea8e32e85ff94557291a9b6818a944479b16801300e0b7722936542fced5d041",
+      "publishedAtLabel": "Jan 10"
+    },
+    {
+      "id": 17298,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Zika Virus Infection in Pregnant Traveler Returning to Denmark from Phuket, Thailand, 2024",
+      "description": "Zika Virus Infection in Pregnant Traveler Returning to Denmark from Phuket, Thailand, 2024",
+      "url": "https://wwwnc.cdc.gov/eid/article/31/2/24-1510_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2025-01-10 05:00:00",
+      "content": "Disclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released.Zika virus (ZIKV) is an RN\u2026 [+6645 chars]",
+      "retrievedAt": "2025-01-11 07:05:56.919321",
+      "internal_id": "0c39b1316374cd788f6d0d4a4b0dbdbd7eafcd9fa70a0a44e07dfe844df14067",
+      "publishedAtLabel": "Jan 10"
+    },
+    {
+      "id": 17293,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Milenio",
+      "author": "Agencia EFE",
+      "title": "Los chimpanc\u00e9s est\u00e1n gen\u00e9ticamente adaptados a su entorno y a infecciones como la malaria",
+      "description": "Las adaptaciones gen\u00e9ticas que han desarrollado los chimpanc\u00e9s no solo les ayudan a sobrevivir en los h\u00e1bitats que ocupan (selva y sabana) sino que incluso les protegen de algunas infecciones como la malaria, seg\u00fan un estudio internacional cuyas conclusiones \u2026",
+      "url": "https://www.milenio.com/ciencia-y-salud/chimpances-estan-geneticamente-adaptados-incluso-a-infecciones",
+      "urlToImage": "https://cdn.milenio.com/uploads/media/2025/01/09/estudio-revela-chimpances-geneticamente-adaptados.jpg",
+      "publishedAt": "2025-01-10 03:47:29",
+      "content": "Las adaptaciones gen\u00e9ticas que han desarrollado los chimpanc\u00e9s no solo les ayudan a sobrevivir en los h\u00e1bitats que ocupan (selva y sabana) sino que incluso les protegen de algunas infecciones como la\u2026 [+4746 chars]",
+      "retrievedAt": "2025-01-11 07:05:56.693848",
+      "internal_id": "a5e26fd5dc7ee561d22b628e9eafa09679ab5999d3d2db591c6a059c5d89dafe",
+      "publishedAtLabel": "Jan 10"
+    },
+    {
+      "id": 17281,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "FOX 2 Detroit",
+      "author": "Fox 2 Detroit",
+      "title": "Bird flu case confirmed in Oakland County by Michigan Dept of Agriculture",
+      "description": "It is the second case of HPAI in Oakland County since the virus was first detected in Michigan back in 2022.",
+      "url": "https://www.fox2detroit.com/news/bird-flu-case-confirmed-oakland-county-michigan-dept-agriculture",
+      "urlToImage": "https://images.foxtv.com/static.fox2detroit.com/www.fox2detroit.com/content/uploads/2025/01/1280/720/gettyimages-2190176913-scaled.jpg?ve=1&tl=1",
+      "publishedAt": "2025-01-10 00:15:29",
+      "content": "FOX 2 - A case of the highly pathogenic avian influenza was detected in a backyard flock from Oakland County, the state announced Thursday. The case was found by the Michigan Department of Agricultu\u2026 [+2663 chars]",
+      "retrievedAt": "2025-01-11 07:05:55.228342",
+      "internal_id": "122237a6c0460f4812f42d4201523803078707a7871703bbdf2a7b776d081dd7",
+      "publishedAtLabel": "Jan 10"
+    },
+    {
+      "id": 17299,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Luiz Felipe Liazibra",
+      "title": "Crian\u00e7as com Zika receber\u00e3o R$ 60 mil, mas Lula veta pens\u00e3o vital\u00edcia",
+      "description": "Medida Provis\u00f3ria editada pelo governo Lula prev\u00ea o pagamento do benef\u00edcio em parcela \u00fanica, mas senadora critica veto de pens\u00e3o",
+      "url": "https://www.metropoles.com/colunas/grande-angular/criancas-com-zika-receberao-r-60-mil-mas-lula-veta-pensao-vitalicia",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2020/06/22123927/destaque-zika1.jpg",
+      "publishedAt": "2025-01-09 23:31:42",
+      "content": "O governo federal editou uma medida provis\u00f3ria para indenizar em R$ 60 mil as fam\u00edlias de crian\u00e7as com microcefalia causada pelo v\u00edrus Zika. Por\u00e9m, vetou um projeto de lei que previa uma pens\u00e3o uma v\u2026 [+1628 chars]",
+      "retrievedAt": "2025-01-11 07:05:56.926299",
+      "internal_id": "5a8335e6718030cec0de74458c9f4bd1e485551e10cdcbdb936eef9b6b4675f8",
+      "publishedAtLabel": "Jan 9"
+    },
+    {
+      "id": 17283,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "new-scientist",
+      "source_name": "New Scientist",
+      "author": "Grace Wade",
+      "title": "How worried should we be about a bird flu pandemic?",
+      "description": "The first known death from a bird flu virus in the US has sparked fears about another pandemic, yet the overall risk to the general public still remains low",
+      "url": "https://www.newscientist.com/article/2463511-how-worried-should-we-be-about-a-bird-flu-pandemic/",
+      "urlToImage": "https://images.newscientist.com/wp-content/uploads/2025/01/09221904/SEI_235366337.jpg",
+      "publishedAt": "2025-01-09 22:22:47",
+      "content": "Avian influenza has been hitting birds hard in recent years Daniel Acker/Bloomberg via Getty Images Concerns are rising about the potential for the H5N1 bird flu virus to cause a pandemic like covi\u2026 [+318 chars]",
+      "retrievedAt": "2025-01-11 07:05:55.445714",
+      "internal_id": "4fe613efb28d9be2ddc2c4e6f68bb197640441f1f56925a75ba3882092bf6f06",
+      "publishedAtLabel": "Jan 9"
+    },
+    {
+      "id": 17300,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Excelsior.com.mx",
+      "author": "oswaldo.rojas",
+      "title": "Detectan primer caso de nueva variante de viruela s\u00edmica en China",
+      "description": "Oswaldo Rojas Las autoridades sanitarias de China detectaron un caso positivo de la nueva variante de la viruela del mono (mpox) en su territorio. Espec\u00edficamente, informaron del hallazgo de un contagio con el nuevo clado Ib (altamente infeccioso por contact\u2026",
+      "url": "https://www.excelsior.com.mx/global/detectan-nueva-variante-viruela-simica-china/1693491",
+      "urlToImage": "https://www.excelsior.com.mx/media/pictures/2025/01/09/3239899.jpg",
+      "publishedAt": "2025-01-09 22:07:23",
+      "content": "Las autoridades sanitarias de China detectaron un caso positivo de la nueva variante de la viruela del mono (mpox) en su territorio. Espec\u00edficamente, informaron del hallazgo de un contagio con el nue\u2026 [+3078 chars]",
+      "retrievedAt": "2025-01-11 07:05:57.616818",
+      "internal_id": "24944346796c1632f0fbdaaba86bfaf1840d29796cc53c992a13b6fc141c1bce",
+      "publishedAtLabel": "Jan 9"
+    },
+    {
+      "id": 17301,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "BFMTV",
+      "author": null,
+      "title": "Mpox: cinq cas du nouveau variant enregistr\u00e9s en Chine",
+      "description": "Les autorit\u00e9s chinoises ont toutefois assur\u00e9 que le foyer avait \u00e9t\u00e9 \"efficacement ma\u00eetris\u00e9\".",
+      "url": "https://www.bfmtv.com/international/asie/chine/mpox-cinq-cas-du-nouveau-variant-enregistres-en-chine_AD-202501091002.html",
+      "urlToImage": "https://images.bfmtv.com/1FSFQ6XwTSbZFumSU2XSAoPRrhw=/0x257:1024x833/1024x0/images/Monkeypox-1455971.jpg",
+      "publishedAt": "2025-01-09 21:47:58",
+      "content": "Les autorit\u00e9s chinoises ont toutefois assur\u00e9 que le foyer avait \u00e9t\u00e9 \"efficacement ma\u00eetris\u00e9\". La Chine a annonc\u00e9 jeudi avoir enregistr\u00e9 cinq cas du nouveau variant de mpox, mais a assur\u00e9 que le foyer\u2026 [+1373 chars]",
+      "retrievedAt": "2025-01-11 07:05:57.701334",
+      "internal_id": "0f28f43a2e39686863bb471f81e97a20037db43776fbfe496fd55af19373771c",
+      "publishedAtLabel": "Jan 9"
+    },
+    {
+      "id": 17302,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "China confirma primeiro surto dom\u00e9stico da nova variante de mpox",
+      "description": "Outros quatro casos foram encontrados entre pessoas que tiveram contato pr\u00f3ximo com a fonte do cont\u00e1gio, sem especificar a localiza\u00e7\u00e3o do surto",
+      "url": "https://valor.globo.com/mundo/noticia/2025/01/09/china-confirma-primeiro-surto-domstico-da-nova-variante-de-mpox.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/HVs_FBXV3ivbW3SRj7UHy4kiCn8=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2024/X/r/faLeIZQmK1YQIWaNdveg/ap24214003005792.jpg",
+      "publishedAt": "2025-01-09 21:18:03",
+      "content": "Com isso, a dona do Instagram, Facebook e Threads permite a associa\u00e7\u00e3o entre doen\u00e7a mental e orienta\u00e7\u00e3o sexual",
+      "retrievedAt": "2025-01-11 07:05:57.759450",
+      "internal_id": "b484878e80b6593cebd8f0ecf59ec93f2938be221b5d7a8c2ccb0fcab653607e",
+      "publishedAtLabel": "Jan 9"
+    },
+    {
+      "id": 17296,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Eldiario.es",
+      "author": "EFE, elDiario.es",
+      "title": "Muere el cient\u00edfico colombiano Manuel Elkin Patarroyo, creador de la vacuna contra la malaria",
+      "description": "Patarroyo, de 78 a\u00f1os y que recibi\u00f3 el Premio Pr\u00edncipe de Asturias de Investigaci\u00f3n Cient\u00edfica y T\u00e9cnica en 1994, falleci\u00f3 en su casa a causa de un paro cardiorrespiratorio, seg\u00fan ha informado un familiar Manuel Elkin Patarroyo, el cient\u00edfico estrella de Col\u2026",
+      "url": "https://www.eldiario.es/sociedad/muere-cientifico-colombiano-manuel-elkin-patarroyo-creador-vacuna-malaria_1_11953245.html",
+      "urlToImage": "https://static.eldiario.es/clip/9b488de4-28a7-429f-8e32-2781f282f8af_facebook-watermarked-aspect-ratio_default_0.jpg",
+      "publishedAt": "2025-01-09 20:23:42",
+      "content": "El cient\u00edfico colombiano Manuel Elkin Patarroyo, descubridor de la primera vacuna sint\u00e9tica contra la malaria, falleci\u00f3 este jueves en su casa en Bogot\u00e1, seg\u00fan han confirmado fuentes familiares a EFE\u2026 [+2122 chars]",
+      "retrievedAt": "2025-01-11 07:05:56.748627",
+      "internal_id": "cd427299bd2b8f0d78a377b302b387060866d0b8faf3666ab0840e37cc1a30b8",
+      "publishedAtLabel": "Jan 9"
+    },
+    {
+      "id": 17294,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Xataka.com.co",
+      "author": "Wilson Vega",
+      "title": "El de Manuel Elkin Patarroyo es un legado de determinaci\u00f3n en la lucha contra la malaria",
+      "description": "Manuel Elkin Patarroyo, el inmun\u00f3logo colombiano que desarroll\u00f3 la primera vacuna sint\u00e9tica contra la malaria del mundo, falleci\u00f3 este jueves 9 de enero, a la edad de 78 a\u00f1os. Su muerte marca el final de una notable carrera que abarc\u00f3 las fr\u2026",
+      "url": "https://www.xataka.com.co/medicina-y-salud/manuel-elkin-patarroyo-legado-determinacion-lucha-malaria",
+      "urlToImage": "https://i.blogs.es/2055c5/patarroyo/840_560.jpeg",
+      "publishedAt": "2025-01-09 20:21:52",
+      "content": "Manuel Elkin Patarroyo, el inmun\u00f3logo colombiano que desarroll\u00f3 la primera vacuna sint\u00e9tica contra la malaria del mundo, falleci\u00f3 este jueves 9 de enero, a la edad de 78 a\u00f1os. Su muerte marca el fi\u2026 [+2234 chars]",
+      "retrievedAt": "2025-01-11 07:05:56.717653",
+      "internal_id": "5995a14828976e5d7a453970df6ee9afb72742f84db8ce4868e88a046f1fa83e",
+      "publishedAtLabel": "Jan 9"
+    },
+    {
+      "id": 17292,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Elmercurio.com.ec",
+      "author": "CMV",
+      "title": "Los chimpanc\u00e9s est\u00e1n gen\u00e9ticamente adaptados a su entorno y a infecciones como la malaria",
+      "description": "Las adaptaciones gen\u00e9ticas que han desarrollado los chimpanc\u00e9s no solo les ayudan a sobrevivir en los h\u00e1bitats que ocupan (selva y sabana) sino que incluso les protegen de algunas infecciones como la malaria, seg\u00fan un estudio internacional cuyas conclusiones \u2026",
+      "url": "https://elmercurio.com.ec/2025/01/09/los-chimpances-estan-geneticamente-adaptados-a-su-entorno-y-a-infecciones-como-la-malaria/",
+      "urlToImage": null,
+      "publishedAt": "2025-01-09 19:59:22",
+      "content": "Las adaptaciones gen\u00e9ticas que han desarrollado los chimpanc\u00e9s no solo les ayudan a sobrevivir en los h\u00e1bitats que ocupan (selva y sabana) sino que incluso les protegen de algunas infecciones como la\u2026 [+4764 chars]",
+      "retrievedAt": "2025-01-11 07:05:56.687307",
+      "internal_id": "485450c33b551874826b6ce746ac845a7b9bedcfc22981cdb01bc7aba53921d9",
+      "publishedAtLabel": "Jan 9"
+    },
+    {
+      "id": 17297,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Lavozdegalicia.es",
+      "author": "La Voz",
+      "title": "Muere Manuel Patarroyo, el padre de la vacuna contra la malaria",
+      "description": "El cient\u00edfico colombiano, Premio Pr\u00edncipe de Asturias en el 1994, falleci\u00f3 a los 78 a\u00f1os en su casa de Bogot\u00e1 donde estaba convaleciente de diversos problemas de salud",
+      "url": "https://www.lavozdegalicia.es/noticia/sociedad/2025/01/09/muere-manuel-elkin-patarroyo-padre-vacuna-contra-malaria/00031736452462220357304.htm",
+      "urlToImage": "https://img.lavdg.com/sc/WrYhNA_bMDOVR0fECrsc7HLMhOM=/1280x/2025/01/09/00121736452622143741700/Foto/efe_20250109_190045900.jpg",
+      "publishedAt": "2025-01-09 19:59:00",
+      "content": "El cient\u00edfico colombiano Manuel Elkin Patarroyo Murillo, descubridor de la primera vacuna sint\u00e9tica contra la malaria, falleci\u00f3 este jueves en su casa en Bogot\u00e1, confirmaron a EFE fuentes familiares.\u2026 [+1995 chars]",
+      "retrievedAt": "2025-01-11 07:05:56.754988",
+      "internal_id": "5f485e657f4547830f12be24fb8183a875c50f6da0dcb40317a3d0e7cb627771",
+      "publishedAtLabel": "Jan 9"
+    },
+    {
+      "id": 17290,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "el-mundo",
+      "source_name": "El Mundo",
+      "author": "EL MUNDO",
+      "title": "Muere el cient\u00edfico colombiano Manuel Elkin Patarroyo, padre de la vacuna contra la malaria",
+      "description": "El cient\u00edfico colombiano Manuel Elkin Patarroyo, descubridor de la primera vacuna sint\u00e9tica contra la malaria, falleci\u00f3 este jueves en su casa en Bogot\u00e1, confirmaron a Efe...",
+      "url": "https://www.elmundo.es/ciencia-y-salud/ciencia/2025/01/09/67802823fc6c832b648b45b0.html",
+      "urlToImage": "https://phantom-elmundo.unidadeditorial.es/c818f388ecf9037497a9b440f006bbef/crop/0x0/3072x2048/resize/1200/f/webp/assets/multimedia/imagenes/2025/01/09/17364520583271.jpg",
+      "publishedAt": "2025-01-09 19:55:17",
+      "content": "El cient\u00edfico colombiano Manuel Elkin Patarroyo, descubridor de la primera vacuna sint\u00e9tica contra la malaria, falleci\u00f3 este jueves en su casa en Bogot\u00e1, confirmaron a Efe fuentes familiares. Patarr\u2026 [+1986 chars]",
+      "retrievedAt": "2025-01-11 07:05:56.655668",
+      "internal_id": "1e9d0ab5cdcd13ff82c397ac46b261545fb0765e50c01429442e543c843ad1bb",
+      "publishedAtLabel": "Jan 9"
+    },
+    {
+      "id": 17295,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Elespanol.com",
+      "author": "C. G.",
+      "title": "Muere el cient\u00edfico colombiano Manuel Elkin Patarroyo, padre de vacuna contra la malaria",
+      "description": "El investigador de 78 a\u00f1os, Premio Pr\u00edncipe de Asturias en 1994, don\u00f3 a la OMS la primera vacuna sint\u00e9tica contra la malaria, creada en 1987. M\u00e1s informaci\u00f3n: El 'grito' a favor de la vacuna de la malaria a trav\u00e9s de la experiencia personal de la directora de\u2026",
+      "url": "https://www.elespanol.com/ciencia/20250109/muere-cientifico-colombiano-manuel-elkin-patarroyo-padre-vacuna-malaria/915158986_0.html",
+      "urlToImage": "https://s1.elespanol.com/2025/01/09/ciencia/915169335_252220411_1706x960.jpg",
+      "publishedAt": "2025-01-09 19:47:34",
+      "content": "El cient\u00edfico colombiano Manuel Elkin Patarroyo, descubridor de la primera vacuna sint\u00e9tica contra la malaria, falleci\u00f3 este jueves en su casa en Bogot\u00e1, confirmaron a Efe fuentes familiares. Patarr\u2026 [+1986 chars]",
+      "retrievedAt": "2025-01-11 07:05:56.736300",
+      "internal_id": "2343cbe25f2f7c40be5dfc1389ecd94fabe125d0809665b4db67579b1790c830",
+      "publishedAtLabel": "Jan 9"
+    },
+    {
+      "id": 17291,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Elconfidencial.com",
+      "author": "EFE",
+      "title": "Muere el cient\u00edfico colombiano Manuel Elkin Patarroyo, padre de la vacuna contra la malaria",
+      "description": "De 78 a\u00f1os y ganador del Premio Pr\u00edncipe de Asturias de Investigaci\u00f3n Cient\u00edfica y T\u00e9cnica de 1994, padec\u00eda problemas de salud y muri\u00f3 en su casa, al parecer de un paro cardiorrespiratorio",
+      "url": "https://www.elconfidencial.com/tecnologia/ciencia/2025-01-09/muere-manuel-elkin-patarroyo-padre-vacuna-malaria_4039835/",
+      "urlToImage": "https://images.ecestaticos.com/UMvvClMoHXdX0kiCgXdF58tg3W0=/0x0:2272x1515/600x315/filters:fill(white):format(jpg):quality(99):watermark(f.elconfidencial.com/file/bae/eea/fde/baeeeafde1b3229287b0c008f7602058.png,0,275,1)/f.elconfidencial.com/original/8ad/598/b03/8ad598b037768d8e5b377490fe97e8d7.jpg",
+      "publishedAt": "2025-01-09 19:40:00",
+      "content": "El cient\u00edfico colombiano Manuel Elkin Patarroyo, descubridor de la primera vacuna sint\u00e9tica contra la malaria, falleci\u00f3 este jueves en su casa en Bogot\u00e1, confirmaron a EFE fuentes familiares. Pata\u2026 [+2476 chars]",
+      "retrievedAt": "2025-01-11 07:05:56.680631",
+      "internal_id": "1d09f7e7244755a15866856a05d2c64d75c8605e5aa0c4b843701868409219a0",
+      "publishedAtLabel": "Jan 9"
+    },
+    {
+      "id": 17289,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "Chimpanzees are genetically adapted to local habitats and infections such as malaria",
+      "description": "Chimpanzees bear genetic adaptations that help them thrive in their different forest and savannah habitats, some of which may protect against malaria, according to a study by an international team.",
+      "url": "https://www.sciencedaily.com/releases/2025/01/250109141134.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2025-01-09 19:11:34",
+      "content": "Chimpanzees bear genetic adaptations that help them thrive in their different forest and savannah habitats, some of which may protect against malaria, according to a study by an international team le\u2026 [+5076 chars]",
+      "retrievedAt": "2025-01-11 07:05:56.648384",
+      "internal_id": "1bab1604e8227f71e06a70cb7f6acdf8a472086f4a765b5cfaaec1bf9695c777",
+      "publishedAtLabel": "Jan 9"
+    },
     {
       "id": 17259,
       "query": [
@@ -109,6 +433,24 @@
       "content": "F\u00e9rias: Assine a partir de 1,50/semanaMinist\u00e9rio da Sa\u00fade lan\u00e7a Centro de Opera\u00e7\u00f5es de Emerg\u00eancia (COE) para auxiliar combate Por Luiz Paulo Souza 9 jan 2025, 14h55 FUMAC\u00ca - \u00daltima cartada: med\u2026 [+4118 chars]",
       "retrievedAt": "2025-01-10 19:05:39.022516",
       "internal_id": "63ec1731d949fd9894f316c9ea6874db8be8630dc763720aefadd735c85da87d",
+      "publishedAtLabel": "Jan 9"
+    },
+    {
+      "id": 17304,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Dialogos.com.cy",
+      "author": "newsroom",
+      "title": "\u03a4\u03bf \u03a0\u03b5\u03ba\u03af\u03bd\u03bf \u03b1\u03bd\u03b1\u03ba\u03bf\u03b9\u03bd\u03ce\u03bd\u03b5\u03b9 \u03c0\u03ad\u03bd\u03c4\u03b5 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c4\u03b7\u03c2 \u03bd\u03ad\u03b1\u03c2 \u03c0\u03b1\u03c1\u03b1\u03bb\u03bb\u03b1\u03b3\u03ae\u03c2 \u03c4\u03b7\u03c2 mpox",
+      "description": "\u0397 \u039a\u03af\u03bd\u03b1 \u03b1\u03bd\u03b1\u03ba\u03bf\u03af\u03bd\u03c9\u03c3\u03b5 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1, \u03a0\u03ad\u03bc\u03c0\u03c4\u03b7, \u03cc\u03c4\u03b9 \u03ba\u03b1\u03c4\u03ad\u03b3\u03c1\u03b1\u03c8\u03b5 \u03c0\u03ad\u03bd\u03c4\u03b5 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c4\u03b7\u03c2 \u03bd\u03ad\u03b1\u03c2 \u03c0\u03b1\u03c1\u03b1\u03bb\u03bb\u03b1\u03b3\u03ae\u03c2 \u03c4\u03b7\u03c2 mpox \u03b1\u03bb\u03bb\u03ac \u03b4\u03b9\u03b1\u03b2\u03b5\u03b2\u03b1\u03af\u03c9\u03c3\u03b5 \u03cc\u03c4\u03b9 \u03b7 \u03b5\u03c3\u03c4\u03af\u03b1 \u00ab\u03c0\u03b5\u03c1\u03b9\u03bf\u03c1\u03af\u03c3\u03c4\u03b7\u03ba\u03b5 \u03b1\u03c0\u03bf\u03c4\u03b5\u03bb\u03b5\u03c3\u03bc\u03b1\u03c4\u03b9\u03ba\u03ac\u00bb. \u0397 \u03b9\u03bf\u03b3\u03b5\u03bd\u03ae\u03c2 \u03b1\u03c5\u03c4\u03ae \u03bd\u03cc\u03c3\u03bf\u03c2 \u03b5\u03ba\u03b4\u03b7\u03bb\u03ce\u03bd\u03b5\u03c4\u03b1\u03b9 \u03ba\u03c5\u03c1\u03af\u03c9\u03c2 \u03bc\u03b5 \u03c5\u03c8\u03b7\u03bb\u03cc \u03c0\u03c5\u03c1\u03b5\u03c4\u03cc \u03ba\u03b1\u03b9 \u03c4\u03b7\u03bd \u03b5\u03bc\u03c6\u03ac\u03bd\u03b9\u03c3\u03b7 \u03b4\u03b5\u03c1\u03bc\u03b1\u03c4\u03b9\u03ba\u03ce\u03bd \u03c0\u03bb\u03b7\u03b3\u03ce\u03bd. \u0397 \u03b1\u03c3\u03b8\u03ad\u03bd\u03b5\u03b9\u03b1 \u03c0\u03bf\u03c5\u2026",
+      "url": "https://dialogos.com.cy/to-pekino-anakoinonei-pente-kroysmata-tis-neas-parallagis-tis-mpox/",
+      "urlToImage": "https://dialogos.com.cy/wp-content/uploads/2024/09/mpox.jpg",
+      "publishedAt": "2025-01-09 17:42:33",
+      "content": "\u00a9 Dialogos Media Group - , , , / , , , , ( ) , , , , , .",
+      "retrievedAt": "2025-01-11 07:05:57.827942",
+      "internal_id": "eea98ae610c792ded213a38ee7b459dbbd6c0e7003322963b46d4069f8199be8",
       "publishedAtLabel": "Jan 9"
     },
     {
@@ -455,6 +797,24 @@
       "publishedAtLabel": "Jan 9"
     },
     {
+      "id": 17303,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Anews.com.tr",
+      "author": "Reuters",
+      "title": "China discovers cluster of new mpox strain",
+      "description": "China has detected a new mutated strain of mpox, clade Ib, which is spreading following a cluster outbreak linked to a foreign traveler with ties to the Democratic Republic of Congo. The variant, which spreads more easily through close contact, has prompted n\u2026",
+      "url": "https://www.anews.com.tr/health/2025/01/09/china-discovers-cluster-of-new-mpox-strain",
+      "urlToImage": "https://ia.tmgrup.com.tr/cbeb4a/806/378/0/110/800/485?u=https://i.tmgrup.com.tr/anews/v1/2025/01/09/china-discovers-cluster-of-new-mpox-strain-1736404634212.jfif",
+      "publishedAt": "2025-01-09 09:14:32",
+      "content": "Chinese health authorities said on Thursday they had detected the new mutated mpox strain clade Ib as the viral infection spreads to more countries after the World Health Organization declared a glob\u2026 [+1510 chars]",
+      "retrievedAt": "2025-01-11 07:05:57.820959",
+      "internal_id": "2b5b5d68752ccf5ded1a5bcedc695cc9f93f13de1d56690fcd32c7d3dd444436",
+      "publishedAtLabel": "Jan 9"
+    },
+    {
       "id": 17252,
       "query": [
         "measles"
@@ -545,6 +905,24 @@
       "content": "Store m\u00e6ngder f\u00f8lsomme lokationsdata om smartphone-brugere ser ud til at v\u00e6re blevet stj\u00e5let fra en virksomhed, der blandt s\u00e6lger data til det amerikanske forsvar og FBI.Annonceindl\u00e6g fra HPAI-eksper\u2026 [+1454 chars]",
       "retrievedAt": "2025-01-10 07:06:22.022695",
       "internal_id": "7d10698e2dd9d3449cdd293eace44d5ef7efeaecfebd24bf1d1b6a558ba958d4",
+      "publishedAtLabel": "Jan 9"
+    },
+    {
+      "id": 17287,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Aajtak.in",
+      "author": "aajtak.in",
+      "title": "\u0928\u093e\u0917\u092a\u0941\u0930 \u092e\u0947\u0902 \u091a\u093f\u0915\u0928 \u0916\u093e\u0928\u0947 \u0938\u0947 \u0939\u0941\u0908 \u0924\u0940\u0928 \u092c\u093e\u0918 \u0914\u0930 \u090f\u0915 \u0924\u0947\u0902\u0926\u0941\u090f \u0915\u0940 \u092e\u094c\u0924? \u092c\u0930\u094d\u0921 \u092b\u094d\u0932\u0942 \u0915\u0940 \u0906\u0936\u0902\u0915\u093e",
+      "description": "\u0928\u093e\u0917\u092a\u0941\u0930 \u0915\u0947 \u090f\u0915 \u0930\u0947\u0938\u094d\u0915\u094d\u092f\u0942 \u0938\u0947\u0902\u091f\u0930 \u092e\u0947\u0902 \u092c\u0940\u0924\u0947 \u0926\u093f\u0928\u094b\u0902 \u0924\u0940\u0928 \u092c\u093e\u0918 \u0914\u0930 \u090f\u0915 \u0924\u0947\u0902\u0926\u0941\u090f \u0915\u0940 \u092e\u094c\u0924 \u0939\u0941\u0908 \u0925\u0940. \u091a\u093e\u0930\u094b\u0902 \u091c\u093e\u0928\u0935\u0930 H5N1 \u0935\u093e\u092f\u0930\u0938 \u0938\u0947 \u0938\u0902\u0915\u094d\u0930\u092e\u093f\u0924 \u092a\u093e\u090f \u0917\u090f \u0925\u0947. \u0910\u0938\u0940 \u0906\u0936\u0902\u0915\u093e \u091c\u0924\u093e\u0908 \u091c\u093e \u0930\u0939\u0940 \u0939\u0948 \u0915\u093f \u091a\u093f\u0915\u0928 \u0916\u093e\u0928\u0947 \u0915\u0947 \u092c\u093e\u0926 \u0924\u0940\u0928\u094b\u0902 \u092c\u093e\u0918 \u0914\u0930 \u0924\u0947\u0902\u0926\u0941\u0906 \u0938\u0902\u0915\u094d\u0930\u092e\u0923 \u0915\u0940 \u091a\u092a\u0947\u091f \u092e\u0947\u0902 \u0906\u090f \u0925\u0947.",
+      "url": "https://www.aajtak.in/india/maharashtra/story/nagpur-news-three-tigers-and-leopard-died-by-bird-flu-after-eating-chicken-lclr-dskc-2139496-2025-01-09",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202501/677f660b21fa5-nagpur-news-090037318-16x9.jpg",
+      "publishedAt": "2025-01-09 06:04:30",
+      "content": "Copyright \u00a9 2025 Living Media India Limited. For reprint rights: Syndications Today",
+      "retrievedAt": "2025-01-11 07:05:55.771787",
+      "internal_id": "85b16df7935185ff37e44d4510776a2793ed1ca19977a41b2b6142154df87033",
       "publishedAtLabel": "Jan 9"
     },
     {
@@ -653,6 +1031,24 @@
       "content": "F\u00e9rias: Assine a partir de 1,50/semanaO mosquito transmissor da dengue, Aedes Aegypti (Luis Robayo/AFP) Continua ap\u00f3s publicidade O in\u00edcio do ano, com o ver\u00e3o chegando ao seu \u00e1pice, \u00e9 um momento cr\u2026 [+3404 chars]",
       "retrievedAt": "2025-01-10 07:06:23.941422",
       "internal_id": "cc223cd609bbe3a5cc66eca2cf3971217629c559b3c73352d15dc510a67300a7",
+      "publishedAtLabel": "Jan 8"
+    },
+    {
+      "id": 17284,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "time",
+      "source_name": "Time",
+      "author": "Alice Park",
+      "title": "Does the First U.S. Death Mean Bird Flu Is Getting More Dangerous?",
+      "description": "Here\u2019s what the latest genetic analysis reveals about how the virus is mutating.",
+      "url": "https://time.com/7205507/bird-flu-virus-mutating-death/",
+      "urlToImage": "https://api.time.com/wp-content/uploads/2025/01/GettyImages-2153359773.jpg?quality=85&w=1200&h=628&crop=1",
+      "publishedAt": "2025-01-08 18:29:08",
+      "content": "Any time a person catches H5N1, or bird flu, their infection is a chance for the virus to mutate in the wrong direction. When someone dies from the bird fluas an elderly Louisiana man did on Jan. 6, \u2026 [+4268 chars]",
+      "retrievedAt": "2025-01-11 07:05:55.739015",
+      "internal_id": "e6126e04f633d74ea84a8a930856caac8216046e048d570958be9732d36186fb",
       "publishedAtLabel": "Jan 8"
     },
     {
@@ -1130,7 +1526,8 @@
     {
       "id": 17208,
       "query": [
-        "hpai"
+        "hpai",
+        "h5n1"
       ],
       "source_id": null,
       "source_name": "Cdc.gov",
@@ -1760,6 +2157,24 @@
       "publishedAtLabel": "Jan 7"
     },
     {
+      "id": 17285,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Expresso.pt",
+      "author": "Jo\u00e3o Pedro Barros",
+      "title": "Gripe das aves detetada numa explora\u00e7\u00e3o em Sintra, mas sem registo de pessoas com \"sintomas ou sinais\" de infe\u00e7\u00e3o",
+      "description": "DGS frisa que o risco para a popula\u00e7\u00e3o geral \u00e9 \"muito baixo\" e que o v\u00edrus \"n\u00e3o se transmite atrav\u00e9s do consumo de carne\"",
+      "url": "https://expresso.pt/sociedade/saude/2025-01-07-gripe-das-aves-detetada-numa-exploracao-em-sintra-mas-sem-registo-de-pessoas-com-sintomas-ou-sinais-de-infecao-9a18e187",
+      "urlToImage": "https://images.impresa.pt/expresso/2024-08-21-aviario---galinhas-b96d588d/1.91x1?wm=true&outputFormat=jpeg",
+      "publishedAt": "2025-01-07 13:01:11",
+      "content": "Foi detetado um foco de gripe das aves (v\u00edrus H5N1) numa explora\u00e7\u00e3o de galinhas poedeiras no concelho de Sintra, j\u00e1 confirmado esta segunda-feira pela Dire\u00e7\u00e3o-Geral de Alimenta\u00e7\u00e3o e Veterin\u00e1ria (DGAV\u2026 [+973 chars]",
+      "retrievedAt": "2025-01-11 07:05:55.757942",
+      "internal_id": "436051e7db5aab6fe7b1be264a3a183b9a8e5c1d5e4d654fea748781e9af3143",
+      "publishedAtLabel": "Jan 7"
+    },
+    {
       "id": 17174,
       "query": [
         "h5n1"
@@ -1937,6 +2352,24 @@
       "content": "Pacientul, care avea peste 65 de ani i avea afeciuni medicale subiacente, a fost spitalizat cu virusul \u00een decembrie, dup ce a fost expus la o combinaie de gini de curte i psri slbatice, au declarat a\u2026 [+1365 chars]",
       "retrievedAt": "2025-01-08 19:05:43.968423",
       "internal_id": "0223aff8f9f5cda905c886908fe3c6eebbc05b194eabc18e289b24a032542cee",
+      "publishedAtLabel": "Jan 7"
+    },
+    {
+      "id": 17286,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ET Online",
+      "title": "As US reports first human bird flu death, expert says virus is 'lethal'. Check symptoms, diagnosis and prevention tips",
+      "description": "Bird flu death in US: US has reported its first human death due to bird flu. Bird flu is a viral infection that spreads in birds, cows and other animals. Also known as H5N1, it was detected in 1996. 66 human H5N1 cases have been reported in the US since 2024 \u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/bird-flu-as-us-reports-first-human-bird-flu-death-expert-says-virus-is-lethal-check-symptoms-diagnosis-and-prevention-tips/articleshow/117025386.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-117025653,width-1200,height-630,imgsize-1647512,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-01-07 12:07:07",
+      "content": "A Louisiana resident has died from H5N1 bird flu, marking the first death from the virus in the United States, according to the centers for disease control and prevention (CDC). The health authoritie\u2026 [+7033 chars]",
+      "retrievedAt": "2025-01-11 07:05:55.765150",
+      "internal_id": "53a5fb0950fa05693150d02c920e20fe1d040864ec69c9ef764c6106fcfb6224",
       "publishedAtLabel": "Jan 7"
     },
     {
@@ -2153,6 +2586,24 @@
       "content": "ABD'nin Louisiana eyaletinde 65 yann \u00fczerinde olduu belirtilen bir hasta, H5N1 olarak da bilinen ku gribi vir\u00fcs\u00fc nedeniyle hayatn kaybetti. ABD'de ilk insan vakas olarak bildirilen hasta H5N1 olarak\u2026 [+226 chars]",
       "retrievedAt": "2025-01-08 19:05:43.899164",
       "internal_id": "abe9a778fc5cdc049453c007b8359d5e7f86fecd2ed2e07f21b0f18b0cf7b634",
+      "publishedAtLabel": "Jan 7"
+    },
+    {
+      "id": 17288,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "\u0930\u094b\u0939\u093f\u0924 \u0915\u0941\u092e\u093e\u0930 \u092a\u094b\u0930\u0935\u093e\u0932",
+      "title": "\u0905\u092e\u0947\u0930\u093f\u0915\u093e \u092e\u0947\u0902 \u092c\u0930\u094d\u0921 \u092b\u094d\u0932\u0942 \u0938\u0947 \u092a\u0939\u0932\u0940 \u092e\u094c\u0924, \u0915\u0908 \u0926\u093f\u0928\u094b\u0902 \u0938\u0947 \u0905\u0938\u094d\u092a\u0924\u093e\u0932 \u092e\u0947\u0902 \u092d\u0930\u094d\u0924\u0940 \u0925\u093e 65 \u0938\u093e\u0932 \u0915\u093e \u0935\u094d\u092f\u0915\u094d\u0924\u093f, \u0939\u0947\u0932\u094d\u0925 \u0921\u093f\u092a\u093e\u0930\u094d\u091f\u092e\u0947\u0902\u091f \u0928\u0947 \u092c\u0924\u093e\u092f\u093e \u0915\u0948\u0938\u0947 \u0939\u0941\u0906 \u0925\u093e \u0938\u0902\u0915\u094d\u0930\u092e\u093f\u0924",
+      "description": "US Bird Flu Human Death Case: \u0905\u092e\u0947\u0930\u093f\u0915\u093e \u092e\u0947\u0902 \u092c\u0930\u094d\u0921 \u092b\u094d\u0932\u0942 \u0938\u0947 \u090f\u0915 \u0935\u094d\u092f\u0915\u094d\u0924\u093f \u0915\u0940 \u092e\u0943\u0924\u094d\u092f\u0941 \u0915\u093e \u092e\u093e\u092e\u0932\u093e \u0938\u093e\u092e\u0928\u0947 \u0906\u092f\u093e \u0939\u0948\u0964 \u092c\u0924\u093e\u092f\u093e \u091c\u093e \u0930\u0939\u093e \u0939\u0948 \u0915\u093f \u092f\u0939 \u0905\u092e\u0947\u0930\u093f\u0915\u093e \u092e\u0947\u0902 \u092c\u0930\u094d\u0921 \u092b\u094d\u0932\u0942 \u0938\u0947 \u0915\u093f\u0938\u0940 \u0935\u094d\u092f\u0915\u094d\u0924\u093f \u0915\u0940 \u092e\u0943\u0924\u094d\u092f\u0941 \u0915\u093e \u092a\u0939\u0932\u093e \u092e\u093e\u092e\u0932\u093e \u0939\u0948\u0964 \u0938\u0940\u0921\u0940\u0938\u0940 \u092c\u0930\u094d\u0921 \u092b\u094d\u0932\u0942 \u0915\u0947 \u092e\u093e\u092e\u0932\u094b\u0902 \u0915\u0940 \u092c\u0922\u093c\u094b\u0924\u0930\u0940 \u092a\u0930 \u0928\u091c\u0930 \u092c\u0928\u093e\u090f \u0939\u0941\u090f \u0939\u0948\u0964 \u0932\u094b\u0917\u094b\u0902 \u0915\u094b H5N1 \u2026",
+      "url": "https://navbharattimes.indiatimes.com/world/america/us-bird-flu-human-death-case-first-human-death-from-h5n1-bird-flu-reported-in-louisiana-in-america/articleshow/117018982.cms",
+      "urlToImage": "https://static.langimg.com/photo/imgsize-48566,msid-117020469/navbharat-times.jpg",
+      "publishedAt": "2025-01-07 09:30:05",
+      "content": ": (6 ) , 65 , () , 51 - H5N1 2024 66 - , H5N1 , \" \" 10 , , , , , , , , , H5N1 , Live 5 , 8 , 25 : 5 , 8 , .. EC Adv: , 40% 31 201\u2026 [+199 chars]",
+      "retrievedAt": "2025-01-11 07:05:55.778787",
+      "internal_id": "830140352cb59ba2b66adbb568eca58608889ccabec1c7de3e96520c0c4dd8db",
       "publishedAtLabel": "Jan 7"
     },
     {
@@ -25328,6 +25779,222 @@
       "content": "The infection of mammalian species by avian flu viruses is causing concern, with cell replication in mammals making the virus more pathogenic to humans. A recent investigation into the increase in d\u2026 [+5001 chars]",
       "retrievedAt": "2024-11-26 07:07:01.898728",
       "internal_id": "e8baabf99bd21017d141d03b2944d20d1482fce25de6a6af63fd9c17dd0af78f",
+      "publishedAtLabel": "Nov 24"
+    },
+    {
+      "id": 15873,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "da Silva, C., Matambisso, G., Boene, S., Rovira-Vallbona, E., Pujol, A., Comiche, K., Sanchez, A., Greenhouse, B., Chidimatembue, A., Aranda-Diaz, A., Arnaldo, P., Ariani, C., Walker, P., Mbeve, H., Ndimande, N., Tembisse, D., Ruybal-Pesantez, S., Verity, R., Rafael, B., Candrinho, B., Mayor, A.",
+      "title": "Plasmodium falciparum molecular surveillance to inform the Mozambican National Malaria Control Programme strategy: protocol",
+      "description": "Introduction Malaria molecular surveillance has the potential to generate information on biological threats that compromise the effectiveness of antimalarial interventions. This study aims to streamline surveillance activities to inform the new strategic plan\u2026",
+      "url": "https://bmjopen.bmj.com/content/14/11/e092590",
+      "urlToImage": "https://bmjopen.bmj.com/pages/wp-content/uploads/sites/7/2019/07/bmjopen-default-cover.png",
+      "publishedAt": "2024-11-24 17:58:38",
+      "content": "Introduction Mozambique is among the 10 countries with the highest malaria burden in the world, with an estimated 10.4million cases in 2022.1 Malaria transmission is highly heterogeneous across the \u2026 [+13400 chars]",
+      "retrievedAt": "2024-11-25 19:06:05.573448",
+      "internal_id": "89a3eea43332ec474494b53463927591b959921c7d7acececb50fb84471e7bf6",
+      "publishedAtLabel": "Nov 24"
+    },
+    {
+      "id": 15864,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Rolling Stone",
+      "author": "Jeff Ihaza",
+      "title": "Boldy James and Benny The Butcher Play With Art and Reality On \u2018Rabies\u2019",
+      "description": "The track is a stand-out single from Boldy James and Harry Fraud\u2019s \u2018The Bricktionary\u2019 album.",
+      "url": "http://www.rollingstone.com/music/music-features/boldy-james-and-benny-the-butcher-rabies-new-song-1235176806/",
+      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2024/11/boldy-james-benny-the-butcher.jpg?crop=0px%2C26px%2C1800px%2C1015px&resize=1600%2C900",
+      "publishedAt": "2024-11-24 17:02:07",
+      "content": "Two of Griselda\u2019s best connected on \u201cRabies,\u201d a track from Boldy James and Harry Fraud\u2019s aptly named new album The Bricktionary. Both artists are recognized as skilled scribes of R-rated drug epics t\u2026 [+2036 chars]",
+      "retrievedAt": "2024-11-25 19:06:03.352109",
+      "internal_id": "7332c4bf00420b0c2dc57603b47a5493d558433624acb0289824ae2969fca0dd",
+      "publishedAtLabel": "Nov 24"
+    },
+    {
+      "id": 15875,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Jeune Afrique",
+      "author": "The Conversation",
+      "title": "Face au Mpox, la n\u00e9cessaire s\u00e9curisation des march\u00e9s de viande sauvage",
+      "description": "En parall\u00e8le des mesures pr\u00e9ventives traditionnelles destin\u00e9es \u00e0 endiguer l\u2019\u00e9pid\u00e9mie de \u00ab variole du singe \u00bb, le collectif One Health pr\u00e9conise de s\u2019attaquer au manque d\u2019hygi\u00e8ne et de r\u00e9gulation des march\u00e9s de viande sauvage en Afrique, cause profonde de la t\u2026",
+      "url": "https://www.jeuneafrique.com/1633221/societe/face-au-mpox-la-necessaire-securisation-des-marches-de-viande-sauvage/",
+      "urlToImage": "https://prod.cdn-medias.jeuneafrique.com/cdn-cgi/image/q=auto,f=auto,metadata=none,width=1280,height=720,fit=cover,gravity=0.5000x0.5000/https://prod.cdn-medias.jeuneafrique.com/medias/2024/11/22/jad20241122-the-conversation-mpox-viande-sauvage.jpg",
+      "publishedAt": "2024-11-24 15:08:48",
+      "content": "Dans de nombreux pays du monde, les animaux sauvages sont parfois tu\u00e9s pour \u00eatre mang\u00e9s, notamment les singes, les rats et les \u00e9cureuils. La viande sauvage contribue de mani\u00e8re significative \u00e0 la nut\u2026 [+7001 chars]",
+      "retrievedAt": "2024-11-25 19:06:06.611103",
+      "internal_id": "f207aba0c59742f045eb7a957d98ea647ad8157b3c2d380b9e5d7b21232fc050",
+      "publishedAtLabel": "Nov 24"
+    },
+    {
+      "id": 15867,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Diepresse.com",
+      "author": "Die Presse",
+      "title": "Erstmals Kind in den USA mit Vogelgrippe infiziert",
+      "description": "In Kanada hat sich indes ein Jugendlicher mit dem Vogelgrippevirus H5N1 infiziert. Das Virus ist mutiert und hat sich an den menschlichen Wirt angepasst.",
+      "url": "https://www.diepresse.com/19105604/erstmals-kind-in-den-usa-mit-vogelgrippe-infiziert",
+      "urlToImage": "https://img.diepresse.com/public/incoming/1r01sv-HEALTH-BIRDFLUMEXICO/alternates/DPR_SOCIAL_NACHRICHTEN/HEALTH-BIRDFLUMEXICO",
+      "publishedAt": "2024-11-24 11:40:32",
+      "content": "In Kanada hat sich indes ein Jugendlicher mit dem Vogelgrippevirus H5N1 infiziert. Das Virus ist mutiert und hat sich an den menschlichen Wirt angepasst. Zwei Vogelgrippe-F\u00e4lle bei einem Kind und ei\u2026 [+3696 chars]",
+      "retrievedAt": "2024-11-25 19:06:04.603474",
+      "internal_id": "5a32f8b67e59e060d40b2c556923d68d43e78519d83488eaf6bbf06cbb13e5f0",
+      "publishedAtLabel": "Nov 24"
+    },
+    {
+      "id": 15866,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "N-tv.de",
+      "author": "n-tv NACHRICHTEN",
+      "title": "An menschlichen Wirt angepasst: Vogelgrippe-Virus H5N1 mutiert in Teenager",
+      "description": "Das Vogelgrippe-Virus breitet sich in Nordamerika weiter aus: In den USA infizierte sich nun erstmals ein Kind. In Kanada k\u00e4mpft ein Teenager mit einem mutierten H5N1-Erreger. Experten zeigen sich besorgt.",
+      "url": "https://www.n-tv.de/wissen/Vogelgrippe-Virus-H5N1-mutiert-in-Teenager-article25383544.html",
+      "urlToImage": "https://bilder3.n-tv.de/img/incoming/crop25383558/0841323954-cImg_16_9-w1200/490232021.jpg",
+      "publishedAt": "2024-11-24 11:25:17",
+      "content": "Das Vogelgrippe-Virus breitet sich in Nordamerika weiter aus: In den USA infizierte sich nun erstmals ein Kind. In Kanada k\u00e4mpft ein Teenager mit einem mutierten H5N1-Erreger. Experten zeigen sich be\u2026 [+3722 chars]",
+      "retrievedAt": "2024-11-25 19:06:04.595948",
+      "internal_id": "60fc8f5478b14e18bf08da7bbf4c351a0274b4af96d1d15546358cb91eb94964",
+      "publishedAtLabel": "Nov 24"
+    },
+    {
+      "id": 15865,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The New Yorker",
+      "author": "Dhruv Khullar",
+      "title": "The Fundamental Problem with R.F.K., Jr.,\u2019s Nomination to H.H.S.",
+      "description": "Dhruv Khullar on the trouble\u2014and the opportunity\u2014with Robert F. Kennedy, Jr. He has many bad ideas\u2014about vaccines, COVID, the N.I.H., and the F.D.A. Yet the irony of our political moment is that his more reasonable positions are the ones that could sink his c\u2026",
+      "url": "https://www.newyorker.com/magazine/2024/12/02/the-fundamental-problem-with-rfk-jrs-nomination-to-hhs",
+      "urlToImage": "https://media.newyorker.com/photos/673e6dbc46f9b2a74bb8be57/16:9/w_1280,c_limit/Comment-RFK-Jr-and-America_social.jpg",
+      "publishedAt": "2024-11-24 11:00:00",
+      "content": "In 2018, two children in Samoa died after receiving measles vaccines, because the nurses who administered them had mistakenly mixed the vaccine powder with a muscle relaxant. Local vaccine skeptics s\u2026 [+6504 chars]",
+      "retrievedAt": "2024-11-25 19:06:03.946463",
+      "internal_id": "a23f0a7bfedb93b3753ce9921429adbdf9edd09105a5bc240665ae194f9ff15f",
+      "publishedAtLabel": "Nov 24"
+    },
+    {
+      "id": 15872,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "bild",
+      "source_name": "Bild",
+      "author": "Karen von Guttenberg",
+      "title": "Durchbruch gegen die Krankheit? - Erste Malaria-Impfung per M\u00fcckenstich!",
+      "description": "Wissenschaftler entwickeln eine neue Impfstrategie gegen Malaria, bei der gentechnisch ver\u00e4nderte Erreger durch M\u00fcckenstiche \u00fcbertragen werden.",
+      "url": "https://www.bild.de/leben-wissen/wissenschaft/mueckenstiche-als-impfung-durchbruch-gegen-malaria-6742db4cd3e4b22ff2f6ab7b",
+      "urlToImage": "https://images.bild.de/6742db4cd3e4b22ff2f6ab7b/46e66ebf71d06f9c7f0c5f33a83491c7,8705b3e7?w=1280",
+      "publishedAt": "2024-11-24 09:48:13",
+      "content": "Was klingt, wie ein schlechter Scherz, ist in Wirklichkeit eine neue Form der Impfung gegen Malaria: Der Impfstoff wird durch M\u00fcckenstiche \u00fcbertragen. Aber wie? Laut dem World Malaria Report 2023 de\u2026 [+1834 chars]",
+      "retrievedAt": "2024-11-25 19:06:05.549172",
+      "internal_id": "38e4cda32b130c5543608f68ed5f28579c113e3a4dd778ac1fb40eecf93257db",
+      "publishedAtLabel": "Nov 24"
+    },
+    {
+      "id": 15874,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Jeune Afrique",
+      "author": "Jeanne Le Bihan",
+      "title": "Au Burkina Faso, Halidou Tinto, artisan d\u2019un nouveau vaccin contre le paludisme",
+      "description": "Install\u00e9s \u00e0 moins de 100 km de Ouagadougou, le professeur ivoiro-burkinab\u00e8 et son \u00e9quipe ont jou\u00e9 un r\u00f4le majeur dans l\u2019\u00e9laboration du R21 contre la malaria, approuv\u00e9 par l\u2019OMS en 2023.",
+      "url": "https://www.jeuneafrique.com/1631409/societe/au-burkina-faso-halidou-tinto-artisan-dun-nouveau-vaccin-contre-le-paludisme/",
+      "urlToImage": "https://prod.cdn-medias.jeuneafrique.com/cdn-cgi/image/q=auto,f=auto,metadata=none,width=1280,height=720,fit=cover,gravity=0.5284x0.2692/https://prod.cdn-medias.jeuneafrique.com/medias/2024/11/22/jad20241122-homme-du-mois-halidou-tnto.jpg",
+      "publishedAt": "2024-11-24 09:05:06",
+      "content": "Le paludisme, le professeur Halidou Tinto en a fait une affaire personnelle. Depuis quen 1989, accabl\u00e9 par la fi\u00e8vre, les maux de t\u00eate et les vertiges, le futur scientifique est contraint de quitter \u2026 [+227 chars]",
+      "retrievedAt": "2024-11-25 19:06:05.592590",
+      "internal_id": "b40d10da2d0b78638e34b6ff921e32b417dc17221bff9a1c2216da7e9cbc9a95",
+      "publishedAtLabel": "Nov 24"
+    },
+    {
+      "id": 15870,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "Alejandro Svarch * y Jos\u00e9 Moya **",
+      "title": "Alejandro Svarch * y Jos\u00e9 Moya **: Calor, humedad y mosquitos: cr\u00f3nica de una temporada de dengue",
+      "description": "Al caer la tarde, las pangas y lanchas cruzan la cuenca veracruzana del r\u00edo Papaloapan. Mujeres y hombres regresan a sus hogares despu\u00e9s de una ardua jornada en la plantaci\u00f3n de ca\u00f1a de az\u00facar. Los d\u00edas lluviosos, con temperaturas que rondan los 30 grados, hu\u2026",
+      "url": "https://www.jornada.com.mx/2024/11/24/opinion/012a2pol",
+      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "publishedAt": "2024-11-24 09:04:56",
+      "content": "l caer la tarde, las pangas y lanchas cruzan la cuenca veracruzana del r\u00edo Papaloapan. Mujeres y hombres regresan a sus hogares despu\u00e9s de una ardua jornada en la plantaci\u00f3n de ca\u00f1a de az\u00facar. Los d\u00ed\u2026 [+4780 chars]",
+      "retrievedAt": "2024-11-25 19:06:04.917958",
+      "internal_id": "bf32a6ce1737866467f362ae84ccae5e822dbbfe09cbae71fa41e87c8b3d70b4",
+      "publishedAtLabel": "Nov 24"
+    },
+    {
+      "id": 15871,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "title": "En lo que va del a\u00f1o, 262 decesos y m\u00e1s de 110 mil casos de dengue",
+      "description": "La Direcci\u00f3n General de Epidemiolog\u00eda (DGE) de la Secretar\u00eda de Salud (Ssa) inform\u00f3 que en lo que va del a\u00f1o se han confirmado 110 mil 281 casos de dengue en el pa\u00eds, de los cuales, 48 mil 945 corresponden a dengue con signos de alarma y grave, y 61 mil 336, \u2026",
+      "url": "https://www.jornada.com.mx/2024/11/24/sociedad/027n1soc",
+      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "publishedAt": "2024-11-24 09:04:56",
+      "content": "Peri\u00f3dico La JornadaDomingo 24 de noviembre de 2024, p. 27 La Direcci\u00f3n General de Epidemiolog\u00eda (DGE) de la Secretar\u00eda de Salud (Ssa) inform\u00f3 que en lo que va del a\u00f1o se han confirmado 110 mil 281 \u2026 [+1641 chars]",
+      "retrievedAt": "2024-11-25 19:06:04.930546",
+      "internal_id": "5f33fc5f0112ff7897ada9caf5a7a5c8429033f4868b66f87109b4c805c64273",
+      "publishedAtLabel": "Nov 24"
+    },
+    {
+      "id": 15869,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "Alejandro Svarch * y Jos\u00e9 Moya **",
+      "title": "Alejandro Svarch * y Jos\u00e9 Moya **: Calor, humedad y mosquitos: cr\u00f3nica de una temporada de dengue",
+      "description": "Al caer la tarde, las pangas y lanchas cruzan la cuenca veracruzana del r\u00edo Papaloapan. Mujeres y hombres regresan a sus hogares despu\u00e9s de una ardua jornada en la plantaci\u00f3n de ca\u00f1a de az\u00facar. Los d\u00edas lluviosos, con temperaturas que rondan los 30 grados, hu\u2026",
+      "url": "https://www.jornada.com.mx/2024/11/24/politica/012a2pol",
+      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "publishedAt": "2024-11-24 09:04:55",
+      "content": "l caer la tarde, las pangas y lanchas cruzan la cuenca veracruzana del r\u00edo Papaloapan. Mujeres y hombres regresan a sus hogares despu\u00e9s de una ardua jornada en la plantaci\u00f3n de ca\u00f1a de az\u00facar. Los d\u00ed\u2026 [+4780 chars]",
+      "retrievedAt": "2024-11-25 19:06:04.910615",
+      "internal_id": "66f7f612f0312e2363ed0e2ebc5278c4375ac626687cf03f87ad090ca8f8e26f",
+      "publishedAtLabel": "Nov 24"
+    },
+    {
+      "id": 15868,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "CNN \u0628\u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+      "title": "\u0639\u0648\u062f\u0629 \u0641\u064a\u0631\u0648\u0633 \u0642\u062f\u064a\u0645..\u0645\u0627 \u0627\u0644\u0633\u0628\u0628 \u0648\u0631\u0627\u0621 \u0627\u0631\u062a\u0641\u0627\u0639 \u062d\u0627\u0644\u0627\u062a \u0625\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u0637\u064a\u0648\u0631 \u062e\u0644\u0627\u0644 \u0641\u0635\u0644 \u0627\u0644\u062e\u0631\u064a\u0641\u061f",
+      "description": "\u0641\u064a\u0631\u0648\u0633 \"H5N1\" \u0627\u0644\u0645\u0633\u0628\u0628 \u0644\u0625\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u0637\u064a\u0648\u0631 \u0647\u0648 \u0645\u0631\u0636 \u062a\u0646\u0641\u0651\u0633\u064a \u0634\u062f\u064a\u062f \u0627\u0644\u0639\u062f\u0648\u0649 \u064a\u0646\u062a\u0634\u0631 \u0641\u064a \u0648\u0644\u0627\u064a\u0627\u062a \u0623\u0645\u0631\u064a\u0643\u064a\u0629 \u0639\u062f\u0651\u0629 \u0628\u064a\u0646 \u0627\u0644\u0637\u064a\u0648\u0631 \u0627\u0644\u0628\u0631\u064a\u0629\u060c \u0648\u0627\u0644\u062f\u0648\u0627\u062c\u0646\u060c \u0648\u0627\u0644\u062d\u064a\u0648\u0627\u0646\u0627\u062a \u0627\u0644\u0623\u062e\u0631\u0649. \u0623\u062f\u0651\u0649 \u062a\u0641\u0634\u064a \u0625\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u0637\u064a\u0648\u0631 \u0625\u0644\u0649 \u0625\u0635\u0627\u0628\u0629 \u0623\u0643\u062b\u0631 \u0645\u0646 \u0623\u0631\u0628\u0639\u064a\u0646 \u0634\u062e\u0635\u064b\u0627 \u0641\u064a \u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629. \u0648\u0641\u064a \u062d\u064a\u0646 \u0623\u0646 \u0645\u0639\u0638\u0645 \u0627\u0644\u062d\u0627\u0644\u0627\u062a \u0627\u0644\u0628\u0634\u0631\u064a\u0629 \u0645\u062a\u0648\u0633\u0637\u0629\u060c \u0641\u2026",
+      "url": "https://arabic.cnn.com/science-and-health/video/2024/11/24/v165853-bird-flu-return",
+      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2024/11/24/images/283539.jpg",
+      "publishedAt": "2024-11-24 07:22:53",
+      "content": "",
+      "retrievedAt": "2024-11-25 19:06:04.628116",
+      "internal_id": "8604de16f0bb5e75966b283eda033b72c4fd5fc92e17cd40571f3d867343e51f",
       "publishedAtLabel": "Nov 24"
     }
   ]

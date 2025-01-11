@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 29
-- **Last harvest:** 2025-01-10 19:05
-- **Most recent article:** 2025-01-09 19:01:04
+- **New articles in last harvest:** 25
+- **Last harvest:** 2025-01-11 07:05
+- **Most recent article:** 2025-01-10 06:44:00
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-48 | 24-49 | 24-50 | 24-51 | 24-52 | 24-53 | 25-1 | 25-2 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| h5n1 | 34 | 70 | 61 | 112 | 65 | 27 | 27 | 90 | 486 |
-| mpox | 25 | 20 | 26 | 92 | 35 | 2 | 6 | 79 | 285 |
-| malaria | 26 | 27 | 76 | 60 | 30 | 15 | 10 | 17 | 261 |
-| dengue | 21 | 10 | 33 | 30 | 24 | 6 | 12 | 28 | 164 |
-| measles | 5 | 9 | 10 | 6 | 11 | 3 | 6 | 5 | 55 |
-| rabies | 10 | 13 | 3 | 7 | 8 | 1 | 1 | 1 | 44 |
-| hpai | 0 | 2 | 4 | 6 | 12 | 1 | 4 | 14 | 43 |
+| h5n1 | 37 | 70 | 61 | 112 | 65 | 27 | 27 | 97 | 496 |
+| mpox | 26 | 20 | 26 | 92 | 35 | 2 | 6 | 84 | 291 |
+| malaria | 29 | 27 | 76 | 60 | 30 | 15 | 10 | 26 | 273 |
+| dengue | 24 | 10 | 33 | 30 | 24 | 6 | 12 | 28 | 167 |
+| measles | 6 | 9 | 10 | 6 | 11 | 3 | 6 | 5 | 56 |
+| hpai | 0 | 2 | 4 | 6 | 12 | 1 | 4 | 17 | 46 |
+| rabies | 11 | 13 | 3 | 7 | 8 | 1 | 1 | 1 | 45 |
 | chikungunya | 4 | 6 | 7 | 8 | 0 | 2 | 0 | 4 | 31 |
-| zika | 1 | 4 | 4 | 4 | 2 | 0 | 0 | 9 | 24 |
+| zika | 1 | 4 | 4 | 4 | 2 | 0 | 0 | 11 | 26 |
 | pertussis | 1 | 4 | 6 | 4 | 6 | 0 | 1 | 2 | 24 |
 | meningitis | 3 | 3 | 7 | 5 | 3 | 1 | 2 | 0 | 24 |
 | yersinia | 1 | 0 | 0 | 0 | 6 | 0 | 0 | 1 | 8 |
@@ -34,6 +34,10 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 25-2 (zika)
+
+- [Zika Virus Infection in Pregnant Traveler Returning to Denmark from Phuket, Thailand, 2024](https://wwwnc.cdc.gov/eid/article/31/2/24-1510_article) (Cdc.gov)
+
+- [Crianças com Zika receberão R$ 60 mil, mas Lula veta pensão vitalícia](https://www.metropoles.com/colunas/grande-angular/criancas-com-zika-receberao-r-60-mil-mas-lula-veta-pensao-vitalicia) (Metropoles.com)
 
 - [Governo dará R$ 60 mil a pessoas com deficiência causada pelo zika vírus](https://veja.abril.com.br/coluna/radar/governo-dara-r-60-mil-a-pessoas-com-deficiencia-causada-pelo-zika-virus) (Abril.com.br)
 
@@ -69,11 +73,19 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-2 (mpox)
 
+- [Detectan primer caso de nueva variante de viruela símica en China](https://www.excelsior.com.mx/global/detectan-nueva-variante-viruela-simica-china/1693491) (Excelsior.com.mx)
+
+- [Mpox: cinq cas du nouveau variant enregistrés en Chine](https://www.bfmtv.com/international/asie/chine/mpox-cinq-cas-du-nouveau-variant-enregistres-en-chine_AD-202501091002.html) (BFMTV)
+
+- [China confirma primeiro surto doméstico da nova variante de mpox](https://valor.globo.com/mundo/noticia/2025/01/09/china-confirma-primeiro-surto-domstico-da-nova-variante-de-mpox.ghtml) (Globo)
+
 - [Κίνα: Το Πεκίνο ανακοίνωσε πέντε κρούσματα της νέας παραλλαγής της mpox](https://www.alphafreepress.gr/2025/01/09/kosmos/kina-to-pekino-anakoinose-pente-krousmata-tis-neas-parallagis-tis-mpox/) (Alphafreepress.gr)
 
 - [Mpox In China: Cluster Of New Mutated Strain Detected; Know Symptoms And Complication](https://www.ndtv.com/health/mpox-in-china-cluster-of-new-mutated-strain-detected-7438465) (NDTV News)
 
 - [Η Κίνα ανακοίνωσε πέντε κρούσματα της νέας παραλλαγής της mpox](https://www.newsit.gr/kosmos/i-kina-anakoinose-pente-krousmata-tis-neas-parallagis-tis-mpox/4279017/) (Newsit.gr)
+
+- [Το Πεκίνο ανακοινώνει πέντε κρούσματα της νέας παραλλαγής της mpox](https://dialogos.com.cy/to-pekino-anakoinonei-pente-kroysmata-tis-neas-parallagis-tis-mpox/) (Dialogos.com.cy)
 
 - [Συναγερμός στην Κίνα: Πέντε κρούσματα της νέας παραλλαγής της mpox](https://www.skai.gr/news/health/kina-pente-krousmata-tis-neas-parallagis-tis-astheneias-mpox) (Skai.gr)
 
@@ -100,6 +112,8 @@ Source: [News API](https://newsapi.org/)
 - [Mpox. China confirma primeiros casos de nova variante](https://ionline.sapo.pt/2025/01/09/mpox-china-confirma-primeiros-casos-de-nova-variante/) (Sapo.pt)
 
 - [A halálos vírus új, legsúlyosabb változatát azonosították Kínában](https://www.portfolio.hu/global/20250109/a-halalos-virus-uj-legsulyosabb-valtozatat-azonositottak-kinaban-733573) (Portfolio.hu)
+
+- [China discovers cluster of new mpox strain](https://www.anews.com.tr/health/2025/01/09/china-discovers-cluster-of-new-mpox-strain) (Anews.com.tr)
 
 - [China discovers cluster of new mpox strain](https://economictimes.indiatimes.com/news/international/world-news/china-discovers-cluster-of-new-mpox-strain/articleshow/117074413.cms) (The Times of India)
 
@@ -241,6 +255,24 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-2 (malaria)
 
+- [Los chimpancés están genéticamente adaptados a su entorno y a infecciones como la malaria](https://www.milenio.com/ciencia-y-salud/chimpances-estan-geneticamente-adaptados-incluso-a-infecciones) (Milenio)
+
+- [Muere el científico colombiano Manuel Elkin Patarroyo, creador de la vacuna contra la malaria](https://www.eldiario.es/sociedad/muere-cientifico-colombiano-manuel-elkin-patarroyo-creador-vacuna-malaria_1_11953245.html) (Eldiario.es)
+
+- [El de Manuel Elkin Patarroyo es un legado de determinación en la lucha contra la malaria](https://www.xataka.com.co/medicina-y-salud/manuel-elkin-patarroyo-legado-determinacion-lucha-malaria) (Xataka.com.co)
+
+- [Los chimpancés están genéticamente adaptados a su entorno y a infecciones como la malaria](https://elmercurio.com.ec/2025/01/09/los-chimpances-estan-geneticamente-adaptados-a-su-entorno-y-a-infecciones-como-la-malaria/) (Elmercurio.com.ec)
+
+- [Muere Manuel Patarroyo, el padre de la vacuna contra la malaria](https://www.lavozdegalicia.es/noticia/sociedad/2025/01/09/muere-manuel-elkin-patarroyo-padre-vacuna-contra-malaria/00031736452462220357304.htm) (Lavozdegalicia.es)
+
+- [Muere el científico colombiano Manuel Elkin Patarroyo, padre de la vacuna contra la malaria](https://www.elmundo.es/ciencia-y-salud/ciencia/2025/01/09/67802823fc6c832b648b45b0.html) (El Mundo)
+
+- [Muere el científico colombiano Manuel Elkin Patarroyo, padre de vacuna contra la malaria](https://www.elespanol.com/ciencia/20250109/muere-cientifico-colombiano-manuel-elkin-patarroyo-padre-vacuna-malaria/915158986_0.html) (Elespanol.com)
+
+- [Muere el científico colombiano Manuel Elkin Patarroyo, padre de la vacuna contra la malaria](https://www.elconfidencial.com/tecnologia/ciencia/2025-01-09/muere-manuel-elkin-patarroyo-padre-vacuna-malaria_4039835/) (Elconfidencial.com)
+
+- [Chimpanzees are genetically adapted to local habitats and infections such as malaria](https://www.sciencedaily.com/releases/2025/01/250109141134.htm) (Science Daily)
+
 - [Los chimpancés han evolucionado genéticamente para vivir en zonas con malaria](https://www.elmundo.es/ciencia-y-salud/ciencia/2025/01/09/677ec58ae85ece925d8b4570.html) (El Mundo)
 
 - [Muere el científico Manuel Elkin Patarroyo, creador de vacuna contra la malaria](https://www.elperiodico.com/es/ciencia/20250109/muere-cientifico-manuel-elkin-patarroyo-creador-vacuna-malaria-113253226) (Elperiodico.com)
@@ -277,6 +309,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-2 (hpai)
 
+- [Tesla offentliggør ny Model Y med skarpt design og længere rækkevidde – se den her](https://www.computerworld.dk/art/290039/tesla-offentliggoer-ny-model-y-med-skarpt-design-og-laengere-raekkevidde-se-den-her) (Computerworld.dk)
+
+- [Metas afskaffelse af faktatjekkere kan føre til bøder og forbud i EU](https://www.computerworld.dk/art/290038/metas-afskaffelse-af-faktatjekkere-kan-foere-til-boeder-og-forbud-i-eu) (Computerworld.dk)
+
+- [Bird flu case confirmed in Oakland County by Michigan Dept of Agriculture](https://www.fox2detroit.com/news/bird-flu-case-confirmed-oakland-county-michigan-dept-agriculture) (FOX 2 Detroit)
+
 - [Cat Foods Containing Bird Flu Virus Found in California, Oregon](https://legalinsurrection.com/2025/01/cat-foods-containing-bird-flu-virus-found-in-california-oregon/) (Legalinsurrection.com)
 
 - [Hackere hævder at have stjålet massive mængder af lokationsdata om smartphone-brugere](https://www.computerworld.dk/art/290014/hackere-haevder-at-have-stjaalet-massive-maengder-af-lokationsdata-om-smartphone-brugere) (Computerworld.dk)
@@ -307,9 +345,15 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-2 (h5n1)
 
+- [How worried should we be about a bird flu pandemic?](https://www.newscientist.com/article/2463511-how-worried-should-we-be-about-a-bird-flu-pandemic/) (New Scientist)
+
 - [Tierseuchen: Vogelgrippe in Geflügelhaltung im Kreis Schleswig-Flensburg](https://www.zeit.de/news/2025-01/09/vogelgrippe-in-gefluegelhaltung-im-kreis-schleswig-flensburg) (Die Zeit)
 
 - [Cat Foods Containing Bird Flu Virus Found in California, Oregon](https://legalinsurrection.com/2025/01/cat-foods-containing-bird-flu-virus-found-in-california-oregon/) (Legalinsurrection.com)
+
+- [नागपुर में चिकन खाने से हुई तीन बाघ और एक तेंदुए की मौत? बर्ड फ्लू की आशंका](https://www.aajtak.in/india/maharashtra/story/nagpur-news-three-tigers-and-leopard-died-by-bird-flu-after-eating-chicken-lclr-dskc-2139496-2025-01-09) (Aajtak.in)
+
+- [Does the First U.S. Death Mean Bird Flu Is Getting More Dangerous?](https://time.com/7205507/bird-flu-virus-mutating-death/) (Time)
 
 - [В Россию снова идет "свиной" грипп, опасный осложнениями](https://rg.ru/2025/01/08/tot-samyj.html) (Rg.ru)
 
@@ -330,6 +374,8 @@ Source: [News API](https://newsapi.org/)
 - [Avian flu risk still 'low' after first US patient dies from H5N1 virus: WHO](https://www.globalsecurity.org/security/library/news/2025/01/sec-250107-unnews01.htm) (Globalsecurity.org)
 
 - [Was bedeuten neuen Mutationen bei zwei Patienten?](https://www.faz.net/aktuell/wissen/medizin-ernaehrung/vogelgrippe-warum-infiziert-h5n1-immer-wieder-menschen-110214943.html) (Faz.net)
+
+- [Comparison of Contemporary and Historic Highly Pathogenic Avian Influenza A(H5N1) Virus Replication in Human Lung Organoids](https://wwwnc.cdc.gov/eid/article/31/2/24-1147_article) (Cdc.gov)
 
 - [禽流感死亡首例＋新冠、流感病毒發威，美疫苗股飆](https://finance.technews.tw/2025/01/08/moderna-stock-jumps-amid-bird-flu-vaccine-hope-after-first-u-s-death/) (Technews.tw)
 
@@ -357,6 +403,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Se confirma la primera muerte humana por gripe aviar en Estados Unidos](https://aristeguinoticias.com/0701/mundo/se-confirma-la-primera-muerte-humana-por-gripe-aviar-en-estados-unidos/) (Aristeguinoticias.com)
 
+- [Gripe das aves detetada numa exploração em Sintra, mas sem registo de pessoas com "sintomas ou sinais" de infeção](https://expresso.pt/sociedade/saude/2025-01-07-gripe-das-aves-detetada-numa-exploracao-em-sintra-mas-sem-registo-de-pessoas-com-sintomas-ou-sinais-de-infecao-9a18e187) (Expresso.pt)
+
 - [When Was the Last Bird Flu Outbreak? Chart Shows Spike in Cases](https://www.newsweek.com/when-was-last-bird-flu-outbreak-chart-shows-spike-cases-2010709) (Newsweek)
 
 - [Bird flu: US reports first human death in person infected with H5N1](https://www.bmj.com/content/388/bmj.r28) (The BMJ)
@@ -373,6 +421,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Riscul de gripă aviară rămâne scăzut după primul deces în SUA, potrivit OMS](https://www.mediafax.ro/externe/riscul-de-gripa-aviara-ramane-scazut-dupa-primul-deces-in-sua-potrivit-oms-22636996) (Mediafax.ro)
 
+- [As US reports first human bird flu death, expert says virus is 'lethal'. Check symptoms, diagnosis and prevention tips](https://economictimes.indiatimes.com/news/international/global-trends/bird-flu-as-us-reports-first-human-bird-flu-death-expert-says-virus-is-lethal-check-symptoms-diagnosis-and-prevention-tips/articleshow/117025386.cms) (The Times of India)
+
 - [ΠΟΥ: Χαμηλά παραμένει ο κίνδυνος από τη γρίπη των πτηνών μετά τον πρώτο θάνατο ασθενούς στις ΗΠΑ](https://www.newsit.gr/kosmos/pou-xamila-paramenei-o-kindynos-apo-ti-gripi-ton-ptinon-meta-ton-proto-thanato-asthenous-stis-ipa/4276703/) (Newsit.gr)
 
 - [DGS diz não haver registo de pessoas infetadas na sequência do surto de gripe das aves em Sintra](https://observador.pt/2025/01/07/dgs-diz-nao-haver-registo-de-pessoas-infetadas-na-sequencia-do-surto-de-gripe-das-aves-em-sintra/) (Observador.pt)
@@ -386,6 +436,8 @@ Source: [News API](https://newsapi.org/)
 - [Estados Unidos confirma su primera muerte humana por gripe aviar: un hombre de 65 años que criaba pollos](https://www.directoalpaladar.com/actualidad-1/estados-unidos-confirma-su-primera-muerte-humana-gripe-aviar-hombre-65-anos-que-criaba-pollos) (Directoalpaladar.com)
 
 - [ABD'de kuş gribine bağlı ilk can kaybı](https://www.haberturk.com/abd-de-kus-gribine-bagli-ilk-can-kaybi-haberler-3753828) (Haberturk.com)
+
+- [अमेरिका में बर्ड फ्लू से पहली मौत, कई दिनों से अस्पताल में भर्ती था 65 साल का व्यक्ति, हेल्थ डिपार्टमेंट ने बताया कैसे हुआ था संक्रमित](https://navbharattimes.indiatimes.com/world/america/us-bird-flu-human-death-case-first-human-death-from-h5n1-bird-flu-reported-in-louisiana-in-america/articleshow/117018982.cms) (The Times of India)
 
 - [Fågelinfluensan hotar hundratals djurarter](https://www.svd.se/a/3MzQkd/fagelinfluensan-hotar-hundratals-djurarter) (Svenska Dagbladet)
 
@@ -2871,6 +2923,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Examining the molecular clock hypothesis for the contemporary evolution of the rabies virus](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012740) (Plos.org)
 
+- [Boldy James and Benny The Butcher Play With Art and Reality On ‘Rabies’](http://www.rollingstone.com/music/music-features/boldy-james-and-benny-the-butcher-rabies-new-song-1235176806/) (Rolling Stone)
+
 ## 24-48 (pertussis)
 
 - [Improving vaccine uptake during pregnancy](https://www.bmj.com/content/387/bmj.q2631) (The BMJ)
@@ -2927,6 +2981,8 @@ Source: [News API](https://newsapi.org/)
 
 - [World News in Brief: Mpox update, Haiti violence, deadly strikes in Ukraine, Pakistan attack condemned](https://www.globalsecurity.org/military/library/news/2024/11/mil-241122-unnews01.htm) (Globalsecurity.org)
 
+- [Face au Mpox, la nécessaire sécurisation des marchés de viande sauvage](https://www.jeuneafrique.com/1633221/societe/face-au-mpox-la-necessaire-securisation-des-marches-de-viande-sauvage/) (Jeune Afrique)
+
 ## 24-48 (meningitis)
 
 - [Press release: UK on brink of defeating meningococcal C](https://www.gov.uk/government/news/uk-on-brink-of-defeating-meningococcal-c) (Www.gov.uk)
@@ -2946,6 +3002,8 @@ Source: [News API](https://newsapi.org/)
 - [Germany sees dramatic rise in measles cases](https://www.dw.com/en/germany-sees-dramatic-rise-in-measles-cases/a-70901183) (DW (English))
 
 - [I’ll never forget what Robert F. Kennedy Jnr did during Samoa’s measles outbreak - Brian Deer](https://www.nzherald.co.nz/world/ill-never-forget-what-robert-f-kennedy-jnr-did-during-samoas-measles-outbreak-brian-deer/WCBALRD42RDDDHQQ2C65DYD6LM/) (New Zealand Herald)
+
+- [The Fundamental Problem with R.F.K., Jr.,’s Nomination to H.H.S.](https://www.newyorker.com/magazine/2024/12/02/the-fundamental-problem-with-rfk-jrs-nomination-to-hhs) (The New Yorker)
 
 ## 24-48 (malaria)
 
@@ -3000,6 +3058,12 @@ Source: [News API](https://newsapi.org/)
 - [Simak Penyebab, Gejala, Pengobatan, dan Pencegahan Malaria Tropika](https://kalbaronline.com/2024/11/26/simak-penyebab-gejala-pengobatan-dan-pencegahan-malaria-tropika/) (Kalbaronline.com)
 
 - [Nigeria loses $1.1bn annually to malaria, Health minister laments](https://punchng.com/nigeria-loses-1-1bn-annually-to-malaria-health-minister-laments/) (The Punch)
+
+- [Plasmodium falciparum molecular surveillance to inform the Mozambican National Malaria Control Programme strategy: protocol](https://bmjopen.bmj.com/content/14/11/e092590) (The BMJ)
+
+- [Durchbruch gegen die Krankheit? - Erste Malaria-Impfung per Mückenstich!](https://www.bild.de/leben-wissen/wissenschaft/mueckenstiche-als-impfung-durchbruch-gegen-malaria-6742db4cd3e4b22ff2f6ab7b) (Bild)
+
+- [Au Burkina Faso, Halidou Tinto, artisan d’un nouveau vaccin contre le paludisme](https://www.jeuneafrique.com/1631409/societe/au-burkina-faso-halidou-tinto-artisan-dun-nouveau-vaccin-contre-le-paludisme/) (Jeune Afrique)
 
 ## 24-48 (leptospirosis)
 
@@ -3077,6 +3141,12 @@ Source: [News API](https://newsapi.org/)
 
 - [Avian flu virus sparks mammal mutation concerns in Quebec](https://montrealgazette.com/news/local-news/avian-flu-virus-sparks-mammal-mutation-concerns-in-quebec) (Montreal Gazette)
 
+- [Erstmals Kind in den USA mit Vogelgrippe infiziert](https://www.diepresse.com/19105604/erstmals-kind-in-den-usa-mit-vogelgrippe-infiziert) (Diepresse.com)
+
+- [An menschlichen Wirt angepasst: Vogelgrippe-Virus H5N1 mutiert in Teenager](https://www.n-tv.de/wissen/Vogelgrippe-Virus-H5N1-mutiert-in-Teenager-article25383544.html) (N-tv.de)
+
+- [عودة فيروس قديم..ما السبب وراء ارتفاع حالات إنفلونزا الطيور خلال فصل الخريف؟](https://arabic.cnn.com/science-and-health/video/2024/11/24/v165853-bird-flu-return) (CNN)
+
 ## 24-48 (dengue)
 
 - [Antisipasi Penyebaran Nyamuk DBD, Kodim 0826/Pamekasan Lakukan Fogging](https://suaraindonesia-news.com/antisipasi-penyebaran-nyamuk-dbd-kodim-0826-pamekasan-lakukan-fogging/) (Suaraindonesia-news.com)
@@ -3120,6 +3190,12 @@ Source: [News API](https://newsapi.org/)
 - [കേരളം കാണാൻ വന്ന അയര്‍ലന്‍ഡുകാരന്റെ ജീവനെടുത്ത ഡെങ്കി; മരണം ഇന്ന് മടങ്ങാനിരിക്കെ; വേണം ജാഗ്രത, dengue fever, symptoms of dengue fever, dengue fever death kerala](https://www.mathrubhumi.com/health/news/hike-in-dengue-fever-cases-in-kochi-kerala-1.10108455) (Mathrubhumi.com)
 
 - [Wolbachia mosquito releases to reach 50% of all Singapore households by 2026 to combat dengue](https://www.channelnewsasia.com/singapore/wolbachia-aedes-mosquito-dengue-50-all-households-2026-4768391) (CNA)
+
+- [Alejandro Svarch * y José Moya **: Calor, humedad y mosquitos: crónica de una temporada de dengue](https://www.jornada.com.mx/2024/11/24/opinion/012a2pol) (Jornada.com.mx)
+
+- [En lo que va del año, 262 decesos y más de 110 mil casos de dengue](https://www.jornada.com.mx/2024/11/24/sociedad/027n1soc) (Jornada.com.mx)
+
+- [Alejandro Svarch * y José Moya **: Calor, humedad y mosquitos: crónica de una temporada de dengue](https://www.jornada.com.mx/2024/11/24/politica/012a2pol) (Jornada.com.mx)
 
 ## 24-48 (chikungunya)
 
