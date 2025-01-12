@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 31
-- **Last harvest:** 2025-01-12 07:05
-- **Most recent article:** 2025-01-11 06:35:47
+- **New articles in last harvest:** 7
+- **Last harvest:** 2025-01-12 19:05
+- **Most recent article:** 2025-01-11 17:15:00
 
 ---
 
@@ -13,14 +13,14 @@ By US epiweek (i.e. Sunday to Saturday)
 | Disease | 24-49 | 24-50 | 24-51 | 24-52 | 24-53 | 25-1 | 25-2 | Total |
 |--|-|-|-|-|-|-|-|-|
 | h5n1 | 70 | 61 | 112 | 65 | 27 | 27 | 124 | 486 |
-| mpox | 20 | 26 | 92 | 35 | 2 | 6 | 87 | 268 |
-| malaria | 27 | 76 | 60 | 30 | 15 | 10 | 29 | 247 |
-| dengue | 10 | 33 | 30 | 24 | 6 | 12 | 37 | 152 |
+| mpox | 20 | 26 | 92 | 35 | 2 | 6 | 91 | 272 |
+| malaria | 27 | 76 | 60 | 30 | 15 | 10 | 30 | 248 |
+| dengue | 10 | 33 | 30 | 24 | 6 | 12 | 38 | 153 |
 | measles | 9 | 10 | 6 | 11 | 3 | 6 | 6 | 51 |
 | hpai | 2 | 4 | 6 | 12 | 1 | 4 | 18 | 47 |
 | rabies | 13 | 3 | 7 | 8 | 1 | 1 | 2 | 35 |
 | chikungunya | 6 | 7 | 8 | 0 | 2 | 0 | 7 | 30 |
-| zika | 4 | 4 | 4 | 2 | 0 | 0 | 14 | 28 |
+| zika | 4 | 4 | 4 | 2 | 0 | 0 | 15 | 29 |
 | pertussis | 4 | 6 | 4 | 6 | 0 | 1 | 2 | 23 |
 | meningitis | 3 | 7 | 5 | 3 | 1 | 2 | 0 | 21 |
 | yersinia | 0 | 0 | 0 | 6 | 0 | 0 | 1 | 7 |
@@ -34,6 +34,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 25-2 (zika)
+
+- [‘Ou a gente dá um jeito, ou as crianças morrem’, desabafa mãe de filha com síndrome congênita da Zika após Lula vetar pensão vitalícia](https://www.terra.com.br/noticias/ou-a-gente-da-um-jeito-ou-as-criancas-morrem-desabafa-mae-de-filha-com-sindrome-congenita-da-zika-apos-lula-vetar-pensao-vitalicia,cf6f0b0b85c83ce3059c9fa14e344ae75kd2ixhx.html) (Terra.com.br)
 
 - [Saúde anuncia novas tecnologias de combate à dengue em Minas Gerais](https://valor.globo.com/brasil/noticia/2025/01/10/saude-anuncia-novas-tecnologias-de-combate-a-dengue-em-minas-gerais.ghtml) (Globo)
 
@@ -80,6 +82,14 @@ Source: [News API](https://newsapi.org/)
 - [This Illness Is Surging Right Now, And The Signs In Kids Aren't As Easy To Spot](https://www.huffpost.com/entry/kids-whooping-cough-surge_l_677d4d9fe4b07acf439cc050) (HuffPost)
 
 ## 25-2 (mpox)
+
+- [14,700 confirmed mpox cases reported in 2024 in Africa: WHO](https://www.thestar.com.my/news/world/2025/01/12/14700-confirmed-mpox-cases-reported-in-2024-in-africa-who) (The Star Online)
+
+- [New Mpox case reported involving local man](https://www.thestar.com.my/news/nation/2025/01/11/new-mpox-case-reported-involving-local-man) (The Star Online)
+
+- [Sierra Leone. Un premier cas de mpox déclaré, des mesures prises pour éviter une propagation](https://www.ledauphine.com/sante/2025/01/11/un-premier-cas-de-mpox-declare-des-mesures-prises-pour-eviter-une-propagation) (Le Dauphiné Libéré)
+
+- [Mpox: un premier cas du "clade 1b" confirmé au Sierra Leone, le patient placé à l'isolement](https://www.bfmtv.com/international/mpox-un-premier-cas-du-clade-1b-confirme-au-sierra-leone-le-patient-place-a-l-isolement_AD-202501110222.html) (BFMTV)
 
 - [TWiV 1182: Clinical update with Dr. Daniel Griffin](https://www.microbe.tv/twiv/twiv-1182/) (Microbe.tv)
 
@@ -270,6 +280,8 @@ Source: [News API](https://newsapi.org/)
 - [New measles case confirmed in Montreal](https://www.cbc.ca/news/canada/montreal/new-measles-case-montreal-1.7423560) (CBC News)
 
 ## 25-2 (malaria)
+
+- [IMPACT, World Bank begin revitalisation of 58 Nasarawa health centres](https://punchng.com/impact-world-bank-begin-revitalisation-of-58-nasarawa-health-centres/) (The Punch)
 
 - [Muere el científico colombiano Manuel Elkin Patarroyo, padre de vacuna contra la malaria](https://www.montevideo.com.uy/Salud/Muere-el-cientifico-colombiano-Manuel-Elkin-Patarroyo-padre-de-vacuna-contra-la-malaria-uc911754) (Montevideo.com.uy)
 
@@ -618,6 +630,8 @@ Source: [News API](https://newsapi.org/)
 - [TWiV 1181: Seek and ye shall find, coronaviruses and phage](https://www.microbe.tv/twiv/twiv-1181/) (Microbe.tv)
 
 ## 25-2 (dengue)
+
+- [Dengue foi mais letal que Covid em 2024; veja como se proteger](https://saude.ig.com.br/2025-01-11/dengue-matou-mais-que-covid-2024.html) (Ig.com.br)
 
 - [SP vive aumento de casos de dengue e 14 cidades decretam emergência](https://www.metropoles.com/sao-paulo/sp-vive-aumento-de-casos-de-dengue-e-14-cidades-decretam-emergencia) (Metropoles.com)
 

@@ -1,8 +1,134 @@
 {
-  "last_updated": "2025-01-12 07:05",
-  "count_articles_total": 1342,
-  "count_articles_new": 31,
+  "last_updated": "2025-01-12 19:05",
+  "count_articles_total": 1349,
+  "count_articles_new": 7,
   "articles": [
+    {
+      "id": 17355,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Shi Yu",
+      "title": "14,700 confirmed mpox cases reported in 2024 in Africa: WHO",
+      "description": "KINSHASA, Jan. 11 (Xinhua) -- About 14,700 confirmed mpox cases, including 66 deaths, were reported in 20 African countries from January 2024 to Jan. 5, 2025, the World Health Organization (WHO) said on Saturday. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2025/01/12/14700-confirmed-mpox-cases-reported-in-2024-in-africa-who",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2025-01-11 17:15:00",
+      "content": "KINSHASA, Jan. 11 (Xinhua) -- About 14,700 confirmed mpox cases, including 66 deaths, were reported in 20 African countries from January 2024 to Jan. 5, 2025, the World Health Organization (WHO) said\u2026 [+2051 chars]",
+      "retrievedAt": "2025-01-12 19:05:37.747356",
+      "internal_id": "8c68f2b1ce992e7fa5fa9fb54c90fb595c6920db54a6e194d84c0e76f90d257d",
+      "publishedAtLabel": "Jan 11"
+    },
+    {
+      "id": 17351,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Collins Agwam",
+      "title": "IMPACT, World Bank begin revitalisation of 58 Nasarawa health centres",
+      "description": "The Immunisation Plus and Malaria Progress by Accelerating Coverage and Transforming Service has commenced the revitalisation of 58 Primary Healthcare Centres in Nasarawa State to strengthen access to healthcare services across its 13 local government areas. \u2026",
+      "url": "https://punchng.com/impact-world-bank-begin-revitalisation-of-58-nasarawa-health-centres/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2023/09/23155959/Some-healthcare-facilities.png",
+      "publishedAt": "2025-01-11 16:57:26",
+      "content": "The Immunisation Plus and Malaria Progress by Accelerating Coverage and Transforming Service has commenced the revitalisation of 58 Primary Healthcare Centres in Nasarawa State to strengthen access t\u2026 [+2895 chars]",
+      "retrievedAt": "2025-01-12 19:05:36.567141",
+      "internal_id": "a94b126ccbe8bc00d0050dc541772e6d8d838324fa046f2ddc03bee096c49669",
+      "publishedAtLabel": "Jan 11"
+    },
+    {
+      "id": 17356,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "New Mpox case reported involving local man",
+      "description": "KUALA LUMPUR: The Health Ministry has identified a new Mpox case on Jan 10 (Friday) involving a Malaysian man aged 24. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2025/01/11/new-mpox-case-reported-involving-local-man",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/01/11/3112934.JPG",
+      "publishedAt": "2025-01-11 13:39:00",
+      "content": "KUALA LUMPUR: The Health Ministry has identified a new Mpox case on Jan 10 (Friday) involving a Malaysian man aged 24. The ministry in a statement on Saturday (Jan 11) said that the patient was invo\u2026 [+940 chars]",
+      "retrievedAt": "2025-01-12 19:05:37.776547",
+      "internal_id": "e227f53e3947651d252334010de93f761bb987860336f85e5015faa402cad132",
+      "publishedAtLabel": "Jan 11"
+    },
+    {
+      "id": 17350,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Lu\u00eds Felipe Granado, Lu\u00eds Felipe Granado",
+      "title": "Dengue foi mais letal que Covid em 2024; veja como se proteger",
+      "description": "Alta nos \u00f3bitos por dengue foi de 400%",
+      "url": "https://saude.ig.com.br/2025-01-11/dengue-matou-mais-que-covid-2024.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/ds/5d/2y/ds5d2y8ofngh4qmi3wjhgacex.jpg",
+      "publishedAt": "2025-01-11 12:37:10",
+      "content": "Em 2024, o n\u00famero de mortes causadas pela dengue superou o de \u00f3bitos por covid-19, com 6.041 v\u00edtimas fatais registradas, contra 5.959 mortes relacionadas ao coronav\u00edrus, representando aumento de mai\u2026 [+2888 chars]",
+      "retrievedAt": "2025-01-12 19:05:35.964166",
+      "internal_id": "a47aa214e0269861b8d5ee441860a8f4acd6c26de85fb7e4e3983e3aff5d0862",
+      "publishedAtLabel": "Jan 11"
+    },
+    {
+      "id": 17353,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
+      "author": "La r\u00e9daction avec AFP",
+      "title": "Sierra Leone. Un premier cas de mpox d\u00e9clar\u00e9, des mesures prises pour \u00e9viter une propagation",
+      "description": "Le mpox a commenc\u00e9 \u00e0 s'\u00e9tendre en 2022 dansplusieurs pays, notamment des pays d\u00e9velopp\u00e9s o\u00f9 le virus n'avait jamais circul\u00e9. L'Organisation mondiale de la sant\u00e9 (OMS) a d\u00e9clar\u00e9 son plus haut niveau d'alerte en 2024.",
+      "url": "https://www.ledauphine.com/sante/2025/01/11/un-premier-cas-de-mpox-declare-des-mesures-prises-pour-eviter-une-propagation",
+      "urlToImage": "https://cdn-s-www.ledauphine.com/images/28F471AD-8C8D-4109-850E-0B67177DB68B/FB1200/photo-1736595828.jpg",
+      "publishedAt": "2025-01-11 11:47:00",
+      "content": "Forte fi\u00e8vre, l\u00e9sions cutan\u00e9es Le cas a \u00e9t\u00e9 confirm\u00e9 le 10 janvier par des tests, dit l'agence. Elle ne pr\u00e9cise pas par quel variant le patient est affect\u00e9. Le mpox est caus\u00e9 par un virus de la m\u00eam\u2026 [+1233 chars]",
+      "retrievedAt": "2025-01-12 19:05:37.715598",
+      "internal_id": "a0b341c0069bebd813fd8a243672029fdf6d0c4884b62d9e773a3f5625745072",
+      "publishedAtLabel": "Jan 11"
+    },
+    {
+      "id": 17354,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "BFMTV",
+      "author": null,
+      "title": "Mpox: un premier cas du \"clade 1b\" confirm\u00e9 au Sierra Leone, le patient plac\u00e9 \u00e0 l'isolement",
+      "description": "Le Sierra Leone, pays d'Afrique de l'Ouest, a annonc\u00e9 ce samedi avoir d\u00e9tect\u00e9 son premier cas de mpox, quelques jours apr\u00e8s plusieurs pays dont la France.",
+      "url": "https://www.bfmtv.com/international/mpox-un-premier-cas-du-clade-1b-confirme-au-sierra-leone-le-patient-place-a-l-isolement_AD-202501110222.html",
+      "urlToImage": "https://images.bfmtv.com/bUJRxEDxqoyd84EpQc1n6CwI_hA=/0x39:768x471/768x0/images/Un-patient-infecte-par-le-mpox-a-Kamituga-le-20-septembre-2024-dans-l-est-de-la-RDC-2008284.jpg",
+      "publishedAt": "2025-01-11 11:07:12",
+      "content": "Le Sierra Leone, pays d'Afrique de l'Ouest, a annonc\u00e9 ce samedi avoir d\u00e9tect\u00e9 son premier cas de mpox, quelques jours apr\u00e8s plusieurs pays dont la France. La Sierra Leone a d\u00e9clar\u00e9 son premier cas c\u2026 [+1902 chars]",
+      "retrievedAt": "2025-01-12 19:05:37.734380",
+      "internal_id": "b12e1e49e36f74063e706a886b584f676302610bb110cb27c187f831391eec18",
+      "publishedAtLabel": "Jan 11"
+    },
+    {
+      "id": 17352,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Reda\u00e7\u00e3o Terra",
+      "title": "\u2018Ou a gente d\u00e1 um jeito, ou as crian\u00e7as morrem\u2019, desabafa m\u00e3e de filha com s\u00edndrome cong\u00eanita da Zika ap\u00f3s Lula vetar pens\u00e3o vital\u00edcia",
+      "description": "Em contrapartida ao projeto de lei, governo criou MP que prev\u00ea aux\u00edlio \u00fanico de R$ 60 mil; entenda",
+      "url": "https://www.terra.com.br/noticias/ou-a-gente-da-um-jeito-ou-as-criancas-morrem-desabafa-mae-de-filha-com-sindrome-congenita-da-zika-apos-lula-vetar-pensao-vitalicia,cf6f0b0b85c83ce3059c9fa14e344ae75kd2ixhx.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/01/11/nadia-to4ix20dm050.jpeg",
+      "publishedAt": "2025-01-11 10:43:19",
+      "content": "Desrespeitoso e cruel. Essa \u00e9 a forma como N\u00e1dia Silva, de 32 anos, encara o veto total do presidente Lula ao projeto de lei que buscava garantir uma indeniza\u00e7\u00e3o de R$ 50 mil acrescida de uma pens\u00e3o \u2026 [+7808 chars]",
+      "retrievedAt": "2025-01-12 19:05:37.006984",
+      "internal_id": "08f5db209b4b5a3f97c57a4481a6e786a7b7f0d4685e5fb9e6b1639219f2e2db",
+      "publishedAtLabel": "Jan 11"
+    },
     {
       "id": 17347,
       "query": [
