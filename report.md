@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 13
-- **Last harvest:** 2025-01-13 07:07
-- **Most recent article:** 2025-01-12 05:30:00
+- **New articles in last harvest:** 5
+- **Last harvest:** 2025-01-13 19:05
+- **Most recent article:** 2025-01-12 16:00:00
 
 ---
 
@@ -12,10 +12,10 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-49 | 24-50 | 24-51 | 24-52 | 24-53 | 25-1 | 25-2 | 25-3 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| h5n1 | 70 | 61 | 112 | 65 | 27 | 27 | 131 | 2 | 495 |
+| h5n1 | 70 | 61 | 112 | 65 | 27 | 27 | 131 | 6 | 499 |
 | mpox | 20 | 26 | 92 | 35 | 2 | 6 | 91 | 0 | 272 |
 | malaria | 27 | 76 | 60 | 30 | 15 | 10 | 30 | 0 | 248 |
-| dengue | 10 | 33 | 30 | 24 | 6 | 12 | 41 | 0 | 156 |
+| dengue | 10 | 33 | 30 | 24 | 6 | 12 | 41 | 1 | 157 |
 | measles | 9 | 10 | 6 | 11 | 3 | 6 | 6 | 0 | 51 |
 | hpai | 2 | 4 | 6 | 12 | 1 | 4 | 18 | 0 | 47 |
 | rabies | 13 | 3 | 7 | 8 | 1 | 1 | 2 | 0 | 35 |
@@ -35,9 +35,21 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-3 (h5n1)
 
+- [First US human death from bird flu is more serious than you may think](https://newatlas.com/infectious-diseases/first-us-human-death-bird-flu/) (New Atlas)
+
+- [Homem de 28 anos do Camboja morre de gripe aviária. País apura caso](https://www.metropoles.com/saude/homem-28-camboja-morre-gripe-aviaria) (Metropoles.com)
+
+- [नोरोव्हायरस, बर्ड फ्लू की कोरोना... हिवाळ्यात कोणता जास्त धोकादायक आणि तो कसा टाळायचा?](https://www.lokmat.com/sakhi/health/lifestyle-diseases/health-tips-norovirus-vs-bird-flu-vs-covid-19-which-is-more-dangerous-in-winter-a-a597/) (Lokmat.com)
+
+- [Llama la UNAM a vigilar la evolución de la gripe aviar](https://www.jornada.com.mx/2025/01/12/sociedad/027n2soc) (Jornada.com.mx)
+
 - [Cats Could Spread Deadly Bird Flu to Humans: Study](https://m.economictimes.com/news/web-stories/cats-could-spread-deadly-bird-flu-to-humans-study/slideshow/117045365.cms) (Economictimes.com)
 
 - [UNAM pide a México a estar alerta ante la evolución del virus de influenza H5N1, ¿por qué?](https://www.elfinanciero.com.mx/salud/2025/01/11/unam-pide-a-mexico-a-estar-alerta-ante-la-evolucion-del-virus-de-influenza-h5n1-por-que/) (El Financiero)
+
+## 25-3 (dengue)
+
+- [Saúde falha em pontos sensíveis e fragiliza a situação de Nísia Trindade](https://veja.abril.com.br/politica/saude-falha-em-pontos-sensiveis-e-fragiliza-a-situacao-de-nisia-trindade) (Abril.com.br)
 
 ## 25-2 (zika)
 
