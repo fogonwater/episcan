@@ -1,8 +1,134 @@
 {
-  "last_updated": "2025-01-12 19:05",
-  "count_articles_total": 1349,
-  "count_articles_new": 7,
+  "last_updated": "2025-01-13 07:07",
+  "count_articles_total": 1362,
+  "count_articles_new": 13,
   "articles": [
+    {
+      "id": 17358,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Economictimes.com",
+      "author": "ET Online",
+      "title": "Cats Could Spread Deadly Bird Flu to Humans: Study",
+      "description": "A recent study warns that pet cats may act as carriers for H5N1 avian influenza, a deadly strain responsible for the deaths of over 100 million birds in the US in the last two and a half years and could spread more easily to humans, posing a significant publi\u2026",
+      "url": "https://m.economictimes.com/news/web-stories/cats-could-spread-deadly-bird-flu-to-humans-study/slideshow/117045365.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-117045388,width-900,height-1200,resizemode-6.cms",
+      "publishedAt": "2025-01-12 05:30:00",
+      "content": "Dr. Suresh Kuchipudi, a study co-author, warned that while attention is focused on dairy farms and human surveillance, the evolving threat of bird flu in cats may be overlooked.",
+      "retrievedAt": "2025-01-13 07:07:18.817757",
+      "internal_id": "43f383f789ce5e82a62f741ca270e261eff3d78db847a85403650825ce93daba",
+      "publishedAtLabel": "Jan 12"
+    },
+    {
+      "id": 17357,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "El Financiero",
+      "author": "Redacci\u00f3n",
+      "title": "UNAM pide a M\u00e9xico a estar alerta ante la evoluci\u00f3n del virus de influenza H5N1, \u00bfpor qu\u00e9?",
+      "description": "El experto explic\u00f3 que actualmente en M\u00e9xico no se reportan casos de personas ni de animales con el virus de influenza H5N1, pero pidi\u00f3 estar alertas.",
+      "url": "https://www.elfinanciero.com.mx/salud/2025/01/11/unam-pide-a-mexico-a-estar-alerta-ante-la-evolucion-del-virus-de-influenza-h5n1-por-que/",
+      "urlToImage": "https://elfinanciero.com.mx/resizer/v2/YIAO2P4NARBBXK3472XO7GGE7M.jpg?smart=true&auth=bed28e9e5e2b91d0ec59297659cba8a057c60b73c7816a5cb700b27ac279a92f&width=1200&height=630",
+      "publishedAt": "2025-01-12 00:56:27",
+      "content": "La Universidad Nacional Aut\u00f3noma de M\u00e9xico (UNAM) advirti\u00f3 este s\u00e1bado 11 de enero que, tras el reporte de la muerte de una persona en Estados Unidos a causa de la influenza aviar altamente pat\u00f3gena \u2026 [+3854 chars]",
+      "retrievedAt": "2025-01-13 07:07:18.749398",
+      "internal_id": "d0955b3f71e70e497523f1ac0bf5df6da7d90a6ded0d658c0384b62e81cd795a",
+      "publishedAtLabel": "Jan 12"
+    },
+    {
+      "id": 17367,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Estadao.com.br",
+      "author": "Eliane Cantanh\u00eade",
+      "title": "Marketing faz bem, mas n\u00e3o resolve infla\u00e7\u00e3o, dengue, falta de gest\u00e3o nem Congresso guloso",
+      "description": "Marketing faz bem, mas n\u00e3o resolve infla\u00e7\u00e3o, dengue, falta de gest\u00e3o nem Congresso gulosoestadao.com.br",
+      "url": "https://www.estadao.com.br/politica/eliane-cantanhede/marketing-faz-bem-mas-nao-resolve-inflacao-dengue-falta-de-gestao-nem-congresso-guloso/",
+      "urlToImage": "https://www.estadao.com.br/resizer/v2/JCVGRFFJQ5DFZCB5SSCLTRQGQM.jpg?quality=80&auth=d732b7279aca995bae0fb4951aefaf8b039637dc16488407c3de5755cec8cf5f&width=1200&height=630&smart=true",
+      "publishedAt": "2025-01-11 23:39:15",
+      "content": "Demorou, mas aconteceu o que Bras\u00edlia inteira previa: o petista ga\u00facho Paulo Pimenta sai e o baiano Sid\u00f4nio Palmeira entra na Secretaria de Comunica\u00e7\u00e3o da Presid\u00eancia, com carta branca para montar a \u2026 [+2740 chars]",
+      "retrievedAt": "2025-01-13 07:07:19.625728",
+      "internal_id": "42d59bd67c0f56ab681ee86ec21cd435c7c6d77e56d0f0034a8d6a42e1ddddc5",
+      "publishedAtLabel": "Jan 11"
+    },
+    {
+      "id": 17366,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Nacion.com",
+      "author": "Irene Rodr\u00edguez",
+      "title": "Cosmopolitan, la nueva variante del virus del dengue que est\u00e1 en Costa Rica, \u00bfc\u00f3mo es?",
+      "description": "Costa Rica detect\u00f3 la presencia de una nueva variante del Dengue 2, llamada Cosmopolitan, en esta nota explicamos de qu\u00e9 se trata.",
+      "url": "https://www.nacion.com/el-pais/cosmopolitan-la-nueva-variante-del-virus-del/ASP3LQPMR5HF5FAB63EDDDYTU4/story/",
+      "urlToImage": "https://www.nacion.com/resizer/v2/IHACKQVTKBGJBJCZIDEHF74S6U.jpg?smart=true&auth=1d69bf4088c92936b2438de96918683828b740b007672e9703e93dd46a161266&width=1440",
+      "publishedAt": "2025-01-11 22:25:05",
+      "content": "Los virus mutan, es decir, cambian su gen\u00e9tica. Estas mutaciones generan nuevas variantes, algo que se vio frecuentemente con el SARS-CoV-2, causante de covid-19.El virus que causa el dengue sigue el\u2026 [+8180 chars]",
+      "retrievedAt": "2025-01-13 07:07:19.595253",
+      "internal_id": "f80ec6c7d710d39a60fdc86b966199e5114a59b8c14c9e27fc0dc9d839fffbab",
+      "publishedAtLabel": "Jan 11"
+    },
+    {
+      "id": 17365,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "info-money",
+      "source_name": "InfoMoney",
+      "author": "murilomelo",
+      "title": "21 cidades de S\u00e3o Paulo decretam estado de emerg\u00eancia para dengue",
+      "description": "Entre as cidades afetadas est\u00e3o S\u00e3o Jos\u00e9 dos Campos, Jacare\u00ed, Esp\u00edrito Santo do Pinhal e S\u00e3o Jos\u00e9 do Rio Preto The post 21 cidades de S\u00e3o Paulo decretam estado de emerg\u00eancia para dengue appeared first on InfoMoney.",
+      "url": "https://www.infomoney.com.br/saude/21-cidades-de-sao-paulo-decretam-estado-de-emergencia-para-dengue/",
+      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2024/10/aedes-mosquito-c-niaid.webp?quality=70",
+      "publishedAt": "2025-01-11 20:59:54",
+      "content": "Ao todo, 21 munic\u00edpios j\u00e1 decretaram estado de emerg\u00eancia para a dengue neste in\u00edcio de 2025, diz a Secretaria de Estado de Sa\u00fade (SES-SP). Entre as cidades afetadas est\u00e3o S\u00e3o Jos\u00e9 dos Campos, Jacare\u2026 [+1834 chars]",
+      "retrievedAt": "2025-01-13 07:07:19.536647",
+      "internal_id": "5998e86e157bbd7c0edc8e12b65a020c587187d34b9c0e7d6bc3cbf8256e5d8b",
+      "publishedAtLabel": "Jan 11"
+    },
+    {
+      "id": 17369,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": "lenta",
+      "source_name": "Lenta",
+      "author": "\u041c\u0430\u0440\u0433\u0430\u0440\u0438\u0442\u0430 \u041f\u0438\u043c\u0435\u043d\u043e\u0432\u0430",
+      "title": "\u0423\u0447\u0435\u043d\u044b\u0435 \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u043b\u0438 \u0448\u0442\u0430\u043c\u043c \u0432\u043e\u0437\u0431\u0443\u0434\u0438\u0442\u0435\u043b\u044f \u043e\u0434\u043d\u043e\u0439 \u0438\u0437 \u0441\u0430\u043c\u044b\u0445 \u0440\u0430\u0437\u0440\u0443\u0448\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0445 \u043f\u0430\u043d\u0434\u0435\u043c\u0438\u0439 \u0447\u0443\u043c\u044b",
+      "description": "\u0418\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u0442\u0435\u043b\u0438 \u0438\u0437 \u041e\u043a\u0441\u0444\u043e\u0440\u0434\u0441\u043a\u043e\u0433\u043e \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0430 \u0432 \u0412\u0435\u043b\u0438\u043a\u043e\u0431\u0440\u0438\u0442\u0430\u043d\u0438\u0438 \u0432\u043f\u0435\u0440\u0432\u044b\u0435 \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u043b\u0438 \u0432\u043e\u0437\u0431\u0443\u0434\u0438\u0442\u0435\u043b\u044f \u042e\u0441\u0442\u0438\u043d\u0438\u0430\u043d\u043e\u0432\u043e\u0439 \u0447\u0443\u043c\u044b \u2014 \u043e\u0434\u043d\u043e\u0439 \u0438\u0437 \u0441\u0430\u043c\u044b\u0445 \u0440\u0430\u0437\u0440\u0443\u0448\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0445 \u043f\u0430\u043d\u0434\u0435\u043c\u0438\u0439 \u0432 \u0438\u0441\u0442\u043e\u0440\u0438\u0438 \u0447\u0435\u043b\u043e\u0432\u0435\u0447\u0435\u0441\u0442\u0432\u0430. \u0420\u0430\u0431\u043e\u0442\u0430 \u043e\u043f\u0443\u0431\u043b\u0438\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0436\u0443\u0440\u043d\u0430\u043b\u0435 Nature",
+      "url": "https://lenta.ru/news/2025/01/11/uchenye-vosstanovili-shtamm-vozbuditelya-odnoy-iz-samyh-razrushitelnyh-pandemiy-chumy/",
+      "urlToImage": "https://icdn.lenta.ru/images/2025/01/11/23/20250111233319989/share_3f2f237a492ba99adba012e154ab8268.jpg",
+      "publishedAt": "2025-01-11 20:28:23",
+      "content": ". Nature. . , . , Yersinia pestis, \u00ab \u00bb XIV . 30 , . , 25 VIVII . . , , , . , 541-750 , . , , , .",
+      "retrievedAt": "2025-01-13 07:07:23.257853",
+      "internal_id": "47f68fb9156985dbf37bc9d663db014d381ab0cfcff3eed7d281a6b80d8c8096",
+      "publishedAtLabel": "Jan 11"
+    },
+    {
+      "id": 17368,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Mail.ru",
+      "author": "\u041e\u043b\u044c\u0433\u0430 \u0428\u0443\u043c\u0435\u0439\u043a\u043e",
+      "title": "\u0423\u0447\u0435\u043d\u044b\u0435 \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u043b\u0438 \u0448\u0442\u0430\u043c\u043c \u0441\u0430\u043c\u043e\u0439 \u043e\u043f\u0430\u0441\u043d\u043e\u0439 \u0447\u0443\u043c\u044b VI \u0432\u0435\u043a\u0430",
+      "description": "\u0413\u0440\u0443\u043f\u043f\u0430 \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u0442\u0435\u043b\u0435\u0439 \u0438\u0437 \u041e\u043a\u0441\u0444\u043e\u0440\u0434\u0441\u043a\u043e\u0433\u043e \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0430 \u0432\u043f\u0435\u0440\u0432\u044b\u0435 \u0440\u0435\u043a\u043e\u043d\u0441\u0442\u0440\u0443\u0438\u0440\u043e\u0432\u0430\u043b\u0430 \u0448\u0442\u0430\u043c\u043c \u0432\u043e\u0437\u0431\u0443\u0434\u0438\u0442\u0435\u043b\u044f \u042e\u0441\u0442\u0438\u043d\u0438\u0430\u043d\u043e\u0432\u043e\u0439 \u0447\u0443\u043c\u044b \u2014 \u043e\u0434\u043d\u043e\u0439 \u0438\u0437 \u0441\u0430\u043c\u044b\u0445 \u0440\u0430\u0437\u0440\u0443\u0448\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0445 \u043f\u0430\u043d\u0434\u0435\u043c\u0438\u0439 \u0432 \u0438\u0441\u0442\u043e\u0440\u0438\u0438 \u0447\u0435\u043b\u043e\u0432\u0435\u0447\u0435\u0441\u0442\u0432\u0430. \u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u044b \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u044f \u043e\u043f\u0443\u0431\u043b\u0438\u043a\u043e\u0432\u0430\u043d\u044b \u0432 \u0436\u0443\u0440\u043d\u0430\u043b\u0435 Nature.",
+      "url": "https://vfokuse.mail.ru/article/uchenye-vosstanovili-shtamm-samoy-opasnoy-chumy-vi-veka-64401308/",
+      "urlToImage": "https://resizer.mail.ru/p/9da393ab-7191-5496-a238-3703d2003d7e/op:15/logo:bottom:vfokuse.png/AQAGpRXASugcVo5TRmEKBLi3DScIxpgx-gEzIUFMWcNNkLWdRNFRBIfBiuLPFY5200uGIa5ffyzISp0StaDvOYNTD0M.jpg",
+      "publishedAt": "2025-01-11 20:07:06",
+      "content": ". , . , Yersinia pestis, \u00ab \u00bb XIV .",
+      "retrievedAt": "2025-01-13 07:07:23.250557",
+      "internal_id": "f6b6154ae5d7e93378f622ad56954f5df00ccdd0296d11097b0daf45ff9397a7",
+      "publishedAtLabel": "Jan 11"
+    },
     {
       "id": 17355,
       "query": [
@@ -168,7 +294,8 @@
     {
       "id": 17348,
       "query": [
-        "mpox"
+        "mpox",
+        "h5n1"
       ],
       "source_id": null,
       "source_name": "Microbe.tv",
@@ -240,6 +367,60 @@
       "publishedAtLabel": "Jan 11"
     },
     {
+      "id": 17361,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Brenda Goodman",
+      "title": "California child is presumed positive for bird flu | CNN",
+      "description": "A child in San Francisco who had red eyes and a fever had a probable case of H5N1 bird flu, according to the city\u2019s Department of Public Health.",
+      "url": "https://www.cnn.com/2025/01/10/health/california-child-bird-flu/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1134489551-20250110234839582.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2025-01-11 00:32:29",
+      "content": "A child in San Francisco who had red eyes and a fever had a probable case of H5N1 bird flu, according to the citys Department of Public Health. The case was caught by routine surveillance. When the \u2026 [+1670 chars]",
+      "retrievedAt": "2025-01-13 07:07:18.882693",
+      "internal_id": "f81d610d71814251582c991b54a9e71fdc522f6e82e14273f36dcc8c9a8a84cc",
+      "publishedAtLabel": "Jan 11"
+    },
+    {
+      "id": 17359,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "NBC Bay Area",
+      "author": "Bay City News",
+      "title": "Presumptive bird flu case identified in San Francisco",
+      "description": "A presumptive case of H5N1 bird flu has been identified in a child who resides in San Francisco.",
+      "url": "https://www.nbcbayarea.com/news/local/san-francisco/presumptive-bird-flu-case/3757476/",
+      "urlToImage": "https://media.nbcbayarea.com/2025/01/BIRD-FLU-MICROSCOPE_e53139.jpg?quality=85&strip=all&resize=1200%2C675",
+      "publishedAt": "2025-01-11 00:25:33",
+      "content": "A presumptive case of H5N1 bird flu has been identified in a child who resides in San Francisco, the city's department of public health announced Friday. The child had a fever and conjunctivitis but\u2026 [+761 chars]",
+      "retrievedAt": "2025-01-13 07:07:18.868381",
+      "internal_id": "7fdbffdb52d9e821c150a0f6f7e00fc36afbf206c0cadd94701c30e37304537b",
+      "publishedAtLabel": "Jan 11"
+    },
+    {
+      "id": 17363,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Tim Fang",
+      "title": "San Francisco health officials say presumptive bird flu case found in child",
+      "description": "Health officials in San Francisco announced Friday that they are investigating a presumptive case of H5N1 bird flu that was found in a child who lives in the city.",
+      "url": "https://www.cbsnews.com/sanfrancisco/news/bird-flu-sf-health-officials-say-case-found-in-child-h5n1/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/11/13/64d021f6-4444-4002-a5e4-8b9cf3ace186/thumbnail/1200x630/e8f20e6a9bd8a29391fcddcd8a70c4c0/ap24312642041229.jpg?v=c32e88638f4c371ec40100fff0bc2158",
+      "publishedAt": "2025-01-11 00:04:56",
+      "content": "Health officials in San Francisco announced Friday that they are investigating a presumptive case of H5N1 bird flu that was found in a child who lives in the city. According to the city's Department\u2026 [+1596 chars]",
+      "retrievedAt": "2025-01-13 07:07:18.897055",
+      "internal_id": "45846ca371367ee7b018d3ba0501d7cd350d7fdbba775516d703854baeb2f7c8",
+      "publishedAtLabel": "Jan 11"
+    },
+    {
       "id": 17328,
       "query": [
         "h5n1"
@@ -292,6 +473,24 @@
       "content": "The National Public Health Agency (NPHA) and the Ministry of Health (MoH) have confirmed Sierra Leone\u2019s first case of Mpox, marking a significant public health challenge since the World Health Organi\u2026 [+2562 chars]",
       "retrievedAt": "2025-01-12 07:05:58.775195",
       "internal_id": "f9143094159b867f972a06ab2098a8e85d1cd2161d8f12da35079421d160df3e",
+      "publishedAtLabel": "Jan 10"
+    },
+    {
+      "id": 17364,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "WDIV ClickOnDetroit",
+      "author": "Kayla Clarke",
+      "title": "11 people being monitored after bird flu exposure at Oakland County park",
+      "description": "Eleven people are being monitored after being exposed to bird flu at an animal exhibit farm in a Waterford Township park.",
+      "url": "https://www.clickondetroit.com/health/2025/01/10/11-people-being-monitored-after-bird-flu-exposure-at-oakland-county-park/",
+      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/AWTVJZ42TRDGVPKRXJII7QR6DM.jpg?_a=DATAdtfiZAA0",
+      "publishedAt": "2025-01-10 20:27:27",
+      "content": "OAKLAND COUNTY, Mich. Eleven people are being monitored after being exposed to bird flu at an animal exhibit farm in a Waterford Township park. Bird flu, also known as Type A H5N1 influenza, is wide\u2026 [+4271 chars]",
+      "retrievedAt": "2025-01-13 07:07:18.904181",
+      "internal_id": "bea32f2a1b7e055bc5183af5d8a4af0e9347b479da69587383b6aefc9a9a54ea",
       "publishedAtLabel": "Jan 10"
     },
     {
@@ -655,6 +854,24 @@
       "content": "Las adaptaciones gen\u00e9ticas que han desarrollado los chimpanc\u00e9s no solo les ayudan a sobrevivir en los h\u00e1bitats que ocupan (selva y sabana) sino que incluso les protegen de algunas infecciones como la\u2026 [+4746 chars]",
       "retrievedAt": "2025-01-11 07:05:56.693848",
       "internal_id": "a5e26fd5dc7ee561d22b628e9eafa09679ab5999d3d2db591c6a059c5d89dafe",
+      "publishedAtLabel": "Jan 10"
+    },
+    {
+      "id": 17360,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Detroit Free Press",
+      "author": "Kristen Jordan Shamus",
+      "title": "2 people sick, 9 monitored after H5N1 bird flu hits Oakland Co. flock",
+      "description": "Two people are sick in Oakland County and nine others are being monitored after they had contact with H5N1 bird flu from an infected backyard flock.",
+      "url": "https://www.freep.com/story/news/health/2025/01/09/h5n1-bird-flu-oakland-county-backyard-flock-2-people-sick-9-others-monitored/77582797007/",
+      "urlToImage": "https://www.freep.com/gcdn/-mm-/3eaf3ebd838c11ef2ca85f77b8eeca8096ecaf42/c=0-370-3731-2478/local/-/media/2015/07/02/GreenBay/B9317948197Z.1_20150702195133_000_G81B8JBM4.1-0.jpg?width=3200&height=1808&fit=crop&format=pjpg&auto=webp",
+      "publishedAt": "2025-01-10 01:04:41",
+      "content": "Two people are sick and in isolation in Oakland County and nine others are being monitored after they had direct contact with H5N1 bird flu from an infected backyard flock, a spokesperson for Oakland\u2026 [+9438 chars]",
+      "retrievedAt": "2025-01-13 07:07:18.875642",
+      "internal_id": "9716916d4539cad3525993f884cb75ea449dfc873d5116ffea671d637f063153",
       "publishedAtLabel": "Jan 10"
     },
     {
@@ -1703,6 +1920,24 @@
       "content": "(Bloomberg Opinion) -- One of the World Health Organizations most important jobs is managing viral outbreaks. The rapid spread of mpox, a disease related to smallpox, is a reminder of its shortcoming\u2026 [+4582 chars]",
       "retrievedAt": "2025-01-10 07:06:26.316482",
       "internal_id": "454a41768d180f8433445f5122a3904e1a368aae64a3ab8343b9ada502f1dd31",
+      "publishedAtLabel": "Jan 9"
+    },
+    {
+      "id": 17362,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "WLS-TV",
+      "author": "Brenda Goodman",
+      "title": "Bird flu outbreak: Is H5N1 the next pandemic? What to know after the first death in the US, egg shortages and milk shortages",
+      "description": "With reports of the first human death from bird flu in the US, some Americans are feeling an uncomfortable flashback to the early days of Covid-19.",
+      "url": "https://abc7chicago.com/post/bird-flu-outbreak-is-h5n1-pandemic-what-know-first-death-us-egg-shortages-milk/15780103/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/15780112_010825-wls-bird-flu-5vosot-vid.jpg?w=1600",
+      "publishedAt": "2025-01-09 01:52:53",
+      "content": "With reports of the first human death from bird flu in the US, some Americans are feeling an uncomfortable flashback to the early days of Covid-19, when infectious disease experts were talking about \u2026 [+10042 chars]",
+      "retrievedAt": "2025-01-13 07:07:18.890091",
+      "internal_id": "0fe96f650ce5b96acf96114e0f0ee164b79afc6982334e46ddf1538d9d3a0ede",
       "publishedAtLabel": "Jan 9"
     },
     {

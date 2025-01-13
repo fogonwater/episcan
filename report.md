@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 7
-- **Last harvest:** 2025-01-12 19:05
-- **Most recent article:** 2025-01-11 17:15:00
+- **New articles in last harvest:** 13
+- **Last harvest:** 2025-01-13 07:07
+- **Most recent article:** 2025-01-12 05:30:00
 
 ---
 
@@ -10,28 +10,34 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 24-49 | 24-50 | 24-51 | 24-52 | 24-53 | 25-1 | 25-2 | Total |
-|--|-|-|-|-|-|-|-|-|
-| h5n1 | 70 | 61 | 112 | 65 | 27 | 27 | 124 | 486 |
-| mpox | 20 | 26 | 92 | 35 | 2 | 6 | 91 | 272 |
-| malaria | 27 | 76 | 60 | 30 | 15 | 10 | 30 | 248 |
-| dengue | 10 | 33 | 30 | 24 | 6 | 12 | 38 | 153 |
-| measles | 9 | 10 | 6 | 11 | 3 | 6 | 6 | 51 |
-| hpai | 2 | 4 | 6 | 12 | 1 | 4 | 18 | 47 |
-| rabies | 13 | 3 | 7 | 8 | 1 | 1 | 2 | 35 |
-| chikungunya | 6 | 7 | 8 | 0 | 2 | 0 | 7 | 30 |
-| zika | 4 | 4 | 4 | 2 | 0 | 0 | 15 | 29 |
-| pertussis | 4 | 6 | 4 | 6 | 0 | 1 | 2 | 23 |
-| meningitis | 3 | 7 | 5 | 3 | 1 | 2 | 0 | 21 |
-| yersinia | 0 | 0 | 0 | 6 | 0 | 0 | 1 | 7 |
-| leptospirosis | 0 | 3 | 0 | 2 | 0 | 0 | 0 | 5 |
-| shigellosis | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 1 |
-| typhoid | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 1 |
+| Disease | 24-49 | 24-50 | 24-51 | 24-52 | 24-53 | 25-1 | 25-2 | 25-3 | Total |
+|--|-|-|-|-|-|-|-|-|-|
+| h5n1 | 70 | 61 | 112 | 65 | 27 | 27 | 131 | 2 | 495 |
+| mpox | 20 | 26 | 92 | 35 | 2 | 6 | 91 | 0 | 272 |
+| malaria | 27 | 76 | 60 | 30 | 15 | 10 | 30 | 0 | 248 |
+| dengue | 10 | 33 | 30 | 24 | 6 | 12 | 41 | 0 | 156 |
+| measles | 9 | 10 | 6 | 11 | 3 | 6 | 6 | 0 | 51 |
+| hpai | 2 | 4 | 6 | 12 | 1 | 4 | 18 | 0 | 47 |
+| rabies | 13 | 3 | 7 | 8 | 1 | 1 | 2 | 0 | 35 |
+| chikungunya | 6 | 7 | 8 | 0 | 2 | 0 | 7 | 0 | 30 |
+| zika | 4 | 4 | 4 | 2 | 0 | 0 | 15 | 0 | 29 |
+| pertussis | 4 | 6 | 4 | 6 | 0 | 1 | 2 | 0 | 23 |
+| meningitis | 3 | 7 | 5 | 3 | 1 | 2 | 0 | 0 | 21 |
+| yersinia | 0 | 0 | 0 | 6 | 0 | 0 | 3 | 0 | 9 |
+| leptospirosis | 0 | 3 | 0 | 2 | 0 | 0 | 0 | 0 | 5 |
+| shigellosis | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 1 |
+| typhoid | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
 
 
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 25-3 (h5n1)
+
+- [Cats Could Spread Deadly Bird Flu to Humans: Study](https://m.economictimes.com/news/web-stories/cats-could-spread-deadly-bird-flu-to-humans-study/slideshow/117045365.cms) (Economictimes.com)
+
+- [UNAM pide a México a estar alerta ante la evolución del virus de influenza H5N1, ¿por qué?](https://www.elfinanciero.com.mx/salud/2025/01/11/unam-pide-a-mexico-a-estar-alerta-ante-la-evolucion-del-virus-de-influenza-h5n1-por-que/) (El Financiero)
 
 ## 25-2 (zika)
 
@@ -66,6 +72,10 @@ Source: [News API](https://newsapi.org/)
 - [A low pre-existing anti-NS1 humoral immunity to DENV is associated with microcephaly development after gestational ZIKV exposure](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012193) (Plos.org)
 
 ## 25-2 (yersinia)
+
+- [Ученые восстановили штамм возбудителя одной из самых разрушительных пандемий чумы](https://lenta.ru/news/2025/01/11/uchenye-vosstanovili-shtamm-vozbuditelya-odnoy-iz-samyh-razrushitelnyh-pandemiy-chumy/) (Lenta)
+
+- [Ученые восстановили штамм самой опасной чумы VI века](https://vfokuse.mail.ru/article/uchenye-vosstanovili-shtamm-samoy-opasnoy-chumy-vi-veka-64401308/) (Mail.ru)
 
 - [Covid Vaccine Scientists Creating New Shot for Bubonic Plague](https://legalinsurrection.com/2025/01/covid-vaccine-scientists-creating-new-shot-for-bubonic-plague/) (Legalinsurrection.com)
 
@@ -381,9 +391,19 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-2 (h5n1)
 
+- [TWiV 1182: Clinical update with Dr. Daniel Griffin](https://www.microbe.tv/twiv/twiv-1182/) (Microbe.tv)
+
+- [California child is presumed positive for bird flu | CNN](https://www.cnn.com/2025/01/10/health/california-child-bird-flu/index.html) (CNN)
+
+- [Presumptive bird flu case identified in San Francisco](https://www.nbcbayarea.com/news/local/san-francisco/presumptive-bird-flu-case/3757476/) (NBC Bay Area)
+
+- [San Francisco health officials say presumptive bird flu case found in child](https://www.cbsnews.com/sanfrancisco/news/bird-flu-sf-health-officials-say-case-found-in-child-h5n1/) (CBS News)
+
 - [Expert Systems and Traws Pharma Report Breakthrough in H5N1Bird Flu Antiviral Program](https://www.investing.com/news/press-releases/expert-systems-and-traws-pharma-report-breakthrough-in-h5n1bird-flu-antiviral-program-93CH-3807848) (Investing.com)
 
 - [Protection zone in place after bird flu outbreak](https://www.bbc.com/news/articles/c07kexx9yd4o) (BBC News)
+
+- [11 people being monitored after bird flu exposure at Oakland County park](https://www.clickondetroit.com/health/2025/01/10/11-people-being-monitored-after-bird-flu-exposure-at-oakland-county-park/) (WDIV ClickOnDetroit)
 
 - [Cambodge : Un homme meurt de la grippe aviaire après avoir mangé un poulet contaminé](https://www.20minutes.fr/monde/4133107-20250110-cambodge-homme-meurt-grippe-aviaire-apres-avoir-mange-poulet-contamine) (20 Minutes)
 
@@ -394,6 +414,8 @@ Source: [News API](https://newsapi.org/)
 - [ماذا نعرف عن فيروس "أإنفلونزا الطيور".. وهل سيتحوّل إلى جائحة؟](https://arabic.cnn.com/science-and-health/article/2025/01/10/bird-flu-h5n1-pandemic-risk-explained) (CNN)
 
 - [La FDA realizará pruebas en quesos de leche cruda para detectar gripe aviar](https://www.gastronomiaycia.com/la-fda-realizara-pruebas-en-quesos-de-leche-cruda-para-detectar-gripe-aviar/) (Gastronomiaycia.com)
+
+- [2 people sick, 9 monitored after H5N1 bird flu hits Oakland Co. flock](https://www.freep.com/story/news/health/2025/01/09/h5n1-bird-flu-oakland-county-backyard-flock-2-people-sick-9-others-monitored/77582797007/) (Detroit Free Press)
 
 - [How worried should we be about a bird flu pandemic?](https://www.newscientist.com/article/2463511-how-worried-should-we-be-about-a-bird-flu-pandemic/) (New Scientist)
 
@@ -418,6 +440,8 @@ Source: [News API](https://newsapi.org/)
 - [नागपुर में चिकन खाने से हुई तीन बाघ और एक तेंदुए की मौत? बर्ड फ्लू की आशंका](https://www.aajtak.in/india/maharashtra/story/nagpur-news-three-tigers-and-leopard-died-by-bird-flu-after-eating-chicken-lclr-dskc-2139496-2025-01-09) (Aajtak.in)
 
 - [كيف يمكن أن تساعد الإنفلونزا العادية في الدفاع عنك إذا أصبت بإنفلونزا الطيور؟](https://www.aljazeera.net/health/2025/1/9/%d9%83%d9%8a%d9%81-%d9%8a%d9%85%d9%83%d9%86-%d8%a3%d9%86-%d8%aa%d8%b3%d8%a7%d8%b9%d8%af-%d8%a7%d9%84%d8%a5%d9%86%d9%81%d9%84%d9%88%d9%86%d8%b2%d8%a7-%d8%a7%d9%84%d8%b9%d8%a7%d8%af%d9%8a%d8%a9) (Aljazeera.net)
+
+- [Bird flu outbreak: Is H5N1 the next pandemic? What to know after the first death in the US, egg shortages and milk shortages](https://abc7chicago.com/post/bird-flu-outbreak-is-h5n1-pandemic-what-know-first-death-us-egg-shortages-milk/15780103/) (WLS-TV)
 
 - [始まった「移民逆流」…米国はトランプ、欧州は極右台頭で大量帰国 H5N1パンデミック発生でグローバル化にトドメ](https://kuromacyo.livedoor.biz/archives/2030361.html) (Livedoor.biz)
 
@@ -630,6 +654,12 @@ Source: [News API](https://newsapi.org/)
 - [TWiV 1181: Seek and ye shall find, coronaviruses and phage](https://www.microbe.tv/twiv/twiv-1181/) (Microbe.tv)
 
 ## 25-2 (dengue)
+
+- [Marketing faz bem, mas não resolve inflação, dengue, falta de gestão nem Congresso guloso](https://www.estadao.com.br/politica/eliane-cantanhede/marketing-faz-bem-mas-nao-resolve-inflacao-dengue-falta-de-gestao-nem-congresso-guloso/) (Estadao.com.br)
+
+- [Cosmopolitan, la nueva variante del virus del dengue que está en Costa Rica, ¿cómo es?](https://www.nacion.com/el-pais/cosmopolitan-la-nueva-variante-del-virus-del/ASP3LQPMR5HF5FAB63EDDDYTU4/story/) (Nacion.com)
+
+- [21 cidades de São Paulo decretam estado de emergência para dengue](https://www.infomoney.com.br/saude/21-cidades-de-sao-paulo-decretam-estado-de-emergencia-para-dengue/) (InfoMoney)
 
 - [Dengue foi mais letal que Covid em 2024; veja como se proteger](https://saude.ig.com.br/2025-01-11/dengue-matou-mais-que-covid-2024.html) (Ig.com.br)
 
