@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 5
-- **Last harvest:** 2025-01-13 19:05
-- **Most recent article:** 2025-01-12 16:00:00
+- **New articles in last harvest:** 8
+- **Last harvest:** 2025-01-14 07:06
+- **Most recent article:** 2025-01-13 06:44:50
 
 ---
 
@@ -12,11 +12,11 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-49 | 24-50 | 24-51 | 24-52 | 24-53 | 25-1 | 25-2 | 25-3 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| h5n1 | 70 | 61 | 112 | 65 | 27 | 27 | 131 | 6 | 499 |
-| mpox | 20 | 26 | 92 | 35 | 2 | 6 | 91 | 0 | 272 |
+| h5n1 | 70 | 61 | 112 | 65 | 27 | 27 | 131 | 10 | 503 |
+| mpox | 20 | 26 | 92 | 35 | 2 | 6 | 91 | 2 | 274 |
 | malaria | 27 | 76 | 60 | 30 | 15 | 10 | 30 | 0 | 248 |
-| dengue | 10 | 33 | 30 | 24 | 6 | 12 | 41 | 1 | 157 |
-| measles | 9 | 10 | 6 | 11 | 3 | 6 | 6 | 0 | 51 |
+| dengue | 10 | 33 | 30 | 24 | 6 | 12 | 41 | 2 | 158 |
+| measles | 9 | 10 | 6 | 11 | 3 | 6 | 6 | 1 | 52 |
 | hpai | 2 | 4 | 6 | 12 | 1 | 4 | 18 | 0 | 47 |
 | rabies | 13 | 3 | 7 | 8 | 1 | 1 | 2 | 0 | 35 |
 | chikungunya | 6 | 7 | 8 | 0 | 2 | 0 | 7 | 0 | 30 |
@@ -33,7 +33,25 @@ Source: [News API](https://newsapi.org/)
 
 ---
 
+## 25-3 (mpox)
+
+- [В Африке с начала декабря выявили более 1,5 тыс. случаев оспы обезьян](https://tass.ru/obschestvo/22862651) (Tass.ru)
+
+- [Mpox Clade I in the U.S. Should Be a Wake-Up Call](https://www.medpagetoday.com/opinion/second-opinions/113735) (MedPage Today)
+
+## 25-3 (measles)
+
+- [Number of cases in Quebec measles outbreak reaches 11](https://www.cbc.ca/news/canada/montreal/measles-quebec-shopping-mall-laval-bookstore-1.7429386) (CBC News)
+
 ## 25-3 (h5n1)
+
+- [Grippe aviaire : comment le monde se prépare à affronter une pandémie](https://www.lexpress.fr/sciences-sante/grippe-aviaire-comment-le-monde-se-prepare-a-affronter-une-pandemie-P6O3E4M5YRHJNEUFNEQSFRUQVM/) (L'Express)
+
+- [One state leads country in human bird flu with nearly 40 confirmed cases](https://www.foxnews.com/health/one-state-leads-country-human-bird-flu-nearly-40-confirmed-cases) (Fox News)
+
+- [Bird flu discovered in a turkey coop in Kibbutz Tzora](https://www.jpost.com/breaking-news/article-837226) (The Jerusalem Post)
+
+- [UNAM alerta sobre virus de influenza H5N1 y recomienda vigilarlo](https://www.milenio.com/politica/unam-recomienda-vigilar-virus-causante-de-la-gripe-aviar) (Milenio)
 
 - [First US human death from bird flu is more serious than you may think](https://newatlas.com/infectious-diseases/first-us-human-death-bird-flu/) (New Atlas)
 
@@ -48,6 +66,8 @@ Source: [News API](https://newsapi.org/)
 - [UNAM pide a México a estar alerta ante la evolución del virus de influenza H5N1, ¿por qué?](https://www.elfinanciero.com.mx/salud/2025/01/11/unam-pide-a-mexico-a-estar-alerta-ante-la-evolucion-del-virus-de-influenza-h5n1-por-que/) (El Financiero)
 
 ## 25-3 (dengue)
+
+- [As dengue cases rise, researchers points to a simple solution: trash cleanup](https://news.stanford.edu/stories/2025/01/waste-reduction-a-key-defense-against-rising-dengue-cases) (Stanford.edu)
 
 - [Saúde falha em pontos sensíveis e fragiliza a situação de Nísia Trindade](https://veja.abril.com.br/politica/saude-falha-em-pontos-sensiveis-e-fragiliza-a-situacao-de-nisia-trindade) (Abril.com.br)
 
