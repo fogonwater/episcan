@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 8
-- **Last harvest:** 2025-01-14 07:06
-- **Most recent article:** 2025-01-13 06:44:50
+- **New articles in last harvest:** 19
+- **Last harvest:** 2025-01-14 19:05
+- **Most recent article:** 2025-01-13 19:01:58
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-49 | 24-50 | 24-51 | 24-52 | 24-53 | 25-1 | 25-2 | 25-3 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| h5n1 | 70 | 61 | 112 | 65 | 27 | 27 | 131 | 10 | 503 |
-| mpox | 20 | 26 | 92 | 35 | 2 | 6 | 91 | 2 | 274 |
-| malaria | 27 | 76 | 60 | 30 | 15 | 10 | 30 | 0 | 248 |
-| dengue | 10 | 33 | 30 | 24 | 6 | 12 | 41 | 2 | 158 |
+| h5n1 | 70 | 61 | 112 | 65 | 27 | 27 | 131 | 15 | 508 |
+| mpox | 20 | 26 | 92 | 35 | 2 | 6 | 91 | 5 | 277 |
+| malaria | 27 | 76 | 60 | 30 | 15 | 10 | 30 | 4 | 252 |
+| dengue | 10 | 33 | 30 | 24 | 6 | 12 | 41 | 4 | 160 |
 | measles | 9 | 10 | 6 | 11 | 3 | 6 | 6 | 1 | 52 |
 | hpai | 2 | 4 | 6 | 12 | 1 | 4 | 18 | 0 | 47 |
-| rabies | 13 | 3 | 7 | 8 | 1 | 1 | 2 | 0 | 35 |
-| chikungunya | 6 | 7 | 8 | 0 | 2 | 0 | 7 | 0 | 30 |
-| zika | 4 | 4 | 4 | 2 | 0 | 0 | 15 | 0 | 29 |
+| rabies | 13 | 3 | 7 | 8 | 1 | 1 | 2 | 1 | 36 |
+| zika | 4 | 4 | 4 | 2 | 0 | 0 | 15 | 3 | 32 |
+| chikungunya | 6 | 7 | 8 | 0 | 2 | 0 | 7 | 1 | 31 |
 | pertussis | 4 | 6 | 4 | 6 | 0 | 1 | 2 | 0 | 23 |
 | meningitis | 3 | 7 | 5 | 3 | 1 | 2 | 0 | 0 | 21 |
 | yersinia | 0 | 0 | 0 | 6 | 0 | 0 | 3 | 0 | 9 |
@@ -33,7 +33,25 @@ Source: [News API](https://newsapi.org/)
 
 ---
 
+## 25-3 (zika)
+
+- [Wrong place, wrong time: Why Zika virus hijacks a protein needed for brain growth](https://www.sciencedaily.com/releases/2025/01/250113134315.htm) (Science Daily)
+
+- [Cientistas descobrem como zika afeta a formação do cérebro de bebês](https://www.metropoles.com/saude/como-zika-afeta-formacao-cerebral) (Metropoles.com)
+
+- [Wrong place, wrong time: Why Zika virus hijacks a protein needed for brain growth](https://phys.org/news/2025-01-wrong-zika-virus-hijacks-protein.html) (Phys.Org)
+
+## 25-3 (rabies)
+
+- [Rabies transmitted from vampires to cattle: An overview](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317214) (Plos.org)
+
 ## 25-3 (mpox)
+
+- [Monday headlines: Smoke and fears](https://themorningnews.org/p/monday-headlines-smoke-and-fears) (Themorningnews.org)
+
+- [Guidance: Clade I mpox contact tracing guidance](https://www.gov.uk/government/publications/clade-i-mpox-contact-tracing-guidance) (Www.gov.uk)
+
+- [Multi-country outbreak of mpox, External situation report #45 - 11 January 2025](https://www.who.int/publications/m/item/multi-country-outbreak-of-mpox--external-situation-report--45---11-january-2025) (World Health Organization)
 
 - [В Африке с начала декабря выявили более 1,5 тыс. случаев оспы обезьян](https://tass.ru/obschestvo/22862651) (Tass.ru)
 
@@ -43,7 +61,27 @@ Source: [News API](https://newsapi.org/)
 
 - [Number of cases in Quebec measles outbreak reaches 11](https://www.cbc.ca/news/canada/montreal/measles-quebec-shopping-mall-laval-bookstore-1.7429386) (CBC News)
 
+## 25-3 (malaria)
+
+- [Identification of novel PfEMP1 variants containing domain cassettes 11, 15 and 8 that mediate the Plasmodium falciparum virulence-associated rosetting phenotype](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012434) (Plos.org)
+
+- [Casein Kinases 2-dependent phosphorylation of the placental ligand VAR2CSA regulates Plasmodium falciparum-infected erythrocytes cytoadhesion](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012861) (Plos.org)
+
+- [Genomic exploration of the journey of Plasmodium vivax in Latin America](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012811) (Plos.org)
+
+- [Dall'Università di Sassari nuova terapia contro la malaria](https://www.ansa.it/sardegna/notizie/2025/01/13/dalluniversita-di-sassari-nuova-terapia-contro-la-malaria_55b8a6a2-6936-42a4-8442-180d7d861556.html) (ANSA.it)
+
 ## 25-3 (h5n1)
+
+- [Two Pet Cats Died Of Bird Flu After Drinking Recalled Raw Milk](https://www.shtfplan.com/member-exclusive/two-pet-cats-died-of-bird-flu-after-drinking-recalled-raw-milk) (Shtfplan.com)
+
+- [Яйца и курица: можно ли через пищу заразиться птичьим гриппом](https://vfokuse.mail.ru/article/yajtsa-i-kuritsa-mozhno-li-cherez-pischu-zarazitsya-ptichim-grippom-64421725/) (Mail.ru)
+
+- [Microbix, API start pilot program for flu tests detection of H5N1 strain](https://thefly.com/permalinks/entry.php/id4050293/MBXBF-Microbix-API-start-pilot-program-for-flu-tests-detection-of-HN-strain) (Thefly.com)
+
+- [La circulación del virus de la gripe aviar en España "sigue siendo limitada", pese a su aumento en Europa](https://www.infosalus.com/salud-investigacion/noticia-circulacion-virus-gripe-aviar-espana-sigue-siendo-limitada-pese-aumento-europa-20250113130806.html) (Infosalus.com)
+
+- [Is bird flu subsiding in Tulare County? What to know as virus reshapes farming practices](https://www.visaliatimesdelta.com/story/news/local/2025/01/13/bird-flu-decline-in-tulare-county-latest-updates-safety-measures/77585645007/) (Visalia Times-Delta and Tulare Advance-Register)
 
 - [Grippe aviaire : comment le monde se prépare à affronter une pandémie](https://www.lexpress.fr/sciences-sante/grippe-aviaire-comment-le-monde-se-prepare-a-affronter-une-pandemie-P6O3E4M5YRHJNEUFNEQSFRUQVM/) (L'Express)
 
@@ -67,9 +105,17 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-3 (dengue)
 
+- [SP tem 21 cidades em situação de emergência por dengue](https://www.infomoney.com.br/saude/sp-tem-21-cidades-em-situacao-de-emergencia-por-dengue/) (InfoMoney)
+
+- [Dengue: SP tem 21 cidades em situação de emergência](https://www.terra.com.br/vida-e-estilo/saude/dengue-sp-tem-21-cidades-em-situacao-de-emergencia,cb9f0c74f749309f7f6f2dc0e1b1bc085pm97v74.html) (Terra.com.br)
+
 - [As dengue cases rise, researchers points to a simple solution: trash cleanup](https://news.stanford.edu/stories/2025/01/waste-reduction-a-key-defense-against-rising-dengue-cases) (Stanford.edu)
 
 - [Saúde falha em pontos sensíveis e fragiliza a situação de Nísia Trindade](https://veja.abril.com.br/politica/saude-falha-em-pontos-sensiveis-e-fragiliza-a-situacao-de-nisia-trindade) (Abril.com.br)
+
+## 25-3 (chikungunya)
+
+- [Mutations in chikungunya virus nsP4 decrease viral fitness and sensitivity to the broad-spectrum antiviral 4′-Fluorouridine](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012859) (Plos.org)
 
 ## 25-2 (zika)
 

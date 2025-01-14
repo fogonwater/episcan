@@ -1,8 +1,350 @@
 {
-  "last_updated": "2025-01-14 07:06",
-  "count_articles_total": 1375,
-  "count_articles_new": 8,
+  "last_updated": "2025-01-14 19:05",
+  "count_articles_total": 1394,
+  "count_articles_new": 19,
   "articles": [
+    {
+      "id": 17390,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "info-money",
+      "source_name": "InfoMoney",
+      "author": "Gabriel",
+      "title": "SP tem 21 cidades em situa\u00e7\u00e3o de emerg\u00eancia por dengue",
+      "description": "Em S\u00e3o Jos\u00e9 do Rio Preto, a prefeitura local estabeleceu a realiza\u00e7\u00e3o de um mutir\u00e3o de combate \u00e0 dengue com apoio de cem detentos do regime semiaberto The post SP tem 21 cidades em situa\u00e7\u00e3o de emerg\u00eancia por dengue appeared first on InfoMoney.",
+      "url": "https://www.infomoney.com.br/saude/sp-tem-21-cidades-em-situacao-de-emergencia-por-dengue/",
+      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2024/10/aedes-mosquito-c-niaid.webp?quality=70",
+      "publishedAt": "2025-01-13 19:01:58",
+      "content": "O ano de 2025 come\u00e7a com sinal de alerta ligado em S\u00e3o Paulo: mais de 18 mil casos prov\u00e1veis de dengue j\u00e1 foram registrados no estado neste ano. At\u00e9 o momento, 21 munic\u00edpios paulistas decretaram emer\u2026 [+6368 chars]",
+      "retrievedAt": "2025-01-14 19:05:40.409657",
+      "internal_id": "66c1744569d9900fd427430b51ed10b2bcc344c2dbac696679b2d8fda838eca0",
+      "publishedAtLabel": "Jan 13"
+    },
+    {
+      "id": 17395,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "Wrong place, wrong time: Why Zika virus hijacks a protein needed for brain growth",
+      "description": "The mosquito-borne Zika virus is known for causing microcephaly, a birth defect in which abnormal brain development results in a smaller-than-expected head. A new study shows that the Zika virus hijacks a host protein called ANKLE2, which happens to be import\u2026",
+      "url": "https://www.sciencedaily.com/releases/2025/01/250113134315.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2025-01-13 18:43:15",
+      "content": "The mosquito-borne Zika virus is known for causing microcephaly, a birth defect in which abnormal brain development results in a smaller-than-expected head. A new study published Jan. 13 in mBio show\u2026 [+3881 chars]",
+      "retrievedAt": "2025-01-14 19:05:41.687380",
+      "internal_id": "02b0b586e86f4a17e64582f35f06892a2ef10b8e5b47bc049f390ef73d9ea7d9",
+      "publishedAtLabel": "Jan 13"
+    },
+    {
+      "id": 17396,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Bruno Bucis",
+      "title": "Cientistas descobrem como zika afeta a forma\u00e7\u00e3o do c\u00e9rebro de beb\u00eas",
+      "description": "Estudo descobriu que o v\u00edrus da zika rouba uma prote\u00edna da placenta que \u00e9 essencial para formar o c\u00e9rebro do beb\u00ea",
+      "url": "https://www.metropoles.com/saude/como-zika-afeta-formacao-cerebral",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/02/06195253/aedes-aegypti-1.jpg",
+      "publishedAt": "2025-01-13 18:18:14",
+      "content": "Pesquisadores da Universidade da Calif\u00f3rnia, dos Estados Unidos, desvendaram o mecanismo pelo qual o v\u00edrus da zika prejudica o desenvolvimento cerebral de beb\u00eas, levando a casos de microcefalia. Em \u2026 [+5869 chars]",
+      "retrievedAt": "2025-01-14 19:05:41.712062",
+      "internal_id": "96307120d1a78eda23e44268ea0e721659891d57a64324798c1a016ecfe55038",
+      "publishedAtLabel": "Jan 13"
+    },
+    {
+      "id": 17389,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Estad\u00e3o Conte\u00fado",
+      "title": "Dengue: SP tem 21 cidades em situa\u00e7\u00e3o de emerg\u00eancia",
+      "description": "Estado j\u00e1 registrou mais de 18 mil casos prov\u00e1veis da doen\u00e7a neste ano e presen\u00e7a do sorotipo 3 preocupa",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/dengue-sp-tem-21-cidades-em-situacao-de-emergencia,cb9f0c74f749309f7f6f2dc0e1b1bc085pm97v74.html",
+      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2025-01-13 17:22:06",
+      "content": "O ano de 2025 come\u00e7a com sinal de alerta ligado em S\u00e3o Paulo: mais de 18 mil casos prov\u00e1veis de dengue j\u00e1 foram registrados no estado neste ano. At\u00e9 o momento, 21 munic\u00edpios paulistas decretaram eme\u2026 [+6344 chars]",
+      "retrievedAt": "2025-01-14 19:05:40.396301",
+      "internal_id": "a9f6b91b8573633708210312968eddaa1439d42a3ec4d470797a7acd515a05e5",
+      "publishedAtLabel": "Jan 13"
+    },
+    {
+      "id": 17399,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Themorningnews.org",
+      "author": null,
+      "title": "Monday headlines: Smoke and fears",
+      "description": "There are now at least 24 dead in the Los Angeles wildfires, with increasing winds bringing the potential this week for \"explosive fire growth.\" / Los Angeles Times \"We're feeling the magnitude of shared suffering.\" TMN's Rosecrans Baldwin on the injustice o\u2026",
+      "url": "https://themorningnews.org/p/monday-headlines-smoke-and-fears",
+      "urlToImage": "https://themorningnews.org/images/tmn-logo-share.png",
+      "publishedAt": "2025-01-13 16:19:00",
+      "content": "In an unwritten, unannounced policy change, Louisiana's Dept. of Health is forbidding employees from promoting Covid, flu, or mpox vaccines. / NPR Photos of daily life for the Palestinian people\u2014\"be\u2026 [+2219 chars]",
+      "retrievedAt": "2025-01-14 19:05:42.468336",
+      "internal_id": "a19b3bc1d5e7df3ce45bfec8c70d68e0b926e04bd1810832f5cf4c3aa6e61fa8",
+      "publishedAtLabel": "Jan 13"
+    },
+    {
+      "id": 17385,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Shtfplan.com",
+      "author": "Mac Slavo",
+      "title": "Two Pet Cats Died Of Bird Flu After Drinking Recalled Raw Milk",
+      "description": "Two domestic cats have died after drinking raw milk recalled for bird flu risk in California. A third cat has been hospitalized after testing confirmed it was infected with the H5N1 bird flu virus.",
+      "url": "https://www.shtfplan.com/member-exclusive/two-pet-cats-died-of-bird-flu-after-drinking-recalled-raw-milk",
+      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2024/08/catfacemaskbirdflu.jpg",
+      "publishedAt": "2025-01-13 16:00:54",
+      "content": "Commenting Policy: Some comments on this web site are automatically moderated through our Spam protection systems. Please be patient if your comment isn\u2019t immediately available. We\u2019re not trying to \u2026 [+423 chars]",
+      "retrievedAt": "2025-01-14 19:05:39.774148",
+      "internal_id": "7f6a91f5c77dd5fe9ab23ac4261d8966ad884ca11ec285517f909a0c644155d8",
+      "publishedAtLabel": "Jan 13"
+    },
+    {
+      "id": 17387,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Mail.ru",
+      "author": "\u0410\u043d\u043d\u0430 \u041c\u043e\u0440\u043e\u0437\u043e\u0432\u0430",
+      "title": "\u042f\u0439\u0446\u0430 \u0438 \u043a\u0443\u0440\u0438\u0446\u0430: \u043c\u043e\u0436\u043d\u043e \u043b\u0438 \u0447\u0435\u0440\u0435\u0437 \u043f\u0438\u0449\u0443 \u0437\u0430\u0440\u0430\u0437\u0438\u0442\u044c\u0441\u044f \u043f\u0442\u0438\u0447\u044c\u0438\u043c \u0433\u0440\u0438\u043f\u043f\u043e\u043c",
+      "description": "\u042f\u0439\u0446\u0430, \u043a\u0443\u0440\u0438\u0446\u0430 \u0438 \u043f\u0442\u0438\u0447\u0438\u0439 \u0433\u0440\u0438\u043f\u043f: \u0440\u0430\u0441\u0441\u043a\u0430\u0437\u044b\u0432\u0430\u0435\u043c, \u043c\u043e\u0436\u043d\u043e \u043b\u0438 \u0437\u0430\u0440\u0430\u0437\u0438\u0442\u044c\u0441\u044f \u0438\u043c \u0447\u0435\u0440\u0435\u0437 \u043f\u0440\u043e\u0434\u0443\u043a\u0442\u044b \u043f\u0438\u0442\u0430\u043d\u0438\u044f.",
+      "url": "https://vfokuse.mail.ru/article/yajtsa-i-kuritsa-mozhno-li-cherez-pischu-zarazitsya-ptichim-grippom-64421725/",
+      "urlToImage": "https://resizer.mail.ru/p/f0bbbffe-6c15-5cd0-97aa-e69d618941b5/op:15/logo:bottom:vfokuse.png/AQAGTtzLPnzAeN2bA1uXP9gVDWLhm1TRBOtmOPCojTFp9Dg_PeZ79XvEyxvGZ7QePD7iRjnyNXd9Qdpxet6qEEgwrVU.jpg",
+      "publishedAt": "2025-01-13 15:17:21",
+      "content": ", \u2014 , . , . , , , H5N1 , .",
+      "retrievedAt": "2025-01-14 19:05:39.829407",
+      "internal_id": "f5a46a3dea4dfad3620c23cf3fba24c7acc96f76cf2b13f3e74e0540bbfe1030",
+      "publishedAtLabel": "Jan 13"
+    },
+    {
+      "id": 17397,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Phys.Org",
+      "author": "UC Davis",
+      "title": "Wrong place, wrong time: Why Zika virus hijacks a protein needed for brain growth",
+      "description": "The mosquito-borne Zika virus is known for causing microcephaly, a birth defect in which abnormal brain development results in a smaller-than-expected head.",
+      "url": "https://phys.org/news/2025-01-wrong-zika-virus-hijacks-protein.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/mosquito.jpg",
+      "publishedAt": "2025-01-13 14:00:01",
+      "content": "The mosquito-borne Zika virus is known for causing microcephaly, a birth defect in which abnormal brain development results in a smaller-than-expected head. A study published Jan. 13 in mBio shows t\u2026 [+4007 chars]",
+      "retrievedAt": "2025-01-14 19:05:41.719538",
+      "internal_id": "a481e9bb11a39e648b7a4041e7f1084a494c1af5f25bf4b37a00e0992ac32aac",
+      "publishedAtLabel": "Jan 13"
+    },
+    {
+      "id": 17383,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Diego Soler-Tovar, Luis E. Escobar",
+      "title": "Rabies transmitted from vampires to cattle: An overview",
+      "description": "Rabies is a zoonotic infectious disease of global distribution that impacts human and animal health. In rural Latin America, rabies negatively impacts food security and the economy due to losses in livestock production. The common vampire bat, Desmodus rotund\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317214",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0317214.g004&size=inline",
+      "publishedAt": "2025-01-13 14:00:00",
+      "content": "Introduction Rabies is a wildlife disease causing negative impacts on ecosystem, animal, and human health [1]. Rabies generates deaths in humans and pets, direct and indirect economic losses to live\u2026 [+38003 chars]",
+      "retrievedAt": "2025-01-14 19:05:38.510413",
+      "internal_id": "8387ed5df2af7a9c1a9bb9c7d3dc62cac93a1f4e65b71f2296481dbdb5309bcd",
+      "publishedAtLabel": "Jan 13"
+    },
+    {
+      "id": 17391,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Florence E. McLean, Brian R. Omondi, Nouhoum Diallo, Stanley Otoboh, Carolyne Kifude, Abdirahman Abdi, Rivka Lim, Thomas D. Otto, Ashfaq Ghumra, J. Alexandra Rowe",
+      "title": "Identification of novel PfEMP1 variants containing domain cassettes 11, 15 and 8 that mediate the Plasmodium falciparum virulence-associated rosetting phenotype",
+      "description": "Author summary Malaria is an infectious tropical disease caused by the parasite Plasmodium falciparum that kills more than half a million people every year, mostly young children in sub-Saharan Africa. Life-threatening episodes of malaria are characterised by\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012434",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1012434.g012&size=inline",
+      "publishedAt": "2025-01-13 14:00:00",
+      "content": "Abstract Plasmodium falciparum erythrocyte membrane protein 1 (PfEMP1) is a diverse family of variant surface antigens, encoded by var genes, that mediates binding of infected erythrocytes to human \u2026 [+87202 chars]",
+      "retrievedAt": "2025-01-14 19:05:41.147608",
+      "internal_id": "4344468216683de2fc9f31bbcd77a72713523a5a56ad4f18a6f7fc6364d219bc",
+      "publishedAtLabel": "Jan 13"
+    },
+    {
+      "id": 17392,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Dominique Dorin-Semblat, Jean-Philippe Semblat, Romain Hamelin, Anand Srivastava, Marilou Tetard, Graziella Matesic, Christian Doerig, Benoit Gamain",
+      "title": "Casein Kinases 2-dependent phosphorylation of the placental ligand VAR2CSA regulates Plasmodium falciparum-infected erythrocytes cytoadhesion",
+      "description": "Author summary Plasmodium falciparum-infected erythrocytes (IEs) isolated from pregnant women suffering from malaria express at their surface a specific variant of the P. falciparum Erythrocyte Membrane Protein (PfEMP1) family, namely VAR2CSA. VAR2CSA-express\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012861",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1012861.g008&size=inline",
+      "publishedAt": "2025-01-13 14:00:00",
+      "content": "Citation: Dorin-Semblat D, Semblat J-P, Hamelin R, Srivastava A, Tetard M, Matesic G, et al. (2025) Casein Kinases 2-dependent phosphorylation of the placental ligand VAR2CSA regulates Plasmodium fal\u2026 [+70043 chars]",
+      "retrievedAt": "2025-01-14 19:05:41.178950",
+      "internal_id": "2525533c552c6a1739f5a8f5fab376153e041982a64937c13b1ad5e6192820bb",
+      "publishedAtLabel": "Jan 13"
+    },
+    {
+      "id": 17393,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Margaux J. M. Lefebvre, Fanny Degrugillier, C\u00e9line Arnathau, Gustavo A. Fontecha, Oscar Noya, Sandrine Houz\u00e9, Carlo Severini, Bruno Pradines, Antoine Berry, Jean-Fran\u00e7ois Trape, Fabian E. S\u00e1enz, Franck Prugnolle, Michael C. Fontaine, Virginie Rougeron",
+      "title": "Genomic exploration of the journey of Plasmodium vivax in Latin America",
+      "description": "Author summary Our study investigates the origins and spread of Plasmodium vivax in Latin America, the primary malaria parasite in this region. By analyzing genetic data from 620 P. vivax samples worldwide, including new samples from West Africa, the Middle E\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012811",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1012811.g005&size=inline",
+      "publishedAt": "2025-01-13 14:00:00",
+      "content": "Citation: Lefebvre MJM, Degrugillier F, Arnathau C, Fontecha GA, Noya O, Houz\u00e9 S, et al. (2025) Genomic exploration of the journey of Plasmodium vivax in Latin America. PLoS Pathog 21(1): e1012811.\u2026 [+93339 chars]",
+      "retrievedAt": "2025-01-14 19:05:41.186113",
+      "internal_id": "dae28d2a115fc4e71cf77ccf3082ca0d3e2b1daf3b09e231e2101e1f39253f9e",
+      "publishedAtLabel": "Jan 13"
+    },
+    {
+      "id": 17398,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Peiqi Yin, Elizabeth B. Sobolik, Nicholas A. May, Sainan Wang, Atef Fayed, Dariia Vyshenska, Adam M. Drobish, M. Guston Parks, Laura Sandra Lello, Andres Merits, Thomas E. Morrison, Alexander L. Greninger, Margaret Kielian",
+      "title": "Mutations in chikungunya virus nsP4 decrease viral fitness and sensitivity to the broad-spectrum antiviral 4\u2032-Fluorouridine",
+      "description": "Author summary The alphavirus chikungunya virus (CHIKV) is spread by mosquito vectors and currently causes millions of cases of human infections around the world. Initial symptoms of CHIKV infection include fever, rash, and severe joint and muscle pain. In a \u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012859",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1012859.g006&size=inline",
+      "publishedAt": "2025-01-13 14:00:00",
+      "content": "Abstract Chikungunya virus (CHIKV) is an arthritogenic alphavirus that has re-emerged to cause large outbreaks of human infections worldwide. There are currently no approved antivirals for treatment\u2026 [+72282 chars]",
+      "retrievedAt": "2025-01-14 19:05:41.906772",
+      "internal_id": "f9ef6008680ffe5c73ee76e1c5361093bbce286ed3aeaed197bd1a7fdf7c2da5",
+      "publishedAtLabel": "Jan 13"
+    },
+    {
+      "id": 17386,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Thefly.com",
+      "author": null,
+      "title": "Microbix, API start pilot program for flu tests detection of H5N1 strain",
+      "description": "See the rest of the story here. thefly.com provides the latest financial news as it breaks. Known as a leader in market intelligence, The Fly's real-time, streaming news feed keeps individual investors, professional money managers, active traders, and corpor\u2026",
+      "url": "https://thefly.com/permalinks/entry.php/id4050293/MBXBF-Microbix-API-start-pilot-program-for-flu-tests-detection-of-HN-strain",
+      "urlToImage": "https://thefly.com/images/meta/hotstocks.jpg",
+      "publishedAt": "2025-01-13 12:43:34",
+      "content": "Earnings calls, analyst events, roadshows and more",
+      "retrievedAt": "2025-01-14 19:05:39.815802",
+      "internal_id": "f48b449eadceaa81a16c5bc52804f48b07f1b7e7d4d7405f9111a4f659fb8bf3",
+      "publishedAtLabel": "Jan 13"
+    },
+    {
+      "id": 17388,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "La circulaci\u00f3n del virus de la gripe aviar en Espa\u00f1a \"sigue siendo limitada\", pese a su aumento en Europa",
+      "description": "La circulaci\u00f3n del virus H5N1 de la gripe aviar esta temporada \"sigue siendo limitada\" en Espa\u00f1a y todo el territorio nacional se encuentra \"libre\" de la enfermedad dado que no se ha detectado ning\u00fan foco de influenza aviar de alta patogenicidad (IAAP) en ave\u2026",
+      "url": "https://www.infosalus.com/salud-investigacion/noticia-circulacion-virus-gripe-aviar-espana-sigue-siendo-limitada-pese-aumento-europa-20250113130806.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20250113130806_1200.jpg",
+      "publishedAt": "2025-01-13 12:08:06",
+      "content": "MADRID 13 Ene. (EUROPA PRESS) - La circulaci\u00f3n del virus H5N1 de la gripe aviar esta temporada \"sigue siendo limitada\" en Espa\u00f1a y todo el territorio nacional se encuentra \"libre\" de la enfermedad\u2026 [+2573 chars]",
+      "retrievedAt": "2025-01-14 19:05:39.836441",
+      "internal_id": "8fc5ec109cedaf85f3d4d01d1f11cf05b632446a59959fd2aafa0eb548dfa9aa",
+      "publishedAtLabel": "Jan 13"
+    },
+    {
+      "id": 17394,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Dall'Universit\u00e0 di Sassari nuova terapia contro la malaria",
+      "description": "C'\u00e8 l'Universit\u00e0 di Sassari dietro la sperimentazione di una terapia innovativa contro la malaria. (ANSA)",
+      "url": "https://www.ansa.it/sardegna/notizie/2025/01/13/dalluniversita-di-sassari-nuova-terapia-contro-la-malaria_55b8a6a2-6936-42a4-8442-180d7d861556.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2025/1/13/400423aa7d2602c788494e2c59068f45.jpg",
+      "publishedAt": "2025-01-13 11:57:26",
+      "content": "C'\u00e8 l'Universit\u00e0 di Sassari dietro la sperimentazione di una terapia innovativa contro la malaria. Grazie a un programma di ricerca partito nel 2006, guidato da Antonella Pantaleo, docente di fis\u2026 [+1547 chars]",
+      "retrievedAt": "2025-01-14 19:05:41.195029",
+      "internal_id": "066f7c5b3740f2748fe79d021b1a1187649d87cfa16e721eec26fa27d56afbef",
+      "publishedAtLabel": "Jan 13"
+    },
+    {
+      "id": 17400,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": "UK Health Security Agency",
+      "title": "Guidance: Clade I mpox contact tracing guidance",
+      "description": "Classification of contacts and follow-up advice for clade I mpox.",
+      "url": "https://www.gov.uk/government/publications/clade-i-mpox-contact-tracing-guidance",
+      "urlToImage": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png",
+      "publishedAt": "2025-01-13 10:54:07",
+      "content": "This guidance provides principles for risk assessment and follow-up of contacts of confirmed clade I mpox cases. It is intended to support risk assessment and categorisation of contacts to ensure the\u2026 [+300 chars]",
+      "retrievedAt": "2025-01-14 19:05:42.493182",
+      "internal_id": "136f6fbdea575fbb7660e97f20101966877b5ea0348024d257d0ec1394613ef4",
+      "publishedAtLabel": "Jan 13"
+    },
+    {
+      "id": 17384,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Visalia Times-Delta and Tulare Advance-Register",
+      "author": "Steve Pastis, Visalia Times-Delta",
+      "title": "Is bird flu subsiding in Tulare County? What to know as virus reshapes farming practices",
+      "description": "Recent data shows a decline in bird flu cases in Tulare County, but ag officials remain wary.",
+      "url": "https://www.visaliatimesdelta.com/story/news/local/2025/01/13/bird-flu-decline-in-tulare-county-latest-updates-safety-measures/77585645007/",
+      "urlToImage": "https://media.zenfs.com/en/visalia-times-delta-tulare-advance-register/a1076fddf521b1dde7663d5c889be4aa",
+      "publishedAt": "2025-01-13 10:03:44",
+      "content": "The bird flu claimed the life of a 65-year-old Louisiana resident who had underlying medical conditions. This is the first known human fatality caused by H5N1 avian influenza. The bird flu-related d\u2026 [+6398 chars]",
+      "retrievedAt": "2025-01-14 19:05:39.753643",
+      "internal_id": "c9cb3d6b6b4cc861c246ecb4fc32e86059dece61b4b0a2c1749ed275c8a86323",
+      "publishedAtLabel": "Jan 13"
+    },
+    {
+      "id": 17401,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "World Health Organization",
+      "author": null,
+      "title": "Multi-country outbreak of mpox, External situation report #45 - 11 January 2025",
+      "description": "Multi-country outbreak of mpox, External situation report #45 - 11 January 2025who.int",
+      "url": "https://www.who.int/publications/m/item/multi-country-outbreak-of-mpox--external-situation-report--45---11-january-2025",
+      "urlToImage": "https://cdn.who.int/media/images/default-source/emergencies/thumbnail-mpox-sitrep-45.tmb-479v.jpg?sfvrsn=56c4b7c9_1",
+      "publishedAt": "2025-01-13 10:01:22",
+      "content": "Overview This is the 45th situation report for the multi-country outbreak of mpox, which provides details on the latest epidemiological trends. The outbreak of clade Ib monkeypox virus (MPXV) cont\u2026 [+393 chars]",
+      "retrievedAt": "2025-01-14 19:05:42.517951",
+      "internal_id": "5abd1e32694c399975f38b159e638317af64c5740c1b7d88463dd131ba18e9fc",
+      "publishedAtLabel": "Jan 13"
+    },
     {
       "id": 17381,
       "query": [
