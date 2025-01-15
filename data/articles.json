@@ -1,8 +1,314 @@
 {
-  "last_updated": "2025-01-14 19:05",
-  "count_articles_total": 1394,
-  "count_articles_new": 19,
+  "last_updated": "2025-01-15 07:06",
+  "count_articles_total": 1412,
+  "count_articles_new": 18,
   "articles": [
+    {
+      "id": 17412,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "le-monde",
+      "source_name": "Le Monde",
+      "author": "Le Monde avec AFP",
+      "title": "A La R\u00e9union, l\u2019\u00e9pid\u00e9mie de chikungunya d\u00e9clar\u00e9e et le dispositif de gestion de crise d\u00e9clench\u00e9",
+      "description": "Depuis la fin d\u2019ao\u00fbt, 192 cas de cette maladie transmise par le moustique-tigre ont \u00e9t\u00e9 comptabilis\u00e9s sur l\u2019\u00eele. Les communes du Sud sont les plus touch\u00e9es depuis l\u2019apparition du virus, pr\u00e9cisent les autorit\u00e9s.",
+      "url": "https://www.lemonde.fr/sante/article/2025/01/14/a-la-reunion-l-epidemie-de-chikungunya-declaree-et-le-dispositif-de-gestion-de-crise-declenche_6496836_1651302.html",
+      "urlToImage": "https://img.lemde.fr/2024/10/16/0/0/5970/3980/1440/960/60/0/5f0e452_1729089709174-000-34mf82q.jpg",
+      "publishedAt": "2025-01-14 07:04:22",
+      "content": "Alors que La R\u00e9union est en proie \u00e0 une \u00e9pid\u00e9mie de chikungunya de \u00ab faible intensit\u00e9 \u00bb, le pr\u00e9fet de l\u00eele a annonc\u00e9 le d\u00e9clenchement du niveau 3 dun dispositif de gestion de crise, lundi 13 janvier \u2026 [+1515 chars]",
+      "retrievedAt": "2025-01-15 07:06:27.607212",
+      "internal_id": "1252e678a1f7cceb3f831143da5f8d8bc630323da016fd243bd47d4ae38e0941",
+      "publishedAtLabel": "Jan 14"
+    },
+    {
+      "id": 17404,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Interfax.ru",
+      "author": null,
+      "title": "\u0417\u0430\u0431\u043e\u043b\u0435\u0432\u0430\u0435\u043c\u043e\u0441\u0442\u044c \u0433\u0440\u0438\u043f\u043f\u043e\u043c: \u0436\u0434\u0430\u0442\u044c \u043b\u0438 \u043d\u043e\u0432\u043e\u0439 \u044d\u043f\u0438\u0434\u0435\u043c\u0438\u0438?",
+      "description": "\u0410\u043a\u0430\u0434\u0435\u043c\u0438\u043a \u0420\u0410\u041d \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u0427\u0443\u0447\u0430\u043b\u0438\u043d \u0440\u0430\u0441\u0441\u043a\u0430\u0437\u0430\u043b \u043e \u0441\u0438\u0442\u0443\u0430\u0446\u0438\u0438 \u0441 \u0433\u0440\u0438\u043f\u043f\u043e\u043c \u0438 \u043e \u043c\u0435\u0442\u043e\u0434\u0430\u0445 \u0437\u0430\u0449\u0438\u0442\u044b \u043e\u0442 \u0432\u0438\u0440\u0443\u0441\u0430",
+      "url": "https://www.interfax.ru/russia/1002681",
+      "urlToImage": "https://www.interfax.ru/aspimg/1002681.png",
+      "publishedAt": "2025-01-14 07:00:00",
+      "content": ". 14 . INTERFAX.RU - . , ? , - . - , . ? - , . - : , , . ? - . , 2009 , , \" \" - H1N1. - H5N1. . , - . ( - ) ( , ). . , - ( , - ). - , . . ? . , , , . - - , . \"\" \"\". . , - . , , , . : , , ,\u2026 [+202 chars]",
+      "retrievedAt": "2025-01-15 07:06:26.639020",
+      "internal_id": "95d7459d64b74ac61662ca615f0b33c23dff57b3e075f9acce312acb37b1032d",
+      "publishedAtLabel": "Jan 14"
+    },
+    {
+      "id": 17414,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "al-jazeera-english",
+      "source_name": "Al Jazeera English",
+      "author": "Al Jazeera",
+      "title": "Sierra Leone declares emergency over mpox outbreak",
+      "description": "The West African country has confirmed two cases of mpox in recent days.",
+      "url": "https://www.aljazeera.com/news/2025/1/14/sierra-leone-declares-emergency-over-mpox-outbreak",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/08/AP24213819022428-1723659146.jpg?resize=1920%2C1440",
+      "publishedAt": "2025-01-14 06:51:23",
+      "content": "Sierra Leone has declared a public health emergency after two cases of mpox were reported. The West African countrys health minister announced the move on Monday after the second case of the deadly \u2026 [+2542 chars]",
+      "retrievedAt": "2025-01-15 07:06:27.733343",
+      "internal_id": "236d836dc386497349e6bcab2df227b61c5cc04e8769b69c3ccd8afeadbcc551",
+      "publishedAtLabel": "Jan 14"
+    },
+    {
+      "id": 17411,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "Descubren c\u00f3mo el virus Zika afecta a las embarazadas en lo podr\u00eda ser una v\u00eda para nuevas vacunas",
+      "description": "Un nuevo estudio de la Universidad de California en Davis (Estados Unidos) publicado en 'mBio' muestra que el virus del Zika secuestra una prote\u00edna hu\u00e9sped llamada ANKLE2, que resulta ser importante para el desarrollo del cerebro, para ayudar a su propia repr\u2026",
+      "url": "https://www.infosalus.com/asistencia/noticia-descubren-virus-zika-afecta-embarazadas-podria-ser-via-nuevas-vacunas-20250114071459.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20250114071459_1200.jpg",
+      "publishedAt": "2025-01-14 06:14:59",
+      "content": "MADRID 14 Ene. (EUROPA PRESS) - Un nuevo estudio de la Universidad de California en Davis (Estados Unidos) publicado en 'mBio' muestra que el virus del Zika secuestra una prote\u00edna hu\u00e9sped llamada \u2026 [+3348 chars]",
+      "retrievedAt": "2025-01-15 07:06:27.494786",
+      "internal_id": "1544b52fd9076451f8252a4966496a1663b90d304c78850b7055d25795729b7f",
+      "publishedAtLabel": "Jan 14"
+    },
+    {
+      "id": 17413,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
+      "author": "La r\u00e9daction avec AFP",
+      "title": "La R\u00e9union. Le dispositif de gestion de crise d\u00e9clench\u00e9 contre l'\u00e9pid\u00e9mie de chikungunya",
+      "description": "Le pr\u00e9fet de La R\u00e9union a annonc\u00e9 le d\u00e9clenchement du niveau 3 du dispositif Orsec \u00ab arboviroses \u00bb contre l'\u00e9pid\u00e9mie de chikungunya. L'augmentation du nombre de cas et la dispersion des foyers au cours des derni\u00e8res semaines ont conduit \u00e0 cette d\u00e9cision.",
+      "url": "https://www.ledauphine.com/sante/2025/01/14/le-dispositif-de-gestion-de-crise-declenche-contre-l-epidemie-de-chikungunya",
+      "urlToImage": "https://cdn-s-www.ledauphine.com/images/ACC48814-A9F3-47C0-BDAC-C094E9720B27/FB1200/photo-1736834622.jpg",
+      "publishedAt": "2025-01-14 06:05:00",
+      "content": "Le pr\u00e9fet de La R\u00e9union, en proie \u00e0 une \u00e9pid\u00e9mie de chikungunya de \u00ab faible intensit\u00e9 \u00bb, a annonc\u00e9 lundi soir le d\u00e9clenchement du niveau 3 d'un dispositif de gestion de crise li\u00e9 aux \u00ab arboviroses \u00bb.\u2026 [+2068 chars]",
+      "retrievedAt": "2025-01-15 07:06:27.620110",
+      "internal_id": "0098a849f419f256faf150eb2822fd7be05720a8e78120cd1a9106f9b2e4732f",
+      "publishedAtLabel": "Jan 14"
+    },
+    {
+      "id": 17409,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Sa\u00fade refor\u00e7a monitoramento e a\u00e7\u00f5es de controle da dengue em 4 Estados",
+      "description": "'A miss\u00e3o busca fortalecer a vigil\u00e2ncia epidemiol\u00f3gica, a assist\u00eancia \u00e0 popula\u00e7\u00e3o e a reorganiza\u00e7\u00e3o dos servi\u00e7os de sa\u00fade', destacou a pasta, em nota",
+      "url": "https://valor.globo.com/brasil/noticia/2025/01/13/saude-reforca-monitoramento-e-acoes-de-controle-da-dengue-em-4-estados.ghtml",
+      "urlToImage": "https://s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/public/fb_marca.png",
+      "publishedAt": "2025-01-14 02:55:14",
+      "content": "O Minist\u00e9rio da Sa\u00fade informou que vai enviar, ainda nesta semana, equipes t\u00e9cnicas a quatro Estados brasileiros com o objetivo de apoiar a\u00e7\u00f5es locais para o controle de arboviroses, incluindo a deng\u2026 [+2598 chars]",
+      "retrievedAt": "2025-01-15 07:06:26.996587",
+      "internal_id": "5333e40719b6bb13cf2f374224368e463563f5c703aa956309d108f02e4be574",
+      "publishedAtLabel": "Jan 14"
+    },
+    {
+      "id": 17417,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "DW (English)",
+      "author": "Deutsche Welle",
+      "title": "Sierra Leone declares public health emergency over mpox",
+      "description": "The West African nation has detected two cases in less than four days, spurring health authorities to take action to limit the spread of the viral disease. Sierra Leone declared a state of emergency Monday after the country reported its second case of mpox in\u2026",
+      "url": "https://www.dw.com/en/sierra-leone-declares-public-health-emergency-over-mpox/a-71291388",
+      "urlToImage": "https://static.dw.com/image/70404657_6.jpg",
+      "publishedAt": "2025-01-14 02:48:00",
+      "content": "Sierra Leone declared a state of emergency Monday after the country reported its second case of mpox in less than four days, health authorities said. Neither patients were known to have been in cont\u2026 [+1418 chars]",
+      "retrievedAt": "2025-01-15 07:06:27.771281",
+      "internal_id": "6d29f612d16cbd2baf990e73fffd1cd29af066ec92a4bbd1e4a488fd6abfd05a",
+      "publishedAtLabel": "Jan 14"
+    },
+    {
+      "id": 17419,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "20 Minutes",
+      "author": "20 Minutes avec AFP (20 Minutes)",
+      "title": "Sant\u00e9 publique : L\u2019urgence sanitaire contre le Mpox d\u00e9cr\u00e9t\u00e9e en Sierra Leone",
+      "description": "La Sierre Leone a confirm\u00e9 deux cas sur son territoire de cette maladie caus\u00e9e par un virus de la m\u00eame famille que celui de la variole",
+      "url": "https://www.20minutes.fr/monde/4133512-20250114-sante-publique-urgence-sanitaire-contre-mpox-decretee-sierra-leone",
+      "urlToImage": "https://img.20mn.fr/th8HRty4SWeCOWhVoZy_3Ck/1444x920_ap-21713763-000001",
+      "publishedAt": "2025-01-14 02:29:26",
+      "content": "La Sierra Leone est en guerre contre le mpox. Apr\u00e8s la confirmation de deux cas, le pays a d\u00e9clar\u00e9 lundi lurgence sanitaire permettant de mobiliser les ressources n\u00e9cessaires contre la maladie et a a\u2026 [+2140 chars]",
+      "retrievedAt": "2025-01-15 07:06:27.812195",
+      "internal_id": "0078f8b36e68a78cb00fe55b24f981e372b7e69f1120304250d09af760e740d9",
+      "publishedAtLabel": "Jan 14"
+    },
+    {
+      "id": 17405,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "B.C. doctor reflects on treating teen with H5N1 for 2 months",
+      "description": "Researchers are comparing the genetic features of the B.C. patient's avian flu strain with that of a Louisiana patient who died last week. The U.S. patient, who was over the age of 65 and had underlying health conditions, shared one of the three genetic mutat\u2026",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/b-c-doctor-treats-h5n1-teen-1.7430242",
+      "urlToImage": "https://i.cbc.ca/1.7391120.1736813777!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_1180/bird-flu.jpg?im=Resize%3D620",
+      "publishedAt": "2025-01-14 00:27:12",
+      "content": "A British Columbia doctor who treated a 13-year-old avian flu patient says the case has made him concerned about the potential for more human H5N1 infections. While the patient was recently dischar\u2026 [+4976 chars]",
+      "retrievedAt": "2025-01-15 07:06:26.646133",
+      "internal_id": "dae049c5937339ddf338bfc770e5b161b4269619091ed42705b6226696287a4d",
+      "publishedAtLabel": "Jan 14"
+    },
+    {
+      "id": 17416,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Nieuwsblad.be",
+      "author": "nieuwsblad.be",
+      "title": "Sierra Leone kondigt gezondheidsnoodtoestand af wegens mpox",
+      "description": "Sierra Leone heeft maandag de gezondheidsnoodtoestand afgekondigd vanwege het mpox-virus. Dat heeft Austin Demby, de minister van Volksgezondheid, bekendgemaakt. Het land kent ondertussen twee bevestigde gevallen van de ziekte en wil alle middelen inzetten om\u2026",
+      "url": "https://www.nieuwsblad.be/cnt/dmf20250113_98530168",
+      "urlToImage": "https://static.nieuwsblad.be/Assets/Images_Upload/2025/01/13/07b64d0f-d44a-41ff-863f-85f5565c3fb2.jpg?maxheight=460&maxwidth=638",
+      "publishedAt": "2025-01-13 23:16:08",
+      "content": "Sierra Leone heeft maandag de gezondheidsnoodtoestand afgekondigd vanwege het mpox-virus. Dat heeft Austin Demby, de minister van Volksgezondheid, bekendgemaakt. Het land kent ondertussen twee bevest\u2026 [+1290 chars]",
+      "retrievedAt": "2025-01-15 07:06:27.759131",
+      "internal_id": "41608670970a3632e6cfde95e5c9ae52c1d930836926efdfc6a04739eaa29731",
+      "publishedAtLabel": "Jan 13"
+    },
+    {
+      "id": 17406,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "NorthcentralPa.com",
+      "author": "Cdc Newsroom",
+      "title": "First H5 Bird Flu death reported in United States",
+      "description": "Louisiana \u2014 A person previously hospitalized with severe avian influenza A(H5N1) illness (\"H5N1 bird flu\") has passed away, according to a report out of Louisana.",
+      "url": "https://www.northcentralpa.com/life/health/first-h5-bird-flu-death-reported-in-united-states/article_d61dd2ae-cf9c-11ef-a4a8-cfcc171ef53d.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/northcentralpa.com/content/tncms/assets/v3/editorial/b/70/b70b093a-cf9d-11ef-a8fe-1f0b93608a6d/6781977fe9360.image.jpg?crop=1000%2C525%2C0%2C27&resize=1000%2C525&order=crop%2Cresize",
+      "publishedAt": "2025-01-13 22:27:36",
+      "content": "Louisiana A person previously hospitalized with severe avian influenza A(H5N1) illness (\"H5N1 bird flu\") has passed away, according to a report out of Louisana. \"While tragic, a death from H5N1 bird\u2026 [+2816 chars]",
+      "retrievedAt": "2025-01-15 07:06:26.719381",
+      "internal_id": "b8eaa52386a70a1ded720a88093af30a9f7aa52307dd93ecdf34dcb1b700f2ba",
+      "publishedAtLabel": "Jan 13"
+    },
+    {
+      "id": 17418,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "seattlepi.com",
+      "author": "By KEMO CHAM and WILSON MCMAKIN, Associated Press",
+      "title": "Sierra Leone declares emergency after confirming 2nd mpox case in 4 days",
+      "description": "Sierra Leone has declared a state of emergency after reporting its second case of mpox in less than four days. Neither case had known recent contact with infected animals or other sick individuals, the health ministry said. Only the first case involved recent\u2026",
+      "url": "https://www.seattlepi.com/news/world/article/sierra-leone-declares-emergency-after-confirming-20032335.php",
+      "urlToImage": "https://s.hdnux.com/photos/01/34/02/65/24128891/5/rawImage.jpg",
+      "publishedAt": "2025-01-13 22:13:48",
+      "content": "DAKAR, Senegal (AP) Sierra Leone declared a state of emergency Monday after the country reported its second case of mpox in less than four days, health authorities said. Neither case had known recen\u2026 [+1326 chars]",
+      "retrievedAt": "2025-01-15 07:06:27.799514",
+      "internal_id": "0bc9292a1956f252405e592daa742272426e990090a733d729779d2b4a4068f9",
+      "publishedAtLabel": "Jan 13"
+    },
+    {
+      "id": 17402,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Quebec confirms 1st rabid raccoon in decade, urges those near Vermont border to be on alert",
+      "description": "Quebec\u2019s Environment Ministry is warning residents near the Vermont border that a dead raccoon has tested positive for rabies.",
+      "url": "https://www.cbc.ca/news/canada/montreal/rabies-racoon-quebec-vermont-border-1.7430060",
+      "urlToImage": "https://i.cbc.ca/1.5291444.1682196523!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_1180/toronto-rabid-raccoons-20180212.jpg?im=Resize%3D620",
+      "publishedAt": "2025-01-13 21:54:08",
+      "content": "Quebec's Environment Ministry is warning residents near the Vermont border that a dead raccoon has tested positive for rabies. This is the first raccoon found with rabies since 2015, the ministry sa\u2026 [+4366 chars]",
+      "retrievedAt": "2025-01-15 07:06:25.829944",
+      "internal_id": "76eeaa9ce5aa1f0ffdfa9408ae8f0dbbe2851e6acab3063407e1ee615b6078c1",
+      "publishedAtLabel": "Jan 13"
+    },
+    {
+      "id": 17408,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "Enzo Iriarte",
+      "title": "En fase experimental: encuentran un novedoso m\u00e9todo para neutralizar el virus del dengue",
+      "description": "El antiviral, que dise\u00f1a un equipo del Conicet, surge de la investigaci\u00f3n de las propiedades de la piel del man\u00ed; a\u00fan resta testearlo en humanos",
+      "url": "https://www.lanacion.com.ar/sociedad/en-fase-experimental-encuentran-un-novedoso-metodo-para-neutralizar-el-virus-del-dengue-nid13012025/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/el-aedes-aegipty-el-mosquito-vector-del-KONL3K4O6VATLGBMTRBZR3AIDY?auth=ce8efa931008ea10824e3c45d5b9adf9e415c1d3dc1a5f9447e4e6b68cf4d806&width=1200&quality=70&smart=false&height=810",
+      "publishedAt": "2025-01-13 21:11:40",
+      "content": "Investigadores del Consejo Nacional de Investigaciones Cient\u00edficas y T\u00e9cnicas (Conicet) estudian el potencial de un extracto obtenido de la piel roja del man\u00ed tegumento para inhibir el virus del deng\u2026 [+4138 chars]",
+      "retrievedAt": "2025-01-15 07:06:26.978277",
+      "internal_id": "619491a440acd2877972441c573bca586a9a79633830b892c018851aaa45fcfc",
+      "publishedAtLabel": "Jan 13"
+    },
+    {
+      "id": 17403,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "MTL Blog",
+      "author": "Al Sciola",
+      "title": "11th measles case in Montreal area sparks public health alert \u2014 Here's what you should know",
+      "description": "Quebec is facing a growing measles outbreak, with 11 confirmed cases across Montreal, Laval, Mont\u00e9r\u00e9gie and the Laurentians as of January 13.",
+      "url": "https://www.mtlblog.com/measles-montreal-outbreak-2025",
+      "urlToImage": "https://www.mtlblog.com/media-library/man-with-face-mask-walking-down-street-during-montreal-snowstorm.jpg?id=29529015&width=1200&height=600&coordinates=0%2C15%2C0%2C15",
+      "publishedAt": "2025-01-13 20:30:57",
+      "content": "Quebec is facing a growing measles outbreak, with 11 confirmed cases across Montreal, Laval, Mont\u00e9r\u00e9gie and the Laurentians as of January 13. As a result, Sant\u00e9 Qu\u00e9bec has issued an urgent notice f\u2026 [+2629 chars]",
+      "retrievedAt": "2025-01-15 07:06:26.242671",
+      "internal_id": "16b8c25710389cc522e60c9dbae5be11bdd42cb9a22eaefbb4b20afe6af3e376",
+      "publishedAtLabel": "Jan 13"
+    },
+    {
+      "id": 17415,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Legalinsurrection.com",
+      "author": "Leslie Eastman",
+      "title": "China Reports an Outbreak of Virulent Monkeypox Strain",
+      "description": "France has recorded its first case of this infectious strain. The post China Reports an Outbreak of Virulent Monkeypox Strain first appeared on Le\u00b7gal In\u00b7sur\u00b7rec\u00b7tion.",
+      "url": "https://legalinsurrection.com/2025/01/china-reports-an-outbreak-of-virulent-monkeypox-strain/",
+      "urlToImage": "https://legalinsurrection.com/wp-content/uploads/2024/08/LI-96-Monkeypox-Thailand.png",
+      "publishedAt": "2025-01-13 20:00:08",
+      "content": "At the end of 2023, I reported that the Centers for Disease Control and Prevention (CDC) warned that a more infectious mpox strain (i.e., the rebranded monkeypox) had been found in the Democratic Rep\u2026 [+3222 chars]",
+      "retrievedAt": "2025-01-15 07:06:27.746339",
+      "internal_id": "45a6a56d3727dc0334edaa6be2442eae1f2071796fc3c0549349081230c53eca",
+      "publishedAtLabel": "Jan 13"
+    },
+    {
+      "id": 17407,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Luiz Paulo Souza",
+      "title": "Dengue: saiba quem pode tomar a vacina no SUS e valores no setor privado",
+      "description": "Imuniza\u00e7\u00e3o \u00e9 uma ferramentas eficaz para combater novas infec\u00e7\u00f5es, mas n\u00e3o est\u00e1 dispon\u00edvel em n\u00fameros suficientes para toda a popula\u00e7\u00e3o",
+      "url": "https://veja.abril.com.br/saude/dengue-saiba-quem-pode-tomar-a-vacina-no-sus-e-valores-no-setor-privado",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2024/02/4.-DENGUE-VACINA-TAKEDA-QDENGA-2024-2-a-AFP.jpg.jpg?quality=70&strip=info&crop=1&resize=1080,565",
+      "publishedAt": "2025-01-13 19:52:21",
+      "content": "F\u00e9rias: Assine a partir de 1,50/semanaVacina\u00e7\u00e3o (Douglas Magno/AFP) Continua ap\u00f3s publicidade No final de 2023, o Brasil se tornou o primeiro pa\u00eds do mundo a incorporar a vacina para dengue em seu \u2026 [+2173 chars]",
+      "retrievedAt": "2025-01-15 07:06:26.926965",
+      "internal_id": "ba3ce2e9af452745dabe869353826c89b1746f3be6edeafc65d8a052161b087e",
+      "publishedAtLabel": "Jan 13"
+    },
     {
       "id": 17390,
       "query": [
@@ -379,6 +685,24 @@
       "content": "Pour l'heure, la grippe aviaire ne se transmet pas entre humains mais le virus circule massivement dans nombre d'esp\u00e8ces animales. Getty Images via AFP",
       "retrievedAt": "2025-01-14 07:06:12.790400",
       "internal_id": "b1cae7f723851ddf814562829aa693f162c3adb26542ed5846efb28fc67dab29",
+      "publishedAtLabel": "Jan 13"
+    },
+    {
+      "id": 17410,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Shorpy.com",
+      "author": "JMH",
+      "title": "Also Use \u201cZeff\u201d for Malaria",
+      "description": "In reply to Zeff for Chills: 1901: Zeff did not have much of an advertising budget, so it seems. Empty storefronts, and four years after this pic three sparse newspaper ads in January 1905, plus three more in May. Worse yet, if they paid by the word, the Ma\u2026",
+      "url": "https://www.shorpy.com/node/27627#comment-236274",
+      "urlToImage": "https://www.shorpy.com/files/images/SHORPY-40378a.preview.jpg",
+      "publishedAt": "2025-01-13 01:31:00",
+      "content": "Poor, lonely Zeff for Chills. No one wants to talk about it. Well, I'll give it a shot.I wonder how advertising agencies down through the years would handle their advertising? First thing would be to\u2026 [+623 chars]",
+      "retrievedAt": "2025-01-15 07:06:27.365342",
+      "internal_id": "70213339e2b3c90983f12cec991bcb32655589ddf8931091d85d05484b4c7972",
       "publishedAtLabel": "Jan 13"
     },
     {

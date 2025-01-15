@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 19
-- **Last harvest:** 2025-01-14 19:05
-- **Most recent article:** 2025-01-13 19:01:58
+- **New articles in last harvest:** 18
+- **Last harvest:** 2025-01-15 07:06
+- **Most recent article:** 2025-01-14 07:04:22
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-49 | 24-50 | 24-51 | 24-52 | 24-53 | 25-1 | 25-2 | 25-3 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| h5n1 | 70 | 61 | 112 | 65 | 27 | 27 | 131 | 15 | 508 |
-| mpox | 20 | 26 | 92 | 35 | 2 | 6 | 91 | 5 | 277 |
-| malaria | 27 | 76 | 60 | 30 | 15 | 10 | 30 | 4 | 252 |
-| dengue | 10 | 33 | 30 | 24 | 6 | 12 | 41 | 4 | 160 |
-| measles | 9 | 10 | 6 | 11 | 3 | 6 | 6 | 1 | 52 |
+| h5n1 | 70 | 61 | 112 | 65 | 27 | 27 | 131 | 18 | 511 |
+| mpox | 20 | 26 | 92 | 35 | 2 | 6 | 91 | 11 | 283 |
+| malaria | 27 | 76 | 60 | 30 | 15 | 10 | 30 | 5 | 253 |
+| dengue | 10 | 33 | 30 | 24 | 6 | 12 | 41 | 7 | 163 |
+| measles | 9 | 10 | 6 | 11 | 3 | 6 | 6 | 2 | 53 |
 | hpai | 2 | 4 | 6 | 12 | 1 | 4 | 18 | 0 | 47 |
-| rabies | 13 | 3 | 7 | 8 | 1 | 1 | 2 | 1 | 36 |
-| zika | 4 | 4 | 4 | 2 | 0 | 0 | 15 | 3 | 32 |
-| chikungunya | 6 | 7 | 8 | 0 | 2 | 0 | 7 | 1 | 31 |
+| rabies | 13 | 3 | 7 | 8 | 1 | 1 | 2 | 2 | 37 |
+| chikungunya | 6 | 7 | 8 | 0 | 2 | 0 | 7 | 3 | 33 |
+| zika | 4 | 4 | 4 | 2 | 0 | 0 | 15 | 4 | 33 |
 | pertussis | 4 | 6 | 4 | 6 | 0 | 1 | 2 | 0 | 23 |
 | meningitis | 3 | 7 | 5 | 3 | 1 | 2 | 0 | 0 | 21 |
 | yersinia | 0 | 0 | 0 | 6 | 0 | 0 | 3 | 0 | 9 |
@@ -35,6 +35,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-3 (zika)
 
+- [Descubren cómo el virus Zika afecta a las embarazadas en lo podría ser una vía para nuevas vacunas](https://www.infosalus.com/asistencia/noticia-descubren-virus-zika-afecta-embarazadas-podria-ser-via-nuevas-vacunas-20250114071459.html) (Infosalus.com)
+
 - [Wrong place, wrong time: Why Zika virus hijacks a protein needed for brain growth](https://www.sciencedaily.com/releases/2025/01/250113134315.htm) (Science Daily)
 
 - [Cientistas descobrem como zika afeta a formação do cérebro de bebês](https://www.metropoles.com/saude/como-zika-afeta-formacao-cerebral) (Metropoles.com)
@@ -43,9 +45,23 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-3 (rabies)
 
+- [Quebec confirms 1st rabid raccoon in decade, urges those near Vermont border to be on alert](https://www.cbc.ca/news/canada/montreal/rabies-racoon-quebec-vermont-border-1.7430060) (CBC News)
+
 - [Rabies transmitted from vampires to cattle: An overview](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317214) (Plos.org)
 
 ## 25-3 (mpox)
+
+- [Sierra Leone declares emergency over mpox outbreak](https://www.aljazeera.com/news/2025/1/14/sierra-leone-declares-emergency-over-mpox-outbreak) (Al Jazeera English)
+
+- [Sierra Leone declares public health emergency over mpox](https://www.dw.com/en/sierra-leone-declares-public-health-emergency-over-mpox/a-71291388) (DW (English))
+
+- [Santé publique : L’urgence sanitaire contre le Mpox décrétée en Sierra Leone](https://www.20minutes.fr/monde/4133512-20250114-sante-publique-urgence-sanitaire-contre-mpox-decretee-sierra-leone) (20 Minutes)
+
+- [Sierra Leone kondigt gezondheidsnoodtoestand af wegens mpox](https://www.nieuwsblad.be/cnt/dmf20250113_98530168) (Nieuwsblad.be)
+
+- [Sierra Leone declares emergency after confirming 2nd mpox case in 4 days](https://www.seattlepi.com/news/world/article/sierra-leone-declares-emergency-after-confirming-20032335.php) (seattlepi.com)
+
+- [China Reports an Outbreak of Virulent Monkeypox Strain](https://legalinsurrection.com/2025/01/china-reports-an-outbreak-of-virulent-monkeypox-strain/) (Legalinsurrection.com)
 
 - [Monday headlines: Smoke and fears](https://themorningnews.org/p/monday-headlines-smoke-and-fears) (Themorningnews.org)
 
@@ -59,6 +75,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-3 (measles)
 
+- [11th measles case in Montreal area sparks public health alert — Here's what you should know](https://www.mtlblog.com/measles-montreal-outbreak-2025) (MTL Blog)
+
 - [Number of cases in Quebec measles outbreak reaches 11](https://www.cbc.ca/news/canada/montreal/measles-quebec-shopping-mall-laval-bookstore-1.7429386) (CBC News)
 
 ## 25-3 (malaria)
@@ -71,7 +89,15 @@ Source: [News API](https://newsapi.org/)
 
 - [Dall'Università di Sassari nuova terapia contro la malaria](https://www.ansa.it/sardegna/notizie/2025/01/13/dalluniversita-di-sassari-nuova-terapia-contro-la-malaria_55b8a6a2-6936-42a4-8442-180d7d861556.html) (ANSA.it)
 
+- [Also Use “Zeff” for Malaria](https://www.shorpy.com/node/27627#comment-236274) (Shorpy.com)
+
 ## 25-3 (h5n1)
+
+- [Заболеваемость гриппом: ждать ли новой эпидемии?](https://www.interfax.ru/russia/1002681) (Interfax.ru)
+
+- [B.C. doctor reflects on treating teen with H5N1 for 2 months](https://www.cbc.ca/news/canada/british-columbia/b-c-doctor-treats-h5n1-teen-1.7430242) (CBC News)
+
+- [First H5 Bird Flu death reported in United States](https://www.northcentralpa.com/life/health/first-h5-bird-flu-death-reported-in-united-states/article_d61dd2ae-cf9c-11ef-a4a8-cfcc171ef53d.html) (NorthcentralPa.com)
 
 - [Two Pet Cats Died Of Bird Flu After Drinking Recalled Raw Milk](https://www.shtfplan.com/member-exclusive/two-pet-cats-died-of-bird-flu-after-drinking-recalled-raw-milk) (Shtfplan.com)
 
@@ -105,6 +131,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-3 (dengue)
 
+- [Saúde reforça monitoramento e ações de controle da dengue em 4 Estados](https://valor.globo.com/brasil/noticia/2025/01/13/saude-reforca-monitoramento-e-acoes-de-controle-da-dengue-em-4-estados.ghtml) (Globo)
+
+- [En fase experimental: encuentran un novedoso método para neutralizar el virus del dengue](https://www.lanacion.com.ar/sociedad/en-fase-experimental-encuentran-un-novedoso-metodo-para-neutralizar-el-virus-del-dengue-nid13012025/) (La Nacion)
+
+- [Dengue: saiba quem pode tomar a vacina no SUS e valores no setor privado](https://veja.abril.com.br/saude/dengue-saiba-quem-pode-tomar-a-vacina-no-sus-e-valores-no-setor-privado) (Abril.com.br)
+
 - [SP tem 21 cidades em situação de emergência por dengue](https://www.infomoney.com.br/saude/sp-tem-21-cidades-em-situacao-de-emergencia-por-dengue/) (InfoMoney)
 
 - [Dengue: SP tem 21 cidades em situação de emergência](https://www.terra.com.br/vida-e-estilo/saude/dengue-sp-tem-21-cidades-em-situacao-de-emergencia,cb9f0c74f749309f7f6f2dc0e1b1bc085pm97v74.html) (Terra.com.br)
@@ -114,6 +146,10 @@ Source: [News API](https://newsapi.org/)
 - [Saúde falha em pontos sensíveis e fragiliza a situação de Nísia Trindade](https://veja.abril.com.br/politica/saude-falha-em-pontos-sensiveis-e-fragiliza-a-situacao-de-nisia-trindade) (Abril.com.br)
 
 ## 25-3 (chikungunya)
+
+- [A La Réunion, l’épidémie de chikungunya déclarée et le dispositif de gestion de crise déclenché](https://www.lemonde.fr/sante/article/2025/01/14/a-la-reunion-l-epidemie-de-chikungunya-declaree-et-le-dispositif-de-gestion-de-crise-declenche_6496836_1651302.html) (Le Monde)
+
+- [La Réunion. Le dispositif de gestion de crise déclenché contre l'épidémie de chikungunya](https://www.ledauphine.com/sante/2025/01/14/le-dispositif-de-gestion-de-crise-declenche-contre-l-epidemie-de-chikungunya) (Le Dauphiné Libéré)
 
 - [Mutations in chikungunya virus nsP4 decrease viral fitness and sensitivity to the broad-spectrum antiviral 4′-Fluorouridine](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012859) (Plos.org)
 
