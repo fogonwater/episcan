@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 18
-- **Last harvest:** 2025-01-15 07:06
-- **Most recent article:** 2025-01-14 07:04:22
+- **New articles in last harvest:** 25
+- **Last harvest:** 2025-01-15 19:05
+- **Most recent article:** 2025-01-14 18:30:38
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-49 | 24-50 | 24-51 | 24-52 | 24-53 | 25-1 | 25-2 | 25-3 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| h5n1 | 70 | 61 | 112 | 65 | 27 | 27 | 131 | 18 | 511 |
-| mpox | 20 | 26 | 92 | 35 | 2 | 6 | 91 | 11 | 283 |
-| malaria | 27 | 76 | 60 | 30 | 15 | 10 | 30 | 5 | 253 |
-| dengue | 10 | 33 | 30 | 24 | 6 | 12 | 41 | 7 | 163 |
-| measles | 9 | 10 | 6 | 11 | 3 | 6 | 6 | 2 | 53 |
-| hpai | 2 | 4 | 6 | 12 | 1 | 4 | 18 | 0 | 47 |
-| rabies | 13 | 3 | 7 | 8 | 1 | 1 | 2 | 2 | 37 |
-| chikungunya | 6 | 7 | 8 | 0 | 2 | 0 | 7 | 3 | 33 |
+| h5n1 | 70 | 61 | 112 | 65 | 27 | 27 | 131 | 24 | 517 |
+| mpox | 20 | 26 | 92 | 35 | 2 | 6 | 91 | 19 | 291 |
+| malaria | 27 | 76 | 60 | 30 | 15 | 10 | 30 | 8 | 256 |
+| dengue | 10 | 33 | 30 | 24 | 6 | 12 | 41 | 8 | 164 |
+| measles | 9 | 10 | 6 | 11 | 3 | 6 | 6 | 3 | 54 |
+| hpai | 2 | 4 | 6 | 12 | 1 | 4 | 18 | 1 | 48 |
+| rabies | 13 | 3 | 7 | 8 | 1 | 1 | 2 | 3 | 38 |
+| chikungunya | 6 | 7 | 8 | 0 | 2 | 0 | 7 | 5 | 35 |
 | zika | 4 | 4 | 4 | 2 | 0 | 0 | 15 | 4 | 33 |
 | pertussis | 4 | 6 | 4 | 6 | 0 | 1 | 2 | 0 | 23 |
-| meningitis | 3 | 7 | 5 | 3 | 1 | 2 | 0 | 0 | 21 |
-| yersinia | 0 | 0 | 0 | 6 | 0 | 0 | 3 | 0 | 9 |
+| meningitis | 3 | 7 | 5 | 3 | 1 | 2 | 0 | 1 | 22 |
+| yersinia | 0 | 0 | 0 | 6 | 0 | 0 | 3 | 1 | 10 |
 | leptospirosis | 0 | 3 | 0 | 2 | 0 | 0 | 0 | 0 | 5 |
 | shigellosis | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 1 |
 | typhoid | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
@@ -43,13 +43,35 @@ Source: [News API](https://newsapi.org/)
 
 - [Wrong place, wrong time: Why Zika virus hijacks a protein needed for brain growth](https://phys.org/news/2025-01-wrong-zika-virus-hijacks-protein.html) (Phys.Org)
 
+## 25-3 (yersinia)
+
+- [Стала известна причина реконструкции штамма возбудителя Юстиниановой чумы](https://lenta.ru/news/2025/01/14/stala-izvestna-prichina-rekonstruktsii-shtamma-vozbuditelya-yustinianovoy-chumy/) (Lenta)
+
 ## 25-3 (rabies)
+
+- [Vaccine hesitancy among pet owners is growing – a public health expert explains why that matters](https://theconversation.com/vaccine-hesitancy-among-pet-owners-is-growing-a-public-health-expert-explains-why-that-matters-246376) (The Conversation Africa)
 
 - [Quebec confirms 1st rabid raccoon in decade, urges those near Vermont border to be on alert](https://www.cbc.ca/news/canada/montreal/rabies-racoon-quebec-vermont-border-1.7430060) (CBC News)
 
 - [Rabies transmitted from vampires to cattle: An overview](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317214) (Plos.org)
 
 ## 25-3 (mpox)
+
+- [El ECDC asegura que el riesgo para la población europea por el clado I de mpox "sigue siendo bajo"](https://www.infosalus.com/salud-investigacion/noticia-ecdc-asegura-riesgo-poblacion-europea-clado-mpox-sigue-siendo-20250114184134.html) (Infosalus.com)
+
+- [Tuesday headlines: Girl hour](https://themorningnews.org/p/tuesday-headlines-girl-hour) (Themorningnews.org)
+
+- [Sierra Leone’de maymun çiçeği alarmı...‘Acil durum’ ilan edildi!](https://www.haber7.com/dunya/haber/3496353-sierra-leonede-maymun-cicegi-alarmiacil-durum-ilan-edildi) (Haber7.com)
+
+- [Sierra Leone declares emergency after confirming 2nd mpox case in 4 days](https://abcnews.go.com/Health/wireStory/sierra-leone-declares-emergency-after-confirming-2nd-mpox-117638392) (ABC News)
+
+- [Sierra Leone declares public health emergency over mpox](https://timesofindia.indiatimes.com/world/rest-of-world/sierra-leone-declares-public-health-emergency-over-mpox/articleshow/117233095.cms) (The Times of India)
+
+- [Sierra Leone'de M çiçeği vakaları nedeniyle acil durum ilan edildi](https://www.patronlardunyasi.com/sierra-leonede-m-cicegi-vakalari-nedeniyle-acil-durum-ilan-edildi) (Patronlardunyasi.com)
+
+- [Sierra Leone declară stare de urgență din cauza infecțiilor cu variola maimuței. Câte cazuri au fost identificate](https://www.digi24.ro/stiri/externe/sierra-leone-declara-stare-de-urgenta-din-cauza-infectiilor-cu-variola-maimutei-cate-cazuri-au-fost-identificate-3081029) (Digi24.ro)
+
+- [Emergencia en Sierra Leona por la viruela del mono](https://www.elperiodico.com/es/internacional/20250114/emergencia-sierra-leona-viruela-mono-113371428) (Elperiodico.com)
 
 - [Sierra Leone declares emergency over mpox outbreak](https://www.aljazeera.com/news/2025/1/14/sierra-leone-declares-emergency-over-mpox-outbreak) (Al Jazeera English)
 
@@ -73,13 +95,25 @@ Source: [News API](https://newsapi.org/)
 
 - [Mpox Clade I in the U.S. Should Be a Wake-Up Call](https://www.medpagetoday.com/opinion/second-opinions/113735) (MedPage Today)
 
+## 25-3 (meningitis)
+
+- [Detectado un caso de meningitis en una niña de 5 años de un colegio de Mérida](https://www.eleconomista.es/salud/noticias/13169741/01/25/detectado-un-caso-de-meningitis-en-una-nina-de-5-anos-de-un-colegio-de-merida.html) (Eleconomista.es)
+
 ## 25-3 (measles)
+
+- [Sick with flu? Scientists want to increase vaccine longevity](https://www.npr.org/2025/01/13/1263339278/flu-vaccine-longevity-immunity) (NPR)
 
 - [11th measles case in Montreal area sparks public health alert — Here's what you should know](https://www.mtlblog.com/measles-montreal-outbreak-2025) (MTL Blog)
 
 - [Number of cases in Quebec measles outbreak reaches 11](https://www.cbc.ca/news/canada/montreal/measles-quebec-shopping-mall-laval-bookstore-1.7429386) (CBC News)
 
 ## 25-3 (malaria)
+
+- [India Malaria Vaccine Market Research 2025: Competition, Forecasts & Opportunities, 2020-2030 - Government Initiatives, Biotechnological Advances, Cost-effective Solutions Fueling Growth](https://www.globenewswire.com/news-release/2025/01/14/3009506/28124/en/India-Malaria-Vaccine-Market-Research-2025-Competition-Forecasts-Opportunities-2020-2030-Government-Initiatives-Biotechnological-Advances-Cost-effective-Solutions-Fueling-Growth.html) (GlobeNewswire)
+
+- [Scientists explain how a compound from sea sponge exerts its biological effects](https://phys.org/news/2025-01-scientists-compound-sea-sponge-exerts.html) (Phys.Org)
+
+- [The malaria parasite PP1 phosphatase controls the initiation of the egress pathway of asexual blood-stages by regulating the rounding-up of the vacuole](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012455) (Plos.org)
 
 - [Identification of novel PfEMP1 variants containing domain cassettes 11, 15 and 8 that mediate the Plasmodium falciparum virulence-associated rosetting phenotype](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012434) (Plos.org)
 
@@ -91,7 +125,23 @@ Source: [News API](https://newsapi.org/)
 
 - [Also Use “Zeff” for Malaria](https://www.shorpy.com/node/27627#comment-236274) (Shorpy.com)
 
+## 25-3 (hpai)
+
+- [Login-udfald hos Microsoft: Office 365-brugere kan ikke anvende sikker login](https://www.computerworld.dk/art/290059/login-udfald-hos-microsoft-office-365-brugere-kan-ikke-anvende-sikker-login) (Computerworld.dk)
+
 ## 25-3 (h5n1)
+
+- [Child In San Francisco Tests Positive For Bird Flu](https://www.shtfplan.com/headline-news/child-in-san-francisco-tests-positive-for-bird-flu) (Shtfplan.com)
+
+- [Maßnahmen gegen die Vogelgrippe: Wie bereitet sich die USA auf das Virus H5N1 vor?](https://t3n.de/news/massnahmen-gegen-die-vogelgrippe-wie-bereitet-sich-die-usa-auf-das-virus-h5n1-vor-1667709/) (T3n)
+
+- [No, we’re not ‘one mutation away’ from an H5N1 bird flu pandemic – here are the facts](https://theconversation.com/no-were-not-one-mutation-away-from-an-h5n1-bird-flu-pandemic-here-are-the-facts-247139) (The Conversation Africa)
+
+- [Raw Cat Food Linked to Bird Flu -- A Vet Shares How to Protect Your Pets From the Virus](https://www.cnet.com/home/kitchen-and-household/raw-cat-food-linked-to-bird-flu-a-vet-shares-how-to-protect-your-pets-from-the-virus/) (CNET)
+
+- [Syge kvæg, katte og søløver: Fugleinfluenza er blevet »meget glad for pattedyr«](https://ing.dk/artikel/syge-kvaeg-katte-og-soeloever-fugleinfluenza-er-blevet-meget-glad-pattedyr) (Ing.dk)
+
+- [Доказано: заразиться птичьим гриппом от яиц почти невозможно](https://www.ferra.ru/news/health/dokazano-zarazitsya-ptichim-grippom-ot-yaic-pochti-nevozmozhno-13-01-2025.htm) (Ferra.ru)
 
 - [Заболеваемость гриппом: ждать ли новой эпидемии?](https://www.interfax.ru/russia/1002681) (Interfax.ru)
 
@@ -131,6 +181,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-3 (dengue)
 
+- [Cegah Perkembangan Penyakit DBD, Babinsa Desa Artodung Bersama Puskesmas Galis Lakukan Fogging](https://suaraindonesia-news.com/cegah-perkembangan-penyakit-dbd-babinsa-desa-artodung-bersama-puskesmas-galis-lakukan-fogging/) (Suaraindonesia-news.com)
+
 - [Saúde reforça monitoramento e ações de controle da dengue em 4 Estados](https://valor.globo.com/brasil/noticia/2025/01/13/saude-reforca-monitoramento-e-acoes-de-controle-da-dengue-em-4-estados.ghtml) (Globo)
 
 - [En fase experimental: encuentran un novedoso método para neutralizar el virus del dengue](https://www.lanacion.com.ar/sociedad/en-fase-experimental-encuentran-un-novedoso-metodo-para-neutralizar-el-virus-del-dengue-nid13012025/) (La Nacion)
@@ -146,6 +198,10 @@ Source: [News API](https://newsapi.org/)
 - [Saúde falha em pontos sensíveis e fragiliza a situação de Nísia Trindade](https://veja.abril.com.br/politica/saude-falha-em-pontos-sensiveis-e-fragiliza-a-situacao-de-nisia-trindade) (Abril.com.br)
 
 ## 25-3 (chikungunya)
+
+- [La Réunion : Alerte au chikungunya, l’île passe en situation de crise](https://www.20minutes.fr/sante/4133524-20250114-reunion-alerte-chikungunya-ile-passe-situation-crise) (20 Minutes)
+
+- [La Réunion : l’épidémie de chikungunya déclarée, déclenchement du dispositif de gestion de crise](https://www.liberation.fr/societe/sante/la-reunion-lepidemie-de-chikungunya-declaree-declenchement-du-dispositif-de-gestion-de-crise-20250114_MKYQCWFMLBDDJKNLNB23A5L2FQ/) (Libération)
 
 - [A La Réunion, l’épidémie de chikungunya déclarée et le dispositif de gestion de crise déclenché](https://www.lemonde.fr/sante/article/2025/01/14/a-la-reunion-l-epidemie-de-chikungunya-declaree-et-le-dispositif-de-gestion-de-crise-declenche_6496836_1651302.html) (Le Monde)
 
