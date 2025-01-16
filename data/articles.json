@@ -1,8 +1,171 @@
 {
-  "last_updated": "2025-01-15 19:05",
-  "count_articles_total": 1437,
-  "count_articles_new": 25,
+  "last_updated": "2025-01-16 07:06",
+  "count_articles_total": 1446,
+  "count_articles_new": 9,
   "articles": [
+    {
+      "id": 17447,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Computerworld.dk",
+      "author": "Niels de Boissezon",
+      "title": "EU i protest: Amerikanske AI-restriktioner deler unionen i A og B hold",
+      "description": "Nye handelsregler for amerikansk AI teknologi deler EU op i 10 \u2018Tier 1\u2019 lande og 17 \u2018Tier 2\u2019 lande.",
+      "url": "https://www.computerworld.dk/art/290080/eu-i-protest-amerikanske-ai-restriktioner-deler-unionen-i-a-og-b-hold",
+      "urlToImage": "https://www.computerworld.dk/fil/212030?width=600&height=315&focus=1",
+      "publishedAt": "2025-01-15 06:16:00",
+      "content": "Nye handelsregler for amerikansk AI teknologi deler EU op i 10 Tier 1 lande og 17 Tier 2 lande.Annonceindl\u00e6g fra HPAI-ekspert Robert Luciani: Den rigtige teknologi er afg\u00f8rende for succes med AI-udvi\u2026 [+1645 chars]",
+      "retrievedAt": "2025-01-16 07:06:15.989258",
+      "internal_id": "81685f9cf06ef20f9876a408758b63217a976887ade88eeeb3964752473ce946",
+      "publishedAtLabel": "Jan 15"
+    },
+    {
+      "id": 17446,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Computerworld.dk",
+      "author": "Niels de Boissezon",
+      "title": "Morgen-briefing: Ans\u00e6ttelsesstop i Microsoft-division / Apples allerf\u00f8rste USA-chips er klar / Analyse: 60 procent af QR-koder i mails er spamf\u00e6lder",
+      "description": "Morgen-briefing: Ans\u00e6ttelsesstop i Microsoft-division / Apples allerf\u00f8rste USA-chips er klar / Analyse: 60 procent af QR-koder i mails er spamf\u00e6lder",
+      "url": "https://www.computerworld.dk/art/290079/morgen-briefing-ansaettelsesstop-i-microsoft-division-apples-allerfoerste-usa-chips-er-klar-analyse-60-procent-af-qr-koder-i-mails-er-spamfaelder",
+      "urlToImage": "https://www.computerworld.dk/fil/194234?width=600&height=315&focus=1",
+      "publishedAt": "2025-01-15 05:40:00",
+      "content": "Morgen-briefing: Ans\u00e6ttelsesstop i Microsoft-division / Apples allerf\u00f8rste USA-chips er klar / Analyse: 60 procent af QR-koder i mails er spamf\u00e6lderAnnonceindl\u00e6g fra HPAI-ekspert Robert Luciani: Den \u2026 [+4530 chars]",
+      "retrievedAt": "2025-01-16 07:06:15.970886",
+      "internal_id": "d29346bf396d81268eeae5a63883fe22bc36830f167e7eb70c73a5e4cf9472ec",
+      "publishedAtLabel": "Jan 15"
+    },
+    {
+      "id": 17452,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Ravenna Alves",
+      "title": "Coronav\u00edrus, chikungunya, dengue: de onde v\u00eam os nomes das doen\u00e7as?",
+      "description": "Infectologista aponta que os nomes das doen\u00e7as infecciosas carregam informa\u00e7\u00f5es cient\u00edficas, hist\u00f3ricas e culturais",
+      "url": "https://www.metropoles.com/saude/como-sao-criados-os-nomes-das-doencas",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/10/17110031/covid-19-xec.jpg",
+      "publishedAt": "2025-01-15 05:00:58",
+      "content": "Voc\u00ea sabe como s\u00e3o escolhidos os nomes dos v\u00edrus e doen\u00e7as? Al\u00e9m de caracter\u00edsticas como sintomas e transmiss\u00e3o, as nomenclaturas podem surgir de locais onde as condi\u00e7\u00f5es foram identificadas, do tipo\u2026 [+8401 chars]",
+      "retrievedAt": "2025-01-16 07:06:16.889485",
+      "internal_id": "311eda2d654304bac995db03862dede83bad733d2f5e2a1e02e0a34da19e1699",
+      "publishedAtLabel": "Jan 15"
+    },
+    {
+      "id": 17449,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Www.nkj.ru",
+      "author": "\u0420\u0435\u0434\u0430\u043a\u0446\u0438\u044f \u0436\u0443\u0440\u043d\u0430\u043b\u0430 \u041d\u0430\u0443\u043a\u0430 \u0438 \u0436\u0438\u0437\u043d\u044c",
+      "title": "\u041a\u043b\u0435\u0442\u043a\u0438 \u043a\u043e\u0441\u0442\u043d\u043e\u0433\u043e \u043c\u043e\u0437\u0433\u0430 \u0443\u043f\u0440\u0430\u0432\u043b\u044f\u044e\u0442 \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u043e\u0441\u0442\u044c\u044e \u0432\u0430\u043a\u0446\u0438\u043d",
+      "description": "\u041a\u043b\u0435\u0442\u043a\u0438-\u043f\u0440\u0435\u0434\u0448\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u0438\u043a\u0438 \u0442\u0440\u043e\u043c\u0431\u043e\u0446\u0438\u0442\u043e\u0432 \u0432 \u0430\u043a\u0442\u0438\u0432\u043d\u043e\u043c \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0438 \u043f\u043e\u0432\u044b\u0448\u0430\u044e\u0442 \u0443\u0441\u0442\u043e\u0439\u0447\u0438\u0432\u043e\u0441\u0442\u044c \u043a\u043b\u0435\u0442\u043e\u043a, \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u044f\u0449\u0438\u0445 \u0430\u043d\u0442\u0438\u0442\u0435\u043b\u0430, \u0443\u0441\u0438\u043b\u0438\u0432\u0430\u044f \u0438\u043c\u043c\u0443\u043d\u043d\u044b\u0439 \u043e\u0442\u0432\u0435\u0442 \u043d\u0430 \u0432\u0430\u043a\u0446\u0438\u043d\u0443.",
+      "url": "https://www.nkj.ru/news/53078/",
+      "urlToImage": "https://www.nkj.ru/upload/iblock/e14/6cm1mxbtptqzakfmfs9g5bh83hwu6us2.jpg",
+      "publishedAt": "2025-01-15 04:35:00",
+      "content": "- , , . -. , MMR , , . , , ; , \u00ab\u00bb, , , . , . , , . , , , , , , . () . (: SNSF Scientific Image Competition / Flickr.com) , , , , H5N1 ( , \u00ab\u00bb, , ). : , . , . : , , , . , , . , , , . , , . , , . ,\u2026 [+89 chars]",
+      "retrievedAt": "2025-01-16 07:06:16.389567",
+      "internal_id": "e58073c4f0b05af00dac959822a630f868d3b7137d7b062da14ba0ff981e2b00",
+      "publishedAtLabel": "Jan 15"
+    },
+    {
+      "id": 17448,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Isna.ir",
+      "author": "\u062d\u0633\u06cc\u0646 \u062e\u0644\u06cc\u0644\u06cc",
+      "title": "\u06af\u0627\u0645 \u0645\u0647\u0645 \u062f\u0627\u0646\u0634\u06af\u0627\u0647 \u0645\u06cc\u0646\u0647\u200c\u0633\u0648\u062a\u0627 \u062f\u0631 \u0645\u0642\u0627\u0628\u0644\u0647 \u0628\u0627 \u0622\u0646\u0641\u0644\u0648\u0627\u0646\u0632\u0627\u06cc \u067e\u0631\u0646\u062f\u06af\u0627\u0646 \u200f",
+      "description": "\u062f\u0627\u0646\u0634\u06af\u0627\u0647 \u0645\u06cc\u0646\u0647\u200c\u0633\u0648\u062a\u0627 \u062f\u0631 \u062d\u0627\u0644 \u0631\u0627\u0647\u200c\u0627\u0646\u062f\u0627\u0632\u06cc \u067e\u0631\u0648\u0698\u0647\u200c\u0627\u06cc \u0628\u0631\u0627\u06cc \u0631\u062f\u06cc\u0627\u0628\u06cc \u062a\u0627\u062b\u06cc\u0631 \u0622\u0646\u0641\u0644\u0648\u0627\u0646\u0632\u0627\u06cc \u067e\u0631\u0646\u062f\u06af\u0627\u0646 \u0628\u0631 \u062f\u06cc\u06af\u0631 \u062d\u06cc\u0648\u0627\u0646\u0627\u062a \u0648 \u062d\u06cc\u0627\u062a \u0648\u062d\u0634 \u0627\u06cc\u0646 \u200f\u0627\u06cc\u0627\u0644\u062a \u0627\u0633\u062a.\u200f",
+      "url": "https://www.isna.ir/news/1403102518342/\u06af\u0627\u0645-\u0645\u0647\u0645-\u062f\u0627\u0646\u0634\u06af\u0627\u0647-\u0645\u06cc\u0646\u0647-\u0633\u0648\u062a\u0627-\u062f\u0631-\u0645\u0642\u0627\u0628\u0644\u0647-\u0628\u0627-\u0622\u0646\u0641\u0644\u0648\u0627\u0646\u0632\u0627\u06cc-\u067e\u0631\u0646\u062f\u06af\u0627\u0646",
+      "urlToImage": "https://cdn.isna.ir/d/2025/01/14/4/63317284.jpg?ts=1736811676894",
+      "publishedAt": "2025-01-15 03:24:19",
+      "content": ". 1.2 . H5N1 . 9000 . . . . . \" \" . H5N1 . : . . 2027 . : #",
+      "retrievedAt": "2025-01-16 07:06:16.382638",
+      "internal_id": "ad463994ecd13454afce482407b6d762292ee069e4cd70c6e986082a3581e977",
+      "publishedAtLabel": "Jan 15"
+    },
+    {
+      "id": 17445,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Gbenga Oloniniran",
+      "title": "LASG vaccinates 24 million against yellow fever, others",
+      "description": "The Lagos State Government says over 24 million residents were vaccinated against yellow fever, measles and Human Papillomavirus in 2024. The Lagos State Primary Healthcare Board revealed the figure during a press briefing at the Press Centre, Alausa, Ikeja, \u2026",
+      "url": "https://punchng.com/lasg-vaccinates-24-million-against-yellow-fever-others/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2023/10/18120631/LASG.jpeg",
+      "publishedAt": "2025-01-15 00:52:18",
+      "content": "The Lagos State Government says over 24 million residents were vaccinated against yellow fever, measles and Human Papillomavirus in 2024. The Lagos State Primary Healthcare Board revealed the figure\u2026 [+1470 chars]",
+      "retrievedAt": "2025-01-16 07:06:15.614088",
+      "internal_id": "7676273c54872ac9e56cba5f1b60129e36b9eb623751b17693bd5bb6d5b95fe6",
+      "publishedAtLabel": "Jan 15"
+    },
+    {
+      "id": 17450,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "WYMT News",
+      "author": "Caroline Mueller",
+      "title": "Cockfighting raises public health concern",
+      "description": "Experts warn that the illegal practice could fuel the spread of H5N1 bird flu, a deadly virus threatening the state\u2019s $1.7 billion poultry industry.",
+      "url": "https://www.wymt.com/2025/01/14/cockfighting-raises-public-health-concern/",
+      "urlToImage": "https://gray-wymt-prod.gtv-cdn.com/resizer/v2/PKR6NG3RZJBXXOAXYWMGO2RRD4.jpg?auth=70f65aee8c9bd4d3c3a406876489d0298e7be491d0d3e69202757cd69724f337&width=1200&height=600&smart=true",
+      "publishedAt": "2025-01-14 22:24:05",
+      "content": "EASTERN KENTUCKY (WYMT) - Cockfighting in Kentucky is more than animal cruelty, it is a growing public health concern. Experts warn that the illegal practice could fuel the spread of H5N1 bird flu, a\u2026 [+2763 chars]",
+      "retrievedAt": "2025-01-16 07:06:16.484771",
+      "internal_id": "9c013f9341506dca842cd36b598b6d3e311e0a0075cd4edc3055527ae9a46efc",
+      "publishedAtLabel": "Jan 14"
+    },
+    {
+      "id": 17451,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Jade Abreu",
+      "title": "Com apoio da popula\u00e7\u00e3o e a\u00e7\u00f5es do GDF, dengue cai 97% em 2025",
+      "description": "Ap\u00f3s uma s\u00e9rie de a\u00e7\u00f5es de preven\u00e7\u00e3o e fiscaliza\u00e7\u00e3o, o DF n\u00e3o registrou casos graves nem \u00f3bitos relacionados \u00e0 dengue em 2025",
+      "url": "https://www.metropoles.com/distrito-federal/com-apoio-da-populacao-e-acoes-do-gdf-dengue-cai-97-em-2025",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2025/01/14185026/abre-materia-dengue.jpeg",
+      "publishedAt": "2025-01-14 21:56:19",
+      "content": "Os casos de dengue ca\u00edram consideravelmente no Distrito Federal. Na primeira semana do ano, foram registradas 196 infec\u00e7\u00f5es pela doen\u00e7a na capital federal. No mesmo per\u00edodo do ano passado, 8.228 caso\u2026 [+5881 chars]",
+      "retrievedAt": "2025-01-16 07:06:16.882555",
+      "internal_id": "dde5ca4bf1893c55aee975846684d1a25cc25ee2997b2657990a485e677f66ea",
+      "publishedAtLabel": "Jan 14"
+    },
+    {
+      "id": 17453,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "Fabiola Czubaj",
+      "title": "Dengue: \u00bfhay menos mosquitos que en el verano pasado?",
+      "description": "Los expertos advierten que, con un escenario clim\u00e1tico distinto al de 2024, los que transmiten la infecci\u00f3n est\u00e1n activos",
+      "url": "https://www.lanacion.com.ar/sociedad/dengue-hay-menos-mosquitos-que-en-el-verano-pasado-nid14012025/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/el-aedes-aegypti-vector-del-LEBMWTEDWFHL5MURVGIPNZRGXE.jpg?auth=9f807804cab8b892fb8b996cfccbfb998172079fdcf81345b9d860531abace1a&width=1200&quality=70&smart=false&height=800",
+      "publishedAt": "2025-01-14 19:14:39",
+      "content": "La percepci\u00f3n pareciera ser que casi no hay mosquitos este verano. Pero, claro, no tantos comparado con el recuerdo de la invasi\u00f3n del a\u00f1o pasado, tras los temporales seguidos de calor extremo que af\u2026 [+9849 chars]",
+      "retrievedAt": "2025-01-16 07:06:16.896588",
+      "internal_id": "0273828c03686fbc236d9df57f07c11f7673c34f1f93f3253e97189686f34052",
+      "publishedAtLabel": "Jan 14"
+    },
     {
       "id": 17426,
       "query": [

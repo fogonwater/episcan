@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 25
-- **Last harvest:** 2025-01-15 19:05
-- **Most recent article:** 2025-01-14 18:30:38
+- **New articles in last harvest:** 9
+- **Last harvest:** 2025-01-16 07:06
+- **Most recent article:** 2025-01-15 06:16:00
 
 ---
 
@@ -12,14 +12,14 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-49 | 24-50 | 24-51 | 24-52 | 24-53 | 25-1 | 25-2 | 25-3 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| h5n1 | 70 | 61 | 112 | 65 | 27 | 27 | 131 | 24 | 517 |
+| h5n1 | 70 | 61 | 112 | 65 | 27 | 27 | 131 | 27 | 520 |
 | mpox | 20 | 26 | 92 | 35 | 2 | 6 | 91 | 19 | 291 |
 | malaria | 27 | 76 | 60 | 30 | 15 | 10 | 30 | 8 | 256 |
-| dengue | 10 | 33 | 30 | 24 | 6 | 12 | 41 | 8 | 164 |
-| measles | 9 | 10 | 6 | 11 | 3 | 6 | 6 | 3 | 54 |
-| hpai | 2 | 4 | 6 | 12 | 1 | 4 | 18 | 1 | 48 |
+| dengue | 10 | 33 | 30 | 24 | 6 | 12 | 41 | 11 | 167 |
+| measles | 9 | 10 | 6 | 11 | 3 | 6 | 6 | 4 | 55 |
+| hpai | 2 | 4 | 6 | 12 | 1 | 4 | 18 | 3 | 50 |
 | rabies | 13 | 3 | 7 | 8 | 1 | 1 | 2 | 3 | 38 |
-| chikungunya | 6 | 7 | 8 | 0 | 2 | 0 | 7 | 5 | 35 |
+| chikungunya | 6 | 7 | 8 | 0 | 2 | 0 | 7 | 6 | 36 |
 | zika | 4 | 4 | 4 | 2 | 0 | 0 | 15 | 4 | 33 |
 | pertussis | 4 | 6 | 4 | 6 | 0 | 1 | 2 | 0 | 23 |
 | meningitis | 3 | 7 | 5 | 3 | 1 | 2 | 0 | 1 | 22 |
@@ -101,6 +101,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-3 (measles)
 
+- [LASG vaccinates 24 million against yellow fever, others](https://punchng.com/lasg-vaccinates-24-million-against-yellow-fever-others/) (The Punch)
+
 - [Sick with flu? Scientists want to increase vaccine longevity](https://www.npr.org/2025/01/13/1263339278/flu-vaccine-longevity-immunity) (NPR)
 
 - [11th measles case in Montreal area sparks public health alert — Here's what you should know](https://www.mtlblog.com/measles-montreal-outbreak-2025) (MTL Blog)
@@ -127,9 +129,19 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-3 (hpai)
 
+- [EU i protest: Amerikanske AI-restriktioner deler unionen i A og B hold](https://www.computerworld.dk/art/290080/eu-i-protest-amerikanske-ai-restriktioner-deler-unionen-i-a-og-b-hold) (Computerworld.dk)
+
+- [Morgen-briefing: Ansættelsesstop i Microsoft-division / Apples allerførste USA-chips er klar / Analyse: 60 procent af QR-koder i mails er spamfælder](https://www.computerworld.dk/art/290079/morgen-briefing-ansaettelsesstop-i-microsoft-division-apples-allerfoerste-usa-chips-er-klar-analyse-60-procent-af-qr-koder-i-mails-er-spamfaelder) (Computerworld.dk)
+
 - [Login-udfald hos Microsoft: Office 365-brugere kan ikke anvende sikker login](https://www.computerworld.dk/art/290059/login-udfald-hos-microsoft-office-365-brugere-kan-ikke-anvende-sikker-login) (Computerworld.dk)
 
 ## 25-3 (h5n1)
+
+- [Клетки костного мозга управляют эффективностью вакцин](https://www.nkj.ru/news/53078/) (Www.nkj.ru)
+
+- [گام مهم دانشگاه مینه‌سوتا در مقابله با آنفلوانزای پرندگان ‏](https://www.isna.ir/news/1403102518342/گام-مهم-دانشگاه-مینه-سوتا-در-مقابله-با-آنفلوانزای-پرندگان) (Isna.ir)
+
+- [Cockfighting raises public health concern](https://www.wymt.com/2025/01/14/cockfighting-raises-public-health-concern/) (WYMT News)
 
 - [Child In San Francisco Tests Positive For Bird Flu](https://www.shtfplan.com/headline-news/child-in-san-francisco-tests-positive-for-bird-flu) (Shtfplan.com)
 
@@ -181,6 +193,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-3 (dengue)
 
+- [Coronavírus, chikungunya, dengue: de onde vêm os nomes das doenças?](https://www.metropoles.com/saude/como-sao-criados-os-nomes-das-doencas) (Metropoles.com)
+
+- [Com apoio da população e ações do GDF, dengue cai 97% em 2025](https://www.metropoles.com/distrito-federal/com-apoio-da-populacao-e-acoes-do-gdf-dengue-cai-97-em-2025) (Metropoles.com)
+
+- [Dengue: ¿hay menos mosquitos que en el verano pasado?](https://www.lanacion.com.ar/sociedad/dengue-hay-menos-mosquitos-que-en-el-verano-pasado-nid14012025/) (La Nacion)
+
 - [Cegah Perkembangan Penyakit DBD, Babinsa Desa Artodung Bersama Puskesmas Galis Lakukan Fogging](https://suaraindonesia-news.com/cegah-perkembangan-penyakit-dbd-babinsa-desa-artodung-bersama-puskesmas-galis-lakukan-fogging/) (Suaraindonesia-news.com)
 
 - [Saúde reforça monitoramento e ações de controle da dengue em 4 Estados](https://valor.globo.com/brasil/noticia/2025/01/13/saude-reforca-monitoramento-e-acoes-de-controle-da-dengue-em-4-estados.ghtml) (Globo)
@@ -198,6 +216,8 @@ Source: [News API](https://newsapi.org/)
 - [Saúde falha em pontos sensíveis e fragiliza a situação de Nísia Trindade](https://veja.abril.com.br/politica/saude-falha-em-pontos-sensiveis-e-fragiliza-a-situacao-de-nisia-trindade) (Abril.com.br)
 
 ## 25-3 (chikungunya)
+
+- [Coronavírus, chikungunya, dengue: de onde vêm os nomes das doenças?](https://www.metropoles.com/saude/como-sao-criados-os-nomes-das-doencas) (Metropoles.com)
 
 - [La Réunion : Alerte au chikungunya, l’île passe en situation de crise](https://www.20minutes.fr/sante/4133524-20250114-reunion-alerte-chikungunya-ile-passe-situation-crise) (20 Minutes)
 
