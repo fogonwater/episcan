@@ -1,8 +1,314 @@
 {
-  "last_updated": "2025-01-16 07:06",
-  "count_articles_total": 1446,
-  "count_articles_new": 9,
+  "last_updated": "2025-01-16 19:05",
+  "count_articles_total": 1463,
+  "count_articles_new": 17,
   "articles": [
+    {
+      "id": 17455,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Mcsweeneys.net",
+      "author": "Lisa Borders",
+      "title": "Signs You Are a Gen-Xer Who\u2019s About to Turn Sixty",
+      "description": "1. You own music in so many formats that your collection could be housed in an audio museum. 2. Back in your day, people feared measles more than the vaccine that prevents it. 3. You were too young to go to the first Woodstock and too old to deal with Woodsto\u2026",
+      "url": "https://www.mcsweeneys.net/articles/signs-you-are-a-gen-xer-whos-about-to-turn-sixty",
+      "urlToImage": "http://edge.mcsw.net/mcsweeneys/3edbs5xqyamcihrv3k480ew85vnd",
+      "publishedAt": "2025-01-15 18:00:00",
+      "content": "1. You own music in so many formats that your collection could be housed in an audio museum. 2. Back in your day, people feared measles more than the vaccine that prevents it. 3. You were too young\u2026 [+3051 chars]",
+      "retrievedAt": "2025-01-16 19:05:39.733976",
+      "internal_id": "7bcbd19e8071f9502561cfa5908b22d0ac34afb80fee892be0db226f13a86b61",
+      "publishedAtLabel": "Jan 15"
+    },
+    {
+      "id": 17463,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "new-scientist",
+      "source_name": "New Scientist",
+      "author": "Azra Ghani",
+      "title": "What's next in the fight against malaria?",
+      "description": "This month marks a year since the malaria vaccine rollout began. Here's what we still need in order to beat a disease as old as ancient Egypt, says Azra Ghani",
+      "url": "https://www.newscientist.com/article/mg26535261-600-whats-next-in-the-fight-against-malaria/",
+      "urlToImage": "https://images.newscientist.com/wp-content/uploads/2025/01/14115403/SEI_235862455.jpg",
+      "publishedAt": "2025-01-15 18:00:00",
+      "content": "Elaine Knox Malaria is one of humanity\u2019s oldest killers, with records of cases dating back to ancient Egypt. But despite efforts to eradicate the disease, a new report from the World Health Organiza\u2026 [+448 chars]",
+      "retrievedAt": "2025-01-16 19:05:42.053409",
+      "internal_id": "77f68ca5c5af5e7b96f53ab5a3e57959d19d5d1cdfeb721f81640ff530425ba3",
+      "publishedAtLabel": "Jan 15"
+    },
+    {
+      "id": 17469,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": "Department of Health and Social Care",
+      "title": "Press release: UK invests \u00a35.5 million to tackle mpox in sub-Saharan Africa",
+      "description": "\u00a35.5 million to go towards vital research projects to tackle ongoing mpox outbreaks in DRC and neighbouring countries.",
+      "url": "https://www.gov.uk/government/news/uk-invests-55-million-to-tackle-mpox-in-sub-saharan-africa",
+      "urlToImage": "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg",
+      "publishedAt": "2025-01-15 17:18:16",
+      "content": "Ministers announce funding for research to tackle ongoing mpox outbreaks in Democratic Republic of Congo and neighbouring countriesProjects research transmission, improved surveillan\u2026 [+6961 chars]",
+      "retrievedAt": "2025-01-16 19:05:43.103811",
+      "internal_id": "67db1d7e002f7ba3f872498a77109e0b4aad18f7e46c105a29b6262c93dc5bfc",
+      "publishedAtLabel": "Jan 15"
+    },
+    {
+      "id": 17460,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Skai.gr",
+      "author": "Newsroom",
+      "title": "\u0395\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03bf\u03bd\u03b5\u03c2 \u03c0\u03c1\u03bf\u03b5\u03b9\u03b4\u03bf\u03c0\u03bf\u03b9\u03bf\u03cd\u03bd: \u039c\u03b5\u03c4\u03ac\u03bb\u03bb\u03b1\u03be\u03b7 \u03c4\u03b7\u03c2 \u03b3\u03c1\u03af\u03c0\u03b7\u03c2 \u03c4\u03c9\u03bd \u03c0\u03c4\u03b7\u03bd\u03ce\u03bd \u03b1\u03c0\u03b5\u03b9\u03bb\u03b5\u03af \u03cc\u03bb\u03b1 \u03c4\u03b1 \u03cc\u03bd\u03c4\u03b1 \u03c4\u03bf\u03c5 \u03c0\u03bb\u03b1\u03bd\u03ae\u03c4\u03b7",
+      "description": "\u0397 \u03b3\u03c1\u03af\u03c0\u03b7 \u03c4\u03c9\u03bd \u03c0\u03c4\u03b7\u03bd\u03ce\u03bd \u03ae H5N1, \u03ad\u03c7\u03b5\u03b9 \u03bc\u03b5\u03c4\u03b1\u03c0\u03b7\u03b4\u03ae\u03c3\u03b5\u03b9 \u03c3\u03b5 \u03c0\u03b5\u03c1\u03b9\u03c3\u03c3\u03cc\u03c4\u03b5\u03c1\u03b1 \u03b1\u03c0\u03cc 48 \u03b5\u03af\u03b4\u03b7 \u03b8\u03b7\u03bb\u03b1\u03c3\u03c4\u03b9\u03ba\u03ce\u03bd, \u03b1\u03c0\u03cc \u03b1\u03c1\u03ba\u03bf\u03cd\u03b4\u03b5\u03c2 \u03bc\u03ad\u03c7\u03c1\u03b9 \u03b1\u03b3\u03b5\u03bb\u03ac\u03b4\u03b5\u03c2, \u03c0\u03c1\u03bf\u03ba\u03b1\u03bb\u03ce\u03bd\u03c4\u03b1\u03c2 \u03bc\u03b1\u03b6\u03b9\u03ba\u03bf\u03cd\u03c2 \u03b8\u03b1\u03bd\u03ac\u03c4\u03bf\u03c5\u03c2 \u03c3\u03b5 \u03b8\u03b1\u03bb\u03ac\u03c3\u03c3\u03b9\u03b1 \u03bb\u03b9\u03bf\u03bd\u03c4\u03ac\u03c1\u03b9\u03b1",
+      "url": "https://www.skai.gr/news/environment/gripi-ton-ptinon-metallaksi-apeilei-ola-ta-onta-tou-planiti",
+      "urlToImage": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2025-01/birdflu_ap.jpg?itok=IuFfNWWq",
+      "publishedAt": "2025-01-15 15:54:33",
+      "content": "\u00ab\u00bb, . H5N1, 48 , , . , . , H5N1 \u00ab\u00bb: , . Panzootic. \u00ab \u00bb, Guardian Janet Daly Nottingham : \u00ab , H5N1, \u00bb. . \u00ab\u00bb , . 20.000 17.000 96% 2023. .Skai.gr Google News .",
+      "retrievedAt": "2025-01-16 19:05:40.562947",
+      "internal_id": "0642a75fc3538895205162822388d7308fc493b072101622a299e8e9c15664fb",
+      "publishedAtLabel": "Jan 15"
+    },
+    {
+      "id": 17458,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Computerworld.dk",
+      "author": "Michael C. Svendsen",
+      "title": "Blodigt: Gale mormoner, vrede indianere og lang vej hjem",
+      "description": "Den nye miniserie American Primeval fort\u00e6ller en flot, brutal og meget velspillet historie om dengang Vesten var rigtig vild.",
+      "url": "https://www.computerworld.dk/art/290070/blodigt-gale-mormoner-vrede-indianere-og-lang-vej-hjem",
+      "urlToImage": "https://www.computerworld.dk/fil/230770?width=600&height=315&focus=1",
+      "publishedAt": "2025-01-15 15:38:00",
+      "content": "Den nye miniserie American Primeval fort\u00e6ller en flot, brutal og meget velspillet historie om dengang Vesten var rigtig vild.Annonceindl\u00e6g fra HPAI-ekspert Robert Luciani: Den rigtige teknologi er af\u2026 [+2733 chars]",
+      "retrievedAt": "2025-01-16 19:05:40.078006",
+      "internal_id": "534c6a96e104a775a7575fc209ae9b3299e0c9c4d6e09361ece56ebf704b2be0",
+      "publishedAtLabel": "Jan 15"
+    },
+    {
+      "id": 17454,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "the-jerusalem-post",
+      "source_name": "The Jerusalem Post",
+      "author": "BY JERUSALEM POST STAFF",
+      "title": "Rabies infected jackal discovered in Upper Galilee",
+      "description": "The Health Ministry received a report of a jackal infected with rabies in Kibbutz Dafna in the Upper Galilee o",
+      "url": "https://www.jpost.com/breaking-news/article-837684",
+      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/534687",
+      "publishedAt": "2025-01-15 15:04:38",
+      "content": "The Health Ministry received a report of a jackal infected with rabies in Kibbutz Dafna in the Upper Galilee on Wednesday. As of now, no people are known to have been exposed to the infected jackal\u2026 [+505 chars]",
+      "retrievedAt": "2025-01-16 19:05:39.347763",
+      "internal_id": "25c8c222e417fa6a8ebc09511359e1bbfb4370a9497a84a2263b5d991305848f",
+      "publishedAtLabel": "Jan 15"
+    },
+    {
+      "id": 17461,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Jade Abreu",
+      "title": "Com 17 mil vacinas em estoque, GDF pede que pais protejam filhos contra dengue",
+      "description": "Para que a dengue continue em queda, \u00e9 necess\u00e1rio que a popula\u00e7\u00e3o tome cuidados. Vacina est\u00e1 dispon\u00edvel para crian\u00e7as nas UBs do DF",
+      "url": "https://www.metropoles.com/distrito-federal/com-17-mil-vacinas-em-estoque-gdf-pede-que-pais-protejam-filhos-contra-dengue",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2025/01/15120013/Brasilia-contra-a-Dengue.jpeg",
+      "publishedAt": "2025-01-15 15:03:53",
+      "content": "Desde abril de 2024, crian\u00e7as e adolescentes de 10 a 14 anos podem se vacinar contra a dengue no Distrito Federal. A ades\u00e3o \u00e0 imuniza\u00e7\u00e3o, no entanto, \u00e9 considerada baixa por especialistas em sa\u00fade. S\u2026 [+6906 chars]",
+      "retrievedAt": "2025-01-16 19:05:41.258186",
+      "internal_id": "22d9556ab25e9c4e68f237f27f2536b9504eb7bff6d370fe5c77c6662081aff6",
+      "publishedAtLabel": "Jan 15"
+    },
+    {
+      "id": 17467,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": "Press Trust of India",
+      "title": "Prannoy Crashes Out Of India Open R32, Reflects On Chikungunya Disease",
+      "description": "India badminton star HS Prannoy has endured a difficult phase in his career.",
+      "url": "https://sports.ndtv.com/badminton/hs-prannoy-crashes-out-in-india-open-round-of-32-reflects-on-chikungunya-disease-after-effects-7480667",
+      "urlToImage": "https://c.ndtvimg.com/2024-08/mlf31nc8_hs-prannoy-afp_625x300_01_August_24.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "publishedAt": "2025-01-15 15:00:40",
+      "content": "HS Prannoy's life and career have been on rough tracks in the last few months, but this period of struggle has made him even more determined to keep working hard, for him the key ingredient in stayin\u2026 [+4589 chars]",
+      "retrievedAt": "2025-01-16 19:05:42.632441",
+      "internal_id": "ec2bbc76b1060aaa72af5c94881989005e640c8a67595bf14b28c7af7f148ad8",
+      "publishedAtLabel": "Jan 15"
+    },
+    {
+      "id": 17468,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Themorningnews.org",
+      "author": null,
+      "title": "Wednesday headlines: Fahrenheit 20004",
+      "description": "Yoon Suk Yeol becomes South Korea's first sitting president to be arrested. / BBC News Stories from inside \"Shein village,\" factories that supply the world's largest fast fashion retailer. / BBC News Spain has experienced a migration of outsiders thanks to \u2026",
+      "url": "https://themorningnews.org/p/wednesday-headlines-fahrenheit-20004",
+      "urlToImage": "https://themorningnews.org/images/tmn-logo-share.png",
+      "publishedAt": "2025-01-15 15:00:00",
+      "content": "In an unwritten, unannounced policy change, Louisiana's Dept. of Health is forbidding employees from promoting Covid, flu, or mpox vaccines. / NPR Photos of daily life for the Palestinian people\u2014\"be\u2026 [+2219 chars]",
+      "retrievedAt": "2025-01-16 19:05:43.061684",
+      "internal_id": "6a4fdb50c9c9f04deba2ba70a4f09191fcbf66bfa85d78bf9148ab7422e9910f",
+      "publishedAtLabel": "Jan 15"
+    },
+    {
+      "id": 17456,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Robert Hohan, Marius Surleac, Victor Daniel Miron, Andreea Tudor, Ana-Maria Tudor, Oana S\u0103ndulescu, Ovidiu Vlaicu, Victoria Aram\u0103, Daniela Pi\u021bigoi, Adriana Hristea, Anca Cristina Dr\u0103g\u0103nescu, Dimitrios Paraskevis, Leontina B\u0103nic\u0103, Dan O\u021belea, Simona Paraschiv",
+      "title": "Ongoing measles outbreak in Romania: Clinical investigation and molecular epidemiology performed on whole genome sequences",
+      "description": "Aim Romania is currently facing a prolonged measles outbreak. The aim of the study was to analyse the circulating human measles virus (HMV) strains by combining whole genome sequencing (WGS) with phylogenetic analysis, with a focus on the haemagglutinin gene.\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317045",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0317045.g002&size=inline",
+      "publishedAt": "2025-01-15 14:00:00",
+      "content": "Citation: Hohan R, Surleac M, Miron VD, Tudor A, Tudor A-M, Sndulescu O, et al. (2025) Ongoing measles outbreak in Romania: Clinical investigation and molecular epidemiology performed on whole genome\u2026 [+24992 chars]",
+      "retrievedAt": "2025-01-16 19:05:39.755033",
+      "internal_id": "c189327647f5878e40483bcdc17bb8d59eeb26643a280b7a929c7f8528f298cb",
+      "publishedAtLabel": "Jan 15"
+    },
+    {
+      "id": 17462,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Jaline Gerardin, Melissa A. Penny",
+      "title": "How can modeling responsibly inform decision-making in malaria?",
+      "description": "When models are used to inform decision-making, both their strengths and limitations must be considered. Using malaria as an example, this Perspective explains how and why models are limited and offers guidance for ensuring a model is well-suited for its inte\u2026",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002991",
+      "urlToImage": "https://journals.plos.org/plosbiology/article/figure/image?id=10.1371/journal.pbio.3002991.g001&size=inline",
+      "publishedAt": "2025-01-15 14:00:00",
+      "content": "Mathematical models are sets of simplifying assumptions, based on current knowledge, about how the world works, followed to their logical (mathematical) conclusion. Different models make different se\u2026 [+9579 chars]",
+      "retrievedAt": "2025-01-16 19:05:42.046223",
+      "internal_id": "153e9d80111fd3b297fb409653364a2d61c40fe19b9e7ecaa1bdd466a9eddb4d",
+      "publishedAtLabel": "Jan 15"
+    },
+    {
+      "id": 17465,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "The PLOS ONE Editors",
+      "title": "Retraction: Recombinant Pvs48/45 Antigen Expressed in E. coli Generates Antibodies that Block Malaria Transmission in Anopheles albimanus Mosquitoes",
+      "description": "",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317791",
+      "urlToImage": null,
+      "publishedAt": "2025-01-15 14:00:00",
+      "content": "The PLOS ONE Editors retract this article [1] due to concerns about compliance with the PLOS Animal Research policy. The article [1] states, The protocol was approved by the Committee for Animal Eth\u2026 [+2527 chars]",
+      "retrievedAt": "2025-01-16 19:05:42.104398",
+      "internal_id": "8cee2810e6e7867e97c0b685fd3390a77914dbbd18a580ab87f9ef786193e756",
+      "publishedAtLabel": "Jan 15"
+    },
+    {
+      "id": 17464,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "FDA.gov",
+      "author": "FDA",
+      "title": "Recommendations to Reduce the Risk of Transfusion-Transmitted Malaria",
+      "description": "This is the draft guidance Recommendations to Reduce the Risk of Transfusion-Transmitted Malaria",
+      "url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/recommendations-reduce-risk-transfusion-transmitted-malaria-0",
+      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+      "publishedAt": "2025-01-15 13:49:33",
+      "content": "Docket Number: FDA-2000-D-0187 Issued by: Center for Biologics Evaluation and Research This guidance document provides you, blood establishments that collect blood and blood components, with FDAs\u2026 [+1280 chars]",
+      "retrievedAt": "2025-01-16 19:05:42.073094",
+      "internal_id": "268a566f0a90a33e7104d43b361244918fa135e878f65ded38f3306da5595a04",
+      "publishedAtLabel": "Jan 15"
+    },
+    {
+      "id": 17470,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Pravda.sk",
+      "author": "TASR, Katar\u00edna Ondrejovi\u010dov\u00e1",
+      "title": "Opi\u010die kiahne na Slovensku st\u00e1le monitoruj\u00fa. Ko\u013eko m\u00e1me pr\u00edpadov a je d\u00f4vod na obavy?",
+      "description": "Svetov\u00e1 zdravotn\u00edcka organiz\u00e1cia (WHO) v auguste 2024 vyhl\u00e1sila stav ohrozenia verejn\u00e9ho zdravia pre \u0161\u00edrenie ochorenia mpox.",
+      "url": "https://zdravie.pravda.sk/zdravie-a-prevencia/clanok/737347-opicie-kiahne-na-slovensku-stale-monitoruju-kolko-mame-pripadov-a-je-dovod-na-obavy/",
+      "urlToImage": "http://ipravda.sk/res/2024/06/12/thumbs/mpox-opicie-kiahne-clanokW.jpg",
+      "publishedAt": "2025-01-15 13:00:00",
+      "content": "Zatia jeden pr\u00edpad ochorenia mpox, zn\u00e1meho tie ako opiie kiahne, eviduje tento rok \u00darad verejn\u00e9ho zdravotn\u00edctva (\u00daVZ) SR na Slovensku. \u00darad situ\u00e1ciu okolo ochorenia naalej monitoruje.Do verajieho da \u2026 [+1577 chars]",
+      "retrievedAt": "2025-01-16 19:05:43.116439",
+      "internal_id": "bc6af324a620e67b26ed78c32615b5f9196db15d3cd1d43caccd7296ab296716",
+      "publishedAtLabel": "Jan 15"
+    },
+    {
+      "id": 17457,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Computerworld.dk",
+      "author": "Anders Bruun",
+      "title": "Finansk\u00e6mpen Goldman Sachs t\u00e6t p\u00e5 at k\u00f8be nordjysk it-firma: Prisen ryger over syv milliarder kroner",
+      "description": "En hastigt voksende it-virksomhed fra Aalborg st\u00e5r til at indg\u00e5 i en stor virksomhedshandel mellem to internationale pengetanke.",
+      "url": "https://www.computerworld.dk/art/290088/finanskaempen-goldman-sachs-taet-paa-at-koebe-nordjysk-it-firma-prisen-ryger-over-syv-milliarder-kroner",
+      "urlToImage": "https://www.computerworld.dk/fil/230792?width=600&height=315&focus=1",
+      "publishedAt": "2025-01-15 12:58:00",
+      "content": "En hastigt voksende it-virksomhed fra Aalborg st\u00e5r til at indg\u00e5 i en stor virksomhedshandel mellem to internationale pengetanke.Annonceindl\u00e6g fra HPAI-ekspert Robert Luciani: Den rigtige teknologi er\u2026 [+1992 chars]",
+      "retrievedAt": "2025-01-16 19:05:40.069181",
+      "internal_id": "791a8bac2cc5235f3a7bc9084b9de08fb372f464eeeb58a6cf07c4ea068a832e",
+      "publishedAtLabel": "Jan 15"
+    },
+    {
+      "id": 17466,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Kopalniawiedzy.pl",
+      "author": null,
+      "title": "Wirus Zika powoduje ma\u0142og\u0142owie przejmuj\u0105c kontrol\u0119 nad bia\u0142kiem wa\u017cnym dla rozwoju m\u00f3zgu",
+      "description": "Przenoszony przez komary wirus Zika powoduje infekcje w obu Amerykach, Afryce i Azji, a \u015bwiat szerzej o nim us\u0142ysza\u0142 przed 10 laty, gdy wywo\u0142a\u0142 epidemi\u0119 w Ameryce Po\u0142udniowej. Zwykle Zika nie daje objaw\u00f3w lub przypominaj\u0105 one lekkie przezi\u0119bienie. W bardzo rz\u2026",
+      "url": "https://kopalniawiedzy.pl/Zika-maloglowie-bialko-mozg,37611",
+      "urlToImage": "https://kopalniawiedzy.pl/media/lib/599/badania-6f03a8f5ae81694227da1e4aa794d5fe.jpg",
+      "publishedAt": "2025-01-15 11:47:05",
+      "content": "Przenoszony przez komary wirus Zika powoduje infekcje w obu Amerykach, Afryce i Azji, a wiat szerzej o nim usysza przed 10 laty, gdy wywoa epidemi w Ameryce Poudniowej. Zwykle Zika nie daje objaw\u00f3w l\u2026 [+2881 chars]",
+      "retrievedAt": "2025-01-16 19:05:42.300666",
+      "internal_id": "f21c2bd23284a4cdb148e634df68aba03974f60af776353fb2de5e8243212469",
+      "publishedAtLabel": "Jan 15"
+    },
+    {
+      "id": 17459,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Scientific American",
+      "author": "Rachel Feltman, Amy Maxmen, Fonda Mwangi, Jeffery DelViscio",
+      "title": "Government and Industry Response to Bird Flu Could Allow Disease to Evolve",
+      "description": "The U.S. government lost control of the bird flu because of a sluggish response and deference to industry.",
+      "url": "https://www.scientificamerican.com/podcast/episode/government-and-industry-response-to-bird-flu-could-allow-disease-to-evolve/",
+      "urlToImage": "https://static.scientificamerican.com/dam/m/225cfca2d98f2cb5/original/SQ-Wednesday-EP-Art.png?m=1716342177.955&w=1200",
+      "publishedAt": "2025-01-15 11:00:00",
+      "content": "Rachel Feltman: For Scientific American\u2019s Science Quickly, I\u2019m Rachel Feltman. On January 6, the Louisiana Department of Health reported the first human death from H5N1 in the United States. While th\u2026 [+15119 chars]",
+      "retrievedAt": "2025-01-16 19:05:40.543130",
+      "internal_id": "498f29cc0147aa64ea53b0432f6eb439cd29409f3e9f262c324695c113ebd1de",
+      "publishedAtLabel": "Jan 15"
+    },
     {
       "id": 17447,
       "query": [

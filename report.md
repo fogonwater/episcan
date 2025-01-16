@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 9
-- **Last harvest:** 2025-01-16 07:06
-- **Most recent article:** 2025-01-15 06:16:00
+- **New articles in last harvest:** 17
+- **Last harvest:** 2025-01-16 19:05
+- **Most recent article:** 2025-01-15 18:00:00
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-49 | 24-50 | 24-51 | 24-52 | 24-53 | 25-1 | 25-2 | 25-3 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| h5n1 | 70 | 61 | 112 | 65 | 27 | 27 | 131 | 27 | 520 |
-| mpox | 20 | 26 | 92 | 35 | 2 | 6 | 91 | 19 | 291 |
-| malaria | 27 | 76 | 60 | 30 | 15 | 10 | 30 | 8 | 256 |
-| dengue | 10 | 33 | 30 | 24 | 6 | 12 | 41 | 11 | 167 |
-| measles | 9 | 10 | 6 | 11 | 3 | 6 | 6 | 4 | 55 |
-| hpai | 2 | 4 | 6 | 12 | 1 | 4 | 18 | 3 | 50 |
-| rabies | 13 | 3 | 7 | 8 | 1 | 1 | 2 | 3 | 38 |
-| chikungunya | 6 | 7 | 8 | 0 | 2 | 0 | 7 | 6 | 36 |
-| zika | 4 | 4 | 4 | 2 | 0 | 0 | 15 | 4 | 33 |
+| h5n1 | 70 | 61 | 112 | 65 | 27 | 27 | 131 | 29 | 522 |
+| mpox | 20 | 26 | 92 | 35 | 2 | 6 | 91 | 22 | 294 |
+| malaria | 27 | 76 | 60 | 30 | 15 | 10 | 30 | 12 | 260 |
+| dengue | 10 | 33 | 30 | 24 | 6 | 12 | 41 | 12 | 168 |
+| measles | 9 | 10 | 6 | 11 | 3 | 6 | 6 | 6 | 57 |
+| hpai | 2 | 4 | 6 | 12 | 1 | 4 | 18 | 5 | 52 |
+| rabies | 13 | 3 | 7 | 8 | 1 | 1 | 2 | 4 | 39 |
+| chikungunya | 6 | 7 | 8 | 0 | 2 | 0 | 7 | 7 | 37 |
+| zika | 4 | 4 | 4 | 2 | 0 | 0 | 15 | 5 | 34 |
 | pertussis | 4 | 6 | 4 | 6 | 0 | 1 | 2 | 0 | 23 |
 | meningitis | 3 | 7 | 5 | 3 | 1 | 2 | 0 | 1 | 22 |
 | yersinia | 0 | 0 | 0 | 6 | 0 | 0 | 3 | 1 | 10 |
@@ -34,6 +34,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 25-3 (zika)
+
+- [Wirus Zika powoduje małogłowie przejmując kontrolę nad białkiem ważnym dla rozwoju mózgu](https://kopalniawiedzy.pl/Zika-maloglowie-bialko-mozg,37611) (Kopalniawiedzy.pl)
 
 - [Descubren cómo el virus Zika afecta a las embarazadas en lo podría ser una vía para nuevas vacunas](https://www.infosalus.com/asistencia/noticia-descubren-virus-zika-afecta-embarazadas-podria-ser-via-nuevas-vacunas-20250114071459.html) (Infosalus.com)
 
@@ -49,6 +51,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-3 (rabies)
 
+- [Rabies infected jackal discovered in Upper Galilee](https://www.jpost.com/breaking-news/article-837684) (The Jerusalem Post)
+
 - [Vaccine hesitancy among pet owners is growing – a public health expert explains why that matters](https://theconversation.com/vaccine-hesitancy-among-pet-owners-is-growing-a-public-health-expert-explains-why-that-matters-246376) (The Conversation Africa)
 
 - [Quebec confirms 1st rabid raccoon in decade, urges those near Vermont border to be on alert](https://www.cbc.ca/news/canada/montreal/rabies-racoon-quebec-vermont-border-1.7430060) (CBC News)
@@ -56,6 +60,12 @@ Source: [News API](https://newsapi.org/)
 - [Rabies transmitted from vampires to cattle: An overview](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317214) (Plos.org)
 
 ## 25-3 (mpox)
+
+- [Press release: UK invests £5.5 million to tackle mpox in sub-Saharan Africa](https://www.gov.uk/government/news/uk-invests-55-million-to-tackle-mpox-in-sub-saharan-africa) (Www.gov.uk)
+
+- [Wednesday headlines: Fahrenheit 20004](https://themorningnews.org/p/wednesday-headlines-fahrenheit-20004) (Themorningnews.org)
+
+- [Opičie kiahne na Slovensku stále monitorujú. Koľko máme prípadov a je dôvod na obavy?](https://zdravie.pravda.sk/zdravie-a-prevencia/clanok/737347-opicie-kiahne-na-slovensku-stale-monitoruju-kolko-mame-pripadov-a-je-dovod-na-obavy/) (Pravda.sk)
 
 - [El ECDC asegura que el riesgo para la población europea por el clado I de mpox "sigue siendo bajo"](https://www.infosalus.com/salud-investigacion/noticia-ecdc-asegura-riesgo-poblacion-europea-clado-mpox-sigue-siendo-20250114184134.html) (Infosalus.com)
 
@@ -101,6 +111,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-3 (measles)
 
+- [Signs You Are a Gen-Xer Who’s About to Turn Sixty](https://www.mcsweeneys.net/articles/signs-you-are-a-gen-xer-whos-about-to-turn-sixty) (Mcsweeneys.net)
+
+- [Ongoing measles outbreak in Romania: Clinical investigation and molecular epidemiology performed on whole genome sequences](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317045) (Plos.org)
+
 - [LASG vaccinates 24 million against yellow fever, others](https://punchng.com/lasg-vaccinates-24-million-against-yellow-fever-others/) (The Punch)
 
 - [Sick with flu? Scientists want to increase vaccine longevity](https://www.npr.org/2025/01/13/1263339278/flu-vaccine-longevity-immunity) (NPR)
@@ -110,6 +124,14 @@ Source: [News API](https://newsapi.org/)
 - [Number of cases in Quebec measles outbreak reaches 11](https://www.cbc.ca/news/canada/montreal/measles-quebec-shopping-mall-laval-bookstore-1.7429386) (CBC News)
 
 ## 25-3 (malaria)
+
+- [What's next in the fight against malaria?](https://www.newscientist.com/article/mg26535261-600-whats-next-in-the-fight-against-malaria/) (New Scientist)
+
+- [How can modeling responsibly inform decision-making in malaria?](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002991) (Plos.org)
+
+- [Retraction: Recombinant Pvs48/45 Antigen Expressed in E. coli Generates Antibodies that Block Malaria Transmission in Anopheles albimanus Mosquitoes](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317791) (Plos.org)
+
+- [Recommendations to Reduce the Risk of Transfusion-Transmitted Malaria](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/recommendations-reduce-risk-transfusion-transmitted-malaria-0) (FDA.gov)
 
 - [India Malaria Vaccine Market Research 2025: Competition, Forecasts & Opportunities, 2020-2030 - Government Initiatives, Biotechnological Advances, Cost-effective Solutions Fueling Growth](https://www.globenewswire.com/news-release/2025/01/14/3009506/28124/en/India-Malaria-Vaccine-Market-Research-2025-Competition-Forecasts-Opportunities-2020-2030-Government-Initiatives-Biotechnological-Advances-Cost-effective-Solutions-Fueling-Growth.html) (GlobeNewswire)
 
@@ -129,6 +151,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-3 (hpai)
 
+- [Blodigt: Gale mormoner, vrede indianere og lang vej hjem](https://www.computerworld.dk/art/290070/blodigt-gale-mormoner-vrede-indianere-og-lang-vej-hjem) (Computerworld.dk)
+
+- [Finanskæmpen Goldman Sachs tæt på at købe nordjysk it-firma: Prisen ryger over syv milliarder kroner](https://www.computerworld.dk/art/290088/finanskaempen-goldman-sachs-taet-paa-at-koebe-nordjysk-it-firma-prisen-ryger-over-syv-milliarder-kroner) (Computerworld.dk)
+
 - [EU i protest: Amerikanske AI-restriktioner deler unionen i A og B hold](https://www.computerworld.dk/art/290080/eu-i-protest-amerikanske-ai-restriktioner-deler-unionen-i-a-og-b-hold) (Computerworld.dk)
 
 - [Morgen-briefing: Ansættelsesstop i Microsoft-division / Apples allerførste USA-chips er klar / Analyse: 60 procent af QR-koder i mails er spamfælder](https://www.computerworld.dk/art/290079/morgen-briefing-ansaettelsesstop-i-microsoft-division-apples-allerfoerste-usa-chips-er-klar-analyse-60-procent-af-qr-koder-i-mails-er-spamfaelder) (Computerworld.dk)
@@ -136,6 +162,10 @@ Source: [News API](https://newsapi.org/)
 - [Login-udfald hos Microsoft: Office 365-brugere kan ikke anvende sikker login](https://www.computerworld.dk/art/290059/login-udfald-hos-microsoft-office-365-brugere-kan-ikke-anvende-sikker-login) (Computerworld.dk)
 
 ## 25-3 (h5n1)
+
+- [Επιστήμονες προειδοποιούν: Μετάλλαξη της γρίπης των πτηνών απειλεί όλα τα όντα του πλανήτη](https://www.skai.gr/news/environment/gripi-ton-ptinon-metallaksi-apeilei-ola-ta-onta-tou-planiti) (Skai.gr)
+
+- [Government and Industry Response to Bird Flu Could Allow Disease to Evolve](https://www.scientificamerican.com/podcast/episode/government-and-industry-response-to-bird-flu-could-allow-disease-to-evolve/) (Scientific American)
 
 - [Клетки костного мозга управляют эффективностью вакцин](https://www.nkj.ru/news/53078/) (Www.nkj.ru)
 
@@ -193,6 +223,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-3 (dengue)
 
+- [Com 17 mil vacinas em estoque, GDF pede que pais protejam filhos contra dengue](https://www.metropoles.com/distrito-federal/com-17-mil-vacinas-em-estoque-gdf-pede-que-pais-protejam-filhos-contra-dengue) (Metropoles.com)
+
 - [Coronavírus, chikungunya, dengue: de onde vêm os nomes das doenças?](https://www.metropoles.com/saude/como-sao-criados-os-nomes-das-doencas) (Metropoles.com)
 
 - [Com apoio da população e ações do GDF, dengue cai 97% em 2025](https://www.metropoles.com/distrito-federal/com-apoio-da-populacao-e-acoes-do-gdf-dengue-cai-97-em-2025) (Metropoles.com)
@@ -216,6 +248,8 @@ Source: [News API](https://newsapi.org/)
 - [Saúde falha em pontos sensíveis e fragiliza a situação de Nísia Trindade](https://veja.abril.com.br/politica/saude-falha-em-pontos-sensiveis-e-fragiliza-a-situacao-de-nisia-trindade) (Abril.com.br)
 
 ## 25-3 (chikungunya)
+
+- [Prannoy Crashes Out Of India Open R32, Reflects On Chikungunya Disease](https://sports.ndtv.com/badminton/hs-prannoy-crashes-out-in-india-open-round-of-32-reflects-on-chikungunya-disease-after-effects-7480667) (NDTV News)
 
 - [Coronavírus, chikungunya, dengue: de onde vêm os nomes das doenças?](https://www.metropoles.com/saude/como-sao-criados-os-nomes-das-doencas) (Metropoles.com)
 
