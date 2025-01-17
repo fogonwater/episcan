@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 17
-- **Last harvest:** 2025-01-16 19:05
-- **Most recent article:** 2025-01-15 18:00:00
+- **New articles in last harvest:** 8
+- **Last harvest:** 2025-01-17 07:06
+- **Most recent article:** 2025-01-16 05:22:47
 
 ---
 
@@ -12,10 +12,10 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-49 | 24-50 | 24-51 | 24-52 | 24-53 | 25-1 | 25-2 | 25-3 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| h5n1 | 70 | 61 | 112 | 65 | 27 | 27 | 131 | 29 | 522 |
+| h5n1 | 70 | 61 | 112 | 65 | 27 | 27 | 131 | 30 | 523 |
 | mpox | 20 | 26 | 92 | 35 | 2 | 6 | 91 | 22 | 294 |
-| malaria | 27 | 76 | 60 | 30 | 15 | 10 | 30 | 12 | 260 |
-| dengue | 10 | 33 | 30 | 24 | 6 | 12 | 41 | 12 | 168 |
+| malaria | 27 | 76 | 60 | 30 | 15 | 10 | 30 | 13 | 261 |
+| dengue | 10 | 33 | 30 | 24 | 6 | 12 | 41 | 18 | 174 |
 | measles | 9 | 10 | 6 | 11 | 3 | 6 | 6 | 6 | 57 |
 | hpai | 2 | 4 | 6 | 12 | 1 | 4 | 18 | 5 | 52 |
 | rabies | 13 | 3 | 7 | 8 | 1 | 1 | 2 | 4 | 39 |
@@ -125,6 +125,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-3 (malaria)
 
+- [Target-agnostic identification of human antibodies to Plasmodium falciparum sexual forms reveals cross-stage recognition of glutamate-rich repeats](https://elifesciences.org/articles/97865) (Elifesciences.org)
+
 - [What's next in the fight against malaria?](https://www.newscientist.com/article/mg26535261-600-whats-next-in-the-fight-against-malaria/) (New Scientist)
 
 - [How can modeling responsibly inform decision-making in malaria?](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002991) (Plos.org)
@@ -162,6 +164,8 @@ Source: [News API](https://newsapi.org/)
 - [Login-udfald hos Microsoft: Office 365-brugere kan ikke anvende sikker login](https://www.computerworld.dk/art/290059/login-udfald-hos-microsoft-office-365-brugere-kan-ikke-anvende-sikker-login) (Computerworld.dk)
 
 ## 25-3 (h5n1)
+
+- [Bird Flu: CDC confirms case of H5N1 identified in San Francisco juvenile, the 2nd child case in the US](https://abc13.com/post/bird-flu-cdc-confirms-case-h5n1-identified-san-francisco-juvenile-2nd-child-us/15803284/) (KTRK-TV)
 
 - [Επιστήμονες προειδοποιούν: Μετάλλαξη της γρίπης των πτηνών απειλεί όλα τα όντα του πλανήτη](https://www.skai.gr/news/environment/gripi-ton-ptinon-metallaksi-apeilei-ola-ta-onta-tou-planiti) (Skai.gr)
 
@@ -222,6 +226,18 @@ Source: [News API](https://newsapi.org/)
 - [UNAM pide a México a estar alerta ante la evolución del virus de influenza H5N1, ¿por qué?](https://www.elfinanciero.com.mx/salud/2025/01/11/unam-pide-a-mexico-a-estar-alerta-ante-la-evolucion-del-virus-de-influenza-h5n1-por-que/) (El Financiero)
 
 ## 25-3 (dengue)
+
+- [Até levedo de cerveja: veja tecnologias do GDF para combater a dengue](https://www.metropoles.com/distrito-federal/ate-levedo-de-cerveja-veja-tecnologias-do-gdf-para-combater-a-dengue) (Metropoles.com)
+
+- [Dengue and Other Arbovirus Infections among Schoolchildren, Haiti, 2021](https://wwwnc.cdc.gov/eid/article/31/2/24-0791_article) (Cdc.gov)
+
+- [Cegah Penyakit DBD, Babinsa Koramil 0826-01 Pamekasan dan Petugas Puskesmas Teja Lakukan Fogging](https://suaraindonesia-news.com/cegah-penyakit-dbd-babinsa-koramil-0826-01-pamekasan-dan-petugas-puskesmas-teja-lakukan-fogging/) (Suaraindonesia-news.com)
+
+- [Oferta da vacina da dengue na rede privada continua limitada, diz farmacêutica](https://valor.globo.com/brasil/noticia/2025/01/15/oferta-da-vacina-da-dengue-na-rede-privada-continua-limitada-diz-farmacutica.ghtml) (Globo)
+
+- [Estado de São Paulo registra sua primeira morte por dengue em 2025](https://valor.globo.com/brasil/noticia/2025/01/15/estado-de-sao-paulo-registra-sua-primeira-morte-por-dengue-em-2025.ghtml) (Globo)
+
+- [Dengue: Governo de SP aposta em nova estratégia para combater a doença](https://www.metropoles.com/sao-paulo/dengue-governo-de-sp-aposta-em-nova-estrategia-para-combater-a-doenca) (Metropoles.com)
 
 - [Com 17 mil vacinas em estoque, GDF pede que pais protejam filhos contra dengue](https://www.metropoles.com/distrito-federal/com-17-mil-vacinas-em-estoque-gdf-pede-que-pais-protejam-filhos-contra-dengue) (Metropoles.com)
 
