@@ -1,8 +1,512 @@
 {
-  "last_updated": "2025-01-17 07:06",
-  "count_articles_total": 1471,
-  "count_articles_new": 8,
+  "last_updated": "2025-01-17 19:05",
+  "count_articles_total": 1499,
+  "count_articles_new": 28,
   "articles": [
+    {
+      "id": 17498,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Guilherme Bianchi",
+      "title": "Dengue: Minist\u00e9rio da Sa\u00fade confirma 1\u00b0 morte pela doen\u00e7a em SP no ano",
+      "description": "Primeira morte por dengue no estado de SP foi registrada em Birigui, no interior. O Minist\u00e9rio da Sa\u00fade investiga outros 45 \u00f3bitos suspeitos",
+      "url": "https://www.metropoles.com/sao-paulo/dengue-ministerio-da-saude-confirma-1-morte-pela-doenca-em-sp-no-ano",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/02/23144400/DF-lanca-edital-para-200-medicos-temporarios-contra-dengue-salarios-de-R-10-mil.jpg",
+      "publishedAt": "2025-01-16 19:01:42",
+      "content": "S\u00e3o Paulo Segundo informa\u00e7\u00f5es do Painel de Monitoramento das Arboviroses do Minist\u00e9rio da Sa\u00fade, foi confirmada a primeira morte por dengue no estado de S\u00e3o Paulo em 2025, registrada no munic\u00edpio de\u2026 [+2669 chars]",
+      "retrievedAt": "2025-01-17 19:05:56.215709",
+      "internal_id": "cd6a74a62be9f6a0b801da4430615d641bf11399af461b349815329df7788c51",
+      "publishedAtLabel": "Jan 16"
+    },
+    {
+      "id": 17490,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Sapo.pt",
+      "author": "Jornal i",
+      "title": "OMS preocupada com poss\u00edvel muta\u00e7\u00e3o do v\u00edrus da gripe avi\u00e1ria",
+      "description": "Diretor lembra que desde que o primeiro caso em humanos foi detetado, em 2003, o H5N1 \"matou quase metade daqueles que atingiu\". O conte\u00fado OMS preocupada com poss\u00edvel muta\u00e7\u00e3o do v\u00edrus da gripe avi\u00e1ria aparece primeiro em Jornal i.",
+      "url": "https://ionline.sapo.pt/2025/01/16/oms-preocupada-com-possivel-mutacao-do-virus-da-gripe-aviaria/",
+      "urlToImage": "https://ionline.sapo.pt/wp-content/uploads/2025/01/TedrosAdhanomGhebreyesus.afp_.jpg",
+      "publishedAt": "2025-01-16 18:54:09",
+      "content": "Diretor lembra que desde que o primeiro caso em humanos foi detetado, em 2003, o H5N1 \u201cmatou quase metade daqueles que atingiu\u201d. Em 2024 foram reportadas mais de 80 infe\u00e7\u00f5es com a gripe das aves em h\u2026 [+1146 chars]",
+      "retrievedAt": "2025-01-17 19:05:55.878817",
+      "internal_id": "a4336d8736c594aa17d13aedbdc406e77c0da3cae031e1e40557d3405bac3b2b",
+      "publishedAtLabel": "Jan 16"
+    },
+    {
+      "id": 17479,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "Child undernutrition may be contributing to global measles outbreaks, researchers find",
+      "description": "Amid a global surge in measles cases, new research suggests that undernutrition may be exacerbating outbreaks in areas suffering from food insecurity. A study involving over 600 fully vaccinated children in South Africa found those who were undernourished had\u2026",
+      "url": "https://www.sciencedaily.com/releases/2025/01/250116133323.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2025-01-16 18:33:23",
+      "content": "Amid a global surge in measles cases, new research suggests that undernutrition may be exacerbating outbreaks in areas suffering from food insecurity.A study involving over 600 fully vaccinated child\u2026 [+2451 chars]",
+      "retrievedAt": "2025-01-17 19:05:55.034599",
+      "internal_id": "56ffaa61337125c4ded4bae0f30a8e60bb7adb2b8b4040489d5a6fc5280c61fc",
+      "publishedAtLabel": "Jan 16"
+    },
+    {
+      "id": 17486,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Shtfplan.com",
+      "author": "Mac Slavo",
+      "title": "Bird Flu Response: Biden Admin Allocates $306 Million In Its Final Days",
+      "description": "The Biden administration has allocated $306 million in its final days as the ruling party of the United States, to the bird flu plandemic response. The \"critical\" funding comes as the H5N1 avian influenza outbreak continues and will go toward developing a res\u2026",
+      "url": "https://www.shtfplan.com/headline-news/bird-flu-response-biden-admin-allocates-306-million-in-its-final-days",
+      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2024/05/birdflu.jpg",
+      "publishedAt": "2025-01-16 18:30:56",
+      "content": "The Biden administration has allocated $306 million in its final days as the ruling party of the United States, to the bird flu plandemic response. The \u201ccritical\u201d funding comes as the H5N1 avian infl\u2026 [+2479 chars]",
+      "retrievedAt": "2025-01-17 19:05:55.822863",
+      "internal_id": "44d470b3e043c1a9ecd39443d4ed2948036db15ad63ac74f8e83489d9a56ee46",
+      "publishedAtLabel": "Jan 16"
+    },
+    {
+      "id": 17491,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Elmercurio.com.ec",
+      "author": "CMV",
+      "title": "OMS advierte sobre la amenaza de la gripe aviar tras el a\u00f1o con m\u00e1s contagios desde 2015",
+      "description": "En 2024 se registraron 81 casos de gripe aviar (H5N1) en humanos, la cifra m\u00e1s alta desde 2015, y el virus preocupa por su alta letalidad y el temor a que evolucione a cepas m\u00e1s contagiosas, advirti\u00f3 este jueves16 de enero de 2025 el director general de la Or\u2026",
+      "url": "https://elmercurio.com.ec/2025/01/16/oms-advierte-sobre-la-amenaza-de-la-gripe-aviar-tras-el-ano-con-mas-contagios-desde-2015/",
+      "urlToImage": null,
+      "publishedAt": "2025-01-16 17:28:43",
+      "content": "En 2024 se registraron 81 casos de gripe aviar (H5N1) en humanos, la cifra m\u00e1s alta desde 2015, y el virus preocupa por su alta letalidad y el temor a que evolucione a cepas m\u00e1s contagiosas, advirti\u00f3\u2026 [+1871 chars]",
+      "retrievedAt": "2025-01-17 19:05:55.891387",
+      "internal_id": "5b2af1eeb2d827e09e12c3b7c3c00df09a3d92f78900e5d0e59bc591da2f155b",
+      "publishedAtLabel": "Jan 16"
+    },
+    {
+      "id": 17488,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Vancouver backyard chickens practise social distancing from wild birds amid H5N1 risk",
+      "description": "B.C's chief veterinarian, Dr. Theresa Burns, urged owners of small or backyard flocks to stay vigilant and implement preventive measures, such as keeping their birds' environment clean and dry.",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/backyard-chickens-h5n1-1.7433052",
+      "urlToImage": "https://i.cbc.ca/1.7433071.1737044745!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_1180/avian-flu-bc-20250116.jpg?im=Resize%3D620",
+      "publishedAt": "2025-01-16 17:03:47",
+      "content": "Lumpy Eye the chicken has made plenty of friends in her East Vancouver neighbourhood over the years, said owner Duncan Martin, with passersby regularly greeting her in the yard outside their home. B\u2026 [+5212 chars]",
+      "retrievedAt": "2025-01-17 19:05:55.847657",
+      "internal_id": "2fd0be9f7ddf9a8443943fcf340a2531a37721c719642601abc9b5f9ca54af6e",
+      "publishedAtLabel": "Jan 16"
+    },
+    {
+      "id": 17489,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Forbes.com.mx",
+      "author": "Forbes Staff",
+      "title": "OMS advierte sobre la amenaza de la gripe aviar tras un 2024 con m\u00e1s contagios desde 2015",
+      "description": "Forbes M\u00e9xico. OMS advierte sobre la amenaza de la gripe aviar tras un 2024 con m\u00e1s contagios desde 2015 'Desde el primer caso humano diagnosticado en 2003, el H5N1 ha matado a casi la mitad de las personas que se contagiaron', reconoci\u00f3 el director general\u2026",
+      "url": "https://forbes.com.mx/oms-advierte-sobre-la-amenaza-de-la-gripe-aviar-tras-un-2024-con-mas-contagios-desde-2015/",
+      "urlToImage": "https://cdn.forbes.com.mx/2023/02/gripe-aviar.webp",
+      "publishedAt": "2025-01-16 16:46:14",
+      "content": "En 2024 se registraron 81 casos de gripe aviar (H5N1) en humanos, la cifra m\u00e1s alta desde 2015, y el virus preocupa por su alta letalidad y el temor a que evolucione a cepas m\u00e1s contagiosas, advirti\u00f3\u2026 [+2034 chars]",
+      "retrievedAt": "2025-01-17 19:05:55.865589",
+      "internal_id": "80916f887c3581cba034397981ea074d38fc69f1834fc981a2f402ec7700d40e",
+      "publishedAtLabel": "Jan 16"
+    },
+    {
+      "id": 17493,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "La OMS alerta del mayor n\u00famero de casos humanos de gripe aviar H5 desde 2015",
+      "description": "El director general de la Organizaci\u00f3n Mundial de la Salud (OMS), Tedros Adhanom Ghebreyesus, ha alertado este jueves del mayor n\u00famero de casos humanos de gripe aviar H5 registrados desde 2015, tras lo que ha resaltado su \"particular preocupaci\u00f3n\" por el H5N1\u2026",
+      "url": "https://www.infosalus.com/asistencia/noticia-oms-alerta-mayor-numero-casos-humanos-gripe-aviar-h5-2015-20250116174543.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20250116174543_1200.jpg",
+      "publishedAt": "2025-01-16 16:45:43",
+      "content": "MADRID 16 Ene. (EUROPA PRESS) - El director general de la Organizaci\u00f3n Mundial de la Salud (OMS), Tedros Adhanom Ghebreyesus, ha alertado este jueves del mayor n\u00famero de casos humanos de gripe avi\u2026 [+4880 chars]",
+      "retrievedAt": "2025-01-17 19:05:55.916304",
+      "internal_id": "31a1d28341bc366c757c12649df45e6e7b83a5dbda92162d2a9d792fa1d98116",
+      "publishedAtLabel": "Jan 16"
+    },
+    {
+      "id": 17481,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Computerworld.dk",
+      "author": "Anders Bruun",
+      "title": "OpenAI tager konkurrencen op med Alexa og Siri: Det kan AI-frontl\u00f8berens nye assistent",
+      "description": "Snart kan ChatGPT-brugere sammenligne egenskaberne ved OpenAI's nye robot med Apples Siri og Amazons Alexa.",
+      "url": "https://www.computerworld.dk/art/290094/openai-tager-konkurrencen-op-med-alexa-og-siri-det-kan-ai-frontloeberens-nye-assistent",
+      "urlToImage": "https://www.computerworld.dk/fil/222816?width=600&height=315&focus=1",
+      "publishedAt": "2025-01-16 16:32:00",
+      "content": "Snart kan ChatGPT-brugere sammenligne egenskaberne ved OpenAI's nye robot med Apples Siri og Amazons Alexa.Annonceindl\u00e6g fra HPAI-ekspert Robert Luciani: Den rigtige teknologi er afg\u00f8rende for succes\u2026 [+1725 chars]",
+      "retrievedAt": "2025-01-17 19:05:55.432890",
+      "internal_id": "da4a424486c1afb596d41e58a7c3a183ee2572fcaf1cda0044fc5f9a69f80234",
+      "publishedAtLabel": "Jan 16"
+    },
+    {
+      "id": 17500,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "DIE WELT",
+      "author": "Louis Polczynski",
+      "title": "Mensch und Affe \u2013 von Malaria gepr\u00e4gt",
+      "description": "Schimpansen leben sowohl in dichten W\u00e4ldern als auch in der Savanne. Sie haben sich im Laufe der Evolution an die unterschiedlichsten Umweltbedingungen angepasst. Wie, das untersuchen Forscher genetisch \u2013 und entdecken dabei Parallelen zum Menschen.",
+      "url": "https://www.welt.de/wissenschaft/article255127150/Evolution-des-Immunsystems-Mensch-und-Affe-von-Malaria-gepraegt.html",
+      "urlToImage": "https://img.welt.de/img/wissenschaft/mobile255127134/6607938327-ci16x9-w1200/Schimpansen-Pan-Troglodytes-im-Wald-lausen-sich-Kibale-Nationalpark-Uganda-Afrika.jpg",
+      "publishedAt": "2025-01-16 15:35:49",
+      "content": "Schimpansen leben sowohl in dichten W\u00e4ldern als auch in der Savanne. Sie haben sich im Laufe der Evolution an die unterschiedlichsten Umweltbedingungen angepasst. Wie, das untersuchen Forscher geneti\u2026 [+4492 chars]",
+      "retrievedAt": "2025-01-17 19:05:57.193499",
+      "internal_id": "9da2d44261d376800ada40add8e7a50e53dcdd950a8a2090fdc7dd7e20d10210",
+      "publishedAtLabel": "Jan 16"
+    },
+    {
+      "id": 17494,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "OMS advierte sobre amenaza de gripe aviar tras el a\u00f1o con m\u00e1s contagios desde 2015",
+      "description": "El virus preocupa por su alta letalidad y el temor a que evolucione a cepas m\u00e1s contagiosas.",
+      "url": "https://www.montevideo.com.uy/Salud/OMS-advierte-sobre-amenaza-de-gripe-aviar-tras-el-ano-con-mas-contagios-desde-2015-uc912284",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202203/_W933_80/794416.jpg",
+      "publishedAt": "2025-01-16 15:35:00",
+      "content": "En 2024 se registraron 81 casos de gripe aviar (H5N1) en humanos, la cifra m\u00e1s alta desde 2015, y el virus preocupa por su alta letalidad y el temor a que evolucione a cepas m\u00e1s contagiosas, advirt\u2026 [+1895 chars]",
+      "retrievedAt": "2025-01-17 19:05:55.923743",
+      "internal_id": "017fd5474ee9b172926ac761ce1d7d6971ba3ec41a4da0441bc9500d8dce9054",
+      "publishedAtLabel": "Jan 16"
+    },
+    {
+      "id": 17504,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Punknews.org",
+      "author": "emmoore@nospam.punknews.org (emmoore)",
+      "title": "Festivals & Events: ShyGodwin, Desert Sharks, Eevie Echoes and the Locations, more to play Loud Women Fest NYC",
+      "description": "Loud Women Fest has announced the first wave lineup for the New York City edition of their festival. ShyGodwin, Desert Sharks, Eevie Echoes and The Locations, I, Doris, Typhoid Rosie, Sorry Darling, and Dubais will be playing the festival. Loud Women Fest New\u2026",
+      "url": "https://www.punknews.org/article/84607/festsandevents-shygodwin-desert-sharks-eevie-echoes-and-the-locations-more-to-play-loud-women-fest-nyc",
+      "urlToImage": "https://static.punknews.org/images/frontpage/fp-1737040818.jpg",
+      "publishedAt": "2025-01-16 15:30:01",
+      "content": "Loud Women Fest has announced the first wave lineup for the New York City edition of their festival. ShyGodwin, Desert Sharks, Eevie Echoes and The Locations, I, Doris, Typhoid Rosie, Sorry Darling, \u2026 [+129 chars]",
+      "retrievedAt": "2025-01-17 19:05:58.398809",
+      "internal_id": "c79ec3384a2bf29a0fe199f760fd23d7664e4b2823d3fd08a0c522f242c42a62",
+      "publishedAtLabel": "Jan 16"
+    },
+    {
+      "id": 17497,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Luiz Paulo Souza",
+      "title": "Dengue: veja o ranking dos estados com maior n\u00famero de casos",
+      "description": "Acre, Esp\u00edrito Santo e S\u00e3o Paulo s\u00e3o as unidades federativas com maior incid\u00eancia de casos em rela\u00e7\u00e3o ao n\u00famero de habitantes",
+      "url": "https://veja.abril.com.br/saude/dengue-veja-o-ranking-dos-estados-com-maior-numero-de-casos",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2019/05/mundo-dengue-aedes-aegypti-20110116-009.jpg?quality=70&strip=info&crop=1&resize=1080,565",
+      "publishedAt": "2025-01-16 15:16:43",
+      "content": "Oferta Rel\u00e2mpago: 4 revistas pelo pre\u00e7o de uma!Aedes aegypti: mosquito transmissor da dengue (Joao Paulo Burini/Getty Images) Continua ap\u00f3s publicidade O ano passado come\u00e7ou com um grande alerta ve\u2026 [+5353 chars]",
+      "retrievedAt": "2025-01-17 19:05:56.185539",
+      "internal_id": "ae8ba9634506b7243922dd73c373d46c0264d31f0328e6e6caa8e9e245e0b926",
+      "publishedAtLabel": "Jan 16"
+    },
+    {
+      "id": 17499,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Rocha, M. F., Bain, H. D. C., Stone, N., Meya, D., Darie, L., Toma, A. K., Lunn, M. P. T., Mehta, A. R., Coughlan, C.",
+      "title": "Reframing the clinical phenotype and management of cryptococcal meningitis",
+      "description": "Cryptococcal meningitis is an important global health problem, resulting from infection with the yeast Cryptococcus , especially Cryptococcus neoformans and Cryptococcus gattii , which cause a spectrum of disease ranging from pulmonary and skin lesions to lif\u2026",
+      "url": "https://pn.bmj.com/content/25/1/25",
+      "urlToImage": "https://pn.bmj.com/sites/default/files/highwire/practneurol/25/1.cover-source.jpg",
+      "publishedAt": "2025-01-16 15:00:41",
+      "content": "Advanced HIV infection is the cardinal risk factor for cryptococcal meningitis (CM). Since the advent of cheap, widely available antiretroviral therapy, the incidence of CM has diverged in high-incom\u2026 [+9187 chars]",
+      "retrievedAt": "2025-01-17 19:05:56.684221",
+      "internal_id": "be56c0d14f1161f84d187fe30bd243060f14bb66fe5a9fc9d4224dbb2cdf22fe",
+      "publishedAtLabel": "Jan 16"
+    },
+    {
+      "id": 17482,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Computerworld.dk",
+      "author": "Niels de Boissezon",
+      "title": "Disse vilde sci-fi-visioner er overraskende t\u00e6t p\u00e5 at blive til virkelighed: Kan v\u00e6re p\u00e5 vej",
+      "description": "Flyvende biler, teleskop-sk\u00e6rme og hjemme-robotter der rydder op for en. Her er nogle sci-fi-nyheder, som er i vente for \u00e5ret, der kommer.",
+      "url": "https://www.computerworld.dk/art/290115/disse-vilde-sci-fi-visioner-er-overraskende-taet-paa-at-blive-til-virkelighed-kan-vaere-paa-vej",
+      "urlToImage": "https://www.computerworld.dk/fil/230833?width=600&height=315&focus=1",
+      "publishedAt": "2025-01-16 14:59:00",
+      "content": "Flyvende biler, teleskop-sk\u00e6rme og hjemme-robotter der rydder op for en. Her er nogle sci-fi-nyheder, som er i vente for \u00e5ret, der kommer.Annonceindl\u00e6g fra HPAI-ekspert Robert Luciani: Den rigtige te\u2026 [+6015 chars]",
+      "retrievedAt": "2025-01-17 19:05:55.440793",
+      "internal_id": "3c9b00c5e9f75dfa076456cdcb9ffee065d281dca012a2102a6ccf1364ebabb9",
+      "publishedAtLabel": "Jan 16"
+    },
+    {
+      "id": 17501,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Themorningnews.org",
+      "author": null,
+      "title": "Thursday headlines: Words cannot espresso",
+      "description": "Qatar, Egypt, and the United States announce a cease-fire deal, though Israel has yet to convene ministers to discuss it. / Reuters Ilan Goldenberg: The most realistic scenario is that Hamas and Israel paper over their differences on post-conflict governance\u2026",
+      "url": "https://themorningnews.org/p/thursday-headlines-words-cannot-espresso",
+      "urlToImage": "https://themorningnews.org/images/tmn-logo-share.png",
+      "publishedAt": "2025-01-16 14:46:00",
+      "content": "In an unwritten, unannounced policy change, Louisiana's Dept. of Health is forbidding employees from promoting Covid, flu, or mpox vaccines. / NPR Photos of daily life for the Palestinian people\u2014\"be\u2026 [+2219 chars]",
+      "retrievedAt": "2025-01-17 19:05:57.946350",
+      "internal_id": "b4aa090c469e8f0460b169e3a768ff3d205b51c0f3425d9b3ba09daa2657a296",
+      "publishedAtLabel": "Jan 16"
+    },
+    {
+      "id": 17496,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Nabila AbuBakar, Jerzy M. Behnke, Norhidayu Sahimin, Xiaoye Kang, Siti Nursyahirah Mohd Shahar, Yvonne Ai Lian Lim, Siti Nursheena Mohd Zain",
+      "title": "The dengue disquisition: A low-cost public housing conundrum in Klang Valley, Malaysia",
+      "description": "Dengue remains the most rapidly advancing vector-borne disease in the world, and while the disease burden is predominantly in low-to-middle-income countries, the association with poverty remains in question. Consequently, a study was undertaken to evaluate th\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317349",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0317349.g002&size=inline",
+      "publishedAt": "2025-01-16 14:00:00",
+      "content": "Abstract Dengue remains the most rapidly advancing vector-borne disease in the world, and while the disease burden is predominantly in low-to-middle-income countries, the association with poverty re\u2026 [+34869 chars]",
+      "retrievedAt": "2025-01-17 19:05:56.166693",
+      "internal_id": "4817731b7e37e749429b10c9873002f15215683e076b98e48520cf34775a26d1",
+      "publishedAtLabel": "Jan 16"
+    },
+    {
+      "id": 17505,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Arman Hossain Chowdhury, Md. Siddikur Rahman",
+      "title": "Machine learning and spatio-temporal analysis of meteorological factors on waterborne diseases in Bangladesh",
+      "description": "Author summary Bangladesh is increasingly vulnerable to waterborne illnesses, exacerbated by climate change. This study uses spatial analysis, regression, and machine learning models to investigate the spatiotemporal patterns of cholera, typhoid, hepatitis A,\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012800",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012800.g006&size=inline",
+      "publishedAt": "2025-01-16 14:00:00",
+      "content": "Abstract Background Bangladesh is facing a formidable challenge in mitigating waterborne diseases risk exacerbated by climate change. However, a comprehensive understanding of the spatio-temporal d\u2026 [+47969 chars]",
+      "retrievedAt": "2025-01-17 19:05:58.406665",
+      "internal_id": "0d08f0380eb2b6fdf27d8ab6d9aa1a3ae53517290fdff6204f720519dd66afeb",
+      "publishedAtLabel": "Jan 16"
+    },
+    {
+      "id": 17506,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Rodrigue Govan, Romane Scherrer, Baptiste Fougeron, Christine Laporte-Magoni, Roman Thibeaux, Pierre Genthon, Philippe Fournier-Viger, Cyrille Goarant, Nazha Selmaoui-Folcher",
+      "title": "Spatio-temporal risk prediction of leptospirosis: A machine-learning-based approach",
+      "description": "Author summary Leptospirosis is a neglected worldwide zoonosis caused by the Leptospira bacteria, responsible for nearly 60,000 deaths annually. It is transmitted to humans through contact with infected mammals and contaminated environments, where mammals, pa\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012755",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012755.g006&size=inline",
+      "publishedAt": "2025-01-16 14:00:00",
+      "content": "Abstract Background Leptospirosis is a neglected zoonotic disease prevalent worldwide, particularly in tropical regions experiencing frequent rainfall and severe cyclones, which are further aggrava\u2026 [+74648 chars]",
+      "retrievedAt": "2025-01-17 19:05:58.570617",
+      "internal_id": "1115daa9350e9e5c764ca425680fe22d421b55503295ce317778feed7a03076e",
+      "publishedAtLabel": "Jan 16"
+    },
+    {
+      "id": 17484,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Kimberly Dodd, Dean of College of Veterinary Medicine, Michigan State University",
+      "title": "Bird flu flares up again in Michigan poultry \u2013 an infectious disease expert explains the risk to humans, chickens, cows and other animals",
+      "description": "Officials have confirmed eight new outbreaks in Michigan poultry flocks since mid-December.",
+      "url": "https://theconversation.com/bird-flu-flares-up-again-in-michigan-poultry-an-infectious-disease-expert-explains-the-risk-to-humans-chickens-cows-and-other-animals-233061",
+      "urlToImage": "https://images.theconversation.com/files/639898/original/file-20241219-15-tg3kga.jpg?ixlib=rb-4.1.0&rect=53%2C1221%2C5541%2C2766&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2025-01-16 13:53:05",
+      "content": "The H5N1 virus has been found in poultry and cattle farms across southwest and central Michigan. Matthew Hatcher/AFP via Getty Images After a relatively quiet fall, there\u2019s been another spike in cas\u2026 [+8097 chars]",
+      "retrievedAt": "2025-01-17 19:05:55.779472",
+      "internal_id": "e6c34403d04edefcdb261822897aa28490f65f2b6d1fc8869dad4d8b9ad646cd",
+      "publishedAtLabel": "Jan 16"
+    },
+    {
+      "id": 17483,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Huffingtonpost.es",
+      "author": "Redacci\u00f3n HuffPost",
+      "title": "Primera zona de la pen\u00ednsula que proh\u00edbe la cr\u00eda de gallinas al aire libre por el brote de gripe aviar",
+      "description": "El martes 7 de enero, la Direcci\u00f3n General de Salud (DGS) de Portugal alert\u00f3 de un foco de gripe aviar, concretamente del subtipo H5N1 al que calific\u00f3 de \"altamente pat\u00f3geno\". El brote se detect\u00f3 en une explotaci\u00f3n de gallinas ponedoras de la loca\u2026",
+      "url": "https://www.huffingtonpost.es/life/animales/primera-zona-peninsula-prohibe-cria-gallinas-aire-libre-brote-gripe-aviar.html",
+      "urlToImage": "https://img.huffingtonpost.es/files/og_thumbnail/uploads/2025/01/16/una-gallina-en-el-campo.jpeg",
+      "publishedAt": "2025-01-16 13:33:58",
+      "content": "El martes 7 de enero, la Direcci\u00f3n General de Salud (DGS) de Portugal alert\u00f3 de un foco de gripe aviar, concretamente del subtipo H5N1 al que calific\u00f3 de \"altamente pat\u00f3geno\". El brote se detect\u00f3 en \u2026 [+1062 chars]",
+      "retrievedAt": "2025-01-17 19:05:55.772234",
+      "internal_id": "ea5838ac2d0cc285706f66ac3e935f443ca8edceade6532d634df6e38c923cea",
+      "publishedAtLabel": "Jan 16"
+    },
+    {
+      "id": 17502,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Emergent Biosolutions, Inc.",
+      "title": "Enrollment Starts in Africa CDC-Led MpOx Therapeutic Study (MOSA)",
+      "description": "Africa CDC\u2019s support for the MOSA has enabled the enrollment of the first patients at Mbandaka Hospital in Equateur Province, Democratic Republic of Congo.",
+      "url": "https://www.globenewswire.com/news-release/2025/01/16/3010730/33240/en/Enrollment-Starts-in-Africa-CDC-Led-MpOx-Therapeutic-Study-MOSA.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/56a9097d-af91-4bcf-8c42-5905e1614ef1",
+      "publishedAt": "2025-01-16 13:00:00",
+      "content": "ADDIS ABABA, Ethiopia and KINSHASA, Democratic Republic of the Congo and WASHINGTON and PARIS, Jan. 16, 2025 (GLOBE NEWSWIRE) -- Africa CDCs support for the MOSA, a pan-African randomized platform ad\u2026 [+6962 chars]",
+      "retrievedAt": "2025-01-17 19:05:57.965565",
+      "internal_id": "31bc10c1e9ae8fb36d3bf10bb1e134907d1ba1f1239cda2a30944918622025d9",
+      "publishedAtLabel": "Jan 16"
+    },
+    {
+      "id": 17487,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Rg.ru",
+      "author": null,
+      "title": "\u0412\u0440\u0430\u0447 \u041a\u0430\u0440\u043f\u0435\u043d\u043a\u043e \u0440\u0430\u0441\u0441\u043a\u0430\u0437\u0430\u043b, \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e \u043b\u0438 \u0432 \u0420\u043e\u0441\u0441\u0438\u0438 \u0437\u0430\u0440\u0430\u0437\u0438\u0442\u044c\u0441\u044f \u043f\u0442\u0438\u0447\u044c\u0438\u043c \u0433\u0440\u0438\u043f\u043f\u043e\u043c",
+      "description": "\u0412 \u0421\u0428\u0410 \u0437\u0430\u0444\u0438\u043a\u0441\u0438\u0440\u043e\u0432\u0430\u043d \u043f\u0435\u0440\u0432\u044b\u0439 \u0441\u043b\u0443\u0447\u0430\u0439 \u0441\u043c\u0435\u0440\u0442\u0438 \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u0430 \u043e\u0442 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430 - \u0437\u0430\u0431\u043e\u043b\u0435\u043b \u0436\u0438\u0442\u0435\u043b\u044c \u041b\u0443\u0438\u0437\u0438\u0430\u043d\u044b, \u0437\u0430\u0440\u0430\u0437\u0438\u043b\u0441\u044f \u043e\u043d, \u043a\u0430\u043a \u0441\u043e\u043e\u0431\u0449\u0430\u0435\u0442\u0441\u044f, \u043e\u0442 \u043f\u0442\u0438\u0446 \u043d\u0430 \u0441\u0432\u043e\u0435\u043c \u043f\u043e\u0434\u0432\u043e\u0440\u044c\u0435. \u0415\u0449\u0435 \u0432 \u043e\u0434\u043d\u043e\u043c \u0448\u0442\u0430\u0442\u0435 - \u041a\u0430\u043b\u0438\u0444\u043e\u0440\u043d\u0438\u0438 - \u043f\u043e \u0442\u0440\u0435\u0431\u043e\u0432\u0430\u043d\u0438\u044e \u044d\u043f\u0438\u0434\u0435\u043c\u0438\u043e\u043b\u043e\u0433\u043e\u0432 \u0432\u043b\u0430\u0441\u0442\u0438 \u0432\u0432\u0435\u043b\u0438 \u0447\u0440\u0435\u0437\u0432\u044b\u0447\u0430\u0439\u043d\u043e\u0435 \u043f\u043e\u043b\u043e\u0436\u0435\u043d\u0438\u0435 - \u0442\u0443\u0442 \u0438\u043d\u0444\u0435\u2026",
+      "url": "https://rg.ru/2025/01/16/vrach-karpenko-rasskazal-vozmozhno-li-v-rossii-zarazitsia-ptichim-grippom.html",
+      "urlToImage": "https://cdnstatic.rg.ru/uploads/images/2025/01/16/ria_8111417hr_500.jpg",
+      "publishedAt": "2025-01-16 12:57:04",
+      "content": "? : - , , . , \"\" , , . : , , . : (N) (H). , : H5N1, H3N2, H7N5 . , , , . ? : , . , . , , , , . , , . , , , - . , , ? : 1996 . 2006 . 5-7 , . \"\" , - , . , , . , 2006 , , 18, 30 - . , \u2026 [+1226 chars]",
+      "retrievedAt": "2025-01-17 19:05:55.840924",
+      "internal_id": "64ed8c77e7055d42430dca075b7909e4ba575a36086c51d46fdbb0c26c70a4ce",
+      "publishedAtLabel": "Jan 16"
+    },
+    {
+      "id": 17485,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "bild",
+      "source_name": "Bild",
+      "author": "Jana Godau",
+      "title": "Vogelgrippe in Baden-W\u00fcrttemberg ausgebrochen - Beh\u00f6rde l\u00e4sst 50.000 Puten t\u00f6ten",
+      "description": "Die hochansteckende Vogelgrippe-Variante H5N1 ist in einem Putenmastbetrieb in Schw\u00e4bisch Hall ausgebrochen. Die Tiere wurden get\u00f6tet, eine Sperrzone eingerichtet.",
+      "url": "https://www.bild.de/regional/baden-wuerttemberg/vogelgrippe-in-baden-wuerttemberg-tausende-puten-sterben-6787d507c2567f3a04ccad99",
+      "urlToImage": "https://images.bild.de/6787d507c2567f3a04ccad99/451f5648015ec6818d70c2265f3fe21c,1dc40fd9?w=1280",
+      "publishedAt": "2025-01-16 12:46:12",
+      "content": "Schw\u00e4bisch Hall Die Virusvariante ist hochansteckend, die ersten Tiere mussten sterben: In Baden-W\u00fcrttemberg ist die Vogelgrippe ausgebrochen! In einem Putenmastbetrieb im Landkreis Schw\u00e4bisch Hall \u2026 [+2230 chars]",
+      "retrievedAt": "2025-01-17 19:05:55.815497",
+      "internal_id": "0742d7df42aa257177b01d0d4c88567f8305d14611a84878883459ea8a76f148",
+      "publishedAtLabel": "Jan 16"
+    },
+    {
+      "id": 17503,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Kevinmd.com",
+      "author": "Mitchell Berger, MPH",
+      "title": "Why the opioid crisis and youth mental health demand urgent parity reforms in 2025",
+      "description": "At the beginning of 2024, the nation continued to experience the impact of three declared public health emergencies with significant behavioral health implications: COVID-19, Mpox, and the opioid crisis. At the same time, three major national associations con\u2026",
+      "url": "https://kevinmd.com/2025/01/why-the-opioid-crisis-and-youth-mental-health-demand-urgent-parity-reforms-in-2025.html",
+      "urlToImage": "https://kevinmd.com/wp-content/uploads/shutterstock_2469933529.jpg",
+      "publishedAt": "2025-01-16 12:00:10",
+      "content": "At the beginning of 2024, the nation continued to experience the impact of three declared public health emergencies with significant behavioral health implications: COVID-19, Mpox, and the opioid cri\u2026 [+6667 chars]",
+      "retrievedAt": "2025-01-17 19:05:58.000163",
+      "internal_id": "f7765d1aa7d5344d19927ced34a36bd846564e5c5064abbfc14afdb0d8e67cb4",
+      "publishedAtLabel": "Jan 16"
+    },
+    {
+      "id": 17480,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Computerworld.dk",
+      "author": "Dan Jensen",
+      "title": "Anmeldes til datatilsyn: Disse kinesiske selskaber overf\u00f8rer data til Kina, n\u00e5r du anvender deres l\u00f8sninger",
+      "description": "Kendte og udbredte kinesiske selskaber overf\u00f8rer i stor stil europ\u00e6ernes data til Kina, n\u00e5r europ\u00e6erne anvender dem, lyder det fra Max Schrems privacy-organisation Noyb.",
+      "url": "https://www.computerworld.dk/art/290109/anmeldes-til-datatilsyn-disse-kinesiske-selskaber-overfoerer-data-til-kina-naar-du-anvender-deres-loesninger",
+      "urlToImage": "https://www.computerworld.dk/fil/171742?width=600&height=315&focus=1",
+      "publishedAt": "2025-01-16 11:29:00",
+      "content": "Kendte og udbredte kinesiske selskaber overf\u00f8rer i stor stil europ\u00e6ernes data til Kina, n\u00e5r europ\u00e6erne anvender dem, lyder det fra Max Schrems privacy-organisation Noyb.Annonceindl\u00e6g fra HPAI-ekspert\u2026 [+1812 chars]",
+      "retrievedAt": "2025-01-17 19:05:55.395383",
+      "internal_id": "cd5a4d42aa121f46f15173c1565f303fb8c08331aefb10b63c48ae87ff6f01f4",
+      "publishedAtLabel": "Jan 16"
+    },
+    {
+      "id": 17495,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Luiz Paulo Souza",
+      "title": "Estado do Rio tem 810 casos de dengue nas primeiras semanas do ano",
+      "description": "Mulher de 60 anos \u00e9 a primeira v\u00edtima de dengue 3 este ano no Rio",
+      "url": "https://veja.abril.com.br/saude/estado-do-rio-tem-810-casos-de-dengue-nas-primeiras-semanas-do-ano",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2024/12/AdobeStock_431720816.jpeg?quality=70&strip=info&crop=1&resize=1080,565",
+      "publishedAt": "2025-01-16 11:00:17",
+      "content": "F\u00e9rias: Assine a partir de 1,50/semanaMulher de 60 anos \u00e9 a primeira v\u00edtima de dengue 3 este ano no Rio Por Ag\u00eancia Brasil 16 jan 2025, 08h00 DENGUE: a baixa soropreval\u00eancia em S\u00e3o Paulo e Curit\u2026 [+3096 chars]",
+      "retrievedAt": "2025-01-17 19:05:56.158923",
+      "internal_id": "98d3a73aa107367f2d848e6fba1a13caad72cda83be3505be0d2e43cd4294054",
+      "publishedAtLabel": "Jan 16"
+    },
+    {
+      "id": 17492,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TNN",
+      "title": "Avian flu confirmed in cranes found dead in Jaisalmer pond",
+      "description": "The NIHSAD in Bhopal confirmed H5N1 avian flu in demoiselle crane carcasses in Jaisalmer's Luneri Pond. Nine cranes have died, prompting the area to be designated an infected hotspot. Authorities are patrolling, monitoring migratory bird movements, and raisin\u2026",
+      "url": "https://timesofindia.indiatimes.com/city/jaipur/avian-flu-confirmed-in-cranes-found-dead-in-jaisalmer-pond/articleshow/117292790.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-117292985,width-1070,height-580,imgsize-1680708,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2025-01-16 08:25:27",
+      "content": "9 habits that will help in weight loss, not muscle loss",
+      "retrievedAt": "2025-01-17 19:05:55.898367",
+      "internal_id": "3e0098441547531d564ec730ec2b81ebe29a69f3e243d6874e5b609b497f98bf",
+      "publishedAtLabel": "Jan 16"
+    },
     {
       "id": 17472,
       "query": [

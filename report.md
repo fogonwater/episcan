@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 8
-- **Last harvest:** 2025-01-17 07:06
-- **Most recent article:** 2025-01-16 05:22:47
+- **New articles in last harvest:** 28
+- **Last harvest:** 2025-01-17 19:05
+- **Most recent article:** 2025-01-16 19:01:42
 
 ---
 
@@ -12,21 +12,21 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-49 | 24-50 | 24-51 | 24-52 | 24-53 | 25-1 | 25-2 | 25-3 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| h5n1 | 70 | 61 | 112 | 65 | 27 | 27 | 131 | 30 | 523 |
-| mpox | 20 | 26 | 92 | 35 | 2 | 6 | 91 | 22 | 294 |
-| malaria | 27 | 76 | 60 | 30 | 15 | 10 | 30 | 13 | 261 |
-| dengue | 10 | 33 | 30 | 24 | 6 | 12 | 41 | 18 | 174 |
-| measles | 9 | 10 | 6 | 11 | 3 | 6 | 6 | 6 | 57 |
-| hpai | 2 | 4 | 6 | 12 | 1 | 4 | 18 | 5 | 52 |
+| h5n1 | 70 | 61 | 112 | 65 | 27 | 27 | 131 | 42 | 535 |
+| mpox | 20 | 26 | 92 | 35 | 2 | 6 | 91 | 25 | 297 |
+| malaria | 27 | 76 | 60 | 30 | 15 | 10 | 30 | 14 | 262 |
+| dengue | 10 | 33 | 30 | 24 | 6 | 12 | 41 | 22 | 178 |
+| measles | 9 | 10 | 6 | 11 | 3 | 6 | 6 | 7 | 58 |
+| hpai | 2 | 4 | 6 | 12 | 1 | 4 | 18 | 8 | 55 |
 | rabies | 13 | 3 | 7 | 8 | 1 | 1 | 2 | 4 | 39 |
 | chikungunya | 6 | 7 | 8 | 0 | 2 | 0 | 7 | 7 | 37 |
 | zika | 4 | 4 | 4 | 2 | 0 | 0 | 15 | 5 | 34 |
+| meningitis | 3 | 7 | 5 | 3 | 1 | 2 | 0 | 2 | 23 |
 | pertussis | 4 | 6 | 4 | 6 | 0 | 1 | 2 | 0 | 23 |
-| meningitis | 3 | 7 | 5 | 3 | 1 | 2 | 0 | 1 | 22 |
 | yersinia | 0 | 0 | 0 | 6 | 0 | 0 | 3 | 1 | 10 |
-| leptospirosis | 0 | 3 | 0 | 2 | 0 | 0 | 0 | 0 | 5 |
+| leptospirosis | 0 | 3 | 0 | 2 | 0 | 0 | 0 | 1 | 6 |
+| typhoid | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 2 | 3 |
 | shigellosis | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 1 |
-| typhoid | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -49,6 +49,12 @@ Source: [News API](https://newsapi.org/)
 
 - [Стала известна причина реконструкции штамма возбудителя Юстиниановой чумы](https://lenta.ru/news/2025/01/14/stala-izvestna-prichina-rekonstruktsii-shtamma-vozbuditelya-yustinianovoy-chumy/) (Lenta)
 
+## 25-3 (typhoid)
+
+- [Festivals & Events: ShyGodwin, Desert Sharks, Eevie Echoes and the Locations, more to play Loud Women Fest NYC](https://www.punknews.org/article/84607/festsandevents-shygodwin-desert-sharks-eevie-echoes-and-the-locations-more-to-play-loud-women-fest-nyc) (Punknews.org)
+
+- [Machine learning and spatio-temporal analysis of meteorological factors on waterborne diseases in Bangladesh](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012800) (Plos.org)
+
 ## 25-3 (rabies)
 
 - [Rabies infected jackal discovered in Upper Galilee](https://www.jpost.com/breaking-news/article-837684) (The Jerusalem Post)
@@ -60,6 +66,12 @@ Source: [News API](https://newsapi.org/)
 - [Rabies transmitted from vampires to cattle: An overview](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317214) (Plos.org)
 
 ## 25-3 (mpox)
+
+- [Thursday headlines: Words cannot espresso](https://themorningnews.org/p/thursday-headlines-words-cannot-espresso) (Themorningnews.org)
+
+- [Enrollment Starts in Africa CDC-Led MpOx Therapeutic Study (MOSA)](https://www.globenewswire.com/news-release/2025/01/16/3010730/33240/en/Enrollment-Starts-in-Africa-CDC-Led-MpOx-Therapeutic-Study-MOSA.html) (GlobeNewswire)
+
+- [Why the opioid crisis and youth mental health demand urgent parity reforms in 2025](https://kevinmd.com/2025/01/why-the-opioid-crisis-and-youth-mental-health-demand-urgent-parity-reforms-in-2025.html) (Kevinmd.com)
 
 - [Press release: UK invests £5.5 million to tackle mpox in sub-Saharan Africa](https://www.gov.uk/government/news/uk-invests-55-million-to-tackle-mpox-in-sub-saharan-africa) (Www.gov.uk)
 
@@ -107,9 +119,13 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-3 (meningitis)
 
+- [Reframing the clinical phenotype and management of cryptococcal meningitis](https://pn.bmj.com/content/25/1/25) (The BMJ)
+
 - [Detectado un caso de meningitis en una niña de 5 años de un colegio de Mérida](https://www.eleconomista.es/salud/noticias/13169741/01/25/detectado-un-caso-de-meningitis-en-una-nina-de-5-anos-de-un-colegio-de-merida.html) (Eleconomista.es)
 
 ## 25-3 (measles)
+
+- [Child undernutrition may be contributing to global measles outbreaks, researchers find](https://www.sciencedaily.com/releases/2025/01/250116133323.htm) (Science Daily)
 
 - [Signs You Are a Gen-Xer Who’s About to Turn Sixty](https://www.mcsweeneys.net/articles/signs-you-are-a-gen-xer-whos-about-to-turn-sixty) (Mcsweeneys.net)
 
@@ -124,6 +140,8 @@ Source: [News API](https://newsapi.org/)
 - [Number of cases in Quebec measles outbreak reaches 11](https://www.cbc.ca/news/canada/montreal/measles-quebec-shopping-mall-laval-bookstore-1.7429386) (CBC News)
 
 ## 25-3 (malaria)
+
+- [Mensch und Affe – von Malaria geprägt](https://www.welt.de/wissenschaft/article255127150/Evolution-des-Immunsystems-Mensch-und-Affe-von-Malaria-gepraegt.html) (DIE WELT)
 
 - [Target-agnostic identification of human antibodies to Plasmodium falciparum sexual forms reveals cross-stage recognition of glutamate-rich repeats](https://elifesciences.org/articles/97865) (Elifesciences.org)
 
@@ -151,7 +169,17 @@ Source: [News API](https://newsapi.org/)
 
 - [Also Use “Zeff” for Malaria](https://www.shorpy.com/node/27627#comment-236274) (Shorpy.com)
 
+## 25-3 (leptospirosis)
+
+- [Spatio-temporal risk prediction of leptospirosis: A machine-learning-based approach](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012755) (Plos.org)
+
 ## 25-3 (hpai)
+
+- [OpenAI tager konkurrencen op med Alexa og Siri: Det kan AI-frontløberens nye assistent](https://www.computerworld.dk/art/290094/openai-tager-konkurrencen-op-med-alexa-og-siri-det-kan-ai-frontloeberens-nye-assistent) (Computerworld.dk)
+
+- [Disse vilde sci-fi-visioner er overraskende tæt på at blive til virkelighed: Kan være på vej](https://www.computerworld.dk/art/290115/disse-vilde-sci-fi-visioner-er-overraskende-taet-paa-at-blive-til-virkelighed-kan-vaere-paa-vej) (Computerworld.dk)
+
+- [Anmeldes til datatilsyn: Disse kinesiske selskaber overfører data til Kina, når du anvender deres løsninger](https://www.computerworld.dk/art/290109/anmeldes-til-datatilsyn-disse-kinesiske-selskaber-overfoerer-data-til-kina-naar-du-anvender-deres-loesninger) (Computerworld.dk)
 
 - [Blodigt: Gale mormoner, vrede indianere og lang vej hjem](https://www.computerworld.dk/art/290070/blodigt-gale-mormoner-vrede-indianere-og-lang-vej-hjem) (Computerworld.dk)
 
@@ -164,6 +192,30 @@ Source: [News API](https://newsapi.org/)
 - [Login-udfald hos Microsoft: Office 365-brugere kan ikke anvende sikker login](https://www.computerworld.dk/art/290059/login-udfald-hos-microsoft-office-365-brugere-kan-ikke-anvende-sikker-login) (Computerworld.dk)
 
 ## 25-3 (h5n1)
+
+- [OMS preocupada com possível mutação do vírus da gripe aviária](https://ionline.sapo.pt/2025/01/16/oms-preocupada-com-possivel-mutacao-do-virus-da-gripe-aviaria/) (Sapo.pt)
+
+- [Bird Flu Response: Biden Admin Allocates $306 Million In Its Final Days](https://www.shtfplan.com/headline-news/bird-flu-response-biden-admin-allocates-306-million-in-its-final-days) (Shtfplan.com)
+
+- [OMS advierte sobre la amenaza de la gripe aviar tras el año con más contagios desde 2015](https://elmercurio.com.ec/2025/01/16/oms-advierte-sobre-la-amenaza-de-la-gripe-aviar-tras-el-ano-con-mas-contagios-desde-2015/) (Elmercurio.com.ec)
+
+- [Vancouver backyard chickens practise social distancing from wild birds amid H5N1 risk](https://www.cbc.ca/news/canada/british-columbia/backyard-chickens-h5n1-1.7433052) (CBC News)
+
+- [OMS advierte sobre la amenaza de la gripe aviar tras un 2024 con más contagios desde 2015](https://forbes.com.mx/oms-advierte-sobre-la-amenaza-de-la-gripe-aviar-tras-un-2024-con-mas-contagios-desde-2015/) (Forbes.com.mx)
+
+- [La OMS alerta del mayor número de casos humanos de gripe aviar H5 desde 2015](https://www.infosalus.com/asistencia/noticia-oms-alerta-mayor-numero-casos-humanos-gripe-aviar-h5-2015-20250116174543.html) (Infosalus.com)
+
+- [OMS advierte sobre amenaza de gripe aviar tras el año con más contagios desde 2015](https://www.montevideo.com.uy/Salud/OMS-advierte-sobre-amenaza-de-gripe-aviar-tras-el-ano-con-mas-contagios-desde-2015-uc912284) (Montevideo.com.uy)
+
+- [Bird flu flares up again in Michigan poultry – an infectious disease expert explains the risk to humans, chickens, cows and other animals](https://theconversation.com/bird-flu-flares-up-again-in-michigan-poultry-an-infectious-disease-expert-explains-the-risk-to-humans-chickens-cows-and-other-animals-233061) (The Conversation Africa)
+
+- [Primera zona de la península que prohíbe la cría de gallinas al aire libre por el brote de gripe aviar](https://www.huffingtonpost.es/life/animales/primera-zona-peninsula-prohibe-cria-gallinas-aire-libre-brote-gripe-aviar.html) (Huffingtonpost.es)
+
+- [Врач Карпенко рассказал, возможно ли в России заразиться птичьим гриппом](https://rg.ru/2025/01/16/vrach-karpenko-rasskazal-vozmozhno-li-v-rossii-zarazitsia-ptichim-grippom.html) (Rg.ru)
+
+- [Vogelgrippe in Baden-Württemberg ausgebrochen - Behörde lässt 50.000 Puten töten](https://www.bild.de/regional/baden-wuerttemberg/vogelgrippe-in-baden-wuerttemberg-tausende-puten-sterben-6787d507c2567f3a04ccad99) (Bild)
+
+- [Avian flu confirmed in cranes found dead in Jaisalmer pond](https://timesofindia.indiatimes.com/city/jaipur/avian-flu-confirmed-in-cranes-found-dead-in-jaisalmer-pond/articleshow/117292790.cms) (The Times of India)
 
 - [Bird Flu: CDC confirms case of H5N1 identified in San Francisco juvenile, the 2nd child case in the US](https://abc13.com/post/bird-flu-cdc-confirms-case-h5n1-identified-san-francisco-juvenile-2nd-child-us/15803284/) (KTRK-TV)
 
@@ -226,6 +278,14 @@ Source: [News API](https://newsapi.org/)
 - [UNAM pide a México a estar alerta ante la evolución del virus de influenza H5N1, ¿por qué?](https://www.elfinanciero.com.mx/salud/2025/01/11/unam-pide-a-mexico-a-estar-alerta-ante-la-evolucion-del-virus-de-influenza-h5n1-por-que/) (El Financiero)
 
 ## 25-3 (dengue)
+
+- [Dengue: Ministério da Saúde confirma 1° morte pela doença em SP no ano](https://www.metropoles.com/sao-paulo/dengue-ministerio-da-saude-confirma-1-morte-pela-doenca-em-sp-no-ano) (Metropoles.com)
+
+- [Dengue: veja o ranking dos estados com maior número de casos](https://veja.abril.com.br/saude/dengue-veja-o-ranking-dos-estados-com-maior-numero-de-casos) (Abril.com.br)
+
+- [The dengue disquisition: A low-cost public housing conundrum in Klang Valley, Malaysia](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317349) (Plos.org)
+
+- [Estado do Rio tem 810 casos de dengue nas primeiras semanas do ano](https://veja.abril.com.br/saude/estado-do-rio-tem-810-casos-de-dengue-nas-primeiras-semanas-do-ano) (Abril.com.br)
 
 - [Até levedo de cerveja: veja tecnologias do GDF para combater a dengue](https://www.metropoles.com/distrito-federal/ate-levedo-de-cerveja-veja-tecnologias-do-gdf-para-combater-a-dengue) (Metropoles.com)
 
