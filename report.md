@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
 - **New articles in last harvest:** 13
-- **Last harvest:** 2025-01-18 07:06
-- **Most recent article:** 2025-01-17 06:58:51
+- **Last harvest:** 2025-01-18 19:05
+- **Most recent article:** 2025-01-17 17:25:25
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-49 | 24-50 | 24-51 | 24-52 | 24-53 | 25-1 | 25-2 | 25-3 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| h5n1 | 70 | 61 | 112 | 65 | 27 | 27 | 131 | 48 | 541 |
-| mpox | 20 | 26 | 92 | 35 | 2 | 6 | 91 | 26 | 298 |
-| malaria | 27 | 76 | 60 | 30 | 15 | 10 | 30 | 15 | 263 |
-| dengue | 10 | 33 | 30 | 24 | 6 | 12 | 41 | 24 | 180 |
+| h5n1 | 70 | 61 | 112 | 65 | 27 | 27 | 131 | 50 | 543 |
+| mpox | 20 | 26 | 92 | 35 | 2 | 6 | 91 | 29 | 301 |
+| malaria | 27 | 76 | 60 | 30 | 15 | 10 | 30 | 16 | 264 |
+| dengue | 10 | 33 | 30 | 24 | 6 | 12 | 41 | 26 | 182 |
 | measles | 9 | 10 | 6 | 11 | 3 | 6 | 6 | 8 | 59 |
-| hpai | 2 | 4 | 6 | 12 | 1 | 4 | 18 | 9 | 56 |
-| rabies | 13 | 3 | 7 | 8 | 1 | 1 | 2 | 4 | 39 |
+| hpai | 2 | 4 | 6 | 12 | 1 | 4 | 18 | 11 | 58 |
+| rabies | 13 | 3 | 7 | 8 | 1 | 1 | 2 | 6 | 41 |
 | chikungunya | 6 | 7 | 8 | 0 | 2 | 0 | 7 | 7 | 37 |
 | zika | 4 | 4 | 4 | 2 | 0 | 0 | 15 | 5 | 34 |
 | meningitis | 3 | 7 | 5 | 3 | 1 | 2 | 0 | 2 | 23 |
 | pertussis | 4 | 6 | 4 | 6 | 0 | 1 | 2 | 0 | 23 |
-| yersinia | 0 | 0 | 0 | 6 | 0 | 0 | 3 | 1 | 10 |
+| yersinia | 0 | 0 | 0 | 6 | 0 | 0 | 3 | 2 | 11 |
 | leptospirosis | 0 | 3 | 0 | 2 | 0 | 0 | 0 | 1 | 6 |
 | typhoid | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 3 | 4 |
 | shigellosis | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 1 |
@@ -47,6 +47,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-3 (yersinia)
 
+- [Сетевые протоколы под микроскопом. Реализуем атаки на DHCP, EIGRP, DTP и ARP в приложении на Python](https://xakep.ru/2025/01/17/salmonella/) (Xakep.ru)
+
 - [Стала известна причина реконструкции штамма возбудителя Юстиниановой чумы](https://lenta.ru/news/2025/01/14/stala-izvestna-prichina-rekonstruktsii-shtamma-vozbuditelya-yustinianovoy-chumy/) (Lenta)
 
 ## 25-3 (typhoid)
@@ -59,6 +61,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-3 (rabies)
 
+- [Toronto conserving rabies vaccines, citing shortage in Ontario | Globalnews.ca](https://globalnews.ca/news/10964079/rabies-vaccine-shortage-ontario/) (Global News)
+
+- [Toronto conserving rabies vaccine supply due to provincial shortage](https://www.cbc.ca/news/canada/toronto/rabies-vaccine-shortage-toronto-1.7434046) (CBC News)
+
 - [Rabies infected jackal discovered in Upper Galilee](https://www.jpost.com/breaking-news/article-837684) (The Jerusalem Post)
 
 - [Vaccine hesitancy among pet owners is growing – a public health expert explains why that matters](https://theconversation.com/vaccine-hesitancy-among-pet-owners-is-growing-a-public-health-expert-explains-why-that-matters-246376) (The Conversation Africa)
@@ -68,6 +74,12 @@ Source: [News API](https://newsapi.org/)
 - [Rabies transmitted from vampires to cattle: An overview](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317214) (Plos.org)
 
 ## 25-3 (mpox)
+
+- [Health Ministry Issues New Mpox Guidelines to Schools](https://teachersupdates.news/health-ministry-issues-new-mpox-guidelines-to-schools/) (Teachersupdates.news)
+
+- [Two more Mpox Cases confirmed in Kenya](https://www.standardmedia.co.ke/health/health-science/article/2001509788/two-more-mpox-cases-confirmed-in-kenya) (Standard Digital)
+
+- [Ministry of Health Issues New Directives for Schools to Combat Mpox](https://www.kenyans.co.ke/news/108125-ministry-health-issues-new-directives-schools-combat-mpox) (Kenyans.co.ke)
 
 - [África registou quase 78.000 casos de Mpox e 1.321 mortes desde 2024](https://observador.pt/2025/01/16/africa-registou-quase-78-000-casos-de-mpox-e-1-321-mortes-desde-2024/) (Observador.pt)
 
@@ -147,6 +159,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-3 (malaria)
 
+- [Roll out and prospects of the malaria vaccine R21/Matrix-M](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004515) (Plos.org)
+
 - [Level 1 - Malaria in Ethiopia](https://wwwnc.cdc.gov/travel/notices/level1/malaria-ethiopia) (Cdc.gov)
 
 - [Mensch und Affe – von Malaria geprägt](https://www.welt.de/wissenschaft/article255127150/Evolution-des-Immunsystems-Mensch-und-Affe-von-Malaria-gepraegt.html) (DIE WELT)
@@ -183,6 +197,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-3 (hpai)
 
+- [Zoo Animals Drop Dead From Bird Flu In Back-To-Back Days](https://dailycaller.com/2025/01/17/harbor-seal-chilean-flamingo-deaths-bird-flu-h5n1-lincoln-park-zoo/) (The Daily Caller)
+
+- [I dag træder ny stor sikkerhedslov fra EU i kraft: Dora-forordningen er nu gældende lov](https://www.computerworld.dk/art/290127/i-dag-traeder-ny-stor-sikkerhedslov-fra-eu-i-kraft-dora-forordningen-er-nu-gaeldende-lov) (Computerworld.dk)
+
 - [The “Quad-demic” Is Here](https://www.shtfplan.com/headline-news/the-quad-demic-is-here) (Shtfplan.com)
 
 - [OpenAI tager konkurrencen op med Alexa og Siri: Det kan AI-frontløberens nye assistent](https://www.computerworld.dk/art/290094/openai-tager-konkurrencen-op-med-alexa-og-siri-det-kan-ai-frontloeberens-nye-assistent) (Computerworld.dk)
@@ -202,6 +220,10 @@ Source: [News API](https://newsapi.org/)
 - [Login-udfald hos Microsoft: Office 365-brugere kan ikke anvende sikker login](https://www.computerworld.dk/art/290059/login-udfald-hos-microsoft-office-365-brugere-kan-ikke-anvende-sikker-login) (Computerworld.dk)
 
 ## 25-3 (h5n1)
+
+- [विदेशी मेहमान कुरजां की जान ले रहा वायरस! जैसलमेर में मौत का सिलसिला जारी, अब तक 28 की गई जान गई](https://navbharattimes.indiatimes.com/state/rajasthan/jaisalmer/bird-flu-scare-in-jaisalmer-28-demoiselle-cranes-dead-locals-panic-in-rajasthan/articleshow/117338677.cms) (The Times of India)
+
+- [Aviaria: gatti domestici a rischio per consumo di cibo crudo](https://www.galileonet.it/gatti-aviaria-cibo-crudo-usa/) (Galileonet.it)
 
 - [Un nuovo coronavirus, l’influenza aviaria: i rischi di un’altra pandemia e l’identikit dei “sorvegliati speciali”. “I patogeni potenziali? Sono 26”](https://www.ilfattoquotidiano.it/2025/01/17/un-nuovo-coronavirus-linfluenza-aviaria-i-rischi-di-unaltra-pandemia-e-lidentikit-dei-sorvegliati-speciali-i-patogeni-potenziali-sono-26/7803360/) (Ilfattoquotidiano.it)
 
@@ -300,6 +322,10 @@ Source: [News API](https://newsapi.org/)
 - [UNAM pide a México a estar alerta ante la evolución del virus de influenza H5N1, ¿por qué?](https://www.elfinanciero.com.mx/salud/2025/01/11/unam-pide-a-mexico-a-estar-alerta-ante-la-evolucion-del-virus-de-influenza-h5n1-por-que/) (El Financiero)
 
 ## 25-3 (dengue)
+
+- [Prefeitura realiza aplicação de inseticida nas ruas do bairro Camaquã nesta sexta-feira](https://www.terra.com.br/noticias/prefeitura-realiza-aplicacao-de-inseticida-nas-ruas-do-bairro-camaqua-nesta-sexta-feira,eea5f3cca0d4830056e2686dd561bbd18gbvsqws.html) (Terra.com.br)
+
+- [O ano começa com uma nova explosão de casos de dengue – e falta de vacina](https://veja.abril.com.br/saude/o-ano-comeca-com-uma-nova-explosao-de-casos-de-dengue-e-falta-de-vacina) (Abril.com.br)
 
 - [Two Qld men hospitalised with rare and deadly mosquito-borne viruses](https://www.abc.net.au/news/2025-01-17/mosquito-dengue-fever-japanese-encephalitis-cases-queensland/104828632) (ABC News (AU))
 
