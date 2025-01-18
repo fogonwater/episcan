@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 28
-- **Last harvest:** 2025-01-17 19:05
-- **Most recent article:** 2025-01-16 19:01:42
+- **New articles in last harvest:** 13
+- **Last harvest:** 2025-01-18 07:06
+- **Most recent article:** 2025-01-17 06:58:51
 
 ---
 
@@ -12,12 +12,12 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-49 | 24-50 | 24-51 | 24-52 | 24-53 | 25-1 | 25-2 | 25-3 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| h5n1 | 70 | 61 | 112 | 65 | 27 | 27 | 131 | 42 | 535 |
-| mpox | 20 | 26 | 92 | 35 | 2 | 6 | 91 | 25 | 297 |
-| malaria | 27 | 76 | 60 | 30 | 15 | 10 | 30 | 14 | 262 |
-| dengue | 10 | 33 | 30 | 24 | 6 | 12 | 41 | 22 | 178 |
-| measles | 9 | 10 | 6 | 11 | 3 | 6 | 6 | 7 | 58 |
-| hpai | 2 | 4 | 6 | 12 | 1 | 4 | 18 | 8 | 55 |
+| h5n1 | 70 | 61 | 112 | 65 | 27 | 27 | 131 | 48 | 541 |
+| mpox | 20 | 26 | 92 | 35 | 2 | 6 | 91 | 26 | 298 |
+| malaria | 27 | 76 | 60 | 30 | 15 | 10 | 30 | 15 | 263 |
+| dengue | 10 | 33 | 30 | 24 | 6 | 12 | 41 | 24 | 180 |
+| measles | 9 | 10 | 6 | 11 | 3 | 6 | 6 | 8 | 59 |
+| hpai | 2 | 4 | 6 | 12 | 1 | 4 | 18 | 9 | 56 |
 | rabies | 13 | 3 | 7 | 8 | 1 | 1 | 2 | 4 | 39 |
 | chikungunya | 6 | 7 | 8 | 0 | 2 | 0 | 7 | 7 | 37 |
 | zika | 4 | 4 | 4 | 2 | 0 | 0 | 15 | 5 | 34 |
@@ -25,7 +25,7 @@ By US epiweek (i.e. Sunday to Saturday)
 | pertussis | 4 | 6 | 4 | 6 | 0 | 1 | 2 | 0 | 23 |
 | yersinia | 0 | 0 | 0 | 6 | 0 | 0 | 3 | 1 | 10 |
 | leptospirosis | 0 | 3 | 0 | 2 | 0 | 0 | 0 | 1 | 6 |
-| typhoid | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 2 | 3 |
+| typhoid | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 3 | 4 |
 | shigellosis | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 1 |
 
 
@@ -51,6 +51,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-3 (typhoid)
 
+- [Typhoid vaccine provides sustained protection for older children](https://www.digitaljournal.com/tech-science/typhoid-vaccine-provides-sustained-protection-for-older-children/article) (Digital Journal)
+
 - [Festivals & Events: ShyGodwin, Desert Sharks, Eevie Echoes and the Locations, more to play Loud Women Fest NYC](https://www.punknews.org/article/84607/festsandevents-shygodwin-desert-sharks-eevie-echoes-and-the-locations-more-to-play-loud-women-fest-nyc) (Punknews.org)
 
 - [Machine learning and spatio-temporal analysis of meteorological factors on waterborne diseases in Bangladesh](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012800) (Plos.org)
@@ -66,6 +68,8 @@ Source: [News API](https://newsapi.org/)
 - [Rabies transmitted from vampires to cattle: An overview](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317214) (Plos.org)
 
 ## 25-3 (mpox)
+
+- [África registou quase 78.000 casos de Mpox e 1.321 mortes desde 2024](https://observador.pt/2025/01/16/africa-registou-quase-78-000-casos-de-mpox-e-1-321-mortes-desde-2024/) (Observador.pt)
 
 - [Thursday headlines: Words cannot espresso](https://themorningnews.org/p/thursday-headlines-words-cannot-espresso) (Themorningnews.org)
 
@@ -125,6 +129,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-3 (measles)
 
+- [Health officials warn of potential measles exposure at Seattle-Tacoma International Airport](https://www.kiro7.com/news/local/health-officials-warn-potential-measles-exposure-seattle-tacoma-international-airport/MBC66YZVGVDVFADVP466T6ODOA/) (KIRO Seattle)
+
 - [Child undernutrition may be contributing to global measles outbreaks, researchers find](https://www.sciencedaily.com/releases/2025/01/250116133323.htm) (Science Daily)
 
 - [Signs You Are a Gen-Xer Who’s About to Turn Sixty](https://www.mcsweeneys.net/articles/signs-you-are-a-gen-xer-whos-about-to-turn-sixty) (Mcsweeneys.net)
@@ -140,6 +146,8 @@ Source: [News API](https://newsapi.org/)
 - [Number of cases in Quebec measles outbreak reaches 11](https://www.cbc.ca/news/canada/montreal/measles-quebec-shopping-mall-laval-bookstore-1.7429386) (CBC News)
 
 ## 25-3 (malaria)
+
+- [Level 1 - Malaria in Ethiopia](https://wwwnc.cdc.gov/travel/notices/level1/malaria-ethiopia) (Cdc.gov)
 
 - [Mensch und Affe – von Malaria geprägt](https://www.welt.de/wissenschaft/article255127150/Evolution-des-Immunsystems-Mensch-und-Affe-von-Malaria-gepraegt.html) (DIE WELT)
 
@@ -175,6 +183,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-3 (hpai)
 
+- [The “Quad-demic” Is Here](https://www.shtfplan.com/headline-news/the-quad-demic-is-here) (Shtfplan.com)
+
 - [OpenAI tager konkurrencen op med Alexa og Siri: Det kan AI-frontløberens nye assistent](https://www.computerworld.dk/art/290094/openai-tager-konkurrencen-op-med-alexa-og-siri-det-kan-ai-frontloeberens-nye-assistent) (Computerworld.dk)
 
 - [Disse vilde sci-fi-visioner er overraskende tæt på at blive til virkelighed: Kan være på vej](https://www.computerworld.dk/art/290115/disse-vilde-sci-fi-visioner-er-overraskende-taet-paa-at-blive-til-virkelighed-kan-vaere-paa-vej) (Computerworld.dk)
@@ -192,6 +202,18 @@ Source: [News API](https://newsapi.org/)
 - [Login-udfald hos Microsoft: Office 365-brugere kan ikke anvende sikker login](https://www.computerworld.dk/art/290059/login-udfald-hos-microsoft-office-365-brugere-kan-ikke-anvende-sikker-login) (Computerworld.dk)
 
 ## 25-3 (h5n1)
+
+- [Un nuovo coronavirus, l’influenza aviaria: i rischi di un’altra pandemia e l’identikit dei “sorvegliati speciali”. “I patogeni potenziali? Sono 26”](https://www.ilfattoquotidiano.it/2025/01/17/un-nuovo-coronavirus-linfluenza-aviaria-i-rischi-di-unaltra-pandemia-e-lidentikit-dei-sorvegliati-speciali-i-patogeni-potenziali-sono-26/7803360/) (Ilfattoquotidiano.it)
+
+- [Птичий грипп в США начал мутировать](https://www.ferra.ru/news/health/ptichii-gripp-v-ssha-nachal-mutirovat-16-01-2025.htm) (Ferra.ru)
+
+- [Bird Flu Confirmed in Cat Deaths Linked to Raw Pet Food, Milk](https://www.sciencealert.com/bird-flu-confirmed-in-cat-deaths-linked-to-raw-pet-food-milk) (ScienceAlert)
+
+- [Bird flu identified on Virginia’s Eastern Shore; quarantine in place](http://www.pilotonline.com/2025/01/16/bird-flu-eastern-shore-quarantine/) (The Virginian-Pilot)
+
+- [CDC urges doctors to speed subtyping of patients hospitalized with the flu to better track H5N1 infections | CNN](https://www.cnn.com/2025/01/16/health/cdc-urges-doctors-to-speed-subtyping-h5n1-infections/index.html) (CNN)
+
+- [OMS preocupada com possível mutação do vírus da gripe aviária](https://expresso.pt/sociedade/saude/2025-01-16-oms-preocupada-com-possivel-mutacao-do-virus-da-gripe-aviaria-9034c764) (Expresso.pt)
 
 - [OMS preocupada com possível mutação do vírus da gripe aviária](https://ionline.sapo.pt/2025/01/16/oms-preocupada-com-possivel-mutacao-do-virus-da-gripe-aviaria/) (Sapo.pt)
 
@@ -278,6 +300,10 @@ Source: [News API](https://newsapi.org/)
 - [UNAM pide a México a estar alerta ante la evolución del virus de influenza H5N1, ¿por qué?](https://www.elfinanciero.com.mx/salud/2025/01/11/unam-pide-a-mexico-a-estar-alerta-ante-la-evolucion-del-virus-de-influenza-h5n1-por-que/) (El Financiero)
 
 ## 25-3 (dengue)
+
+- [Two Qld men hospitalised with rare and deadly mosquito-borne viruses](https://www.abc.net.au/news/2025-01-17/mosquito-dengue-fever-japanese-encephalitis-cases-queensland/104828632) (ABC News (AU))
+
+- [Em um ano, apenas 10,6% do público-alvo completou esquema vacinal contra dengue em SP](https://valor.globo.com/brasil/noticia/2025/01/16/em-um-ano-apenas-106percent-do-publico-alvo-completou-esquema-vacinal-contra-dengue-em-sp.ghtml) (Globo)
 
 - [Dengue: Ministério da Saúde confirma 1° morte pela doença em SP no ano](https://www.metropoles.com/sao-paulo/dengue-ministerio-da-saude-confirma-1-morte-pela-doenca-em-sp-no-ano) (Metropoles.com)
 
