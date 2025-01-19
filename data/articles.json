@@ -1,8 +1,188 @@
 {
-  "last_updated": "2025-01-19 07:05",
-  "count_articles_total": 1366,
-  "count_articles_new": 8,
+  "last_updated": "2025-01-19 19:05",
+  "count_articles_total": 1369,
+  "count_articles_new": 10,
   "articles": [
+    {
+      "id": 17547,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "BusinessLine",
+      "author": "BL Hyderabad Bureau",
+      "title": "Singapore President Tharman Shanmugaratnam visits Sapigen Biologix facility at Bhubhaneshwar",
+      "description": "Singapore President visits Bharat Biotech's vaccine facility in Bhubaneswar, producing oral cholera and malaria vaccines for global health challenges.",
+      "url": "https://www.thehindubusinessline.com/news/national/singapore-president-tharman-shanmugaratnam-visits-sapigen-biologix-facility-at-bhubhaneshwar/article69113879.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/info-tech/cz15mz/article69113884.ece/alternates/LANDSCAPE_1200/bharat.biotech.jpg",
+      "publishedAt": "2025-01-18 16:46:06",
+      "content": "Singapore President Tharman Shanmugaratnam visited the vaccine manufacturing facility of Sapigen Biologix, a subsidiary of Bharat Biotech, on Saturday, in Bhubaneswar. Located at the Odisha Biotech P\u2026 [+1614 chars]",
+      "retrievedAt": "2025-01-19 19:05:36.008247",
+      "internal_id": "45cedf54136a22350651aec5948b398a0266dd8c9cc4eefd4c396c36398e73f1",
+      "publishedAtLabel": "Jan 18"
+    },
+    {
+      "id": 17546,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Da Reda\u00e7\u00e3o",
+      "title": "Dengue: como usar o hipoclorito de s\u00f3dio no combate ao Aedes aegypti",
+      "description": "O hipoclorito de s\u00f3dio pode ser aplicado em caixas d'\u00e1gua, banheiros e plantas para eliminar larvas do mosquito. Veja as propor\u00e7\u00f5es adequadas para utiliz\u00e1-lo:",
+      "url": "https://casa.abril.com.br/minha-casa/dengue-como-usar-o-hipoclorito-de-sodio-no-combate-ao-aedes-aegypti",
+      "urlToImage": "https://casa.abril.com.br/wp-content/uploads/2025/01/dengue-como-usar-o-hipoclorito-de-sodio-no-combate-ao-aedes-aegypti-wikimedia-commons-muhammad-mahdi-karim.jpg?quality=70&strip=info&crop=1&resize=1080,565",
+      "publishedAt": "2025-01-18 16:00:03",
+      "content": "O hipoclorito de s\u00f3dio pode ser aplicado em caixas d'\u00e1gua, banheiros e plantas para eliminar larvas do mosquito. Veja as propor\u00e7\u00f5es adequadas para utiliz\u00e1-lo: Por Reda\u00e7\u00e3o 18 jan 2025, 13h00 (Mu\u2026 [+3602 chars]",
+      "retrievedAt": "2025-01-19 19:05:35.457190",
+      "internal_id": "57ed4d9787f469131bf1a9a5724034fd9cfbafc78276288555e470edb510223c",
+      "publishedAtLabel": "Jan 18"
+    },
+    {
+      "id": 17541,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Camille Knox",
+      "title": "Bird flu detected in commercial poultry flock in Georgia, officials say",
+      "description": "Bird flu has been detected in a commercial poultry flock in Georgia for the first time since the current outbreak began in 2022, officials say.",
+      "url": "https://www.cbsnews.com/news/bird-flu-commercial-poultry-flock-georgia/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2022/08/13/ecf6e38f-9a14-435b-8cb7-a5f6640b9989/thumbnail/1200x630/9e57a87523d5c082601e235fec233b39/cbsn-fusion-bird-flu-outbreak-ravages-poultry-farms-across-us-thumbnail-1197928-640x360.jpg?v=b37f0cace52a6645c18f53563f47da2c",
+      "publishedAt": "2025-01-18 14:51:19",
+      "content": "Bird flu was detected in a commercial poultry flock in Georgia for the first time since the current outbreak started in 2022, officials announced on Friday. The positive case of the H5N1 strain of \u2026 [+1465 chars]",
+      "retrievedAt": "2025-01-19 19:05:34.944383",
+      "internal_id": "697606460d30ab9035efde71f5cc22ddecc635aa52260e8d4ec319808065c35f",
+      "publishedAtLabel": "Jan 18"
+    },
+    {
+      "id": 17544,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Brenda Goodman",
+      "title": "With bird flu cases rising, certain kinds of pet food may be risky for animals",
+      "description": "The US Food and Drug Administration said it is tracking multiple cases of H5N1 bird flu in domestic and wild cats, including cases linked to contaminated pet food.",
+      "url": "https://www.cnn.com/2025/01/18/health/bird-flu-pet-food-cat-deaths/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/img-1398.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2025-01-18 14:12:48",
+      "content": "When Jamila Acfalle decided to get her first cat, she had one requirement: It had to be brave. Acfalle is a dog trainer in a suburb of Portland, Oregon. She works with dogs that have behavior proble\u2026 [+19444 chars]",
+      "retrievedAt": "2025-01-19 19:05:35.116166",
+      "internal_id": "a708ea063abe57b8a557f0319fc183d8b0213ded7985e5c3eb0614d5af1390b3",
+      "publishedAtLabel": "Jan 18"
+    },
+    {
+      "id": 17548,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Anlatilaninotesi.com.tr",
+      "author": "Sputnik T\u00fcrkiye",
+      "title": "Azerbaycan'da ilk M \u00e7i\u00e7e\u011fi vakas\u0131 tespit edildi",
+      "description": "Azerbaycan'da ilk kez M \u00e7i\u00e7e\u011fi (Mpox) vir\u00fcs\u00fcne rastland\u0131. Azerbaycanl\u0131 yetkililer, hastan\u0131n yurt d\u0131\u015f\u0131na seyahat eden bir ki\u015fi oldu\u011funu ve tedavi edildi\u011fini belirtti.",
+      "url": "https://anlatilaninotesi.com.tr/20250118/azerbaycanda-ilk-m-cicegi-vakasi-tespit-edildi-1092818685.html",
+      "urlToImage": "https://cdn.img.anlatilaninotesi.com.tr/images/sharing/article/tur/1092818685.jpg?10566098771737205803",
+      "publishedAt": "2025-01-18 13:10:02",
+      "content": "Rusya, ABD, Avrupa ve Ortadou bata olmak \u00fczere d\u00fcnyann d\u00f6rt bir yanndan son dakika haberleri, analizler ve \u00f6zel dosyalar. https://anlatilaninotesi.com.tr/20250118/azerbaycanda-ilk-m-cicegi-vakasi-te\u2026 [+3629 chars]",
+      "retrievedAt": "2025-01-19 19:05:36.564970",
+      "internal_id": "9f92f36409a435c9ab70949606cf7aceff12f0eb1711c09e464c2fffaf1ec120",
+      "publishedAtLabel": "Jan 18"
+    },
+    {
+      "id": 17550,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Iz.ru",
+      "author": "\u041a\u0438\u043b\u044c\u0434\u044e\u0448\u043a\u0438\u043d\u0430 \u041d\u0430\u0442\u0430\u043b\u044c\u044f \u0410\u043d\u0430\u0442\u043e\u043b\u044c\u0435\u0432\u043d\u0430",
+      "title": "\u0412 \u0410\u0437\u0435\u0440\u0431\u0430\u0439\u0434\u0436\u0430\u043d\u0435 \u0437\u0430\u0444\u0438\u043a\u0441\u0438\u0440\u043e\u0432\u0430\u043b\u0438 \u043f\u0435\u0440\u0432\u044b\u0439 \u0441\u043b\u0443\u0447\u0430\u0439 \u0437\u0430\u0440\u0430\u0436\u0435\u043d\u0438\u044f \u043e\u0441\u043f\u043e\u0439 \u043e\u0431\u0435\u0437\u044c\u044f\u043d",
+      "description": "\u041f\u0435\u0440\u0432\u044b\u0439 \u0441\u043b\u0443\u0447\u0430\u0439 \u0438\u043d\u0444\u0438\u0446\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u043e\u0441\u043f\u043e\u0439 \u043e\u0431\u0435\u0437\u044c\u044f\u043d \u0431\u044b\u043b \u043e\u0431\u043d\u0430\u0440\u0443\u0436\u0435\u043d \u0432 \u0410\u0437\u0435\u0440\u0431\u0430\u0439\u0434\u0436\u0430\u043d\u0435. \u041e\u0431 \u044d\u0442\u043e\u043c 18 \u044f\u043d\u0432\u0430\u0440\u044f \u0441\u043e\u043e\u0431\u0449\u0438\u043b\u043e \u043c\u0438\u043d\u0438\u0441\u0442\u0435\u0440\u0441\u0442\u0432\u043e \u0437\u0434\u0440\u0430\u0432\u043e\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f \u0441\u0442\u0440\u0430\u043d\u044b.\u00ab\u0412 \u043d\u0430\u0441\u0442\u043e\u044f\u0449\u0435\u0435 \u0432\u0440\u0435\u043c\u044f \u043f\u0430\u0446\u0438\u0435\u043d\u0442 \u0433\u043e\u0441\u043f\u0438\u0442\u0430\u043b\u0438\u0437\u0438\u0440\u043e\u0432\u0430\u043d \u0438 \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u0442 \u043b\u0435\u0447\u0435\u043d\u0438\u0435 \u0432 \u0441\u0442\u0430\u0446\u0438\u043e\u043d\u0430\u0440\u043d\u044b\u0445 \u0443\u0441\u043b\u043e\u0432\u0438\u044f\u0445\u00bb, \u2014 \u0433\u043e\u0432\u043e\u0440\u0438\u0442\u0441\u044f \u0432 \u0441\u043e\u043e\u0431\u0449\u0435\u043d\u0438\u0438 \u043d\u0430 \u0441\u0430\u0439\u0442\u0435 \u0432\u0435\u2026",
+      "url": "https://iz.ru/1824478/2025-01-18/v-azerbaidzhane-zafiksirovali-pervyi-sluchai-zarazheniia-ospoi-obezian",
+      "urlToImage": "http://cdn.iz.ru/sites/default/files/styles/900x506/public/news-2025-01/LSA08883-59.jpg?itok=iFRHFJia",
+      "publishedAt": "2025-01-18 12:31:22",
+      "content": ". 18 . \u00ab \u00bb, . , 22- , , . , . . \u00ab , , , \u00bb, . , 10 , - , , Ib (mpox clade Ib) , () . , (mpox clade Ib) . () 29 , 2024 13 . . 23 , 16 .",
+      "retrievedAt": "2025-01-19 19:05:36.595707",
+      "internal_id": "5b3e3ffdf54b248e41281dad2fa4f7dae4ce8913a544bde0757e61988683acbf",
+      "publishedAtLabel": "Jan 18"
+    },
+    {
+      "id": 17543,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Richmond.com",
+      "author": "Eliza Noe The Virginian-Pilot",
+      "title": "Bird flu identified on Virginia\u2019s Eastern Shore; quarantine in place",
+      "description": "According to an announcement from the Virginia Department of Agriculture and Consumer Services, the entire operation in Accomack County had been quarantined with a 10-kilometer perimeter. The positive flock was depopulated Thursday, the department said, and b\u2026",
+      "url": "https://richmond.com/news/state-regional/bird-flu-identified-on-virginia-s-eastern-shore-quarantine-in-place/article_63b10584-d4eb-11ef-8133-57e5ed18c92a.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/6/3b/63b10584-d4eb-11ef-8133-57e5ed18c92a/678ad91035e9e.preview.jpg?crop=724%2C380%2C0%2C51&resize=724%2C380&order=crop%2Cresize",
+      "publishedAt": "2025-01-18 12:00:00",
+      "content": "A commercial flock of broiler chickens on the Eastern Shore has tested positive for H5N1, or bird flu. According to an announcement from the Virginia Department of Agriculture and Consumer Services,\u2026 [+2657 chars]",
+      "retrievedAt": "2025-01-19 19:05:35.098431",
+      "internal_id": "16db62290055ea42f1e1cb3cbb32a43bbda1ccc6137509cbe90861fb2705b3fc",
+      "publishedAtLabel": "Jan 18"
+    },
+    {
+      "id": 17545,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Estad\u00e3o Conte\u00fado",
+      "title": "Menos de 11% do p\u00fablico-alvo completou o esquema vacinal contra a dengue em SP",
+      "description": "Somente 256 mil crian\u00e7as e adolescentes receberam a segunda dose nas cidades paulistas selecionadas para a campanha",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/menos-de-11-do-publico-alvo-completou-o-esquema-vacinal-contra-a-dengue-em-sp,87fc96b344b4290d200cca0010e1daadmj46zjnk.html",
+      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2025-01-18 10:35:21",
+      "content": "Somente 10,65% das crian\u00e7as e adolescentes do Estado de S\u00e3o Pauloque fazem parte do p\u00fablico-alvo da imuniza\u00e7\u00e3o contra a dengue, iniciada em fevereiro de 2024, completaram o esquema vacinal com as dua\u2026 [+2865 chars]",
+      "retrievedAt": "2025-01-19 19:05:35.383496",
+      "internal_id": "d234867f35b9669156f251b3b102f59ec9ec88a5e84266bc3711c288744c8ff1",
+      "publishedAtLabel": "Jan 18"
+    },
+    {
+      "id": 17542,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Cnbeta.com.tw",
+      "author": null,
+      "title": "\u7f8e\u56fd\u653f\u5e9c\u5411Moderna\u62e8\u6b3e5.9\u4ebf\u7f8e\u5143 \u7528\u4e8e\u79bd\u6d41\u611f\u75ab\u82d7\u5f00\u53d1",
+      "description": "\u7f8e\u56fd\u653f\u5e9c\u5411Moderna\uff08MRNA.US\uff09\u62e8\u6b3e5.9\u4ebf\u7f8e\u5143\uff0c\u7528\u4e8e\u63a8\u8fdb\u5176\u79bd\u6d41\u611f\u75ab\u82d7\u7684\u7814\u53d1\u3002\u4e0e\u6b64\u540c\u65f6\uff0c\u7f8e\u56fd\u6b63\u52a0\u500d\u52aa\u529b\u5e94\u5bf9\u65e5\u76ca\u589e\u52a0\u7684\u4eba\u7c7b\u611f\u67d3\u3002\u8fd9\u662f\u53bb\u5e74\u7f8e\u56fd\u536b\u751f\u4e0e\u516c\u4f17\u670d\u52a1\u90e8\uff08HHS\uff09\u62e8\u6b3e1.76\u4ebf\u7f8e\u5143\u7684\u8865\u5145\uff0c\u53bb\u5e74\u8fd9\u7b14\u8d44\u91d1\u7528\u4e8e\u5b8c\u6210\u57fa\u4e8emRNA\u7684H5N1\u79bd\u6d41\u611f\u5927\u6d41\u884c\u524d\u75ab\u82d7\u7684\u540e\u671f\u5f00\u53d1\u548c\u6d4b\u8bd5\u3002 Moderna\u5468\u4e94\u8868\u793a\uff0c\u8fd9\u7b14\u62e8\u6b3e\u8fd8\u5c06\u652f\u6301\u9488\u5bf9\u591a\u8fbe\u4e94\u79cd\u989d\u5916\u7684\u6d41\u611f\u5927\u6d41\u884c\u4e9a\u578b\u7684\u4e34\u5e8a\u7814\u7a76\u7684\u6269\u5c55\u3002\u8be5\u516c\u53f8\u5728\u5468\u4e94\u7f8e\u80a1\u76d8\u540e\u4e0a\u6da84.52%\uff0c\u81f335.6\u7f8e\u5143\u3002\u536b\u751f\u4e0e\u516c\u4f17\u670d\u52a1\u90e8\u90e8\u957f\u6cfd\u7ef4\u5c14\u00b7\u8d1d\u585e\u62c9\u5728\u4e00\u4efd\u58f0\u660e\u4e2d\u8bf4\uff0c\u201c\u79bd\u6d41\u611f\u53d8\u79cd\u5728\u8fc7\u53bb\u5df2\u88ab\u8bc1\u660e\u5bf9\u4eba\u7c7b\u800c\u8a00\u7279\u522b\u96be\u4ee5\u2026",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1472080.htm",
+      "urlToImage": "https://static.cnbetacdn.com/thumb/article/2020/1116/ed23e2667358ccc.jpg",
+      "publishedAt": "2025-01-18 09:05:24",
+      "content": "ModernaMRNA.US5.9HHS1.76mRNAH5N1",
+      "retrievedAt": "2025-01-19 19:05:35.091710",
+      "internal_id": "0a52a17f78a1564fb5917168914868fb649547812436580d500796f7ed294dd7",
+      "publishedAtLabel": "Jan 18"
+    },
+    {
+      "id": 17549,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "First mpox case detected in Azerbaijan, Interfax reports",
+      "description": "MOSCOW (Reuters) - A case of mpox has been found in Azerbaijan, Interfax news agency reported on Saturday, adding that the patient had been isolated and was receiving treatment in hospital. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2025/01/18/first-mpox-case-detected-in-azerbaijan-interfax-reports",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/01/18/3124456.jpg",
+      "publishedAt": "2025-01-18 09:04:00",
+      "content": "MOSCOW (Reuters) - A case of mpox has been found in Azerbaijan, Interfax news agency reported on Saturday, adding that the patient had been isolated and was receiving treatment in hospital. Interfax\u2026 [+1066 chars]",
+      "retrievedAt": "2025-01-19 19:05:36.571582",
+      "internal_id": "38eee3611713b1413bcbbcce74e3475b5b8b29b50aa65d997cd6312327842ec3",
+      "publishedAtLabel": "Jan 18"
+    },
     {
       "id": 17533,
       "query": [
@@ -24518,134 +24698,6 @@
       "content": "Mosquitoes are normally associated with spreading malaria rather than preventing it, but in a new study scientists have used the insects to administer a promising new vaccine that could offer much be\u2026 [+2970 chars]",
       "retrievedAt": "2024-12-10 07:07:24.434799",
       "internal_id": "3d0a1b30e715194ad8a3edafdd97b46a472d76882fa7e9df7c2e109e9b5d92f5",
-      "publishedAtLabel": "Dec 8"
-    },
-    {
-      "id": 16172,
-      "query": [
-        "measles",
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Newsbreak.com",
-      "author": "Jolana Miller",
-      "title": "Mysterious New Disease X Is Officially Here, Potentially Airborne",
-      "description": "Respiratory pathogens like influenza and COVID-19 are being investigated as possible causes of this new Disease X. According to NPR, so are malaria and measles. The U.S. Centers for Disease Control and Prevention, as well as other countries, are standing by t\u2026",
-      "url": "https://www.newsbreak.com/share/3706705509412-mysterious-new-disease-x-is-officially-here-potentially-airborne?s=a2&amp;share_destination_id=MTg0MzY1NzI5LTE3MzM2NzY0MDE4NzY%3D&amp;pd=0CTZwnpM&amp;hl=en_US&amp;send_time=1733676401&amp;actBtn=feedbackShareButton&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2224.49.0%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_recall_exp_24q4-v3%2Cns_foryou_model_exp_24q4-v9%2Cns_foryou_blend_exp_24q4-v2%2Cns_local_strategy_24q4_exp-v8%2Cns_push_exp_rt_bucketv12-v9%2Cns_foryou_rank_exp_24q4-v5",
-      "urlToImage": "https://img.particlenews.com/img/id/1mgzoz_0xHy97VV00?type=thumbnail_1600x1200",
-      "publishedAt": "2024-12-08 16:47:09",
-      "content": "Convicted Murderer Lyle Menendez, 56, Caught in Secret Prison Affair With 21-Year-Old British Student He Met on Facebook Convicted murderer Lyle Menendez , known for the infamous 1989 deaths of his\u2026 [+539 chars]",
-      "retrievedAt": "2024-12-09 19:05:54.889696",
-      "internal_id": "4b7ce154b96a3012d03811f6f70dd35d784ba63d9f457f60b7fe4a452a2b5d75",
-      "publishedAtLabel": "Dec 8"
-    },
-    {
-      "id": 16175,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "der-tagesspiegel",
-      "source_name": "Der Tagesspiegel",
-      "author": "Simone Humml",
-      "title": "Wann die Vogelgrippe f\u00fcr Menschen gef\u00e4hrlich wird: Bereits winzige \u00c4nderung w\u00fcrde ausreichen",
-      "description": "Noch ist keine anhaltende \u00dcbertragung des Vogelgrippe-Virus H5N1 von Mensch zu Mensch nachgewiesen worden. Doch schon nach Austausch eines Bausteins kann es leichter an menschliche Zellen andocken.",
-      "url": "https://www.tagesspiegel.de/wissen/wann-die-vogelgrippe-fur-menschen-gefahrlich-wird-bereits-winzige-anderung-wurde-ausreichen-12841436.html",
-      "urlToImage": "https://www.tagesspiegel.de/images/12427472/alternates/BASE_16_9_W1400/1732360301000/file-photo-illustration-shows-test-tube-labelled-bird-flu-words-and-u-s-flag.jpeg",
-      "publishedAt": "2024-12-08 16:23:37",
-      "content": "Eine kleine \u00c4nderung des von Milchk\u00fchen auf Menschen gelangten Vogelgrippe-Virus kann einer Studie zufolge den Grundstein f\u00fcr eine \u00dcbertragung zwischen Menschen legen. Das Virus wurde in diesem Fr\u00fchj\u2026 [+1032 chars]",
-      "retrievedAt": "2024-12-09 19:05:55.574972",
-      "internal_id": "e6b081500f6e75b5b29d0d67e690b53671e0dee5156a473ed0726ab13aeb5bbf",
-      "publishedAtLabel": "Dec 8"
-    },
-    {
-      "id": 16173,
-      "query": [
-        "hpai"
-      ],
-      "source_id": null,
-      "source_name": "Legalinsurrection.com",
-      "author": "Leslie Eastman",
-      "title": "USDA Orders Testing of Raw and Unpasteurized Milk for Presence of Bird Flu Virus",
-      "description": "Yet, No one has yet been known to become ill with this virus from drinking raw. The post USDA Orders Testing of Raw and Unpasteurized Milk for Presence of Bird Flu Virus first appeared on Le\u00b7gal In\u00b7sur\u00b7rec\u00b7tion.",
-      "url": "https://legalinsurrection.com/2024/12/usda-orders-testing-of-raw-and-unpasteurized-milk-for-presence-of-bird-flu-virus/",
-      "urlToImage": "https://legalinsurrection.com/wp-content/uploads/2017/11/Milk-Cows.jpg",
-      "publishedAt": "2024-12-08 15:00:56",
-      "content": "In our most recent reports on the bird flu, California has become the new epicenter for Highly Pathogenic Avian Influenza (HPAI), as several of the states dairy workers at herds impacted by the path\u2026 [+4448 chars]",
-      "retrievedAt": "2024-12-09 19:05:55.149332",
-      "internal_id": "d79fc4ba7d527630215ed741484893ca7071afba08a5611d8c7f7c3417a4d490",
-      "publishedAtLabel": "Dec 8"
-    },
-    {
-      "id": 16171,
-      "query": [
-        "measles",
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Newsbreak.com",
-      "author": "Jolana Miller",
-      "title": "Mysterious New Disease X Is Officially Here, Potentially Airborne",
-      "description": "Respiratory pathogens like influenza and COVID-19 are being investigated as possible causes of this new Disease X. According to NPR, so are malaria and measles. The U.S. Centers for Disease Control and Prevention, as well as other countries, are standing by t\u2026",
-      "url": "https://www.newsbreak.com/share/3706705509412-mysterious-new-disease-x-is-officially-here-potentially-airborne?_f=app_share&amp;pd=0EuIdPvZ&amp;lang=en_US&amp;send_time=1733680315&amp;trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2224.48.0.25%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_local_strategy_24q4_exp-v11%2Cns_push_exp_rt_bucketv12-control%2Cns_foryou_rank_exp_24q4-v4%2Cns_foryou_blend_exp_24q4-v6%2Cns_foryou_model_exp_24q4-v8%2Cns_foryou_recall_exp_24q4-v7&amp;s=i2",
-      "urlToImage": "https://img.particlenews.com/img/id/1mgzoz_0xHy97VV00?type=thumbnail_1600x1200",
-      "publishedAt": "2024-12-08 14:00:34",
-      "content": "Convicted Murderer Lyle Menendez, 56, Caught in Secret Prison Affair With 21-Year-Old British Student He Met on Facebook Convicted murderer Lyle Menendez , known for the infamous 1989 deaths of his\u2026 [+539 chars]",
-      "retrievedAt": "2024-12-09 19:05:54.877052",
-      "internal_id": "677bc505ea9d5f785d6b8fe845d0e95de58d57b9cd4536814a9a6eaaebf6f146",
-      "publishedAtLabel": "Dec 8"
-    },
-    {
-      "id": 16170,
-      "query": [
-        "pertussis"
-      ],
-      "source_id": null,
-      "source_name": "CP24 Toronto's Breaking News",
-      "author": "Alex Arsenych",
-      "title": "Public Health Ontario report: whooping cough cases highest in 17 years",
-      "description": "The number of whooping cough cases in Ontario this year has reached a level that hasn\u2019t been seen in 17 years.",
-      "url": "https://www.cp24.com/news/2024/12/08/ontario-saw-the-highest-number-of-whooping-cough-cases-in-the-last-17-years-report/",
-      "urlToImage": "https://www.cp24.com/resizer/v2/YR4A4OZHJJRIUH6ENPHBMVOJIM.jpg?smart=true&auth=5be3ada27b20e9bd9c82e3a4dcc2826c5261bc1a689fe92273750fa152100ebb&width=1200&height=630",
-      "publishedAt": "2024-12-08 11:49:42",
-      "content": "The number of whooping cough cases in Ontario this year has reached a level that hasnt been seen in 17 years. In November, Public Health Ontario (PHO) published its findings on pertussis, commonly k\u2026 [+4485 chars]",
-      "retrievedAt": "2024-12-09 19:05:54.451716",
-      "internal_id": "dafa24cba75d671317551db02c0ad79e01594dec8bf53eeb78d869db90e76106",
-      "publishedAtLabel": "Dec 8"
-    },
-    {
-      "id": 16174,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "bild",
-      "source_name": "Bild",
-      "author": "Mara Pallokat",
-      "title": "Forscher schlagen Alarm - Vogelgrippe nur eine Mutation vom Menschen entfernt",
-      "description": "Amerikanische Forscher entdecken, dass eine kleine Ver\u00e4nderung im H5N1-Virus ausreicht, um Menschen einfacher zu infizieren und eine Pandemie auszul\u00f6sen.",
-      "url": "https://www.bild.de/leben-wissen/vogelgrippe-neue-pandemie-durch-schnelle-mutation-moeglich-67555ac036814417822d0009",
-      "urlToImage": "https://images.bild.de/67555ac036814417822d0009/a7cd1a60323df0c1dcbfe3e0e7392a39,bdfcb9c8?w=1280",
-      "publishedAt": "2024-12-08 10:16:07",
-      "content": "Die Vogelgrippe k\u00f6nnte bald schneller auf den Menschen \u00fcberspringen und dabei sogar eine neue Pandemie ausl\u00f6sen! Millionen Tiere hat die in der Fachsprache avi\u00e4re Influenza genannte Infektion get\u00f6te\u2026 [+2222 chars]",
-      "retrievedAt": "2024-12-09 19:05:55.521079",
-      "internal_id": "816ceec5262d95982d6808b42fb35035362e031ef2b322b7f4734f26f6770264",
-      "publishedAtLabel": "Dec 8"
-    },
-    {
-      "id": 16176,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "focus",
-      "source_name": "Focus",
-      "author": "dpa",
-      "title": "Hohe Dunkelziffer - Experten: Schon winzige Ver\u00e4nderung macht Vogelgrippe gef\u00e4hrlich f\u00fcr uns",
-      "description": "Noch ist keine anhaltende \u00dcbertragung des Vogelgrippe-Virus H5N1 von Mensch zu Mensch nachgewiesen worden. Doch schon nach Austausch eines Bausteins kann es leichter an menschliche Zellen andocken. Das zeigt eine neue Studie",
-      "url": "https://www.focus.de/gesundheit/news/experten-schon-winzige-veraenderung-macht-vogelgrippe-gefaehrlich-fuer-uns_id_260544505.html",
-      "urlToImage": "https://p6.focus.de/img/fotos/id_260094435/gettyimages-522933314.jpg?im=Crop%3D%280%2C175%2C2122%2C1061%29%3BResize%3D%281200%2C627%29&impolicy=perceptual&quality=mediumHigh&hash=4f934f15acfc4ce2377e1af3350622319e356b831eddaeaf7e95ef9e1fb624a6",
-      "publishedAt": "2024-12-08 09:02:42",
-      "content": "Noch ist keine anhaltende \u00dcbertragung des Vogelgrippe-Virus H5N1 von Mensch zu Mensch nachgewiesen worden. Doch schon nach Austausch eines Bausteins kann es leichter an menschliche Zellen andocken. D\u2026 [+5309 chars]",
-      "retrievedAt": "2024-12-09 19:05:55.656686",
-      "internal_id": "c2b033a55c391653dbfe8f66d540bcd2796e10de8078c6511eee8c438a028a18",
       "publishedAtLabel": "Dec 8"
     }
   ]
