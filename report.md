@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 13
-- **Last harvest:** 2025-01-18 19:05
-- **Most recent article:** 2025-01-17 17:25:25
+- **New articles in last harvest:** 8
+- **Last harvest:** 2025-01-19 07:05
+- **Most recent article:** 2025-01-18 05:00:00
 
 ---
 
@@ -10,23 +10,23 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 24-49 | 24-50 | 24-51 | 24-52 | 24-53 | 25-1 | 25-2 | 25-3 | Total |
-|--|-|-|-|-|-|-|-|-|-|
-| h5n1 | 70 | 61 | 112 | 65 | 27 | 27 | 131 | 50 | 543 |
-| mpox | 20 | 26 | 92 | 35 | 2 | 6 | 91 | 29 | 301 |
-| malaria | 27 | 76 | 60 | 30 | 15 | 10 | 30 | 16 | 264 |
-| dengue | 10 | 33 | 30 | 24 | 6 | 12 | 41 | 26 | 182 |
-| measles | 9 | 10 | 6 | 11 | 3 | 6 | 6 | 8 | 59 |
-| hpai | 2 | 4 | 6 | 12 | 1 | 4 | 18 | 11 | 58 |
-| rabies | 13 | 3 | 7 | 8 | 1 | 1 | 2 | 6 | 41 |
-| chikungunya | 6 | 7 | 8 | 0 | 2 | 0 | 7 | 7 | 37 |
-| zika | 4 | 4 | 4 | 2 | 0 | 0 | 15 | 5 | 34 |
-| meningitis | 3 | 7 | 5 | 3 | 1 | 2 | 0 | 2 | 23 |
-| pertussis | 4 | 6 | 4 | 6 | 0 | 1 | 2 | 0 | 23 |
-| yersinia | 0 | 0 | 0 | 6 | 0 | 0 | 3 | 2 | 11 |
-| leptospirosis | 0 | 3 | 0 | 2 | 0 | 0 | 0 | 1 | 6 |
-| typhoid | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 3 | 4 |
-| shigellosis | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 1 |
+| Disease | 24-50 | 24-51 | 24-52 | 24-53 | 25-1 | 25-2 | 25-3 | Total |
+|--|-|-|-|-|-|-|-|-|
+| h5n1 | 58 | 112 | 65 | 27 | 27 | 131 | 52 | 472 |
+| mpox | 26 | 92 | 35 | 2 | 6 | 91 | 31 | 283 |
+| malaria | 76 | 60 | 30 | 15 | 10 | 30 | 17 | 238 |
+| dengue | 33 | 30 | 24 | 6 | 12 | 41 | 27 | 173 |
+| hpai | 4 | 6 | 12 | 1 | 4 | 18 | 12 | 57 |
+| measles | 10 | 6 | 11 | 3 | 6 | 6 | 9 | 51 |
+| chikungunya | 7 | 8 | 0 | 2 | 0 | 7 | 7 | 31 |
+| zika | 4 | 4 | 2 | 0 | 0 | 15 | 5 | 30 |
+| rabies | 3 | 7 | 8 | 1 | 1 | 2 | 6 | 28 |
+| meningitis | 7 | 5 | 3 | 1 | 2 | 0 | 2 | 20 |
+| pertussis | 5 | 4 | 6 | 0 | 1 | 2 | 0 | 18 |
+| yersinia | 0 | 0 | 6 | 0 | 0 | 3 | 2 | 11 |
+| leptospirosis | 3 | 0 | 2 | 0 | 0 | 0 | 1 | 6 |
+| typhoid | 1 | 0 | 0 | 0 | 0 | 0 | 3 | 4 |
+| shigellosis | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 1 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -74,6 +74,10 @@ Source: [News API](https://newsapi.org/)
 - [Rabies transmitted from vampires to cattle: An overview](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317214) (Plos.org)
 
 ## 25-3 (mpox)
+
+- [Ministério da Saúde anuncia a compra de mais de 34 mil testes diagnósticos de mpox](https://valor.globo.com/brasil/noticia/2025/01/17/ministerio-da-saude-anuncia-a-compra-de-mais-de-34-mil-testes-diagnosticos-de-mpox.ghtml) (Globo)
+
+- [Friday headlines: It is happening again](https://themorningnews.org/p/friday-headlines-it-is-happening-again) (Themorningnews.org)
 
 - [Health Ministry Issues New Mpox Guidelines to Schools](https://teachersupdates.news/health-ministry-issues-new-mpox-guidelines-to-schools/) (Teachersupdates.news)
 
@@ -141,6 +145,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-3 (measles)
 
+- [TWiV 1184: Clinical update with Dr. Daniel Griffin](https://www.microbe.tv/twiv/twiv-1184/) (Microbe.tv)
+
 - [Health officials warn of potential measles exposure at Seattle-Tacoma International Airport](https://www.kiro7.com/news/local/health-officials-warn-potential-measles-exposure-seattle-tacoma-international-airport/MBC66YZVGVDVFADVP466T6ODOA/) (KIRO Seattle)
 
 - [Child undernutrition may be contributing to global measles outbreaks, researchers find](https://www.sciencedaily.com/releases/2025/01/250116133323.htm) (Science Daily)
@@ -158,6 +164,8 @@ Source: [News API](https://newsapi.org/)
 - [Number of cases in Quebec measles outbreak reaches 11](https://www.cbc.ca/news/canada/montreal/measles-quebec-shopping-mall-laval-bookstore-1.7429386) (CBC News)
 
 ## 25-3 (malaria)
+
+- [Lagos club raises malaria awareness through swimming](https://punchng.com/lagos-club-raises-malaria-awareness-through-swimming/) (The Punch)
 
 - [Roll out and prospects of the malaria vaccine R21/Matrix-M](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004515) (Plos.org)
 
@@ -197,6 +205,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-3 (hpai)
 
+- [Positive bird flu case at northeast GA facility a ‘serious threat’ to state’s No. 1 industry](https://www.wsbtv.com/news/local/atlanta/positive-bird-flu-case-northeast-ga-facility-serious-threat-states-no-1-industry/XPPSGPI3DFBRVBQSC7SEUC33X4/) (WSB Atlanta)
+
 - [Zoo Animals Drop Dead From Bird Flu In Back-To-Back Days](https://dailycaller.com/2025/01/17/harbor-seal-chilean-flamingo-deaths-bird-flu-h5n1-lincoln-park-zoo/) (The Daily Caller)
 
 - [I dag træder ny stor sikkerhedslov fra EU i kraft: Dora-forordningen er nu gældende lov](https://www.computerworld.dk/art/290127/i-dag-traeder-ny-stor-sikkerhedslov-fra-eu-i-kraft-dora-forordningen-er-nu-gaeldende-lov) (Computerworld.dk)
@@ -220,6 +230,10 @@ Source: [News API](https://newsapi.org/)
 - [Login-udfald hos Microsoft: Office 365-brugere kan ikke anvende sikker login](https://www.computerworld.dk/art/290059/login-udfald-hos-microsoft-office-365-brugere-kan-ikke-anvende-sikker-login) (Computerworld.dk)
 
 ## 25-3 (h5n1)
+
+- [US providing Moderna $590 mn to speed mRNA pandemic for bird flu which experts fear may start a pandemic](https://economictimes.indiatimes.com/news/international/business/us-providing-moderna-590-mn-to-speed-mrna-pandemic-for-bird-flu-which-experts-fear-may-start-a-pandemic/articleshow/117346005.cms) (The Times of India)
+
+- [As bird flu spreads, CDC recommends faster 'subtyping' to catch more cases](https://www.foxnews.com/health/bird-flu-spreads-cdc-recommends-faster-subtyping-catch-more-cases) (Fox News)
 
 - [विदेशी मेहमान कुरजां की जान ले रहा वायरस! जैसलमेर में मौत का सिलसिला जारी, अब तक 28 की गई जान गई](https://navbharattimes.indiatimes.com/state/rajasthan/jaisalmer/bird-flu-scare-in-jaisalmer-28-demoiselle-cranes-dead-locals-panic-in-rajasthan/articleshow/117338677.cms) (The Times of India)
 
@@ -322,6 +336,8 @@ Source: [News API](https://newsapi.org/)
 - [UNAM pide a México a estar alerta ante la evolución del virus de influenza H5N1, ¿por qué?](https://www.elfinanciero.com.mx/salud/2025/01/11/unam-pide-a-mexico-a-estar-alerta-ante-la-evolucion-del-virus-de-influenza-h5n1-por-que/) (El Financiero)
 
 ## 25-3 (dengue)
+
+- [2024 fue el segundo año con más fallecimientos por dengue en Costa Rica](https://www.nacion.com/el-pais/2024-fue-el-segundo-ano-con-mas-fallecimientos-por/ENLHX3DCXFE5RNCENUD5HFSWTY/story/) (Nacion.com)
 
 - [Prefeitura realiza aplicação de inseticida nas ruas do bairro Camaquã nesta sexta-feira](https://www.terra.com.br/noticias/prefeitura-realiza-aplicacao-de-inseticida-nas-ruas-do-bairro-camaqua-nesta-sexta-feira,eea5f3cca0d4830056e2686dd561bbd18gbvsqws.html) (Terra.com.br)
 
@@ -2555,8 +2571,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Public Health Ontario report: whooping cough cases highest in 17 years](https://www.cp24.com/news/2024/12/08/ontario-saw-the-highest-number-of-whooping-cough-cases-in-the-last-17-years-report/) (CP24 Toronto's Breaking News)
 
-- [Understanding whooping cough](https://www.bostonherald.com/2024/12/08/understanding-whooping-cough/) (Boston Herald)
-
 ## 24-50 (mpox)
 
 - [Nieznana choroba w Afryce. Są pierwsze wyniki badań](https://wydarzenia.interia.pl/zagranica/news-nieznana-choroba-w-afryce-sa-pierwsze-wyniki-badan,nId,7875726) (Interia.pl)
@@ -2939,12 +2953,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Hohe Dunkelziffer - Experten: Schon winzige Veränderung macht Vogelgrippe gefährlich für uns](https://www.focus.de/gesundheit/news/experten-schon-winzige-veraenderung-macht-vogelgrippe-gefaehrlich-fuer-uns_id_260544505.html) (Focus)
 
-- [Spredningen af fugleinfluenza bekymrer: Smitte mellem mennesker rykker nærmere](https://ing.dk/artikel/spredningen-af-fugleinfluenza-bekymrer-smitte-mellem-mennesker-rykker-naermere) (Ing.dk)
-
-- [Possible bird flu reported in child in Marin County](https://www.ktvu.com/news/possible-bird-flu-reported-child-marin-county) (KTVU San Francisco)
-
-- [Эксперт: без вакцинации ускоряется преодоление межвидового барьера птичьего гриппа](https://tass.ru/obschestvo/22608023) (Tass.ru)
-
 ## 24-50 (dengue)
 
 - [[Kolom Pakar] Prof Tjandra Yoga Aditama: Hujan dan Antisipasi Dengue](https://www.liputan6.com/health/read/5834610/kolom-pakar-prof-tjandra-yoga-aditama-hujan-dan-antisipasi-dengue) (Liputan6.com)
@@ -3028,361 +3036,3 @@ Source: [News API](https://newsapi.org/)
 - [Strategic vaccination responses to Chikungunya outbreaks in Rome: Insights from a dynamic transmission model](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012713) (Plos.org)
 
 - [Cientistas alertam para riscos de dengue, chikungunya e a Zika em Portugal](https://observador.pt/2024/12/09/cientistas-alertam-para-riscos-de-dengue-chikungunya-e-a-zika-em-portugal/) (Observador.pt)
-
-## 24-49 (zika)
-
-- [Aprovada após dez anos de trâmite no Congresso, reparação a pessoas com microcefalia causada pelo vírus Zika aguarda sanção de Lula](https://www.terra.com.br/nos/aprovada-apos-dez-anos-de-tramite-no-congresso-reparacao-a-pessoas-com-microcefalia-causada-pelo-virus-zika-aguarda-sancao-de-lula,943255b213f17a0890ac1b62cc2f54192k472zr6.html) (Terra.com.br)
-
-- [Three years of insecticide resistance evolution and associated mechanisms in Aedes aegypti populations of Ouagadougou, Burkina Faso](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012138) (Plos.org)
-
-- [Flaviviruses induce ER-specific remodelling of protein synthesis](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012766) (Plos.org)
-
-- [A zebrafish-based in vivo model of Zika virus infection unveils alterations of the glutamatergic neuronal development and NS4A as a key viral determinant of neuropathogenesis](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012756) (Plos.org)
-
-## 24-49 (rabies)
-
-- [Airdropping vaccines to eliminate canine rabies in Texas](https://www.metafilter.com/206623/Airdropping-vaccines-to-eliminate-canine-rabies-in-Texas) (Metafilter.com)
-
-- [Glefser mot vaksinekrav: – De har rota noe så vanvittig](https://www.nrk.no/innlandet/flere-hundekjorere-vurderer-a-trekke-seg-pa-grunn-av-rabies-krav-under-femundlopet-1.17154269) (NRK)
-
-- [Lärarinnan biten i klassrummet – dog](https://www.expressen.se/nyheter/varlden/lararinnan-biten-i-klassrummet-dog/) (Expressen.se)
-
-- [Art teacher dies after being bitten by a bat in her classroom](https://www.cbsnews.com/news/california-teacher-dies-bitten-bat-classroom/) (CBS News)
-
-- [Fresno-area teacher dies from rabies after suspected bat bite in classroom, health officials confirm](https://abc7.com/post/fresno-area-teacher-dies-rabies-after-suspected-bat-bite-classroom-health-officials-confirm/15622099/) (KABC-TV)
-
-- [California teacher dies after she was bitten by a bat inside a classroom](https://abcnews.go.com/Health/wireStory/california-teacher-dies-after-bitten-bat-inside-classroom-116433021) (ABC News)
-
-- [California teacher dies after she was bitten by a bat inside a classroom](https://abcnews.go.com/US/wireStory/california-teacher-dies-after-bitten-bat-inside-classroom-116433020) (ABC News)
-
-- [A California art teacher died from rabies after an encounter with a bat in her classroom | CNN](https://www.cnn.com/2024/12/03/health/rabies-death-california-art-teacher-bat/index.html) (CNN)
-
-- [A California art teacher died from rabies after an encounter with a bat in her classroom](https://kesq.com/health/cnn-health/2024/12/03/a-california-art-teacher-died-from-rabies-after-an-encounter-with-a-bat-in-her-classroom/) (KESQ)
-
-- [California teacher dies from rabies month after being bitten by bat in her classroom](https://www.nbcnews.com/news/us-news/california-teacher-dies-rabies-month-bitten-bat-classroom-rcna182670) (NBC News)
-
-- [California teacher dies from suspected rabid bat bite](https://ktla.com/news/california/california-teacher-dies-from-suspect-rabid-bat-bite/) (KTLA Los Angeles)
-
-- [California Teacher Dies From Rare Rabies Infection After Bat Encounter in Classroom](https://gizmodo.com/california-teacher-dies-from-rare-rabies-infection-after-bat-encounter-in-classroom-2000532968) (Gizmodo.com)
-
-- [Three rabid animals in region reported by health districts](https://roanoke.com/news/local/three-rabid-animals-in-region-reported-by-health-districts/article_34217bb8-b0ed-11ef-8d65-e7bf49f86b3a.html) (Roanoke Times)
-
-## 24-49 (pertussis)
-
-- [2,000+ cases of whooping cough reported in Minnesota; most since 2012](https://www.cbsnews.com/minnesota/news/2000-cases-whooping-cough-minnesota-2012/) (CBS News)
-
-- [ป้องกันดูแลอย่างไร เมื่อ "ไอกรน" ระบาด](https://www.thairath.co.th/lifestyle/health-and-beauty/2829590) (Thairath.co.th)
-
-- [U.S. sets Thanksgiving record for whooping cough cases](https://www.cbsnews.com/news/whooping-cough-record-thanksgiving-2024/) (CBS News)
-
-- [Yellowstone County seeing resurgence of whooping cough](https://billingsgazette.com/news/local/whooping-coungh-riverstone-health-billings-montana/article_b1ce07f4-b19a-11ef-b9eb-a78727220dca.html) (Billings Gazette)
-
-## 24-49 (mpox)
-
-- [Попова заявила о невозможности распространения тяжелого штамма оспы обезьян в РФ](https://iz.ru/1803392/2024-12-07/popova-zaavila-o-nevozmoznosti-rasprostranenia-tazelogo-stamma-ospy-obezan-v-rf) (Iz.ru)
-
-- [Doença desconhecida causa 30 mortes no Congo e é investigada por OMS](https://veja.abril.com.br/saude/doenca-desconhecida-causa-30-mortes-no-congo-e-e-investigada-por-oms) (Abril.com.br)
-
-- [Doença desconhecida que causou mortes no Congo é investigada pela OMS](https://veja.abril.com.br/saude/doenca-desconhecida-que-causou-mortes-no-congo-e-investigada-pela-oms) (Abril.com.br)
-
-- [Ansteckende Erkrankung: Im Kongo wütet eine neue Krankheit – das sind die wichtigsten Fakten](https://www.stern.de/panorama/wissen/im-kongo-wuetet-eine-neue-krankheit--das-sind-die-wichtigsten-fakten--35288198.html) (STERN.de)
-
-- [V Kongu se šíří neznámá nemoc. Zabila desítky lidí, polovina byly děti](https://www.idnes.cz/zpravy/zahranicni/kongo-mpox-nemoc-chripka-roger-kamba.A241205_155045_zahranicni_svm) (Idnes.cz)
-
-- [Mehr als 130 Tote durch unbekannte Krankheit im Kongo](https://www.tagesschau.de/ausland/afrika/kongo-krankheit-100.html) (tagesschau.de)
-
-- [Case Reports of Human Monkeypox Virus Infections, Uganda, 2024](https://wwwnc.cdc.gov/eid/article/31/1/24-1269_article) (Cdc.gov)
-
-- [Ukjent influensalignende sykdom: Minst 79 mennesker døde i Kongo](https://www.nrk.no/urix/ukjent-influensalignende-sykdom_-minst-79-mennesker-dode-i-kongo-1.17155674) (NRK)
-
-- [Unbekannte Krankheit: Kongo meldet mindestens 67 Tote – und Hunderte Erkrankte](https://www.tagesspiegel.de/gesundheit/unbekannte-krankheit-kongo-meldet-mindestens-67-tote--und-hunderte-erkrankte-12820016.html) (Der Tagesspiegel)
-
-- [Betroffen sind vor allem Kinder - Zahlreiche Tote nach Ausbruch von unbekannter Krankheit im Kongo](https://www.focus.de/panorama/welt/betroffen-sind-vor-allem-kinder-zahlreiche-tote-nach-ausbruch-von-unbekannter-krankheit-im-kongo_id_260535898.html) (Focus)
-
-- [Amid bleeding eye virus scare, mystery disease with flu-like symptoms kills almost 150 in Africa, sparks pandemic fears](https://economictimes.indiatimes.com/news/international/global-trends/amid-bleeding-eye-virus-scare-mystery-disease-with-flu-like-symptoms-kills-almost-150-in-africa-congo-sparks-pandemic-fears-mpox/articleshow/115973419.cms) (The Times of India)
-
-- [La OMS investiga una enfermedad desconocida que ha causado 143 muertes en la República Democrática del Congo](https://www.eldiario.es/sociedad/oms-investiga-enfermedad-desconocida-causado-143-muertes-republica-democratica-congo_1_11874745.html) (Eldiario.es)
-
-- [İngiltere’de 5. vakanın görülmesiyle birlikte uzmanlar “maymun çiçeği virüsünün en sık gözden kaçan” belirtisini açıkladı!](https://www.haber7.com/saglik/haber/3484254-ingilterede-5-vakanin-gorulmesiyle-birlikte-uzmanlar-maymun-cicegi-virusunun-en-sik-gozden-kacan-belirtisini-acikladi) (Haber7.com)
-
-- [Гинцбург допустил, что оспа обезьян сможет передаваться воздушно-капельным путем](https://tass.ru/obschestvo/22567555) (Tass.ru)
-
-- [Giubileo Roma, dall'aviaria al Covid e Mpox: i possibili rischi sanitari](https://www.ilgiornale.it/news/adnkronos/giubileo-roma-dallaviaria-covid-e-mpox-i-possibili-rischi-2406492.html) (Ilgiornale.it)
-
-- [Mpox : les efforts commencent à « porter leurs fruits », malgré près de 60 000 cas enregistrés en Afrique](https://www.lemonde.fr/planete/article/2024/12/03/mpox-les-efforts-commencent-a-porter-leurs-fruits-malgre-pres-de-60-000-cas-enregistres-en-afrique_6427001_3244.html) (Le Monde)
-
-- [The Rise of Mpox in a Post-Smallpox World](https://wwwnc.cdc.gov/eid/article/31/1/24-1230_article) (Cdc.gov)
-
-- [Low rates of flu vaccine take-up: Concerns for the season ahead](https://www.digitaljournal.com/life/low-rates-of-flu-vaccine-take-up-concerns-for-the-season-ahead/article) (Digital Journal)
-
-- [Încă un caz de variola maimuței confirmat în Anglia. Cine este pacientul și cum s-a îmbolnăvit](https://adevarul.ro/stiri-interne/sanatate/inca-un-caz-de-variola-maimutei-confirmat-in-2405825.html) (Adevarul.ro)
-
-- ['Bleeding eye' virus sparks global fear: Urgent warning issued to UK, Africa travelers over 'deadliest' disease. Check symptoms](https://economictimes.indiatimes.com/news/international/global-trends/bleeding-eye-marburg-mpox-oropouche-virus-sparks-global-fear-urgent-warning-issued-to-uk-africa-travelers-over-deadliest-disease-check-symptoms/articleshow/115891504.cms) (The Times of India)
-
-## 24-49 (meningitis)
-
-- [Por qué el sarampión, la tos ferina y otras enfermedades graves podrían resurgir con RFK Jr.](https://kffhealthnews.org/news/article/por-que-el-sarampion-la-tos-ferina-y-otras-enfermedades-graves-podrian-resurgir-con-rfk-jr/) (Kffhealthnews.org)
-
-- [Origins: Mark Twain’s Famous White Suit](https://blogs.loc.gov/loc/2024/12/origins-mark-twains-famous-white-suit/) (Loc.gov)
-
-- [Mourning in Patras: The 16-year-old girl who had been diagnosed with meningitis has died](https://en.protothema.gr/2024/12/04/mourning-in-patras-the-16-year-old-girl-who-had-been-diagnosed-with-meningitis-has-died/) (Protothema.gr)
-
-## 24-49 (measles)
-
-- [Hundreds of people may have been exposed to measles last month, Montreal Public Health says](https://www.cbc.ca/news/canada/montreal/measles-palais-des-congr%C3%A8s-trudeau-airport-montreal-public-health-1.7404601) (CBC News)
-
-- [Mysterious New Disease X is Officially Here, Potentially Airborne](https://www.newsbreak.com/share/3705898375696-mysterious-new-disease-x-is-officially-here-potentially-airborne?_f=app_share&amp;pd=0IigyxGY&amp;lang=en_US&amp;send_time=1733598939&amp;trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2224.28.1.2%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_local_strategy_24q4_exp-v9%2Cns_push_exp_rt_bucketv12-v3%2Cns_foryou_blend_exp_24q4-control%2Cns_foryou_rank_exp_24q4-v9%2Cns_foryou_recall_exp_24q4-v3%2Cns_foryou_model_exp_24q4-v8&amp;s=i2) (Newsbreak.com)
-
-- [How measles, whooping cough and worse could roar back on RFK Jr.'s watch (Arthur Allen/NPR)](https://www.memeorandum.com/241206/p86) (Memeorandum.com)
-
-- [How measles, whooping cough and worse could roar back on RFK Jr.'s watch](https://www.npr.org/sections/shots-health-news/2024/12/06/nx-s1-5218574/rfk-vaccines-anti-vaccine-infectious-disease) (NPR)
-
-- [How Measles, Whooping Cough, and Worse Could Roar Back on RFK Jr.’s Watch](https://kffhealthnews.org/news/article/rfk-jr-hhs-vaccine-policy-preventable-infectious-diseases-resurge/) (Kffhealthnews.org)
-
-- [Measles-Infected Passenger Arrived at LAX Nov. 27, May Have Exposed Others - MyNewsLA.com](http://mynewsla.com/business/2024/12/05/measles-infected-passenger-arrived-at-lax-nov-27-may-have-exposed-others/) (Mynewsla.com)
-
-- [Measles outbreak in N.B. renews interest in national vaccination registry](https://www.cbc.ca/news/canada/new-brunswick/measles-outbreak-new-brunswick-national-vaccination-registry-1.7398752) (CBC News)
-
-- [Nominee For CDC Director, Weldon, May Push For Big Changes In Vaccine Policy](https://www.forbes.com/sites/joshuacohen/2024/12/03/nominee-for-cdc-director-weldon-may-push-for-big-changes-in-vaccine-policy/) (Forbes)
-
-- [Senegal launches national measles, rubella vaccination campaign](https://www.thestar.com.my/news/world/2024/12/03/senegal-launches-national-measles-rubella-vaccination-campaign) (The Star Online)
-
-## 24-49 (malaria)
-
-- [Mysterious New Disease X is Officially Here, Potentially Airborne](https://www.newsbreak.com/share/3705898375696-mysterious-new-disease-x-is-officially-here-potentially-airborne?_f=app_share&amp;pd=0IigyxGY&amp;lang=en_US&amp;send_time=1733598939&amp;trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2224.28.1.2%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_local_strategy_24q4_exp-v9%2Cns_push_exp_rt_bucketv12-v3%2Cns_foryou_blend_exp_24q4-control%2Cns_foryou_rank_exp_24q4-v9%2Cns_foryou_recall_exp_24q4-v3%2Cns_foryou_model_exp_24q4-v8&amp;s=i2) (Newsbreak.com)
-
-- [La OMS baraja distintas hipótesis sobre el origen de la enfermedad que ha causado al menos 71 muertos en RD Congo](https://www.elespanol.com/ciencia/salud/20241206/oms-baraja-distintas-hipotesis-origen-enfermedad-causado-muertes-rd-congo/906659461_0.html) (Elespanol.com)
-
-- [La OMS envía expertos al Congo para investigar la misteriosa enfermedad que causó ya 71 muertos](https://www.lavozdegalicia.es/noticia/sociedad/2024/12/06/oms-envia-expertos-congo-investigar-misteriosa-enfermedad-causo-71-muertos/00031733498034379675115.htm) (Lavozdegalicia.es)
-
-- [Malaria Diagnostics Market Overview Report 2024 - Malaria Diagnostics Market Set to Reach Over $1 Billion by 2030 as Technological Advances Drive Growth](https://www.globenewswire.com/news-release/2024/12/06/2993085/28124/en/Malaria-Diagnostics-Market-Overview-Report-2024-Malaria-Diagnostics-Market-Set-to-Reach-Over-1-Billion-by-2030-as-Technological-Advances-Drive-Growth.html) (GlobeNewswire)
-
-- [GA mayor found not guilty of leaving gin in a ditch for inmates to find](https://www.wsbtv.com/news/local/ga-mayor-found-not-guilty-leaving-gin-ditch-inmates-find/C6X377BFONDIJGFGNRWOE34MCI/) (WSB Atlanta)
-
-- [Studie: Neuer Malaria-Impfstoff macht Mücken zu fliegenden Spritzen](https://www.stern.de/gesundheit/neuer-malaria-impfstoff-wird-von-muecken-uebertragen-35284072.html) (STERN.de)
-
-- [Copy number variants underlie major selective sweeps in insecticide resistance genes in Anopheles arabiensis](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002898) (Plos.org)
-
-- [Forest Loss Undermines Malaria Prevention Tools](https://scienceblog.com/550021/forest-loss-undermines-malaria-prevention-tools/) (ScienceBlog.com)
-
-- [„A-B-Null“ und 46 weitere: Blutgruppen bestimmen mit, wie gesund wir sind](https://www.tagesspiegel.de/wissen/a-b-null-und-46-weitere-blutgruppen-bestimmen-mit-wie-gesund-wir-sind-12811193.html) (Der Tagesspiegel)
-
-- [PfMORC protein regulates chromatin accessibility and transcriptional repression in the human malaria parasite, Plasmodium falciparum](https://elifesciences.org/articles/92499) (Elifesciences.org)
-
-- [Manchester City toma un respiro al vencer al Nottingham Forest](https://www.record.com.mx/futbol-futbol-internacional-internacionales/manchester-city-toma-un-respiro-al-vencer-al-nottingham) (Record.com.mx)
-
-- [Natural 'biopesticide' against malaria mosquitoes successful in early field tests](https://www.sciencedaily.com/releases/2024/12/241204145006.htm) (Science Daily)
-
-- [Evidence of African children with malaria experiencing resistance to malaria drug](https://www.digitaljournal.com/tech-science/evidence-of-african-children-with-malaria-experiencing-resistance-to-malaria-drug/article) (Digital Journal)
-
-- [Welke ziekte zorgt voor een dodelijke uitbraak in Congo? Het zou malaria kunnen zijn](https://www.nrc.nl/nieuws/2024/12/04/welke-ziekte-zorgt-voor-een-dodelijke-uitbraak-in-congo-het-zou-malaria-kunnen-zijn-a4875421) (Www.nrc.nl)
-
-- [Nigeria start historisch inentingsinitiatief tegen malaria bij kinderen](https://businessam.be/nigeria-start-historisch-inentingsinitiatief-tegen-malaria-bij-kinderen/) (Businessam.be)
-
-- [Diri hails FG for starting malaria vaccination in Bayelsa](https://punchng.com/diri-hails-fg-for-starting-malaria-vaccination-in-bayelsa/) (The Punch)
-
-- [NTPC Bongaigaon distributes mosquito nets to combat malaria](https://thehillstimes.in/assam/ntpc-bongaigaon-distributes-mosquito-nets-to-combat-malaria) (Thehillstimes.in)
-
-- [Treatment outcomes and associated factors in severe malaria patients at University of Gondar Hospital, Northwest Ethiopia: A retrospective study (2020–2023)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0309681) (Plos.org)
-
-- [Nigeria begonnen met grote vaccinatiecampagne tegen malaria](https://nos.nl/l/2546912) (Nos.nl)
-
-- [Beats: (PRODUCT)RED Solo 4 Kopfhörer zum World AIDS Day präsentiert](https://www.appgefahren.de/beats-productred-solo-4-kopfhoerer-zum-world-aids-day-praesentiert-370194.html) (Appgefahren.de)
-
-- [Ogun targets malaria-free status by 2030](https://punchng.com/ogun-targets-malaria-free-status-by-2030/) (The Punch)
-
-- [Ogun eyes malaria-free status by 2030](https://punchng.com/ogun-eyes-malaria-free-status-by-2030/) (The Punch)
-
-- [I got malaria on purpose and so can you](https://www.vox.com/future-perfect/387901/malaria-vaccine-treatment-challenge-trial) (Vox)
-
-- [Beats Debuts (PRODUCT)RED Solo 4 Headphones, But You Won't Be Able to Buy Them](https://www.macrumors.com/2024/12/02/beats-productred-solo-4-headphones/) (MacRumors)
-
-- [Malaria vaccine rolled out in world's worst-affected country](https://www.bbc.com/news/articles/crk0mpz47jjo) (BBC News)
-
-- [डेंगू, मलेरिया जैसी बीमारी के लिए 59 रुपये में मिलेगा इंश्योरेंस, PhonePe लेकर आया प्लान, इतना मिलेगा कवरेज](https://hindi.moneycontrol.com/news/your-money/phonepe-health-insurance-plan-for-coverage-for-dengue-malaria-in-just-rupees-59-gives-rupees-one-lakh-coverage-1941008.html) (Moneycontrol)
-
-- [Correction: Evaluation of a parasite-density based pooled targeted amplicon deep sequencing (TADS) method for molecular surveillance of Plasmodium falciparum drug resistance genes in Haiti](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0315044) (Plos.org)
-
-## 24-49 (hpai)
-
-- [Single mutation in H5N1 influenza surface protein could enable easier human infection](https://www.sciencedaily.com/releases/2024/12/241206162110.htm) (Science Daily)
-
-- [Helport AI to Participate in the iAccess Alpha Virtual Best Ideas Winter Conference on December 10-11, 2024](https://www.globenewswire.com/news-release/2024/12/04/2991923/0/en/Helport-AI-to-Participate-in-the-iAccess-Alpha-Virtual-Best-Ideas-Winter-Conference-on-December-10-11-2024.html) (GlobeNewswire)
-
-## 24-49 (h5n1)
-
-- [Эксперт Альтштейн: вирусы птичьего гриппа грозят пандемией](https://tass.ru/obschestvo/22607925) (Tass.ru)
-
-- [فقط یک جهش تا تهدید جهانی؛ آیا آنفلوانزای پرندگان ویروس دنیاگیر بعدی است؟](https://www.zoomit.ir/health-medical/430877-bird-flu-close-to-pandemic/) (Zoomit.ir)
-
-- [USDA to Require Testing of Milk to Monitor Spread of Bird Flu](https://www.motherjones.com/politics/2024/12/usda-to-require-testing-of-milk-to-monitor-spread-of-bird-flu/) (Mother Jones)
-
-- [Was der Fall eines Teenagers über H5N1 verrät](https://www.welt.de/gesundheit/article254800344/Vogelgrippe-In-den-USA-sind-jetzt-Milchtests-Pflicht-um-H5N1-zu-kontrollieren.html) (DIE WELT)
-
-- [Drasztikus lépéseket tesz Amerika, hogy megállítsa az új járványt](https://www.portfolio.hu/gazdasag/20241207/drasztikus-lepeseket-tesz-amerika-hogy-megallitsa-az-uj-jarvanyt-728335) (Portfolio.hu)
-
-- [US orders nationwide milk testing in bid to stop spread of bird flu in cows](https://news.sky.com/story/us-orders-nationwide-milk-testing-in-bid-to-stop-spread-of-bird-flu-in-cows-13268478) (Sky.com)
-
-- [Is milk safe? Your questions about bird flu and dairy, answered](https://economictimes.indiatimes.com/news/international/global-trends/is-milk-safe-your-questions-about-bird-flu-and-dairy-answered/articleshow/116068376.cms) (The Times of India)
-
-- [Study finds single mutation could enable H5N1 strain of bird flu to bind more easily with human cells, sparking concern about rapid spread](https://www.skynews.com.au/lifestyle/health/study-finds-single-mutation-could-enable-h5n1-strain-of-bird-flu-to-bind-more-easily-with-human-cells-sparking-concern-about-rapid-spread/news-story/8e517492a940ef7b8059575037350057) (Sky News Australia)
-
-- [EEUU ordena análisis de leche cruda en el país para detectar casos de gripe aviar](https://noticiaslatam.lat/20241207/eeuu-ordena-analisis-de-leche-cruda-en-el-pais-para-detectar-casos-de-gripe-aviar-1159565741.html) (Noticiaslatam.lat)
-
-- [Gripe aviar en EU: Ordenan realizar pruebas en leche a nivel nacional](https://www.elfinanciero.com.mx/salud/2024/12/06/gripe-aviar-en-eu-ordenan-realizar-pruebas-en-leche-a-nivel-nacional/) (El Financiero)
-
-- [USDA requires bulk testing of raw milk supply for bird flu virus (Nathaniel Weixel/The Hill)](https://www.memeorandum.com/241206/p83) (Memeorandum.com)
-
-- [Single mutation in H5N1 influenza surface protein could enable easier human infection](https://www.sciencedaily.com/releases/2024/12/241206162110.htm) (Science Daily)
-
-- [ABD'de kuş gribi vakaları: 'Çiğ sütler test edilmeli'](https://anlatilaninotesi.com.tr/20241207/abdde-kus-gribi-vakalari-cig-sutler-test-edilmeli-1091265662.html) (Anlatilaninotesi.com.tr)
-
-- [Single Mutation Could Enable H5N1 Bird Flu to Better Infect Humans, Study Finds](https://scienceblog.com/550083/single-mutation-could-enable-h5n1-bird-flu-to-better-infect-humans-study-finds/) (ScienceBlog.com)
-
-- [USDA Announces New Federal Order, Begins National Milk Testing Strategy to Address H5N1 in Dairy Herds (USDA)](https://www.memeorandum.com/241206/p62) (Memeorandum.com)
-
-- [US government to begin expanded testing of milk supply to better track the spread of bird flu | CNN](https://www.cnn.com/2024/12/06/health/milk-supply-testing-bird-flu-usda/index.html) (CNN)
-
-- [Bird flu one mutuation from human threat, study finds](https://theweek.com/health/bird-flu-mutation-human-cells-new-research) (The Week Magazine)
-
-- [La grippe aviaire est-elle la prochaine pandémie ?](https://www.courrierinternational.com/article/sante-la-grippe-aviaire-est-elle-la-prochaine-pandemie_225381) (Courrier International)
-
-- [Concern grows over whether bird flu could lead to a pandemic: What to know](https://www.today.com/health/disease/bird-flu-pandemic-rcna183174) (TODAY)
-
-- [Could bird flu in US livestock, poultry pose risk to humans?](https://www.dw.com/en/could-bird-flu-in-us-livestock-poultry-pose-risk-to-humans/a-70988147) (DW (English))
-
-- [Could bird flu in US livestock, poultry be risk to humans?](https://www.dw.com/en/could-bird-flu-in-us-livestock-poultry-be-risk-to-humans/a-70988147) (DW (English))
-
-- [Nur eine Mutation entfernt: Ist das Vogelgrippe-Virus kurz vor Anpassung an Menschen?](https://www.n-tv.de/wissen/Ist-das-Vogelgrippe-Virus-kurz-vor-Anpassung-an-Menschen-article25414963.html) (N-tv.de)
-
-- [Vogelgrippe: Sind wir nur wenige Mutationen entfernt von der Katastrophe?](https://www.stern.de/gesundheit/vogelgrippe--sind-wir-wenige-mutationen-von-der-katastrophe-entfernt--35287910.html) (STERN.de)
-
-- [Neue Studie: Schon eine Mutation kann das Vogelgrippevirus für den Menschen gefährlich machen](https://www.stern.de/gesundheit/neue-vogelgrippe-studie--schon-eine-einzige-mutation-reicht-35287910.html) (STERN.de)
-
-- [Bird Flu Has Been Found in Raw Milk − A Reminder of How Pasteurization Protects Health](https://www.discovermagazine.com/health/bird-flu-has-been-found-in-raw-milk-a-reminder-of-how-pasteurization) (Discover Magazine)
-
-- [Hallan una mutación que podría ayudar a transmitir el virus de la gripe aviar a humanos](https://aristeguinoticias.com/0612/kiosko/hallan-una-mutacion-que-podria-ayudar-a-transmitir-el-virus-de-la-gripe-aviar-a-humanos/) (Aristeguinoticias.com)
-
-- [Madárinfluenza veszélyei: egy mutáció világjárványt okozhat](https://www.origo.hu/tudomany/2024/12/madarinfluenza-veszelyei-mutacio) (Origo.hu)
-
-- [Die neuen Mutationen der Vogelgrippe](https://www.spektrum.de/video/h5n1-die-neuen-mutationen-der-vogelgrippe/2246047) (Spektrum.de)
-
-- [Gripa aviară s-ar putea transmite între oameni dacă se produce o mutaţie a virusului - studiu](https://www.mediafax.ro/stiinta-sanatate/gripa-aviara-s-ar-putea-transmite-intre-oameni-daca-se-produce-o-mutatie-a-virusului-studiu-22595123) (Mediafax.ro)
-
-- [Ausland - Zwei Vogelgrippe-Mutationen reichen für eine Pandemie](https://www.focus.de/politik/ausland/zwei-vogelgrippe-mutationen-reichen-fuer-eine-pandemie_ba87eade-9459-4c52-af66-ddd02fe0d38e.html) (Focus)
-
-- [Evidence of Influenza A(H5N1) Spillover Infections in Horses, Mongolia](https://wwwnc.cdc.gov/eid/article/31/1/24-1266_article) (Cdc.gov)
-
-- [ТАСС: новая мутация в "техасском" птичьем гриппе повысила его заразность](https://rg.ru/2024/12/06/tass-novaia-mutaciia-v-tehasskom-ptichem-grippe-povysila-ego-zaraznost.html) (Rg.ru)
-
-- [Más cerca de una pandemia por la gripe aviar: estamos a una sola mutación de que el virus H5N1 se contagie entre humanos](https://www.meneame.net/m/ciencia/mas-cerca-pandemia-gripe-aviar-estamos-sola-mutacion-virus-h5n1) (Meneame.net)
-
-- [Una sola mutación de la gripe aviar H5N1 permitiría que se contagie entre humanos](https://www.publico.es/ciencias/sola-mutacion-gripe-aviar-h5n1-permitiria-contagie-humanos.html) (Publico.es)
-
-- [Una única mutación de la la hemaglutinina del virus de la gripe aviar puede permitir su contagio de humano a humano](https://www.lavozdegalicia.es/noticia/somosagro/ganaderia/2024/12/05/unica-mutacion-hemaglutinina-virus-gripe-aviar-puede-permitir-contagio-humano-humano/00031733428818493720477.htm) (Lavozdegalicia.es)
-
-- [The Bird Flu Virus Is One Mutation Away from Getting More Dangerous](https://time.com/7200088/can-bird-flu-infect-humans/) (Time)
-
-- [A single gene mutation could enable H5N1 to spread between people, study finds](https://www.livescience.com/health/flu/a-single-gene-mutation-could-enable-h5n1-to-spread-between-people-study-finds) (Live Science)
-
-- [Scientists identify mutation that could facilitate H5N1 'bird flu' virus infection and potential transmission in humans](https://www.sciencedaily.com/releases/2024/12/241205142418.htm) (Science Daily)
-
-- [Bird Flu Mutation Could Trigger Pandemic in Humans](https://www.newsweek.com/bird-flu-mutation-trigger-pandemic-humans-1996203) (Newsweek)
-
-- [Científicos descubren una mutación que podría ayudar a transmitir el virus de la gripe aviar H5N1 a humanos](https://www.elespanol.com/ciencia/salud/20241205/cientificos-descubren-mutacion-podria-ayudar-transmitir-virus-gripe-aviar-h5n1-humanos/906409917_0.html) (Elespanol.com)
-
-- [Выявлена мутация в «техасском» птичьем гриппе, повышающая его заразность](https://news.mail.ru/society/63950153/) (Mail.ru)
-
-- [Zwei Vogelgrippe-Mutationen reichen für eine Pandemie](https://www.dw.com/de/zwei-vogelgrippe-mutationen-reichen-f%C3%BCr-eine-pandemie/a-70973646) (DW (English))
-
-- ['Alarming' bird flu study finds danger just one viral mutation away](https://www.statnews.com/2024/12/05/h5n1-bird-flu-study-journal-science-raises-alarm-potential-human-transmission/) (STAT)
-
-- [H5N1: Die Vogelgrippe ist da draußen – "und wir müssen alles tun, um vorbereitet zu sein"](https://www.sueddeutsche.de/gesundheit/vorbereitung-vogelgrippe-pandemie-grossbritannien-impfstoffvorraete-li.3160970) (Süddeutsche Zeitung)
-
-- [H5N1: Die Vogelgrippe ist da draußen – „und wir müssen alles tun, um vorbereitet zu sein“](https://www.sueddeutsche.de/gesundheit/vogelgrippe-pandemie-vorbereitung-grossbritannien-impfstoffvorraete-deutschland-li.3160970) (Süddeutsche Zeitung)
-
-- [H5N1 bird flu is closer to gaining pandemic potential than we thought](https://www.newscientist.com/article/2459077-h5n1-bird-flu-is-closer-to-gaining-pandemic-potential-than-we-thought/) (New Scientist)
-
-- [Más cerca de una pandemia por la gripe aviar: estamos a una sola mutación de que el virus H5N1 se contagie entre humanos](https://www.eldiario.es/sociedad/cerca-pandemia-gripe-aviar-sola-mutacion-virus-h5n1-contagie-humanos_1_11876814.html) (Eldiario.es)
-
-- [Bird Flu Virus Is One Mutation Away from Adapting to Human Cells](https://www.scientificamerican.com/article/bird-flu-virus-is-one-mutation-away-from-adapting-to-human-cells/) (Scientific American)
-
-- [Influenza: Eine einzelne Mutation könnte es dem Vogelgrippevirus H5N1 erlauben, Menschen viel effizienter zu infizieren als bisher](https://www.spektrum.de/news/grippevirus-alarmierend-hohes-pandemiepotenzial-von-h5n1/2245927) (Spektrum.de)
-
-- [Basta una sola mutación en el virus de la gripe H5N1 para facilitar su transmisión humana](https://www.abc.es/salud/enfermedades/basta-sola-mutacion-virus-gripe-bovina-h5n1-20241205104748-nt.html) (Www.abc.es)
-
-- [Avian flu virus has been found in raw milk − a reminder of how pasteurization protects health](https://theconversation.com/avian-flu-virus-has-been-found-in-raw-milk-a-reminder-of-how-pasteurization-protects-health-245102) (The Conversation Africa)
-
-- [L’aviaria si sta evolvendo](https://www.internazionale.it/magazine/2024/12/05/l-aviaria-si-sta-evolvendo) (Internazionale.it)
-
-- [Will There Be a Bird Flu Epidemic Under Trump?](https://www.thenation.com/article/society/will-there-be-a-bird-flu-outbreak-under-trump/) (Thenation.com)
-
-- [Risk of bird flu in Hawke’s Bay? Step-up the biosecurity](https://www.nzherald.co.nz/hawkes-bay-today/news/risk-of-bird-flu-in-hawkes-bay-step-up-the-biosecurity/OHPWJ2WLFZA7TNIHBVK3Y6BDYM/) (New Zealand Herald)
-
-- [It’s One of RFK Jr.’s Favorite Things. It Could Cause the Next Pandemic.](https://slate.com/technology/2024/12/raw-milk-bird-flu-rfk-jr-antibodies-vaccines.html) (Slate Magazine)
-
-- [Raw Milk Recall in California As 'Bird Flu Contamination' Feared](https://www.newsweek.com/raw-milk-recall-california-bird-flu-virus-contamination-1995514) (Newsweek)
-
-- [Can Antarctic Wildlife Survive Another Deadly Bird Flu Season?](https://www.scientificamerican.com/article/can-antarctic-wildlife-survive-another-deadly-bird-flu-season/) (Scientific American)
-
-- [Can bird flu spread through air? How to stay safe](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/can-bird-flu-spread-through-air-how-to-stay-safe/articleshow/115970902.cms) (The Times of India)
-
-- [Reino Unido almacena vacunas contra el H5N1 ante el riesgo de pandemia](https://www.nuevatribuna.es/articulo/global/reino-unido-almacena-vacunas-h5n1-riesgo-pandemia/20241203171217233087.html) (Nuevatribuna.es)
-
-- [Controlling minor outbreaks is necessary to prepare for major pandemics](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002945) (Plos.org)
-
-- [Here we go again](https://freethoughtblogs.com/pharyngula/2024/12/03/here-we-go-again-7/) (Freethoughtblogs.com)
-
-- [Difícil evitar una pandemia de gripe aviar catastrófica](https://www.milenio.com/internacional/dificil-evitar-pandemia-gripe-aviar-catastrofica) (Milenio)
-
-- [Vogelgrippe in Milch nachgewiesen – US-Supermärkte reagieren](https://www.morgenpost.de/panorama/article407813455/vogelgrippe-in-milch-nachgewiesen-us-supermaerkte-reagieren.html) (Berliner Morgenpost)
-
-- [Influenza A(H5N1) Virus Clade 2.3.2.1a in Traveler Returning to Australia from India, 2024](https://wwwnc.cdc.gov/eid/article/31/1/24-1210_article) (Cdc.gov)
-
-- [Monday headlines: You, robot](https://themorningnews.org/p/monday-headlines-you-robot) (Themorningnews.org)
-
-- [H5N1 Bird Flu Concerns Grow. Are COVID-19 Mistakes Being Repeated?](https://www.forbes.com/sites/brucelee/2024/12/02/h5n1-bird-flu-concerns-grow-are-covid-19-mistakes-being-repeated/) (Forbes)
-
-- [Why have U.S. bird flu cases been so mild? Scientists have some theories](https://www.statnews.com/2024/12/02/bird-flu-h5n1-mild-cases-mystery/) (STAT)
-
-- [There's only one continent without the deadly H5N1 bird flu strain. The approach might make Australia a 'world leader'](https://www.abc.net.au/news/2024-12-02/australia-only-continent-without-h5n1-might-make-it-world-leader/104671728) (ABC News (AU))
-
-- [All NZ poultry exports on hold until country free of highly pathogenic bird flu](https://www.nzherald.co.nz/nz/all-nz-poultry-exports-on-hold-until-country-free-of-highly-pathogenic-bird-flu/OFB7QRSCSFEERMVK3QZ5CYTG3Y/) (New Zealand Herald)
-
-- [NZ’s first case of high pathogenic strain of bird flu found on Otago egg farm](https://www.nzherald.co.nz/nz/nzs-first-case-of-bird-flu-found-on-otago-egg-farm/7GU4CPBVARFWJDAOGKJGFUNSBM/) (New Zealand Herald)
-
-## 24-49 (dengue)
-
-- [Control y prevención del dengue, “tarea esencial” ante el alza en casos: especialistas](https://www.jornada.com.mx/2024/12/07/sociedad/027n1soc) (Jornada.com.mx)
-
-- [El primer test de antígeno argentino que permite diagnosticar el dengue](https://noticias.perfil.com/noticias/ciencia/el-primer-test-de-antigeno-argentino-que-permite-diagnosticar-el-dengue.phtml) (Perfil.com)
-
-- [A machine learning-based risk score for prediction of mechanical ventilation in children with dengue shock syndrome: A retrospective cohort study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0315281) (Plos.org)
-
-- [ភ្នំពេញ ប៉ុស្ដិ៍ | ​កម្ពុជា​ជំរុញ​ការ​ផ្សព្វផ្សាយ​សក្តានុពល​ទេសចរណ៍​ទៅ​តំបន់​រដ្ឋបាលពិសេស​ហុងកុង និង​ម៉ាកាវ](https://www.postkhmer.com/business/2024-12-6-1415-260819) (Postkhmer.com)
-
-- [Llegan los meses más complejos: solo 102.316 argentinos tienen la vacunación completa contra el dengue](https://www.lanacion.com.ar/sociedad/llegan-los-meses-mas-complejos-solo-102316-argentinos-tienen-la-vacunacion-completa-contra-el-dengue-nid04122024/) (La Nacion)
-
-- [Climate-based modelling and forecasting of dengue in three endemic departments of Peru](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012596) (Plos.org)
-
-- [Correction: A fully automated sample-to-answer PCR system for easy and sensitive detection of dengue virus in human serum and mosquitos](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0315117) (Plos.org)
-
-- [Correction: An RT-PCR panel for rapid serotyping of dengue virus serotypes 1 to 4 in human serum and mosquito on a field-deployable PCR system](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0315046) (Plos.org)
-
-- [डेंगू, मलेरिया जैसी बीमारी के लिए 59 रुपये में मिलेगा इंश्योरेंस, PhonePe लेकर आया प्लान, इतना मिलेगा कवरेज](https://hindi.moneycontrol.com/news/your-money/phonepe-health-insurance-plan-for-coverage-for-dengue-malaria-in-just-rupees-59-gives-rupees-one-lakh-coverage-1941008.html) (Moneycontrol)
-
-- [Three years of insecticide resistance evolution and associated mechanisms in Aedes aegypti populations of Ouagadougou, Burkina Faso](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012138) (Plos.org)
-
-## 24-49 (chikungunya)
-
-- [Look at chikungunya toll as cases up 3x in Maha this year](https://timesofindia.indiatimes.com/city/mumbai/chikungunya-cases-surge-in-maharashtra-3x-increase-raises-concerns/articleshow/115981898.cms) (The Times of India)
-
-- [Valneva Announces Peer-Reviewed Publication on the Global Health and Economic Burden of Chikungunya in The British Medical Journal](https://www.globenewswire.com/news-release/2024/12/04/2991194/0/en/Valneva-Announces-Peer-Reviewed-Publication-on-the-Global-Health-and-Economic-Burden-of-Chikungunya-in-The-British-Medical-Journal.html) (GlobeNewswire)
-
-- [Valneva annonce la publication dans le British Medical Journal d’un article sur l’impact sanitaire et économique mondial du chikungunya](https://www.globenewswire.com/news-release/2024/12/04/2991194/0/fr/Valneva-annonce-la-publication-dans-le-British-Medical-Journal-d-un-article-sur-l-impact-sanitaire-et-%C3%A9conomique-mondial-du-chikungunya.html) (GlobeNewswire)
-
-- [Valneva annonce des données positives sur la persistance des anticorps à trois ans pour son vaccin à dose unique contre le chikungunya, IXCHIQ®](https://www.globenewswire.com/news-release/2024/12/03/2990253/0/fr/Valneva-annonce-des-donn%C3%A9es-positives-sur-la-persistance-des-anticorps-%C3%A0-trois-ans-pour-son-vaccin-%C3%A0-dose-unique-contre-le-chikungunya-IXCHIQ.html) (GlobeNewswire)
-
-- [Valneva Reports Positive Three-Year Antibody Persistence Data for its Single-Shot Chikungunya Vaccine IXCHIQ®](https://www.globenewswire.com/news-release/2024/12/03/2990253/0/en/Valneva-Reports-Positive-Three-Year-Antibody-Persistence-Data-for-its-Single-Shot-Chikungunya-Vaccine-IXCHIQ.html) (GlobeNewswire)
-
-- [Three years of insecticide resistance evolution and associated mechanisms in Aedes aegypti populations of Ouagadougou, Burkina Faso](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012138) (Plos.org)
