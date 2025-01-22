@@ -1,8 +1,351 @@
 {
-  "last_updated": "2025-01-22 07:06",
-  "count_articles_total": 1419,
-  "count_articles_new": 12,
+  "last_updated": "2025-01-22 19:05",
+  "count_articles_total": 1431,
+  "count_articles_new": 19,
   "articles": [
+    {
+      "id": 17602,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Milenio",
+      "author": "Armando Mart\u00ednez",
+      "title": "Salud presenta Plan Nacional Contra el Dengue",
+      "description": "El subsecretario de Prevenci\u00f3n y Promoci\u00f3n de la Salud, Ramiro L\u00f3pez Elizalde, present\u00f3 el Plan Anual contra el Dengue, el cual contempla una estrategia previo a que inicien las lluvias en el pa\u00eds.En La Ma\u00f1anera del Pueblo desde Palacio Nacional, el funcionar\u2026",
+      "url": "https://www.milenio.com/politica/salud-presenta-plan-nacional-contra-el-dengue",
+      "urlToImage": "https://cdn.milenio.com/uploads/media/2025/01/21/subsecretario-promocion-fomento-salud-ramiro.jpg",
+      "publishedAt": "2025-01-21 18:37:37",
+      "content": "El subsecretario de Prevenci\u00f3n y Promoci\u00f3n de la Salud, Ramiro L\u00f3pez Elizalde, present\u00f3 el Plan Anual contra el Dengue, el cual contempla una estrategia previo a que inicien las lluvias en el pa\u00eds. \u2026 [+846 chars]",
+      "retrievedAt": "2025-01-22 19:05:42.382216",
+      "internal_id": "e8a57f441c3e5a4b10c528a30bd95084199f400c4c8fe09e91383150b13b7a42",
+      "publishedAtLabel": "Jan 21"
+    },
+    {
+      "id": 17606,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Phys.Org",
+      "author": "Colleen MacPherson",
+      "title": "Scientists discover compound to combat malaria's resurgence in warming climates",
+      "description": "With a warming climate comes the threat of expanding habitats for mosquitos that carry malaria, but researchers are using sophisticated synchrotron techniques in the quest for new treatments for the deadly disease.",
+      "url": "https://phys.org/news/2025-01-scientists-compound-combat-malaria-resurgence.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/developing-new-drugs-t.jpg",
+      "publishedAt": "2025-01-21 18:31:59",
+      "content": "With a warming climate comes the threat of expanding habitats for mosquitos that carry malaria, but researchers are using sophisticated synchrotron techniques in the quest for new treatments for the \u2026 [+3386 chars]",
+      "retrievedAt": "2025-01-22 19:05:43.474196",
+      "internal_id": "aa64272efc6ae70a6094f972fd07e6d6d9e9b8e6b0b4fa0ff47ffc126f5b6810",
+      "publishedAtLabel": "Jan 21"
+    },
+    {
+      "id": 17612,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "BFMTV",
+      "author": null,
+      "title": "Mpox: un sixi\u00e8me cas du nouveau variant d\u00e9tect\u00e9 au Royaume-Uni",
+      "description": "Alors que le nouveau variant du virus mpox est \u00e0 l'origine d'une importante \u00e9pid\u00e9mie en Afrique, le Royaume-Uni vient de d\u00e9tecter, ce lundi 20 janvier, son sixi\u00e8me cas depuis octobre.",
+      "url": "https://www.bfmtv.com/international/europe/angleterre/mpox-un-sixieme-cas-du-nouveau-variant-detecte-au-royaume-uni_AN-202501210764.html",
+      "urlToImage": "https://images.bfmtv.com/nO3oMoXihasMGwxJDi7e37soCto=/0x105:2048x1257/2048x0/images/Un-patient-touche-par-le-virus-mpox-la-variole-du-singe-dans-un-hopital-de-Lima-Perou-le-16-aout-2024-1920528.jpg",
+      "publishedAt": "2025-01-21 17:00:15",
+      "content": "Alors que le nouveau variant du virus mpox est \u00e0 l'origine d'une importante \u00e9pid\u00e9mie en Afrique, le Royaume-Uni vient de d\u00e9tecter, ce lundi 20 janvier, son sixi\u00e8me cas depuis octobre. Le nouveau sou\u2026 [+2043 chars]",
+      "retrievedAt": "2025-01-22 19:05:44.760527",
+      "internal_id": "4fb3a94cf47135f31b6526dba2dfcc5283b96c67d3937c98650d06d000b9ab22",
+      "publishedAtLabel": "Jan 21"
+    },
+    {
+      "id": 17608,
+      "query": [
+        "zika"
+      ],
+      "source_id": "bild",
+      "source_name": "Bild",
+      "author": "Christian Glass",
+      "title": "Zika-M\u00fccken in Thailand - Schwangere verliert Baby nach M\u00fcckenstich",
+      "description": "Eine schwangere D\u00e4nin infiziert sich w\u00e4hrend ihres Urlaubs in Thailand mit dem Zika-Virus, was zu schweren Missbildungen des Ungeborenen f\u00fchrt.",
+      "url": "https://www.bild.de/leben-wissen/medizin/schwangere-daenin-erleidet-zika-virus-tragoedie-in-thailand-abtreibung-678f472bedb31a2ece639a60",
+      "urlToImage": "https://images.bild.de/678f472bedb31a2ece639a60/f23ef068df61c6082edca5d87ffb664f,9c82cde?w=1280",
+      "publishedAt": "2025-01-21 16:55:56",
+      "content": "Ein Thailand-Urlaub endet f\u00fcr eine schwangere D\u00e4nin tragisch. Die Urlauberin infizierte sich mit dem Zika-Virus, was zu Missbildungen des Ungeborenen f\u00fchrte. Gemeinsam mit ihrem Partner bereiste die\u2026 [+1864 chars]",
+      "retrievedAt": "2025-01-22 19:05:43.936455",
+      "internal_id": "60e4a8f2cfaa0271a63dc719a920fc9cdbace285272901572a8b078760101c0f",
+      "publishedAtLabel": "Jan 21"
+    },
+    {
+      "id": 17600,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Catracalivre.com.br",
+      "author": "Andr\u00e9 Nicolau",
+      "title": "Dengue desafia a ci\u00eancia: resist\u00eancia a inseticidas preocupa especialistas",
+      "description": "Dengue preocupa especialistas: an\u00e1lise revelou a presen\u00e7a de uma muta\u00e7\u00e3o gen\u00e9tica nunca antes registrada.",
+      "url": "https://catracalivre.com.br/saude-bem-estar/dengue-inseticidas/",
+      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1280,h=680,fit=cover,format=jpeg/wp-content/uploads/2025/01/depositphotos-298133164-s.jpg",
+      "publishedAt": "2025-01-21 16:00:51",
+      "content": "An\u00e1lise revelou a presen\u00e7a de uma muta\u00e7\u00e3o gen\u00e9tica nunca antes registrada sergio_pulp/Depositphotos - SERGIO MONTI De acordo com um artigo publicado pela renomada revista cient\u00edfica Parasites &amp; \u2026 [+3047 chars]",
+      "retrievedAt": "2025-01-22 19:05:42.354815",
+      "internal_id": "4e05fb7245d4d5902bdd29769043902766285684cdfaeb93b7769b3cedcedc12",
+      "publishedAtLabel": "Jan 21"
+    },
+    {
+      "id": 17611,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Themorningnews.org",
+      "author": null,
+      "title": "Tuesday headlines: Frank of America",
+      "description": "A round-up of President Trump's first day back in office, playing \"ping-pong between the serious and the stunning.\" / The Wall Street Journal [+] Trump's political urgency may be slowed \"by a more languid Congress.\" / Semafor The United States military deba\u2026",
+      "url": "https://themorningnews.org/p/tuesday-headlines-frank-of-america",
+      "urlToImage": "https://themorningnews.org/images/tmn-logo-share.png",
+      "publishedAt": "2025-01-21 15:13:00",
+      "content": "In an unwritten, unannounced policy change, Louisiana's Dept. of Health is forbidding employees from promoting Covid, flu, or mpox vaccines. / NPR Photos of daily life for the Palestinian people\u2014\"be\u2026 [+2219 chars]",
+      "retrievedAt": "2025-01-22 19:05:44.753423",
+      "internal_id": "04aa1a1beb2b574056c268c4d81998f7e777c081559b8eef5859703d564da1ed",
+      "publishedAtLabel": "Jan 21"
+    },
+    {
+      "id": 17596,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Computerworld.dk",
+      "author": "Niels de Boissezon",
+      "title": "Test: Hurra - den billigste Mac er nu faktisk ogs\u00e5 den bedste",
+      "description": "Apples billigste og mindste Mac er det oplagte valg. Selv om man er klejn, kan man godt v\u00e6re m\u00e6gtig.",
+      "url": "https://www.computerworld.dk/art/290168/test-hurra-den-billigste-mac-er-nu-faktisk-ogsaa-den-bedste",
+      "urlToImage": "https://www.computerworld.dk/fil/230918?width=600&height=315&focus=1",
+      "publishedAt": "2025-01-21 14:59:00",
+      "content": "Apples billigste og mindste Mac er det oplagte valg. Selv om man er klejn, kan man godt v\u00e6re m\u00e6gtig.Annonceindl\u00e6g fra HPAI-ekspert Robert Luciani: Den rigtige teknologi er afg\u00f8rende for succes med AI\u2026 [+4756 chars]",
+      "retrievedAt": "2025-01-22 19:05:41.252343",
+      "internal_id": "2cc73f0b1fbfd4ad6d0714160dc6c292b5c1b91a9c5e83c1684c66e12d0df343",
+      "publishedAtLabel": "Jan 21"
+    },
+    {
+      "id": 17597,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Steve Brozak, Contributor, \n Steve Brozak, Contributor\n https://www.forbes.com/sites/stephenbrozak/",
+      "title": "As H5N1 Is Detected In San Francisco, A Panel Discusses Next Steps",
+      "description": "San Francisco confirmed that a child in the city became the first case of H5N1. A panel of biotech leaders discussed what options could be taken next.",
+      "url": "https://www.forbes.com/sites/stephenbrozak/2025/01/21/as-h5n1-is-detected-in-san-francisco-a-panel-discusses-next-steps/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/678d5895a323a606cf2b6d3d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-01-21 14:34:25",
+      "content": "Testing for bird flu, conceptual image getty Last week, the San Francisco Department of Public Health (SFDPH) confirmed that a child in the city became the first case of Avian Influenza-Bird Flu (H\u2026 [+5109 chars]",
+      "retrievedAt": "2025-01-22 19:05:41.665065",
+      "internal_id": "b69d76dc037a6b8108ff7d9638fdad50fef447624abd1705aefec18a39cf974f",
+      "publishedAtLabel": "Jan 21"
+    },
+    {
+      "id": 17595,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Computerworld.dk",
+      "author": "Kristoffer Ingemand Petersen",
+      "title": "Microsoft melder sig ind i europ\u00e6isk cloud-forening - som tidligere har k\u00f8rt k\u00e6mpesag mod netop Microsofts licenser",
+      "description": "Microsoft er blevet medlem af organisationen Cispe, som igennem l\u00e6ngere tid har k\u00f8rt en retssag mod netop Microsofts cloud-licenser.",
+      "url": "https://www.computerworld.dk/art/290166/microsoft-melder-sig-ind-i-europaeisk-cloud-forening-som-tidligere-har-koert-kaempesag-mod-netop-microsofts-licenser",
+      "urlToImage": "https://www.computerworld.dk/fil/230912?width=600&height=315&focus=1",
+      "publishedAt": "2025-01-21 14:30:00",
+      "content": "Microsoft er blevet medlem af organisationen Cispe, som igennem l\u00e6ngere tid har k\u00f8rt en retssag mod netop Microsofts cloud-licenser.Annonceindl\u00e6g fra HPAI-ekspert Robert Luciani: Den rigtige teknolog\u2026 [+2141 chars]",
+      "retrievedAt": "2025-01-22 19:05:41.244322",
+      "internal_id": "d2b615cb5f93acb10e8af08fb711e67f26fd1ecd42065bef9f2115a9c45ed3f0",
+      "publishedAtLabel": "Jan 21"
+    },
+    {
+      "id": 17604,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Liliana S\u00e1nchez-Gonz\u00e1lez, Jacob E. Crawford, Laura E. Adams, Grayson Brown, Kyle R. Ryff, Mark Delorey, Jose Ruiz-Valcarcel, Nicole Nazario, Nexilianne Borrero, Julieanne Miranda, Sara N. Mitchell, Paul I. Howell, Johanna R. Ohm, Charlie Behling, Brian Wasson, Craig Eldershaw, Bradley J. White, Vanessa Rivera-Amill, Roberto Barrera, Gabriela Paz-Bailey",
+      "title": "Incompatible Aedes aegypti male releases as an intervention to reduce mosquito population\u2014A field trial in Puerto Rico",
+      "description": "Author summary Mosquito control is a key component of strategies to reduce the increasing occurrence of mosquito-borne diseases like dengue. New effective technologies are needed to complement existing methods. In the Wolbachia-based incompatible insect techn\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012839",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012839.g006&size=inline",
+      "publishedAt": "2025-01-21 14:00:00",
+      "content": "Abstract Mosquito-transmitted viruses such as dengue are a global and growing public health challenge. Without widely available vaccines, mosquito control is the primary tool for fighting the spread\u2026 [+78800 chars]",
+      "retrievedAt": "2025-01-22 19:05:42.453077",
+      "internal_id": "efeb44be5e5b74860f39134abff6b3960d8a7e919fa2fd200a49ccd7b568b381",
+      "publishedAtLabel": "Jan 21"
+    },
+    {
+      "id": 17609,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "focus",
+      "source_name": "Focus",
+      "author": "FOCUS online",
+      "title": "Faktencheck - Faktencheck: Keine Verbindung zwischen Mpox und COVID-Impfung",
+      "description": "Die aktuellen Mpox-Ausbr\u00fcche werden begleitet von Falschinformationen im Netz. Eine weitverbreitete Behauptung stellt einen Zusammenhang zwischen den Affenpocken und Corona-Impfungen her. Was ist dran?",
+      "url": "https://www.focus.de/faktencheck/faktencheck-keine-verbindung-zwischen-mpox-und-covid-impfung_547d58ce-3d71-4b84-b4e9-fa995fcd2722.html",
+      "urlToImage": "https://quadro.burda-forward.de/ctf/c0ee7055-61b0-4441-874e-c9ce8655c814.fe7b9b4f-8b04-4894-b29e-4b5c30a3dbf6.jpeg?im=Resize%3D%281200%2C630%29&hash=f5724f32e6b05b1a1785ab626372238c80bc27739aa6efe5cece33c7acae853e",
+      "publishedAt": "2025-01-21 13:12:32",
+      "content": "Nur einen Tag nachdem die Weltgesundheitsorganisation wegen der Mpox-Ausbr\u00fcche in afrikanischen L\u00e4ndern zum zweiten Mal innerhalb von zwei Jahren die h\u00f6chste Alarmstufeausgerufen hat, tauchte schon d\u2026 [+4971 chars]",
+      "retrievedAt": "2025-01-22 19:05:44.720281",
+      "internal_id": "da4ef3d6f1f0f9aae5dd64e2c7444bc8379f90e833d90b348218c4658c1470aa",
+      "publishedAtLabel": "Jan 21"
+    },
+    {
+      "id": 17603,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "J\u00falia Queiroz",
+      "title": "Dengue: Sorocaba confirma primeira morte pela doen\u00e7a em 2025",
+      "description": "V\u00edtima \u00e9 uma mulher de 58 anos, que morreu no dia 9/1 em um hospital p\u00fablico. Sorocaba retomou vacina\u00e7\u00e3o conta dengue nessa segunda (20/1)",
+      "url": "https://www.metropoles.com/sao-paulo/dengue-sorocaba-confirma-morte",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/10/30153517/agentes-saude-dengue.jpg",
+      "publishedAt": "2025-01-21 12:24:23",
+      "content": "S\u00e3o Paulo A Prefeitura de Sorocaba, munic\u00edpio no interior de S\u00e3o Paulo, confirmou nesta segunda-feira (20/1) a primeira morte por dengue em 2025. A v\u00edtima \u00e9 uma mulher de 58 anos, que faleceu no dia \u2026 [+2282 chars]",
+      "retrievedAt": "2025-01-22 19:05:42.389530",
+      "internal_id": "7db5bf9576e0d8bfcc56da43d80acad63045179cab6b6e313534258a90dc7aef",
+      "publishedAtLabel": "Jan 21"
+    },
+    {
+      "id": 17601,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": "info-money",
+      "source_name": "InfoMoney",
+      "author": "Lara Riz\u00e9rio",
+      "title": "Brasil registra oito mortes por dengue e duas por chikungunya em 2025",
+      "description": "N\u00fameros foram divulgados na segunda-feira (20) pelo Minist\u00e9rio da Sa\u00fade The post Brasil registra oito mortes por dengue e duas por chikungunya em 2025 appeared first on InfoMoney.",
+      "url": "https://www.infomoney.com.br/brasil/brasil-registra-oito-mortes-por-dengue-e-duas-por-chikungunya-em-2025/",
+      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2024/10/aedes-mosquito-c-niaid.webp?quality=70",
+      "publishedAt": "2025-01-21 11:37:25",
+      "content": "Em 2025, o Brasil j\u00e1 registrou oito mortes por dengue e duas por chikungunya. Os n\u00fameros s\u00e3o do Painel de Monitoramento das Arboviroses, divulgado pelo Minist\u00e9rio da Sa\u00fade nesta segunda-feira (20). A\u2026 [+1028 chars]",
+      "retrievedAt": "2025-01-22 19:05:42.374783",
+      "internal_id": "878034f52af34d0a8b239b9dada2abc76545deb3c3a799bfccd9814f57b4c2fe",
+      "publishedAtLabel": "Jan 21"
+    },
+    {
+      "id": 17594,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Computerworld.dk",
+      "author": "Q\u00ebndrim Fazliu",
+      "title": "Overblik: Se l\u00f8nnen for it-cheferne i regionerne og Danmarks 10 st\u00f8rste kommuner - er p\u00e5 minister-niveau",
+      "description": "Overblik: Find ud af, hvor meget it-cheferne i regionerne og i landets kommuner tjener - og hvordan deres l\u00f8n har udviklet sig i de seneste \u00e5r.",
+      "url": "https://www.computerworld.dk/art/290117/overblik-se-loennen-for-it-cheferne-i-regionerne-og-danmarks-10-stoerste-kommuner-er-paa-minister-niveau",
+      "urlToImage": "https://www.computerworld.dk/fil/198155?width=600&height=315&focus=1",
+      "publishedAt": "2025-01-21 11:00:00",
+      "content": "Overblik: Find ud af, hvor meget it-cheferne i regionerne og i landets kommuner tjener - og hvordan deres l\u00f8n har udviklet sig i de seneste \u00e5r.Annonceindl\u00e6g fra HPAI-ekspert Robert Luciani: Den rigti\u2026 [+1168 chars]",
+      "retrievedAt": "2025-01-22 19:05:41.207004",
+      "internal_id": "2143a16cd3714d574559800a3688bafa87c2dc68282ad00ee2706f966cbc5a9a",
+      "publishedAtLabel": "Jan 21"
+    },
+    {
+      "id": 17605,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "'I feel trapped': Regina meningitis patient faces barriers to rehabilitation support",
+      "description": "When Brenda Herback woke up the morning she was set to fly to France from Regina for a vacation, she had no idea she would be in a coma in a matter of days.",
+      "url": "https://www.cbc.ca/news/canada/saskatchewan/regina-meningitis-patient-faces-barriers-in-getting-rehabilitation-support-1.7436179",
+      "urlToImage": "https://i.cbc.ca/1.7436326.1737401766!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_1180/brenda-herback.jpeg?im=Resize%3D620",
+      "publishedAt": "2025-01-21 11:00:00",
+      "content": "When Brenda Herback woke up the morning she was set to fly to France from Regina for a vacation, she had no idea she would be in a coma in a matter of days. She certainly didn't think that months la\u2026 [+8224 chars]",
+      "retrievedAt": "2025-01-22 19:05:42.992120",
+      "internal_id": "b3e85a592073397a6e9400874feb96b33677606dd7c6a3b1a96880660663dd84",
+      "publishedAtLabel": "Jan 21"
+    },
+    {
+      "id": 17610,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Elisabeth Mahase",
+      "title": "Officials confirm sixth case of clade Ib mpox in England",
+      "description": "The UK Health Security Agency (UKHSA) has reported a new case of clade Ib mpox in England, the sixth case since October.The patient, who is under specialist care at Guy\u2019s and St Thomas\u2019 NHS Foundation Trust, had recently returned from Uganda, the agency said.\u2026",
+      "url": "https://www.bmj.com/content/388/bmj.r132",
+      "urlToImage": "https://www.bmj.com/sites/default/files/highwire/bmj/388/8454.cover-source.jpg",
+      "publishedAt": "2025-01-21 10:01:13",
+      "content": "The UK Health Security Agency (UKHSA) has reported a new case of clade Ib mpox in England, the sixth case since October. The patient, who is under specialist care at Guys and St Thomas NHS Foundatio\u2026 [+80 chars]",
+      "retrievedAt": "2025-01-22 19:05:44.734163",
+      "internal_id": "8e71feb8971022a90a4b5866d3faa2711f51bef8fff8106aaef8fdcd8ec73196",
+      "publishedAtLabel": "Jan 21"
+    },
+    {
+      "id": 17607,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Standard Digital",
+      "author": "Mercy Kahenda",
+      "title": "Trump Orders: How America's exit from WHO will affect Kenya's health system",
+      "description": "The US has been a key supporter of Kenya's programmes on combating HIV, tuberculosis and malaria.",
+      "url": "https://www.standardmedia.co.ke/health/health-science/article/2001509957/trump-orders-how-americas-exit-from-who-will-affect-kenyas-health-system",
+      "urlToImage": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/DwsYrin2fIBm4z8N7lKgCVVCGxKxAD151QDzvGkd.jpg",
+      "publishedAt": "2025-01-21 09:25:47",
+      "content": "Brenda* has been on HIV treatment since 2003. As she steps out of a Gilgil hospital after her twins have been declared HIV negative, joy paints her face, and grace and confidence define her gait. \u201cT\u2026 [+10384 chars]",
+      "retrievedAt": "2025-01-22 19:05:43.512790",
+      "internal_id": "eb4c43526acdd2e47c11589402de19d7a94e81180cd3dce5e3b92250f0aef162",
+      "publishedAtLabel": "Jan 21"
+    },
+    {
+      "id": 17599,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Khan.co.kr",
+      "author": "\ubc18\uae30\uc6c5 \uae30\uc790 ban@kyunghyang.com",
+      "title": "\uc9c8\ubcd1\uccad\uc7a5 \u201c\uc62c\ud574 \uc2e0\uc885 \uac10\uc5fc\ubcd1 \ub300\uc751 \uac15\ud654\u2026\ubc31\uc2e0 \uc608\uc0b0 \ud655\ubcf4 \ubabb\ud574 \uc548\ud0c0\uae4c\uc6cc\u201d",
+      "description": "\uc9c0\uc601\ubbf8 \uc9c8\ubcd1\uad00\ub9ac\uccad\uc7a5\uc774 21\uc77c \uc2e0\ub144 \uae30\uc790\uac04\ub2f4\ud68c\uc5d0\uc11c \ubc1c\uc5b8\uc744 \ud558\uace0 \uc788\ub2e4. \uc9c8\ubcd1\uad00\ub9ac\uccad \uc81c\uacf5 \ubc29\uc5ed\ub2f9\uad6d\uc774 \uc62c\ud574 \uc2e0\uc885 \uac10\uc5fc\ubcd1\uc5d0 \ub300\ud55c \uc120\uc81c\uc801 \ub300\uc751\uc744 \uac15\ud654\ud558\uace0, \ud544\uc218 \uad6d\uac00\uc608\ubc29\uc811\uc885 \ubc31\uc2e0 \uc790\uae09\ud654\ub97c \ucd94\uc9c4\ud55c\ub2e4. \uc0c1\uc2dc\uac10\uc5fc\ubcd1 \uad00\ub9ac\ub97c \uc704\ud55c \uad6d\uac00\uc608\ubc29\uc811\uc885 \ub85c\ub4dc\ub9f5\ub3c4 \ub9c8\ub828\ud55c\ub2e4. \uc9c8\ubcd1\uad00\ub9ac\uccad\uc740 21\uc77c \ucda9\ubd81 \uccad\uc8fc\uc2dc \uc9c8\ubcd1\uad00\ub9ac\uccad\uc5d0\uc11c \uae30\uc9c0\uac04\ub2f4\ud68c\ub97c \uc5f4\uace0 \uc774 \uac19\uc740 \ub0b4\uc6a9\uc758 2025\ub144 \uc8fc\uc694 \uc5c5\ubb34 \ucd94\uc9c4 \uacc4\ud68d\u00b7\u00b7\u00b7",
+      "url": "https://www.khan.co.kr/article/202501211657001",
+      "urlToImage": "https://img.khan.co.kr/news/2025/01/21/news-p.v1.20250121.6565c87e735642d1ab4cdfb9ff32f59b_P1.jpg",
+      "publishedAt": "2025-01-21 07:57:00",
+      "content": "21 . , . . 21 2025 . \u00b7 , . 5 \u00b7 \u00b7 \u00b7 . . mRNA 4 1 2 3 . , SFTS(), RSV() . (AI) . () AI . , 300 1000 . . H5N1 . .",
+      "retrievedAt": "2025-01-22 19:05:41.720435",
+      "internal_id": "fccf9412aff502154b35fd61a2dfd1b370e3a91172f4e5c48ef4626946376d09",
+      "publishedAtLabel": "Jan 21"
+    },
+    {
+      "id": 17598,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Cnbeta.com.tw",
+      "author": null,
+      "title": "\u7f8e\u56fd\u201c\u5386\u53f2\u6027\u201d\u79bd\u6d41\u611f\u75ab\u60c5\u5f15\u53d1\u9e21\u86cb\u8352",
+      "description": "\u636e\u897f\u73ed\u7259\u300a\u56fd\u5bb6\u62a5\u300b\u7f51\u7ad91\u670819\u65e5\u62a5\u9053\uff0c\u6bcf\u4e2a\u7f8e\u56fd\u4eba\u4e00\u5e74\u5927\u7ea6\u8981\u5403280\u679a\u9e21\u86cb\u3002\u9e21\u86cb\u4ee5\u524d\u5f88\u4fbf\u5b9c\uff0c\u4f46\u4e00\u5207\u5728\u8fd9\u51e0\u5e74\u53d1\u751f\u4e86\u53d8\u5316\u3002\u8d85\u5e02\u8d27\u67b6\u4e0a\u66fe\u7ecf\u5dee\u4e0d\u591a2\u7f8e\u5143\u4e00\u6253\u7684\u9e21\u86cb\uff0c\u73b0\u5728\u4ef7\u683c\u53ef\u80fd\u9ad8\u8fbe5\u7f8e\u5143\u4ee5\u4e0a\u3002\u81f3\u5c11\u8fd1\u4e09\u5e74\u6765\uff0c\u9e21\u86cb\u7684\u6545\u4e8b\u5df2\u7ecf\u6539\u53d8\u3002 \u6839\u636e\u52b3\u5de5\u7edf\u8ba1\u5c40\u7684\u6570\u636e\uff0c2022\u5e741\u6708\u81f32023\u5e741\u6708\uff0c\u7f8e\u56fd\u4e00\u6253\u9e21\u86cb\u7684\u5e73\u5747\u4ef7\u683c\u4ece1.93\u7f8e\u5143\u98d9\u5347\u81f34.82\u7f8e\u5143\u30022024\u5e74\u7d2f\u8ba1\u5e74\u6da8\u5e45\u8fbe\u523070.1%\uff0c\u8fd9\u662f\u8fc7\u53bb\u4e8c\u5341\u5e74\u6765\u6700\u9ad8\u7684\u6da8\u5e45\u4e4b\u4e00\u3002\u539f\u56e0\u4f55\u5728\uff1f\u5e02\u573a\u4e13\u5bb6\u8ba4\u4e3a\uff0c\u5982\u4eca\u7684\u7f6a\u9b41\u7978\u9996\u662fH5N1\u79bd\u6d41\u611f\u75c5\u6bd2\uff0c\u8fd9\u79cd\u75c5\u6bd2\u4e00\u822c\u611f\u67d3\u91ce\u751f\u79bd\u7c7b\u548c\u5bb6\u79bd\uff0c\u4f46\u4e5f\u53ef\u80fd\u611f\u67d3\u5176\u4ed6\u52a8\u7269\u4ee5\u53ca\u4eba\u7c7b\u2026",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1472774.htm",
+      "urlToImage": "https://static.cnbetacdn.com/thumb/article/2022/0714/2aab633c25c98d0.jpg",
+      "publishedAt": "2025-01-21 07:36:13",
+      "content": "20221202311.934.82202470.1% H5N1 192420224500482024121825111100 6.068.97 202411121720",
+      "retrievedAt": "2025-01-22 19:05:41.695019",
+      "internal_id": "2bd1997b39002c49890a66866e69e1b01229a1c0151bdc59541c21395ce8c5dd",
+      "publishedAtLabel": "Jan 21"
+    },
     {
       "id": 17585,
       "query": [
@@ -25473,134 +25816,6 @@
       "content": "Mosquitoes are normally associated with spreading malaria rather than preventing it, but in a new study scientists have used the insects to administer a promising new vaccine that could offer much be\u2026 [+2970 chars]",
       "retrievedAt": "2024-12-10 07:07:24.434799",
       "internal_id": "3d0a1b30e715194ad8a3edafdd97b46a472d76882fa7e9df7c2e109e9b5d92f5",
-      "publishedAtLabel": "Dec 8"
-    },
-    {
-      "id": 16172,
-      "query": [
-        "measles",
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Newsbreak.com",
-      "author": "Jolana Miller",
-      "title": "Mysterious New Disease X Is Officially Here, Potentially Airborne",
-      "description": "Respiratory pathogens like influenza and COVID-19 are being investigated as possible causes of this new Disease X. According to NPR, so are malaria and measles. The U.S. Centers for Disease Control and Prevention, as well as other countries, are standing by t\u2026",
-      "url": "https://www.newsbreak.com/share/3706705509412-mysterious-new-disease-x-is-officially-here-potentially-airborne?s=a2&amp;share_destination_id=MTg0MzY1NzI5LTE3MzM2NzY0MDE4NzY%3D&amp;pd=0CTZwnpM&amp;hl=en_US&amp;send_time=1733676401&amp;actBtn=feedbackShareButton&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2224.49.0%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_recall_exp_24q4-v3%2Cns_foryou_model_exp_24q4-v9%2Cns_foryou_blend_exp_24q4-v2%2Cns_local_strategy_24q4_exp-v8%2Cns_push_exp_rt_bucketv12-v9%2Cns_foryou_rank_exp_24q4-v5",
-      "urlToImage": "https://img.particlenews.com/img/id/1mgzoz_0xHy97VV00?type=thumbnail_1600x1200",
-      "publishedAt": "2024-12-08 16:47:09",
-      "content": "Convicted Murderer Lyle Menendez, 56, Caught in Secret Prison Affair With 21-Year-Old British Student He Met on Facebook Convicted murderer Lyle Menendez , known for the infamous 1989 deaths of his\u2026 [+539 chars]",
-      "retrievedAt": "2024-12-09 19:05:54.889696",
-      "internal_id": "4b7ce154b96a3012d03811f6f70dd35d784ba63d9f457f60b7fe4a452a2b5d75",
-      "publishedAtLabel": "Dec 8"
-    },
-    {
-      "id": 16175,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "der-tagesspiegel",
-      "source_name": "Der Tagesspiegel",
-      "author": "Simone Humml",
-      "title": "Wann die Vogelgrippe f\u00fcr Menschen gef\u00e4hrlich wird: Bereits winzige \u00c4nderung w\u00fcrde ausreichen",
-      "description": "Noch ist keine anhaltende \u00dcbertragung des Vogelgrippe-Virus H5N1 von Mensch zu Mensch nachgewiesen worden. Doch schon nach Austausch eines Bausteins kann es leichter an menschliche Zellen andocken.",
-      "url": "https://www.tagesspiegel.de/wissen/wann-die-vogelgrippe-fur-menschen-gefahrlich-wird-bereits-winzige-anderung-wurde-ausreichen-12841436.html",
-      "urlToImage": "https://www.tagesspiegel.de/images/12427472/alternates/BASE_16_9_W1400/1732360301000/file-photo-illustration-shows-test-tube-labelled-bird-flu-words-and-u-s-flag.jpeg",
-      "publishedAt": "2024-12-08 16:23:37",
-      "content": "Eine kleine \u00c4nderung des von Milchk\u00fchen auf Menschen gelangten Vogelgrippe-Virus kann einer Studie zufolge den Grundstein f\u00fcr eine \u00dcbertragung zwischen Menschen legen. Das Virus wurde in diesem Fr\u00fchj\u2026 [+1032 chars]",
-      "retrievedAt": "2024-12-09 19:05:55.574972",
-      "internal_id": "e6b081500f6e75b5b29d0d67e690b53671e0dee5156a473ed0726ab13aeb5bbf",
-      "publishedAtLabel": "Dec 8"
-    },
-    {
-      "id": 16173,
-      "query": [
-        "hpai"
-      ],
-      "source_id": null,
-      "source_name": "Legalinsurrection.com",
-      "author": "Leslie Eastman",
-      "title": "USDA Orders Testing of Raw and Unpasteurized Milk for Presence of Bird Flu Virus",
-      "description": "Yet, No one has yet been known to become ill with this virus from drinking raw. The post USDA Orders Testing of Raw and Unpasteurized Milk for Presence of Bird Flu Virus first appeared on Le\u00b7gal In\u00b7sur\u00b7rec\u00b7tion.",
-      "url": "https://legalinsurrection.com/2024/12/usda-orders-testing-of-raw-and-unpasteurized-milk-for-presence-of-bird-flu-virus/",
-      "urlToImage": "https://legalinsurrection.com/wp-content/uploads/2017/11/Milk-Cows.jpg",
-      "publishedAt": "2024-12-08 15:00:56",
-      "content": "In our most recent reports on the bird flu, California has become the new epicenter for Highly Pathogenic Avian Influenza (HPAI), as several of the states dairy workers at herds impacted by the path\u2026 [+4448 chars]",
-      "retrievedAt": "2024-12-09 19:05:55.149332",
-      "internal_id": "d79fc4ba7d527630215ed741484893ca7071afba08a5611d8c7f7c3417a4d490",
-      "publishedAtLabel": "Dec 8"
-    },
-    {
-      "id": 16171,
-      "query": [
-        "measles",
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Newsbreak.com",
-      "author": "Jolana Miller",
-      "title": "Mysterious New Disease X Is Officially Here, Potentially Airborne",
-      "description": "Respiratory pathogens like influenza and COVID-19 are being investigated as possible causes of this new Disease X. According to NPR, so are malaria and measles. The U.S. Centers for Disease Control and Prevention, as well as other countries, are standing by t\u2026",
-      "url": "https://www.newsbreak.com/share/3706705509412-mysterious-new-disease-x-is-officially-here-potentially-airborne?_f=app_share&amp;pd=0EuIdPvZ&amp;lang=en_US&amp;send_time=1733680315&amp;trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2224.48.0.25%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_local_strategy_24q4_exp-v11%2Cns_push_exp_rt_bucketv12-control%2Cns_foryou_rank_exp_24q4-v4%2Cns_foryou_blend_exp_24q4-v6%2Cns_foryou_model_exp_24q4-v8%2Cns_foryou_recall_exp_24q4-v7&amp;s=i2",
-      "urlToImage": "https://img.particlenews.com/img/id/1mgzoz_0xHy97VV00?type=thumbnail_1600x1200",
-      "publishedAt": "2024-12-08 14:00:34",
-      "content": "Convicted Murderer Lyle Menendez, 56, Caught in Secret Prison Affair With 21-Year-Old British Student He Met on Facebook Convicted murderer Lyle Menendez , known for the infamous 1989 deaths of his\u2026 [+539 chars]",
-      "retrievedAt": "2024-12-09 19:05:54.877052",
-      "internal_id": "677bc505ea9d5f785d6b8fe845d0e95de58d57b9cd4536814a9a6eaaebf6f146",
-      "publishedAtLabel": "Dec 8"
-    },
-    {
-      "id": 16170,
-      "query": [
-        "pertussis"
-      ],
-      "source_id": null,
-      "source_name": "CP24 Toronto's Breaking News",
-      "author": "Alex Arsenych",
-      "title": "Public Health Ontario report: whooping cough cases highest in 17 years",
-      "description": "The number of whooping cough cases in Ontario this year has reached a level that hasn\u2019t been seen in 17 years.",
-      "url": "https://www.cp24.com/news/2024/12/08/ontario-saw-the-highest-number-of-whooping-cough-cases-in-the-last-17-years-report/",
-      "urlToImage": "https://www.cp24.com/resizer/v2/YR4A4OZHJJRIUH6ENPHBMVOJIM.jpg?smart=true&auth=5be3ada27b20e9bd9c82e3a4dcc2826c5261bc1a689fe92273750fa152100ebb&width=1200&height=630",
-      "publishedAt": "2024-12-08 11:49:42",
-      "content": "The number of whooping cough cases in Ontario this year has reached a level that hasnt been seen in 17 years. In November, Public Health Ontario (PHO) published its findings on pertussis, commonly k\u2026 [+4485 chars]",
-      "retrievedAt": "2024-12-09 19:05:54.451716",
-      "internal_id": "dafa24cba75d671317551db02c0ad79e01594dec8bf53eeb78d869db90e76106",
-      "publishedAtLabel": "Dec 8"
-    },
-    {
-      "id": 16174,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "bild",
-      "source_name": "Bild",
-      "author": "Mara Pallokat",
-      "title": "Forscher schlagen Alarm - Vogelgrippe nur eine Mutation vom Menschen entfernt",
-      "description": "Amerikanische Forscher entdecken, dass eine kleine Ver\u00e4nderung im H5N1-Virus ausreicht, um Menschen einfacher zu infizieren und eine Pandemie auszul\u00f6sen.",
-      "url": "https://www.bild.de/leben-wissen/vogelgrippe-neue-pandemie-durch-schnelle-mutation-moeglich-67555ac036814417822d0009",
-      "urlToImage": "https://images.bild.de/67555ac036814417822d0009/a7cd1a60323df0c1dcbfe3e0e7392a39,bdfcb9c8?w=1280",
-      "publishedAt": "2024-12-08 10:16:07",
-      "content": "Die Vogelgrippe k\u00f6nnte bald schneller auf den Menschen \u00fcberspringen und dabei sogar eine neue Pandemie ausl\u00f6sen! Millionen Tiere hat die in der Fachsprache avi\u00e4re Influenza genannte Infektion get\u00f6te\u2026 [+2222 chars]",
-      "retrievedAt": "2024-12-09 19:05:55.521079",
-      "internal_id": "816ceec5262d95982d6808b42fb35035362e031ef2b322b7f4734f26f6770264",
-      "publishedAtLabel": "Dec 8"
-    },
-    {
-      "id": 16176,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "focus",
-      "source_name": "Focus",
-      "author": "dpa",
-      "title": "Hohe Dunkelziffer - Experten: Schon winzige Ver\u00e4nderung macht Vogelgrippe gef\u00e4hrlich f\u00fcr uns",
-      "description": "Noch ist keine anhaltende \u00dcbertragung des Vogelgrippe-Virus H5N1 von Mensch zu Mensch nachgewiesen worden. Doch schon nach Austausch eines Bausteins kann es leichter an menschliche Zellen andocken. Das zeigt eine neue Studie",
-      "url": "https://www.focus.de/gesundheit/news/experten-schon-winzige-veraenderung-macht-vogelgrippe-gefaehrlich-fuer-uns_id_260544505.html",
-      "urlToImage": "https://p6.focus.de/img/fotos/id_260094435/gettyimages-522933314.jpg?im=Crop%3D%280%2C175%2C2122%2C1061%29%3BResize%3D%281200%2C627%29&impolicy=perceptual&quality=mediumHigh&hash=4f934f15acfc4ce2377e1af3350622319e356b831eddaeaf7e95ef9e1fb624a6",
-      "publishedAt": "2024-12-08 09:02:42",
-      "content": "Noch ist keine anhaltende \u00dcbertragung des Vogelgrippe-Virus H5N1 von Mensch zu Mensch nachgewiesen worden. Doch schon nach Austausch eines Bausteins kann es leichter an menschliche Zellen andocken. D\u2026 [+5309 chars]",
-      "retrievedAt": "2024-12-09 19:05:55.656686",
-      "internal_id": "c2b033a55c391653dbfe8f66d540bcd2796e10de8078c6511eee8c438a028a18",
       "publishedAtLabel": "Dec 8"
     }
   ]
