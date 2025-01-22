@@ -1,8 +1,224 @@
 {
-  "last_updated": "2025-01-21 19:05",
-  "count_articles_total": 1400,
-  "count_articles_new": 13,
+  "last_updated": "2025-01-22 07:06",
+  "count_articles_total": 1419,
+  "count_articles_new": 12,
   "articles": [
+    {
+      "id": 17585,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Computerworld.dk",
+      "author": "Q\u00ebndrim Fazliu",
+      "title": "Russiske hackere udnytter popul\u00e6r beskedtjeneste til at angreb",
+      "description": "Russiske hackere g\u00e5r nu m\u00e5lrettet efter at hacke pro-ukrainske diplomaters konti p\u00e5 popul\u00e6r beskedtjeneste - og det sker via social engineering.",
+      "url": "https://www.computerworld.dk/art/290152/russiske-hackere-udnytter-populaer-beskedtjeneste-til-at-angreb",
+      "urlToImage": "https://www.computerworld.dk/fil/230392?width=600&height=315&focus=1",
+      "publishedAt": "2025-01-21 06:11:00",
+      "content": "Russiske hackere g\u00e5r nu m\u00e5lrettet efter at hacke pro-ukrainske diplomaters konti p\u00e5 popul\u00e6r beskedtjeneste - og det sker via social engineering.Annonceindl\u00e6g fra HPAI-ekspert Robert Luciani: Den rigt\u2026 [+2572 chars]",
+      "retrievedAt": "2025-01-22 07:06:24.047781",
+      "internal_id": "f6d670d572c620fb89c50a75b9e9c1ba11151e60289a15b8ef0caf556589f73b",
+      "publishedAtLabel": "Jan 21"
+    },
+    {
+      "id": 17582,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Partha Behera",
+      "title": "\u2018Rabid\u2019 sloth bear kills father-son duo, injures forest ranger, terrorizes villagers in Chhattisgarh",
+      "description": "A sloth bear attack in Chhattisgarh's Korar forest range resulted in the deaths of a father and son, with two others injured. The bear, suspected of having rabies, first attacked Ajju Kureti and then Sukhlal Darro. Later, the bear killed Sukhlal's father, Sha\u2026",
+      "url": "https://timesofindia.indiatimes.com/city/raipur/rabid-sloth-bear-kills-father-son-duo-injures-forest-ranger-terrorizes-villagers-in-chhattisgarh/articleshow/117417223.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-117417244,width-1070,height-580,imgsize-1414519,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2025-01-21 06:10:06",
+      "content": "Easy brain exercises that can prevent the onset of dementia",
+      "retrievedAt": "2025-01-22 07:06:23.209326",
+      "internal_id": "9005b6710c098eb47fae5a816170d8c5884e0367b8e4435d39ab73792c1c10dc",
+      "publishedAtLabel": "Jan 21"
+    },
+    {
+      "id": 17586,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Telepolis.de",
+      "author": "Christoph Jehle",
+      "title": "H5N1-Virus: Vom Wintergast zum Dauerbewohner in Deutschland",
+      "description": "Die Vogelgrippe H5N1 tritt in Deutschland nicht mehr nur im Winter auf. Seit 2020 hat sich ein neuer Virustyp in Wildv\u00f6geln etabliert. Experten beobachten diese Entwicklung mit Sorge.",
+      "url": "https://www.telepolis.de/features/H5N1-Virus-Vom-Wintergast-zum-Dauerbewohner-in-Deutschland-10248737.html",
+      "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/7/8/3/3/3/0/vogelgrippe-be93a106bcd32909.jpeg",
+      "publishedAt": "2025-01-21 06:00:00",
+      "content": "Die Vogelgrippe H5N1 tritt in Deutschland nicht mehr nur im Winter auf. Seit 2020 hat sich ein neuer Virustyp in Wildv\u00f6geln etabliert. Experten beobachten diese Entwicklung mit Sorge. Bislang ist di\u2026 [+5687 chars]",
+      "retrievedAt": "2025-01-22 07:06:24.315044",
+      "internal_id": "984f6c4c3d90a4cbbf7d1f1e969d1d9422051d61605b958435f53cc7b909a4d9",
+      "publishedAtLabel": "Jan 21"
+    },
+    {
+      "id": 17587,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Telepolis.de",
+      "author": "Christoph Jehle",
+      "title": "Vogelgrippe: Vom Wintergast zum Dauerbewohner in Deutschland",
+      "description": "Der H5N1-Virus tritt in Deutschland nicht mehr nur im Winter auf. Seit 2020 hat sich neuer Virustyp in Wildv\u00f6geln etabliert. Experten beobachten diese Entwicklung mit Sorge.",
+      "url": "https://www.telepolis.de/features/Vogelgrippe-Vom-Wintergast-zum-Dauerbewohner-in-Deutschland-10248737.html",
+      "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/7/8/3/3/3/0/vogelgrippe-3897fb3db2f2ae98.jpeg",
+      "publishedAt": "2025-01-21 06:00:00",
+      "content": "Der H5N1-Virus tritt in Deutschland nicht mehr nur im Winter auf. Seit 2020 hat sich neuer Virustyp in Wildv\u00f6geln etabliert. Experten beobachten diese Entwicklung mit Sorge. Bislang ist die Vogelgri\u2026 [+5677 chars]",
+      "retrievedAt": "2025-01-22 07:06:24.323789",
+      "internal_id": "7c65f8df8cd86678176ff0a06cc66036d392834216617437cd1b3399628c89b2",
+      "publishedAtLabel": "Jan 21"
+    },
+    {
+      "id": 17588,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Telepolis.de",
+      "author": "Christoph Jehle",
+      "title": "Vogelgrippe jetzt ganzj\u00e4hrig in Deutschland aktiv",
+      "description": "Der H5N1-Virus tritt in Deutschland nicht mehr nur im Winter auf. Seit 2020 hat sich neuer Virustyp in Wildv\u00f6geln etabliert. Experten beobachten diese Entwicklung mit Sorge.",
+      "url": "https://www.telepolis.de/features/Vogelgrippe-jetzt-ganzjaehrig-in-Deutschland-aktiv-10248737.html",
+      "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/7/8/3/3/3/0/vogelgrippe-3897fb3db2f2ae98.jpeg",
+      "publishedAt": "2025-01-21 06:00:00",
+      "content": "Der H5N1-Virus tritt in Deutschland nicht mehr nur im Winter auf. Seit 2020 hat sich neuer Virustyp in Wildv\u00f6geln etabliert. Experten beobachten diese Entwicklung mit Sorge. Bislang ist die Vogelgri\u2026 [+5677 chars]",
+      "retrievedAt": "2025-01-22 07:06:24.331186",
+      "internal_id": "96c4d96bb8cdf72e477bbe3c6b4f13af41313cb83700736e28e1e672843773eb",
+      "publishedAtLabel": "Jan 21"
+    },
+    {
+      "id": 17589,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Aljazeera.net",
+      "author": "\u0627\u0644\u062c\u0632\u064a\u0631\u0629 \u0646\u062a",
+      "title": "\"\u062e\u062f\u0639\u062a\u0646\u0627\".. \u062a\u0631\u0627\u0645\u0628 \u064a\u0648\u0642\u0639 \u0623\u0645\u0631\u0627 \u062a\u0646\u0641\u064a\u0630\u064a\u0627 \u0628\u0627\u0644\u0627\u0646\u0633\u062d\u0627\u0628 \u0645\u0646 \u0645\u0646\u0638\u0645\u0629 \u0627\u0644\u0635\u062d\u0629 \u0627\u0644\u0639\u0627\u0644\u0645\u064a\u0629",
+      "description": "\u0642\u0627\u0644 \u0627\u0644\u0631\u0626\u064a\u0633 \u0627\u0644\u0623\u0645\u064a\u0631\u0643\u064a \u062f\u0648\u0646\u0627\u0644\u062f \u062a\u0631\u0627\u0645\u0628 \u0625\u0646 \u0628\u0644\u0627\u062f\u0647 \u0633\u062a\u0646\u0633\u062d\u0628 \u0645\u0646 \u0645\u0646\u0638\u0645\u0629 \u0627\u0644\u0635\u062d\u0629 \u0627\u0644\u0639\u0627\u0644\u0645\u064a\u0629\u060c \u0645\u0636\u064a\u0641\u0627 \u0623\u0646 \u0627\u0644\u0623\u062e\u064a\u0631\u0629 \u0623\u0633\u0627\u0621\u062a \u0627\u0644\u062a\u0639\u0627\u0645\u0644 \u0645\u0639 \"\u0643\u0648\u0641\u064a\u062f-19\" \u0648\u063a\u064a\u0631\u0647\u0627 \u0645\u0646 \u0627\u0644\u0623\u0632\u0645\u0627\u062a \u0627\u0644\u0635\u062d\u064a\u0629 \u0627\u0644\u062f\u0648\u0644\u064a\u0629.",
+      "url": "https://www.aljazeera.net/health/2025/1/21/%d8%ae%d8%af%d8%b9%d8%aa%d9%86%d8%a7-%d8%aa%d8%b1%d8%a7%d9%85%d8%a8-%d9%8a%d9%88%d9%82%d8%b9-%d8%a3%d9%85%d8%b1%d8%a7-%d8%aa%d9%86%d9%81%d9%8a%d8%b0%d9%8a%d8%a7",
+      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2025/01/image-1737390641.jpg?resize=1920%2C1080&quality=80",
+      "publishedAt": "2025-01-21 05:33:38",
+      "content": "\"-19\" . \" \" \" \" . \" . \". 12 . 18% . 2024 2025 6.8 . \" \" . 2020 \" \" . . \" -19 . \" \" . 300% 90%. \" \" . . . . \" 5 1\" (H5N1) . 2021 .",
+      "retrievedAt": "2025-01-22 07:06:24.369783",
+      "internal_id": "1767240076787655f2de6e6f04615557a8bb3a9a03f780541c002c897529ded3",
+      "publishedAtLabel": "Jan 21"
+    },
+    {
+      "id": 17584,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Starweekly.com.au",
+      "author": "jimjin",
+      "title": "Vaccinate against measles before overseas travel",
+      "description": "Victorians are being encouraged to protect themselves and their families from measles by ensuring they are immunised, with outbreaks overseas... The post Vaccinate against measles before overseas travel appeared first on Northern.",
+      "url": "https://northern.starweekly.com.au/news/vaccinate-against-measles-before-overseas-travel/",
+      "urlToImage": "https://northern.starweekly.com.au/wp-content/uploads/sites/5/2025/01/GENmeasles_454911_01.jpg",
+      "publishedAt": "2025-01-21 05:32:13",
+      "content": "Victorians are being encouraged to protect themselves and their families from measles by ensuring they are immunised, with outbreaks overseas posing a particular risk to those travelling to South-Eas\u2026 [+2394 chars]",
+      "retrievedAt": "2025-01-22 07:06:23.700051",
+      "internal_id": "dbc25d4b8156a860a9073e7bb260973f029afe4bd678691c65b74388b74b8878",
+      "publishedAtLabel": "Jan 21"
+    },
+    {
+      "id": 17592,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "svenska-dagbladet",
+      "source_name": "Svenska Dagbladet",
+      "author": "Matilda Lundberg",
+      "title": "Nya vapnet mot malaria och denguefeber: Giftig sperma",
+      "description": "Kan genmodifierade myggor minska spridningen av flera d\u00f6dliga tropiska sjukdomar? Australiensiska forskare tror i alla fall det. Metoden kallas \u201dtoxic male technique\u201d och g\u00e5r ut p\u00e5 att myggorna genmodifieras s\u00e5 att hanarnas spermier utvecklar ett giftigt prot\u2026",
+      "url": "https://www.svd.se/a/73LWyB/giftiga-spermier-kan-stoppa-malaria",
+      "urlToImage": "https://svd.vgc.no/v2/images/7589792a-51aa-44c2-8962-f35b3d21583f?h=630&q=80&upscale=true&w=1200&s=110184077f6d77a4ca6cf09face5d57fa73bc9f9",
+      "publishedAt": "2025-01-21 05:30:00",
+      "content": "Kan genmodifierade myggor minska spridningen av flera d\u00f6dliga tropiska sjukdomar? Australiensiska forskare tror i alla fall det. Metoden kallas toxic male technique och g\u00e5r ut p\u00e5 att myggorna genmodi\u2026 [+1168 chars]",
+      "retrievedAt": "2025-01-22 07:06:25.690120",
+      "internal_id": "2b71f67affc58548f7c1b529f958037170255b1088d429335713db6b073fb02f",
+      "publishedAtLabel": "Jan 21"
+    },
+    {
+      "id": 17591,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Vox",
+      "author": "Celia Ford",
+      "title": "The frustrating reason we\u2019re not saving more kids from malaria",
+      "description": "Malaria kills more than a thousand children every day. Measures like antimalarial medications and insecticide-treated bed nets, which stop infected mosquitoes from transmitting the disease-causing parasite to people while they sleep, have saved millions of li\u2026",
+      "url": "https://www.vox.com/future-perfect/395355/malaria-vaccines-rollout-children-rtss-r21",
+      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/01/gettyimages-2064132565.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C78.523420140621&w=1200",
+      "publishedAt": "2025-01-21 01:49:34",
+      "content": "Malaria kills more than a thousand children every day. Measures like antimalarial medications and insecticide-treated bed nets, which stop infected mosquitoes from transmitting the disease-causing pa\u2026 [+17278 chars]",
+      "retrievedAt": "2025-01-22 07:06:25.682482",
+      "internal_id": "58a2f75550794d57feaa9045a57fb9674c651b5eea1e9d76f59cbb3c125eb88f",
+      "publishedAtLabel": "Jan 21"
+    },
+    {
+      "id": 17593,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Adetunji, A., Addo, B., Abegunde, D., Kalamar, A., Tulsiani, N. J., Sripad, P., Oyedokun-Adegbabo, F., Ankomah, A.",
+      "title": "Improving health outcomes by strengthening public sector capacity in social and behaviour change programming in Nigeria: a qualitative study",
+      "description": "Objective This paper examines the outcomes of the public sector capacity strengthening (PSCS) approach and how they contribute to the promotion of maternal, newborn, and child health, and nutrition (MNCH+N), family planning (FP) and malaria prevention-related\u2026",
+      "url": "https://bmjopen.bmj.com/content/15/1/e089214",
+      "urlToImage": "https://bmjopen.bmj.com/pages/wp-content/uploads/sites/7/2019/07/bmjopen-default-cover.png",
+      "publishedAt": "2025-01-21 01:09:27",
+      "content": "Introduction Social and behaviour change (SBC) interventions are effective in improving and maintaining health outcomes with related approaches leveraged to successfully promote the adoption of heal\u2026 [+12672 chars]",
+      "retrievedAt": "2025-01-22 07:06:25.715921",
+      "internal_id": "d4abaf4f4b8cc5c469165de7dde95b8b97a8ab7fad0e1e0bf991116ef3724e0e",
+      "publishedAtLabel": "Jan 21"
+    },
+    {
+      "id": 17590,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "Fabiola Czubaj",
+      "title": "Confirman que el mosquito transmisor del dengue ampl\u00eda su territorio hacia el sur",
+      "description": "Autoridades sanitarias informan el hallazgo de huevos de Aedes aegypti en Neuqu\u00e9n y R\u00edo Negro; al convertirse en adultos, pueden generar casos aut\u00f3ctonos",
+      "url": "https://www.lanacion.com.ar/sociedad/confirman-que-el-mosquito-transmisor-del-dengue-amplia-su-territorio-hacia-el-sur-nid20012025/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/el-dengue-se-contagia-por-la-picadura-del-VYNUJTEDOFEQNNIQ4SPVPFIUCA.jpg?auth=241260c572bad34eade992656cf41cbdc3bf5b53ec8d7849f230ef7202a9c141&width=1200&quality=70&smart=false&height=795",
+      "publishedAt": "2025-01-21 00:02:26",
+      "content": "En esta temporada de dengue, que estar\u00eda present\u00e1ndose m\u00e1s seca que la del a\u00f1o pasado, los distritos que monitorean la presencia del mosquito transmisor del virus vienen teniendo resultados positivos\u2026 [+8777 chars]",
+      "retrievedAt": "2025-01-22 07:06:24.742207",
+      "internal_id": "3d093a929403246b068d97eede1a41a11f095df7317aad94828a649396e5f9bf",
+      "publishedAtLabel": "Jan 21"
+    },
+    {
+      "id": 17583,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "New Zealand Herald",
+      "author": "Nicky Pellegrino",
+      "title": "\u2018It\u2019s not just measles\u2019: Preventable childhood diseases on the rise",
+      "description": "Falling vaccination rates leave NZ vulnerable to diseases we\u2019ve grown complacent about.",
+      "url": "https://www.nzherald.co.nz/the-listener/health/its-not-just-measles-preventable-childhood-diseases-on-the-rise/I5MWQAGE7FC5XEN6PWNLOXJ35M/",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/NDELPII5ENDQDIJKYZY36AOCN4.jpg?auth=ae279a1248efc11a565063743309e030d7012e48033a4876d8d833344db37b17&width=1200&height=675&quality=70&smart=true",
+      "publishedAt": "2025-01-20 19:50:23",
+      "content": "Public health experts are warning that it seems a case of when rather than if New Zealand will experience a large measles outbreak. Photo / Getty ImagesDiseases that marked the childhoods of older ge\u2026 [+4233 chars]",
+      "retrievedAt": "2025-01-22 07:06:23.691835",
+      "internal_id": "fc3a4737308d8147e3c16875674ffc5f35f68bc796542a5698ca576ae4648694",
+      "publishedAtLabel": "Jan 20"
+    },
     {
       "id": 17578,
       "query": [
@@ -25257,6 +25473,134 @@
       "content": "Mosquitoes are normally associated with spreading malaria rather than preventing it, but in a new study scientists have used the insects to administer a promising new vaccine that could offer much be\u2026 [+2970 chars]",
       "retrievedAt": "2024-12-10 07:07:24.434799",
       "internal_id": "3d0a1b30e715194ad8a3edafdd97b46a472d76882fa7e9df7c2e109e9b5d92f5",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 16172,
+      "query": [
+        "measles",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Newsbreak.com",
+      "author": "Jolana Miller",
+      "title": "Mysterious New Disease X Is Officially Here, Potentially Airborne",
+      "description": "Respiratory pathogens like influenza and COVID-19 are being investigated as possible causes of this new Disease X. According to NPR, so are malaria and measles. The U.S. Centers for Disease Control and Prevention, as well as other countries, are standing by t\u2026",
+      "url": "https://www.newsbreak.com/share/3706705509412-mysterious-new-disease-x-is-officially-here-potentially-airborne?s=a2&amp;share_destination_id=MTg0MzY1NzI5LTE3MzM2NzY0MDE4NzY%3D&amp;pd=0CTZwnpM&amp;hl=en_US&amp;send_time=1733676401&amp;actBtn=feedbackShareButton&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2224.49.0%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_recall_exp_24q4-v3%2Cns_foryou_model_exp_24q4-v9%2Cns_foryou_blend_exp_24q4-v2%2Cns_local_strategy_24q4_exp-v8%2Cns_push_exp_rt_bucketv12-v9%2Cns_foryou_rank_exp_24q4-v5",
+      "urlToImage": "https://img.particlenews.com/img/id/1mgzoz_0xHy97VV00?type=thumbnail_1600x1200",
+      "publishedAt": "2024-12-08 16:47:09",
+      "content": "Convicted Murderer Lyle Menendez, 56, Caught in Secret Prison Affair With 21-Year-Old British Student He Met on Facebook Convicted murderer Lyle Menendez , known for the infamous 1989 deaths of his\u2026 [+539 chars]",
+      "retrievedAt": "2024-12-09 19:05:54.889696",
+      "internal_id": "4b7ce154b96a3012d03811f6f70dd35d784ba63d9f457f60b7fe4a452a2b5d75",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 16175,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Simone Humml",
+      "title": "Wann die Vogelgrippe f\u00fcr Menschen gef\u00e4hrlich wird: Bereits winzige \u00c4nderung w\u00fcrde ausreichen",
+      "description": "Noch ist keine anhaltende \u00dcbertragung des Vogelgrippe-Virus H5N1 von Mensch zu Mensch nachgewiesen worden. Doch schon nach Austausch eines Bausteins kann es leichter an menschliche Zellen andocken.",
+      "url": "https://www.tagesspiegel.de/wissen/wann-die-vogelgrippe-fur-menschen-gefahrlich-wird-bereits-winzige-anderung-wurde-ausreichen-12841436.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/12427472/alternates/BASE_16_9_W1400/1732360301000/file-photo-illustration-shows-test-tube-labelled-bird-flu-words-and-u-s-flag.jpeg",
+      "publishedAt": "2024-12-08 16:23:37",
+      "content": "Eine kleine \u00c4nderung des von Milchk\u00fchen auf Menschen gelangten Vogelgrippe-Virus kann einer Studie zufolge den Grundstein f\u00fcr eine \u00dcbertragung zwischen Menschen legen. Das Virus wurde in diesem Fr\u00fchj\u2026 [+1032 chars]",
+      "retrievedAt": "2024-12-09 19:05:55.574972",
+      "internal_id": "e6b081500f6e75b5b29d0d67e690b53671e0dee5156a473ed0726ab13aeb5bbf",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 16173,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Legalinsurrection.com",
+      "author": "Leslie Eastman",
+      "title": "USDA Orders Testing of Raw and Unpasteurized Milk for Presence of Bird Flu Virus",
+      "description": "Yet, No one has yet been known to become ill with this virus from drinking raw. The post USDA Orders Testing of Raw and Unpasteurized Milk for Presence of Bird Flu Virus first appeared on Le\u00b7gal In\u00b7sur\u00b7rec\u00b7tion.",
+      "url": "https://legalinsurrection.com/2024/12/usda-orders-testing-of-raw-and-unpasteurized-milk-for-presence-of-bird-flu-virus/",
+      "urlToImage": "https://legalinsurrection.com/wp-content/uploads/2017/11/Milk-Cows.jpg",
+      "publishedAt": "2024-12-08 15:00:56",
+      "content": "In our most recent reports on the bird flu, California has become the new epicenter for Highly Pathogenic Avian Influenza (HPAI), as several of the states dairy workers at herds impacted by the path\u2026 [+4448 chars]",
+      "retrievedAt": "2024-12-09 19:05:55.149332",
+      "internal_id": "d79fc4ba7d527630215ed741484893ca7071afba08a5611d8c7f7c3417a4d490",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 16171,
+      "query": [
+        "measles",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Newsbreak.com",
+      "author": "Jolana Miller",
+      "title": "Mysterious New Disease X Is Officially Here, Potentially Airborne",
+      "description": "Respiratory pathogens like influenza and COVID-19 are being investigated as possible causes of this new Disease X. According to NPR, so are malaria and measles. The U.S. Centers for Disease Control and Prevention, as well as other countries, are standing by t\u2026",
+      "url": "https://www.newsbreak.com/share/3706705509412-mysterious-new-disease-x-is-officially-here-potentially-airborne?_f=app_share&amp;pd=0EuIdPvZ&amp;lang=en_US&amp;send_time=1733680315&amp;trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2224.48.0.25%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_local_strategy_24q4_exp-v11%2Cns_push_exp_rt_bucketv12-control%2Cns_foryou_rank_exp_24q4-v4%2Cns_foryou_blend_exp_24q4-v6%2Cns_foryou_model_exp_24q4-v8%2Cns_foryou_recall_exp_24q4-v7&amp;s=i2",
+      "urlToImage": "https://img.particlenews.com/img/id/1mgzoz_0xHy97VV00?type=thumbnail_1600x1200",
+      "publishedAt": "2024-12-08 14:00:34",
+      "content": "Convicted Murderer Lyle Menendez, 56, Caught in Secret Prison Affair With 21-Year-Old British Student He Met on Facebook Convicted murderer Lyle Menendez , known for the infamous 1989 deaths of his\u2026 [+539 chars]",
+      "retrievedAt": "2024-12-09 19:05:54.877052",
+      "internal_id": "677bc505ea9d5f785d6b8fe845d0e95de58d57b9cd4536814a9a6eaaebf6f146",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 16170,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "CP24 Toronto's Breaking News",
+      "author": "Alex Arsenych",
+      "title": "Public Health Ontario report: whooping cough cases highest in 17 years",
+      "description": "The number of whooping cough cases in Ontario this year has reached a level that hasn\u2019t been seen in 17 years.",
+      "url": "https://www.cp24.com/news/2024/12/08/ontario-saw-the-highest-number-of-whooping-cough-cases-in-the-last-17-years-report/",
+      "urlToImage": "https://www.cp24.com/resizer/v2/YR4A4OZHJJRIUH6ENPHBMVOJIM.jpg?smart=true&auth=5be3ada27b20e9bd9c82e3a4dcc2826c5261bc1a689fe92273750fa152100ebb&width=1200&height=630",
+      "publishedAt": "2024-12-08 11:49:42",
+      "content": "The number of whooping cough cases in Ontario this year has reached a level that hasnt been seen in 17 years. In November, Public Health Ontario (PHO) published its findings on pertussis, commonly k\u2026 [+4485 chars]",
+      "retrievedAt": "2024-12-09 19:05:54.451716",
+      "internal_id": "dafa24cba75d671317551db02c0ad79e01594dec8bf53eeb78d869db90e76106",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 16174,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "bild",
+      "source_name": "Bild",
+      "author": "Mara Pallokat",
+      "title": "Forscher schlagen Alarm - Vogelgrippe nur eine Mutation vom Menschen entfernt",
+      "description": "Amerikanische Forscher entdecken, dass eine kleine Ver\u00e4nderung im H5N1-Virus ausreicht, um Menschen einfacher zu infizieren und eine Pandemie auszul\u00f6sen.",
+      "url": "https://www.bild.de/leben-wissen/vogelgrippe-neue-pandemie-durch-schnelle-mutation-moeglich-67555ac036814417822d0009",
+      "urlToImage": "https://images.bild.de/67555ac036814417822d0009/a7cd1a60323df0c1dcbfe3e0e7392a39,bdfcb9c8?w=1280",
+      "publishedAt": "2024-12-08 10:16:07",
+      "content": "Die Vogelgrippe k\u00f6nnte bald schneller auf den Menschen \u00fcberspringen und dabei sogar eine neue Pandemie ausl\u00f6sen! Millionen Tiere hat die in der Fachsprache avi\u00e4re Influenza genannte Infektion get\u00f6te\u2026 [+2222 chars]",
+      "retrievedAt": "2024-12-09 19:05:55.521079",
+      "internal_id": "816ceec5262d95982d6808b42fb35035362e031ef2b322b7f4734f26f6770264",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 16176,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "focus",
+      "source_name": "Focus",
+      "author": "dpa",
+      "title": "Hohe Dunkelziffer - Experten: Schon winzige Ver\u00e4nderung macht Vogelgrippe gef\u00e4hrlich f\u00fcr uns",
+      "description": "Noch ist keine anhaltende \u00dcbertragung des Vogelgrippe-Virus H5N1 von Mensch zu Mensch nachgewiesen worden. Doch schon nach Austausch eines Bausteins kann es leichter an menschliche Zellen andocken. Das zeigt eine neue Studie",
+      "url": "https://www.focus.de/gesundheit/news/experten-schon-winzige-veraenderung-macht-vogelgrippe-gefaehrlich-fuer-uns_id_260544505.html",
+      "urlToImage": "https://p6.focus.de/img/fotos/id_260094435/gettyimages-522933314.jpg?im=Crop%3D%280%2C175%2C2122%2C1061%29%3BResize%3D%281200%2C627%29&impolicy=perceptual&quality=mediumHigh&hash=4f934f15acfc4ce2377e1af3350622319e356b831eddaeaf7e95ef9e1fb624a6",
+      "publishedAt": "2024-12-08 09:02:42",
+      "content": "Noch ist keine anhaltende \u00dcbertragung des Vogelgrippe-Virus H5N1 von Mensch zu Mensch nachgewiesen worden. Doch schon nach Austausch eines Bausteins kann es leichter an menschliche Zellen andocken. D\u2026 [+5309 chars]",
+      "retrievedAt": "2024-12-09 19:05:55.656686",
+      "internal_id": "c2b033a55c391653dbfe8f66d540bcd2796e10de8078c6511eee8c438a028a18",
       "publishedAtLabel": "Dec 8"
     }
   ]
