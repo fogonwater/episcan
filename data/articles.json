@@ -1,8 +1,278 @@
 {
-  "last_updated": "2025-01-23 07:06",
-  "count_articles_total": 1443,
-  "count_articles_new": 5,
+  "last_updated": "2025-01-23 19:06",
+  "count_articles_total": 1451,
+  "count_articles_new": 15,
   "articles": [
+    {
+      "id": 17625,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "AFP",
+      "title": "Africa malaria jab rollout delivers 10 million doses",
+      "description": "Nearly 10 million malaria vaccine doses were delivered to Africa during the first year of routine immunisation being rolled out across the continent, the Gavi vaccine alliance said Wednesday. Following the pilot, routine malaria vaccination was rolled out in \u2026",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/africa-malaria-jab-rollout-delivers-10-million-doses/articleshow/117465086.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-117465212,width-1070,height-580,imgsize-666141,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2025-01-22 18:00:32",
+      "content": "Sonakshi Sinha slays in an all-black look with ultimate elegance",
+      "retrievedAt": "2025-01-23 19:05:59.157594",
+      "internal_id": "1fc7b76070127240aedf54adb46d5d02d1df5d9c4d9b08a5d2c8cd71bf7f5143",
+      "publishedAtLabel": "Jan 22"
+    },
+    {
+      "id": 17632,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Jeune Afrique",
+      "author": "Jeune Afrique",
+      "title": "L\u2019Union africaine se dit \u00ab constern\u00e9e \u00bb par le retrait des \u00c9tats-Unis de l\u2019OMS",
+      "description": "Cette d\u00e9cision de Donald Trump frappe le continent africain de stupeur alors qu\u2019il est en proie \u00e0 plusieurs \u00e9pid\u00e9mies comme le virus de Marburg en Tanzanie et le Mpox en RDC, au Burundi et en Ouganda.",
+      "url": "https://www.jeuneafrique.com/1650937/societe/lunion-africaine-se-dit-consternee-par-le-retrait-des-etats-unis-de-loms/",
+      "urlToImage": "https://prod.cdn-medias.jeuneafrique.com/cdn-cgi/image/q=auto,f=auto,metadata=none,width=1280,height=720,fit=cover/https://prod.cdn-medias.jeuneafrique.com/medias/2025/01/22/afp__20250121__36v89n7__v1__highres__uspresidenttrumpdeliversremarksintherooseveltro-1-min-1.jpg",
+      "publishedAt": "2025-01-22 16:58:56",
+      "content": "Il na pas perdu une seule seconde apr\u00e8s son investiture. Lundi 20 janvier, le pr\u00e9sident am\u00e9ricain Donald Trump a sign\u00e9 un d\u00e9cret qui annonce la sortie des \u00c9tats-Unis de lOrganisation mondiale de la s\u2026 [+2295 chars]",
+      "retrievedAt": "2025-01-23 19:06:00.799751",
+      "internal_id": "36052d3ecd1082a7853c8134f78c5142959f844687eb0680cbaf7fb5d8d1b471",
+      "publishedAtLabel": "Jan 22"
+    },
+    {
+      "id": 17626,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": "Vishnu Som, Debanish Achom",
+      "title": "\"Really Hate Mosquitoes\": At Davos, Adar Poonawalla Explains Vaccine Plans",
+      "description": "Serum Institute of India CEO Adar Poonawalla spoke to NDTV on a range of issues, key among them the vaccine for malaria and other mosquito-borne diseases, on the sidelines of the World Economic Forum (WEF) meeting in Davos.",
+      "url": "https://www.ndtv.com/world-news/i-really-hate-mosquitoes-at-davos-adar-poonawalla-explains-vaccine-plans-for-dengue-chikungunya-malaria-7535671",
+      "urlToImage": "https://c.ndtvimg.com/2025-01/8e59pr_adar-poonawalla-davos_625x300_22_January_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "publishedAt": "2025-01-22 16:57:45",
+      "content": "Davos/New Delhi: With the world having moved away to a large extent from broader concerns on COVID - it is something that is never really going away - it's also time to focus on new vaccines that can\u2026 [+5339 chars]",
+      "retrievedAt": "2025-01-23 19:05:59.164580",
+      "internal_id": "f8aaa815acc305cb41fcb41d94025ccf26f2d594624d3014af2a6f82882db3ea",
+      "publishedAtLabel": "Jan 22"
+    },
+    {
+      "id": 17629,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Thefly.com",
+      "author": null,
+      "title": "Valneva reports Phase 2 results in children for its chikungunya vaccine",
+      "description": "See the rest of the story here. thefly.com provides the latest financial news as it breaks. Known as a leader in market intelligence, The Fly's real-time, streaming news feed keeps individual investors, professional money managers, active traders, and corpor\u2026",
+      "url": "https://thefly.com/permalinks/entry.php/id4055764/VALN-Valneva-reports-Phase--results-in-children-for-its-chikungunya-vaccine",
+      "urlToImage": "https://thefly.com/images/meta/hotstocks.jpg",
+      "publishedAt": "2025-01-22 16:50:43",
+      "content": "Earnings calls, analyst events, roadshows and more",
+      "retrievedAt": "2025-01-23 19:06:00.325222",
+      "internal_id": "85b3449c8676393e376087d4f299ac15090e29cc92758fe3db3b77660e0687a4",
+      "publishedAtLabel": "Jan 22"
+    },
+    {
+      "id": 17627,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "VALNEVA",
+      "title": "Valneva Reports Positive Phase 2 Results in Children for its Chikungunya Vaccine and Announces Phase 3 Dose Decision",
+      "description": "Saint-Herblain (France), January 22, 2025 \u2013 Valneva SE (Nasdaq: VALN; Euronext Paris: VLA) today announced positive results for its Phase 2 clinical trial evaluating the safety and immunogenicity of two different dose levels of its single-shot chikungunya vac\u2026",
+      "url": "https://www.globenewswire.com/news-release/2025/01/22/3013729/0/en/Valneva-Reports-Positive-Phase-2-Results-in-Children-for-its-Chikungunya-Vaccine-and-Announces-Phase-3-Dose-Decision.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/04f398df-96ac-4b7a-8544-2a2ce2495778",
+      "publishedAt": "2025-01-22 16:45:00",
+      "content": "Saint-Herblain (France), January 22, 2025 Valneva SE (Nasdaq: VALN; Euronext Paris: VLA) today announced positive results for its Phase 2 clinical trial evaluating the safety and immunogenicity of tw\u2026 [+12885 chars]",
+      "retrievedAt": "2025-01-23 19:06:00.310221",
+      "internal_id": "8e86279f9577ec8688496ffac1b44efe1b955b2bbed897c2f60b88923cc1063f",
+      "publishedAtLabel": "Jan 22"
+    },
+    {
+      "id": 17628,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "VALNEVA",
+      "title": "Valneva annonce des r\u00e9sultats de Phase 2 positifs chez les enfants pour son vaccin contre le chikungunya ainsi que la dose s\u00e9lectionn\u00e9e pour la Phase 3",
+      "description": "Saint-Herblain (France), le 22 janvier 2025 \u2013 Valneva SE (Nasdaq: VALN; Euronext Paris: VLA), soci\u00e9t\u00e9 sp\u00e9cialis\u00e9e dans les vaccins, a annonc\u00e9 aujourd\u2019hui des r\u00e9sultats positifs pour son \u00e9tude clinique de Phase 2 \u00e9valuant l\u2019innocuit\u00e9 et l\u2019immunog\u00e9nicit\u00e9 de deu\u2026",
+      "url": "https://www.globenewswire.com/news-release/2025/01/22/3013729/0/fr/Valneva-annonce-des-r%C3%A9sultats-de-Phase-2-positifs-chez-les-enfants-pour-son-vaccin-contre-le-chikungunya-ainsi-que-la-dose-s%C3%A9lectionn%C3%A9e-pour-la-Phase-3.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/04f398df-96ac-4b7a-8544-2a2ce2495778",
+      "publishedAt": "2025-01-22 16:45:00",
+      "content": "Saint-Herblain (France), le 22 janvier 2025 Valneva SE (Nasdaq: VALN; Euronext Paris: VLA), soci\u00e9t\u00e9 sp\u00e9cialis\u00e9e dans les vaccins, a annonc\u00e9 aujourdhui des r\u00e9sultats positifs pour son \u00e9tude clinique d\u2026 [+15051 chars]",
+      "retrievedAt": "2025-01-23 19:06:00.317998",
+      "internal_id": "4febd9ec873a1141ea26916d6bab680c9cd0b6b2a2d5e2f2ff8c3d61137648d4",
+      "publishedAtLabel": "Jan 22"
+    },
+    {
+      "id": 17631,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Themorningnews.org",
+      "author": null,
+      "title": "Wednesday headlines: Uncanny projects",
+      "description": "Biden's cabinet had a combined net worth of around $120 million, which is absolutely dwarfed by the $20 billion net worth of Trump's presumptive cabinet. / The Intercept Spencer Ackerman: What starts as temporary, emergency measures tend to become fixed in t\u2026",
+      "url": "https://themorningnews.org/p/wednesday-headlines-uncanny-projects",
+      "urlToImage": "https://themorningnews.org/images/tmn-logo-share.png",
+      "publishedAt": "2025-01-22 16:43:00",
+      "content": "In an unwritten, unannounced policy change, Louisiana's Dept. of Health is forbidding employees from promoting Covid, flu, or mpox vaccines. / NPR Photos of daily life for the Palestinian people\u2014\"be\u2026 [+2219 chars]",
+      "retrievedAt": "2025-01-23 19:06:00.785205",
+      "internal_id": "c27a4fa7ad4a70f938a2d5370c1c49a87d599be54b8ecea3d9c362b96f682b2f",
+      "publishedAtLabel": "Jan 22"
+    },
+    {
+      "id": 17624,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Research and Markets",
+      "title": "India Malaria Rapid Test Kit Analysis Report 2024: Market Projected to Reach $51.24 Million by 2030, Fueled by Improved Performance, Accessibility, and Affordability",
+      "description": "Dublin, Jan. 22, 2025 (GLOBE NEWSWIRE) -- The \"India Malaria Rapid Test Kit Market, By Region, Competition, Forecast & Opportunities, 2020-2030F\" report has been added to ResearchAndMarkets.com's offering. The India Malaria Rapid Test Kit Market is poised for\u2026",
+      "url": "https://www.globenewswire.com/news-release/2025/01/22/3013646/28124/en/India-Malaria-Rapid-Test-Kit-Analysis-Report-2024-Market-Projected-to-Reach-51-24-Million-by-2030-Fueled-by-Improved-Performance-Accessibility-and-Affordability.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "publishedAt": "2025-01-22 15:28:00",
+      "content": "Dublin, Jan. 22, 2025 (GLOBE NEWSWIRE) -- The \"India Malaria Rapid Test Kit Market, By Region, Competition, Forecast &amp; Opportunities, 2020-2030F\" report has been added to ResearchAndMarkets.com's\u2026 [+3844 chars]",
+      "retrievedAt": "2025-01-23 19:05:59.150326",
+      "internal_id": "f9ce50b5814b1c4117652404335eaa48cf404e14a1371f3b169b2cbc22e33865",
+      "publishedAtLabel": "Jan 22"
+    },
+    {
+      "id": 17622,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "info-money",
+      "source_name": "InfoMoney",
+      "author": "Lara Riz\u00e9rio",
+      "title": "Com baixa ades\u00e3o, Minist\u00e9rio pode ampliar faixa et\u00e1ria de vacina\u00e7\u00e3o contra a dengue",
+      "description": "A informa\u00e7\u00e3o foi dada pelo secret\u00e1rio-adjunto de Vigil\u00e2ncia em Sa\u00fade e Ambiente da pasta, Rivaldo Cunha, durante entrevista \u00e0 R\u00e1dio Eldorado The post Com baixa ades\u00e3o, Minist\u00e9rio pode ampliar faixa et\u00e1ria de vacina\u00e7\u00e3o contra a dengue appeared first on InfoMon\u2026",
+      "url": "https://www.infomoney.com.br/brasil/com-baixa-adesao-ministerio-pode-ampliar-faixa-etaria-de-vacinacao-contra-a-dengue/",
+      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2024/10/aedes-mosquito-c-niaid.webp?quality=70",
+      "publishedAt": "2025-01-22 14:02:47",
+      "content": "\u00a9 2000-2025 InfoMoney. Todos os direitos reservados. O InfoMoney preza a qualidade da informa\u00e7\u00e3o e atesta a apura\u00e7\u00e3o de todo o conte\u00fado produzido por sua equipe, ressaltando, no entanto, que n\u00e3o \u2026 [+1218 chars]",
+      "retrievedAt": "2025-01-23 19:05:58.400254",
+      "internal_id": "040f43af11f79a7e6cc4eeedf3aac054f3c79cd113a7804e6f675bcf37d70378",
+      "publishedAtLabel": "Jan 22"
+    },
+    {
+      "id": 17630,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Anadolu Agency",
+      "author": null,
+      "title": "Kongo Demokratik Cumhuriyeti'nde M \u00e7i\u00e7e\u011fi salg\u0131n\u0131nda vaka say\u0131s\u0131 art\u0131yor",
+      "description": "Kongo Demokratik Cumhuriyeti'nde (KDC) M \u00e7i\u00e7e\u011fi (Mpox) salg\u0131n\u0131nda bir haftada 3017 yeni vaka tespit edildi, 26 ki\u015fi salg\u0131n nedeniyle hayat\u0131n\u0131 kaybetti. - Anadolu Ajans\u0131",
+      "url": "https://www.aa.com.tr/tr/dunya/kongo-demokratik-cumhuriyetinde-m-cicegi-salgininda-vaka-sayisi-artiyor/3459362",
+      "urlToImage": "https://cdnuploads.aa.com.tr/uploads/Contents/2025/01/22/thumbs_b_c_3473077989fae8bc7a780dd0c5e9120e.jpg?v=164647",
+      "publishedAt": "2025-01-22 13:44:34",
+      "content": "KDC Salk Bakanlndan yaplan a\u00e7klamada, 8-14 Ocak 2025 tarihleri arasnda \u00fclke genelinde 3017 M \u00e7i\u00e7ei vakasnn kaydedildii ve salgn nedeniyle 26 kiinin yaamn yitirdii bildirildi. A\u00e7klamada, bir \u00f6nceki h\u2026 [+869 chars]",
+      "retrievedAt": "2025-01-23 19:06:00.760203",
+      "internal_id": "2983f818ecc81124db80ab7c00db10c942758d76ebdf87e4f86cfdc22ee35aad",
+      "publishedAtLabel": "Jan 22"
+    },
+    {
+      "id": 17619,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "WSB Atlanta",
+      "author": "Wsbtv.com News Staff",
+      "title": "Bird flu detected at 2nd commercial poultry flock in Georgia",
+      "description": "Georgia officials announced Wednesday that a second commercial poultry flock in the state had been found with a case of Highly Pathogenic Avian Influenza (HPAI).",
+      "url": "https://www.wsbtv.com/news/local/atlanta/bird-flu-detected-2nd-commercial-georgia-poultry-flock/A6EW2F6RXZFRJI2UWYGLESMBCE/",
+      "urlToImage": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FRAJYHV67XZBM3NUJVGMXKWWLEU.jpg?auth=b891fdb2c144cd498980809a6bdff7bd8d2a33e08aa7908b1f8816fa2be0f713&width=1200&height=630&smart=true",
+      "publishedAt": "2025-01-22 13:38:01",
+      "content": "ELBERT COUNTY, Ga. \u2014 Georgia officials announced Wednesday that they have found a second case of Highly Pathogenic Avian Influenza (HPAI), known more commonly as bird flu, in a second commercial poul\u2026 [+2568 chars]",
+      "retrievedAt": "2025-01-23 19:05:57.128690",
+      "internal_id": "00d08f8f0929dc3988d117dfed78afb15eac43d6d28e53cab8c48559ed1fa285",
+      "publishedAtLabel": "Jan 22"
+    },
+    {
+      "id": 17623,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Laura Braga",
+      "title": "Dengue tipo 3: doen\u00e7a volta a ser registrada em Goi\u00e1s ap\u00f3s 17 anos",
+      "description": "De acordo com a SES-GO, foram identificadas tr\u00eas casos em localidades diferentes e todos caminharam para a cura do paciente",
+      "url": "https://www.metropoles.com/brasil/dengue-tipo-3-doenca-voltou-a-ser-registrada-em-goias-apos-17-anos",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/05/20133115/Dengue-compressed-2.jpg",
+      "publishedAt": "2025-01-22 12:56:44",
+      "content": "Goi\u00e2nia \u2013 Casos de dengue do tipo 3 voltaram a ser registrados no estado de Goi\u00e1s, ap\u00f3s 17 anos sem notifica\u00e7\u00f5es da variante da doen\u00e7a. De acordo com informa\u00e7\u00f5es da Secretaria de Sa\u00fade (SES-GO), tr\u00eas\u2026 [+2794 chars]",
+      "retrievedAt": "2025-01-23 19:05:58.434718",
+      "internal_id": "1e7d7018177b6106adbfc0f2fc171f2aa331d599b2fc3c403430f9f1e5edbdb0",
+      "publishedAtLabel": "Jan 22"
+    },
+    {
+      "id": 17620,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Mail.ru",
+      "author": "\u0418\u043d\u0435\u0441\u0441\u0430 \u041a\u0443\u0445\u0430\u0440\u0438\u0448\u0438\u043d\u0430",
+      "title": "\u0412 \u0410\u0422\u041e\u0420 \u043d\u0435 \u043f\u043e\u0434\u0442\u0432\u0435\u0440\u0434\u0438\u043b\u0438 \u0441\u043e\u043e\u0431\u0449\u0435\u043d\u0438\u044f \u043e \u0432\u0441\u043f\u044b\u0448\u043a\u0435 \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0430\u043d\u0438\u0439 \u0442\u0443\u0440\u0438\u0441\u0442\u043e\u0432 \u0432 \u0422\u0430\u0438\u043b\u0430\u043d\u0434\u0435",
+      "description": "\u0422\u0443\u0440\u043e\u043f\u0435\u0440\u0430\u0442\u043e\u0440\u044b \u043d\u0435 \u043f\u043e\u0434\u0442\u0432\u0435\u0440\u0436\u0434\u0430\u044e\u0442 \u0441\u043e\u043e\u0431\u0449\u0435\u043d\u0438\u044f \u043e \u043c\u0430\u0441\u0441\u043e\u0432\u043e\u043c \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0430\u043d\u0438\u0438 \u0440\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0438\u0445 \u0442\u0443\u0440\u0438\u0441\u0442\u043e\u0432 \u0432 \u0422\u0430\u0438\u043b\u0430\u043d\u0434\u0435. \u041e\u0431 \u044d\u0442\u043e\u043c \u0420\u0411\u041a \u0441\u043e\u043e\u0431\u0449\u0438\u043b\u0438 \u0432 \u0410\u0441\u0441\u043e\u0446\u0438\u0430\u0446\u0438\u0438 \u0442\u0443\u0440\u043e\u043f\u0435\u0440\u0430\u0442\u043e\u0440\u043e\u0432 \u0420\u043e\u0441\u0441\u0438\u0438 (\u0410\u0422\u041e\u0420).",
+      "url": "https://news.mail.ru/incident/64546892/",
+      "urlToImage": "https://resizer.mail.ru/p/48e287d5-9084-5a67-a482-e51058bd0bf4/op:15/logo:bottom:news.png/AQAGCttKetG7O2iOORnBmfv-iwVXLPZI9N0BgY2lXG9uAquDaGnV2oUgnCXgMs3M1RjFbIxtdpxkKs3pGtjacJU8-Tk.jpg",
+      "publishedAt": "2025-01-22 12:00:10",
+      "content": "7 H5N1. 65 . 13 2024 60 , \u2014 .",
+      "retrievedAt": "2025-01-23 19:05:57.701062",
+      "internal_id": "3bfea482d2f2cbcaebf5c54cdbb57583f636014016b32d27d01d4d7ce6591d9b",
+      "publishedAtLabel": "Jan 22"
+    },
+    {
+      "id": 17618,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "Sarawak enforces new anti-rabies vaccination order",
+      "description": "KUCHING: A new anti-rabies vaccination order has been enforced in Sarawak as the fight against the disease appears to have no end yet since its outbreak in 2017. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2025/01/22/sarawak-enforces-new-anti-rabies-vaccination-order",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/01/22/3131551.jpg",
+      "publishedAt": "2025-01-22 11:59:00",
+      "content": "KUCHING: A new anti-rabies vaccination order has been enforced in Sarawak as the fight against the disease appears to have no end yet since its outbreak in 2017. Sarawak Food Industry, Commodity and\u2026 [+1892 chars]",
+      "retrievedAt": "2025-01-23 19:05:55.957547",
+      "internal_id": "8b24c881305c3bb0e3eac9819c80973e4818abb47d69459b41d068dfa67656b4",
+      "publishedAtLabel": "Jan 22"
+    },
+    {
+      "id": 17621,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "title": "Arranca en febrero plan nacional contra dengue, anuncia titular de Salud",
+      "description": "El secretario de Salud, David Kershenobich, anunci\u00f3 que a partir de febrero se instrumentar\u00e1 en el pa\u00eds el Plan Nacional contra el Dengue, cuando comenzar\u00e1n a desplegarse las medidas para tratar de contenerlo y que no ocurra, hacia finales de a\u00f1o, un repunte \u2026",
+      "url": "https://www.jornada.com.mx/2025/01/22/politica/012n1pol",
+      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "publishedAt": "2025-01-22 10:37:40",
+      "content": "Peri\u00f3dico La JornadaMi\u00e9rcoles 22 de enero de 2025, p. 12 El secretario de Salud, David Kershenobich, anunci\u00f3 que a partir de febrero se instrumentar\u00e1 en el pa\u00eds el Plan Nacional contra el Dengue, cu\u2026 [+2262 chars]",
+      "retrievedAt": "2025-01-23 19:05:58.382079",
+      "internal_id": "dd43b451adabeb2760f825f880565d91deeb5f6cfc9dc3050097edb66fbeb538",
+      "publishedAtLabel": "Jan 22"
+    },
     {
       "id": 17613,
       "query": [
@@ -25908,134 +26178,6 @@
       "content": "Mosquitoes are normally associated with spreading malaria rather than preventing it, but in a new study scientists have used the insects to administer a promising new vaccine that could offer much be\u2026 [+2970 chars]",
       "retrievedAt": "2024-12-10 07:07:24.434799",
       "internal_id": "3d0a1b30e715194ad8a3edafdd97b46a472d76882fa7e9df7c2e109e9b5d92f5",
-      "publishedAtLabel": "Dec 8"
-    },
-    {
-      "id": 16172,
-      "query": [
-        "measles",
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Newsbreak.com",
-      "author": "Jolana Miller",
-      "title": "Mysterious New Disease X Is Officially Here, Potentially Airborne",
-      "description": "Respiratory pathogens like influenza and COVID-19 are being investigated as possible causes of this new Disease X. According to NPR, so are malaria and measles. The U.S. Centers for Disease Control and Prevention, as well as other countries, are standing by t\u2026",
-      "url": "https://www.newsbreak.com/share/3706705509412-mysterious-new-disease-x-is-officially-here-potentially-airborne?s=a2&amp;share_destination_id=MTg0MzY1NzI5LTE3MzM2NzY0MDE4NzY%3D&amp;pd=0CTZwnpM&amp;hl=en_US&amp;send_time=1733676401&amp;actBtn=feedbackShareButton&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2224.49.0%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_recall_exp_24q4-v3%2Cns_foryou_model_exp_24q4-v9%2Cns_foryou_blend_exp_24q4-v2%2Cns_local_strategy_24q4_exp-v8%2Cns_push_exp_rt_bucketv12-v9%2Cns_foryou_rank_exp_24q4-v5",
-      "urlToImage": "https://img.particlenews.com/img/id/1mgzoz_0xHy97VV00?type=thumbnail_1600x1200",
-      "publishedAt": "2024-12-08 16:47:09",
-      "content": "Convicted Murderer Lyle Menendez, 56, Caught in Secret Prison Affair With 21-Year-Old British Student He Met on Facebook Convicted murderer Lyle Menendez , known for the infamous 1989 deaths of his\u2026 [+539 chars]",
-      "retrievedAt": "2024-12-09 19:05:54.889696",
-      "internal_id": "4b7ce154b96a3012d03811f6f70dd35d784ba63d9f457f60b7fe4a452a2b5d75",
-      "publishedAtLabel": "Dec 8"
-    },
-    {
-      "id": 16175,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "der-tagesspiegel",
-      "source_name": "Der Tagesspiegel",
-      "author": "Simone Humml",
-      "title": "Wann die Vogelgrippe f\u00fcr Menschen gef\u00e4hrlich wird: Bereits winzige \u00c4nderung w\u00fcrde ausreichen",
-      "description": "Noch ist keine anhaltende \u00dcbertragung des Vogelgrippe-Virus H5N1 von Mensch zu Mensch nachgewiesen worden. Doch schon nach Austausch eines Bausteins kann es leichter an menschliche Zellen andocken.",
-      "url": "https://www.tagesspiegel.de/wissen/wann-die-vogelgrippe-fur-menschen-gefahrlich-wird-bereits-winzige-anderung-wurde-ausreichen-12841436.html",
-      "urlToImage": "https://www.tagesspiegel.de/images/12427472/alternates/BASE_16_9_W1400/1732360301000/file-photo-illustration-shows-test-tube-labelled-bird-flu-words-and-u-s-flag.jpeg",
-      "publishedAt": "2024-12-08 16:23:37",
-      "content": "Eine kleine \u00c4nderung des von Milchk\u00fchen auf Menschen gelangten Vogelgrippe-Virus kann einer Studie zufolge den Grundstein f\u00fcr eine \u00dcbertragung zwischen Menschen legen. Das Virus wurde in diesem Fr\u00fchj\u2026 [+1032 chars]",
-      "retrievedAt": "2024-12-09 19:05:55.574972",
-      "internal_id": "e6b081500f6e75b5b29d0d67e690b53671e0dee5156a473ed0726ab13aeb5bbf",
-      "publishedAtLabel": "Dec 8"
-    },
-    {
-      "id": 16173,
-      "query": [
-        "hpai"
-      ],
-      "source_id": null,
-      "source_name": "Legalinsurrection.com",
-      "author": "Leslie Eastman",
-      "title": "USDA Orders Testing of Raw and Unpasteurized Milk for Presence of Bird Flu Virus",
-      "description": "Yet, No one has yet been known to become ill with this virus from drinking raw. The post USDA Orders Testing of Raw and Unpasteurized Milk for Presence of Bird Flu Virus first appeared on Le\u00b7gal In\u00b7sur\u00b7rec\u00b7tion.",
-      "url": "https://legalinsurrection.com/2024/12/usda-orders-testing-of-raw-and-unpasteurized-milk-for-presence-of-bird-flu-virus/",
-      "urlToImage": "https://legalinsurrection.com/wp-content/uploads/2017/11/Milk-Cows.jpg",
-      "publishedAt": "2024-12-08 15:00:56",
-      "content": "In our most recent reports on the bird flu, California has become the new epicenter for Highly Pathogenic Avian Influenza (HPAI), as several of the states dairy workers at herds impacted by the path\u2026 [+4448 chars]",
-      "retrievedAt": "2024-12-09 19:05:55.149332",
-      "internal_id": "d79fc4ba7d527630215ed741484893ca7071afba08a5611d8c7f7c3417a4d490",
-      "publishedAtLabel": "Dec 8"
-    },
-    {
-      "id": 16171,
-      "query": [
-        "measles",
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Newsbreak.com",
-      "author": "Jolana Miller",
-      "title": "Mysterious New Disease X Is Officially Here, Potentially Airborne",
-      "description": "Respiratory pathogens like influenza and COVID-19 are being investigated as possible causes of this new Disease X. According to NPR, so are malaria and measles. The U.S. Centers for Disease Control and Prevention, as well as other countries, are standing by t\u2026",
-      "url": "https://www.newsbreak.com/share/3706705509412-mysterious-new-disease-x-is-officially-here-potentially-airborne?_f=app_share&amp;pd=0EuIdPvZ&amp;lang=en_US&amp;send_time=1733680315&amp;trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2224.48.0.25%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_local_strategy_24q4_exp-v11%2Cns_push_exp_rt_bucketv12-control%2Cns_foryou_rank_exp_24q4-v4%2Cns_foryou_blend_exp_24q4-v6%2Cns_foryou_model_exp_24q4-v8%2Cns_foryou_recall_exp_24q4-v7&amp;s=i2",
-      "urlToImage": "https://img.particlenews.com/img/id/1mgzoz_0xHy97VV00?type=thumbnail_1600x1200",
-      "publishedAt": "2024-12-08 14:00:34",
-      "content": "Convicted Murderer Lyle Menendez, 56, Caught in Secret Prison Affair With 21-Year-Old British Student He Met on Facebook Convicted murderer Lyle Menendez , known for the infamous 1989 deaths of his\u2026 [+539 chars]",
-      "retrievedAt": "2024-12-09 19:05:54.877052",
-      "internal_id": "677bc505ea9d5f785d6b8fe845d0e95de58d57b9cd4536814a9a6eaaebf6f146",
-      "publishedAtLabel": "Dec 8"
-    },
-    {
-      "id": 16170,
-      "query": [
-        "pertussis"
-      ],
-      "source_id": null,
-      "source_name": "CP24 Toronto's Breaking News",
-      "author": "Alex Arsenych",
-      "title": "Public Health Ontario report: whooping cough cases highest in 17 years",
-      "description": "The number of whooping cough cases in Ontario this year has reached a level that hasn\u2019t been seen in 17 years.",
-      "url": "https://www.cp24.com/news/2024/12/08/ontario-saw-the-highest-number-of-whooping-cough-cases-in-the-last-17-years-report/",
-      "urlToImage": "https://www.cp24.com/resizer/v2/YR4A4OZHJJRIUH6ENPHBMVOJIM.jpg?smart=true&auth=5be3ada27b20e9bd9c82e3a4dcc2826c5261bc1a689fe92273750fa152100ebb&width=1200&height=630",
-      "publishedAt": "2024-12-08 11:49:42",
-      "content": "The number of whooping cough cases in Ontario this year has reached a level that hasnt been seen in 17 years. In November, Public Health Ontario (PHO) published its findings on pertussis, commonly k\u2026 [+4485 chars]",
-      "retrievedAt": "2024-12-09 19:05:54.451716",
-      "internal_id": "dafa24cba75d671317551db02c0ad79e01594dec8bf53eeb78d869db90e76106",
-      "publishedAtLabel": "Dec 8"
-    },
-    {
-      "id": 16174,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "bild",
-      "source_name": "Bild",
-      "author": "Mara Pallokat",
-      "title": "Forscher schlagen Alarm - Vogelgrippe nur eine Mutation vom Menschen entfernt",
-      "description": "Amerikanische Forscher entdecken, dass eine kleine Ver\u00e4nderung im H5N1-Virus ausreicht, um Menschen einfacher zu infizieren und eine Pandemie auszul\u00f6sen.",
-      "url": "https://www.bild.de/leben-wissen/vogelgrippe-neue-pandemie-durch-schnelle-mutation-moeglich-67555ac036814417822d0009",
-      "urlToImage": "https://images.bild.de/67555ac036814417822d0009/a7cd1a60323df0c1dcbfe3e0e7392a39,bdfcb9c8?w=1280",
-      "publishedAt": "2024-12-08 10:16:07",
-      "content": "Die Vogelgrippe k\u00f6nnte bald schneller auf den Menschen \u00fcberspringen und dabei sogar eine neue Pandemie ausl\u00f6sen! Millionen Tiere hat die in der Fachsprache avi\u00e4re Influenza genannte Infektion get\u00f6te\u2026 [+2222 chars]",
-      "retrievedAt": "2024-12-09 19:05:55.521079",
-      "internal_id": "816ceec5262d95982d6808b42fb35035362e031ef2b322b7f4734f26f6770264",
-      "publishedAtLabel": "Dec 8"
-    },
-    {
-      "id": 16176,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "focus",
-      "source_name": "Focus",
-      "author": "dpa",
-      "title": "Hohe Dunkelziffer - Experten: Schon winzige Ver\u00e4nderung macht Vogelgrippe gef\u00e4hrlich f\u00fcr uns",
-      "description": "Noch ist keine anhaltende \u00dcbertragung des Vogelgrippe-Virus H5N1 von Mensch zu Mensch nachgewiesen worden. Doch schon nach Austausch eines Bausteins kann es leichter an menschliche Zellen andocken. Das zeigt eine neue Studie",
-      "url": "https://www.focus.de/gesundheit/news/experten-schon-winzige-veraenderung-macht-vogelgrippe-gefaehrlich-fuer-uns_id_260544505.html",
-      "urlToImage": "https://p6.focus.de/img/fotos/id_260094435/gettyimages-522933314.jpg?im=Crop%3D%280%2C175%2C2122%2C1061%29%3BResize%3D%281200%2C627%29&impolicy=perceptual&quality=mediumHigh&hash=4f934f15acfc4ce2377e1af3350622319e356b831eddaeaf7e95ef9e1fb624a6",
-      "publishedAt": "2024-12-08 09:02:42",
-      "content": "Noch ist keine anhaltende \u00dcbertragung des Vogelgrippe-Virus H5N1 von Mensch zu Mensch nachgewiesen worden. Doch schon nach Austausch eines Bausteins kann es leichter an menschliche Zellen andocken. D\u2026 [+5309 chars]",
-      "retrievedAt": "2024-12-09 19:05:55.656686",
-      "internal_id": "c2b033a55c391653dbfe8f66d540bcd2796e10de8078c6511eee8c438a028a18",
       "publishedAtLabel": "Dec 8"
     }
   ]
