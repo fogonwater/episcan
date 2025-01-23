@@ -1,8 +1,100 @@
 {
-  "last_updated": "2025-01-22 19:05",
-  "count_articles_total": 1431,
-  "count_articles_new": 19,
+  "last_updated": "2025-01-23 07:06",
+  "count_articles_total": 1443,
+  "count_articles_new": 5,
   "articles": [
+    {
+      "id": 17613,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "A Pictorial Human Case of \u201cFurious Rabies\u201d",
+      "description": "A. Perciaccante et al.",
+      "url": "https://wwwnc.cdc.gov/eid/article/31/2/ac-3102_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2025-01-22 05:00:00",
+      "content": "Disclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released.Franz (Ferenc) Paczka (185\u2026 [+6093 chars]",
+      "retrievedAt": "2025-01-23 07:06:18.675247",
+      "internal_id": "88c36b581fcc5bddbd2eff1a6e4ad5c811fe0206865859b26654e75fdda76a8e",
+      "publishedAtLabel": "Jan 22"
+    },
+    {
+      "id": 17617,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Excelsior.com.mx",
+      "author": "fernando.davila",
+      "title": "Alistan Plan Nacional Contra el Dengue; de esto trata la iniciativa",
+      "description": "Fernanado D\u00e1vila Esta ma\u00f1ana, en el marco de la conferencia ma\u00f1anera de la presidenta de M\u00e9xico, Claudia Sheinbaum Pardo, el subsecretario de Prevenci\u00f3n y Promoci\u00f3n de la Salud, Ramiro L\u00f3pez Elizalde, present\u00f3 el Plan Anual contra el Dengue, el cual contemp\u2026",
+      "url": "https://www.excelsior.com.mx/nacional/alistan-plan-nacional-contra-dengue/1695558",
+      "urlToImage": "https://www.excelsior.com.mx/media/pictures/2025/01/21/3246272.jpg",
+      "publishedAt": "2025-01-21 21:16:54",
+      "content": "Esta ma\u00f1ana, en el marco de la conferencia ma\u00f1anera de la presidenta de M\u00e9xico, Claudia Sheinbaum Pardo, el subsecretario de Prevenci\u00f3n y Promoci\u00f3n de la Salud, Ramiro L\u00f3pez Elizalde, present\u00f3 el Pla\u2026 [+1131 chars]",
+      "retrievedAt": "2025-01-23 07:06:21.447160",
+      "internal_id": "95d1ab74d56aca7062e2929e7a76608826b2fb8302ec40156ee8df3504c940f7",
+      "publishedAtLabel": "Jan 21"
+    },
+    {
+      "id": 17616,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Excelsior.com.mx",
+      "author": "fernando.davila",
+      "title": "Se reportan 150 casos nuevos de dengue en el pa\u00eds; Jalisco encabeza lista",
+      "description": "Patricia Rodr\u00edguez Calva M\u00e9xico abri\u00f3 el a\u00f1o con 150 casos confirmados de dengue, sin que hasta el momento se hayan reportado defunciones. TE PUEDE INTERESAR: Guerrero cierra el 2024 con casi siete mil casos de dengue y 61 muertes El 71 % de las personas\u2026",
+      "url": "https://www.excelsior.com.mx/nacional/reportan-150-casos-nuevos-dengue-mexico/1695541",
+      "urlToImage": "https://www.excelsior.com.mx/media/pictures/2025/01/21/3246230.jpg",
+      "publishedAt": "2025-01-21 20:31:05",
+      "content": "M\u00e9xico abri\u00f3 el a\u00f1o con 150 casos confirmados de dengue, sin que hasta el momento se hayan reportado defunciones. TE PUEDE INTERESAR: Guerrero cierra el 2024 con casi siete mil casos de dengue y 61 \u2026 [+756 chars]",
+      "retrievedAt": "2025-01-23 07:06:21.440305",
+      "internal_id": "8f3f74fc0f296834bee7659574110bbf6f0db5ac837d28ef28d863c969de7575",
+      "publishedAtLabel": "Jan 21"
+    },
+    {
+      "id": 17615,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Nicholas Shores",
+      "title": "Sa\u00fade refor\u00e7a campanha sobre sintomas de dengue, Zika e chikungunya",
+      "description": "Como as pe\u00e7as de comunica\u00e7\u00e3o do minist\u00e9rio orientam a popula\u00e7\u00e3o a agir em casos suspeitos e no controle de focos do reprodu\u00e7\u00e3o do Aedes aegypti",
+      "url": "https://veja.abril.com.br/coluna/radar/saude-reforca-campanha-sobre-sintomas-de-dengue-zika-e-chikungunya",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2025/01/campanha.jpeg-1.jpg?quality=70&strip=info&crop=1&resize=1080,565",
+      "publishedAt": "2025-01-21 20:01:03",
+      "content": "Oferta Rel\u00e2mpago: 4 revistas pelo pre\u00e7o de uma! Trecho de v\u00eddeo de campanha do Minist\u00e9rio da Sa\u00fade pelo combate a dengue, Zika e chikungunya (Minist\u00e9rio da Sa\u00fade/Divulga\u00e7\u00e3o) Continua ap\u00f3s publicid\u2026 [+1802 chars]",
+      "retrievedAt": "2025-01-23 07:06:21.426918",
+      "internal_id": "129e7c4c1c8e64be6592b5ce088a127724103ccc9b87ba824212a11849b33a50",
+      "publishedAtLabel": "Jan 21"
+    },
+    {
+      "id": 17614,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Luiz Paulo Souza",
+      "title": "Dengue: Minist\u00e9rio da Sa\u00fade distribuir\u00e1 6,5 milh\u00f5es de testes r\u00e1pidos",
+      "description": "Maior parte dos exames come\u00e7a a ser distribu\u00eddo ainda em janeiro; dois milh\u00f5es de unidades ser\u00e3o reservadas como estoque estrat\u00e9gico",
+      "url": "https://veja.abril.com.br/saude/dengue-ministerio-da-saude-distribuira-65-milhoes-de-testes-rapidos",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2025/01/GettyImages-1137035762-e1737486887395.jpg?quality=70&strip=info&crop=1&resize=1080,565",
+      "publishedAt": "2025-01-21 19:17:45",
+      "content": "Oferta Rel\u00e2mpago: 4 revistas pelo pre\u00e7o de uma!TESTE R\u00c1PIDO - Dengue: 6,5 milh\u00f5es de unidades (Pornpak Khunatorn/Getty Images) Continua ap\u00f3s publicidade O Minist\u00e9rio da Sa\u00fade anunciou nesta segunda\u2026 [+3847 chars]",
+      "retrievedAt": "2025-01-23 07:06:21.419137",
+      "internal_id": "34bedd7df35cc8ebc93b93f256852cf1d2ad71440942d1ce4a810399ae924088",
+      "publishedAtLabel": "Jan 21"
+    },
     {
       "id": 17602,
       "query": [
@@ -25816,6 +25908,134 @@
       "content": "Mosquitoes are normally associated with spreading malaria rather than preventing it, but in a new study scientists have used the insects to administer a promising new vaccine that could offer much be\u2026 [+2970 chars]",
       "retrievedAt": "2024-12-10 07:07:24.434799",
       "internal_id": "3d0a1b30e715194ad8a3edafdd97b46a472d76882fa7e9df7c2e109e9b5d92f5",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 16172,
+      "query": [
+        "measles",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Newsbreak.com",
+      "author": "Jolana Miller",
+      "title": "Mysterious New Disease X Is Officially Here, Potentially Airborne",
+      "description": "Respiratory pathogens like influenza and COVID-19 are being investigated as possible causes of this new Disease X. According to NPR, so are malaria and measles. The U.S. Centers for Disease Control and Prevention, as well as other countries, are standing by t\u2026",
+      "url": "https://www.newsbreak.com/share/3706705509412-mysterious-new-disease-x-is-officially-here-potentially-airborne?s=a2&amp;share_destination_id=MTg0MzY1NzI5LTE3MzM2NzY0MDE4NzY%3D&amp;pd=0CTZwnpM&amp;hl=en_US&amp;send_time=1733676401&amp;actBtn=feedbackShareButton&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2224.49.0%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_recall_exp_24q4-v3%2Cns_foryou_model_exp_24q4-v9%2Cns_foryou_blend_exp_24q4-v2%2Cns_local_strategy_24q4_exp-v8%2Cns_push_exp_rt_bucketv12-v9%2Cns_foryou_rank_exp_24q4-v5",
+      "urlToImage": "https://img.particlenews.com/img/id/1mgzoz_0xHy97VV00?type=thumbnail_1600x1200",
+      "publishedAt": "2024-12-08 16:47:09",
+      "content": "Convicted Murderer Lyle Menendez, 56, Caught in Secret Prison Affair With 21-Year-Old British Student He Met on Facebook Convicted murderer Lyle Menendez , known for the infamous 1989 deaths of his\u2026 [+539 chars]",
+      "retrievedAt": "2024-12-09 19:05:54.889696",
+      "internal_id": "4b7ce154b96a3012d03811f6f70dd35d784ba63d9f457f60b7fe4a452a2b5d75",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 16175,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Simone Humml",
+      "title": "Wann die Vogelgrippe f\u00fcr Menschen gef\u00e4hrlich wird: Bereits winzige \u00c4nderung w\u00fcrde ausreichen",
+      "description": "Noch ist keine anhaltende \u00dcbertragung des Vogelgrippe-Virus H5N1 von Mensch zu Mensch nachgewiesen worden. Doch schon nach Austausch eines Bausteins kann es leichter an menschliche Zellen andocken.",
+      "url": "https://www.tagesspiegel.de/wissen/wann-die-vogelgrippe-fur-menschen-gefahrlich-wird-bereits-winzige-anderung-wurde-ausreichen-12841436.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/12427472/alternates/BASE_16_9_W1400/1732360301000/file-photo-illustration-shows-test-tube-labelled-bird-flu-words-and-u-s-flag.jpeg",
+      "publishedAt": "2024-12-08 16:23:37",
+      "content": "Eine kleine \u00c4nderung des von Milchk\u00fchen auf Menschen gelangten Vogelgrippe-Virus kann einer Studie zufolge den Grundstein f\u00fcr eine \u00dcbertragung zwischen Menschen legen. Das Virus wurde in diesem Fr\u00fchj\u2026 [+1032 chars]",
+      "retrievedAt": "2024-12-09 19:05:55.574972",
+      "internal_id": "e6b081500f6e75b5b29d0d67e690b53671e0dee5156a473ed0726ab13aeb5bbf",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 16173,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Legalinsurrection.com",
+      "author": "Leslie Eastman",
+      "title": "USDA Orders Testing of Raw and Unpasteurized Milk for Presence of Bird Flu Virus",
+      "description": "Yet, No one has yet been known to become ill with this virus from drinking raw. The post USDA Orders Testing of Raw and Unpasteurized Milk for Presence of Bird Flu Virus first appeared on Le\u00b7gal In\u00b7sur\u00b7rec\u00b7tion.",
+      "url": "https://legalinsurrection.com/2024/12/usda-orders-testing-of-raw-and-unpasteurized-milk-for-presence-of-bird-flu-virus/",
+      "urlToImage": "https://legalinsurrection.com/wp-content/uploads/2017/11/Milk-Cows.jpg",
+      "publishedAt": "2024-12-08 15:00:56",
+      "content": "In our most recent reports on the bird flu, California has become the new epicenter for Highly Pathogenic Avian Influenza (HPAI), as several of the states dairy workers at herds impacted by the path\u2026 [+4448 chars]",
+      "retrievedAt": "2024-12-09 19:05:55.149332",
+      "internal_id": "d79fc4ba7d527630215ed741484893ca7071afba08a5611d8c7f7c3417a4d490",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 16171,
+      "query": [
+        "measles",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Newsbreak.com",
+      "author": "Jolana Miller",
+      "title": "Mysterious New Disease X Is Officially Here, Potentially Airborne",
+      "description": "Respiratory pathogens like influenza and COVID-19 are being investigated as possible causes of this new Disease X. According to NPR, so are malaria and measles. The U.S. Centers for Disease Control and Prevention, as well as other countries, are standing by t\u2026",
+      "url": "https://www.newsbreak.com/share/3706705509412-mysterious-new-disease-x-is-officially-here-potentially-airborne?_f=app_share&amp;pd=0EuIdPvZ&amp;lang=en_US&amp;send_time=1733680315&amp;trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2224.48.0.25%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_local_strategy_24q4_exp-v11%2Cns_push_exp_rt_bucketv12-control%2Cns_foryou_rank_exp_24q4-v4%2Cns_foryou_blend_exp_24q4-v6%2Cns_foryou_model_exp_24q4-v8%2Cns_foryou_recall_exp_24q4-v7&amp;s=i2",
+      "urlToImage": "https://img.particlenews.com/img/id/1mgzoz_0xHy97VV00?type=thumbnail_1600x1200",
+      "publishedAt": "2024-12-08 14:00:34",
+      "content": "Convicted Murderer Lyle Menendez, 56, Caught in Secret Prison Affair With 21-Year-Old British Student He Met on Facebook Convicted murderer Lyle Menendez , known for the infamous 1989 deaths of his\u2026 [+539 chars]",
+      "retrievedAt": "2024-12-09 19:05:54.877052",
+      "internal_id": "677bc505ea9d5f785d6b8fe845d0e95de58d57b9cd4536814a9a6eaaebf6f146",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 16170,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "CP24 Toronto's Breaking News",
+      "author": "Alex Arsenych",
+      "title": "Public Health Ontario report: whooping cough cases highest in 17 years",
+      "description": "The number of whooping cough cases in Ontario this year has reached a level that hasn\u2019t been seen in 17 years.",
+      "url": "https://www.cp24.com/news/2024/12/08/ontario-saw-the-highest-number-of-whooping-cough-cases-in-the-last-17-years-report/",
+      "urlToImage": "https://www.cp24.com/resizer/v2/YR4A4OZHJJRIUH6ENPHBMVOJIM.jpg?smart=true&auth=5be3ada27b20e9bd9c82e3a4dcc2826c5261bc1a689fe92273750fa152100ebb&width=1200&height=630",
+      "publishedAt": "2024-12-08 11:49:42",
+      "content": "The number of whooping cough cases in Ontario this year has reached a level that hasnt been seen in 17 years. In November, Public Health Ontario (PHO) published its findings on pertussis, commonly k\u2026 [+4485 chars]",
+      "retrievedAt": "2024-12-09 19:05:54.451716",
+      "internal_id": "dafa24cba75d671317551db02c0ad79e01594dec8bf53eeb78d869db90e76106",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 16174,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "bild",
+      "source_name": "Bild",
+      "author": "Mara Pallokat",
+      "title": "Forscher schlagen Alarm - Vogelgrippe nur eine Mutation vom Menschen entfernt",
+      "description": "Amerikanische Forscher entdecken, dass eine kleine Ver\u00e4nderung im H5N1-Virus ausreicht, um Menschen einfacher zu infizieren und eine Pandemie auszul\u00f6sen.",
+      "url": "https://www.bild.de/leben-wissen/vogelgrippe-neue-pandemie-durch-schnelle-mutation-moeglich-67555ac036814417822d0009",
+      "urlToImage": "https://images.bild.de/67555ac036814417822d0009/a7cd1a60323df0c1dcbfe3e0e7392a39,bdfcb9c8?w=1280",
+      "publishedAt": "2024-12-08 10:16:07",
+      "content": "Die Vogelgrippe k\u00f6nnte bald schneller auf den Menschen \u00fcberspringen und dabei sogar eine neue Pandemie ausl\u00f6sen! Millionen Tiere hat die in der Fachsprache avi\u00e4re Influenza genannte Infektion get\u00f6te\u2026 [+2222 chars]",
+      "retrievedAt": "2024-12-09 19:05:55.521079",
+      "internal_id": "816ceec5262d95982d6808b42fb35035362e031ef2b322b7f4734f26f6770264",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 16176,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "focus",
+      "source_name": "Focus",
+      "author": "dpa",
+      "title": "Hohe Dunkelziffer - Experten: Schon winzige Ver\u00e4nderung macht Vogelgrippe gef\u00e4hrlich f\u00fcr uns",
+      "description": "Noch ist keine anhaltende \u00dcbertragung des Vogelgrippe-Virus H5N1 von Mensch zu Mensch nachgewiesen worden. Doch schon nach Austausch eines Bausteins kann es leichter an menschliche Zellen andocken. Das zeigt eine neue Studie",
+      "url": "https://www.focus.de/gesundheit/news/experten-schon-winzige-veraenderung-macht-vogelgrippe-gefaehrlich-fuer-uns_id_260544505.html",
+      "urlToImage": "https://p6.focus.de/img/fotos/id_260094435/gettyimages-522933314.jpg?im=Crop%3D%280%2C175%2C2122%2C1061%29%3BResize%3D%281200%2C627%29&impolicy=perceptual&quality=mediumHigh&hash=4f934f15acfc4ce2377e1af3350622319e356b831eddaeaf7e95ef9e1fb624a6",
+      "publishedAt": "2024-12-08 09:02:42",
+      "content": "Noch ist keine anhaltende \u00dcbertragung des Vogelgrippe-Virus H5N1 von Mensch zu Mensch nachgewiesen worden. Doch schon nach Austausch eines Bausteins kann es leichter an menschliche Zellen andocken. D\u2026 [+5309 chars]",
+      "retrievedAt": "2024-12-09 19:05:55.656686",
+      "internal_id": "c2b033a55c391653dbfe8f66d540bcd2796e10de8078c6511eee8c438a028a18",
       "publishedAtLabel": "Dec 8"
     }
   ]
