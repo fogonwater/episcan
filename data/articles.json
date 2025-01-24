@@ -1,8 +1,549 @@
 {
-  "last_updated": "2025-01-24 07:06",
-  "count_articles_total": 1464,
-  "count_articles_new": 6,
+  "last_updated": "2025-01-24 19:06",
+  "count_articles_total": 1487,
+  "count_articles_new": 30,
   "articles": [
+    {
+      "id": 17642,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Scrippsnews.com",
+      "author": "Scripps News Staff",
+      "title": "New York farm forced to euthanize over 100,000 ducks after bird flu outbreak",
+      "description": "A farm in the Long Island area of New York has been forced to euthanize over 100,000 ducks after a bird flu outbreak.",
+      "url": "https://www.scrippsnews.com/health/bird-flu/new-york-farm-forced-to-euthanize-over-100-000-ducks-after-bird-flu-outbreak",
+      "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/1b07ab1/2147483647/strip/true/crop/1000x525+0+19/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Feb%2F97%2F01caef764591af9db9175c519628%2Fshutterstock-2520461561.jpg",
+      "publishedAt": "2025-01-23 18:44:34",
+      "content": "A farm in New York has been forced to euthanize over 100,000 ducks after a bird flu outbreak. Officials said the highly pathogenic avian influenza (HPAI) was detected at Crescent Duck Farm in Long \u2026 [+710 chars]",
+      "retrievedAt": "2025-01-24 19:05:59.101990",
+      "internal_id": "efd4672a1906d5e068160fff15e5c1eaa9da036b8f30ba30dd11c021f393dbf4",
+      "publishedAtLabel": "Jan 23"
+    },
+    {
+      "id": 17653,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Arijit Barman",
+      "title": "Strategy is to first serve India's vaccine needs and then move on to exports, says Adar Poonawalla",
+      "description": "Serum Institute of India is planning to introduce chikungunya and monkeypox vaccines in about a year and a half and a dengue vaccine in approximately three years. The company is focusing on vaccine development and aims to supply new vaccines globally after me\u2026",
+      "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/strategy-is-to-first-serve-indias-vaccine-needs-and-then-move-on-to-exports-says-adar-poonawalla/articleshow/117496810.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-117497012,width-1200,height-630,imgsize-157200,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-01-23 18:40:41",
+      "content": "Artificial Intelligence(AI) AI and Analytics based Business Strategy By - Tanusree De, Managing Director- Accenture Technology Lead, Trustworthy AI Center of Excellence: ATCI View Program",
+      "retrievedAt": "2025-01-24 19:06:00.082793",
+      "internal_id": "772fce49a986531f09498a32a671cb5740cfd9e399c1c08cc98f9119b6472e41",
+      "publishedAtLabel": "Jan 23"
+    },
+    {
+      "id": 17643,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Scientific American",
+      "author": "Meghan Bartels",
+      "title": "The Latest on Bird Flu in Humans, Cats and Chickens",
+      "description": "H5N1 avian influenza continues to spread amid commercial and backyard poultry, and additional cases have been reported in domestic cats",
+      "url": "https://www.scientificamerican.com/article/the-latest-on-bird-flu-in-humans-cats-and-chickens/",
+      "urlToImage": "https://static.scientificamerican.com/dam/m/eb40217a96e9180/original/Chicken_farm.jpg?m=1737655847.44&w=1200",
+      "publishedAt": "2025-01-23 18:35:00",
+      "content": "As the bird flu outbreak affecting poultry, dairy cows and humans in the U.S. continues to make headlines, here\u2019s what to know about the situation as of January 23. Human Cases The U.S. reported it\u2026 [+3836 chars]",
+      "retrievedAt": "2025-01-24 19:05:59.533888",
+      "internal_id": "14a8cc861661d2cacc6594a667685580b70df09b3902189de6d334cecb121da1",
+      "publishedAtLabel": "Jan 23"
+    },
+    {
+      "id": 17639,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Pahomepage.com",
+      "author": "WBRE",
+      "title": "Bear tests positive for rabies after attack in Jim Thorpe",
+      "description": "JIM THORPE, CARBON COUNTY (WBRE/WYOU) \u2014 The Pennsylvania Game Commission confirms the bear that attacked a man in Jim Thorpe has tested positive for rabies. ...",
+      "url": "https://www.pahomepage.com/news/bear-tests-positive-for-rabies-after-attack-in-jim-thorpe/",
+      "urlToImage": "https://media.zenfs.com/en/wbre_articles_217/c2d52218e9f8d5acfbfbf49b57ab528e",
+      "publishedAt": "2025-01-23 17:58:20",
+      "content": "JIM THORPE, CARBON COUNTY (WBRE/WYOU) The Pennsylvania Game Commission confirms the bear that attacked a man in Jim Thorpe has tested positive for rabies. 28/22 News obtained surveillance video of t\u2026 [+726 chars]",
+      "retrievedAt": "2025-01-24 19:05:58.407174",
+      "internal_id": "47b80e34bb94c0894341d28c7c959c275844a7455e4456f85b031ba2a21e78f2",
+      "publishedAtLabel": "Jan 23"
+    },
+    {
+      "id": 17665,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TNN",
+      "title": "Udupi man, returned from Dubai, tests +ve for Mpox",
+      "description": "Bengaluru: A 40-year-old man from Karkala in Udupi district, who worked in Dubai and returned on Jan 17, tested positive for monkeypox (Mpox) on Wedne.",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/udupi-man-returned-from-dubai-tests-ve-for-mpox/articleshow/117495295.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2025-01-23 17:29:37",
+      "content": "10 most beautiful sea animals",
+      "retrievedAt": "2025-01-24 19:06:01.976529",
+      "internal_id": "4ae67d163dd08dd1b84127c00f961e72e6a765fa305e51908ceb34ed21ebcd3c",
+      "publishedAtLabel": "Jan 23"
+    },
+    {
+      "id": 17663,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "\u0938\u0941\u091c\u0940\u0924 \u0909\u092a\u093e\u0927\u094d\u092f\u093e\u092f",
+      "title": "\u0915\u0930\u094d\u0928\u093e\u091f\u0915 \u092e\u0947\u0902 \u092e\u0902\u0915\u0940\u092a\u0949\u0915\u094d\u0938 \u0915\u0940 \u0926\u0938\u094d\u0924\u0915, \u0938\u093e\u092e\u0928\u0947 \u0906\u092f\u093e \u092a\u0939\u0932\u093e \u0915\u0947\u0938, \u0926\u0941\u092c\u0908 \u0938\u0947 \u0932\u094c\u091f\u093e \u0936\u0916\u094d\u0938 \u092a\u0949\u091c\u093f\u091f\u093f\u0935 \u092a\u093e\u092f\u093e \u0917\u092f\u093e",
+      "description": "Monkeypox in Karnataka News: \u0915\u0930\u094d\u0928\u093e\u091f\u0915 \u0915\u0947 \u0909\u0921\u0941\u092a\u0940 \u091c\u093f\u0932\u0947 \u0915\u0947 40 \u0935\u0930\u094d\u0937\u0940\u092f \u0935\u094d\u092f\u0915\u094d\u0924\u093f \u0915\u094b \u092e\u0902\u0915\u0940\u092a\u0949\u0915\u094d\u0938 \u092a\u093e\u092f\u093e \u0917\u092f\u093e \u0939\u0948\u0964 \u092e\u0930\u0940\u091c \u0926\u0941\u092c\u0908 \u0938\u0947 17 \u091c\u0928\u0935\u0930\u0940 \u0915\u094b \u092e\u0902\u0917\u0932\u094c\u0930 \u0906\u092f\u093e \u0925\u093e \u0914\u0930 \u092c\u0941\u0916\u093e\u0930 \u0914\u0930 \u0926\u093e\u0928\u094b\u0902 \u0915\u0947 \u0932\u0915\u094d\u0937\u0923 \u0926\u093f\u0916\u093e\u0928\u0947 \u092a\u0930 \u0906\u0907\u0938\u094b\u0932\u0947\u0936\u0928 \u092e\u0947\u0902 \u0930\u0916\u093e \u0917\u092f\u093e\u0964 \u0938\u094d\u0935\u093e\u0938\u094d\u0925\u094d\u092f \u0905\u0927\u093f\u0915\u093e\u0930\u0940 \u092e\u0930\u0940\u091c \u0915\u0940 \u0938\u094d\u0925\u093f\u0924\u093f \u0938\u094d\u0925\u093f\u0930 \u0939\u094b\u0928\u0947 \u0915\u0940 \u092a\u0941\u0937\u094d\u091f\u093f \u0915\u0930\u0924\u0947 \u0939\u0948\u0902\u0964\u2026",
+      "url": "https://navbharattimes.indiatimes.com/state/karnataka/bengaluru/karnataka-reports-first-monkeypox-case-this-year-as-40-year-old-man-dubai-returnee-tests-positive/articleshow/117494631.cms",
+      "urlToImage": "https://static.langimg.com/photo/imgsize-59802,msid-117494677/navbharat-times.jpg",
+      "publishedAt": "2025-01-23 17:06:45",
+      "content": ": (Mpox) 40 19 17 BMC (NIV) 20 Mpox Mpox 20 ?(IDSP) Mpox , , , - ?, , , , , CMI , Mpox , PCR , - , ? - , , 20 , !18 , , ..\u2026 [+163 chars]",
+      "retrievedAt": "2025-01-24 19:06:01.955516",
+      "internal_id": "5d0f0c9ff9022e8fa385fda979185b58a6b0ce9bacfdb2c25a1c4469ffed2ed1",
+      "publishedAtLabel": "Jan 23"
+    },
+    {
+      "id": 17664,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "PTI",
+      "title": "Dubai returned man tested positive for MPox in Karnataka",
+      "description": "A 40-year-old man from Karnataka, recently returned from Dubai, tested positive for Monkeypox. Upon arrival on January 17, 2025, he exhibited symptoms and was isolated. The health department assures the public not to panic due to the disease's mild nature and\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/dubai-returned-man-tested-positive-for-mpox-in-karnataka/articleshow/117494188.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-117494192,width-1200,height-630,imgsize-84604,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-01-23 16:24:45",
+      "content": "Artificial Intelligence(AI) AI and Analytics based Business Strategy By - Tanusree De, Managing Director- Accenture Technology Lead, Trustworthy AI Center of Excellence: ATCI View Program",
+      "retrievedAt": "2025-01-24 19:06:01.962854",
+      "internal_id": "1412066b0f5dbb427fd02f18b9cdc39b76905d9f7a276caf84a30fa8158a53dc",
+      "publishedAtLabel": "Jan 23"
+    },
+    {
+      "id": 17656,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "Wirtschaftsprominenz in Mainz: Bill Gates zu Besuch bei Biontech",
+      "description": "Seine Stiftung unterst\u00fctzt die Mainzer bei der Entwicklung von Impfstoffkandidaten gegen Malaria und HIV - davon machte er sich nun ein Bild in Mainz.",
+      "url": "https://www.stern.de/gesellschaft/regional/rheinland-pfalz-saarland/wirtschaftsprominenz-in-mainz--bill-gates-zu-besuch-bei-biontech-35407326.html",
+      "urlToImage": "https://image.stern.de/35407328/t/3N/v1/w1440/r1.7778/-/23--vdm7ax4adrv8axs2048jpeg---a52e4a6e5e3402ee.jpg",
+      "publishedAt": "2025-01-23 16:15:57",
+      "content": "Kopiere den aktuellen Link Seine Stiftung unterst\u00fctzt die Mainzer bei der Entwicklung von Impfstoffkandidaten gegen Malaria und HIV - davon machte er sich nun ein Bild in Mainz. Microsoft-Gr\u00fcnder B\u2026 [+595 chars]",
+      "retrievedAt": "2025-01-24 19:06:00.806577",
+      "internal_id": "49e3ae13a746164a1bdedd9de269f2e32548f8c8880df8b6230375fb5f12d364",
+      "publishedAtLabel": "Jan 23"
+    },
+    {
+      "id": 17650,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Valentina Moreira",
+      "title": "Dengue: vacinas do Butantan s\u00f3 ter\u00e3o distribui\u00e7\u00e3o em massa em 2026",
+      "description": "Produ\u00e7\u00e3o de vacinas contra dengue ainda est\u00e1 em fase inicial. Minist\u00e9rio da Sa\u00fade j\u00e1 manifestou interesse pelo imunizante do Butantan",
+      "url": "https://www.metropoles.com/sao-paulo/dengue-vacinas-do-butantan-so-terao-distribuicao-em-massa-em-2026",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/02/09113205/Vacinacao-dengue-UBS-Asa-4.jpg",
+      "publishedAt": "2025-01-23 15:42:00",
+      "content": "S\u00e3o Paulo Apesar de o Instituto Butantan ter come\u00e7ado a produzir as primeiras doses de seu imunizante contra a dengue, a produ\u00e7\u00e3o das vacinas s\u00f3 dever\u00e1 ganhar escala partir de 2026, segundo o governo\u2026 [+1961 chars]",
+      "retrievedAt": "2025-01-24 19:06:00.013997",
+      "internal_id": "aeaf8cbf008ce91c9c812d97d8f72296508f4d80e655a05cd32ffc873bf0a9b8",
+      "publishedAtLabel": "Jan 23"
+    },
+    {
+      "id": 17648,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Alto Astral",
+      "title": "Aedes aegypti: 5 dicas para prote\u00e7\u00e3o e combate ao mosquito",
+      "description": "Evitar locais com \u00e1gua parada, utilizar inseticidas e instalar telas de prote\u00e7\u00e3o em portas e janelas s\u00e3o medidas contra o Aedes aegypti",
+      "url": "https://www.terra.com.br/vida-e-estilo/aedes-aegypti-5-dicas-para-protecao-e-combate-ao-mosquito,fea3d5f18ccb11e1dda89cb654dc4969csrzq6rf.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/01/23/1738511305-proteger-aedes-aegypti.jpg",
+      "publishedAt": "2025-01-23 15:33:46",
+      "content": "Os casos de dengue no Brasil aumentam todos os anos. De acordo com os dados do Painel de Monitoramento de Arboviroses, em 2024, o Brasil registrou 6,6 milh\u00f5es de casos de dengue e 6 mil mortes causad\u2026 [+1976 chars]",
+      "retrievedAt": "2025-01-24 19:05:59.952466",
+      "internal_id": "c362f19bf344c74e3d8d573db5c097d39f4d773bb20942e4aac66af215218a65",
+      "publishedAtLabel": "Jan 23"
+    },
+    {
+      "id": 17646,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "S\u00fcddeutsche Zeitung",
+      "author": "S\u00fcddeutsche Zeitung",
+      "title": "N\u00fcrnberg: Tiergarten \u00f6ffnet nach Vogelgrippe-Ausbruch wieder",
+      "description": "Der Tiergarten N\u00fcrnberg ist nach mehreren F\u00e4llen von Vogelgrippe wieder f\u00fcr Besucher ge\u00f6ffnet. Begehbare Volieren und Tierh\u00e4user bleiben vorerst geschlossen.",
+      "url": "https://www.sueddeutsche.de/bayern/tiergarten-nuernberg-vogelgrippe-ausbruch-li.3188343",
+      "urlToImage": "https://www.sueddeutsche.de/2025/01/23/533d91e6-09c0-4a8c-8aaa-57c1c3a05e26.jpeg?q=60&fm=webp&width=1200&rect=0%2C156%2C3000%2C1687",
+      "publishedAt": "2025-01-23 14:51:04",
+      "content": "Drei St\u00f6rche und zwei Pelikane waren in der vergangenen Woche in der Au\u00dfenstelle im N\u00fcrnberger Land positiv auf den Vogelgrippe-Virusstamm H5N1 getestet worden wenige Tage nachdem sie vom Tiergarten \u2026 [+431 chars]",
+      "retrievedAt": "2025-01-24 19:05:59.633529",
+      "internal_id": "af2fb092517d0920cb8c6c9776fe64b1d6ff0254f547252b8f0a10c16c4eb6d1",
+      "publishedAtLabel": "Jan 23"
+    },
+    {
+      "id": 17651,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Valentina Moreira",
+      "title": "Tarc\u00edsio anuncia comit\u00ea de emerg\u00eancia para o combate \u00e0 dengue em SP",
+      "description": "Governador de S\u00e3o Paulo anunciou a cria\u00e7\u00e3o de um centro de opera\u00e7\u00f5es de emerg\u00eancias para conter a prolifera\u00e7\u00e3o do Aedes aegypt",
+      "url": "https://www.metropoles.com/sao-paulo/tarcisio-anuncia-comite-de-emergencia-para-o-combate-a-dengue-em-sp",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/12/18131935/tarcisio-de-freitas-sp-1.jpg",
+      "publishedAt": "2025-01-23 14:39:02",
+      "content": "S\u00e3o Paulo O governador de S\u00e3o Paulo, Tarcisio de Freitas (Republicanos), anunciou, na manh\u00e3 desta quinta-feira (23/1), a cria\u00e7\u00e3o do Centro de Opera\u00e7\u00f5es de Emerg\u00eancias (COE) para conter a prolifera\u00e7\u00e3o\u2026 [+1728 chars]",
+      "retrievedAt": "2025-01-24 19:06:00.055790",
+      "internal_id": "f465f16502addd9355d54dacde85d2237c6ec09b0e9e785c474d1bb5be936da3",
+      "publishedAtLabel": "Jan 23"
+    },
+    {
+      "id": 17647,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Marina R. Good, Devika Suja, Jenna J. Guthmiller",
+      "title": "The sweet side of H5N1 influenza virus infection",
+      "description": "",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012847",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1012847.g001&size=inline",
+      "publishedAt": "2025-01-23 14:00:00",
+      "content": "Citation: Good MR, Suja D, Guthmiller JJ (2025) The sweet side of H5N1 influenza virus infection. PLoS Pathog 21(1): e1012847. https://doi.org/10.1371/journal.ppat.1012847 Editor: Andrew Mehle, U\u2026 [+17012 chars]",
+      "retrievedAt": "2025-01-24 19:05:59.641132",
+      "internal_id": "f00258ec0318ad4178bbd5d3a11983ee4de1284ba2b0b55f39dbb6774f290b2d",
+      "publishedAtLabel": "Jan 23"
+    },
+    {
+      "id": 17658,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Xin-zhuan Su, Fangzheng Xu, Rachel V. Stadler, Awet Alem Teklemichael, Jian Wu",
+      "title": "Malaria: Factors affecting disease severity, immune evasion mechanisms, and reversal of immune inhibition to enhance vaccine efficacy",
+      "description": "Malaria is a complex parasitic disease caused by species of Plasmodium parasites. Infection with the parasites can lead to a spectrum of symptoms and disease severity, influenced by various parasite, host, and environmental factors. There have been some succe\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012853",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1012853.g004&size=inline",
+      "publishedAt": "2025-01-23 14:00:00",
+      "content": "Citation: Su X-z, Xu F, Stadler RV, Teklemichael AA, Wu J (2025) Malaria: Factors affecting disease severity, immune evasion mechanisms, and reversal of immune inhibition to enhance vaccine efficacy.\u2026 [+37658 chars]",
+      "retrievedAt": "2025-01-24 19:06:00.845761",
+      "internal_id": "038d551a239c3e6a21ca90beede8f2ac5293dddf8229f18a2a5284aa55060067",
+      "publishedAtLabel": "Jan 23"
+    },
+    {
+      "id": 17659,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Piyawan Kochayoo, Saya Moriyama, Ryutaro Kotaki, Pongsakorn Thawornpan, Chayapat Malee, Chaniya Leepiyasakulchai, Francis Babila Ntumngia, John H. Adams, Yoshimasa Takahashi, Patchanee Chootong",
+      "title": "Atypical memory B cells from natural malaria infection produced broadly neutralizing antibodies against Plasmodium vivax variants",
+      "description": "Author summary The desired outcome of a malaria vaccine is to induce long-term protective immunity. Malaria-specific memory B cells (MBCs) develop during acute infections. However, the durability of these specific MBC responses and whether they are stable or \u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012866",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1012866.g006&size=inline",
+      "publishedAt": "2025-01-23 14:00:00",
+      "content": "Abstract Expansion of atypical memory B cells (aMBCs) was demonstrated in malaria-exposed individuals. To date, the generation of P. vivax-specific aMBCs and their function in protective humoral imm\u2026 [+70211 chars]",
+      "retrievedAt": "2025-01-24 19:06:00.852811",
+      "internal_id": "951627d102ca6835eaf597c880fa248bae61c643004bed3e63aa5f39a55443b7",
+      "publishedAtLabel": "Jan 23"
+    },
+    {
+      "id": 17667,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Tshokey Tshokey, Ablert I. Ko, Bart J. Currie, Claudia Munoz-Zanzi, Cyrille Goarant, Daniel H. Paris, David A. B. Dance, Direk Limmathurotsakul, Emma Birnie, Eric Bertherat, Gyanendra Gongal, Jackie Benschop, Jelmer Savelkoel, John Stenos, Kartika Saraswati, Matthew T. Robinson, Nicholas P. J. Day, Stephen R. Graves, Steven R. Belmain, Stuart D. Blacksell, Willem J. Wiersinga",
+      "title": "Leptospirosis, melioidosis, and rickettsioses in the vicious circle of neglect",
+      "description": "The global priorities in the field of infectious diseases are constantly changing. While emerging viral infections have regularly dominated public health attention, which has only intensified after the COVID-19 pandemic, numerous bacterial diseases have previ\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012796",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012796.t002&size=inline",
+      "publishedAt": "2025-01-23 14:00:00",
+      "content": "Abstract The global priorities in the field of infectious diseases are constantly changing. While emerging viral infections have regularly dominated public health attention, which has only intensifi\u2026 [+12791 chars]",
+      "retrievedAt": "2025-01-24 19:06:02.183295",
+      "internal_id": "eac4659bc6b15c6522f51b612084edca1ac659a1663158f054c5372da1a94b2f",
+      "publishedAtLabel": "Jan 23"
+    },
+    {
+      "id": 17668,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "The PLOS ONE Staff",
+      "title": "Correction: Time series models for prediction of leptospirosis in different climate zones in Sri Lanka",
+      "description": "",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318175",
+      "urlToImage": null,
+      "publishedAt": "2025-01-23 14:00:00",
+      "content": "Citation: The PLOS ONE Staff (2025) Correction: Time series models for prediction of leptospirosis in different climate zones in Sri Lanka. PLoS ONE 20(1): e0318175. https://doi.org/10.1371/journa\u2026 [+317 chars]",
+      "retrievedAt": "2025-01-24 19:06:02.191656",
+      "internal_id": "6d921872944d53782755fa85770b088d05ab97dd42fb1e536a343baff73e1391",
+      "publishedAtLabel": "Jan 23"
+    },
+    {
+      "id": 17660,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Ravenna Alves",
+      "title": "Chikungunya: vacina mant\u00e9m prote\u00e7\u00e3o em 98% dos adolescentes ap\u00f3s 1 ano",
+      "description": "Ensaio cl\u00ednico de fase 3, realizado pelo Instituto Butantan, mostra efic\u00e1cia do imunizante contra chikungunya um an\u00f3s ap\u00f3s a vacina\u00e7\u00e3o",
+      "url": "https://www.metropoles.com/saude/vacina-chikungunya-protecao-apos-1-ano",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/06/11121455/vacina-covid-gripe.jpg",
+      "publishedAt": "2025-01-23 13:59:33",
+      "content": "A vacina contra a chikungunya, desenvolvida pelo Instituto Butantan em parceria com a farmac\u00eautica Valneva, demonstrou ter imunidade duradoura em adolescentes. Os resultados do estudo cl\u00ednico de fase\u2026 [+2111 chars]",
+      "retrievedAt": "2025-01-24 19:06:01.447075",
+      "internal_id": "70e3c40574f5a2ac8f327224ad1891908620f0af0ca68ff8f0436a7d2c412b45",
+      "publishedAtLabel": "Jan 23"
+    },
+    {
+      "id": 17652,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Jo\u00e3o Pedro Lima, Ag\u00eancia Brasil, Jo\u00e3o Pedro Lima, Ag\u00eancia Brasil",
+      "title": "Ap\u00f3s recorde da dengue, n\u00e3o haver\u00e1 vacina\u00e7\u00e3o em massa no Brasil",
+      "description": "O pa\u00eds j\u00e1 registrou mais de 6,5 milh\u00f5es de casos prov\u00e1veis de dengue ao longo de 2024, segundo o Minist\u00e9rio da Sa\u00fade",
+      "url": "https://saude.ig.com.br/2025-01-23/recorde-da-dengue--nao-havera-vacinacao-em-massa.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/er/ip/56/erip565mudm67vygu0hx11rfe.jpg",
+      "publishedAt": "2025-01-23 13:30:32",
+      "content": "A popula\u00e7\u00e3o brasileira n\u00e3o ser\u00e1 vacinada em campanhas de imuniza\u00e7\u00e3o em massa contra a dengue em 2025. De acordo com o governo federal, a fabrica\u00e7\u00e3o da vacina Butantan-DV vai levar um tempo para gan\u2026 [+2938 chars]",
+      "retrievedAt": "2025-01-24 19:06:00.063757",
+      "internal_id": "50025c657c6f9e6e92c7c112bb83de488d78068ead3b72a669544abd959ba86b",
+      "publishedAtLabel": "Jan 23"
+    },
+    {
+      "id": 17661,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "MIT Technology Review",
+      "author": "Jessica Hamzelou",
+      "title": "This is what might happen if the US withdraws from the WHO",
+      "description": "On January 20, his first day in office, US president Donald Trump signed an executive order to withdraw the US from the World Health Organization. \u201cOoh, that\u2019s a big one,\u201d he said as he was handed the document. The US is the biggest donor to the WHO, and the \u2026",
+      "url": "https://www.technologyreview.com/2025/01/23/1110460/us-withdraws-from-the-who/",
+      "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2025/01/AP24245364858476.jpg?resize=1200,600",
+      "publishedAt": "2025-01-23 12:45:17",
+      "content": "McKee thinks that the loss of funding will also impact efforts to eradicate polio, and to control outbreaks of mpox in Democratic Republic of Congo, Uganda and Burundi, which continue to report hundr\u2026 [+2229 chars]",
+      "retrievedAt": "2025-01-24 19:06:01.912003",
+      "internal_id": "04848f6215ccd38d88e5a1d7f3eb89834b933d64e328ec546d19d3ab285565a7",
+      "publishedAtLabel": "Jan 23"
+    },
+    {
+      "id": 17657,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "UN News",
+      "author": "dpicampaigns",
+      "title": "Georgia: Malaria-free certification \u2018a huge milestone worth marking\u2019",
+      "description": "The country of Georgia has been certified malaria-free following a nearly century-long fight to combat the disease, the World Health Organization (WHO) announced on Thursday. Read Full Story on UN News The post Georgia: Malaria-free certification \u2018a huge mil\u2026",
+      "url": "https://news.un.org/en/story/2025/01/1159346",
+      "urlToImage": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/01-10-2024-Unsplash-Tbilisi-Georgia.jpg/image770x420cropped.jpg",
+      "publishedAt": "2025-01-23 12:00:00",
+      "content": "It now joins 45 countries and one territory that have achieved this milestone. Today we congratulate the people of Georgia for their decades of targeted and sustained actions to eliminate malaria, o\u2026 [+2935 chars]",
+      "retrievedAt": "2025-01-24 19:06:00.831991",
+      "internal_id": "f6de6c5660a5f511f1e2b1cde7dad5c989c16f6351c3e9fc60774700005a9ee1",
+      "publishedAtLabel": "Jan 23"
+    },
+    {
+      "id": 17662,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Haberturk.com",
+      "author": "Habert\u00fcrk",
+      "title": "T\u00fcrk ve \u0130ngiliz bilim insanlar\u0131, M \u00e7i\u00e7e\u011fi a\u015f\u0131s\u0131 i\u00e7in \u00e7al\u0131\u015fmalar\u0131n\u0131 h\u0131zland\u0131rd\u0131",
+      "description": "T\u00fcrkiye ve \u0130ngiltere'den bilim insanlar\u0131, Mpox vir\u00fcs\u00fc (Maymun \u00c7i\u00e7e\u011fi) i\u00e7in mRNA teknolojisiyle yeni bir a\u015f\u0131 geli\u015ftirme s\u00fcrecini h\u0131zland\u0131rarak, vir\u00fcs\u00fcn bula\u015fma dinamiklerini ve ba\u011f\u0131\u015f\u0131kl\u0131k sistemine etkilerini ara\u015ft\u0131r\u0131yor. Biruni \u00dcniversitesi ve London Metropol\u2026",
+      "url": "https://www.haberturk.com/turk-ve-ingiliz-bilim-insanlari-maymun-cicegi-asisi-icin-calismalarini-hizlandirdi-3758847",
+      "urlToImage": "https://im.haberturk.com/l/2025/01/23/ver1737631841/3758847/jpg/1200x628",
+      "publishedAt": "2025-01-23 11:46:43",
+      "content": "D\u00fcnya genelinde zoonotik hastalklar arasnda giderek daha fazla dikkat \u00e7eken Mpox vir\u00fcs\u00fc (MPXV), pandemik potansiyeliyle bilim camiasnda \u00f6nemli bir aratrma konusu haline geldi. T\u00fcrkiye ve ngiltereden \u2026 [+3865 chars]",
+      "retrievedAt": "2025-01-24 19:06:01.919842",
+      "internal_id": "66f85cce81184d28add54b03be19789ad5f15e2401f6c8516fa95ebbced83a44",
+      "publishedAtLabel": "Jan 23"
+    },
+    {
+      "id": 17649,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "info-money",
+      "source_name": "InfoMoney",
+      "author": "Lara Riz\u00e9rio",
+      "title": "Butantan come\u00e7a a produzir sua vacina contra a dengue",
+      "description": "Fabrica\u00e7\u00e3o ocorre cerca de um m\u00eas depois de o Butantan enviar \u00e0 Anvisa a \u00faltima leva de documentos necess\u00e1rios para o pedido do registro do imunizante The post Butantan come\u00e7a a produzir sua vacina contra a dengue appeared first on InfoMoney.",
+      "url": "https://www.infomoney.com.br/saude/butantan-comeca-a-produzir-sua-vacina-contra-a-dengue/",
+      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2024/10/aedes-mosquito-c-niaid.webp?quality=70",
+      "publishedAt": "2025-01-23 11:01:03",
+      "content": "O Instituto Butantan deu in\u00edcio \u00e0 produ\u00e7\u00e3o de sua vacina contra a dengue, a Butantan-DV. Segundo a institui\u00e7\u00e3o, a expectativa \u00e9 fabricar 1 milh\u00e3o de doses em 2025 e mais 100 milh\u00f5es nos pr\u00f3ximos tr\u00eas\u2026 [+2293 chars]",
+      "retrievedAt": "2025-01-24 19:05:59.995435",
+      "internal_id": "fe0b66f10c954beb6bfe24f442997ef1e0c766e1dde3f6d138a1added295a4b2",
+      "publishedAtLabel": "Jan 23"
+    },
+    {
+      "id": 17641,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Computerworld.dk",
+      "author": "Dan Jensen",
+      "title": "SAP-topchef: Donald Trumps gigantiske AI-projekt b\u00f8r v\u00e6re \u2018wake up call\u2019 for Europa",
+      "description": "USA\u2019s plan om at bygge AI-infrastruktur en 500 milliarder dollar sammen med f\u00f8rende it-virksomheder b\u00f8r v\u00e6re et wakeup-call for EU, mener SAP-direkt\u00f8r Christian Klein.",
+      "url": "https://www.computerworld.dk/art/290195/sap-topchef-donald-trumps-gigantiske-ai-projekt-boer-vaere-wake-up-call-for-europa",
+      "urlToImage": "https://www.computerworld.dk/fil/218074?width=600&height=315&focus=1",
+      "publishedAt": "2025-01-23 10:48:00",
+      "content": "USAs plan om at bygge AI-infrastruktur en 500 milliarder dollar sammen med f\u00f8rende it-virksomheder b\u00f8r v\u00e6re et wakeup-call for EU, mener SAP-direkt\u00f8r Christian Klein.Annonceindl\u00e6g fra HPAI-ekspert Ro\u2026 [+1237 chars]",
+      "retrievedAt": "2025-01-24 19:05:59.064585",
+      "internal_id": "0398dd74240b8ed9340c2555489fa9f4eff9c668cfd8c27bc15fe592b4d490df",
+      "publishedAtLabel": "Jan 23"
+    },
+    {
+      "id": 17666,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Kenyans.co.ke",
+      "author": "Christine Opanda",
+      "title": "Truck Drivers Makes Demands to Health CS Over Mpox",
+      "description": "The Ministry of Health has strengthened surveillance, training, and lab capacity to address the outbreak.",
+      "url": "https://www.kenyans.co.ke/news/108312-truck-drivers-makes-demands-health-cs-over-mpox",
+      "urlToImage": "https://www.kenyans.co.ke/files/styles/article_style/public/images/media/trucks%20stuck%20at%20a%20border%20post%20in%20kenya.jpg?itok=i1GcvXlP",
+      "publishedAt": "2025-01-23 10:44:21",
+      "content": "Long-distant drivers have issued demands to the Ministry of Health following the increased cases of the Mpox disease in the country. Speaking during the conference on the update of the disease in th\u2026 [+2565 chars]",
+      "retrievedAt": "2025-01-24 19:06:01.990317",
+      "internal_id": "fe8afa2edf1a1abb38c88d107a119b96a748a94743399e66d67668393608c56a",
+      "publishedAtLabel": "Jan 23"
+    },
+    {
+      "id": 17645,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Aljazeera.net",
+      "author": "\u0627\u0644\u062c\u0632\u064a\u0631\u0629 \u0646\u062a",
+      "title": "\u0625\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u0637\u064a\u0648\u0631.. \u062a\u0637\u0639\u064a\u0645 \u0627\u0644\u062f\u0648\u0627\u062c\u0646 \u0642\u062f \u064a\u0633\u0627\u0639\u062f \u0627\u0644\u0641\u064a\u0631\u0648\u0633 \u0639\u0644\u0649 \u0627\u0644\u062a\u0637\u0648\u0631",
+      "description": "\u062d\u0630\u0631\u062a \u062f\u0631\u0627\u0633\u0629 \u062c\u062f\u064a\u062f\u0629 \u0645\u0646 \u0623\u0646 \u062a\u0637\u0639\u064a\u0645 \u0627\u0644\u062f\u0648\u0627\u062c\u0646 \u0636\u062f \u0625\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u0637\u064a\u0648\u0631 \u064a\u0642\u0644\u0644 \u0627\u0646\u062a\u0634\u0627\u0631 \u0627\u0644\u0645\u0631\u0636\u060c \u0644\u0643\u0646\u0647 \u0642\u062f \u064a\u062d\u0645\u0644 \u0639\u0648\u0627\u0642\u0628 \u063a\u064a\u0631 \u0645\u0642\u0635\u0648\u062f\u0629.",
+      "url": "https://www.aljazeera.net/health/2025/1/23/%d8%a5%d9%86%d9%81%d9%84%d9%88%d9%86%d8%b2%d8%a7-%d8%a7%d9%84%d8%b7%d9%8a%d9%88%d8%b1-%d8%aa%d8%b7%d8%b9%d9%8a%d9%85-%d8%a7%d9%84%d8%af%d9%88%d8%a7%d8%ac%d9%86-%d9%82%d8%af",
+      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2025/01/Avian-influenza1-1737631449.jpg?resize=1920%2C1440",
+      "publishedAt": "2025-01-23 10:41:05",
+      "content": "5 (H5) . - - (Science Advances) 22 / . 5 . 5 1 (H5N1) . 5 1 5 . 5 .",
+      "retrievedAt": "2025-01-24 19:05:59.607782",
+      "internal_id": "a238242d4f3d6c0bdecc9e28426efd231195c5aa528658c591c0b4d4913ce79d",
+      "publishedAtLabel": "Jan 23"
+    },
+    {
+      "id": 17644,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Kommersant.ru",
+      "author": "\u041a\u043e\u043c\u043c\u0435\u0440\u0441\u0430\u043d\u0442\u044a",
+      "title": "WSJ: \u0422\u0440\u0430\u043c\u043f \u043c\u043e\u0436\u0435\u0442 \u043f\u0440\u0438\u043e\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c \u0444\u0438\u043d\u0430\u043d\u0441\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c \u0434\u043b\u044f \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u044f \u0432\u0438\u0440\u0443\u0441\u043e\u0432",
+      "description": "\u0410\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044f \u043f\u0440\u0435\u0437\u0438\u0434\u0435\u043d\u0442\u0430 \u0421\u0428\u0410 \u0414\u043e\u043d\u0430\u043b\u044c\u0434\u0430 \u0422\u0440\u0430\u043c\u043f\u0430 \u0433\u043e\u0442\u043e\u0432\u0438\u0442 \u0443\u043a\u0430\u0437, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0432\u0440\u0435\u043c\u0435\u043d\u043d\u043e \u043f\u0440\u0435\u043a\u0440\u0430\u0442\u0438\u0442 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u043e\u0435 \u0444\u0438\u043d\u0430\u043d\u0441\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u0439 \u0432\u0438\u0440\u0443\u0441\u043e\u0432, \u0434\u0435\u043b\u0430\u044e\u0449\u0438\u0445 \u043f\u0430\u0442\u043e\u0433\u0435\u043d\u044b \u0431\u043e\u043b\u0435\u0435 \u043e\u043f\u0430\u0441\u043d\u044b\u043c\u0438 \u0438\u043b\u0438 \u0437\u0430\u0440\u0430\u0437\u043d\u044b\u043c\u0438, \u043f\u0438\u0448\u0435\u0442 The Wall Street Journal \u0441\u043e \u0441\u0441\u044b\u043b\u043a\u043e\u0439 \u043d\u0430 \u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a\u0438. \u041f\u043e \u0441\u043b\u043e\u0432\u0430\u043c \u0441\u043e\u0431\u0435\u0441\u0435\u0434\u043d\u0438\u043a\u043e\u2026",
+      "url": "https://www.kommersant.ru/doc/7446209",
+      "urlToImage": "https://iy.kommersant.ru/SocialPics/7446209_49_0_1773418952",
+      "publishedAt": "2025-01-23 08:41:18",
+      "content": ", , , The Wall Street Journal . , , , . , , H5N1, . , . WSJ, COVID-19. . WSJ , , . , , . \u00ab\u00bb.",
+      "retrievedAt": "2025-01-24 19:05:59.566562",
+      "internal_id": "34def4ec748714fd5b945b4928bbef25bf331bf89dc2ed5cabbeb8b1841cf1df",
+      "publishedAtLabel": "Jan 23"
+    },
+    {
+      "id": 17654,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "BusinessLine",
+      "author": "Vinson Kurian",
+      "title": "Rising temperatures, fluctuating monsoon rainfall driving up dengue-related deaths, says study",
+      "description": "Study predicts rising dengue deaths in India due to climate change, with AI/ML model for early outbreak predictions.",
+      "url": "https://www.thehindubusinessline.com/news/national/rising-temperatures-fluctuating-monsoon-rainfall-driving-up-dengue-related-deaths-says-study/article69130896.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/mx73qv/article69130889.ece/alternates/LANDSCAPE_1200/IITM%20researchers.jpg",
+      "publishedAt": "2025-01-23 07:35:00",
+      "content": "Rising temperatures and fluctuating monsoon rainfall could increase dengue-related deaths 13 per cent in India by 2030, and 2340 per cent by 2050, according to a study led by Sophia Yacob and Roxy Ma\u2026 [+2479 chars]",
+      "retrievedAt": "2025-01-24 19:06:00.089854",
+      "internal_id": "2ad3910be6483a18aebef026bda034e8771821d06bb9111c352c109a6a3e6c0e",
+      "publishedAtLabel": "Jan 23"
+    },
+    {
+      "id": 17640,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Setopati.com",
+      "author": "Mrityunjay Kumar, Kanchan Bhardwaj & Mirza Sarwar Baig :: Setopati",
+      "title": "HMPV is a silent threat to respiratory health",
+      "description": "Despite being discovered over 20 years ago, HMPV remains less widely recognized compared to other, more severe viruses within the same family. Other members of this family include respiratory syncytial virus (RSV) and measles.",
+      "url": " https://en.setopati.com/International/164219 ",
+      "urlToImage": "https://en.setopati.com/uploads/posts/hmpv-1737617511.jpg",
+      "publishedAt": "2025-01-23 07:33:50",
+      "content": "Over the last few weeks, the Human Metapneumovirus or HMPV has emerged as a significant public health issue. The flu-like viral illness escalated in China in recent months, predominantly affecting ch\u2026 [+7258 chars]",
+      "retrievedAt": "2025-01-24 19:05:58.824378",
+      "internal_id": "a482f2e84c05a3f4a83bf04ef8a48680c633d06749a5a8194bb32f8789b75a1a",
+      "publishedAtLabel": "Jan 23"
+    },
+    {
+      "id": 17655,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "DW (English)",
+      "author": "Fred Schwaller",
+      "title": "New antibodies could help win the fight against malaria",
+      "description": "Scientists have discovered a new type of anti-malarial antibody that doesn't interfere with current vaccines, at least in mouse models. Could they help eliminate malaria in the future?",
+      "url": "https://www.dw.com/en/new-antibodies-could-help-win-the-fight-against-malaria/a-71372289",
+      "urlToImage": "https://static.dw.com/image/70326755_6.jpg",
+      "publishedAt": "2025-01-23 07:30:00",
+      "content": "Researchers have found a new class of antibodies to treat malaria, paving the way for new malarial prevention strategies. The discovery comes at a time when malaria is still a significant global heal\u2026 [+4957 chars]",
+      "retrievedAt": "2025-01-24 19:06:00.791788",
+      "internal_id": "ee1346dd571f8a9ef42e7fbd4b1935e6654b850f0698232b19abb189aca838f4",
+      "publishedAtLabel": "Jan 23"
+    },
     {
       "id": 17633,
       "query": [
@@ -26286,134 +26827,6 @@
       "content": "Mosquitoes are normally associated with spreading malaria rather than preventing it, but in a new study scientists have used the insects to administer a promising new vaccine that could offer much be\u2026 [+2970 chars]",
       "retrievedAt": "2024-12-10 07:07:24.434799",
       "internal_id": "3d0a1b30e715194ad8a3edafdd97b46a472d76882fa7e9df7c2e109e9b5d92f5",
-      "publishedAtLabel": "Dec 8"
-    },
-    {
-      "id": 16172,
-      "query": [
-        "measles",
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Newsbreak.com",
-      "author": "Jolana Miller",
-      "title": "Mysterious New Disease X Is Officially Here, Potentially Airborne",
-      "description": "Respiratory pathogens like influenza and COVID-19 are being investigated as possible causes of this new Disease X. According to NPR, so are malaria and measles. The U.S. Centers for Disease Control and Prevention, as well as other countries, are standing by t\u2026",
-      "url": "https://www.newsbreak.com/share/3706705509412-mysterious-new-disease-x-is-officially-here-potentially-airborne?s=a2&amp;share_destination_id=MTg0MzY1NzI5LTE3MzM2NzY0MDE4NzY%3D&amp;pd=0CTZwnpM&amp;hl=en_US&amp;send_time=1733676401&amp;actBtn=feedbackShareButton&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2224.49.0%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_recall_exp_24q4-v3%2Cns_foryou_model_exp_24q4-v9%2Cns_foryou_blend_exp_24q4-v2%2Cns_local_strategy_24q4_exp-v8%2Cns_push_exp_rt_bucketv12-v9%2Cns_foryou_rank_exp_24q4-v5",
-      "urlToImage": "https://img.particlenews.com/img/id/1mgzoz_0xHy97VV00?type=thumbnail_1600x1200",
-      "publishedAt": "2024-12-08 16:47:09",
-      "content": "Convicted Murderer Lyle Menendez, 56, Caught in Secret Prison Affair With 21-Year-Old British Student He Met on Facebook Convicted murderer Lyle Menendez , known for the infamous 1989 deaths of his\u2026 [+539 chars]",
-      "retrievedAt": "2024-12-09 19:05:54.889696",
-      "internal_id": "4b7ce154b96a3012d03811f6f70dd35d784ba63d9f457f60b7fe4a452a2b5d75",
-      "publishedAtLabel": "Dec 8"
-    },
-    {
-      "id": 16175,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "der-tagesspiegel",
-      "source_name": "Der Tagesspiegel",
-      "author": "Simone Humml",
-      "title": "Wann die Vogelgrippe f\u00fcr Menschen gef\u00e4hrlich wird: Bereits winzige \u00c4nderung w\u00fcrde ausreichen",
-      "description": "Noch ist keine anhaltende \u00dcbertragung des Vogelgrippe-Virus H5N1 von Mensch zu Mensch nachgewiesen worden. Doch schon nach Austausch eines Bausteins kann es leichter an menschliche Zellen andocken.",
-      "url": "https://www.tagesspiegel.de/wissen/wann-die-vogelgrippe-fur-menschen-gefahrlich-wird-bereits-winzige-anderung-wurde-ausreichen-12841436.html",
-      "urlToImage": "https://www.tagesspiegel.de/images/12427472/alternates/BASE_16_9_W1400/1732360301000/file-photo-illustration-shows-test-tube-labelled-bird-flu-words-and-u-s-flag.jpeg",
-      "publishedAt": "2024-12-08 16:23:37",
-      "content": "Eine kleine \u00c4nderung des von Milchk\u00fchen auf Menschen gelangten Vogelgrippe-Virus kann einer Studie zufolge den Grundstein f\u00fcr eine \u00dcbertragung zwischen Menschen legen. Das Virus wurde in diesem Fr\u00fchj\u2026 [+1032 chars]",
-      "retrievedAt": "2024-12-09 19:05:55.574972",
-      "internal_id": "e6b081500f6e75b5b29d0d67e690b53671e0dee5156a473ed0726ab13aeb5bbf",
-      "publishedAtLabel": "Dec 8"
-    },
-    {
-      "id": 16173,
-      "query": [
-        "hpai"
-      ],
-      "source_id": null,
-      "source_name": "Legalinsurrection.com",
-      "author": "Leslie Eastman",
-      "title": "USDA Orders Testing of Raw and Unpasteurized Milk for Presence of Bird Flu Virus",
-      "description": "Yet, No one has yet been known to become ill with this virus from drinking raw. The post USDA Orders Testing of Raw and Unpasteurized Milk for Presence of Bird Flu Virus first appeared on Le\u00b7gal In\u00b7sur\u00b7rec\u00b7tion.",
-      "url": "https://legalinsurrection.com/2024/12/usda-orders-testing-of-raw-and-unpasteurized-milk-for-presence-of-bird-flu-virus/",
-      "urlToImage": "https://legalinsurrection.com/wp-content/uploads/2017/11/Milk-Cows.jpg",
-      "publishedAt": "2024-12-08 15:00:56",
-      "content": "In our most recent reports on the bird flu, California has become the new epicenter for Highly Pathogenic Avian Influenza (HPAI), as several of the states dairy workers at herds impacted by the path\u2026 [+4448 chars]",
-      "retrievedAt": "2024-12-09 19:05:55.149332",
-      "internal_id": "d79fc4ba7d527630215ed741484893ca7071afba08a5611d8c7f7c3417a4d490",
-      "publishedAtLabel": "Dec 8"
-    },
-    {
-      "id": 16171,
-      "query": [
-        "measles",
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Newsbreak.com",
-      "author": "Jolana Miller",
-      "title": "Mysterious New Disease X Is Officially Here, Potentially Airborne",
-      "description": "Respiratory pathogens like influenza and COVID-19 are being investigated as possible causes of this new Disease X. According to NPR, so are malaria and measles. The U.S. Centers for Disease Control and Prevention, as well as other countries, are standing by t\u2026",
-      "url": "https://www.newsbreak.com/share/3706705509412-mysterious-new-disease-x-is-officially-here-potentially-airborne?_f=app_share&amp;pd=0EuIdPvZ&amp;lang=en_US&amp;send_time=1733680315&amp;trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2224.48.0.25%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_local_strategy_24q4_exp-v11%2Cns_push_exp_rt_bucketv12-control%2Cns_foryou_rank_exp_24q4-v4%2Cns_foryou_blend_exp_24q4-v6%2Cns_foryou_model_exp_24q4-v8%2Cns_foryou_recall_exp_24q4-v7&amp;s=i2",
-      "urlToImage": "https://img.particlenews.com/img/id/1mgzoz_0xHy97VV00?type=thumbnail_1600x1200",
-      "publishedAt": "2024-12-08 14:00:34",
-      "content": "Convicted Murderer Lyle Menendez, 56, Caught in Secret Prison Affair With 21-Year-Old British Student He Met on Facebook Convicted murderer Lyle Menendez , known for the infamous 1989 deaths of his\u2026 [+539 chars]",
-      "retrievedAt": "2024-12-09 19:05:54.877052",
-      "internal_id": "677bc505ea9d5f785d6b8fe845d0e95de58d57b9cd4536814a9a6eaaebf6f146",
-      "publishedAtLabel": "Dec 8"
-    },
-    {
-      "id": 16170,
-      "query": [
-        "pertussis"
-      ],
-      "source_id": null,
-      "source_name": "CP24 Toronto's Breaking News",
-      "author": "Alex Arsenych",
-      "title": "Public Health Ontario report: whooping cough cases highest in 17 years",
-      "description": "The number of whooping cough cases in Ontario this year has reached a level that hasn\u2019t been seen in 17 years.",
-      "url": "https://www.cp24.com/news/2024/12/08/ontario-saw-the-highest-number-of-whooping-cough-cases-in-the-last-17-years-report/",
-      "urlToImage": "https://www.cp24.com/resizer/v2/YR4A4OZHJJRIUH6ENPHBMVOJIM.jpg?smart=true&auth=5be3ada27b20e9bd9c82e3a4dcc2826c5261bc1a689fe92273750fa152100ebb&width=1200&height=630",
-      "publishedAt": "2024-12-08 11:49:42",
-      "content": "The number of whooping cough cases in Ontario this year has reached a level that hasnt been seen in 17 years. In November, Public Health Ontario (PHO) published its findings on pertussis, commonly k\u2026 [+4485 chars]",
-      "retrievedAt": "2024-12-09 19:05:54.451716",
-      "internal_id": "dafa24cba75d671317551db02c0ad79e01594dec8bf53eeb78d869db90e76106",
-      "publishedAtLabel": "Dec 8"
-    },
-    {
-      "id": 16174,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "bild",
-      "source_name": "Bild",
-      "author": "Mara Pallokat",
-      "title": "Forscher schlagen Alarm - Vogelgrippe nur eine Mutation vom Menschen entfernt",
-      "description": "Amerikanische Forscher entdecken, dass eine kleine Ver\u00e4nderung im H5N1-Virus ausreicht, um Menschen einfacher zu infizieren und eine Pandemie auszul\u00f6sen.",
-      "url": "https://www.bild.de/leben-wissen/vogelgrippe-neue-pandemie-durch-schnelle-mutation-moeglich-67555ac036814417822d0009",
-      "urlToImage": "https://images.bild.de/67555ac036814417822d0009/a7cd1a60323df0c1dcbfe3e0e7392a39,bdfcb9c8?w=1280",
-      "publishedAt": "2024-12-08 10:16:07",
-      "content": "Die Vogelgrippe k\u00f6nnte bald schneller auf den Menschen \u00fcberspringen und dabei sogar eine neue Pandemie ausl\u00f6sen! Millionen Tiere hat die in der Fachsprache avi\u00e4re Influenza genannte Infektion get\u00f6te\u2026 [+2222 chars]",
-      "retrievedAt": "2024-12-09 19:05:55.521079",
-      "internal_id": "816ceec5262d95982d6808b42fb35035362e031ef2b322b7f4734f26f6770264",
-      "publishedAtLabel": "Dec 8"
-    },
-    {
-      "id": 16176,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "focus",
-      "source_name": "Focus",
-      "author": "dpa",
-      "title": "Hohe Dunkelziffer - Experten: Schon winzige Ver\u00e4nderung macht Vogelgrippe gef\u00e4hrlich f\u00fcr uns",
-      "description": "Noch ist keine anhaltende \u00dcbertragung des Vogelgrippe-Virus H5N1 von Mensch zu Mensch nachgewiesen worden. Doch schon nach Austausch eines Bausteins kann es leichter an menschliche Zellen andocken. Das zeigt eine neue Studie",
-      "url": "https://www.focus.de/gesundheit/news/experten-schon-winzige-veraenderung-macht-vogelgrippe-gefaehrlich-fuer-uns_id_260544505.html",
-      "urlToImage": "https://p6.focus.de/img/fotos/id_260094435/gettyimages-522933314.jpg?im=Crop%3D%280%2C175%2C2122%2C1061%29%3BResize%3D%281200%2C627%29&impolicy=perceptual&quality=mediumHigh&hash=4f934f15acfc4ce2377e1af3350622319e356b831eddaeaf7e95ef9e1fb624a6",
-      "publishedAt": "2024-12-08 09:02:42",
-      "content": "Noch ist keine anhaltende \u00dcbertragung des Vogelgrippe-Virus H5N1 von Mensch zu Mensch nachgewiesen worden. Doch schon nach Austausch eines Bausteins kann es leichter an menschliche Zellen andocken. D\u2026 [+5309 chars]",
-      "retrievedAt": "2024-12-09 19:05:55.656686",
-      "internal_id": "c2b033a55c391653dbfe8f66d540bcd2796e10de8078c6511eee8c438a028a18",
       "publishedAtLabel": "Dec 8"
     }
   ]

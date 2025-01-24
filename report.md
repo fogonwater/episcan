@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 6
-- **Last harvest:** 2025-01-24 07:06
-- **Most recent article:** 2025-01-23 05:49:43
+- **New articles in last harvest:** 30
+- **Last harvest:** 2025-01-24 19:06
+- **Most recent article:** 2025-01-23 18:44:34
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-50 | 24-51 | 24-52 | 24-53 | 25-1 | 25-2 | 25-3 | 25-4 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| h5n1 | 58 | 112 | 65 | 27 | 27 | 131 | 65 | 16 | 501 |
-| mpox | 26 | 92 | 35 | 2 | 6 | 91 | 34 | 9 | 295 |
-| malaria | 76 | 60 | 30 | 15 | 10 | 30 | 18 | 9 | 248 |
-| dengue | 33 | 30 | 24 | 6 | 12 | 41 | 29 | 23 | 198 |
-| hpai | 4 | 6 | 12 | 1 | 4 | 18 | 12 | 6 | 63 |
-| measles | 10 | 6 | 11 | 3 | 6 | 6 | 9 | 5 | 56 |
-| chikungunya | 7 | 8 | 0 | 2 | 0 | 7 | 7 | 7 | 38 |
+| h5n1 | 55 | 112 | 65 | 27 | 27 | 131 | 65 | 21 | 503 |
+| mpox | 26 | 92 | 35 | 2 | 6 | 91 | 34 | 15 | 301 |
+| malaria | 74 | 60 | 30 | 15 | 10 | 30 | 18 | 14 | 251 |
+| dengue | 33 | 30 | 24 | 6 | 12 | 41 | 29 | 30 | 205 |
+| hpai | 3 | 6 | 12 | 1 | 4 | 18 | 12 | 8 | 64 |
+| measles | 8 | 6 | 11 | 3 | 6 | 6 | 9 | 6 | 55 |
+| chikungunya | 7 | 8 | 0 | 2 | 0 | 7 | 7 | 9 | 40 |
+| rabies | 3 | 7 | 8 | 1 | 1 | 2 | 6 | 4 | 32 |
 | zika | 4 | 4 | 2 | 0 | 0 | 15 | 5 | 2 | 32 |
-| rabies | 3 | 7 | 8 | 1 | 1 | 2 | 6 | 3 | 31 |
 | meningitis | 7 | 5 | 3 | 1 | 2 | 0 | 2 | 2 | 22 |
-| pertussis | 5 | 4 | 6 | 0 | 1 | 2 | 0 | 0 | 18 |
+| pertussis | 4 | 4 | 6 | 0 | 1 | 2 | 0 | 0 | 17 |
 | yersinia | 0 | 0 | 6 | 0 | 0 | 3 | 2 | 0 | 11 |
-| leptospirosis | 3 | 0 | 2 | 0 | 0 | 0 | 1 | 0 | 6 |
+| leptospirosis | 3 | 0 | 2 | 0 | 0 | 0 | 1 | 2 | 8 |
 | typhoid | 1 | 0 | 0 | 0 | 0 | 0 | 4 | 0 | 5 |
 | shigellosis | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
 
@@ -41,6 +41,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-4 (rabies)
 
+- [Bear tests positive for rabies after attack in Jim Thorpe](https://www.pahomepage.com/news/bear-tests-positive-for-rabies-after-attack-in-jim-thorpe/) (Pahomepage.com)
+
 - [Sarawak enforces new anti-rabies vaccination order](https://www.thestar.com.my/news/nation/2025/01/22/sarawak-enforces-new-anti-rabies-vaccination-order) (The Star Online)
 
 - [A Pictorial Human Case of “Furious Rabies”](https://wwwnc.cdc.gov/eid/article/31/2/ac-3102_article) (Cdc.gov)
@@ -48,6 +50,18 @@ Source: [News API](https://newsapi.org/)
 - [‘Rabid’ sloth bear kills father-son duo, injures forest ranger, terrorizes villagers in Chhattisgarh](https://timesofindia.indiatimes.com/city/raipur/rabid-sloth-bear-kills-father-son-duo-injures-forest-ranger-terrorizes-villagers-in-chhattisgarh/articleshow/117417223.cms) (The Times of India)
 
 ## 25-4 (mpox)
+
+- [Udupi man, returned from Dubai, tests +ve for Mpox](https://timesofindia.indiatimes.com/city/bengaluru/udupi-man-returned-from-dubai-tests-ve-for-mpox/articleshow/117495295.cms) (The Times of India)
+
+- [कर्नाटक में मंकीपॉक्स की दस्तक, सामने आया पहला केस, दुबई से लौटा शख्स पॉजिटिव पाया गया](https://navbharattimes.indiatimes.com/state/karnataka/bengaluru/karnataka-reports-first-monkeypox-case-this-year-as-40-year-old-man-dubai-returnee-tests-positive/articleshow/117494631.cms) (The Times of India)
+
+- [Dubai returned man tested positive for MPox in Karnataka](https://economictimes.indiatimes.com/news/india/dubai-returned-man-tested-positive-for-mpox-in-karnataka/articleshow/117494188.cms) (The Times of India)
+
+- [This is what might happen if the US withdraws from the WHO](https://www.technologyreview.com/2025/01/23/1110460/us-withdraws-from-the-who/) (MIT Technology Review)
+
+- [Türk ve İngiliz bilim insanları, M çiçeği aşısı için çalışmalarını hızlandırdı](https://www.haberturk.com/turk-ve-ingiliz-bilim-insanlari-maymun-cicegi-asisi-icin-calismalarini-hizlandirdi-3758847) (Haberturk.com)
+
+- [Truck Drivers Makes Demands to Health CS Over Mpox](https://www.kenyans.co.ke/news/108312-truck-drivers-makes-demands-health-cs-over-mpox) (Kenyans.co.ke)
 
 - [L’Union africaine se dit « consternée » par le retrait des États-Unis de l’OMS](https://www.jeuneafrique.com/1650937/societe/lunion-africaine-se-dit-consternee-par-le-retrait-des-etats-unis-de-loms/) (Jeune Afrique)
 
@@ -75,6 +89,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-4 (measles)
 
+- [HMPV is a silent threat to respiratory health]( https://en.setopati.com/International/164219 ) (Setopati.com)
+
 - [New measles alerts hit Western Sydney and Gold Coast as confirmed cases return from major outbreak area](https://7news.com.au/news/new-measles-alerts-hit-western-sydney-and-gold-coast-on-same-day-as-confirmed-cases-return-from-major-outbreak-area-c-17479926) (7NEWS.com.au)
 
 - [Health officials monitoring measles spread at SEA Airport after travelers exposed](https://www.kiro7.com/news/local/health-officials-monitoring-measles-spread-sea-airport-after-travelers-exposed/YZE2XC654VHH7CJT7OM7XDNILY/) (KIRO Seattle)
@@ -86,6 +102,16 @@ Source: [News API](https://newsapi.org/)
 - [Guidance: Vaccine in pregnancy: advice for pregnant women](https://www.gov.uk/government/publications/vaccine-in-pregnancy-advice-for-pregnant-women) (Www.gov.uk)
 
 ## 25-4 (malaria)
+
+- [Wirtschaftsprominenz in Mainz: Bill Gates zu Besuch bei Biontech](https://www.stern.de/gesellschaft/regional/rheinland-pfalz-saarland/wirtschaftsprominenz-in-mainz--bill-gates-zu-besuch-bei-biontech-35407326.html) (STERN.de)
+
+- [Malaria: Factors affecting disease severity, immune evasion mechanisms, and reversal of immune inhibition to enhance vaccine efficacy](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012853) (Plos.org)
+
+- [Atypical memory B cells from natural malaria infection produced broadly neutralizing antibodies against Plasmodium vivax variants](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012866) (Plos.org)
+
+- [Georgia: Malaria-free certification ‘a huge milestone worth marking’](https://news.un.org/en/story/2025/01/1159346) (UN News)
+
+- [New antibodies could help win the fight against malaria](https://www.dw.com/en/new-antibodies-could-help-win-the-fight-against-malaria/a-71372289) (DW (English))
 
 - [Africa malaria jab rollout delivers 10 million doses](https://timesofindia.indiatimes.com/world/rest-of-world/africa-malaria-jab-rollout-delivers-10-million-doses/articleshow/117465086.cms) (The Times of India)
 
@@ -105,7 +131,17 @@ Source: [News API](https://newsapi.org/)
 
 - [Poorly treated infections in children may cause convulsions, brain damage, say paediatricians](https://punchng.com/poorly-treated-infections-in-children-may-cause-convulsions-brain-damage-say-paediatricians/) (The Punch)
 
+## 25-4 (leptospirosis)
+
+- [Leptospirosis, melioidosis, and rickettsioses in the vicious circle of neglect](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012796) (Plos.org)
+
+- [Correction: Time series models for prediction of leptospirosis in different climate zones in Sri Lanka](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318175) (Plos.org)
+
 ## 25-4 (hpai)
+
+- [New York farm forced to euthanize over 100,000 ducks after bird flu outbreak](https://www.scrippsnews.com/health/bird-flu/new-york-farm-forced-to-euthanize-over-100-000-ducks-after-bird-flu-outbreak) (Scrippsnews.com)
+
+- [SAP-topchef: Donald Trumps gigantiske AI-projekt bør være ‘wake up call’ for Europa](https://www.computerworld.dk/art/290195/sap-topchef-donald-trumps-gigantiske-ai-projekt-boer-vaere-wake-up-call-for-europa) (Computerworld.dk)
 
 - [Bird flu detected at 2nd commercial poultry flock in Georgia](https://www.wsbtv.com/news/local/atlanta/bird-flu-detected-2nd-commercial-georgia-poultry-flock/A6EW2F6RXZFRJI2UWYGLESMBCE/) (WSB Atlanta)
 
@@ -120,6 +156,16 @@ Source: [News API](https://newsapi.org/)
 - [Vil presse tech-giganter til at give adgang til krypterede beskeder: "Anonymitet er ikke en grundlæggende rettighed"](https://www.computerworld.dk/art/290139/vil-presse-tech-giganter-til-at-give-adgang-til-krypterede-beskeder-anonymitet-er-ikke-en-grundlaeggende-rettighed) (Computerworld.dk)
 
 ## 25-4 (h5n1)
+
+- [The Latest on Bird Flu in Humans, Cats and Chickens](https://www.scientificamerican.com/article/the-latest-on-bird-flu-in-humans-cats-and-chickens/) (Scientific American)
+
+- [Nürnberg: Tiergarten öffnet nach Vogelgrippe-Ausbruch wieder](https://www.sueddeutsche.de/bayern/tiergarten-nuernberg-vogelgrippe-ausbruch-li.3188343) (Süddeutsche Zeitung)
+
+- [The sweet side of H5N1 influenza virus infection](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012847) (Plos.org)
+
+- [إنفلونزا الطيور.. تطعيم الدواجن قد يساعد الفيروس على التطور](https://www.aljazeera.net/health/2025/1/23/%d8%a5%d9%86%d9%81%d9%84%d9%88%d9%86%d8%b2%d8%a7-%d8%a7%d9%84%d8%b7%d9%8a%d9%88%d8%b1-%d8%aa%d8%b7%d8%b9%d9%8a%d9%85-%d8%a7%d9%84%d8%af%d9%88%d8%a7%d8%ac%d9%86-%d9%82%d8%af) (Aljazeera.net)
+
+- [WSJ: Трамп может приостановить финансирование программ для исследования вирусов](https://www.kommersant.ru/doc/7446209) (Kommersant.ru)
 
 - [Команда Трампа может приостановить финансирование исследований вирусов](https://iz.ru/1826828/2025-01-23/komanda-trampa-mozet-priostanovit-finansirovanie-issledovanii-virusov) (Iz.ru)
 
@@ -154,6 +200,20 @@ Source: [News API](https://newsapi.org/)
 - [První úmrtí člověka na ptačí chřipku vyvolává otázku, zda jsme připraveni na další pandemii](https://vtm.zive.cz/clanky/prvni-umrti-cloveka-na-ptaci-chripku-vyvolava-otazku-zda-jsme-pripraveni-na-dalsi-pandemii/sc-870-a-232411/default.aspx) (Zive.cz)
 
 ## 25-4 (dengue)
+
+- [Strategy is to first serve India's vaccine needs and then move on to exports, says Adar Poonawalla](https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/strategy-is-to-first-serve-indias-vaccine-needs-and-then-move-on-to-exports-says-adar-poonawalla/articleshow/117496810.cms) (The Times of India)
+
+- [Dengue: vacinas do Butantan só terão distribuição em massa em 2026](https://www.metropoles.com/sao-paulo/dengue-vacinas-do-butantan-so-terao-distribuicao-em-massa-em-2026) (Metropoles.com)
+
+- [Aedes aegypti: 5 dicas para proteção e combate ao mosquito](https://www.terra.com.br/vida-e-estilo/aedes-aegypti-5-dicas-para-protecao-e-combate-ao-mosquito,fea3d5f18ccb11e1dda89cb654dc4969csrzq6rf.html) (Terra.com.br)
+
+- [Tarcísio anuncia comitê de emergência para o combate à dengue em SP](https://www.metropoles.com/sao-paulo/tarcisio-anuncia-comite-de-emergencia-para-o-combate-a-dengue-em-sp) (Metropoles.com)
+
+- [Após recorde da dengue, não haverá vacinação em massa no Brasil](https://saude.ig.com.br/2025-01-23/recorde-da-dengue--nao-havera-vacinacao-em-massa.html) (Ig.com.br)
+
+- [Butantan começa a produzir sua vacina contra a dengue](https://www.infomoney.com.br/saude/butantan-comeca-a-produzir-sua-vacina-contra-a-dengue/) (InfoMoney)
+
+- [Rising temperatures, fluctuating monsoon rainfall driving up dengue-related deaths, says study](https://www.thehindubusinessline.com/news/national/rising-temperatures-fluctuating-monsoon-rainfall-driving-up-dengue-related-deaths-says-study/article69130896.ece) (BusinessLine)
 
 - [Dengue: após liberação de vacina, Saúde pretende ampliar faixa etária](https://www.metropoles.com/brasil/dengue-apos-liberacao-de-vacina-saude-pretende-ampliar-faixa-etaria) (Metropoles.com)
 
@@ -202,6 +262,10 @@ Source: [News API](https://newsapi.org/)
 - [Sorotipo 3 da dengue volta a circular no Brasil após 17 anos. Entenda](https://www.metropoles.com/saude/dengue-sorotipo-3-volta-apos-17-anos) (Metropoles.com)
 
 ## 25-4 (chikungunya)
+
+- [Strategy is to first serve India's vaccine needs and then move on to exports, says Adar Poonawalla](https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/strategy-is-to-first-serve-indias-vaccine-needs-and-then-move-on-to-exports-says-adar-poonawalla/articleshow/117496810.cms) (The Times of India)
+
+- [Chikungunya: vacina mantém proteção em 98% dos adolescentes após 1 ano](https://www.metropoles.com/saude/vacina-chikungunya-protecao-apos-1-ano) (Metropoles.com)
 
 - [Valneva reports Phase 2 results in children for its chikungunya vaccine](https://thefly.com/permalinks/entry.php/id4055764/VALN-Valneva-reports-Phase--results-in-children-for-its-chikungunya-vaccine) (Thefly.com)
 
@@ -2793,8 +2857,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Cazurile de tuse convulsivă sunt în creștere. Ce semne are boala și de ce este deosebit de periculoasă pentru copiii mici](http://hotnews.ro/cazurile-de-tuse-convulsiva-sunt-in-crestere-ce-semne-are-boala-si-de-ce-este-deosebit-de-periculoasa-pentru-copiii-mici-1859161) (Hotnews.ro)
 
-- [Public Health Ontario report: whooping cough cases highest in 17 years](https://www.cp24.com/news/2024/12/08/ontario-saw-the-highest-number-of-whooping-cough-cases-in-the-last-17-years-report/) (CP24 Toronto's Breaking News)
-
 ## 24-50 (mpox)
 
 - [Nieznana choroba w Afryce. Są pierwsze wyniki badań](https://wydarzenia.interia.pl/zagranica/news-nieznana-choroba-w-afryce-sa-pierwsze-wyniki-badan,nId,7875726) (Interia.pl)
@@ -2882,10 +2944,6 @@ Source: [News API](https://newsapi.org/)
 - [How measles, whooping cough, and worse could roar back on RFK Jr.’s watch](https://www.bostonherald.com/2024/12/09/measles-whooping-cough-rfk-jr/) (Boston Herald)
 
 - [How measles, whooping cough, and worse could roar back on RFK Jr.’s watch](https://www.pennlive.com/health/2024/12/how-measles-whooping-cough-and-worse-could-roar-back-on-rfk-jrs-watch.html) (PennLive)
-
-- [Mysterious New Disease X Is Officially Here, Potentially Airborne](https://www.newsbreak.com/share/3706705509412-mysterious-new-disease-x-is-officially-here-potentially-airborne?s=a2&amp;share_destination_id=MTg0MzY1NzI5LTE3MzM2NzY0MDE4NzY%3D&amp;pd=0CTZwnpM&amp;hl=en_US&amp;send_time=1733676401&amp;actBtn=feedbackShareButton&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2224.49.0%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_recall_exp_24q4-v3%2Cns_foryou_model_exp_24q4-v9%2Cns_foryou_blend_exp_24q4-v2%2Cns_local_strategy_24q4_exp-v8%2Cns_push_exp_rt_bucketv12-v9%2Cns_foryou_rank_exp_24q4-v5) (Newsbreak.com)
-
-- [Mysterious New Disease X Is Officially Here, Potentially Airborne](https://www.newsbreak.com/share/3706705509412-mysterious-new-disease-x-is-officially-here-potentially-airborne?_f=app_share&amp;pd=0EuIdPvZ&amp;lang=en_US&amp;send_time=1733680315&amp;trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2224.48.0.25%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_local_strategy_24q4_exp-v11%2Cns_push_exp_rt_bucketv12-control%2Cns_foryou_rank_exp_24q4-v4%2Cns_foryou_blend_exp_24q4-v6%2Cns_foryou_model_exp_24q4-v8%2Cns_foryou_recall_exp_24q4-v7&amp;s=i2) (Newsbreak.com)
 
 ## 24-50 (malaria)
 
@@ -3037,10 +3095,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Promising New Malaria Vaccine Can Be Injected by Mosquito Bite](https://www.sciencealert.com/promising-new-malaria-vaccine-can-be-injected-by-mosquito-bite) (ScienceAlert)
 
-- [Mysterious New Disease X Is Officially Here, Potentially Airborne](https://www.newsbreak.com/share/3706705509412-mysterious-new-disease-x-is-officially-here-potentially-airborne?s=a2&amp;share_destination_id=MTg0MzY1NzI5LTE3MzM2NzY0MDE4NzY%3D&amp;pd=0CTZwnpM&amp;hl=en_US&amp;send_time=1733676401&amp;actBtn=feedbackShareButton&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2224.49.0%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_recall_exp_24q4-v3%2Cns_foryou_model_exp_24q4-v9%2Cns_foryou_blend_exp_24q4-v2%2Cns_local_strategy_24q4_exp-v8%2Cns_push_exp_rt_bucketv12-v9%2Cns_foryou_rank_exp_24q4-v5) (Newsbreak.com)
-
-- [Mysterious New Disease X Is Officially Here, Potentially Airborne](https://www.newsbreak.com/share/3706705509412-mysterious-new-disease-x-is-officially-here-potentially-airborne?_f=app_share&amp;pd=0EuIdPvZ&amp;lang=en_US&amp;send_time=1733680315&amp;trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2224.48.0.25%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_local_strategy_24q4_exp-v11%2Cns_push_exp_rt_bucketv12-control%2Cns_foryou_rank_exp_24q4-v4%2Cns_foryou_blend_exp_24q4-v6%2Cns_foryou_model_exp_24q4-v8%2Cns_foryou_recall_exp_24q4-v7&amp;s=i2) (Newsbreak.com)
-
 ## 24-50 (leptospirosis)
 
 - [Over 10,000 rat fever cases reported in Sri Lanka in 2024](https://www.thestar.com.my/news/world/2024/12/12/over-10000-rat-fever-cases-reported-in-sri-lanka-in-2024) (The Star Online)
@@ -3056,8 +3110,6 @@ Source: [News API](https://newsapi.org/)
 - [Statutory guidance: Bird flu: general licence for the movement of poultry carcases for disposal from premises in a protection zone in England (EXD339(HPAI)(E))](https://www.gov.uk/government/publications/bird-flu-general-licence-for-the-movement-of-poultry-carcases-for-disposal-from-premises-in-a-protection-zone-in-england-exd339hpaie) (Www.gov.uk)
 
 - [Replication Restriction of Influenza A(H5N1) Clade 2.3.4.4b Viruses by Human Immune Factor, 2023–2024](https://wwwnc.cdc.gov/eid/article/31/1/24-1236_article) (Cdc.gov)
-
-- [USDA Orders Testing of Raw and Unpasteurized Milk for Presence of Bird Flu Virus](https://legalinsurrection.com/2024/12/usda-orders-testing-of-raw-and-unpasteurized-milk-for-presence-of-bird-flu-virus/) (Legalinsurrection.com)
 
 ## 24-50 (h5n1)
 
@@ -3170,12 +3222,6 @@ Source: [News API](https://newsapi.org/)
 - [Quels pays ont le mieux géré la crise du Covid-19 ? Une étude scientifique apporte la réponse](https://www.lexpress.fr/sciences-sante/quels-pays-ont-le-mieux-gere-la-crise-du-covid-19-une-etude-scientifique-apporte-la-reponse-5LTIVL2YNBCGNESJV5CQEFVB3Y/) (L'Express)
 
 - [US government to begin expanded testing of milk supply to better track the spread of bird flu](https://www.wesh.com/article/us-expanded-testing-of-milk-supply-track-spread-of-bird-flu/63118481) (WESH Orlando)
-
-- [Wann die Vogelgrippe für Menschen gefährlich wird: Bereits winzige Änderung würde ausreichen](https://www.tagesspiegel.de/wissen/wann-die-vogelgrippe-fur-menschen-gefahrlich-wird-bereits-winzige-anderung-wurde-ausreichen-12841436.html) (Der Tagesspiegel)
-
-- [Forscher schlagen Alarm - Vogelgrippe nur eine Mutation vom Menschen entfernt](https://www.bild.de/leben-wissen/vogelgrippe-neue-pandemie-durch-schnelle-mutation-moeglich-67555ac036814417822d0009) (Bild)
-
-- [Hohe Dunkelziffer - Experten: Schon winzige Veränderung macht Vogelgrippe gefährlich für uns](https://www.focus.de/gesundheit/news/experten-schon-winzige-veraenderung-macht-vogelgrippe-gefaehrlich-fuer-uns_id_260544505.html) (Focus)
 
 ## 24-50 (dengue)
 
