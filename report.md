@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 15
-- **Last harvest:** 2025-01-23 19:06
-- **Most recent article:** 2025-01-22 18:00:32
+- **New articles in last harvest:** 6
+- **Last harvest:** 2025-01-24 07:06
+- **Most recent article:** 2025-01-23 05:49:43
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-50 | 24-51 | 24-52 | 24-53 | 25-1 | 25-2 | 25-3 | 25-4 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| h5n1 | 55 | 112 | 65 | 27 | 27 | 131 | 65 | 13 | 495 |
+| h5n1 | 58 | 112 | 65 | 27 | 27 | 131 | 65 | 16 | 501 |
 | mpox | 26 | 92 | 35 | 2 | 6 | 91 | 34 | 9 | 295 |
-| malaria | 74 | 60 | 30 | 15 | 10 | 30 | 18 | 9 | 246 |
-| dengue | 33 | 30 | 24 | 6 | 12 | 41 | 29 | 22 | 197 |
-| hpai | 3 | 6 | 12 | 1 | 4 | 18 | 12 | 6 | 62 |
-| measles | 8 | 6 | 11 | 3 | 6 | 6 | 9 | 3 | 52 |
+| malaria | 76 | 60 | 30 | 15 | 10 | 30 | 18 | 9 | 248 |
+| dengue | 33 | 30 | 24 | 6 | 12 | 41 | 29 | 23 | 198 |
+| hpai | 4 | 6 | 12 | 1 | 4 | 18 | 12 | 6 | 63 |
+| measles | 10 | 6 | 11 | 3 | 6 | 6 | 9 | 5 | 56 |
 | chikungunya | 7 | 8 | 0 | 2 | 0 | 7 | 7 | 7 | 38 |
 | zika | 4 | 4 | 2 | 0 | 0 | 15 | 5 | 2 | 32 |
 | rabies | 3 | 7 | 8 | 1 | 1 | 2 | 6 | 3 | 31 |
 | meningitis | 7 | 5 | 3 | 1 | 2 | 0 | 2 | 2 | 22 |
-| pertussis | 4 | 4 | 6 | 0 | 1 | 2 | 0 | 0 | 17 |
+| pertussis | 5 | 4 | 6 | 0 | 1 | 2 | 0 | 0 | 18 |
 | yersinia | 0 | 0 | 6 | 0 | 0 | 3 | 2 | 0 | 11 |
 | leptospirosis | 3 | 0 | 2 | 0 | 0 | 0 | 1 | 0 | 6 |
 | typhoid | 1 | 0 | 0 | 0 | 0 | 0 | 4 | 0 | 5 |
@@ -75,6 +75,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-4 (measles)
 
+- [New measles alerts hit Western Sydney and Gold Coast as confirmed cases return from major outbreak area](https://7news.com.au/news/new-measles-alerts-hit-western-sydney-and-gold-coast-on-same-day-as-confirmed-cases-return-from-major-outbreak-area-c-17479926) (7NEWS.com.au)
+
+- [Health officials monitoring measles spread at SEA Airport after travelers exposed](https://www.kiro7.com/news/local/health-officials-monitoring-measles-spread-sea-airport-after-travelers-exposed/YZE2XC654VHH7CJT7OM7XDNILY/) (KIRO Seattle)
+
 - [Vaccinate against measles before overseas travel](https://northern.starweekly.com.au/news/vaccinate-against-measles-before-overseas-travel/) (Starweekly.com.au)
 
 - [‘It’s not just measles’: Preventable childhood diseases on the rise](https://www.nzherald.co.nz/the-listener/health/its-not-just-measles-preventable-childhood-diseases-on-the-rise/I5MWQAGE7FC5XEN6PWNLOXJ35M/) (New Zealand Herald)
@@ -117,6 +121,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-4 (h5n1)
 
+- [Команда Трампа может приостановить финансирование исследований вирусов](https://iz.ru/1826828/2025-01-23/komanda-trampa-mozet-priostanovit-finansirovanie-issledovanii-virusov) (Iz.ru)
+
+- [WSJ: Трамп может приостановить выделение средств на исследование некоторых вирусов](https://tass.ru/obschestvo/22947983) (Tass.ru)
+
+- [The US Has Bird Flu Vaccines. Here’s Why You Can’t Get One](https://www.wired.com/story/the-us-has-bird-flu-vaccines-heres-why-you-cant-get-one/) (Wired)
+
 - [В АТОР не подтвердили сообщения о вспышке заболеваний туристов в Таиланде](https://news.mail.ru/incident/64546892/) (Mail.ru)
 
 - [As H5N1 Is Detected In San Francisco, A Panel Discusses Next Steps](https://www.forbes.com/sites/stephenbrozak/2025/01/21/as-h5n1-is-detected-in-san-francisco-a-panel-discusses-next-steps/) (Forbes)
@@ -144,6 +154,8 @@ Source: [News API](https://newsapi.org/)
 - [První úmrtí člověka na ptačí chřipku vyvolává otázku, zda jsme připraveni na další pandemii](https://vtm.zive.cz/clanky/prvni-umrti-cloveka-na-ptaci-chripku-vyvolava-otazku-zda-jsme-pripraveni-na-dalsi-pandemii/sc-870-a-232411/default.aspx) (Zive.cz)
 
 ## 25-4 (dengue)
+
+- [Dengue: após liberação de vacina, Saúde pretende ampliar faixa etária](https://www.metropoles.com/brasil/dengue-apos-liberacao-de-vacina-saude-pretende-ampliar-faixa-etaria) (Metropoles.com)
 
 - [Com baixa adesão, Ministério pode ampliar faixa etária de vacinação contra a dengue](https://www.infomoney.com.br/brasil/com-baixa-adesao-ministerio-pode-ampliar-faixa-etaria-de-vacinacao-contra-a-dengue/) (InfoMoney)
 
@@ -2781,6 +2793,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Cazurile de tuse convulsivă sunt în creștere. Ce semne are boala și de ce este deosebit de periculoasă pentru copiii mici](http://hotnews.ro/cazurile-de-tuse-convulsiva-sunt-in-crestere-ce-semne-are-boala-si-de-ce-este-deosebit-de-periculoasa-pentru-copiii-mici-1859161) (Hotnews.ro)
 
+- [Public Health Ontario report: whooping cough cases highest in 17 years](https://www.cp24.com/news/2024/12/08/ontario-saw-the-highest-number-of-whooping-cough-cases-in-the-last-17-years-report/) (CP24 Toronto's Breaking News)
+
 ## 24-50 (mpox)
 
 - [Nieznana choroba w Afryce. Są pierwsze wyniki badań](https://wydarzenia.interia.pl/zagranica/news-nieznana-choroba-w-afryce-sa-pierwsze-wyniki-badan,nId,7875726) (Interia.pl)
@@ -2868,6 +2882,10 @@ Source: [News API](https://newsapi.org/)
 - [How measles, whooping cough, and worse could roar back on RFK Jr.’s watch](https://www.bostonherald.com/2024/12/09/measles-whooping-cough-rfk-jr/) (Boston Herald)
 
 - [How measles, whooping cough, and worse could roar back on RFK Jr.’s watch](https://www.pennlive.com/health/2024/12/how-measles-whooping-cough-and-worse-could-roar-back-on-rfk-jrs-watch.html) (PennLive)
+
+- [Mysterious New Disease X Is Officially Here, Potentially Airborne](https://www.newsbreak.com/share/3706705509412-mysterious-new-disease-x-is-officially-here-potentially-airborne?s=a2&amp;share_destination_id=MTg0MzY1NzI5LTE3MzM2NzY0MDE4NzY%3D&amp;pd=0CTZwnpM&amp;hl=en_US&amp;send_time=1733676401&amp;actBtn=feedbackShareButton&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2224.49.0%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_recall_exp_24q4-v3%2Cns_foryou_model_exp_24q4-v9%2Cns_foryou_blend_exp_24q4-v2%2Cns_local_strategy_24q4_exp-v8%2Cns_push_exp_rt_bucketv12-v9%2Cns_foryou_rank_exp_24q4-v5) (Newsbreak.com)
+
+- [Mysterious New Disease X Is Officially Here, Potentially Airborne](https://www.newsbreak.com/share/3706705509412-mysterious-new-disease-x-is-officially-here-potentially-airborne?_f=app_share&amp;pd=0EuIdPvZ&amp;lang=en_US&amp;send_time=1733680315&amp;trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2224.48.0.25%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_local_strategy_24q4_exp-v11%2Cns_push_exp_rt_bucketv12-control%2Cns_foryou_rank_exp_24q4-v4%2Cns_foryou_blend_exp_24q4-v6%2Cns_foryou_model_exp_24q4-v8%2Cns_foryou_recall_exp_24q4-v7&amp;s=i2) (Newsbreak.com)
 
 ## 24-50 (malaria)
 
@@ -3019,6 +3037,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Promising New Malaria Vaccine Can Be Injected by Mosquito Bite](https://www.sciencealert.com/promising-new-malaria-vaccine-can-be-injected-by-mosquito-bite) (ScienceAlert)
 
+- [Mysterious New Disease X Is Officially Here, Potentially Airborne](https://www.newsbreak.com/share/3706705509412-mysterious-new-disease-x-is-officially-here-potentially-airborne?s=a2&amp;share_destination_id=MTg0MzY1NzI5LTE3MzM2NzY0MDE4NzY%3D&amp;pd=0CTZwnpM&amp;hl=en_US&amp;send_time=1733676401&amp;actBtn=feedbackShareButton&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2224.49.0%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_recall_exp_24q4-v3%2Cns_foryou_model_exp_24q4-v9%2Cns_foryou_blend_exp_24q4-v2%2Cns_local_strategy_24q4_exp-v8%2Cns_push_exp_rt_bucketv12-v9%2Cns_foryou_rank_exp_24q4-v5) (Newsbreak.com)
+
+- [Mysterious New Disease X Is Officially Here, Potentially Airborne](https://www.newsbreak.com/share/3706705509412-mysterious-new-disease-x-is-officially-here-potentially-airborne?_f=app_share&amp;pd=0EuIdPvZ&amp;lang=en_US&amp;send_time=1733680315&amp;trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2224.48.0.25%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_local_strategy_24q4_exp-v11%2Cns_push_exp_rt_bucketv12-control%2Cns_foryou_rank_exp_24q4-v4%2Cns_foryou_blend_exp_24q4-v6%2Cns_foryou_model_exp_24q4-v8%2Cns_foryou_recall_exp_24q4-v7&amp;s=i2) (Newsbreak.com)
+
 ## 24-50 (leptospirosis)
 
 - [Over 10,000 rat fever cases reported in Sri Lanka in 2024](https://www.thestar.com.my/news/world/2024/12/12/over-10000-rat-fever-cases-reported-in-sri-lanka-in-2024) (The Star Online)
@@ -3034,6 +3056,8 @@ Source: [News API](https://newsapi.org/)
 - [Statutory guidance: Bird flu: general licence for the movement of poultry carcases for disposal from premises in a protection zone in England (EXD339(HPAI)(E))](https://www.gov.uk/government/publications/bird-flu-general-licence-for-the-movement-of-poultry-carcases-for-disposal-from-premises-in-a-protection-zone-in-england-exd339hpaie) (Www.gov.uk)
 
 - [Replication Restriction of Influenza A(H5N1) Clade 2.3.4.4b Viruses by Human Immune Factor, 2023–2024](https://wwwnc.cdc.gov/eid/article/31/1/24-1236_article) (Cdc.gov)
+
+- [USDA Orders Testing of Raw and Unpasteurized Milk for Presence of Bird Flu Virus](https://legalinsurrection.com/2024/12/usda-orders-testing-of-raw-and-unpasteurized-milk-for-presence-of-bird-flu-virus/) (Legalinsurrection.com)
 
 ## 24-50 (h5n1)
 
@@ -3146,6 +3170,12 @@ Source: [News API](https://newsapi.org/)
 - [Quels pays ont le mieux géré la crise du Covid-19 ? Une étude scientifique apporte la réponse](https://www.lexpress.fr/sciences-sante/quels-pays-ont-le-mieux-gere-la-crise-du-covid-19-une-etude-scientifique-apporte-la-reponse-5LTIVL2YNBCGNESJV5CQEFVB3Y/) (L'Express)
 
 - [US government to begin expanded testing of milk supply to better track the spread of bird flu](https://www.wesh.com/article/us-expanded-testing-of-milk-supply-track-spread-of-bird-flu/63118481) (WESH Orlando)
+
+- [Wann die Vogelgrippe für Menschen gefährlich wird: Bereits winzige Änderung würde ausreichen](https://www.tagesspiegel.de/wissen/wann-die-vogelgrippe-fur-menschen-gefahrlich-wird-bereits-winzige-anderung-wurde-ausreichen-12841436.html) (Der Tagesspiegel)
+
+- [Forscher schlagen Alarm - Vogelgrippe nur eine Mutation vom Menschen entfernt](https://www.bild.de/leben-wissen/vogelgrippe-neue-pandemie-durch-schnelle-mutation-moeglich-67555ac036814417822d0009) (Bild)
+
+- [Hohe Dunkelziffer - Experten: Schon winzige Veränderung macht Vogelgrippe gefährlich für uns](https://www.focus.de/gesundheit/news/experten-schon-winzige-veraenderung-macht-vogelgrippe-gefaehrlich-fuer-uns_id_260544505.html) (Focus)
 
 ## 24-50 (dengue)
 
