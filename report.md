@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 4
-- **Last harvest:** 2025-01-26 07:05
-- **Most recent article:** 2025-01-25 05:13:20
+- **New articles in last harvest:** 5
+- **Last harvest:** 2025-01-26 19:05
+- **Most recent article:** 2025-01-25 18:37:00
 
 ---
 
@@ -12,14 +12,14 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-51 | 24-52 | 24-53 | 25-1 | 25-2 | 25-3 | 25-4 | Total |
 |--|-|-|-|-|-|-|-|-|
-| h5n1 | 111 | 65 | 27 | 27 | 131 | 65 | 27 | 453 |
-| mpox | 92 | 35 | 2 | 6 | 91 | 34 | 22 | 282 |
+| h5n1 | 110 | 65 | 27 | 27 | 131 | 65 | 30 | 455 |
+| mpox | 92 | 35 | 2 | 6 | 91 | 34 | 23 | 283 |
 | malaria | 60 | 30 | 15 | 10 | 30 | 18 | 19 | 182 |
-| dengue | 30 | 24 | 6 | 12 | 41 | 29 | 37 | 179 |
+| dengue | 28 | 24 | 6 | 12 | 41 | 29 | 37 | 177 |
 | hpai | 6 | 12 | 1 | 4 | 18 | 12 | 11 | 64 |
 | measles | 6 | 11 | 3 | 6 | 6 | 9 | 10 | 51 |
 | chikungunya | 7 | 0 | 2 | 0 | 7 | 7 | 10 | 33 |
-| rabies | 7 | 8 | 1 | 1 | 2 | 6 | 6 | 31 |
+| rabies | 7 | 8 | 1 | 1 | 2 | 6 | 7 | 32 |
 | zika | 4 | 2 | 0 | 0 | 15 | 5 | 2 | 28 |
 | meningitis | 5 | 3 | 1 | 2 | 0 | 2 | 3 | 16 |
 | pertussis | 4 | 6 | 0 | 1 | 2 | 0 | 0 | 13 |
@@ -41,6 +41,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-4 (rabies)
 
+- [Army Public School Damana organizes an informative session on Rabies](https://kashmirnewsbureau.com/army-public-school-damana-organizes-an-informative-session-on-rabies/) (Kashmirnewsbureau.com)
+
 - [Bear that attacked man in Pennsylvania had rabies, officials say](https://www.cbsnews.com/news/bear-attack-pennsylvania-man-rabies/) (CBS News)
 
 - [Bear that attacked man in Pennsylvania had rabies, officials confirm](https://www.nbcnews.com/news/us-news/bear-attacked-man-pennsylvania-rabies-officials-confirm-rcna189086) (NBC News)
@@ -54,6 +56,8 @@ Source: [News API](https://newsapi.org/)
 - [‘Rabid’ sloth bear kills father-son duo, injures forest ranger, terrorizes villagers in Chhattisgarh](https://timesofindia.indiatimes.com/city/raipur/rabid-sloth-bear-kills-father-son-duo-injures-forest-ranger-terrorizes-villagers-in-chhattisgarh/articleshow/117417223.cms) (The Times of India)
 
 ## 25-4 (mpox)
+
+- [Κλιματική κρίση και ασθένειες «ανιχνεύονται» μαζί στα λύματα](https://www.protothema.gr/ugeia/article/1592586/klimatiki-krisi-kai-astheneies-anihneuodai-mazi-sta-lumata/) (Protothema.gr)
 
 - [Friday headlines: Block mentality](https://themorningnews.org/p/friday-headlines-block-mentality) (Themorningnews.org)
 
@@ -200,6 +204,12 @@ Source: [News API](https://newsapi.org/)
 - [Vil presse tech-giganter til at give adgang til krypterede beskeder: "Anonymitet er ikke en grundlæggende rettighed"](https://www.computerworld.dk/art/290139/vil-presse-tech-giganter-til-at-give-adgang-til-krypterede-beskeder-anonymitet-er-ikke-en-grundlaeggende-rettighed) (Computerworld.dk)
 
 ## 25-4 (h5n1)
+
+- [Los humanos tienen anticuerpos que reconocen y neutralizarían al virus de la gripe aviar](https://www.montevideo.com.uy/Salud/Los-humanos-tienen-anticuerpos-que-reconocen-y-neutralizarian-al-virus-de-la-gripe-aviar-uc913155) (Montevideo.com.uy)
+
+- [Γρίπη 2025: Γιατί φέτος είναι χειρότερη από τον Covid](https://www.alphafreepress.gr/2025/01/25/kosmos/gripi-2025-giati-fetos-einai-xeiroteri-apo-ton-covid/) (Alphafreepress.gr)
+
+- [Links 1/25/2025](https://www.nakedcapitalism.com/2025/01/links-1-25-2025.html) (Nakedcapitalism.com)
 
 - [Los humanos tienen anticuerpos que reconocen y neutralizarían al virus de la gripe aviar](https://www.elperiodico.com/es/ciencia/20250124/humanos-anticuerpos-reconocen-neutralizarian-virus-gripe-aviar-113690841) (Elperiodico.com)
 
@@ -2813,8 +2823,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Вирус гриппа А сохранил заразность в сыром коровьем молоке на несколько дней](https://nplus1.ru/news/2024/12/16/influenza-in-raw-milk) (Nplus1.ru)
 
-- [2 San Joaquin County farmworkers infected with bird flu after exposure to sick animals](https://www.recordnet.com/story/news/healthcare/2024/12/15/2-san-joaquin-county-farmworkers-test-positive-for-bird-flu/76997469007/) (Stockton Record)
-
 ## 24-51 (dengue)
 
 - [Could mosquitoes deliver vaccines against malaria?](https://www.aljazeera.com/news/2024/12/21/could-mosquitoes-deliver-vaccines-against-malaria) (Al Jazeera English)
@@ -2872,10 +2880,6 @@ Source: [News API](https://newsapi.org/)
 - [Saúde quer levar vacina contra dengue para dentro das escolas em 2025](https://www.metropoles.com/distrito-federal/saude-quer-levar-vacina-contra-dengue-para-dentro-das-escolas-em-2025) (Metropoles.com)
 
 - [México acumula 20 mil 931 casos por dengue](https://www.excelsior.com.mx/nacional/mexico-acumula-20-mil-931-casos-por-dengue/1689802) (Excelsior.com.mx)
-
-- [6mila morti di dengue in Brasile nel 2024, è record. L’allarme: “Cambiamenti climatici e siccità favoriscono riproduzione della zanzara”](https://www.ilfattoquotidiano.it/2024/12/15/morti-dengue-brasile-recort-allarme-cambiamenti-climatici-news/7805431/) (Ilfattoquotidiano.it)
-
-- [OMS: enfrenta América la mayor epidemia de dengue en 44 años](https://www.jornada.com.mx/2024/12/15/politica/009n1pol) (Jornada.com.mx)
 
 ## 24-51 (chikungunya)
 
