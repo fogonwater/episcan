@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 20
-- **Last harvest:** 2025-01-25 19:05
-- **Most recent article:** 2025-01-24 19:00:57
+- **New articles in last harvest:** 4
+- **Last harvest:** 2025-01-26 07:05
+- **Most recent article:** 2025-01-25 05:13:20
 
 ---
 
@@ -10,23 +10,23 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 24-50 | 24-51 | 24-52 | 24-53 | 25-1 | 25-2 | 25-3 | 25-4 | Total |
-|--|-|-|-|-|-|-|-|-|-|
-| h5n1 | 55 | 112 | 65 | 27 | 27 | 131 | 65 | 26 | 508 |
-| mpox | 26 | 92 | 35 | 2 | 6 | 91 | 34 | 22 | 308 |
-| malaria | 74 | 60 | 30 | 15 | 10 | 30 | 18 | 19 | 256 |
-| dengue | 33 | 30 | 24 | 6 | 12 | 41 | 29 | 35 | 210 |
-| hpai | 3 | 6 | 12 | 1 | 4 | 18 | 12 | 11 | 67 |
-| measles | 8 | 6 | 11 | 3 | 6 | 6 | 9 | 9 | 58 |
-| chikungunya | 7 | 8 | 0 | 2 | 0 | 7 | 7 | 10 | 41 |
-| rabies | 3 | 7 | 8 | 1 | 1 | 2 | 6 | 6 | 34 |
-| zika | 4 | 4 | 2 | 0 | 0 | 15 | 5 | 2 | 32 |
-| meningitis | 7 | 5 | 3 | 1 | 2 | 0 | 2 | 3 | 23 |
-| pertussis | 4 | 4 | 6 | 0 | 1 | 2 | 0 | 0 | 17 |
-| yersinia | 0 | 0 | 6 | 0 | 0 | 3 | 2 | 0 | 11 |
-| leptospirosis | 3 | 0 | 2 | 0 | 0 | 0 | 1 | 2 | 8 |
-| typhoid | 1 | 0 | 0 | 0 | 0 | 0 | 4 | 0 | 5 |
-| shigellosis | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| Disease | 24-51 | 24-52 | 24-53 | 25-1 | 25-2 | 25-3 | 25-4 | Total |
+|--|-|-|-|-|-|-|-|-|
+| h5n1 | 111 | 65 | 27 | 27 | 131 | 65 | 27 | 453 |
+| mpox | 92 | 35 | 2 | 6 | 91 | 34 | 22 | 282 |
+| malaria | 60 | 30 | 15 | 10 | 30 | 18 | 19 | 182 |
+| dengue | 30 | 24 | 6 | 12 | 41 | 29 | 37 | 179 |
+| hpai | 6 | 12 | 1 | 4 | 18 | 12 | 11 | 64 |
+| measles | 6 | 11 | 3 | 6 | 6 | 9 | 10 | 51 |
+| chikungunya | 7 | 0 | 2 | 0 | 7 | 7 | 10 | 33 |
+| rabies | 7 | 8 | 1 | 1 | 2 | 6 | 6 | 31 |
+| zika | 4 | 2 | 0 | 0 | 15 | 5 | 2 | 28 |
+| meningitis | 5 | 3 | 1 | 2 | 0 | 2 | 3 | 16 |
+| pertussis | 4 | 6 | 0 | 1 | 2 | 0 | 0 | 13 |
+| yersinia | 0 | 6 | 0 | 0 | 3 | 2 | 0 | 11 |
+| leptospirosis | 0 | 2 | 0 | 0 | 0 | 1 | 2 | 5 |
+| typhoid | 0 | 0 | 0 | 0 | 0 | 4 | 0 | 4 |
+| shigellosis | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -108,6 +108,8 @@ Source: [News API](https://newsapi.org/)
 - [Poorly treated infections in children may cause convulsions, brain damage, say paediatricians](https://punchng.com/poorly-treated-infections-in-children-may-cause-convulsions-brain-damage-say-paediatricians/) (The Punch)
 
 ## 25-4 (measles)
+
+- [Toronto Public Health warns of possible measles exposure at Pearson Airport](https://www.cbc.ca/news/canada/toronto/toronto-public-health-possible-measles-exposure-1.7441519) (CBC News)
 
 - [Experts saw Samoa's plunging vaccination rates as a crisis. RFK Jr. saw an opportunity.](https://www.nbcnews.com/news/us-news/rfk-jr-samoa-measles-vaccine-crisis-rcna187787) (NBC News)
 
@@ -199,6 +201,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-4 (h5n1)
 
+- [Los humanos tienen anticuerpos que reconocen y neutralizarían al virus de la gripe aviar](https://www.elperiodico.com/es/ciencia/20250124/humanos-anticuerpos-reconocen-neutralizarian-virus-gripe-aviar-113690841) (Elperiodico.com)
+
 - [Los humanos tenemos anticuerpos que reconocen la gripe aviar, aunque deberían expandirse para protegernos del virus](https://www.eldiario.es/sociedad/humanos-anticuerpos-reconocen-gripe-aviar-deberian-expandirse-protegernos-virus_1_11990456.html) (Eldiario.es)
 
 - [Update on the egg affordability president](https://www.lawyersgunsmoneyblog.com/2025/01/update-on-the-egg-affordability-president) (Lawyersgunsmoneyblog.com)
@@ -252,6 +256,10 @@ Source: [News API](https://newsapi.org/)
 - [První úmrtí člověka na ptačí chřipku vyvolává otázku, zda jsme připraveni na další pandemii](https://vtm.zive.cz/clanky/prvni-umrti-cloveka-na-ptaci-chripku-vyvolava-otazku-zda-jsme-pripraveni-na-dalsi-pandemii/sc-870-a-232411/default.aspx) (Zive.cz)
 
 ## 25-4 (dengue)
+
+- [Joga lixo na rua? GDF usará drones para multar sujões. Veja valores](https://www.metropoles.com/distrito-federal/joga-lixo-na-rua-gdf-usara-drones-para-multar-sujoes-veja-valores) (Metropoles.com)
+
+- [Mosquito-borne virus cases triple in Queensland](https://www.abc.net.au/news/2025-01-25/mosquitio-borne-viruses-triple-queensland/104836916) (ABC News (AU))
 
 - [Podemos ter mais casos graves de dengue neste ano, diz secretário de Saúde de SP](https://www.infomoney.com.br/saude/podemos-ter-mais-casos-graves-de-dengue-neste-ano-diz-secretario-de-saude-de-sp/) (InfoMoney)
 
@@ -2807,8 +2815,6 @@ Source: [News API](https://newsapi.org/)
 
 - [2 San Joaquin County farmworkers infected with bird flu after exposure to sick animals](https://www.recordnet.com/story/news/healthcare/2024/12/15/2-san-joaquin-county-farmworkers-test-positive-for-bird-flu/76997469007/) (Stockton Record)
 
-- [« La gestion américaine de la crise du virus H5N1 met, et va continuer à mettre, le monde entier en danger »](https://www.lemonde.fr/idees/article/2024/12/15/la-gestion-americaine-de-la-crise-du-virus-h5n1-met-et-va-continuer-a-mettre-le-monde-entier-en-danger_6449393_3232.html) (Le Monde)
-
 ## 24-51 (dengue)
 
 - [Could mosquitoes deliver vaccines against malaria?](https://www.aljazeera.com/news/2024/12/21/could-mosquitoes-deliver-vaccines-against-malaria) (Al Jazeera English)
@@ -2886,487 +2892,3 @@ Source: [News API](https://newsapi.org/)
 - [El ECDC notifica más de 200 muertes por el virus de Chikungunya en todo el mundo este año](https://www.infosalus.com/salud-investigacion/noticia-ecdc-notifica-mas-200-muertes-virus-chikungunya-todo-mundo-ano-20241218184833.html) (Infosalus.com)
 
 - [Cyclone à Mayotte : Choléra, chikungunya, hépatite A… L’île menacée par les épidémies](https://www.20minutes.fr/sante/4129423-20241216-cyclone-mayotte-cholera-chikungunya-hepatite-ile-menacee-epidemies) (20 Minutes)
-
-- [TWiV 1175: A hitchiker's guide to virology](https://www.microbe.tv/twiv/twiv-1175/) (Microbe.tv)
-
-## 24-50 (zika)
-
-- [RJ tem vacinação contra dengue na Maré e outros 13 locais](https://www.terra.com.br/visao-do-corre/pega-a-visao/rj-tem-vacinacao-contra-dengue-na-mare-e-outros-13-locais,9118ce1e4ca0c69834ba79efdc6f9166zl51ldvl.html) (Terra.com.br)
-
-- [Indonesia joins in malaria research to prevent transmission at IKN](https://en.antaranews.com/news/337846/indonesia-joins-in-malaria-research-to-prevent-transmission-at-ikn) (Antaranews.com)
-
-- [Knowledge, attitudes and practice questionnaires in dengue, Zika, chikungunya and yellow fever settings: a scoping review protocol](https://bmjopen.bmj.com/content/14/12/e090251) (The BMJ)
-
-- [Cientistas alertam para riscos de dengue, chikungunya e a Zika em Portugal](https://observador.pt/2024/12/09/cientistas-alertam-para-riscos-de-dengue-chikungunya-e-a-zika-em-portugal/) (Observador.pt)
-
-## 24-50 (typhoid)
-
-- [An Ancient Killer Is Rapidly Becoming Resistant to Antibiotics, Study Warns](https://www.sciencealert.com/an-ancient-killer-is-rapidly-becoming-resistant-to-antibiotics-study-warns) (ScienceAlert)
-
-## 24-50 (rabies)
-
-- [Cat Tests Positive for Rabies in Abilene](https://sanangelolive.com/news/health/2024-12-13/cat-tests-positive-rabies-abilene) (San Angelo LIVE!)
-
-- [Rabiesfond for hundekjørere i Femundløpet](https://www.nrk.no/innlandet/rabiesfond-for-hundekjorere-i-femundlopet-1.17165583) (NRK)
-
-- [K’taka 3rd in rabies deaths in India from 2021-24](https://timesofindia.indiatimes.com/city/bengaluru/karnataka-ranks-3rd-in-rabies-deaths-in-india-urgent-action-needed/articleshow/116150125.cms) (The Times of India)
-
-## 24-50 (pertussis)
-
-- [From the Lewis County Health Officer: Whooping cough illness rates rising in Washington state, locally](http://www.chronline.com/stories/from-the-lewis-county-health-officer-whooping-cough-illness-rates-rising-in-washington-state,370253) (Centralia Chronicle)
-
-- [Michigan reports 1,500+ whopping cough cases, up from 110 in 2023](https://www.wxyz.com/news/michigan-reports-1-500-whopping-cough-cases-up-from-110-in-2023) (WXYZ)
-
-- [Disease known to hospitalize children is continuing to spread in Michigan](https://www.mlive.com/public-interest/2024/12/disease-known-to-hospitalize-children-is-continuing-to-spread-in-michigan.html) (mlive.com)
-
-- [Cazurile de tuse convulsivă sunt în creștere. Ce semne are boala și de ce este deosebit de periculoasă pentru copiii mici](http://hotnews.ro/cazurile-de-tuse-convulsiva-sunt-in-crestere-ce-semne-are-boala-si-de-ce-este-deosebit-de-periculoasa-pentru-copiii-mici-1859161) (Hotnews.ro)
-
-## 24-50 (mpox)
-
-- [Nieznana choroba w Afryce. Są pierwsze wyniki badań](https://wydarzenia.interia.pl/zagranica/news-nieznana-choroba-w-afryce-sa-pierwsze-wyniki-badan,nId,7875726) (Interia.pl)
-
-- [Mpox became a global health emergency for the second time in 2024](https://www.newscientist.com/article/2459809-mpox-became-a-global-health-emergency-for-the-second-time-in-2024/) (New Scientist)
-
-- [Fears in DRC as mystery disease kills dozens, mainly children](https://www.aljazeera.com/features/2024/12/13/fears-in-drc-as-mystery-disease-kills-dozens-mainly-children) (Al Jazeera English)
-
-- [Congo to get Japan's mpox vaccine for children, Africa CDC says](https://www.japantimes.co.jp/news/2024/12/13/japan/japan-mpox-vaccine-congo/) (The Japan Times)
-
-- [DR Congo reports nearly 54,000 suspected mpox cases this year](https://www.thestar.com.my/news/world/2024/12/13/dr-congo-reports-nearly-54000-suspected-mpox-cases-this-year) (The Star Online)
-
-- [How mpox virus spreads](https://flowingdata.com/2024/12/12/how-mpox-virus-spreads/) (Flowingdata.com)
-
-- [ВООЗ: Кількість випадків малярії зросла на 11 млн](https://ua.korrespondent.net/world/4739422-vooz-kilkist-vypadkiv-maliarii-zrosla-na-11-mln) (Korrespondent.net)
-
-- [Kongo: Was steckt hinter der Krankheit "X"? Erste Daten deuten auf einen alten Bekannten hin](https://www.stern.de/panorama/wissen/im-kongo-wuetet-eine-krankheitswelle--koennte-es-malaria-sein--35288198.html) (STERN.de)
-
-- [Más de 400 contagios y decenas de muertos: qué se sabe sobre la enfermedad que ha puesto a RD Congo en "alerta máxima"](https://www.elespanol.com/ciencia/salud/20241211/contagios-decenas-muertos-sabe-enfermedad-puesto-rd-congo-alerta-maxima/907659789_0.html) (Elespanol.com)
-
-- [Interim Results from STOMP Study of SIGA’s Tecovirimat in Treatment of Mpox Announced](https://www.globenewswire.com/news-release/2024/12/10/2994943/9738/en/Interim-Results-from-STOMP-Study-of-SIGA-s-Tecovirimat-in-Treatment-of-Mpox-Announced.html) (GlobeNewswire)
-
-- [Premiers tests mpox développés sur le continent africain](https://fr.sputniknews.africa/20241210/premiers-tests-mpox-developpes-sur-le-continent-africain-1069644348.html) (Sputniknews.africa)
-
-- [Five new Mpox cases confirmed in Kenya](https://www.standardmedia.co.ke/health/health-science/article/2001507819/five-new-mpox-cases-confirmed-in-kenya) (Standard Digital)
-
-- [La OMS mantiene como alto el riesgo para la salud pública de la nueva variante de mpox](https://www.infosalus.com/actualidad/noticia-oms-mantiene-alto-riesgo-salud-publica-nueva-variante-mpox-20241210115406.html) (Infosalus.com)
-
-- [Congo-Brazzaville: élaboration en cours d'un de plan de vaccination contre le Mpox](https://fr.sputniknews.africa/20241210/congo-brazzaville-elaboration-en-cours-dun-de-plan-de-vaccination-contre-le-mpox-1069630371.html) (Sputniknews.africa)
-
-- [Det här har vi googlat på under 2024](https://www.aftonbladet.se/nyheter/a/Jb3e17/det-har-har-vi-googlat-pa-under-2024) (Aftonbladet.se)
-
-- [ВОЗ фиксирует рост заболеваемости оспой обезьян в Африке в конце 2024 года](https://life.ru/p/1710563) (Life.ru)
-
-- [Morocco produces Africa’s first mpox tests as the continent tries to rely less on imports](https://www.wnd.com/2024/12/morocco-produces-africas-first-mpox-tests-as-the-continent-tries-to-rely-less-on-imports/) (Wnd.com)
-
-- [В Африке с ноября выявили более 2 тыс. случаев оспы обезьян](https://tass.ru/obschestvo/22624001) (Tass.ru)
-
-- [Ticker: NYC ad agency titans Omnicom and Interpublic to form $30B powerhouse; Morocco produces Africa’s first mpox tests](https://www.bostonherald.com/2024/12/09/ticker-nyc-ad-agency-titans-omnicom-and-interpublic-to-form-30b-powerhouse-morocco-produces-africas-first-mpox-tests/) (Boston Herald)
-
-- [«Krankheit X» verbreitet sich in Kongo-Kinshasa – ein unbekannter Erreger verursacht Grippesymptome und Todesfälle](https://www.nzz.ch/wissenschaft/krankheit-x-verursacht-todesfaelle-bei-kindern-in-kongo-kinshasa-ld.1861482) (Www.nzz.ch)
-
-- [Perth gay venue offers free mpox screening, vaccinations](https://www.abc.net.au/news/2024-12-09/perth-gay-venue-offers-free-mpox-screening,/104705224) (ABC News (AU))
-
-- [Morocco produces Africa’s first mpox tests as the continent tries to rely less on imports](https://abcnews.go.com/Health/wireStory/morocco-produces-africas-mpox-tests-continent-rely-imports-116588354) (ABC News)
-
-- [Morocco produces Africa’s first mpox tests as the continent tries to rely less on imports](https://abcnews.go.com/Business/wireStory/morocco-produces-africas-mpox-tests-continent-rely-imports-116588355) (ABC News)
-
-- [Morocco produces Africa’s first mpox tests as the continent tries to rely less on imports](https://abcnews.go.com/International/wireStory/morocco-produces-africas-mpox-tests-continent-rely-imports-116588353) (ABC News)
-
-- [Morocco produces Africa’s first mpox tests as the continent tries to rely less on imports](https://financialpost.com/pmn/morocco-produces-africas-first-mpox-tests-as-the-continent-tries-to-rely-less-on-imports) (Financial Post)
-
-- [Perth gay venue offering free mpox vaccinations as cases rise across Australia](https://www.abc.net.au/news/2024-12-09/perth-gay-sauna-to-offer-free-monkeypox-vaccines/104695122) (ABC News (AU))
-
-## 24-50 (meningitis)
-
-- [Patricia Pérez, emocionada, se rompe en '¡De viernes!' al narrar cómo su marido afronta la ceguera](https://www.elconfidencial.com/television/programas-tv/2024-12-14/patricia-perez-rompe-de-viernes-marido-ceguera-enfermedad_4023832/) (Elconfidencial.com)
-
-- [Patricia Pérez se rompe al hablar de la grave enfermedad de su marido: "Le apartó de todo"](https://www.mundodeportivo.com/elotromundo/television/20241214/1002371045/patricia-perez-rompe-hablar-grave-enfermedad-marido-luis-canut-le-aparto-dct.html) (Mundodeportivo.com)
-
-- [Luis Canut, marido de Patricia Pérez, cuenta cómo afronta su nueva vida: 'Estoy orgulloso de ser ciego'](https://www.hola.com/actualidad/20241214735764/luis-canut-declaraciones-orgulloso-ser-ciego/) (Hola)
-
-- [Luis Canut lanza un reivindicativo mensaje sobre su ceguera: «Estoy muy orgulloso de ser ciego, que es lo que soy»](https://www.abc.es/gente/luis-canut-lanza-reivindicativo-mensaje-sobre-ceguera-20241213184429-nt.html) (Www.abc.es)
-
-- [Brain inflammation may be the reason behind muscle fatigue after infection and injury](https://theconversation.com/brain-inflammation-may-be-the-reason-behind-muscle-fatigue-after-infection-and-injury-239817) (The Conversation Africa)
-
-- [Luis Canut, su lección de vida con el apoyo inquebrantable de Patricia Pérez: "Estoy orgulloso de ser ciego"](https://www.elconfidencialdigital.com/articulo/cotilleo/luis-canut-leccion-vida-apoyo-inquebrantable-patricia-perez-estoy-orgulloso-ser-ciego/20241213111946895637.html) (Elconfidencialdigital.com)
-
-- [Guidance: Meningitis and septicaemia: leaflet for new university entrants](https://www.gov.uk/government/publications/meningitis-and-septicaemia-leaflet-for-new-university-entrants) (Www.gov.uk)
-
-## 24-50 (measles)
-
-- [WA Health issues second measles alert in three days after a second, unrelated case confirmed in Perth](https://www.perthnow.com.au/news/health/wa-health-issues-second-measles-alert-in-three-days-after-a-second-unrelated-case-confirmed-in-perth-c-17063461) (PerthNow)
-
-- [The Bonus Protections of Routine Vaccines](https://www.webmd.com/vaccines/news/20241211/bonus-protections-routine-vaccines) (WebMD)
-
-- [Infectious diseases killed Victorian children at alarming rates — their novels highlight the fragility of public health today](https://www.bostonherald.com/2024/12/11/infectious-diseases-killed-victorian-children-at-alarming-rates-their-novels-highlight-the-fragility-of-public-health-today/) (Boston Herald)
-
-- [WA Health issues measles alert after returned travel visits several healthcare sites while infected](https://7news.com.au/news/wa/wa-health-issues-measles-alert-after-returned-travel-visits-several-healthcare-sites-while-infected-c-17039212) (7NEWS.com.au)
-
-- [WA Health issues measles alert after returned travel visits several healthcare sites while infected](https://www.perthnow.com.au/news/health/wa-health-issues-measles-alert-after-returned-travel-visits-several-healthcare-sites-while-infected-c-17039212) (PerthNow)
-
-- [How Measles, Whooping Cough, and Worse Could Roar Back on RFK Jr.'s Watch](https://www.medpagetoday.com/infectiousdisease/vaccines/113302) (MedPage Today)
-
-- [How measles, whooping cough, and worse could roar back on RFK Jr.’s watch](https://www.bostonherald.com/2024/12/09/measles-whooping-cough-rfk-jr/) (Boston Herald)
-
-- [How measles, whooping cough, and worse could roar back on RFK Jr.’s watch](https://www.pennlive.com/health/2024/12/how-measles-whooping-cough-and-worse-could-roar-back-on-rfk-jrs-watch.html) (PennLive)
-
-## 24-50 (malaria)
-
-- [Malattia del Congo, l’infettivologo: “La malaria contratta più volte determina l’anemia. Il caso di Lucca potrebbe essere influenza”](https://www.ilfattoquotidiano.it/2024/12/14/malattia-del-congo-linfettivologo-la-malaria-contratta-piu-volte-determina-lanemia-il-caso-di-lucca-potrebbe-essere-influenza/7800670/) (Ilfattoquotidiano.it)
-
-- [TWiV 1174: Clinical update with Dr. Daniel Griffin](https://www.microbe.tv/twiv/twiv-1174/) (Microbe.tv)
-
-- [Nigeria accounts for 46% of malaria deaths – WHO](https://punchng.com/nigeria-accounts-for-46-of-malaria-deaths-who/) (The Punch)
-
-- [Nigeria: Experts call for increased funding for malaria intervention](https://www.voanews.com/a/nigeria-experts-call-for-increased-funding-for-malaria-intervention-/7900864.html) (VOA News)
-
-- [SULLA MISTERIOSA MALATTIA IN CONGO NON STIAMO CAPENDO UNA MAZZA – I “CENTRES FOR DISEASE CONTROL AND PREVENTION” DELL’AFRICA HA CHIARITO CHE BISOGNERÀ ASPETTARE ANCORA DEL TEMPO PRIMA DI CONOSCERE GLI AGENTI PATOGENI RESPONSABILI DELL'EPIDEMIA: I TEST SUI PRIMI CAMPIONI SI SONO DIMOSTRATI POCO AFFIDABILI E L’UNICA CERTEZZA È CHE UN PICCOLO NUMERO DI CAMPIONI ANALIZZATI RISULTAVA POSITIVO ALLA MALARIA – I CASI SONO SALITI A 527 E…](https://www.dagospia.com/rubrica-29/cronache/misteriosa-malattia-congo-non-stiamo-capendo-mazza-ndash-418121.htm) (Dagospia.com)
-
-- [OMS avertizează că schimbările climatice reprezintă „o criză sanitară”. Malaria şi holera se vor răspândi mai repede](https://www.digi24.ro/stiri/actualitate/sanatate/oms-avertizeaza-ca-schimbarile-climatice-reprezinta-o-criza-sanitara-malaria-si-holera-se-vor-raspandi-mai-repede-3045825) (Digi24.ro)
-
-- [TU Delft-team Epoch wint AI-prijs om hulp bij malaria-doorbraak](https://www.dutchcowboys.nl/nieuws/tu-delft-team-epoch-wint-ai-prijs-om-hulp-bij-malaria-doorbraak) (Dutchcowboys.nl)
-
-- [Malaria Is Rising With a Vengeance, Killing Massive Numbers, Most in Africa](https://www.motherjones.com/environment/2024/12/malaria-rising-case-numbers-deaths-killer-africa-mosquito-nets-funding-shortfall/) (Mother Jones)
-
-- [Nog altijd geen duidelijkheid over ‘Ziekte X’ in Congo: meer stalen nodig](https://www.gva.be/cnt/dmf20241212_95819252) (Www.gva.be)
-
-- [Warten auf neue Proben](https://www.welt.de/gesundheit/article254856548/Krankheit-X-Wirklich-Malaria-Experten-muessen-auf-neue-Proben-warten.html) (DIE WELT)
-
-- [Nog altijd geen duidelijkheid over ‘Ziekte X’ in Congo: meer stalen nodig](https://www.nieuwsblad.be/cnt/dmf20241212_95771189) (Nieuwsblad.be)
-
-- [Proben mit schlechter Qualität: Weiter keine Gewissheit zu „Krankheit X“ - neue Proben nötig](https://www.tagesspiegel.de/wissen/proben-mit-schlechter-qualitat-weiter-keine-gewissheit-zu-krankheit-x-neue-proben-notig-12866497.html) (Der Tagesspiegel)
-
-- [Proben mit schlechter Qualität: Weiter keine Gewissheit zu "Krankheit X" - neue Proben nötig](https://www.zeit.de/news/2024-12/12/weiter-keine-gewissheit-zu-krankheit-x-neue-proben-noetig) (Die Zeit)
-
-- [DAILY CURRENT AFFAIRS IAS | UPSC Prelims and Mains Exam – 12th December 2024](https://iasbaba.com/2024/12/daily-current-affairs-ias-upsc-prelims-and-mains-exam-12th-december-2024/) (Iasbaba.com)
-
-- [Hardest-hit Nigeria is latest African country to provide malaria vaccine to young children](https://abcnews.go.com/Health/wireStory/hardest-hit-nigeria-latest-african-country-provide-malaria-116712646) (ABC News)
-
-- [Hardest-hit Nigeria is latest African country to provide malaria vaccine to young children](https://abcnews.go.com/International/wireStory/hardest-hit-nigeria-latest-african-country-provide-malaria-116712645) (ABC News)
-
-- [New study rates vaccine in malaria treatment](https://punchng.com/new-study-rates-vaccine-in-malaria-treatment/) (The Punch)
-
-- [Gene drive tech could reshape malaria control in Africa – Report](https://punchng.com/gene-drive-tech-could-reshape-malaria-control-in-africa-report/) (The Punch)
-
-- [Enfermedad misteriosa en Congo podría ser malaria, afirman autoridades](https://www.milenio.com/internacional/enfermedad-misteriosa-congo-malaria-afirman-autoridades) (Milenio)
-
-- [Mysterious ‘Disease X’ Outbreak Might Be Malaria. What We Know](https://www.scientificamerican.com/article/mysterious-disease-x-outbreak-might-be-malaria-what-we-know/) (Scientific American)
-
-- [Congo's Mystery Disease Might Be Malaria: Authorities](https://www.newsweek.com/congos-mystery-disease-might-malaria-authorities-1999343) (Newsweek)
-
-- [Authorities say the mystery disease in Congo might be malaria but more testing is needed](https://abcnews.go.com/Health/wireStory/authorities-mystery-disease-congo-malaria-testing-needed-116682334) (ABC News)
-
-- [Authorities say the mystery disease in Congo might be malaria but more testing is needed](https://abcnews.go.com/International/wireStory/authorities-mystery-disease-congo-malaria-testing-needed-116682323) (ABC News)
-
-- [Tien patiënten met mysterieuze ziekte in Congo hebben ook malaria](https://nos.nl/l/2547941) (Nos.nl)
-
-- [Reaktion auf die „Krankheit X“ zeigt laut Experten Mangel auf](https://www.faz.net/aktuell/wissen/medizin-ernaehrung/tropenmediziner-reaktion-auf-krankheit-x-zeigt-mangel-auf-110168811.html) (Faz.net)
-
-- [Kongo: Was steckt hinter der Krankheit "X"? Erste Daten deuten auf einen alten Bekannten hin](https://www.stern.de/panorama/wissen/im-kongo-wuetet-eine-krankheitswelle--koennte-es-malaria-sein--35288198.html) (STERN.de)
-
-- [„Krankheit X“ ist wohl Malaria – aber das ist kein Grund zur Entwarnung](https://www.welt.de/debatte/kommentare/article254839938/Krankheit-X-ist-wohl-Malaria-kein-Grund-zur-Entwarnung.html) (DIE WELT)
-
-- [Krankeitsausbruch im Kongo: Tropenmediziner warnt vor verschleppter Pandemiebekämpfung](https://www.tagesspiegel.de/wissen/krankeitsausbruch-im-kongo-tropenmediziner-warnt-vor-verschleppter-pandemiebekampfung-12858208.html) (Der Tagesspiegel)
-
-- [Tropenmediziner kritisiert Umgang mit „Krankeit X“: „Wir können froh sein, dass es kein hochansteckender Erreger ist“](https://www.tagesspiegel.de/wissen/tropenmediziner-kritisiert-umgang-mit-krankeit-x-wir-konnen-froh-sein-dass-es-kein-hochansteckender-erreger-ist-12858208.html) (Der Tagesspiegel)
-
-- [Asp Cosenza,nessun contagio da paziente con sintomi Febbre Congo](https://www.ansa.it/calabria/notizie/2024/12/11/asp-cosenzanessun-contagio-da-paziente-con-sintomi-febbre-congo_9bbfdfc3-13a3-4881-8dcb-44cb597cbf97.html) (ANSA.it)
-
-- [Le nombre de cas de malaria a augmenté de 11 millions dans le monde en 2023: "Personne ne devrait succomber à cette maladie" (infographies)](https://www.lavenir.net/actu/monde/2024/12/11/le-nombre-de-cas-de-malaria-a-augmente-de-11-millions-dans-le-monde-en-2023-personne-ne-devrait-succomber-a-cette-maladie-infographies-55YZRDU2RVGRFH6YEOWOWC3HL4/) (Lavenir.net)
-
-- [Malattia del Congo e malaria, i dubbi degli scienziati italiani: “Ci sono sintomi respiratori, ipotizzare anche altro”](https://www.ilfattoquotidiano.it/2024/12/11/malattia-congo-malaria-dubbi-scienziati-ipotizzare-altro/7800576/) (Ilfattoquotidiano.it)
-
-- [Erste Indizien sprechen für Malaria](https://science.orf.at/stories/3228003/) (Science.orf.at)
-
-- [Malariafälle nehmen noch immer weltweit zu](https://www.dw.com/de/malariaf%C3%A4lle-nehmen-noch-immer-weltweit-zu/a-71022368) (DW (English))
-
-- [Malattia del Congo, arrivano i primi test: "L'80% dei campioni positivi alla malaria"](https://www.ilgiornale.it/news/cronaca-internazionale/malattia-congo-arrivano-i-primi-test-l80-dei-campioni-2410317.html) (Ilgiornale.it)
-
-- [Malattia del Congo, i primi test rivelano che alcuni pazienti hanno la malaria](https://www.lastampa.it/esteri/2024/12/11/news/malattia_congo_malaria-14877488/) (Lastampa.it)
-
-- [Oms, in Congo dai primi test 80% campioni positivi a malaria](https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2024/12/11/-omsin-congo-da-primi-test-80-campioni-positivi-a-malaria-_f11cc990-edd6-461f-9ec4-166766ffdea2.html) (ANSA.it)
-
-- [La ONU alerta de que la malaria acabó con la vida de 600.000 personas en 2023](https://www.abc.es/sociedad/onu-alerta-malaria-acabo-vida-600000-personas-20241211102852-nt.html) (Www.abc.es)
-
-- [++ Oms,in Congo da primi test 80% campioni positivi a malaria ++](https://www.ansa.it/sito/notizie/flash/2024/12/11/-omsin-congo-da-primi-test-80-campioni-positivi-a-malaria-_33de6e23-21f4-43a7-8c2e-5650eca72ec8.html) (ANSA.it)
-
-- [Malaria: Drug resistance and fragile health systems are hindering progress, WHO warns](https://www.bmj.com/content/387/bmj.q2776) (The BMJ)
-
-- [WHO: Milliarden Malariafälle seit 2000 verhindert](https://orf.at/stories/3378624/) (Orf.at)
-
-- [Malaria Mortality Returns To Pre-Covid Levels: WHO](https://www.ndtv.com/world-news/malaria-mortality-returns-to-pre-covid-levels-who-7223010) (NDTV News)
-
-- [Aantal malariagevallen stijgt voor vijfde jaar op rij, dodentol blijft stabiel](https://www.hbvl.be/cnt/dmf20241211_93178043) (Hbvl.be)
-
-- [Udviklingen går den forkerte vej: Flere malaria-tilfælde i 2023](https://www.dr.dk/nyheder/seneste/udviklingen-gaar-den-forkerte-vej-flere-malaria-tilfaelde-i-2023) (Www.dr.dk)
-
-- [Aantal malariagevallen stijgt voor vijfde jaar op rij, dodentol blijft stabiel](https://www.gva.be/cnt/dmf20241211_93053269) (Www.gva.be)
-
-- [Aantal malariagevallen stijgt voor vijfde jaar op rij, dodentol blijft stabiel](https://www.nieuwsblad.be/cnt/dmf20241211_92960138) (Nieuwsblad.be)
-
-- [Malaria Mortality Returns To Pre-Covid Levels: WHO](https://www.ibtimes.com/malaria-mortality-returns-pre-covid-levels-who-3754966) (International Business Times)
-
-- [“Ze hebben mogelijk meer dan één ziekte”: patiënten met ‘mysterieuze ziekte’ testen ook positief op malaria](https://www.hbvl.be/cnt/dmf20241211_92848946) (Hbvl.be)
-
-- [“Ze hebben mogelijk meer dan één ziekte”: patiënten met ‘mysterieuze ziekte’ in Congo testen ook positief op malaria](https://www.gva.be/cnt/dmf20241211_92691329) (Www.gva.be)
-
-- [“Ze hebben mogelijk meer dan één ziekte”: patiënten met ‘mysterieuze ziekte’ testen ook positief op malaria](https://www.nieuwsblad.be/cnt/dmf20241211_92660763) (Nieuwsblad.be)
-
-- [Malaria parasites require a divergent heme oxygenase for apicoplast gene expression and biogenesis](https://elifesciences.org/articles/100256) (Elifesciences.org)
-
-- [Rätselhafte Epidemie könnte Malaria sein](https://www.welt.de/gesundheit/article254831910/Krankheit-X-Altbekannte-Erreger-koennten-fuer-die-raetselhafte-Epidemie-im-Kongo-verantwortlich-sein.html) (DIE WELT)
-
-- [WHO findet Hinweise auf Malaria bei "Krankheit X"](https://www.tagesschau.de/ausland/afrika/who-krankheit-x-malaria-kongo-100.html) (tagesschau.de)
-
-- [WHO: Viele „Krankheit X“-Patienten haben Malaria](https://www.diepresse.com/19165404/who-viele-krankheit-x-patienten-haben-malaria) (Diepresse.com)
-
-- [Demokratische Republik Kongo: Viele Patienten mit "Krankheit X" haben offenbar Malaria](https://www.zeit.de/gesellschaft/2024-12/krankheit-x-kongo-who-malaria) (Die Zeit)
-
-- [„Krankheit X“: Viele Infizierte hatten Malaria](https://orf.at/stories/3378580/) (Orf.at)
-
-- [Unbekannte Krankheit im Kongo: WHO: Viele „Krankheit X“-Patienten haben Malaria](https://www.tagesspiegel.de/wissen/unbekannte-krankheit-im-kongo-who-viele-krankheit-x-patienten-haben-malaria-12854276.html) (Der Tagesspiegel)
-
-- [Unbekannte Krankheit im Kongo: WHO: Viele "Krankheit X"-Patienten haben Malaria](https://www.zeit.de/news/2024-12/10/who-viele-krankheit-x-patienten-haben-malaria) (Die Zeit)
-
-- [Unbekannte Krankheit im Kongo: WHO: Viele "Krankheit X"-Patienten haben Malaria](https://www.stern.de/panorama/wissen/unbekannte-krankheit-im-kongo--who--viele--krankheit-x--patienten-haben-malaria-35300102.html) (STERN.de)
-
-- [Determining household out of pocket payments, incidence of catastrophic expenditures and impoverishment among patients with malaria in Zambia’s path towards Universal Health Coverage](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0312906) (Plos.org)
-
-- [Association of COVID-19-related perceptions and experiences with depression and anxiety in Ugandan caregivers of young children with malaria and iron deficiency: A cross-sectional study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0314409) (Plos.org)
-
-- [Protecting the most vulnerable: The urgent need to include HIV-exposed children in malaria chemoprevention strategies](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004498) (Plos.org)
-
-- [Distruggere la malaria alla radice ora è possibile grazie a questa scoperta casuale](https://tech.everyeye.it/notizie/distruggere-malaria-radice-possibile-scoperta-casuale-763354.html) (Everyeye.it)
-
-- [A potent and selective reaction hijacking inhibitor of Plasmodium falciparum tyrosine tRNA synthetase exhibits single dose oral efficacy in vivo](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012429) (Plos.org)
-
-- [Correction: Expanding the role of village malaria workers in Cambodia: Implementation and evaluation of four health education packages](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0315636) (Plos.org)
-
-- [Sin ciencia no hay salud, sin salud no hay futuro](https://www.abc.es/economia/ciencia-salud-salud-futuro-20241209161117-nt.html) (Www.abc.es)
-
-- [„Krankheit X“ vielleicht Folge von Malaria oder Covid-19](https://science.orf.at/stories/3227930/) (Science.orf.at)
-
-- [WHO untersucht Fälle: "Krankheit X" vielleicht Folge von Malaria oder Covid-19](https://www.n-tv.de/wissen/Krankheit-X-vielleicht-Folge-von-Malaria-oder-Covid-19-article25418353.html) (N-tv.de)
-
-- [Kongo: WHO vermutet "Krankheit X" als Folge von Malaria oder Covid-19](https://www.zeit.de/gesundheit/2024-12/krankheit-x-kongo-who-ursache-covid-malaria) (Die Zeit)
-
-- [WHO: „Krankheit X“ vielleicht Folge von Malaria oder Covid](https://www.morgenpost.de/panorama/article407856892/who-krankheit-x-vielleicht-folge-von-malaria-oder-covid.html) (Berliner Morgenpost)
-
-- [“Onbekende ziekte” in Congo mogelijk gevolg van malaria of COVID-19, zegt WHO](https://www.hbvl.be/cnt/dmf20241208_97858832) (Hbvl.be)
-
-- [“Onbekende ziekte” in Congo mogelijk gevolg van malaria of COVID-19, zegt WHO](https://www.gva.be/cnt/dmf20241208_97713233) (Www.gva.be)
-
-- [“Onbekende ziekte” in Congo mogelijk gevolg van malaria of COVID-19, zegt WHO](https://www.nieuwsblad.be/cnt/dmf20241208_97675932) (Nieuwsblad.be)
-
-- [Promising New Malaria Vaccine Can Be Injected by Mosquito Bite](https://www.sciencealert.com/promising-new-malaria-vaccine-can-be-injected-by-mosquito-bite) (ScienceAlert)
-
-## 24-50 (leptospirosis)
-
-- [Over 10,000 rat fever cases reported in Sri Lanka in 2024](https://www.thestar.com.my/news/world/2024/12/12/over-10000-rat-fever-cases-reported-in-sri-lanka-in-2024) (The Star Online)
-
-- [A cesspool of scum, toxic rot and viruses](https://www.thestar.com.my/news/nation/2024/12/12/a-cesspool-of-scum-toxic-rot-and-viruses) (The Star Online)
-
-- [Leptospira seroprevalence and associated risk factors among slaughterhouse workers in Western Bahr El Ghazal State, South Sudan](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012700) (Plos.org)
-
-## 24-50 (hpai)
-
-- [A Single Mutation Could Cause Bird Flu To Become Transmissible Between Humans](https://www.shtfplan.com/headline-news/a-single-mutation-could-cause-bird-flu-to-become-transmissible-between-humans) (Shtfplan.com)
-
-- [Statutory guidance: Bird flu: general licence for the movement of poultry carcases for disposal from premises in a protection zone in England (EXD339(HPAI)(E))](https://www.gov.uk/government/publications/bird-flu-general-licence-for-the-movement-of-poultry-carcases-for-disposal-from-premises-in-a-protection-zone-in-england-exd339hpaie) (Www.gov.uk)
-
-- [Replication Restriction of Influenza A(H5N1) Clade 2.3.4.4b Viruses by Human Immune Factor, 2023–2024](https://wwwnc.cdc.gov/eid/article/31/1/24-1236_article) (Cdc.gov)
-
-## 24-50 (h5n1)
-
-- [H5N1. Ozempic. Toxic drugs. Here are the health stories we're watching in 2025](https://www.cbc.ca/news/health/second-opinion-yearender-2024-1.7410395) (CBC News)
-
-- [For Wild Animals, the Bird Flu Disaster Is Already Here (Emily Anthes/New York Times)](https://www.memeorandum.com/241213/p70) (Memeorandum.com)
-
-- [Friday headlines: Future perfunct](https://themorningnews.org/p/friday-headlines-future-perfunct) (Themorningnews.org)
-
-- [Домашние кошки могут болеть птичьим гриппом: ученые встревожены](https://hi-tech.mail.ru/news/119394-domashnie-koshki-mogut-bolet-ptichim-grippom-uchenye-vstrevozheny/) (Mail.ru)
-
-- [전북 부안서 고병원성 AI…올 겨울철 열 번째 사례](https://www.khan.co.kr/article/202412132140001) (Khan.co.kr)
-
-- [Američtí epidemiologové vyzývají: Připravte se na pandemii ptačí chřipky](https://vtm.zive.cz/clanky/americti-epidemiologove-vyzyvaji-pripravte-se-na-pandemii-ptaci-chripky/sc-870-a-231790/default.aspx) (Zive.cz)
-
-- [Two Cats Die After Consuming Recalled Raw Milk—LA Health Authorities Suspect They Contracted Bird Flu](https://www.forbes.com/sites/siladityaray/2024/12/13/two-cats-die-after-consuming-recalled-raw-milk-la-health-authorities-suspect-they-contracted-bird-flu/) (Forbes)
-
-- [La amenaza silenciosa de los gatos: pueden ser el último eslabón para que la gripe aviar se transmita entre humanos](https://www.elespanol.com/ciencia/salud/20241213/amenaza-silenciosa-gatos-pueden-ultimo-eslabon-gripe-aviar-transmita-humanos/908159611_0.html) (Elespanol.com)
-
-- [CDC finds no evidence of bird flu virus in California child](https://www.statnews.com/2024/12/12/bird-flu-california-toddler-cdc-no-evidence-virus/) (STAT)
-
-- [Los caballos se pueden contagiar del virus H5N1 de la gripe aviar, pero la infección pasa desapercibida](https://www.infosalus.com/salud-investigacion/noticia-caballos-pueden-contagiar-virus-h5n1-gripe-aviar-infeccion-pasa-desapercibida-20241212190649.html) (Infosalus.com)
-
-- [La gripe aviar podría infectar a humanos con solo una pequeña mutación, según un reciente hallazgo](https://www.lavanguardia.com/andro4all/ciencia/la-gripe-aviar-podria-infectar-a-humanos-con-solo-una-pequena-mutacion-segun-un-reciente-hallazgo) (La Vanguardia)
-
-- [Aggódva figyelnek a tudósok: házi macskákban mutálódhat a halálos vírus](https://www.portfolio.hu/global/20241212/aggodva-figyelnek-a-tudosok-hazi-macskakban-mutalodhat-a-halalos-virus-729497) (Portfolio.hu)
-
-- [Grippe aviaire : nous ne sommes plus qu’à une mutation d’une transmission entre les humains, le pire scénario !](https://www.futura-sciences.com/sante/actualites/grippe-aviaire-grippe-aviaire-nous-ne-sommes-plus-qua-mutation-transmission-humains-pire-scenario-118205/) (Futura)
-
-- [On frôle la catastrophe : la grippe aviaire n’est plus qu’à une mutation de déclencher une pandémie humaine !](https://www.futura-sciences.com/sante/actualites/grippe-aviaire-on-frole-catastrophe-grippe-aviaire-nest-plus-qua-mutation-declencher-pandemie-humaine-118205/) (Futura)
-
-- [В Роспотребнадзоре назвали риск перехода гриппа птиц на людей высоким](https://vfokuse.mail.ru/article/v-rospotrebnadzore-nazvali-risk-perehoda-grippa-ptic-na-lyudey-vysokim-64041781/) (Mail.ru)
-
-- [Эксперт Кутырев: существует порядка 10 тыс. неизученных вирусов животных](https://news.mail.ru/society/64041613/) (Mail.ru)
-
-- [Gripe aviária: uma única mutação pode facilitar infecção em humanos](https://olhardigital.com.br/2024/12/12/medicina-e-saude/gripe-aviaria-uma-unica-mutacao-pode-facilitar-infeccao-em-humanos/) (Olhardigital.com.br)
-
-- [Глава Роспотребнадзора заявила о высоком риске перехода птичьего гриппа на людей](https://life.ru/p/1711285) (Life.ru)
-
-- [Möwe mit Vogelgrippe am Bodensee entdeckt](https://vorarlberg.orf.at/stories/3284958/) (Vorarlberg.orf.at)
-
-- [Bird flu virus has been found in raw milk. Here's a reminder of how pasteurization improves safety](https://www.pbs.org/newshour/health/bird-flu-virus-has-been-found-in-raw-milk-heres-a-reminder-of-how-pasteurization-improves-safety) (PBS)
-
-- [California Child May Have Bird Flu After Drinking Raw Milk](https://www.medpagetoday.com/infectiousdisease/publichealth/113341) (MedPage Today)
-
-- [California child ‘may have caught H5N1 virus from raw milk’](https://syndication.washingtonpost.com/nss/stories/UO7UWZANX5BZHFDUXIYZLGEBLI) (The Washington Post)
-
-- [Bird flu cases reported at Wildlife World Zoo: MCDPH](https://www.fox10phoenix.com/news/bird-flu-cases-reported-wildlife-world-zoo-mcdph) (FOX 10 News Phoenix)
-
-- [Virus most likely to cause next pandemic 'could be passed to humans' from horses](https://news.sky.com/story/virus-most-likely-to-cause-next-pandemic-could-be-passed-to-humans-from-horses-study-finds-13271625) (Sky.com)
-
-- [Nova pandemia? Gripe aviária está a uma mutação de chegar aos humanos, alertam cientistas](https://saude.ig.com.br/2024-12-11/nova-pandemia-gripe-aviaria-mutacao-humanos.html) (Ig.com.br)
-
-- [América enfrenta peor epidemia de dengue en más de 40 años](https://www.nacion.com/el-mundo/america-enfrenta-peor-epidemia-de-dengue-en-mas-de/672Q2FBIGVFW3HDKCKRDZ3JA4Q/story/) (Nacion.com)
-
-- [Ausgabe 53/2024: Unsere Quellen](https://www.zeit.de/wq/2024-53) (Die Zeit)
-
-- [Vogelgrippevirus: Nur noch ein Schritt?](https://www.zeit.de/2024/53/vogelgrippe-virus-uebertragung-mensch-mutation) (Die Zeit)
-
-- [Wednesday, December 11, 2024](https://kffhealthnews.org/morning-briefing/wednesday-december-11-2024/) (Kffhealthnews.org)
-
-- [V košickej zoo potvrdili vtáčiu chrípku. Pre verejnosť je zatvorená](https://spravy.pravda.sk/domace/clanok/733821-v-kosickej-zoo-potvrdili-vtaciu-chripku-pre-verejnost-je-zatvorena/) (Pravda.sk)
-
-- [Simulations Suggest Flu Virus Vulnerability](https://physics.aps.org/articles/v17/177) (Aps.org)
-
-- [禽流感有變異跡象，專家：恐大流行](https://technews.tw/2024/12/11/bird-flu-shows-signs-of-mutation/) (Technews.tw)
-
-- [Tierseuchen: Geflügelpest bei Wildvögeln in Dithmarschen festgestellt](https://www.zeit.de/news/2024-12/11/gefluegelpest-bei-wildvoegeln-in-dithmarschen-festgestellt) (Die Zeit)
-
-- [Grippe aviaire : Les mutations du virus et les cas humains inquiètent les experts](https://www.20minutes.fr/societe/4128504-20241211-grippe-aviaire-mutations-virus-cas-humains-inquietent-experts) (20 Minutes)
-
-- [Pandemic Experts Are Worried About Bird Flu](https://www.huffpost.com/entry/bird-flu-pandemic-experts_l_67584c7ae4b0f51b80bdccf5) (HuffPost)
-
-- [Alerta vermelho: gripe aviária a um passo de infectar humanos](https://olhardigital.com.br/2024/12/11/medicina-e-saude/alerta-vermelho-gripe-aviaria-a-um-passo-de-infectar-humanos/) (Olhardigital.com.br)
-
-- [Gripe aviária está a uma mutação de ser transmitida entre humanos](https://www.metropoles.com/saude/gripe-aviaria-a-uma-mutacao-infectar-humanos) (Metropoles.com)
-
-- [Government to test milk for bird flu | CNN](https://www.cnn.com/2024/12/10/health/video/gupta-bird-flu-raw-milk-on-call-digvid) (CNN)
-
-- [Kuş gribi H5N1'in tek bir mutasyonu yeni bir pandemiye neden olabilir](https://www.patronlardunyasi.com/kus-gribi-h5n1in-tek-bir-mutasyonu-yeni-bir-pandemiye-neden-olabilir) (Patronlardunyasi.com)
-
-- [¿Estamos a un paso de una nueva pandemia? La gripe aviar está a una mutación de que se propague entre humanos](https://www.infosalus.com/salud-investigacion/noticia-estamos-paso-nueva-pandemia-gripe-aviar-mutacion-propague-humanos-20241210074949.html) (Infosalus.com)
-
-- [Bird Flu Poised To Spark Next Global Pandemic, Experts Warn Of Rising Risks](https://www.ndtv.com/science/bird-flu-poised-to-spark-the-next-global-pandemic-experts-warn-of-rising-risks-7213390) (NDTV News)
-
-- [Replication Restriction of Influenza A(H5N1) Clade 2.3.4.4b Viruses by Human Immune Factor, 2023–2024](https://wwwnc.cdc.gov/eid/article/31/1/24-1236_article) (Cdc.gov)
-
-- [A Single Mutation Could Bring Bird Flu a Critical Step Closer to a New Pandemic](https://www.sciencealert.com/a-single-mutation-could-bring-bird-flu-a-critical-step-closer-to-a-new-pandemic) (ScienceAlert)
-
-- [What are your questions about bird flu and milk? | CNN](https://www.cnn.com/2024/12/09/health/milk-bird-flu-gupta-callout/index.html) (CNN)
-
-- [A Single Mutation Could Send Avian Flu From Birds to Humans](https://www.popularmechanics.com/science/health/a63119336/single-mutation-bird-flu-humans/) (Popular Mechanics)
-
-- [¿Podría la gripe aviar H5N1 representar un riesgo para los humanos?](https://www.dw.com/es/podr%C3%ADa-la-gripe-aviar-h5n1-representar-un-riesgo-para-los-humanos/a-71006872) (DW (English))
-
-- [Nur eine Mutation trennt Vogelgrippe vom Menschen](https://www.krone.at/3620337) (Krone.at)
-
-- [El 61% de los argentinos ve poco o nada grave querer reducir el Estado al mínimo.](https://finofilipino.org/el-61-de-los-argentinos-ve-poco-o-nada-grave-querer-reducir-el-estado-al-minimo/) (Finofilipino.org)
-
-- [Edad media a la que la gente joven deja el hogar paterno en Europa (2023)](https://finofilipino.org/edad-media-a-la-que-la-gente-joven-deja-el-hogar-paterno-en-europa-2023/) (Finofilipino.org)
-
-- [Mi extraña adicción: ¿Real o FALSO?](https://finofilipino.org/mi-extrana-adiccion-real-o-falso/) (Finofilipino.org)
-
-- [Alguien se ha quedado a gusto hoy en la redacción de La Sexta…](https://finofilipino.org/alguien-se-ha-quedado-a-gusto-hoy-en-la-redaccion-de-la-sexta/) (Finofilipino.org)
-
-- [La parte mala de la adolescencia de un hombre es una inversión de futuro.](https://finofilipino.org/la-parte-mala-de-la-adolescencia-de-un-hombre-es-una-inversion-de-futuro/) (Finofilipino.org)
-
-- [Estamos a una sola mutación de que el virus H5N1 se contagie entre humanos](https://finofilipino.org/estamos-a-una-sola-mutacion-de-que-el-virus-h5n1-se-contagie-entre-humanos/) (Finofilipino.org)
-
-- [Quels pays ont le mieux géré la crise du Covid-19 ? Une étude scientifique apporte la réponse](https://www.lexpress.fr/sciences-sante/quels-pays-ont-le-mieux-gere-la-crise-du-covid-19-une-etude-scientifique-apporte-la-reponse-5LTIVL2YNBCGNESJV5CQEFVB3Y/) (L'Express)
-
-- [US government to begin expanded testing of milk supply to better track the spread of bird flu](https://www.wesh.com/article/us-expanded-testing-of-milk-supply-track-spread-of-bird-flu/63118481) (WESH Orlando)
-
-## 24-50 (dengue)
-
-- [[Kolom Pakar] Prof Tjandra Yoga Aditama: Hujan dan Antisipasi Dengue](https://www.liputan6.com/health/read/5834610/kolom-pakar-prof-tjandra-yoga-aditama-hujan-dan-antisipasi-dengue) (Liputan6.com)
-
-- [Dengue: 1,342 cases, two deaths reported from Dec 3 to Dec 9, says Health DG](https://www.thestar.com.my/news/nation/2024/12/14/dengue-1342-cases-two-deaths-reported-from-dec-3-to-dec-9-says-health-dg) (The Star Online)
-
-- [Mais de 70% dos moradores de São Paulo estão suscetíveis à dengue, aponta estudo](https://veja.abril.com.br/saude/mais-de-70-dos-moradores-de-sao-paulo-estao-suscetiveis-a-dengue-aponta-estudo) (Abril.com.br)
-
-- [RJ tem vacinação contra dengue na Maré e outros 13 locais](https://www.terra.com.br/visao-do-corre/pega-a-visao/rj-tem-vacinacao-contra-dengue-na-mare-e-outros-13-locais,9118ce1e4ca0c69834ba79efdc6f9166zl51ldvl.html) (Terra.com.br)
-
-- [Malaria Is Rising With a Vengeance, Killing Massive Numbers, Most in Africa](https://www.motherjones.com/environment/2024/12/malaria-rising-case-numbers-deaths-killer-africa-mosquito-nets-funding-shortfall/) (Mother Jones)
-
-- [Nova classe de antivirais pode ajudar a combater futuras pandemias](https://olhardigital.com.br/2024/12/13/medicina-e-saude/nova-classe-de-antivirais-pode-ajudar-a-combater-futuras-pandemias/) (Olhardigital.com.br)
-
-- [Epidemiology of Dengue - Puerto Rico, 2010-2024](https://www.cdc.gov/mmwr/volumes/73/wr/mm7349a1.htm) (Cdc.gov)
-
-- [Cost of dengue in Colombia: A systematic review](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012718) (Plos.org)
-
-- [Geographically weighted regression analysis for nonnegative continuous outcomes: An application to Taiwan dengue data](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0315327) (Plos.org)
-
-- [La Réunion va tester l’introduction de moustiques stériles pour limiter la dengue et le chikungunya](https://www.ouest-france.fr/region-la-reunion/la-reunion-va-tester-lintroduction-de-moustiques-steriles-pour-limiter-la-dengue-et-le-chikungunya-3e41b384-b86c-11ef-ae82-b812024140bb) (Ouest-France)
-
-- [Il bilancio della dengue](https://www.internazionale.it/magazine/2024/12/12/il-bilancio-della-dengue) (Internazionale.it)
-
-- [Los expertos avisan de que la próxima pandemia será por gripe e instan a aprobar la especialidad de enfermedades infecciosas](https://www.meneame.net/m/actualidad/expertos-avisan-proxima-pandemia-sera-gripe-instan-aprobar) (Meneame.net)
-
-- [Dia D contra dengue promove ações de conscientização no próximo sábado (14)](https://ultimosegundo.ig.com.br/parceiros/gps-brasilia/2024-12-11/dia-d-contra-dengue-promove-acoes-de-conscientizacao-no-proximo-sabado-14.html) (Ig.com.br)
-
-- [América enfrenta peor epidemia de dengue en más de 40 años](https://www.nacion.com/el-mundo/america-enfrenta-peor-epidemia-de-dengue-en-mas-de/672Q2FBIGVFW3HDKCKRDZ3JA4Q/story/) (Nacion.com)
-
-- [Dengue ha enviado a 46 menores al Hospital de Niños](https://www.nacion.com/el-pais/dengue-ha-enviado-a-46-menores-al-hospital-de/AB5YBFZENFFBFDOYSZHQCJ3VRI/story/) (Nacion.com)
-
-- [Indonesia joins in malaria research to prevent transmission at IKN](https://en.antaranews.com/news/337846/indonesia-joins-in-malaria-research-to-prevent-transmission-at-ikn) (Antaranews.com)
-
-- [Casos de dengue batem recorde nas Américas em 2024](https://www.dw.com/pt-br/casos-de-dengue-batem-recorde-nas-am%C3%A9ricas-em-2024/a-71023485) (DW (English))
-
-- [Klimapolitik - Dengue-Fieber: Was hilft und wie schützt man sich?](https://www.focus.de/earth/klimapolitik/dengue-fieber-was-hilft-und-wie-schuetzt-man-sich_cbecca7b-a985-44fa-8029-d62bb71350dc.html) (Focus)
-
-- [Growth Trends in the Dengue Vaccines Industry, 2024-2028 & 2033](https://www.globenewswire.com/news-release/2024/12/11/2995151/28124/en/Growth-Trends-in-the-Dengue-Vaccines-Industry-2024-2028-2033.html) (GlobeNewswire)
-
-- [Évtizedek óta nem látott méreteket ölt a dengue-lázas esetszám Amerikában](https://www.origo.hu/nagyvilag/2024/12/dengue-laz-szunyog-del-kozep-amerika) (Origo.hu)
-
-- [Nel Sud e nel Centro America non ci sono mai stati tanti casi di dengue come quest’anno](https://www.ilpost.it/2024/12/11/dengue-sud-centro-america-dengue/) (Ilpost.it)
-
-- [Record outbreak of Dengue fever in Central and South America](https://www.bbc.com/news/articles/czendjlx849o) (BBC News)
-
-- [Cocirculation of 4 Dengue Virus Serotypes, Putumayo Amazon Basin, 2023–2024](https://wwwnc.cdc.gov/eid/article/31/1/24-0888_article) (Cdc.gov)
-
-- [Concerns Raised as Dengue Spreads in the Americas at Record-Setting Pace](https://www.newsweek.com/concerns-raised-dengue-spreads-americas-record-setting-pace-1998834) (Newsweek)
-
-- [Knowledge, attitudes and practice questionnaires in dengue, Zika, chikungunya and yellow fever settings: a scoping review protocol](https://bmjopen.bmj.com/content/14/12/e090251) (The BMJ)
-
-- [Brasil lidera casos e mortes por dengue num ano recorde nas Américas](https://observador.pt/2024/12/10/brasil-lidera-casos-e-mortes-por-dengue-num-ano-recorde-nas-americas/) (Observador.pt)
-
-- [Dengue cases set a new record in the Americas this year as deaths also surge](https://www.bostonherald.com/2024/12/10/dengue-cases-new-record-americas/) (Boston Herald)
-
-- [Cambio climático triplicó casos de dengue, la epidemia más grande de las Américas: OPS](https://www.milenio.com/ciencia-y-salud/cambio-climatico-triplica-casos-dengue-americas-ops) (Milenio)
-
-- [Dengue cases set a new record in the Americas this year as deaths also surge](https://abcnews.go.com/International/wireStory/dengue-cases-set-new-record-americas-year-deaths-116650805) (ABC News)
-
-- [Dengue cases set a new record in the Americas this year as deaths also surge](https://abcnews.go.com/Health/wireStory/dengue-cases-set-new-record-americas-year-deaths-116650806) (ABC News)
-
-- [Schon 12,6 Millionen Fälle dieses Jahr: Lateinamerika erlebt schwere Dengue-Epidemie](https://www.tagesspiegel.de/gesundheit/schon-126-millionen-falle-dieses-jahr-lateinamerika-erlebt-schwere-dengue-epidemie-12854444.html) (Der Tagesspiegel)
-
-- [El dengue deja un récord de 12,6 millones de casos y 7.713 muertes en 2024 en América](https://www.montevideo.com.uy/Salud/El-dengue-deja-un-record-de-12-6-millones-de-casos-y-7-713-muertes-en-2024-en-America-uc909102) (Montevideo.com.uy)
-
-- [Cientistas alertam para riscos de dengue, chikungunya e a Zika em Portugal](https://observador.pt/2024/12/09/cientistas-alertam-para-riscos-de-dengue-chikungunya-e-a-zika-em-portugal/) (Observador.pt)
-
-## 24-50 (chikungunya)
-
-- [RJ tem vacinação contra dengue na Maré e outros 13 locais](https://www.terra.com.br/visao-do-corre/pega-a-visao/rj-tem-vacinacao-contra-dengue-na-mare-e-outros-13-locais,9118ce1e4ca0c69834ba79efdc6f9166zl51ldvl.html) (Terra.com.br)
-
-- [La Réunion va tester l’introduction de moustiques stériles pour limiter la dengue et le chikungunya](https://www.ouest-france.fr/region-la-reunion/la-reunion-va-tester-lintroduction-de-moustiques-steriles-pour-limiter-la-dengue-et-le-chikungunya-3e41b384-b86c-11ef-ae82-b812024140bb) (Ouest-France)
-
-- [‘Chicharito’ con influenza y ‘Chiquete’ con chikungunya](https://www.excelsior.com.mx/adrenalina/chicharito-con-influenza-y-chiquete-con-chikungunya/1689153) (Excelsior.com.mx)
-
-- [Indonesia joins in malaria research to prevent transmission at IKN](https://en.antaranews.com/news/337846/indonesia-joins-in-malaria-research-to-prevent-transmission-at-ikn) (Antaranews.com)
-
-- [Knowledge, attitudes and practice questionnaires in dengue, Zika, chikungunya and yellow fever settings: a scoping review protocol](https://bmjopen.bmj.com/content/14/12/e090251) (The BMJ)
-
-- [Strategic vaccination responses to Chikungunya outbreaks in Rome: Insights from a dynamic transmission model](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012713) (Plos.org)
-
-- [Cientistas alertam para riscos de dengue, chikungunya e a Zika em Portugal](https://observador.pt/2024/12/09/cientistas-alertam-para-riscos-de-dengue-chikungunya-e-a-zika-em-portugal/) (Observador.pt)
