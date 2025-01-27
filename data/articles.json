@@ -1,8 +1,44 @@
 {
-  "last_updated": "2025-01-26 19:05",
-  "count_articles_total": 1307,
-  "count_articles_new": 5,
+  "last_updated": "2025-01-27 07:06",
+  "count_articles_total": 1312,
+  "count_articles_new": 2,
   "articles": [
+    {
+      "id": 17710,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Microbe.tv",
+      "author": "Vincent Racaniello",
+      "title": "TWiV 1187: The tau of herpesvirus",
+      "description": "TWiV explains a new blood test for head and neck cancer, Japanese regulators approve tecovirimat for mpox, an entry receptor for enterovirus D68, and anti-herpetic tau preserves neurons via a DNA sensing pathway in Alzheimer\u2019s disease. Hosts: Vincent Racaniel\u2026",
+      "url": "https://www.microbe.tv/twiv/twiv-1187/",
+      "urlToImage": null,
+      "publishedAt": "2025-01-26 05:00:00",
+      "content": "TWiV explains a new blood test for head and neck cancer, Japanese regulators approve tecovirimat for mpox, an entry receptor for enterovirus D68, and anti-herpetic tau preserves neurons via a DNA sen\u2026 [+827 chars]",
+      "retrievedAt": "2025-01-27 07:06:44.753780",
+      "internal_id": "718aaedbbc292202b020cc51f1bd921d36fabef2281580a68dd80cd86343f843",
+      "publishedAtLabel": "Jan 26"
+    },
+    {
+      "id": 17709,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Iz.ru",
+      "author": "\u0420\u0435\u0432\u0442\u043e\u0432 \u0414\u043c\u0438\u0442\u0440\u0438\u0439 \u0410\u043d\u0430\u0442\u043e\u043b\u044c\u0435\u0432\u0438\u0447",
+      "title": "\u0412 \u0426\u0420\u0423 \u0437\u0430\u044f\u0432\u0438\u043b\u0438 \u043e \u043b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u043e\u043c \u043f\u0440\u043e\u0438\u0441\u0445\u043e\u0436\u0434\u0435\u043d\u0438\u0438 \u043a\u043e\u0440\u043e\u043d\u0430\u0432\u0438\u0440\u0443\u0441\u0430",
+      "description": "\u041f\u043e \u043e\u0446\u0435\u043d\u043a\u0430\u043c \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0440\u0430\u0437\u0432\u0435\u0434\u044b\u0432\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f (\u0426\u0420\u0423) \u0421\u0428\u0410, \u043a\u043e\u0440\u043e\u043d\u0430\u0432\u0438\u0440\u0443\u0441 (COVID-19), \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e, \u0432\u043e\u0437\u043d\u0438\u043a \u0432 \u043b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0438\u0438, \u0430 \u043d\u0435 \u0432 \u043f\u0440\u0438\u0440\u043e\u0434\u0435. \u041e\u0431 \u044d\u0442\u043e\u043c \u0432 \u0441\u0443\u0431\u0431\u043e\u0442\u0443, 25 \u044f\u043d\u0432\u0430\u0440\u044f, \u0437\u0430\u044f\u0432\u0438\u043b\u043e Reuters \u0441\u043e \u0441\u0441\u044b\u043b\u043a\u043e\u0439 \u043d\u0430 \u0441\u043e\u0431\u0435\u0441\u0435\u0434\u043d\u0438\u043a\u0430.",
+      "url": "https://iz.ru/1828395/2025-01-26/v-cru-zaavili-o-laboratornom-proishozdenii-koronavirusa",
+      "urlToImage": "http://cdn.iz.ru/sites/default/files/styles/900x506/public/news-2025-01/2025-01-25T190341Z_1605127655_RC2UUX9WK6GA_RTRMADP_3_HEALTH-CORONAVIRUS-CIA.jpg?itok=MfgJWXAY",
+      "publishedAt": "2025-01-25 23:30:00",
+      "content": "() , (COVID-19), , , . , 25 , Reuters . \u00ab , , COVID-19 . , \u00bb, . : COVID . , . , , , , , , COVID-19 \u00bb\u00bb, . 25 - COVID-19 . , , - , . , 23 , , . , . WSJ, , COVID-19. , , (H5N1) .",
+      "retrievedAt": "2025-01-27 07:06:42.879040",
+      "internal_id": "d774f99be1fa0a8ef65ad13125944ad20ae436fd6059e03baff3815c0ce59b25",
+      "publishedAtLabel": "Jan 25"
+    },
     {
       "id": 17707,
       "query": [
@@ -23575,6 +23611,60 @@
       "content": "Hasta el pasado 09 de diciembre, en 30 entidades, nuestro pa\u00eds acumul\u00f3 120 mil 931 casos de dengue con el reporte de 362 muertes. Por lo anterior, en tan solo una semana se confirmaron 3 mil 436 \u2026 [+1252 chars]",
       "retrievedAt": "2024-12-17 07:07:13.266934",
       "internal_id": "e143a31c8095d8efbd0668c137f51c53d14464b6b7defa77df8186851c0c3386",
+      "publishedAtLabel": "Dec 15"
+    },
+    {
+      "id": 16400,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ilfattoquotidiano.it",
+      "author": "F. Q.",
+      "title": "6mila morti di dengue in Brasile nel 2024, \u00e8 record. L\u2019allarme: \u201cCambiamenti climatici e siccit\u00e0 favoriscono riproduzione della zanzara\u201d",
+      "description": "Secondo la ministra della salute Nisia Trindade, siccit\u00e0, alluvioni e innalzamento delle temperature favoriscono la pi\u00f9 rapida riproduzione delle zanzare. L\u2019incidenza \u00e8 di 3.253 casi per 100mila abitanti L'articolo 6mila morti di dengue in Brasile nel 2024, \u00e8\u2026",
+      "url": "https://www.ilfattoquotidiano.it/2024/12/15/morti-dengue-brasile-recort-allarme-cambiamenti-climatici-news/7805431/",
+      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2019/07/31/zanzaratigre1200.jpg",
+      "publishedAt": "2024-12-15 15:34:21",
+      "content": "Roma, 15 dic. (Adnkronos) - \"Occorrerebbe forse seguire le altalenanti vicissitudini del 'centro' e dei suoi inquieti inquilini con pi\u00f9 rispetto e insieme per\u00f2 con pi\u00f9 rigorosa severit\u00e0. Infatti il c\u2026 [+3707 chars]",
+      "retrievedAt": "2024-12-16 19:05:44.820131",
+      "internal_id": "5ab108bd74dce71125cd7d8a90956b05d8edd4931d6bb98a683cc96215b2193d",
+      "publishedAtLabel": "Dec 15"
+    },
+    {
+      "id": 16399,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Stockton Record",
+      "author": "Hannah Workman, The Stockton Record",
+      "title": "2 San Joaquin County farmworkers infected with bird flu after exposure to sick animals",
+      "description": "Two human cases of bird flu have been confirmed in San Joaquin County farmworkers. Public health officials said the risk to the general public is low.",
+      "url": "https://www.recordnet.com/story/news/healthcare/2024/12/15/2-san-joaquin-county-farmworkers-test-positive-for-bird-flu/76997469007/",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/pihXfwL8O_Zgx5jC5Vx6Pg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/the-stockton-record/cc0352b42d7be752f10be8834ad54e01",
+      "publishedAt": "2024-12-15 15:26:29",
+      "content": "Two human cases of the H5N1 virus, also known as avian flu or bird flu, have been confirmed in San Joaquin County, public health officials announced on Friday. The cases occurred in farmworkers with\u2026 [+2611 chars]",
+      "retrievedAt": "2024-12-16 19:05:44.268767",
+      "internal_id": "f25fa685cc7cf597dd0a33fef6122adb2e418a8f4bb073f7aa14d773475c9a86",
+      "publishedAtLabel": "Dec 15"
+    },
+    {
+      "id": 16401,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "title": "OMS: enfrenta Am\u00e9rica la mayor epidemia de dengue en 44 a\u00f1os",
+      "description": "La Organizaci\u00f3n Mundial de la Salud (OMS) alerta que el continente americano enfrenta la mayor epidemia de dengue desde que se tienen registros en 1980.",
+      "url": "https://www.jornada.com.mx/2024/12/15/politica/009n1pol",
+      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "publishedAt": "2024-12-15 08:32:29",
+      "content": "Peri\u00f3dico La JornadaDomingo 15 de diciembre de 2024, p. 9 La Organizaci\u00f3n Mundial de la Salud (OMS) alerta que el continente americano enfrenta la mayor epidemia de dengue desde que se tienen regist\u2026 [+2816 chars]",
+      "retrievedAt": "2024-12-16 19:05:44.837742",
+      "internal_id": "c851716747366c2acb2a98d20500d336168bc4fae74e7a737877c5bfc7dca444",
       "publishedAtLabel": "Dec 15"
     }
   ]

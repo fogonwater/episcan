@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 5
-- **Last harvest:** 2025-01-26 19:05
-- **Most recent article:** 2025-01-25 18:37:00
+- **New articles in last harvest:** 2
+- **Last harvest:** 2025-01-27 07:06
+- **Most recent article:** 2025-01-26 05:00:00
 
 ---
 
@@ -10,28 +10,32 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 24-51 | 24-52 | 24-53 | 25-1 | 25-2 | 25-3 | 25-4 | Total |
-|--|-|-|-|-|-|-|-|-|
-| h5n1 | 110 | 65 | 27 | 27 | 131 | 65 | 30 | 455 |
-| mpox | 92 | 35 | 2 | 6 | 91 | 34 | 23 | 283 |
-| malaria | 60 | 30 | 15 | 10 | 30 | 18 | 19 | 182 |
-| dengue | 28 | 24 | 6 | 12 | 41 | 29 | 37 | 177 |
-| hpai | 6 | 12 | 1 | 4 | 18 | 12 | 11 | 64 |
-| measles | 6 | 11 | 3 | 6 | 6 | 9 | 10 | 51 |
-| chikungunya | 7 | 0 | 2 | 0 | 7 | 7 | 10 | 33 |
-| rabies | 7 | 8 | 1 | 1 | 2 | 6 | 7 | 32 |
-| zika | 4 | 2 | 0 | 0 | 15 | 5 | 2 | 28 |
-| meningitis | 5 | 3 | 1 | 2 | 0 | 2 | 3 | 16 |
-| pertussis | 4 | 6 | 0 | 1 | 2 | 0 | 0 | 13 |
-| yersinia | 0 | 6 | 0 | 0 | 3 | 2 | 0 | 11 |
-| leptospirosis | 0 | 2 | 0 | 0 | 0 | 1 | 2 | 5 |
-| typhoid | 0 | 0 | 0 | 0 | 0 | 4 | 0 | 4 |
-| shigellosis | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| Disease | 24-51 | 24-52 | 24-53 | 25-1 | 25-2 | 25-3 | 25-4 | 25-5 | Total |
+|--|-|-|-|-|-|-|-|-|-|
+| h5n1 | 111 | 65 | 27 | 27 | 131 | 65 | 31 | 0 | 457 |
+| mpox | 92 | 35 | 2 | 6 | 91 | 34 | 23 | 1 | 284 |
+| malaria | 60 | 30 | 15 | 10 | 30 | 18 | 19 | 0 | 182 |
+| dengue | 30 | 24 | 6 | 12 | 41 | 29 | 37 | 0 | 179 |
+| hpai | 6 | 12 | 1 | 4 | 18 | 12 | 11 | 0 | 64 |
+| measles | 6 | 11 | 3 | 6 | 6 | 9 | 10 | 0 | 51 |
+| chikungunya | 7 | 0 | 2 | 0 | 7 | 7 | 10 | 0 | 33 |
+| rabies | 7 | 8 | 1 | 1 | 2 | 6 | 7 | 0 | 32 |
+| zika | 4 | 2 | 0 | 0 | 15 | 5 | 2 | 0 | 28 |
+| meningitis | 5 | 3 | 1 | 2 | 0 | 2 | 3 | 0 | 16 |
+| pertussis | 4 | 6 | 0 | 1 | 2 | 0 | 0 | 0 | 13 |
+| yersinia | 0 | 6 | 0 | 0 | 3 | 2 | 0 | 0 | 11 |
+| leptospirosis | 0 | 2 | 0 | 0 | 0 | 1 | 2 | 0 | 5 |
+| typhoid | 0 | 0 | 0 | 0 | 0 | 4 | 0 | 0 | 4 |
+| shigellosis | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
 
 
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 25-5 (mpox)
+
+- [TWiV 1187: The tau of herpesvirus](https://www.microbe.tv/twiv/twiv-1187/) (Microbe.tv)
 
 ## 25-4 (zika)
 
@@ -204,6 +208,8 @@ Source: [News API](https://newsapi.org/)
 - [Vil presse tech-giganter til at give adgang til krypterede beskeder: "Anonymitet er ikke en grundlæggende rettighed"](https://www.computerworld.dk/art/290139/vil-presse-tech-giganter-til-at-give-adgang-til-krypterede-beskeder-anonymitet-er-ikke-en-grundlaeggende-rettighed) (Computerworld.dk)
 
 ## 25-4 (h5n1)
+
+- [В ЦРУ заявили о лабораторном происхождении коронавируса](https://iz.ru/1828395/2025-01-26/v-cru-zaavili-o-laboratornom-proishozdenii-koronavirusa) (Iz.ru)
 
 - [Los humanos tienen anticuerpos que reconocen y neutralizarían al virus de la gripe aviar](https://www.montevideo.com.uy/Salud/Los-humanos-tienen-anticuerpos-que-reconocen-y-neutralizarian-al-virus-de-la-gripe-aviar-uc913155) (Montevideo.com.uy)
 
@@ -2823,6 +2829,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Вирус гриппа А сохранил заразность в сыром коровьем молоке на несколько дней](https://nplus1.ru/news/2024/12/16/influenza-in-raw-milk) (Nplus1.ru)
 
+- [2 San Joaquin County farmworkers infected with bird flu after exposure to sick animals](https://www.recordnet.com/story/news/healthcare/2024/12/15/2-san-joaquin-county-farmworkers-test-positive-for-bird-flu/76997469007/) (Stockton Record)
+
 ## 24-51 (dengue)
 
 - [Could mosquitoes deliver vaccines against malaria?](https://www.aljazeera.com/news/2024/12/21/could-mosquitoes-deliver-vaccines-against-malaria) (Al Jazeera English)
@@ -2880,6 +2888,10 @@ Source: [News API](https://newsapi.org/)
 - [Saúde quer levar vacina contra dengue para dentro das escolas em 2025](https://www.metropoles.com/distrito-federal/saude-quer-levar-vacina-contra-dengue-para-dentro-das-escolas-em-2025) (Metropoles.com)
 
 - [México acumula 20 mil 931 casos por dengue](https://www.excelsior.com.mx/nacional/mexico-acumula-20-mil-931-casos-por-dengue/1689802) (Excelsior.com.mx)
+
+- [6mila morti di dengue in Brasile nel 2024, è record. L’allarme: “Cambiamenti climatici e siccità favoriscono riproduzione della zanzara”](https://www.ilfattoquotidiano.it/2024/12/15/morti-dengue-brasile-recort-allarme-cambiamenti-climatici-news/7805431/) (Ilfattoquotidiano.it)
+
+- [OMS: enfrenta América la mayor epidemia de dengue en 44 años](https://www.jornada.com.mx/2024/12/15/politica/009n1pol) (Jornada.com.mx)
 
 ## 24-51 (chikungunya)
 
