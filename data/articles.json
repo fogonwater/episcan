@@ -1,8 +1,314 @@
 {
-  "last_updated": "2025-01-28 07:06",
-  "count_articles_total": 1324,
-  "count_articles_new": 5,
+  "last_updated": "2025-01-28 19:05",
+  "count_articles_total": 1338,
+  "count_articles_new": 17,
   "articles": [
+    {
+      "id": 17739,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Themorningnews.org",
+      "author": null,
+      "title": "Monday headlines: Pay no attention",
+      "description": "Something that's getting lost in yesterday's was-it-or-wasn't-it US-Colombia trade war: \"Colombia accepted 475 deportation flights from the US from 2020 to 2024.\" / AP And also: Because Trump wants to use military\u2014not civilian\u2014flights to transport deportees,\u2026",
+      "url": "https://themorningnews.org/p/monday-headlines-pay-no-attention",
+      "urlToImage": "https://themorningnews.org/images/tmn-logo-share.png",
+      "publishedAt": "2025-01-27 17:48:00",
+      "content": "In an unwritten, unannounced policy change, Louisiana's Dept. of Health is forbidding employees from promoting Covid, flu, or mpox vaccines. / NPR Photos of daily life for the Palestinian people\u2014\"be\u2026 [+2219 chars]",
+      "retrievedAt": "2025-01-28 19:05:43.810884",
+      "internal_id": "9836cb7e4c1280bf027b742969385550486bd858f6bf6ba7f318038bb97225cb",
+      "publishedAtLabel": "Jan 27"
+    },
+    {
+      "id": 17725,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Gabe Whisnant",
+      "title": "What Is H5N9? US Reports First Bird Flu Strain Outbreak in Poultry",
+      "description": "U.S. authorities also identified the more common H5N1 strain on the same farm in Merced County, California.",
+      "url": "https://www.newsweek.com/h5n9-bird-flu-strain-poultry-california-2021569",
+      "urlToImage": "https://d.newsweek.com/en/full/2450666/breaking-news.jpg",
+      "publishedAt": "2025-01-27 17:45:34",
+      "content": "The United States has reported its first outbreak of H5N9 bird flu on a duck farm in California, according to the World Organization for Animal Health (WOAH) on Monday. H5N9 is a rare subtype of the\u2026 [+974 chars]",
+      "retrievedAt": "2025-01-28 19:05:41.978431",
+      "internal_id": "cee8a5d6d76c25019c56ae3164c141e1fe6451df34f9bac5b8460ee4185ac813",
+      "publishedAtLabel": "Jan 27"
+    },
+    {
+      "id": 17724,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "National Post",
+      "author": "National Post Staff",
+      "title": "Video shows rabid bear 'aggressively' approach and attack Pennsylvania man",
+      "description": "Black bears can sprint up to 56 kilometres an hour and climb 30 metres up a tree within 30 seconds.",
+      "url": "https://nationalpost.com/news/rabid-bear-attacks-pennsylvania-man",
+      "urlToImage": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2025/01/black-bears-bc-20250122.jpg",
+      "publishedAt": "2025-01-27 16:46:50",
+      "content": "A bear that attacked a man in Pennsylvania last weekend tested positive for rabies, according to officials. On Jan. 19, in the town of Jim Thorpe in the eastern part of the state, an adult male bear\u2026 [+2445 chars]",
+      "retrievedAt": "2025-01-28 19:05:40.861576",
+      "internal_id": "fefc4e4050f998a57d8d4eadf6270a50a2540ff4b3e0586298110ff988d8fed1",
+      "publishedAtLabel": "Jan 27"
+    },
+    {
+      "id": 17733,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Protothema.gr",
+      "author": null,
+      "title": "\u00ab\u03a3\u03c0\u03ac\u03bd\u03b9\u03bf\u00bb \u03b1\u03bd\u03b8\u03c1\u03ce\u03c0\u03b9\u03bd\u03bf \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1 \u03c4\u03b7\u03c2 \u03b3\u03c1\u03af\u03c0\u03b7\u03c2 \u03c4\u03c9\u03bd \u03c0\u03c4\u03b7\u03bd\u03ce\u03bd \u03b5\u03bd\u03c4\u03bf\u03c0\u03af\u03c3\u03c4\u03b7\u03ba\u03b5 \u03c3\u03c4\u03b7\u03bd \u0391\u03b3\u03b3\u03bb\u03af\u03b1",
+      "description": "\u03a4\u03bf \u03ac\u03c4\u03bf\u03bc\u03bf, \u03c4\u03bf\u03c5 \u03bf\u03c0\u03bf\u03af\u03bf\u03c5 \u03c4\u03bf \u03c6\u03cd\u03bb\u03bf \u03b4\u03b5\u03bd \u03b1\u03bd\u03b1\u03c6\u03ad\u03c1\u03b5\u03c4\u03b1\u03b9, \u03bc\u03bf\u03bb\u03cd\u03bd\u03b8\u03b7\u03ba\u03b5 \u03c3\u03b5 \u03c6\u03ac\u03c1\u03bc\u03b1 | \u0391\u03b3\u03b3\u03bb\u03af\u03b1 | \u0393\u03c1\u03af\u03c0\u03b7 \u03c4\u03c9\u03bd \u03a0\u03c4\u03b7\u03bd\u03ce\u03bd | \u039a\u03cc\u03c3\u03bc\u03bf\u03c2",
+      "url": "https://www.protothema.gr/world/article/1593404/spanio-anthropino-krousma-tis-gripis-ton-ptinon-edopistike-stin-agglia/",
+      "urlToImage": "https://www.protothema.gr/images/640x360share/1/jpg/files/2024-07-03/gripi_ptinon_505935160__1_.jpg",
+      "publishedAt": "2025-01-27 16:43:37",
+      "content": "\u00ab\u00bb , .\u00ab\u00bb, , UKHSA. , , , \u00ab\u00bb, .\u00ab\u00bb . \u00ab\u00bb, , \u00ab\u00bb . . \u00ab\u00bb, UKHSA.. , . 65 , , H5N1 , . : 5 2% - 793",
+      "retrievedAt": "2025-01-28 19:05:42.077469",
+      "internal_id": "adfc51c670c3cb8d3e447f1b04461078e0a5e370a407488c2c9304dd7dea8eed",
+      "publishedAtLabel": "Jan 27"
+    },
+    {
+      "id": 17728,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Newsit.gr",
+      "author": "\u0388\u03c1\u03b9\u03ba\u03b1 \u03a4\u03b5\u03ba\u03c4\u03bf\u03bd\u03af\u03b4\u03bf\u03c5",
+      "title": "\u0392\u03c1\u03b5\u03c4\u03b1\u03bd\u03af\u03b1: \u0395\u03bd\u03c4\u03bf\u03c0\u03af\u03c3\u03c4\u03b7\u03ba\u03b5 \u00ab\u03c3\u03c0\u03ac\u03bd\u03b9\u03bf\u00bb \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1 \u03b3\u03c1\u03af\u03c0\u03b7\u03c2 \u03c4\u03c9\u03bd \u03c0\u03c4\u03b7\u03bd\u03ce\u03bd \u2013 \u00ab\u039f \u03ba\u03af\u03bd\u03b4\u03c5\u03bd\u03bf\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03bf \u03b5\u03c5\u03c1\u03cd \u03ba\u03bf\u03b9\u03bd\u03cc \u03c0\u03b1\u03c1\u03b1\u03bc\u03ad\u03bd\u03b5\u03b9 \u03c0\u03bf\u03bb\u03cd \u03c7\u03b1\u03bc\u03b7\u03bb\u03cc\u03c2\u00bb",
+      "description": "\u0388\u03bd\u03b1 \u00ab\u03c3\u03c0\u03ac\u03bd\u03b9\u03bf\u00bb \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1 \u03b3\u03c1\u03af\u03c0\u03b7\u03c2 \u03c4\u03c9\u03bd \u03c0\u03c4\u03b7\u03bd\u03ce\u03bd \u03c3\u03b5 \u03ac\u03bd\u03b8\u03c1\u03c9\u03c0\u03bf \u03b5\u03bd\u03c4\u03bf\u03c0\u03af\u03c3\u03c4\u03b7\u03ba\u03b5 \u03c3\u03c4\u03b7\u03bd \u0391\u03b3\u03b3\u03bb\u03af\u03b1, \u03b1\u03bd\u03b1\u03ba\u03bf\u03af\u03bd\u03c9\u03c3\u03b5 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03b7 \u03a5\u03c0\u03b7\u03c1\u03b5\u03c3\u03af\u03b1 \u0391\u03c3\u03c6\u03ac\u03bb\u03b5\u03b9\u03b1\u03c2 \u03a5\u03b3\u03b5\u03af\u03b1\u03c2 \u03c4\u03bf\u03c5 \u0397\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03c5 \u0392\u03b1\u03c3\u03b9\u03bb\u03b5\u03af\u03bf\u03c5. \u00ab\u0397 \u03bc\u03b5\u03c4\u03ac\u03b4\u03bf\u03c3\u03b7 \u03c4\u03bf\u03c5 \u03b9\u03bf\u03cd \u03c4\u03b7\u03c2 ... To \u03ac\u03c1\u03b8\u03c1\u03bf \u0392\u03c1\u03b5\u03c4\u03b1\u03bd\u03af\u03b1: \u0395\u03bd\u03c4\u03bf\u03c0\u03af\u03c3\u03c4\u03b7\u03ba\u03b5 \u00ab\u03c3\u03c0\u03ac\u03bd\u03b9\u03bf\u00bb \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1 \u03b3\u03c1\u03af\u03c0\u03b7\u03c2 \u03c4\u03c9\u03bd \u03c0\u03c4\u03b7\u03bd\u03ce\u03bd \u2013 \u00ab\u039f \u03ba\u03af\u03bd\u03b4\u03c5\u03bd\u03bf\u03c2 \u03b3\u03b9\u03b1 \u03c4\u2026",
+      "url": "https://www.newsit.gr/kosmos/vretania-entopistike-spanio-krousma-gripis-ton-ptinon-o-kindynos-gia-to-eyry-koino-paramenei-poly-xamilos/4293974/",
+      "urlToImage": "https://www.newsit.gr/wp-content/uploads/2025/01/birdflu_reut-1200x630.jpg",
+      "publishedAt": "2025-01-27 16:36:08",
+      "content": "18:36 27 2025 \u00ab\u00bb , . \u00ab \u00bb, , UKHSA. , , , \u00ab \u00bb, . \u00ab\u00bb . \u00ab \u00bb, , \u00ab\u00bb . . \u00ab \u00bb, UKHSA. . , . 65 , , H5N1 , .",
+      "retrievedAt": "2025-01-28 19:05:42.017433",
+      "internal_id": "eb4870617b38bca3451356d2185bbd3990d3fa9d38d732bffde3620870348a25",
+      "publishedAtLabel": "Jan 27"
+    },
+    {
+      "id": 17727,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Skai.gr",
+      "author": "Newsroom",
+      "title": "\u00ab\u03a3\u03c0\u03ac\u03bd\u03b9\u03bf\u00bb \u03b1\u03bd\u03b8\u03c1\u03ce\u03c0\u03b9\u03bd\u03bf \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1 \u03c4\u03b7\u03c2 \u03b3\u03c1\u03af\u03c0\u03b7\u03c2 \u03c4\u03c9\u03bd \u03c0\u03c4\u03b7\u03bd\u03ce\u03bd \u03b5\u03bd\u03c4\u03bf\u03c0\u03af\u03c3\u03c4\u03b7\u03ba\u03b5 \u03c3\u03c4\u03b7\u03bd \u0391\u03b3\u03b3\u03bb\u03af\u03b1",
+      "description": "\u00ab\u0397 \u03bc\u03b5\u03c4\u03ac\u03b4\u03bf\u03c3\u03b7 \u03c4\u03bf\u03c5 \u03b9\u03bf\u03cd \u03c4\u03b7\u03c2 \u03b3\u03c1\u03af\u03c0\u03b7\u03c2 \u03c4\u03c9\u03bd \u03c0\u03c4\u03b7\u03bd\u03ce\u03bd \u03b1\u03c0\u03cc \u03c0\u03c4\u03b7\u03bd\u03ac \u03c3\u03c4\u03bf\u03bd \u03ac\u03bd\u03b8\u03c1\u03c9\u03c0\u03bf \u03b5\u03af\u03bd\u03b1\u03b9 \u03c3\u03c0\u03ac\u03bd\u03b9\u03b1\u00bb, \u03b1\u03bd\u03ad\u03c6\u03b5\u03c1\u03b5 \u03b7 \u03a5\u03c0\u03b7\u03c1\u03b5\u03c3\u03af\u03b1 \u0391\u03c3\u03c6\u03ac\u03bb\u03b5\u03b9\u03b1\u03c2 \u03a5\u03b3\u03b5\u03af\u03b1\u03c2 - \u03a4\u03bf \u03ac\u03c4\u03bf\u03bc\u03bf \u03bc\u03bf\u03bb\u03cd\u03bd\u03b8\u03b7\u03ba\u03b5 \u03c3\u03b5 \u03c6\u03ac\u03c1\u03bc\u03b1",
+      "url": "https://www.skai.gr/news/world/agglia-entopistike-spanio-anthropino-krousma-tis-gripis-ton-ptinon",
+      "urlToImage": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/feedelio/ap-chickens-farm_7cbb82.jpg?itok=4iFWlDb9",
+      "publishedAt": "2025-01-27 16:32:55",
+      "content": "Your browser does not support the audio element. \u00ab \u00bb, - \u00ab\u00bb , . \u00ab \u00bb, , UKHSA. , , , \u00ab \u00bb, . \u00ab\u00bb . \u00ab \u00bb, , \u00ab\u00bb . . \u00ab \u00bb, UKHSA. . , . 65 , , H5N1 , . .Skai.gr Google News . \u00a9 2025 skai.gr\u2026 [+21 chars]",
+      "retrievedAt": "2025-01-28 19:05:42.004831",
+      "internal_id": "2f6ef8f11e815cd8eb2072c0a7432fd77260fe13effc81e1555933ba82527cd8",
+      "publishedAtLabel": "Jan 27"
+    },
+    {
+      "id": 17732,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Naftemporiki.gr",
+      "author": "\u0391\u03bd\u03b1\u03c3\u03c4\u03ac\u03c3\u03b9\u03bf\u03c2 \u03a0\u03b1\u03c0\u03c0\u03ac\u03c2",
+      "title": "\u0392\u03c1\u03b5\u03c4\u03b1\u03bd\u03af\u03b1: \u00ab\u03a3\u03c0\u03ac\u03bd\u03b9\u03bf\u00bb \u03b1\u03bd\u03b8\u03c1\u03ce\u03c0\u03b9\u03bd\u03bf \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1 \u03c4\u03b7\u03c2 \u03b3\u03c1\u03af\u03c0\u03b7\u03c2 \u03c4\u03c9\u03bd \u03c0\u03c4\u03b7\u03bd\u03ce\u03bd \u03b5\u03bd\u03c4\u03bf\u03c0\u03af\u03c3\u03c4\u03b7\u03ba\u03b5 \u03c3\u03c4\u03b7\u03bd \u0391\u03b3\u03b3\u03bb\u03af\u03b1",
+      "description": "\u0397 \u03a5\u03c0\u03b7\u03c1\u03b5\u03c3\u03af\u03b1 \u0391\u03c3\u03c6\u03ac\u03bb\u03b5\u03b9\u03b1\u03c2 \u03a5\u03b3\u03b5\u03af\u03b1\u03c2 \u03c4\u03bf\u03c5 \u0397\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03c5 \u0392\u03b1\u03c3\u03b9\u03bb\u03b5\u03af\u03bf\u03c5 \u03b1\u03bd\u03b1\u03ba\u03bf\u03af\u03bd\u03c9\u03c3\u03b5 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03ad\u03bd\u03b1 \u00ab\u03c3\u03c0\u03ac\u03bd\u03b9\u03bf\u00bb \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1 \u03b3\u03c1\u03af\u03c0\u03b7\u03c2 \u03c4\u03c9\u03bd \u03c0\u03c4\u03b7\u03bd\u03ce\u03bd \u03c3\u03b5 \u03ac\u03bd\u03b8\u03c1\u03c9\u03c0\u03bf \u03b5\u03bd\u03c4\u03bf\u03c0\u03af\u03c3\u03c4\u03b7\u03ba\u03b5 \u03c3\u03c4\u03b7\u03bd \u0391\u03b3\u03b3\u03bb\u03af\u03b1. \u00ab\u0397 \u03bc\u03b5\u03c4\u03ac\u03b4\u03bf\u03c3\u03b7 \u03c4\u03bf\u03c5 \u03b9\u03bf\u03cd \u03c4\u03b7\u03c2 \u03b3\u03c1\u03af\u03c0\u03b7\u03c2 \u03c4\u03c9\u03bd \u03c0\u03c4\u03b7\u03bd\u03ce\u03bd \u03b1\u03c0\u03cc \u03c0\u03c4\u03b7\u03bd\u03ac\u2026 \u0392\u03c1\u03b5\u03c4\u03b1\u03bd\u03af\u03b1: \u00ab\u03a3\u03c0\u03ac\u03bd\u03b9\u03bf\u00bb \u03b1\u03bd\u03b8\u03c1\u03ce\u03c0\u03b9\u03bd\u03bf \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1 \u03c4\u03b7\u03c2 \u03b3\u03c1\u03af\u03c0\u03b7\u03c2 \u03c4\u03c9\u03bd \u03c0\u03c4\u03b7\u03bd\u03ce\u03bd \u03b5\u03bd\u03c4\u2026",
+      "url": "https://www.naftemporiki.gr/kosmos/1895328/vretania-spanio-anthropino-kroysma-tis-gripis-ton-ptinon-entopistike-stin-agglia/",
+      "urlToImage": "https://www.naftemporiki.gr/wp-content/uploads/2025/01/bretania_gripi_ptinon_krousma.jpg",
+      "publishedAt": "2025-01-27 16:30:33",
+      "content": "\u00ab\u00bb . \u00ab \u00bb, , UKHSA. , , , \u00ab \u00bb, . \u00ab\u00bb . \u00ab \u00bb, , \u00ab\u00bb . . \u00ab \u00bb, UKHSA. . , . 65 , , H5N1 , . :",
+      "retrievedAt": "2025-01-28 19:05:42.070415",
+      "internal_id": "c6fd95b1f3751132f49671aacad9a4dd64d618627657be929dcbe9b84e416578",
+      "publishedAtLabel": "Jan 27"
+    },
+    {
+      "id": 17737,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Meneame.net",
+      "author": "Leclercia_adecarboxylata",
+      "title": "Georgia se convierte en el pa\u00eds n\u00famero 45 en erradicar la malaria",
+      "description": "La agencia sanitaria de la ONU certifica que un pa\u00eds est\u00e1 libre de paludismo cuando ha demostrado, m\u00e1s all\u00e1 de toda duda razonable, que la transmisi\u00f3n se ha interrumpido en todo el pa\u00eds durante al menos los tres a\u00f1os anteriores consecutivos. Europa cada vez m\u2026",
+      "url": "https://www.meneame.net/m/actualidad/georgia-convierte-pais-numero-45-erradicar-malaria",
+      "urlToImage": "https://www.meneame.net//cdn.mnmstatic.net/img/mnm/logo-350x350.png",
+      "publishedAt": "2025-01-27 16:18:52",
+      "content": "#1 Claro, por eso lo ha erradicado, porque ya no hay casos end\u00e9micos pero seguir\u00e1 habiendo.Viajero procedente del tr\u00f3pico que empieza por fiebre = lo primer a descartar, malaria. Por delante de cual\u2026 [+347 chars]",
+      "retrievedAt": "2025-01-28 19:05:43.005636",
+      "internal_id": "1d970a5fe99ee4363fc6ee11f28890e2c8deb671283e33c560ead3f06ceb9f66",
+      "publishedAtLabel": "Jan 27"
+    },
+    {
+      "id": 17726,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Zosia Kmietowicz",
+      "title": "Human case of avian flu detected in England",
+      "description": "A case of influenza A (H5N1) has been confirmed in a person in the West Midlands who acquired the infection on a farm after close and prolonged contact with a large number of infected birds, the UK Health Security Agency (UKHSA) has confirmed. The person is c\u2026",
+      "url": "https://www.bmj.com/content/388/bmj.r177",
+      "urlToImage": "https://www.bmj.com/sites/default/files/highwire/bmj/388/8455.cover-source.jpg",
+      "publishedAt": "2025-01-27 16:16:13",
+      "content": "A case of influenza A (H5N1) has been confirmed in a person in the West Midlands who acquired the infection on a farm after close and prolonged contact with a large number of infected birds, the UK H\u2026 [+302 chars]",
+      "retrievedAt": "2025-01-28 19:05:41.997399",
+      "internal_id": "1a058706eab8d0bb2c5e80c9ae43e7f89586202f3a5f7d84fbee6944543f69ee",
+      "publishedAtLabel": "Jan 27"
+    },
+    {
+      "id": 17730,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Reuters",
+      "title": "UK detects human case of bird flu, says wider risk remains low",
+      "description": "British health authorities reported a case of H5N1 bird flu in a person in central England, though they emphasized that the risk to the public remains \"very low.\" The individual contracted the infection from prolonged contact with infected birds on a farm. Th\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/uk-detects-human-case-of-bird-flu-says-wider-risk-remains-low/articleshow/117608160.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-117608168,width-1200,height-630,imgsize-162752,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-01-27 15:10:08",
+      "content": "Artificial Intelligence(AI) AI and Analytics based Business Strategy By - Tanusree De, Managing Director- Accenture Technology Lead, Trustworthy AI Center of Excellence: ATCI View Program",
+      "retrievedAt": "2025-01-28 19:05:42.049456",
+      "internal_id": "5e16265cb5b16bdc537036c19dd138999fd0cb2ee48b9e8c0f5b99585e904eec",
+      "publishedAtLabel": "Jan 27"
+    },
+    {
+      "id": 17729,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Aljazeera.net",
+      "author": "\u0627\u0644\u062c\u0632\u064a\u0631\u0629 \u0646\u062a",
+      "title": "\u0631\u0635\u062f \u0625\u0635\u0627\u0628\u0629 \u0628\u0634\u0631\u064a\u0629 \u0646\u0627\u062f\u0631\u0629 \u0628\u0625\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u0637\u064a\u0648\u0631 \u0641\u064a \u0628\u0631\u064a\u0637\u0627\u0646\u064a\u0627",
+      "description": "\u0623\u0639\u0644\u0646\u062a \u0648\u0643\u0627\u0644\u0629 \u0627\u0644\u0623\u0645\u0646 \u0627\u0644\u0635\u062d\u064a \u0627\u0644\u0628\u0631\u064a\u0637\u0627\u0646\u064a\u0629\u060c \u0627\u0644\u0627\u062b\u0646\u064a\u0646\u060c \u0623\u0646\u0647 \u062a\u0645 \u062a\u0633\u062c\u064a\u0644 \u0625\u0635\u0627\u0628\u0629 \u0628\u0634\u0631\u064a\u0629 \"\u0646\u0627\u062f\u0631\u0629\" \u0628\u0627\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u0637\u064a\u0648\u0631 \u0641\u064a \u0625\u0646\u062c\u0644\u062a\u0631\u0627.",
+      "url": "https://www.aljazeera.net/health/2025/1/27/%d8%b1%d8%b5%d8%af-%d8%a5%d8%b5%d8%a7%d8%a8%d8%a9-%d8%a8%d8%b4%d8%b1%d9%8a%d8%a9-%d9%86%d8%a7%d8%af%d8%b1%d8%a9-%d8%a8%d8%a5%d9%86%d9%81%d9%84%d9%88%d9%86%d8%b2%d8%a7",
+      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2016/11/00aa6438-6732-4e0a-b5cd-9f5cb21b4ee0.jpeg?resize=1200%2C675",
+      "publishedAt": "2025-01-27 14:52:30",
+      "content": "(-) \"\" . (UKHSA) \" \". \" \". \"\" . \" \" \"\" . \"\" \" \" . . / 65 5 1 H5N1 .",
+      "retrievedAt": "2025-01-28 19:05:42.036169",
+      "internal_id": "e022e234e7fc75f766b51c7554b79612e46ff08a9d67099d9f77e018767ebed1",
+      "publishedAtLabel": "Jan 27"
+    },
+    {
+      "id": 17731,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": "UK Health Security Agency",
+      "title": "News story: Human case of avian flu detected in England",
+      "description": "UKHSA confirms rare case of bird flu (H5N1) in the West Midlands region.",
+      "url": "https://www.gov.uk/government/news/human-case-of-avian-flu-detected-in-england",
+      "urlToImage": "https://assets.publishing.service.gov.uk/media/674de56feb52380f5456af9f/s960_News_logo.png",
+      "publishedAt": "2025-01-27 14:30:02",
+      "content": "UKHSA has confirmed a case of influenza A(H5N1) in a person in the West Midlands region. Bird-to-human transmission of avian influenza is rare and has previously occurred a small number of times in t\u2026 [+2985 chars]",
+      "retrievedAt": "2025-01-28 19:05:42.057346",
+      "internal_id": "80fba779675c61de4a0a3d9e70a3dc552d119d3a9c82139ca729094ef4658d3a",
+      "publishedAtLabel": "Jan 27"
+    },
+    {
+      "id": 17738,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Elespanol.com",
+      "author": "J.A.",
+      "title": "El grupo rebelde M23, apoyado por Ruanda, toma el control de la ciudad congolesa de Goma y 3.000 presos huyen de la c\u00e1rcel",
+      "description": "La situaci\u00f3n en Rep\u00fablica Democr\u00e1tica del Congo es confusa y se est\u00e1n registrando combates en la regi\u00f3n fronteriza. M\u00e1s informaci\u00f3n: M\u00e1s de 600 contagios y 143 muertos: qu\u00e9 se sabe sobre el brote de malaria que ha puesto a RD Congo en jaque",
+      "url": "https://www.elespanol.com/mundo/20250127/grupo-rebelde-m23-apoyado-ruanda-toma-control-ciudad-congolesa-goma-presos-huyen-carcel/919658315_0.html",
+      "urlToImage": "https://s1.elespanol.com/2025/01/27/actualidad/919668435_252631510_1706x960.jpg",
+      "publishedAt": "2025-01-27 13:01:28",
+      "content": "Cerca de 3.000 presos se han fugado este lunes de la c\u00e1rcel de Goma, capital de la provincia de Kivu del Norte, en el noreste de la Rep\u00fablica Democr\u00e1tica del Congo (RDC), despu\u00e9s de que el grupo rebe\u2026 [+2285 chars]",
+      "retrievedAt": "2025-01-28 19:05:43.013085",
+      "internal_id": "8b55bb7b5e7307d3b37ab58376eb921c1540711b9190f96474594875e5d0b7bf",
+      "publishedAtLabel": "Jan 27"
+    },
+    {
+      "id": 17736,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Elespanol.com",
+      "author": "Jorge Lisbona",
+      "title": "Dos personas en la UCI por el brote de meningitis en un colegio de Zaragoza: \"Va a ser imposible determinar el origen\"",
+      "description": "El Gobierno de Arag\u00f3n insiste en que se est\u00e1n siguiendo todos los protocolos: \"Est\u00e1 todo bien vigilado, hay un seguimiento y se han tomado medidas\". M\u00e1s informaci\u00f3n: Sanidad detecta un brote de enfermedad meningoc\u00f3cica en un centro educativo de Zaragoza.",
+      "url": "https://www.elespanol.com/aragon/actualidad/20250127/personas-uci-brote-meningitis-colegio-zaragoza-va-imposible-determinar-origen/919658310_0.html",
+      "urlToImage": "https://s1.elespanol.com/2025/01/27/aragon/actualidad/919668413_252630818_1706x960.png",
+      "publishedAt": "2025-01-27 12:40:40",
+      "content": "El brote de meningitis detectado en un colegio de Zaragoza deja a dos personas en la unidad de cuidados intensivos (UCI). El Gobierno de Arag\u00f3n ve pr\u00e1cticamente imposible determinar qui\u00e9n fue el paci\u2026 [+1868 chars]",
+      "retrievedAt": "2025-01-28 19:05:42.602452",
+      "internal_id": "939199b3d4140c1ab97efd74eaefecee0d878982e0711461e3402f820217c21c",
+      "publishedAtLabel": "Jan 27"
+    },
+    {
+      "id": 17735,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Ag\u00eancia Einstein",
+      "title": "Dengue: saiba por que o tipo 3 \u00e9 motivo de preocupa\u00e7\u00e3o em 2025",
+      "description": "A baixa circula\u00e7\u00e3o dessa cepa nos \u00faltimos anos pode deixar a popula\u00e7\u00e3o mais vulner\u00e1vel \u00e0 infec\u00e7\u00e3o neste ano e causar quadros mais graves",
+      "url": "https://www.metropoles.com/saude/dengue-tipo-3-motivo-preocupacao-em-2025",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/10/30153517/agentes-saude-dengue.jpg",
+      "publishedAt": "2025-01-27 11:30:10",
+      "content": "O sorotipo 3 da dengue j\u00e1 responde por quase metade dos casos registrados em 2025 no Brasil. E isso vem gerando preocupa\u00e7\u00e3o entre os especialistas pelo risco de causar mais infec\u00e7\u00f5es e quadros graves\u2026 [+4446 chars]",
+      "retrievedAt": "2025-01-28 19:05:42.400301",
+      "internal_id": "b6dee01ef6d3f98620706fd323ca8088ddab7a1e9b1e847fd1704597e1cef6ef",
+      "publishedAtLabel": "Jan 27"
+    },
+    {
+      "id": 17723,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Newser",
+      "author": "Evann Gastaldo",
+      "title": "Rabid Bear Attacks Man in Pennsylvania",
+      "description": "A bear attacked a Pennsylvania man as he walked along a trail in a wooded area Jan. 19, and authorities have now confirmed the animal had rabies. The man was walking from his house to a store in Jim Thorpe when the black bear approached, and though he tried t\u2026",
+      "url": "https://www.newser.com/story/363225/rabid-bear-attacks-man-in-pennsylvania.html",
+      "urlToImage": "https://img1-azrcdn.newser.com/image/1587882-12-20250127033002.jpeg",
+      "publishedAt": "2025-01-27 09:00:00",
+      "content": "A bear attacked a Pennsylvania man as he walked along a trail in a wooded area Jan. 19, and authorities have now confirmed the animal had rabies. The man was walking from his house to a store in Jim \u2026 [+1201 chars]",
+      "retrievedAt": "2025-01-28 19:05:40.829572",
+      "internal_id": "92acb5c2e6201a898d1f5f44cf8e1bac1a3e11e9c00b926ca5bd1827051de87e",
+      "publishedAtLabel": "Jan 27"
+    },
+    {
+      "id": 17734,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Reda\u00e7\u00e3o Terra",
+      "title": "Parece dengue: por que a ressaca \u00e9 pior depois dos 30 e como evitar",
+      "description": "Dor de cabe\u00e7a, enjoo, mal-estar. Ap\u00f3s uma noite de bebedeira, a sensa\u00e7\u00e3o de que o corpo est\u00e1 ...",
+      "url": "https://www.terra.com.br/vida-e-estilo/verao/parece-dengue-por-que-a-ressaca-e-pior-depois-dos-30-e-como-evitar,8eb12047bd3e0745f18ffb61c55e452falp9ndcq.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/01/17/648183242-1eb600b0-cf8c-11ef-9fd6-0be88a764111.jpg",
+      "publishedAt": "2025-01-27 08:00:11",
+      "content": "Dor de cabe\u00e7a, enjoo, mal-estar. Ap\u00f3s uma noite de bebedeira, a sensa\u00e7\u00e3o de que o corpo est\u00e1 lutando contra algo mais grave do que um excesso de \u00e1lcool \u00e9 familiar para muitos. E, depois dos 30 anos, \u2026 [+2414 chars]",
+      "retrievedAt": "2025-01-28 19:05:42.368629",
+      "internal_id": "a066221ef8bc82fa039add8a8cb7afce1a86f15dc04a6a82f5f2d2d799aedca5",
+      "publishedAtLabel": "Jan 27"
+    },
     {
       "id": 17720,
       "query": [
@@ -23827,60 +24133,6 @@
       "content": "Hasta el pasado 09 de diciembre, en 30 entidades, nuestro pa\u00eds acumul\u00f3 120 mil 931 casos de dengue con el reporte de 362 muertes. Por lo anterior, en tan solo una semana se confirmaron 3 mil 436 \u2026 [+1252 chars]",
       "retrievedAt": "2024-12-17 07:07:13.266934",
       "internal_id": "e143a31c8095d8efbd0668c137f51c53d14464b6b7defa77df8186851c0c3386",
-      "publishedAtLabel": "Dec 15"
-    },
-    {
-      "id": 16400,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Ilfattoquotidiano.it",
-      "author": "F. Q.",
-      "title": "6mila morti di dengue in Brasile nel 2024, \u00e8 record. L\u2019allarme: \u201cCambiamenti climatici e siccit\u00e0 favoriscono riproduzione della zanzara\u201d",
-      "description": "Secondo la ministra della salute Nisia Trindade, siccit\u00e0, alluvioni e innalzamento delle temperature favoriscono la pi\u00f9 rapida riproduzione delle zanzare. L\u2019incidenza \u00e8 di 3.253 casi per 100mila abitanti L'articolo 6mila morti di dengue in Brasile nel 2024, \u00e8\u2026",
-      "url": "https://www.ilfattoquotidiano.it/2024/12/15/morti-dengue-brasile-recort-allarme-cambiamenti-climatici-news/7805431/",
-      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2019/07/31/zanzaratigre1200.jpg",
-      "publishedAt": "2024-12-15 15:34:21",
-      "content": "Roma, 15 dic. (Adnkronos) - \"Occorrerebbe forse seguire le altalenanti vicissitudini del 'centro' e dei suoi inquieti inquilini con pi\u00f9 rispetto e insieme per\u00f2 con pi\u00f9 rigorosa severit\u00e0. Infatti il c\u2026 [+3707 chars]",
-      "retrievedAt": "2024-12-16 19:05:44.820131",
-      "internal_id": "5ab108bd74dce71125cd7d8a90956b05d8edd4931d6bb98a683cc96215b2193d",
-      "publishedAtLabel": "Dec 15"
-    },
-    {
-      "id": 16399,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Stockton Record",
-      "author": "Hannah Workman, The Stockton Record",
-      "title": "2 San Joaquin County farmworkers infected with bird flu after exposure to sick animals",
-      "description": "Two human cases of bird flu have been confirmed in San Joaquin County farmworkers. Public health officials said the risk to the general public is low.",
-      "url": "https://www.recordnet.com/story/news/healthcare/2024/12/15/2-san-joaquin-county-farmworkers-test-positive-for-bird-flu/76997469007/",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/pihXfwL8O_Zgx5jC5Vx6Pg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/the-stockton-record/cc0352b42d7be752f10be8834ad54e01",
-      "publishedAt": "2024-12-15 15:26:29",
-      "content": "Two human cases of the H5N1 virus, also known as avian flu or bird flu, have been confirmed in San Joaquin County, public health officials announced on Friday. The cases occurred in farmworkers with\u2026 [+2611 chars]",
-      "retrievedAt": "2024-12-16 19:05:44.268767",
-      "internal_id": "f25fa685cc7cf597dd0a33fef6122adb2e418a8f4bb073f7aa14d773475c9a86",
-      "publishedAtLabel": "Dec 15"
-    },
-    {
-      "id": 16401,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Jornada.com.mx",
-      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "title": "OMS: enfrenta Am\u00e9rica la mayor epidemia de dengue en 44 a\u00f1os",
-      "description": "La Organizaci\u00f3n Mundial de la Salud (OMS) alerta que el continente americano enfrenta la mayor epidemia de dengue desde que se tienen registros en 1980.",
-      "url": "https://www.jornada.com.mx/2024/12/15/politica/009n1pol",
-      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "publishedAt": "2024-12-15 08:32:29",
-      "content": "Peri\u00f3dico La JornadaDomingo 15 de diciembre de 2024, p. 9 La Organizaci\u00f3n Mundial de la Salud (OMS) alerta que el continente americano enfrenta la mayor epidemia de dengue desde que se tienen regist\u2026 [+2816 chars]",
-      "retrievedAt": "2024-12-16 19:05:44.837742",
-      "internal_id": "c851716747366c2acb2a98d20500d336168bc4fae74e7a737877c5bfc7dca444",
       "publishedAtLabel": "Dec 15"
     }
   ]

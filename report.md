@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 5
-- **Last harvest:** 2025-01-28 07:06
-- **Most recent article:** 2025-01-27 01:37:40
+- **New articles in last harvest:** 17
+- **Last harvest:** 2025-01-28 19:05
+- **Most recent article:** 2025-01-27 17:48:00
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-51 | 24-52 | 24-53 | 25-1 | 25-2 | 25-3 | 25-4 | 25-5 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| h5n1 | 111 | 65 | 27 | 27 | 131 | 65 | 31 | 3 | 460 |
-| mpox | 92 | 35 | 2 | 6 | 91 | 34 | 23 | 1 | 284 |
-| malaria | 60 | 30 | 15 | 10 | 30 | 18 | 19 | 2 | 184 |
-| dengue | 30 | 24 | 6 | 12 | 41 | 29 | 37 | 3 | 182 |
+| h5n1 | 110 | 65 | 27 | 27 | 131 | 65 | 31 | 12 | 468 |
+| mpox | 92 | 35 | 2 | 6 | 91 | 34 | 23 | 2 | 285 |
+| malaria | 60 | 30 | 15 | 10 | 30 | 18 | 19 | 4 | 186 |
+| dengue | 28 | 24 | 6 | 12 | 41 | 29 | 37 | 5 | 182 |
 | hpai | 6 | 12 | 1 | 4 | 18 | 12 | 11 | 0 | 64 |
 | measles | 6 | 11 | 3 | 6 | 6 | 9 | 10 | 1 | 52 |
+| rabies | 7 | 8 | 1 | 1 | 2 | 6 | 7 | 2 | 34 |
 | chikungunya | 7 | 0 | 2 | 0 | 7 | 7 | 10 | 0 | 33 |
-| rabies | 7 | 8 | 1 | 1 | 2 | 6 | 7 | 0 | 32 |
 | zika | 4 | 2 | 0 | 0 | 15 | 5 | 2 | 0 | 28 |
-| meningitis | 5 | 3 | 1 | 2 | 0 | 2 | 3 | 2 | 18 |
+| meningitis | 5 | 3 | 1 | 2 | 0 | 2 | 3 | 3 | 19 |
 | pertussis | 4 | 6 | 0 | 1 | 2 | 0 | 1 | 0 | 14 |
 | yersinia | 0 | 6 | 0 | 0 | 3 | 2 | 0 | 0 | 11 |
 | leptospirosis | 0 | 2 | 0 | 0 | 0 | 1 | 2 | 0 | 5 |
@@ -33,11 +33,21 @@ Source: [News API](https://newsapi.org/)
 
 ---
 
+## 25-5 (rabies)
+
+- [Video shows rabid bear 'aggressively' approach and attack Pennsylvania man](https://nationalpost.com/news/rabid-bear-attacks-pennsylvania-man) (National Post)
+
+- [Rabid Bear Attacks Man in Pennsylvania](https://www.newser.com/story/363225/rabid-bear-attacks-man-in-pennsylvania.html) (Newser)
+
 ## 25-5 (mpox)
+
+- [Monday headlines: Pay no attention](https://themorningnews.org/p/monday-headlines-pay-no-attention) (Themorningnews.org)
 
 - [TWiV 1187: The tau of herpesvirus](https://www.microbe.tv/twiv/twiv-1187/) (Microbe.tv)
 
 ## 25-5 (meningitis)
+
+- [Dos personas en la UCI por el brote de meningitis en un colegio de Zaragoza: "Va a ser imposible determinar el origen"](https://www.elespanol.com/aragon/actualidad/20250127/personas-uci-brote-meningitis-colegio-zaragoza-va-imposible-determinar-origen/919658310_0.html) (Elespanol.com)
 
 - [Detectado un brote de meningitis en un colegio de Zaragoza con dos casos confirmados](https://www.huffingtonpost.es/sociedad/detectado-brote-meningitis-colegio-zaragoza-dos-casos-confirmadosbr.html) (Huffingtonpost.es)
 
@@ -49,11 +59,33 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-5 (malaria)
 
+- [Georgia se convierte en el país número 45 en erradicar la malaria](https://www.meneame.net/m/actualidad/georgia-convierte-pais-numero-45-erradicar-malaria) (Meneame.net)
+
+- [El grupo rebelde M23, apoyado por Ruanda, toma el control de la ciudad congolesa de Goma y 3.000 presos huyen de la cárcel](https://www.elespanol.com/mundo/20250127/grupo-rebelde-m23-apoyado-ruanda-toma-control-ciudad-congolesa-goma-presos-huyen-carcel/919658315_0.html) (Elespanol.com)
+
 - [Nigerian govt reaffirms commitment to malaria elimination](https://www.premiumtimesng.com/health/health-news/769668-nigerian-govt-reaffirms-commitment-to-malaria-elimination.html) (Premium Times)
 
 - [Georgia is malaria-free](https://www.thehindubusinessline.com/specials/pulse/georgia-is-malaria-free/article69142650.ece) (BusinessLine)
 
 ## 25-5 (h5n1)
+
+- [What Is H5N9? US Reports First Bird Flu Strain Outbreak in Poultry](https://www.newsweek.com/h5n9-bird-flu-strain-poultry-california-2021569) (Newsweek)
+
+- [«Σπάνιο» ανθρώπινο κρούσμα της γρίπης των πτηνών εντοπίστηκε στην Αγγλία](https://www.protothema.gr/world/article/1593404/spanio-anthropino-krousma-tis-gripis-ton-ptinon-edopistike-stin-agglia/) (Protothema.gr)
+
+- [Βρετανία: Εντοπίστηκε «σπάνιο» κρούσμα γρίπης των πτηνών – «Ο κίνδυνος για το ευρύ κοινό παραμένει πολύ χαμηλός»](https://www.newsit.gr/kosmos/vretania-entopistike-spanio-krousma-gripis-ton-ptinon-o-kindynos-gia-to-eyry-koino-paramenei-poly-xamilos/4293974/) (Newsit.gr)
+
+- [«Σπάνιο» ανθρώπινο κρούσμα της γρίπης των πτηνών εντοπίστηκε στην Αγγλία](https://www.skai.gr/news/world/agglia-entopistike-spanio-anthropino-krousma-tis-gripis-ton-ptinon) (Skai.gr)
+
+- [Βρετανία: «Σπάνιο» ανθρώπινο κρούσμα της γρίπης των πτηνών εντοπίστηκε στην Αγγλία](https://www.naftemporiki.gr/kosmos/1895328/vretania-spanio-anthropino-kroysma-tis-gripis-ton-ptinon-entopistike-stin-agglia/) (Naftemporiki.gr)
+
+- [Human case of avian flu detected in England](https://www.bmj.com/content/388/bmj.r177) (The BMJ)
+
+- [UK detects human case of bird flu, says wider risk remains low](https://economictimes.indiatimes.com/news/international/global-trends/uk-detects-human-case-of-bird-flu-says-wider-risk-remains-low/articleshow/117608160.cms) (The Times of India)
+
+- [رصد إصابة بشرية نادرة بإنفلونزا الطيور في بريطانيا](https://www.aljazeera.net/health/2025/1/27/%d8%b1%d8%b5%d8%af-%d8%a5%d8%b5%d8%a7%d8%a8%d8%a9-%d8%a8%d8%b4%d8%b1%d9%8a%d8%a9-%d9%86%d8%a7%d8%af%d8%b1%d8%a9-%d8%a8%d8%a5%d9%86%d9%81%d9%84%d9%88%d9%86%d8%b2%d8%a7) (Aljazeera.net)
+
+- [News story: Human case of avian flu detected in England](https://www.gov.uk/government/news/human-case-of-avian-flu-detected-in-england) (Www.gov.uk)
 
 - [Infectious Disease “Experts”: Bird Feces In The Wind Could Spread Avian Influenza](https://www.shtfplan.com/headline-news/infectious-disease-experts-bird-feces-in-the-wind-could-spread-avian-influenza) (Shtfplan.com)
 
@@ -62,6 +94,10 @@ Source: [News API](https://newsapi.org/)
 - [FDA recommends pet food companies revisit safety plans amid bird flu outbreak](https://www.nbcnews.com/health/health-news/raw-pet-food-bird-flu-outbreak-cats-fda-guidance-rcna189011) (NBC News)
 
 ## 25-5 (dengue)
+
+- [Dengue: saiba por que o tipo 3 é motivo de preocupação em 2025](https://www.metropoles.com/saude/dengue-tipo-3-motivo-preocupacao-em-2025) (Metropoles.com)
+
+- [Parece dengue: por que a ressaca é pior depois dos 30 e como evitar](https://www.terra.com.br/vida-e-estilo/verao/parece-dengue-por-que-a-ressaca-e-pior-depois-dos-30-e-como-evitar,8eb12047bd3e0745f18ffb61c55e452falp9ndcq.html) (Terra.com.br)
 
 - [Bacolod: NegOcc dengue cases up 296 percent](https://rpnradio.com/bacolod-negocc-dengue-cases-up-296-percent/) (Rpnradio.com)
 
@@ -2865,8 +2901,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Вирус гриппа А сохранил заразность в сыром коровьем молоке на несколько дней](https://nplus1.ru/news/2024/12/16/influenza-in-raw-milk) (Nplus1.ru)
 
-- [2 San Joaquin County farmworkers infected with bird flu after exposure to sick animals](https://www.recordnet.com/story/news/healthcare/2024/12/15/2-san-joaquin-county-farmworkers-test-positive-for-bird-flu/76997469007/) (Stockton Record)
-
 ## 24-51 (dengue)
 
 - [Could mosquitoes deliver vaccines against malaria?](https://www.aljazeera.com/news/2024/12/21/could-mosquitoes-deliver-vaccines-against-malaria) (Al Jazeera English)
@@ -2924,10 +2958,6 @@ Source: [News API](https://newsapi.org/)
 - [Saúde quer levar vacina contra dengue para dentro das escolas em 2025](https://www.metropoles.com/distrito-federal/saude-quer-levar-vacina-contra-dengue-para-dentro-das-escolas-em-2025) (Metropoles.com)
 
 - [México acumula 20 mil 931 casos por dengue](https://www.excelsior.com.mx/nacional/mexico-acumula-20-mil-931-casos-por-dengue/1689802) (Excelsior.com.mx)
-
-- [6mila morti di dengue in Brasile nel 2024, è record. L’allarme: “Cambiamenti climatici e siccità favoriscono riproduzione della zanzara”](https://www.ilfattoquotidiano.it/2024/12/15/morti-dengue-brasile-recort-allarme-cambiamenti-climatici-news/7805431/) (Ilfattoquotidiano.it)
-
-- [OMS: enfrenta América la mayor epidemia de dengue en 44 años](https://www.jornada.com.mx/2024/12/15/politica/009n1pol) (Jornada.com.mx)
 
 ## 24-51 (chikungunya)
 
