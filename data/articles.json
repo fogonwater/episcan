@@ -1,8 +1,80 @@
 {
-  "last_updated": "2025-01-27 19:05",
-  "count_articles_total": 1316,
-  "count_articles_new": 7,
+  "last_updated": "2025-01-28 07:06",
+  "count_articles_total": 1324,
+  "count_articles_new": 5,
   "articles": [
+    {
+      "id": 17720,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Rpnradio.com",
+      "author": "RPN Social",
+      "title": "Bacolod: NegOcc dengue cases up 296 percent",
+      "description": "Bacolod City \u2013 Dengue cases in Negros Occidental increased by 296 percent from January 1 to 18 this year, compared to the same period in 2024. The Provincial Health Office logged 250 cases, with two fatalities, within a period of almost three weeks, compared \u2026",
+      "url": "https://rpnradio.com/bacolod-negocc-dengue-cases-up-296-percent/",
+      "urlToImage": "https://rpnradio.com/wp-content/uploads/2024/11/dengue-1.jpg",
+      "publishedAt": "2025-01-27 01:37:40",
+      "content": "Bacolod City \u2013 Dengue cases in Negros Occidental increased by 296 percent from January 1 to 18 this year, compared to the same period in 2024. The Provincial Health Office logged 250 cases, with two\u2026 [+1233 chars]",
+      "retrievedAt": "2025-01-28 07:06:26.495042",
+      "internal_id": "c2d4c48608412bfae55b0f9001be17e7d80d444250007e10c88618bbabe982f6",
+      "publishedAtLabel": "Jan 27"
+    },
+    {
+      "id": 17721,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Huffingtonpost.es",
+      "author": "Redacci\u00f3n HuffPost / EP",
+      "title": "Detectado un brote de meningitis en un colegio de Zaragoza con dos casos confirmados",
+      "description": "El Gobierno de Arag\u00f3n ha comunicado este domingo la aparici\u00f3n de un brote de enfermedad meningoc\u00f3cica en un centro educativo de Zaragoza que deja por el momento dos casos confirmados y otros dos probables todav\u00eda sin confirmaci\u00f3n diagn\u00f3stica.wf_cm\u2026",
+      "url": "https://www.huffingtonpost.es/sociedad/detectado-brote-meningitis-colegio-zaragoza-dos-casos-confirmadosbr.html",
+      "urlToImage": "https://img.huffingtonpost.es/files/og_thumbnail/uploads/2025/01/26/urgencias-del-hospital-miguel-servet-de-zaragoza.jpeg",
+      "publishedAt": "2025-01-26 21:31:24",
+      "content": "El Gobierno de Arag\u00f3n ha comunicado este domingo la aparici\u00f3n de un brote de enfermedad meningoc\u00f3cica en un centro educativo de Zaragoza que deja por el momento dos casos confirmados y otros dos prob\u2026 [+1346 chars]",
+      "retrievedAt": "2025-01-28 07:06:26.662387",
+      "internal_id": "73c1b79310c227141bd41efa3020f30527ee3ed84e9f1a62759aed0bea251f1e",
+      "publishedAtLabel": "Jan 26"
+    },
+    {
+      "id": 17722,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Premium Times",
+      "author": "Mariam Ileyemi",
+      "title": "Nigerian govt reaffirms commitment to malaria elimination",
+      "description": "Mr Salako explained that SWAp enabled the ministry to track annual operations and implementation plans at state levels with a unified healthcare policy.",
+      "url": "https://www.premiumtimesng.com/health/health-news/769668-nigerian-govt-reaffirms-commitment-to-malaria-elimination.html",
+      "urlToImage": "https://media.premiumtimesng.com/wp-content/files/2024/01/Screenshot-583-e1704785799778.png",
+      "publishedAt": "2025-01-26 20:01:42",
+      "content": "The Nigerian Government has reaffirmed its commitment to eliminating malaria, citing the disease\u2019s significant socio-economic impact on the country. The Minister of State for Health and Social Welfa\u2026 [+1530 chars]",
+      "retrievedAt": "2025-01-28 07:06:27.017714",
+      "internal_id": "de51cd2df954f63dd059ea97a8d27d3c9e76156b73bb8dc334be762d32e2936b",
+      "publishedAtLabel": "Jan 26"
+    },
+    {
+      "id": 17719,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Laura Braga",
+      "title": "Goi\u00e1s registra 1\u00aa morte por dengue no ano. Seis casos s\u00e3o investigados",
+      "description": "Segundo a Secretaria de Sa\u00fade de Goi\u00e1s, j\u00e1 foram notificados quase 3 mil casos de dengue no estado. Pasta investiga outras 6 mortes",
+      "url": "https://www.metropoles.com/brasil/goias-registra-1a-morte-por-dengue-no-ano-seis-casos-sao-investigados",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2025/01/06072339/dengue-7.jpg",
+      "publishedAt": "2025-01-26 19:45:02",
+      "content": "Goi\u00e2nia \u2013 Goi\u00e1s registrou a primeira morte por dengue no estado neste ano de 2025. Segundo informa\u00e7\u00f5es da Secretaria de Sa\u00fade de Goi\u00e1s (SES-GO), o caso foi na cidade de Heitorai, no centro goiano. C\u2026 [+2301 chars]",
+      "retrievedAt": "2025-01-28 07:06:26.469513",
+      "internal_id": "d399c5b754980be912654a4e88828514e2a56e9e8c555fc593bff96b9edbb3f1",
+      "publishedAtLabel": "Jan 26"
+    },
     {
       "id": 17712,
       "query": [
@@ -505,6 +577,24 @@
       "content": "Abstract Chikungunya virus (CHIKV) is primarily associated with non-human-primates (NHPs) in Africa, which also infect humans. Since its introduction to Brazil in 2014, CHIKV has predominantly thriv\u2026 [+66739 chars]",
       "retrievedAt": "2025-01-25 19:05:36.583248",
       "internal_id": "aa2ded585f220c840223563b4dfe3458b26ca1178e43274f9b47348d45c79254",
+      "publishedAtLabel": "Jan 24"
+    },
+    {
+      "id": 17718,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Jo\u00e3o Pedro Lima, Jo\u00e3o Pedro Lima",
+      "title": "Coqueluche em gestantes: veja o alerta que estados est\u00e3o fazendo",
+      "description": "Alta nos casos de coqueluche refor\u00e7a a import\u00e2ncia da vacina\u00e7\u00e3o entre as gestantes",
+      "url": "https://saude.ig.com.br/2025-01-24/coqueluche-em-gestantes-alerta-estados.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/93/iy/np/93iynpjtuqa7ict7b8i1rvbkx.jpg",
+      "publishedAt": "2025-01-24 13:25:14",
+      "content": "O Brasil registrou um n\u00famero alto de casos de coqueluche, infec\u00e7\u00e3o respirat\u00f3ria causada por bact\u00e9ria ( Bordetella Pertussis ), no ano de 2024. Santa Catarina, por exemplo, registrou o maior n\u00famero d\u2026 [+4766 chars]",
+      "retrievedAt": "2025-01-28 07:06:24.634334",
+      "internal_id": "19c035916a760d2c3b044fae3d9af83a069b3d483cc13c9e1be91295f4c29b95",
       "publishedAtLabel": "Jan 24"
     },
     {
@@ -23737,6 +23827,60 @@
       "content": "Hasta el pasado 09 de diciembre, en 30 entidades, nuestro pa\u00eds acumul\u00f3 120 mil 931 casos de dengue con el reporte de 362 muertes. Por lo anterior, en tan solo una semana se confirmaron 3 mil 436 \u2026 [+1252 chars]",
       "retrievedAt": "2024-12-17 07:07:13.266934",
       "internal_id": "e143a31c8095d8efbd0668c137f51c53d14464b6b7defa77df8186851c0c3386",
+      "publishedAtLabel": "Dec 15"
+    },
+    {
+      "id": 16400,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ilfattoquotidiano.it",
+      "author": "F. Q.",
+      "title": "6mila morti di dengue in Brasile nel 2024, \u00e8 record. L\u2019allarme: \u201cCambiamenti climatici e siccit\u00e0 favoriscono riproduzione della zanzara\u201d",
+      "description": "Secondo la ministra della salute Nisia Trindade, siccit\u00e0, alluvioni e innalzamento delle temperature favoriscono la pi\u00f9 rapida riproduzione delle zanzare. L\u2019incidenza \u00e8 di 3.253 casi per 100mila abitanti L'articolo 6mila morti di dengue in Brasile nel 2024, \u00e8\u2026",
+      "url": "https://www.ilfattoquotidiano.it/2024/12/15/morti-dengue-brasile-recort-allarme-cambiamenti-climatici-news/7805431/",
+      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2019/07/31/zanzaratigre1200.jpg",
+      "publishedAt": "2024-12-15 15:34:21",
+      "content": "Roma, 15 dic. (Adnkronos) - \"Occorrerebbe forse seguire le altalenanti vicissitudini del 'centro' e dei suoi inquieti inquilini con pi\u00f9 rispetto e insieme per\u00f2 con pi\u00f9 rigorosa severit\u00e0. Infatti il c\u2026 [+3707 chars]",
+      "retrievedAt": "2024-12-16 19:05:44.820131",
+      "internal_id": "5ab108bd74dce71125cd7d8a90956b05d8edd4931d6bb98a683cc96215b2193d",
+      "publishedAtLabel": "Dec 15"
+    },
+    {
+      "id": 16399,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Stockton Record",
+      "author": "Hannah Workman, The Stockton Record",
+      "title": "2 San Joaquin County farmworkers infected with bird flu after exposure to sick animals",
+      "description": "Two human cases of bird flu have been confirmed in San Joaquin County farmworkers. Public health officials said the risk to the general public is low.",
+      "url": "https://www.recordnet.com/story/news/healthcare/2024/12/15/2-san-joaquin-county-farmworkers-test-positive-for-bird-flu/76997469007/",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/pihXfwL8O_Zgx5jC5Vx6Pg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/the-stockton-record/cc0352b42d7be752f10be8834ad54e01",
+      "publishedAt": "2024-12-15 15:26:29",
+      "content": "Two human cases of the H5N1 virus, also known as avian flu or bird flu, have been confirmed in San Joaquin County, public health officials announced on Friday. The cases occurred in farmworkers with\u2026 [+2611 chars]",
+      "retrievedAt": "2024-12-16 19:05:44.268767",
+      "internal_id": "f25fa685cc7cf597dd0a33fef6122adb2e418a8f4bb073f7aa14d773475c9a86",
+      "publishedAtLabel": "Dec 15"
+    },
+    {
+      "id": 16401,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "title": "OMS: enfrenta Am\u00e9rica la mayor epidemia de dengue en 44 a\u00f1os",
+      "description": "La Organizaci\u00f3n Mundial de la Salud (OMS) alerta que el continente americano enfrenta la mayor epidemia de dengue desde que se tienen registros en 1980.",
+      "url": "https://www.jornada.com.mx/2024/12/15/politica/009n1pol",
+      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "publishedAt": "2024-12-15 08:32:29",
+      "content": "Peri\u00f3dico La JornadaDomingo 15 de diciembre de 2024, p. 9 La Organizaci\u00f3n Mundial de la Salud (OMS) alerta que el continente americano enfrenta la mayor epidemia de dengue desde que se tienen regist\u2026 [+2816 chars]",
+      "retrievedAt": "2024-12-16 19:05:44.837742",
+      "internal_id": "c851716747366c2acb2a98d20500d336168bc4fae74e7a737877c5bfc7dca444",
       "publishedAtLabel": "Dec 15"
     }
   ]

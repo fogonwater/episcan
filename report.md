@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 7
-- **Last harvest:** 2025-01-27 19:05
-- **Most recent article:** 2025-01-26 18:00:48
+- **New articles in last harvest:** 5
+- **Last harvest:** 2025-01-28 07:06
+- **Most recent article:** 2025-01-27 01:37:40
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-51 | 24-52 | 24-53 | 25-1 | 25-2 | 25-3 | 25-4 | 25-5 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| h5n1 | 110 | 65 | 27 | 27 | 131 | 65 | 31 | 3 | 459 |
+| h5n1 | 111 | 65 | 27 | 27 | 131 | 65 | 31 | 3 | 460 |
 | mpox | 92 | 35 | 2 | 6 | 91 | 34 | 23 | 1 | 284 |
-| malaria | 60 | 30 | 15 | 10 | 30 | 18 | 19 | 1 | 183 |
-| dengue | 28 | 24 | 6 | 12 | 41 | 29 | 37 | 1 | 178 |
+| malaria | 60 | 30 | 15 | 10 | 30 | 18 | 19 | 2 | 184 |
+| dengue | 30 | 24 | 6 | 12 | 41 | 29 | 37 | 3 | 182 |
 | hpai | 6 | 12 | 1 | 4 | 18 | 12 | 11 | 0 | 64 |
 | measles | 6 | 11 | 3 | 6 | 6 | 9 | 10 | 1 | 52 |
 | chikungunya | 7 | 0 | 2 | 0 | 7 | 7 | 10 | 0 | 33 |
 | rabies | 7 | 8 | 1 | 1 | 2 | 6 | 7 | 0 | 32 |
 | zika | 4 | 2 | 0 | 0 | 15 | 5 | 2 | 0 | 28 |
-| meningitis | 5 | 3 | 1 | 2 | 0 | 2 | 3 | 1 | 17 |
-| pertussis | 4 | 6 | 0 | 1 | 2 | 0 | 0 | 0 | 13 |
+| meningitis | 5 | 3 | 1 | 2 | 0 | 2 | 3 | 2 | 18 |
+| pertussis | 4 | 6 | 0 | 1 | 2 | 0 | 1 | 0 | 14 |
 | yersinia | 0 | 6 | 0 | 0 | 3 | 2 | 0 | 0 | 11 |
 | leptospirosis | 0 | 2 | 0 | 0 | 0 | 1 | 2 | 0 | 5 |
 | typhoid | 0 | 0 | 0 | 0 | 0 | 4 | 0 | 0 | 4 |
@@ -39,6 +39,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-5 (meningitis)
 
+- [Detectado un brote de meningitis en un colegio de Zaragoza con dos casos confirmados](https://www.huffingtonpost.es/sociedad/detectado-brote-meningitis-colegio-zaragoza-dos-casos-confirmadosbr.html) (Huffingtonpost.es)
+
 - [Rueda reivindica a Galicia como "líder" en la vacunación de la meningitis al contar con el calendario "más completo"](https://www.europapress.es/galicia/noticia-rueda-reivindica-galicia-lider-vacunacion-meningitis-contar-calendario-mas-completo-20250126115823.html) (Europapress.es)
 
 ## 25-5 (measles)
@@ -46,6 +48,8 @@ Source: [News API](https://newsapi.org/)
 - [Asha workers to identify 1 million children for MMR vaccination, special campaigns soon](https://www.livemint.com/industry/asha-workers-mmr-vaccination-special-campaigns-mumps-measles-rubella-accredited-social-health-activist-11737708760867.html) (Livemint)
 
 ## 25-5 (malaria)
+
+- [Nigerian govt reaffirms commitment to malaria elimination](https://www.premiumtimesng.com/health/health-news/769668-nigerian-govt-reaffirms-commitment-to-malaria-elimination.html) (Premium Times)
 
 - [Georgia is malaria-free](https://www.thehindubusinessline.com/specials/pulse/georgia-is-malaria-free/article69142650.ece) (BusinessLine)
 
@@ -58,6 +62,10 @@ Source: [News API](https://newsapi.org/)
 - [FDA recommends pet food companies revisit safety plans amid bird flu outbreak](https://www.nbcnews.com/health/health-news/raw-pet-food-bird-flu-outbreak-cats-fda-guidance-rcna189011) (NBC News)
 
 ## 25-5 (dengue)
+
+- [Bacolod: NegOcc dengue cases up 296 percent](https://rpnradio.com/bacolod-negocc-dengue-cases-up-296-percent/) (Rpnradio.com)
+
+- [Goiás registra 1ª morte por dengue no ano. Seis casos são investigados](https://www.metropoles.com/brasil/goias-registra-1a-morte-por-dengue-no-ano-seis-casos-sao-investigados) (Metropoles.com)
 
 - [Sociedade médica alerta para baixa procura da vacina contra a dengue; sorotipo 3 preocupa](https://valor.globo.com/brasil/noticia/2025/01/26/sociedade-medica-alerta-para-baixa-procura-da-vacina-contra-a-dengue-sorotipo-3-preocupa.ghtml) (Globo)
 
@@ -82,6 +90,10 @@ Source: [News API](https://newsapi.org/)
 - [A Pictorial Human Case of “Furious Rabies”](https://wwwnc.cdc.gov/eid/article/31/2/ac-3102_article) (Cdc.gov)
 
 - [‘Rabid’ sloth bear kills father-son duo, injures forest ranger, terrorizes villagers in Chhattisgarh](https://timesofindia.indiatimes.com/city/raipur/rabid-sloth-bear-kills-father-son-duo-injures-forest-ranger-terrorizes-villagers-in-chhattisgarh/articleshow/117417223.cms) (The Times of India)
+
+## 25-4 (pertussis)
+
+- [Coqueluche em gestantes: veja o alerta que estados estão fazendo](https://saude.ig.com.br/2025-01-24/coqueluche-em-gestantes-alerta-estados.html) (Ig.com.br)
 
 ## 25-4 (mpox)
 
@@ -2853,6 +2865,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Вирус гриппа А сохранил заразность в сыром коровьем молоке на несколько дней](https://nplus1.ru/news/2024/12/16/influenza-in-raw-milk) (Nplus1.ru)
 
+- [2 San Joaquin County farmworkers infected with bird flu after exposure to sick animals](https://www.recordnet.com/story/news/healthcare/2024/12/15/2-san-joaquin-county-farmworkers-test-positive-for-bird-flu/76997469007/) (Stockton Record)
+
 ## 24-51 (dengue)
 
 - [Could mosquitoes deliver vaccines against malaria?](https://www.aljazeera.com/news/2024/12/21/could-mosquitoes-deliver-vaccines-against-malaria) (Al Jazeera English)
@@ -2910,6 +2924,10 @@ Source: [News API](https://newsapi.org/)
 - [Saúde quer levar vacina contra dengue para dentro das escolas em 2025](https://www.metropoles.com/distrito-federal/saude-quer-levar-vacina-contra-dengue-para-dentro-das-escolas-em-2025) (Metropoles.com)
 
 - [México acumula 20 mil 931 casos por dengue](https://www.excelsior.com.mx/nacional/mexico-acumula-20-mil-931-casos-por-dengue/1689802) (Excelsior.com.mx)
+
+- [6mila morti di dengue in Brasile nel 2024, è record. L’allarme: “Cambiamenti climatici e siccità favoriscono riproduzione della zanzara”](https://www.ilfattoquotidiano.it/2024/12/15/morti-dengue-brasile-recort-allarme-cambiamenti-climatici-news/7805431/) (Ilfattoquotidiano.it)
+
+- [OMS: enfrenta América la mayor epidemia de dengue en 44 años](https://www.jornada.com.mx/2024/12/15/politica/009n1pol) (Jornada.com.mx)
 
 ## 24-51 (chikungunya)
 
