@@ -1,8 +1,638 @@
 {
-  "last_updated": "2025-01-29 07:06",
-  "count_articles_total": 1353,
-  "count_articles_new": 12,
+  "last_updated": "2025-01-29 19:05",
+  "count_articles_total": 1385,
+  "count_articles_new": 35,
   "articles": [
+    {
+      "id": 17752,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "FOX 5 Atlanta",
+      "author": "Fox 5 Atlanta",
+      "title": "First case of measles in the state for the year reported, Georgia DPH says",
+      "description": "The Georgia Department of Public Health (DPH) has confirmed the first case of measles in the state for 2025.",
+      "url": "https://www.fox5atlanta.com/news/first-case-measles-state-year-reported-georgia-dph-says",
+      "urlToImage": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2019/11/1280/720/Measles-germs-pic_1546020282274.png_6564173_ver1.0_2560_1440-2.jpg?ve=1&tl=1",
+      "publishedAt": "2025-01-28 19:05:48",
+      "content": "ATLANTA - The Georgia Department of Public Health (DPH) has confirmed the first case of measles in the state for 2025. The infected individual, an unvaccinated metro Atlanta resident, contracted the \u2026 [+1719 chars]",
+      "retrievedAt": "2025-01-29 19:05:54.175720",
+      "internal_id": "0a9d400ba0eb2e1ab044e36a1494153eaf468310d9d231e0d2f34f5ecfef16a6",
+      "publishedAtLabel": "Jan 28"
+    },
+    {
+      "id": 17779,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Peter Dada",
+      "title": "Ondo to spend N12bn on child, maternal mortality",
+      "description": "The Ondo State Government on Tuesday disclosed that it will spend N12 billion in fighting child and maternal mortality in the state. The government also explained that the money would be spent through the Immunisation Plus and Malaria Progress by Accelerating\u2026",
+      "url": "https://punchng.com/ondo-to-spend-n12bn-on-child-maternal-mortality/",
+      "urlToImage": "https://cdn.punchng.com/2021/03/a2-18.jpg",
+      "publishedAt": "2025-01-28 19:01:12",
+      "content": "The Ondo State Government on Tuesday disclosed that it will spend N12 billion in fighting child and maternal mortality in the state. The government also explained that the money would be spent throu\u2026 [+2731 chars]",
+      "retrievedAt": "2025-01-29 19:05:57.013773",
+      "internal_id": "026e450c5b261b6ada487395bf7af9c02c207f54bab33f33771cb684f64e4437",
+      "publishedAtLabel": "Jan 28"
+    },
+    {
+      "id": 17756,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Gizmodo.com",
+      "author": "Lucas Handley",
+      "title": "En una granja av\u00edcola de California hallan nueva cepa de gripe aviar",
+      "description": "Es la primera vez que encuentran el altamente pat\u00f3geno H5N5 de la gripe aviar en aves de corral en EE.UU.",
+      "url": "https://es.gizmodo.com/en-una-granja-avicola-de-california-hallan-nueva-cepa-de-gripe-aviar-2000146329",
+      "urlToImage": "https://es.gizmodo.com/app/uploads/2025/01/Diseno-sin-titulo-2025-01-28T150409.101.jpg",
+      "publishedAt": "2025-01-28 18:05:52",
+      "content": "Tal parece que el H5N1 no es el \u00fanico tipo de virus de gripe aviar que debe preocupar a EE.UU. Los funcionarios federales informaron ahora que encontraron en California el altamente pat\u00f3geno H5N9 de \u2026 [+3022 chars]",
+      "retrievedAt": "2025-01-29 19:05:55.211726",
+      "internal_id": "78cb97ed13892193f22ba195d257f5358154a7c2f2729a29221912987fbc770a",
+      "publishedAtLabel": "Jan 28"
+    },
+    {
+      "id": 17755,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Gizmodo.com",
+      "author": "Ed Cara",
+      "title": "New Strain of Bird Flu Found on California Duck Farm",
+      "description": "It's the first time that highly pathogenic avian influenza H5N9 has been found in U.S. poultry.",
+      "url": "https://gizmodo.com/new-strain-of-bird-flu-found-on-california-duck-farm-2000555762",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/01/Duck.jpg",
+      "publishedAt": "2025-01-28 17:25:49",
+      "content": "It looks like H5N1 isn\u2019t the only kind of bird flu that Americans should be worried about. Federal officials have just reported finding highly pathogenic H5N9 avian influenza among ducks at a commerc\u2026 [+3408 chars]",
+      "retrievedAt": "2025-01-29 19:05:55.202649",
+      "internal_id": "16bd22086ddafb19000f242d0793391ede00abb101af4aed3b22a53513543edc",
+      "publishedAtLabel": "Jan 28"
+    },
+    {
+      "id": 17754,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Computerworld.dk",
+      "author": "Jacob \u00d8. Wittorff",
+      "title": "Deepseek sender dine data direkte til Kina - disse oplysninger bliver indsamlet",
+      "description": "Ai-appen Deepseek indsamler masser af data om dig, og de bliver sendt direkte til Kina.",
+      "url": "https://www.computerworld.dk/art/290263/deepseek-sender-dine-data-direkte-til-kina-disse-oplysninger-bliver-indsamlet-om-dig",
+      "urlToImage": "https://www.computerworld.dk/fil/231074?width=600&height=315&focus=1",
+      "publishedAt": "2025-01-28 16:50:00",
+      "content": "Ai-appen Deepseek indsamler masser af data om dig, og de bliver sendt direkte til Kina.Annonceindl\u00e6g fra HPAI-ekspert Robert Luciani: Den rigtige teknologi er afg\u00f8rende for succes med AI-udvikling D\u2026 [+1901 chars]",
+      "retrievedAt": "2025-01-29 19:05:54.669515",
+      "internal_id": "79fef4440fd9f3c7d13da8b1ef75d66208dc914f4962e6c1eb3d16fd176d2130",
+      "publishedAtLabel": "Jan 28"
+    },
+    {
+      "id": 17758,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Alexander Tin",
+      "title": "How are H5N9 and H5N1 different? What to know after California bird flu outbreak",
+      "description": "A different strain of H5N9 has shown up in U.S. birds before.",
+      "url": "https://www.cbsnews.com/news/h5n9-h5n1-bird-flu-what-to-know/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/11/13/64d021f6-4444-4002-a5e4-8b9cf3ace186/thumbnail/1200x630/e8f20e6a9bd8a29391fcddcd8a70c4c0/ap24312642041229.jpg?v=d4034f91d2441fe84007132fdf593e3f",
+      "publishedAt": "2025-01-28 16:30:40",
+      "content": "A California duck farm made headlines this week after the World Organization of Animal Health published a report by U.S. authorities that a strain of bird flu that scientists call H5N9 had been found\u2026 [+5197 chars]",
+      "retrievedAt": "2025-01-29 19:05:55.233409",
+      "internal_id": "2c2edfba2674f4b197e84bfe55206a59939014830d588ebc2e2b7b269a9aba05",
+      "publishedAtLabel": "Jan 28"
+    },
+    {
+      "id": 17785,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Themorningnews.org",
+      "author": null,
+      "title": "Tuesday headlines: Happily ever laughter",
+      "description": "Human-like fossils found in China appear to have extremely large brains, bigger than ours. / RNZ A study finds 55 percent of 18 to 34-year-olds approve of the use of violence, property damage, or misinformation to enact change. / VICE College enrollment in \u2026",
+      "url": "https://themorningnews.org/p/tuesday-headlines-happily-ever-laughter",
+      "urlToImage": "https://themorningnews.org/images/tmn-logo-share.png",
+      "publishedAt": "2025-01-28 15:55:00",
+      "content": "In an unwritten, unannounced policy change, Louisiana's Dept. of Health is forbidding employees from promoting Covid, flu, or mpox vaccines. / NPR Photos of daily life for the Palestinian people\u2014\"be\u2026 [+2219 chars]",
+      "retrievedAt": "2025-01-29 19:05:57.889254",
+      "internal_id": "d225bb9c05b9e683acdae1584ca3332c4b94d5e8c8cc1c58f984f2bffbce1469",
+      "publishedAtLabel": "Jan 28"
+    },
+    {
+      "id": 17782,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Milenio",
+      "author": "Agencia Reuters",
+      "title": "Trump corta suministro de medicamentos para el VIH, malaria y tuberculosis: Reuters",
+      "description": "El gobierno de Donald Trumpha tomado medidas para detener el suministro de medicamentos que salvan vidas contra el VIH, la malaria y la tuberculosis, as\u00ed como suministros m\u00e9dicos para reci\u00e9n nacidos, en pa\u00edses apoyados por USAID en todo el mundo, seg\u00fan mostr\u00f3\u2026",
+      "url": "https://www.milenio.com/internacional/donald-trump-ordena-cortar-suministro-medicamentos-vih-reuter",
+      "urlToImage": "https://cdn.milenio.com/uploads/media/2025/01/28/presidente-trump-orden-limitar-ayudas.jpg",
+      "publishedAt": "2025-01-28 15:19:10",
+      "content": "El gobierno de Donald Trump ha tomado medidas para detener el suministro de medicamentos que salvan vidas contra el VIH, la malaria y la tuberculosis, as\u00ed como suministros m\u00e9dicos para reci\u00e9n nacidos\u2026 [+2927 chars]",
+      "retrievedAt": "2025-01-29 19:05:57.053658",
+      "internal_id": "8bab00e8cbc07c11ac64d2ead75a0e590d119433339274c5114339ab6fab4c75",
+      "publishedAtLabel": "Jan 28"
+    },
+    {
+      "id": 17778,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Forbes.com.mx",
+      "author": "Forbes Staff",
+      "title": "Trump detendr\u00e1 suministro de medicamentos contra VIH y Malaria a los pa\u00edses pobres",
+      "description": "Forbes M\u00e9xico. Trump detendr\u00e1 suministro de medicamentos contra VIH y Malaria a los pa\u00edses pobres El martes, los contratistas y socios que trabajan con la Agencia de Estados Unidos para el Desarrollo Internacional (USAID) empezaron a recibir estos memorando\u2026",
+      "url": "https://forbes.com.mx/trump-paralizara-suministro-de-medicamentos-contra-vih-y-malaria-a-los-paises-pobres/",
+      "urlToImage": "https://cdn.forbes.com.mx/2025/01/trump-ordenes-1.webp",
+      "publishedAt": "2025-01-28 15:03:06",
+      "content": "El gobierno de Donald Trump ha tomado medidas para detener el suministro de medicamentos que salvan vidas contra el VIH, la malaria y la tuberculosis, as\u00ed como suministros m\u00e9dicos para reci\u00e9n nacidos\u2026 [+2845 chars]",
+      "retrievedAt": "2025-01-29 19:05:57.006365",
+      "internal_id": "a72b498db244dce20506c9d8d4ed3d1547a3533e4bbe2912addb2e2b5861158d",
+      "publishedAtLabel": "Jan 28"
+    },
+    {
+      "id": 17776,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Diepresse.com",
+      "author": "Die Presse",
+      "title": "Trump stoppt Hilfslieferungen: Keine Malaria-Medikamente f\u00fcr Entwicklungsl\u00e4nder",
+      "description": "Die Administration des neuen US-Pr\u00e4sidenten l\u00e4sst Hilfsprogramme einfrieren, um Projekte zu \u00fcberpr\u00fcfen. Davon sind auch Lieferungen von Arzneimitteln gegen HIV, Malaria und Tuberkulose betroffen. Dutzende hochrangige USAID-Mitarbeiter d\u00fcrften beurlaubt worden\u2026",
+      "url": "https://www.diepresse.com/19303266/trump-stoppt-hilfslieferungen-keine-malaria-medikamente-fuer-entwicklungslaender",
+      "urlToImage": "https://img.diepresse.com/public/incoming/cldt3y-USA-TRUMPAID/alternates/DPR_SOCIAL_NACHRICHTEN/USA-TRUMPAID",
+      "publishedAt": "2025-01-28 14:45:16",
+      "content": "Die Administration des neuen US-Pr\u00e4sidenten l\u00e4sst Hilfsprogramme einfrieren, um Projekte zu \u00fcberpr\u00fcfen. Davon sind auch Lieferungen von Arzneimitteln gegen HIV, Malaria und Tuberkulose betroffen. Dut\u2026 [+2455 chars]",
+      "retrievedAt": "2025-01-29 19:05:56.991628",
+      "internal_id": "136936bb2fd0196bd6ba4013119c2203e808937cc18f9b00ab78bdcbc5e93932",
+      "publishedAtLabel": "Jan 28"
+    },
+    {
+      "id": 17766,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ET Online",
+      "title": "Why a virus discovered in China a decade ago is now raising concerns in the US",
+      "description": "A decade-old bird flu strain, H5N9, has surfaced in US poultry for the first time, detected in a California duck farm. Experts are concerned about its potential transmission to humans. While H5N1 is more common, H5N9's emergence prompted investigations follow\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/why-a-virus-discovered-in-china-a-decade-ago-is-now-raising-concerns-in-the-us/articleshow/117642216.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-117642478,width-1200,height-630,imgsize-45140,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-01-28 14:27:36",
+      "content": "Artificial Intelligence(AI) AI and Analytics based Business Strategy By - Tanusree De, Managing Director- Accenture Technology Lead, Trustworthy AI Center of Excellence: ATCI View Program",
+      "retrievedAt": "2025-01-29 19:05:55.376008",
+      "internal_id": "3547499317deff6bc33a90edd54c0f6ec84661e0616b1d1adc54ba8a1cdb43d9",
+      "publishedAtLabel": "Jan 28"
+    },
+    {
+      "id": 17777,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Aristeguinoticias.com",
+      "author": "Redacci\u00f3n AN / SH",
+      "title": "Trump da la espalda a pa\u00edses pobres; paralizar\u00e1 suministro de medicamentos contra VIH y la malaria",
+      "description": "Los contratistas y socios que trabajan con la Agencia de Estados Unidos para el Desarrollo Internacional (USAID) empezaron a recibir estos memorandos para dejar de trabajar inmediatamente.",
+      "url": "https://aristeguinoticias.com/2801/mundo/trump-da-la-espalda-a-paises-pobres-paralizara-suministro-de-medicamentos-contra-vih-y-la-malaria/",
+      "urlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2025/01/Diseno-sin-titulo-2.jpg",
+      "publishedAt": "2025-01-28 14:26:03",
+      "content": "El gobierno de Donald Trump ha tomado medidas para detener el suministro de medicamentos que salvan vidas contra el VIH, la malaria y la tuberculosis, as\u00ed como suministros m\u00e9dicos para reci\u00e9n nacidos\u2026 [+2575 chars]",
+      "retrievedAt": "2025-01-29 19:05:56.999188",
+      "internal_id": "10e694ee6000cf23541d5ab006f35fe1605f21ab9a372280f9b9c602d9dda896",
+      "publishedAtLabel": "Jan 28"
+    },
+    {
+      "id": 17753,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Turkiyegazetesi.com.tr",
+      "author": "AFP, AFP",
+      "title": "ABD'de yeni ku\u015f gribi t\u00fcr\u00fc tespit edildi: Pandemi kap\u0131da!",
+      "description": "ABD\u2019de yeni bir ku\u015f gribi t\u00fcr\u00fc tespit edildi. Kaliforniya\u2019n\u0131n Merced County b\u00f6lgesindeki bir \u00f6rdek \u00e7iftli\u011finde, y\u00fcksek patojenik ku\u015f gribi (HPAI) H5N9 t\u00fcr\u00fc do\u011fruland\u0131.",
+      "url": "https://www.turkiyegazetesi.com.tr/dunya/abdde-yeni-kus-gribi-turu-tespit-edildi-pandemi-kapida-1090032",
+      "urlToImage": "https://i.turkiyegazetesi.com.tr/images/25-01/28/abdde-yeni-kus-gribi-turu-tespit-edildi-pandemi-kapida-17380738077200.jpg",
+      "publishedAt": "2025-01-28 14:13:39",
+      "content": "",
+      "retrievedAt": "2025-01-29 19:05:54.661836",
+      "internal_id": "0d1ee391ac8ce2f26e80d898555583fa18d175540a8a9e65c1feaaf5cd101270",
+      "publishedAtLabel": "Jan 28"
+    },
+    {
+      "id": 17773,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Cheng-Hsun Yang, Ing-Kit Lee, Yi-Chun Chen, Wen-Chi Huang, Jui-Chi Hsu, Chien-Hsiang Tai, Chung-Hao Huang, Chun-Yu Lin, Yen-Hsu Chen",
+      "title": "Prognostic factors in severe dengue patients: A multi-center retrospective cohort study",
+      "description": "Author summary The early identification of severe dengue (SD) patients who are at high risk of mortality is crucial for frontline physicians to deliver timely and intensive clinical interventions. This study is particularly significant as it focuses on SD pat\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012846",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012846.g002&size=inline",
+      "publishedAt": "2025-01-28 14:00:00",
+      "content": "Citation: Yang C-H, Lee I-K, Chen Y-C, Huang W-C, Hsu J-C, Tai C-H, et al. (2025) Prognostic factors in severe dengue patients: A multi-center retrospective cohort study. PLoS Negl Trop Dis 19(1): \u2026 [+25288 chars]",
+      "retrievedAt": "2025-01-29 19:05:56.069137",
+      "internal_id": "58b4ae629f5ff70f183db5628fc7a2e6355631c23ffdefbf75997a7f15b55d03",
+      "publishedAtLabel": "Jan 28"
+    },
+    {
+      "id": 17781,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Der Tagesspiegel",
+      "title": "90-t\u00e4gige Pausierung von US-Hilfsprogrammen: Trump stoppt Medikamenten-Lieferung in Entwicklungsl\u00e4nder",
+      "description": "Der US-Pr\u00e4sident hat die Unterbrechung von Medikamentenlieferungen in Entwicklungsl\u00e4nder angeordnet. Dadurch k\u00f6nnte sich HIV rasant ausbreiten.",
+      "url": "https://www.tagesspiegel.de/internationales/90-tagige-pausierung-von-us-hilfsprogrammen-trump-stoppt-medikamenten-lieferung-in-entwicklungslander-13101925.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/13102453/alternates/BASE_16_9_W1400/1738072540000/die-anweisung-betrifft-die-lieferung-von-arzneimitteln-gegen-hiv-malaria-und-tuberkulose-sowie-verhutungsmittel-und-medikamente-fur-mutter-und-kinder.jpeg",
+      "publishedAt": "2025-01-28 13:56:15",
+      "content": "Die Regierung von US-Pr\u00e4sident Donald Trump hat die Lieferung von Medikamenten gegen HIV, Malaria und Tuberkulose sowie von medizinischen Hilfsg\u00fctern f\u00fcr Neugeborene in von der US-Entwicklungshilfeag\u2026 [+3102 chars]",
+      "retrievedAt": "2025-01-29 19:05:57.039972",
+      "internal_id": "a4762aa36cd6990ed6fc8f75bc141b50047a80281811ea2506fd085e5abc0b55",
+      "publishedAtLabel": "Jan 28"
+    },
+    {
+      "id": 17780,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Bangkok Post",
+      "author": "Reuters and Post Reporters",
+      "title": "Trump foreign-aid freeze leaves millions without essential drugs",
+      "description": "The Trump administration has moved to stop the supply of lifesaving drugs for HIV, malaria and tuberculosis, as well as medical supplies for newborn babies, in countries supported by USAID around the globe, a memo reviewed by Reuters shows.",
+      "url": "https://www.bangkokpost.com/world/2949515/trump-foreign-aid-freeze-leaves-millions-without-essential-drugs",
+      "urlToImage": "https://static.bangkokpost.com/media/content/20250128/c1_2949515_250128210146_700.jpg",
+      "publishedAt": "2025-01-28 13:52:00",
+      "content": "The Trump administration has moved to stop the supply of lifesaving drugs for HIV, malaria and tuberculosis, as well as medical supplies for newborn babies, in countries supported by USAID around the\u2026 [+3069 chars]",
+      "retrievedAt": "2025-01-29 19:05:57.027293",
+      "internal_id": "f70a03c29712b3a0ac5471826afad17e0e7d748c895f925b1d6ec4d8d1a687de",
+      "publishedAtLabel": "Jan 28"
+    },
+    {
+      "id": 17761,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Ravenna Alves",
+      "title": "Caso de gripe avi\u00e1ria H5N1 em humano \u00e9 detectado na Inglaterra",
+      "description": "O paciente foi infectado pela gripe avi\u00e1ria H5N1 em uma fazenda, onde teve contato pr\u00f3ximo e prolongado com um grande n\u00famero de aves doentes",
+      "url": "https://www.metropoles.com/saude/gripe-aviaria-h5n1-confirmado-inglaterra",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2023/04/12160026/GettyImages-1326159072.jpg",
+      "publishedAt": "2025-01-28 13:43:54",
+      "content": "As autoridades de sa\u00fade do Reino Unido anunciaram, nessa segunda-feira (27/1), a detec\u00e7\u00e3o de um caso de gripe avi\u00e1ria H5N1 em humano. O paciente \u00e9 um morador da regi\u00e3o central da Inglaterra. Apesar \u2026 [+2212 chars]",
+      "retrievedAt": "2025-01-29 19:05:55.315615",
+      "internal_id": "c8c3a8985b867c5df27c67781d854318a3fa802534fb65d7fae8035f922b6794",
+      "publishedAtLabel": "Jan 28"
+    },
+    {
+      "id": 17775,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "aftenposten",
+      "source_name": "Aftenposten",
+      "author": null,
+      "title": "Reuters: Trump kutter i medisiner til fattige land",
+      "description": "Trump-administrasjonen stopper tilf\u00f8rselen av livreddende medisiner mot hiv, malaria og tuberkulose, samt medisinsk\u2026",
+      "url": "https://www.aftenposten.no/norge/i/mBKed4/siste-nytt-fra-norge-og-utlandet?pinnedEntry=116372",
+      "urlToImage": "https://imbo.vgc.no/users/bt/images/c7f968b2628d59e9b10759f18df1a960?t%5B%5D=maxSize%3Awidth%3D1200&publicKey=bt-w&accessToken=f1eba684461cbd4a757e917c1123e9b03feca445e52393d133231f49ed8a38f0",
+      "publishedAt": "2025-01-28 13:39:16",
+      "content": "Mange protesterer i Kinshasa mot M23-oppr\u00f8rernes offensiv \u00f8st i Kongo. Foto: Samy Ntumba Shambuyi / AP / NTB Demonstranter angriper flere ambassader i Kongo Flere lands ambassader i Kongos hovedsta\u2026 [+806 chars]",
+      "retrievedAt": "2025-01-29 19:05:56.983476",
+      "internal_id": "3960faaa88c6cb00fc2411d1dfd78c22cb9f876d4fb2d32475af4deaa8827dd3",
+      "publishedAtLabel": "Jan 28"
+    },
+    {
+      "id": 17767,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Ilfattoquotidiano.it",
+      "author": "F. Q.",
+      "title": "Aviaria, focolaio del virus H5N9 altamente patogeno in un allevamento di anatre in California",
+      "description": "La scoperta \u00e8 avvenuta parallelamente all\u2019identificazione del ceppo H5N1 (pi\u00f9 comune) nella stessa fattoria. Quasi 119.000 uccelli nella fattoria sono stati soppressi dall\u2019inizio di dicembre L'articolo Aviaria, focolaio del virus H5N9 altamente patogeno in un\u2026",
+      "url": "https://www.ilfattoquotidiano.it/2025/01/28/aviaria-focolaio-virus-h5n9-altamente-patogeno-anatre/7854640/",
+      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2025/01/28/anatre.jpg",
+      "publishedAt": "2025-01-28 13:31:55",
+      "content": "Roma, 28 gen. (Adnkronos Salute ) - Avvicinare i pazienti alle proprie cure, rendendo pi\u00f9 comoda la somministrazione dei farmaci grazie ad una prolungata durata della stabilit\u00e0 e favorire la possibil\u2026 [+7863 chars]",
+      "retrievedAt": "2025-01-29 19:05:55.383026",
+      "internal_id": "022776bc4647f7431d0fd04570b3c0020694662a04fcd503740c77e757933ffb",
+      "publishedAtLabel": "Jan 28"
+    },
+    {
+      "id": 17786,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
+      "author": "La r\u00e9daction avec AFP",
+      "title": "Sant\u00e9. Cas de nouveau variant de mpox \u00e0 Rennes : la patiente \u00ab se porte bien \u00bb",
+      "description": "La patiente, qui avait \u00e9t\u00e9 contamin\u00e9e d\u00e9but janvier, n'est plus malade et ne pr\u00e9sente plus de risque de contamination.",
+      "url": "https://www.ledauphine.com/sante/2025/01/28/cas-de-nouveau-variant-de-mpox-a-rennes-la-patiente-se-porte-bien",
+      "urlToImage": "https://cdn-s-www.ledauphine.com/images/1A7352FF-C36F-42A0-A637-DDCF3DD096BE/FB1200/photo-1738070029.jpg",
+      "publishedAt": "2025-01-28 13:15:00",
+      "content": "La patiente, qui avait \u00e9t\u00e9 contamin\u00e9e par un nouveau variant de mpox d\u00e9but janvier et qui \u00e9tait hospitalis\u00e9e \u00e0 Rennes (Ille-et-Vilaine), n'est plus malade et ne pr\u00e9sente plus de risque de contaminati\u2026 [+945 chars]",
+      "retrievedAt": "2025-01-29 19:05:57.896943",
+      "internal_id": "541a24750a98cf53386ac942d3e32c13b7c065ed226d6c10e56b8f0c0a2e54a8",
+      "publishedAtLabel": "Jan 28"
+    },
+    {
+      "id": 17783,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Reuters",
+      "title": "Trump order set to halt supply of HIV, malaria drugs to poor countries, sources say",
+      "description": "The Trump administration has halted the supply of essential drugs for HIV, malaria, and tuberculosis through USAID, along with other medical supplies for newborns in supported countries. This decision could lead to catastrophic health consequences, including \u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-order-set-to-halt-supply-of-hiv-malaria-drugs-to-poor-countries-sources-say/articleshow/117639091.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-117639160,width-1200,height-630,imgsize-29042,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-01-28 13:10:56",
+      "content": "The Trump administration has moved to stop the supply of lifesaving drugs for HIV, malaria and tuberculosis, as well as medical supplies for newborn babies, in countries supported by USAID around the\u2026 [+2188 chars]",
+      "retrievedAt": "2025-01-29 19:05:57.068088",
+      "internal_id": "4631d2e4c6b2f33e37a7438437fad58a6dcbf60621073b5f62fd19657c385b13",
+      "publishedAtLabel": "Jan 28"
+    },
+    {
+      "id": 17764,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Milenio",
+      "author": "Lizeth Hern\u00e1ndez",
+      "title": "Puede que nuestro cuerpo se este preparando para la gripe prepand\u00e9mica, seg\u00fan un estudio",
+      "description": "La gripe aviar provocada por el virus H5N1se mantiene bajo vigilancia, pues ha demostrado ser un desaf\u00edo colosal para la salud de diferentes especies. Su constante mutaci\u00f3n le ha permitido pasar de aves a comunidades de osos, zorros, elefantes marinos, gatos,\u2026",
+      "url": "https://www.milenio.com/ciencia-y-salud/gripe-aviar-cuerpo-humano-enfrentar-gripe-prepandemica",
+      "urlToImage": "https://cdn.milenio.com/uploads/media/2025/01/27/gripe-aviar-tipo-provocado-muerte.jpg",
+      "publishedAt": "2025-01-28 12:54:08",
+      "content": "La gripe aviarprovocada por el virus H5N1 se mantiene bajo vigilancia, pues ha demostrado ser un desaf\u00edo colosal para la salud de diferentes especies. Su constante mutaci\u00f3n le ha permitido pasar de a\u2026 [+5603 chars]",
+      "retrievedAt": "2025-01-29 19:05:55.355728",
+      "internal_id": "8a6cf3eaacd330411064a15cc7c1de3779017820714b64c5e2f053cca951ee87",
+      "publishedAtLabel": "Jan 28"
+    },
+    {
+      "id": 17763,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "The Feed",
+      "title": "H5N1 bird flu outbreak in US witness a sharp rise in egg price, squeezing profit for restaurants",
+      "description": "H5N1 bird flu has affected more than 136 million birds across the US since January 2022, when the virus was detected in wild aquatic birds. To curb its spread, entire poultry flocks are culled upon detection, driving egg prices to record highs. By December 20\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/us/h5n1-bird-flu-outbreak-in-us-witness-a-sharp-rise-in-egg-price-squeezing-profit-for-restaurants/articleshow/117637659.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-117637829,width-1200,height-630,imgsize-2601988,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-01-28 12:49:19",
+      "content": "Amid the ongoing avian flu outbreak and rising inflation, egg prices have surged across several cities in the US, placing significant pressure on restaurants and bakeries, many of which are strugglin\u2026 [+3238 chars]",
+      "retrievedAt": "2025-01-29 19:05:55.336333",
+      "internal_id": "fe8ae1d234b9f72dc5499ff605761d8fddb1b48bb64e9839f36e0bf0a6fe4b53",
+      "publishedAtLabel": "Jan 28"
+    },
+    {
+      "id": 17784,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Jennifer Rigby",
+      "title": "Trump order set to halt supply of HIV, malaria drugs to poor countries, sources say",
+      "description": "LONDON (Reuters) - The Trump administration has moved to stop the supply of lifesaving drugs for HIV, malaria and tuberculosis, as well as medical supplies for newborn babies, in countries supported by USAID around the globe, a memo reviewed by Reuters showed\u2026",
+      "url": "https://www.thestar.com.my/news/world/2025/01/28/trump-order-set-to-halt-supply-of-hiv-malaria-drugs-to-poor-countries-sources-say",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/01/28/3141753.jpg",
+      "publishedAt": "2025-01-28 12:40:00",
+      "content": "LONDON (Reuters) - The Trump administration has moved to stop the supply of lifesaving drugs for HIV, malaria and tuberculosis, as well as medical supplies for newborn babies, in countries supported \u2026 [+2213 chars]",
+      "retrievedAt": "2025-01-29 19:05:57.089968",
+      "internal_id": "3cbe5487535344b57a5e6e794debaf396b57ce8c5e4de3dd4dad06e6eb5dcc29",
+      "publishedAtLabel": "Jan 28"
+    },
+    {
+      "id": 17765,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "AFP",
+      "title": "New strain of bird flu confirmed in US",
+      "description": "A new strain of bird flu, H5N9, has been confirmed at a duck farm in California, marking the first instance of the strain in US poultry. The outbreak, discovered on January 13, led to the culling of 119,000 ducks. While the H5N1 strain was also present, healt\u2026",
+      "url": "https://timesofindia.indiatimes.com/world/us/new-strain-of-bird-flu-confirmed-in-us/articleshow/117636982.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-117637595,width-1070,height-580,imgsize-712222,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2025-01-28 12:32:16",
+      "content": "10 most beautiful sea animals",
+      "retrievedAt": "2025-01-29 19:05:55.363028",
+      "internal_id": "3b4fd8c3f754e582f00ecc4f191d6cd29e40f6288311aa948b3e6f7a8a60fe6b",
+      "publishedAtLabel": "Jan 28"
+    },
+    {
+      "id": 17757,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Nakedcapitalism.com",
+      "author": "Yves Smith",
+      "title": "Links 1/28/2025",
+      "description": "Our scandalous daily links: imitative chimp peeing, heating oceans, H5N1 reassortment, China output fall, Niger blood oil, AfD alignment? UK job cuts, Iran hawks losing? Russia take on Trump bluster, Feds lose on warranteless searches, Trump spending freeze e\u2026",
+      "url": "https://www.nakedcapitalism.com/2025/01/links-1-28-2025.html",
+      "urlToImage": "https://www.nakedcapitalism.com/wp-content/uploads/2025/01/00-mallards.jpg",
+      "publishedAt": "2025-01-28 11:55:58",
+      "content": "Peeing Is Socially Contagious In Chimps 404media General Dwight D. Eisenhower had the foresight to realize that Holocaust denial would occur. Eisenhower said, Get it all on record now \u2013 get the fil\u2026 [+10972 chars]",
+      "retrievedAt": "2025-01-29 19:05:55.219726",
+      "internal_id": "8240b24e5ec7e620ede5838f378d65bb32065709300852fd7049f22f4a0ab41f",
+      "publishedAtLabel": "Jan 28"
+    },
+    {
+      "id": 17772,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "S\u00e3o Gon\u00e7alo",
+      "title": "Rio de Janeiro confirma primeira morte por dengue em 2025",
+      "description": "A pasta investiga outra morte suspeita de dengue. A v\u00edtima era um homem, de 38 anos, morador de Campo Grande",
+      "url": "https://www.metropoles.com/brasil/rio-de-janeiro-confirma-primeira-morte-por-dengue-em-2025",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2025/01/28074139/dengue-8.jpg",
+      "publishedAt": "2025-01-28 11:15:05",
+      "content": "A Secretaria Municipal de Sa\u00fade do Rio de Janeiro confirmou, nessa segunda-feira (27/1), a primeira morte em 2025 por dengue. A v\u00edtima era um homem, de 38 anos, morador de Campo Grande. Eles estava i\u2026 [+615 chars]",
+      "retrievedAt": "2025-01-29 19:05:56.043973",
+      "internal_id": "e452de7c8e831afa65291f1fef6326faa0e17f22f1bf39b21e08e478cdac8ad2",
+      "publishedAtLabel": "Jan 28"
+    },
+    {
+      "id": 17770,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Diogo Sponchiato",
+      "title": "Dengue: quando e por que a doen\u00e7a se torna grave e potencialmente letal",
+      "description": "Primeira morte pela infec\u00e7\u00e3o no Rio de Janeiro neste ano acende alerta para seriedade do quadro, sobretudo em idosos, crian\u00e7as e gestantes",
+      "url": "https://veja.abril.com.br/saude/dengue-quando-e-por-que-a-doenca-se-torna-grave-e-potencialmente-letal",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2020/03/dengue-exame-divulgacao-espirito-santo.webp?crop=1&resize=1080,565",
+      "publishedAt": "2025-01-28 11:06:22",
+      "content": "Oferta Rel\u00e2mpago: 4 revistas pelo pre\u00e7o de uma!Primeira morte pela infec\u00e7\u00e3o no Rio de Janeiro neste ano acende alerta para seriedade do quadro, sobretudo em idosos, crian\u00e7as e gestantes Por Carolin\u2026 [+3969 chars]",
+      "retrievedAt": "2025-01-29 19:05:56.022525",
+      "internal_id": "c6e3d9b5e83714a4451b3e80814ff639117c7e76a9e1ae8a186ef7b0438b4e2c",
+      "publishedAtLabel": "Jan 28"
+    },
+    {
+      "id": 17768,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Mother Jones",
+      "author": "Anna Merlan",
+      "title": "A Raw Milk Magnate Has Spent Years Fighting Public Health Agencies. Will RFK Jr. Take His Side?",
+      "description": "In December, the Los Angeles County Public Health Department reported that five house cats had died after drinking raw milk. Four of their bodies subsequently tested positive for H5N1, the bird flu virus. But Cindy, a sleek gray tabby, is feeling fine, accord\u2026",
+      "url": "https://www.motherjones.com/politics/2025/01/raw-farm-raw-milk-mark-mcafee/",
+      "urlToImage": "https://www.motherjones.com/wp-content/uploads/2025/01/20240128_raw-milk_f_2000px.jpg?w=1200&h=630&crop=1",
+      "publishedAt": "2025-01-28 11:01:00",
+      "content": "Mother Jones illustration; Tom Williams/CQ Roll Call/Zuma Fight disinformation: Sign up for the free Mother Jones Daily newsletter and follow the news that matters. In December, the Los Angeles Cou\u2026 [+17508 chars]",
+      "retrievedAt": "2025-01-29 19:05:55.407841",
+      "internal_id": "9da2ee0f4cad95d76cd9ac3ff26bb5136e94b192588fafdee8216d13954fcb01",
+      "publishedAtLabel": "Jan 28"
+    },
+    {
+      "id": 17762,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "DW (English)",
+      "author": "Matthew Ward Agius",
+      "title": "Is bird flu in livestock, poultry a global risk to humans?",
+      "description": "Second human case of H5N1 bird flu has been deteced in the UK. Health experts are playing down the risk, but others say H5N1 may mutate into an international public health threat. A human case of H5N1 avian influenza has been detected in in the UK authorities\u2026",
+      "url": "https://www.dw.com/en/bird-flu-in-us-livestock-risk-to-humans/a-70988147",
+      "urlToImage": "https://static.dw.com/image/69161110_6.jpg",
+      "publishedAt": "2025-01-28 10:05:00",
+      "content": "A human case of H5N1 avian influenza has been detected in in the UK authorities have said. It is the second symptomatic human case of H5N1 bird flu recorded in the UK, after the first was detected \u2026 [+6074 chars]",
+      "retrievedAt": "2025-01-29 19:05:55.329012",
+      "internal_id": "245f025b3a15703b5e73d8d250f386606cf22f5a9911e7899f1fbe29f83b8457",
+      "publishedAtLabel": "Jan 28"
+    },
+    {
+      "id": 17774,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Www.abc.es",
+      "author": "(abc)",
+      "title": "Dos personas, una mujer adulta y un menor, en la UCI por el brote de meningitis bacteriana en un colegio de Zaragoza",
+      "description": "El Gobierno de Arag\u00f3n mantiene desde el domingo la alerta por los dos casos confirmados del brote de meningitis registrado en el colegio San Antonio de Padua de Zaragoza. Ayer lunes comunic\u00f3 que los dos se encuentran hospitalizados y en la UCI. Se trata de un\u2026",
+      "url": "https://www.abc.es/espana/aragon/dos-personas-adulta-menor-uci-brote-meningitis-20250128103904-nt.html",
+      "urlToImage": "https://s1.abcstatics.com/abc/www/multimedia/espana/2025/01/28/vacuna_20250128104604-U07688074583HaW-1024x512@diario_abc.jpg",
+      "publishedAt": "2025-01-28 09:39:29",
+      "content": "El Gobierno de Arag\u00f3n mantiene desde el domingo la alerta por los dos casos confirmados del brote de meningitis registrado en el colegio San Antonio de Padua de Zaragoza. Ayer lunes comunic\u00f3 que los \u2026 [+4170 chars]",
+      "retrievedAt": "2025-01-29 19:05:56.535226",
+      "internal_id": "240bf28da517c9a0d867146609677d9c35f52661aa7377962a9c16401be2ee87",
+      "publishedAtLabel": "Jan 28"
+    },
+    {
+      "id": 17760,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Mail.ru",
+      "author": "\u041f\u043e\u043b\u0438\u043d\u0430 \u0422\u0438\u0445\u043e\u043d\u043e\u0432\u0430",
+      "title": "\u0423\u0447\u0435\u043d\u044b\u0435 \u0432\u0438\u0434\u044f\u0442 \u0440\u0438\u0441\u043a \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0435\u043d\u0438\u044f \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430 \u043d\u0430 \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u0430",
+      "description": "\u041f\u0435\u0440\u0432\u044b\u0439 \u0437\u0430\u0440\u0430\u0437\u0438\u0432\u0448\u0438\u0439\u0441\u044f \u043d\u0430\u0439\u0434\u0435\u043d \u0432 \u0412\u0435\u043b\u0438\u043a\u043e\u0431\u0440\u0438\u0442\u0430\u043d\u0438\u0438 \u0412 \u0412\u0435\u043b\u0438\u043a\u043e\u0431\u0440\u0438\u0442\u0430\u043d\u0438\u0438 \u0437\u0430\u0444\u0438\u043a\u0441\u0438\u0440\u043e\u0432\u0430\u043d \u0440\u0435\u0434\u043a\u0438\u0439 \u0441\u043b\u0443\u0447\u0430\u0439 \u0437\u0430\u0440\u0430\u0436\u0435\u043d\u0438\u044f \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u0430 \u0432\u0438\u0440\u0443\u0441\u043e\u043c \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430 H5N1. \u0418\u043d\u0444\u0438\u0446\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0439, \u043f\u0440\u043e\u0436\u0438\u0432\u0430\u044e\u0449\u0438\u0439 \u0432 \u0440\u0435\u0433\u0438\u043e\u043d\u0435 \u0423\u044d\u0441\u0442-\u041c\u0438\u0434\u043b\u0435\u043d\u0434\u0441, \u043a\u043e\u043d\u0442\u0430\u043a\u0442\u0438\u0440\u043e\u0432\u0430\u043b \u0441 \u0437\u0430\u0440\u0430\u0436\u0435\u043d\u043d\u044b\u043c\u0438 \u043f\u0442\u0438\u0446\u0430\u043c\u0438 \u043d\u0430 \u0444\u0435\u0440\u043c\u0435. \u041f\u043e \u0434\u0430\u043d\u043d\u044b\u043c \u0410\u0433\u0435\u043d\u0442\u0441\u0442\u0432\u0430 \u0437\u0434\u0440\u2026",
+      "url": "https://hi-tech.mail.ru/news/121606-uchenye-vidyat-risk-rasprostraneniya-ptichego-grippa-na-cheloveka/",
+      "urlToImage": "https://resizer.mail.ru/p/40fab2f3-38f4-549f-9341-db7145e5b738/AQAK3eC059sEy_KYdmsGr2YM1VulsIfzkWGpYXMQB2QOwVsQ-NUlzPsxynSE3QCY8uTZC-tP5BCledm1OYv8YQ2zccI.jpg",
+      "publishedAt": "2025-01-28 08:55:57",
+      "content": ", H5N1, , , . , , , . , -.",
+      "retrievedAt": "2025-01-29 19:05:55.289839",
+      "internal_id": "7b40b1d333a0f5656818b0e8b19e77cb63960ad0292c6210d5553acad4c50878",
+      "publishedAtLabel": "Jan 28"
+    },
+    {
+      "id": 17771,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "title": "Utilizar\u00e1 Ssa trampas biol\u00f3gicas para combatir el dengue",
+      "description": "En la estrategia para combatir el dengue, la Secretar\u00eda de Salud (Ssa) retomar\u00e1 el proyecto de las ovitrampas para monitorear la densidad de circulaci\u00f3n del mosquito Aedes aegypti en el pa\u00eds.",
+      "url": "https://www.jornada.com.mx/2025/01/28/politica/013n2pol",
+      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "publishedAt": "2025-01-28 08:33:05",
+      "content": "Peri\u00f3dico La JornadaMartes 28 de enero de 2025, p. 13 En la estrategia para combatir el dengue, la Secretar\u00eda de Salud (Ssa) retomar\u00e1 el proyecto de las ovitrampas para monitorear la densidad de cir\u2026 [+1258 chars]",
+      "retrievedAt": "2025-01-29 19:05:56.036051",
+      "internal_id": "972e5c3b804c899c31022039a269e4d95df9bfba9a7f44686ca4aa8ac42777ce",
+      "publishedAtLabel": "Jan 28"
+    },
+    {
+      "id": 17759,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Onliner.by",
+      "author": "Onliner | \u0422\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438",
+      "title": "\u0423\u0447\u0435\u043d\u044b\u0435 \u0441\u0447\u0438\u0442\u0430\u044e\u0442, \u0447\u0442\u043e \u043f\u0442\u0438\u0447\u0438\u0439 \u0433\u0440\u0438\u043f\u043f \u043c\u043e\u0436\u0435\u0442 \u0432\u044b\u0437\u0432\u0430\u0442\u044c \u043d\u043e\u0432\u0443\u044e \u043f\u0430\u043d\u0434\u0435\u043c\u0438\u044e",
+      "description": "\u041f\u043e\u0434\u0442\u0438\u043f \u0432\u0438\u0440\u0443\u0441\u0430 H5N1 \u043d\u0430\u0447\u0430\u043b \u043f\u0440\u0438\u0441\u043f\u043e\u0441\u0430\u0431\u043b\u0438\u0432\u0430\u0442\u044c\u0441\u044f \u043a \u043d\u043e\u0432\u044b\u043c \u0445\u043e\u0437\u044f\u0435\u0432\u0430\u043c \u2014 \u043c\u043b\u0435\u043a\u043e\u043f\u0438\u0442\u0430\u044e\u0449\u0438\u043c. \u0414\u0435\u0432\u044f\u0442\u044c \u043c\u0435\u0441\u044f\u0446\u0435\u0432 \u043d\u0430\u0437\u0430\u0434 \u0432\u044b\u044f\u0441\u043d\u0438\u043b\u043e\u0441\u044c, \u0447\u0442\u043e \u0432\u0438\u0440\u0443\u0441 \u043c\u043e\u0433\u0443\u0442 \u043f\u043e\u0434\u0445\u0432\u0430\u0442\u0438\u0442\u044c \u043a\u043e\u0440\u043e\u0432\u044b, \u0430 \u0441\u0435\u0439\u0447\u0430\u0441 \u0441\u043e\u043e\u0431\u0449\u0430\u0435\u0442\u0441\u044f, \u0447\u0442\u043e \u0432 \u0421\u0435\u0432\u0435\u0440\u043d\u043e\u0439 \u0410\u043c\u0435\u0440\u0438\u043a\u0435 \u043f\u0442\u0438\u0447\u044c\u0438\u043c \u0433\u0440\u0438\u043f\u043f\u043e\u043c \u0437\u0430\u0431\u043e\u043b\u0435\u043b\u0438 58 \u0447\u0435\u043b\u043e\u0432\u0435\u043a. \u041e\u0434\u0438\u043d \u0447\u0435\u043b\u043e\u0432\u0435\u043a \u0443\u043c\u0435\u0440. \u0427\u0438\u0442\u0430\u0442\u044c \u0434\u0430\u043b\u0435\u0435\u2026",
+      "url": "https://tech.onliner.by/2025/01/28/uchenye-schitayut-chto-ptichij-gripp-mozhet-vyzvat-novuyu-pandemiyu",
+      "urlToImage": "https://content.onliner.by/news/default/4f00d1d8ac9e8a41972b6ed03c987290.jpg",
+      "publishedAt": "2025-01-28 07:49:59",
+      "content": "H5N1 . , , , 58 . . , H5N1 . , H5N1: D1.1, , B3.13, . B3.13 : 900 16 . . 40 . , , . : , , ,",
+      "retrievedAt": "2025-01-29 19:05:55.246961",
+      "internal_id": "115239d758a72b92c22f8789be08184b63a9ba40040ca5ec454e9e0df353a203",
+      "publishedAtLabel": "Jan 28"
+    },
+    {
+      "id": 17769,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "N. TRISHA",
+      "title": "Dengue cases drop in Malaysia, but deaths rise by 17%, says Ahmad Zahid",
+      "description": "KUALA LUMPUR: The number of dengue cases recorded in 2024 decreased, but the number of deaths increased, says Datuk Seri Ahmad Zahid Hamidi. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2025/01/28/dengue-cases-drop-in-malaysia-but-deaths-rise-by-17-says-ahmad-zahid",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/01/28/3141118.jpg",
+      "publishedAt": "2025-01-28 07:29:00",
+      "content": "KUALA LUMPUR: The number of dengue cases recorded in 2024 decreased, but the number of deaths increased, says Datuk Seri Ahmad Zahid Hamidi. The Deputy Prime Minister reported that 122,423 dengue ca\u2026 [+2676 chars]",
+      "retrievedAt": "2025-01-29 19:05:56.014791",
+      "internal_id": "3304c9697dceb688560a06c3a8bad6a103874b2d73a9e21ba1f410494e3b0144",
+      "publishedAtLabel": "Jan 28"
+    },
     {
       "id": 17740,
       "query": [
@@ -24349,60 +24979,6 @@
       "content": "Hasta el pasado 09 de diciembre, en 30 entidades, nuestro pa\u00eds acumul\u00f3 120 mil 931 casos de dengue con el reporte de 362 muertes. Por lo anterior, en tan solo una semana se confirmaron 3 mil 436 \u2026 [+1252 chars]",
       "retrievedAt": "2024-12-17 07:07:13.266934",
       "internal_id": "e143a31c8095d8efbd0668c137f51c53d14464b6b7defa77df8186851c0c3386",
-      "publishedAtLabel": "Dec 15"
-    },
-    {
-      "id": 16400,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Ilfattoquotidiano.it",
-      "author": "F. Q.",
-      "title": "6mila morti di dengue in Brasile nel 2024, \u00e8 record. L\u2019allarme: \u201cCambiamenti climatici e siccit\u00e0 favoriscono riproduzione della zanzara\u201d",
-      "description": "Secondo la ministra della salute Nisia Trindade, siccit\u00e0, alluvioni e innalzamento delle temperature favoriscono la pi\u00f9 rapida riproduzione delle zanzare. L\u2019incidenza \u00e8 di 3.253 casi per 100mila abitanti L'articolo 6mila morti di dengue in Brasile nel 2024, \u00e8\u2026",
-      "url": "https://www.ilfattoquotidiano.it/2024/12/15/morti-dengue-brasile-recort-allarme-cambiamenti-climatici-news/7805431/",
-      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2019/07/31/zanzaratigre1200.jpg",
-      "publishedAt": "2024-12-15 15:34:21",
-      "content": "Roma, 15 dic. (Adnkronos) - \"Occorrerebbe forse seguire le altalenanti vicissitudini del 'centro' e dei suoi inquieti inquilini con pi\u00f9 rispetto e insieme per\u00f2 con pi\u00f9 rigorosa severit\u00e0. Infatti il c\u2026 [+3707 chars]",
-      "retrievedAt": "2024-12-16 19:05:44.820131",
-      "internal_id": "5ab108bd74dce71125cd7d8a90956b05d8edd4931d6bb98a683cc96215b2193d",
-      "publishedAtLabel": "Dec 15"
-    },
-    {
-      "id": 16399,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Stockton Record",
-      "author": "Hannah Workman, The Stockton Record",
-      "title": "2 San Joaquin County farmworkers infected with bird flu after exposure to sick animals",
-      "description": "Two human cases of bird flu have been confirmed in San Joaquin County farmworkers. Public health officials said the risk to the general public is low.",
-      "url": "https://www.recordnet.com/story/news/healthcare/2024/12/15/2-san-joaquin-county-farmworkers-test-positive-for-bird-flu/76997469007/",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/pihXfwL8O_Zgx5jC5Vx6Pg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/the-stockton-record/cc0352b42d7be752f10be8834ad54e01",
-      "publishedAt": "2024-12-15 15:26:29",
-      "content": "Two human cases of the H5N1 virus, also known as avian flu or bird flu, have been confirmed in San Joaquin County, public health officials announced on Friday. The cases occurred in farmworkers with\u2026 [+2611 chars]",
-      "retrievedAt": "2024-12-16 19:05:44.268767",
-      "internal_id": "f25fa685cc7cf597dd0a33fef6122adb2e418a8f4bb073f7aa14d773475c9a86",
-      "publishedAtLabel": "Dec 15"
-    },
-    {
-      "id": 16401,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Jornada.com.mx",
-      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "title": "OMS: enfrenta Am\u00e9rica la mayor epidemia de dengue en 44 a\u00f1os",
-      "description": "La Organizaci\u00f3n Mundial de la Salud (OMS) alerta que el continente americano enfrenta la mayor epidemia de dengue desde que se tienen registros en 1980.",
-      "url": "https://www.jornada.com.mx/2024/12/15/politica/009n1pol",
-      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "publishedAt": "2024-12-15 08:32:29",
-      "content": "Peri\u00f3dico La JornadaDomingo 15 de diciembre de 2024, p. 9 La Organizaci\u00f3n Mundial de la Salud (OMS) alerta que el continente americano enfrenta la mayor epidemia de dengue desde que se tienen regist\u2026 [+2816 chars]",
-      "retrievedAt": "2024-12-16 19:05:44.837742",
-      "internal_id": "c851716747366c2acb2a98d20500d336168bc4fae74e7a737877c5bfc7dca444",
       "publishedAtLabel": "Dec 15"
     }
   ]

@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 12
-- **Last harvest:** 2025-01-29 07:06
-- **Most recent article:** 2025-01-28 02:19:11
+- **New articles in last harvest:** 35
+- **Last harvest:** 2025-01-29 19:05
+- **Most recent article:** 2025-01-28 19:05:48
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-51 | 24-52 | 24-53 | 25-1 | 25-2 | 25-3 | 25-4 | 25-5 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| h5n1 | 111 | 65 | 27 | 27 | 131 | 65 | 31 | 16 | 473 |
-| mpox | 92 | 35 | 2 | 6 | 91 | 34 | 23 | 6 | 289 |
-| malaria | 60 | 30 | 15 | 10 | 30 | 18 | 19 | 7 | 189 |
-| dengue | 30 | 24 | 6 | 12 | 41 | 29 | 37 | 5 | 184 |
-| hpai | 6 | 12 | 1 | 4 | 18 | 12 | 11 | 0 | 64 |
-| measles | 6 | 11 | 3 | 6 | 6 | 9 | 10 | 1 | 52 |
+| h5n1 | 110 | 65 | 27 | 27 | 131 | 65 | 31 | 30 | 486 |
+| mpox | 92 | 35 | 2 | 6 | 91 | 34 | 23 | 8 | 291 |
+| malaria | 60 | 30 | 15 | 10 | 30 | 18 | 19 | 17 | 199 |
+| dengue | 28 | 24 | 6 | 12 | 41 | 29 | 37 | 10 | 187 |
+| hpai | 6 | 12 | 1 | 4 | 18 | 12 | 11 | 2 | 66 |
+| measles | 6 | 11 | 3 | 6 | 6 | 9 | 10 | 2 | 53 |
 | rabies | 7 | 8 | 1 | 1 | 2 | 6 | 7 | 3 | 35 |
 | chikungunya | 7 | 0 | 2 | 0 | 7 | 7 | 10 | 0 | 33 |
 | zika | 4 | 2 | 0 | 0 | 15 | 5 | 2 | 0 | 28 |
-| meningitis | 5 | 3 | 1 | 2 | 0 | 2 | 3 | 3 | 19 |
+| meningitis | 5 | 3 | 1 | 2 | 0 | 2 | 3 | 4 | 20 |
 | pertussis | 4 | 6 | 0 | 1 | 2 | 0 | 1 | 0 | 14 |
 | yersinia | 0 | 6 | 0 | 0 | 3 | 2 | 0 | 0 | 11 |
 | leptospirosis | 0 | 2 | 0 | 0 | 0 | 1 | 2 | 0 | 5 |
@@ -43,6 +43,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-5 (mpox)
 
+- [Tuesday headlines: Happily ever laughter](https://themorningnews.org/p/tuesday-headlines-happily-ever-laughter) (Themorningnews.org)
+
+- [Santé. Cas de nouveau variant de mpox à Rennes : la patiente « se porte bien »](https://www.ledauphine.com/sante/2025/01/28/cas-de-nouveau-variant-de-mpox-a-rennes-la-patiente-se-porte-bien) (Le Dauphiné Libéré)
+
 - [U.S. CDC told to stop working with WHO ahead of formal withdrawal - National | Globalnews.ca](https://globalnews.ca/news/10979874/us-cdc-ordered-stop-working-with-who-ahead-of-withdrawal/) (Global News)
 
 - [CDC ordered to stop working with WHO immediately, upending expectations of an extended withdrawal](https://www.wpxi.com/news/local/cdc-ordered-stop-working-with-who-immediately-upending-expectations-an-extended-withdrawal/7H7FA7TEEZAXZKDCDNBKUHPH4A/) (WPXI Pittsburgh)
@@ -57,6 +61,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-5 (meningitis)
 
+- [Dos personas, una mujer adulta y un menor, en la UCI por el brote de meningitis bacteriana en un colegio de Zaragoza](https://www.abc.es/espana/aragon/dos-personas-adulta-menor-uci-brote-meningitis-20250128103904-nt.html) (Www.abc.es)
+
 - [Dos personas en la UCI por el brote de meningitis en un colegio de Zaragoza: "Va a ser imposible determinar el origen"](https://www.elespanol.com/aragon/actualidad/20250127/personas-uci-brote-meningitis-colegio-zaragoza-va-imposible-determinar-origen/919658310_0.html) (Elespanol.com)
 
 - [Detectado un brote de meningitis en un colegio de Zaragoza con dos casos confirmados](https://www.huffingtonpost.es/sociedad/detectado-brote-meningitis-colegio-zaragoza-dos-casos-confirmadosbr.html) (Huffingtonpost.es)
@@ -65,9 +71,31 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-5 (measles)
 
+- [First case of measles in the state for the year reported, Georgia DPH says](https://www.fox5atlanta.com/news/first-case-measles-state-year-reported-georgia-dph-says) (FOX 5 Atlanta)
+
 - [Asha workers to identify 1 million children for MMR vaccination, special campaigns soon](https://www.livemint.com/industry/asha-workers-mmr-vaccination-special-campaigns-mumps-measles-rubella-accredited-social-health-activist-11737708760867.html) (Livemint)
 
 ## 25-5 (malaria)
+
+- [Ondo to spend N12bn on child, maternal mortality](https://punchng.com/ondo-to-spend-n12bn-on-child-maternal-mortality/) (The Punch)
+
+- [Trump corta suministro de medicamentos para el VIH, malaria y tuberculosis: Reuters](https://www.milenio.com/internacional/donald-trump-ordena-cortar-suministro-medicamentos-vih-reuter) (Milenio)
+
+- [Trump detendrá suministro de medicamentos contra VIH y Malaria a los países pobres](https://forbes.com.mx/trump-paralizara-suministro-de-medicamentos-contra-vih-y-malaria-a-los-paises-pobres/) (Forbes.com.mx)
+
+- [Trump stoppt Hilfslieferungen: Keine Malaria-Medikamente für Entwicklungsländer](https://www.diepresse.com/19303266/trump-stoppt-hilfslieferungen-keine-malaria-medikamente-fuer-entwicklungslaender) (Diepresse.com)
+
+- [Trump da la espalda a países pobres; paralizará suministro de medicamentos contra VIH y la malaria](https://aristeguinoticias.com/2801/mundo/trump-da-la-espalda-a-paises-pobres-paralizara-suministro-de-medicamentos-contra-vih-y-la-malaria/) (Aristeguinoticias.com)
+
+- [90-tägige Pausierung von US-Hilfsprogrammen: Trump stoppt Medikamenten-Lieferung in Entwicklungsländer](https://www.tagesspiegel.de/internationales/90-tagige-pausierung-von-us-hilfsprogrammen-trump-stoppt-medikamenten-lieferung-in-entwicklungslander-13101925.html) (Der Tagesspiegel)
+
+- [Trump foreign-aid freeze leaves millions without essential drugs](https://www.bangkokpost.com/world/2949515/trump-foreign-aid-freeze-leaves-millions-without-essential-drugs) (Bangkok Post)
+
+- [Reuters: Trump kutter i medisiner til fattige land](https://www.aftenposten.no/norge/i/mBKed4/siste-nytt-fra-norge-og-utlandet?pinnedEntry=116372) (Aftenposten)
+
+- [Trump order set to halt supply of HIV, malaria drugs to poor countries, sources say](https://economictimes.indiatimes.com/news/international/world-news/trump-order-set-to-halt-supply-of-hiv-malaria-drugs-to-poor-countries-sources-say/articleshow/117639091.cms) (The Times of India)
+
+- [Trump order set to halt supply of HIV, malaria drugs to poor countries, sources say](https://www.thestar.com.my/news/world/2025/01/28/trump-order-set-to-halt-supply-of-hiv-malaria-drugs-to-poor-countries-sources-say) (The Star Online)
 
 - ["América está tocado por Dios", aseguró Erick Sánchez](https://www.excelsior.com.mx/adrenalina/america-esta-tocado-por-dios-aseguro-erick-sanchez/1696583) (Excelsior.com.mx)
 
@@ -83,7 +111,41 @@ Source: [News API](https://newsapi.org/)
 
 - [Georgia is malaria-free](https://www.thehindubusinessline.com/specials/pulse/georgia-is-malaria-free/article69142650.ece) (BusinessLine)
 
+## 25-5 (hpai)
+
+- [Deepseek sender dine data direkte til Kina - disse oplysninger bliver indsamlet](https://www.computerworld.dk/art/290263/deepseek-sender-dine-data-direkte-til-kina-disse-oplysninger-bliver-indsamlet-om-dig) (Computerworld.dk)
+
+- [ABD'de yeni kuş gribi türü tespit edildi: Pandemi kapıda!](https://www.turkiyegazetesi.com.tr/dunya/abdde-yeni-kus-gribi-turu-tespit-edildi-pandemi-kapida-1090032) (Turkiyegazetesi.com.tr)
+
 ## 25-5 (h5n1)
+
+- [En una granja avícola de California hallan nueva cepa de gripe aviar](https://es.gizmodo.com/en-una-granja-avicola-de-california-hallan-nueva-cepa-de-gripe-aviar-2000146329) (Gizmodo.com)
+
+- [New Strain of Bird Flu Found on California Duck Farm](https://gizmodo.com/new-strain-of-bird-flu-found-on-california-duck-farm-2000555762) (Gizmodo.com)
+
+- [How are H5N9 and H5N1 different? What to know after California bird flu outbreak](https://www.cbsnews.com/news/h5n9-h5n1-bird-flu-what-to-know/) (CBS News)
+
+- [Why a virus discovered in China a decade ago is now raising concerns in the US](https://economictimes.indiatimes.com/news/international/global-trends/why-a-virus-discovered-in-china-a-decade-ago-is-now-raising-concerns-in-the-us/articleshow/117642216.cms) (The Times of India)
+
+- [Caso de gripe aviária H5N1 em humano é detectado na Inglaterra](https://www.metropoles.com/saude/gripe-aviaria-h5n1-confirmado-inglaterra) (Metropoles.com)
+
+- [Aviaria, focolaio del virus H5N9 altamente patogeno in un allevamento di anatre in California](https://www.ilfattoquotidiano.it/2025/01/28/aviaria-focolaio-virus-h5n9-altamente-patogeno-anatre/7854640/) (Ilfattoquotidiano.it)
+
+- [Puede que nuestro cuerpo se este preparando para la gripe prepandémica, según un estudio](https://www.milenio.com/ciencia-y-salud/gripe-aviar-cuerpo-humano-enfrentar-gripe-prepandemica) (Milenio)
+
+- [H5N1 bird flu outbreak in US witness a sharp rise in egg price, squeezing profit for restaurants](https://economictimes.indiatimes.com/news/international/us/h5n1-bird-flu-outbreak-in-us-witness-a-sharp-rise-in-egg-price-squeezing-profit-for-restaurants/articleshow/117637659.cms) (The Times of India)
+
+- [New strain of bird flu confirmed in US](https://timesofindia.indiatimes.com/world/us/new-strain-of-bird-flu-confirmed-in-us/articleshow/117636982.cms) (The Times of India)
+
+- [Links 1/28/2025](https://www.nakedcapitalism.com/2025/01/links-1-28-2025.html) (Nakedcapitalism.com)
+
+- [A Raw Milk Magnate Has Spent Years Fighting Public Health Agencies. Will RFK Jr. Take His Side?](https://www.motherjones.com/politics/2025/01/raw-farm-raw-milk-mark-mcafee/) (Mother Jones)
+
+- [Is bird flu in livestock, poultry a global risk to humans?](https://www.dw.com/en/bird-flu-in-us-livestock-risk-to-humans/a-70988147) (DW (English))
+
+- [Ученые видят риск распространения птичьего гриппа на человека](https://hi-tech.mail.ru/news/121606-uchenye-vidyat-risk-rasprostraneniya-ptichego-grippa-na-cheloveka/) (Mail.ru)
+
+- [Ученые считают, что птичий грипп может вызвать новую пандемию](https://tech.onliner.by/2025/01/28/uchenye-schitayut-chto-ptichij-gripp-mozhet-vyzvat-novuyu-pandemiyu) (Onliner.by)
 
 - [Un nuevo estudio apunta que los humanos ya tendríamos anticuerpos contra la gripe aviar: el hallazgo científico](https://www.elespanol.com/ciencia/salud/20250128/nuevo-estudio-apunta-humanos-anticuerpos-gripe-aviar-hallazgocientifico/919658205_0.html) (Elespanol.com)
 
@@ -118,6 +180,16 @@ Source: [News API](https://newsapi.org/)
 - [FDA recommends pet food companies revisit safety plans amid bird flu outbreak](https://www.nbcnews.com/health/health-news/raw-pet-food-bird-flu-outbreak-cats-fda-guidance-rcna189011) (NBC News)
 
 ## 25-5 (dengue)
+
+- [Prognostic factors in severe dengue patients: A multi-center retrospective cohort study](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012846) (Plos.org)
+
+- [Rio de Janeiro confirma primeira morte por dengue em 2025](https://www.metropoles.com/brasil/rio-de-janeiro-confirma-primeira-morte-por-dengue-em-2025) (Metropoles.com)
+
+- [Dengue: quando e por que a doença se torna grave e potencialmente letal](https://veja.abril.com.br/saude/dengue-quando-e-por-que-a-doenca-se-torna-grave-e-potencialmente-letal) (Abril.com.br)
+
+- [Utilizará Ssa trampas biológicas para combatir el dengue](https://www.jornada.com.mx/2025/01/28/politica/013n2pol) (Jornada.com.mx)
+
+- [Dengue cases drop in Malaysia, but deaths rise by 17%, says Ahmad Zahid](https://www.thestar.com.my/news/nation/2025/01/28/dengue-cases-drop-in-malaysia-but-deaths-rise-by-17-says-ahmad-zahid) (The Star Online)
 
 - [Dengue: saiba por que o tipo 3 é motivo de preocupação em 2025](https://www.metropoles.com/saude/dengue-tipo-3-motivo-preocupacao-em-2025) (Metropoles.com)
 
@@ -2925,8 +2997,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Вирус гриппа А сохранил заразность в сыром коровьем молоке на несколько дней](https://nplus1.ru/news/2024/12/16/influenza-in-raw-milk) (Nplus1.ru)
 
-- [2 San Joaquin County farmworkers infected with bird flu after exposure to sick animals](https://www.recordnet.com/story/news/healthcare/2024/12/15/2-san-joaquin-county-farmworkers-test-positive-for-bird-flu/76997469007/) (Stockton Record)
-
 ## 24-51 (dengue)
 
 - [Could mosquitoes deliver vaccines against malaria?](https://www.aljazeera.com/news/2024/12/21/could-mosquitoes-deliver-vaccines-against-malaria) (Al Jazeera English)
@@ -2984,10 +3054,6 @@ Source: [News API](https://newsapi.org/)
 - [Saúde quer levar vacina contra dengue para dentro das escolas em 2025](https://www.metropoles.com/distrito-federal/saude-quer-levar-vacina-contra-dengue-para-dentro-das-escolas-em-2025) (Metropoles.com)
 
 - [México acumula 20 mil 931 casos por dengue](https://www.excelsior.com.mx/nacional/mexico-acumula-20-mil-931-casos-por-dengue/1689802) (Excelsior.com.mx)
-
-- [6mila morti di dengue in Brasile nel 2024, è record. L’allarme: “Cambiamenti climatici e siccità favoriscono riproduzione della zanzara”](https://www.ilfattoquotidiano.it/2024/12/15/morti-dengue-brasile-recort-allarme-cambiamenti-climatici-news/7805431/) (Ilfattoquotidiano.it)
-
-- [OMS: enfrenta América la mayor epidemia de dengue en 44 años](https://www.jornada.com.mx/2024/12/15/politica/009n1pol) (Jornada.com.mx)
 
 ## 24-51 (chikungunya)
 
