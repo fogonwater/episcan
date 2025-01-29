@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 17
-- **Last harvest:** 2025-01-28 19:05
-- **Most recent article:** 2025-01-27 17:48:00
+- **New articles in last harvest:** 12
+- **Last harvest:** 2025-01-29 07:06
+- **Most recent article:** 2025-01-28 02:19:11
 
 ---
 
@@ -12,13 +12,13 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-51 | 24-52 | 24-53 | 25-1 | 25-2 | 25-3 | 25-4 | 25-5 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| h5n1 | 110 | 65 | 27 | 27 | 131 | 65 | 31 | 12 | 468 |
-| mpox | 92 | 35 | 2 | 6 | 91 | 34 | 23 | 2 | 285 |
-| malaria | 60 | 30 | 15 | 10 | 30 | 18 | 19 | 4 | 186 |
-| dengue | 28 | 24 | 6 | 12 | 41 | 29 | 37 | 5 | 182 |
+| h5n1 | 111 | 65 | 27 | 27 | 131 | 65 | 31 | 16 | 473 |
+| mpox | 92 | 35 | 2 | 6 | 91 | 34 | 23 | 6 | 289 |
+| malaria | 60 | 30 | 15 | 10 | 30 | 18 | 19 | 7 | 189 |
+| dengue | 30 | 24 | 6 | 12 | 41 | 29 | 37 | 5 | 184 |
 | hpai | 6 | 12 | 1 | 4 | 18 | 12 | 11 | 0 | 64 |
 | measles | 6 | 11 | 3 | 6 | 6 | 9 | 10 | 1 | 52 |
-| rabies | 7 | 8 | 1 | 1 | 2 | 6 | 7 | 2 | 34 |
+| rabies | 7 | 8 | 1 | 1 | 2 | 6 | 7 | 3 | 35 |
 | chikungunya | 7 | 0 | 2 | 0 | 7 | 7 | 10 | 0 | 33 |
 | zika | 4 | 2 | 0 | 0 | 15 | 5 | 2 | 0 | 28 |
 | meningitis | 5 | 3 | 1 | 2 | 0 | 2 | 3 | 3 | 19 |
@@ -35,11 +35,21 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-5 (rabies)
 
+- [Thane municipal corporation launches week-long anti-rabies vaccination drive for 10,000 stray dogs](https://timesofindia.indiatimes.com/city/thane/thane-municipal-corporation-launches-week-long-anti-rabies-vaccination-drive-for-10000-stray-dogs/articleshow/117616055.cms) (The Times of India)
+
 - [Video shows rabid bear 'aggressively' approach and attack Pennsylvania man](https://nationalpost.com/news/rabid-bear-attacks-pennsylvania-man) (National Post)
 
 - [Rabid Bear Attacks Man in Pennsylvania](https://www.newser.com/story/363225/rabid-bear-attacks-man-in-pennsylvania.html) (Newser)
 
 ## 25-5 (mpox)
+
+- [U.S. CDC told to stop working with WHO ahead of formal withdrawal - National | Globalnews.ca](https://globalnews.ca/news/10979874/us-cdc-ordered-stop-working-with-who-ahead-of-withdrawal/) (Global News)
+
+- [CDC ordered to stop working with WHO immediately, upending expectations of an extended withdrawal](https://www.wpxi.com/news/local/cdc-ordered-stop-working-with-who-immediately-upending-expectations-an-extended-withdrawal/7H7FA7TEEZAXZKDCDNBKUHPH4A/) (WPXI Pittsburgh)
+
+- [ΗΠΑ: Εντολή στο CDC να σταματήσει αμέσως τη συνεργασία με τον ΠΟΥ](https://www.naftemporiki.gr/kosmos/1895525/ipa-entoli-sto-cdc-na-stamatisei-amesos-ti-synergasia-me-ton-poy/) (Naftemporiki.gr)
+
+- [Число случаев заболевания оспой обезьян в Великобритании достигло семи](https://tass.ru/obschestvo/22987593) (Tass.ru)
 
 - [Monday headlines: Pay no attention](https://themorningnews.org/p/monday-headlines-pay-no-attention) (Themorningnews.org)
 
@@ -59,6 +69,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-5 (malaria)
 
+- ["América está tocado por Dios", aseguró Erick Sánchez](https://www.excelsior.com.mx/adrenalina/america-esta-tocado-por-dios-aseguro-erick-sanchez/1696583) (Excelsior.com.mx)
+
+- [Ochoa y AVS FAS rompen 'malaria' y ganan luego de 13 partidos](https://www.excelsior.com.mx/adrenalina/ochoa-y-avs-fas-rompen-malaria-y-ganan-luego-de-13-partidos/1696570) (Excelsior.com.mx)
+
+- [High uric acid levels linked to deadly outcomes in children with severe malaria](https://www.sciencedaily.com/releases/2025/01/250127161944.htm) (Science Daily)
+
 - [Georgia se convierte en el país número 45 en erradicar la malaria](https://www.meneame.net/m/actualidad/georgia-convierte-pais-numero-45-erradicar-malaria) (Meneame.net)
 
 - [El grupo rebelde M23, apoyado por Ruanda, toma el control de la ciudad congolesa de Goma y 3.000 presos huyen de la cárcel](https://www.elespanol.com/mundo/20250127/grupo-rebelde-m23-apoyado-ruanda-toma-control-ciudad-congolesa-goma-presos-huyen-carcel/919658315_0.html) (Elespanol.com)
@@ -68,6 +84,14 @@ Source: [News API](https://newsapi.org/)
 - [Georgia is malaria-free](https://www.thehindubusinessline.com/specials/pulse/georgia-is-malaria-free/article69142650.ece) (BusinessLine)
 
 ## 25-5 (h5n1)
+
+- [Un nuevo estudio apunta que los humanos ya tendríamos anticuerpos contra la gripe aviar: el hallazgo científico](https://www.elespanol.com/ciencia/salud/20250128/nuevo-estudio-apunta-humanos-anticuerpos-gripe-aviar-hallazgocientifico/919658205_0.html) (Elespanol.com)
+
+- [В Великобритании зафиксировали редкий случай заражения человека птичьим гриппом](https://life.ru/p/1722746) (Life.ru)
+
+- [ALERT: US Reports H5N9 Bird Flu Outbreak](https://www.shtfplan.com/headline-news/alert-us-reports-h5n9-bird-flu-outbreak) (Shtfplan.com)
+
+- [SUA raportează primul focar de gripă aviară H5N9 la păsări de curte](https://www.mediafax.ro/sanatate/sua-raporteaza-primul-focar-de-gripa-aviara-h5n9-la-pasari-de-curte-22667457) (Mediafax.ro)
 
 - [What Is H5N9? US Reports First Bird Flu Strain Outbreak in Poultry](https://www.newsweek.com/h5n9-bird-flu-strain-poultry-california-2021569) (Newsweek)
 
@@ -2901,6 +2925,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Вирус гриппа А сохранил заразность в сыром коровьем молоке на несколько дней](https://nplus1.ru/news/2024/12/16/influenza-in-raw-milk) (Nplus1.ru)
 
+- [2 San Joaquin County farmworkers infected with bird flu after exposure to sick animals](https://www.recordnet.com/story/news/healthcare/2024/12/15/2-san-joaquin-county-farmworkers-test-positive-for-bird-flu/76997469007/) (Stockton Record)
+
 ## 24-51 (dengue)
 
 - [Could mosquitoes deliver vaccines against malaria?](https://www.aljazeera.com/news/2024/12/21/could-mosquitoes-deliver-vaccines-against-malaria) (Al Jazeera English)
@@ -2958,6 +2984,10 @@ Source: [News API](https://newsapi.org/)
 - [Saúde quer levar vacina contra dengue para dentro das escolas em 2025](https://www.metropoles.com/distrito-federal/saude-quer-levar-vacina-contra-dengue-para-dentro-das-escolas-em-2025) (Metropoles.com)
 
 - [México acumula 20 mil 931 casos por dengue](https://www.excelsior.com.mx/nacional/mexico-acumula-20-mil-931-casos-por-dengue/1689802) (Excelsior.com.mx)
+
+- [6mila morti di dengue in Brasile nel 2024, è record. L’allarme: “Cambiamenti climatici e siccità favoriscono riproduzione della zanzara”](https://www.ilfattoquotidiano.it/2024/12/15/morti-dengue-brasile-recort-allarme-cambiamenti-climatici-news/7805431/) (Ilfattoquotidiano.it)
+
+- [OMS: enfrenta América la mayor epidemia de dengue en 44 años](https://www.jornada.com.mx/2024/12/15/politica/009n1pol) (Jornada.com.mx)
 
 ## 24-51 (chikungunya)
 
