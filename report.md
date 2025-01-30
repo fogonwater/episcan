@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 35
-- **Last harvest:** 2025-01-29 19:05
-- **Most recent article:** 2025-01-28 19:05:48
+- **New articles in last harvest:** 8
+- **Last harvest:** 2025-01-30 07:06
+- **Most recent article:** 2025-01-29 06:21:57
 
 ---
 
@@ -12,12 +12,12 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-51 | 24-52 | 24-53 | 25-1 | 25-2 | 25-3 | 25-4 | 25-5 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| h5n1 | 110 | 65 | 27 | 27 | 131 | 65 | 31 | 30 | 486 |
-| mpox | 92 | 35 | 2 | 6 | 91 | 34 | 23 | 8 | 291 |
-| malaria | 60 | 30 | 15 | 10 | 30 | 18 | 19 | 17 | 199 |
-| dengue | 28 | 24 | 6 | 12 | 41 | 29 | 37 | 10 | 187 |
+| h5n1 | 111 | 65 | 27 | 27 | 131 | 65 | 31 | 31 | 488 |
+| mpox | 92 | 35 | 2 | 6 | 91 | 34 | 23 | 10 | 293 |
+| malaria | 60 | 30 | 15 | 10 | 30 | 18 | 19 | 20 | 202 |
+| dengue | 30 | 24 | 6 | 12 | 41 | 29 | 37 | 11 | 190 |
 | hpai | 6 | 12 | 1 | 4 | 18 | 12 | 11 | 2 | 66 |
-| measles | 6 | 11 | 3 | 6 | 6 | 9 | 10 | 2 | 53 |
+| measles | 6 | 11 | 3 | 6 | 6 | 9 | 10 | 3 | 54 |
 | rabies | 7 | 8 | 1 | 1 | 2 | 6 | 7 | 3 | 35 |
 | chikungunya | 7 | 0 | 2 | 0 | 7 | 7 | 10 | 0 | 33 |
 | zika | 4 | 2 | 0 | 0 | 15 | 5 | 2 | 0 | 28 |
@@ -42,6 +42,10 @@ Source: [News API](https://newsapi.org/)
 - [Rabid Bear Attacks Man in Pennsylvania](https://www.newser.com/story/363225/rabid-bear-attacks-man-in-pennsylvania.html) (Newser)
 
 ## 25-5 (mpox)
+
+- [Красный Крест: из-за войны в ДР Конго образцы Эболы и mpox грозят утечь из лаборатории](https://www.bbc.com/russian/articles/czepw729d3ko) (BBC News)
+
+- [Kunnen virussen als ebola of mpox ontsnappen uit lab in Goma? "Kans is bijzonder klein"](https://www.vrt.be/vrtnws/nl/2025/01/28/nationaal-referentielabo-goma-volksgezondheid/) (Www.vrt.be)
 
 - [Tuesday headlines: Happily ever laughter](https://themorningnews.org/p/tuesday-headlines-happily-ever-laughter) (Themorningnews.org)
 
@@ -71,11 +75,19 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-5 (measles)
 
+- [Measles case confirmed in metro Atlanta](https://www.wsbtv.com/news/local/atlanta/measles-case-confirmed-metro-atlanta/ZYX6H3AHMJCDHNL6WUG5ESHTJY/) (WSB Atlanta)
+
 - [First case of measles in the state for the year reported, Georgia DPH says](https://www.fox5atlanta.com/news/first-case-measles-state-year-reported-georgia-dph-says) (FOX 5 Atlanta)
 
 - [Asha workers to identify 1 million children for MMR vaccination, special campaigns soon](https://www.livemint.com/industry/asha-workers-mmr-vaccination-special-campaigns-mumps-measles-rubella-accredited-social-health-activist-11737708760867.html) (Livemint)
 
 ## 25-5 (malaria)
+
+- [US aid suspension threatens Nigeria’s fight against HIV, tuberculosis, malaria —Doctor](https://punchng.com/us-aid-suspension-threatens-nigerias-fight-against-hiv-tuberculosis-malaria-doctor/) (The Punch)
+
+- [Trump se escuda en la lucha contra el "marxismo" para cortar el envío de vacunas contra el VIH o la malaria a países pobres](https://www.elespanol.com/mundo/america/eeuu/20250129/trump-escuda-lucha-marxismo-cortar-envio-vacunas-vih-malaria-paises-pobres/919908514_0.html) (Elespanol.com)
+
+- [OMG, have you heard? Trump halts all disbursements of HIV and malaria drugs to poor countries included in PEPFAR](https://omg.blog/trump-halts-all-disbursements-of-hiv-and-malaria-drugs-to-poor-countries-included-in-the-presidents-emergency-plan-for-aids-relief/) (Omg.blog)
 
 - [Ondo to spend N12bn on child, maternal mortality](https://punchng.com/ondo-to-spend-n12bn-on-child-maternal-mortality/) (The Punch)
 
@@ -118,6 +130,8 @@ Source: [News API](https://newsapi.org/)
 - [ABD'de yeni kuş gribi türü tespit edildi: Pandemi kapıda!](https://www.turkiyegazetesi.com.tr/dunya/abdde-yeni-kus-gribi-turu-tespit-edildi-pandemi-kapida-1090032) (Turkiyegazetesi.com.tr)
 
 ## 25-5 (h5n1)
+
+- [H5N9 and H5N1: What’s the difference, and is California at risk after the recent outbreak?](https://economictimes.indiatimes.com/news/international/us/h5n9-and-h5n1-whats-the-difference-and-is-california-at-risk-after-the-recent-outbreak/articleshow/117650776.cms) (The Times of India)
 
 - [En una granja avícola de California hallan nueva cepa de gripe aviar](https://es.gizmodo.com/en-una-granja-avicola-de-california-hallan-nueva-cepa-de-gripe-aviar-2000146329) (Gizmodo.com)
 
@@ -180,6 +194,8 @@ Source: [News API](https://newsapi.org/)
 - [FDA recommends pet food companies revisit safety plans amid bird flu outbreak](https://www.nbcnews.com/health/health-news/raw-pet-food-bird-flu-outbreak-cats-fda-guidance-rcna189011) (NBC News)
 
 ## 25-5 (dengue)
+
+- [São Paulo confirma 17 mortes por dengue nos primeiros 28 dias do ano](https://www.metropoles.com/sao-paulo/sao-paulo-confirma-17-mortes-por-dengue-nos-primeiros-28-dias-do-ano) (Metropoles.com)
 
 - [Prognostic factors in severe dengue patients: A multi-center retrospective cohort study](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012846) (Plos.org)
 
@@ -2997,6 +3013,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Вирус гриппа А сохранил заразность в сыром коровьем молоке на несколько дней](https://nplus1.ru/news/2024/12/16/influenza-in-raw-milk) (Nplus1.ru)
 
+- [2 San Joaquin County farmworkers infected with bird flu after exposure to sick animals](https://www.recordnet.com/story/news/healthcare/2024/12/15/2-san-joaquin-county-farmworkers-test-positive-for-bird-flu/76997469007/) (Stockton Record)
+
 ## 24-51 (dengue)
 
 - [Could mosquitoes deliver vaccines against malaria?](https://www.aljazeera.com/news/2024/12/21/could-mosquitoes-deliver-vaccines-against-malaria) (Al Jazeera English)
@@ -3054,6 +3072,10 @@ Source: [News API](https://newsapi.org/)
 - [Saúde quer levar vacina contra dengue para dentro das escolas em 2025](https://www.metropoles.com/distrito-federal/saude-quer-levar-vacina-contra-dengue-para-dentro-das-escolas-em-2025) (Metropoles.com)
 
 - [México acumula 20 mil 931 casos por dengue](https://www.excelsior.com.mx/nacional/mexico-acumula-20-mil-931-casos-por-dengue/1689802) (Excelsior.com.mx)
+
+- [6mila morti di dengue in Brasile nel 2024, è record. L’allarme: “Cambiamenti climatici e siccità favoriscono riproduzione della zanzara”](https://www.ilfattoquotidiano.it/2024/12/15/morti-dengue-brasile-recort-allarme-cambiamenti-climatici-news/7805431/) (Ilfattoquotidiano.it)
+
+- [OMS: enfrenta América la mayor epidemia de dengue en 44 años](https://www.jornada.com.mx/2024/12/15/politica/009n1pol) (Jornada.com.mx)
 
 ## 24-51 (chikungunya)
 
