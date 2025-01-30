@@ -1,8 +1,350 @@
 {
-  "last_updated": "2025-01-30 07:06",
-  "count_articles_total": 1396,
-  "count_articles_new": 8,
+  "last_updated": "2025-01-30 19:06",
+  "count_articles_total": 1412,
+  "count_articles_new": 19,
   "articles": [
+    {
+      "id": 17797,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Mother Jones",
+      "author": "Kiera Butler and Anna Merlan",
+      "title": "Robert F. Kennedy Jr. Distorts the Facts on His Infamous Samoa Visit",
+      "description": "During his confirmation hearing on Wednesday, Robert F. Kennedy, Jr., President Donald Trump\u2019s pick to lead the Department of Health and Human Services, glossed over key details about his involvement in the 2019 measles outbreak in Samoa that killed 83 people\u2026",
+      "url": "https://www.motherjones.com/politics/2025/01/during-his-confirmation-hearing-robert-f-kennedy-jr-distorts-his-infamous-samoa-visit/",
+      "urlToImage": "https://www.motherjones.com/wp-content/uploads/2025/01/012925rfkhhsvaccines.jpg?w=1200&h=630&crop=1",
+      "publishedAt": "2025-01-29 17:32:48",
+      "content": "Ben Curtis/AP Fight disinformation: Sign up for the free Mother Jones Daily newsletter and follow the news that matters. During his confirmation hearing on Wednesday, Robert F. Kennedy, Jr., Presid\u2026 [+3398 chars]",
+      "retrievedAt": "2025-01-30 19:05:56.953754",
+      "internal_id": "b77898f9d207c75e38cf4c21aa9d03c77fce52c7506760e3f6edb8d367ed299c",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 17802,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Expressen.se",
+      "author": "amina.manzoor@expressen.se (Amina Manzoor)",
+      "title": "Beh\u00f6ver vara p\u00e5 t\u00e5 n\u00e4r hotet fr\u00e5n f\u00e5gelinfluensa \u00f6kar",
+      "description": "F\u00e5gelinfluensa drabbar s\u00e4llan m\u00e4nniskor. Men pandemihotet \u00f6kar, anser europeiska myndigheter som vill \u00f6ka beredskapen. Dessutom i Vetenskapsrummet: stor os\u00e4kerhet i forskningskretsar efter Trumps framfart och kanske en mer normal influensas\u00e4song.",
+      "url": "https://www.expressen.se/nyheter/varlden/behover-vara-pa-ta-nar-hotet-fran-fagelinfluensa-okar/",
+      "urlToImage": "https://static.bonniernews.se/images/46/43/46436b3f8ab94126a39e4781954ad532/16x9/original.png",
+      "publishedAt": "2025-01-29 16:25:00",
+      "content": "\u00d6kat hot. En person i Storbritannien har testat positivt f\u00f6r f\u00e5gelinfluensa, H5N1. Personen hade haft l\u00e5ngvarig och n\u00e4ra kontakt med sjuka f\u00e5glar p\u00e5 en g\u00e5rd, och brittiska myndigheter anser fortfaran\u2026 [+4032 chars]",
+      "retrievedAt": "2025-01-30 19:05:57.786069",
+      "internal_id": "8e38e72f5e24de02f09e3702f8e4ae3bf6d404bce8085e23830f18b9f845a547",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 17796,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "CBS News",
+      "title": "RFK Jr. asked to explain vaccine stance, pressed about measles outbreak in Samoa",
+      "description": "Sen. Ron Wyden (D-Oregon) pushed Robert F. Kennedy Jr. during his Senate confirmation hearing to answer for his past comments on vaccines and about the part he allegedly played in a measles outbreak in Samoa. See their full exchange.",
+      "url": "https://www.cbsnews.com/video/rfk-jr-asked-to-explain-vaccine-stance-pressed-on-thoughts-about-measles/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/01/29/37eabc50-357b-4af9-8bbf-fcc42cba6626/thumbnail/1200x630/73c98625fdcf397376e9665607bcf151/cbsn-fusion-rfk-jr-asked-to-explain-vaccine-stance-pressed-on-thoughts-about-measles-thumbnail.jpg?v=d4034f91d2441fe84007132fdf593e3f",
+      "publishedAt": "2025-01-29 15:40:00",
+      "content": "Watch CBS News Copyright \u00a92025 CBS Interactive Inc. All rights reserved. Get browser notifications for breaking news, live events, and exclusive reporting. Not NowTurn On",
+      "retrievedAt": "2025-01-30 19:05:56.936535",
+      "internal_id": "ee2aad6e51d21f9b6386ba1a853d65ce14c8d6e33a57df0f99e69216011cbbc4",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 17803,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "The Feed",
+      "title": "New bird flu strain detected in California: Symptoms and states affected",
+      "description": "According to the Centers for Disease Control and Prevention, bird flu outbreaks have impacted poultry in 51 states, while the virus has been detected in dairy cows across 16 states.",
+      "url": "https://economictimes.indiatimes.com/news/international/us/new-bird-flu-strain-detected-in-california-symptoms-and-states-affected/articleshow/117695722.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-117696006,width-1200,height-630,imgsize-140326,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-01-29 15:37:09",
+      "content": "A new strain of avian influenza outbreak has been discovered in Californias Merced County. The newly reported H5N9 bird flu strain was discovered at a duck farm.The more common H5N1 strain had also b\u2026 [+2544 chars]",
+      "retrievedAt": "2025-01-30 19:05:57.824428",
+      "internal_id": "688f98a44e8f16a357bdd6b12daab8b9302d0eaedf68da542eff5465caeeddfd",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 17811,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Themorningnews.org",
+      "author": null,
+      "title": "Wednesday headlines: Thirteen seasons why",
+      "description": "More than half a million displaced Palestinians have returned to northern Gaza. / Al Jazeera At least 30 people were killed during a crush at India's Kumbh Mela festival. / BBC News A judge temporarily blocks President Trump's attempt to pause federal fundi\u2026",
+      "url": "https://themorningnews.org/p/wednesday-headlines-thirteen-seasons-why",
+      "urlToImage": "https://themorningnews.org/images/tmn-logo-share.png",
+      "publishedAt": "2025-01-29 15:25:00",
+      "content": "In an unwritten, unannounced policy change, Louisiana's Dept. of Health is forbidding employees from promoting Covid, flu, or mpox vaccines. / NPR Photos of daily life for the Palestinian people\u2014\"be\u2026 [+2219 chars]",
+      "retrievedAt": "2025-01-30 19:06:00.008814",
+      "internal_id": "e08fb8a159a3a12a47f074011d6db5a83790e81980a21fd9c9d6e5d61f1e180b",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 17801,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Forbes.com.mx",
+      "author": "Forbes Staff",
+      "title": "Lituania informa de un brote de gripe aviar H5N1 en una granja de gallinas ponedoras",
+      "description": "Forbes M\u00e9xico. Lituania informa de un brote de gripe aviar H5N1 en una granja de gallinas ponedoras El brote de gripe aviar mat\u00f3 a 20,000 aves de un grupo de 246,387 en el distrito de Silute, dijo el organismo con sede en Par\u00eds, citando informaci\u00f3n de las a\u2026",
+      "url": "https://forbes.com.mx/lituania-informa-de-un-brote-de-gripe-aviar-h5n1-en-una-granja-de-gallinas-ponedoras/",
+      "urlToImage": "https://cdn.forbes.com.mx/2023/02/gripe-aviar.webp",
+      "publishedAt": "2025-01-29 14:14:34",
+      "content": "Lituania notific\u00f3 un brote de gripe aviar altamente pat\u00f3gena H5N1 en una granja de gallinas ponedoras del oeste del pa\u00eds, inform\u00f3 el mi\u00e9rcoles la Organizaci\u00f3n Mundial de Sanidad Animal (OMSA). El br\u2026 [+683 chars]",
+      "retrievedAt": "2025-01-30 19:05:57.772239",
+      "internal_id": "1e0a9de3644c3b3c428928cf8e816ad8ace0be165eca45de40ccf0e2b8fd6a48",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 17807,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Gbenga Odogun",
+      "title": "Kogi votes N4bn for malaria prevention",
+      "description": "The Kogi State Government is to spend over \u20a64bn on malaria prevention across its healthcare system in the state. Governor Ahmed Ododo made this known at the unveiling of a malaria prevention campaign to combat the prevalence of malaria with the distribution o\u2026",
+      "url": "https://punchng.com/kogi-votes-n4bn-for-malaria-prevention/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2024/03/12164532/Ahmed-Usman-Ododo.jpg",
+      "publishedAt": "2025-01-29 14:03:25",
+      "content": "The Kogi State Government is to spend over 4bn on malaria prevention across its healthcare system in the state. Governor Ahmed Ododo made this known at the unveiling of a malaria prevention campaign\u2026 [+3032 chars]",
+      "retrievedAt": "2025-01-30 19:05:59.000070",
+      "internal_id": "d22dbc57961e9392c3a8f99aa7703e4ced56ab642f05f02b64a4813f1140171f",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 17800,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Digiato.com",
+      "author": "\u0622\u0632\u0627\u062f \u06a9\u0628\u06cc\u0631\u06cc",
+      "title": "\u0634\u06cc\u0648\u0639 \u0633\u0648\u06cc\u0647 \u062c\u062f\u06cc\u062f \u0622\u0646\u0641\u0644\u0648\u0627\u0646\u0632\u0627\u06cc \u067e\u0631\u0646\u062f\u06af\u0627\u0646 \u062f\u0631 \u0622\u0645\u0631\u06cc\u06a9\u0627\u061b \u0632\u0646\u06af \u062e\u0637\u0631 \u0647\u0645\u0647\u200c\u06af\u06cc\u0631\u06cc \u0628\u0647 \u0635\u062f\u0627 \u062f\u0631\u0622\u0645\u062f",
+      "description": "\u0627\u0648\u0644\u06cc\u0646 \u0634\u06cc\u0648\u0639 \u0622\u0646\u0641\u0644\u0648\u0627\u0646\u0632\u0627\u06cc \u067e\u0631\u0646\u062f\u06af\u0627\u0646 H5N9 \u062f\u0631 \u06cc\u06a9 \u0645\u0632\u0631\u0639\u0647 \u0627\u0631\u062f\u06a9 \u062f\u0631 \u06a9\u0627\u0644\u06cc\u0641\u0631\u0646\u06cc\u0627 \u062a\u0623\u06cc\u06cc\u062f \u0634\u062f. The post \u0634\u06cc\u0648\u0639 \u0633\u0648\u06cc\u0647 \u062c\u062f\u06cc\u062f \u0622\u0646\u0641\u0644\u0648\u0627\u0646\u0632\u0627\u06cc \u067e\u0631\u0646\u062f\u06af\u0627\u0646 \u062f\u0631 \u0622\u0645\u0631\u06cc\u06a9\u0627\u061b \u0632\u0646\u06af \u062e\u0637\u0631 \u0647\u0645\u0647\u200c\u06af\u06cc\u0631\u06cc \u0628\u0647 \u0635\u062f\u0627 \u062f\u0631\u0622\u0645\u062f appeared first on \u062f\u06cc\u062c\u06cc\u0627\u062a\u0648.",
+      "url": "https://digiato.com/health/us-reports-first-outbreak-of-h5n9-bird-flu-in-poultry",
+      "urlToImage": "https://static.digiato.com/digiato/2025/01/bird-flu.jpg.webp",
+      "publishedAt": "2025-01-29 14:00:00",
+      "content": ". . . (WOAH) H5N9 . H5N1 119 . WOAH . \u00ab \u00bb (WHO) . . \u00ab \u00bb . . 67 2025 . . .",
+      "retrievedAt": "2025-01-30 19:05:57.734446",
+      "internal_id": "fa5718055f3be789794eaa9011bc45c67506c975b19c169b3c52f45fae7022ff",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 17806,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Calvin Bisong Ebai, Cedric Yamssi, Flore Nguema\u00efm Ngoufo, Nicaise Ngouemeta Tchoffo, Omarine Nfor Nlinwe, Helen Kuokuo Kimbi",
+      "title": "Low levels of Plasmodium falciparum parasitaemia among patients receiving antiretroviral therapy at the treatment centre of the Regional Hospital Bamenda, Northwest Cameroon",
+      "description": "Background Malaria and HIV are leading causes of death in Africa, including Cameroon. Antiretroviral therapy (ART) is expected to boost immunity and reduce vulnerability to opportunistic infections. Reports on comorbidities including malaria are common in Cam\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317120",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0317120.t005&size=inline",
+      "publishedAt": "2025-01-29 14:00:00",
+      "content": "Citation: Ebai CB, Yamssi C, Ngoufo FN, Tchoffo NN, Nlinwe ON, Kimbi HK (2025) Low levels of Plasmodium falciparum parasitaemia among patients receiving antiretroviral therapy at the treatment centre\u2026 [+24873 chars]",
+      "retrievedAt": "2025-01-30 19:05:58.980691",
+      "internal_id": "29e8500b562503651fd1343029fb77b75dcb382e22cdead05ade4e900138071e",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 17808,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Thefly.com",
+      "author": null,
+      "title": "Ocean Biomedical advances malaria vaccine research with new funding, pathway",
+      "description": "See the rest of the story here. thefly.com provides the latest financial news as it breaks. Known as a leader in market intelligence, The Fly's real-time, streaming news feed keeps individual investors, professional money managers, active traders, and corpor\u2026",
+      "url": "https://thefly.com/permalinks/entry.php/id4059726/OCEA-Ocean-Biomedical-advances-malaria-vaccine-research-with-new-funding-pathway",
+      "urlToImage": "https://thefly.com/images/meta/hotstocks.jpg",
+      "publishedAt": "2025-01-29 13:39:21",
+      "content": "Earnings calls, analyst events, roadshows and more",
+      "retrievedAt": "2025-01-30 19:05:59.049661",
+      "internal_id": "9bbed18d2ae5e3de14c89f8643b17e902c32d49c8fbab3277f72820fbdb63ca9",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 17809,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Ocean Biomedical, Inc.",
+      "title": "Ocean Biomedical Advances Malaria Vaccine Research with New NIH Funding and Expedited Development Pathway",
+      "description": "Providence, RI, Jan. 29, 2025 (GLOBE NEWSWIRE) -- Ocean Biomedical (NASDAQ: OCEA) announced today that its Scientific Co-founder, Dr. Jonathan Kurtis, MD, PhD, and his research team have received additional significant funding from the National Institutes of \u2026",
+      "url": "https://www.globenewswire.com/news-release/2025/01/29/3017181/0/en/Ocean-Biomedical-Advances-Malaria-Vaccine-Research-with-New-NIH-Funding-and-Expedited-Development-Pathway.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/23cba9ce-1bc6-4226-9c6b-e5561047b289",
+      "publishedAt": "2025-01-29 13:30:00",
+      "content": "Providence, RI, Jan. 29, 2025 (GLOBE NEWSWIRE) -- Ocean Biomedical (NASDAQ: OCEA) announced today that its Scientific Co-founder, Dr. Jonathan Kurtis, MD, PhD, and his research team have received add\u2026 [+9501 chars]",
+      "retrievedAt": "2025-01-30 19:05:59.080956",
+      "internal_id": "e34b5961fbc781aa1b399371f5623a4044de090045d7f6abeb1e67a64c051ca5",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 17798,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Computerworld.dk",
+      "author": "Kristoffer Ingemand Petersen",
+      "title": "Microsoft skrotter Windows-v\u00e6rkt\u00f8j blot to \u00e5r efter udgivelsen",
+      "description": "Microsoft at valgt at droppe udviklerv\u00e6rkt\u00f8j til Windows.",
+      "url": "https://www.computerworld.dk/art/290267/microsoft-skrotter-windows-vaerktoej-blot-to-aar-efter-udgivelsen",
+      "urlToImage": "https://www.computerworld.dk/fil/231077?width=600&height=315&focus=1",
+      "publishedAt": "2025-01-29 13:07:00",
+      "content": "Microsoft at valgt at droppe udviklerv\u00e6rkt\u00f8j til Windows.Annonceindl\u00e6g fra HPAI-ekspert Robert Luciani: Den rigtige teknologi er afg\u00f8rende for succes med AI-udvikling Microsoft har besluttet at drop\u2026 [+1700 chars]",
+      "retrievedAt": "2025-01-30 19:05:57.271958",
+      "internal_id": "0a3cf75d9c913173aa356aeab172c5a2ad614851cadfc7844487983d121902b2",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 17810,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Rg.ru",
+      "author": null,
+      "title": "\u0420\u043e\u0441\u043f\u043e\u0442\u0440\u0435\u0431\u043d\u0430\u0434\u0437\u043e\u0440 \u0441\u043b\u0435\u0434\u0438\u0442 \u0437\u0430 \u044d\u043f\u0438\u0434\u0435\u043c\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u0441\u0438\u0442\u0443\u0430\u0446\u0438\u0435\u0439 \u0432 \u0414\u0420 \u041a\u043e\u043d\u0433\u043e",
+      "description": "\u0412 \u0441\u0432\u044f\u0437\u0438 \u0441 \u043f\u043e\u044f\u0432\u043b\u0435\u043d\u0438\u0435\u043c \u0432 \u0441\u0440\u0435\u0434\u0441\u0442\u0432\u0430\u0445 \u043c\u0430\u0441\u0441\u043e\u0432\u043e\u0439 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0438 \u0437\u0430\u044f\u0432\u043b\u0435\u043d\u0438\u0439 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u0438\u0442\u0435\u043b\u044f \u041c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u043e\u0433\u043e \u043a\u043e\u043c\u0438\u0442\u0435\u0442\u0430 \u041a\u0440\u0430\u0441\u043d\u043e\u0433\u043e \u041a\u0440\u0435\u0441\u0442\u0430 \u043e\u0431 \u043e\u043f\u0430\u0441\u0435\u043d\u0438\u044f\u0445 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u044b\u0445 \u0443\u0442\u0435\u0447\u0435\u043a \u0432\u0438\u0440\u0443\u0441\u043e\u0432 \u0438\u0437 \u043b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0438\u0439, \u043d\u0430\u0445\u043e\u0434\u044f\u0449\u0438\u0445\u0441\u044f \u0432 \u0414\u0435\u043c\u043e\u043a\u0440\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0435 \u041a\u043e\u043d\u0433\u043e, \u0432 \u0420\u043e\u0441\u043f\u043e\u0442\u0440\u0435\u0431\u043d\u0430\u0434\u0437\u043e\u0440\u0435 \u0437\u0430\u044f\u0432\u0438\u043b\u0438 \u043e \u043f\u043e\u0441\u0442\u043e\u044f\u043d\u043d\u043e\u043c \u2026",
+      "url": "https://rg.ru/2025/01/29/rospotrebnadzor-sledit-za-epidemiologicheskoj-situaciej-v-dr-kongo.html",
+      "urlToImage": "https://cdnstatic.rg.ru/uploads/images/2025/01/29/gettyimages-2169410719_b84.jpeg",
+      "publishedAt": "2025-01-29 11:31:10",
+      "content": "(), , , , . - , . , , . 150 - , - , . , . , \"\". - , . , , , Mpox, - .",
+      "retrievedAt": "2025-01-30 19:05:59.982983",
+      "internal_id": "8ddf0fffdde6787191960834b4c32f9a741efae34ddfb99efaf8933fb9d5fad1",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 17795,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Dan Ruetenik",
+      "title": "Questions linger about RFK Jr. and a measles outbreak half a world away",
+      "description": "Local officials in Samoa don't blame Robert F. Kennedy Jr., Trump's HHS pick, for measles deaths, but critics call his actions \"harmful.\"",
+      "url": "https://www.cbsnews.com/news/rfk-jr-samoa-measles-outbreak/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/01/29/c3b5defb-f637-4222-953f-094075f6fe94/thumbnail/1200x630/6fb5906adc3c17e0a21b3fe985188717/gettyimages-2190292201.jpg?v=d4034f91d2441fe84007132fdf593e3f",
+      "publishedAt": "2025-01-29 11:00:01",
+      "content": "As U.S. senators grill Robert F. Kennedy Jr. this week, President Trump's pick to run the Department of Health and Human Services is expected to face sharp questions about his actions in an island na\u2026 [+9741 chars]",
+      "retrievedAt": "2025-01-30 19:05:56.910371",
+      "internal_id": "da267cd3c6ae28dbd781abf7e71b2480cfbdb4e6ee0dc2d82bf1212927e27096",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 17813,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The New Republic",
+      "author": "Melody Schreiber",
+      "title": "How Bad Could Trump\u2019s Assault on Public Health Get?",
+      "description": "Five years after a novel virus rocked the world, killed millions, and continues to sicken people, amidst ongoing outbreaks of bird flu and mpox and tuberculosis, public health and scientific research are being gutted in America\u2014and it\u2019s happening more quickly\u2026",
+      "url": "https://newrepublic.com/article/190817/trump-rfk-jr-hhs-public-health-cdc-nih",
+      "urlToImage": "https://images.newrepublic.com/9cf415b216852ce4a82013edc26ef3e1ff0a1a4f.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+      "publishedAt": "2025-01-29 11:00:00",
+      "content": "When the health agencies went dark, those who work within were just as confused as those on the outside. The halt on communications was especially bewildering. Thats what we do, we communicate with t\u2026 [+1311 chars]",
+      "retrievedAt": "2025-01-30 19:06:00.060886",
+      "internal_id": "dd166efe7b5d3ea81f08535722be5bed13d638c7b0a4c2890cd374674eb4b86a",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 17812,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "20 Minutes",
+      "author": "20 Minutes avec AFP",
+      "title": "Virus Mpox : La patiente contamin\u00e9e par le nouveau variant se porte bien et a repris son travail",
+      "description": "Cette patiente, qui a \u00e9t\u00e9 hospitalis\u00e9e \u00e0 Rennes, est le premier cas du nouveau variant du virus Mpox identifi\u00e9 en France",
+      "url": "https://www.20minutes.fr/sante/4136077-20250129-virus-mpox-patiente-contaminee-nouveau-variant-porte-bien-repris-travail",
+      "urlToImage": "https://img.20mn.fr/6IGuh4JfR3uwtPQnNAeDBSk/1444x920_france-clonas-sur-vareze-2024-08-21-illustration-of-the-mpox-virus-in-france-france-clonas-sur-vareze-2024-08-21-illustration-virus-mpox-en-france-doucelinromain-dsc-8728-credit-romain-doucelin-sipa-2408221005",
+      "publishedAt": "2025-01-29 10:02:52",
+      "content": "Elle avait \u00e9t\u00e9 hospitalis\u00e9e d\u00e9but janvier au CHU de Rennes et plac\u00e9e \u00e0 lisolement. Un mois plus tard, la patiente infect\u00e9e par le nouveau variant du virus Mpox, nest plus malade. \u00ab La patiente se por\u2026 [+1239 chars]",
+      "retrievedAt": "2025-01-30 19:06:00.035563",
+      "internal_id": "51a102b217afa6c0e6a45303408dafe93a2e465ac8d5efc51fc1837733a7dd31",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 17804,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Aftonbladet.se",
+      "author": "Johan Edgar",
+      "title": "Hotet fr\u00e5n H5N1: \u201dHar g\u00e5tt in i farligare fas\u201d",
+      "description": "Viruset H5N1 uppges ha g\u00e5tt in i en ny fas och blivit ett st\u00f6rre hot. \u2013 Jag \u00e4r \u00e4nnu inte packa-v\u00e4skan-och-fly-upp-i-bergen-r\u00e4dd, s\u00e4ger influensaexperten Richard Webby till The New York Times. \u2013 Men fler signaler de senaste fyra till sex veckorna tyder p\u00e5 at\u2026",
+      "url": "https://www.aftonbladet.se/nyheter/a/kw15Aj/hotet-fran-h5n1-gatt-in-i-en-farligare-fas",
+      "urlToImage": "https://images.aftonbladet-cdn.se/v2/images/ce995642-f067-4678-8c73-bab0e24c80bc?fit=crop&format=auto&h=628&q=50&w=1200&s=3fd1792088c9d92d53e581505c383796468ff49f",
+      "publishedAt": "2025-01-29 09:34:44",
+      "content": "Viruset H5N1 uppges ha g\u00e5tt in i en ny fas och blivit ett st\u00f6rre hot. Flera signaler de senaste veckorna tyder p\u00e5 att viruset har kapaciteten att orsaka en pandemi, s\u00e4ger influensaexperten Richard We\u2026 [+124 chars]",
+      "retrievedAt": "2025-01-30 19:05:57.844665",
+      "internal_id": "be39ad16d469335e3c26dc1b8712c22f4d83a6cf88e87bc592dcfb2cc9ec0376",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 17799,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Zoomit.ir",
+      "author": "\u0645\u0631\u06cc\u0645 \u0635\u0641\u062f\u0631\u06cc",
+      "title": "\u0633\u0627\u0639\u062a \u0622\u062e\u0631\u0627\u0644\u0632\u0645\u0627\u0646 \u06cc\u06a9 \u062b\u0627\u0646\u06cc\u0647 \u062f\u06cc\u06af\u0631 \u0628\u0647 \u0646\u0627\u0628\u0648\u062f\u06cc \u062f\u0646\u06cc\u0627 \u0646\u0632\u062f\u06cc\u06a9 \u0634\u062f",
+      "description": "\u06af\u0631\u0648\u0647 \u0645\u0639\u0631\u0648\u0641 \u0628\u0647 \u00ab\u0628\u0648\u0644\u062a\u0646 \u062f\u0627\u0646\u0634\u0645\u0646\u062f\u0627\u0646 \u0627\u062a\u0645\u06cc\u00bb \u0633\u0627\u0639\u062a \u0646\u0645\u0627\u062f\u06cc\u0646 \u0622\u062e\u0631\u0627\u0644\u0632\u0645\u0627\u0646 \u0631\u0627 \u0631\u0648\u06cc \u06f8\u06f9 \u062b\u0627\u0646\u06cc\u0647 \u0645\u0627\u0646\u062f\u0647 \u0628\u0647 \u0646\u06cc\u0645\u0647\u200c\u0634\u0628 \u062a\u0646\u0638\u06cc\u0645 \u06a9\u0631\u062f\u0646\u062f.",
+      "url": "https://www.zoomit.ir/energy-environment/433795-doomsday-clock-is-89-seconds-to-midnight/",
+      "urlToImage": "https://api2.zoomit.ir/media/doomsday-clock-6799c9049976b1488d97ca20",
+      "publishedAt": "2025-01-29 08:40:00",
+      "content": ". ( ) . . . . . . : \u00ab .\u00bb . . H5N1 - . . . . : \u00ab . . . .\u00bb",
+      "retrievedAt": "2025-01-30 19:05:57.701683",
+      "internal_id": "9e78a4985efd6b9d4a5245388c58ea9a85f6583d9c9fe5ca3c04c7a0ed345347",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 17805,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Protothema.gr",
+      "author": "admin",
+      "title": "Meningitis: Can it lead to death in a few hours? The symptoms and prevention",
+      "description": "Concern after the death of the 20-year-old student in Patras - The risk of contracting meningococcal disease is increased near the \"peak\" of seasonal influenza The post Meningitis: Can it lead to death in a few hours? The symptoms and prevention appeared firs\u2026",
+      "url": "https://en.protothema.gr/2025/01/29/meningitis-can-it-lead-to-death-in-a-few-hours-the-symptoms-and-prevention/",
+      "urlToImage": "https://en.protothema.gr/wp-content/uploads/2025/01/pyretos-mak-1.jpg-1.jpg",
+      "publishedAt": "2025-01-29 07:13:52",
+      "content": "Concern has been raised by health authorities and parents who have been alarmed since yesterday by the death of a 20-year-old student in Patra from meningitis. The rapid progression of meningococcal \u2026 [+7153 chars]",
+      "retrievedAt": "2025-01-30 19:05:58.735152",
+      "internal_id": "5f2d16cf9fb693526370c279cc7338c3cfc2a9c2566914d7cd94209a3d876a9f",
+      "publishedAtLabel": "Jan 29"
+    },
     {
       "id": 17790,
       "query": [
@@ -25123,60 +25465,6 @@
       "content": "Hasta el pasado 09 de diciembre, en 30 entidades, nuestro pa\u00eds acumul\u00f3 120 mil 931 casos de dengue con el reporte de 362 muertes. Por lo anterior, en tan solo una semana se confirmaron 3 mil 436 \u2026 [+1252 chars]",
       "retrievedAt": "2024-12-17 07:07:13.266934",
       "internal_id": "e143a31c8095d8efbd0668c137f51c53d14464b6b7defa77df8186851c0c3386",
-      "publishedAtLabel": "Dec 15"
-    },
-    {
-      "id": 16400,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Ilfattoquotidiano.it",
-      "author": "F. Q.",
-      "title": "6mila morti di dengue in Brasile nel 2024, \u00e8 record. L\u2019allarme: \u201cCambiamenti climatici e siccit\u00e0 favoriscono riproduzione della zanzara\u201d",
-      "description": "Secondo la ministra della salute Nisia Trindade, siccit\u00e0, alluvioni e innalzamento delle temperature favoriscono la pi\u00f9 rapida riproduzione delle zanzare. L\u2019incidenza \u00e8 di 3.253 casi per 100mila abitanti L'articolo 6mila morti di dengue in Brasile nel 2024, \u00e8\u2026",
-      "url": "https://www.ilfattoquotidiano.it/2024/12/15/morti-dengue-brasile-recort-allarme-cambiamenti-climatici-news/7805431/",
-      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2019/07/31/zanzaratigre1200.jpg",
-      "publishedAt": "2024-12-15 15:34:21",
-      "content": "Roma, 15 dic. (Adnkronos) - \"Occorrerebbe forse seguire le altalenanti vicissitudini del 'centro' e dei suoi inquieti inquilini con pi\u00f9 rispetto e insieme per\u00f2 con pi\u00f9 rigorosa severit\u00e0. Infatti il c\u2026 [+3707 chars]",
-      "retrievedAt": "2024-12-16 19:05:44.820131",
-      "internal_id": "5ab108bd74dce71125cd7d8a90956b05d8edd4931d6bb98a683cc96215b2193d",
-      "publishedAtLabel": "Dec 15"
-    },
-    {
-      "id": 16399,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Stockton Record",
-      "author": "Hannah Workman, The Stockton Record",
-      "title": "2 San Joaquin County farmworkers infected with bird flu after exposure to sick animals",
-      "description": "Two human cases of bird flu have been confirmed in San Joaquin County farmworkers. Public health officials said the risk to the general public is low.",
-      "url": "https://www.recordnet.com/story/news/healthcare/2024/12/15/2-san-joaquin-county-farmworkers-test-positive-for-bird-flu/76997469007/",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/pihXfwL8O_Zgx5jC5Vx6Pg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/the-stockton-record/cc0352b42d7be752f10be8834ad54e01",
-      "publishedAt": "2024-12-15 15:26:29",
-      "content": "Two human cases of the H5N1 virus, also known as avian flu or bird flu, have been confirmed in San Joaquin County, public health officials announced on Friday. The cases occurred in farmworkers with\u2026 [+2611 chars]",
-      "retrievedAt": "2024-12-16 19:05:44.268767",
-      "internal_id": "f25fa685cc7cf597dd0a33fef6122adb2e418a8f4bb073f7aa14d773475c9a86",
-      "publishedAtLabel": "Dec 15"
-    },
-    {
-      "id": 16401,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Jornada.com.mx",
-      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "title": "OMS: enfrenta Am\u00e9rica la mayor epidemia de dengue en 44 a\u00f1os",
-      "description": "La Organizaci\u00f3n Mundial de la Salud (OMS) alerta que el continente americano enfrenta la mayor epidemia de dengue desde que se tienen registros en 1980.",
-      "url": "https://www.jornada.com.mx/2024/12/15/politica/009n1pol",
-      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "publishedAt": "2024-12-15 08:32:29",
-      "content": "Peri\u00f3dico La JornadaDomingo 15 de diciembre de 2024, p. 9 La Organizaci\u00f3n Mundial de la Salud (OMS) alerta que el continente americano enfrenta la mayor epidemia de dengue desde que se tienen regist\u2026 [+2816 chars]",
-      "retrievedAt": "2024-12-16 19:05:44.837742",
-      "internal_id": "c851716747366c2acb2a98d20500d336168bc4fae74e7a737877c5bfc7dca444",
       "publishedAtLabel": "Dec 15"
     }
   ]

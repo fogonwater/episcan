@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 8
-- **Last harvest:** 2025-01-30 07:06
-- **Most recent article:** 2025-01-29 06:21:57
+- **New articles in last harvest:** 19
+- **Last harvest:** 2025-01-30 19:06
+- **Most recent article:** 2025-01-29 17:32:48
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-51 | 24-52 | 24-53 | 25-1 | 25-2 | 25-3 | 25-4 | 25-5 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| h5n1 | 111 | 65 | 27 | 27 | 131 | 65 | 31 | 31 | 488 |
-| mpox | 92 | 35 | 2 | 6 | 91 | 34 | 23 | 10 | 293 |
-| malaria | 60 | 30 | 15 | 10 | 30 | 18 | 19 | 20 | 202 |
-| dengue | 30 | 24 | 6 | 12 | 41 | 29 | 37 | 11 | 190 |
-| hpai | 6 | 12 | 1 | 4 | 18 | 12 | 11 | 2 | 66 |
-| measles | 6 | 11 | 3 | 6 | 6 | 9 | 10 | 3 | 54 |
+| h5n1 | 110 | 65 | 27 | 27 | 131 | 65 | 31 | 37 | 493 |
+| mpox | 92 | 35 | 2 | 6 | 91 | 34 | 23 | 14 | 297 |
+| malaria | 60 | 30 | 15 | 10 | 30 | 18 | 19 | 24 | 206 |
+| dengue | 28 | 24 | 6 | 12 | 41 | 29 | 37 | 11 | 188 |
+| hpai | 6 | 12 | 1 | 4 | 18 | 12 | 11 | 3 | 67 |
+| measles | 6 | 11 | 3 | 6 | 6 | 9 | 10 | 6 | 57 |
 | rabies | 7 | 8 | 1 | 1 | 2 | 6 | 7 | 3 | 35 |
 | chikungunya | 7 | 0 | 2 | 0 | 7 | 7 | 10 | 0 | 33 |
 | zika | 4 | 2 | 0 | 0 | 15 | 5 | 2 | 0 | 28 |
-| meningitis | 5 | 3 | 1 | 2 | 0 | 2 | 3 | 4 | 20 |
+| meningitis | 5 | 3 | 1 | 2 | 0 | 2 | 3 | 5 | 21 |
 | pertussis | 4 | 6 | 0 | 1 | 2 | 0 | 1 | 0 | 14 |
 | yersinia | 0 | 6 | 0 | 0 | 3 | 2 | 0 | 0 | 11 |
 | leptospirosis | 0 | 2 | 0 | 0 | 0 | 1 | 2 | 0 | 5 |
@@ -42,6 +42,14 @@ Source: [News API](https://newsapi.org/)
 - [Rabid Bear Attacks Man in Pennsylvania](https://www.newser.com/story/363225/rabid-bear-attacks-man-in-pennsylvania.html) (Newser)
 
 ## 25-5 (mpox)
+
+- [Wednesday headlines: Thirteen seasons why](https://themorningnews.org/p/wednesday-headlines-thirteen-seasons-why) (Themorningnews.org)
+
+- [Роспотребнадзор следит за эпидемиологической ситуацией в ДР Конго](https://rg.ru/2025/01/29/rospotrebnadzor-sledit-za-epidemiologicheskoj-situaciej-v-dr-kongo.html) (Rg.ru)
+
+- [How Bad Could Trump’s Assault on Public Health Get?](https://newrepublic.com/article/190817/trump-rfk-jr-hhs-public-health-cdc-nih) (The New Republic)
+
+- [Virus Mpox : La patiente contaminée par le nouveau variant se porte bien et a repris son travail](https://www.20minutes.fr/sante/4136077-20250129-virus-mpox-patiente-contaminee-nouveau-variant-porte-bien-repris-travail) (20 Minutes)
 
 - [Красный Крест: из-за войны в ДР Конго образцы Эболы и mpox грозят утечь из лаборатории](https://www.bbc.com/russian/articles/czepw729d3ko) (BBC News)
 
@@ -65,6 +73,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-5 (meningitis)
 
+- [Meningitis: Can it lead to death in a few hours? The symptoms and prevention](https://en.protothema.gr/2025/01/29/meningitis-can-it-lead-to-death-in-a-few-hours-the-symptoms-and-prevention/) (Protothema.gr)
+
 - [Dos personas, una mujer adulta y un menor, en la UCI por el brote de meningitis bacteriana en un colegio de Zaragoza](https://www.abc.es/espana/aragon/dos-personas-adulta-menor-uci-brote-meningitis-20250128103904-nt.html) (Www.abc.es)
 
 - [Dos personas en la UCI por el brote de meningitis en un colegio de Zaragoza: "Va a ser imposible determinar el origen"](https://www.elespanol.com/aragon/actualidad/20250127/personas-uci-brote-meningitis-colegio-zaragoza-va-imposible-determinar-origen/919658310_0.html) (Elespanol.com)
@@ -75,6 +85,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-5 (measles)
 
+- [Robert F. Kennedy Jr. Distorts the Facts on His Infamous Samoa Visit](https://www.motherjones.com/politics/2025/01/during-his-confirmation-hearing-robert-f-kennedy-jr-distorts-his-infamous-samoa-visit/) (Mother Jones)
+
+- [RFK Jr. asked to explain vaccine stance, pressed about measles outbreak in Samoa](https://www.cbsnews.com/video/rfk-jr-asked-to-explain-vaccine-stance-pressed-on-thoughts-about-measles/) (CBS News)
+
+- [Questions linger about RFK Jr. and a measles outbreak half a world away](https://www.cbsnews.com/news/rfk-jr-samoa-measles-outbreak/) (CBS News)
+
 - [Measles case confirmed in metro Atlanta](https://www.wsbtv.com/news/local/atlanta/measles-case-confirmed-metro-atlanta/ZYX6H3AHMJCDHNL6WUG5ESHTJY/) (WSB Atlanta)
 
 - [First case of measles in the state for the year reported, Georgia DPH says](https://www.fox5atlanta.com/news/first-case-measles-state-year-reported-georgia-dph-says) (FOX 5 Atlanta)
@@ -82,6 +98,14 @@ Source: [News API](https://newsapi.org/)
 - [Asha workers to identify 1 million children for MMR vaccination, special campaigns soon](https://www.livemint.com/industry/asha-workers-mmr-vaccination-special-campaigns-mumps-measles-rubella-accredited-social-health-activist-11737708760867.html) (Livemint)
 
 ## 25-5 (malaria)
+
+- [Kogi votes N4bn for malaria prevention](https://punchng.com/kogi-votes-n4bn-for-malaria-prevention/) (The Punch)
+
+- [Low levels of Plasmodium falciparum parasitaemia among patients receiving antiretroviral therapy at the treatment centre of the Regional Hospital Bamenda, Northwest Cameroon](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317120) (Plos.org)
+
+- [Ocean Biomedical advances malaria vaccine research with new funding, pathway](https://thefly.com/permalinks/entry.php/id4059726/OCEA-Ocean-Biomedical-advances-malaria-vaccine-research-with-new-funding-pathway) (Thefly.com)
+
+- [Ocean Biomedical Advances Malaria Vaccine Research with New NIH Funding and Expedited Development Pathway](https://www.globenewswire.com/news-release/2025/01/29/3017181/0/en/Ocean-Biomedical-Advances-Malaria-Vaccine-Research-with-New-NIH-Funding-and-Expedited-Development-Pathway.html) (GlobeNewswire)
 
 - [US aid suspension threatens Nigeria’s fight against HIV, tuberculosis, malaria —Doctor](https://punchng.com/us-aid-suspension-threatens-nigerias-fight-against-hiv-tuberculosis-malaria-doctor/) (The Punch)
 
@@ -125,11 +149,25 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-5 (hpai)
 
+- [Microsoft skrotter Windows-værktøj blot to år efter udgivelsen](https://www.computerworld.dk/art/290267/microsoft-skrotter-windows-vaerktoej-blot-to-aar-efter-udgivelsen) (Computerworld.dk)
+
 - [Deepseek sender dine data direkte til Kina - disse oplysninger bliver indsamlet](https://www.computerworld.dk/art/290263/deepseek-sender-dine-data-direkte-til-kina-disse-oplysninger-bliver-indsamlet-om-dig) (Computerworld.dk)
 
 - [ABD'de yeni kuş gribi türü tespit edildi: Pandemi kapıda!](https://www.turkiyegazetesi.com.tr/dunya/abdde-yeni-kus-gribi-turu-tespit-edildi-pandemi-kapida-1090032) (Turkiyegazetesi.com.tr)
 
 ## 25-5 (h5n1)
+
+- [Behöver vara på tå när hotet från fågelinfluensa ökar](https://www.expressen.se/nyheter/varlden/behover-vara-pa-ta-nar-hotet-fran-fagelinfluensa-okar/) (Expressen.se)
+
+- [New bird flu strain detected in California: Symptoms and states affected](https://economictimes.indiatimes.com/news/international/us/new-bird-flu-strain-detected-in-california-symptoms-and-states-affected/articleshow/117695722.cms) (The Times of India)
+
+- [Lituania informa de un brote de gripe aviar H5N1 en una granja de gallinas ponedoras](https://forbes.com.mx/lituania-informa-de-un-brote-de-gripe-aviar-h5n1-en-una-granja-de-gallinas-ponedoras/) (Forbes.com.mx)
+
+- [شیوع سویه جدید آنفلوانزای پرندگان در آمریکا؛ زنگ خطر همه‌گیری به صدا درآمد](https://digiato.com/health/us-reports-first-outbreak-of-h5n9-bird-flu-in-poultry) (Digiato.com)
+
+- [Hotet från H5N1: ”Har gått in i farligare fas”](https://www.aftonbladet.se/nyheter/a/kw15Aj/hotet-fran-h5n1-gatt-in-i-en-farligare-fas) (Aftonbladet.se)
+
+- [ساعت آخرالزمان یک ثانیه دیگر به نابودی دنیا نزدیک شد](https://www.zoomit.ir/energy-environment/433795-doomsday-clock-is-89-seconds-to-midnight/) (Zoomit.ir)
 
 - [H5N9 and H5N1: What’s the difference, and is California at risk after the recent outbreak?](https://economictimes.indiatimes.com/news/international/us/h5n9-and-h5n1-whats-the-difference-and-is-california-at-risk-after-the-recent-outbreak/articleshow/117650776.cms) (The Times of India)
 
@@ -3013,8 +3051,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Вирус гриппа А сохранил заразность в сыром коровьем молоке на несколько дней](https://nplus1.ru/news/2024/12/16/influenza-in-raw-milk) (Nplus1.ru)
 
-- [2 San Joaquin County farmworkers infected with bird flu after exposure to sick animals](https://www.recordnet.com/story/news/healthcare/2024/12/15/2-san-joaquin-county-farmworkers-test-positive-for-bird-flu/76997469007/) (Stockton Record)
-
 ## 24-51 (dengue)
 
 - [Could mosquitoes deliver vaccines against malaria?](https://www.aljazeera.com/news/2024/12/21/could-mosquitoes-deliver-vaccines-against-malaria) (Al Jazeera English)
@@ -3072,10 +3108,6 @@ Source: [News API](https://newsapi.org/)
 - [Saúde quer levar vacina contra dengue para dentro das escolas em 2025](https://www.metropoles.com/distrito-federal/saude-quer-levar-vacina-contra-dengue-para-dentro-das-escolas-em-2025) (Metropoles.com)
 
 - [México acumula 20 mil 931 casos por dengue](https://www.excelsior.com.mx/nacional/mexico-acumula-20-mil-931-casos-por-dengue/1689802) (Excelsior.com.mx)
-
-- [6mila morti di dengue in Brasile nel 2024, è record. L’allarme: “Cambiamenti climatici e siccità favoriscono riproduzione della zanzara”](https://www.ilfattoquotidiano.it/2024/12/15/morti-dengue-brasile-recort-allarme-cambiamenti-climatici-news/7805431/) (Ilfattoquotidiano.it)
-
-- [OMS: enfrenta América la mayor epidemia de dengue en 44 años](https://www.jornada.com.mx/2024/12/15/politica/009n1pol) (Jornada.com.mx)
 
 ## 24-51 (chikungunya)
 
