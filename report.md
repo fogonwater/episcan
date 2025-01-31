@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 19
-- **Last harvest:** 2025-01-30 19:06
-- **Most recent article:** 2025-01-29 17:32:48
+- **New articles in last harvest:** 6
+- **Last harvest:** 2025-01-31 07:06
+- **Most recent article:** 2025-01-30 02:00:00
 
 ---
 
@@ -12,12 +12,12 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-51 | 24-52 | 24-53 | 25-1 | 25-2 | 25-3 | 25-4 | 25-5 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| h5n1 | 110 | 65 | 27 | 27 | 131 | 65 | 31 | 37 | 493 |
-| mpox | 92 | 35 | 2 | 6 | 91 | 34 | 23 | 14 | 297 |
-| malaria | 60 | 30 | 15 | 10 | 30 | 18 | 19 | 24 | 206 |
-| dengue | 28 | 24 | 6 | 12 | 41 | 29 | 37 | 11 | 188 |
-| hpai | 6 | 12 | 1 | 4 | 18 | 12 | 11 | 3 | 67 |
-| measles | 6 | 11 | 3 | 6 | 6 | 9 | 10 | 6 | 57 |
+| h5n1 | 111 | 65 | 27 | 27 | 131 | 65 | 31 | 39 | 496 |
+| mpox | 92 | 35 | 2 | 6 | 91 | 34 | 23 | 15 | 298 |
+| malaria | 60 | 30 | 15 | 10 | 30 | 18 | 19 | 25 | 207 |
+| dengue | 30 | 24 | 6 | 12 | 41 | 29 | 37 | 11 | 190 |
+| hpai | 6 | 12 | 1 | 4 | 18 | 12 | 11 | 4 | 68 |
+| measles | 6 | 11 | 3 | 6 | 6 | 9 | 10 | 7 | 58 |
 | rabies | 7 | 8 | 1 | 1 | 2 | 6 | 7 | 3 | 35 |
 | chikungunya | 7 | 0 | 2 | 0 | 7 | 7 | 10 | 0 | 33 |
 | zika | 4 | 2 | 0 | 0 | 15 | 5 | 2 | 0 | 28 |
@@ -42,6 +42,8 @@ Source: [News API](https://newsapi.org/)
 - [Rabid Bear Attacks Man in Pennsylvania](https://www.newser.com/story/363225/rabid-bear-attacks-man-in-pennsylvania.html) (Newser)
 
 ## 25-5 (mpox)
+
+- [Effective immediately: CDC can't talk to WHO. What will that mean for world health?](https://www.npr.org/sections/goats-and-soda/2025/01/29/nx-s1-5276340/trump-centers-for-disease-control-cdc-world-health-organization) (NPR)
 
 - [Wednesday headlines: Thirteen seasons why](https://themorningnews.org/p/wednesday-headlines-thirteen-seasons-why) (Themorningnews.org)
 
@@ -85,6 +87,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-5 (measles)
 
+- [RFK Jr. Denies Samoa Visit Was Vaccine-Related: Here Are the Facts](https://www.newsweek.com/rfk-jr-denies-samoa-visit-was-vaccine-related-here-are-facts-2023112) (Newsweek)
+
 - [Robert F. Kennedy Jr. Distorts the Facts on His Infamous Samoa Visit](https://www.motherjones.com/politics/2025/01/during-his-confirmation-hearing-robert-f-kennedy-jr-distorts-his-infamous-samoa-visit/) (Mother Jones)
 
 - [RFK Jr. asked to explain vaccine stance, pressed about measles outbreak in Samoa](https://www.cbsnews.com/video/rfk-jr-asked-to-explain-vaccine-stance-pressed-on-thoughts-about-measles/) (CBS News)
@@ -98,6 +102,8 @@ Source: [News API](https://newsapi.org/)
 - [Asha workers to identify 1 million children for MMR vaccination, special campaigns soon](https://www.livemint.com/industry/asha-workers-mmr-vaccination-special-campaigns-mumps-measles-rubella-accredited-social-health-activist-11737708760867.html) (Livemint)
 
 ## 25-5 (malaria)
+
+- [A Total of USD 12.7 Million Investment in New Diagnostics and Drug Development for NTDs and Malaria to Partners Including the Ohio State University, PATH, GSK and Others](https://www.prnewswire.co.uk/news-releases/a-total-of-usd-12-7-million-investment-in-new-diagnostics-and-drug-development-for-ntds-and-malaria-to-partners-including-the-ohio-state-university-path-gsk-and-others-302363864.html) (PR Newswire UK)
 
 - [Kogi votes N4bn for malaria prevention](https://punchng.com/kogi-votes-n4bn-for-malaria-prevention/) (The Punch)
 
@@ -149,6 +155,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-5 (hpai)
 
+- [Yeni kuş gribi varyantı: 119 bin hayvan itlaf edildi](https://www.haber7.com/dunya/haber/3500632-yeni-kus-gribi-varyanti-119-bin-hayvan-itlaf-edildi) (Haber7.com)
+
 - [Microsoft skrotter Windows-værktøj blot to år efter udgivelsen](https://www.computerworld.dk/art/290267/microsoft-skrotter-windows-vaerktoej-blot-to-aar-efter-udgivelsen) (Computerworld.dk)
 
 - [Deepseek sender dine data direkte til Kina - disse oplysninger bliver indsamlet](https://www.computerworld.dk/art/290263/deepseek-sender-dine-data-direkte-til-kina-disse-oplysninger-bliver-indsamlet-om-dig) (Computerworld.dk)
@@ -156,6 +164,10 @@ Source: [News API](https://newsapi.org/)
 - [ABD'de yeni kuş gribi türü tespit edildi: Pandemi kapıda!](https://www.turkiyegazetesi.com.tr/dunya/abdde-yeni-kus-gribi-turu-tespit-edildi-pandemi-kapida-1090032) (Turkiyegazetesi.com.tr)
 
 ## 25-5 (h5n1)
+
+- [UK confirms one avian flu case](https://www.bangkokpost.com/thailand/general/2950385/uk-confirms-one-avian-flu-case) (Bangkok Post)
+
+- [Scientists: The Risk of a Bird Flu Pandemic Is Rising](https://www.shtfplan.com/headline-news/scientists-the-risk-of-a-bird-flu-pandemic-is-rising) (Shtfplan.com)
 
 - [Behöver vara på tå när hotet från fågelinfluensa ökar](https://www.expressen.se/nyheter/varlden/behover-vara-pa-ta-nar-hotet-fran-fagelinfluensa-okar/) (Expressen.se)
 
@@ -3051,6 +3063,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Вирус гриппа А сохранил заразность в сыром коровьем молоке на несколько дней](https://nplus1.ru/news/2024/12/16/influenza-in-raw-milk) (Nplus1.ru)
 
+- [2 San Joaquin County farmworkers infected with bird flu after exposure to sick animals](https://www.recordnet.com/story/news/healthcare/2024/12/15/2-san-joaquin-county-farmworkers-test-positive-for-bird-flu/76997469007/) (Stockton Record)
+
 ## 24-51 (dengue)
 
 - [Could mosquitoes deliver vaccines against malaria?](https://www.aljazeera.com/news/2024/12/21/could-mosquitoes-deliver-vaccines-against-malaria) (Al Jazeera English)
@@ -3108,6 +3122,10 @@ Source: [News API](https://newsapi.org/)
 - [Saúde quer levar vacina contra dengue para dentro das escolas em 2025](https://www.metropoles.com/distrito-federal/saude-quer-levar-vacina-contra-dengue-para-dentro-das-escolas-em-2025) (Metropoles.com)
 
 - [México acumula 20 mil 931 casos por dengue](https://www.excelsior.com.mx/nacional/mexico-acumula-20-mil-931-casos-por-dengue/1689802) (Excelsior.com.mx)
+
+- [6mila morti di dengue in Brasile nel 2024, è record. L’allarme: “Cambiamenti climatici e siccità favoriscono riproduzione della zanzara”](https://www.ilfattoquotidiano.it/2024/12/15/morti-dengue-brasile-recort-allarme-cambiamenti-climatici-news/7805431/) (Ilfattoquotidiano.it)
+
+- [OMS: enfrenta América la mayor epidemia de dengue en 44 años](https://www.jornada.com.mx/2024/12/15/politica/009n1pol) (Jornada.com.mx)
 
 ## 24-51 (chikungunya)
 

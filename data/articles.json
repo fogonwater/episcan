@@ -1,8 +1,116 @@
 {
-  "last_updated": "2025-01-30 19:06",
-  "count_articles_total": 1412,
-  "count_articles_new": 19,
+  "last_updated": "2025-01-31 07:06",
+  "count_articles_total": 1421,
+  "count_articles_new": 6,
   "articles": [
+    {
+      "id": 17818,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "PR Newswire UK",
+      "author": null,
+      "title": "A Total of USD 12.7 Million Investment in New Diagnostics and Drug Development for NTDs and Malaria to Partners Including the Ohio State University, PATH, GSK and Others",
+      "description": "TOKYO, Jan. 30, 2025 /PRNewswire/ -- The Global Health Innovative Technology (GHIT) Fund announced today a total investment of approximately JPY 2 billion (USD 12.7 million1) in eight projects for the development of new diagnostics and drugs for neglected tro\u2026",
+      "url": "https://www.prnewswire.co.uk/news-releases/a-total-of-usd-12-7-million-investment-in-new-diagnostics-and-drug-development-for-ntds-and-malaria-to-partners-including-the-ohio-state-university-path-gsk-and-others-302363864.html",
+      "urlToImage": null,
+      "publishedAt": "2025-01-30 02:00:00",
+      "content": "TOKYO, Jan. 30, 2025 /PRNewswire/ -- The Global Health Innovative Technology (GHIT) Fund announced today a total investment of approximately JPY 2 billion (USD 12.7 million1) in eight projects for th\u2026 [+22289 chars]",
+      "retrievedAt": "2025-01-31 07:06:11.150351",
+      "internal_id": "026c0e1e88f984ccea0b5ec57a5143ed0be2ba6f7241a25ba781a4300ee28896",
+      "publishedAtLabel": "Jan 30"
+    },
+    {
+      "id": 17814,
+      "query": [
+        "measles"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Tom Norton",
+      "title": "RFK Jr. Denies Samoa Visit Was Vaccine-Related: Here Are the Facts",
+      "description": "Robert F. Kennedy Jr. told senators that his trip to the country later hit by a measles outbreak had \"nothing\" to do with vaccines.",
+      "url": "https://www.newsweek.com/rfk-jr-denies-samoa-visit-was-vaccine-related-here-are-facts-2023112",
+      "urlToImage": "https://d.newsweek.com/en/full/2576624/rfk-jr.jpg",
+      "publishedAt": "2025-01-29 23:12:50",
+      "content": "At his Senate confirmation hearing, Robert F. Kennedy Jr. told senators that his 2019 trip to Samoa ahead of its fatal measles crisis was not related to vaccines\u2014despite connections he made with anti\u2026 [+5940 chars]",
+      "retrievedAt": "2025-01-31 07:06:09.605149",
+      "internal_id": "a23bb5ab11078107c6fcb86db9c7a13f493c3a665c4299c3164c275e3561168e",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 17816,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Bangkok Post",
+      "author": null,
+      "title": "UK confirms one avian flu case",
+      "description": "Public health authorities remain on alert following the discovery of influenza A (H5N1) in a person in the West Midlands region of the United Kingdom.",
+      "url": "https://www.bangkokpost.com/thailand/general/2950385/uk-confirms-one-avian-flu-case",
+      "urlToImage": "https://static.bangkokpost.com/media/content/20250130/c1_2950385_250130045708_700.jpg",
+      "publishedAt": "2025-01-29 21:56:00",
+      "content": "Public health authorities remain on alert following the discovery of influenza A (H5N1) in a person in the West Midlands region of the United Kingdom. The UK Health Security Agency (UKHSA) confirmed\u2026 [+1168 chars]",
+      "retrievedAt": "2025-01-31 07:06:10.283625",
+      "internal_id": "7cc422e4700f6d4802189627a987b5923162d7d1d6d32bb70a13105c980a640b",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 17817,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Shtfplan.com",
+      "author": "Mac Slavo",
+      "title": "Scientists: The Risk of a Bird Flu Pandemic Is Rising",
+      "description": "Scientists are beginning to claim that the risk of the bird flu outbreak currently circulating in dairy cattle transferring to humans is rising. The virus is allegedly adapting to new hosts, which contributes to the rising risk that the H5N1 avian influenza v\u2026",
+      "url": "https://www.shtfplan.com/headline-news/scientists-the-risk-of-a-bird-flu-pandemic-is-rising",
+      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2024/02/bird-flu-the-next-pandemic.jpg",
+      "publishedAt": "2025-01-29 21:00:18",
+      "content": "Scientists are beginning to claim that the risk of the bird flu outbreak currently circulating in dairy cattle transferring to humans is rising. The virus is allegedly adapting to new hosts, which co\u2026 [+2280 chars]",
+      "retrievedAt": "2025-01-31 07:06:10.296456",
+      "internal_id": "d5b9e0147835cb8a6257e9c87b1d4476e32d74b7991bf3b56af73ff288886225",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 17815,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Haber7.com",
+      "author": "Muhammet Binici",
+      "title": "Yeni ku\u015f gribi varyant\u0131: 119 bin hayvan itlaf edildi",
+      "description": "ABD\u2019deki bir \u00f6rdek \u00e7iftli\u011finde, ilk kez bir k\u00fcmes hayvan\u0131nda H5N9 t\u00fcr\u00fc ku\u015f gribi vakas\u0131 tespit edildi. \u00c7iftlikteki 119 bin k\u00fcmes hayvan\u0131 itlaf edildi.",
+      "url": "https://www.haber7.com/dunya/haber/3500632-yeni-kus-gribi-varyanti-119-bin-hayvan-itlaf-edildi",
+      "urlToImage": "https://i20.haber7.net/resize/1280x720//haber/haber7/photos/2025/05/yeni_kus_gribi_varyanti_119_bin_hayvan_itlaf_edildi_1738181457_2024.jpg",
+      "publishedAt": "2025-01-29 20:11:00",
+      "content": "D\u00fcnya Hayvan Sal \u00d6rg\u00fct\u00fc (WOAH) raporuna g\u00f6re, \"y\u00fcksek patojenik ku gribi (HPAI) H5N9\" varyant, Kaliforniya'nn Merced County b\u00f6lgesindeki ticari bir \u00f6rdek \u00e7iftliinde tespit edildi. D\u00fcnya \u00e7apnda hayva\u2026 [+976 chars]",
+      "retrievedAt": "2025-01-31 07:06:09.912324",
+      "internal_id": "7513a8f43260196e571da80d59e41278a6815347c0831d121c385e7e4306e7e3",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 17819,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Gabrielle Emanuel",
+      "title": "Effective immediately: CDC can't talk to WHO. What will that mean for world health?",
+      "description": "Staff at the Centers for Disease Control and Prevention have been told to halt all communication with the World Health Organization.",
+      "url": "https://www.npr.org/sections/goats-and-soda/2025/01/29/nx-s1-5276340/trump-centers-for-disease-control-cdc-world-health-organization",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x1688+0+157/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fca%2F51%2F902b3cd1488e8db026e5895cec1b%2Fcdc.jpg",
+      "publishedAt": "2025-01-29 19:38:49",
+      "content": "This week, as officials at World Health Organizations convene meetings discussing everything from Marburg virus in Tanzania to mpox in the Democratic Republic of Congo, there are some empty seats in \u2026 [+6197 chars]",
+      "retrievedAt": "2025-01-31 07:06:11.917837",
+      "internal_id": "87ccbb4acd2cd9bf4ccd7cdd219d0b54bf7ffe7ae38bab111fd17f791c3ead75",
+      "publishedAtLabel": "Jan 29"
+    },
     {
       "id": 17797,
       "query": [
@@ -25465,6 +25573,60 @@
       "content": "Hasta el pasado 09 de diciembre, en 30 entidades, nuestro pa\u00eds acumul\u00f3 120 mil 931 casos de dengue con el reporte de 362 muertes. Por lo anterior, en tan solo una semana se confirmaron 3 mil 436 \u2026 [+1252 chars]",
       "retrievedAt": "2024-12-17 07:07:13.266934",
       "internal_id": "e143a31c8095d8efbd0668c137f51c53d14464b6b7defa77df8186851c0c3386",
+      "publishedAtLabel": "Dec 15"
+    },
+    {
+      "id": 16400,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ilfattoquotidiano.it",
+      "author": "F. Q.",
+      "title": "6mila morti di dengue in Brasile nel 2024, \u00e8 record. L\u2019allarme: \u201cCambiamenti climatici e siccit\u00e0 favoriscono riproduzione della zanzara\u201d",
+      "description": "Secondo la ministra della salute Nisia Trindade, siccit\u00e0, alluvioni e innalzamento delle temperature favoriscono la pi\u00f9 rapida riproduzione delle zanzare. L\u2019incidenza \u00e8 di 3.253 casi per 100mila abitanti L'articolo 6mila morti di dengue in Brasile nel 2024, \u00e8\u2026",
+      "url": "https://www.ilfattoquotidiano.it/2024/12/15/morti-dengue-brasile-recort-allarme-cambiamenti-climatici-news/7805431/",
+      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2019/07/31/zanzaratigre1200.jpg",
+      "publishedAt": "2024-12-15 15:34:21",
+      "content": "Roma, 15 dic. (Adnkronos) - \"Occorrerebbe forse seguire le altalenanti vicissitudini del 'centro' e dei suoi inquieti inquilini con pi\u00f9 rispetto e insieme per\u00f2 con pi\u00f9 rigorosa severit\u00e0. Infatti il c\u2026 [+3707 chars]",
+      "retrievedAt": "2024-12-16 19:05:44.820131",
+      "internal_id": "5ab108bd74dce71125cd7d8a90956b05d8edd4931d6bb98a683cc96215b2193d",
+      "publishedAtLabel": "Dec 15"
+    },
+    {
+      "id": 16399,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Stockton Record",
+      "author": "Hannah Workman, The Stockton Record",
+      "title": "2 San Joaquin County farmworkers infected with bird flu after exposure to sick animals",
+      "description": "Two human cases of bird flu have been confirmed in San Joaquin County farmworkers. Public health officials said the risk to the general public is low.",
+      "url": "https://www.recordnet.com/story/news/healthcare/2024/12/15/2-san-joaquin-county-farmworkers-test-positive-for-bird-flu/76997469007/",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/pihXfwL8O_Zgx5jC5Vx6Pg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/the-stockton-record/cc0352b42d7be752f10be8834ad54e01",
+      "publishedAt": "2024-12-15 15:26:29",
+      "content": "Two human cases of the H5N1 virus, also known as avian flu or bird flu, have been confirmed in San Joaquin County, public health officials announced on Friday. The cases occurred in farmworkers with\u2026 [+2611 chars]",
+      "retrievedAt": "2024-12-16 19:05:44.268767",
+      "internal_id": "f25fa685cc7cf597dd0a33fef6122adb2e418a8f4bb073f7aa14d773475c9a86",
+      "publishedAtLabel": "Dec 15"
+    },
+    {
+      "id": 16401,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "title": "OMS: enfrenta Am\u00e9rica la mayor epidemia de dengue en 44 a\u00f1os",
+      "description": "La Organizaci\u00f3n Mundial de la Salud (OMS) alerta que el continente americano enfrenta la mayor epidemia de dengue desde que se tienen registros en 1980.",
+      "url": "https://www.jornada.com.mx/2024/12/15/politica/009n1pol",
+      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "publishedAt": "2024-12-15 08:32:29",
+      "content": "Peri\u00f3dico La JornadaDomingo 15 de diciembre de 2024, p. 9 La Organizaci\u00f3n Mundial de la Salud (OMS) alerta que el continente americano enfrenta la mayor epidemia de dengue desde que se tienen regist\u2026 [+2816 chars]",
+      "retrievedAt": "2024-12-16 19:05:44.837742",
+      "internal_id": "c851716747366c2acb2a98d20500d336168bc4fae74e7a737877c5bfc7dca444",
       "publishedAtLabel": "Dec 15"
     }
   ]
