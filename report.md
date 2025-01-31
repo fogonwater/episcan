@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 6
-- **Last harvest:** 2025-01-31 07:06
-- **Most recent article:** 2025-01-30 02:00:00
+- **New articles in last harvest:** 10
+- **Last harvest:** 2025-01-31 19:05
+- **Most recent article:** 2025-01-30 19:05:04
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-51 | 24-52 | 24-53 | 25-1 | 25-2 | 25-3 | 25-4 | 25-5 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| h5n1 | 111 | 65 | 27 | 27 | 131 | 65 | 31 | 39 | 496 |
+| h5n1 | 110 | 65 | 27 | 27 | 131 | 65 | 31 | 40 | 496 |
 | mpox | 92 | 35 | 2 | 6 | 91 | 34 | 23 | 15 | 298 |
-| malaria | 60 | 30 | 15 | 10 | 30 | 18 | 19 | 25 | 207 |
-| dengue | 30 | 24 | 6 | 12 | 41 | 29 | 37 | 11 | 190 |
-| hpai | 6 | 12 | 1 | 4 | 18 | 12 | 11 | 4 | 68 |
+| malaria | 60 | 30 | 15 | 10 | 30 | 18 | 19 | 27 | 209 |
+| dengue | 28 | 24 | 6 | 12 | 41 | 29 | 37 | 12 | 189 |
+| hpai | 6 | 12 | 1 | 4 | 18 | 12 | 11 | 5 | 69 |
 | measles | 6 | 11 | 3 | 6 | 6 | 9 | 10 | 7 | 58 |
 | rabies | 7 | 8 | 1 | 1 | 2 | 6 | 7 | 3 | 35 |
 | chikungunya | 7 | 0 | 2 | 0 | 7 | 7 | 10 | 0 | 33 |
-| zika | 4 | 2 | 0 | 0 | 15 | 5 | 2 | 0 | 28 |
-| meningitis | 5 | 3 | 1 | 2 | 0 | 2 | 3 | 5 | 21 |
+| zika | 4 | 2 | 0 | 0 | 15 | 5 | 2 | 3 | 31 |
+| meningitis | 5 | 3 | 1 | 2 | 0 | 2 | 3 | 8 | 24 |
 | pertussis | 4 | 6 | 0 | 1 | 2 | 0 | 1 | 0 | 14 |
 | yersinia | 0 | 6 | 0 | 0 | 3 | 2 | 0 | 0 | 11 |
 | leptospirosis | 0 | 2 | 0 | 0 | 0 | 1 | 2 | 0 | 5 |
@@ -32,6 +32,14 @@ By US epiweek (i.e. Sunday to Saturday)
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 25-5 (zika)
+
+- [Zika uses human skin as 'mosquito magnet' to spread virus further](https://www.sciencedaily.com/releases/2025/01/250130140504.htm) (Science Daily)
+
+- [Zika modifica pele humana para que ela se torne “ímã” para mosquitos](https://www.metropoles.com/saude/zika-modifica-pele-humana-ima-de-mosquitos) (Metropoles.com)
+
+- [Concurrent transmission of Zika virus during the 2023 dengue outbreak in Dhaka, Bangladesh](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012866) (Plos.org)
 
 ## 25-5 (rabies)
 
@@ -75,6 +83,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-5 (meningitis)
 
+- [Hallan misterioso parásito en cadáveres de lémures europeos](https://www.dw.com/es/hallan-misterioso-par%C3%A1sito-en-cad%C3%A1veres-de-l%C3%A9mures-europeos/a-71460139) (DW (English))
+
+- [Sen. Tammy Baldwin: RFK Jr. Is Bad for Our Health | Opinion](https://www.newsweek.com/sen-tammy-baldwin-rfk-jr-bad-our-health-opinion-2023027) (Newsweek)
+
+- [Patras: In six hours the 20-year-old student who contracted meningitis died](https://en.protothema.gr/2025/01/30/patras-in-six-hours-the-20-year-old-student-who-contracted-meningitis-died/) (Protothema.gr)
+
 - [Meningitis: Can it lead to death in a few hours? The symptoms and prevention](https://en.protothema.gr/2025/01/29/meningitis-can-it-lead-to-death-in-a-few-hours-the-symptoms-and-prevention/) (Protothema.gr)
 
 - [Dos personas, una mujer adulta y un menor, en la UCI por el brote de meningitis bacteriana en un colegio de Zaragoza](https://www.abc.es/espana/aragon/dos-personas-adulta-menor-uci-brote-meningitis-20250128103904-nt.html) (Www.abc.es)
@@ -102,6 +116,10 @@ Source: [News API](https://newsapi.org/)
 - [Asha workers to identify 1 million children for MMR vaccination, special campaigns soon](https://www.livemint.com/industry/asha-workers-mmr-vaccination-special-campaigns-mumps-measles-rubella-accredited-social-health-activist-11737708760867.html) (Livemint)
 
 ## 25-5 (malaria)
+
+- [Correction: Attributable risk factors for asymptomatic malaria and anaemia and their association with cognitive and psychomotor functions in schoolchildren of north-eastern Tanzania](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318828) (Plos.org)
+
+- [WHO’s Neglected Tropical Disease Day at unfamiliar odds with US stance](https://www.pharmaceutical-technology.com/news/whos-neglected-tropical-disease-day-at-unfamiliar-odds-with-us-stance/) (Pharmaceutical Technology)
 
 - [A Total of USD 12.7 Million Investment in New Diagnostics and Drug Development for NTDs and Malaria to Partners Including the Ohio State University, PATH, GSK and Others](https://www.prnewswire.co.uk/news-releases/a-total-of-usd-12-7-million-investment-in-new-diagnostics-and-drug-development-for-ntds-and-malaria-to-partners-including-the-ohio-state-university-path-gsk-and-others-302363864.html) (PR Newswire UK)
 
@@ -155,6 +173,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-5 (hpai)
 
+- [Ptasia grypa się rozprzestrzenia. Pojawiły się ogniska w Polsce. Europejscy eksperci alarmują](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,31655302,ptasia-grypa-sie-rozprzestrzenia-pojawily-sie-ogniska-w-polsce.html) (Gazeta.pl)
+
 - [Yeni kuş gribi varyantı: 119 bin hayvan itlaf edildi](https://www.haber7.com/dunya/haber/3500632-yeni-kus-gribi-varyanti-119-bin-hayvan-itlaf-edildi) (Haber7.com)
 
 - [Microsoft skrotter Windows-værktøj blot to år efter udgivelsen](https://www.computerworld.dk/art/290267/microsoft-skrotter-windows-vaerktoej-blot-to-aar-efter-udgivelsen) (Computerworld.dk)
@@ -164,6 +184,8 @@ Source: [News API](https://newsapi.org/)
 - [ABD'de yeni kuş gribi türü tespit edildi: Pandemi kapıda!](https://www.turkiyegazetesi.com.tr/dunya/abdde-yeni-kus-gribi-turu-tespit-edildi-pandemi-kapida-1090032) (Turkiyegazetesi.com.tr)
 
 ## 25-5 (h5n1)
+
+- [First Reported H5N9 Bird Flu Outbreak In US As H5N1 Keeps Spreading](https://www.forbes.com/sites/brucelee/2025/01/30/first-reported-h5n9-bird-flu-outbreak-in-us-as-h5n1-keeps-spreading/) (Forbes)
 
 - [UK confirms one avian flu case](https://www.bangkokpost.com/thailand/general/2950385/uk-confirms-one-avian-flu-case) (Bangkok Post)
 
@@ -244,6 +266,8 @@ Source: [News API](https://newsapi.org/)
 - [FDA recommends pet food companies revisit safety plans amid bird flu outbreak](https://www.nbcnews.com/health/health-news/raw-pet-food-bird-flu-outbreak-cats-fda-guidance-rcna189011) (NBC News)
 
 ## 25-5 (dengue)
+
+- [Concurrent transmission of Zika virus during the 2023 dengue outbreak in Dhaka, Bangladesh](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012866) (Plos.org)
 
 - [São Paulo confirma 17 mortes por dengue nos primeiros 28 dias do ano](https://www.metropoles.com/sao-paulo/sao-paulo-confirma-17-mortes-por-dengue-nos-primeiros-28-dias-do-ano) (Metropoles.com)
 
@@ -3063,8 +3087,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Вирус гриппа А сохранил заразность в сыром коровьем молоке на несколько дней](https://nplus1.ru/news/2024/12/16/influenza-in-raw-milk) (Nplus1.ru)
 
-- [2 San Joaquin County farmworkers infected with bird flu after exposure to sick animals](https://www.recordnet.com/story/news/healthcare/2024/12/15/2-san-joaquin-county-farmworkers-test-positive-for-bird-flu/76997469007/) (Stockton Record)
-
 ## 24-51 (dengue)
 
 - [Could mosquitoes deliver vaccines against malaria?](https://www.aljazeera.com/news/2024/12/21/could-mosquitoes-deliver-vaccines-against-malaria) (Al Jazeera English)
@@ -3122,10 +3144,6 @@ Source: [News API](https://newsapi.org/)
 - [Saúde quer levar vacina contra dengue para dentro das escolas em 2025](https://www.metropoles.com/distrito-federal/saude-quer-levar-vacina-contra-dengue-para-dentro-das-escolas-em-2025) (Metropoles.com)
 
 - [México acumula 20 mil 931 casos por dengue](https://www.excelsior.com.mx/nacional/mexico-acumula-20-mil-931-casos-por-dengue/1689802) (Excelsior.com.mx)
-
-- [6mila morti di dengue in Brasile nel 2024, è record. L’allarme: “Cambiamenti climatici e siccità favoriscono riproduzione della zanzara”](https://www.ilfattoquotidiano.it/2024/12/15/morti-dengue-brasile-recort-allarme-cambiamenti-climatici-news/7805431/) (Ilfattoquotidiano.it)
-
-- [OMS: enfrenta América la mayor epidemia de dengue en 44 años](https://www.jornada.com.mx/2024/12/15/politica/009n1pol) (Jornada.com.mx)
 
 ## 24-51 (chikungunya)
 

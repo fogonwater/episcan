@@ -1,8 +1,189 @@
 {
-  "last_updated": "2025-01-31 07:06",
-  "count_articles_total": 1421,
-  "count_articles_new": 6,
+  "last_updated": "2025-01-31 19:05",
+  "count_articles_total": 1428,
+  "count_articles_new": 10,
   "articles": [
+    {
+      "id": 17828,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "Zika uses human skin as 'mosquito magnet' to spread virus further",
+      "description": "Zika virus hijacks the skin of its human host to send out chemical signals that lure more mosquitoes to infect and spread the disease further, new research shows.",
+      "url": "https://www.sciencedaily.com/releases/2025/01/250130140504.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2025-01-30 19:05:04",
+      "content": "Zika virus hijacks the skin of its human host to send out chemical signals that lure more mosquitoes to infect and spread the disease further, new research shows.Zika transmission has been reported m\u2026 [+2256 chars]",
+      "retrievedAt": "2025-01-31 19:05:48.048573",
+      "internal_id": "c8c2e5f18ea9c918c905669aed3b36d917606f2820db0809104a9c410dd2dccc",
+      "publishedAtLabel": "Jan 30"
+    },
+    {
+      "id": 17829,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Beth\u00e2nia Nunes",
+      "title": "Zika modifica pele humana para que ela se torne \u201c\u00edm\u00e3\u201d para mosquitos",
+      "description": "Estudo mostra que o zika faz altera\u00e7\u00f5es metab\u00f3licas na pele humana para atrair o mosquito Aedes aegypti e espalhar ainda mais o v\u00edrus",
+      "url": "https://www.metropoles.com/saude/zika-modifica-pele-humana-ima-de-mosquitos",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/02/06195253/aedes-aegypti-1.jpg",
+      "publishedAt": "2025-01-30 15:39:08",
+      "content": "Pesquisadores da Escola de Medicina Tropical de Liverpool, na Inglaterra, descobriram que o v\u00edrus da zika causa altera\u00e7\u00f5es metab\u00f3licas na pele humana para que ela se torne um \u201c\u00edm\u00e3\u201d para mosquitos. A\u2026 [+4349 chars]",
+      "retrievedAt": "2025-01-31 19:05:48.057128",
+      "internal_id": "0cd94821aa842e907277ac6672fb4bbef66c8452fe489cc4ea08aecdce327c59",
+      "publishedAtLabel": "Jan 30"
+    },
+    {
+      "id": 17823,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "DW (English)",
+      "author": "Deutsche Welle",
+      "title": "Hallan misterioso par\u00e1sito en cad\u00e1veres de l\u00e9mures europeos",
+      "description": "El par\u00e1sito es susceptible de causar meningitis, por lo que representa un riesgo tambi\u00e9n para humanos. Una investigaci\u00f3n liderada por la Universidad CEU Cardenal Herrera de Valencia (este de Espa\u00f1a) permiti\u00f3 hallar, por primera vez en Europa, la presencia en \u2026",
+      "url": "https://www.dw.com/es/hallan-misterioso-par%C3%A1sito-en-cad%C3%A1veres-de-l%C3%A9mures-europeos/a-71460139",
+      "urlToImage": "https://static.dw.com/image/66648276_6.jpg",
+      "publishedAt": "2025-01-30 14:52:00",
+      "content": "Una investigaci\u00f3n liderada por la Universidad CEU Cardenal Herrera de Valencia (este de Espa\u00f1a) permiti\u00f3 hallar, por primera vez en Europa, la presencia en l\u00e9mures del Bioparc de Valencia de un par\u00e1s\u2026 [+3249 chars]",
+      "retrievedAt": "2025-01-31 19:05:46.705992",
+      "internal_id": "e04ebc1bf37e27ec1ac94ded29c8930db25d071d948adf74b6c2cad1c3a776e5",
+      "publishedAtLabel": "Jan 30"
+    },
+    {
+      "id": 17821,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Bruce Y. Lee, Senior Contributor, \n Bruce Y. Lee, Senior Contributor\n https://www.forbes.com/sites/brucelee/",
+      "title": "First Reported H5N9 Bird Flu Outbreak In US As H5N1 Keeps Spreading",
+      "description": "While the H5N1 bird flu keep spreading, there has been for the first time ever a reported H5N9 outbreak in the United States. This occurred on a duck farm in California",
+      "url": "https://www.forbes.com/sites/brucelee/2025/01/30/first-reported-h5n9-bird-flu-outbreak-in-us-as-h5n1-keeps-spreading/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/679b88cc092e5b4dcecbabf0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-01-30 14:20:06",
+      "content": "For the first time ever the H5N9 avian influenza virus has caused an outbreak in the U.S. This ... [+] occurred on a duck farm in Merced, California. Pictured here is a random duck, not from that far\u2026 [+4288 chars]",
+      "retrievedAt": "2025-01-31 19:05:45.180155",
+      "internal_id": "ddce61be4de00aeb9257e3ef05de1aedfbebeed3ac490454a96603269ffce595",
+      "publishedAtLabel": "Jan 30"
+    },
+    {
+      "id": 17822,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Anamul Hasan, Md. Mobarok Hossain, Md Fahad Zamil, Afrida Tabassum Trina, Mohammad Sharif Hossain, Asifa Kumkum, Sajia Afreen, Dilruba Ahmed, Md. Mustafizur Rahman, Mohammad Shafiul Alam",
+      "title": "Concurrent transmission of Zika virus during the 2023 dengue outbreak in Dhaka, Bangladesh",
+      "description": "Author summary This study explores the co-transmission of Zika (ZIKV) and dengue (DENV) during the 2023 dengue outbreak in Bangladesh, shedding light on important public health and epidemiological issues. While Zika is typically a mild illness for most people\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012866",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012866.g003&size=inline",
+      "publishedAt": "2025-01-30 14:00:00",
+      "content": "Abstract Background During the 2023-dengue outbreak in Bangladesh, a diagnostic evaluation study was conducted to investigate concurrent Zika virus (ZIKV) and dengue virus (DENV) transmission in Dh\u2026 [+33510 chars]",
+      "retrievedAt": "2025-01-31 19:05:46.051131",
+      "internal_id": "c820e0a270bedb67d88a9e90aec46048919bd8fc8b54931547448b7edd2e5928",
+      "publishedAtLabel": "Jan 30"
+    },
+    {
+      "id": 17827,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "The PLOS ONE Staff",
+      "title": "Correction: Attributable risk factors for asymptomatic malaria and anaemia and their association with cognitive and psychomotor functions in schoolchildren of north-eastern Tanzania",
+      "description": "",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318828",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0318828.t001&size=inline",
+      "publishedAt": "2025-01-30 14:00:00",
+      "content": "Citation: The PLOS ONE Staff (2025) Correction: Attributable risk factors for asymptomatic malaria and anaemia and their association with cognitive and psychomotor functions in schoolchildren of nort\u2026 [+396 chars]",
+      "retrievedAt": "2025-01-31 19:05:47.530862",
+      "internal_id": "5198d8f024865eea0063faa1eaed3776d04d95605ded65984831eec319ba7d36",
+      "publishedAtLabel": "Jan 30"
+    },
+    {
+      "id": 17820,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Gazeta.pl",
+      "author": "Julia Panicz",
+      "title": "Ptasia grypa si\u0119 rozprzestrzenia. Pojawi\u0142y si\u0119 ogniska w Polsce. Europejscy eksperci alarmuj\u0105",
+      "description": "G\u0142\u00f3wny Lekarz Weterynarii poinformowa\u0142, \u017ce w ostatnich dniach w Polsce wykryto sze\u015b\u0107 nowych ognisk ptasiej grypy (HPAI). Tymczasem europejskie agencje ostrzegaj\u0105, \u017ce wirus mo\u017ce w przysz\u0142o\u015bci \"stanowi\u0107 zagro\u017cenie o charakterze pandemicznym\".",
+      "url": "https://wiadomosci.gazeta.pl/wiadomosci/7,114883,31655302,ptasia-grypa-sie-rozprzestrzenia-pojawily-sie-ogniska-w-polsce.html",
+      "urlToImage": "https://bi.im-g.pl/im/1b/11/1b/z28384539IER,Kury--zdjecie-ilustracyjne-.jpg",
+      "publishedAt": "2025-01-30 12:54:00",
+      "content": "Nowe ogniska: W Polsce potwierdzono sze\u015b\u0107 nowych ognisk ptasiej grypy, w wojew\u00f3dztwach: zachodniopomorskim, \u0142\u00f3dzkim, mazowieckim, warmi\u0144sko-mazurskim oraz podkarpackim - informuje PAP. W pi\u0119ciu gospo\u2026 [+1960 chars]",
+      "retrievedAt": "2025-01-31 19:05:44.479117",
+      "internal_id": "8e7ed509969aabed5632ea06aba26cdcb3841a7dbbdf0fc9470e9783f18c3fd8",
+      "publishedAtLabel": "Jan 30"
+    },
+    {
+      "id": 17826,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Pharmaceutical Technology",
+      "author": "Robert Barrie",
+      "title": "WHO\u2019s Neglected Tropical Disease Day at unfamiliar odds with US stance",
+      "description": "Prioritising US health, Trump has already frozen the supply of HIV and malaria medication aid to endemic countries.",
+      "url": "https://www.pharmaceutical-technology.com/news/whos-neglected-tropical-disease-day-at-unfamiliar-odds-with-us-stance/",
+      "urlToImage": "https://media.zenfs.com/en/pharmaceutical_technology_376/0dfa58b20cbb1d1a0a03817272828f7a",
+      "publishedAt": "2025-01-30 12:44:11",
+      "content": "The World Health Organization (WHO) has called for country commitment to combat neglected tropical diseases, as the agency braces itself for losing its biggest funder. The WHO released a short video\u2026 [+4522 chars]",
+      "retrievedAt": "2025-01-31 19:05:47.390470",
+      "internal_id": "711ad1e66a6216992f475603abe8813bf1ff84e3b5bbd6636d03ccdc5fe7d7be",
+      "publishedAtLabel": "Jan 30"
+    },
+    {
+      "id": 17824,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": null,
+      "title": "Sen. Tammy Baldwin: RFK Jr. Is Bad for Our Health | Opinion",
+      "description": "I got into politics because of my experience with health care, and it informs how I think about keeping Americans safe and well today.",
+      "url": "https://www.newsweek.com/sen-tammy-baldwin-rfk-jr-bad-our-health-opinion-2023027",
+      "urlToImage": "https://d.newsweek.com/en/full/2576484/sen-tammy-baldwin.jpg",
+      "publishedAt": "2025-01-30 12:01:01",
+      "content": "When I was 9 years old, I was diagnosed with a serious illness similar to spinal meningitis. The experience not only landed me in the hospital for three months, it also shaped the rest of my life. I \u2026 [+4331 chars]",
+      "retrievedAt": "2025-01-31 19:05:46.713791",
+      "internal_id": "bf07ec1fadb6a032c50cb6fa1c2674c5c96a087442505e9639c9247eaa086718",
+      "publishedAtLabel": "Jan 30"
+    },
+    {
+      "id": 17825,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Protothema.gr",
+      "author": "admin",
+      "title": "Patras: In six hours the 20-year-old student who contracted meningitis died",
+      "description": "\"His vital organs couldn't take it and finally they fought with his heart but they didn't make it,\" his mother said - Today the funeral of the 20-year-old The post Patras: In six hours the 20-year-old student who contracted meningitis died appeared first on P\u2026",
+      "url": "https://en.protothema.gr/2025/01/30/patras-in-six-hours-the-20-year-old-student-who-contracted-meningitis-died/",
+      "urlToImage": "https://en.protothema.gr/wp-content/uploads/2025/01/nosokomeio-arthrou-1.jpg-1.jpg",
+      "publishedAt": "2025-01-30 08:16:53",
+      "content": "Relatives, friends, and fellow students of 20-year-old Socrates, the student in Patra who died within hours of being diagnosed with meningitis, will say their final goodbye today. As the mother of t\u2026 [+1777 chars]",
+      "retrievedAt": "2025-01-31 19:05:46.732989",
+      "internal_id": "0803554fc2e015eff4c10dadc2f4191621707c47424c15cd6c56f68cdf9ea185",
+      "publishedAtLabel": "Jan 30"
+    },
     {
       "id": 17818,
       "query": [
@@ -25573,60 +25754,6 @@
       "content": "Hasta el pasado 09 de diciembre, en 30 entidades, nuestro pa\u00eds acumul\u00f3 120 mil 931 casos de dengue con el reporte de 362 muertes. Por lo anterior, en tan solo una semana se confirmaron 3 mil 436 \u2026 [+1252 chars]",
       "retrievedAt": "2024-12-17 07:07:13.266934",
       "internal_id": "e143a31c8095d8efbd0668c137f51c53d14464b6b7defa77df8186851c0c3386",
-      "publishedAtLabel": "Dec 15"
-    },
-    {
-      "id": 16400,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Ilfattoquotidiano.it",
-      "author": "F. Q.",
-      "title": "6mila morti di dengue in Brasile nel 2024, \u00e8 record. L\u2019allarme: \u201cCambiamenti climatici e siccit\u00e0 favoriscono riproduzione della zanzara\u201d",
-      "description": "Secondo la ministra della salute Nisia Trindade, siccit\u00e0, alluvioni e innalzamento delle temperature favoriscono la pi\u00f9 rapida riproduzione delle zanzare. L\u2019incidenza \u00e8 di 3.253 casi per 100mila abitanti L'articolo 6mila morti di dengue in Brasile nel 2024, \u00e8\u2026",
-      "url": "https://www.ilfattoquotidiano.it/2024/12/15/morti-dengue-brasile-recort-allarme-cambiamenti-climatici-news/7805431/",
-      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2019/07/31/zanzaratigre1200.jpg",
-      "publishedAt": "2024-12-15 15:34:21",
-      "content": "Roma, 15 dic. (Adnkronos) - \"Occorrerebbe forse seguire le altalenanti vicissitudini del 'centro' e dei suoi inquieti inquilini con pi\u00f9 rispetto e insieme per\u00f2 con pi\u00f9 rigorosa severit\u00e0. Infatti il c\u2026 [+3707 chars]",
-      "retrievedAt": "2024-12-16 19:05:44.820131",
-      "internal_id": "5ab108bd74dce71125cd7d8a90956b05d8edd4931d6bb98a683cc96215b2193d",
-      "publishedAtLabel": "Dec 15"
-    },
-    {
-      "id": 16399,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Stockton Record",
-      "author": "Hannah Workman, The Stockton Record",
-      "title": "2 San Joaquin County farmworkers infected with bird flu after exposure to sick animals",
-      "description": "Two human cases of bird flu have been confirmed in San Joaquin County farmworkers. Public health officials said the risk to the general public is low.",
-      "url": "https://www.recordnet.com/story/news/healthcare/2024/12/15/2-san-joaquin-county-farmworkers-test-positive-for-bird-flu/76997469007/",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/pihXfwL8O_Zgx5jC5Vx6Pg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/the-stockton-record/cc0352b42d7be752f10be8834ad54e01",
-      "publishedAt": "2024-12-15 15:26:29",
-      "content": "Two human cases of the H5N1 virus, also known as avian flu or bird flu, have been confirmed in San Joaquin County, public health officials announced on Friday. The cases occurred in farmworkers with\u2026 [+2611 chars]",
-      "retrievedAt": "2024-12-16 19:05:44.268767",
-      "internal_id": "f25fa685cc7cf597dd0a33fef6122adb2e418a8f4bb073f7aa14d773475c9a86",
-      "publishedAtLabel": "Dec 15"
-    },
-    {
-      "id": 16401,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Jornada.com.mx",
-      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "title": "OMS: enfrenta Am\u00e9rica la mayor epidemia de dengue en 44 a\u00f1os",
-      "description": "La Organizaci\u00f3n Mundial de la Salud (OMS) alerta que el continente americano enfrenta la mayor epidemia de dengue desde que se tienen registros en 1980.",
-      "url": "https://www.jornada.com.mx/2024/12/15/politica/009n1pol",
-      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "publishedAt": "2024-12-15 08:32:29",
-      "content": "Peri\u00f3dico La JornadaDomingo 15 de diciembre de 2024, p. 9 La Organizaci\u00f3n Mundial de la Salud (OMS) alerta que el continente americano enfrenta la mayor epidemia de dengue desde que se tienen regist\u2026 [+2816 chars]",
-      "retrievedAt": "2024-12-16 19:05:44.837742",
-      "internal_id": "c851716747366c2acb2a98d20500d336168bc4fae74e7a737877c5bfc7dca444",
       "publishedAtLabel": "Dec 15"
     }
   ]
