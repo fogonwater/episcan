@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 10
-- **Last harvest:** 2025-01-31 19:05
-- **Most recent article:** 2025-01-30 19:05:04
+- **New articles in last harvest:** 14
+- **Last harvest:** 2025-02-01 07:05
+- **Most recent article:** 2025-01-31 06:32:50
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-51 | 24-52 | 24-53 | 25-1 | 25-2 | 25-3 | 25-4 | 25-5 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| h5n1 | 110 | 65 | 27 | 27 | 131 | 65 | 31 | 40 | 496 |
+| h5n1 | 111 | 65 | 27 | 27 | 131 | 65 | 31 | 46 | 503 |
 | mpox | 92 | 35 | 2 | 6 | 91 | 34 | 23 | 15 | 298 |
-| malaria | 60 | 30 | 15 | 10 | 30 | 18 | 19 | 27 | 209 |
-| dengue | 28 | 24 | 6 | 12 | 41 | 29 | 37 | 12 | 189 |
+| malaria | 60 | 30 | 15 | 10 | 30 | 18 | 19 | 28 | 210 |
+| dengue | 30 | 24 | 6 | 12 | 41 | 29 | 37 | 16 | 195 |
 | hpai | 6 | 12 | 1 | 4 | 18 | 12 | 11 | 5 | 69 |
-| measles | 6 | 11 | 3 | 6 | 6 | 9 | 10 | 7 | 58 |
+| measles | 6 | 11 | 3 | 6 | 6 | 9 | 10 | 9 | 60 |
 | rabies | 7 | 8 | 1 | 1 | 2 | 6 | 7 | 3 | 35 |
-| chikungunya | 7 | 0 | 2 | 0 | 7 | 7 | 10 | 0 | 33 |
-| zika | 4 | 2 | 0 | 0 | 15 | 5 | 2 | 3 | 31 |
+| chikungunya | 7 | 0 | 2 | 0 | 7 | 7 | 10 | 1 | 34 |
+| zika | 4 | 2 | 0 | 0 | 15 | 5 | 2 | 5 | 33 |
 | meningitis | 5 | 3 | 1 | 2 | 0 | 2 | 3 | 8 | 24 |
 | pertussis | 4 | 6 | 0 | 1 | 2 | 0 | 1 | 0 | 14 |
 | yersinia | 0 | 6 | 0 | 0 | 3 | 2 | 0 | 0 | 11 |
@@ -34,6 +34,10 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 25-5 (zika)
+
+- [Dengue: agentes seguirão entrando em casas mesmo se o dono não deixar](https://www.metropoles.com/distrito-federal/dengue-agentes-seguirao-entrando-em-casas-mesmo-se-o-dono-nao-deixar) (Metropoles.com)
+
+- [Ten wirus zamienia naszą skórę w "magnes na komary"](https://tvn24.pl/tvnmeteo/nauka/wirus-zika-naukowcy-zamienia-nasza-skore-w-magnes-na-komary-st8285689) (Tvn24.pl)
 
 - [Zika uses human skin as 'mosquito magnet' to spread virus further](https://www.sciencedaily.com/releases/2025/01/250130140504.htm) (Science Daily)
 
@@ -101,6 +105,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-5 (measles)
 
+- [Measles cases reported in Texas as vaccine rates against the disease has fallen (The Texas Tribune)](https://www.memeorandum.com/250130/p117) (Memeorandum.com)
+
+- [A Study Retracted 15 Years Ago Continues to Threaten Childhood Vaccines](https://time.com/7211491/eleanor-menzin-childhood-vaccine-myths-essay/) (Time)
+
 - [RFK Jr. Denies Samoa Visit Was Vaccine-Related: Here Are the Facts](https://www.newsweek.com/rfk-jr-denies-samoa-visit-was-vaccine-related-here-are-facts-2023112) (Newsweek)
 
 - [Robert F. Kennedy Jr. Distorts the Facts on His Infamous Samoa Visit](https://www.motherjones.com/politics/2025/01/during-his-confirmation-hearing-robert-f-kennedy-jr-distorts-his-infamous-samoa-visit/) (Mother Jones)
@@ -120,6 +128,8 @@ Source: [News API](https://newsapi.org/)
 - [Correction: Attributable risk factors for asymptomatic malaria and anaemia and their association with cognitive and psychomotor functions in schoolchildren of north-eastern Tanzania](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318828) (Plos.org)
 
 - [WHO’s Neglected Tropical Disease Day at unfamiliar odds with US stance](https://www.pharmaceutical-technology.com/news/whos-neglected-tropical-disease-day-at-unfamiliar-odds-with-us-stance/) (Pharmaceutical Technology)
+
+- [Trump Setop Pasokan Obat HIV, TBC, dan Malaria di Negara Miskin, RI Ikut Terdampak](https://health.detik.com/berita-detikhealth/d-7755105/trump-setop-pasokan-obat-hiv-tbc-dan-malaria-di-negara-miskin-ri-ikut-terdampak) (Detik.com)
 
 - [A Total of USD 12.7 Million Investment in New Diagnostics and Drug Development for NTDs and Malaria to Partners Including the Ohio State University, PATH, GSK and Others](https://www.prnewswire.co.uk/news-releases/a-total-of-usd-12-7-million-investment-in-new-diagnostics-and-drug-development-for-ntds-and-malaria-to-partners-including-the-ohio-state-university-path-gsk-and-others-302363864.html) (PR Newswire UK)
 
@@ -185,7 +195,19 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-5 (h5n1)
 
+- [Nuevo anticuerpo ofrece protección contra la gripe aviar H5N1 en monos](https://www.infosalus.com/salud-investigacion/noticia-nuevo-anticuerpo-ofrece-proteccion-contra-gripe-aviar-h5n1-monos-20250131073250.html) (Infosalus.com)
+
+- [폭설·ASF·조류독감…설 연휴 농촌 재난·재해 피해 잇따라](https://www.khan.co.kr/article/202501311527001) (Khan.co.kr)
+
+- [Antibody treatment prevents severe bird flu in monkeys](https://www.sciencedaily.com/releases/2025/01/250130161626.htm) (Science Daily)
+
+- [Un tratamiento con anticuerpos probado en monos logra prevenir la gripe aviar grave](https://elmercurio.com.ec/2025/01/30/un-tratamiento-con-anticuerpos-probado-en-monos-logra-prevenir-la-gripe-aviar-grave/) (Elmercurio.com.ec)
+
+- [Una terapia con anticuerpos protege de la gripe aviar H5N1 a monos](https://www.abc.es/salud/enfermedades/tratamiento-anticuerpos-previene-gripe-aviar-grave-monos-20250130123949-nt.html) (Www.abc.es)
+
 - [First Reported H5N9 Bird Flu Outbreak In US As H5N1 Keeps Spreading](https://www.forbes.com/sites/brucelee/2025/01/30/first-reported-h5n9-bird-flu-outbreak-in-us-as-h5n1-keeps-spreading/) (Forbes)
+
+- [“조류독감, 이미 소·고양이 건너…인간끼리 감염되면 팬데믹 시작”](https://www.hani.co.kr/arti/society/health/1180007.html) (Hani.co.kr)
 
 - [UK confirms one avian flu case](https://www.bangkokpost.com/thailand/general/2950385/uk-confirms-one-avian-flu-case) (Bangkok Post)
 
@@ -267,6 +289,14 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-5 (dengue)
 
+- [Dengue: agentes seguirão entrando em casas mesmo se o dono não deixar](https://www.metropoles.com/distrito-federal/dengue-agentes-seguirao-entrando-em-casas-mesmo-se-o-dono-nao-deixar) (Metropoles.com)
+
+- [México reporta 887 casos de dengue en enero](https://www.excelsior.com.mx/nacional/mexico-reporta-887-casos-de-dengue-en-enero/1697251) (Excelsior.com.mx)
+
+- [Mortes confirmadas por dengue em São Paulo dobram em 72 horas](https://valor.globo.com/brasil/noticia/2025/01/30/mortes-confirmadas-por-dengue-em-so-paulo-dobram-em-72-horas.ghtml) (Globo)
+
+- [Dengue: alta nos casos no Sudeste, sobretudo em SP, preocupam mais o governo federal](https://www.infomoney.com.br/mercados/dengue-alta-nos-casos-no-sudeste-sobretudo-em-sp-preocupam-mais-o-governo-federal/) (InfoMoney)
+
 - [Concurrent transmission of Zika virus during the 2023 dengue outbreak in Dhaka, Bangladesh](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012866) (Plos.org)
 
 - [São Paulo confirma 17 mortes por dengue nos primeiros 28 dias do ano](https://www.metropoles.com/sao-paulo/sao-paulo-confirma-17-mortes-por-dengue-nos-primeiros-28-dias-do-ano) (Metropoles.com)
@@ -290,6 +320,10 @@ Source: [News API](https://newsapi.org/)
 - [Goiás registra 1ª morte por dengue no ano. Seis casos são investigados](https://www.metropoles.com/brasil/goias-registra-1a-morte-por-dengue-no-ano-seis-casos-sao-investigados) (Metropoles.com)
 
 - [Sociedade médica alerta para baixa procura da vacina contra a dengue; sorotipo 3 preocupa](https://valor.globo.com/brasil/noticia/2025/01/26/sociedade-medica-alerta-para-baixa-procura-da-vacina-contra-a-dengue-sorotipo-3-preocupa.ghtml) (Globo)
+
+## 25-5 (chikungunya)
+
+- [Dengue: agentes seguirão entrando em casas mesmo se o dono não deixar](https://www.metropoles.com/distrito-federal/dengue-agentes-seguirao-entrando-em-casas-mesmo-se-o-dono-nao-deixar) (Metropoles.com)
 
 ## 25-4 (zika)
 
@@ -3087,6 +3121,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Вирус гриппа А сохранил заразность в сыром коровьем молоке на несколько дней](https://nplus1.ru/news/2024/12/16/influenza-in-raw-milk) (Nplus1.ru)
 
+- [2 San Joaquin County farmworkers infected with bird flu after exposure to sick animals](https://www.recordnet.com/story/news/healthcare/2024/12/15/2-san-joaquin-county-farmworkers-test-positive-for-bird-flu/76997469007/) (Stockton Record)
+
 ## 24-51 (dengue)
 
 - [Could mosquitoes deliver vaccines against malaria?](https://www.aljazeera.com/news/2024/12/21/could-mosquitoes-deliver-vaccines-against-malaria) (Al Jazeera English)
@@ -3144,6 +3180,10 @@ Source: [News API](https://newsapi.org/)
 - [Saúde quer levar vacina contra dengue para dentro das escolas em 2025](https://www.metropoles.com/distrito-federal/saude-quer-levar-vacina-contra-dengue-para-dentro-das-escolas-em-2025) (Metropoles.com)
 
 - [México acumula 20 mil 931 casos por dengue](https://www.excelsior.com.mx/nacional/mexico-acumula-20-mil-931-casos-por-dengue/1689802) (Excelsior.com.mx)
+
+- [6mila morti di dengue in Brasile nel 2024, è record. L’allarme: “Cambiamenti climatici e siccità favoriscono riproduzione della zanzara”](https://www.ilfattoquotidiano.it/2024/12/15/morti-dengue-brasile-recort-allarme-cambiamenti-climatici-news/7805431/) (Ilfattoquotidiano.it)
+
+- [OMS: enfrenta América la mayor epidemia de dengue en 44 años](https://www.jornada.com.mx/2024/12/15/politica/009n1pol) (Jornada.com.mx)
 
 ## 24-51 (chikungunya)
 
