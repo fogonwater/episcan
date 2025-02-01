@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 14
-- **Last harvest:** 2025-02-01 07:05
-- **Most recent article:** 2025-01-31 06:32:50
+- **New articles in last harvest:** 18
+- **Last harvest:** 2025-02-01 19:05
+- **Most recent article:** 2025-01-31 17:32:05
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-51 | 24-52 | 24-53 | 25-1 | 25-2 | 25-3 | 25-4 | 25-5 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| h5n1 | 111 | 65 | 27 | 27 | 131 | 65 | 31 | 46 | 503 |
-| mpox | 92 | 35 | 2 | 6 | 91 | 34 | 23 | 15 | 298 |
-| malaria | 60 | 30 | 15 | 10 | 30 | 18 | 19 | 28 | 210 |
-| dengue | 30 | 24 | 6 | 12 | 41 | 29 | 37 | 16 | 195 |
+| h5n1 | 110 | 65 | 27 | 27 | 131 | 65 | 31 | 50 | 506 |
+| mpox | 92 | 35 | 2 | 6 | 91 | 34 | 23 | 17 | 300 |
+| malaria | 60 | 30 | 15 | 10 | 30 | 18 | 19 | 29 | 211 |
+| dengue | 28 | 24 | 6 | 12 | 41 | 29 | 37 | 21 | 198 |
 | hpai | 6 | 12 | 1 | 4 | 18 | 12 | 11 | 5 | 69 |
-| measles | 6 | 11 | 3 | 6 | 6 | 9 | 10 | 9 | 60 |
-| rabies | 7 | 8 | 1 | 1 | 2 | 6 | 7 | 3 | 35 |
-| chikungunya | 7 | 0 | 2 | 0 | 7 | 7 | 10 | 1 | 34 |
-| zika | 4 | 2 | 0 | 0 | 15 | 5 | 2 | 5 | 33 |
+| measles | 6 | 11 | 3 | 6 | 6 | 9 | 10 | 11 | 62 |
+| chikungunya | 7 | 0 | 2 | 0 | 7 | 7 | 10 | 6 | 39 |
+| rabies | 7 | 8 | 1 | 1 | 2 | 6 | 7 | 5 | 37 |
+| zika | 4 | 2 | 0 | 0 | 15 | 5 | 2 | 8 | 36 |
 | meningitis | 5 | 3 | 1 | 2 | 0 | 2 | 3 | 8 | 24 |
 | pertussis | 4 | 6 | 0 | 1 | 2 | 0 | 1 | 0 | 14 |
 | yersinia | 0 | 6 | 0 | 0 | 3 | 2 | 0 | 0 | 11 |
@@ -35,6 +35,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-5 (zika)
 
+- [pyzdc 0.6.1](https://pypi.org/project/pyzdc/0.6.1/) (Pypi.org)
+
+- [pyzdc 0.6.0](https://pypi.org/project/pyzdc/0.6.0/) (Pypi.org)
+
+- [pyzdc added to PyPI](https://pypi.org/project/pyzdc/) (Pypi.org)
+
 - [Dengue: agentes seguirão entrando em casas mesmo se o dono não deixar](https://www.metropoles.com/distrito-federal/dengue-agentes-seguirao-entrando-em-casas-mesmo-se-o-dono-nao-deixar) (Metropoles.com)
 
 - [Ten wirus zamienia naszą skórę w "magnes na komary"](https://tvn24.pl/tvnmeteo/nauka/wirus-zika-naukowcy-zamienia-nasza-skore-w-magnes-na-komary-st8285689) (Tvn24.pl)
@@ -47,6 +53,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-5 (rabies)
 
+- [Bats aren't bad: this scientist is on a mission to rehab bats' public image](https://www.cbc.ca/documentaries/the-nature-of-things/bats-aren-t-bad-this-scientist-is-on-a-mission-to-rehab-bats-public-image-1.7447050) (CBC News)
+
+- [Rabies seropositive individuals, dogs, and healthcare professionals without prior vaccination in four Brazilian Indigenous communities](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012850) (Plos.org)
+
 - [Thane municipal corporation launches week-long anti-rabies vaccination drive for 10,000 stray dogs](https://timesofindia.indiatimes.com/city/thane/thane-municipal-corporation-launches-week-long-anti-rabies-vaccination-drive-for-10000-stray-dogs/articleshow/117616055.cms) (The Times of India)
 
 - [Video shows rabid bear 'aggressively' approach and attack Pennsylvania man](https://nationalpost.com/news/rabid-bear-attacks-pennsylvania-man) (National Post)
@@ -54,6 +64,10 @@ Source: [News API](https://newsapi.org/)
 - [Rabid Bear Attacks Man in Pennsylvania](https://www.newser.com/story/363225/rabid-bear-attacks-man-in-pennsylvania.html) (Newser)
 
 ## 25-5 (mpox)
+
+- [Un alt caz de infectare cu noua variantă de mpox a fost confirmat în Marea Britanie](https://adevarul.ro/stiri-externe/in-lume/un-alt-caz-de-infectare-cu-noua-varianta-de-mpox-a-2418743.html) (Adevarul.ro)
+
+- [Marea Britanie confirmă un nou caz de infectare cu noua variantă de mpox](http://hotnews.ro/marea-britanie-confirma-un-nou-caz-de-infectare-cu-noua-varianta-de-mpox-1891557) (Hotnews.ro)
 
 - [Effective immediately: CDC can't talk to WHO. What will that mean for world health?](https://www.npr.org/sections/goats-and-soda/2025/01/29/nx-s1-5276340/trump-centers-for-disease-control-cdc-world-health-organization) (NPR)
 
@@ -105,6 +119,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-5 (measles)
 
+- [Samoa's Health Chief Says RFK Jr. Spread Anti-Vax Misinformation Before Deadly Measles Outbreak](https://www.democracynow.org/2025/1/31/rfk_jr_measles_samoa) (Democracy Now!)
+
+- [Texas Measles Outbreak Raises Alarm](https://www.newsweek.com/texas-measles-outbreak-raises-alarm-2024006) (Newsweek)
+
 - [Measles cases reported in Texas as vaccine rates against the disease has fallen (The Texas Tribune)](https://www.memeorandum.com/250130/p117) (Memeorandum.com)
 
 - [A Study Retracted 15 Years Ago Continues to Threaten Childhood Vaccines](https://time.com/7211491/eleanor-menzin-childhood-vaccine-myths-essay/) (Time)
@@ -124,6 +142,8 @@ Source: [News API](https://newsapi.org/)
 - [Asha workers to identify 1 million children for MMR vaccination, special campaigns soon](https://www.livemint.com/industry/asha-workers-mmr-vaccination-special-campaigns-mumps-measles-rubella-accredited-social-health-activist-11737708760867.html) (Livemint)
 
 ## 25-5 (malaria)
+
+- [Shocks To U.S. Foreign Aid Raise Urgent Questions About What Counts As Lifesaving Aid](https://www.forbes.com/sites/christinero/2025/01/31/shocks-to-us-foreign-aid-raise-urgent-questions-about-what-counts-as-lifesaving-aid/) (Forbes)
 
 - [Correction: Attributable risk factors for asymptomatic malaria and anaemia and their association with cognitive and psychomotor functions in schoolchildren of north-eastern Tanzania](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318828) (Plos.org)
 
@@ -194,6 +214,14 @@ Source: [News API](https://newsapi.org/)
 - [ABD'de yeni kuş gribi türü tespit edildi: Pandemi kapıda!](https://www.turkiyegazetesi.com.tr/dunya/abdde-yeni-kus-gribi-turu-tespit-edildi-pandemi-kapida-1090032) (Turkiyegazetesi.com.tr)
 
 ## 25-5 (h5n1)
+
+- [La grippe aviaire détectée dans deux élevages de volailles de la province de Liège](https://www.levif.be/belgique/la-grippe-aviaire-detectee-dans-deux-elevages-de-volailles-de-la-province-de-liege/) (Levif.be)
+
+- [Vogelgriep vastgesteld in provincie Luik](https://www.gva.be/cnt/dmf20250131_96302444) (Www.gva.be)
+
+- [La grippe aviaire H5N1 fait son retour en Belgique: deux infections détectées en province de Liège](https://www.lalibre.be/regions/liege/2025/01/31/la-grippe-aviaire-h5n1-fait-son-retour-en-belgique-deux-infections-detectees-en-province-de-liege-JBBPCSB7GFEIZMDWS3WSFJAYWY/) (Lalibre.be)
+
+- [Vogelgriep vastgesteld in provincie Luik](https://www.nieuwsblad.be/cnt/dmf20250131_96256089) (Nieuwsblad.be)
 
 - [Nuevo anticuerpo ofrece protección contra la gripe aviar H5N1 en monos](https://www.infosalus.com/salud-investigacion/noticia-nuevo-anticuerpo-ofrece-proteccion-contra-gripe-aviar-h5n1-monos-20250131073250.html) (Infosalus.com)
 
@@ -289,6 +317,16 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-5 (dengue)
 
+- [pyzdc 0.6.1](https://pypi.org/project/pyzdc/0.6.1/) (Pypi.org)
+
+- [pyzdc 0.6.0](https://pypi.org/project/pyzdc/0.6.0/) (Pypi.org)
+
+- [pyzdc added to PyPI](https://pypi.org/project/pyzdc/) (Pypi.org)
+
+- [TCDF determina medidas urgentes para o combate à dengue na capital](https://www.metropoles.com/distrito-federal/tcdf-determina-medidas-urgentes-para-o-combate-a-dengue-na-capital) (Metropoles.com)
+
+- [Mortes confirmadas por dengue em São Paulo dobram em 72 horas](https://www.infomoney.com.br/brasil/mortes-confirmadas-por-dengue-em-sao-paulo-dobram-em-72-horas/) (InfoMoney)
+
 - [Dengue: agentes seguirão entrando em casas mesmo se o dono não deixar](https://www.metropoles.com/distrito-federal/dengue-agentes-seguirao-entrando-em-casas-mesmo-se-o-dono-nao-deixar) (Metropoles.com)
 
 - [México reporta 887 casos de dengue en enero](https://www.excelsior.com.mx/nacional/mexico-reporta-887-casos-de-dengue-en-enero/1697251) (Excelsior.com.mx)
@@ -322,6 +360,16 @@ Source: [News API](https://newsapi.org/)
 - [Sociedade médica alerta para baixa procura da vacina contra a dengue; sorotipo 3 preocupa](https://valor.globo.com/brasil/noticia/2025/01/26/sociedade-medica-alerta-para-baixa-procura-da-vacina-contra-a-dengue-sorotipo-3-preocupa.ghtml) (Globo)
 
 ## 25-5 (chikungunya)
+
+- [pyzdc 0.6.1](https://pypi.org/project/pyzdc/0.6.1/) (Pypi.org)
+
+- [pyzdc 0.6.0](https://pypi.org/project/pyzdc/0.6.0/) (Pypi.org)
+
+- [pyzdc added to PyPI](https://pypi.org/project/pyzdc/) (Pypi.org)
+
+- [Bavarian Nordic Receives Positive CHMP Opinion for Chikungunya Vaccine for Persons Aged 12 and Older](https://www.globenewswire.com/news-release/2025/01/31/3018640/0/en/Bavarian-Nordic-Receives-Positive-CHMP-Opinion-for-Chikungunya-Vaccine-for-Persons-Aged-12-and-Older.html) (GlobeNewswire)
+
+- [Bavarian Nordic modtager positiv anbefaling fra de europæiske lægemiddelmyndigheder for chikungunyavaccine til personer i alderen 12 år og opefter](https://www.globenewswire.com/news-release/2025/01/31/3018640/0/da/Bavarian-Nordic-modtager-positiv-anbefaling-fra-de-europ%C3%A6iske-l%C3%A6gemiddelmyndigheder-for-chikungunyavaccine-til-personer-i-alderen-12-%C3%A5r-og-opefter.html) (GlobeNewswire)
 
 - [Dengue: agentes seguirão entrando em casas mesmo se o dono não deixar](https://www.metropoles.com/distrito-federal/dengue-agentes-seguirao-entrando-em-casas-mesmo-se-o-dono-nao-deixar) (Metropoles.com)
 
@@ -3121,8 +3169,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Вирус гриппа А сохранил заразность в сыром коровьем молоке на несколько дней](https://nplus1.ru/news/2024/12/16/influenza-in-raw-milk) (Nplus1.ru)
 
-- [2 San Joaquin County farmworkers infected with bird flu after exposure to sick animals](https://www.recordnet.com/story/news/healthcare/2024/12/15/2-san-joaquin-county-farmworkers-test-positive-for-bird-flu/76997469007/) (Stockton Record)
-
 ## 24-51 (dengue)
 
 - [Could mosquitoes deliver vaccines against malaria?](https://www.aljazeera.com/news/2024/12/21/could-mosquitoes-deliver-vaccines-against-malaria) (Al Jazeera English)
@@ -3180,10 +3226,6 @@ Source: [News API](https://newsapi.org/)
 - [Saúde quer levar vacina contra dengue para dentro das escolas em 2025](https://www.metropoles.com/distrito-federal/saude-quer-levar-vacina-contra-dengue-para-dentro-das-escolas-em-2025) (Metropoles.com)
 
 - [México acumula 20 mil 931 casos por dengue](https://www.excelsior.com.mx/nacional/mexico-acumula-20-mil-931-casos-por-dengue/1689802) (Excelsior.com.mx)
-
-- [6mila morti di dengue in Brasile nel 2024, è record. L’allarme: “Cambiamenti climatici e siccità favoriscono riproduzione della zanzara”](https://www.ilfattoquotidiano.it/2024/12/15/morti-dengue-brasile-recort-allarme-cambiamenti-climatici-news/7805431/) (Ilfattoquotidiano.it)
-
-- [OMS: enfrenta América la mayor epidemia de dengue en 44 años](https://www.jornada.com.mx/2024/12/15/politica/009n1pol) (Jornada.com.mx)
 
 ## 24-51 (chikungunya)
 

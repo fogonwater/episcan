@@ -1,8 +1,338 @@
 {
-  "last_updated": "2025-02-01 07:05",
-  "count_articles_total": 1445,
-  "count_articles_new": 14,
+  "last_updated": "2025-02-01 19:05",
+  "count_articles_total": 1460,
+  "count_articles_new": 18,
   "articles": [
+    {
+      "id": 17850,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Levif.be",
+      "author": "Le Vif",
+      "title": "La grippe aviaire d\u00e9tect\u00e9e dans deux \u00e9levages de volailles de la province de Li\u00e8ge",
+      "description": "La grippe aviaire H5N1 a \u00e9t\u00e9 d\u00e9tect\u00e9e, jeudi, parmi les volailles de deux \u00e9leveurs amateurs \u00e0 Wandre et \u00e0 Alleur. Ce sont les premi\u00e8res infections en Belgique depuis 2023. The post La grippe aviaire d\u00e9tect\u00e9e dans deux \u00e9levages de volailles de la province de L\u2026",
+      "url": "https://www.levif.be/belgique/la-grippe-aviaire-detectee-dans-deux-elevages-de-volailles-de-la-province-de-liege/",
+      "urlToImage": "https://img.static-rmg.be/a/view/q75/w1600/h836/6993479/belgaimage-102853514-jpg.jpg",
+      "publishedAt": "2025-01-31 17:32:05",
+      "content": "La grippe aviaire H5N1 a \u00e9t\u00e9 d\u00e9tect\u00e9e, jeudi, parmi les volailles de deux \u00e9leveurs amateurs \u00e0 Wandre et \u00e0 Alleur. Ce sont les premi\u00e8res infections en Belgique depuis 2023. La grippe aviaire de type \u2026 [+2442 chars]",
+      "retrievedAt": "2025-02-01 19:05:42.883698",
+      "internal_id": "dffaf064ecdc35aec8d3807ee707e694227f74bd804da03ba1be3d50847ced19",
+      "publishedAtLabel": "Jan 31"
+    },
+    {
+      "id": 17848,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Www.gva.be",
+      "author": "gva.be",
+      "title": "Vogelgriep vastgesteld in provincie Luik",
+      "description": "Er is vogelgriep van het type H5N1 vastgesteld bij vogels van twee hobbyhouders in Wandre en Alleur, twee plaatsen in de provincie Luik. Dat meldt het Federaal Agentschap voor de Veiligheid van de Voedselketen (FAVV) vrijdag.",
+      "url": "https://www.gva.be/cnt/dmf20250131_96302444",
+      "urlToImage": "https://static.gva.be/Assets/Images_Upload/2025/01/06/2ff478b2-8ed8-4c5f-9af2-e0ef219612f1.jpg?maxheight=460&maxwidth=629",
+      "publishedAt": "2025-01-31 17:30:12",
+      "content": "Er is vogelgriep van het type H5N1 vastgesteld bij vogels van twee hobbyhouders in Wandre en Alleur, twee plaatsen in de provincie Luik. Dat meldt het Federaal Agentschap voor de Veiligheid van de Vo\u2026 [+300 chars]",
+      "retrievedAt": "2025-02-01 19:05:42.840795",
+      "internal_id": "5626f18c9efb6d9088028e8902f0275f58fdb447452f9fccac86589803a0f4e8",
+      "publishedAtLabel": "Jan 31"
+    },
+    {
+      "id": 17851,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Lalibre.be",
+      "author": "Belga Belga",
+      "title": "La grippe aviaire H5N1 fait son retour en Belgique: deux infections d\u00e9tect\u00e9es en province de Li\u00e8ge",
+      "description": "La grippe aviaire de type H5Na \u00e9t\u00e9 d\u00e9tect\u00e9e parmi les volailles de deux \u00e9leveurs amateurs \u00e0 Wandre (Li\u00e8ge) et \u00e0 Alleur (Ans), en province de Li\u00e8ge, indique vendredi l'Agence f\u00e9d\u00e9rale pour la s\u00e9curit\u00e9 de la cha\u00eene alimentaire (Afsca). ...",
+      "url": "https://www.lalibre.be/regions/liege/2025/01/31/la-grippe-aviaire-h5n1-fait-son-retour-en-belgique-deux-infections-detectees-en-province-de-liege-JBBPCSB7GFEIZMDWS3WSFJAYWY/",
+      "urlToImage": "https://www.lalibre.be/resizer/v2/X6UVRJ6AFBAWBDAI4RZUUJYJ7Q.jpg?auth=b42c8f71de6bdc71b89b96a8d48c9e7799d46d46d297f8b64921851a32d2c2af&width=1200&height=630&quality=85&focal=1414%2C912&watermark=https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Fipmgroup%2F3R4IDPARFVEO3L2LC5OCCXQ5RM.png%3A100%3A0%2C557",
+      "publishedAt": "2025-01-31 17:28:43",
+      "content": "L'Agence wallonne pour une vie de qualit\u00e9 (Aviq) pr\u00e9cise que les deux foyers ont \u00e9t\u00e9 d\u00e9tect\u00e9s le 30 janvier par le Laboratoire national de r\u00e9f\u00e9rence de Sciensano. Afin d'\u00e9viter toute propagation du \u2026 [+484 chars]",
+      "retrievedAt": "2025-02-01 19:05:42.907994",
+      "internal_id": "7dc8eba3e267757a6732164e86fa5069f58c1e2873555c6a456583e5f1e85973",
+      "publishedAtLabel": "Jan 31"
+    },
+    {
+      "id": 17857,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Christine Ro, Contributor, \n Christine Ro, Contributor\n https://www.forbes.com/sites/christinero/",
+      "title": "Shocks To U.S. Foreign Aid Raise Urgent Questions About What Counts As Lifesaving Aid",
+      "description": "Every day that the 90-day aid freeze continues, over 1,000 more people will die of malaria.",
+      "url": "https://www.forbes.com/sites/christinero/2025/01/31/shocks-to-us-foreign-aid-raise-urgent-questions-about-what-counts-as-lifesaving-aid/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/679d056619d16879bdeed035/0x0.jpg?format=jpg&crop=1440,1080,x0,y101,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-01-31 17:26:05",
+      "content": "Community health worker Prossy Muyingo Ann Gutienez Prossy Muyingo is worried. On January 30, Uganda announced an Ebola outbreak, following the death of a nurse in Kampala. Muyingo is an award-win\u2026 [+9822 chars]",
+      "retrievedAt": "2025-02-01 19:05:44.614579",
+      "internal_id": "5b98d5bdf1470bb0088e2f6bd92a50c6b654ed106d45ba4ff5bda7af45e7960b",
+      "publishedAtLabel": "Jan 31"
+    },
+    {
+      "id": 17849,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Nieuwsblad.be",
+      "author": "nieuwsblad.be",
+      "title": "Vogelgriep vastgesteld in provincie Luik",
+      "description": "Er is vogelgriep van het type H5N1 vastgesteld bij vogels van twee hobbyhouders in Wandre en Alleur, twee plaatsen in de provincie Luik. Dat meldt het Federaal Agentschap voor de Veiligheid van de Voedselketen (FAVV) vrijdag.",
+      "url": "https://www.nieuwsblad.be/cnt/dmf20250131_96256089",
+      "urlToImage": "https://static.nieuwsblad.be/Assets/Images_Upload/2025/01/06/2ff478b2-8ed8-4c5f-9af2-e0ef219612f1.jpg?maxheight=460&maxwidth=638",
+      "publishedAt": "2025-01-31 17:22:02",
+      "content": "Er is vogelgriep van het type H5N1 vastgesteld bij vogels van twee hobbyhouders in Wandre en Alleur, twee plaatsen in de provincie Luik. Dat meldt het Federaal Agentschap voor de Veiligheid van de Vo\u2026 [+771 chars]",
+      "retrievedAt": "2025-02-01 19:05:42.847841",
+      "internal_id": "83a3fa531a81621d66682cc55b147b7c763269743252a28ab962e697c0302ea0",
+      "publishedAtLabel": "Jan 31"
+    },
+    {
+      "id": 17854,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Pypi.org",
+      "author": "guttolaudie@gmail.com",
+      "title": "pyzdc 0.6.1",
+      "description": "PyZDC is a Python package designed to facilitate the extraction, transformation, and analysis of epidemiological data related to Dengue, Zika, and Chikungunya.",
+      "url": "https://pypi.org/project/pyzdc/0.6.1/",
+      "urlToImage": null,
+      "publishedAt": "2025-01-31 16:06:02",
+      "content": "A required part of this site couldnt load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]",
+      "retrievedAt": "2025-02-01 19:05:43.450734",
+      "internal_id": "6c871bb015f2880326cd38d7bd6d72ec415069836faa5f56979c411f82d3f398",
+      "publishedAtLabel": "Jan 31"
+    },
+    {
+      "id": 17845,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Bats aren't bad: this scientist is on a mission to rehab bats' public image",
+      "description": "See how a brief interaction with a bat changed the minds of these agave farmers",
+      "url": "https://www.cbc.ca/documentaries/the-nature-of-things/bats-aren-t-bad-this-scientist-is-on-a-mission-to-rehab-bats-public-image-1.7447050",
+      "urlToImage": "https://i.cbc.ca/1.7447096.1738336974!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/sharedplanet-openspaces-bathanging.jpg?im=Resize%3D620",
+      "publishedAt": "2025-01-31 15:29:29",
+      "content": "Bats have a bad reputation and it only got worse during the COVID-19 pandemic. But while bats are known for carrying viruses that cause diseases like rabies and Ebola, they also play a vital role i\u2026 [+2846 chars]",
+      "retrievedAt": "2025-02-01 19:05:40.941104",
+      "internal_id": "ef620b7d7424ab7eebcf3fc88247cc6f2989cb9f7d36638af377e93ef105f6cc",
+      "publishedAtLabel": "Jan 31"
+    },
+    {
+      "id": 17855,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Pypi.org",
+      "author": "guttolaudie@gmail.com",
+      "title": "pyzdc 0.6.0",
+      "description": "PyZDC is a Python package designed to facilitate the extraction, transformation, and analysis of epidemiological data related to Dengue, Zika, and Chikungunya.",
+      "url": "https://pypi.org/project/pyzdc/0.6.0/",
+      "urlToImage": null,
+      "publishedAt": "2025-01-31 15:03:30",
+      "content": "A required part of this site couldnt load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]",
+      "retrievedAt": "2025-02-01 19:05:43.458589",
+      "internal_id": "49e53c10b40e55034725e5066c2d9c680800b91cb895e583e9081da642a51e4a",
+      "publishedAtLabel": "Jan 31"
+    },
+    {
+      "id": 17856,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Pypi.org",
+      "author": "guttolaudie@gmail.com",
+      "title": "pyzdc added to PyPI",
+      "description": "PyZDC is a Python package designed to facilitate the extraction, transformation, and analysis of epidemiological data related to Dengue, Zika, and Chikungunya.",
+      "url": "https://pypi.org/project/pyzdc/",
+      "urlToImage": null,
+      "publishedAt": "2025-01-31 15:03:30",
+      "content": "A required part of this site couldnt load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]",
+      "retrievedAt": "2025-02-01 19:05:43.482650",
+      "internal_id": "f508100fa2dc2a04a43d62361afe3294e99ef70a68ca56af15e7cf80780bef86",
+      "publishedAtLabel": "Jan 31"
+    },
+    {
+      "id": 17853,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Nath\u00e1lia Cardim",
+      "title": "TCDF determina medidas urgentes para o combate \u00e0 dengue na capital",
+      "description": "Presidente do Tribunal de Contas do DF alerta para entulho pr\u00f3ximo a creches e escolas em Ceil\u00e2ndia",
+      "url": "https://www.metropoles.com/distrito-federal/tcdf-determina-medidas-urgentes-para-o-combate-a-dengue-na-capital",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/01/22085646/Divulgacao-Lixo-dengue-multa-entulhos.jpg",
+      "publishedAt": "2025-01-31 14:22:58",
+      "content": "O Tribunal de Contas do Distrito Federal (TCDF) determinou que a Secretaria de Sa\u00fade do DF (SES-DF) adote a\u00e7\u00f5es imediatas e eficazes para refor\u00e7ar o combate \u00e0s doen\u00e7as transmitidas pelo mosquito Aede\u2026 [+3203 chars]",
+      "retrievedAt": "2025-02-01 19:05:43.437095",
+      "internal_id": "cb8ded363d3c63ec06bad8a5a2677e653bd30cbf4918b65a207015f2a712b946",
+      "publishedAtLabel": "Jan 31"
+    },
+    {
+      "id": 17861,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Adevarul.ro",
+      "author": "Oana Ababei",
+      "title": "Un alt caz de infectare cu noua variant\u0103 de mpox a fost confirmat \u00een Marea Britanie",
+      "description": "B\u0103rbatul a fost diagnosticat la Londra dup\u0103 ce s-a \u00eentors recent din Uganda, unde varianta virusului se transmite comunitar.",
+      "url": "https://adevarul.ro/stiri-externe/in-lume/un-alt-caz-de-infectare-cu-noua-varianta-de-mpox-a-2418743.html",
+      "urlToImage": "https://cdn.adh.reperio.news/image-a/a9d6be9e-cfef-4c31-9e17-a3bc42064fcb/index.jpeg?p=f%3Djpeg%26w%3D1200%26h%3D630%26r%3Dcover",
+      "publishedAt": "2025-01-31 14:12:35",
+      "content": "Un nou caz de infecie viral cu noua tulpin a mpox, cunoscut \u00eenainte ca variola maimuei, a fost detectat \u00een Marea Britanie. Declaraia a fost fcut vineri, de Agenia Britanic de Securitate a Sntii (UKHS\u2026 [+1177 chars]",
+      "retrievedAt": "2025-02-01 19:05:46.303949",
+      "internal_id": "635308cb7b65c7a718326b47221fbad77c6f72a8ecd57ae463d5e7fc8c8b87af",
+      "publishedAtLabel": "Jan 31"
+    },
+    {
+      "id": 17844,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Matheus Lopes Ribeiro, Camila Michele Appolinario, Bruna Let\u00edcia Devid\u00e9 Ribeiro, Jo\u00e3o Henrique Farinhas, Fernando Rodrigo Doline, Gisely Toledo Barone, Juliana Amorim Conselheiro, Vamilton Alvar\u00e9s Santar\u00e9m, Leandro Meneguelli Biondo, Andrea Pires dos Santos, Rog\u00e9rio Giuffrida, Louise Bach Kmetiuk, Alexander Welker Biondo, Jane Megid",
+      "title": "Rabies seropositive individuals, dogs, and healthcare professionals without prior vaccination in four Brazilian Indigenous communities",
+      "description": "Author summary Rabies is a zoonotic infectious disease considered to be of great public health importance due to its high lethality and numerous epidemiological transmission cycles. Indigenous communities may present several risk factors for rabies exposure. \u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012850",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012850.g001&size=inline",
+      "publishedAt": "2025-01-31 14:00:00",
+      "content": "Abstract Indigenous communities are reportedly among the most vulnerable populations exposed to rabies worldwide. Accordingly, this study aimed to assess rabies serum titers from healthy Indigenous \u2026 [+40712 chars]",
+      "retrievedAt": "2025-02-01 19:05:40.914901",
+      "internal_id": "d1424b5981dfd6a49492970c448291fce78b3d44a1ab69c48c2970fb3338c1ef",
+      "publishedAtLabel": "Jan 31"
+    },
+    {
+      "id": 17846,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Democracy Now!",
+      "author": "webdev@democracynow.org (Democracy Now!)",
+      "title": "Samoa's Health Chief Says RFK Jr. Spread Anti-Vax Misinformation Before Deadly Measles Outbreak",
+      "description": "The second day of confirmation hearings for Trump\u2019s secretary of health and human services nominee Robert F. Kennedy Jr. again focused on his long record of vaccine skepticism, his shifting position on abortion and his professional inexperience in public heal\u2026",
+      "url": "https://www.democracynow.org/2025/1/31/rfk_jr_measles_samoa",
+      "urlToImage": "https://www.democracynow.org/images/story/03/75603/full_hd/seg2-alt-rfk-measles-campaign.jpg",
+      "publishedAt": "2025-01-31 13:30:47",
+      "content": "This is viewer supported news. Please do your part today. Donate The second day of confirmation hearings for Trump\u2019s secretary of health and human services nominee Robert F. Kennedy Jr. again focus\u2026 [+692 chars]",
+      "retrievedAt": "2025-02-01 19:05:41.708245",
+      "internal_id": "b6d598d91ca9b2a24ee84bdf2cd20f386e9cbc3a90cc3017a584af373dfdf96a",
+      "publishedAtLabel": "Jan 31"
+    },
+    {
+      "id": 17860,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Hotnews.ro",
+      "author": "Cristina Stoian",
+      "title": "Marea Britanie confirm\u0103 un nou caz de infectare cu noua variant\u0103 de mpox",
+      "description": "Un alt caz de infec\u021bie viral\u0103 cu noua tulpin\u0103 a mpox, boal\u0103 cunoscut\u0103 anterior drept variola maimu\u0163ei, a fost detectat \u00een Marea Britanie, acesta fiind cel de-al optulea caz confirmat \u00een aceast\u0103 \u021bar\u0103 din octombrie\u2026",
+      "url": "http://hotnews.ro/marea-britanie-confirma-un-nou-caz-de-infectare-cu-noua-varianta-de-mpox-1891557",
+      "urlToImage": "https://hotnews.ro/wp-content/uploads/2025/01/dreamstime_m_330744468.jpg",
+      "publishedAt": "2025-01-31 13:13:00",
+      "content": "Un alt caz de infecie viral cu noua tulpin a mpox, boal cunoscut anterior drept variola maimuei, a fost detectat \u00een Marea Britanie, acesta fiind cel de-al optulea caz confirmat \u00een aceast ar din octom\u2026 [+1339 chars]",
+      "retrievedAt": "2025-02-01 19:05:46.296592",
+      "internal_id": "2c0d3b91fd20b507f8d51c28383dafd363078c892c31ee29cf01fb007a15f7ca",
+      "publishedAtLabel": "Jan 31"
+    },
+    {
+      "id": 17847,
+      "query": [
+        "measles"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Jasmine Laws",
+      "title": "Texas Measles Outbreak Raises Alarm",
+      "description": "After reportedly being eradicated from the U.S. in 2000, there were four times more outbreaks of measles in the U.S. in 2024 than in 2023, according to the CDC.",
+      "url": "https://www.newsweek.com/texas-measles-outbreak-raises-alarm-2024006",
+      "urlToImage": "https://d.newsweek.com/en/full/2577985/vaccine.jpg",
+      "publishedAt": "2025-01-31 11:38:43",
+      "content": "There has been an outbreak of measles in Texas, with at least four cases confirmed so far, two of which involve school children, prompting state health services to issue an alert. Newsweek has conta\u2026 [+3699 chars]",
+      "retrievedAt": "2025-02-01 19:05:41.734698",
+      "internal_id": "19d3b3bb0b3b7de64239e6c98c60b4a83678e509b2c8650505069f75fbe10f48",
+      "publishedAtLabel": "Jan 31"
+    },
+    {
+      "id": 17852,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "info-money",
+      "source_name": "InfoMoney",
+      "author": "marialuizadourado",
+      "title": "Mortes confirmadas por dengue em S\u00e3o Paulo dobram em 72 horas",
+      "description": "Casos prov\u00e1veis saltaram de 82 mil para 99 mil no estado The post Mortes confirmadas por dengue em S\u00e3o Paulo dobram em 72 horas appeared first on InfoMoney.",
+      "url": "https://www.infomoney.com.br/brasil/mortes-confirmadas-por-dengue-em-sao-paulo-dobram-em-72-horas/",
+      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2024/10/aedes-mosquito-c-niaid.webp?quality=70",
+      "publishedAt": "2025-01-31 11:33:43",
+      "content": "O painel de monitoramento de arboviroses do Minist\u00e9rio da Sa\u00fade mostra um aumento de casos de dengue esta semana no estado de S\u00e3o Paulo. Os casos subiram de 82 mil para 99 mil no estado e as mortes d\u2026 [+1310 chars]",
+      "retrievedAt": "2025-02-01 19:05:43.418001",
+      "internal_id": "cfcedce6474f24741435cb974bada6c3a4e872416dbce8bb99c4c661abdbc411",
+      "publishedAtLabel": "Jan 31"
+    },
+    {
+      "id": 17858,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Bavarian Nordic A/S",
+      "title": "Bavarian Nordic Receives Positive CHMP Opinion for Chikungunya Vaccine for Persons Aged 12 and Older",
+      "description": "COPENHAGEN, Denmark, January 31, 2025 \u2013 Bavarian Nordic A/S (OMX: BAVA) today announced that the Committee for Medicinal Products for Human Use (CHMP) of the European Medicines Agency (EMA) has adopted a positive opinion recommending marketing authorization f\u2026",
+      "url": "https://www.globenewswire.com/news-release/2025/01/31/3018640/0/en/Bavarian-Nordic-Receives-Positive-CHMP-Opinion-for-Chikungunya-Vaccine-for-Persons-Aged-12-and-Older.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/bbcf063e-cba2-4e1d-b8cd-9279c8088ae9",
+      "publishedAt": "2025-01-31 10:50:00",
+      "content": "First chikungunya vaccine recommended by the CHMP for persons as young as 12 years old.The virus-like particle (VLP) single-dose chikungunya vaccine is expected to launch in key Euro\u2026 [+6743 chars]",
+      "retrievedAt": "2025-02-01 19:05:45.845649",
+      "internal_id": "bb1f92bf1c496eacad43d3ab05ded2bdc86851d159525119ddbacba31e81b788",
+      "publishedAtLabel": "Jan 31"
+    },
+    {
+      "id": 17859,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Bavarian Nordic A/S",
+      "title": "Bavarian Nordic modtager positiv anbefaling fra de europ\u00e6iske l\u00e6gemiddelmyndigheder for chikungunyavaccine til personer i alderen 12 \u00e5r og opefter",
+      "description": "K\u00d8BENHAVN, Danmark, 31. januar 2025 \u2013 Bavarian Nordic A/S (OMX: BAVA) meddelte i dag, at Udvalget for Humanmedicinske L\u00e6gemidler (CHMP), som h\u00f8rer under Det Europ\u00e6iske L\u00e6gemiddelagentur (EMA), har anbefalet udstedelse af markedsf\u00f8ringstilladelse for vaccinen \u2026",
+      "url": "https://www.globenewswire.com/news-release/2025/01/31/3018640/0/da/Bavarian-Nordic-modtager-positiv-anbefaling-fra-de-europ%C3%A6iske-l%C3%A6gemiddelmyndigheder-for-chikungunyavaccine-til-personer-i-alderen-12-%C3%A5r-og-opefter.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/bbcf063e-cba2-4e1d-b8cd-9279c8088ae9",
+      "publishedAt": "2025-01-31 10:50:00",
+      "content": "Repr\u00e6senterer den f\u00f8rste anbefaling fra de europ\u00e6iske l\u00e6gemiddelmyndigheder af en chikungunyavaccine til personer helt ned til 12 \u00e5r.Enkelt-dosis vaccinen, er baseret p\u00e5 viruslignend\u2026 [+6888 chars]",
+      "retrievedAt": "2025-02-01 19:05:45.853716",
+      "internal_id": "1d43df7959d08f854c7095a2d63ef52f72af1578f5b6fbee989626d873739f4c",
+      "publishedAtLabel": "Jan 31"
+    },
     {
       "id": 17835,
       "query": [
@@ -26008,60 +26338,6 @@
       "content": "Hasta el pasado 09 de diciembre, en 30 entidades, nuestro pa\u00eds acumul\u00f3 120 mil 931 casos de dengue con el reporte de 362 muertes. Por lo anterior, en tan solo una semana se confirmaron 3 mil 436 \u2026 [+1252 chars]",
       "retrievedAt": "2024-12-17 07:07:13.266934",
       "internal_id": "e143a31c8095d8efbd0668c137f51c53d14464b6b7defa77df8186851c0c3386",
-      "publishedAtLabel": "Dec 15"
-    },
-    {
-      "id": 16400,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Ilfattoquotidiano.it",
-      "author": "F. Q.",
-      "title": "6mila morti di dengue in Brasile nel 2024, \u00e8 record. L\u2019allarme: \u201cCambiamenti climatici e siccit\u00e0 favoriscono riproduzione della zanzara\u201d",
-      "description": "Secondo la ministra della salute Nisia Trindade, siccit\u00e0, alluvioni e innalzamento delle temperature favoriscono la pi\u00f9 rapida riproduzione delle zanzare. L\u2019incidenza \u00e8 di 3.253 casi per 100mila abitanti L'articolo 6mila morti di dengue in Brasile nel 2024, \u00e8\u2026",
-      "url": "https://www.ilfattoquotidiano.it/2024/12/15/morti-dengue-brasile-recort-allarme-cambiamenti-climatici-news/7805431/",
-      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2019/07/31/zanzaratigre1200.jpg",
-      "publishedAt": "2024-12-15 15:34:21",
-      "content": "Roma, 15 dic. (Adnkronos) - \"Occorrerebbe forse seguire le altalenanti vicissitudini del 'centro' e dei suoi inquieti inquilini con pi\u00f9 rispetto e insieme per\u00f2 con pi\u00f9 rigorosa severit\u00e0. Infatti il c\u2026 [+3707 chars]",
-      "retrievedAt": "2024-12-16 19:05:44.820131",
-      "internal_id": "5ab108bd74dce71125cd7d8a90956b05d8edd4931d6bb98a683cc96215b2193d",
-      "publishedAtLabel": "Dec 15"
-    },
-    {
-      "id": 16399,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Stockton Record",
-      "author": "Hannah Workman, The Stockton Record",
-      "title": "2 San Joaquin County farmworkers infected with bird flu after exposure to sick animals",
-      "description": "Two human cases of bird flu have been confirmed in San Joaquin County farmworkers. Public health officials said the risk to the general public is low.",
-      "url": "https://www.recordnet.com/story/news/healthcare/2024/12/15/2-san-joaquin-county-farmworkers-test-positive-for-bird-flu/76997469007/",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/pihXfwL8O_Zgx5jC5Vx6Pg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/the-stockton-record/cc0352b42d7be752f10be8834ad54e01",
-      "publishedAt": "2024-12-15 15:26:29",
-      "content": "Two human cases of the H5N1 virus, also known as avian flu or bird flu, have been confirmed in San Joaquin County, public health officials announced on Friday. The cases occurred in farmworkers with\u2026 [+2611 chars]",
-      "retrievedAt": "2024-12-16 19:05:44.268767",
-      "internal_id": "f25fa685cc7cf597dd0a33fef6122adb2e418a8f4bb073f7aa14d773475c9a86",
-      "publishedAtLabel": "Dec 15"
-    },
-    {
-      "id": 16401,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Jornada.com.mx",
-      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "title": "OMS: enfrenta Am\u00e9rica la mayor epidemia de dengue en 44 a\u00f1os",
-      "description": "La Organizaci\u00f3n Mundial de la Salud (OMS) alerta que el continente americano enfrenta la mayor epidemia de dengue desde que se tienen registros en 1980.",
-      "url": "https://www.jornada.com.mx/2024/12/15/politica/009n1pol",
-      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "publishedAt": "2024-12-15 08:32:29",
-      "content": "Peri\u00f3dico La JornadaDomingo 15 de diciembre de 2024, p. 9 La Organizaci\u00f3n Mundial de la Salud (OMS) alerta que el continente americano enfrenta la mayor epidemia de dengue desde que se tienen regist\u2026 [+2816 chars]",
-      "retrievedAt": "2024-12-16 19:05:44.837742",
-      "internal_id": "c851716747366c2acb2a98d20500d336168bc4fae74e7a737877c5bfc7dca444",
       "publishedAtLabel": "Dec 15"
     }
   ]
