@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 4
-- **Last harvest:** 2025-02-02 07:06
-- **Most recent article:** 2025-02-01 05:00:48
+- **New articles in last harvest:** 5
+- **Last harvest:** 2025-02-02 19:06
+- **Most recent article:** 2025-02-01 16:06:24
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-52 | 24-53 | 25-1 | 25-2 | 25-3 | 25-4 | 25-5 | Total |
 |--|-|-|-|-|-|-|-|-|
-| h5n1 | 64 | 27 | 27 | 131 | 65 | 31 | 51 | 396 |
-| mpox | 34 | 2 | 6 | 91 | 34 | 23 | 18 | 208 |
-| dengue | 24 | 6 | 12 | 41 | 29 | 37 | 21 | 170 |
+| h5n1 | 62 | 27 | 27 | 131 | 65 | 31 | 51 | 394 |
+| mpox | 34 | 2 | 6 | 91 | 34 | 23 | 20 | 210 |
+| dengue | 22 | 6 | 12 | 41 | 29 | 37 | 22 | 169 |
 | malaria | 30 | 15 | 10 | 30 | 18 | 19 | 29 | 151 |
 | hpai | 12 | 1 | 4 | 18 | 12 | 11 | 6 | 64 |
 | measles | 11 | 3 | 6 | 6 | 9 | 10 | 11 | 56 |
+| chikungunya | 0 | 2 | 0 | 7 | 7 | 10 | 8 | 34 |
 | zika | 2 | 0 | 0 | 15 | 5 | 2 | 8 | 32 |
-| chikungunya | 0 | 2 | 0 | 7 | 7 | 10 | 6 | 32 |
-| rabies | 8 | 1 | 1 | 2 | 6 | 7 | 6 | 31 |
+| rabies | 7 | 1 | 1 | 2 | 6 | 7 | 6 | 30 |
 | meningitis | 3 | 1 | 2 | 0 | 2 | 3 | 8 | 19 |
 | yersinia | 6 | 0 | 0 | 3 | 2 | 0 | 0 | 11 |
 | pertussis | 6 | 0 | 1 | 2 | 0 | 1 | 0 | 10 |
@@ -65,6 +65,10 @@ Source: [News API](https://newsapi.org/)
 - [Rabid Bear Attacks Man in Pennsylvania](https://www.newser.com/story/363225/rabid-bear-attacks-man-in-pennsylvania.html) (Newser)
 
 ## 25-5 (mpox)
+
+- [Το CDC στις ΗΠΑ αφαίρεσε άρον άρον τις αναφορές σε τρανς, φύλα και LGBTQ μετά τις οδηγίες Τραμπ](https://www.protothema.gr/world/article/1595673/to-cdc-stis-ipa-afairese-aron-aron-tis-anafores-se-trans-fula-kai-lgbtq-meta-tis-odigies-trab/) (Protothema.gr)
+
+- [DRC fighting spurs 'health emergency' — Africa CDC - TRT Afrika](https://trtafrika.com/africa/drc-fighting-spurs-health-emergency-africa-cdc-18260398) (Trtafrika.com)
 
 - [Friday headlines: Fire sale](https://themorningnews.org/p/friday-headlines-fire-sale) (Themorningnews.org)
 
@@ -324,6 +328,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-5 (dengue)
 
+- [Janeiro em SP tem mais mortes por febre amarela que todo o ano de 2024](https://www.metropoles.com/sao-paulo/janeiro-em-sp-tem-mais-mortes-por-febre-amarela-que-todo-o-ano-de-2024) (Metropoles.com)
+
 - [pyzdc 0.6.1](https://pypi.org/project/pyzdc/0.6.1/) (Pypi.org)
 
 - [pyzdc 0.6.0](https://pypi.org/project/pyzdc/0.6.0/) (Pypi.org)
@@ -367,6 +373,10 @@ Source: [News API](https://newsapi.org/)
 - [Sociedade médica alerta para baixa procura da vacina contra a dengue; sorotipo 3 preocupa](https://valor.globo.com/brasil/noticia/2025/01/26/sociedade-medica-alerta-para-baixa-procura-da-vacina-contra-a-dengue-sorotipo-3-preocupa.ghtml) (Globo)
 
 ## 25-5 (chikungunya)
+
+- [Opt noi tratamente au fost autorizate în UE de Agenția Europeană a Medicamentului](https://www.digi24.ro/stiri/actualitate/sanatate/opt-noi-tratamente-au-fost-autorizate-in-ue-de-agentia-europeana-a-medicamentului-3105063) (Digi24.ro)
+
+- [Primul vaccin împotriva Chikungunya, undă verde pentru a fi autorizat în Uniunea Europeană. Cum se transmite virusul care provoacă această boală](http://hotnews.ro/primul-vaccin-impotriva-chikungunya-unda-verde-pentru-a-fi-autorizat-in-uniunea-europeana-cum-se-transmite-virusul-care-provoaca-aceasta-boala-1892257) (Hotnews.ro)
 
 - [pyzdc 0.6.1](https://pypi.org/project/pyzdc/0.6.1/) (Pypi.org)
 
@@ -2170,8 +2180,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Dog Meat Restaurant Owner Dies Just Days After Discovering He Has Rabies](https://www.ibtimes.com/dog-meat-restaurant-owner-dies-rabies-3756852) (International Business Times)
 
-- [Maria Gunther: Lyckliga i alla sina dagar – men mår prinsessorna verkligen bra?](https://www.dn.se/varlden/maria-gunther-lyckliga-i-alla-sina-dagar-men-mar-prinsessorna-verkligen-bra/) (Www.dn.se)
-
 ## 24-52 (pertussis)
 
 - [В США зафиксировали резкий рост коклюша — самый высокий за десятилетие](https://www.ferra.ru/news/health/v-ssha-zafiksirovali-rezkii-rost-koklyusha-samyi-vysokii-za-desyatiletie-27-12-2024.htm) (Ferra.ru)
@@ -2508,10 +2516,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Pierwszy tak ciężki przypadek ptasiej grypy w USA. Stan 65-latka jest krytyczny. 61 osób zakażonych](https://wiadomosci.gazeta.pl/wiadomosci/7,114881,31566135,p.html) (Gazeta.pl)
 
-- [ABD'de acil durum ilan edildi! Kuş gribi nedir, belirtileri neler?](https://www.haber7.com/guncel/haber/3489889-abdde-acil-durum-ilan-edildi-kus-gribi-nedir-belirtileri-neler) (Haber7.com)
-
-- [H5N1 poses 'highest risk' of becoming next pandemic, S'pore health authorities monitoring situation](https://mustsharenews.com/h5n1-pandemic-risk/) (Mustsharenews.com)
-
 ## 24-52 (dengue)
 
 - [“Consultá sin demoras si tenés síntomas”: MSP insta a cuidarse del dengue en verano](https://www.montevideo.com.uy/Salud/-Consulta-sin-demoras-si-tenes-sintomas--MSP-insta-a-cuidarse-del-dengue-en-verano-uc910677) (Montevideo.com.uy)
@@ -2557,7 +2561,3 @@ Source: [News API](https://newsapi.org/)
 - [Cuál es la enfermedad que se expande en Florida y preocupa a las autoridades: hay casos en Tampa Bay](https://www.lanacion.com.ar/estados-unidos/florida/cual-es-la-enfermedad-que-se-expande-en-florida-y-preocupa-a-las-autoridades-hay-casos-en-tampa-bay-nid22122024/) (La Nacion)
 
 - [Common bacterium protects Brazilian city from dengue storm](https://www.digitaljournal.com/tech-science/common-bacterium-protects-brazilian-city-from-dengue-storm/article) (Digital Journal)
-
-- [La Ciudad habilita más turnos para la vacunación contra el dengue](https://www.lanacion.com.ar/politica/la-ciudad-habilita-mas-turnos-para-la-vacunacion-contra-el-dengue-nid22122024/) (La Nacion)
-
-- [Fenômenos climáticos podem ter influência em alta de casos de dengue](https://olhardigital.com.br/2024/12/22/medicina-e-saude/fenomenos-climaticos-podem-ter-influencia-em-alta-de-casos-de-dengue/) (Olhardigital.com.br)
