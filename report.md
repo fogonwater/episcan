@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 5
-- **Last harvest:** 2025-02-02 19:06
-- **Most recent article:** 2025-02-01 16:06:24
+- **New articles in last harvest:** 9
+- **Last harvest:** 2025-02-03 07:06
+- **Most recent article:** 2025-02-02 02:50:26
 
 ---
 
@@ -10,27 +10,39 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 24-52 | 24-53 | 25-1 | 25-2 | 25-3 | 25-4 | 25-5 | Total |
-|--|-|-|-|-|-|-|-|-|
-| h5n1 | 62 | 27 | 27 | 131 | 65 | 31 | 51 | 394 |
-| mpox | 34 | 2 | 6 | 91 | 34 | 23 | 20 | 210 |
-| dengue | 22 | 6 | 12 | 41 | 29 | 37 | 22 | 169 |
-| malaria | 30 | 15 | 10 | 30 | 18 | 19 | 29 | 151 |
-| hpai | 12 | 1 | 4 | 18 | 12 | 11 | 6 | 64 |
-| measles | 11 | 3 | 6 | 6 | 9 | 10 | 11 | 56 |
-| chikungunya | 0 | 2 | 0 | 7 | 7 | 10 | 8 | 34 |
-| zika | 2 | 0 | 0 | 15 | 5 | 2 | 8 | 32 |
-| rabies | 7 | 1 | 1 | 2 | 6 | 7 | 6 | 30 |
-| meningitis | 3 | 1 | 2 | 0 | 2 | 3 | 8 | 19 |
-| yersinia | 6 | 0 | 0 | 3 | 2 | 0 | 0 | 11 |
-| pertussis | 6 | 0 | 1 | 2 | 0 | 1 | 0 | 10 |
-| leptospirosis | 2 | 0 | 0 | 0 | 1 | 2 | 0 | 5 |
-| typhoid | 0 | 0 | 0 | 0 | 4 | 0 | 0 | 4 |
+| Disease | 24-52 | 24-53 | 25-1 | 25-2 | 25-3 | 25-4 | 25-5 | 25-6 | Total |
+|--|-|-|-|-|-|-|-|-|-|
+| h5n1 | 64 | 27 | 27 | 131 | 65 | 31 | 51 | 1 | 397 |
+| mpox | 34 | 2 | 6 | 91 | 34 | 23 | 22 | 0 | 212 |
+| dengue | 24 | 6 | 12 | 41 | 29 | 37 | 24 | 1 | 174 |
+| malaria | 30 | 15 | 10 | 30 | 18 | 19 | 30 | 0 | 152 |
+| hpai | 12 | 1 | 4 | 18 | 12 | 11 | 6 | 0 | 64 |
+| measles | 11 | 3 | 6 | 6 | 9 | 10 | 13 | 0 | 58 |
+| chikungunya | 0 | 2 | 0 | 7 | 7 | 10 | 9 | 0 | 35 |
+| zika | 2 | 0 | 0 | 15 | 5 | 2 | 8 | 0 | 32 |
+| rabies | 8 | 1 | 1 | 2 | 6 | 7 | 6 | 0 | 31 |
+| meningitis | 3 | 1 | 2 | 0 | 2 | 3 | 8 | 0 | 19 |
+| yersinia | 6 | 0 | 0 | 3 | 2 | 0 | 0 | 0 | 11 |
+| pertussis | 6 | 0 | 1 | 2 | 0 | 1 | 0 | 0 | 10 |
+| leptospirosis | 2 | 0 | 0 | 0 | 1 | 2 | 0 | 1 | 6 |
+| typhoid | 0 | 0 | 0 | 0 | 4 | 0 | 0 | 0 | 4 |
 
 
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 25-6 (leptospirosis)
+
+- [Leptospirosis Cases and Deaths Surge in Kerala](https://www.manoramanews.com/health/latest/2025/02/02/leptospirosis-cases-and-deaths-surge-in-kerala.html) (Manoramanews.com)
+
+## 25-6 (h5n1)
+
+- [علاج وقائي بالأجسام المضادة ربما يحمي من إنفلونزا الطيور](https://asharq.com/health/114897/%D8%B9%D9%84%D8%A7%D8%AC-%D9%88%D9%82%D8%A7%D8%A6%D9%8A-%D8%A8%D8%A7%D9%84%D8%A3%D8%AC%D8%B3%D8%A7%D9%85-%D8%A7%D9%84%D9%85%D8%B6%D8%A7%D8%AF%D8%A9-%D8%B1%D8%A8%D9%85%D8%A7-%D9%8A%D8%AD%D9%85%D9%8A-%D9%85%D9%86-%D8%A5%D9%86%D9%81%D9%84%D9%88%D9%86%D8%B2%D8%A7-%D8%A7%D9%84%D8%B7%D9%8A%D9%88%D8%B1/) (Asharq.com)
+
+## 25-6 (dengue)
+
+- [Baguio: Kaso ng Dengue sa lungsod ng Baguio tumaas o lumaki pa ng 646 por siento](https://rpnradio.com/baguio-kaso-ng-dengue-sa-lungsod-ng-baguio-tumaas-o-lumaki-pa-ng-646-por-siento/) (Rpnradio.com)
 
 ## 25-5 (zika)
 
@@ -65,6 +77,10 @@ Source: [News API](https://newsapi.org/)
 - [Rabid Bear Attacks Man in Pennsylvania](https://www.newser.com/story/363225/rabid-bear-attacks-man-in-pennsylvania.html) (Newser)
 
 ## 25-5 (mpox)
+
+- [The Trump Administration Said It Lifted Its Ban On Lifesaving Humanitarian Aid. That’s Not True.](https://www.huffpost.com/entry/trump-state-department-usaid-humanitarian-aid-freeze_n_679e59bce4b0b66856bd8965) (HuffPost)
+
+- [De exóticas a autóctonas, cuando las enfermedades ya no viajan: "Lo importante es evitar que se conviertan en endémicas"](https://www.elmundo.es/ciencia-y-salud/salud/2025/02/01/678bc5a6e4d4d8c03d8b45b4.html) (El Mundo)
 
 - [Το CDC στις ΗΠΑ αφαίρεσε άρον άρον τις αναφορές σε τρανς, φύλα και LGBTQ μετά τις οδηγίες Τραμπ](https://www.protothema.gr/world/article/1595673/to-cdc-stis-ipa-afairese-aron-aron-tis-anafores-se-trans-fula-kai-lgbtq-meta-tis-odigies-trab/) (Protothema.gr)
 
@@ -132,6 +148,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles cases reported in Texas as vaccine rates against the disease has fallen (The Texas Tribune)](https://www.memeorandum.com/250130/p117) (Memeorandum.com)
 
+- [Two cases of measles confirmed in West Texas children](https://www.houstonchronicle.com/health/article/measles-west-texas-children-20067181.php) (Houston Chronicle)
+
+- [RFK Jr's comments on deadly measles outbreak 'a complete lie' - Samoa's director-general of health](https://www.rnz.co.nz/news/world/540478/rfk-jr-s-comments-on-deadly-measles-outbreak-a-complete-lie-samoa-s-director-general-of-health) (RNZ)
+
 - [A Study Retracted 15 Years Ago Continues to Threaten Childhood Vaccines](https://time.com/7211491/eleanor-menzin-childhood-vaccine-myths-essay/) (Time)
 
 - [RFK Jr. Denies Samoa Visit Was Vaccine-Related: Here Are the Facts](https://www.newsweek.com/rfk-jr-denies-samoa-visit-was-vaccine-related-here-are-facts-2023112) (Newsweek)
@@ -149,6 +169,8 @@ Source: [News API](https://newsapi.org/)
 - [Asha workers to identify 1 million children for MMR vaccination, special campaigns soon](https://www.livemint.com/industry/asha-workers-mmr-vaccination-special-campaigns-mumps-measles-rubella-accredited-social-health-activist-11737708760867.html) (Livemint)
 
 ## 25-5 (malaria)
+
+- [Health Programs Shutter Around the World After Trump Pauses Foreign Aid (Stephanie Nolen/New York Times)](https://www.memeorandum.com/250201/p50) (Memeorandum.com)
 
 - [Shocks To U.S. Foreign Aid Raise Urgent Questions About What Counts As Lifesaving Aid](https://www.forbes.com/sites/christinero/2025/01/31/shocks-to-us-foreign-aid-raise-urgent-questions-about-what-counts-as-lifesaving-aid/) (Forbes)
 
@@ -328,6 +350,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-5 (dengue)
 
+- [Dengue: a preocupação (e desafio) do marqueteiro de Lula](https://veja.abril.com.br/politica/dengue-a-preocupacao-e-desafio-do-marqueteiro-de-lula) (Abril.com.br)
+
+- [De exóticas a autóctonas, cuando las enfermedades ya no viajan: "Lo importante es evitar que se conviertan en endémicas"](https://www.elmundo.es/ciencia-y-salud/salud/2025/02/01/678bc5a6e4d4d8c03d8b45b4.html) (El Mundo)
+
 - [Janeiro em SP tem mais mortes por febre amarela que todo o ano de 2024](https://www.metropoles.com/sao-paulo/janeiro-em-sp-tem-mais-mortes-por-febre-amarela-que-todo-o-ano-de-2024) (Metropoles.com)
 
 - [pyzdc 0.6.1](https://pypi.org/project/pyzdc/0.6.1/) (Pypi.org)
@@ -373,6 +399,8 @@ Source: [News API](https://newsapi.org/)
 - [Sociedade médica alerta para baixa procura da vacina contra a dengue; sorotipo 3 preocupa](https://valor.globo.com/brasil/noticia/2025/01/26/sociedade-medica-alerta-para-baixa-procura-da-vacina-contra-a-dengue-sorotipo-3-preocupa.ghtml) (Globo)
 
 ## 25-5 (chikungunya)
+
+- [De exóticas a autóctonas, cuando las enfermedades ya no viajan: "Lo importante es evitar que se conviertan en endémicas"](https://www.elmundo.es/ciencia-y-salud/salud/2025/02/01/678bc5a6e4d4d8c03d8b45b4.html) (El Mundo)
 
 - [Opt noi tratamente au fost autorizate în UE de Agenția Europeană a Medicamentului](https://www.digi24.ro/stiri/actualitate/sanatate/opt-noi-tratamente-au-fost-autorizate-in-ue-de-agentia-europeana-a-medicamentului-3105063) (Digi24.ro)
 
@@ -2180,6 +2208,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Dog Meat Restaurant Owner Dies Just Days After Discovering He Has Rabies](https://www.ibtimes.com/dog-meat-restaurant-owner-dies-rabies-3756852) (International Business Times)
 
+- [Maria Gunther: Lyckliga i alla sina dagar – men mår prinsessorna verkligen bra?](https://www.dn.se/varlden/maria-gunther-lyckliga-i-alla-sina-dagar-men-mar-prinsessorna-verkligen-bra/) (Www.dn.se)
+
 ## 24-52 (pertussis)
 
 - [В США зафиксировали резкий рост коклюша — самый высокий за десятилетие](https://www.ferra.ru/news/health/v-ssha-zafiksirovali-rezkii-rost-koklyusha-samyi-vysokii-za-desyatiletie-27-12-2024.htm) (Ferra.ru)
@@ -2516,6 +2546,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Pierwszy tak ciężki przypadek ptasiej grypy w USA. Stan 65-latka jest krytyczny. 61 osób zakażonych](https://wiadomosci.gazeta.pl/wiadomosci/7,114881,31566135,p.html) (Gazeta.pl)
 
+- [ABD'de acil durum ilan edildi! Kuş gribi nedir, belirtileri neler?](https://www.haber7.com/guncel/haber/3489889-abdde-acil-durum-ilan-edildi-kus-gribi-nedir-belirtileri-neler) (Haber7.com)
+
+- [H5N1 poses 'highest risk' of becoming next pandemic, S'pore health authorities monitoring situation](https://mustsharenews.com/h5n1-pandemic-risk/) (Mustsharenews.com)
+
 ## 24-52 (dengue)
 
 - [“Consultá sin demoras si tenés síntomas”: MSP insta a cuidarse del dengue en verano](https://www.montevideo.com.uy/Salud/-Consulta-sin-demoras-si-tenes-sintomas--MSP-insta-a-cuidarse-del-dengue-en-verano-uc910677) (Montevideo.com.uy)
@@ -2561,3 +2595,7 @@ Source: [News API](https://newsapi.org/)
 - [Cuál es la enfermedad que se expande en Florida y preocupa a las autoridades: hay casos en Tampa Bay](https://www.lanacion.com.ar/estados-unidos/florida/cual-es-la-enfermedad-que-se-expande-en-florida-y-preocupa-a-las-autoridades-hay-casos-en-tampa-bay-nid22122024/) (La Nacion)
 
 - [Common bacterium protects Brazilian city from dengue storm](https://www.digitaljournal.com/tech-science/common-bacterium-protects-brazilian-city-from-dengue-storm/article) (Digital Journal)
+
+- [La Ciudad habilita más turnos para la vacunación contra el dengue](https://www.lanacion.com.ar/politica/la-ciudad-habilita-mas-turnos-para-la-vacunacion-contra-el-dengue-nid22122024/) (La Nacion)
+
+- [Fenômenos climáticos podem ter influência em alta de casos de dengue](https://olhardigital.com.br/2024/12/22/medicina-e-saude/fenomenos-climaticos-podem-ter-influencia-em-alta-de-casos-de-dengue/) (Olhardigital.com.br)
