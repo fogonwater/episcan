@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 9
-- **Last harvest:** 2025-02-03 07:06
-- **Most recent article:** 2025-02-02 02:50:26
+- **New articles in last harvest:** 7
+- **Last harvest:** 2025-02-03 19:06
+- **Most recent article:** 2025-02-02 17:46:41
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-52 | 24-53 | 25-1 | 25-2 | 25-3 | 25-4 | 25-5 | 25-6 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| h5n1 | 64 | 27 | 27 | 131 | 65 | 31 | 51 | 1 | 397 |
-| mpox | 34 | 2 | 6 | 91 | 34 | 23 | 22 | 0 | 212 |
-| dengue | 24 | 6 | 12 | 41 | 29 | 37 | 24 | 1 | 174 |
+| h5n1 | 62 | 27 | 27 | 131 | 65 | 31 | 51 | 5 | 399 |
+| mpox | 34 | 2 | 6 | 91 | 34 | 23 | 22 | 2 | 214 |
+| dengue | 22 | 6 | 12 | 41 | 29 | 37 | 24 | 1 | 172 |
 | malaria | 30 | 15 | 10 | 30 | 18 | 19 | 30 | 0 | 152 |
 | hpai | 12 | 1 | 4 | 18 | 12 | 11 | 6 | 0 | 64 |
 | measles | 11 | 3 | 6 | 6 | 9 | 10 | 13 | 0 | 58 |
 | chikungunya | 0 | 2 | 0 | 7 | 7 | 10 | 9 | 0 | 35 |
 | zika | 2 | 0 | 0 | 15 | 5 | 2 | 8 | 0 | 32 |
-| rabies | 8 | 1 | 1 | 2 | 6 | 7 | 6 | 0 | 31 |
-| meningitis | 3 | 1 | 2 | 0 | 2 | 3 | 8 | 0 | 19 |
+| rabies | 7 | 1 | 1 | 2 | 6 | 7 | 6 | 0 | 30 |
+| meningitis | 3 | 1 | 2 | 0 | 2 | 3 | 8 | 1 | 20 |
 | yersinia | 6 | 0 | 0 | 3 | 2 | 0 | 0 | 0 | 11 |
 | pertussis | 6 | 0 | 1 | 2 | 0 | 1 | 0 | 0 | 10 |
 | leptospirosis | 2 | 0 | 0 | 0 | 1 | 2 | 0 | 1 | 6 |
@@ -32,11 +32,29 @@ Source: [News API](https://newsapi.org/)
 
 ---
 
+## 25-6 (mpox)
+
+- [Uganda'da M çiçeği virüsüne karşı aşı kampanyası seferberliği](https://www.haber7.com/dunya/haber/3501667-ugandada-m-cicegi-virusune-karsi-asi-kampanyasi-seferberligi) (Haber7.com)
+
+- [Uganda, M çiçeği virüsü salgınıyla mücadele kapsamında aşı kampanyası başlattı](https://www.aa.com.tr/tr/dunya/uganda-m-cicegi-virusu-salginiyla-mucadele-kapsaminda-asi-kampanyasi-baslatti/3469451) (Anadolu Agency)
+
+## 25-6 (meningitis)
+
+- [Danmark har ikke tabt ved VM siden 2017: 'Der var jeg lige kommet tilbage fra meningitis'](https://www.dr.dk/sporten/haandbold/vm/danmark-har-ikke-tabt-ved-vm-siden-2017-der-var-jeg-lige-kommet-tilbage-fra) (Www.dr.dk)
+
 ## 25-6 (leptospirosis)
 
 - [Leptospirosis Cases and Deaths Surge in Kerala](https://www.manoramanews.com/health/latest/2025/02/02/leptospirosis-cases-and-deaths-surge-in-kerala.html) (Manoramanews.com)
 
 ## 25-6 (h5n1)
+
+- [Bird flu in NC | Dead bird at Lake Julian Park receives 'preliminarily positive' test result for bird flu](https://abc11.com/post/bird-flu-nc-dead-lake-julian-park-receives-preliminarily-positive-test-result/15857185/) (WTVD-TV)
+
+- [As bird flu ravages poultry industry, the damage spreads](https://www.cbsnews.com/news/as-bird-flu-ravages-poultry-industry-the-damage-spreads/) (CBS News)
+
+- [The impact from bird flu spreads](https://www.cbsnews.com/video/the-impact-from-bird-flu-spreads/) (CBS News)
+
+- [Nature: Растет риск новой пандемии, вызванной птичьим гриппом](https://rg.ru/2025/02/02/nature-rastet-risk-novoj-pandemii-vyzvannoj-ptichim-grippom.html) (Rg.ru)
 
 - [علاج وقائي بالأجسام المضادة ربما يحمي من إنفلونزا الطيور](https://asharq.com/health/114897/%D8%B9%D9%84%D8%A7%D8%AC-%D9%88%D9%82%D8%A7%D8%A6%D9%8A-%D8%A8%D8%A7%D9%84%D8%A3%D8%AC%D8%B3%D8%A7%D9%85-%D8%A7%D9%84%D9%85%D8%B6%D8%A7%D8%AF%D8%A9-%D8%B1%D8%A8%D9%85%D8%A7-%D9%8A%D8%AD%D9%85%D9%8A-%D9%85%D9%86-%D8%A5%D9%86%D9%81%D9%84%D9%88%D9%86%D8%B2%D8%A7-%D8%A7%D9%84%D8%B7%D9%8A%D9%88%D8%B1/) (Asharq.com)
 
@@ -2208,8 +2226,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Dog Meat Restaurant Owner Dies Just Days After Discovering He Has Rabies](https://www.ibtimes.com/dog-meat-restaurant-owner-dies-rabies-3756852) (International Business Times)
 
-- [Maria Gunther: Lyckliga i alla sina dagar – men mår prinsessorna verkligen bra?](https://www.dn.se/varlden/maria-gunther-lyckliga-i-alla-sina-dagar-men-mar-prinsessorna-verkligen-bra/) (Www.dn.se)
-
 ## 24-52 (pertussis)
 
 - [В США зафиксировали резкий рост коклюша — самый высокий за десятилетие](https://www.ferra.ru/news/health/v-ssha-zafiksirovali-rezkii-rost-koklyusha-samyi-vysokii-za-desyatiletie-27-12-2024.htm) (Ferra.ru)
@@ -2546,10 +2562,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Pierwszy tak ciężki przypadek ptasiej grypy w USA. Stan 65-latka jest krytyczny. 61 osób zakażonych](https://wiadomosci.gazeta.pl/wiadomosci/7,114881,31566135,p.html) (Gazeta.pl)
 
-- [ABD'de acil durum ilan edildi! Kuş gribi nedir, belirtileri neler?](https://www.haber7.com/guncel/haber/3489889-abdde-acil-durum-ilan-edildi-kus-gribi-nedir-belirtileri-neler) (Haber7.com)
-
-- [H5N1 poses 'highest risk' of becoming next pandemic, S'pore health authorities monitoring situation](https://mustsharenews.com/h5n1-pandemic-risk/) (Mustsharenews.com)
-
 ## 24-52 (dengue)
 
 - [“Consultá sin demoras si tenés síntomas”: MSP insta a cuidarse del dengue en verano](https://www.montevideo.com.uy/Salud/-Consulta-sin-demoras-si-tenes-sintomas--MSP-insta-a-cuidarse-del-dengue-en-verano-uc910677) (Montevideo.com.uy)
@@ -2595,7 +2607,3 @@ Source: [News API](https://newsapi.org/)
 - [Cuál es la enfermedad que se expande en Florida y preocupa a las autoridades: hay casos en Tampa Bay](https://www.lanacion.com.ar/estados-unidos/florida/cual-es-la-enfermedad-que-se-expande-en-florida-y-preocupa-a-las-autoridades-hay-casos-en-tampa-bay-nid22122024/) (La Nacion)
 
 - [Common bacterium protects Brazilian city from dengue storm](https://www.digitaljournal.com/tech-science/common-bacterium-protects-brazilian-city-from-dengue-storm/article) (Digital Journal)
-
-- [La Ciudad habilita más turnos para la vacunación contra el dengue](https://www.lanacion.com.ar/politica/la-ciudad-habilita-mas-turnos-para-la-vacunacion-contra-el-dengue-nid22122024/) (La Nacion)
-
-- [Fenômenos climáticos podem ter influência em alta de casos de dengue](https://olhardigital.com.br/2024/12/22/medicina-e-saude/fenomenos-climaticos-podem-ter-influencia-em-alta-de-casos-de-dengue/) (Olhardigital.com.br)
