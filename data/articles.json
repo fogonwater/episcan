@@ -1,8 +1,476 @@
 {
-  "last_updated": "2025-02-04 07:07",
-  "count_articles_total": 1165,
-  "count_articles_new": 4,
+  "last_updated": "2025-02-04 19:05",
+  "count_articles_total": 1186,
+  "count_articles_new": 26,
   "articles": [
+    {
+      "id": 17910,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Premium Times",
+      "author": "Mariam Ileyemi",
+      "title": "Nigerian govt reacts as Trump's policies impact country's health programmes",
+      "description": "The FEC, presided over by President Bola Tinubu, discussed the impact of the Trump policies, particularly regarding HIV, tuberculosis, and malaria funding.",
+      "url": "https://www.premiumtimesng.com/news/top-news/771539-nigerian-govt-reacts-as-trumps-policies-impact-countrys-health-programmes.html",
+      "urlToImage": "https://media.premiumtimesng.com/wp-content/files/2025/02/WhatsApp-Image-2025-02-03-at-19.49.11.jpeg",
+      "publishedAt": "2025-02-03 18:44:37",
+      "content": "The Federal Executive Council on Monday discussed the impact of US President Donald Trump\u2019s policies on healthcare in Nigeria and how to ensure that Nigerians do not suffer from such. PREMIUM TIMES \u2026 [+1504 chars]",
+      "retrievedAt": "2025-02-04 19:05:51.737945",
+      "internal_id": "e799dd7c1f571deee27132a749915b6a7e48fb1a12278178673c7c3a82be7040",
+      "publishedAtLabel": "Feb 3"
+    },
+    {
+      "id": 17898,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Meneame.net",
+      "author": "ikipol",
+      "title": "La congelaci\u00f3n de comunicaciones de la administraci\u00f3n Trump restringi\u00f3 el acceso a informaci\u00f3n cr\u00edtica sobre la gripe aviar",
+      "description": "Durante los \u00faltimos cuatro a\u00f1os, el virus H5N1 , tambi\u00e9n conocido como gripe aviar, ha estado devastando las poblaciones de aves silvestres, propag\u00e1ndose a otras especies e infectando a las aves de corral y las vacas lecheras. Se han reportado al menos 67 cas\u2026",
+      "url": "https://www.meneame.net/m/actualidad/congelacion-comunicaciones-administracion-trump-restringio-sobre",
+      "urlToImage": "https://www.meneame.net/backend/media?type=link&id=4024884&version=0&ts=1738606146&image.webp",
+      "publishedAt": "2025-02-03 17:59:17",
+      "content": "",
+      "retrievedAt": "2025-02-04 19:05:50.621470",
+      "internal_id": "0a6e8cbdf6fd023135e343d537e7840ef25af8f990c0db09860114d59fc74f82",
+      "publishedAtLabel": "Feb 3"
+    },
+    {
+      "id": 17901,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "mlive.com",
+      "author": "Justin P. Hicks | Jhicks3@mlive.com",
+      "title": "Northern Michigan reports latest bird flu outbreak",
+      "description": "It's the county's first known avian flu outbreak in at least three years.",
+      "url": "https://www.mlive.com/public-interest/2025/02/northern-michigan-reports-latest-bird-flu-outbreak.html",
+      "urlToImage": "https://www.mlive.com/resizer/v2/OLIHUJPZJRBA7OS6GPYJJN7UIQ.jpg?auth=6e38ad3c955bd264091f29d79b58e593d574a794c70d16abf67f8a9ab5a440d6&width=1280&quality=90",
+      "publishedAt": "2025-02-03 17:38:23",
+      "content": "A 25th Michigan county has reported the presence of bird flu in a local flock. Officials detected the highly contagious avian influenza (H5N1) in a backyard flock from Alpena County, located in the\u2026 [+2663 chars]",
+      "retrievedAt": "2025-02-04 19:05:50.662908",
+      "internal_id": "8d618f2cb544fcc5cb5c99222b9883894553c058be47e1e401c7c46440b9ddf9",
+      "publishedAtLabel": "Feb 3"
+    },
+    {
+      "id": 17913,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Bavarian Nordic A/S",
+      "title": "Bavarian Nordic Reports Preliminary 2024 Financial Results in Line with Upgraded Guidance and Guides for 2025",
+      "description": "COPENHAGEN, Denmark, February 3, 2025 \u2013 Bavarian Nordic A/S (OMX: BAVA) today announced preliminary, unaudited financial results for 2024 and provided its financial guidance for 2025.",
+      "url": "https://www.globenewswire.com/news-release/2025/02/03/3019770/0/en/Bavarian-Nordic-Reports-Preliminary-2024-Financial-Results-in-Line-with-Upgraded-Guidance-and-Guides-for-2025.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/bbcf063e-cba2-4e1d-b8cd-9279c8088ae9",
+      "publishedAt": "2025-02-03 17:24:00",
+      "content": "Travel Health business demonstrated strong growth of 22%.Additional mpox vaccine orders during outbreak drove higher revenues for the Public Preparedness business and also secured a \u2026 [+6334 chars]",
+      "retrievedAt": "2025-02-04 19:05:52.524367",
+      "internal_id": "35d24463ea367456b4982ec0ac3280d0303e38c6673318ce6673d3f97fb0f6ae",
+      "publishedAtLabel": "Feb 3"
+    },
+    {
+      "id": 17914,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Bavarian Nordic A/S",
+      "title": "Bavarian Nordic offentligg\u00f8r forel\u00f8bige resultater for 2024 p\u00e5 linje med de opjusterede forventninger samt guider for 2025",
+      "description": "K\u00d8BENHAVN, Danmark, 3. februar 2025 \u2013 Bavarian Nordic A/S (OMX: BAVA) offentliggjorde i dag forel\u00f8bige, ureviderede \u00f8konomiske resultater for 2024 samt forventninger til 2025.",
+      "url": "https://www.globenewswire.com/news-release/2025/02/03/3019770/0/da/Bavarian-Nordic-offentligg%C3%B8r-forel%C3%B8bige-resultater-for-2024-p%C3%A5-linje-med-de-opjusterede-forventninger-samt-guider-for-2025.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/bbcf063e-cba2-4e1d-b8cd-9279c8088ae9",
+      "publishedAt": "2025-02-03 17:24:00",
+      "content": "St\u00e6rk v\u00e6kst p\u00e5 22% inden for Travel Health.Yderligere vaccineordrer under mpox-udbruddet gav \u00f8get oms\u00e6tning inden for Public Preparedness og sikrede samtidigt et st\u00e6rkt fundament for\u2026 [+6604 chars]",
+      "retrievedAt": "2025-02-04 19:05:52.531615",
+      "internal_id": "31c69890fbcab3b9445404805a800e6872f5c996a80bb089a7f058f54ba62d3e",
+      "publishedAtLabel": "Feb 3"
+    },
+    {
+      "id": 17907,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Mediaite",
+      "author": "Alex Griffing",
+      "title": "\u2018A Gift To Our Enemies\u2019: Ex-Top USAID Official Tells Fox\u2019s Jennifer Griffin Why \u2018It\u2019s Insane And Cruel to Break This Agency\u2019",
+      "description": "\u201cWe were on the verge of ending HIV, TB, and malaria. That has all ended with this pause. It is a gift to our enemies and competitors\u201d The post \u2018A Gift To Our Enemies\u2019: Ex-Top USAID Official Tells Fox\u2019s Jennifer Griffin Why \u2018It\u2019s Insane And Cruel to Break Thi\u2026",
+      "url": "https://www.mediaite.com/news/a-gift-to-our-enemies-ex-top-usaid-official-tells-foxs-jennifer-griffin-why-its-insane-and-cruel-to-break-this-agency/",
+      "urlToImage": "https://www.mediaite.com/wp-content/uploads/2024/12/AP24361288028756-scaled.jpg",
+      "publishedAt": "2025-02-03 17:17:14",
+      "content": "Press Association via AP Images Fox Newss Chief National Security Correspondent Jennifer Griffin spoke to Atul Gawande, the former USAID head of Global Health, over the weekend about Elon Musks gutt\u2026 [+4361 chars]",
+      "retrievedAt": "2025-02-04 19:05:51.706974",
+      "internal_id": "c51e5ef18fa3645673009f963accfac1ef6e6ea383e5c6801efec8ad491a64eb",
+      "publishedAtLabel": "Feb 3"
+    },
+    {
+      "id": 17892,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "LancasterOnline",
+      "author": "LANCASTERONLINE | Staff",
+      "title": "Bird flu to close parts of Middle Creek Wildlife Management Area",
+      "description": "The Pennsylvania Game Commission plans to close parts of Middle Creek Wildlife Management Area as bird flu continues to spread.\"Due to highly pathogenic avian influenza (HPAI) that is currently affecting many parts of the state, the Pennsylvania Game Commissi\u2026",
+      "url": "https://lancasteronline.com/news/local/bird-flu-to-close-parts-of-middle-creek-wildlife-management-area/article_b8e70ac0-e248-11ef-9363-830e567b717d.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/lancasteronline.com/content/tncms/assets/v3/editorial/e/bd/ebdeff74-bf02-11ee-a2af-330cc46a2b01/65b83cb04fa5b.image.jpg?crop=1677%2C880%2C0%2C177&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2025-02-03 16:05:00",
+      "content": "The Pennsylvania Game Commission plans to close parts of Middle Creek Wildlife Management Area as bird flu continues to spread. \"Due to highly pathogenic avian influenza (HPAI) that is currently aff\u2026 [+1107 chars]",
+      "retrievedAt": "2025-02-04 19:05:50.166716",
+      "internal_id": "461c23f9b15562f7bb5f7c1da3a71f160ea1790b83d1b22323833531dfe99c41",
+      "publishedAtLabel": "Feb 3"
+    },
+    {
+      "id": 17895,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "The Feed",
+      "title": "Bird flu returns: Is it airborne now?",
+      "description": "Bird flu, particularly H5N1, poses a pandemic risk if it mutates to spread airborne. Tracking its changes is essential for navigating the risks.",
+      "url": "https://economictimes.indiatimes.com/news/international/us/bird-flu-returns-is-it-airborne-now/articleshow/117891270.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-117891293,width-1200,height-630,imgsize-45064,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-02-03 14:59:06",
+      "content": "Artificial Intelligence(AI) AI and Analytics based Business Strategy By - Tanusree De, Managing Director- Accenture Technology Lead, Trustworthy AI Center of Excellence: ATCI View Program",
+      "retrievedAt": "2025-02-04 19:05:50.590539",
+      "internal_id": "e1111576965dbf0b7359c797c9574c75ed68e6848e491125e4950d38e9193e56",
+      "publishedAtLabel": "Feb 3"
+    },
+    {
+      "id": 17899,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "YLE News",
+      "author": null,
+      "title": "Turussa l\u00f6ytyneell\u00e4 naakalla todettu lintuinfluenssa \u2013 asiantuntija ei ole huolissaan",
+      "description": "Edellisen kerran Suomessa todettiin H5N1-lintuinfluenssa viime vuoden tammikuussa kuolleessa kanahaukassa.",
+      "url": "https://yle.fi/a/74-20141160",
+      "urlToImage": "https://images.cdn.yle.fi/image/upload/c_crop,x_0,y_471,w_4000,h_2250/w_1200,ar_1.91,c_fill/q_auto:eco,f_auto,fl_lossy/v1725884836/39-134593966dedb588bd5c",
+      "publishedAt": "2025-02-03 14:25:06",
+      "content": "Turun kaupungin valvontael\u00e4inl\u00e4\u00e4k\u00e4ri Tiina Korte-Mattila ei ole huolissaan Turun lintuinfluenssal\u00f6yd\u00f6st\u00e4. Ruokavirasto tiedotti perjantaina, ett\u00e4 Turusta oli l\u00f6ytynyt useampia naakkoja, jotka olivat\u2026 [+1873 chars]",
+      "retrievedAt": "2025-02-04 19:05:50.628558",
+      "internal_id": "6271ff24da06e7a611b874dca7e12b3fcb23040de01088f5ccca57624e91b347",
+      "publishedAtLabel": "Feb 3"
+    },
+    {
+      "id": 17891,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Straits Research Private Limited - Garner Insights",
+      "title": "Viral Vaccines Market Size is Projected to Reach USD 93.42 Billion by 2033, Growing at a CAGR of 8.4%: Straits Research",
+      "description": "The global viral vaccines market size was valued at USD 45.20 billion in 2024 and is projected to reach from USD 49 billion in 2025 to USD 93.42 billion by 2033, growing at a CAGR of 8.4% during the forecast period (2025-2033). The global viral vaccines marke\u2026",
+      "url": "https://www.globenewswire.com/news-release/2025/02/03/3019614/0/en/Viral-Vaccines-Market-Size-is-Projected-to-Reach-USD-93-42-Billion-by-2033-Growing-at-a-CAGR-of-8-4-Straits-Research.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/0772b43c-9649-415d-a2b8-bd58fd4badd8",
+      "publishedAt": "2025-02-03 14:19:00",
+      "content": "New York, United States, Feb. 03, 2025 (GLOBE NEWSWIRE) -- Viruses including influenza, mumps, measles, and hepatitis can be among the world's deadliest killers. Researchers from all around the world\u2026 [+7750 chars]",
+      "retrievedAt": "2025-02-04 19:05:49.820530",
+      "internal_id": "aa94ec3cf1da16912efb08dfc17d5953b0beb1a2acd13b7caffe34128f58d566",
+      "publishedAtLabel": "Feb 3"
+    },
+    {
+      "id": 17904,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Jiaqing Xu, Xiaohua Tan, Yi Quan, Dexin Gong, Hui Deng, Jianguo Zhao, Xing Huang, Yingtao Zhang, Zhoupeng Ren, Zuhua Rong, Weilin Zeng, Xing Li, Wenyuan Zheng, Shu Xiao, Jianpeng Xiao, Meng Zhang",
+      "title": "Temporal shifts in dengue epidemic in Guangdong Province before and during the COVID-19 pandemic: a Bayesian model study from 2012 to 2022",
+      "description": "Author summary Dengue poses a significant threat to global public health. During the COVID-19 pandemic, the implementation of public health interventions has altered the transmission dynamics of dengue. However, there is a lack of comprehensive studies examin\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012832",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012832.g005&size=inline",
+      "publishedAt": "2025-02-03 14:00:00",
+      "content": "Citation: Xu J, Tan X, Quan Y, Gong D, Deng H, Zhao J, et al. (2025) Temporal shifts in dengue epidemic in Guangdong Province before and during the COVID-19 pandemic: a Bayesian model study from 2012\u2026 [+26225 chars]",
+      "retrievedAt": "2025-02-04 19:05:51.090704",
+      "internal_id": "68d89d8e08455d30164af67b3b7e93f588cd353ba344bab798066c6904f5e255",
+      "publishedAtLabel": "Feb 3"
+    },
+    {
+      "id": 17906,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Nur Athen Mohd Hardy Abdullah, Nazri Che Dom, Biswajeet Pradhan, Siti Aekball Salleh, Rahmat Dapari",
+      "title": "Temporal associations between microclimate, adult Aedes mosquito indices, and dengue cases at the residence level in Malaysia: Implications for targeted interventions",
+      "description": "Introduction Dengue continues to be a major public health concern in Malaysia, as evidenced by the significant surge in cumulative dengue case numbers and deaths in 2023 compared to the previous year. While previous studies have explored the interplay of abio\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0316564",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0316564.g008&size=inline",
+      "publishedAt": "2025-02-03 14:00:00",
+      "content": "A total of 529 adult female Ae. albopictus mosquitoes were trapped at the NDH with a capture rate per week of 20.0 adult gravid female mosquitoes (SD = 6.44). No adult female Ae. aegypti were capture\u2026 [+8740 chars]",
+      "retrievedAt": "2025-02-04 19:05:51.112473",
+      "internal_id": "27f26aa99fca63248dffdaca6b11bfe3f9ecea9883ee8339610de448213e5005",
+      "publishedAtLabel": "Feb 3"
+    },
+    {
+      "id": 17909,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Mukul Rawat, Gilda Padalino, Edem Adika, John Okombo, Tomas Yeo, Andrea Brancale, David A. Fidock, Karl F. Hoffmann, Marcus C. S. Lee",
+      "title": "Quinoxaline-based anti-schistosomal compounds have potent anti-plasmodial activity",
+      "description": "Author summary The emergence of resistance to front line antimalarial therapies has been a recurring problem for malaria control efforts, and new treatments would ideally have a low risk of resistance and modest loss of potency should resistance arise. Here, \u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012216",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1012216.g006&size=inline",
+      "publishedAt": "2025-02-03 14:00:00",
+      "content": "Citation: Rawat M, Padalino G, Adika E, Okombo J, Yeo T, Brancale A, et al. (2025) Quinoxaline-based anti-schistosomal compounds have potent anti-plasmodial activity. PLoS Pathog 21(2): e1012216. \u2026 [+52622 chars]",
+      "retrievedAt": "2025-02-04 19:05:51.730316",
+      "internal_id": "324627c3aaad4c924548260fab04149dd14325b2f6c7c1758d4105d517a82b16",
+      "publishedAtLabel": "Feb 3"
+    },
+    {
+      "id": 17911,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Raphael Augusto Santiago, Suelen Pereira Priante Bavaresco, Sheyla Goulart Citrangulo, Roberto de Andrade Medronho, Vanderson Sampaio, Ant\u00f4nio Jos\u00e9 Leal Costa",
+      "title": "Clinical manifestations associated with the chronic phase of Chikungunya Fever: A systematic review of prevalence",
+      "description": "Synopsis The knowledge acquired regarding the high prevalence of several arboviruses present in the world, some of which spread rapidly to various regions of the planet, generating coexistence and coinfections, demonstrates the importance of a better understa\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012810",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012810.g001&size=inline",
+      "publishedAt": "2025-02-03 14:00:00",
+      "content": "Abstract Introduction The aim of this systematic review of prevalence is to observe and discuss the clinical manifestations of Chikungunya Virus disease in its chronic phase. Methods To be eligib\u2026 [+33519 chars]",
+      "retrievedAt": "2025-02-04 19:05:52.222479",
+      "internal_id": "a29f59b4ece4a56c0006ea3bfab602845f4a4aab95bb7bb032fedc89b2639f9f",
+      "publishedAtLabel": "Feb 3"
+    },
+    {
+      "id": 17896,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "Un tratamiento con anticuerpos probado en monos logra prevenir la gripe aviar grave",
+      "description": "La protecci\u00f3n inmunitaria conseguida por ese medio pueda resistir la posible aparici\u00f3n de variantes del virus.",
+      "url": "https://www.montevideo.com.uy/Salud/Un-tratamiento-con-anticuerpos-probado-en-monos-logra-prevenir-la-gripe-aviar-grave-uc913914",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202203/_W933_80/794416.jpg",
+      "publishedAt": "2025-02-03 13:30:00",
+      "content": "Un tratamiento inmunol\u00f3gico profil\u00e1ctico basado en anticuerpos protege a los monos contra la enfermedad grave causada por la gripe aviar H5N1, seg\u00fan se describe en la revista Science. Detr\u00e1s de es\u2026 [+3019 chars]",
+      "retrievedAt": "2025-02-04 19:05:50.599194",
+      "internal_id": "132bc6ffe520e07ad43e3651b84b3a92b63854a78ac033ce2521b4a49eec9f63",
+      "publishedAtLabel": "Feb 3"
+    },
+    {
+      "id": 17903,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "DINO",
+      "title": "Minist\u00e9rio da Sa\u00fade refor\u00e7a combate \u00e0 dengue em S\u00e3o Paulo",
+      "description": "Diante do risco de aumento de casos de dengue em 2025, o Minist\u00e9rio da Sa\u00fade ativou o Centro de Opera\u00e7\u00f5es de Emerg\u00eancia e lan\u00e7ou um plano nacional de conting\u00eancia. Com novas tecnologias e investimentos de R$ 1,5 bilh\u00e3o, a pasta busca conter a prolifera\u00e7\u00e3o do \u2026",
+      "url": "https://www.terra.com.br/noticias/ministerio-da-saude-reforca-combate-a-dengue-em-sao-paulo,25e539027ee80c39e59776bb20430b85p9r601t6.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/02/03/1568137887-c2c8ddd5-9fbc-429c-ad59-2f5e80767762.jpg",
+      "publishedAt": "2025-02-03 13:20:43",
+      "content": "O Minist\u00e9rio da Sa\u00fade est\u00e1 intensificando as a\u00e7\u00f5es de combate \u00e0 dengue em 2025, com foco especial em S\u00e3o Paulo, um dos estados com maior risco de aumento nos casos da doen\u00e7a. A ativa\u00e7\u00e3o do Centro de \u2026 [+3185 chars]",
+      "retrievedAt": "2025-02-04 19:05:51.040381",
+      "internal_id": "c1e18a9902e008d030b46ca32c4f10dd95f3b86cae0ec5cb495696f93ecc0721",
+      "publishedAtLabel": "Feb 3"
+    },
+    {
+      "id": 17912,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "Goma: advierten que la guerra podr\u00eda provocar la expansi\u00f3n de la mpox",
+      "description": "La agencia de salud de la Uni\u00f3n Africana destac\u00f3 la existencia de ese riesgo.",
+      "url": "https://www.montevideo.com.uy/Salud/Goma-advierten-que-la-guerra-podria-provocar-la-expansion-de-la-mpox-uc913911",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202502/_W933_80/908913.jpg",
+      "publishedAt": "2025-02-03 13:15:00",
+      "content": "La agencia de salud p\u00fablica de la Uni\u00f3n Africana (UA) alert\u00f3 del riesgo de expansi\u00f3n de la mpox (enfermedad conocida antes como viruela del mono) en la ciudad congole\u00f1a de Goma, tomada la semana pa\u2026 [+2332 chars]",
+      "retrievedAt": "2025-02-04 19:05:52.516971",
+      "internal_id": "aaaa2c1668ece3fc2bb78097645b4c448c6747fd9df9b8b4defdc5dcefca8d10",
+      "publishedAtLabel": "Feb 3"
+    },
+    {
+      "id": 17897,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Bruno Garattoni",
+      "title": "H5N1 est\u00e1 se adaptando para infectar humanos",
+      "description": "V\u00edrus causa gripe avi\u00e1ria letal \u2013 e tem demonstrado altera\u00e7\u00f5es preocupantes.",
+      "url": "https://super.abril.com.br/saude/h5n1-esta-se-adaptando-para-infectar-humanos",
+      "urlToImage": "https://super.abril.com.br/wp-content/uploads/2025/01/SI_471_Novas_Virus_H5N1.jpg?quality=70&strip=info&crop=1&resize=1080,565",
+      "publishedAt": "2025-02-03 13:00:53",
+      "content": "Rel\u00e2mpago: Revista em casa a partir de 10,99 (Getty Images/Montagem sobre reprodu\u00e7\u00e3o) Continua ap\u00f3s publicidade Nos \u00faltimos meses de 2022, com a pandemia de Sars-CoV-2 na reta final, outro v\u00edrus se\u2026 [+1131 chars]",
+      "retrievedAt": "2025-02-04 19:05:50.614302",
+      "internal_id": "7d3ac3155582883806a7f59bdc00d708fb76fc77ab780542ab80618086473027",
+      "publishedAtLabel": "Feb 3"
+    },
+    {
+      "id": 17915,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "UN News",
+      "author": "dpicampaigns",
+      "title": "Eastern DR Congo crisis increasing risk of mpox transmission, WHO chief warns",
+      "description": "The worsening security situation in the eastern Democratic Republic of the Congo (DRC) has forced many mpox patients to flee treatment centres, increasing the risk of transmission, the UN health agency (WHO) warned on Monday. Read Full Story on UN News The po\u2026",
+      "url": "https://news.un.org/en/story/2025/02/1159701",
+      "urlToImage": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/03-02-2025-DR-Congo-04.jpg/image770x420cropped.jpg",
+      "publishedAt": "2025-02-03 12:00:00",
+      "content": "Fighting escalated sharply in late January, as Rwanda-backed M23 rebels seized control of parts of North Kivu, including areas near the regional capital Goma, and advanced towards South Kivu. Before\u2026 [+3033 chars]",
+      "retrievedAt": "2025-02-04 19:05:52.539737",
+      "internal_id": "6e22e39eb717bd9e59d9ffe042ea24b832f2b2a97cb2ba97ff3f51a98a87d7a8",
+      "publishedAtLabel": "Feb 3"
+    },
+    {
+      "id": 17908,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Federalist",
+      "author": "Madeline Osburn",
+      "title": "Keep Your Greedy, Anti-American Hands Off \u2018Little House On The Prairie\u2019",
+      "description": "We need fewer land acknowledgments in Hollywood and more original, inspiring works of art.",
+      "url": "https://thefederalist.com/2025/02/03/keep-your-greedy-anti-american-hands-off-of-little-house-on-the-prairie/",
+      "urlToImage": "https://thefederalist.com/wp-content/uploads/2025/02/Screen-Shot-2025-02-01-at-3.40.50-PM.png",
+      "publishedAt": "2025-02-03 11:54:10",
+      "content": "Laura Ingalls Wilder did not cross the country in a covered wagon and triumph over wolves, floods, Indians, and malaria to have her life\u2019s work rewritten by Los Angeles green juice yuppies, but here \u2026 [+3227 chars]",
+      "retrievedAt": "2025-02-04 19:05:51.722126",
+      "internal_id": "9fda1448c8c45e54cfd20d0c04384311ef0ec2919f138b04bee3caea3c7ea0c2",
+      "publishedAtLabel": "Feb 3"
+    },
+    {
+      "id": 17894,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Ag\u00eancia Einstein",
+      "title": "Qual o risco de a gripe avi\u00e1ria virar uma nova pandemia entre humanos?",
+      "description": "Ap\u00f3s morte nos EUA, \u00f3rg\u00e3os de sa\u00fade monitoram casos e caracter\u00edsticas do v\u00edrus H5N1; mas entidades avaliam que risco global ainda \u00e9 baixo",
+      "url": "https://www.metropoles.com/saude/risco-gripe-aviaria-virar-pandemia-humanos",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2025/02/03081809/gripe-aviaria-3.jpg",
+      "publishedAt": "2025-02-03 11:25:56",
+      "content": "A gripe avi\u00e1ria \u00e9 uma das doen\u00e7as que mais tem chamado a aten\u00e7\u00e3o de autoridades em sa\u00fade no mundo. Desde o in\u00edcio de 2024, a infec\u00e7\u00e3o causada pelo v\u00edrus influenza A (H5N1) vem se espalhando principal\u2026 [+3749 chars]",
+      "retrievedAt": "2025-02-04 19:05:50.558343",
+      "internal_id": "3cc84f81030796838c0e772a550bf1411b42f4fb623c5c14b13b9d64cec6ffbe",
+      "publishedAtLabel": "Feb 3"
+    },
+    {
+      "id": 17900,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "The New Republic",
+      "author": "Jan Dutkiewicz",
+      "title": "Insisting on Cheaper Eggs Is a Huge Mistake",
+      "description": "The H5N1 avian flu outbreak has killed close to half a billion poultry worldwide, infected hundreds of wild bird and mammal species, and jumped to dairy cows in the United States. From birds and cows it has jumped, directly or indirectly, to at least 67 Ameri\u2026",
+      "url": "https://newrepublic.com/article/191040/cost-eggs-democrats-trump-h5n1",
+      "urlToImage": "https://images.newrepublic.com/e05dfdffc62bf2e52070a2d8ca240d4170856472.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+      "publishedAt": "2025-02-03 11:00:00",
+      "content": "Much human suffering resulting from zoonotic diseases, Benatar stated bluntly, could probably have been avoided had humans treated animals better. For decades, public health experts have feared th\u2026 [+2512 chars]",
+      "retrievedAt": "2025-02-04 19:05:50.642337",
+      "internal_id": "f8846f789229c490a7f7acde75977d302f61be0c029251aadeb2f1b14e271c38",
+      "publishedAtLabel": "Feb 3"
+    },
+    {
+      "id": 17905,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Dino.com.br",
+      "author": null,
+      "title": "Minist\u00e9rio da Sa\u00fade refor\u00e7a combate \u00e0 dengue em S\u00e3o Paulo",
+      "description": "Diante do risco de aumento de casos de dengue em 2025, o Minist\u00e9rio da Sa\u00fade ativou o Centro de Opera\u00e7\u00f5es de Emerg\u00eancia e lan\u00e7ou um plano nacional de conting\u00eancia. Com novas tecnologias e investimentos de R$ 1,5 bilh\u00e3o, a pasta busca conter a prolifera\u00e7\u00e3o do \u2026",
+      "url": "https://www.dino.com.br/releases/ministerio-da-saude-reforca-combate-a-dengue-em-sao-paulo-dino890310565131",
+      "urlToImage": "https://s2-valor.glbimg.com/7oNIEaef_5Pl5akqOczrUHJ1Rxs=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2025/u/k/ApielbRSClRuHYwiSMVA/c2c8ddd5-9fbc-429c-ad59-2f5e80767762.jpg",
+      "publishedAt": "2025-02-03 10:19:38",
+      "content": "O Minist\u00e9rio da Sa\u00fade est\u00e1 intensificando as a\u00e7\u00f5es de combate \u00e0 dengue em 2025, com foco especial em S\u00e3o Paulo, um dos estados com maior risco de aumento nos casos da doen\u00e7a. A ativa\u00e7\u00e3o do Centro de \u2026 [+3074 chars]",
+      "retrievedAt": "2025-02-04 19:05:51.099004",
+      "internal_id": "f60df0e4a43edbe163b8e0bd756f251c76092a06e08ba493e2618579051f7e80",
+      "publishedAtLabel": "Feb 3"
+    },
+    {
+      "id": 17893,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Www.is.fi",
+      "author": "Anna-Maija Naakka",
+      "title": "Turusta l\u00f6ytyi lintu\u00adinfluenssaan kuollut naakka",
+      "description": "Ruokavirasto pyyt\u00e4\u00e4 ilmoittamaan mahdollisista tartunnoista v\u00e4litt\u00f6m\u00e4sti.",
+      "url": "https://www.is.fi/turun-seutu/art-2000011006796.html",
+      "urlToImage": "https://images.sanoma-sndp.fi/8094a58108fc45f27acd9f1b47a4b3a7/some/is-default.jpg",
+      "publishedAt": "2025-02-03 09:41:00",
+      "content": "Ruokavirasto pyyt\u00e4\u00e4 ilmoittamaan mahdollisista tartunnoista v\u00e4litt\u00f6m\u00e4sti.Turusta l\u00f6ytyneell\u00e4 naakalla on todettu korkeapatogeeninen H5N1-tyypin lintuinfluenssa, kertoo Ruokavirasto. Turusta on l\u00f6yty\u2026 [+2078 chars]",
+      "retrievedAt": "2025-02-04 19:05:50.550581",
+      "internal_id": "946d21ecd820e3cf74f5fee08a420a0f049b829afd22c0a2fc52353bd1e5efdc",
+      "publishedAtLabel": "Feb 3"
+    },
+    {
+      "id": 17902,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Secretchina.com",
+      "author": "www.secretchina.com",
+      "title": "\u5927S\u731d\u901d\u5360\u636e\u5927\u9646\u70ed\u641c \u4e2d\u5171\u9690\u7792\u75ab\u60c5\u8bef\u4e8b(\u7ec4\u56fe)",
+      "description": "2\u67083\u65e5\u4e00\u65e9\uff0c\u6709\u95dc\u85dd\u4eba\u5f90\u7199\u5a9b\uff08\u5927S\uff09\u4e0d\u5e78\u53bb\u4e16\u7684\u6d88\u606f\uff0c\u5e7e\u4e4e\u9738\u4f54\u767e\u5ea6\u71b1\u641c\u6392\u884c\u699c\uff0c\u540c\u6642\u6709\u95dc\u300c\u6d41\u611f\u4f75\u767c\u80ba\u708e\u300d\u554f\u984c\uff0c\u518d\u6b21\u5f15\u8d77\u5916\u754c\u9ad8\u5ea6\u91cd\u8996\u3002",
+      "url": "https://www.secretchina.com/news/gb/2025/02/03/1077055.html",
+      "urlToImage": "https://img6.secretchina.com/pic/2025/2-3/p3615851a913176384-ss.jpg",
+      "publishedAt": "2025-02-03 08:32:31",
+      "content": "(S)48 20252323S 2248SS S\u223ctogether remember forever 23 199417SSS.O.S1996ASOS2001SF4 2010S10S2022 3 S 3 6565 X 12 135H5N1 H5N1 2014H5N13H5N11996632003200462716667393 H5N1\u2026 [+30 chars]",
+      "retrievedAt": "2025-02-04 19:05:50.670305",
+      "internal_id": "5918bafd70556a89dd3338b4e54769734b4e1cb095ab266545225023fa35e766",
+      "publishedAtLabel": "Feb 3"
+    },
+    {
+      "id": 17916,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Hull Daily Mail",
+      "author": "Storm Newton",
+      "title": "New mpox vaccination site opens in Hull as part of centre rollout across England",
+      "description": "New mpox vaccination site opens in Hull as part of centre rollout across Englandhulldailymail.co.uk",
+      "url": "https://www.hulldailymail.co.uk/news/health/new-mpox-vaccination-site-opens-9912870",
+      "urlToImage": "https://i2-prod.hulldailymail.co.uk/incoming/article9912871.ece/ALTERNATES/s1200/1_Vaccination-against-mpox-for-high-risk-groups-in-Uganda.jpg",
+      "publishedAt": "2025-02-03 08:22:46",
+      "content": "An mpox vaccination site in Hull is among 12 new centres to have opened across England, health officials have announced. The move means every area in the country will be able to offer jabs to those \u2026 [+3179 chars]",
+      "retrievedAt": "2025-02-04 19:05:52.560569",
+      "internal_id": "39df7f1730089ea7de00b94f0b2238233c74a77f98174669e3517c2cb667a532",
+      "publishedAtLabel": "Feb 3"
+    },
     {
       "id": 17887,
       "query": [
@@ -20932,96 +21400,6 @@
       "content": "Doniesienia z USA: Ameryka\u0144skie s\u0142u\u017cby epidemiologiczne poda\u0142y, \u017ce 65-letni m\u0119\u017cczyzna ma rozleg\u0142\u0105 infekcj\u0119. Do zaka\u017cenia mia\u0142o doj\u015b\u0107 w wyniku kontaktu z przydomowym drobiem - jest to pierwszy taki pr\u2026 [+1099 chars]",
       "retrievedAt": "2024-12-24 07:06:19.729663",
       "internal_id": "70b65642f13b1dbea4d5c7ad207de5895b22c8c856745b39e910bd6719b57392",
-      "publishedAtLabel": "Dec 22"
-    },
-    {
-      "id": 16720,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "la-nacion",
-      "source_name": "La Nacion",
-      "author": null,
-      "title": "La Ciudad habilita m\u00e1s turnos para la vacunaci\u00f3n contra el dengue",
-      "description": "En esta etapa, los j\u00f3venes de entre 25 y 29 a\u00f1os podr\u00e1n darse su primera dosis y los de entre 15 y 19 la segunda; las inscripciones arrancar\u00e1n este 23 de diciembre y los turnos estar\u00e1n disponibles a partir del 2 de enero",
-      "url": "https://www.lanacion.com.ar/politica/la-ciudad-habilita-mas-turnos-para-la-vacunacion-contra-el-dengue-nid22122024/",
-      "urlToImage": "https://resizer.glanacion.com/resizer/v2/la-ciudad-avanza-con-la-vacunacion-contra-el-QY3H2227OZDAHJGQRBIVPTHOLM.JPG?auth=0c64d49d3c33ef1bf88bed08d1f139ef8088dbcf65c8530bc62604ac602bd381&width=1200&quality=70&smart=false&height=799",
-      "publishedAt": "2024-12-22 18:33:36",
-      "content": "El Ministerio de Salud de la Ciudad de Buenos Aires anunci\u00f3 que este lunes 23 de diciembre habilitar\u00e1 nuevos turnos para vacunarse contra el dengue. Se trata de un plan integral de prevenci\u00f3n contra \u2026 [+4055 chars]",
-      "retrievedAt": "2024-12-23 19:05:33.913146",
-      "internal_id": "304f4ea1442b3ed4a4d9c03654f59508d60b5cd11aaa3419864d9d1f07752a12",
-      "publishedAtLabel": "Dec 22"
-    },
-    {
-      "id": 16719,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Olhardigital.com.br",
-      "author": "Leandro Costa Criscuolo",
-      "title": "Fen\u00f4menos clim\u00e1ticos podem ter influ\u00eancia em alta de casos de dengue",
-      "description": "Pesquisadores relacionam fen\u00f4menos clim\u00e1ticos a surtos de dengue e alertam para a necessidade de pol\u00edticas p\u00fablicas de preven\u00e7\u00e3o O post Fen\u00f4menos clim\u00e1ticos podem ter influ\u00eancia em alta de casos de dengue apareceu primeiro em Olhar Digital.",
-      "url": "https://olhardigital.com.br/2024/12/22/medicina-e-saude/fenomenos-climaticos-podem-ter-influencia-em-alta-de-casos-de-dengue/",
-      "urlToImage": "https://img.odcdn.com.br/wp-content/uploads/2024/12/dengue.jpg",
-      "publishedAt": "2024-12-22 15:06:00",
-      "content": "Um levantamento realizado por pesquisadores da Fiocruz e do Procam (USP) revelou que os fen\u00f4menos clim\u00e1ticos El Ni\u00f1o e La Ni\u00f1a est\u00e3o diretamente relacionados ao aumento de casos de dengue registrados\u2026 [+1389 chars]",
-      "retrievedAt": "2024-12-23 19:05:33.875893",
-      "internal_id": "d2ca5080df4e44ab508c9471f8e72de151f63ef8f7cc5ffbd93971b0ba338c5c",
-      "publishedAtLabel": "Dec 22"
-    },
-    {
-      "id": 16718,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Haber7.com",
-      "author": "Hakan Erdi Uluda\u011f",
-      "title": "ABD'de acil durum ilan edildi! Ku\u015f gribi nedir, belirtileri neler?",
-      "description": "ABD'nin Kaliforniya eyaletinde ku\u015f gribi (H5N1) vakalar\u0131nda ciddi bir art\u0131\u015f g\u00f6zlemlendi. Vakalar\u0131n artmas\u0131yla birlikte ABD'de k\u0131rm\u0131z\u0131 durum ilan edildi. Peki ku\u015f gribi belirtileri nedir? A\u015f\u0131s\u0131 var m\u0131?",
-      "url": "https://www.haber7.com/guncel/haber/3489889-abdde-acil-durum-ilan-edildi-kus-gribi-nedir-belirtileri-neler",
-      "urlToImage": "https://i12.haber7.net//haber/haber7/og_image/2024/51/abdde_acil_durum_ilan_edildi_kus_gribi_nedir_belirtileri_neler_1734875405_689.jpg",
-      "publishedAt": "2024-12-22 14:03:00",
-      "content": "ABD, bir s\u00fcredir artan ku gribi vakalaryla ba etmeye \u00e7alyor. Kaliforniya Valilik Ofisi tarafndan yaplan a\u00e7klamada, 16 eyaletteki b\u00fcy\u00fckba hayvanlarda H5N1 vir\u00fcs\u00fcn\u00fcn tespit edildii, yaylm kontrol altna\u2026 [+836 chars]",
-      "retrievedAt": "2024-12-23 19:05:33.369605",
-      "internal_id": "fa2f502d2d1b4b0360df4cd7c9c2ccfb869d9f5405ec081d29a4b03ca43f7089",
-      "publishedAtLabel": "Dec 22"
-    },
-    {
-      "id": 16729,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Mustsharenews.com",
-      "author": "Jeremy Lee",
-      "title": "H5N1 poses 'highest risk' of becoming next pandemic, S'pore health authorities monitoring situation",
-      "description": "H5N1 poses the \"highest risk\" of becoming the next pandemic and Singapore's health authorities are monitoring it, said the Health Minister.",
-      "url": "https://mustsharenews.com/h5n1-pandemic-risk/",
-      "urlToImage": "https://mustsharenews.com/wp-content/uploads/2024/12/H5N1-poses-highest-risk-of-becoming-next-pandemic-Spore-health-authorities-monitoring-situation.jpg",
-      "publishedAt": "2024-12-22 11:38:13",
-      "content": "H5N1, also known as bird flu, poses the \u201chighest risk\u201d of becoming the next pandemic, with the Singapore health authorities monitoring the situation. This was revealed in a Facebook post by Health M\u2026 [+3494 chars]",
-      "retrievedAt": "2024-12-24 07:06:19.792592",
-      "internal_id": "21c63bceb7bf8d67dac233ecc9c702e486ef118176488b5b7b43ef28cefb1343",
-      "publishedAtLabel": "Dec 22"
-    },
-    {
-      "id": 16717,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Www.dn.se",
-      "author": "Maria Gunther",
-      "title": "Maria Gunther: Lyckliga i alla sina dagar \u2013 men m\u00e5r prinsessorna verkligen bra?",
-      "description": "\u00c4ven Disneyprinsessor \u00e4r utsatta f\u00f6r allvarliga h\u00e4lsorisker, som isolering, depression, diabetes, nyckelbensfraktur, lungcancer, rabies och skallighet.",
-      "url": "https://www.dn.se/varlden/maria-gunther-lyckliga-i-alla-sina-dagar-men-mar-prinsessorna-verkligen-bra/",
-      "urlToImage": "https://static.bonniernews.se/gcs/bilder/dn-mly/2e0be684-434d-476a-b61a-c9a3a3c4c015.jpeg?io=1&width=1024&crop=16:9,smart",
-      "publishedAt": "2024-12-22 08:56:33",
-      "content": "Stackars Askungen, suckar musen Gus p\u00e5 julafton varje \u00e5r, i Kalle Anka och hans v\u00e4nner \u00f6nskar God Jul. Och kanske har han mer r\u00e4tt \u00e4n vi anat. Det har l\u00e4nge funnits farh\u00e5gor, bland forskare, debatt\u2026 [+3615 chars]",
-      "retrievedAt": "2024-12-23 19:05:32.336378",
-      "internal_id": "04e8cdc160a10cab0ce0e647c6450d19c2b0836c4688ebf7ca0ce5754d172dd5",
       "publishedAtLabel": "Dec 22"
     }
   ]

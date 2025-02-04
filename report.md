@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 4
-- **Last harvest:** 2025-02-04 07:07
-- **Most recent article:** 2025-02-03 04:19:20
+- **New articles in last harvest:** 26
+- **Last harvest:** 2025-02-04 19:05
+- **Most recent article:** 2025-02-03 18:44:37
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-52 | 24-53 | 25-1 | 25-2 | 25-3 | 25-4 | 25-5 | 25-6 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| h5n1 | 64 | 27 | 27 | 131 | 65 | 31 | 51 | 5 | 401 |
-| mpox | 34 | 2 | 6 | 91 | 34 | 23 | 22 | 3 | 215 |
-| dengue | 24 | 6 | 12 | 41 | 29 | 37 | 24 | 1 | 174 |
-| malaria | 30 | 15 | 10 | 30 | 18 | 19 | 30 | 1 | 153 |
-| hpai | 12 | 1 | 4 | 18 | 12 | 11 | 6 | 1 | 65 |
-| measles | 11 | 3 | 6 | 6 | 9 | 10 | 13 | 0 | 58 |
-| chikungunya | 0 | 2 | 0 | 7 | 7 | 10 | 9 | 0 | 35 |
+| h5n1 | 62 | 27 | 27 | 131 | 65 | 31 | 51 | 15 | 409 |
+| mpox | 34 | 2 | 6 | 91 | 34 | 23 | 22 | 8 | 220 |
+| dengue | 22 | 6 | 12 | 41 | 29 | 37 | 24 | 5 | 176 |
+| malaria | 30 | 15 | 10 | 30 | 18 | 19 | 30 | 5 | 157 |
+| hpai | 12 | 1 | 4 | 18 | 12 | 11 | 6 | 2 | 66 |
+| measles | 11 | 3 | 6 | 6 | 9 | 10 | 13 | 1 | 59 |
+| chikungunya | 0 | 2 | 0 | 7 | 7 | 10 | 9 | 1 | 36 |
 | zika | 2 | 0 | 0 | 15 | 5 | 2 | 8 | 0 | 32 |
-| rabies | 8 | 1 | 1 | 2 | 6 | 7 | 6 | 0 | 31 |
+| rabies | 7 | 1 | 1 | 2 | 6 | 7 | 6 | 0 | 30 |
 | meningitis | 3 | 1 | 2 | 0 | 2 | 3 | 8 | 1 | 20 |
 | yersinia | 6 | 0 | 0 | 3 | 2 | 0 | 0 | 0 | 11 |
 | pertussis | 6 | 0 | 1 | 2 | 0 | 1 | 0 | 0 | 10 |
@@ -38,6 +38,16 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-6 (mpox)
 
+- [Bavarian Nordic Reports Preliminary 2024 Financial Results in Line with Upgraded Guidance and Guides for 2025](https://www.globenewswire.com/news-release/2025/02/03/3019770/0/en/Bavarian-Nordic-Reports-Preliminary-2024-Financial-Results-in-Line-with-Upgraded-Guidance-and-Guides-for-2025.html) (GlobeNewswire)
+
+- [Bavarian Nordic offentliggør foreløbige resultater for 2024 på linje med de opjusterede forventninger samt guider for 2025](https://www.globenewswire.com/news-release/2025/02/03/3019770/0/da/Bavarian-Nordic-offentligg%C3%B8r-forel%C3%B8bige-resultater-for-2024-p%C3%A5-linje-med-de-opjusterede-forventninger-samt-guider-for-2025.html) (GlobeNewswire)
+
+- [Goma: advierten que la guerra podría provocar la expansión de la mpox](https://www.montevideo.com.uy/Salud/Goma-advierten-que-la-guerra-podria-provocar-la-expansion-de-la-mpox-uc913911) (Montevideo.com.uy)
+
+- [Eastern DR Congo crisis increasing risk of mpox transmission, WHO chief warns](https://news.un.org/en/story/2025/02/1159701) (UN News)
+
+- [New mpox vaccination site opens in Hull as part of centre rollout across England](https://www.hulldailymail.co.uk/news/health/new-mpox-vaccination-site-opens-9912870) (Hull Daily Mail)
+
 - [New mpox vaccination sites open across England for high-risk people](https://news.sky.com/story/new-mpox-vaccination-sites-open-across-england-for-high-risk-people-13302169) (Sky.com)
 
 - [Uganda'da M çiçeği virüsüne karşı aşı kampanyası seferberliği](https://www.haber7.com/dunya/haber/3501667-ugandada-m-cicegi-virusune-karsi-asi-kampanyasi-seferberligi) (Haber7.com)
@@ -48,7 +58,19 @@ Source: [News API](https://newsapi.org/)
 
 - [Danmark har ikke tabt ved VM siden 2017: 'Der var jeg lige kommet tilbage fra meningitis'](https://www.dr.dk/sporten/haandbold/vm/danmark-har-ikke-tabt-ved-vm-siden-2017-der-var-jeg-lige-kommet-tilbage-fra) (Www.dr.dk)
 
+## 25-6 (measles)
+
+- [Viral Vaccines Market Size is Projected to Reach USD 93.42 Billion by 2033, Growing at a CAGR of 8.4%: Straits Research](https://www.globenewswire.com/news-release/2025/02/03/3019614/0/en/Viral-Vaccines-Market-Size-is-Projected-to-Reach-USD-93-42-Billion-by-2033-Growing-at-a-CAGR-of-8-4-Straits-Research.html) (GlobeNewswire)
+
 ## 25-6 (malaria)
+
+- [Nigerian govt reacts as Trump's policies impact country's health programmes](https://www.premiumtimesng.com/news/top-news/771539-nigerian-govt-reacts-as-trumps-policies-impact-countrys-health-programmes.html) (Premium Times)
+
+- [‘A Gift To Our Enemies’: Ex-Top USAID Official Tells Fox’s Jennifer Griffin Why ‘It’s Insane And Cruel to Break This Agency’](https://www.mediaite.com/news/a-gift-to-our-enemies-ex-top-usaid-official-tells-foxs-jennifer-griffin-why-its-insane-and-cruel-to-break-this-agency/) (Mediaite)
+
+- [Quinoxaline-based anti-schistosomal compounds have potent anti-plasmodial activity](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012216) (Plos.org)
+
+- [Keep Your Greedy, Anti-American Hands Off ‘Little House On The Prairie’](https://thefederalist.com/2025/02/03/keep-your-greedy-anti-american-hands-off-of-little-house-on-the-prairie/) (The Federalist)
 
 - [Trump aid spending freeze halts leading malaria vaccine programme (Kat Lay/The Guardian)](https://www.memeorandum.com/250202/p54) (Memeorandum.com)
 
@@ -58,9 +80,31 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-6 (hpai)
 
+- [Bird flu to close parts of Middle Creek Wildlife Management Area](https://lancasteronline.com/news/local/bird-flu-to-close-parts-of-middle-creek-wildlife-management-area/article_b8e70ac0-e248-11ef-9363-830e567b717d.html) (LancasterOnline)
+
 - [Kuş gribi salgını ABD'de yumurta fiyatlarını uçurdu](https://www.haberturk.com/kus-gribi-salgini-abd-de-yumurta-fiyatlarini-ucurdu-3761928-ekonomi) (Haberturk.com)
 
 ## 25-6 (h5n1)
+
+- [La congelación de comunicaciones de la administración Trump restringió el acceso a información crítica sobre la gripe aviar](https://www.meneame.net/m/actualidad/congelacion-comunicaciones-administracion-trump-restringio-sobre) (Meneame.net)
+
+- [Northern Michigan reports latest bird flu outbreak](https://www.mlive.com/public-interest/2025/02/northern-michigan-reports-latest-bird-flu-outbreak.html) (mlive.com)
+
+- [Bird flu returns: Is it airborne now?](https://economictimes.indiatimes.com/news/international/us/bird-flu-returns-is-it-airborne-now/articleshow/117891270.cms) (The Times of India)
+
+- [Turussa löytyneellä naakalla todettu lintuinfluenssa – asiantuntija ei ole huolissaan](https://yle.fi/a/74-20141160) (YLE News)
+
+- [Un tratamiento con anticuerpos probado en monos logra prevenir la gripe aviar grave](https://www.montevideo.com.uy/Salud/Un-tratamiento-con-anticuerpos-probado-en-monos-logra-prevenir-la-gripe-aviar-grave-uc913914) (Montevideo.com.uy)
+
+- [H5N1 está se adaptando para infectar humanos](https://super.abril.com.br/saude/h5n1-esta-se-adaptando-para-infectar-humanos) (Abril.com.br)
+
+- [Qual o risco de a gripe aviária virar uma nova pandemia entre humanos?](https://www.metropoles.com/saude/risco-gripe-aviaria-virar-pandemia-humanos) (Metropoles.com)
+
+- [Insisting on Cheaper Eggs Is a Huge Mistake](https://newrepublic.com/article/191040/cost-eggs-democrats-trump-h5n1) (The New Republic)
+
+- [Turusta löytyi lintu­influenssaan kuollut naakka](https://www.is.fi/turun-seutu/art-2000011006796.html) (Www.is.fi)
+
+- [大S猝逝占据大陆热搜 中共隐瞒疫情误事(组图)](https://www.secretchina.com/news/gb/2025/02/03/1077055.html) (Secretchina.com)
 
 - [Bird flu in NC | Dead bird at Lake Julian Park receives 'preliminarily positive' test result for bird flu](https://abc11.com/post/bird-flu-nc-dead-lake-julian-park-receives-preliminarily-positive-test-result/15857185/) (WTVD-TV)
 
@@ -74,7 +118,19 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-6 (dengue)
 
+- [Temporal shifts in dengue epidemic in Guangdong Province before and during the COVID-19 pandemic: a Bayesian model study from 2012 to 2022](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012832) (Plos.org)
+
+- [Temporal associations between microclimate, adult Aedes mosquito indices, and dengue cases at the residence level in Malaysia: Implications for targeted interventions](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0316564) (Plos.org)
+
+- [Ministério da Saúde reforça combate à dengue em São Paulo](https://www.terra.com.br/noticias/ministerio-da-saude-reforca-combate-a-dengue-em-sao-paulo,25e539027ee80c39e59776bb20430b85p9r601t6.html) (Terra.com.br)
+
+- [Ministério da Saúde reforça combate à dengue em São Paulo](https://www.dino.com.br/releases/ministerio-da-saude-reforca-combate-a-dengue-em-sao-paulo-dino890310565131) (Dino.com.br)
+
 - [Baguio: Kaso ng Dengue sa lungsod ng Baguio tumaas o lumaki pa ng 646 por siento](https://rpnradio.com/baguio-kaso-ng-dengue-sa-lungsod-ng-baguio-tumaas-o-lumaki-pa-ng-646-por-siento/) (Rpnradio.com)
+
+## 25-6 (chikungunya)
+
+- [Clinical manifestations associated with the chronic phase of Chikungunya Fever: A systematic review of prevalence](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012810) (Plos.org)
 
 ## 25-5 (zika)
 
@@ -2240,8 +2296,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Dog Meat Restaurant Owner Dies Just Days After Discovering He Has Rabies](https://www.ibtimes.com/dog-meat-restaurant-owner-dies-rabies-3756852) (International Business Times)
 
-- [Maria Gunther: Lyckliga i alla sina dagar – men mår prinsessorna verkligen bra?](https://www.dn.se/varlden/maria-gunther-lyckliga-i-alla-sina-dagar-men-mar-prinsessorna-verkligen-bra/) (Www.dn.se)
-
 ## 24-52 (pertussis)
 
 - [В США зафиксировали резкий рост коклюша — самый высокий за десятилетие](https://www.ferra.ru/news/health/v-ssha-zafiksirovali-rezkii-rost-koklyusha-samyi-vysokii-za-desyatiletie-27-12-2024.htm) (Ferra.ru)
@@ -2578,10 +2632,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Pierwszy tak ciężki przypadek ptasiej grypy w USA. Stan 65-latka jest krytyczny. 61 osób zakażonych](https://wiadomosci.gazeta.pl/wiadomosci/7,114881,31566135,p.html) (Gazeta.pl)
 
-- [ABD'de acil durum ilan edildi! Kuş gribi nedir, belirtileri neler?](https://www.haber7.com/guncel/haber/3489889-abdde-acil-durum-ilan-edildi-kus-gribi-nedir-belirtileri-neler) (Haber7.com)
-
-- [H5N1 poses 'highest risk' of becoming next pandemic, S'pore health authorities monitoring situation](https://mustsharenews.com/h5n1-pandemic-risk/) (Mustsharenews.com)
-
 ## 24-52 (dengue)
 
 - [“Consultá sin demoras si tenés síntomas”: MSP insta a cuidarse del dengue en verano](https://www.montevideo.com.uy/Salud/-Consulta-sin-demoras-si-tenes-sintomas--MSP-insta-a-cuidarse-del-dengue-en-verano-uc910677) (Montevideo.com.uy)
@@ -2627,7 +2677,3 @@ Source: [News API](https://newsapi.org/)
 - [Cuál es la enfermedad que se expande en Florida y preocupa a las autoridades: hay casos en Tampa Bay](https://www.lanacion.com.ar/estados-unidos/florida/cual-es-la-enfermedad-que-se-expande-en-florida-y-preocupa-a-las-autoridades-hay-casos-en-tampa-bay-nid22122024/) (La Nacion)
 
 - [Common bacterium protects Brazilian city from dengue storm](https://www.digitaljournal.com/tech-science/common-bacterium-protects-brazilian-city-from-dengue-storm/article) (Digital Journal)
-
-- [La Ciudad habilita más turnos para la vacunación contra el dengue](https://www.lanacion.com.ar/politica/la-ciudad-habilita-mas-turnos-para-la-vacunacion-contra-el-dengue-nid22122024/) (La Nacion)
-
-- [Fenômenos climáticos podem ter influência em alta de casos de dengue](https://olhardigital.com.br/2024/12/22/medicina-e-saude/fenomenos-climaticos-podem-ter-influencia-em-alta-de-casos-de-dengue/) (Olhardigital.com.br)
