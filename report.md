@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 26
-- **Last harvest:** 2025-02-04 19:05
-- **Most recent article:** 2025-02-03 18:44:37
+- **New articles in last harvest:** 19
+- **Last harvest:** 2025-02-05 07:06
+- **Most recent article:** 2025-02-04 03:34:27
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-52 | 24-53 | 25-1 | 25-2 | 25-3 | 25-4 | 25-5 | 25-6 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| h5n1 | 62 | 27 | 27 | 131 | 65 | 31 | 51 | 15 | 409 |
+| h5n1 | 64 | 27 | 27 | 131 | 65 | 31 | 51 | 18 | 414 |
 | mpox | 34 | 2 | 6 | 91 | 34 | 23 | 22 | 8 | 220 |
-| dengue | 22 | 6 | 12 | 41 | 29 | 37 | 24 | 5 | 176 |
+| dengue | 24 | 6 | 12 | 41 | 29 | 37 | 24 | 10 | 183 |
 | malaria | 30 | 15 | 10 | 30 | 18 | 19 | 30 | 5 | 157 |
+| measles | 11 | 3 | 6 | 6 | 9 | 10 | 13 | 11 | 69 |
 | hpai | 12 | 1 | 4 | 18 | 12 | 11 | 6 | 2 | 66 |
-| measles | 11 | 3 | 6 | 6 | 9 | 10 | 13 | 1 | 59 |
 | chikungunya | 0 | 2 | 0 | 7 | 7 | 10 | 9 | 1 | 36 |
 | zika | 2 | 0 | 0 | 15 | 5 | 2 | 8 | 0 | 32 |
-| rabies | 7 | 1 | 1 | 2 | 6 | 7 | 6 | 0 | 30 |
+| rabies | 8 | 1 | 1 | 2 | 6 | 7 | 6 | 0 | 31 |
 | meningitis | 3 | 1 | 2 | 0 | 2 | 3 | 8 | 1 | 20 |
+| pertussis | 6 | 0 | 1 | 2 | 0 | 1 | 0 | 1 | 11 |
 | yersinia | 6 | 0 | 0 | 3 | 2 | 0 | 0 | 0 | 11 |
-| pertussis | 6 | 0 | 1 | 2 | 0 | 1 | 0 | 0 | 10 |
 | leptospirosis | 2 | 0 | 0 | 0 | 1 | 2 | 0 | 1 | 6 |
 | typhoid | 0 | 0 | 0 | 0 | 4 | 0 | 0 | 1 | 5 |
 
@@ -35,6 +35,10 @@ Source: [News API](https://newsapi.org/)
 ## 25-6 (typhoid)
 
 - [Bacolod: Negrenses warned of increasing typhoid fever cases](https://rpnradio.com/bacolod-negrenses-warned-of-increasing-typhoid-fever-cases/) (Rpnradio.com)
+
+## 25-6 (pertussis)
+
+- [The strange religion of vaccine worship](https://www.wnd.com/2025/02/the-strange-religion-of-vaccine-worship/) (Wnd.com)
 
 ## 25-6 (mpox)
 
@@ -59,6 +63,26 @@ Source: [News API](https://newsapi.org/)
 - [Danmark har ikke tabt ved VM siden 2017: 'Der var jeg lige kommet tilbage fra meningitis'](https://www.dr.dk/sporten/haandbold/vm/danmark-har-ikke-tabt-ved-vm-siden-2017-der-var-jeg-lige-kommet-tilbage-fra) (Www.dr.dk)
 
 ## 25-6 (measles)
+
+- [RFK Jr. misled the US Senate on measles deaths, Samoa's health chief says](https://abcnews.go.com/International/wireStory/rfk-jr-misled-us-senate-measles-deaths-samoas-118410888) (ABC News)
+
+- [Robert F Kennedy Jr: Top Samoan health says Senate was mislead about measles outbreak](https://thenightly.com.au/politics/us-politics/robert-f-kennedy-jr-top-samoan-health-says-senate-was-mislead-about-measles-outbreak-c-17607941) (Thenightly.com.au)
+
+- [RFK Jr. misled the US Senate on measles deaths, Samoa’s health chief says](https://www.bostonherald.com/2025/02/03/samoa-measles-deaths-rfk-jr/) (Boston Herald)
+
+- [RFK Jr. misled the US Senate on measles deaths, Samoa's health chief says - NewsBreak](https://www.newsbreak.com/share/3789397916193-rfk-jr-misled-the-us-senate-on-measles-deaths-samoa-s-health-chief-says?s=a2&share_destination_id=MjI5MTQ2MzUwLTE3Mzg2MjMzOTA2NTE%3D&pd=0FVTQsxU&hl=en_US&send_time=1738623390&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.4.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_blend_exp_25q1-v5%2Cns_foryou_model_exp_25q1-v9%2Cns_foryou_recall_exp_25q1-v8%2Cns_push_exp_rt_bucketv12-v7%2Cns_foryou_rank_exp_25q1-v1) (Newsbreak.com)
+
+- [RFK Jr. Slammed by Samoa's Top Health Official Over Measles Remarks](https://www.newsweek.com/rfk-jr-slammed-samoas-top-health-official-over-measles-remarks-2025549) (Newsweek)
+
+- [RFK Jr. misled the US Senate on measles deaths, Samoa's health chief says (Charlotte Graham-McLay/Associated Press)](https://www.memeorandum.com/250203/p130) (Memeorandum.com)
+
+- [RFK Jr. misled the US Senate on measles deaths, Samoa's health chief says - NewsBreak](https://www.newsbreak.com/share/3789397916193-rfk-jr-misled-the-us-senate-on-measles-deaths-samoa-s-health-chief-says?s=a99&share_destination_id=NzcwMTAzNjEtMTczODYxODQyMTI3OQ%3D%3D&pd=05D7ubgn&hl=en_US&send_time=1738618421&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.4.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_rank_exp_25q1-v3%2Cns_push_exp_rt_bucketv12-v2%2Cns_foryou_model_exp_25q1-v8%2Cns_foryou_blend_exp_25q1-v3%2Cns_foryou_recall_exp_25q1-v1) (Newsbreak.com)
+
+- [Samoa's Health Chief Says RFK Jr. Misled US Senate On Measles Deaths](https://www.huffpost.com/entry/ap-as-samoa-measles-kennedy_n_67a12e6ee4b09a02376045bb) (HuffPost)
+
+- [RFK Jr. misled the US Senate on measles deaths, Samoa's health chief says](https://abcnews.go.com/Technology/wireStory/rfk-jr-misled-us-senate-measles-deaths-samoas-118410890) (ABC News)
+
+- [Did RFK Jr. mislead the Senate on measles deaths in Samoa? The island nation's health chief says yes](https://www.seattlepi.com/news/world/article/did-rfk-jr-mislead-the-senate-on-measles-deaths-20139866.php) (seattlepi.com)
 
 - [Viral Vaccines Market Size is Projected to Reach USD 93.42 Billion by 2033, Growing at a CAGR of 8.4%: Straits Research](https://www.globenewswire.com/news-release/2025/02/03/3019614/0/en/Viral-Vaccines-Market-Size-is-Projected-to-Reach-USD-93-42-Billion-by-2033-Growing-at-a-CAGR-of-8-4-Straits-Research.html) (GlobeNewswire)
 
@@ -85,6 +109,12 @@ Source: [News API](https://newsapi.org/)
 - [Kuş gribi salgını ABD'de yumurta fiyatlarını uçurdu](https://www.haberturk.com/kus-gribi-salgini-abd-de-yumurta-fiyatlarini-ucurdu-3761928-ekonomi) (Haberturk.com)
 
 ## 25-6 (h5n1)
+
+- [백스다임, ‘고병원성 조류 인플루엔자 백신 신속 개발’ 4자 협력 MOU 체결](https://www.venturesquare.net/956133) (Venturesquare.net)
+
+- [Hundreds of Ducks Found Dead of Suspected Bird Flu Around Chicago](https://gizmodo.com/hundreds-of-ducks-found-dead-of-suspected-bird-flu-around-lake-michigan-2000558438) (Gizmodo.com)
+
+- [A deadly bird flu strain is headed for Australia – and First Nations people have the know-how to tackle it](https://theconversation.com/a-deadly-bird-flu-strain-is-headed-for-australia-and-first-nations-people-have-the-know-how-to-tackle-it-245758) (The Conversation Africa)
 
 - [La congelación de comunicaciones de la administración Trump restringió el acceso a información crítica sobre la gripe aviar](https://www.meneame.net/m/actualidad/congelacion-comunicaciones-administracion-trump-restringio-sobre) (Meneame.net)
 
@@ -117,6 +147,16 @@ Source: [News API](https://newsapi.org/)
 - [علاج وقائي بالأجسام المضادة ربما يحمي من إنفلونزا الطيور](https://asharq.com/health/114897/%D8%B9%D9%84%D8%A7%D8%AC-%D9%88%D9%82%D8%A7%D8%A6%D9%8A-%D8%A8%D8%A7%D9%84%D8%A3%D8%AC%D8%B3%D8%A7%D9%85-%D8%A7%D9%84%D9%85%D8%B6%D8%A7%D8%AF%D8%A9-%D8%B1%D8%A8%D9%85%D8%A7-%D9%8A%D8%AD%D9%85%D9%8A-%D9%85%D9%86-%D8%A5%D9%86%D9%81%D9%84%D9%88%D9%86%D8%B2%D8%A7-%D8%A7%D9%84%D8%B7%D9%8A%D9%88%D8%B1/) (Asharq.com)
 
 ## 25-6 (dengue)
+
+- [Número de casos de morte por dengue em São Paulo em janeiro é preocupante, diz Saúde](https://valor.globo.com/brasil/noticia/2025/02/03/numero-de-casos-de-morte-por-dengue-em-sao-paulo-em-janeiro-e-preocupante-diz-saude.ghtml) (Globo)
+
+- [Prefeitura de Porto Alegre aplica inseticida em quatro ruas do bairro Cristal nesta terça-feira](https://www.terra.com.br/noticias/prefeitura-de-porto-alegre-aplica-inseticida-em-quatro-ruas-do-bairro-cristal-nesta-terca-feira,de5ed8a7c445234a393d44332f143db5x0zcvw27.html) (Terra.com.br)
+
+- [Além da dengue: Ministério da Saúde faz alerta para outra doença causada por mosquitos](https://veja.abril.com.br/saude/alem-da-dengue-ministerio-da-saude-faz-alerta-para-outra-doenca-causada-por-mosquitos) (Abril.com.br)
+
+- [Brasil encerra janeiro com mais de 180 mil casos de dengue e 38 mortes](https://www.infomoney.com.br/brasil/brasil-encerra-janeiro-com-mais-de-180-mil-casos-de-dengue-e-38-mortes/) (InfoMoney)
+
+- [Hijacking of plasmin by dengue virus for infection](https://www.sciencedaily.com/releases/2025/02/250203142515.htm) (Science Daily)
 
 - [Temporal shifts in dengue epidemic in Guangdong Province before and during the COVID-19 pandemic: a Bayesian model study from 2012 to 2022](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012832) (Plos.org)
 
@@ -2296,6 +2336,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Dog Meat Restaurant Owner Dies Just Days After Discovering He Has Rabies](https://www.ibtimes.com/dog-meat-restaurant-owner-dies-rabies-3756852) (International Business Times)
 
+- [Maria Gunther: Lyckliga i alla sina dagar – men mår prinsessorna verkligen bra?](https://www.dn.se/varlden/maria-gunther-lyckliga-i-alla-sina-dagar-men-mar-prinsessorna-verkligen-bra/) (Www.dn.se)
+
 ## 24-52 (pertussis)
 
 - [В США зафиксировали резкий рост коклюша — самый высокий за десятилетие](https://www.ferra.ru/news/health/v-ssha-zafiksirovali-rezkii-rost-koklyusha-samyi-vysokii-za-desyatiletie-27-12-2024.htm) (Ferra.ru)
@@ -2632,6 +2674,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Pierwszy tak ciężki przypadek ptasiej grypy w USA. Stan 65-latka jest krytyczny. 61 osób zakażonych](https://wiadomosci.gazeta.pl/wiadomosci/7,114881,31566135,p.html) (Gazeta.pl)
 
+- [ABD'de acil durum ilan edildi! Kuş gribi nedir, belirtileri neler?](https://www.haber7.com/guncel/haber/3489889-abdde-acil-durum-ilan-edildi-kus-gribi-nedir-belirtileri-neler) (Haber7.com)
+
+- [H5N1 poses 'highest risk' of becoming next pandemic, S'pore health authorities monitoring situation](https://mustsharenews.com/h5n1-pandemic-risk/) (Mustsharenews.com)
+
 ## 24-52 (dengue)
 
 - [“Consultá sin demoras si tenés síntomas”: MSP insta a cuidarse del dengue en verano](https://www.montevideo.com.uy/Salud/-Consulta-sin-demoras-si-tenes-sintomas--MSP-insta-a-cuidarse-del-dengue-en-verano-uc910677) (Montevideo.com.uy)
@@ -2677,3 +2723,7 @@ Source: [News API](https://newsapi.org/)
 - [Cuál es la enfermedad que se expande en Florida y preocupa a las autoridades: hay casos en Tampa Bay](https://www.lanacion.com.ar/estados-unidos/florida/cual-es-la-enfermedad-que-se-expande-en-florida-y-preocupa-a-las-autoridades-hay-casos-en-tampa-bay-nid22122024/) (La Nacion)
 
 - [Common bacterium protects Brazilian city from dengue storm](https://www.digitaljournal.com/tech-science/common-bacterium-protects-brazilian-city-from-dengue-storm/article) (Digital Journal)
+
+- [La Ciudad habilita más turnos para la vacunación contra el dengue](https://www.lanacion.com.ar/politica/la-ciudad-habilita-mas-turnos-para-la-vacunacion-contra-el-dengue-nid22122024/) (La Nacion)
+
+- [Fenômenos climáticos podem ter influência em alta de casos de dengue](https://olhardigital.com.br/2024/12/22/medicina-e-saude/fenomenos-climaticos-podem-ter-influencia-em-alta-de-casos-de-dengue/) (Olhardigital.com.br)

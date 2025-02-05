@@ -1,8 +1,350 @@
 {
-  "last_updated": "2025-02-04 19:05",
-  "count_articles_total": 1186,
-  "count_articles_new": 26,
+  "last_updated": "2025-02-05 07:06",
+  "count_articles_total": 1210,
+  "count_articles_new": 19,
   "articles": [
+    {
+      "id": 17922,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "CHARLOTTE GRAHAM-MCLAY Associated Press",
+      "title": "RFK Jr. misled the US Senate on measles deaths, Samoa's health chief says",
+      "description": "Samoa\u2019s top health official has denounced as \u201ca complete lie\u201d remarks that Robert F",
+      "url": "https://abcnews.go.com/International/wireStory/rfk-jr-misled-us-senate-measles-deaths-samoas-118410888",
+      "urlToImage": "https://i.abcnewsfe.com/a/dc660860-2984-4ba8-8d5e-d26613850808/wirestory_42a9cb583c71f165699b16710884c474_16x9.jpg?w=1600",
+      "publishedAt": "2025-02-04 03:34:27",
+      "content": "WELLINGTON, New Zealand -- Samoas top health official on Monday denounced as a complete lie remarks that Robert F. Kennedy Jr. made during his bid to become U.S. health secretary, rejecting his claim\u2026 [+4686 chars]",
+      "retrievedAt": "2025-02-05 07:06:37.765799",
+      "internal_id": "e318d9f18512e1c33814bc96c4a0109f19c723cdd48ae08d5683bfd95bf19095",
+      "publishedAtLabel": "Feb 4"
+    },
+    {
+      "id": 17929,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Venturesquare.net",
+      "author": "\uac15\uc9c4\ud76c",
+      "title": "\ubc31\uc2a4\ub2e4\uc784, \u2018\uace0\ubcd1\uc6d0\uc131 \uc870\ub958 \uc778\ud50c\ub8e8\uc5d4\uc790 \ubc31\uc2e0 \uc2e0\uc18d \uac1c\ubc1c\u2019 4\uc790 \ud611\ub825 MOU \uccb4\uacb0",
+      "description": "\ubc31\uc2a4\ub2e4\uc784\uc740 4\uc77c, \uc5f0\uc138\ub300\ud559\uad50 \uc758\uacfc\ub300\ud559 \ucd5c\uc131\uc77c \uad50\uc218\ud300, \ud55c\uad6d\ubc31\uc2e0, \ucda9\ubd81\ub300\ud559\uad50 \uc758\uacfc\ub300\ud559 \uc721\uc131\uc218 \uad50\uc218\ud300\uacfc H5N1\ud615 \uace0\ubcd1\uc6d0\uc131 \uc870\ub958 \uc778\ud50c\ub8e8\uc5d4\uc790 \ubc31\uc2e0 \uac1c\ubc1c\uc744 \uc704\ud55c \ud611\ub825 \uc591\ud574\uac01\uc11c(MOU)\ub97c \uccb4\uacb0\ud588\ub2e4\uace0 \ubc1d\ud614\ub2e4. The post \ubc31\uc2a4\ub2e4\uc784, \u2018\uace0\ubcd1\uc6d0\uc131 \uc870\ub958 \uc778\ud50c\ub8e8\uc5d4\uc790 \ubc31\uc2e0 \uc2e0\uc18d \uac1c\ubc1c\u2019 4\uc790 \ud611\ub825 MOU \uccb4\uacb0 appeared first on \ubca4\ucc98\uc2a4\ud018\uc5b4.",
+      "url": "https://www.venturesquare.net/956133",
+      "urlToImage": "https://www.venturesquare.net/wp-content/uploads/2025/02/dsfdghj.jpg",
+      "publishedAt": "2025-02-04 03:16:30",
+      "content": "(VAXDIGM) 4, , , H5N1 (MOU) . IBK , . , . . , , , \u00b7\u00b7 , . H5N1 . , . , , . , , , mRNA .BaxDigm, 4-party cooperation MOU signed for 'rapid development of highly pathogenic avian influenza vaccine' VA\u2026 [+4943 chars]",
+      "retrievedAt": "2025-02-05 07:06:38.094159",
+      "internal_id": "440d0763ec067ca31812f9768ba558a5f4ff60510fb9512710cb2c13e91e69e6",
+      "publishedAtLabel": "Feb 4"
+    },
+    {
+      "id": 17925,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Thenightly.com.au",
+      "author": "The Nightly",
+      "title": "Robert F Kennedy Jr: Top Samoan health says Senate was mislead about measles outbreak",
+      "description": "Samoa's top health official has taken aim at Robert F. Kennedy Jr over claims he made regarding measles deaths in the Pacific nation.",
+      "url": "https://thenightly.com.au/politics/us-politics/robert-f-kennedy-jr-top-samoan-health-says-senate-was-mislead-about-measles-outbreak-c-17607941",
+      "urlToImage": "https://images.thenightly.com.au/publication/C-17607941/d585d5ac5c7455212132037308b46f0a76b2d7a3-16x9-x0y2w1280h720.jpg?imwidth=1200",
+      "publishedAt": "2025-02-04 02:27:07",
+      "content": "Samoas top health official has denounced as a complete lie remarks that Robert F. Kennedy Jr. made during his bid to become US health secretary, rejecting his claim that some who died in the Pacific \u2026 [+2925 chars]",
+      "retrievedAt": "2025-02-05 07:06:37.794392",
+      "internal_id": "020b0bff605f60f3f081fbf010804b7fae7fbf7eb091817eafe57a95443befd8",
+      "publishedAtLabel": "Feb 4"
+    },
+    {
+      "id": 17935,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "N\u00famero de casos de morte por dengue em S\u00e3o Paulo em janeiro \u00e9 preocupante, diz Sa\u00fade",
+      "description": "O primeiro m\u00eas de 2025 registrou um total de 170.3...",
+      "url": "https://valor.globo.com/brasil/noticia/2025/02/03/numero-de-casos-de-morte-por-dengue-em-sao-paulo-em-janeiro-e-preocupante-diz-saude.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/5Fn_RVPnF56dUZm1Fpd5X7o53m4=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2024/P/Z/XrefLzTuGxhAX9cqmEIw/vacina-dengue-02.jpg",
+      "publishedAt": "2025-02-04 01:44:47",
+      "content": "O primeiro m\u00eas de 2025 registrou um total de 170.376 casos prov\u00e1veis de dengue em todo o pa\u00eds, al\u00e9m de 38 mortes confirmadas e 201 \u00f3bitos em investiga\u00e7\u00e3o para a doen\u00e7a. Dados do Painel de Monitoramen\u2026 [+3001 chars]",
+      "retrievedAt": "2025-02-05 07:06:38.527534",
+      "internal_id": "9d49711fd7f10ea206ac9eeb1b99376137c2b7834c24655d4f3975e7122a31bc",
+      "publishedAtLabel": "Feb 4"
+    },
+    {
+      "id": 17919,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Boston Herald",
+      "author": "Associated Press",
+      "title": "RFK Jr. misled the US Senate on measles deaths, Samoa\u2019s health chief says",
+      "description": "Kennedy denied that his 2019 visit to Samoa had fueled anti-vaccine sentiment.",
+      "url": "https://www.bostonherald.com/2025/02/03/samoa-measles-deaths-rfk-jr/",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/02/Trump_Cabinet_Kennedy_12310.jpg?w=1024&h=731",
+      "publishedAt": "2025-02-04 00:44:32",
+      "content": "Kennedy denied that his 2019 visit to Samoa had fueled anti-vaccine sentiment. Originally Published: February 3, 2025 at 7:44 PM EST",
+      "retrievedAt": "2025-02-05 07:06:37.743713",
+      "internal_id": "4ba061db09a17d5a799195eadb597ef4e0897e7f2f745b16293e93547077922c",
+      "publishedAtLabel": "Feb 4"
+    },
+    {
+      "id": 17917,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Wnd.com",
+      "author": "David Kupelian",
+      "title": "The strange religion of vaccine worship",
+      "description": "Nearly half of all Democrat voters backed measures requiring 'the unvaccinated' to live, at least temporarily, in detention facilities",
+      "url": "https://www.wnd.com/2025/02/the-strange-religion-of-vaccine-worship/",
+      "urlToImage": "https://www.wnd.com/wp-content/uploads/2024/06/vaccines-needles-latex-gloves-masks-coronavirus-covid-military-defense.jpg",
+      "publishedAt": "2025-02-04 00:08:25",
+      "content": "It wasn\u2019t until right after the little girl had received her third and final pertussis vaccine shot that all hell broke loose. One of five children in a Christian homeschooling family this writer kn\u2026 [+11845 chars]",
+      "retrievedAt": "2025-02-05 07:06:37.249866",
+      "internal_id": "2888ca7e22b1a16e5d8debea1159299a72c9c1387845798721c357c62197a235",
+      "publishedAtLabel": "Feb 4"
+    },
+    {
+      "id": 17932,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Porto Alegre 24 horas",
+      "title": "Prefeitura de Porto Alegre aplica inseticida em quatro ruas do bairro Cristal nesta ter\u00e7a-feira",
+      "description": "A Equipe de Vigil\u00e2ncia Epidemiol\u00f3gica ressalta a import\u00e2ncia das pessoas buscarem atendimento de sa\u00fade caso tenham sintomas compat\u00edveis com a dengue",
+      "url": "https://www.terra.com.br/noticias/prefeitura-de-porto-alegre-aplica-inseticida-em-quatro-ruas-do-bairro-cristal-nesta-terca-feira,de5ed8a7c445234a393d44332f143db5x0zcvw27.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/02/03/225178289-250108cristinerocholcombatedenguesms-0983.jpg",
+      "publishedAt": "2025-02-03 23:10:44",
+      "content": "A prefeitura vai aplicar inseticida em quatro ruas do bairro Cristal nesta ter\u00e7a-feira (4) a partir das 9h. O ponto de partida \u00e9 na avenida Cruzeiro do Sul, 2445. Com mau tempo a opera\u00e7\u00e3o pode ser su\u2026 [+1492 chars]",
+      "retrievedAt": "2025-02-05 07:06:38.488205",
+      "internal_id": "4177cdb239971b56a1c8fa2b751ade90860f4eccfdf81355bad3a4ade2f0a744",
+      "publishedAtLabel": "Feb 3"
+    },
+    {
+      "id": 17927,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Newsbreak.com",
+      "author": "The Associated Press",
+      "title": "RFK Jr. misled the US Senate on measles deaths, Samoa's health chief says - NewsBreak",
+      "description": "WELLINGTON, New Zealand (AP) \u2014 Samoa\u2019s top health official on Monday denounced as \u201ca complete lie\u201d remarks that Robert F. Kennedy Jr. made during his bid t",
+      "url": "https://www.newsbreak.com/share/3789397916193-rfk-jr-misled-the-us-senate-on-measles-deaths-samoa-s-health-chief-says?s=a2&share_destination_id=MjI5MTQ2MzUwLTE3Mzg2MjMzOTA2NTE%3D&pd=0FVTQsxU&hl=en_US&send_time=1738623390&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.4.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_blend_exp_25q1-v5%2Cns_foryou_model_exp_25q1-v9%2Cns_foryou_recall_exp_25q1-v8%2Cns_push_exp_rt_bucketv12-v7%2Cns_foryou_rank_exp_25q1-v1",
+      "urlToImage": "https://img.particlenews.com/img/id/1PP9fG_0ycHTa6v00",
+      "publishedAt": "2025-02-03 22:58:44",
+      "content": "WELLINGTON, New Zealand (AP) Samoas top health official on Monday denounced as a complete lie remarks that Robert F. Kennedy Jr. made during his bid to become U.S. health secretary, rejecting his cla\u2026 [+4906 chars]",
+      "retrievedAt": "2025-02-05 07:06:37.808441",
+      "internal_id": "79ab7b46aa4fae3100a308ed7632655e61ef42a402eb0442187abaac2b362a97",
+      "publishedAtLabel": "Feb 3"
+    },
+    {
+      "id": 17920,
+      "query": [
+        "measles"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Gabe Whisnant",
+      "title": "RFK Jr. Slammed by Samoa's Top Health Official Over Measles Remarks",
+      "description": "Senators grilled President Trump's HHS pick over his 2019 Samoa trip, accusing him of downplaying his role in the epidemic.",
+      "url": "https://www.newsweek.com/rfk-jr-slammed-samoas-top-health-official-over-measles-remarks-2025549",
+      "urlToImage": "https://d.newsweek.com/en/full/2450666/breaking-news.jpg",
+      "publishedAt": "2025-02-03 22:22:52",
+      "content": "On Monday, Samoa's top health official condemned statements made by Robert F. Kennedy Jr. during his confirmation hearings for U.S. Health and Human Services secretary, calling them \"a complete lie.\"\u2026 [+1070 chars]",
+      "retrievedAt": "2025-02-05 07:06:37.751821",
+      "internal_id": "bc27682cc0d144577a710f49b0e3b6058401bb8db5632344c8a01d4ccdc6ee92",
+      "publishedAtLabel": "Feb 3"
+    },
+    {
+      "id": 17918,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "RFK Jr. misled the US Senate on measles deaths, Samoa's health chief says (Charlotte Graham-McLay/Associated Press)",
+      "description": "Charlotte Graham-McLay / Associated Press: RFK Jr. misled the US Senate on measles deaths, Samoa's health chief says \u2014 Samoa's top health official on Monday denounced as \u201ca complete lie\u201d remarks that Robert F. Kennedy Jr. made during his bid to become U.S. \u2026",
+      "url": "https://www.memeorandum.com/250203/p130",
+      "urlToImage": "https://dims.apnews.com/dims4/default/e303b38/2147483647/strip/true/crop/3000x1688+0+228/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F8c%2Ff2%2Fd09da0cf831d0aa9b29b69549e5a%2Fd439d55b608d401cab3b2cb6f2b2f287",
+      "publishedAt": "2025-02-03 22:00:26",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-02-05 07:06:37.735805",
+      "internal_id": "a8383de0f00e4f7c55be6045a961adff0e07401037d82b48d25b2550b562a77c",
+      "publishedAtLabel": "Feb 3"
+    },
+    {
+      "id": 17926,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Newsbreak.com",
+      "author": "The Associated Press",
+      "title": "RFK Jr. misled the US Senate on measles deaths, Samoa's health chief says - NewsBreak",
+      "description": "WELLINGTON, New Zealand (AP) \u2014 Samoa\u2019s top health official on Monday denounced as \u201ca complete lie\u201d remarks that Robert F. Kennedy Jr. made during his bid t",
+      "url": "https://www.newsbreak.com/share/3789397916193-rfk-jr-misled-the-us-senate-on-measles-deaths-samoa-s-health-chief-says?s=a99&share_destination_id=NzcwMTAzNjEtMTczODYxODQyMTI3OQ%3D%3D&pd=05D7ubgn&hl=en_US&send_time=1738618421&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.4.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_rank_exp_25q1-v3%2Cns_push_exp_rt_bucketv12-v2%2Cns_foryou_model_exp_25q1-v8%2Cns_foryou_blend_exp_25q1-v3%2Cns_foryou_recall_exp_25q1-v1",
+      "urlToImage": "https://img.particlenews.com/img/id/1PP9fG_0ycHTa6v00",
+      "publishedAt": "2025-02-03 21:34:10",
+      "content": "WELLINGTON, New Zealand (AP) Samoas top health official on Monday denounced as a complete lie remarks that Robert F. Kennedy Jr. made during his bid to become U.S. health secretary, rejecting his cla\u2026 [+4906 chars]",
+      "retrievedAt": "2025-02-05 07:06:37.801595",
+      "internal_id": "14cd23c63bfd0b0881e229b10eafe934c492b743c67e4a37dd2a709ba64affbb",
+      "publishedAtLabel": "Feb 3"
+    },
+    {
+      "id": 17923,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "HuffPost",
+      "author": "AP",
+      "title": "Samoa's Health Chief Says RFK Jr. Misled US Senate On Measles Deaths",
+      "description": "Dr. Alec Ekeroma calls Kennedy's comments about Samoa's 2019 measles epidemic \u201ca complete lie\u201d and \"total fabrication.\"",
+      "url": "https://www.huffpost.com/entry/ap-as-samoa-measles-kennedy_n_67a12e6ee4b09a02376045bb",
+      "urlToImage": "https://img.huffingtonpost.com/asset/67a12f431600001400afed7f.jpg?cache=BeJ7ezUwpB&ops=1200_630",
+      "publishedAt": "2025-02-03 21:15:29",
+      "content": "WELLINGTON, New Zealand (AP) Samoas top health official on Monday denounced as a complete lie remarks that Robert F. Kennedy Jr. made during his bid to become U.S. health secretary, rejecting his cla\u2026 [+5957 chars]",
+      "retrievedAt": "2025-02-05 07:06:37.772910",
+      "internal_id": "e13a873c10ceab64eb41d92fb04cedfe543df3fc95edc3209bf5584633771cc5",
+      "publishedAtLabel": "Feb 3"
+    },
+    {
+      "id": 17933,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Paula Felix",
+      "title": "Al\u00e9m da dengue: Minist\u00e9rio da Sa\u00fade faz alerta para outra doen\u00e7a causada por mosquitos",
+      "description": "Aumento de casos de febre amarela foi observado em S\u00e3o Paulo, Minas Gerais, Roraima e Tocantins; preven\u00e7\u00e3o \u00e9 feita com vacina dispon\u00edvel no SUS",
+      "url": "https://veja.abril.com.br/saude/alem-da-dengue-ministerio-da-saude-faz-alerta-para-outra-doenca-causada-por-mosquitos",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2017/03/saude-vacina-febre-amarela-20170323-001.jpg?quality=70&strip=info&crop=1&resize=1080,565",
+      "publishedAt": "2025-02-03 20:20:11",
+      "content": "F\u00e9rias: Assine a partir de 1,50/semanaIMUNIZA\u00c7\u00c3O: Dose \u00fanica \u00e9 aplicada em popula\u00e7\u00e3o de 5 a 59 anos que ainda n\u00e3o foi vacinada (Andre Borges/Ag\u00eancia Bras\u00edlia/Divulga\u00e7\u00e3o) Continua ap\u00f3s publicidade E\u2026 [+4056 chars]",
+      "retrievedAt": "2025-02-05 07:06:38.507298",
+      "internal_id": "d50d3ffbc6175446186b9080294c4d564819df97550f22783a845531327c7356",
+      "publishedAtLabel": "Feb 3"
+    },
+    {
+      "id": 17921,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "CHARLOTTE GRAHAM-MCLAY Associated Press",
+      "title": "RFK Jr. misled the US Senate on measles deaths, Samoa's health chief says",
+      "description": "Samoa\u2019s top health official has denounced as \u201ca complete lie\u201d remarks that Robert F",
+      "url": "https://abcnews.go.com/Technology/wireStory/rfk-jr-misled-us-senate-measles-deaths-samoas-118410890",
+      "urlToImage": "https://i.abcnewsfe.com/a/dc660860-2984-4ba8-8d5e-d26613850808/wirestory_42a9cb583c71f165699b16710884c474_16x9.jpg?w=1600",
+      "publishedAt": "2025-02-03 20:06:21",
+      "content": "WELLINGTON, New Zealand -- Samoas top health official on Monday denounced as a complete lie remarks that Robert F. Kennedy Jr. made during his bid to become U.S. health secretary, rejecting his claim\u2026 [+4690 chars]",
+      "retrievedAt": "2025-02-05 07:06:37.758931",
+      "internal_id": "f60548990b10949298920e47de88bf6d20c7a8eff7f87ec190a6f2accd0355e0",
+      "publishedAtLabel": "Feb 3"
+    },
+    {
+      "id": 17934,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "info-money",
+      "source_name": "InfoMoney",
+      "author": "marialuizadourado",
+      "title": "Brasil encerra janeiro com mais de 180 mil casos de dengue e 38 mortes",
+      "description": "No ranking de estados com maior n\u00famero absoluto de casos prov\u00e1veis, S\u00e3o Paulo aparece na frente, com 100.025 casos The post Brasil encerra janeiro com mais de 180 mil casos de dengue e 38 mortes appeared first on InfoMoney.",
+      "url": "https://www.infomoney.com.br/brasil/brasil-encerra-janeiro-com-mais-de-180-mil-casos-de-dengue-e-38-mortes/",
+      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2024/10/aedes-mosquito-c-niaid.webp?quality=70",
+      "publishedAt": "2025-02-03 19:49:34",
+      "content": "O primeiro m\u00eas de 2025 registrou um total de 170.376 casos prov\u00e1veis de dengue em todo o pa\u00eds, al\u00e9m de 38 mortes confirmadas e 201 \u00f3bitos em investiga\u00e7\u00e3o para a doen\u00e7a. Dados do Painel de Monitoramen\u2026 [+3159 chars]",
+      "retrievedAt": "2025-02-05 07:06:38.514334",
+      "internal_id": "8a4995ff720d2094a2468f374186fb2b6a71049bfde91928ce686746577c7758",
+      "publishedAtLabel": "Feb 3"
+    },
+    {
+      "id": 17924,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "seattlepi.com",
+      "author": "By CHARLOTTE GRAHAM-McLAY, Associated Press",
+      "title": "Did RFK Jr. mislead the Senate on measles deaths in Samoa? The island nation's health chief says yes",
+      "description": "Samoa\u2019s top health official has denounced as \u201ca complete lie\u201d remarks that Robert F. Kennedy Jr. made during his bid to become U.S. health secretary. Kennedy has said that some who died in a 2019 measles epidemic in Samoa didn't have measles. Samoa Director-G\u2026",
+      "url": "https://www.seattlepi.com/news/world/article/did-rfk-jr-mislead-the-senate-on-measles-deaths-20139866.php",
+      "urlToImage": "https://s.hdnux.com/photos/01/46/64/34/26953515/6/rawImage.jpg",
+      "publishedAt": "2025-02-03 19:35:27",
+      "content": "FILE - Prime Minister Tuilaepa Sailele Malielegaoi, foreground right, shakes hands with Robert F. Kennedy Jr. before he left the the 57th Independence Celebration in Mulinu'u, Samoa, on June 1, 2019.\u2026 [+5765 chars]",
+      "retrievedAt": "2025-02-05 07:06:37.786745",
+      "internal_id": "cf1a74c7b7aed20741f6a1c97b24305ec7575fbba1bf338db38068c4c080132a",
+      "publishedAtLabel": "Feb 3"
+    },
+    {
+      "id": 17931,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "Hijacking of plasmin by dengue virus for infection",
+      "description": "Biological scientists have uncovered how the dengue virus uses its envelope protein to capture human plasmin from a blood meal to enhance the permeability of the mosquito midgut for infection.",
+      "url": "https://www.sciencedaily.com/releases/2025/02/250203142515.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2025-02-03 19:25:15",
+      "content": "Biological scientists from the National University of Singapore (NUS) have uncovered how the dengue virus uses its envelope protein to capture human plasmin from a blood meal to enhance the permeabil\u2026 [+2531 chars]",
+      "retrievedAt": "2025-02-05 07:06:38.479874",
+      "internal_id": "6003bc2e4c736eb62352624dd8abb89e6018dab8bcdbbf70579d5a6a13147045",
+      "publishedAtLabel": "Feb 3"
+    },
+    {
+      "id": 17928,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Gizmodo.com",
+      "author": "Matt Novak",
+      "title": "Hundreds of Ducks Found Dead of Suspected Bird Flu Around Chicago",
+      "description": "23 million birds have contracted H5N1 in the U.S. in the past 30 days, according to USDA.",
+      "url": "https://gizmodo.com/hundreds-of-ducks-found-dead-of-suspected-bird-flu-around-lake-michigan-2000558438",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/02/bird-flu-chicago-ducks.jpg",
+      "publishedAt": "2025-02-03 19:15:00",
+      "content": "Roughly 200-300 ducks have been found dead in Chicago and the northern suburbs around Lake Michigan in recent days, according to a new report from local news outlet NBC5. The red-breasted mergansers \u2026 [+2798 chars]",
+      "retrievedAt": "2025-02-05 07:06:38.069062",
+      "internal_id": "d9ff1aba0aaba24c33159e4d82e387fd7768dcfb13a7532d9fbb58cfa05bc7ab",
+      "publishedAtLabel": "Feb 3"
+    },
+    {
+      "id": 17930,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Nell Reidy, Research Fellow, Monash Sustainable Development Institute, Monash University, Bhiamie Williamson, Research Fellow in Disaster Resilience, Monash University, Vinod Balasubramaniam, Associate Professor (Molecular Virology), Monash University",
+      "title": "A deadly bird flu strain is headed for Australia \u2013 and First Nations people have the know-how to tackle it",
+      "description": "Indigenous peoples have been largely excluded from the federal government\u2019s planning for the arrival of H5N1. When will this change?",
+      "url": "https://theconversation.com/a-deadly-bird-flu-strain-is-headed-for-australia-and-first-nations-people-have-the-know-how-to-tackle-it-245758",
+      "urlToImage": "https://images.theconversation.com/files/645963/original/file-20250130-15-to0waz.jpg?ixlib=rb-4.1.0&rect=0%2C0%2C6048%2C3024&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2025-02-03 19:10:12",
+      "content": "A virulent strain of bird flu continues to spread across the world. Australia, New Zealand and Pacific nations are the only countries free from the infection, but this will no doubt change. Known a\u2026 [+6896 chars]",
+      "retrievedAt": "2025-02-05 07:06:38.118676",
+      "internal_id": "77a95c97b1cc756c93c662d0a5264e0abaa595c9ad04fbe5c05e348df5adcef5",
+      "publishedAtLabel": "Feb 3"
+    },
     {
       "id": 17910,
       "query": [
@@ -21400,6 +21742,96 @@
       "content": "Doniesienia z USA: Ameryka\u0144skie s\u0142u\u017cby epidemiologiczne poda\u0142y, \u017ce 65-letni m\u0119\u017cczyzna ma rozleg\u0142\u0105 infekcj\u0119. Do zaka\u017cenia mia\u0142o doj\u015b\u0107 w wyniku kontaktu z przydomowym drobiem - jest to pierwszy taki pr\u2026 [+1099 chars]",
       "retrievedAt": "2024-12-24 07:06:19.729663",
       "internal_id": "70b65642f13b1dbea4d5c7ad207de5895b22c8c856745b39e910bd6719b57392",
+      "publishedAtLabel": "Dec 22"
+    },
+    {
+      "id": 16720,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": null,
+      "title": "La Ciudad habilita m\u00e1s turnos para la vacunaci\u00f3n contra el dengue",
+      "description": "En esta etapa, los j\u00f3venes de entre 25 y 29 a\u00f1os podr\u00e1n darse su primera dosis y los de entre 15 y 19 la segunda; las inscripciones arrancar\u00e1n este 23 de diciembre y los turnos estar\u00e1n disponibles a partir del 2 de enero",
+      "url": "https://www.lanacion.com.ar/politica/la-ciudad-habilita-mas-turnos-para-la-vacunacion-contra-el-dengue-nid22122024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/la-ciudad-avanza-con-la-vacunacion-contra-el-QY3H2227OZDAHJGQRBIVPTHOLM.JPG?auth=0c64d49d3c33ef1bf88bed08d1f139ef8088dbcf65c8530bc62604ac602bd381&width=1200&quality=70&smart=false&height=799",
+      "publishedAt": "2024-12-22 18:33:36",
+      "content": "El Ministerio de Salud de la Ciudad de Buenos Aires anunci\u00f3 que este lunes 23 de diciembre habilitar\u00e1 nuevos turnos para vacunarse contra el dengue. Se trata de un plan integral de prevenci\u00f3n contra \u2026 [+4055 chars]",
+      "retrievedAt": "2024-12-23 19:05:33.913146",
+      "internal_id": "304f4ea1442b3ed4a4d9c03654f59508d60b5cd11aaa3419864d9d1f07752a12",
+      "publishedAtLabel": "Dec 22"
+    },
+    {
+      "id": 16719,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Leandro Costa Criscuolo",
+      "title": "Fen\u00f4menos clim\u00e1ticos podem ter influ\u00eancia em alta de casos de dengue",
+      "description": "Pesquisadores relacionam fen\u00f4menos clim\u00e1ticos a surtos de dengue e alertam para a necessidade de pol\u00edticas p\u00fablicas de preven\u00e7\u00e3o O post Fen\u00f4menos clim\u00e1ticos podem ter influ\u00eancia em alta de casos de dengue apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2024/12/22/medicina-e-saude/fenomenos-climaticos-podem-ter-influencia-em-alta-de-casos-de-dengue/",
+      "urlToImage": "https://img.odcdn.com.br/wp-content/uploads/2024/12/dengue.jpg",
+      "publishedAt": "2024-12-22 15:06:00",
+      "content": "Um levantamento realizado por pesquisadores da Fiocruz e do Procam (USP) revelou que os fen\u00f4menos clim\u00e1ticos El Ni\u00f1o e La Ni\u00f1a est\u00e3o diretamente relacionados ao aumento de casos de dengue registrados\u2026 [+1389 chars]",
+      "retrievedAt": "2024-12-23 19:05:33.875893",
+      "internal_id": "d2ca5080df4e44ab508c9471f8e72de151f63ef8f7cc5ffbd93971b0ba338c5c",
+      "publishedAtLabel": "Dec 22"
+    },
+    {
+      "id": 16718,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Haber7.com",
+      "author": "Hakan Erdi Uluda\u011f",
+      "title": "ABD'de acil durum ilan edildi! Ku\u015f gribi nedir, belirtileri neler?",
+      "description": "ABD'nin Kaliforniya eyaletinde ku\u015f gribi (H5N1) vakalar\u0131nda ciddi bir art\u0131\u015f g\u00f6zlemlendi. Vakalar\u0131n artmas\u0131yla birlikte ABD'de k\u0131rm\u0131z\u0131 durum ilan edildi. Peki ku\u015f gribi belirtileri nedir? A\u015f\u0131s\u0131 var m\u0131?",
+      "url": "https://www.haber7.com/guncel/haber/3489889-abdde-acil-durum-ilan-edildi-kus-gribi-nedir-belirtileri-neler",
+      "urlToImage": "https://i12.haber7.net//haber/haber7/og_image/2024/51/abdde_acil_durum_ilan_edildi_kus_gribi_nedir_belirtileri_neler_1734875405_689.jpg",
+      "publishedAt": "2024-12-22 14:03:00",
+      "content": "ABD, bir s\u00fcredir artan ku gribi vakalaryla ba etmeye \u00e7alyor. Kaliforniya Valilik Ofisi tarafndan yaplan a\u00e7klamada, 16 eyaletteki b\u00fcy\u00fckba hayvanlarda H5N1 vir\u00fcs\u00fcn\u00fcn tespit edildii, yaylm kontrol altna\u2026 [+836 chars]",
+      "retrievedAt": "2024-12-23 19:05:33.369605",
+      "internal_id": "fa2f502d2d1b4b0360df4cd7c9c2ccfb869d9f5405ec081d29a4b03ca43f7089",
+      "publishedAtLabel": "Dec 22"
+    },
+    {
+      "id": 16729,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Mustsharenews.com",
+      "author": "Jeremy Lee",
+      "title": "H5N1 poses 'highest risk' of becoming next pandemic, S'pore health authorities monitoring situation",
+      "description": "H5N1 poses the \"highest risk\" of becoming the next pandemic and Singapore's health authorities are monitoring it, said the Health Minister.",
+      "url": "https://mustsharenews.com/h5n1-pandemic-risk/",
+      "urlToImage": "https://mustsharenews.com/wp-content/uploads/2024/12/H5N1-poses-highest-risk-of-becoming-next-pandemic-Spore-health-authorities-monitoring-situation.jpg",
+      "publishedAt": "2024-12-22 11:38:13",
+      "content": "H5N1, also known as bird flu, poses the \u201chighest risk\u201d of becoming the next pandemic, with the Singapore health authorities monitoring the situation. This was revealed in a Facebook post by Health M\u2026 [+3494 chars]",
+      "retrievedAt": "2024-12-24 07:06:19.792592",
+      "internal_id": "21c63bceb7bf8d67dac233ecc9c702e486ef118176488b5b7b43ef28cefb1343",
+      "publishedAtLabel": "Dec 22"
+    },
+    {
+      "id": 16717,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Www.dn.se",
+      "author": "Maria Gunther",
+      "title": "Maria Gunther: Lyckliga i alla sina dagar \u2013 men m\u00e5r prinsessorna verkligen bra?",
+      "description": "\u00c4ven Disneyprinsessor \u00e4r utsatta f\u00f6r allvarliga h\u00e4lsorisker, som isolering, depression, diabetes, nyckelbensfraktur, lungcancer, rabies och skallighet.",
+      "url": "https://www.dn.se/varlden/maria-gunther-lyckliga-i-alla-sina-dagar-men-mar-prinsessorna-verkligen-bra/",
+      "urlToImage": "https://static.bonniernews.se/gcs/bilder/dn-mly/2e0be684-434d-476a-b61a-c9a3a3c4c015.jpeg?io=1&width=1024&crop=16:9,smart",
+      "publishedAt": "2024-12-22 08:56:33",
+      "content": "Stackars Askungen, suckar musen Gus p\u00e5 julafton varje \u00e5r, i Kalle Anka och hans v\u00e4nner \u00f6nskar God Jul. Och kanske har han mer r\u00e4tt \u00e4n vi anat. Det har l\u00e4nge funnits farh\u00e5gor, bland forskare, debatt\u2026 [+3615 chars]",
+      "retrievedAt": "2024-12-23 19:05:32.336378",
+      "internal_id": "04e8cdc160a10cab0ce0e647c6450d19c2b0836c4688ebf7ca0ce5754d172dd5",
       "publishedAtLabel": "Dec 22"
     }
   ]
