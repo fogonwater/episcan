@@ -1,8 +1,297 @@
 {
-  "last_updated": "2025-02-05 07:06",
-  "count_articles_total": 1210,
-  "count_articles_new": 19,
+  "last_updated": "2025-02-05 19:05",
+  "count_articles_total": 1221,
+  "count_articles_new": 16,
   "articles": [
+    {
+      "id": 17941,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Sa\u00fade em Dia",
+      "title": "Dengue: saiba sobre transmiss\u00e3o e principais sintomas da doen\u00e7a",
+      "description": "O Brasil registrou tr\u00eas vezes mais casos de dengue este ano do que no mesmo per\u00edodo do ano anterior. Veja os sinais da doen\u00e7a",
+      "url": "https://www.metropoles.com/saude/dengue-saiba-transmissao-principais-sintomas",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/09/03120335/Novo-Projeto-64-2.jpg",
+      "publishedAt": "2025-02-04 16:53:02",
+      "content": "Em 2024, o Brasil j\u00e1 contabilizou mais de 360 mil casos de dengue, incluindo prov\u00e1veis e confirmados, e 40 mortes. Esse n\u00famero representa um aumento de 291% em compara\u00e7\u00e3o ao mesmo per\u00edodo de 2023, qu\u2026 [+2018 chars]",
+      "retrievedAt": "2025-02-05 19:05:41.926272",
+      "internal_id": "35c2c0f47135b1e94fb2892cd1e45520d019a8dee83dc35d01dd59e9ffdaf648",
+      "publishedAtLabel": "Feb 4"
+    },
+    {
+      "id": 17939,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Teen Vogue",
+      "author": "Jessica Culpepper",
+      "title": "How Trump's Admin Will Make Bird Flu Worse",
+      "description": "This op-ed argues that to fight avian flu and other animal-borne illnesses, we need to overhaul our food system.",
+      "url": "https://www.teenvogue.com/story/bird-flus-food-system-trumps-anti-public-health",
+      "urlToImage": "https://assets.teenvogue.com/photos/67a107f265ccf41510edc6c4/16:9/w_1280,c_limit/2195129934",
+      "publishedAt": "2025-02-04 16:12:40",
+      "content": "This new year began with the first human death in the U.S. from H5N1, the disease also known as Avian Flu or Bird Flu. More than 60 people across the country, mostly workers at dairy or chicken facto\u2026 [+2859 chars]",
+      "retrievedAt": "2025-02-05 19:05:41.356856",
+      "internal_id": "f16290a221df9d9cca194f8e1d53ae628a6a519af068dc9835973861cd91a043",
+      "publishedAtLabel": "Feb 4"
+    },
+    {
+      "id": 17937,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "KOAT New Mexico",
+      "author": "Vince Rodriguez",
+      "title": "New Mexico health officials warn of potential measles threat",
+      "description": "The New Mexico Department of Health is warning residents of a potential high risk for measles exposure in southeast New Mexico.",
+      "url": "https://www.koat.com/article/new-mexico-measles-risk/63664724",
+      "urlToImage": "https://kubrick.htvapps.com/vidthumb/a1e44c52-3e7a-4042-8bcc-865a507dc60f/68459e76-f856-492c-b64b-dd0bb880d292.jpg?crop=1xw:1.0xh;center,top&resize=1200:*",
+      "publishedAt": "2025-02-04 15:55:42",
+      "content": "The New Mexico Department of Health is warning residents of a potential measles exposure in southeast New Mexico. The NMDOH says two cases of measles were found in Gaines County, Texas. Health offi\u2026 [+382 chars]",
+      "retrievedAt": "2025-02-05 19:05:40.876959",
+      "internal_id": "85a704c2566b2bda49602294ace8431aa2460d915152784b676e47d1426c3c81",
+      "publishedAtLabel": "Feb 4"
+    },
+    {
+      "id": 17946,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": "Medicines and Healthcare products Regulatory Agency",
+      "title": "Press release: IXCHIQ vaccine approved to protect adults against Chikungunya",
+      "description": "The Medicines and Healthcare products Regulatory Agency (MHRA) has today, 4 February 2025, approved the vaccine chikungunya vaccine (live) (brand name IXCHIQ) to protect adults against chikungunya disease, caused by the chikungunya virus (CHIKV).",
+      "url": "https://www.gov.uk/government/news/ixchiq-vaccine-approved-to-protect-adults-against-chikungunya",
+      "urlToImage": "https://assets.publishing.service.gov.uk/media/67a236d4567402152f553c1b/s960_mosquito.png",
+      "publishedAt": "2025-02-04 15:51:27",
+      "content": "CHIKV is found in the subtropical regions of the Americas, Africa, Southeast Asia, India, and the Pacific Region, and is spread to humans by the bite of an infected mosquito (Aedes aegypti and Aedes \u2026 [+4547 chars]",
+      "retrievedAt": "2025-02-05 19:05:43.028811",
+      "internal_id": "08e879a4b5ccb17c888dc6a3ff685e0056141494c541438dae2a570f5997259e",
+      "publishedAtLabel": "Feb 4"
+    },
+    {
+      "id": 17949,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "Ej\u00e9rcito: detectaron caso de viruela del mono pr\u00f3ximo a contingente uruguayo en el Congo",
+      "description": "Un soldado desmovilizado de las Fardc present\u00f3 s\u00edntomas; los cascos azules tienen contacto \u201cmuy limitado\u201d con ese tipo de refugiados. Un soldado desmovilizado de las Fardc present\u00f3 s\u00edntomas; los cascos azules tienen contacto \u201cmuy limitado\u201d con ese tipo de ref\u2026",
+      "url": "https://www.montevideo.com.uy/Noticias/Ejercito-detectaron-caso-de-viruela-del-mono-proximo-a-contingente-uruguayo-en-el-Congo-uc914029",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202210/_W933_80/819114.jpg",
+      "publishedAt": "2025-02-04 15:21:00",
+      "content": "Despu\u00e9s de que la agencia de salud p\u00fablica de la Uni\u00f3n Africana (UA) alertara del riesgo de expansi\u00f3n de la mpox antes conocida como viruela del mono en la ciudad congole\u00f1a de Goma, tomada la seman\u2026 [+1596 chars]",
+      "retrievedAt": "2025-02-05 19:05:43.358752",
+      "internal_id": "f91d9b3274037b10e1b52f8984869123f8758522fddcb0cc6357a34683af3079",
+      "publishedAtLabel": "Feb 4"
+    },
+    {
+      "id": 17944,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "El ECDC notifica m\u00e1s de 100.000 casos de dengue y 5.000 de chikungunya en todo el mundo en enero",
+      "description": "El Centro Europeo para la Prevenci\u00f3n y el Control de Enfermedades (ECDC) ha notificado m\u00e1s de 100.000 casos de dengue y 10 muertes relacionadas con la enfermedad, as\u00ed como m\u00e1s de 5.000 infecciones por el virus Chikungunya y dos muertes asociadas durante el me\u2026",
+      "url": "https://www.infosalus.com/salud-investigacion/noticia-ecdc-notifica-mas-100000-casos-dengue-5000-chikungunya-todo-mundo-enero-20250204150406.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20250204150406_1200.jpg",
+      "publishedAt": "2025-02-04 14:04:06",
+      "content": "MADRID 4 Feb. (EUROPA PRESS) - El Centro Europeo para la Prevenci\u00f3n y el Control de Enfermedades (ECDC) ha notificado m\u00e1s de 100.000 casos de dengue y 10 muertes relacionadas con la enfermedad, as\u2026 [+2116 chars]",
+      "retrievedAt": "2025-02-05 19:05:41.977523",
+      "internal_id": "99606f4d43d7b85cb577c42c497608ff2b33dec98b6313ac965015ef0eac0b08",
+      "publishedAtLabel": "Feb 4"
+    },
+    {
+      "id": 17945,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Mun Hua Tan, Kathryn E. Tiedje, Qian Feng, Qi Zhan, Mercedes Pascual, Heejung Shim, Yao-ban Chan, Karen P. Day",
+      "title": "A paradoxical population structure of var DBL\u03b1 types in Africa",
+      "description": "Author summary The World Health Organisation reported 233 million clinical cases in the African region in 2022, accounting for 94% of global malaria cases. The var multigene family encodes an important virulence factor of the dominant malaria parasite, Plasmo\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012813",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1012813.g005&size=inline",
+      "publishedAt": "2025-02-04 14:00:00",
+      "content": "Abstract The var multigene family encodes Plasmodium falciparum erythrocyte membrane protein 1 (PfEMP1), central to host-parasite interactions. Genome structure studies have identified three major g\u2026 [+71016 chars]",
+      "retrievedAt": "2025-02-05 19:05:42.685688",
+      "internal_id": "bc5eaa3cf0cbb7206dbcf577793332a6ed74f17bed14f9c028d1731e3a012439",
+      "publishedAtLabel": "Feb 4"
+    },
+    {
+      "id": 17936,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Wonkette.com",
+      "author": "Marcie Jones",
+      "title": "RFK Jr. Supporters Bolster His Nomination With Letter Signed By Crackpots And Quacks",
+      "description": "Who's ready to make measles great again?",
+      "url": "https://www.wonkette.com/p/rfk-jr-supporters-bolster-his-nomination",
+      "urlToImage": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0ff90511-0ba1-4117-bddb-a787eb3ac735_1502x842.png",
+      "publishedAt": "2025-02-04 13:55:07",
+      "content": "Oh boy, Senator Mike Crapo (yes, thats his real name) says the Senate Finance Committee is going to vote today on if they want to advance the guy who ran over Gentle Ben and put baby birds in a blend\u2026 [+6103 chars]",
+      "retrievedAt": "2025-02-05 19:05:40.802230",
+      "internal_id": "22f55dcea4ec00827884f1c5b75856ada35e3328cbe47c112a2c77acbfd06da1",
+      "publishedAtLabel": "Feb 4"
+    },
+    {
+      "id": 17943,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "F\u00e1bia Oliveira",
+      "title": "Kevinho faz desabafo ap\u00f3s suspeita de dengue: \u201cN\u00e3o passou a dor\u201d",
+      "description": "O cantor Kevinho usou os stories do Instagram, na segunda-feira (3/2), para contar que precisou ir ao hospital ao se sentir mal",
+      "url": "https://www.metropoles.com/colunas/fabia-oliveira/kevinho-faz-desabafo-apos-suspeita-de-dengue-nao-passou-a-dor",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2025/02/04094044/capa-2435.jpg",
+      "publishedAt": "2025-02-04 12:48:37",
+      "content": "Kevinho teve uma dor de cabe\u00e7a muito forte, na segunda-feira (3/2), e precisou ir ao hospital. O cantor, que foi atendido na emerg\u00eancia do Hospital Israelita Albert Einstein, em S\u00e3o Paulo, revelou os\u2026 [+968 chars]",
+      "retrievedAt": "2025-02-05 19:05:41.940847",
+      "internal_id": "d5df3ad29ac72e147b0a3a09d85010382622e9dbceca85b05cdfdd1712cabc16",
+      "publishedAtLabel": "Feb 4"
+    },
+    {
+      "id": 17950,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Yap Boum, Professor in the faculty of Medicine, Mbarara University of Science and Technology",
+      "title": "Mpox en RDC : les habitants d\u2019un bidonville de Kinshasa en premi\u00e8re ligne",
+      "description": "Longtemps consid\u00e9r\u00e9 comme un virus limit\u00e9 aux zones rurales, le mpox a d\u00e9sormais atteint Kinshasa, la capitale de la R\u00e9publique d\u00e9mocratique du Congo.",
+      "url": "https://theconversation.com/mpox-en-rdc-les-habitants-dun-bidonville-de-kinshasa-en-premiere-ligne-248564",
+      "urlToImage": "https://images.theconversation.com/files/645487/original/file-20250129-15-tmjt4a.jpg?ixlib=rb-4.1.0&rect=0%2C18%2C667%2C333&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2025-02-04 12:29:28",
+      "content": "En marchant dans les rues bond\u00e9es du quartier de Pakadjuma \u00e0 Kinshasa, capitale de la R\u00e9publique d\u00e9mocratique du Congo, je suis frapp\u00e9 par l'atmosph\u00e8re vibrante qui m'entoure. Les enfants jouent jo\u2026 [+8223 chars]",
+      "retrievedAt": "2025-02-05 19:05:43.372049",
+      "internal_id": "2f556615a1d8973508c14da9a43254389ee71a8be8d666e6d96914e61485c852",
+      "publishedAtLabel": "Feb 4"
+    },
+    {
+      "id": 17940,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Bruno Caniato",
+      "title": "Casos de dengue no Brasil crescem quase 200% em janeiro",
+      "description": "Mudan\u00e7as clim\u00e1ticas, falhas de comunica\u00e7\u00e3o e falta de articula\u00e7\u00e3o pol\u00edtica agravam o quadro da doen\u00e7a e dificultam o combate ao Aedes aegypti",
+      "url": "https://veja.abril.com.br/coluna/maquiavel/casos-de-dengue-dobram-em-janeiro-e-mortes-podem-chegar-a-239-em-2025",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2019/05/mundo-dengue-aedes-aegypti-20110116-009.jpg?quality=70&strip=info&crop=1&resize=1080,565",
+      "publishedAt": "2025-02-04 11:10:00",
+      "content": "F\u00e9rias: Assine a partir de 1,50/semana Aedes aegypti: mosquito transmissor da dengue (Joao Paulo Burini/Getty Images) Continua ap\u00f3s publicidade Os casos de dengue no Brasil quase triplicaram entre\u2026 [+4293 chars]",
+      "retrievedAt": "2025-02-05 19:05:41.883403",
+      "internal_id": "f559325f3a59e01c074263d18e1a5ffcb84573988d48492f3a10b2a9ff2d3807",
+      "publishedAtLabel": "Feb 4"
+    },
+    {
+      "id": 17942,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "NSC Total",
+      "title": "Tecnologia alem\u00e3 ajuda SC a detectar casos graves de dengue",
+      "description": "Trinta e tr\u00eas munic\u00edpios catarinenses receberam os aparelhos. A tecnologia, de origem alem\u00e3, deve chegar at\u00e9 fevereiro",
+      "url": "https://www.metropoles.com/brasil/tecnologia-alema-ajuda-sc-a-detectar-casos-graves-de-dengue",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2025/02/04075438/Tecnologia-alema-ajuda-SC-a-detectar-casos-graves-de-dengue.jpg",
+      "publishedAt": "2025-02-04 11:03:30",
+      "content": "A um custo total de R$ 7,9 milh\u00f5es, Santa Catarina ganhou um refor\u00e7o no combate \u00e0 dengue em 2025. Cerca de 800 aparelhos, que v\u00e3o identificar a gravidade de pacientes diagnosticados com a doen\u00e7a, ser\u2026 [+620 chars]",
+      "retrievedAt": "2025-02-05 19:05:41.933431",
+      "internal_id": "839df68544232dd964c42113acb11778e33d9634923d6c6d748c96507fceaabd",
+      "publishedAtLabel": "Feb 4"
+    },
+    {
+      "id": 17951,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "bbc-news",
+      "source_name": "BBC News",
+      "author": "Bbc News",
+      "title": "NHS opens a further 12 mpox vaccination centres in England",
+      "description": "The new centres offer jabs to people classed as at a higher risk of getting the infection.",
+      "url": "https://www.bbc.co.uk/news/articles/clyn0lpyd7no",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b257/live/0f114fd0-e2dc-11ef-a819-277e390a7a08.jpg",
+      "publishedAt": "2025-02-04 10:41:06",
+      "content": "Symptoms of mpox include a skin rash with blisters, spots and ulcers that can appear anywhere on the body, fever, headaches, backache and muscle aches. A rash usually appears between one and five da\u2026 [+642 chars]",
+      "retrievedAt": "2025-02-05 19:05:43.391593",
+      "internal_id": "e9b2a14af343675936eeb6208d5f47db9f05eceeea38f7827883d925c425bd9b",
+      "publishedAtLabel": "Feb 4"
+    },
+    {
+      "id": 17948,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "taz.de",
+      "author": "Simone Schlindwein",
+      "title": "Trump friert USAID ein: F\u00fcr Afrika besonders bitter",
+      "description": "Mpox, Ebola, Marburg-Virus \u2013 alles wieder auf dem Vormarsch. Dass jetzt US-Zahlungen f\u00fcr die Gesundheitsversorgung ausbleiben, ist ein Risiko f\u00fcr die ganze Welt.",
+      "url": "https://taz.de/Trump-friert-USAID-ein/!6067481/",
+      "urlToImage": "https://taz.de/picture/7509345/1200/375938191-1.jpeg",
+      "publishedAt": "2025-02-04 10:37:00",
+      "content": "Mpox, Ebola, Marburg-Virus \u2013 alles wieder auf dem Vormarsch. Dass jetzt US-Zahlungen f\u00fcr die Gesundheitsversorgung ausbleiben, ist ein Risiko f\u00fcr die ganze Welt. mehr...",
+      "retrievedAt": "2025-02-05 19:05:43.338736",
+      "internal_id": "d54bd690a77205964336fa8f831cdd390ba67c9f8c179732c1d1a7ff60e84dc0",
+      "publishedAtLabel": "Feb 4"
+    },
+    {
+      "id": 17947,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Globalsecurity.org",
+      "author": "John Pike",
+      "title": "Eastern DR Congo crisis increasing risk of mpox transmission, WHO chief warns",
+      "description": "The worsening security situation in the eastern Democratic Republic of the Congo (DRC) has forced many mpox patients to flee treatment centres, increasing the risk of transmission, the UN health agency (WHO) warned on Monday.",
+      "url": "https://www.globalsecurity.org/military/library/news/2025/02/mil-250203-unnews03.htm",
+      "urlToImage": null,
+      "publishedAt": "2025-02-04 09:03:56",
+      "content": "By Vibhu Mishra3 February 2025 - The worsening security situation in the eastern Democratic Republic of the Congo (DRC) has forced many mpox patients to flee treatment centres, increasing the risk of\u2026 [+3425 chars]",
+      "retrievedAt": "2025-02-05 19:05:43.319192",
+      "internal_id": "6634dddfb18f79c298c142ea5d1b208de13f449ed1926823396cf6d13324ea18",
+      "publishedAtLabel": "Feb 4"
+    },
+    {
+      "id": 17938,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Hi-news.ru",
+      "author": "\u041b\u044e\u0431\u043e\u0432\u044c \u0421\u043e\u043a\u043e\u0432\u0438\u043a\u043e\u0432\u0430",
+      "title": "\u0412 \u0418\u043d\u0434\u0438\u0438 \u0432\u0441\u043f\u044b\u0448\u043a\u0430 \u043d\u0435\u0438\u0437\u0432\u0435\u0441\u0442\u043d\u043e\u0439 \u0431\u043e\u043b\u0435\u0437\u043d\u0438. \u0427\u0442\u043e \u043d\u0443\u0436\u043d\u043e \u0437\u043d\u0430\u0442\u044c?",
+      "description": "\u041f\u0440\u0438\u0447\u0438\u043d\u043e\u0439 \u0437\u0430\u0433\u0430\u0434\u043e\u0447\u043d\u043e\u0439 \u0441\u043c\u0435\u0440\u0442\u0438 17 \u0447\u0435\u043b\u043e\u0432\u0435\u043a \u0432 \u0438\u043d\u0434\u0438\u0439\u0441\u043a\u043e\u0439 \u0434\u0435\u0440\u0435\u0432\u043d\u0435 \u0441\u0442\u0430\u043b \u043e\u0442\u0435\u043a \u043c\u043e\u0437\u0433\u0430. \u0420\u0430\u0441\u0441\u043a\u0430\u0437\u044b\u0432\u0430\u0435\u043c, \u0447\u0442\u043e \u043f\u0440\u043e\u0438\u0437\u043e\u0448\u043b\u043e \u0438 \u043f\u043e\u0447\u0435\u043c\u0443 \u0437\u0430 \u0441\u0438\u0442\u0443\u0430\u0446\u0438\u0435\u0439 \u0441\u043b\u0435\u0434\u0438\u0442 \u0420\u043e\u0441\u043f\u043e\u0442\u0440\u0435\u0431\u043d\u0430\u0434\u0437\u043e\u0440",
+      "url": "https://hi-news.ru/eto-interesno/v-indii-vspyshka-neizvestnoj-bolezni-chto-nuzhno-znat.html",
+      "urlToImage": "https://hi-news.ru/wp-content/uploads/2025/02/rajouri_deaths-1000x526.jpeg",
+      "publishedAt": "2025-02-04 07:30:25",
+      "content": ", , , : , , , . , . 38 , 17 ( 13 ). , , . , . 17 . : akm-img-a-in.tosshub.com ? COVID-19 . H5N1 , , . , , : 2023-2024 , (Aedes aegypti). . , . : fleetstreetclinic.com ( ) , , . 2025 . . .\u2026 [+322 chars]",
+      "retrievedAt": "2025-02-05 19:05:41.340550",
+      "internal_id": "16ab433fdd89c5aea5a90692f7d577852550bcfe6504817513e2d6681a22befe",
+      "publishedAtLabel": "Feb 4"
+    },
     {
       "id": 17922,
       "query": [
@@ -21742,96 +22031,6 @@
       "content": "Doniesienia z USA: Ameryka\u0144skie s\u0142u\u017cby epidemiologiczne poda\u0142y, \u017ce 65-letni m\u0119\u017cczyzna ma rozleg\u0142\u0105 infekcj\u0119. Do zaka\u017cenia mia\u0142o doj\u015b\u0107 w wyniku kontaktu z przydomowym drobiem - jest to pierwszy taki pr\u2026 [+1099 chars]",
       "retrievedAt": "2024-12-24 07:06:19.729663",
       "internal_id": "70b65642f13b1dbea4d5c7ad207de5895b22c8c856745b39e910bd6719b57392",
-      "publishedAtLabel": "Dec 22"
-    },
-    {
-      "id": 16720,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "la-nacion",
-      "source_name": "La Nacion",
-      "author": null,
-      "title": "La Ciudad habilita m\u00e1s turnos para la vacunaci\u00f3n contra el dengue",
-      "description": "En esta etapa, los j\u00f3venes de entre 25 y 29 a\u00f1os podr\u00e1n darse su primera dosis y los de entre 15 y 19 la segunda; las inscripciones arrancar\u00e1n este 23 de diciembre y los turnos estar\u00e1n disponibles a partir del 2 de enero",
-      "url": "https://www.lanacion.com.ar/politica/la-ciudad-habilita-mas-turnos-para-la-vacunacion-contra-el-dengue-nid22122024/",
-      "urlToImage": "https://resizer.glanacion.com/resizer/v2/la-ciudad-avanza-con-la-vacunacion-contra-el-QY3H2227OZDAHJGQRBIVPTHOLM.JPG?auth=0c64d49d3c33ef1bf88bed08d1f139ef8088dbcf65c8530bc62604ac602bd381&width=1200&quality=70&smart=false&height=799",
-      "publishedAt": "2024-12-22 18:33:36",
-      "content": "El Ministerio de Salud de la Ciudad de Buenos Aires anunci\u00f3 que este lunes 23 de diciembre habilitar\u00e1 nuevos turnos para vacunarse contra el dengue. Se trata de un plan integral de prevenci\u00f3n contra \u2026 [+4055 chars]",
-      "retrievedAt": "2024-12-23 19:05:33.913146",
-      "internal_id": "304f4ea1442b3ed4a4d9c03654f59508d60b5cd11aaa3419864d9d1f07752a12",
-      "publishedAtLabel": "Dec 22"
-    },
-    {
-      "id": 16719,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Olhardigital.com.br",
-      "author": "Leandro Costa Criscuolo",
-      "title": "Fen\u00f4menos clim\u00e1ticos podem ter influ\u00eancia em alta de casos de dengue",
-      "description": "Pesquisadores relacionam fen\u00f4menos clim\u00e1ticos a surtos de dengue e alertam para a necessidade de pol\u00edticas p\u00fablicas de preven\u00e7\u00e3o O post Fen\u00f4menos clim\u00e1ticos podem ter influ\u00eancia em alta de casos de dengue apareceu primeiro em Olhar Digital.",
-      "url": "https://olhardigital.com.br/2024/12/22/medicina-e-saude/fenomenos-climaticos-podem-ter-influencia-em-alta-de-casos-de-dengue/",
-      "urlToImage": "https://img.odcdn.com.br/wp-content/uploads/2024/12/dengue.jpg",
-      "publishedAt": "2024-12-22 15:06:00",
-      "content": "Um levantamento realizado por pesquisadores da Fiocruz e do Procam (USP) revelou que os fen\u00f4menos clim\u00e1ticos El Ni\u00f1o e La Ni\u00f1a est\u00e3o diretamente relacionados ao aumento de casos de dengue registrados\u2026 [+1389 chars]",
-      "retrievedAt": "2024-12-23 19:05:33.875893",
-      "internal_id": "d2ca5080df4e44ab508c9471f8e72de151f63ef8f7cc5ffbd93971b0ba338c5c",
-      "publishedAtLabel": "Dec 22"
-    },
-    {
-      "id": 16718,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Haber7.com",
-      "author": "Hakan Erdi Uluda\u011f",
-      "title": "ABD'de acil durum ilan edildi! Ku\u015f gribi nedir, belirtileri neler?",
-      "description": "ABD'nin Kaliforniya eyaletinde ku\u015f gribi (H5N1) vakalar\u0131nda ciddi bir art\u0131\u015f g\u00f6zlemlendi. Vakalar\u0131n artmas\u0131yla birlikte ABD'de k\u0131rm\u0131z\u0131 durum ilan edildi. Peki ku\u015f gribi belirtileri nedir? A\u015f\u0131s\u0131 var m\u0131?",
-      "url": "https://www.haber7.com/guncel/haber/3489889-abdde-acil-durum-ilan-edildi-kus-gribi-nedir-belirtileri-neler",
-      "urlToImage": "https://i12.haber7.net//haber/haber7/og_image/2024/51/abdde_acil_durum_ilan_edildi_kus_gribi_nedir_belirtileri_neler_1734875405_689.jpg",
-      "publishedAt": "2024-12-22 14:03:00",
-      "content": "ABD, bir s\u00fcredir artan ku gribi vakalaryla ba etmeye \u00e7alyor. Kaliforniya Valilik Ofisi tarafndan yaplan a\u00e7klamada, 16 eyaletteki b\u00fcy\u00fckba hayvanlarda H5N1 vir\u00fcs\u00fcn\u00fcn tespit edildii, yaylm kontrol altna\u2026 [+836 chars]",
-      "retrievedAt": "2024-12-23 19:05:33.369605",
-      "internal_id": "fa2f502d2d1b4b0360df4cd7c9c2ccfb869d9f5405ec081d29a4b03ca43f7089",
-      "publishedAtLabel": "Dec 22"
-    },
-    {
-      "id": 16729,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Mustsharenews.com",
-      "author": "Jeremy Lee",
-      "title": "H5N1 poses 'highest risk' of becoming next pandemic, S'pore health authorities monitoring situation",
-      "description": "H5N1 poses the \"highest risk\" of becoming the next pandemic and Singapore's health authorities are monitoring it, said the Health Minister.",
-      "url": "https://mustsharenews.com/h5n1-pandemic-risk/",
-      "urlToImage": "https://mustsharenews.com/wp-content/uploads/2024/12/H5N1-poses-highest-risk-of-becoming-next-pandemic-Spore-health-authorities-monitoring-situation.jpg",
-      "publishedAt": "2024-12-22 11:38:13",
-      "content": "H5N1, also known as bird flu, poses the \u201chighest risk\u201d of becoming the next pandemic, with the Singapore health authorities monitoring the situation. This was revealed in a Facebook post by Health M\u2026 [+3494 chars]",
-      "retrievedAt": "2024-12-24 07:06:19.792592",
-      "internal_id": "21c63bceb7bf8d67dac233ecc9c702e486ef118176488b5b7b43ef28cefb1343",
-      "publishedAtLabel": "Dec 22"
-    },
-    {
-      "id": 16717,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Www.dn.se",
-      "author": "Maria Gunther",
-      "title": "Maria Gunther: Lyckliga i alla sina dagar \u2013 men m\u00e5r prinsessorna verkligen bra?",
-      "description": "\u00c4ven Disneyprinsessor \u00e4r utsatta f\u00f6r allvarliga h\u00e4lsorisker, som isolering, depression, diabetes, nyckelbensfraktur, lungcancer, rabies och skallighet.",
-      "url": "https://www.dn.se/varlden/maria-gunther-lyckliga-i-alla-sina-dagar-men-mar-prinsessorna-verkligen-bra/",
-      "urlToImage": "https://static.bonniernews.se/gcs/bilder/dn-mly/2e0be684-434d-476a-b61a-c9a3a3c4c015.jpeg?io=1&width=1024&crop=16:9,smart",
-      "publishedAt": "2024-12-22 08:56:33",
-      "content": "Stackars Askungen, suckar musen Gus p\u00e5 julafton varje \u00e5r, i Kalle Anka och hans v\u00e4nner \u00f6nskar God Jul. Och kanske har han mer r\u00e4tt \u00e4n vi anat. Det har l\u00e4nge funnits farh\u00e5gor, bland forskare, debatt\u2026 [+3615 chars]",
-      "retrievedAt": "2024-12-23 19:05:32.336378",
-      "internal_id": "04e8cdc160a10cab0ce0e647c6450d19c2b0836c4688ebf7ca0ce5754d172dd5",
       "publishedAtLabel": "Dec 22"
     }
   ]

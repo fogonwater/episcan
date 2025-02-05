@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 19
-- **Last harvest:** 2025-02-05 07:06
-- **Most recent article:** 2025-02-04 03:34:27
+- **New articles in last harvest:** 16
+- **Last harvest:** 2025-02-05 19:05
+- **Most recent article:** 2025-02-04 16:53:02
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-52 | 24-53 | 25-1 | 25-2 | 25-3 | 25-4 | 25-5 | 25-6 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| h5n1 | 64 | 27 | 27 | 131 | 65 | 31 | 51 | 18 | 414 |
-| mpox | 34 | 2 | 6 | 91 | 34 | 23 | 22 | 8 | 220 |
-| dengue | 24 | 6 | 12 | 41 | 29 | 37 | 24 | 10 | 183 |
-| malaria | 30 | 15 | 10 | 30 | 18 | 19 | 30 | 5 | 157 |
-| measles | 11 | 3 | 6 | 6 | 9 | 10 | 13 | 11 | 69 |
+| h5n1 | 62 | 27 | 27 | 131 | 65 | 31 | 51 | 20 | 414 |
+| mpox | 34 | 2 | 6 | 91 | 34 | 23 | 22 | 13 | 225 |
+| dengue | 22 | 6 | 12 | 41 | 29 | 37 | 24 | 15 | 186 |
+| malaria | 30 | 15 | 10 | 30 | 18 | 19 | 30 | 6 | 158 |
+| measles | 11 | 3 | 6 | 6 | 9 | 10 | 13 | 13 | 71 |
 | hpai | 12 | 1 | 4 | 18 | 12 | 11 | 6 | 2 | 66 |
-| chikungunya | 0 | 2 | 0 | 7 | 7 | 10 | 9 | 1 | 36 |
+| chikungunya | 0 | 2 | 0 | 7 | 7 | 10 | 9 | 3 | 38 |
 | zika | 2 | 0 | 0 | 15 | 5 | 2 | 8 | 0 | 32 |
-| rabies | 8 | 1 | 1 | 2 | 6 | 7 | 6 | 0 | 31 |
+| rabies | 7 | 1 | 1 | 2 | 6 | 7 | 6 | 0 | 30 |
 | meningitis | 3 | 1 | 2 | 0 | 2 | 3 | 8 | 1 | 20 |
 | pertussis | 6 | 0 | 1 | 2 | 0 | 1 | 0 | 1 | 11 |
 | yersinia | 6 | 0 | 0 | 3 | 2 | 0 | 0 | 0 | 11 |
@@ -41,6 +41,16 @@ Source: [News API](https://newsapi.org/)
 - [The strange religion of vaccine worship](https://www.wnd.com/2025/02/the-strange-religion-of-vaccine-worship/) (Wnd.com)
 
 ## 25-6 (mpox)
+
+- [Ejército: detectaron caso de viruela del mono próximo a contingente uruguayo en el Congo](https://www.montevideo.com.uy/Noticias/Ejercito-detectaron-caso-de-viruela-del-mono-proximo-a-contingente-uruguayo-en-el-Congo-uc914029) (Montevideo.com.uy)
+
+- [Mpox en RDC : les habitants d’un bidonville de Kinshasa en première ligne](https://theconversation.com/mpox-en-rdc-les-habitants-dun-bidonville-de-kinshasa-en-premiere-ligne-248564) (The Conversation Africa)
+
+- [NHS opens a further 12 mpox vaccination centres in England](https://www.bbc.co.uk/news/articles/clyn0lpyd7no) (BBC News)
+
+- [Trump friert USAID ein: Für Afrika besonders bitter](https://taz.de/Trump-friert-USAID-ein/!6067481/) (taz.de)
+
+- [Eastern DR Congo crisis increasing risk of mpox transmission, WHO chief warns](https://www.globalsecurity.org/military/library/news/2025/02/mil-250203-unnews03.htm) (Globalsecurity.org)
 
 - [Bavarian Nordic Reports Preliminary 2024 Financial Results in Line with Upgraded Guidance and Guides for 2025](https://www.globenewswire.com/news-release/2025/02/03/3019770/0/en/Bavarian-Nordic-Reports-Preliminary-2024-Financial-Results-in-Line-with-Upgraded-Guidance-and-Guides-for-2025.html) (GlobeNewswire)
 
@@ -63,6 +73,10 @@ Source: [News API](https://newsapi.org/)
 - [Danmark har ikke tabt ved VM siden 2017: 'Der var jeg lige kommet tilbage fra meningitis'](https://www.dr.dk/sporten/haandbold/vm/danmark-har-ikke-tabt-ved-vm-siden-2017-der-var-jeg-lige-kommet-tilbage-fra) (Www.dr.dk)
 
 ## 25-6 (measles)
+
+- [New Mexico health officials warn of potential measles threat](https://www.koat.com/article/new-mexico-measles-risk/63664724) (KOAT New Mexico)
+
+- [RFK Jr. Supporters Bolster His Nomination With Letter Signed By Crackpots And Quacks](https://www.wonkette.com/p/rfk-jr-supporters-bolster-his-nomination) (Wonkette.com)
 
 - [RFK Jr. misled the US Senate on measles deaths, Samoa's health chief says](https://abcnews.go.com/International/wireStory/rfk-jr-misled-us-senate-measles-deaths-samoas-118410888) (ABC News)
 
@@ -88,6 +102,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-6 (malaria)
 
+- [A paradoxical population structure of var DBLα types in Africa](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012813) (Plos.org)
+
 - [Nigerian govt reacts as Trump's policies impact country's health programmes](https://www.premiumtimesng.com/news/top-news/771539-nigerian-govt-reacts-as-trumps-policies-impact-countrys-health-programmes.html) (Premium Times)
 
 - [‘A Gift To Our Enemies’: Ex-Top USAID Official Tells Fox’s Jennifer Griffin Why ‘It’s Insane And Cruel to Break This Agency’](https://www.mediaite.com/news/a-gift-to-our-enemies-ex-top-usaid-official-tells-foxs-jennifer-griffin-why-its-insane-and-cruel-to-break-this-agency/) (Mediaite)
@@ -109,6 +125,10 @@ Source: [News API](https://newsapi.org/)
 - [Kuş gribi salgını ABD'de yumurta fiyatlarını uçurdu](https://www.haberturk.com/kus-gribi-salgini-abd-de-yumurta-fiyatlarini-ucurdu-3761928-ekonomi) (Haberturk.com)
 
 ## 25-6 (h5n1)
+
+- [How Trump's Admin Will Make Bird Flu Worse](https://www.teenvogue.com/story/bird-flus-food-system-trumps-anti-public-health) (Teen Vogue)
+
+- [В Индии вспышка неизвестной болезни. Что нужно знать?](https://hi-news.ru/eto-interesno/v-indii-vspyshka-neizvestnoj-bolezni-chto-nuzhno-znat.html) (Hi-news.ru)
 
 - [백스다임, ‘고병원성 조류 인플루엔자 백신 신속 개발’ 4자 협력 MOU 체결](https://www.venturesquare.net/956133) (Venturesquare.net)
 
@@ -148,6 +168,16 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-6 (dengue)
 
+- [Dengue: saiba sobre transmissão e principais sintomas da doença](https://www.metropoles.com/saude/dengue-saiba-transmissao-principais-sintomas) (Metropoles.com)
+
+- [El ECDC notifica más de 100.000 casos de dengue y 5.000 de chikungunya en todo el mundo en enero](https://www.infosalus.com/salud-investigacion/noticia-ecdc-notifica-mas-100000-casos-dengue-5000-chikungunya-todo-mundo-enero-20250204150406.html) (Infosalus.com)
+
+- [Kevinho faz desabafo após suspeita de dengue: “Não passou a dor”](https://www.metropoles.com/colunas/fabia-oliveira/kevinho-faz-desabafo-apos-suspeita-de-dengue-nao-passou-a-dor) (Metropoles.com)
+
+- [Casos de dengue no Brasil crescem quase 200% em janeiro](https://veja.abril.com.br/coluna/maquiavel/casos-de-dengue-dobram-em-janeiro-e-mortes-podem-chegar-a-239-em-2025) (Abril.com.br)
+
+- [Tecnologia alemã ajuda SC a detectar casos graves de dengue](https://www.metropoles.com/brasil/tecnologia-alema-ajuda-sc-a-detectar-casos-graves-de-dengue) (Metropoles.com)
+
 - [Número de casos de morte por dengue em São Paulo em janeiro é preocupante, diz Saúde](https://valor.globo.com/brasil/noticia/2025/02/03/numero-de-casos-de-morte-por-dengue-em-sao-paulo-em-janeiro-e-preocupante-diz-saude.ghtml) (Globo)
 
 - [Prefeitura de Porto Alegre aplica inseticida em quatro ruas do bairro Cristal nesta terça-feira](https://www.terra.com.br/noticias/prefeitura-de-porto-alegre-aplica-inseticida-em-quatro-ruas-do-bairro-cristal-nesta-terca-feira,de5ed8a7c445234a393d44332f143db5x0zcvw27.html) (Terra.com.br)
@@ -169,6 +199,10 @@ Source: [News API](https://newsapi.org/)
 - [Baguio: Kaso ng Dengue sa lungsod ng Baguio tumaas o lumaki pa ng 646 por siento](https://rpnradio.com/baguio-kaso-ng-dengue-sa-lungsod-ng-baguio-tumaas-o-lumaki-pa-ng-646-por-siento/) (Rpnradio.com)
 
 ## 25-6 (chikungunya)
+
+- [Press release: IXCHIQ vaccine approved to protect adults against Chikungunya](https://www.gov.uk/government/news/ixchiq-vaccine-approved-to-protect-adults-against-chikungunya) (Www.gov.uk)
+
+- [El ECDC notifica más de 100.000 casos de dengue y 5.000 de chikungunya en todo el mundo en enero](https://www.infosalus.com/salud-investigacion/noticia-ecdc-notifica-mas-100000-casos-dengue-5000-chikungunya-todo-mundo-enero-20250204150406.html) (Infosalus.com)
 
 - [Clinical manifestations associated with the chronic phase of Chikungunya Fever: A systematic review of prevalence](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012810) (Plos.org)
 
@@ -2336,8 +2370,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Dog Meat Restaurant Owner Dies Just Days After Discovering He Has Rabies](https://www.ibtimes.com/dog-meat-restaurant-owner-dies-rabies-3756852) (International Business Times)
 
-- [Maria Gunther: Lyckliga i alla sina dagar – men mår prinsessorna verkligen bra?](https://www.dn.se/varlden/maria-gunther-lyckliga-i-alla-sina-dagar-men-mar-prinsessorna-verkligen-bra/) (Www.dn.se)
-
 ## 24-52 (pertussis)
 
 - [В США зафиксировали резкий рост коклюша — самый высокий за десятилетие](https://www.ferra.ru/news/health/v-ssha-zafiksirovali-rezkii-rost-koklyusha-samyi-vysokii-za-desyatiletie-27-12-2024.htm) (Ferra.ru)
@@ -2674,10 +2706,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Pierwszy tak ciężki przypadek ptasiej grypy w USA. Stan 65-latka jest krytyczny. 61 osób zakażonych](https://wiadomosci.gazeta.pl/wiadomosci/7,114881,31566135,p.html) (Gazeta.pl)
 
-- [ABD'de acil durum ilan edildi! Kuş gribi nedir, belirtileri neler?](https://www.haber7.com/guncel/haber/3489889-abdde-acil-durum-ilan-edildi-kus-gribi-nedir-belirtileri-neler) (Haber7.com)
-
-- [H5N1 poses 'highest risk' of becoming next pandemic, S'pore health authorities monitoring situation](https://mustsharenews.com/h5n1-pandemic-risk/) (Mustsharenews.com)
-
 ## 24-52 (dengue)
 
 - [“Consultá sin demoras si tenés síntomas”: MSP insta a cuidarse del dengue en verano](https://www.montevideo.com.uy/Salud/-Consulta-sin-demoras-si-tenes-sintomas--MSP-insta-a-cuidarse-del-dengue-en-verano-uc910677) (Montevideo.com.uy)
@@ -2723,7 +2751,3 @@ Source: [News API](https://newsapi.org/)
 - [Cuál es la enfermedad que se expande en Florida y preocupa a las autoridades: hay casos en Tampa Bay](https://www.lanacion.com.ar/estados-unidos/florida/cual-es-la-enfermedad-que-se-expande-en-florida-y-preocupa-a-las-autoridades-hay-casos-en-tampa-bay-nid22122024/) (La Nacion)
 
 - [Common bacterium protects Brazilian city from dengue storm](https://www.digitaljournal.com/tech-science/common-bacterium-protects-brazilian-city-from-dengue-storm/article) (Digital Journal)
-
-- [La Ciudad habilita más turnos para la vacunación contra el dengue](https://www.lanacion.com.ar/politica/la-ciudad-habilita-mas-turnos-para-la-vacunacion-contra-el-dengue-nid22122024/) (La Nacion)
-
-- [Fenômenos climáticos podem ter influência em alta de casos de dengue](https://olhardigital.com.br/2024/12/22/medicina-e-saude/fenomenos-climaticos-podem-ter-influencia-em-alta-de-casos-de-dengue/) (Olhardigital.com.br)
