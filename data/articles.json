@@ -1,8 +1,261 @@
 {
-  "last_updated": "2025-02-06 07:06",
-  "count_articles_total": 1234,
-  "count_articles_new": 8,
+  "last_updated": "2025-02-06 19:05",
+  "count_articles_total": 1243,
+  "count_articles_new": 14,
   "articles": [
+    {
+      "id": 17970,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Adeyinka Adedipe",
+      "title": "Okpehbolo unveils free malaria treatment in Edo",
+      "description": "Edo State Governor, Monday Okpebholo, on Wednesday, flagged off free malaria testing, treatment and distribution of malaria drugs to combat the scourge in the state. Okpebholo was accompanied by his Deputy, Dennis Idahosa; Coordinator, Office of the First Lad\u2026",
+      "url": "https://punchng.com/okpehbolo-unveils-free-malaria-treatment-in-edo/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2024/11/13204307/Monday-Okpebholo-768x630.png",
+      "publishedAt": "2025-02-05 18:52:40",
+      "content": "Edo State Governor, Monday Okpebholo, on Wednesday, flagged off free malaria testing, treatment and distribution of malaria drugs to combat the scourge in the state. Okpebholo was accompanied by his\u2026 [+3165 chars]",
+      "retrievedAt": "2025-02-06 19:05:55.090210",
+      "internal_id": "3625d45266362f9aeca19d4b091978c511d67bb49a5b254b018c9bd0fa28c3b3",
+      "publishedAtLabel": "Feb 5"
+    },
+    {
+      "id": 17967,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "wired",
+      "source_name": "Wired",
+      "author": "Matt Reynolds",
+      "title": "\u2018Dengue Boy\u2019 Is the Weird, Fleshy Novel You Need Right Now",
+      "description": "Dengue Boy, a book about a humanoid mosquito taking his revenge in the dying years of planet Earth is unsettling and essential.",
+      "url": "https://www.wired.com/story/this-weird-fleshy-novel-is-exactly-what-you-need-right-now-dengue-boy-michael-nieva/",
+      "urlToImage": "https://media.wired.com/photos/67a26174a30fe8e58cb48fb4/191:100/w_1280,c_limit/mosquito-mutant-sci.jpg",
+      "publishedAt": "2025-02-05 18:12:54",
+      "content": "Evolution, ethnography, epidemicsthis is the soup from which Dengue Boy, a brilliantly strange new novel by the Argentine author Michel Nieva, emerges. The eponymous Dengue Boy is a mosquitohuman hyb\u2026 [+4618 chars]",
+      "retrievedAt": "2025-02-06 19:05:54.478978",
+      "internal_id": "8ebee127a7965f2878394a70aafa87a2d7c1ccd0d3c560dfcfebcd8bf0128d4b",
+      "publishedAtLabel": "Feb 5"
+    },
+    {
+      "id": 17963,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Levif.be",
+      "author": "Le Vif",
+      "title": "Un 3e foyer de grippe aviaire d\u00e9tect\u00e9 en province de Li\u00e8ge",
+      "description": "L'Agence f\u00e9d\u00e9rale pour la s\u00e9curit\u00e9 de la cha\u00eene alimentaire a d\u00e9cid\u00e9 de ne plus accorder d'agr\u00e9ments pour les rassemblements de volailles apr\u00e8s qu'un troisi\u00e8me foyer de grippe aviaire H5N1 hautement pathog\u00e8ne a \u00e9t\u00e9 d\u00e9tect\u00e9. The post Un 3e foyer de grippe avia\u2026",
+      "url": "https://www.levif.be/belgique/un-3e-foyer-de-grippe-aviaire-detecte-en-province-de-liege/",
+      "urlToImage": "https://img.static-rmg.be/a/view/q75/w1600/h836/7009711/belgaimage-83754525-jpg.jpg",
+      "publishedAt": "2025-02-05 17:59:27",
+      "content": "L\u2019Agence f\u00e9d\u00e9rale pour la s\u00e9curit\u00e9 de la cha\u00eene alimentaire a d\u00e9cid\u00e9 de ne plus accorder d\u2019agr\u00e9ments pour les rassemblements de volailles apr\u00e8s qu\u2019un troisi\u00e8me foyer de grippe aviaire H5N1 hautement \u2026 [+2191 chars]",
+      "retrievedAt": "2025-02-06 19:05:54.069856",
+      "internal_id": "26dabc837095dd2a93c7a90d9550d9ea96dec53b7ba3904198a1089f7637adcb",
+      "publishedAtLabel": "Feb 5"
+    },
+    {
+      "id": 17962,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "dh.be",
+      "author": "Belga Belga",
+      "title": "Un troisi\u00e8me foyer de grippe aviaire H5N1 d\u00e9tect\u00e9 en province de Li\u00e8ge",
+      "description": "Un troisi\u00e8me foyer de grippe aviaire de type H5N1 a \u00e9t\u00e9 d\u00e9tect\u00e9e chez un \u00e9leveur de volailles amateur \u00e0 Herstal en province de Li\u00e8ge, indique mercredi l'Agence f\u00e9d\u00e9rale pour la s\u00e9curit\u00e9 de la cha\u00eene alimentaire (Afsca). ...",
+      "url": "https://www.dhnet.be/regions/liege/2025/02/05/un-troisieme-foyer-de-grippe-aviaire-h5n1-detecte-en-province-de-liege-ZOQM4UHPUFH6FIB2G7XLW2AZWI/",
+      "urlToImage": "https://www.dhnet.be/resizer/v2/5RGHQUZ5OBE5JIX3OO2OCRTHJM.jpg?auth=44469b813d8b6c4895e28564844c07d95b8b07870e361ce22c7c7bcd8c929f05&width=1200&height=630&quality=85&focal=550%2C366&watermark=https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Fipmgroup%2FDZNGDE46VVGXRGHD3TEI5RB3GM.png%3A100%3A0%2C559",
+      "publishedAt": "2025-02-05 17:02:40",
+      "content": "L'Afsca rappelle, enfin, que les ufs et la viande de volaille ne pr\u00e9sentent aucun risque pour l'homme et peuvent \u00eatre consomm\u00e9s en toute s\u00e9curit\u00e9 Le virus de la grippe aviaire aurait mut\u00e9 dans l'org\u2026 [+869 chars]",
+      "retrievedAt": "2025-02-06 19:05:54.061686",
+      "internal_id": "8577bceeab09bc3483bf6fd7b13d5d029b45d79f0f7b7b2790e7b8e7e444ea8f",
+      "publishedAtLabel": "Feb 5"
+    },
+    {
+      "id": 17960,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Lalibre.be",
+      "author": "Belga Belga",
+      "title": "Un troisi\u00e8me foyer de grippe aviaire H5N1 d\u00e9tect\u00e9 en province de Li\u00e8ge",
+      "description": "Un troisi\u00e8me foyer de grippe aviaire de type H5N1 a \u00e9t\u00e9 d\u00e9tect\u00e9e chez un \u00e9leveur de volailles amateur \u00e0 Herstal en province de Li\u00e8ge, indique mercredi l'Agence f\u00e9d\u00e9rale pour la s\u00e9curit\u00e9 de la cha\u00eene alimentaire (Afsca). ...",
+      "url": "https://www.lalibre.be/planete/sante/2025/02/05/un-troisieme-foyer-de-grippe-aviaire-h5n1-detecte-en-province-de-liege-LJW4FO5NYZAXPFGOY5XWT2ZXRU/",
+      "urlToImage": "https://www.lalibre.be/resizer/v2/5RGHQUZ5OBE5JIX3OO2OCRTHJM.jpg?auth=44469b813d8b6c4895e28564844c07d95b8b07870e361ce22c7c7bcd8c929f05&width=1200&height=630&quality=85&focal=550%2C366&watermark=https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Fipmgroup%2F3R4IDPARFVEO3L2LC5OCCXQ5RM.png%3A100%3A0%2C557",
+      "publishedAt": "2025-02-05 15:48:40",
+      "content": "\"On ne sait pas comment ces deux personnes ont \u00e9t\u00e9 contamin\u00e9es\": l'inqui\u00e9tude des scientifiques autour de la grippe aviaireL'Afsca rappelle, enfin, que les ufs et la viande de volaille ne pr\u00e9sentent \u2026 [+1003 chars]",
+      "retrievedAt": "2025-02-06 19:05:54.000087",
+      "internal_id": "cc3a799182229d88c078b6b05b0c6f265132cdd055b8391809b8590f034e5e32",
+      "publishedAtLabel": "Feb 5"
+    },
+    {
+      "id": 17964,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Phys.Org",
+      "author": "Audrey Hambright",
+      "title": "Veterinarian warns cat owners about H5N1 risks amid rising cases",
+      "description": "Veterinary and public health officials are urging cat owners to remain vigilant as cases of Highly Pathogenic Avian Influenza, or H5N1, commonly known as bird flu, have been detected in domestic cats.",
+      "url": "https://phys.org/news/2025-02-veterinarian-cat-owners-h5n1-cases.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/curious-cat.jpg",
+      "publishedAt": "2025-02-05 15:40:01",
+      "content": "Veterinary and public health officials are urging cat owners to remain vigilant as cases of Highly Pathogenic Avian Influenza, or H5N1, commonly known as bird flu, have been detected in domestic cats\u2026 [+3776 chars]",
+      "retrievedAt": "2025-02-06 19:05:54.089035",
+      "internal_id": "44cc8d4eb517d837605df4e9ed919a825210321777e097d3381fb8645d974b06",
+      "publishedAtLabel": "Feb 5"
+    },
+    {
+      "id": 17969,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Catracalivre.com.br",
+      "author": "Andr\u00e9 Nicolau",
+      "title": "Dengue: saiba por que o tipo 3 \u00e9 motivo de preocupa\u00e7\u00e3o em 2025",
+      "description": "O sorotipo 3 da dengue j\u00e1 responde por quase metade dos casos registrados em 2025 no Brasil. E isso vem gerando preocupa\u00e7\u00e3o entre os especialistas pelo risco de causar mais infec\u00e7\u00f5es e quadros graves da doen\u00e7a. Existem quatro subtipos de v\u00edrus causadores da d\u2026",
+      "url": "https://catracalivre.com.br/saude-bem-estar/dengue-saiba-por-que-o-tipo-3-e-motivo-de-preocupacao-em-2025/",
+      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1280,h=680,fit=cover,format=jpeg/wp-content/uploads/2024/05/febre-oropouche-scaled.jpg",
+      "publishedAt": "2025-02-05 14:00:06",
+      "content": "N\u00fameros da doen\u00e7a devem seguir uma trajet\u00f3ria ascendente at\u00e9 meados de abril iStock/Obencem - iStock/Obencem O sorotipo 3 da dengue j\u00e1 responde por quase metade dos casos registrados em 2025 no Bras\u2026 [+4846 chars]",
+      "retrievedAt": "2025-02-06 19:05:54.576975",
+      "internal_id": "508d02147285a00f6279c2986832f745cbdf0785ace4db258eaed47b5089f2e4",
+      "publishedAtLabel": "Feb 5"
+    },
+    {
+      "id": 17961,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Portfolio.hu",
+      "author": "Portfolio.hu",
+      "title": "Hal\u00e1los j\u00e1rv\u00e1ny robbanhat be a F\u00f6ld egyik legnagyobb orsz\u00e1g\u00e1ban",
+      "description": "Ausztr\u00e1li\u00e1ban, \u00daj-Z\u00e9landon \u00e9s a csendes-\u00f3ce\u00e1ni orsz\u00e1gokban eddig nem jelent meg a tavaly az Egyes\u00fclt \u00c1llamokban berobbant, az\u00f3ta m\u00e1r a vil\u00e1g egyre t\u00f6bb orsz\u00e1g\u00e1ban terjed\u0151 mad\u00e1rinfluenza (H5N1) v\u00edrus, a szak\u00e9rt\u0151k szerint azonban ez a helyzet hamarosan megv\u00e1lto\u2026",
+      "url": "https://www.portfolio.hu/global/20250205/halalos-jarvany-robbanhat-be-a-fold-egyik-legnagyobb-orszagaban-739409",
+      "urlToImage": "https://pcdn.hu/articles/images-xl/b/e/t/betegseg-egeszseg-egeszsegugy-fertozes-jarvany-kutatas-orvostudomany-vakcina-717084.jpg",
+      "publishedAt": "2025-02-05 13:54:00",
+      "content": "A \"magas patogenit\u00e1s\u00fa mad\u00e1rinfluenza\" n\u00e9ven is ismert H5N1 v\u00edrus tavaly decemberig t\u00f6bb mint 300 milli\u00f3 madarat puszt\u00edtott el vil\u00e1gszerte, bele\u00e9rtve a baromfi \u00e1llom\u00e1nyok \u00e9s a vadon \u00e9l madarakat is. \u2026 [+1413 chars]",
+      "retrievedAt": "2025-02-06 19:05:54.028649",
+      "internal_id": "4a617019b2cb049edc94f26dbefee11d1cd9458c0173746adb4f275290a27758",
+      "publishedAtLabel": "Feb 5"
+    },
+    {
+      "id": 17966,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "A 'caccia' influenza aviaria in Antartide, dati su 250 pinguini",
+      "description": "Una storica missione dell'Istituto zooprofilattico sperimentale delle Venezie (IzsVe) si \u00e8 svolta tra ottobre e novembre fra i ghiacci dell'Antartide alla ricerca dell'influenza aviaria, con l'obiettivo di verificare la presenza del virus H5n1 fra le popol...\u2026",
+      "url": "https://www.ansa.it/veneto/notizie/2025/02/05/a-caccia-influenza-aviaria-in-antartide-dati-su-250-pinguini_86ae6c32-7c40-405b-a5bd-b2b7fe5d8b07.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2025/2/5/2cbc76eacf492f3448eb5494ddf5849f.jpg",
+      "publishedAt": "2025-02-05 13:17:45",
+      "content": "Una storica missione dell'Istituto zooprofilattico sperimentale delle Venezie (IzsVe) si \u00e8 svolta tra ottobre e novembre fra i ghiacci dell'Antartide alla ricerca dell'influenza aviaria, con l'obi\u2026 [+3305 chars]",
+      "retrievedAt": "2025-02-06 19:05:54.132202",
+      "internal_id": "aa80f8995f6de2450286de9046f2fd1b87330383aa6b830c5ebf13ecb0de0621",
+      "publishedAtLabel": "Feb 5"
+    },
+    {
+      "id": 17965,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "PTI",
+      "title": "ICMR initiates process of vaccine against avian influenza",
+      "description": "The ICMR has launched efforts to develop a human vaccine against the highly-pathogenic avian influenza H5N1. This virus poses a significant public health risk due to its high mortality rate and potential to cause global pandemic. Recent outbreaks highlight th\u2026",
+      "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/icmr-initiates-process-of-vaccine-against-avian-influenza/articleshow/117951550.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-117951697,width-1200,height-630,imgsize-30438,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-02-05 12:35:49",
+      "content": "New Delhi: The ICMR has initiated the process of development of an ingenious human vaccine candidate against highly-pathogenic avian influenza (H5N1). The Indian Council of Medical Research (ICMR) ha\u2026 [+3260 chars]",
+      "retrievedAt": "2025-02-06 19:05:54.101959",
+      "internal_id": "a4d0db89f69182880ef817cafb4d0c3f063b975de0e7f833f080148ab9222618",
+      "publishedAtLabel": "Feb 5"
+    },
+    {
+      "id": 17971,
+      "query": [
+        "malaria",
+        "mpox"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Jesse Gitaka",
+      "title": "Ebola, Mpox, \u201eKrankheit X\u201c in Afrika: F\u00fcnf M\u00f6glichkeiten, wie Europa wirklich helfen k\u00f6nnte",
+      "description": "Kaum war klar, dass die vielen Menschen im Kongo nicht an einem neuen Virus gestorben waren, sondern \u201enur\u201c an Malaria, sank das Mitgef\u00fchl hierzulande rapide. Dabei k\u00f6nnte Europa viel tun \u2013 auch, um sich selbst zu sch\u00fctzen.",
+      "url": "https://www.tagesspiegel.de/wissen/ebola-mpox-krankheit-x-in-afrika-funf-moglichkeiten-wie-europa-wirklich-helfen-konnte-13102162.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/12924997/alternates/BASE_16_9_W1400/1738754359000/congolese-health-workers-consult-suspected-mpox-patients-in-the-treatment-centre-at-the-kavumu-hospital-in-kabare-territory.jpeg",
+      "publishedAt": "2025-02-05 11:57:56",
+      "content": "Europa zeigte sich erleichtert, als k\u00fcrzlich bekannt wurde, dass es sich bei der mysteri\u00f6sen Krankheit X in der Demokratischen Republik Kongo (DRK) nur um Malaria in Verbindung mit Unterern\u00e4hrung und\u2026 [+14431 chars]",
+      "retrievedAt": "2025-02-06 19:05:55.104722",
+      "internal_id": "20f36ffc9cff8fe8a89bedd7a82591e0ad181c5d0b858012c1e5476c69c353d5",
+      "publishedAtLabel": "Feb 5"
+    },
+    {
+      "id": 17968,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Lithub.com",
+      "author": "Rahul Bery",
+      "title": "Inside the Climate Techno-Dystopia of Michel Nieva\u2019s Dengue Boy",
+      "description": "My first experience reading the shocking, hilarious and ingenious work of Michel Nieva was in 2021, after he was named as one of Granta\u2019s 25 best young Spanish-language novelists. A scout sent me various novels by some of the less renowned authors on the list\u2026",
+      "url": "https://lithub.com/inside-the-climate-techno-dystopia-of-michel-nievas-dengue-boy/",
+      "urlToImage": "https://s26162.pcdn.co/wp-content/uploads/2025/01/dengue-boy-1.png",
+      "publishedAt": "2025-02-05 09:56:47",
+      "content": "My first experience reading the shocking, hilarious and ingenious work of Michel Nieva was in 2021, after he was named as one of Grantas 25 best young Spanish-language novelists. A scout sent me vari\u2026 [+7501 chars]",
+      "retrievedAt": "2025-02-06 19:05:54.516389",
+      "internal_id": "62cb47489e4ae09ad7ef274571dafbde39b1882a9d5af7d7b40857b5c2ed17a7",
+      "publishedAtLabel": "Feb 5"
+    },
+    {
+      "id": 17973,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Anadolu Agency",
+      "author": null,
+      "title": "Nijerya'y\u0131 saran salg\u0131nlar: Menenjit, Lassa ate\u015fi, kolera, k\u0131zam\u0131k, s\u0131tma",
+      "description": "Afrika k\u0131tas\u0131n\u0131n en kalabal\u0131k \u00fclkesi Nijerya'da milyonlarca ki\u015fi kolera, Lassa ate\u015fi, \u00e7ocuk felci, s\u0131tma, menenjit ve M \u00e7i\u00e7e\u011fi (Mpox) gibi salg\u0131n hastal\u0131klar nedeniyle risk alt\u0131nda bulunuyor. - Anadolu Ajans\u0131",
+      "url": "https://www.aa.com.tr/tr/dunya/nijeryayi-saran-salginlar-menenjit-lassa-atesi-kolera-kizamik-sitma/3472248",
+      "urlToImage": "https://cdnuploads.aa.com.tr/uploads/Contents/2025/02/05/thumbs_b_c_796e7247c80732e0edbba84409f80d42.jpg?v=112128",
+      "publishedAt": "2025-02-05 08:12:03",
+      "content": "Nijerya'nn yaklak 235 milyonluk tarihindeki toplam miktarn yakalanma riski tayor. \u00d6zellikle kusurlu ve yapsal yaplar yayorlar, yeterli salk hizmetlerine devam etmekte zorlanyorlar. \u00dclkenin kuzey eya\u2026 [+3159 chars]",
+      "retrievedAt": "2025-02-06 19:05:56.018773",
+      "internal_id": "68b07bdd0f019fa077240c468ca4af6c31ee829d2af92d72c7aed6e662dd29e1",
+      "publishedAtLabel": "Feb 5"
+    },
+    {
+      "id": 17972,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Benzinga",
+      "author": "Globe Newswire",
+      "title": "Valneva Receives Marketing Authorization in the UK for the World's First Chikungunya Vaccine, IXCHIQ\u00ae",
+      "description": "Saint Herblain (France), February 5, 2025 \u2013 Valneva SE (NASDAQ:VALN, PARIS:VLA), a specialty vaccine company, today announced that the Medicines and Healthcare products Regulatory Agency (MHRA) has granted marketing",
+      "url": "https://www.benzinga.com/pressreleases/25/02/g43486284/valneva-receives-marketing-authorization-in-the-uk-for-the-worlds-first-chikungunya-vaccine-ixchiq",
+      "urlToImage": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "publishedAt": "2025-02-05 07:45:42",
+      "content": "Saint Herblain (France), February 5, 2025Valneva SEVALNVLA, a specialty vaccine company, today announced that the Medicines and Healthcare products Regulatory Agency (MHRA) has granted marketing auth\u2026 [+12735 chars]",
+      "retrievedAt": "2025-02-06 19:05:55.649022",
+      "internal_id": "942612f029ccf877c0cd09d31b459356be52aefb2617bb10ef1a7b480e622293",
+      "publishedAtLabel": "Feb 5"
+    },
     {
       "id": 17955,
       "query": [
@@ -22175,96 +22428,6 @@
       "content": "Doniesienia z USA: Ameryka\u0144skie s\u0142u\u017cby epidemiologiczne poda\u0142y, \u017ce 65-letni m\u0119\u017cczyzna ma rozleg\u0142\u0105 infekcj\u0119. Do zaka\u017cenia mia\u0142o doj\u015b\u0107 w wyniku kontaktu z przydomowym drobiem - jest to pierwszy taki pr\u2026 [+1099 chars]",
       "retrievedAt": "2024-12-24 07:06:19.729663",
       "internal_id": "70b65642f13b1dbea4d5c7ad207de5895b22c8c856745b39e910bd6719b57392",
-      "publishedAtLabel": "Dec 22"
-    },
-    {
-      "id": 16720,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "la-nacion",
-      "source_name": "La Nacion",
-      "author": null,
-      "title": "La Ciudad habilita m\u00e1s turnos para la vacunaci\u00f3n contra el dengue",
-      "description": "En esta etapa, los j\u00f3venes de entre 25 y 29 a\u00f1os podr\u00e1n darse su primera dosis y los de entre 15 y 19 la segunda; las inscripciones arrancar\u00e1n este 23 de diciembre y los turnos estar\u00e1n disponibles a partir del 2 de enero",
-      "url": "https://www.lanacion.com.ar/politica/la-ciudad-habilita-mas-turnos-para-la-vacunacion-contra-el-dengue-nid22122024/",
-      "urlToImage": "https://resizer.glanacion.com/resizer/v2/la-ciudad-avanza-con-la-vacunacion-contra-el-QY3H2227OZDAHJGQRBIVPTHOLM.JPG?auth=0c64d49d3c33ef1bf88bed08d1f139ef8088dbcf65c8530bc62604ac602bd381&width=1200&quality=70&smart=false&height=799",
-      "publishedAt": "2024-12-22 18:33:36",
-      "content": "El Ministerio de Salud de la Ciudad de Buenos Aires anunci\u00f3 que este lunes 23 de diciembre habilitar\u00e1 nuevos turnos para vacunarse contra el dengue. Se trata de un plan integral de prevenci\u00f3n contra \u2026 [+4055 chars]",
-      "retrievedAt": "2024-12-23 19:05:33.913146",
-      "internal_id": "304f4ea1442b3ed4a4d9c03654f59508d60b5cd11aaa3419864d9d1f07752a12",
-      "publishedAtLabel": "Dec 22"
-    },
-    {
-      "id": 16719,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Olhardigital.com.br",
-      "author": "Leandro Costa Criscuolo",
-      "title": "Fen\u00f4menos clim\u00e1ticos podem ter influ\u00eancia em alta de casos de dengue",
-      "description": "Pesquisadores relacionam fen\u00f4menos clim\u00e1ticos a surtos de dengue e alertam para a necessidade de pol\u00edticas p\u00fablicas de preven\u00e7\u00e3o O post Fen\u00f4menos clim\u00e1ticos podem ter influ\u00eancia em alta de casos de dengue apareceu primeiro em Olhar Digital.",
-      "url": "https://olhardigital.com.br/2024/12/22/medicina-e-saude/fenomenos-climaticos-podem-ter-influencia-em-alta-de-casos-de-dengue/",
-      "urlToImage": "https://img.odcdn.com.br/wp-content/uploads/2024/12/dengue.jpg",
-      "publishedAt": "2024-12-22 15:06:00",
-      "content": "Um levantamento realizado por pesquisadores da Fiocruz e do Procam (USP) revelou que os fen\u00f4menos clim\u00e1ticos El Ni\u00f1o e La Ni\u00f1a est\u00e3o diretamente relacionados ao aumento de casos de dengue registrados\u2026 [+1389 chars]",
-      "retrievedAt": "2024-12-23 19:05:33.875893",
-      "internal_id": "d2ca5080df4e44ab508c9471f8e72de151f63ef8f7cc5ffbd93971b0ba338c5c",
-      "publishedAtLabel": "Dec 22"
-    },
-    {
-      "id": 16718,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Haber7.com",
-      "author": "Hakan Erdi Uluda\u011f",
-      "title": "ABD'de acil durum ilan edildi! Ku\u015f gribi nedir, belirtileri neler?",
-      "description": "ABD'nin Kaliforniya eyaletinde ku\u015f gribi (H5N1) vakalar\u0131nda ciddi bir art\u0131\u015f g\u00f6zlemlendi. Vakalar\u0131n artmas\u0131yla birlikte ABD'de k\u0131rm\u0131z\u0131 durum ilan edildi. Peki ku\u015f gribi belirtileri nedir? A\u015f\u0131s\u0131 var m\u0131?",
-      "url": "https://www.haber7.com/guncel/haber/3489889-abdde-acil-durum-ilan-edildi-kus-gribi-nedir-belirtileri-neler",
-      "urlToImage": "https://i12.haber7.net//haber/haber7/og_image/2024/51/abdde_acil_durum_ilan_edildi_kus_gribi_nedir_belirtileri_neler_1734875405_689.jpg",
-      "publishedAt": "2024-12-22 14:03:00",
-      "content": "ABD, bir s\u00fcredir artan ku gribi vakalaryla ba etmeye \u00e7alyor. Kaliforniya Valilik Ofisi tarafndan yaplan a\u00e7klamada, 16 eyaletteki b\u00fcy\u00fckba hayvanlarda H5N1 vir\u00fcs\u00fcn\u00fcn tespit edildii, yaylm kontrol altna\u2026 [+836 chars]",
-      "retrievedAt": "2024-12-23 19:05:33.369605",
-      "internal_id": "fa2f502d2d1b4b0360df4cd7c9c2ccfb869d9f5405ec081d29a4b03ca43f7089",
-      "publishedAtLabel": "Dec 22"
-    },
-    {
-      "id": 16729,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Mustsharenews.com",
-      "author": "Jeremy Lee",
-      "title": "H5N1 poses 'highest risk' of becoming next pandemic, S'pore health authorities monitoring situation",
-      "description": "H5N1 poses the \"highest risk\" of becoming the next pandemic and Singapore's health authorities are monitoring it, said the Health Minister.",
-      "url": "https://mustsharenews.com/h5n1-pandemic-risk/",
-      "urlToImage": "https://mustsharenews.com/wp-content/uploads/2024/12/H5N1-poses-highest-risk-of-becoming-next-pandemic-Spore-health-authorities-monitoring-situation.jpg",
-      "publishedAt": "2024-12-22 11:38:13",
-      "content": "H5N1, also known as bird flu, poses the \u201chighest risk\u201d of becoming the next pandemic, with the Singapore health authorities monitoring the situation. This was revealed in a Facebook post by Health M\u2026 [+3494 chars]",
-      "retrievedAt": "2024-12-24 07:06:19.792592",
-      "internal_id": "21c63bceb7bf8d67dac233ecc9c702e486ef118176488b5b7b43ef28cefb1343",
-      "publishedAtLabel": "Dec 22"
-    },
-    {
-      "id": 16717,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Www.dn.se",
-      "author": "Maria Gunther",
-      "title": "Maria Gunther: Lyckliga i alla sina dagar \u2013 men m\u00e5r prinsessorna verkligen bra?",
-      "description": "\u00c4ven Disneyprinsessor \u00e4r utsatta f\u00f6r allvarliga h\u00e4lsorisker, som isolering, depression, diabetes, nyckelbensfraktur, lungcancer, rabies och skallighet.",
-      "url": "https://www.dn.se/varlden/maria-gunther-lyckliga-i-alla-sina-dagar-men-mar-prinsessorna-verkligen-bra/",
-      "urlToImage": "https://static.bonniernews.se/gcs/bilder/dn-mly/2e0be684-434d-476a-b61a-c9a3a3c4c015.jpeg?io=1&width=1024&crop=16:9,smart",
-      "publishedAt": "2024-12-22 08:56:33",
-      "content": "Stackars Askungen, suckar musen Gus p\u00e5 julafton varje \u00e5r, i Kalle Anka och hans v\u00e4nner \u00f6nskar God Jul. Och kanske har han mer r\u00e4tt \u00e4n vi anat. Det har l\u00e4nge funnits farh\u00e5gor, bland forskare, debatt\u2026 [+3615 chars]",
-      "retrievedAt": "2024-12-23 19:05:32.336378",
-      "internal_id": "04e8cdc160a10cab0ce0e647c6450d19c2b0836c4688ebf7ca0ce5754d172dd5",
       "publishedAtLabel": "Dec 22"
     }
   ]

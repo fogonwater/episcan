@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 8
-- **Last harvest:** 2025-02-06 07:06
-- **Most recent article:** 2025-02-05 06:37:45
+- **New articles in last harvest:** 14
+- **Last harvest:** 2025-02-06 19:05
+- **Most recent article:** 2025-02-05 18:52:40
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-52 | 24-53 | 25-1 | 25-2 | 25-3 | 25-4 | 25-5 | 25-6 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| h5n1 | 64 | 27 | 27 | 131 | 65 | 31 | 51 | 23 | 419 |
-| mpox | 34 | 2 | 6 | 91 | 34 | 23 | 22 | 14 | 226 |
-| dengue | 24 | 6 | 12 | 41 | 29 | 37 | 24 | 15 | 188 |
-| malaria | 30 | 15 | 10 | 30 | 18 | 19 | 30 | 7 | 159 |
+| h5n1 | 62 | 27 | 27 | 131 | 65 | 31 | 51 | 30 | 424 |
+| mpox | 34 | 2 | 6 | 91 | 34 | 23 | 22 | 16 | 228 |
+| dengue | 22 | 6 | 12 | 41 | 29 | 37 | 24 | 18 | 189 |
+| malaria | 30 | 15 | 10 | 30 | 18 | 19 | 30 | 9 | 161 |
 | measles | 11 | 3 | 6 | 6 | 9 | 10 | 13 | 14 | 72 |
 | hpai | 12 | 1 | 4 | 18 | 12 | 11 | 6 | 2 | 66 |
-| chikungunya | 0 | 2 | 0 | 7 | 7 | 10 | 9 | 5 | 40 |
+| chikungunya | 0 | 2 | 0 | 7 | 7 | 10 | 9 | 6 | 41 |
 | zika | 2 | 0 | 0 | 15 | 5 | 2 | 8 | 0 | 32 |
-| rabies | 8 | 1 | 1 | 2 | 6 | 7 | 6 | 0 | 31 |
+| rabies | 7 | 1 | 1 | 2 | 6 | 7 | 6 | 0 | 30 |
 | meningitis | 3 | 1 | 2 | 0 | 2 | 3 | 8 | 1 | 20 |
 | pertussis | 6 | 0 | 1 | 2 | 0 | 1 | 0 | 1 | 11 |
 | yersinia | 6 | 0 | 0 | 3 | 2 | 0 | 0 | 0 | 11 |
@@ -41,6 +41,10 @@ Source: [News API](https://newsapi.org/)
 - [The strange religion of vaccine worship](https://www.wnd.com/2025/02/the-strange-religion-of-vaccine-worship/) (Wnd.com)
 
 ## 25-6 (mpox)
+
+- [Ebola, Mpox, „Krankheit X“ in Afrika: Fünf Möglichkeiten, wie Europa wirklich helfen könnte](https://www.tagesspiegel.de/wissen/ebola-mpox-krankheit-x-in-afrika-funf-moglichkeiten-wie-europa-wirklich-helfen-konnte-13102162.html) (Der Tagesspiegel)
+
+- [Nijerya'yı saran salgınlar: Menenjit, Lassa ateşi, kolera, kızamık, sıtma](https://www.aa.com.tr/tr/dunya/nijeryayi-saran-salginlar-menenjit-lassa-atesi-kolera-kizamik-sitma/3472248) (Anadolu Agency)
 
 - [CDC Confirms Webpages Removed to Comply With Trump’s DEI Executive Orders](https://www.theepochtimes.com/health/cdc-confirms-webpages-removed-to-comply-with-trumps-dei-executive-orders-5804130) (Theepochtimes.com)
 
@@ -106,6 +110,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-6 (malaria)
 
+- [Okpehbolo unveils free malaria treatment in Edo](https://punchng.com/okpehbolo-unveils-free-malaria-treatment-in-edo/) (The Punch)
+
+- [Ebola, Mpox, „Krankheit X“ in Afrika: Fünf Möglichkeiten, wie Europa wirklich helfen könnte](https://www.tagesspiegel.de/wissen/ebola-mpox-krankheit-x-in-afrika-funf-moglichkeiten-wie-europa-wirklich-helfen-konnte-13102162.html) (Der Tagesspiegel)
+
 - [USAID upheaval is paralyzing global delivery of food and medicine](https://www.nbcnews.com/news/politics-news/trump-usaid-upheaval-paralyzing-global-delivery-food-medicine-rcna190565) (NBC News)
 
 - [A paradoxical population structure of var DBLα types in Africa](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012813) (Plos.org)
@@ -131,6 +139,20 @@ Source: [News API](https://newsapi.org/)
 - [Kuş gribi salgını ABD'de yumurta fiyatlarını uçurdu](https://www.haberturk.com/kus-gribi-salgini-abd-de-yumurta-fiyatlarini-ucurdu-3761928-ekonomi) (Haberturk.com)
 
 ## 25-6 (h5n1)
+
+- [Un 3e foyer de grippe aviaire détecté en province de Liège](https://www.levif.be/belgique/un-3e-foyer-de-grippe-aviaire-detecte-en-province-de-liege/) (Levif.be)
+
+- [Un troisième foyer de grippe aviaire H5N1 détecté en province de Liège](https://www.dhnet.be/regions/liege/2025/02/05/un-troisieme-foyer-de-grippe-aviaire-h5n1-detecte-en-province-de-liege-ZOQM4UHPUFH6FIB2G7XLW2AZWI/) (dh.be)
+
+- [Un troisième foyer de grippe aviaire H5N1 détecté en province de Liège](https://www.lalibre.be/planete/sante/2025/02/05/un-troisieme-foyer-de-grippe-aviaire-h5n1-detecte-en-province-de-liege-LJW4FO5NYZAXPFGOY5XWT2ZXRU/) (Lalibre.be)
+
+- [Veterinarian warns cat owners about H5N1 risks amid rising cases](https://phys.org/news/2025-02-veterinarian-cat-owners-h5n1-cases.html) (Phys.Org)
+
+- [Halálos járvány robbanhat be a Föld egyik legnagyobb országában](https://www.portfolio.hu/global/20250205/halalos-jarvany-robbanhat-be-a-fold-egyik-legnagyobb-orszagaban-739409) (Portfolio.hu)
+
+- [A 'caccia' influenza aviaria in Antartide, dati su 250 pinguini](https://www.ansa.it/veneto/notizie/2025/02/05/a-caccia-influenza-aviaria-in-antartide-dati-su-250-pinguini_86ae6c32-7c40-405b-a5bd-b2b7fe5d8b07.html) (ANSA.it)
+
+- [ICMR initiates process of vaccine against avian influenza](https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/icmr-initiates-process-of-vaccine-against-avian-influenza/articleshow/117951550.cms) (The Times of India)
 
 - [Bird Flu का खतरा... 10 KM का इलाका अलर्ट ज़ोन में बदला](https://www.aajtak.in/short-videos/video/bird-flu-outbreak-maharashtra-village-declared-alert-zone-2159382-2025-02-05) (Aajtak.in)
 
@@ -180,6 +202,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-6 (dengue)
 
+- [‘Dengue Boy’ Is the Weird, Fleshy Novel You Need Right Now](https://www.wired.com/story/this-weird-fleshy-novel-is-exactly-what-you-need-right-now-dengue-boy-michael-nieva/) (Wired)
+
+- [Dengue: saiba por que o tipo 3 é motivo de preocupação em 2025](https://catracalivre.com.br/saude-bem-estar/dengue-saiba-por-que-o-tipo-3-e-motivo-de-preocupacao-em-2025/) (Catracalivre.com.br)
+
+- [Inside the Climate Techno-Dystopia of Michel Nieva’s Dengue Boy](https://lithub.com/inside-the-climate-techno-dystopia-of-michel-nievas-dengue-boy/) (Lithub.com)
+
 - [Dengue: saiba sobre transmissão e principais sintomas da doença](https://www.metropoles.com/saude/dengue-saiba-transmissao-principais-sintomas) (Metropoles.com)
 
 - [El ECDC notifica más de 100.000 casos de dengue y 5.000 de chikungunya en todo el mundo en enero](https://www.infosalus.com/salud-investigacion/noticia-ecdc-notifica-mas-100000-casos-dengue-5000-chikungunya-todo-mundo-enero-20250204150406.html) (Infosalus.com)
@@ -211,6 +239,8 @@ Source: [News API](https://newsapi.org/)
 - [Baguio: Kaso ng Dengue sa lungsod ng Baguio tumaas o lumaki pa ng 646 por siento](https://rpnradio.com/baguio-kaso-ng-dengue-sa-lungsod-ng-baguio-tumaas-o-lumaki-pa-ng-646-por-siento/) (Rpnradio.com)
 
 ## 25-6 (chikungunya)
+
+- [Valneva Receives Marketing Authorization in the UK for the World's First Chikungunya Vaccine, IXCHIQ®](https://www.benzinga.com/pressreleases/25/02/g43486284/valneva-receives-marketing-authorization-in-the-uk-for-the-worlds-first-chikungunya-vaccine-ixchiq) (Benzinga)
 
 - [Valneva reçoit une autorisation de mise sur le marché au Royaume-Uni pour le premier vaccin au monde contre le chikungunya, IXCHIQ®](https://www.globenewswire.com/news-release/2025/02/05/3020900/0/fr/Valneva-re%C3%A7oit-une-autorisation-de-mise-sur-le-march%C3%A9-au-Royaume-Uni-pour-le-premier-vaccin-au-monde-contre-le-chikungunya-IXCHIQ.html) (GlobeNewswire)
 
@@ -2386,8 +2416,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Dog Meat Restaurant Owner Dies Just Days After Discovering He Has Rabies](https://www.ibtimes.com/dog-meat-restaurant-owner-dies-rabies-3756852) (International Business Times)
 
-- [Maria Gunther: Lyckliga i alla sina dagar – men mår prinsessorna verkligen bra?](https://www.dn.se/varlden/maria-gunther-lyckliga-i-alla-sina-dagar-men-mar-prinsessorna-verkligen-bra/) (Www.dn.se)
-
 ## 24-52 (pertussis)
 
 - [В США зафиксировали резкий рост коклюша — самый высокий за десятилетие](https://www.ferra.ru/news/health/v-ssha-zafiksirovali-rezkii-rost-koklyusha-samyi-vysokii-za-desyatiletie-27-12-2024.htm) (Ferra.ru)
@@ -2724,10 +2752,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Pierwszy tak ciężki przypadek ptasiej grypy w USA. Stan 65-latka jest krytyczny. 61 osób zakażonych](https://wiadomosci.gazeta.pl/wiadomosci/7,114881,31566135,p.html) (Gazeta.pl)
 
-- [ABD'de acil durum ilan edildi! Kuş gribi nedir, belirtileri neler?](https://www.haber7.com/guncel/haber/3489889-abdde-acil-durum-ilan-edildi-kus-gribi-nedir-belirtileri-neler) (Haber7.com)
-
-- [H5N1 poses 'highest risk' of becoming next pandemic, S'pore health authorities monitoring situation](https://mustsharenews.com/h5n1-pandemic-risk/) (Mustsharenews.com)
-
 ## 24-52 (dengue)
 
 - [“Consultá sin demoras si tenés síntomas”: MSP insta a cuidarse del dengue en verano](https://www.montevideo.com.uy/Salud/-Consulta-sin-demoras-si-tenes-sintomas--MSP-insta-a-cuidarse-del-dengue-en-verano-uc910677) (Montevideo.com.uy)
@@ -2773,7 +2797,3 @@ Source: [News API](https://newsapi.org/)
 - [Cuál es la enfermedad que se expande en Florida y preocupa a las autoridades: hay casos en Tampa Bay](https://www.lanacion.com.ar/estados-unidos/florida/cual-es-la-enfermedad-que-se-expande-en-florida-y-preocupa-a-las-autoridades-hay-casos-en-tampa-bay-nid22122024/) (La Nacion)
 
 - [Common bacterium protects Brazilian city from dengue storm](https://www.digitaljournal.com/tech-science/common-bacterium-protects-brazilian-city-from-dengue-storm/article) (Digital Journal)
-
-- [La Ciudad habilita más turnos para la vacunación contra el dengue](https://www.lanacion.com.ar/politica/la-ciudad-habilita-mas-turnos-para-la-vacunacion-contra-el-dengue-nid22122024/) (La Nacion)
-
-- [Fenômenos climáticos podem ter influência em alta de casos de dengue](https://olhardigital.com.br/2024/12/22/medicina-e-saude/fenomenos-climaticos-podem-ter-influencia-em-alta-de-casos-de-dengue/) (Olhardigital.com.br)
