@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 16
-- **Last harvest:** 2025-02-05 19:05
-- **Most recent article:** 2025-02-04 16:53:02
+- **New articles in last harvest:** 8
+- **Last harvest:** 2025-02-06 07:06
+- **Most recent article:** 2025-02-05 06:37:45
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-52 | 24-53 | 25-1 | 25-2 | 25-3 | 25-4 | 25-5 | 25-6 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| h5n1 | 62 | 27 | 27 | 131 | 65 | 31 | 51 | 20 | 414 |
-| mpox | 34 | 2 | 6 | 91 | 34 | 23 | 22 | 13 | 225 |
-| dengue | 22 | 6 | 12 | 41 | 29 | 37 | 24 | 15 | 186 |
-| malaria | 30 | 15 | 10 | 30 | 18 | 19 | 30 | 6 | 158 |
-| measles | 11 | 3 | 6 | 6 | 9 | 10 | 13 | 13 | 71 |
+| h5n1 | 64 | 27 | 27 | 131 | 65 | 31 | 51 | 23 | 419 |
+| mpox | 34 | 2 | 6 | 91 | 34 | 23 | 22 | 14 | 226 |
+| dengue | 24 | 6 | 12 | 41 | 29 | 37 | 24 | 15 | 188 |
+| malaria | 30 | 15 | 10 | 30 | 18 | 19 | 30 | 7 | 159 |
+| measles | 11 | 3 | 6 | 6 | 9 | 10 | 13 | 14 | 72 |
 | hpai | 12 | 1 | 4 | 18 | 12 | 11 | 6 | 2 | 66 |
-| chikungunya | 0 | 2 | 0 | 7 | 7 | 10 | 9 | 3 | 38 |
+| chikungunya | 0 | 2 | 0 | 7 | 7 | 10 | 9 | 5 | 40 |
 | zika | 2 | 0 | 0 | 15 | 5 | 2 | 8 | 0 | 32 |
-| rabies | 7 | 1 | 1 | 2 | 6 | 7 | 6 | 0 | 30 |
+| rabies | 8 | 1 | 1 | 2 | 6 | 7 | 6 | 0 | 31 |
 | meningitis | 3 | 1 | 2 | 0 | 2 | 3 | 8 | 1 | 20 |
 | pertussis | 6 | 0 | 1 | 2 | 0 | 1 | 0 | 1 | 11 |
 | yersinia | 6 | 0 | 0 | 3 | 2 | 0 | 0 | 0 | 11 |
@@ -41,6 +41,8 @@ Source: [News API](https://newsapi.org/)
 - [The strange religion of vaccine worship](https://www.wnd.com/2025/02/the-strange-religion-of-vaccine-worship/) (Wnd.com)
 
 ## 25-6 (mpox)
+
+- [CDC Confirms Webpages Removed to Comply With Trump’s DEI Executive Orders](https://www.theepochtimes.com/health/cdc-confirms-webpages-removed-to-comply-with-trumps-dei-executive-orders-5804130) (Theepochtimes.com)
 
 - [Ejército: detectaron caso de viruela del mono próximo a contingente uruguayo en el Congo](https://www.montevideo.com.uy/Noticias/Ejercito-detectaron-caso-de-viruela-del-mono-proximo-a-contingente-uruguayo-en-el-Congo-uc914029) (Montevideo.com.uy)
 
@@ -74,6 +76,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-6 (measles)
 
+- [Province warns of 5 confirmed measles cases in southern Manitoba, connected to Ontario outbreak](https://www.cbc.ca/news/canada/manitoba/southern-manitoba-potential-measles-exposure-1.7450581) (CBC News)
+
 - [New Mexico health officials warn of potential measles threat](https://www.koat.com/article/new-mexico-measles-risk/63664724) (KOAT New Mexico)
 
 - [RFK Jr. Supporters Bolster His Nomination With Letter Signed By Crackpots And Quacks](https://www.wonkette.com/p/rfk-jr-supporters-bolster-his-nomination) (Wonkette.com)
@@ -102,6 +106,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-6 (malaria)
 
+- [USAID upheaval is paralyzing global delivery of food and medicine](https://www.nbcnews.com/news/politics-news/trump-usaid-upheaval-paralyzing-global-delivery-food-medicine-rcna190565) (NBC News)
+
 - [A paradoxical population structure of var DBLα types in Africa](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012813) (Plos.org)
 
 - [Nigerian govt reacts as Trump's policies impact country's health programmes](https://www.premiumtimesng.com/news/top-news/771539-nigerian-govt-reacts-as-trumps-policies-impact-countrys-health-programmes.html) (Premium Times)
@@ -125,6 +131,12 @@ Source: [News API](https://newsapi.org/)
 - [Kuş gribi salgını ABD'de yumurta fiyatlarını uçurdu](https://www.haberturk.com/kus-gribi-salgini-abd-de-yumurta-fiyatlarini-ucurdu-3761928-ekonomi) (Haberturk.com)
 
 ## 25-6 (h5n1)
+
+- [Bird Flu का खतरा... 10 KM का इलाका अलर्ट ज़ोन में बदला](https://www.aajtak.in/short-videos/video/bird-flu-outbreak-maharashtra-village-declared-alert-zone-2159382-2025-02-05) (Aajtak.in)
+
+- [महाराष्ट्र के चंद्रपुर में बर्ड फ्लू की एंट्री से हड़कंप, 10 KM का एरिया अलर्ट जोन घोषित](https://www.aajtak.in/india/maharashtra/story/after-bird-flu-outbreak-maharashtra-village-and-areas-around-it-declared-alert-zone-lcla-dskc-2159190-2025-02-05) (Aajtak.in)
+
+- [Scientists Are Starting to Track Bird Flu in Farm Wastewater](https://time.com/7212477/wastewater-testing-farms-bird-flu/) (Time)
 
 - [How Trump's Admin Will Make Bird Flu Worse](https://www.teenvogue.com/story/bird-flus-food-system-trumps-anti-public-health) (Teen Vogue)
 
@@ -199,6 +211,10 @@ Source: [News API](https://newsapi.org/)
 - [Baguio: Kaso ng Dengue sa lungsod ng Baguio tumaas o lumaki pa ng 646 por siento](https://rpnradio.com/baguio-kaso-ng-dengue-sa-lungsod-ng-baguio-tumaas-o-lumaki-pa-ng-646-por-siento/) (Rpnradio.com)
 
 ## 25-6 (chikungunya)
+
+- [Valneva reçoit une autorisation de mise sur le marché au Royaume-Uni pour le premier vaccin au monde contre le chikungunya, IXCHIQ®](https://www.globenewswire.com/news-release/2025/02/05/3020900/0/fr/Valneva-re%C3%A7oit-une-autorisation-de-mise-sur-le-march%C3%A9-au-Royaume-Uni-pour-le-premier-vaccin-au-monde-contre-le-chikungunya-IXCHIQ.html) (GlobeNewswire)
+
+- [Valneva Receives Marketing Authorization in the UK for the World’s First Chikungunya Vaccine, IXCHIQ®](https://www.globenewswire.com/news-release/2025/02/05/3020900/0/en/Valneva-Receives-Marketing-Authorization-in-the-UK-for-the-World-s-First-Chikungunya-Vaccine-IXCHIQ.html) (GlobeNewswire)
 
 - [Press release: IXCHIQ vaccine approved to protect adults against Chikungunya](https://www.gov.uk/government/news/ixchiq-vaccine-approved-to-protect-adults-against-chikungunya) (Www.gov.uk)
 
@@ -2370,6 +2386,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Dog Meat Restaurant Owner Dies Just Days After Discovering He Has Rabies](https://www.ibtimes.com/dog-meat-restaurant-owner-dies-rabies-3756852) (International Business Times)
 
+- [Maria Gunther: Lyckliga i alla sina dagar – men mår prinsessorna verkligen bra?](https://www.dn.se/varlden/maria-gunther-lyckliga-i-alla-sina-dagar-men-mar-prinsessorna-verkligen-bra/) (Www.dn.se)
+
 ## 24-52 (pertussis)
 
 - [В США зафиксировали резкий рост коклюша — самый высокий за десятилетие](https://www.ferra.ru/news/health/v-ssha-zafiksirovali-rezkii-rost-koklyusha-samyi-vysokii-za-desyatiletie-27-12-2024.htm) (Ferra.ru)
@@ -2706,6 +2724,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Pierwszy tak ciężki przypadek ptasiej grypy w USA. Stan 65-latka jest krytyczny. 61 osób zakażonych](https://wiadomosci.gazeta.pl/wiadomosci/7,114881,31566135,p.html) (Gazeta.pl)
 
+- [ABD'de acil durum ilan edildi! Kuş gribi nedir, belirtileri neler?](https://www.haber7.com/guncel/haber/3489889-abdde-acil-durum-ilan-edildi-kus-gribi-nedir-belirtileri-neler) (Haber7.com)
+
+- [H5N1 poses 'highest risk' of becoming next pandemic, S'pore health authorities monitoring situation](https://mustsharenews.com/h5n1-pandemic-risk/) (Mustsharenews.com)
+
 ## 24-52 (dengue)
 
 - [“Consultá sin demoras si tenés síntomas”: MSP insta a cuidarse del dengue en verano](https://www.montevideo.com.uy/Salud/-Consulta-sin-demoras-si-tenes-sintomas--MSP-insta-a-cuidarse-del-dengue-en-verano-uc910677) (Montevideo.com.uy)
@@ -2751,3 +2773,7 @@ Source: [News API](https://newsapi.org/)
 - [Cuál es la enfermedad que se expande en Florida y preocupa a las autoridades: hay casos en Tampa Bay](https://www.lanacion.com.ar/estados-unidos/florida/cual-es-la-enfermedad-que-se-expande-en-florida-y-preocupa-a-las-autoridades-hay-casos-en-tampa-bay-nid22122024/) (La Nacion)
 
 - [Common bacterium protects Brazilian city from dengue storm](https://www.digitaljournal.com/tech-science/common-bacterium-protects-brazilian-city-from-dengue-storm/article) (Digital Journal)
+
+- [La Ciudad habilita más turnos para la vacunación contra el dengue](https://www.lanacion.com.ar/politica/la-ciudad-habilita-mas-turnos-para-la-vacunacion-contra-el-dengue-nid22122024/) (La Nacion)
+
+- [Fenômenos climáticos podem ter influência em alta de casos de dengue](https://olhardigital.com.br/2024/12/22/medicina-e-saude/fenomenos-climaticos-podem-ter-influencia-em-alta-de-casos-de-dengue/) (Olhardigital.com.br)
