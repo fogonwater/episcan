@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 14
-- **Last harvest:** 2025-02-06 19:05
-- **Most recent article:** 2025-02-05 18:52:40
+- **New articles in last harvest:** 20
+- **Last harvest:** 2025-02-07 07:06
+- **Most recent article:** 2025-02-06 07:00:13
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-52 | 24-53 | 25-1 | 25-2 | 25-3 | 25-4 | 25-5 | 25-6 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| h5n1 | 62 | 27 | 27 | 131 | 65 | 31 | 51 | 30 | 424 |
-| mpox | 34 | 2 | 6 | 91 | 34 | 23 | 22 | 16 | 228 |
-| dengue | 22 | 6 | 12 | 41 | 29 | 37 | 24 | 18 | 189 |
-| malaria | 30 | 15 | 10 | 30 | 18 | 19 | 30 | 9 | 161 |
-| measles | 11 | 3 | 6 | 6 | 9 | 10 | 13 | 14 | 72 |
-| hpai | 12 | 1 | 4 | 18 | 12 | 11 | 6 | 2 | 66 |
-| chikungunya | 0 | 2 | 0 | 7 | 7 | 10 | 9 | 6 | 41 |
-| zika | 2 | 0 | 0 | 15 | 5 | 2 | 8 | 0 | 32 |
-| rabies | 7 | 1 | 1 | 2 | 6 | 7 | 6 | 0 | 30 |
+| h5n1 | 64 | 27 | 27 | 131 | 65 | 31 | 51 | 41 | 437 |
+| mpox | 34 | 2 | 6 | 91 | 34 | 23 | 22 | 17 | 229 |
+| dengue | 24 | 6 | 12 | 41 | 29 | 37 | 24 | 20 | 193 |
+| malaria | 30 | 15 | 10 | 30 | 18 | 19 | 30 | 10 | 162 |
+| measles | 11 | 3 | 6 | 6 | 9 | 10 | 13 | 16 | 74 |
+| hpai | 12 | 1 | 4 | 18 | 12 | 11 | 6 | 3 | 67 |
+| chikungunya | 0 | 2 | 0 | 7 | 7 | 10 | 9 | 7 | 42 |
+| zika | 2 | 0 | 0 | 15 | 5 | 2 | 8 | 1 | 33 |
+| rabies | 8 | 1 | 1 | 2 | 6 | 7 | 6 | 1 | 32 |
 | meningitis | 3 | 1 | 2 | 0 | 2 | 3 | 8 | 1 | 20 |
-| pertussis | 6 | 0 | 1 | 2 | 0 | 1 | 0 | 1 | 11 |
+| pertussis | 6 | 0 | 1 | 2 | 0 | 1 | 0 | 2 | 12 |
 | yersinia | 6 | 0 | 0 | 3 | 2 | 0 | 0 | 0 | 11 |
 | leptospirosis | 2 | 0 | 0 | 0 | 1 | 2 | 0 | 1 | 6 |
 | typhoid | 0 | 0 | 0 | 0 | 4 | 0 | 0 | 1 | 5 |
@@ -32,15 +32,27 @@ Source: [News API](https://newsapi.org/)
 
 ---
 
+## 25-6 (zika)
+
+- [Dengue: cuidados devem ser redobrados no período chuvoso](https://www.metropoles.com/conteudo-especial/dengue-cuidados-devem-ser-redobrados-no-periodo-chuvoso) (Metropoles.com)
+
 ## 25-6 (typhoid)
 
 - [Bacolod: Negrenses warned of increasing typhoid fever cases](https://rpnradio.com/bacolod-negrenses-warned-of-increasing-typhoid-fever-cases/) (Rpnradio.com)
 
+## 25-6 (rabies)
+
+- [Can opossums contract rabies?](https://lifesciencesworld.com/can-opossums-contract-rabies/) (Lifesciencesworld.com)
+
 ## 25-6 (pertussis)
+
+- [First whooping cough death in Washington state since 2011 confirmed by CDC](https://www.khq.com/news/first-whooping-cough-death-in-washington-state-since-2011-confirmed-by-cdc/article_31d39520-e424-11ef-bedf-934a7c190434.html) (KHQ Right Now)
 
 - [The strange religion of vaccine worship](https://www.wnd.com/2025/02/the-strange-religion-of-vaccine-worship/) (Wnd.com)
 
 ## 25-6 (mpox)
+
+- [Les virus responsables des prochaines épidémies sont connus mais négligés](https://www.lemonde.fr/idees/article/2025/02/06/les-virus-responsables-des-prochaines-epidemies-sont-connus-mais-negliges_6533919_3232.html) (Le Monde)
 
 - [Ebola, Mpox, „Krankheit X“ in Afrika: Fünf Möglichkeiten, wie Europa wirklich helfen könnte](https://www.tagesspiegel.de/wissen/ebola-mpox-krankheit-x-in-afrika-funf-moglichkeiten-wie-europa-wirklich-helfen-konnte-13102162.html) (Der Tagesspiegel)
 
@@ -80,6 +92,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-6 (measles)
 
+- [Trump Considers Labeling Migrants a Measles, Tuberculosis Risk (Wall Street Journal)](https://www.memeorandum.com/250205/p181) (Memeorandum.com)
+
+- [Trump Considers Labeling Migrants a Health Risk](https://politicalwire.com/2025/02/05/trump-considers-labeling-migrants-a-health-risk/) (Politicalwire.com)
+
 - [Province warns of 5 confirmed measles cases in southern Manitoba, connected to Ontario outbreak](https://www.cbc.ca/news/canada/manitoba/southern-manitoba-potential-measles-exposure-1.7450581) (CBC News)
 
 - [New Mexico health officials warn of potential measles threat](https://www.koat.com/article/new-mexico-measles-risk/63664724) (KOAT New Mexico)
@@ -110,6 +126,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-6 (malaria)
 
+- [U.S. aid cuts come at deadly moment for malaria control](https://www.japantimes.co.jp/news/2025/02/06/world/science-health/us-aid-cut-malaria-control-danger/) (The Japan Times)
+
 - [Okpehbolo unveils free malaria treatment in Edo](https://punchng.com/okpehbolo-unveils-free-malaria-treatment-in-edo/) (The Punch)
 
 - [Ebola, Mpox, „Krankheit X“ in Afrika: Fünf Möglichkeiten, wie Europa wirklich helfen könnte](https://www.tagesspiegel.de/wissen/ebola-mpox-krankheit-x-in-afrika-funf-moglichkeiten-wie-europa-wirklich-helfen-konnte-13102162.html) (Der Tagesspiegel)
@@ -134,11 +152,35 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-6 (hpai)
 
+- [USDA confirms Nevada dairy cows infected with 2nd strain of bird flu](https://www.clickondetroit.com/news/local/2025/02/06/usda-confirms-nevada-dairy-cows-infected-with-2nd-strain-of-bird-flu/) (WDIV ClickOnDetroit)
+
 - [Bird flu to close parts of Middle Creek Wildlife Management Area](https://lancasteronline.com/news/local/bird-flu-to-close-parts-of-middle-creek-wildlife-management-area/article_b8e70ac0-e248-11ef-9363-830e567b717d.html) (LancasterOnline)
 
 - [Kuş gribi salgını ABD'de yumurta fiyatlarını uçurdu](https://www.haberturk.com/kus-gribi-salgini-abd-de-yumurta-fiyatlarini-ucurdu-3761928-ekonomi) (Haberturk.com)
 
 ## 25-6 (h5n1)
+
+- [EUA: vacas são infectadas com nova versão da gripe aviária](https://olhardigital.com.br/2025/02/06/medicina-e-saude/eua-vacas-sao-infectadas-com-nova-versao-da-gripe-aviaria/) (Olhardigital.com.br)
+
+- [ICMR working on desi vaccine against H5N1 bird flu virus](https://timesofindia.indiatimes.com/india/icmr-working-on-desi-vaccine-against-h5n1-bird-flu-virus/articleshow/117968597.cms) (The Times of India)
+
+- [A new type of bird flu has been found in dairy cows in Nevada](https://www.npr.org/sections/shots-health-news/2025/02/05/nx-s1-5286265/bird-flu-cow-cattle-nevada) (NPR)
+
+- [Dairy herds in Nevada test positive for newer bird flu strain that’s been linked to severe human infections](https://www.wkow.com/news/health/dairy-herds-in-nevada-test-positive-for-newer-bird-flu-strain-that-s-been-linked/article_ad4cafb5-b43d-505b-a33d-bec18360084b.html) (WKOW)
+
+- [USDA confirms Nevada dairy cows infected with 2nd strain of bird flu](https://www.clickondetroit.com/news/local/2025/02/06/usda-confirms-nevada-dairy-cows-infected-with-2nd-strain-of-bird-flu/) (WDIV ClickOnDetroit)
+
+- [Respiratory symptoms reported in Nevada cows with lethal bird flu strain](https://www.cbsnews.com/news/cows-bird-flu-d11-symptoms/) (CBS News)
+
+- [Second bird flu strain found in US dairy cattle, agriculture agency says](https://www.voanews.com/a/second-bird-flu-strain-found-in-us-dairy-cattle-agriculture-agency-says/7964683.html) (VOA News)
+
+- [Dairy herds in Nevada test positive for newer bird flu strain that’s been linked to severe human infections | CNN](https://www.cnn.com/2025/02/05/health/bird-flu-cattle-nevada/index.html) (CNN)
+
+- [New Bird Flu Strain Detected In Cows In Nevada](https://www.forbes.com/sites/antoniopequenoiv/2025/02/05/new-bird-flu-strain-detected-in-cows-in-nevada/) (Forbes)
+
+- [Deadly bird flu detected in Nevada dairy cows](https://www.reviewjournal.com/post/3275933) (Las Vegas Review-Journal)
+
+- [USDA milk testing shows different strain of H5N1 bird flu in Nevada dairy herds](https://www.statnews.com/2025/02/05/usda-nevada-herds-different-bird-flu-strain-milk-testing/) (STAT)
 
 - [Un 3e foyer de grippe aviaire détecté en province de Liège](https://www.levif.be/belgique/un-3e-foyer-de-grippe-aviaire-detecte-en-province-de-liege/) (Levif.be)
 
@@ -202,6 +244,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-6 (dengue)
 
+- [Dengue: cuidados devem ser redobrados no período chuvoso](https://www.metropoles.com/conteudo-especial/dengue-cuidados-devem-ser-redobrados-no-periodo-chuvoso) (Metropoles.com)
+
+- [México acumula 887 casos de dengue en lo que va de 2025](https://www.excelsior.com.mx/nacional/mexico-acumula-887-casos-de-dengue-en-lo-que-va-de-2025/1698278) (Excelsior.com.mx)
+
 - [‘Dengue Boy’ Is the Weird, Fleshy Novel You Need Right Now](https://www.wired.com/story/this-weird-fleshy-novel-is-exactly-what-you-need-right-now-dengue-boy-michael-nieva/) (Wired)
 
 - [Dengue: saiba por que o tipo 3 é motivo de preocupação em 2025](https://catracalivre.com.br/saude-bem-estar/dengue-saiba-por-que-o-tipo-3-e-motivo-de-preocupacao-em-2025/) (Catracalivre.com.br)
@@ -239,6 +285,8 @@ Source: [News API](https://newsapi.org/)
 - [Baguio: Kaso ng Dengue sa lungsod ng Baguio tumaas o lumaki pa ng 646 por siento](https://rpnradio.com/baguio-kaso-ng-dengue-sa-lungsod-ng-baguio-tumaas-o-lumaki-pa-ng-646-por-siento/) (Rpnradio.com)
 
 ## 25-6 (chikungunya)
+
+- [Valneva jumps 19% after chikungunya vaccine wins UK approval](https://thefly.com/permalinks/entry.php/id4065077/VALN-Valneva-jumps--after-chikungunya-vaccine-wins-UK-approval) (Thefly.com)
 
 - [Valneva Receives Marketing Authorization in the UK for the World's First Chikungunya Vaccine, IXCHIQ®](https://www.benzinga.com/pressreleases/25/02/g43486284/valneva-receives-marketing-authorization-in-the-uk-for-the-worlds-first-chikungunya-vaccine-ixchiq) (Benzinga)
 
@@ -2416,6 +2464,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Dog Meat Restaurant Owner Dies Just Days After Discovering He Has Rabies](https://www.ibtimes.com/dog-meat-restaurant-owner-dies-rabies-3756852) (International Business Times)
 
+- [Maria Gunther: Lyckliga i alla sina dagar – men mår prinsessorna verkligen bra?](https://www.dn.se/varlden/maria-gunther-lyckliga-i-alla-sina-dagar-men-mar-prinsessorna-verkligen-bra/) (Www.dn.se)
+
 ## 24-52 (pertussis)
 
 - [В США зафиксировали резкий рост коклюша — самый высокий за десятилетие](https://www.ferra.ru/news/health/v-ssha-zafiksirovali-rezkii-rost-koklyusha-samyi-vysokii-za-desyatiletie-27-12-2024.htm) (Ferra.ru)
@@ -2752,6 +2802,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Pierwszy tak ciężki przypadek ptasiej grypy w USA. Stan 65-latka jest krytyczny. 61 osób zakażonych](https://wiadomosci.gazeta.pl/wiadomosci/7,114881,31566135,p.html) (Gazeta.pl)
 
+- [ABD'de acil durum ilan edildi! Kuş gribi nedir, belirtileri neler?](https://www.haber7.com/guncel/haber/3489889-abdde-acil-durum-ilan-edildi-kus-gribi-nedir-belirtileri-neler) (Haber7.com)
+
+- [H5N1 poses 'highest risk' of becoming next pandemic, S'pore health authorities monitoring situation](https://mustsharenews.com/h5n1-pandemic-risk/) (Mustsharenews.com)
+
 ## 24-52 (dengue)
 
 - [“Consultá sin demoras si tenés síntomas”: MSP insta a cuidarse del dengue en verano](https://www.montevideo.com.uy/Salud/-Consulta-sin-demoras-si-tenes-sintomas--MSP-insta-a-cuidarse-del-dengue-en-verano-uc910677) (Montevideo.com.uy)
@@ -2797,3 +2851,7 @@ Source: [News API](https://newsapi.org/)
 - [Cuál es la enfermedad que se expande en Florida y preocupa a las autoridades: hay casos en Tampa Bay](https://www.lanacion.com.ar/estados-unidos/florida/cual-es-la-enfermedad-que-se-expande-en-florida-y-preocupa-a-las-autoridades-hay-casos-en-tampa-bay-nid22122024/) (La Nacion)
 
 - [Common bacterium protects Brazilian city from dengue storm](https://www.digitaljournal.com/tech-science/common-bacterium-protects-brazilian-city-from-dengue-storm/article) (Digital Journal)
+
+- [La Ciudad habilita más turnos para la vacunación contra el dengue](https://www.lanacion.com.ar/politica/la-ciudad-habilita-mas-turnos-para-la-vacunacion-contra-el-dengue-nid22122024/) (La Nacion)
+
+- [Fenômenos climáticos podem ter influência em alta de casos de dengue](https://olhardigital.com.br/2024/12/22/medicina-e-saude/fenomenos-climaticos-podem-ter-influencia-em-alta-de-casos-de-dengue/) (Olhardigital.com.br)

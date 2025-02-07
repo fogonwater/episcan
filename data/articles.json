@@ -1,8 +1,370 @@
 {
-  "last_updated": "2025-02-06 19:05",
-  "count_articles_total": 1243,
-  "count_articles_new": 14,
+  "last_updated": "2025-02-07 07:06",
+  "count_articles_total": 1268,
+  "count_articles_new": 20,
   "articles": [
+    {
+      "id": 17993,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "le-monde",
+      "source_name": "Le Monde",
+      "author": "Delphine Roucaute",
+      "title": "Les virus responsables des prochaines \u00e9pid\u00e9mies sont connus mais n\u00e9glig\u00e9s",
+      "description": "Les risques sanitaires ne viennent pas d\u2019une m\u00e9connaissance des maladies, mais d\u2019un d\u00e9faut de prise en charge dans les zones o\u00f9 elles sont d\u00e9j\u00e0 identifi\u00e9es, comme en R\u00e9publique du Congo, avec la mpox, ou aux Etats-Unis, o\u00f9 s\u00e9vit une \u00e9pid\u00e9mie de grippe aviaire.",
+      "url": "https://www.lemonde.fr/idees/article/2025/02/06/les-virus-responsables-des-prochaines-epidemies-sont-connus-mais-negliges_6533919_3232.html",
+      "urlToImage": "https://img.lemde.fr/2024/10/05/0/45/5262/3508/1440/960/60/0/ab0c0e4_2024-10-05t191604z-369838888-rc2ceaa6qs9n-rtrmadp-3-health-mpox-congo.JPG",
+      "publishedAt": "2025-02-06 07:00:13",
+      "content": "Cest un r\u00e9sum\u00e9 en acc\u00e9l\u00e9r\u00e9 des enjeux de sant\u00e9 mondiale, exactement cinq ans apr\u00e8s le d\u00e9but de la pand\u00e9mie de Covid-19.Le 29 novembre 2024, les autorit\u00e9s dune r\u00e9gion tr\u00e8s isol\u00e9e en R\u00e9publique d\u00e9mocra\u2026 [+2112 chars]",
+      "retrievedAt": "2025-02-07 07:06:50.862051",
+      "internal_id": "f928326146d30380b47a2d96f57bdd61a07bcb1b114f0d797d9d90d9dd99f770",
+      "publishedAtLabel": "Feb 6"
+    },
+    {
+      "id": 17979,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Leandro Costa Criscuolo",
+      "title": "EUA: vacas s\u00e3o infectadas com nova vers\u00e3o da gripe avi\u00e1ria",
+      "description": "Descoberta j\u00e1 levanta preocupa\u00e7\u00f5es sobre os riscos para a ind\u00fastria de latic\u00ednios e para a sa\u00fade p\u00fablica O post EUA: vacas s\u00e3o infectadas com nova vers\u00e3o da gripe avi\u00e1ria apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2025/02/06/medicina-e-saude/eua-vacas-sao-infectadas-com-nova-versao-da-gripe-aviaria/",
+      "urlToImage": "https://img.odcdn.com.br/wp-content/uploads/2025/02/vacas.jpg",
+      "publishedAt": "2025-02-06 04:30:00",
+      "content": "O Departamento de Agricultura dos EUAanunciou que vacas-leiteiras de Nevada (EUA) foram infectadas por nova variante do H5N1, cepa de gripe avi\u00e1ria diferente da vers\u00e3o que tem se espalhado nos \u00faltimo\u2026 [+1350 chars]",
+      "retrievedAt": "2025-02-07 07:06:47.789920",
+      "internal_id": "83cc59d09435a1ab87662ad1987bf864351340c694d57820d08094ce093b49b3",
+      "publishedAtLabel": "Feb 6"
+    },
+    {
+      "id": 17981,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Durgesh Nandan Jha",
+      "title": "ICMR working on desi vaccine against H5N1 bird flu virus",
+      "description": "India News: NEW DELHI: The Indian Council for Medical Research (ICMR) is working to develop an indigenous vaccine against the H5N1 bird flu virus, which, in rare .",
+      "url": "https://timesofindia.indiatimes.com/india/icmr-working-on-desi-vaccine-against-h5n1-bird-flu-virus/articleshow/117968597.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-117968734,width-1070,height-580,imgsize-17742,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2025-02-06 04:23:26",
+      "content": "Check out the latest news about Delhi Elections 2025, including key constituencies such as Kalkaji, Karol Bagh, Tilak Nagar, New Delhi, Laxmi Nagar, Badarpur, Ghonda, Krishna Nagar, Model Town, Ritha\u2026 [+42 chars]",
+      "retrievedAt": "2025-02-07 07:06:47.819239",
+      "internal_id": "4cf6eb11fa951111ff2a2a0322bc35383649bd7efdcbc1acaa2578a6eca5ac8d",
+      "publishedAtLabel": "Feb 6"
+    },
+    {
+      "id": 17984,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Will Stone",
+      "title": "A new type of bird flu has been found in dairy cows in Nevada",
+      "description": "The strain of bird flu is distinct from what has previously been found in dairy cattle. The finding means the virus has again spilled over from birds to cows, and it raises some worrying questions.",
+      "url": "https://www.npr.org/sections/shots-health-news/2025/02/05/nx-s1-5286265/bird-flu-cow-cattle-nevada",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3300x1856+0+544/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbd%2Fd3%2Fb166439240cbb94303d775ccec0b%2Fgettyimages-120056315.jpg",
+      "publishedAt": "2025-02-06 03:50:08",
+      "content": "A variant of H5N1 bird flu that has circulated widely in wild birds and in several instances led to severe illness in several humans has turned up in dairy cattle for the first time. The findings we\u2026 [+2683 chars]",
+      "retrievedAt": "2025-02-07 07:06:47.908937",
+      "internal_id": "a1b02c101ae94ec835429703db1fb51297a5c0e0bd8da42faed5f7a71f58814d",
+      "publishedAtLabel": "Feb 6"
+    },
+    {
+      "id": 17990,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Conte\u00fado Especial",
+      "title": "Dengue: cuidados devem ser redobrados no per\u00edodo chuvoso",
+      "description": "Nas primeiras semanas de 2025, a Secretaria de Sa\u00fade registrou 1.679 casos prov\u00e1veis da doen\u00e7a no DF",
+      "url": "https://www.metropoles.com/conteudo-especial/dengue-cuidados-devem-ser-redobrados-no-periodo-chuvoso",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2025/01/06072339/dengue-7.jpg",
+      "publishedAt": "2025-02-06 03:40:20",
+      "content": "As chuvas de ver\u00e3o, bem caracter\u00edsticas nos meses de dezembro a fevereiro, al\u00e9m de amenizar um pouco o calor, s\u00e3o um alerta para a prolifera\u00e7\u00e3o do Aedes aegypti principal transmissor da dengue, zika \u2026 [+2721 chars]",
+      "retrievedAt": "2025-02-07 07:06:48.626636",
+      "internal_id": "0a75fc0fc5e3ee183ee15b6c45ace02c5129aceab340dbc776d8a8202f6e8bd7",
+      "publishedAtLabel": "Feb 6"
+    },
+    {
+      "id": 17986,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "WKOW",
+      "author": "Brenda Goodman",
+      "title": "Dairy herds in Nevada test positive for newer bird flu strain that\u2019s been linked to severe human infections",
+      "description": "(CNN) \u2014 Six dairy herds in Nevada have tested positive for a newer strain of the H5N1 bird flu virus that\u2019s been associated with severe infections in humans, according to",
+      "url": "https://www.wkow.com/news/health/dairy-herds-in-nevada-test-positive-for-newer-bird-flu-strain-that-s-been-linked/article_ad4cafb5-b43d-505b-a33d-bec18360084b.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/wkow.com/content/tncms/assets/v3/editorial/9/73/97336d18-9f7c-5dfd-a181-04737e0b5a25/67a416798abfc.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2025-02-06 03:39:45",
+      "content": "(CNN) Six dairy herds in Nevada have tested positive for a newer strain of the H5N1 bird flu virus thats been associated with severe infections in humans, according to the Nevada Department of Agricu\u2026 [+3312 chars]",
+      "retrievedAt": "2025-02-07 07:06:47.976999",
+      "internal_id": "9f322ad5d2edfb86e67de8e6adaf7ebc1a5ef3bc937354a2222ab329d13579cc",
+      "publishedAtLabel": "Feb 6"
+    },
+    {
+      "id": 17975,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Lifesciencesworld.com",
+      "author": "LSW Team",
+      "title": "Can opossums contract rabies?",
+      "description": "Can Opossums Contract Rabies? Understanding the Risks Opossums are often misunderstood creatures, and one of the most concerning aspects of [\u2026] The post Can opossums contract rabies? appeared first on Life Sciences World.",
+      "url": "https://lifesciencesworld.com/can-opossums-contract-rabies/",
+      "urlToImage": "https://lifesciencesworld.com/wp-content/uploads/2024/12/featured.png",
+      "publishedAt": "2025-02-06 03:24:15",
+      "content": "Can Opossums Contract Rabies? Understanding the Risks Opossums are often misunderstood creatures, and one of the most concerning aspects of their behavior is their potential to contract rabies. Whi\u2026 [+4528 chars]",
+      "retrievedAt": "2025-02-07 07:06:46.485900",
+      "internal_id": "e383fc6232be607b51483fdb5ddf26f4be5f6baad81dd789a0a7aa64fae04b44",
+      "publishedAtLabel": "Feb 6"
+    },
+    {
+      "id": 17991,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Japan Times",
+      "author": "Eric Randolph",
+      "title": "U.S. aid cuts come at deadly moment for malaria control",
+      "description": "Funding of up to $1 billion a year is now frozen as part of U.S President Donald Trump's plan to axe foreign aid.",
+      "url": "https://www.japantimes.co.jp/news/2025/02/06/world/science-health/us-aid-cut-malaria-control-danger/",
+      "urlToImage": "https://www.japantimes.co.jp/japantimes/uploads/images/2025/02/06/450654.jpg?v=3.1",
+      "publishedAt": "2025-02-06 03:14:00",
+      "content": "Nairobi The sudden freezing of U.S. aid to malaria projects comes as deadly new variants are spreading in Africa and could have a devastating impact, the head of a major NGO has said. The U.S. gover\u2026 [+307 chars]",
+      "retrievedAt": "2025-02-07 07:06:49.712444",
+      "internal_id": "f736841426a678f8869bb615b9c7979c5c41b85eee4c4b16eb0ac2b4fd05f184",
+      "publishedAtLabel": "Feb 6"
+    },
+    {
+      "id": 17989,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Excelsior.com.mx",
+      "author": "j.carlos.segundo",
+      "title": "M\u00e9xico acumula 887 casos de dengue en lo que va de 2025",
+      "description": "Patricia Rodr\u00edguez Calva Hasta el pasado 27 de enero, se ten\u00edan registrados 887 casos confirmados de dengue en 27 estados del pa\u00eds, sin que hasta el momento se hayan reportado fallecimientos. El 64 % de las personas contagiadas de esta enfermedad viral se\u2026",
+      "url": "https://www.excelsior.com.mx/nacional/mexico-acumula-887-casos-de-dengue-en-lo-que-va-de-2025/1698278",
+      "urlToImage": "https://www.excelsior.com.mx/media/styles/image1200x630/public/pictures/2025/02/05/3254131.jpg",
+      "publishedAt": "2025-02-06 01:32:00",
+      "content": "Hasta el pasado 27 de enero, se ten\u00edan registrados 887 casos confirmados de dengue en 27 estados del pa\u00eds, sin que hasta el momento se hayan reportado fallecimientos. El 64 % de las personas contagi\u2026 [+813 chars]",
+      "retrievedAt": "2025-02-07 07:06:48.589027",
+      "internal_id": "4fb34aba1e3372fdb862f63fd39ec51be514894066992f3b9f18c183cd022227",
+      "publishedAtLabel": "Feb 6"
+    },
+    {
+      "id": 17978,
+      "query": [
+        "hpai",
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "WDIV ClickOnDetroit",
+      "author": "Brandon Carr",
+      "title": "USDA confirms Nevada dairy cows infected with 2nd strain of bird flu",
+      "description": "On Jan. 31, 2025, the USDA Animal and Plant Health Inspection Service (APHIS) National Veterinary Services Laboratories (NVSL) confirmed by whole genome sequence the first detection of highly pathogenic avian influenza (HPAI) H5N1 clade 2.3.4.4b, genotype D1.\u2026",
+      "url": "https://www.clickondetroit.com/news/local/2025/02/06/usda-confirms-nevada-dairy-cows-infected-with-2nd-strain-of-bird-flu/",
+      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/WVOHXCH4YJHFLDM4SM7WSS76OI.jpg?_a=DATAdtfiZAA0",
+      "publishedAt": "2025-02-06 01:25:31",
+      "content": "On Jan. 31, 2025, the USDA Animal and Plant Health Inspection Service (APHIS) National Veterinary Services Laboratories (NVSL) confirmed by whole genome sequence the first detection of highly pathoge\u2026 [+943 chars]",
+      "retrievedAt": "2025-02-07 07:06:47.343217",
+      "internal_id": "d5aba8851727adb0f8ea47f3d906aa35e32486c91900ea8dee95f450bdc75d44",
+      "publishedAtLabel": "Feb 6"
+    },
+    {
+      "id": 17982,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Alexander Tin",
+      "title": "Respiratory symptoms reported in Nevada cows with lethal bird flu strain",
+      "description": "The strain, called D1.1, was behind a human death from bird flu last year.",
+      "url": "https://www.cbsnews.com/news/cows-bird-flu-d11-symptoms/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/07/03/b22016d8-f0bf-4999-818f-26fa5e21ec6e/thumbnail/1200x630/13ff269a7a9c34475566c9c386c883bf/gettyimages-118205813-copy.jpg?v=aaeeb2bb1dd1cd7107e4d78154d17e02",
+      "publishedAt": "2025-02-06 01:15:19",
+      "content": "At least four cattle herds in Nevada have tested positive for a strain of H5N1 bird flu never before seen in cows, state agriculture officials confirmed Wednesday, and respiratory symptoms like cough\u2026 [+4399 chars]",
+      "retrievedAt": "2025-02-07 07:06:47.833465",
+      "internal_id": "f4e318350b12aca43f3b357aac6c3046a26c3e726bc4383f89c0f51e0c0fc752",
+      "publishedAtLabel": "Feb 6"
+    },
+    {
+      "id": 17977,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "Trump Considers Labeling Migrants a Measles, Tuberculosis Risk (Wall Street Journal)",
+      "description": "Wall Street Journal: Trump Considers Labeling Migrants a Measles, Tuberculosis Risk \u2014 Advisers have been searching for disease threats that would merit emergency health law invoked during Trump's first term to designate migrants a Covid-19 risk \u2014 WASHINGT\u2026",
+      "url": "https://www.memeorandum.com/250205/p181",
+      "urlToImage": "https://images.wsj.net/im-44290234/social",
+      "publishedAt": "2025-02-06 01:10:00",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-02-07 07:06:46.913521",
+      "internal_id": "0650f25e8b5bc5c1f35d5864d63bb997e9f118aa0cb322c000fb92e390e2666f",
+      "publishedAtLabel": "Feb 6"
+    },
+    {
+      "id": 17974,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "KHQ Right Now",
+      "author": "Daniel Fortin",
+      "title": "First whooping cough death in Washington state since 2011 confirmed by CDC",
+      "description": "SPOKANE COUNTY, Wash. \u2013 A child from Spokane County has died from whooping cough, marking the first pertussis-related death in Washington since 2011.",
+      "url": "https://www.khq.com/news/first-whooping-cough-death-in-washington-state-since-2011-confirmed-by-cdc/article_31d39520-e424-11ef-bedf-934a7c190434.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/khq.com/content/tncms/assets/v3/editorial/e/d7/ed712bac-d467-11ef-bf31-e79ba18eee7b/6789a101d5cd9.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2025-02-06 00:56:23",
+      "content": "SPOKANE COUNTY, Wash. A child from Spokane County has died from whooping cough, marking the first pertussis-related death in Washington since 2011. According to the Spokane Regional Health Distric\u2026 [+1195 chars]",
+      "retrievedAt": "2025-02-07 07:06:45.927836",
+      "internal_id": "2fec4f5d45a8d72a5399ca42e7435e3a5345995c71cf21720dba9d52e0f3a9a2",
+      "publishedAtLabel": "Feb 6"
+    },
+    {
+      "id": 17976,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Politicalwire.com",
+      "author": "Taegan Goddard",
+      "title": "Trump Considers Labeling Migrants a Health Risk",
+      "description": "\u201cThe Trump administration is considering a move to repel asylum seekers at the southern border on the basis that they might bring measles or tuberculosis infections with them into the U.S.,\u201d the Wall Street Journal",
+      "url": "https://politicalwire.com/2025/02/05/trump-considers-labeling-migrants-a-health-risk/",
+      "urlToImage": "https://politicalwire.com/wp-content/uploads/2018/02/PW-podcast-logo.jpg",
+      "publishedAt": "2025-02-06 00:55:48",
+      "content": "\u201cThere are a lot of blogs and news sites claiming to understand politics, but only a few actually do. Political Wire is one of them.\u201d Chuck Todd, host of \u201cMeet the Press\u201d \u201cConcise. Relevant. To th\u2026 [+594 chars]",
+      "retrievedAt": "2025-02-07 07:06:46.905923",
+      "internal_id": "acefe78d4e5e9635878f3140a1132f8672b2ac7915583873f1445a9cf09fe925",
+      "publishedAtLabel": "Feb 6"
+    },
+    {
+      "id": 17983,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "VOA News",
+      "author": "webdesk@voanews.com (Reuters)",
+      "title": "Second bird flu strain found in US dairy cattle, agriculture agency says",
+      "description": "U.S. dairy cattle tested positive for a strain of bird flu that previously had not been seen in cows, the U.S. Department of Agriculture said on Wednesday, ramping up concerns about the persistent spread of the virus. The H5N1 virus has reduced milk output\u2026",
+      "url": "https://www.voanews.com/a/second-bird-flu-strain-found-in-us-dairy-cattle-agriculture-agency-says/7964683.html",
+      "urlToImage": "https://gdb.voanews.com/A96C9D0F-E3DC-45AD-BAA9-D8D695EFA6DA.jpg",
+      "publishedAt": "2025-02-06 00:40:54",
+      "content": "U.S. dairy cattle tested positive for a strain of bird flu that previously had not been seen in cows, the U.S. Department of Agriculture said on Wednesday, ramping up concerns about the persistent sp\u2026 [+2465 chars]",
+      "retrievedAt": "2025-02-07 07:06:47.841224",
+      "internal_id": "a3ee9e9ba9ae39b3ee62fbf80178057566381b55a53ecabf348532c988de2ba6",
+      "publishedAtLabel": "Feb 6"
+    },
+    {
+      "id": 17987,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Brenda Goodman",
+      "title": "Dairy herds in Nevada test positive for newer bird flu strain that\u2019s been linked to severe human infections | CNN",
+      "description": "Six dairy herds in Nevada have tested positive for a newer strain of the H5N1 bird flu virus that\u2019s been associated with severe infections in humans, according to the Nevada Department of Agriculture.",
+      "url": "https://www.cnn.com/2025/02/05/health/bird-flu-cattle-nevada/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1450575899.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2025-02-05 23:40:52",
+      "content": "Six dairy herds in Nevada have tested positive for a newer strain of the H5N1 bird flu virus thats been associated with severe infections in humans, according to the Nevada Department of Agriculture.\u2026 [+3232 chars]",
+      "retrievedAt": "2025-02-07 07:06:47.985228",
+      "internal_id": "e9f4c15d5068caa979521e09b1ff6ea229a69251f97a1959a5de96ac9245339b",
+      "publishedAtLabel": "Feb 5"
+    },
+    {
+      "id": 17980,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Antonio Peque\u00f1o IV, Forbes Staff, \n Antonio Peque\u00f1o IV, Forbes Staff\n https://www.forbes.com/sites/antoniopequenoiv/",
+      "title": "New Bird Flu Strain Detected In Cows In Nevada",
+      "description": "The strain killed an elderly Louisiana resident in January and hospitalized a Canadian child late last year.",
+      "url": "https://www.forbes.com/sites/antoniopequenoiv/2025/02/05/new-bird-flu-strain-detected-in-cows-in-nevada/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67a3f5868c0e84f17d22db55/0x0.jpg?format=jpg&crop=3251,2169,x0,y0,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-02-05 23:35:42",
+      "content": "A strain of the H5N1 bird flu virus that has typically spread in poultry and wild birds recently jumped to dairy cattle in Nevada, the Department of Agriculture reported Wednesday, noting the transit\u2026 [+2811 chars]",
+      "retrievedAt": "2025-02-07 07:06:47.798287",
+      "internal_id": "7fdcead106da08d6c2f6a5ade40b3bd53868b2cacc4b3063e2bd283928c7a760",
+      "publishedAtLabel": "Feb 5"
+    },
+    {
+      "id": 17992,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Thefly.com",
+      "author": null,
+      "title": "Valneva jumps 19% after chikungunya vaccine wins UK approval",
+      "description": "See the rest of the story here. thefly.com provides the latest financial news as it breaks. Known as a leader in market intelligence, The Fly's real-time, streaming news feed keeps individual investors, professional money managers, active traders, and corpor\u2026",
+      "url": "https://thefly.com/permalinks/entry.php/id4065077/VALN-Valneva-jumps--after-chikungunya-vaccine-wins-UK-approval",
+      "urlToImage": "https://thefly.com/images/meta/hotstocks.jpg",
+      "publishedAt": "2025-02-05 23:09:55",
+      "content": "Earnings calls, analyst events, roadshows and more",
+      "retrievedAt": "2025-02-07 07:06:50.353301",
+      "internal_id": "42a370ab18eeee9a3e654b32a64ea37802b1ac5bc9d36f8326139e8e9445930e",
+      "publishedAtLabel": "Feb 5"
+    },
+    {
+      "id": 17988,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Las Vegas Review-Journal",
+      "author": "Susanne Rust Los Angeles Times",
+      "title": "Deadly bird flu detected in Nevada dairy cows",
+      "description": "A version of the H5N1 bird flu virus that killed a person in Louisiana and severely sickened a teenager in Canada has now been detected in dairy herds in Nevada.",
+      "url": "https://www.reviewjournal.com/post/3275933",
+      "urlToImage": "https://www.reviewjournal.com/wp-content/uploads/2025/02/20136922_web1_PONDEROSA-DAIRIES-6.jpg",
+      "publishedAt": "2025-02-05 23:00:39",
+      "content": "A version of the H5N1 bird flu virus that killed a person in Louisiana and severely sickened a teenager in Canada has now been detected in dairy herds in Nevada. The version, known as D1.1, is circu\u2026 [+4141 chars]",
+      "retrievedAt": "2025-02-07 07:06:47.992089",
+      "internal_id": "dbe4fad4c2309315f7e951c0cf037934cc663468d1c895d06844174fd5d472ed",
+      "publishedAtLabel": "Feb 5"
+    },
+    {
+      "id": 17985,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "STAT",
+      "author": "Helen Branswell",
+      "title": "USDA milk testing shows different strain of H5N1 bird flu in Nevada dairy herds",
+      "description": "The USDA said four Nevada dairy herds were infected with an H5N1 bird flu strain that has circulated in wild birds, making prospects for containment in cows appear dim.",
+      "url": "https://www.statnews.com/2025/02/05/usda-nevada-herds-different-bird-flu-strain-milk-testing/",
+      "urlToImage": "https://www.statnews.com/wp-content/uploads/2025/02/GettyImages-2189424429-1024x576.jpg",
+      "publishedAt": "2025-02-05 19:28:44",
+      "content": "The U.S. Department of Agriculture announced Wednesday that four dairy herds in Nevada recently determined to be infected with H5N1 bird flu were in fact infected with a different strain of the virus\u2026 [+1868 chars]",
+      "retrievedAt": "2025-02-07 07:06:47.969898",
+      "internal_id": "7d23b2054860b5fc3e1e2ad5b6066b4f9d628127a8618017aeb0a9bef181b2f0",
+      "publishedAtLabel": "Feb 5"
+    },
     {
       "id": 17970,
       "query": [
@@ -22428,6 +22790,96 @@
       "content": "Doniesienia z USA: Ameryka\u0144skie s\u0142u\u017cby epidemiologiczne poda\u0142y, \u017ce 65-letni m\u0119\u017cczyzna ma rozleg\u0142\u0105 infekcj\u0119. Do zaka\u017cenia mia\u0142o doj\u015b\u0107 w wyniku kontaktu z przydomowym drobiem - jest to pierwszy taki pr\u2026 [+1099 chars]",
       "retrievedAt": "2024-12-24 07:06:19.729663",
       "internal_id": "70b65642f13b1dbea4d5c7ad207de5895b22c8c856745b39e910bd6719b57392",
+      "publishedAtLabel": "Dec 22"
+    },
+    {
+      "id": 16720,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": null,
+      "title": "La Ciudad habilita m\u00e1s turnos para la vacunaci\u00f3n contra el dengue",
+      "description": "En esta etapa, los j\u00f3venes de entre 25 y 29 a\u00f1os podr\u00e1n darse su primera dosis y los de entre 15 y 19 la segunda; las inscripciones arrancar\u00e1n este 23 de diciembre y los turnos estar\u00e1n disponibles a partir del 2 de enero",
+      "url": "https://www.lanacion.com.ar/politica/la-ciudad-habilita-mas-turnos-para-la-vacunacion-contra-el-dengue-nid22122024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/la-ciudad-avanza-con-la-vacunacion-contra-el-QY3H2227OZDAHJGQRBIVPTHOLM.JPG?auth=0c64d49d3c33ef1bf88bed08d1f139ef8088dbcf65c8530bc62604ac602bd381&width=1200&quality=70&smart=false&height=799",
+      "publishedAt": "2024-12-22 18:33:36",
+      "content": "El Ministerio de Salud de la Ciudad de Buenos Aires anunci\u00f3 que este lunes 23 de diciembre habilitar\u00e1 nuevos turnos para vacunarse contra el dengue. Se trata de un plan integral de prevenci\u00f3n contra \u2026 [+4055 chars]",
+      "retrievedAt": "2024-12-23 19:05:33.913146",
+      "internal_id": "304f4ea1442b3ed4a4d9c03654f59508d60b5cd11aaa3419864d9d1f07752a12",
+      "publishedAtLabel": "Dec 22"
+    },
+    {
+      "id": 16719,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Leandro Costa Criscuolo",
+      "title": "Fen\u00f4menos clim\u00e1ticos podem ter influ\u00eancia em alta de casos de dengue",
+      "description": "Pesquisadores relacionam fen\u00f4menos clim\u00e1ticos a surtos de dengue e alertam para a necessidade de pol\u00edticas p\u00fablicas de preven\u00e7\u00e3o O post Fen\u00f4menos clim\u00e1ticos podem ter influ\u00eancia em alta de casos de dengue apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2024/12/22/medicina-e-saude/fenomenos-climaticos-podem-ter-influencia-em-alta-de-casos-de-dengue/",
+      "urlToImage": "https://img.odcdn.com.br/wp-content/uploads/2024/12/dengue.jpg",
+      "publishedAt": "2024-12-22 15:06:00",
+      "content": "Um levantamento realizado por pesquisadores da Fiocruz e do Procam (USP) revelou que os fen\u00f4menos clim\u00e1ticos El Ni\u00f1o e La Ni\u00f1a est\u00e3o diretamente relacionados ao aumento de casos de dengue registrados\u2026 [+1389 chars]",
+      "retrievedAt": "2024-12-23 19:05:33.875893",
+      "internal_id": "d2ca5080df4e44ab508c9471f8e72de151f63ef8f7cc5ffbd93971b0ba338c5c",
+      "publishedAtLabel": "Dec 22"
+    },
+    {
+      "id": 16718,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Haber7.com",
+      "author": "Hakan Erdi Uluda\u011f",
+      "title": "ABD'de acil durum ilan edildi! Ku\u015f gribi nedir, belirtileri neler?",
+      "description": "ABD'nin Kaliforniya eyaletinde ku\u015f gribi (H5N1) vakalar\u0131nda ciddi bir art\u0131\u015f g\u00f6zlemlendi. Vakalar\u0131n artmas\u0131yla birlikte ABD'de k\u0131rm\u0131z\u0131 durum ilan edildi. Peki ku\u015f gribi belirtileri nedir? A\u015f\u0131s\u0131 var m\u0131?",
+      "url": "https://www.haber7.com/guncel/haber/3489889-abdde-acil-durum-ilan-edildi-kus-gribi-nedir-belirtileri-neler",
+      "urlToImage": "https://i12.haber7.net//haber/haber7/og_image/2024/51/abdde_acil_durum_ilan_edildi_kus_gribi_nedir_belirtileri_neler_1734875405_689.jpg",
+      "publishedAt": "2024-12-22 14:03:00",
+      "content": "ABD, bir s\u00fcredir artan ku gribi vakalaryla ba etmeye \u00e7alyor. Kaliforniya Valilik Ofisi tarafndan yaplan a\u00e7klamada, 16 eyaletteki b\u00fcy\u00fckba hayvanlarda H5N1 vir\u00fcs\u00fcn\u00fcn tespit edildii, yaylm kontrol altna\u2026 [+836 chars]",
+      "retrievedAt": "2024-12-23 19:05:33.369605",
+      "internal_id": "fa2f502d2d1b4b0360df4cd7c9c2ccfb869d9f5405ec081d29a4b03ca43f7089",
+      "publishedAtLabel": "Dec 22"
+    },
+    {
+      "id": 16729,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Mustsharenews.com",
+      "author": "Jeremy Lee",
+      "title": "H5N1 poses 'highest risk' of becoming next pandemic, S'pore health authorities monitoring situation",
+      "description": "H5N1 poses the \"highest risk\" of becoming the next pandemic and Singapore's health authorities are monitoring it, said the Health Minister.",
+      "url": "https://mustsharenews.com/h5n1-pandemic-risk/",
+      "urlToImage": "https://mustsharenews.com/wp-content/uploads/2024/12/H5N1-poses-highest-risk-of-becoming-next-pandemic-Spore-health-authorities-monitoring-situation.jpg",
+      "publishedAt": "2024-12-22 11:38:13",
+      "content": "H5N1, also known as bird flu, poses the \u201chighest risk\u201d of becoming the next pandemic, with the Singapore health authorities monitoring the situation. This was revealed in a Facebook post by Health M\u2026 [+3494 chars]",
+      "retrievedAt": "2024-12-24 07:06:19.792592",
+      "internal_id": "21c63bceb7bf8d67dac233ecc9c702e486ef118176488b5b7b43ef28cefb1343",
+      "publishedAtLabel": "Dec 22"
+    },
+    {
+      "id": 16717,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Www.dn.se",
+      "author": "Maria Gunther",
+      "title": "Maria Gunther: Lyckliga i alla sina dagar \u2013 men m\u00e5r prinsessorna verkligen bra?",
+      "description": "\u00c4ven Disneyprinsessor \u00e4r utsatta f\u00f6r allvarliga h\u00e4lsorisker, som isolering, depression, diabetes, nyckelbensfraktur, lungcancer, rabies och skallighet.",
+      "url": "https://www.dn.se/varlden/maria-gunther-lyckliga-i-alla-sina-dagar-men-mar-prinsessorna-verkligen-bra/",
+      "urlToImage": "https://static.bonniernews.se/gcs/bilder/dn-mly/2e0be684-434d-476a-b61a-c9a3a3c4c015.jpeg?io=1&width=1024&crop=16:9,smart",
+      "publishedAt": "2024-12-22 08:56:33",
+      "content": "Stackars Askungen, suckar musen Gus p\u00e5 julafton varje \u00e5r, i Kalle Anka och hans v\u00e4nner \u00f6nskar God Jul. Och kanske har han mer r\u00e4tt \u00e4n vi anat. Det har l\u00e4nge funnits farh\u00e5gor, bland forskare, debatt\u2026 [+3615 chars]",
+      "retrievedAt": "2024-12-23 19:05:32.336378",
+      "internal_id": "04e8cdc160a10cab0ce0e647c6450d19c2b0836c4688ebf7ca0ce5754d172dd5",
       "publishedAtLabel": "Dec 22"
     }
   ]
