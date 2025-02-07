@@ -1,8 +1,478 @@
 {
-  "last_updated": "2025-02-07 07:06",
-  "count_articles_total": 1268,
-  "count_articles_new": 20,
+  "last_updated": "2025-02-07 19:05",
+  "count_articles_total": 1289,
+  "count_articles_new": 26,
   "articles": [
+    {
+      "id": 18002,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Meneame.net",
+      "author": "Cehona",
+      "title": "Detectan un nuevo \u2018salto\u2019 de gripe aviar H5N1 a vacas [ENG]",
+      "description": "Una cepa de la gripe H5N1 presente en aves se ha identificado por primera vez en vacas en Estados Unidos, lo que indica una mayor extensi\u00f3n de la zoonosis. Primera detecci\u00f3n de este genotipo del virus [D1.1] en ganado lechero (todas las detecciones anteriores\u2026",
+      "url": "https://www.meneame.net/m/actualidad/detectan-nuevo-salto-gripe-aviar-h5n1-vacas-eng",
+      "urlToImage": "https://www.meneame.net//cdn.mnmstatic.net/img/mnm/logo-350x350.png",
+      "publishedAt": "2025-02-06 18:26:51",
+      "content": "",
+      "retrievedAt": "2025-02-07 19:05:52.273172",
+      "internal_id": "d54efb3382891832a68c4465cbca6f85e982a9e9cce84f23a65f6c0acc5640a8",
+      "publishedAtLabel": "Feb 6"
+    },
+    {
+      "id": 18006,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "The Feed",
+      "title": "New bird flu variant detected in Nevada dairy cattle, raising concerns of endemic spread",
+      "description": "In the US state of Nevada, a newly identified H5N1 bird flu strain, D1.1, has been found in six dairy herds. Scientists warn the virus could become endemic, posing risks to livestock and human health.",
+      "url": "https://economictimes.indiatimes.com/news/international/us/new-bird-flu-variant-detected-in-nevada-dairy-cattle-raising-concerns-of-endemic-spread/articleshow/117992342.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-117992343,width-1200,height-630,imgsize-27490,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-02-06 18:24:39",
+      "content": "The Nevada Department of Agriculture in the US has confirmed that six dairy herds in the state have tested positive for a new variant of the H5N1 bird flu virus. According to a report by CNN, this ne\u2026 [+3216 chars]",
+      "retrievedAt": "2025-02-07 19:05:52.367284",
+      "internal_id": "f98ae4b48ad0fe53d32591afd38f91e59356d7ad995e35a0470fe34d14dd9e94",
+      "publishedAtLabel": "Feb 6"
+    },
+    {
+      "id": 18019,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Independent.ie",
+      "author": "Eilish O'Regan",
+      "title": "First case of deadlier strain of mpox detected in Ireland after patient returns from abroad",
+      "description": "The first case of a deadlier strain of mpox has been diagnosed in Ireland after a patient returned from abroad, it was confirmed today.",
+      "url": "https://www.independent.ie/irish-news/first-case-of-deadlier-strain-of-mpox-detected-in-ireland-after-patient-returns-from-abroad/a996093297.html",
+      "urlToImage": "https://focus.independent.ie/thumbor/M2_Uy_Z4Xpj9CU-sQ0pY2PUPLjg=/629x460/smart/prod-mh-ireland/880eeebd-5277-4fb8-8f9f-babd5cb7e961/cb7f3b1d-ad82-4eb7-b777-777810975ec8/880eeebd-5277-4fb8-8f9f-babd5cb7e961.jpg",
+      "publishedAt": "2025-02-06 18:10:05",
+      "content": "The first case of a deadlier strain of mpox has been diagnosed in Ireland after a patient returned from abroad, it was confirmed today.The HSE said it has detected one imported case of Clade I mpox i\u2026 [+3349 chars]",
+      "retrievedAt": "2025-02-07 19:05:54.685824",
+      "internal_id": "9d33142e18e19f64bd37b9506a8e4c8c1ff0954f841d28b2b98829544218594c",
+      "publishedAtLabel": "Feb 6"
+    },
+    {
+      "id": 17997,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "Deadly version of H5N1 bird flu spills over into Nevada dairy cattle (Susanne Rust/Los Angeles Times)",
+      "description": "Susanne Rust / Los Angeles Times: Deadly version of H5N1 bird flu spills over into Nevada dairy cattle \u2014 (Charlie Litchfield / Associated Press) \u2014 A new version of the H5N1 bird flu virus has been detected in milk samples collected from dairy herds in Neva\u2026",
+      "url": "https://www.memeorandum.com/250206/p81",
+      "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/afce4dc/2147483647/strip/true/crop/3216x1688+0+224/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F7b%2F7b%2Fdbb0c4c34115b1629c77e7a4304c%2Fcow-manure-green-energy-fraud-88622.jpg",
+      "publishedAt": "2025-02-06 18:00:33",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-02-07 19:05:52.176791",
+      "internal_id": "f1b3d27c83f3cc118aea642727d144299d789438d102af5d9935dbc3e348d346",
+      "publishedAtLabel": "Feb 6"
+    },
+    {
+      "id": 18018,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "TheJournal.ie",
+      "author": "Emma Hickey",
+      "title": "First case of Clade I mpox detected in Ireland as HSE says risk to public 'remains low'",
+      "description": "The case was detected in an Irish resident who had recently returned to Ireland following travel to the Democratic Republic of Congo.",
+      "url": "https://www.thejournal.ie/mpox-ireland-6615837-Feb2025/",
+      "urlToImage": "https://img2.thejournal.ie/article/6615837/river/?height=400&version=6615865",
+      "publishedAt": "2025-02-06 17:51:12",
+      "content": "THE FIRST CASE of Clade I mpox in Ireland has been confirmed. The HSE has detected one imported case of Clade I mpox, it said today, adding that the public risk remains low. The case was detected \u2026 [+5030 chars]",
+      "retrievedAt": "2025-02-07 19:05:54.619797",
+      "internal_id": "a95febff763c8a5714b828bb6acc315af9e5383796ca4cdb19dc24c2d3a3d934",
+      "publishedAtLabel": "Feb 6"
+    },
+    {
+      "id": 18000,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Mediafax.ro",
+      "author": "Iris Dutescu",
+      "title": "Vaci din SUA, contaminate cu o nou\u0103 form\u0103 de grip\u0103 aviar\u0103. Reprezint\u0103 un risc \u015fi pentru oameni",
+      "description": "Aceasta ar putea viza \u015fi persoanele care lucreaz\u0103 cu animalele.",
+      "url": "https://www.mediafax.ro/externe/vaci-din-sua-contaminate-cu-o-noua-forma-de-gripa-aviara-reprezinta-un-risc-si-pentru-oameni-22683373",
+      "urlToImage": "https://storage0.dms.mpinteractiv.ro/media/1/1/3614/22683373/1/ferma-octav-ganea.jpg?width=640",
+      "publishedAt": "2025-02-06 17:36:33",
+      "content": "Serviciul de inspecie sanitar veterinar i fitosanitar (APHIS), parte din Departamentul Agriculturii, a raportat prima detectare a genotipului D1.1 al virusului H5N1 al gripei aviare \u00eenalt patogene (H\u2026 [+1443 chars]",
+      "retrievedAt": "2025-02-07 19:05:52.253231",
+      "internal_id": "5b6ae5ff97943e08691e6160e61e2903d73c7fff9aeded992e3bcbc105ac49be",
+      "publishedAtLabel": "Feb 6"
+    },
+    {
+      "id": 17996,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "The Week Magazine",
+      "author": "theweekonlineeditors@futurenet.com (Peter Weber, The Week US)",
+      "title": "New form of H5N1 bird flu found in US dairy cows",
+      "description": "This new form of bird flu is different from the version that spread through herds over the last year",
+      "url": "https://theweek.com/health/bird-flu-cattle-second-version",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/4aG2H5aj3x6ZAHFCMoVTRg-1200-80.jpg",
+      "publishedAt": "2025-02-06 17:27:19",
+      "content": "What happened The U.S. Department of Agriculture said Wednesday that a second type of H5N1 bird flu had infected U.S. dairy herds, suggesting that cattle are more susceptible to the avian virus than\u2026 [+1628 chars]",
+      "retrievedAt": "2025-02-07 19:05:52.169154",
+      "internal_id": "f1253053529c1ffba99bf833388d9ab348b1cb014df0071e3a7d5aa5814fba5a",
+      "publishedAtLabel": "Feb 6"
+    },
+    {
+      "id": 18015,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": "UK Health Security Agency",
+      "title": "Guidance: Management of treatment failure (recrudescence) in falciparum malaria",
+      "description": "UK Malaria Expert Advisory Group (formerly the Advisory Committee on Malaria Prevention) interim guidance.",
+      "url": "https://www.gov.uk/government/publications/management-of-treatment-failure-recrudescence-in-falciparum-malaria",
+      "urlToImage": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png",
+      "publishedAt": "2025-02-06 16:57:24",
+      "content": "We use some essential cookies to make this website work. Wed like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services. We also use coo\u2026 [+70 chars]",
+      "retrievedAt": "2025-02-07 19:05:53.765184",
+      "internal_id": "7563356ff42188eda56db80c79e4c54b5ed44a4cbb4a7593a73cf938992d2dc9",
+      "publishedAtLabel": "Feb 6"
+    },
+    {
+      "id": 18007,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "liberation",
+      "source_name": "Lib\u00e9ration",
+      "author": "Margaux Gable",
+      "title": "Grippe aviaire : les autorit\u00e9s sanitaires fran\u00e7aises sur le qui-vive",
+      "description": "Si toute possibilit\u00e9 de pand\u00e9mie d\u2019influenza aviaire est pour l\u2019heure \u00e9cart\u00e9e, les autorit\u00e9s sanitaires restent pr\u00e9occup\u00e9es par la situation sanitaire exceptionnelle observ\u00e9e aux Etats-Unis. En France, aucun cas n\u2019a pour l\u2019instant \u00e9t\u00e9 recens\u00e9 chez l\u2019humain.",
+      "url": "https://www.liberation.fr/societe/grippe-aviaire-les-autorites-sanitaires-francaises-sur-le-qui-vive-20250206_VCWGREWBVRD53G7AJU4K7FWZAU/",
+      "urlToImage": "https://www.liberation.fr/resizer/r7h0BM3Gy9PowOY7YL7rXSGamko=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/PITMEQWMZBFHNGUS5TM3H2TYMI.jpg",
+      "publishedAt": "2025-02-06 16:13:49",
+      "content": "Comment le virus H5N1 se transmet-il de lanimal \u00e0 lhumain ? La situation actuelle est-elle pr\u00e9occupante ? Linfluenza aviaire hautement pathog\u00e8ne pourrait-elle \u00eatre \u00e0 lorigine dune pand\u00e9mie ? Face \u00e0 l\u2026 [+4314 chars]",
+      "retrievedAt": "2025-02-07 19:05:52.380275",
+      "internal_id": "89706308e03bce5ffd2fb47e1b4f250e0d13abf43c12ae4795d571ec2c630a27",
+      "publishedAtLabel": "Feb 6"
+    },
+    {
+      "id": 18003,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Jorge Agle",
+      "title": "Nova cepa de gripe avi\u00e1ria \u00e9 identificada em gado leiteiro dos EUA",
+      "description": "\u00c9 a primeira vez que o gen\u00f3tipo D1.1 da gripe avi\u00e1ria \u00e9 encontrado em vacas. Todos os casos anteriores eram relacionados ao gen\u00f3tipo B3.13",
+      "url": "https://www.metropoles.com/saude/nova-cepa-gripe-aviaria-gado-leiteiro-eua",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2025/02/06105222/gado-leiteiro.jpg",
+      "publishedAt": "2025-02-06 15:02:32",
+      "content": "O Departamento de Agricultura dos Estados Unidos (USDA, na sigla em ingl\u00eas) informou, na quarta-feira (5/2), que uma nova cepa de gripe avi\u00e1ria (H5N1) foi detectada em um gado leiteiro de Nevada. \u00c9 \u2026 [+2262 chars]",
+      "retrievedAt": "2025-02-07 19:05:52.291616",
+      "internal_id": "5c4fbce7782b7046e1f777d0a0891d42cffebb22acc51abad94fc2e68aa05365",
+      "publishedAtLabel": "Feb 6"
+    },
+    {
+      "id": 17999,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Newser",
+      "author": "Arden Dier",
+      "title": "2nd Form of Bird Flu Spreads to Cows",
+      "description": "Since it was introduced to cattle in late 2023, a version of the H5N1 bird flu virus known as B3.13 has infected more than 950 herds in 16 states. But now, a new version is spreading, per the Guardian . This one, D1.1\u2014the same genotype that infected the...",
+      "url": "https://www.newser.com/story/363806/2nd-form-of-bird-flu-spreads-to-cows.html",
+      "urlToImage": "https://img2-azrcdn.newser.com/image/1590593-12-20250206092101.jpeg",
+      "publishedAt": "2025-02-06 14:59:00",
+      "content": "Since it was introduced to cattle in late 2023, a version of the H5N1 bird flu virus known as B3.13 has infected more than 950 herds in 16 states. But now, a new version is spreading, per the Guardia\u2026 [+1691 chars]",
+      "retrievedAt": "2025-02-07 19:05:52.245944",
+      "internal_id": "eeaddfe54b8a5384306cc4eb03be36828ebd5fda15bf60d26420c70b3409922c",
+      "publishedAtLabel": "Feb 6"
+    },
+    {
+      "id": 18001,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "S\u00fcddeutsche Zeitung",
+      "author": "Von Berit Uhlmann",
+      "title": "USA: Vogelgrippe-Virus greift erneut auf K\u00fche \u00fcber",
+      "description": "Bei Milchvieh in Nebraska wurden H5N1-Viren entdeckt, die mit schweren Krankheitsverl\u00e4ufen bei Menschen im Zusammenhang stehen. Was die Funde bedeuten.",
+      "url": "https://www.sueddeutsche.de/gesundheit/vogelgrippe-virus-kuehe-usa-li.3197191",
+      "urlToImage": "https://www.sueddeutsche.de/2025/02/06/630b27f2-82e7-410e-9090-f43b11cd38fa.jpeg?q=60&fm=webp&width=1200&rect=0%2C209%2C4000%2C2250",
+      "publishedAt": "2025-02-06 14:29:49",
+      "content": "Die neue Entdeckung bedeute keine unmittelbare Gefahr, sagt Ursula H\u00f6fle, die an der spanischen Universit\u00e4t von Castilla-La Mancha an Vogelerkrankungen forscht. Sie h\u00e4lt es f\u00fcr m\u00f6glich, dass auch der\u2026 [+3480 chars]",
+      "retrievedAt": "2025-02-07 19:05:52.266264",
+      "internal_id": "7c78b3509231bc2c978e5bee09e6bd243be2296b803ff41dc515ed89cae52450",
+      "publishedAtLabel": "Feb 6"
+    },
+    {
+      "id": 18013,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Suaraindonesia-news.com",
+      "author": "admin",
+      "title": "Waspada DBD di Sumenep! 100 Orang Terjangkit, Mayoritas Anak-Anak",
+      "description": "SUMENEP, Kamis (06/02) suaraindonesia-news.com \u2013 Kasus Demam Berdarah... The post Waspada DBD di Sumenep! 100 Orang Terjangkit, Mayoritas Anak-Anak appeared first on Suara Indonesia.",
+      "url": "https://suaraindonesia-news.com/waspada-dbd-di-sumenep-100-orang-terjangkit-mayoritas-anak-anak/",
+      "urlToImage": "https://suaraindonesia-news.com/wp-content/uploads/2025/02/IMG_20250206_211955.jpg",
+      "publishedAt": "2025-02-06 14:24:23",
+      "content": "SUMENEP, Kamis (06/02) suaraindonesia-news.com \u2013 Kasus Demam Berdarah Dengue (DBD) melonjak di Kabupaten Sumenep, Madura, Jawa Timur. Sepanjang Januari 2025, tercatat 100 orang terjangkit, dengan may\u2026 [+2020 chars]",
+      "retrievedAt": "2025-02-07 19:05:53.044150",
+      "internal_id": "587154c0ed70e81be245ae3e629945d474451c883646087647caded4eed7fd66",
+      "publishedAtLabel": "Feb 6"
+    },
+    {
+      "id": 18012,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Anthony J. O\u2019Donoghue, Chenxi Lui, Carter J. Simington, Saira Montermoso, Elizabeth Moreno-Galvez, Mateus S\u00e1 M. Serafim, Olive E. Burata, Rachael M. Lucero, James T. Nguyen, Daniel Fong, Khanh Tran, Neomi Millan, Jamie M. Gallimore, Kamille Parungao, Jonathan Fong, Brian M. Suzuki, Zhenze Jiang, Jun Isoe, Alberto A. Rasc\u00f3n Jr",
+      "title": "Comprehensive proteolytic profiling of Aedes aegypti mosquito midgut extracts: Unraveling the blood meal protein digestion system",
+      "description": "Author summary The Aedes aegypti mosquito is a vector of viral pathogens that can be transmitted directly to humans. For instance, the transmission of dengue, Zika, or chikungunya viruses may happen during the Ae. aegypti acquisition of an infected blood meal\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012555",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012555.g009&size=inline",
+      "publishedAt": "2025-02-06 14:00:00",
+      "content": "Abstract To sustain the gonotrophic cycle, the Aedes aegypti mosquito must acquire a blood meal from a human or other vertebrate host. However, in the process of blood feeding, the mosquito may faci\u2026 [+80207 chars]",
+      "retrievedAt": "2025-02-07 19:05:53.030021",
+      "internal_id": "23abfdca7c88c4b06f8ad38e8e74b06f51385cb8e92067771833f4d99425d54c",
+      "publishedAtLabel": "Feb 6"
+    },
+    {
+      "id": 18014,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Kamil A. Braima, Kim A. Piera, Inke N. D. Lubis, Rintis Noviyanti, Giri S. Rajahram, Pinkan Kariodimedjo, Irbah R. A. Nainggolan, Ranti Permatasari, Leily Trianty, Ristya Amalia, Sitti Saimah Sakam, Angelica F. Tan, Timothy William, Jacob A. F. Westaway, PingChin Lee, Sylvia Daim, Henry Surendra, Nathaniel Christy, Andrew G. Letizia, Christopher L. Peatey, Mohd Arshil Moideen, Bridget E. Barber, Colin J. Sutherland, Nicholas M. Anstey, Matthew J. Grigg",
+      "title": "Improved limit of detection for zoonotic Plasmodium knowlesi and P. cynomolgi surveillance using reverse transcription for total nucleic acid preserved samples or dried blood spots",
+      "description": "Author summary The monkey malaria parasite Plasmodium knowlesi has been found to increasingly infect humans across Southeast Asia via the bite of its anopheline mosquito vectors. Human infections with a similar monkey parasite, Plasmodium cynomolgi, have also\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012129",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012129.g002&size=inline",
+      "publishedAt": "2025-02-06 14:00:00",
+      "content": "Abstract Background Zoonotic P. knowlesi and P. cynomolgi symptomatic and asymptomatic infections occur across endemic areas of Southeast Asia. Most infections are low-parasitemia, with an unknown \u2026 [+48672 chars]",
+      "retrievedAt": "2025-02-07 19:05:53.757891",
+      "internal_id": "78b3eb7faf2132314dba5868e5329f2fa16ebc0b2a6f40fe2a1683eb19337bdc",
+      "publishedAtLabel": "Feb 6"
+    },
+    {
+      "id": 17995,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Omer Awan, Senior Contributor, \n Omer Awan, Senior Contributor\n https://www.forbes.com/sites/omerawan-1/",
+      "title": "New Type Of Bird Flu Emerging In US Dairy Cattle, Sparking Health Concerns",
+      "description": "A variant of the H5N1 bird flu has now infected dairy cattle in Nevada, according to reports from the United States Department of Agriculture.",
+      "url": "https://www.forbes.com/sites/omerawan/2025/02/06/new-type-of-bird-flu-emerging-in-us-dairy-cattle-sparking-health-concerns/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67a4bcee68a66b6e52ae2352/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-02-06 13:47:37",
+      "content": "ITHACA, NEW YORK - DECEMBER 11: Cows from a non-suspect herd are milked at the Cornell Teaching ... [+] Dairy Barn at Cornell University on December 11, 2024 in Ithaca, New York. (Photo by Michael M.\u2026 [+3801 chars]",
+      "retrievedAt": "2025-02-07 19:05:52.148871",
+      "internal_id": "012c700c9dc90b5857d1acf02f905275460136e1c017020487675cb1b811c327",
+      "publishedAtLabel": "Feb 6"
+    },
+    {
+      "id": 18008,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Gouv.fr",
+      "author": "Minist\u00e8re du Travail, de la Sant\u00e9, des Solidarit\u00e9s et des Familles",
+      "title": "Virus Influenza aviaire hautement pathog\u00e8ne (IAHP) : les autorit\u00e9s sanitaires fran\u00e7aises poursuivent leurs actions et renforcent leur coop\u00e9ration face au risque de circulation d'un virus adapt\u00e9 \u00e0 l'Homme",
+      "description": "Au cours des derniers mois, une augmentation des cas de transmission de virus IAHP \u00e0 l'\u00eatre humain a \u00e9t\u00e9 observ\u00e9e au niveau international. Dans ce contexte, le minist\u00e8re charg\u00e9 de la Sant\u00e9 et de l'Acc\u00e8s aux soins, le minist\u00e8re de l'Agriculture et de la Souver\u2026",
+      "url": "https://sante.gouv.fr/actualites/presse/communiques-de-presse/article/virus-influenza-aviaire-hautement-pathogene-iahp-les-autorites-sanitaires",
+      "urlToImage": "https://sante.gouv.fr/local/cache-vignettes/L200xH105/bc3bdfb20294427bc48ae6a7139d86-7d994.png",
+      "publishedAt": "2025-02-06 13:08:16",
+      "content": "Un niveau de risque \u00e9valu\u00e9 comme \u201cfaible\u201d pour la population g\u00e9n\u00e9rale Le virus influenza aviaire hautement pathog\u00e8ne (IAHP) de sous-type H5N1 est un virus qui circule intens\u00e9ment depuis plusieurs a\u2026 [+9722 chars]",
+      "retrievedAt": "2025-02-07 19:05:52.399288",
+      "internal_id": "2411ff6019eadf8adbb0c1dc46471e5fa800b597a8f88e4d87e8d1e31e7d528f",
+      "publishedAtLabel": "Feb 6"
+    },
+    {
+      "id": 17994,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "el-mundo",
+      "source_name": "El Mundo",
+      "author": "Sonia Moreno",
+      "title": "Detectan un nuevo 'salto' de gripe aviar H5N1 a vacas en EEUU",
+      "description": "Un programa de vigilancia de la leche de las granjas estadounidenses ha identificado la variante de la gripe aviar H5N1 D1.1 por primera vez en vacas. Hasta ahora las infecciones...",
+      "url": "https://www.elmundo.es/ciencia-y-salud/salud/2025/02/06/67a4b27be4d4d83f468b45b9.html",
+      "urlToImage": "https://phantom-elmundo.unidadeditorial.es/e465b5644a45bf0f6c226ea03f2341f6/resize/1200/f/webp/assets/multimedia/imagenes/2025/02/06/17388469322576.jpg",
+      "publishedAt": "2025-02-06 13:06:21",
+      "content": "Un programa de vigilancia de la leche de las granjas estadounidenses ha identificado la variante de la gripe aviar H5N1 D1.1 por primera vez en vacas. Hasta ahora las infecciones por virus aviar en e\u2026 [+5110 chars]",
+      "retrievedAt": "2025-02-07 19:05:52.121739",
+      "internal_id": "d2da6ad228eabda0632c1f15223016978b7d9ce4badcafdfa782182f807abbcf",
+      "publishedAtLabel": "Feb 6"
+    },
+    {
+      "id": 18005,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Korrespondent.net",
+      "author": "1",
+      "title": "\u0423 \u0421\u0428\u0410 \u043a\u043e\u0440\u043e\u0432\u0438 \u0437\u0430\u0440\u0430\u0437\u0438\u043b\u0438\u0441\u044f \u043d\u043e\u0432\u0438\u043c \u0448\u0442\u0430\u043c\u043e\u043c \u043f\u0442\u0430\u0448\u0438\u043d\u043e\u0433\u043e \u0433\u0440\u0438\u043f\u0443",
+      "description": "\u0412 \u041d\u0435\u0432\u0430\u0434\u0456 \u0412\u0456\u0440\u0443\u0441 \u0432\u0436\u0435 \u0441\u043f\u0440\u0438\u0447\u0438\u043d\u0438\u0432 \u043e\u0434\u043d\u0443 \u0441\u043c\u0435\u0440\u0442\u044c \u043b\u044e\u0434\u0438\u043d\u0438 \u0442\u0430 \u0432\u0430\u0436\u043a\u0435 \u0437\u0430\u0445\u0432\u043e\u0440\u044e\u0432\u0430\u043d\u043d\u044f 13-\u0440\u0456\u0447\u043d\u043e\u0457 \u0434\u0456\u0432\u0447\u0438\u043d\u043a\u0438 \u0432 \u041a\u0430\u043d\u0430\u0434\u0456.",
+      "url": "https://ua.korrespondent.net/world/4753847-u-ssha-korovy-zarazylysia-novym-shtamom-ptashynoho-hrypu",
+      "urlToImage": "https://kor.ill.in.ua/m/1260x900/4292451.jpg",
+      "publishedAt": "2025-02-06 11:51:00",
+      "content": "() D1.1 B3.13 16 . The New York Times. , , H5N1 , . , , B3.13, 950 16 . . D1.1 , , U.S.D.A. . . , D1.1 H5N1 . . 65 . . 2024 13- D1.1, , . . . . , 2024 , . , - (HMPV). , Covid-19. .net Telegr\u2026 [+49 chars]",
+      "retrievedAt": "2025-02-07 19:05:52.358979",
+      "internal_id": "38096f9084313cf860087605e5b8f214d7c8cdf7b3a7344f7655c0cd54fe6d44",
+      "publishedAtLabel": "Feb 6"
+    },
+    {
+      "id": 18016,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Internazionale.it",
+      "author": "Internazionale",
+      "title": "L\u2019epidemia dimenticata",
+      "description": "Nella Repubblica Democratica del Congo i focolai di mpox continuano a espandersi. Negli ultimi 13 anni i casi sospetti sono stati oltre sessantamila, con quasi 1.800 decessi\u2026 Leggi",
+      "url": "https://www.internazionale.it/magazine/2025/02/06/l-epidemia-dimenticata",
+      "urlToImage": "https://media.internazionale.it/images/2025/02/06/270100-sd.jpg",
+      "publishedAt": "2025-02-06 10:59:38",
+      "content": "Nella Repubblica Democratica del Congo i focolai di mpox continuano a espandersi. Negli ultimi 13 anni i casi sospetti sono stati oltre sessantamila, con quasi 1.800 decessi e un tasso di letalit\u00e0 de\u2026 [+1062 chars]",
+      "retrievedAt": "2025-02-07 19:05:54.592540",
+      "internal_id": "faeaf77282b1d58bd1ee912cac8d72b2b886fff2387ce0fe51d70ce342d8450b",
+      "publishedAtLabel": "Feb 6"
+    },
+    {
+      "id": 18011,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Europapress.es",
+      "author": null,
+      "title": "El S\u00f3nar 2025 incorpora una segunda actuaci\u00f3n de Nathy Peluso, Pa Salieu, Mushka y Alizzz",
+      "description": "El S\u00f3nar 2025, que celebrar\u00e1 su programaci\u00f3n central entre el 12 y el 14 de junio en Fira de Barcelona, ha incorporado una segunda actuaci\u00f3n de Nathy Peluso en un formato especial, Pa Salieu, Mushka, Alizzz, Sega Bodega, Dengue Dengue Dengue y un homenaje a R\u2026",
+      "url": "https://www.europapress.es/catalunya/noticia-sonar-2025-incorpora-segunda-actuacion-nathy-peluso-pa-salieu-mushka-alizzz-20250206111531.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20250206111531_1200.jpg",
+      "publishedAt": "2025-02-06 10:15:31",
+      "content": "Otros artistas ya anunciados son Eric Prydz, Peggy Gou y Yerai Cort\u00e9s BARCELONA, 6 Feb. (EUROPA PRESS) - El S\u00f3nar 2025, que celebrar\u00e1 su programaci\u00f3n central entre el 12 y el 14 de junio en Fira\u2026 [+1929 chars]",
+      "retrievedAt": "2025-02-07 19:05:53.005457",
+      "internal_id": "a120ce2c4939a5a086ceedca6f005ca21610be71c2a7fc3b322618505a771ab7",
+      "publishedAtLabel": "Feb 6"
+    },
+    {
+      "id": 18009,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jenesaispop.com",
+      "author": "Sebas E. Alonso",
+      "title": "S\u00f3nar 2025 cierra cartel con Sega Bodega, Herbert & Mokoko, Ultra Nat\u00e9\u2026",
+      "description": "S\u00f3nar Barcelona cierra hoy su programaci\u00f3n con nuevos confirmados entre los que se encuentran los directos del rapero brit\u00e1nico-gambiano Pa Salieu, Mushka, Alizzz, Sega Bodega, Dengue Dengue Dengue y Herbert & Mokoko, que no son otros que Matthew Herbert junt\u2026",
+      "url": "https://jenesaispop.com/2025/02/06/491528/sonar-cierre-cartel/",
+      "urlToImage": "https://jenesaispop.com/wp-content/uploads/2025/02/DeeDiggsb2bUltra-Nate_ULTRA-NATE-black-gloves-and-face-photo-by-Karl-Giant-Angelo-Skordos.jpg",
+      "publishedAt": "2025-02-06 09:41:27",
+      "content": "S\u00f3nar Barcelona cierra hoy su programaci\u00f3n con nuevos confirmados entre los que se encuentran los directos del rapero brit\u00e1nico-gambiano Pa Salieu, Mushka, Alizzz, Sega Bodega, Dengue Dengue Dengue y\u2026 [+4716 chars]",
+      "retrievedAt": "2025-02-07 19:05:52.921438",
+      "internal_id": "4a9525c118ecd55082b2d482c11a608516e5b03b2935a385f48c9c9ccfb80c6d",
+      "publishedAtLabel": "Feb 6"
+    },
+    {
+      "id": 17998,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Www.abc.es",
+      "author": "(abc)",
+      "title": "Los reba\u00f1os lecheros de Nevada dan positivo a una nueva cepa de gripe aviar que se ha relacionado con graves infecciones humanas",
+      "description": "Seis reba\u00f1os lecheros de Nevada dieron positivo a una nueva cepa del virus de la gripe aviar H5N1 que se ha asociado con infecciones graves en humanos, seg\u00fan el Departamento de Agricultura de Nevada. La cepa no es la misma que ha estado circulando en otros re\u2026",
+      "url": "https://www.abc.es/sociedad/rebanos-lecheros-nevada-dan-positivo-nueva-cepa-20250206102824-nt.html",
+      "urlToImage": "https://s3.abcstatics.com/abc/www/multimedia/sociedad/2025/02/06/cow-kXDE--1024x512@diario_abc.jpg",
+      "publishedAt": "2025-02-06 09:28:24",
+      "content": "Seis reba\u00f1os lecheros de Nevada dieron positivo a una nueva cepa del virus de la gripe aviar H5N1 que se ha asociado con infecciones graves en humanos, seg\u00fan el Departamento de Agricultura de Nevada.\u2026 [+3835 chars]",
+      "retrievedAt": "2025-02-07 19:05:52.202732",
+      "internal_id": "d6c14a9777e70501192ae0ca1a01ebfbc6c498a163f81b22c4415fabdd50e106",
+      "publishedAtLabel": "Feb 6"
+    },
+    {
+      "id": 18017,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Gabrielle Emanuel",
+      "title": "What happens now in countries where the U.S. was funding support services?",
+      "description": "The U.S. has funded support services on the ground during Uganda's Ebola outbreak, the DRC's mpox outbreak and in the humanitarian crisis in Ukraine. What happens now as foreign aid is being cut?",
+      "url": "https://www.npr.org/2025/02/06/nx-s1-5286594/what-happens-now-in-countries-where-the-u-s-was-funding-support-services",
+      "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+      "publishedAt": "2025-02-06 09:26:25",
+      "content": "The U.S. has funded support services on the ground during Uganda's Ebola outbreak, the DRC's mpox outbreak and in the humanitarian crisis in Ukraine. What happens now as foreign aid is being cut?",
+      "retrievedAt": "2025-02-07 19:05:54.612459",
+      "internal_id": "4c6109231e180c15d7cd986dcc261c482c331386a211c4e78736f1f8e4fb6a34",
+      "publishedAtLabel": "Feb 6"
+    },
+    {
+      "id": 18004,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "DW (English)",
+      "author": "Matthew Ward Agius",
+      "title": "US bird flu outbreak in cattle: The global risk to humans",
+      "description": "Avian influenza H5N1 continues to spread. A second type of the virus, D1.1, has been detected in dairy cattle in Nevada, US. What does it mean for people? What you need to know: A second type of bird flu H5N1 detected in US cattle Some experts believe the r\u2026",
+      "url": "https://www.dw.com/en/bird-flu-us-livestock-human-risk-2025/a-70988147",
+      "urlToImage": "https://static.dw.com/image/69161110_6.jpg",
+      "publishedAt": "2025-02-06 09:25:00",
+      "content": "What you need to know: A second type of bird flu H5N1 detected in US cattleSome experts believe the risk for humans is lowInfections have been detected outside the US, in t\u2026 [+6605 chars]",
+      "retrievedAt": "2025-02-07 19:05:52.298540",
+      "internal_id": "9b8c5b88b0645514fb80a355093fe42434144939b992d5306615ec756bc8b7ed",
+      "publishedAtLabel": "Feb 6"
+    },
+    {
+      "id": 18010,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ra.co",
+      "author": "Michael Lawson",
+      "title": "Barcelona festival S\u00f3nar completes lineup with Dixon, Pa Salieu",
+      "description": "51 new names have been added to the June event.",
+      "url": "https://ra.co/news/82081",
+      "urlToImage": "https://static.ra.co/images/news/2025/sonar.png",
+      "publishedAt": "2025-02-06 09:15:00",
+      "content": " 51 new names have been added to the June event.S\u00f3nar Festival has completed the lineup for 2025. Dixon, Sega Bodega, Dengue Dengue Dengue, Josh Caff\u00e9, WOST, Emma\u2026 [+1129 chars]",
+      "retrievedAt": "2025-02-07 19:05:52.928532",
+      "internal_id": "fed2bd42d6eae847c849e141423109b624010e511dd6c25888593f67e58e706d",
+      "publishedAtLabel": "Feb 6"
+    },
     {
       "id": 17993,
       "query": [
@@ -22790,96 +23260,6 @@
       "content": "Doniesienia z USA: Ameryka\u0144skie s\u0142u\u017cby epidemiologiczne poda\u0142y, \u017ce 65-letni m\u0119\u017cczyzna ma rozleg\u0142\u0105 infekcj\u0119. Do zaka\u017cenia mia\u0142o doj\u015b\u0107 w wyniku kontaktu z przydomowym drobiem - jest to pierwszy taki pr\u2026 [+1099 chars]",
       "retrievedAt": "2024-12-24 07:06:19.729663",
       "internal_id": "70b65642f13b1dbea4d5c7ad207de5895b22c8c856745b39e910bd6719b57392",
-      "publishedAtLabel": "Dec 22"
-    },
-    {
-      "id": 16720,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "la-nacion",
-      "source_name": "La Nacion",
-      "author": null,
-      "title": "La Ciudad habilita m\u00e1s turnos para la vacunaci\u00f3n contra el dengue",
-      "description": "En esta etapa, los j\u00f3venes de entre 25 y 29 a\u00f1os podr\u00e1n darse su primera dosis y los de entre 15 y 19 la segunda; las inscripciones arrancar\u00e1n este 23 de diciembre y los turnos estar\u00e1n disponibles a partir del 2 de enero",
-      "url": "https://www.lanacion.com.ar/politica/la-ciudad-habilita-mas-turnos-para-la-vacunacion-contra-el-dengue-nid22122024/",
-      "urlToImage": "https://resizer.glanacion.com/resizer/v2/la-ciudad-avanza-con-la-vacunacion-contra-el-QY3H2227OZDAHJGQRBIVPTHOLM.JPG?auth=0c64d49d3c33ef1bf88bed08d1f139ef8088dbcf65c8530bc62604ac602bd381&width=1200&quality=70&smart=false&height=799",
-      "publishedAt": "2024-12-22 18:33:36",
-      "content": "El Ministerio de Salud de la Ciudad de Buenos Aires anunci\u00f3 que este lunes 23 de diciembre habilitar\u00e1 nuevos turnos para vacunarse contra el dengue. Se trata de un plan integral de prevenci\u00f3n contra \u2026 [+4055 chars]",
-      "retrievedAt": "2024-12-23 19:05:33.913146",
-      "internal_id": "304f4ea1442b3ed4a4d9c03654f59508d60b5cd11aaa3419864d9d1f07752a12",
-      "publishedAtLabel": "Dec 22"
-    },
-    {
-      "id": 16719,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Olhardigital.com.br",
-      "author": "Leandro Costa Criscuolo",
-      "title": "Fen\u00f4menos clim\u00e1ticos podem ter influ\u00eancia em alta de casos de dengue",
-      "description": "Pesquisadores relacionam fen\u00f4menos clim\u00e1ticos a surtos de dengue e alertam para a necessidade de pol\u00edticas p\u00fablicas de preven\u00e7\u00e3o O post Fen\u00f4menos clim\u00e1ticos podem ter influ\u00eancia em alta de casos de dengue apareceu primeiro em Olhar Digital.",
-      "url": "https://olhardigital.com.br/2024/12/22/medicina-e-saude/fenomenos-climaticos-podem-ter-influencia-em-alta-de-casos-de-dengue/",
-      "urlToImage": "https://img.odcdn.com.br/wp-content/uploads/2024/12/dengue.jpg",
-      "publishedAt": "2024-12-22 15:06:00",
-      "content": "Um levantamento realizado por pesquisadores da Fiocruz e do Procam (USP) revelou que os fen\u00f4menos clim\u00e1ticos El Ni\u00f1o e La Ni\u00f1a est\u00e3o diretamente relacionados ao aumento de casos de dengue registrados\u2026 [+1389 chars]",
-      "retrievedAt": "2024-12-23 19:05:33.875893",
-      "internal_id": "d2ca5080df4e44ab508c9471f8e72de151f63ef8f7cc5ffbd93971b0ba338c5c",
-      "publishedAtLabel": "Dec 22"
-    },
-    {
-      "id": 16718,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Haber7.com",
-      "author": "Hakan Erdi Uluda\u011f",
-      "title": "ABD'de acil durum ilan edildi! Ku\u015f gribi nedir, belirtileri neler?",
-      "description": "ABD'nin Kaliforniya eyaletinde ku\u015f gribi (H5N1) vakalar\u0131nda ciddi bir art\u0131\u015f g\u00f6zlemlendi. Vakalar\u0131n artmas\u0131yla birlikte ABD'de k\u0131rm\u0131z\u0131 durum ilan edildi. Peki ku\u015f gribi belirtileri nedir? A\u015f\u0131s\u0131 var m\u0131?",
-      "url": "https://www.haber7.com/guncel/haber/3489889-abdde-acil-durum-ilan-edildi-kus-gribi-nedir-belirtileri-neler",
-      "urlToImage": "https://i12.haber7.net//haber/haber7/og_image/2024/51/abdde_acil_durum_ilan_edildi_kus_gribi_nedir_belirtileri_neler_1734875405_689.jpg",
-      "publishedAt": "2024-12-22 14:03:00",
-      "content": "ABD, bir s\u00fcredir artan ku gribi vakalaryla ba etmeye \u00e7alyor. Kaliforniya Valilik Ofisi tarafndan yaplan a\u00e7klamada, 16 eyaletteki b\u00fcy\u00fckba hayvanlarda H5N1 vir\u00fcs\u00fcn\u00fcn tespit edildii, yaylm kontrol altna\u2026 [+836 chars]",
-      "retrievedAt": "2024-12-23 19:05:33.369605",
-      "internal_id": "fa2f502d2d1b4b0360df4cd7c9c2ccfb869d9f5405ec081d29a4b03ca43f7089",
-      "publishedAtLabel": "Dec 22"
-    },
-    {
-      "id": 16729,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Mustsharenews.com",
-      "author": "Jeremy Lee",
-      "title": "H5N1 poses 'highest risk' of becoming next pandemic, S'pore health authorities monitoring situation",
-      "description": "H5N1 poses the \"highest risk\" of becoming the next pandemic and Singapore's health authorities are monitoring it, said the Health Minister.",
-      "url": "https://mustsharenews.com/h5n1-pandemic-risk/",
-      "urlToImage": "https://mustsharenews.com/wp-content/uploads/2024/12/H5N1-poses-highest-risk-of-becoming-next-pandemic-Spore-health-authorities-monitoring-situation.jpg",
-      "publishedAt": "2024-12-22 11:38:13",
-      "content": "H5N1, also known as bird flu, poses the \u201chighest risk\u201d of becoming the next pandemic, with the Singapore health authorities monitoring the situation. This was revealed in a Facebook post by Health M\u2026 [+3494 chars]",
-      "retrievedAt": "2024-12-24 07:06:19.792592",
-      "internal_id": "21c63bceb7bf8d67dac233ecc9c702e486ef118176488b5b7b43ef28cefb1343",
-      "publishedAtLabel": "Dec 22"
-    },
-    {
-      "id": 16717,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Www.dn.se",
-      "author": "Maria Gunther",
-      "title": "Maria Gunther: Lyckliga i alla sina dagar \u2013 men m\u00e5r prinsessorna verkligen bra?",
-      "description": "\u00c4ven Disneyprinsessor \u00e4r utsatta f\u00f6r allvarliga h\u00e4lsorisker, som isolering, depression, diabetes, nyckelbensfraktur, lungcancer, rabies och skallighet.",
-      "url": "https://www.dn.se/varlden/maria-gunther-lyckliga-i-alla-sina-dagar-men-mar-prinsessorna-verkligen-bra/",
-      "urlToImage": "https://static.bonniernews.se/gcs/bilder/dn-mly/2e0be684-434d-476a-b61a-c9a3a3c4c015.jpeg?io=1&width=1024&crop=16:9,smart",
-      "publishedAt": "2024-12-22 08:56:33",
-      "content": "Stackars Askungen, suckar musen Gus p\u00e5 julafton varje \u00e5r, i Kalle Anka och hans v\u00e4nner \u00f6nskar God Jul. Och kanske har han mer r\u00e4tt \u00e4n vi anat. Det har l\u00e4nge funnits farh\u00e5gor, bland forskare, debatt\u2026 [+3615 chars]",
-      "retrievedAt": "2024-12-23 19:05:32.336378",
-      "internal_id": "04e8cdc160a10cab0ce0e647c6450d19c2b0836c4688ebf7ca0ce5754d172dd5",
       "publishedAtLabel": "Dec 22"
     }
   ]

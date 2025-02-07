@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 20
-- **Last harvest:** 2025-02-07 07:06
-- **Most recent article:** 2025-02-06 07:00:13
+- **New articles in last harvest:** 26
+- **Last harvest:** 2025-02-07 19:05
+- **Most recent article:** 2025-02-06 18:26:51
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-52 | 24-53 | 25-1 | 25-2 | 25-3 | 25-4 | 25-5 | 25-6 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| h5n1 | 64 | 27 | 27 | 131 | 65 | 31 | 51 | 41 | 437 |
-| mpox | 34 | 2 | 6 | 91 | 34 | 23 | 22 | 17 | 229 |
-| dengue | 24 | 6 | 12 | 41 | 29 | 37 | 24 | 20 | 193 |
-| malaria | 30 | 15 | 10 | 30 | 18 | 19 | 30 | 10 | 162 |
+| h5n1 | 62 | 27 | 27 | 131 | 65 | 31 | 51 | 56 | 450 |
+| mpox | 34 | 2 | 6 | 91 | 34 | 23 | 22 | 21 | 233 |
+| dengue | 22 | 6 | 12 | 41 | 29 | 37 | 24 | 25 | 196 |
+| malaria | 30 | 15 | 10 | 30 | 18 | 19 | 30 | 12 | 164 |
 | measles | 11 | 3 | 6 | 6 | 9 | 10 | 13 | 16 | 74 |
 | hpai | 12 | 1 | 4 | 18 | 12 | 11 | 6 | 3 | 67 |
-| chikungunya | 0 | 2 | 0 | 7 | 7 | 10 | 9 | 7 | 42 |
-| zika | 2 | 0 | 0 | 15 | 5 | 2 | 8 | 1 | 33 |
-| rabies | 8 | 1 | 1 | 2 | 6 | 7 | 6 | 1 | 32 |
+| chikungunya | 0 | 2 | 0 | 7 | 7 | 10 | 9 | 8 | 43 |
+| zika | 2 | 0 | 0 | 15 | 5 | 2 | 8 | 2 | 34 |
+| rabies | 7 | 1 | 1 | 2 | 6 | 7 | 6 | 1 | 31 |
 | meningitis | 3 | 1 | 2 | 0 | 2 | 3 | 8 | 1 | 20 |
 | pertussis | 6 | 0 | 1 | 2 | 0 | 1 | 0 | 2 | 12 |
 | yersinia | 6 | 0 | 0 | 3 | 2 | 0 | 0 | 0 | 11 |
@@ -33,6 +33,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 25-6 (zika)
+
+- [Comprehensive proteolytic profiling of Aedes aegypti mosquito midgut extracts: Unraveling the blood meal protein digestion system](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012555) (Plos.org)
 
 - [Dengue: cuidados devem ser redobrados no período chuvoso](https://www.metropoles.com/conteudo-especial/dengue-cuidados-devem-ser-redobrados-no-periodo-chuvoso) (Metropoles.com)
 
@@ -51,6 +53,14 @@ Source: [News API](https://newsapi.org/)
 - [The strange religion of vaccine worship](https://www.wnd.com/2025/02/the-strange-religion-of-vaccine-worship/) (Wnd.com)
 
 ## 25-6 (mpox)
+
+- [First case of deadlier strain of mpox detected in Ireland after patient returns from abroad](https://www.independent.ie/irish-news/first-case-of-deadlier-strain-of-mpox-detected-in-ireland-after-patient-returns-from-abroad/a996093297.html) (Independent.ie)
+
+- [First case of Clade I mpox detected in Ireland as HSE says risk to public 'remains low'](https://www.thejournal.ie/mpox-ireland-6615837-Feb2025/) (TheJournal.ie)
+
+- [L’epidemia dimenticata](https://www.internazionale.it/magazine/2025/02/06/l-epidemia-dimenticata) (Internazionale.it)
+
+- [What happens now in countries where the U.S. was funding support services?](https://www.npr.org/2025/02/06/nx-s1-5286594/what-happens-now-in-countries-where-the-u-s-was-funding-support-services) (NPR)
 
 - [Les virus responsables des prochaines épidémies sont connus mais négligés](https://www.lemonde.fr/idees/article/2025/02/06/les-virus-responsables-des-prochaines-epidemies-sont-connus-mais-negliges_6533919_3232.html) (Le Monde)
 
@@ -126,6 +136,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-6 (malaria)
 
+- [Guidance: Management of treatment failure (recrudescence) in falciparum malaria](https://www.gov.uk/government/publications/management-of-treatment-failure-recrudescence-in-falciparum-malaria) (Www.gov.uk)
+
+- [Improved limit of detection for zoonotic Plasmodium knowlesi and P. cynomolgi surveillance using reverse transcription for total nucleic acid preserved samples or dried blood spots](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012129) (Plos.org)
+
 - [U.S. aid cuts come at deadly moment for malaria control](https://www.japantimes.co.jp/news/2025/02/06/world/science-health/us-aid-cut-malaria-control-danger/) (The Japan Times)
 
 - [Okpehbolo unveils free malaria treatment in Edo](https://punchng.com/okpehbolo-unveils-free-malaria-treatment-in-edo/) (The Punch)
@@ -159,6 +173,36 @@ Source: [News API](https://newsapi.org/)
 - [Kuş gribi salgını ABD'de yumurta fiyatlarını uçurdu](https://www.haberturk.com/kus-gribi-salgini-abd-de-yumurta-fiyatlarini-ucurdu-3761928-ekonomi) (Haberturk.com)
 
 ## 25-6 (h5n1)
+
+- [Detectan un nuevo ‘salto’ de gripe aviar H5N1 a vacas [ENG]](https://www.meneame.net/m/actualidad/detectan-nuevo-salto-gripe-aviar-h5n1-vacas-eng) (Meneame.net)
+
+- [New bird flu variant detected in Nevada dairy cattle, raising concerns of endemic spread](https://economictimes.indiatimes.com/news/international/us/new-bird-flu-variant-detected-in-nevada-dairy-cattle-raising-concerns-of-endemic-spread/articleshow/117992342.cms) (The Times of India)
+
+- [Deadly version of H5N1 bird flu spills over into Nevada dairy cattle (Susanne Rust/Los Angeles Times)](https://www.memeorandum.com/250206/p81) (Memeorandum.com)
+
+- [Vaci din SUA, contaminate cu o nouă formă de gripă aviară. Reprezintă un risc şi pentru oameni](https://www.mediafax.ro/externe/vaci-din-sua-contaminate-cu-o-noua-forma-de-gripa-aviara-reprezinta-un-risc-si-pentru-oameni-22683373) (Mediafax.ro)
+
+- [New form of H5N1 bird flu found in US dairy cows](https://theweek.com/health/bird-flu-cattle-second-version) (The Week Magazine)
+
+- [Grippe aviaire : les autorités sanitaires françaises sur le qui-vive](https://www.liberation.fr/societe/grippe-aviaire-les-autorites-sanitaires-francaises-sur-le-qui-vive-20250206_VCWGREWBVRD53G7AJU4K7FWZAU/) (Libération)
+
+- [Nova cepa de gripe aviária é identificada em gado leiteiro dos EUA](https://www.metropoles.com/saude/nova-cepa-gripe-aviaria-gado-leiteiro-eua) (Metropoles.com)
+
+- [2nd Form of Bird Flu Spreads to Cows](https://www.newser.com/story/363806/2nd-form-of-bird-flu-spreads-to-cows.html) (Newser)
+
+- [USA: Vogelgrippe-Virus greift erneut auf Kühe über](https://www.sueddeutsche.de/gesundheit/vogelgrippe-virus-kuehe-usa-li.3197191) (Süddeutsche Zeitung)
+
+- [New Type Of Bird Flu Emerging In US Dairy Cattle, Sparking Health Concerns](https://www.forbes.com/sites/omerawan/2025/02/06/new-type-of-bird-flu-emerging-in-us-dairy-cattle-sparking-health-concerns/) (Forbes)
+
+- [Virus Influenza aviaire hautement pathogène (IAHP) : les autorités sanitaires françaises poursuivent leurs actions et renforcent leur coopération face au risque de circulation d'un virus adapté à l'Homme](https://sante.gouv.fr/actualites/presse/communiques-de-presse/article/virus-influenza-aviaire-hautement-pathogene-iahp-les-autorites-sanitaires) (Gouv.fr)
+
+- [Detectan un nuevo 'salto' de gripe aviar H5N1 a vacas en EEUU](https://www.elmundo.es/ciencia-y-salud/salud/2025/02/06/67a4b27be4d4d83f468b45b9.html) (El Mundo)
+
+- [У США корови заразилися новим штамом пташиного грипу](https://ua.korrespondent.net/world/4753847-u-ssha-korovy-zarazylysia-novym-shtamom-ptashynoho-hrypu) (Korrespondent.net)
+
+- [Los rebaños lecheros de Nevada dan positivo a una nueva cepa de gripe aviar que se ha relacionado con graves infecciones humanas](https://www.abc.es/sociedad/rebanos-lecheros-nevada-dan-positivo-nueva-cepa-20250206102824-nt.html) (Www.abc.es)
+
+- [US bird flu outbreak in cattle: The global risk to humans](https://www.dw.com/en/bird-flu-us-livestock-human-risk-2025/a-70988147) (DW (English))
 
 - [EUA: vacas são infectadas com nova versão da gripe aviária](https://olhardigital.com.br/2025/02/06/medicina-e-saude/eua-vacas-sao-infectadas-com-nova-versao-da-gripe-aviaria/) (Olhardigital.com.br)
 
@@ -244,6 +288,16 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-6 (dengue)
 
+- [Waspada DBD di Sumenep! 100 Orang Terjangkit, Mayoritas Anak-Anak](https://suaraindonesia-news.com/waspada-dbd-di-sumenep-100-orang-terjangkit-mayoritas-anak-anak/) (Suaraindonesia-news.com)
+
+- [Comprehensive proteolytic profiling of Aedes aegypti mosquito midgut extracts: Unraveling the blood meal protein digestion system](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012555) (Plos.org)
+
+- [El Sónar 2025 incorpora una segunda actuación de Nathy Peluso, Pa Salieu, Mushka y Alizzz](https://www.europapress.es/catalunya/noticia-sonar-2025-incorpora-segunda-actuacion-nathy-peluso-pa-salieu-mushka-alizzz-20250206111531.html) (Europapress.es)
+
+- [Sónar 2025 cierra cartel con Sega Bodega, Herbert & Mokoko, Ultra Naté…](https://jenesaispop.com/2025/02/06/491528/sonar-cierre-cartel/) (Jenesaispop.com)
+
+- [Barcelona festival Sónar completes lineup with Dixon, Pa Salieu](https://ra.co/news/82081) (Ra.co)
+
 - [Dengue: cuidados devem ser redobrados no período chuvoso](https://www.metropoles.com/conteudo-especial/dengue-cuidados-devem-ser-redobrados-no-periodo-chuvoso) (Metropoles.com)
 
 - [México acumula 887 casos de dengue en lo que va de 2025](https://www.excelsior.com.mx/nacional/mexico-acumula-887-casos-de-dengue-en-lo-que-va-de-2025/1698278) (Excelsior.com.mx)
@@ -285,6 +339,8 @@ Source: [News API](https://newsapi.org/)
 - [Baguio: Kaso ng Dengue sa lungsod ng Baguio tumaas o lumaki pa ng 646 por siento](https://rpnradio.com/baguio-kaso-ng-dengue-sa-lungsod-ng-baguio-tumaas-o-lumaki-pa-ng-646-por-siento/) (Rpnradio.com)
 
 ## 25-6 (chikungunya)
+
+- [Comprehensive proteolytic profiling of Aedes aegypti mosquito midgut extracts: Unraveling the blood meal protein digestion system](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012555) (Plos.org)
 
 - [Valneva jumps 19% after chikungunya vaccine wins UK approval](https://thefly.com/permalinks/entry.php/id4065077/VALN-Valneva-jumps--after-chikungunya-vaccine-wins-UK-approval) (Thefly.com)
 
@@ -2464,8 +2520,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Dog Meat Restaurant Owner Dies Just Days After Discovering He Has Rabies](https://www.ibtimes.com/dog-meat-restaurant-owner-dies-rabies-3756852) (International Business Times)
 
-- [Maria Gunther: Lyckliga i alla sina dagar – men mår prinsessorna verkligen bra?](https://www.dn.se/varlden/maria-gunther-lyckliga-i-alla-sina-dagar-men-mar-prinsessorna-verkligen-bra/) (Www.dn.se)
-
 ## 24-52 (pertussis)
 
 - [В США зафиксировали резкий рост коклюша — самый высокий за десятилетие](https://www.ferra.ru/news/health/v-ssha-zafiksirovali-rezkii-rost-koklyusha-samyi-vysokii-za-desyatiletie-27-12-2024.htm) (Ferra.ru)
@@ -2802,10 +2856,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Pierwszy tak ciężki przypadek ptasiej grypy w USA. Stan 65-latka jest krytyczny. 61 osób zakażonych](https://wiadomosci.gazeta.pl/wiadomosci/7,114881,31566135,p.html) (Gazeta.pl)
 
-- [ABD'de acil durum ilan edildi! Kuş gribi nedir, belirtileri neler?](https://www.haber7.com/guncel/haber/3489889-abdde-acil-durum-ilan-edildi-kus-gribi-nedir-belirtileri-neler) (Haber7.com)
-
-- [H5N1 poses 'highest risk' of becoming next pandemic, S'pore health authorities monitoring situation](https://mustsharenews.com/h5n1-pandemic-risk/) (Mustsharenews.com)
-
 ## 24-52 (dengue)
 
 - [“Consultá sin demoras si tenés síntomas”: MSP insta a cuidarse del dengue en verano](https://www.montevideo.com.uy/Salud/-Consulta-sin-demoras-si-tenes-sintomas--MSP-insta-a-cuidarse-del-dengue-en-verano-uc910677) (Montevideo.com.uy)
@@ -2851,7 +2901,3 @@ Source: [News API](https://newsapi.org/)
 - [Cuál es la enfermedad que se expande en Florida y preocupa a las autoridades: hay casos en Tampa Bay](https://www.lanacion.com.ar/estados-unidos/florida/cual-es-la-enfermedad-que-se-expande-en-florida-y-preocupa-a-las-autoridades-hay-casos-en-tampa-bay-nid22122024/) (La Nacion)
 
 - [Common bacterium protects Brazilian city from dengue storm](https://www.digitaljournal.com/tech-science/common-bacterium-protects-brazilian-city-from-dengue-storm/article) (Digital Journal)
-
-- [La Ciudad habilita más turnos para la vacunación contra el dengue](https://www.lanacion.com.ar/politica/la-ciudad-habilita-mas-turnos-para-la-vacunacion-contra-el-dengue-nid22122024/) (La Nacion)
-
-- [Fenômenos climáticos podem ter influência em alta de casos de dengue](https://olhardigital.com.br/2024/12/22/medicina-e-saude/fenomenos-climaticos-podem-ter-influencia-em-alta-de-casos-de-dengue/) (Olhardigital.com.br)
