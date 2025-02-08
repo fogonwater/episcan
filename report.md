@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 26
-- **Last harvest:** 2025-02-07 19:05
-- **Most recent article:** 2025-02-06 18:26:51
+- **New articles in last harvest:** 9
+- **Last harvest:** 2025-02-08 07:05
+- **Most recent article:** 2025-02-07 04:23:28
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-52 | 24-53 | 25-1 | 25-2 | 25-3 | 25-4 | 25-5 | 25-6 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| h5n1 | 62 | 27 | 27 | 131 | 65 | 31 | 51 | 56 | 450 |
+| h5n1 | 64 | 27 | 27 | 131 | 65 | 31 | 51 | 63 | 459 |
 | mpox | 34 | 2 | 6 | 91 | 34 | 23 | 22 | 21 | 233 |
-| dengue | 22 | 6 | 12 | 41 | 29 | 37 | 24 | 25 | 196 |
-| malaria | 30 | 15 | 10 | 30 | 18 | 19 | 30 | 12 | 164 |
+| dengue | 24 | 6 | 12 | 41 | 29 | 37 | 24 | 25 | 198 |
+| malaria | 30 | 15 | 10 | 30 | 18 | 19 | 30 | 13 | 165 |
 | measles | 11 | 3 | 6 | 6 | 9 | 10 | 13 | 16 | 74 |
 | hpai | 12 | 1 | 4 | 18 | 12 | 11 | 6 | 3 | 67 |
 | chikungunya | 0 | 2 | 0 | 7 | 7 | 10 | 9 | 8 | 43 |
 | zika | 2 | 0 | 0 | 15 | 5 | 2 | 8 | 2 | 34 |
-| rabies | 7 | 1 | 1 | 2 | 6 | 7 | 6 | 1 | 31 |
+| rabies | 8 | 1 | 1 | 2 | 6 | 7 | 6 | 1 | 32 |
 | meningitis | 3 | 1 | 2 | 0 | 2 | 3 | 8 | 1 | 20 |
-| pertussis | 6 | 0 | 1 | 2 | 0 | 1 | 0 | 2 | 12 |
+| pertussis | 6 | 0 | 1 | 2 | 0 | 1 | 0 | 3 | 13 |
 | yersinia | 6 | 0 | 0 | 3 | 2 | 0 | 0 | 0 | 11 |
 | leptospirosis | 2 | 0 | 0 | 0 | 1 | 2 | 0 | 1 | 6 |
 | typhoid | 0 | 0 | 0 | 0 | 4 | 0 | 0 | 1 | 5 |
@@ -47,6 +47,8 @@ Source: [News API](https://newsapi.org/)
 - [Can opossums contract rabies?](https://lifesciencesworld.com/can-opossums-contract-rabies/) (Lifesciencesworld.com)
 
 ## 25-6 (pertussis)
+
+- [The Whooping Cough is Back! Humboldt Public Health Officials Urge Pertussis Vaccination as Local Cases Rise](https://lostcoastoutpost.com/2025/feb/6/whooping-cough-back-humboldt-public-health-officia/) (Lost Coast Outpost)
 
 - [First whooping cough death in Washington state since 2011 confirmed by CDC](https://www.khq.com/news/first-whooping-cough-death-in-washington-state-since-2011-confirmed-by-cdc/article_31d39520-e424-11ef-bedf-934a7c190434.html) (KHQ Right Now)
 
@@ -136,6 +138,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-6 (malaria)
 
+- [Essential genome of malaria parasite Plasmodium knowlesi mapped](https://www.sciencedaily.com/releases/2025/02/250206152320.htm) (Science Daily)
+
 - [Guidance: Management of treatment failure (recrudescence) in falciparum malaria](https://www.gov.uk/government/publications/management-of-treatment-failure-recrudescence-in-falciparum-malaria) (Www.gov.uk)
 
 - [Improved limit of detection for zoonotic Plasmodium knowlesi and P. cynomolgi surveillance using reverse transcription for total nucleic acid preserved samples or dried blood spots](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012129) (Plos.org)
@@ -174,6 +178,18 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-6 (h5n1)
 
+- [Multiple instances of bird flu found in San Mateo County](https://www.sfgate.com/bayarea/article/bird-flu-san-mateo-county-20152903.php) (SFGate)
+
+- [Nuova variante di influenza aviaria trovata nei bovini in Nevada: implicazioni per la salute umana](https://www.ilsole24ore.com/art/nuova-variante-influenza-aviaria-trovata-bovini-nevada-implicazioni-la-salute-umana-AG71xlkC) (Il Sole 24 Ore)
+
+- [New bird flu variant found in dairy cattle. Can H5N1 be transmitted to humans?](https://www.usatoday.com/story/news/health/2025/02/06/bird-flu-strain-dairy-cows-humans-transmitted/78290857007/) (USA Today)
+
+- [2nd form of bird flu detected in US cows](https://www.livescience.com/health/flu/2nd-form-of-bird-flu-detected-in-us-cows) (Live Science)
+
+- [Major Food Supply Alert! Just In Time, A Deadly New Strain Of H5N1 Threatens To Make Our Egg And Beef Shortages Even Worse](http://theeconomiccollapseblog.com/major-food-supply-alert-just-in-time-a-deadly-new-strain-of-h5n1-threatens-to-make-our-egg-and-beef-shortages-even-worse/) (Theeconomiccollapseblog.com)
+
+- [Deadly strain of bird flu linked to man's 2024 death appears in Nevada dairy cows](https://www.cbsnews.com/video/deadly-strain-of-bird-flu-linked-to-mans-2024-death-appears-in-nevada-dairy-cows/) (CBS News)
+
 - [Detectan un nuevo ‘salto’ de gripe aviar H5N1 a vacas [ENG]](https://www.meneame.net/m/actualidad/detectan-nuevo-salto-gripe-aviar-h5n1-vacas-eng) (Meneame.net)
 
 - [New bird flu variant detected in Nevada dairy cattle, raising concerns of endemic spread](https://economictimes.indiatimes.com/news/international/us/new-bird-flu-variant-detected-in-nevada-dairy-cattle-raising-concerns-of-endemic-spread/articleshow/117992342.cms) (The Times of India)
@@ -199,6 +215,8 @@ Source: [News API](https://newsapi.org/)
 - [Detectan un nuevo 'salto' de gripe aviar H5N1 a vacas en EEUU](https://www.elmundo.es/ciencia-y-salud/salud/2025/02/06/67a4b27be4d4d83f468b45b9.html) (El Mundo)
 
 - [У США корови заразилися новим штамом пташиного грипу](https://ua.korrespondent.net/world/4753847-u-ssha-korovy-zarazylysia-novym-shtamom-ptashynoho-hrypu) (Korrespondent.net)
+
+- [В США коровы заразились новым штаммом птичьего гриппа](https://korrespondent.net/world/4753847-v-ssha-korovy-zarazylys-novym-shtammom-ptycheho-hryppa) (Korrespondent.net)
 
 - [Los rebaños lecheros de Nevada dan positivo a una nueva cepa de gripe aviar que se ha relacionado con graves infecciones humanas](https://www.abc.es/sociedad/rebanos-lecheros-nevada-dan-positivo-nueva-cepa-20250206102824-nt.html) (Www.abc.es)
 
@@ -2520,6 +2538,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Dog Meat Restaurant Owner Dies Just Days After Discovering He Has Rabies](https://www.ibtimes.com/dog-meat-restaurant-owner-dies-rabies-3756852) (International Business Times)
 
+- [Maria Gunther: Lyckliga i alla sina dagar – men mår prinsessorna verkligen bra?](https://www.dn.se/varlden/maria-gunther-lyckliga-i-alla-sina-dagar-men-mar-prinsessorna-verkligen-bra/) (Www.dn.se)
+
 ## 24-52 (pertussis)
 
 - [В США зафиксировали резкий рост коклюша — самый высокий за десятилетие](https://www.ferra.ru/news/health/v-ssha-zafiksirovali-rezkii-rost-koklyusha-samyi-vysokii-za-desyatiletie-27-12-2024.htm) (Ferra.ru)
@@ -2856,6 +2876,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Pierwszy tak ciężki przypadek ptasiej grypy w USA. Stan 65-latka jest krytyczny. 61 osób zakażonych](https://wiadomosci.gazeta.pl/wiadomosci/7,114881,31566135,p.html) (Gazeta.pl)
 
+- [ABD'de acil durum ilan edildi! Kuş gribi nedir, belirtileri neler?](https://www.haber7.com/guncel/haber/3489889-abdde-acil-durum-ilan-edildi-kus-gribi-nedir-belirtileri-neler) (Haber7.com)
+
+- [H5N1 poses 'highest risk' of becoming next pandemic, S'pore health authorities monitoring situation](https://mustsharenews.com/h5n1-pandemic-risk/) (Mustsharenews.com)
+
 ## 24-52 (dengue)
 
 - [“Consultá sin demoras si tenés síntomas”: MSP insta a cuidarse del dengue en verano](https://www.montevideo.com.uy/Salud/-Consulta-sin-demoras-si-tenes-sintomas--MSP-insta-a-cuidarse-del-dengue-en-verano-uc910677) (Montevideo.com.uy)
@@ -2901,3 +2925,7 @@ Source: [News API](https://newsapi.org/)
 - [Cuál es la enfermedad que se expande en Florida y preocupa a las autoridades: hay casos en Tampa Bay](https://www.lanacion.com.ar/estados-unidos/florida/cual-es-la-enfermedad-que-se-expande-en-florida-y-preocupa-a-las-autoridades-hay-casos-en-tampa-bay-nid22122024/) (La Nacion)
 
 - [Common bacterium protects Brazilian city from dengue storm](https://www.digitaljournal.com/tech-science/common-bacterium-protects-brazilian-city-from-dengue-storm/article) (Digital Journal)
+
+- [La Ciudad habilita más turnos para la vacunación contra el dengue](https://www.lanacion.com.ar/politica/la-ciudad-habilita-mas-turnos-para-la-vacunacion-contra-el-dengue-nid22122024/) (La Nacion)
+
+- [Fenômenos climáticos podem ter influência em alta de casos de dengue](https://olhardigital.com.br/2024/12/22/medicina-e-saude/fenomenos-climaticos-podem-ter-influencia-em-alta-de-casos-de-dengue/) (Olhardigital.com.br)
