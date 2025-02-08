@@ -1,8 +1,440 @@
 {
-  "last_updated": "2025-02-08 07:05",
-  "count_articles_total": 1303,
-  "count_articles_new": 9,
+  "last_updated": "2025-02-08 19:05",
+  "count_articles_total": 1322,
+  "count_articles_new": 24,
   "articles": [
+    {
+      "id": 18030,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "Measles Outbreak Mounts Among Children in One of Texas' Least Vaccinated Counties (Amy Maxmen/KFF Health News)",
+      "description": "Amy Maxmen / KFF Health News: Measles Outbreak Mounts Among Children in One of Texas' Least Vaccinated Counties \u2014 A measles outbreak is growing in a Texas county with dangerously low vaccination rates. \u2014 USE OUR CONTENT \u2014 In late January, two school-age\u2026",
+      "url": "https://www.memeorandum.com/250207/p65",
+      "urlToImage": "https://kffhealthnews.org/wp-content/uploads/sites/2/2025/02/GettyImages-1294264382-resized.jpg",
+      "publishedAt": "2025-02-07 17:45:00",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-02-08 19:05:34.850850",
+      "internal_id": "4553ad0f2f6f1916ecba8e54ddba7213c30ed23521b54064b09795b1ecd6f082",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
+      "id": 18038,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Ravenna Alves",
+      "title": "Dengue: cientistas criam armadilha eficaz para mosquito Aedes aegypti",
+      "description": "Estudo de brasileiros usa extrato larval do Aedes aegypti, transmissor da dengue, para atrair tanto o mosquito quanto o pernilongo comum",
+      "url": "https://www.metropoles.com/saude/dengue-nova-armadilha-aedes",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/03/28154904/aedes-aegypti-4.jpg",
+      "publishedAt": "2025-02-07 17:19:46",
+      "content": "Pesquisadores brasileiros desenvolveram uma nova estrat\u00e9gia para o controle do Aedes aegypti, mosquito transmissor da dengue. O estudo, publicado nesta sexta-feira (7/2), prop\u00f5e o uso de uma isca fei\u2026 [+5630 chars]",
+      "retrievedAt": "2025-02-08 19:05:36.891624",
+      "internal_id": "f10213df7cf0cfeb08b4ee2e1c4bb4368fc4867f2a96620d0bf8936326eeae32",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
+      "id": 18050,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Oketayot Santo Obwoya",
+      "title": "South Sudan declares mpox outbreak with 1st case confirmed",
+      "description": "JUBA, Feb. 7 (Xinhua) -- South Sudan on Friday confirmed its first mpox case, with authorities pledging heightened vigilance to prevent further transmission. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2025/02/08/south-sudan-declares-mpox-outbreak-with-1st-case-confirmed",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2025-02-07 17:09:00",
+      "content": "JUBA, Feb. 7 (Xinhua) -- South Sudan on Friday confirmed its first mpox case, with authorities pledging heightened vigilance to prevent further transmission. Acting Minister of Health James Hoth Ma\u2026 [+2075 chars]",
+      "retrievedAt": "2025-02-08 19:05:39.376751",
+      "internal_id": "2778711e07753ddbffc1b8a82ae636561d313ba7bc644ca5265e6aaf1f812f45",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
+      "id": 18041,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "The Feed",
+      "title": "Donald Trump\u2019s USAID cuts and missing CDC data: How global health and aid are changing",
+      "description": "USAID staff cuts could disrupt aid projects and strain US ties with developing nations. The move has also reportedly halted over 30 clinical trials for diseases like cholera, malaria, and HIV",
+      "url": "https://economictimes.indiatimes.com/news/international/us/donald-trumps-usaid-cuts-and-missing-cdc-data-how-global-health-and-aid-are-changing/articleshow/118030242.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-118030244,width-1200,height-630,imgsize-81878,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-02-07 17:05:30",
+      "content": "Artificial Intelligence(AI) AI and Analytics based Business Strategy By - Tanusree De, Managing Director- Accenture Technology Lead, Trustworthy AI Center of Excellence: ATCI View Program",
+      "retrievedAt": "2025-02-08 19:05:38.129286",
+      "internal_id": "f43f7113715f95c2a201b1e5cf752b94ddfcc22dc84429da8fc1b8780362f7ee",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
+      "id": 18042,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "Desarrollan un mapa del genoma del par\u00e1sito de la malaria que puede contribuir al desarrollo de nuevas terapias",
+      "description": "Un grupo de investigadores de la Escuela de Salud P\u00fablica T.H. Chan de Harvard (EEUU) ha generado un nuevo mapa exhaustivo de todos los genes esenciales para las infecciones sangu\u00edneas en 'Plasmodium knowlesi' ('P. knowlesi'), par\u00e1sito causante de la malaria \u2026",
+      "url": "https://www.infosalus.com/salud-investigacion/noticia-desarrollan-mapa-genoma-parasito-malaria-puede-contribuir-desarrollo-nuevas-terapias-20250207175151.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20250207175151_1200.jpg",
+      "publishedAt": "2025-02-07 16:51:51",
+      "content": "MADRID 7 Feb. (EUROPA PRESS) - Un grupo de investigadores de la Escuela de Salud P\u00fablica T.H. Chan de Harvard (EEUU) ha generado un nuevo mapa exhaustivo de todos los genes esenciales para las inf\u2026 [+2805 chars]",
+      "retrievedAt": "2025-02-08 19:05:38.150550",
+      "internal_id": "bb6e1437cf6ef176d351366f43f050fc66cf2de80d4d168dadd62ae3048ca482",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
+      "id": 18033,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Gizmodo.com",
+      "author": "Ed Cara",
+      "title": "CDC Abruptly Yanks Report Linking Cats to Bird Flu Spread",
+      "description": "The missing data detailed several cases of H5N1 that may have circulated between cats and people.",
+      "url": "https://gizmodo.com/cdc-pulls-back-report-linking-cats-to-bird-flu-spread-2000560876",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/12/sad-cat.jpg",
+      "publishedAt": "2025-02-07 16:50:51",
+      "content": "Under the new reign of the Trump administration, the Centers for Disease Control and Prevention is holding back important information on H5N1 bird flu. This week, the CDC appears to have published, a\u2026 [+4382 chars]",
+      "retrievedAt": "2025-02-08 19:05:35.994574",
+      "internal_id": "296b6ab618a30f1f06e0e9f17dd14863b8b98ee9700e2db90cc180c1215d1c87",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
+      "id": 18036,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Ilgiornale.it",
+      "author": "redazione@ilgiornale-web.it (Agenzia Adnkronos)",
+      "title": "Aviaria, -94% carica infettiva virus H5N1 con onde elettromagnetiche, lo studio",
+      "description": "Descrizione contenuto Aviaria, -94% carica infettiva virus H5N1 con onde elettromagnetiche, lo studio",
+      "url": "https://www.ilgiornale.it/news/adnkronos/aviaria-94-carica-infettiva-virus-h5n1-onde-2434579.html",
+      "urlToImage": "https://img.ilgcdn.com/sites/default/files/styles/social/public/foto/2025/02/07/aviaria_test_provetta_gallina_fg_ipa.jpeg?_=1738944902",
+      "publishedAt": "2025-02-07 16:15:02",
+      "content": "Milano, 7 feb. (Adnkronos Salute) - Uno studio pubblicato su 'Nature Scientific Reports' riporta dati positivi sull'efficacia delle onde elettromagnetiche per inattivare il virus dell'influenza aviar\u2026 [+2638 chars]",
+      "retrievedAt": "2025-02-08 19:05:36.102168",
+      "internal_id": "81299020ca640fad2fd77f68d42759b6344362a327ea13c94fb031b2c9b76314",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
+      "id": 18035,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Naked-science.ru",
+      "author": "\u042e\u043b\u0438\u044f \u0422\u0440\u0435\u043f\u0430\u043b\u0438\u043d\u0430",
+      "title": "\u0412 \u0421\u0428\u0410 \u043e\u043f\u0443\u0431\u043b\u0438\u043a\u043e\u0432\u0430\u043b\u0438 \u0438 \u0443\u0434\u0430\u043b\u0438\u043b\u0438 \u0434\u0430\u043d\u043d\u044b\u0435 \u043e \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0439 \u043f\u0435\u0440\u0435\u0434\u0430\u0447\u0435 H5N1 \u043e\u0442 \u043a\u043e\u0448\u0435\u043a \u043b\u044e\u0434\u044f\u043c",
+      "description": "\u0412 \u043d\u0435\u0434\u0430\u0432\u043d\u0435\u043c \u043e\u0442\u0447\u0435\u0442\u0435 \u0426\u0435\u043d\u0442\u0440\u043e\u0432 \u043f\u043e \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044e \u0438 \u043f\u0440\u043e\u0444\u0438\u043b\u0430\u043a\u0442\u0438\u043a\u0435 \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0430\u043d\u0438\u0439 \u0421\u0428\u0410 (CDC) \u043d\u0430 \u043a\u043e\u0440\u043e\u0442\u043a\u043e\u0435 \u0432\u0440\u0435\u043c\u044f \u043f\u043e\u044f\u0432\u0438\u043b\u043e\u0441\u044c \u0443\u043f\u043e\u043c\u0438\u043d\u0430\u043d\u0438\u0435 \u043e \u0441\u043b\u0443\u0447\u0430\u044f\u0445 \u043f\u0435\u0440\u0435\u0434\u0430\u0447\u0438 \u0432\u0438\u0440\u0443\u0441\u0430 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430 H5N1 \u043e\u0442 \u043a\u043e\u0448\u0435\u043a \u043b\u044e\u0434\u044f\u043c \u0438 \u043d\u0430\u043e\u0431\u043e\u0440\u043e\u0442. \u0425\u043e\u0442\u044f \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044e \u0431\u044b\u0441\u0442\u0440\u043e \u0443\u0434\u0430\u043b\u0438\u043b\u0438, \u0435\u0435 \u0443\u0441\u043f\u0435\u043b\u0438 \u0437\u0430\u043c\u0435\u0442\u0438\u0442\u044c \u0436\u0443\u0440\u043d\u0430\u043b\u0438\u0441\u0442\u044b \u0438 \u0443\u0447\u0435\u043d\u044b\u0435,\u2026",
+      "url": "https://naked-science.ru/article/medicine/peredacha-h5n1-ot-koshek",
+      "urlToImage": "https://naked-science.ru/wp-content/uploads/2025/02/photo_2025-02-07_16-42-40-1200x675.jpg",
+      "publishedAt": "2025-02-07 14:56:22",
+      "content": "(CDC) H5N1 . , , . , , , , The New York Times, . CDC , , . . , . . , CDC , 5 , . The Morbidity and Mortality Weekly Report (MMWR), -. , . MMWR, . H5N1 . , H5N1. . - H5N1 Felis catus. , 2022 85 \u2026 [+111 chars]",
+      "retrievedAt": "2025-02-08 19:05:36.083245",
+      "internal_id": "089bc850fc37b3d39234f66b68aa8df46955ae4a8a4ae8e8c4c46cd6d9e4e360",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
+      "id": 18029,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Brinkley Raynor Bellotti, Elvis W. D\u00edaz, Micaela De la Puente-Le\u00f3n, Maria T. Rieders, Sergio E. Recuenco, Michael Z. Levy, Ricardo Castillo-Neyra",
+      "title": "Challenging a paradigm: Staggered versus single-pulse mass dog vaccination strategy for rabies elimination",
+      "description": "Author summary Metapopulation models that incorporate local variability in control measure implementation and population dynamics offer valuable insights for policymaking. The current paradigm for dog rabies elimination involves \u201csingle-pulse\u201d mass dog vaccin\u2026",
+      "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012780",
+      "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1012780.g007&size=inline",
+      "publishedAt": "2025-02-07 14:00:00",
+      "content": "Abstract Background From smallpox to poliomyelitis, halting contagion transmission through simultaneous mass vaccination is ubiquitous and often perceived as the only possible solution. But impleme\u2026 [+41219 chars]",
+      "retrievedAt": "2025-02-08 19:05:34.250852",
+      "internal_id": "1ae3e4ac3f230fa7d37da7bc0a1b3ffb87077845a5ed2f27bd6c85fc7ad4cbf5",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
+      "id": 18039,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Boni F. Sebayang, Tanya L. Russell, Susannah Mosby, Richard Gela, Darcy L. Roeger, Bram van de Straat, Kyran M. Staunton, Thomas R. Burkot",
+      "title": "Sugar feeding by Aedes albopictus in the Torres Strait, Australia",
+      "description": "Author summary The establishment of Ae. albopictus in the Torres Strait Islands poses an ongoing challenge to dengue control in these islands. Additionally, these mosquitoes threaten to spread to mainland Australia. Baseline data on fructose prevalence in Ae.\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012856",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012856.g003&size=inline",
+      "publishedAt": "2025-02-07 14:00:00",
+      "content": "Abstract Background The establishment of Aedes albopictus in the Torres Strait Islands in 2005 is a threat to dengue control in the Islands and on mainland Australia. Attractive targeted sugar bait\u2026 [+40744 chars]",
+      "retrievedAt": "2025-02-08 19:05:36.929181",
+      "internal_id": "c7f2da1f76caf88ee1e6310c61dd68023d3fd35f0a6cbdeb26eb1f13e4a992ec",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
+      "id": 18034,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Bruce Y. Lee, Senior Contributor, \n Bruce Y. Lee, Senior Contributor\n https://www.forbes.com/sites/brucelee/",
+      "title": "CDC MMWR Back After 2 Week Halt But Without H5N1 Bird Flu Studies",
+      "description": "For the first time since 1952, publication of the CDC's MMWR was halted for two week. On February 6, there were two new MMWR studies but nothing on the H5N1 bird flu.",
+      "url": "https://www.forbes.com/sites/brucelee/2025/02/07/cdc-mmwr-back-after-2-week-halt-but-without-h5n1-bird-flu-studies/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67a60039e017e18dfc61b6a1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-02-07 12:59:44",
+      "content": "For the first time since 1952, publication of the Center for Disease Control and Prevention ... [+] Morbidity and Mortality Weekly Report was halted for two weeks. (Photo by Nathan Posner/Anadolu Age\u2026 [+4468 chars]",
+      "retrievedAt": "2025-02-08 19:05:36.021465",
+      "internal_id": "4fe0d79a627dceac1aa1e468c684c1691e9dee2b21619d21a70a4a987ee3c22d",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
+      "id": 18048,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Tass.ru",
+      "author": null,
+      "title": "\u0412 \u0412\u041e\u0417 \u043f\u0440\u043e\u043a\u043e\u043c\u043c\u0435\u043d\u0442\u0438\u0440\u043e\u0432\u0430\u043b\u0438 \u043f\u0440\u0438\u043e\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0443 \u043f\u043e\u043c\u043e\u0449\u0438 \u0421\u0428\u0410 \u0434\u043b\u044f \u0414\u0420\u041a",
+      "description": "\u0412\u0441\u0435\u043c\u0438\u0440\u043d\u0430\u044f \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u044f \u0437\u0434\u0440\u0430\u0432\u043e\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f \u043d\u0430\u043f\u043e\u043c\u043d\u0438\u043b\u0430, \u0447\u0442\u043e \u0432 2024 \u0433\u043e\u0434\u0443 \u0421\u0428\u0410 \u043f\u0440\u0435\u0434\u043e\u0441\u0442\u0430\u0432\u0438\u043b\u0438 \u044d\u0442\u043e\u0439 \u0441\u0442\u0440\u0430\u043d\u0435 \u043f\u043e\u0447\u0442\u0438 70% \u0433\u0443\u043c\u0430\u043d\u0438\u0442\u0430\u0440\u043d\u043e\u0439 \u043f\u043e\u043c\u043e\u0449\u0438",
+      "url": "https://tass.ru/obschestvo/23082811",
+      "urlToImage": "https://cdn-storage-media.tass.ru/thumb/ru/obschestvo/23082811?u=2025-02-07T12:56:15.146359",
+      "publishedAt": "2025-02-07 12:56:15",
+      "content": ", 7 . //. (), . (). \" \", - . , 2024 70% . , , \" mpox (\"\", )\", \" \" . , , \" \". , $50 . \" , , , \". \" , \". , 26 31 \" 3 082 843 \". \" 70 , \". 26 \" 23 \" , . . . 3 .",
+      "retrievedAt": "2025-02-08 19:05:39.304556",
+      "internal_id": "5d2a5f0a71b907552aaffc0eaa69f26e7a102c8856ab9a63b2e8a72e22fb0e81",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
+      "id": 18047,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Tass.ru",
+      "author": null,
+      "title": "\u041d\u0430 \u0432\u043e\u0441\u0442\u043e\u043a\u0435 \u0414\u0420\u041a \u043f\u0440\u043e\u0438\u0437\u043e\u0448\u043b\u0430 \u0432\u0441\u043f\u044b\u0448\u043a\u0430 \u0445\u043e\u043b\u0435\u0440\u044b",
+      "description": "\u0412 1 \u043f\u043e 27 \u044f\u043d\u0432\u0430\u0440\u044f \u0432\u044b\u044f\u0432\u043b\u0435\u043d\u043e \u043e\u043a\u043e\u043b\u043e 600 \u0441\u043b\u0443\u0447\u0430\u0435\u0432 \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0430\u043d\u0438\u044f",
+      "url": "https://tass.ru/obschestvo/23082793",
+      "urlToImage": "https://cdn-storage-media.tass.ru/thumb/ru/obschestvo/23082793?u=2025-02-07T12:53:17.025037",
+      "publishedAt": "2025-02-07 12:53:17",
+      "content": ", 7 . //. (). (). \" 1 27 600 , 14 \", - . , , \" 23 \", , . \" \", - . . , , , , , , , mpox ( ) . 128 mpox 143 . . 5 10- mpox. . , 2 700 . , . , , , . , . .",
+      "retrievedAt": "2025-02-08 19:05:39.290624",
+      "internal_id": "66afcf0a1cfe7ff14c877d5647ae85ed927400c86e207cbaa04589944835c46d",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
+      "id": 18040,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Hermann Feldmeier",
+      "title": "Von Afrika nach Europa: Die verschlungenen Wege der Odyssee-Malaria",
+      "description": "Die Malaria gilt als Tropenkrankheit. Allerdings gibt es F\u00e4lle in L\u00e4ndern, in denen sich der Erreger eigentlich nicht halten kann. Dazu geh\u00f6rt Deutschland.",
+      "url": "https://www.tagesspiegel.de/wissen/von-afrika-nach-europa-die-verschlungenen-wege-der-odyssee-malaria-13143958.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/13144072/alternates/BASE_16_9_W1400/1738682622000/flug004-flughafen-berlin-brandenburg-zu-ferienbeginn.jpeg",
+      "publishedAt": "2025-02-07 12:12:00",
+      "content": "Im Juli 2022 erkrankten zwei Mitarbeiter des Frankfurter Flughafens nahezu zeitgleich: Sch\u00fcttelfrost, hohes Fieber, Kopf- und Gliederschmerzen.",
+      "retrievedAt": "2025-02-08 19:05:38.094169",
+      "internal_id": "d04b41d2eeb0e770950cb8a003d9419bad6fe4ebbb9e6d65af6396566227d80e",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
+      "id": 18052,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "Get vaccinated for typhoid, MOH tells food handlers at fairs, expos",
+      "description": "PUTRAJAYA: Organisers, owners or lessees of food and beverage stalls at fairs or food expos must ensure that all food handlers receive typhoid vaccination, the Health Ministry says. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2025/02/07/get-vaccinated-for-typhoid-moh-tells-food-handlers-at-fairs-expos",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/02/07/3156900.jpg",
+      "publishedAt": "2025-02-07 12:01:00",
+      "content": "PUTRAJAYA: Organisers, owners or lessees of food and beverage stalls at fairs or food expos must ensure that all food handlers receive typhoid vaccination, the Health Ministry says. It stressed in a\u2026 [+797 chars]",
+      "retrievedAt": "2025-02-08 19:05:39.546812",
+      "internal_id": "afcdb697adfca0b0fb3550204db6af85ed22d5e7ea031a202eafdc4f719b72e9",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
+      "id": 18049,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": "UK Health Security Agency",
+      "title": "Guidance: Mpox (monkeypox) contacts vaccination resources",
+      "description": "Information on the smallpox vaccination used to protect those who have had contact with an mpox case against the monkeypox virus (MPXV).",
+      "url": "https://www.gov.uk/government/publications/mpox-monkeypox-contacts-vaccination-resources",
+      "urlToImage": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png",
+      "publishedAt": "2025-02-07 11:44:57",
+      "content": "We use some essential cookies to make this website work. Wed like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services. We also use coo\u2026 [+70 chars]",
+      "retrievedAt": "2025-02-08 19:05:39.343177",
+      "internal_id": "1979696acfcaebeebbb24fca6ae86bff3d80040fbdf21ad3ecf6b037c8b58c37",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
+      "id": 18045,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Lavozdegalicia.es",
+      "author": "La Voz",
+      "title": "La plitidepsina (Aplidin) de PharmaMar demuestra potencial frente al covid, el MERS, el zika, el VRS, la hepatitis C y el herpes",
+      "description": "El compuesto desarrollado por la farmac\u00e9utica de origen gallego bloquea la s\u00edntesis de prote\u00ednas de las c\u00e9lulas, con lo que muchos virus son incapaces de sobreponerse y mueren",
+      "url": "https://www.lavozdegalicia.es/noticia/sociedad/2025/02/07/plitidepsina-aplidin-pharmamar-demuestrapotencial-frente-covid-mers-zika-vrs-hepatitis-c-herpes/00031738927344721102398.htm",
+      "urlToImage": "https://img.lavdg.com/sc/u5PJtiQoaAWuJGMIAd4mXaZZ7qY=/1280x/2025/02/07/00121738928341836270807/Foto/bnm.jpg",
+      "publishedAt": "2025-02-07 11:40:00",
+      "content": "Un estudio de IrsiCaixa ha demostrado el potencial de un f\u00e1rmaco antitumoral, plitidepsina, para tratar diferentes virus, incluyendo el Sars-Cov2, el MERS, el zika, el virus respiratorio sincitial, e\u2026 [+1916 chars]",
+      "retrievedAt": "2025-02-08 19:05:38.527122",
+      "internal_id": "9cd9825fbcc181577f29f4bcd38bb7f824f072b38ae66ddea89e7ba8ea5244e4",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
+      "id": 18044,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "Un f\u00e1rmaco antitumoral es eficaz para frenar m\u00faltiples virus, incluido el Covid-19",
+      "description": "Un estudio de IrsiCaixa ha demostrado el potencial de un f\u00e1rmaco antitumoral, 'plitidepsina', para tratar diferentes virus, incluyendo el Sars-Cov2, el MERS, el zika, el virus respiratorio sincitial, el virus de la hepatitis C y el del herpes.",
+      "url": "https://www.infosalus.com/salud-investigacion/noticia-estudio-descubre-farmaco-antitumoral-efectivo-contra-varios-virus-20250207115253.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20250207115253_1200.jpg",
+      "publishedAt": "2025-02-07 10:52:53",
+      "content": "Es eficaz contra el Sars-Cov2, la hepatitis C y el herpes, entre otros BARCELONA, 7 Feb. (EUROPA PRESS) - Un estudio de IrsiCaixa ha demostrado el potencial de un f\u00e1rmaco antitumoral, 'plitideps\u2026 [+2050 chars]",
+      "retrievedAt": "2025-02-08 19:05:38.513483",
+      "internal_id": "a4be6cccb6dd2f14c0026499e456f2689828b9751f292893f8d6410b4236ca77",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
+      "id": 18043,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Europapress.es",
+      "author": null,
+      "title": "Un estudio descubre que un f\u00e1rmaco antitumoral es efectivo contra varios virus",
+      "description": "Un estudio de IrsiCaixa ha demostrado el potencial de un f\u00e1rmaco antitumoral, 'plitidepsina', para tratar diferentes virus, incluyendo el Sars-Cov2, el MERS, el zika, el virus respiratorio sincitial, el virus de la hepatitis C y el del herpes.",
+      "url": "https://www.europapress.es/catalunya/noticia-estudio-descubre-farmaco-antitumoral-efectivo-contra-varios-virus-20250207115056.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20250207115056_1200.jpg",
+      "publishedAt": "2025-02-07 10:50:56",
+      "content": "Es eficaz contra el Sars-Cov2, la hepatitis C y el herpes, entre otros BARCELONA, 7 Feb. (EUROPA PRESS) - Un estudio de IrsiCaixa ha demostrado el potencial de un f\u00e1rmaco antitumoral, 'plitideps\u2026 [+2050 chars]",
+      "retrievedAt": "2025-02-08 19:05:38.505583",
+      "internal_id": "7fa8d325a710f0250260c004555b3a72d19c5484b7d0a569c5eb6d4666378c42",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
+      "id": 18032,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Kffhealthnews.org",
+      "author": "Amy Maxmen",
+      "title": "Measles Outbreak Mounts Among Children in One of Texas\u2019 Least Vaccinated Counties",
+      "description": "With hospitalizations and at least a dozen cases, health officials race to contain a growing outbreak in a community with low vaccination.",
+      "url": "https://kffhealthnews.org/news/article/texas-measles-outbreak-gaines-county-public-health-measles-vaccine/",
+      "urlToImage": "https://kffhealthnews.org/wp-content/uploads/sites/2/2025/02/GettyImages-1294264382-resized.jpg",
+      "publishedAt": "2025-02-07 10:00:00",
+      "content": "Amy MaxmenA measles outbreak is growing in a Texas county with dangerously low vaccination rates. In late January, two school-age children from Gaines County were hospitalized with measles. Since an\u2026 [+5001 chars]",
+      "retrievedAt": "2025-02-08 19:05:34.916945",
+      "internal_id": "8c2d837e5a5db5457b950d8fb1c6db4ccd0ab659220f47e9ce7f2ab2d5fdafff",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
+      "id": 18051,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Rappler",
+      "author": "Frank Cimatu",
+      "title": "2 more in Baguio test positive for mpox, health officials urge caution",
+      "description": "The latest cases in Baguio involve a 21-year-old man and a 21-year-old woman, both of whom are in isolation and recovering",
+      "url": "https://www.rappler.com/philippines/luzon/mpox-cases-baguio-health-officials-caution-february-7-2025/",
+      "urlToImage": "https://www.rappler.com/tachyon/2024/08/mpox-philippines-aug-29-2024.jpg",
+      "publishedAt": "2025-02-07 09:22:42",
+      "content": "BAGUIO, Philippines Two new mpox (monkeypox) have been documented in Baguio City, bringing the total to four in recent weeks, the Baguio Health Services Office (BHSO) confirmed on Friday, February 7.\u2026 [+1592 chars]",
+      "retrievedAt": "2025-02-08 19:05:39.390868",
+      "internal_id": "ea3b04c5ac4e8570ae614ef947aba64ce06d247fa9a2363588a1db4f0bb84038",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
+      "id": 18046,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Elperiodico.com",
+      "author": "Beatriz P\u00e9rez",
+      "title": "Un f\u00e1rmaco oncol\u00f3gico que es eficaz contra el covid tambi\u00e9n puede combatir el Zika, el herpes o la hepatitis C",
+      "description": "La plitidepsina, un f\u00e1rmaco antitumoral que se utiliza desde hace a\u00f1os en el campo de la oncolog\u00eda, tiene potencial para tratar tambi\u00e9n diferentes virus, como el SARS-CoV-2, el MERS, el zika, el virus respiratorio sincitial (el VRS, el de la bronquiolitis), e\u2026",
+      "url": "https://www.elperiodico.com/es/sanidad/20250207/farmaco-cancer-eficaz-covid-combatir-herpes-zika-hepatitis-c-vrs-114061335",
+      "urlToImage": "https://estaticos-cdn.prensaiberica.es/clip/25f9b076-5f48-4472-9a12-880169f2f665_16-9-discover-aspect-ratio_default_0.jpg",
+      "publishedAt": "2025-02-07 09:01:04",
+      "content": "La plitidepsina, un f\u00e1rmaco antitumoral que se utiliza desde hace a\u00f1os en el campo de la oncolog\u00eda, tiene potencial para tratar tambi\u00e9n diferentes virus, como el SARS-CoV-2, el MERS, el zika, el viru\u2026 [+4265 chars]",
+      "retrievedAt": "2025-02-08 19:05:38.535435",
+      "internal_id": "3c87532eb00a2f484d9e384eb5a83fba885e549d4d83376a5b9806bc782fec64",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
+      "id": 18031,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The West Australian",
+      "author": "The West Australian",
+      "title": "WA Health issue warning after person attended Drake\u2019s Perth concert while infectious with measles",
+      "description": "WA Health issue warning after person attended Drake\u2019s Perth concert while infectious with measlesthewest.com.au",
+      "url": "https://thewest.com.au/news/health/wa-health-issue-warning-after-person-attended-drakes-perth-concert-while-infectious-with-measles-c-17646737",
+      "urlToImage": "https://images.thewest.com.au/publication/C-17646737/ff83217b83fe62b86374a8e989f530ae97fca009-16x9-x1389y1076w5345h3007.jpg?imwidth=1200",
+      "publishedAt": "2025-02-07 08:30:40",
+      "content": "WA Health has issued an urgent health warning after a person with measles attended the Drake concert in Perth. The WA community has been told to monitor for symptoms after there was a confirmed meas\u2026 [+1977 chars]",
+      "retrievedAt": "2025-02-08 19:05:34.909019",
+      "internal_id": "93de50b62e37bb1bcf9c509478ec60fe6be58515e03f25fc3663b454c6b0d672",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
+      "id": 18037,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Samara Menezes",
+      "title": "10 coisas que voc\u00ea precisa saber sobre a vacina de dose \u00fanica para dengue",
+      "description": "Entenda pontos importantes sobre a nova vacina contra dengue de dose \u00fanica desenvolvida pelo Instituto Butantan O post 10 coisas que voc\u00ea precisa saber sobre a vacina de dose \u00fanica para dengue apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2025/02/07/medicina-e-saude/10-coisas-que-voce-precisa-saber-sobre-a-vacina-de-dose-unica-para-dengue/",
+      "urlToImage": "https://img.odcdn.com.br/wp-content/uploads/2025/01/Vacina-scaled.jpg",
+      "publishedAt": "2025-02-07 08:20:00",
+      "content": "A dengue \u00e9 uma das doen\u00e7as tropicais mais preocupantes do Brasil, transmitida pelo mosquito Aedes aegypti. Com sintomas que variam de febre alta a complica\u00e7\u00f5es graves, como hemorragias e choque, ela \u2026 [+6185 chars]",
+      "retrievedAt": "2025-02-08 19:05:36.847682",
+      "internal_id": "f034a386bd01a23e246485e1b5584faf8707e6540c1bc9dfe098477615ee71fd",
+      "publishedAtLabel": "Feb 7"
+    },
     {
       "id": 18024,
       "query": [
@@ -23422,96 +23854,6 @@
       "content": "Doniesienia z USA: Ameryka\u0144skie s\u0142u\u017cby epidemiologiczne poda\u0142y, \u017ce 65-letni m\u0119\u017cczyzna ma rozleg\u0142\u0105 infekcj\u0119. Do zaka\u017cenia mia\u0142o doj\u015b\u0107 w wyniku kontaktu z przydomowym drobiem - jest to pierwszy taki pr\u2026 [+1099 chars]",
       "retrievedAt": "2024-12-24 07:06:19.729663",
       "internal_id": "70b65642f13b1dbea4d5c7ad207de5895b22c8c856745b39e910bd6719b57392",
-      "publishedAtLabel": "Dec 22"
-    },
-    {
-      "id": 16720,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "la-nacion",
-      "source_name": "La Nacion",
-      "author": null,
-      "title": "La Ciudad habilita m\u00e1s turnos para la vacunaci\u00f3n contra el dengue",
-      "description": "En esta etapa, los j\u00f3venes de entre 25 y 29 a\u00f1os podr\u00e1n darse su primera dosis y los de entre 15 y 19 la segunda; las inscripciones arrancar\u00e1n este 23 de diciembre y los turnos estar\u00e1n disponibles a partir del 2 de enero",
-      "url": "https://www.lanacion.com.ar/politica/la-ciudad-habilita-mas-turnos-para-la-vacunacion-contra-el-dengue-nid22122024/",
-      "urlToImage": "https://resizer.glanacion.com/resizer/v2/la-ciudad-avanza-con-la-vacunacion-contra-el-QY3H2227OZDAHJGQRBIVPTHOLM.JPG?auth=0c64d49d3c33ef1bf88bed08d1f139ef8088dbcf65c8530bc62604ac602bd381&width=1200&quality=70&smart=false&height=799",
-      "publishedAt": "2024-12-22 18:33:36",
-      "content": "El Ministerio de Salud de la Ciudad de Buenos Aires anunci\u00f3 que este lunes 23 de diciembre habilitar\u00e1 nuevos turnos para vacunarse contra el dengue. Se trata de un plan integral de prevenci\u00f3n contra \u2026 [+4055 chars]",
-      "retrievedAt": "2024-12-23 19:05:33.913146",
-      "internal_id": "304f4ea1442b3ed4a4d9c03654f59508d60b5cd11aaa3419864d9d1f07752a12",
-      "publishedAtLabel": "Dec 22"
-    },
-    {
-      "id": 16719,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Olhardigital.com.br",
-      "author": "Leandro Costa Criscuolo",
-      "title": "Fen\u00f4menos clim\u00e1ticos podem ter influ\u00eancia em alta de casos de dengue",
-      "description": "Pesquisadores relacionam fen\u00f4menos clim\u00e1ticos a surtos de dengue e alertam para a necessidade de pol\u00edticas p\u00fablicas de preven\u00e7\u00e3o O post Fen\u00f4menos clim\u00e1ticos podem ter influ\u00eancia em alta de casos de dengue apareceu primeiro em Olhar Digital.",
-      "url": "https://olhardigital.com.br/2024/12/22/medicina-e-saude/fenomenos-climaticos-podem-ter-influencia-em-alta-de-casos-de-dengue/",
-      "urlToImage": "https://img.odcdn.com.br/wp-content/uploads/2024/12/dengue.jpg",
-      "publishedAt": "2024-12-22 15:06:00",
-      "content": "Um levantamento realizado por pesquisadores da Fiocruz e do Procam (USP) revelou que os fen\u00f4menos clim\u00e1ticos El Ni\u00f1o e La Ni\u00f1a est\u00e3o diretamente relacionados ao aumento de casos de dengue registrados\u2026 [+1389 chars]",
-      "retrievedAt": "2024-12-23 19:05:33.875893",
-      "internal_id": "d2ca5080df4e44ab508c9471f8e72de151f63ef8f7cc5ffbd93971b0ba338c5c",
-      "publishedAtLabel": "Dec 22"
-    },
-    {
-      "id": 16718,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Haber7.com",
-      "author": "Hakan Erdi Uluda\u011f",
-      "title": "ABD'de acil durum ilan edildi! Ku\u015f gribi nedir, belirtileri neler?",
-      "description": "ABD'nin Kaliforniya eyaletinde ku\u015f gribi (H5N1) vakalar\u0131nda ciddi bir art\u0131\u015f g\u00f6zlemlendi. Vakalar\u0131n artmas\u0131yla birlikte ABD'de k\u0131rm\u0131z\u0131 durum ilan edildi. Peki ku\u015f gribi belirtileri nedir? A\u015f\u0131s\u0131 var m\u0131?",
-      "url": "https://www.haber7.com/guncel/haber/3489889-abdde-acil-durum-ilan-edildi-kus-gribi-nedir-belirtileri-neler",
-      "urlToImage": "https://i12.haber7.net//haber/haber7/og_image/2024/51/abdde_acil_durum_ilan_edildi_kus_gribi_nedir_belirtileri_neler_1734875405_689.jpg",
-      "publishedAt": "2024-12-22 14:03:00",
-      "content": "ABD, bir s\u00fcredir artan ku gribi vakalaryla ba etmeye \u00e7alyor. Kaliforniya Valilik Ofisi tarafndan yaplan a\u00e7klamada, 16 eyaletteki b\u00fcy\u00fckba hayvanlarda H5N1 vir\u00fcs\u00fcn\u00fcn tespit edildii, yaylm kontrol altna\u2026 [+836 chars]",
-      "retrievedAt": "2024-12-23 19:05:33.369605",
-      "internal_id": "fa2f502d2d1b4b0360df4cd7c9c2ccfb869d9f5405ec081d29a4b03ca43f7089",
-      "publishedAtLabel": "Dec 22"
-    },
-    {
-      "id": 16729,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Mustsharenews.com",
-      "author": "Jeremy Lee",
-      "title": "H5N1 poses 'highest risk' of becoming next pandemic, S'pore health authorities monitoring situation",
-      "description": "H5N1 poses the \"highest risk\" of becoming the next pandemic and Singapore's health authorities are monitoring it, said the Health Minister.",
-      "url": "https://mustsharenews.com/h5n1-pandemic-risk/",
-      "urlToImage": "https://mustsharenews.com/wp-content/uploads/2024/12/H5N1-poses-highest-risk-of-becoming-next-pandemic-Spore-health-authorities-monitoring-situation.jpg",
-      "publishedAt": "2024-12-22 11:38:13",
-      "content": "H5N1, also known as bird flu, poses the \u201chighest risk\u201d of becoming the next pandemic, with the Singapore health authorities monitoring the situation. This was revealed in a Facebook post by Health M\u2026 [+3494 chars]",
-      "retrievedAt": "2024-12-24 07:06:19.792592",
-      "internal_id": "21c63bceb7bf8d67dac233ecc9c702e486ef118176488b5b7b43ef28cefb1343",
-      "publishedAtLabel": "Dec 22"
-    },
-    {
-      "id": 16717,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Www.dn.se",
-      "author": "Maria Gunther",
-      "title": "Maria Gunther: Lyckliga i alla sina dagar \u2013 men m\u00e5r prinsessorna verkligen bra?",
-      "description": "\u00c4ven Disneyprinsessor \u00e4r utsatta f\u00f6r allvarliga h\u00e4lsorisker, som isolering, depression, diabetes, nyckelbensfraktur, lungcancer, rabies och skallighet.",
-      "url": "https://www.dn.se/varlden/maria-gunther-lyckliga-i-alla-sina-dagar-men-mar-prinsessorna-verkligen-bra/",
-      "urlToImage": "https://static.bonniernews.se/gcs/bilder/dn-mly/2e0be684-434d-476a-b61a-c9a3a3c4c015.jpeg?io=1&width=1024&crop=16:9,smart",
-      "publishedAt": "2024-12-22 08:56:33",
-      "content": "Stackars Askungen, suckar musen Gus p\u00e5 julafton varje \u00e5r, i Kalle Anka och hans v\u00e4nner \u00f6nskar God Jul. Och kanske har han mer r\u00e4tt \u00e4n vi anat. Det har l\u00e4nge funnits farh\u00e5gor, bland forskare, debatt\u2026 [+3615 chars]",
-      "retrievedAt": "2024-12-23 19:05:32.336378",
-      "internal_id": "04e8cdc160a10cab0ce0e647c6450d19c2b0836c4688ebf7ca0ce5754d172dd5",
       "publishedAtLabel": "Dec 22"
     }
   ]
