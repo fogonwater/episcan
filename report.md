@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 13
-- **Last harvest:** 2025-02-09 19:05
-- **Most recent article:** 2025-02-08 18:23:03
+- **New articles in last harvest:** 2
+- **Last harvest:** 2025-02-10 07:07
+- **Most recent article:** 2025-02-08 23:14:54
 
 ---
 
@@ -12,12 +12,12 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-53 | 25-1 | 25-2 | 25-3 | 25-4 | 25-5 | 25-6 | Total |
 |--|-|-|-|-|-|-|-|-|
-| h5n1 | 22 | 27 | 131 | 65 | 31 | 51 | 68 | 395 |
+| h5n1 | 27 | 27 | 131 | 65 | 31 | 51 | 68 | 400 |
 | mpox | 2 | 6 | 91 | 34 | 23 | 22 | 28 | 206 |
-| dengue | 4 | 12 | 41 | 29 | 37 | 24 | 34 | 181 |
-| malaria | 12 | 10 | 30 | 18 | 19 | 30 | 24 | 143 |
-| measles | 3 | 6 | 6 | 9 | 10 | 13 | 23 | 70 |
-| hpai | 0 | 4 | 18 | 12 | 11 | 6 | 3 | 54 |
+| dengue | 5 | 12 | 41 | 29 | 37 | 24 | 34 | 182 |
+| malaria | 15 | 10 | 30 | 18 | 19 | 30 | 25 | 147 |
+| measles | 3 | 6 | 6 | 9 | 10 | 13 | 24 | 71 |
+| hpai | 1 | 4 | 18 | 12 | 11 | 6 | 3 | 55 |
 | chikungunya | 2 | 0 | 7 | 7 | 10 | 9 | 8 | 43 |
 | zika | 0 | 0 | 15 | 5 | 2 | 8 | 6 | 36 |
 | rabies | 1 | 1 | 2 | 6 | 7 | 6 | 4 | 27 |
@@ -136,6 +136,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-6 (measles)
 
+- [Texas Measles Cases Hit Double Digits as Outbreak Continues to Raise Alarm](https://www.newsweek.com/texas-measles-cases-hit-double-digits-outbreak-raises-alarm-2028348) (Newsweek)
+
 - [Measles outbreak hits unvaccinated in Texas](https://www.rawstory.com/measles-outbreak-hits-unvaccinated-in-texas/) (Raw Story)
 
 - [Measles outbreak expands in West Texas around county with low vaccination rate (Deidre McPhillips/CNN)](https://www.memeorandum.com/250208/p13) (Memeorandum.com)
@@ -183,6 +185,8 @@ Source: [News API](https://newsapi.org/)
 - [Viral Vaccines Market Size is Projected to Reach USD 93.42 Billion by 2033, Growing at a CAGR of 8.4%: Straits Research](https://www.globenewswire.com/news-release/2025/02/03/3019614/0/en/Viral-Vaccines-Market-Size-is-Projected-to-Reach-USD-93-42-Billion-by-2033-Growing-at-a-CAGR-of-8-4-Straits-Research.html) (GlobeNewswire)
 
 ## 25-6 (malaria)
+
+- [TB, malaria, newborn health services must restart, says USAID memo](https://www.gmanetwork.com/news/topstories/world/935675/tb-malaria-newborn-health-services-must-restart-says-usaid-memo/story/) (GMA News)
 
 - [Some urgent US aid programmes cleared to restart](https://www.bangkokpost.com/world/2956901/some-urgent-us-aid-programmes-cleared-to-restart) (Bangkok Post)
 
@@ -2512,6 +2516,16 @@ Source: [News API](https://newsapi.org/)
 
 - [Pakar Ungkap Potensi Ancaman Kesehatan Utama di 2025, Ada Malaria hingga Masalah Mental](https://www.liputan6.com/health/read/5856603/pakar-ungkap-potensi-ancaman-kesehatan-utama-di-2025-ada-malaria-hingga-masalah-mental) (Liputan6.com)
 
+- [AB-PMJAY has reduced cancer patients' financial burden significantly: Prime Minister Modi](https://economictimes.indiatimes.com/news/india/ab-pmjay-has-reduced-cancer-patients-financial-burden-significantly-prime-minister-modi/articleshow/116773595.cms) (The Times of India)
+
+- [Doch keine mysteriöse «Krankheit X» in Kongo-Kinshasa: Unterernährung macht Malaria und Erkältungen zu Killern](https://www.nzz.ch/wissenschaft/keine-krankheit-x-im-kongo-unterernaehrung-als-wahre-ursache-ld.1864272) (Www.nzz.ch)
+
+- [WHO-Liste des Grauens: Die gefährlichsten Erreger, gegen die es keine Impfung gibt](https://www.n-tv.de/mediathek/bilderserien/wissen/Die-gefaehrlichsten-Erreger-gegen-die-es-keine-Impfung-gibt-article25374966.html) (N-tv.de)
+
+## 24-53 (hpai)
+
+- [Il primo caso di influenza aviaria mostra i segni di una mutazione: c'è da preoccuparsi?](https://tech.everyeye.it/notizie/caso-influenza-aviaria-mostra-segni-mutazione-e-preoccuparsi-767704.html) (Everyeye.it)
+
 ## 24-53 (h5n1)
 
 - [As pace and severity of human H5N1 cases accelerate, NIH leaders call for more action on bird flu | CNN](https://www.cnn.com/2024/12/31/health/human-h5n1-bird-flu-cases/index.html) (CNN)
@@ -2558,6 +2572,16 @@ Source: [News API](https://newsapi.org/)
 
 - [طفرة فريدة من نوعها لفيروس انفلونزا الطيور يكتشفها أطباء في لوس أنجلوس.. بِمَ يُنبئنا ذلك؟](https://arabic.cnn.com/science-and-health/video/2024/12/30/v167548-bird-flu-mutation) (CNN)
 
+- [Американских кошек поразил новый штамм птичьего гриппа](https://naked-science.ru/article/medicine/amerikanskih-koshek-poraz) (Naked-science.ru)
+
+- [Марбург, Коксаки и Аляскапокс: какие вирусы бушевали в 2024](https://vfokuse.mail.ru/article/marburg-koksaki-i-alyaskapoks-kakie-virusy-bushevali-v-2024-64280393/) (Mail.ru)
+
+- [Schwerer Vogelgrippe-Fall beim Menschen: US-Seuchenbehörde findet gefährliche Mutationen](https://www.tagesspiegel.de/wissen/schwerer-vogelgrippe-fall-beim-menschen-us-seuchenbehorde-findet-gefahrliche-mutationen-12938302.html) (Der Tagesspiegel)
+
+- [Health expert warns bird flu may become a pandemic like COVID-19](https://www.revolt.tv/article/former-white-house-health-expert-warns-bird-flu-has-potential-to-become-pandemic) (REVOLT TV)
+
+- [طفرة جديدة تثير القلق.. إنفلونزا الطيور تستهدف خلايا التنفس لدى البشر](https://arabic.cnn.com/science-and-health/video/2024/12/29/v167569-bird-flu-mutates-to-target-human-respiratory-cells) (CNN)
+
 ## 24-53 (dengue)
 
 - [Bangladesh records 575 dengue deaths in 2024](https://www.thestar.com.my/news/world/2025/01/01/bangladesh-records-575-dengue-deaths-in-2024) (The Star Online)
@@ -2567,6 +2591,8 @@ Source: [News API](https://newsapi.org/)
 - [Japanese encephalitis: Summer's first case of mosquito-borne virus detected in Victorian](https://thenightly.com.au/society/health/japanese-encephalitis-summers-first-case-of-mosquito-borne-virus-detected-in-victorian-c-17244120) (Thenightly.com.au)
 
 - [Summer's first case of mosquito-borne Japanese encephalitis detected in Victoria](https://7news.com.au/news/summers-first-case-of-mosquito-borne-japanese-encephalitis-detected-in-victoria-c-17244123) (7NEWS.com.au)
+
+- [Os recordes negativos do governo Lula em 2024](https://veja.abril.com.br/brasil/os-recordes-negativos-do-governo-lula-em-2024) (Abril.com.br)
 
 ## 24-53 (chikungunya)
 

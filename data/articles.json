@@ -1,8 +1,44 @@
 {
-  "last_updated": "2025-02-09 19:05",
-  "count_articles_total": 1147,
-  "count_articles_new": 13,
+  "last_updated": "2025-02-10 07:07",
+  "count_articles_total": 1159,
+  "count_articles_new": 2,
   "articles": [
+    {
+      "id": 18077,
+      "query": [
+        "measles"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Natalie Venegas",
+      "title": "Texas Measles Cases Hit Double Digits as Outbreak Continues to Raise Alarm",
+      "description": "The Texas Department of State Health Services issued a health alert warning of an outbreak, saying there are at least 10 confirmed cases.",
+      "url": "https://www.newsweek.com/texas-measles-cases-hit-double-digits-outbreak-raises-alarm-2028348",
+      "urlToImage": "https://d.newsweek.com/en/full/2584274/measles-vaccine.jpg",
+      "publishedAt": "2025-02-08 23:14:54",
+      "content": "An outbreak of measles cases in Texas has hit double digits prompting the Texas Department of State Health Services (DSHS) to issue an alert on Friday. Newsweek has contacted the Texas Department of\u2026 [+4919 chars]",
+      "retrievedAt": "2025-02-10 07:06:55.540602",
+      "internal_id": "88bb3c610cdae416143a6cc0b386e82b3a09e70cf62a876558d3acd8db92bd58",
+      "publishedAtLabel": "Feb 8"
+    },
+    {
+      "id": 18078,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "GMA News",
+      "author": "Reuters",
+      "title": "TB, malaria, newborn health services must restart, says USAID memo",
+      "description": "LONDON - American-funded aid efforts to tackle diseases such as malaria, as well as preventing newborn baby deaths and treating severe malnutrition, should resume, according to a memo from the United States government reviewed by Reuters.",
+      "url": "https://www.gmanetwork.com/news/topstories/world/935675/tb-malaria-newborn-health-services-must-restart-says-usaid-memo/story/",
+      "urlToImage": "https://images.gmanews.tv/webpics/2025/02/2025-02-03T161517Z_1454390692_RC22NCAHJZ4N_RTRMADP_3_USA-TRUMP-AID_2025_02_04_00_23_48.JPG",
+      "publishedAt": "2025-02-08 20:03:03",
+      "content": "LONDON - American-funded aid efforts to tackle diseases such as malaria, as well as preventing newborn baby deaths and treating severe malnutrition, should resume, according to a memo from the United\u2026 [+2052 chars]",
+      "retrievedAt": "2025-02-10 07:06:58.318452",
+      "internal_id": "69610d26404a7cf1782ddd81655126697876a3a463283cdf49bcbed8b0dfe48d",
+      "publishedAtLabel": "Feb 8"
+    },
     {
       "id": 18064,
       "query": [
@@ -20696,6 +20732,186 @@
       "retrievedAt": "2024-12-31 07:06:23.062519",
       "internal_id": "0bc71e1789a4d07f5edf705712a5525d9fafec59ac7298e720183fce7eba5a08",
       "publishedAtLabel": "Dec 30"
+    },
+    {
+      "id": 16925,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "PTI",
+      "title": "AB-PMJAY has reduced cancer patients' financial burden significantly: Prime Minister Modi",
+      "description": "Prime Minister Narendra Modi highlights the impact of the Ayushman Bharat Pradhan Mantri Jan Arogya Yojana on reducing cancer patients' financial burden and improving timely cancer treatment. He also underscores the significant reduction in malaria cases and \u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/ab-pmjay-has-reduced-cancer-patients-financial-burden-significantly-prime-minister-modi/articleshow/116773595.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-116773634,width-1200,height-630,imgsize-1176719,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2024-12-29 17:08:42",
+      "content": "The Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (AB-PMJAY) has reduced the cancer patients' financial burden significantly, Prime Minister Narendra Modi said on Sunday. Modi highlighted the achi\u2026 [+2619 chars]",
+      "retrievedAt": "2024-12-30 19:05:34.438835",
+      "internal_id": "e229a8cdaccdbf44b9c346c41bb50e05d4373547b8f017853329cc645773464f",
+      "publishedAtLabel": "Dec 29"
+    },
+    {
+      "id": 16923,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Hugo C\u00e9sar Marques",
+      "title": "Os recordes negativos do governo Lula em 2024",
+      "description": "Mortes por dengue, queimadas, alta do d\u00f3lar, desaprova\u00e7\u00e3o e finan\u00e7as das estatais lideram o rol de maus resultados da administra\u00e7\u00e3o petista",
+      "url": "https://veja.abril.com.br/brasil/os-recordes-negativos-do-governo-lula-em-2024",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2024/09/54020044888_4ae7db6d8e_6k.jpg?quality=70&strip=info&crop=1&resize=1080,565",
+      "publishedAt": "2024-12-29 16:14:06",
+      "content": "\u00daltima Semana: Assine a partir de 1,50/semanaO presidente Luiz In\u00e1cio Lula da Silva, durante o evento Em defesa da democracia, combatendo os extremismos, na Sede das Na\u00e7\u00f5es Unidas, em Nova Iorque - \u2026 [+2111 chars]",
+      "retrievedAt": "2024-12-30 19:05:33.928792",
+      "internal_id": "01ccc77daeb09ee31f548fa68c18356f20a2268d54f3c6b4444cbd1a2c491dea",
+      "publishedAtLabel": "Dec 29"
+    },
+    {
+      "id": 16924,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Www.nzz.ch",
+      "author": "Anna Weber (wea)",
+      "title": "Doch keine mysteri\u00f6se \u00abKrankheit X\u00bb in Kongo-Kinshasa: Unterern\u00e4hrung macht Malaria und Erk\u00e4ltungen zu Killern",
+      "description": "Die Weltgesundheitsorganisation hat in Proben von Betroffenen keine neuen Erreger gefunden. Stattdessen treffen altbekannte Viren auf ein geschw\u00e4chtes Immunsystem. Das bedroht vor allem kleine Kinder.",
+      "url": "https://www.nzz.ch/wissenschaft/keine-krankheit-x-im-kongo-unterernaehrung-als-wahre-ursache-ld.1864272",
+      "urlToImage": "https://img.nzz.ch/2024/12/29/28f22673-2de4-4eb3-aff6-608954ac4a6f.jpeg?width=832&height=468&fit=bounds&quality=75&auto=webp&crop=832,468,x4,y0",
+      "publishedAt": "2024-12-29 15:36:29",
+      "content": "Viele Krankenh\u00e4user in der Region Panzi in Kongo-Kinshasa haben nicht genug Personal und Ressourcen, um alle Patienten angemessen zu versorgen. Erk\u00e4ltungssymptome, stark ansteigende Fallzahlen und D\u2026 [+4125 chars]",
+      "retrievedAt": "2024-12-30 19:05:34.360815",
+      "internal_id": "bb9524cb390837c786d15f125b651be702a8b76cc9c922f2dc86e184433428bf",
+      "publishedAtLabel": "Dec 29"
+    },
+    {
+      "id": 16918,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Everyeye.it",
+      "author": "Giuseppe Occhiuto",
+      "title": "Il primo caso di influenza aviaria mostra i segni di una mutazione: c'\u00e8 da preoccuparsi?",
+      "description": "A quanto pare il virus dell'influenza aviaria sta cambiando negli esseri umani. C'\u00e8 realmente da preoccuparsi? Facciamo il puntoIl primo paziente con la \"Highly Pathogenic Avian Influenza\" (HPAI), ovvero l'influenza aviaria che fa preoccupare milioni di perso\u2026",
+      "url": "https://tech.everyeye.it/notizie/caso-influenza-aviaria-mostra-segni-mutazione-e-preoccuparsi-767704.html",
+      "urlToImage": "https://images.everyeye.it/img-notizie/il-caso-influenza-aviaria-mostra-segni-mutazione-c-E-preoccuparsi-v4-767704.jpg",
+      "publishedAt": "2024-12-29 15:36:00",
+      "content": "Il primo paziente con la \"Highly Pathogenic Avian Influenza\" (HPAI), ovvero l'influenza aviaria che fa preoccupare milioni di persone, mostra l'esistenza di mutazioni che influenzano la capacit\u00e0 del \u2026 [+2164 chars]",
+      "retrievedAt": "2024-12-30 19:05:33.011249",
+      "internal_id": "93384229609d04c1da2584dfe7402b0b85649c700ff306aa595b4d3921c8a153",
+      "publishedAtLabel": "Dec 29"
+    },
+    {
+      "id": 16920,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Naked-science.ru",
+      "author": "\u041b\u044e\u0431\u043e\u0432\u044c",
+      "title": "\u0410\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0438\u0445 \u043a\u043e\u0448\u0435\u043a \u043f\u043e\u0440\u0430\u0437\u0438\u043b \u043d\u043e\u0432\u044b\u0439 \u0448\u0442\u0430\u043c\u043c \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430",
+      "description": "\u0417\u0430 \u0434\u0432\u0430 \u0441 \u043f\u043e\u043b\u043e\u0432\u0438\u043d\u043e\u0439 \u0433\u043e\u0434\u0430 \u0432\u0438\u0440\u0443\u0441 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430 H5N1 \u043f\u043e\u0433\u0443\u0431\u0438\u043b \u0431\u043e\u043b\u0435\u0435 100 \u043c\u0438\u043b\u043b\u0438\u043e\u043d\u043e\u0432 \u043f\u0435\u0440\u043d\u0430\u0442\u044b\u0445 \u043d\u0430 \u043f\u0442\u0438\u0446\u0435\u0444\u0430\u0431\u0440\u0438\u043a\u0430\u0445 \u0421\u0428\u0410. \u0415\u0433\u043e \u043f\u0435\u0440\u0435\u043d\u043e\u0441\u0447\u0438\u043a\u0430\u043c\u0438, \u043a\u0430\u043a \u043e\u043a\u0430\u0437\u0430\u043b\u043e\u0441\u044c, \u043c\u043e\u0433\u0443\u0442 \u0441\u0442\u0430\u0442\u044c \u0434\u043e\u043c\u0430\u0448\u043d\u0438\u0435 \u043a\u043e\u0448\u043a\u0438: \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u044b \u043d\u043e\u0432\u043e\u0433\u043e \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u044f \u043f\u043e\u043a\u0430\u0437\u0430\u043b\u0438, \u0447\u0442\u043e \u043c\u0443\u0442\u0430\u0446\u0438\u0438 \u0443 \u044d\u0442\u0438\u0445 \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u0445 \u0437\u043d\u0430\u0447\u0438\u0442\u0435\u043b\u044c\u043d\u043e \u043f\u043e\u0432\u044b\u0448\u0430\u2026",
+      "url": "https://naked-science.ru/article/medicine/amerikanskih-koshek-poraz",
+      "urlToImage": "https://naked-science.ru/wp-content/uploads/2024/12/cat_bird-1200x675.jpeg",
+      "publishedAt": "2024-12-29 13:28:53",
+      "content": "H5N1 100 . , , : , \u00ab\u00bb \u00ab\u00bb () . , , , : 2024 () H5N1 10 . . , . , . Taylor and Francis. , . , , . (Suresh V. Kuchipudi) () , , , , , . . , , (HA) T143A , \u00ab\u00bb . F314L L342Q PA (), ( ). \u2026 [+119 chars]",
+      "retrievedAt": "2024-12-30 19:05:33.588756",
+      "internal_id": "347553ed5c7feec811e40aff2352e35621b8d43953dc6ea0f7e5887abf7bc222",
+      "publishedAtLabel": "Dec 29"
+    },
+    {
+      "id": 16922,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Mail.ru",
+      "author": "\u0420\u0430\u043c\u0438\u043b\u044f \u0413\u0430\u043b\u0438\u043c\u0437\u044f\u043d\u043e\u0432\u0430",
+      "title": "\u041c\u0430\u0440\u0431\u0443\u0440\u0433, \u041a\u043e\u043a\u0441\u0430\u043a\u0438 \u0438 \u0410\u043b\u044f\u0441\u043a\u0430\u043f\u043e\u043a\u0441: \u043a\u0430\u043a\u0438\u0435 \u0432\u0438\u0440\u0443\u0441\u044b \u0431\u0443\u0448\u0435\u0432\u0430\u043b\u0438 \u0432 2024",
+      "description": "\u041e\u043d\u0438 \u043c\u043e\u0433\u043b\u0438 \u043f\u0435\u0440\u0435\u0440\u0430\u0441\u0442\u0438 \u0432 \u044d\u043f\u0438\u0434\u0435\u043c\u0438\u044e, \u043d\u043e \u044d\u0442\u043e\u0433\u043e \u043d\u0435 \u0441\u043b\u0443\u0447\u0438\u043b\u043e\u0441\u044c.",
+      "url": "https://vfokuse.mail.ru/article/marburg-koksaki-i-alyaskapoks-kakie-virusy-bushevali-v-2024-64280393/",
+      "urlToImage": "https://resizer.mail.ru/p/68346929-235c-56b5-ab4f-8ed04163ca45/op:15/logo:bottom:vfokuse.png/AQAGLw0YIawdOncjk_0oAufl-pIHYgLdRYhe0Op79kH3AKXFZDfAoUaKgC9L5hcI9N3iFKoHg-YLI516VIWkT4-y2MQ.jpg",
+      "publishedAt": "2024-12-29 13:16:28",
+      "content": ". , \u00ab\u00bb . COVID-19, , . , 2024 , Life. 2024 - (H5N1). . 14 , . . 18 \u2014 . 2021 H5N1 280 . \u2014 . 2024 \u2014 30 . , . 2024 , COVID-19, , . \u2026 [+954 chars]",
+      "retrievedAt": "2024-12-30 19:05:33.678135",
+      "internal_id": "b6849393f197386f30de07cd87570a63fb8747e0bb3bb9dca759742ac39cc5bb",
+      "publishedAtLabel": "Dec 29"
+    },
+    {
+      "id": 16928,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Sascha Karberg",
+      "title": "Schwerer Vogelgrippe-Fall beim Menschen: US-Seuchenbeh\u00f6rde findet gef\u00e4hrliche Mutationen",
+      "description": "Mindestens 65 Menschen haben sich in den USA in den vergangenen Monaten \u00fcber infiziertes Gefl\u00fcgel oder Milchk\u00fche mit H5N1-Viren angesteckt. Aber nur einer erkrankte schwer. Jetzt wurde das Viruserbgut analysiert.",
+      "url": "https://www.tagesspiegel.de/wissen/schwerer-vogelgrippe-fall-beim-menschen-us-seuchenbehorde-findet-gefahrliche-mutationen-12938302.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/6647143/alternates/BASE_16_9_W1400/1658762868000/fouchier1hr.jpeg",
+      "publishedAt": "2024-12-29 13:08:25",
+      "content": "Kurz vor Weihnachten hatte die US-Seuchenbeh\u00f6rde CDC best\u00e4tigt, dass im Bundesstaat Louisiana eine Person au\u00dfergew\u00f6hnlich schwer an Vogelgrippe (H5N1) erkrankt war. Offenbar hatte sich die nicht n\u00e4he\u2026 [+5558 chars]",
+      "retrievedAt": "2024-12-31 07:06:23.171572",
+      "internal_id": "133209a677e813512703bda2a7664ec17442e3ee10264fd829f914e2b62ef904",
+      "publishedAtLabel": "Dec 29"
+    },
+    {
+      "id": 16919,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "REVOLT TV",
+      "author": "Angelina Velasquez",
+      "title": "Health expert warns bird flu may become a pandemic like COVID-19",
+      "description": "A medical expert who helped lead America\u2019s COVID-19 response has warned that the ongoing bird flu (H5N1) epidemic can evolve into a pandemic if greater...",
+      "url": "https://www.revolt.tv/article/former-white-house-health-expert-warns-bird-flu-has-potential-to-become-pandemic",
+      "urlToImage": "https://media.zenfs.com/en/revolt_articles_463/9beff138051b8dbc792fba12a4fa6f00",
+      "publishedAt": "2024-12-29 12:05:41",
+      "content": "Yahoo is using AI to generate takeaways from this article. This means the info may not always match what's in the article. Reporting mistakes helps us improve the experience.Generate Key Takeaways A\u2026 [+2651 chars]",
+      "retrievedAt": "2024-12-30 19:05:33.538288",
+      "internal_id": "b5a153d5aba5f4bc8716df9f015f1151ec9e6f380af6d709ba5ee5283eee80fd",
+      "publishedAtLabel": "Dec 29"
+    },
+    {
+      "id": 16921,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "CNN \u0628\u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+      "title": "\u0637\u0641\u0631\u0629 \u062c\u062f\u064a\u062f\u0629 \u062a\u062b\u064a\u0631 \u0627\u0644\u0642\u0644\u0642.. \u0625\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u0637\u064a\u0648\u0631 \u062a\u0633\u062a\u0647\u062f\u0641 \u062e\u0644\u0627\u064a\u0627 \u0627\u0644\u062a\u0646\u0641\u0633 \u0644\u062f\u0649 \u0627\u0644\u0628\u0634\u0631",
+      "description": "\u0623\u062b\u0627\u0631\u062a \u0637\u0641\u0631\u0629 \u062c\u062f\u064a\u062f\u0629 \u0638\u0647\u0631\u062a \u0644\u062f\u0649 \u0645\u0631\u064a\u0636 \u0641\u064a \u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629 \u0623\u0635\u064a\u0628 \u0628\u0641\u064a\u0631\u0648\u0633 \u0625\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u0637\u064a\u0648\u0631 H5N1 \u0627\u0644\u0642\u0644\u0642 \u0644\u062f\u0649 \u0645\u0633\u0624\u0648\u0644\u064a \u0627\u0644\u0635\u062d\u0629 \u0641\u064a \u0627\u0644\u0628\u0644\u0627\u062f\u060c \u062d\u064a\u062b \u0648\u064f\u062c\u062f \u0623\u0646 \u0627\u0644\u0641\u064a\u0631\u0648\u0633 \u062a\u062d\u0648\u0631 \u0628\u0637\u0631\u064a\u0642\u0629 \u062a\u062c\u0639\u0644 \u0645\u0646 \u0627\u0644\u0633\u0647\u0644 \u0625\u0635\u0627\u0628\u0629 \u0627\u0644\u062e\u0644\u0627\u064a\u0627 \u0627\u0644\u0628\u0634\u0631\u064a\u0629 \u0641\u064a \u0627\u0644\u062c\u0647\u0627\u0632 \u0627\u0644\u062a\u0646\u0641\u0633\u064a \u0627\u0644\u0639\u0644\u0648\u064a \u0644\u062f\u0649 \u0627\u0644\u0628\u0634\u0631 \u0628\u0625\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u0637\u064a\u0648\u0631\u060c \u0648\u0630\u0644\u0643 \u0628\u0639\u062f \u062a\u062d\u0644\u064a\u0644 \u0645\u0631\u0643\u0632 \u2026",
+      "url": "https://arabic.cnn.com/science-and-health/video/2024/12/29/v167569-bird-flu-mutates-to-target-human-respiratory-cells",
+      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2024/12/28/images/286314.jpg",
+      "publishedAt": "2024-12-29 09:07:51",
+      "content": "",
+      "retrievedAt": "2024-12-30 19:05:33.649350",
+      "internal_id": "85e1ea9182b904f4972e990f139beb5db74832a28dbf56cb43807c12e11b3dcb",
+      "publishedAtLabel": "Dec 29"
+    },
+    {
+      "id": 16926,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "N-tv.de",
+      "author": "Hedviga Nyarsik",
+      "title": "WHO-Liste des Grauens: Die gef\u00e4hrlichsten Erreger, gegen die es keine Impfung gibt",
+      "description": "Ob HIV, Malaria oder multiresistente Keime: Gegen viele Erreger gibt es noch keinen wirksamen Impfstoff. Sie verursachen daher immer wieder Infektionen und Ausbr\u00fcche, gegen die nur wenig unternommen werden kann. Die WHO listet nun die 17 gef\u00e4hrlichsten dieser\u2026",
+      "url": "https://www.n-tv.de/mediathek/bilderserien/wissen/Die-gefaehrlichsten-Erreger-gegen-die-es-keine-Impfung-gibt-article25374966.html",
+      "urlToImage": "https://bilder2.n-tv.de/img/incoming/crop25375481/1381327620-cImg_16_9-w1200/imago775347209.jpg",
+      "publishedAt": "2024-12-29 07:55:54",
+      "content": "Neben den vier Pathogenen ohne Impfschutz listet die WHO noch weitere Infektionskrankheiten auf, gegen die es zwar bereits Impfstoffe gibt, die aber nicht ausgereift sind, zu wenig wirken oder nicht \u2026 [+31 chars]",
+      "retrievedAt": "2024-12-30 19:05:34.496423",
+      "internal_id": "b0d655e4e8f559fb62e8d9dabed9acc7bbd58a9a6396fa9f2944b0c583498787",
+      "publishedAtLabel": "Dec 29"
     }
   ]
 }
