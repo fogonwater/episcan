@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 11
-- **Last harvest:** 2025-02-11 07:06
-- **Most recent article:** 2025-02-10 06:51:50
+- **New articles in last harvest:** 17
+- **Last harvest:** 2025-02-11 19:05
+- **Most recent article:** 2025-02-10 18:35:30
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-53 | 25-1 | 25-2 | 25-3 | 25-4 | 25-5 | 25-6 | 25-7 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| h5n1 | 27 | 27 | 131 | 65 | 31 | 51 | 72 | 7 | 411 |
-| mpox | 2 | 6 | 91 | 34 | 23 | 22 | 28 | 0 | 206 |
-| dengue | 5 | 12 | 41 | 29 | 37 | 24 | 34 | 1 | 183 |
-| malaria | 15 | 10 | 30 | 18 | 19 | 30 | 25 | 1 | 148 |
-| measles | 3 | 6 | 6 | 9 | 10 | 13 | 24 | 6 | 77 |
-| hpai | 1 | 4 | 18 | 12 | 11 | 6 | 3 | 0 | 55 |
+| h5n1 | 22 | 27 | 131 | 65 | 31 | 51 | 72 | 13 | 412 |
+| mpox | 2 | 6 | 91 | 34 | 23 | 22 | 28 | 1 | 207 |
+| dengue | 4 | 12 | 41 | 29 | 37 | 24 | 34 | 1 | 182 |
+| malaria | 12 | 10 | 30 | 18 | 19 | 30 | 25 | 2 | 146 |
+| measles | 3 | 6 | 6 | 9 | 10 | 13 | 24 | 9 | 80 |
+| hpai | 0 | 4 | 18 | 12 | 11 | 6 | 3 | 1 | 55 |
 | chikungunya | 2 | 0 | 7 | 7 | 10 | 9 | 8 | 0 | 43 |
-| zika | 0 | 0 | 15 | 5 | 2 | 8 | 6 | 0 | 36 |
-| rabies | 1 | 1 | 2 | 6 | 7 | 6 | 4 | 0 | 27 |
-| meningitis | 1 | 2 | 0 | 2 | 3 | 8 | 2 | 0 | 18 |
-| pertussis | 0 | 1 | 2 | 0 | 1 | 0 | 3 | 0 | 7 |
-| typhoid | 0 | 0 | 0 | 4 | 0 | 0 | 2 | 0 | 6 |
-| yersinia | 0 | 0 | 3 | 2 | 0 | 0 | 0 | 0 | 5 |
+| zika | 0 | 0 | 15 | 5 | 2 | 8 | 6 | 1 | 37 |
+| rabies | 1 | 1 | 2 | 6 | 7 | 6 | 4 | 1 | 28 |
+| meningitis | 1 | 2 | 0 | 2 | 3 | 8 | 2 | 1 | 19 |
+| pertussis | 0 | 1 | 2 | 0 | 1 | 0 | 3 | 1 | 8 |
+| typhoid | 0 | 0 | 0 | 4 | 0 | 0 | 2 | 1 | 7 |
+| yersinia | 0 | 0 | 3 | 2 | 0 | 0 | 0 | 1 | 6 |
 | leptospirosis | 0 | 0 | 0 | 1 | 2 | 0 | 1 | 0 | 4 |
 
 
@@ -32,7 +32,41 @@ Source: [News API](https://newsapi.org/)
 
 ---
 
+## 25-7 (zika)
+
+- [Descubren que un fármaco anticancerígeno actúa contra varios virus](https://www.montevideo.com.uy/Salud/Descubren-que-un-farmaco-anticancerigeno-actua-contra-varios-virus-uc914573) (Montevideo.com.uy)
+
+## 25-7 (yersinia)
+
+- [Овцы стали резервуаром распространения чумы в бронзовом веке](https://naked-science.ru/article/biology/ovtsy-stali-rezervuarom) (Naked-science.ru)
+
+## 25-7 (typhoid)
+
+- [AI and public health issues in contemporary Nigeria - MediaLord.Ng](https://medialord.ng/ai-and-public-health-issues-in-contemporary-nigeria/) (Medialord.ng)
+
+## 25-7 (rabies)
+
+- [Animal rabies cases confirmed in Fresno County, health officials say](https://abc30.com/post/animal-rabies-cases-confirmed-fresno-county-health-officials-say/15888665/) (KFSN-TV)
+
+## 25-7 (pertussis)
+
+- [Brutális sebességgel terjed a fertőzés Magyarországon, amibe tavaly 5 csecsemő halt bele](https://www.portfolio.hu/gazdasag/20250210/brutalis-sebesseggel-terjed-a-fertozes-magyarorszagon-amibe-tavaly-5-csecsemo-halt-bele-740351) (Portfolio.hu)
+
+## 25-7 (mpox)
+
+- [Over 250 community health workers commissioned](https://www.ntv.co.ug/ug/news/national/over-250-community-health-workers-commissioned-4920754) (Ntv.co.ug)
+
+## 25-7 (meningitis)
+
+- [Impact of cerebrospinal fluid leukocyte infiltration and activated neuroimmune mediators on survival with HIV-associated cryptococcal meningitis](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012873) (Plos.org)
+
 ## 25-7 (measles)
+
+- [Texas measles outbreak among children leads to health alert](https://www.fox4news.com/news/texas-measles-outbreak-2025-gaines-county) (FOX 4 News)
+
+- [Texas confirms growing measles outbreak affecting school-aged children](https://www.foxnews.com/health/texas-confirms-growing-measles-outbreak-affecting-school-aged-children) (Fox News)
+
+- ['Booster Shots' make case that measles remains a threat, shouldn't be underestimated](https://www.npr.org/2025/02/10/nx-s1-5289020/booster-shots-make-case-that-measles-remains-a-threat-shouldnt-be-underestimated) (NPR)
 
 - [Measles outbreak spreads as health officials urge anyone who hasn't been vaccinated to get jabbed - NewsBreak](https://www.newsbreak.com/share/3798078238417-measles-outbreak-spreads-as-health-officials-urge-anyone-who-hasn-t-been-vaccinated-to-get-jabbed?s=a2&share_destination_id=MjE0OTg1NzExLTE3MzkxNDQ2ODUyMTI%3D&pd=0EY3bTgT&hl=en_US&send_time=1739144685&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.4.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_model_exp_25q1-v6%2Cns_foryou_rank_exp_25q1-v5%2Cns_foryou_recall_exp_25q1-v6%2Cns_foryou_blend_exp_25q1-v3) (Newsbreak.com)
 
@@ -48,9 +82,27 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-7 (malaria)
 
+- [AI and public health issues in contemporary Nigeria - MediaLord.Ng](https://medialord.ng/ai-and-public-health-issues-in-contemporary-nigeria/) (Medialord.ng)
+
 - [How to strengthen malaria prevention through community](https://www.standardmedia.co.ke/health/health-opinion/article/2001511362/how-to-strengthen-malaria-prevention-through-community) (Standard Digital)
 
+## 25-7 (hpai)
+
+- [Bird flu, egg shortage prompts regional emergency, hours waivers for relief-haul](https://www.overdriveonline.com/hours-of-service/article/15737110/live-chicken-haulers-get-regs-relief-for-bird-flu-emergency) (Overdriveonline.com)
+
 ## 25-7 (h5n1)
+
+- [Toda la economía mira al huevo: ¿Podría ocurrir en España una crisis en la industria avícola como la que vive EEUU?](https://www.eleconomista.es/economia/noticias/13214091/02/25/toda-la-economia-mira-al-huevo-podria-ocurrir-en-espana-una-crisis-en-la-industria-avicola-como-la-que-vive-eeuu.html) (Eleconomista.es)
+
+- [Vogelgrippe in Milchkühen: Neue H5N1-Variante offenbart besorgniserregende Mutation](https://www.n-tv.de/wissen/Neue-H5N1-Variante-offenbart-besorgniserregende-Mutation-article25551288.html) (N-tv.de)
+
+- [In den USA - Neue Vogelgrippe-Variante bei Kühen nachgewiesen](https://www.bild.de/leben-wissen/vogelgrippe-virus-h5n1-neue-variante-d1-1-bei-kuehen-entdeckt-67a9df3c1aeb2534badc8f7a) (Bild)
+
+- [H5N1 - Neuer Vogelgrippeerreger in Kühen nachgewiesen](https://www.focus.de/gesundheit/news/h5n1-neuer-vogelgrippeerreger-in-kuehen-nachgewiesen_id_260709690.html) (Focus)
+
+- [H5N1: Neuer Vogelgrippeerreger in Kühen nachgewiesen](https://www.spektrum.de/news/h5n1-neue-vogelgrippe-variante-in-kuehen-in-den-usa-nachgewiesen/2252876) (Spektrum.de)
+
+- [House Cats With Bird Flu Could Pose a Risk to Public Health](https://kffhealthnews.org/news/article/domestic-indoor-cats-bird-flu-public-health-risk-pets-humans/) (Kffhealthnews.org)
 
 - ["Яичный кризис" доказывает превосходство соседей над США](https://www.news2.ru/story/697734/) (News2.ru)
 
@@ -2562,16 +2614,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Pakar Ungkap Potensi Ancaman Kesehatan Utama di 2025, Ada Malaria hingga Masalah Mental](https://www.liputan6.com/health/read/5856603/pakar-ungkap-potensi-ancaman-kesehatan-utama-di-2025-ada-malaria-hingga-masalah-mental) (Liputan6.com)
 
-- [AB-PMJAY has reduced cancer patients' financial burden significantly: Prime Minister Modi](https://economictimes.indiatimes.com/news/india/ab-pmjay-has-reduced-cancer-patients-financial-burden-significantly-prime-minister-modi/articleshow/116773595.cms) (The Times of India)
-
-- [Doch keine mysteriöse «Krankheit X» in Kongo-Kinshasa: Unterernährung macht Malaria und Erkältungen zu Killern](https://www.nzz.ch/wissenschaft/keine-krankheit-x-im-kongo-unterernaehrung-als-wahre-ursache-ld.1864272) (Www.nzz.ch)
-
-- [WHO-Liste des Grauens: Die gefährlichsten Erreger, gegen die es keine Impfung gibt](https://www.n-tv.de/mediathek/bilderserien/wissen/Die-gefaehrlichsten-Erreger-gegen-die-es-keine-Impfung-gibt-article25374966.html) (N-tv.de)
-
-## 24-53 (hpai)
-
-- [Il primo caso di influenza aviaria mostra i segni di una mutazione: c'è da preoccuparsi?](https://tech.everyeye.it/notizie/caso-influenza-aviaria-mostra-segni-mutazione-e-preoccuparsi-767704.html) (Everyeye.it)
-
 ## 24-53 (h5n1)
 
 - [As pace and severity of human H5N1 cases accelerate, NIH leaders call for more action on bird flu | CNN](https://www.cnn.com/2024/12/31/health/human-h5n1-bird-flu-cases/index.html) (CNN)
@@ -2618,16 +2660,6 @@ Source: [News API](https://newsapi.org/)
 
 - [طفرة فريدة من نوعها لفيروس انفلونزا الطيور يكتشفها أطباء في لوس أنجلوس.. بِمَ يُنبئنا ذلك؟](https://arabic.cnn.com/science-and-health/video/2024/12/30/v167548-bird-flu-mutation) (CNN)
 
-- [Американских кошек поразил новый штамм птичьего гриппа](https://naked-science.ru/article/medicine/amerikanskih-koshek-poraz) (Naked-science.ru)
-
-- [Марбург, Коксаки и Аляскапокс: какие вирусы бушевали в 2024](https://vfokuse.mail.ru/article/marburg-koksaki-i-alyaskapoks-kakie-virusy-bushevali-v-2024-64280393/) (Mail.ru)
-
-- [Schwerer Vogelgrippe-Fall beim Menschen: US-Seuchenbehörde findet gefährliche Mutationen](https://www.tagesspiegel.de/wissen/schwerer-vogelgrippe-fall-beim-menschen-us-seuchenbehorde-findet-gefahrliche-mutationen-12938302.html) (Der Tagesspiegel)
-
-- [Health expert warns bird flu may become a pandemic like COVID-19](https://www.revolt.tv/article/former-white-house-health-expert-warns-bird-flu-has-potential-to-become-pandemic) (REVOLT TV)
-
-- [طفرة جديدة تثير القلق.. إنفلونزا الطيور تستهدف خلايا التنفس لدى البشر](https://arabic.cnn.com/science-and-health/video/2024/12/29/v167569-bird-flu-mutates-to-target-human-respiratory-cells) (CNN)
-
 ## 24-53 (dengue)
 
 - [Bangladesh records 575 dengue deaths in 2024](https://www.thestar.com.my/news/world/2025/01/01/bangladesh-records-575-dengue-deaths-in-2024) (The Star Online)
@@ -2637,8 +2669,6 @@ Source: [News API](https://newsapi.org/)
 - [Japanese encephalitis: Summer's first case of mosquito-borne virus detected in Victorian](https://thenightly.com.au/society/health/japanese-encephalitis-summers-first-case-of-mosquito-borne-virus-detected-in-victorian-c-17244120) (Thenightly.com.au)
 
 - [Summer's first case of mosquito-borne Japanese encephalitis detected in Victoria](https://7news.com.au/news/summers-first-case-of-mosquito-borne-japanese-encephalitis-detected-in-victoria-c-17244123) (7NEWS.com.au)
-
-- [Os recordes negativos do governo Lula em 2024](https://veja.abril.com.br/brasil/os-recordes-negativos-do-governo-lula-em-2024) (Abril.com.br)
 
 ## 24-53 (chikungunya)
 

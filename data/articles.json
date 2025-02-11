@@ -1,8 +1,315 @@
 {
-  "last_updated": "2025-02-11 07:06",
-  "count_articles_total": 1178,
-  "count_articles_new": 11,
+  "last_updated": "2025-02-11 19:05",
+  "count_articles_total": 1185,
+  "count_articles_new": 17,
   "articles": [
+    {
+      "id": 18102,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "FOX 4 News",
+      "author": "Amber Kite",
+      "title": "Texas measles outbreak among children leads to health alert",
+      "description": "As of Feb. 7, 2025, 10 cases of measles have been identified within the last two weeks.",
+      "url": "https://www.fox4news.com/news/texas-measles-outbreak-2025-gaines-county",
+      "urlToImage": "https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2019/08/1280/720/d39f5a3f-GETTY-measles_1532439789069_5841558_ver1.0_640_360.png?ve=1&tl=1",
+      "publishedAt": "2025-02-10 18:35:30",
+      "content": "The Texas Department of State Health Services is reporting an outbreak of measles in Gaines County. As of Feb. 7, 2025, 10 cases have been identified with symptom-onset within the last two weeks. E\u2026 [+3869 chars]",
+      "retrievedAt": "2025-02-11 19:05:33.867942",
+      "internal_id": "57aecf1053a9149e518e83d0f74bdf0e872f16c4d9e56a5506916e9268d759e0",
+      "publishedAtLabel": "Feb 10"
+    },
+    {
+      "id": 18112,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "Descubren que un f\u00e1rmaco anticancer\u00edgeno act\u00faa contra varios virus",
+      "description": "El SARS-CoV-2, el MERS, el zika, el virus respiratorio sincitial, el de la hepatitis C y el del herpes son algunos de ellos.",
+      "url": "https://www.montevideo.com.uy/Salud/Descubren-que-un-farmaco-anticancerigeno-actua-contra-varios-virus-uc914573",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202110/_W933_80/778005.jpg",
+      "publishedAt": "2025-02-10 17:15:00",
+      "content": "El centro espa\u00f1ol IrsiCaixa impulsado por la Fundaci\u00f3n \"la Caixa\" y el Departamento de Salud del Gobierno de Catalu\u00f1a ha descubierto que un f\u00e1rmaco anticancer\u00edgeno act\u00faa contra diversos virus incl\u2026 [+4987 chars]",
+      "retrievedAt": "2025-02-11 19:05:36.896814",
+      "internal_id": "f9f1f83ec60906eb15ac09f0d719a590218aed44cf87c20cc6b14168beb58b0f",
+      "publishedAtLabel": "Feb 10"
+    },
+    {
+      "id": 18108,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Eleconomista.es",
+      "author": "Cristian Gallegos",
+      "title": "Toda la econom\u00eda mira al huevo: \u00bfPodr\u00eda ocurrir en Espa\u00f1a una crisis en la industria av\u00edcola como la que vive EEUU?",
+      "description": "Los precios de los huevos en Estados Unidos han experimentado subidas, en parte, debido a la inflaci\u00f3n. Sin embargo, tambi\u00e9n se ha debido a una gripe aviar que lleg\u00f3 a al pa\u00eds norteamericano en 2022. Esa gripe, causada por el virus H5N1, ha infectado o matado\u2026",
+      "url": "https://www.eleconomista.es/economia/noticias/13214091/02/25/toda-la-economia-mira-al-huevo-podria-ocurrir-en-espana-una-crisis-en-la-industria-avicola-como-la-que-vive-eeuu.html",
+      "urlToImage": "https://s03.s3c.es/imag/_v0/1200x675/0/5/b/gallo-dolar-2.jpg",
+      "publishedAt": "2025-02-10 16:36:10",
+      "content": "Los precios de los huevos en Estados Unidos han experimentado subidas, en parte, debido a la inflaci\u00f3n. Sin embargo, tambi\u00e9n se ha debido a una gripe aviar que lleg\u00f3 a al pa\u00eds norteamericano en 2022.\u2026 [+10185 chars]",
+      "retrievedAt": "2025-02-11 19:05:35.237665",
+      "internal_id": "0777034a70a63308d2375e8341805b5f4fdaabafa7831397a5fc23c4b2a7041d",
+      "publishedAtLabel": "Feb 10"
+    },
+    {
+      "id": 18111,
+      "query": [
+        "malaria",
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Medialord.ng",
+      "author": "Usoro I. Usoro",
+      "title": "AI and public health issues in contemporary Nigeria - MediaLord.Ng",
+      "description": "AI amidst public health issues contemporary Nigeria have generated a cocktail of confusion, corruption, and theories that cant be ignored.",
+      "url": "https://medialord.ng/ai-and-public-health-issues-in-contemporary-nigeria/",
+      "urlToImage": "https://medialord.ng/wp-content/uploads/2025/02/AI-and-public-health.jpg",
+      "publishedAt": "2025-02-10 15:22:38",
+      "content": "The rise of AI amidst public health issues in the contemporary Nigeria has generated a cocktail of confusion, corruption, and conspiracy theories. So far, we dont just battle malaria and typhoid; we \u2026 [+6603 chars]",
+      "retrievedAt": "2025-02-11 19:05:36.636432",
+      "internal_id": "90767e401af245d37acb8d4d8a43211514348940393a34de29aa0b23c7499a6a",
+      "publishedAtLabel": "Feb 10"
+    },
+    {
+      "id": 18099,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "KFSN-TV",
+      "author": null,
+      "title": "Animal rabies cases confirmed in Fresno County, health officials say",
+      "description": "Animal rabies cases confirmed in Fresno County, health officials sayabc30.com",
+      "url": "https://abc30.com/post/animal-rabies-cases-confirmed-fresno-county-health-officials-say/15888665/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/15585605_112524-kfsn-bat-img.jpg?w=1600",
+      "publishedAt": "2025-02-10 15:05:34",
+      "content": "FRESNO, Calif. (KFSN) -- Several cases of animal rabies have been confirmed in Fresno County. The Health Department says bats in both Reedley and Fresno tested positive for the disease that attacks \u2026 [+519 chars]",
+      "retrievedAt": "2025-02-11 19:05:33.533032",
+      "internal_id": "40ae9f93e6f4c1e5152e43d8a54f4dfc796aa262582914ead11a44190e6da43e",
+      "publishedAtLabel": "Feb 10"
+    },
+    {
+      "id": 18107,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "N-tv.de",
+      "author": "n-tv NACHRICHTEN",
+      "title": "Vogelgrippe in Milchk\u00fchen: Neue H5N1-Variante offenbart besorgniserregende Mutation",
+      "description": "In den USA breitet sich das Vogelgrippe-Virus unter K\u00fchen scheinbar unaufhaltsam aus. Eine Entdeckung bei Routinekontrollen der Milch versetzt Experten jetzt weltweit in Alarmbereitschaft: Offenbar hat eine zweite H5N1-Variante die Nutztiere erreicht - mit ei\u2026",
+      "url": "https://www.n-tv.de/wissen/Neue-H5N1-Variante-offenbart-besorgniserregende-Mutation-article25551288.html",
+      "urlToImage": "https://www.n-tv.de/img/incoming/crop25551549/0541326194-cImg_16_9-w1200/490233026.jpg",
+      "publishedAt": "2025-02-10 14:59:33",
+      "content": "In den USA breitet sich das Vogelgrippe-Virus unter K\u00fchen scheinbar unaufhaltsam aus. Eine Entdeckung bei Routinekontrollen der Milch versetzt Experten jetzt weltweit in Alarmbereitschaft: Offenbar h\u2026 [+3424 chars]",
+      "retrievedAt": "2025-02-11 19:05:35.223906",
+      "internal_id": "322182d8efec7804be95e34a4d7d1971a0907e91ea88d589313d376b3c8c46d1",
+      "publishedAtLabel": "Feb 10"
+    },
+    {
+      "id": 18105,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "bild",
+      "source_name": "Bild",
+      "author": "Mara Pallokat",
+      "title": "In den USA - Neue Vogelgrippe-Variante bei K\u00fchen nachgewiesen",
+      "description": "Eine zweite Variante des H5N1-Vogelgrippe-Virus wurde bei Milchk\u00fchen in den USA nachgewiesen, was das Friedrich-Loeffler-Institut als kritisch einstuft.",
+      "url": "https://www.bild.de/leben-wissen/vogelgrippe-virus-h5n1-neue-variante-d1-1-bei-kuehen-entdeckt-67a9df3c1aeb2534badc8f7a",
+      "urlToImage": "https://images.bild.de/67a9df3c1aeb2534badc8f7a/25e64a694ae7beab8aaf5a2ba09674c4,84e2ff09?w=1280",
+      "publishedAt": "2025-02-10 14:26:18",
+      "content": "Eine zweite Variante des Vogelgrippe-Virus H5N1 ist bei Milchk\u00fchen in den USA nachgewiesen worden. Das teilte das US-Landwirtschaftsministerium mit. Das H5N1-Virus geh\u00f6rt zu einer bestimmten Gruppe \u2026 [+1905 chars]",
+      "retrievedAt": "2025-02-11 19:05:35.188640",
+      "internal_id": "8f7d099de95424e1761fc006d1301641096acdf306bffe79fd9b02375b1f2edf",
+      "publishedAtLabel": "Feb 10"
+    },
+    {
+      "id": 18110,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Samuel Okurut, David R. Boulware, Yukari C. Manabe, Lillian Tugume, Caleb P. Skipper, Kenneth Ssebambulidde, Joshua Rhein, Abdu K. Musubire, Andrew Akampurira, Elizabeth Okafor, Joseph O. Olobo, Edward N. Janoff, David B. Meya, for ASTRO Trial Team",
+      "title": "Impact of cerebrospinal fluid leukocyte infiltration and activated neuroimmune mediators on survival with HIV-associated cryptococcal meningitis",
+      "description": "Author summary Cryptococcal meningitis, an infection of the brain, spinal cord, and cerebrospinal fluid (CSF), is a major contributor to death among people with advanced HIV disease, with CD4+ T cells less than 100 cells/mm3. In cryptococcal meningitis it is \u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012873",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012873.g004&size=inline",
+      "publishedAt": "2025-02-10 14:00:00",
+      "content": "Abstract Introduction Cryptococcal meningitis remains a prominent cause of death in persons with advanced HIV disease. CSF leukocyte infiltration predicts survival at 18 weeks; however, how CSF imm\u2026 [+49528 chars]",
+      "retrievedAt": "2025-02-11 19:05:35.859951",
+      "internal_id": "1d3299c15f711aa6409d82d340abb28bc5e7274f83af6b1520118cdd05aaba4e",
+      "publishedAtLabel": "Feb 10"
+    },
+    {
+      "id": 18109,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "focus",
+      "source_name": "Focus",
+      "author": "Spektrum.de",
+      "title": "H5N1 - Neuer Vogelgrippeerreger in K\u00fchen nachgewiesen",
+      "description": "Seit rund einem Jahr breitet sich das Vogelgrippevirus H5N1 auf Rinderfarmen in den USA aus. Nun hat das US-Landwirtschaftsministerium eine zweite Variante entdeckt. Virologen bef\u00fcrchten eine schnellere Vermehrung in S\u00e4ugetieren und eine h\u00f6here Infektionsgefa\u2026",
+      "url": "https://www.focus.de/gesundheit/news/h5n1-neuer-vogelgrippeerreger-in-kuehen-nachgewiesen_id_260709690.html",
+      "urlToImage": "https://p6.focus.de/img/fotos/id_260712968/vogelgrippe.jpg?im=Crop%3D%280%2C0%2C2308%2C1154%29%3BResize%3D%281200%2C627%29&impolicy=perceptual&quality=mediumHigh&hash=5c95386f88426fef4134daf0fce00f5b2db17198c8e1b54fb247c79b5d864432",
+      "publishedAt": "2025-02-10 13:30:04",
+      "content": "Eine zweite Variante des Vogelgrippevirus H5N1 ist bei Milchk\u00fchen in den USA nachgewiesen worden. Das teilte das US-Landwirtschaftsministerium mit. Es handelt sich dabei um den Genotyp D1.1 der Klade\u2026 [+1942 chars]",
+      "retrievedAt": "2025-02-11 19:05:35.245796",
+      "internal_id": "6a1645b1baff7648953c7bfd54b19a67a65bd3ddac2c4a495d08808be420e355",
+      "publishedAtLabel": "Feb 10"
+    },
+    {
+      "id": 18114,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Naked-science.ru",
+      "author": "\u0422\u0430\u0442\u044c\u044f\u043d\u0430",
+      "title": "\u041e\u0432\u0446\u044b \u0441\u0442\u0430\u043b\u0438 \u0440\u0435\u0437\u0435\u0440\u0432\u0443\u0430\u0440\u043e\u043c \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0435\u043d\u0438\u044f \u0447\u0443\u043c\u044b \u0432 \u0431\u0440\u043e\u043d\u0437\u043e\u0432\u043e\u043c \u0432\u0435\u043a\u0435",
+      "description": "\u041f\u0435\u0440\u0435\u0445\u043e\u0434 \u043a \u0437\u0435\u043c\u043b\u0435\u0434\u0435\u043b\u0438\u044e \u043f\u0440\u0438\u043d\u0435\u0441 \u043b\u044e\u0434\u044f\u043c \u043d\u0435 \u0442\u043e\u043b\u044c\u043a\u043e \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u0438 \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u044f, \u043d\u043e \u0438 \u043d\u043e\u0432\u044b\u0435 \u0431\u043e\u043b\u0435\u0437\u043d\u0438. \u0423\u0447\u0435\u043d\u044b\u0435 \u043f\u043e\u043b\u0430\u0433\u0430\u044e\u0442, \u0447\u0442\u043e \u043e\u0434\u043e\u043c\u0430\u0448\u043d\u0438\u0432\u0430\u043d\u0438\u0435 \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u0445 \u0441\u043e\u043f\u0440\u043e\u0432\u043e\u0436\u0434\u0430\u043b\u043e\u0441\u044c \u0432\u043e\u0437\u043d\u0438\u043a\u043d\u043e\u0432\u0435\u043d\u0438\u0435\u043c \u043c\u0438\u043a\u0440\u043e\u0431\u043e\u0432, \u0432\u044b\u0437\u044b\u0432\u0430\u044e\u0449\u0438\u0445 \u0441\u043c\u0435\u0440\u0442\u0435\u043b\u044c\u043d\u044b\u0435 \u0438\u043d\u0444\u0435\u043a\u0446\u0438\u0438 \u2014 \u0442\u0443\u0431\u0435\u0440\u043a\u0443\u043b\u0435\u0437, \u0441\u0430\u043b\u044c\u043c\u043e\u043d\u0435\u043b\u043b\u0435\u0437, \u043a\u043e\u0440\u044c, \u0447\u0443\u043c\u0443. \u041e\u0434\u043d\u0430\u043a\u043e \u0434\u0430\u043d\u043d\u044b\u0445, \u043a\u043e\u2026",
+      "url": "https://naked-science.ru/article/biology/ovtsy-stali-rezervuarom",
+      "urlToImage": "https://naked-science.ru/wp-content/uploads/2025/02/ypmap.jpg",
+      "publishedAt": "2025-02-10 13:19:58",
+      "content": ", . , , , , , . , , . Yersinia pestis . .Yersinia pestis . , , 200 . . , , . , , . , . Yersinia pestis, , , (Late Neolithic Bronze Age, LNBA). LNBA, ARK017, / \u00a9 Ian Light-Maka et al., 2025, bio\u2026 [+191 chars]",
+      "retrievedAt": "2025-02-11 19:05:38.609249",
+      "internal_id": "6736b015028a4ed595a4532d76480bbabfadd071df1e56490e4ae1e6de4cc664",
+      "publishedAtLabel": "Feb 10"
+    },
+    {
+      "id": 18106,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Spektrum.de",
+      "author": "Anna von Hopffgarten",
+      "title": "H5N1: Neuer Vogelgrippeerreger in K\u00fchen nachgewiesen",
+      "description": "Seit Fr\u00fchjahr 2024 zirkuliert die Vogelgrippe unter Milchk\u00fchen in den USA. Nun ist eine neue Erregervariante aufgetaucht.",
+      "url": "https://www.spektrum.de/news/h5n1-neue-vogelgrippe-variante-in-kuehen-in-den-usa-nachgewiesen/2252876",
+      "urlToImage": "https://static.spektrum.de/fm/912/f1920x1080/AdobeStock_36751918.jpeg",
+      "publishedAt": "2025-02-10 13:15:00",
+      "content": "Eine zweite Variante des Vogelgrippevirus H5N1 ist bei Milchk\u00fchen in den USA nachgewiesen worden. Das teilte das US-Landwirtschaftsministerium mit. Es handelt sich dabei um den Genotyp D1.1 der Klade\u2026 [+1761 chars]",
+      "retrievedAt": "2025-02-11 19:05:35.196020",
+      "internal_id": "cc4ece32635331f3a6e033e2d781acedd24985c8ede81ee3ef6d2d2e3d753380",
+      "publishedAtLabel": "Feb 10"
+    },
+    {
+      "id": 18113,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Ntv.co.ug",
+      "author": null,
+      "title": "Over 250 community health workers commissioned",
+      "description": "In the wake of Ebola and MPox outbreaks, the health sector is undergoing a significant transformation, with a strong focus on empowering community health workers. During a recent event in...",
+      "url": "https://www.ntv.co.ug/ug/news/national/over-250-community-health-workers-commissioned-4920754",
+      "urlToImage": "https://www.ntv.co.ug/resource/blob/4920756/226bb0a91ad98a858acd559cd50c5395/heath-workers-data.png",
+      "publishedAt": "2025-02-10 12:20:23",
+      "content": "Ex-Coach blames selection, firings for She Cranes' slump",
+      "retrievedAt": "2025-02-11 19:05:37.955873",
+      "internal_id": "632c69e6bfe7082aff0f654f4da1993aa537f11900db2f9b1c3a55661d81f23b",
+      "publishedAtLabel": "Feb 10"
+    },
+    {
+      "id": 18098,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Portfolio.hu",
+      "author": "Portfolio.hu",
+      "title": "Brut\u00e1lis sebess\u00e9ggel terjed a fert\u0151z\u00e9s Magyarorsz\u00e1gon, amibe tavaly 5 csecsem\u0151 halt bele",
+      "description": "Janu\u00e1r utols\u00f3 het\u00e9ben 15 \u00faj pertussis megbeteged\u00e9st regisztr\u00e1ltak az orsz\u00e1gban a Nemzeti N\u00e9peg\u00e9szs\u00e9g\u00fcgyi \u00e9s Gy\u00f3gyszer\u00e9szeti K\u00f6zpont jelent\u00e9se szerint. Ezzel az eg\u00e9sz \u00e9vben a szam\u00e1rk\u00f6h\u00f6g\u00e9ses megbeteged\u00e9sek sz\u00e1ma el\u00e9rte a 69 f\u0151t.",
+      "url": "https://www.portfolio.hu/gazdasag/20250210/brutalis-sebesseggel-terjed-a-fertozes-magyarorszagon-amibe-tavaly-5-csecsemo-halt-bele-740351",
+      "urlToImage": "https://pcdn.hu/articles/images-xl/s/z/a/szamarkohoges-vakcina-vedooltas-731795.jpg",
+      "publishedAt": "2025-02-10 12:12:00",
+      "content": "A felsl\u00e9g\u00fati megbeteged\u00e9sek terjed\u00e9s\u00e9rl folyamatosan besz\u00e1moltunk az elm\u00falt hetekben, rekordk\u00f6zeli influenzaj\u00e1rv\u00e1ny van kibontakoz\u00f3ban ezekben a hetekben Magyarorsz\u00e1gon. K\u00f6zben viszont szokatlan seb\u2026 [+6257 chars]",
+      "retrievedAt": "2025-02-11 19:05:33.214359",
+      "internal_id": "e9ea0ae131f50cae12146c91792e2cdee114a7b2c4b392578e94974a8cf30ef0",
+      "publishedAtLabel": "Feb 10"
+    },
+    {
+      "id": 18101,
+      "query": [
+        "measles"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": "Christina Shaw",
+      "title": "Texas confirms growing measles outbreak affecting school-aged children",
+      "description": "Texas' Health Services is reporting an outbreak of measles cases in Gaines County within the last two weeks.",
+      "url": "https://www.foxnews.com/health/texas-confirms-growing-measles-outbreak-affecting-school-aged-children",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/10/measles-split.jpg",
+      "publishedAt": "2025-02-10 10:15:33",
+      "content": "Officials at the Texas Department of State Health Services (DSHS) warn there is a growing measles outbreak involving school-aged children. The report said that 10 cases have been identified in Gaine\u2026 [+2402 chars]",
+      "retrievedAt": "2025-02-11 19:05:33.860107",
+      "internal_id": "4313abb9138fcf4e029cb6c967b8e2770179bbbcdbf3eab25f05e1aa614c6460",
+      "publishedAtLabel": "Feb 10"
+    },
+    {
+      "id": 18104,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Kffhealthnews.org",
+      "author": "Sarah Boden",
+      "title": "House Cats With Bird Flu Could Pose a Risk to Public Health",
+      "description": "The current strain of bird flu is spreading from wildlife and livestock to house cats. To keep pets healthy, many virologists and veterinarians say, house cats shouldn\u2019t eat raw food and should be kept indoors. Despite no known cases of H5N1 transmission betw\u2026",
+      "url": "https://kffhealthnews.org/news/article/domestic-indoor-cats-bird-flu-public-health-risk-pets-humans/",
+      "urlToImage": "https://kffhealthnews.org/wp-content/uploads/sites/2/2025/02/GettyImages-1449603635.jpg",
+      "publishedAt": "2025-02-10 10:00:00",
+      "content": "Sarah BodenMore than 80 domestic cats, among many other types of mammals, have been confirmed to have had bird flu since 2022 generally barn cats that lived on dairy farms, as well as feral cats and \u2026 [+10134 chars]",
+      "retrievedAt": "2025-02-11 19:05:35.167768",
+      "internal_id": "1421fe3be8e3f2917036f678afc48ec2d00202c0dfb93c07f64919785008a91a",
+      "publishedAtLabel": "Feb 10"
+    },
+    {
+      "id": 18103,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Overdriveonline.com",
+      "author": "Matt Cole",
+      "title": "Bird flu, egg shortage prompts regional emergency, hours waivers for relief-haul",
+      "description": "FMCSA is granting hours of service relief to carriers and drivers hauling live chickens from areas affected by the highly pathogenic avian influenza (HPAI) to unaffected areas.",
+      "url": "https://www.overdriveonline.com/hours-of-service/article/15737110/live-chicken-haulers-get-regs-relief-for-bird-flu-emergency",
+      "urlToImage": "https://img.overdriveonline.com/files/base/randallreilly/all/image/2025/02/chicken_truck_AdobeStock_303676226.67aa69b500f94.png?auto=format%2Ccompress&fit=max&q=70&w=1200",
+      "publishedAt": "2025-02-10 09:39:20",
+      "content": "The Federal Motor Carrier Safety Administration on Saturday, Feb. 8, declared a regional emergency in response to the spread of highly pathogenic avian influenza (HPAI) resulting in the widespread lo\u2026 [+2450 chars]",
+      "retrievedAt": "2025-02-11 19:05:34.371633",
+      "internal_id": "c638293540171724a2bceea2f716334801a4eab71d1ec80c0e060c1cc02a78b0",
+      "publishedAtLabel": "Feb 10"
+    },
+    {
+      "id": 18100,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Maria Godoy",
+      "title": "'Booster Shots' make case that measles remains a threat, shouldn't be underestimated",
+      "description": "As more parents in the U.S. push back against routine vaccinations for children, the new book \"Booster Shots\" makes the case that measles remains a threat that shouldn't be underestimated.",
+      "url": "https://www.npr.org/2025/02/10/nx-s1-5289020/booster-shots-make-case-that-measles-remains-a-threat-shouldnt-be-underestimated",
+      "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+      "publishedAt": "2025-02-10 09:00:21",
+      "content": "As more parents in the U.S. push back against routine vaccinations for children, the new book \"Booster Shots\" makes the case that measles remains a threat that shouldn't be underestimated.",
+      "retrievedAt": "2025-02-11 19:05:33.851720",
+      "internal_id": "6bc657666ea801ceecbe78c26f768b72c32132ff2b4fe7d548f8b9d24bac2ba8",
+      "publishedAtLabel": "Feb 10"
+    },
     {
       "id": 18094,
       "query": [
@@ -21074,186 +21381,6 @@
       "retrievedAt": "2024-12-31 07:06:23.062519",
       "internal_id": "0bc71e1789a4d07f5edf705712a5525d9fafec59ac7298e720183fce7eba5a08",
       "publishedAtLabel": "Dec 30"
-    },
-    {
-      "id": 16925,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "PTI",
-      "title": "AB-PMJAY has reduced cancer patients' financial burden significantly: Prime Minister Modi",
-      "description": "Prime Minister Narendra Modi highlights the impact of the Ayushman Bharat Pradhan Mantri Jan Arogya Yojana on reducing cancer patients' financial burden and improving timely cancer treatment. He also underscores the significant reduction in malaria cases and \u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/ab-pmjay-has-reduced-cancer-patients-financial-burden-significantly-prime-minister-modi/articleshow/116773595.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-116773634,width-1200,height-630,imgsize-1176719,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2024-12-29 17:08:42",
-      "content": "The Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (AB-PMJAY) has reduced the cancer patients' financial burden significantly, Prime Minister Narendra Modi said on Sunday. Modi highlighted the achi\u2026 [+2619 chars]",
-      "retrievedAt": "2024-12-30 19:05:34.438835",
-      "internal_id": "e229a8cdaccdbf44b9c346c41bb50e05d4373547b8f017853329cc645773464f",
-      "publishedAtLabel": "Dec 29"
-    },
-    {
-      "id": 16923,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Abril.com.br",
-      "author": "Hugo C\u00e9sar Marques",
-      "title": "Os recordes negativos do governo Lula em 2024",
-      "description": "Mortes por dengue, queimadas, alta do d\u00f3lar, desaprova\u00e7\u00e3o e finan\u00e7as das estatais lideram o rol de maus resultados da administra\u00e7\u00e3o petista",
-      "url": "https://veja.abril.com.br/brasil/os-recordes-negativos-do-governo-lula-em-2024",
-      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2024/09/54020044888_4ae7db6d8e_6k.jpg?quality=70&strip=info&crop=1&resize=1080,565",
-      "publishedAt": "2024-12-29 16:14:06",
-      "content": "\u00daltima Semana: Assine a partir de 1,50/semanaO presidente Luiz In\u00e1cio Lula da Silva, durante o evento Em defesa da democracia, combatendo os extremismos, na Sede das Na\u00e7\u00f5es Unidas, em Nova Iorque - \u2026 [+2111 chars]",
-      "retrievedAt": "2024-12-30 19:05:33.928792",
-      "internal_id": "01ccc77daeb09ee31f548fa68c18356f20a2268d54f3c6b4444cbd1a2c491dea",
-      "publishedAtLabel": "Dec 29"
-    },
-    {
-      "id": 16924,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Www.nzz.ch",
-      "author": "Anna Weber (wea)",
-      "title": "Doch keine mysteri\u00f6se \u00abKrankheit X\u00bb in Kongo-Kinshasa: Unterern\u00e4hrung macht Malaria und Erk\u00e4ltungen zu Killern",
-      "description": "Die Weltgesundheitsorganisation hat in Proben von Betroffenen keine neuen Erreger gefunden. Stattdessen treffen altbekannte Viren auf ein geschw\u00e4chtes Immunsystem. Das bedroht vor allem kleine Kinder.",
-      "url": "https://www.nzz.ch/wissenschaft/keine-krankheit-x-im-kongo-unterernaehrung-als-wahre-ursache-ld.1864272",
-      "urlToImage": "https://img.nzz.ch/2024/12/29/28f22673-2de4-4eb3-aff6-608954ac4a6f.jpeg?width=832&height=468&fit=bounds&quality=75&auto=webp&crop=832,468,x4,y0",
-      "publishedAt": "2024-12-29 15:36:29",
-      "content": "Viele Krankenh\u00e4user in der Region Panzi in Kongo-Kinshasa haben nicht genug Personal und Ressourcen, um alle Patienten angemessen zu versorgen. Erk\u00e4ltungssymptome, stark ansteigende Fallzahlen und D\u2026 [+4125 chars]",
-      "retrievedAt": "2024-12-30 19:05:34.360815",
-      "internal_id": "bb9524cb390837c786d15f125b651be702a8b76cc9c922f2dc86e184433428bf",
-      "publishedAtLabel": "Dec 29"
-    },
-    {
-      "id": 16918,
-      "query": [
-        "hpai"
-      ],
-      "source_id": null,
-      "source_name": "Everyeye.it",
-      "author": "Giuseppe Occhiuto",
-      "title": "Il primo caso di influenza aviaria mostra i segni di una mutazione: c'\u00e8 da preoccuparsi?",
-      "description": "A quanto pare il virus dell'influenza aviaria sta cambiando negli esseri umani. C'\u00e8 realmente da preoccuparsi? Facciamo il puntoIl primo paziente con la \"Highly Pathogenic Avian Influenza\" (HPAI), ovvero l'influenza aviaria che fa preoccupare milioni di perso\u2026",
-      "url": "https://tech.everyeye.it/notizie/caso-influenza-aviaria-mostra-segni-mutazione-e-preoccuparsi-767704.html",
-      "urlToImage": "https://images.everyeye.it/img-notizie/il-caso-influenza-aviaria-mostra-segni-mutazione-c-E-preoccuparsi-v4-767704.jpg",
-      "publishedAt": "2024-12-29 15:36:00",
-      "content": "Il primo paziente con la \"Highly Pathogenic Avian Influenza\" (HPAI), ovvero l'influenza aviaria che fa preoccupare milioni di persone, mostra l'esistenza di mutazioni che influenzano la capacit\u00e0 del \u2026 [+2164 chars]",
-      "retrievedAt": "2024-12-30 19:05:33.011249",
-      "internal_id": "93384229609d04c1da2584dfe7402b0b85649c700ff306aa595b4d3921c8a153",
-      "publishedAtLabel": "Dec 29"
-    },
-    {
-      "id": 16920,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Naked-science.ru",
-      "author": "\u041b\u044e\u0431\u043e\u0432\u044c",
-      "title": "\u0410\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0438\u0445 \u043a\u043e\u0448\u0435\u043a \u043f\u043e\u0440\u0430\u0437\u0438\u043b \u043d\u043e\u0432\u044b\u0439 \u0448\u0442\u0430\u043c\u043c \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430",
-      "description": "\u0417\u0430 \u0434\u0432\u0430 \u0441 \u043f\u043e\u043b\u043e\u0432\u0438\u043d\u043e\u0439 \u0433\u043e\u0434\u0430 \u0432\u0438\u0440\u0443\u0441 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430 H5N1 \u043f\u043e\u0433\u0443\u0431\u0438\u043b \u0431\u043e\u043b\u0435\u0435 100 \u043c\u0438\u043b\u043b\u0438\u043e\u043d\u043e\u0432 \u043f\u0435\u0440\u043d\u0430\u0442\u044b\u0445 \u043d\u0430 \u043f\u0442\u0438\u0446\u0435\u0444\u0430\u0431\u0440\u0438\u043a\u0430\u0445 \u0421\u0428\u0410. \u0415\u0433\u043e \u043f\u0435\u0440\u0435\u043d\u043e\u0441\u0447\u0438\u043a\u0430\u043c\u0438, \u043a\u0430\u043a \u043e\u043a\u0430\u0437\u0430\u043b\u043e\u0441\u044c, \u043c\u043e\u0433\u0443\u0442 \u0441\u0442\u0430\u0442\u044c \u0434\u043e\u043c\u0430\u0448\u043d\u0438\u0435 \u043a\u043e\u0448\u043a\u0438: \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u044b \u043d\u043e\u0432\u043e\u0433\u043e \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u044f \u043f\u043e\u043a\u0430\u0437\u0430\u043b\u0438, \u0447\u0442\u043e \u043c\u0443\u0442\u0430\u0446\u0438\u0438 \u0443 \u044d\u0442\u0438\u0445 \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u0445 \u0437\u043d\u0430\u0447\u0438\u0442\u0435\u043b\u044c\u043d\u043e \u043f\u043e\u0432\u044b\u0448\u0430\u2026",
-      "url": "https://naked-science.ru/article/medicine/amerikanskih-koshek-poraz",
-      "urlToImage": "https://naked-science.ru/wp-content/uploads/2024/12/cat_bird-1200x675.jpeg",
-      "publishedAt": "2024-12-29 13:28:53",
-      "content": "H5N1 100 . , , : , \u00ab\u00bb \u00ab\u00bb () . , , , : 2024 () H5N1 10 . . , . , . Taylor and Francis. , . , , . (Suresh V. Kuchipudi) () , , , , , . . , , (HA) T143A , \u00ab\u00bb . F314L L342Q PA (), ( ). \u2026 [+119 chars]",
-      "retrievedAt": "2024-12-30 19:05:33.588756",
-      "internal_id": "347553ed5c7feec811e40aff2352e35621b8d43953dc6ea0f7e5887abf7bc222",
-      "publishedAtLabel": "Dec 29"
-    },
-    {
-      "id": 16922,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Mail.ru",
-      "author": "\u0420\u0430\u043c\u0438\u043b\u044f \u0413\u0430\u043b\u0438\u043c\u0437\u044f\u043d\u043e\u0432\u0430",
-      "title": "\u041c\u0430\u0440\u0431\u0443\u0440\u0433, \u041a\u043e\u043a\u0441\u0430\u043a\u0438 \u0438 \u0410\u043b\u044f\u0441\u043a\u0430\u043f\u043e\u043a\u0441: \u043a\u0430\u043a\u0438\u0435 \u0432\u0438\u0440\u0443\u0441\u044b \u0431\u0443\u0448\u0435\u0432\u0430\u043b\u0438 \u0432 2024",
-      "description": "\u041e\u043d\u0438 \u043c\u043e\u0433\u043b\u0438 \u043f\u0435\u0440\u0435\u0440\u0430\u0441\u0442\u0438 \u0432 \u044d\u043f\u0438\u0434\u0435\u043c\u0438\u044e, \u043d\u043e \u044d\u0442\u043e\u0433\u043e \u043d\u0435 \u0441\u043b\u0443\u0447\u0438\u043b\u043e\u0441\u044c.",
-      "url": "https://vfokuse.mail.ru/article/marburg-koksaki-i-alyaskapoks-kakie-virusy-bushevali-v-2024-64280393/",
-      "urlToImage": "https://resizer.mail.ru/p/68346929-235c-56b5-ab4f-8ed04163ca45/op:15/logo:bottom:vfokuse.png/AQAGLw0YIawdOncjk_0oAufl-pIHYgLdRYhe0Op79kH3AKXFZDfAoUaKgC9L5hcI9N3iFKoHg-YLI516VIWkT4-y2MQ.jpg",
-      "publishedAt": "2024-12-29 13:16:28",
-      "content": ". , \u00ab\u00bb . COVID-19, , . , 2024 , Life. 2024 - (H5N1). . 14 , . . 18 \u2014 . 2021 H5N1 280 . \u2014 . 2024 \u2014 30 . , . 2024 , COVID-19, , . \u2026 [+954 chars]",
-      "retrievedAt": "2024-12-30 19:05:33.678135",
-      "internal_id": "b6849393f197386f30de07cd87570a63fb8747e0bb3bb9dca759742ac39cc5bb",
-      "publishedAtLabel": "Dec 29"
-    },
-    {
-      "id": 16928,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "der-tagesspiegel",
-      "source_name": "Der Tagesspiegel",
-      "author": "Sascha Karberg",
-      "title": "Schwerer Vogelgrippe-Fall beim Menschen: US-Seuchenbeh\u00f6rde findet gef\u00e4hrliche Mutationen",
-      "description": "Mindestens 65 Menschen haben sich in den USA in den vergangenen Monaten \u00fcber infiziertes Gefl\u00fcgel oder Milchk\u00fche mit H5N1-Viren angesteckt. Aber nur einer erkrankte schwer. Jetzt wurde das Viruserbgut analysiert.",
-      "url": "https://www.tagesspiegel.de/wissen/schwerer-vogelgrippe-fall-beim-menschen-us-seuchenbehorde-findet-gefahrliche-mutationen-12938302.html",
-      "urlToImage": "https://www.tagesspiegel.de/images/6647143/alternates/BASE_16_9_W1400/1658762868000/fouchier1hr.jpeg",
-      "publishedAt": "2024-12-29 13:08:25",
-      "content": "Kurz vor Weihnachten hatte die US-Seuchenbeh\u00f6rde CDC best\u00e4tigt, dass im Bundesstaat Louisiana eine Person au\u00dfergew\u00f6hnlich schwer an Vogelgrippe (H5N1) erkrankt war. Offenbar hatte sich die nicht n\u00e4he\u2026 [+5558 chars]",
-      "retrievedAt": "2024-12-31 07:06:23.171572",
-      "internal_id": "133209a677e813512703bda2a7664ec17442e3ee10264fd829f914e2b62ef904",
-      "publishedAtLabel": "Dec 29"
-    },
-    {
-      "id": 16919,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "REVOLT TV",
-      "author": "Angelina Velasquez",
-      "title": "Health expert warns bird flu may become a pandemic like COVID-19",
-      "description": "A medical expert who helped lead America\u2019s COVID-19 response has warned that the ongoing bird flu (H5N1) epidemic can evolve into a pandemic if greater...",
-      "url": "https://www.revolt.tv/article/former-white-house-health-expert-warns-bird-flu-has-potential-to-become-pandemic",
-      "urlToImage": "https://media.zenfs.com/en/revolt_articles_463/9beff138051b8dbc792fba12a4fa6f00",
-      "publishedAt": "2024-12-29 12:05:41",
-      "content": "Yahoo is using AI to generate takeaways from this article. This means the info may not always match what's in the article. Reporting mistakes helps us improve the experience.Generate Key Takeaways A\u2026 [+2651 chars]",
-      "retrievedAt": "2024-12-30 19:05:33.538288",
-      "internal_id": "b5a153d5aba5f4bc8716df9f015f1151ec9e6f380af6d709ba5ee5283eee80fd",
-      "publishedAtLabel": "Dec 29"
-    },
-    {
-      "id": 16921,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "cnn",
-      "source_name": "CNN",
-      "author": "CNN \u0628\u0627\u0644\u0639\u0631\u0628\u064a\u0629",
-      "title": "\u0637\u0641\u0631\u0629 \u062c\u062f\u064a\u062f\u0629 \u062a\u062b\u064a\u0631 \u0627\u0644\u0642\u0644\u0642.. \u0625\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u0637\u064a\u0648\u0631 \u062a\u0633\u062a\u0647\u062f\u0641 \u062e\u0644\u0627\u064a\u0627 \u0627\u0644\u062a\u0646\u0641\u0633 \u0644\u062f\u0649 \u0627\u0644\u0628\u0634\u0631",
-      "description": "\u0623\u062b\u0627\u0631\u062a \u0637\u0641\u0631\u0629 \u062c\u062f\u064a\u062f\u0629 \u0638\u0647\u0631\u062a \u0644\u062f\u0649 \u0645\u0631\u064a\u0636 \u0641\u064a \u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629 \u0623\u0635\u064a\u0628 \u0628\u0641\u064a\u0631\u0648\u0633 \u0625\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u0637\u064a\u0648\u0631 H5N1 \u0627\u0644\u0642\u0644\u0642 \u0644\u062f\u0649 \u0645\u0633\u0624\u0648\u0644\u064a \u0627\u0644\u0635\u062d\u0629 \u0641\u064a \u0627\u0644\u0628\u0644\u0627\u062f\u060c \u062d\u064a\u062b \u0648\u064f\u062c\u062f \u0623\u0646 \u0627\u0644\u0641\u064a\u0631\u0648\u0633 \u062a\u062d\u0648\u0631 \u0628\u0637\u0631\u064a\u0642\u0629 \u062a\u062c\u0639\u0644 \u0645\u0646 \u0627\u0644\u0633\u0647\u0644 \u0625\u0635\u0627\u0628\u0629 \u0627\u0644\u062e\u0644\u0627\u064a\u0627 \u0627\u0644\u0628\u0634\u0631\u064a\u0629 \u0641\u064a \u0627\u0644\u062c\u0647\u0627\u0632 \u0627\u0644\u062a\u0646\u0641\u0633\u064a \u0627\u0644\u0639\u0644\u0648\u064a \u0644\u062f\u0649 \u0627\u0644\u0628\u0634\u0631 \u0628\u0625\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u0637\u064a\u0648\u0631\u060c \u0648\u0630\u0644\u0643 \u0628\u0639\u062f \u062a\u062d\u0644\u064a\u0644 \u0645\u0631\u0643\u0632 \u2026",
-      "url": "https://arabic.cnn.com/science-and-health/video/2024/12/29/v167569-bird-flu-mutates-to-target-human-respiratory-cells",
-      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2024/12/28/images/286314.jpg",
-      "publishedAt": "2024-12-29 09:07:51",
-      "content": "",
-      "retrievedAt": "2024-12-30 19:05:33.649350",
-      "internal_id": "85e1ea9182b904f4972e990f139beb5db74832a28dbf56cb43807c12e11b3dcb",
-      "publishedAtLabel": "Dec 29"
-    },
-    {
-      "id": 16926,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "N-tv.de",
-      "author": "Hedviga Nyarsik",
-      "title": "WHO-Liste des Grauens: Die gef\u00e4hrlichsten Erreger, gegen die es keine Impfung gibt",
-      "description": "Ob HIV, Malaria oder multiresistente Keime: Gegen viele Erreger gibt es noch keinen wirksamen Impfstoff. Sie verursachen daher immer wieder Infektionen und Ausbr\u00fcche, gegen die nur wenig unternommen werden kann. Die WHO listet nun die 17 gef\u00e4hrlichsten dieser\u2026",
-      "url": "https://www.n-tv.de/mediathek/bilderserien/wissen/Die-gefaehrlichsten-Erreger-gegen-die-es-keine-Impfung-gibt-article25374966.html",
-      "urlToImage": "https://bilder2.n-tv.de/img/incoming/crop25375481/1381327620-cImg_16_9-w1200/imago775347209.jpg",
-      "publishedAt": "2024-12-29 07:55:54",
-      "content": "Neben den vier Pathogenen ohne Impfschutz listet die WHO noch weitere Infektionskrankheiten auf, gegen die es zwar bereits Impfstoffe gibt, die aber nicht ausgereift sind, zu wenig wirken oder nicht \u2026 [+31 chars]",
-      "retrievedAt": "2024-12-30 19:05:34.496423",
-      "internal_id": "b0d655e4e8f559fb62e8d9dabed9acc7bbd58a9a6396fa9f2944b0c583498787",
-      "publishedAtLabel": "Dec 29"
     }
   ]
 }
