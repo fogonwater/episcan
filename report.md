@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 8
-- **Last harvest:** 2025-02-10 19:05
-- **Most recent article:** 2025-02-09 17:15:07
+- **New articles in last harvest:** 11
+- **Last harvest:** 2025-02-11 07:06
+- **Most recent article:** 2025-02-10 06:51:50
 
 ---
 
@@ -12,12 +12,12 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-53 | 25-1 | 25-2 | 25-3 | 25-4 | 25-5 | 25-6 | 25-7 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| h5n1 | 22 | 27 | 131 | 65 | 31 | 51 | 68 | 3 | 398 |
+| h5n1 | 27 | 27 | 131 | 65 | 31 | 51 | 72 | 7 | 411 |
 | mpox | 2 | 6 | 91 | 34 | 23 | 22 | 28 | 0 | 206 |
-| dengue | 4 | 12 | 41 | 29 | 37 | 24 | 34 | 0 | 181 |
-| malaria | 12 | 10 | 30 | 18 | 19 | 30 | 25 | 1 | 145 |
-| measles | 3 | 6 | 6 | 9 | 10 | 13 | 24 | 4 | 75 |
-| hpai | 0 | 4 | 18 | 12 | 11 | 6 | 3 | 0 | 54 |
+| dengue | 5 | 12 | 41 | 29 | 37 | 24 | 34 | 1 | 183 |
+| malaria | 15 | 10 | 30 | 18 | 19 | 30 | 25 | 1 | 148 |
+| measles | 3 | 6 | 6 | 9 | 10 | 13 | 24 | 6 | 77 |
+| hpai | 1 | 4 | 18 | 12 | 11 | 6 | 3 | 0 | 55 |
 | chikungunya | 2 | 0 | 7 | 7 | 10 | 9 | 8 | 0 | 43 |
 | zika | 0 | 0 | 15 | 5 | 2 | 8 | 6 | 0 | 36 |
 | rabies | 1 | 1 | 2 | 6 | 7 | 6 | 4 | 0 | 27 |
@@ -34,6 +34,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-7 (measles)
 
+- [Measles outbreak spreads as health officials urge anyone who hasn't been vaccinated to get jabbed - NewsBreak](https://www.newsbreak.com/share/3798078238417-measles-outbreak-spreads-as-health-officials-urge-anyone-who-hasn-t-been-vaccinated-to-get-jabbed?s=a2&share_destination_id=MjE0OTg1NzExLTE3MzkxNDQ2ODUyMTI%3D&pd=0EY3bTgT&hl=en_US&send_time=1739144685&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.4.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_model_exp_25q1-v6%2Cns_foryou_rank_exp_25q1-v5%2Cns_foryou_recall_exp_25q1-v6%2Cns_foryou_blend_exp_25q1-v3) (Newsbreak.com)
+
+- [Measles outbreak spreads as health officials urge anyone who hasn't been vaccinated to get jabbed - NewsBreak](https://www.newsbreak.com/share/3798078238417-measles-outbreak-spreads-as-health-officials-urge-anyone-who-hasn-t-been-vaccinated-to-get-jabbed?s=a2&share_destination_id=MjUxNzE4NzUzLTE3MzkxNDI4NDQyMDU%3D&pd=0H2BXtcW&hl=en_US&send_time=1739142844&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.4.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_push_exp_rt_bucketv12-v7%2Cns_foryou_blend_exp_25q1-v8%2Cns_foryou_recall_exp_25q1-v8%2Cns_foryou_model_exp_25q1-v1%2Cns_foryou_rank_exp_25q1-v4) (Newsbreak.com)
+
 - [Texas Measles Cases Hit County With Low Vaccination Rates](https://www.newsweek.com/measles-outbreak-texas-gaines-county-vaccination-rate-2028453) (Newsweek)
 
 - [Measles outbreak spreads as health officials urge anyone who hasn't been vaccinated to get jabbed - NewsBreak](https://www.newsbreak.com/share/3798078238417-measles-outbreak-spreads-as-health-officials-urge-anyone-who-hasn-t-been-vaccinated-to-get-jabbed?s=a2&share_destination_id=NTMxMzc4NDEtMTczOTExODU1MjI2Ng%3D%3D&pd=03axZxIg&hl=en_US&send_time=1739118552&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.6.1%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_model_exp_25q1-v8%2Cns_foryou_blend_exp_25q1-v8%2Cns_foryou_rank_exp_25q1-v6%2Cns_foryou_recall_exp_25q1-v7%2Cns_push_exp_rt_bucketv12-v8) (Newsbreak.com)
@@ -48,11 +52,23 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-7 (h5n1)
 
+- ["Яичный кризис" доказывает превосходство соседей над США](https://www.news2.ru/story/697734/) (News2.ru)
+
+- [В мире: «Яичный кризис» доказывает превосходство соседей над США](https://vz.ru/world/2025/2/10/1313606.html) (Vz.ru)
+
+- [Rikligt med fågelinfluensafall i Europa – men svårt att säga hur situationen blir i Finland](https://yle.fi/a/7-10072315) (YLE News)
+
+- [Qual o risco de a gripe aviária virar uma nova pandemia entre humanos?](https://catracalivre.com.br/saude-bem-estar/qual-o-risco-de-a-gripe-aviaria-virar-uma-nova-pandemia-entre-humanos/) (Catracalivre.com.br)
+
 - [Onde elettromagnetiche per "abbattere" l'aviaria: ecco come funzionano](https://www.ilgiornale.it/news/rimedi-naturali/aviaria-abbattuta-dalle-onde-elettromagnetiche-studio-2435169.html) (Ilgiornale.it)
 
 - [אירוע חריג בארה"ב: פרות נדבקו בזן חדש של שפעת העופות](https://www.ynet.co.il/health/article/rkq00oahtkx) (Ynet)
 
 - [Zamykają targi, wybijają zakażone zwierzęta. Ptasia grypa rozprzestrzenia się w Nowym Jorku](https://tvn24.pl/tvnmeteo/swiat/zamykaja-targi-wybijaja-zakazone-zwierzeta-ptasia-grypa-rozprzestrzenia-sie-w-nowym-jorku-st8298168) (Tvn24.pl)
+
+## 25-7 (dengue)
+
+- [Nayarit entre las 10 entidades con más casos de dengue](https://www.excelsior.com.mx/nacional/nayarit-entre-10-entidades-mas-casos-dengue/1698910) (Excelsior.com.mx)
 
 ## 25-6 (zika)
 
@@ -272,13 +288,21 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-6 (h5n1)
 
+- [Trump’s assault on public health and the growing threat of an H5N1 bird flu pandemic](https://www.wsws.org/en/articles/2025/02/08/ocfq-f08.html) (World Socialist Web Site)
+
 - [All the Latest Unnerving Bird Flu Developments](http://nymag.com/intelligencer/article/the-latest-unnerving-bird-flu-developments.html) (New York Magazine)
+
+- [CDC Deleted Its Report on Bird Flu Spread Between Cats and Humans](http://www.vice.com/en/article/cdc-deleted-its-report-on-bird-flu-spread-between-cats-and-humans/) (Vice News)
 
 - [CDC Abruptly Yanks Report Linking Cats to Bird Flu Spread](https://gizmodo.com/cdc-pulls-back-report-linking-cats-to-bird-flu-spread-2000560876) (Gizmodo.com)
 
 - [Aviaria, -94% carica infettiva virus H5N1 con onde elettromagnetiche, lo studio](https://www.ilgiornale.it/news/adnkronos/aviaria-94-carica-infettiva-virus-h5n1-onde-2434579.html) (Ilgiornale.it)
 
+- [New York temporarily shutters bird markets after seven cases of avian flu are detected in NYC](https://www.seattlepi.com/news/article/new-york-temporarily-shutters-bird-markets-after-20153540.php) (seattlepi.com)
+
 - [В США опубликовали и удалили данные о возможной передаче H5N1 от кошек людям](https://naked-science.ru/article/medicine/peredacha-h5n1-ot-koshek) (Naked-science.ru)
+
+- [Bird flu in NYC: 7 confirmed cases, prompting market closures](https://www.fox5ny.com/news/bird-flu-found-bronx-brooklyn-queens) (FOX 5 NY)
 
 - [CDC MMWR Back After 2 Week Halt But Without H5N1 Bird Flu Studies](https://www.forbes.com/sites/brucelee/2025/02/07/cdc-mmwr-back-after-2-week-halt-but-without-h5n1-bird-flu-studies/) (Forbes)
 
@@ -2538,6 +2562,16 @@ Source: [News API](https://newsapi.org/)
 
 - [Pakar Ungkap Potensi Ancaman Kesehatan Utama di 2025, Ada Malaria hingga Masalah Mental](https://www.liputan6.com/health/read/5856603/pakar-ungkap-potensi-ancaman-kesehatan-utama-di-2025-ada-malaria-hingga-masalah-mental) (Liputan6.com)
 
+- [AB-PMJAY has reduced cancer patients' financial burden significantly: Prime Minister Modi](https://economictimes.indiatimes.com/news/india/ab-pmjay-has-reduced-cancer-patients-financial-burden-significantly-prime-minister-modi/articleshow/116773595.cms) (The Times of India)
+
+- [Doch keine mysteriöse «Krankheit X» in Kongo-Kinshasa: Unterernährung macht Malaria und Erkältungen zu Killern](https://www.nzz.ch/wissenschaft/keine-krankheit-x-im-kongo-unterernaehrung-als-wahre-ursache-ld.1864272) (Www.nzz.ch)
+
+- [WHO-Liste des Grauens: Die gefährlichsten Erreger, gegen die es keine Impfung gibt](https://www.n-tv.de/mediathek/bilderserien/wissen/Die-gefaehrlichsten-Erreger-gegen-die-es-keine-Impfung-gibt-article25374966.html) (N-tv.de)
+
+## 24-53 (hpai)
+
+- [Il primo caso di influenza aviaria mostra i segni di una mutazione: c'è da preoccuparsi?](https://tech.everyeye.it/notizie/caso-influenza-aviaria-mostra-segni-mutazione-e-preoccuparsi-767704.html) (Everyeye.it)
+
 ## 24-53 (h5n1)
 
 - [As pace and severity of human H5N1 cases accelerate, NIH leaders call for more action on bird flu | CNN](https://www.cnn.com/2024/12/31/health/human-h5n1-bird-flu-cases/index.html) (CNN)
@@ -2584,6 +2618,16 @@ Source: [News API](https://newsapi.org/)
 
 - [طفرة فريدة من نوعها لفيروس انفلونزا الطيور يكتشفها أطباء في لوس أنجلوس.. بِمَ يُنبئنا ذلك؟](https://arabic.cnn.com/science-and-health/video/2024/12/30/v167548-bird-flu-mutation) (CNN)
 
+- [Американских кошек поразил новый штамм птичьего гриппа](https://naked-science.ru/article/medicine/amerikanskih-koshek-poraz) (Naked-science.ru)
+
+- [Марбург, Коксаки и Аляскапокс: какие вирусы бушевали в 2024](https://vfokuse.mail.ru/article/marburg-koksaki-i-alyaskapoks-kakie-virusy-bushevali-v-2024-64280393/) (Mail.ru)
+
+- [Schwerer Vogelgrippe-Fall beim Menschen: US-Seuchenbehörde findet gefährliche Mutationen](https://www.tagesspiegel.de/wissen/schwerer-vogelgrippe-fall-beim-menschen-us-seuchenbehorde-findet-gefahrliche-mutationen-12938302.html) (Der Tagesspiegel)
+
+- [Health expert warns bird flu may become a pandemic like COVID-19](https://www.revolt.tv/article/former-white-house-health-expert-warns-bird-flu-has-potential-to-become-pandemic) (REVOLT TV)
+
+- [طفرة جديدة تثير القلق.. إنفلونزا الطيور تستهدف خلايا التنفس لدى البشر](https://arabic.cnn.com/science-and-health/video/2024/12/29/v167569-bird-flu-mutates-to-target-human-respiratory-cells) (CNN)
+
 ## 24-53 (dengue)
 
 - [Bangladesh records 575 dengue deaths in 2024](https://www.thestar.com.my/news/world/2025/01/01/bangladesh-records-575-dengue-deaths-in-2024) (The Star Online)
@@ -2593,6 +2637,8 @@ Source: [News API](https://newsapi.org/)
 - [Japanese encephalitis: Summer's first case of mosquito-borne virus detected in Victorian](https://thenightly.com.au/society/health/japanese-encephalitis-summers-first-case-of-mosquito-borne-virus-detected-in-victorian-c-17244120) (Thenightly.com.au)
 
 - [Summer's first case of mosquito-borne Japanese encephalitis detected in Victoria](https://7news.com.au/news/summers-first-case-of-mosquito-borne-japanese-encephalitis-detected-in-victoria-c-17244123) (7NEWS.com.au)
+
+- [Os recordes negativos do governo Lula em 2024](https://veja.abril.com.br/brasil/os-recordes-negativos-do-governo-lula-em-2024) (Abril.com.br)
 
 ## 24-53 (chikungunya)
 
