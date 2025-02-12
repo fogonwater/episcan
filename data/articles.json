@@ -1,8 +1,386 @@
 {
-  "last_updated": "2025-02-12 07:06",
-  "count_articles_total": 1212,
-  "count_articles_new": 17,
+  "last_updated": "2025-02-12 19:06",
+  "count_articles_total": 1223,
+  "count_articles_new": 21,
   "articles": [
+    {
+      "id": 18139,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Mediafax.ro",
+      "author": "Laura Buciu",
+      "title": "Bosnia raporteaz\u0103 grip\u0103 aviar\u0103 H5N1 la o ferm\u0103 avicol\u0103",
+      "description": "Bosnia a raportat un focar de grip\u0103 aviar\u0103 H5N1 \u00eenalt patogen\u0103, a anun\u0163at mar\u0163i Organiza\u0163ia Mondial\u0103 pentru S\u0103n\u0103tatea Animalelor (OMSA), potrivit Reuters.",
+      "url": "https://www.mediafax.ro/externe/bosnia-raporteaza-gripa-aviara-h5n1-la-o-ferma-avicola-22690277",
+      "urlToImage": "https://storage0.dms.mpinteractiv.ro/media/1/1/3614/22690277/1/curcani.jpg?width=640",
+      "publishedAt": "2025-02-11 18:56:23",
+      "content": "Bosnia a raportat un focar de grip aviar H5N1 \u00eenalt patogen, a anunat mari Organizaia Mondial pentru Sntatea Animalelor (OMSA), potrivit Reuters. OMSA a anunat c Bosnia a raportat un focar de grip av\u2026 [+1050 chars]",
+      "retrievedAt": "2025-02-12 19:06:03.570421",
+      "internal_id": "72958fc08768828eb7a37b07a39c3585a0a6fabe38f0fef56d43e0240be568df",
+      "publishedAtLabel": "Feb 11"
+    },
+    {
+      "id": 18134,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "PBS",
+      "author": "Sean Murphy, Associated Press, Devi Shastri, Associated Press",
+      "title": "15 cases of measles reported in small West Texas county with high rate of vaccine exemptions",
+      "description": "Some of the cases appear to be connected to private religious schools in the district, said Holbrooks, who cautioned that the investigation is ongoing.",
+      "url": "https://www.pbs.org/newshour/health/15-cases-of-measles-reported-in-small-west-texas-county-with-high-rate-of-vaccine-exemptions",
+      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2024/10/2019-03-21T234516Z_1540626636_RC15CA55FBC0_RTRMADP_3_USA-MEASLES-1024x671.jpg",
+      "publishedAt": "2025-02-11 17:24:41",
+      "content": "Fifteen measles cases mostly in school-aged children have been confirmed in a small county in West Texas with one of the highest rates of vaccine exemptions in the state. South Plains Public Health \u2026 [+3393 chars]",
+      "retrievedAt": "2025-02-12 19:06:02.284274",
+      "internal_id": "fc330d95d2a1b3213c64a00f198aca3c55eb47e35d3b9fd60c40234c210dba60",
+      "publishedAtLabel": "Feb 11"
+    },
+    {
+      "id": 18137,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Gizmodo.com",
+      "author": "Ed Cara",
+      "title": "A Second Type of H5N1 Bird Flu Jumped From Cows to Humans",
+      "description": "The latest human case of H5N1 is the first in the state of Nevada.",
+      "url": "https://gizmodo.com/a-second-type-of-h5n1-bird-flu-jumped-from-cows-to-humans-2000562290",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/11/Dairy-cow.jpg",
+      "publishedAt": "2025-02-11 17:15:48",
+      "content": "H5N1 bird flu is branching out. New data from the Centers for Disease Control and Prevention indicates that a second type of H5N1 has likely spread from dairy cows to humans. The CDC and health offi\u2026 [+2933 chars]",
+      "retrievedAt": "2025-02-12 19:06:03.536776",
+      "internal_id": "7b76d122b98108c1c0663847fd3ee3f1cb2bfbe87363390485fa8768624580e5",
+      "publishedAtLabel": "Feb 11"
+    },
+    {
+      "id": 18151,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Adomonline.com",
+      "author": "Gertrude Okyere",
+      "title": "Parliament summons Health Minister over cholera and meningitis outbreak - Adomonline.com",
+      "description": "The summons is for Mr. Akandoh to provide a comprehensive briefing on the outbreak of cholera, cerebrospinal meningitis, and other public health emergencies",
+      "url": "https://www.adomonline.com/parliament-summons-health-minister-over-cholera-and-meningitis-outbreak/",
+      "urlToImage": "https://www.adomonline.com/wp-content/uploads/2025/01/Screenshot-2025-01-31-131155.png",
+      "publishedAt": "2025-02-11 17:07:02",
+      "content": "Health Minister Kwabena Mintah Akandoh has been directed to appear before Parliament within a week. The summons is for Mr. Akandoh to provide a comprehensive briefing on the outbreak of cholera, cer\u2026 [+1662 chars]",
+      "retrievedAt": "2025-02-12 19:06:04.427922",
+      "internal_id": "fd1665a2888dba8a1eefb7fd1ef3769950081706027f345b2b78b7e6f60525d1",
+      "publishedAtLabel": "Feb 11"
+    },
+    {
+      "id": 18144,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "WFTV Orlando",
+      "author": "Natalie Dreier",
+      "title": "Trader Joe\u2019s, Costco place limit on egg purchases amid shortage",
+      "description": "The move comes as the H5N1 or bird flu outbreak continues to cause a shortage.",
+      "url": "https://www.wftv.com/news/trending/trader-joes-costco-place-limit-egg-purchases-amid-shortage/XTXITSQW6NHMBNQCPXAVXR66GE/",
+      "urlToImage": "https://cmg-cmg-tv-10070-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FLWLYP7X25VHI5K6U3BITOZ4NWQ.jpeg?auth=a7fdb879d3c62353eab6264effeec4376a40f4f953f92690bdf1f39c2cf69f4d&width=1200&height=630&smart=true",
+      "publishedAt": "2025-02-11 16:34:51",
+      "content": "Trader Joes is limiting how many cartons of eggs customers will be able to buy. The move comes as the H5N1 or bird flu outbreak continues to cause a shortage. The company said in a statement to USA\u2026 [+1902 chars]",
+      "retrievedAt": "2025-02-12 19:06:03.692646",
+      "internal_id": "d02bcc633086af2e975a7f66bdf5fccae671dbb852dd92a119386cda8e5433ea",
+      "publishedAtLabel": "Feb 11"
+    },
+    {
+      "id": 18145,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Alessandro Di Lorenzo",
+      "title": "Alerta de novo surto de dengue no Brasil e outros pa\u00edses da Am\u00e9rica",
+      "description": "A Organiza\u00e7\u00e3o Pan-Americana da Sa\u00fade emitiu alerta epidemiol\u00f3gico sobre o risco elevado de surtos da doen\u00e7a tipo 3 na regi\u00e3o O post Alerta de novo surto de dengue no Brasil e outros pa\u00edses da Am\u00e9rica apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2025/02/11/medicina-e-saude/alerta-de-novo-surto-de-dengue-no-brasil-e-outros-paises-da-america/",
+      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2024/12/dengue.jpg",
+      "publishedAt": "2025-02-11 15:48:12",
+      "content": "A dengue continua preocupando as autoridades de sa\u00fade em 2025. A Organiza\u00e7\u00e3o Pan-Americana da Sa\u00fade (Opas) emitiu alerta epidemiol\u00f3gico sobre o risco elevado de surtos da doen\u00e7a tipo 3 nas Am\u00e9ricas. \u2026 [+1722 chars]",
+      "retrievedAt": "2025-02-12 19:06:04.037610",
+      "internal_id": "cc7e17a815d60155fc61c0b311c25d8d8c54199bdb855f447526ba229e96bade",
+      "publishedAtLabel": "Feb 11"
+    },
+    {
+      "id": 18140,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Forbes.com.mx",
+      "author": "Forbes Staff",
+      "title": "OMS dice que la comunicaci\u00f3n con las autoridades de EU sobre la gripe aviar H5N1 es un \u2018reto\u2019",
+      "description": "Forbes M\u00e9xico. OMS dice que la comunicaci\u00f3n con las autoridades de EU sobre la gripe aviar H5N1 es un \u2018reto\u2019 Desde el anuncio de Trump sobre el retiro de EU de la OMS, la agencia sanitaria dijo este martes que la comunicaci\u00f3n sobre la gripe aviar H5N1 se ha\u2026",
+      "url": "https://forbes.com.mx/oms-dice-que-la-comunicacion-con-las-autoridades-de-eu-sobre-la-gripe-aviar-h5n1-es-un-reto/",
+      "urlToImage": "https://cdn.forbes.com.mx/2019/04/oms-logo.jpg",
+      "publishedAt": "2025-02-11 15:03:12",
+      "content": "Un portavoz de la Organizaci\u00f3n Mundial de la Salud (OMS) dijo el martes que la comunicaci\u00f3n sobre la gripe aviar H5N1 se hab\u00eda convertido en un reto desde que el presidente Donald Trump anunci\u00f3 el re\u2026 [+1719 chars]",
+      "retrievedAt": "2025-02-12 19:06:03.592565",
+      "internal_id": "0cb6279f3041c707aa6c7ebe85994bf89a72e299861622e0d506ce31466c7c89",
+      "publishedAtLabel": "Feb 11"
+    },
+    {
+      "id": 18152,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Mail.ru",
+      "author": "\u0410\u043d\u043d\u0430 \u041c\u043e\u0440\u043e\u0437\u043e\u0432\u0430",
+      "title": "\u0423\u0447\u0435\u043d\u044b\u0435: \u043e\u0432\u0446\u044b \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0438\u043b\u0438 \u0447\u0443\u043c\u0443 \u0432 \u0431\u0440\u043e\u043d\u0437\u043e\u0432\u043e\u043c \u0432\u0435\u043a\u0435",
+      "description": "\u0421\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442\u044b \u0432\u044b\u044f\u0441\u043d\u0438\u043b\u0438, \u043a\u0430\u043a \u043e\u0432\u0446\u044b \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0438\u043b\u0438 \u0447\u0443\u043c\u0443 \u0432 \u0431\u0440\u043e\u043d\u0437\u043e\u0432\u043e\u043c \u0432\u0435\u043a\u0435. \u0420\u0430\u0441\u0441\u043a\u0430\u0437\u044b\u0432\u0430\u0435\u043c, \u043a\u0430\u043a \u044d\u0442\u0438 \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u0435 \u0441\u0442\u0430\u043b\u0438 \u043f\u0435\u0440\u0435\u043d\u043e\u0441\u0447\u0438\u043a\u0430\u043c\u0438 \u0441\u043c\u0435\u0440\u0442\u0435\u043b\u044c\u043d\u043e\u0439 \u0438\u043d\u0444\u0435\u043a\u0446\u0438\u0438.",
+      "url": "https://vfokuse.mail.ru/article/uchenyie-ovtsyi-rasprostranili-chumu-v-bronzovom-veke-64830087/",
+      "urlToImage": "https://resizer.mail.ru/p/69d703cc-9e59-5f99-baae-ae931285c18f/AQAGvHRPCLZMkB5qDS1pTKvIih1Sfoeu-7AacrhFcwV2MayO5p9TXxgkScMOQKP6z77YhC1Sl5m2rZDEeBxsHDOUtPc.jpg",
+      "publishedAt": "2025-02-11 14:26:40",
+      "content": ", bioRxiv.org, ( , ) \u00ab\u00bb Yersinia pestis. , .",
+      "retrievedAt": "2025-02-12 19:06:06.208625",
+      "internal_id": "3db802c7037939efa362be626cf75c782711c8a551f612f9fb3a04c690f857b8",
+      "publishedAtLabel": "Feb 11"
+    },
+    {
+      "id": 18132,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Alexander Tin",
+      "title": "U.S. records most whooping cough deaths since 2017",
+      "description": "Pertussis cases are on the rise again, after a dip following the winter holidays.",
+      "url": "https://www.cbsnews.com/news/whooping-cough-deaths-us-most-since-2017/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/10/16/d43556c9-9998-4014-8539-90758c9578f5/thumbnail/1200x630/c598bf2405d9f4e7cc89c22efded2f83/gettyimages-1215119738.jpg?v=c6b5070a57014f3b00753bf0e763f9c3",
+      "publishedAt": "2025-02-11 14:23:00",
+      "content": "The U.S. confirmed at least a dozen deaths from whooping cough last year, according to preliminary figures released this week by the Centers for Disease Control and Prevention. That marks the most fa\u2026 [+4448 chars]",
+      "retrievedAt": "2025-02-12 19:06:01.213403",
+      "internal_id": "fa23e3a492d94bd5edec5347e19e5dac43d4cca1dcff0a07e5d872bd8985ff88",
+      "publishedAtLabel": "Feb 11"
+    },
+    {
+      "id": 18141,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "info-money",
+      "source_name": "InfoMoney",
+      "author": "Marina Verenicz",
+      "title": "OMS: comunica\u00e7\u00e3o com autoridades dos EUA sobre gripe avi\u00e1ria H5N1 \u00e9 um \u201cdesafio\u201d",
+      "description": "Um surto do v\u00edrus H5N1 nos EUA infectou quase 70 pessoas, a maioria trabalhadores agr\u00edcolas, desde abril de 2024 The post OMS: comunica\u00e7\u00e3o com autoridades dos EUA sobre gripe avi\u00e1ria H5N1 \u00e9 um \u201cdesafio\u201d appeared first on InfoMoney.",
+      "url": "https://www.infomoney.com.br/mundo/oms-comunicacao-com-autoridades-dos-eua-sobre-gripe-aviaria-h5n1-e-um-desafio/",
+      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2025/01/Captura-de-tela-2025-01-21-081247.png?quality=70",
+      "publishedAt": "2025-02-11 14:20:01",
+      "content": "Um porta-voz da Organiza\u00e7\u00e3o Mundial da Sa\u00fade disse na ter\u00e7a-feira que a comunica\u00e7\u00e3o sobre gripe avi\u00e1ria se tornou um desafio desde que o presidente Donald Trump anunciou a retirada dos Estados Unidos\u2026 [+1457 chars]",
+      "retrievedAt": "2025-02-12 19:06:03.600588",
+      "internal_id": "b5f35d053bf94acd2443f5ed365ddf06050a73e4727f7d27656d94629fa6660f",
+      "publishedAtLabel": "Feb 11"
+    },
+    {
+      "id": 18148,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Bruna Sales",
+      "title": "Dengue: 1\u00aa morte em 2025 na cidade de SP \u00e9 de uma menina de 11 anos",
+      "description": "A v\u00edtima da doen\u00e7a \u00e9 uma menina de 11 anos, moradora de Ermelino Matarazzo, zona leste de SP. Ela morreu de dengue em 30 de janeiro",
+      "url": "https://www.metropoles.com/sao-paulo/dengue-1a-morte-cidade-sp",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2025/01/28074139/dengue-8.jpg",
+      "publishedAt": "2025-02-11 12:52:18",
+      "content": "S\u00e3o Paulo A Secretaria Municipal da Sa\u00fade (SMS), por meio da Coordenadoria de Vigil\u00e2ncia em Sa\u00fade (Covisa), confirmou a primeira morte por dengue em S\u00e3o Paulo de 2025. A v\u00edtima \u00e9 uma menina de 11 ano\u2026 [+6085 chars]",
+      "retrievedAt": "2025-02-12 19:06:04.103515",
+      "internal_id": "0137f8530b3b2b93acacad6ba4b12940413825537f2caa3b24112b4219fa887a",
+      "publishedAtLabel": "Feb 11"
+    },
+    {
+      "id": 18147,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "info-money",
+      "source_name": "InfoMoney",
+      "author": "Paulo Barros",
+      "title": "Dengue: um ano ap\u00f3s in\u00edcio da imuniza\u00e7\u00e3o, procura por vacina \u00e9 baixa",
+      "description": "Segundo a Sociedade Brasileira de Imuniza\u00e7\u00f5es (SBIm), o imunizante est\u00e1 dispon\u00edvel, atualmente, para um grupo restrito de pessoas The post Dengue: um ano ap\u00f3s in\u00edcio da imuniza\u00e7\u00e3o, procura por vacina \u00e9 baixa appeared first on InfoMoney.",
+      "url": "https://www.infomoney.com.br/saude/dengue-um-ano-apos-inicio-da-imunizacao-procura-por-vacina-e-baixa/",
+      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2024/11/vacina-dengue.jpg?quality=70",
+      "publishedAt": "2025-02-11 12:33:38",
+      "content": "Um ano ap\u00f3s o in\u00edcio da vacina\u00e7\u00e3o contra a dengue no Sistema \u00danico de Sa\u00fade (SUS), a procura pelo imunizante no pa\u00eds est\u00e1 bem abaixo do esperado. De fevereiro de 2024 a janeiro de 2025, 6.370.966 dos\u2026 [+5972 chars]",
+      "retrievedAt": "2025-02-12 19:06:04.082637",
+      "internal_id": "69929238ee65769158ca14482887a4cb8c20ed1b15e320c8300467b210846643",
+      "publishedAtLabel": "Feb 11"
+    },
+    {
+      "id": 18138,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Futura",
+      "author": "la r\u00e9daction, Futura",
+      "title": "Nouvelle souche de la grippe aviaire au Nevada : une transmission interesp\u00e8ces qui inqui\u00e8te les scientifiques",
+      "description": "Une nouvelle souche de la grippe aviaire a \u00e9t\u00e9 d\u00e9tect\u00e9e chez des vaches laiti\u00e8res dans l'\u00c9tat du Nevada et inqui\u00e8te la communaut\u00e9 scientifique. Comment expliquer cette contamination ? Faut-il s\u2019inqui\u00e9ter d\u2019une transmission plus large et quels sont les risques\u2026",
+      "url": "https://www.futura-sciences.com/sante/actualites/grippe-aviaire-nouvelle-souche-grippe-aviaire-nevada-transmission-interespeces-inquiete-scientifiques-119544/",
+      "urlToImage": "https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/8/1/5/8159b85c5d_50226681_grippe-aviaire-vache-lait.jpg",
+      "publishedAt": "2025-02-11 12:19:26",
+      "content": "La grippe aviaire, que l'on associe g\u00e9n\u00e9ralement aux oiseaux, a r\u00e9cemment franchi une nouvelle \u00e9tape inqui\u00e9tante. Aux \u00c9tats-Unis, une seconde souche du virus H5N1virus H5N1 a \u00e9t\u00e9 d\u00e9tect\u00e9e chez des va\u2026 [+2655 chars]",
+      "retrievedAt": "2025-02-12 19:06:03.547531",
+      "internal_id": "21bb641bf3ac871ae3fd9a99ba5ee52cf1057b79c60474d5d7b91ec3323fdddc",
+      "publishedAtLabel": "Feb 11"
+    },
+    {
+      "id": 18136,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Atlanta Journal Constitution",
+      "author": "Allen Siegler",
+      "title": "Georgia health agencies work to contain metro Atlanta measles outbreak",
+      "description": "About 300 people have been exposed to a metro Atlanta measles outbreak that began with an unvaccinated person and spread to two other family members. Here\u2019s what to know.",
+      "url": "https://www.ajc.com/news/health-news/georgia-health-agencies-work-to-contain-metro-atlanta-measles-outbreak/JHQUXW3EFZBJBH4TISMFIOS4AY/",
+      "urlToImage": "https://www.ajc.com/resizer/v2/https%3A%2F%2Fd1fegwn2wjh0cs.cloudfront.net%2F06-27-2020%2Ft_a43c6b35cec14344b62f064283d206cd_name_F27AFE32C0E3499585A1F3DEA5228514.jpg?auth=3fef67a575f190bfaf858320186c8bb0b54763e152b37581fd5cf0e5c8b45f33&width=1200&height=630&smart=true",
+      "publishedAt": "2025-02-11 11:05:02",
+      "content": "As a result of those visits, Francis-Christian and other epidemiologists have identified over 300 people who were exposed to the contagious person. She said residents in over 20 counties have been im\u2026 [+3978 chars]",
+      "retrievedAt": "2025-02-12 19:06:02.332555",
+      "internal_id": "0a8d099afa2b340fc51b9af9efbe3395ac9dc498dd5c2c790de3bbca276d84b5",
+      "publishedAtLabel": "Feb 11"
+    },
+    {
+      "id": 18146,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Paula Felix",
+      "title": "O que a dengue tem a ver com o cora\u00e7\u00e3o?",
+      "description": "Doen\u00e7a \u00e9 vil\u00e3 daqueles que fazem uso cont\u00ednuo de anticoagulantes e antiagregantes -- incluindo aspirina; cardiologista deve ser informado sobre diagn\u00f3stico",
+      "url": "https://veja.abril.com.br/coluna/letra-de-medico/o-que-a-dengue-tem-a-ver-com-o-coracao",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2023/01/GettyImages-611200142-e1709240021521.jpg?quality=70&strip=info&crop=1&resize=1080,565",
+      "publishedAt": "2025-02-11 11:00:36",
+      "content": "Ver\u00e3o: 4 Revistas em casa a partir de 29,90/m\u00eas Doen\u00e7a \u00e9 vil\u00e3 daqueles que fazem uso cont\u00ednuo de anticoagulantes e antiagregantes -- incluindo aspirina; cardiologista deve ser informado sobre diagn\u00f3\u2026 [+4062 chars]",
+      "retrievedAt": "2025-02-12 19:06:04.046861",
+      "internal_id": "3a26ba8cf358934fabaaa1f7604875ac60261316b820cefa0b24b8694f478dfe",
+      "publishedAtLabel": "Feb 11"
+    },
+    {
+      "id": 18133,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Maria Godoy",
+      "title": "As measles cases rise, a new book warns parents not to underestimate the disease",
+      "description": "As childhood vaccinate rates drop in the U.S. outbreaks of measles are rising. In his new book Booster Shots, Dr. Adam Ratner makes the case that this is a bad sign for public health.",
+      "url": "https://www.npr.org/sections/shots-health-news/2025/02/11/nx-s1-5292478/measles-vaccination-kids-health-disease",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2121x1193+0+110/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2b%2Fdf%2Ff8672de444f18a1d91311d244c79%2Fgettyimages-2053751760.jpg",
+      "publishedAt": "2025-02-11 10:00:00",
+      "content": "It's a scourge that has afflicted mankind for more than a thousand years. And it's what keeps Adam Ratner up at night: measles. \"It is the most infectious disease that we know by far much more infec\u2026 [+3301 chars]",
+      "retrievedAt": "2025-02-12 19:06:02.203812",
+      "internal_id": "33321bf762bd2f6c9dbaf00f06ed457dea5487fbd43566e110035da39644768c",
+      "publishedAtLabel": "Feb 11"
+    },
+    {
+      "id": 18149,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "title": "Alerta OPS de mayor riesgo de brotes de dengue",
+      "description": "La Organizaci\u00f3n Panamericana de la Salud (OPS) emiti\u00f3 una alerta epidemiol\u00f3gica por el aumento del riesgo de brotes de dengue en el Continente Americano provocados por el serotipo 3, modalidad que no circul\u00f3 durante m\u00e1s de dos d\u00e9cadas. Los menores de 20 a\u00f1os \u2026",
+      "url": "https://www.jornada.com.mx/2025/02/11/politica/012n3pol",
+      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "publishedAt": "2025-02-11 09:31:28",
+      "content": "Peri\u00f3dico La JornadaMartes 11 de febrero de 2025, p. 12 La Organizaci\u00f3n Panamericana de la Salud (OPS) emiti\u00f3 una alerta epidemiol\u00f3gica por el aumento del riesgo de brotes de dengue en el Continente\u2026 [+2304 chars]",
+      "retrievedAt": "2025-02-12 19:06:04.112531",
+      "internal_id": "e5ef8fff43096f29c41a593269794a3426dfada20813458f1d27b46e556525e3",
+      "publishedAtLabel": "Feb 11"
+    },
+    {
+      "id": 18135,
+      "query": [
+        "measles"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": "Angelica Stabile",
+      "title": "MAHA, RFK Jr. confirmation puts childhood vaccines in spotlight: MMR fact vs fiction",
+      "description": "Fox News medical contributor Dr. Nicole Saphier answers some frequently asked questions regarding the measles, mumps and rubella (MMR) vaccine, covering side effects, autism and more.",
+      "url": "https://www.foxnews.com/health/maha-rfk-jr-confirmation-puts-childhood-vaccines-spotlight-mmr-fact-fiction",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/02/gettyimages-1330119211.jpg",
+      "publishedAt": "2025-02-11 09:30:28",
+      "content": "Amid RFK Jr.s push to improve healthcare as part of the Make America Healthy Again (MAHA) movement, there is a growing focus on vaccine transparency. One of the most common childhood inoculations th\u2026 [+4739 chars]",
+      "retrievedAt": "2025-02-12 19:06:02.304638",
+      "internal_id": "ee67772a31c3784f7574c0c3885cc0c59e7119cc35007adae6ed62ff49185de0",
+      "publishedAtLabel": "Feb 11"
+    },
+    {
+      "id": 18150,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "Fabiola Czubaj",
+      "title": "Dengue: la causa detr\u00e1s de la alerta regional de la OPS sobre posibles epidemias que superar\u00edan la capacidad de respuesta",
+      "description": "El organismo recomend\u00f3 reforzar la vigilancia epidemiol\u00f3gica frente al incremento de la circulaci\u00f3n de un serotipo que aumenta la probabilidad de casos graves",
+      "url": "https://www.lanacion.com.ar/sociedad/dengue-la-causa-detras-de-la-alerta-regional-de-la-ops-sobre-posibles-epidemias-que-superarian-la-nid11022025/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/anuario-la-nacion-2024-fotos-del-dia-sociedadla-7NP2PJWFIVBYROVGXYRPLYE46U.JPG?auth=bb56a455b986c0fe6dc6daf5fe69b5252a70ac3aa8d6fe709bb97fae77aeb5df&width=1200&quality=70&smart=false&height=800",
+      "publishedAt": "2025-02-11 09:00:00",
+      "content": "El incremento de la circulaci\u00f3n de uno de los serotipos del virus del dengue que hab\u00eda dado casos espor\u00e1dicos en los \u00faltimos a\u00f1os en la regi\u00f3n hizo que la Organizaci\u00f3n Panamericana de la Salud (OPS) \u2026 [+5606 chars]",
+      "retrievedAt": "2025-02-12 19:06:04.132985",
+      "internal_id": "229d03ca50f74218f902d12819a060bb0221a6643f80dc27004d24548453f14e",
+      "publishedAtLabel": "Feb 11"
+    },
+    {
+      "id": 18143,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Anlatilaninotesi.com.tr",
+      "author": "Sputnik T\u00fcrkiye",
+      "title": "D1.1 varyant\u0131n\u0131n tehlikesi b\u00fcy\u00fcyor, ABD pandemi alarm\u0131na girdi: Yeni bir kapanma m\u0131 kap\u0131da?",
+      "description": "ABD\u2019nin Nevada eyaletindeki bir s\u00fct s\u0131\u011f\u0131r\u0131 s\u00fcr\u00fcs\u00fcnde, insanlara bula\u015fma riski y\u00fcksek olan yeni bir H5N1 ku\u015f gribi varyant\u0131 tespit edildi. D1.1 genotipine sahip bu vir\u00fcs, insanlarda daha kolay \u00e7o\u011falabilecek mutasyonlar i\u00e7eriyor. Bilim insanlar\u0131, bu durumun yen\u2026",
+      "url": "https://anlatilaninotesi.com.tr/20250211/d11-varyantinin-tehlikesi-buyuyor-abd-pandemi-alarmina-girdi-yeni-bir-kapanma-mi-kapida-1093560322.html",
+      "urlToImage": "https://cdn.img.anlatilaninotesi.com.tr/images/sharing/article/tur/1093560322.jpg?10931271301739259430",
+      "publishedAt": "2025-02-11 07:37:10",
+      "content": "Salk haberleri, salkl beslenme, salkl yaam \u00fczerine her ey https://anlatilaninotesi.com.tr/20250211/d11-varyantinin-tehlikesi-buyuyor-abd-pandemi-alarmina-girdi-yeni-bir-kapanma-mi-kapida-1093560322.\u2026 [+7014 chars]",
+      "retrievedAt": "2025-02-12 19:06:03.652652",
+      "internal_id": "4185844a3ee197dee290c619f0c0753fbbbd612ed824f39cb224735bf00eb20e",
+      "publishedAtLabel": "Feb 11"
+    },
+    {
+      "id": 18142,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Portfolio.hu",
+      "author": "Portfolio.hu",
+      "title": "Kimondt\u00e1k: az 1918-as spanyoln\u00e1th\u00e1hoz hasonl\u00f3 j\u00e1rv\u00e1ny j\u00f6het",
+      "description": "Az Egyes\u00fclt \u00c1llamokban \u00e9s az Egyes\u00fclt Kir\u00e1lys\u00e1gban is megjelent a mad\u00e1rinfluenza \u00faj v\u00e1ltozata, amely m\u00e1r embereket is megfert\u0151z\u00f6tt. B\u00e1r a hat\u00f3s\u00e1gok szerint a hum\u00e1n kock\u00e1zat tov\u00e1bbra is alacsony, a szak\u00e9rt\u0151k agg\u00f3dnak a v\u00edrus terjed\u00e9se \u00e9s esetleges mut\u00e1ci\u00f3ja mi\u2026",
+      "url": "https://www.portfolio.hu/gazdasag/20250211/kimondtak-az-1918-as-spanyolnathahoz-hasonlo-jarvany-johet-740495",
+      "urlToImage": "https://pcdn.hu/articles/images-lg/a/_/t/a-tokeletes-tehen-megteremtesere-adott-penzt-bill-gates-284131.jpg",
+      "publishedAt": "2025-02-11 07:21:00",
+      "content": "Az amerikai j\u00e1rv\u00e1ny\u00fcgyi \u00e9s betegs\u00e9gmegelz\u00e9si k\u00f6zpontok (CDC) febru\u00e1r 10-\u00e9n k\u00f6zz\u00e9tett adatai szerint a H5N1 mad\u00e1rinfluenza \u00faj, D1.1-es genot\u00edpusa 15 embert fertz\u00f6tt meg \u00f6t \u00e1llamban. Nevad\u00e1ban, ahol ez\u2026 [+2101 chars]",
+      "retrievedAt": "2025-02-12 19:06:03.630680",
+      "internal_id": "0a859664ddfd8d5dd6bdbbe1cf28cd1b44d36989cbc8fe7bf72576ff910a3559",
+      "publishedAtLabel": "Feb 11"
+    },
     {
       "id": 18125,
       "query": [
@@ -21687,186 +22065,6 @@
       "retrievedAt": "2024-12-31 07:06:23.062519",
       "internal_id": "0bc71e1789a4d07f5edf705712a5525d9fafec59ac7298e720183fce7eba5a08",
       "publishedAtLabel": "Dec 30"
-    },
-    {
-      "id": 16925,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "PTI",
-      "title": "AB-PMJAY has reduced cancer patients' financial burden significantly: Prime Minister Modi",
-      "description": "Prime Minister Narendra Modi highlights the impact of the Ayushman Bharat Pradhan Mantri Jan Arogya Yojana on reducing cancer patients' financial burden and improving timely cancer treatment. He also underscores the significant reduction in malaria cases and \u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/ab-pmjay-has-reduced-cancer-patients-financial-burden-significantly-prime-minister-modi/articleshow/116773595.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-116773634,width-1200,height-630,imgsize-1176719,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2024-12-29 17:08:42",
-      "content": "The Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (AB-PMJAY) has reduced the cancer patients' financial burden significantly, Prime Minister Narendra Modi said on Sunday. Modi highlighted the achi\u2026 [+2619 chars]",
-      "retrievedAt": "2024-12-30 19:05:34.438835",
-      "internal_id": "e229a8cdaccdbf44b9c346c41bb50e05d4373547b8f017853329cc645773464f",
-      "publishedAtLabel": "Dec 29"
-    },
-    {
-      "id": 16923,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Abril.com.br",
-      "author": "Hugo C\u00e9sar Marques",
-      "title": "Os recordes negativos do governo Lula em 2024",
-      "description": "Mortes por dengue, queimadas, alta do d\u00f3lar, desaprova\u00e7\u00e3o e finan\u00e7as das estatais lideram o rol de maus resultados da administra\u00e7\u00e3o petista",
-      "url": "https://veja.abril.com.br/brasil/os-recordes-negativos-do-governo-lula-em-2024",
-      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2024/09/54020044888_4ae7db6d8e_6k.jpg?quality=70&strip=info&crop=1&resize=1080,565",
-      "publishedAt": "2024-12-29 16:14:06",
-      "content": "\u00daltima Semana: Assine a partir de 1,50/semanaO presidente Luiz In\u00e1cio Lula da Silva, durante o evento Em defesa da democracia, combatendo os extremismos, na Sede das Na\u00e7\u00f5es Unidas, em Nova Iorque - \u2026 [+2111 chars]",
-      "retrievedAt": "2024-12-30 19:05:33.928792",
-      "internal_id": "01ccc77daeb09ee31f548fa68c18356f20a2268d54f3c6b4444cbd1a2c491dea",
-      "publishedAtLabel": "Dec 29"
-    },
-    {
-      "id": 16924,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Www.nzz.ch",
-      "author": "Anna Weber (wea)",
-      "title": "Doch keine mysteri\u00f6se \u00abKrankheit X\u00bb in Kongo-Kinshasa: Unterern\u00e4hrung macht Malaria und Erk\u00e4ltungen zu Killern",
-      "description": "Die Weltgesundheitsorganisation hat in Proben von Betroffenen keine neuen Erreger gefunden. Stattdessen treffen altbekannte Viren auf ein geschw\u00e4chtes Immunsystem. Das bedroht vor allem kleine Kinder.",
-      "url": "https://www.nzz.ch/wissenschaft/keine-krankheit-x-im-kongo-unterernaehrung-als-wahre-ursache-ld.1864272",
-      "urlToImage": "https://img.nzz.ch/2024/12/29/28f22673-2de4-4eb3-aff6-608954ac4a6f.jpeg?width=832&height=468&fit=bounds&quality=75&auto=webp&crop=832,468,x4,y0",
-      "publishedAt": "2024-12-29 15:36:29",
-      "content": "Viele Krankenh\u00e4user in der Region Panzi in Kongo-Kinshasa haben nicht genug Personal und Ressourcen, um alle Patienten angemessen zu versorgen. Erk\u00e4ltungssymptome, stark ansteigende Fallzahlen und D\u2026 [+4125 chars]",
-      "retrievedAt": "2024-12-30 19:05:34.360815",
-      "internal_id": "bb9524cb390837c786d15f125b651be702a8b76cc9c922f2dc86e184433428bf",
-      "publishedAtLabel": "Dec 29"
-    },
-    {
-      "id": 16918,
-      "query": [
-        "hpai"
-      ],
-      "source_id": null,
-      "source_name": "Everyeye.it",
-      "author": "Giuseppe Occhiuto",
-      "title": "Il primo caso di influenza aviaria mostra i segni di una mutazione: c'\u00e8 da preoccuparsi?",
-      "description": "A quanto pare il virus dell'influenza aviaria sta cambiando negli esseri umani. C'\u00e8 realmente da preoccuparsi? Facciamo il puntoIl primo paziente con la \"Highly Pathogenic Avian Influenza\" (HPAI), ovvero l'influenza aviaria che fa preoccupare milioni di perso\u2026",
-      "url": "https://tech.everyeye.it/notizie/caso-influenza-aviaria-mostra-segni-mutazione-e-preoccuparsi-767704.html",
-      "urlToImage": "https://images.everyeye.it/img-notizie/il-caso-influenza-aviaria-mostra-segni-mutazione-c-E-preoccuparsi-v4-767704.jpg",
-      "publishedAt": "2024-12-29 15:36:00",
-      "content": "Il primo paziente con la \"Highly Pathogenic Avian Influenza\" (HPAI), ovvero l'influenza aviaria che fa preoccupare milioni di persone, mostra l'esistenza di mutazioni che influenzano la capacit\u00e0 del \u2026 [+2164 chars]",
-      "retrievedAt": "2024-12-30 19:05:33.011249",
-      "internal_id": "93384229609d04c1da2584dfe7402b0b85649c700ff306aa595b4d3921c8a153",
-      "publishedAtLabel": "Dec 29"
-    },
-    {
-      "id": 16920,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Naked-science.ru",
-      "author": "\u041b\u044e\u0431\u043e\u0432\u044c",
-      "title": "\u0410\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0438\u0445 \u043a\u043e\u0448\u0435\u043a \u043f\u043e\u0440\u0430\u0437\u0438\u043b \u043d\u043e\u0432\u044b\u0439 \u0448\u0442\u0430\u043c\u043c \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430",
-      "description": "\u0417\u0430 \u0434\u0432\u0430 \u0441 \u043f\u043e\u043b\u043e\u0432\u0438\u043d\u043e\u0439 \u0433\u043e\u0434\u0430 \u0432\u0438\u0440\u0443\u0441 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430 H5N1 \u043f\u043e\u0433\u0443\u0431\u0438\u043b \u0431\u043e\u043b\u0435\u0435 100 \u043c\u0438\u043b\u043b\u0438\u043e\u043d\u043e\u0432 \u043f\u0435\u0440\u043d\u0430\u0442\u044b\u0445 \u043d\u0430 \u043f\u0442\u0438\u0446\u0435\u0444\u0430\u0431\u0440\u0438\u043a\u0430\u0445 \u0421\u0428\u0410. \u0415\u0433\u043e \u043f\u0435\u0440\u0435\u043d\u043e\u0441\u0447\u0438\u043a\u0430\u043c\u0438, \u043a\u0430\u043a \u043e\u043a\u0430\u0437\u0430\u043b\u043e\u0441\u044c, \u043c\u043e\u0433\u0443\u0442 \u0441\u0442\u0430\u0442\u044c \u0434\u043e\u043c\u0430\u0448\u043d\u0438\u0435 \u043a\u043e\u0448\u043a\u0438: \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u044b \u043d\u043e\u0432\u043e\u0433\u043e \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u044f \u043f\u043e\u043a\u0430\u0437\u0430\u043b\u0438, \u0447\u0442\u043e \u043c\u0443\u0442\u0430\u0446\u0438\u0438 \u0443 \u044d\u0442\u0438\u0445 \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u0445 \u0437\u043d\u0430\u0447\u0438\u0442\u0435\u043b\u044c\u043d\u043e \u043f\u043e\u0432\u044b\u0448\u0430\u2026",
-      "url": "https://naked-science.ru/article/medicine/amerikanskih-koshek-poraz",
-      "urlToImage": "https://naked-science.ru/wp-content/uploads/2024/12/cat_bird-1200x675.jpeg",
-      "publishedAt": "2024-12-29 13:28:53",
-      "content": "H5N1 100 . , , : , \u00ab\u00bb \u00ab\u00bb () . , , , : 2024 () H5N1 10 . . , . , . Taylor and Francis. , . , , . (Suresh V. Kuchipudi) () , , , , , . . , , (HA) T143A , \u00ab\u00bb . F314L L342Q PA (), ( ). \u2026 [+119 chars]",
-      "retrievedAt": "2024-12-30 19:05:33.588756",
-      "internal_id": "347553ed5c7feec811e40aff2352e35621b8d43953dc6ea0f7e5887abf7bc222",
-      "publishedAtLabel": "Dec 29"
-    },
-    {
-      "id": 16922,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Mail.ru",
-      "author": "\u0420\u0430\u043c\u0438\u043b\u044f \u0413\u0430\u043b\u0438\u043c\u0437\u044f\u043d\u043e\u0432\u0430",
-      "title": "\u041c\u0430\u0440\u0431\u0443\u0440\u0433, \u041a\u043e\u043a\u0441\u0430\u043a\u0438 \u0438 \u0410\u043b\u044f\u0441\u043a\u0430\u043f\u043e\u043a\u0441: \u043a\u0430\u043a\u0438\u0435 \u0432\u0438\u0440\u0443\u0441\u044b \u0431\u0443\u0448\u0435\u0432\u0430\u043b\u0438 \u0432 2024",
-      "description": "\u041e\u043d\u0438 \u043c\u043e\u0433\u043b\u0438 \u043f\u0435\u0440\u0435\u0440\u0430\u0441\u0442\u0438 \u0432 \u044d\u043f\u0438\u0434\u0435\u043c\u0438\u044e, \u043d\u043e \u044d\u0442\u043e\u0433\u043e \u043d\u0435 \u0441\u043b\u0443\u0447\u0438\u043b\u043e\u0441\u044c.",
-      "url": "https://vfokuse.mail.ru/article/marburg-koksaki-i-alyaskapoks-kakie-virusy-bushevali-v-2024-64280393/",
-      "urlToImage": "https://resizer.mail.ru/p/68346929-235c-56b5-ab4f-8ed04163ca45/op:15/logo:bottom:vfokuse.png/AQAGLw0YIawdOncjk_0oAufl-pIHYgLdRYhe0Op79kH3AKXFZDfAoUaKgC9L5hcI9N3iFKoHg-YLI516VIWkT4-y2MQ.jpg",
-      "publishedAt": "2024-12-29 13:16:28",
-      "content": ". , \u00ab\u00bb . COVID-19, , . , 2024 , Life. 2024 - (H5N1). . 14 , . . 18 \u2014 . 2021 H5N1 280 . \u2014 . 2024 \u2014 30 . , . 2024 , COVID-19, , . \u2026 [+954 chars]",
-      "retrievedAt": "2024-12-30 19:05:33.678135",
-      "internal_id": "b6849393f197386f30de07cd87570a63fb8747e0bb3bb9dca759742ac39cc5bb",
-      "publishedAtLabel": "Dec 29"
-    },
-    {
-      "id": 16928,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "der-tagesspiegel",
-      "source_name": "Der Tagesspiegel",
-      "author": "Sascha Karberg",
-      "title": "Schwerer Vogelgrippe-Fall beim Menschen: US-Seuchenbeh\u00f6rde findet gef\u00e4hrliche Mutationen",
-      "description": "Mindestens 65 Menschen haben sich in den USA in den vergangenen Monaten \u00fcber infiziertes Gefl\u00fcgel oder Milchk\u00fche mit H5N1-Viren angesteckt. Aber nur einer erkrankte schwer. Jetzt wurde das Viruserbgut analysiert.",
-      "url": "https://www.tagesspiegel.de/wissen/schwerer-vogelgrippe-fall-beim-menschen-us-seuchenbehorde-findet-gefahrliche-mutationen-12938302.html",
-      "urlToImage": "https://www.tagesspiegel.de/images/6647143/alternates/BASE_16_9_W1400/1658762868000/fouchier1hr.jpeg",
-      "publishedAt": "2024-12-29 13:08:25",
-      "content": "Kurz vor Weihnachten hatte die US-Seuchenbeh\u00f6rde CDC best\u00e4tigt, dass im Bundesstaat Louisiana eine Person au\u00dfergew\u00f6hnlich schwer an Vogelgrippe (H5N1) erkrankt war. Offenbar hatte sich die nicht n\u00e4he\u2026 [+5558 chars]",
-      "retrievedAt": "2024-12-31 07:06:23.171572",
-      "internal_id": "133209a677e813512703bda2a7664ec17442e3ee10264fd829f914e2b62ef904",
-      "publishedAtLabel": "Dec 29"
-    },
-    {
-      "id": 16919,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "REVOLT TV",
-      "author": "Angelina Velasquez",
-      "title": "Health expert warns bird flu may become a pandemic like COVID-19",
-      "description": "A medical expert who helped lead America\u2019s COVID-19 response has warned that the ongoing bird flu (H5N1) epidemic can evolve into a pandemic if greater...",
-      "url": "https://www.revolt.tv/article/former-white-house-health-expert-warns-bird-flu-has-potential-to-become-pandemic",
-      "urlToImage": "https://media.zenfs.com/en/revolt_articles_463/9beff138051b8dbc792fba12a4fa6f00",
-      "publishedAt": "2024-12-29 12:05:41",
-      "content": "Yahoo is using AI to generate takeaways from this article. This means the info may not always match what's in the article. Reporting mistakes helps us improve the experience.Generate Key Takeaways A\u2026 [+2651 chars]",
-      "retrievedAt": "2024-12-30 19:05:33.538288",
-      "internal_id": "b5a153d5aba5f4bc8716df9f015f1151ec9e6f380af6d709ba5ee5283eee80fd",
-      "publishedAtLabel": "Dec 29"
-    },
-    {
-      "id": 16921,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "cnn",
-      "source_name": "CNN",
-      "author": "CNN \u0628\u0627\u0644\u0639\u0631\u0628\u064a\u0629",
-      "title": "\u0637\u0641\u0631\u0629 \u062c\u062f\u064a\u062f\u0629 \u062a\u062b\u064a\u0631 \u0627\u0644\u0642\u0644\u0642.. \u0625\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u0637\u064a\u0648\u0631 \u062a\u0633\u062a\u0647\u062f\u0641 \u062e\u0644\u0627\u064a\u0627 \u0627\u0644\u062a\u0646\u0641\u0633 \u0644\u062f\u0649 \u0627\u0644\u0628\u0634\u0631",
-      "description": "\u0623\u062b\u0627\u0631\u062a \u0637\u0641\u0631\u0629 \u062c\u062f\u064a\u062f\u0629 \u0638\u0647\u0631\u062a \u0644\u062f\u0649 \u0645\u0631\u064a\u0636 \u0641\u064a \u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629 \u0623\u0635\u064a\u0628 \u0628\u0641\u064a\u0631\u0648\u0633 \u0625\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u0637\u064a\u0648\u0631 H5N1 \u0627\u0644\u0642\u0644\u0642 \u0644\u062f\u0649 \u0645\u0633\u0624\u0648\u0644\u064a \u0627\u0644\u0635\u062d\u0629 \u0641\u064a \u0627\u0644\u0628\u0644\u0627\u062f\u060c \u062d\u064a\u062b \u0648\u064f\u062c\u062f \u0623\u0646 \u0627\u0644\u0641\u064a\u0631\u0648\u0633 \u062a\u062d\u0648\u0631 \u0628\u0637\u0631\u064a\u0642\u0629 \u062a\u062c\u0639\u0644 \u0645\u0646 \u0627\u0644\u0633\u0647\u0644 \u0625\u0635\u0627\u0628\u0629 \u0627\u0644\u062e\u0644\u0627\u064a\u0627 \u0627\u0644\u0628\u0634\u0631\u064a\u0629 \u0641\u064a \u0627\u0644\u062c\u0647\u0627\u0632 \u0627\u0644\u062a\u0646\u0641\u0633\u064a \u0627\u0644\u0639\u0644\u0648\u064a \u0644\u062f\u0649 \u0627\u0644\u0628\u0634\u0631 \u0628\u0625\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u0637\u064a\u0648\u0631\u060c \u0648\u0630\u0644\u0643 \u0628\u0639\u062f \u062a\u062d\u0644\u064a\u0644 \u0645\u0631\u0643\u0632 \u2026",
-      "url": "https://arabic.cnn.com/science-and-health/video/2024/12/29/v167569-bird-flu-mutates-to-target-human-respiratory-cells",
-      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2024/12/28/images/286314.jpg",
-      "publishedAt": "2024-12-29 09:07:51",
-      "content": "",
-      "retrievedAt": "2024-12-30 19:05:33.649350",
-      "internal_id": "85e1ea9182b904f4972e990f139beb5db74832a28dbf56cb43807c12e11b3dcb",
-      "publishedAtLabel": "Dec 29"
-    },
-    {
-      "id": 16926,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "N-tv.de",
-      "author": "Hedviga Nyarsik",
-      "title": "WHO-Liste des Grauens: Die gef\u00e4hrlichsten Erreger, gegen die es keine Impfung gibt",
-      "description": "Ob HIV, Malaria oder multiresistente Keime: Gegen viele Erreger gibt es noch keinen wirksamen Impfstoff. Sie verursachen daher immer wieder Infektionen und Ausbr\u00fcche, gegen die nur wenig unternommen werden kann. Die WHO listet nun die 17 gef\u00e4hrlichsten dieser\u2026",
-      "url": "https://www.n-tv.de/mediathek/bilderserien/wissen/Die-gefaehrlichsten-Erreger-gegen-die-es-keine-Impfung-gibt-article25374966.html",
-      "urlToImage": "https://bilder2.n-tv.de/img/incoming/crop25375481/1381327620-cImg_16_9-w1200/imago775347209.jpg",
-      "publishedAt": "2024-12-29 07:55:54",
-      "content": "Neben den vier Pathogenen ohne Impfschutz listet die WHO noch weitere Infektionskrankheiten auf, gegen die es zwar bereits Impfstoffe gibt, die aber nicht ausgereift sind, zu wenig wirken oder nicht \u2026 [+31 chars]",
-      "retrievedAt": "2024-12-30 19:05:34.496423",
-      "internal_id": "b0d655e4e8f559fb62e8d9dabed9acc7bbd58a9a6396fa9f2944b0c583498787",
-      "publishedAtLabel": "Dec 29"
     }
   ]
 }

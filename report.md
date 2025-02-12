@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 17
-- **Last harvest:** 2025-02-12 07:06
-- **Most recent article:** 2025-02-11 06:45:08
+- **New articles in last harvest:** 21
+- **Last harvest:** 2025-02-12 19:06
+- **Most recent article:** 2025-02-11 18:56:23
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-53 | 25-1 | 25-2 | 25-3 | 25-4 | 25-5 | 25-6 | 25-7 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| h5n1 | 27 | 27 | 131 | 65 | 31 | 51 | 72 | 17 | 421 |
+| h5n1 | 22 | 27 | 131 | 65 | 31 | 51 | 72 | 25 | 424 |
 | mpox | 2 | 6 | 91 | 34 | 23 | 22 | 28 | 1 | 207 |
-| dengue | 5 | 12 | 41 | 29 | 37 | 24 | 34 | 3 | 185 |
-| malaria | 15 | 10 | 30 | 18 | 19 | 30 | 25 | 2 | 149 |
-| measles | 3 | 6 | 6 | 9 | 10 | 13 | 24 | 18 | 89 |
-| hpai | 1 | 4 | 18 | 12 | 11 | 6 | 3 | 2 | 57 |
+| dengue | 4 | 12 | 41 | 29 | 37 | 24 | 34 | 9 | 190 |
+| malaria | 12 | 10 | 30 | 18 | 19 | 30 | 25 | 2 | 146 |
+| measles | 3 | 6 | 6 | 9 | 10 | 13 | 24 | 22 | 93 |
+| hpai | 0 | 4 | 18 | 12 | 11 | 6 | 3 | 2 | 56 |
 | chikungunya | 2 | 0 | 7 | 7 | 10 | 9 | 8 | 0 | 43 |
 | zika | 0 | 0 | 15 | 5 | 2 | 8 | 6 | 1 | 37 |
 | rabies | 1 | 1 | 2 | 6 | 7 | 6 | 4 | 2 | 29 |
-| meningitis | 1 | 2 | 0 | 2 | 3 | 8 | 2 | 1 | 19 |
-| pertussis | 0 | 1 | 2 | 0 | 1 | 0 | 3 | 1 | 8 |
+| meningitis | 1 | 2 | 0 | 2 | 3 | 8 | 2 | 2 | 20 |
+| pertussis | 0 | 1 | 2 | 0 | 1 | 0 | 3 | 2 | 9 |
+| yersinia | 0 | 0 | 3 | 2 | 0 | 0 | 0 | 2 | 7 |
 | typhoid | 0 | 0 | 0 | 4 | 0 | 0 | 2 | 1 | 7 |
-| yersinia | 0 | 0 | 3 | 2 | 0 | 0 | 0 | 1 | 6 |
 | leptospirosis | 0 | 0 | 0 | 1 | 2 | 0 | 1 | 0 | 4 |
 
 
@@ -37,6 +37,8 @@ Source: [News API](https://newsapi.org/)
 - [Descubren que un fármaco anticancerígeno actúa contra varios virus](https://www.montevideo.com.uy/Salud/Descubren-que-un-farmaco-anticancerigeno-actua-contra-varios-virus-uc914573) (Montevideo.com.uy)
 
 ## 25-7 (yersinia)
+
+- [Ученые: овцы распространили чуму в бронзовом веке](https://vfokuse.mail.ru/article/uchenyie-ovtsyi-rasprostranili-chumu-v-bronzovom-veke-64830087/) (Mail.ru)
 
 - [Овцы стали резервуаром распространения чумы в бронзовом веке](https://naked-science.ru/article/biology/ovtsy-stali-rezervuarom) (Naked-science.ru)
 
@@ -52,6 +54,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-7 (pertussis)
 
+- [U.S. records most whooping cough deaths since 2017](https://www.cbsnews.com/news/whooping-cough-deaths-us-most-since-2017/) (CBS News)
+
 - [Brutális sebességgel terjed a fertőzés Magyarországon, amibe tavaly 5 csecsemő halt bele](https://www.portfolio.hu/gazdasag/20250210/brutalis-sebesseggel-terjed-a-fertozes-magyarorszagon-amibe-tavaly-5-csecsemo-halt-bele-740351) (Portfolio.hu)
 
 ## 25-7 (mpox)
@@ -60,9 +64,19 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-7 (meningitis)
 
+- [Parliament summons Health Minister over cholera and meningitis outbreak - Adomonline.com](https://www.adomonline.com/parliament-summons-health-minister-over-cholera-and-meningitis-outbreak/) (Adomonline.com)
+
 - [Impact of cerebrospinal fluid leukocyte infiltration and activated neuroimmune mediators on survival with HIV-associated cryptococcal meningitis](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012873) (Plos.org)
 
 ## 25-7 (measles)
+
+- [15 cases of measles reported in small West Texas county with high rate of vaccine exemptions](https://www.pbs.org/newshour/health/15-cases-of-measles-reported-in-small-west-texas-county-with-high-rate-of-vaccine-exemptions) (PBS)
+
+- [Georgia health agencies work to contain metro Atlanta measles outbreak](https://www.ajc.com/news/health-news/georgia-health-agencies-work-to-contain-metro-atlanta-measles-outbreak/JHQUXW3EFZBJBH4TISMFIOS4AY/) (Atlanta Journal Constitution)
+
+- [As measles cases rise, a new book warns parents not to underestimate the disease](https://www.npr.org/sections/shots-health-news/2025/02/11/nx-s1-5292478/measles-vaccination-kids-health-disease) (NPR)
+
+- [MAHA, RFK Jr. confirmation puts childhood vaccines in spotlight: MMR fact vs fiction](https://www.foxnews.com/health/maha-rfk-jr-confirmation-puts-childhood-vaccines-spotlight-mmr-fact-fiction) (Fox News)
 
 - [Measles, polio outbreaks could reemerge as vaccination rates fall](https://www.cbsnews.com/news/vaccination-rate-decline-measles-polio-outbreaks/) (CBS News)
 
@@ -114,6 +128,22 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-7 (h5n1)
 
+- [Bosnia raportează gripă aviară H5N1 la o fermă avicolă](https://www.mediafax.ro/externe/bosnia-raporteaza-gripa-aviara-h5n1-la-o-ferma-avicola-22690277) (Mediafax.ro)
+
+- [A Second Type of H5N1 Bird Flu Jumped From Cows to Humans](https://gizmodo.com/a-second-type-of-h5n1-bird-flu-jumped-from-cows-to-humans-2000562290) (Gizmodo.com)
+
+- [Trader Joe’s, Costco place limit on egg purchases amid shortage](https://www.wftv.com/news/trending/trader-joes-costco-place-limit-egg-purchases-amid-shortage/XTXITSQW6NHMBNQCPXAVXR66GE/) (WFTV Orlando)
+
+- [OMS dice que la comunicación con las autoridades de EU sobre la gripe aviar H5N1 es un ‘reto’](https://forbes.com.mx/oms-dice-que-la-comunicacion-con-las-autoridades-de-eu-sobre-la-gripe-aviar-h5n1-es-un-reto/) (Forbes.com.mx)
+
+- [OMS: comunicação com autoridades dos EUA sobre gripe aviária H5N1 é um “desafio”](https://www.infomoney.com.br/mundo/oms-comunicacao-com-autoridades-dos-eua-sobre-gripe-aviaria-h5n1-e-um-desafio/) (InfoMoney)
+
+- [Nouvelle souche de la grippe aviaire au Nevada : une transmission interespèces qui inquiète les scientifiques](https://www.futura-sciences.com/sante/actualites/grippe-aviaire-nouvelle-souche-grippe-aviaire-nevada-transmission-interespeces-inquiete-scientifiques-119544/) (Futura)
+
+- [D1.1 varyantının tehlikesi büyüyor, ABD pandemi alarmına girdi: Yeni bir kapanma mı kapıda?](https://anlatilaninotesi.com.tr/20250211/d11-varyantinin-tehlikesi-buyuyor-abd-pandemi-alarmina-girdi-yeni-bir-kapanma-mi-kapida-1093560322.html) (Anlatilaninotesi.com.tr)
+
+- [Kimondták: az 1918-as spanyolnáthához hasonló járvány jöhet](https://www.portfolio.hu/gazdasag/20250211/kimondtak-az-1918-as-spanyolnathahoz-hasonlo-jarvany-johet-740495) (Portfolio.hu)
+
 - [Bird Flu Map Update as Nevada's First Human Case Is Detected](https://www.newsweek.com/nevada-bird-flu-human-case-avian-influenza-h5n1-2029088) (Newsweek)
 
 - [Gatos domésticos con gripe aviar podrían ser un riesgo para la salud pública](https://kffhealthnews.org/news/article/gatos-domesticos-con-gripe-aviar-podrian-ser-un-riesgo-para-la-salud-publica/) (Kffhealthnews.org)
@@ -149,6 +179,18 @@ Source: [News API](https://newsapi.org/)
 - [Zamykają targi, wybijają zakażone zwierzęta. Ptasia grypa rozprzestrzenia się w Nowym Jorku](https://tvn24.pl/tvnmeteo/swiat/zamykaja-targi-wybijaja-zakazone-zwierzeta-ptasia-grypa-rozprzestrzenia-sie-w-nowym-jorku-st8298168) (Tvn24.pl)
 
 ## 25-7 (dengue)
+
+- [Alerta de novo surto de dengue no Brasil e outros países da América](https://olhardigital.com.br/2025/02/11/medicina-e-saude/alerta-de-novo-surto-de-dengue-no-brasil-e-outros-paises-da-america/) (Olhardigital.com.br)
+
+- [Dengue: 1ª morte em 2025 na cidade de SP é de uma menina de 11 anos](https://www.metropoles.com/sao-paulo/dengue-1a-morte-cidade-sp) (Metropoles.com)
+
+- [Dengue: um ano após início da imunização, procura por vacina é baixa](https://www.infomoney.com.br/saude/dengue-um-ano-apos-inicio-da-imunizacao-procura-por-vacina-e-baixa/) (InfoMoney)
+
+- [O que a dengue tem a ver com o coração?](https://veja.abril.com.br/coluna/letra-de-medico/o-que-a-dengue-tem-a-ver-com-o-coracao) (Abril.com.br)
+
+- [Alerta OPS de mayor riesgo de brotes de dengue](https://www.jornada.com.mx/2025/02/11/politica/012n3pol) (Jornada.com.mx)
+
+- [Dengue: la causa detrás de la alerta regional de la OPS sobre posibles epidemias que superarían la capacidad de respuesta](https://www.lanacion.com.ar/sociedad/dengue-la-causa-detras-de-la-alerta-regional-de-la-ops-sobre-posibles-epidemias-que-superarian-la-nid11022025/) (La Nacion)
 
 - [Criança entre 10 e 14 anos é a primeira morte por dengue registrada na cidade de São Paulo](https://valor.globo.com/brasil/noticia/2025/02/10/criana-entre-10-e-14-anos-a-primeira-morte-por-dengue-registrada-na-cidade-de-so-paulo.ghtml) (Globo)
 
@@ -2648,16 +2690,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Pakar Ungkap Potensi Ancaman Kesehatan Utama di 2025, Ada Malaria hingga Masalah Mental](https://www.liputan6.com/health/read/5856603/pakar-ungkap-potensi-ancaman-kesehatan-utama-di-2025-ada-malaria-hingga-masalah-mental) (Liputan6.com)
 
-- [AB-PMJAY has reduced cancer patients' financial burden significantly: Prime Minister Modi](https://economictimes.indiatimes.com/news/india/ab-pmjay-has-reduced-cancer-patients-financial-burden-significantly-prime-minister-modi/articleshow/116773595.cms) (The Times of India)
-
-- [Doch keine mysteriöse «Krankheit X» in Kongo-Kinshasa: Unterernährung macht Malaria und Erkältungen zu Killern](https://www.nzz.ch/wissenschaft/keine-krankheit-x-im-kongo-unterernaehrung-als-wahre-ursache-ld.1864272) (Www.nzz.ch)
-
-- [WHO-Liste des Grauens: Die gefährlichsten Erreger, gegen die es keine Impfung gibt](https://www.n-tv.de/mediathek/bilderserien/wissen/Die-gefaehrlichsten-Erreger-gegen-die-es-keine-Impfung-gibt-article25374966.html) (N-tv.de)
-
-## 24-53 (hpai)
-
-- [Il primo caso di influenza aviaria mostra i segni di una mutazione: c'è da preoccuparsi?](https://tech.everyeye.it/notizie/caso-influenza-aviaria-mostra-segni-mutazione-e-preoccuparsi-767704.html) (Everyeye.it)
-
 ## 24-53 (h5n1)
 
 - [As pace and severity of human H5N1 cases accelerate, NIH leaders call for more action on bird flu | CNN](https://www.cnn.com/2024/12/31/health/human-h5n1-bird-flu-cases/index.html) (CNN)
@@ -2704,16 +2736,6 @@ Source: [News API](https://newsapi.org/)
 
 - [طفرة فريدة من نوعها لفيروس انفلونزا الطيور يكتشفها أطباء في لوس أنجلوس.. بِمَ يُنبئنا ذلك؟](https://arabic.cnn.com/science-and-health/video/2024/12/30/v167548-bird-flu-mutation) (CNN)
 
-- [Американских кошек поразил новый штамм птичьего гриппа](https://naked-science.ru/article/medicine/amerikanskih-koshek-poraz) (Naked-science.ru)
-
-- [Марбург, Коксаки и Аляскапокс: какие вирусы бушевали в 2024](https://vfokuse.mail.ru/article/marburg-koksaki-i-alyaskapoks-kakie-virusy-bushevali-v-2024-64280393/) (Mail.ru)
-
-- [Schwerer Vogelgrippe-Fall beim Menschen: US-Seuchenbehörde findet gefährliche Mutationen](https://www.tagesspiegel.de/wissen/schwerer-vogelgrippe-fall-beim-menschen-us-seuchenbehorde-findet-gefahrliche-mutationen-12938302.html) (Der Tagesspiegel)
-
-- [Health expert warns bird flu may become a pandemic like COVID-19](https://www.revolt.tv/article/former-white-house-health-expert-warns-bird-flu-has-potential-to-become-pandemic) (REVOLT TV)
-
-- [طفرة جديدة تثير القلق.. إنفلونزا الطيور تستهدف خلايا التنفس لدى البشر](https://arabic.cnn.com/science-and-health/video/2024/12/29/v167569-bird-flu-mutates-to-target-human-respiratory-cells) (CNN)
-
 ## 24-53 (dengue)
 
 - [Bangladesh records 575 dengue deaths in 2024](https://www.thestar.com.my/news/world/2025/01/01/bangladesh-records-575-dengue-deaths-in-2024) (The Star Online)
@@ -2723,8 +2745,6 @@ Source: [News API](https://newsapi.org/)
 - [Japanese encephalitis: Summer's first case of mosquito-borne virus detected in Victorian](https://thenightly.com.au/society/health/japanese-encephalitis-summers-first-case-of-mosquito-borne-virus-detected-in-victorian-c-17244120) (Thenightly.com.au)
 
 - [Summer's first case of mosquito-borne Japanese encephalitis detected in Victoria](https://7news.com.au/news/summers-first-case-of-mosquito-borne-japanese-encephalitis-detected-in-victoria-c-17244123) (7NEWS.com.au)
-
-- [Os recordes negativos do governo Lula em 2024](https://veja.abril.com.br/brasil/os-recordes-negativos-do-governo-lula-em-2024) (Abril.com.br)
 
 ## 24-53 (chikungunya)
 
