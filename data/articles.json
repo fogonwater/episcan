@@ -1,8 +1,296 @@
 {
-  "last_updated": "2025-02-11 19:05",
-  "count_articles_total": 1185,
+  "last_updated": "2025-02-12 07:06",
+  "count_articles_total": 1212,
   "count_articles_new": 17,
   "articles": [
+    {
+      "id": 18125,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Technews.tw",
+      "author": "MoneyDJ",
+      "title": "\u79bd\u6d41\u611f\u767c\u5a01\u3001\u7f8e\u96de\u86cb\u6279\u767c\u50f9\u66b4\u6f32 \u9910\u5ef3\u9806\u52e2\u6f32\u50f9",
+      "description": "\u53d7\u79bd\u6d41\u611f\u75ab\u60c5\u5f71\u97ff\uff0c\u7f8e\u570b\u96de\u86cb\u50f9\u683c\u8fd1\u4f86\u4e0d\u65b7\u98c6\u5347\uff0c\u96de\u86cb\u6279\u767c\u50f9\u8e8d\u5347\u81f3\u9060\u9ad8\u65bc\u5148\u524d\u7d00\u9304\u7684\u6c34\u5e73\uff0c\u9910\u5ef3\u4e5f\u9806\u52e2\u6f32\u50f9\uff0c\u6d88\u8cbb\u8005\u77ed\u671f\u5167\u52e2\u5fc5\u611f\u53d7\u5230\u66f4\u660e\u986f\u885d\u64ca\uff1b\u9019\u4e5f\u5c07\u8003\u9a57\u65b0\u4efb\u7e3d\u7d71\u5ddd\u666e\u6291\u5236\u98df\u54c1\u901a\u81a8\u7684\u96c4\u5fc3\u3002 CNBC\u5831\u5c0e\uff0c\u7814\u8abf\u6a5f\u69cbExpana\u8ffd\u8e64\u7684\u6578\u64da\u986f\u793a\uff0c\u7f8e\u570b\u767d\u6bbc\u96de\u86cb\u7684\u5e73\u5747\u6279\u767c\u50f9\u4e0a\u9031\u4e94\uff087\u65e5\uff09\u98c6\u5347\u81f3\u6bcf\u62538\u7f8e\u5143\uff0c\u9060\u9ad8\u65bc2022\u5e741...",
+      "url": "https://finance.technews.tw/2025/02/11/personal-finance-wholesale-egg-prices-have-blown-way-past-record-highs/",
+      "urlToImage": "https://img.technews.tw/wp-content/uploads/2023/05/25120237/egg-g02ff9f22a_1280.jpg",
+      "publishedAt": "2025-02-11 06:45:08",
+      "content": "CNBCExpana782022125.46 CPIA65%4.15 HPAI Advanced Economic SolutionsAmy Smith20244,00013%2,20015~16%3~4 Waffle House50 1 MoneyDJpixabay",
+      "retrievedAt": "2025-02-12 07:06:36.054714",
+      "internal_id": "36b6b289487967336afce4c48837f21cbe58397892572c28dd23398a4b0e022c",
+      "publishedAtLabel": "Feb 11"
+    },
+    {
+      "id": 18117,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Manuel Bojorquez",
+      "title": "Measles, polio outbreaks could reemerge as vaccination rates fall",
+      "description": "The vaccination rate for Florida kindergartners has fallen to 88.1%, the lowest in decades.",
+      "url": "https://www.cbsnews.com/news/vaccination-rate-decline-measles-polio-outbreaks/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/02/11/938c18e9-d8e3-4939-87ea-d736fddb012a/thumbnail/1200x630/acf7f24a7f1fce9f4d4fb12f80656dd1/gettyimages-2031345648.jpg?v=c6b5070a57014f3b00753bf0e763f9c3",
+      "publishedAt": "2025-02-11 01:46:06",
+      "content": "Health officials in western Texas are trying to contain a measles outbreak among mostly school-aged children, with at least 15 confirmed cases. It's the latest outbreak of a disease that had been vir\u2026 [+2346 chars]",
+      "retrievedAt": "2025-02-12 07:06:35.781818",
+      "internal_id": "d6b955db58ff706dd1c23b7f84e5512fc25fb33e400b710e97f30b5f08f7ce77",
+      "publishedAtLabel": "Feb 11"
+    },
+    {
+      "id": 18120,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Hip-Hop Wired",
+      "author": "Christopher Smith",
+      "title": "Measles Outbreak Tears Into Unvaccinated in West Texas",
+      "description": "A rising outbreak of measles in one county is worrying state officials in Texas, due to the high rates of those unvaccinated. Health officials are pointing out how lawmakers are working to weaken vaccine mandates.",
+      "url": "https://hiphopwired.com/2604323/measles-outbreak-tears-into-unvaccinated-in-west-texas/",
+      "urlToImage": "https://hiphopwired.com/wp-content/uploads/sites/43/2025/02/17392366074655.jpg",
+      "publishedAt": "2025-02-11 01:17:41",
+      "content": "HipHopWired Featured Video Source: Kitsawet Saethao / Getty An outbreak of measles has hit the state of Texas, with fears that the numbers will rise among those who are unvaccinated. According to\u2026 [+2181 chars]",
+      "retrievedAt": "2025-02-12 07:06:35.832404",
+      "internal_id": "d3b535631ad9d9967ede935d87fa2039d523f27a60e7cdf474414c8fd093f4f5",
+      "publishedAtLabel": "Feb 11"
+    },
+    {
+      "id": 18123,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Scrippsnews.com",
+      "author": "Scripps News Group",
+      "title": "Measles outbreak hospitalizes children in Texas",
+      "description": "Health officials in Texas are on high alert after an outbreak of measles has sickened at least 15, including 10 children.",
+      "url": "https://www.scrippsnews.com/health/measles-outbreak-hospitalizes-children-in-texas",
+      "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/04a63b6/2147483647/strip/true/crop/2130x1118+0+452/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F00%2Fd5%2F7cb10f8047e4b7ecc1acf8c2526c%2Fap24276685521297.jpg",
+      "publishedAt": "2025-02-11 00:57:05",
+      "content": "Health officials in Texas are on high alert after an outbreak of measles. There have been ten confirmed cases in children the last two weeks, eight of them in school-age children and two in children\u2026 [+981 chars]",
+      "retrievedAt": "2025-02-12 07:06:35.859015",
+      "internal_id": "6892074e60d23b19951288caba5da376b2743d40ce37e5e7cddc5ce20fd9abac",
+      "publishedAtLabel": "Feb 11"
+    },
+    {
+      "id": 18115,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Hoover.org",
+      "author": "February 11, 2025",
+      "title": "4 Dimensions Of Trumpery",
+      "description": "There's an amusing novel by Adam Mars-Jones in which The Queen (Elisabeth II, that is) gets rabies and everyone around her tries to carry on as if she\u2019s behaving normally and rationally. Her Majesty is just being a little eccentric, you know.",
+      "url": "https://www.hoover.org/research/4-dimensions-trumpery",
+      "urlToImage": "https://www.hoover.org/sites/default/files/styles/facebook/public/2023-09/GettyImages-1683739308.jpg?h=3fff1e98&itok=3cPtyJnM",
+      "publishedAt": "2025-02-11 00:00:00",
+      "content": "Located on the campus of Stanford University and in Washington, DC, the Hoover Institution is the nations preeminent research center dedicated to generating policy ideas that promote economic prosper\u2026 [+62 chars]",
+      "retrievedAt": "2025-02-12 07:06:35.281982",
+      "internal_id": "c46344178419b910da998fbd0ca98796cda3f46099ca826e862596cb92035463",
+      "publishedAtLabel": "Feb 11"
+    },
+    {
+      "id": 18131,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Crian\u00e7a entre 10 e 14 anos \u00e9 a primeira morte por dengue registrada na cidade de S\u00e3o Paulo",
+      "description": "Outros 12 \u00f3bitos est\u00e3o em investiga\u00e7\u00e3o pela Secretaria de Sa\u00fade do Estado",
+      "url": "https://valor.globo.com/brasil/noticia/2025/02/10/criana-entre-10-e-14-anos-a-primeira-morte-por-dengue-registrada-na-cidade-de-so-paulo.ghtml",
+      "urlToImage": "https://s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/public/fb_marca.png",
+      "publishedAt": "2025-02-10 23:42:57",
+      "content": "O Estado de S\u00e3o Paulo registrou a primeira morte por dengue em 2025 na faixa et\u00e1ria entre os 10 e 14 anos, idades eleg\u00edveis para a vacina\u00e7\u00e3o no Sistema \u00danico de Sa\u00fade (SUS). A morte aconteceu na capi\u2026 [+2473 chars]",
+      "retrievedAt": "2025-02-12 07:06:37.051543",
+      "internal_id": "e1d7a629d16d8ab4526d7930c3a9f51487c8a81a43650cc88ee41b4d413b379e",
+      "publishedAtLabel": "Feb 10"
+    },
+    {
+      "id": 18118,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "VOA News",
+      "author": "webdesk@voanews.com (Associated Press)",
+      "title": "15 cases of measles in Texas county with numerous vaccine exemptions",
+      "description": "Fifteen measles cases \u2014 mostly in school-aged children \u2014 have been confirmed in a small county in West Texas with one of the highest rates of vaccine exemptions in the state. South Plains Public Health District Director Zach Holbrooks said Monday that his d\u2026",
+      "url": "https://www.voanews.com/a/cases-of-measles-in-texas-county-with-numerous-vaccine-exemptions-/7970000.html",
+      "urlToImage": "https://gdb.voanews.com/E3DEB113-C8F7-4564-97B9-F97C47015472.jpg",
+      "publishedAt": "2025-02-10 23:38:20",
+      "content": "Fifteen measles cases mostly in school-aged children have been confirmed in a small county in West Texas with one of the highest rates of vaccine exemptions in the state. South Plains Public Health \u2026 [+3255 chars]",
+      "retrievedAt": "2025-02-12 07:06:35.800961",
+      "internal_id": "6f4fdb983ff89f8a8f7f52f5921f73d055c63b099599d61ed1980a280aff41ca",
+      "publishedAtLabel": "Feb 10"
+    },
+    {
+      "id": 18130,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Giovana Alves",
+      "title": "Adolescente com suspeita de dengue morre ap\u00f3s alta em hospital no RJ",
+      "description": "Myguel Xavier, de 13 anos, veio a \u00f3bito ap\u00f3s ser liberado no CER Barra da Tijuca. O jovem apresentava suspeita de dengue",
+      "url": "https://www.metropoles.com/brasil/adolescente-com-suspeita-de-dengue-morre-apos-alta-em-hospital-no-rj",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2025/02/10193139/FOTO-MYGUEL-XAVIER.jpeg",
+      "publishedAt": "2025-02-10 22:45:42",
+      "content": "A fam\u00edlia de um jovem de 13 anos acusa a Coordena\u00e7\u00e3o de Emerg\u00eancia Regional (CER) da Barra da Tijuca (RJ) de neglig\u00eancia m\u00e9dica pela morte do adolescente Myguel Xavier, que veio a \u00f3bito na sexta-feir\u2026 [+1743 chars]",
+      "retrievedAt": "2025-02-12 07:06:37.044489",
+      "internal_id": "b4a2b47835432a188a25bce9c5bdfa3ba385d01363cc440b9bdaf46cb69a4450",
+      "publishedAtLabel": "Feb 10"
+    },
+    {
+      "id": 18119,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Boston Herald",
+      "author": "Associated Press",
+      "title": "Fifteen cases of measles reported in small West Texas county with high rate of vaccine exemptions",
+      "description": "Some of the cases appear to be connected to private religious schools in the district.",
+      "url": "https://www.bostonherald.com/2025/02/10/measles-outbreak-texas/",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/02/Measles_Outbreak_Texas_25227.jpg?w=1024&h=665",
+      "publishedAt": "2025-02-10 22:14:53",
+      "content": "By SEAN MURPHY and DEVI SHASTRI Fifteen measles cases \u2014 mostly in school-aged children \u2014 have been confirmed in a small county in West Texas with one of the highest rates of vaccine exemptions in th\u2026 [+3445 chars]",
+      "retrievedAt": "2025-02-12 07:06:35.819670",
+      "internal_id": "77342e037991359ec8cc2a85568cd2cdc75f428163e7e07e869aa8089011019c",
+      "publishedAtLabel": "Feb 10"
+    },
+    {
+      "id": 18121,
+      "query": [
+        "measles"
+      ],
+      "source_id": "nbc-news",
+      "source_name": "NBC News",
+      "author": "The Associated Press",
+      "title": "Fifteen measles cases reported in West Texas county with high rate of vaccine exemptions",
+      "description": "Fifteen measles cases \u2014 mostly in school-aged children \u2014 have been confirmed in a small county in West Texas with one of the highest rates of vaccine exemptions in the state.",
+      "url": "https://www.nbcnews.com/health/health-news/fifteen-cases-measles-reported-small-west-texas-county-high-rate-vacci-rcna191580",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-02/250210-measles-vaccines-aa-501-9123a9.jpg",
+      "publishedAt": "2025-02-10 22:07:35",
+      "content": "Fifteen measles cases mostly in school-aged children have been confirmed in a small county in West Texas with one of the highest rates of vaccine exemptions in the state. South Plains Public Health \u2026 [+3150 chars]",
+      "retrievedAt": "2025-02-12 07:06:35.839660",
+      "internal_id": "804db06ecb8ad760db74cda86cae41aa62027f6e0edb368a3a28a13be43dd88f",
+      "publishedAtLabel": "Feb 10"
+    },
+    {
+      "id": 18122,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "seattlepi.com",
+      "author": "By SEAN MURPHY and DEVI SHASTRI, Associated Press",
+      "title": "Fifteen cases of measles reported in small West Texas county with high rate of vaccine exemptions",
+      "description": "A small county in West Texas has 15 measles cases, mostly in school-aged children. Gaines County, which borders New Mexico, has one of the highest rates of vaccine exemptions in the state. South Plains Public Health District Director Zach Holbrooks says his d\u2026",
+      "url": "https://www.seattlepi.com/news/article/fifteen-cases-of-measles-reported-in-small-west-20159301.php",
+      "urlToImage": "https://s.hdnux.com/photos/01/47/20/25/27067740/3/rawImage.jpg",
+      "publishedAt": "2025-02-10 21:57:44",
+      "content": "FILE - Measles and tetanus vaccine vials are ready to be administered at the Dallas County Health &amp; Human Services immunization clinic in Dallas, on March 8, 2019. (Vernon Bryant/The Dallas Morni\u2026 [+3773 chars]",
+      "retrievedAt": "2025-02-12 07:06:35.852235",
+      "internal_id": "7b4e94f16df088df61f56e15be6f67f3839a92b3bf2c03cadf1e44157b8a200c",
+      "publishedAtLabel": "Feb 10"
+    },
+    {
+      "id": 18128,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Amanda Castro",
+      "title": "Bird Flu Map Update as Nevada's First Human Case Is Detected",
+      "description": "Nevada confirms its first human case of bird flu amid a growing U.S. outbreak impacting poultry, wildlife and the price of eggs.",
+      "url": "https://www.newsweek.com/nevada-bird-flu-human-case-avian-influenza-h5n1-2029088",
+      "urlToImage": "https://d.newsweek.com/en/full/2585367/bird-flu.jpg",
+      "publishedAt": "2025-02-10 21:55:49",
+      "content": "Health officials in Nevada have confirmed the state's first human case of avian influenza A (H5N1) in a person who had contact with infected dairy cattle, at a farm in Churchill County. The patient e\u2026 [+2899 chars]",
+      "retrievedAt": "2025-02-12 07:06:36.510455",
+      "internal_id": "1741585222e806db6ddcc004e1fe92a1cde3acaa6f3180ea35ecb9a0de89e567",
+      "publishedAtLabel": "Feb 10"
+    },
+    {
+      "id": 18126,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Kffhealthnews.org",
+      "author": "Sarah Boden",
+      "title": "Gatos dom\u00e9sticos con gripe aviar podr\u00edan ser un riesgo para la salud p\u00fablica",
+      "description": "Un peque\u00f1o pero creciente n\u00famero de gatos dom\u00e9sticos se han enfermado con H5N1, la cepa de gripe aviar protagonista del brote actual en el pa\u00eds, despu\u00e9s de comer alimentos crudos o beber leche sin pasteurizar.",
+      "url": "https://kffhealthnews.org/news/article/gatos-domesticos-con-gripe-aviar-podrian-ser-un-riesgo-para-la-salud-publica/",
+      "urlToImage": "https://kffhealthnews.org/wp-content/uploads/sites/2/2025/02/GettyImages-1449603635.jpg",
+      "publishedAt": "2025-02-10 21:03:10",
+      "content": "Sarah BodenDesde 2022, entre tantos otros mam\u00edferos, ha habido m\u00e1s de 80 casos confirmados de gatos dom\u00e9sticos con gripe aviar: generalmente gatos de granero que viv\u00edan en granjas lecheras, gatos sal\u2026 [+9242 chars]",
+      "retrievedAt": "2025-02-12 07:06:36.484534",
+      "internal_id": "cb3023c46cf0b1d584daaac80ce737d50727767eb39e44e4f53533d1008206d9",
+      "publishedAtLabel": "Feb 10"
+    },
+    {
+      "id": 18127,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Alexander Tin",
+      "title": "New bird flu strain in cows spreads to Nevada dairy worker",
+      "description": "The adult patient infected with bird flu has reported only conjunctivitis and no other symptoms.",
+      "url": "https://www.cbsnews.com/news/bird-flu-nevada-human-case-dairy-worker-cows/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/02/06/631fefdd-c786-4f96-94af-569ceb6393f4/thumbnail/1200x630/d06876d6fb3d45dac5c700d08096ffcd/cbsn-fusion-deadly-strain-of-bird-flu-linked-to-mans-2024-death-appears-in-nevada-dairy-cows-thumbnail.jpg?v=c6b5070a57014f3b00753bf0e763f9c3",
+      "publishedAt": "2025-02-10 20:35:00",
+      "content": "A dairy worker in Nevada has been confirmed to be infected by a new bird flu strain found to be spreading among cows in the state last week. That strain of the H5N1 bird flu virus, called D1.1 by s\u2026 [+4837 chars]",
+      "retrievedAt": "2025-02-12 07:06:36.503700",
+      "internal_id": "22554abc28bac22513b2311b80a063b922550fddb2075ce7de4c32999927a36b",
+      "publishedAtLabel": "Feb 10"
+    },
+    {
+      "id": 18116,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Judy Stone, Senior Contributor, \n Judy Stone, Senior Contributor\n https://www.forbes.com/sites/judystone/",
+      "title": "Texas Measles Outbreak Hits As Congress Weighs RFK Jr.\u2019s HHS Secretary Bid",
+      "description": "Seven of 10 people with measles in Texas are hospitalized for a disease that was considered eliminated in 2000. Kennedy has fueled anti-vaccine views driving such spikes.",
+      "url": "https://www.forbes.com/sites/judystone/2025/02/10/texas-measles-outbreak-hits-as-congress-weighs-rfk-jrs-hhs-secretary-bid/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67a95b639fd9315d7b3e22de/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-02-10 19:51:24",
+      "content": "Fake gravestones to signify the Samoa Measles victims of 2019 sit in the grass outside the US ... [+] Capitol as concerned doctors, nurses, and health care advocates from across the country join sena\u2026 [+6889 chars]",
+      "retrievedAt": "2025-02-12 07:06:35.773979",
+      "internal_id": "0772fd669fce57d59cdfaea4b3aa8bca2241062f2b9cb86bd034d9d8ce4488e5",
+      "publishedAtLabel": "Feb 10"
+    },
+    {
+      "id": 18124,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "KCBD",
+      "author": "Kcbd Staff",
+      "title": "South Plains Public Health District hosting MMR vaccine clinic",
+      "description": "The South Plains Public Health District is hosting an MMR shot clinic Monday through Thursday due to the recent outbreak of measles across the area.",
+      "url": "https://www.kcbd.com/2025/02/10/south-plains-public-health-district-hosting-mmr-vaccine-clinic/",
+      "urlToImage": "https://gray-kcbd-prod.gtv-cdn.com/resizer/v2/LFCPVCMBJZEZHMPQLBRGHFYOHU.bmp?auth=1ccc9905afdd70bdf3a419f39287a272c846d5133f98728ddeb00fb8ff35f3e3&width=1200&height=600&smart=true",
+      "publishedAt": "2025-02-10 19:49:41",
+      "content": "SEMINOLE, Texas (KCBD) - The South Plains Public Health District is hosting an MMR shot clinic Monday through Thursday due to the recent outbreak of measles across the area. Experts say the MMR vac\u2026 [+417 chars]",
+      "retrievedAt": "2025-02-12 07:06:35.871245",
+      "internal_id": "3c548a54ee9deeddd4470ef2b6cdd3bcc03b76dfa4aa3db7689e68bd011bccf9",
+      "publishedAtLabel": "Feb 10"
+    },
     {
       "id": 18102,
       "query": [
@@ -19,6 +307,24 @@
       "content": "The Texas Department of State Health Services is reporting an outbreak of measles in Gaines County. As of Feb. 7, 2025, 10 cases have been identified with symptom-onset within the last two weeks. E\u2026 [+3869 chars]",
       "retrievedAt": "2025-02-11 19:05:33.867942",
       "internal_id": "57aecf1053a9149e518e83d0f74bdf0e872f16c4d9e56a5506916e9268d759e0",
+      "publishedAtLabel": "Feb 10"
+    },
+    {
+      "id": 18129,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "OregonLive",
+      "author": "Sarah Borden",
+      "title": "Household cats with bird flu could pose a risk to public health",
+      "description": "A small but growing number of house cats have gotten sick from H5N1, the bird flu strain driving the current U.S. outbreak.",
+      "url": "https://www.oregonlive.com/health/2025/02/household-cats-with-bird-flu-could-pose-a-risk-to-public-health.html",
+      "urlToImage": "https://www.oregonlive.com/resizer/v2/OQUVQTP7T5FQBLW3QR2ZS7HWKM.jpg?auth=c9fbb2ddf4864838531f7d6c7f3c7574ba0460ba680a5fbebae58df345577d04&width=1280&quality=90",
+      "publishedAt": "2025-02-10 17:37:53",
+      "content": "More than 80 domestic cats, including in Oregon, have been confirmed to have had bird flu since 2022 generally barn cats that lived on dairy farms, as well as feral cats and pets that spend time outd\u2026 [+10060 chars]",
+      "retrievedAt": "2025-02-12 07:06:36.565343",
+      "internal_id": "13e27569c5dcd163b6c2dbe18137a8b75564d61d2a5bbb8571c115f636169def",
       "publishedAtLabel": "Feb 10"
     },
     {
@@ -21381,6 +21687,186 @@
       "retrievedAt": "2024-12-31 07:06:23.062519",
       "internal_id": "0bc71e1789a4d07f5edf705712a5525d9fafec59ac7298e720183fce7eba5a08",
       "publishedAtLabel": "Dec 30"
+    },
+    {
+      "id": 16925,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "PTI",
+      "title": "AB-PMJAY has reduced cancer patients' financial burden significantly: Prime Minister Modi",
+      "description": "Prime Minister Narendra Modi highlights the impact of the Ayushman Bharat Pradhan Mantri Jan Arogya Yojana on reducing cancer patients' financial burden and improving timely cancer treatment. He also underscores the significant reduction in malaria cases and \u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/ab-pmjay-has-reduced-cancer-patients-financial-burden-significantly-prime-minister-modi/articleshow/116773595.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-116773634,width-1200,height-630,imgsize-1176719,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2024-12-29 17:08:42",
+      "content": "The Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (AB-PMJAY) has reduced the cancer patients' financial burden significantly, Prime Minister Narendra Modi said on Sunday. Modi highlighted the achi\u2026 [+2619 chars]",
+      "retrievedAt": "2024-12-30 19:05:34.438835",
+      "internal_id": "e229a8cdaccdbf44b9c346c41bb50e05d4373547b8f017853329cc645773464f",
+      "publishedAtLabel": "Dec 29"
+    },
+    {
+      "id": 16923,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Hugo C\u00e9sar Marques",
+      "title": "Os recordes negativos do governo Lula em 2024",
+      "description": "Mortes por dengue, queimadas, alta do d\u00f3lar, desaprova\u00e7\u00e3o e finan\u00e7as das estatais lideram o rol de maus resultados da administra\u00e7\u00e3o petista",
+      "url": "https://veja.abril.com.br/brasil/os-recordes-negativos-do-governo-lula-em-2024",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2024/09/54020044888_4ae7db6d8e_6k.jpg?quality=70&strip=info&crop=1&resize=1080,565",
+      "publishedAt": "2024-12-29 16:14:06",
+      "content": "\u00daltima Semana: Assine a partir de 1,50/semanaO presidente Luiz In\u00e1cio Lula da Silva, durante o evento Em defesa da democracia, combatendo os extremismos, na Sede das Na\u00e7\u00f5es Unidas, em Nova Iorque - \u2026 [+2111 chars]",
+      "retrievedAt": "2024-12-30 19:05:33.928792",
+      "internal_id": "01ccc77daeb09ee31f548fa68c18356f20a2268d54f3c6b4444cbd1a2c491dea",
+      "publishedAtLabel": "Dec 29"
+    },
+    {
+      "id": 16924,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Www.nzz.ch",
+      "author": "Anna Weber (wea)",
+      "title": "Doch keine mysteri\u00f6se \u00abKrankheit X\u00bb in Kongo-Kinshasa: Unterern\u00e4hrung macht Malaria und Erk\u00e4ltungen zu Killern",
+      "description": "Die Weltgesundheitsorganisation hat in Proben von Betroffenen keine neuen Erreger gefunden. Stattdessen treffen altbekannte Viren auf ein geschw\u00e4chtes Immunsystem. Das bedroht vor allem kleine Kinder.",
+      "url": "https://www.nzz.ch/wissenschaft/keine-krankheit-x-im-kongo-unterernaehrung-als-wahre-ursache-ld.1864272",
+      "urlToImage": "https://img.nzz.ch/2024/12/29/28f22673-2de4-4eb3-aff6-608954ac4a6f.jpeg?width=832&height=468&fit=bounds&quality=75&auto=webp&crop=832,468,x4,y0",
+      "publishedAt": "2024-12-29 15:36:29",
+      "content": "Viele Krankenh\u00e4user in der Region Panzi in Kongo-Kinshasa haben nicht genug Personal und Ressourcen, um alle Patienten angemessen zu versorgen. Erk\u00e4ltungssymptome, stark ansteigende Fallzahlen und D\u2026 [+4125 chars]",
+      "retrievedAt": "2024-12-30 19:05:34.360815",
+      "internal_id": "bb9524cb390837c786d15f125b651be702a8b76cc9c922f2dc86e184433428bf",
+      "publishedAtLabel": "Dec 29"
+    },
+    {
+      "id": 16918,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Everyeye.it",
+      "author": "Giuseppe Occhiuto",
+      "title": "Il primo caso di influenza aviaria mostra i segni di una mutazione: c'\u00e8 da preoccuparsi?",
+      "description": "A quanto pare il virus dell'influenza aviaria sta cambiando negli esseri umani. C'\u00e8 realmente da preoccuparsi? Facciamo il puntoIl primo paziente con la \"Highly Pathogenic Avian Influenza\" (HPAI), ovvero l'influenza aviaria che fa preoccupare milioni di perso\u2026",
+      "url": "https://tech.everyeye.it/notizie/caso-influenza-aviaria-mostra-segni-mutazione-e-preoccuparsi-767704.html",
+      "urlToImage": "https://images.everyeye.it/img-notizie/il-caso-influenza-aviaria-mostra-segni-mutazione-c-E-preoccuparsi-v4-767704.jpg",
+      "publishedAt": "2024-12-29 15:36:00",
+      "content": "Il primo paziente con la \"Highly Pathogenic Avian Influenza\" (HPAI), ovvero l'influenza aviaria che fa preoccupare milioni di persone, mostra l'esistenza di mutazioni che influenzano la capacit\u00e0 del \u2026 [+2164 chars]",
+      "retrievedAt": "2024-12-30 19:05:33.011249",
+      "internal_id": "93384229609d04c1da2584dfe7402b0b85649c700ff306aa595b4d3921c8a153",
+      "publishedAtLabel": "Dec 29"
+    },
+    {
+      "id": 16920,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Naked-science.ru",
+      "author": "\u041b\u044e\u0431\u043e\u0432\u044c",
+      "title": "\u0410\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0438\u0445 \u043a\u043e\u0448\u0435\u043a \u043f\u043e\u0440\u0430\u0437\u0438\u043b \u043d\u043e\u0432\u044b\u0439 \u0448\u0442\u0430\u043c\u043c \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430",
+      "description": "\u0417\u0430 \u0434\u0432\u0430 \u0441 \u043f\u043e\u043b\u043e\u0432\u0438\u043d\u043e\u0439 \u0433\u043e\u0434\u0430 \u0432\u0438\u0440\u0443\u0441 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430 H5N1 \u043f\u043e\u0433\u0443\u0431\u0438\u043b \u0431\u043e\u043b\u0435\u0435 100 \u043c\u0438\u043b\u043b\u0438\u043e\u043d\u043e\u0432 \u043f\u0435\u0440\u043d\u0430\u0442\u044b\u0445 \u043d\u0430 \u043f\u0442\u0438\u0446\u0435\u0444\u0430\u0431\u0440\u0438\u043a\u0430\u0445 \u0421\u0428\u0410. \u0415\u0433\u043e \u043f\u0435\u0440\u0435\u043d\u043e\u0441\u0447\u0438\u043a\u0430\u043c\u0438, \u043a\u0430\u043a \u043e\u043a\u0430\u0437\u0430\u043b\u043e\u0441\u044c, \u043c\u043e\u0433\u0443\u0442 \u0441\u0442\u0430\u0442\u044c \u0434\u043e\u043c\u0430\u0448\u043d\u0438\u0435 \u043a\u043e\u0448\u043a\u0438: \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u044b \u043d\u043e\u0432\u043e\u0433\u043e \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u044f \u043f\u043e\u043a\u0430\u0437\u0430\u043b\u0438, \u0447\u0442\u043e \u043c\u0443\u0442\u0430\u0446\u0438\u0438 \u0443 \u044d\u0442\u0438\u0445 \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u0445 \u0437\u043d\u0430\u0447\u0438\u0442\u0435\u043b\u044c\u043d\u043e \u043f\u043e\u0432\u044b\u0448\u0430\u2026",
+      "url": "https://naked-science.ru/article/medicine/amerikanskih-koshek-poraz",
+      "urlToImage": "https://naked-science.ru/wp-content/uploads/2024/12/cat_bird-1200x675.jpeg",
+      "publishedAt": "2024-12-29 13:28:53",
+      "content": "H5N1 100 . , , : , \u00ab\u00bb \u00ab\u00bb () . , , , : 2024 () H5N1 10 . . , . , . Taylor and Francis. , . , , . (Suresh V. Kuchipudi) () , , , , , . . , , (HA) T143A , \u00ab\u00bb . F314L L342Q PA (), ( ). \u2026 [+119 chars]",
+      "retrievedAt": "2024-12-30 19:05:33.588756",
+      "internal_id": "347553ed5c7feec811e40aff2352e35621b8d43953dc6ea0f7e5887abf7bc222",
+      "publishedAtLabel": "Dec 29"
+    },
+    {
+      "id": 16922,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Mail.ru",
+      "author": "\u0420\u0430\u043c\u0438\u043b\u044f \u0413\u0430\u043b\u0438\u043c\u0437\u044f\u043d\u043e\u0432\u0430",
+      "title": "\u041c\u0430\u0440\u0431\u0443\u0440\u0433, \u041a\u043e\u043a\u0441\u0430\u043a\u0438 \u0438 \u0410\u043b\u044f\u0441\u043a\u0430\u043f\u043e\u043a\u0441: \u043a\u0430\u043a\u0438\u0435 \u0432\u0438\u0440\u0443\u0441\u044b \u0431\u0443\u0448\u0435\u0432\u0430\u043b\u0438 \u0432 2024",
+      "description": "\u041e\u043d\u0438 \u043c\u043e\u0433\u043b\u0438 \u043f\u0435\u0440\u0435\u0440\u0430\u0441\u0442\u0438 \u0432 \u044d\u043f\u0438\u0434\u0435\u043c\u0438\u044e, \u043d\u043e \u044d\u0442\u043e\u0433\u043e \u043d\u0435 \u0441\u043b\u0443\u0447\u0438\u043b\u043e\u0441\u044c.",
+      "url": "https://vfokuse.mail.ru/article/marburg-koksaki-i-alyaskapoks-kakie-virusy-bushevali-v-2024-64280393/",
+      "urlToImage": "https://resizer.mail.ru/p/68346929-235c-56b5-ab4f-8ed04163ca45/op:15/logo:bottom:vfokuse.png/AQAGLw0YIawdOncjk_0oAufl-pIHYgLdRYhe0Op79kH3AKXFZDfAoUaKgC9L5hcI9N3iFKoHg-YLI516VIWkT4-y2MQ.jpg",
+      "publishedAt": "2024-12-29 13:16:28",
+      "content": ". , \u00ab\u00bb . COVID-19, , . , 2024 , Life. 2024 - (H5N1). . 14 , . . 18 \u2014 . 2021 H5N1 280 . \u2014 . 2024 \u2014 30 . , . 2024 , COVID-19, , . \u2026 [+954 chars]",
+      "retrievedAt": "2024-12-30 19:05:33.678135",
+      "internal_id": "b6849393f197386f30de07cd87570a63fb8747e0bb3bb9dca759742ac39cc5bb",
+      "publishedAtLabel": "Dec 29"
+    },
+    {
+      "id": 16928,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Sascha Karberg",
+      "title": "Schwerer Vogelgrippe-Fall beim Menschen: US-Seuchenbeh\u00f6rde findet gef\u00e4hrliche Mutationen",
+      "description": "Mindestens 65 Menschen haben sich in den USA in den vergangenen Monaten \u00fcber infiziertes Gefl\u00fcgel oder Milchk\u00fche mit H5N1-Viren angesteckt. Aber nur einer erkrankte schwer. Jetzt wurde das Viruserbgut analysiert.",
+      "url": "https://www.tagesspiegel.de/wissen/schwerer-vogelgrippe-fall-beim-menschen-us-seuchenbehorde-findet-gefahrliche-mutationen-12938302.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/6647143/alternates/BASE_16_9_W1400/1658762868000/fouchier1hr.jpeg",
+      "publishedAt": "2024-12-29 13:08:25",
+      "content": "Kurz vor Weihnachten hatte die US-Seuchenbeh\u00f6rde CDC best\u00e4tigt, dass im Bundesstaat Louisiana eine Person au\u00dfergew\u00f6hnlich schwer an Vogelgrippe (H5N1) erkrankt war. Offenbar hatte sich die nicht n\u00e4he\u2026 [+5558 chars]",
+      "retrievedAt": "2024-12-31 07:06:23.171572",
+      "internal_id": "133209a677e813512703bda2a7664ec17442e3ee10264fd829f914e2b62ef904",
+      "publishedAtLabel": "Dec 29"
+    },
+    {
+      "id": 16919,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "REVOLT TV",
+      "author": "Angelina Velasquez",
+      "title": "Health expert warns bird flu may become a pandemic like COVID-19",
+      "description": "A medical expert who helped lead America\u2019s COVID-19 response has warned that the ongoing bird flu (H5N1) epidemic can evolve into a pandemic if greater...",
+      "url": "https://www.revolt.tv/article/former-white-house-health-expert-warns-bird-flu-has-potential-to-become-pandemic",
+      "urlToImage": "https://media.zenfs.com/en/revolt_articles_463/9beff138051b8dbc792fba12a4fa6f00",
+      "publishedAt": "2024-12-29 12:05:41",
+      "content": "Yahoo is using AI to generate takeaways from this article. This means the info may not always match what's in the article. Reporting mistakes helps us improve the experience.Generate Key Takeaways A\u2026 [+2651 chars]",
+      "retrievedAt": "2024-12-30 19:05:33.538288",
+      "internal_id": "b5a153d5aba5f4bc8716df9f015f1151ec9e6f380af6d709ba5ee5283eee80fd",
+      "publishedAtLabel": "Dec 29"
+    },
+    {
+      "id": 16921,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "CNN \u0628\u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+      "title": "\u0637\u0641\u0631\u0629 \u062c\u062f\u064a\u062f\u0629 \u062a\u062b\u064a\u0631 \u0627\u0644\u0642\u0644\u0642.. \u0625\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u0637\u064a\u0648\u0631 \u062a\u0633\u062a\u0647\u062f\u0641 \u062e\u0644\u0627\u064a\u0627 \u0627\u0644\u062a\u0646\u0641\u0633 \u0644\u062f\u0649 \u0627\u0644\u0628\u0634\u0631",
+      "description": "\u0623\u062b\u0627\u0631\u062a \u0637\u0641\u0631\u0629 \u062c\u062f\u064a\u062f\u0629 \u0638\u0647\u0631\u062a \u0644\u062f\u0649 \u0645\u0631\u064a\u0636 \u0641\u064a \u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629 \u0623\u0635\u064a\u0628 \u0628\u0641\u064a\u0631\u0648\u0633 \u0625\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u0637\u064a\u0648\u0631 H5N1 \u0627\u0644\u0642\u0644\u0642 \u0644\u062f\u0649 \u0645\u0633\u0624\u0648\u0644\u064a \u0627\u0644\u0635\u062d\u0629 \u0641\u064a \u0627\u0644\u0628\u0644\u0627\u062f\u060c \u062d\u064a\u062b \u0648\u064f\u062c\u062f \u0623\u0646 \u0627\u0644\u0641\u064a\u0631\u0648\u0633 \u062a\u062d\u0648\u0631 \u0628\u0637\u0631\u064a\u0642\u0629 \u062a\u062c\u0639\u0644 \u0645\u0646 \u0627\u0644\u0633\u0647\u0644 \u0625\u0635\u0627\u0628\u0629 \u0627\u0644\u062e\u0644\u0627\u064a\u0627 \u0627\u0644\u0628\u0634\u0631\u064a\u0629 \u0641\u064a \u0627\u0644\u062c\u0647\u0627\u0632 \u0627\u0644\u062a\u0646\u0641\u0633\u064a \u0627\u0644\u0639\u0644\u0648\u064a \u0644\u062f\u0649 \u0627\u0644\u0628\u0634\u0631 \u0628\u0625\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u0637\u064a\u0648\u0631\u060c \u0648\u0630\u0644\u0643 \u0628\u0639\u062f \u062a\u062d\u0644\u064a\u0644 \u0645\u0631\u0643\u0632 \u2026",
+      "url": "https://arabic.cnn.com/science-and-health/video/2024/12/29/v167569-bird-flu-mutates-to-target-human-respiratory-cells",
+      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2024/12/28/images/286314.jpg",
+      "publishedAt": "2024-12-29 09:07:51",
+      "content": "",
+      "retrievedAt": "2024-12-30 19:05:33.649350",
+      "internal_id": "85e1ea9182b904f4972e990f139beb5db74832a28dbf56cb43807c12e11b3dcb",
+      "publishedAtLabel": "Dec 29"
+    },
+    {
+      "id": 16926,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "N-tv.de",
+      "author": "Hedviga Nyarsik",
+      "title": "WHO-Liste des Grauens: Die gef\u00e4hrlichsten Erreger, gegen die es keine Impfung gibt",
+      "description": "Ob HIV, Malaria oder multiresistente Keime: Gegen viele Erreger gibt es noch keinen wirksamen Impfstoff. Sie verursachen daher immer wieder Infektionen und Ausbr\u00fcche, gegen die nur wenig unternommen werden kann. Die WHO listet nun die 17 gef\u00e4hrlichsten dieser\u2026",
+      "url": "https://www.n-tv.de/mediathek/bilderserien/wissen/Die-gefaehrlichsten-Erreger-gegen-die-es-keine-Impfung-gibt-article25374966.html",
+      "urlToImage": "https://bilder2.n-tv.de/img/incoming/crop25375481/1381327620-cImg_16_9-w1200/imago775347209.jpg",
+      "publishedAt": "2024-12-29 07:55:54",
+      "content": "Neben den vier Pathogenen ohne Impfschutz listet die WHO noch weitere Infektionskrankheiten auf, gegen die es zwar bereits Impfstoffe gibt, die aber nicht ausgereift sind, zu wenig wirken oder nicht \u2026 [+31 chars]",
+      "retrievedAt": "2024-12-30 19:05:34.496423",
+      "internal_id": "b0d655e4e8f559fb62e8d9dabed9acc7bbd58a9a6396fa9f2944b0c583498787",
+      "publishedAtLabel": "Dec 29"
     }
   ]
 }

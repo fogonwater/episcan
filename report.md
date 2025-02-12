@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
 - **New articles in last harvest:** 17
-- **Last harvest:** 2025-02-11 19:05
-- **Most recent article:** 2025-02-10 18:35:30
+- **Last harvest:** 2025-02-12 07:06
+- **Most recent article:** 2025-02-11 06:45:08
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-53 | 25-1 | 25-2 | 25-3 | 25-4 | 25-5 | 25-6 | 25-7 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| h5n1 | 22 | 27 | 131 | 65 | 31 | 51 | 72 | 13 | 412 |
+| h5n1 | 27 | 27 | 131 | 65 | 31 | 51 | 72 | 17 | 421 |
 | mpox | 2 | 6 | 91 | 34 | 23 | 22 | 28 | 1 | 207 |
-| dengue | 4 | 12 | 41 | 29 | 37 | 24 | 34 | 1 | 182 |
-| malaria | 12 | 10 | 30 | 18 | 19 | 30 | 25 | 2 | 146 |
-| measles | 3 | 6 | 6 | 9 | 10 | 13 | 24 | 9 | 80 |
-| hpai | 0 | 4 | 18 | 12 | 11 | 6 | 3 | 1 | 55 |
+| dengue | 5 | 12 | 41 | 29 | 37 | 24 | 34 | 3 | 185 |
+| malaria | 15 | 10 | 30 | 18 | 19 | 30 | 25 | 2 | 149 |
+| measles | 3 | 6 | 6 | 9 | 10 | 13 | 24 | 18 | 89 |
+| hpai | 1 | 4 | 18 | 12 | 11 | 6 | 3 | 2 | 57 |
 | chikungunya | 2 | 0 | 7 | 7 | 10 | 9 | 8 | 0 | 43 |
 | zika | 0 | 0 | 15 | 5 | 2 | 8 | 6 | 1 | 37 |
-| rabies | 1 | 1 | 2 | 6 | 7 | 6 | 4 | 1 | 28 |
+| rabies | 1 | 1 | 2 | 6 | 7 | 6 | 4 | 2 | 29 |
 | meningitis | 1 | 2 | 0 | 2 | 3 | 8 | 2 | 1 | 19 |
 | pertussis | 0 | 1 | 2 | 0 | 1 | 0 | 3 | 1 | 8 |
 | typhoid | 0 | 0 | 0 | 4 | 0 | 0 | 2 | 1 | 7 |
@@ -46,6 +46,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-7 (rabies)
 
+- [4 Dimensions Of Trumpery](https://www.hoover.org/research/4-dimensions-trumpery) (Hoover.org)
+
 - [Animal rabies cases confirmed in Fresno County, health officials say](https://abc30.com/post/animal-rabies-cases-confirmed-fresno-county-health-officials-say/15888665/) (KFSN-TV)
 
 ## 25-7 (pertussis)
@@ -61,6 +63,24 @@ Source: [News API](https://newsapi.org/)
 - [Impact of cerebrospinal fluid leukocyte infiltration and activated neuroimmune mediators on survival with HIV-associated cryptococcal meningitis](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012873) (Plos.org)
 
 ## 25-7 (measles)
+
+- [Measles, polio outbreaks could reemerge as vaccination rates fall](https://www.cbsnews.com/news/vaccination-rate-decline-measles-polio-outbreaks/) (CBS News)
+
+- [Measles Outbreak Tears Into Unvaccinated in West Texas](https://hiphopwired.com/2604323/measles-outbreak-tears-into-unvaccinated-in-west-texas/) (Hip-Hop Wired)
+
+- [Measles outbreak hospitalizes children in Texas](https://www.scrippsnews.com/health/measles-outbreak-hospitalizes-children-in-texas) (Scrippsnews.com)
+
+- [15 cases of measles in Texas county with numerous vaccine exemptions](https://www.voanews.com/a/cases-of-measles-in-texas-county-with-numerous-vaccine-exemptions-/7970000.html) (VOA News)
+
+- [Fifteen cases of measles reported in small West Texas county with high rate of vaccine exemptions](https://www.bostonherald.com/2025/02/10/measles-outbreak-texas/) (Boston Herald)
+
+- [Fifteen measles cases reported in West Texas county with high rate of vaccine exemptions](https://www.nbcnews.com/health/health-news/fifteen-cases-measles-reported-small-west-texas-county-high-rate-vacci-rcna191580) (NBC News)
+
+- [Fifteen cases of measles reported in small West Texas county with high rate of vaccine exemptions](https://www.seattlepi.com/news/article/fifteen-cases-of-measles-reported-in-small-west-20159301.php) (seattlepi.com)
+
+- [Texas Measles Outbreak Hits As Congress Weighs RFK Jr.’s HHS Secretary Bid](https://www.forbes.com/sites/judystone/2025/02/10/texas-measles-outbreak-hits-as-congress-weighs-rfk-jrs-hhs-secretary-bid/) (Forbes)
+
+- [South Plains Public Health District hosting MMR vaccine clinic](https://www.kcbd.com/2025/02/10/south-plains-public-health-district-hosting-mmr-vaccine-clinic/) (KCBD)
 
 - [Texas measles outbreak among children leads to health alert](https://www.fox4news.com/news/texas-measles-outbreak-2025-gaines-county) (FOX 4 News)
 
@@ -88,9 +108,19 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-7 (hpai)
 
+- [禽流感發威、美雞蛋批發價暴漲 餐廳順勢漲價](https://finance.technews.tw/2025/02/11/personal-finance-wholesale-egg-prices-have-blown-way-past-record-highs/) (Technews.tw)
+
 - [Bird flu, egg shortage prompts regional emergency, hours waivers for relief-haul](https://www.overdriveonline.com/hours-of-service/article/15737110/live-chicken-haulers-get-regs-relief-for-bird-flu-emergency) (Overdriveonline.com)
 
 ## 25-7 (h5n1)
+
+- [Bird Flu Map Update as Nevada's First Human Case Is Detected](https://www.newsweek.com/nevada-bird-flu-human-case-avian-influenza-h5n1-2029088) (Newsweek)
+
+- [Gatos domésticos con gripe aviar podrían ser un riesgo para la salud pública](https://kffhealthnews.org/news/article/gatos-domesticos-con-gripe-aviar-podrian-ser-un-riesgo-para-la-salud-publica/) (Kffhealthnews.org)
+
+- [New bird flu strain in cows spreads to Nevada dairy worker](https://www.cbsnews.com/news/bird-flu-nevada-human-case-dairy-worker-cows/) (CBS News)
+
+- [Household cats with bird flu could pose a risk to public health](https://www.oregonlive.com/health/2025/02/household-cats-with-bird-flu-could-pose-a-risk-to-public-health.html) (OregonLive)
 
 - [Toda la economía mira al huevo: ¿Podría ocurrir en España una crisis en la industria avícola como la que vive EEUU?](https://www.eleconomista.es/economia/noticias/13214091/02/25/toda-la-economia-mira-al-huevo-podria-ocurrir-en-espana-una-crisis-en-la-industria-avicola-como-la-que-vive-eeuu.html) (Eleconomista.es)
 
@@ -119,6 +149,10 @@ Source: [News API](https://newsapi.org/)
 - [Zamykają targi, wybijają zakażone zwierzęta. Ptasia grypa rozprzestrzenia się w Nowym Jorku](https://tvn24.pl/tvnmeteo/swiat/zamykaja-targi-wybijaja-zakazone-zwierzeta-ptasia-grypa-rozprzestrzenia-sie-w-nowym-jorku-st8298168) (Tvn24.pl)
 
 ## 25-7 (dengue)
+
+- [Criança entre 10 e 14 anos é a primeira morte por dengue registrada na cidade de São Paulo](https://valor.globo.com/brasil/noticia/2025/02/10/criana-entre-10-e-14-anos-a-primeira-morte-por-dengue-registrada-na-cidade-de-so-paulo.ghtml) (Globo)
+
+- [Adolescente com suspeita de dengue morre após alta em hospital no RJ](https://www.metropoles.com/brasil/adolescente-com-suspeita-de-dengue-morre-apos-alta-em-hospital-no-rj) (Metropoles.com)
 
 - [Nayarit entre las 10 entidades con más casos de dengue](https://www.excelsior.com.mx/nacional/nayarit-entre-10-entidades-mas-casos-dengue/1698910) (Excelsior.com.mx)
 
@@ -2614,6 +2648,16 @@ Source: [News API](https://newsapi.org/)
 
 - [Pakar Ungkap Potensi Ancaman Kesehatan Utama di 2025, Ada Malaria hingga Masalah Mental](https://www.liputan6.com/health/read/5856603/pakar-ungkap-potensi-ancaman-kesehatan-utama-di-2025-ada-malaria-hingga-masalah-mental) (Liputan6.com)
 
+- [AB-PMJAY has reduced cancer patients' financial burden significantly: Prime Minister Modi](https://economictimes.indiatimes.com/news/india/ab-pmjay-has-reduced-cancer-patients-financial-burden-significantly-prime-minister-modi/articleshow/116773595.cms) (The Times of India)
+
+- [Doch keine mysteriöse «Krankheit X» in Kongo-Kinshasa: Unterernährung macht Malaria und Erkältungen zu Killern](https://www.nzz.ch/wissenschaft/keine-krankheit-x-im-kongo-unterernaehrung-als-wahre-ursache-ld.1864272) (Www.nzz.ch)
+
+- [WHO-Liste des Grauens: Die gefährlichsten Erreger, gegen die es keine Impfung gibt](https://www.n-tv.de/mediathek/bilderserien/wissen/Die-gefaehrlichsten-Erreger-gegen-die-es-keine-Impfung-gibt-article25374966.html) (N-tv.de)
+
+## 24-53 (hpai)
+
+- [Il primo caso di influenza aviaria mostra i segni di una mutazione: c'è da preoccuparsi?](https://tech.everyeye.it/notizie/caso-influenza-aviaria-mostra-segni-mutazione-e-preoccuparsi-767704.html) (Everyeye.it)
+
 ## 24-53 (h5n1)
 
 - [As pace and severity of human H5N1 cases accelerate, NIH leaders call for more action on bird flu | CNN](https://www.cnn.com/2024/12/31/health/human-h5n1-bird-flu-cases/index.html) (CNN)
@@ -2660,6 +2704,16 @@ Source: [News API](https://newsapi.org/)
 
 - [طفرة فريدة من نوعها لفيروس انفلونزا الطيور يكتشفها أطباء في لوس أنجلوس.. بِمَ يُنبئنا ذلك؟](https://arabic.cnn.com/science-and-health/video/2024/12/30/v167548-bird-flu-mutation) (CNN)
 
+- [Американских кошек поразил новый штамм птичьего гриппа](https://naked-science.ru/article/medicine/amerikanskih-koshek-poraz) (Naked-science.ru)
+
+- [Марбург, Коксаки и Аляскапокс: какие вирусы бушевали в 2024](https://vfokuse.mail.ru/article/marburg-koksaki-i-alyaskapoks-kakie-virusy-bushevali-v-2024-64280393/) (Mail.ru)
+
+- [Schwerer Vogelgrippe-Fall beim Menschen: US-Seuchenbehörde findet gefährliche Mutationen](https://www.tagesspiegel.de/wissen/schwerer-vogelgrippe-fall-beim-menschen-us-seuchenbehorde-findet-gefahrliche-mutationen-12938302.html) (Der Tagesspiegel)
+
+- [Health expert warns bird flu may become a pandemic like COVID-19](https://www.revolt.tv/article/former-white-house-health-expert-warns-bird-flu-has-potential-to-become-pandemic) (REVOLT TV)
+
+- [طفرة جديدة تثير القلق.. إنفلونزا الطيور تستهدف خلايا التنفس لدى البشر](https://arabic.cnn.com/science-and-health/video/2024/12/29/v167569-bird-flu-mutates-to-target-human-respiratory-cells) (CNN)
+
 ## 24-53 (dengue)
 
 - [Bangladesh records 575 dengue deaths in 2024](https://www.thestar.com.my/news/world/2025/01/01/bangladesh-records-575-dengue-deaths-in-2024) (The Star Online)
@@ -2669,6 +2723,8 @@ Source: [News API](https://newsapi.org/)
 - [Japanese encephalitis: Summer's first case of mosquito-borne virus detected in Victorian](https://thenightly.com.au/society/health/japanese-encephalitis-summers-first-case-of-mosquito-borne-virus-detected-in-victorian-c-17244120) (Thenightly.com.au)
 
 - [Summer's first case of mosquito-borne Japanese encephalitis detected in Victoria](https://7news.com.au/news/summers-first-case-of-mosquito-borne-japanese-encephalitis-detected-in-victoria-c-17244123) (7NEWS.com.au)
+
+- [Os recordes negativos do governo Lula em 2024](https://veja.abril.com.br/brasil/os-recordes-negativos-do-governo-lula-em-2024) (Abril.com.br)
 
 ## 24-53 (chikungunya)
 
