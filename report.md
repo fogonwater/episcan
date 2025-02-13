@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 11
-- **Last harvest:** 2025-02-13 07:07
-- **Most recent article:** 2025-02-12 07:00:40
+- **New articles in last harvest:** 21
+- **Last harvest:** 2025-02-13 19:05
+- **Most recent article:** 2025-02-12 19:03:36
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-53 | 25-1 | 25-2 | 25-3 | 25-4 | 25-5 | 25-6 | 25-7 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| h5n1 | 27 | 27 | 131 | 65 | 31 | 51 | 72 | 27 | 431 |
-| mpox | 2 | 6 | 91 | 34 | 23 | 22 | 28 | 2 | 208 |
-| dengue | 5 | 12 | 41 | 29 | 37 | 24 | 34 | 10 | 192 |
-| malaria | 15 | 10 | 30 | 18 | 19 | 30 | 25 | 2 | 149 |
-| measles | 3 | 6 | 6 | 9 | 10 | 13 | 24 | 29 | 100 |
-| hpai | 1 | 4 | 18 | 12 | 11 | 6 | 3 | 2 | 57 |
-| chikungunya | 2 | 0 | 7 | 7 | 10 | 9 | 8 | 0 | 43 |
+| h5n1 | 22 | 27 | 131 | 65 | 31 | 51 | 72 | 28 | 427 |
+| mpox | 2 | 6 | 91 | 34 | 23 | 22 | 28 | 7 | 213 |
+| dengue | 4 | 12 | 41 | 29 | 37 | 24 | 34 | 14 | 195 |
+| malaria | 12 | 10 | 30 | 18 | 19 | 30 | 25 | 3 | 147 |
+| measles | 3 | 6 | 6 | 9 | 10 | 13 | 24 | 33 | 104 |
+| hpai | 0 | 4 | 18 | 12 | 11 | 6 | 3 | 2 | 56 |
+| chikungunya | 2 | 0 | 7 | 7 | 10 | 9 | 8 | 2 | 45 |
 | zika | 0 | 0 | 15 | 5 | 2 | 8 | 6 | 1 | 37 |
-| rabies | 1 | 1 | 2 | 6 | 7 | 6 | 4 | 2 | 29 |
-| meningitis | 1 | 2 | 0 | 2 | 3 | 8 | 2 | 2 | 20 |
+| rabies | 1 | 1 | 2 | 6 | 7 | 6 | 4 | 3 | 30 |
+| meningitis | 1 | 2 | 0 | 2 | 3 | 8 | 2 | 5 | 23 |
 | pertussis | 0 | 1 | 2 | 0 | 1 | 0 | 3 | 2 | 9 |
 | yersinia | 0 | 0 | 3 | 2 | 0 | 0 | 0 | 2 | 7 |
 | typhoid | 0 | 0 | 0 | 4 | 0 | 0 | 2 | 1 | 7 |
@@ -48,6 +48,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-7 (rabies)
 
+- [BMC to operate vehicle with LED screens for rabies awareness](https://timesofindia.indiatimes.com/city/mumbai/bmc-to-operate-vehicle-with-led-screens-for-rabies-awareness/articleshow/118185436.cms) (The Times of India)
+
 - [4 Dimensions Of Trumpery](https://www.hoover.org/research/4-dimensions-trumpery) (Hoover.org)
 
 - [Animal rabies cases confirmed in Fresno County, health officials say](https://abc30.com/post/animal-rabies-cases-confirmed-fresno-county-health-officials-say/15888665/) (KFSN-TV)
@@ -60,17 +62,41 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-7 (mpox)
 
+- [OMS: 50 de ţări, afectate de retragerea finanţării SUA](https://www.mediafax.ro/externe/oms-50-de-tari-afectate-de-retragerea-finantarii-sua-22692176) (Mediafax.ro)
+
+- [Fifty countries affected by USAID freeze, says WHO](https://www.bbc.com/news/articles/czj3z290ngyo) (BBC News)
+
+- [OMS: retirada de financiación de EE. UU. "está teniendo un grave impacto sanitario global"](https://www.montevideo.com.uy/Salud/OMS-retirada-de-financiacion-de-EE-UU--esta-teniendo-un-grave-impacto-sanitario-global--uc914796) (Montevideo.com.uy)
+
+- [Roundup: Kenya ramps up measures to curb viral disease spread](https://www.thestar.com.my/news/world/2025/02/13/roundup-kenya-ramps-up-measures-to-curb-viral-disease-spread) (The Star Online)
+
+- [Mpox outbreak in Africa at critical moment as U.S. halts aid, rebel violence erupts](https://www.npr.org/2025/02/12/nx-s1-5292356/mpox-outbreak-in-africa-at-critical-moment-as-u-s-halts-aid-rebel-violence-erupts) (NPR)
+
 - [New York health department confirms first case of new mpox strain](https://www.voanews.com/a/new-york-health-department-confirms-first-case-of-new-mpox-strain/7971833.html) (VOA News)
 
 - [Over 250 community health workers commissioned](https://www.ntv.co.ug/ug/news/national/over-250-community-health-workers-commissioned-4920754) (Ntv.co.ug)
 
 ## 25-7 (meningitis)
 
+- [Dos nuevos casos de meningitis bacteriana elevan a siete los detectados en lo que va de año en Aragón](https://www.abc.es/espana/aragon/dos-nuevos-casos-meningitis-bacteriana-elevan-siete-20250212190336-nt.html) (Www.abc.es)
+
+- [Aragón confirma dos nuevos casos de meningitis y ya son siete los detectados en solo dos meses](https://www.elespanol.com/aragon/actualidad/20250212/aragon-confirma-nuevos-casos-meningitis-detectados-solo-meses/923658206_0.html) (Elespanol.com)
+
+- [Muere repentinamente por meningitis una portera de balonmano de 21 años](https://www.abc.es/deportes/muere-repentinamente-meningitis-portera-balonmano-anos-20250212110751-nt.html) (Www.abc.es)
+
 - [Parliament summons Health Minister over cholera and meningitis outbreak - Adomonline.com](https://www.adomonline.com/parliament-summons-health-minister-over-cholera-and-meningitis-outbreak/) (Adomonline.com)
 
 - [Impact of cerebrospinal fluid leukocyte infiltration and activated neuroimmune mediators on survival with HIV-associated cryptococcal meningitis](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012873) (Plos.org)
 
 ## 25-7 (measles)
+
+- [Measles outbreak in Texas was "completely preventable," disease expert says](https://www.cbsnews.com/news/measles-outbreak-texas-preventable-symptoms/) (CBS News)
+
+- [Measles cases are rising, primarily in unvaccinated people: Health officials - NewsBreak](https://www.newsbreak.com/share/3803502159478-measles-cases-are-rising-primarily-in-unvaccinated-people-health-officials?s=a2&amp;share_destination_id=MTgzMTE5NjMyLTE3MzkzODE5NDUwMDc%3D&amp;pd=0COLmS1Y&amp;hl=en_US&amp;send_time=1739381945&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.6.1%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_recall_exp_25q1-v3%2Cns_foryou_model_exp_25q1-v9%2Cns_foryou_blend_exp_25q1-v7%2Cns_foryou_rank_exp_25q1-v4%2Cns_push_exp_rt_bucketv12-v4) (Newsbreak.com)
+
+- [Measles Outbreak Reported in Small West Texas County](https://www.insurancejournal.com/news/southcentral/2025/02/12/811818.htm) (Insurance Journal)
+
+- [Measles outbreak expands in West Texas](https://www.cbsnews.com/video/measles-outbreak-expands-in-west-texas/) (CBS News)
 
 - [Measles cases are rising, primarily in unvaccinated people: Health officials - NewsBreak](https://www.newsbreak.com/share/3803502159478-measles-cases-are-rising-primarily-in-unvaccinated-people-health-officials?s=a2&amp;share_destination_id=MTU4NDA5NTY1LTE3MzkzNDM2MDQ5NjQ%3D&amp;pd=0AifYzAz&amp;hl=en_US&amp;send_time=1739343604&amp;actBtn=topBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.6.1%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_push_exp_rt_bucketv12-v2%2Cns_foryou_blend_exp_25q1-v6%2Cns_foryou_recall_exp_25q1-v4%2Cns_foryou_rank_exp_25q1-v2%2Cns_foryou_model_exp_25q1-v8) (Newsbreak.com)
 
@@ -132,6 +158,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-7 (malaria)
 
+- [Ocho mujeres que cambiaron la farmacología](https://www.elperiodico.com/es/ciencia/20250212/ocho-mujeres-cambiaron-farmacologia-114232542) (Elperiodico.com)
+
 - [AI and public health issues in contemporary Nigeria - MediaLord.Ng](https://medialord.ng/ai-and-public-health-issues-in-contemporary-nigeria/) (Medialord.ng)
 
 - [How to strengthen malaria prevention through community](https://www.standardmedia.co.ke/health/health-opinion/article/2001511362/how-to-strengthen-malaria-prevention-through-community) (Standard Digital)
@@ -143,6 +171,8 @@ Source: [News API](https://newsapi.org/)
 - [Bird flu, egg shortage prompts regional emergency, hours waivers for relief-haul](https://www.overdriveonline.com/hours-of-service/article/15737110/live-chicken-haulers-get-regs-relief-for-bird-flu-emergency) (Overdriveonline.com)
 
 ## 25-7 (h5n1)
+
+- [ICYMI: Bird Flu Is Roiling Egg Farms Across The Country](https://www.npr.org/2026/01/01/1263204091/zz-1a-bonus) (NPR)
 
 - [Segundo tipo de gripe aviar H5N1 pasó de las vacas a los humanos](https://es.gizmodo.com/segundo-tipo-de-gripe-aviar-h5n1-paso-de-las-vacas-a-los-humanos-2000149046) (Gizmodo.com)
 
@@ -200,6 +230,14 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-7 (dengue)
 
+- [Anvisa solicita mais informações para aprovação de vacina da dengue do Butantan](https://valor.globo.com/brasil/noticia/2025/02/12/anvisa-solicita-mais-informacoes-para-aprovacao-de-vacina-da-dengue-do-butantan.ghtml) (Globo)
+
+- [”Maailman vaarallisin eläin” iski Veronica Verhoon](https://www.iltalehti.fi/terveysuutiset/a/4a17543f-eb1d-4fcc-9325-8c47ac505d6f) (Iltalehti.fi)
+
+- [Brit stuck in Bali with 'brain swelling' disease faces £50,000 bill after health insurance expired days earlier](https://www.ladbible.com/news/world-news/brit-travel-bali-health-brain-swelling-50k-bill-455644-20250212) (LADbible)
+
+- [Dinkes P2KB Sebut Musim Hujan Picu Lonjakan Kasus DBD di Sumenep, Masyarakat Diimbau Begini](https://suaraindonesia-news.com/dinkes-p2kb-sebut-musim-hujan-picu-lonjakan-kasus-dbd-di-sumenep-masyarakat-diimbau-begini/) (Suaraindonesia-news.com)
+
 - [Menina de 11 anos morre após complicações da dengue](https://www.terra.com.br/noticias/menina-de-11-anos-morre-apos-complicacoes-da-dengue,cf4b37060fd69d6f83eb00a6feac39c8jvvrbjm5.html) (Terra.com.br)
 
 - [Alerta de novo surto de dengue no Brasil e outros países da América](https://olhardigital.com.br/2025/02/11/medicina-e-saude/alerta-de-novo-surto-de-dengue-no-brasil-e-outros-paises-da-america/) (Olhardigital.com.br)
@@ -219,6 +257,12 @@ Source: [News API](https://newsapi.org/)
 - [Adolescente com suspeita de dengue morre após alta em hospital no RJ](https://www.metropoles.com/brasil/adolescente-com-suspeita-de-dengue-morre-apos-alta-em-hospital-no-rj) (Metropoles.com)
 
 - [Nayarit entre las 10 entidades con más casos de dengue](https://www.excelsior.com.mx/nacional/nayarit-entre-10-entidades-mas-casos-dengue/1698910) (Excelsior.com.mx)
+
+## 25-7 (chikungunya)
+
+- [Chikungunya: SP registra primeira morte pela doença no estado em 2025](https://www.metropoles.com/sao-paulo/chikungunya-sp-registra-primeira-morte-pela-doenca-no-estado-em-2025) (Metropoles.com)
+
+- [SP registra primeira morte por chikungunya em 2025](https://valor.globo.com/brasil/noticia/2025/02/12/sp-registra-primeira-morte-por-chikungunya-em-2025.ghtml) (Globo)
 
 ## 25-6 (zika)
 
@@ -2712,16 +2756,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Pakar Ungkap Potensi Ancaman Kesehatan Utama di 2025, Ada Malaria hingga Masalah Mental](https://www.liputan6.com/health/read/5856603/pakar-ungkap-potensi-ancaman-kesehatan-utama-di-2025-ada-malaria-hingga-masalah-mental) (Liputan6.com)
 
-- [AB-PMJAY has reduced cancer patients' financial burden significantly: Prime Minister Modi](https://economictimes.indiatimes.com/news/india/ab-pmjay-has-reduced-cancer-patients-financial-burden-significantly-prime-minister-modi/articleshow/116773595.cms) (The Times of India)
-
-- [Doch keine mysteriöse «Krankheit X» in Kongo-Kinshasa: Unterernährung macht Malaria und Erkältungen zu Killern](https://www.nzz.ch/wissenschaft/keine-krankheit-x-im-kongo-unterernaehrung-als-wahre-ursache-ld.1864272) (Www.nzz.ch)
-
-- [WHO-Liste des Grauens: Die gefährlichsten Erreger, gegen die es keine Impfung gibt](https://www.n-tv.de/mediathek/bilderserien/wissen/Die-gefaehrlichsten-Erreger-gegen-die-es-keine-Impfung-gibt-article25374966.html) (N-tv.de)
-
-## 24-53 (hpai)
-
-- [Il primo caso di influenza aviaria mostra i segni di una mutazione: c'è da preoccuparsi?](https://tech.everyeye.it/notizie/caso-influenza-aviaria-mostra-segni-mutazione-e-preoccuparsi-767704.html) (Everyeye.it)
-
 ## 24-53 (h5n1)
 
 - [As pace and severity of human H5N1 cases accelerate, NIH leaders call for more action on bird flu | CNN](https://www.cnn.com/2024/12/31/health/human-h5n1-bird-flu-cases/index.html) (CNN)
@@ -2768,16 +2802,6 @@ Source: [News API](https://newsapi.org/)
 
 - [طفرة فريدة من نوعها لفيروس انفلونزا الطيور يكتشفها أطباء في لوس أنجلوس.. بِمَ يُنبئنا ذلك؟](https://arabic.cnn.com/science-and-health/video/2024/12/30/v167548-bird-flu-mutation) (CNN)
 
-- [Американских кошек поразил новый штамм птичьего гриппа](https://naked-science.ru/article/medicine/amerikanskih-koshek-poraz) (Naked-science.ru)
-
-- [Марбург, Коксаки и Аляскапокс: какие вирусы бушевали в 2024](https://vfokuse.mail.ru/article/marburg-koksaki-i-alyaskapoks-kakie-virusy-bushevali-v-2024-64280393/) (Mail.ru)
-
-- [Schwerer Vogelgrippe-Fall beim Menschen: US-Seuchenbehörde findet gefährliche Mutationen](https://www.tagesspiegel.de/wissen/schwerer-vogelgrippe-fall-beim-menschen-us-seuchenbehorde-findet-gefahrliche-mutationen-12938302.html) (Der Tagesspiegel)
-
-- [Health expert warns bird flu may become a pandemic like COVID-19](https://www.revolt.tv/article/former-white-house-health-expert-warns-bird-flu-has-potential-to-become-pandemic) (REVOLT TV)
-
-- [طفرة جديدة تثير القلق.. إنفلونزا الطيور تستهدف خلايا التنفس لدى البشر](https://arabic.cnn.com/science-and-health/video/2024/12/29/v167569-bird-flu-mutates-to-target-human-respiratory-cells) (CNN)
-
 ## 24-53 (dengue)
 
 - [Bangladesh records 575 dengue deaths in 2024](https://www.thestar.com.my/news/world/2025/01/01/bangladesh-records-575-dengue-deaths-in-2024) (The Star Online)
@@ -2787,8 +2811,6 @@ Source: [News API](https://newsapi.org/)
 - [Japanese encephalitis: Summer's first case of mosquito-borne virus detected in Victorian](https://thenightly.com.au/society/health/japanese-encephalitis-summers-first-case-of-mosquito-borne-virus-detected-in-victorian-c-17244120) (Thenightly.com.au)
 
 - [Summer's first case of mosquito-borne Japanese encephalitis detected in Victoria](https://7news.com.au/news/summers-first-case-of-mosquito-borne-japanese-encephalitis-detected-in-victoria-c-17244123) (7NEWS.com.au)
-
-- [Os recordes negativos do governo Lula em 2024](https://veja.abril.com.br/brasil/os-recordes-negativos-do-governo-lula-em-2024) (Abril.com.br)
 
 ## 24-53 (chikungunya)
 

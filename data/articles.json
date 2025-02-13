@@ -1,8 +1,386 @@
 {
-  "last_updated": "2025-02-13 07:07",
-  "count_articles_total": 1244,
-  "count_articles_new": 11,
+  "last_updated": "2025-02-13 19:05",
+  "count_articles_total": 1255,
+  "count_articles_new": 21,
   "articles": [
+    {
+      "id": 18181,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Mediafax.ro",
+      "author": "Petru Mazilu",
+      "title": "OMS: 50 de \u0163\u0103ri, afectate de retragerea finan\u0163\u0103rii SUA",
+      "description": "50 de \u0163\u0103ri sunt afectate de retragerea finan\u0163\u0103rii americane privind programele medicale, a anun\u0163at miercuri \u015feful Organiza\u0163iei Mondiale a S\u0103n\u0103t\u0103\u0163ii (OMS), Tedros Ghebreyesus.",
+      "url": "https://www.mediafax.ro/externe/oms-50-de-tari-afectate-de-retragerea-finantarii-sua-22692176",
+      "urlToImage": "https://storage0.dms.mpinteractiv.ro/media/1/1/3614/22692176/1/forsxcwwyaqur7.jpg?width=640",
+      "publishedAt": "2025-02-12 19:03:36",
+      "content": "Programele de combatere a HIV, poliomielitei, mpox i gripei aviare au fost afectate de \u00eenghearea a zeci de miliarde de dolari din ajutorul din partea SUA, spune eful Organizaiei Mondiale a Sntii (OMS\u2026 [+1566 chars]",
+      "retrievedAt": "2025-02-13 19:05:40.695801",
+      "internal_id": "93dddd8cf9dc641136008644369b4fe9e0a7023d4a925b750bfd93d21824e7fe",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 18183,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": null,
+      "title": "Fifty countries affected by USAID freeze, says WHO",
+      "description": "HIV treatments and other services have been disrupted, says Dr Tedros Adhanom Ghebreyesus.",
+      "url": "https://www.bbc.com/news/articles/czj3z290ngyo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/19c2/live/386d4da0-e969-11ef-9a02-47b53f779211.jpg",
+      "publishedAt": "2025-02-12 18:33:59",
+      "content": "Programmes to tackle HIV, polio, mpox and bird flu have been affected by the freeze on tens of billions of dollars of overseas aid from the US, says the head of the World Health Organization (WHO). \u2026 [+3049 chars]",
+      "retrievedAt": "2025-02-13 19:05:40.712534",
+      "internal_id": "1e0f1e4568782897e25a9b1dfef5d6dc9858e1150a8eed5b96474bf7e33e0712",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 18178,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Guilherme Bianchi",
+      "title": "Chikungunya: SP registra primeira morte pela doen\u00e7a no estado em 2025",
+      "description": "Segundo a Secretaria do Estado da Sa\u00fade (SES), a v\u00edtima morava em Tup\u00e3, no interior. A chikungunya \u00e9 transmitida pelo mosquito Aedes aegypti",
+      "url": "https://www.metropoles.com/sao-paulo/chikungunya-sp-registra-primeira-morte-pela-doenca-no-estado-em-2025",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2021/02/04152125/aedes-aegypti.jpg",
+      "publishedAt": "2025-02-12 18:26:01",
+      "content": "S\u00e3o Paulo O estado de S\u00e3o Paulo registrou a primeira morte por chikungunya em 2025. A v\u00edtima era um homem de 60 anos e morava em Tup\u00e3, no interior paulista. Segundo a prefeitura local, o homem aprese\u2026 [+3069 chars]",
+      "retrievedAt": "2025-02-13 19:05:40.364192",
+      "internal_id": "f50390f4a80c8aed1fa1278888ede47018f424704b0bfbbad47a18f16726e9eb",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 18169,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "NPR",
+      "title": "ICYMI: Bird Flu Is Roiling Egg Farms Across The Country",
+      "description": "Having trouble finding eggs in the grocery store this week? You're not alone. Bird flu is roiling egg farms across the country.In April 2024, the first hens tested positive for Highly Pathogenic Avian Influenza, or H5N1. Since then, the avian flu has \u2026",
+      "url": "https://www.npr.org/2026/01/01/1263204091/zz-1a-bonus",
+      "urlToImage": "https://media.npr.org/assets/img/2025/02/12/gettyimages-73225724-1024x687_wide-b1ee979833f3377b4cb1dd45c170211c3ac850b3.jpg?s=1400&c=100&f=jpeg",
+      "publishedAt": "2025-02-12 18:11:56",
+      "content": "Battery hens sit in a chicken shed in Suffolk, England. (Photo by Jamie McDonald/Getty Images) Jamie McDonald/Getty Images Having trouble finding eggs in the grocery store this week? You're not alo\u2026 [+658 chars]",
+      "retrievedAt": "2025-02-13 19:05:38.477111",
+      "internal_id": "d12093f1d19926ea4f77e538eb96662f9513fafe639ec654e72a3a50634230bc",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 18176,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Www.abc.es",
+      "author": "(abc)",
+      "title": "Dos nuevos casos de meningitis bacteriana elevan a siete los detectados en lo que va de a\u00f1o en Arag\u00f3n",
+      "description": "La misma bacteria ('Neisseria Meningitidis') y nuevos casos. El departamento de Sanidad del Gobierno de Arag\u00f3n ha informado hoy de que se han detectado en la comunidad dos nuevos casos de enfermedad meningoc\u00f3cica la semana pasada. En total, en lo que va de a\u00f1\u2026",
+      "url": "https://www.abc.es/espana/aragon/dos-nuevos-casos-meningitis-bacteriana-elevan-siete-20250212190336-nt.html",
+      "urlToImage": "https://s1.abcstatics.com/abc/www/multimedia/espana/2025/02/12/servet-U42846214116PgK-1024x512@diario_abc.jpg",
+      "publishedAt": "2025-02-12 18:03:37",
+      "content": "La misma bacteria ('Neisseria Meningitidis') y nuevos casos. El departamento de Sanidad del Gobierno de Arag\u00f3n ha informado hoy de que se han detectado en la comunidad dos nuevos casos de enfermedad \u2026 [+1860 chars]",
+      "retrievedAt": "2025-02-13 19:05:39.481451",
+      "internal_id": "64469603020edafa347fa6a68aa2b38257e6723dea54ae3c71d360962c6ab147",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 18175,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Elespanol.com",
+      "author": "Mar\u00eda Gonz\u00e1lez",
+      "title": "Arag\u00f3n confirma dos nuevos casos de meningitis y ya son siete los detectados en solo dos meses",
+      "description": "Los \u00faltimos casos que se conocieron fueron tres afectados por un brote en un centro educativo de Zaragoza. M\u00e1s informaci\u00f3n: Elena Javierre, pediatra: \"Con la meningitis hay que actuar muy pronto para intentar frenar su evoluci\u00f3n lo antes posible\"",
+      "url": "https://www.elespanol.com/aragon/actualidad/20250212/aragon-confirma-nuevos-casos-meningitis-detectados-solo-meses/923658206_0.html",
+      "urlToImage": "https://s1.elespanol.com/2025/01/27/aragon/actualidad/919668413_252630818_1706x960.png",
+      "publishedAt": "2025-02-12 18:00:13",
+      "content": "La enfermedad infecciosa meningitis sigue presnete en Arag\u00f3n en este 2025. El departamento de Sanidad del Gobierno de Arag\u00f3n ha confirmado dos nuevos casos detectados durante la primera semana de feb\u2026 [+1917 chars]",
+      "retrievedAt": "2025-02-13 19:05:39.473813",
+      "internal_id": "ef5cd2e5ec7bf2d844ca888fde6495c6a2de7bec434e2d6b72da397bdd7e867a",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 18166,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Sara Moniuszko",
+      "title": "Measles outbreak in Texas was \"completely preventable,\" disease expert says",
+      "description": "As Gaines County, Texas, deals with a measles outbreak, experts are reminding Americans that outbreaks like these can be avoided with available safe and effective vaccines.",
+      "url": "https://www.cbsnews.com/news/measles-outbreak-texas-preventable-symptoms/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/02/12/ae5c61d7-aa8b-4df2-81b8-a33dfa640363/thumbnail/1200x630/82e567d9b3e69e417987c7f8e2ae7898/gettyimages-1308115669-1.jpg?v=905524240eba4a810b7648f150c98fe0",
+      "publishedAt": "2025-02-12 17:50:40",
+      "content": "As a West Texas county is dealing with a measles outbreak, experts are reminding Americans outbreaks like these can be avoided with safe, effective and available vaccines. Health officials confirm\u2026 [+3631 chars]",
+      "retrievedAt": "2025-02-13 19:05:37.658936",
+      "internal_id": "406aaf81f4cd28d730b5ab2c3f6a9ece97d1200e4642a6152de39630f8345df4",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 18168,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Newsbreak.com",
+      "author": "Mary Kekatos",
+      "title": "Measles cases are rising, primarily in unvaccinated people: Health officials - NewsBreak",
+      "description": "Measles cases are rising in the U.S. with infections confirmed in at least five states this year, and primarily spreading among unvaccinated people.",
+      "url": "https://www.newsbreak.com/share/3803502159478-measles-cases-are-rising-primarily-in-unvaccinated-people-health-officials?s=a2&amp;share_destination_id=MTgzMTE5NjMyLTE3MzkzODE5NDUwMDc%3D&amp;pd=0COLmS1Y&amp;hl=en_US&amp;send_time=1739381945&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.6.1%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_recall_exp_25q1-v3%2Cns_foryou_model_exp_25q1-v9%2Cns_foryou_blend_exp_25q1-v7%2Cns_foryou_rank_exp_25q1-v4%2Cns_push_exp_rt_bucketv12-v4",
+      "urlToImage": "https://img.particlenews.com/img/id/2uaDy5_0yqUoxLS00",
+      "publishedAt": "2025-02-12 17:39:32",
+      "content": "Measles cases are rising in the U.S. with infections confirmed in at least five states so far this year. Cases have been reported in Alaska, Georgia, New York City, Rhode Island and Texas, mostly \u2026 [+4010 chars]",
+      "retrievedAt": "2025-02-13 19:05:37.805286",
+      "internal_id": "31d67f36c908da43f21d0bd2feae9c223bd593791eae3071e80ad63fc35ebec9",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 18167,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Insurance Journal",
+      "author": "admin",
+      "title": "Measles Outbreak Reported in Small West Texas County",
+      "description": "Fifteen measles cases \u2014 mostly in school-aged children \u2014 have been confirmed in a small county in West Texas with one of the highest rates of vaccine exemptions in the state. South Plains Public Health District Director Zach Holbrooks said \u2026",
+      "url": "https://www.insurancejournal.com/news/southcentral/2025/02/12/811818.htm",
+      "urlToImage": "https://www.insurancejournal.com/img/social/opengraph/ij-social-default-1200x630.png",
+      "publishedAt": "2025-02-12 17:31:45",
+      "content": "Fifteen measles cases mostly in school-aged children have been confirmed in a small county in West Texas with one of the highest rates of vaccine exemptions in the state. South Plains Public Health \u2026 [+3508 chars]",
+      "retrievedAt": "2025-02-13 19:05:37.678983",
+      "internal_id": "405f940927b8ad154c77a1f6ce1d32e129133e1723fcc0f294d04ded7e435f2a",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 18182,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "OMS: retirada de financiaci\u00f3n de EE. UU. \"est\u00e1 teniendo un grave impacto sanitario global\"",
+      "description": "La organizaci\u00f3n global se\u00f1al\u00f3 que la decisi\u00f3n afecta los esfuerzos por erradicar la polio o contener la mpox, entre otros objetivos.",
+      "url": "https://www.montevideo.com.uy/Salud/OMS-retirada-de-financiacion-de-EE-UU--esta-teniendo-un-grave-impacto-sanitario-global--uc914796",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202006/_W933_80/730319.jpg",
+      "publishedAt": "2025-02-12 17:23:00",
+      "content": "El director general de la Organizaci\u00f3n Mundial de la Salud (OMS), Tedros Adhanom Ghebreyesus, insisti\u00f3 este mi\u00e9rcoles en el \"grave impacto en la salud global\" que est\u00e1 teniendo la retirada de diver\u2026 [+1479 chars]",
+      "retrievedAt": "2025-02-13 19:05:40.704061",
+      "internal_id": "d80340db989a4337510a97b77bbe381c3783a7948c509a218b15fb431757de3c",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 18184,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Chrispinus Omar, Lin Jing",
+      "title": "Roundup: Kenya ramps up measures to curb viral disease spread",
+      "description": "NAIROBI, Feb. 12 (Xinhua) -- Kenya's health authorities said Wednesday that robust measures are underway to mitigate the risks of viral diseases such as Marburg, mpox, and Ebola across the country. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2025/02/13/roundup-kenya-ramps-up-measures-to-curb-viral-disease-spread",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2025-02-12 17:22:00",
+      "content": "NAIROBI, Feb. 12 (Xinhua) -- Kenya's health authorities said Wednesday that robust measures are underway to mitigate the risks of viral diseases such as Marburg, mpox, and Ebola across the country. \u2026 [+3321 chars]",
+      "retrievedAt": "2025-02-13 19:05:40.720635",
+      "internal_id": "b5f365be4a123b11d63f91ac1f27d077a8ba3edfa4f1fe83411095f06d6551b9",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 18174,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Www.abc.es",
+      "author": "(abc)",
+      "title": "Muere repentinamente por meningitis una portera de balonmano de 21 a\u00f1os",
+      "description": "El balonmano franc\u00e9s est\u00e1 de luto e impactado por la repentina muerte de Jemima Kabeya , portera de 21 a\u00f1os del club Handball Plan de Cuques (Hbpc), de la Primera Divisi\u00f3n gala. Hospitalizada el pasado domingo por la noche, falleci\u00f3 el lunes v\u00edctima de una me\u2026",
+      "url": "https://www.abc.es/deportes/muere-repentinamente-meningitis-portera-balonmano-anos-20250212110751-nt.html",
+      "urlToImage": "https://s2.abcstatics.com/abc/www/multimedia/deportes/2025/02/12/GjgHF4lX0AERRJi-U87253816504PxF-1024x512@diario_abc.jpg",
+      "publishedAt": "2025-02-12 16:21:28",
+      "content": "El balonmano franc\u00e9s est\u00e1 de luto e impactado por la repentina muerte de Jemima Kabeya, portera de 21 a\u00f1os del club Handball Plan de Cuques (Hbpc), de la Primera Divisi\u00f3n gala. Hospitalizada el pasad\u2026 [+1686 chars]",
+      "retrievedAt": "2025-02-13 19:05:39.465695",
+      "internal_id": "ffc7da127c0205e2167b65468bc2eed96c39a175128b82fe4f19b3708a720bb9",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 18171,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Anvisa solicita mais informa\u00e7\u00f5es para aprova\u00e7\u00e3o de vacina da dengue do Butantan",
+      "description": "Centro de pesquisa come\u00e7ou a produzir o imunizante sob risco, j\u00e1 que n\u00e3o tem garantia da aprova\u00e7\u00e3o; ag\u00eancia solicitou informa\u00e7\u00f5es e dados complementares para que possa dar seguimento da an\u00e1lise",
+      "url": "https://valor.globo.com/brasil/noticia/2025/02/12/anvisa-solicita-mais-informacoes-para-aprovacao-de-vacina-da-dengue-do-butantan.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/tyPG9VTKYNs7R8WnusrjR_moihM=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/y/h/9eNwOaQGeg3OYlRyPkvw/instituto-burantan-em-sao-paulo-rovena-rosa-agencia-brasil.jpg",
+      "publishedAt": "2025-02-12 16:20:24",
+      "content": "A Ag\u00eancia Nacional de Vigil\u00e2ncia Sanit\u00e1ria (Anvisa) solicitou esclarecimentos e mais dados sobre a vacina da dengue que foi desenvolvida pelo Instituto Butantan e est\u00e1 em an\u00e1lise pela ag\u00eancia. O \u00f3rg\u00e3\u2026 [+1289 chars]",
+      "retrievedAt": "2025-02-13 19:05:39.128236",
+      "internal_id": "0f3aa317304f2cb3d11434b73ae334de243897c65001cfefca9bd2efda0667e3",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 18164,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TNN",
+      "title": "BMC to operate vehicle with LED screens for rabies awareness",
+      "description": "Mumbai: As part of an initiative to create awareness about the need for rabies prevention and vaccination, the BMC has designed a pick-up vehicle with.",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/bmc-to-operate-vehicle-with-led-screens-for-rabies-awareness/articleshow/118185436.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-117518363,width-1070,height-580,imgsize-404068,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2025-02-12 16:17:33",
+      "content": "10 most beautiful sea animals",
+      "retrievedAt": "2025-02-13 19:05:37.171596",
+      "internal_id": "f6b859da421ee03a4e6ee521efabf006629f0f2aa8887f34d30b485430e692b3",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 18165,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "CBS News",
+      "title": "Measles outbreak expands in West Texas",
+      "description": "At least two dozen cases of measles have been reported in a West Texas county with one of the highest rates of vaccine exemptions in the state. All of the confirmed cases there involve unvaccinated residents. Amesh Adalja, an infectious disease physician at J\u2026",
+      "url": "https://www.cbsnews.com/video/measles-outbreak-expands-in-west-texas/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/02/12/222131d6-8fbc-4d58-9e18-6740f0174c8e/thumbnail/1200x630/d2f49820e74ebc18c53c1b113a0110d8/cbsn-fusion-measles-outbreak-expands-in-west-texas-thumbnail.jpg?v=905524240eba4a810b7648f150c98fe0",
+      "publishedAt": "2025-02-12 15:45:00",
+      "content": "Watch CBS News Copyright \u00a92025 CBS Interactive Inc. All rights reserved. Get browser notifications for breaking news, live events, and exclusive reporting. Not NowTurn On",
+      "retrievedAt": "2025-02-13 19:05:37.650852",
+      "internal_id": "8ff41627f48eb3545059743edef9f6922316794933c2024672cd97bcf8716da3",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 18172,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Iltalehti.fi",
+      "author": null,
+      "title": "\u201dMaailman vaarallisin el\u00e4in\u201d iski Veronica Verhoon",
+      "description": "Juontaja Veronica Verho joutui sairaalaan, jossa selvisi, ett\u00e4 h\u00e4nell\u00e4 on sek\u00e4 denguekuume ett\u00e4 L\u00e4nsi-Niilin kuume. Juontaja Veronica Verho sairastui Balilla vietetyn loman j\u00e4lkeen. Kuumeilu ja olon heikkeneminen veiv\u00e4t h\u00e4nen sairaalahoitoon, jossa k\u00e4vi ilmi,\u2026",
+      "url": "https://www.iltalehti.fi/terveysuutiset/a/4a17543f-eb1d-4fcc-9325-8c47ac505d6f",
+      "urlToImage": "https://img.ilcdn.fi/MJp56es1Ujy4TeoB1RnhMXdbTPE=/1200x630/top/filters:watermark(assets.ilcdn.fi/ilsome_v2.jpg,25,0,0)/img-s3.ilcdn.fi/6324fa24fcde4a37315ca3132fcfb3a8c4d46bf2aa764f814dccaace0ac806f9.jpg",
+      "publishedAt": "2025-02-12 15:12:37",
+      "content": "Juontaja Veronica Verho sairastui Balilla vietetyn loman j\u00e4lkeen. Kuumeilu ja olon heikkeneminen veiv\u00e4t h\u00e4nen sairaalahoitoon, jossa k\u00e4vi ilmi, ett\u00e4 h\u00e4nell\u00e4 oli sek\u00e4 denguekuume ett\u00e4 L\u00e4nsi-Niilin kuu\u2026 [+1325 chars]",
+      "retrievedAt": "2025-02-13 19:05:39.136106",
+      "internal_id": "841dd4859ce37064d0e70a0d77de69efe5630c284e2066eae9ad2d44afe4e627",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 18179,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "SP registra primeira morte por chikungunya em 2025",
+      "description": "V\u00edtima era de Tup\u00e3 e tinha idade entre 50 e 64 anos; ainda n\u00e3o h\u00e1 medicamento espec\u00edfico para tratar a doen\u00e7a, mas \u00e9 recomendado uso de analg\u00e9sicos e observa\u00e7\u00e3o m\u00e9dica",
+      "url": "https://valor.globo.com/brasil/noticia/2025/02/12/sp-registra-primeira-morte-por-chikungunya-em-2025.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/bEQ2snw7r87LZvdm4QuhbkNzD3Q=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2019/p/t/EbxdgKRbWBXnRA3oM9rg/aedesebc.jpg",
+      "publishedAt": "2025-02-12 14:28:42",
+      "content": "O Estado de S\u00e3o Paulo registrou a primeira morte por chikungunya em 2025. De acordo com painel da Secretaria de Estado da Sa\u00fade, a v\u00edtima era de Tup\u00e3 e tinha idade entre 50 e 64 anos. A chikungunya \u00e9\u2026 [+1099 chars]",
+      "retrievedAt": "2025-02-13 19:05:40.372137",
+      "internal_id": "7f46b11293e302e26b60c97edaed530a7f76b22dcda8f324f1f90622ffb957d8",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 18170,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "LADbible",
+      "author": "Joshua Nair",
+      "title": "Brit stuck in Bali with 'brain swelling' disease faces \u00a350,000 bill after health insurance expired days earlier",
+      "description": "Andrew thought that he had dengue fever, but it turned out to be a condition that was far worse",
+      "url": "https://www.ladbible.com/news/world-news/brit-travel-bali-health-brain-swelling-50k-bill-455644-20250212",
+      "urlToImage": "https://images.ladbible.com/ogimage/v3/assets/bltcd74acc1d0a99f3a/bltecfe7108dea424bf/67ac9dd1283a8f59c24e8d00/brit-stuck-bali-50k-bill.jpg",
+      "publishedAt": "2025-02-12 13:29:18",
+      "content": "A travelling Brit was left with a horrific disease after a mosquito bite caused his health to deteriorate. Andrew Court made his way to Bali to see his mate, Zeke Scott, before starting a new job. H\u2026 [+3278 chars]",
+      "retrievedAt": "2025-02-13 19:05:39.088780",
+      "internal_id": "26613f55b3f2e0694274b0ffc5e040411cfee82cbd9bbf50fd684576fd9c692f",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 18177,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Elperiodico.com",
+      "author": "Nerea Jauregizar y Teresa Morera Herreras",
+      "title": "Ocho mujeres que cambiaron la farmacolog\u00eda",
+      "description": "\u00bfSab\u00eda qui\u00e9n desarroll\u00f3 el primer f\u00e1rmaco efectivo contra la leucemia? \u00bfO c\u00f3mo se evit\u00f3 que la talidomida se cobrara cientos de v\u00edctimas en Estados Unidos? \u00bfO qu\u00e9 investigadora descubri\u00f3 uno de los principales tratamientos contra la malaria? En la historia de\u2026",
+      "url": "https://www.elperiodico.com/es/ciencia/20250212/ocho-mujeres-cambiaron-farmacologia-114232542",
+      "urlToImage": "https://estaticos-cdn.prensaiberica.es/clip/e1128d7d-bd5c-4c9b-ada6-0426ab70648e_16-9-discover-aspect-ratio_default_0.jpg",
+      "publishedAt": "2025-02-12 13:09:19",
+      "content": "Ilustraci\u00f3n de mujer cient\u00edfica / Uncle Leo | Shuterstock \u00bfSab\u00eda qui\u00e9n desarroll\u00f3 el primer f\u00e1rmaco efectivo contra la leucemia? \u00bfO c\u00f3mo se evit\u00f3 que la talidomida se cobrara cientos de v\u00edctimas en \u2026 [+6175 chars]",
+      "retrievedAt": "2025-02-13 19:05:39.930027",
+      "internal_id": "1be8f269814393209894a97113df689114b27970e4295af71755dcec9a9e07cd",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 18173,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Suaraindonesia-news.com",
+      "author": "admin",
+      "title": "Dinkes P2KB Sebut Musim Hujan Picu Lonjakan Kasus DBD di Sumenep, Masyarakat Diimbau Begini",
+      "description": "SUMENEP, Rabu (12/02) suaraindonesia-news.com \u2013 Musim hujan yang... The post Dinkes P2KB Sebut Musim Hujan Picu Lonjakan Kasus DBD di Sumenep, Masyarakat Diimbau Begini appeared first on Suara Indonesia.",
+      "url": "https://suaraindonesia-news.com/dinkes-p2kb-sebut-musim-hujan-picu-lonjakan-kasus-dbd-di-sumenep-masyarakat-diimbau-begini/",
+      "urlToImage": "https://suaraindonesia-news.com/wp-content/uploads/2025/02/IMG_20250212_164533.jpg",
+      "publishedAt": "2025-02-12 09:49:44",
+      "content": "SUMENEP, Rabu (12/02) suaraindonesia-news.com Musim hujan yang berlangsung sejak akhir 2024 diduga menjadi penyebab utama peningkatan signifikan kasus demam Berdarah Dengue (DBD) di Kabupaten Sumenep\u2026 [+2947 chars]",
+      "retrievedAt": "2025-02-13 19:05:39.143951",
+      "internal_id": "01acf3e4f5bc2172a7c7a41a1b1f34977863de2d345867cd4ae9cc2d887cfca2",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 18180,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Gabrielle Emanuel",
+      "title": "Mpox outbreak in Africa at critical moment as U.S. halts aid, rebel violence erupts",
+      "description": "Mpox continues to impact parts of Africa. And experts say the outbreak stands at a critical moment as the U.S. halts foreign assistance and rebel violence scramble efforts to control the virus.",
+      "url": "https://www.npr.org/2025/02/12/nx-s1-5292356/mpox-outbreak-in-africa-at-critical-moment-as-u-s-halts-aid-rebel-violence-erupts",
+      "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+      "publishedAt": "2025-02-12 09:10:36",
+      "content": "Mpox continues to impact parts of Africa. And experts say the outbreak stands at a critical moment as the U.S. halts foreign assistance and rebel violence scramble efforts to control the virus.",
+      "retrievedAt": "2025-02-13 19:05:40.688003",
+      "internal_id": "5ea98921465973b84213f642e686932c419fdb8c4c9d7ef607617be4e01a665e",
+      "publishedAtLabel": "Feb 12"
+    },
     {
       "id": 18157,
       "query": [
@@ -22263,186 +22641,6 @@
       "retrievedAt": "2024-12-31 07:06:23.062519",
       "internal_id": "0bc71e1789a4d07f5edf705712a5525d9fafec59ac7298e720183fce7eba5a08",
       "publishedAtLabel": "Dec 30"
-    },
-    {
-      "id": 16925,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "PTI",
-      "title": "AB-PMJAY has reduced cancer patients' financial burden significantly: Prime Minister Modi",
-      "description": "Prime Minister Narendra Modi highlights the impact of the Ayushman Bharat Pradhan Mantri Jan Arogya Yojana on reducing cancer patients' financial burden and improving timely cancer treatment. He also underscores the significant reduction in malaria cases and \u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/ab-pmjay-has-reduced-cancer-patients-financial-burden-significantly-prime-minister-modi/articleshow/116773595.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-116773634,width-1200,height-630,imgsize-1176719,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2024-12-29 17:08:42",
-      "content": "The Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (AB-PMJAY) has reduced the cancer patients' financial burden significantly, Prime Minister Narendra Modi said on Sunday. Modi highlighted the achi\u2026 [+2619 chars]",
-      "retrievedAt": "2024-12-30 19:05:34.438835",
-      "internal_id": "e229a8cdaccdbf44b9c346c41bb50e05d4373547b8f017853329cc645773464f",
-      "publishedAtLabel": "Dec 29"
-    },
-    {
-      "id": 16923,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Abril.com.br",
-      "author": "Hugo C\u00e9sar Marques",
-      "title": "Os recordes negativos do governo Lula em 2024",
-      "description": "Mortes por dengue, queimadas, alta do d\u00f3lar, desaprova\u00e7\u00e3o e finan\u00e7as das estatais lideram o rol de maus resultados da administra\u00e7\u00e3o petista",
-      "url": "https://veja.abril.com.br/brasil/os-recordes-negativos-do-governo-lula-em-2024",
-      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2024/09/54020044888_4ae7db6d8e_6k.jpg?quality=70&strip=info&crop=1&resize=1080,565",
-      "publishedAt": "2024-12-29 16:14:06",
-      "content": "\u00daltima Semana: Assine a partir de 1,50/semanaO presidente Luiz In\u00e1cio Lula da Silva, durante o evento Em defesa da democracia, combatendo os extremismos, na Sede das Na\u00e7\u00f5es Unidas, em Nova Iorque - \u2026 [+2111 chars]",
-      "retrievedAt": "2024-12-30 19:05:33.928792",
-      "internal_id": "01ccc77daeb09ee31f548fa68c18356f20a2268d54f3c6b4444cbd1a2c491dea",
-      "publishedAtLabel": "Dec 29"
-    },
-    {
-      "id": 16924,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Www.nzz.ch",
-      "author": "Anna Weber (wea)",
-      "title": "Doch keine mysteri\u00f6se \u00abKrankheit X\u00bb in Kongo-Kinshasa: Unterern\u00e4hrung macht Malaria und Erk\u00e4ltungen zu Killern",
-      "description": "Die Weltgesundheitsorganisation hat in Proben von Betroffenen keine neuen Erreger gefunden. Stattdessen treffen altbekannte Viren auf ein geschw\u00e4chtes Immunsystem. Das bedroht vor allem kleine Kinder.",
-      "url": "https://www.nzz.ch/wissenschaft/keine-krankheit-x-im-kongo-unterernaehrung-als-wahre-ursache-ld.1864272",
-      "urlToImage": "https://img.nzz.ch/2024/12/29/28f22673-2de4-4eb3-aff6-608954ac4a6f.jpeg?width=832&height=468&fit=bounds&quality=75&auto=webp&crop=832,468,x4,y0",
-      "publishedAt": "2024-12-29 15:36:29",
-      "content": "Viele Krankenh\u00e4user in der Region Panzi in Kongo-Kinshasa haben nicht genug Personal und Ressourcen, um alle Patienten angemessen zu versorgen. Erk\u00e4ltungssymptome, stark ansteigende Fallzahlen und D\u2026 [+4125 chars]",
-      "retrievedAt": "2024-12-30 19:05:34.360815",
-      "internal_id": "bb9524cb390837c786d15f125b651be702a8b76cc9c922f2dc86e184433428bf",
-      "publishedAtLabel": "Dec 29"
-    },
-    {
-      "id": 16918,
-      "query": [
-        "hpai"
-      ],
-      "source_id": null,
-      "source_name": "Everyeye.it",
-      "author": "Giuseppe Occhiuto",
-      "title": "Il primo caso di influenza aviaria mostra i segni di una mutazione: c'\u00e8 da preoccuparsi?",
-      "description": "A quanto pare il virus dell'influenza aviaria sta cambiando negli esseri umani. C'\u00e8 realmente da preoccuparsi? Facciamo il puntoIl primo paziente con la \"Highly Pathogenic Avian Influenza\" (HPAI), ovvero l'influenza aviaria che fa preoccupare milioni di perso\u2026",
-      "url": "https://tech.everyeye.it/notizie/caso-influenza-aviaria-mostra-segni-mutazione-e-preoccuparsi-767704.html",
-      "urlToImage": "https://images.everyeye.it/img-notizie/il-caso-influenza-aviaria-mostra-segni-mutazione-c-E-preoccuparsi-v4-767704.jpg",
-      "publishedAt": "2024-12-29 15:36:00",
-      "content": "Il primo paziente con la \"Highly Pathogenic Avian Influenza\" (HPAI), ovvero l'influenza aviaria che fa preoccupare milioni di persone, mostra l'esistenza di mutazioni che influenzano la capacit\u00e0 del \u2026 [+2164 chars]",
-      "retrievedAt": "2024-12-30 19:05:33.011249",
-      "internal_id": "93384229609d04c1da2584dfe7402b0b85649c700ff306aa595b4d3921c8a153",
-      "publishedAtLabel": "Dec 29"
-    },
-    {
-      "id": 16920,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Naked-science.ru",
-      "author": "\u041b\u044e\u0431\u043e\u0432\u044c",
-      "title": "\u0410\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0438\u0445 \u043a\u043e\u0448\u0435\u043a \u043f\u043e\u0440\u0430\u0437\u0438\u043b \u043d\u043e\u0432\u044b\u0439 \u0448\u0442\u0430\u043c\u043c \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430",
-      "description": "\u0417\u0430 \u0434\u0432\u0430 \u0441 \u043f\u043e\u043b\u043e\u0432\u0438\u043d\u043e\u0439 \u0433\u043e\u0434\u0430 \u0432\u0438\u0440\u0443\u0441 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430 H5N1 \u043f\u043e\u0433\u0443\u0431\u0438\u043b \u0431\u043e\u043b\u0435\u0435 100 \u043c\u0438\u043b\u043b\u0438\u043e\u043d\u043e\u0432 \u043f\u0435\u0440\u043d\u0430\u0442\u044b\u0445 \u043d\u0430 \u043f\u0442\u0438\u0446\u0435\u0444\u0430\u0431\u0440\u0438\u043a\u0430\u0445 \u0421\u0428\u0410. \u0415\u0433\u043e \u043f\u0435\u0440\u0435\u043d\u043e\u0441\u0447\u0438\u043a\u0430\u043c\u0438, \u043a\u0430\u043a \u043e\u043a\u0430\u0437\u0430\u043b\u043e\u0441\u044c, \u043c\u043e\u0433\u0443\u0442 \u0441\u0442\u0430\u0442\u044c \u0434\u043e\u043c\u0430\u0448\u043d\u0438\u0435 \u043a\u043e\u0448\u043a\u0438: \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u044b \u043d\u043e\u0432\u043e\u0433\u043e \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u044f \u043f\u043e\u043a\u0430\u0437\u0430\u043b\u0438, \u0447\u0442\u043e \u043c\u0443\u0442\u0430\u0446\u0438\u0438 \u0443 \u044d\u0442\u0438\u0445 \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u0445 \u0437\u043d\u0430\u0447\u0438\u0442\u0435\u043b\u044c\u043d\u043e \u043f\u043e\u0432\u044b\u0448\u0430\u2026",
-      "url": "https://naked-science.ru/article/medicine/amerikanskih-koshek-poraz",
-      "urlToImage": "https://naked-science.ru/wp-content/uploads/2024/12/cat_bird-1200x675.jpeg",
-      "publishedAt": "2024-12-29 13:28:53",
-      "content": "H5N1 100 . , , : , \u00ab\u00bb \u00ab\u00bb () . , , , : 2024 () H5N1 10 . . , . , . Taylor and Francis. , . , , . (Suresh V. Kuchipudi) () , , , , , . . , , (HA) T143A , \u00ab\u00bb . F314L L342Q PA (), ( ). \u2026 [+119 chars]",
-      "retrievedAt": "2024-12-30 19:05:33.588756",
-      "internal_id": "347553ed5c7feec811e40aff2352e35621b8d43953dc6ea0f7e5887abf7bc222",
-      "publishedAtLabel": "Dec 29"
-    },
-    {
-      "id": 16922,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Mail.ru",
-      "author": "\u0420\u0430\u043c\u0438\u043b\u044f \u0413\u0430\u043b\u0438\u043c\u0437\u044f\u043d\u043e\u0432\u0430",
-      "title": "\u041c\u0430\u0440\u0431\u0443\u0440\u0433, \u041a\u043e\u043a\u0441\u0430\u043a\u0438 \u0438 \u0410\u043b\u044f\u0441\u043a\u0430\u043f\u043e\u043a\u0441: \u043a\u0430\u043a\u0438\u0435 \u0432\u0438\u0440\u0443\u0441\u044b \u0431\u0443\u0448\u0435\u0432\u0430\u043b\u0438 \u0432 2024",
-      "description": "\u041e\u043d\u0438 \u043c\u043e\u0433\u043b\u0438 \u043f\u0435\u0440\u0435\u0440\u0430\u0441\u0442\u0438 \u0432 \u044d\u043f\u0438\u0434\u0435\u043c\u0438\u044e, \u043d\u043e \u044d\u0442\u043e\u0433\u043e \u043d\u0435 \u0441\u043b\u0443\u0447\u0438\u043b\u043e\u0441\u044c.",
-      "url": "https://vfokuse.mail.ru/article/marburg-koksaki-i-alyaskapoks-kakie-virusy-bushevali-v-2024-64280393/",
-      "urlToImage": "https://resizer.mail.ru/p/68346929-235c-56b5-ab4f-8ed04163ca45/op:15/logo:bottom:vfokuse.png/AQAGLw0YIawdOncjk_0oAufl-pIHYgLdRYhe0Op79kH3AKXFZDfAoUaKgC9L5hcI9N3iFKoHg-YLI516VIWkT4-y2MQ.jpg",
-      "publishedAt": "2024-12-29 13:16:28",
-      "content": ". , \u00ab\u00bb . COVID-19, , . , 2024 , Life. 2024 - (H5N1). . 14 , . . 18 \u2014 . 2021 H5N1 280 . \u2014 . 2024 \u2014 30 . , . 2024 , COVID-19, , . \u2026 [+954 chars]",
-      "retrievedAt": "2024-12-30 19:05:33.678135",
-      "internal_id": "b6849393f197386f30de07cd87570a63fb8747e0bb3bb9dca759742ac39cc5bb",
-      "publishedAtLabel": "Dec 29"
-    },
-    {
-      "id": 16928,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "der-tagesspiegel",
-      "source_name": "Der Tagesspiegel",
-      "author": "Sascha Karberg",
-      "title": "Schwerer Vogelgrippe-Fall beim Menschen: US-Seuchenbeh\u00f6rde findet gef\u00e4hrliche Mutationen",
-      "description": "Mindestens 65 Menschen haben sich in den USA in den vergangenen Monaten \u00fcber infiziertes Gefl\u00fcgel oder Milchk\u00fche mit H5N1-Viren angesteckt. Aber nur einer erkrankte schwer. Jetzt wurde das Viruserbgut analysiert.",
-      "url": "https://www.tagesspiegel.de/wissen/schwerer-vogelgrippe-fall-beim-menschen-us-seuchenbehorde-findet-gefahrliche-mutationen-12938302.html",
-      "urlToImage": "https://www.tagesspiegel.de/images/6647143/alternates/BASE_16_9_W1400/1658762868000/fouchier1hr.jpeg",
-      "publishedAt": "2024-12-29 13:08:25",
-      "content": "Kurz vor Weihnachten hatte die US-Seuchenbeh\u00f6rde CDC best\u00e4tigt, dass im Bundesstaat Louisiana eine Person au\u00dfergew\u00f6hnlich schwer an Vogelgrippe (H5N1) erkrankt war. Offenbar hatte sich die nicht n\u00e4he\u2026 [+5558 chars]",
-      "retrievedAt": "2024-12-31 07:06:23.171572",
-      "internal_id": "133209a677e813512703bda2a7664ec17442e3ee10264fd829f914e2b62ef904",
-      "publishedAtLabel": "Dec 29"
-    },
-    {
-      "id": 16919,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "REVOLT TV",
-      "author": "Angelina Velasquez",
-      "title": "Health expert warns bird flu may become a pandemic like COVID-19",
-      "description": "A medical expert who helped lead America\u2019s COVID-19 response has warned that the ongoing bird flu (H5N1) epidemic can evolve into a pandemic if greater...",
-      "url": "https://www.revolt.tv/article/former-white-house-health-expert-warns-bird-flu-has-potential-to-become-pandemic",
-      "urlToImage": "https://media.zenfs.com/en/revolt_articles_463/9beff138051b8dbc792fba12a4fa6f00",
-      "publishedAt": "2024-12-29 12:05:41",
-      "content": "Yahoo is using AI to generate takeaways from this article. This means the info may not always match what's in the article. Reporting mistakes helps us improve the experience.Generate Key Takeaways A\u2026 [+2651 chars]",
-      "retrievedAt": "2024-12-30 19:05:33.538288",
-      "internal_id": "b5a153d5aba5f4bc8716df9f015f1151ec9e6f380af6d709ba5ee5283eee80fd",
-      "publishedAtLabel": "Dec 29"
-    },
-    {
-      "id": 16921,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "cnn",
-      "source_name": "CNN",
-      "author": "CNN \u0628\u0627\u0644\u0639\u0631\u0628\u064a\u0629",
-      "title": "\u0637\u0641\u0631\u0629 \u062c\u062f\u064a\u062f\u0629 \u062a\u062b\u064a\u0631 \u0627\u0644\u0642\u0644\u0642.. \u0625\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u0637\u064a\u0648\u0631 \u062a\u0633\u062a\u0647\u062f\u0641 \u062e\u0644\u0627\u064a\u0627 \u0627\u0644\u062a\u0646\u0641\u0633 \u0644\u062f\u0649 \u0627\u0644\u0628\u0634\u0631",
-      "description": "\u0623\u062b\u0627\u0631\u062a \u0637\u0641\u0631\u0629 \u062c\u062f\u064a\u062f\u0629 \u0638\u0647\u0631\u062a \u0644\u062f\u0649 \u0645\u0631\u064a\u0636 \u0641\u064a \u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629 \u0623\u0635\u064a\u0628 \u0628\u0641\u064a\u0631\u0648\u0633 \u0625\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u0637\u064a\u0648\u0631 H5N1 \u0627\u0644\u0642\u0644\u0642 \u0644\u062f\u0649 \u0645\u0633\u0624\u0648\u0644\u064a \u0627\u0644\u0635\u062d\u0629 \u0641\u064a \u0627\u0644\u0628\u0644\u0627\u062f\u060c \u062d\u064a\u062b \u0648\u064f\u062c\u062f \u0623\u0646 \u0627\u0644\u0641\u064a\u0631\u0648\u0633 \u062a\u062d\u0648\u0631 \u0628\u0637\u0631\u064a\u0642\u0629 \u062a\u062c\u0639\u0644 \u0645\u0646 \u0627\u0644\u0633\u0647\u0644 \u0625\u0635\u0627\u0628\u0629 \u0627\u0644\u062e\u0644\u0627\u064a\u0627 \u0627\u0644\u0628\u0634\u0631\u064a\u0629 \u0641\u064a \u0627\u0644\u062c\u0647\u0627\u0632 \u0627\u0644\u062a\u0646\u0641\u0633\u064a \u0627\u0644\u0639\u0644\u0648\u064a \u0644\u062f\u0649 \u0627\u0644\u0628\u0634\u0631 \u0628\u0625\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u0637\u064a\u0648\u0631\u060c \u0648\u0630\u0644\u0643 \u0628\u0639\u062f \u062a\u062d\u0644\u064a\u0644 \u0645\u0631\u0643\u0632 \u2026",
-      "url": "https://arabic.cnn.com/science-and-health/video/2024/12/29/v167569-bird-flu-mutates-to-target-human-respiratory-cells",
-      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2024/12/28/images/286314.jpg",
-      "publishedAt": "2024-12-29 09:07:51",
-      "content": "",
-      "retrievedAt": "2024-12-30 19:05:33.649350",
-      "internal_id": "85e1ea9182b904f4972e990f139beb5db74832a28dbf56cb43807c12e11b3dcb",
-      "publishedAtLabel": "Dec 29"
-    },
-    {
-      "id": 16926,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "N-tv.de",
-      "author": "Hedviga Nyarsik",
-      "title": "WHO-Liste des Grauens: Die gef\u00e4hrlichsten Erreger, gegen die es keine Impfung gibt",
-      "description": "Ob HIV, Malaria oder multiresistente Keime: Gegen viele Erreger gibt es noch keinen wirksamen Impfstoff. Sie verursachen daher immer wieder Infektionen und Ausbr\u00fcche, gegen die nur wenig unternommen werden kann. Die WHO listet nun die 17 gef\u00e4hrlichsten dieser\u2026",
-      "url": "https://www.n-tv.de/mediathek/bilderserien/wissen/Die-gefaehrlichsten-Erreger-gegen-die-es-keine-Impfung-gibt-article25374966.html",
-      "urlToImage": "https://bilder2.n-tv.de/img/incoming/crop25375481/1381327620-cImg_16_9-w1200/imago775347209.jpg",
-      "publishedAt": "2024-12-29 07:55:54",
-      "content": "Neben den vier Pathogenen ohne Impfschutz listet die WHO noch weitere Infektionskrankheiten auf, gegen die es zwar bereits Impfstoffe gibt, die aber nicht ausgereift sind, zu wenig wirken oder nicht \u2026 [+31 chars]",
-      "retrievedAt": "2024-12-30 19:05:34.496423",
-      "internal_id": "b0d655e4e8f559fb62e8d9dabed9acc7bbd58a9a6396fa9f2944b0c583498787",
-      "publishedAtLabel": "Dec 29"
     }
   ]
 }
