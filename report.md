@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 21
-- **Last harvest:** 2025-02-12 19:06
-- **Most recent article:** 2025-02-11 18:56:23
+- **New articles in last harvest:** 11
+- **Last harvest:** 2025-02-13 07:07
+- **Most recent article:** 2025-02-12 07:00:40
 
 ---
 
@@ -12,12 +12,12 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-53 | 25-1 | 25-2 | 25-3 | 25-4 | 25-5 | 25-6 | 25-7 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| h5n1 | 22 | 27 | 131 | 65 | 31 | 51 | 72 | 25 | 424 |
-| mpox | 2 | 6 | 91 | 34 | 23 | 22 | 28 | 1 | 207 |
-| dengue | 4 | 12 | 41 | 29 | 37 | 24 | 34 | 9 | 190 |
-| malaria | 12 | 10 | 30 | 18 | 19 | 30 | 25 | 2 | 146 |
-| measles | 3 | 6 | 6 | 9 | 10 | 13 | 24 | 22 | 93 |
-| hpai | 0 | 4 | 18 | 12 | 11 | 6 | 3 | 2 | 56 |
+| h5n1 | 27 | 27 | 131 | 65 | 31 | 51 | 72 | 27 | 431 |
+| mpox | 2 | 6 | 91 | 34 | 23 | 22 | 28 | 2 | 208 |
+| dengue | 5 | 12 | 41 | 29 | 37 | 24 | 34 | 10 | 192 |
+| malaria | 15 | 10 | 30 | 18 | 19 | 30 | 25 | 2 | 149 |
+| measles | 3 | 6 | 6 | 9 | 10 | 13 | 24 | 29 | 100 |
+| hpai | 1 | 4 | 18 | 12 | 11 | 6 | 3 | 2 | 57 |
 | chikungunya | 2 | 0 | 7 | 7 | 10 | 9 | 8 | 0 | 43 |
 | zika | 0 | 0 | 15 | 5 | 2 | 8 | 6 | 1 | 37 |
 | rabies | 1 | 1 | 2 | 6 | 7 | 6 | 4 | 2 | 29 |
@@ -60,6 +60,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-7 (mpox)
 
+- [New York health department confirms first case of new mpox strain](https://www.voanews.com/a/new-york-health-department-confirms-first-case-of-new-mpox-strain/7971833.html) (VOA News)
+
 - [Over 250 community health workers commissioned](https://www.ntv.co.ug/ug/news/national/over-250-community-health-workers-commissioned-4920754) (Ntv.co.ug)
 
 ## 25-7 (meningitis)
@@ -69,6 +71,20 @@ Source: [News API](https://newsapi.org/)
 - [Impact of cerebrospinal fluid leukocyte infiltration and activated neuroimmune mediators on survival with HIV-associated cryptococcal meningitis](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012873) (Plos.org)
 
 ## 25-7 (measles)
+
+- [Measles cases are rising, primarily in unvaccinated people: Health officials - NewsBreak](https://www.newsbreak.com/share/3803502159478-measles-cases-are-rising-primarily-in-unvaccinated-people-health-officials?s=a2&amp;share_destination_id=MTU4NDA5NTY1LTE3MzkzNDM2MDQ5NjQ%3D&amp;pd=0AifYzAz&amp;hl=en_US&amp;send_time=1739343604&amp;actBtn=topBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.6.1%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_push_exp_rt_bucketv12-v2%2Cns_foryou_blend_exp_25q1-v6%2Cns_foryou_recall_exp_25q1-v4%2Cns_foryou_rank_exp_25q1-v2%2Cns_foryou_model_exp_25q1-v8) (Newsbreak.com)
+
+- [10 new cases of measles reported in West Texas county and New Mexico](https://abcnews.go.com/US/wireStory/10-new-cases-measles-reported-west-texas-county-118716125) (ABC News)
+
+- [Texas measles outbreak: Cases double since Friday](https://www.fox4news.com/news/texas-measles-outbreak-cases-double-since-friday) (FOX 4 News)
+
+- [Measles cases are rising in the US, mainly among those who are unvaccinated: Health officials](https://www.goodmorningamerica.com/wellness/story/measles-cases-rising-us-unvaccinated-health-officials-118689223) (GMA)
+
+- [State health officials report rise in Measles case in Gaines County, confirm cases in Terry County](https://www.kcbd.com/2025/02/11/state-health-officials-report-rise-measles-case-gaines-county-confirm-cases-terry-county/) (KCBD)
+
+- [WATCH: Drone operator locates dog lost in deep snow](https://abcnews.go.com/GMA/Living/video/drone-operator-locates-dog-lost-deep-snow-118692966) (ABC News)
+
+- [Measles cases are rising in the US, mainly among those who are unvaccinated: Health officials](https://abcnews.go.com/Health/measles-cases-rising-us-unvaccinated-health-officials/story?id=118689223) (ABC News)
 
 - [15 cases of measles reported in small West Texas county with high rate of vaccine exemptions](https://www.pbs.org/newshour/health/15-cases-of-measles-reported-in-small-west-texas-county-with-high-rate-of-vaccine-exemptions) (PBS)
 
@@ -128,6 +144,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-7 (h5n1)
 
+- [Segundo tipo de gripe aviar H5N1 pasó de las vacas a los humanos](https://es.gizmodo.com/segundo-tipo-de-gripe-aviar-h5n1-paso-de-las-vacas-a-los-humanos-2000149046) (Gizmodo.com)
+
+- [Trader Joe’s, Costco place limit on egg purchases amid shortage](https://www.wsbtv.com/news/trending/trader-joes-costco-place-limit-egg-purchases-amid-shortage/XTXITSQW6NHMBNQCPXAVXR66GE/) (WSB Atlanta)
+
 - [Bosnia raportează gripă aviară H5N1 la o fermă avicolă](https://www.mediafax.ro/externe/bosnia-raporteaza-gripa-aviara-h5n1-la-o-ferma-avicola-22690277) (Mediafax.ro)
 
 - [A Second Type of H5N1 Bird Flu Jumped From Cows to Humans](https://gizmodo.com/a-second-type-of-h5n1-bird-flu-jumped-from-cows-to-humans-2000562290) (Gizmodo.com)
@@ -179,6 +199,8 @@ Source: [News API](https://newsapi.org/)
 - [Zamykają targi, wybijają zakażone zwierzęta. Ptasia grypa rozprzestrzenia się w Nowym Jorku](https://tvn24.pl/tvnmeteo/swiat/zamykaja-targi-wybijaja-zakazone-zwierzeta-ptasia-grypa-rozprzestrzenia-sie-w-nowym-jorku-st8298168) (Tvn24.pl)
 
 ## 25-7 (dengue)
+
+- [Menina de 11 anos morre após complicações da dengue](https://www.terra.com.br/noticias/menina-de-11-anos-morre-apos-complicacoes-da-dengue,cf4b37060fd69d6f83eb00a6feac39c8jvvrbjm5.html) (Terra.com.br)
 
 - [Alerta de novo surto de dengue no Brasil e outros países da América](https://olhardigital.com.br/2025/02/11/medicina-e-saude/alerta-de-novo-surto-de-dengue-no-brasil-e-outros-paises-da-america/) (Olhardigital.com.br)
 
@@ -2690,6 +2712,16 @@ Source: [News API](https://newsapi.org/)
 
 - [Pakar Ungkap Potensi Ancaman Kesehatan Utama di 2025, Ada Malaria hingga Masalah Mental](https://www.liputan6.com/health/read/5856603/pakar-ungkap-potensi-ancaman-kesehatan-utama-di-2025-ada-malaria-hingga-masalah-mental) (Liputan6.com)
 
+- [AB-PMJAY has reduced cancer patients' financial burden significantly: Prime Minister Modi](https://economictimes.indiatimes.com/news/india/ab-pmjay-has-reduced-cancer-patients-financial-burden-significantly-prime-minister-modi/articleshow/116773595.cms) (The Times of India)
+
+- [Doch keine mysteriöse «Krankheit X» in Kongo-Kinshasa: Unterernährung macht Malaria und Erkältungen zu Killern](https://www.nzz.ch/wissenschaft/keine-krankheit-x-im-kongo-unterernaehrung-als-wahre-ursache-ld.1864272) (Www.nzz.ch)
+
+- [WHO-Liste des Grauens: Die gefährlichsten Erreger, gegen die es keine Impfung gibt](https://www.n-tv.de/mediathek/bilderserien/wissen/Die-gefaehrlichsten-Erreger-gegen-die-es-keine-Impfung-gibt-article25374966.html) (N-tv.de)
+
+## 24-53 (hpai)
+
+- [Il primo caso di influenza aviaria mostra i segni di una mutazione: c'è da preoccuparsi?](https://tech.everyeye.it/notizie/caso-influenza-aviaria-mostra-segni-mutazione-e-preoccuparsi-767704.html) (Everyeye.it)
+
 ## 24-53 (h5n1)
 
 - [As pace and severity of human H5N1 cases accelerate, NIH leaders call for more action on bird flu | CNN](https://www.cnn.com/2024/12/31/health/human-h5n1-bird-flu-cases/index.html) (CNN)
@@ -2736,6 +2768,16 @@ Source: [News API](https://newsapi.org/)
 
 - [طفرة فريدة من نوعها لفيروس انفلونزا الطيور يكتشفها أطباء في لوس أنجلوس.. بِمَ يُنبئنا ذلك؟](https://arabic.cnn.com/science-and-health/video/2024/12/30/v167548-bird-flu-mutation) (CNN)
 
+- [Американских кошек поразил новый штамм птичьего гриппа](https://naked-science.ru/article/medicine/amerikanskih-koshek-poraz) (Naked-science.ru)
+
+- [Марбург, Коксаки и Аляскапокс: какие вирусы бушевали в 2024](https://vfokuse.mail.ru/article/marburg-koksaki-i-alyaskapoks-kakie-virusy-bushevali-v-2024-64280393/) (Mail.ru)
+
+- [Schwerer Vogelgrippe-Fall beim Menschen: US-Seuchenbehörde findet gefährliche Mutationen](https://www.tagesspiegel.de/wissen/schwerer-vogelgrippe-fall-beim-menschen-us-seuchenbehorde-findet-gefahrliche-mutationen-12938302.html) (Der Tagesspiegel)
+
+- [Health expert warns bird flu may become a pandemic like COVID-19](https://www.revolt.tv/article/former-white-house-health-expert-warns-bird-flu-has-potential-to-become-pandemic) (REVOLT TV)
+
+- [طفرة جديدة تثير القلق.. إنفلونزا الطيور تستهدف خلايا التنفس لدى البشر](https://arabic.cnn.com/science-and-health/video/2024/12/29/v167569-bird-flu-mutates-to-target-human-respiratory-cells) (CNN)
+
 ## 24-53 (dengue)
 
 - [Bangladesh records 575 dengue deaths in 2024](https://www.thestar.com.my/news/world/2025/01/01/bangladesh-records-575-dengue-deaths-in-2024) (The Star Online)
@@ -2745,6 +2787,8 @@ Source: [News API](https://newsapi.org/)
 - [Japanese encephalitis: Summer's first case of mosquito-borne virus detected in Victorian](https://thenightly.com.au/society/health/japanese-encephalitis-summers-first-case-of-mosquito-borne-virus-detected-in-victorian-c-17244120) (Thenightly.com.au)
 
 - [Summer's first case of mosquito-borne Japanese encephalitis detected in Victoria](https://7news.com.au/news/summers-first-case-of-mosquito-borne-japanese-encephalitis-detected-in-victoria-c-17244123) (7NEWS.com.au)
+
+- [Os recordes negativos do governo Lula em 2024](https://veja.abril.com.br/brasil/os-recordes-negativos-do-governo-lula-em-2024) (Abril.com.br)
 
 ## 24-53 (chikungunya)
 
