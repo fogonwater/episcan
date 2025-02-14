@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 21
-- **Last harvest:** 2025-02-13 19:05
-- **Most recent article:** 2025-02-12 19:03:36
+- **New articles in last harvest:** 15
+- **Last harvest:** 2025-02-14 07:06
+- **Most recent article:** 2025-02-13 07:00:00
 
 ---
 
@@ -12,12 +12,12 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-53 | 25-1 | 25-2 | 25-3 | 25-4 | 25-5 | 25-6 | 25-7 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| h5n1 | 22 | 27 | 131 | 65 | 31 | 51 | 72 | 28 | 427 |
+| h5n1 | 27 | 27 | 131 | 65 | 31 | 51 | 72 | 32 | 436 |
 | mpox | 2 | 6 | 91 | 34 | 23 | 22 | 28 | 7 | 213 |
-| dengue | 4 | 12 | 41 | 29 | 37 | 24 | 34 | 14 | 195 |
-| malaria | 12 | 10 | 30 | 18 | 19 | 30 | 25 | 3 | 147 |
-| measles | 3 | 6 | 6 | 9 | 10 | 13 | 24 | 33 | 104 |
-| hpai | 0 | 4 | 18 | 12 | 11 | 6 | 3 | 2 | 56 |
+| dengue | 5 | 12 | 41 | 29 | 37 | 24 | 34 | 18 | 200 |
+| malaria | 15 | 10 | 30 | 18 | 19 | 30 | 25 | 6 | 153 |
+| measles | 3 | 6 | 6 | 9 | 10 | 13 | 24 | 38 | 109 |
+| hpai | 1 | 4 | 18 | 12 | 11 | 6 | 3 | 2 | 57 |
 | chikungunya | 2 | 0 | 7 | 7 | 10 | 9 | 8 | 2 | 45 |
 | zika | 0 | 0 | 15 | 5 | 2 | 8 | 6 | 1 | 37 |
 | rabies | 1 | 1 | 2 | 6 | 7 | 6 | 4 | 3 | 30 |
@@ -90,6 +90,16 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-7 (measles)
 
+- [Measles Outbreak in Texas Hits 24 Cases](https://www.newser.com/story/364196/measles-outbreak-in-texas-hits-24-cases.html) (Newser)
+
+- [Measles Outbreak Hits Town in Texas (Teddy Rosenbluth/New York Times)](https://www.memeorandum.com/250212/p176) (Memeorandum.com)
+
+- [Doctor says Texas measles outbreak is "a problem of unvaccinated children"](https://www.cbsnews.com/video/doctor-says-texas-measles-outbreak-problem-unvaccinated-children/) (CBS News)
+
+- [Measles cases are rising, primarily in unvaccinated people: Health officials - NewsBreak](https://www.newsbreak.com/share/3803502159478-measles-cases-are-rising-primarily-in-unvaccinated-people-health-officials?_f=app_share&amp;pd=05jRa00W&amp;lang=en_US&amp;send_time=1739395160&amp;trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.6.1.6%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_rank_exp_25q1-v2%2Cns_push_exp_rt_bucketv12-v4%2Cns_foryou_blend_exp_25q1-v3%2Cns_foryou_recall_exp_25q1-v1%2Cns_foryou_model_exp_25q1-v6&amp;s=i2) (Newsbreak.com)
+
+- [InnovationRx: Federal Judges Halt Trump’s Cuts To NIH Research Payments](https://www.forbes.com/sites/innovationrx/2025/02/12/innovationrx-federal-judges-halt-trumps-cuts-to-nih-research-payments/) (Forbes)
+
 - [Measles outbreak in Texas was "completely preventable," disease expert says](https://www.cbsnews.com/news/measles-outbreak-texas-preventable-symptoms/) (CBS News)
 
 - [Measles cases are rising, primarily in unvaccinated people: Health officials - NewsBreak](https://www.newsbreak.com/share/3803502159478-measles-cases-are-rising-primarily-in-unvaccinated-people-health-officials?s=a2&amp;share_destination_id=MTgzMTE5NjMyLTE3MzkzODE5NDUwMDc%3D&amp;pd=0COLmS1Y&amp;hl=en_US&amp;send_time=1739381945&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.6.1%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_recall_exp_25q1-v3%2Cns_foryou_model_exp_25q1-v9%2Cns_foryou_blend_exp_25q1-v7%2Cns_foryou_rank_exp_25q1-v4%2Cns_push_exp_rt_bucketv12-v4) (Newsbreak.com)
@@ -158,6 +168,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-7 (malaria)
 
+- [To stop preventable deaths, start with the fundamentals](https://www.japantimes.co.jp/commentary/2025/02/13/world/treating-preventable-disease-access/) (The Japan Times)
+
+- [Ireland recorded rise in tropical diseases like malaria and dengue fever after return to full travel](https://www.independent.ie/irish-news/ireland-recorded-rise-in-tropical-diseases-like-malaria-and-dengue-fever-after-return-to-full-travel/a1090412103.html) (Independent.ie)
+
+- [Amphibian Declines Increase Malaria In Costa Rica And Panama](https://www.forbes.com/sites/johndrake/2025/02/12/amphibian-declines-increase-malaria-in-costa-rica-and-panama/) (Forbes)
+
 - [Ocho mujeres que cambiaron la farmacología](https://www.elperiodico.com/es/ciencia/20250212/ocho-mujeres-cambiaron-farmacologia-114232542) (Elperiodico.com)
 
 - [AI and public health issues in contemporary Nigeria - MediaLord.Ng](https://medialord.ng/ai-and-public-health-issues-in-contemporary-nigeria/) (Medialord.ng)
@@ -171,6 +187,14 @@ Source: [News API](https://newsapi.org/)
 - [Bird flu, egg shortage prompts regional emergency, hours waivers for relief-haul](https://www.overdriveonline.com/hours-of-service/article/15737110/live-chicken-haulers-get-regs-relief-for-bird-flu-emergency) (Overdriveonline.com)
 
 ## 25-7 (h5n1)
+
+- [ΗΠΑ: Δεν επικοινωνούν με τον ΠΟΥ για τη γρίπη των πτηνών](https://www.naftemporiki.gr/kosmos/1912211/ipa-den-epikoinonoyn-me-ton-poy-gia-ti-gripi-ton-ptinon/) (Naftemporiki.gr)
+
+- [Οι ΗΠΑ σταμάτησαν να ενημερώνουν τον ΠΟΥ για την γρίπη των πτηνών στη χώρα](https://www.newsit.gr/kosmos/oi-ipa-stamatisan-na-enimeronoun-ton-pou-gia-tin-gripi-ton-ptinon-sti-xora/4308040/) (Newsit.gr)
+
+- [Stále sa hromadia lekárske lži a podvody!](https://pskakal2.blog.pravda.sk/2025/02/12/stale-sa-hromadia-lekarske-lzi-a-podvody/) (Pravda.sk)
+
+- [New Bird Flu Strain in Cows and Animal Infections Raise Concern for Human Exposure](https://www.scientificamerican.com/article/new-bird-flu-strain-in-cows-and-animal-infections-raise-concern-for-human/) (Scientific American)
 
 - [ICYMI: Bird Flu Is Roiling Egg Farms Across The Country](https://www.npr.org/2026/01/01/1263204091/zz-1a-bonus) (NPR)
 
@@ -229,6 +253,14 @@ Source: [News API](https://newsapi.org/)
 - [Zamykają targi, wybijają zakażone zwierzęta. Ptasia grypa rozprzestrzenia się w Nowym Jorku](https://tvn24.pl/tvnmeteo/swiat/zamykaja-targi-wybijaja-zakazone-zwierzeta-ptasia-grypa-rozprzestrzenia-sie-w-nowym-jorku-st8298168) (Tvn24.pl)
 
 ## 25-7 (dengue)
+
+- [Ireland recorded rise in tropical diseases like malaria and dengue fever after return to full travel](https://www.independent.ie/irish-news/ireland-recorded-rise-in-tropical-diseases-like-malaria-and-dengue-fever-after-return-to-full-travel/a1090412103.html) (Independent.ie)
+
+- [Record News lança campanha para mobilizar a população no combate à dengue](https://www.ouniversodatv.com/2025/02/record-news-lanca-campanha-para.html) (Ouniversodatv.com)
+
+- [Dengue: Anvisa atualiza status de pedido para liberar vacina do Butantan](https://veja.abril.com.br/saude/dengue-anvisa-atualiza-status-de-pedido-para-liberar-vacina-do-butantan) (Abril.com.br)
+
+- [Quem pode tomar a vacina contra a dengue? Veja faixa etária](https://www.infomoney.com.br/consumo/quem-pode-tomar-a-vacina-contra-a-dengue-veja-faixa-etaria/) (InfoMoney)
 
 - [Anvisa solicita mais informações para aprovação de vacina da dengue do Butantan](https://valor.globo.com/brasil/noticia/2025/02/12/anvisa-solicita-mais-informacoes-para-aprovacao-de-vacina-da-dengue-do-butantan.ghtml) (Globo)
 
@@ -2756,6 +2788,16 @@ Source: [News API](https://newsapi.org/)
 
 - [Pakar Ungkap Potensi Ancaman Kesehatan Utama di 2025, Ada Malaria hingga Masalah Mental](https://www.liputan6.com/health/read/5856603/pakar-ungkap-potensi-ancaman-kesehatan-utama-di-2025-ada-malaria-hingga-masalah-mental) (Liputan6.com)
 
+- [AB-PMJAY has reduced cancer patients' financial burden significantly: Prime Minister Modi](https://economictimes.indiatimes.com/news/india/ab-pmjay-has-reduced-cancer-patients-financial-burden-significantly-prime-minister-modi/articleshow/116773595.cms) (The Times of India)
+
+- [Doch keine mysteriöse «Krankheit X» in Kongo-Kinshasa: Unterernährung macht Malaria und Erkältungen zu Killern](https://www.nzz.ch/wissenschaft/keine-krankheit-x-im-kongo-unterernaehrung-als-wahre-ursache-ld.1864272) (Www.nzz.ch)
+
+- [WHO-Liste des Grauens: Die gefährlichsten Erreger, gegen die es keine Impfung gibt](https://www.n-tv.de/mediathek/bilderserien/wissen/Die-gefaehrlichsten-Erreger-gegen-die-es-keine-Impfung-gibt-article25374966.html) (N-tv.de)
+
+## 24-53 (hpai)
+
+- [Il primo caso di influenza aviaria mostra i segni di una mutazione: c'è da preoccuparsi?](https://tech.everyeye.it/notizie/caso-influenza-aviaria-mostra-segni-mutazione-e-preoccuparsi-767704.html) (Everyeye.it)
+
 ## 24-53 (h5n1)
 
 - [As pace and severity of human H5N1 cases accelerate, NIH leaders call for more action on bird flu | CNN](https://www.cnn.com/2024/12/31/health/human-h5n1-bird-flu-cases/index.html) (CNN)
@@ -2802,6 +2844,16 @@ Source: [News API](https://newsapi.org/)
 
 - [طفرة فريدة من نوعها لفيروس انفلونزا الطيور يكتشفها أطباء في لوس أنجلوس.. بِمَ يُنبئنا ذلك؟](https://arabic.cnn.com/science-and-health/video/2024/12/30/v167548-bird-flu-mutation) (CNN)
 
+- [Американских кошек поразил новый штамм птичьего гриппа](https://naked-science.ru/article/medicine/amerikanskih-koshek-poraz) (Naked-science.ru)
+
+- [Марбург, Коксаки и Аляскапокс: какие вирусы бушевали в 2024](https://vfokuse.mail.ru/article/marburg-koksaki-i-alyaskapoks-kakie-virusy-bushevali-v-2024-64280393/) (Mail.ru)
+
+- [Schwerer Vogelgrippe-Fall beim Menschen: US-Seuchenbehörde findet gefährliche Mutationen](https://www.tagesspiegel.de/wissen/schwerer-vogelgrippe-fall-beim-menschen-us-seuchenbehorde-findet-gefahrliche-mutationen-12938302.html) (Der Tagesspiegel)
+
+- [Health expert warns bird flu may become a pandemic like COVID-19](https://www.revolt.tv/article/former-white-house-health-expert-warns-bird-flu-has-potential-to-become-pandemic) (REVOLT TV)
+
+- [طفرة جديدة تثير القلق.. إنفلونزا الطيور تستهدف خلايا التنفس لدى البشر](https://arabic.cnn.com/science-and-health/video/2024/12/29/v167569-bird-flu-mutates-to-target-human-respiratory-cells) (CNN)
+
 ## 24-53 (dengue)
 
 - [Bangladesh records 575 dengue deaths in 2024](https://www.thestar.com.my/news/world/2025/01/01/bangladesh-records-575-dengue-deaths-in-2024) (The Star Online)
@@ -2811,6 +2863,8 @@ Source: [News API](https://newsapi.org/)
 - [Japanese encephalitis: Summer's first case of mosquito-borne virus detected in Victorian](https://thenightly.com.au/society/health/japanese-encephalitis-summers-first-case-of-mosquito-borne-virus-detected-in-victorian-c-17244120) (Thenightly.com.au)
 
 - [Summer's first case of mosquito-borne Japanese encephalitis detected in Victoria](https://7news.com.au/news/summers-first-case-of-mosquito-borne-japanese-encephalitis-detected-in-victoria-c-17244123) (7NEWS.com.au)
+
+- [Os recordes negativos do governo Lula em 2024](https://veja.abril.com.br/brasil/os-recordes-negativos-do-governo-lula-em-2024) (Abril.com.br)
 
 ## 24-53 (chikungunya)
 
