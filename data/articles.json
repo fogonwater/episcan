@@ -1,8 +1,351 @@
 {
-  "last_updated": "2025-02-14 07:06",
-  "count_articles_total": 1280,
-  "count_articles_new": 15,
+  "last_updated": "2025-02-14 19:05",
+  "count_articles_total": 1290,
+  "count_articles_new": 20,
   "articles": [
+    {
+      "id": 18218,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "La OMS informa de la detecci\u00f3n del primer caso del clado Ib de mpox en Emiratos \u00c1rabes Unidos",
+      "description": "La Organizaci\u00f3n Mundial de la Salud (OMS) ha informado de que Emiratos \u00c1rabes Unidos notific\u00f3 el 7 de febrero su primer caso del clado Ib de mpox, seg\u00fan recoge el 47 informe de situaci\u00f3n sobre el brote multinacional de mpox elaborado por la agencia sanitaria \u2026",
+      "url": "https://www.infosalus.com/salud-investigacion/noticia-oms-informa-deteccion-primer-caso-clado-ib-mpox-emiratos-arabes-unidos-20250213193623.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20250213193623_1200.jpg",
+      "publishedAt": "2025-02-13 18:36:23",
+      "content": "MADRID 13 Feb. (EUROPA PRESS) - La Organizaci\u00f3n Mundial de la Salud (OMS) ha informado de que Emiratos \u00c1rabes Unidos notific\u00f3 el 7 de febrero su primer caso del clado Ib de mpox, seg\u00fan recoge el 4\u2026 [+2464 chars]",
+      "retrievedAt": "2025-02-14 19:05:44.801366",
+      "internal_id": "97a3f1f8b5f59eebc56f2b84c090d2cff128a2bfa23db8d36db9ddb279cae13a",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 18207,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Excelsior.com.mx",
+      "author": "fernando.davila",
+      "title": "Se acumulan mil 178 casos de dengue en el pa\u00eds",
+      "description": "Patricia Rodr\u00edguez Calva Luego de que en una semana se registraron 291 nuevos casos de dengue, el total acumulado ascendi\u00f3 a mil 178 contagios en 27 estados del pa\u00eds, sin que hasta el momento se hayan reportado defunciones. De acuerdo al Panorama Epidemiol\u2026",
+      "url": "https://www.excelsior.com.mx/nacional/acumulan-mil-178-casos-dengue-en-el-pais/1699698",
+      "urlToImage": "https://www.excelsior.com.mx/media/pictures/2025/02/13/3258201.jpg",
+      "publishedAt": "2025-02-13 18:25:34",
+      "content": "Luego de que en una semana se registraron 291 nuevos casos de dengue, el total acumulado ascendi\u00f3 a mil 178 contagios en 27 estados del pa\u00eds, sin que hasta el momento se hayan reportado defunciones. \u2026 [+883 chars]",
+      "retrievedAt": "2025-02-14 19:05:43.031051",
+      "internal_id": "f5506f34113a6161c391980b740a0af03024cd0ef5d0efb8d25969e6f406b6d2",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 18204,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Will Stone",
+      "title": "After delay, CDC releases data signaling bird flu spread undetected in cows and people",
+      "description": "After going quiet on bird flu, CDC scientists have published a report on its spread among veterinarians. The findings suggest a need for better surveillance.",
+      "url": "https://www.npr.org/sections/shots-health-news/2025/02/13/nx-s1-5296672/cdc-bird-flu-study-mmwr-veterinarians",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5184x2916+0+486/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F45%2Fb1%2Fe7afe5c14f6380296a087ec0da76%2Fap24229646441937.jpg",
+      "publishedAt": "2025-02-13 18:00:12",
+      "content": "The first study on the H5N1 bird flu outbreak from the Centers for Disease Control and Prevention to make it to publication under the Trump administration came out Thursday. The journal released dat\u2026 [+3889 chars]",
+      "retrievedAt": "2025-02-14 19:05:42.550073",
+      "internal_id": "b8a520d06a2fa766bc2e927bb5a9d085d66061b652e6d0ef8b04937a31167808",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 18203,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": "CDC",
+      "title": "Notes from the Field: Seroprevalence of Highly Pathogenic Avian Influenza A(H5) Virus Infections Among Bovine Veterinary Practitioners - United States, September 2024",
+      "description": "This report describes evidence of recent highly pathogenic avian influenza infection among three veterinary practitioners.",
+      "url": "https://www.cdc.gov/mmwr/volumes/74/wr/mm7404a2.htm",
+      "urlToImage": "https://www.cdc.gov/mmwr/volumes/74/wr/social-media/mm7404a2_H5BovineVets_IMAGE_13Feb2025_1200x675_v2.png?_=05047",
+      "publishedAt": "2025-02-13 18:00:00",
+      "content": "* As of September 13, a total of 14 cases of HPAI A(H5) virus infection in humans had been detected, four of whom had exposure to dairy cattle, nine to poultry, and one to an unidentified source. Sta\u2026 [+2959 chars]",
+      "retrievedAt": "2025-02-14 19:05:42.040924",
+      "internal_id": "434970d86fa5595cf7d3db1aa6d37edbf4b2eef59bda58c85097582e72569c30",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 18205,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Sara Moniuszko",
+      "title": "What to know about bird flu in 2025, according to a public health expert",
+      "description": "A public health expert breaks down the latest on what to know about bird flu.",
+      "url": "https://www.cbsnews.com/news/bird-flu-2025-symptoms-eggs-humans/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/02/13/b6f6646b-c6e4-4e21-bc17-b0840ffef372/thumbnail/1200x630/1e62e992567ce1af017d79c6c6d1d1ce/gettyimages-2156654652.jpg?v=905524240eba4a810b7648f150c98fe0",
+      "publishedAt": "2025-02-13 17:23:11",
+      "content": "From worries about food safety to egg prices, Americans have questions about the bird flu. This strain of bird flu, also known as H5N1, is not entirely new. It's been detected in a variety of bird \u2026 [+4785 chars]",
+      "retrievedAt": "2025-02-14 19:05:42.594560",
+      "internal_id": "3df0e96efb70d5203a155a087b766a5ad309374f06f6ded4136c0ec3d590e2b1",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 18217,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "Cerca de 97.800 casos y 1.735 muertes por mpox en \u00c1frica desde principios de 2024",
+      "description": "Congo sigue siendo el epicentro de la epidemia y el pa\u00eds con la menor tasa de pruebas de detecci\u00f3n.",
+      "url": "https://www.montevideo.com.uy/Salud/Cerca-de-97-800-casos-y-1-735-muertes-por-mpox-en-Africa-desde-principios-de-2024-uc914906",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202408/_W933_80/891795.jpg",
+      "publishedAt": "2025-02-13 17:04:00",
+      "content": "\u00c1frica ha registrado 97.785 casos (22.390 confirmados) y 1.735 muertes por mpox (enfermedad antes conocida como viruela del mono) en 22 pa\u00edses del continente desde principios de 2024, inform\u00f3 este \u2026 [+3795 chars]",
+      "retrievedAt": "2025-02-14 19:05:44.787380",
+      "internal_id": "9f770b7511624c2fd80b41b906878ae293be78a545a75e284872525b1614f836",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 18212,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": null,
+      "title": "Medics did not give antibiotics swiftly - inquest",
+      "description": "William Hewes, 22, was said to have been fit and healthy before contracting meningitis and sepsis.",
+      "url": "https://www.bbc.com/news/articles/c3e1l4yq93yo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/b9df/live/f6d9cc20-ea1b-11ef-a4db-cb9680216d3b.jpg",
+      "publishedAt": "2025-02-13 16:10:56",
+      "content": "William Hewes died at Homerton University Hospital in January 2023 Hospital medical staff failed to swiftly administer antibiotics to the son of one of the hospital's senior doctors - who was showin\u2026 [+3825 chars]",
+      "retrievedAt": "2025-02-14 19:05:43.349268",
+      "internal_id": "dd02a6cd95ef1ccceabb9b2b216674964073cad798a8806e6d075fd661ef2b64",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 18219,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Nplus1.ru",
+      "author": "\u041c\u0438\u0445\u0430\u0438\u043b \u041f\u043e\u0434\u0440\u0435\u0437\u043e\u0432",
+      "title": "\u0412 \u0410\u0440\u043a\u0430\u0438\u043c\u0435 \u043d\u0430\u0448\u043b\u0438 \u0437\u0430\u0440\u0430\u0436\u0435\u043d\u043d\u0443\u044e \u0447\u0443\u043c\u043d\u043e\u0439 \u043f\u0430\u043b\u043e\u0447\u043a\u043e\u0439 \u0434\u0440\u0435\u0432\u043d\u044e\u044e \u043e\u0432\u0446\u0443",
+      "description": "\u0413\u0435\u043d\u0435\u0442\u0438\u043a\u0438 \u0441\u0435\u043a\u0432\u0435\u043d\u0438\u0440\u043e\u0432\u0430\u043b\u0438 \u0414\u041d\u041a \u0438\u0437 \u043e\u0432\u0435\u0447\u044c\u0435\u0433\u043e \u0437\u0443\u0431\u0430, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043d\u0430\u0448\u043b\u0438 \u043d\u0430 \u043f\u043e\u0441\u0435\u043b\u0435\u043d\u0438\u0438 \u0410\u0440\u043a\u0430\u0438\u043c \u0441\u0438\u043d\u0442\u0430\u0448\u0442\u0438\u043d\u0441\u043a\u043e\u0439 \u0430\u0440\u0445\u0435\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u043a\u0443\u043b\u044c\u0442\u0443\u0440\u044b. \u0423\u0447\u0435\u043d\u044b\u0435 \u043e\u0431\u043d\u0430\u0440\u0443\u0436\u0438\u043b\u0438, \u0447\u0442\u043e \u044d\u0442\u0430 \u043e\u0441\u043e\u0431\u044c, \u0436\u0438\u0432\u0448\u0430\u044f \u043e\u043a\u043e\u043b\u043e XX\u2013XVIII \u0432\u0435\u043a\u0430 \u0434\u043e \u043d\u0430\u0448\u0435\u0439 \u044d\u0440\u044b, \u0431\u044b\u043b\u0430 \u0438\u043d\u0444\u0438\u0446\u0438\u0440\u043e\u0432\u0430\u043d\u0430 \u0447\u0443\u043c\u043d\u043e\u0439 \u043f\u0430\u043b\u043e\u0447\u043a\u043e\u0439. \u041f\u0440\u0438\u0447\u0435\u043c \u0444\u0438\u043b\u043e\u0433\u0435\u043d\u0435\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0430\u043d\u0430\u043b\u0438\u0437\u2026",
+      "url": "https://nplus1.ru/news/2025/02/13/sheep-and-yersinia-pestis",
+      "urlToImage": "https://minio.nplus1.ru/app-images/993799/67adaa577f238_cover_share.jpeg",
+      "publishedAt": "2025-02-13 14:35:00",
+      "content": ", . , , XXXVIII , . , , , . bioRxiv.org. , , (Yersinia pestis), . , , . , , , , . , , . , Y. pestis, , ymt, D, , . , , . , . , \u2026 [+215 chars]",
+      "retrievedAt": "2025-02-14 19:05:45.610950",
+      "internal_id": "76564a1537ddff491e5822bf3be45b3887273e4944f4291266d83d64a43c80b1",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 18201,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Lawyersgunsmoneyblog.com",
+      "author": "Scott Lemieux",
+      "title": "The future Republicans want",
+      "description": "On the day RFK Jr. will be confirmed by Donald Trump\u2019s captive Board of Directors, we can see the outcome he hopes will be replicated all over America: A worsening measles outbreak has taken root in Texas, sickening two dozen and hospitalizing nine on the wes\u2026",
+      "url": "https://www.lawyersgunsmoneyblog.com/2025/02/the-future-republicans-want",
+      "urlToImage": "https://www.lawyersgunsmoneyblog.com/wp-content/uploads/2024/10/rfk-jr.png",
+      "publishedAt": "2025-02-13 14:27:00",
+      "content": "A worsening measles outbreak has taken root in Texas, sickening two dozen and hospitalizing nine on the western edge of the state, where childhood vaccination rates have dwindled in recent years. As\u2026 [+1095 chars]",
+      "retrievedAt": "2025-02-14 19:05:41.488432",
+      "internal_id": "c228df9aac7c13ed5b7808391ecb4aa96d3f02081e31a171d19714424162e528",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 18214,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Harini Ganeshan, Jun Huang, Maria Belmonte, Arnel Belmonte, Sandra Inoue, Rachel Velasco, Santina Maiolatesi, Keith Limbach, Noelle Patterson, Marvin J. Sklar, Lorraine Soisson, Judith E. Epstein, Kimberly A. Edgel, Bjoern Peters, Michael R. Hollingdale, Eileen Villasante, Christopher A. Duplessis, Martha Sedegah",
+      "title": "Human responses to the DNA prime/chimpanzee adenovirus (ChAd63) boost vaccine identify CSP, AMA1 and TRAP MHC Class I-restricted epitopes",
+      "description": "Background A three-antigen DNA-prime/chimpanzee adenovirus 63 (ChAd63) boost vaccine containing pre-erythrocytic Plasmodium falciparum (Pf) circumsporozoite protein (CSP), Pf apical membrane antigen-1 (AMA1) and malaria multiple epitopes (ME) fused to Pf thro\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318098",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0318098.g001&size=inline",
+      "publishedAt": "2025-02-13 14:00:00",
+      "content": "Summed antigen-specific 15mer subpool FluoroSpot IFN- and GzB responses to CSP, AMA1 and TRAP Using fresh PBMCs, summed IFN- and GzB responses to antigen-specific peptide subpools are shown in Fig 1\u2026 [+21137 chars]",
+      "retrievedAt": "2025-02-14 19:05:43.996881",
+      "internal_id": "6479c81972354152c07390f7628e8f69077f5009c83421a8993d491e36030316",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 18215,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Telvin Harrell, Swarnendu Basak, Hameeda Sultana, Girish Neelakanta",
+      "title": "Zika virus modulates arthropod histone methylation for its survival in mosquito cells",
+      "description": "Zika virus (ZIKV) is a mosquito-borne human pathogen that causes mild febrile illness in adults and severe neurological complications and microcephaly in newborns. Studies have reported that ZIKV modulates methylation of human and viral RNA critical for its r\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0319290",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0319290.g006&size=inline",
+      "publishedAt": "2025-02-13 14:00:00",
+      "content": "Citation: Harrell T, Basak S, Sultana H, Neelakanta G (2025) Zika virus modulates arthropod histone methylation for its survival in mosquito cells. PLoS ONE 20(2): e0319290. https://doi.org/10.137\u2026 [+38173 chars]",
+      "retrievedAt": "2025-02-14 19:05:44.277322",
+      "internal_id": "cef90b642d0bb699a2ef7f10dcbb671929ae30db766fb7987af24a4246cc3fce",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 18208,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Ravenna Alves",
+      "title": "Opas emite alerta para risco de surto do tipo 3 da dengue nas Am\u00e9ricas",
+      "description": "A dengue possui quatro sorotipos: DENV-1, DENV-2, DENV-3 e DENV-4. \u00d3rg\u00e3o recomenda que as na\u00e7\u00f5es reforcem as medidas de vigil\u00e2ncia",
+      "url": "https://www.metropoles.com/saude/opas-alerta-surto-tipo3-dengue-americas",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2025/01/06072339/dengue-7.jpg",
+      "publishedAt": "2025-02-13 13:27:41",
+      "content": "A Organiza\u00e7\u00e3o Pan-Americana da Sa\u00fade (Opas) emitiu um alerta epidemiol\u00f3gico sobre o aumento do risco de surtos de dengue nas Am\u00e9ricas devido \u00e0 circula\u00e7\u00e3o do sorotipo DENV-3 em v\u00e1rios pa\u00edses. O \u00f3rg\u00e3o \u2026 [+2864 chars]",
+      "retrievedAt": "2025-02-14 19:05:43.062360",
+      "internal_id": "a1a9eeb2e0e7ece792986e63acec464fc71e2d21a5611357c996f72bc0fb89d2",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 18213,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "3news.com",
+      "author": "Evans Effah",
+      "title": "Health Minister leads response to meningitis outbreak in Upper West",
+      "description": "On his third day in office, Health Minister Kwabena Mintah Akandoh visited the Upper West Region to assess the meningitis outbreak. He announced seven key interventions to contain the disease and ensure quality healthcare for all.",
+      "url": "https://3news.com/health/health-minister-leads-response-to-meningitis-outbreak-in-upper-west/",
+      "urlToImage": "https://3news.com/wp-content/uploads/2023/03/Akandoh-Mintah.png",
+      "publishedAt": "2025-02-13 12:29:45",
+      "content": "Barely three days into his tenure, Minister of Health Kwabena Mintah Akandoh has hit the ground running by visiting the Upper West Region to assess the ongoing meningitis outbreak. The visit unders\u2026 [+1933 chars]",
+      "retrievedAt": "2025-02-14 19:05:43.375739",
+      "internal_id": "55f30deb47ff782fdbac38a24657c2f8f59d8ae8685351dff40120f5fb672fb7",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 18202,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Neha Mukherjee",
+      "title": "Do you need a measles booster? Here\u2019s what experts say | CNN",
+      "description": "Measles cases are popping up across the country, especially in areas with lower vaccination rates.",
+      "url": "https://www.cnn.com/2025/02/13/health/measles-vaccine-shot-booster-adults-wellness/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap24276685521297.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2025-02-13 12:00:47",
+      "content": "Measles cases are popping up across the country, especially in areas with lower vaccination rates. There were 285 cases reported in the US last year, the most since 2019, according to the US Centers\u2026 [+6053 chars]",
+      "retrievedAt": "2025-02-14 19:05:41.581446",
+      "internal_id": "cfa03ec3267548a1c40f89b83d51b5d79ba5f1edef83830c3cbf192dcf4201a5",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 18200,
+      "query": [
+        "rabies",
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "1pezeshk.com",
+      "author": "\u0639\u0644\u06cc\u0631\u0636\u0627 \u0645\u062c\u06cc\u062f\u06cc",
+      "title": "\u0628\u06cc\u0645\u0627\u0631\u06cc\u200c\u0647\u0627\u06cc\u06cc \u0628\u0627 \u0631\u0627\u0647\u200c\u0647\u0627\u06cc \u0627\u0646\u062a\u0642\u0627\u0644 \u067e\u06cc\u0686\u06cc\u062f\u0647 \u0648 \u062d\u062a\u06cc \u0634\u06af\u0641\u062a\u200c\u0627\u0646\u06af\u06cc\u0632!",
+      "description": "\u0628\u06cc\u0645\u0627\u0631\u06cc\u200c\u0647\u0627 \u0647\u0645\u06cc\u0634\u0647 \u0627\u0632 \u0637\u0631\u06cc\u0642 \u062a\u0645\u0627\u0633 \u0645\u0633\u062a\u0642\u06cc\u0645\u060c \u0647\u0648\u0627 \u06cc\u0627 \u0645\u0627\u06cc\u0639\u0627\u062a \u0628\u062f\u0646 \u0645\u0646\u062a\u0642\u0644 \u0646\u0645\u06cc\u200c\u0634\u0648\u0646\u062f\u060c \u0628\u0644\u06a9\u0647 \u0628\u0631\u062e\u06cc \u0627\u0632 \u0622\u0646\u200c\u0647\u0627 \u0631\u0627\u0647\u200c\u0647\u0627\u06cc \u0627\u0646\u062a\u0642\u0627\u0644 \u0639\u062c\u06cc\u0628\u06cc \u062f\u0627\u0631\u0646\u062f \u06a9\u0647 \u062d\u062a\u06cc \u062a\u0635\u0648\u0631 \u0622\u0646 \u0647\u0645 \u0633\u062e\u062a \u0627\u0633\u062a. \u0628\u0631\u062e\u06cc \u0628\u06cc\u0645\u0627\u0631\u06cc\u200c\u0647\u0627\u06cc \u0648\u06cc\u0631\u0648\u0633\u06cc\u060c \u0628\u0627\u06a9\u062a\u0631\u06cc\u0627\u06cc\u06cc \u0648 \u0627\u0646\u06af\u0644\u06cc \u0627\u0632 \u0637\u0631\u06cc\u0642 \u062d\u0634\u0631\u0627\u062a\u060c \u063a\u0630\u0627\u060c \u062e\u0627\u06a9\u060c \u062d\u062a\u06cc \u062a\u0645\u0627\u0633 \u0628\u0627 \u0633\u0637\u0648\u062d \u062e\u0627\u0635 \u06cc\u0627 \u0645\u0633\u06cc\u0631\u0647\u0627\u06cc \u063a\u06cc\u0631\u0645\u0646\u062a\u0638\u0631\u0647 \u0645\u0627\u0646\u0646\u062f \u2026",
+      "url": "https://www.1pezeshk.com/archives/2025/02/diseases-with-complex-and-surprising-transmission-routes.html",
+      "urlToImage": "https://www.1pezeshk.com/wp-content/uploads/2025/02/25-11-1403-01-57-57-\u0628-\u0638.webp",
+      "publishedAt": "2025-02-13 10:29:31",
+      "content": ". . . . - ! (Rabies) ( ) . . . . . - ! (Anthrax) (Bacillus anthracis) ( ) . . . . . . - \u201c\u201d ! (Kuru) . . (Prions) . (Mad Cow Disease) . . - ! (Plague) (Yersinia pestis) (Black Death) . . .\u2026 [+396 chars]",
+      "retrievedAt": "2025-02-14 19:05:40.653764",
+      "internal_id": "7989e2ca646c51a49784dfddba73b05f149e7769afb2cfab3a4cc61f0cfb1631",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 18206,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Moneycontrol",
+      "author": "Moneycontrol Hindi",
+      "title": "Bird Flu Scare: \u0906\u0902\u0927\u094d\u0930 \u092a\u094d\u0930\u0926\u0947\u0936 \u092e\u0947\u0902 \u092c\u0930\u094d\u0921 \u092b\u094d\u0932\u0942 \u0938\u0947 \u0926\u0939\u0936\u0924, 5.4 \u0932\u093e\u0916 \u092e\u0941\u0930\u094d\u0917\u093f\u092f\u094b\u0902 \u0915\u0940 \u092e\u094c\u0924, \u0938\u0930\u0915\u093e\u0930 \u0928\u0947 \u091c\u093e\u0930\u0940 \u0915\u0940 \u0917\u093e\u0907\u0921\u0932\u093e\u0907\u0902\u0938",
+      "description": "Bird flu scare in Andhra Pradesh: \u0906\u0902\u0927\u094d\u0930 \u092a\u094d\u0930\u0926\u0947\u0936 \u092e\u0947\u0902 \u092c\u0930\u094d\u0921 \u092b\u094d\u0932\u0942 \u0915\u0947 \u0921\u0930 \u0915\u0947 \u092e\u0926\u094d\u0926\u0947\u0928\u091c\u0930 \u0930\u093e\u091c\u094d\u092f \u0938\u0930\u0915\u093e\u0930 \u0928\u0947 \u0915\u0939\u093e \u0915\u093f \u0909\u0938\u0928\u0947 \u092a\u0936\u094d\u091a\u093f\u092e\u0940 \u0917\u094b\u0926\u093e\u0935\u0930\u0940, \u092a\u0942\u0930\u094d\u0935\u0940 \u0917\u094b\u0926\u093e\u0935\u0930\u0940, \u0915\u0943\u0937\u094d\u0923\u093e \u0914\u0930 \u090f\u0928\u091f\u0940\u0906\u0930 \u091c\u093f\u0932\u094b\u0902 \u092e\u0947\u0902 \u090f\u0935\u093f\u092f\u0928 \u0907\u0928\u094d\u092b\u094d\u0932\u0942\u090f\u0902\u091c\u093e (\u092c\u0930\u094d\u0921 \u092b\u094d\u0932\u0942) \u0915\u0947 \u092a\u094d\u0930\u0915\u094b\u092a \u0915\u094b \u0930\u094b\u0915\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0928\u0908 \u0917\u093e\u0907\u0921\u0932\u093e\u0907\u0902\u0938 \u0915\u0940 \u0918\u094b\u0937\u0923\u093e \u0915\u0940 \u0939\u0948\u0964 \u0907\u0938\u0915\u0947 \u0915\u093e\u0930\u2026",
+      "url": "https://hindi.moneycontrol.com/news/india/trends/bird-flu-scare-in-andhra-pradesh-nda-govt-issues-alert-amid-chicken-deaths-on-h5n1-in-poultry-sector-telangana-on-high-alert-after-outbreak-avian-influenza-1957243.html",
+      "urlToImage": "https://images.moneycontrol.com/static-hindinews/2025/02/BirdfluscareinAndhra.jpg",
+      "publishedAt": "2025-02-13 09:41:43",
+      "content": "Bird flu scare in Andhra Pradesh: , , ( ) , - . 40 10.7 5.4 , \" ( ) 14,000 340 \" 40 , - 721 (H5N1-bird flu) 721 (RRT) 2 2.2 2.5 , 65,000 7,000 - AAP 24 , CCTV 10",
+      "retrievedAt": "2025-02-14 19:05:42.694514",
+      "internal_id": "184cf29d2f03a0a1102e7cdd6ad333dc9e89f60fd3df06a8596ece5da42ea1eb",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 18209,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Jessica Bernardo",
+      "title": "Prefeitura quer vacina da dengue em escolas para reverter baixa ades\u00e3o",
+      "description": "Minist\u00e9rio da Sa\u00fade fala em \"precau\u00e7\u00e3o\" e recomenda vacina\u00e7\u00e3o exclusiva em unidades de sa\u00fade",
+      "url": "https://www.metropoles.com/sao-paulo/prefeitura-quer-vacina-da-dengue-em-escolas-para-reverter-baixa-adesao",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/02/23152914/vacina-dengue-sabado-UBS.jpg",
+      "publishedAt": "2025-02-13 09:30:05",
+      "content": "S\u00e3o Paulo \u2013 A Prefeitura de S\u00e3o Paulo quer a autoriza\u00e7\u00e3o do Minist\u00e9rio da Sa\u00fade para aplicar a vacina contra a dengue dentro das escolas como medida para reverter a baixa ades\u00e3o ao imunizante na capi\u2026 [+8577 chars]",
+      "retrievedAt": "2025-02-14 19:05:43.087441",
+      "internal_id": "463268977ef5ebb97e30e36da9be7ba11f8e771637b541ee6a074fec3102ddd2",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 18211,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Vacina da dengue: Quem pode tomar no SUS e na rede privada",
+      "description": "A vacina atua no organismo estimulando a produ\u00e7\u00e3o de anticorpos que combatem o v\u00edrus da dengue",
+      "url": "https://valor.globo.com/brasil/noticia/2025/02/13/vacina-da-dengue-quem-pode-tomar-no-sus-e-na-rede-privada.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/N5N-dWwGa4sAIo7zbzPUDkzwgfI=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2024/C/e/LAkn6CS46zZ1eHG4Ux7Q/105876791.jpg",
+      "publishedAt": "2025-02-13 09:00:55",
+      "content": "A vacina da dengue est\u00e1 dispon\u00edvel no Sistema \u00danico de Sa\u00fade (SUS) e nas redes privadas de todo o Brasil. Quem pode tomar o imunizante Qdenga, desenvolvido pelo laborat\u00f3rio japon\u00eas Takeda, s\u00e3o todas \u2026 [+3353 chars]",
+      "retrievedAt": "2025-02-14 19:05:43.131940",
+      "internal_id": "3e2ec0bede4c8957ef4b51fa9a5db92e7292dfd07e4d43da2dc5d272ea88eb51",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 18210,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Especialistas apontam falha do Minist\u00e9rio da Sa\u00fade por vacina\u00e7\u00e3o da dengue \"abaixo do esperado\"",
+      "description": "2024 foi o ano mais letal da dengue no Brasil Segu...",
+      "url": "https://valor.globo.com/brasil/noticia/2025/02/13/especialistas-apontam-falha-do-ministerio-da-saude-por-vacinacao-da-dengue-abaixo-do-esperado.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/vgNEnV6nsAP58nEifZ9dcRJp9RU=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2024/m/J/YZcZ5mRzycUb1AdVnerw/nisia-trindade-ministra-da-saude-leoorestes-4.jpg",
+      "publishedAt": "2025-02-13 09:00:52",
+      "content": "Segundo dados do Minist\u00e9rio da Sa\u00fade, at\u00e9 a \u00faltima segunda-feira (10), foram distribu\u00eddas 6,5 milh\u00f5es de vacinas da dengue desde janeiro de 2024, mas apenas pouco mais da metade (3,3 milh\u00f5es) foram e\u2026 [+4462 chars]",
+      "retrievedAt": "2025-02-14 19:05:43.124282",
+      "internal_id": "21f098c1ac4290d8d0a88672432cf1f4bbbab6b449652e54eea8a351a8e31f1c",
+      "publishedAtLabel": "Feb 13"
+    },
     {
       "id": 18188,
       "query": [
@@ -290,6 +633,24 @@
       "content": "Programele de combatere a HIV, poliomielitei, mpox i gripei aviare au fost afectate de \u00eenghearea a zeci de miliarde de dolari din ajutorul din partea SUA, spune eful Organizaiei Mondiale a Sntii (OMS\u2026 [+1566 chars]",
       "retrievedAt": "2025-02-13 19:05:40.695801",
       "internal_id": "93dddd8cf9dc641136008644369b4fe9e0a7023d4a925b750bfd93d21824e7fe",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 18216,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "Mpox: Better understanding of tecovirimat resistance",
+      "description": "A virus originally found in animals, mpox -- which causes the disease of the same name -- is now circulating in humans. Since 2022, it has been the cause of major epidemics spreading outside endemic areas in Central and West Africa. Two hundred and fifteen ca\u2026",
+      "url": "https://www.sciencedaily.com/releases/2025/02/250212134940.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2025-02-12 18:49:40",
+      "content": "A virus originally found in animals, mpox -- which causes the disease of the same name -- is now circulating in humans. Since 2022, it has been the cause of major epidemics spreading outside endemic \u2026 [+3817 chars]",
+      "retrievedAt": "2025-02-14 19:05:44.754917",
+      "internal_id": "f5144645cc2873d47696e9eaa07bf9fa1ed554e374a1be1e99b6304d83b75a1d",
       "publishedAtLabel": "Feb 12"
     },
     {
@@ -22912,186 +23273,6 @@
       "retrievedAt": "2024-12-31 07:06:23.062519",
       "internal_id": "0bc71e1789a4d07f5edf705712a5525d9fafec59ac7298e720183fce7eba5a08",
       "publishedAtLabel": "Dec 30"
-    },
-    {
-      "id": 16925,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "PTI",
-      "title": "AB-PMJAY has reduced cancer patients' financial burden significantly: Prime Minister Modi",
-      "description": "Prime Minister Narendra Modi highlights the impact of the Ayushman Bharat Pradhan Mantri Jan Arogya Yojana on reducing cancer patients' financial burden and improving timely cancer treatment. He also underscores the significant reduction in malaria cases and \u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/ab-pmjay-has-reduced-cancer-patients-financial-burden-significantly-prime-minister-modi/articleshow/116773595.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-116773634,width-1200,height-630,imgsize-1176719,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2024-12-29 17:08:42",
-      "content": "The Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (AB-PMJAY) has reduced the cancer patients' financial burden significantly, Prime Minister Narendra Modi said on Sunday. Modi highlighted the achi\u2026 [+2619 chars]",
-      "retrievedAt": "2024-12-30 19:05:34.438835",
-      "internal_id": "e229a8cdaccdbf44b9c346c41bb50e05d4373547b8f017853329cc645773464f",
-      "publishedAtLabel": "Dec 29"
-    },
-    {
-      "id": 16923,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Abril.com.br",
-      "author": "Hugo C\u00e9sar Marques",
-      "title": "Os recordes negativos do governo Lula em 2024",
-      "description": "Mortes por dengue, queimadas, alta do d\u00f3lar, desaprova\u00e7\u00e3o e finan\u00e7as das estatais lideram o rol de maus resultados da administra\u00e7\u00e3o petista",
-      "url": "https://veja.abril.com.br/brasil/os-recordes-negativos-do-governo-lula-em-2024",
-      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2024/09/54020044888_4ae7db6d8e_6k.jpg?quality=70&strip=info&crop=1&resize=1080,565",
-      "publishedAt": "2024-12-29 16:14:06",
-      "content": "\u00daltima Semana: Assine a partir de 1,50/semanaO presidente Luiz In\u00e1cio Lula da Silva, durante o evento Em defesa da democracia, combatendo os extremismos, na Sede das Na\u00e7\u00f5es Unidas, em Nova Iorque - \u2026 [+2111 chars]",
-      "retrievedAt": "2024-12-30 19:05:33.928792",
-      "internal_id": "01ccc77daeb09ee31f548fa68c18356f20a2268d54f3c6b4444cbd1a2c491dea",
-      "publishedAtLabel": "Dec 29"
-    },
-    {
-      "id": 16924,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Www.nzz.ch",
-      "author": "Anna Weber (wea)",
-      "title": "Doch keine mysteri\u00f6se \u00abKrankheit X\u00bb in Kongo-Kinshasa: Unterern\u00e4hrung macht Malaria und Erk\u00e4ltungen zu Killern",
-      "description": "Die Weltgesundheitsorganisation hat in Proben von Betroffenen keine neuen Erreger gefunden. Stattdessen treffen altbekannte Viren auf ein geschw\u00e4chtes Immunsystem. Das bedroht vor allem kleine Kinder.",
-      "url": "https://www.nzz.ch/wissenschaft/keine-krankheit-x-im-kongo-unterernaehrung-als-wahre-ursache-ld.1864272",
-      "urlToImage": "https://img.nzz.ch/2024/12/29/28f22673-2de4-4eb3-aff6-608954ac4a6f.jpeg?width=832&height=468&fit=bounds&quality=75&auto=webp&crop=832,468,x4,y0",
-      "publishedAt": "2024-12-29 15:36:29",
-      "content": "Viele Krankenh\u00e4user in der Region Panzi in Kongo-Kinshasa haben nicht genug Personal und Ressourcen, um alle Patienten angemessen zu versorgen. Erk\u00e4ltungssymptome, stark ansteigende Fallzahlen und D\u2026 [+4125 chars]",
-      "retrievedAt": "2024-12-30 19:05:34.360815",
-      "internal_id": "bb9524cb390837c786d15f125b651be702a8b76cc9c922f2dc86e184433428bf",
-      "publishedAtLabel": "Dec 29"
-    },
-    {
-      "id": 16918,
-      "query": [
-        "hpai"
-      ],
-      "source_id": null,
-      "source_name": "Everyeye.it",
-      "author": "Giuseppe Occhiuto",
-      "title": "Il primo caso di influenza aviaria mostra i segni di una mutazione: c'\u00e8 da preoccuparsi?",
-      "description": "A quanto pare il virus dell'influenza aviaria sta cambiando negli esseri umani. C'\u00e8 realmente da preoccuparsi? Facciamo il puntoIl primo paziente con la \"Highly Pathogenic Avian Influenza\" (HPAI), ovvero l'influenza aviaria che fa preoccupare milioni di perso\u2026",
-      "url": "https://tech.everyeye.it/notizie/caso-influenza-aviaria-mostra-segni-mutazione-e-preoccuparsi-767704.html",
-      "urlToImage": "https://images.everyeye.it/img-notizie/il-caso-influenza-aviaria-mostra-segni-mutazione-c-E-preoccuparsi-v4-767704.jpg",
-      "publishedAt": "2024-12-29 15:36:00",
-      "content": "Il primo paziente con la \"Highly Pathogenic Avian Influenza\" (HPAI), ovvero l'influenza aviaria che fa preoccupare milioni di persone, mostra l'esistenza di mutazioni che influenzano la capacit\u00e0 del \u2026 [+2164 chars]",
-      "retrievedAt": "2024-12-30 19:05:33.011249",
-      "internal_id": "93384229609d04c1da2584dfe7402b0b85649c700ff306aa595b4d3921c8a153",
-      "publishedAtLabel": "Dec 29"
-    },
-    {
-      "id": 16920,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Naked-science.ru",
-      "author": "\u041b\u044e\u0431\u043e\u0432\u044c",
-      "title": "\u0410\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0438\u0445 \u043a\u043e\u0448\u0435\u043a \u043f\u043e\u0440\u0430\u0437\u0438\u043b \u043d\u043e\u0432\u044b\u0439 \u0448\u0442\u0430\u043c\u043c \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430",
-      "description": "\u0417\u0430 \u0434\u0432\u0430 \u0441 \u043f\u043e\u043b\u043e\u0432\u0438\u043d\u043e\u0439 \u0433\u043e\u0434\u0430 \u0432\u0438\u0440\u0443\u0441 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430 H5N1 \u043f\u043e\u0433\u0443\u0431\u0438\u043b \u0431\u043e\u043b\u0435\u0435 100 \u043c\u0438\u043b\u043b\u0438\u043e\u043d\u043e\u0432 \u043f\u0435\u0440\u043d\u0430\u0442\u044b\u0445 \u043d\u0430 \u043f\u0442\u0438\u0446\u0435\u0444\u0430\u0431\u0440\u0438\u043a\u0430\u0445 \u0421\u0428\u0410. \u0415\u0433\u043e \u043f\u0435\u0440\u0435\u043d\u043e\u0441\u0447\u0438\u043a\u0430\u043c\u0438, \u043a\u0430\u043a \u043e\u043a\u0430\u0437\u0430\u043b\u043e\u0441\u044c, \u043c\u043e\u0433\u0443\u0442 \u0441\u0442\u0430\u0442\u044c \u0434\u043e\u043c\u0430\u0448\u043d\u0438\u0435 \u043a\u043e\u0448\u043a\u0438: \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u044b \u043d\u043e\u0432\u043e\u0433\u043e \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u044f \u043f\u043e\u043a\u0430\u0437\u0430\u043b\u0438, \u0447\u0442\u043e \u043c\u0443\u0442\u0430\u0446\u0438\u0438 \u0443 \u044d\u0442\u0438\u0445 \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u0445 \u0437\u043d\u0430\u0447\u0438\u0442\u0435\u043b\u044c\u043d\u043e \u043f\u043e\u0432\u044b\u0448\u0430\u2026",
-      "url": "https://naked-science.ru/article/medicine/amerikanskih-koshek-poraz",
-      "urlToImage": "https://naked-science.ru/wp-content/uploads/2024/12/cat_bird-1200x675.jpeg",
-      "publishedAt": "2024-12-29 13:28:53",
-      "content": "H5N1 100 . , , : , \u00ab\u00bb \u00ab\u00bb () . , , , : 2024 () H5N1 10 . . , . , . Taylor and Francis. , . , , . (Suresh V. Kuchipudi) () , , , , , . . , , (HA) T143A , \u00ab\u00bb . F314L L342Q PA (), ( ). \u2026 [+119 chars]",
-      "retrievedAt": "2024-12-30 19:05:33.588756",
-      "internal_id": "347553ed5c7feec811e40aff2352e35621b8d43953dc6ea0f7e5887abf7bc222",
-      "publishedAtLabel": "Dec 29"
-    },
-    {
-      "id": 16922,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Mail.ru",
-      "author": "\u0420\u0430\u043c\u0438\u043b\u044f \u0413\u0430\u043b\u0438\u043c\u0437\u044f\u043d\u043e\u0432\u0430",
-      "title": "\u041c\u0430\u0440\u0431\u0443\u0440\u0433, \u041a\u043e\u043a\u0441\u0430\u043a\u0438 \u0438 \u0410\u043b\u044f\u0441\u043a\u0430\u043f\u043e\u043a\u0441: \u043a\u0430\u043a\u0438\u0435 \u0432\u0438\u0440\u0443\u0441\u044b \u0431\u0443\u0448\u0435\u0432\u0430\u043b\u0438 \u0432 2024",
-      "description": "\u041e\u043d\u0438 \u043c\u043e\u0433\u043b\u0438 \u043f\u0435\u0440\u0435\u0440\u0430\u0441\u0442\u0438 \u0432 \u044d\u043f\u0438\u0434\u0435\u043c\u0438\u044e, \u043d\u043e \u044d\u0442\u043e\u0433\u043e \u043d\u0435 \u0441\u043b\u0443\u0447\u0438\u043b\u043e\u0441\u044c.",
-      "url": "https://vfokuse.mail.ru/article/marburg-koksaki-i-alyaskapoks-kakie-virusy-bushevali-v-2024-64280393/",
-      "urlToImage": "https://resizer.mail.ru/p/68346929-235c-56b5-ab4f-8ed04163ca45/op:15/logo:bottom:vfokuse.png/AQAGLw0YIawdOncjk_0oAufl-pIHYgLdRYhe0Op79kH3AKXFZDfAoUaKgC9L5hcI9N3iFKoHg-YLI516VIWkT4-y2MQ.jpg",
-      "publishedAt": "2024-12-29 13:16:28",
-      "content": ". , \u00ab\u00bb . COVID-19, , . , 2024 , Life. 2024 - (H5N1). . 14 , . . 18 \u2014 . 2021 H5N1 280 . \u2014 . 2024 \u2014 30 . , . 2024 , COVID-19, , . \u2026 [+954 chars]",
-      "retrievedAt": "2024-12-30 19:05:33.678135",
-      "internal_id": "b6849393f197386f30de07cd87570a63fb8747e0bb3bb9dca759742ac39cc5bb",
-      "publishedAtLabel": "Dec 29"
-    },
-    {
-      "id": 16928,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "der-tagesspiegel",
-      "source_name": "Der Tagesspiegel",
-      "author": "Sascha Karberg",
-      "title": "Schwerer Vogelgrippe-Fall beim Menschen: US-Seuchenbeh\u00f6rde findet gef\u00e4hrliche Mutationen",
-      "description": "Mindestens 65 Menschen haben sich in den USA in den vergangenen Monaten \u00fcber infiziertes Gefl\u00fcgel oder Milchk\u00fche mit H5N1-Viren angesteckt. Aber nur einer erkrankte schwer. Jetzt wurde das Viruserbgut analysiert.",
-      "url": "https://www.tagesspiegel.de/wissen/schwerer-vogelgrippe-fall-beim-menschen-us-seuchenbehorde-findet-gefahrliche-mutationen-12938302.html",
-      "urlToImage": "https://www.tagesspiegel.de/images/6647143/alternates/BASE_16_9_W1400/1658762868000/fouchier1hr.jpeg",
-      "publishedAt": "2024-12-29 13:08:25",
-      "content": "Kurz vor Weihnachten hatte die US-Seuchenbeh\u00f6rde CDC best\u00e4tigt, dass im Bundesstaat Louisiana eine Person au\u00dfergew\u00f6hnlich schwer an Vogelgrippe (H5N1) erkrankt war. Offenbar hatte sich die nicht n\u00e4he\u2026 [+5558 chars]",
-      "retrievedAt": "2024-12-31 07:06:23.171572",
-      "internal_id": "133209a677e813512703bda2a7664ec17442e3ee10264fd829f914e2b62ef904",
-      "publishedAtLabel": "Dec 29"
-    },
-    {
-      "id": 16919,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "REVOLT TV",
-      "author": "Angelina Velasquez",
-      "title": "Health expert warns bird flu may become a pandemic like COVID-19",
-      "description": "A medical expert who helped lead America\u2019s COVID-19 response has warned that the ongoing bird flu (H5N1) epidemic can evolve into a pandemic if greater...",
-      "url": "https://www.revolt.tv/article/former-white-house-health-expert-warns-bird-flu-has-potential-to-become-pandemic",
-      "urlToImage": "https://media.zenfs.com/en/revolt_articles_463/9beff138051b8dbc792fba12a4fa6f00",
-      "publishedAt": "2024-12-29 12:05:41",
-      "content": "Yahoo is using AI to generate takeaways from this article. This means the info may not always match what's in the article. Reporting mistakes helps us improve the experience.Generate Key Takeaways A\u2026 [+2651 chars]",
-      "retrievedAt": "2024-12-30 19:05:33.538288",
-      "internal_id": "b5a153d5aba5f4bc8716df9f015f1151ec9e6f380af6d709ba5ee5283eee80fd",
-      "publishedAtLabel": "Dec 29"
-    },
-    {
-      "id": 16921,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "cnn",
-      "source_name": "CNN",
-      "author": "CNN \u0628\u0627\u0644\u0639\u0631\u0628\u064a\u0629",
-      "title": "\u0637\u0641\u0631\u0629 \u062c\u062f\u064a\u062f\u0629 \u062a\u062b\u064a\u0631 \u0627\u0644\u0642\u0644\u0642.. \u0625\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u0637\u064a\u0648\u0631 \u062a\u0633\u062a\u0647\u062f\u0641 \u062e\u0644\u0627\u064a\u0627 \u0627\u0644\u062a\u0646\u0641\u0633 \u0644\u062f\u0649 \u0627\u0644\u0628\u0634\u0631",
-      "description": "\u0623\u062b\u0627\u0631\u062a \u0637\u0641\u0631\u0629 \u062c\u062f\u064a\u062f\u0629 \u0638\u0647\u0631\u062a \u0644\u062f\u0649 \u0645\u0631\u064a\u0636 \u0641\u064a \u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629 \u0623\u0635\u064a\u0628 \u0628\u0641\u064a\u0631\u0648\u0633 \u0625\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u0637\u064a\u0648\u0631 H5N1 \u0627\u0644\u0642\u0644\u0642 \u0644\u062f\u0649 \u0645\u0633\u0624\u0648\u0644\u064a \u0627\u0644\u0635\u062d\u0629 \u0641\u064a \u0627\u0644\u0628\u0644\u0627\u062f\u060c \u062d\u064a\u062b \u0648\u064f\u062c\u062f \u0623\u0646 \u0627\u0644\u0641\u064a\u0631\u0648\u0633 \u062a\u062d\u0648\u0631 \u0628\u0637\u0631\u064a\u0642\u0629 \u062a\u062c\u0639\u0644 \u0645\u0646 \u0627\u0644\u0633\u0647\u0644 \u0625\u0635\u0627\u0628\u0629 \u0627\u0644\u062e\u0644\u0627\u064a\u0627 \u0627\u0644\u0628\u0634\u0631\u064a\u0629 \u0641\u064a \u0627\u0644\u062c\u0647\u0627\u0632 \u0627\u0644\u062a\u0646\u0641\u0633\u064a \u0627\u0644\u0639\u0644\u0648\u064a \u0644\u062f\u0649 \u0627\u0644\u0628\u0634\u0631 \u0628\u0625\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u0637\u064a\u0648\u0631\u060c \u0648\u0630\u0644\u0643 \u0628\u0639\u062f \u062a\u062d\u0644\u064a\u0644 \u0645\u0631\u0643\u0632 \u2026",
-      "url": "https://arabic.cnn.com/science-and-health/video/2024/12/29/v167569-bird-flu-mutates-to-target-human-respiratory-cells",
-      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2024/12/28/images/286314.jpg",
-      "publishedAt": "2024-12-29 09:07:51",
-      "content": "",
-      "retrievedAt": "2024-12-30 19:05:33.649350",
-      "internal_id": "85e1ea9182b904f4972e990f139beb5db74832a28dbf56cb43807c12e11b3dcb",
-      "publishedAtLabel": "Dec 29"
-    },
-    {
-      "id": 16926,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "N-tv.de",
-      "author": "Hedviga Nyarsik",
-      "title": "WHO-Liste des Grauens: Die gef\u00e4hrlichsten Erreger, gegen die es keine Impfung gibt",
-      "description": "Ob HIV, Malaria oder multiresistente Keime: Gegen viele Erreger gibt es noch keinen wirksamen Impfstoff. Sie verursachen daher immer wieder Infektionen und Ausbr\u00fcche, gegen die nur wenig unternommen werden kann. Die WHO listet nun die 17 gef\u00e4hrlichsten dieser\u2026",
-      "url": "https://www.n-tv.de/mediathek/bilderserien/wissen/Die-gefaehrlichsten-Erreger-gegen-die-es-keine-Impfung-gibt-article25374966.html",
-      "urlToImage": "https://bilder2.n-tv.de/img/incoming/crop25375481/1381327620-cImg_16_9-w1200/imago775347209.jpg",
-      "publishedAt": "2024-12-29 07:55:54",
-      "content": "Neben den vier Pathogenen ohne Impfschutz listet die WHO noch weitere Infektionskrankheiten auf, gegen die es zwar bereits Impfstoffe gibt, die aber nicht ausgereift sind, zu wenig wirken oder nicht \u2026 [+31 chars]",
-      "retrievedAt": "2024-12-30 19:05:34.496423",
-      "internal_id": "b0d655e4e8f559fb62e8d9dabed9acc7bbd58a9a6396fa9f2944b0c583498787",
-      "publishedAtLabel": "Dec 29"
     }
   ]
 }

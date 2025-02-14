@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 15
-- **Last harvest:** 2025-02-14 07:06
-- **Most recent article:** 2025-02-13 07:00:00
+- **New articles in last harvest:** 20
+- **Last harvest:** 2025-02-14 19:05
+- **Most recent article:** 2025-02-13 18:36:23
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-53 | 25-1 | 25-2 | 25-3 | 25-4 | 25-5 | 25-6 | 25-7 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| h5n1 | 27 | 27 | 131 | 65 | 31 | 51 | 72 | 32 | 436 |
-| mpox | 2 | 6 | 91 | 34 | 23 | 22 | 28 | 7 | 213 |
-| dengue | 5 | 12 | 41 | 29 | 37 | 24 | 34 | 18 | 200 |
-| malaria | 15 | 10 | 30 | 18 | 19 | 30 | 25 | 6 | 153 |
-| measles | 3 | 6 | 6 | 9 | 10 | 13 | 24 | 38 | 109 |
-| hpai | 1 | 4 | 18 | 12 | 11 | 6 | 3 | 2 | 57 |
+| h5n1 | 22 | 27 | 131 | 65 | 31 | 51 | 72 | 35 | 434 |
+| mpox | 2 | 6 | 91 | 34 | 23 | 22 | 28 | 10 | 216 |
+| dengue | 4 | 12 | 41 | 29 | 37 | 24 | 34 | 23 | 204 |
+| malaria | 12 | 10 | 30 | 18 | 19 | 30 | 25 | 7 | 151 |
+| measles | 3 | 6 | 6 | 9 | 10 | 13 | 24 | 40 | 111 |
+| hpai | 0 | 4 | 18 | 12 | 11 | 6 | 3 | 3 | 57 |
 | chikungunya | 2 | 0 | 7 | 7 | 10 | 9 | 8 | 2 | 45 |
-| zika | 0 | 0 | 15 | 5 | 2 | 8 | 6 | 1 | 37 |
-| rabies | 1 | 1 | 2 | 6 | 7 | 6 | 4 | 3 | 30 |
-| meningitis | 1 | 2 | 0 | 2 | 3 | 8 | 2 | 5 | 23 |
+| zika | 0 | 0 | 15 | 5 | 2 | 8 | 6 | 2 | 38 |
+| rabies | 1 | 1 | 2 | 6 | 7 | 6 | 4 | 4 | 31 |
+| meningitis | 1 | 2 | 0 | 2 | 3 | 8 | 2 | 7 | 25 |
+| yersinia | 0 | 0 | 3 | 2 | 0 | 0 | 0 | 4 | 9 |
 | pertussis | 0 | 1 | 2 | 0 | 1 | 0 | 3 | 2 | 9 |
-| yersinia | 0 | 0 | 3 | 2 | 0 | 0 | 0 | 2 | 7 |
 | typhoid | 0 | 0 | 0 | 4 | 0 | 0 | 2 | 1 | 7 |
 | leptospirosis | 0 | 0 | 0 | 1 | 2 | 0 | 1 | 0 | 4 |
 
@@ -34,9 +34,15 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-7 (zika)
 
+- [Zika virus modulates arthropod histone methylation for its survival in mosquito cells](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0319290) (Plos.org)
+
 - [Descubren que un fármaco anticancerígeno actúa contra varios virus](https://www.montevideo.com.uy/Salud/Descubren-que-un-farmaco-anticancerigeno-actua-contra-varios-virus-uc914573) (Montevideo.com.uy)
 
 ## 25-7 (yersinia)
+
+- [В Аркаиме нашли зараженную чумной палочкой древнюю овцу](https://nplus1.ru/news/2025/02/13/sheep-and-yersinia-pestis) (Nplus1.ru)
+
+- [بیماری‌هایی با راه‌های انتقال پیچیده و حتی شگفت‌انگیز!](https://www.1pezeshk.com/archives/2025/02/diseases-with-complex-and-surprising-transmission-routes.html) (1pezeshk.com)
 
 - [Ученые: овцы распространили чуму в бронзовом веке](https://vfokuse.mail.ru/article/uchenyie-ovtsyi-rasprostranili-chumu-v-bronzovom-veke-64830087/) (Mail.ru)
 
@@ -47,6 +53,8 @@ Source: [News API](https://newsapi.org/)
 - [AI and public health issues in contemporary Nigeria - MediaLord.Ng](https://medialord.ng/ai-and-public-health-issues-in-contemporary-nigeria/) (Medialord.ng)
 
 ## 25-7 (rabies)
+
+- [بیماری‌هایی با راه‌های انتقال پیچیده و حتی شگفت‌انگیز!](https://www.1pezeshk.com/archives/2025/02/diseases-with-complex-and-surprising-transmission-routes.html) (1pezeshk.com)
 
 - [BMC to operate vehicle with LED screens for rabies awareness](https://timesofindia.indiatimes.com/city/mumbai/bmc-to-operate-vehicle-with-led-screens-for-rabies-awareness/articleshow/118185436.cms) (The Times of India)
 
@@ -62,7 +70,13 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-7 (mpox)
 
+- [La OMS informa de la detección del primer caso del clado Ib de mpox en Emiratos Árabes Unidos](https://www.infosalus.com/salud-investigacion/noticia-oms-informa-deteccion-primer-caso-clado-ib-mpox-emiratos-arabes-unidos-20250213193623.html) (Infosalus.com)
+
+- [Cerca de 97.800 casos y 1.735 muertes por mpox en África desde principios de 2024](https://www.montevideo.com.uy/Salud/Cerca-de-97-800-casos-y-1-735-muertes-por-mpox-en-Africa-desde-principios-de-2024-uc914906) (Montevideo.com.uy)
+
 - [OMS: 50 de ţări, afectate de retragerea finanţării SUA](https://www.mediafax.ro/externe/oms-50-de-tari-afectate-de-retragerea-finantarii-sua-22692176) (Mediafax.ro)
+
+- [Mpox: Better understanding of tecovirimat resistance](https://www.sciencedaily.com/releases/2025/02/250212134940.htm) (Science Daily)
 
 - [Fifty countries affected by USAID freeze, says WHO](https://www.bbc.com/news/articles/czj3z290ngyo) (BBC News)
 
@@ -78,6 +92,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-7 (meningitis)
 
+- [Medics did not give antibiotics swiftly - inquest](https://www.bbc.com/news/articles/c3e1l4yq93yo) (BBC News)
+
+- [Health Minister leads response to meningitis outbreak in Upper West](https://3news.com/health/health-minister-leads-response-to-meningitis-outbreak-in-upper-west/) (3news.com)
+
 - [Dos nuevos casos de meningitis bacteriana elevan a siete los detectados en lo que va de año en Aragón](https://www.abc.es/espana/aragon/dos-nuevos-casos-meningitis-bacteriana-elevan-siete-20250212190336-nt.html) (Www.abc.es)
 
 - [Aragón confirma dos nuevos casos de meningitis y ya son siete los detectados en solo dos meses](https://www.elespanol.com/aragon/actualidad/20250212/aragon-confirma-nuevos-casos-meningitis-detectados-solo-meses/923658206_0.html) (Elespanol.com)
@@ -89,6 +107,10 @@ Source: [News API](https://newsapi.org/)
 - [Impact of cerebrospinal fluid leukocyte infiltration and activated neuroimmune mediators on survival with HIV-associated cryptococcal meningitis](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012873) (Plos.org)
 
 ## 25-7 (measles)
+
+- [The future Republicans want](https://www.lawyersgunsmoneyblog.com/2025/02/the-future-republicans-want) (Lawyersgunsmoneyblog.com)
+
+- [Do you need a measles booster? Here’s what experts say | CNN](https://www.cnn.com/2025/02/13/health/measles-vaccine-shot-booster-adults-wellness/index.html) (CNN)
 
 - [Measles Outbreak in Texas Hits 24 Cases](https://www.newser.com/story/364196/measles-outbreak-in-texas-hits-24-cases.html) (Newser)
 
@@ -168,6 +190,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-7 (malaria)
 
+- [Human responses to the DNA prime/chimpanzee adenovirus (ChAd63) boost vaccine identify CSP, AMA1 and TRAP MHC Class I-restricted epitopes](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318098) (Plos.org)
+
 - [To stop preventable deaths, start with the fundamentals](https://www.japantimes.co.jp/commentary/2025/02/13/world/treating-preventable-disease-access/) (The Japan Times)
 
 - [Ireland recorded rise in tropical diseases like malaria and dengue fever after return to full travel](https://www.independent.ie/irish-news/ireland-recorded-rise-in-tropical-diseases-like-malaria-and-dengue-fever-after-return-to-full-travel/a1090412103.html) (Independent.ie)
@@ -182,11 +206,19 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-7 (hpai)
 
+- [Notes from the Field: Seroprevalence of Highly Pathogenic Avian Influenza A(H5) Virus Infections Among Bovine Veterinary Practitioners - United States, September 2024](https://www.cdc.gov/mmwr/volumes/74/wr/mm7404a2.htm) (Cdc.gov)
+
 - [禽流感發威、美雞蛋批發價暴漲 餐廳順勢漲價](https://finance.technews.tw/2025/02/11/personal-finance-wholesale-egg-prices-have-blown-way-past-record-highs/) (Technews.tw)
 
 - [Bird flu, egg shortage prompts regional emergency, hours waivers for relief-haul](https://www.overdriveonline.com/hours-of-service/article/15737110/live-chicken-haulers-get-regs-relief-for-bird-flu-emergency) (Overdriveonline.com)
 
 ## 25-7 (h5n1)
+
+- [After delay, CDC releases data signaling bird flu spread undetected in cows and people](https://www.npr.org/sections/shots-health-news/2025/02/13/nx-s1-5296672/cdc-bird-flu-study-mmwr-veterinarians) (NPR)
+
+- [What to know about bird flu in 2025, according to a public health expert](https://www.cbsnews.com/news/bird-flu-2025-symptoms-eggs-humans/) (CBS News)
+
+- [Bird Flu Scare: आंध्र प्रदेश में बर्ड फ्लू से दहशत, 5.4 लाख मुर्गियों की मौत, सरकार ने जारी की गाइडलाइंस](https://hindi.moneycontrol.com/news/india/trends/bird-flu-scare-in-andhra-pradesh-nda-govt-issues-alert-amid-chicken-deaths-on-h5n1-in-poultry-sector-telangana-on-high-alert-after-outbreak-avian-influenza-1957243.html) (Moneycontrol)
 
 - [ΗΠΑ: Δεν επικοινωνούν με τον ΠΟΥ για τη γρίπη των πτηνών](https://www.naftemporiki.gr/kosmos/1912211/ipa-den-epikoinonoyn-me-ton-poy-gia-ti-gripi-ton-ptinon/) (Naftemporiki.gr)
 
@@ -253,6 +285,16 @@ Source: [News API](https://newsapi.org/)
 - [Zamykają targi, wybijają zakażone zwierzęta. Ptasia grypa rozprzestrzenia się w Nowym Jorku](https://tvn24.pl/tvnmeteo/swiat/zamykaja-targi-wybijaja-zakazone-zwierzeta-ptasia-grypa-rozprzestrzenia-sie-w-nowym-jorku-st8298168) (Tvn24.pl)
 
 ## 25-7 (dengue)
+
+- [Se acumulan mil 178 casos de dengue en el país](https://www.excelsior.com.mx/nacional/acumulan-mil-178-casos-dengue-en-el-pais/1699698) (Excelsior.com.mx)
+
+- [Opas emite alerta para risco de surto do tipo 3 da dengue nas Américas](https://www.metropoles.com/saude/opas-alerta-surto-tipo3-dengue-americas) (Metropoles.com)
+
+- [Prefeitura quer vacina da dengue em escolas para reverter baixa adesão](https://www.metropoles.com/sao-paulo/prefeitura-quer-vacina-da-dengue-em-escolas-para-reverter-baixa-adesao) (Metropoles.com)
+
+- [Vacina da dengue: Quem pode tomar no SUS e na rede privada](https://valor.globo.com/brasil/noticia/2025/02/13/vacina-da-dengue-quem-pode-tomar-no-sus-e-na-rede-privada.ghtml) (Globo)
+
+- [Especialistas apontam falha do Ministério da Saúde por vacinação da dengue "abaixo do esperado"](https://valor.globo.com/brasil/noticia/2025/02/13/especialistas-apontam-falha-do-ministerio-da-saude-por-vacinacao-da-dengue-abaixo-do-esperado.ghtml) (Globo)
 
 - [Ireland recorded rise in tropical diseases like malaria and dengue fever after return to full travel](https://www.independent.ie/irish-news/ireland-recorded-rise-in-tropical-diseases-like-malaria-and-dengue-fever-after-return-to-full-travel/a1090412103.html) (Independent.ie)
 
@@ -2788,16 +2830,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Pakar Ungkap Potensi Ancaman Kesehatan Utama di 2025, Ada Malaria hingga Masalah Mental](https://www.liputan6.com/health/read/5856603/pakar-ungkap-potensi-ancaman-kesehatan-utama-di-2025-ada-malaria-hingga-masalah-mental) (Liputan6.com)
 
-- [AB-PMJAY has reduced cancer patients' financial burden significantly: Prime Minister Modi](https://economictimes.indiatimes.com/news/india/ab-pmjay-has-reduced-cancer-patients-financial-burden-significantly-prime-minister-modi/articleshow/116773595.cms) (The Times of India)
-
-- [Doch keine mysteriöse «Krankheit X» in Kongo-Kinshasa: Unterernährung macht Malaria und Erkältungen zu Killern](https://www.nzz.ch/wissenschaft/keine-krankheit-x-im-kongo-unterernaehrung-als-wahre-ursache-ld.1864272) (Www.nzz.ch)
-
-- [WHO-Liste des Grauens: Die gefährlichsten Erreger, gegen die es keine Impfung gibt](https://www.n-tv.de/mediathek/bilderserien/wissen/Die-gefaehrlichsten-Erreger-gegen-die-es-keine-Impfung-gibt-article25374966.html) (N-tv.de)
-
-## 24-53 (hpai)
-
-- [Il primo caso di influenza aviaria mostra i segni di una mutazione: c'è da preoccuparsi?](https://tech.everyeye.it/notizie/caso-influenza-aviaria-mostra-segni-mutazione-e-preoccuparsi-767704.html) (Everyeye.it)
-
 ## 24-53 (h5n1)
 
 - [As pace and severity of human H5N1 cases accelerate, NIH leaders call for more action on bird flu | CNN](https://www.cnn.com/2024/12/31/health/human-h5n1-bird-flu-cases/index.html) (CNN)
@@ -2844,16 +2876,6 @@ Source: [News API](https://newsapi.org/)
 
 - [طفرة فريدة من نوعها لفيروس انفلونزا الطيور يكتشفها أطباء في لوس أنجلوس.. بِمَ يُنبئنا ذلك؟](https://arabic.cnn.com/science-and-health/video/2024/12/30/v167548-bird-flu-mutation) (CNN)
 
-- [Американских кошек поразил новый штамм птичьего гриппа](https://naked-science.ru/article/medicine/amerikanskih-koshek-poraz) (Naked-science.ru)
-
-- [Марбург, Коксаки и Аляскапокс: какие вирусы бушевали в 2024](https://vfokuse.mail.ru/article/marburg-koksaki-i-alyaskapoks-kakie-virusy-bushevali-v-2024-64280393/) (Mail.ru)
-
-- [Schwerer Vogelgrippe-Fall beim Menschen: US-Seuchenbehörde findet gefährliche Mutationen](https://www.tagesspiegel.de/wissen/schwerer-vogelgrippe-fall-beim-menschen-us-seuchenbehorde-findet-gefahrliche-mutationen-12938302.html) (Der Tagesspiegel)
-
-- [Health expert warns bird flu may become a pandemic like COVID-19](https://www.revolt.tv/article/former-white-house-health-expert-warns-bird-flu-has-potential-to-become-pandemic) (REVOLT TV)
-
-- [طفرة جديدة تثير القلق.. إنفلونزا الطيور تستهدف خلايا التنفس لدى البشر](https://arabic.cnn.com/science-and-health/video/2024/12/29/v167569-bird-flu-mutates-to-target-human-respiratory-cells) (CNN)
-
 ## 24-53 (dengue)
 
 - [Bangladesh records 575 dengue deaths in 2024](https://www.thestar.com.my/news/world/2025/01/01/bangladesh-records-575-dengue-deaths-in-2024) (The Star Online)
@@ -2863,8 +2885,6 @@ Source: [News API](https://newsapi.org/)
 - [Japanese encephalitis: Summer's first case of mosquito-borne virus detected in Victorian](https://thenightly.com.au/society/health/japanese-encephalitis-summers-first-case-of-mosquito-borne-virus-detected-in-victorian-c-17244120) (Thenightly.com.au)
 
 - [Summer's first case of mosquito-borne Japanese encephalitis detected in Victoria](https://7news.com.au/news/summers-first-case-of-mosquito-borne-japanese-encephalitis-detected-in-victoria-c-17244123) (7NEWS.com.au)
-
-- [Os recordes negativos do governo Lula em 2024](https://veja.abril.com.br/brasil/os-recordes-negativos-do-governo-lula-em-2024) (Abril.com.br)
 
 ## 24-53 (chikungunya)
 
