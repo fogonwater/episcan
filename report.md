@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 20
-- **Last harvest:** 2025-02-14 19:05
-- **Most recent article:** 2025-02-13 18:36:23
+- **New articles in last harvest:** 18
+- **Last harvest:** 2025-02-15 07:05
+- **Most recent article:** 2025-02-14 06:53:00
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 24-53 | 25-1 | 25-2 | 25-3 | 25-4 | 25-5 | 25-6 | 25-7 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| h5n1 | 22 | 27 | 131 | 65 | 31 | 51 | 72 | 35 | 434 |
-| mpox | 2 | 6 | 91 | 34 | 23 | 22 | 28 | 10 | 216 |
-| dengue | 4 | 12 | 41 | 29 | 37 | 24 | 34 | 23 | 204 |
-| malaria | 12 | 10 | 30 | 18 | 19 | 30 | 25 | 7 | 151 |
-| measles | 3 | 6 | 6 | 9 | 10 | 13 | 24 | 40 | 111 |
-| hpai | 0 | 4 | 18 | 12 | 11 | 6 | 3 | 3 | 57 |
+| h5n1 | 27 | 27 | 131 | 65 | 31 | 51 | 72 | 38 | 442 |
+| mpox | 2 | 6 | 91 | 34 | 23 | 22 | 28 | 12 | 218 |
+| dengue | 5 | 12 | 41 | 29 | 37 | 24 | 34 | 24 | 206 |
+| malaria | 15 | 10 | 30 | 18 | 19 | 30 | 25 | 11 | 158 |
+| measles | 3 | 6 | 6 | 9 | 10 | 13 | 24 | 45 | 116 |
+| hpai | 1 | 4 | 18 | 12 | 11 | 6 | 3 | 3 | 58 |
 | chikungunya | 2 | 0 | 7 | 7 | 10 | 9 | 8 | 2 | 45 |
 | zika | 0 | 0 | 15 | 5 | 2 | 8 | 6 | 2 | 38 |
-| rabies | 1 | 1 | 2 | 6 | 7 | 6 | 4 | 4 | 31 |
-| meningitis | 1 | 2 | 0 | 2 | 3 | 8 | 2 | 7 | 25 |
-| yersinia | 0 | 0 | 3 | 2 | 0 | 0 | 0 | 4 | 9 |
-| pertussis | 0 | 1 | 2 | 0 | 1 | 0 | 3 | 2 | 9 |
-| typhoid | 0 | 0 | 0 | 4 | 0 | 0 | 2 | 1 | 7 |
+| rabies | 1 | 1 | 2 | 6 | 7 | 6 | 4 | 5 | 32 |
+| meningitis | 1 | 2 | 0 | 2 | 3 | 8 | 2 | 8 | 26 |
+| yersinia | 0 | 0 | 3 | 2 | 0 | 0 | 0 | 5 | 10 |
+| pertussis | 0 | 1 | 2 | 0 | 1 | 0 | 3 | 3 | 10 |
+| typhoid | 0 | 0 | 0 | 4 | 0 | 0 | 2 | 2 | 8 |
 | leptospirosis | 0 | 0 | 0 | 1 | 2 | 0 | 1 | 0 | 4 |
 
 
@@ -40,6 +40,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-7 (yersinia)
 
+- [Ученые исследовали древнее существо, найденное в Аркаиме](https://rodina-history.ru/2025/02/14/uchenye-issledovali-drevnee-sushchestvo-najdennoe-v-arkaime.html) (Rodina-history.ru)
+
 - [В Аркаиме нашли зараженную чумной палочкой древнюю овцу](https://nplus1.ru/news/2025/02/13/sheep-and-yersinia-pestis) (Nplus1.ru)
 
 - [بیماری‌هایی با راه‌های انتقال پیچیده و حتی شگفت‌انگیز!](https://www.1pezeshk.com/archives/2025/02/diseases-with-complex-and-surprising-transmission-routes.html) (1pezeshk.com)
@@ -50,9 +52,13 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-7 (typhoid)
 
+- [Diseases Eliminated by Science or RFK Jr. or Prayer](https://dianeravitch.net/2025/02/13/diseases-eliminated-by-science-or-rfk-jr-or-prayer/) (Dianeravitch.net)
+
 - [AI and public health issues in contemporary Nigeria - MediaLord.Ng](https://medialord.ng/ai-and-public-health-issues-in-contemporary-nigeria/) (Medialord.ng)
 
 ## 25-7 (rabies)
+
+- [Rabid fox tries to attack person in Lincoln County](https://www.wsoctv.com/news/local/rabid-fox-tries-attack-person-lincoln-county/JTHMRCQVP5EWXFHBTS5FDOMMYE/) (WSOC Charlotte)
 
 - [بیماری‌هایی با راه‌های انتقال پیچیده و حتی شگفت‌انگیز!](https://www.1pezeshk.com/archives/2025/02/diseases-with-complex-and-surprising-transmission-routes.html) (1pezeshk.com)
 
@@ -64,11 +70,17 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-7 (pertussis)
 
+- [Diseases Eliminated by Science or RFK Jr. or Prayer](https://dianeravitch.net/2025/02/13/diseases-eliminated-by-science-or-rfk-jr-or-prayer/) (Dianeravitch.net)
+
 - [U.S. records most whooping cough deaths since 2017](https://www.cbsnews.com/news/whooping-cough-deaths-us-most-since-2017/) (CBS News)
 
 - [Brutális sebességgel terjed a fertőzés Magyarországon, amibe tavaly 5 csecsemő halt bele](https://www.portfolio.hu/gazdasag/20250210/brutalis-sebesseggel-terjed-a-fertozes-magyarorszagon-amibe-tavaly-5-csecsemo-halt-bele-740351) (Portfolio.hu)
 
 ## 25-7 (mpox)
+
+- [ABD eyaletinde ilk kez 'maymun çiçeği' türü görüldü](https://anlatilaninotesi.com.tr/20250214/abd-eyaletinde-ilk-kez-maymun-cicegi-turu-goruldu--1093651317.html) (Anlatilaninotesi.com.tr)
+
+- [New mpox strain confirmed in US state for first time](https://www.foxnews.com/health/new-mpox-strain-confirmed-us-state-first-time) (Fox News)
 
 - [La OMS informa de la detección del primer caso del clado Ib de mpox en Emiratos Árabes Unidos](https://www.infosalus.com/salud-investigacion/noticia-oms-informa-deteccion-primer-caso-clado-ib-mpox-emiratos-arabes-unidos-20250213193623.html) (Infosalus.com)
 
@@ -92,6 +104,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-7 (meningitis)
 
+- [A hotel to die for](https://www.metafilter.com/207651/A-hotel-to-die-for) (Metafilter.com)
+
 - [Medics did not give antibiotics swiftly - inquest](https://www.bbc.com/news/articles/c3e1l4yq93yo) (BBC News)
 
 - [Health Minister leads response to meningitis outbreak in Upper West](https://3news.com/health/health-minister-leads-response-to-meningitis-outbreak-in-upper-west/) (3news.com)
@@ -107,6 +121,16 @@ Source: [News API](https://newsapi.org/)
 - [Impact of cerebrospinal fluid leukocyte infiltration and activated neuroimmune mediators on survival with HIV-associated cryptococcal meningitis](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012873) (Plos.org)
 
 ## 25-7 (measles)
+
+- [Jimmy Kimmel Fake-Celebrates RFK Jr’s Confirmation: ‘Bobby Brainworm Is on the Job!’ | Video](https://www.thewrap.com/jimmy-kimmell-rfk-jr-bobby-brainworm-trump-monologue/) (TheWrap)
+
+- [The Bob Cesca Podcast: Dip Tet](https://littlegreenfootballs.com/article/54391_The_Bob_Cesca_Podcast-_Dip_Tet) (Littlegreenfootballs.com)
+
+- [Health workers keeping close eye on West Texas measles outbreak](https://www.nbcdfw.com/news/local/dfw-doctors-measles-outbreak-west-texas/3769823/) (NBC 5 Dallas-Fort Worth)
+
+- [Texas measles outbreak hits at least 22 children, two adults | Honolulu Star-Advertiser](https://www.staradvertiser.com/2025/02/13/breaking-news/texas-measles-outbreak-hits-at-least-22-children-two-adults/) (Honolulu Star-Advertiser)
+
+- [Diseases Eliminated by Science or RFK Jr. or Prayer](https://dianeravitch.net/2025/02/13/diseases-eliminated-by-science-or-rfk-jr-or-prayer/) (Dianeravitch.net)
 
 - [The future Republicans want](https://www.lawyersgunsmoneyblog.com/2025/02/the-future-republicans-want) (Lawyersgunsmoneyblog.com)
 
@@ -190,6 +214,14 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-7 (malaria)
 
+- [Cambodia nears Khmer Rouge survivor's dream of eradicating malaria](https://www.japantimes.co.jp/news/2025/02/14/asia-pacific/science-health/cambodia-khmer-rouge-malaria/) (The Japan Times)
+
+- [Cambodia nears Khmer Rouge survivor’s dream of eradicating malaria](https://www.digitaljournal.com/life/cambodia-nears-khmer-rouge-survivors-dream-of-eradicating-malaria/article) (Digital Journal)
+
+- [Cambodia Nears Khmer Rouge Survivor's Dream Of Eradicating Malaria](https://www.ibtimes.com.au/cambodia-nears-khmer-rouge-survivors-dream-eradicating-malaria-1856165) (Ibtimes.com.au)
+
+- [Cambodia Nears Khmer Rouge Survivor's Dream Of Eradicating Malaria](https://www.ibtimes.com/cambodia-nears-khmer-rouge-survivors-dream-eradicating-malaria-3763695) (International Business Times)
+
 - [Human responses to the DNA prime/chimpanzee adenovirus (ChAd63) boost vaccine identify CSP, AMA1 and TRAP MHC Class I-restricted epitopes](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318098) (Plos.org)
 
 - [To stop preventable deaths, start with the fundamentals](https://www.japantimes.co.jp/commentary/2025/02/13/world/treating-preventable-disease-access/) (The Japan Times)
@@ -214,11 +246,17 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-7 (h5n1)
 
+- [Bird flu infections in dairy cows are more widespread than we thought, according to a new CDC study (Susanne Rust/Los Angeles Times)](https://www.memeorandum.com/250213/p191) (Memeorandum.com)
+
+- [Bird flu infections went undetected in veterinarians, CDC study shows | CNN](https://www.cnn.com/2025/02/13/health/blood-testing-veterinarians-bird-flu/index.html) (CNN)
+
 - [After delay, CDC releases data signaling bird flu spread undetected in cows and people](https://www.npr.org/sections/shots-health-news/2025/02/13/nx-s1-5296672/cdc-bird-flu-study-mmwr-veterinarians) (NPR)
 
 - [What to know about bird flu in 2025, according to a public health expert](https://www.cbsnews.com/news/bird-flu-2025-symptoms-eggs-humans/) (CBS News)
 
 - [Bird Flu Scare: आंध्र प्रदेश में बर्ड फ्लू से दहशत, 5.4 लाख मुर्गियों की मौत, सरकार ने जारी की गाइडलाइंस](https://hindi.moneycontrol.com/news/india/trends/bird-flu-scare-in-andhra-pradesh-nda-govt-issues-alert-amid-chicken-deaths-on-h5n1-in-poultry-sector-telangana-on-high-alert-after-outbreak-avian-influenza-1957243.html) (Moneycontrol)
+
+- [Bùng phát Cúm gia cầm H5N1 độc lực cao ở Trung Quốc, người tố giác cảnh báo](https://www.dkn.tv/the-gioi/bung-phat-cum-gia-cam-h5n1-doc-luc-cao-o-trung-quoc-nguoi-to-giac-canh-bao.html) (Www.dkn.tv)
 
 - [ΗΠΑ: Δεν επικοινωνούν με τον ΠΟΥ για τη γρίπη των πτηνών](https://www.naftemporiki.gr/kosmos/1912211/ipa-den-epikoinonoyn-me-ton-poy-gia-ti-gripi-ton-ptinon/) (Naftemporiki.gr)
 
@@ -301,6 +339,8 @@ Source: [News API](https://newsapi.org/)
 - [Record News lança campanha para mobilizar a população no combate à dengue](https://www.ouniversodatv.com/2025/02/record-news-lanca-campanha-para.html) (Ouniversodatv.com)
 
 - [Dengue: Anvisa atualiza status de pedido para liberar vacina do Butantan](https://veja.abril.com.br/saude/dengue-anvisa-atualiza-status-de-pedido-para-liberar-vacina-do-butantan) (Abril.com.br)
+
+- [Unraveling the complex role of climate in dengue dynamics](https://www.sciencedaily.com/releases/2025/02/250212151147.htm) (Science Daily)
 
 - [Quem pode tomar a vacina contra a dengue? Veja faixa etária](https://www.infomoney.com.br/consumo/quem-pode-tomar-a-vacina-contra-a-dengue-veja-faixa-etaria/) (InfoMoney)
 
@@ -2830,6 +2870,16 @@ Source: [News API](https://newsapi.org/)
 
 - [Pakar Ungkap Potensi Ancaman Kesehatan Utama di 2025, Ada Malaria hingga Masalah Mental](https://www.liputan6.com/health/read/5856603/pakar-ungkap-potensi-ancaman-kesehatan-utama-di-2025-ada-malaria-hingga-masalah-mental) (Liputan6.com)
 
+- [AB-PMJAY has reduced cancer patients' financial burden significantly: Prime Minister Modi](https://economictimes.indiatimes.com/news/india/ab-pmjay-has-reduced-cancer-patients-financial-burden-significantly-prime-minister-modi/articleshow/116773595.cms) (The Times of India)
+
+- [Doch keine mysteriöse «Krankheit X» in Kongo-Kinshasa: Unterernährung macht Malaria und Erkältungen zu Killern](https://www.nzz.ch/wissenschaft/keine-krankheit-x-im-kongo-unterernaehrung-als-wahre-ursache-ld.1864272) (Www.nzz.ch)
+
+- [WHO-Liste des Grauens: Die gefährlichsten Erreger, gegen die es keine Impfung gibt](https://www.n-tv.de/mediathek/bilderserien/wissen/Die-gefaehrlichsten-Erreger-gegen-die-es-keine-Impfung-gibt-article25374966.html) (N-tv.de)
+
+## 24-53 (hpai)
+
+- [Il primo caso di influenza aviaria mostra i segni di una mutazione: c'è da preoccuparsi?](https://tech.everyeye.it/notizie/caso-influenza-aviaria-mostra-segni-mutazione-e-preoccuparsi-767704.html) (Everyeye.it)
+
 ## 24-53 (h5n1)
 
 - [As pace and severity of human H5N1 cases accelerate, NIH leaders call for more action on bird flu | CNN](https://www.cnn.com/2024/12/31/health/human-h5n1-bird-flu-cases/index.html) (CNN)
@@ -2876,6 +2926,16 @@ Source: [News API](https://newsapi.org/)
 
 - [طفرة فريدة من نوعها لفيروس انفلونزا الطيور يكتشفها أطباء في لوس أنجلوس.. بِمَ يُنبئنا ذلك؟](https://arabic.cnn.com/science-and-health/video/2024/12/30/v167548-bird-flu-mutation) (CNN)
 
+- [Американских кошек поразил новый штамм птичьего гриппа](https://naked-science.ru/article/medicine/amerikanskih-koshek-poraz) (Naked-science.ru)
+
+- [Марбург, Коксаки и Аляскапокс: какие вирусы бушевали в 2024](https://vfokuse.mail.ru/article/marburg-koksaki-i-alyaskapoks-kakie-virusy-bushevali-v-2024-64280393/) (Mail.ru)
+
+- [Schwerer Vogelgrippe-Fall beim Menschen: US-Seuchenbehörde findet gefährliche Mutationen](https://www.tagesspiegel.de/wissen/schwerer-vogelgrippe-fall-beim-menschen-us-seuchenbehorde-findet-gefahrliche-mutationen-12938302.html) (Der Tagesspiegel)
+
+- [Health expert warns bird flu may become a pandemic like COVID-19](https://www.revolt.tv/article/former-white-house-health-expert-warns-bird-flu-has-potential-to-become-pandemic) (REVOLT TV)
+
+- [طفرة جديدة تثير القلق.. إنفلونزا الطيور تستهدف خلايا التنفس لدى البشر](https://arabic.cnn.com/science-and-health/video/2024/12/29/v167569-bird-flu-mutates-to-target-human-respiratory-cells) (CNN)
+
 ## 24-53 (dengue)
 
 - [Bangladesh records 575 dengue deaths in 2024](https://www.thestar.com.my/news/world/2025/01/01/bangladesh-records-575-dengue-deaths-in-2024) (The Star Online)
@@ -2885,6 +2945,8 @@ Source: [News API](https://newsapi.org/)
 - [Japanese encephalitis: Summer's first case of mosquito-borne virus detected in Victorian](https://thenightly.com.au/society/health/japanese-encephalitis-summers-first-case-of-mosquito-borne-virus-detected-in-victorian-c-17244120) (Thenightly.com.au)
 
 - [Summer's first case of mosquito-borne Japanese encephalitis detected in Victoria](https://7news.com.au/news/summers-first-case-of-mosquito-borne-japanese-encephalitis-detected-in-victoria-c-17244123) (7NEWS.com.au)
+
+- [Os recordes negativos do governo Lula em 2024](https://veja.abril.com.br/brasil/os-recordes-negativos-do-governo-lula-em-2024) (Abril.com.br)
 
 ## 24-53 (chikungunya)
 
