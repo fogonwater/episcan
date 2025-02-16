@@ -1,8 +1,134 @@
 {
-  "last_updated": "2025-02-16 07:05",
-  "count_articles_total": 1241,
-  "count_articles_new": 25,
+  "last_updated": "2025-02-16 19:05",
+  "count_articles_total": 1242,
+  "count_articles_new": 7,
   "articles": [
+    {
+      "id": 18289,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "The Associated Press",
+      "title": "Bird flu confirmed in older Wyoming woman who likely had contact with infected flock at her home",
+      "description": "Wyoming health department officials say an older woman is hospitalized with bird flu",
+      "url": "https://abcnews.go.com/Health/wireStory/bird-flu-confirmed-older-wyoming-woman-contact-infected-118856788",
+      "urlToImage": "https://i.abcnewsfe.com/a/52f0319c-d664-4820-8c14-556ed260bb56/wirestory_a29c0879ccf3be2e70d93ac85a2be0c4_16x9.jpg?w=1600",
+      "publishedAt": "2025-02-15 15:26:15",
+      "content": "An older woman in southeast Wyoming is hospitalized with bird flu, state health department officials said Friday. It's the state's first human case of Type A H5N1 influenza, which is spreading thro\u2026 [+1463 chars]",
+      "retrievedAt": "2025-02-16 19:05:56.208615",
+      "internal_id": "cf23a4a6cdb4f8c1985cc2d6641334ce794153bada3a49b47dba3e2aafbd33b3",
+      "publishedAtLabel": "Feb 15"
+    },
+    {
+      "id": 18292,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "info-money",
+      "source_name": "InfoMoney",
+      "author": "murilomelo",
+      "title": "Minist\u00e9rio da Sa\u00fade recomenda ampliar p\u00fablico-alvo da vacina\u00e7\u00e3o contra dengue",
+      "description": "Minist\u00e9rio quer garantir que todos os imunizantes adquiridos sejam usados, ampliando a prote\u00e7\u00e3o contra a doen\u00e7a The post Minist\u00e9rio da Sa\u00fade recomenda ampliar p\u00fablico-alvo da vacina\u00e7\u00e3o contra dengue appeared first on InfoMoney.",
+      "url": "https://www.infomoney.com.br/brasil/ministerio-da-saude-recomenda-ampliar-publico-alvo-da-vacinacao-contra-dengue/",
+      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2024/11/vacina.jpg?fit=888%2C508&quality=70&strip=all",
+      "publishedAt": "2025-02-15 15:25:00",
+      "content": "O Minist\u00e9rio da Sa\u00fade emitiu nesta sexta-feira, 14, uma nota t\u00e9cnica para todos os Estados e o Distrito Federal para atualizar a recomenda\u00e7\u00e3o de uso da vacina da dengue e permitir a amplia\u00e7\u00e3o do p\u00fabl\u2026 [+2246 chars]",
+      "retrievedAt": "2025-02-16 19:05:56.754561",
+      "internal_id": "562aad40be0200fb296ffd5a6f0a858422441b16c23d73be342337a8eefd3559",
+      "publishedAtLabel": "Feb 15"
+    },
+    {
+      "id": 18291,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "seattlepi.com",
+      "author": "The Associated Press",
+      "title": "Bird flu confirmed in older Wyoming woman who likely had contact with infected flock at her home",
+      "description": "Wyoming health department officials say an older woman is hospitalized with bird flu. It\u2019s the state\u2019s first human case of Type A H5N1 influenza, which is spreading through animals and some people. The U.S. Centers for Disease Control and Prevention data show\u2026",
+      "url": "https://www.seattlepi.com/news/article/bird-flu-confirmed-in-older-wyoming-woman-who-20169167.php",
+      "urlToImage": "https://s.hdnux.com/photos/01/46/62/73/26947281/6/rawImage.jpg",
+      "publishedAt": "2025-02-15 15:04:24",
+      "content": "FILE - Day-old duck hatchlings crawl around inside an incubator at Crescent Duck Farm, in Aquebogue, N.Y., Oct. 29, 2014.Julie Jacobson/AP An older woman in southeast Wyoming is hospitalized with bi\u2026 [+1741 chars]",
+      "retrievedAt": "2025-02-16 19:05:56.262591",
+      "internal_id": "9d3ef391cbb675a27b5fad7f1bc16d3d691abf3d9775802ab7e4ab3be9e4bf23",
+      "publishedAtLabel": "Feb 15"
+    },
+    {
+      "id": 18293,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Maria Eduarda Portela",
+      "title": "Minist\u00e9rio da Sa\u00fade amplia p\u00fablico-alvo para vacina\u00e7\u00e3o contra dengue",
+      "description": "Amplia\u00e7\u00e3o visa o uso de vacinas com data pr\u00f3xima vencimento. As doses prestes a vencer tamb\u00e9m poder\u00e3o ser remanejadas a outros munic\u00edpios",
+      "url": "https://www.metropoles.com/brasil/ministerio-da-saude-amplia-publico-alvo-vacinacao-dengue",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2025/01/07141257/somente-um-dez-criancas-completaram-vacinacao-dengue-DF.jpg",
+      "publishedAt": "2025-02-15 14:23:53",
+      "content": "O Minist\u00e9rio da Sa\u00fade publicou, na sexta-feira (14/2), uma nota t\u00e9cnica em que autoriza a amplia\u00e7\u00e3o do p\u00fablico-alvo para vacina\u00e7\u00e3o contra a dengue. A medida visa utilizar todas as doses que est\u00e3o pr\u00f3\u2026 [+5105 chars]",
+      "retrievedAt": "2025-02-16 19:05:56.780608",
+      "internal_id": "3167e3909f7ea878d180d5cf70b28e728c33fce654f10885fd90c6ea3ab204bb",
+      "publishedAtLabel": "Feb 15"
+    },
+    {
+      "id": 18294,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Antaranews.com",
+      "author": "Adimas P, Kenzu",
+      "title": "Health Ministry calls for dengue vigilance during rainy season",
+      "description": "Indonesia&#39;s Ministry of Health has urged the public to remain alert against dengue hemorrhagic fever during the rainy season by taking preventive ...",
+      "url": "https://en.antaranews.com/news/345045/health-ministry-calls-for-dengue-vigilance-during-rainy-season",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2025/02/15/20250215_144221.jpg",
+      "publishedAt": "2025-02-15 11:55:45",
+      "content": "Jakarta (ANTARA) - Indonesia's Ministry of Health has urged the public to remain alert against dengue hemorrhagic fever during the rainy season by taking preventive measures.\"Dengue remains a real he\u2026 [+1942 chars]",
+      "retrievedAt": "2025-02-16 19:05:56.855751",
+      "internal_id": "3db8c423a05b40ae5415f7cce32415cb7e48ecf74fa86a4cf8cda9466f138428",
+      "publishedAtLabel": "Feb 15"
+    },
+    {
+      "id": 18290,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Lalibre.be",
+      "author": "Belga Belga",
+      "title": "\"Un impact direct sur la s\u00e9curit\u00e9 nationale et sanitaire des \u00c9tats-Unis\": Trump fait le vide au sein d'un programme de surveillance \u00e9pid\u00e9miologique",
+      "description": "Pr\u00e8s de la moiti\u00e9 des chercheurs d'un programme gouvernemental de surveillance \u00e9pid\u00e9miologique ont \u00e9t\u00e9 limog\u00e9s vendredi, a appris l'AFP aupr\u00e8s d'un responsable f\u00e9d\u00e9ral, au moment o\u00f9 l'administration Trump proc\u00e8de \u00e0 une large refonte des minist\u00e8res. ...",
+      "url": "https://www.lalibre.be/international/amerique/2025/02/15/un-impact-direct-sur-la-securite-nationale-et-sanitaire-des-etats-unis-trump-fait-le-vide-au-sein-dun-programme-de-surveillance-epidemiologique-BJCNSXPSFNBYVHZGIT3PMI2RKQ/",
+      "urlToImage": "https://www.lalibre.be/resizer/v2/6LNCTVGX5JGDPIUVTD5CV5T22A.jpg?auth=db9b965bf8a0bfdd33d60f98708faf3a7bd216faad80535e91fccb5915331d2c&width=1200&height=630&quality=85&focal=1920%2C1280&watermark=https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Fipmgroup%2F3R4IDPARFVEO3L2LC5OCCXQ5RM.png%3A100%3A0%2C557",
+      "publishedAt": "2025-02-15 07:39:36",
+      "content": "Le virus H5N1 circule fortement aux Etats-Unis dans les \u00e9levages de volailles et de bovins et a contamin\u00e9 pr\u00e8s de 70 personnes depuis d\u00e9but 2024 et fait un mort, faisant craindre aux experts une pote\u2026 [+1498 chars]",
+      "retrievedAt": "2025-02-16 19:05:56.229678",
+      "internal_id": "d3415495bbe296459ebb7e7794f54c61180a44bd29e7b82a4a6f39946d0e270e",
+      "publishedAtLabel": "Feb 15"
+    },
+    {
+      "id": 18288,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "dh.be",
+      "author": "Belga Belga",
+      "title": "Les licenciements massifs continuent aux \u00c9tats-Unis: l'administration Trump vire la moiti\u00e9 d'une \u00e9quipe de \"d\u00e9tectives des maladies\"",
+      "description": "Elon Musk m\u00e8ne avec la b\u00e9n\u00e9diction de Donald Trump une vaste offensive pour r\u00e9duire les d\u00e9penses publiques. Cons\u00e9quence: des dizaines d'employ\u00e9s, notamment dans le secteur de la sant\u00e9, sont licenci\u00e9s. ...",
+      "url": "https://www.dhnet.be/actu/monde/2025/02/15/les-licenciements-massifs-continuent-aux-etats-unis-ladministration-trump-vire-la-moitie-dune-equipe-de-detectives-des-maladies-U2WVG2JYZFFH7GDOBYQURQUWUQ/",
+      "urlToImage": "https://www.dhnet.be/resizer/v2/AX5GAHGFERESLKWASTFE62XU34.jpg?auth=67dcbfbd1d360e12ebc685d7427880ca74bcdc74ee068a38b6654a0b596bab0f&width=1200&height=630&quality=85&focal=3840%2C2560&watermark=https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Fipmgroup%2FDZNGDE46VVGXRGHD3TEI5RB3GM.png%3A100%3A0%2C559",
+      "publishedAt": "2025-02-15 07:25:52",
+      "content": "Le virus H5N1 circule fortement aux Etats-Unis dans les \u00e9levages de volailles et de bovins et a contamin\u00e9 pr\u00e8s de 70 personnes depuis d\u00e9but 2024 et fait un mort, faisant craindre aux experts une pote\u2026 [+1446 chars]",
+      "retrievedAt": "2025-02-16 19:05:56.181895",
+      "internal_id": "8b320769d30eb4347064bdd9cfc8bced2fa9240c6111853b34987eb719c7c7f8",
+      "publishedAtLabel": "Feb 15"
+    },
     {
       "id": 18276,
       "query": [
@@ -22288,114 +22414,6 @@
       "content": "A colorized transmission electron micrograph of avian influenza A H5N1 virus particles (blue), grown in Madin-Darby Canine Kidney (MDCK) epithelial cells - Copyright National Institute of Allergy and\u2026 [+2429 chars]",
       "retrievedAt": "2025-01-07 07:06:27.473171",
       "internal_id": "c70be9cec5809b4f8f89532947c360ec0a5d03c80f8e18b3e74013a276bcea4f",
-      "publishedAtLabel": "Jan 5"
-    },
-    {
-      "id": 17051,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Faz.net",
-      "author": "Andreas Eckert",
-      "title": "\u00dcber die Umweltgeschichte Afrikas",
-      "description": "Viehzucht, Malaria und die Wei\u00dfen: Will man die Umweltgeschichte Afrikas erz\u00e4hlen, muss man neben der Natur und Krankheiten auch Machtfragen und den Imperialismus in den Blick nehmen.",
-      "url": "https://www.faz.net/aktuell/feuilleton/bilder-und-zeiten/krankheiten-und-der-kolonialismus-ueber-die-umweltgeschichte-afrikas-110208640.html",
-      "urlToImage": "https://media0.faz.net/ppmedia/aktuell/909935446/1.10209298/facebook_teaser_fplus/ein-tuareg-impft-kinder-in.jpg",
-      "publishedAt": "2025-01-05 18:56:04",
-      "content": "Die Klimanachrichten aus Afrika sind d\u00fcster. W\u00e4hrend Teile des Kontinents von \u00dcberschwemmungen heimgesucht werden, leiden andere Regionen unter langen D\u00fcrreperioden. Diese Katastrophen treffen zumeis\u2026 [+711 chars]",
-      "retrievedAt": "2025-01-06 19:05:36.440882",
-      "internal_id": "bb517e2215e4968a9c4f036e58c2140369b52fc1afcd41c168942ba8f1ad4c34",
-      "publishedAtLabel": "Jan 5"
-    },
-    {
-      "id": 17050,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Catracalivre.com.br",
-      "author": "Andr\u00e9 Nicolau",
-      "title": "4 fatos indispens\u00e1veis sobre a dengue que voc\u00ea precisa conhecer",
-      "description": "O aumento das chuvas e das temperaturas elevadas reservam condi\u00e7\u00f5es ideais para a reprodu\u00e7\u00e3o do mosquito da dengue. Confira outros fatos.",
-      "url": "https://catracalivre.com.br/saude-bem-estar/fatos-dengue-precisa-saber/",
-      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1280,h=680,fit=cover,format=jpeg/wp-content/uploads/2024/02/dengue.jpg",
-      "publishedAt": "2025-01-05 17:00:18",
-      "content": "A dengue \u00e9 uma doen\u00e7a viral passada pelo mosquito Aedes Aegypti Soumyabrata Roy/istock - Soumyabrata Roy/istock O aumento das chuvas e das temperaturas elevadas, t\u00edpicas do ver\u00e3o, reservam condi\u00e7\u00f5es\u2026 [+2913 chars]",
-      "retrievedAt": "2025-01-06 19:05:35.874249",
-      "internal_id": "6ecb502a9076a0366e11d6a18a8f8509f248784d13153fb6c1f0f9f07cfa23e3",
-      "publishedAtLabel": "Jan 5"
-    },
-    {
-      "id": 17049,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "la-nacion",
-      "source_name": "La Nacion",
-      "author": "Alejandro Horvat",
-      "title": "En plena temporada: qu\u00e9 medidas preventivas hay en la costa para evitar aumentos de casos de dengue",
-      "description": "Si bien los especialistas advierten que no es una zona end\u00e9mica, el alto movimiento tur\u00edstico puede llegar a ser un agravante",
-      "url": "https://www.lanacion.com.ar/sociedad/en-plena-temporada-que-medidas-preventivas-hay-en-la-costa-para-evitar-aumentos-de-casos-de-dengue-nid05012025/",
-      "urlToImage": "https://resizer.glanacion.com/resizer/v2/los-casos-de-dengue-a-nivel-nacional-muestran-un-H26K6NEWUBB3JP5D3RNPUAEQS4.jpg?auth=f16d6224ca93e3f623fdb9c5614b43b9913314d40fbd519eee619de366b52ea5&width=1200&quality=70&smart=false&height=800",
-      "publishedAt": "2025-01-05 10:37:15",
-      "content": "El verano no solo trae consigo altas temperaturas y playas llenas de turistas, sino tambi\u00e9n un desaf\u00edo sanitario que pone en alerta a todo el pa\u00eds: el dengue. Esta enfermedad, transmitida por el mosq\u2026 [+5853 chars]",
-      "retrievedAt": "2025-01-06 19:05:35.867226",
-      "internal_id": "2182e8f604e1bfaf08eef8b9d2796fa1ffccd8be529a354e5d5cb6bafdcfafbf",
-      "publishedAtLabel": "Jan 5"
-    },
-    {
-      "id": 17048,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Aajtak.in",
-      "author": "aajtak.in",
-      "title": "\u0928\u093e\u0917\u092a\u0941\u0930 \u092e\u0947\u0902 \u092c\u0930\u094d\u0921 \u092b\u094d\u0932\u0942 \u0938\u0947 3 \u092c\u093e\u0918 \u0914\u0930 \u090f\u0915 \u0924\u0947\u0902\u0926\u0941\u090f \u0915\u0940 \u092e\u094c\u0924, \u091f\u093e\u0907\u0917\u0930 \u0930\u093f\u091c\u0930\u094d\u0935 \u0914\u0930 \u0930\u0947\u0938\u094d\u0915\u094d\u092f\u0942 \u0938\u0947\u0902\u091f\u0930\u094d\u0938 \u0915\u0947 \u0932\u093f\u090f \u0905\u0932\u0930\u094d\u091f \u091c\u093e\u0930\u0940",
-      "description": "\u092e\u0939\u093e\u0930\u093e\u0937\u094d\u091f\u094d\u0930 \u0915\u0947 \u0928\u093e\u0917\u092a\u0941\u0930 \u092e\u0947\u0902 \u0917\u094b\u0930\u0947\u0935\u093e\u0921\u093c\u093e \u0930\u0947\u0938\u094d\u0915\u094d\u092f\u0942 \u0938\u0947\u0902\u091f\u0930 \u092e\u0947\u0902 \u0926\u093f\u0938\u0902\u092c\u0930 \u092e\u0947\u0902 \u0924\u0940\u0928 \u092c\u093e\u0918 \u0914\u0930 \u090f\u0915 \u0924\u0947\u0902\u0926\u0941\u0906 H5N1 \u0935\u093e\u092f\u0930\u0938 \u0938\u0947 \u0938\u0902\u0915\u094d\u0930\u092e\u093f\u0924 \u0939\u094b\u0915\u0930 \u092e\u093e\u0930\u0947 \u0917\u090f. \u0907\u0938 \u0918\u091f\u0928\u093e \u0915\u0947 \u092c\u093e\u0926 \u0930\u093e\u091c\u094d\u092f \u0915\u0947 \u091f\u093e\u0907\u0917\u0930 \u0930\u093f\u091c\u0930\u094d\u0935 \u0914\u0930 \u0930\u0947\u0938\u094d\u0915\u094d\u092f\u0942 \u0938\u0947\u0902\u091f\u0930\u094d\u0938 \u0915\u094b \u0905\u0932\u0930\u094d\u091f \u092a\u0930 \u0930\u0916\u093e \u0917\u092f\u093e \u0939\u0948. \u091c\u093e\u0902\u091a \u092e\u0947\u0902 \u0905\u0928\u094d\u092f 26 \u0924\u0947\u0902\u0926\u0941\u090f \u0914\u0930 12 \u092c\u093e\u0918 \u0938\u094d\u0935\u0938\u094d\u0925 \u092a\u093e\u090f \u0917\u090f. \u0905\u0927\u093f\u0915\u093e\u0930\u2026",
-      "url": "https://www.aajtak.in/india/maharashtra/story/tiger-and-leopard-died-of-bird-flu-h5n1-virus-in-nagpur-rescue-centre-alert-issued-ntc-dskc-2136699-2025-01-05",
-      "urlToImage": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202501/677a5e7159d1b-tiger-and-leopard-052651552-16x9.jpg",
-      "publishedAt": "2025-01-05 10:29:37",
-      "content": "Copyright \u00a9 2025 Living Media India Limited. For reprint rights: Syndications Today",
-      "retrievedAt": "2025-01-06 19:05:35.396893",
-      "internal_id": "895fd40da7e5878970f986f3d0e94cfdacdf9a1b17b1b11a728150ebb9cf5d5f",
-      "publishedAtLabel": "Jan 5"
-    },
-    {
-      "id": 17047,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "ET Online",
-      "title": "Amid HMPV virus outbreak in China, three tigers and a leopard die of highly infectious avian flu H5N1 virus in Nagpur",
-      "description": "Three tigers and a sub-adult leopard at Gorewada Rescue Centre in Nagpur died from avian flu H5N1. This is the first time the virus caused significant wildlife deaths in captivity in India. Health measures were taken, and other big cats were examined and foun\u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/amid-hmpv-virus-outbreak-in-china-three-tigers-and-a-leopard-die-of-highly-pathogenic-avian-flu-h5n1-virus/articleshow/116963521.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-116963972,width-1200,height-630,imgsize-2683349,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2025-01-05 10:00:31",
-      "content": "Artificial Intelligence(AI) AI and Analytics based Business Strategy By - Tanusree De, Managing Director- Accenture Technology Lead, Trustworthy AI Center of Excellence: ATCI View Program",
-      "retrievedAt": "2025-01-06 19:05:35.389872",
-      "internal_id": "9a8435ec806824779d4f6f3f6b1e195d161d13980117dc60019978fad90f1c29",
-      "publishedAtLabel": "Jan 5"
-    },
-    {
-      "id": 17046,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "ZyCrypto",
-      "author": "Guest Author",
-      "title": "Solana\u2019s PNUT Prodigy Picks DLUME as 2025\u2019s Next Big Thing \u2013 Could You Be Next?",
-      "description": "Particularly during a viral rabies crisis in New York in October 2023, Peanut the Squirrel\u2019s (PNUT) ascent as a Solana-based memecoin has garnered a lot of focus. When Coinbase revealed that PNUT would be included in its listing roadmap on December 11, the me\u2026",
-      "url": "https://zycrypto.com/solanas-pnut-prodigy-picks-dlume-as-2025s-next-big-thing-could-you-be-next/",
-      "urlToImage": "https://zycrypto.com/wp-content/uploads/2024/12/Next-Crypto-to-Explode-Aurealone-Leads-Best-Coins-for-Potential-600x-Portfolio-Gains.jpg",
-      "publishedAt": "2025-01-05 09:24:56",
-      "content": "Particularly during a viral rabies crisis in New York in October 2023, Peanut the Squirrel\u2019s (PNUT) ascent as a Solana-based memecoin has garnered a lot of focus. When Coinbase revealed that PNUT wou\u2026 [+5309 chars]",
-      "retrievedAt": "2025-01-06 19:05:34.431523",
-      "internal_id": "f2d59d393705c83bbe72e8188b5f7b2b888747d87217f20b6d7b7fa89d96f24e",
       "publishedAtLabel": "Jan 5"
     }
   ]

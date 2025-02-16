@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 25
-- **Last harvest:** 2025-02-16 07:05
-- **Most recent article:** 2025-02-15 06:03:00
+- **New articles in last harvest:** 7
+- **Last harvest:** 2025-02-16 19:05
+- **Most recent article:** 2025-02-15 15:26:15
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-2 | 25-3 | 25-4 | 25-5 | 25-6 | 25-7 | Total |
 |--|-|-|-|-|-|-|-|
-| h5n1 | 129 | 65 | 31 | 51 | 72 | 47 | 395 |
+| h5n1 | 127 | 65 | 31 | 51 | 72 | 51 | 397 |
 | mpox | 91 | 34 | 23 | 22 | 28 | 18 | 216 |
-| dengue | 41 | 29 | 37 | 24 | 34 | 32 | 197 |
-| malaria | 29 | 18 | 19 | 30 | 25 | 12 | 133 |
+| dengue | 39 | 29 | 37 | 24 | 34 | 35 | 198 |
+| malaria | 28 | 18 | 19 | 30 | 25 | 12 | 132 |
 | measles | 6 | 9 | 10 | 13 | 24 | 63 | 125 |
 | hpai | 18 | 12 | 11 | 6 | 3 | 9 | 59 |
 | chikungunya | 7 | 7 | 10 | 9 | 8 | 5 | 46 |
 | zika | 15 | 5 | 2 | 8 | 6 | 2 | 38 |
-| rabies | 2 | 6 | 7 | 6 | 4 | 5 | 30 |
+| rabies | 1 | 6 | 7 | 6 | 4 | 5 | 29 |
 | meningitis | 0 | 2 | 3 | 8 | 2 | 12 | 27 |
 | yersinia | 3 | 2 | 0 | 0 | 0 | 5 | 10 |
 | typhoid | 0 | 4 | 0 | 0 | 2 | 3 | 9 |
@@ -318,6 +318,14 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-7 (h5n1)
 
+- [Bird flu confirmed in older Wyoming woman who likely had contact with infected flock at her home](https://abcnews.go.com/Health/wireStory/bird-flu-confirmed-older-wyoming-woman-contact-infected-118856788) (ABC News)
+
+- [Bird flu confirmed in older Wyoming woman who likely had contact with infected flock at her home](https://www.seattlepi.com/news/article/bird-flu-confirmed-in-older-wyoming-woman-who-20169167.php) (seattlepi.com)
+
+- ["Un impact direct sur la sécurité nationale et sanitaire des États-Unis": Trump fait le vide au sein d'un programme de surveillance épidémiologique](https://www.lalibre.be/international/amerique/2025/02/15/un-impact-direct-sur-la-securite-nationale-et-sanitaire-des-etats-unis-trump-fait-le-vide-au-sein-dun-programme-de-surveillance-epidemiologique-BJCNSXPSFNBYVHZGIT3PMI2RKQ/) (Lalibre.be)
+
+- [Les licenciements massifs continuent aux États-Unis: l'administration Trump vire la moitié d'une équipe de "détectives des maladies"](https://www.dhnet.be/actu/monde/2025/02/15/les-licenciements-massifs-continuent-aux-etats-unis-ladministration-trump-vire-la-moitie-dune-equipe-de-detectives-des-maladies-U2WVG2JYZFFH7GDOBYQURQUWUQ/) (dh.be)
+
 - [Újabb amerikai államban bukkant fel a halálos vírus](https://www.portfolio.hu/uzlet/20250215/ujabb-amerikai-allamban-bukkant-fel-a-halalos-virus-741591) (Portfolio.hu)
 
 - [Bird flu found in Arizona milk, indicating another spillover to cows](https://www.statnews.com/2025/02/14/arizona-bird-flu-h5n1-dairy-cows-spillover/) (STAT)
@@ -413,6 +421,12 @@ Source: [News API](https://newsapi.org/)
 - [Zamykają targi, wybijają zakażone zwierzęta. Ptasia grypa rozprzestrzenia się w Nowym Jorku](https://tvn24.pl/tvnmeteo/swiat/zamykaja-targi-wybijaja-zakazone-zwierzeta-ptasia-grypa-rozprzestrzenia-sie-w-nowym-jorku-st8298168) (Tvn24.pl)
 
 ## 25-7 (dengue)
+
+- [Ministério da Saúde recomenda ampliar público-alvo da vacinação contra dengue](https://www.infomoney.com.br/brasil/ministerio-da-saude-recomenda-ampliar-publico-alvo-da-vacinacao-contra-dengue/) (InfoMoney)
+
+- [Ministério da Saúde amplia público-alvo para vacinação contra dengue](https://www.metropoles.com/brasil/ministerio-da-saude-amplia-publico-alvo-vacinacao-dengue) (Metropoles.com)
+
+- [Health Ministry calls for dengue vigilance during rainy season](https://en.antaranews.com/news/345045/health-ministry-calls-for-dengue-vigilance-during-rainy-season) (Antaranews.com)
 
 - [Dengue: Ministério da Saúde amplia público de vacinação após morte de criança](https://www.terra.com.br/noticias/dengue-ministerio-da-saude-amplia-publico-de-vacinacao-apos-morte-de-crianca,2d977e128cb8fa550d9004fff4d223cffq2pw98q.html) (Terra.com.br)
 
@@ -2108,8 +2122,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Young man dies of rabies at Seti provincial hospital](https://dineshkhabar.com/article/117684) (Dineshkhabar.com)
 
-- [Solana’s PNUT Prodigy Picks DLUME as 2025’s Next Big Thing – Could You Be Next?](https://zycrypto.com/solanas-pnut-prodigy-picks-dlume-as-2025s-next-big-thing-could-you-be-next/) (ZyCrypto)
-
 ## 25-2 (pertussis)
 
 - [Tos ferina: qué sabemos sobre el incremento de casos ocasionados por la bacteria Bordetella pertussis](https://www.milenio.com/ciencia-y-salud/aumentan-casos-bordetella-pertussi-tos-ferina) (Milenio)
@@ -2371,8 +2383,6 @@ Source: [News API](https://newsapi.org/)
 - [Cell wall components of gut commensal bacteria stimulate peritrophic matrix formation in malaria vector mosquitoes through activation of the IMD pathway](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002967) (Plos.org)
 
 - [Text (actual latters) change when saving to PDF from Word. WTF?](https://ask.metafilter.com/383833/Text-actual-latters-change-when-saving-to-PDF-from-Word-WTF) (Metafilter.com)
-
-- [Über die Umweltgeschichte Afrikas](https://www.faz.net/aktuell/feuilleton/bilder-und-zeiten/krankheiten-und-der-kolonialismus-ueber-die-umweltgeschichte-afrikas-110208640.html) (Faz.net)
 
 ## 25-2 (hpai)
 
@@ -2668,10 +2678,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Op-Ed: Collapsing health systems vs major flu outbreaks in US, UK and Europe](https://www.digitaljournal.com/world/op-ed-collapsing-health-systems-vs-major-flu-outbreaks-in-us-uk-and-europe/article) (Digital Journal)
 
-- [नागपुर में बर्ड फ्लू से 3 बाघ और एक तेंदुए की मौत, टाइगर रिजर्व और रेस्क्यू सेंटर्स के लिए अलर्ट जारी](https://www.aajtak.in/india/maharashtra/story/tiger-and-leopard-died-of-bird-flu-h5n1-virus-in-nagpur-rescue-centre-alert-issued-ntc-dskc-2136699-2025-01-05) (Aajtak.in)
-
-- [Amid HMPV virus outbreak in China, three tigers and a leopard die of highly infectious avian flu H5N1 virus in Nagpur](https://economictimes.indiatimes.com/news/india/amid-hmpv-virus-outbreak-in-china-three-tigers-and-a-leopard-die-of-highly-pathogenic-avian-flu-h5n1-virus/articleshow/116963521.cms) (The Times of India)
-
 ## 25-2 (dengue)
 
 - [Marketing faz bem, mas não resolve inflação, dengue, falta de gestão nem Congresso guloso](https://www.estadao.com.br/politica/eliane-cantanhede/marketing-faz-bem-mas-nao-resolve-inflacao-dengue-falta-de-gestao-nem-congresso-guloso/) (Estadao.com.br)
@@ -2751,10 +2757,6 @@ Source: [News API](https://newsapi.org/)
 - [Migrantes que cruzan el Darién, con salud comprometida: OPS](https://www.jornada.com.mx/2025/01/06/politica/006n2pol) (Jornada.com.mx)
 
 - [Guerrero cierra el 2024 con casi siete mil casos de dengue y 61 muertes](https://www.excelsior.com.mx/nacional/dengue-guerrero-cierra-el-2024-con-casi-siete-mil-casos-y-61-muertes/1692712) (Excelsior.com.mx)
-
-- [4 fatos indispensáveis sobre a dengue que você precisa conhecer](https://catracalivre.com.br/saude-bem-estar/fatos-dengue-precisa-saber/) (Catracalivre.com.br)
-
-- [En plena temporada: qué medidas preventivas hay en la costa para evitar aumentos de casos de dengue](https://www.lanacion.com.ar/sociedad/en-plena-temporada-que-medidas-preventivas-hay-en-la-costa-para-evitar-aumentos-de-casos-de-dengue-nid05012025/) (La Nacion)
 
 ## 25-2 (chikungunya)
 
