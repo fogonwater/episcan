@@ -1,8 +1,260 @@
 {
-  "last_updated": "2025-02-16 19:05",
-  "count_articles_total": 1242,
-  "count_articles_new": 7,
+  "last_updated": "2025-02-17 07:07",
+  "count_articles_total": 1266,
+  "count_articles_new": 18,
   "articles": [
+    {
+      "id": 18312,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Protothema.gr",
+      "author": "admin",
+      "title": "Alarm in Pyrgos after the death of a 54 year old woman \u2013 Serious indications of a meningitis case",
+      "description": "Sample tested by the microbiology laboratory showed a meningococcal strain - The results of the sample culture are awaited in order for doctors to have a clear picture The post Alarm in Pyrgos after the death of a 54 year old woman \u2013 Serious indications of a \u2026",
+      "url": "https://en.protothema.gr/2025/02/16/alarm-in-pyrgos-after-the-death-of-a-54-year-old-woman-serious-indications-of-a-meningitis-case/",
+      "urlToImage": "https://en.protothema.gr/wp-content/uploads/2025/02/nosokomeio-arthrou-2.jpg-2.jpg",
+      "publishedAt": "2025-02-16 05:44:24",
+      "content": "A 54-year-old woman died in the intensive care unit of the Pyrgos Hospital early Saturday morning, with alarming symptoms suggestive of meningitis. The woman by Friday afternoon showed the first sym\u2026 [+2005 chars]",
+      "retrievedAt": "2025-02-17 07:07:11.081548",
+      "internal_id": "16d5a489de35d6b5da4bf689af084733c9002b2e774da693605b91b396d5c779",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
+      "id": 18311,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Marina Ferreira",
+      "title": "Farmac\u00eautico ensina receita de repelente natural com ervas medicinais",
+      "description": "Doutor em qu\u00edmica biol\u00f3gica, o farmac\u00eautico Lucas Cintra mostra o passo a passo da receita e cita os benef\u00edcios de aplicar a f\u00f3rmula",
+      "url": "https://www.metropoles.com/colunas/claudia-meireles/farmaceutico-ensina-receita-de-repelente-natural-com-ervas-medicinais",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2025/02/14153814/Repelente-natural_1.jpg",
+      "publishedAt": "2025-02-16 05:00:27",
+      "content": "O Minist\u00e9rio da Sa\u00fade compartilhou uma boa not\u00edcia nessa quinta-feira (13/2): o Brasil registrou redu\u00e7\u00e3o de aproximadamente 60% nos casos de dengue em compara\u00e7\u00e3o com as seis primeiras semanas do ano \u2026 [+3927 chars]",
+      "retrievedAt": "2025-02-17 07:07:10.831973",
+      "internal_id": "f2556b85c158f98b300c27a909f6a93af23cce7ab1f42ee8dcc76b469dd3e1ac",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
+      "id": 18305,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Lavozdegalicia.es",
+      "author": "Somos Agro",
+      "title": "\u00abLa gripe aviar en vacas est\u00e1 solo en EE.UU, pero hay que estar preparados\u00bb",
+      "description": "Prevenir la lengua azul o la EHE, patolog\u00edas para las que hay vacuna, es una prioridad en comunidades ganaderas como la gallega",
+      "url": "https://www.lavozdegalicia.es/noticia/somosagro/ganaderia/2025/02/14/gripe-aviar-vacas-solo-eeuu-estar-preparados/00031739555093223537895.htm",
+      "urlToImage": "https://img.lavdg.com/sc/J-t9FuYkVVpmn1j6YUCqoQKOQbA=/1280x/2025/02/14/00121739557081373796892/Foto/i_20250207_113840001.jpg",
+      "publishedAt": "2025-02-16 04:00:00",
+      "content": "Las aves salvajes son las principales transmisoras del virus de la gripe A. Y de esa forma fue como el genotipo B3.13 del virus H5N1 que ha dado el salto por primera vez a las vacas en Estados Unidos\u2026 [+5258 chars]",
+      "retrievedAt": "2025-02-17 07:07:10.049163",
+      "internal_id": "1b791aae596fe1eca5fa1f13e0260b19b1e173499d600f72d3348f3ff486d64d",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
+      "id": 18297,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "B.C. health authorities confirm new measles case in the Lower Mainland",
+      "description": "A Fraser Health resident contracted measles abroad and health officials say the exposure risk is linked to Air Canada Flight 66 and YVR's international arrivals area.",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/health-b-c-measles-1.7460615",
+      "urlToImage": "https://i.cbc.ca/1.7460616.1739670868!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/measles-bc-20250215.jpg?im=Resize%3D620",
+      "publishedAt": "2025-02-16 02:49:54",
+      "content": "Health authorities in British Columbia say a new case of the measles has been confirmed in the Lower Mainland, in a resident who travelled to Southeast Asia. A joint statement from Fraser Health and\u2026 [+1613 chars]",
+      "retrievedAt": "2025-02-17 07:07:08.868555",
+      "internal_id": "e52a9d7d56b07bcb76be7fabfba1c16437bb51c5031fe6ee3cb840444db58332",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
+      "id": 18296,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "VOA News",
+      "author": "webdesk@voanews.com (Moki Edwin Kindzeka)",
+      "title": "Chad officials seal schools as measles epidemic hits poor district",
+      "description": "YAOUNDE, CAMEROON \u2014 Chad health officials have sealed several dozen schools, sent thousands of children and their teachers home, and restricted movements to and from the Bologo district \u2014 400 kilometers south of the capital, N'djamena \u2014 to contain a measles e\u2026",
+      "url": "https://www.voanews.com/a/chad-officials-seal-schools-as-measles-epidemic-hits-poor-district/7976693.html",
+      "urlToImage": "https://gdb.voanews.com/F48E3F1F-1D81-40E2-ABF7-539E4A697B45.jpg",
+      "publishedAt": "2025-02-16 01:45:11",
+      "content": "YAOUNDE, CAMEROON Chad health officials have sealed several dozen schools, sent thousands of children and their teachers home, and restricted movements to and from the Bologo district 400 kilometers\u2026 [+3265 chars]",
+      "retrievedAt": "2025-02-17 07:07:08.848509",
+      "internal_id": "dbc8a17fb278e437624a5c721a33f315545c2d85999a31f76bb3ae1da89bb624",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
+      "id": 18306,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Oil City News",
+      "author": "Wyofile",
+      "title": "Wyoming\u2019s first human bird flu case confirmed",
+      "description": "A Platte County woman is the third confirmed hospitalization related to H5N1 in the United States, according to the Wyoming Department of Health.",
+      "url": "http://oilcity.news/community/health/2025/02/15/wyomings-first-human-bird-flu-case-confirmed/",
+      "urlToImage": "https://oilcity.news/wp-content/uploads/2025/02/PXL_20210302_203835025.MP_-scaled-e1676500559272.webp",
+      "publishedAt": "2025-02-16 01:34:43",
+      "content": "By Maggie Mullen The Wyoming Department of Health announced Friday it had confirmed the states first case of bird flu in a human. The patient, an older adult woman from Platte County, is being hosp\u2026 [+2083 chars]",
+      "retrievedAt": "2025-02-17 07:07:10.113529",
+      "internal_id": "b2486c802d84ddfa93a64c906edc69b19d04966af339e0836668e7a737c56412",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
+      "id": 18307,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "The Weather Channel",
+      "author": "The Weather",
+      "title": "Pet Cats Are Contracting Bird Flu - Videos from The Weather Channel",
+      "description": "If you snuggle with your pet cat after it spends time roaming around outside, you may want to consider some preventative measures, as several house cats have contracted H5N1 bird flu in recent weeks. The risk of cat-to-human transmission is extremely low, but\u2026",
+      "url": "https://weather.com/health/cold-flu/video/pet-cats-bird-flu-humans",
+      "urlToImage": "https://v.w-x.co/1739481966761_House_cats_with_bird_flu_could_pose_a_risk_to_public_health_2aeb6d6c-9998-48b7-88c1-6dab507a1d9e.jpg",
+      "publishedAt": "2025-02-16 01:12:43",
+      "content": "February 15, 2025 If you snuggle with your pet cat after it spends time roaming around outside, you may want to consider some preventative measures, as several house cats have contracted H5N1 bird f\u2026 [+166 chars]",
+      "retrievedAt": "2025-02-17 07:07:10.134353",
+      "internal_id": "282ee3e41ff7a5fcd78366564c5e0e8b4faba463556f52ac89c05d18e4cba030",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
+      "id": 18295,
+      "query": [
+        "measles"
+      ],
+      "source_id": "usa-today",
+      "source_name": "USA Today",
+      "author": "Eduardo Cuevas and James Powel, USA TODAY",
+      "title": "Measles continues to spread as Texas outbreak rises to 48 cases: Here's what to know",
+      "description": "A fast-growing measles outbreak has infected dozens of people in Texas and now New Mexico as officials warn of further spread.",
+      "url": "https://www.usatoday.com/story/news/nation/2025/02/15/measles-outbreak-cases-texas-new-mexico/78784825007/",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/IePpGtIWOdZTOPyfFkUriw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/usa_today_news_641/1e15d0b649325388a576196a42d9a378",
+      "publishedAt": "2025-02-15 23:48:27",
+      "content": "A fast-growing measles outbreak has infected dozens in Texas and New Mexico as officials suspect the highly contagious disease continues to spread. In just two weeks, an outbreak in northwest Texas \u2026 [+4132 chars]",
+      "retrievedAt": "2025-02-17 07:07:08.794542",
+      "internal_id": "53283df7b82ec351b983697a1c0c3a451284e91ed0011b2fd8732ae6e57dd0af",
+      "publishedAtLabel": "Feb 15"
+    },
+    {
+      "id": 18303,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Thairath.co.th",
+      "author": "Thairath",
+      "title": "\u0e27\u0e34\u0e1b\u0e25\u0e32\u0e2a \u0e2a\u0e23\u0e49\u0e32\u0e07\u0e44\u0e27\u0e23\u0e31\u0e2a\u0e44\u0e02\u0e49\u0e2b\u0e27\u0e31\u0e14\u0e19\u0e01\u0e43\u0e2b\u0e21\u0e48 \u0e23\u0e49\u0e32\u0e22\u0e41\u0e23\u0e07",
+      "description": "2024 \u0e19\u0e31\u0e01\u0e27\u0e34\u0e17\u0e22\u0e32\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c\u0e08\u0e32\u0e01 Scripps research \u0e17\u0e35\u0e48\u0e41\u0e04\u0e25\u0e34\u0e1f\u0e2d\u0e23\u0e4c\u0e40\u0e19\u0e35\u0e22 \u0e1b\u0e23\u0e30\u0e01\u0e32\u0e28\u0e04\u0e27\u0e32\u0e21\u0e2a\u0e33\u0e40\u0e23\u0e47\u0e08\u0e43\u0e19\u0e01\u0e32\u0e23\u0e2a\u0e23\u0e49\u0e32\u0e07\u0e44\u0e27\u0e23\u0e31\u0e2a\u0e44\u0e02\u0e49\u0e2b\u0e27\u0e31\u0e14\u0e19\u0e01\u0e43\u0e2b\u0e21\u0e48 H5N1 \u0e17\u0e35\u0e48\u0e15\u0e34\u0e14\u0e04\u0e19\u0e44\u0e14\u0e49\u0e07\u0e48\u0e32\u0e22 \u0e08\u0e32\u0e01\u0e17\u0e35\u0e48\u0e15\u0e34\u0e14\u0e44\u0e14\u0e49\u0e22\u0e32\u0e01\u0e21\u0e32\u0e01\u0e2b\u0e23\u0e37\u0e2d\u0e41\u0e17\u0e1a\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e40\u0e25\u0e22 \u0e41\u0e25\u0e30\u0e41\u0e1e\u0e23\u0e48\u0e08\u0e32\u0e01\u0e04\u0e19\u0e2a\u0e39\u0e48\u0e04\u0e19\u0e44\u0e14\u0e49",
+      "url": "https://www.thairath.co.th/news/local/2842052",
+      "urlToImage": "https://static.thairath.co.th/media/dFQROr7oWzulq5Fa6rPcwregelSqRzFcH0hlu0CusFmtIjSzX1nuNa0HUljNuwvJtHa.jpg",
+      "publishedAt": "2025-02-15 22:10:00",
+      "content": "mutation hemagg lutinin bovine H5N1 (A/Texas/37/2024, Texas) Gln226Leu Asn224Lys mutation Science 5 2024 King\u2019s college UK biosecurity leadership council pandemic Bill &amp; Melinda Gates foun\u2026 [+209 chars]",
+      "retrievedAt": "2025-02-17 07:07:10.001431",
+      "internal_id": "ea2d666805dab9295c3366bf7571775320e89997a6f3cc0d456c0978343d0016",
+      "publishedAtLabel": "Feb 15"
+    },
+    {
+      "id": 18309,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Wagner Edwards",
+      "title": "Minist\u00e9rio da Sa\u00fade amplia vacina\u00e7\u00e3o contra dengue para n\u00e3o perder doses do insumo",
+      "description": "Campanha de vacina\u00e7\u00e3o contra dengue pode englobar faixas-et\u00e1rias de 4 a 59 anos, mas de acordo com os lotes do insumo; entenda O post Minist\u00e9rio da Sa\u00fade amplia vacina\u00e7\u00e3o contra dengue para n\u00e3o perder doses do insumo apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2025/02/15/medicina-e-saude/ministerio-da-saude-amplia-vacinacao-contra-dengue-para-nao-perder-doses-do-insumo/",
+      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2025/02/enfermeiro-segurando-uma-vacina-seringa-insumo-imunizante.png",
+      "publishedAt": "2025-02-15 22:01:32",
+      "content": "Na sexta-feira de ontem (14), o Minist\u00e9rio da Sa\u00fade emitiu uma nota a todos os estados e Distrito Federal para informar que o p\u00fablico-alvo da campanha de vacina\u00e7\u00e3o contra a dengue deve ser ampliado p\u2026 [+2816 chars]",
+      "retrievedAt": "2025-02-17 07:07:10.743114",
+      "internal_id": "15caa92808a37ab43de20ed621a560b28bec2110525e99eef7dcaaf4e7136e61",
+      "publishedAtLabel": "Feb 15"
+    },
+    {
+      "id": 18298,
+      "query": [
+        "measles"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": "Alexandra Koch",
+      "title": "Measles outbreak continues in Texas, cases double: investigation underway",
+      "description": "Authorities investigate after measles cases have doubled in Texas amid an outbreak.",
+      "url": "https://www.foxnews.com/us/measles-outbreak-continues-texas-cases-double-investigation-underway",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/11/measles.jpg",
+      "publishedAt": "2025-02-15 20:22:44",
+      "content": "An outbreak of measles in the South Plains of Texas is continuing to grow, with the number of cases doubling in less than a week. At least 48 cases were identified with symptom onset within the last\u2026 [+2223 chars]",
+      "retrievedAt": "2025-02-17 07:07:08.944050",
+      "internal_id": "0288f7881cfd6ed8b6919c05508377ba9b8fd34a5c1a139641d9d91b804b1bea",
+      "publishedAtLabel": "Feb 15"
+    },
+    {
+      "id": 18304,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Adeola Adeosun",
+      "title": "Wyoming Confirms First Human Bird Flu Case as Woman Hospitalized",
+      "description": "A Wyoming woman was hospitalized with bird flu after contact with infected poultry at her home, marking the state's first human case.",
+      "url": "https://www.newsweek.com/wyoming-woman-first-bird-flu-case-infected-poultry-2031801",
+      "urlToImage": "https://d.newsweek.com/en/full/2589329/bird.jpg",
+      "publishedAt": "2025-02-15 19:34:26",
+      "content": "An older woman in southeast Wyoming has been hospitalized with bird flu, marking the state's first human case of Type A H5N1 influenza. The patient, who lives in Platte County and has other health c\u2026 [+3604 chars]",
+      "retrievedAt": "2025-02-17 07:07:10.034286",
+      "internal_id": "eae5e6c4370be9233857a16f69e01a6fc9badcfd13b4bad3133ccf8f41519fa0",
+      "publishedAtLabel": "Feb 15"
+    },
+    {
+      "id": 18310,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Paula Felix",
+      "title": "Dengue: Minist\u00e9rio da Sa\u00fade libera amplia\u00e7\u00e3o de faixa et\u00e1ria para vacina",
+      "description": "Medida \u00e9 tempor\u00e1ria e vale para imunizantes que est\u00e3o com data de validade pr\u00f3xima ao vencimento; p\u00fablico contemplado pode ser de 6 a 16 anos",
+      "url": "https://veja.abril.com.br/saude/dengue-ministerio-da-saude-libera-ampliacao-de-faixa-etaria-para-vacina",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2024/02/4.-DENGUE-VACINA-TAKEDA-QDENGA-2024-2-a-AFP.jpg.jpg?quality=70&strip=info&crop=1&resize=1080,565",
+      "publishedAt": "2025-02-15 19:33:13",
+      "content": "Ver\u00e3o: 4 Revistas em casa a partir de 29,90/m\u00easVacina da dengue (Douglas Magno/AFP) Continua ap\u00f3s publicidade O Minist\u00e9rio da Sa\u00fade liberou a amplia\u00e7\u00e3o da faixa et\u00e1ria para receber a vacina contra \u2026 [+2135 chars]",
+      "retrievedAt": "2025-02-17 07:07:10.769143",
+      "internal_id": "611a6cdab2610e5d50099b2bed5881a79e09230cc366f493e35d740de83b8f00",
+      "publishedAtLabel": "Feb 15"
+    },
+    {
+      "id": 18308,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "KSAT San Antonio",
+      "author": "The Associated Press",
+      "title": "Bird flu confirmed in older Wyoming woman who likely had contact with infected flock at her home",
+      "description": "Bird flu confirmed in older Wyoming woman who likely had contact with infected flock at her homeksat.com",
+      "url": "https://www.ksat.com/health/2025/02/15/bird-flu-confirmed-in-older-wyoming-woman-who-likely-had-contact-with-infected-flock-at-her-home/",
+      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/QYPHYMGIENAMHBACAFCFSPNFTU.jpg?_a=DATAdtfiZAA0",
+      "publishedAt": "2025-02-15 17:00:30",
+      "content": "An older woman in southeast Wyoming is hospitalized with bird flu, state health department officials said Friday. It's the state's first human case of Type A H5N1 influenza, which is spreading thro\u2026 [+1617 chars]",
+      "retrievedAt": "2025-02-17 07:07:10.143166",
+      "internal_id": "cc2acab59e44e821638405c4129c34363c5e92888961a00e275e788905ceecae",
+      "publishedAtLabel": "Feb 15"
+    },
     {
       "id": 18289,
       "query": [
@@ -73,6 +325,24 @@
       "content": "O Minist\u00e9rio da Sa\u00fade publicou, na sexta-feira (14/2), uma nota t\u00e9cnica em que autoriza a amplia\u00e7\u00e3o do p\u00fablico-alvo para vacina\u00e7\u00e3o contra a dengue. A medida visa utilizar todas as doses que est\u00e3o pr\u00f3\u2026 [+5105 chars]",
       "retrievedAt": "2025-02-16 19:05:56.780608",
       "internal_id": "3167e3909f7ea878d180d5cf70b28e728c33fce654f10885fd90c6ea3ab204bb",
+      "publishedAtLabel": "Feb 15"
+    },
+    {
+      "id": 18302,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "YouTube",
+      "author": null,
+      "title": "Measles Outbreak Hits Texas As Anti Vaxxer Takes Over Nation's Health",
+      "description": "Measles Outbreak Hits Texas As Anti Vaxxer Takes Over Nation's Healthyoutube.com",
+      "url": "https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DxWlwGAnUIHs",
+      "urlToImage": null,
+      "publishedAt": "2025-02-15 14:01:11",
+      "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more Remind me later",
+      "retrievedAt": "2025-02-17 07:07:08.996730",
+      "internal_id": "ac37c0ed4036d8e2cc5eb02e860781a84ead110db3d07cb3f660df822811bffa",
       "publishedAtLabel": "Feb 15"
     },
     {
@@ -275,6 +545,42 @@
       "publishedAtLabel": "Feb 14"
     },
     {
+      "id": 18300,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "STAT",
+      "author": "Associated Press",
+      "title": "Texas measles outbreak rises to 48 cases",
+      "description": "The ongoing measles outbreak in West Texas has doubled in size to 48 cases, mostly in children and teens, making it the state's worst in nearly 30 years.",
+      "url": "https://www.statnews.com/2025/02/14/texas-measles-outbreak-rises-48-cases/",
+      "urlToImage": "https://www.statnews.com/wp-content/uploads/2025/02/AP25041780525227-1024x576.jpg",
+      "publishedAt": "2025-02-14 23:34:48",
+      "content": "The ongoing measles outbreak in West Texas has doubled in size to 48 cases, mostly in children and teens, making it the states worst in nearly 30 years. State health officials said Friday in a news \u2026 [+2843 chars]",
+      "retrievedAt": "2025-02-17 07:07:08.979790",
+      "internal_id": "0bed0be30185fd8bcd21cd43b3d73a0694b82f95159bd62a78c85cf87a6c2219",
+      "publishedAtLabel": "Feb 14"
+    },
+    {
+      "id": 18299,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "nj.com",
+      "author": "Chris Sheldon | Nj Advance Media For Nj.com",
+      "title": "Measles exposure risk at N.J. hospital, health officials warn",
+      "description": "Measles exposure risk at N.J. hospital, health officials warnnj.com",
+      "url": "https://www.nj.com/bergen/2025/02/measles-exposure-risk-at-nj-hospital-health-officials-warn.html",
+      "urlToImage": "https://www.nj.com/resizer/v2/AEHGCMUWFRCHDGXKC6ZIEMGL3A.jpeg?auth=6b1b5edb09a9ccd1c2b6f059fad7c03f85926703d4afef035e1d7a63da5c5042&width=1280&quality=90",
+      "publishedAt": "2025-02-14 23:30:34",
+      "content": "The New Jersey Department of Health warned residents Friday that a person with measles recently visited the emergency department at Englewood Hospital in Bergen County. The department said the perso\u2026 [+1767 chars]",
+      "retrievedAt": "2025-02-17 07:07:08.972222",
+      "internal_id": "5ce8e3d8e2cc16ae5f87cea0ada7960a2efc6d6ea3bbb196001939784572598f",
+      "publishedAtLabel": "Feb 14"
+    },
+    {
       "id": 18265,
       "query": [
         "measles"
@@ -290,6 +596,24 @@
       "content": "SEMINOLE, Texas When Aganetha Unger pulled up her large, white van to the emergency measles testing site, several of her eight children were coughing. We had some sickness in the house, not very bad\u2026 [+6572 chars]",
       "retrievedAt": "2025-02-16 07:05:43.440603",
       "internal_id": "c1475726a8f660073bbca9be4a04eacea809244509462897527a145b4d7f0031",
+      "publishedAtLabel": "Feb 14"
+    },
+    {
+      "id": 18301,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": null,
+      "title": "What are your questions about measles? | CNN",
+      "description": "Measles is on the rise in the US. There were 285 cases of measles in the US across 33 states in 2024, the highest case count since 2019. The pattern looks to continue this year, with one outbreak this month in West Texas already tallying dozens of cases \u2013 all\u2026",
+      "url": "https://www.cnn.com/2025/02/14/health/measles-paging-dr-gupta/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2154429481.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2025-02-14 23:06:41",
+      "content": "Measles is on the rise in the US. There were 285 cases of measles in the US across 33 states in 2024, the highest case count since 2019. The pattern looks to continue this year, with one outbreak thi\u2026 [+407 chars]",
+      "retrievedAt": "2025-02-17 07:07:08.987258",
+      "internal_id": "b3ed8aa1b771ff30eb12854bed493cad75cc7eb65610182c7132d607654c52bb",
       "publishedAtLabel": "Feb 14"
     },
     {
@@ -22414,6 +22738,114 @@
       "content": "A colorized transmission electron micrograph of avian influenza A H5N1 virus particles (blue), grown in Madin-Darby Canine Kidney (MDCK) epithelial cells - Copyright National Institute of Allergy and\u2026 [+2429 chars]",
       "retrievedAt": "2025-01-07 07:06:27.473171",
       "internal_id": "c70be9cec5809b4f8f89532947c360ec0a5d03c80f8e18b3e74013a276bcea4f",
+      "publishedAtLabel": "Jan 5"
+    },
+    {
+      "id": 17051,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Faz.net",
+      "author": "Andreas Eckert",
+      "title": "\u00dcber die Umweltgeschichte Afrikas",
+      "description": "Viehzucht, Malaria und die Wei\u00dfen: Will man die Umweltgeschichte Afrikas erz\u00e4hlen, muss man neben der Natur und Krankheiten auch Machtfragen und den Imperialismus in den Blick nehmen.",
+      "url": "https://www.faz.net/aktuell/feuilleton/bilder-und-zeiten/krankheiten-und-der-kolonialismus-ueber-die-umweltgeschichte-afrikas-110208640.html",
+      "urlToImage": "https://media0.faz.net/ppmedia/aktuell/909935446/1.10209298/facebook_teaser_fplus/ein-tuareg-impft-kinder-in.jpg",
+      "publishedAt": "2025-01-05 18:56:04",
+      "content": "Die Klimanachrichten aus Afrika sind d\u00fcster. W\u00e4hrend Teile des Kontinents von \u00dcberschwemmungen heimgesucht werden, leiden andere Regionen unter langen D\u00fcrreperioden. Diese Katastrophen treffen zumeis\u2026 [+711 chars]",
+      "retrievedAt": "2025-01-06 19:05:36.440882",
+      "internal_id": "bb517e2215e4968a9c4f036e58c2140369b52fc1afcd41c168942ba8f1ad4c34",
+      "publishedAtLabel": "Jan 5"
+    },
+    {
+      "id": 17050,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Catracalivre.com.br",
+      "author": "Andr\u00e9 Nicolau",
+      "title": "4 fatos indispens\u00e1veis sobre a dengue que voc\u00ea precisa conhecer",
+      "description": "O aumento das chuvas e das temperaturas elevadas reservam condi\u00e7\u00f5es ideais para a reprodu\u00e7\u00e3o do mosquito da dengue. Confira outros fatos.",
+      "url": "https://catracalivre.com.br/saude-bem-estar/fatos-dengue-precisa-saber/",
+      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1280,h=680,fit=cover,format=jpeg/wp-content/uploads/2024/02/dengue.jpg",
+      "publishedAt": "2025-01-05 17:00:18",
+      "content": "A dengue \u00e9 uma doen\u00e7a viral passada pelo mosquito Aedes Aegypti Soumyabrata Roy/istock - Soumyabrata Roy/istock O aumento das chuvas e das temperaturas elevadas, t\u00edpicas do ver\u00e3o, reservam condi\u00e7\u00f5es\u2026 [+2913 chars]",
+      "retrievedAt": "2025-01-06 19:05:35.874249",
+      "internal_id": "6ecb502a9076a0366e11d6a18a8f8509f248784d13153fb6c1f0f9f07cfa23e3",
+      "publishedAtLabel": "Jan 5"
+    },
+    {
+      "id": 17049,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "Alejandro Horvat",
+      "title": "En plena temporada: qu\u00e9 medidas preventivas hay en la costa para evitar aumentos de casos de dengue",
+      "description": "Si bien los especialistas advierten que no es una zona end\u00e9mica, el alto movimiento tur\u00edstico puede llegar a ser un agravante",
+      "url": "https://www.lanacion.com.ar/sociedad/en-plena-temporada-que-medidas-preventivas-hay-en-la-costa-para-evitar-aumentos-de-casos-de-dengue-nid05012025/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/los-casos-de-dengue-a-nivel-nacional-muestran-un-H26K6NEWUBB3JP5D3RNPUAEQS4.jpg?auth=f16d6224ca93e3f623fdb9c5614b43b9913314d40fbd519eee619de366b52ea5&width=1200&quality=70&smart=false&height=800",
+      "publishedAt": "2025-01-05 10:37:15",
+      "content": "El verano no solo trae consigo altas temperaturas y playas llenas de turistas, sino tambi\u00e9n un desaf\u00edo sanitario que pone en alerta a todo el pa\u00eds: el dengue. Esta enfermedad, transmitida por el mosq\u2026 [+5853 chars]",
+      "retrievedAt": "2025-01-06 19:05:35.867226",
+      "internal_id": "2182e8f604e1bfaf08eef8b9d2796fa1ffccd8be529a354e5d5cb6bafdcfafbf",
+      "publishedAtLabel": "Jan 5"
+    },
+    {
+      "id": 17048,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Aajtak.in",
+      "author": "aajtak.in",
+      "title": "\u0928\u093e\u0917\u092a\u0941\u0930 \u092e\u0947\u0902 \u092c\u0930\u094d\u0921 \u092b\u094d\u0932\u0942 \u0938\u0947 3 \u092c\u093e\u0918 \u0914\u0930 \u090f\u0915 \u0924\u0947\u0902\u0926\u0941\u090f \u0915\u0940 \u092e\u094c\u0924, \u091f\u093e\u0907\u0917\u0930 \u0930\u093f\u091c\u0930\u094d\u0935 \u0914\u0930 \u0930\u0947\u0938\u094d\u0915\u094d\u092f\u0942 \u0938\u0947\u0902\u091f\u0930\u094d\u0938 \u0915\u0947 \u0932\u093f\u090f \u0905\u0932\u0930\u094d\u091f \u091c\u093e\u0930\u0940",
+      "description": "\u092e\u0939\u093e\u0930\u093e\u0937\u094d\u091f\u094d\u0930 \u0915\u0947 \u0928\u093e\u0917\u092a\u0941\u0930 \u092e\u0947\u0902 \u0917\u094b\u0930\u0947\u0935\u093e\u0921\u093c\u093e \u0930\u0947\u0938\u094d\u0915\u094d\u092f\u0942 \u0938\u0947\u0902\u091f\u0930 \u092e\u0947\u0902 \u0926\u093f\u0938\u0902\u092c\u0930 \u092e\u0947\u0902 \u0924\u0940\u0928 \u092c\u093e\u0918 \u0914\u0930 \u090f\u0915 \u0924\u0947\u0902\u0926\u0941\u0906 H5N1 \u0935\u093e\u092f\u0930\u0938 \u0938\u0947 \u0938\u0902\u0915\u094d\u0930\u092e\u093f\u0924 \u0939\u094b\u0915\u0930 \u092e\u093e\u0930\u0947 \u0917\u090f. \u0907\u0938 \u0918\u091f\u0928\u093e \u0915\u0947 \u092c\u093e\u0926 \u0930\u093e\u091c\u094d\u092f \u0915\u0947 \u091f\u093e\u0907\u0917\u0930 \u0930\u093f\u091c\u0930\u094d\u0935 \u0914\u0930 \u0930\u0947\u0938\u094d\u0915\u094d\u092f\u0942 \u0938\u0947\u0902\u091f\u0930\u094d\u0938 \u0915\u094b \u0905\u0932\u0930\u094d\u091f \u092a\u0930 \u0930\u0916\u093e \u0917\u092f\u093e \u0939\u0948. \u091c\u093e\u0902\u091a \u092e\u0947\u0902 \u0905\u0928\u094d\u092f 26 \u0924\u0947\u0902\u0926\u0941\u090f \u0914\u0930 12 \u092c\u093e\u0918 \u0938\u094d\u0935\u0938\u094d\u0925 \u092a\u093e\u090f \u0917\u090f. \u0905\u0927\u093f\u0915\u093e\u0930\u2026",
+      "url": "https://www.aajtak.in/india/maharashtra/story/tiger-and-leopard-died-of-bird-flu-h5n1-virus-in-nagpur-rescue-centre-alert-issued-ntc-dskc-2136699-2025-01-05",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202501/677a5e7159d1b-tiger-and-leopard-052651552-16x9.jpg",
+      "publishedAt": "2025-01-05 10:29:37",
+      "content": "Copyright \u00a9 2025 Living Media India Limited. For reprint rights: Syndications Today",
+      "retrievedAt": "2025-01-06 19:05:35.396893",
+      "internal_id": "895fd40da7e5878970f986f3d0e94cfdacdf9a1b17b1b11a728150ebb9cf5d5f",
+      "publishedAtLabel": "Jan 5"
+    },
+    {
+      "id": 17047,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ET Online",
+      "title": "Amid HMPV virus outbreak in China, three tigers and a leopard die of highly infectious avian flu H5N1 virus in Nagpur",
+      "description": "Three tigers and a sub-adult leopard at Gorewada Rescue Centre in Nagpur died from avian flu H5N1. This is the first time the virus caused significant wildlife deaths in captivity in India. Health measures were taken, and other big cats were examined and foun\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/amid-hmpv-virus-outbreak-in-china-three-tigers-and-a-leopard-die-of-highly-pathogenic-avian-flu-h5n1-virus/articleshow/116963521.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-116963972,width-1200,height-630,imgsize-2683349,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-01-05 10:00:31",
+      "content": "Artificial Intelligence(AI) AI and Analytics based Business Strategy By - Tanusree De, Managing Director- Accenture Technology Lead, Trustworthy AI Center of Excellence: ATCI View Program",
+      "retrievedAt": "2025-01-06 19:05:35.389872",
+      "internal_id": "9a8435ec806824779d4f6f3f6b1e195d161d13980117dc60019978fad90f1c29",
+      "publishedAtLabel": "Jan 5"
+    },
+    {
+      "id": 17046,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "ZyCrypto",
+      "author": "Guest Author",
+      "title": "Solana\u2019s PNUT Prodigy Picks DLUME as 2025\u2019s Next Big Thing \u2013 Could You Be Next?",
+      "description": "Particularly during a viral rabies crisis in New York in October 2023, Peanut the Squirrel\u2019s (PNUT) ascent as a Solana-based memecoin has garnered a lot of focus. When Coinbase revealed that PNUT would be included in its listing roadmap on December 11, the me\u2026",
+      "url": "https://zycrypto.com/solanas-pnut-prodigy-picks-dlume-as-2025s-next-big-thing-could-you-be-next/",
+      "urlToImage": "https://zycrypto.com/wp-content/uploads/2024/12/Next-Crypto-to-Explode-Aurealone-Leads-Best-Coins-for-Potential-600x-Portfolio-Gains.jpg",
+      "publishedAt": "2025-01-05 09:24:56",
+      "content": "Particularly during a viral rabies crisis in New York in October 2023, Peanut the Squirrel\u2019s (PNUT) ascent as a Solana-based memecoin has garnered a lot of focus. When Coinbase revealed that PNUT wou\u2026 [+5309 chars]",
+      "retrievedAt": "2025-01-06 19:05:34.431523",
+      "internal_id": "f2d59d393705c83bbe72e8188b5f7b2b888747d87217f20b6d7b7fa89d96f24e",
       "publishedAtLabel": "Jan 5"
     }
   ]

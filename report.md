@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 7
-- **Last harvest:** 2025-02-16 19:05
-- **Most recent article:** 2025-02-15 15:26:15
+- **New articles in last harvest:** 18
+- **Last harvest:** 2025-02-17 07:07
+- **Most recent article:** 2025-02-16 05:44:24
 
 ---
 
@@ -10,27 +10,49 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 25-2 | 25-3 | 25-4 | 25-5 | 25-6 | 25-7 | Total |
-|--|-|-|-|-|-|-|-|
-| h5n1 | 127 | 65 | 31 | 51 | 72 | 51 | 397 |
-| mpox | 91 | 34 | 23 | 22 | 28 | 18 | 216 |
-| dengue | 39 | 29 | 37 | 24 | 34 | 35 | 198 |
-| malaria | 28 | 18 | 19 | 30 | 25 | 12 | 132 |
-| measles | 6 | 9 | 10 | 13 | 24 | 63 | 125 |
-| hpai | 18 | 12 | 11 | 6 | 3 | 9 | 59 |
-| chikungunya | 7 | 7 | 10 | 9 | 8 | 5 | 46 |
-| zika | 15 | 5 | 2 | 8 | 6 | 2 | 38 |
-| rabies | 1 | 6 | 7 | 6 | 4 | 5 | 29 |
-| meningitis | 0 | 2 | 3 | 8 | 2 | 12 | 27 |
-| yersinia | 3 | 2 | 0 | 0 | 0 | 5 | 10 |
-| typhoid | 0 | 4 | 0 | 0 | 2 | 3 | 9 |
-| pertussis | 2 | 0 | 1 | 0 | 3 | 3 | 9 |
-| leptospirosis | 0 | 1 | 2 | 0 | 1 | 0 | 4 |
+| Disease | 25-2 | 25-3 | 25-4 | 25-5 | 25-6 | 25-7 | 25-8 | Total |
+|--|-|-|-|-|-|-|-|-|
+| h5n1 | 129 | 65 | 31 | 51 | 72 | 54 | 3 | 405 |
+| mpox | 91 | 34 | 23 | 22 | 28 | 18 | 0 | 216 |
+| dengue | 41 | 29 | 37 | 24 | 34 | 37 | 1 | 203 |
+| measles | 6 | 9 | 10 | 13 | 24 | 69 | 2 | 133 |
+| malaria | 29 | 18 | 19 | 30 | 25 | 12 | 0 | 133 |
+| hpai | 18 | 12 | 11 | 6 | 3 | 9 | 0 | 59 |
+| chikungunya | 7 | 7 | 10 | 9 | 8 | 5 | 0 | 46 |
+| zika | 15 | 5 | 2 | 8 | 6 | 2 | 0 | 38 |
+| rabies | 2 | 6 | 7 | 6 | 4 | 5 | 0 | 30 |
+| meningitis | 0 | 2 | 3 | 8 | 2 | 12 | 1 | 28 |
+| yersinia | 3 | 2 | 0 | 0 | 0 | 5 | 0 | 10 |
+| typhoid | 0 | 4 | 0 | 0 | 2 | 3 | 0 | 9 |
+| pertussis | 2 | 0 | 1 | 0 | 3 | 3 | 0 | 9 |
+| leptospirosis | 0 | 1 | 2 | 0 | 1 | 0 | 0 | 4 |
 
 
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 25-8 (meningitis)
+
+- [Alarm in Pyrgos after the death of a 54 year old woman – Serious indications of a meningitis case](https://en.protothema.gr/2025/02/16/alarm-in-pyrgos-after-the-death-of-a-54-year-old-woman-serious-indications-of-a-meningitis-case/) (Protothema.gr)
+
+## 25-8 (measles)
+
+- [B.C. health authorities confirm new measles case in the Lower Mainland](https://www.cbc.ca/news/canada/british-columbia/health-b-c-measles-1.7460615) (CBC News)
+
+- [Chad officials seal schools as measles epidemic hits poor district](https://www.voanews.com/a/chad-officials-seal-schools-as-measles-epidemic-hits-poor-district/7976693.html) (VOA News)
+
+## 25-8 (h5n1)
+
+- [«La gripe aviar en vacas está solo en EE.UU, pero hay que estar preparados»](https://www.lavozdegalicia.es/noticia/somosagro/ganaderia/2025/02/14/gripe-aviar-vacas-solo-eeuu-estar-preparados/00031739555093223537895.htm) (Lavozdegalicia.es)
+
+- [Wyoming’s first human bird flu case confirmed](http://oilcity.news/community/health/2025/02/15/wyomings-first-human-bird-flu-case-confirmed/) (Oil City News)
+
+- [Pet Cats Are Contracting Bird Flu - Videos from The Weather Channel](https://weather.com/health/cold-flu/video/pet-cats-bird-flu-humans) (The Weather Channel)
+
+## 25-8 (dengue)
+
+- [Farmacêutico ensina receita de repelente natural com ervas medicinais](https://www.metropoles.com/colunas/claudia-meireles/farmaceutico-ensina-receita-de-repelente-natural-com-ervas-medicinais) (Metropoles.com)
 
 ## 25-7 (zika)
 
@@ -144,13 +166,25 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-7 (measles)
 
+- [Measles continues to spread as Texas outbreak rises to 48 cases: Here's what to know](https://www.usatoday.com/story/news/nation/2025/02/15/measles-outbreak-cases-texas-new-mexico/78784825007/) (USA Today)
+
+- [Measles outbreak continues in Texas, cases double: investigation underway](https://www.foxnews.com/us/measles-outbreak-continues-texas-cases-double-investigation-underway) (Fox News)
+
+- [Measles Outbreak Hits Texas As Anti Vaxxer Takes Over Nation's Health](https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DxWlwGAnUIHs) (YouTube)
+
 - [TWiV 1192: Clinical update with Dr. Daniel Griffin](https://www.microbe.tv/twiv/twiv-1192/) (Microbe.tv)
 
 - [Measles Outbreak in Texas County With Low Vaccination Rate Multiplies, More Cases 'Likely'](https://www.medicaldaily.com/measles-outbreak-texas-county-low-vaccination-rate-multiplies-more-cases-likely-473123) (Medical Daily)
 
 - [Measles Outbreak in Texas County With Low Vaccination Rate Multiplies, More Cases 'Likely'](https://www.medicaldaily.com/measles-outbreak-texas-county-low-vaccination-rate-multiplies-more-cases-likely-473121) (Medical Daily)
 
+- [Texas measles outbreak rises to 48 cases](https://www.statnews.com/2025/02/14/texas-measles-outbreak-rises-48-cases/) (STAT)
+
+- [Measles exposure risk at N.J. hospital, health officials warn](https://www.nj.com/bergen/2025/02/measles-exposure-risk-at-nj-hospital-health-officials-warn.html) (nj.com)
+
 - [In rural West Texas, a measles outbreak grows with no end in sight](https://www.nbcnews.com/health/health-news/measles-outbreak-west-texas-grows-unvaccinated-rcna192163) (NBC News)
+
+- [What are your questions about measles? | CNN](https://www.cnn.com/2025/02/14/health/measles-paging-dr-gupta/index.html) (CNN)
 
 - [Texas measles outbreak rises to 48 cases. It's the state's worst in nearly 30 years](https://www.seattlepi.com/news/article/texas-measles-outbreak-rises-to-48-cases-it-s-20168486.php) (seattlepi.com)
 
@@ -318,6 +352,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-7 (h5n1)
 
+- [วิปลาส สร้างไวรัสไข้หวัดนกใหม่ ร้ายแรง](https://www.thairath.co.th/news/local/2842052) (Thairath.co.th)
+
+- [Wyoming Confirms First Human Bird Flu Case as Woman Hospitalized](https://www.newsweek.com/wyoming-woman-first-bird-flu-case-infected-poultry-2031801) (Newsweek)
+
+- [Bird flu confirmed in older Wyoming woman who likely had contact with infected flock at her home](https://www.ksat.com/health/2025/02/15/bird-flu-confirmed-in-older-wyoming-woman-who-likely-had-contact-with-infected-flock-at-her-home/) (KSAT San Antonio)
+
 - [Bird flu confirmed in older Wyoming woman who likely had contact with infected flock at her home](https://abcnews.go.com/Health/wireStory/bird-flu-confirmed-older-wyoming-woman-contact-infected-118856788) (ABC News)
 
 - [Bird flu confirmed in older Wyoming woman who likely had contact with infected flock at her home](https://www.seattlepi.com/news/article/bird-flu-confirmed-in-older-wyoming-woman-who-20169167.php) (seattlepi.com)
@@ -421,6 +461,10 @@ Source: [News API](https://newsapi.org/)
 - [Zamykają targi, wybijają zakażone zwierzęta. Ptasia grypa rozprzestrzenia się w Nowym Jorku](https://tvn24.pl/tvnmeteo/swiat/zamykaja-targi-wybijaja-zakazone-zwierzeta-ptasia-grypa-rozprzestrzenia-sie-w-nowym-jorku-st8298168) (Tvn24.pl)
 
 ## 25-7 (dengue)
+
+- [Ministério da Saúde amplia vacinação contra dengue para não perder doses do insumo](https://olhardigital.com.br/2025/02/15/medicina-e-saude/ministerio-da-saude-amplia-vacinacao-contra-dengue-para-nao-perder-doses-do-insumo/) (Olhardigital.com.br)
+
+- [Dengue: Ministério da Saúde libera ampliação de faixa etária para vacina](https://veja.abril.com.br/saude/dengue-ministerio-da-saude-libera-ampliacao-de-faixa-etaria-para-vacina) (Abril.com.br)
 
 - [Ministério da Saúde recomenda ampliar público-alvo da vacinação contra dengue](https://www.infomoney.com.br/brasil/ministerio-da-saude-recomenda-ampliar-publico-alvo-da-vacinacao-contra-dengue/) (InfoMoney)
 
@@ -2122,6 +2166,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Young man dies of rabies at Seti provincial hospital](https://dineshkhabar.com/article/117684) (Dineshkhabar.com)
 
+- [Solana’s PNUT Prodigy Picks DLUME as 2025’s Next Big Thing – Could You Be Next?](https://zycrypto.com/solanas-pnut-prodigy-picks-dlume-as-2025s-next-big-thing-could-you-be-next/) (ZyCrypto)
+
 ## 25-2 (pertussis)
 
 - [Tos ferina: qué sabemos sobre el incremento de casos ocasionados por la bacteria Bordetella pertussis](https://www.milenio.com/ciencia-y-salud/aumentan-casos-bordetella-pertussi-tos-ferina) (Milenio)
@@ -2383,6 +2429,8 @@ Source: [News API](https://newsapi.org/)
 - [Cell wall components of gut commensal bacteria stimulate peritrophic matrix formation in malaria vector mosquitoes through activation of the IMD pathway](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002967) (Plos.org)
 
 - [Text (actual latters) change when saving to PDF from Word. WTF?](https://ask.metafilter.com/383833/Text-actual-latters-change-when-saving-to-PDF-from-Word-WTF) (Metafilter.com)
+
+- [Über die Umweltgeschichte Afrikas](https://www.faz.net/aktuell/feuilleton/bilder-und-zeiten/krankheiten-und-der-kolonialismus-ueber-die-umweltgeschichte-afrikas-110208640.html) (Faz.net)
 
 ## 25-2 (hpai)
 
@@ -2678,6 +2726,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Op-Ed: Collapsing health systems vs major flu outbreaks in US, UK and Europe](https://www.digitaljournal.com/world/op-ed-collapsing-health-systems-vs-major-flu-outbreaks-in-us-uk-and-europe/article) (Digital Journal)
 
+- [नागपुर में बर्ड फ्लू से 3 बाघ और एक तेंदुए की मौत, टाइगर रिजर्व और रेस्क्यू सेंटर्स के लिए अलर्ट जारी](https://www.aajtak.in/india/maharashtra/story/tiger-and-leopard-died-of-bird-flu-h5n1-virus-in-nagpur-rescue-centre-alert-issued-ntc-dskc-2136699-2025-01-05) (Aajtak.in)
+
+- [Amid HMPV virus outbreak in China, three tigers and a leopard die of highly infectious avian flu H5N1 virus in Nagpur](https://economictimes.indiatimes.com/news/india/amid-hmpv-virus-outbreak-in-china-three-tigers-and-a-leopard-die-of-highly-pathogenic-avian-flu-h5n1-virus/articleshow/116963521.cms) (The Times of India)
+
 ## 25-2 (dengue)
 
 - [Marketing faz bem, mas não resolve inflação, dengue, falta de gestão nem Congresso guloso](https://www.estadao.com.br/politica/eliane-cantanhede/marketing-faz-bem-mas-nao-resolve-inflacao-dengue-falta-de-gestao-nem-congresso-guloso/) (Estadao.com.br)
@@ -2757,6 +2809,10 @@ Source: [News API](https://newsapi.org/)
 - [Migrantes que cruzan el Darién, con salud comprometida: OPS](https://www.jornada.com.mx/2025/01/06/politica/006n2pol) (Jornada.com.mx)
 
 - [Guerrero cierra el 2024 con casi siete mil casos de dengue y 61 muertes](https://www.excelsior.com.mx/nacional/dengue-guerrero-cierra-el-2024-con-casi-siete-mil-casos-y-61-muertes/1692712) (Excelsior.com.mx)
+
+- [4 fatos indispensáveis sobre a dengue que você precisa conhecer](https://catracalivre.com.br/saude-bem-estar/fatos-dengue-precisa-saber/) (Catracalivre.com.br)
+
+- [En plena temporada: qué medidas preventivas hay en la costa para evitar aumentos de casos de dengue](https://www.lanacion.com.ar/sociedad/en-plena-temporada-que-medidas-preventivas-hay-en-la-costa-para-evitar-aumentos-de-casos-de-dengue-nid05012025/) (La Nacion)
 
 ## 25-2 (chikungunya)
 
