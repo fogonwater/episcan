@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 18
-- **Last harvest:** 2025-02-17 07:07
-- **Most recent article:** 2025-02-16 05:44:24
+- **New articles in last harvest:** 6
+- **Last harvest:** 2025-02-17 19:05
+- **Most recent article:** 2025-02-16 18:36:01
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-2 | 25-3 | 25-4 | 25-5 | 25-6 | 25-7 | 25-8 | Total |
 |--|-|-|-|-|-|-|-|-|
-| h5n1 | 129 | 65 | 31 | 51 | 72 | 54 | 3 | 405 |
+| h5n1 | 127 | 65 | 31 | 51 | 72 | 54 | 5 | 405 |
 | mpox | 91 | 34 | 23 | 22 | 28 | 18 | 0 | 216 |
-| dengue | 41 | 29 | 37 | 24 | 34 | 37 | 1 | 203 |
-| measles | 6 | 9 | 10 | 13 | 24 | 69 | 2 | 133 |
-| malaria | 29 | 18 | 19 | 30 | 25 | 12 | 0 | 133 |
+| dengue | 39 | 29 | 37 | 24 | 34 | 37 | 2 | 202 |
+| measles | 6 | 9 | 10 | 13 | 24 | 69 | 4 | 135 |
+| malaria | 28 | 18 | 19 | 30 | 25 | 12 | 1 | 133 |
 | hpai | 18 | 12 | 11 | 6 | 3 | 9 | 0 | 59 |
 | chikungunya | 7 | 7 | 10 | 9 | 8 | 5 | 0 | 46 |
 | zika | 15 | 5 | 2 | 8 | 6 | 2 | 0 | 38 |
-| rabies | 2 | 6 | 7 | 6 | 4 | 5 | 0 | 30 |
+| rabies | 1 | 6 | 7 | 6 | 4 | 5 | 0 | 29 |
 | meningitis | 0 | 2 | 3 | 8 | 2 | 12 | 1 | 28 |
 | yersinia | 3 | 2 | 0 | 0 | 0 | 5 | 0 | 10 |
 | typhoid | 0 | 4 | 0 | 0 | 2 | 3 | 0 | 9 |
@@ -38,11 +38,23 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-8 (measles)
 
+- [Texas Measles outbreak: How to stay safe from this infectious disease](https://timesofindia.indiatimes.com/etimes/trending/texas-measles-outbreak-how-to-stay-safe-from-this-infectious-disease/articleshow/118308735.cms) (The Times of India)
+
+- [Robert F. Kennedy Jr., measles and an alarming disregard for science, evidence, public health, welfare and common sense](https://edzardernst.com/2025/02/robert-f-kennedy-jr-measles-and-an-alarming-disregard-for-science-evidence-public-health-welfare-and-common-sense/) (Edzardernst.com)
+
 - [B.C. health authorities confirm new measles case in the Lower Mainland](https://www.cbc.ca/news/canada/british-columbia/health-b-c-measles-1.7460615) (CBC News)
 
 - [Chad officials seal schools as measles epidemic hits poor district](https://www.voanews.com/a/chad-officials-seal-schools-as-measles-epidemic-hits-poor-district/7976693.html) (VOA News)
 
+## 25-8 (malaria)
+
+- [Africa's progress against malaria in "jeopardy" amid need for renewed commitments: officials](https://www.thestar.com.my/news/world/2025/02/17/africa039s-progress-against-malaria-in-jeopardy-amid-need-for-renewed-commitments-officials) (The Star Online)
+
 ## 25-8 (h5n1)
+
+- [Fågelinfluensan fortsätter spridas – ägg ransoneras i USA](https://www.expressen.se/nyheter/varlden/fagelinfluensan-fortsatter-spridas-agg-ransoneras-i-usa/) (Expressen.se)
+
+- [Vogelgrippe in den USA: Eine einzige Mutation könnte die nächste Pandemie auslösen](https://taz.de/Vogelgrippe-in-den-USA/!6066694/) (taz.de)
 
 - [«La gripe aviar en vacas está solo en EE.UU, pero hay que estar preparados»](https://www.lavozdegalicia.es/noticia/somosagro/ganaderia/2025/02/14/gripe-aviar-vacas-solo-eeuu-estar-preparados/00031739555093223537895.htm) (Lavozdegalicia.es)
 
@@ -51,6 +63,8 @@ Source: [News API](https://newsapi.org/)
 - [Pet Cats Are Contracting Bird Flu - Videos from The Weather Channel](https://weather.com/health/cold-flu/video/pet-cats-bird-flu-humans) (The Weather Channel)
 
 ## 25-8 (dengue)
+
+- [Casa livre de mosquitos: medidas para eliminar o Aedes aegypti](https://casa.abril.com.br/minha-casa/casa-livre-de-mosquitos-medidas-para-eliminar-o-aedes-aegypti) (Abril.com.br)
 
 - [Farmacêutico ensina receita de repelente natural com ervas medicinais](https://www.metropoles.com/colunas/claudia-meireles/farmaceutico-ensina-receita-de-repelente-natural-com-ervas-medicinais) (Metropoles.com)
 
@@ -2166,8 +2180,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Young man dies of rabies at Seti provincial hospital](https://dineshkhabar.com/article/117684) (Dineshkhabar.com)
 
-- [Solana’s PNUT Prodigy Picks DLUME as 2025’s Next Big Thing – Could You Be Next?](https://zycrypto.com/solanas-pnut-prodigy-picks-dlume-as-2025s-next-big-thing-could-you-be-next/) (ZyCrypto)
-
 ## 25-2 (pertussis)
 
 - [Tos ferina: qué sabemos sobre el incremento de casos ocasionados por la bacteria Bordetella pertussis](https://www.milenio.com/ciencia-y-salud/aumentan-casos-bordetella-pertussi-tos-ferina) (Milenio)
@@ -2429,8 +2441,6 @@ Source: [News API](https://newsapi.org/)
 - [Cell wall components of gut commensal bacteria stimulate peritrophic matrix formation in malaria vector mosquitoes through activation of the IMD pathway](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002967) (Plos.org)
 
 - [Text (actual latters) change when saving to PDF from Word. WTF?](https://ask.metafilter.com/383833/Text-actual-latters-change-when-saving-to-PDF-from-Word-WTF) (Metafilter.com)
-
-- [Über die Umweltgeschichte Afrikas](https://www.faz.net/aktuell/feuilleton/bilder-und-zeiten/krankheiten-und-der-kolonialismus-ueber-die-umweltgeschichte-afrikas-110208640.html) (Faz.net)
 
 ## 25-2 (hpai)
 
@@ -2726,10 +2736,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Op-Ed: Collapsing health systems vs major flu outbreaks in US, UK and Europe](https://www.digitaljournal.com/world/op-ed-collapsing-health-systems-vs-major-flu-outbreaks-in-us-uk-and-europe/article) (Digital Journal)
 
-- [नागपुर में बर्ड फ्लू से 3 बाघ और एक तेंदुए की मौत, टाइगर रिजर्व और रेस्क्यू सेंटर्स के लिए अलर्ट जारी](https://www.aajtak.in/india/maharashtra/story/tiger-and-leopard-died-of-bird-flu-h5n1-virus-in-nagpur-rescue-centre-alert-issued-ntc-dskc-2136699-2025-01-05) (Aajtak.in)
-
-- [Amid HMPV virus outbreak in China, three tigers and a leopard die of highly infectious avian flu H5N1 virus in Nagpur](https://economictimes.indiatimes.com/news/india/amid-hmpv-virus-outbreak-in-china-three-tigers-and-a-leopard-die-of-highly-pathogenic-avian-flu-h5n1-virus/articleshow/116963521.cms) (The Times of India)
-
 ## 25-2 (dengue)
 
 - [Marketing faz bem, mas não resolve inflação, dengue, falta de gestão nem Congresso guloso](https://www.estadao.com.br/politica/eliane-cantanhede/marketing-faz-bem-mas-nao-resolve-inflacao-dengue-falta-de-gestao-nem-congresso-guloso/) (Estadao.com.br)
@@ -2809,10 +2815,6 @@ Source: [News API](https://newsapi.org/)
 - [Migrantes que cruzan el Darién, con salud comprometida: OPS](https://www.jornada.com.mx/2025/01/06/politica/006n2pol) (Jornada.com.mx)
 
 - [Guerrero cierra el 2024 con casi siete mil casos de dengue y 61 muertes](https://www.excelsior.com.mx/nacional/dengue-guerrero-cierra-el-2024-con-casi-siete-mil-casos-y-61-muertes/1692712) (Excelsior.com.mx)
-
-- [4 fatos indispensáveis sobre a dengue que você precisa conhecer](https://catracalivre.com.br/saude-bem-estar/fatos-dengue-precisa-saber/) (Catracalivre.com.br)
-
-- [En plena temporada: qué medidas preventivas hay en la costa para evitar aumentos de casos de dengue](https://www.lanacion.com.ar/sociedad/en-plena-temporada-que-medidas-preventivas-hay-en-la-costa-para-evitar-aumentos-de-casos-de-dengue-nid05012025/) (La Nacion)
 
 ## 25-2 (chikungunya)
 
