@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 6
-- **Last harvest:** 2025-02-17 19:05
-- **Most recent article:** 2025-02-16 18:36:01
+- **New articles in last harvest:** 10
+- **Last harvest:** 2025-02-18 07:06
+- **Most recent article:** 2025-02-17 06:02:50
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-2 | 25-3 | 25-4 | 25-5 | 25-6 | 25-7 | 25-8 | Total |
 |--|-|-|-|-|-|-|-|-|
-| h5n1 | 127 | 65 | 31 | 51 | 72 | 54 | 5 | 405 |
+| h5n1 | 129 | 65 | 31 | 51 | 72 | 55 | 9 | 412 |
 | mpox | 91 | 34 | 23 | 22 | 28 | 18 | 0 | 216 |
-| dengue | 39 | 29 | 37 | 24 | 34 | 37 | 2 | 202 |
-| measles | 6 | 9 | 10 | 13 | 24 | 69 | 4 | 135 |
-| malaria | 28 | 18 | 19 | 30 | 25 | 12 | 1 | 133 |
-| hpai | 18 | 12 | 11 | 6 | 3 | 9 | 0 | 59 |
+| dengue | 41 | 29 | 37 | 24 | 34 | 37 | 3 | 205 |
+| measles | 6 | 9 | 10 | 13 | 24 | 72 | 4 | 138 |
+| malaria | 29 | 18 | 19 | 30 | 25 | 12 | 1 | 134 |
+| hpai | 18 | 12 | 11 | 6 | 3 | 9 | 1 | 60 |
 | chikungunya | 7 | 7 | 10 | 9 | 8 | 5 | 0 | 46 |
 | zika | 15 | 5 | 2 | 8 | 6 | 2 | 0 | 38 |
-| rabies | 1 | 6 | 7 | 6 | 4 | 5 | 0 | 29 |
-| meningitis | 0 | 2 | 3 | 8 | 2 | 12 | 1 | 28 |
+| rabies | 2 | 6 | 7 | 6 | 4 | 5 | 0 | 30 |
+| meningitis | 0 | 2 | 3 | 8 | 2 | 12 | 2 | 29 |
 | yersinia | 3 | 2 | 0 | 0 | 0 | 5 | 0 | 10 |
 | typhoid | 0 | 4 | 0 | 0 | 2 | 3 | 0 | 9 |
 | pertussis | 2 | 0 | 1 | 0 | 3 | 3 | 0 | 9 |
@@ -33,6 +33,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 25-8 (meningitis)
+
+- [Woman Returns From Vacation With Headache, Strange Leg Symptoms, Doctors Find Brain Worms](https://www.medicaldaily.com/woman-returns-vacation-headache-strange-leg-symptoms-doctors-find-brain-worms-473126) (Medical Daily)
 
 - [Alarm in Pyrgos after the death of a 54 year old woman – Serious indications of a meningitis case](https://en.protothema.gr/2025/02/16/alarm-in-pyrgos-after-the-death-of-a-54-year-old-woman-serious-indications-of-a-meningitis-case/) (Protothema.gr)
 
@@ -50,7 +52,19 @@ Source: [News API](https://newsapi.org/)
 
 - [Africa's progress against malaria in "jeopardy" amid need for renewed commitments: officials](https://www.thestar.com.my/news/world/2025/02/17/africa039s-progress-against-malaria-in-jeopardy-amid-need-for-renewed-commitments-officials) (The Star Online)
 
+## 25-8 (hpai)
+
+- [Bird Flu Cases in Household Cats Spark Raw Pet Food Warning](https://www.newsweek.com/bird-flu-cases-household-cat-raw-pet-food-warning-2031986) (Newsweek)
+
 ## 25-8 (h5n1)
+
+- [Bird Flu Cases in Household Cats Spark Raw Pet Food Warning](https://www.newsweek.com/bird-flu-cases-household-cat-raw-pet-food-warning-2031986) (Newsweek)
+
+- [В США ветеринары начали заражаться птичьим гриппом](https://www.ferra.ru/news/techlife/v-ssha-veterinary-nachali-zarazhatsya-ptichim-grippom-16-02-2025.htm) (Ferra.ru)
+
+- [House Cats With Bird Flu Could Pose a Risk to Public Health](https://abcnews.go.com/Health/wireStory/house-cats-bird-flu-pose-risk-public-health-118664274) (ABC News)
+
+- [Grippe aviaire : face à l’aggravation de l’épizootie, les Etats-Unis vont importer des œufs turcs](https://www.lemonde.fr/economie/article/2025/02/16/grippe-aviaire-face-a-l-aggravation-de-l-epizootie-les-etats-unis-vont-importer-des-ufs-turcs_6549975_3234.html) (Le Monde)
 
 - [Fågelinfluensan fortsätter spridas – ägg ransoneras i USA](https://www.expressen.se/nyheter/varlden/fagelinfluensan-fortsatter-spridas-agg-ransoneras-i-usa/) (Expressen.se)
 
@@ -63,6 +77,8 @@ Source: [News API](https://newsapi.org/)
 - [Pet Cats Are Contracting Bird Flu - Videos from The Weather Channel](https://weather.com/health/cold-flu/video/pet-cats-bird-flu-humans) (The Weather Channel)
 
 ## 25-8 (dengue)
+
+- ["The White Lotus": 3e saison semée d’embûches](https://www.lavenir.net/culture/2025/02/17/the-white-lotus-3e-saison-semee-dembuches-KVSIEUWV6BEZVEIDW4ZOKTTX6M/) (Lavenir.net)
 
 - [Casa livre de mosquitos: medidas para eliminar o Aedes aegypti](https://casa.abril.com.br/minha-casa/casa-livre-de-mosquitos-medidas-para-eliminar-o-aedes-aegypti) (Abril.com.br)
 
@@ -186,6 +202,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles Outbreak Hits Texas As Anti Vaxxer Takes Over Nation's Health](https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DxWlwGAnUIHs) (YouTube)
 
+- [Health officials declare measles outbreak in Lea County](https://www.abqjournal.com/news/article_3a2dc7b2-eb28-11ef-bfab-6bf52272992b.html) (Albuquerque Journal)
+
 - [TWiV 1192: Clinical update with Dr. Daniel Griffin](https://www.microbe.tv/twiv/twiv-1192/) (Microbe.tv)
 
 - [Measles Outbreak in Texas County With Low Vaccination Rate Multiplies, More Cases 'Likely'](https://www.medicaldaily.com/measles-outbreak-texas-county-low-vaccination-rate-multiplies-more-cases-likely-473123) (Medical Daily)
@@ -213,6 +231,10 @@ Source: [News API](https://newsapi.org/)
 - [Nearly 50 Texans infected with measles in growing outbreak](https://www.digitaljournal.com/life/nearly-50-texans-infected-with-measles-in-growing-outbreak/article) (Digital Journal)
 
 - [The Texas Measles Outbreak Is A Warning. Wait Until More Anti-Vax Plans Kick In](https://www.forbes.com/sites/judystone/2025/02/14/the-texas-measles-outbreak-is-a-warning-wait-until-more-anti-vax-plans-kick-in/) (Forbes)
+
+- [Texas measles outbreak 2025: Dozens of cases reported in last 3 weeks](https://www.fox4news.com/news/texas-measles-outbreak-2025-feb-14) (FOX 4 News)
+
+- [West Texas measles outbreak doubles to 48 cases | CNN](https://www.cnn.com/2025/02/14/health/measles-texas-outbreak/index.html) (CNN)
 
 - [Health Officials Report Doubling Of Measles Cases In Texas](https://www.forbes.com/sites/davewessner/2025/02/14/health-officials-report-doubling-of-measles-cases-in-texas/) (Forbes)
 
@@ -397,6 +419,8 @@ Source: [News API](https://newsapi.org/)
 - [El virus de la gripe aviar altamente patógena se expande por el mar de Weddell](https://www.montevideo.com.uy/Salud/El-virus-de-la-gripe-aviar-altamente-patogena-se-expande-por-el-mar-de-Weddell-uc914972) (Montevideo.com.uy)
 
 - [Cena zlata sa blíži k 3 000 USD za uncu!](https://pskakal2.blog.pravda.sk/2025/02/14/cena-zlata-sa-blizi-k-3-000-usd-za-uncu/) (Pravda.sk)
+
+- [Killing H5N1 in waste milk -- an alternative to pasteurization](https://www.sciencedaily.com/releases/2025/02/250214003226.htm) (Science Daily)
 
 - [Bird flu infections in dairy cows are more widespread than we thought, according to a new CDC study (Susanne Rust/Los Angeles Times)](https://www.memeorandum.com/250213/p191) (Memeorandum.com)
 
@@ -2180,6 +2204,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Young man dies of rabies at Seti provincial hospital](https://dineshkhabar.com/article/117684) (Dineshkhabar.com)
 
+- [Solana’s PNUT Prodigy Picks DLUME as 2025’s Next Big Thing – Could You Be Next?](https://zycrypto.com/solanas-pnut-prodigy-picks-dlume-as-2025s-next-big-thing-could-you-be-next/) (ZyCrypto)
+
 ## 25-2 (pertussis)
 
 - [Tos ferina: qué sabemos sobre el incremento de casos ocasionados por la bacteria Bordetella pertussis](https://www.milenio.com/ciencia-y-salud/aumentan-casos-bordetella-pertussi-tos-ferina) (Milenio)
@@ -2441,6 +2467,8 @@ Source: [News API](https://newsapi.org/)
 - [Cell wall components of gut commensal bacteria stimulate peritrophic matrix formation in malaria vector mosquitoes through activation of the IMD pathway](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002967) (Plos.org)
 
 - [Text (actual latters) change when saving to PDF from Word. WTF?](https://ask.metafilter.com/383833/Text-actual-latters-change-when-saving-to-PDF-from-Word-WTF) (Metafilter.com)
+
+- [Über die Umweltgeschichte Afrikas](https://www.faz.net/aktuell/feuilleton/bilder-und-zeiten/krankheiten-und-der-kolonialismus-ueber-die-umweltgeschichte-afrikas-110208640.html) (Faz.net)
 
 ## 25-2 (hpai)
 
@@ -2736,6 +2764,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Op-Ed: Collapsing health systems vs major flu outbreaks in US, UK and Europe](https://www.digitaljournal.com/world/op-ed-collapsing-health-systems-vs-major-flu-outbreaks-in-us-uk-and-europe/article) (Digital Journal)
 
+- [नागपुर में बर्ड फ्लू से 3 बाघ और एक तेंदुए की मौत, टाइगर रिजर्व और रेस्क्यू सेंटर्स के लिए अलर्ट जारी](https://www.aajtak.in/india/maharashtra/story/tiger-and-leopard-died-of-bird-flu-h5n1-virus-in-nagpur-rescue-centre-alert-issued-ntc-dskc-2136699-2025-01-05) (Aajtak.in)
+
+- [Amid HMPV virus outbreak in China, three tigers and a leopard die of highly infectious avian flu H5N1 virus in Nagpur](https://economictimes.indiatimes.com/news/india/amid-hmpv-virus-outbreak-in-china-three-tigers-and-a-leopard-die-of-highly-pathogenic-avian-flu-h5n1-virus/articleshow/116963521.cms) (The Times of India)
+
 ## 25-2 (dengue)
 
 - [Marketing faz bem, mas não resolve inflação, dengue, falta de gestão nem Congresso guloso](https://www.estadao.com.br/politica/eliane-cantanhede/marketing-faz-bem-mas-nao-resolve-inflacao-dengue-falta-de-gestao-nem-congresso-guloso/) (Estadao.com.br)
@@ -2815,6 +2847,10 @@ Source: [News API](https://newsapi.org/)
 - [Migrantes que cruzan el Darién, con salud comprometida: OPS](https://www.jornada.com.mx/2025/01/06/politica/006n2pol) (Jornada.com.mx)
 
 - [Guerrero cierra el 2024 con casi siete mil casos de dengue y 61 muertes](https://www.excelsior.com.mx/nacional/dengue-guerrero-cierra-el-2024-con-casi-siete-mil-casos-y-61-muertes/1692712) (Excelsior.com.mx)
+
+- [4 fatos indispensáveis sobre a dengue que você precisa conhecer](https://catracalivre.com.br/saude-bem-estar/fatos-dengue-precisa-saber/) (Catracalivre.com.br)
+
+- [En plena temporada: qué medidas preventivas hay en la costa para evitar aumentos de casos de dengue](https://www.lanacion.com.ar/sociedad/en-plena-temporada-que-medidas-preventivas-hay-en-la-costa-para-evitar-aumentos-de-casos-de-dengue-nid05012025/) (La Nacion)
 
 ## 25-2 (chikungunya)
 
