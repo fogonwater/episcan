@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 20
-- **Last harvest:** 2025-02-18 19:05
-- **Most recent article:** 2025-02-17 19:00:40
+- **New articles in last harvest:** 17
+- **Last harvest:** 2025-02-19 07:06
+- **Most recent article:** 2025-02-18 06:00:52
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-2 | 25-3 | 25-4 | 25-5 | 25-6 | 25-7 | 25-8 | Total |
 |--|-|-|-|-|-|-|-|-|
-| h5n1 | 127 | 65 | 31 | 51 | 72 | 55 | 17 | 418 |
-| mpox | 91 | 34 | 23 | 22 | 28 | 18 | 4 | 220 |
-| dengue | 39 | 29 | 37 | 24 | 34 | 37 | 6 | 206 |
-| measles | 6 | 9 | 10 | 13 | 24 | 72 | 6 | 140 |
-| malaria | 28 | 18 | 19 | 30 | 25 | 12 | 1 | 133 |
-| hpai | 18 | 12 | 11 | 6 | 3 | 9 | 1 | 60 |
+| h5n1 | 129 | 65 | 31 | 51 | 72 | 55 | 17 | 420 |
+| mpox | 91 | 34 | 23 | 22 | 28 | 18 | 5 | 221 |
+| dengue | 41 | 29 | 37 | 24 | 34 | 37 | 7 | 209 |
+| measles | 6 | 9 | 10 | 13 | 24 | 72 | 16 | 150 |
+| malaria | 29 | 18 | 19 | 30 | 25 | 12 | 2 | 135 |
+| hpai | 18 | 12 | 11 | 6 | 3 | 9 | 2 | 61 |
 | chikungunya | 7 | 7 | 10 | 9 | 8 | 5 | 0 | 46 |
-| zika | 15 | 5 | 2 | 8 | 6 | 2 | 2 | 40 |
+| zika | 15 | 5 | 2 | 8 | 6 | 2 | 3 | 41 |
+| rabies | 2 | 6 | 7 | 6 | 4 | 5 | 1 | 31 |
 | meningitis | 0 | 2 | 3 | 8 | 2 | 12 | 3 | 30 |
-| rabies | 1 | 6 | 7 | 6 | 4 | 5 | 0 | 29 |
+| pertussis | 2 | 0 | 1 | 0 | 3 | 3 | 1 | 10 |
 | yersinia | 3 | 2 | 0 | 0 | 0 | 5 | 0 | 10 |
 | typhoid | 0 | 4 | 0 | 0 | 2 | 3 | 0 | 9 |
-| pertussis | 2 | 0 | 1 | 0 | 3 | 3 | 0 | 9 |
 | leptospirosis | 0 | 1 | 2 | 0 | 1 | 0 | 0 | 4 |
 
 
@@ -34,11 +34,23 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-8 (zika)
 
+- [Diante de Nísia, senadora critica veto a pensão para vítimas do zika vírus](https://veja.abril.com.br/coluna/radar/diante-de-nisia-senadora-critica-veto-a-pensao-para-vitimas-do-zika-virus) (Abril.com.br)
+
 - [Remédio contra insuficiência cardíaca pode ajudar no combate à zika](https://www.metropoles.com/saude/remedio-ajudar-a-no-combate-a-zika) (Metropoles.com)
 
 - [Pesquisa mostra efeitos promissores de remédio contra insuficiência cardíaca no combate ao vírus Zika](https://www.terra.com.br/noticias/pesquisa-mostra-efeitos-promissores-de-remedio-contra-insuficiencia-cardiaca-no-combate-ao-virus-zika,e50b1f73363e606b6a8d487e5e172292zornfuys.html) (Terra.com.br)
 
+## 25-8 (rabies)
+
+- [Elon Musk: I Was At A Friend's Birthday Party, The Reaction To Trump Was Like Methamphetamine And Rabies](https://www.realclearpolitics.com/video/2025/02/17/elon_musk_i_was_at_a_friends_birthday_party_the_reaction_to_trump_was_like_methamphetamine_and_rabies.html) (RealClearPolitics)
+
+## 25-8 (pertussis)
+
+- [Инфекционист предостерег о вызывающих коклюш бактериях](https://iz.ru/1840550/2025-02-18/infekcionist-predostereg-o-vyzyvausih-koklus-bakteriah) (Iz.ru)
+
 ## 25-8 (mpox)
+
+- [Ο ΠΟΥ καλεί μέλη να καταλήξουν σε συμφωνία για αντιμετώπιση πανδημιών «τώρα ή ποτέ»](https://dialogos.com.cy/o-poy-kalei-meli-na-katalixoyn-se-symfonia-gia-antimetopisi-pandimion-tora-i-pote/) (Dialogos.com.cy)
 
 - [Ο ΠΟΥ καλεί τις χώρες μέλη του να καταλήξουν σε συμφωνία για την αντιμετώπιση των πανδημιών «τώρα ή ποτέ»](https://www.skai.gr/news/world/pou-kalei-tis-xores-meli-tou-na-kataliksoun-se-symfonia-gia-tin-antimetopisi-ton-pandimion) (Skai.gr)
 
@@ -58,6 +70,26 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-8 (measles)
 
+- [Texas measles outbreak rises to 48 cases. It's the state's worst in nearly 30 years](https://www.ksat.com/news/texas/2025/02/18/texas-measles-outbreak-rises-to-48-cases-its-the-states-worst-in-nearly-30-years/) (KSAT San Antonio)
+
+- [UT Health infectious disease expert explains emergence of measles in Texas](https://www.kltv.com/video/2025/02/17/ut-health-infectious-disease-expert-explains-emergence-measles-texas/) (KLTV)
+
+- ['This doesn’t have to keep happening': WSJ editorial board begs Trump ally to change](https://www.rawstory.com/rfk-jr-2671170099/) (Raw Story)
+
+- [WSJ asks Kennedy to cast aside 'antivax hooey' amid Texas measles outbreak (Joseph Choi/The Hill)](https://www.memeorandum.com/250217/p99) (Memeorandum.com)
+
+- [13 people hospitalized as ongoing measles outbreak in west Texas rises to 48 cases](https://abc13.com/post/13-people-hospitalized-ongoing-measles-outbreak-west-texas-rises-48-cases/15922782/) (KTRK-TV)
+
+- [13 people hospitalized as ongoing measles outbreak in west Texas rises to 48 cases](https://abc7ny.com/post/13-people-hospitalized-ongoing-measles-outbreak-west-texas-rises-48-cases/15922782/) (WABC-TV)
+
+- [Measles outbreak in Texas rises to at least 48 cases - the state's worst in nearly 30 years (Sara Moniuszko/CBS News)](https://www.memeorandum.com/250217/p67) (Memeorandum.com)
+
+- [Measles outbreak in Texas rises to 48 cases and counting](https://www.cbsnews.com/news/texas-measles-outbreak-what-to-know/) (CBS News)
+
+- [Measles case reported in B.C.’s Lower Mainland, linked to international travel - BC | Globalnews.ca](https://globalnews.ca/news/11022209/lower-mainland-measles-case-exposure/) (Global News)
+
+- [Measles cases are rising in US as Texas outbreak grows. Should we be concerned?](https://abcnews.go.com/Health/measles-cases-rising-us-texas-outbreak-grows-concerned/story?id=118892122) (ABC News)
+
 - [The consequences of declining vaccination rates](https://www.wbur.org/onpoint/2025/02/17/consequences-declining-vaccination-rates-polio) (WBUR)
 
 - [Measles outbreak in Texas raises concerns](https://www.cbsnews.com/video/measles-outbreak-in-texas-raises-concerns/) (CBS News)
@@ -72,9 +104,13 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-8 (malaria)
 
+- [Potential new target for malaria discovered](https://www.nih.gov/news-events/nih-research-matters/potential-new-target-malaria-discovered) (National Institutes of Health)
+
 - [Africa's progress against malaria in "jeopardy" amid need for renewed commitments: officials](https://www.thestar.com.my/news/world/2025/02/17/africa039s-progress-against-malaria-in-jeopardy-amid-need-for-renewed-commitments-officials) (The Star Online)
 
 ## 25-8 (hpai)
+
+- [美蛋荒持續、蛋價飛漲 聯準會面臨抗通膨難題](https://finance.technews.tw/2025/02/18/egg-prices-soar-fed-faces-a-challenge-in-fighting-inflation/) (Technews.tw)
 
 - [Bird Flu Cases in Household Cats Spark Raw Pet Food Warning](https://www.newsweek.com/bird-flu-cases-household-cat-raw-pet-food-warning-2031986) (Newsweek)
 
@@ -115,6 +151,8 @@ Source: [News API](https://newsapi.org/)
 - [Pet Cats Are Contracting Bird Flu - Videos from The Weather Channel](https://weather.com/health/cold-flu/video/pet-cats-bird-flu-humans) (The Weather Channel)
 
 ## 25-8 (dengue)
+
+- [PANAYAM: Dr. Federico Luis Castillo, Dengue Control Coordinator, Mandaluyong City Health Office](https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DLHPKLUjkFo8) (YouTube)
 
 - [Sem doses a vencer, cidade de SP não vai ampliar faixa etária da vacinação contra a dengue](https://www.terra.com.br/vida-e-estilo/saude/sem-doses-a-vencer-cidade-de-sp-nao-vai-ampliar-faixa-etaria-da-vacinacao-contra-a-dengue,e7940d2f1f7eef896eafb019af8ab44dflbv8ltf.html) (Terra.com.br)
 
@@ -2248,6 +2286,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Young man dies of rabies at Seti provincial hospital](https://dineshkhabar.com/article/117684) (Dineshkhabar.com)
 
+- [Solana’s PNUT Prodigy Picks DLUME as 2025’s Next Big Thing – Could You Be Next?](https://zycrypto.com/solanas-pnut-prodigy-picks-dlume-as-2025s-next-big-thing-could-you-be-next/) (ZyCrypto)
+
 ## 25-2 (pertussis)
 
 - [Tos ferina: qué sabemos sobre el incremento de casos ocasionados por la bacteria Bordetella pertussis](https://www.milenio.com/ciencia-y-salud/aumentan-casos-bordetella-pertussi-tos-ferina) (Milenio)
@@ -2509,6 +2549,8 @@ Source: [News API](https://newsapi.org/)
 - [Cell wall components of gut commensal bacteria stimulate peritrophic matrix formation in malaria vector mosquitoes through activation of the IMD pathway](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002967) (Plos.org)
 
 - [Text (actual latters) change when saving to PDF from Word. WTF?](https://ask.metafilter.com/383833/Text-actual-latters-change-when-saving-to-PDF-from-Word-WTF) (Metafilter.com)
+
+- [Über die Umweltgeschichte Afrikas](https://www.faz.net/aktuell/feuilleton/bilder-und-zeiten/krankheiten-und-der-kolonialismus-ueber-die-umweltgeschichte-afrikas-110208640.html) (Faz.net)
 
 ## 25-2 (hpai)
 
@@ -2804,6 +2846,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Op-Ed: Collapsing health systems vs major flu outbreaks in US, UK and Europe](https://www.digitaljournal.com/world/op-ed-collapsing-health-systems-vs-major-flu-outbreaks-in-us-uk-and-europe/article) (Digital Journal)
 
+- [नागपुर में बर्ड फ्लू से 3 बाघ और एक तेंदुए की मौत, टाइगर रिजर्व और रेस्क्यू सेंटर्स के लिए अलर्ट जारी](https://www.aajtak.in/india/maharashtra/story/tiger-and-leopard-died-of-bird-flu-h5n1-virus-in-nagpur-rescue-centre-alert-issued-ntc-dskc-2136699-2025-01-05) (Aajtak.in)
+
+- [Amid HMPV virus outbreak in China, three tigers and a leopard die of highly infectious avian flu H5N1 virus in Nagpur](https://economictimes.indiatimes.com/news/india/amid-hmpv-virus-outbreak-in-china-three-tigers-and-a-leopard-die-of-highly-pathogenic-avian-flu-h5n1-virus/articleshow/116963521.cms) (The Times of India)
+
 ## 25-2 (dengue)
 
 - [Marketing faz bem, mas não resolve inflação, dengue, falta de gestão nem Congresso guloso](https://www.estadao.com.br/politica/eliane-cantanhede/marketing-faz-bem-mas-nao-resolve-inflacao-dengue-falta-de-gestao-nem-congresso-guloso/) (Estadao.com.br)
@@ -2883,6 +2929,10 @@ Source: [News API](https://newsapi.org/)
 - [Migrantes que cruzan el Darién, con salud comprometida: OPS](https://www.jornada.com.mx/2025/01/06/politica/006n2pol) (Jornada.com.mx)
 
 - [Guerrero cierra el 2024 con casi siete mil casos de dengue y 61 muertes](https://www.excelsior.com.mx/nacional/dengue-guerrero-cierra-el-2024-con-casi-siete-mil-casos-y-61-muertes/1692712) (Excelsior.com.mx)
+
+- [4 fatos indispensáveis sobre a dengue que você precisa conhecer](https://catracalivre.com.br/saude-bem-estar/fatos-dengue-precisa-saber/) (Catracalivre.com.br)
+
+- [En plena temporada: qué medidas preventivas hay en la costa para evitar aumentos de casos de dengue](https://www.lanacion.com.ar/sociedad/en-plena-temporada-que-medidas-preventivas-hay-en-la-costa-para-evitar-aumentos-de-casos-de-dengue-nid05012025/) (La Nacion)
 
 ## 25-2 (chikungunya)
 
