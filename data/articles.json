@@ -1,8 +1,530 @@
 {
-  "last_updated": "2025-02-19 07:06",
-  "count_articles_total": 1319,
-  "count_articles_new": 17,
+  "last_updated": "2025-02-19 19:05",
+  "count_articles_total": 1342,
+  "count_articles_new": 29,
   "articles": [
+    {
+      "id": 18394,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "JD Supra",
+      "author": "Goodwin",
+      "title": "UK\u2019s MHRA Grants Marketing Authorization for Chikungunya Vaccine",
+      "description": "On February 5, 2025 Valneva SE (\u201cValneva\u201d) announced that the United Kingdom\u2019s Medicines and Healthcare products Regulatory Agency (MHRA) granted...",
+      "url": "https://www.jdsupra.com/legalnews/uk-s-mhra-grants-marketing-7155248/",
+      "urlToImage": "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15363_1913.jpg",
+      "publishedAt": "2025-02-18 18:32:41",
+      "content": "On February 5, 2025 Valneva SE (\u201cValneva\u201d) announced that the United Kingdom\u2019s Medicines and Healthcare products Regulatory Agency (MHRA) granted marketing authorization for Valneva\u2019s chikungunya vac\u2026 [+1005 chars]",
+      "retrievedAt": "2025-02-19 19:05:57.429273",
+      "internal_id": "4048efb4c939b7ff07928ce8101500466b620a804b110f44eff584424ef3a6d7",
+      "publishedAtLabel": "Feb 18"
+    },
+    {
+      "id": 18376,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "KCBD",
+      "author": "Chelsea Collinsworth",
+      "title": "New data shows measles cases have spread to Terry County",
+      "description": "Health officials are continuing tracking more measles cases on the South Plains. New data from the State Health Department shows the disease has now spread to Terry County.",
+      "url": "https://www.kcbd.com/2025/02/18/new-data-shows-measles-cases-have-spread-terry-county/",
+      "urlToImage": "https://gray-kcbd-prod.gtv-cdn.com/resizer/v2/FHBYGRPBEFAW5JLZVDUWVFG7V4.png?auth=71389c6fd253ea009142bf28dde4cb80ebee629a01877bd473b53512bb276413&width=1200&height=600&smart=true",
+      "publishedAt": "2025-02-18 18:19:39",
+      "content": "LUBBOCK, Texas (KCBD) - Health officials are continuing tracking more measles cases on the South Plains. New data from the State Health Department shows the disease has now spread to Terry County. \u2026 [+884 chars]",
+      "retrievedAt": "2025-02-19 19:05:54.759510",
+      "internal_id": "39cced5dd3968cb15a12df5a6846b46c0ba771faf7c605d5b82202970529b5e7",
+      "publishedAtLabel": "Feb 18"
+    },
+    {
+      "id": 18375,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Neha Mukherjee",
+      "title": "West Texas measles outbreak grows to 58 cases, including some vaccinated individuals | CNN",
+      "description": "The number of measles cases linked to an outbreak in West Texas has grown to 58, according to the Texas Department of State Health Services.",
+      "url": "https://www.cnn.com/2025/02/18/health/texas-measles-outbreak/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2019-03-21t234519z-132303041-rc1c61b11f00-rtrmadp-3-usa-measles.JPG?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2025-02-18 18:10:48",
+      "content": "The number of measles cases linked to an outbreak in West Texas has grown to 58, according to the Texas Department of State Health Services. Most of the cases are centered in Gaines County, which is\u2026 [+2701 chars]",
+      "retrievedAt": "2025-02-19 19:05:54.752284",
+      "internal_id": "5b4186f5c3188dbbe630537bc702516428af697fdf28d5d523db0f5946e75e11",
+      "publishedAtLabel": "Feb 18"
+    },
+    {
+      "id": 18391,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "3news.com",
+      "author": "Sarah Apenkroh",
+      "title": "Cholera outbreak: Keep your environment clean ahead of the rains \u2013 Health Minister urges",
+      "description": "The Minister of Health, Kwabena Mintah Akandor, is alerting the general populace of the need to keep their environments clean ahead of the raining season which commences in few weeks. The Ministers\u2019 call follows the outbreak of cholera and meningitis in the c\u2026",
+      "url": "https://3news.com/news/cholera-outbreak-keep-your-environment-clean-ahead-of-the-rains-health-minister-urges/",
+      "urlToImage": "https://3news.com/wp-content/uploads/2025/02/WhatsApp-Image-2025-02-18-at-14.29.01.jpeg",
+      "publishedAt": "2025-02-18 18:07:19",
+      "content": "The Minister of Health, Kwabena Mintah Akandor, is alerting the general populace of the need to keep their environments clean ahead of the raining season which commences in few weeks. The Ministers \u2026 [+1923 chars]",
+      "retrievedAt": "2025-02-19 19:05:56.546501",
+      "internal_id": "f4d5042e5fdafd729f03a08b98c4244bc7ff383ca6ed387c134833247a474810",
+      "publishedAtLabel": "Feb 18"
+    },
+    {
+      "id": 18371,
+      "query": [
+        "measles"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Jordan King",
+      "title": "Texas Measles Outbreak: Everything We Know",
+      "description": "A total of 49 measles cases have been identified in the South Plains region of northern Texas",
+      "url": "https://www.newsweek.com/texas-measles-outbreak-2032747",
+      "urlToImage": "https://d.newsweek.com/en/full/2590640/measles-shot.jpg",
+      "publishedAt": "2025-02-18 17:50:06",
+      "content": "An ongoing measles outbreak in rural Texas is the worst the state has seen in the last 30 years\u2014here is everything we know about it. Texas Outbreak Latest A total of 48 measles cases had been ident\u2026 [+4461 chars]",
+      "retrievedAt": "2025-02-19 19:05:54.658212",
+      "internal_id": "27256c2df3173d9fa2196abd096714a1812654b4779b50077279173159db0498",
+      "publishedAtLabel": "Feb 18"
+    },
+    {
+      "id": 18373,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "FOX 4 News",
+      "author": "Amber Kite",
+      "title": "Texas Measles outbreak 2025: 58 cases across 5 counties in 3 weeks",
+      "description": "Texas Measles outbreak 2025: 58 cases across 5 counties in 3 weeksfox4news.com",
+      "url": "https://www.fox4news.com/news/texas-measles-outbreak-2025-58-cases-across-5-counties-3-weeks",
+      "urlToImage": "https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2019/08/1280/720/d39f5a3f-GETTY-measles_1532439789069_5841558_ver1.0_640_360.png?ve=1&tl=1",
+      "publishedAt": "2025-02-18 17:30:36",
+      "content": "TEXAS - A measles outbreak in Texas' South Plains region continues to spread. In the last three weeks, 58 cases of measles have been identified across five counties, sending 13 patients to the hospi\u2026 [+3911 chars]",
+      "retrievedAt": "2025-02-19 19:05:54.731294",
+      "internal_id": "72e84ca93540fb16f6838d3e87aacada4e1923efdf618f9b25cad27edb9f0cc8",
+      "publishedAtLabel": "Feb 18"
+    },
+    {
+      "id": 18367,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Gizmodo.com",
+      "author": "Ed Cara",
+      "title": "Measles Is Rampaging Through Rural Texas: Dozens Sick, Hundreds Feared Infected",
+      "description": "The highly contagious virus has infected dozens of people so far, if not more, leaving at least 13 hospitalized.",
+      "url": "https://gizmodo.com/measles-is-rampaging-through-rural-texas-dozens-sick-hundreds-feared-infected-2000564981",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/02/measles-rash.jpg",
+      "publishedAt": "2025-02-18 17:20:26",
+      "content": "An outbreak of measles is currently raging in Texas. Health officials have documented dozens of cases over the past month, but the true tally may be substantially higher. On Friday, the Texas Depart\u2026 [+3156 chars]",
+      "retrievedAt": "2025-02-19 19:05:54.593061",
+      "internal_id": "e3c4f9c9ff8b4f5e760d0ccf4e7eb79bdce007372878eeb4f30bb7e981fb59e2",
+      "publishedAtLabel": "Feb 18"
+    },
+    {
+      "id": 18369,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Dave Wessner, Contributor, \n Dave Wessner, Contributor\n https://www.forbes.com/sites/coronavirusfrontlines/people/davewessner/",
+      "title": "Measles Outbreak Continues In Texas. Officials Now Report 58 Cases",
+      "description": "A measles outbreak continues in Texas, with 58 cases now reported. Most of the cases are in children and people who are not vaccinated.",
+      "url": "https://www.forbes.com/sites/davewessner/2025/02/18/measles-outbreak-continues-in-texas-officials-now-report-58-cases/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67af94342b9fd564a4f6bcec/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-02-18 17:14:31",
+      "content": "A measles outbreak in Texas continues. Officials now report 58 cases, most in young children and ... [+] most ion unvaccinated people. getty The number of cases of measles has increased to 58 in th\u2026 [+5138 chars]",
+      "retrievedAt": "2025-02-19 19:05:54.614438",
+      "internal_id": "1c098ae75862db1c19b0a7afe66edb65feb60e628ebac6ef2367a6f842a035ab",
+      "publishedAtLabel": "Feb 18"
+    },
+    {
+      "id": 18377,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "time",
+      "source_name": "Time",
+      "author": "Associated Press",
+      "title": "A Woman in Wyoming Is Hospitalized With Bird Flu",
+      "description": "An older woman in southeast Wyoming is hospitalized with bird flu, state health department officials said.",
+      "url": "https://time.com/7258188/bird-flu-wyoming-woman-exposed-flock/",
+      "urlToImage": "https://api.time.com/wp-content/uploads/2025/02/bird-flu-wyoming-woman-exposed-flock.jpg?quality=85&w=1024&h=628&crop=1",
+      "publishedAt": "2025-02-18 16:56:30",
+      "content": "An older woman in southeast Wyoming is hospitalized with bird flu, state health department officials said Friday. It's the state's first human case of Type A H5N1 influenza, which is spreading throu\u2026 [+1317 chars]",
+      "retrievedAt": "2025-02-19 19:05:55.481803",
+      "internal_id": "262330068f0c066ef211d5e6fe721c5e6835631092fb91deee2aaa15dcf17212",
+      "publishedAtLabel": "Feb 18"
+    },
+    {
+      "id": 18381,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ET Online",
+      "title": "Bird Flu jumps species in the U.S.: Scientists alarmed as virus spreads to cats, cows. Are humans next?",
+      "description": "A new strain of avian flu, H5N1, has spread to dairy cows and domestic cats in the U.S., with a dairy worker in Nevada testing positive for the virus. Scientists worry that the virus could mutate to allow human-to-human transmission. With flu season intensify\u2026",
+      "url": "https://economictimes.indiatimes.com/magazines/panache/bird-flu-jumps-species-in-the-u-s-scientists-alarmed-as-virus-spreads-to-cats-cows-are-humans-next/articleshow/118363774.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-118364055,width-1200,height-630,imgsize-50436,overlay-etpanache/articleshow.jpg",
+      "publishedAt": "2025-02-18 16:46:02",
+      "content": "The avian flu epidemic, which has devastated poultry worldwide for years, has now taken an alarming turn. In the U.S., a second strain of the H5N1 virus has spread from wild birds to dairy cows and d\u2026 [+4027 chars]",
+      "retrievedAt": "2025-02-19 19:05:55.606863",
+      "internal_id": "66aebb53f38ff88d5c6c389ca8e4dd448fb50637e628fab9ed091b592107a294",
+      "publishedAtLabel": "Feb 18"
+    },
+    {
+      "id": 18392,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Newser",
+      "author": "Jenn Gidman",
+      "title": "On the Medical Front, a 'Very Urgent' Need for Oxygen",
+      "description": "Oxygen is critical in a medical environment for a variety of patients\u2014from those going through surgical procedures to patients with pneumonia or other respiratory issues, chronic lung conditions, and infections like sepsis or malaria. The problem is, there's \u2026",
+      "url": "https://www.newser.com/story/364454/on-the-medical-front-a-very-urgent-need-for-oxygen.html",
+      "urlToImage": "https://img1-azrcdn.newser.com/image/1593408-12-20250218102347.jpeg",
+      "publishedAt": "2025-02-18 16:10:00",
+      "content": "The report published this week in the Lancet Global Health journal notes that fewer than one in three people who need medical oxygen receive it due to this \"invisible\" shortage. All together, upward \u2026 [+1576 chars]",
+      "retrievedAt": "2025-02-19 19:05:56.993039",
+      "internal_id": "32ac78a3e6da919d1f01287322698f279ad0b0066b15b08c08deab5d19d56980",
+      "publishedAtLabel": "Feb 18"
+    },
+    {
+      "id": 18372,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Wonkette.com",
+      "author": "Robyn Pennacchia",
+      "title": "Anti-Vaxxer Thinks He's A Big Hero For Refusing Heart Transplant",
+      "description": "Well, it's a choice.",
+      "url": "https://www.wonkette.com/p/anti-vaxxer-thinks-hes-a-big-hero",
+      "urlToImage": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9c175887-738a-48cd-b9a3-8d3559c5d1ea_2292x1354.png",
+      "publishedAt": "2025-02-18 16:06:30",
+      "content": "There are a lot of contradictions involved in the anti-vaccine movement. People who would rather watch their children die from measles than have autism. People who would rather die themselves than ge\u2026 [+5087 chars]",
+      "retrievedAt": "2025-02-19 19:05:54.677378",
+      "internal_id": "2525fc305a1b08a731c60e5002ee2754792549dd690ad8feb01fa4ddb36d6fa3",
+      "publishedAtLabel": "Feb 18"
+    },
+    {
+      "id": 18386,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Estado de S\u00e3o Paulo ultrapassa marca de 100 mortes por dengue",
+      "description": "Secretaria Estadual da Sa\u00fade informou que ainda h\u00e1 211 \u00f3bitos em investiga\u00e7\u00e3o; no total, Estado registra 110.901 casos da doen\u00e7a e 80.290 em investiga\u00e7\u00e3o",
+      "url": "https://valor.globo.com/brasil/noticia/2025/02/18/estado-de-sao-paulo-ultrapassa-marca-de-100-mortes-por-dengue.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/aM8uxs52bkxYOrDs8fcwzJSatng=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2024/F/2/n0zs2aSXyBHcYsi6KDvw/mosquito-4998145-1920.jpeg",
+      "publishedAt": "2025-02-18 15:36:53",
+      "content": "A dengue j\u00e1 matou 101 pessoas no Estado de S\u00e3o Paulo em 2025, segundo dados registrados at\u00e9 12h de segunda-feira (17) no painel de indicadores da Secretaria Estadual da Sa\u00fade. H\u00e1 ainda 211 \u00f3bitos em \u2026 [+1443 chars]",
+      "retrievedAt": "2025-02-19 19:05:56.175379",
+      "internal_id": "f1bebebe6ece51ea1af406883490a6e625ad9a00f2d7ee0a4b092dc58a2e8f41",
+      "publishedAtLabel": "Feb 18"
+    },
+    {
+      "id": 18383,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "DINO",
+      "title": "Casos de dengue alertam para a import\u00e2ncia da febre",
+      "description": "N\u00famero de casos da doen\u00e7a registrados nas primeiras semanas de janeiro acende o sinal de alerta para evitar a ocorr\u00eancia de uma nova epidemia, como a registrada em 2024",
+      "url": "https://www.terra.com.br/noticias/casos-de-dengue-alertam-para-a-importancia-da-febre,2f7c8420d00949d285d8280b16d9e54d0zpkl2uh.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/02/18/1602577600-3b06d253-b2ee-47ff-9cf7-b7b3232c81c9.jpg",
+      "publishedAt": "2025-02-18 14:12:51",
+      "content": "De acordo com o Painel de Monitoramento das Arboviroses do Minist\u00e9rio da Sa\u00fade, at\u00e9 13 de fevereiro de 2025 o Brasil registrou 281.049 casos prov\u00e1veis de dengue. Embora os n\u00fameros apontem para uma re\u2026 [+1607 chars]",
+      "retrievedAt": "2025-02-19 19:05:56.100146",
+      "internal_id": "de1c2904452573530dfaaff1e973d7b1d0a45aa1ac0ab29eb93422b7090e7291",
+      "publishedAtLabel": "Feb 18"
+    },
+    {
+      "id": 18370,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "Making Microbes Great Again (Paul Krugman)",
+      "description": "Paul Krugman: Making Microbes Great Again \u2014 The Texas measles outbreak is just the beginning \u2014 I'm almost certain that I had measles as a child. My memories are a bit vague, and unfortunately my parents, who would surely have remembered the incident, hav\u2026",
+      "url": "https://www.memeorandum.com/250218/p16",
+      "urlToImage": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F18109301-b9b8-4127-aceb-db72c380c470_1028x657.avif",
+      "publishedAt": "2025-02-18 14:10:01",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-02-19 19:05:54.650999",
+      "internal_id": "980f4707dd6067c9004d51bd2dfa96b19050d5e69049dab239c7f3584d43fdb2",
+      "publishedAtLabel": "Feb 18"
+    },
+    {
+      "id": 18384,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Cristi\u00e1n Biscayart, Patricia Angeleri, Mar\u00eda Bel\u00e9n Bouzas, Lilia Mammana, Alejandro Macchia",
+      "title": "Prevalence of antibodies against dengue virus in the city of Buenos Aires: Results of a probabilistic population survey",
+      "description": "Author summary Dengue fever is a significant public health threat in many parts of the world, including Latin America. Understanding the seroprevalence of dengue virus antibodies in specific populations helps gauge exposure levels and inform public health dec\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012886",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012886.g001&size=inline",
+      "publishedAt": "2025-02-18 14:00:00",
+      "content": "Citation: Biscayart C, Angeleri P, Bouzas MB, Mammana L, Macchia A (2025) Prevalence of antibodies against dengue virus in the city of Buenos Aires: Results of a probabilistic population survey. PLoS\u2026 [+32538 chars]",
+      "retrievedAt": "2025-02-19 19:05:56.155009",
+      "internal_id": "fd7c5dfd7e5ca682beaab4d4cfcaaa3e0d328e84b58178e45356df3ad3b12f87",
+      "publishedAtLabel": "Feb 18"
+    },
+    {
+      "id": 18385,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Marsha S. Santoso, Mario B. R. Nara, Dwi Kurniawan Nugroho, Benediktus Yohan, Asep Purnama, Angela M. B. Boro, Rahma F. Hayati, Erlinda P. Gae, Dionisius Denis, Bunga Rana, Martin L. Hibberd, R. Tedjo Sasmono",
+      "title": "Investigation of severe dengue outbreak in Maumere, East Nusa Tenggara, Indonesia: Clinical, serological, and virological features",
+      "description": "Background Dengue, an acute febrile disease caused by dengue virus (DENV) infection, is endemic to Indonesia. During early 2020, an outbreak of severe dengue occurred in Maumere, East Nusa Tenggara province, a region with low dengue endemicity with limited d\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317854",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0317854.g006&size=inline",
+      "publishedAt": "2025-02-18 14:00:00",
+      "content": "Citation: Santoso MS, Nara MBR, Nugroho DK, Yohan B, Purnama A, Boro AMB, et al. (2025) Investigation of severe dengue outbreak in Maumere, East Nusa Tenggara, Indonesia: Clinical, serological, and v\u2026 [+25045 chars]",
+      "retrievedAt": "2025-02-19 19:05:56.162071",
+      "internal_id": "f87dfd8d22f38addab0e13eb269b1ae0605d5f5a7afd82cbfd3a66979cf89e6f",
+      "publishedAtLabel": "Feb 18"
+    },
+    {
+      "id": 18389,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Protothema.gr",
+      "author": "admin",
+      "title": "Professor Tsakris explains what we need to know about meningitis: The symptoms and the association with Covid and respiratory infections",
+      "description": "The recent death of the 54-year-old woman from Pyrgos was caused by the same strain of meningitis that had infected the young student in Patras The post Professor Tsakris explains what we need to know about meningitis: The symptoms and the association with Co\u2026",
+      "url": "https://en.protothema.gr/2025/02/18/professor-tsakris-explains-what-we-need-to-know-about-meningitis-the-symptoms-and-the-association-with-covid-and-respiratory-infections/",
+      "urlToImage": "https://en.protothema.gr/wp-content/uploads/2025/02/nosokomeio_arthrou_1-1.jpg-1.jpg",
+      "publishedAt": "2025-02-18 13:44:37",
+      "content": "NewsroomFebruary 18 03:44 Advice and ways people can protect themselves from meningitis was shared through his social media by Athanasios Tsakris, a professor of microbiology at the EKPA School o\u2026 [+3487 chars]",
+      "retrievedAt": "2025-02-19 19:05:56.519293",
+      "internal_id": "803c1e42c91349fdab327b68f349e7a0a6df97538a2041e72469dbb08673b8cf",
+      "publishedAtLabel": "Feb 18"
+    },
+    {
+      "id": 18382,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Brenda Goodman",
+      "title": "Bird flu: The wind may be partly to blame for spread between farms, a new study suggests",
+      "description": "In February 2024, government veterinarians in the Czech Republic investigating a bird flu outbreak found themselves in the middle of a puzzling case.",
+      "url": "https://www.cnn.com/2025/02/18/health/wind-bird-flu-spread-study/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1134489551-20250110234839582.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2025-02-18 13:33:30",
+      "content": "In February 2024, government veterinarians in the Czech Republic investigating a bird flu outbreak found themselves in the middle of a puzzling case. The highly pathogenic H5N1 virus was devastating\u2026 [+8735 chars]",
+      "retrievedAt": "2025-02-19 19:05:55.662752",
+      "internal_id": "0b57b2e1a8298e0bdc2205574098f4e01474a273410578a9f4dd2c9ebc81fa46",
+      "publishedAtLabel": "Feb 18"
+    },
+    {
+      "id": 18390,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "3news.com",
+      "author": "Sarah Apenkroh",
+      "title": "WHO supports Health Ministry with medicines to fight CSM",
+      "description": "The World Health Organization (WHO) has provided Ghana with some ten thousand vials of medicines to support treatment of patients affected by cerebrospinal meningitis (CSM) in the northern parts of the country. Since the disease outbreak in the Upper West Reg\u2026",
+      "url": "https://3news.com/news/who-supports-health-ministry-with-medicines-to-fight-csm/",
+      "urlToImage": "https://3news.com/wp-content/uploads/2025/02/WhatsApp-Image-2025-02-18-at-12.32.59.jpeg",
+      "publishedAt": "2025-02-18 13:20:09",
+      "content": "The World Health Organization (WHO) has provided Ghana with some ten thousand vials of medicines to support treatment of patients affected by cerebrospinal meningitis (CSM) in the northern parts of t\u2026 [+2302 chars]",
+      "retrievedAt": "2025-02-19 19:05:56.539496",
+      "internal_id": "04283a68d1a0ecb55fd479012c6aa3243c43c1ee22e77c73dc0257870d60dc5f",
+      "publishedAtLabel": "Feb 18"
+    },
+    {
+      "id": 18368,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Joshua P. Cohen, Senior Contributor, \n Joshua P. Cohen, Senior Contributor\n https://www.forbes.com/sites/joshuacohen/",
+      "title": "Widening Measles Outbreak In Texas Signals Problem With Vaccine Uptake",
+      "description": "A measles outbreak in Texas has jumped from two cases among unvaccinated children to 48. With childhood vaccine hesitancy on the rise, outbreaks are increasingly likely.",
+      "url": "https://www.forbes.com/sites/joshuacohen/2025/02/18/widening-measles-outbreak-in-texas-signals-problem-with-vaccine-uptake/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/661bbf0650e753f1cc011c18/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-02-18 12:17:17",
+      "content": "Little girl with measles. getty In less than three weeks, a measles outbreak has jumped from two cases among unvaccinated children in West Texas to 48. Three cases have also been found in a neighbo\u2026 [+5714 chars]",
+      "retrievedAt": "2025-02-19 19:05:54.607119",
+      "internal_id": "0c5b0890bdbac21c58f00e795999d5b3be294099916aca4f2c581d53479fbcde",
+      "publishedAtLabel": "Feb 18"
+    },
+    {
+      "id": 18366,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Mediaite",
+      "author": "Colby Hall",
+      "title": "Elon Musk Mocks \u2018Trump Derangement Syndrome\u2019 By Freaking Out Like He\u2019s Been Shot With \u2018Methamphetamine and Rabies\u2019",
+      "description": "Elon Musk demonstrated what people with Trump Derangement Syndrome look like, performatively freaking out to Sean Hannity while Trump sat nearby. The post Elon Musk Mocks \u2018Trump Derangement Syndrome\u2019 By Freaking Out Like He\u2019s Been Shot With \u2018Methamphetamine a\u2026",
+      "url": "https://www.mediaite.com/tv/elon-musk-mocks-trump-derangement-syndrome-by-freaking-out-like-hes-been-shot-with-methamphetamine-and-rabies/",
+      "urlToImage": "https://www.mediaite.com/wp-content/uploads/2025/02/Screenshot-2025-02-18-at-6-26-38-AM.jpg",
+      "publishedAt": "2025-02-18 11:53:34",
+      "content": "Elon Musk demonstrated what people with Trump Derangement Syndrome look like, performatively freaking out to Sean Hannity while President Donald Trump sat nearby. Hannity recently interviewed the co\u2026 [+1705 chars]",
+      "retrievedAt": "2025-02-19 19:05:54.219927",
+      "internal_id": "b63eb6b41722afd192ac3d7a4f4b03df9fe7648b588e53af53b672515f7cd7a6",
+      "publishedAtLabel": "Feb 18"
+    },
+    {
+      "id": 18378,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Zive.cz",
+      "author": "Karel Kili\u00e1n",
+      "title": "Nov\u00e1 varianta pta\u010d\u00ed ch\u0159ipky poprv\u00e9 p\u0159esko\u010dila ze skotu na \u010dlov\u011bka. Pacientem je Ameri\u010dan, zat\u00edm ale nen\u00ed d\u016fvod k panice",
+      "description": "Pta\u010d\u00ed ch\u0159ipka H5N1 op\u011bt p\u0159ekvapuje v\u011bdce. Nov\u00e1 varianta viru, ozna\u010dovan\u00e1 jako D1.1 , se nejprve p\u0159enesla z divok\u00fdch pt\u00e1k\u016f na kr\u00e1vy a nyn\u00ed poprv\u00e9 infikovala \u010dlov\u011bka v americk\u00e9m st\u00e1t\u011b Nevada. Zem\u011bd\u011blsk\u00fd pracovn\u00edk na ml\u00e9\u010dn\u00e9 farm\u011b v okrese Churchill County na\u0161t\u011bs\u2026",
+      "url": "https://vtm.zive.cz/clanky/nova-varianta-ptaci-chripky-poprve-preskocila-ze-skotu-na-cloveka-pacientem-je-american-zatim-ale-neni-duvod-k-panice/sc-870-a-232995/default.aspx",
+      "urlToImage": "https://www.zive.cz/getthumbnail.aspx?q=100&height=20000&width=20000&id_file=812814931",
+      "publishedAt": "2025-02-18 11:45:00",
+      "content": "Pta\u00ed chipka H5N1 opt pekvapuje vdce. Nov\u00e1 varianta viru, oznaovan\u00e1 jako D1.1, se nejprve penesla z divok\u00fdch pt\u00e1k na kr\u00e1vy a nyn\u00ed poprv\u00e9 infikovala lovka v americk\u00e9m st\u00e1t Nevada. Zemdlsk\u00fd pracovn\u00edk na\u2026 [+2148 chars]",
+      "retrievedAt": "2025-02-19 19:05:55.501841",
+      "internal_id": "7aae74594d9fe89c8ade9478758e13117400c497628f34b6e80dbc38c90d829f",
+      "publishedAtLabel": "Feb 18"
+    },
+    {
+      "id": 18387,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Dino.com.br",
+      "author": null,
+      "title": "Casos de dengue alertam para a import\u00e2ncia da febre",
+      "description": "N\u00famero de casos da doen\u00e7a registrados nas primeiras semanas de janeiro acende o sinal de alerta para evitar a ocorr\u00eancia de uma nova epidemia, como a registrada em 2024",
+      "url": "https://www.dino.com.br/releases/casos-de-dengue-alertam-para-a-importancia-da-febre-dino890304705131",
+      "urlToImage": "https://s2-valor.glbimg.com/KPCC6fktL2Z-9mcJHs3p-b5ZU8k=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2025/X/O/EtwHBYTB67iq3eoxVvTg/3b06d253-b2ee-47ff-9cf7-b7b3232c81c9.jpg",
+      "publishedAt": "2025-02-18 11:09:01",
+      "content": "De acordo com o Painel de Monitoramento das Arboviroses do Minist\u00e9rio da Sa\u00fade, at\u00e9 13 de fevereiro de 2025 o Brasil registrou 281.049 casos prov\u00e1veis de dengue. Embora os n\u00fameros apontem para uma re\u2026 [+1572 chars]",
+      "retrievedAt": "2025-02-19 19:05:56.194081",
+      "internal_id": "8259a7b003d7e4e220537ff63f0bd62140cd8e53f8a325808734d97f76b60de7",
+      "publishedAtLabel": "Feb 18"
+    },
+    {
+      "id": 18388,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Thechronicle.com.gh",
+      "author": "UMAR FAROUQ",
+      "title": "CSM deaths in U/W rise to 16 \u2013SpeakerBagbin donates medicines to combat disease",
+      "description": "The Upper West Region is experiencing an outbreak of Cerebrospinal Meningitis (CSM) with 129 suspected cases so far reported. Out of the number, 22 have been confirmed whilst 16 have lost their lives. According to health authorities in the region, thirteen of\u2026",
+      "url": "https://thechronicle.com.gh/csm-deaths-in-u-w-rise-to-16-speakerbagbin-donates-medicines-to-combat-disease/",
+      "urlToImage": "https://thechronicle.com.gh/wp-content/uploads/2025/02/IMG-20250217-WA0012.jpg",
+      "publishedAt": "2025-02-18 10:14:33",
+      "content": "The Upper West Region is experiencing an outbreak of Cerebrospinal Meningitis (CSM) with 129 suspected cases so far reported. Out of the number, 22 have been confirmed whilst 16 have lost their lives\u2026 [+2933 chars]",
+      "retrievedAt": "2025-02-19 19:05:56.511695",
+      "internal_id": "05d6db916434bb777f69f3941850636bc988dc5609ab17bbd86223485d793f84",
+      "publishedAtLabel": "Feb 18"
+    },
+    {
+      "id": 18380,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Science.orf.at",
+      "author": "ORF.at",
+      "title": "EU-Exzellenznetzwerk f\u00fcr Grippeforschung gefordert",
+      "description": "Ein europ\u00e4isches Exzellenznetzwerk f\u00fcr Influenzaforschung nach US-Vorbild fordert ein Wissenschaftsteam unter Leitung des \u00f6sterreichischen Virologen Florian Krammer. Nicht zuletzt angesichts der weiterhin problematischen Situation um das Vogelgrippevirus H5N1\u2026",
+      "url": "https://science.orf.at/stories/3228929/",
+      "urlToImage": "https://ibs.orf.at/science?image=https%3A%2F%2Ftubestatic.orf.at%2Fmims%2F2025%2F08%2F79%2Fcrops%2Fw%3D1200%2Ch%3D627%2Cq%3D75%2F2525058_master_967279_virologe_krammer_fordert_eu-exzellenznetzwerk_fuer_influenzaforschung_.jpg%3Fs%3Da2149fa0151a5f51d8f1da21abda991613fd62a3",
+      "publishedAt": "2025-02-18 09:28:15",
+      "content": "W\u00e4hrend die USA ein auf Forschung zu Grippeviren spezialisiertes Netzwerk die Centers of Excellence in Influenza Research and Response (CEIRR) haben, vermisst der in \u00d6sterreich und den USA t\u00e4tige Vir\u2026 [+4169 chars]",
+      "retrievedAt": "2025-02-19 19:05:55.599918",
+      "internal_id": "15f538dce2ae28cc78fb2abdcd017096f39e7378a4371d295d97e8864b3d6464",
+      "publishedAtLabel": "Feb 18"
+    },
+    {
+      "id": 18374,
+      "query": [
+        "measles"
+      ],
+      "source_id": "bbc-news",
+      "source_name": "BBC News",
+      "author": "Clara Bullock",
+      "title": "Parents warned as measles cases rise in Bristol",
+      "description": "New data shows Bristol has had the highest number of cases in the country this year.",
+      "url": "https://www.bbc.co.uk/news/articles/c9vy88p2x24o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/05a1/live/8b5b8d10-edd3-11ef-b640-9dfb84a38fe7.jpg",
+      "publishedAt": "2025-02-18 09:25:42",
+      "content": "Dr Ejidokun said symptoms to look out for include cold-like symptoms, sore red eyes, a high temperature or a red-brown blotchy rash. \"If you experience these symptoms, seek medical attention, but pl\u2026 [+758 chars]",
+      "retrievedAt": "2025-02-19 19:05:54.738682",
+      "internal_id": "c5221b9d2a2d81f5b09a2784147e35fc746f49af4726a8bc0a02b1b15f2efc98",
+      "publishedAtLabel": "Feb 18"
+    },
+    {
+      "id": 18379,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Hermann Feldmeier",
+      "title": "H\u00fchner, Katzen, K\u00fche und jetzt auch Menschen: Wie Trumps Politik die Vogelgrippegefahr in den USA sch\u00fcrt",
+      "description": "Milchk\u00fche in den USA werden derzeit von einer weiteren Variante des Vogelgrippe-Virus H5N1 durchseucht. Eine Eind\u00e4mmung des Risikos f\u00fcr Menschen wird durch die neue US-Regierung erschwert.",
+      "url": "https://www.tagesspiegel.de/wissen/huhner-katzen-kuhe-und-jetzt-auch-menschen-wie-trumps-politik-die-vogelgrippegefahr-in-den-usa-schurt-13217839.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/13219507/alternates/BASE_16_9_W1400/1739800111000/file-photo-bird-flu-in-cows-casts-shadow-on-state-fairs.jpeg",
+      "publishedAt": "2025-02-18 08:40:28",
+      "content": "Seit Anfang 2024 zirkuliert in den USA das Vogelgrippevirus H5N1. F\u00fcr die Gefl\u00fcgelindustrie ist der Erreger zu einer existenziellen Bedrohung geworden: Rund 135 Millionen Tiere sind bislang erkrankt \u2026 [+41 chars]",
+      "retrievedAt": "2025-02-19 19:05:55.562961",
+      "internal_id": "70962878742be48de89595067b60026ecc73f8b6ab664340c319869e11d7f75a",
+      "publishedAtLabel": "Feb 18"
+    },
+    {
+      "id": 18393,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Leandro Costa Criscuolo",
+      "title": "Zika: novo tratamento do v\u00edrus se mostra promissor; conhe\u00e7a",
+      "description": "Pesquisas revelam a efic\u00e1cia de um horm\u00f4nio, a ouaba\u00edna, no combate \u00e0 s\u00edndrome cong\u00eanita do Zika e seus efeitos devastadores O post Zika: novo tratamento do v\u00edrus se mostra promissor; conhe\u00e7a apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2025/02/18/medicina-e-saude/zika-novo-tratamento-do-virus-se-mostra-promissor-conheca/",
+      "urlToImage": "https://img.odcdn.com.br/wp-content/uploads/2025/02/zika.jpg",
+      "publishedAt": "2025-02-18 07:20:00",
+      "content": "A ouaba\u00edna, horm\u00f4nio presente em mam\u00edferos e extra\u00eddo de plantas, tem se mostrado promissor no combate ao v\u00edrusZika, causador de dist\u00farbios neurol\u00f3gicos, principalmente em fetos. Historicamente usad\u2026 [+2180 chars]",
+      "retrievedAt": "2025-02-19 19:05:57.123758",
+      "internal_id": "9079bd8108212b75fe7c1950cd5b95bc03174970deb1b9b39a18afc804f84d69",
+      "publishedAtLabel": "Feb 18"
+    },
     {
       "id": 18361,
       "query": [
@@ -23693,114 +24215,6 @@
       "content": "A colorized transmission electron micrograph of avian influenza A H5N1 virus particles (blue), grown in Madin-Darby Canine Kidney (MDCK) epithelial cells - Copyright National Institute of Allergy and\u2026 [+2429 chars]",
       "retrievedAt": "2025-01-07 07:06:27.473171",
       "internal_id": "c70be9cec5809b4f8f89532947c360ec0a5d03c80f8e18b3e74013a276bcea4f",
-      "publishedAtLabel": "Jan 5"
-    },
-    {
-      "id": 17051,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Faz.net",
-      "author": "Andreas Eckert",
-      "title": "\u00dcber die Umweltgeschichte Afrikas",
-      "description": "Viehzucht, Malaria und die Wei\u00dfen: Will man die Umweltgeschichte Afrikas erz\u00e4hlen, muss man neben der Natur und Krankheiten auch Machtfragen und den Imperialismus in den Blick nehmen.",
-      "url": "https://www.faz.net/aktuell/feuilleton/bilder-und-zeiten/krankheiten-und-der-kolonialismus-ueber-die-umweltgeschichte-afrikas-110208640.html",
-      "urlToImage": "https://media0.faz.net/ppmedia/aktuell/909935446/1.10209298/facebook_teaser_fplus/ein-tuareg-impft-kinder-in.jpg",
-      "publishedAt": "2025-01-05 18:56:04",
-      "content": "Die Klimanachrichten aus Afrika sind d\u00fcster. W\u00e4hrend Teile des Kontinents von \u00dcberschwemmungen heimgesucht werden, leiden andere Regionen unter langen D\u00fcrreperioden. Diese Katastrophen treffen zumeis\u2026 [+711 chars]",
-      "retrievedAt": "2025-01-06 19:05:36.440882",
-      "internal_id": "bb517e2215e4968a9c4f036e58c2140369b52fc1afcd41c168942ba8f1ad4c34",
-      "publishedAtLabel": "Jan 5"
-    },
-    {
-      "id": 17050,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Catracalivre.com.br",
-      "author": "Andr\u00e9 Nicolau",
-      "title": "4 fatos indispens\u00e1veis sobre a dengue que voc\u00ea precisa conhecer",
-      "description": "O aumento das chuvas e das temperaturas elevadas reservam condi\u00e7\u00f5es ideais para a reprodu\u00e7\u00e3o do mosquito da dengue. Confira outros fatos.",
-      "url": "https://catracalivre.com.br/saude-bem-estar/fatos-dengue-precisa-saber/",
-      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1280,h=680,fit=cover,format=jpeg/wp-content/uploads/2024/02/dengue.jpg",
-      "publishedAt": "2025-01-05 17:00:18",
-      "content": "A dengue \u00e9 uma doen\u00e7a viral passada pelo mosquito Aedes Aegypti Soumyabrata Roy/istock - Soumyabrata Roy/istock O aumento das chuvas e das temperaturas elevadas, t\u00edpicas do ver\u00e3o, reservam condi\u00e7\u00f5es\u2026 [+2913 chars]",
-      "retrievedAt": "2025-01-06 19:05:35.874249",
-      "internal_id": "6ecb502a9076a0366e11d6a18a8f8509f248784d13153fb6c1f0f9f07cfa23e3",
-      "publishedAtLabel": "Jan 5"
-    },
-    {
-      "id": 17049,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "la-nacion",
-      "source_name": "La Nacion",
-      "author": "Alejandro Horvat",
-      "title": "En plena temporada: qu\u00e9 medidas preventivas hay en la costa para evitar aumentos de casos de dengue",
-      "description": "Si bien los especialistas advierten que no es una zona end\u00e9mica, el alto movimiento tur\u00edstico puede llegar a ser un agravante",
-      "url": "https://www.lanacion.com.ar/sociedad/en-plena-temporada-que-medidas-preventivas-hay-en-la-costa-para-evitar-aumentos-de-casos-de-dengue-nid05012025/",
-      "urlToImage": "https://resizer.glanacion.com/resizer/v2/los-casos-de-dengue-a-nivel-nacional-muestran-un-H26K6NEWUBB3JP5D3RNPUAEQS4.jpg?auth=f16d6224ca93e3f623fdb9c5614b43b9913314d40fbd519eee619de366b52ea5&width=1200&quality=70&smart=false&height=800",
-      "publishedAt": "2025-01-05 10:37:15",
-      "content": "El verano no solo trae consigo altas temperaturas y playas llenas de turistas, sino tambi\u00e9n un desaf\u00edo sanitario que pone en alerta a todo el pa\u00eds: el dengue. Esta enfermedad, transmitida por el mosq\u2026 [+5853 chars]",
-      "retrievedAt": "2025-01-06 19:05:35.867226",
-      "internal_id": "2182e8f604e1bfaf08eef8b9d2796fa1ffccd8be529a354e5d5cb6bafdcfafbf",
-      "publishedAtLabel": "Jan 5"
-    },
-    {
-      "id": 17048,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Aajtak.in",
-      "author": "aajtak.in",
-      "title": "\u0928\u093e\u0917\u092a\u0941\u0930 \u092e\u0947\u0902 \u092c\u0930\u094d\u0921 \u092b\u094d\u0932\u0942 \u0938\u0947 3 \u092c\u093e\u0918 \u0914\u0930 \u090f\u0915 \u0924\u0947\u0902\u0926\u0941\u090f \u0915\u0940 \u092e\u094c\u0924, \u091f\u093e\u0907\u0917\u0930 \u0930\u093f\u091c\u0930\u094d\u0935 \u0914\u0930 \u0930\u0947\u0938\u094d\u0915\u094d\u092f\u0942 \u0938\u0947\u0902\u091f\u0930\u094d\u0938 \u0915\u0947 \u0932\u093f\u090f \u0905\u0932\u0930\u094d\u091f \u091c\u093e\u0930\u0940",
-      "description": "\u092e\u0939\u093e\u0930\u093e\u0937\u094d\u091f\u094d\u0930 \u0915\u0947 \u0928\u093e\u0917\u092a\u0941\u0930 \u092e\u0947\u0902 \u0917\u094b\u0930\u0947\u0935\u093e\u0921\u093c\u093e \u0930\u0947\u0938\u094d\u0915\u094d\u092f\u0942 \u0938\u0947\u0902\u091f\u0930 \u092e\u0947\u0902 \u0926\u093f\u0938\u0902\u092c\u0930 \u092e\u0947\u0902 \u0924\u0940\u0928 \u092c\u093e\u0918 \u0914\u0930 \u090f\u0915 \u0924\u0947\u0902\u0926\u0941\u0906 H5N1 \u0935\u093e\u092f\u0930\u0938 \u0938\u0947 \u0938\u0902\u0915\u094d\u0930\u092e\u093f\u0924 \u0939\u094b\u0915\u0930 \u092e\u093e\u0930\u0947 \u0917\u090f. \u0907\u0938 \u0918\u091f\u0928\u093e \u0915\u0947 \u092c\u093e\u0926 \u0930\u093e\u091c\u094d\u092f \u0915\u0947 \u091f\u093e\u0907\u0917\u0930 \u0930\u093f\u091c\u0930\u094d\u0935 \u0914\u0930 \u0930\u0947\u0938\u094d\u0915\u094d\u092f\u0942 \u0938\u0947\u0902\u091f\u0930\u094d\u0938 \u0915\u094b \u0905\u0932\u0930\u094d\u091f \u092a\u0930 \u0930\u0916\u093e \u0917\u092f\u093e \u0939\u0948. \u091c\u093e\u0902\u091a \u092e\u0947\u0902 \u0905\u0928\u094d\u092f 26 \u0924\u0947\u0902\u0926\u0941\u090f \u0914\u0930 12 \u092c\u093e\u0918 \u0938\u094d\u0935\u0938\u094d\u0925 \u092a\u093e\u090f \u0917\u090f. \u0905\u0927\u093f\u0915\u093e\u0930\u2026",
-      "url": "https://www.aajtak.in/india/maharashtra/story/tiger-and-leopard-died-of-bird-flu-h5n1-virus-in-nagpur-rescue-centre-alert-issued-ntc-dskc-2136699-2025-01-05",
-      "urlToImage": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202501/677a5e7159d1b-tiger-and-leopard-052651552-16x9.jpg",
-      "publishedAt": "2025-01-05 10:29:37",
-      "content": "Copyright \u00a9 2025 Living Media India Limited. For reprint rights: Syndications Today",
-      "retrievedAt": "2025-01-06 19:05:35.396893",
-      "internal_id": "895fd40da7e5878970f986f3d0e94cfdacdf9a1b17b1b11a728150ebb9cf5d5f",
-      "publishedAtLabel": "Jan 5"
-    },
-    {
-      "id": 17047,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "ET Online",
-      "title": "Amid HMPV virus outbreak in China, three tigers and a leopard die of highly infectious avian flu H5N1 virus in Nagpur",
-      "description": "Three tigers and a sub-adult leopard at Gorewada Rescue Centre in Nagpur died from avian flu H5N1. This is the first time the virus caused significant wildlife deaths in captivity in India. Health measures were taken, and other big cats were examined and foun\u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/amid-hmpv-virus-outbreak-in-china-three-tigers-and-a-leopard-die-of-highly-pathogenic-avian-flu-h5n1-virus/articleshow/116963521.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-116963972,width-1200,height-630,imgsize-2683349,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2025-01-05 10:00:31",
-      "content": "Artificial Intelligence(AI) AI and Analytics based Business Strategy By - Tanusree De, Managing Director- Accenture Technology Lead, Trustworthy AI Center of Excellence: ATCI View Program",
-      "retrievedAt": "2025-01-06 19:05:35.389872",
-      "internal_id": "9a8435ec806824779d4f6f3f6b1e195d161d13980117dc60019978fad90f1c29",
-      "publishedAtLabel": "Jan 5"
-    },
-    {
-      "id": 17046,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "ZyCrypto",
-      "author": "Guest Author",
-      "title": "Solana\u2019s PNUT Prodigy Picks DLUME as 2025\u2019s Next Big Thing \u2013 Could You Be Next?",
-      "description": "Particularly during a viral rabies crisis in New York in October 2023, Peanut the Squirrel\u2019s (PNUT) ascent as a Solana-based memecoin has garnered a lot of focus. When Coinbase revealed that PNUT would be included in its listing roadmap on December 11, the me\u2026",
-      "url": "https://zycrypto.com/solanas-pnut-prodigy-picks-dlume-as-2025s-next-big-thing-could-you-be-next/",
-      "urlToImage": "https://zycrypto.com/wp-content/uploads/2024/12/Next-Crypto-to-Explode-Aurealone-Leads-Best-Coins-for-Potential-600x-Portfolio-Gains.jpg",
-      "publishedAt": "2025-01-05 09:24:56",
-      "content": "Particularly during a viral rabies crisis in New York in October 2023, Peanut the Squirrel\u2019s (PNUT) ascent as a Solana-based memecoin has garnered a lot of focus. When Coinbase revealed that PNUT wou\u2026 [+5309 chars]",
-      "retrievedAt": "2025-01-06 19:05:34.431523",
-      "internal_id": "f2d59d393705c83bbe72e8188b5f7b2b888747d87217f20b6d7b7fa89d96f24e",
       "publishedAtLabel": "Jan 5"
     }
   ]

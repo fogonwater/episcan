@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 17
-- **Last harvest:** 2025-02-19 07:06
-- **Most recent article:** 2025-02-18 06:00:52
+- **New articles in last harvest:** 29
+- **Last harvest:** 2025-02-19 19:05
+- **Most recent article:** 2025-02-18 18:32:41
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-2 | 25-3 | 25-4 | 25-5 | 25-6 | 25-7 | 25-8 | Total |
 |--|-|-|-|-|-|-|-|-|
-| h5n1 | 129 | 65 | 31 | 51 | 72 | 55 | 17 | 420 |
+| h5n1 | 127 | 65 | 31 | 51 | 72 | 55 | 23 | 424 |
 | mpox | 91 | 34 | 23 | 22 | 28 | 18 | 5 | 221 |
-| dengue | 41 | 29 | 37 | 24 | 34 | 37 | 7 | 209 |
-| measles | 6 | 9 | 10 | 13 | 24 | 72 | 16 | 150 |
-| malaria | 29 | 18 | 19 | 30 | 25 | 12 | 2 | 135 |
+| dengue | 39 | 29 | 37 | 24 | 34 | 37 | 12 | 212 |
+| measles | 6 | 9 | 10 | 13 | 24 | 72 | 26 | 160 |
+| malaria | 28 | 18 | 19 | 30 | 25 | 12 | 3 | 135 |
 | hpai | 18 | 12 | 11 | 6 | 3 | 9 | 2 | 61 |
-| chikungunya | 7 | 7 | 10 | 9 | 8 | 5 | 0 | 46 |
-| zika | 15 | 5 | 2 | 8 | 6 | 2 | 3 | 41 |
-| rabies | 2 | 6 | 7 | 6 | 4 | 5 | 1 | 31 |
-| meningitis | 0 | 2 | 3 | 8 | 2 | 12 | 3 | 30 |
+| chikungunya | 7 | 7 | 10 | 9 | 8 | 5 | 1 | 47 |
+| zika | 15 | 5 | 2 | 8 | 6 | 2 | 4 | 42 |
+| meningitis | 0 | 2 | 3 | 8 | 2 | 12 | 7 | 34 |
+| rabies | 1 | 6 | 7 | 6 | 4 | 5 | 2 | 31 |
 | pertussis | 2 | 0 | 1 | 0 | 3 | 3 | 1 | 10 |
 | yersinia | 3 | 2 | 0 | 0 | 0 | 5 | 0 | 10 |
 | typhoid | 0 | 4 | 0 | 0 | 2 | 3 | 0 | 9 |
@@ -34,6 +34,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-8 (zika)
 
+- [Zika: novo tratamento do vírus se mostra promissor; conheça](https://olhardigital.com.br/2025/02/18/medicina-e-saude/zika-novo-tratamento-do-virus-se-mostra-promissor-conheca/) (Olhardigital.com.br)
+
 - [Diante de Nísia, senadora critica veto a pensão para vítimas do zika vírus](https://veja.abril.com.br/coluna/radar/diante-de-nisia-senadora-critica-veto-a-pensao-para-vitimas-do-zika-virus) (Abril.com.br)
 
 - [Remédio contra insuficiência cardíaca pode ajudar no combate à zika](https://www.metropoles.com/saude/remedio-ajudar-a-no-combate-a-zika) (Metropoles.com)
@@ -41,6 +43,8 @@ Source: [News API](https://newsapi.org/)
 - [Pesquisa mostra efeitos promissores de remédio contra insuficiência cardíaca no combate ao vírus Zika](https://www.terra.com.br/noticias/pesquisa-mostra-efeitos-promissores-de-remedio-contra-insuficiencia-cardiaca-no-combate-ao-virus-zika,e50b1f73363e606b6a8d487e5e172292zornfuys.html) (Terra.com.br)
 
 ## 25-8 (rabies)
+
+- [Elon Musk Mocks ‘Trump Derangement Syndrome’ By Freaking Out Like He’s Been Shot With ‘Methamphetamine and Rabies’](https://www.mediaite.com/tv/elon-musk-mocks-trump-derangement-syndrome-by-freaking-out-like-hes-been-shot-with-methamphetamine-and-rabies/) (Mediaite)
 
 - [Elon Musk: I Was At A Friend's Birthday Party, The Reaction To Trump Was Like Methamphetamine And Rabies](https://www.realclearpolitics.com/video/2025/02/17/elon_musk_i_was_at_a_friends_birthday_party_the_reaction_to_trump_was_like_methamphetamine_and_rabies.html) (RealClearPolitics)
 
@@ -62,6 +66,14 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-8 (meningitis)
 
+- [Cholera outbreak: Keep your environment clean ahead of the rains – Health Minister urges](https://3news.com/news/cholera-outbreak-keep-your-environment-clean-ahead-of-the-rains-health-minister-urges/) (3news.com)
+
+- [Professor Tsakris explains what we need to know about meningitis: The symptoms and the association with Covid and respiratory infections](https://en.protothema.gr/2025/02/18/professor-tsakris-explains-what-we-need-to-know-about-meningitis-the-symptoms-and-the-association-with-covid-and-respiratory-infections/) (Protothema.gr)
+
+- [WHO supports Health Ministry with medicines to fight CSM](https://3news.com/news/who-supports-health-ministry-with-medicines-to-fight-csm/) (3news.com)
+
+- [CSM deaths in U/W rise to 16 –SpeakerBagbin donates medicines to combat disease](https://thechronicle.com.gh/csm-deaths-in-u-w-rise-to-16-speakerbagbin-donates-medicines-to-combat-disease/) (Thechronicle.com.gh)
+
 - [Speaker Bagbin donates over GHC300k worth of drugs to Upper West Regional Health Directorate to fight meningitis](https://3news.com/news/speaker-bagbin-donates-over-ghc300k-worth-of-drugs-to-upper-west-regional-health-directorate-to-fight-meningitis/) (3news.com)
 
 - [Woman Returns From Vacation With Headache, Strange Leg Symptoms, Doctors Find Brain Worms](https://www.medicaldaily.com/woman-returns-vacation-headache-strange-leg-symptoms-doctors-find-brain-worms-473126) (Medical Daily)
@@ -69,6 +81,26 @@ Source: [News API](https://newsapi.org/)
 - [Alarm in Pyrgos after the death of a 54 year old woman – Serious indications of a meningitis case](https://en.protothema.gr/2025/02/16/alarm-in-pyrgos-after-the-death-of-a-54-year-old-woman-serious-indications-of-a-meningitis-case/) (Protothema.gr)
 
 ## 25-8 (measles)
+
+- [New data shows measles cases have spread to Terry County](https://www.kcbd.com/2025/02/18/new-data-shows-measles-cases-have-spread-terry-county/) (KCBD)
+
+- [West Texas measles outbreak grows to 58 cases, including some vaccinated individuals | CNN](https://www.cnn.com/2025/02/18/health/texas-measles-outbreak/index.html) (CNN)
+
+- [Texas Measles Outbreak: Everything We Know](https://www.newsweek.com/texas-measles-outbreak-2032747) (Newsweek)
+
+- [Texas Measles outbreak 2025: 58 cases across 5 counties in 3 weeks](https://www.fox4news.com/news/texas-measles-outbreak-2025-58-cases-across-5-counties-3-weeks) (FOX 4 News)
+
+- [Measles Is Rampaging Through Rural Texas: Dozens Sick, Hundreds Feared Infected](https://gizmodo.com/measles-is-rampaging-through-rural-texas-dozens-sick-hundreds-feared-infected-2000564981) (Gizmodo.com)
+
+- [Measles Outbreak Continues In Texas. Officials Now Report 58 Cases](https://www.forbes.com/sites/davewessner/2025/02/18/measles-outbreak-continues-in-texas-officials-now-report-58-cases/) (Forbes)
+
+- [Anti-Vaxxer Thinks He's A Big Hero For Refusing Heart Transplant](https://www.wonkette.com/p/anti-vaxxer-thinks-hes-a-big-hero) (Wonkette.com)
+
+- [Making Microbes Great Again (Paul Krugman)](https://www.memeorandum.com/250218/p16) (Memeorandum.com)
+
+- [Widening Measles Outbreak In Texas Signals Problem With Vaccine Uptake](https://www.forbes.com/sites/joshuacohen/2025/02/18/widening-measles-outbreak-in-texas-signals-problem-with-vaccine-uptake/) (Forbes)
+
+- [Parents warned as measles cases rise in Bristol](https://www.bbc.co.uk/news/articles/c9vy88p2x24o) (BBC News)
 
 - [Texas measles outbreak rises to 48 cases. It's the state's worst in nearly 30 years](https://www.ksat.com/news/texas/2025/02/18/texas-measles-outbreak-rises-to-48-cases-its-the-states-worst-in-nearly-30-years/) (KSAT San Antonio)
 
@@ -104,6 +136,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-8 (malaria)
 
+- [On the Medical Front, a 'Very Urgent' Need for Oxygen](https://www.newser.com/story/364454/on-the-medical-front-a-very-urgent-need-for-oxygen.html) (Newser)
+
 - [Potential new target for malaria discovered](https://www.nih.gov/news-events/nih-research-matters/potential-new-target-malaria-discovered) (National Institutes of Health)
 
 - [Africa's progress against malaria in "jeopardy" amid need for renewed commitments: officials](https://www.thestar.com.my/news/world/2025/02/17/africa039s-progress-against-malaria-in-jeopardy-amid-need-for-renewed-commitments-officials) (The Star Online)
@@ -115,6 +149,18 @@ Source: [News API](https://newsapi.org/)
 - [Bird Flu Cases in Household Cats Spark Raw Pet Food Warning](https://www.newsweek.com/bird-flu-cases-household-cat-raw-pet-food-warning-2031986) (Newsweek)
 
 ## 25-8 (h5n1)
+
+- [A Woman in Wyoming Is Hospitalized With Bird Flu](https://time.com/7258188/bird-flu-wyoming-woman-exposed-flock/) (Time)
+
+- [Bird Flu jumps species in the U.S.: Scientists alarmed as virus spreads to cats, cows. Are humans next?](https://economictimes.indiatimes.com/magazines/panache/bird-flu-jumps-species-in-the-u-s-scientists-alarmed-as-virus-spreads-to-cats-cows-are-humans-next/articleshow/118363774.cms) (The Times of India)
+
+- [Bird flu: The wind may be partly to blame for spread between farms, a new study suggests](https://www.cnn.com/2025/02/18/health/wind-bird-flu-spread-study/index.html) (CNN)
+
+- [Nová varianta ptačí chřipky poprvé přeskočila ze skotu na člověka. Pacientem je Američan, zatím ale není důvod k panice](https://vtm.zive.cz/clanky/nova-varianta-ptaci-chripky-poprve-preskocila-ze-skotu-na-cloveka-pacientem-je-american-zatim-ale-neni-duvod-k-panice/sc-870-a-232995/default.aspx) (Zive.cz)
+
+- [EU-Exzellenznetzwerk für Grippeforschung gefordert](https://science.orf.at/stories/3228929/) (Science.orf.at)
+
+- [Hühner, Katzen, Kühe und jetzt auch Menschen: Wie Trumps Politik die Vogelgrippegefahr in den USA schürt](https://www.tagesspiegel.de/wissen/huhner-katzen-kuhe-und-jetzt-auch-menschen-wie-trumps-politik-die-vogelgrippegefahr-in-den-usa-schurt-13217839.html) (Der Tagesspiegel)
 
 - [It’s Not The Egg Shortage We Should Be Worrying About](https://www.lawyersgunsmoneyblog.com/2025/02/its-not-the-egg-shortage-we-should-be-worrying-about) (Lawyersgunsmoneyblog.com)
 
@@ -152,6 +198,16 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-8 (dengue)
 
+- [Estado de São Paulo ultrapassa marca de 100 mortes por dengue](https://valor.globo.com/brasil/noticia/2025/02/18/estado-de-sao-paulo-ultrapassa-marca-de-100-mortes-por-dengue.ghtml) (Globo)
+
+- [Casos de dengue alertam para a importância da febre](https://www.terra.com.br/noticias/casos-de-dengue-alertam-para-a-importancia-da-febre,2f7c8420d00949d285d8280b16d9e54d0zpkl2uh.html) (Terra.com.br)
+
+- [Prevalence of antibodies against dengue virus in the city of Buenos Aires: Results of a probabilistic population survey](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012886) (Plos.org)
+
+- [Investigation of severe dengue outbreak in Maumere, East Nusa Tenggara, Indonesia: Clinical, serological, and virological features](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317854) (Plos.org)
+
+- [Casos de dengue alertam para a importância da febre](https://www.dino.com.br/releases/casos-de-dengue-alertam-para-a-importancia-da-febre-dino890304705131) (Dino.com.br)
+
 - [PANAYAM: Dr. Federico Luis Castillo, Dengue Control Coordinator, Mandaluyong City Health Office](https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DLHPKLUjkFo8) (YouTube)
 
 - [Sem doses a vencer, cidade de SP não vai ampliar faixa etária da vacinação contra a dengue](https://www.terra.com.br/vida-e-estilo/saude/sem-doses-a-vencer-cidade-de-sp-nao-vai-ampliar-faixa-etaria-da-vacinacao-contra-a-dengue,e7940d2f1f7eef896eafb019af8ab44dflbv8ltf.html) (Terra.com.br)
@@ -165,6 +221,10 @@ Source: [News API](https://newsapi.org/)
 - [Casa livre de mosquitos: medidas para eliminar o Aedes aegypti](https://casa.abril.com.br/minha-casa/casa-livre-de-mosquitos-medidas-para-eliminar-o-aedes-aegypti) (Abril.com.br)
 
 - [Farmacêutico ensina receita de repelente natural com ervas medicinais](https://www.metropoles.com/colunas/claudia-meireles/farmaceutico-ensina-receita-de-repelente-natural-com-ervas-medicinais) (Metropoles.com)
+
+## 25-8 (chikungunya)
+
+- [UK’s MHRA Grants Marketing Authorization for Chikungunya Vaccine](https://www.jdsupra.com/legalnews/uk-s-mhra-grants-marketing-7155248/) (JD Supra)
 
 ## 25-7 (zika)
 
@@ -2286,8 +2346,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Young man dies of rabies at Seti provincial hospital](https://dineshkhabar.com/article/117684) (Dineshkhabar.com)
 
-- [Solana’s PNUT Prodigy Picks DLUME as 2025’s Next Big Thing – Could You Be Next?](https://zycrypto.com/solanas-pnut-prodigy-picks-dlume-as-2025s-next-big-thing-could-you-be-next/) (ZyCrypto)
-
 ## 25-2 (pertussis)
 
 - [Tos ferina: qué sabemos sobre el incremento de casos ocasionados por la bacteria Bordetella pertussis](https://www.milenio.com/ciencia-y-salud/aumentan-casos-bordetella-pertussi-tos-ferina) (Milenio)
@@ -2549,8 +2607,6 @@ Source: [News API](https://newsapi.org/)
 - [Cell wall components of gut commensal bacteria stimulate peritrophic matrix formation in malaria vector mosquitoes through activation of the IMD pathway](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002967) (Plos.org)
 
 - [Text (actual latters) change when saving to PDF from Word. WTF?](https://ask.metafilter.com/383833/Text-actual-latters-change-when-saving-to-PDF-from-Word-WTF) (Metafilter.com)
-
-- [Über die Umweltgeschichte Afrikas](https://www.faz.net/aktuell/feuilleton/bilder-und-zeiten/krankheiten-und-der-kolonialismus-ueber-die-umweltgeschichte-afrikas-110208640.html) (Faz.net)
 
 ## 25-2 (hpai)
 
@@ -2846,10 +2902,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Op-Ed: Collapsing health systems vs major flu outbreaks in US, UK and Europe](https://www.digitaljournal.com/world/op-ed-collapsing-health-systems-vs-major-flu-outbreaks-in-us-uk-and-europe/article) (Digital Journal)
 
-- [नागपुर में बर्ड फ्लू से 3 बाघ और एक तेंदुए की मौत, टाइगर रिजर्व और रेस्क्यू सेंटर्स के लिए अलर्ट जारी](https://www.aajtak.in/india/maharashtra/story/tiger-and-leopard-died-of-bird-flu-h5n1-virus-in-nagpur-rescue-centre-alert-issued-ntc-dskc-2136699-2025-01-05) (Aajtak.in)
-
-- [Amid HMPV virus outbreak in China, three tigers and a leopard die of highly infectious avian flu H5N1 virus in Nagpur](https://economictimes.indiatimes.com/news/india/amid-hmpv-virus-outbreak-in-china-three-tigers-and-a-leopard-die-of-highly-pathogenic-avian-flu-h5n1-virus/articleshow/116963521.cms) (The Times of India)
-
 ## 25-2 (dengue)
 
 - [Marketing faz bem, mas não resolve inflação, dengue, falta de gestão nem Congresso guloso](https://www.estadao.com.br/politica/eliane-cantanhede/marketing-faz-bem-mas-nao-resolve-inflacao-dengue-falta-de-gestao-nem-congresso-guloso/) (Estadao.com.br)
@@ -2929,10 +2981,6 @@ Source: [News API](https://newsapi.org/)
 - [Migrantes que cruzan el Darién, con salud comprometida: OPS](https://www.jornada.com.mx/2025/01/06/politica/006n2pol) (Jornada.com.mx)
 
 - [Guerrero cierra el 2024 con casi siete mil casos de dengue y 61 muertes](https://www.excelsior.com.mx/nacional/dengue-guerrero-cierra-el-2024-con-casi-siete-mil-casos-y-61-muertes/1692712) (Excelsior.com.mx)
-
-- [4 fatos indispensáveis sobre a dengue que você precisa conhecer](https://catracalivre.com.br/saude-bem-estar/fatos-dengue-precisa-saber/) (Catracalivre.com.br)
-
-- [En plena temporada: qué medidas preventivas hay en la costa para evitar aumentos de casos de dengue](https://www.lanacion.com.ar/sociedad/en-plena-temporada-que-medidas-preventivas-hay-en-la-costa-para-evitar-aumentos-de-casos-de-dengue-nid05012025/) (La Nacion)
 
 ## 25-2 (chikungunya)
 
