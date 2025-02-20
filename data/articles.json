@@ -1,8 +1,676 @@
 {
-  "last_updated": "2025-02-20 07:06",
-  "count_articles_total": 1377,
-  "count_articles_new": 29,
+  "last_updated": "2025-02-20 19:06",
+  "count_articles_total": 1408,
+  "count_articles_new": 37,
   "articles": [
+    {
+      "id": 18436,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "The Week Magazine",
+      "author": "theweekonlineeditors@futurenet.com (Peter Weber, The Week US)",
+      "title": "Trump officials try to reverse DOGE-led firings",
+      "description": "Mass firings by Elon Musk's team have included employees working on the H5N1 bird flu epidemic, US nuclear weapons programs and air safety",
+      "url": "https://theweek.com/politics/doge-led-firings-trump-musk-bird-air-safety",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/2bihgFsACvkNjiPnitJZoA-1200-80.jpg",
+      "publishedAt": "2025-02-19 19:02:23",
+      "content": "What happened The U.S. Department of Agriculture said Tuesday it was trying to reverse last weekend's mass firing of employees working on the H5N1 bird flu epidemic. The layoffs were part of the wee\u2026 [+2174 chars]",
+      "retrievedAt": "2025-02-20 19:06:04.279386",
+      "internal_id": "e222b26175cc2755ed4c7e40af1c653bdd0031137674de1e78539c07071786ad",
+      "publishedAtLabel": "Feb 19"
+    },
+    {
+      "id": 18445,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Orf.at",
+      "author": "ORF.at",
+      "title": "Sao Paulo ruft Notstand wegen Dengue-Fiebers aus",
+      "description": "",
+      "url": "https://orf.at/stories/3385363/",
+      "urlToImage": "https://orf.at/mojo/1_4_1/storyserver//news/common/images/og-fallback-news.png",
+      "publishedAt": "2025-02-19 18:58:06",
+      "content": "In der brasilianischen Millionenmetropole Sao Paulo hat die Stadtverwaltung wegen der steigenden F\u00e4lle des Denguefiebers den Gesundheitsnotstand ausgerufen. Seit Anfang des Jahres wurden im gesamten \u2026 [+1187 chars]",
+      "retrievedAt": "2025-02-20 19:06:04.916879",
+      "internal_id": "4f06ca5d9eb7aa31c7ff859291973e8e98b0f3fc08d392ceaf8faa06b194ae2a",
+      "publishedAtLabel": "Feb 19"
+    },
+    {
+      "id": 18451,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Newser",
+      "author": "Arden Dier",
+      "title": "In This Neighborhood, They Trade Mosquitoes for Cash",
+      "description": "With the dengue virus spreading to people in the Philippines, one neighborhood is taking action\u2014offering a bounty on mosquitoes. The project is the brainchild of Carlito Cernal, village chief of Addition Hills in the city of Mandaluyong east of Manila, who be\u2026",
+      "url": "https://www.newser.com/story/364531/village-offers-a-bounty-on-mosquitoes.html",
+      "urlToImage": "https://img1-azrcdn.newser.com/image/1593670-12-20250219125547.jpeg",
+      "publishedAt": "2025-02-19 18:33:45",
+      "content": "With the dengue virus spreading to people in the Philippines, one neighborhood is taking action\u2014offering a bounty on mosquitoes. The project is the brainchild of Carlito Cernal, village chief of Addi\u2026 [+1987 chars]",
+      "retrievedAt": "2025-02-20 19:06:04.990671",
+      "internal_id": "fc165753ecee07d1256da60004646c05bb9076aaa1401af3325ee4f73d6222b9",
+      "publishedAtLabel": "Feb 19"
+    },
+    {
+      "id": 18441,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Canada buys 500,000 doses of H5N1 avian influenza vaccine for those most at risk",
+      "description": "The Public Health Agency of Canada said Wednesday it's purchased 500,000 doses of a human vaccine to protect against avian influenza to protect people most at risk from being exposed to the virus by infected animals.",
+      "url": "https://www.cbc.ca/news/health/h5n1-vaccine-canada-1.7462802",
+      "urlToImage": "https://i.cbc.ca/1.7022720.1731218530!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_1180/shutterstock-medium-file.jpg?im=Resize%3D620",
+      "publishedAt": "2025-02-19 18:09:36",
+      "content": "The Public Health Agency of Canada said Wednesday it's purchased 500,000 doses of a human vaccine to protect against avian influenza for those most at risk from being exposed to the virus by infected\u2026 [+3098 chars]",
+      "retrievedAt": "2025-02-20 19:06:04.403425",
+      "internal_id": "a5d1e70022c0b9fb965ee667ea0dd7728eb08ad2cf53b706f81f8ffac17edfca",
+      "publishedAtLabel": "Feb 19"
+    },
+    {
+      "id": 18460,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Li Hualing, Chrispinus Omar",
+      "title": "UNICEF raises alarm over frequent health crises in eastern, southern Africa",
+      "description": "NAIROBI, Feb. 19 (Xinhua) -- The United Nations Children's Fund (UNICEF) on Wednesday expressed concern about several public health emergencies, including outbreaks of cholera, mpox, and viral hemorrhagic fevers, which it said pose a major threat to the safet\u2026",
+      "url": "https://www.thestar.com.my/news/world/2025/02/20/unicef-raises-alarm-over-frequent-health-crises-in-eastern-southern-africa",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2025-02-19 17:07:00",
+      "content": "NAIROBI, Feb. 19 (Xinhua) -- The United Nations Children's Fund (UNICEF) on Wednesday expressed concern about several public health emergencies, including outbreaks of cholera, mpox, and viral hemorr\u2026 [+1583 chars]",
+      "retrievedAt": "2025-02-20 19:06:06.566386",
+      "internal_id": "c5b80b7a4286cc7453ea16a0a494e3651cdbe35ad4458d35f51658814c62fac2",
+      "publishedAtLabel": "Feb 19"
+    },
+    {
+      "id": 18444,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Adevarul.ro",
+      "author": "Cornelia Mazilu",
+      "title": "Un ora\u0219 ofer\u0103 recompens\u0103 pentru prinderea \u021b\u00e2n\u021barilor, dup\u0103 ce doi elevi au murit din cauza febrei dengue",
+      "description": "Autorit\u0103\u021bile dintr-un ora\u0219 din Filipine ofer\u0103 o recompens\u0103 \u00een bani pentru \u021b\u00e2n\u021bari, \u00een \u00eencercarea de a opri r\u0103sp\u00e2ndirea dengue.",
+      "url": "https://adevarul.ro/stiri-externe/in-lume/un-oras-ofera-recompensa-pentru-prinderea-2423206.html",
+      "urlToImage": "https://cdn.adh.reperio.news/image-0/0f528a87-9945-4661-86a1-67b06d50cf19/index.jpeg?p=f%3Djpeg%26w%3D1200%26h%3D630%26r%3Dcover",
+      "publishedAt": "2025-02-19 16:50:57",
+      "content": "Autoritile dintr-un ora din Filipine ofer o recompens \u00een bani pentru \u00e2nari, \u00een \u00eencercarea de a opri rsp\u00e2ndirea dengue. P\u00e2n acum, 21 de persoane i-au revendicat deja recompensa. Carlito Cernal, eful\u2026 [+1813 chars]",
+      "retrievedAt": "2025-02-20 19:06:04.908861",
+      "internal_id": "8841b2e23aeb8d0ea9c58a8f048e4054234189912eb56e8a4ab4b9b2a7ee25b2",
+      "publishedAtLabel": "Feb 19"
+    },
+    {
+      "id": 18438,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Skai.gr",
+      "author": "Newsroom",
+      "title": "\u0397\u03a0\u0391: \u0391\u03bd\u03c4\u03b9\u03bc\u03ad\u03c4\u03c9\u03c0\u03b7 \u03bc\u03b5 \u03c4\u03b7 \u03b3\u03c1\u03af\u03c0\u03b7 \u03c4\u03c9\u03bd \u03c0\u03c4\u03b7\u03bd\u03ce\u03bd, \u03c0\u03c1\u03bf\u03c3\u03c0\u03b1\u03b8\u03b5\u03af \u03bd\u03b1 \u03b5\u03c0\u03b1\u03bd\u03b1\u03c0\u03c1\u03bf\u03c3\u03bb\u03ac\u03b2\u03b5\u03b9 \u03c5\u03c0\u03b1\u03bb\u03bb\u03ae\u03bb\u03bf\u03c5\u03c2 \u03c4\u03bf\u03c5 \u03c5\u03c0. \u0393\u03b5\u03c9\u03c1\u03b3\u03af\u03b1\u03c2",
+      "description": "\u0397 \u03ba\u03c5\u03b2\u03ad\u03c1\u03bd\u03b7\u03c3\u03b7 \u03a4\u03c1\u03b1\u03bc\u03c0 \u03c0\u03c1\u03bf\u03c3\u03c0\u03b1\u03b8\u03b5\u03af \u03c4\u03ce\u03c1\u03b1 \u03bd\u03b1 \u03b5\u03c0\u03b1\u03bd\u03b1\u03c0\u03c1\u03bf\u03c3\u03bb\u03ac\u03b2\u03b5\u03b9 \u03b5\u03c1\u03b3\u03b1\u03b6\u03cc\u03bc\u03b5\u03bd\u03bf\u03c5\u03c2 \u03c4\u03bf\u03c5 \u03c5\u03c0\u03bf\u03c5\u03c1\u03b3\u03b5\u03af\u03bf\u03c5 \u0393\u03b5\u03c9\u03c1\u03b3\u03af\u03b1\u03c2 \u03c4\u03bf\u03c5\u03c2 \u03bf\u03c0\u03bf\u03af\u03bf\u03c5\u03c2 \u03b1\u03c0\u03ad\u03bb\u03c5\u03c3\u03b5 \u03c3\u03c4\u03bf \u03c0\u03bb\u03b1\u03af\u03c3\u03b9\u03bf \u03c4\u03c9\u03bd \u03c0\u03b5\u03c1\u03b9\u03ba\u03bf\u03c0\u03ce\u03bd \u03c4\u03c9\u03bd \u03b4\u03b7\u03bc\u03cc\u03c3\u03b9\u03c9\u03bd \u03b4\u03b1\u03c0\u03b1\u03bd\u03ce\u03bd",
+      "url": "https://www.skai.gr/news/world/ipa-antimetopi-me-ti-gripi-ton-ptinon",
+      "urlToImage": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2025-01/birdflu_ap.jpg?itok=IuFfNWWq",
+      "publishedAt": "2025-02-19 16:43:47",
+      "content": ", 8 10 - , (USDA) , , NBC News. \u00ab \u00bb \u00ab\u00bb , H5N1. \u00ab ( ) , \u00bb, . \u00ab USDA \u00bb, . NBC, . \u00ab \u00bb, . . , , . , , \u00ab\u00bb (DOGE), . . .",
+      "retrievedAt": "2025-02-20 19:06:04.346388",
+      "internal_id": "0329672f078c51a1251cbcde27869e82e554c54037ceb4ff9352c914277054e0",
+      "publishedAtLabel": "Feb 19"
+    },
+    {
+      "id": 18439,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Protothema.gr",
+      "author": null,
+      "title": "\u0397 \u03ba\u03c5\u03b2\u03ad\u03c1\u03bd\u03b7\u03c3\u03b7 \u03a4\u03c1\u03b1\u03bc\u03c0 \u03c0\u03c1\u03bf\u03c3\u03c0\u03b1\u03b8\u03b5\u03af \u03bd\u03b1 \u03b5\u03c0\u03b1\u03bd\u03b1\u03c0\u03c1\u03bf\u03c3\u03bb\u03ac\u03b2\u03b5\u03b9 \u03c5\u03c0\u03b1\u03bb\u03bb\u03ae\u03bb\u03bf\u03c5\u03c2 \u03c4\u03bf\u03c5 \u03c5\u03c0\u03bf\u03c5\u03c1\u03b3\u03b5\u03af\u03bf\u03c5 \u0393\u03b5\u03c9\u03c1\u03b3\u03af\u03b1\u03c2 \u03bb\u03cc\u03b3\u03c9 \u03c4\u03b7\u03c2 \u03b3\u03c1\u03af\u03c0\u03b7\u03c2 \u03c4\u03c9\u03bd \u03c0\u03c4\u03b7\u03bd\u03ce\u03bd",
+      "description": "\u039f\u03b9 \u03c5\u03c0\u03ac\u03bb\u03bb\u03b7\u03bb\u03bf\u03b9 \u03b1\u03c0\u03bf\u03bb\u03cd\u03b8\u03b7\u03ba\u03b1\u03bd \u03c3\u03c4\u03b1 \u03c0\u03bb\u03b1\u03af\u03c3\u03b9\u03b1 \u03c4\u03c9\u03bd \u03c0\u03b5\u03c1\u03b9\u03ba\u03bf\u03c0\u03ce\u03bd \u03c3\u03c4\u03bf \u03bf\u03bc\u03bf\u03c3\u03c0\u03bf\u03bd\u03b4\u03b9\u03b1\u03ba\u03cc \u03ba\u03c1\u03ac\u03c4\u03bf\u03c2 \u03c0\u03bf\u03c5 \u03ad\u03c7\u03b5\u03b9 \u03c3\u03c7\u03b5\u03b4\u03b9\u03ac\u03c3\u03b5\u03b9 \u03b7 \u03ba\u03c5\u03b2\u03ad\u03c1\u03bd\u03b7\u03c3\u03b7 | \u0393\u03c1\u03af\u03c0\u03b7 \u03c4\u03c9\u03bd \u03c0\u03c4\u03b7\u03bd\u03ce\u03bd | \u0397\u03a0\u0391 | \u0391\u03c0\u03bf\u03bb\u03cd\u03c3\u03b5\u03b9\u03c2 | \u0388\u03bb\u03bf\u03bd \u039c\u03b1\u03c3\u03ba | \u039d\u03c4\u03cc\u03bd\u03b1\u03bb\u03bd\u03c4 \u03a4\u03c1\u03b1\u03bc\u03c0 | \u039a\u03cc\u03c3\u03bc\u03bf\u03c2",
+      "url": "https://www.protothema.gr/world/article/1603613/i-kuvernisi-trab-prospathei-na-epanaproslavei-upallilous-tou-upourgeiou-georgias-logo-tis-gripis-ton-ptinon/",
+      "urlToImage": "https://www.protothema.gr/images/640x360share/2/jpg/files/2023-05-08/gripi-ptinon.jpg",
+      "publishedAt": "2025-02-19 15:49:07",
+      "content": ", (USDA) , . NBC News \u00ab \u00bb , H5N1. \u00ab ( ) , \u00bb, .\u00ab USDA \u00bb, . NBC, . \u00ab \u00bb, .. , , ., , \u00ab\u00bb (DOGE), . . . : - \u00ab \u00bb, \u00ab \u00bb ... Gameboy - ... ! \u00ab @@ ;\u00bb - ,",
+      "retrievedAt": "2025-02-20 19:06:04.371157",
+      "internal_id": "18e4bcb0d22eb945f37e2973799d244c306dd32d54e98caf65beff4dfbed3bd1",
+      "publishedAtLabel": "Feb 19"
+    },
+    {
+      "id": 18442,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Excelsior.com.mx",
+      "author": "diego.martinez",
+      "title": "Trump, pese a la escasez del huevo de EU, despide a funcionarios que trataban la gripe aviar",
+      "description": "Diego Morato El Departamento de Agricultura de los Estados Unidos (USDA) revel\u00f3 este martes que despidi\u00f3 por error a varios empleados claves en la respuesta federal al brote de gripe aviar H5N1. Seg\u00fan la agencia, el desajuste ocurri\u00f3 durante el fin de semana\u2026",
+      "url": "https://www.excelsior.com.mx/global/usda-despide-empleados-por-error-mientras-brote-de-gripe-aviar-se-agrava/1700691",
+      "urlToImage": "https://www.excelsior.com.mx/media/pictures/2025/02/19/3261138.jpg",
+      "publishedAt": "2025-02-19 15:40:55",
+      "content": "El Departamento de Agricultura de los Estados Unidos (USDA) revel\u00f3 este martes que despidi\u00f3 por error a varios empleados claves en la respuesta federal al brote de gripe aviar H5N1. Seg\u00fan la agencia,\u2026 [+6205 chars]",
+      "retrievedAt": "2025-02-20 19:06:04.427560",
+      "internal_id": "305ad62fafed8e47c6008938d82503cc2f528ec74a8881cb68a3f0147d34826c",
+      "publishedAtLabel": "Feb 19"
+    },
+    {
+      "id": 18443,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Courrier International",
+      "author": null,
+      "title": "\u201cMorts ou vifs\u201d : aux Philippines, une r\u00e9compense pour la capture des moustiques",
+      "description": "Le quartier d\u2019Addition Hills a lanc\u00e9 une grande op\u00e9ration pour endiguer la propagation de la dengue. Cette maladie, v\u00e9hicul\u00e9e par les moustiques, est en plein essor aux Philippines.",
+      "url": "https://www.courrierinternational.com/article/dengue-morts-ou-vifs-aux-philippines-une-recompense-pour-la-capture-des-moustiques_227934",
+      "urlToImage": "https://focus.courrierinternational.com/2025/02/19/0/0/4500/3000/1200/630/60/0/532597e_ftp-import-images-1-3hdbhh2xpuhu-afp-36y36xz.jpg",
+      "publishedAt": "2025-02-19 15:31:51",
+      "content": "Les autorit\u00e9s les veulent morts ou vifs,assure le Philippine Daily Inquirer. Le barangay, la plus petite unit\u00e9 administrative du pays, dAddition Hills, dans lest de Manille, a fait une offre inhabitu\u2026 [+1702 chars]",
+      "retrievedAt": "2025-02-20 19:06:04.889064",
+      "internal_id": "5d02c2a9511517a9e6de6d7b89a26b5d518012d5a45be3a885667fde8ba43828",
+      "publishedAtLabel": "Feb 19"
+    },
+    {
+      "id": 18437,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Eschatonblog.com",
+      "author": "noreply@blogger.com (Atrios)",
+      "title": "Looking Into This",
+      "description": "That there is more coverage of the price of eggs than the worrying reason behind it is, in itself, worrying. The U.S. Department of Agriculture said Tuesday that, over the weekend, it accidentally fired \"several\" agency employees who are working on the feder\u2026",
+      "url": "https://www.eschatonblog.com/2025/02/looking-into-this_01967887625.html",
+      "urlToImage": null,
+      "publishedAt": "2025-02-19 15:30:00",
+      "content": "The U.S. Department of Agriculture said Tuesday that, over the weekend, it accidentally fired \"several\" agency employees who are working on the federal government's response to the H5N1 avian flu out\u2026 [+542 chars]",
+      "retrievedAt": "2025-02-20 19:06:04.327755",
+      "internal_id": "fc1574ae368f0340b1f223669da7e35ca497884a0831613d840c8a3bb2f9de1a",
+      "publishedAtLabel": "Feb 19"
+    },
+    {
+      "id": 18452,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Digi24.ro",
+      "author": "Alina Popescu",
+      "title": "Recompens\u0103 pentru prinderea \u021b\u00e2n\u021barilor: Cum \u00eencearc\u0103 un ora\u0219 din Filipine s\u0103 stopeze r\u0103sp\u00e2ndirea febrei dengue",
+      "description": "Autorit\u0103\u021bile dintr-un ora\u0219 din Filipine ofer\u0103 recompens\u0103 \u00een bani cet\u0103\u021benilor pentru prinderea \u021b\u00e2n\u021barilor, \u00een \u00eencercarea de a opri r\u0103sp\u00e2ndirea febrei dengue, informeaz\u0103 BBC.",
+      "url": "https://www.digi24.ro/stiri/externe/recompensa-pentru-prinderea-tantarilor-cum-incearca-un-oras-din-filipine-sa-stopeze-raspandirea-febrei-dengue-3127399",
+      "urlToImage": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjQl/MkYwNCUyRjI1JTJGMTk2MTY3NF8xOTYx/Njc0X3RhbnRhcmktZ2V0dHlpbWFnZXMu/anBnJnc9MTIwMCZoPTYzMCZ6Yz0xJmhh/c2g9N2E1YTA0NDY3MTg5NTc2YjBiZTZkN2M5ODAzMjE5NTg=.thumb.jpg",
+      "publishedAt": "2025-02-19 15:03:23",
+      "content": "Autoritile dintr-un ora din Filipine ofer recompens \u00een bani cetenilor pentru prinderea \u00e2narilor, \u00een \u00eencercarea de a opri rsp\u00e2ndirea febrei dengue, informeaz BBC. Carlito Cernal, liderul comunitii Ba\u2026 [+1786 chars]",
+      "retrievedAt": "2025-02-20 19:06:05.003387",
+      "internal_id": "20b031861a2bf1e7ee7a814a805d05909ad84f7960aa40b6f56dcb16c8b2ff91",
+      "publishedAtLabel": "Feb 19"
+    },
+    {
+      "id": 18446,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Luiz Paulo Souza",
+      "title": "Com mais de 110 mortes, S\u00e3o Paulo decreta emerg\u00eancia por dengue em todo o estado",
+      "description": "Secretaria de sa\u00fade tamb\u00e9m anunciou novas medidas de combate \u00e0 doen\u00e7a",
+      "url": "https://veja.abril.com.br/saude/com-mais-de-100-mortes-sao-paulo-decreta-emergencia-por-dengue-em-todo-o-estado",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2017/01/aedes-aegypti-mosquito-transmissor-da-dengue-e-da-febre-amarela-urbana.jpg?quality=70&strip=info&crop=1&resize=1080,565",
+      "publishedAt": "2025-02-19 14:45:13",
+      "content": "Oferta Rel\u00e2mpago: 4 revistas pelo pre\u00e7o de uma!\"Aedes aegypti\", mosquito transmissor da dengue, chikungunya e zika (VEJA/Dedoc) Continua ap\u00f3s publicidade [Em atualiza\u00e7\u00e3o] Na manh\u00e3 desta quarta-fei\u2026 [+3571 chars]",
+      "retrievedAt": "2025-02-20 19:06:04.923825",
+      "internal_id": "1a3049a38db20a01f20cb9d6b7ffd083a76cc34cc417d743482720ceb4a22cc3",
+      "publishedAtLabel": "Feb 19"
+    },
+    {
+      "id": 18433,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Richmond.com",
+      "author": "DEVI SHASTRI and MORGAN LEE Associated Press",
+      "title": "Texas measles cases are up, and New Mexico now has an outbreak. Here's what you need to know",
+      "description": "Measles is highly contagious. Here's what you should know about how to protect yourself against the disease, as well as what's happening in Texas and New Mexico.",
+      "url": "https://richmond.com/news/nation-world/measles-outbreak-mmr-vaccine-texas-new-mexico/article_58012f3b-c078-5957-9fc3-384e8f829acd.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/5/80/58012f3b-c078-5957-9fc3-384e8f829acd/67b5e42950b41.preview.jpg?crop=1708%2C897%2C44%2C150&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2025-02-19 14:30:00",
+      "content": "A measles outbreak in rural West Texas grew to 58 cases as of Tuesday, and eight people in neighboring eastern New Mexico also have been diagnosed with measles. New Mexico health department spokesma\u2026 [+4136 chars]",
+      "retrievedAt": "2025-02-20 19:06:03.606419",
+      "internal_id": "585772455be6e6cac843b6064049c7cda881ff5cb4d464797e737196b2642a40",
+      "publishedAtLabel": "Feb 19"
+    },
+    {
+      "id": 18434,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Roanoke Times",
+      "author": "DEVI SHASTRI and MORGAN LEE Associated Press",
+      "title": "Texas measles cases are up, and New Mexico now has an outbreak. Here's what you need to know",
+      "description": "Measles is highly contagious. Here's what you should know about how to protect yourself against the disease, as well as what's happening in Texas and New Mexico.",
+      "url": "https://roanoke.com/news/nation-world/measles-outbreak-mmr-vaccine-texas-new-mexico/article_1db1da90-a1ab-5fb6-93aa-cf1ad722fe69.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/1/db/1db1da90-a1ab-5fb6-93aa-cf1ad722fe69/67b5e42954649.preview.jpg?crop=1708%2C897%2C44%2C150&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2025-02-19 14:30:00",
+      "content": "A measles outbreak in rural West Texas grew to 58 cases as of Tuesday, and eight people in neighboring eastern New Mexico also have been diagnosed with measles. New Mexico health department spokesma\u2026 [+4077 chars]",
+      "retrievedAt": "2025-02-20 19:06:03.613627",
+      "internal_id": "e0581813d2b0b57050d707ce34cf194855c7ab70915fc6a67b164068ae7e62b3",
+      "publishedAtLabel": "Feb 19"
+    },
+    {
+      "id": 18453,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Estado de S\u00e3o Paulo decreta emerg\u00eancia por dengue",
+      "description": "Medida permitir\u00e1 a implementa\u00e7\u00e3o de a\u00e7\u00f5es com maior agilidade e, tamb\u00e9m, a aloca\u00e7\u00e3o de recursos adicionais do governo federal",
+      "url": "https://valor.globo.com/brasil/noticia/2025/02/19/estado-de-sao-paulo-decreta-emergencia-por-dengue.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/ZQ3hef375ur7CAIg1eUrEhs9XlU=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2024/9/O/2dYBPYRCu5rYybJqjM5A/106083108-bras-c3-adlia-20df-2029-02-2024-20-20larvas-20s-c3-a3o-20analisadas-20em-20laborat-c3-b3rio-20da-20vigil-c3-a2ncia-20ambiental-20do-20d.jpg",
+      "publishedAt": "2025-02-19 14:21:59",
+      "content": "O secret\u00e1rio estadual da Sa\u00fade de S\u00e3o Paulo, Eleuses Paiva, decretou na manh\u00e3 desta quarta-feira (19) situa\u00e7\u00e3o de emerg\u00eancia em sa\u00fade p\u00fablica por dengue em todo o territ\u00f3rio paulista. O governador Ta\u2026 [+1304 chars]",
+      "retrievedAt": "2025-02-20 19:06:05.010286",
+      "internal_id": "4d09f03d1ad0c1cb7de220d8a89ebb2afce6369ce8d72cd2fa916fda0e35040e",
+      "publishedAtLabel": "Feb 19"
+    },
+    {
+      "id": 18457,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ilpost.it",
+      "author": null,
+      "title": "Un quartiere di Manila ha messo una taglia sulle zanzare, vive o morte",
+      "description": "Per contrastare la dengue, di cui ultimamente attorno alla capitale delle Filippine ci sono stati molti casi",
+      "url": "https://www.ilpost.it/2025/02/19/filippine-manila-zanzare-taglia-vive-morte/",
+      "urlToImage": "https://static-prod.cdnilpost.com/wp-content/uploads/2025/02/19/1739968578-AP25050202456457.jpg",
+      "publishedAt": "2025-02-19 14:15:19",
+      "content": "Negli ultimi mesi nell\u2019area metropolitana attorno a Manila, capitale delle Filippine, c\u2019\u00e8 stato un notevole aumento dei casi di dengue, una malattia trasmessa dalle zanzare tipica dei tropici (ma di \u2026 [+3754 chars]",
+      "retrievedAt": "2025-02-20 19:06:05.052622",
+      "internal_id": "ed8618c6bd28ab5f58396dcb3588580f40304c243ae69987bd635da203c7c69c",
+      "publishedAtLabel": "Feb 19"
+    },
+    {
+      "id": 18435,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Globalresearch.ca",
+      "author": "Nicolas Hulscher",
+      "title": "USDA Has Spent $1.25 Billion on Mass Culling for H5N1 Bird Flu\u2014With Disastrous Consequences",
+      "description": "According to a recent USDA document titled, Payment of Indemnity and Compensation for Highly Pathogenic Avian Influenza: As of November 2024, the costs associated with the ongoing [H5N1] outbreak have exceeded $1.4 billion, including $1.25 billion in indemnit\u2026",
+      "url": "https://www.globalresearch.ca/usda-spent-1-25-billion-mass-culling-h5n1-bird-flu/5880289",
+      "urlToImage": "https://www.globalresearch.ca/wp-content/uploads/2017/04/poultry.jpg",
+      "publishedAt": "2025-02-19 14:09:40",
+      "content": "According to a recent USDA document titled, Payment of Indemnity and Compensation for Highly Pathogenic Avian Influenza: As of November 2024, the costs associated with the ongoing [H5N1] outbreak ha\u2026 [+2342 chars]",
+      "retrievedAt": "2025-02-20 19:06:04.272068",
+      "internal_id": "7832989d99912c4c49c3989f87c53adbc70fe6672ef10a6924c227727afb19b8",
+      "publishedAtLabel": "Feb 19"
+    },
+    {
+      "id": 18425,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Fanli Yang, Sheng Lin, Xin Yuan, Siqi Shu, Yueru Yu, Jing Yang, Fei Ye, Zimin Chen, Bin He, Jian Li, Qi Zhao, Haoyu Ye, Yu Cao, Guangwen Lu",
+      "title": "Structures of two lyssavirus glycoproteins trapped in pre- and post-fusion states and the implications on the spatial-temporal conformational transition along with pH-decrease",
+      "description": "Author summary Lyssavirus, as represented by the prototypic rabies virus, is responsible for approximately 60,000 human fatalities annually. The glycoprotein of lyssavirus is a key factor mediating the low pH-induced membrane fusion of the viral envelope with\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012923",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1012923.g005&size=inline",
+      "publishedAt": "2025-02-19 14:00:00",
+      "content": "Abstract Lyssavirus glycoprotein plays a crucial role in mediating virus entry and serves as the major target for neutralizing antibodies. During membrane fusion, the lyssavirus glycoprotein undergo\u2026 [+61113 chars]",
+      "retrievedAt": "2025-02-20 19:06:03.128117",
+      "internal_id": "816161e41fa3b366c108710b41dc5f5988359f2d6041a29fbd4ac49444b127ab",
+      "publishedAtLabel": "Feb 19"
+    },
+    {
+      "id": 18426,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "As measles outbreak rages in Texas, RFK Jr. pushes anti-vaccine message (Popular Information)",
+      "description": "Popular Information: As measles outbreak rages in Texas, RFK Jr. pushes anti-vaccine message \u2014 The largest measles outbreak Texas has seen in over 30 years is sweeping through the western part of the state. According to information released yesterday by th\u2026",
+      "url": "https://www.memeorandum.com/250219/p17",
+      "urlToImage": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0d5aec81-e071-4df3-a424-f8b25d931c18_1024x695.jpeg",
+      "publishedAt": "2025-02-19 13:55:00",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-02-20 19:06:03.474764",
+      "internal_id": "d36f8041962e61c35bda029a239236e56ffdef54b1ab16fadb8008bb18726c56",
+      "publishedAtLabel": "Feb 19"
+    },
+    {
+      "id": 18454,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "RSN MURALI",
+      "title": "Melaka exco member steps up fight against Aedes mosquito",
+      "description": "ALOR GAJAH: Aedes mosquito bites Datuk Ngwe Hee Sem when he was leading a recent dengue prevention operation at a second-hand dealer store and lorry parking yard in the Melaka Tengah district. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2025/02/19/melaka-exco-member-steps-up-fight-against-aedes-mosquito",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/02/19/3175727.jpeg",
+      "publishedAt": "2025-02-19 12:14:00",
+      "content": "ALOR GAJAH: Aedes mosquito bites Datuk Ngwe Hee Sem when he was leading a recent dengue prevention operation at a second-hand dealer store and lorry parking yard in the Melaka Tengah district. The M\u2026 [+2345 chars]",
+      "retrievedAt": "2025-02-20 19:06:05.018180",
+      "internal_id": "e749b5fad2cf33758b677093b37b6fd37dde5d3e69f9f8e0dab92f6322becec7",
+      "publishedAtLabel": "Feb 19"
+    },
+    {
+      "id": 18459,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "O'Leary, C., Pittet, L. F., Beaumont, R., Constable, L., Daley, A., Hodge, I., Jacobs, S. E., King, A., Tan, C., Curtis, N., Gwee, A.",
+      "title": "Predictive performance of cerebrospinal fluid parameters for diagnosis of meningitis in infants: a cohort study",
+      "description": "Background The gold standard for diagnosis of meningitis is the isolation of a pathogen from cerebrospinal fluid (CSF) by culture or PCR. However, treatment is routinely commenced based on CSF findings prior to microbiological results. This study determined t\u2026",
+      "url": "https://adc.bmj.com/content/110/3/209",
+      "urlToImage": "https://adc.bmj.com/sites/default/files/highwire/archdischild/110/3.cover-source.jpg",
+      "publishedAt": "2025-02-19 11:58:00",
+      "content": "Background The gold standard for diagnosis of meningitis is the isolation of a pathogen from cerebrospinal fluid (CSF) by culture or PCR. However, treatment is routinely commenced based on CSF findin\u2026 [+1487 chars]",
+      "retrievedAt": "2025-02-20 19:06:05.462292",
+      "internal_id": "3bcb9458399b84f3c22d22fa09e80431de16ca160e755f8999d0a0bb2e6dbc60",
+      "publishedAtLabel": "Feb 19"
+    },
+    {
+      "id": 18431,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "NPR",
+      "title": "Measles Outbreak, Foreign Aid Cuts, Bolsonaro Charges",
+      "description": "Health officials are warning about a measles outbreak in Texas. Trump administration efforts to shrink the federal government have temporarily cut off funding to pro-democracy groups abroad. And Brazil's former leader Jair Bolsonaro is charged with participa\u2026",
+      "url": "https://www.npr.org/2025/02/19/1232435562/up-first-measles-outbreak-foreign-aid-cut-bolsonaro-charges-02-19-2025",
+      "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+      "publishedAt": "2025-02-19 11:45:43",
+      "content": "Health officials are warning about a measles outbreak in Texas. Trump administration efforts to shrink the federal government have temporarily cut off funding to pro-democracy groups abroad. And Braz\u2026 [+531 chars]",
+      "retrievedAt": "2025-02-20 19:06:03.562451",
+      "internal_id": "77b30dd0f16bec6f18a754561daa9ad9b0cd4448ea7da63677ca67600f9d837d",
+      "publishedAtLabel": "Feb 19"
+    },
+    {
+      "id": 18428,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Boyculture.com",
+      "author": "Matthew Rettenmund",
+      "title": "Kevin Spacey Still A Dick + Jack Schlossberg Back On Social Media + Josh Seiter's Dead Again + Measles For Texas + MORE! \u2014 12-PACK",
+      "description": "Kevin Spacey Still A Dick + Jack Schlossberg Back On Social Media + Josh Seiter's Dead Again + Measles For Texas + MORE! \u2014 12-PACK",
+      "url": "https://www.boyculture.com/boy_culture/2025/02/kevin-spacey-guy-pearce-gay-jack-schlossberg-josh-seiter.html",
+      "urlToImage": "https://www.boyculture.com/.a/6a00d8341c2ca253ef02c8d3cc5874200c-600wi",
+      "publishedAt": "2025-02-19 11:45:00",
+      "content": "ABOVE: Jack Schlossberg is back! In part because Trump has attacked the JFK Library. BELOW: Keep reading for athlete's foot, Guy vs. Kevin and more ... (Image via Instagram) KENNETH IN THE (212): I \u2026 [+1745 chars]",
+      "retrievedAt": "2025-02-20 19:06:03.523743",
+      "internal_id": "b5ec3bcf4ec1892e12d060329ac1b14a0aa3c3122cab7a06788357958f16fd6c",
+      "publishedAtLabel": "Feb 19"
+    },
+    {
+      "id": 18430,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Brittney Melton",
+      "title": "Measles spreads in Texas. And, how U.S. funding cuts could benefit China",
+      "description": "A measles outbreak in West Texas has sparked concern as cases have more than doubled since last week. And, China seeks to support pro-democracy groups in the U.S.",
+      "url": "https://www.npr.org/2025/02/19/g-s1-49648/up-first-newsletter-measles-west-texas-jair-bolsonaro-china-funding",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1600x900+0+149/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F07%2Fa0%2Fbe23fe6d49648cf8d2eba6473016%2Fgettyimages-462294288-5e078eb41ec60d70c02339bedd26ff8f800fcc06.jpg",
+      "publishedAt": "2025-02-19 11:36:17",
+      "content": "Good morning. You're reading the Up First newsletter. Subscribe here to get it delivered to your inbox, and listen to the Up First podcast for all the news you need to start your day. Today's top st\u2026 [+5219 chars]",
+      "retrievedAt": "2025-02-20 19:06:03.544040",
+      "internal_id": "298393b02d54f9a29dabecdbeaef4cdc6c0e9df41d3bd721a43cae81b19d6422",
+      "publishedAtLabel": "Feb 19"
+    },
+    {
+      "id": 18447,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Sky.com",
+      "author": null,
+      "title": "Philippines village offering bounties for mosquitoes amid dengue fever outbreak",
+      "description": "A village in the Philippines is offering bounties for captured mosquitoes - dead or alive - amid a surge in dengue fever cases.",
+      "url": "https://news.sky.com/story/philippines-village-offering-bounties-for-mosquitoes-amid-dengue-fever-outbreak-13312514",
+      "urlToImage": "https://e3.365dm.com/25/02/1600x900/skynews-philippines-mosquitoes_6833493.jpg?20250219111419",
+      "publishedAt": "2025-02-19 11:07:00",
+      "content": "A village in the Philippines is offering bounties for captured mosquitoes - dead or alive - amid a surge in dengue fever cases. Residents in Addition Hills in Mandaluyong City will receive one Phil\u2026 [+2243 chars]",
+      "retrievedAt": "2025-02-20 19:06:04.931749",
+      "internal_id": "2a0b2ec36e4e0a9dac8d1a64c1f8a30fd4a6d8ae1f6af5ca217335ec8c66a7b1",
+      "publishedAtLabel": "Feb 19"
+    },
+    {
+      "id": 18458,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Www.abc.es",
+      "author": "(abc)",
+      "title": "Un peso por cada cinco mosquitos: la recompensa que ofrece Manila para acabar con los portadores del dengue",
+      "description": "Los vecinos de un barrio del centro de Manila (Filipinas) han lanzado una iniciativa en un momento en que los casos de dengue est\u00e1n aumentando por todo el pa\u00eds: recompensar con un peso por cada cinco mosquitos que se colecten, ya est\u00e9n muertos o vivos. Carlit\u2026",
+      "url": "https://www.abc.es/sociedad/peso-cinco-mosquitos-recompensa-ofrece-manila-acabar-20250219115801-nt.html",
+      "urlToImage": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2025/02/19/vecino-mosquitos-kDtE--1024x512@diario_abc.jpg",
+      "publishedAt": "2025-02-19 10:58:02",
+      "content": "Los vecinos de un barrio del centro de Manila (Filipinas) han lanzado una iniciativa en un momento en que los casos de dengue est\u00e1n aumentando por todo el pa\u00eds: recompensar con un peso por cada cinco\u2026 [+2151 chars]",
+      "retrievedAt": "2025-02-20 19:06:05.061670",
+      "internal_id": "70626287e2dff2f654253417d0502089f6737d307226a3f12ed1302c3c703ce5",
+      "publishedAtLabel": "Feb 19"
+    },
+    {
+      "id": 18432,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Slate Magazine",
+      "author": "Mary Harris",
+      "title": "A Measles Outbreak and Wake-Up Call",
+      "description": "Overall, vaccination rates against measles are very good, but there\u2019s enough vaccination skepticism to create pockets where outbreaks can happen.",
+      "url": "https://slate.com/podcasts/what-next/2025/02/why-measles-is-breaking-out-in-texas",
+      "urlToImage": "https://compote.slate.com/images/2c188c66-557b-4ba5-9a07-93accac25620.jpeg?crop=4500%2C3000%2Cx0%2Cy0&width=1560",
+      "publishedAt": "2025-02-19 10:30:00",
+      "content": "When enough people opt out of routine vaccinations for their children, diseases that have been all but eliminated can come roaring back, as is the case with a growing measles outbreak in West Texas. \u2026 [+565 chars]",
+      "retrievedAt": "2025-02-20 19:06:03.598865",
+      "internal_id": "dbb3052c03532a44d70a2bc7fbec130f125c1a18e9a4ec6ed11c9097f1edd599",
+      "publishedAtLabel": "Feb 19"
+    },
+    {
+      "id": 18449,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Sapo.pt",
+      "author": "Jornal i",
+      "title": "Madeira. Duas pessoas sinalizadas em janeiro com dengue",
+      "description": "At\u00e9 agora n\u00e3o h\u00e1 suspeitos de outros casos. O conte\u00fado Madeira. Duas pessoas sinalizadas em janeiro com dengue aparece primeiro em Jornal i.",
+      "url": "https://ionline.sapo.pt/2025/02/19/madeira-duas-pessoas-sinalizadas-em-janeiro-com-dengue/",
+      "urlToImage": "https://ionline.sapo.pt/wp-content/uploads/2025/02/dreamstime_m_66942163-1.jpg",
+      "publishedAt": "2025-02-19 10:09:26",
+      "content": "At\u00e9 agora n\u00e3o h\u00e1 suspeitos de outros casos. A Secretaria Regional de Sa\u00fade e Prote\u00e7\u00e3o Civil anunciou, esta ter\u00e7a-feira, terem sido sinalizadas duas pessoas, residentes na Madeira, com dengue no in\u00edci\u2026 [+1086 chars]",
+      "retrievedAt": "2025-02-20 19:06:04.970296",
+      "internal_id": "d3326880b240e78436ddb6a22b6714286e912c07e8c42d29711c48f50c042348",
+      "publishedAtLabel": "Feb 19"
+    },
+    {
+      "id": 18456,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "il-sole-24-ore",
+      "source_name": "Il Sole 24 Ore",
+      "author": null,
+      "title": "Filippine, lotta alla dengue: una taglia sulle zanzare, vive o morte",
+      "description": "Un villaggio nella regione della capitale filippina, densamente popolata, ha lanciato una battaglia contro la dengue offrendo una ricompensa simbolica ai residenti per le zanzare catturate, vive o morte. L\u2019insolita...",
+      "url": "https://www.ilsole24ore.com/art/filippine-lotta-dengue-taglia-zanzare-vive-o-morte-AGbSeqzC",
+      "urlToImage": "https://i2.res.24o.it/images2010/S24/Documenti/2025/02/20/Immagini/Ritagli/AFP_Chikungunya-zanzara-U16683158853ena-1440x752@IlSole24Ore-Web.jpg?r=1170x507",
+      "publishedAt": "2025-02-19 09:34:35",
+      "content": "I residenti riceveranno una ricompensa di un peso filippino (poco pi\u00f9 di 1 centesimo) per cinque zanzare o larve di zanzara che consegneranno, ha detto Cernal. I critici hanno avvertito che la strat\u2026 [+1128 chars]",
+      "retrievedAt": "2025-02-20 19:06:05.044362",
+      "internal_id": "0c50b81a58be768c8ac9f528f5c970e258bc9cf42b06f37f7f6849eca0fcc80f",
+      "publishedAtLabel": "Feb 19"
+    },
+    {
+      "id": 18455,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Pravda.sk",
+      "author": "TASR",
+      "title": "\u010c\u00edm viac kom\u00e1rov, t\u00fdm viac pesos. V Manile n\u00fakaj\u00fa \u013eu\u010fom za ich chytanie odmenu, chc\u00fa tak zabr\u00e1ni\u0165 epid\u00e9mii",
+      "description": "Uloven\u00e9 kom\u00e1re m\u00f4\u017eu by\u0165 \u017eiv\u00e9 aj m\u0155tve.",
+      "url": "https://spravy.pravda.sk/svet/clanok/741595-cim-viac-komarov-tym-viac-pesos-v-manile-nukaju-ludom-za-ich-chytanie-odmenu-chcu-tak-zabranit-epidemii/",
+      "urlToImage": "http://ipravda.sk/res/2025/02/19/thumbs/philippines-dengue-mosquito-bounty-clanokW.jpg",
+      "publishedAt": "2025-02-19 09:16:00",
+      "content": "tvr Addition Hills v husto os\u00eddlenej oblasti hlavn\u00e9ho mesta Filip\u00edn zaala v boji proti hor\u00fake dengue pon\u00faka obanom odmenu za odchyten\u00fdch kom\u00e1rov. M\u00f4u pritom by iv\u00e9 aj mtve, nap\u00edsala agent\u00fara AP.Obani\u2026 [+1661 chars]",
+      "retrievedAt": "2025-02-20 19:06:05.025262",
+      "internal_id": "342c85ea9aa12f77c4103c4f3babeec2475a24fde3925f2620683456e716e905",
+      "publishedAtLabel": "Feb 19"
+    },
+    {
+      "id": 18427,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Steve Inskeep",
+      "title": "Morning news brief",
+      "description": "Measles cases are spiking in West Texas, how China is responding as the U.S. ends funding for pro-democracy groups, and former Brazilian President Jair Bolsonaro faces charges over alleged coup plot.",
+      "url": "https://www.npr.org/2025/02/19/nx-s1-5299808/morning-news-brief",
+      "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+      "publishedAt": "2025-02-19 09:09:55",
+      "content": "Measles cases are spiking in West Texas, how China is responding as the U.S. ends funding for pro-democracy groups, and former Brazilian President Jair Bolsonaro faces charges over alleged coup plot.",
+      "retrievedAt": "2025-02-20 19:06:03.516905",
+      "internal_id": "aedcfc03a4d6dc256c60be7bbf8ce777eeb9588e17fe55d5ce43224e92c56ca1",
+      "publishedAtLabel": "Feb 19"
+    },
+    {
+      "id": 18429,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Steve Inskeep",
+      "title": "Measles cases in West Texas more than double since last week, health officials say",
+      "description": "Health officials say measles cases in West Texas have more than doubled since last week, with at least 58 confirmed cases and 13 hospitalizations. Several counties have begun vaccination drives.",
+      "url": "https://www.npr.org/2025/02/19/nx-s1-5300086/measles-cases-in-west-texas-more-than-double-since-last-week-health-officials-say",
+      "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+      "publishedAt": "2025-02-19 09:04:49",
+      "content": "Health officials say measles cases in West Texas have more than doubled since last week, with at least 58 confirmed cases and 13 hospitalizations. Several counties have begun vaccination drives.",
+      "retrievedAt": "2025-02-20 19:06:03.537042",
+      "internal_id": "032d148a7abe23a35899d2fe601f1af188e5a293ef6a2a0fea48e3ba5b7c6d47",
+      "publishedAtLabel": "Feb 19"
+    },
+    {
+      "id": 18440,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Portfolio.hu",
+      "author": "Portfolio.hu",
+      "title": "Kock\u00e1zatos hiba cs\u00faszott Donald Trump g\u00e9pezet\u00e9be: n\u0151tt a j\u00e1rv\u00e1nyvesz\u00e9ly a kir\u00fag\u00e1sok miatt?",
+      "description": "Az Egyes\u00fclt \u00c1llamok agr\u00e1rminiszt\u00e9riuma bejelentette, hogy a h\u00e9tv\u00e9g\u00e9n t\u00e9ved\u00e9sb\u0151l elbocs\u00e1tott t\u00f6bb olyan k\u00f6zalkalmazottat, akik a H5N1 mad\u00e1rinfluenza-j\u00e1rv\u00e1ny elleni fell\u00e9p\u00e9sben vettek r\u00e9szt. A t\u00e1rca most igyekszik visszavonni a k\u00f6lts\u00e9ghat\u00e9konys\u00e1g jegy\u00e9ben sz\u00fcle\u2026",
+      "url": "https://www.portfolio.hu/global/20250219/kockazatos-hiba-csuszott-donald-trump-gepezetebe-nott-a-jarvanyveszely-a-kirugasok-miatt-742365",
+      "urlToImage": "https://cdn.portfolio.hu/articles/images-xl/e/l/o/elon-musk-457274.jpg",
+      "publishedAt": "2025-02-19 09:04:00",
+      "content": "A mezgazdas\u00e1gi miniszt\u00e9rium sz\u00f3vivje k\u00f6zlem\u00e9nyben ers\u00edtette meg a hib\u00e1t: B\u00e1r a h\u00e9tv\u00e9g\u00e9n t\u00f6bb, a [mad\u00e1rinfluenza elleni erfesz\u00edt\u00e9sekben] r\u00e9szt vev tisztet \u00e9rtes\u00edtettek a meneszt\u00e9srl, azon dolgozunk, \u2026 [+2190 chars]",
+      "retrievedAt": "2025-02-20 19:06:04.389880",
+      "internal_id": "f40a2df442c04082b802b506d86343fe93463cd8c2daac1fcbff8850f994f3d9",
+      "publishedAtLabel": "Feb 19"
+    },
+    {
+      "id": 18448,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "The Associated Press",
+      "title": "Philippine village battles dengue by offering bounties for mosquitos \u2014 dead or alive",
+      "description": "A Philippine village in the densely populated capital region has launched a battle against dengue by offering a token bounty to residents for captured mosquitos \u2014 dead or alive",
+      "url": "https://abcnews.go.com/Health/wireStory/philippine-village-battles-dengue-offering-bounties-mosquitos-dead-118955015",
+      "urlToImage": "https://i.abcnewsfe.com/a/0bb5cfe9-c7f3-4eb4-9bc1-55aba78e4684/wirestory_570dea53f828e208765e9d1bec363d24_16x9.jpg?w=1600",
+      "publishedAt": "2025-02-19 08:13:23",
+      "content": "MANILA, Philippines -- A village in the densely populated Philippine capital region launched a battle against dengue Wednesday by offering a token bounty to residents for captured mosquitos dead or a\u2026 [+2745 chars]",
+      "retrievedAt": "2025-02-20 19:06:04.945625",
+      "internal_id": "9e7de03761f34e703642e187c423bca20e559eb81915a67ee245b5003d79dfb2",
+      "publishedAtLabel": "Feb 19"
+    },
+    {
+      "id": 18424,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Rg.ru",
+      "author": null,
+      "title": "\u0418\u043d\u0444\u0435\u043a\u0446\u0438\u043e\u043d\u0438\u0441\u0442 \u041f\u043e\u0437\u0434\u043d\u044f\u043a\u043e\u0432 \u043e\u0431\u044a\u044f\u0441\u043d\u0438\u043b, \u043f\u043e\u0447\u0435\u043c\u0443 \u0440\u0430\u0441\u0442\u0435\u0442 \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0430\u0435\u043c\u043e\u0441\u0442\u044c \u043a\u043e\u043a\u043b\u044e\u0448\u0435\u043c",
+      "description": "\u0412 \u0420\u043e\u0441\u0441\u0438\u0438 \u0432 \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0438\u0435 \u0433\u043e\u0434\u044b \u043d\u0430\u0431\u043b\u044e\u0434\u0430\u0435\u0442\u0441\u044f \u0440\u0435\u0437\u043a\u0438\u0439 \u0440\u043e\u0441\u0442 \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0430\u0435\u043c\u043e\u0441\u0442\u0438 \u043a\u043e\u043a\u043b\u044e\u0448\u0435\u043c. \u0412 \u043f\u0440\u043e\u0448\u043b\u043e\u043c \u0433\u043e\u0434\u0443 \u0437\u0430\u0431\u043e\u043b\u0435\u043b\u043e \u0431\u043e\u043b\u0435\u0435 53 \u0442\u044b\u0441\u044f\u0447 \u0447\u0435\u043b\u043e\u0432\u0435\u043a, \u0438 \u044d\u0442\u043e \u0440\u0435\u043a\u043e\u0440\u0434\u043d\u044b\u0439 \u043f\u043e\u043a\u0430\u0437\u0430\u0442\u0435\u043b\u044c \u0437\u0430 30 \u043b\u0435\u0442. \u0427\u0442\u043e \u043f\u0440\u043e\u0438\u0441\u0445\u043e\u0434\u0438\u0442? \u0427\u0435\u043c \u043e\u043f\u0430\u0441\u0435\u043d \u043a\u043e\u043a\u043b\u044e\u0448 \u0438 \u043a\u0430\u043a \u043e\u0442 \u043d\u0435\u0433\u043e \u0443\u0431\u0435\u0440\u0435\u0447\u044c\u0441\u044f? \u041d\u0430 \u044d\u0442\u0438 \u0432\u043e\u043f\u0440\u043e\u0441\u044b \"\u0420\u0413\" \u043e\u0442\u0432\u0435\u0442\u0438\u043b \u0432\u0440\u0430\u0447-\u0438\u043d\u0444\u0435\u043a\u0446\u2026",
+      "url": "https://rg.ru/2025/02/19/infekcionist-pozdniakov-obiasnil-pochemu-rastet-zabolevaemost-kokliushem.html",
+      "urlToImage": "https://cdnstatic.rg.ru/uploads/images/2025/02/19/istock-850879876_891.jpg",
+      "publishedAt": "2025-02-19 07:42:02",
+      "content": "? 2021-2022 , , , - 53 . : , 2023 . -, : . . -, COVID-19. , , . , . - , , - , . , , 20-30 ? , ? : - Bordetella pertussis - . , , . , 20-30 - , . , , . ? : , , . , , , . - Bordetella pertuss\u2026 [+537 chars]",
+      "retrievedAt": "2025-02-20 19:06:02.832380",
+      "internal_id": "cd77b32ee6c87dc4af00066738c0ee71dbc04a9405f2519c36f22f51b4e3ae31",
+      "publishedAtLabel": "Feb 19"
+    },
+    {
+      "id": 18450,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Origo.hu",
+      "author": "Origo",
+      "title": "K\u00fcl\u00f6n\u00f6s m\u00f3don akarj\u00e1k meg\u00e1ll\u00edtani a dengue-l\u00e1zt",
+      "description": "A F\u00fcl\u00f6p-szigetek egyik legs\u0171r\u0171bben lakott v\u00e1rosk\u00f6zpontj\u00e1nak hat\u00f3s\u00e1gai p\u00e9nzjutalmat aj\u00e1nlanak fel a sz\u00fanyogok\u00e9rt, hogy meg\u00e1ll\u00edts\u00e1k a dengue-l\u00e1z terjed\u00e9s\u00e9t.",
+      "url": "https://www.origo.hu/nagyvilag/2025/02/penzjutalom-dengue-laz-fulop-szigetek",
+      "urlToImage": "https://cdn.origo.hu/2025/02/OxeQN7c0xlyujc5FFfz5hC7dMHCxHv67RcyaY0EVjDk/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2JhYzVkNmVkODhlZDQwZTQ4MjM5ZmNkNjBjMmYxMWU0.webp",
+      "publishedAt": "2025-02-19 07:17:11",
+      "content": "Carlito Cernal, Barangay Addition Hills falu vezetje azt k\u00f6veten hirdette meg az \u00f6t sz\u00fanyog\u00e9rt j\u00e1r\u00f3 egy peso v\u00e9rd\u00edjat, hogy a szomsz\u00e9ds\u00e1g\u00e1ban k\u00e9t di\u00e1k meghalt a betegs\u00e9gben. Cernal elmondta, hogy a p\u2026 [+2235 chars]",
+      "retrievedAt": "2025-02-20 19:06:04.977855",
+      "internal_id": "e966025b7a97cb78dac8da35387181395dd2194ed831887095e6c0bf6e4ae034",
+      "publishedAtLabel": "Feb 19"
+    },
     {
       "id": 18410,
       "query": [
@@ -24737,114 +25405,6 @@
       "content": "A colorized transmission electron micrograph of avian influenza A H5N1 virus particles (blue), grown in Madin-Darby Canine Kidney (MDCK) epithelial cells - Copyright National Institute of Allergy and\u2026 [+2429 chars]",
       "retrievedAt": "2025-01-07 07:06:27.473171",
       "internal_id": "c70be9cec5809b4f8f89532947c360ec0a5d03c80f8e18b3e74013a276bcea4f",
-      "publishedAtLabel": "Jan 5"
-    },
-    {
-      "id": 17051,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Faz.net",
-      "author": "Andreas Eckert",
-      "title": "\u00dcber die Umweltgeschichte Afrikas",
-      "description": "Viehzucht, Malaria und die Wei\u00dfen: Will man die Umweltgeschichte Afrikas erz\u00e4hlen, muss man neben der Natur und Krankheiten auch Machtfragen und den Imperialismus in den Blick nehmen.",
-      "url": "https://www.faz.net/aktuell/feuilleton/bilder-und-zeiten/krankheiten-und-der-kolonialismus-ueber-die-umweltgeschichte-afrikas-110208640.html",
-      "urlToImage": "https://media0.faz.net/ppmedia/aktuell/909935446/1.10209298/facebook_teaser_fplus/ein-tuareg-impft-kinder-in.jpg",
-      "publishedAt": "2025-01-05 18:56:04",
-      "content": "Die Klimanachrichten aus Afrika sind d\u00fcster. W\u00e4hrend Teile des Kontinents von \u00dcberschwemmungen heimgesucht werden, leiden andere Regionen unter langen D\u00fcrreperioden. Diese Katastrophen treffen zumeis\u2026 [+711 chars]",
-      "retrievedAt": "2025-01-06 19:05:36.440882",
-      "internal_id": "bb517e2215e4968a9c4f036e58c2140369b52fc1afcd41c168942ba8f1ad4c34",
-      "publishedAtLabel": "Jan 5"
-    },
-    {
-      "id": 17050,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Catracalivre.com.br",
-      "author": "Andr\u00e9 Nicolau",
-      "title": "4 fatos indispens\u00e1veis sobre a dengue que voc\u00ea precisa conhecer",
-      "description": "O aumento das chuvas e das temperaturas elevadas reservam condi\u00e7\u00f5es ideais para a reprodu\u00e7\u00e3o do mosquito da dengue. Confira outros fatos.",
-      "url": "https://catracalivre.com.br/saude-bem-estar/fatos-dengue-precisa-saber/",
-      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1280,h=680,fit=cover,format=jpeg/wp-content/uploads/2024/02/dengue.jpg",
-      "publishedAt": "2025-01-05 17:00:18",
-      "content": "A dengue \u00e9 uma doen\u00e7a viral passada pelo mosquito Aedes Aegypti Soumyabrata Roy/istock - Soumyabrata Roy/istock O aumento das chuvas e das temperaturas elevadas, t\u00edpicas do ver\u00e3o, reservam condi\u00e7\u00f5es\u2026 [+2913 chars]",
-      "retrievedAt": "2025-01-06 19:05:35.874249",
-      "internal_id": "6ecb502a9076a0366e11d6a18a8f8509f248784d13153fb6c1f0f9f07cfa23e3",
-      "publishedAtLabel": "Jan 5"
-    },
-    {
-      "id": 17049,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "la-nacion",
-      "source_name": "La Nacion",
-      "author": "Alejandro Horvat",
-      "title": "En plena temporada: qu\u00e9 medidas preventivas hay en la costa para evitar aumentos de casos de dengue",
-      "description": "Si bien los especialistas advierten que no es una zona end\u00e9mica, el alto movimiento tur\u00edstico puede llegar a ser un agravante",
-      "url": "https://www.lanacion.com.ar/sociedad/en-plena-temporada-que-medidas-preventivas-hay-en-la-costa-para-evitar-aumentos-de-casos-de-dengue-nid05012025/",
-      "urlToImage": "https://resizer.glanacion.com/resizer/v2/los-casos-de-dengue-a-nivel-nacional-muestran-un-H26K6NEWUBB3JP5D3RNPUAEQS4.jpg?auth=f16d6224ca93e3f623fdb9c5614b43b9913314d40fbd519eee619de366b52ea5&width=1200&quality=70&smart=false&height=800",
-      "publishedAt": "2025-01-05 10:37:15",
-      "content": "El verano no solo trae consigo altas temperaturas y playas llenas de turistas, sino tambi\u00e9n un desaf\u00edo sanitario que pone en alerta a todo el pa\u00eds: el dengue. Esta enfermedad, transmitida por el mosq\u2026 [+5853 chars]",
-      "retrievedAt": "2025-01-06 19:05:35.867226",
-      "internal_id": "2182e8f604e1bfaf08eef8b9d2796fa1ffccd8be529a354e5d5cb6bafdcfafbf",
-      "publishedAtLabel": "Jan 5"
-    },
-    {
-      "id": 17048,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Aajtak.in",
-      "author": "aajtak.in",
-      "title": "\u0928\u093e\u0917\u092a\u0941\u0930 \u092e\u0947\u0902 \u092c\u0930\u094d\u0921 \u092b\u094d\u0932\u0942 \u0938\u0947 3 \u092c\u093e\u0918 \u0914\u0930 \u090f\u0915 \u0924\u0947\u0902\u0926\u0941\u090f \u0915\u0940 \u092e\u094c\u0924, \u091f\u093e\u0907\u0917\u0930 \u0930\u093f\u091c\u0930\u094d\u0935 \u0914\u0930 \u0930\u0947\u0938\u094d\u0915\u094d\u092f\u0942 \u0938\u0947\u0902\u091f\u0930\u094d\u0938 \u0915\u0947 \u0932\u093f\u090f \u0905\u0932\u0930\u094d\u091f \u091c\u093e\u0930\u0940",
-      "description": "\u092e\u0939\u093e\u0930\u093e\u0937\u094d\u091f\u094d\u0930 \u0915\u0947 \u0928\u093e\u0917\u092a\u0941\u0930 \u092e\u0947\u0902 \u0917\u094b\u0930\u0947\u0935\u093e\u0921\u093c\u093e \u0930\u0947\u0938\u094d\u0915\u094d\u092f\u0942 \u0938\u0947\u0902\u091f\u0930 \u092e\u0947\u0902 \u0926\u093f\u0938\u0902\u092c\u0930 \u092e\u0947\u0902 \u0924\u0940\u0928 \u092c\u093e\u0918 \u0914\u0930 \u090f\u0915 \u0924\u0947\u0902\u0926\u0941\u0906 H5N1 \u0935\u093e\u092f\u0930\u0938 \u0938\u0947 \u0938\u0902\u0915\u094d\u0930\u092e\u093f\u0924 \u0939\u094b\u0915\u0930 \u092e\u093e\u0930\u0947 \u0917\u090f. \u0907\u0938 \u0918\u091f\u0928\u093e \u0915\u0947 \u092c\u093e\u0926 \u0930\u093e\u091c\u094d\u092f \u0915\u0947 \u091f\u093e\u0907\u0917\u0930 \u0930\u093f\u091c\u0930\u094d\u0935 \u0914\u0930 \u0930\u0947\u0938\u094d\u0915\u094d\u092f\u0942 \u0938\u0947\u0902\u091f\u0930\u094d\u0938 \u0915\u094b \u0905\u0932\u0930\u094d\u091f \u092a\u0930 \u0930\u0916\u093e \u0917\u092f\u093e \u0939\u0948. \u091c\u093e\u0902\u091a \u092e\u0947\u0902 \u0905\u0928\u094d\u092f 26 \u0924\u0947\u0902\u0926\u0941\u090f \u0914\u0930 12 \u092c\u093e\u0918 \u0938\u094d\u0935\u0938\u094d\u0925 \u092a\u093e\u090f \u0917\u090f. \u0905\u0927\u093f\u0915\u093e\u0930\u2026",
-      "url": "https://www.aajtak.in/india/maharashtra/story/tiger-and-leopard-died-of-bird-flu-h5n1-virus-in-nagpur-rescue-centre-alert-issued-ntc-dskc-2136699-2025-01-05",
-      "urlToImage": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202501/677a5e7159d1b-tiger-and-leopard-052651552-16x9.jpg",
-      "publishedAt": "2025-01-05 10:29:37",
-      "content": "Copyright \u00a9 2025 Living Media India Limited. For reprint rights: Syndications Today",
-      "retrievedAt": "2025-01-06 19:05:35.396893",
-      "internal_id": "895fd40da7e5878970f986f3d0e94cfdacdf9a1b17b1b11a728150ebb9cf5d5f",
-      "publishedAtLabel": "Jan 5"
-    },
-    {
-      "id": 17047,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "ET Online",
-      "title": "Amid HMPV virus outbreak in China, three tigers and a leopard die of highly infectious avian flu H5N1 virus in Nagpur",
-      "description": "Three tigers and a sub-adult leopard at Gorewada Rescue Centre in Nagpur died from avian flu H5N1. This is the first time the virus caused significant wildlife deaths in captivity in India. Health measures were taken, and other big cats were examined and foun\u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/amid-hmpv-virus-outbreak-in-china-three-tigers-and-a-leopard-die-of-highly-pathogenic-avian-flu-h5n1-virus/articleshow/116963521.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-116963972,width-1200,height-630,imgsize-2683349,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2025-01-05 10:00:31",
-      "content": "Artificial Intelligence(AI) AI and Analytics based Business Strategy By - Tanusree De, Managing Director- Accenture Technology Lead, Trustworthy AI Center of Excellence: ATCI View Program",
-      "retrievedAt": "2025-01-06 19:05:35.389872",
-      "internal_id": "9a8435ec806824779d4f6f3f6b1e195d161d13980117dc60019978fad90f1c29",
-      "publishedAtLabel": "Jan 5"
-    },
-    {
-      "id": 17046,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "ZyCrypto",
-      "author": "Guest Author",
-      "title": "Solana\u2019s PNUT Prodigy Picks DLUME as 2025\u2019s Next Big Thing \u2013 Could You Be Next?",
-      "description": "Particularly during a viral rabies crisis in New York in October 2023, Peanut the Squirrel\u2019s (PNUT) ascent as a Solana-based memecoin has garnered a lot of focus. When Coinbase revealed that PNUT would be included in its listing roadmap on December 11, the me\u2026",
-      "url": "https://zycrypto.com/solanas-pnut-prodigy-picks-dlume-as-2025s-next-big-thing-could-you-be-next/",
-      "urlToImage": "https://zycrypto.com/wp-content/uploads/2024/12/Next-Crypto-to-Explode-Aurealone-Leads-Best-Coins-for-Potential-600x-Portfolio-Gains.jpg",
-      "publishedAt": "2025-01-05 09:24:56",
-      "content": "Particularly during a viral rabies crisis in New York in October 2023, Peanut the Squirrel\u2019s (PNUT) ascent as a Solana-based memecoin has garnered a lot of focus. When Coinbase revealed that PNUT wou\u2026 [+5309 chars]",
-      "retrievedAt": "2025-01-06 19:05:34.431523",
-      "internal_id": "f2d59d393705c83bbe72e8188b5f7b2b888747d87217f20b6d7b7fa89d96f24e",
       "publishedAtLabel": "Jan 5"
     }
   ]

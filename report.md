@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 29
-- **Last harvest:** 2025-02-20 07:06
-- **Most recent article:** 2025-02-19 07:00:00
+- **New articles in last harvest:** 37
+- **Last harvest:** 2025-02-20 19:06
+- **Most recent article:** 2025-02-19 19:02:23
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-2 | 25-3 | 25-4 | 25-5 | 25-6 | 25-7 | 25-8 | Total |
 |--|-|-|-|-|-|-|-|-|
-| h5n1 | 129 | 65 | 31 | 51 | 72 | 55 | 31 | 434 |
-| mpox | 91 | 34 | 23 | 22 | 28 | 18 | 5 | 221 |
-| dengue | 41 | 29 | 37 | 24 | 34 | 37 | 16 | 218 |
-| measles | 6 | 9 | 10 | 13 | 24 | 72 | 39 | 173 |
-| malaria | 29 | 18 | 19 | 30 | 25 | 12 | 3 | 136 |
+| h5n1 | 127 | 65 | 31 | 51 | 72 | 55 | 39 | 440 |
+| dengue | 39 | 29 | 37 | 24 | 34 | 37 | 32 | 232 |
+| mpox | 91 | 34 | 23 | 22 | 28 | 18 | 6 | 222 |
+| measles | 6 | 9 | 10 | 13 | 24 | 72 | 48 | 182 |
+| malaria | 28 | 18 | 19 | 30 | 25 | 12 | 3 | 135 |
 | hpai | 18 | 12 | 11 | 6 | 3 | 9 | 3 | 62 |
-| chikungunya | 7 | 7 | 10 | 9 | 8 | 5 | 1 | 47 |
-| zika | 15 | 5 | 2 | 8 | 6 | 2 | 4 | 42 |
-| meningitis | 0 | 2 | 3 | 8 | 2 | 12 | 7 | 34 |
-| rabies | 2 | 6 | 7 | 6 | 4 | 5 | 3 | 33 |
-| pertussis | 2 | 0 | 1 | 0 | 3 | 3 | 1 | 10 |
+| chikungunya | 7 | 7 | 10 | 9 | 8 | 5 | 2 | 48 |
+| zika | 15 | 5 | 2 | 8 | 6 | 2 | 5 | 43 |
+| meningitis | 0 | 2 | 3 | 8 | 2 | 12 | 8 | 35 |
+| rabies | 1 | 6 | 7 | 6 | 4 | 5 | 4 | 33 |
+| pertussis | 2 | 0 | 1 | 0 | 3 | 3 | 2 | 11 |
 | yersinia | 3 | 2 | 0 | 0 | 0 | 5 | 0 | 10 |
 | typhoid | 0 | 4 | 0 | 0 | 2 | 3 | 0 | 9 |
 | leptospirosis | 0 | 1 | 2 | 0 | 1 | 0 | 2 | 6 |
@@ -34,6 +34,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-8 (zika)
 
+- [Com mais de 110 mortes, São Paulo decreta emergência por dengue em todo o estado](https://veja.abril.com.br/saude/com-mais-de-100-mortes-sao-paulo-decreta-emergencia-por-dengue-em-todo-o-estado) (Abril.com.br)
+
 - [Zika: novo tratamento do vírus se mostra promissor; conheça](https://olhardigital.com.br/2025/02/18/medicina-e-saude/zika-novo-tratamento-do-virus-se-mostra-promissor-conheca/) (Olhardigital.com.br)
 
 - [Diante de Nísia, senadora critica veto a pensão para vítimas do zika vírus](https://veja.abril.com.br/coluna/radar/diante-de-nisia-senadora-critica-veto-a-pensao-para-vitimas-do-zika-virus) (Abril.com.br)
@@ -44,6 +46,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-8 (rabies)
 
+- [Structures of two lyssavirus glycoproteins trapped in pre- and post-fusion states and the implications on the spatial-temporal conformational transition along with pH-decrease](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012923) (Plos.org)
+
 - [Musk opens up about dinner party that soured when Trump's name was invoked: 'Like methamphetamine and rabies'](https://www.foxnews.com/politics/musk-opens-up-about-dinner-party-that-soured-when-trumps-name-was-invoked-like-methamphetamine-rabies) (Fox News)
 
 - [Elon Musk Mocks ‘Trump Derangement Syndrome’ By Freaking Out Like He’s Been Shot With ‘Methamphetamine and Rabies’](https://www.mediaite.com/tv/elon-musk-mocks-trump-derangement-syndrome-by-freaking-out-like-hes-been-shot-with-methamphetamine-and-rabies/) (Mediaite)
@@ -52,9 +56,13 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-8 (pertussis)
 
+- [Инфекционист Поздняков объяснил, почему растет заболеваемость коклюшем](https://rg.ru/2025/02/19/infekcionist-pozdniakov-obiasnil-pochemu-rastet-zabolevaemost-kokliushem.html) (Rg.ru)
+
 - [Инфекционист предостерег о вызывающих коклюш бактериях](https://iz.ru/1840550/2025-02-18/infekcionist-predostereg-o-vyzyvausih-koklus-bakteriah) (Iz.ru)
 
 ## 25-8 (mpox)
+
+- [UNICEF raises alarm over frequent health crises in eastern, southern Africa](https://www.thestar.com.my/news/world/2025/02/20/unicef-raises-alarm-over-frequent-health-crises-in-eastern-southern-africa) (The Star Online)
 
 - [Ο ΠΟΥ καλεί μέλη να καταλήξουν σε συμφωνία για αντιμετώπιση πανδημιών «τώρα ή ποτέ»](https://dialogos.com.cy/o-poy-kalei-meli-na-katalixoyn-se-symfonia-gia-antimetopisi-pandimion-tora-i-pote/) (Dialogos.com.cy)
 
@@ -67,6 +75,8 @@ Source: [News API](https://newsapi.org/)
 - [ΠΟΥ: Κάλεσμα στις χώρες μέλη για συμφωνία σχετικά με την αντιμετώπιση των πανδημιών «τώρα ή ποτέ»](https://www.naftemporiki.gr/health/1916346/poy-kalesma-stis-chores-meli-gia-symfonia-schetika-me-tin-antimetopisi-ton-pandimion-tora-i-pote/) (Naftemporiki.gr)
 
 ## 25-8 (meningitis)
+
+- [Predictive performance of cerebrospinal fluid parameters for diagnosis of meningitis in infants: a cohort study](https://adc.bmj.com/content/110/3/209) (The BMJ)
 
 - [Cholera outbreak: Keep your environment clean ahead of the rains – Health Minister urges](https://3news.com/news/cholera-outbreak-keep-your-environment-clean-ahead-of-the-rains-health-minister-urges/) (3news.com)
 
@@ -83,6 +93,24 @@ Source: [News API](https://newsapi.org/)
 - [Alarm in Pyrgos after the death of a 54 year old woman – Serious indications of a meningitis case](https://en.protothema.gr/2025/02/16/alarm-in-pyrgos-after-the-death-of-a-54-year-old-woman-serious-indications-of-a-meningitis-case/) (Protothema.gr)
 
 ## 25-8 (measles)
+
+- [Texas measles cases are up, and New Mexico now has an outbreak. Here's what you need to know](https://richmond.com/news/nation-world/measles-outbreak-mmr-vaccine-texas-new-mexico/article_58012f3b-c078-5957-9fc3-384e8f829acd.html) (Richmond.com)
+
+- [Texas measles cases are up, and New Mexico now has an outbreak. Here's what you need to know](https://roanoke.com/news/nation-world/measles-outbreak-mmr-vaccine-texas-new-mexico/article_1db1da90-a1ab-5fb6-93aa-cf1ad722fe69.html) (Roanoke Times)
+
+- [As measles outbreak rages in Texas, RFK Jr. pushes anti-vaccine message (Popular Information)](https://www.memeorandum.com/250219/p17) (Memeorandum.com)
+
+- [Measles Outbreak, Foreign Aid Cuts, Bolsonaro Charges](https://www.npr.org/2025/02/19/1232435562/up-first-measles-outbreak-foreign-aid-cut-bolsonaro-charges-02-19-2025) (NPR)
+
+- [Kevin Spacey Still A Dick + Jack Schlossberg Back On Social Media + Josh Seiter's Dead Again + Measles For Texas + MORE! — 12-PACK](https://www.boyculture.com/boy_culture/2025/02/kevin-spacey-guy-pearce-gay-jack-schlossberg-josh-seiter.html) (Boyculture.com)
+
+- [Measles spreads in Texas. And, how U.S. funding cuts could benefit China](https://www.npr.org/2025/02/19/g-s1-49648/up-first-newsletter-measles-west-texas-jair-bolsonaro-china-funding) (NPR)
+
+- [A Measles Outbreak and Wake-Up Call](https://slate.com/podcasts/what-next/2025/02/why-measles-is-breaking-out-in-texas) (Slate Magazine)
+
+- [Morning news brief](https://www.npr.org/2025/02/19/nx-s1-5299808/morning-news-brief) (NPR)
+
+- [Measles cases in West Texas more than double since last week, health officials say](https://www.npr.org/2025/02/19/nx-s1-5300086/measles-cases-in-west-texas-more-than-double-since-last-week-health-officials-say) (NPR)
 
 - [66 measles cases reported in US states of Texas, New Mexico](https://www.voanews.com/a/measles-cases-reported-in-us-states-of-texas-new-mexico/7980149.html) (VOA News)
 
@@ -186,6 +214,22 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-8 (h5n1)
 
+- [Trump officials try to reverse DOGE-led firings](https://theweek.com/politics/doge-led-firings-trump-musk-bird-air-safety) (The Week Magazine)
+
+- [Canada buys 500,000 doses of H5N1 avian influenza vaccine for those most at risk](https://www.cbc.ca/news/health/h5n1-vaccine-canada-1.7462802) (CBC News)
+
+- [ΗΠΑ: Αντιμέτωπη με τη γρίπη των πτηνών, προσπαθεί να επαναπροσλάβει υπαλλήλους του υπ. Γεωργίας](https://www.skai.gr/news/world/ipa-antimetopi-me-ti-gripi-ton-ptinon) (Skai.gr)
+
+- [Η κυβέρνηση Τραμπ προσπαθεί να επαναπροσλάβει υπαλλήλους του υπουργείου Γεωργίας λόγω της γρίπης των πτηνών](https://www.protothema.gr/world/article/1603613/i-kuvernisi-trab-prospathei-na-epanaproslavei-upallilous-tou-upourgeiou-georgias-logo-tis-gripis-ton-ptinon/) (Protothema.gr)
+
+- [Trump, pese a la escasez del huevo de EU, despide a funcionarios que trataban la gripe aviar](https://www.excelsior.com.mx/global/usda-despide-empleados-por-error-mientras-brote-de-gripe-aviar-se-agrava/1700691) (Excelsior.com.mx)
+
+- [Looking Into This](https://www.eschatonblog.com/2025/02/looking-into-this_01967887625.html) (Eschatonblog.com)
+
+- [USDA Has Spent $1.25 Billion on Mass Culling for H5N1 Bird Flu—With Disastrous Consequences](https://www.globalresearch.ca/usda-spent-1-25-billion-mass-culling-h5n1-bird-flu/5880289) (Globalresearch.ca)
+
+- [Kockázatos hiba csúszott Donald Trump gépezetébe: nőtt a járványveszély a kirúgások miatt?](https://www.portfolio.hu/global/20250219/kockazatos-hiba-csuszott-donald-trump-gepezetebe-nott-a-jarvanyveszely-a-kirugasok-miatt-742365) (Portfolio.hu)
+
 - [全球第三波H5N1疫情遲未結束，禽流感如何演變成全球威脅？](https://www.thenewslens.com/article/249164) (Thenewslens.com)
 
 - [Πρώτα οι αγελάδες, τώρα οι γάτες – Έρχεται η γρίπη των πτηνών για τον άνθρωπο;](https://www.naftemporiki.gr/kosmos/1916662/prota-oi-agelades-tora-oi-gates-erchetai-i-gripi-ton-ptinon-gia-ton-anthropo/) (Naftemporiki.gr)
@@ -250,6 +294,38 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-8 (dengue)
 
+- [Sao Paulo ruft Notstand wegen Dengue-Fiebers aus](https://orf.at/stories/3385363/) (Orf.at)
+
+- [In This Neighborhood, They Trade Mosquitoes for Cash](https://www.newser.com/story/364531/village-offers-a-bounty-on-mosquitoes.html) (Newser)
+
+- [Un oraș oferă recompensă pentru prinderea țânțarilor, după ce doi elevi au murit din cauza febrei dengue](https://adevarul.ro/stiri-externe/in-lume/un-oras-ofera-recompensa-pentru-prinderea-2423206.html) (Adevarul.ro)
+
+- [“Morts ou vifs” : aux Philippines, une récompense pour la capture des moustiques](https://www.courrierinternational.com/article/dengue-morts-ou-vifs-aux-philippines-une-recompense-pour-la-capture-des-moustiques_227934) (Courrier International)
+
+- [Recompensă pentru prinderea țânțarilor: Cum încearcă un oraș din Filipine să stopeze răspândirea febrei dengue](https://www.digi24.ro/stiri/externe/recompensa-pentru-prinderea-tantarilor-cum-incearca-un-oras-din-filipine-sa-stopeze-raspandirea-febrei-dengue-3127399) (Digi24.ro)
+
+- [Com mais de 110 mortes, São Paulo decreta emergência por dengue em todo o estado](https://veja.abril.com.br/saude/com-mais-de-100-mortes-sao-paulo-decreta-emergencia-por-dengue-em-todo-o-estado) (Abril.com.br)
+
+- [Estado de São Paulo decreta emergência por dengue](https://valor.globo.com/brasil/noticia/2025/02/19/estado-de-sao-paulo-decreta-emergencia-por-dengue.ghtml) (Globo)
+
+- [Un quartiere di Manila ha messo una taglia sulle zanzare, vive o morte](https://www.ilpost.it/2025/02/19/filippine-manila-zanzare-taglia-vive-morte/) (Ilpost.it)
+
+- [Melaka exco member steps up fight against Aedes mosquito](https://www.thestar.com.my/news/nation/2025/02/19/melaka-exco-member-steps-up-fight-against-aedes-mosquito) (The Star Online)
+
+- [Philippines village offering bounties for mosquitoes amid dengue fever outbreak](https://news.sky.com/story/philippines-village-offering-bounties-for-mosquitoes-amid-dengue-fever-outbreak-13312514) (Sky.com)
+
+- [Un peso por cada cinco mosquitos: la recompensa que ofrece Manila para acabar con los portadores del dengue](https://www.abc.es/sociedad/peso-cinco-mosquitos-recompensa-ofrece-manila-acabar-20250219115801-nt.html) (Www.abc.es)
+
+- [Madeira. Duas pessoas sinalizadas em janeiro com dengue](https://ionline.sapo.pt/2025/02/19/madeira-duas-pessoas-sinalizadas-em-janeiro-com-dengue/) (Sapo.pt)
+
+- [Filippine, lotta alla dengue: una taglia sulle zanzare, vive o morte](https://www.ilsole24ore.com/art/filippine-lotta-dengue-taglia-zanzare-vive-o-morte-AGbSeqzC) (Il Sole 24 Ore)
+
+- [Čím viac komárov, tým viac pesos. V Manile núkajú ľuďom za ich chytanie odmenu, chcú tak zabrániť epidémii](https://spravy.pravda.sk/svet/clanok/741595-cim-viac-komarov-tym-viac-pesos-v-manile-nukaju-ludom-za-ich-chytanie-odmenu-chcu-tak-zabranit-epidemii/) (Pravda.sk)
+
+- [Philippine village battles dengue by offering bounties for mosquitos — dead or alive](https://abcnews.go.com/Health/wireStory/philippine-village-battles-dengue-offering-bounties-mosquitos-dead-118955015) (ABC News)
+
+- [Különös módon akarják megállítani a dengue-lázt](https://www.origo.hu/nagyvilag/2025/02/penzjutalom-dengue-laz-fulop-szigetek) (Origo.hu)
+
 - [Philippine town offers bounty for mosquitoes as dengue rises](https://www.bbc.com/news/articles/cvgdr4r2l31o) (BBC News)
 
 - [DF não vai ampliar faixa etária de vacinação contra a dengue. Entenda](https://www.metropoles.com/distrito-federal/df-nao-vai-ampliar-faixa-etaria-de-vacinacao-contra-a-dengue-entenda) (Metropoles.com)
@@ -283,6 +359,8 @@ Source: [News API](https://newsapi.org/)
 - [Farmacêutico ensina receita de repelente natural com ervas medicinais](https://www.metropoles.com/colunas/claudia-meireles/farmaceutico-ensina-receita-de-repelente-natural-com-ervas-medicinais) (Metropoles.com)
 
 ## 25-8 (chikungunya)
+
+- [Com mais de 110 mortes, São Paulo decreta emergência por dengue em todo o estado](https://veja.abril.com.br/saude/com-mais-de-100-mortes-sao-paulo-decreta-emergencia-por-dengue-em-todo-o-estado) (Abril.com.br)
 
 - [UK’s MHRA Grants Marketing Authorization for Chikungunya Vaccine](https://www.jdsupra.com/legalnews/uk-s-mhra-grants-marketing-7155248/) (JD Supra)
 
@@ -2406,8 +2484,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Young man dies of rabies at Seti provincial hospital](https://dineshkhabar.com/article/117684) (Dineshkhabar.com)
 
-- [Solana’s PNUT Prodigy Picks DLUME as 2025’s Next Big Thing – Could You Be Next?](https://zycrypto.com/solanas-pnut-prodigy-picks-dlume-as-2025s-next-big-thing-could-you-be-next/) (ZyCrypto)
-
 ## 25-2 (pertussis)
 
 - [Tos ferina: qué sabemos sobre el incremento de casos ocasionados por la bacteria Bordetella pertussis](https://www.milenio.com/ciencia-y-salud/aumentan-casos-bordetella-pertussi-tos-ferina) (Milenio)
@@ -2669,8 +2745,6 @@ Source: [News API](https://newsapi.org/)
 - [Cell wall components of gut commensal bacteria stimulate peritrophic matrix formation in malaria vector mosquitoes through activation of the IMD pathway](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002967) (Plos.org)
 
 - [Text (actual latters) change when saving to PDF from Word. WTF?](https://ask.metafilter.com/383833/Text-actual-latters-change-when-saving-to-PDF-from-Word-WTF) (Metafilter.com)
-
-- [Über die Umweltgeschichte Afrikas](https://www.faz.net/aktuell/feuilleton/bilder-und-zeiten/krankheiten-und-der-kolonialismus-ueber-die-umweltgeschichte-afrikas-110208640.html) (Faz.net)
 
 ## 25-2 (hpai)
 
@@ -2966,10 +3040,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Op-Ed: Collapsing health systems vs major flu outbreaks in US, UK and Europe](https://www.digitaljournal.com/world/op-ed-collapsing-health-systems-vs-major-flu-outbreaks-in-us-uk-and-europe/article) (Digital Journal)
 
-- [नागपुर में बर्ड फ्लू से 3 बाघ और एक तेंदुए की मौत, टाइगर रिजर्व और रेस्क्यू सेंटर्स के लिए अलर्ट जारी](https://www.aajtak.in/india/maharashtra/story/tiger-and-leopard-died-of-bird-flu-h5n1-virus-in-nagpur-rescue-centre-alert-issued-ntc-dskc-2136699-2025-01-05) (Aajtak.in)
-
-- [Amid HMPV virus outbreak in China, three tigers and a leopard die of highly infectious avian flu H5N1 virus in Nagpur](https://economictimes.indiatimes.com/news/india/amid-hmpv-virus-outbreak-in-china-three-tigers-and-a-leopard-die-of-highly-pathogenic-avian-flu-h5n1-virus/articleshow/116963521.cms) (The Times of India)
-
 ## 25-2 (dengue)
 
 - [Marketing faz bem, mas não resolve inflação, dengue, falta de gestão nem Congresso guloso](https://www.estadao.com.br/politica/eliane-cantanhede/marketing-faz-bem-mas-nao-resolve-inflacao-dengue-falta-de-gestao-nem-congresso-guloso/) (Estadao.com.br)
@@ -3049,10 +3119,6 @@ Source: [News API](https://newsapi.org/)
 - [Migrantes que cruzan el Darién, con salud comprometida: OPS](https://www.jornada.com.mx/2025/01/06/politica/006n2pol) (Jornada.com.mx)
 
 - [Guerrero cierra el 2024 con casi siete mil casos de dengue y 61 muertes](https://www.excelsior.com.mx/nacional/dengue-guerrero-cierra-el-2024-con-casi-siete-mil-casos-y-61-muertes/1692712) (Excelsior.com.mx)
-
-- [4 fatos indispensáveis sobre a dengue que você precisa conhecer](https://catracalivre.com.br/saude-bem-estar/fatos-dengue-precisa-saber/) (Catracalivre.com.br)
-
-- [En plena temporada: qué medidas preventivas hay en la costa para evitar aumentos de casos de dengue](https://www.lanacion.com.ar/sociedad/en-plena-temporada-que-medidas-preventivas-hay-en-la-costa-para-evitar-aumentos-de-casos-de-dengue-nid05012025/) (La Nacion)
 
 ## 25-2 (chikungunya)
 
