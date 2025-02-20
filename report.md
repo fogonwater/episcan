@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
 - **New articles in last harvest:** 29
-- **Last harvest:** 2025-02-19 19:05
-- **Most recent article:** 2025-02-18 18:32:41
+- **Last harvest:** 2025-02-20 07:06
+- **Most recent article:** 2025-02-19 07:00:00
 
 ---
 
@@ -12,20 +12,20 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-2 | 25-3 | 25-4 | 25-5 | 25-6 | 25-7 | 25-8 | Total |
 |--|-|-|-|-|-|-|-|-|
-| h5n1 | 127 | 65 | 31 | 51 | 72 | 55 | 23 | 424 |
+| h5n1 | 129 | 65 | 31 | 51 | 72 | 55 | 31 | 434 |
 | mpox | 91 | 34 | 23 | 22 | 28 | 18 | 5 | 221 |
-| dengue | 39 | 29 | 37 | 24 | 34 | 37 | 12 | 212 |
-| measles | 6 | 9 | 10 | 13 | 24 | 72 | 26 | 160 |
-| malaria | 28 | 18 | 19 | 30 | 25 | 12 | 3 | 135 |
-| hpai | 18 | 12 | 11 | 6 | 3 | 9 | 2 | 61 |
+| dengue | 41 | 29 | 37 | 24 | 34 | 37 | 16 | 218 |
+| measles | 6 | 9 | 10 | 13 | 24 | 72 | 39 | 173 |
+| malaria | 29 | 18 | 19 | 30 | 25 | 12 | 3 | 136 |
+| hpai | 18 | 12 | 11 | 6 | 3 | 9 | 3 | 62 |
 | chikungunya | 7 | 7 | 10 | 9 | 8 | 5 | 1 | 47 |
 | zika | 15 | 5 | 2 | 8 | 6 | 2 | 4 | 42 |
 | meningitis | 0 | 2 | 3 | 8 | 2 | 12 | 7 | 34 |
-| rabies | 1 | 6 | 7 | 6 | 4 | 5 | 2 | 31 |
+| rabies | 2 | 6 | 7 | 6 | 4 | 5 | 3 | 33 |
 | pertussis | 2 | 0 | 1 | 0 | 3 | 3 | 1 | 10 |
 | yersinia | 3 | 2 | 0 | 0 | 0 | 5 | 0 | 10 |
 | typhoid | 0 | 4 | 0 | 0 | 2 | 3 | 0 | 9 |
-| leptospirosis | 0 | 1 | 2 | 0 | 1 | 0 | 0 | 4 |
+| leptospirosis | 0 | 1 | 2 | 0 | 1 | 0 | 2 | 6 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -43,6 +43,8 @@ Source: [News API](https://newsapi.org/)
 - [Pesquisa mostra efeitos promissores de remédio contra insuficiência cardíaca no combate ao vírus Zika](https://www.terra.com.br/noticias/pesquisa-mostra-efeitos-promissores-de-remedio-contra-insuficiencia-cardiaca-no-combate-ao-virus-zika,e50b1f73363e606b6a8d487e5e172292zornfuys.html) (Terra.com.br)
 
 ## 25-8 (rabies)
+
+- [Musk opens up about dinner party that soured when Trump's name was invoked: 'Like methamphetamine and rabies'](https://www.foxnews.com/politics/musk-opens-up-about-dinner-party-that-soured-when-trumps-name-was-invoked-like-methamphetamine-rabies) (Fox News)
 
 - [Elon Musk Mocks ‘Trump Derangement Syndrome’ By Freaking Out Like He’s Been Shot With ‘Methamphetamine and Rabies’](https://www.mediaite.com/tv/elon-musk-mocks-trump-derangement-syndrome-by-freaking-out-like-hes-been-shot-with-methamphetamine-and-rabies/) (Mediaite)
 
@@ -81,6 +83,32 @@ Source: [News API](https://newsapi.org/)
 - [Alarm in Pyrgos after the death of a 54 year old woman – Serious indications of a meningitis case](https://en.protothema.gr/2025/02/16/alarm-in-pyrgos-after-the-death-of-a-54-year-old-woman-serious-indications-of-a-meningitis-case/) (Protothema.gr)
 
 ## 25-8 (measles)
+
+- [66 measles cases reported in US states of Texas, New Mexico](https://www.voanews.com/a/measles-cases-reported-in-us-states-of-texas-new-mexico/7980149.html) (VOA News)
+
+- [Kennedy says panel will examine childhood vaccine schedule after promising not to change it](https://www.bostonherald.com/2025/02/18/kennedy-childhood-vaccines/) (Boston Herald)
+
+- [Measles cases are spiking in Texas and New Mexico. Here’s what to know](https://www.fastcompany.com/91280638/measles-cases-spiking-texas-new-mexico-explainer) (Fast Company)
+
+- [Measles outbreak grows bigger in rural Texas, and officials say expect more cases](https://www.nbcnews.com/news/us-news/measles-outbreak-texas-rcna192679) (NBC News)
+
+- [Here’s What to Know About Measles Outbreak in Texas and New Mexico](https://time.com/7258273/what-to-know-measles-outbreak-texas-new-mexico/) (Time)
+
+- [What Measles Outbreaks Tell Us About Public Health In America](https://www.npr.org/2025/02/18/1232304335/booster-shots-measles) (NPR)
+
+- [Texas measles cases are up, and New Mexico now has an outbreak. Here's what you need to know](https://www.ksat.com/health/2025/02/18/texas-measles-cases-are-up-and-new-mexico-now-has-an-outbreak-heres-what-you-need-to-know/) (KSAT San Antonio)
+
+- [West Texas measles outbreak grows to 58 cases](https://www.pbs.org/newshour/health/west-texas-measles-outbreak-grows-to-58-cases) (PBS)
+
+- [Growing Texas Measles Outbreak Spreads to Second State: What to Know](https://www.newsweek.com/measles-outbreak-new-mexico-texas-what-know-2032876) (Newsweek)
+
+- [Texas measles cases are up, and New Mexico now has an outbreak. Here's what you need to know](https://abcnews.go.com/Health/wireStory/texas-measles-cases-new-mexico-now-outbreak-118936819) (ABC News)
+
+- [Measles outbreak continues to worsen among kids in this US state](https://www.foxnews.com/health/measles-outbreak-continues-worsen-among-kids-us-state) (Fox News)
+
+- [Texas measles cases are up, and New Mexico now has an outbreak. Here’s what you need to know](https://www.bostonherald.com/2025/02/18/measles-cases/) (Boston Herald)
+
+- [Make measles great again](https://www.lawyersgunsmoneyblog.com/2025/02/make-measles-great-again) (Lawyersgunsmoneyblog.com)
 
 - [New data shows measles cases have spread to Terry County](https://www.kcbd.com/2025/02/18/new-data-shows-measles-cases-have-spread-terry-county/) (KCBD)
 
@@ -142,13 +170,37 @@ Source: [News API](https://newsapi.org/)
 
 - [Africa's progress against malaria in "jeopardy" amid need for renewed commitments: officials](https://www.thestar.com.my/news/world/2025/02/17/africa039s-progress-against-malaria-in-jeopardy-amid-need-for-renewed-commitments-officials) (The Star Online)
 
+## 25-8 (leptospirosis)
+
+- [Leptospirosis spike killing dogs in flood-ravaged northern Queensland](https://www.abc.net.au/news/2025-02-19/leptospirosis-spike-dog-deaths-flooded-north-queensland/104955410) (ABC News (AU))
+
+- [Bacolod: Bacolod logs year’s first leptospirosis fatality](https://rpnradio.com/bacolod-bacolod-logs-years-first-leptospirosis-fatality/) (Rpnradio.com)
+
 ## 25-8 (hpai)
+
+- [With the Spread of Bird Flu, Cooking Eggs with Precaution May be Beneficial](https://www.discovermagazine.com/health/with-the-spread-of-bird-flu-cooking-eggs-with-precaution-may-be-beneficial) (Discover Magazine)
 
 - [美蛋荒持續、蛋價飛漲 聯準會面臨抗通膨難題](https://finance.technews.tw/2025/02/18/egg-prices-soar-fed-faces-a-challenge-in-fighting-inflation/) (Technews.tw)
 
 - [Bird Flu Cases in Household Cats Spark Raw Pet Food Warning](https://www.newsweek.com/bird-flu-cases-household-cat-raw-pet-food-warning-2031986) (Newsweek)
 
 ## 25-8 (h5n1)
+
+- [全球第三波H5N1疫情遲未結束，禽流感如何演變成全球威脅？](https://www.thenewslens.com/article/249164) (Thenewslens.com)
+
+- [Πρώτα οι αγελάδες, τώρα οι γάτες – Έρχεται η γρίπη των πτηνών για τον άνθρωπο;](https://www.naftemporiki.gr/kosmos/1916662/prota-oi-agelades-tora-oi-gates-erchetai-i-gripi-ton-ptinon-gia-ton-anthropo/) (Naftemporiki.gr)
+
+- [川普政府又裁錯人？美國農業部意外解僱應對禽流感疫情的工作人員](https://technews.tw/2025/02/19/usda-accidentally-fired-officials-working-on-bird-flu-and-is-now-trying-to-rehire-them/) (Technews.tw)
+
+- [Онищенко объяснил, как птичий грипп влияет на стоимость потребкорзины](https://tass.ru/obschestvo/23180663) (Tass.ru)
+
+- [USDA ‘Accidentally’ Fired Bird Flu Staff](https://politicalwire.com/2025/02/18/usda-accidentally-fired-bird-flu-staff/) (Politicalwire.com)
+
+- [USDA says it accidentally fired officials working on bird flu and is trying to rehire them](https://www.nbcnews.com/politics/doge/usda-accidentally-fired-officials-bird-flu-rehire-rcna192716) (NBC News)
+
+- [Онищенко заявил, что эпидсезон гриппа и ОРВИ закончится во второй половине марта](https://tass.ru/obschestvo/23179975) (Tass.ru)
+
+- [Beware the ‘quad-demic’ surge: Flu, COVID-19, RSV, and norovirus](https://www.digitaljournal.com/life/beware-the-quad-demic-surge-flu-covid-19-rsv-and-norovirus/article) (Digital Journal)
 
 - [A Woman in Wyoming Is Hospitalized With Bird Flu](https://time.com/7258188/bird-flu-wyoming-woman-exposed-flock/) (Time)
 
@@ -197,6 +249,14 @@ Source: [News API](https://newsapi.org/)
 - [Pet Cats Are Contracting Bird Flu - Videos from The Weather Channel](https://weather.com/health/cold-flu/video/pet-cats-bird-flu-humans) (The Weather Channel)
 
 ## 25-8 (dengue)
+
+- [Philippine town offers bounty for mosquitoes as dengue rises](https://www.bbc.com/news/articles/cvgdr4r2l31o) (BBC News)
+
+- [DF não vai ampliar faixa etária de vacinação contra a dengue. Entenda](https://www.metropoles.com/distrito-federal/df-nao-vai-ampliar-faixa-etaria-de-vacinacao-contra-a-dengue-entenda) (Metropoles.com)
+
+- [Tonga's Health Ministry declares dengue outbreak with 10 cases reported - Kaniva Tonga News](https://kanivatonga.co.nz/2025/02/tongas-health-ministry-declares-dengue-outbreak-with-10-cases-reported/) (Kanivatonga.co.nz)
+
+- [Governo de SP deve decretar situação de emergência para dengue nesta quarta-feira, diz jornal](https://valor.globo.com/brasil/noticia/2025/02/18/governo-de-sp-deve-decretar-situacao-de-emergencia-para-dengue-nesta-quarta-feira-diz-jornal.ghtml) (Globo)
 
 - [Estado de São Paulo ultrapassa marca de 100 mortes por dengue](https://valor.globo.com/brasil/noticia/2025/02/18/estado-de-sao-paulo-ultrapassa-marca-de-100-mortes-por-dengue.ghtml) (Globo)
 
@@ -2346,6 +2406,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Young man dies of rabies at Seti provincial hospital](https://dineshkhabar.com/article/117684) (Dineshkhabar.com)
 
+- [Solana’s PNUT Prodigy Picks DLUME as 2025’s Next Big Thing – Could You Be Next?](https://zycrypto.com/solanas-pnut-prodigy-picks-dlume-as-2025s-next-big-thing-could-you-be-next/) (ZyCrypto)
+
 ## 25-2 (pertussis)
 
 - [Tos ferina: qué sabemos sobre el incremento de casos ocasionados por la bacteria Bordetella pertussis](https://www.milenio.com/ciencia-y-salud/aumentan-casos-bordetella-pertussi-tos-ferina) (Milenio)
@@ -2607,6 +2669,8 @@ Source: [News API](https://newsapi.org/)
 - [Cell wall components of gut commensal bacteria stimulate peritrophic matrix formation in malaria vector mosquitoes through activation of the IMD pathway](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002967) (Plos.org)
 
 - [Text (actual latters) change when saving to PDF from Word. WTF?](https://ask.metafilter.com/383833/Text-actual-latters-change-when-saving-to-PDF-from-Word-WTF) (Metafilter.com)
+
+- [Über die Umweltgeschichte Afrikas](https://www.faz.net/aktuell/feuilleton/bilder-und-zeiten/krankheiten-und-der-kolonialismus-ueber-die-umweltgeschichte-afrikas-110208640.html) (Faz.net)
 
 ## 25-2 (hpai)
 
@@ -2902,6 +2966,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Op-Ed: Collapsing health systems vs major flu outbreaks in US, UK and Europe](https://www.digitaljournal.com/world/op-ed-collapsing-health-systems-vs-major-flu-outbreaks-in-us-uk-and-europe/article) (Digital Journal)
 
+- [नागपुर में बर्ड फ्लू से 3 बाघ और एक तेंदुए की मौत, टाइगर रिजर्व और रेस्क्यू सेंटर्स के लिए अलर्ट जारी](https://www.aajtak.in/india/maharashtra/story/tiger-and-leopard-died-of-bird-flu-h5n1-virus-in-nagpur-rescue-centre-alert-issued-ntc-dskc-2136699-2025-01-05) (Aajtak.in)
+
+- [Amid HMPV virus outbreak in China, three tigers and a leopard die of highly infectious avian flu H5N1 virus in Nagpur](https://economictimes.indiatimes.com/news/india/amid-hmpv-virus-outbreak-in-china-three-tigers-and-a-leopard-die-of-highly-pathogenic-avian-flu-h5n1-virus/articleshow/116963521.cms) (The Times of India)
+
 ## 25-2 (dengue)
 
 - [Marketing faz bem, mas não resolve inflação, dengue, falta de gestão nem Congresso guloso](https://www.estadao.com.br/politica/eliane-cantanhede/marketing-faz-bem-mas-nao-resolve-inflacao-dengue-falta-de-gestao-nem-congresso-guloso/) (Estadao.com.br)
@@ -2981,6 +3049,10 @@ Source: [News API](https://newsapi.org/)
 - [Migrantes que cruzan el Darién, con salud comprometida: OPS](https://www.jornada.com.mx/2025/01/06/politica/006n2pol) (Jornada.com.mx)
 
 - [Guerrero cierra el 2024 con casi siete mil casos de dengue y 61 muertes](https://www.excelsior.com.mx/nacional/dengue-guerrero-cierra-el-2024-con-casi-siete-mil-casos-y-61-muertes/1692712) (Excelsior.com.mx)
+
+- [4 fatos indispensáveis sobre a dengue que você precisa conhecer](https://catracalivre.com.br/saude-bem-estar/fatos-dengue-precisa-saber/) (Catracalivre.com.br)
+
+- [En plena temporada: qué medidas preventivas hay en la costa para evitar aumentos de casos de dengue](https://www.lanacion.com.ar/sociedad/en-plena-temporada-que-medidas-preventivas-hay-en-la-costa-para-evitar-aumentos-de-casos-de-dengue-nid05012025/) (La Nacion)
 
 ## 25-2 (chikungunya)
 
