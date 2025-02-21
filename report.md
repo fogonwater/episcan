@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 15
-- **Last harvest:** 2025-02-21 07:06
-- **Most recent article:** 2025-02-20 05:09:50
+- **New articles in last harvest:** 25
+- **Last harvest:** 2025-02-21 19:05
+- **Most recent article:** 2025-02-20 19:00:00
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-2 | 25-3 | 25-4 | 25-5 | 25-6 | 25-7 | 25-8 | Total |
 |--|-|-|-|-|-|-|-|-|
-| h5n1 | 129 | 65 | 31 | 51 | 72 | 55 | 40 | 443 |
-| dengue | 41 | 29 | 37 | 24 | 34 | 37 | 37 | 239 |
-| mpox | 91 | 34 | 23 | 22 | 28 | 18 | 7 | 223 |
-| measles | 6 | 9 | 10 | 13 | 24 | 72 | 53 | 187 |
-| malaria | 29 | 18 | 19 | 30 | 25 | 12 | 4 | 137 |
+| h5n1 | 127 | 65 | 31 | 51 | 72 | 55 | 45 | 446 |
+| dengue | 39 | 29 | 37 | 24 | 34 | 37 | 45 | 245 |
+| mpox | 91 | 34 | 23 | 22 | 28 | 18 | 13 | 229 |
+| measles | 6 | 9 | 10 | 13 | 24 | 72 | 58 | 192 |
+| malaria | 28 | 18 | 19 | 30 | 25 | 12 | 5 | 137 |
 | hpai | 18 | 12 | 11 | 6 | 3 | 9 | 4 | 63 |
 | chikungunya | 7 | 7 | 10 | 9 | 8 | 5 | 3 | 49 |
 | zika | 15 | 5 | 2 | 8 | 6 | 2 | 5 | 43 |
 | meningitis | 0 | 2 | 3 | 8 | 2 | 12 | 8 | 35 |
-| rabies | 2 | 6 | 7 | 6 | 4 | 5 | 4 | 34 |
+| rabies | 1 | 6 | 7 | 6 | 4 | 5 | 4 | 33 |
 | pertussis | 2 | 0 | 1 | 0 | 3 | 3 | 2 | 11 |
 | yersinia | 3 | 2 | 0 | 0 | 0 | 5 | 0 | 10 |
 | typhoid | 0 | 4 | 0 | 0 | 2 | 3 | 0 | 9 |
@@ -62,6 +62,18 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-8 (mpox)
 
+- [Demokratische Republik Kongo: Hunderte Mpox-Patienten nach Gewaltausbruch im Ostkongo geflohen](https://www.zeit.de/gesellschaft/zeitgeschehen/2025-02/demokratische-republik-kongo-konflikt-mpox) (Die Zeit)
+
+- [DR Kongo: Hunderte Mpox-Patienten geflohen](https://orf.at/stories/3385439/) (Orf.at)
+
+- [Forskere frygter mpox-spredning efter muteret virus](https://politiken.dk/danmark/sundhed/art10299417/Forskere-frygter-mpox-spredning-efter-muteret-virus) (Politiken.dk)
+
+- [Forskere frygter øget spredning af mpox efter smitsom mutation](https://www.dr.dk/nyheder/seneste/forskere-frygter-oeget-spredning-af-mpox-efter-smitsom-mutation) (Www.dr.dk)
+
+- [Desfiinţarea USAid de către Trump creşte riscul unei urgenţe globale de mpox, avertizează experţii](https://www.mediafax.ro/sanatate/desfiintarea-usaid-de-catre-trump-creste-riscul-unei-urgente-globale-de-mpox-avertizeaza-expertii-22704223) (Mediafax.ro)
+
+- [Multiple disease outbreaks heighten public health emergencies for children across Eastern and Southern Africa](https://www.globalsecurity.org/military/library/news/2025/02/mil-250219-unicef01.htm) (Globalsecurity.org)
+
 - [Scientists warn of increased mpox transmission](https://www.sciencedaily.com/releases/2025/02/250220000950.htm) (Science Daily)
 
 - [UNICEF raises alarm over frequent health crises in eastern, southern Africa](https://www.thestar.com.my/news/world/2025/02/20/unicef-raises-alarm-over-frequent-health-crises-in-eastern-southern-africa) (The Star Online)
@@ -95,6 +107,16 @@ Source: [News API](https://newsapi.org/)
 - [Alarm in Pyrgos after the death of a 54 year old woman – Serious indications of a meningitis case](https://en.protothema.gr/2025/02/16/alarm-in-pyrgos-after-the-death-of-a-54-year-old-woman-serious-indications-of-a-meningitis-case/) (Protothema.gr)
 
 ## 25-8 (measles)
+
+- [Spared by DOGE—For Now](https://www.theatlantic.com/health/archive/2025/02/epidemic-intelligence-service-doge-layoffs/681771/) (The Atlantic)
+
+- [Listen: Why measles is back in the US and what can be done](https://www.futurity.org/measles-vaccine-hesitancy-3270022/) (Futurity: Research News)
+
+- [I'm a pediatrician working in the middle of Texas's measles outbreak. Here's what I want parents to know.](https://www.businessinsider.com/pediatrician-working-in-the-middle-of-texass-measles-outbreak-2025-2) (Business Insider)
+
+- [Measles Outbreak Running Wild In Texas And New Mexico With Hundreds Possibly Infected](https://brobible.com/culture/article/measles-outbreak-texas-new-mexico-infected/) (BroBible)
+
+- [What Trump’s Firing Spree Means for the Next Public Health Crisis](https://newrepublic.com/article/191721/trump-firing-spree-public-health) (The New Republic)
 
 - [Making America Sick Again: How Trump’s Drastic Layoffs at the Centers for Disease Control cripple our Response to Norovirus, Measles Outbreaks](https://www.juancole.com/2025/02/response-norovirus-outbreaks.html) (Juancole.com)
 
@@ -204,6 +226,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-8 (malaria)
 
+- [Promising new class of antimalarial drugs discovered](https://www.sciencedaily.com/releases/2025/02/250220122926.htm) (Science Daily)
+
 - [USAid: Die Zerstörung hat schon begonnen](https://www.zeit.de/gesundheit/2025-02/usaid-hiv-malaria-entwicklungshilfe-medizin) (Die Zeit)
 
 - [On the Medical Front, a 'Very Urgent' Need for Oxygen](https://www.newser.com/story/364454/on-the-medical-front-a-very-urgent-need-for-oxygen.html) (Newser)
@@ -229,6 +253,16 @@ Source: [News API](https://newsapi.org/)
 - [Bird Flu Cases in Household Cats Spark Raw Pet Food Warning](https://www.newsweek.com/bird-flu-cases-household-cat-raw-pet-food-warning-2031986) (Newsweek)
 
 ## 25-8 (h5n1)
+
+- [На Сахалине нашли опасную мутацию птичьего гриппа](https://www.kommersant.ru/doc/7517357) (Kommersant.ru)
+
+- [Highly Pathogenic Avian Influenza A(H5N1) Virus Infection of Indoor Domestic Cats Within Dairy Industry Worker Households — Michigan, May 2024](https://www.cdc.gov/mmwr/volumes/74/wr/mm7405a2.htm) (Cdc.gov)
+
+- [One state’s flawed, desperate new plan to fix its egg shortage](https://www.vox.com/future-perfect/400361/bird-flu-egg-shortage-nevada-cage-free) (Vox)
+
+- [Самые дорогие яйца в мире. Что происходит с ценами в США и как Украина может помочь](https://biz.liga.net/all/infographic-of-the-day/infografica/samye-dorogie-yaitsa-v-mire-chto-proishodit-s-tsenami-v-ssha-i-kak-ukraina-mozhet-pomoch) (Liga.net)
+
+- [Taivassalosta löytyi lintuinfluenssaan kuollut kanahaukka – kyseessä jo toinen tartunta Varsinais-Suomessa tänä vuonna](https://yle.fi/a/74-20144884) (YLE News)
 
 - [USDA Scrambles to Rehire Employees Who Were Combatting Bird Flu After Accidentally Firing Them](https://www.ibtimes.com/usda-scrambles-rehire-employees-who-were-combatting-bird-flu-after-accidentally-firing-them-3764318) (International Business Times)
 
@@ -311,6 +345,22 @@ Source: [News API](https://newsapi.org/)
 - [Pet Cats Are Contracting Bird Flu - Videos from The Weather Channel](https://weather.com/health/cold-flu/video/pet-cats-bird-flu-humans) (The Weather Channel)
 
 ## 25-8 (dengue)
+
+- [Hybrid Life in a Drowned Argentina: Dengue Boy by Michel Nieva](https://reactormag.com/book-review-dengue-boy-by-michel-nieva/) (Reactormag.com)
+
+- [A curiosa iniciativa de governo das Filipinas diante de aumento alarmante de casos de dengue](https://veja.abril.com.br/mundo/a-curiosa-iniciativa-de-governo-das-filipinas-diante-de-aumento-alarmante-de-casos-de-dengue) (Abril.com.br)
+
+- [São Paulo decreta una emergencia sanitaria por el aumento de casos de dengue](https://www.montevideo.com.uy/Salud/S-o-Paulo-decreta-una-emergencia-sanitaria-por-el-aumento-de-casos-de-dengue-uc915582) (Montevideo.com.uy)
+
+- [Dengue Outbreak and Response — Puerto Rico, 2024](https://www.cdc.gov/mmwr/volumes/74/wr/mm7405a1.htm) (Cdc.gov)
+
+- [Philippinische Stadt bietet Kopfgeld – auf Mücken](https://www.morgenpost.de/panorama/article408355261/philippinische-stadt-bietet-kopfgeld-auf-muecken.html) (Berliner Morgenpost)
+
+- [4 cuidados para evitar picadas pelo mosquito da dengue](https://veja.abril.com.br/saude/4-cuidados-para-evitar-picadas-pelo-mosquito-da-dengue) (Abril.com.br)
+
+- [Cegah Perkembangan Nyamuk Aedes Aegypti, Babinsa Koramil 0826-01 Pamekasan Lakukan Fogging di SDN Teja Barat 1](https://suaraindonesia-news.com/cegah-perkembangan-nyamuk-aedes-aegypti-babinsa-koramil-0826-01-pamekasan-lakukan-fogging-di-sdn-teja-barat-1/) (Suaraindonesia-news.com)
+
+- [124.000 Dengue-Fieber-Fälle: São Paulo ruft Gesundheitsnotstand aus](https://www.n-tv.de/wissen/Sao-Paulo-ruft-Gesundheitsnotstand-aus-article25575833.html) (N-tv.de)
 
 - [Distrito Federal reforça as ações de prevenção e combate à dengue](https://www.metropoles.com/conteudo-especial/distrito-federal-reforca-as-acoes-de-prevencao-e-combate-a-dengue) (Metropoles.com)
 
@@ -2514,8 +2564,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Young man dies of rabies at Seti provincial hospital](https://dineshkhabar.com/article/117684) (Dineshkhabar.com)
 
-- [Solana’s PNUT Prodigy Picks DLUME as 2025’s Next Big Thing – Could You Be Next?](https://zycrypto.com/solanas-pnut-prodigy-picks-dlume-as-2025s-next-big-thing-could-you-be-next/) (ZyCrypto)
-
 ## 25-2 (pertussis)
 
 - [Tos ferina: qué sabemos sobre el incremento de casos ocasionados por la bacteria Bordetella pertussis](https://www.milenio.com/ciencia-y-salud/aumentan-casos-bordetella-pertussi-tos-ferina) (Milenio)
@@ -2777,8 +2825,6 @@ Source: [News API](https://newsapi.org/)
 - [Cell wall components of gut commensal bacteria stimulate peritrophic matrix formation in malaria vector mosquitoes through activation of the IMD pathway](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002967) (Plos.org)
 
 - [Text (actual latters) change when saving to PDF from Word. WTF?](https://ask.metafilter.com/383833/Text-actual-latters-change-when-saving-to-PDF-from-Word-WTF) (Metafilter.com)
-
-- [Über die Umweltgeschichte Afrikas](https://www.faz.net/aktuell/feuilleton/bilder-und-zeiten/krankheiten-und-der-kolonialismus-ueber-die-umweltgeschichte-afrikas-110208640.html) (Faz.net)
 
 ## 25-2 (hpai)
 
@@ -3074,10 +3120,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Op-Ed: Collapsing health systems vs major flu outbreaks in US, UK and Europe](https://www.digitaljournal.com/world/op-ed-collapsing-health-systems-vs-major-flu-outbreaks-in-us-uk-and-europe/article) (Digital Journal)
 
-- [नागपुर में बर्ड फ्लू से 3 बाघ और एक तेंदुए की मौत, टाइगर रिजर्व और रेस्क्यू सेंटर्स के लिए अलर्ट जारी](https://www.aajtak.in/india/maharashtra/story/tiger-and-leopard-died-of-bird-flu-h5n1-virus-in-nagpur-rescue-centre-alert-issued-ntc-dskc-2136699-2025-01-05) (Aajtak.in)
-
-- [Amid HMPV virus outbreak in China, three tigers and a leopard die of highly infectious avian flu H5N1 virus in Nagpur](https://economictimes.indiatimes.com/news/india/amid-hmpv-virus-outbreak-in-china-three-tigers-and-a-leopard-die-of-highly-pathogenic-avian-flu-h5n1-virus/articleshow/116963521.cms) (The Times of India)
-
 ## 25-2 (dengue)
 
 - [Marketing faz bem, mas não resolve inflação, dengue, falta de gestão nem Congresso guloso](https://www.estadao.com.br/politica/eliane-cantanhede/marketing-faz-bem-mas-nao-resolve-inflacao-dengue-falta-de-gestao-nem-congresso-guloso/) (Estadao.com.br)
@@ -3157,10 +3199,6 @@ Source: [News API](https://newsapi.org/)
 - [Migrantes que cruzan el Darién, con salud comprometida: OPS](https://www.jornada.com.mx/2025/01/06/politica/006n2pol) (Jornada.com.mx)
 
 - [Guerrero cierra el 2024 con casi siete mil casos de dengue y 61 muertes](https://www.excelsior.com.mx/nacional/dengue-guerrero-cierra-el-2024-con-casi-siete-mil-casos-y-61-muertes/1692712) (Excelsior.com.mx)
-
-- [4 fatos indispensáveis sobre a dengue que você precisa conhecer](https://catracalivre.com.br/saude-bem-estar/fatos-dengue-precisa-saber/) (Catracalivre.com.br)
-
-- [En plena temporada: qué medidas preventivas hay en la costa para evitar aumentos de casos de dengue](https://www.lanacion.com.ar/sociedad/en-plena-temporada-que-medidas-preventivas-hay-en-la-costa-para-evitar-aumentos-de-casos-de-dengue-nid05012025/) (La Nacion)
 
 ## 25-2 (chikungunya)
 

@@ -1,8 +1,458 @@
 {
-  "last_updated": "2025-02-21 07:06",
-  "count_articles_total": 1429,
-  "count_articles_new": 15,
+  "last_updated": "2025-02-21 19:05",
+  "count_articles_total": 1448,
+  "count_articles_new": 25,
   "articles": [
+    {
+      "id": 18479,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Atlantic",
+      "author": "Nicholas Florko",
+      "title": "Spared by DOGE\u2014For Now",
+      "description": "America's first line of defense against public-health threats is hanging in the balance.",
+      "url": "https://www.theatlantic.com/health/archive/2025/02/epidemic-intelligence-service-doge-layoffs/681771/",
+      "urlToImage": "https://cdn.theatlantic.com/thumbor/GGk2CQlBha_yZ4KRz66vaOwN9u0=/0x43:2000x1085/1200x625/media/img/mt/2025/02/20250220_eic_1_1/original.jpg",
+      "publishedAt": "2025-02-20 19:00:00",
+      "content": "Americans have plenty to worry about these days when it comes to infectious-disease outbreaks. This is the worst flu season in 15 years, there\u2019s a serious measles outbreak roiling Texas, and the thre\u2026 [+7237 chars]",
+      "retrievedAt": "2025-02-21 19:05:45.526341",
+      "internal_id": "4947340e0efff41d228685ee05994c0d42c67f1940b9d9cbdf70b630e1be6f99",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 18487,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Reactormag.com",
+      "author": "Christina Orlando",
+      "title": "Hybrid Life in a Drowned Argentina: Dengue Boy by Michel Nieva",
+      "description": "A review of Michel Nieva\u2019s new dystopian gaucho-punk novel The post Hybrid Life in a Drowned Argentina: Dengue Boy by Michel Nieva appeared first on Reactor.",
+      "url": "https://reactormag.com/book-review-dengue-boy-by-michel-nieva/",
+      "urlToImage": "https://reactormag.com/wp-content/uploads/2025/02/review-Dengue-Boy.png",
+      "publishedAt": "2025-02-20 19:00:00",
+      "content": "No matter the medium, some narratives defy being described in an elevator pitch. One useful example here is director Miguel Llans\u00f3s 2019 film Jesus Shows You the Way to the Highway. Combining element\u2026 [+5834 chars]",
+      "retrievedAt": "2025-02-21 19:05:47.227657",
+      "internal_id": "8c66abb5bd522b6e76ebcd947a3dd5d511f306d3f461a5b8be09874ff48456a7",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 18476,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Futurity: Research News",
+      "author": "U. Chicago",
+      "title": "Listen: Why measles is back in the US and what can be done",
+      "description": "An expert digs into the uncertain future of children\u2019s health in light of the resurgence of measles and the rise of vaccine hesitancy.",
+      "url": "https://www.futurity.org/measles-vaccine-hesitancy-3270022/",
+      "urlToImage": "https://www.futurity.org/wp/wp-content/uploads/2025/02/measles-vaccine-hesitancy-1600.jpg",
+      "publishedAt": "2025-02-20 18:45:32",
+      "content": "An infectious disease expert has answers for you about the uncertain future of childrens health in light of the resurgence of measles in the US and the rise of vaccine hesitancy. In 2000, the United\u2026 [+896 chars]",
+      "retrievedAt": "2025-02-21 19:05:45.355266",
+      "internal_id": "6c6b2bfa2d3af3ad990b0159f4dcd60ebafa488093c81d16369626d27c10b2ba",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 18484,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Kommersant.ru",
+      "author": "\u041a\u043e\u043c\u043c\u0435\u0440\u0441\u0430\u043d\u0442\u044a",
+      "title": "\u041d\u0430 \u0421\u0430\u0445\u0430\u043b\u0438\u043d\u0435 \u043d\u0430\u0448\u043b\u0438 \u043e\u043f\u0430\u0441\u043d\u0443\u044e \u043c\u0443\u0442\u0430\u0446\u0438\u044e \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430",
+      "description": "\u0420\u043e\u0441\u043f\u043e\u0442\u0440\u0435\u0431\u043d\u0430\u0434\u0437\u043e\u0440 \u043e\u0431\u043d\u0430\u0440\u0443\u0436\u0438\u043b \u043d\u043e\u0432\u0443\u044e \u043c\u0443\u0442\u0430\u0446\u0438\u044e \u0433\u0440\u0438\u043f\u043f\u0430 \u043f\u0442\u0438\u0446 \u0410 (H5N1) \u0432 \u0421\u0430\u0445\u0430\u043b\u0438\u043d\u0441\u043a\u043e\u0439 \u043e\u0431\u043b\u0430\u0441\u0442\u0438. \u041e\u043d\u0430 \u0430\u043a\u0442\u0438\u0432\u043d\u043e \u0437\u0430\u0440\u0430\u0436\u0430\u0435\u0442 \u0434\u0438\u043a\u0438\u0445 \u0438 \u0434\u043e\u043c\u0430\u0448\u043d\u0438\u0445 \u043c\u043b\u0435\u043a\u043e\u043f\u0438\u0442\u0430\u044e\u0449\u0438\u0445 \u0438 \u0438\u043c\u0435\u0435\u0442 \u0432\u044b\u0441\u043e\u043a\u0443\u044e \u0430\u0434\u0430\u043f\u0442\u0438\u0432\u043d\u043e\u0441\u0442\u044c \u043a \u0438\u0445 \u043a\u043b\u0435\u0442\u043a\u0430\u043c, \u0440\u0430\u0441\u0441\u043a\u0430\u0437\u0430\u043b\u0438 \u0432 \u043f\u0440\u0435\u0441\u0441-\u0441\u043b\u0443\u0436\u0431\u0435 \u0432\u0435\u0434\u043e\u043c\u0441\u0442\u0432\u0430.",
+      "url": "https://www.kommersant.ru/doc/7517357",
+      "urlToImage": "https://iy.kommersant.ru/SocialPics/7517357_49_0_1702985580",
+      "publishedAt": "2025-02-20 18:24:24",
+      "content": "(H5N1) . , - . , 2024 15 . , 7,8 . , . \u00ab , 2024 , 2.3.4.4b, , (5N1), : , \u00bb, . , . 2024 84 . 14,7 . . 2024 , , 1,2 . A (H5N1) 2 . . 68 , , , . 2020 . - , .",
+      "retrievedAt": "2025-02-21 19:05:46.701411",
+      "internal_id": "a4d79915da875c88475e8bf26f7a5dac3dbf9505a08c28dc420b96898c816ba0",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 18486,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Paula Freitas",
+      "title": "A curiosa iniciativa de governo das Filipinas diante de aumento alarmante de casos de dengue",
+      "description": "H\u00e1 preocupa\u00e7\u00f5es de que programa possa sair pela culatra, como aconteceu no Rio de Janeiro no in\u00edcio do s\u00e9culo XX",
+      "url": "https://veja.abril.com.br/mundo/a-curiosa-iniciativa-de-governo-das-filipinas-diante-de-aumento-alarmante-de-casos-de-dengue",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2025/02/000_36Y62QN.jpg?quality=70&strip=info&crop=1&resize=1080,565",
+      "publishedAt": "2025-02-20 18:14:55",
+      "content": "Oferta Rel\u00e2mpago: 4 revistas pelo pre\u00e7o de uma!H\u00e1 preocupa\u00e7\u00f5es de que programa possa sair pela culatra, como aconteceu no Rio de Janeiro no in\u00edcio do s\u00e9culo XX Por J\u00falia Sofia Atualizado em 20 fev\u2026 [+2379 chars]",
+      "retrievedAt": "2025-02-21 19:05:47.219347",
+      "internal_id": "89f94e6105d8d235098d4bc475f661190c884096189f1ac8d7a440babbfda3e5",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 18480,
+      "query": [
+        "measles"
+      ],
+      "source_id": "business-insider",
+      "source_name": "Business Insider",
+      "author": "insider@insider.com (Kelly Burch)",
+      "title": "I'm a pediatrician working in the middle of Texas's measles outbreak. Here's what I want parents to know.",
+      "description": "Lara Johnson is the chief medical officer at Covenant Children's Hospital in Lubbock. Vaccines are 97% effective and can work even after exposure.",
+      "url": "https://www.businessinsider.com/pediatrician-working-in-the-middle-of-texass-measles-outbreak-2025-2",
+      "urlToImage": "https://i.insider.com/67b76d347bb3f854015d6064?width=1200&format=jpeg",
+      "publishedAt": "2025-02-20 17:59:55",
+      "content": "This as-told-to essay is based on a conversation with Dr. Lara Johnson, chief medical officer of Covenant Health Lubbock Service Area and Covenant Children's Hospital in Lubbock, Texas. It has been e\u2026 [+3945 chars]",
+      "retrievedAt": "2025-02-21 19:05:45.571239",
+      "internal_id": "f37f0a76d4e56b15614233f033feb6d5119faf6a8d1f1e185b6bf031a3f27c2e",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 18494,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "Promising new class of antimalarial drugs discovered",
+      "description": "Epigenetic inhibitors as a promising new antimalarial intervention strategy? A new study identifies an inhibitor of gene regulation that specifically kills the malaria pathogen.",
+      "url": "https://www.sciencedaily.com/releases/2025/02/250220122926.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2025-02-20 17:29:26",
+      "content": "Epigenetic inhibitors as a promising new antimalarial intervention strategy? A new study identifies an inhibitor of gene regulation that specifically kills the malaria pathogen.A multinational resear\u2026 [+2712 chars]",
+      "retrievedAt": "2025-02-21 19:05:48.760847",
+      "internal_id": "bffb4af0af70f8536f53115fd3bbcb7fa19e3cb172ced34caabab7dd3014d3dc",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 18491,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "S\u00e3o Paulo decreta una emergencia sanitaria por el aumento de casos de dengue",
+      "description": "En enero, ese estado brasile\u00f1o registr\u00f3 m\u00e1s del doble de casos que en el mismo mes de 2024.",
+      "url": "https://www.montevideo.com.uy/Salud/S-o-Paulo-decreta-una-emergencia-sanitaria-por-el-aumento-de-casos-de-dengue-uc915582",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202502/_W933_80/910726.jpg",
+      "publishedAt": "2025-02-20 17:10:00",
+      "content": "El Gobierno del estado brasile\u00f1o de S\u00e3o Paulo, el m\u00e1s poblado del pa\u00eds, decret\u00f3 este mi\u00e9rcoles una emergencia sanitaria por el r\u00e1pido aumento de casos de dengue, y anunci\u00f3 nuevas inversiones para c\u2026 [+1873 chars]",
+      "retrievedAt": "2025-02-21 19:05:47.344025",
+      "internal_id": "ab2c20090174513213ebcb6437b11660651ac7cb8b0850c1c285bd6d12ddb75f",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 18482,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": "CDC",
+      "title": "Highly Pathogenic Avian Influenza A(H5N1) Virus Infection of Indoor Domestic Cats Within Dairy Industry Worker Households \u2014 Michigan, May 2024",
+      "description": "This report describes highly pathogenic avian influenza virus infection among two indoor cats living in homes of dairy workers.",
+      "url": "https://www.cdc.gov/mmwr/volumes/74/wr/mm7405a2.htm",
+      "urlToImage": "https://www.cdc.gov/mmwr/volumes/74/wr/social-media/mm7405a2_AH5N1IndoorCats_IMAGE_20Feb2025_1200x675.png?_=78170",
+      "publishedAt": "2025-02-20 17:00:00",
+      "content": "Identification of First Case and Public Health Notification In May 2024, the index cat (cat 1A, one of three cats in household 1), aged 5 years, exclusively indoor, spayed female domestic shorthair,\u2026 [+8666 chars]",
+      "retrievedAt": "2025-02-21 19:05:46.667228",
+      "internal_id": "e955c9d607871ee55874cb9b789dc09532116f5b41d9be12028190b21861a1f9",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 18490,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": "CDC",
+      "title": "Dengue Outbreak and Response \u2014 Puerto Rico, 2024",
+      "description": "This report describes a local public health emergency triggered by dengue cases in Puerto Rico during 2024.",
+      "url": "https://www.cdc.gov/mmwr/volumes/74/wr/mm7405a1.htm",
+      "urlToImage": "https://www.cdc.gov/mmwr/volumes/74/wr/social-media/mm7405a1_Dengue_IMAGE_20Feb2025_1200x675.png?_=64565",
+      "publishedAt": "2025-02-20 17:00:00",
+      "content": "Enhancing Surveillance To increase outbreak awareness and improve dengue case recognition among health care providers, PRDH and CDC have conducted 3,030 education and prevention events, reaching app\u2026 [+5469 chars]",
+      "retrievedAt": "2025-02-21 19:05:47.336424",
+      "internal_id": "9a2750fe1d24afc28fb9ff1e0e63ce3783a13f96f6b70deb02f240156bb64cbe",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 18489,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Berliner Morgenpost",
+      "author": "Emma Firlus",
+      "title": "Philippinische Stadt bietet Kopfgeld \u2013 auf M\u00fccken",
+      "description": "In den letzten Monaten stieg die Zahl der Dengue-F\u00e4lle auf den Philippinen stark. Ein neuer Ansatz soll nun das Fieber eind\u00e4mmen.",
+      "url": "https://www.morgenpost.de/panorama/article408355261/philippinische-stadt-bietet-kopfgeld-auf-muecken.html",
+      "urlToImage": "https://img.sparknews.funkemedien.de/408355320/408355320_1740070315_v16_9_1600.jpeg",
+      "publishedAt": "2025-02-20 16:51:55",
+      "content": "Berlin. In den letzten Monaten stieg die Zahl der Dengue-F\u00e4lle auf den Philippinen stark. Ein neuer Ansatz soll nun das Fieber eind\u00e4mmen. Die Beh\u00f6rden von Barangay Addition Hills im Herzen Manilas \u2026 [+1653 chars]",
+      "retrievedAt": "2025-02-21 19:05:47.286165",
+      "internal_id": "4ed29ca395cf51040f3c470ca4d23ec5635ab90e02c807d3a3d933b318278435",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 18481,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Vox",
+      "author": "Kenny Torrella",
+      "title": "One state\u2019s flawed, desperate new plan to fix its egg shortage",
+      "description": "H5N1, a highly pathogenic strain of avian influenza known as bird flu, continues to wreak havoc on the nation\u2019s egg farms. In just the last month, more than 21.2 million egg-laying hens \u2014 about 7 percent of the national flock \u2014 have fallen prey to the virus o\u2026",
+      "url": "https://www.vox.com/future-perfect/400361/bird-flu-egg-shortage-nevada-cage-free",
+      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/02/AP04021105998.jpg?quality=90&strip=all&crop=0%2C6.2240627571836%2C100%2C87.551874485633&w=1200",
+      "publishedAt": "2025-02-20 16:44:04",
+      "content": "H5N1, a highly pathogenic strain of avian influenza known as bird flu, continues to wreak havoc on the nations egg farms. In just the last month, more than 21.2 million egg-laying hens about 7 percen\u2026 [+13155 chars]",
+      "retrievedAt": "2025-02-21 19:05:46.511632",
+      "internal_id": "933c78e96ef813fa65b678a7531d898cfd10fa9e476cfec631ccadbca076b78c",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 18499,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "ZEIT ONLINE: Zeitgeschehen - Sarah Vojta",
+      "title": "Demokratische Republik Kongo: Hunderte Mpox-Patienten nach Gewaltausbruch im Ostkongo geflohen",
+      "description": "Im bewaffneten Konflikt im Ostkongo spitzt sich die Lage weiter zu. Hunderte Mpox-Patienten fl\u00fcchteten aus Kliniken, es gibt Sorge vor einem gr\u00f6\u00dferen Krankheitsausbruch.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2025-02/demokratische-republik-kongo-konflikt-mpox",
+      "urlToImage": "https://img.zeit.de/gesellschaft/2025-02/demokratische-republik-kongo-konflikt-mpox-bild/wide__1300x731",
+      "publishedAt": "2025-02-20 16:16:39",
+      "content": "Die afrikanische Gesundheitsbeh\u00f6rde CDC Africa warnt angesichts der Eskalation des Konflikts im Ostkongo vor einer Zuspitzung des aktuellen Ausbruchs der Krankheit Mpox. In der Provinz S\u00fcd-Kivu der D\u2026 [+2402 chars]",
+      "retrievedAt": "2025-02-21 19:05:49.884406",
+      "internal_id": "65998f2c57a0cc18519da2cc0669e3ee6e748e1a6835b525d960c009efb26568",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 18488,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Luiz Paulo Souza",
+      "title": "4 cuidados para evitar picadas pelo mosquito da dengue",
+      "description": "Ap\u00f3s um ano de recordes, aumento no n\u00famero de casos preocupa autoridades e popula\u00e7\u00e3o",
+      "url": "https://veja.abril.com.br/saude/4-cuidados-para-evitar-picadas-pelo-mosquito-da-dengue",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2025/02/GettyImages-1139720793.jpg?quality=70&strip=info&crop=1&resize=1080,565",
+      "publishedAt": "2025-02-20 15:50:45",
+      "content": "Oferta Rel\u00e2mpago: 4 revistas pelo pre\u00e7o de uma!AEDES AEGYPTI - Dengue: medidas podem ajudar a evitar picadas (Joao Paulo Burini/Getty Images) Continua ap\u00f3s publicidade O ano de 2025 come\u00e7ou com um \u2026 [+5095 chars]",
+      "retrievedAt": "2025-02-21 19:05:47.248178",
+      "internal_id": "535b8975f32ca52a9d5f4a121b6849f98c3e20792f99f4a7aeea7b6cdc879bf2",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 18478,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "BroBible",
+      "author": "Douglas Charles",
+      "title": "Measles Outbreak Running Wild In Texas And New Mexico With Hundreds Possibly Infected",
+      "description": "A measles outbreak is running rampant in parts of Texas and New Mexico and health officials fear that hundreds more may be infected before it\u2019s over. Measles is a highly contagious disease that can usually be prevented by the administration of a vaccine. As o\u2026",
+      "url": "https://brobible.com/culture/article/measles-outbreak-texas-new-mexico-infected/",
+      "urlToImage": "https://brobible.com/wp-content/uploads/2025/02/Measles-morbilli-virus-infection-outbreak.jpg",
+      "publishedAt": "2025-02-20 15:21:13",
+      "content": "iStockphoto A measles outbreak is running rampant in parts of Texas and New Mexico and health officials fear that hundreds more may be infected before it\u2019s over. Measles is a highly contagious disea\u2026 [+2908 chars]",
+      "retrievedAt": "2025-02-21 19:05:45.435130",
+      "internal_id": "6b5b4644a359baa0090d13828ceb9f7b34a28f4cf1050033d8b71230041ae228",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 18496,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Orf.at",
+      "author": "ORF.at",
+      "title": "DR Kongo: Hunderte Mpox-Patienten geflohen",
+      "description": "",
+      "url": "https://orf.at/stories/3385439/",
+      "urlToImage": "https://orf.at/mojo/1_4_1/storyserver//news/common/images/og-fallback-news.png",
+      "publishedAt": "2025-02-20 14:50:27",
+      "content": "Der Direktor der afrikanischen Gesundheitsbeh\u00f6rde CDC Africa, Jean Kaseya, warnt angesichts der Eskalation des Konflikts in der Demokratischen Republik (DR) Kongo vor einer Zuspitzung des aktuellen A\u2026 [+746 chars]",
+      "retrievedAt": "2025-02-21 19:05:49.854390",
+      "internal_id": "f685c33bae86c689380011bf92eb0bb8b89b724ca1ddc8c4488936b258588903",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 18500,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Politiken.dk",
+      "author": null,
+      "title": "Forskere frygter mpox-spredning efter muteret virus",
+      "description": "Mpox-virussen har muteret til flere undervarianter, hvor s\u00e6rligt den ene viser sig mere smitsom.",
+      "url": "https://politiken.dk/danmark/sundhed/art10299417/Forskere-frygter-mpox-spredning-efter-muteret-virus",
+      "urlToImage": "",
+      "publishedAt": "2025-02-20 12:24:47",
+      "content": "Gem artiklen Gemt L\u00e6st Et nuv\u00e6rende udbrud af sygdommen mpox i afrikanske DR Congo kan potentielt sprede sig over flere landegr\u00e6nser. Virusset har muteret, og den nye variant, clade 1b, har vist \u2026 [+1774 chars]",
+      "retrievedAt": "2025-02-21 19:05:49.905128",
+      "internal_id": "301fccaa90e55d4244920c274cf16c156ebce851ed8519943d661226c5770004",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 18495,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.dr.dk",
+      "author": null,
+      "title": "Forskere frygter \u00f8get spredning af mpox efter smitsom mutation",
+      "description": "Et udbrud af sygdommen mpox i DR Congo risikerer at sprede sig over flere landegr\u00e6nser, efter en ny mutation af virusset har vist sig mere smitsom.",
+      "url": "https://www.dr.dk/nyheder/seneste/forskere-frygter-oeget-spredning-af-mpox-efter-smitsom-mutation",
+      "urlToImage": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fapi.dr.dk%2Ffreja%2Fimage%2Fraw%2F317&w=700",
+      "publishedAt": "2025-02-20 12:16:00",
+      "content": "USA's pr\u00e6sident, Donald Trump, gentager natten til torsdag dansk tid, at USA har brug for Gr\u00f8nland \"af hensyn til den nationale sikkerhed\". Det siger han under en sp\u00f8rgerunde med journalister om bor\u2026 [+646 chars]",
+      "retrievedAt": "2025-02-21 19:05:49.846392",
+      "internal_id": "6a09cecbd7e62d0e048844bd89cfe748c0865d185fd6be33bd665ec89c600da9",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 18477,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The New Republic",
+      "author": "Grace Segers",
+      "title": "What Trump\u2019s Firing Spree Means for the Next Public Health Crisis",
+      "description": "President Donald Trump\u2019s efforts to dramatically reshape the federal workforce and slash spending has brought chaos to Washington, D.C., and spawned a bevy of legal cases as newly unemployed members of the civil service attempt to save their jobs and their wo\u2026",
+      "url": "https://newrepublic.com/article/191721/trump-firing-spree-public-health",
+      "urlToImage": "https://images.newrepublic.com/96542728829ba1613743aa77cbc5a9d6e3d297d1.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+      "publishedAt": "2025-02-20 11:00:00",
+      "content": "These terminations come amid an outbreak of avian influenza that is decimating poultry flocks and may become more widespread among humans, a measles outbreak in west Texas, a tuberculosis outbreak in\u2026 [+1707 chars]",
+      "retrievedAt": "2025-02-21 19:05:45.407965",
+      "internal_id": "7a042889f03b24650bc284c54190405cf6d4ecd93c34be915b3ea279afa01336",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 18483,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Liga.net",
+      "author": null,
+      "title": "\u0421\u0430\u043c\u044b\u0435 \u0434\u043e\u0440\u043e\u0433\u0438\u0435 \u044f\u0439\u0446\u0430 \u0432 \u043c\u0438\u0440\u0435. \u0427\u0442\u043e \u043f\u0440\u043e\u0438\u0441\u0445\u043e\u0434\u0438\u0442 \u0441 \u0446\u0435\u043d\u0430\u043c\u0438 \u0432 \u0421\u0428\u0410 \u0438 \u043a\u0430\u043a \u0423\u043a\u0440\u0430\u0438\u043d\u0430 \u043c\u043e\u0436\u0435\u0442 \u043f\u043e\u043c\u043e\u0447\u044c",
+      "description": "\u0426\u0435\u043d\u0430 \u043d\u0430 \u044f\u0439\u0446\u0430 \u0432 \u0421\u0428\u0410 \u0437\u0430 \u0433\u043e\u0434 \u0432\u044b\u0440\u043e\u0441\u043b\u0430 \u0432 \u0434\u0432\u0430 \u0440\u0430\u0437\u0430. \u0418\u0437-\u0437\u0430 \u0447\u0435\u0433\u043e \u043e\u043d\u0438 \u0434\u043e\u0440\u043e\u0436\u0430\u044e\u0442 \u0438 \u0447\u0442\u043e \u043c\u043e\u0436\u0435\u0442 \u043f\u0440\u0435\u0434\u043b\u043e\u0436\u0438\u0442\u044c \u0423\u043a\u0440\u0430\u0438\u043d\u0430",
+      "url": "https://biz.liga.net/all/infographic-of-the-day/infografica/samye-dorogie-yaitsa-v-mire-chto-proishodit-s-tsenami-v-ssha-i-kak-ukraina-mozhet-pomoch",
+      "urlToImage": "https://storage.liga.net/images/general/social/social-4547913-ru.png?v=1740043455",
+      "publishedAt": "2025-02-20 10:58:13",
+      "content": ". 2025 $4,95, . $5,49, 80% , , 2024 . , . . Costco Wholesale , Trader Joe's 12 . - Sam's Club ( Walmart Inc). 12 $10. LIGA.net , , . , 2024 . H5N1, 50 -, . - 2024 17,2 -, . - , , , . 2025 21 -. \u2026 [+55 chars]",
+      "retrievedAt": "2025-02-21 19:05:46.687340",
+      "internal_id": "e3682d632d3295d8210e076274ab9f2eb2acf94d39e3e84e8214d4599629d05d",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 18497,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Mediafax.ro",
+      "author": "Iris Dutescu",
+      "title": "Desfiin\u0163area USAid de c\u0103tre Trump cre\u015fte riscul unei urgen\u0163e globale de mpox, avertizeaz\u0103 exper\u0163ii",
+      "description": "\u00cen contextul desfiin\u0163\u0103rii Agen\u0163iei SUA pentru Dezvoltare Interna\u0163ional\u0103 (USAid) de c\u0103tre administra\u0163ia Trump \u015fi retragerii acesteia din finan\u0163area eforturilor de s\u0103n\u0103tate public\u0103 la nivel mondial, virusul mpox risc\u0103 s\u0103 devin\u0103 o urgen\u0163\u0103 global\u0103 mai ampl\u0103, spun\u2026",
+      "url": "https://www.mediafax.ro/sanatate/desfiintarea-usaid-de-catre-trump-creste-riscul-unei-urgente-globale-de-mpox-avertizeaza-expertii-22704223",
+      "urlToImage": "https://storage0.dms.mpinteractiv.ro/media/1/1/38026/22704223/1/oms-logo.jpg?width=640",
+      "publishedAt": "2025-02-20 10:55:00",
+      "content": "Este o adevrat greeal s nu facem tot ce ne st \u00een putin pentru a controla acest lucru c\u00e2t \u00eenc mai putem, a declarat Stephen Morse, profesor de epidemiologie la Universitatea Columbia, care se concentr\u2026 [+1858 chars]",
+      "retrievedAt": "2025-02-21 19:05:49.862321",
+      "internal_id": "25a34ae17c7033f8e766d0e8858e6c4e0924c85f21af6b8ae6362a0df3ecd29d",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 18493,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Suaraindonesia-news.com",
+      "author": "admin",
+      "title": "Cegah Perkembangan Nyamuk Aedes Aegypti, Babinsa Koramil 0826-01 Pamekasan Lakukan Fogging di SDN Teja Barat 1",
+      "description": "PAMEKASAN, Kamis (20/02) suaraindonesia-news.com \u2013 Dalam upaya mencegah... The post Cegah Perkembangan Nyamuk Aedes Aegypti, Babinsa Koramil 0826-01 Pamekasan Lakukan Fogging di SDN Teja Barat 1 appeared first on Suara Indonesia.",
+      "url": "https://suaraindonesia-news.com/cegah-perkembangan-nyamuk-aedes-aegypti-babinsa-koramil-0826-01-pamekasan-lakukan-fogging-di-sdn-teja-barat-1/",
+      "urlToImage": "https://suaraindonesia-news.com/wp-content/uploads/2025/02/IMG_20250220_174933.jpg",
+      "publishedAt": "2025-02-20 10:52:58",
+      "content": "PAMEKASAN, Kamis (20/02) suaraindonesia-news.com Dalam upaya mencegah penyebaran penyakit Demam Berdarah Dengue (DBD) yang disebabkan oleh nyamuk Aedes aegypti, Babinsa Desa Teja Barat, Serka Ramli, \u2026 [+1593 chars]",
+      "retrievedAt": "2025-02-21 19:05:47.466514",
+      "internal_id": "f564dabfe0588b419de055128c2896487502090e1dfc44bc559e4db16e476c04",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 18498,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Globalsecurity.org",
+      "author": "John Pike",
+      "title": "Multiple disease outbreaks heighten public health emergencies for children across Eastern and Southern Africa",
+      "description": "Public health emergencies, including outbreaks of cholera, mpox and, more recently, viral haemorrhagic fevers, are posing significant threats to the safety and wellbeing of millions of children in Eastern and Southern Africa, UNICEF said today.",
+      "url": "https://www.globalsecurity.org/military/library/news/2025/02/mil-250219-unicef01.htm",
+      "urlToImage": null,
+      "publishedAt": "2025-02-20 10:01:20",
+      "content": "UNICEF 17 out of 21 countries in the region are experiencing one or more disease outbreaks Press release 19 February 2025 NAIROBI, 19 February 2025 -- Public health emergencies, including outbre\u2026 [+4358 chars]",
+      "retrievedAt": "2025-02-21 19:05:49.870735",
+      "internal_id": "3790d23ec7f5260c3baf5a6d4075d41c30855da322878efa5e2b2cfc4764ac83",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 18492,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "N-tv.de",
+      "author": "n-tv NACHRICHTEN",
+      "title": "124.000 Dengue-Fieber-F\u00e4lle: S\u00e3o Paulo ruft Gesundheitsnotstand aus",
+      "description": "Die brasilianische Millionenmetropole S\u00e3o Paulo verzeichnet mit 124.000 F\u00e4llen einen neuen Rekordwert von Dengue-Fieber. Eine Wetterlage tr\u00e4gt ma\u00dfgeblich zu der Krise bei. Bereits im letzten Jahr starben 6000 Menschen an der Erkrankung.",
+      "url": "https://www.n-tv.de/wissen/Sao-Paulo-ruft-Gesundheitsnotstand-aus-article25575833.html",
+      "urlToImage": "https://www.n-tv.de/img/incoming/crop25575836/8951324962-cImg_16_9-w1200/453438355.jpg",
+      "publishedAt": "2025-02-20 09:23:44",
+      "content": "Die brasilianische Millionenmetropole S\u00e3o Paulo verzeichnet mit 124.000 F\u00e4llen einen neuen Rekordwert von Dengue-Fieber. Eine Wetterlage tr\u00e4gt ma\u00dfgeblich zu der Krise bei. Bereits im letzten Jahr sta\u2026 [+1658 chars]",
+      "retrievedAt": "2025-02-21 19:05:47.387655",
+      "internal_id": "03df84f335da4977038f17aaebb3e2fbeff616ab9b712bf29bb098d663ee17b0",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 18485,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "YLE News",
+      "author": null,
+      "title": "Taivassalosta l\u00f6ytyi lintuinfluenssaan kuollut kanahaukka \u2013 kyseess\u00e4 jo toinen tartunta Varsinais-Suomessa t\u00e4n\u00e4 vuonna",
+      "description": "My\u00f6s Turusta l\u00f6ytyneell\u00e4 naakalla todettiin tammikuussa lintuinfluenssa. Ruokaviraston mukaan tautitilanne on edelleen rauhallinen.",
+      "url": "https://yle.fi/a/74-20144884",
+      "urlToImage": "https://images.cdn.yle.fi/image/upload/c_crop,x_0,y_0,w_2808,h_1580/w_1200,ar_1.91,c_fill/q_auto:eco,f_auto,fl_lossy/v1459862355/17-516235703bb2ae2097",
+      "publishedAt": "2025-02-20 08:55:59",
+      "content": "Varsinais-Suomesta Taivassalosta l\u00f6ytyneell\u00e4 kuolleella kanahaukalla on todettu lintuinfluenssa. Kyseess\u00e4 on jo toinen varmistettu H5N1-tyypin lintuinfluenssatapaus Varsinais-Suomessa t\u00e4n\u00e4 vuonna. R\u2026 [+1344 chars]",
+      "retrievedAt": "2025-02-21 19:05:46.709242",
+      "internal_id": "75dd9e8471e98f29ca496bf6c25d1c59cb23c16f078014b193d68893a5860cd5",
+      "publishedAtLabel": "Feb 20"
+    },
     {
       "id": 18475,
       "query": [
@@ -25675,114 +26125,6 @@
       "content": "A colorized transmission electron micrograph of avian influenza A H5N1 virus particles (blue), grown in Madin-Darby Canine Kidney (MDCK) epithelial cells - Copyright National Institute of Allergy and\u2026 [+2429 chars]",
       "retrievedAt": "2025-01-07 07:06:27.473171",
       "internal_id": "c70be9cec5809b4f8f89532947c360ec0a5d03c80f8e18b3e74013a276bcea4f",
-      "publishedAtLabel": "Jan 5"
-    },
-    {
-      "id": 17051,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Faz.net",
-      "author": "Andreas Eckert",
-      "title": "\u00dcber die Umweltgeschichte Afrikas",
-      "description": "Viehzucht, Malaria und die Wei\u00dfen: Will man die Umweltgeschichte Afrikas erz\u00e4hlen, muss man neben der Natur und Krankheiten auch Machtfragen und den Imperialismus in den Blick nehmen.",
-      "url": "https://www.faz.net/aktuell/feuilleton/bilder-und-zeiten/krankheiten-und-der-kolonialismus-ueber-die-umweltgeschichte-afrikas-110208640.html",
-      "urlToImage": "https://media0.faz.net/ppmedia/aktuell/909935446/1.10209298/facebook_teaser_fplus/ein-tuareg-impft-kinder-in.jpg",
-      "publishedAt": "2025-01-05 18:56:04",
-      "content": "Die Klimanachrichten aus Afrika sind d\u00fcster. W\u00e4hrend Teile des Kontinents von \u00dcberschwemmungen heimgesucht werden, leiden andere Regionen unter langen D\u00fcrreperioden. Diese Katastrophen treffen zumeis\u2026 [+711 chars]",
-      "retrievedAt": "2025-01-06 19:05:36.440882",
-      "internal_id": "bb517e2215e4968a9c4f036e58c2140369b52fc1afcd41c168942ba8f1ad4c34",
-      "publishedAtLabel": "Jan 5"
-    },
-    {
-      "id": 17050,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Catracalivre.com.br",
-      "author": "Andr\u00e9 Nicolau",
-      "title": "4 fatos indispens\u00e1veis sobre a dengue que voc\u00ea precisa conhecer",
-      "description": "O aumento das chuvas e das temperaturas elevadas reservam condi\u00e7\u00f5es ideais para a reprodu\u00e7\u00e3o do mosquito da dengue. Confira outros fatos.",
-      "url": "https://catracalivre.com.br/saude-bem-estar/fatos-dengue-precisa-saber/",
-      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1280,h=680,fit=cover,format=jpeg/wp-content/uploads/2024/02/dengue.jpg",
-      "publishedAt": "2025-01-05 17:00:18",
-      "content": "A dengue \u00e9 uma doen\u00e7a viral passada pelo mosquito Aedes Aegypti Soumyabrata Roy/istock - Soumyabrata Roy/istock O aumento das chuvas e das temperaturas elevadas, t\u00edpicas do ver\u00e3o, reservam condi\u00e7\u00f5es\u2026 [+2913 chars]",
-      "retrievedAt": "2025-01-06 19:05:35.874249",
-      "internal_id": "6ecb502a9076a0366e11d6a18a8f8509f248784d13153fb6c1f0f9f07cfa23e3",
-      "publishedAtLabel": "Jan 5"
-    },
-    {
-      "id": 17049,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "la-nacion",
-      "source_name": "La Nacion",
-      "author": "Alejandro Horvat",
-      "title": "En plena temporada: qu\u00e9 medidas preventivas hay en la costa para evitar aumentos de casos de dengue",
-      "description": "Si bien los especialistas advierten que no es una zona end\u00e9mica, el alto movimiento tur\u00edstico puede llegar a ser un agravante",
-      "url": "https://www.lanacion.com.ar/sociedad/en-plena-temporada-que-medidas-preventivas-hay-en-la-costa-para-evitar-aumentos-de-casos-de-dengue-nid05012025/",
-      "urlToImage": "https://resizer.glanacion.com/resizer/v2/los-casos-de-dengue-a-nivel-nacional-muestran-un-H26K6NEWUBB3JP5D3RNPUAEQS4.jpg?auth=f16d6224ca93e3f623fdb9c5614b43b9913314d40fbd519eee619de366b52ea5&width=1200&quality=70&smart=false&height=800",
-      "publishedAt": "2025-01-05 10:37:15",
-      "content": "El verano no solo trae consigo altas temperaturas y playas llenas de turistas, sino tambi\u00e9n un desaf\u00edo sanitario que pone en alerta a todo el pa\u00eds: el dengue. Esta enfermedad, transmitida por el mosq\u2026 [+5853 chars]",
-      "retrievedAt": "2025-01-06 19:05:35.867226",
-      "internal_id": "2182e8f604e1bfaf08eef8b9d2796fa1ffccd8be529a354e5d5cb6bafdcfafbf",
-      "publishedAtLabel": "Jan 5"
-    },
-    {
-      "id": 17048,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Aajtak.in",
-      "author": "aajtak.in",
-      "title": "\u0928\u093e\u0917\u092a\u0941\u0930 \u092e\u0947\u0902 \u092c\u0930\u094d\u0921 \u092b\u094d\u0932\u0942 \u0938\u0947 3 \u092c\u093e\u0918 \u0914\u0930 \u090f\u0915 \u0924\u0947\u0902\u0926\u0941\u090f \u0915\u0940 \u092e\u094c\u0924, \u091f\u093e\u0907\u0917\u0930 \u0930\u093f\u091c\u0930\u094d\u0935 \u0914\u0930 \u0930\u0947\u0938\u094d\u0915\u094d\u092f\u0942 \u0938\u0947\u0902\u091f\u0930\u094d\u0938 \u0915\u0947 \u0932\u093f\u090f \u0905\u0932\u0930\u094d\u091f \u091c\u093e\u0930\u0940",
-      "description": "\u092e\u0939\u093e\u0930\u093e\u0937\u094d\u091f\u094d\u0930 \u0915\u0947 \u0928\u093e\u0917\u092a\u0941\u0930 \u092e\u0947\u0902 \u0917\u094b\u0930\u0947\u0935\u093e\u0921\u093c\u093e \u0930\u0947\u0938\u094d\u0915\u094d\u092f\u0942 \u0938\u0947\u0902\u091f\u0930 \u092e\u0947\u0902 \u0926\u093f\u0938\u0902\u092c\u0930 \u092e\u0947\u0902 \u0924\u0940\u0928 \u092c\u093e\u0918 \u0914\u0930 \u090f\u0915 \u0924\u0947\u0902\u0926\u0941\u0906 H5N1 \u0935\u093e\u092f\u0930\u0938 \u0938\u0947 \u0938\u0902\u0915\u094d\u0930\u092e\u093f\u0924 \u0939\u094b\u0915\u0930 \u092e\u093e\u0930\u0947 \u0917\u090f. \u0907\u0938 \u0918\u091f\u0928\u093e \u0915\u0947 \u092c\u093e\u0926 \u0930\u093e\u091c\u094d\u092f \u0915\u0947 \u091f\u093e\u0907\u0917\u0930 \u0930\u093f\u091c\u0930\u094d\u0935 \u0914\u0930 \u0930\u0947\u0938\u094d\u0915\u094d\u092f\u0942 \u0938\u0947\u0902\u091f\u0930\u094d\u0938 \u0915\u094b \u0905\u0932\u0930\u094d\u091f \u092a\u0930 \u0930\u0916\u093e \u0917\u092f\u093e \u0939\u0948. \u091c\u093e\u0902\u091a \u092e\u0947\u0902 \u0905\u0928\u094d\u092f 26 \u0924\u0947\u0902\u0926\u0941\u090f \u0914\u0930 12 \u092c\u093e\u0918 \u0938\u094d\u0935\u0938\u094d\u0925 \u092a\u093e\u090f \u0917\u090f. \u0905\u0927\u093f\u0915\u093e\u0930\u2026",
-      "url": "https://www.aajtak.in/india/maharashtra/story/tiger-and-leopard-died-of-bird-flu-h5n1-virus-in-nagpur-rescue-centre-alert-issued-ntc-dskc-2136699-2025-01-05",
-      "urlToImage": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202501/677a5e7159d1b-tiger-and-leopard-052651552-16x9.jpg",
-      "publishedAt": "2025-01-05 10:29:37",
-      "content": "Copyright \u00a9 2025 Living Media India Limited. For reprint rights: Syndications Today",
-      "retrievedAt": "2025-01-06 19:05:35.396893",
-      "internal_id": "895fd40da7e5878970f986f3d0e94cfdacdf9a1b17b1b11a728150ebb9cf5d5f",
-      "publishedAtLabel": "Jan 5"
-    },
-    {
-      "id": 17047,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "ET Online",
-      "title": "Amid HMPV virus outbreak in China, three tigers and a leopard die of highly infectious avian flu H5N1 virus in Nagpur",
-      "description": "Three tigers and a sub-adult leopard at Gorewada Rescue Centre in Nagpur died from avian flu H5N1. This is the first time the virus caused significant wildlife deaths in captivity in India. Health measures were taken, and other big cats were examined and foun\u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/amid-hmpv-virus-outbreak-in-china-three-tigers-and-a-leopard-die-of-highly-pathogenic-avian-flu-h5n1-virus/articleshow/116963521.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-116963972,width-1200,height-630,imgsize-2683349,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2025-01-05 10:00:31",
-      "content": "Artificial Intelligence(AI) AI and Analytics based Business Strategy By - Tanusree De, Managing Director- Accenture Technology Lead, Trustworthy AI Center of Excellence: ATCI View Program",
-      "retrievedAt": "2025-01-06 19:05:35.389872",
-      "internal_id": "9a8435ec806824779d4f6f3f6b1e195d161d13980117dc60019978fad90f1c29",
-      "publishedAtLabel": "Jan 5"
-    },
-    {
-      "id": 17046,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "ZyCrypto",
-      "author": "Guest Author",
-      "title": "Solana\u2019s PNUT Prodigy Picks DLUME as 2025\u2019s Next Big Thing \u2013 Could You Be Next?",
-      "description": "Particularly during a viral rabies crisis in New York in October 2023, Peanut the Squirrel\u2019s (PNUT) ascent as a Solana-based memecoin has garnered a lot of focus. When Coinbase revealed that PNUT would be included in its listing roadmap on December 11, the me\u2026",
-      "url": "https://zycrypto.com/solanas-pnut-prodigy-picks-dlume-as-2025s-next-big-thing-could-you-be-next/",
-      "urlToImage": "https://zycrypto.com/wp-content/uploads/2024/12/Next-Crypto-to-Explode-Aurealone-Leads-Best-Coins-for-Potential-600x-Portfolio-Gains.jpg",
-      "publishedAt": "2025-01-05 09:24:56",
-      "content": "Particularly during a viral rabies crisis in New York in October 2023, Peanut the Squirrel\u2019s (PNUT) ascent as a Solana-based memecoin has garnered a lot of focus. When Coinbase revealed that PNUT wou\u2026 [+5309 chars]",
-      "retrievedAt": "2025-01-06 19:05:34.431523",
-      "internal_id": "f2d59d393705c83bbe72e8188b5f7b2b888747d87217f20b6d7b7fa89d96f24e",
       "publishedAtLabel": "Jan 5"
     }
   ]
