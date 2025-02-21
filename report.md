@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 37
-- **Last harvest:** 2025-02-20 19:06
-- **Most recent article:** 2025-02-19 19:02:23
+- **New articles in last harvest:** 15
+- **Last harvest:** 2025-02-21 07:06
+- **Most recent article:** 2025-02-20 05:09:50
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-2 | 25-3 | 25-4 | 25-5 | 25-6 | 25-7 | 25-8 | Total |
 |--|-|-|-|-|-|-|-|-|
-| h5n1 | 127 | 65 | 31 | 51 | 72 | 55 | 39 | 440 |
-| dengue | 39 | 29 | 37 | 24 | 34 | 37 | 32 | 232 |
-| mpox | 91 | 34 | 23 | 22 | 28 | 18 | 6 | 222 |
-| measles | 6 | 9 | 10 | 13 | 24 | 72 | 48 | 182 |
-| malaria | 28 | 18 | 19 | 30 | 25 | 12 | 3 | 135 |
-| hpai | 18 | 12 | 11 | 6 | 3 | 9 | 3 | 62 |
-| chikungunya | 7 | 7 | 10 | 9 | 8 | 5 | 2 | 48 |
+| h5n1 | 129 | 65 | 31 | 51 | 72 | 55 | 40 | 443 |
+| dengue | 41 | 29 | 37 | 24 | 34 | 37 | 37 | 239 |
+| mpox | 91 | 34 | 23 | 22 | 28 | 18 | 7 | 223 |
+| measles | 6 | 9 | 10 | 13 | 24 | 72 | 53 | 187 |
+| malaria | 29 | 18 | 19 | 30 | 25 | 12 | 4 | 137 |
+| hpai | 18 | 12 | 11 | 6 | 3 | 9 | 4 | 63 |
+| chikungunya | 7 | 7 | 10 | 9 | 8 | 5 | 3 | 49 |
 | zika | 15 | 5 | 2 | 8 | 6 | 2 | 5 | 43 |
 | meningitis | 0 | 2 | 3 | 8 | 2 | 12 | 8 | 35 |
-| rabies | 1 | 6 | 7 | 6 | 4 | 5 | 4 | 33 |
+| rabies | 2 | 6 | 7 | 6 | 4 | 5 | 4 | 34 |
 | pertussis | 2 | 0 | 1 | 0 | 3 | 3 | 2 | 11 |
 | yersinia | 3 | 2 | 0 | 0 | 0 | 5 | 0 | 10 |
 | typhoid | 0 | 4 | 0 | 0 | 2 | 3 | 0 | 9 |
@@ -62,6 +62,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-8 (mpox)
 
+- [Scientists warn of increased mpox transmission](https://www.sciencedaily.com/releases/2025/02/250220000950.htm) (Science Daily)
+
 - [UNICEF raises alarm over frequent health crises in eastern, southern Africa](https://www.thestar.com.my/news/world/2025/02/20/unicef-raises-alarm-over-frequent-health-crises-in-eastern-southern-africa) (The Star Online)
 
 - [Ο ΠΟΥ καλεί μέλη να καταλήξουν σε συμφωνία για αντιμετώπιση πανδημιών «τώρα ή ποτέ»](https://dialogos.com.cy/o-poy-kalei-meli-na-katalixoyn-se-symfonia-gia-antimetopisi-pandimion-tora-i-pote/) (Dialogos.com.cy)
@@ -93,6 +95,16 @@ Source: [News API](https://newsapi.org/)
 - [Alarm in Pyrgos after the death of a 54 year old woman – Serious indications of a meningitis case](https://en.protothema.gr/2025/02/16/alarm-in-pyrgos-after-the-death-of-a-54-year-old-woman-serious-indications-of-a-meningitis-case/) (Protothema.gr)
 
 ## 25-8 (measles)
+
+- [Making America Sick Again: How Trump’s Drastic Layoffs at the Centers for Disease Control cripple our Response to Norovirus, Measles Outbreaks](https://www.juancole.com/2025/02/response-norovirus-outbreaks.html) (Juancole.com)
+
+- [CDC layoffs strike deeply at its ability to respond to the current flu, norovirus and measles outbreaks and other public health emergencies](https://theconversation.com/cdc-layoffs-strike-deeply-at-its-ability-to-respond-to-the-current-flu-norovirus-and-measles-outbreaks-and-other-public-health-emergencies-248486) (The Conversation Africa)
+
+- [2nd case of measles related to Air Canada flight last week confirmed in B.C.'s Lower Mainland](https://www.cbc.ca/news/canada/british-columbia/measles-second-case-b-c-1.7463226) (CBC News)
+
+- [GOP Senator Promotes Measles Vaccine Despite Confirming RFK Jr.](https://www.huffpost.com/entry/sen-bill-cassidy-vaccine-tweet-rfk-jr_n_67b636cce4b0be61010d6358) (HuffPost)
+
+- [Measles outbreak in US: Cases rise to 48 but officials fear real number is over 200](https://economictimes.indiatimes.com/news/international/us/measles-outbreak-in-us-cases-rise-to-48-but-officials-fear-real-number-is-over-200/articleshow/118397021.cms) (The Times of India)
 
 - [Texas measles cases are up, and New Mexico now has an outbreak. Here's what you need to know](https://richmond.com/news/nation-world/measles-outbreak-mmr-vaccine-texas-new-mexico/article_58012f3b-c078-5957-9fc3-384e8f829acd.html) (Richmond.com)
 
@@ -192,6 +204,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-8 (malaria)
 
+- [USAid: Die Zerstörung hat schon begonnen](https://www.zeit.de/gesundheit/2025-02/usaid-hiv-malaria-entwicklungshilfe-medizin) (Die Zeit)
+
 - [On the Medical Front, a 'Very Urgent' Need for Oxygen](https://www.newser.com/story/364454/on-the-medical-front-a-very-urgent-need-for-oxygen.html) (Newser)
 
 - [Potential new target for malaria discovered](https://www.nih.gov/news-events/nih-research-matters/potential-new-target-malaria-discovered) (National Institutes of Health)
@@ -206,6 +220,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-8 (hpai)
 
+- [Raw pet food warnings issued in 2 states after cats die of bird flu](https://www.cbsnews.com/news/bird-flu-cats-wild-coast-raw-recall-warnings/) (CBS News)
+
 - [With the Spread of Bird Flu, Cooking Eggs with Precaution May be Beneficial](https://www.discovermagazine.com/health/with-the-spread-of-bird-flu-cooking-eggs-with-precaution-may-be-beneficial) (Discover Magazine)
 
 - [美蛋荒持續、蛋價飛漲 聯準會面臨抗通膨難題](https://finance.technews.tw/2025/02/18/egg-prices-soar-fed-faces-a-challenge-in-fighting-inflation/) (Technews.tw)
@@ -213,6 +229,8 @@ Source: [News API](https://newsapi.org/)
 - [Bird Flu Cases in Household Cats Spark Raw Pet Food Warning](https://www.newsweek.com/bird-flu-cases-household-cat-raw-pet-food-warning-2031986) (Newsweek)
 
 ## 25-8 (h5n1)
+
+- [USDA Scrambles to Rehire Employees Who Were Combatting Bird Flu After Accidentally Firing Them](https://www.ibtimes.com/usda-scrambles-rehire-employees-who-were-combatting-bird-flu-after-accidentally-firing-them-3764318) (International Business Times)
 
 - [Trump officials try to reverse DOGE-led firings](https://theweek.com/politics/doge-led-firings-trump-musk-bird-air-safety) (The Week Magazine)
 
@@ -294,6 +312,16 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-8 (dengue)
 
+- [Distrito Federal reforça as ações de prevenção e combate à dengue](https://www.metropoles.com/conteudo-especial/distrito-federal-reforca-as-acoes-de-prevencao-e-combate-a-dengue) (Metropoles.com)
+
+- [Butantan desenvolve primeira vacina de dose única contra a dengue](https://catracalivre.com.br/saude-bem-estar/butantan-desenvolve-primeira-vacina-de-dose-unica-contra-a-dengue/) (Catracalivre.com.br)
+
+- [Dengue: São Paulo declara emergência de saúde pública diante de epidemia](https://olhardigital.com.br/2025/02/19/medicina-e-saude/dengue-sao-paulo-declara-emergencia-de-saude-publica-diante-de-epidemia/) (Olhardigital.com.br)
+
+- [Sao Paulo state declares health emergency over dengue outbreak](https://www.thestar.com.my/news/world/2025/02/20/sao-paulo-state-declares-health-emergency-over-dengue-outbreak) (The Star Online)
+
+- [Estado de São Paulo declara situação de emergência após aumento em casos de dengue](https://www.infomoney.com.br/saude/estado-de-sao-paulo-declara-situacao-de-emergencia-apos-aumento-em-casos-de-dengue/) (InfoMoney)
+
 - [Sao Paulo ruft Notstand wegen Dengue-Fiebers aus](https://orf.at/stories/3385363/) (Orf.at)
 
 - [In This Neighborhood, They Trade Mosquitoes for Cash](https://www.newser.com/story/364531/village-offers-a-bounty-on-mosquitoes.html) (Newser)
@@ -359,6 +387,8 @@ Source: [News API](https://newsapi.org/)
 - [Farmacêutico ensina receita de repelente natural com ervas medicinais](https://www.metropoles.com/colunas/claudia-meireles/farmaceutico-ensina-receita-de-repelente-natural-com-ervas-medicinais) (Metropoles.com)
 
 ## 25-8 (chikungunya)
+
+- [Level 2 - Chikungunya in Réunion](https://wwwnc.cdc.gov/travel/notices/level2/chikungunya-reunion) (Cdc.gov)
 
 - [Com mais de 110 mortes, São Paulo decreta emergência por dengue em todo o estado](https://veja.abril.com.br/saude/com-mais-de-100-mortes-sao-paulo-decreta-emergencia-por-dengue-em-todo-o-estado) (Abril.com.br)
 
@@ -2484,6 +2514,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Young man dies of rabies at Seti provincial hospital](https://dineshkhabar.com/article/117684) (Dineshkhabar.com)
 
+- [Solana’s PNUT Prodigy Picks DLUME as 2025’s Next Big Thing – Could You Be Next?](https://zycrypto.com/solanas-pnut-prodigy-picks-dlume-as-2025s-next-big-thing-could-you-be-next/) (ZyCrypto)
+
 ## 25-2 (pertussis)
 
 - [Tos ferina: qué sabemos sobre el incremento de casos ocasionados por la bacteria Bordetella pertussis](https://www.milenio.com/ciencia-y-salud/aumentan-casos-bordetella-pertussi-tos-ferina) (Milenio)
@@ -2745,6 +2777,8 @@ Source: [News API](https://newsapi.org/)
 - [Cell wall components of gut commensal bacteria stimulate peritrophic matrix formation in malaria vector mosquitoes through activation of the IMD pathway](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002967) (Plos.org)
 
 - [Text (actual latters) change when saving to PDF from Word. WTF?](https://ask.metafilter.com/383833/Text-actual-latters-change-when-saving-to-PDF-from-Word-WTF) (Metafilter.com)
+
+- [Über die Umweltgeschichte Afrikas](https://www.faz.net/aktuell/feuilleton/bilder-und-zeiten/krankheiten-und-der-kolonialismus-ueber-die-umweltgeschichte-afrikas-110208640.html) (Faz.net)
 
 ## 25-2 (hpai)
 
@@ -3040,6 +3074,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Op-Ed: Collapsing health systems vs major flu outbreaks in US, UK and Europe](https://www.digitaljournal.com/world/op-ed-collapsing-health-systems-vs-major-flu-outbreaks-in-us-uk-and-europe/article) (Digital Journal)
 
+- [नागपुर में बर्ड फ्लू से 3 बाघ और एक तेंदुए की मौत, टाइगर रिजर्व और रेस्क्यू सेंटर्स के लिए अलर्ट जारी](https://www.aajtak.in/india/maharashtra/story/tiger-and-leopard-died-of-bird-flu-h5n1-virus-in-nagpur-rescue-centre-alert-issued-ntc-dskc-2136699-2025-01-05) (Aajtak.in)
+
+- [Amid HMPV virus outbreak in China, three tigers and a leopard die of highly infectious avian flu H5N1 virus in Nagpur](https://economictimes.indiatimes.com/news/india/amid-hmpv-virus-outbreak-in-china-three-tigers-and-a-leopard-die-of-highly-pathogenic-avian-flu-h5n1-virus/articleshow/116963521.cms) (The Times of India)
+
 ## 25-2 (dengue)
 
 - [Marketing faz bem, mas não resolve inflação, dengue, falta de gestão nem Congresso guloso](https://www.estadao.com.br/politica/eliane-cantanhede/marketing-faz-bem-mas-nao-resolve-inflacao-dengue-falta-de-gestao-nem-congresso-guloso/) (Estadao.com.br)
@@ -3119,6 +3157,10 @@ Source: [News API](https://newsapi.org/)
 - [Migrantes que cruzan el Darién, con salud comprometida: OPS](https://www.jornada.com.mx/2025/01/06/politica/006n2pol) (Jornada.com.mx)
 
 - [Guerrero cierra el 2024 con casi siete mil casos de dengue y 61 muertes](https://www.excelsior.com.mx/nacional/dengue-guerrero-cierra-el-2024-con-casi-siete-mil-casos-y-61-muertes/1692712) (Excelsior.com.mx)
+
+- [4 fatos indispensáveis sobre a dengue que você precisa conhecer](https://catracalivre.com.br/saude-bem-estar/fatos-dengue-precisa-saber/) (Catracalivre.com.br)
+
+- [En plena temporada: qué medidas preventivas hay en la costa para evitar aumentos de casos de dengue](https://www.lanacion.com.ar/sociedad/en-plena-temporada-que-medidas-preventivas-hay-en-la-costa-para-evitar-aumentos-de-casos-de-dengue-nid05012025/) (La Nacion)
 
 ## 25-2 (chikungunya)
 

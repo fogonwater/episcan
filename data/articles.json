@@ -1,8 +1,278 @@
 {
-  "last_updated": "2025-02-20 19:06",
-  "count_articles_total": 1408,
-  "count_articles_new": 37,
+  "last_updated": "2025-02-21 07:06",
+  "count_articles_total": 1429,
+  "count_articles_new": 15,
   "articles": [
+    {
+      "id": 18475,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "Scientists warn of increased mpox transmission",
+      "description": "International researchers warn that the ongoing mpox outbreak in the Democratic Republic of the Congo (DRC) has the potential to spread across borders more rapidly. The mpox virus has mutated, and the new variant, clade 1b, has become more infectious.",
+      "url": "https://www.sciencedaily.com/releases/2025/02/250220000950.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2025-02-20 05:09:50",
+      "content": "International researchers, including from DTU National Food Institute, warn that the ongoing mpox outbreak in the Democratic Republic of the Congo (DRC) has the potential to spread across borders mor\u2026 [+5521 chars]",
+      "retrievedAt": "2025-02-21 07:06:57.274931",
+      "internal_id": "b60e212830489fe6e6323a127e7a2f853cad49f546bcbdf80b4847e3018eac8b",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 18461,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Juancole.com",
+      "author": "The Conversation",
+      "title": "Making America Sick Again: How Trump\u2019s Drastic Layoffs at the Centers for Disease Control cripple our Response to Norovirus, Measles Outbreaks",
+      "description": "By Jordan Miller, Arizona State University (The Conversation) - In just a few short weeks, the Trump administration has brought drastic changes to the Centers for Disease Control and Prevention and public health. Beginning with the removal of websites and key\u2026",
+      "url": "https://www.juancole.com/2025/02/response-norovirus-outbreaks.html",
+      "urlToImage": "https://media.juancole.com/images/2025/02/pexels-rdne-6129881-scaled.jpg",
+      "publishedAt": "2025-02-20 05:04:42",
+      "content": "By Jordan Miller, Arizona State University (The Conversation) \u2013 In just a few short weeks, the Trump administration has brought drastic changes to the Centers for Disease Control and Prevention and \u2026 [+7704 chars]",
+      "retrievedAt": "2025-02-21 07:06:52.953153",
+      "internal_id": "9bf3591c1ac797627378faf338bacdecfba14bca050bd886c1c46db9363dd2d5",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 18474,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Level 2 - Chikungunya in R\u00e9union",
+      "description": "There is an outbreak of chikungunya in R&#233;union. Mosquitoes spread the virus that causes chikungunya.",
+      "url": "https://wwwnc.cdc.gov/travel/notices/level2/chikungunya-reunion",
+      "urlToImage": "https://www.cdc.gov/coronavirus/2019-ncov/images/social-media/COVID-19-and-Travel-tw.jpg",
+      "publishedAt": "2025-02-20 05:00:00",
+      "content": "Chikungunya disease is caused by the chikungunya virus and is spread to humans through mosquito bites. Outbreaks have occurred in countries in Africa, Americas, Asia, Europe, the Caribbean, and India\u2026 [+828 chars]",
+      "retrievedAt": "2025-02-21 07:06:56.591991",
+      "internal_id": "fe4267c70edde094bf0183f1fa81410d3bb293715814174bc77e41834eb7d6a7",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 18473,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "ZEIT ONLINE: Gesundheit - Kai Kupferschmidt, Laura Salm-Reifferscheidt",
+      "title": "USAid: Die Zerst\u00f6rung hat schon begonnen",
+      "description": "Ob Projekte gegen HIV, Malaria oder vernachl\u00e4ssigte Tropenkrankheiten: Die USA streichen ihre medizinische Entwicklungshilfe. Die Folgen sind schon jetzt dramatisch.",
+      "url": "https://www.zeit.de/gesundheit/2025-02/usaid-hiv-malaria-entwicklungshilfe-medizin",
+      "urlToImage": "https://img.zeit.de/gesundheit/2025-02/usaid-aids-folgen-weltgesundheit-bild/wide__1300x731",
+      "publishedAt": "2025-02-20 04:30:38",
+      "content": "Es begann mit Ger\u00fcchten, mit vagen Nachrichten, die Franklin Wanyama Anfang des Jahres in den sozialen Medien aufschnappte. Der k\u00fcnftige US-Pr\u00e4sident Donald Trump wolle jegliche Auslandshilfe stoppen\u2026 [+11660 chars]",
+      "retrievedAt": "2025-02-21 07:06:55.946985",
+      "internal_id": "49db46eea8276fd7ce4baeaa91455ebd9793c78007d1ca279d3abcc252003dc5",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 18470,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Conte\u00fado Especial",
+      "title": "Distrito Federal refor\u00e7a as a\u00e7\u00f5es de preven\u00e7\u00e3o e combate \u00e0 dengue",
+      "description": "Medidas visam ao monitoramento, fiscaliza\u00e7\u00e3o e conscientiza\u00e7\u00e3o contra a prolifera\u00e7\u00e3o do mosquito Aedes aegypti",
+      "url": "https://www.metropoles.com/conteudo-especial/distrito-federal-reforca-as-acoes-de-prevencao-e-combate-a-dengue",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/02/01154148/Novo-Projeto-2024-02-01T153419.414.jpg",
+      "publishedAt": "2025-02-20 03:25:13",
+      "content": "A capital federal enfrentou, em 2024, a pior epidemia de dengue registrada na hist\u00f3ria. Ao todo, foram contabilizados 284.278 casos prov\u00e1veis da doen\u00e7a e 440 mortes, segundo dados do boletim epidemio\u2026 [+4423 chars]",
+      "retrievedAt": "2025-02-21 07:06:55.061190",
+      "internal_id": "b3e9eb29afda1b9ae9777e92c917deb02a3846a248253b69df96a6c5684e6acd",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 18472,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Catracalivre.com.br",
+      "author": "Andr\u00e9 Nicolau",
+      "title": "Butantan desenvolve primeira vacina de dose \u00fanica contra a dengue",
+      "description": "O Instituto Butantan est\u00e1 na fase final de aprova\u00e7\u00e3o da primeira vacina de dose \u00fanica contra a dengue no mundo, a QDenga. A novidade foi anunciada nesta quarta-feira, 19, pelo Governo do Estado durante uma reuni\u00e3o do Centro de Opera\u00e7\u00f5es de Emerg\u00eancias (COE) p\u2026",
+      "url": "https://catracalivre.com.br/saude-bem-estar/butantan-desenvolve-primeira-vacina-de-dose-unica-contra-a-dengue/",
+      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1280,h=680,fit=cover,format=jpeg/wp-content/uploads/2025/02/vacinadengue-interna1-1.jpg",
+      "publishedAt": "2025-02-20 02:00:18",
+      "content": "Em fevereiro de 2025, o Minist\u00e9rio da Sa\u00fade anunciou a amplia\u00e7\u00e3o da faixa et\u00e1ria para pessoas de 4 a 59 anos, com o objetivo de aproveitar os lotes pr\u00f3ximos ao vencimento Butantan/Divulga\u00e7\u00e3o O Insti\u2026 [+3498 chars]",
+      "retrievedAt": "2025-02-21 07:06:55.140590",
+      "internal_id": "b1d0e0cb89d259e1dc03b615585e22ff1772d1e0040c7ba732188d79c0a5f755",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 18463,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Jordan Miller, Teaching Professor of Public Health, Arizona State University",
+      "title": "CDC layoffs strike deeply at its ability to respond to the current flu, norovirus and measles outbreaks and other public health emergencies",
+      "description": "The CDC was instrumental in eradicating smallpox, identifying the causes of HIV and encouraging Americans to get the COVID-19 shot.",
+      "url": "https://theconversation.com/cdc-layoffs-strike-deeply-at-its-ability-to-respond-to-the-current-flu-norovirus-and-measles-outbreaks-and-other-public-health-emergencies-248486",
+      "urlToImage": "https://images.theconversation.com/files/650168/original/file-20250219-32-vuxppq.jpg?ixlib=rb-4.1.0&rect=49%2C24%2C4040%2C2017&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2025-02-19 23:55:24",
+      "content": "The CDC played an instrumental, if imperfect, role in the response to COVID-19. JHDT Stock Images LLC/iStock via Getty Images In just a few short weeks, the Trump administration has brought drastic\u2026 [+7750 chars]",
+      "retrievedAt": "2025-02-21 07:06:53.058772",
+      "internal_id": "2d6e3eefaa3532ed42e2f4dc0df12e9fac73e4dac4ee48607078922a8d3f7893",
+      "publishedAtLabel": "Feb 19"
+    },
+    {
+      "id": 18468,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Gabriel S\u00e9rvio",
+      "title": "Dengue: S\u00e3o Paulo declara emerg\u00eancia de sa\u00fade p\u00fablica diante de epidemia",
+      "description": "N\u00famero de casos confirmados j\u00e1 ultrapassa a marca de 124 mil, atingindo 225 munic\u00edpios O post Dengue: S\u00e3o Paulo declara emerg\u00eancia de sa\u00fade p\u00fablica diante de epidemia apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2025/02/19/medicina-e-saude/dengue-sao-paulo-declara-emergencia-de-saude-publica-diante-de-epidemia/",
+      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2024/12/dengue.jpg",
+      "publishedAt": "2025-02-19 22:27:52",
+      "content": "S\u00e3o Paulo declarou estado de emerg\u00eancia em sa\u00fade p\u00fablica nesta quarta-feira (19), em resposta ao surto alarmante de dengue que assola o estado. A decis\u00e3o, anunciada pelo secret\u00e1rio estadual de Sa\u00fad\u2026 [+2356 chars]",
+      "retrievedAt": "2025-02-21 07:06:54.966541",
+      "internal_id": "39edbbf9a8184bd682000acdb1fde4b5b2c5d7cd0e10cebcbc3f0de5817c3c3e",
+      "publishedAtLabel": "Feb 19"
+    },
+    {
+      "id": 18467,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "International Business Times",
+      "author": "Maryam Khanum",
+      "title": "USDA Scrambles to Rehire Employees Who Were Combatting Bird Flu After Accidentally Firing Them",
+      "description": "The Department of Agriculture said it is working to repeal terminations of employees assisting with the bird flu outbreak after they were accidentally fired.",
+      "url": "https://www.ibtimes.com/usda-scrambles-rehire-employees-who-were-combatting-bird-flu-after-accidentally-firing-them-3764318",
+      "urlToImage": "https://d.ibtimes.com/en/full/4572361/chicken-bird-flu.jpg",
+      "publishedAt": "2025-02-19 21:56:02",
+      "content": "The US Department of Agriculture has admitted that it is scrambling to repeal terminations of employees assisting with the government's response to the H5N1 \"bird flu\" outbreak after they were accide\u2026 [+2488 chars]",
+      "retrievedAt": "2025-02-21 07:06:54.105915",
+      "internal_id": "34ea0f6a84de0b43ca3be91608169d2139eb3f3f3fceb8215f9a6f928db68e1f",
+      "publishedAtLabel": "Feb 19"
+    },
+    {
+      "id": 18462,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "2nd case of measles related to Air Canada flight last week confirmed in B.C.'s Lower Mainland",
+      "description": "Vancouver Coastal Health said members of the public may have been exposed to the virus if they were on Air Canada Flight 66 arriving on Feb. 11 or in the international arrivals area of Vancouver International Airport between 7 a.m. and 9:30 a.m. that day.",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/measles-second-case-b-c-1.7463226",
+      "urlToImage": "https://i.cbc.ca/1.7131773.1716008972!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/measles-virus.jpg?im=Resize%3D620",
+      "publishedAt": "2025-02-19 21:49:11",
+      "content": "Another case of measles has been confirmed in B.C. in a Lower Mainland resident who recently travelled to southeast Asia. This comes just days after the first case was confirmed by the Fraser and V\u2026 [+889 chars]",
+      "retrievedAt": "2025-02-21 07:06:53.010987",
+      "internal_id": "f23c28468f58fb8ab09a122ff59f5d8f7b8a8fa0203b62718c2a6f1479b90a99",
+      "publishedAtLabel": "Feb 19"
+    },
+    {
+      "id": 18464,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "HuffPost",
+      "author": "David Moye",
+      "title": "GOP Senator Promotes Measles Vaccine Despite Confirming RFK Jr.",
+      "description": "Many people wondered why the senator and former doctor posted info supporting the vaccine while voting to confirm an anti-vaxxer to run HHS.",
+      "url": "https://www.huffpost.com/entry/sen-bill-cassidy-vaccine-tweet-rfk-jr_n_67b636cce4b0be61010d6358",
+      "urlToImage": "https://img.huffingtonpost.com/asset/67b638631400002b0004a34f.jpeg?cache=sicKTTrOKV&ops=1200_630",
+      "publishedAt": "2025-02-19 21:47:32",
+      "content": "Republican Sen. and former doctor Bill Cassidy (R-La.) was thoroughly mocked for sharing information about the safety of the measles vaccine not long after he voted to confirm anti-vaxxer Robert F. K\u2026 [+4403 chars]",
+      "retrievedAt": "2025-02-21 07:06:53.066031",
+      "internal_id": "d0d086e6030e44f45929a565e47076be5948c234e3bc8d9dfed34c26d5f81056",
+      "publishedAtLabel": "Feb 19"
+    },
+    {
+      "id": 18471,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "[e]Pablo Giuliano, Tan Huiting",
+      "title": "Sao Paulo state declares health emergency over dengue outbreak",
+      "description": "SAO PAULO, Feb. 19 (Xinhua) -- The Brazilian state of Sao Paulo declared a health emergency Wednesday as dengue cases surge, allowing authorities to accelerate financial and medical response efforts. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2025/02/20/sao-paulo-state-declares-health-emergency-over-dengue-outbreak",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2025-02-19 21:36:00",
+      "content": "SAO PAULO, Feb. 19 (Xinhua) -- The Brazilian state of Sao Paulo declared a health emergency Wednesday as dengue cases surge, allowing authorities to accelerate financial and medical response efforts.\u2026 [+900 chars]",
+      "retrievedAt": "2025-02-21 07:06:55.074580",
+      "internal_id": "c163c199a4a63979f0b803659a8033bd7990f069cf64dc1811684555a8fe2fd6",
+      "publishedAtLabel": "Feb 19"
+    },
+    {
+      "id": 18466,
+      "query": [
+        "hpai"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Kate Gibson",
+      "title": "Raw pet food warnings issued in 2 states after cats die of bird flu",
+      "description": "Pet owners cautioned after tests confirm Highly Pathogenic Avian Influenza (HPAI) in two cats living in different households.",
+      "url": "https://www.cbsnews.com/news/bird-flu-cats-wild-coast-raw-recall-warnings/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/01/04/dcb2abc1-2e87-4096-802d-f45ebf556ace/thumbnail/1200x630/8cdde681d312e1d02a35b1f9a7d6bffc/gettyimages-1363829299.jpg?v=db3d87ba7bf4d4ff13b65eabcf0d9bea",
+      "publishedAt": "2025-02-19 21:21:02",
+      "content": "Experts looking for new ways to stop the spread of bird flu Experts looking for new ways to stop the spread of bird flu02:12 Some lots of raw pet food sold in two states are being recalled after t\u2026 [+4097 chars]",
+      "retrievedAt": "2025-02-21 07:06:53.350154",
+      "internal_id": "9998c1021cff07dd14205460749178e1755eba3179100e90e4def6ff542851a1",
+      "publishedAtLabel": "Feb 19"
+    },
+    {
+      "id": 18465,
+      "query": [
+        "measles"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "The Feed",
+      "title": "Measles outbreak in US: Cases rise to 48 but officials fear real number is over 200",
+      "description": "A measles outbreak in Texas has infected dozens, with health officials warning the true number could be as high as 300. The virus is spreading mainly in unvaccinated communities, raising concerns about vaccine hesitancy and public health risks. As measles cas\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/us/measles-outbreak-in-us-cases-rise-to-48-but-officials-fear-real-number-is-over-200/articleshow/118397021.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-118397017,width-1200,height-630,imgsize-66462,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-02-19 19:15:52",
+      "content": "A measles outbreak is rapidly spreading in Texas, with health officials reporting dozens of confirmed cases over the past month. The actual number of infections, however, may be much higher. Authorit\u2026 [+3625 chars]",
+      "retrievedAt": "2025-02-21 07:06:53.102608",
+      "internal_id": "8e8b0d834e5673ebbbd5085732caccfdf1118a4e1a28f72afebf32bc4723a6a1",
+      "publishedAtLabel": "Feb 19"
+    },
+    {
+      "id": 18469,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "info-money",
+      "source_name": "InfoMoney",
+      "author": "Gabriel",
+      "title": "Estado de S\u00e3o Paulo declara situa\u00e7\u00e3o de emerg\u00eancia ap\u00f3s aumento em casos de dengue",
+      "description": "Atualmente, 59 munic\u00edpios paulistas j\u00e1 estavam sob decreto de emerg\u00eancia por dengue The post Estado de S\u00e3o Paulo declara situa\u00e7\u00e3o de emerg\u00eancia ap\u00f3s aumento em casos de dengue appeared first on InfoMoney.",
+      "url": "https://www.infomoney.com.br/saude/estado-de-sao-paulo-declara-situacao-de-emergencia-apos-aumento-em-casos-de-dengue/",
+      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2025/02/0d9a8059_0.webp?quality=70",
+      "publishedAt": "2025-02-19 19:10:48",
+      "content": "O governo de S\u00e3o Paulo anunciou nesta quarta-feira (19) a declara\u00e7\u00e3o de situa\u00e7\u00e3o de emerg\u00eancia em todo o estado devido ao aumento dos casos de dengue. O governador Tarc\u00edsio de Freitas (Republicanos\u2026 [+1578 chars]",
+      "retrievedAt": "2025-02-21 07:06:55.016807",
+      "internal_id": "3a5c2a31f090f9c09f83464089e8722bf992018cbaa313f578734d50350ee724",
+      "publishedAtLabel": "Feb 19"
+    },
     {
       "id": 18436,
       "query": [
@@ -25405,6 +25675,114 @@
       "content": "A colorized transmission electron micrograph of avian influenza A H5N1 virus particles (blue), grown in Madin-Darby Canine Kidney (MDCK) epithelial cells - Copyright National Institute of Allergy and\u2026 [+2429 chars]",
       "retrievedAt": "2025-01-07 07:06:27.473171",
       "internal_id": "c70be9cec5809b4f8f89532947c360ec0a5d03c80f8e18b3e74013a276bcea4f",
+      "publishedAtLabel": "Jan 5"
+    },
+    {
+      "id": 17051,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Faz.net",
+      "author": "Andreas Eckert",
+      "title": "\u00dcber die Umweltgeschichte Afrikas",
+      "description": "Viehzucht, Malaria und die Wei\u00dfen: Will man die Umweltgeschichte Afrikas erz\u00e4hlen, muss man neben der Natur und Krankheiten auch Machtfragen und den Imperialismus in den Blick nehmen.",
+      "url": "https://www.faz.net/aktuell/feuilleton/bilder-und-zeiten/krankheiten-und-der-kolonialismus-ueber-die-umweltgeschichte-afrikas-110208640.html",
+      "urlToImage": "https://media0.faz.net/ppmedia/aktuell/909935446/1.10209298/facebook_teaser_fplus/ein-tuareg-impft-kinder-in.jpg",
+      "publishedAt": "2025-01-05 18:56:04",
+      "content": "Die Klimanachrichten aus Afrika sind d\u00fcster. W\u00e4hrend Teile des Kontinents von \u00dcberschwemmungen heimgesucht werden, leiden andere Regionen unter langen D\u00fcrreperioden. Diese Katastrophen treffen zumeis\u2026 [+711 chars]",
+      "retrievedAt": "2025-01-06 19:05:36.440882",
+      "internal_id": "bb517e2215e4968a9c4f036e58c2140369b52fc1afcd41c168942ba8f1ad4c34",
+      "publishedAtLabel": "Jan 5"
+    },
+    {
+      "id": 17050,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Catracalivre.com.br",
+      "author": "Andr\u00e9 Nicolau",
+      "title": "4 fatos indispens\u00e1veis sobre a dengue que voc\u00ea precisa conhecer",
+      "description": "O aumento das chuvas e das temperaturas elevadas reservam condi\u00e7\u00f5es ideais para a reprodu\u00e7\u00e3o do mosquito da dengue. Confira outros fatos.",
+      "url": "https://catracalivre.com.br/saude-bem-estar/fatos-dengue-precisa-saber/",
+      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1280,h=680,fit=cover,format=jpeg/wp-content/uploads/2024/02/dengue.jpg",
+      "publishedAt": "2025-01-05 17:00:18",
+      "content": "A dengue \u00e9 uma doen\u00e7a viral passada pelo mosquito Aedes Aegypti Soumyabrata Roy/istock - Soumyabrata Roy/istock O aumento das chuvas e das temperaturas elevadas, t\u00edpicas do ver\u00e3o, reservam condi\u00e7\u00f5es\u2026 [+2913 chars]",
+      "retrievedAt": "2025-01-06 19:05:35.874249",
+      "internal_id": "6ecb502a9076a0366e11d6a18a8f8509f248784d13153fb6c1f0f9f07cfa23e3",
+      "publishedAtLabel": "Jan 5"
+    },
+    {
+      "id": 17049,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "Alejandro Horvat",
+      "title": "En plena temporada: qu\u00e9 medidas preventivas hay en la costa para evitar aumentos de casos de dengue",
+      "description": "Si bien los especialistas advierten que no es una zona end\u00e9mica, el alto movimiento tur\u00edstico puede llegar a ser un agravante",
+      "url": "https://www.lanacion.com.ar/sociedad/en-plena-temporada-que-medidas-preventivas-hay-en-la-costa-para-evitar-aumentos-de-casos-de-dengue-nid05012025/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/los-casos-de-dengue-a-nivel-nacional-muestran-un-H26K6NEWUBB3JP5D3RNPUAEQS4.jpg?auth=f16d6224ca93e3f623fdb9c5614b43b9913314d40fbd519eee619de366b52ea5&width=1200&quality=70&smart=false&height=800",
+      "publishedAt": "2025-01-05 10:37:15",
+      "content": "El verano no solo trae consigo altas temperaturas y playas llenas de turistas, sino tambi\u00e9n un desaf\u00edo sanitario que pone en alerta a todo el pa\u00eds: el dengue. Esta enfermedad, transmitida por el mosq\u2026 [+5853 chars]",
+      "retrievedAt": "2025-01-06 19:05:35.867226",
+      "internal_id": "2182e8f604e1bfaf08eef8b9d2796fa1ffccd8be529a354e5d5cb6bafdcfafbf",
+      "publishedAtLabel": "Jan 5"
+    },
+    {
+      "id": 17048,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Aajtak.in",
+      "author": "aajtak.in",
+      "title": "\u0928\u093e\u0917\u092a\u0941\u0930 \u092e\u0947\u0902 \u092c\u0930\u094d\u0921 \u092b\u094d\u0932\u0942 \u0938\u0947 3 \u092c\u093e\u0918 \u0914\u0930 \u090f\u0915 \u0924\u0947\u0902\u0926\u0941\u090f \u0915\u0940 \u092e\u094c\u0924, \u091f\u093e\u0907\u0917\u0930 \u0930\u093f\u091c\u0930\u094d\u0935 \u0914\u0930 \u0930\u0947\u0938\u094d\u0915\u094d\u092f\u0942 \u0938\u0947\u0902\u091f\u0930\u094d\u0938 \u0915\u0947 \u0932\u093f\u090f \u0905\u0932\u0930\u094d\u091f \u091c\u093e\u0930\u0940",
+      "description": "\u092e\u0939\u093e\u0930\u093e\u0937\u094d\u091f\u094d\u0930 \u0915\u0947 \u0928\u093e\u0917\u092a\u0941\u0930 \u092e\u0947\u0902 \u0917\u094b\u0930\u0947\u0935\u093e\u0921\u093c\u093e \u0930\u0947\u0938\u094d\u0915\u094d\u092f\u0942 \u0938\u0947\u0902\u091f\u0930 \u092e\u0947\u0902 \u0926\u093f\u0938\u0902\u092c\u0930 \u092e\u0947\u0902 \u0924\u0940\u0928 \u092c\u093e\u0918 \u0914\u0930 \u090f\u0915 \u0924\u0947\u0902\u0926\u0941\u0906 H5N1 \u0935\u093e\u092f\u0930\u0938 \u0938\u0947 \u0938\u0902\u0915\u094d\u0930\u092e\u093f\u0924 \u0939\u094b\u0915\u0930 \u092e\u093e\u0930\u0947 \u0917\u090f. \u0907\u0938 \u0918\u091f\u0928\u093e \u0915\u0947 \u092c\u093e\u0926 \u0930\u093e\u091c\u094d\u092f \u0915\u0947 \u091f\u093e\u0907\u0917\u0930 \u0930\u093f\u091c\u0930\u094d\u0935 \u0914\u0930 \u0930\u0947\u0938\u094d\u0915\u094d\u092f\u0942 \u0938\u0947\u0902\u091f\u0930\u094d\u0938 \u0915\u094b \u0905\u0932\u0930\u094d\u091f \u092a\u0930 \u0930\u0916\u093e \u0917\u092f\u093e \u0939\u0948. \u091c\u093e\u0902\u091a \u092e\u0947\u0902 \u0905\u0928\u094d\u092f 26 \u0924\u0947\u0902\u0926\u0941\u090f \u0914\u0930 12 \u092c\u093e\u0918 \u0938\u094d\u0935\u0938\u094d\u0925 \u092a\u093e\u090f \u0917\u090f. \u0905\u0927\u093f\u0915\u093e\u0930\u2026",
+      "url": "https://www.aajtak.in/india/maharashtra/story/tiger-and-leopard-died-of-bird-flu-h5n1-virus-in-nagpur-rescue-centre-alert-issued-ntc-dskc-2136699-2025-01-05",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202501/677a5e7159d1b-tiger-and-leopard-052651552-16x9.jpg",
+      "publishedAt": "2025-01-05 10:29:37",
+      "content": "Copyright \u00a9 2025 Living Media India Limited. For reprint rights: Syndications Today",
+      "retrievedAt": "2025-01-06 19:05:35.396893",
+      "internal_id": "895fd40da7e5878970f986f3d0e94cfdacdf9a1b17b1b11a728150ebb9cf5d5f",
+      "publishedAtLabel": "Jan 5"
+    },
+    {
+      "id": 17047,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ET Online",
+      "title": "Amid HMPV virus outbreak in China, three tigers and a leopard die of highly infectious avian flu H5N1 virus in Nagpur",
+      "description": "Three tigers and a sub-adult leopard at Gorewada Rescue Centre in Nagpur died from avian flu H5N1. This is the first time the virus caused significant wildlife deaths in captivity in India. Health measures were taken, and other big cats were examined and foun\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/amid-hmpv-virus-outbreak-in-china-three-tigers-and-a-leopard-die-of-highly-pathogenic-avian-flu-h5n1-virus/articleshow/116963521.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-116963972,width-1200,height-630,imgsize-2683349,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-01-05 10:00:31",
+      "content": "Artificial Intelligence(AI) AI and Analytics based Business Strategy By - Tanusree De, Managing Director- Accenture Technology Lead, Trustworthy AI Center of Excellence: ATCI View Program",
+      "retrievedAt": "2025-01-06 19:05:35.389872",
+      "internal_id": "9a8435ec806824779d4f6f3f6b1e195d161d13980117dc60019978fad90f1c29",
+      "publishedAtLabel": "Jan 5"
+    },
+    {
+      "id": 17046,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "ZyCrypto",
+      "author": "Guest Author",
+      "title": "Solana\u2019s PNUT Prodigy Picks DLUME as 2025\u2019s Next Big Thing \u2013 Could You Be Next?",
+      "description": "Particularly during a viral rabies crisis in New York in October 2023, Peanut the Squirrel\u2019s (PNUT) ascent as a Solana-based memecoin has garnered a lot of focus. When Coinbase revealed that PNUT would be included in its listing roadmap on December 11, the me\u2026",
+      "url": "https://zycrypto.com/solanas-pnut-prodigy-picks-dlume-as-2025s-next-big-thing-could-you-be-next/",
+      "urlToImage": "https://zycrypto.com/wp-content/uploads/2024/12/Next-Crypto-to-Explode-Aurealone-Leads-Best-Coins-for-Potential-600x-Portfolio-Gains.jpg",
+      "publishedAt": "2025-01-05 09:24:56",
+      "content": "Particularly during a viral rabies crisis in New York in October 2023, Peanut the Squirrel\u2019s (PNUT) ascent as a Solana-based memecoin has garnered a lot of focus. When Coinbase revealed that PNUT wou\u2026 [+5309 chars]",
+      "retrievedAt": "2025-01-06 19:05:34.431523",
+      "internal_id": "f2d59d393705c83bbe72e8188b5f7b2b888747d87217f20b6d7b7fa89d96f24e",
       "publishedAtLabel": "Jan 5"
     }
   ]
