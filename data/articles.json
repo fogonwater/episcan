@@ -1,8 +1,242 @@
 {
-  "last_updated": "2025-02-22 07:06",
-  "count_articles_total": 1467,
-  "count_articles_new": 13,
+  "last_updated": "2025-02-22 19:05",
+  "count_articles_total": 1479,
+  "count_articles_new": 18,
   "articles": [
+    {
+      "id": 18516,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Boston Herald",
+      "author": "Associated Press",
+      "title": "Measles outbreaks rise to nearly 100 cases between Texas and New Mexico. Here\u2019s what you should know",
+      "description": "The measles outbreak in rural West Texas has grown to 90 cases.",
+      "url": "https://www.bostonherald.com/2025/02/21/measles-cases/",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/02/AP25052653529724.jpg?w=1024&h=682",
+      "publishedAt": "2025-02-21 18:40:09",
+      "content": "By DEVI SHASTRI, AP Health Writer The measles outbreak in rural West Texas has grown to 90 cases across seven counties, the state health department posted online Friday, and 16 people are hospitaliz\u2026 [+4229 chars]",
+      "retrievedAt": "2025-02-22 19:05:38.315329",
+      "internal_id": "1701be23865ffffe24e368620b5cab2b6b58c94be80235adda39624e349b0e3d",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 18518,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Shtfplan.com",
+      "author": "Mac Slavo",
+      "title": "Cats Are Getting Bird Flu From Human Dairy Workers?",
+      "description": "A new report released by the Centers for Disease Control and Prevention suggests that house cats could contract the H5N1 bird flu virus from contact with their owners. The report states that dairy workers could be infecting their own domestic cats.",
+      "url": "https://www.shtfplan.com/headline-news/cats-are-getting-bird-flu-from-human-dairy-workers",
+      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2024/08/catfacemaskbirdflu.jpg",
+      "publishedAt": "2025-02-21 18:30:44",
+      "content": "A new report released by the Centers for Disease Control and Prevention suggests that house cats could contract the H5N1 bird flu virus from contact with their owners. The report states that dairy wo\u2026 [+2285 chars]",
+      "retrievedAt": "2025-02-22 19:05:39.723564",
+      "internal_id": "8db7ea1193a92645aff997acf8793c3d683b59b875c29ddae786b8c9c87b4b0d",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 18524,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "N-tv.de",
+      "author": "n-tv NACHRICHTEN",
+      "title": "Tot oder lebendig: Gemeinde setzt Kopfgeld auf Moskitos aus",
+      "description": "Kopfgeld auf Moskitos - auf den Philippinen soll mit dieser ungew\u00f6hnlichen Ma\u00dfnahme das Dengue-Fieber einged\u00e4mmt werden. F\u00fcr abgegebene M\u00fccken gibt es eine kleine Belohnung. Doch Fachleute warnen vor dem sogenannten \"Kobra-Effekt\".",
+      "url": "https://www.n-tv.de/wissen/Gemeinde-setzt-Kopfgeld-auf-Moskitos-aus-article25579207.html",
+      "urlToImage": "https://www.n-tv.de/img/incoming/crop25579189/5491321420-cImg_16_9-w1200/505917440.jpg",
+      "publishedAt": "2025-02-21 18:14:35",
+      "content": "Kopfgeld auf Moskitos - auf den Philippinen soll mit dieser ungew\u00f6hnlichen Ma\u00dfnahme das Dengue-Fieber einged\u00e4mmt werden. F\u00fcr abgegebene M\u00fccken gibt es eine kleine Belohnung. Doch Fachleute warnen vor\u2026 [+2473 chars]",
+      "retrievedAt": "2025-02-22 19:05:40.638280",
+      "internal_id": "f936a3cf2db3d988deefc3780a6fbb20b0bc03ff7df19965421ea597b25d35d4",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 18531,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "Stealth virus: Zika virus builds tunnels to covertly infect cells of the placenta",
+      "description": "Infection with Zika virus in pregnancy can lead to neurological disorders, fetal abnormalities and fetal death. Until now, how the virus manages to cross the placenta, which nurtures the developing fetus and forms a strong barrier against microbes and chemica\u2026",
+      "url": "https://www.sciencedaily.com/releases/2025/02/250221125338.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2025-02-21 17:53:38",
+      "content": "Infection with Zika virus in pregnancy can lead to neurological disorders, fetal abnormalities and fetal death. Until now, how the virus manages to cross the placenta, which nurtures the developing f\u2026 [+3740 chars]",
+      "retrievedAt": "2025-02-22 19:05:42.351912",
+      "internal_id": "058773b6dc2aa20ebf5e5215107b59632341b436fef2f494e89ac9c6600c6e5a",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 18527,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Dengue matou 126 pessoas no Brasil em janeiro, segundo maior n\u00famero para o m\u00eas",
+      "description": "Ainda h\u00e1 outros 248 \u00f3bitos que est\u00e3o sob investiga...",
+      "url": "https://valor.globo.com/brasil/noticia/2025/02/21/dengue-mata-126-pessoas-no-brasil-em-janeiro-segundo-maior-numero-para-o-mes.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/ZQ3hef375ur7CAIg1eUrEhs9XlU=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2024/9/O/2dYBPYRCu5rYybJqjM5A/106083108-bras-c3-adlia-20df-2029-02-2024-20-20larvas-20s-c3-a3o-20analisadas-20em-20laborat-c3-b3rio-20da-20vigil-c3-a2ncia-20ambiental-20do-20d.jpg",
+      "publishedAt": "2025-02-21 16:34:27",
+      "content": "At\u00e9 agora, janeiro de 2025 foi o segundo mais mortal para a dengue no pa\u00eds, ficando atr\u00e1s apenas de 2024. Nas primeiras semanas do ano, o pa\u00eds j\u00e1 registrou 126 \u00f3bitos, e outros 248 casos est\u00e3o sob in\u2026 [+5557 chars]",
+      "retrievedAt": "2025-02-22 19:05:40.860519",
+      "internal_id": "715c58b3b04c3f2d0be85d93aa683d10bdf18b2cec3e0705176349920cbf77a8",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 18515,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Kffhealthnews.org",
+      "author": "Amy Maxmen",
+      "title": "Texas Measles Outbreak Nears 100 Cases, Raising Concerns About Undetected Spread",
+      "description": "Health officials expect a measles outbreak in West Texas to exceed 100 cases because of low vaccination rates and undetected infections. Vaccine misinformation and new laws may make such situations more common and harder to contain.",
+      "url": "https://kffhealthnews.org/news/article/texas-measles-outbreak-escalates-undetected-cases-vaccinations/",
+      "urlToImage": "https://kffhealthnews.org/wp-content/uploads/sites/2/2025/02/GettyImages-1447117938-resized.jpg",
+      "publishedAt": "2025-02-21 16:15:00",
+      "content": "Amy MaxmenSome private schools have shut down because of a rapidly escalating measles outbreak in West Texas. Local health departments are overstretched, pausing other important work as they race to \u2026 [+6533 chars]",
+      "retrievedAt": "2025-02-22 19:05:38.281788",
+      "internal_id": "63c8b6b5228575f408e6faeadcdc9bee847682209aabf3d0e0744f01850a31b0",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 18526,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Nos.nl",
+      "author": null,
+      "title": "Muggenvangers in Filipijnen krijgen beloning in strijd tegen denguevirus",
+      "description": "Muggen zijn veel mensen tot last, maar op de Filipijnen brengen ze nu geld op. In een buitenwijk van de hoofdstad Manilla krijgen inwoners een beloning als ze vijf muggen vangen en inleveren, dood of levend. De autoriteiten willen met de actie de infectieziek\u2026",
+      "url": "https://nos.nl/l/2556745",
+      "urlToImage": "https://cdn.nos.nl/image/2025/02/21/1194219/1024x576a.jpg",
+      "publishedAt": "2025-02-21 12:50:00",
+      "content": "Muggen zijn veel mensen tot last, maar op de Filipijnen brengen ze nu geld op. In een buitenwijk van de hoofdstad Manilla krijgen inwoners een beloning als ze vijf muggen vangen en inleveren, dood of\u2026 [+3498 chars]",
+      "retrievedAt": "2025-02-22 19:05:40.804337",
+      "internal_id": "70990c1fed7d3d1cfc07e21d9645bbb63fc71d363062ffeb619f77e889ca26aa",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 18521,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Alberta mulls roll out of H5N1 avian flu vaccine while Ottawa stockpiles doses for provinces",
+      "description": "Alberta is reviewing new guidance on H5N1 avian influenza vaccines, and who might get them, as shipments are readied to fan out across the country and concerns about the virus grow.",
+      "url": "https://www.cbc.ca/news/canada/calgary/alberta-mulls-roll-out-h5n1-avian-flu-vaccine-1.7463991",
+      "urlToImage": "https://i.cbc.ca/1.6460221.1740100458!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/shutterstock-medium-file.jpg?im=Resize%3D620",
+      "publishedAt": "2025-02-21 12:00:00",
+      "content": "Alberta is reviewing new guidance on H5N1 avian influenza vaccines, and who could be prioritized for getting them, as shipments are readied to fan out across the country and concerns about the virus \u2026 [+4249 chars]",
+      "retrievedAt": "2025-02-22 19:05:39.811775",
+      "internal_id": "183dfeb10d8b21a66721a6e1438e15ff9580bd6cc5581087bc9a7d687030b76f",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 18523,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Www.nzz.ch",
+      "author": "Kevin Weber (wek)",
+      "title": "Ein Peso f\u00fcr f\u00fcnf M\u00fccken: Philippinische Gemeinde zahlt \u00abKopfgeld\u00bb im Kampf gegen Dengue",
+      "description": "Das Denguefieber trifft die Philippinen dieses Jahr fr\u00fcher als sonst. In der Hauptstadt Manila sollen die B\u00fcrger nun selbst gegen die M\u00fccken vorgehen. Doch es gibt Bedenken.",
+      "url": "https://www.nzz.ch/panorama/ein-peso-fuer-fuenf-muecken-philippinische-gemeinde-zahlt-kopfgeld-im-kampf-gegen-dengue-ld.1872173",
+      "urlToImage": "https://img.nzz.ch/2025/02/21/525c22df-8125-4637-9237-a9b3cc0e4fb1.jpeg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=3872,2178,x0,y0&wmark=nzz",
+      "publishedAt": "2025-02-21 10:20:37",
+      "content": "Tot oder lebendig: In Addition Hills, einem Vorort der philippinischen Hauptstadt, sammeln die Einwohner fleissig M\u00fccken und Larven. Dabei greifen sie sogar auf Plastikbecher zur\u00fcck. Auf den Philipp\u2026 [+4790 chars]",
+      "retrievedAt": "2025-02-22 19:05:40.604877",
+      "internal_id": "8e2ef95e273df6a629c97a2251bf20bb820068ab36e71ac4b62fa361779169a1",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 18514,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Maria Godoy",
+      "title": "Measles cases are rising in the U.S. Do adults need a vaccine booster?",
+      "description": "With a measles outbreak growing in West Texas, and cases popping up across the country, experts say vaccination is your best protection. And it's not just for kids. Some adults may need a booster.",
+      "url": "https://www.npr.org/sections/shots-health-news/2025/02/21/nx-s1-5304458/measles-vaccine-booster-health",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2121x1193+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F90%2F8e%2Ff12f12d0470dbc39d874b13e96eb%2Fgettyimages-2152300024.jpg",
+      "publishedAt": "2025-02-21 10:00:00",
+      "content": "A measles outbreak in West Texas is continuing to spread. And with kindergarten vaccination rates dipping across the country, more communities may be at risk of outbreaks. But it's not just kids who\u2026 [+3903 chars]",
+      "retrievedAt": "2025-02-22 19:05:38.174271",
+      "internal_id": "b9a777873f4eab85c6eee0e6bc22cb08ac852da8d749fbdaedd4f9e4ecef1474",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 18530,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Cheng, P., Qian, A., Zhang, H., Wang, Y., Li, S., Sun, M., Yang, J., Zhou, J., Hu, L., Lei, X., Hu, Y., Zhou, L., Du, L., Cao, Y., Lee, S. K., Zhou, W., Kang, W., Zhu, C., Sun, H., Jiang, S.",
+      "title": "Epidemiology, microbiology and antibiotic treatment of bacterial and fungal meningitis among very preterm infants in China: a cross-sectional study",
+      "description": "Objective Neonatal meningitis significantly contributes to neonatal morbidity and mortality, yet large-scale epidemiological data in developing countries, particularly among very preterm infants (VPIs), remain sparse. This study aimed to describe the epidemio\u2026",
+      "url": "https://fn.bmj.com/content/110/2/219",
+      "urlToImage": "https://fn.bmj.com/sites/default/files/highwire/fetalneonatal/110/2.cover-source.jpg",
+      "publishedAt": "2025-02-21 09:54:38",
+      "content": "Objective Neonatal meningitis significantly contributes to neonatal morbidity and mortality, yet large-scale epidemiological data in developing countries, particularly among very preterm infants (VPI\u2026 [+1720 chars]",
+      "retrievedAt": "2025-02-22 19:05:41.421522",
+      "internal_id": "5de2082588aa8f08265f90a800529457091317ee959096556fba6dcc4e3613a4",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 18522,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Com 75% das mortes por dengue no pa\u00eds, S\u00e3o Paulo tem vacina restrita na rede p\u00fablica e em falta na particular",
+      "description": "Se por um lado os casos da doen\u00e7a aumentam, por outro, a vacina\u00e7\u00e3o contra a dengue ainda esbarra na falta de doses dispon\u00edveis \u2013 seja na rede p\u00fablica ou particular de sa\u00fade.",
+      "url": "https://www.bbc.com/portuguese/articles/czedg61gpgjo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/ae91/live/e758e220-efd1-11ef-a319-fb4e7360c4ec.jpg",
+      "publishedAt": "2025-02-21 09:50:54",
+      "content": "Cr\u00e9dito, Getty Images Legenda da foto, Vacinas contra a dengue est\u00e3o faltando at\u00e9 na rede particular de SP Article informationAuthor, Simone MachadoRole, De S\u00e3o Jos\u00e9 do Rio Preto (\u2026 [+7126 chars]",
+      "retrievedAt": "2025-02-22 19:05:40.596392",
+      "internal_id": "8bd848ff9aa3b9818824359eb24edbf1bc8060f3e86def566cea9afe1210c5df",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 18517,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "John Drake, Contributor, \n John Drake, Contributor\n https://www.forbes.com/sites/johndrake/",
+      "title": "Airborne Transmission Of Highly Pathogenic Bird Flu",
+      "description": "Research shows that highly pathogenic avian influenza can be transmitted among farms by wind. Air intake systems are implicated in spreading H5N1 in the Czech Republic.",
+      "url": "https://www.forbes.com/sites/johndrake/2025/02/21/airborne-transmission-of-highly-pathogenic-bird-flu/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67b833c17d0361c4ab117b9d/0x0.jpg?format=jpg&crop=3000,1687,x0,y0,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-02-21 08:09:00",
+      "content": "The price of eggs is going up as highly pathogenic H5N1 avian influenza spreads in the US and continues to pose serious threats to poultry farms worldwide. In just the past thirty days, no fewer th\u2026 [+6242 chars]",
+      "retrievedAt": "2025-02-22 19:05:39.685157",
+      "internal_id": "e078d0e1dc66cd1af8bf5c35b7eaff75a3360a4af51b11462bac3ca9ff732cf3",
+      "publishedAtLabel": "Feb 21"
+    },
     {
       "id": 18502,
       "query": [
@@ -19,6 +253,96 @@
       "content": "Texas is moving to allow for more freedom of choice with respect to receipt of vaccines. The Economist reports: Texas legislators meeting in Austin, the state capital, are debating new laws to rela\u2026 [+748 chars]",
       "retrievedAt": "2025-02-22 07:05:57.227553",
       "internal_id": "52768d878f456a08f02c13567213871a3ce0000c0fd381555358d07c41ed2a61",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 18519,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Influenza A(H5N1) Immune Response among Ferrets with Influenza A(H1N1)pdm09 Immunity",
+      "description": "H5N1 Response among Ferrets with H1N1 Immunity",
+      "url": "https://wwwnc.cdc.gov/eid/article/31/3/24-1485_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2025-02-21 05:00:00",
+      "content": "In March 2024, an outbreak of highly pathogenic avian influenza A(H5N1) clade 2.3.4.4b virus was identified in dairy cattle herds in Texas, USA, and then spread to &gt;400 herds in &gt;15 states (1).\u2026 [+25291 chars]",
+      "retrievedAt": "2025-02-22 19:05:39.793284",
+      "internal_id": "175a1bd3282a5bdc3b2d716061bd7866203fa51dada67975ede198413c2a07ca",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 18520,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Effect of Prior Influenza A(H1N1)pdm09 Virus Infection on Pathogenesis and Transmission of Human Influenza A(H5N1) Clade 2.3.4.4b Virus in Ferret Model",
+      "description": "Influenza A(H5N1) Clade 2.3.4.4b Virus",
+      "url": "https://wwwnc.cdc.gov/eid/article/31/3/24-1489_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2025-02-21 05:00:00",
+      "content": "Disclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released.Highly pathogenic avian in\u2026 [+22785 chars]",
+      "retrievedAt": "2025-02-22 19:05:39.802733",
+      "internal_id": "53c8e32936d0b70f9bd7c64b5a0347ddbae8ad660f5190c694c67e54098ae48a",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 18525,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Genomic Characterization of Circulating Dengue Virus, Ethiopia, 2022\u20132023",
+      "description": "Circulating Dengue Virus, Ethiopia, 2022\u20132023",
+      "url": "https://wwwnc.cdc.gov/eid/article/31/3/24-0996_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2025-02-21 05:00:00",
+      "content": "Disclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released.Dengue virus (DENV) is pri\u2026 [+26485 chars]",
+      "retrievedAt": "2025-02-22 19:05:40.701433",
+      "internal_id": "5d191c10437f0778b96e87112e0bb2792d13e2e81d82694f683f1ab6eb967c4a",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 18528,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Haemophilus influenzae Type b Meningitis in Infants, New York, New York, USA, 2022\u20132023",
+      "description": "Hib Meningitis in Infants, New York",
+      "url": "https://wwwnc.cdc.gov/eid/article/31/3/24-0946_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2025-02-21 05:00:00",
+      "content": "Haemophilus influenzae type b (Hib) invasive infections and upper respiratory tract colonization have declined since the introduction of polysaccharide conjugate Hib vaccines, but sporadic cases stil\u2026 [+9003 chars]",
+      "retrievedAt": "2025-02-22 19:05:41.398133",
+      "internal_id": "43b23b91ea944beda5a52918e5b080637f72bf03fc4899a1e4284ffc3b7a40cc",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 18529,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Cefotaxime-Resistant Neisseria meningitidis Sequence Type 4821 Causing Fulminant Meningitis",
+      "description": "Cefotaxime-Resistant Neisseria meningitidis",
+      "url": "https://wwwnc.cdc.gov/eid/article/31/3/24-1493_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2025-02-21 05:00:00",
+      "content": "Invasive meningococcal disease (IMD) is a severe infection caused by Neisseria meningitidis. Early empiric treatment with penicillin or third-generation cephalosporins (3GCs) including ceftriaxone an\u2026 [+9582 chars]",
+      "retrievedAt": "2025-02-22 19:05:41.407431",
+      "internal_id": "33fad2ac43f753f5d87038f31e58c73c2df0f433ce8211afdeb57fed4c21000f",
       "publishedAtLabel": "Feb 21"
     },
     {
@@ -26359,114 +26683,6 @@
       "content": "A colorized transmission electron micrograph of avian influenza A H5N1 virus particles (blue), grown in Madin-Darby Canine Kidney (MDCK) epithelial cells - Copyright National Institute of Allergy and\u2026 [+2429 chars]",
       "retrievedAt": "2025-01-07 07:06:27.473171",
       "internal_id": "c70be9cec5809b4f8f89532947c360ec0a5d03c80f8e18b3e74013a276bcea4f",
-      "publishedAtLabel": "Jan 5"
-    },
-    {
-      "id": 17051,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Faz.net",
-      "author": "Andreas Eckert",
-      "title": "\u00dcber die Umweltgeschichte Afrikas",
-      "description": "Viehzucht, Malaria und die Wei\u00dfen: Will man die Umweltgeschichte Afrikas erz\u00e4hlen, muss man neben der Natur und Krankheiten auch Machtfragen und den Imperialismus in den Blick nehmen.",
-      "url": "https://www.faz.net/aktuell/feuilleton/bilder-und-zeiten/krankheiten-und-der-kolonialismus-ueber-die-umweltgeschichte-afrikas-110208640.html",
-      "urlToImage": "https://media0.faz.net/ppmedia/aktuell/909935446/1.10209298/facebook_teaser_fplus/ein-tuareg-impft-kinder-in.jpg",
-      "publishedAt": "2025-01-05 18:56:04",
-      "content": "Die Klimanachrichten aus Afrika sind d\u00fcster. W\u00e4hrend Teile des Kontinents von \u00dcberschwemmungen heimgesucht werden, leiden andere Regionen unter langen D\u00fcrreperioden. Diese Katastrophen treffen zumeis\u2026 [+711 chars]",
-      "retrievedAt": "2025-01-06 19:05:36.440882",
-      "internal_id": "bb517e2215e4968a9c4f036e58c2140369b52fc1afcd41c168942ba8f1ad4c34",
-      "publishedAtLabel": "Jan 5"
-    },
-    {
-      "id": 17050,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Catracalivre.com.br",
-      "author": "Andr\u00e9 Nicolau",
-      "title": "4 fatos indispens\u00e1veis sobre a dengue que voc\u00ea precisa conhecer",
-      "description": "O aumento das chuvas e das temperaturas elevadas reservam condi\u00e7\u00f5es ideais para a reprodu\u00e7\u00e3o do mosquito da dengue. Confira outros fatos.",
-      "url": "https://catracalivre.com.br/saude-bem-estar/fatos-dengue-precisa-saber/",
-      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1280,h=680,fit=cover,format=jpeg/wp-content/uploads/2024/02/dengue.jpg",
-      "publishedAt": "2025-01-05 17:00:18",
-      "content": "A dengue \u00e9 uma doen\u00e7a viral passada pelo mosquito Aedes Aegypti Soumyabrata Roy/istock - Soumyabrata Roy/istock O aumento das chuvas e das temperaturas elevadas, t\u00edpicas do ver\u00e3o, reservam condi\u00e7\u00f5es\u2026 [+2913 chars]",
-      "retrievedAt": "2025-01-06 19:05:35.874249",
-      "internal_id": "6ecb502a9076a0366e11d6a18a8f8509f248784d13153fb6c1f0f9f07cfa23e3",
-      "publishedAtLabel": "Jan 5"
-    },
-    {
-      "id": 17049,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "la-nacion",
-      "source_name": "La Nacion",
-      "author": "Alejandro Horvat",
-      "title": "En plena temporada: qu\u00e9 medidas preventivas hay en la costa para evitar aumentos de casos de dengue",
-      "description": "Si bien los especialistas advierten que no es una zona end\u00e9mica, el alto movimiento tur\u00edstico puede llegar a ser un agravante",
-      "url": "https://www.lanacion.com.ar/sociedad/en-plena-temporada-que-medidas-preventivas-hay-en-la-costa-para-evitar-aumentos-de-casos-de-dengue-nid05012025/",
-      "urlToImage": "https://resizer.glanacion.com/resizer/v2/los-casos-de-dengue-a-nivel-nacional-muestran-un-H26K6NEWUBB3JP5D3RNPUAEQS4.jpg?auth=f16d6224ca93e3f623fdb9c5614b43b9913314d40fbd519eee619de366b52ea5&width=1200&quality=70&smart=false&height=800",
-      "publishedAt": "2025-01-05 10:37:15",
-      "content": "El verano no solo trae consigo altas temperaturas y playas llenas de turistas, sino tambi\u00e9n un desaf\u00edo sanitario que pone en alerta a todo el pa\u00eds: el dengue. Esta enfermedad, transmitida por el mosq\u2026 [+5853 chars]",
-      "retrievedAt": "2025-01-06 19:05:35.867226",
-      "internal_id": "2182e8f604e1bfaf08eef8b9d2796fa1ffccd8be529a354e5d5cb6bafdcfafbf",
-      "publishedAtLabel": "Jan 5"
-    },
-    {
-      "id": 17048,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Aajtak.in",
-      "author": "aajtak.in",
-      "title": "\u0928\u093e\u0917\u092a\u0941\u0930 \u092e\u0947\u0902 \u092c\u0930\u094d\u0921 \u092b\u094d\u0932\u0942 \u0938\u0947 3 \u092c\u093e\u0918 \u0914\u0930 \u090f\u0915 \u0924\u0947\u0902\u0926\u0941\u090f \u0915\u0940 \u092e\u094c\u0924, \u091f\u093e\u0907\u0917\u0930 \u0930\u093f\u091c\u0930\u094d\u0935 \u0914\u0930 \u0930\u0947\u0938\u094d\u0915\u094d\u092f\u0942 \u0938\u0947\u0902\u091f\u0930\u094d\u0938 \u0915\u0947 \u0932\u093f\u090f \u0905\u0932\u0930\u094d\u091f \u091c\u093e\u0930\u0940",
-      "description": "\u092e\u0939\u093e\u0930\u093e\u0937\u094d\u091f\u094d\u0930 \u0915\u0947 \u0928\u093e\u0917\u092a\u0941\u0930 \u092e\u0947\u0902 \u0917\u094b\u0930\u0947\u0935\u093e\u0921\u093c\u093e \u0930\u0947\u0938\u094d\u0915\u094d\u092f\u0942 \u0938\u0947\u0902\u091f\u0930 \u092e\u0947\u0902 \u0926\u093f\u0938\u0902\u092c\u0930 \u092e\u0947\u0902 \u0924\u0940\u0928 \u092c\u093e\u0918 \u0914\u0930 \u090f\u0915 \u0924\u0947\u0902\u0926\u0941\u0906 H5N1 \u0935\u093e\u092f\u0930\u0938 \u0938\u0947 \u0938\u0902\u0915\u094d\u0930\u092e\u093f\u0924 \u0939\u094b\u0915\u0930 \u092e\u093e\u0930\u0947 \u0917\u090f. \u0907\u0938 \u0918\u091f\u0928\u093e \u0915\u0947 \u092c\u093e\u0926 \u0930\u093e\u091c\u094d\u092f \u0915\u0947 \u091f\u093e\u0907\u0917\u0930 \u0930\u093f\u091c\u0930\u094d\u0935 \u0914\u0930 \u0930\u0947\u0938\u094d\u0915\u094d\u092f\u0942 \u0938\u0947\u0902\u091f\u0930\u094d\u0938 \u0915\u094b \u0905\u0932\u0930\u094d\u091f \u092a\u0930 \u0930\u0916\u093e \u0917\u092f\u093e \u0939\u0948. \u091c\u093e\u0902\u091a \u092e\u0947\u0902 \u0905\u0928\u094d\u092f 26 \u0924\u0947\u0902\u0926\u0941\u090f \u0914\u0930 12 \u092c\u093e\u0918 \u0938\u094d\u0935\u0938\u094d\u0925 \u092a\u093e\u090f \u0917\u090f. \u0905\u0927\u093f\u0915\u093e\u0930\u2026",
-      "url": "https://www.aajtak.in/india/maharashtra/story/tiger-and-leopard-died-of-bird-flu-h5n1-virus-in-nagpur-rescue-centre-alert-issued-ntc-dskc-2136699-2025-01-05",
-      "urlToImage": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202501/677a5e7159d1b-tiger-and-leopard-052651552-16x9.jpg",
-      "publishedAt": "2025-01-05 10:29:37",
-      "content": "Copyright \u00a9 2025 Living Media India Limited. For reprint rights: Syndications Today",
-      "retrievedAt": "2025-01-06 19:05:35.396893",
-      "internal_id": "895fd40da7e5878970f986f3d0e94cfdacdf9a1b17b1b11a728150ebb9cf5d5f",
-      "publishedAtLabel": "Jan 5"
-    },
-    {
-      "id": 17047,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "ET Online",
-      "title": "Amid HMPV virus outbreak in China, three tigers and a leopard die of highly infectious avian flu H5N1 virus in Nagpur",
-      "description": "Three tigers and a sub-adult leopard at Gorewada Rescue Centre in Nagpur died from avian flu H5N1. This is the first time the virus caused significant wildlife deaths in captivity in India. Health measures were taken, and other big cats were examined and foun\u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/amid-hmpv-virus-outbreak-in-china-three-tigers-and-a-leopard-die-of-highly-pathogenic-avian-flu-h5n1-virus/articleshow/116963521.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-116963972,width-1200,height-630,imgsize-2683349,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2025-01-05 10:00:31",
-      "content": "Artificial Intelligence(AI) AI and Analytics based Business Strategy By - Tanusree De, Managing Director- Accenture Technology Lead, Trustworthy AI Center of Excellence: ATCI View Program",
-      "retrievedAt": "2025-01-06 19:05:35.389872",
-      "internal_id": "9a8435ec806824779d4f6f3f6b1e195d161d13980117dc60019978fad90f1c29",
-      "publishedAtLabel": "Jan 5"
-    },
-    {
-      "id": 17046,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "ZyCrypto",
-      "author": "Guest Author",
-      "title": "Solana\u2019s PNUT Prodigy Picks DLUME as 2025\u2019s Next Big Thing \u2013 Could You Be Next?",
-      "description": "Particularly during a viral rabies crisis in New York in October 2023, Peanut the Squirrel\u2019s (PNUT) ascent as a Solana-based memecoin has garnered a lot of focus. When Coinbase revealed that PNUT would be included in its listing roadmap on December 11, the me\u2026",
-      "url": "https://zycrypto.com/solanas-pnut-prodigy-picks-dlume-as-2025s-next-big-thing-could-you-be-next/",
-      "urlToImage": "https://zycrypto.com/wp-content/uploads/2024/12/Next-Crypto-to-Explode-Aurealone-Leads-Best-Coins-for-Potential-600x-Portfolio-Gains.jpg",
-      "publishedAt": "2025-01-05 09:24:56",
-      "content": "Particularly during a viral rabies crisis in New York in October 2023, Peanut the Squirrel\u2019s (PNUT) ascent as a Solana-based memecoin has garnered a lot of focus. When Coinbase revealed that PNUT wou\u2026 [+5309 chars]",
-      "retrievedAt": "2025-01-06 19:05:34.431523",
-      "internal_id": "f2d59d393705c83bbe72e8188b5f7b2b888747d87217f20b6d7b7fa89d96f24e",
       "publishedAtLabel": "Jan 5"
     }
   ]
