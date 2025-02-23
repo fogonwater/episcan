@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 18
-- **Last harvest:** 2025-02-22 19:05
-- **Most recent article:** 2025-02-21 18:40:09
+- **New articles in last harvest:** 9
+- **Last harvest:** 2025-02-23 07:06
+- **Most recent article:** 2025-02-22 06:54:12
 
 ---
 
@@ -10,22 +10,22 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 25-2 | 25-3 | 25-4 | 25-5 | 25-6 | 25-7 | 25-8 | Total |
-|--|-|-|-|-|-|-|-|-|
-| h5n1 | 127 | 65 | 31 | 51 | 72 | 55 | 53 | 454 |
-| dengue | 39 | 29 | 37 | 24 | 34 | 37 | 55 | 255 |
-| mpox | 91 | 34 | 23 | 22 | 28 | 18 | 14 | 230 |
-| measles | 6 | 9 | 10 | 13 | 24 | 72 | 65 | 199 |
-| malaria | 28 | 18 | 19 | 30 | 25 | 12 | 6 | 138 |
-| hpai | 18 | 12 | 11 | 6 | 3 | 9 | 4 | 63 |
-| chikungunya | 7 | 7 | 10 | 9 | 8 | 5 | 3 | 49 |
-| zika | 15 | 5 | 2 | 8 | 6 | 2 | 6 | 44 |
-| meningitis | 0 | 2 | 3 | 8 | 2 | 12 | 11 | 38 |
-| rabies | 1 | 6 | 7 | 6 | 4 | 5 | 4 | 33 |
-| pertussis | 2 | 0 | 1 | 0 | 3 | 3 | 2 | 11 |
-| yersinia | 3 | 2 | 0 | 0 | 0 | 5 | 0 | 10 |
-| typhoid | 0 | 4 | 0 | 0 | 2 | 3 | 0 | 9 |
-| leptospirosis | 0 | 1 | 2 | 0 | 1 | 0 | 2 | 6 |
+| Disease | 25-3 | 25-4 | 25-5 | 25-6 | 25-7 | 25-8 | Total |
+|--|-|-|-|-|-|-|-|
+| h5n1 | 63 | 31 | 51 | 72 | 55 | 53 | 325 |
+| dengue | 29 | 37 | 24 | 34 | 37 | 56 | 217 |
+| measles | 9 | 10 | 13 | 24 | 72 | 71 | 199 |
+| mpox | 34 | 23 | 22 | 28 | 18 | 15 | 140 |
+| malaria | 18 | 19 | 30 | 25 | 12 | 6 | 110 |
+| hpai | 12 | 11 | 6 | 3 | 9 | 5 | 46 |
+| chikungunya | 7 | 10 | 9 | 8 | 5 | 3 | 42 |
+| meningitis | 2 | 3 | 8 | 2 | 12 | 11 | 38 |
+| rabies | 6 | 7 | 6 | 4 | 5 | 4 | 32 |
+| zika | 5 | 2 | 8 | 6 | 2 | 6 | 29 |
+| pertussis | 0 | 1 | 0 | 3 | 3 | 2 | 9 |
+| typhoid | 4 | 0 | 0 | 2 | 3 | 0 | 9 |
+| yersinia | 2 | 0 | 0 | 0 | 5 | 0 | 7 |
+| leptospirosis | 1 | 2 | 0 | 1 | 0 | 2 | 6 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -63,6 +63,8 @@ Source: [News API](https://newsapi.org/)
 - [Инфекционист предостерег о вызывающих коклюш бактериях](https://iz.ru/1840550/2025-02-18/infekcionist-predostereg-o-vyzyvausih-koklus-bakteriah) (Iz.ru)
 
 ## 25-8 (mpox)
+
+- [Mpox en Afrique: près de 20.000 nouveaux cas depuis le début de l'année](https://fr.sputniknews.africa/20250222/mpox-en-afrique-pres-de-20000-nouveaux-cas-depuis-le-debut-de-lannee-1070771060.html) (Sputniknews.africa)
 
 - [New Monkeypox Variant Transfers Easier and Sparks Global Concern](https://www.discovermagazine.com/health/new-monkeypox-variant-transfers-easier-and-sparks-global-concern) (Discover Magazine)
 
@@ -118,6 +120,14 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-8 (measles)
 
+- [Texas measles outbreak grows to 90 cases, largest in over 30 years - NewsBreak](https://www.newsbreak.com/share/3823516558645-texas-measles-outbreak-grows-to-90-cases-largest-in-over-30-years?_f=app_share&amp;pd=0HUXmv6m&amp;lang=en_US&amp;send_time=1740175800&amp;trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.7.0.65%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_model_exp_25q1-v7%2Cns_foryou_blend_exp_25q1-v2%2Cns_foryou_recall_exp_25q1-v4%2Cns_foryou_rank_exp_25q1-v1%2Cns_push_exp_rt_bucketv12-v7&amp;s=i2) (Newsbreak.com)
+
+- [Measles Cases Are Rising Nationwide. Do Adults Need a Vaccine Booster?](https://www.kqed.org/news/12028139/measles-cases-are-rising-nationwide-do-adults-need-a-vaccine-booster) (KQED)
+
+- [Measles outbreak in Texas balloons to 90 cases](https://www.nbcnews.com/health/health-news/measles-outbreak-texas-cases-grow-rcna193196) (NBC News)
+
+- [Nearly 100 cases of measles reported in Texas, New Mexico](https://www.voanews.com/a/nearly-100-cases-of-measles-reported-in-texas-new-mexico/7983785.html) (VOA News)
+
 - [Measles outbreaks rise to nearly 100 cases between Texas and New Mexico. Here’s what you should know](https://www.bostonherald.com/2025/02/21/measles-cases/) (Boston Herald)
 
 - [Texas Measles Outbreak Nears 100 Cases, Raising Concerns About Undetected Spread](https://kffhealthnews.org/news/article/texas-measles-outbreak-escalates-undetected-cases-vaccinations/) (Kffhealthnews.org)
@@ -132,6 +142,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Vaccination efforts increased in parts of Ontario as measles outbreaks grow](https://www.cbc.ca/news/canada/london/vaccination-efforts-increased-in-parts-of-ontario-as-measles-outbreaks-grow-1.7464033) (CBC News)
 
+- [Measles outbreak: What are signs, symptoms of the illness](https://www.wsbtv.com/news/trending/measles-outbreak-what-are-signs-symptoms-illness/ZNZUHSYQD5DVHDEX2UBQ5SXVWY/) (WSB Atlanta)
+
 - [Spared by DOGE—For Now](https://www.theatlantic.com/health/archive/2025/02/epidemic-intelligence-service-doge-layoffs/681771/) (The Atlantic)
 
 - [Listen: Why measles is back in the US and what can be done](https://www.futurity.org/measles-vaccine-hesitancy-3270022/) (Futurity: Research News)
@@ -143,6 +155,8 @@ Source: [News API](https://newsapi.org/)
 - [What Trump’s Firing Spree Means for the Next Public Health Crisis](https://newrepublic.com/article/191721/trump-firing-spree-public-health) (The New Republic)
 
 - [Making America Sick Again: How Trump’s Drastic Layoffs at the Centers for Disease Control cripple our Response to Norovirus, Measles Outbreaks](https://www.juancole.com/2025/02/response-norovirus-outbreaks.html) (Juancole.com)
+
+- [Flu cases by state and measles outbreak, plus concerning cancer trends](https://www.foxnews.com/health/flu-cases-state-measles-outbreak-concerning-cancer-trends) (Fox News)
 
 - [CDC layoffs strike deeply at its ability to respond to the current flu, norovirus and measles outbreaks and other public health emergencies](https://theconversation.com/cdc-layoffs-strike-deeply-at-its-ability-to-respond-to-the-current-flu-norovirus-and-measles-outbreaks-and-other-public-health-emergencies-248486) (The Conversation Africa)
 
@@ -270,6 +284,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-8 (hpai)
 
+- [Is It Time to Rethink the Culling of Poultry in Response to Bird Flu?](https://legalinsurrection.com/2025/02/is-it-time-to-rethink-the-culling-of-poultry-in-response-to-bird-flu/) (Legalinsurrection.com)
+
 - [Raw pet food warnings issued in 2 states after cats die of bird flu](https://www.cbsnews.com/news/bird-flu-cats-wild-coast-raw-recall-warnings/) (CBS News)
 
 - [With the Spread of Bird Flu, Cooking Eggs with Precaution May be Beneficial](https://www.discovermagazine.com/health/with-the-spread-of-bird-flu-cooking-eggs-with-precaution-may-be-beneficial) (Discover Magazine)
@@ -387,6 +403,8 @@ Source: [News API](https://newsapi.org/)
 - [Pet Cats Are Contracting Bird Flu - Videos from The Weather Channel](https://weather.com/health/cold-flu/video/pet-cats-bird-flu-humans) (The Weather Channel)
 
 ## 25-8 (dengue)
+
+- [Com 303 casos para cada 100 mil habitantes, SP se torna epidêmico para dengue](https://valor.globo.com/brasil/noticia/2025/02/21/com-303-casos-para-cada-100-mil-habitantes-sp-se-torna-epidemico-para-dengue.ghtml) (Globo)
 
 - [Tot oder lebendig: Gemeinde setzt Kopfgeld auf Moskitos aus](https://www.n-tv.de/wissen/Gemeinde-setzt-Kopfgeld-auf-Moskitos-aus-article25579207.html) (N-tv.de)
 
@@ -2502,10 +2520,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Llama la UNAM a vigilar la evolución de la gripe aviar](https://www.jornada.com.mx/2025/01/12/sociedad/027n2soc) (Jornada.com.mx)
 
-- [Cats Could Spread Deadly Bird Flu to Humans: Study](https://m.economictimes.com/news/web-stories/cats-could-spread-deadly-bird-flu-to-humans-study/slideshow/117045365.cms) (Economictimes.com)
-
-- [UNAM pide a México a estar alerta ante la evolución del virus de influenza H5N1, ¿por qué?](https://www.elfinanciero.com.mx/salud/2025/01/11/unam-pide-a-mexico-a-estar-alerta-ante-la-evolucion-del-virus-de-influenza-h5n1-por-que/) (El Financiero)
-
 ## 25-3 (dengue)
 
 - [Dengue: como usar o hipoclorito de sódio no combate ao Aedes aegypti](https://casa.abril.com.br/minha-casa/dengue-como-usar-o-hipoclorito-de-sodio-no-combate-ao-aedes-aegypti) (Abril.com.br)
@@ -2581,699 +2595,3 @@ Source: [News API](https://newsapi.org/)
 - [La Réunion. Le dispositif de gestion de crise déclenché contre l'épidémie de chikungunya](https://www.ledauphine.com/sante/2025/01/14/le-dispositif-de-gestion-de-crise-declenche-contre-l-epidemie-de-chikungunya) (Le Dauphiné Libéré)
 
 - [Mutations in chikungunya virus nsP4 decrease viral fitness and sensitivity to the broad-spectrum antiviral 4′-Fluorouridine](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012859) (Plos.org)
-
-## 25-2 (zika)
-
-- [‘Ou a gente dá um jeito, ou as crianças morrem’, desabafa mãe de filha com síndrome congênita da Zika após Lula vetar pensão vitalícia](https://www.terra.com.br/noticias/ou-a-gente-da-um-jeito-ou-as-criancas-morrem-desabafa-mae-de-filha-com-sindrome-congenita-da-zika-apos-lula-vetar-pensao-vitalicia,cf6f0b0b85c83ce3059c9fa14e344ae75kd2ixhx.html) (Terra.com.br)
-
-- [Saúde anuncia novas tecnologias de combate à dengue em Minas Gerais](https://valor.globo.com/brasil/noticia/2025/01/10/saude-anuncia-novas-tecnologias-de-combate-a-dengue-em-minas-gerais.ghtml) (Globo)
-
-- [Insect-specific RNA viruses detection in Field-Caught Aedes aegypti mosquitoes from Argentina using NGS technology](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012792) (Plos.org)
-
-- [Governo pagará R$ 60 mil a famílias de crianças afetadas pelo Zika](https://www.infomoney.com.br/saude/governo-pagara-r-60-mil-a-familias-de-criancas-afetadas-pelo-zika/) (InfoMoney)
-
-- [Zika Virus Infection in Pregnant Traveler Returning to Denmark from Phuket, Thailand, 2024](https://wwwnc.cdc.gov/eid/article/31/2/24-1510_article) (Cdc.gov)
-
-- [Crianças com Zika receberão R$ 60 mil, mas Lula veta pensão vitalícia](https://www.metropoles.com/colunas/grande-angular/criancas-com-zika-receberao-r-60-mil-mas-lula-veta-pensao-vitalicia) (Metropoles.com)
-
-- [Governo dará R$ 60 mil a pessoas com deficiência causada pelo zika vírus](https://veja.abril.com.br/coluna/radar/governo-dara-r-60-mil-a-pessoas-com-deficiencia-causada-pelo-zika-virus) (Abril.com.br)
-
-- [Lula edita MP que dá auxílio de R$ 60 mil a crianças com zika vírus](https://www.metropoles.com/brasil/lula-edita-mp-que-da-apoio-de-r-60-mil-a-criancas-com-zika-virus) (Metropoles.com)
-
-- [Governo vai conceder ajuda financeira de R$ 60 mil à pessoa com deficiência decorrente da Zika](https://valor.globo.com/brasil/noticia/2025/01/09/governo-vai-conceder-ajuda-financeira-de-r-60-mil-pessoa-com-deficincia-decorrente-da-zika.ghtml) (Globo)
-
-- [Des moustiques au «sperme toxique» : une potentielle solution pour freiner la transmission des maladies tropicales](https://www.liberation.fr/societe/sante/des-moustiques-au-sperme-toxique-une-potentielle-solution-pour-freiner-la-transmission-des-maladies-tropicales-20250108_SMMPPKSYHZAJPEURIWMHGQJKBM/) (Libération)
-
-- [HPMV, कोरोना ही नहीं... इस धरती ने झेले हैं 10 करोड़ से अधिक वायरस, जानिए Viruses की हिस्ट्री](https://www.aajtak.in/india/news/story/what-is-virus-how-they-formed-from-where-they-came-hpmv-corona-sars-mers-ebola-zika-know-the-history-of-viruses-ntc-dskc-2138586-2025-01-08) (Aajtak.in)
-
-- [The growing challenge of arboviruses in Latin America: Dengue and Oropouche in focus](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012789) (Plos.org)
-
-- [Vacina da USP contra Covid-19 apresenta resultados promissores em testes com camundongos](https://veja.abril.com.br/saude/vacina-da-usp-contra-covid-19-apresenta-resultados-promissores-em-testes-com-camundongos) (Abril.com.br)
-
-- [7 dicas para usar o repelente de maneira correta](https://www.terra.com.br/vida-e-estilo/saude/7-dicas-para-usar-o-repelente-de-maneira-correta,d78537fe78fbeac5018427b7f606182fa6rc68ct.html) (Terra.com.br)
-
-- [A low pre-existing anti-NS1 humoral immunity to DENV is associated with microcephaly development after gestational ZIKV exposure](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012193) (Plos.org)
-
-## 25-2 (yersinia)
-
-- [Ученые восстановили штамм возбудителя одной из самых разрушительных пандемий чумы](https://lenta.ru/news/2025/01/11/uchenye-vosstanovili-shtamm-vozbuditelya-odnoy-iz-samyh-razrushitelnyh-pandemiy-chumy/) (Lenta)
-
-- [Ученые восстановили штамм самой опасной чумы VI века](https://vfokuse.mail.ru/article/uchenye-vosstanovili-shtamm-samoy-opasnoy-chumy-vi-veka-64401308/) (Mail.ru)
-
-- [Covid Vaccine Scientists Creating New Shot for Bubonic Plague](https://legalinsurrection.com/2025/01/covid-vaccine-scientists-creating-new-shot-for-bubonic-plague/) (Legalinsurrection.com)
-
-## 25-2 (rabies)
-
-- [Young man dies of rabies at Seti provincial hospital](https://dineshkhabar.com/article/117684) (Dineshkhabar.com)
-
-## 25-2 (pertussis)
-
-- [Tos ferina: qué sabemos sobre el incremento de casos ocasionados por la bacteria Bordetella pertussis](https://www.milenio.com/ciencia-y-salud/aumentan-casos-bordetella-pertussi-tos-ferina) (Milenio)
-
-- [This Illness Is Surging Right Now, And The Signs In Kids Aren't As Easy To Spot](https://www.huffpost.com/entry/kids-whooping-cough-surge_l_677d4d9fe4b07acf439cc050) (HuffPost)
-
-## 25-2 (mpox)
-
-- [14,700 confirmed mpox cases reported in 2024 in Africa: WHO](https://www.thestar.com.my/news/world/2025/01/12/14700-confirmed-mpox-cases-reported-in-2024-in-africa-who) (The Star Online)
-
-- [New Mpox case reported involving local man](https://www.thestar.com.my/news/nation/2025/01/11/new-mpox-case-reported-involving-local-man) (The Star Online)
-
-- [Sierra Leone. Un premier cas de mpox déclaré, des mesures prises pour éviter une propagation](https://www.ledauphine.com/sante/2025/01/11/un-premier-cas-de-mpox-declare-des-mesures-prises-pour-eviter-une-propagation) (Le Dauphiné Libéré)
-
-- [Mpox: un premier cas du "clade 1b" confirmé au Sierra Leone, le patient placé à l'isolement](https://www.bfmtv.com/international/mpox-un-premier-cas-du-clade-1b-confirme-au-sierra-leone-le-patient-place-a-l-isolement_AD-202501110222.html) (BFMTV)
-
-- [TWiV 1182: Clinical update with Dr. Daniel Griffin](https://www.microbe.tv/twiv/twiv-1182/) (Microbe.tv)
-
-- [BREAKING: Sierra Leone Confirms First Mpox Case](https://sierraloaded.sl/health/sierra-leone-confirms-first-mpox-case/) (Sierraloaded.sl)
-
-- [Friday headlines: Blowing in the wind](https://themorningnews.org/p/friday-headlines-blowing-in-the-wind) (Themorningnews.org)
-
-- [Detectan primer caso de nueva variante de viruela símica en China](https://www.excelsior.com.mx/global/detectan-nueva-variante-viruela-simica-china/1693491) (Excelsior.com.mx)
-
-- [Mpox: cinq cas du nouveau variant enregistrés en Chine](https://www.bfmtv.com/international/asie/chine/mpox-cinq-cas-du-nouveau-variant-enregistres-en-chine_AD-202501091002.html) (BFMTV)
-
-- [China confirma primeiro surto doméstico da nova variante de mpox](https://valor.globo.com/mundo/noticia/2025/01/09/china-confirma-primeiro-surto-domstico-da-nova-variante-de-mpox.ghtml) (Globo)
-
-- [Κίνα: Το Πεκίνο ανακοίνωσε πέντε κρούσματα της νέας παραλλαγής της mpox](https://www.alphafreepress.gr/2025/01/09/kosmos/kina-to-pekino-anakoinose-pente-krousmata-tis-neas-parallagis-tis-mpox/) (Alphafreepress.gr)
-
-- [Mpox In China: Cluster Of New Mutated Strain Detected; Know Symptoms And Complication](https://www.ndtv.com/health/mpox-in-china-cluster-of-new-mutated-strain-detected-7438465) (NDTV News)
-
-- [Η Κίνα ανακοίνωσε πέντε κρούσματα της νέας παραλλαγής της mpox](https://www.newsit.gr/kosmos/i-kina-anakoinose-pente-krousmata-tis-neas-parallagis-tis-mpox/4279017/) (Newsit.gr)
-
-- [Το Πεκίνο ανακοινώνει πέντε κρούσματα της νέας παραλλαγής της mpox](https://dialogos.com.cy/to-pekino-anakoinonei-pente-kroysmata-tis-neas-parallagis-tis-mpox/) (Dialogos.com.cy)
-
-- [Συναγερμός στην Κίνα: Πέντε κρούσματα της νέας παραλλαγής της mpox](https://www.skai.gr/news/health/kina-pente-krousmata-tis-neas-parallagis-tis-astheneias-mpox) (Skai.gr)
-
-- [Variant du mpox : un foyer découvert en Chine](https://www.latribune.fr/entreprises-finance/industrie/chimie-pharmacie/variant-du-mpox-un-foyer-decouvert-en-chine-1015507.html) (La Tribune.fr)
-
-- [China reports five cases of new Mpox strain](https://punchng.com/china-reports-five-cases-of-new-mpox-strain/) (The Punch)
-
-- [Κίνα: Ανακοινώνει πέντε κρούσματα της νέας παραλλαγής της mpox – Τα σημάδια της νόσου](https://www.naftemporiki.gr/kosmos/1877643/kina-anakoinonei-pente-kroysmata-tis-neas-parallagis-tis-mpox-ta-simadia-tis-nosoy/) (Naftemporiki.gr)
-
-- [Συναγερμός για τον mpox στην Κίνα - Καταγράφηκαν 5 κρούσματα της νέας παραλλαγής clade 1b](https://www.protothema.gr/world/article/1585743/sunagermos-gia-ton-mpox-stin-kina-katagrafikan-5-krousmata-tis-neas-parallagis-clade-1b/) (Protothema.gr)
-
-- [Thursday headlines: We love LA](https://themorningnews.org/p/thursday-headlines-we-love-la) (Themorningnews.org)
-
-- [China reports 5 cases of new mpox strain](https://www.channelnewsasia.com/east-asia/china-mpox-strain-clade-1b-5-cases-4848246) (CNA)
-
-- [China descubre un brote de la nueva variante de la viruela símica](https://forbes.com.mx/china-descubre-un-brote-de-la-nueva-variante-de-la-viruela-simica/) (Forbes.com.mx)
-
-- [Viruela del mono llega a China; confirman primera infección por Mpox](https://www.milenio.com/internacional/viruela-mono-llega-china-reportan-infeccion-mpox) (Milenio)
-
-- [Malaysia actively monitors potential public health emergencies, says Health Minister](https://www.thestar.com.my/news/nation/2025/01/09/malaysia-actively-monitoring-potential-public-health-emergencies-says-health-minister) (The Star Online)
-
-- [China confirma primeiro surto de nova variante do vírus Mpox](https://observador.pt/2025/01/09/china-confirma-primeiro-surto-de-nova-variante-do-virus-mpox/) (Observador.pt)
-
-- [Mpox. China confirma primeiros casos de nova variante](https://ionline.sapo.pt/2025/01/09/mpox-china-confirma-primeiros-casos-de-nova-variante/) (Sapo.pt)
-
-- [A halálos vírus új, legsúlyosabb változatát azonosították Kínában](https://www.portfolio.hu/global/20250109/a-halalos-virus-uj-legsulyosabb-valtozatat-azonositottak-kinaban-733573) (Portfolio.hu)
-
-- [China discovers cluster of new mpox strain](https://www.anews.com.tr/health/2025/01/09/china-discovers-cluster-of-new-mpox-strain) (Anews.com.tr)
-
-- [China discovers cluster of new mpox strain](https://economictimes.indiatimes.com/news/international/world-news/china-discovers-cluster-of-new-mpox-strain/articleshow/117074413.cms) (The Times of India)
-
-- [WHO’s Slow Mpox Response Calls For a Rethink](https://www.livemint.com/opinion/online-views/whos-slow-mpox-response-calls-for-a-rethink-11736392916421.html) (Livemint)
-
-- [Epidémie de mpox : "Il n'y a pas d'inquiétude particulière à avoir, mais il faut être prudent", explique l'infectiologue Robert Sebbag](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/epidemie-de-mpox-il-n-y-a-pas-d-inquietude-particuliere-a-avoir-mais-il-faut-etre-prudent-3087940.html) (Francetvinfo.fr)
-
-- [Wednesday headlines: Been there, done cat](https://themorningnews.org/p/wednesday-headlines-been-there-done-cat) (Themorningnews.org)
-
-- [Noua variantă de mpox în Franța. Ministerul Sănătății anunță că riscul pentru populație este unul „scăzut”](http://hotnews.ro/noua-varianta-de-mpox-in-franta-ministerul-sanatatii-anunta-ca-riscul-pentru-populatie-este-unul-scazut-1876537) (Hotnews.ro)
-
-- [Nouveau variant du virus mpox en Bretagne : 5 questions pour comprendre](https://www.numerama.com/sciences/1878124-nouveau-variant-du-virus-mpox-en-bretagne-5-questions-pour-comprendre.html) (Numerama)
-
-- [Santé. Premier cas de variant de la variole du singe en France : qui doit être vacciné ?](https://www.ledauphine.com/magazine-sante/2025/01/08/premier-cas-de-mpox-de-clade-1b-en-france-qui-est-concerne-par-la-vaccination) (Le Dauphiné Libéré)
-
-- [Virus mpox : première alerte en Bretagne](https://www.francetvinfo.fr/sante/maladie/variole-du-singe/virus-mpox-premiere-alerte-en-bretagne_7000211.html) (Francetvinfo.fr)
-
-- [Variant du mpox : le ministre de la Santé tente de rassurer après un premier cas en France](https://www.latribune.fr/entreprises-finance/industrie/chimie-pharmacie/variant-du-mpox-le-ministre-de-la-sante-tente-de-rassurer-apres-un-premier-cas-en-france-1015356.html) (La Tribune.fr)
-
-- [Tuesday headlines: Taylor Swift meets the mythic](https://themorningnews.org/p/tuesday-headlines-taylor-swift-meets-the-mythic) (Themorningnews.org)
-
-- [Mpox : On fait le point après la découverte du premier cas du nouveau variant en France, à Rennes](https://www.20minutes.fr/sante/4132430-20250107-mpox-fait-point-apres-decouverte-premier-cas-nouveau-variant-france-rennes) (20 Minutes)
-
-- [Mpox : Après le premier cas du nouveau variant en France, le ministère de la Santé redonne ses conseils](https://www.huffingtonpost.fr/life/article/mpox-apres-le-premier-cas-du-nouveau-variant-en-france-le-ministere-de-la-sante-redonne-ses-conseils_244479.html) (Le HuffPost)
-
-- [First case of new mpox variant identified in France](https://www.euractiv.com/section/health-consumers/news/first-case-of-new-mpox-variant-identified-in-france/) (EURACTIV)
-
-- [Santé. Nouveau variant du Mpox : « Les choses sont sous contrôle », rassure le ministre](https://www.ledauphine.com/sante/2025/01/07/nouveau-variant-du-mpox-les-choses-sont-sous-controle-rassure-le-ministre) (Le Dauphiné Libéré)
-
-- [Ab Osterhaus waarschuwt voor dodelijk virus: ’Kans dat dit ook naar Nederland komt’](https://www.telegraaf.nl/video/689459479/ab-osterhaus-waarschuwt-voor-dodelijk-virus-kans-dat-dit-ook-naar-nederland-komt) (Telegraaf.nl)
-
-- [Epidémie de mpox : ce que l'on sait du premier cas du nouveau variant détecté en France](https://www.francetvinfo.fr/sante/maladie/variole-du-singe/epidemie-de-mpox-ce-que-l-on-sait-du-premier-cas-du-nouveau-variant-detecte-en-france_6999254.html) (Francetvinfo.fr)
-
-- [Fransa'da M çiçeği virüsünün yeni varyantı tespit edildi](https://www.haberturk.com/fransa-da-m-cicegi-virusunun-yeni-varyanti-ilk-kez-tespit-edildi-3753855) (Haberturk.com)
-
-- [France reports first case of new mpox variant](https://www.politico.eu/article/france-reports-first-case-of-new-mpox-variant/) (POLITICO.eu)
-
-- [España registró 633 casos de mpox durante el año 2024, ninguno de la nueva variante](https://www.infosalus.com/actualidad/noticia-espana-registro-633-casos-mpox-ano-2024-ninguno-nueva-variante-20250107122123.html) (Infosalus.com)
-
-- [Francia, cuarto país europeo en identificar la variante más grave del virus «mpox»](https://www.lavozdegalicia.es/noticia/sociedad/2025/01/07/francia-cuarto-pais-europeo-identificar-variante-grave-virus-mpox/00031736247683849575669.htm) (Lavozdegalicia.es)
-
-- [Eerste besmetting met mpox-variant in Frankrijk geconstateerd](https://nos.nl/l/2550844) (Nos.nl)
-
-- [Francúzsko hlási prvý prípad nákazy novým variantom vírusu mpox clade Ib](https://spravy.pravda.sk/svet/clanok/736439-francuzsko-hlasi-prvy-pripad-nakazy-novym-variantom-virusu-mpox-clade-ib/) (Pravda.sk)
-
-- [Face au premier cas de Mpox de clade I b identifié en France, les autorités sanitaires rappellent l'importance de la vaccination pour les publics cibles](https://sante.gouv.fr/actualites/presse/communiques-de-presse/article/face-au-premier-cas-de-mpox-de-clade-i-b-identifie-en-france-les-autorites) (Gouv.fr)
-
-- [Virus Mpox : un premier cas du nouveau variant en France](https://www.francetvinfo.fr/sante/maladie/variole-du-singe/virus-mpox-un-premier-cas-du-nouveau-variant-en-france_6999377.html) (Francetvinfo.fr)
-
-- [Franciaországban is megjelent a majomhimlő fertőzőbb változata](https://hvg.hu/tudomany/20250107_majomhimlo-mpox-uj-varians-franciaorszag) (Hvg.hu)
-
-- [Mpox: Frau infiziert sich in Frankreich mit neuer Variante des Virus](https://www.diepresse.com/19229641/mpox-frau-infiziert-sich-in-frankreich-mit-neuer-variante-des-virus) (Diepresse.com)
-
-- [Franţa anunţă primul caz de îmbolnăvire cu noua variantă mpox. Pacientul nu a călătorit în Africa](https://adevarul.ro/stiri-externe/europa/franta-anunta-primul-caz-de-imbolnavire-cu-noua-2413082.html) (Adevarul.ro)
-
-- [Un premier cas du nouveau variant de Mpox identifié en France](https://www.nouvelobs.com/societe/20250107.OBS98696/un-premier-cas-du-nouveau-variant-de-mpox-identifie-en-france.html) (L'Obs)
-
-- [Frankreich weist erstmals Infektion mit neuer Mpox-Variante nach](https://www.welt.de/gesundheit/article255053376/Mpox-Klade-1b-Frankreich-weist-erstmals-Infektion-mit-neuer-Variante-nach.html) (DIE WELT)
-
-- [Les dix ans de l’attentat de «Charlie Hebdo», variant de Mpox en France, séisme au Tibet… L’actu de ce 7 janvier au matin](https://www.liberation.fr/international/europe/dix-ans-des-attentats-de-charlie-hebdo-variant-de-mpox-en-france-seisme-au-tibet-lactu-de-ce-7-janvier-au-matin-20250107_NVNYQO57QBFOTBLA3NI6JNAUSI/) (Libération)
-
-- [Toute l’info en deux minutes : « Charlie Hebdo » tête haute 10 ans après, variant Mpox et séisme au Tibet](https://www.20minutes.fr/societe/4132322-20250107-toute-info-deux-minutes-charlie-hebdo-tete-haute-10-ans-apres-variant-mpox-seisme-tibet) (20 Minutes)
-
-- [Plus dangereux et plus contagieux, le nouveau variant du mpox détecté en France](https://www.lepoint.fr/sante/plus-dangereux-et-plus-contagieux-le-nouveau-variant-du-virus-mpox-detecte-en-france-07-01-2025-2579350_40.php) (Le Point)
-
-- [Frau aus der Bretagne infiziert: Frankreich meldet ersten Fall der neuen Mpox-Variante](https://www.tagesspiegel.de/wissen/frau-aus-der-bretagne-infiziert-frankreich-meldet-ersten-fall-der-neuen-mpox-variante-12971626.html) (Der Tagesspiegel)
-
-- [Mpox : ce que l’on sait du premier cas du nouveau variant détecté en France](https://www.lexpress.fr/sciences-sante/sante/mpox-ce-que-lon-sait-du-premier-cas-du-nouveau-variant-detecte-en-france-SUMZTPBEL5EXPPFKTTXH7J33MY/) (L'Express)
-
-- [Klade 1b gilt als gefährlicher: Frankreich weist Infektion mit neuer Mpox-Variante nach](https://www.n-tv.de/panorama/Frankreich-weist-Infektion-mit-neuer-Mpox-Variante-nach-article25470967.html) (N-tv.de)
-
-- [Franţa: prima infecţie cu noua variantă a virusului mpox, cea mai periculoasă până acum](https://www.mediafax.ro/externe/franta-prima-infectie-cu-noua-varianta-a-virusului-mpox-cea-mai-periculoasa-pana-acum-22636633) (Mediafax.ro)
-
-- [Primul caz de îmbolnăvire cu noua variantă mpox detectat în Franța](https://www.digi24.ro/stiri/externe/ue/primul-caz-de-imbolnavire-cu-noua-varianta-mpox-detectat-in-franta-3070821) (Digi24.ro)
-
-- [Un primer caso de la nueva variante de mpox identificado en Francia](https://peru21.pe/mundo/un-primer-caso-de-la-nueva-variante-de-mpox-identificado-en-francia) (Peru21.pe)
-
-- [Eerste besmetting met nieuwe mpox-variant gemeld in Frankrijk](https://www.telegraaf.nl/nieuws/189484568/eerste-besmetting-met-nieuwe-mpox-variant-gemeld-in-frankrijk) (Telegraaf.nl)
-
-- [Mpox: Frankreich meldet erste Infektion mit Variante Klade 1b](https://www.morgenpost.de/panorama/article408027249/mpox-frankreich-meldet-erste-infektion-mit-variante-klade-1b.html) (Berliner Morgenpost)
-
-- [„Klade 1b“ breitet sich aus - Frankreich: Erste Infektion mit neuer Mpox-Variante](https://www.bild.de/leben-wissen/affenpocken-in-frankreich-1-infektion-mit-mpox-variante-klade-1b-677c90e10195b908c189c096) (Bild)
-
-- [France Confirms First Case Of Mpox Variant](https://www.ndtv.com/world-news/france-confirms-first-case-of-mpox-variant-7416471) (NDTV News)
-
-- [France identifies first case of new mpox variant](https://economictimes.indiatimes.com/news/international/world-news/france-identifies-first-case-of-new-mpox-variant/articleshow/117007184.cms) (The Times of India)
-
-- [Mpox. Detetado primeiro caso de nova estirpe em França](https://observador.pt/2025/01/07/mpox-detetado-primeiro-caso-de-nova-estirpe-em-franca/) (Observador.pt)
-
-- [France identifies first case of new mpox variant, AFP reports](https://www.thestar.com.my/news/world/2025/01/07/france-identifies-first-case-of-new-mpox-variant-afp-reports) (The Star Online)
-
-- [Detectan primer caso de variante de virus mpox en Francia](https://www.milenio.com/internacional/identifican-primer-caso-de-la-nueva-variante-de-mpox-en-francia) (Milenio)
-
-- [Mpox : "Aucune raison d'être inquiet pour une épidémie à grande échelle", estime l'infectiologue Karine Lacombe](https://www.francetvinfo.fr/sante/maladie/variole-du-singe/mpox-aucune-raison-d-etre-inquiet-pour-une-epidemie-a-grande-echelle-estime-l-infectiologue-karine-lacombe_6998375.html) (Francetvinfo.fr)
-
-- [Frankrijk rapporteert eerste besmetting met nieuwe mpox-variant](https://www.gva.be/cnt/dmf20250106_98219969) (Www.gva.be)
-
-- [Συναγερμός στη Γαλλία: Εντοπίστηκε ανθρώπινο κρούσμα της νέας παραλλαγής clade 1b της mpox](https://www.skai.gr/news/health/gallia-entopistike-gia-proti-fora-i-nea-parallagi-clade-1b-tis-mpox) (Skai.gr)
-
-- [Mpox : Le tout premier cas du nouveau variant identifié en France à Rennes](https://www.20minutes.fr/sante/4132297-20250106-mpox-tout-premier-cas-nouveau-variant-identifie-france-rennes) (20 Minutes)
-
-- [Mpox : un premier cas du nouveau variant identifié en France](https://www.lemonde.fr/societe/article/2025/01/06/mpox-un-premier-cas-du-nouveau-variant-identifie-en-france_6485006_3224.html) (Le Monde)
-
-- [Συναγερμός για τον mpox στη Γαλλία - Εντοπίστηκε για πρώτη φορά η νέα παραλλαγή clade 1b](https://www.protothema.gr/world/article/1584348/sunagermos-gia-ton-mpox-sti-gallia-edopistike-gia-proti-fora-i-nea-parallagi-clade-1b/) (Protothema.gr)
-
-- [Frankrijk rapporteert eerste besmetting met nieuwe mpox-variant](https://www.hbvl.be/cnt/dmf20250106_97908463) (Hbvl.be)
-
-- [Frankrijk rapporteert eerste besmetting met nieuwe mpox-variant](https://www.nieuwsblad.be/cnt/dmf20250106_97883795) (Nieuwsblad.be)
-
-- [Premier décès humain lié à la grippe aviaire aux Etats-Unis](https://www.lalibre.be/planete/sante/2025/01/06/premier-deces-humain-lie-a-la-grippe-aviaire-aux-etats-unis-MDB3SFLCUBGHRHW5JSB2ARBAMM/) (Lalibre.be)
-
-- [Mpox : le nouveau variant clade 1b détecté sur une patiente en France, annonce le ministère de la Santé](https://www.huffingtonpost.fr/life/article/mpox-le-nouveau-variant-clade-1b-detecte-sur-une-patiente-en-france-annonce-le-ministere-de-la-sante_244455.html) (Le HuffPost)
-
-- [Epidémie de mpox : un premier cas du nouveau variant identifié en France, annonce le ministère de la Santé](https://www.francetvinfo.fr/sante/maladie/variole-du-singe/epidemie-de-mpox-un-premier-cas-du-nouveau-variant-identifie-en-france-annonce-le-ministere-de-la-sante_6998294.html) (Francetvinfo.fr)
-
-- [Frankrike bekräftar fall av farlig mpox](https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=53131) (Svenska Dagbladet)
-
-- [Frankrike bekräftar fall av farlig mpox](https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1321820) (Aftonbladet.se)
-
-- [Frankrike bekräftar fall av farlig mpox](https://www.expressen.se/nyheter/varlden/frankrike-bekraftar-fall-av-farlig-mpox/) (Expressen.se)
-
-- [Frankrike bekräftar fall av farlig mpox](https://www.aftonbladet.se/nyheter/a/Jbqqb4/frankrike-bekraftar-fall-av-farlig-mpox) (Aftonbladet.se)
-
-- [Santé. Un premier cas du nouveau variant du Mpox identifié en France](https://www.ledauphine.com/sante/2025/01/06/un-premier-cas-du-nouveau-variant-du-mpox-identifie-en-france) (Le Dauphiné Libéré)
-
-- [Monday headlines: You still have made a choice](https://themorningnews.org/p/monday-headlines-you-still-have-made-a-choice) (Themorningnews.org)
-
-## 25-2 (measles)
-
-- [Measles-infected ferry passenger travels from Tallinn to Helsinki](https://yle.fi/a/74-20136078) (YLE News)
-
-- [台灣麻疹疫情匡列破3000人 麻疹疫苗覆蓋率高無需緊張](https://www.cool3c.com/article/232528) (Cool3c.com)
-
-- [Democrats Highlight Samoa Outbreak to Block RFK Jr.](https://politicalwire.com/2025/01/08/democrats-highlight-samoa-outbreak-to-block-rfk-jr/) (Politicalwire.com)
-
-- [Measles outbreaks in South-East Asia bringing cases to Australia](https://www.abc.net.au/news/2025-01-08/measles-outbreaks-in-south-east-asia-bringing-cases-to-australia/104789088) (ABC News (AU))
-
-- [New Brunswick declares measles outbreak is over](https://www.cbc.ca/news/canada/new-brunswick/measles-outbreak-new-brunswick-over-fredericton-zone-3-1.7424785) (CBC News)
-
-- [New measles case confirmed in Montreal](https://www.cbc.ca/news/canada/montreal/new-measles-case-montreal-1.7423560) (CBC News)
-
-## 25-2 (malaria)
-
-- [IMPACT, World Bank begin revitalisation of 58 Nasarawa health centres](https://punchng.com/impact-world-bank-begin-revitalisation-of-58-nasarawa-health-centres/) (The Punch)
-
-- [Muere el científico colombiano Manuel Elkin Patarroyo, padre de vacuna contra la malaria](https://www.montevideo.com.uy/Salud/Muere-el-cientifico-colombiano-Manuel-Elkin-Patarroyo-padre-de-vacuna-contra-la-malaria-uc911754) (Montevideo.com.uy)
-
-- [Insurance query: Comprehensive home healthcare services for infectious diseases](https://www.thehindubusinessline.com/portfolio/personal-finance/insurance-query-comprehensive-home-healthcare-hhc-services-for-infectious-diseases/article69072100.ece) (BusinessLine)
-
-- [Fallece el científico colombiano Manuel Elkin Patarroyo, creador de la vacuna contra la malaria](https://www.libertaddigital.com/ciencia-tecnologia/ciencia/2025-01-10/fallece-el-cientifico-colombiano-manuel-elkin-patarroyo-creador-de-la-vacuna-contra-la-malaria-7205640/) (Libertaddigital.com)
-
-- [Los chimpancés están genéticamente adaptados a su entorno y a infecciones como la malaria](https://www.milenio.com/ciencia-y-salud/chimpances-estan-geneticamente-adaptados-incluso-a-infecciones) (Milenio)
-
-- [Muere el científico colombiano Manuel Elkin Patarroyo, creador de la vacuna contra la malaria](https://www.eldiario.es/sociedad/muere-cientifico-colombiano-manuel-elkin-patarroyo-creador-vacuna-malaria_1_11953245.html) (Eldiario.es)
-
-- [El de Manuel Elkin Patarroyo es un legado de determinación en la lucha contra la malaria](https://www.xataka.com.co/medicina-y-salud/manuel-elkin-patarroyo-legado-determinacion-lucha-malaria) (Xataka.com.co)
-
-- [Los chimpancés están genéticamente adaptados a su entorno y a infecciones como la malaria](https://elmercurio.com.ec/2025/01/09/los-chimpances-estan-geneticamente-adaptados-a-su-entorno-y-a-infecciones-como-la-malaria/) (Elmercurio.com.ec)
-
-- [Muere Manuel Patarroyo, el padre de la vacuna contra la malaria](https://www.lavozdegalicia.es/noticia/sociedad/2025/01/09/muere-manuel-elkin-patarroyo-padre-vacuna-contra-malaria/00031736452462220357304.htm) (Lavozdegalicia.es)
-
-- [Muere el científico colombiano Manuel Elkin Patarroyo, padre de la vacuna contra la malaria](https://www.elmundo.es/ciencia-y-salud/ciencia/2025/01/09/67802823fc6c832b648b45b0.html) (El Mundo)
-
-- [Muere el científico colombiano Manuel Elkin Patarroyo, padre de vacuna contra la malaria](https://www.elespanol.com/ciencia/20250109/muere-cientifico-colombiano-manuel-elkin-patarroyo-padre-vacuna-malaria/915158986_0.html) (Elespanol.com)
-
-- [Muere el científico colombiano Manuel Elkin Patarroyo, padre de la vacuna contra la malaria](https://www.elconfidencial.com/tecnologia/ciencia/2025-01-09/muere-manuel-elkin-patarroyo-padre-vacuna-malaria_4039835/) (Elconfidencial.com)
-
-- [Chimpanzees are genetically adapted to local habitats and infections such as malaria](https://www.sciencedaily.com/releases/2025/01/250109141134.htm) (Science Daily)
-
-- [Los chimpancés han evolucionado genéticamente para vivir en zonas con malaria](https://www.elmundo.es/ciencia-y-salud/ciencia/2025/01/09/677ec58ae85ece925d8b4570.html) (El Mundo)
-
-- [Muere el científico Manuel Elkin Patarroyo, creador de vacuna contra la malaria](https://www.elperiodico.com/es/ciencia/20250109/muere-cientifico-manuel-elkin-patarroyo-creador-vacuna-malaria-113253226) (Elperiodico.com)
-
-- [Kampf gegen Krankheiten - Giftiges Sperma soll Mücken töten](https://www.bild.de/leben-wissen/giftiges-sperma-gentechnik-gegen-tropenkrankheiten-677f684575a660732be0464f) (Bild)
-
-- [How do mosquito repellents work?](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/what-is-the-science-behind-mosquito-repellents-and-how-do-they-work/articleshow/117076844.cms) (The Times of India)
-
-- [What is the science behind mosquito repellents and how do they work?](https://timesofindia.indiatimes.com/etimes/trending/what-is-the-science-behind-mosquito-repellents-and-how-do-they-work/articleshow/117076844.cms) (The Times of India)
-
-- [WHO prequalifies diagnostic test for P. vivax malaria relapse](https://www.premiumtimesng.com/health/health-news/765782-who-prequalifies-diagnostic-test-for-p-vivax-malaria-relapse.html) (Premium Times)
-
-- [Zanzare e parassiti, scoperto un metodo che li elimina più velocemente](https://tech.everyeye.it/notizie/zanzare-parassiti-scoperto-metodo-elimina-velocemente-769831.html) (Everyeye.it)
-
-- [Widespread release of translational repression across Plasmodium’s host-to-vector transmission event](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012823) (Plos.org)
-
-- [Scientists: "Toxic" semen could kill female mosquitoes, curb disease spread](https://www.cbsnews.com/news/mosquitoes-toxic-semen-could-curb-disease-spread-researchers/) (CBS News)
-
-- [A natural resource curse: the unintended effects of gold mining on malaria](http://eprints.lse.ac.uk/126624/) (Lse.ac.uk)
-
-- [Insecticide resistance mutations of Anopheles species in the Republic of Korea](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012748) (Plos.org)
-
-- [Human mobility and malaria risk in peri-urban and rural communities in the Peruvian Amazon](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012058) (Plos.org)
-
-- [Malian field isolates provide insight into Plasmodium malariae intra-erythrocytic development and invasion](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012790) (Plos.org)
-
-- [Cell wall components of gut commensal bacteria stimulate peritrophic matrix formation in malaria vector mosquitoes through activation of the IMD pathway](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002967) (Plos.org)
-
-- [Text (actual latters) change when saving to PDF from Word. WTF?](https://ask.metafilter.com/383833/Text-actual-latters-change-when-saving-to-PDF-from-Word-WTF) (Metafilter.com)
-
-## 25-2 (hpai)
-
-- [Protection zone in place after bird flu outbreak](https://www.bbc.com/news/articles/c07kexx9yd4o) (BBC News)
-
-- [Tesla offentliggør ny Model Y med skarpt design og længere rækkevidde – se den her](https://www.computerworld.dk/art/290039/tesla-offentliggoer-ny-model-y-med-skarpt-design-og-laengere-raekkevidde-se-den-her) (Computerworld.dk)
-
-- [Metas afskaffelse af faktatjekkere kan føre til bøder og forbud i EU](https://www.computerworld.dk/art/290038/metas-afskaffelse-af-faktatjekkere-kan-foere-til-boeder-og-forbud-i-eu) (Computerworld.dk)
-
-- [Bird flu case confirmed in Oakland County by Michigan Dept of Agriculture](https://www.fox2detroit.com/news/bird-flu-case-confirmed-oakland-county-michigan-dept-agriculture) (FOX 2 Detroit)
-
-- [Cat Foods Containing Bird Flu Virus Found in California, Oregon](https://legalinsurrection.com/2025/01/cat-foods-containing-bird-flu-virus-found-in-california-oregon/) (Legalinsurrection.com)
-
-- [Hackere hævder at have stjålet massive mængder af lokationsdata om smartphone-brugere](https://www.computerworld.dk/art/290014/hackere-haevder-at-have-stjaalet-massive-maengder-af-lokationsdata-om-smartphone-brugere) (Computerworld.dk)
-
-- [Texas officials say dead birds found in early January tested positive for bird flu](https://www.foxnews.com/health/texas-officials-say-dead-birds-found-early-january-tested-positive-bird-flu) (Fox News)
-
-- [Ni timers fortælling om dræber-klovnen Pennywise fra It: Tør du kigge med?](https://www.computerworld.dk/art/289944/ni-timers-fortaelling-om-draeber-klovnen-pennywise-fra-it-toer-du-kigge-med) (Computerworld.dk)
-
-- [Nvidias ser billion-stor forretningsmulighed i fysiske robotter: “Den største teknologi-industri, som verden endnu har set”](https://www.computerworld.dk/art/289989/nvidias-ser-billion-stor-forretningsmulighed-i-fysiske-robotter-den-stoerste-teknologi-industri-som-verden-endnu-har-set) (Computerworld.dk)
-
-- [Comparison of Contemporary and Historic Highly Pathogenic Avian Influenza A(H5N1) Virus Replication in Human Lung Organoids](https://wwwnc.cdc.gov/eid/article/31/2/24-1147_article) (Cdc.gov)
-
-- [Can eggs spread bird flu? What you must know](https://www.foxnews.com/health/can-eggs-spread-bird-flu-what-you-must-know) (Fox News)
-
-- [Madárinfluenzában halt meg egy ember az Egyesült Államokban](https://www.origo.hu/nagyvilag/2025/01/madarinfluenza-elhalalozas-usa-louisiana) (Origo.hu)
-
-- [Flere virksomheder ramt af datalæk i forbindelse med cyberangreb på Alles Lægehus](https://www.computerworld.dk/art/289968/flere-virksomheder-ramt-af-datalaek-i-forbindelse-med-cyberangreb-paa-alles-laegehus) (Computerworld.dk)
-
-- [Louisiana reports first bird flu-related human death in US](https://www.foxnews.com/health/louisiana-reports-first-bird-flu-related-human-death-us) (Fox News)
-
-- [State health officials report first avian flu death](https://www.katc.com/news/covering-louisiana/state-health-officials-report-first-avian-flu-death) (KATC Lafayette News)
-
-- [CEO for børsnoteret cybersikkerheds-selskab er død i en alder af 54](https://www.computerworld.dk/art/289965/ceo-for-boersnoteret-cybersikkerheds-selskab-er-doed-i-en-alder-af-54) (Computerworld.dk)
-
-- [Ny bog klæder ledere på til at navigere i data og kunstig intelligens](https://www.computerworld.dk/art/289914/ny-bog-klaeder-ledere-paa-til-at-navigere-i-data-og-kunstig-intelligens) (Computerworld.dk)
-
-- [California egg prices continue to rise amid bird flu outbreaks](http://en.people.cn/n3/2025/0106/c90000-20262239.html) (People.cn)
-
-## 25-2 (h5n1)
-
-- [TWiV 1182: Clinical update with Dr. Daniel Griffin](https://www.microbe.tv/twiv/twiv-1182/) (Microbe.tv)
-
-- [California child is presumed positive for bird flu | CNN](https://www.cnn.com/2025/01/10/health/california-child-bird-flu/index.html) (CNN)
-
-- [Presumptive bird flu case identified in San Francisco](https://www.nbcbayarea.com/news/local/san-francisco/presumptive-bird-flu-case/3757476/) (NBC Bay Area)
-
-- [San Francisco health officials say presumptive bird flu case found in child](https://www.cbsnews.com/sanfrancisco/news/bird-flu-sf-health-officials-say-case-found-in-child-h5n1/) (CBS News)
-
-- [Expert Systems and Traws Pharma Report Breakthrough in H5N1Bird Flu Antiviral Program](https://www.investing.com/news/press-releases/expert-systems-and-traws-pharma-report-breakthrough-in-h5n1bird-flu-antiviral-program-93CH-3807848) (Investing.com)
-
-- [Protection zone in place after bird flu outbreak](https://www.bbc.com/news/articles/c07kexx9yd4o) (BBC News)
-
-- [11 people being monitored after bird flu exposure at Oakland County park](https://www.clickondetroit.com/health/2025/01/10/11-people-being-monitored-after-bird-flu-exposure-at-oakland-county-park/) (WDIV ClickOnDetroit)
-
-- [Cambodge : Un homme meurt de la grippe aviaire après avoir mangé un poulet contaminé](https://www.20minutes.fr/monde/4133107-20250110-cambodge-homme-meurt-grippe-aviaire-apres-avoir-mange-poulet-contamine) (20 Minutes)
-
-- [How Bird Flu Is Affecting US Egg Shortages](https://www.newsweek.com/bird-flu-avian-influenza-egg-shortages-poultry-california-2013109) (Newsweek)
-
-- [TOMI Environmental Solutions Positioned to Address Growing Global Disease Threats with SteraMist Technology](https://www.globenewswire.com/news-release/2025/01/10/3007681/34752/en/TOMI-Environmental-Solutions-Positioned-to-Address-Growing-Global-Disease-Threats-with-SteraMist-Technology.html) (GlobeNewswire)
-
-- [ماذا نعرف عن فيروس "أإنفلونزا الطيور".. وهل سيتحوّل إلى جائحة؟](https://arabic.cnn.com/science-and-health/article/2025/01/10/bird-flu-h5n1-pandemic-risk-explained) (CNN)
-
-- [La FDA realizará pruebas en quesos de leche cruda para detectar gripe aviar](https://www.gastronomiaycia.com/la-fda-realizara-pruebas-en-quesos-de-leche-cruda-para-detectar-gripe-aviar/) (Gastronomiaycia.com)
-
-- [2 people sick, 9 monitored after H5N1 bird flu hits Oakland Co. flock](https://www.freep.com/story/news/health/2025/01/09/h5n1-bird-flu-oakland-county-backyard-flock-2-people-sick-9-others-monitored/77582797007/) (Detroit Free Press)
-
-- [How worried should we be about a bird flu pandemic?](https://www.newscientist.com/article/2463511-how-worried-should-we-be-about-a-bird-flu-pandemic/) (New Scientist)
-
-- [H5N1: no, no estamos a una mutación de sufrir una pandemia de gripe](https://www.abc.es/salud/enfermedades/h5n1-mutacion-sufrir-pandemia-gripe-20250109172849-nt.html) (Www.abc.es)
-
-- [Gripe Aviária. Todas as galinhas de exploração de Sintra mortas](https://ionline.sapo.pt/2025/01/09/gripe-aviaria-todas-as-galinhas-de-exploracao-de-sintra-mortas/) (Sapo.pt)
-
-- [Tierseuchen: Vogelgrippe in Geflügelhaltung im Kreis Schleswig-Flensburg](https://www.zeit.de/news/2025-01/09/vogelgrippe-in-gefluegelhaltung-im-kreis-schleswig-flensburg) (Die Zeit)
-
-- [Tierseuchen: Vogelgrippe in Geflügelhaltung im Kreis Schleswig-Flensburg](https://www.stern.de/gesellschaft/regional/hamburg-schleswig-holstein/tierseuchen--vogelgrippe-in-gefluegelhaltung-im-kreis-schleswig-flensburg-35367952.html) (STERN.de)
-
-- [Cat Foods Containing Bird Flu Virus Found in California, Oregon](https://legalinsurrection.com/2025/01/cat-foods-containing-bird-flu-virus-found-in-california-oregon/) (Legalinsurrection.com)
-
-- [Mónica García: silencio e inacción frente a la primera muerte por gripe aviar en EEUU](https://www.libertaddigital.com/ciencia-tecnologia/salud/2025-01-09/silencio-e-inaccion-frente-a-la-primera-muerte-por-gripe-aviar-7205006/) (Libertaddigital.com)
-
-- [هل العالم مستعد لمواجهة الجائحة المقبلة؟](https://www.aljazeera.net/health/2025/1/9/%d9%87%d9%84-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85-%d9%85%d8%b3%d8%aa%d8%b9%d8%af-%d9%84%d9%85%d9%88%d8%a7%d8%ac%d9%87%d8%a9-%d8%a7%d9%84%d8%ac%d8%a7%d8%a6%d8%ad%d8%a9) (Aljazeera.net)
-
-- [Infecciones por el virus de la influenza aviar A(H5N1) altamente patógena en humanos | New England Journal of Medicine [ENG]](https://www.meneame.net/m/actualidad/infecciones-virus-influenza-aviar-h5n1-altamente-patogena-new-of) (Meneame.net)
-
-- [चिकन खाने से तीन बाघ और एक तेंदुए की हुई मौत](https://www.aajtak.in/short-videos/video/three-tigers-and-one-leopard-died-after-eating-chicken-due-to-bird-flu-in-nagpur-maharashtra-2139703-2025-01-09) (Aajtak.in)
-
-- [नागपुर में चिकन खाने से हुई तीन बाघ और एक तेंदुए की मौत? बर्ड फ्लू की आशंका](https://www.aajtak.in/india/maharashtra/story/nagpur-news-three-tigers-and-leopard-died-by-bird-flu-after-eating-chicken-lclr-dskc-2139496-2025-01-09) (Aajtak.in)
-
-- [كيف يمكن أن تساعد الإنفلونزا العادية في الدفاع عنك إذا أصبت بإنفلونزا الطيور؟](https://www.aljazeera.net/health/2025/1/9/%d9%83%d9%8a%d9%81-%d9%8a%d9%85%d9%83%d9%86-%d8%a3%d9%86-%d8%aa%d8%b3%d8%a7%d8%b9%d8%af-%d8%a7%d9%84%d8%a5%d9%86%d9%81%d9%84%d9%88%d9%86%d8%b2%d8%a7-%d8%a7%d9%84%d8%b9%d8%a7%d8%af%d9%8a%d8%a9) (Aljazeera.net)
-
-- [Bird flu outbreak: Is H5N1 the next pandemic? What to know after the first death in the US, egg shortages and milk shortages](https://abc7chicago.com/post/bird-flu-outbreak-is-h5n1-pandemic-what-know-first-death-us-egg-shortages-milk/15780103/) (WLS-TV)
-
-- [始まった「移民逆流」…米国はトランプ、欧州は極右台頭で大量帰国 H5N1パンデミック発生でグローバル化にトドメ](https://kuromacyo.livedoor.biz/archives/2030361.html) (Livedoor.biz)
-
-- [Officials Report the First Human Death From Bird Flu in the U.S. Here's What to Know About the Virus](https://www.smithsonianmag.com/smart-news/officials-report-the-first-human-death-from-bird-flu-in-the-us-heres-what-to-know-about-the-virus-180985792/) (Smithsonian.com)
-
-- [What you need to know about bird flu](https://www.wbur.org/onpoint/2025/01/08/bird-flu-h5n1-what-to-know) (WBUR)
-
-- [Does the First U.S. Death Mean Bird Flu Is Getting More Dangerous?](https://time.com/7205507/bird-flu-virus-mutating-death/) (Time)
-
-- [Access Avian Influenza A (H5N1) Virus Sequences from the Current Outbreak at NCBI](https://ncbiinsights.ncbi.nlm.nih.gov/2025/01/08/avian-influenza-a-h5n1-virus-sequences-from-ncbi/) (National Institutes of Health)
-
-- [В Россию снова идет "свиной" грипп, опасный осложнениями](https://rg.ru/2025/01/08/tot-samyj.html) (Rg.ru)
-
-- [Surto de gripe aviária é detectado próximo a Lisboa, em Portugal](https://www.metropoles.com/saude/surto-de-gripe-aviaria-em-portugal) (Metropoles.com)
-
-- [Bird flu brought a B.C. teen close to death. Here's what we know about H5N1](https://nationalpost.com/news/canada/what-to-know-about-bird-flu) (National Post)
-
-- [España se sumará a la próxima compra conjunta europea de vacunas contra la gripe aviar](https://www.eleconomista.es/salud/noticias/13161973/01/25/espana-se-sumara-a-la-proxima-compra-conjunta-europea-de-vacunas-contra-la-gripe-aviar.html) (Eleconomista.es)
-
-- [As bird flu concerns grow, Alberta researchers hope to launch wastewater monitoring for livestock](https://www.cbc.ca/news/canada/calgary/bird-flu-alberta-wastewater-monitoring-livestock-1.7424983) (CBC News)
-
-- [Inquiétude autour d'une pandémie de grippe A: des chevaux contractent le virus sans qu'on s'en aperçoive](https://www.slate.fr/sante/inquietude-pandemie-grippe-a-chevaux-contractent-virus-sans-apercoive-aviaire-h5n1-oiseaux-asie-contamination-mongolie) (Slate.fr)
-
-- [Πέντε χρόνια μετά την εμφάνιση του Covid-19: Είναι προετοιμασμένος ο κόσμος να αντιμετωπίσει την επόμενη πανδημία;](https://www.alphafreepress.gr/2025/01/08/kosmos/pente-xronia-meta-tin-emfanisi-tou-covid-19-einai-proetoimasmenos-o-kosmos-na-antimetopisei-tin-epomeni-pandimia/) (Alphafreepress.gr)
-
-- [Sanidad confirma que España entrará en la próxima compra europea de vacunas frente a la gripe aviar](https://www.infosalus.com/actualidad/noticia-sanidad-confirma-espana-entrara-proxima-compra-europea-vacunas-frente-gripe-aviar-20250108115642.html) (Infosalus.com)
-
-- [Un deceso por influenza aviar en EU desata temor a una pandemia](https://www.jornada.com.mx/2025/01/08/politica/012n2pol) (Jornada.com.mx)
-
-- [始まった「移民逆流」…米国はトランプ、欧州は極右台頭で大量帰国 H5N1パンデミック発生でグローバル化にトドメ](https://itainews.com/archives/2043575.html) (Itainews.com)
-
-- [«Ο κόσμος δεν είναι προετοιμασμένος για άλλη πανδημία» – Ανησυχία 5 χρόνια μετά τον κορονοϊό](https://www.newsit.gr/kosmos/o-kosmos-den-einai-proetoimasmenos-gia-alli-pandimia-anisyxia-5-xronia-meta-ton-koronoio/4277444/) (Newsit.gr)
-
-- [Ποιες μετοχές ενισχύθηκαν μετά τον πρώτο θάνατο από γρίπη των πτηνών στις ΗΠΑ](https://www.naftemporiki.gr/finance/world/1875618/poies-metoches-enischythikan-meta-ton-proto-thanato-apo-gripi-ton-ptinon-stis-ipa/) (Naftemporiki.gr)
-
-- [美國首例H5N1禽流感死亡病例！CDC強調無「人傳人」風險，專家擔心病毒加速突變](https://www.storm.mg/article/5306135) (Storm.mg)
-
-- [ΠΟΥ: Είναι προετοιμασμένος ο κόσμος να αντιμετωπίσει την επόμενη πανδημία; Η απάντηση είναι όχι](https://www.skai.gr/news/health/pou-einai-proetoimasmenos-o-kosmos-na-antimetopisei-tin-epomeni-pandimia-einai-polyploko) (Skai.gr)
-
-- [First US Death From Mutated H5N1 Bird Flu Sparks Fears of New Pandemic](https://www.globalsecurity.org/security/library/news/2025/01/sec-250107-sputnik01.htm) (Globalsecurity.org)
-
-- [Avian flu risk still 'low' after first US patient dies from H5N1 virus: WHO](https://www.globalsecurity.org/security/library/news/2025/01/sec-250107-unnews01.htm) (Globalsecurity.org)
-
-- [Was bedeuten neuen Mutationen bei zwei Patienten?](https://www.faz.net/aktuell/wissen/medizin-ernaehrung/vogelgrippe-warum-infiziert-h5n1-immer-wieder-menschen-110214943.html) (Faz.net)
-
-- [Comparison of Contemporary and Historic Highly Pathogenic Avian Influenza A(H5N1) Virus Replication in Human Lung Organoids](https://wwwnc.cdc.gov/eid/article/31/2/24-1147_article) (Cdc.gov)
-
-- [España comprará vacunas de la gripe aviar tras dejar pasar la primera compra conjunta europea](https://www.abc.es/sociedad/espana-comprara-vacunas-gripe-aviar-tras-eludir-20250108210132-nt.html) (Www.abc.es)
-
-- [禽流感死亡首例＋新冠、流感病毒發威，美疫苗股飆](https://finance.technews.tw/2025/01/08/moderna-stock-jumps-amid-bird-flu-vaccine-hope-after-first-u-s-death/) (Technews.tw)
-
-- [美國首例人類感染禽流感死亡，評估公衛風險仍低](https://technews.tw/2025/01/08/first-human-death-from-avian-influenza-in-usa/) (Technews.tw)
-
-- [First Human Bird Flu Death in U.S. Reported—How Worried Should We Be?](https://www.scientificamerican.com/article/first-human-bird-flu-death-in-u-s-reported-how-worried-should-we-be/) (Scientific American)
-
-- [Surto de gripe das aves em Sintra é motivo para alarme? Sete perguntas e resposta sobre o H5N1](https://observador.pt/especiais/surto-de-gripe-das-aves-em-sintra-e-motivo-para-alarme-sete-perguntas-e-resposta-sobre-o-h5n1/) (Observador.pt)
-
-- [España sigue en riesgo muy bajo de gripe aviar tras la primera muerte notificada en EEUU](https://www.huffingtonpost.es/life/salud/espana-sigue-riesgo-gripe-aviar-primera-muerte-notificada-eeuu.html) (Huffingtonpost.es)
-
-- [First US H5N1 bird flu death, but wider risk low](https://www.dw.com/en/first-us-h5n1-bird-flu-death-but-wider-risk-low/a-71240505) (DW (English))
-
-- [Vogelgrippe: Was bedeutet der erste Todesfall durch H5N1 in den USA?](https://www.zeit.de/gesundheit/2025-01/vogelgrippe-virus-h5n1-usa-todesfall-infektion) (Die Zeit)
-
-- [Le notizie di scienza della settimana](https://www.internazionale.it/scienza/2025/01/07/aviaria-notizie-scienza) (Internazionale.it)
-
-- [Eerste sterfgeval door vogelgriepvirus in de VS](https://www.nrc.nl/nieuws/2025/01/07/eerste-sterfgeval-door-vogelgriepvirus-in-de-vs-a4878739) (Www.nrc.nl)
-
-- [Patient In Louisiana Becomes First Human Bird Flu Death Reported In The U.S.](https://brobible.com/culture/article/first-human-bird-flu-death-us-louisiana/) (BroBible)
-
-- [ABD’de kuş gribinden ilk ölüm: H5N1 virüsü geri döndü!](https://www.haber7.com/saglik/haber/3494420-abdde-kus-gribinden-ilk-olum-h5n1-virusu-geri-dondu) (Haber7.com)
-
-- [Influenza aviaria, c’è la prima vittima negli Stati Uniti: “Era affetta da altre patologie”](https://www.ilfattoquotidiano.it/2025/01/07/influenza-aviaria-prima-vittima-stati-uniti-altre-patologie/7827929/) (Ilfattoquotidiano.it)
-
-- [Se confirma la primera muerte humana por gripe aviar en Estados Unidos](https://aristeguinoticias.com/0701/mundo/se-confirma-la-primera-muerte-humana-por-gripe-aviar-en-estados-unidos/) (Aristeguinoticias.com)
-
-- [Gripe das aves detetada numa exploração em Sintra, mas sem registo de pessoas com "sintomas ou sinais" de infeção](https://expresso.pt/sociedade/saude/2025-01-07-gripe-das-aves-detetada-numa-exploracao-em-sintra-mas-sem-registo-de-pessoas-com-sintomas-ou-sinais-de-infecao-9a18e187) (Expresso.pt)
-
-- [When Was the Last Bird Flu Outbreak? Chart Shows Spike in Cases](https://www.newsweek.com/when-was-last-bird-flu-outbreak-chart-shows-spike-cases-2010709) (Newsweek)
-
-- [Bird flu: US reports first human death in person infected with H5N1](https://www.bmj.com/content/388/bmj.r28) (The BMJ)
-
-- [H5N1 breitet sich aus - Erster Mensch in USA an Vogelgrippe gestorben](https://www.bild.de/leben-wissen/wissenschaft/vogelgrippe-virus-h5n1-erster-todesfall-in-den-usa-677d09cf7e327551e938d4c1) (Bild)
-
-- [Krankheiten: Erstmals Mensch in USA nach Vogelgrippe-Infektion gestorben](https://www.tagesspiegel.de/wissen/krankheiten-erstmals-mensch-in-usa-nach-vogelgrippe-infektion-gestorben-12974488.html) (Der Tagesspiegel)
-
-- [Krankheiten: Erstmals Mensch in USA nach Vogelgrippe-Infektion gestorben](https://www.zeit.de/news/2025-01/07/erstmals-mensch-in-usa-nach-vogelgrippe-infektion-gestorben) (Die Zeit)
-
-- [Krankheiten: Erstmals Mensch in USA nach Vogelgrippe-Infektion gestorben](https://www.stern.de/panorama/wissen/krankheiten--erstmals-mensch-in-usa-nach-vogelgrippe-infektion-gestorben-35360834.html) (STERN.de)
-
-- [Γρίπη των πτηνών: Χαμηλός ο κίνδυνος για τον γενικό πληθυσμό, λέει ο ΠΟΥ μετά τον θάνατο ασθενή στις ΗΠΑ](https://www.protothema.gr/world/article/1584601/gripi-ton-ptinon-hamilos-o-kindunos-gia-ton-geniko-plithusmo-leei-o-pou-meta-ton-thanato-astheni-stis-ipa/) (Protothema.gr)
-
-- [Riscul de gripă aviară rămâne scăzut după primul deces în SUA, potrivit OMS](https://www.mediafax.ro/externe/riscul-de-gripa-aviara-ramane-scazut-dupa-primul-deces-in-sua-potrivit-oms-22636996) (Mediafax.ro)
-
-- [As US reports first human bird flu death, expert says virus is 'lethal'. Check symptoms, diagnosis and prevention tips](https://economictimes.indiatimes.com/news/international/global-trends/bird-flu-as-us-reports-first-human-bird-flu-death-expert-says-virus-is-lethal-check-symptoms-diagnosis-and-prevention-tips/articleshow/117025386.cms) (The Times of India)
-
-- [ΠΟΥ: Χαμηλά παραμένει ο κίνδυνος από τη γρίπη των πτηνών μετά τον πρώτο θάνατο ασθενούς στις ΗΠΑ](https://www.newsit.gr/kosmos/pou-xamila-paramenei-o-kindynos-apo-ti-gripi-ton-ptinon-meta-ton-proto-thanato-asthenous-stis-ipa/4276703/) (Newsit.gr)
-
-- [DGS diz não haver registo de pessoas infetadas na sequência do surto de gripe das aves em Sintra](https://observador.pt/2025/01/07/dgs-diz-nao-haver-registo-de-pessoas-infetadas-na-sequencia-do-surto-de-gripe-das-aves-em-sintra/) (Observador.pt)
-
-- [In den USA starb erstmals ein Mensch an einer H5N1-Infektion](https://www.welt.de/gesundheit/article255055538/Vogelgrippe-In-den-USA-ist-erstmals-ein-Mensch-an-einer-H5N1-Infektion-gestorben.html) (DIE WELT)
-
-- [Un homme a succombé à la grippe aviaire aux États-Unis : faut-il s’inquiéter ?](https://www.futura-sciences.com/sante/actualites/grippe-aviaire-homme-succombe-grippe-aviaire-etats-unis-faut-il-inquieter-118662/) (Futura)
-
-- [First US Death From Mutated H5N1 Bird Flu Sparks Fears of New Pandemic](https://sputnikglobe.com/20250107/first-us-death-from-mutated-h5n1-bird-flu-sparks-fears-of-a-new-pandemic-1121373675.html) (Sputnikglobe.com)
-
-- [Estados Unidos confirma su primera muerte humana por gripe aviar: un hombre de 65 años que criaba pollos](https://www.directoalpaladar.com/actualidad-1/estados-unidos-confirma-su-primera-muerte-humana-gripe-aviar-hombre-65-anos-que-criaba-pollos) (Directoalpaladar.com)
-
-- [ABD'de kuş gribine bağlı ilk can kaybı](https://www.haberturk.com/abd-de-kus-gribine-bagli-ilk-can-kaybi-haberler-3753828) (Haberturk.com)
-
-- [अमेरिका में बर्ड फ्लू से पहली मौत, कई दिनों से अस्पताल में भर्ती था 65 साल का व्यक्ति, हेल्थ डिपार्टमेंट ने बताया कैसे हुआ था संक्रमित](https://navbharattimes.indiatimes.com/world/america/us-bird-flu-human-death-case-first-human-death-from-h5n1-bird-flu-reported-in-louisiana-in-america/articleshow/117018982.cms) (The Times of India)
-
-- [Fågelinfluensan hotar hundratals djurarter](https://www.svd.se/a/3MzQkd/fagelinfluensan-hotar-hundratals-djurarter) (Svenska Dagbladet)
-
-- [Primul deces cauzat de gripa aviară în SUA](https://www.mediafax.ro/externe/primul-deces-cauzat-de-gripa-aviara-in-sua-22636598) (Mediafax.ro)
-
-- [В США зафиксирован первый случай смерти от птичьего гриппа](https://lenta.ru/news/2025/01/07/v-ssha-zafiksirovan-pervyy-sluchay-smerti-ot-ptichiego-grippa/) (Lenta)
-
-- [W USA pierwszy zgon z powodu ptasiej grypy](https://www.bankier.pl/wiadomosc/W-USA-pierwszy-zgon-z-powodu-ptasiej-grypy-8870098.html) (Bankier.pl)
-
-- [В США зафиксировали первую смерть от птичьего гриппа](https://lenta.ru/news/2025/01/07/v-ssha-zafiksirovali-pervuyu-smert-ot-ptichiego-grippa/) (Lenta)
-
-- [В США заявили о первой жертве птичьего гриппа H5N1](https://news.mail.ru/incident/64347935/) (Mail.ru)
-
-- [В США заявили о первой жертве птичьего гриппа H5N1](https://life.ru/p/1717516) (Life.ru)
-
-- [Πρώτος θάνατος ανθρώπου εξαιτίας της γρίπης των πτηνών στις ΗΠΑ](https://www.protothema.gr/world/article/1584358/protos-thanatos-anthropou-exaitias-tis-gripis-ton-ptinon-stis-ipa/) (Protothema.gr)
-
-- [Πρώτος θάνατος ανθρώπου εξαιτίας της γρίπης των πτηνών στις ΗΠΑ](https://www.skai.gr/news/world/protos-thanatos-anthropou-eksaitias-tis-gripis-ton-ptinon-stis-ipa) (Skai.gr)
-
-- [В США зафиксирована первая смерть от птичьего гриппа H5N1](https://news.mail.ru/society/64347810/) (Mail.ru)
-
-- [В США заявили о первой смерти от гриппа H5N1](https://korrespondent.net/world/4745707-v-ssha-zaiavyly-o-pervoi-smerty-ot-hryppa-H5N1) (Korrespondent.net)
-
-- [В США зафиксировали первую смерть человека от птичьего гриппа](https://news.mail.ru/incident/64347757/) (Mail.ru)
-
-- [First bird flu death reported in Louisiana of person exposed to wild birds, officials say](https://www.theblaze.com/news/bird-flu-death-louisiana-first) (TheBlaze)
-
-- [В США зафиксировали первую смерть человека от птичьего гриппа](https://tass.ru/obschestvo/22830975) (Tass.ru)
-
-- [Les Etats-Unis rapportent un premier décès humain lié à la grippe aviaire](https://www.lemonde.fr/planete/article/2025/01/07/les-etats-unis-rapportent-un-premier-deces-humain-lie-a-la-grippe-aviaire_6485204_3244.html) (Le Monde)
-
-- [Estados Unidos reportó la primera muerte por gripe aviar: tenía 65 años y padecía problemas médicos](https://www.lanacion.com.ar/estados-unidos/estados-unidos-reporto-la-primera-muerte-por-gripe-aviar-tenia-65-anos-y-padecia-problemas-medicos-nid06012025/) (La Nacion)
-
-- [У США зафіксували першу смерть від пташиного грипу H5N1](https://www.pravda.com.ua/news/2025/01/7/7492324/) (Pravda.com.ua)
-
-- [В США зафиксировали первую смерть от птичьего гриппа H5N1](https://www.pravda.com.ua/rus/news/2025/01/7/7492324/) (Pravda.com.ua)
-
-- [Louisiana registra 1ª morte relacionada à gripe aviária nos EUA, diz agência](https://www.infomoney.com.br/mundo/louisiana-registra-1a-morte-relacionada-a-gripe-aviaria-nos-eua-diz-agencia/) (InfoMoney)
-
-- [路易斯安那州报告美国首例禽流感死亡病例 尚无人际传播证据](https://www.cnbeta.com.tw/articles/tech/1469046.htm) (Cnbeta.com.tw)
-
-- [H5N1: USA melden ersten Todesfall nach Vogelgrippe-Infektion](https://www.zeit.de/gesundheit/2025-01/usa-melden-ersten-todesfall-nach-vogelgrippe-infektion) (Die Zeit)
-
-- [The First Human Bird Flu Death Has Occurred in the United States](https://www.cnet.com/health/medical/first-human-bird-flu-death-united-states/) (CNET)
-
-- [US records first human bird flu death](https://punchng.com/us-records-first-human-bird-flu-death/) (The Punch)
-
-- [1st deadly case of H5N1 bird flu reported in US](https://www.livescience.com/health/flu/1st-deadly-case-of-h5n1-bird-flu-reported-in-us) (Live Science)
-
-- [First U.S. bird flu death reported in Louisiana after severe case of H5N1](https://www.cbsnews.com/news/bird-flu-h5n1-death-first-us-louisiana/) (CBS News)
-
-- [US reports first human death related to bird flu](https://www.newscientist.com/article/2462815-us-reports-first-human-death-related-to-bird-flu/) (New Scientist)
-
-- [Louisiana reports 1st U.S. human death related to H5N1 avian flu](https://www.cbc.ca/news/health/h5n1-death-louisiana-1.7424277) (CBC News)
-
-- [The person with the first severe case of the H5N1 bird flu in the U.S. has died](https://qz.com/h5n1-bird-flu-death-us-1851733660) (Quartz India)
-
-- [Louisiana registra 1ª morte relacionada à gripe aviária nos EUA, diz agência](https://www.terra.com.br/noticias/mundo/louisiana-registra-1-morte-relacionada-a-gripe-aviaria-nos-eua-diz-agencia,089862ca6a25e3abd6362d6c276d2c88ilvjhy7o.html) (Terra.com.br)
-
-- [Premier décès humain lié à la grippe aviaire aux Etats-Unis](https://www.lavenir.net/actu/monde/2025/01/06/premier-deces-humain-lie-a-la-grippe-aviaire-aux-etats-unis-ICHFCWVL2VHEPIZ7S726ASFXAQ/) (Lavenir.net)
-
-- [Louisiana reports first bird flu-related death in U.S.](https://japantoday.com/category/world/louisiana-reports-first-bird-flu-related-death-in-us-state-agency-says1) (Japan Today)
-
-- [Krankheiten: Erstmals Mensch in USA nach Vogelgrippe-Infektion gestorben](https://www.tagesspiegel.de/wissen/krankheiten-erstmals-mensch-in-usa-nach-vogelgrippe-infektion-gestorben-12971140.html) (Der Tagesspiegel)
-
-- [Krankheiten: Erstmals Mensch in USA nach Vogelgrippe-Infektion gestorben](https://www.zeit.de/news/2025-01/06/erstmals-mensch-in-usa-nach-vogelgrippe-infektion-gestorben) (Die Zeit)
-
-- [Krankheiten: Erstmals Mensch in USA nach Vogelgrippe-Infektion gestorben](https://www.stern.de/panorama/wissen/krankheiten--erstmals-mensch-in-usa-nach-vogelgrippe-infektion-gestorben-35359158.html) (STERN.de)
-
-- [Santé. Premier décès humain lié à la grippe aviaire aux Etats-Unis](https://www.ledauphine.com/sante/2025/01/06/premier-deces-humain-lie-a-la-grippe-aviaire-aux-etats-unis) (Le Dauphiné Libéré)
-
-- [Bird Flu Patient in Louisiana Becomes First Human Death in Current H5N1 Outbreak](https://gizmodo.com/bird-flu-patient-in-louisiana-becomes-first-human-death-in-current-h5n1-outbreak-2000546656) (Gizmodo.com)
-
-- [America's first bird flu death reported in Louisiana](https://www.cnn.com/2025/01/06/health/bird-flu-death-louisiana/index.html) (CNN)
-
-- [U.S. records its first human bird flu death](https://www.nbcnews.com/health/health-news/first-human-bird-flu-death-us-louisiana-rcna186466) (NBC News)
-
-- [États-Unis: un premier décès lié à la grippe aviaire enregistré en Louisiane](https://www.bfmtv.com/international/amerique-nord/etats-unis/etats-unis-un-premier-deces-lie-a-la-grippe-aviaire-enregistre-en-louisiane_AN-202501060940.html) (BFMTV)
-
-- [Riasztó fordulat: Végzetes kimenetelű H5N1 fertőzés az USA-ban](https://www.portfolio.hu/gazdasag/20250106/riaszto-fordulat-vegzetes-kimenetelu-h5n1-fertozes-az-usa-ban-733007) (Portfolio.hu)
-
-- [Monday headlines: You still have made a choice](https://themorningnews.org/p/monday-headlines-you-still-have-made-a-choice) (Themorningnews.org)
-
-- [Virusvariante H5N1 festgestellt - Vogelgrippe an Gans in Frankfurt nachgewiesen](https://www.bild.de/regional/hessen/vogelgrippe-an-frankfurter-gans-nachgewiesen-677bfc250195b908c189bd12) (Bild)
-
-- [Tierseuche: Vogelgrippe an Frankfurter Gans nachgewiesen](https://www.zeit.de/news/2025-01/06/vogelgrippe-an-frankfurter-gans-nachgewiesen) (Die Zeit)
-
-- [First H5 Bird Flu Death Reported in United States](https://www.cdc.gov/media/releases/2025/m0106-h5-birdflu-death.html) (Cdc.gov)
-
-- [Estimating the benefits of a new flu drug (BXM)](https://www.lesswrong.com/posts/son5eEGymm4h856J9/estimating-the-benefits-of-a-new-flu-drug-bxm) (Lesswrong.com)
-
-- [Op-Ed: Collapsing health systems vs major flu outbreaks in US, UK and Europe](https://www.digitaljournal.com/world/op-ed-collapsing-health-systems-vs-major-flu-outbreaks-in-us-uk-and-europe/article) (Digital Journal)
-
-## 25-2 (dengue)
-
-- [Marketing faz bem, mas não resolve inflação, dengue, falta de gestão nem Congresso guloso](https://www.estadao.com.br/politica/eliane-cantanhede/marketing-faz-bem-mas-nao-resolve-inflacao-dengue-falta-de-gestao-nem-congresso-guloso/) (Estadao.com.br)
-
-- [Cosmopolitan, la nueva variante del virus del dengue que está en Costa Rica, ¿cómo es?](https://www.nacion.com/el-pais/cosmopolitan-la-nueva-variante-del-virus-del/ASP3LQPMR5HF5FAB63EDDDYTU4/story/) (Nacion.com)
-
-- [21 cidades de São Paulo decretam estado de emergência para dengue](https://www.infomoney.com.br/saude/21-cidades-de-sao-paulo-decretam-estado-de-emergencia-para-dengue/) (InfoMoney)
-
-- [Dengue foi mais letal que Covid em 2024; veja como se proteger](https://saude.ig.com.br/2025-01-11/dengue-matou-mais-que-covid-2024.html) (Ig.com.br)
-
-- [SP vive aumento de casos de dengue e 14 cidades decretam emergência](https://www.metropoles.com/sao-paulo/sp-vive-aumento-de-casos-de-dengue-e-14-cidades-decretam-emergencia) (Metropoles.com)
-
-- [Acre decreta situação de emergência em saúde pública após registrar mais de 4 mil casos de dengue](https://valor.globo.com/brasil/noticia/2025/01/11/acre-decreta-situao-de-emergncia-em-sade-pblica-aps-registrar-mais-de-4-mil-casos-de-dengue.ghtml) (Globo)
-
-- [Presos são escalados para atuar no combate à dengue no interior de São Paulo](https://valor.globo.com/brasil/noticia/2025/01/11/presos-so-escalados-para-atuar-no-combate-dengue-no-interior-de-so-paulo.ghtml) (Globo)
-
-- [Saúde anuncia novas tecnologias de combate à dengue em Minas Gerais](https://valor.globo.com/brasil/noticia/2025/01/10/saude-anuncia-novas-tecnologias-de-combate-a-dengue-em-minas-gerais.ghtml) (Globo)
-
-- [Dengue severity by serotype and immune status in 19 years of pediatric clinical studies in Nicaragua](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012811) (Plos.org)
-
-- [Associations of resuscitation fluid load, colloid-to-crystalloid infusion ratio and clinical outcomes in children with dengue shock syndrome](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012786) (Plos.org)
-
-- [Insect-specific RNA viruses detection in Field-Caught Aedes aegypti mosquitoes from Argentina using NGS technology](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012792) (Plos.org)
-
-- [Insurance query: Comprehensive home healthcare services for infectious diseases](https://www.thehindubusinessline.com/portfolio/personal-finance/insurance-query-comprehensive-home-healthcare-hhc-services-for-infectious-diseases/article69072100.ece) (BusinessLine)
-
-- [Dengue: 14 cidades de São Paulo decretam estado de emergência](https://saude.ig.com.br/2025-01-10/dengue-cidadessp-emergencia.html) (Ig.com.br)
-
-- [Seis estados terão incidência de dengue ainda maior em 2025](https://veja.abril.com.br/saude/seis-estados-terao-incidencia-de-dengue-ainda-maior-em-2025) (Abril.com.br)
-
-- [Kampf gegen Krankheiten - Giftiges Sperma soll Mücken töten](https://www.bild.de/leben-wissen/giftiges-sperma-gentechnik-gegen-tropenkrankheiten-677f684575a660732be0464f) (Bild)
-
-- [How do mosquito repellents work?](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/what-is-the-science-behind-mosquito-repellents-and-how-do-they-work/articleshow/117076844.cms) (The Times of India)
-
-- [What is the science behind mosquito repellents and how do they work?](https://timesofindia.indiatimes.com/etimes/trending/what-is-the-science-behind-mosquito-repellents-and-how-do-they-work/articleshow/117076844.cms) (The Times of India)
-
-- [Armadilhas capturam ovos do mosquito da dengue com “água de cerveja”](https://www.metropoles.com/distrito-federal/armadilhas-capturam-ovos-do-mosquito-da-dengue-com-agua-de-cerveja) (Metropoles.com)
-
-- [Variante incomum da dengue volta a circular e aumenta risco de novos surtos](https://veja.abril.com.br/saude/variante-incomum-da-dengue-volta-a-circular-e-aumenta-risco-de-novos-surtos) (Abril.com.br)
-
-- [Zanzare e parassiti, scoperto un metodo che li elimina più velocemente](https://tech.everyeye.it/notizie/zanzare-parassiti-scoperto-metodo-elimina-velocemente-769831.html) (Everyeye.it)
-
-- [DF terá mosquitos infectados com bactéria para combater a dengue](https://www.metropoles.com/distrito-federal/df-tera-mosquitos-infectados-com-bacteria-para-combater-a-dengue) (Metropoles.com)
-
-- ["Técnica do macho tóxico": esperma de mosquito pode ajudar a frear doenças, sugere estudo](https://ultimosegundo.ig.com.br/ciencia/2025-01-08/mosquito-esperma-toxico-frear-doencas.html) (Ig.com.br)
-
-- [Scientists: "Toxic" semen could kill female mosquitoes, curb disease spread](https://www.cbsnews.com/news/mosquitoes-toxic-semen-could-curb-disease-spread-researchers/) (CBS News)
-
-- [Des moustiques au «sperme toxique» : une potentielle solution pour freiner la transmission des maladies tropicales](https://www.liberation.fr/societe/sante/des-moustiques-au-sperme-toxique-une-potentielle-solution-pour-freiner-la-transmission-des-maladies-tropicales-20250108_SMMPPKSYHZAJPEURIWMHGQJKBM/) (Libération)
-
-- [More than 13,600 dengue cases reported in Singapore in 2024, a rise of over 36% from 2023](https://www.straitstimes.com/singapore/health/more-than-13600-local-dengue-cases-reported-in-2024-a-rise-of-over-36-from-2023) (The Straits Times)
-
-- [Uruguai irá combater dengue com mosquitos machos esterilizados](https://www.terra.com.br/noticias/mundo/uruguai-ira-combater-dengue-com-mosquitos-machos-esterilizados,acc98670d68e326dff571e673bb9246crwvs2nfq.html) (Terra.com.br)
-
-- [Prefeitura de SP diz que Ministério da Saúde não enviou vacinas suficientes contra dengue](https://valor.globo.com/brasil/noticia/2025/01/07/prefeitura-de-sp-diz-que-ministerio-da-saude-nao-enviou-vacinas-suficientes-contra-dengue.ghtml) (Globo)
-
-- [Dengue: quantidade de vacinas não é suficiente em SP, diz secretário](https://www.metropoles.com/sao-paulo/dengue-quantidade-vacinas-sp) (Metropoles.com)
-
-- [A cada 10 crianças, só duas completaram vacinação da dengue no DF](https://www.metropoles.com/distrito-federal/a-cada-10-criancas-so-duas-completaram-vacinacao-da-dengue-no-df) (Metropoles.com)
-
-- [Dengue no DF: casos caem 97%, mas pontos de descarte de lixo preocupam](https://www.metropoles.com/distrito-federal/dengue-no-df-casos-caem-97-na-primeira-semana-200-pontos-irregulares-de-descarte-de-lixo) (Metropoles.com)
-
-- [The growing challenge of arboviruses in Latin America: Dengue and Oropouche in focus](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012789) (Plos.org)
-
-- [Dengue cases down, but number of hotspots on the rise](https://www.thestar.com.my/news/nation/2025/01/07/dengue-cases-down-but-number-of-hotspots-on-the-rise) (The Star Online)
-
-- [Vacina da USP contra Covid-19 apresenta resultados promissores em testes com camundongos](https://veja.abril.com.br/saude/vacina-da-usp-contra-covid-19-apresenta-resultados-promissores-em-testes-com-camundongos) (Abril.com.br)
-
-- [7 dicas para usar o repelente de maneira correta](https://www.terra.com.br/vida-e-estilo/saude/7-dicas-para-usar-o-repelente-de-maneira-correta,d78537fe78fbeac5018427b7f606182fa6rc68ct.html) (Terra.com.br)
-
-- [Tiger Health Update: চেহারার এ কী হাল! শার্টলেস ছবি পোস্ট করে কী লিখলেন টাইগার?](https://bengali.indianexpress.com/entertainment/tiger-shroff-shares-shirtless-photo-after-recovering-dengue-8596020) (The Indian Express)
-
-- [Casos de dengue crescem em SC e vacinação ainda enfrenta desafios](https://www.metropoles.com/brasil/casos-de-dengue-crescem-em-sc-e-vacinacao-ainda-enfrenta-desafios) (Metropoles.com)
-
-- [Number of dengue cases drop, one death recorded in EPI week 52](https://www.thestar.com.my/news/nation/2025/01/06/number-of-dengue-cases-drop-one-death-recorded-in-epi-week-52) (The Star Online)
-
-- [Migrantes que cruzan el Darién, con salud comprometida: OPS](https://www.jornada.com.mx/2025/01/06/politica/006n2pol) (Jornada.com.mx)
-
-- [Guerrero cierra el 2024 con casi siete mil casos de dengue y 61 muertes](https://www.excelsior.com.mx/nacional/dengue-guerrero-cierra-el-2024-con-casi-siete-mil-casos-y-61-muertes/1692712) (Excelsior.com.mx)
-
-## 25-2 (chikungunya)
-
-- [Nothing Stops Samantha's Workout Session, Not Even Chikungunya](https://www.ndtv.com/entertainment/nothing-stops-samantha-ruth-prabhus-workout-session-not-even-chikungunya-the-joint-pains-and-all-7448742) (NDTV News)
-
-- [Saúde anuncia novas tecnologias de combate à dengue em Minas Gerais](https://valor.globo.com/brasil/noticia/2025/01/10/saude-anuncia-novas-tecnologias-de-combate-a-dengue-em-minas-gerais.ghtml) (Globo)
-
-- [Insect-specific RNA viruses detection in Field-Caught Aedes aegypti mosquitoes from Argentina using NGS technology](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012792) (Plos.org)
-
-- [Des moustiques au «sperme toxique» : une potentielle solution pour freiner la transmission des maladies tropicales](https://www.liberation.fr/societe/sante/des-moustiques-au-sperme-toxique-une-potentielle-solution-pour-freiner-la-transmission-des-maladies-tropicales-20250108_SMMPPKSYHZAJPEURIWMHGQJKBM/) (Libération)
-
-- [The growing challenge of arboviruses in Latin America: Dengue and Oropouche in focus](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012789) (Plos.org)
-
-- [Continuous detection of Chikungunya Virus in a passive surveillance system in southern Thailand, 2012–2019](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012776) (Plos.org)
-
-- [7 dicas para usar o repelente de maneira correta](https://www.terra.com.br/vida-e-estilo/saude/7-dicas-para-usar-o-repelente-de-maneira-correta,d78537fe78fbeac5018427b7f606182fa6rc68ct.html) (Terra.com.br)
