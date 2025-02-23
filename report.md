@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 9
-- **Last harvest:** 2025-02-23 07:06
-- **Most recent article:** 2025-02-22 06:54:12
+- **New articles in last harvest:** 7
+- **Last harvest:** 2025-02-23 19:05
+- **Most recent article:** 2025-02-22 18:38:19
 
 ---
 
@@ -12,11 +12,11 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-3 | 25-4 | 25-5 | 25-6 | 25-7 | 25-8 | Total |
 |--|-|-|-|-|-|-|-|
-| h5n1 | 63 | 31 | 51 | 72 | 55 | 53 | 325 |
-| dengue | 29 | 37 | 24 | 34 | 37 | 56 | 217 |
-| measles | 9 | 10 | 13 | 24 | 72 | 71 | 199 |
+| h5n1 | 59 | 31 | 51 | 72 | 55 | 54 | 322 |
+| dengue | 28 | 37 | 24 | 34 | 37 | 57 | 217 |
+| measles | 9 | 10 | 13 | 24 | 72 | 75 | 203 |
 | mpox | 34 | 23 | 22 | 28 | 18 | 15 | 140 |
-| malaria | 18 | 19 | 30 | 25 | 12 | 6 | 110 |
+| malaria | 18 | 19 | 30 | 25 | 12 | 7 | 111 |
 | hpai | 12 | 11 | 6 | 3 | 9 | 5 | 46 |
 | chikungunya | 7 | 10 | 9 | 8 | 5 | 3 | 42 |
 | meningitis | 2 | 3 | 8 | 2 | 12 | 11 | 38 |
@@ -120,6 +120,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-8 (measles)
 
+- [Texas Measles Outbreak Grows](https://politicalwire.com/2025/02/22/texas-measles-outbreak-grows/) (Politicalwire.com)
+
+- [What to know about vaccine booster shots as measles spreads in Texas](https://www.nbcnews.com/health/health-news/childhood-vaccines-adults-booster-shots-measles-texas-what-know-rcna193197) (NBC News)
+
 - [Texas measles outbreak grows to 90 cases, largest in over 30 years - NewsBreak](https://www.newsbreak.com/share/3823516558645-texas-measles-outbreak-grows-to-90-cases-largest-in-over-30-years?_f=app_share&amp;pd=0HUXmv6m&amp;lang=en_US&amp;send_time=1740175800&amp;trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.7.0.65%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_model_exp_25q1-v7%2Cns_foryou_blend_exp_25q1-v2%2Cns_foryou_recall_exp_25q1-v4%2Cns_foryou_rank_exp_25q1-v1%2Cns_push_exp_rt_bucketv12-v7&amp;s=i2) (Newsbreak.com)
 
 - [Measles Cases Are Rising Nationwide. Do Adults Need a Vaccine Booster?](https://www.kqed.org/news/12028139/measles-cases-are-rising-nationwide-do-adults-need-a-vaccine-booster) (KQED)
@@ -130,6 +134,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles outbreaks rise to nearly 100 cases between Texas and New Mexico. Here’s what you should know](https://www.bostonherald.com/2025/02/21/measles-cases/) (Boston Herald)
 
+- [RFK Jr. Adviser: Kennedy ‘Not Concerned With Measles'](https://crooksandliars.com/2025/02/rfk-jr-adviser-kennedy-not-concerned) (Crooksandliars.com)
+
 - [Texas Measles Outbreak Nears 100 Cases, Raising Concerns About Undetected Spread](https://kffhealthnews.org/news/article/texas-measles-outbreak-escalates-undetected-cases-vaccinations/) (Kffhealthnews.org)
 
 - [Measles cases are rising in the U.S. Do adults need a vaccine booster?](https://www.npr.org/sections/shots-health-news/2025/02/21/nx-s1-5304458/measles-vaccine-booster-health) (NPR)
@@ -139,6 +145,8 @@ Source: [News API](https://newsapi.org/)
 - [Peel Public Health warns of measles exposure at Brampton clinic](https://www.cbc.ca/news/canada/toronto/peel-public-health-measles-exposure-brampton-1.7464503) (CBC News)
 
 - [As measles cases rise, it's not just kids who need vaccines. Some adults do too](https://www.npr.org/2025/02/20/nx-s1-5302542/as-measles-cases-rise-its-not-just-kids-who-need-vaccines-some-adults-do-too) (NPR)
+
+- [Measles Outbreak Spreads Across Texas and New Mexico, Hundreds at Risk](https://coed.com/2025/02/20/measles-outbreak-spreads-across-texas-and-new-mexico-hundreds-at-risk/) (Coed.com)
 
 - [Vaccination efforts increased in parts of Ontario as measles outbreaks grow](https://www.cbc.ca/news/canada/london/vaccination-efforts-increased-in-parts-of-ontario-as-measles-outbreaks-grow-1.7464033) (CBC News)
 
@@ -264,6 +272,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-8 (malaria)
 
+- [À Anvers, on manipule les moustiques génétiquement, pour lutter contre malaria](https://www.lavenir.net/actu/societe/2025/02/22/a-anvers-on-manipule-les-moustiques-genetiquement-pour-lutter-contre-malaria-7LMRSY6K5JDPJN3TQVCFZGRIAY/) (Lavenir.net)
+
 - [Promising new class of antimalarial drugs discovered](https://www.sciencedaily.com/releases/2025/02/250220122926.htm) (Science Daily)
 
 - [New | phs003694.v1.p1 | Blood Group Genotypes and Phenotypes in Omani Blood Donors and Its Links With Susceptibility to Malaria](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs003694.v1.p1) (National Institutes of Health)
@@ -295,6 +305,8 @@ Source: [News API](https://newsapi.org/)
 - [Bird Flu Cases in Household Cats Spark Raw Pet Food Warning](https://www.newsweek.com/bird-flu-cases-household-cat-raw-pet-food-warning-2031986) (Newsweek)
 
 ## 25-8 (h5n1)
+
+- [In Origins of Bird Flu, a Potential Red Flag](https://www.newser.com/story/364423/in-origins-of-bird-flu-a-potential-red-flag.html) (Newser)
 
 - [Cats Are Getting Bird Flu From Human Dairy Workers?](https://www.shtfplan.com/headline-news/cats-are-getting-bird-flu-from-human-dairy-workers) (Shtfplan.com)
 
@@ -403,6 +415,8 @@ Source: [News API](https://newsapi.org/)
 - [Pet Cats Are Contracting Bird Flu - Videos from The Weather Channel](https://weather.com/health/cold-flu/video/pet-cats-bird-flu-humans) (The Weather Channel)
 
 ## 25-8 (dengue)
+
+- [Za pět komárů 41 haléřů. Filipínci vypsali odměnu na moskyty přenášející horečku dengue](https://www.novinky.cz/clanek/koktejl-za-pet-komaru-41-haleru-filipinci-vypsali-odmenu-na-moskyty-prenasejici-horecku-dengue-40510089) (Novinky.cz)
 
 - [Com 303 casos para cada 100 mil habitantes, SP se torna epidêmico para dengue](https://valor.globo.com/brasil/noticia/2025/02/21/com-303-casos-para-cada-100-mil-habitantes-sp-se-torna-epidemico-para-dengue.ghtml) (Globo)
 
@@ -2512,14 +2526,6 @@ Source: [News API](https://newsapi.org/)
 
 - [UNAM alerta sobre virus de influenza H5N1 y recomienda vigilarlo](https://www.milenio.com/politica/unam-recomienda-vigilar-virus-causante-de-la-gripe-aviar) (Milenio)
 
-- [First US human death from bird flu is more serious than you may think](https://newatlas.com/infectious-diseases/first-us-human-death-bird-flu/) (New Atlas)
-
-- [Homem de 28 anos do Camboja morre de gripe aviária. País apura caso](https://www.metropoles.com/saude/homem-28-camboja-morre-gripe-aviaria) (Metropoles.com)
-
-- [नोरोव्हायरस, बर्ड फ्लू की कोरोना... हिवाळ्यात कोणता जास्त धोकादायक आणि तो कसा टाळायचा?](https://www.lokmat.com/sakhi/health/lifestyle-diseases/health-tips-norovirus-vs-bird-flu-vs-covid-19-which-is-more-dangerous-in-winter-a-a597/) (Lokmat.com)
-
-- [Llama la UNAM a vigilar la evolución de la gripe aviar](https://www.jornada.com.mx/2025/01/12/sociedad/027n2soc) (Jornada.com.mx)
-
 ## 25-3 (dengue)
 
 - [Dengue: como usar o hipoclorito de sódio no combate ao Aedes aegypti](https://casa.abril.com.br/minha-casa/dengue-como-usar-o-hipoclorito-de-sodio-no-combate-ao-aedes-aegypti) (Abril.com.br)
@@ -2577,8 +2583,6 @@ Source: [News API](https://newsapi.org/)
 - [Dengue: SP tem 21 cidades em situação de emergência](https://www.terra.com.br/vida-e-estilo/saude/dengue-sp-tem-21-cidades-em-situacao-de-emergencia,cb9f0c74f749309f7f6f2dc0e1b1bc085pm97v74.html) (Terra.com.br)
 
 - [As dengue cases rise, researchers points to a simple solution: trash cleanup](https://news.stanford.edu/stories/2025/01/waste-reduction-a-key-defense-against-rising-dengue-cases) (Stanford.edu)
-
-- [Saúde falha em pontos sensíveis e fragiliza a situação de Nísia Trindade](https://veja.abril.com.br/politica/saude-falha-em-pontos-sensiveis-e-fragiliza-a-situacao-de-nisia-trindade) (Abril.com.br)
 
 ## 25-3 (chikungunya)
 
