@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
 - **New articles in last harvest:** 9
-- **Last harvest:** 2025-02-24 07:07
-- **Most recent article:** 2025-02-23 05:21:46
+- **Last harvest:** 2025-02-24 19:06
+- **Most recent article:** 2025-02-23 18:00:43
 
 ---
 
@@ -12,9 +12,9 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-3 | 25-4 | 25-5 | 25-6 | 25-7 | 25-8 | 25-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| h5n1 | 63 | 31 | 51 | 72 | 55 | 54 | 0 | 326 |
-| dengue | 29 | 37 | 24 | 34 | 37 | 57 | 0 | 218 |
-| measles | 9 | 10 | 13 | 24 | 72 | 83 | 0 | 211 |
+| h5n1 | 59 | 31 | 51 | 72 | 55 | 54 | 4 | 326 |
+| dengue | 28 | 37 | 24 | 34 | 37 | 57 | 1 | 218 |
+| measles | 9 | 10 | 13 | 24 | 72 | 83 | 4 | 215 |
 | mpox | 34 | 23 | 22 | 28 | 18 | 15 | 0 | 140 |
 | malaria | 18 | 19 | 30 | 25 | 12 | 7 | 0 | 111 |
 | hpai | 12 | 11 | 6 | 3 | 9 | 5 | 0 | 46 |
@@ -22,9 +22,9 @@ By US epiweek (i.e. Sunday to Saturday)
 | meningitis | 2 | 3 | 8 | 2 | 12 | 11 | 0 | 38 |
 | rabies | 6 | 7 | 6 | 4 | 5 | 4 | 0 | 32 |
 | zika | 5 | 2 | 8 | 6 | 2 | 6 | 0 | 29 |
+| yersinia | 2 | 0 | 0 | 0 | 5 | 0 | 2 | 9 |
 | pertussis | 0 | 1 | 0 | 3 | 3 | 2 | 0 | 9 |
 | typhoid | 4 | 0 | 0 | 2 | 3 | 0 | 0 | 9 |
-| yersinia | 2 | 0 | 0 | 0 | 5 | 0 | 1 | 8 |
 | leptospirosis | 1 | 2 | 0 | 1 | 0 | 2 | 0 | 6 |
 
 
@@ -34,7 +34,33 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-9 (yersinia)
 
+- [The medieval house might have been built to specifications approved by a rodent council](https://www.isegoria.net/2025/02/the-medieval-house-might-have-been-built-to-specifications-approved-by-a-rodent-council/) (Isegoria.net)
+
 - [ניסוי הכלים של המגפה השחורה בסקנדינביה](https://www.ynet.co.il/environment-science/article/rj00xhnlcjx) (Ynet)
+
+## 25-9 (measles)
+
+- [Gottlieb "very concerned" about Texas measles outbreak: "I think this will spread"](https://www.cbsnews.com/video/gottlieb-very-concerned-about-texas-measles-outbreak-i-think-this-will-spread/) (CBS News)
+
+- [TWiV 1195: Dickson Despommier, parasitologist without borders](https://www.microbe.tv/twiv/twiv-1195/) (Microbe.tv)
+
+- [Measles: A resurgent threat in Canada](https://theconversation.com/measles-a-resurgent-threat-in-canada-249932) (The Conversation Africa)
+
+- [‘Deadly consequences’: Health agencies reel from thousands of job cuts while critical research grants remain on hold | CNN](https://www.cnn.com/2025/02/23/health/public-health-job-cuts/index.html) (CNN)
+
+## 25-9 (h5n1)
+
+- [USDA Confirms Bird Flu In Rats](https://www.shtfplan.com/headline-news/usda-confirms-bird-flu-in-rats) (Shtfplan.com)
+
+- [Gripe H5N1 será a nova ameaça depois da COVID-19?](https://pplware.sapo.pt/informacao/gripe-h5n1-sera-a-nova-ameaca-depois-da-covid-19/) (Sapo.pt)
+
+- [TWiV 1195: Dickson Despommier, parasitologist without borders](https://www.microbe.tv/twiv/twiv-1195/) (Microbe.tv)
+
+- [Francisco George: gripe H5N1 é ameaça de nova epidemia no horizonte](https://observador.pt/2025/02/23/francisco-george-gripe-h5n1-e-ameaca-de-nova-epidemia-no-horizonte/) (Observador.pt)
+
+## 25-9 (dengue)
+
+- [Philippine village battles dengue by offering bounties for mosquitos — dead or alive](https://www.voanews.com/a/philippine-village-battles-dengue-by-offering-bounties-for-mosquitos-dead-or-alive/7984215.html) (VOA News)
 
 ## 25-8 (zika)
 
@@ -2546,14 +2572,6 @@ Source: [News API](https://newsapi.org/)
 
 - [UNAM alerta sobre virus de influenza H5N1 y recomienda vigilarlo](https://www.milenio.com/politica/unam-recomienda-vigilar-virus-causante-de-la-gripe-aviar) (Milenio)
 
-- [First US human death from bird flu is more serious than you may think](https://newatlas.com/infectious-diseases/first-us-human-death-bird-flu/) (New Atlas)
-
-- [Homem de 28 anos do Camboja morre de gripe aviária. País apura caso](https://www.metropoles.com/saude/homem-28-camboja-morre-gripe-aviaria) (Metropoles.com)
-
-- [नोरोव्हायरस, बर्ड फ्लू की कोरोना... हिवाळ्यात कोणता जास्त धोकादायक आणि तो कसा टाळायचा?](https://www.lokmat.com/sakhi/health/lifestyle-diseases/health-tips-norovirus-vs-bird-flu-vs-covid-19-which-is-more-dangerous-in-winter-a-a597/) (Lokmat.com)
-
-- [Llama la UNAM a vigilar la evolución de la gripe aviar](https://www.jornada.com.mx/2025/01/12/sociedad/027n2soc) (Jornada.com.mx)
-
 ## 25-3 (dengue)
 
 - [Dengue: como usar o hipoclorito de sódio no combate ao Aedes aegypti](https://casa.abril.com.br/minha-casa/dengue-como-usar-o-hipoclorito-de-sodio-no-combate-ao-aedes-aegypti) (Abril.com.br)
@@ -2611,8 +2629,6 @@ Source: [News API](https://newsapi.org/)
 - [Dengue: SP tem 21 cidades em situação de emergência](https://www.terra.com.br/vida-e-estilo/saude/dengue-sp-tem-21-cidades-em-situacao-de-emergencia,cb9f0c74f749309f7f6f2dc0e1b1bc085pm97v74.html) (Terra.com.br)
 
 - [As dengue cases rise, researchers points to a simple solution: trash cleanup](https://news.stanford.edu/stories/2025/01/waste-reduction-a-key-defense-against-rising-dengue-cases) (Stanford.edu)
-
-- [Saúde falha em pontos sensíveis e fragiliza a situação de Nísia Trindade](https://veja.abril.com.br/politica/saude-falha-em-pontos-sensiveis-e-fragiliza-a-situacao-de-nisia-trindade) (Abril.com.br)
 
 ## 25-3 (chikungunya)
 
