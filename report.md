@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 7
-- **Last harvest:** 2025-02-23 19:05
-- **Most recent article:** 2025-02-22 18:38:19
+- **New articles in last harvest:** 9
+- **Last harvest:** 2025-02-24 07:07
+- **Most recent article:** 2025-02-23 05:21:46
 
 ---
 
@@ -10,27 +10,31 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 25-3 | 25-4 | 25-5 | 25-6 | 25-7 | 25-8 | Total |
-|--|-|-|-|-|-|-|-|
-| h5n1 | 59 | 31 | 51 | 72 | 55 | 54 | 322 |
-| dengue | 28 | 37 | 24 | 34 | 37 | 57 | 217 |
-| measles | 9 | 10 | 13 | 24 | 72 | 75 | 203 |
-| mpox | 34 | 23 | 22 | 28 | 18 | 15 | 140 |
-| malaria | 18 | 19 | 30 | 25 | 12 | 7 | 111 |
-| hpai | 12 | 11 | 6 | 3 | 9 | 5 | 46 |
-| chikungunya | 7 | 10 | 9 | 8 | 5 | 3 | 42 |
-| meningitis | 2 | 3 | 8 | 2 | 12 | 11 | 38 |
-| rabies | 6 | 7 | 6 | 4 | 5 | 4 | 32 |
-| zika | 5 | 2 | 8 | 6 | 2 | 6 | 29 |
-| pertussis | 0 | 1 | 0 | 3 | 3 | 2 | 9 |
-| typhoid | 4 | 0 | 0 | 2 | 3 | 0 | 9 |
-| yersinia | 2 | 0 | 0 | 0 | 5 | 0 | 7 |
-| leptospirosis | 1 | 2 | 0 | 1 | 0 | 2 | 6 |
+| Disease | 25-3 | 25-4 | 25-5 | 25-6 | 25-7 | 25-8 | 25-9 | Total |
+|--|-|-|-|-|-|-|-|-|
+| h5n1 | 63 | 31 | 51 | 72 | 55 | 54 | 0 | 326 |
+| dengue | 29 | 37 | 24 | 34 | 37 | 57 | 0 | 218 |
+| measles | 9 | 10 | 13 | 24 | 72 | 83 | 0 | 211 |
+| mpox | 34 | 23 | 22 | 28 | 18 | 15 | 0 | 140 |
+| malaria | 18 | 19 | 30 | 25 | 12 | 7 | 0 | 111 |
+| hpai | 12 | 11 | 6 | 3 | 9 | 5 | 0 | 46 |
+| chikungunya | 7 | 10 | 9 | 8 | 5 | 3 | 0 | 42 |
+| meningitis | 2 | 3 | 8 | 2 | 12 | 11 | 0 | 38 |
+| rabies | 6 | 7 | 6 | 4 | 5 | 4 | 0 | 32 |
+| zika | 5 | 2 | 8 | 6 | 2 | 6 | 0 | 29 |
+| pertussis | 0 | 1 | 0 | 3 | 3 | 2 | 0 | 9 |
+| typhoid | 4 | 0 | 0 | 2 | 3 | 0 | 0 | 9 |
+| yersinia | 2 | 0 | 0 | 0 | 5 | 0 | 1 | 8 |
+| leptospirosis | 1 | 2 | 0 | 1 | 0 | 2 | 0 | 6 |
 
 
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 25-9 (yersinia)
+
+- [ניסוי הכלים של המגפה השחורה בסקנדינביה](https://www.ynet.co.il/environment-science/article/rj00xhnlcjx) (Ynet)
 
 ## 25-8 (zika)
 
@@ -120,7 +124,13 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-8 (measles)
 
+- [What to know about the measles outbreak in West Texas as cases rise to 90](https://www.pbs.org/newshour/health/what-to-know-about-the-measles-outbreak-in-west-texas-as-cases-rise-to-90) (PBS)
+
+- [US measles outbreak leaves nearly 100 ill in Texas and New Mexico](https://www.bbc.com/news/articles/cq8yvg5359po) (BBC News)
+
 - [Texas Measles Outbreak Grows](https://politicalwire.com/2025/02/22/texas-measles-outbreak-grows/) (Politicalwire.com)
+
+- [Your questions about measles, answered | CNN](https://www.cnn.com/2025/02/22/health/your-measles-questions-answered/index.html) (CNN)
 
 - [What to know about vaccine booster shots as measles spreads in Texas](https://www.nbcnews.com/health/health-news/childhood-vaccines-adults-booster-shots-measles-texas-what-know-rcna193197) (NBC News)
 
@@ -134,13 +144,21 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles outbreaks rise to nearly 100 cases between Texas and New Mexico. Here’s what you should know](https://www.bostonherald.com/2025/02/21/measles-cases/) (Boston Herald)
 
+- [Texas Measles outbreak 2025: Cases nearly double over past week](https://www.fox4news.com/news/texas-measles-outbreak-2025-cases-nearly-double-over-past-week) (FOX 4 News)
+
+- [Texas measles outbreak grows to 90 cases, largest in over 30 years](https://abcnews.go.com/Health/texas-measles-outbreak-grows-90-cases-unvaccinated-people/story?id=119041244) (ABC News)
+
 - [RFK Jr. Adviser: Kennedy ‘Not Concerned With Measles'](https://crooksandliars.com/2025/02/rfk-jr-adviser-kennedy-not-concerned) (Crooksandliars.com)
 
 - [Texas Measles Outbreak Nears 100 Cases, Raising Concerns About Undetected Spread](https://kffhealthnews.org/news/article/texas-measles-outbreak-escalates-undetected-cases-vaccinations/) (Kffhealthnews.org)
 
 - [Measles cases are rising in the U.S. Do adults need a vaccine booster?](https://www.npr.org/sections/shots-health-news/2025/02/21/nx-s1-5304458/measles-vaccine-booster-health) (NPR)
 
+- [New Mexico reports Texas measles outbreak has now crossed its border](https://www.foxnews.com/health/new-mexico-reports-texas-measles-outbreak-has-now-crossed-its-border) (Fox News)
+
 - [Vaccine choice = more measles infection](https://www.healthcare-economist.com/2025/02/20/vaccine-choice-more-measles-infection/) (Healthcare-economist.com)
+
+- [CDC layoffs strike deeply at its ability to respond to the current flu, norovirus and measles outbreaks and other public health emergencies](https://www.newsbreak.com/share/3820831359391-cdc-layoffs-strike-deeply-at-its-ability-to-respond-to-the-current-flu-norovirus-and-measles-outbreaks-and-other-public-health-emergencies?_f=app_share&amp;pd=0FpJ4fzG&amp;lang=en_US&amp;send_time=1740106730&amp;trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.7.0.65%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_recall_exp_25q1-v5%2Cns_foryou_model_exp_25q1-v9%2Cns_foryou_rank_exp_25q1-control%2Cns_foryou_blend_exp_25q1-v6%2Cns_push_exp_rt_bucketv12-v5&amp;s=i2) (Newsbreak.com)
 
 - [Peel Public Health warns of measles exposure at Brampton clinic](https://www.cbc.ca/news/canada/toronto/peel-public-health-measles-exposure-brampton-1.7464503) (CBC News)
 
@@ -157,6 +175,8 @@ Source: [News API](https://newsapi.org/)
 - [Listen: Why measles is back in the US and what can be done](https://www.futurity.org/measles-vaccine-hesitancy-3270022/) (Futurity: Research News)
 
 - [I'm a pediatrician working in the middle of Texas's measles outbreak. Here's what I want parents to know.](https://www.businessinsider.com/pediatrician-working-in-the-middle-of-texass-measles-outbreak-2025-2) (Business Insider)
+
+- [Dr. Gupta on measles outbreak: ‘One of the most infectious viruses out there’ | CNN](https://www.cnn.com/2025/02/20/health/video/dr-sanjay-gupta-measles-outbreak-digvid) (CNN)
 
 - [Measles Outbreak Running Wild In Texas And New Mexico With Hundreds Possibly Infected](https://brobible.com/culture/article/measles-outbreak-texas-new-mexico-infected/) (BroBible)
 
@@ -2526,6 +2546,14 @@ Source: [News API](https://newsapi.org/)
 
 - [UNAM alerta sobre virus de influenza H5N1 y recomienda vigilarlo](https://www.milenio.com/politica/unam-recomienda-vigilar-virus-causante-de-la-gripe-aviar) (Milenio)
 
+- [First US human death from bird flu is more serious than you may think](https://newatlas.com/infectious-diseases/first-us-human-death-bird-flu/) (New Atlas)
+
+- [Homem de 28 anos do Camboja morre de gripe aviária. País apura caso](https://www.metropoles.com/saude/homem-28-camboja-morre-gripe-aviaria) (Metropoles.com)
+
+- [नोरोव्हायरस, बर्ड फ्लू की कोरोना... हिवाळ्यात कोणता जास्त धोकादायक आणि तो कसा टाळायचा?](https://www.lokmat.com/sakhi/health/lifestyle-diseases/health-tips-norovirus-vs-bird-flu-vs-covid-19-which-is-more-dangerous-in-winter-a-a597/) (Lokmat.com)
+
+- [Llama la UNAM a vigilar la evolución de la gripe aviar](https://www.jornada.com.mx/2025/01/12/sociedad/027n2soc) (Jornada.com.mx)
+
 ## 25-3 (dengue)
 
 - [Dengue: como usar o hipoclorito de sódio no combate ao Aedes aegypti](https://casa.abril.com.br/minha-casa/dengue-como-usar-o-hipoclorito-de-sodio-no-combate-ao-aedes-aegypti) (Abril.com.br)
@@ -2583,6 +2611,8 @@ Source: [News API](https://newsapi.org/)
 - [Dengue: SP tem 21 cidades em situação de emergência](https://www.terra.com.br/vida-e-estilo/saude/dengue-sp-tem-21-cidades-em-situacao-de-emergencia,cb9f0c74f749309f7f6f2dc0e1b1bc085pm97v74.html) (Terra.com.br)
 
 - [As dengue cases rise, researchers points to a simple solution: trash cleanup](https://news.stanford.edu/stories/2025/01/waste-reduction-a-key-defense-against-rising-dengue-cases) (Stanford.edu)
+
+- [Saúde falha em pontos sensíveis e fragiliza a situação de Nísia Trindade](https://veja.abril.com.br/politica/saude-falha-em-pontos-sensiveis-e-fragiliza-a-situacao-de-nisia-trindade) (Abril.com.br)
 
 ## 25-3 (chikungunya)
 

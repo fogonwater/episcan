@@ -1,8 +1,62 @@
 {
-  "last_updated": "2025-02-23 19:05",
-  "count_articles_total": 1173,
-  "count_articles_new": 7,
+  "last_updated": "2025-02-24 07:07",
+  "count_articles_total": 1187,
+  "count_articles_new": 9,
   "articles": [
+    {
+      "id": 18556,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": "ynet",
+      "source_name": "Ynet",
+      "author": "\u05d3\"\u05e8 \u05e7\u05e8\u05df \u05dc\u05e0\u05d3\u05e1\u05de\u05df, \u05de\u05db\u05d5\u05df \u05d3\u05d5\u05d9\u05d3\u05e1\u05d5\u05df \u05dc\u05d7\u05d9\u05e0\u05d5\u05da \u05de\u05d3\u05e2\u05d9",
+      "title": "\u05e0\u05d9\u05e1\u05d5\u05d9 \u05d4\u05db\u05dc\u05d9\u05dd \u05e9\u05dc \u05d4\u05de\u05d2\u05e4\u05d4 \u05d4\u05e9\u05d7\u05d5\u05e8\u05d4 \u05d1\u05e1\u05e7\u05e0\u05d3\u05d9\u05e0\u05d1\u05d9\u05d4",
+      "description": "\u05d1\u05d7\u05d9\u05e0\u05d4 \u05d2\u05e0\u05d8\u05d9\u05ea \u05e9\u05dc \u05d3\u05d2\u05d9\u05de\u05d5\u05ea \u05de\u05e7\u05d1\u05e8\u05d9\u05dd \u05e0\u05d0\u05d5\u05dc\u05d9\u05ea\u05d9\u05d9\u05dd \u05d1\u05e1\u05e7\u05e0\u05d3\u05d9\u05e0\u05d1\u05d9\u05d4 \u05de\u05e6\u05d1\u05d9\u05e2\u05d4 \u05e2\u05dc \u05d2\u05d5\u05e8\u05dd \u05d0\u05e4\u05e9\u05e8\u05d9 \u05dc\u05d4\u05ea\u05de\u05d5\u05d8\u05d8\u05d5\u05ea \u05d0\u05d5\u05db\u05dc\u05d5\u05e1\u05d9\u05df \u05de\u05e1\u05ea\u05d5\u05e8\u05d9\u05ea \u05e9\u05d0\u05d9\u05e8\u05e2\u05d4 \u05dc\u05e4\u05e0\u05d9 5,000 \u05e9\u05e0\u05d4",
+      "url": "https://www.ynet.co.il/environment-science/article/rj00xhnlcjx",
+      "urlToImage": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/02/21/SJ3ZA485yg/SJ3ZA485yg_172_0_480_270_0_large.jpg",
+      "publishedAt": "2025-02-23 05:21:46",
+      "content": ". , . (Yersinia pestis). , , (Yersinia pseudotuberculosis), . .",
+      "retrievedAt": "2025-02-24 07:07:25.672947",
+      "internal_id": "a6e95f2692a28dba3301203eb9290ef6b04724e65d1b9eb4876ca3f8813e7d6c",
+      "publishedAtLabel": "Feb 23"
+    },
+    {
+      "id": 18549,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "PBS",
+      "author": "Devi Shastri, Associated Press",
+      "title": "What to know about the measles outbreak in West Texas as cases rise to 90",
+      "description": "The measles outbreak in rural West Texas has grown to 90 cases across seven counties, the state health department posted online Friday, and 16 people are hospitalized. State health officials have said this outbreak is Texas\u2019 largest in nearly 30 years.",
+      "url": "https://www.pbs.org/newshour/health/what-to-know-about-the-measles-outbreak-in-west-texas-as-cases-rise-to-90",
+      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2024/02/GettyImages-1145120685-1024x616.jpg",
+      "publishedAt": "2025-02-22 23:28:35",
+      "content": "The measles outbreak in rural West Texas has grown to 90 cases across seven counties, the state health department posted online Friday, and 16 people are hospitalized. In neighboring eastern New Mex\u2026 [+4079 chars]",
+      "retrievedAt": "2025-02-24 07:07:20.975433",
+      "internal_id": "fe9014db17b7036fd4b4f13ba720e336a21634587ed9d35232601a0fffe4fd99",
+      "publishedAtLabel": "Feb 22"
+    },
+    {
+      "id": 18548,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": null,
+      "title": "US measles outbreak leaves nearly 100 ill in Texas and New Mexico",
+      "description": "Texas authorities report a surge in cases since January in communities with low vaccination rates.",
+      "url": "https://www.bbc.com/news/articles/cq8yvg5359po",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/65e2/live/1782e890-f169-11ef-8f8f-6d38ea6c6966.jpg",
+      "publishedAt": "2025-02-22 23:24:18",
+      "content": "Laura Blasey Health officials in two US states are tracking measles outbreaks as cases rise to nearly 100 people. The Texas Department of State Health Services reported on Friday that it was aware\u2026 [+4151 chars]",
+      "retrievedAt": "2025-02-24 07:07:20.881136",
+      "internal_id": "fb01f3964e017e4a13d4dd185898abe04a321432eb6d1f1281262e3fd32a8d73",
+      "publishedAtLabel": "Feb 22"
+    },
     {
       "id": 18543,
       "query": [
@@ -37,6 +91,24 @@
       "content": "Opaten\u00ed m\u00ed\u00ed pedev\u00edm na kom\u00e1ry druhu Aedes, kte\u00ed virovou infekci pen\u00e1ej\u00ed. Je jedno, zda je hmyz doruen\u00fd na sbrn\u00e9 m\u00edsto iv\u00fd i mrtv\u00fd. \u00e1dan\u00e9 jsou dokonce i larvy. Odmna za kad\u00fdch pt kus kom\u00e1ra, resp. lar\u2026 [+2470 chars]",
       "retrievedAt": "2025-02-23 19:05:35.747634",
       "internal_id": "1fd5e9d5f1bf3c13aaa7d569268ab7e33ebee5bed526f7508362a9a28b46bff4",
+      "publishedAtLabel": "Feb 22"
+    },
+    {
+      "id": 18550,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Neha Mukherjee",
+      "title": "Your questions about measles, answered | CNN",
+      "description": "Texas\u2019 largest outbreak of measles in 30 years has reached 90 cases, the Texas Department of State Health Services said Friday. Thirty-two cases have been added since the department\u2019s update earlier this week, and the number is expected to continue to rise.",
+      "url": "https://www.cnn.com/2025/02/22/health/your-measles-questions-answered/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/sanjay-gupta-measles.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2025-02-22 13:00:48",
+      "content": "Texas largest outbreak of measles in 30 years has reached 90 cases, the Texas Department of State Health Services said Friday. Thirty-two cases have been added since the departments update earlier th\u2026 [+11471 chars]",
+      "retrievedAt": "2025-02-24 07:07:21.013016",
+      "internal_id": "673e90840d94253a6408e17201568054b5ef5e1328087bbfa14c4098b5360c59",
       "publishedAtLabel": "Feb 22"
     },
     {
@@ -274,6 +346,24 @@
       "publishedAtLabel": "Feb 21"
     },
     {
+      "id": 18552,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "FOX 4 News",
+      "author": "Steven Ardary",
+      "title": "Texas Measles outbreak 2025: Cases nearly double over past week",
+      "description": "Measles cases in Texas have nearly doubled in the past week with an additional 28 cases reported Friday.",
+      "url": "https://www.fox4news.com/news/texas-measles-outbreak-2025-cases-nearly-double-over-past-week",
+      "urlToImage": "https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2019/08/1280/720/d39f5a3f-GETTY-measles_1532439789069_5841558_ver1.0_640_360.png?ve=1&tl=1",
+      "publishedAt": "2025-02-21 17:58:01",
+      "content": "TEXAS - Measles cases in Texas' South Plains region have nearly doubled over the past week. Since late January, 90 cases of measles have been identified across seven counties, with 16 people being h\u2026 [+4271 chars]",
+      "retrievedAt": "2025-02-24 07:07:21.028960",
+      "internal_id": "b892c6772f46970c1f543048566354fd76128869fdc335a5c3ba5e8e7c5c6caa",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
       "id": 18531,
       "query": [
         "zika"
@@ -307,6 +397,24 @@
       "content": "At\u00e9 agora, janeiro de 2025 foi o segundo mais mortal para a dengue no pa\u00eds, ficando atr\u00e1s apenas de 2024. Nas primeiras semanas do ano, o pa\u00eds j\u00e1 registrou 126 \u00f3bitos, e outros 248 casos est\u00e3o sob in\u2026 [+5557 chars]",
       "retrievedAt": "2025-02-22 19:05:40.860519",
       "internal_id": "715c58b3b04c3f2d0be85d93aa683d10bdf18b2cec3e0705176349920cbf77a8",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 18551,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "Mary Kekatos",
+      "title": "Texas measles outbreak grows to 90 cases, largest in over 30 years",
+      "description": "Texas measles outbreak grows to 90 cases, largest in over 30 yearsgo.com",
+      "url": "https://abcnews.go.com/Health/texas-measles-outbreak-grows-90-cases-unvaccinated-people/story?id=119041244",
+      "urlToImage": "https://i.abcnewsfe.com/a/7176c12c-986e-468d-bf81-9926b5e7e293/measles-rf-gty-bb-231222_1703269069060_hpMain_2_16x9.jpg?w=1600",
+      "publishedAt": "2025-02-21 16:28:57",
+      "content": "The number of measles cases linked to an outbreak in western Texas has grown to 90, according to new data released on Friday. Almost all of the cases are in unvaccinated individuals or individuals w\u2026 [+2113 chars]",
+      "retrievedAt": "2025-02-24 07:07:21.020445",
+      "internal_id": "9463f749ef532535bf66d73be3f01a90bc06e53e3a615c56a978c00b2643f031",
       "publishedAtLabel": "Feb 21"
     },
     {
@@ -451,6 +559,24 @@
       "content": "Cr\u00e9dito, Getty Images Legenda da foto, Vacinas contra a dengue est\u00e3o faltando at\u00e9 na rede particular de SP Article informationAuthor, Simone MachadoRole, De S\u00e3o Jos\u00e9 do Rio Preto (\u2026 [+7126 chars]",
       "retrievedAt": "2025-02-22 19:05:40.596392",
       "internal_id": "8bd848ff9aa3b9818824359eb24edbf1bc8060f3e86def566cea9afe1210c5df",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 18553,
+      "query": [
+        "measles"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": "Christina Shaw",
+      "title": "New Mexico reports Texas measles outbreak has now crossed its border",
+      "description": "The worst measles outbreak to hit Texas in a decade has now crossed the Texas New Mexico border and there are now eight cases in Lea County.",
+      "url": "https://www.foxnews.com/health/new-mexico-reports-texas-measles-outbreak-has-now-crossed-its-border",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/04/Measles-vaccine.jpg",
+      "publishedAt": "2025-02-21 08:54:20",
+      "content": "The Texas Department of State Health and Services (DSHS) has been tracking an ever-growing measles outbreak that has nearly doubled in the last two weeks. When first reported on Feb. 5 in Gaines Cou\u2026 [+1640 chars]",
+      "retrievedAt": "2025-02-24 07:07:21.036579",
+      "internal_id": "c11dd3a9a580014cd6ea1fd385b489257f0ef71c384627fd5d5ec981f89518b0",
       "publishedAtLabel": "Feb 21"
     },
     {
@@ -613,6 +739,24 @@
       "content": "Ein Vorort der philippinischen Hauptstadt Manila hat ein Kopfgeld auf Moskitos ausgesetzt - tot oder lebendig. Der Gemeindevorstand von Addition Hills will damit die Ausbreitung des gef\u00e4hrlichen Deng\u2026 [+3699 chars]",
       "retrievedAt": "2025-02-22 07:05:59.169576",
       "internal_id": "b6e4e8220afad723f8a9856f0e0e9cda4a4cae4016eeafb66e22d4aa7220e0f7",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 18554,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Newsbreak.com",
+      "author": "Jordan Miller",
+      "title": "CDC layoffs strike deeply at its ability to respond to the current flu, norovirus and measles outbreaks and other public health emergencies",
+      "description": "CDC layoffs strike deeply at its ability to respond to the current flu, norovirus and measles outbreaks and other public health emergenciesnewsbreak.com",
+      "url": "https://www.newsbreak.com/share/3820831359391-cdc-layoffs-strike-deeply-at-its-ability-to-respond-to-the-current-flu-norovirus-and-measles-outbreaks-and-other-public-health-emergencies?_f=app_share&amp;pd=0FpJ4fzG&amp;lang=en_US&amp;send_time=1740106730&amp;trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.7.0.65%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_recall_exp_25q1-v5%2Cns_foryou_model_exp_25q1-v9%2Cns_foryou_rank_exp_25q1-control%2Cns_foryou_blend_exp_25q1-v6%2Cns_push_exp_rt_bucketv12-v5&amp;s=i2",
+      "urlToImage": "https://img.particlenews.com/img/id/2rijOP_0z6xsitk00",
+      "publishedAt": "2025-02-21 02:59:53",
+      "content": "The CDC played an instrumental, if imperfect, role in the response to COVID-19. JHDT Stock Images LLC/iStock via Getty Images (TEMPE, AZ) In just a few short weeks, the Trump administration has bro\u2026 [+8039 chars]",
+      "retrievedAt": "2025-02-24 07:07:21.044409",
+      "internal_id": "e20cba2eada75a73e9409b238aacf3ca90352adfe2fc24029e4c29b8b6878011",
       "publishedAtLabel": "Feb 21"
     },
     {
@@ -919,6 +1063,24 @@
       "content": "This as-told-to essay is based on a conversation with Dr. Lara Johnson, chief medical officer of Covenant Health Lubbock Service Area and Covenant Children's Hospital in Lubbock, Texas. It has been e\u2026 [+3945 chars]",
       "retrievedAt": "2025-02-21 19:05:45.571239",
       "internal_id": "f37f0a76d4e56b15614233f033feb6d5119faf6a8d1f1e185b6bf031a3f27c2e",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 18555,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Dr. Sanjay Gupta",
+      "title": "Dr. Gupta on measles outbreak: \u2018One of the most infectious viruses out there\u2019 | CNN",
+      "description": "CNN\u2019s Dr. Sanjay Gupta is on the ground in West Texas, where the number of measles cases linked to an outbreak has grown to 58, according to the Texas Department of State Health Services.",
+      "url": "https://www.cnn.com/2025/02/20/health/video/dr-sanjay-gupta-measles-outbreak-digvid",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/sanjay-gupta-measles.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2025-02-20 17:52:56",
+      "content": "CNN's Dr. Sanjay Gupta is on the ground in West Texas, where the number of measles cases linked to an outbreak has grown to 58, according to the Texas Department of State Health Services.",
+      "retrievedAt": "2025-02-24 07:07:21.051833",
+      "internal_id": "cd83b971d199c7b6cfdba023e0370ef6ab7dd678faa39c2707a17f0a78a6b7b1",
       "publishedAtLabel": "Feb 20"
     },
     {
@@ -21153,6 +21315,96 @@
       "content": "La Universidad Nacional Aut\u00f3noma de M\u00e9xico (UNAM) advirti\u00f3 que, aunque el riesgo para la salud p\u00fablica del pa\u00eds debido al virus de influenza H5N1 es bajo, se prev\u00e9 que sea un tema relevante durante e\u2026 [+4785 chars]",
       "retrievedAt": "2025-01-14 07:06:12.760466",
       "internal_id": "baaa0db7725aec9011864c3d9e85a14527a4a4c780b53a663c2a5434df143776",
+      "publishedAtLabel": "Jan 12"
+    },
+    {
+      "id": 17370,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "New Atlas",
+      "author": "Bronwyn Thompson",
+      "title": "First US human death from bird flu is more serious than you may think",
+      "description": "Two months shy of the fifth anniversary of COVID-19 being declared a global pandemic, the US has recorded its first human death as a result of avian influenza H5N1 infection. The unidentified Louisiana man contracted the virus through contact with infected wi\u2026",
+      "url": "https://newatlas.com/infectious-diseases/first-us-human-death-bird-flu/",
+      "urlToImage": "https://assets.newatlas.com/dims4/default/b972f69/2147483647/strip/true/crop/6902x3624+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Ff5%2Fc7%2F36c9adbb4446af9c71ae546c1753%2Fdepositphotos-776801192-xl.jpg&na.image_optimisation=0",
+      "publishedAt": "2025-01-12 16:00:00",
+      "content": "Two months shy of the fifth anniversary of COVID-19 being declared a global pandemic, the US has recorded its first human death as a result of avian influenza H5N1 infection. The unidentified Louisia\u2026 [+13998 chars]",
+      "retrievedAt": "2025-01-13 19:05:36.977135",
+      "internal_id": "d7213205bc7810dd1bb1123820446d4106b2264f21aacb1ab82b6b877009c879",
+      "publishedAtLabel": "Jan 12"
+    },
+    {
+      "id": 17371,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Ravenna Alves",
+      "title": "Homem de 28 anos do Camboja morre de gripe avi\u00e1ria. Pa\u00eds apura caso",
+      "description": "De acordo com as autoridades de sa\u00fade do pa\u00eds, o homem criava aves em sua casa e havia cozinhado frangos doentes para se alimentar",
+      "url": "https://www.metropoles.com/saude/homem-28-camboja-morre-gripe-aviaria",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/11/20102453/Gripe-aviaria-2.jpg",
+      "publishedAt": "2025-01-12 14:32:09",
+      "content": "Um homem de 28 anos, natural da prov\u00edncia de Kampong Cham, no Camboja, pa\u00eds localizado no sudeste da \u00c1sia, morreu na \u00faltima sexta-feira (10/1) em decorr\u00eancia da gripe avi\u00e1ria H5N1, informou o Minist\u00e9\u2026 [+1624 chars]",
+      "retrievedAt": "2025-01-13 19:05:37.043393",
+      "internal_id": "9ae40e03f2d31e85fc20aed4a347b9c952eea9e2af3bc32d8da0e3f22865fd12",
+      "publishedAtLabel": "Jan 12"
+    },
+    {
+      "id": 17373,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Lokmat.com",
+      "author": "\u0911\u0928\u0932\u093e\u0907\u0928 \u0932\u094b\u0915\u092e\u0924",
+      "title": "\u0928\u094b\u0930\u094b\u0935\u094d\u0939\u093e\u092f\u0930\u0938, \u092c\u0930\u094d\u0921 \u092b\u094d\u0932\u0942 \u0915\u0940 \u0915\u094b\u0930\u094b\u0928\u093e... \u0939\u093f\u0935\u093e\u0933\u094d\u092f\u093e\u0924 \u0915\u094b\u0923\u0924\u093e \u091c\u093e\u0938\u094d\u0924 \u0927\u094b\u0915\u093e\u0926\u093e\u092f\u0915 \u0906\u0923\u093f \u0924\u094b \u0915\u0938\u093e \u091f\u093e\u0933\u093e\u092f\u091a\u093e?",
+      "description": "health tips norovirus vs bird flu vs covid 19 which is more dangerous in winter - \u0939\u093f\u0935\u093e\u0933\u094d\u092f\u093e\u0924 \u092f\u093e \u0924\u093f\u0918\u093e\u0902\u092a\u0948\u0915\u0940 \u0915\u094b\u0923\u0924\u093e \u0906\u091c\u093e\u0930 \u091c\u093e\u0938\u094d\u0924 \u0927\u094b\u0915\u093e\u0926\u093e\u092f\u0915 \u0906\u0939\u0947 \u0906\u0923\u093f \u0924\u0947 \u0906\u091c\u093e\u0930 \u0915\u0938\u0947 \u091f\u093e\u0933\u093e\u092f\u091a\u0947 \u092f\u093e\u092c\u093e\u092c\u0924 \u091c\u093e\u0923\u0942\u0928 \u0918\u0947\u090a\u092f\u093e... - Latest Marathi News (\u092e\u0930\u093e\u0920\u0940 \u092c\u093e\u0924\u092e\u094d\u092f\u093e). Find Breaking Headlines, Current and La\u2026",
+      "url": "https://www.lokmat.com/sakhi/health/lifestyle-diseases/health-tips-norovirus-vs-bird-flu-vs-covid-19-which-is-more-dangerous-in-winter-a-a597/",
+      "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/images/1200x900/whatsapp-image-2025-01-12-at-4.16.55-pm_2025011374514.jpeg",
+      "publishedAt": "2025-01-12 11:05:28",
+      "content": ". , . . , . . . ... ? . . , , . . . . . . . ? . (WHO) , , H5N1 ( ) . % , - , .% % . , , , , , , , , , . . , , , , , , , , , , . . . ? - , . - . - . - . - . - , , , . - . - . \u2026 [+33 chars]",
+      "retrievedAt": "2025-01-13 19:05:37.154498",
+      "internal_id": "4cd14b9ed5ab9f7fa687124ae40806cfae88bf83a5fbc6f5c661b28db64994c6",
+      "publishedAtLabel": "Jan 12"
+    },
+    {
+      "id": 17374,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Bruno Caniato",
+      "title": "Sa\u00fade falha em pontos sens\u00edveis e fragiliza a situa\u00e7\u00e3o de N\u00edsia Trindade",
+      "description": "O mais decepcionante para a administra\u00e7\u00e3o petista \u00e9 que a pasta vai mal exatamente onde prometeu brilhar: a vacina\u00e7\u00e3o",
+      "url": "https://veja.abril.com.br/politica/saude-falha-em-pontos-sensiveis-e-fragiliza-a-situacao-de-nisia-trindade",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2025/01/1D-1-NISIA-TRINDADE-2024-12-a.jpg.jpg?quality=70&strip=info&crop=1&resize=1080,565",
+      "publishedAt": "2025-01-12 11:00:00",
+      "content": "F\u00e9rias: Assine a partir de 1,50/semanaFRACASSO- A\u00e7\u00e3o contra a dengue: o n\u00famero de casos quadruplicou em 2024 (Marcelo Camargo/Ag\u00eancia Brasil) Continua ap\u00f3s publicidade A gest\u00e3o da sa\u00fade da Presid\u00ean\u2026 [+8193 chars]",
+      "retrievedAt": "2025-01-13 19:05:37.432831",
+      "internal_id": "2dd9bd386fab5498bf5c3d9acb63bd565b0df5d0d32caf1ceb0e0c8f1b236c9c",
+      "publishedAtLabel": "Jan 12"
+    },
+    {
+      "id": 17372,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "title": "Llama la UNAM a vigilar la evoluci\u00f3n de la gripe aviar",
+      "description": "El riesgo para la salud p\u00fablica por la influenza aviar (H5N1) por el momento es bajo en el pa\u00eds, pero se prev\u00e9 que sea un tema destacado durante 2025, pues podr\u00eda afectar tanto el bienestar humano como el animal, e impactar en la producci\u00f3n de alimentos y su \u2026",
+      "url": "https://www.jornada.com.mx/2025/01/12/sociedad/027n2soc",
+      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "publishedAt": "2025-01-12 09:17:11",
+      "content": "Peri\u00f3dico La JornadaDomingo 12 de enero de 2025, p. 27 El riesgo para la salud p\u00fablica por la influenza aviar (H5N1) por el momento es bajo en el pa\u00eds, pero se prev\u00e9 que sea un tema destacado durant\u2026 [+1896 chars]",
+      "retrievedAt": "2025-01-13 19:05:37.097160",
+      "internal_id": "07c41e8d9171982712298a770a334e526b38155acc5322993295e1b60bd93e20",
       "publishedAtLabel": "Jan 12"
     }
   ]
