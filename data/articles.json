@@ -1,8 +1,314 @@
 {
-  "last_updated": "2025-02-25 07:06",
-  "count_articles_total": 1201,
-  "count_articles_new": 5,
+  "last_updated": "2025-02-25 19:05",
+  "count_articles_total": 1213,
+  "count_articles_new": 17,
   "articles": [
+    {
+      "id": 18581,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TNN",
+      "title": "Bird flu fear hits poultry sales as consumers shift to alternatives",
+      "description": "Bengaluru: While neighbouring Andhra Pradesh has witnessed a sharp decline in chicken and egg sales following the recent outbreak of bird flu (H5N1), .",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/bird-flu-fear-hits-poultry-sales-as-consumers-shift-to-alternatives/articleshow/118538931.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-118538930,width-1070,height-580,imgsize-80284,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2025-02-24 18:17:44",
+      "content": "Forget biryani, try these interesting dishes with rice",
+      "retrievedAt": "2025-02-25 19:05:46.283053",
+      "internal_id": "fc622c43f63bcd23c934bbf2ce540bc5ee85f4e8bf85cae643157fc76c4413cc",
+      "publishedAtLabel": "Feb 24"
+    },
+    {
+      "id": 18573,
+      "query": [
+        "measles"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Jordan King",
+      "title": "Measles Exposure Warning Issued To Texas Residents",
+      "description": "Different venues in San Marcos, San Antonio and New Braunfels have been warned about possible exposure.",
+      "url": "https://www.newsweek.com/measles-exposure-warning-texas-2035394",
+      "urlToImage": "https://d.newsweek.com/en/full/2594323/measles-testing.jpg",
+      "publishedAt": "2025-02-24 17:17:26",
+      "content": "A warning has been issued for three Texas cities after someone with measles visited them while contagious. The Texas Department of State Health Services (DHSH) shared the warning on Monday \"so unvac\u2026 [+4264 chars]",
+      "retrievedAt": "2025-02-25 19:05:45.449167",
+      "internal_id": "89c2224f9d266d984293c0e90b730c30a8acbde2f14de1fc144287a90b9c803c",
+      "publishedAtLabel": "Feb 24"
+    },
+    {
+      "id": 18582,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "OregonLive",
+      "author": "Tribune News Service",
+      "title": "Bird flu now found in black rats in California",
+      "description": "The rats also provide a vessel for the virus to move between farms and houses.",
+      "url": "https://www.oregonlive.com/health/2025/02/bird-flu-now-found-in-black-rats-in-california.html",
+      "urlToImage": "https://www.oregonlive.com/resizer/v2/BMELPSGYBBGOFBNIQWM2ATBWSY.jpg?auth=c2269c8f2aded79308e156e4ab7bb1602513d72038736475e5fcedae338ee58e&width=1280&quality=90",
+      "publishedAt": "2025-02-24 17:11:17",
+      "content": "The U.S. Department of Agriculture has added black rats to the growing list of mammals that have been infected by H5N1 bird flu. The rats were located in Riverside County, and news reports suggest t\u2026 [+1932 chars]",
+      "retrievedAt": "2025-02-25 19:05:46.303009",
+      "internal_id": "b4c29d0370c1c160d7b24ce9e542b1b0e77392c290d40eeb917622f8b0bdb0a0",
+      "publishedAtLabel": "Feb 24"
+    },
+    {
+      "id": 18578,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Owen Dyer",
+      "title": "Bird flu: Canada buys 500 000 H5N1 vaccines as US scrambles to rehire bird flu staff",
+      "description": "Canada has bought half a million vaccines designed to prevent H5N1 avian influenza in humans.The vaccines are intended to stamp out any potential human transmission of the disease by immunising those most at risk, such as farm workers, medical staff, and vete\u2026",
+      "url": "https://www.bmj.com/content/388/bmj.r379",
+      "urlToImage": "https://www.bmj.com/sites/default/files/highwire/bmj/388/8457.cover-source.jpg",
+      "publishedAt": "2025-02-24 14:36:15",
+      "content": "Canada has bought half a million vaccines designed to prevent H5N1 avian influenza in humans. The vaccines are intended to stamp out any potential human transmission of the disease by immunising tho\u2026 [+659 chars]",
+      "retrievedAt": "2025-02-25 19:05:46.234371",
+      "internal_id": "7db83bb024b376a1318ffbf70a21fb2817fa4dc0ee638932f8357dffdb432780",
+      "publishedAtLabel": "Feb 24"
+    },
+    {
+      "id": 18575,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "SoraNews24",
+      "author": "Casey Baseel",
+      "title": "Traveler at Japan\u2019s Kansai International Airport confirmed infected with measles, caution urged",
+      "description": "If you were at Osaka\u2019s major international airport earlier this month, you\u2019ll want to keep an eye on your physical condition for the next few weeks. On February 14, a resident of Aichi Prefecture began to feel hot. Unfortunately, this was not the result of ro\u2026",
+      "url": "https://soranews24.com/2025/02/24/traveler-at-japans-kansai-international-airport-confirmed-infected-with-measles-caution-urged/",
+      "urlToImage": "https://soranews24.com/wp-content/uploads/sites/3/2025/02/MK-1.jpg?w=1000&h=525&crop=1",
+      "publishedAt": "2025-02-24 14:00:21",
+      "content": "If you were at Osaka\u2019s major international airport earlier this month, you\u2019ll want to keep an eye on your physical condition for the next few weeks. On February 14, a resident of Aichi Prefecture be\u2026 [+2813 chars]",
+      "retrievedAt": "2025-02-25 19:05:45.489099",
+      "internal_id": "fc3d12463f001e4d543099e8b8977f49aec7fde6300776fb0a67f2175b853b28",
+      "publishedAtLabel": "Feb 24"
+    },
+    {
+      "id": 18584,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "James G. Beeson, Daniel Herbert Opi",
+      "title": "Detrimental infant and maternal outcomes of undiagnosed asymptomatic malaria in pregnancy",
+      "description": "In areas with low malaria transmission intensity, most infections during pregnancy are not detected by standard diagnostic tests. New data shows that these missed asymptomatic infections have substantial negative impacts for both the mother and the developing\u2026",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004528",
+      "urlToImage": null,
+      "publishedAt": "2025-02-24 14:00:00",
+      "content": "Citation: Beeson JG, Opi DH (2025) Detrimental infant and maternal outcomes of undiagnosed asymptomatic malaria in pregnancy. PLoS Med 22(2): e1004528. https://doi.org/10.1371/journal.pmed.1004528\u2026 [+8266 chars]",
+      "retrievedAt": "2025-02-25 19:05:47.271382",
+      "internal_id": "7786d54ced6d20d5b468aa0d6b9e97294d7ebc4b3068d3add11dabb2128d847d",
+      "publishedAtLabel": "Feb 24"
+    },
+    {
+      "id": 18586,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Gonzalo R. Acevedo, Sophie S. Samiee, Mikias Ilala, Justine Levan, Meagan E. Olive, Riana D. Hunter, Mary Prahl, Raja Rajalingam, John Rek, Grant Dorsey, Margaret E. Feeney",
+      "title": "Liver stage P. falciparum antigens highly targeted by CD4+ T cells in malaria-exposed Ugandan children",
+      "description": "Author summary Malaria causes over half a million deaths every year, over 80% of which are accounted for by children under five years of age. The currently available vaccines to prevent this disease provide limited, short-lived protection. Prior evidence sugg\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012943",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1012943.g004&size=inline",
+      "publishedAt": "2025-02-24 14:00:00",
+      "content": "Citation: Acevedo GR, Samiee SS, Ilala M, Levan J, Olive ME, Hunter RD, et al. (2025) Liver stage P. falciparum antigens highly targeted by CD4+ T cells in malaria-exposed Ugandan children. PLoS Path\u2026 [+46459 chars]",
+      "retrievedAt": "2025-02-25 19:05:47.295182",
+      "internal_id": "1e317523e61338eaf389b9843e690ee68e17e6a245a1c08123620b8953de90fe",
+      "publishedAtLabel": "Feb 24"
+    },
+    {
+      "id": 18572,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "CBS News",
+      "title": "Measles outbreak grows to nearly 100 cases, with largest impact in Texas",
+      "description": "CBS News medical contributor, Dr. Celine Gounder, joins \"CBS Mornings\" to discuss the latest in a measles outbreak in the U.S. that has grown to nearly 100 cases. Most cases are in Texas, which is experiencing the largest outbreak in the state in three decade\u2026",
+      "url": "https://www.cbsnews.com/video/measles-outbreak-grows-to-nearly-100-cases-with-largest-impact-in-texas/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/02/24/13d7e5fa-a497-46d7-88c4-b0f099c3f3a9/thumbnail/1200x630/de92dc15b875db438654192333fbaf60/0224-cmo-measls.jpg?v=db3d87ba7bf4d4ff13b65eabcf0d9bea",
+      "publishedAt": "2025-02-24 13:46:00",
+      "content": "Watch CBS News Copyright \u00a92025 CBS Interactive Inc. All rights reserved. Get browser notifications for breaking news, live events, and exclusive reporting. Not NowTurn On",
+      "retrievedAt": "2025-02-25 19:05:45.405057",
+      "internal_id": "292839f4113018a967a6a3b354e51882a3e16b6b93ee91e9347014453637c52a",
+      "publishedAtLabel": "Feb 24"
+    },
+    {
+      "id": 18576,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Newser",
+      "author": "Jenn Gidman",
+      "title": "First, Texas. Now, Measles Make Showing in New Mexico",
+      "description": "More than 20 years ago, measles was deemed eradicated in the US. Now, the illness is making a comeback, with nearly 100 cases logged across two states. Per a Friday release from the Texas Department of State Health Services, 90 measles cases have been identif\u2026",
+      "url": "https://www.newser.com/story/364750/first-texas-now-measles-make-showing-in-new-mexico.html",
+      "urlToImage": "https://img1-azrcdn.newser.com/image/1594650-12-20250224073700.jpeg",
+      "publishedAt": "2025-02-24 13:33:00",
+      "content": "More than 20 years ago, measles was deemed eradicated in the US. Now, the illness is making a comeback, with nearly 100 cases logged across two states. Per a Friday release from the Texas Department \u2026 [+2234 chars]",
+      "retrievedAt": "2025-02-25 19:05:45.509832",
+      "internal_id": "d9e7f96fd69c7a137236b13e54cfcd2ca55c05270abb945a96e576a8b639457c",
+      "publishedAtLabel": "Feb 24"
+    },
+    {
+      "id": 18587,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Nicholas Shores",
+      "title": "Greve de auditores fiscais gera preju\u00edzo de R$ 3,5 bilh\u00f5es, diz instituto",
+      "description": "Frente Parlamentar pelo Livre Mercado envia carta a Fernando Haddad pedindo 'estabilidade jur\u00eddica e solu\u00e7\u00e3o urgente'",
+      "url": "https://veja.abril.com.br/coluna/radar/greve-de-auditores-fiscais-gera-prejuizo-de-r-35-bilhoes-diz-instituto",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2024/11/mpox.jpeg?quality=70&strip=info&crop=1&resize=1080,565",
+      "publishedAt": "2025-02-24 13:30:12",
+      "content": "Oferta Rel\u00e2mpago: 4 revistas pelo pre\u00e7o de uma! ALERTA: Painel na \u00e1rea de desembarque internacional do aeroporto de Bras\u00edlia informa sobre sintomas da Mpox (Anvisa/Divulga\u00e7\u00e3o) Continua ap\u00f3s publici\u2026 [+1532 chars]",
+      "retrievedAt": "2025-02-25 19:05:48.175761",
+      "internal_id": "2861786a5b2183f97565ff9b4bf6917942b6b52cb87bfd1b13c02f71bf00b039",
+      "publishedAtLabel": "Feb 24"
+    },
+    {
+      "id": 18583,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "LADbible",
+      "author": "Brenna Cooper",
+      "title": "Father of girl who died with 'blood oozing from eyes' speaks out as jury decides hospital contributed to her death",
+      "description": "The father of 20-year-old Sophie Ward, who died after her meningitis was misdiagnosed as the flu, has spoken out, amid her inquest.",
+      "url": "https://www.ladbible.com/news/uk-news/sophie-ward-meningitis-inquest-father-219426-20250224",
+      "urlToImage": "https://images.ladbible.com/ogimage/v3/assets/bltcd74acc1d0a99f3a/blt90a35e00daacaadf/67bc5d7778f292648887e361/woman-dies-blood.png",
+      "publishedAt": "2025-02-24 13:28:43",
+      "content": "The father of a 20-year-old woman who died 24 hours after being sent home from hospital has spoken out following an inquest into her death. Arts student Sophie Ward had started feeling unwell during\u2026 [+3143 chars]",
+      "retrievedAt": "2025-02-25 19:05:46.926636",
+      "internal_id": "aa1b18417e31f2966cd65d3d3fb006aaae8b75b85a4ebffd640ffa5ccb6a170b",
+      "publishedAtLabel": "Feb 24"
+    },
+    {
+      "id": 18574,
+      "query": [
+        "measles"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "The Feed",
+      "title": "Measles outbreak in Texas and New Mexico: Nearly 100 cases reported \u2014 How declining immunisation rates are to blame",
+      "description": "Nearly 100 cases of measles have been reported across Texas and New Mexico. Measles was declared eliminated from the United States in 2000, making this outbreak a cause for concern. Health officials attribute the rise in cases to plummeting immunisation rates\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/us/measles-outbreak-in-texas-and-new-mexico-nearly-100-cases-reported-how-declining-immunisation-rates-are-to-blame/articleshow/118534760.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-118534780,width-1200,height-630,imgsize-121472,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-02-24 13:23:12",
+      "content": "United States health authorities have raised concerns following a surge in measles cases across Texas and New Mexico. This marks one of the largest outbreaks in recent years.Once declared eliminated \u2026 [+4190 chars]",
+      "retrievedAt": "2025-02-25 19:05:45.474722",
+      "internal_id": "022748089e5a89eb6620c205af40d9fb912944c503775b596ae3ede53026281e",
+      "publishedAtLabel": "Feb 24"
+    },
+    {
+      "id": 18585,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Ssir.org",
+      "author": null,
+      "title": "From Unpaid to Unstoppable: The Rise of the Professional Community Health Worker Movement (Blog)",
+      "description": "Health coalitions did the research, coordinated with donors, and secured strong government buy-in. Now, community health workers are finally getting the credit&#8212;and pay&#8212;they deserve.",
+      "url": "https://ssir.org/articles/entry/movement-to-professionalize-community-health-workers",
+      "urlToImage": "https://ssir.org/images/blog/church-health-worker-avocacy-liberia-737x737.jpg",
+      "publishedAt": "2025-02-24 13:05:00",
+      "content": "Ten years ago, I (Sheringham) was going door-to-door, providing routine health checks, administering vaccinations, and managing cases of HIV, malaria, tuberculosis, and other debilitating diseases fo\u2026 [+17669 chars]",
+      "retrievedAt": "2025-02-25 19:05:47.286662",
+      "internal_id": "bef2c963f9e996877e352c7319d817dc6410ea343268f8335cf46ecd81bccd13",
+      "publishedAtLabel": "Feb 24"
+    },
+    {
+      "id": 18571,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Scientific American",
+      "author": "Allison Parshall, Rachel Feltman, Fonda Mwangi, Naeem Amarsy",
+      "title": "The Latest on the Texas Measles Outbreak, Asteroid 2024 YR4 Risks and Fish Friends",
+      "description": "In this week\u2019s news roundup, we cover activity from the black hole at our galaxy\u2019s center and a troubling measles outbreak in Texas.",
+      "url": "https://www.scientificamerican.com/podcast/episode/the-latest-on-the-texas-measles-outbreak-asteroid-2024-yr4-risks-and-fish/",
+      "urlToImage": "https://static.scientificamerican.com/dam/m/450fc996fe659a91/original/SQ-Monday-EP-Art.png?m=1717792183.71&w=1200",
+      "publishedAt": "2025-02-24 11:00:00",
+      "content": "[CLIP: Theme music] Happy Monday, listeners. For Scientific American\u2019s Science Quickly, this is Allison Parshall filling in for Rachel Feltman. Let\u2019s get the week started by catching up on some of t\u2026 [+6510 chars]",
+      "retrievedAt": "2025-02-25 19:05:45.364427",
+      "internal_id": "564b709d775e98a27d50057c5c25b929e39d557ecd068849566bd8c57e9ecffe",
+      "publishedAtLabel": "Feb 24"
+    },
+    {
+      "id": 18577,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Thegardnernews.com",
+      "author": "Emilia Cardona, The Gardner News",
+      "title": "What to know about bird flu in greater Gardner: Tips to keep your backyard chickens safe",
+      "description": "What to know about how to protect your backyard chickens and pet from bird flu and what experts say about its presence in Worcester County",
+      "url": "https://www.thegardnernews.com/story/news/local/2025/02/24/how-to-keep-backyard-chickens-safe-from-bird-flu-gardner-h5n1/79308279007/",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/1mNREmLu2UcSumTPAIpLtQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/the-gardner-news/e7f8404326e49d0c9cda98719651bcb9",
+      "publishedAt": "2025-02-24 09:55:53",
+      "content": "Eggs are currently a hot commodity; stores have limited supplies, and the price of eggs is the highest they have ever been. The H5N1 bird flu hitting the poultry industry across the country is to bl\u2026 [+2061 chars]",
+      "retrievedAt": "2025-02-25 19:05:46.200919",
+      "internal_id": "e29cfa1aef1947cd624f07f0ba60a4a91d321fe5edee5ed5971442b00508b920",
+      "publishedAtLabel": "Feb 24"
+    },
+    {
+      "id": 18580,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Sapo.pt",
+      "author": "Green Savers com Lusa",
+      "title": "Gripe H5N1 \u00e9 amea\u00e7a de nova epidemia no horizonte",
+      "description": "Cinco anos ap\u00f3s terem sido confirmados em Portugal os primeiros casos de cont\u00e1gio pelo coronav\u00edrus que causa a covid-19, o especialista de Sa\u00fade P\u00fablica Francisco George alerta para as \u201camea\u00e7as no horizonte\u201d como a do v\u00edrus da gripe H5N1.",
+      "url": "https://greensavers.sapo.pt/gripe-h5n1-e-ameaca-de-nova-epidemia-no-horizonte/",
+      "urlToImage": "https://greensavers.sapo.pt/wp-content/uploads/2025/02/Gripe.jpg",
+      "publishedAt": "2025-02-24 09:32:33",
+      "content": "Cinco anos ap\u00f3s terem sido confirmados em Portugal os primeiros casos de cont\u00e1gio pelo coronav\u00edrus que causa a covid-19, o especialista de Sa\u00fade P\u00fablica Francisco George alerta para as amea\u00e7as no hor\u2026 [+3706 chars]",
+      "retrievedAt": "2025-02-25 19:05:46.275083",
+      "internal_id": "72fcb68142ffdf557ef5a9195fa6ca15974c9763257eaa93d4c6e223c496040c",
+      "publishedAtLabel": "Feb 24"
+    },
+    {
+      "id": 18579,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "title": "Alerta el riesgo de que gripe aviar cause muertes humanas",
+      "description": "\u201cTenemos enfrente\u201d el riesgo de una nueva pandemia entre humanos m\u00e1s grave que el covid-19. Se trata de la influenza H5N1, debido a la mortalidad que podr\u00eda causar este virus que originalmente s\u00f3lo lo contra\u00edan las aves, alert\u00f3 el coordinador del Programa Uni\u2026",
+      "url": "https://www.jornada.com.mx/2025/02/24/politica/015n3pol",
+      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "publishedAt": "2025-02-24 09:17:00",
+      "content": "Peri\u00f3dico La JornadaLunes 24 de febrero de 2025, p. 15 Tenemos enfrente el riesgo de una nueva pandemia entre humanos m\u00e1s grave que el covid-19. Se trata de la influenza H5N1, debido a la mortalidad\u2026 [+1578 chars]",
+      "retrievedAt": "2025-02-25 19:05:46.248348",
+      "internal_id": "de69b63008b7a18b8640c4e0e494eecbc31c1f619dfed69a54c2a3ef6e8ceb47",
+      "publishedAtLabel": "Feb 24"
+    },
     {
       "id": 18569,
       "query": [
@@ -21568,96 +21874,6 @@
       "content": "La Universidad Nacional Aut\u00f3noma de M\u00e9xico (UNAM) advirti\u00f3 que, aunque el riesgo para la salud p\u00fablica del pa\u00eds debido al virus de influenza H5N1 es bajo, se prev\u00e9 que sea un tema relevante durante e\u2026 [+4785 chars]",
       "retrievedAt": "2025-01-14 07:06:12.760466",
       "internal_id": "baaa0db7725aec9011864c3d9e85a14527a4a4c780b53a663c2a5434df143776",
-      "publishedAtLabel": "Jan 12"
-    },
-    {
-      "id": 17370,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "New Atlas",
-      "author": "Bronwyn Thompson",
-      "title": "First US human death from bird flu is more serious than you may think",
-      "description": "Two months shy of the fifth anniversary of COVID-19 being declared a global pandemic, the US has recorded its first human death as a result of avian influenza H5N1 infection. The unidentified Louisiana man contracted the virus through contact with infected wi\u2026",
-      "url": "https://newatlas.com/infectious-diseases/first-us-human-death-bird-flu/",
-      "urlToImage": "https://assets.newatlas.com/dims4/default/b972f69/2147483647/strip/true/crop/6902x3624+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Ff5%2Fc7%2F36c9adbb4446af9c71ae546c1753%2Fdepositphotos-776801192-xl.jpg&na.image_optimisation=0",
-      "publishedAt": "2025-01-12 16:00:00",
-      "content": "Two months shy of the fifth anniversary of COVID-19 being declared a global pandemic, the US has recorded its first human death as a result of avian influenza H5N1 infection. The unidentified Louisia\u2026 [+13998 chars]",
-      "retrievedAt": "2025-01-13 19:05:36.977135",
-      "internal_id": "d7213205bc7810dd1bb1123820446d4106b2264f21aacb1ab82b6b877009c879",
-      "publishedAtLabel": "Jan 12"
-    },
-    {
-      "id": 17371,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Metropoles.com",
-      "author": "Ravenna Alves",
-      "title": "Homem de 28 anos do Camboja morre de gripe avi\u00e1ria. Pa\u00eds apura caso",
-      "description": "De acordo com as autoridades de sa\u00fade do pa\u00eds, o homem criava aves em sua casa e havia cozinhado frangos doentes para se alimentar",
-      "url": "https://www.metropoles.com/saude/homem-28-camboja-morre-gripe-aviaria",
-      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/11/20102453/Gripe-aviaria-2.jpg",
-      "publishedAt": "2025-01-12 14:32:09",
-      "content": "Um homem de 28 anos, natural da prov\u00edncia de Kampong Cham, no Camboja, pa\u00eds localizado no sudeste da \u00c1sia, morreu na \u00faltima sexta-feira (10/1) em decorr\u00eancia da gripe avi\u00e1ria H5N1, informou o Minist\u00e9\u2026 [+1624 chars]",
-      "retrievedAt": "2025-01-13 19:05:37.043393",
-      "internal_id": "9ae40e03f2d31e85fc20aed4a347b9c952eea9e2af3bc32d8da0e3f22865fd12",
-      "publishedAtLabel": "Jan 12"
-    },
-    {
-      "id": 17373,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Lokmat.com",
-      "author": "\u0911\u0928\u0932\u093e\u0907\u0928 \u0932\u094b\u0915\u092e\u0924",
-      "title": "\u0928\u094b\u0930\u094b\u0935\u094d\u0939\u093e\u092f\u0930\u0938, \u092c\u0930\u094d\u0921 \u092b\u094d\u0932\u0942 \u0915\u0940 \u0915\u094b\u0930\u094b\u0928\u093e... \u0939\u093f\u0935\u093e\u0933\u094d\u092f\u093e\u0924 \u0915\u094b\u0923\u0924\u093e \u091c\u093e\u0938\u094d\u0924 \u0927\u094b\u0915\u093e\u0926\u093e\u092f\u0915 \u0906\u0923\u093f \u0924\u094b \u0915\u0938\u093e \u091f\u093e\u0933\u093e\u092f\u091a\u093e?",
-      "description": "health tips norovirus vs bird flu vs covid 19 which is more dangerous in winter - \u0939\u093f\u0935\u093e\u0933\u094d\u092f\u093e\u0924 \u092f\u093e \u0924\u093f\u0918\u093e\u0902\u092a\u0948\u0915\u0940 \u0915\u094b\u0923\u0924\u093e \u0906\u091c\u093e\u0930 \u091c\u093e\u0938\u094d\u0924 \u0927\u094b\u0915\u093e\u0926\u093e\u092f\u0915 \u0906\u0939\u0947 \u0906\u0923\u093f \u0924\u0947 \u0906\u091c\u093e\u0930 \u0915\u0938\u0947 \u091f\u093e\u0933\u093e\u092f\u091a\u0947 \u092f\u093e\u092c\u093e\u092c\u0924 \u091c\u093e\u0923\u0942\u0928 \u0918\u0947\u090a\u092f\u093e... - Latest Marathi News (\u092e\u0930\u093e\u0920\u0940 \u092c\u093e\u0924\u092e\u094d\u092f\u093e). Find Breaking Headlines, Current and La\u2026",
-      "url": "https://www.lokmat.com/sakhi/health/lifestyle-diseases/health-tips-norovirus-vs-bird-flu-vs-covid-19-which-is-more-dangerous-in-winter-a-a597/",
-      "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/images/1200x900/whatsapp-image-2025-01-12-at-4.16.55-pm_2025011374514.jpeg",
-      "publishedAt": "2025-01-12 11:05:28",
-      "content": ". , . . , . . . ... ? . . , , . . . . . . . ? . (WHO) , , H5N1 ( ) . % , - , .% % . , , , , , , , , , . . , , , , , , , , , , . . . ? - , . - . - . - . - . - , , , . - . - . \u2026 [+33 chars]",
-      "retrievedAt": "2025-01-13 19:05:37.154498",
-      "internal_id": "4cd14b9ed5ab9f7fa687124ae40806cfae88bf83a5fbc6f5c661b28db64994c6",
-      "publishedAtLabel": "Jan 12"
-    },
-    {
-      "id": 17374,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Abril.com.br",
-      "author": "Bruno Caniato",
-      "title": "Sa\u00fade falha em pontos sens\u00edveis e fragiliza a situa\u00e7\u00e3o de N\u00edsia Trindade",
-      "description": "O mais decepcionante para a administra\u00e7\u00e3o petista \u00e9 que a pasta vai mal exatamente onde prometeu brilhar: a vacina\u00e7\u00e3o",
-      "url": "https://veja.abril.com.br/politica/saude-falha-em-pontos-sensiveis-e-fragiliza-a-situacao-de-nisia-trindade",
-      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2025/01/1D-1-NISIA-TRINDADE-2024-12-a.jpg.jpg?quality=70&strip=info&crop=1&resize=1080,565",
-      "publishedAt": "2025-01-12 11:00:00",
-      "content": "F\u00e9rias: Assine a partir de 1,50/semanaFRACASSO- A\u00e7\u00e3o contra a dengue: o n\u00famero de casos quadruplicou em 2024 (Marcelo Camargo/Ag\u00eancia Brasil) Continua ap\u00f3s publicidade A gest\u00e3o da sa\u00fade da Presid\u00ean\u2026 [+8193 chars]",
-      "retrievedAt": "2025-01-13 19:05:37.432831",
-      "internal_id": "2dd9bd386fab5498bf5c3d9acb63bd565b0df5d0d32caf1ceb0e0c8f1b236c9c",
-      "publishedAtLabel": "Jan 12"
-    },
-    {
-      "id": 17372,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Jornada.com.mx",
-      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "title": "Llama la UNAM a vigilar la evoluci\u00f3n de la gripe aviar",
-      "description": "El riesgo para la salud p\u00fablica por la influenza aviar (H5N1) por el momento es bajo en el pa\u00eds, pero se prev\u00e9 que sea un tema destacado durante 2025, pues podr\u00eda afectar tanto el bienestar humano como el animal, e impactar en la producci\u00f3n de alimentos y su \u2026",
-      "url": "https://www.jornada.com.mx/2025/01/12/sociedad/027n2soc",
-      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "publishedAt": "2025-01-12 09:17:11",
-      "content": "Peri\u00f3dico La JornadaDomingo 12 de enero de 2025, p. 27 El riesgo para la salud p\u00fablica por la influenza aviar (H5N1) por el momento es bajo en el pa\u00eds, pero se prev\u00e9 que sea un tema destacado durant\u2026 [+1896 chars]",
-      "retrievedAt": "2025-01-13 19:05:37.097160",
-      "internal_id": "07c41e8d9171982712298a770a334e526b38155acc5322993295e1b60bd93e20",
       "publishedAtLabel": "Jan 12"
     }
   ]

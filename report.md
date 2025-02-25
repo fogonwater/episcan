@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 5
-- **Last harvest:** 2025-02-25 07:06
-- **Most recent article:** 2025-02-24 03:33:00
+- **New articles in last harvest:** 17
+- **Last harvest:** 2025-02-25 19:05
+- **Most recent article:** 2025-02-24 18:17:44
 
 ---
 
@@ -12,14 +12,14 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-3 | 25-4 | 25-5 | 25-6 | 25-7 | 25-8 | 25-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| h5n1 | 63 | 31 | 51 | 72 | 55 | 54 | 4 | 330 |
-| dengue | 29 | 37 | 24 | 34 | 37 | 57 | 2 | 220 |
-| measles | 9 | 10 | 13 | 24 | 72 | 83 | 8 | 219 |
-| mpox | 34 | 23 | 22 | 28 | 18 | 15 | 0 | 140 |
-| malaria | 18 | 19 | 30 | 25 | 12 | 7 | 0 | 111 |
+| h5n1 | 59 | 31 | 51 | 72 | 55 | 54 | 10 | 332 |
+| measles | 9 | 10 | 13 | 24 | 72 | 83 | 14 | 225 |
+| dengue | 28 | 37 | 24 | 34 | 37 | 57 | 2 | 219 |
+| mpox | 34 | 23 | 22 | 28 | 18 | 15 | 1 | 141 |
+| malaria | 18 | 19 | 30 | 25 | 12 | 7 | 3 | 114 |
 | hpai | 12 | 11 | 6 | 3 | 9 | 5 | 0 | 46 |
 | chikungunya | 7 | 10 | 9 | 8 | 5 | 3 | 0 | 42 |
-| meningitis | 2 | 3 | 8 | 2 | 12 | 11 | 0 | 38 |
+| meningitis | 2 | 3 | 8 | 2 | 12 | 11 | 1 | 39 |
 | rabies | 6 | 7 | 6 | 4 | 5 | 4 | 0 | 32 |
 | zika | 5 | 2 | 8 | 6 | 2 | 6 | 0 | 29 |
 | yersinia | 2 | 0 | 0 | 0 | 5 | 0 | 2 | 9 |
@@ -38,7 +38,27 @@ Source: [News API](https://newsapi.org/)
 
 - [ניסוי הכלים של המגפה השחורה בסקנדינביה](https://www.ynet.co.il/environment-science/article/rj00xhnlcjx) (Ynet)
 
+## 25-9 (mpox)
+
+- [Greve de auditores fiscais gera prejuízo de R$ 3,5 bilhões, diz instituto](https://veja.abril.com.br/coluna/radar/greve-de-auditores-fiscais-gera-prejuizo-de-r-35-bilhoes-diz-instituto) (Abril.com.br)
+
+## 25-9 (meningitis)
+
+- [Father of girl who died with 'blood oozing from eyes' speaks out as jury decides hospital contributed to her death](https://www.ladbible.com/news/uk-news/sophie-ward-meningitis-inquest-father-219426-20250224) (LADbible)
+
 ## 25-9 (measles)
+
+- [Measles Exposure Warning Issued To Texas Residents](https://www.newsweek.com/measles-exposure-warning-texas-2035394) (Newsweek)
+
+- [Traveler at Japan’s Kansai International Airport confirmed infected with measles, caution urged](https://soranews24.com/2025/02/24/traveler-at-japans-kansai-international-airport-confirmed-infected-with-measles-caution-urged/) (SoraNews24)
+
+- [Measles outbreak grows to nearly 100 cases, with largest impact in Texas](https://www.cbsnews.com/video/measles-outbreak-grows-to-nearly-100-cases-with-largest-impact-in-texas/) (CBS News)
+
+- [First, Texas. Now, Measles Make Showing in New Mexico](https://www.newser.com/story/364750/first-texas-now-measles-make-showing-in-new-mexico.html) (Newser)
+
+- [Measles outbreak in Texas and New Mexico: Nearly 100 cases reported — How declining immunisation rates are to blame](https://economictimes.indiatimes.com/news/international/us/measles-outbreak-in-texas-and-new-mexico-nearly-100-cases-reported-how-declining-immunisation-rates-are-to-blame/articleshow/118534760.cms) (The Times of India)
+
+- [The Latest on the Texas Measles Outbreak, Asteroid 2024 YR4 Risks and Fish Friends](https://www.scientificamerican.com/podcast/episode/the-latest-on-the-texas-measles-outbreak-asteroid-2024-yr4-risks-and-fish/) (Scientific American)
 
 - [Central Texas universities, health departments warn of potential measles exposure after visit from at least one positive West Texas resident](https://www.cbsnews.com/texas/news/texas-universities-health-departments-potential-measles-exposure-positive-west-texas-resident/) (CBS News)
 
@@ -56,7 +76,27 @@ Source: [News API](https://newsapi.org/)
 
 - [‘Deadly consequences’: Health agencies reel from thousands of job cuts while critical research grants remain on hold | CNN](https://www.cnn.com/2025/02/23/health/public-health-job-cuts/index.html) (CNN)
 
+## 25-9 (malaria)
+
+- [Detrimental infant and maternal outcomes of undiagnosed asymptomatic malaria in pregnancy](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004528) (Plos.org)
+
+- [Liver stage P. falciparum antigens highly targeted by CD4+ T cells in malaria-exposed Ugandan children](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012943) (Plos.org)
+
+- [From Unpaid to Unstoppable: The Rise of the Professional Community Health Worker Movement (Blog)](https://ssir.org/articles/entry/movement-to-professionalize-community-health-workers) (Ssir.org)
+
 ## 25-9 (h5n1)
+
+- [Bird flu fear hits poultry sales as consumers shift to alternatives](https://timesofindia.indiatimes.com/city/bengaluru/bird-flu-fear-hits-poultry-sales-as-consumers-shift-to-alternatives/articleshow/118538931.cms) (The Times of India)
+
+- [Bird flu now found in black rats in California](https://www.oregonlive.com/health/2025/02/bird-flu-now-found-in-black-rats-in-california.html) (OregonLive)
+
+- [Bird flu: Canada buys 500 000 H5N1 vaccines as US scrambles to rehire bird flu staff](https://www.bmj.com/content/388/bmj.r379) (The BMJ)
+
+- [What to know about bird flu in greater Gardner: Tips to keep your backyard chickens safe](https://www.thegardnernews.com/story/news/local/2025/02/24/how-to-keep-backyard-chickens-safe-from-bird-flu-gardner-h5n1/79308279007/) (Thegardnernews.com)
+
+- [Gripe H5N1 é ameaça de nova epidemia no horizonte](https://greensavers.sapo.pt/gripe-h5n1-e-ameaca-de-nova-epidemia-no-horizonte/) (Sapo.pt)
+
+- [Alerta el riesgo de que gripe aviar cause muertes humanas](https://www.jornada.com.mx/2025/02/24/politica/015n3pol) (Jornada.com.mx)
 
 - [USDA Confirms Bird Flu In Rats](https://www.shtfplan.com/headline-news/usda-confirms-bird-flu-in-rats) (Shtfplan.com)
 
@@ -2582,14 +2622,6 @@ Source: [News API](https://newsapi.org/)
 
 - [UNAM alerta sobre virus de influenza H5N1 y recomienda vigilarlo](https://www.milenio.com/politica/unam-recomienda-vigilar-virus-causante-de-la-gripe-aviar) (Milenio)
 
-- [First US human death from bird flu is more serious than you may think](https://newatlas.com/infectious-diseases/first-us-human-death-bird-flu/) (New Atlas)
-
-- [Homem de 28 anos do Camboja morre de gripe aviária. País apura caso](https://www.metropoles.com/saude/homem-28-camboja-morre-gripe-aviaria) (Metropoles.com)
-
-- [नोरोव्हायरस, बर्ड फ्लू की कोरोना... हिवाळ्यात कोणता जास्त धोकादायक आणि तो कसा टाळायचा?](https://www.lokmat.com/sakhi/health/lifestyle-diseases/health-tips-norovirus-vs-bird-flu-vs-covid-19-which-is-more-dangerous-in-winter-a-a597/) (Lokmat.com)
-
-- [Llama la UNAM a vigilar la evolución de la gripe aviar](https://www.jornada.com.mx/2025/01/12/sociedad/027n2soc) (Jornada.com.mx)
-
 ## 25-3 (dengue)
 
 - [Dengue: como usar o hipoclorito de sódio no combate ao Aedes aegypti](https://casa.abril.com.br/minha-casa/dengue-como-usar-o-hipoclorito-de-sodio-no-combate-ao-aedes-aegypti) (Abril.com.br)
@@ -2647,8 +2679,6 @@ Source: [News API](https://newsapi.org/)
 - [Dengue: SP tem 21 cidades em situação de emergência](https://www.terra.com.br/vida-e-estilo/saude/dengue-sp-tem-21-cidades-em-situacao-de-emergencia,cb9f0c74f749309f7f6f2dc0e1b1bc085pm97v74.html) (Terra.com.br)
 
 - [As dengue cases rise, researchers points to a simple solution: trash cleanup](https://news.stanford.edu/stories/2025/01/waste-reduction-a-key-defense-against-rising-dengue-cases) (Stanford.edu)
-
-- [Saúde falha em pontos sensíveis e fragiliza a situação de Nísia Trindade](https://veja.abril.com.br/politica/saude-falha-em-pontos-sensiveis-e-fragiliza-a-situacao-de-nisia-trindade) (Abril.com.br)
 
 ## 25-3 (chikungunya)
 
