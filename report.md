@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 9
-- **Last harvest:** 2025-02-24 19:06
-- **Most recent article:** 2025-02-23 18:00:43
+- **New articles in last harvest:** 5
+- **Last harvest:** 2025-02-25 07:06
+- **Most recent article:** 2025-02-24 03:33:00
 
 ---
 
@@ -12,9 +12,9 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-3 | 25-4 | 25-5 | 25-6 | 25-7 | 25-8 | 25-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| h5n1 | 59 | 31 | 51 | 72 | 55 | 54 | 4 | 326 |
-| dengue | 28 | 37 | 24 | 34 | 37 | 57 | 1 | 218 |
-| measles | 9 | 10 | 13 | 24 | 72 | 83 | 4 | 215 |
+| h5n1 | 63 | 31 | 51 | 72 | 55 | 54 | 4 | 330 |
+| dengue | 29 | 37 | 24 | 34 | 37 | 57 | 2 | 220 |
+| measles | 9 | 10 | 13 | 24 | 72 | 83 | 8 | 219 |
 | mpox | 34 | 23 | 22 | 28 | 18 | 15 | 0 | 140 |
 | malaria | 18 | 19 | 30 | 25 | 12 | 7 | 0 | 111 |
 | hpai | 12 | 11 | 6 | 3 | 9 | 5 | 0 | 46 |
@@ -40,6 +40,14 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-9 (measles)
 
+- [Central Texas universities, health departments warn of potential measles exposure after visit from at least one positive West Texas resident](https://www.cbsnews.com/texas/news/texas-universities-health-departments-potential-measles-exposure-positive-west-texas-resident/) (CBS News)
+
+- [Former FDA chief 'very concerned' about Texas measles outbreak spreading (Lauren Irwin/The Hill)](https://www.memeorandum.com/250223/p63) (Memeorandum.com)
+
+- [Hays County warns residents of possible measles exposure at Texas State University, San Marcos area](https://www.ksat.com/news/local/2025/02/23/hays-county-warns-residents-of-possible-measles-exposure-at-texas-state-university-san-marcos-area/) (KSAT San Antonio)
+
+- [Hays County warns of possible measles exposure in San Marcos](https://www.fox7austin.com/news/hays-county-warns-possible-measles-exposure-san-marcos) (FOX 7 Austin)
+
 - [Gottlieb "very concerned" about Texas measles outbreak: "I think this will spread"](https://www.cbsnews.com/video/gottlieb-very-concerned-about-texas-measles-outbreak-i-think-this-will-spread/) (CBS News)
 
 - [TWiV 1195: Dickson Despommier, parasitologist without borders](https://www.microbe.tv/twiv/twiv-1195/) (Microbe.tv)
@@ -59,6 +67,8 @@ Source: [News API](https://newsapi.org/)
 - [Francisco George: gripe H5N1 é ameaça de nova epidemia no horizonte](https://observador.pt/2025/02/23/francisco-george-gripe-h5n1-e-ameaca-de-nova-epidemia-no-horizonte/) (Observador.pt)
 
 ## 25-9 (dengue)
+
+- [Enfermedades respiratorias aumentaron en Nayarit desde el inicio del 2025](https://www.excelsior.com.mx/nacional/enfermedades-respiratorias-aumentaron-en-nayarit-desde-el-inicio-del-2025/1701463) (Excelsior.com.mx)
 
 - [Philippine village battles dengue by offering bounties for mosquitos — dead or alive](https://www.voanews.com/a/philippine-village-battles-dengue-by-offering-bounties-for-mosquitos-dead-or-alive/7984215.html) (VOA News)
 
@@ -2572,6 +2582,14 @@ Source: [News API](https://newsapi.org/)
 
 - [UNAM alerta sobre virus de influenza H5N1 y recomienda vigilarlo](https://www.milenio.com/politica/unam-recomienda-vigilar-virus-causante-de-la-gripe-aviar) (Milenio)
 
+- [First US human death from bird flu is more serious than you may think](https://newatlas.com/infectious-diseases/first-us-human-death-bird-flu/) (New Atlas)
+
+- [Homem de 28 anos do Camboja morre de gripe aviária. País apura caso](https://www.metropoles.com/saude/homem-28-camboja-morre-gripe-aviaria) (Metropoles.com)
+
+- [नोरोव्हायरस, बर्ड फ्लू की कोरोना... हिवाळ्यात कोणता जास्त धोकादायक आणि तो कसा टाळायचा?](https://www.lokmat.com/sakhi/health/lifestyle-diseases/health-tips-norovirus-vs-bird-flu-vs-covid-19-which-is-more-dangerous-in-winter-a-a597/) (Lokmat.com)
+
+- [Llama la UNAM a vigilar la evolución de la gripe aviar](https://www.jornada.com.mx/2025/01/12/sociedad/027n2soc) (Jornada.com.mx)
+
 ## 25-3 (dengue)
 
 - [Dengue: como usar o hipoclorito de sódio no combate ao Aedes aegypti](https://casa.abril.com.br/minha-casa/dengue-como-usar-o-hipoclorito-de-sodio-no-combate-ao-aedes-aegypti) (Abril.com.br)
@@ -2629,6 +2647,8 @@ Source: [News API](https://newsapi.org/)
 - [Dengue: SP tem 21 cidades em situação de emergência](https://www.terra.com.br/vida-e-estilo/saude/dengue-sp-tem-21-cidades-em-situacao-de-emergencia,cb9f0c74f749309f7f6f2dc0e1b1bc085pm97v74.html) (Terra.com.br)
 
 - [As dengue cases rise, researchers points to a simple solution: trash cleanup](https://news.stanford.edu/stories/2025/01/waste-reduction-a-key-defense-against-rising-dengue-cases) (Stanford.edu)
+
+- [Saúde falha em pontos sensíveis e fragiliza a situação de Nísia Trindade](https://veja.abril.com.br/politica/saude-falha-em-pontos-sensiveis-e-fragiliza-a-situacao-de-nisia-trindade) (Abril.com.br)
 
 ## 25-3 (chikungunya)
 

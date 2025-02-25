@@ -1,8 +1,98 @@
 {
-  "last_updated": "2025-02-24 19:06",
-  "count_articles_total": 1191,
-  "count_articles_new": 9,
+  "last_updated": "2025-02-25 07:06",
+  "count_articles_total": 1201,
+  "count_articles_new": 5,
   "articles": [
+    {
+      "id": 18569,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "S.e. Jenkins",
+      "title": "Central Texas universities, health departments warn of potential measles exposure after visit from at least one positive West Texas resident",
+      "description": "Central Texas universities, health departments warn of potential measles exposure after visit from at least one positive West Texas residentcbsnews.com",
+      "url": "https://www.cbsnews.com/texas/news/texas-universities-health-departments-potential-measles-exposure-positive-west-texas-resident/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/02/21/897f2336-c904-4bfa-8e06-be4ebdae747f/thumbnail/1200x630/1d2e91eb6ed0e126282a3ca11e0b8b79/measles-rash-cdc.png?v=db3d87ba7bf4d4ff13b65eabcf0d9bea",
+      "publishedAt": "2025-02-24 03:33:00",
+      "content": "Two Texas universities and their surrounding communities have issued warnings about potential exposure to measles after giving campus tours to at least one person who tested positive for the virus. \u2026 [+3990 chars]",
+      "retrievedAt": "2025-02-25 07:06:49.989410",
+      "internal_id": "14c69c9ac76b0b92d05f1239d5ac78d28a28d52788dbfdad3274bedc09406cfc",
+      "publishedAtLabel": "Feb 24"
+    },
+    {
+      "id": 18570,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Excelsior.com.mx",
+      "author": "jcarlos.ponce",
+      "title": "Enfermedades respiratorias aumentaron en Nayarit desde el inicio del 2025",
+      "description": "Patricia Rodr\u00edguez Calva Nayarit cerrar\u00e1 el segundo mes del a\u00f1o con el reto de combatir diversas enfermedades virales y respiratorias que est\u00e1n afectando a su poblaci\u00f3n y que han aumentado desde que inici\u00f3 el 2025. En el caso del impacto del dengue, el es\u2026",
+      "url": "https://www.excelsior.com.mx/nacional/enfermedades-respiratorias-aumentaron-en-nayarit-desde-el-inicio-del-2025/1701463",
+      "urlToImage": "https://www.excelsior.com.mx/media/pictures/2025/02/23/3263463.jpg",
+      "publishedAt": "2025-02-23 23:01:09",
+      "content": "Nayarit cerrar\u00e1 el segundo mes del a\u00f1o con el reto de combatir diversas enfermedades virales y respiratorias que est\u00e1n afectando a su poblaci\u00f3n y que han aumentado desde que inici\u00f3 el 2025. En el ca\u2026 [+1237 chars]",
+      "retrievedAt": "2025-02-25 07:06:50.868444",
+      "internal_id": "5f66d1c3b09e69907a7c7556bfa0a87798e80afbb8a07bcbfffa77003277c7f0",
+      "publishedAtLabel": "Feb 23"
+    },
+    {
+      "id": 18566,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "Former FDA chief 'very concerned' about Texas measles outbreak spreading (Lauren Irwin/The Hill)",
+      "description": "Lauren Irwin / The Hill: Former FDA chief \u2018very concerned\u2019 about Texas measles outbreak spreading \u2014 Former Food and Drug Administration (FDA) Commissioner Scott Gottlieb said he is \u201cvery concerned\u201d about the measles outbreak in Texas spreading. \u2014 Gottlieb\u2026",
+      "url": "https://www.memeorandum.com/250223/p63",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2021/06/ca_scott_gottlieb.jpg?w=1280",
+      "publishedAt": "2025-02-23 22:15:01",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-02-25 07:06:49.869373",
+      "internal_id": "efe250d149f6c346c9b70732bb3650ecacd537119af4892e9cb101a26354508c",
+      "publishedAtLabel": "Feb 23"
+    },
+    {
+      "id": 18567,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "KSAT San Antonio",
+      "author": "Gabby Jimenez",
+      "title": "Hays County warns residents of possible measles exposure at Texas State University, San Marcos area",
+      "description": "Hays County warns residents of possible measles exposure at Texas State University, San Marcos areaksat.com",
+      "url": "https://www.ksat.com/news/local/2025/02/23/hays-county-warns-residents-of-possible-measles-exposure-at-texas-state-university-san-marcos-area/",
+      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/NIA32XEHJNCGRA5RR5CGXN27IE.jpg?_a=DATAdtfiZAA0",
+      "publishedAt": "2025-02-23 20:38:07",
+      "content": "SAN MARCOS, Texas The Hays County Health Department is alerting residents about a potential exposure to measles. A Gaines County resident who tested positive for measles by the Texas Department of S\u2026 [+5480 chars]",
+      "retrievedAt": "2025-02-25 07:06:49.961054",
+      "internal_id": "6ab1879cac95c598d9b373b8761e73324ee12966adebc7328597bf1dfde6d04c",
+      "publishedAtLabel": "Feb 23"
+    },
+    {
+      "id": 18568,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "FOX 7 Austin",
+      "author": "Amber Kite",
+      "title": "Hays County warns of possible measles exposure in San Marcos",
+      "description": "People who were at Texas State University from approximately 3 to 7 p.m. and Twin Peaks Restaurant from 6 to 10 p.m. on Feb. 14, 2025 may be at risk of developing measles due to exposure.",
+      "url": "https://www.fox7austin.com/news/hays-county-warns-possible-measles-exposure-san-marcos",
+      "urlToImage": "https://images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2025/02/1280/720/measles-san-marcos-2025-02-23-130846-1.png?ve=1&tl=1",
+      "publishedAt": "2025-02-23 19:45:31",
+      "content": "HAYS COUNTY, Texas - The Hays County Health Department was notified about the potential for exposure of residents to a person who tested positive for measles by the Texas Department of State Health S\u2026 [+5021 chars]",
+      "retrievedAt": "2025-02-25 07:06:49.969290",
+      "internal_id": "56ff93fdd0d5ef93aa591440078e81a48e646d36966a5bced7aa5249f8b8586f",
+      "publishedAtLabel": "Feb 23"
+    },
     {
       "id": 18563,
       "query": [
@@ -21478,6 +21568,96 @@
       "content": "La Universidad Nacional Aut\u00f3noma de M\u00e9xico (UNAM) advirti\u00f3 que, aunque el riesgo para la salud p\u00fablica del pa\u00eds debido al virus de influenza H5N1 es bajo, se prev\u00e9 que sea un tema relevante durante e\u2026 [+4785 chars]",
       "retrievedAt": "2025-01-14 07:06:12.760466",
       "internal_id": "baaa0db7725aec9011864c3d9e85a14527a4a4c780b53a663c2a5434df143776",
+      "publishedAtLabel": "Jan 12"
+    },
+    {
+      "id": 17370,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "New Atlas",
+      "author": "Bronwyn Thompson",
+      "title": "First US human death from bird flu is more serious than you may think",
+      "description": "Two months shy of the fifth anniversary of COVID-19 being declared a global pandemic, the US has recorded its first human death as a result of avian influenza H5N1 infection. The unidentified Louisiana man contracted the virus through contact with infected wi\u2026",
+      "url": "https://newatlas.com/infectious-diseases/first-us-human-death-bird-flu/",
+      "urlToImage": "https://assets.newatlas.com/dims4/default/b972f69/2147483647/strip/true/crop/6902x3624+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Ff5%2Fc7%2F36c9adbb4446af9c71ae546c1753%2Fdepositphotos-776801192-xl.jpg&na.image_optimisation=0",
+      "publishedAt": "2025-01-12 16:00:00",
+      "content": "Two months shy of the fifth anniversary of COVID-19 being declared a global pandemic, the US has recorded its first human death as a result of avian influenza H5N1 infection. The unidentified Louisia\u2026 [+13998 chars]",
+      "retrievedAt": "2025-01-13 19:05:36.977135",
+      "internal_id": "d7213205bc7810dd1bb1123820446d4106b2264f21aacb1ab82b6b877009c879",
+      "publishedAtLabel": "Jan 12"
+    },
+    {
+      "id": 17371,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Ravenna Alves",
+      "title": "Homem de 28 anos do Camboja morre de gripe avi\u00e1ria. Pa\u00eds apura caso",
+      "description": "De acordo com as autoridades de sa\u00fade do pa\u00eds, o homem criava aves em sua casa e havia cozinhado frangos doentes para se alimentar",
+      "url": "https://www.metropoles.com/saude/homem-28-camboja-morre-gripe-aviaria",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/11/20102453/Gripe-aviaria-2.jpg",
+      "publishedAt": "2025-01-12 14:32:09",
+      "content": "Um homem de 28 anos, natural da prov\u00edncia de Kampong Cham, no Camboja, pa\u00eds localizado no sudeste da \u00c1sia, morreu na \u00faltima sexta-feira (10/1) em decorr\u00eancia da gripe avi\u00e1ria H5N1, informou o Minist\u00e9\u2026 [+1624 chars]",
+      "retrievedAt": "2025-01-13 19:05:37.043393",
+      "internal_id": "9ae40e03f2d31e85fc20aed4a347b9c952eea9e2af3bc32d8da0e3f22865fd12",
+      "publishedAtLabel": "Jan 12"
+    },
+    {
+      "id": 17373,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Lokmat.com",
+      "author": "\u0911\u0928\u0932\u093e\u0907\u0928 \u0932\u094b\u0915\u092e\u0924",
+      "title": "\u0928\u094b\u0930\u094b\u0935\u094d\u0939\u093e\u092f\u0930\u0938, \u092c\u0930\u094d\u0921 \u092b\u094d\u0932\u0942 \u0915\u0940 \u0915\u094b\u0930\u094b\u0928\u093e... \u0939\u093f\u0935\u093e\u0933\u094d\u092f\u093e\u0924 \u0915\u094b\u0923\u0924\u093e \u091c\u093e\u0938\u094d\u0924 \u0927\u094b\u0915\u093e\u0926\u093e\u092f\u0915 \u0906\u0923\u093f \u0924\u094b \u0915\u0938\u093e \u091f\u093e\u0933\u093e\u092f\u091a\u093e?",
+      "description": "health tips norovirus vs bird flu vs covid 19 which is more dangerous in winter - \u0939\u093f\u0935\u093e\u0933\u094d\u092f\u093e\u0924 \u092f\u093e \u0924\u093f\u0918\u093e\u0902\u092a\u0948\u0915\u0940 \u0915\u094b\u0923\u0924\u093e \u0906\u091c\u093e\u0930 \u091c\u093e\u0938\u094d\u0924 \u0927\u094b\u0915\u093e\u0926\u093e\u092f\u0915 \u0906\u0939\u0947 \u0906\u0923\u093f \u0924\u0947 \u0906\u091c\u093e\u0930 \u0915\u0938\u0947 \u091f\u093e\u0933\u093e\u092f\u091a\u0947 \u092f\u093e\u092c\u093e\u092c\u0924 \u091c\u093e\u0923\u0942\u0928 \u0918\u0947\u090a\u092f\u093e... - Latest Marathi News (\u092e\u0930\u093e\u0920\u0940 \u092c\u093e\u0924\u092e\u094d\u092f\u093e). Find Breaking Headlines, Current and La\u2026",
+      "url": "https://www.lokmat.com/sakhi/health/lifestyle-diseases/health-tips-norovirus-vs-bird-flu-vs-covid-19-which-is-more-dangerous-in-winter-a-a597/",
+      "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/images/1200x900/whatsapp-image-2025-01-12-at-4.16.55-pm_2025011374514.jpeg",
+      "publishedAt": "2025-01-12 11:05:28",
+      "content": ". , . . , . . . ... ? . . , , . . . . . . . ? . (WHO) , , H5N1 ( ) . % , - , .% % . , , , , , , , , , . . , , , , , , , , , , . . . ? - , . - . - . - . - . - , , , . - . - . \u2026 [+33 chars]",
+      "retrievedAt": "2025-01-13 19:05:37.154498",
+      "internal_id": "4cd14b9ed5ab9f7fa687124ae40806cfae88bf83a5fbc6f5c661b28db64994c6",
+      "publishedAtLabel": "Jan 12"
+    },
+    {
+      "id": 17374,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Bruno Caniato",
+      "title": "Sa\u00fade falha em pontos sens\u00edveis e fragiliza a situa\u00e7\u00e3o de N\u00edsia Trindade",
+      "description": "O mais decepcionante para a administra\u00e7\u00e3o petista \u00e9 que a pasta vai mal exatamente onde prometeu brilhar: a vacina\u00e7\u00e3o",
+      "url": "https://veja.abril.com.br/politica/saude-falha-em-pontos-sensiveis-e-fragiliza-a-situacao-de-nisia-trindade",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2025/01/1D-1-NISIA-TRINDADE-2024-12-a.jpg.jpg?quality=70&strip=info&crop=1&resize=1080,565",
+      "publishedAt": "2025-01-12 11:00:00",
+      "content": "F\u00e9rias: Assine a partir de 1,50/semanaFRACASSO- A\u00e7\u00e3o contra a dengue: o n\u00famero de casos quadruplicou em 2024 (Marcelo Camargo/Ag\u00eancia Brasil) Continua ap\u00f3s publicidade A gest\u00e3o da sa\u00fade da Presid\u00ean\u2026 [+8193 chars]",
+      "retrievedAt": "2025-01-13 19:05:37.432831",
+      "internal_id": "2dd9bd386fab5498bf5c3d9acb63bd565b0df5d0d32caf1ceb0e0c8f1b236c9c",
+      "publishedAtLabel": "Jan 12"
+    },
+    {
+      "id": 17372,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "title": "Llama la UNAM a vigilar la evoluci\u00f3n de la gripe aviar",
+      "description": "El riesgo para la salud p\u00fablica por la influenza aviar (H5N1) por el momento es bajo en el pa\u00eds, pero se prev\u00e9 que sea un tema destacado durante 2025, pues podr\u00eda afectar tanto el bienestar humano como el animal, e impactar en la producci\u00f3n de alimentos y su \u2026",
+      "url": "https://www.jornada.com.mx/2025/01/12/sociedad/027n2soc",
+      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "publishedAt": "2025-01-12 09:17:11",
+      "content": "Peri\u00f3dico La JornadaDomingo 12 de enero de 2025, p. 27 El riesgo para la salud p\u00fablica por la influenza aviar (H5N1) por el momento es bajo en el pa\u00eds, pero se prev\u00e9 que sea un tema destacado durant\u2026 [+1896 chars]",
+      "retrievedAt": "2025-01-13 19:05:37.097160",
+      "internal_id": "07c41e8d9171982712298a770a334e526b38155acc5322993295e1b60bd93e20",
       "publishedAtLabel": "Jan 12"
     }
   ]
