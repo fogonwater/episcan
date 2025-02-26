@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 24
-- **Last harvest:** 2025-02-26 07:06
-- **Most recent article:** 2025-02-25 06:38:28
+- **New articles in last harvest:** 28
+- **Last harvest:** 2025-02-26 19:05
+- **Most recent article:** 2025-02-25 18:37:00
 
 ---
 
@@ -12,20 +12,21 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-3 | 25-4 | 25-5 | 25-6 | 25-7 | 25-8 | 25-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| h5n1 | 63 | 31 | 51 | 72 | 55 | 54 | 13 | 339 |
-| measles | 9 | 10 | 13 | 24 | 72 | 83 | 31 | 242 |
-| dengue | 29 | 37 | 24 | 34 | 37 | 57 | 3 | 221 |
-| mpox | 34 | 23 | 22 | 28 | 18 | 15 | 1 | 141 |
+| h5n1 | 59 | 31 | 51 | 72 | 55 | 54 | 19 | 341 |
+| measles | 9 | 10 | 13 | 24 | 72 | 83 | 35 | 246 |
+| dengue | 28 | 37 | 24 | 34 | 37 | 57 | 14 | 231 |
+| mpox | 34 | 23 | 22 | 28 | 18 | 15 | 3 | 143 |
 | malaria | 18 | 19 | 30 | 25 | 12 | 7 | 3 | 114 |
-| hpai | 12 | 11 | 6 | 3 | 9 | 5 | 1 | 47 |
-| chikungunya | 7 | 10 | 9 | 8 | 5 | 3 | 2 | 44 |
-| meningitis | 2 | 3 | 8 | 2 | 12 | 11 | 1 | 39 |
+| hpai | 12 | 11 | 6 | 3 | 9 | 5 | 2 | 48 |
+| chikungunya | 7 | 10 | 9 | 8 | 5 | 3 | 5 | 47 |
+| meningitis | 2 | 3 | 8 | 2 | 12 | 11 | 2 | 40 |
 | rabies | 6 | 7 | 6 | 4 | 5 | 4 | 0 | 32 |
 | zika | 5 | 2 | 8 | 6 | 2 | 6 | 0 | 29 |
 | yersinia | 2 | 0 | 0 | 0 | 5 | 0 | 2 | 9 |
 | pertussis | 0 | 1 | 0 | 3 | 3 | 2 | 0 | 9 |
 | typhoid | 4 | 0 | 0 | 2 | 3 | 0 | 0 | 9 |
 | leptospirosis | 1 | 2 | 0 | 1 | 0 | 2 | 0 | 6 |
+| shigellosis | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -38,15 +39,33 @@ Source: [News API](https://newsapi.org/)
 
 - [ניסוי הכלים של המגפה השחורה בסקנדינביה](https://www.ynet.co.il/environment-science/article/rj00xhnlcjx) (Ynet)
 
+## 25-9 (shigellosis)
+
+- [Tebipenem pivoxil as an alternative to ceftriaxone for clinically non-responding children with shigellosis: a randomised non-inferiority trial protocol](https://bmjopen.bmj.com/content/15/2/e088449) (The BMJ)
+
 ## 25-9 (mpox)
+
+- [Why the good news about the mpox outbreak of 2025 isn't really good after all](https://www.npr.org/sections/goats-and-soda/2025/02/25/g-s1-49693/mpox-vaccines-democratic-republic-congo-usaid) (NPR)
+
+- [Behind the Paper: International Healthcare Workers’ Experiences and Perceptions of the 2022 Mpox Outbreak](https://speakingofmedicine.plos.org/2025/02/25/behind-the-paper-international-healthcare-workers-experiences-and-perceptions-of-the-2022-mpox-outbreak/) (Plos.org)
 
 - [Greve de auditores fiscais gera prejuízo de R$ 3,5 bilhões, diz instituto](https://veja.abril.com.br/coluna/radar/greve-de-auditores-fiscais-gera-prejuizo-de-r-35-bilhoes-diz-instituto) (Abril.com.br)
 
 ## 25-9 (meningitis)
 
+- [Rigidez en la nuca en niños: síntomas clave que no debes ignorar](https://www.hola.com/padres/20250225816418/rigidez-nuca-ninos-sintomas-alerta/) (Hola)
+
 - [Father of girl who died with 'blood oozing from eyes' speaks out as jury decides hospital contributed to her death](https://www.ladbible.com/news/uk-news/sophie-ward-meningitis-inquest-father-219426-20250224) (LADbible)
 
 ## 25-9 (measles)
+
+- [Texas measles outbreak grows](https://www.cbsnews.com/video/texas-measles-outbreak-grows/) (CBS News)
+
+- [Trump is already failing the first public health test of his second term](https://www.msnbc.com/opinion/msnbc-opinion/texas-measles-outbreak-vaccine-trump-100-newsletter-rcna193543) (MSNBC)
+
+- [Texas Measles Cases Now At 124 With Fear Of Spread To Other Areas](https://www.forbes.com/sites/davewessner/2025/02/25/texas-measles-cases-now-at-124-with-fear-of-spread-to-other-areas/) (Forbes)
+
+- [Fears of public health crises grow amid falling vax rates...](https://medicalxpress.com/news/2025-02-health-crises-falling-vaccination.html) (Medical Xpress)
 
 - [US Measles Outbreak Surges Towards 100 Cases](https://www.sciencealert.com/us-measles-outbreak-surges-towards-100-cases) (ScienceAlert)
 
@@ -120,9 +139,23 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-9 (hpai)
 
+- [STUDY: Bird Flu “Spreads Through The Air”](https://www.shtfplan.com/headline-news/study-bird-flu-spreads-through-the-air) (Shtfplan.com)
+
 - [話題を呼んだHumaneの「Ai Pin」、終焉を迎える](https://wired.jp/article/humane-ai-pin-will-become-e-waste-next-week/) (Wired.jp)
 
 ## 25-9 (h5n1)
+
+- [Amidst Cuts Impacting Bird Flu Response, Groups Demand Timely Release of CDC Updates](https://www.commondreams.org/news/bird-flu-cdc-coalition-letter) (Common Dreams)
+
+- [STUDY: Bird Flu “Spreads Through The Air”](https://www.shtfplan.com/headline-news/study-bird-flu-spreads-through-the-air) (Shtfplan.com)
+
+- [Wetenschappers waarschuwen: Vogelgriep H5N1 kan volgende pandemie veroorzaken](https://newsmonkey.be/wetenschappers-waarschuwen-vogelgriep-volgende-pandemie/) (Newsmonkey.be)
+
+- [Кошки заразились от хозяев птичьим гриппом и умерли](https://nplus1.ru/news/2025/02/25/h5n1-cats) (Nplus1.ru)
+
+- [Ученые совершили прорыв в борьбе с птичьим гриппом](https://tech.onliner.by/2025/02/25/proryv-v-borbe-s-ptichim-grippom) (Onliner.by)
+
+- [Aceste măsuri pot „preveni o epidemie umană". Ce spune un virusolog despre măsurile care pot opri răspândirea gripei aviare către oameni](https://www.mediafax.ro/stiinta-sanatate/aceste-masuri-pot-preveni-o-epidemie-umana-ce-spune-un-virusolog-despre-masurile-care-pot-opri-raspandirea-gripei-aviare-catre-oameni-22711054) (Mediafax.ro)
 
 - [[Перевод] Прорыв в изучении птичьего гриппа — хорошая новость для людей](https://habr.com/ru/articles/885492/#post-content-body) (Habr.com)
 
@@ -152,6 +185,28 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-9 (dengue)
 
+- [Doença misteriosa mata 50 pessoas no Congo horas após primeiros sintomas](https://veja.abril.com.br/mundo/doenca-misteriosa-mata-50-pessoas-no-congo-horas-apos-primeiros-sintomas) (Abril.com.br)
+
+- [Brasil produzirá vacina contra dengue em parceria com empresa chinesa](https://olhardigital.com.br/2025/02/25/medicina-e-saude/brasil-produzira-vacina-contra-dengue-em-parceria-com-empresa-chinesa/) (Olhardigital.com.br)
+
+- [Brasil anuncia vacina contra dengue em dose única de produção local em 2026](https://observador.pt/2025/02/25/brasil-anuncia-vacina-contra-dengue-em-dose-unica-de-producao-local-em-2026/) (Observador.pt)
+
+- [Em meio a fritura na Saúde, Lula fica em silêncio durante evento com Nísia](https://veja.abril.com.br/coluna/maquiavel/em-meio-a-fritura-na-saude-lula-fica-em-silencio-durante-evento-com-nisia) (Abril.com.br)
+
+- [Governo anuncia vacina brasileira contra a dengue no SUS a partir de 2026](https://www.infomoney.com.br/saude/governo-anuncia-vacina-brasileira-contra-a-dengue-no-sus-a-partir-de-2026/) (InfoMoney)
+
+- [Governo anuncia vacina nacional de dose única contra a dengue](https://www.congressoemfoco.com.br/noticia/106548/governo-anuncia-vacina-nacional-de-dose-unica-contra-a-dengue) (Congressoemfoco.com.br)
+
+- [Vacina nacional contra a dengue será válida para os quatro sorotipos, diz Nísia](https://valor.globo.com/brasil/noticia/2025/02/25/vacina-nacional-contra-a-dengue-ser-vlida-para-os-quatro-sorotipos-diz-nsia.ghtml) (Globo)
+
+- [Dengue: entenda como funcionará vacina 100% brasileira contra a doença](https://www.metropoles.com/saude/dengue-vacina-100-brasileira-entenda) (Metropoles.com)
+
+- [Lula anuncia vacina nacional contra a dengue em evento com clima de 'despedida' de Nísia Trindade](https://valor.globo.com/politica/noticia/2025/02/25/lula-anuncia-vacina-nacional-contra-a-dengue.ghtml) (Globo)
+
+- [Brasil terá primeira vacina 100% nacional e em dose única contra dengue](https://veja.abril.com.br/coluna/radar/brasil-tera-primeira-vacina-100-nacional-e-em-dose-unica-contra-dengue) (Abril.com.br)
+
+- [Dengue: Lula anuncia produção em larga escala de vacina brasileira](https://www.metropoles.com/brasil/dengue-lula-anuncia-producao-em-larga-escala-de-vacina-brasileira) (Metropoles.com)
+
 - [As dengue spreads, researchers discover a clue to fighting the virus](https://www.sciencedaily.com/releases/2025/02/250224143249.htm) (Science Daily)
 
 - [Enfermedades respiratorias aumentaron en Nayarit desde el inicio del 2025](https://www.excelsior.com.mx/nacional/enfermedades-respiratorias-aumentaron-en-nayarit-desde-el-inicio-del-2025/1701463) (Excelsior.com.mx)
@@ -159,6 +214,12 @@ Source: [News API](https://newsapi.org/)
 - [Philippine village battles dengue by offering bounties for mosquitos — dead or alive](https://www.voanews.com/a/philippine-village-battles-dengue-by-offering-bounties-for-mosquitos-dead-or-alive/7984215.html) (VOA News)
 
 ## 25-9 (chikungunya)
+
+- [Biological E partners with Bavarian Nordic for Chikungunya vaccine in low- and middle-income nations](https://www.thehindubusinessline.com/companies/biological-e-partners-with-bavarian-nordic-for-chikungunya-vaccine-in-low-and-middle-income-nations/article69261454.ece) (BusinessLine)
+
+- [Bavarian Nordic indgår samarbejde for at øge tilgængelighed af vaccine](https://www.dr.dk/nyheder/seneste/bavarian-nordic-indgaar-samarbejde-oege-tilgaengelighed-af-vaccine) (Www.dr.dk)
+
+- [Biological E inks strategic pact with Bavarian Nordic to manufacture Chikungunya vax](https://timesofindia.indiatimes.com/business/india-business/biological-e-inks-strategic-pact-with-bavarian-nordic-to-manufacture-chikungunya-vax/articleshow/118551504.cms) (The Times of India)
 
 - [Bavarian Nordic Partners with Biological E Limited to Expand Global Access to Chikungunya Vaccine](https://www.globenewswire.com/news-release/2025/02/25/3031656/0/en/Bavarian-Nordic-Partners-with-Biological-E-Limited-to-Expand-Global-Access-to-Chikungunya-Vaccine.html) (GlobeNewswire)
 
@@ -2674,14 +2735,6 @@ Source: [News API](https://newsapi.org/)
 
 - [UNAM alerta sobre virus de influenza H5N1 y recomienda vigilarlo](https://www.milenio.com/politica/unam-recomienda-vigilar-virus-causante-de-la-gripe-aviar) (Milenio)
 
-- [First US human death from bird flu is more serious than you may think](https://newatlas.com/infectious-diseases/first-us-human-death-bird-flu/) (New Atlas)
-
-- [Homem de 28 anos do Camboja morre de gripe aviária. País apura caso](https://www.metropoles.com/saude/homem-28-camboja-morre-gripe-aviaria) (Metropoles.com)
-
-- [नोरोव्हायरस, बर्ड फ्लू की कोरोना... हिवाळ्यात कोणता जास्त धोकादायक आणि तो कसा टाळायचा?](https://www.lokmat.com/sakhi/health/lifestyle-diseases/health-tips-norovirus-vs-bird-flu-vs-covid-19-which-is-more-dangerous-in-winter-a-a597/) (Lokmat.com)
-
-- [Llama la UNAM a vigilar la evolución de la gripe aviar](https://www.jornada.com.mx/2025/01/12/sociedad/027n2soc) (Jornada.com.mx)
-
 ## 25-3 (dengue)
 
 - [Dengue: como usar o hipoclorito de sódio no combate ao Aedes aegypti](https://casa.abril.com.br/minha-casa/dengue-como-usar-o-hipoclorito-de-sodio-no-combate-ao-aedes-aegypti) (Abril.com.br)
@@ -2739,8 +2792,6 @@ Source: [News API](https://newsapi.org/)
 - [Dengue: SP tem 21 cidades em situação de emergência](https://www.terra.com.br/vida-e-estilo/saude/dengue-sp-tem-21-cidades-em-situacao-de-emergencia,cb9f0c74f749309f7f6f2dc0e1b1bc085pm97v74.html) (Terra.com.br)
 
 - [As dengue cases rise, researchers points to a simple solution: trash cleanup](https://news.stanford.edu/stories/2025/01/waste-reduction-a-key-defense-against-rising-dengue-cases) (Stanford.edu)
-
-- [Saúde falha em pontos sensíveis e fragiliza a situação de Nísia Trindade](https://veja.abril.com.br/politica/saude-falha-em-pontos-sensiveis-e-fragiliza-a-situacao-de-nisia-trindade) (Abril.com.br)
 
 ## 25-3 (chikungunya)
 

@@ -1,8 +1,513 @@
 {
-  "last_updated": "2025-02-26 07:06",
-  "count_articles_total": 1242,
-  "count_articles_new": 24,
+  "last_updated": "2025-02-26 19:05",
+  "count_articles_total": 1265,
+  "count_articles_new": 28,
   "articles": [
+    {
+      "id": 18613,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "CBS News",
+      "title": "Texas measles outbreak grows",
+      "description": "A measles outbreak that spread in Gaines County, Texas, slammed a Mennonite community and has grown to around 100 cases, according to health officials. CBS News' Omar Villafranca reports.",
+      "url": "https://www.cbsnews.com/video/texas-measles-outbreak-grows/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/02/25/9d0b9193-a29f-48a5-8cbf-50e7e2e219a4/thumbnail/1200x630/12f8cdb0094a22ccceed67d360c17d44/cbsn-fusion-texas-measles-outbreak-grows-thumbnail.jpg?v=8530dec12e70cec71e9990a5fbc34391",
+      "publishedAt": "2025-02-25 18:37:00",
+      "content": "Watch CBS News Copyright \u00a92025 CBS Interactive Inc. All rights reserved. Get browser notifications for breaking news, live events, and exclusive reporting. Not NowTurn On",
+      "retrievedAt": "2025-02-26 19:05:49.395451",
+      "internal_id": "ec3dd496f64fda9f64b31957e67503e0812ef4b1349c70c088da59edecd4cf3a",
+      "publishedAtLabel": "Feb 25"
+    },
+    {
+      "id": 18624,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Paula Freitas",
+      "title": "Doen\u00e7a misteriosa mata 50 pessoas no Congo horas ap\u00f3s primeiros sintomas",
+      "description": "Sintomas incluem febre, v\u00f4mitos e hemorragia interna, tamb\u00e9m apresentados em casos de ebola, dengue, marburg e febre amarela",
+      "url": "https://veja.abril.com.br/mundo/doenca-misteriosa-mata-50-pessoas-no-congo-horas-apos-primeiros-sintomas",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2021/09/oms.jpeg?quality=70&strip=info&crop=1&resize=1080,565",
+      "publishedAt": "2025-02-25 18:36:03",
+      "content": "Jornalismo Influente e Conectado: 5,99/m\u00easOrganiza\u00e7\u00e3o Mundial de Sa\u00fade (OMS) (FABRICE COFFRINI/AFP) Continua ap\u00f3s publicidade Uma doen\u00e7a desconhecida matou 53 pessoas na vila de Boloko, na Rep\u00fablic\u2026 [+1965 chars]",
+      "retrievedAt": "2025-02-26 19:05:50.635200",
+      "internal_id": "a68f9d18c1ccf651d52d334660bbdd111102fffef96f5955f70e65b9842f896b",
+      "publishedAtLabel": "Feb 25"
+    },
+    {
+      "id": 18615,
+      "query": [
+        "measles"
+      ],
+      "source_id": "msnbc",
+      "source_name": "MSNBC",
+      "author": "Dr. Kavita Patel",
+      "title": "Trump is already failing the first public health test of his second term",
+      "description": "Measles was declared eliminated in the United States in 2000, a historic achievement in the world of public health. Now, it's back.",
+      "url": "https://www.msnbc.com/opinion/msnbc-opinion/texas-measles-outbreak-vaccine-trump-100-newsletter-rcna193543",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-02/250224-Texas-measles-aa-431-7eda35.jpg",
+      "publishedAt": "2025-02-25 18:32:47",
+      "content": "Measles was declared eliminated in the United States in 2000, a historic achievement in the world of public health. Now, it's back. And the second Donald Trump administration is making it harder to\u2026 [+3631 chars]",
+      "retrievedAt": "2025-02-26 19:05:49.430200",
+      "internal_id": "3596cce93e528e40c234fd721b87e5a34135c38b700a144c3b2a0c7f2258d717",
+      "publishedAtLabel": "Feb 25"
+    },
+    {
+      "id": 18614,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Dave Wessner, Contributor, \n Dave Wessner, Contributor\n https://www.forbes.com/sites/coronavirusfrontlines/people/davewessner/",
+      "title": "Texas Measles Cases Now At 124 With Fear Of Spread To Other Areas",
+      "description": "Measles outbreak in Texas continues to grow, with 124 cases now reported. Public health officials also warn of potential spread San Marcos, San Antonio.",
+      "url": "https://www.forbes.com/sites/davewessner/2025/02/25/texas-measles-cases-now-at-124-with-fear-of-spread-to-other-areas/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67be051fd74d579cc4c44ff2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-02-25 18:21:19",
+      "content": "The measles outbreak in Texas continues to grow, with XXX cases now reported in the South Plains ... [+] region. Fear of spread has increased, too, with people in south-central Texas alerted. (Photo \u2026 [+3479 chars]",
+      "retrievedAt": "2025-02-26 19:05:49.422342",
+      "internal_id": "7df1006804b74a8274b9f94ac1b92b8409ae353935b2cb9da6be95b5487fc40d",
+      "publishedAtLabel": "Feb 25"
+    },
+    {
+      "id": 18622,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Ana Luiza Figueiredo",
+      "title": "Brasil produzir\u00e1 vacina contra dengue em parceria com empresa chinesa",
+      "description": "O governo anunciou um investimento de R$ 1,26 bilh\u00e3o para a produ\u00e7\u00e3o nacional de uma vacina de dose \u00fanica contra a dengue O post Brasil produzir\u00e1 vacina contra dengue em parceria com empresa chinesa apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2025/02/25/medicina-e-saude/brasil-produzira-vacina-contra-dengue-em-parceria-com-empresa-chinesa/",
+      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2025/02/iStock-2185805651.jpg",
+      "publishedAt": "2025-02-25 18:03:29",
+      "content": "O governo federal anunciou um acordo para a produ\u00e7\u00e3o nacional de vacina de dose \u00fanica contra a dengue, em uma parceria entre o Instituto Butantan e a empresa WuXi Biologics. O objetivo \u00e9 ofertar 60 m\u2026 [+2012 chars]",
+      "retrievedAt": "2025-02-26 19:05:50.606503",
+      "internal_id": "5700738041d5918845208b22c45ccd649a34fab6d8774103b91a39d06f1fdc9f",
+      "publishedAtLabel": "Feb 25"
+    },
+    {
+      "id": 18626,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Observador.pt",
+      "author": "Ag\u00eancia Lusa",
+      "title": "Brasil anuncia vacina contra dengue em dose \u00fanica de produ\u00e7\u00e3o local em 2026",
+      "description": "O Brasil iniciar\u00e1 em 2026 a produ\u00e7\u00e3o local de vacina de dose \u00fanica contra a dengue, com 60 milh\u00f5es de doses anuais, aguardando aprova\u00e7\u00e3o da Anvisa para integrar o Programa Nacional de Imuniza\u00e7\u00f5es.",
+      "url": "https://observador.pt/2025/02/25/brasil-anuncia-vacina-contra-dengue-em-dose-unica-de-producao-local-em-2026/",
+      "urlToImage": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A1440%3A808%3Anowe%3A0%3A45%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2023%2F09%2F01233922%2Fvacinas-manuel-fernando-araujo-lusa.jpg?layer=obstop:T",
+      "publishedAt": "2025-02-25 17:53:53",
+      "content": "O Governo brasileiro anunciou esta ter\u00e7a-feira a produ\u00e7\u00e3o local, em larga escala, de uma vacina de dose \u00fanica contra a dengue, para pessoas com idades entre os 2 anos e os 59 anos, a partir de 2026. \u2026 [+1089 chars]",
+      "retrievedAt": "2025-02-26 19:05:50.657212",
+      "internal_id": "21a2b3b08b3f4c582d7a791ce2e5176d2689d2aa6b1258e63bddbe27f634baec",
+      "publishedAtLabel": "Feb 25"
+    },
+    {
+      "id": 18623,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "La\u00edsa Dall'Agnol",
+      "title": "Em meio a fritura na Sa\u00fade, Lula fica em sil\u00eancio durante evento com N\u00edsia",
+      "description": "Ministra fez an\u00fancio sobre produ\u00e7\u00e3o em larga escala da primeira vacina 100% nacional contra a dengue, nesta ter\u00e7a-feira, 25",
+      "url": "https://veja.abril.com.br/coluna/maquiavel/em-meio-a-fritura-na-saude-lula-fica-em-silencio-durante-evento-com-nisia",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2025/02/54350379801_16831393f2_k.jpg?quality=70&strip=info&crop=1&resize=1080,565",
+      "publishedAt": "2025-02-25 17:46:37",
+      "content": "Jornalismo Influente e Conectado: 5,99/m\u00eas A ministra N\u00edsia Trindade e o presidente Lula em evento de an\u00fancio do acordo para a produ\u00e7\u00e3o de vacinas, medicamentos e outros insumos (Ricardo Stuckert/PR\u2026 [+1891 chars]",
+      "retrievedAt": "2025-02-26 19:05:50.627595",
+      "internal_id": "9d7d5f283ab6debd97e08f62c385c45f09bc767a89674ffd08cd559ac43bfe95",
+      "publishedAtLabel": "Feb 25"
+    },
+    {
+      "id": 18627,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "info-money",
+      "source_name": "InfoMoney",
+      "author": "camillebocanegra",
+      "title": "Governo anuncia vacina brasileira contra a dengue no SUS a partir de 2026",
+      "description": "Produ\u00e7\u00e3o da vacina contra a dengue com apoio do BNDES e da Anvisa The post Governo anuncia vacina brasileira contra a dengue no SUS a partir de 2026 appeared first on InfoMoney.",
+      "url": "https://www.infomoney.com.br/saude/governo-anuncia-vacina-brasileira-contra-a-dengue-no-sus-a-partir-de-2026/",
+      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2021/03/needle-1291172_1920.jpg?quality=70",
+      "publishedAt": "2025-02-25 17:22:31",
+      "content": "O Governo Federal anunciou um acordo para a produ\u00e7\u00e3o em larga escala da primeira vacina 100% nacional, de dose \u00fanica, contra a dengue. O presidente Luiz In\u00e1cio Lula da Silva (PT) comunicou a iniciati\u2026 [+2050 chars]",
+      "retrievedAt": "2025-02-26 19:05:50.664590",
+      "internal_id": "0522fd0822674fef2bca85037cadde3e9994900e425980914e1a3124e35f2790",
+      "publishedAtLabel": "Feb 25"
+    },
+    {
+      "id": 18621,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Common Dreams",
+      "author": "Eloise Goldsmith",
+      "title": "Amidst Cuts Impacting Bird Flu Response, Groups Demand Timely Release of CDC Updates",
+      "description": "A broad coalition of environmental, health, and animal groups is demanding greater transparency from the U.S. Centers for Disease Control and Prevention when it comes to disseminating information about H5N1, or bird flu, that has sickened hundreds of dairy ca\u2026",
+      "url": "https://www.commondreams.org/news/bird-flu-cdc-coalition-letter",
+      "urlToImage": "https://www.commondreams.org/media-library/a-live-poultry-market-is-seen-as-new-york-gov-kathy-hochul-has-temporarily-shut-down-poultry-markets-in-new-york-city-westches.jpg?id=56588017&width=1200&height=600&coordinates=0%2C500%2C0%2C500",
+      "publishedAt": "2025-02-25 16:53:37",
+      "content": "A broad coalition of environmental, health, and animal groups is demanding greater transparency from the U.S. Centers for Disease Control and Prevention when it comes to disseminating information abo\u2026 [+2572 chars]",
+      "retrievedAt": "2025-02-26 19:05:50.283833",
+      "internal_id": "adc17a4961b73b862e9c3011e2f54d53911172c1b16a81171561f2e3d4da3aa5",
+      "publishedAtLabel": "Feb 25"
+    },
+    {
+      "id": 18630,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Congressoemfoco.com.br",
+      "author": "",
+      "title": "Governo anuncia vacina nacional de dose \u00fanica contra a dengue",
+      "description": "O projeto foi apresentado em meio \u00e0 crise na gest\u00e3o de N\u00edsia Trindade, que enfrenta o risco de ser substitu\u00edda ap\u00f3s o carnaval.",
+      "url": "https://www.congressoemfoco.com.br/noticia/106548/governo-anuncia-vacina-nacional-de-dose-unica-contra-a-dengue",
+      "urlToImage": "https://static.congressoemfoco.com.br/CONG_REDES_RETANGULAR/2025/02/25/7aaca4_1200x628_vacina_dengue_08.jpg",
+      "publishedAt": "2025-02-25 16:51:00",
+      "content": "O Governo Federal anunciou nesta ter\u00e7a-feira um acordo para a produ\u00e7\u00e3o da primeira vacina 100% nacional contra a dengue, que ser\u00e1 de dose \u00fanica e poder\u00e1 beneficiar milh\u00f5es de brasileiros. A expectati\u2026 [+1979 chars]",
+      "retrievedAt": "2025-02-26 19:05:50.693523",
+      "internal_id": "435272fafba3eb0731e7aa43a875e6ef73ca98c454601850a713be8ef42f4f38",
+      "publishedAtLabel": "Feb 25"
+    },
+    {
+      "id": 18631,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Vacina nacional contra a dengue ser\u00e1 v\u00e1lida para os quatro sorotipos, diz N\u00edsia",
+      "description": "O imunizante ser\u00e1 produzido em parceria entre o Instituto Butantan e a empresa Wuxi",
+      "url": "https://valor.globo.com/brasil/noticia/2025/02/25/vacina-nacional-contra-a-dengue-ser-vlida-para-os-quatro-sorotipos-diz-nsia.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/MToqb-1m1Qdb4Vw51lRrGN51_ZE=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2023/1/G/Tbo3yiTF2rW3IjX7TIDg/010-saude-cenario-nisia-20trindade-ministra-20da-20saude.jpg",
+      "publishedAt": "2025-02-25 16:46:48",
+      "content": "A ministra da Sa\u00fade, N\u00edsia Trindade, disse que a vacina de produ\u00e7\u00e3o nacional contra a dengue ser\u00e1 v\u00e1lida para todos os sorotipos da doen\u00e7a. O imunizante, em parceria entre o Instituto Butantan e a em\u2026 [+2945 chars]",
+      "retrievedAt": "2025-02-26 19:05:50.701237",
+      "internal_id": "eff823537749db1e30c666860ec6a9741495c7e928fb654fe98444f00d0d2772",
+      "publishedAtLabel": "Feb 25"
+    },
+    {
+      "id": 18628,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Bruno Bucis",
+      "title": "Dengue: entenda como funcionar\u00e1 vacina 100% brasileira contra a doen\u00e7a",
+      "description": "Vacina brasileira contra a dengue ser\u00e1 administrada em dose \u00fanica. Previs\u00e3o \u00e9 que pessoas de pessoas de 2 a 59 anos recebam o imunizante",
+      "url": "https://www.metropoles.com/saude/dengue-vacina-100-brasileira-entenda",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2025/01/07141257/somente-um-dez-criancas-completaram-vacinacao-dengue-DF.jpg",
+      "publishedAt": "2025-02-25 16:13:56",
+      "content": "O governo brasileiro anunciou nesta ter\u00e7a-feira (25/2) a produ\u00e7\u00e3o da primeira vacina 100% nacional contra a dengue. Produzido em parceria com o Instituto Butantan e WuXi Biologics, um laborat\u00f3rio chi\u2026 [+5081 chars]",
+      "retrievedAt": "2025-02-26 19:05:50.678337",
+      "internal_id": "1c2410ef706eb81016ed269def8d5ed83dad93b1311fe020c8a33e0d67611cb8",
+      "publishedAtLabel": "Feb 25"
+    },
+    {
+      "id": 18616,
+      "query": [
+        "hpai",
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Shtfplan.com",
+      "author": "Mac Slavo",
+      "title": "STUDY: Bird Flu \u201cSpreads Through The Air\u201d",
+      "description": "According to a recent study posted to the bioRxiv preprint* server, bird flu is spreading to farms via the wind. Researchers provided genetic evidence suggesting the feasibility of windborne transmission of the highly pathogenic avian influenza (HPAI) H5N1 vi\u2026",
+      "url": "https://www.shtfplan.com/headline-news/study-bird-flu-spreads-through-the-air",
+      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2024/06/Depositphotos_217711344_DS.jpg",
+      "publishedAt": "2025-02-25 16:00:22",
+      "content": "According to a recent study posted to the bioRxiv preprint* server, bird flu is spreading to farms via the wind. Researchers provided genetic evidence suggesting the feasibility of windborne transmis\u2026 [+2331 chars]",
+      "retrievedAt": "2025-02-26 19:05:49.940165",
+      "internal_id": "54cbbd0dca208381efe85c78e7f660f43263c591aa39aa4df51217e0012aff1e",
+      "publishedAtLabel": "Feb 25"
+    },
+    {
+      "id": 18620,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Newsmonkey.be",
+      "author": "Redactie",
+      "title": "Wetenschappers waarschuwen: Vogelgriep H5N1 kan volgende pandemie veroorzaken",
+      "description": "De vogelgriepvariant H5N1 verspreidt zich steeds makkelijker onder zoogdieren, wat de bezorgdheid over een mogelijke pandemie doet toenemen. Wetenschappers houden de ontwikkelingen nauwlettend in de gaten, nu ook mensen vaker besmet raken. In de afgelopen tie\u2026",
+      "url": "https://newsmonkey.be/wetenschappers-waarschuwen-vogelgriep-volgende-pandemie/",
+      "urlToImage": "https://media.newsmonkey.be/2024/11/kippen.jpg",
+      "publishedAt": "2025-02-25 15:44:00",
+      "content": "De vogelgriepvariant H5N1 verspreidt zich steeds makkelijker onder zoogdieren, wat de bezorgdheid over een mogelijke pandemie doet toenemen. Wetenschappers houden de ontwikkelingen nauwlettend in de \u2026 [+1727 chars]",
+      "retrievedAt": "2025-02-26 19:05:50.269646",
+      "internal_id": "8df8d798bdda6b50cc2aaa6ac48b6ed26cb5c08004841f4fed0544c0bf525122",
+      "publishedAtLabel": "Feb 25"
+    },
+    {
+      "id": 18632,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Lula anuncia vacina nacional contra a dengue em evento com clima de 'despedida' de N\u00edsia Trindade",
+      "description": "O mais cotado para substitu\u00ed-la \u00e9 o ministro das Rela\u00e7\u00f5es Institucionais, Alexandre Padilha, que j\u00e1 foi ministro da Sa\u00fade no primeiro mandato de Dilma Rousseff (2011-2014)",
+      "url": "https://valor.globo.com/politica/noticia/2025/02/25/lula-anuncia-vacina-nacional-contra-a-dengue.ghtml",
+      "urlToImage": "https://s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/public/fb_marca.png",
+      "publishedAt": "2025-02-25 15:28:12",
+      "content": "O presidente Luiz In\u00e1cio Lula da Silva (PT) anuncia nesta ter\u00e7a-feira (25) um acordo para a produ\u00e7\u00e3o de uma vacina nacional e em dose \u00fanica contra a dengue. A cerim\u00f4nia est\u00e1 sendo tratada entre auxil\u2026 [+1182 chars]",
+      "retrievedAt": "2025-02-26 19:05:50.714870",
+      "internal_id": "56d53ac3f7a60e654659e87d4d3bde848894a7972ff1b6a848774f4fbf1c80b4",
+      "publishedAtLabel": "Feb 25"
+    },
+    {
+      "id": 18633,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Hola",
+      "author": "Dr. Eduardo Junco Aguado",
+      "title": "Rigidez en la nuca en ni\u00f1os: s\u00edntomas clave que no debes ignorar",
+      "description": "Es uno de los s\u00edntomas asociados a la meningitis, por lo que es fundamental saber diferenciar esta rigidez de otros problemas en el cuello que no entra\u00f1an gravedad",
+      "url": "https://www.hola.com/padres/20250225816418/rigidez-nuca-ninos-sintomas-alerta/",
+      "urlToImage": "https://www.hola.com/horizon/landscape/79c3fed25e2f-adobestock493103825.jpg?im=Resize=(1200)",
+      "publishedAt": "2025-02-25 15:06:20",
+      "content": "La rigidez de nuca es un s\u00edntoma cl\u00ednico que aparece en diferentes patolog\u00edas en los ni\u00f1os enfermos y tambi\u00e9n en algunos ni\u00f1os sanos y que, como su nombre indica, est\u00e1 producida por el dolor en la re\u2026 [+4246 chars]",
+      "retrievedAt": "2025-02-26 19:05:51.102570",
+      "internal_id": "0532f013a89e414404e3daf8a2a181abcb2b9ba5c0d742eb2d66c1a46b01cfa5",
+      "publishedAtLabel": "Feb 25"
+    },
+    {
+      "id": 18639,
+      "query": [
+        "shigellosis"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Nuzhat, S., Islam, M. R., Das, S., Bashar, S. J., Pavlinac, P. B., Arnold, S. L., Newlands, A., Gibson, R., Alvaro, E. F., Addo, J., Khanam, F., Ahmed, D., Chisti, M. J., Qadri, F., Ahmed, T.",
+      "title": "Tebipenem pivoxil as an alternative to ceftriaxone for clinically non-responding children with shigellosis: a randomised non-inferiority trial protocol",
+      "description": "Introduction Shigellosis is the second leading cause of diarrhoeal deaths among children worldwide. Oral azithromycin and intravenous ceftriaxone are the recommended first-line and second-line therapies for shigellosis in Bangladesh, respectively, but growing\u2026",
+      "url": "https://bmjopen.bmj.com/content/15/2/e088449",
+      "urlToImage": "https://bmjopen.bmj.com/pages/wp-content/uploads/sites/7/2019/07/bmjopen-default-cover.png",
+      "publishedAt": "2025-02-25 14:41:50",
+      "content": "Introduction Shigellosis stands as the second highest contributor to deaths caused by diarrhoeal diseases worldwide, resulting in over 200000 fatalities each year.1 In 2016, Shigella accounted for 6\u2026 [+6159 chars]",
+      "retrievedAt": "2025-02-26 19:05:53.046844",
+      "internal_id": "6fd913fb10263f1c0f38895e874e9d4bd4609e8f6f7643f8faef9a062df179f9",
+      "publishedAtLabel": "Feb 25"
+    },
+    {
+      "id": 18619,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Nplus1.ru",
+      "author": "\u042e\u043b\u0438\u044f \u041d\u0435\u0441\u0442\u0435\u0440\u043e\u0432\u0430",
+      "title": "\u041a\u043e\u0448\u043a\u0438 \u0437\u0430\u0440\u0430\u0437\u0438\u043b\u0438\u0441\u044c \u043e\u0442 \u0445\u043e\u0437\u044f\u0435\u0432 \u043f\u0442\u0438\u0447\u044c\u0438\u043c \u0433\u0440\u0438\u043f\u043f\u043e\u043c \u0438 \u0443\u043c\u0435\u0440\u043b\u0438",
+      "description": "\u041b\u044e\u0434\u0438, \u0441\u0442\u0430\u0432\u0448\u0438\u0435 \u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a\u043e\u043c \u0438\u043d\u0444\u0435\u043a\u0446\u0438\u0438, \u0440\u0430\u0431\u043e\u0442\u0430\u043b\u0438 \u043d\u0430 \u043c\u043e\u043b\u043e\u0447\u043d\u044b\u0445 \u0444\u0435\u0440\u043c\u0430\u0445",
+      "url": "https://nplus1.ru/news/2025/02/25/h5n1-cats",
+      "urlToImage": "https://minio.nplus1.ru/app-images/996528/67bdbd39cfe2c_cover_share.png",
+      "publishedAt": "2025-02-25 14:41:00",
+      "content": ". , , . : , , , . , , A(H5N1), B3.13 H5 2.3.4.4b, . 2024 , . , , . , . , , , , . -, , . - , . , . , .",
+      "retrievedAt": "2025-02-26 19:05:50.256115",
+      "internal_id": "c052cc98d06a6073903e3c58d6b967d599746b4e5f51bbc8bbf19af8fa8083cb",
+      "publishedAtLabel": "Feb 25"
+    },
+    {
+      "id": 18625,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Pedro Pupulim",
+      "title": "Brasil ter\u00e1 primeira vacina 100% nacional e em dose \u00fanica contra dengue",
+      "description": "Em evento no Pal\u00e1cio do Planalto, nesta ter\u00e7a-feira, o presidente Lula anunciar\u00e1 a distribui\u00e7\u00e3o do imunizante a partir de 2026",
+      "url": "https://veja.abril.com.br/coluna/radar/brasil-tera-primeira-vacina-100-nacional-e-em-dose-unica-contra-dengue",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2025/02/Vacinadengue_interna-1.jpg?quality=70&strip=info&crop=1&resize=1080,565",
+      "publishedAt": "2025-02-25 14:39:47",
+      "content": "Jornalismo Influente e Conectado: 5,99/m\u00eas Ingrediente farmac\u00eautico ativo da vacina \u00e9 totalmente feito no Butantan, assim como os testes de controle de qualidade e os estudos cl\u00ednicos (Butantan/Gove\u2026 [+1063 chars]",
+      "retrievedAt": "2025-02-26 19:05:50.649660",
+      "internal_id": "eb46aa910de7de926baa87bdd297d769d894e5d1761df5e509b67f66203f679c",
+      "publishedAtLabel": "Feb 25"
+    },
+    {
+      "id": 18629,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Daniela Santos",
+      "title": "Dengue: Lula anuncia produ\u00e7\u00e3o em larga escala de vacina brasileira",
+      "description": "Segundo o governo, a expectativa do governo Lula \u00e9 produzir 60 milh\u00f5es de doses anuais do imunizante a partir de 2026",
+      "url": "https://www.metropoles.com/brasil/dengue-lula-anuncia-producao-em-larga-escala-de-vacina-brasileira",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/01/29155134/DF-tem-194-mil-jovens-com-10-a-14-anos-aptos-a-receber-vacina-contra-a-dengue-1.jpg",
+      "publishedAt": "2025-02-25 14:34:09",
+      "content": "O presidente Luiz In\u00e1cio Lula da Silva (PT) anuncia, nesta ter\u00e7a-feira (25/2), um acordo entre o Instituto Butantan e a empresa WuXi Biologics para produzir, em larga escala, a primeira vacina 100% b\u2026 [+742 chars]",
+      "retrievedAt": "2025-02-26 19:05:50.686145",
+      "internal_id": "e211fd6167e4aeb1fe56ab59556536051fdd0ca6a5974828346e1da702ada477",
+      "publishedAtLabel": "Feb 25"
+    },
+    {
+      "id": 18637,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Gabrielle Emanuel",
+      "title": "Why the good news about the mpox outbreak of 2025 isn't really good after all",
+      "description": "The case counts seem to be dropping. But health officials say that's because violence in the Democratic Republic of Congo makes it difficult to get good data. And now U.S. assistance is being disrupted.",
+      "url": "https://www.npr.org/sections/goats-and-soda/2025/02/25/g-s1-49693/mpox-vaccines-democratic-republic-congo-usaid",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x2250+0+208/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F16%2Fde%2Fa93dc65e44d89da0a4cf9f9f59f9%2Fdrc-mpox-1.jpg",
+      "publishedAt": "2025-02-25 14:06:05",
+      "content": "Dr. Jean Kaseya has a warning for the world: \"We are playing with fire.\" Kaseya is director general of the Africa Centers for Disease Control and Prevention. He's talking about mpox, a virus that \u2026 [+9702 chars]",
+      "retrievedAt": "2025-02-26 19:05:52.546381",
+      "internal_id": "5f1fd3ece321755b83ceb29b68ea3f74a0a7a68f0b0102a6a5b7abe83614dd2f",
+      "publishedAtLabel": "Feb 25"
+    },
+    {
+      "id": 18612,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Medical Xpress",
+      "author": "Charlotte CAUSIT",
+      "title": "Fears of public health crises grow amid falling vax rates...",
+      "description": "Fears of public health crises grow amid falling vax rates... (Third column, 4th story, link) Related stories:UPDATE: TX measles outbreak surges to 90 cases... Professor: Why I'm terrified about new corona strain in China...",
+      "url": "https://medicalxpress.com/news/2025-02-health-crises-falling-vaccination.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2025/before-the-measles-vac.jpg",
+      "publishedAt": "2025-02-25 12:40:37",
+      "content": "Plummeting immunization rates, outbreaks of once-vanquished childhood diseases, and the appointment of a vocal vaccine skeptic as health secretary have US experts sounding the alarm about a looming p\u2026 [+4442 chars]",
+      "retrievedAt": "2025-02-26 19:05:49.366887",
+      "internal_id": "dba026eaf441a9335e91aa23c6778351868f403db785eb7a68a6b23fc41dbf4b",
+      "publishedAtLabel": "Feb 25"
+    },
+    {
+      "id": 18638,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "PLOS Global Public Health",
+      "title": "Behind the Paper: International Healthcare Workers\u2019 Experiences and Perceptions of the 2022 Mpox Outbreak",
+      "description": "PLOS Global Public Health was a natural home for our study due to its commitment to open-access publishing and its focus on amplifying research from diverse and resource-limited settings. Given the global nature of the mpox outbreak and the disparities in hea\u2026",
+      "url": "https://speakingofmedicine.plos.org/2025/02/25/behind-the-paper-international-healthcare-workers-experiences-and-perceptions-of-the-2022-mpox-outbreak/",
+      "urlToImage": "https://speakingofmedicine.plos.org/wp-content/uploads/sites/14/2025/02/image002-2.jpg",
+      "publishedAt": "2025-02-25 12:29:43",
+      "content": "In this post, we talk to the authors of a recently published paper, International healthcare workers\u2019 experiences and perceptions of the 2022 multi-country mpox outbreak, by Vanessa Apea, Boghuma K. \u2026 [+7297 chars]",
+      "retrievedAt": "2025-02-26 19:05:52.567347",
+      "internal_id": "328b7eae41d6fedfa23ac06449cf7fd731273290f181bd174f7f83820b88a8e5",
+      "publishedAtLabel": "Feb 25"
+    },
+    {
+      "id": 18635,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "BusinessLine",
+      "author": "BL Hyderabad Bureau",
+      "title": "Biological E partners with Bavarian Nordic for Chikungunya vaccine in low- and middle-income nations",
+      "description": "Biological E partners with Bavarian Nordic to expand access to Chikungunya Vaccine in low- and middle-income countries.",
+      "url": "https://www.thehindubusinessline.com/companies/biological-e-partners-with-bavarian-nordic-for-chikungunya-vaccine-in-low-and-middle-income-nations/article69261454.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/todays-paper/tp-news/km5pg9/article33111988.ece/alternates/LANDSCAPE_1200/bl17hyvrkBiolGDF7VI94R7jpgjpg",
+      "publishedAt": "2025-02-25 09:39:46",
+      "content": "Biological E has partnered strategically with Bavarian Nordic to expand access to Bavarian Nordics Chikungunya vaccine in low- and middle-income countries (LMIC). The partnership comprises a technol\u2026 [+2581 chars]",
+      "retrievedAt": "2025-02-26 19:05:52.377727",
+      "internal_id": "5a256b5f58a33f48eaac83e294296b00d30202111df8c2e671f2d4affc17be41",
+      "publishedAtLabel": "Feb 25"
+    },
+    {
+      "id": 18634,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Www.dr.dk",
+      "author": null,
+      "title": "Bavarian Nordic indg\u00e5r samarbejde for at \u00f8ge tilg\u00e6ngelighed af vaccine",
+      "description": "Den danske medicinalvirksomhed Bavarian Nordic har indg\u00e5et et samarbejde med det indiske selskab Biological E. Limited, som skal \u00f8ge tilg\u00e6ngeligheden af en ny vaccine mod virussygdommen chikungunya.",
+      "url": "https://www.dr.dk/nyheder/seneste/bavarian-nordic-indgaar-samarbejde-oege-tilgaengelighed-af-vaccine",
+      "urlToImage": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fapi.dr.dk%2Ffreja%2Fimage%2Fraw%2F317&w=700",
+      "publishedAt": "2025-02-25 08:33:00",
+      "content": "I 18 \u00e5r har det britiske \u00e6gtepar Peter og Barbie Reynolds boet i Afghanistan, og da Taliban genvandt kontrollen i 2021, valgte de at blive for fortsat at drive deres organisation Rebuild I starten a\u2026 [+821 chars]",
+      "retrievedAt": "2025-02-26 19:05:52.369489",
+      "internal_id": "a82321c0455ea8746a7368bd03af7d30adcea031f07e502a9f70a9bff9bcce20",
+      "publishedAtLabel": "Feb 25"
+    },
+    {
+      "id": 18636,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Swati Bharadwaj",
+      "title": "Biological E inks strategic pact with Bavarian Nordic to manufacture Chikungunya vax",
+      "description": "Biological E (BE) has partnered with Bavarian Nordic to produce the Chikungunya vaccine, VIMKUNYA CHIKV VLP, for low and middle-income countries. The agreement aims to enhance vaccine accessibility and create up to 300 new jobs with technology transfers and c\u2026",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/biological-e-inks-strategic-pact-with-bavarian-nordic-to-manufacture-chikungunya-vax/articleshow/118551504.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-118551482,width-1070,height-580,imgsize-147416,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2025-02-25 07:51:17",
+      "content": "FD Calculator When investing in a fixed deposit, the amount you deposit earns interest as per the prevailing... Calculate Now",
+      "retrievedAt": "2025-02-26 19:05:52.398302",
+      "internal_id": "5c7f3a7d4df537e1b0c3e8789b2a4220a820537373a807f61672d5f4602b4f13",
+      "publishedAtLabel": "Feb 25"
+    },
+    {
+      "id": 18618,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Onliner.by",
+      "author": "Onliner | \u0422\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438",
+      "title": "\u0423\u0447\u0435\u043d\u044b\u0435 \u0441\u043e\u0432\u0435\u0440\u0448\u0438\u043b\u0438 \u043f\u0440\u043e\u0440\u044b\u0432 \u0432 \u0431\u043e\u0440\u044c\u0431\u0435 \u0441 \u043f\u0442\u0438\u0447\u044c\u0438\u043c \u0433\u0440\u0438\u043f\u043f\u043e\u043c",
+      "description": "\u041d\u043e\u0432\u043e\u0435 \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u0435 \u0443\u0447\u0435\u043d\u044b\u0445 \u0438\u0437 \u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0430 \u041b\u0430 \u0422\u0440\u043e\u0431\u0435 \u0432 \u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u0438 \u043f\u043e\u043a\u0430\u0437\u0430\u043b\u043e, \u0447\u0442\u043e \u0443 \u043c\u043d\u043e\u0433\u0438\u0445 \u043b\u044e\u0434\u0435\u0439 \u043c\u043e\u0436\u0435\u0442 \u0431\u044b\u0442\u044c \u0432\u0440\u043e\u0436\u0434\u0435\u043d\u043d\u0430\u044f \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u044c \u043f\u0440\u043e\u0442\u0438\u0432\u043e\u0441\u0442\u043e\u044f\u0442\u044c \u0432\u0438\u0440\u0443\u0441\u0443 \u0432\u044b\u0441\u043e\u043a\u043e\u043f\u0430\u0442\u043e\u0433\u0435\u043d\u043d\u043e\u0433\u043e \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430. \u042d\u0442\u043e \u043e\u0442\u043a\u0440\u044b\u0442\u0438\u0435 \u0434\u0430\u0435\u0442 \u043d\u043e\u0432\u044b\u0435 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u0438 \u0434\u043b\u044f \u0441\u043e\u0437\u0434\u0430\u043d\u0438\u044f \u043f\u0435\u0440\u0432\u043e\u0439 \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0430\u043b\u044c\u043d\u043e\u0439 \u0432\u0430\u043a\u0446\u0438\u043d\u044b\u2026",
+      "url": "https://tech.onliner.by/2025/02/25/proryv-v-borbe-s-ptichim-grippom",
+      "urlToImage": "https://content.onliner.by/news/default/0dfb5c5e5d8702eb1bf6891b5e02e149.jpg",
+      "publishedAt": "2025-02-25 07:39:09",
+      "content": ", . . , , , 64% . , . - CD8+, . , 60% CD8+ -. HLA , . , . , , , , . H5N1 . ? -.",
+      "retrievedAt": "2025-02-26 19:05:50.248643",
+      "internal_id": "3f1bbe0d8a93fc394ccaa496ab610182c10519a4a03f1e0108db6d3b8e8bc84c",
+      "publishedAtLabel": "Feb 25"
+    },
+    {
+      "id": 18617,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Mediafax.ro",
+      "author": "Andreea Tobias",
+      "title": "Aceste m\u0103suri pot \u201epreveni o epidemie uman\u0103\". Ce spune un virusolog despre m\u0103surile care pot opri r\u0103sp\u00e2ndirea gripei aviare c\u0103tre oameni",
+      "description": "\u00cen timp ce gripa aviar\u0103 continu\u0103 s\u0103 circule printre p\u0103s\u0103rile s\u0103lbatice \u015fi animalele domestice, oficialii din domeniul s\u0103n\u0103t\u0103\u0163ii publice sunt tot mai \u00eengrijora\u0163i de poten\u0163ialul virusului de a deveni transmisibil \u00eentre oameni.",
+      "url": "https://www.mediafax.ro/stiinta-sanatate/aceste-masuri-pot-preveni-o-epidemie-umana-ce-spune-un-virusolog-despre-masurile-care-pot-opri-raspandirea-gripei-aviare-catre-oameni-22711054",
+      "urlToImage": "https://storage0.dms.mpinteractiv.ro/media/1/1/7627/22711054/2/curcani.jpg?width=640",
+      "publishedAt": "2025-02-25 07:35:28",
+      "content": "\u00centr-un comentariu publicat \u00een revista Nature Medicine, virusologul Bob Garry de la Universitatea Tulane a prezentat paii eseniali pentru a preveni dezvoltarea transmisiei interumane a H5N1. Trebu\u2026 [+1782 chars]",
+      "retrievedAt": "2025-02-26 19:05:50.241075",
+      "internal_id": "3bc986f63dbda628bc686d500b3f3ba87820d4f79e1f627449dabef859801efe",
+      "publishedAtLabel": "Feb 25"
+    },
     {
       "id": 18593,
       "query": [
@@ -22306,96 +22811,6 @@
       "content": "La Universidad Nacional Aut\u00f3noma de M\u00e9xico (UNAM) advirti\u00f3 que, aunque el riesgo para la salud p\u00fablica del pa\u00eds debido al virus de influenza H5N1 es bajo, se prev\u00e9 que sea un tema relevante durante e\u2026 [+4785 chars]",
       "retrievedAt": "2025-01-14 07:06:12.760466",
       "internal_id": "baaa0db7725aec9011864c3d9e85a14527a4a4c780b53a663c2a5434df143776",
-      "publishedAtLabel": "Jan 12"
-    },
-    {
-      "id": 17370,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "New Atlas",
-      "author": "Bronwyn Thompson",
-      "title": "First US human death from bird flu is more serious than you may think",
-      "description": "Two months shy of the fifth anniversary of COVID-19 being declared a global pandemic, the US has recorded its first human death as a result of avian influenza H5N1 infection. The unidentified Louisiana man contracted the virus through contact with infected wi\u2026",
-      "url": "https://newatlas.com/infectious-diseases/first-us-human-death-bird-flu/",
-      "urlToImage": "https://assets.newatlas.com/dims4/default/b972f69/2147483647/strip/true/crop/6902x3624+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Ff5%2Fc7%2F36c9adbb4446af9c71ae546c1753%2Fdepositphotos-776801192-xl.jpg&na.image_optimisation=0",
-      "publishedAt": "2025-01-12 16:00:00",
-      "content": "Two months shy of the fifth anniversary of COVID-19 being declared a global pandemic, the US has recorded its first human death as a result of avian influenza H5N1 infection. The unidentified Louisia\u2026 [+13998 chars]",
-      "retrievedAt": "2025-01-13 19:05:36.977135",
-      "internal_id": "d7213205bc7810dd1bb1123820446d4106b2264f21aacb1ab82b6b877009c879",
-      "publishedAtLabel": "Jan 12"
-    },
-    {
-      "id": 17371,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Metropoles.com",
-      "author": "Ravenna Alves",
-      "title": "Homem de 28 anos do Camboja morre de gripe avi\u00e1ria. Pa\u00eds apura caso",
-      "description": "De acordo com as autoridades de sa\u00fade do pa\u00eds, o homem criava aves em sua casa e havia cozinhado frangos doentes para se alimentar",
-      "url": "https://www.metropoles.com/saude/homem-28-camboja-morre-gripe-aviaria",
-      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/11/20102453/Gripe-aviaria-2.jpg",
-      "publishedAt": "2025-01-12 14:32:09",
-      "content": "Um homem de 28 anos, natural da prov\u00edncia de Kampong Cham, no Camboja, pa\u00eds localizado no sudeste da \u00c1sia, morreu na \u00faltima sexta-feira (10/1) em decorr\u00eancia da gripe avi\u00e1ria H5N1, informou o Minist\u00e9\u2026 [+1624 chars]",
-      "retrievedAt": "2025-01-13 19:05:37.043393",
-      "internal_id": "9ae40e03f2d31e85fc20aed4a347b9c952eea9e2af3bc32d8da0e3f22865fd12",
-      "publishedAtLabel": "Jan 12"
-    },
-    {
-      "id": 17373,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Lokmat.com",
-      "author": "\u0911\u0928\u0932\u093e\u0907\u0928 \u0932\u094b\u0915\u092e\u0924",
-      "title": "\u0928\u094b\u0930\u094b\u0935\u094d\u0939\u093e\u092f\u0930\u0938, \u092c\u0930\u094d\u0921 \u092b\u094d\u0932\u0942 \u0915\u0940 \u0915\u094b\u0930\u094b\u0928\u093e... \u0939\u093f\u0935\u093e\u0933\u094d\u092f\u093e\u0924 \u0915\u094b\u0923\u0924\u093e \u091c\u093e\u0938\u094d\u0924 \u0927\u094b\u0915\u093e\u0926\u093e\u092f\u0915 \u0906\u0923\u093f \u0924\u094b \u0915\u0938\u093e \u091f\u093e\u0933\u093e\u092f\u091a\u093e?",
-      "description": "health tips norovirus vs bird flu vs covid 19 which is more dangerous in winter - \u0939\u093f\u0935\u093e\u0933\u094d\u092f\u093e\u0924 \u092f\u093e \u0924\u093f\u0918\u093e\u0902\u092a\u0948\u0915\u0940 \u0915\u094b\u0923\u0924\u093e \u0906\u091c\u093e\u0930 \u091c\u093e\u0938\u094d\u0924 \u0927\u094b\u0915\u093e\u0926\u093e\u092f\u0915 \u0906\u0939\u0947 \u0906\u0923\u093f \u0924\u0947 \u0906\u091c\u093e\u0930 \u0915\u0938\u0947 \u091f\u093e\u0933\u093e\u092f\u091a\u0947 \u092f\u093e\u092c\u093e\u092c\u0924 \u091c\u093e\u0923\u0942\u0928 \u0918\u0947\u090a\u092f\u093e... - Latest Marathi News (\u092e\u0930\u093e\u0920\u0940 \u092c\u093e\u0924\u092e\u094d\u092f\u093e). Find Breaking Headlines, Current and La\u2026",
-      "url": "https://www.lokmat.com/sakhi/health/lifestyle-diseases/health-tips-norovirus-vs-bird-flu-vs-covid-19-which-is-more-dangerous-in-winter-a-a597/",
-      "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/images/1200x900/whatsapp-image-2025-01-12-at-4.16.55-pm_2025011374514.jpeg",
-      "publishedAt": "2025-01-12 11:05:28",
-      "content": ". , . . , . . . ... ? . . , , . . . . . . . ? . (WHO) , , H5N1 ( ) . % , - , .% % . , , , , , , , , , . . , , , , , , , , , , . . . ? - , . - . - . - . - . - , , , . - . - . \u2026 [+33 chars]",
-      "retrievedAt": "2025-01-13 19:05:37.154498",
-      "internal_id": "4cd14b9ed5ab9f7fa687124ae40806cfae88bf83a5fbc6f5c661b28db64994c6",
-      "publishedAtLabel": "Jan 12"
-    },
-    {
-      "id": 17374,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Abril.com.br",
-      "author": "Bruno Caniato",
-      "title": "Sa\u00fade falha em pontos sens\u00edveis e fragiliza a situa\u00e7\u00e3o de N\u00edsia Trindade",
-      "description": "O mais decepcionante para a administra\u00e7\u00e3o petista \u00e9 que a pasta vai mal exatamente onde prometeu brilhar: a vacina\u00e7\u00e3o",
-      "url": "https://veja.abril.com.br/politica/saude-falha-em-pontos-sensiveis-e-fragiliza-a-situacao-de-nisia-trindade",
-      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2025/01/1D-1-NISIA-TRINDADE-2024-12-a.jpg.jpg?quality=70&strip=info&crop=1&resize=1080,565",
-      "publishedAt": "2025-01-12 11:00:00",
-      "content": "F\u00e9rias: Assine a partir de 1,50/semanaFRACASSO- A\u00e7\u00e3o contra a dengue: o n\u00famero de casos quadruplicou em 2024 (Marcelo Camargo/Ag\u00eancia Brasil) Continua ap\u00f3s publicidade A gest\u00e3o da sa\u00fade da Presid\u00ean\u2026 [+8193 chars]",
-      "retrievedAt": "2025-01-13 19:05:37.432831",
-      "internal_id": "2dd9bd386fab5498bf5c3d9acb63bd565b0df5d0d32caf1ceb0e0c8f1b236c9c",
-      "publishedAtLabel": "Jan 12"
-    },
-    {
-      "id": 17372,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Jornada.com.mx",
-      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "title": "Llama la UNAM a vigilar la evoluci\u00f3n de la gripe aviar",
-      "description": "El riesgo para la salud p\u00fablica por la influenza aviar (H5N1) por el momento es bajo en el pa\u00eds, pero se prev\u00e9 que sea un tema destacado durante 2025, pues podr\u00eda afectar tanto el bienestar humano como el animal, e impactar en la producci\u00f3n de alimentos y su \u2026",
-      "url": "https://www.jornada.com.mx/2025/01/12/sociedad/027n2soc",
-      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "publishedAt": "2025-01-12 09:17:11",
-      "content": "Peri\u00f3dico La JornadaDomingo 12 de enero de 2025, p. 27 El riesgo para la salud p\u00fablica por la influenza aviar (H5N1) por el momento es bajo en el pa\u00eds, pero se prev\u00e9 que sea un tema destacado durant\u2026 [+1896 chars]",
-      "retrievedAt": "2025-01-13 19:05:37.097160",
-      "internal_id": "07c41e8d9171982712298a770a334e526b38155acc5322993295e1b60bd93e20",
       "publishedAtLabel": "Jan 12"
     }
   ]
