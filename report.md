@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 17
-- **Last harvest:** 2025-02-25 19:05
-- **Most recent article:** 2025-02-24 18:17:44
+- **New articles in last harvest:** 24
+- **Last harvest:** 2025-02-26 07:06
+- **Most recent article:** 2025-02-25 06:38:28
 
 ---
 
@@ -12,13 +12,13 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-3 | 25-4 | 25-5 | 25-6 | 25-7 | 25-8 | 25-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| h5n1 | 59 | 31 | 51 | 72 | 55 | 54 | 10 | 332 |
-| measles | 9 | 10 | 13 | 24 | 72 | 83 | 14 | 225 |
-| dengue | 28 | 37 | 24 | 34 | 37 | 57 | 2 | 219 |
+| h5n1 | 63 | 31 | 51 | 72 | 55 | 54 | 13 | 339 |
+| measles | 9 | 10 | 13 | 24 | 72 | 83 | 31 | 242 |
+| dengue | 29 | 37 | 24 | 34 | 37 | 57 | 3 | 221 |
 | mpox | 34 | 23 | 22 | 28 | 18 | 15 | 1 | 141 |
 | malaria | 18 | 19 | 30 | 25 | 12 | 7 | 3 | 114 |
-| hpai | 12 | 11 | 6 | 3 | 9 | 5 | 0 | 46 |
-| chikungunya | 7 | 10 | 9 | 8 | 5 | 3 | 0 | 42 |
+| hpai | 12 | 11 | 6 | 3 | 9 | 5 | 1 | 47 |
+| chikungunya | 7 | 10 | 9 | 8 | 5 | 3 | 2 | 44 |
 | meningitis | 2 | 3 | 8 | 2 | 12 | 11 | 1 | 39 |
 | rabies | 6 | 7 | 6 | 4 | 5 | 4 | 0 | 32 |
 | zika | 5 | 2 | 8 | 6 | 2 | 6 | 0 | 29 |
@@ -47,6 +47,40 @@ Source: [News API](https://newsapi.org/)
 - [Father of girl who died with 'blood oozing from eyes' speaks out as jury decides hospital contributed to her death](https://www.ladbible.com/news/uk-news/sophie-ward-meningitis-inquest-father-219426-20250224) (LADbible)
 
 ## 25-9 (measles)
+
+- [US Measles Outbreak Surges Towards 100 Cases](https://www.sciencealert.com/us-measles-outbreak-surges-towards-100-cases) (ScienceAlert)
+
+- [A New Bestseller for MAGA Christians](https://www.patheos.com/blogs/bibleandculture/2025/02/25/a-new-bestseller-for-maga-christians/) (Patheos)
+
+- [KSAT Q&A: University Health infectious disease expert discusses measles outbreak](https://www.ksat.com/news/local/2025/02/25/ksat-qa-university-health-infectious-disease-expert-discusses-measles-outbreak/) (KSAT San Antonio)
+
+- [Texas officials investigate potential measles exposure at two state universities](https://www.cbsnews.com/video/texas-officials-investigate-potential-measles-exposure-state-universities/) (CBS News)
+
+- [Fears of US public health crises grow amid falling vaccination rates](https://economictimes.indiatimes.com/news/international/global-trends/fears-of-us-public-health-crises-grow-amid-falling-vaccination-rates/articleshow/118543495.cms) (The Times of India)
+
+- [How Texas measles outbreak spread outside of Mennonite community](https://www.cbsnews.com/video/how-texas-measles-outbreak-spread-outside-of-mennonite-community/) (CBS News)
+
+- [Houston reports 2 measles cases as Texas outbreak reaches 92 infections, most unvaccinated](https://abc13.com/post/houston-reports-2-measles-cases-texas-outbreak-reaches-92-infections-most-unvaccinated/15952249/) (KTRK-TV)
+
+- [State health service reports measles exposure in San Marcos, San Antonio areas](https://www.krgv.com/news/state-health-service-reports-measles-exposure-in-san-marcos-san-antonio-areas/) (KRGV)
+
+- [Comal County Public Health: New Braunfels, surrounding areas exposed to measles](https://herald-zeitung.com/news/health/comal-county-public-health-new-braunfels-surrounding-areas-exposed-to-measles/article_a5c99e88-f2f3-11ef-876e-1f20ae6e0342.html) (Herald Zeitung)
+
+- [Oklahoma preps for measles outbreak; Cases rise in nearby states](https://www.koco.com/article/oklahoma-measles-outbreak-neighboring-states/63905953) (KOCO Oklahoma City)
+
+- [Nearly 100 Sickened With Measles As Outbreak Spreads In Texas, New Mexico](https://www.huffpost.com/entry/measles-outbreak-texas-new-mexico_n_67bcbc91e4b0b74766abbc03) (HuffPost)
+
+- [What RFK Jr. has said about the ongoing measles outbreak](https://www.vox.com/health/401130/texas-new-mexico-measles-rfk-hhs-response) (Vox)
+
+- [Tourist may have exposed ‘hundreds of thousands’ of people in San Antonio to measles, health experts say](https://www.ksat.com/news/local/2025/02/24/tourist-may-have-exposed-hundreds-of-thousands-of-people-in-san-antonio-to-measles-health-experts-say/) (KSAT San Antonio)
+
+- [What to Know About the Measles Vaccine](https://time.com/7261250/measles-vaccine-what-to-know/) (Time)
+
+- [Traveler at Kansai International Airport confirmed infected with measles; caution urged](https://japantoday.com/category/national/traveler-at-japan%E2%80%99s-kansai-international-airport-confirmed-infected-with-measles-caution-urged) (Japan Today)
+
+- [Do you need a measles booster shot? What to know as an outbreak spreads](https://www.cbsnews.com/news/measles-vaccine-booster-what-to-know/) (CBS News)
+
+- [Nearly 100 Measles Cases Have Been Reported in Texas](https://www.wired.com/story/measles-cases-rise-texas/) (Wired)
 
 - [Measles Exposure Warning Issued To Texas Residents](https://www.newsweek.com/measles-exposure-warning-texas-2035394) (Newsweek)
 
@@ -84,7 +118,17 @@ Source: [News API](https://newsapi.org/)
 
 - [From Unpaid to Unstoppable: The Rise of the Professional Community Health Worker Movement (Blog)](https://ssir.org/articles/entry/movement-to-professionalize-community-health-workers) (Ssir.org)
 
+## 25-9 (hpai)
+
+- [話題を呼んだHumaneの「Ai Pin」、終焉を迎える](https://wired.jp/article/humane-ai-pin-will-become-e-waste-next-week/) (Wired.jp)
+
 ## 25-9 (h5n1)
+
+- [[Перевод] Прорыв в изучении птичьего гриппа — хорошая новость для людей](https://habr.com/ru/articles/885492/#post-content-body) (Habr.com)
+
+- [Wetenschappers waarschuwen voor risico op vogelgrieppandemie](https://businessam.be/wetenschappers-waarschuwen-voor-risico-op-vogelgrieppandemie/) (Businessam.be)
+
+- [Pet health alert issued amid bird flu outbreaks](https://www.ktvu.com/news/pet-health-alert-issued-amid-bird-flu-outbreaks) (KTVU San Francisco)
 
 - [Bird flu fear hits poultry sales as consumers shift to alternatives](https://timesofindia.indiatimes.com/city/bengaluru/bird-flu-fear-hits-poultry-sales-as-consumers-shift-to-alternatives/articleshow/118538931.cms) (The Times of India)
 
@@ -108,9 +152,17 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-9 (dengue)
 
+- [As dengue spreads, researchers discover a clue to fighting the virus](https://www.sciencedaily.com/releases/2025/02/250224143249.htm) (Science Daily)
+
 - [Enfermedades respiratorias aumentaron en Nayarit desde el inicio del 2025](https://www.excelsior.com.mx/nacional/enfermedades-respiratorias-aumentaron-en-nayarit-desde-el-inicio-del-2025/1701463) (Excelsior.com.mx)
 
 - [Philippine village battles dengue by offering bounties for mosquitos — dead or alive](https://www.voanews.com/a/philippine-village-battles-dengue-by-offering-bounties-for-mosquitos-dead-or-alive/7984215.html) (VOA News)
+
+## 25-9 (chikungunya)
+
+- [Bavarian Nordic Partners with Biological E Limited to Expand Global Access to Chikungunya Vaccine](https://www.globenewswire.com/news-release/2025/02/25/3031656/0/en/Bavarian-Nordic-Partners-with-Biological-E-Limited-to-Expand-Global-Access-to-Chikungunya-Vaccine.html) (GlobeNewswire)
+
+- [Bavarian Nordic indgår partnerskab med Biological E Limited med henblik på at udvide global adgang til chikungunyavaccine](https://www.globenewswire.com/news-release/2025/02/25/3031656/0/da/Bavarian-Nordic-indg%C3%A5r-partnerskab-med-Biological-E-Limited-med-henblik-p%C3%A5-at-udvide-global-adgang-til-chikungunyavaccine.html) (GlobeNewswire)
 
 ## 25-8 (zika)
 
@@ -2622,6 +2674,14 @@ Source: [News API](https://newsapi.org/)
 
 - [UNAM alerta sobre virus de influenza H5N1 y recomienda vigilarlo](https://www.milenio.com/politica/unam-recomienda-vigilar-virus-causante-de-la-gripe-aviar) (Milenio)
 
+- [First US human death from bird flu is more serious than you may think](https://newatlas.com/infectious-diseases/first-us-human-death-bird-flu/) (New Atlas)
+
+- [Homem de 28 anos do Camboja morre de gripe aviária. País apura caso](https://www.metropoles.com/saude/homem-28-camboja-morre-gripe-aviaria) (Metropoles.com)
+
+- [नोरोव्हायरस, बर्ड फ्लू की कोरोना... हिवाळ्यात कोणता जास्त धोकादायक आणि तो कसा टाळायचा?](https://www.lokmat.com/sakhi/health/lifestyle-diseases/health-tips-norovirus-vs-bird-flu-vs-covid-19-which-is-more-dangerous-in-winter-a-a597/) (Lokmat.com)
+
+- [Llama la UNAM a vigilar la evolución de la gripe aviar](https://www.jornada.com.mx/2025/01/12/sociedad/027n2soc) (Jornada.com.mx)
+
 ## 25-3 (dengue)
 
 - [Dengue: como usar o hipoclorito de sódio no combate ao Aedes aegypti](https://casa.abril.com.br/minha-casa/dengue-como-usar-o-hipoclorito-de-sodio-no-combate-ao-aedes-aegypti) (Abril.com.br)
@@ -2679,6 +2739,8 @@ Source: [News API](https://newsapi.org/)
 - [Dengue: SP tem 21 cidades em situação de emergência](https://www.terra.com.br/vida-e-estilo/saude/dengue-sp-tem-21-cidades-em-situacao-de-emergencia,cb9f0c74f749309f7f6f2dc0e1b1bc085pm97v74.html) (Terra.com.br)
 
 - [As dengue cases rise, researchers points to a simple solution: trash cleanup](https://news.stanford.edu/stories/2025/01/waste-reduction-a-key-defense-against-rising-dengue-cases) (Stanford.edu)
+
+- [Saúde falha em pontos sensíveis e fragiliza a situação de Nísia Trindade](https://veja.abril.com.br/politica/saude-falha-em-pontos-sensiveis-e-fragiliza-a-situacao-de-nisia-trindade) (Abril.com.br)
 
 ## 25-3 (chikungunya)
 
