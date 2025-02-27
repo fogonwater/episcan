@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 28
-- **Last harvest:** 2025-02-26 19:05
-- **Most recent article:** 2025-02-25 18:37:00
+- **New articles in last harvest:** 17
+- **Last harvest:** 2025-02-27 07:06
+- **Most recent article:** 2025-02-26 04:50:49
 
 ---
 
@@ -12,11 +12,11 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-3 | 25-4 | 25-5 | 25-6 | 25-7 | 25-8 | 25-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| h5n1 | 59 | 31 | 51 | 72 | 55 | 54 | 19 | 341 |
-| measles | 9 | 10 | 13 | 24 | 72 | 83 | 35 | 246 |
-| dengue | 28 | 37 | 24 | 34 | 37 | 57 | 14 | 231 |
+| h5n1 | 63 | 31 | 51 | 72 | 55 | 54 | 22 | 348 |
+| measles | 9 | 10 | 13 | 24 | 72 | 83 | 43 | 254 |
+| dengue | 29 | 37 | 24 | 34 | 37 | 57 | 18 | 236 |
 | mpox | 34 | 23 | 22 | 28 | 18 | 15 | 3 | 143 |
-| malaria | 18 | 19 | 30 | 25 | 12 | 7 | 3 | 114 |
+| malaria | 18 | 19 | 30 | 25 | 12 | 7 | 5 | 116 |
 | hpai | 12 | 11 | 6 | 3 | 9 | 5 | 2 | 48 |
 | chikungunya | 7 | 10 | 9 | 8 | 5 | 3 | 5 | 47 |
 | meningitis | 2 | 3 | 8 | 2 | 12 | 11 | 2 | 40 |
@@ -58,6 +58,22 @@ Source: [News API](https://newsapi.org/)
 - [Father of girl who died with 'blood oozing from eyes' speaks out as jury decides hospital contributed to her death](https://www.ladbible.com/news/uk-news/sophie-ward-meningitis-inquest-father-219426-20250224) (LADbible)
 
 ## 25-9 (measles)
+
+- [As Texas measles outbreak grows, parents are choosing to vaccinate kids (Erika Edwards/NBC News)](https://www.memeorandum.com/250225/p168) (Memeorandum.com)
+
+- [February 25, 2025 – PBS News Hour full episode](https://www.pbs.org/newshour/show/february-25-2025-pbs-news-hour-full-episode) (PBS)
+
+- [The latest in Texas' battle against measles](https://www.npr.org/2025/02/25/nx-s1-5307208/the-latest-in-texas-battle-against-measles) (NPR)
+
+- [West Texas measles outbreak spreads amid vaccine hesitancy in some communities](https://www.pbs.org/newshour/show/west-texas-measles-outbreak-spreads-amid-vaccine-hesitancy-in-some-communities) (PBS)
+
+- [As Texas measles outbreak grows, parents are choosing to vaccinate kids](https://www.nbcnews.com/health/health-news/texas-measles-outbreak-grows-parents-vaccinate-rcna193637) (NBC News)
+
+- [Anti-vaccine movement falsely blames measles shots for Texas outbreak](https://www.nbcnews.com/news/texas-measles-outbreak-anti-vaccine-advocates-blame-shot-rcna193478) (NBC News)
+
+- [What does a measles rash look like? 9 pictures to help identify symptoms as it spreads in US](https://www.today.com/health/disease/measles-rash-pictures-rcna193534) (TODAY)
+
+- [A Statement from the Global Virus Network (GVN) on the Rise of Measles Cases in the U.S. and Global Implications](https://www.globenewswire.com/news-release/2025/02/25/3032382/0/en/A-Statement-from-the-Global-Virus-Network-GVN-on-the-Rise-of-Measles-Cases-in-the-U-S-and-Global-Implications.html) (GlobeNewswire)
 
 - [Texas measles outbreak grows](https://www.cbsnews.com/video/texas-measles-outbreak-grows/) (CBS News)
 
@@ -131,6 +147,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-9 (malaria)
 
+- [Choroby papieży. Te problemy zdrowotne trapiły poprzedników Franciszka](https://zdrowie.natemat.pl/591446,papieze-na-przestrzeni-wieku-umierali-w-wyniku-roznych-nieleczonych-chorob) (Natemat.pl)
+
+- [USAID’s apparent demise and the US withdrawal from WHO put millions of lives worldwide at risk and imperil US national security](https://theconversation.com/usaids-apparent-demise-and-the-us-withdrawal-from-who-put-millions-of-lives-worldwide-at-risk-and-imperil-us-national-security-249260) (The Conversation Africa)
+
 - [Detrimental infant and maternal outcomes of undiagnosed asymptomatic malaria in pregnancy](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004528) (Plos.org)
 
 - [Liver stage P. falciparum antigens highly targeted by CD4+ T cells in malaria-exposed Ugandan children](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012943) (Plos.org)
@@ -144,6 +164,12 @@ Source: [News API](https://newsapi.org/)
 - [話題を呼んだHumaneの「Ai Pin」、終焉を迎える](https://wired.jp/article/humane-ai-pin-will-become-e-waste-next-week/) (Wired.jp)
 
 ## 25-9 (h5n1)
+
+- [Pandemie «made in USA»? Die Vogelgrippeviren haben jetzt ideale Voraussetzungen, um für Menschen gefährlich zu werden](https://www.nzz.ch/wissenschaft/vogelgrippe-in-den-usa-entsteht-gerade-ein-pandemievirus-ld.1867871) (Www.nzz.ch)
+
+- [इंसानों में भी फैलने लगा बर्ड फ्लू, US में 2 मरीजों को हॉस्पिटल में एडमिट होना पड़ा](https://www.aajtak.in/world/story/america-bird-flu-wyoming-ohio-potential-emergence-deadlier-virus-sparks-fear-ntc-dskc-2176148-2025-02-26) (Aajtak.in)
+
+- [Understanding raw milk’s disease risk — and pasteurization’s importance](https://scopeblog.stanford.edu/2025/02/25/milk-disease-risk-bird-flu-pasteurization/) (Stanford.edu)
 
 - [Amidst Cuts Impacting Bird Flu Response, Groups Demand Timely Release of CDC Updates](https://www.commondreams.org/news/bird-flu-cdc-coalition-letter) (Common Dreams)
 
@@ -184,6 +210,14 @@ Source: [News API](https://newsapi.org/)
 - [Francisco George: gripe H5N1 é ameaça de nova epidemia no horizonte](https://observador.pt/2025/02/23/francisco-george-gripe-h5n1-e-ameaca-de-nova-epidemia-no-horizonte/) (Observador.pt)
 
 ## 25-9 (dengue)
+
+- [A nova falha de Lula com uma mulher símbolo no seu governo](https://veja.abril.com.br/coluna/matheus-leitao/a-nova-falha-de-lula-com-uma-mulher-simbolo-no-seu-governo) (Abril.com.br)
+
+- [Escolhido por Lula, Alexandre Padilha comanda Ministério da Saúde pela segunda vez](https://veja.abril.com.br/saude/escolhido-por-lula-alexandre-padilha-comanda-ministerio-da-saude-pela-segunda-vez) (Abril.com.br)
+
+- [Vacina brasileira contra a dengue será incorporada ao SUS a partir de 2026](https://www.tudocelular.com/tech/noticias/n232148/vacina-dengue-incorporada-ao-sus-em-2026.html) (Tudocelular.com)
+
+- [How flaviviruses use mitochondrial processes to thrive](https://medicine.yale.edu/news-article/how-flaviviruses-use-mitochondrial-processes-to-thrive/) (Yale.edu)
 
 - [Doença misteriosa mata 50 pessoas no Congo horas após primeiros sintomas](https://veja.abril.com.br/mundo/doenca-misteriosa-mata-50-pessoas-no-congo-horas-apos-primeiros-sintomas) (Abril.com.br)
 
@@ -2735,6 +2769,14 @@ Source: [News API](https://newsapi.org/)
 
 - [UNAM alerta sobre virus de influenza H5N1 y recomienda vigilarlo](https://www.milenio.com/politica/unam-recomienda-vigilar-virus-causante-de-la-gripe-aviar) (Milenio)
 
+- [First US human death from bird flu is more serious than you may think](https://newatlas.com/infectious-diseases/first-us-human-death-bird-flu/) (New Atlas)
+
+- [Homem de 28 anos do Camboja morre de gripe aviária. País apura caso](https://www.metropoles.com/saude/homem-28-camboja-morre-gripe-aviaria) (Metropoles.com)
+
+- [नोरोव्हायरस, बर्ड फ्लू की कोरोना... हिवाळ्यात कोणता जास्त धोकादायक आणि तो कसा टाळायचा?](https://www.lokmat.com/sakhi/health/lifestyle-diseases/health-tips-norovirus-vs-bird-flu-vs-covid-19-which-is-more-dangerous-in-winter-a-a597/) (Lokmat.com)
+
+- [Llama la UNAM a vigilar la evolución de la gripe aviar](https://www.jornada.com.mx/2025/01/12/sociedad/027n2soc) (Jornada.com.mx)
+
 ## 25-3 (dengue)
 
 - [Dengue: como usar o hipoclorito de sódio no combate ao Aedes aegypti](https://casa.abril.com.br/minha-casa/dengue-como-usar-o-hipoclorito-de-sodio-no-combate-ao-aedes-aegypti) (Abril.com.br)
@@ -2792,6 +2834,8 @@ Source: [News API](https://newsapi.org/)
 - [Dengue: SP tem 21 cidades em situação de emergência](https://www.terra.com.br/vida-e-estilo/saude/dengue-sp-tem-21-cidades-em-situacao-de-emergencia,cb9f0c74f749309f7f6f2dc0e1b1bc085pm97v74.html) (Terra.com.br)
 
 - [As dengue cases rise, researchers points to a simple solution: trash cleanup](https://news.stanford.edu/stories/2025/01/waste-reduction-a-key-defense-against-rising-dengue-cases) (Stanford.edu)
+
+- [Saúde falha em pontos sensíveis e fragiliza a situação de Nísia Trindade](https://veja.abril.com.br/politica/saude-falha-em-pontos-sensiveis-e-fragiliza-a-situacao-de-nisia-trindade) (Abril.com.br)
 
 ## 25-3 (chikungunya)
 
