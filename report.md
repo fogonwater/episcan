@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 17
-- **Last harvest:** 2025-02-27 07:06
-- **Most recent article:** 2025-02-26 04:50:49
+- **New articles in last harvest:** 46
+- **Last harvest:** 2025-02-27 19:06
+- **Most recent article:** 2025-02-26 19:00:00
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-3 | 25-4 | 25-5 | 25-6 | 25-7 | 25-8 | 25-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| h5n1 | 63 | 31 | 51 | 72 | 55 | 54 | 22 | 348 |
-| measles | 9 | 10 | 13 | 24 | 72 | 83 | 43 | 254 |
-| dengue | 29 | 37 | 24 | 34 | 37 | 57 | 18 | 236 |
+| h5n1 | 59 | 31 | 51 | 72 | 55 | 54 | 28 | 350 |
+| measles | 9 | 10 | 13 | 24 | 72 | 83 | 81 | 292 |
+| dengue | 28 | 37 | 24 | 34 | 37 | 57 | 19 | 236 |
 | mpox | 34 | 23 | 22 | 28 | 18 | 15 | 3 | 143 |
 | malaria | 18 | 19 | 30 | 25 | 12 | 7 | 5 | 116 |
+| chikungunya | 7 | 10 | 9 | 8 | 5 | 3 | 6 | 48 |
 | hpai | 12 | 11 | 6 | 3 | 9 | 5 | 2 | 48 |
-| chikungunya | 7 | 10 | 9 | 8 | 5 | 3 | 5 | 47 |
 | meningitis | 2 | 3 | 8 | 2 | 12 | 11 | 2 | 40 |
 | rabies | 6 | 7 | 6 | 4 | 5 | 4 | 0 | 32 |
-| zika | 5 | 2 | 8 | 6 | 2 | 6 | 0 | 29 |
+| zika | 5 | 2 | 8 | 6 | 2 | 6 | 1 | 30 |
+| typhoid | 4 | 0 | 0 | 2 | 3 | 0 | 1 | 10 |
 | yersinia | 2 | 0 | 0 | 0 | 5 | 0 | 2 | 9 |
 | pertussis | 0 | 1 | 0 | 3 | 3 | 2 | 0 | 9 |
-| typhoid | 4 | 0 | 0 | 2 | 3 | 0 | 0 | 9 |
 | leptospirosis | 1 | 2 | 0 | 1 | 0 | 2 | 0 | 6 |
 | shigellosis | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
 
@@ -33,11 +33,19 @@ Source: [News API](https://newsapi.org/)
 
 ---
 
+## 25-9 (zika)
+
+- [Brasil aposta em mais vacinas para doenças tropicais e público maior](https://valor.globo.com/publicacoes/especiais/inovacao-na-medicina/noticia/2025/02/26/brasil-aposta-em-mais-vacinas-para-doencas-tropicais-e-publico-maior.ghtml) (Globo)
+
 ## 25-9 (yersinia)
 
 - [The medieval house might have been built to specifications approved by a rodent council](https://www.isegoria.net/2025/02/the-medieval-house-might-have-been-built-to-specifications-approved-by-a-rodent-council/) (Isegoria.net)
 
 - [ניסוי הכלים של המגפה השחורה בסקנדינביה](https://www.ynet.co.il/environment-science/article/rj00xhnlcjx) (Ynet)
+
+## 25-9 (typhoid)
+
+- [Evaluation of Moore and grab sampling method for Salmonella Typhi detection in environmental samples in Ghana](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318840) (Plos.org)
 
 ## 25-9 (shigellosis)
 
@@ -58,6 +66,82 @@ Source: [News API](https://newsapi.org/)
 - [Father of girl who died with 'blood oozing from eyes' speaks out as jury decides hospital contributed to her death](https://www.ladbible.com/news/uk-news/sophie-ward-meningitis-inquest-father-219426-20250224) (LADbible)
 
 ## 25-9 (measles)
+
+- [1st death reported in Texas measles outbreak: What to know](https://www.livescience.com/health/viruses-infections-disease/1st-death-reported-in-texas-measles-outbreak-what-to-know) (Live Science)
+
+- [Child Dies of Measles Amid Outbreak in West Texas](http://www.rollingstone.com/culture/culture-news/child-dies-measles-outbreak-west-texas-1235280838/) (Rolling Stone)
+
+- ['Does not bode well': Doctor slams Trump's response as child dies in measles outbreak](https://www.rawstory.com/does-not-bode-well-trump-response-torn-apart-as-child-dies-in-measles-outbreak/) (Raw Story)
+
+- [A Child in Texas Has Died from Measles. That Death Was Preventable](https://www.pajiba.com/news/a-child-in-texas-has-died-from-measles-that-death-was-preventable.php) (Pajiba.com)
+
+- [First Measles Death Reported in West Texas Outbreak](https://www.insurancejournal.com/news/southcentral/2025/02/26/813460.htm) (Insurance Journal)
+
+- [Unvaccinated child dies in Texas measles outbreak](https://www.cbc.ca/news/health/measles-death-texas-1.7469010) (CBC News)
+
+- [Child dies in Texas measles outbreak](https://www.npr.org/sections/shots-health-news/2025/02/26/nx-s1-5309800/texas-measles-child-death-vaccination) (NPR)
+
+- [Texas Child Dies Of Measles As Fears Grow Of Outbreak’s Spread](https://www.forbes.com/sites/davewessner/2025/02/26/texas-measles-cases-now-at-124-with-fear-of-spread-to-other-areas/) (Forbes)
+
+- [First death in US measles outbreak is unvaccinated child in Texas](https://www.bbc.com/news/articles/clyderx4v8go) (BBC News)
+
+- [Texas child dies in measles outbreak, first U.S. fatality in years](https://www.rawstory.com/texas-child-dies-in-measles-outbreak-first-u-s-fatality-in-years/) (Raw Story)
+
+- [Unvaccinated Child Dies of Measles in Texas, Officials Say (Michael Levenson/New York Times)](https://www.memeorandum.com/250226/p54) (Memeorandum.com)
+
+- [Texas measles outbreak marks first fatality as more cases reported (Helen Branswell/STAT)](https://www.memeorandum.com/250226/p52) (Memeorandum.com)
+
+- [First measles death reported in west Texas as outbreak worsens (Ed Pilkington/The Guardian)](https://www.memeorandum.com/250226/p49) (Memeorandum.com)
+
+- [First Person Dies in US Measles Outbreak](https://www.newser.com/story/364893/first-person-dies-in-us-measles-outbreak.html) (Newser)
+
+- [Seems Bad](https://www.eschatonblog.com/2025/02/seems-bad_0147334093.html) (Eschatonblog.com)
+
+- [Child dies after contracting measles in Texas, officials say](https://www.cbsnews.com/video/child-dies-after-contracting-measles-in-texas-officials-say/) (CBS News)
+
+- [First measles death reported in West Texas outbreak (KCBD-TV)](https://www.memeorandum.com/250226/p44) (Memeorandum.com)
+
+- [Child Dies of Measles in Texas](https://politicalwire.com/2025/02/26/texas-child-dies-of-measles/) (Politicalwire.com)
+
+- [1st measles death linked to outbreak in Texas confirmed in child](https://abcnews.go.com/Health/1st-measles-death-linked-outbreak-texas-confirmed-child/story?id=119208967) (ABC News)
+
+- [Texas Measles Outbreak: First Death Reported As Over 120 Infected](https://www.forbes.com/sites/antoniopequenoiv/2025/02/26/texas-measles-outbreak-first-death-reported-as-over-120-infected/) (Forbes)
+
+- [First measles death reported in Texas child as outbreak spreads](https://www.cbsnews.com/news/measles-death-texas-outbreak/) (CBS News)
+
+- [Fox Doctor Laments That 'Vaccine Confidence Is At An All-Time Low’](https://crooksandliars.com/2025/02/fox-doctor-laments-vaccine-confidence-all) (Crooksandliars.com)
+
+- [First measles death is reported in the West Texas outbreak that's infected more than 120 people (Devi Shastri/Associated Press)](https://www.memeorandum.com/250226/p41) (Memeorandum.com)
+
+- [First Death Reported As Texas Measles Outbreak Expands](https://www.huffpost.com/entry/texas-measles-outbreak-death_n_67bf3779e4b0f92b3ac7f4e2) (HuffPost)
+
+- [First measles death reported in Texas outbreak...](https://apnews.com/article/measles-outbreak-west-texas-death-rfk-41adc66641e4a56ce2b2677480031ab9) (Associated Press)
+
+- [First measles death is reported in the West Texas outbreak that's infected more than 120 people](https://abcnews.go.com/US/wireStory/measles-death-reported-west-texas-outbreak-infected-120-119208380) (ABC News)
+
+- [An unvaccinated child has died in the Texas measles outbreak](https://www.bostonherald.com/2025/02/26/measles-outbreak-texas-death/) (Boston Herald)
+
+- [A person dies of measles in West Texas outbreak (Erika Edwards/NBC News)](https://www.memeorandum.com/250226/p35) (Memeorandum.com)
+
+- [Unvaccinated child dies from measles in first US death from virus since 2015](https://news.sky.com/story/unvaccinated-child-dies-from-measles-in-first-us-death-from-virus-since-2015-13317504) (Sky.com)
+
+- [First Measles Death Reported in West Texas Outbreak](https://www.newsweek.com/first-measles-death-reported-west-texas-outbreak-2036595) (Newsweek)
+
+- [A person dies of measles in West Texas outbreak](https://www.nbcnews.com/health/health-news/person-dies-measles-west-texas-outbreak-rcna193812) (NBC News)
+
+- [Mother says "it's terrifying" as measles cases rise in Texas amid outbreak](https://www.cbsnews.com/video/mother-says-its-terrifying-as-measles-cases-rise-in-texas-amid-outbreak/) (CBS News)
+
+- [Eye Opener: Measles outbreak in Texas is largest in decades](https://www.cbsnews.com/video/eye-opener-measles-outbreak-in-texas-is-largest-in-decades/) (CBS News)
+
+- [More measles cases reported in Texas](https://www.cbsnews.com/video/more-measles-cases-reported-in-texas/) (CBS News)
+
+- [Texas measles outbreak grows and the Detroit Pistons' turnaround: Morning Rundown](https://www.nbcnews.com/news/texas-measles-outbreak-detroit-pistons-win-morning-rundown-rcna193780) (NBC News)
+
+- [What are cancer vaccines?](https://www.livescience.com/health/cancer/what-are-cancer-vaccines) (Live Science)
+
+- [Texas Measles Surge 'Inevitable' Due to Vaccine Exemptions, Experts Warn](https://www.newsweek.com/texas-measles-surge-inevitable-vaccine-exemptions-2035228) (Newsweek)
+
+- [Dramatic measles outbreaks worry health officials](https://www.cbc.ca/news/health/measles-canada-1.7468421) (CBC News)
 
 - [As Texas measles outbreak grows, parents are choosing to vaccinate kids (Erika Edwards/NBC News)](https://www.memeorandum.com/250225/p168) (Memeorandum.com)
 
@@ -165,6 +249,18 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-9 (h5n1)
 
+- [BREAKING: Canadian Government Purchased H5N1 Vaccines FOR HUMANS While CULLING 400 HEALTHY OSTRICHES!!](https://www.activistpost.com/breaking-canadian-government-purchased-h5n1-vaccines-for-humans-while-culling-400-healthy-ostriches/) (Activistpost.com)
+
+- [KOMMENTAR - Niemand stoppt die Vogelgrippeviren in den USA – die Verantwortlichen riskieren die Gesundheit auf der ganzen Welt](https://www.nzz.ch/meinung/alarmierende-h5n1-entwicklung-usa-setzen-weltgesundheit-aufs-spiel-ld.1872917) (Www.nzz.ch)
+
+- [U.S. Mortality Surge Linked to mRNA Injections, Autism-Vaccine Connection Confirmed, Europe’s Dangerous Replicon Injection Gamble, and USDA’s Multi-Billion-Dollar H5N1 Debacle](https://www.globalresearch.ca/us-mortality-surge-linked-mrna-injections-autism-vaccine-connection-confirmed/5880921) (Globalresearch.ca)
+
+- [Grippe aviaire : et si notre système immunitaire était déjà en partie prêt ?](https://www.futura-sciences.com/sante/actualites/grippe-aviaire-grippe-aviaire-si-notre-systeme-immunitaire-etait-deja-partie-pret-119956/) (Futura)
+
+- [Bird flu: Two patients in US admitted to hospital with H5N1 as concerns over spread grow](https://www.bmj.com/content/388/bmj.r396) (The BMJ)
+
+- [Cambodge : Une fillette de 2 ans meurt de la grippe aviaire](https://www.20minutes.fr/sante/4140734-20250226-cambodge-fillette-deux-ans-meurt-grippe-aviaire) (20 Minutes)
+
 - [Pandemie «made in USA»? Die Vogelgrippeviren haben jetzt ideale Voraussetzungen, um für Menschen gefährlich zu werden](https://www.nzz.ch/wissenschaft/vogelgrippe-in-den-usa-entsteht-gerade-ein-pandemievirus-ld.1867871) (Www.nzz.ch)
 
 - [इंसानों में भी फैलने लगा बर्ड फ्लू, US में 2 मरीजों को हॉस्पिटल में एडमिट होना पड़ा](https://www.aajtak.in/world/story/america-bird-flu-wyoming-ohio-potential-emergence-deadlier-virus-sparks-fear-ntc-dskc-2176148-2025-02-26) (Aajtak.in)
@@ -211,6 +307,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-9 (dengue)
 
+- [Brasil aposta em mais vacinas para doenças tropicais e público maior](https://valor.globo.com/publicacoes/especiais/inovacao-na-medicina/noticia/2025/02/26/brasil-aposta-em-mais-vacinas-para-doencas-tropicais-e-publico-maior.ghtml) (Globo)
+
 - [A nova falha de Lula com uma mulher símbolo no seu governo](https://veja.abril.com.br/coluna/matheus-leitao/a-nova-falha-de-lula-com-uma-mulher-simbolo-no-seu-governo) (Abril.com.br)
 
 - [Escolhido por Lula, Alexandre Padilha comanda Ministério da Saúde pela segunda vez](https://veja.abril.com.br/saude/escolhido-por-lula-alexandre-padilha-comanda-ministerio-da-saude-pela-segunda-vez) (Abril.com.br)
@@ -248,6 +346,8 @@ Source: [News API](https://newsapi.org/)
 - [Philippine village battles dengue by offering bounties for mosquitos — dead or alive](https://www.voanews.com/a/philippine-village-battles-dengue-by-offering-bounties-for-mosquitos-dead-or-alive/7984215.html) (VOA News)
 
 ## 25-9 (chikungunya)
+
+- [Brasil aposta em mais vacinas para doenças tropicais e público maior](https://valor.globo.com/publicacoes/especiais/inovacao-na-medicina/noticia/2025/02/26/brasil-aposta-em-mais-vacinas-para-doencas-tropicais-e-publico-maior.ghtml) (Globo)
 
 - [Biological E partners with Bavarian Nordic for Chikungunya vaccine in low- and middle-income nations](https://www.thehindubusinessline.com/companies/biological-e-partners-with-bavarian-nordic-for-chikungunya-vaccine-in-low-and-middle-income-nations/article69261454.ece) (BusinessLine)
 
@@ -2769,14 +2869,6 @@ Source: [News API](https://newsapi.org/)
 
 - [UNAM alerta sobre virus de influenza H5N1 y recomienda vigilarlo](https://www.milenio.com/politica/unam-recomienda-vigilar-virus-causante-de-la-gripe-aviar) (Milenio)
 
-- [First US human death from bird flu is more serious than you may think](https://newatlas.com/infectious-diseases/first-us-human-death-bird-flu/) (New Atlas)
-
-- [Homem de 28 anos do Camboja morre de gripe aviária. País apura caso](https://www.metropoles.com/saude/homem-28-camboja-morre-gripe-aviaria) (Metropoles.com)
-
-- [नोरोव्हायरस, बर्ड फ्लू की कोरोना... हिवाळ्यात कोणता जास्त धोकादायक आणि तो कसा टाळायचा?](https://www.lokmat.com/sakhi/health/lifestyle-diseases/health-tips-norovirus-vs-bird-flu-vs-covid-19-which-is-more-dangerous-in-winter-a-a597/) (Lokmat.com)
-
-- [Llama la UNAM a vigilar la evolución de la gripe aviar](https://www.jornada.com.mx/2025/01/12/sociedad/027n2soc) (Jornada.com.mx)
-
 ## 25-3 (dengue)
 
 - [Dengue: como usar o hipoclorito de sódio no combate ao Aedes aegypti](https://casa.abril.com.br/minha-casa/dengue-como-usar-o-hipoclorito-de-sodio-no-combate-ao-aedes-aegypti) (Abril.com.br)
@@ -2834,8 +2926,6 @@ Source: [News API](https://newsapi.org/)
 - [Dengue: SP tem 21 cidades em situação de emergência](https://www.terra.com.br/vida-e-estilo/saude/dengue-sp-tem-21-cidades-em-situacao-de-emergencia,cb9f0c74f749309f7f6f2dc0e1b1bc085pm97v74.html) (Terra.com.br)
 
 - [As dengue cases rise, researchers points to a simple solution: trash cleanup](https://news.stanford.edu/stories/2025/01/waste-reduction-a-key-defense-against-rising-dengue-cases) (Stanford.edu)
-
-- [Saúde falha em pontos sensíveis e fragiliza a situação de Nísia Trindade](https://veja.abril.com.br/politica/saude-falha-em-pontos-sensiveis-e-fragiliza-a-situacao-de-nisia-trindade) (Abril.com.br)
 
 ## 25-3 (chikungunya)
 
