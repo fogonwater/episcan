@@ -1,8 +1,530 @@
 {
-  "last_updated": "2025-02-27 19:06",
-  "count_articles_total": 1328,
-  "count_articles_new": 46,
+  "last_updated": "2025-02-28 07:06",
+  "count_articles_total": 1362,
+  "count_articles_new": 29,
   "articles": [
+    {
+      "id": 18716,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "International Business Times",
+      "author": "Sana Khan",
+      "title": "Texas Reports First US Measles Death In A Decade Amid Growing Outbreak",
+      "description": "During a briefing on Wednesday, Dr. Lara Johnson, Chief Medical Officer for Covenant Health Service Area explained that measles can only be prevented if enough people are vaccinated. As vaccination rates drop across the country, more outbreaks are likely to o\u2026",
+      "url": "https://www.ibtimes.com/texas-reports-first-us-measles-death-decade-amid-growing-outbreak-3764966",
+      "urlToImage": "https://d.ibtimes.com/en/full/4576419/anti-vaxx-misinformation-has-led-rising-measles-rates-many-countries.jpg",
+      "publishedAt": "2025-02-27 07:00:25",
+      "content": "Texas health officials reported on Wednesday that a child in West Texas has died from measles. This is the first measles-related death in the U.S. in ten years. Measles is a highly contagious respir\u2026 [+2881 chars]",
+      "retrievedAt": "2025-02-28 07:06:53.052602",
+      "internal_id": "a14202199a7aa1530989071caea4a637b22ece2b9f2dc86135c4ba701a08c685",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 18728,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ET Online",
+      "title": "\"We do not have immunity against it,\" warn scientists as India\u2019s first bird flu case in cats raises human health concerns",
+      "description": "In an alarming first, cases of avian influenza (H5N1) have been found in domestic cats in Chhindwara district, Madhya Pradesh. This raises concerns about the virus mutating in mammals and its potential risk to humans. Though human infections are rare, experts\u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/we-do-not-have-immunity-against-it-warn-scientists-as-indias-first-bird-flu-case-in-cats-raises-human-health-concerns/articleshow/118596063.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-118596191,width-1200,height-630,imgsize-1460507,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-02-27 06:47:13",
+      "content": "Artificial Intelligence(AI) AI and Analytics based Business Strategy By - Tanusree De, Managing Director- Accenture Technology Lead, Trustworthy AI Center of Excellence: ATCI View Program",
+      "retrievedAt": "2025-02-28 07:06:53.826850",
+      "internal_id": "4beec512d0427c5c4c5280be0c8038e77c2a91752f6c5d1f58443dc054c27cc0",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 18730,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Aristeguinoticias.com",
+      "author": "Redacci\u00f3n AN / ES",
+      "title": "Alertan por caso de mpox en M\u00e9xico; festival de Zipolite, posible punto de infecci\u00f3n",
+      "description": "Las Cl\u00ednicas Especializadas Condesa afirman que se detectaron casos de Mpox en personas que asistieron al festival en Zipolite de este a\u00f1o.",
+      "url": "https://aristeguinoticias.com/270225/mexico/alertan-por-caso-de-mpox-en-mexico-feria-de-zipolite-posible-punto-de-infeccion/?utm_source=Indigitall&amp;utm_medium=push&amp;utm_campaign=web",
+      "urlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2024/10/mpox-viruela-simica-epidemia-mexico-direccion-general-epidemiologica-salud-salud-publica-sanidad-prevencion-enfermedad-031024.jpg",
+      "publishedAt": "2025-02-27 04:25:06",
+      "content": "Los Servicios de Salud de Oaxaca (SSO) informaron sobre el caso de un paciente que fue diagnosticado con mpox (viruela s\u00edmica). Mediante un comunicado, los SSO afirm\u00f3 que mantiene una vigilancia est\u2026 [+2776 chars]",
+      "retrievedAt": "2025-02-28 07:06:55.374339",
+      "internal_id": "a4858849dd5945e066894670a4edf9d609c59dbe4d9788d8a0e0d0843d7325fd",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 18731,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Excelsior.com.mx",
+      "author": "jcarlos.ponce",
+      "title": "Viruela del mono: Refuerzan vigilancia en Huatulco tras caso positivo de Mpox",
+      "description": "Patricia Brise\u00f1o Luego de confirmar un caso de Mpox (viruela s\u00edmica), en Santa Mar\u00eda Huatulco, en la regi\u00f3n Costa, los Servicios de Salud de Oaxaca (SSO) mantiene una estricta vigilancia m\u00e9dica, en seguimiento del protocolo para estos casos cl\u00ednicos. A tra\u2026",
+      "url": "https://www.excelsior.com.mx/nacional/viruela-del-mono-refuerzan-vigilancia-en-huatulco-tras-caso-positivo-de-mpox/1702145",
+      "urlToImage": "https://www.excelsior.com.mx/media/pictures/2025/02/26/3265503.jpg",
+      "publishedAt": "2025-02-27 04:14:11",
+      "content": "Luego de confirmar un caso de Mpox (viruela s\u00edmica), en Santa Mar\u00eda Huatulco, en la regi\u00f3n Costa, los Servicios de Salud de Oaxaca (SSO) mantiene una estricta vigilancia m\u00e9dica, en seguimiento del pr\u2026 [+1836 chars]",
+      "retrievedAt": "2025-02-28 07:06:55.395513",
+      "internal_id": "096ce3fcb299dc1e3e2d0e166bb0f3a5063f7bb2c106d2c13cf7c82626b85b13",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 18708,
+      "query": [
+        "measles"
+      ],
+      "source_id": "al-jazeera-english",
+      "source_name": "Al Jazeera English",
+      "author": "Al Jazeera",
+      "title": "US reports first measles death since 2015",
+      "description": "School-aged child dies in Texas amid outbreak concentrated among followers of Christian sect.",
+      "url": "https://www.aljazeera.com/news/2025/2/27/us-reports-first-measles-death-since-2015",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/02/AP25056624089896-1-1740625942_98b38d-1740627780.jpg?resize=1200%2C630&quality=80",
+      "publishedAt": "2025-02-27 04:05:42",
+      "content": "The United States has reported its first measles death in a decade after an unvaccinated child fell ill amid an outbreak of the highly contagious disease in Texas. The school-aged child died overnig\u2026 [+2009 chars]",
+      "retrievedAt": "2025-02-28 07:06:52.840391",
+      "internal_id": "ea05dfadf2faed614dc3f09f388b87f18dba5b920e2daf4bca171217d834bd48",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 18703,
+      "query": [
+        "measles"
+      ],
+      "source_id": "time",
+      "source_name": "Time",
+      "author": "Devi Shastri and Amanda Seitz / AP",
+      "title": "An Unvaccinated Child Has Died From Measles. What to Know About the West Texas Outbreak",
+      "description": "Here\u2019s what to know about the outbreak after the first U.S. death since 2015 from the highly contagious\u2014but preventable\u2014respiratory disease.",
+      "url": "https://time.com/7262211/measles-death-child-outbreak-west-texas-unvaccinated/",
+      "urlToImage": "https://api.time.com/wp-content/uploads/2025/02/measles-texas-lubbock-covenant-childrens-hospital.jpg?quality=85&w=1024&h=628&crop=1",
+      "publishedAt": "2025-02-27 03:00:00",
+      "content": "LUBBOCK, Texas A child who wasnt vaccinated died in a measles outbreak in rural West Texas, state officials said Wednesday, the first U.S. death from the highly contagiousbut preventablerespiratory d\u2026 [+5792 chars]",
+      "retrievedAt": "2025-02-28 07:06:52.759615",
+      "internal_id": "8c4b157dc5127dbcac8513ff19528cc98a55b254f40fbe55a3cf436aca33812f",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 18704,
+      "query": [
+        "measles"
+      ],
+      "source_id": "time",
+      "source_name": "Time",
+      "author": "Peter Smith / AP",
+      "title": "Who Are the Mennonites and Why Are They Facing a Measles Outbreak?",
+      "description": "The Mennonite population being affected by a measles outbreak in West Texas is part of a larger, loosely affiliated group of churches worldwide with sometimes strained relations with health officials.",
+      "url": "https://time.com/7262199/mennonites-measles-outbreak-texas-vaccines-explainer/",
+      "urlToImage": "https://api.time.com/wp-content/uploads/2025/02/measles-test.jpg?quality=85&w=1024&h=628&crop=1",
+      "publishedAt": "2025-02-27 03:00:00",
+      "content": "The Mennonite population being affected by a measles outbreak in West Texas is part of a larger, loosely affiliated group of churches worldwide with varied beliefs and leadership structuresand with s\u2026 [+4586 chars]",
+      "retrievedAt": "2025-02-28 07:06:52.785332",
+      "internal_id": "1fc5c6e0b566949c03b391fe1f055cf0207520d2c15825fcecb0454d51c35171",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 18715,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "CBS News",
+      "title": "2/26: CBS Evening News",
+      "description": "Texas mom with baby too young for measles vaccines worries about outbreak; Congresswoman votes for bill with newborn in arms after proxy vote ban",
+      "url": "https://www.cbsnews.com/video/022625-cbs-evening-news/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/02/27/f7b13f60-056a-460a-be01-47b0ca001e7b/thumbnail/1200x630/1253002469709d94ef38e2701a735716/0226-en-full-3569152-640x360.jpg?v=8de240724d7f6d8b5f54f62bb158c012",
+      "publishedAt": "2025-02-27 02:50:00",
+      "content": "Watch CBS News Copyright \u00a92025 CBS Interactive Inc. All rights reserved. Get browser notifications for breaking news, live events, and exclusive reporting. Not NowTurn On",
+      "retrievedAt": "2025-02-28 07:06:53.001147",
+      "internal_id": "4bc582db38dc2123babb3c68c84af19da1a67c9e58f67e9ffed8d15dcc877150",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 18714,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news-au",
+      "source_name": "ABC News (AU)",
+      "author": "Hanan Dervisevic",
+      "title": "RFK Jr says US measles outbreak is 'not unusual' after first death in a decade",
+      "description": "An unvaccinated child in Texas has died from measles, marking the first US fatality from the highly contagious disease in a decade.",
+      "url": "https://www.abc.net.au/news/2025-02-27/measles-outbreak-us-kills-child-texas-robert-kennedy-jr/104988920",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/2a86ea943b5b4f76380192f9db747d37?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=34&width=862&height=485&imformat=generic",
+      "publishedAt": "2025-02-27 01:47:12",
+      "content": "A measles outbreak in West Texas has exceeded 120 cases and resulted in the first US death from the illness in a decade. The Texas Department of State Health Services reported the death of a \"school\u2026 [+4680 chars]",
+      "retrievedAt": "2025-02-28 07:06:52.993664",
+      "internal_id": "69328e66dc121f44358e7d6d152cdc37a20b7ce544a764fa8c6833f53bda9f00",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 18727,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Neha Madaan",
+      "title": "\u092d\u093e\u0930\u0924 \u092e\u0947\u0902 \u092a\u0939\u0932\u0940 \u092c\u093e\u0930 \u0918\u0930\u0947\u0932\u0942 \u092c\u093f\u0932\u094d\u0932\u093f\u092f\u094b\u0902 \u092e\u0947\u0902 \u0938\u093e\u092e\u0928\u0947 \u0906\u090f \u092c\u0930\u094d\u0921 \u092b\u094d\u0932\u0942 \u0915\u0947 \u092e\u093e\u092e\u0932\u0947, \u0935\u0948\u091c\u094d\u091e\u093e\u0928\u093f\u0915\u094b\u0902 \u0928\u0947 \u0926\u0940 \u0938\u094d\u0924\u0930\u094d\u0915 \u0930\u0939\u0928\u0947 \u0915\u0940 \u0938\u0932\u093e\u0939",
+      "description": "\u092e\u0927\u094d\u092f \u092a\u094d\u0930\u0926\u0947\u0936 \u0915\u0947 \u091b\u093f\u0902\u0926\u0935\u093e\u0921\u093c\u093e \u0938\u0947 \u0930\u093f\u092a\u094b\u0930\u094d\u091f \u092e\u0947\u0902 \u092d\u093e\u0930\u0924 \u092e\u0947\u0902 \u092a\u0939\u0932\u0940 \u092c\u093e\u0930 \u0918\u0930\u0947\u0932\u0942 \u092c\u093f\u0932\u094d\u0932\u093f\u092f\u094b\u0902 \u092e\u0947\u0902 \u092c\u0930\u094d\u0921 \u092b\u094d\u0932\u0942 \u0915\u0947 \u092e\u093e\u092e\u0932\u0947 \u0938\u093e\u092e\u0928\u0947 \u0906\u090f \u0939\u0948\u0902\u0964 \u0938\u092d\u0940 \u0938\u0902\u0915\u094d\u0930\u092e\u093f\u0924 \u092c\u093f\u0932\u094d\u0932\u093f\u092f\u094b\u0902 \u092e\u0947\u0902 \u0924\u0947\u091c \u092c\u0941\u0916\u093e\u0930, \u092d\u0942\u0916 \u092e\u0947\u0902 \u0915\u092e\u0940 \u0914\u0930 \u0938\u0941\u0938\u094d\u0924\u0940 \u0915\u0947 \u0932\u0915\u094d\u0937\u0923 \u0925\u0947\u0964 \u0935\u0948\u091c\u094d\u091e\u093e\u0928\u093f\u0915\u094b\u0902 \u0928\u0947 \u0907\u0938 \u0935\u093e\u092f\u0930\u0938 \u0915\u094b \u0932\u0947\u0915\u0930 \u0938\u0924\u0930\u094d\u0915 \u0930\u0939\u0928\u0947 \u0915\u0940 \u0938\u0932\u093e\u0939 \u0926\u0940 \u0939\u0948\u0964",
+      "url": "https://navbharattimes.indiatimes.com/state/maharashtra/pune/bird-flu-cases-were-reported-in-domestic-cats-in-india-scientists-advised-to-be-cautious/articleshow/118589729.cms",
+      "urlToImage": "https://static.langimg.com/photo/imgsize-45864,msid-118589781/navbharat-times.jpg",
+      "publishedAt": "2025-02-27 01:05:55",
+      "content": ": (H5N1) H5N1 , , ICAR-NIHSAD , 2.3.2.1a lineage H5N1 , 27 , , , Samsung Galaxy S25: , ! Adani Power Zensar Tech , ? , Adv : , ! 6999 <\u2026 [+212 chars]",
+      "retrievedAt": "2025-02-28 07:06:53.806146",
+      "internal_id": "aa8641c0fdf879923d2bb1ad81144762ec724c345b9e053a04ac8e7a62b1690a",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 18724,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Newser",
+      "author": "Bob Cronin",
+      "title": "Kennedy's Measles Report Runs Into Experts, Texas Officials",
+      "description": "\"We are following the measles epidemic every day,\" Robert F. Kennedy Jr., the nation's top health official, said in a Cabinet meeting Wednesday at the White House. Doctors and officials suggested Health and Human Services secretary isn't quite on top of the s\u2026",
+      "url": "https://www.newser.com/story/364915/kennedys-measles-report-runs-into-experts-texas-officials.html",
+      "urlToImage": "https://img2-azrcdn.newser.com/image/1595319-12-20250226193102.jpeg",
+      "publishedAt": "2025-02-27 01:00:00",
+      "content": "\"We are following the measles epidemic every day,\" Robert F. Kennedy Jr., the nation's top health official, said in a Cabinet meeting Wednesday at the White House. Doctors and officials suggested Hea\u2026 [+2134 chars]",
+      "retrievedAt": "2025-02-28 07:06:53.249117",
+      "internal_id": "8da18aeb548081d52524f4234dcb88178dc36610bd5e7f3043180f0ab57aa875",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 18717,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "CBS News",
+      "title": "Texas mom with baby too young for measles vaccines worries about outbreak",
+      "description": "A child who was hospitalized with measles in Texas has died from the illness, marking the first death in an outbreak that has infected more than 120 people since late last month. Omar Villafranca spoke to a mom concerned for her 8-month-old baby who's still t\u2026",
+      "url": "https://www.cbsnews.com/video/texas-mom-with-baby-too-young-for-measles-vaccines-worries-about-outbreak/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/02/27/e12b9281-31dc-434c-9272-34a71d51f50b/thumbnail/1200x630/8f296bdc79146996e7485a71844592a3/cbsn-fusion-texas-mom-with-baby-too-young-for-measles-vaccines-worries-about-outbreak-thumbnail.jpg?v=8de240724d7f6d8b5f54f62bb158c012",
+      "publishedAt": "2025-02-27 00:42:00",
+      "content": "Watch CBS News Copyright \u00a92025 CBS Interactive Inc. All rights reserved. Get browser notifications for breaking news, live events, and exclusive reporting. Not NowTurn On",
+      "retrievedAt": "2025-02-28 07:06:53.059901",
+      "internal_id": "1c47ad6ee8c3b483ecb8e332d6351114b95fc9ab1d80f8ff1a3d14c59c107675",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 18712,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "CBS News",
+      "title": "First measles death in Texas outbreak reported",
+      "description": "An unvaccinated child hospitalized with measles has died, the first reported death from the illness amid an outbreak across Texas and New Mexico. CBS News correspondent Omar Villafranca reports.",
+      "url": "https://www.cbsnews.com/video/first-measles-death-texas-outbreak-reported/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/02/27/b36f14b4-bb9c-45ec-9021-66918c913330/thumbnail/1200x630/8d16dca6d6159da6f455d2e66d1ab8ef/cbsn-fusion-first-measles-death-texas-outbreak-reported-thumbnail.jpg?v=8de240724d7f6d8b5f54f62bb158c012",
+      "publishedAt": "2025-02-27 00:19:00",
+      "content": "Watch CBS News Copyright \u00a92025 CBS Interactive Inc. All rights reserved. Get browser notifications for breaking news, live events, and exclusive reporting. Not NowTurn On",
+      "retrievedAt": "2025-02-28 07:06:52.948294",
+      "internal_id": "468e674ada717d327029dfa5e37526b776b40a9ad5127c527d624d31c59b7448",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 18718,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "RFK Dismisses Measles Outbreak That Killed Kid as No Biggie (Josh Fiallo/The Daily Beast)",
+      "description": "Josh Fiallo / The Daily Beast: RFK Dismisses Measles Outbreak That Killed Kid as No Biggie \u2014 \u201cIt is not unusual, we have measles outbreaks every year,\u201d he claims.",
+      "url": "https://www.memeorandum.com/250226/p142",
+      "urlToImage": "https://www.thedailybeast.com/resizer/v2/35RGI3XCA5HM3EEIOFXF26GJNQ.jpg?smart=true&auth=1a4159824df403f43a275c41872fbbc7aae983e6a9b96e8a14c8028cc1f8fa13&width=1200&height=630",
+      "publishedAt": "2025-02-26 23:55:01",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-02-28 07:06:53.073216",
+      "internal_id": "b86ba2e3356ef9d118de3ae62d61f5a4b07765556b2ca042f7a80b6d8ece6a17",
+      "publishedAtLabel": "Feb 26"
+    },
+    {
+      "id": 18723,
+      "query": [
+        "measles"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Aila Slisco",
+      "title": "GOP Senator Facing Backlash For RFK Jr. Support After Measles Kills Child",
+      "description": "An unvaccinated child in Texas became the first person to die of measles in the U.S. in 10 years this week.",
+      "url": "https://www.newsweek.com/gop-senator-facing-backlash-rfk-jr-support-measles-death-2036877",
+      "urlToImage": "https://d.newsweek.com/en/full/2596497/bill-cassidy-robert-f-kennedy-jr-measles.jpg",
+      "publishedAt": "2025-02-26 23:46:37",
+      "content": "Republican Senator Bill Cassidy of Louisiana is facing backlash for supporting the confirmation of Department of Health and Human Services (HHS) Secretary Robert F. Kennedy Jr. following the first U.\u2026 [+4107 chars]",
+      "retrievedAt": "2025-02-28 07:06:53.210624",
+      "internal_id": "016ebf08d517a34821c566b46532579aab353cc5cd8fc59fcadfff408babe600",
+      "publishedAtLabel": "Feb 26"
+    },
+    {
+      "id": 18713,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "CBS News",
+      "title": "Texas reports first death in Measles outbreak",
+      "description": "An unvaccinated child in Texas has died from Measles, officials said Wednesday. It's the first reported death in the outbreak impacting the Lone Star State. CBS News' Omar Villafranca and Dr. Jon LaPook have more.",
+      "url": "https://www.cbsnews.com/video/texas-reports-first-death-measles-outbreak/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/02/26/b9df6864-6a4f-417d-941b-75e3eba3398c/thumbnail/1200x630/e84a7ad7e9397775b9ee3f3055a3b265/cbsn-fusion-texas-reports-first-death-measles-outbreak-thumbnail.jpg?v=8de240724d7f6d8b5f54f62bb158c012",
+      "publishedAt": "2025-02-26 23:24:00",
+      "content": "Watch CBS News Copyright \u00a92025 CBS Interactive Inc. All rights reserved. Get browser notifications for breaking news, live events, and exclusive reporting. Not NowTurn On",
+      "retrievedAt": "2025-02-28 07:06:52.955626",
+      "internal_id": "d3125f6e3cf6bb68918f2f64e887c1e4dab24b8d743a915b0ce5d8342a9c9f69",
+      "publishedAtLabel": "Feb 26"
+    },
+    {
+      "id": 18726,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "Immunity against seasonal H1N1 flu reduces bird flu severity in ferrets, study suggests",
+      "description": "Pre-existing immunity against seasonal H1N1 flu might help explain why most reported human cases of H5N1 bird flu in the U.S. have not resulted in lethal outcomes.",
+      "url": "https://www.sciencedaily.com/releases/2025/02/250226175926.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2025-02-26 22:59:26",
+      "content": "Pre-existing immunity against seasonal H1N1 flu might help explain why most reported human cases of H5N1 bird flu in the U.S. have not resulted in lethal outcomes, suggests a new study by University \u2026 [+4554 chars]",
+      "retrievedAt": "2025-02-28 07:06:53.722307",
+      "internal_id": "098ccf5502e1a6ea1556e4f4c09063ae253d02bc401a7c8dc50348f0e2a5f53e",
+      "publishedAtLabel": "Feb 26"
+    },
+    {
+      "id": 18707,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "ABC News",
+      "title": "WATCH: 2-year-old chihuahua found sprinting on highway reunited with family",
+      "description": "Motorists stopped traffic to rescue Henry before he was taken to the San Diego Humane Society.",
+      "url": "https://abcnews.go.com/GMA/Living/video/2-year-chihuahua-found-sprinting-highway-reunited-family-119225802",
+      "urlToImage": "https://i.abcnewsfe.com/a/57ae90fe-ac2a-4a95-9e4b-39da3c9896f1/250226_gma_digital_3_HenryChihuahua_hpMain_9x16.jpg?w=992",
+      "publishedAt": "2025-02-26 22:12:14",
+      "content": "Unvaccinated child dies of measles amid outbreak Spending bill wont touch Medicare, Trump says Hamas, Israel exchange dead hostages for Palestinian prisoners Act\u2026 [+4388 chars]",
+      "retrievedAt": "2025-02-28 07:06:52.826879",
+      "internal_id": "daa3f31525cb093aa1a9cc3e0170f725e1d1f28a0546e9ce4ed1b6ce55600d64",
+      "publishedAtLabel": "Feb 26"
+    },
+    {
+      "id": 18721,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "RFK Jr. Has Horrific Response to Measles Death (Ellie Quinlan Houghtaling/New Republic)",
+      "description": "Ellie Quinlan Houghtaling / New Republic: RFK Jr. Has Horrific Response to Measles Death \u2014 An unvaccinated child in west Texas died of measles on Wednesday, marking the first time that someone has died from the viral illness in the U.S. in a decade. \u2014 So \u2026",
+      "url": "https://www.memeorandum.com/250226/p118",
+      "urlToImage": "https://images.newrepublic.com/7883077eaafd9dfb95eea53f49ffdc98b9f99b7e.jpeg?w=1200&q=75&dpi=1&fm=pjpg&fit=crop&crop=faces&ar=3:2",
+      "publishedAt": "2025-02-26 22:00:23",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-02-28 07:06:53.170715",
+      "internal_id": "af782896e987120d5109c7182b439b92a07e3900af06a879ca47e720a4b9b03d",
+      "publishedAtLabel": "Feb 26"
+    },
+    {
+      "id": 18719,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Japan Today",
+      "author": null,
+      "title": "Texas child dies in measles outbreak; first U.S. fatality in years",
+      "description": "An unvaccinated child in Texas has died from measles, authorities said Wednesday, marking the first U.S. fatality from the highly contagious virus in nearly a decade and sparking renewed fears of its resurgence. The death comes amid declining immunization rat\u2026",
+      "url": "https://japantoday.com/category/world/texas-child-dies-in-measles-outbreak-first-us-fatality-in-years",
+      "urlToImage": null,
+      "publishedAt": "2025-02-26 21:47:09",
+      "content": "An unvaccinated child in Texas has died from measles, authorities said Wednesday, marking the first U.S. fatality from the highly contagious virus in nearly a decade and sparking renewed fears of its\u2026 [+3960 chars]",
+      "retrievedAt": "2025-02-28 07:06:53.093047",
+      "internal_id": "7749b065ac376f4436a3028d0909f160db77af9bd1bc7c6db464b55cd9fc08f5",
+      "publishedAtLabel": "Feb 26"
+    },
+    {
+      "id": 18711,
+      "query": [
+        "measles"
+      ],
+      "source_id": "new-york-magazine",
+      "source_name": "New York Magazine",
+      "author": "Nia Prater",
+      "title": "RFK Downplays Texas Measles Outbreak After First Reported Death",
+      "description": "After Texas officials announced that an unvaccinated child had died from the measles, HHS Secretary Rboer F. Kennedy, Jr. said outbreaks happen \u2018every year.\u2019",
+      "url": "http://nymag.com/intelligencer/article/rfk-downplays-texas-measles-outbreak-after-first-death.html",
+      "urlToImage": "https://pyxis.nymag.com/v1/imgs/e32/22f/7152e486ffae907dbe23d7fd625edac904-texas-measlestest.1x.rsocial.w1200.jpg",
+      "publishedAt": "2025-02-26 21:46:21",
+      "content": "Texas officials announced Wednesday that a child has died after contracting the measles, the first fatality in an ongoing serious outbreak in the state and neighboring New Mexico over the past few we\u2026 [+2716 chars]",
+      "retrievedAt": "2025-02-28 07:06:52.940634",
+      "internal_id": "3d1892821fda03a7667d10b904a23422e900d8f6daf79ffdb11a147087f1e6a2",
+      "publishedAtLabel": "Feb 26"
+    },
+    {
+      "id": 18709,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Econbrowser.com",
+      "author": "Menzie Chinn",
+      "title": "The Betting on Measles",
+      "description": "Sad news informs the revision to odds on measles cases this year: Betting is on 834 cases; on January 20th (Trump\u2019s inauguration), the betting was for 180. As of 2/20, CDC reports 93 cases. This is an entirely preventable disease. Someone in authority should \u2026",
+      "url": "https://econbrowser.com/archives/2025/02/the-betting-on-measles",
+      "urlToImage": null,
+      "publishedAt": "2025-02-26 21:07:05",
+      "content": "Sad news informs the revision to odds on measles cases this year: Betting is on 834 cases; on January 20th (Trump\u2019s inauguration), the betting was for 180. As of 2/20, CDC reports 93 cases. This i\u2026 [+184 chars]",
+      "retrievedAt": "2025-02-28 07:06:52.866655",
+      "internal_id": "5a49a2d65606a72513faec910a5584443fd823c1f68862e3615f0018177bf15c",
+      "publishedAtLabel": "Feb 26"
+    },
+    {
+      "id": 18722,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Reason",
+      "author": "Ronald Bailey",
+      "title": "Unvaccinated Kid Sadly Dies of Measles in Texas",
+      "description": "An unvaccinated child died of measles in West Texas, officials said Wednesday, marking the first death in an ongoing outbreak of the highly contagious",
+      "url": "https://reason.com/2025/02/26/unvaccinated-kid-sadly-dies-of-measles-in-texas/",
+      "urlToImage": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2025/02/RFKSworn-scaled.jpg",
+      "publishedAt": "2025-02-26 21:01:59",
+      "content": "An unvaccinated child died of measles in West Texas, officials said Wednesday, marking the first death in an ongoing outbreak of the highly contagious respiratory illness. The child was one of 124 co\u2026 [+2690 chars]",
+      "retrievedAt": "2025-02-28 07:06:53.178179",
+      "internal_id": "4e68e77d964aff8e15ddc74eef9f1c8e18176537d630956c75050fa6da7bc72f",
+      "publishedAtLabel": "Feb 26"
+    },
+    {
+      "id": 18710,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Cut",
+      "author": "Erica Schwiegershausen",
+      "title": "An Unvaccinated Child Has Died From Measles",
+      "description": "Health officials in Texas said Wednesday that an unvaccinated school-age child has died of measles, the first known death in the outbreak currently spreading in West Texas and New Mexico.",
+      "url": "http://www.thecut.com/article/unvaccinated-child-died-measles-west-texas.html",
+      "urlToImage": "https://pyxis.nymag.com/v1/imgs/241/808/be6908ee3b842f5530692e09b3a2b813a0-measles-2.1x.rsocial.w1200.jpg",
+      "publishedAt": "2025-02-26 20:47:00",
+      "content": "Health officials in Texas said Wednesday that a school-age child has died of measles, the first known death in the outbreak currently spreading in West Texas and New Mexico. According to the city of \u2026 [+2373 chars]",
+      "retrievedAt": "2025-02-28 07:06:52.880294",
+      "internal_id": "3094736c654407b05772ef04345fb60302da779631350ed8260f1866f95a114b",
+      "publishedAtLabel": "Feb 26"
+    },
+    {
+      "id": 18725,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Scientific American",
+      "author": "Lauren J. Young",
+      "title": "Bird Flu Strikes Rats, Pet Cats and Egg Supplies",
+      "description": "Avian influenza continues to fuel egg shortages. Plus, a delayed CDC study on household cats reveals concerning human exposure routes",
+      "url": "https://www.scientificamerican.com/article/bird-flu-strikes-rats-pet-cats-and-egg-supplies/",
+      "urlToImage": "https://static.scientificamerican.com/dam/m/392eb318193958da/original/black-rat.jpg?m=1740604973.499&w=1200",
+      "publishedAt": "2025-02-26 20:15:00",
+      "content": "We\u2019re regularly rounding up the latest news on avian influenza. Here\u2019s what happened recently. Black Rats Test Positive for H5N1 Rats have become the latest addition to the menagerie of animals inf\u2026 [+6018 chars]",
+      "retrievedAt": "2025-02-28 07:06:53.714364",
+      "internal_id": "c122cf1764f2b5728fac677e5497e5f9399949c80fe9cf154fc08115c49dc635",
+      "publishedAtLabel": "Feb 26"
+    },
+    {
+      "id": 18729,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "Alejandro Horvat",
+      "title": "La ciudad de Buenos Aires ampl\u00eda la cobertura de vacunaci\u00f3n contra el dengue: qui\u00e9nes pueden solicitar turno",
+      "description": "Aunque la poblaci\u00f3n del mosquito transmisor se mantiene estable, los casos han disminuido en la regi\u00f3n",
+      "url": "https://www.lanacion.com.ar/sociedad/la-ciudad-de-buenos-aires-amplia-la-cobertura-de-vacunacion-contra-el-dengue-quienes-pueden-nid26022025/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/la-vacuna-mms-se-puede-conseguir-sin-L4WR4F6OZJDIDDMJTL6FICYISY.JPG?auth=9113a0445d22c887dc022df530ba1741e6d9c61535c6849c7d2656ac9f6921bd&width=1200&quality=70&smart=false&height=798",
+      "publishedAt": "2025-02-26 20:11:16",
+      "content": "El Ministerio de Salud de la ciudad de Buenos Aires contin\u00faa expandiendo el Plan de Vacunaci\u00f3n contra el Dengue. Desde este mi\u00e9rcoles 26 de febrero, las personas de entre 35 y 39 a\u00f1os pueden acceder \u2026 [+3870 chars]",
+      "retrievedAt": "2025-02-28 07:06:54.248897",
+      "internal_id": "d4f7a825ff498f74f57823ce79d159f3a66b8a2df09ef5d95ba20d9f4049d9c2",
+      "publishedAtLabel": "Feb 26"
+    },
+    {
+      "id": 18705,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Gizmodo.com",
+      "author": "Ed Cara",
+      "title": "Measles Outbreak in Texas Turns Deadly as Parents Scramble for Shots",
+      "description": "124 cases and 18 hospitalizations from measles have been reported in Texas and New Mexico, though the true tally is likely higher.",
+      "url": "https://gizmodo.com/measles-outbreak-in-texas-turns-deadly-as-parents-scramble-for-shots-2000568730",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/02/measles-rash.jpg",
+      "publishedAt": "2025-02-26 19:55:59",
+      "content": "The measles outbreak in Texas has now turned deadly. Texas and federal health officials have just reported the first deaths attributed to the still-growing outbreak, which has sickened over a hundred\u2026 [+2846 chars]",
+      "retrievedAt": "2025-02-28 07:06:52.799398",
+      "internal_id": "600d2ff070f3ede6260a1c44ac045699814e9b530176a54a16d5b60fd72ab7cb",
+      "publishedAtLabel": "Feb 26"
+    },
+    {
+      "id": 18720,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "Measles death of unvaccinated child in Texas outbreak is 1st fatality in US in a decade (Mary Kekatos/ABC News)",
+      "description": "Mary Kekatos / ABC News: Measles death of unvaccinated child in Texas outbreak is 1st fatality in US in a decade \u2014 The majority of cases have occurred among unvaccinated people. \u2014 The MMR vaccine for measles, mumps or rubella at Logan Square Health Center\u2026",
+      "url": "https://www.memeorandum.com/250226/p95",
+      "urlToImage": "https://i.abcnewsfe.com/a/61f70368-9b0c-4584-9fe2-0ef00bc35b61/vaccine-file-gty-ml-250225_1740493098324_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2025-02-26 19:55:02",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-02-28 07:06:53.150780",
+      "internal_id": "93f957c3f5992a4518c122a5d774040dd19b88b9c4db1d860439c89dfc78dd82",
+      "publishedAtLabel": "Feb 26"
+    },
+    {
+      "id": 18706,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "kottke.org",
+      "author": "Jason Kottke",
+      "title": "An unvaccinated child has died in the Texas measles outbreak. And before...",
+      "description": "An unvaccinated child has died in the Texas measles outbreak. And before that, there had been only 2 measles deaths in the past 22",
+      "url": "https://kottke.org/25/02/0046318-washington-woman-is-first",
+      "urlToImage": "",
+      "publishedAt": "2025-02-26 19:53:28",
+      "content": "\u00d7Hello! In order to comment or fave, you need to be a current kottke.org member. If you'd like to sign up for a membership to support the site and join the conversation, you can explore your option\u2026 [+404 chars]",
+      "retrievedAt": "2025-02-28 07:06:52.813078",
+      "internal_id": "fde3903acea8eb2c8f33f62bc5c4e6ade54380812b905b56abb9403989e5a3ee",
+      "publishedAtLabel": "Feb 26"
+    },
     {
       "id": 18698,
       "query": [
@@ -23947,6 +24469,96 @@
       "content": "La Universidad Nacional Aut\u00f3noma de M\u00e9xico (UNAM) advirti\u00f3 que, aunque el riesgo para la salud p\u00fablica del pa\u00eds debido al virus de influenza H5N1 es bajo, se prev\u00e9 que sea un tema relevante durante e\u2026 [+4785 chars]",
       "retrievedAt": "2025-01-14 07:06:12.760466",
       "internal_id": "baaa0db7725aec9011864c3d9e85a14527a4a4c780b53a663c2a5434df143776",
+      "publishedAtLabel": "Jan 12"
+    },
+    {
+      "id": 17370,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "New Atlas",
+      "author": "Bronwyn Thompson",
+      "title": "First US human death from bird flu is more serious than you may think",
+      "description": "Two months shy of the fifth anniversary of COVID-19 being declared a global pandemic, the US has recorded its first human death as a result of avian influenza H5N1 infection. The unidentified Louisiana man contracted the virus through contact with infected wi\u2026",
+      "url": "https://newatlas.com/infectious-diseases/first-us-human-death-bird-flu/",
+      "urlToImage": "https://assets.newatlas.com/dims4/default/b972f69/2147483647/strip/true/crop/6902x3624+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Ff5%2Fc7%2F36c9adbb4446af9c71ae546c1753%2Fdepositphotos-776801192-xl.jpg&na.image_optimisation=0",
+      "publishedAt": "2025-01-12 16:00:00",
+      "content": "Two months shy of the fifth anniversary of COVID-19 being declared a global pandemic, the US has recorded its first human death as a result of avian influenza H5N1 infection. The unidentified Louisia\u2026 [+13998 chars]",
+      "retrievedAt": "2025-01-13 19:05:36.977135",
+      "internal_id": "d7213205bc7810dd1bb1123820446d4106b2264f21aacb1ab82b6b877009c879",
+      "publishedAtLabel": "Jan 12"
+    },
+    {
+      "id": 17371,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Ravenna Alves",
+      "title": "Homem de 28 anos do Camboja morre de gripe avi\u00e1ria. Pa\u00eds apura caso",
+      "description": "De acordo com as autoridades de sa\u00fade do pa\u00eds, o homem criava aves em sua casa e havia cozinhado frangos doentes para se alimentar",
+      "url": "https://www.metropoles.com/saude/homem-28-camboja-morre-gripe-aviaria",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/11/20102453/Gripe-aviaria-2.jpg",
+      "publishedAt": "2025-01-12 14:32:09",
+      "content": "Um homem de 28 anos, natural da prov\u00edncia de Kampong Cham, no Camboja, pa\u00eds localizado no sudeste da \u00c1sia, morreu na \u00faltima sexta-feira (10/1) em decorr\u00eancia da gripe avi\u00e1ria H5N1, informou o Minist\u00e9\u2026 [+1624 chars]",
+      "retrievedAt": "2025-01-13 19:05:37.043393",
+      "internal_id": "9ae40e03f2d31e85fc20aed4a347b9c952eea9e2af3bc32d8da0e3f22865fd12",
+      "publishedAtLabel": "Jan 12"
+    },
+    {
+      "id": 17373,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Lokmat.com",
+      "author": "\u0911\u0928\u0932\u093e\u0907\u0928 \u0932\u094b\u0915\u092e\u0924",
+      "title": "\u0928\u094b\u0930\u094b\u0935\u094d\u0939\u093e\u092f\u0930\u0938, \u092c\u0930\u094d\u0921 \u092b\u094d\u0932\u0942 \u0915\u0940 \u0915\u094b\u0930\u094b\u0928\u093e... \u0939\u093f\u0935\u093e\u0933\u094d\u092f\u093e\u0924 \u0915\u094b\u0923\u0924\u093e \u091c\u093e\u0938\u094d\u0924 \u0927\u094b\u0915\u093e\u0926\u093e\u092f\u0915 \u0906\u0923\u093f \u0924\u094b \u0915\u0938\u093e \u091f\u093e\u0933\u093e\u092f\u091a\u093e?",
+      "description": "health tips norovirus vs bird flu vs covid 19 which is more dangerous in winter - \u0939\u093f\u0935\u093e\u0933\u094d\u092f\u093e\u0924 \u092f\u093e \u0924\u093f\u0918\u093e\u0902\u092a\u0948\u0915\u0940 \u0915\u094b\u0923\u0924\u093e \u0906\u091c\u093e\u0930 \u091c\u093e\u0938\u094d\u0924 \u0927\u094b\u0915\u093e\u0926\u093e\u092f\u0915 \u0906\u0939\u0947 \u0906\u0923\u093f \u0924\u0947 \u0906\u091c\u093e\u0930 \u0915\u0938\u0947 \u091f\u093e\u0933\u093e\u092f\u091a\u0947 \u092f\u093e\u092c\u093e\u092c\u0924 \u091c\u093e\u0923\u0942\u0928 \u0918\u0947\u090a\u092f\u093e... - Latest Marathi News (\u092e\u0930\u093e\u0920\u0940 \u092c\u093e\u0924\u092e\u094d\u092f\u093e). Find Breaking Headlines, Current and La\u2026",
+      "url": "https://www.lokmat.com/sakhi/health/lifestyle-diseases/health-tips-norovirus-vs-bird-flu-vs-covid-19-which-is-more-dangerous-in-winter-a-a597/",
+      "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/images/1200x900/whatsapp-image-2025-01-12-at-4.16.55-pm_2025011374514.jpeg",
+      "publishedAt": "2025-01-12 11:05:28",
+      "content": ". , . . , . . . ... ? . . , , . . . . . . . ? . (WHO) , , H5N1 ( ) . % , - , .% % . , , , , , , , , , . . , , , , , , , , , , . . . ? - , . - . - . - . - . - , , , . - . - . \u2026 [+33 chars]",
+      "retrievedAt": "2025-01-13 19:05:37.154498",
+      "internal_id": "4cd14b9ed5ab9f7fa687124ae40806cfae88bf83a5fbc6f5c661b28db64994c6",
+      "publishedAtLabel": "Jan 12"
+    },
+    {
+      "id": 17374,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Bruno Caniato",
+      "title": "Sa\u00fade falha em pontos sens\u00edveis e fragiliza a situa\u00e7\u00e3o de N\u00edsia Trindade",
+      "description": "O mais decepcionante para a administra\u00e7\u00e3o petista \u00e9 que a pasta vai mal exatamente onde prometeu brilhar: a vacina\u00e7\u00e3o",
+      "url": "https://veja.abril.com.br/politica/saude-falha-em-pontos-sensiveis-e-fragiliza-a-situacao-de-nisia-trindade",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2025/01/1D-1-NISIA-TRINDADE-2024-12-a.jpg.jpg?quality=70&strip=info&crop=1&resize=1080,565",
+      "publishedAt": "2025-01-12 11:00:00",
+      "content": "F\u00e9rias: Assine a partir de 1,50/semanaFRACASSO- A\u00e7\u00e3o contra a dengue: o n\u00famero de casos quadruplicou em 2024 (Marcelo Camargo/Ag\u00eancia Brasil) Continua ap\u00f3s publicidade A gest\u00e3o da sa\u00fade da Presid\u00ean\u2026 [+8193 chars]",
+      "retrievedAt": "2025-01-13 19:05:37.432831",
+      "internal_id": "2dd9bd386fab5498bf5c3d9acb63bd565b0df5d0d32caf1ceb0e0c8f1b236c9c",
+      "publishedAtLabel": "Jan 12"
+    },
+    {
+      "id": 17372,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "title": "Llama la UNAM a vigilar la evoluci\u00f3n de la gripe aviar",
+      "description": "El riesgo para la salud p\u00fablica por la influenza aviar (H5N1) por el momento es bajo en el pa\u00eds, pero se prev\u00e9 que sea un tema destacado durante 2025, pues podr\u00eda afectar tanto el bienestar humano como el animal, e impactar en la producci\u00f3n de alimentos y su \u2026",
+      "url": "https://www.jornada.com.mx/2025/01/12/sociedad/027n2soc",
+      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "publishedAt": "2025-01-12 09:17:11",
+      "content": "Peri\u00f3dico La JornadaDomingo 12 de enero de 2025, p. 27 El riesgo para la salud p\u00fablica por la influenza aviar (H5N1) por el momento es bajo en el pa\u00eds, pero se prev\u00e9 que sea un tema destacado durant\u2026 [+1896 chars]",
+      "retrievedAt": "2025-01-13 19:05:37.097160",
+      "internal_id": "07c41e8d9171982712298a770a334e526b38155acc5322993295e1b60bd93e20",
       "publishedAtLabel": "Jan 12"
     }
   ]

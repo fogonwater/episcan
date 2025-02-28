@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 46
-- **Last harvest:** 2025-02-27 19:06
-- **Most recent article:** 2025-02-26 19:00:00
+- **New articles in last harvest:** 29
+- **Last harvest:** 2025-02-28 07:06
+- **Most recent article:** 2025-02-27 07:00:25
 
 ---
 
@@ -12,10 +12,10 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-3 | 25-4 | 25-5 | 25-6 | 25-7 | 25-8 | 25-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| h5n1 | 59 | 31 | 51 | 72 | 55 | 54 | 28 | 350 |
-| measles | 9 | 10 | 13 | 24 | 72 | 83 | 81 | 292 |
-| dengue | 28 | 37 | 24 | 34 | 37 | 57 | 19 | 236 |
-| mpox | 34 | 23 | 22 | 28 | 18 | 15 | 3 | 143 |
+| h5n1 | 63 | 31 | 51 | 72 | 55 | 54 | 32 | 358 |
+| measles | 9 | 10 | 13 | 24 | 72 | 83 | 103 | 314 |
+| dengue | 29 | 37 | 24 | 34 | 37 | 57 | 20 | 238 |
+| mpox | 34 | 23 | 22 | 28 | 18 | 15 | 5 | 145 |
 | malaria | 18 | 19 | 30 | 25 | 12 | 7 | 5 | 116 |
 | chikungunya | 7 | 10 | 9 | 8 | 5 | 3 | 6 | 48 |
 | hpai | 12 | 11 | 6 | 3 | 9 | 5 | 2 | 48 |
@@ -53,6 +53,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-9 (mpox)
 
+- [Alertan por caso de mpox en México; festival de Zipolite, posible punto de infección](https://aristeguinoticias.com/270225/mexico/alertan-por-caso-de-mpox-en-mexico-feria-de-zipolite-posible-punto-de-infeccion/?utm_source=Indigitall&amp;utm_medium=push&amp;utm_campaign=web) (Aristeguinoticias.com)
+
+- [Viruela del mono: Refuerzan vigilancia en Huatulco tras caso positivo de Mpox](https://www.excelsior.com.mx/nacional/viruela-del-mono-refuerzan-vigilancia-en-huatulco-tras-caso-positivo-de-mpox/1702145) (Excelsior.com.mx)
+
 - [Why the good news about the mpox outbreak of 2025 isn't really good after all](https://www.npr.org/sections/goats-and-soda/2025/02/25/g-s1-49693/mpox-vaccines-democratic-republic-congo-usaid) (NPR)
 
 - [Behind the Paper: International Healthcare Workers’ Experiences and Perceptions of the 2022 Mpox Outbreak](https://speakingofmedicine.plos.org/2025/02/25/behind-the-paper-international-healthcare-workers-experiences-and-perceptions-of-the-2022-mpox-outbreak/) (Plos.org)
@@ -66,6 +70,50 @@ Source: [News API](https://newsapi.org/)
 - [Father of girl who died with 'blood oozing from eyes' speaks out as jury decides hospital contributed to her death](https://www.ladbible.com/news/uk-news/sophie-ward-meningitis-inquest-father-219426-20250224) (LADbible)
 
 ## 25-9 (measles)
+
+- [Texas Reports First US Measles Death In A Decade Amid Growing Outbreak](https://www.ibtimes.com/texas-reports-first-us-measles-death-decade-amid-growing-outbreak-3764966) (International Business Times)
+
+- [US reports first measles death since 2015](https://www.aljazeera.com/news/2025/2/27/us-reports-first-measles-death-since-2015) (Al Jazeera English)
+
+- [An Unvaccinated Child Has Died From Measles. What to Know About the West Texas Outbreak](https://time.com/7262211/measles-death-child-outbreak-west-texas-unvaccinated/) (Time)
+
+- [Who Are the Mennonites and Why Are They Facing a Measles Outbreak?](https://time.com/7262199/mennonites-measles-outbreak-texas-vaccines-explainer/) (Time)
+
+- [2/26: CBS Evening News](https://www.cbsnews.com/video/022625-cbs-evening-news/) (CBS News)
+
+- [RFK Jr says US measles outbreak is 'not unusual' after first death in a decade](https://www.abc.net.au/news/2025-02-27/measles-outbreak-us-kills-child-texas-robert-kennedy-jr/104988920) (ABC News (AU))
+
+- [Kennedy's Measles Report Runs Into Experts, Texas Officials](https://www.newser.com/story/364915/kennedys-measles-report-runs-into-experts-texas-officials.html) (Newser)
+
+- [Texas mom with baby too young for measles vaccines worries about outbreak](https://www.cbsnews.com/video/texas-mom-with-baby-too-young-for-measles-vaccines-worries-about-outbreak/) (CBS News)
+
+- [First measles death in Texas outbreak reported](https://www.cbsnews.com/video/first-measles-death-texas-outbreak-reported/) (CBS News)
+
+- [RFK Dismisses Measles Outbreak That Killed Kid as No Biggie (Josh Fiallo/The Daily Beast)](https://www.memeorandum.com/250226/p142) (Memeorandum.com)
+
+- [GOP Senator Facing Backlash For RFK Jr. Support After Measles Kills Child](https://www.newsweek.com/gop-senator-facing-backlash-rfk-jr-support-measles-death-2036877) (Newsweek)
+
+- [Texas reports first death in Measles outbreak](https://www.cbsnews.com/video/texas-reports-first-death-measles-outbreak/) (CBS News)
+
+- [WATCH: 2-year-old chihuahua found sprinting on highway reunited with family](https://abcnews.go.com/GMA/Living/video/2-year-chihuahua-found-sprinting-highway-reunited-family-119225802) (ABC News)
+
+- [RFK Jr. Has Horrific Response to Measles Death (Ellie Quinlan Houghtaling/New Republic)](https://www.memeorandum.com/250226/p118) (Memeorandum.com)
+
+- [Texas child dies in measles outbreak; first U.S. fatality in years](https://japantoday.com/category/world/texas-child-dies-in-measles-outbreak-first-us-fatality-in-years) (Japan Today)
+
+- [RFK Downplays Texas Measles Outbreak After First Reported Death](http://nymag.com/intelligencer/article/rfk-downplays-texas-measles-outbreak-after-first-death.html) (New York Magazine)
+
+- [The Betting on Measles](https://econbrowser.com/archives/2025/02/the-betting-on-measles) (Econbrowser.com)
+
+- [Unvaccinated Kid Sadly Dies of Measles in Texas](https://reason.com/2025/02/26/unvaccinated-kid-sadly-dies-of-measles-in-texas/) (Reason)
+
+- [An Unvaccinated Child Has Died From Measles](http://www.thecut.com/article/unvaccinated-child-died-measles-west-texas.html) (The Cut)
+
+- [Measles Outbreak in Texas Turns Deadly as Parents Scramble for Shots](https://gizmodo.com/measles-outbreak-in-texas-turns-deadly-as-parents-scramble-for-shots-2000568730) (Gizmodo.com)
+
+- [Measles death of unvaccinated child in Texas outbreak is 1st fatality in US in a decade (Mary Kekatos/ABC News)](https://www.memeorandum.com/250226/p95) (Memeorandum.com)
+
+- [An unvaccinated child has died in the Texas measles outbreak. And before...](https://kottke.org/25/02/0046318-washington-woman-is-first) (kottke.org)
 
 - [1st death reported in Texas measles outbreak: What to know](https://www.livescience.com/health/viruses-infections-disease/1st-death-reported-in-texas-measles-outbreak-what-to-know) (Live Science)
 
@@ -249,6 +297,14 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-9 (h5n1)
 
+- ["We do not have immunity against it," warn scientists as India’s first bird flu case in cats raises human health concerns](https://economictimes.indiatimes.com/news/new-updates/we-do-not-have-immunity-against-it-warn-scientists-as-indias-first-bird-flu-case-in-cats-raises-human-health-concerns/articleshow/118596063.cms) (The Times of India)
+
+- [भारत में पहली बार घरेलू बिल्लियों में सामने आए बर्ड फ्लू के मामले, वैज्ञानिकों ने दी स्तर्क रहने की सलाह](https://navbharattimes.indiatimes.com/state/maharashtra/pune/bird-flu-cases-were-reported-in-domestic-cats-in-india-scientists-advised-to-be-cautious/articleshow/118589729.cms) (The Times of India)
+
+- [Immunity against seasonal H1N1 flu reduces bird flu severity in ferrets, study suggests](https://www.sciencedaily.com/releases/2025/02/250226175926.htm) (Science Daily)
+
+- [Bird Flu Strikes Rats, Pet Cats and Egg Supplies](https://www.scientificamerican.com/article/bird-flu-strikes-rats-pet-cats-and-egg-supplies/) (Scientific American)
+
 - [BREAKING: Canadian Government Purchased H5N1 Vaccines FOR HUMANS While CULLING 400 HEALTHY OSTRICHES!!](https://www.activistpost.com/breaking-canadian-government-purchased-h5n1-vaccines-for-humans-while-culling-400-healthy-ostriches/) (Activistpost.com)
 
 - [KOMMENTAR - Niemand stoppt die Vogelgrippeviren in den USA – die Verantwortlichen riskieren die Gesundheit auf der ganzen Welt](https://www.nzz.ch/meinung/alarmierende-h5n1-entwicklung-usa-setzen-weltgesundheit-aufs-spiel-ld.1872917) (Www.nzz.ch)
@@ -306,6 +362,8 @@ Source: [News API](https://newsapi.org/)
 - [Francisco George: gripe H5N1 é ameaça de nova epidemia no horizonte](https://observador.pt/2025/02/23/francisco-george-gripe-h5n1-e-ameaca-de-nova-epidemia-no-horizonte/) (Observador.pt)
 
 ## 25-9 (dengue)
+
+- [La ciudad de Buenos Aires amplía la cobertura de vacunación contra el dengue: quiénes pueden solicitar turno](https://www.lanacion.com.ar/sociedad/la-ciudad-de-buenos-aires-amplia-la-cobertura-de-vacunacion-contra-el-dengue-quienes-pueden-nid26022025/) (La Nacion)
 
 - [Brasil aposta em mais vacinas para doenças tropicais e público maior](https://valor.globo.com/publicacoes/especiais/inovacao-na-medicina/noticia/2025/02/26/brasil-aposta-em-mais-vacinas-para-doencas-tropicais-e-publico-maior.ghtml) (Globo)
 
@@ -2869,6 +2927,14 @@ Source: [News API](https://newsapi.org/)
 
 - [UNAM alerta sobre virus de influenza H5N1 y recomienda vigilarlo](https://www.milenio.com/politica/unam-recomienda-vigilar-virus-causante-de-la-gripe-aviar) (Milenio)
 
+- [First US human death from bird flu is more serious than you may think](https://newatlas.com/infectious-diseases/first-us-human-death-bird-flu/) (New Atlas)
+
+- [Homem de 28 anos do Camboja morre de gripe aviária. País apura caso](https://www.metropoles.com/saude/homem-28-camboja-morre-gripe-aviaria) (Metropoles.com)
+
+- [नोरोव्हायरस, बर्ड फ्लू की कोरोना... हिवाळ्यात कोणता जास्त धोकादायक आणि तो कसा टाळायचा?](https://www.lokmat.com/sakhi/health/lifestyle-diseases/health-tips-norovirus-vs-bird-flu-vs-covid-19-which-is-more-dangerous-in-winter-a-a597/) (Lokmat.com)
+
+- [Llama la UNAM a vigilar la evolución de la gripe aviar](https://www.jornada.com.mx/2025/01/12/sociedad/027n2soc) (Jornada.com.mx)
+
 ## 25-3 (dengue)
 
 - [Dengue: como usar o hipoclorito de sódio no combate ao Aedes aegypti](https://casa.abril.com.br/minha-casa/dengue-como-usar-o-hipoclorito-de-sodio-no-combate-ao-aedes-aegypti) (Abril.com.br)
@@ -2926,6 +2992,8 @@ Source: [News API](https://newsapi.org/)
 - [Dengue: SP tem 21 cidades em situação de emergência](https://www.terra.com.br/vida-e-estilo/saude/dengue-sp-tem-21-cidades-em-situacao-de-emergencia,cb9f0c74f749309f7f6f2dc0e1b1bc085pm97v74.html) (Terra.com.br)
 
 - [As dengue cases rise, researchers points to a simple solution: trash cleanup](https://news.stanford.edu/stories/2025/01/waste-reduction-a-key-defense-against-rising-dengue-cases) (Stanford.edu)
+
+- [Saúde falha em pontos sensíveis e fragiliza a situação de Nísia Trindade](https://veja.abril.com.br/politica/saude-falha-em-pontos-sensiveis-e-fragiliza-a-situacao-de-nisia-trindade) (Abril.com.br)
 
 ## 25-3 (chikungunya)
 
