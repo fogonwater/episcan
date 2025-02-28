@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 29
-- **Last harvest:** 2025-02-28 07:06
-- **Most recent article:** 2025-02-27 07:00:25
+- **New articles in last harvest:** 36
+- **Last harvest:** 2025-02-28 19:06
+- **Most recent article:** 2025-02-27 19:00:00
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-3 | 25-4 | 25-5 | 25-6 | 25-7 | 25-8 | 25-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| h5n1 | 63 | 31 | 51 | 72 | 55 | 54 | 32 | 358 |
-| measles | 9 | 10 | 13 | 24 | 72 | 83 | 103 | 314 |
-| dengue | 29 | 37 | 24 | 34 | 37 | 57 | 20 | 238 |
-| mpox | 34 | 23 | 22 | 28 | 18 | 15 | 5 | 145 |
-| malaria | 18 | 19 | 30 | 25 | 12 | 7 | 5 | 116 |
-| chikungunya | 7 | 10 | 9 | 8 | 5 | 3 | 6 | 48 |
-| hpai | 12 | 11 | 6 | 3 | 9 | 5 | 2 | 48 |
-| meningitis | 2 | 3 | 8 | 2 | 12 | 11 | 2 | 40 |
+| h5n1 | 59 | 31 | 51 | 72 | 55 | 54 | 38 | 360 |
+| measles | 9 | 10 | 13 | 24 | 72 | 83 | 115 | 326 |
+| dengue | 28 | 37 | 24 | 34 | 37 | 57 | 23 | 240 |
+| mpox | 34 | 23 | 22 | 28 | 18 | 15 | 16 | 156 |
+| malaria | 18 | 19 | 30 | 25 | 12 | 7 | 6 | 117 |
+| hpai | 12 | 11 | 6 | 3 | 9 | 5 | 4 | 50 |
+| chikungunya | 7 | 10 | 9 | 8 | 5 | 3 | 7 | 49 |
+| meningitis | 2 | 3 | 8 | 2 | 12 | 11 | 3 | 41 |
 | rabies | 6 | 7 | 6 | 4 | 5 | 4 | 0 | 32 |
-| zika | 5 | 2 | 8 | 6 | 2 | 6 | 1 | 30 |
+| zika | 5 | 2 | 8 | 6 | 2 | 6 | 2 | 31 |
 | typhoid | 4 | 0 | 0 | 2 | 3 | 0 | 1 | 10 |
 | yersinia | 2 | 0 | 0 | 0 | 5 | 0 | 2 | 9 |
 | pertussis | 0 | 1 | 0 | 3 | 3 | 2 | 0 | 9 |
@@ -34,6 +34,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 25-9 (zika)
+
+- [Estimating per-infection cost and burden for dengue and Zika as a function of antibody-dependent enhancement](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012876) (Plos.org)
 
 - [Brasil aposta em mais vacinas para doenças tropicais e público maior](https://valor.globo.com/publicacoes/especiais/inovacao-na-medicina/noticia/2025/02/26/brasil-aposta-em-mais-vacinas-para-doencas-tropicais-e-publico-maior.ghtml) (Globo)
 
@@ -53,6 +55,28 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-9 (mpox)
 
+- [¿Viajaste a Zipolite? Emiten aviso sanitario por brote de Mpox en festival entre estas fechas](https://www.milenio.com/ciencia-y-salud/aviso-por-virus-mpox-en-playa-zipolite-buscan-detectar-mas-brotes) (Milenio)
+
+- [Oaxaca confirma paciente infectado por Mpox (viruela símica)](https://www.sopitas.com/noticias/oaxaca-confirma-paciente-infectado-mpox-viruela-simica/) (Sopitas.com)
+
+- [Kämpfe fördern die Ausbreitung einer neuen Variante](https://www.welt.de/gesundheit/article255560600/Mpox-Virus-Kaempfe-foerdern-die-Ausbreitung-einer-neuen-Variante.html) (DIE WELT)
+
+- [OMS mantém nível de alerta mais alto para a mpox](https://ionline.sapo.pt/2025/02/27/oms-mantem-nivel-de-alerta-mais-alto-para-a-mpox/) (Sapo.pt)
+
+- [Variola maimuței rămâne o urgență de sănătate publică, anunță OMS. Câte cazuri au fost înregistrate la nivel global](https://www.digi24.ro/stiri/externe/variola-maimutei-ramane-o-urgenta-de-sanatate-publica-anunta-oms-cate-cazuri-au-fost-inregistrate-la-nivel-global-3138183) (Digi24.ro)
+
+- [L'OMS maintient le plus haut niveau d'alerte pour l'épidémie de mpox](https://www.dhnet.be/actu/sante/2025/02/27/loms-maintient-le-plus-haut-niveau-dalerte-pour-lepidemie-de-mpox-I6Q2ELBHSJCBJDJ5UK6USLG7UA/) (dh.be)
+
+- [Infektionskrankheit: WHO verlängert internationalen Gesundheitsnotstand wegen Mpox](https://www.zeit.de/gesundheit/2025-02/who-mpox-gesundheitsnotstand-verlaengert) (Die Zeit)
+
+- [La OMS advierte de que el mpox sigue siendo una emergencia de salud pública de preocupación internacional](https://www.infosalus.com/salud-investigacion/noticia-oms-advierte-mpox-sigue-siendo-emergencia-salud-publica-preocupacion-internacional-20250227142924.html) (Infosalus.com)
+
+- [WHO decides mpox epidemic still global health emergency](https://www.digitaljournal.com/world/who-decides-mpox-epidemic-still-global-health-emergency/article) (Digital Journal)
+
+- [Krankheiten: Mpox in Afrika bleiben internationale Notlage](https://www.tagesspiegel.de/wissen/krankheiten-mpox-in-afrika-bleiben-internationale-notlage-13286389.html) (Der Tagesspiegel)
+
+- [Krankheiten: Mpox in Afrika bleiben internationale Notlage](https://www.stern.de/panorama/wissen/krankheiten--mpox-in-afrika-bleiben-internationale-notlage-35504776.html) (STERN.de)
+
 - [Alertan por caso de mpox en México; festival de Zipolite, posible punto de infección](https://aristeguinoticias.com/270225/mexico/alertan-por-caso-de-mpox-en-mexico-feria-de-zipolite-posible-punto-de-infeccion/?utm_source=Indigitall&amp;utm_medium=push&amp;utm_campaign=web) (Aristeguinoticias.com)
 
 - [Viruela del mono: Refuerzan vigilancia en Huatulco tras caso positivo de Mpox](https://www.excelsior.com.mx/nacional/viruela-del-mono-refuerzan-vigilancia-en-huatulco-tras-caso-positivo-de-mpox/1702145) (Excelsior.com.mx)
@@ -65,11 +89,37 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-9 (meningitis)
 
+- [Rekrut mit Fieber in Wiener Spital im Koma](https://burgenland.orf.at/stories/3294970/) (Burgenland.orf.at)
+
 - [Rigidez en la nuca en niños: síntomas clave que no debes ignorar](https://www.hola.com/padres/20250225816418/rigidez-nuca-ninos-sintomas-alerta/) (Hola)
 
 - [Father of girl who died with 'blood oozing from eyes' speaks out as jury decides hospital contributed to her death](https://www.ladbible.com/news/uk-news/sophie-ward-meningitis-inquest-father-219426-20250224) (LADbible)
 
 ## 25-9 (measles)
+
+- [Texas outbreak brings 1st US measles death since 2015](https://theweek.com/health/texas-measles-outbreak-death) (The Week Magazine)
+
+- [New York Post Challenges RFK Jr. to Back Vaccines in Texas Amid Deadly Measles Outbreak](https://www.mediaite.com/media/new-york-post-challenges-rfk-jr-to-back-vaccines-in-texas-amid-deadly-measles-outbreak/) (Mediaite)
+
+- [WATCH: Conan O’Brien rolls out the Oscars red carpet](https://abcnews.go.com/GMA/Culture/video/conan-obrien-rolls-oscars-red-carpet-119246222) (ABC News)
+
+- [First case of measles reported in Kentucky as US battles spread of disease (Ed Pilkington/The Guardian)](https://www.memeorandum.com/250227/p43) (Memeorandum.com)
+
+- [As measles cases mount in the US, what’s the situation worldwide?](https://www.bostonherald.com/2025/02/27/measles-us-cases-global-situation/) (Boston Herald)
+
+- [Robert F. Kennedy Jr. said two died in measles outbreak. His agency says it was only one.](https://www.courier-journal.com/story/life/wellness/health/2025/02/27/robert-f-kennedy-measles-trump-texas/80684155007/) (Courier Journal)
+
+- [Child Dies from Measles in Texas as Disease "Comes Roaring Back" Amid Anti-Vaccine Disinformation](https://www.democracynow.org/2025/2/27/rfk_jr_measles_dr_peter_hotez) (Democracy Now!)
+
+- ['Something unusual is happening': Expert singles out RFK Jr. over measles deaths](https://www.rawstory.com/rfk-measles/) (Raw Story)
+
+- [Unvaccinated Child Dies In West Texas From Measles](https://crooksandliars.com/2025/02/unvaccinated-child-west-texas-dies-measles) (Crooksandliars.com)
+
+- [RFK Jr.'s Response to Texas Measles Death Sparks Anger: 'Downplayed It'](https://www.newsweek.com/rfk-jr-texas-measles-outbreak-vaccination-2036972) (Newsweek)
+
+- [“Terrifying”: Trump’s Ominous Moment with RFK on First Measles Death](https://newrepublic.com/article/192052/terrifying-trumps-ominous-moment-rfk-first-measles-death) (The New Republic)
+
+- [Measles in Texas: A deadly disease that can be prevented](https://www.dw.com/en/measles-in-texas-a-deadly-disease-that-can-be-prevented/a-68121991) (DW (English))
 
 - [Texas Reports First US Measles Death In A Decade Amid Growing Outbreak](https://www.ibtimes.com/texas-reports-first-us-measles-death-decade-amid-growing-outbreak-3764966) (International Business Times)
 
@@ -279,6 +329,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-9 (malaria)
 
+- [Plasmodium and intestinal parasite infections among pregnant women at first antenatal care contact in northwest Ethiopia: A study of prevalence and associated risk factors](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0316483) (Plos.org)
+
 - [Choroby papieży. Te problemy zdrowotne trapiły poprzedników Franciszka](https://zdrowie.natemat.pl/591446,papieze-na-przestrzeni-wieku-umierali-w-wyniku-roznych-nieleczonych-chorob) (Natemat.pl)
 
 - [USAID’s apparent demise and the US withdrawal from WHO put millions of lives worldwide at risk and imperil US national security](https://theconversation.com/usaids-apparent-demise-and-the-us-withdrawal-from-who-put-millions-of-lives-worldwide-at-risk-and-imperil-us-national-security-249260) (The Conversation Africa)
@@ -291,11 +343,27 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-9 (hpai)
 
+- [Avian Influenza A(H5) Subtype in Wastewater - Oregon, September 15, 2021-July 11, 2024](https://www.cdc.gov/mmwr/volumes/74/wr/mm7406a5.htm) (Cdc.gov)
+
+- [A veterinarian who specializes in dairy cows talks about avian influenza](https://phys.org/news/2025-02-veterinarian-specializes-dairy-cows-avian.html) (Phys.Org)
+
 - [STUDY: Bird Flu “Spreads Through The Air”](https://www.shtfplan.com/headline-news/study-bird-flu-spreads-through-the-air) (Shtfplan.com)
 
 - [話題を呼んだHumaneの「Ai Pin」、終焉を迎える](https://wired.jp/article/humane-ai-pin-will-become-e-waste-next-week/) (Wired.jp)
 
 ## 25-9 (h5n1)
+
+- [Killing 166 million birds hasn’t helped poultry farmers stop H5N1. Is there a better way?](https://www.bostonherald.com/2025/02/27/better-way-than-killing-birds-h5n1/) (Boston Herald)
+
+- [U.S. Ruling Class Will Continue To Cull Birds Because of Bird Flu](https://www.shtfplan.com/member-exclusive/u-s-ruling-class-will-continue-to-cull-birds-because-of-bird-flu) (Shtfplan.com)
+
+- [CDC Posts First Bird Flu Update Since Trump Took Office](https://gizmodo.com/cdc-posts-first-bird-flu-update-since-trump-took-office-2000569077) (Gizmodo.com)
+
+- [A veterinarian who specializes in dairy cows talks about avian influenza](https://phys.org/news/2025-02-veterinarian-specializes-dairy-cows-avian.html) (Phys.Org)
+
+- [Human Bird Flu Hospitalizations Now Reported in Wyoming and Ohio](https://legalinsurrection.com/2025/02/human-bird-flu-hospitalizations-now-reported-in-wyoming-and-ohio/) (Legalinsurrection.com)
+
+- [Prior Infection With Seasonal Flu May Guard Against Severe Bird Flu: Study](https://www.ndtv.com/india-news/prior-infection-with-seasonal-flu-may-guard-against-severe-bird-flu-study-7807554) (NDTV News)
 
 - ["We do not have immunity against it," warn scientists as India’s first bird flu case in cats raises human health concerns](https://economictimes.indiatimes.com/news/new-updates/we-do-not-have-immunity-against-it-warn-scientists-as-indias-first-bird-flu-case-in-cats-raises-human-health-concerns/articleshow/118596063.cms) (The Times of India)
 
@@ -363,6 +431,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-9 (dengue)
 
+- [Estimating per-infection cost and burden for dengue and Zika as a function of antibody-dependent enhancement](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012876) (Plos.org)
+
+- [SES-DF adota novo tipo de inseticida no combate à dengue. Veja](https://www.metropoles.com/distrito-federal/ses-df-adota-novo-tipo-de-inseticida-no-combate-a-dengue-veja) (Metropoles.com)
+
+- [SP confirma média de 2,9 mil casos de dengue por dia em 2025](https://valor.globo.com/brasil/noticia/2025/02/27/sp-confirma-media-de-29-mil-casos-de-dengue-por-dia-em-2025.ghtml) (Globo)
+
 - [La ciudad de Buenos Aires amplía la cobertura de vacunación contra el dengue: quiénes pueden solicitar turno](https://www.lanacion.com.ar/sociedad/la-ciudad-de-buenos-aires-amplia-la-cobertura-de-vacunacion-contra-el-dengue-quienes-pueden-nid26022025/) (La Nacion)
 
 - [Brasil aposta em mais vacinas para doenças tropicais e público maior](https://valor.globo.com/publicacoes/especiais/inovacao-na-medicina/noticia/2025/02/26/brasil-aposta-em-mais-vacinas-para-doencas-tropicais-e-publico-maior.ghtml) (Globo)
@@ -404,6 +478,8 @@ Source: [News API](https://newsapi.org/)
 - [Philippine village battles dengue by offering bounties for mosquitos — dead or alive](https://www.voanews.com/a/philippine-village-battles-dengue-by-offering-bounties-for-mosquitos-dead-or-alive/7984215.html) (VOA News)
 
 ## 25-9 (chikungunya)
+
+- [Low capacity for molecular detection of Alphaviruses other than Chikungunya virus in 23 European laboratories, March 2022](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318602) (Plos.org)
 
 - [Brasil aposta em mais vacinas para doenças tropicais e público maior](https://valor.globo.com/publicacoes/especiais/inovacao-na-medicina/noticia/2025/02/26/brasil-aposta-em-mais-vacinas-para-doencas-tropicais-e-publico-maior.ghtml) (Globo)
 
@@ -2927,14 +3003,6 @@ Source: [News API](https://newsapi.org/)
 
 - [UNAM alerta sobre virus de influenza H5N1 y recomienda vigilarlo](https://www.milenio.com/politica/unam-recomienda-vigilar-virus-causante-de-la-gripe-aviar) (Milenio)
 
-- [First US human death from bird flu is more serious than you may think](https://newatlas.com/infectious-diseases/first-us-human-death-bird-flu/) (New Atlas)
-
-- [Homem de 28 anos do Camboja morre de gripe aviária. País apura caso](https://www.metropoles.com/saude/homem-28-camboja-morre-gripe-aviaria) (Metropoles.com)
-
-- [नोरोव्हायरस, बर्ड फ्लू की कोरोना... हिवाळ्यात कोणता जास्त धोकादायक आणि तो कसा टाळायचा?](https://www.lokmat.com/sakhi/health/lifestyle-diseases/health-tips-norovirus-vs-bird-flu-vs-covid-19-which-is-more-dangerous-in-winter-a-a597/) (Lokmat.com)
-
-- [Llama la UNAM a vigilar la evolución de la gripe aviar](https://www.jornada.com.mx/2025/01/12/sociedad/027n2soc) (Jornada.com.mx)
-
 ## 25-3 (dengue)
 
 - [Dengue: como usar o hipoclorito de sódio no combate ao Aedes aegypti](https://casa.abril.com.br/minha-casa/dengue-como-usar-o-hipoclorito-de-sodio-no-combate-ao-aedes-aegypti) (Abril.com.br)
@@ -2992,8 +3060,6 @@ Source: [News API](https://newsapi.org/)
 - [Dengue: SP tem 21 cidades em situação de emergência](https://www.terra.com.br/vida-e-estilo/saude/dengue-sp-tem-21-cidades-em-situacao-de-emergencia,cb9f0c74f749309f7f6f2dc0e1b1bc085pm97v74.html) (Terra.com.br)
 
 - [As dengue cases rise, researchers points to a simple solution: trash cleanup](https://news.stanford.edu/stories/2025/01/waste-reduction-a-key-defense-against-rising-dengue-cases) (Stanford.edu)
-
-- [Saúde falha em pontos sensíveis e fragiliza a situação de Nísia Trindade](https://veja.abril.com.br/politica/saude-falha-em-pontos-sensiveis-e-fragiliza-a-situacao-de-nisia-trindade) (Abril.com.br)
 
 ## 25-3 (chikungunya)
 

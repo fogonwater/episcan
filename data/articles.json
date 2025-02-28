@@ -1,8 +1,658 @@
 {
-  "last_updated": "2025-02-28 07:06",
-  "count_articles_total": 1362,
-  "count_articles_new": 29,
+  "last_updated": "2025-02-28 19:06",
+  "count_articles_total": 1393,
+  "count_articles_new": 36,
   "articles": [
+    {
+      "id": 18760,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Milenio",
+      "author": "C\u00e9sar Zayago",
+      "title": "\u00bfViajaste a Zipolite? Emiten aviso sanitario por brote de Mpox en festival entre estas fechas",
+      "description": "LaCl\u00ednica Especializada Condesa emiti\u00f3 un aviso a la salud, ya que se han identificado algunos casos de Mpox, antes conocida como viruela s\u00edmica, en personas que asistieron a un festival en Zipolite entre los \u00faltimos d\u00edas de enero y los primeros de Febrero 20\u2026",
+      "url": "https://www.milenio.com/ciencia-y-salud/aviso-por-virus-mpox-en-playa-zipolite-buscan-detectar-mas-brotes",
+      "urlToImage": "https://cdn.milenio.com/uploads/media/2025/02/27/clinica-especializada-condesa-recuerda-contagios.jpg",
+      "publishedAt": "2025-02-27 19:00:00",
+      "content": "La Cl\u00ednica Especializada Condesa emiti\u00f3 un aviso a la salud, ya que se han identificado algunos casos de Mpox, antes conocida como viruela s\u00edmica, en personas que asistieron a un festival en Zipolite\u2026 [+3065 chars]",
+      "retrievedAt": "2025-02-28 19:06:08.454762",
+      "internal_id": "c68a16e056f7e4f51f964c369acbb1c2a7baf10c2ec66ddbda80a58ae2192b20",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 18748,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Boston Herald",
+      "author": "Tribune News Service",
+      "title": "Killing 166 million birds hasn\u2019t helped poultry farmers stop H5N1. Is there a better way?",
+      "description": "Bird flu plowed through the commercial chickens, turkeys and ducks with nearly 100% mortality rate.",
+      "url": "https://www.bostonherald.com/2025/02/27/better-way-than-killing-birds-h5n1/",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/02/202502270400MCT_____PHOTO____US-NEWS-SCI-BIRDFLU-CULLING-1-GET.jpg?w=1024&h=718",
+      "publishedAt": "2025-02-27 18:43:16",
+      "content": "By Susanne Rust and Karen Kaplan, Los Angeles Times When the deadly H5N1 bird flu virus made its first appearance at a U.S. poultry farm in February 2022, roughly 29,000 turkeys at an Indiana facili\u2026 [+8066 chars]",
+      "retrievedAt": "2025-02-28 19:06:06.250713",
+      "internal_id": "20ddf57a12c633afbb54fec80a175075ee09d77ddda00e37f616b91fafbe6fd9",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 18745,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": "CDC",
+      "title": "Avian Influenza A(H5) Subtype in Wastewater - Oregon, September 15, 2021-July 11, 2024",
+      "description": "This report describes an analysis of Oregon wastewater surveillance data that detected avian influenza A(H5) in communities with no concurrent outbreaks from dairy facilities or dairy farms.",
+      "url": "https://www.cdc.gov/mmwr/volumes/74/wr/mm7406a5.htm",
+      "urlToImage": "https://www.cdc.gov/mmwr/volumes/74/wr/social-media/mm7406a5_BirdFluWastewaterOR_IMAGE_27Feb2025_1200x675.png?_=83770",
+      "publishedAt": "2025-02-27 18:00:00",
+      "content": "Wastewater surveillance in Oregon first detected the avian influenza A(H5) subtype on March 21, 2022, 6 weeks before HPAI A(H5) was identified in an Oregon domestic poultry outbreak, 7 weeks before a\u2026 [+3908 chars]",
+      "retrievedAt": "2025-02-28 19:06:05.844127",
+      "internal_id": "79db8d64ad5f278db36f9883e12365ecf5dfe9436d6eb933e11c0e0c702af27e",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 18757,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Sopitas.com",
+      "author": "Daniela B\u00e1rcenas",
+      "title": "Oaxaca confirma paciente infectado por Mpox (viruela s\u00edmica)",
+      "description": "En Oaxaca se confirm\u00f3 un caso de viruela s\u00edmica, mejor conocida como viruela del mono. El infectado es un hombre de 26 a\u00f1os de edad, que... The post Oaxaca confirma paciente infectado por Mpox (viruela s\u00edmica) appeared first on Sopitas.com.",
+      "url": "https://www.sopitas.com/noticias/oaxaca-confirma-paciente-infectado-mpox-viruela-simica/",
+      "urlToImage": "https://www.sopitas.com/wp-content/uploads/2025/02/oaxaca-confirma-caso-viruela-mono.png",
+      "publishedAt": "2025-02-27 17:36:49",
+      "content": "Lo que necesitas saber: El hombre acudi\u00f3 al Hospital General de Zona n\u00famero 41 luego de presentar varios problemas de salud. En Oaxaca se confirm\u00f3 un caso de viruela s\u00edmica, mejor conocida como vir\u2026 [+2539 chars]",
+      "retrievedAt": "2025-02-28 19:06:08.408441",
+      "internal_id": "7d582d81cfff96fd9df3dd69100d83072288571ef4fedb76cfeb67bfc9ecd4c4",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 18737,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Week Magazine",
+      "author": "theweek@futurenet.com (Rafi Schwartz, The Week US)",
+      "title": "Texas outbreak brings 1st US measles death since 2015",
+      "description": "The outbreak is concentrated in a 'close-knit, undervaccinated' Mennonite community in rural Gaines County",
+      "url": "https://theweek.com/health/texas-measles-outbreak-death",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/v5grRZBh42YuHGfDWmC9wT-1200-80.jpg",
+      "publishedAt": "2025-02-27 17:17:44",
+      "content": "What happened An unvaccinated school-age child in West Texas has died of measles, state health officials said Wednesday. It was the first known U.S. measles-related death since 2015, and the first c\u2026 [+2711 chars]",
+      "retrievedAt": "2025-02-28 19:06:05.325268",
+      "internal_id": "d87eb04fa494dceeffd32d375472692e0576c8e0394bffe2dcface3b44788349",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 18740,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Mediaite",
+      "author": "Phillip Nieto",
+      "title": "New York Post Challenges RFK Jr. to Back Vaccines in Texas Amid Deadly Measles Outbreak",
+      "description": "The New York Post editorial board challenged Health Secretary Robert F. Kennedy Jr. to publicly back vaccines amid a measles outbreak in Texas. The post New York Post Challenges RFK Jr. to Back Vaccines in Texas Amid Deadly Measles Outbreak first appeared on\u2026",
+      "url": "https://www.mediaite.com/media/new-york-post-challenges-rfk-jr-to-back-vaccines-in-texas-amid-deadly-measles-outbreak/",
+      "urlToImage": "https://www.mediaite.com/wp-content/uploads/2025/01/AP25030679252779-scaled.jpg",
+      "publishedAt": "2025-02-27 16:21:17",
+      "content": "AP Photo/Rod Lamkey, Jr. The New York Post editorial board challenged Secretary of Health and Human Services Robert F. Kennedy Jr. to publicly back vaccines amid a measles outbreak in Texas. In Lub\u2026 [+1208 chars]",
+      "retrievedAt": "2025-02-28 19:06:05.401880",
+      "internal_id": "ac51df850c487fb3699e01d25d13cbb69563393863444f8952e283f390653563",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 18747,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Shtfplan.com",
+      "author": "Mac Slavo",
+      "title": "U.S. Ruling Class Will Continue To Cull Birds Because of Bird Flu",
+      "description": "The United States ruling class has decided to continue using the failed policy of culling poultry to stop the spread of the H5N1 bird flu virus. The policy has done nothing to stop bird flu from infecting poultry and has been an abysmal failure at every level.",
+      "url": "https://www.shtfplan.com/member-exclusive/u-s-ruling-class-will-continue-to-cull-birds-because-of-bird-flu",
+      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2024/07/birdflu.jpg",
+      "publishedAt": "2025-02-27 16:00:09",
+      "content": "Commenting Policy: Some comments on this web site are automatically moderated through our Spam protection systems. Please be patient if your comment isn\u2019t immediately available. We\u2019re not trying to \u2026 [+423 chars]",
+      "retrievedAt": "2025-02-28 19:06:06.242984",
+      "internal_id": "5ccf608abc4a5717adba553cefdf12d3d7b7a7494f7349c9b02f0c15ff71f6d4",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 18766,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "DIE WELT",
+      "author": "WELT",
+      "title": "K\u00e4mpfe f\u00f6rdern die Ausbreitung einer neuen Variante",
+      "description": "Bisher ist es nicht gelungen, den Mpox-Ausbruch in Afrika zu stoppen. Die Weltgesundheitsorganisation l\u00e4sst deshalb ihre h\u00f6chste Alarmstufe bestehen. K\u00e4mpfe behindern notwendige Gegenma\u00dfnahmen, deren Finanzierung ist unklar, au\u00dferdem breitet sich eine neue Va\u2026",
+      "url": "https://www.welt.de/gesundheit/article255560600/Mpox-Virus-Kaempfe-foerdern-die-Ausbreitung-einer-neuen-Variante.html",
+      "urlToImage": "https://img.welt.de/img/gesundheit/mobile255560592/9897930447-ci16x9-w1200/Mpox-im-Kongo.jpg",
+      "publishedAt": "2025-02-27 15:59:37",
+      "content": "Bisher ist es nicht gelungen, den Mpox-Ausbruch in Afrika zu stoppen. Die Weltgesundheitsorganisation l\u00e4sst deshalb ihre h\u00f6chste Alarmstufe bestehen. K\u00e4mpfe behindern notwendige Gegenma\u00dfnahmen, deren\u2026 [+2563 chars]",
+      "retrievedAt": "2025-02-28 19:06:08.509109",
+      "internal_id": "564f20bd365f640c4bbff2d8a49b3884632112f9a8171909a7a770b6a1843736",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 18763,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Sapo.pt",
+      "author": "Jornal i",
+      "title": "OMS mant\u00e9m n\u00edvel de alerta mais alto para a mpox",
+      "description": "Em causa est\u00e3o as recomenda\u00e7\u00f5es dos peritos que integram o Comit\u00e9 de Emerg\u00eancia, que se reuniram na ter\u00e7a-feira para avaliar a evolu\u00e7\u00e3o da doen\u00e7a. O conte\u00fado OMS mant\u00e9m n\u00edvel de alerta mais alto para a mpox aparece primeiro em Jornal i.",
+      "url": "https://ionline.sapo.pt/2025/02/27/oms-mantem-nivel-de-alerta-mais-alto-para-a-mpox/",
+      "urlToImage": "https://ionline.sapo.pt/wp-content/uploads/2025/02/dreamstime_m_259390215.jpg",
+      "publishedAt": "2025-02-27 15:58:34",
+      "content": "Em causa est\u00e3o as recomenda\u00e7\u00f5es dos peritos que integram o Comit\u00e9 de Emerg\u00eancia, que se reuniram na ter\u00e7a-feira para avaliar a evolu\u00e7\u00e3o da doen\u00e7a. A Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS) anunciou, esta\u2026 [+764 chars]",
+      "retrievedAt": "2025-02-28 19:06:08.479426",
+      "internal_id": "d4c4aada611f6102d4fed9aae5f8ff4ac67ec3b26eb5e27497d1f28829b6c7ab",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 18732,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "ABC News",
+      "title": "WATCH: Conan O\u2019Brien rolls out the Oscars red carpet",
+      "description": "The host of the 97th Academy Awards was eager to help roll out the iconic 900-foot-long carpet to kick off the final countdown to Sunday\u2019s show.",
+      "url": "https://abcnews.go.com/GMA/Culture/video/conan-obrien-rolls-oscars-red-carpet-119246222",
+      "urlToImage": "https://i.abcnewsfe.com/a/c380308a-721e-4175-a633-8bb1ea320802/250227_gma_play_oscars_conanobrien1_0748_hpMain_16x9.jpg?w=992",
+      "publishedAt": "2025-02-27 15:46:07",
+      "content": "Actor Gene Hackman dies at 95 Unvaccinated child dies of measles amid Texas outbreak Andrew Tate, brother flying to US after Romanian travel restrictions lifted: Source <\u2026 [+4402 chars]",
+      "retrievedAt": "2025-02-28 19:06:05.081341",
+      "internal_id": "57f777d5ef27bd84c7f03b3fc60c39330bd261636c16ce15501f908aa1658b1c",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 18742,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "First case of measles reported in Kentucky as US battles spread of disease (Ed Pilkington/The Guardian)",
+      "description": "Ed Pilkington / The Guardian: First case of measles reported in Kentucky as US battles spread of disease \u2014 Adult infected with highly contagious virus that claimed life of unvaccinated child earlier this week \u2014 A confirmed case of measles has been reporte\u2026",
+      "url": "https://www.memeorandum.com/250227/p43",
+      "urlToImage": "https://i.guim.co.uk/img/media/8a80cb6671a358ee496a823fea7744426d0cbab6/0_120_4252_2551/master/4252.jpg?width=300&dpr=2&s=none",
+      "publishedAt": "2025-02-27 15:35:00",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-02-28 19:06:05.460151",
+      "internal_id": "b0e3c424c14c72729cff1bb7de6edb2e75cfb9f967ca0c9ad1906cc74dc60f33",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 18741,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Boston Herald",
+      "author": "Associated Press",
+      "title": "As measles cases mount in the US, what\u2019s the situation worldwide?",
+      "description": "According to the World Health Organization, measles caused an estimated 107,500 deaths globally in 2023.",
+      "url": "https://www.bostonherald.com/2025/02/27/measles-us-cases-global-situation/",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/02/Measles-Global_40075.jpg?w=1024&h=682",
+      "publishedAt": "2025-02-27 14:35:14",
+      "content": "BANGKOK (AP) \u2014 The U.S. registered its first death from measles since 2015 this week, as a child who wasn\u2019t vaccinated died in a measles outbreak in rural West Texas. Normally, most U.S. cases are b\u2026 [+3094 chars]",
+      "retrievedAt": "2025-02-28 19:06:05.446410",
+      "internal_id": "659997f54ea8ef97669f8676cb9e2d79b850597448ee29e3d585ef0fd01e003b",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 18765,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Digi24.ro",
+      "author": "Alexandru Rotaru",
+      "title": "Variola maimu\u021bei r\u0103m\u00e2ne o urgen\u021b\u0103 de s\u0103n\u0103tate public\u0103, anun\u021b\u0103 OMS. C\u00e2te cazuri au fost \u00eenregistrate la nivel global",
+      "description": "Epidemia de mpox este \u00een continuare o urgen\u0163\u0103 de s\u0103n\u0103tate public\u0103, a anun\u0163at joi Organiza\u0163ia Mondial\u0103 a S\u0103n\u0103t\u0103\u0163ii (OMS), potrivit Reuters.",
+      "url": "https://www.digi24.ro/stiri/externe/variola-maimutei-ramane-o-urgenta-de-sanatate-publica-anunta-oms-cate-cazuri-au-fost-inregistrate-la-nivel-global-3138183",
+      "urlToImage": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjQl/MkYxMSUyRjIyJTJGMjEzNDc2NV8yMTM0/NzY1X3NodXR0ZXJzdG9ja18yNTAyODg4/NzkzLmpwZyZ3PTEyMDAmaD02MzAmemM9/MSZoYXNoPTBjMGRjNDllMmE1OGM4ZDQxMzMwODMxOGZmNjc2MTA2.thumb.jpg",
+      "publishedAt": "2025-02-27 14:21:25",
+      "content": "Epidemia de mpox este \u00een continuare o urgen de sntate public, a anunat joi Organizaia Mondial a Sntii (OMS), potrivit Reuters. OMS, care a declarat pentru prima dat aceast boal ca fiind o urgen sani\u2026 [+1431 chars]",
+      "retrievedAt": "2025-02-28 19:06:08.495047",
+      "internal_id": "e94bce3095c252373f8db5b2c5a090157a8727fceffaaf65f62774a1827b6ce2",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 18761,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "dh.be",
+      "author": "AFP -",
+      "title": "L'OMS maintient le plus haut niveau d'alerte pour l'\u00e9pid\u00e9mie de mpox",
+      "description": "L'Organisation mondiale de la sant\u00e9 a maintenu jeudi son niveau d'alerte maximale pour l'\u00e9pid\u00e9mie de mpox, le nombre de cas et de pays touch\u00e9s continuant \u00e0 augmenter. ...",
+      "url": "https://www.dhnet.be/actu/sante/2025/02/27/loms-maintient-le-plus-haut-niveau-dalerte-pour-lepidemie-de-mpox-I6Q2ELBHSJCBJDJ5UK6USLG7UA/",
+      "urlToImage": "https://www.dhnet.be/resizer/v2/XYZXVDR7MBDRZC4ZSYCDNB722Y.jpg?auth=87467d9414f8826deb02b9f2063abb43bf271745fe05dd5908b288cfe454c0c5&width=1200&height=630&quality=85&focal=2593%2C1728&watermark=https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Fipmgroup%2FDZNGDE46VVGXRGHD3TEI5RB3GM.png%3A100%3A0%2C559",
+      "publishedAt": "2025-02-27 14:03:56",
+      "content": "L'USPPI est le niveau d'alerte le plus \u00e9lev\u00e9 selon le R\u00e8glement sanitaire international, qui est juridiquement contraignant pour 196 pays. Le mpox est caus\u00e9 par un virus de la m\u00eame famille que la va\u2026 [+2122 chars]",
+      "retrievedAt": "2025-02-28 19:06:08.462646",
+      "internal_id": "a6606ba0ccd01f2b69f658730e61f43b00cbfe4ac80c9ca077c95dd35527b8e6",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 18752,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Christopher M. Kribs",
+      "title": "Estimating per-infection cost and burden for dengue and Zika as a function of antibody-dependent enhancement",
+      "description": "Author summary Dengue and Zika are closely related viruses carried by mosquitos which affect over 100 million people worldwide each year. Recovery from infection by one type produces immunity against that type, but makes later infections with other types of t\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012876",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012876.t007&size=inline",
+      "publishedAt": "2025-02-27 14:00:00",
+      "content": "Introduction Ever since the development of dengue vaccine candidates entered the trial stage, public health researchers have been estimating the potential impact of a dengue vaccine on transmission \u2026 [+88016 chars]",
+      "retrievedAt": "2025-02-28 19:06:06.918606",
+      "internal_id": "861aedee515ad4efd7fcd2a9b8556e6489c65340ddba20ec921ddfd9b311a371",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 18755,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Zemenu Tamir, Abebe Animut, Sisay Dugassa, Mahlet Belachew, Adugna Abera, Aster Tsegaye, Berhanu Erko",
+      "title": "Plasmodium and intestinal parasite infections among pregnant women at first antenatal care contact in northwest Ethiopia: A study of prevalence and associated risk factors",
+      "description": "Background Parasitic infections in pregnancy are detrimental for both the mother and her fetus. Malaria and intestinal parasite infections among pregnant women at their first antenatal care contact (ANC1) could offer information on their burden in pregnancy, \u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0316483",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0316483.g004&size=inline",
+      "publishedAt": "2025-02-27 14:00:00",
+      "content": "Citation: Tamir Z, Animut A, Dugassa S, Belachew M, Abera A, Tsegaye A, et al. (2025) Plasmodium and intestinal parasite infections among pregnant women at first antenatal care contact in northwest\u2026 [+43667 chars]",
+      "retrievedAt": "2025-02-28 19:06:07.597713",
+      "internal_id": "398e9eb0b313b189fc05d65b40b480af79d60dd671ea42a13c888045c1a84177",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 18756,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Laura Pezzi, Ramona Moegling, C\u00e9cile Baronti, Kamelia R. Stanoeva, Lance D. Presser, Pauline Jourdan, Nazli Ayhan, Willem M.R. van den Akker, Stephan Zientara, C\u00e9line M. Gossner, R\u00e9mi N. Charrel, Chantal B.E.M. Reusken, on behalf of EVD-LabNet",
+      "title": "Low capacity for molecular detection of Alphaviruses other than Chikungunya virus in 23 European laboratories, March 2022",
+      "description": "Alphaviruses comprise over 30 identified species spread worldwide and carry a large global health burden. With vector expansion occurring in and around Europe, it is anticipated this burden will increase. Therefore, regular assessment of the diagnostic capabi\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318602",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0318602.g002&size=inline",
+      "publishedAt": "2025-02-27 14:00:00",
+      "content": "Abstract Alphaviruses comprise over 30 identified species spread worldwide and carry a large global health burden. With vector expansion occurring in and around Europe, it is anticipated this burden\u2026 [+58455 chars]",
+      "retrievedAt": "2025-02-28 19:06:08.004517",
+      "internal_id": "ea476fff8a31b457964d6586db214fd7ff73816fe866df164ae2a3bebc45b513",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 18736,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Courier Journal",
+      "author": "Swapna Venugopal Ramaswamy, USA TODAY",
+      "title": "Robert F. Kennedy Jr. said two died in measles outbreak. His agency says it was only one.",
+      "description": "Robert F. Kennedy, in his first comments on measles as the new Trump health secretary, says the outbreak is not unusual. 'We have measles outbreaks every...",
+      "url": "https://www.courier-journal.com/story/life/wellness/health/2025/02/27/robert-f-kennedy-measles-trump-texas/80684155007/",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/E4vGZbe8XBAPQl.IkPWpiQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/the-courier-journal/47f96436e5b678cb0be0e4fb1cd88388",
+      "publishedAt": "2025-02-27 13:44:24",
+      "content": "WASHINGTON - Sitting in the Cabinet Room of the White House during his first public appearance as the nation's top health official on Wednesday, Robert F. Kennedy Jr. said two people had died in an o\u2026 [+2954 chars]",
+      "retrievedAt": "2025-02-28 19:06:05.197796",
+      "internal_id": "99447b560d1bc3678da010605d2500157f219a137bddc40468ed64e6507116a7",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 18746,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Gizmodo.com",
+      "author": "Matt Novak",
+      "title": "CDC Posts First Bird Flu Update Since Trump Took Office",
+      "description": "Two new humans cases in Ohio and Wyoming were hospitalized.",
+      "url": "https://gizmodo.com/cdc-posts-first-bird-flu-update-since-trump-took-office-2000569077",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/12/backyard-chickens-bird-flu.jpg",
+      "publishedAt": "2025-02-27 13:40:02",
+      "content": "The CDC posted a bird flu update to the health agency\u2019s website on Wednesday, the first since President Donald Trump took office. The report provides a snapshot of recent human cases of H5N1, includi\u2026 [+2687 chars]",
+      "retrievedAt": "2025-02-28 19:06:06.196584",
+      "internal_id": "fa080c8954fd561ca28ab543ac479e3e69c3e8c9f304bf0e1d4e4e9cff90a55a",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 18764,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "ZEIT ONLINE: Gesundheit - Isabelle Daniel",
+      "title": "Infektionskrankheit: WHO verl\u00e4ngert internationalen Gesundheitsnotstand wegen Mpox",
+      "description": "Der MPox-Erreger breitet sich weiter aus, vor allem in Ostafrika. Die Weltgesundheitsorganisation stuft den Krankheitsausbruch weiter als internationalen Notstand ein.",
+      "url": "https://www.zeit.de/gesundheit/2025-02/who-mpox-gesundheitsnotstand-verlaengert",
+      "urlToImage": "https://img.zeit.de/gesundheit/2025-02/who-verlaengert-internationalen-gesundheitsnotstand-mpox-bild/wide__1300x731",
+      "publishedAt": "2025-02-27 13:39:07",
+      "content": "Die Infektionskrankheit Mpox bleibt ein Gesundheitsnotstand von internationaler Tragweite. So lautet die Einstufung der Weltgesundheitsorganisation. WHO-Generaldirektor Tedros Adhanom Ghebreyesus fol\u2026 [+1671 chars]",
+      "retrievedAt": "2025-02-28 19:06:08.487418",
+      "internal_id": "1cfb46a06e615b8f500d26db75a95bdf1ab0e8869ed94fdd04921d068a753a3d",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 18762,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "La OMS advierte de que el mpox sigue siendo una emergencia de salud p\u00fablica de preocupaci\u00f3n internacional",
+      "description": "El director general de la Organizaci\u00f3n Mundial de la Salud (OMS), Tedros Adhanom Ghebreyesus, ha subrayado este jueves que la actual situaci\u00f3n del virus mpox contin\u00faa cumpliendo con los criterios de emergencia de salud p\u00fablica de preocupaci\u00f3n internacional es\u2026",
+      "url": "https://www.infosalus.com/salud-investigacion/noticia-oms-advierte-mpox-sigue-siendo-emergencia-salud-publica-preocupacion-internacional-20250227142924.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20250227142924_1200.jpg",
+      "publishedAt": "2025-02-27 13:29:24",
+      "content": "MADRID, 27 Feb. (EUROPA PRESS) - El director general de la Organizaci\u00f3n Mundial de la Salud (OMS), Tedros Adhanom Ghebreyesus, ha subrayado este jueves que la actual situaci\u00f3n del virus mpox con\u2026 [+4939 chars]",
+      "retrievedAt": "2025-02-28 19:06:08.471460",
+      "internal_id": "082d507c8ceb72e2235cc36660d92651b4d3f89309f3811edb07306d88833546",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 18759,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Digital Journal",
+      "author": "AFP",
+      "title": "WHO decides mpox epidemic still global health emergency",
+      "description": "Mpox remains an international public health emergency, the World Health Organization said Thursday after deciding the epidemic still merits the highest level of alert, with cases rising and its geographic spread widening. \u201cThe mpox upsurge continues to meet t\u2026",
+      "url": "https://www.digitaljournal.com/world/who-decides-mpox-epidemic-still-global-health-emergency/article",
+      "urlToImage": "https://www.digitaljournal.com/wp-content/uploads/2025/02/21934ea80b1a6782a3dc9da7d90f39f7304e3044-1.jpg",
+      "publishedAt": "2025-02-27 13:28:23",
+      "content": "A vial of the mpox vaccine at Goma General Hospital in DR Congo - Copyright AFP Anthony WALLACE Mpox remains an international public health emergency, the World Health Organization said Thursday aft\u2026 [+2620 chars]",
+      "retrievedAt": "2025-02-28 19:06:08.446689",
+      "internal_id": "90ef8642cd26f081ab7c44d29c9767c8cf572b230f74e5b30bcfc81328f39b82",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 18733,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Democracy Now!",
+      "author": "webdev@democracynow.org (Democracy Now!)",
+      "title": "Child Dies from Measles in Texas as Disease \"Comes Roaring Back\" Amid Anti-Vaccine Disinformation",
+      "description": "An unvaccinated child has died of measles, Texas officials announced Wednesday, the first death from measles in the United States in a decade. The child\u2019s death in a hospital in Lubbock, in West Texas, comes as the largest measles outbreak in the state in ove\u2026",
+      "url": "https://www.democracynow.org/2025/2/27/rfk_jr_measles_dr_peter_hotez",
+      "urlToImage": "https://www.democracynow.org/images/story/55/76055/full_hd/SEG1_RFK-button-select.jpg",
+      "publishedAt": "2025-02-27 13:15:18",
+      "content": "AMYGOODMAN: We begin today\u2019s show in Texas, where an unvaccinated child has died of measles. It\u2019s the first reported measles death in the United States in a decade. The child\u2019s death in a hospital in\u2026 [+13826 chars]",
+      "retrievedAt": "2025-02-28 19:06:05.115821",
+      "internal_id": "7da2e2c5f2cbe7a76eecc78df09c232b72d1e3bc8c982e91518b14fd9a83e482",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 18739,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Raw Story",
+      "author": "Tom Boggioni",
+      "title": "'Something unusual is happening': Expert singles out RFK Jr. over measles deaths",
+      "description": "MSNBC medical contributor Dr. Vin Gupta called out newly installed Health and Human Services Secretary Robert F. Kennedy Jr on Thursday morning after the Donald Trump appointee tried to downplay the alarming growth of measles cases that has now resulted in ch\u2026",
+      "url": "https://www.rawstory.com/rfk-measles/",
+      "urlToImage": "https://www.rawstory.com/media-library/image.jpg?id=56605295&width=1200&height=600&coordinates=0%2C13%2C0%2C14",
+      "publishedAt": "2025-02-27 13:14:49",
+      "content": "MSNBC medical contributor Dr. Vin Gupta called out newly installed Health and Human Services Secretary Robert F. Kennedy Jr on Thursday morning after the Donald Trump appointee tried to downplay the \u2026 [+1595 chars]",
+      "retrievedAt": "2025-02-28 19:06:05.388324",
+      "internal_id": "5be02b7d6ace2103ad7d053e67cf11afc4ace44271677ae997ed037790a03f22",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 18758,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Der Tagesspiegel",
+      "title": "Krankheiten: Mpox in Afrika bleiben internationale Notlage",
+      "description": "Der Kampf gegen die Ausbreitung einer neuen Mpox-Virus-Variante in Afrika ist bisher nicht gewonnen. Die Weltgesundheitsorganisation WHO bleibt deshalb bei ihrer h\u00f6chsten Alarmstufe.",
+      "url": "https://www.tagesspiegel.de/wissen/krankheiten-mpox-in-afrika-bleiben-internationale-notlage-13286389.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/13286386/alternates/BASE_16_9_W1400/1740661867000/mpox-bleibt-internationaler-gesundheitsnotstand.jpeg",
+      "publishedAt": "2025-02-27 13:11:07",
+      "content": "Die Ausbreitung von Mpox und insbesondere einer neuen Virus-Variante in Afrika bleibt eine internationale Gesundheitsnotlage. Das entschied die Weltgesundheitsorganisation (WHO) auf Empfehlung unabh\u00e4\u2026 [+2247 chars]",
+      "retrievedAt": "2025-02-28 19:06:08.426024",
+      "internal_id": "9da729401bed095b8b90dc0199fd65eb20d9c2dda5a5a034df11d9a775bdb1f3",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 18767,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "Krankheiten: Mpox in Afrika bleiben internationale Notlage",
+      "description": "Der Kampf gegen die Ausbreitung einer neuen Mpox-Virus-Variante in Afrika ist bisher nicht gewonnen. Die Weltgesundheitsorganisation WHO bleibt deshalb bei ihrer h\u00f6chsten Alarmstufe.",
+      "url": "https://www.stern.de/panorama/wissen/krankheiten--mpox-in-afrika-bleiben-internationale-notlage-35504776.html",
+      "urlToImage": "https://image.stern.de/35504778/t/pS/v1/w1440/r1.7778/-/27--uusmvyspzcv6axs2048jpeg---87e8504b72e3be69.jpg",
+      "publishedAt": "2025-02-27 13:09:51",
+      "content": "Kopiere den aktuellen Link Zur Merkliste hinzuf\u00fcgen Der Kampf gegen die Ausbreitung einer neuen Mpox-Virus-Variante in Afrika ist bisher nicht gewonnen. Die Weltgesundheitsorganisation WHO bleibt d\u2026 [+1722 chars]",
+      "retrievedAt": "2025-02-28 19:06:08.517259",
+      "internal_id": "74ea76b6b347770680ef8567a0497b795d06d55bbb964557f8cf08683a29163d",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 18751,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Francisco Dutra",
+      "title": "SES-DF adota novo tipo de inseticida no combate \u00e0 dengue. Veja",
+      "description": "A Secretaria de Sa\u00fade adotou a nova tecnologia como uma estrat\u00e9gia complementar para conter a popula\u00e7\u00e3o do mosquito transmissor da doen\u00e7a",
+      "url": "https://www.metropoles.com/distrito-federal/ses-df-adota-novo-tipo-de-inseticida-no-combate-a-dengue-veja",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2025/02/27084931/DF-nova-arma-contra-dengue.jpeg",
+      "publishedAt": "2025-02-27 12:46:23",
+      "content": "A Secretaria de Sa\u00fade do Distrito Federal (SES-DF) adotou um novo inseticida no combate contra o mosquito da dengue. Segundo a pasta, o BRI-Aedes possui maior potencial de efic\u00e1cia ap\u00f3s a aplica\u00e7\u00e3o e\u2026 [+2632 chars]",
+      "retrievedAt": "2025-02-28 19:06:06.904427",
+      "internal_id": "a3215bf95d3894f93d68b6f8153aca742f1e5c648ea2723bc892229c841515f2",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 18744,
+      "query": [
+        "hpai",
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Phys.Org",
+      "author": "Angela Nelson",
+      "title": "A veterinarian who specializes in dairy cows talks about avian influenza",
+      "description": "In March 2024, for the first time in the United States, the highly pathogenic avian influenza (HPAI) H5N1 virus was recognized as having crossed over from birds into cattle. Experts believe the virus was transmitted a month or two beforehand from birds to dai\u2026",
+      "url": "https://phys.org/news/2025-02-veterinarian-specializes-dairy-cows-avian.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/dairy-farm.jpg",
+      "publishedAt": "2025-02-27 12:17:06",
+      "content": "In March 2024, for the first time in the United States, the highly pathogenic avian influenza (HPAI) H5N1 virus was recognized as having crossed over from birds into cattle. Experts believe the virus\u2026 [+10977 chars]",
+      "retrievedAt": "2025-02-28 19:06:05.829601",
+      "internal_id": "860898ebe10799dbd0ce6207d43c16091f73327a6f22276f89611ed48515a82f",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 18749,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Legalinsurrection.com",
+      "author": "Leslie Eastman",
+      "title": "Human Bird Flu Hospitalizations Now Reported in Wyoming and Ohio",
+      "description": "Meanwhile, dozens of bird-flu-struck geese found in New Jersey parks, leading to their closure. The post Human Bird Flu Hospitalizations Now Reported in Wyoming and Ohio first appeared on Le\u00b7gal In\u00b7sur\u00b7rec\u00b7tion.",
+      "url": "https://legalinsurrection.com/2025/02/human-bird-flu-hospitalizations-now-reported-in-wyoming-and-ohio/",
+      "urlToImage": "https://legalinsurrection.com/wp-content/uploads/2025/02/LI-62-Flock-of-Geese.png",
+      "publishedAt": "2025-02-27 12:00:30",
+      "content": "I reported that an elderly patient in Louisiana with pre-existing conditions succumbed to the H5N1 bird flu in January. Now two more cases of human bird flu have led to hospitalization. In Ohio, a \u2026 [+4306 chars]",
+      "retrievedAt": "2025-02-28 19:06:06.299563",
+      "internal_id": "4aae93a10996df9231ea7cda5a4105fd9479af6729a139a38ed8fc000b4d652a",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 18735,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Crooksandliars.com",
+      "author": "Conover Kennard",
+      "title": "Unvaccinated Child Dies In West Texas From Measles",
+      "description": "An unvaccinated child hospitalized with measles in West Texas has died from the illness, marking the first death of the highly contagious disease since 2015. So far, 124 people have contracted measles. RFK Jr. doesn't seem concerned about the outbreak, but th\u2026",
+      "url": "https://crooksandliars.com/2025/02/unvaccinated-child-west-texas-dies-measles",
+      "urlToImage": "https://crooksandliars.com/files/embeds/2025/02/64406.jpg",
+      "publishedAt": "2025-02-27 11:49:05",
+      "content": "An unvaccinated child hospitalized with measles in West Texas has died from the illness, marking the first death of the highly contagious disease since 2015. So far, 124 people have contracted measle\u2026 [+1637 chars]",
+      "retrievedAt": "2025-02-28 19:06:05.166983",
+      "internal_id": "8c5d372b400297fc563410c406c0df0d3e0113724b1982930dbe1b2cb76822ad",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 18753,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "SP confirma m\u00e9dia de 2,9 mil casos de dengue por dia em 2025",
+      "description": "Intervalo de 19 a 25 de janeiro teve a maior ocorr\u00eancia da doen\u00e7a no Estado, com 25.615 registros, segundo o Painel de Arboviroses da Secretaria Estadual da Sa\u00fade",
+      "url": "https://valor.globo.com/brasil/noticia/2025/02/27/sp-confirma-media-de-29-mil-casos-de-dengue-por-dia-em-2025.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/aM8uxs52bkxYOrDs8fcwzJSatng=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2024/F/2/n0zs2aSXyBHcYsi6KDvw/mosquito-4998145-1920.jpeg",
+      "publishedAt": "2025-02-27 11:43:18",
+      "content": "O Estado de S\u00e3o Paulo confirmou 2.976 casos de dengue por dia em 2025, em m\u00e9dia, segundo o Painel de Arboviroses da Secretaria Estadual da Sa\u00fade (SES). Os dados foram contabilizados at\u00e9 a oitava sema\u2026 [+4279 chars]",
+      "retrievedAt": "2025-02-28 19:06:06.950938",
+      "internal_id": "ae538977d2dffc65b24b57ca8a99a0490d55a04f2110152d75224987af073b1c",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 18754,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Burgenland.orf.at",
+      "author": "ORF.at",
+      "title": "Rekrut mit Fieber in Wiener Spital im Koma",
+      "description": "Seit Dienstagmittag wird ein 21-j\u00e4hriger Rekrut aus dem Burgenland, der seit 7. J\u00e4nner Grundwehrdiener bei der Garde ist, mit sehr hohem Fieber in einer Wiener Klinik behandelt. Er befindet sich im Koma, teilte das Bundesheer am Donnerstag mit.",
+      "url": "https://burgenland.orf.at/stories/3294970/",
+      "urlToImage": "https://ibs.orf.at/bgl?image=https%3A%2F%2Foekastatic.orf.at%2Fmims%2F2020%2F13%2F36%2Fcrops%2Fw%3D1200%2Ch%3D627%2Cq%3D75%2F517950_master_174936_genrebilder_krankenhaus_spital_labor_gesundheit_krankenschwester_untersuchung_0.jpg%3Fs%3Dcdbe9e8c024302bcd0f349662155e38a8910ea9f",
+      "publishedAt": "2025-02-27 11:29:52",
+      "content": "Dem Vernehmen nach besteht Verdacht auf eine Hirnhautentz\u00fcndung, auch Meningitis genannt. Aufgrund der meldepflichtigen Erkrankung sei das Umfeld des Soldaten vorsorglich mit Antibiotika versorgt wor\u2026 [+2831 chars]",
+      "retrievedAt": "2025-02-28 19:06:07.339515",
+      "internal_id": "31db75e589c33ba1274e745bef74511eb32909e3f2f59164711cabaa35b52ff7",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 18750,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": "Indo-Asian News Service",
+      "title": "Prior Infection With Seasonal Flu May Guard Against Severe Bird Flu: Study",
+      "description": "Previous infections with seasonal H1N1 flu may boost immunity and reduce the severity of H5N1 bird flu, according to a study.",
+      "url": "https://www.ndtv.com/india-news/prior-infection-with-seasonal-flu-may-guard-against-severe-bird-flu-study-7807554",
+      "urlToImage": "https://c.ndtvimg.com/2024-12/a6jobo58_bird-flu-_625x300_28_December_24.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "publishedAt": "2025-02-27 10:59:02",
+      "content": "New Delhi: Previous infections with seasonal H1N1 flu may boost immunity and reduce the severity of H5N1 bird flu, according to a study. The study, published in the journal Emerging Infectious Disea\u2026 [+2068 chars]",
+      "retrievedAt": "2025-02-28 19:06:06.320053",
+      "internal_id": "4126786706997b9622f992c96406908a408a452754e3b4d7dfdd6ed5fdf6bcac",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 18743,
+      "query": [
+        "measles"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Jordan King",
+      "title": "RFK Jr.'s Response to Texas Measles Death Sparks Anger: 'Downplayed It'",
+      "description": "Health Secretary Robert F. Kennedy Jr. said measles outbreaks in the United States are \"not unusual.\"",
+      "url": "https://www.newsweek.com/rfk-jr-texas-measles-outbreak-vaccination-2036972",
+      "urlToImage": "https://d.newsweek.com/en/full/2596591/rfk-jr.jpg",
+      "publishedAt": "2025-02-27 10:04:35",
+      "content": "A doctor has accused Robert F. Kennedy Jr., the secretary of the Department of Health and Human Services, of downplaying a measles outbreak in Texas by saying outbreaks are \"not unusual\" in the Unite\u2026 [+4278 chars]",
+      "retrievedAt": "2025-02-28 19:06:05.497062",
+      "internal_id": "d72434021763dc89b60c96e477a64311d31d147d0a12fc30518dfaeb21ef588a",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 18734,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The New Republic",
+      "author": "The Daily Blast with Greg Sargent",
+      "title": "\u201cTerrifying\u201d: Trump\u2019s Ominous Moment with RFK on First Measles Death",
+      "description": "In Texas, an unvaccinated child just died of measles\u2014the first reported death related to the disease\u2019s recent outbreak. This came up at President Trump\u2019s cabinet meeting on Wednesday, and the results were troubling. After Elon Musk admitted that his cuts had \u2026",
+      "url": "https://newrepublic.com/article/192052/terrifying-trumps-ominous-moment-rfk-first-measles-death",
+      "urlToImage": "https://images.newrepublic.com/9c038a23a398c02ac9b828b70a1b6770d31b0388.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+      "publishedAt": "2025-02-27 10:00:00",
+      "content": "In Texas, an unvaccinated child just died of measlesthe first reported death related to the diseases recent outbreak. This came up at President Trumps cabinet meeting on Wednesday, and the results we\u2026 [+696 chars]",
+      "retrievedAt": "2025-02-28 19:06:05.129669",
+      "internal_id": "2a4347fa80c9116c58e05d6dfbb53706d7d317d6f8b58645b4837512a1233414",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 18738,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "DW (English)",
+      "author": "Zulfikar Abbany",
+      "title": "Measles in Texas: A deadly disease that can be prevented",
+      "description": "An unvaccinated child in West Texas has died from measles \u2014 the first US measles death in a decade. The WHO says low vaccination rates puts half the world at risk of outbreaks.",
+      "url": "https://www.dw.com/en/measles-in-texas-a-deadly-disease-that-can-be-prevented/a-68121991",
+      "urlToImage": "https://static.dw.com/image/64195277_6.jpg",
+      "publishedAt": "2025-02-27 09:29:00",
+      "content": "A child who wasnt vaccinated died in a measles outbreak in rural West Texas, state officials said on Wednesday. At least 124 cases have been reported in the US since January. This is the first US d\u2026 [+6180 chars]",
+      "retrievedAt": "2025-02-28 19:06:05.338822",
+      "internal_id": "4e73feb6b0b775db163d485f80528e225a993d060762adb78abe9383c3e1ff19",
+      "publishedAtLabel": "Feb 27"
+    },
     {
       "id": 18716,
       "query": [
@@ -24469,96 +25119,6 @@
       "content": "La Universidad Nacional Aut\u00f3noma de M\u00e9xico (UNAM) advirti\u00f3 que, aunque el riesgo para la salud p\u00fablica del pa\u00eds debido al virus de influenza H5N1 es bajo, se prev\u00e9 que sea un tema relevante durante e\u2026 [+4785 chars]",
       "retrievedAt": "2025-01-14 07:06:12.760466",
       "internal_id": "baaa0db7725aec9011864c3d9e85a14527a4a4c780b53a663c2a5434df143776",
-      "publishedAtLabel": "Jan 12"
-    },
-    {
-      "id": 17370,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "New Atlas",
-      "author": "Bronwyn Thompson",
-      "title": "First US human death from bird flu is more serious than you may think",
-      "description": "Two months shy of the fifth anniversary of COVID-19 being declared a global pandemic, the US has recorded its first human death as a result of avian influenza H5N1 infection. The unidentified Louisiana man contracted the virus through contact with infected wi\u2026",
-      "url": "https://newatlas.com/infectious-diseases/first-us-human-death-bird-flu/",
-      "urlToImage": "https://assets.newatlas.com/dims4/default/b972f69/2147483647/strip/true/crop/6902x3624+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Ff5%2Fc7%2F36c9adbb4446af9c71ae546c1753%2Fdepositphotos-776801192-xl.jpg&na.image_optimisation=0",
-      "publishedAt": "2025-01-12 16:00:00",
-      "content": "Two months shy of the fifth anniversary of COVID-19 being declared a global pandemic, the US has recorded its first human death as a result of avian influenza H5N1 infection. The unidentified Louisia\u2026 [+13998 chars]",
-      "retrievedAt": "2025-01-13 19:05:36.977135",
-      "internal_id": "d7213205bc7810dd1bb1123820446d4106b2264f21aacb1ab82b6b877009c879",
-      "publishedAtLabel": "Jan 12"
-    },
-    {
-      "id": 17371,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Metropoles.com",
-      "author": "Ravenna Alves",
-      "title": "Homem de 28 anos do Camboja morre de gripe avi\u00e1ria. Pa\u00eds apura caso",
-      "description": "De acordo com as autoridades de sa\u00fade do pa\u00eds, o homem criava aves em sua casa e havia cozinhado frangos doentes para se alimentar",
-      "url": "https://www.metropoles.com/saude/homem-28-camboja-morre-gripe-aviaria",
-      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/11/20102453/Gripe-aviaria-2.jpg",
-      "publishedAt": "2025-01-12 14:32:09",
-      "content": "Um homem de 28 anos, natural da prov\u00edncia de Kampong Cham, no Camboja, pa\u00eds localizado no sudeste da \u00c1sia, morreu na \u00faltima sexta-feira (10/1) em decorr\u00eancia da gripe avi\u00e1ria H5N1, informou o Minist\u00e9\u2026 [+1624 chars]",
-      "retrievedAt": "2025-01-13 19:05:37.043393",
-      "internal_id": "9ae40e03f2d31e85fc20aed4a347b9c952eea9e2af3bc32d8da0e3f22865fd12",
-      "publishedAtLabel": "Jan 12"
-    },
-    {
-      "id": 17373,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Lokmat.com",
-      "author": "\u0911\u0928\u0932\u093e\u0907\u0928 \u0932\u094b\u0915\u092e\u0924",
-      "title": "\u0928\u094b\u0930\u094b\u0935\u094d\u0939\u093e\u092f\u0930\u0938, \u092c\u0930\u094d\u0921 \u092b\u094d\u0932\u0942 \u0915\u0940 \u0915\u094b\u0930\u094b\u0928\u093e... \u0939\u093f\u0935\u093e\u0933\u094d\u092f\u093e\u0924 \u0915\u094b\u0923\u0924\u093e \u091c\u093e\u0938\u094d\u0924 \u0927\u094b\u0915\u093e\u0926\u093e\u092f\u0915 \u0906\u0923\u093f \u0924\u094b \u0915\u0938\u093e \u091f\u093e\u0933\u093e\u092f\u091a\u093e?",
-      "description": "health tips norovirus vs bird flu vs covid 19 which is more dangerous in winter - \u0939\u093f\u0935\u093e\u0933\u094d\u092f\u093e\u0924 \u092f\u093e \u0924\u093f\u0918\u093e\u0902\u092a\u0948\u0915\u0940 \u0915\u094b\u0923\u0924\u093e \u0906\u091c\u093e\u0930 \u091c\u093e\u0938\u094d\u0924 \u0927\u094b\u0915\u093e\u0926\u093e\u092f\u0915 \u0906\u0939\u0947 \u0906\u0923\u093f \u0924\u0947 \u0906\u091c\u093e\u0930 \u0915\u0938\u0947 \u091f\u093e\u0933\u093e\u092f\u091a\u0947 \u092f\u093e\u092c\u093e\u092c\u0924 \u091c\u093e\u0923\u0942\u0928 \u0918\u0947\u090a\u092f\u093e... - Latest Marathi News (\u092e\u0930\u093e\u0920\u0940 \u092c\u093e\u0924\u092e\u094d\u092f\u093e). Find Breaking Headlines, Current and La\u2026",
-      "url": "https://www.lokmat.com/sakhi/health/lifestyle-diseases/health-tips-norovirus-vs-bird-flu-vs-covid-19-which-is-more-dangerous-in-winter-a-a597/",
-      "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/images/1200x900/whatsapp-image-2025-01-12-at-4.16.55-pm_2025011374514.jpeg",
-      "publishedAt": "2025-01-12 11:05:28",
-      "content": ". , . . , . . . ... ? . . , , . . . . . . . ? . (WHO) , , H5N1 ( ) . % , - , .% % . , , , , , , , , , . . , , , , , , , , , , . . . ? - , . - . - . - . - . - , , , . - . - . \u2026 [+33 chars]",
-      "retrievedAt": "2025-01-13 19:05:37.154498",
-      "internal_id": "4cd14b9ed5ab9f7fa687124ae40806cfae88bf83a5fbc6f5c661b28db64994c6",
-      "publishedAtLabel": "Jan 12"
-    },
-    {
-      "id": 17374,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Abril.com.br",
-      "author": "Bruno Caniato",
-      "title": "Sa\u00fade falha em pontos sens\u00edveis e fragiliza a situa\u00e7\u00e3o de N\u00edsia Trindade",
-      "description": "O mais decepcionante para a administra\u00e7\u00e3o petista \u00e9 que a pasta vai mal exatamente onde prometeu brilhar: a vacina\u00e7\u00e3o",
-      "url": "https://veja.abril.com.br/politica/saude-falha-em-pontos-sensiveis-e-fragiliza-a-situacao-de-nisia-trindade",
-      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2025/01/1D-1-NISIA-TRINDADE-2024-12-a.jpg.jpg?quality=70&strip=info&crop=1&resize=1080,565",
-      "publishedAt": "2025-01-12 11:00:00",
-      "content": "F\u00e9rias: Assine a partir de 1,50/semanaFRACASSO- A\u00e7\u00e3o contra a dengue: o n\u00famero de casos quadruplicou em 2024 (Marcelo Camargo/Ag\u00eancia Brasil) Continua ap\u00f3s publicidade A gest\u00e3o da sa\u00fade da Presid\u00ean\u2026 [+8193 chars]",
-      "retrievedAt": "2025-01-13 19:05:37.432831",
-      "internal_id": "2dd9bd386fab5498bf5c3d9acb63bd565b0df5d0d32caf1ceb0e0c8f1b236c9c",
-      "publishedAtLabel": "Jan 12"
-    },
-    {
-      "id": 17372,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Jornada.com.mx",
-      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "title": "Llama la UNAM a vigilar la evoluci\u00f3n de la gripe aviar",
-      "description": "El riesgo para la salud p\u00fablica por la influenza aviar (H5N1) por el momento es bajo en el pa\u00eds, pero se prev\u00e9 que sea un tema destacado durante 2025, pues podr\u00eda afectar tanto el bienestar humano como el animal, e impactar en la producci\u00f3n de alimentos y su \u2026",
-      "url": "https://www.jornada.com.mx/2025/01/12/sociedad/027n2soc",
-      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "publishedAt": "2025-01-12 09:17:11",
-      "content": "Peri\u00f3dico La JornadaDomingo 12 de enero de 2025, p. 27 El riesgo para la salud p\u00fablica por la influenza aviar (H5N1) por el momento es bajo en el pa\u00eds, pero se prev\u00e9 que sea un tema destacado durant\u2026 [+1896 chars]",
-      "retrievedAt": "2025-01-13 19:05:37.097160",
-      "internal_id": "07c41e8d9171982712298a770a334e526b38155acc5322993295e1b60bd93e20",
       "publishedAtLabel": "Jan 12"
     }
   ]
