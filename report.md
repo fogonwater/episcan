@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 18
-- **Last harvest:** 2025-03-01 07:06
-- **Most recent article:** 2025-02-28 06:33:13
+- **New articles in last harvest:** 19
+- **Last harvest:** 2025-03-01 19:05
+- **Most recent article:** 2025-02-28 17:29:36
 
 ---
 
@@ -12,14 +12,14 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-3 | 25-4 | 25-5 | 25-6 | 25-7 | 25-8 | 25-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| h5n1 | 63 | 31 | 51 | 72 | 55 | 54 | 41 | 367 |
-| measles | 9 | 10 | 13 | 24 | 72 | 83 | 121 | 332 |
-| dengue | 29 | 37 | 24 | 34 | 37 | 57 | 24 | 242 |
-| mpox | 34 | 23 | 22 | 28 | 18 | 15 | 19 | 159 |
-| malaria | 18 | 19 | 30 | 25 | 12 | 7 | 9 | 120 |
+| h5n1 | 59 | 31 | 51 | 72 | 55 | 54 | 42 | 364 |
+| measles | 9 | 10 | 13 | 24 | 72 | 83 | 128 | 339 |
+| dengue | 28 | 37 | 24 | 34 | 37 | 57 | 28 | 245 |
+| mpox | 34 | 23 | 22 | 28 | 18 | 15 | 23 | 163 |
+| malaria | 18 | 19 | 30 | 25 | 12 | 7 | 11 | 122 |
 | hpai | 12 | 11 | 6 | 3 | 9 | 5 | 4 | 50 |
 | chikungunya | 7 | 10 | 9 | 8 | 5 | 3 | 7 | 49 |
-| meningitis | 2 | 3 | 8 | 2 | 12 | 11 | 4 | 42 |
+| meningitis | 2 | 3 | 8 | 2 | 12 | 11 | 5 | 43 |
 | rabies | 6 | 7 | 6 | 4 | 5 | 4 | 0 | 32 |
 | zika | 5 | 2 | 8 | 6 | 2 | 6 | 2 | 31 |
 | typhoid | 4 | 0 | 0 | 2 | 3 | 0 | 2 | 11 |
@@ -56,6 +56,14 @@ Source: [News API](https://newsapi.org/)
 - [Tebipenem pivoxil as an alternative to ceftriaxone for clinically non-responding children with shigellosis: a randomised non-inferiority trial protocol](https://bmjopen.bmj.com/content/15/2/e088449) (The BMJ)
 
 ## 25-9 (mpox)
+
+- [África: se mantiene la emergencia continental por mpox](https://www.montevideo.com.uy/Salud/Africa-se-mantiene-la-emergencia-continental-por-mpox-uc916381) (Montevideo.com.uy)
+
+- [ВОЗ подтвердила режим ЧС в здравоохранении в связи с оспой обезьян](https://vz.ru/news/2025/2/28/1317677.html) (Vz.ru)
+
+- [ВОЗ подтвердила режим ЧС в здравоохранении в связи с оспой обезьян](https://tass.ru/obschestvo/23271749) (Tass.ru)
+
+- [ВОЗ снова оставила оспу обезьян чрезвычайной ситуацией международного значения](https://nplus1.ru/news/2025/02/28/yet-still-emergency) (Nplus1.ru)
 
 - [سازمان جهانی بهداشت: آبله میمونی هنوز یک تهدید است](https://www.isna.ir/news/1403121006689/سازمان-جهانی-بهداشت-آبله-میمونی-هنوز-یک-تهدید-است) (Isna.ir)
 
@@ -97,6 +105,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-9 (meningitis)
 
+- [Un brote de una enfermedad desconocida en El Congo deja ya 53 fallecidos](https://www.eldiario.es/sociedad/brote-enfermedad-desconocida-congo-deja-53-fallecidos_1_12092398.html) (Eldiario.es)
+
 - [Kommende læge: Under totalt pres skal jeg svare på, om det bare en børnesygdom, eller det er livstruende meningitis](https://politiken.dk/debat/debatindlaeg/art10294585/Under-totalt-pres-skal-jeg-svare-p%C3%A5-om-det-bare-en-b%C3%B8rnesygdom-eller-det-er-livstruende-meningitis) (Politiken.dk)
 
 - [Rekrut mit Fieber in Wiener Spital im Koma](https://burgenland.orf.at/stories/3294970/) (Burgenland.orf.at)
@@ -106,6 +116,20 @@ Source: [News API](https://newsapi.org/)
 - [Father of girl who died with 'blood oozing from eyes' speaks out as jury decides hospital contributed to her death](https://www.ladbible.com/news/uk-news/sophie-ward-meningitis-inquest-father-219426-20250224) (LADbible)
 
 ## 25-9 (measles)
+
+- [Texas Measles Cases Rise to 146 In an Outbreak That Led to a Child’s Death](https://time.com/7262850/texas-measles-cases-rise-146-outbreak-child-died/) (Time)
+
+- [From Zeynep Tufekci, a reminder that people who get the measles “lose...](https://kottke.org/25/02/0046344-from-zeynep-tufekci-a-rem) (kottke.org)
+
+- [Mummy Pig is pregnant, and it's the good news Peppa Pig fans didn't know they needed](https://www.cbc.ca/news/entertainment/peppa-pig-mummy-pig-pregnant-1.7471193) (CBC News)
+
+- [RFK Jr. Not Concerned About First Measles Death In 10 Years. Hey, People Die, You Know?](https://www.wonkette.com/p/rfk-jr-not-concerned-about-first) (Wonkette.com)
+
+- [Texas records first US measles death in 10 years – a medical epidemiologist explains how to protect yourself and your community from this deadly, preventable disease](https://theconversation.com/texas-records-first-us-measles-death-in-10-years-a-medical-epidemiologist-explains-how-to-protect-yourself-and-your-community-from-this-deadly-preventable-disease-251004) (The Conversation Africa)
+
+- [The Measles Outbreak in Texas Is Why Vaccines Matter](https://www.scientificamerican.com/article/the-measles-outbreak-in-texas-is-why-vaccines-matter/) (Scientific American)
+
+- [As the Texas outbreak grows, how contagious is measles, really?](https://www.npr.org/sections/shots-health-news/2025/02/28/nx-s1-5312088/measles-texas-outbreak-contagious-spread) (NPR)
 
 - [CDC Statement on Measles Outbreak (CDC Newsroom)](https://www.memeorandum.com/250227/p176) (Memeorandum.com)
 
@@ -351,6 +375,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-9 (malaria)
 
+- [Trump suspende las ayudas a programas internacionales para luchar contra el VIH, la polio, la malaria o la tuberculosis](https://www.elespanol.com/ciencia/salud/20250228/trump-suspende-ayudas-programas-internacionales-luchar-vih-polio-malaria-tuberculosis/927657488_0.html) (Elespanol.com)
+
+- [Fortschritt bei Impfung durch Gentechnik](https://science.orf.at/stories/3229106/) (Science.orf.at)
+
 - [U.S. Terminates Funding for Polio, H.I.V., Malaria and Nutrition Programs Around the World (Stephanie Nolen/New York Times)](https://www.memeorandum.com/250227/p171) (Memeorandum.com)
 
 - [State Dept. says some life-saving efforts spared from massive USAID cuts](https://www.cbsnews.com/news/state-dept-massive-usaid-cuts/) (CBS News)
@@ -380,6 +408,8 @@ Source: [News API](https://newsapi.org/)
 - [話題を呼んだHumaneの「Ai Pin」、終焉を迎える](https://wired.jp/article/humane-ai-pin-will-become-e-waste-next-week/) (Wired.jp)
 
 ## 25-9 (h5n1)
+
+- [पक्षियों, इंसानों के बाद अब बिल्लियों में बर्ड फ्लू का मिला संक्रमण...बचाव के लिए रखें ये सावधानियां](https://www.aajtak.in/lifestyle/news/story/bird-flu-detected-in-cats-in-india-can-it-be-transmitted-to-humans-we-do-not-have-immunity-against-it-warn-scientists-know-the-early-signs-of-illness-and-how-to-stay-safe-from-h5n1-tvism-dskc-2177825-2025-02-28) (Aajtak.in)
 
 - [Neue Erkenntnisse zu H5N1: Was vor einem schweren Vogelgrippe-Verlauf schützen könnte](https://www.n-tv.de/wissen/Was-vor-einem-schweren-Vogelgrippe-Verlauf-schuetzen-koennte-article25593398.html) (N-tv.de)
 
@@ -464,6 +494,14 @@ Source: [News API](https://newsapi.org/)
 - [Francisco George: gripe H5N1 é ameaça de nova epidemia no horizonte](https://observador.pt/2025/02/23/francisco-george-gripe-h5n1-e-ameaca-de-nova-epidemia-no-horizonte/) (Observador.pt)
 
 ## 25-9 (dengue)
+
+- [Un hallazgo inquietante sobre el dengue pone en jaque los métodos de control](https://es.gizmodo.com/un-hallazgo-inquietante-sobre-el-dengue-pone-en-jaque-los-metodos-de-control-2000151842) (Gizmodo.com)
+
+- [High correlation between detection of dengue IgG from dried blood spots and serum using an indirect IgG ELISA assay: A validation study in Fortaleza, Brazil](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012880) (Plos.org)
+
+- [Read an extract from Michel Nieva’s science fiction novel Dengue Boy](https://www.newscientist.com/article/2470324-read-an-extract-from-michel-nievas-science-fiction-novel-dengue-boy/) (New Scientist)
+
+- [New Scientist Book Club: Why I chose a mosquito as my hero](https://www.newscientist.com/article/2470316-new-scientist-book-club-why-i-chose-a-mosquito-as-my-hero/) (New Scientist)
 
 - [Una investigación de científicos argentinos descubre que los mosquitos del dengue se volvieron resistentes a la fumigación gracias a una mutación genética](https://www.eleconomista.es/salud-bienestar/enfermedades/noticias/13243369/02/25/una-investigacion-de-cientificos-argentinos-descubre-que-los-mosquitos-del-dengue-se-volvieron-resistentes-a-la-fumigacion-gracias-a-una-mutacion-genetica.html) (Eleconomista.es)
 
@@ -3039,14 +3077,6 @@ Source: [News API](https://newsapi.org/)
 
 - [UNAM alerta sobre virus de influenza H5N1 y recomienda vigilarlo](https://www.milenio.com/politica/unam-recomienda-vigilar-virus-causante-de-la-gripe-aviar) (Milenio)
 
-- [First US human death from bird flu is more serious than you may think](https://newatlas.com/infectious-diseases/first-us-human-death-bird-flu/) (New Atlas)
-
-- [Homem de 28 anos do Camboja morre de gripe aviária. País apura caso](https://www.metropoles.com/saude/homem-28-camboja-morre-gripe-aviaria) (Metropoles.com)
-
-- [नोरोव्हायरस, बर्ड फ्लू की कोरोना... हिवाळ्यात कोणता जास्त धोकादायक आणि तो कसा टाळायचा?](https://www.lokmat.com/sakhi/health/lifestyle-diseases/health-tips-norovirus-vs-bird-flu-vs-covid-19-which-is-more-dangerous-in-winter-a-a597/) (Lokmat.com)
-
-- [Llama la UNAM a vigilar la evolución de la gripe aviar](https://www.jornada.com.mx/2025/01/12/sociedad/027n2soc) (Jornada.com.mx)
-
 ## 25-3 (dengue)
 
 - [Dengue: como usar o hipoclorito de sódio no combate ao Aedes aegypti](https://casa.abril.com.br/minha-casa/dengue-como-usar-o-hipoclorito-de-sodio-no-combate-ao-aedes-aegypti) (Abril.com.br)
@@ -3104,8 +3134,6 @@ Source: [News API](https://newsapi.org/)
 - [Dengue: SP tem 21 cidades em situação de emergência](https://www.terra.com.br/vida-e-estilo/saude/dengue-sp-tem-21-cidades-em-situacao-de-emergencia,cb9f0c74f749309f7f6f2dc0e1b1bc085pm97v74.html) (Terra.com.br)
 
 - [As dengue cases rise, researchers points to a simple solution: trash cleanup](https://news.stanford.edu/stories/2025/01/waste-reduction-a-key-defense-against-rising-dengue-cases) (Stanford.edu)
-
-- [Saúde falha em pontos sensíveis e fragiliza a situação de Nísia Trindade](https://veja.abril.com.br/politica/saude-falha-em-pontos-sensiveis-e-fragiliza-a-situacao-de-nisia-trindade) (Abril.com.br)
 
 ## 25-3 (chikungunya)
 

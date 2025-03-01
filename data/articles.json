@@ -1,8 +1,350 @@
 {
-  "last_updated": "2025-03-01 07:06",
-  "count_articles_total": 1416,
-  "count_articles_new": 18,
+  "last_updated": "2025-03-01 19:05",
+  "count_articles_total": 1430,
+  "count_articles_new": 19,
   "articles": [
+    {
+      "id": 18787,
+      "query": [
+        "measles"
+      ],
+      "source_id": "time",
+      "source_name": "Time",
+      "author": "JAMIE STENGLE / AP",
+      "title": "Texas Measles Cases Rise to 146 In an Outbreak That Led to a Child\u2019s Death",
+      "description": "The number of people with measles in Texas increased to 146 in an outbreak that led to the death of an unvaccinated school-aged child.",
+      "url": "https://time.com/7262850/texas-measles-cases-rise-146-outbreak-child-died/",
+      "urlToImage": "https://api.time.com/wp-content/uploads/2025/02/AP25058272640075.jpg?quality=85&w=1200&h=628&crop=1",
+      "publishedAt": "2025-02-28 17:29:36",
+      "content": "DALLAS The number of people with measles in Texas increased to 146 in an outbreak that led this week to the death of an unvaccinated school-aged child, health officials said Friday. The number of ca\u2026 [+2132 chars]",
+      "retrievedAt": "2025-03-01 19:05:39.495312",
+      "internal_id": "14c196d363b2549e533ca2dcf8543e242301ab9086ab9d0630cab17839f5d4da",
+      "publishedAtLabel": "Feb 28"
+    },
+    {
+      "id": 18789,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "kottke.org",
+      "author": "Jason Kottke",
+      "title": "From Zeynep Tufekci, a reminder that people who get the measles \u201close...",
+      "description": "From Zeynep Tufekci, a reminder that people who get the measles \u201close much of their immune memory\u201d, which leaves them",
+      "url": "https://kottke.org/25/02/0046344-from-zeynep-tufekci-a-rem",
+      "urlToImage": "",
+      "publishedAt": "2025-02-28 17:23:07",
+      "content": "\u00d7Hello! In order to comment or fave, you need to be a current kottke.org member. If you'd like to sign up for a membership to support the site and join the conversation, you can explore your option\u2026 [+404 chars]",
+      "retrievedAt": "2025-03-01 19:05:39.546368",
+      "internal_id": "962560dfb7e6116c8dcc669725cf8faef77de8d12dd4e5adedee269eb7a3aa67",
+      "publishedAtLabel": "Feb 28"
+    },
+    {
+      "id": 18791,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Mummy Pig is pregnant, and it's the good news Peppa Pig fans didn't know they needed",
+      "description": "Mummy Pig, Peppa Pig's mom on the beloved U.K. children's cartoon, is pregnant. After 21 years as a family of four, Mummy and Daddy Pig will break the news to Peppa and George in a new episode of Peppa Pig on March 31.",
+      "url": "https://www.cbc.ca/news/entertainment/peppa-pig-mummy-pig-pregnant-1.7471193",
+      "urlToImage": "https://i.cbc.ca/1.7471267.1740754070!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/peppa-pig.jpg?im=Resize%3D620",
+      "publishedAt": "2025-02-28 16:24:22",
+      "content": "We've needed some good news, haven't we? What with the politics and the polarization and the measles and the bird flu and the tariffs. And if the sheer number of TikTok videos about taking a bath wi\u2026 [+3085 chars]",
+      "retrievedAt": "2025-03-01 19:05:39.853589",
+      "internal_id": "c94aa5af7e64e69dc7e788debe20c2428a8f93202535842460951f2d54034198",
+      "publishedAtLabel": "Feb 28"
+    },
+    {
+      "id": 18798,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Eldiario.es",
+      "author": "EFE",
+      "title": "Un brote de una enfermedad desconocida en El Congo deja ya 53 fallecidos",
+      "description": "Las investigaciones han descartado el \u00c9bola y el Marburgo como causantes del brote, mientras los expertos eval\u00faan otras posibles causas, como malaria, fiebre hemorr\u00e1gica viral, fiebre tifoidea, meningitis o intoxicaci\u00f3n alimentaria Preguntas y respue\u2026",
+      "url": "https://www.eldiario.es/sociedad/brote-enfermedad-desconocida-congo-deja-53-fallecidos_1_12092398.html",
+      "urlToImage": "https://static.eldiario.es/clip/2a2558a7-3a0a-4d8e-bb82-86a31ac39558_facebook-watermarked-aspect-ratio_default_0.jpg",
+      "publishedAt": "2025-02-28 16:16:58",
+      "content": "Una enfermedad desconocida se extiende en la provincia de \u00c9quateur, en la Rep\u00fablica Democr\u00e1tica del Congo (RDC), con al menos 53 fallecidos y 431 casos reportados en las zonas sanitarias de Bolomba y\u2026 [+2454 chars]",
+      "retrievedAt": "2025-03-01 19:05:42.921328",
+      "internal_id": "95617a054b14402d1131c1b7d1837ba08a7feadbc4b11b2e72fb83a64dcab113",
+      "publishedAtLabel": "Feb 28"
+    },
+    {
+      "id": 18804,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "\u00c1frica: se mantiene la emergencia continental por mpox",
+      "description": "El creciente n\u00famero de casos ha hecho que la Uni\u00f3n Africana sostenga la medida.",
+      "url": "https://www.montevideo.com.uy/Salud/Africa-se-mantiene-la-emergencia-continental-por-mpox-uc916381",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202408/_W933_80/891795.jpg",
+      "publishedAt": "2025-02-28 15:50:00",
+      "content": "La agencia de salud p\u00fablica de la Uni\u00f3n Africana (UA) anunci\u00f3 este jueves que mantiene la declaraci\u00f3n de emergencia de salud p\u00fablica continental por mpox (viruela s\u00edmica) ante el aumento de casos, \u2026 [+3295 chars]",
+      "retrievedAt": "2025-03-01 19:05:44.793480",
+      "internal_id": "c2548f9eff0c41b298749b13ccd1e74dbcc92d6ce40c262a87335cfbce93d5ae",
+      "publishedAtLabel": "Feb 28"
+    },
+    {
+      "id": 18794,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Gizmodo.com",
+      "author": "Thomas Handley",
+      "title": "Un hallazgo inquietante sobre el dengue pone en jaque los m\u00e9todos de control",
+      "description": "Una investigaci\u00f3n reciente descubri\u00f3 que los mosquitos que transmiten el dengue en Am\u00e9rica Latina han desarrollado un mecanismo inesperado que los hace pr\u00e1cticamente inmunes a los insecticidas m\u00e1s utilizados. \u00bfC\u00f3mo ocurri\u00f3 esto y qu\u00e9 implicaciones tiene para \u2026",
+      "url": "https://es.gizmodo.com/un-hallazgo-inquietante-sobre-el-dengue-pone-en-jaque-los-metodos-de-control-2000151842",
+      "urlToImage": "https://es.gizmodo.com/app/uploads/2025/02/dengue.jpg",
+      "publishedAt": "2025-02-28 14:11:39",
+      "content": "Los casos de dengue en Am\u00e9rica Latina han ido en aumento en los \u00faltimos a\u00f1os, y una de las principales estrategias para controlar su propagaci\u00f3n ha sido la fumigaci\u00f3n con insecticidas. Sin embargo, u\u2026 [+3422 chars]",
+      "retrievedAt": "2025-03-01 19:05:42.021696",
+      "internal_id": "16a96428b4e7a4a9d9ede62c1e708a3139f5546d558676b07f9ffd4f85419508",
+      "publishedAtLabel": "Feb 28"
+    },
+    {
+      "id": 18792,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Wonkette.com",
+      "author": "Doktor Zoom",
+      "title": "RFK Jr. Not Concerned About First Measles Death In 10 Years. Hey, People Die, You Know?",
+      "description": "Plus ebola and TB and whatnot. It's all fine!",
+      "url": "https://www.wonkette.com/p/rfk-jr-not-concerned-about-first",
+      "urlToImage": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd175aaec-0022-421d-8268-35f453e0952a_1195x698.jpeg",
+      "publishedAt": "2025-02-28 14:02:37",
+      "content": "On Wednesday, an unvaccinated child in Texas became the first person to die from measles since 2015. Texas health officials released few details about the case except that the child had been hospital\u2026 [+10177 chars]",
+      "retrievedAt": "2025-03-01 19:05:39.884071",
+      "internal_id": "e6a3141f0284e8aa84153698815f8b29a4fb4375c4f97404d630b5f36aa74eb5",
+      "publishedAtLabel": "Feb 28"
+    },
+    {
+      "id": 18795,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Monica Zahreddine, Beatriz Parra, Laura Pierce, Danielle Ferreira de Oliveira, Mabel Carabali, Katia Charland, Kellyanne Abreu, Val\u00e9ry Ridde, Danielle Malta Lima, Kate Zinszer",
+      "title": "High correlation between detection of dengue IgG from dried blood spots and serum using an indirect IgG ELISA assay: A validation study in Fortaleza, Brazil",
+      "description": "Author summary Dengue is a viral disease spread by Aedes mosquitoes in tropical and subtropical regions with over 40% of the world\u2019s population considered at-risk of infection. Traditional methods of assessing prior dengue infection can be costly and invasive\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012880",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012880.g004&size=inline",
+      "publishedAt": "2025-02-28 14:00:00",
+      "content": "Abstract Background Dengue virus (DENV) seroprevalence studies often rely on Enzyme-Linked Immunosorbent Assay (ELISA) testing of serum samples, but ELISA testing of dried blood spot (DBS) samples \u2026 [+33393 chars]",
+      "retrievedAt": "2025-03-01 19:05:42.115332",
+      "internal_id": "c2535c799f81e9c01717f4844da20b4d9396e7e610bb4f8e276f76cf12fd27c5",
+      "publishedAtLabel": "Feb 28"
+    },
+    {
+      "id": 18790,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Daniel Pastula, Professor of Neurology, Medicine (Infectious Diseases), and Epidemiology, University of Colorado Anschutz Medical Campus",
+      "title": "Texas records first US measles death in 10 years \u2013 a medical epidemiologist explains how to protect yourself and your community from this deadly, preventable disease",
+      "description": "As public health officials try to tame the outbreak, declining vaccination rates draw concern.",
+      "url": "https://theconversation.com/texas-records-first-us-measles-death-in-10-years-a-medical-epidemiologist-explains-how-to-protect-yourself-and-your-community-from-this-deadly-preventable-disease-251004",
+      "urlToImage": "https://images.theconversation.com/files/652117/original/file-20250227-32-1nrk27.jpg?ixlib=rb-4.1.0&rect=0%2C144%2C4572%2C2286&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2025-02-28 13:46:28",
+      "content": "Young children are especially vulnerable to measles. Bilanol via Getty Images On Feb. 26, 2025, Texas health officials announced the death of a child in a measles outbreak \u2013 the first measles death \u2026 [+8802 chars]",
+      "retrievedAt": "2025-03-01 19:05:39.839687",
+      "internal_id": "e6a499b24d79b788d0a6bee74f4d117bf9cccf0fa84674989c31efa27661f402",
+      "publishedAtLabel": "Feb 28"
+    },
+    {
+      "id": 18800,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Elespanol.com",
+      "author": "I. S\u00e1nchez",
+      "title": "Trump suspende las ayudas a programas internacionales para luchar contra el VIH, la polio, la malaria o la tuberculosis",
+      "description": "Estados Unidos utiliza un mensaje de correo electr\u00f3nico para cancelar la financiaci\u00f3n a m\u00e1s de 5.800 programas de ayuda humanitaria. M\u00e1s informaci\u00f3n: Los nuevos casos de VIH-SIDA diagnosticados el a\u00f1o pasado aumentaron un 12% en Europa, y m\u00e1s de la mitad eran\u2026",
+      "url": "https://www.elespanol.com/ciencia/salud/20250228/trump-suspende-ayudas-programas-internacionales-luchar-vih-polio-malaria-tuberculosis/927657488_0.html",
+      "urlToImage": "https://s1.elespanol.com/2025/02/28/actualidad/927667543_253493849_1706x960.jpg",
+      "publishedAt": "2025-02-28 13:04:08",
+      "content": "El gobierno de Donald Trump contin\u00faa su cruzada contra los proyectos internacionales. Esta semana ha puesto fin a la financiaci\u00f3n de ONUSIDA, el proyecto conjunto de las Naciones Unidas contra el VIH\u2026 [+5248 chars]",
+      "retrievedAt": "2025-03-01 19:05:43.447501",
+      "internal_id": "ecef75bf41c21ccde6ba36a097473b26fcc224006d42657f63f7c66ebca4fa4a",
+      "publishedAtLabel": "Feb 28"
+    },
+    {
+      "id": 18788,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Scientific American",
+      "author": "Megha Satyanarayana",
+      "title": "The Measles Outbreak in Texas Is Why Vaccines Matter",
+      "description": "Opting against vaccines may uphold ideas of personal freedom, but it has doomed the county at the center of the Texas measles outbreak",
+      "url": "https://www.scientificamerican.com/article/the-measles-outbreak-in-texas-is-why-vaccines-matter/",
+      "urlToImage": "https://static.scientificamerican.com/dam/m/3a524cf2f2eefda6/original/measles-rash.jpg?m=1740693048.085&w=1200",
+      "publishedAt": "2025-02-28 13:00:00",
+      "content": "A school-age child with measles died in Texas this week, making it the first measles death in the U.S. in 10 years. This child was one of dozens of unvaccinated kids infected with measles in a multi-\u2026 [+6171 chars]",
+      "retrievedAt": "2025-03-01 19:05:39.532504",
+      "internal_id": "076cf458e7f3a9468f21c1aab20566b01ad36bf0e4cc2fb13b8b14a51fb7c496",
+      "publishedAtLabel": "Feb 28"
+    },
+    {
+      "id": 18786,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Maria Godoy",
+      "title": "As the Texas outbreak grows, how contagious is measles, really?",
+      "description": "Vaccination eliminated measles from the U.S. 25 years ago. But it can still spread in pockets where vaccination rates are low, like the west Texas county with a current outbreak. Here's how fast.",
+      "url": "https://www.npr.org/sections/shots-health-news/2025/02/28/nx-s1-5312088/measles-texas-outbreak-contagious-spread",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1373x772+489+441/resize/1400/quality/100/format/png/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3a%2Fe1%2F0422be2041e4a5e84270885c5705%2Fmeasles-contagious.png",
+      "publishedAt": "2025-02-28 12:00:00",
+      "content": "As an outbreak of measles continues to spread in west Texas and New Mexico, many people are wondering, how bad could it get? Well, the first thing to know is that measles is one of the most contagio\u2026 [+5987 chars]",
+      "retrievedAt": "2025-03-01 19:05:39.456276",
+      "internal_id": "e2e2a5d707496ff82ca96f7f1b6403c33df96f0b0bbc4376e4aaad75e22cdea5",
+      "publishedAtLabel": "Feb 28"
+    },
+    {
+      "id": 18802,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Vz.ru",
+      "author": null,
+      "title": "\u0412\u041e\u0417 \u043f\u043e\u0434\u0442\u0432\u0435\u0440\u0434\u0438\u043b\u0430 \u0440\u0435\u0436\u0438\u043c \u0427\u0421 \u0432 \u0437\u0434\u0440\u0430\u0432\u043e\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u0438 \u0432 \u0441\u0432\u044f\u0437\u0438 \u0441 \u043e\u0441\u043f\u043e\u0439 \u043e\u0431\u0435\u0437\u044c\u044f\u043d",
+      "description": "\u0420\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0435\u043d\u0438\u0435 \u043e\u0441\u043f\u044b \u043e\u0431\u0435\u0437\u044c\u044f\u043d \u0441\u043e\u0445\u0440\u0430\u043d\u044f\u0435\u0442 \u0441\u0442\u0430\u0442\u0443\u0441 \u0447\u0440\u0435\u0437\u0432\u044b\u0447\u0430\u0439\u043d\u043e\u0439 \u0441\u0438\u0442\u0443\u0430\u0446\u0438\u0438 \u0432 \u043c\u0438\u0440\u043e\u0432\u043e\u043c \u0437\u0434\u0440\u0430\u0432\u043e\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u0438, \u0447\u0442\u043e \u0431\u044b\u043b\u043e \u043f\u043e\u0434\u0442\u0432\u0435\u0440\u0436\u0434\u0435\u043d\u043e \u0440\u0435\u0448\u0435\u043d\u0438\u0435\u043c \u0412\u041e\u0417 \u043f\u043e\u0441\u043b\u0435 \u0437\u0430\u0441\u0435\u0434\u0430\u043d\u0438\u044f \u043a\u043e\u043c\u0438\u0442\u0435\u0442\u0430 \u043f\u043e mpox. \u0412\u0441\u0435\u043c\u0438\u0440\u043d\u0430\u044f \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u044f \u0437\u0434\u0440\u0430\u0432\u043e\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f (\u0412\u041e\u0417) \u043f\u043e\u0434\u0442\u0432\u0435\u0440\u0434\u0438\u043b\u0430, \u0447\u0442\u043e \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0435\u043d\u0438\u0435 \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0430\u043d\u0438\u044f mpox, \u2026",
+      "url": "https://vz.ru/news/2025/2/28/1317677.html",
+      "urlToImage": "https://img.vz.ru/upimg/soc/soc_1317677.png",
+      "publishedAt": "2025-02-28 11:17:34",
+      "content": "() , mpox, , , . , , mpox. mpox 25 . , . , . , , , , . - , 21% , . , . 2 6 . , . . , . , .",
+      "retrievedAt": "2025-03-01 19:05:44.724258",
+      "internal_id": "0cdd77e8e23b3a83c961629269ef457b4f4565d40098f95e094344e1948b8def",
+      "publishedAtLabel": "Feb 28"
+    },
+    {
+      "id": 18801,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Tass.ru",
+      "author": null,
+      "title": "\u0412\u041e\u0417 \u043f\u043e\u0434\u0442\u0432\u0435\u0440\u0434\u0438\u043b\u0430 \u0440\u0435\u0436\u0438\u043c \u0427\u0421 \u0432 \u0437\u0434\u0440\u0430\u0432\u043e\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u0438 \u0432 \u0441\u0432\u044f\u0437\u0438 \u0441 \u043e\u0441\u043f\u043e\u0439 \u043e\u0431\u0435\u0437\u044c\u044f\u043d",
+      "description": "\u0413\u0435\u043d\u0434\u0438\u0440\u0435\u043a\u0442\u043e\u0440 \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u0438 \u0422\u0435\u0434\u0440\u043e\u0441 \u0410\u0434\u0430\u043d\u043e\u043c \u0413\u0435\u0431\u0440\u0435\u0439\u0435\u0441\u0443\u0441 \u0441\u043e\u0433\u043b\u0430\u0441\u0438\u043b\u0441\u044f \u0441 \u0440\u0435\u043a\u043e\u043c\u0435\u043d\u0434\u0430\u0446\u0438\u0435\u0439 \u043a\u043e\u043c\u0438\u0442\u0435\u0442\u0430 \u043f\u043e mpox \u043e \u0442\u043e\u043c, \u0447\u0442\u043e \u0432\u0441\u043f\u044b\u0448\u043a\u0430 \u044d\u0442\u043e\u0433\u043e \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0430\u043d\u0438\u044f \"\u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0430\u0435\u0442 \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u043e\u0432\u0430\u0442\u044c \u043a\u0440\u0438\u0442\u0435\u0440\u0438\u044f\u043c \u0447\u0440\u0435\u0437\u0432\u044b\u0447\u0430\u0439\u043d\u043e\u0439 \u0441\u0438\u0442\u0443\u0430\u0446\u0438\u0438\"",
+      "url": "https://tass.ru/obschestvo/23271749",
+      "urlToImage": "https://cdn-storage-media.tass.ru/thumb/ru/obschestvo/23271749?u=2025-02-28T10:34:53.108381",
+      "publishedAt": "2025-02-28 10:34:53",
+      "content": ", 28 . //. mpox (\"\", ) , , 14 2024 , . (). mpox , \" , \", . mpox 25 . - . , , , , , . \" , , \". , 1 2022 31 2024 128 124 753 mpox, 272 . 2022 11 2023 . , 14 - . , 1 2024 2 21 113 mpox, 70 . Mpox\u2026 [+14 chars]",
+      "retrievedAt": "2025-03-01 19:05:44.697970",
+      "internal_id": "8217206c65216a03949efc02eeac6e00784538f7c622aebce89254a0f5cad216",
+      "publishedAtLabel": "Feb 28"
+    },
+    {
+      "id": 18796,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "new-scientist",
+      "source_name": "New Scientist",
+      "author": "Michel Nieva",
+      "title": "Read an extract from Michel Nieva\u2019s science fiction novel Dengue Boy",
+      "description": "In this passage from Dengue Boy, the latest read for the New Scientist Book Club, we get an insight into life for Michel Nieva\u2019s mosquito protagonist \u2013 and the drowned future world she inhabits",
+      "url": "https://www.newscientist.com/article/2470324-read-an-extract-from-michel-nievas-science-fiction-novel-dengue-boy/",
+      "urlToImage": "https://images.newscientist.com/wp-content/uploads/2025/02/28104411/sei241813763.jpg",
+      "publishedAt": "2025-02-28 10:13:09",
+      "content": "Michel Nieva\u2019s Dengue Boy is set on a drowned future Earth Alamy Stock Photo Dead, you mean? Spread-eagle on that strange white surface which lay beneath the inclement Antarctic sun, Dengue Destro\u2026 [+10304 chars]",
+      "retrievedAt": "2025-03-01 19:05:42.160119",
+      "internal_id": "bf3d173cbbc005da0cd110d7a6b63d6e663f1c7c7e4398db97af725d7e5eedfc",
+      "publishedAtLabel": "Feb 28"
+    },
+    {
+      "id": 18797,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "new-scientist",
+      "source_name": "New Scientist",
+      "author": "Michel Nieva",
+      "title": "New Scientist Book Club: Why I chose a mosquito as my hero",
+      "description": "Michel Nieva, the author of the latest read for the New Scientist Book Club, Dengue Boy, on his story of a drowned, pandemic-struck future Earth \u2013 and his unusual protagonist",
+      "url": "https://www.newscientist.com/article/2470316-new-scientist-book-club-why-i-chose-a-mosquito-as-my-hero/",
+      "urlToImage": "https://images.newscientist.com/wp-content/uploads/2025/02/28092623/sei241390316.jpg",
+      "publishedAt": "2025-02-28 09:45:19",
+      "content": "An unusual-looking hero Alamy Stock Photo The idea that the hero of Dengue Boy would be a mosquito emerged in 2020, during the peak of the covid-19 pandemic, when a dengue outbreak exploded in my h\u2026 [+4329 chars]",
+      "retrievedAt": "2025-03-01 19:05:42.167886",
+      "internal_id": "a71cb259e4ba132f50394d25ca1b7382110aa4a2a969dc7119d19d507bdfa6c9",
+      "publishedAtLabel": "Feb 28"
+    },
+    {
+      "id": 18799,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Science.orf.at",
+      "author": "ORF.at",
+      "title": "Fortschritt bei Impfung durch Gentechnik",
+      "description": "Ein Forschungsteam der Universit\u00e4t Bern in der Schweiz ist der Entwicklung einer wirksamen Malaria-Impfung einen Schritt n\u00e4her gekommen. Der Malaria-Parasit wurde gentechnisch so ver\u00e4ndert, dass er keine Malaria ausl\u00f6sen kann. Bis die Impfung f\u00fcr Menschen ein\u2026",
+      "url": "https://science.orf.at/stories/3229106/",
+      "urlToImage": "https://ibs.orf.at/science?image=https%3A%2F%2Ftubestatic.orf.at%2Fmims%2F2025%2F09%2F72%2Fcrops%2Fw%3D1200%2Ch%3D627%2Cq%3D75%2F2537135_master_972372_forscher_kommen_wirksamer_malaria-impfung_naeher_.jpg%3Fs%3Df47f488c9c3415e3abdccb9d93a48c030ac37202",
+      "publishedAt": "2025-02-28 08:57:32",
+      "content": "K\u00fcnftig k\u00f6nnte der geschw\u00e4chte Parasit als Lebendimpfstoff eingesetzt werden, wie der Schweizerische Nationalfonds (SNF) mitteilte. Getestet wurde er an M\u00e4usen. Bei diesen zeigte er Wirkung, hie\u00df es \u2026 [+1480 chars]",
+      "retrievedAt": "2025-03-01 19:05:43.439179",
+      "internal_id": "063cbbcabcf98d4fdfa23d932c895b3e451a18189b7a232531779d96b9e0ae50",
+      "publishedAtLabel": "Feb 28"
+    },
+    {
+      "id": 18793,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Aajtak.in",
+      "author": "\u0906\u091c\u0924\u0915 \u0932\u093e\u0907\u092b\u0938\u094d\u091f\u093e\u0907\u0932 \u0921\u0947\u0938\u094d\u0915",
+      "title": "\u092a\u0915\u094d\u0937\u093f\u092f\u094b\u0902, \u0907\u0902\u0938\u093e\u0928\u094b\u0902 \u0915\u0947 \u092c\u093e\u0926 \u0905\u092c \u092c\u093f\u0932\u094d\u0932\u093f\u092f\u094b\u0902 \u092e\u0947\u0902 \u092c\u0930\u094d\u0921 \u092b\u094d\u0932\u0942 \u0915\u093e \u092e\u093f\u0932\u093e \u0938\u0902\u0915\u094d\u0930\u092e\u0923...\u092c\u091a\u093e\u0935 \u0915\u0947 \u0932\u093f\u090f \u0930\u0916\u0947\u0902 \u092f\u0947 \u0938\u093e\u0935\u0927\u093e\u0928\u093f\u092f\u093e\u0902",
+      "description": "\u091b\u093f\u0902\u0926\u0935\u093e\u0921\u093c\u093e (\u092e\u0927\u094d\u092f \u092a\u094d\u0930\u0926\u0947\u0936) \u092e\u0947\u0902 \u092a\u093e\u0932\u0924\u0942 \u092c\u093f\u0932\u094d\u0932\u093f\u092f\u094b\u0902 \u092e\u0947\u0902 \u092c\u0930\u094d\u0921 \u092b\u094d\u0932\u0942 (H5N1) \u0915\u0947 \u092e\u093e\u092e\u0932\u0947 \u0915\u0940 \u092a\u0941\u0937\u094d\u091f\u093f \u0939\u0941\u0908 \u0939\u0948 \u091c\u093f\u0938\u0938\u0947 \u0938\u094d\u0935\u093e\u0938\u094d\u0925\u094d\u092f \u0935\u093f\u092d\u093e\u0917 \u0905\u0932\u0930\u094d\u091f \u0939\u094b \u0917\u092f\u093e \u0939\u0948. \u0939\u093e\u0932\u093e\u0902\u0915\u093f, \u0907\u0938\u0915\u0947 \u0907\u0902\u0938\u093e\u0928\u094b\u0902 \u092e\u0947\u0902 \u092b\u0948\u0932\u0928\u0947 \u0915\u0940 \u0938\u0902\u092d\u093e\u0935\u0928\u093e \u0915\u093e\u092b\u0940 \u0915\u092e \u0939\u0948 \u0932\u0947\u0915\u093f\u0928 \u092b\u093f\u0930 \u092d\u0940 \u0907\u0938\u0938\u0947 \u092c\u091a\u093e\u0935 \u0915\u0947 \u0932\u093f\u090f \u0915\u094d\u092f\u093e \u0938\u0941\u0930\u0915\u094d\u0937\u093e \u092c\u0930\u0924\u0928\u0940 \u091a\u093e\u0939\u093f\u090f, \u0907\u0938 \u092c\u093e\u0930\u0947 \u092e\u0947\u0902 \u0906\u0930\u094d\u091f\u093f\u0915\u0932\u2026",
+      "url": "https://www.aajtak.in/lifestyle/news/story/bird-flu-detected-in-cats-in-india-can-it-be-transmitted-to-humans-we-do-not-have-immunity-against-it-warn-scientists-know-the-early-signs-of-illness-and-how-to-stay-safe-from-h5n1-tvism-dskc-2177825-2025-02-28",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202502/67c13c51a9228-bird-flue-in-cats-283211810-16x9.jpg",
+      "publishedAt": "2025-02-28 07:45:54",
+      "content": "Bird flu detected in cats in India: . (H5N1) . , H5N1 . , . 2.3.2.1a . () . , , . , ' , . , , , . . - , . .' ? , ' 1996 , . . . H5N1 . .' () , . . . . (H5N1) () . \u2026 [+73 chars]",
+      "retrievedAt": "2025-03-01 19:05:41.259353",
+      "internal_id": "47126c9c8a1586a36e54ff95b97ea5be972564b5e5337400974621ec385cd21c",
+      "publishedAtLabel": "Feb 28"
+    },
+    {
+      "id": 18803,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Nplus1.ru",
+      "author": "\u041e\u043b\u0435\u0433 \u041b\u0438\u0449\u0443\u043a",
+      "title": "\u0412\u041e\u0417 \u0441\u043d\u043e\u0432\u0430 \u043e\u0441\u0442\u0430\u0432\u0438\u043b\u0430 \u043e\u0441\u043f\u0443 \u043e\u0431\u0435\u0437\u044c\u044f\u043d \u0447\u0440\u0435\u0437\u0432\u044b\u0447\u0430\u0439\u043d\u043e\u0439 \u0441\u0438\u0442\u0443\u0430\u0446\u0438\u0435\u0439 \u043c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u043e\u0433\u043e \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u044f",
+      "description": "\u0412\u041e\u0417 \u0441\u043d\u043e\u0432\u0430 \u043e\u0441\u0442\u0430\u0432\u0438\u043b\u0430 \u043e\u0441\u043f\u0443 \u043e\u0431\u0435\u0437\u044c\u044f\u043d \u0447\u0440\u0435\u0437\u0432\u044b\u0447\u0430\u0439\u043d\u043e\u0439 \u0441\u0438\u0442\u0443\u0430\u0446\u0438\u0435\u0439 \u043c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u043e\u0433\u043e \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u044f",
+      "url": "https://nplus1.ru/news/2025/02/28/yet-still-emergency",
+      "urlToImage": "https://minio.nplus1.ru/app-images/997532/67c0e6970b66a_cover_share.jpg",
+      "publishedAt": "2025-02-28 07:23:00",
+      "content": "2024 , (, mpox ) , . . , , . 2024 . .",
+      "retrievedAt": "2025-03-01 19:05:44.737874",
+      "internal_id": "6684fe299f6e5e5ea7116cc282f37e8baae7c3d11740381883718719c496d7fd",
+      "publishedAtLabel": "Feb 28"
+    },
     {
       "id": 18783,
       "query": [
@@ -25443,96 +25785,6 @@
       "content": "La Universidad Nacional Aut\u00f3noma de M\u00e9xico (UNAM) advirti\u00f3 que, aunque el riesgo para la salud p\u00fablica del pa\u00eds debido al virus de influenza H5N1 es bajo, se prev\u00e9 que sea un tema relevante durante e\u2026 [+4785 chars]",
       "retrievedAt": "2025-01-14 07:06:12.760466",
       "internal_id": "baaa0db7725aec9011864c3d9e85a14527a4a4c780b53a663c2a5434df143776",
-      "publishedAtLabel": "Jan 12"
-    },
-    {
-      "id": 17370,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "New Atlas",
-      "author": "Bronwyn Thompson",
-      "title": "First US human death from bird flu is more serious than you may think",
-      "description": "Two months shy of the fifth anniversary of COVID-19 being declared a global pandemic, the US has recorded its first human death as a result of avian influenza H5N1 infection. The unidentified Louisiana man contracted the virus through contact with infected wi\u2026",
-      "url": "https://newatlas.com/infectious-diseases/first-us-human-death-bird-flu/",
-      "urlToImage": "https://assets.newatlas.com/dims4/default/b972f69/2147483647/strip/true/crop/6902x3624+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Ff5%2Fc7%2F36c9adbb4446af9c71ae546c1753%2Fdepositphotos-776801192-xl.jpg&na.image_optimisation=0",
-      "publishedAt": "2025-01-12 16:00:00",
-      "content": "Two months shy of the fifth anniversary of COVID-19 being declared a global pandemic, the US has recorded its first human death as a result of avian influenza H5N1 infection. The unidentified Louisia\u2026 [+13998 chars]",
-      "retrievedAt": "2025-01-13 19:05:36.977135",
-      "internal_id": "d7213205bc7810dd1bb1123820446d4106b2264f21aacb1ab82b6b877009c879",
-      "publishedAtLabel": "Jan 12"
-    },
-    {
-      "id": 17371,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Metropoles.com",
-      "author": "Ravenna Alves",
-      "title": "Homem de 28 anos do Camboja morre de gripe avi\u00e1ria. Pa\u00eds apura caso",
-      "description": "De acordo com as autoridades de sa\u00fade do pa\u00eds, o homem criava aves em sua casa e havia cozinhado frangos doentes para se alimentar",
-      "url": "https://www.metropoles.com/saude/homem-28-camboja-morre-gripe-aviaria",
-      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/11/20102453/Gripe-aviaria-2.jpg",
-      "publishedAt": "2025-01-12 14:32:09",
-      "content": "Um homem de 28 anos, natural da prov\u00edncia de Kampong Cham, no Camboja, pa\u00eds localizado no sudeste da \u00c1sia, morreu na \u00faltima sexta-feira (10/1) em decorr\u00eancia da gripe avi\u00e1ria H5N1, informou o Minist\u00e9\u2026 [+1624 chars]",
-      "retrievedAt": "2025-01-13 19:05:37.043393",
-      "internal_id": "9ae40e03f2d31e85fc20aed4a347b9c952eea9e2af3bc32d8da0e3f22865fd12",
-      "publishedAtLabel": "Jan 12"
-    },
-    {
-      "id": 17373,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Lokmat.com",
-      "author": "\u0911\u0928\u0932\u093e\u0907\u0928 \u0932\u094b\u0915\u092e\u0924",
-      "title": "\u0928\u094b\u0930\u094b\u0935\u094d\u0939\u093e\u092f\u0930\u0938, \u092c\u0930\u094d\u0921 \u092b\u094d\u0932\u0942 \u0915\u0940 \u0915\u094b\u0930\u094b\u0928\u093e... \u0939\u093f\u0935\u093e\u0933\u094d\u092f\u093e\u0924 \u0915\u094b\u0923\u0924\u093e \u091c\u093e\u0938\u094d\u0924 \u0927\u094b\u0915\u093e\u0926\u093e\u092f\u0915 \u0906\u0923\u093f \u0924\u094b \u0915\u0938\u093e \u091f\u093e\u0933\u093e\u092f\u091a\u093e?",
-      "description": "health tips norovirus vs bird flu vs covid 19 which is more dangerous in winter - \u0939\u093f\u0935\u093e\u0933\u094d\u092f\u093e\u0924 \u092f\u093e \u0924\u093f\u0918\u093e\u0902\u092a\u0948\u0915\u0940 \u0915\u094b\u0923\u0924\u093e \u0906\u091c\u093e\u0930 \u091c\u093e\u0938\u094d\u0924 \u0927\u094b\u0915\u093e\u0926\u093e\u092f\u0915 \u0906\u0939\u0947 \u0906\u0923\u093f \u0924\u0947 \u0906\u091c\u093e\u0930 \u0915\u0938\u0947 \u091f\u093e\u0933\u093e\u092f\u091a\u0947 \u092f\u093e\u092c\u093e\u092c\u0924 \u091c\u093e\u0923\u0942\u0928 \u0918\u0947\u090a\u092f\u093e... - Latest Marathi News (\u092e\u0930\u093e\u0920\u0940 \u092c\u093e\u0924\u092e\u094d\u092f\u093e). Find Breaking Headlines, Current and La\u2026",
-      "url": "https://www.lokmat.com/sakhi/health/lifestyle-diseases/health-tips-norovirus-vs-bird-flu-vs-covid-19-which-is-more-dangerous-in-winter-a-a597/",
-      "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/images/1200x900/whatsapp-image-2025-01-12-at-4.16.55-pm_2025011374514.jpeg",
-      "publishedAt": "2025-01-12 11:05:28",
-      "content": ". , . . , . . . ... ? . . , , . . . . . . . ? . (WHO) , , H5N1 ( ) . % , - , .% % . , , , , , , , , , . . , , , , , , , , , , . . . ? - , . - . - . - . - . - , , , . - . - . \u2026 [+33 chars]",
-      "retrievedAt": "2025-01-13 19:05:37.154498",
-      "internal_id": "4cd14b9ed5ab9f7fa687124ae40806cfae88bf83a5fbc6f5c661b28db64994c6",
-      "publishedAtLabel": "Jan 12"
-    },
-    {
-      "id": 17374,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Abril.com.br",
-      "author": "Bruno Caniato",
-      "title": "Sa\u00fade falha em pontos sens\u00edveis e fragiliza a situa\u00e7\u00e3o de N\u00edsia Trindade",
-      "description": "O mais decepcionante para a administra\u00e7\u00e3o petista \u00e9 que a pasta vai mal exatamente onde prometeu brilhar: a vacina\u00e7\u00e3o",
-      "url": "https://veja.abril.com.br/politica/saude-falha-em-pontos-sensiveis-e-fragiliza-a-situacao-de-nisia-trindade",
-      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2025/01/1D-1-NISIA-TRINDADE-2024-12-a.jpg.jpg?quality=70&strip=info&crop=1&resize=1080,565",
-      "publishedAt": "2025-01-12 11:00:00",
-      "content": "F\u00e9rias: Assine a partir de 1,50/semanaFRACASSO- A\u00e7\u00e3o contra a dengue: o n\u00famero de casos quadruplicou em 2024 (Marcelo Camargo/Ag\u00eancia Brasil) Continua ap\u00f3s publicidade A gest\u00e3o da sa\u00fade da Presid\u00ean\u2026 [+8193 chars]",
-      "retrievedAt": "2025-01-13 19:05:37.432831",
-      "internal_id": "2dd9bd386fab5498bf5c3d9acb63bd565b0df5d0d32caf1ceb0e0c8f1b236c9c",
-      "publishedAtLabel": "Jan 12"
-    },
-    {
-      "id": 17372,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Jornada.com.mx",
-      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "title": "Llama la UNAM a vigilar la evoluci\u00f3n de la gripe aviar",
-      "description": "El riesgo para la salud p\u00fablica por la influenza aviar (H5N1) por el momento es bajo en el pa\u00eds, pero se prev\u00e9 que sea un tema destacado durante 2025, pues podr\u00eda afectar tanto el bienestar humano como el animal, e impactar en la producci\u00f3n de alimentos y su \u2026",
-      "url": "https://www.jornada.com.mx/2025/01/12/sociedad/027n2soc",
-      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "publishedAt": "2025-01-12 09:17:11",
-      "content": "Peri\u00f3dico La JornadaDomingo 12 de enero de 2025, p. 27 El riesgo para la salud p\u00fablica por la influenza aviar (H5N1) por el momento es bajo en el pa\u00eds, pero se prev\u00e9 que sea un tema destacado durant\u2026 [+1896 chars]",
-      "retrievedAt": "2025-01-13 19:05:37.097160",
-      "internal_id": "07c41e8d9171982712298a770a334e526b38155acc5322993295e1b60bd93e20",
       "publishedAtLabel": "Jan 12"
     }
   ]
