@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 36
-- **Last harvest:** 2025-02-28 19:06
-- **Most recent article:** 2025-02-27 19:00:00
+- **New articles in last harvest:** 18
+- **Last harvest:** 2025-03-01 07:06
+- **Most recent article:** 2025-02-28 06:33:13
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-3 | 25-4 | 25-5 | 25-6 | 25-7 | 25-8 | 25-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| h5n1 | 59 | 31 | 51 | 72 | 55 | 54 | 38 | 360 |
-| measles | 9 | 10 | 13 | 24 | 72 | 83 | 115 | 326 |
-| dengue | 28 | 37 | 24 | 34 | 37 | 57 | 23 | 240 |
-| mpox | 34 | 23 | 22 | 28 | 18 | 15 | 16 | 156 |
-| malaria | 18 | 19 | 30 | 25 | 12 | 7 | 6 | 117 |
+| h5n1 | 63 | 31 | 51 | 72 | 55 | 54 | 41 | 367 |
+| measles | 9 | 10 | 13 | 24 | 72 | 83 | 121 | 332 |
+| dengue | 29 | 37 | 24 | 34 | 37 | 57 | 24 | 242 |
+| mpox | 34 | 23 | 22 | 28 | 18 | 15 | 19 | 159 |
+| malaria | 18 | 19 | 30 | 25 | 12 | 7 | 9 | 120 |
 | hpai | 12 | 11 | 6 | 3 | 9 | 5 | 4 | 50 |
 | chikungunya | 7 | 10 | 9 | 8 | 5 | 3 | 7 | 49 |
-| meningitis | 2 | 3 | 8 | 2 | 12 | 11 | 3 | 41 |
+| meningitis | 2 | 3 | 8 | 2 | 12 | 11 | 4 | 42 |
 | rabies | 6 | 7 | 6 | 4 | 5 | 4 | 0 | 32 |
 | zika | 5 | 2 | 8 | 6 | 2 | 6 | 2 | 31 |
-| typhoid | 4 | 0 | 0 | 2 | 3 | 0 | 1 | 10 |
+| typhoid | 4 | 0 | 0 | 2 | 3 | 0 | 2 | 11 |
 | yersinia | 2 | 0 | 0 | 0 | 5 | 0 | 2 | 9 |
 | pertussis | 0 | 1 | 0 | 3 | 3 | 2 | 0 | 9 |
 | leptospirosis | 1 | 2 | 0 | 1 | 0 | 2 | 0 | 6 |
@@ -47,6 +47,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-9 (typhoid)
 
+- [Georgie & Mandy's First Marriage Brought Back George Sr. With A Hilarious WTF Moment I Didn't See Coming](https://www.cinemablend.com/television/georgie-and-mandys-first-marriage-brought-back-george-sr-hilarious-wtf-zombie-moment) (CinemaBlend)
+
 - [Evaluation of Moore and grab sampling method for Salmonella Typhi detection in environmental samples in Ghana](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318840) (Plos.org)
 
 ## 25-9 (shigellosis)
@@ -54,6 +56,12 @@ Source: [News API](https://newsapi.org/)
 - [Tebipenem pivoxil as an alternative to ceftriaxone for clinically non-responding children with shigellosis: a randomised non-inferiority trial protocol](https://bmjopen.bmj.com/content/15/2/e088449) (The BMJ)
 
 ## 25-9 (mpox)
+
+- [سازمان جهانی بهداشت: آبله میمونی هنوز یک تهدید است](https://www.isna.ir/news/1403121006689/سازمان-جهانی-بهداشت-آبله-میمونی-هنوز-یک-تهدید-است) (Isna.ir)
+
+- [Mpox ainda representa risco para saúde global, diz OMS](https://olhardigital.com.br/2025/02/28/medicina-e-saude/mpox-ainda-representa-risco-para-saude-global-diz-oms/) (Olhardigital.com.br)
+
+- [ΛΔ Κονγκό και ΟΗΕ καλούν να συγκεντρωθούν 2,5 δισεκ. δολάρια για ανθρωπιστική βοήθεια το 2025](https://www.skai.gr/news/world/ld-kongko-o-oie-kalei-na-sygkentrothoun-25-disek-dolaria-gia-anthropistiki-voitheia-to-202) (Skai.gr)
 
 - [¿Viajaste a Zipolite? Emiten aviso sanitario por brote de Mpox en festival entre estas fechas](https://www.milenio.com/ciencia-y-salud/aviso-por-virus-mpox-en-playa-zipolite-buscan-detectar-mas-brotes) (Milenio)
 
@@ -89,6 +97,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-9 (meningitis)
 
+- [Kommende læge: Under totalt pres skal jeg svare på, om det bare en børnesygdom, eller det er livstruende meningitis](https://politiken.dk/debat/debatindlaeg/art10294585/Under-totalt-pres-skal-jeg-svare-p%C3%A5-om-det-bare-en-b%C3%B8rnesygdom-eller-det-er-livstruende-meningitis) (Politiken.dk)
+
 - [Rekrut mit Fieber in Wiener Spital im Koma](https://burgenland.orf.at/stories/3294970/) (Burgenland.orf.at)
 
 - [Rigidez en la nuca en niños: síntomas clave que no debes ignorar](https://www.hola.com/padres/20250225816418/rigidez-nuca-ninos-sintomas-alerta/) (Hola)
@@ -96,6 +106,18 @@ Source: [News API](https://newsapi.org/)
 - [Father of girl who died with 'blood oozing from eyes' speaks out as jury decides hospital contributed to her death](https://www.ladbible.com/news/uk-news/sophie-ward-meningitis-inquest-father-219426-20250224) (LADbible)
 
 ## 25-9 (measles)
+
+- [CDC Statement on Measles Outbreak (CDC Newsroom)](https://www.memeorandum.com/250227/p176) (Memeorandum.com)
+
+- [WATCH: Ohio school bus driver praised for saving children from burning vehicle](https://abcnews.go.com/WNT/video/ohio-school-bus-driver-praised-saving-children-burning-119274216) (ABC News)
+
+- [Some experts question RFK Jr. calling measles outbreak 'not unusual'](https://abcnews.go.com/Politics/experts-question-rfk-jr-calling-measles-outbreak-unusual/story?id=119221816) (ABC News)
+
+- [RFK Jr., America’s Leading Advocate for Getting Measles](https://www.theatlantic.com/health/archive/2025/02/rfk-measles-vaccines-texas-outbreak/681860/) (The Atlantic)
+
+- [RFK Downplays Texas Measles Outbreak After First US Death in 10 Years](https://truthout.org/articles/rfk-downplays-texas-measles-outbreak-after-first-us-death-in-10-years/) (Truthout)
+
+- [As measles cases mount in U.S., what’s the situation worldwide?](https://japantoday.com/category/features/health/as-measles-cases-mount-in-the-us-what%E2%80%99s-the-situation-worldwide) (Japan Today)
 
 - [Texas outbreak brings 1st US measles death since 2015](https://theweek.com/health/texas-measles-outbreak-death) (The Week Magazine)
 
@@ -329,6 +351,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-9 (malaria)
 
+- [U.S. Terminates Funding for Polio, H.I.V., Malaria and Nutrition Programs Around the World (Stephanie Nolen/New York Times)](https://www.memeorandum.com/250227/p171) (Memeorandum.com)
+
+- [State Dept. says some life-saving efforts spared from massive USAID cuts](https://www.cbsnews.com/news/state-dept-massive-usaid-cuts/) (CBS News)
+
+- [Malaria endures in northwest Congo as officials seek cause of illnesses that have sickened hundreds](https://abcnews.go.com/International/wireStory/malaria-endures-northwest-congo-officials-seek-cause-illnesses-119263343) (ABC News)
+
 - [Plasmodium and intestinal parasite infections among pregnant women at first antenatal care contact in northwest Ethiopia: A study of prevalence and associated risk factors](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0316483) (Plos.org)
 
 - [Choroby papieży. Te problemy zdrowotne trapiły poprzedników Franciszka](https://zdrowie.natemat.pl/591446,papieze-na-przestrzeni-wieku-umierali-w-wyniku-roznych-nieleczonych-chorob) (Natemat.pl)
@@ -352,6 +380,12 @@ Source: [News API](https://newsapi.org/)
 - [話題を呼んだHumaneの「Ai Pin」、終焉を迎える](https://wired.jp/article/humane-ai-pin-will-become-e-waste-next-week/) (Wired.jp)
 
 ## 25-9 (h5n1)
+
+- [Neue Erkenntnisse zu H5N1: Was vor einem schweren Vogelgrippe-Verlauf schützen könnte](https://www.n-tv.de/wissen/Was-vor-einem-schweren-Vogelgrippe-Verlauf-schuetzen-koennte-article25593398.html) (N-tv.de)
+
+- [Bird Flu Déjà Vu from the COVID Playbook](https://articles.mercola.com/sites/articles/archive/2025/02/28/bird-flu-deja-vu-from-the-covid-playbook.aspx) (Mercola.com)
+
+- [USA investieren Milliarde US-Dollar zur Bekämpfung der Vogelgrippe-Epidemie](https://www.telepolis.de/features/USA-investieren-Milliarde-US-Dollar-zur-Bekaempfung-der-Vogelgrippe-Epidemie-10298471.html) (Telepolis.de)
 
 - [Killing 166 million birds hasn’t helped poultry farmers stop H5N1. Is there a better way?](https://www.bostonherald.com/2025/02/27/better-way-than-killing-birds-h5n1/) (Boston Herald)
 
@@ -430,6 +464,8 @@ Source: [News API](https://newsapi.org/)
 - [Francisco George: gripe H5N1 é ameaça de nova epidemia no horizonte](https://observador.pt/2025/02/23/francisco-george-gripe-h5n1-e-ameaca-de-nova-epidemia-no-horizonte/) (Observador.pt)
 
 ## 25-9 (dengue)
+
+- [Una investigación de científicos argentinos descubre que los mosquitos del dengue se volvieron resistentes a la fumigación gracias a una mutación genética](https://www.eleconomista.es/salud-bienestar/enfermedades/noticias/13243369/02/25/una-investigacion-de-cientificos-argentinos-descubre-que-los-mosquitos-del-dengue-se-volvieron-resistentes-a-la-fumigacion-gracias-a-una-mutacion-genetica.html) (Eleconomista.es)
 
 - [Estimating per-infection cost and burden for dengue and Zika as a function of antibody-dependent enhancement](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012876) (Plos.org)
 
@@ -3003,6 +3039,14 @@ Source: [News API](https://newsapi.org/)
 
 - [UNAM alerta sobre virus de influenza H5N1 y recomienda vigilarlo](https://www.milenio.com/politica/unam-recomienda-vigilar-virus-causante-de-la-gripe-aviar) (Milenio)
 
+- [First US human death from bird flu is more serious than you may think](https://newatlas.com/infectious-diseases/first-us-human-death-bird-flu/) (New Atlas)
+
+- [Homem de 28 anos do Camboja morre de gripe aviária. País apura caso](https://www.metropoles.com/saude/homem-28-camboja-morre-gripe-aviaria) (Metropoles.com)
+
+- [नोरोव्हायरस, बर्ड फ्लू की कोरोना... हिवाळ्यात कोणता जास्त धोकादायक आणि तो कसा टाळायचा?](https://www.lokmat.com/sakhi/health/lifestyle-diseases/health-tips-norovirus-vs-bird-flu-vs-covid-19-which-is-more-dangerous-in-winter-a-a597/) (Lokmat.com)
+
+- [Llama la UNAM a vigilar la evolución de la gripe aviar](https://www.jornada.com.mx/2025/01/12/sociedad/027n2soc) (Jornada.com.mx)
+
 ## 25-3 (dengue)
 
 - [Dengue: como usar o hipoclorito de sódio no combate ao Aedes aegypti](https://casa.abril.com.br/minha-casa/dengue-como-usar-o-hipoclorito-de-sodio-no-combate-ao-aedes-aegypti) (Abril.com.br)
@@ -3060,6 +3104,8 @@ Source: [News API](https://newsapi.org/)
 - [Dengue: SP tem 21 cidades em situação de emergência](https://www.terra.com.br/vida-e-estilo/saude/dengue-sp-tem-21-cidades-em-situacao-de-emergencia,cb9f0c74f749309f7f6f2dc0e1b1bc085pm97v74.html) (Terra.com.br)
 
 - [As dengue cases rise, researchers points to a simple solution: trash cleanup](https://news.stanford.edu/stories/2025/01/waste-reduction-a-key-defense-against-rising-dengue-cases) (Stanford.edu)
+
+- [Saúde falha em pontos sensíveis e fragiliza a situação de Nísia Trindade](https://veja.abril.com.br/politica/saude-falha-em-pontos-sensiveis-e-fragiliza-a-situacao-de-nisia-trindade) (Abril.com.br)
 
 ## 25-3 (chikungunya)
 

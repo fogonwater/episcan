@@ -1,8 +1,332 @@
 {
-  "last_updated": "2025-02-28 19:06",
-  "count_articles_total": 1393,
-  "count_articles_new": 36,
+  "last_updated": "2025-03-01 07:06",
+  "count_articles_total": 1416,
+  "count_articles_new": 18,
   "articles": [
+    {
+      "id": 18783,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Isna.ir",
+      "author": "\u0645\u0639\u0635\u0648\u0645\u0647 \u0627\u0646\u0635\u0627\u0631\u06cc",
+      "title": "\u0633\u0627\u0632\u0645\u0627\u0646 \u062c\u0647\u0627\u0646\u06cc \u0628\u0647\u062f\u0627\u0634\u062a: \u0622\u0628\u0644\u0647 \u0645\u06cc\u0645\u0648\u0646\u06cc \u0647\u0646\u0648\u0632 \u06cc\u06a9 \u062a\u0647\u062f\u06cc\u062f \u0627\u0633\u062a",
+      "description": "\u0633\u0627\u0632\u0645\u0627\u0646 \u062c\u0647\u0627\u0646\u06cc \u0628\u0647\u062f\u0627\u0634\u062a (WHO) \u0627\u0639\u0644\u0627\u0645 \u06a9\u0631\u062f \u0634\u06cc\u0648\u0639 \u0628\u06cc\u0645\u0627\u0631\u06cc \u00ab\u0627\u0645\u200c\u067e\u0627\u06a9\u0633\u00bb (\u0622\u0628\u0644\u0647 \u0645\u06cc\u0645\u0648\u0646\u06cc) \u0647\u0646\u0648\u0632 \u062f\u0631 \u0648\u0636\u0639\u06cc\u062a \u0627\u0636\u0637\u0631\u0627\u0631\u06cc \u0628\u0631\u0627\u06cc \u0628\u0647\u062f\u0627\u0634\u062a \u0639\u0645\u0648\u0645\u06cc\u0650 \u062c\u0647\u0627\u0646 \u0627\u0633\u062a.",
+      "url": "https://www.isna.ir/news/1403121006689/\u0633\u0627\u0632\u0645\u0627\u0646-\u062c\u0647\u0627\u0646\u06cc-\u0628\u0647\u062f\u0627\u0634\u062a-\u0622\u0628\u0644\u0647-\u0645\u06cc\u0645\u0648\u0646\u06cc-\u0647\u0646\u0648\u0632-\u06cc\u06a9-\u062a\u0647\u062f\u06cc\u062f-\u0627\u0633\u062a",
+      "urlToImage": "https://cdn.isna.ir/d/2024/11/17/4/63249419.jpg?ts=1731824656686",
+      "publishedAt": "2025-02-28 06:33:13",
+      "content": "(WHO) \u00ab\u00bb ( ) . () . . \u00ab \u00bb . - . . (Mpox) . . : #",
+      "retrievedAt": "2025-03-01 07:06:07.432420",
+      "internal_id": "561a2a10ae346028d32abf76f829df5b383608e83948643b262dac6346c1f06a",
+      "publishedAtLabel": "Feb 28"
+    },
+    {
+      "id": 18775,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "N-tv.de",
+      "author": "n-tv NACHRICHTEN",
+      "title": "Neue Erkenntnisse zu H5N1: Was vor einem schweren Vogelgrippe-Verlauf sch\u00fctzen k\u00f6nnte",
+      "description": "Im Zusammenhang mit dem Vogelgrippe-Ausbruch bei K\u00fchen in den USA stecken sich auch immer wieder Menschen mit dem Erreger an. Die meisten erkranken allerdings nur leicht. Eine m\u00f6gliche Erkl\u00e4rung daf\u00fcr haben Forscher jetzt gefunden. Ein anderes Grippevirus spi\u2026",
+      "url": "https://www.n-tv.de/wissen/Was-vor-einem-schweren-Vogelgrippe-Verlauf-schuetzen-koennte-article25593398.html",
+      "urlToImage": "https://www.n-tv.de/img/incoming/crop25594444/0781324387-cImg_16_9-w1200/489295931.jpg",
+      "publishedAt": "2025-02-28 06:26:58",
+      "content": "Im Zusammenhang mit dem Vogelgrippe-Ausbruch bei K\u00fchen in den USA stecken sich auch immer wieder Menschen mit dem Erreger an. Die meisten erkranken allerdings nur leicht. Eine m\u00f6gliche Erkl\u00e4rung daf\u00fc\u2026 [+2520 chars]",
+      "retrievedAt": "2025-03-01 07:06:05.401924",
+      "internal_id": "24e1fd6a7c18fd23cfd05acd2dd23a9a235216d312f7046f49c7746b74c2557f",
+      "publishedAtLabel": "Feb 28"
+    },
+    {
+      "id": 18773,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "CDC Statement on Measles Outbreak (CDC Newsroom)",
+      "description": "CDC Newsroom: CDC Statement on Measles Outbreak \u2014 RELEASE \u2014 CDC Media Relations \u2014 (404) 639-3286 \u2014 media@cdc.gov \u2014 CDC continues to be in close communication with Texas health authorities about the measles outbreak in West Texas, following the death\u2026",
+      "url": "https://www.memeorandum.com/250227/p176",
+      "urlToImage": "https://www.cdc.gov/media/images/homepage/measles-signs-symptoms.jpg?_=09401",
+      "publishedAt": "2025-02-28 04:15:01",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-03-01 07:06:04.719628",
+      "internal_id": "5d0dfbb74dbd9df2799e8fc4d94f21018b903f771b5b09b5aa365f8fbc30ad9e",
+      "publishedAtLabel": "Feb 28"
+    },
+    {
+      "id": 18780,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "U.S. Terminates Funding for Polio, H.I.V., Malaria and Nutrition Programs Around the World (Stephanie Nolen/New York Times)",
+      "description": "Stephanie Nolen / New York Times: U.S. Terminates Funding for Polio, H.I.V., Malaria and Nutrition Programs Around the World \u2014 Here are some of the 5,800 contracts the Trump administration formally canceled this week in a wave of terse emails. \u2014 Starting \u2026",
+      "url": "https://www.memeorandum.com/250227/p171",
+      "urlToImage": "https://static01.nyt.com/images/2025/02/27/multimedia/HEALTH-TERMINATIONS-usaid-fckm/HEALTH-TERMINATIONS-usaid-fckm-facebookJumbo.jpg",
+      "publishedAt": "2025-02-28 03:30:00",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-03-01 07:06:06.613347",
+      "internal_id": "872a58fc2f5f84191078783051976e9737c12dc86ee755892f72bf0ed8beeee6",
+      "publishedAtLabel": "Feb 28"
+    },
+    {
+      "id": 18782,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Bruna Barone",
+      "title": "Mpox ainda representa risco para sa\u00fade global, diz OMS",
+      "description": "Rep\u00fablica Democr\u00e1tica do Congo vive pior surto da doen\u00e7a e registrou mais da metade de todos os diagn\u00f3sticos computados no continente africano O post Mpox ainda representa risco para sa\u00fade global, diz OMS apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2025/02/28/medicina-e-saude/mpox-ainda-representa-risco-para-saude-global-diz-oms/",
+      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2025/02/iStock-1445699786.jpg",
+      "publishedAt": "2025-02-28 03:15:09",
+      "content": "A Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS) estendeu, nesta quinta-feira (27), a recomenda\u00e7\u00e3o que classifica a Mpox como emerg\u00eancia de sa\u00fade p\u00fablica de import\u00e2ncia internacional (ESPII, na sigla em ingl\u00eas),\u2026 [+2158 chars]",
+      "retrievedAt": "2025-03-01 07:06:07.410550",
+      "internal_id": "18675fada092df9c70db5d103aa46421872e23dd42b60fefa50eedd3bc51554e",
+      "publishedAtLabel": "Feb 28"
+    },
+    {
+      "id": 18770,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "ABC News",
+      "title": "WATCH: Ohio school bus driver praised for saving children from burning vehicle",
+      "description": "A bus on its way to Monticello Middle School in Cleveland Heights, Ohio, caught fire after its rear tire ignited. The driver swiftly evacuated all 15 students from the bus, ensuring their safety.",
+      "url": "https://abcnews.go.com/WNT/video/ohio-school-bus-driver-praised-saving-children-burning-119274216",
+      "urlToImage": "https://i.abcnewsfe.com/a/2c68929c-9f67-4e18-8f8b-2e2c4e999471/250227_wn_school_bus_hpMain_16x9.jpg?w=992",
+      "publishedAt": "2025-02-28 02:39:43",
+      "content": "Gene Hackman, wife found dead under 'suspicious' circumstances: Authorities Trump hosts British PM Keir Starmer for Ukraine talks at White House Measles cases reported i\u2026 [+4419 chars]",
+      "retrievedAt": "2025-03-01 07:06:04.461757",
+      "internal_id": "24047481a4a69305962a88b7ba6b242e9aa499342a8c6cacde390622b3aaecd7",
+      "publishedAtLabel": "Feb 28"
+    },
+    {
+      "id": 18784,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Skai.gr",
+      "author": "Newsroom",
+      "title": "\u039b\u0394 \u039a\u03bf\u03bd\u03b3\u03ba\u03cc \u03ba\u03b1\u03b9 \u039f\u0397\u0395 \u03ba\u03b1\u03bb\u03bf\u03cd\u03bd \u03bd\u03b1 \u03c3\u03c5\u03b3\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03b8\u03bf\u03cd\u03bd 2,5 \u03b4\u03b9\u03c3\u03b5\u03ba. \u03b4\u03bf\u03bb\u03ac\u03c1\u03b9\u03b1 \u03b3\u03b9\u03b1 \u03b1\u03bd\u03b8\u03c1\u03c9\u03c0\u03b9\u03c3\u03c4\u03b9\u03ba\u03ae \u03b2\u03bf\u03ae\u03b8\u03b5\u03b9\u03b1 \u03c4\u03bf 2025",
+      "description": "\u0392\u03c1\u03b9\u03c3\u03ba\u03cc\u03bc\u03b1\u03c3\u03c4\u03b5 \u03c3\u03b5 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae \u03c0\u03bf\u03c5 \u03b5\u03af\u03bd\u03b1\u03b9 \u03c3\u03b7\u03bc\u03b5\u03af\u03bf \u03ba\u03b1\u03bc\u03c0\u03ae\u03c2 - \u0391\u03bd \u03b4\u03b5\u03bd \u03c5\u03c0\u03ac\u03c1\u03be\u03b5\u03b9 \u03b1\u03c5\u03be\u03b7\u03bc\u03ad\u03bd\u03b7 \u03b4\u03b9\u03b5\u03b8\u03bd\u03ae\u03c2 \u03ba\u03b9\u03bd\u03b7\u03c4\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03b7, \u03bf\u03b9 \u03b1\u03bd\u03b8\u03c1\u03c9\u03c0\u03b9\u03c3\u03c4\u03b9\u03ba\u03ad\u03c2 \u03b1\u03bd\u03ac\u03b3\u03ba\u03b5\u03c2 \u03b8\u03b1 \u00ab\u03b5\u03ba\u03c1\u03b1\u03b3\u03bf\u03cd\u03bd\u00bb, \u03b5\u03af\u03c0\u03b5 \u03b5\u03ba\u03c0\u03c1\u03cc\u03c3\u03c9\u03c0\u03bf\u03c2 \u03c4\u03bf\u03c5 \u039f\u0397\u0395",
+      "url": "https://www.skai.gr/news/world/ld-kongko-o-oie-kalei-na-sygkentrothoun-25-disek-dolaria-gia-anthropistiki-voitheia-to-202",
+      "urlToImage": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2024-01/ap-congo-kongo.jpg?itok=FCpO0ccT",
+      "publishedAt": "2025-02-28 02:38:45",
+      "content": "2,54 11 2025, . , , , , , M23, , . , 21,2 2025. , , 2,54 . 11 . , 7,2 . . \u00ab \u00bb, , . \u00ab, , (...) , : , , \u00bb, . 2025 1,5 . , . , , mpox. . , . 2024, 70% , - 1,3 . , 7,1 , . \u00ab ( ) . , , \u00bb, . \u2026 [+22 chars]",
+      "retrievedAt": "2025-03-01 07:06:07.447081",
+      "internal_id": "b391b73f39768d9880505942da786cec9540009a27d0ca3e68c87dc2752d27a2",
+      "publishedAtLabel": "Feb 28"
+    },
+    {
+      "id": 18785,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "CinemaBlend",
+      "author": "mick.joest@CinemaBlend.com (Mick Joest)",
+      "title": "Georgie & Mandy's First Marriage Brought Back George Sr. With A Hilarious WTF Moment I Didn't See Coming",
+      "description": "This caught me completely off guard!",
+      "url": "https://www.cinemablend.com/television/georgie-and-mandys-first-marriage-brought-back-george-sr-hilarious-wtf-zombie-moment",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/uu496WX3jA3YwWMtM2H8jg-1200-80.jpg",
+      "publishedAt": "2025-02-28 02:19:13",
+      "content": "Warning! The following contains spoilers for the Georgie &amp; Mandy's First Marriage episode \"Typhoid Georgie.\" Stream it with a Paramount+ subscription and read at your own risk! I expected tears \u2026 [+2753 chars]",
+      "retrievedAt": "2025-03-01 07:06:07.658719",
+      "internal_id": "4d9b9db297fdcdeab0115c0d3157ff8480411a2189f42ca9b5e8c2f3a589967c",
+      "publishedAtLabel": "Feb 28"
+    },
+    {
+      "id": 18779,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Graham Kates",
+      "title": "State Dept. says some life-saving efforts spared from massive USAID cuts",
+      "description": "The State Department said it would keep funding life-saving treatments for diseases like HIV, malaria and tuberculosis while ending over 90% of its contracts.",
+      "url": "https://www.cbsnews.com/news/state-dept-massive-usaid-cuts/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/02/28/e6e4a181-5c01-4214-93f5-6341196500df/thumbnail/1200x630g2/5e26cb456fbaf53c9c75bab3969b2af5/gettyimages-2199772838.jpg?v=8de240724d7f6d8b5f54f62bb158c012",
+      "publishedAt": "2025-02-28 01:43:39",
+      "content": "The State Department confirmed Thursday it plans to end more than 90% of USAID contracts around the world, while keeping in place contracts for the most crucial food and health programs. The depart\u2026 [+5188 chars]",
+      "retrievedAt": "2025-03-01 07:06:06.592455",
+      "internal_id": "1953b99eab930fabdbc2cbb8e68d52a8e30a9b126d79f744a5786ef5f5ba5307",
+      "publishedAtLabel": "Feb 28"
+    },
+    {
+      "id": 18768,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "Cheyenne Haslett, Youri Benadjaoud, Will McDuffie",
+      "title": "Some experts question RFK Jr. calling measles outbreak 'not unusual'",
+      "description": "Public health experts are questioning RFK Jr's comments after he said the Texas measles outbreak was \"not unusual.\"",
+      "url": "https://abcnews.go.com/Politics/experts-question-rfk-jr-calling-measles-outbreak-unusual/story?id=119221816",
+      "urlToImage": "https://i.abcnewsfe.com/a/fa82bd69-45aa-44a6-882d-791207f566c7/cabinet-16-gty-gmh-250226_1740592574299_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2025-02-28 01:24:48",
+      "content": "In his first public comments on the measles outbreak hitting West Texas and New Mexico, Health and Human Services Secretary Robert F. Kennedy Jr., a prominent vaccine skeptic whose first steps in com\u2026 [+5994 chars]",
+      "retrievedAt": "2025-03-01 07:06:04.348443",
+      "internal_id": "d5a50e22aa0d2aa4e2bfba450b1d54abda17e487a020c05483e5f193cfd26ff3",
+      "publishedAtLabel": "Feb 28"
+    },
+    {
+      "id": 18776,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Mercola.com",
+      "author": "communities@mercola.com (Dr. Joseph Mercola)",
+      "title": "Bird Flu D\u00e9j\u00e0 Vu from the COVID Playbook",
+      "description": "You've noticed the news about a bird flu health crisis \u2014 sick birds, egg shortages, price hikes. The empty shelves, constant updates and confusing directives likely stir up memories of COVID. But there's a reason why bird flu, or H5N1, feels like a repeat per\u2026",
+      "url": "https://articles.mercola.com/sites/articles/archive/2025/02/28/bird-flu-deja-vu-from-the-covid-playbook.aspx",
+      "urlToImage": "https://media.mercola.com/ImageServer/Public/2025/February/FB/bird-flu-deja-vu-from-the-covid-playbook-fb.jpg",
+      "publishedAt": "2025-02-28 00:00:00",
+      "content": "Mercola proudly supports these charities and organizations. View All Disclaimer: The entire contents of this website are based upon the opinions of Dr. Mercola, unless otherwise noted. Individual a\u2026 [+1007 chars]",
+      "retrievedAt": "2025-03-01 07:06:05.498490",
+      "internal_id": "209f8b227136835775feb600f6cc2efbde8e8f0266870db3514cfe1bef5dd9c1",
+      "publishedAtLabel": "Feb 28"
+    },
+    {
+      "id": 18769,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Atlantic",
+      "author": "Benjamin Mazer",
+      "title": "RFK Jr., America\u2019s Leading Advocate for Getting Measles",
+      "description": "Contrary to what the health secretary says, the outbreak of disease in Texas is, in fact, unusual.",
+      "url": "https://www.theatlantic.com/health/archive/2025/02/rfk-measles-vaccines-texas-outbreak/681860/",
+      "urlToImage": "https://cdn.theatlantic.com/thumbor/59XQ17XzoCKsKVfnrGyhdN9woNs=/0x43:2000x1085/1200x625/media/img/mt/2025/02/25_2_27_Mazer_Measles_vaccine_final/original.jpg",
+      "publishedAt": "2025-02-27 23:59:10",
+      "content": "\u201cIt\u2019s not unusual.\u201d That\u2019s how Robert F. Kennedy Jr., the anti-vaccine activist and secretary of Health and Human Services, described an ongoing measles outbreak in and around Texas that has already \u2026 [+5177 chars]",
+      "retrievedAt": "2025-03-01 07:06:04.395323",
+      "internal_id": "6d5e148c73ec9e7e201d390f911829b3a162a1c45f0975c549feff168d12a7fd",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 18774,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Telepolis.de",
+      "author": "Marcel Kunzmann",
+      "title": "USA investieren Milliarde US-Dollar zur Bek\u00e4mpfung der Vogelgrippe-Epidemie",
+      "description": "Vogelgrippe H5N1 belastet US-Wirtschaft. Eierpreise auf Rekordhoch, erster menschlicher Todesfall. Jetzt erh\u00f6ht die US-Regierung ihr Engagement.",
+      "url": "https://www.telepolis.de/features/USA-investieren-Milliarde-US-Dollar-zur-Bekaempfung-der-Vogelgrippe-Epidemie-10298471.html",
+      "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/8/0/9/7/1/9/shutterstock_1900637350-2fbf54a23cff442a.jpeg",
+      "publishedAt": "2025-02-27 23:00:00",
+      "content": "Die Eierpreise in den USA sind durfch den Ausbruch auf Rekordhoch (Bild: KHON SUPAN/Shutterstock.com) Vogelgrippe H5N1 belastet US-Wirtschaft. Eierpreise auf Rekordhoch, erster menschlicher Todesfa\u2026 [+2371 chars]",
+      "retrievedAt": "2025-03-01 07:06:05.379882",
+      "internal_id": "16132bf089ec3bc90cba518a8fd62fd0c559edf50f98d3fb15e5a095616ab88e",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 18771,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Truthout",
+      "author": "Chris Walker",
+      "title": "RFK Downplays Texas Measles Outbreak After First US Death in 10 Years",
+      "description": "Rates of measles in the US have climbed significantly over the past 20 years, as vaccine skepticism has grown.",
+      "url": "https://truthout.org/articles/rfk-downplays-texas-measles-outbreak-after-first-us-death-in-10-years/",
+      "urlToImage": "https://truthout.org/app/uploads/2025/02/2025_0227-rfk-jr-scaled.jpg",
+      "publishedAt": "2025-02-27 22:05:51",
+      "content": "Health and Human Services (HHS) Secretary Robert F. Kennedy Jr. has vastly downplayed the ongoing measles outbreak in western Texas even as many children are being hospitalized, with at least one chi\u2026 [+5597 chars]",
+      "retrievedAt": "2025-03-01 07:06:04.663158",
+      "internal_id": "b23d6eb8804b404ce2d537a31de1b3542ba59aa9e2fdd90f43277ede60841cf3",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 18772,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Japan Today",
+      "author": null,
+      "title": "As measles cases mount in U.S., what\u2019s the situation worldwide?",
+      "description": "The U.S. registered its first death from measles since 2015 this week, as a child who wasn\u2019t vaccinated died in a measles outbreak in rural West Texas. Normally, most U.S. cases are brought into the country by people who have traveled overseas. So far, Texas \u2026",
+      "url": "https://japantoday.com/category/features/health/as-measles-cases-mount-in-the-us-what%E2%80%99s-the-situation-worldwide",
+      "urlToImage": null,
+      "publishedAt": "2025-02-27 21:44:12",
+      "content": "The U.S. registered its first death from measles since 2015 this week, as a child who wasnt vaccinated died in a measles outbreak in rural West Texas. Normally, most U.S. cases are brought into the \u2026 [+3096 chars]",
+      "retrievedAt": "2025-03-01 07:06:04.700522",
+      "internal_id": "495c3cdeda9fb55b1d36979d142d26099cd9b3130431bf98b9b3db0d5dee25c9",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 18777,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Eleconomista.es",
+      "author": "elEconomista.es",
+      "title": "Una investigaci\u00f3n de cient\u00edficos argentinos descubre que los mosquitos del dengue se volvieron resistentes a la fumigaci\u00f3n gracias a una mutaci\u00f3n gen\u00e9tica",
+      "description": "Una investigaci\u00f3n reciente y liderada por cient\u00edficos argentinos ha revelado que los mosquitos transmisores del dengue han desarrollado una resistencia a las fumigaciones usadas para controlarlos a trav\u00e9s de una mutaci\u00f3n gen\u00e9tica. Algo bastante sorprendente.",
+      "url": "https://www.eleconomista.es/salud-bienestar/enfermedades/noticias/13243369/02/25/una-investigacion-de-cientificos-argentinos-descubre-que-los-mosquitos-del-dengue-se-volvieron-resistentes-a-la-fumigacion-gracias-a-una-mutacion-genetica.html",
+      "urlToImage": "https://s03.s3c.es/imag/_v0/1200x675/c/f/7/MOSQUITOS-DENGUE.jpg",
+      "publishedAt": "2025-02-27 20:41:17",
+      "content": "Una investigaci\u00f3n reciente y liderada por cient\u00edficos argentinos ha revelado que los mosquitos transmisores del dengue han desarrollado una resistencia a las fumigaciones usadas para controlarlos a t\u2026 [+2439 chars]",
+      "retrievedAt": "2025-03-01 07:06:06.086423",
+      "internal_id": "21590f9aabd78210c3601e9fb546b242b5eeeaf6165daaf7b165b4f39be9e0ec",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 18778,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Politiken.dk",
+      "author": null,
+      "title": "Kommende l\u00e6ge: Under totalt pres skal jeg svare p\u00e5, om det bare en b\u00f8rnesygdom, eller det er livstruende meningitis",
+      "description": "Stress og travlhed p\u00e5 sygehusene f\u00f8rer til frygt for at tage for hurtige beslutninger, der kan ende fatalt for patienterne. Og det tapper personalet for kr\u00e6fter.",
+      "url": "https://politiken.dk/debat/debatindlaeg/art10294585/Under-totalt-pres-skal-jeg-svare-p%C3%A5-om-det-bare-en-b%C3%B8rnesygdom-eller-det-er-livstruende-meningitis",
+      "urlToImage": "https://politiken.dk/incoming/img10303510.u8v1t3/ORIGINALS/original_750/1",
+      "publishedAt": "2025-02-27 20:35:29",
+      "content": "Lyt til artiklenL\u00e6st op af Simon Meyer Off Gem artiklen Gemt L\u00e6st Jeg er bange for at sl\u00e5 nogen ihjel. S\u00e5dan h\u00f8rer jeg ofte mine medstuderende og yngre l\u00e6ger i vennekredsen sige. Frygten for at o\u2026 [+765 chars]",
+      "retrievedAt": "2025-03-01 07:06:06.348463",
+      "internal_id": "a162ef26b7e63d525e1621b9e30b8f28100039509141655bca9766d70a99740b",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 18781,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "CHINEDU ASADU Associated Press, GUY MASELE SANGANGA Associated Press, JEAN-YVES KAMALE Associated Press",
+      "title": "Malaria endures in northwest Congo as officials seek cause of illnesses that have sickened hundreds",
+      "description": "Hundreds of people have tested positive for malaria in northwest Congo as health officials try to understand what is behind illnesses that have surpassed 1,000 cases and killed at least 60 people",
+      "url": "https://abcnews.go.com/International/wireStory/malaria-endures-northwest-congo-officials-seek-cause-illnesses-119263343",
+      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "publishedAt": "2025-02-27 19:18:01",
+      "content": "BASANKUSU, Congo -- Hundreds of people have tested positive for malaria in northwest Congo as health officials try to understand what may be behind a surge of illnesses that has surpassed 1,000 cases\u2026 [+3222 chars]",
+      "retrievedAt": "2025-03-01 07:06:06.620897",
+      "internal_id": "2aed835d73a16c5881bfb3ebda5333b2685e5adbed9cb6ff06c2da34fb4da7d6",
+      "publishedAtLabel": "Feb 27"
+    },
     {
       "id": 18760,
       "query": [
@@ -25119,6 +25443,96 @@
       "content": "La Universidad Nacional Aut\u00f3noma de M\u00e9xico (UNAM) advirti\u00f3 que, aunque el riesgo para la salud p\u00fablica del pa\u00eds debido al virus de influenza H5N1 es bajo, se prev\u00e9 que sea un tema relevante durante e\u2026 [+4785 chars]",
       "retrievedAt": "2025-01-14 07:06:12.760466",
       "internal_id": "baaa0db7725aec9011864c3d9e85a14527a4a4c780b53a663c2a5434df143776",
+      "publishedAtLabel": "Jan 12"
+    },
+    {
+      "id": 17370,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "New Atlas",
+      "author": "Bronwyn Thompson",
+      "title": "First US human death from bird flu is more serious than you may think",
+      "description": "Two months shy of the fifth anniversary of COVID-19 being declared a global pandemic, the US has recorded its first human death as a result of avian influenza H5N1 infection. The unidentified Louisiana man contracted the virus through contact with infected wi\u2026",
+      "url": "https://newatlas.com/infectious-diseases/first-us-human-death-bird-flu/",
+      "urlToImage": "https://assets.newatlas.com/dims4/default/b972f69/2147483647/strip/true/crop/6902x3624+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Ff5%2Fc7%2F36c9adbb4446af9c71ae546c1753%2Fdepositphotos-776801192-xl.jpg&na.image_optimisation=0",
+      "publishedAt": "2025-01-12 16:00:00",
+      "content": "Two months shy of the fifth anniversary of COVID-19 being declared a global pandemic, the US has recorded its first human death as a result of avian influenza H5N1 infection. The unidentified Louisia\u2026 [+13998 chars]",
+      "retrievedAt": "2025-01-13 19:05:36.977135",
+      "internal_id": "d7213205bc7810dd1bb1123820446d4106b2264f21aacb1ab82b6b877009c879",
+      "publishedAtLabel": "Jan 12"
+    },
+    {
+      "id": 17371,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Ravenna Alves",
+      "title": "Homem de 28 anos do Camboja morre de gripe avi\u00e1ria. Pa\u00eds apura caso",
+      "description": "De acordo com as autoridades de sa\u00fade do pa\u00eds, o homem criava aves em sua casa e havia cozinhado frangos doentes para se alimentar",
+      "url": "https://www.metropoles.com/saude/homem-28-camboja-morre-gripe-aviaria",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/11/20102453/Gripe-aviaria-2.jpg",
+      "publishedAt": "2025-01-12 14:32:09",
+      "content": "Um homem de 28 anos, natural da prov\u00edncia de Kampong Cham, no Camboja, pa\u00eds localizado no sudeste da \u00c1sia, morreu na \u00faltima sexta-feira (10/1) em decorr\u00eancia da gripe avi\u00e1ria H5N1, informou o Minist\u00e9\u2026 [+1624 chars]",
+      "retrievedAt": "2025-01-13 19:05:37.043393",
+      "internal_id": "9ae40e03f2d31e85fc20aed4a347b9c952eea9e2af3bc32d8da0e3f22865fd12",
+      "publishedAtLabel": "Jan 12"
+    },
+    {
+      "id": 17373,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Lokmat.com",
+      "author": "\u0911\u0928\u0932\u093e\u0907\u0928 \u0932\u094b\u0915\u092e\u0924",
+      "title": "\u0928\u094b\u0930\u094b\u0935\u094d\u0939\u093e\u092f\u0930\u0938, \u092c\u0930\u094d\u0921 \u092b\u094d\u0932\u0942 \u0915\u0940 \u0915\u094b\u0930\u094b\u0928\u093e... \u0939\u093f\u0935\u093e\u0933\u094d\u092f\u093e\u0924 \u0915\u094b\u0923\u0924\u093e \u091c\u093e\u0938\u094d\u0924 \u0927\u094b\u0915\u093e\u0926\u093e\u092f\u0915 \u0906\u0923\u093f \u0924\u094b \u0915\u0938\u093e \u091f\u093e\u0933\u093e\u092f\u091a\u093e?",
+      "description": "health tips norovirus vs bird flu vs covid 19 which is more dangerous in winter - \u0939\u093f\u0935\u093e\u0933\u094d\u092f\u093e\u0924 \u092f\u093e \u0924\u093f\u0918\u093e\u0902\u092a\u0948\u0915\u0940 \u0915\u094b\u0923\u0924\u093e \u0906\u091c\u093e\u0930 \u091c\u093e\u0938\u094d\u0924 \u0927\u094b\u0915\u093e\u0926\u093e\u092f\u0915 \u0906\u0939\u0947 \u0906\u0923\u093f \u0924\u0947 \u0906\u091c\u093e\u0930 \u0915\u0938\u0947 \u091f\u093e\u0933\u093e\u092f\u091a\u0947 \u092f\u093e\u092c\u093e\u092c\u0924 \u091c\u093e\u0923\u0942\u0928 \u0918\u0947\u090a\u092f\u093e... - Latest Marathi News (\u092e\u0930\u093e\u0920\u0940 \u092c\u093e\u0924\u092e\u094d\u092f\u093e). Find Breaking Headlines, Current and La\u2026",
+      "url": "https://www.lokmat.com/sakhi/health/lifestyle-diseases/health-tips-norovirus-vs-bird-flu-vs-covid-19-which-is-more-dangerous-in-winter-a-a597/",
+      "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/images/1200x900/whatsapp-image-2025-01-12-at-4.16.55-pm_2025011374514.jpeg",
+      "publishedAt": "2025-01-12 11:05:28",
+      "content": ". , . . , . . . ... ? . . , , . . . . . . . ? . (WHO) , , H5N1 ( ) . % , - , .% % . , , , , , , , , , . . , , , , , , , , , , . . . ? - , . - . - . - . - . - , , , . - . - . \u2026 [+33 chars]",
+      "retrievedAt": "2025-01-13 19:05:37.154498",
+      "internal_id": "4cd14b9ed5ab9f7fa687124ae40806cfae88bf83a5fbc6f5c661b28db64994c6",
+      "publishedAtLabel": "Jan 12"
+    },
+    {
+      "id": 17374,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Bruno Caniato",
+      "title": "Sa\u00fade falha em pontos sens\u00edveis e fragiliza a situa\u00e7\u00e3o de N\u00edsia Trindade",
+      "description": "O mais decepcionante para a administra\u00e7\u00e3o petista \u00e9 que a pasta vai mal exatamente onde prometeu brilhar: a vacina\u00e7\u00e3o",
+      "url": "https://veja.abril.com.br/politica/saude-falha-em-pontos-sensiveis-e-fragiliza-a-situacao-de-nisia-trindade",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2025/01/1D-1-NISIA-TRINDADE-2024-12-a.jpg.jpg?quality=70&strip=info&crop=1&resize=1080,565",
+      "publishedAt": "2025-01-12 11:00:00",
+      "content": "F\u00e9rias: Assine a partir de 1,50/semanaFRACASSO- A\u00e7\u00e3o contra a dengue: o n\u00famero de casos quadruplicou em 2024 (Marcelo Camargo/Ag\u00eancia Brasil) Continua ap\u00f3s publicidade A gest\u00e3o da sa\u00fade da Presid\u00ean\u2026 [+8193 chars]",
+      "retrievedAt": "2025-01-13 19:05:37.432831",
+      "internal_id": "2dd9bd386fab5498bf5c3d9acb63bd565b0df5d0d32caf1ceb0e0c8f1b236c9c",
+      "publishedAtLabel": "Jan 12"
+    },
+    {
+      "id": 17372,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "title": "Llama la UNAM a vigilar la evoluci\u00f3n de la gripe aviar",
+      "description": "El riesgo para la salud p\u00fablica por la influenza aviar (H5N1) por el momento es bajo en el pa\u00eds, pero se prev\u00e9 que sea un tema destacado durante 2025, pues podr\u00eda afectar tanto el bienestar humano como el animal, e impactar en la producci\u00f3n de alimentos y su \u2026",
+      "url": "https://www.jornada.com.mx/2025/01/12/sociedad/027n2soc",
+      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "publishedAt": "2025-01-12 09:17:11",
+      "content": "Peri\u00f3dico La JornadaDomingo 12 de enero de 2025, p. 27 El riesgo para la salud p\u00fablica por la influenza aviar (H5N1) por el momento es bajo en el pa\u00eds, pero se prev\u00e9 que sea un tema destacado durant\u2026 [+1896 chars]",
+      "retrievedAt": "2025-01-13 19:05:37.097160",
+      "internal_id": "07c41e8d9171982712298a770a334e526b38155acc5322993295e1b60bd93e20",
       "publishedAtLabel": "Jan 12"
     }
   ]
