@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 14
-- **Last harvest:** 2025-03-02 07:05
-- **Most recent article:** 2025-03-01 06:58:00
+- **New articles in last harvest:** 6
+- **Last harvest:** 2025-03-02 19:05
+- **Most recent article:** 2025-03-01 18:53:34
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-4 | 25-5 | 25-6 | 25-7 | 25-8 | 25-9 | Total |
 |--|-|-|-|-|-|-|-|
-| measles | 10 | 13 | 24 | 72 | 83 | 135 | 337 |
-| h5n1 | 31 | 51 | 72 | 55 | 54 | 42 | 305 |
-| dengue | 36 | 24 | 34 | 37 | 57 | 29 | 217 |
-| mpox | 23 | 22 | 28 | 18 | 15 | 25 | 131 |
+| measles | 10 | 13 | 24 | 72 | 83 | 137 | 339 |
+| h5n1 | 29 | 51 | 72 | 55 | 54 | 42 | 303 |
+| dengue | 34 | 24 | 34 | 37 | 57 | 30 | 216 |
+| mpox | 23 | 22 | 28 | 18 | 15 | 26 | 132 |
 | malaria | 18 | 30 | 25 | 12 | 7 | 14 | 106 |
+| meningitis | 2 | 8 | 2 | 12 | 11 | 7 | 42 |
 | chikungunya | 10 | 9 | 8 | 5 | 3 | 7 | 42 |
-| meningitis | 2 | 8 | 2 | 12 | 11 | 6 | 41 |
 | hpai | 11 | 6 | 3 | 9 | 5 | 4 | 38 |
+| rabies | 7 | 6 | 4 | 5 | 4 | 1 | 27 |
 | zika | 2 | 8 | 6 | 2 | 6 | 2 | 26 |
-| rabies | 7 | 6 | 4 | 5 | 4 | 0 | 26 |
 | pertussis | 1 | 0 | 3 | 3 | 2 | 0 | 9 |
 | typhoid | 0 | 0 | 2 | 3 | 0 | 2 | 7 |
 | yersinia | 0 | 0 | 0 | 5 | 0 | 2 | 7 |
@@ -55,7 +55,13 @@ Source: [News API](https://newsapi.org/)
 
 - [Tebipenem pivoxil as an alternative to ceftriaxone for clinically non-responding children with shigellosis: a randomised non-inferiority trial protocol](https://bmjopen.bmj.com/content/15/2/e088449) (The BMJ)
 
+## 25-9 (rabies)
+
+- [Dogbite cases & rabies deaths see surge across Karnataka](https://timesofindia.indiatimes.com/city/bengaluru/dogbite-cases-rabies-deaths-see-surge-across-karnataka/articleshow/118653971.cms) (The Times of India)
+
 ## 25-9 (mpox)
+
+- ["بیماری مرموز کشنده در کنگو احتمالاً نوعی مسمومیت است"](https://www.dw.com/fa-ir/%D8%A8%DB%8C%D9%85%D8%A7%D8%B1%DB%8C-%D9%85%D8%B1%D9%85%D9%88%D8%B2-%DA%A9%D8%B4%D9%86%D8%AF%D9%87-%D8%AF%D8%B1-%DA%A9%D9%86%DA%AF%D9%88-%D8%A7%D8%AD%D8%AA%D9%85%D8%A7%D9%84%D8%A7%D9%8B-%D9%86%D9%88%D8%B9%DB%8C-%D9%85%D8%B3%D9%85%D9%88%D9%85%DB%8C%D8%AA-%D8%A7%D8%B3%D8%AA/a-71794131) (DW (English))
 
 - [South Africa reports 3 new cases of mpox](http://en.people.cn/n3/2025/0301/c90000-20283231.html) (People.cn)
 
@@ -115,6 +121,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Kommende læge: Under totalt pres skal jeg svare på, om det bare en børnesygdom, eller det er livstruende meningitis](https://politiken.dk/debat/debatindlaeg/art10294585/Under-totalt-pres-skal-jeg-svare-p%C3%A5-om-det-bare-en-b%C3%B8rnesygdom-eller-det-er-livstruende-meningitis) (Politiken.dk)
 
+- [From dormant to danger: How VZV reactivation is driving central nervous system infections](https://www.sciencedaily.com/releases/2025/02/250227125511.htm) (Science Daily)
+
 - [Rekrut mit Fieber in Wiener Spital im Koma](https://burgenland.orf.at/stories/3294970/) (Burgenland.orf.at)
 
 - [Rigidez en la nuca en niños: síntomas clave que no debes ignorar](https://www.hola.com/padres/20250225816418/rigidez-nuca-ninos-sintomas-alerta/) (Hola)
@@ -122,6 +130,10 @@ Source: [News API](https://newsapi.org/)
 - [Father of girl who died with 'blood oozing from eyes' speaks out as jury decides hospital contributed to her death](https://www.ladbible.com/news/uk-news/sophie-ward-meningitis-inquest-father-219426-20250224) (LADbible)
 
 ## 25-9 (measles)
+
+- [Yesterday’s comments of note](https://bringatrailer.com/2025/03/01/yesterdays-comments-of-note-2189/) (Bringatrailer.com)
+
+- [As Texas measles outbreak grows, here's what to know about the disease, vaccines and response](https://www.nbcnews.com/health/health-news/measles-outbreak-texas-vaccines-kids-cases-what-know-rcna194216) (NBC News)
 
 - [Measles: What to know, how to avoid it](https://www.voanews.com/a/measles-what-to-know-how-to-avoid-it/7991173.html) (VOA News)
 
@@ -520,6 +532,8 @@ Source: [News API](https://newsapi.org/)
 - [Francisco George: gripe H5N1 é ameaça de nova epidemia no horizonte](https://observador.pt/2025/02/23/francisco-george-gripe-h5n1-e-ameaca-de-nova-epidemia-no-horizonte/) (Observador.pt)
 
 ## 25-9 (dengue)
+
+- [“Mosquito argentino”. El temor al dengue genera hasta cinco horas de demora en un cruce fronterizo](https://www.lanacion.com.ar/sociedad/mosquito-argentino-el-temor-al-dengue-genera-hasta-cinco-horas-de-demora-en-un-cruce-fronterizo-nid01032025/) (La Nacion)
 
 - [Cidades do interior de SP cancelam Carnaval neste ano. Entenda motivos](https://www.metropoles.com/sao-paulo/cidades-do-interior-de-sp-cancelam-carnaval-neste-ano-entenda-motivos) (Metropoles.com)
 
@@ -2673,10 +2687,6 @@ Source: [News API](https://newsapi.org/)
 
 - [美国科学家拉响警报：新型 H5N1 禽流感病毒被发现，正威胁人类健康](https://www.ithome.com/0/825/921.htm) (Ithome.com)
 
-- [CDC Urges Increased Testing For Bird Flu](https://www.shtfplan.com/headline-news/cdc-urges-increased-testing-for-bird-flu) (Shtfplan.com)
-
-- [První úmrtí člověka na ptačí chřipku vyvolává otázku, zda jsme připraveni na další pandemii](https://vtm.zive.cz/clanky/prvni-umrti-cloveka-na-ptaci-chripku-vyvolava-otazku-zda-jsme-pripraveni-na-dalsi-pandemii/sc-870-a-232411/default.aspx) (Zive.cz)
-
 ## 25-4 (dengue)
 
 - [Joga lixo na rua? GDF usará drones para multar sujões. Veja valores](https://www.metropoles.com/distrito-federal/joga-lixo-na-rua-gdf-usara-drones-para-multar-sujoes-veja-valores) (Metropoles.com)
@@ -2746,10 +2756,6 @@ Source: [News API](https://newsapi.org/)
 - [Dengue: 2025 começa com mortes e 2º maior recorde de casos da história](https://www.metropoles.com/brasil/dengue-2025-comeca-com-mortes-e-2o-maior-recorde-de-casos-da-historia) (Metropoles.com)
 
 - [Saúde vai distribuir 6,5 milhões de testes rápidos de dengue a estados](https://veja.abril.com.br/coluna/radar/saude-vai-distribuir-65-milhoes-de-testes-rapidos-de-dengue-a-estados) (Abril.com.br)
-
-- [Dengue: Especialista ensina como usar o hipoclorito de sódio no combate ao Aedes aegypti](https://catracalivre.com.br/saude-bem-estar/dengue-combate-ao-aedes-aegypti/) (Catracalivre.com.br)
-
-- [Dengue: governo quer imunizante no programa de vacinação em 2026](https://www.metropoles.com/colunas/igor-gadelha/dengue-governo-quer-imunizante-em-programa-de-vacinacao-em-2026) (Metropoles.com)
 
 ## 25-4 (chikungunya)
 

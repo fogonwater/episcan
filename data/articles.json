@@ -1,8 +1,98 @@
 {
-  "last_updated": "2025-03-02 07:05",
-  "count_articles_total": 1256,
-  "count_articles_new": 14,
+  "last_updated": "2025-03-02 19:05",
+  "count_articles_total": 1258,
+  "count_articles_new": 6,
   "articles": [
+    {
+      "id": 18819,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Yashaswini Sri",
+      "title": "Dogbite cases & rabies deaths see surge across Karnataka",
+      "description": "Bengaluru: Karnataka is witnessing a worrying spike in dogbite cases and human rabies deaths, with health department data pointing to 66,459 cases and.",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/dogbite-cases-rabies-deaths-see-surge-across-karnataka/articleshow/118653971.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-118653969,width-1070,height-580,imgsize-53518,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2025-03-01 18:53:34",
+      "content": "9 health benefits of dark chocolate (and the right time to eat)",
+      "retrievedAt": "2025-03-02 19:05:41.406613",
+      "internal_id": "bb0f2b73c73ce555d3cd3dfb49fb37f71fb84f99377985a1c897ffb564d1668f",
+      "publishedAtLabel": "Mar 1"
+    },
+    {
+      "id": 18821,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Bringatrailer.com",
+      "author": "bringatrailer",
+      "title": "Yesterday\u2019s comments of note",
+      "description": "A few of the comments that stood out to us yesterday: \"My dad and I owned this car from 1981-2003, awesome car.\" 22 Elleerin commented on 1963 Shelby Cobra 289 Mark I \"As a boy growing up in Ha\u2026",
+      "url": "https://bringatrailer.com/2025/03/01/yesterdays-comments-of-note-2189/",
+      "urlToImage": null,
+      "publishedAt": "2025-03-01 17:00:00",
+      "content": "\"Well good Lord. Im just sittin there eating my huevos rancheros and reading about a measles outbreak in West Texas in the Stockton Telegram-Dispatch. All of a sudden Lucinda comes over and tells me \u2026 [+273 chars]",
+      "retrievedAt": "2025-03-02 19:05:42.121620",
+      "internal_id": "89aba6bf919af5b07d3842d4dfcdb9daf0b66662915c9410cace09d6c93e31a8",
+      "publishedAtLabel": "Mar 1"
+    },
+    {
+      "id": 18824,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "DW (English)",
+      "author": "Deutsche Welle",
+      "title": "\"\u0628\u06cc\u0645\u0627\u0631\u06cc \u0645\u0631\u0645\u0648\u0632 \u06a9\u0634\u0646\u062f\u0647 \u062f\u0631 \u06a9\u0646\u06af\u0648 \u0627\u062d\u062a\u0645\u0627\u0644\u0627\u064b \u0646\u0648\u0639\u06cc \u0645\u0633\u0645\u0648\u0645\u06cc\u062a \u0627\u0633\u062a\"",
+      "description": "\u0633\u0627\u0632\u0645\u0627\u0646 \u062c\u0647\u0627\u0646\u06cc \u0628\u0647\u062f\u0627\u0634\u062a \u0627\u0639\u0644\u0627\u0645 \u06a9\u0631\u062f \u06a9\u0647 \u0628\u06cc\u0634 \u0627\u0632 \u06f6\u06f0 \u0645\u0648\u0631\u062f \u0645\u0631\u06af \u063a\u06cc\u0631\u0642\u0627\u0628\u0644 \u062a\u0648\u0636\u06cc\u062d \u0646\u0627\u0634\u06cc \u0627\u0632 \u0634\u06cc\u0648\u0639 \u0628\u06cc\u0645\u0627\u0631\u06cc \u0645\u0631\u0645\u0648\u0632 \u062f\u0631 \u0634\u0645\u0627\u0644 \u06a9\u0646\u06af\u0648\u060c \u0627\u062d\u062a\u0645\u0627\u0644\u0627\u064b \u0646\u0627\u0634\u06cc \u0627\u0632 \u0646\u0648\u0639\u06cc \u0645\u0633\u0645\u0648\u0645\u06cc\u062a \u0627\u0633\u062a. \u06a9\u0627\u0631\u0634\u0646\u0627\u0633\u0627\u0646 \u0646\u0633\u0628\u062a \u0628\u0647 \u0627\u062d\u062a\u0645\u0627\u0644 \u0647\u0645\u0647 \u06af\u06cc\u0631\u06cc \u06cc\u06a9 \u0628\u06cc\u0645\u0627\u0631\u06cc \u062c\u062f\u06cc\u062f \u0647\u0634\u062f\u0627\u0631 \u0645\u06cc\u200c\u062f\u0647\u0646\u062f.",
+      "url": "https://www.dw.com/fa-ir/%D8%A8%DB%8C%D9%85%D8%A7%D8%B1%DB%8C-%D9%85%D8%B1%D9%85%D9%88%D8%B2-%DA%A9%D8%B4%D9%86%D8%AF%D9%87-%D8%AF%D8%B1-%DA%A9%D9%86%DA%AF%D9%88-%D8%A7%D8%AD%D8%AA%D9%85%D8%A7%D9%84%D8%A7%D9%8B-%D9%86%D9%88%D8%B9%DB%8C-%D9%85%D8%B3%D9%85%D9%88%D9%85%DB%8C%D8%AA-%D8%A7%D8%B3%D8%AA/a-71794131",
+      "urlToImage": "https://static.dw.com/image/71749698_6.jpg",
+      "publishedAt": "2025-03-01 15:43:00",
+      "content": " // , . . : Zanem Nety Zaidi/Xinhua News Agency/picture alliance (WHO) ( ) \"\" \"\" . \"WHO\" \"\" . (mpox) . \" \" . \" \" . (Basankusu) . . . : . . \u2026 [+71 chars]",
+      "retrievedAt": "2025-03-02 19:05:44.817698",
+      "internal_id": "000bdf28cef066a703ce1095551411572f162b49d588b5c2b6adc99374d788b3",
+      "publishedAtLabel": "Mar 1"
+    },
+    {
+      "id": 18822,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "Pablo Mannino",
+      "title": "\u201cMosquito argentino\u201d. El temor al dengue genera hasta cinco horas de demora en un cruce fronterizo",
+      "description": "La desinfecci\u00f3n del Complejo Los Libertadores por la aparici\u00f3n de la especie Aedes aegypti obliga a decenas de turistas a aguardar para cruzar a Chile; para ingresar a la Argentina el tr\u00e1nsito es fluido",
+      "url": "https://www.lanacion.com.ar/sociedad/mosquito-argentino-el-temor-al-dengue-genera-hasta-cinco-horas-de-demora-en-un-cruce-fronterizo-nid01032025/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/la-aparicion-de-un-ejemplar-del-mosquito-vector-25GY4MWOY5EW7NSWNZFNRXQC74.jpeg?auth=01bd4bb882f61cace51147fe0b6dd896d899cf0042eacaf090e4888904773800&width=1200&quality=70&smart=false&height=951",
+      "publishedAt": "2025-03-01 13:35:42",
+      "content": "MENDOZA. Aunque cueste creerlo, la detecci\u00f3n en la aduana chilena de un mosquito argentino transmisor del dengue provoc\u00f3 caos en la frontera en el inicio del fin de semana extralargo. Es que las auto\u2026 [+4326 chars]",
+      "retrievedAt": "2025-03-02 19:05:43.242183",
+      "internal_id": "019bab84afdb4a9d836945d710b912b0dadc6052869f3b011f4ea08b230039b0",
+      "publishedAtLabel": "Mar 1"
+    },
+    {
+      "id": 18820,
+      "query": [
+        "measles"
+      ],
+      "source_id": "nbc-news",
+      "source_name": "NBC News",
+      "author": "Aria Bendix",
+      "title": "As Texas measles outbreak grows, here's what to know about the disease, vaccines and response",
+      "description": "The measles outbreak in Texas has quickly grown to 146 cases. One child has died. NBC News answers readers' questions about the disease, vaccines and government response.",
+      "url": "https://www.nbcnews.com/health/health-news/measles-outbreak-texas-vaccines-kids-cases-what-know-rcna194216",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-02/250228-texas-measles-mn-1130-0c616f.jpg",
+      "publishedAt": "2025-03-01 10:00:00",
+      "content": "An outbreak of measles in West Texas brought a grim milestone this week, when officials reported the first measles death in the U.S. in a decade a school-age child in Lubbock who was unvaccinated. N\u2026 [+8889 chars]",
+      "retrievedAt": "2025-03-02 19:05:41.971286",
+      "internal_id": "d7f7ea6b8bbcfc616816906f6fb441f8fcd26ec6dcd4ddb9a577c5ac142a6176",
+      "publishedAtLabel": "Mar 1"
+    },
     {
       "id": 18810,
       "query": [
@@ -973,6 +1063,24 @@
       "content": "Wastewater surveillance in Oregon first detected the avian influenza A(H5) subtype on March 21, 2022, 6 weeks before HPAI A(H5) was identified in an Oregon domestic poultry outbreak, 7 weeks before a\u2026 [+3908 chars]",
       "retrievedAt": "2025-02-28 19:06:05.844127",
       "internal_id": "79db8d64ad5f278db36f9883e12365ecf5dfe9436d6eb933e11c0e0c702af27e",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 18823,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "From dormant to danger: How VZV reactivation is driving central nervous system infections",
+      "description": "Researchers observed a rise in adult central nervous system (CNS) infections, primarily aseptic meningitis caused by the varicella zoster virus (VZV), post-2019. The researchers highlighted the potential of zoster vaccination to reduce CNS infections. Meanwhi\u2026",
+      "url": "https://www.sciencedaily.com/releases/2025/02/250227125511.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2025-02-27 17:55:11",
+      "content": "Researchers from Fujita Health University, Japan, observed a rise in adult central nervous system (CNS) infections, primarily aseptic meningitis caused by the varicella zoster virus (VZV), post-2019.\u2026 [+4105 chars]",
+      "retrievedAt": "2025-03-02 19:05:43.437720",
+      "internal_id": "4e29a40a02e53107989552fc1bda4afb625500857e19a8fde195dc7f0ed220fd",
       "publishedAtLabel": "Feb 27"
     },
     {
@@ -22579,78 +22687,6 @@
       "content": "Oferta Rel\u00e2mpago: 4 revistas pelo pre\u00e7o de uma! Aedes aegypti: a picada da f\u00eamea do mosquito transmite a dengue (Divulga\u00e7\u00e3o/Divulga\u00e7\u00e3o) Continua ap\u00f3s publicidade O Minist\u00e9rio da Sa\u00fade vai distribu\u2026 [+952 chars]",
       "retrievedAt": "2025-01-21 07:06:20.719045",
       "internal_id": "502de82804265c8547ec4cfd22927d8a990b6b75818f525812b4561692d98b69",
-      "publishedAtLabel": "Jan 19"
-    },
-    {
-      "id": 17563,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Shtfplan.com",
-      "author": "Mac Slavo",
-      "title": "CDC Urges Increased Testing For Bird Flu",
-      "description": "As the media continues to push forward with the bird flu narrative. The Centers for Disease Control and Prevention have suggested that healthcare workers accelerate bird flu testing for patients hospitalized with flu symptoms as the H5N1 avian influenza outbr\u2026",
-      "url": "https://www.shtfplan.com/headline-news/cdc-urges-increased-testing-for-bird-flu",
-      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2023/12/bird-flu1.jpg",
-      "publishedAt": "2025-01-19 18:30:53",
-      "content": "As the media continues to push forward with the bird flu narrative. The Centers for Disease Control and Prevention have suggested that healthcare workers accelerate bird flu testing for patients hosp\u2026 [+2228 chars]",
-      "retrievedAt": "2025-01-20 19:05:48.523076",
-      "internal_id": "994713215544b42535086f4ce20c52d2645cf584d449998cc44d68847b889a02",
-      "publishedAtLabel": "Jan 19"
-    },
-    {
-      "id": 17564,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Zive.cz",
-      "author": "Karel Kili\u00e1n",
-      "title": "Prvn\u00ed \u00famrt\u00ed \u010dlov\u011bka na pta\u010d\u00ed ch\u0159ipku vyvol\u00e1v\u00e1 ot\u00e1zku, zda jsme p\u0159ipraveni na dal\u0161\u00ed pandemii",
-      "description": "",
-      "url": "https://vtm.zive.cz/clanky/prvni-umrti-cloveka-na-ptaci-chripku-vyvolava-otazku-zda-jsme-pripraveni-na-dalsi-pandemii/sc-870-a-232411/default.aspx",
-      "urlToImage": "https://www.zive.cz/getthumbnail.aspx?q=100&height=20000&width=20000&id_file=924558027",
-      "publishedAt": "2025-01-19 13:45:00",
-      "content": "Na za\u00e1tku leton\u00edho roku okovala veejnost zpr\u00e1va o prvn\u00edm \u00famrt\u00ed lovka v USA v dsledku pta\u00ed chipky H5N1. Star\u00ed mu z Louisiany, kter\u00fd byl v kontaktu s nakaen\u00fdmi pt\u00e1ky, podlehl tk\u00fdm respiran\u00edm komplikac\u00ed\u2026 [+3383 chars]",
-      "retrievedAt": "2025-01-20 19:05:48.712772",
-      "internal_id": "7155ac7915807811b6a0b6efb9ae01d3d8f5733480982476190cde0dd80cac33",
-      "publishedAtLabel": "Jan 19"
-    },
-    {
-      "id": 17566,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Catracalivre.com.br",
-      "author": "Andr\u00e9 Nicolau",
-      "title": "Dengue: Especialista ensina como usar o hipoclorito de s\u00f3dio no combate ao Aedes aegypti",
-      "description": "No ver\u00e3o aumenta o risco da dengue: aprenda a proteger sua casa do Aedes aegypti, mosquito transmissor da doen\u00e7a.",
-      "url": "https://catracalivre.com.br/saude-bem-estar/dengue-combate-ao-aedes-aegypti/",
-      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1280,h=680,fit=cover,format=jpeg/wp-content/uploads/2024/01/istock-183256299.jpg",
-      "publishedAt": "2025-01-19 12:00:41",
-      "content": "Casos de dengue triplicam em 2024 iStock/flubydust - iStock/flubydust Durante o ver\u00e3o, os casos de dengue aumentam consideravelmente. Isso acontece devido \u00e0 alta incid\u00eancia de chuvas em grande part\u2026 [+3503 chars]",
-      "retrievedAt": "2025-01-20 19:05:49.251975",
-      "internal_id": "e96f2e755416d68f1f032efdfae7ff9dcf6b4ed81e61f916e674ef2b451a70e8",
-      "publishedAtLabel": "Jan 19"
-    },
-    {
-      "id": 17565,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Metropoles.com",
-      "author": "Milena Teixeira",
-      "title": "Dengue: governo quer imunizante no programa de vacina\u00e7\u00e3o em 2026",
-      "description": "Governo quer incorporar a vacina do Instituto Butantan, que ainda deve ser certificada, no Plano Nacional de Imuniza\u00e7\u00f5es",
-      "url": "https://www.metropoles.com/colunas/igor-gadelha/dengue-governo-quer-imunizante-em-programa-de-vacinacao-em-2026",
-      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2025/01/06072339/dengue-7.jpg",
-      "publishedAt": "2025-01-19 08:00:00",
-      "content": "O Minist\u00e9rio da Sa\u00fade planeja ampliar a aplica\u00e7\u00e3o da vacina contra a dengue para mais p\u00fablicos at\u00e9 o final deste ano. Atualmente, o Sistema \u00danico de Sa\u00fade disponibiliza o imunizante apenas para crian\u2026 [+1240 chars]",
-      "retrievedAt": "2025-01-20 19:05:49.226468",
-      "internal_id": "5c1f3c4df86ee1f5ac8ca50f9a8bc0e3815d667441450e231da38962262e73cb",
       "publishedAtLabel": "Jan 19"
     }
   ]
