@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 32
-- **Last harvest:** 2025-03-03 07:07
-- **Most recent article:** 2025-03-02 05:10:28
+- **New articles in last harvest:** 5
+- **Last harvest:** 2025-03-03 19:05
+- **Most recent article:** 2025-03-02 14:45:00
 
 ---
 
@@ -12,14 +12,14 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-10 | 25-4 | 25-5 | 25-6 | 25-7 | 25-8 | 25-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 0 | 10 | 13 | 24 | 72 | 83 | 157 | 359 |
-| h5n1 | 3 | 31 | 51 | 72 | 55 | 54 | 42 | 308 |
-| dengue | 0 | 36 | 24 | 34 | 37 | 57 | 30 | 218 |
+| measles | 1 | 10 | 13 | 24 | 72 | 83 | 158 | 361 |
+| h5n1 | 3 | 29 | 51 | 72 | 55 | 54 | 42 | 306 |
+| dengue | 1 | 34 | 24 | 34 | 37 | 57 | 30 | 217 |
 | mpox | 1 | 23 | 22 | 28 | 18 | 15 | 26 | 133 |
-| malaria | 3 | 18 | 30 | 25 | 12 | 7 | 18 | 113 |
+| malaria | 4 | 18 | 30 | 25 | 12 | 7 | 18 | 114 |
 | meningitis | 0 | 2 | 8 | 2 | 12 | 11 | 7 | 42 |
 | chikungunya | 0 | 10 | 9 | 8 | 5 | 3 | 7 | 42 |
-| hpai | 2 | 11 | 6 | 3 | 9 | 5 | 4 | 40 |
+| hpai | 3 | 11 | 6 | 3 | 9 | 5 | 4 | 41 |
 | rabies | 0 | 7 | 6 | 4 | 5 | 4 | 2 | 28 |
 | zika | 0 | 2 | 8 | 6 | 2 | 6 | 2 | 26 |
 | typhoid | 0 | 0 | 0 | 2 | 3 | 0 | 4 | 9 |
@@ -168,6 +168,8 @@ Source: [News API](https://newsapi.org/)
 - [3 reasons you might need a measles booster — and whether you should worry about the recent outbreak](https://www.businessinsider.com/measles-booster-how-to-know-if-necessary-doctor-advice-2025-2) (Business Insider)
 
 - [Texas measles cases rise to 146 in an outbreak that led to a child’s death](https://www.bostonherald.com/2025/02/28/texas-measles-outbreak/) (Boston Herald)
+
+- [Can you still get measles even if you’ve been vaccinated?](https://www.vox.com/health/402025/texas-measles-outbreak-cases-mmr-vaccination) (Vox)
 
 - [Measles is one of the world’s most contagious viruses. Here’s what to know and how to avoid it](https://www.bostonherald.com/2025/02/28/measles-outbreak/) (Boston Herald)
 
@@ -2741,10 +2743,6 @@ Source: [News API](https://newsapi.org/)
 
 - [美国科学家拉响警报：新型 H5N1 禽流感病毒被发现，正威胁人类健康](https://www.ithome.com/0/825/921.htm) (Ithome.com)
 
-- [CDC Urges Increased Testing For Bird Flu](https://www.shtfplan.com/headline-news/cdc-urges-increased-testing-for-bird-flu) (Shtfplan.com)
-
-- [První úmrtí člověka na ptačí chřipku vyvolává otázku, zda jsme připraveni na další pandemii](https://vtm.zive.cz/clanky/prvni-umrti-cloveka-na-ptaci-chripku-vyvolava-otazku-zda-jsme-pripraveni-na-dalsi-pandemii/sc-870-a-232411/default.aspx) (Zive.cz)
-
 ## 25-4 (dengue)
 
 - [Joga lixo na rua? GDF usará drones para multar sujões. Veja valores](https://www.metropoles.com/distrito-federal/joga-lixo-na-rua-gdf-usara-drones-para-multar-sujoes-veja-valores) (Metropoles.com)
@@ -2815,10 +2813,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Saúde vai distribuir 6,5 milhões de testes rápidos de dengue a estados](https://veja.abril.com.br/coluna/radar/saude-vai-distribuir-65-milhoes-de-testes-rapidos-de-dengue-a-estados) (Abril.com.br)
 
-- [Dengue: Especialista ensina como usar o hipoclorito de sódio no combate ao Aedes aegypti](https://catracalivre.com.br/saude-bem-estar/dengue-combate-ao-aedes-aegypti/) (Catracalivre.com.br)
-
-- [Dengue: governo quer imunizante no programa de vacinação em 2026](https://www.metropoles.com/colunas/igor-gadelha/dengue-governo-quer-imunizante-em-programa-de-vacinacao-em-2026) (Metropoles.com)
-
 ## 25-4 (chikungunya)
 
 - [Natural exposure to Chikungunya virus in golden-headed lion tamarin (Leontopithecus chrysomelas, Kuhl, 1820) from non-protected areas in southern Bahia, Brazil: Implications and significance](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012695) (Plos.org)
@@ -2845,7 +2839,13 @@ Source: [News API](https://newsapi.org/)
 
 - [TWiV 1197: The long and short of influenza](https://www.microbe.tv/twiv/twiv-1197/) (Microbe.tv)
 
+## 25-10 (measles)
+
+- [Taking shots at vaccines has deadly consequences (Glenn C. Altschuler/The Hill)](https://www.memeorandum.com/250302/p12) (Memeorandum.com)
+
 ## 25-10 (malaria)
+
+- [Giving an old malaria drug new life](https://www.thestar.com.my/lifestyle/health/2025/03/02/giving-an-old-malaria-drug-new-life) (The Star Online)
 
 - [正義マン(65)「マスクしろ」男(25)「なんか知らねぇジジイが話しかけてきたw殺していいかな？w」](https://alfalfalfa.com/articles/10811388.html) (Alfalfalfa.com)
 
@@ -2854,6 +2854,8 @@ Source: [News API](https://newsapi.org/)
 - ['Total panic' as USAID cuts jobs from Syria to Haiti](https://www.japantimes.co.jp/news/2025/03/02/world/politics/usaid-jobs-syria-haiti/) (The Japan Times)
 
 ## 25-10 (hpai)
+
+- [Puste półki w USA. Polski potentat jaj: problemy też w Polsce, ceny pójdą w górę](https://businessinsider.com.pl/finanse/handel/puste-polki-w-usa-polski-potentat-jaj-problemy-tez-w-polsce-ceny-pojda-w-gore/m8sdxpe) (Businessinsider.com.pl)
 
 - [Voluntay Recall of Wild Coast Raw Boneless Free Range Chicken Formula Raw Pet Food Because of Possible Bird Flu Health Risk](https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/voluntay-recall-wild-coast-raw-boneless-free-range-chicken-formula-raw-pet-food-because-possible) (FDA.gov)
 
@@ -2866,3 +2868,7 @@ Source: [News API](https://newsapi.org/)
 - [Voluntay Recall of Wild Coast Raw Boneless Free Range Chicken Formula Raw Pet Food Because of Possible Bird Flu Health Risk](https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/voluntay-recall-wild-coast-raw-boneless-free-range-chicken-formula-raw-pet-food-because-possible) (FDA.gov)
 
 - [Voluntary Recall of Wild Coast Raw Boneless Free Range Chicken Formula Raw Pet Food Because of Possible Bird Flu Health Risk](https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/voluntary-recall-wild-coast-raw-boneless-free-range-chicken-formula-raw-pet-food-because-possible) (FDA.gov)
+
+## 25-10 (dengue)
+
+- [Ssa: este año, mil 781 casos de dengue y cero muertes](https://www.jornada.com.mx/2025/03/02/sociedad/027n1soc) (Jornada.com.mx)

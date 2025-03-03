@@ -1,8 +1,80 @@
 {
-  "last_updated": "2025-03-03 07:07",
-  "count_articles_total": 1294,
-  "count_articles_new": 32,
+  "last_updated": "2025-03-03 19:05",
+  "count_articles_total": 1295,
+  "count_articles_new": 5,
   "articles": [
+    {
+      "id": 18858,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "Taking shots at vaccines has deadly consequences (Glenn C. Altschuler/The Hill)",
+      "description": "Glenn C. Altschuler / The Hill: Taking shots at vaccines has deadly consequences \u2014 Public health authorities reported on Feb. 21 that an ongoing measles outbreak in Gaines County, Texas and Lea County, New Mexico was already the largest in decades. Of the \u2026",
+      "url": "https://www.memeorandum.com/250302/p12",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2025/02/AP25058597447123-e1740780617390.jpg?w=1280",
+      "publishedAt": "2025-03-02 14:45:00",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-03-03 19:05:53.852045",
+      "internal_id": "c7a065728afda105f6cda7600f3f60a9c1e4cea233eb5cb1d18e3627d70d7fa9",
+      "publishedAtLabel": "Mar 2"
+    },
+    {
+      "id": 18859,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Businessinsider.com.pl",
+      "author": null,
+      "title": "Puste p\u00f3\u0142ki w USA. Polski potentat jaj: problemy te\u017c w Polsce, ceny p\u00f3jd\u0105 w g\u00f3r\u0119",
+      "description": "Tylko w ci\u0105gu ostatnich pi\u0119ciu miesi\u0119cy w wyniku walki z HPAI, straty w pog\u0142owiu kur nie\u015bnych w naszym kraju wynios\u0142y oko\u0142o 6 mln. \u2014 Tak du\u017ca redukcja potencja\u0142u produkcyjnego nie mo\u017ce pozosta\u0107 bez konsekwencji dla cen detalicznych \u2014 m\u00f3wi ekspertka. To oznacz\u2026",
+      "url": "https://businessinsider.com.pl/finanse/handel/puste-polki-w-usa-polski-potentat-jaj-problemy-tez-w-polsce-ceny-pojda-w-gore/m8sdxpe",
+      "urlToImage": "https://ocdn.eu/pulscms-transforms/1/COtk9kpTURBXy9kODY3NTllNzZjNjI1MWFmOGFiNGE2NDAyOWFlOWMxNC5qcGeSlQMAzHbNB9DNBGWTBc0EsM0Cdt4AAaEwAQ",
+      "publishedAt": "2025-03-02 13:22:43",
+      "content": "Sytuacja robi si coraz bardziej powana. W Stanach Zjednoczonych p\u00f3ki z jajami wiec pustkami, a gdy produkty ju si na nich pojawi, osigaj zawrotne ceny. Wszystko przez szalejcy wirus HPAI, kt\u00f3ry tylko\u2026 [+6028 chars]",
+      "retrievedAt": "2025-03-03 19:05:54.013022",
+      "internal_id": "413d55005a4ade7698a4d7f9b3983c2f633ce8ff4f75b01142bd9ca90bcbeab6",
+      "publishedAtLabel": "Mar 2"
+    },
+    {
+      "id": 18861,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Agency",
+      "title": "Giving an old malaria drug new life",
+      "description": "Scientists are redesigning an existing malaria medicine to make it last longer in the body.",
+      "url": "https://www.thestar.com.my/lifestyle/health/2025/03/02/giving-an-old-malaria-drug-new-life",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/02/28/3190130.jpg",
+      "publishedAt": "2025-03-02 12:51:31",
+      "content": "A new clinical trial from Scripps Research in La Jolla, California, United States, aims to make significant gains in the global fight against malaria by making a drug that has been around since the 1\u2026 [+3088 chars]",
+      "retrievedAt": "2025-03-03 19:05:55.477086",
+      "internal_id": "9e97bf16d4b07eb43a29f5729ca52ff237404627bb2b6ceeaf5608dfc5ecca15",
+      "publishedAtLabel": "Mar 2"
+    },
+    {
+      "id": 18860,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "title": "Ssa: este a\u00f1o, mil 781 casos de dengue y cero muertes",
+      "description": "La Secretar\u00eda de Salud (Ssa) report\u00f3 que en lo que va del a\u00f1o se han confirmado mil 781 casos de dengue, de los cuales 53.7 por ciento son contagios con signos de alarma y al menos otros 66 casos corresponden al tipo grave o hemorr\u00e1gico.",
+      "url": "https://www.jornada.com.mx/2025/03/02/sociedad/027n1soc",
+      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "publishedAt": "2025-03-02 09:02:36",
+      "content": "Peri\u00f3dico La JornadaDomingo 2 de marzo de 2025, p. 27 La Secretar\u00eda de Salud (Ssa) report\u00f3 que en lo que va del a\u00f1o se han confirmado mil 781 casos de dengue, de los cuales 53.7 por ciento son conta\u2026 [+1682 chars]",
+      "retrievedAt": "2025-03-03 19:05:54.725898",
+      "internal_id": "f5f305794e31b3fddf0cfa86e8d50d0f58d2f1633ca054d9a64f05cabfc42835",
+      "publishedAtLabel": "Mar 2"
+    },
     {
       "id": 18849,
       "query": [
@@ -670,6 +742,24 @@
       "content": "By JAMIE STENGLE DALLAS (AP) \u2014 The number of people with measles in Texas increased to 146 in an outbreak that led this week to the death of an unvaccinated school-aged child, health officials said \u2026 [+2656 chars]",
       "retrievedAt": "2025-03-03 07:07:17.001500",
       "internal_id": "c02bd817e0f2b4d83a6e05bf507ce266b7a44ef3c47d5a48144a13a57aed11c2",
+      "publishedAtLabel": "Feb 28"
+    },
+    {
+      "id": 18857,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Vox",
+      "author": "Dylan Scott",
+      "title": "Can you still get measles even if you\u2019ve been vaccinated?",
+      "description": "Nearly 150 people have been infected with measles in Texas and New Mexico, and last week, Texas health officials confirmed the first death in the ongoing outbreak: an unvaccinated child. While almost all of the infected are believed to be unvaccinated, five o\u2026",
+      "url": "https://www.vox.com/health/402025/texas-measles-outbreak-cases-mmr-vaccination",
+      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/02/GettyImages-930111234.jpg?quality=90&strip=all&crop=0%2C10.737601226257%2C100%2C78.524797547485&w=1200",
+      "publishedAt": "2025-02-28 17:58:05",
+      "content": "It is very rare for a vaccinated person to become infected with measles. | Getty Images Nearly 150 people have been infected with measles in Texas and New Mexico, and last week, Texas health offic\u2026 [+6522 chars]",
+      "retrievedAt": "2025-03-03 19:05:53.533553",
+      "internal_id": "f05f5287f95e64e18da0281d43b25159f2d96385a322e8ce085869c12e58a759",
       "publishedAtLabel": "Feb 28"
     },
     {
@@ -23267,78 +23357,6 @@
       "content": "Oferta Rel\u00e2mpago: 4 revistas pelo pre\u00e7o de uma! Aedes aegypti: a picada da f\u00eamea do mosquito transmite a dengue (Divulga\u00e7\u00e3o/Divulga\u00e7\u00e3o) Continua ap\u00f3s publicidade O Minist\u00e9rio da Sa\u00fade vai distribu\u2026 [+952 chars]",
       "retrievedAt": "2025-01-21 07:06:20.719045",
       "internal_id": "502de82804265c8547ec4cfd22927d8a990b6b75818f525812b4561692d98b69",
-      "publishedAtLabel": "Jan 19"
-    },
-    {
-      "id": 17563,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Shtfplan.com",
-      "author": "Mac Slavo",
-      "title": "CDC Urges Increased Testing For Bird Flu",
-      "description": "As the media continues to push forward with the bird flu narrative. The Centers for Disease Control and Prevention have suggested that healthcare workers accelerate bird flu testing for patients hospitalized with flu symptoms as the H5N1 avian influenza outbr\u2026",
-      "url": "https://www.shtfplan.com/headline-news/cdc-urges-increased-testing-for-bird-flu",
-      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2023/12/bird-flu1.jpg",
-      "publishedAt": "2025-01-19 18:30:53",
-      "content": "As the media continues to push forward with the bird flu narrative. The Centers for Disease Control and Prevention have suggested that healthcare workers accelerate bird flu testing for patients hosp\u2026 [+2228 chars]",
-      "retrievedAt": "2025-01-20 19:05:48.523076",
-      "internal_id": "994713215544b42535086f4ce20c52d2645cf584d449998cc44d68847b889a02",
-      "publishedAtLabel": "Jan 19"
-    },
-    {
-      "id": 17564,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Zive.cz",
-      "author": "Karel Kili\u00e1n",
-      "title": "Prvn\u00ed \u00famrt\u00ed \u010dlov\u011bka na pta\u010d\u00ed ch\u0159ipku vyvol\u00e1v\u00e1 ot\u00e1zku, zda jsme p\u0159ipraveni na dal\u0161\u00ed pandemii",
-      "description": "",
-      "url": "https://vtm.zive.cz/clanky/prvni-umrti-cloveka-na-ptaci-chripku-vyvolava-otazku-zda-jsme-pripraveni-na-dalsi-pandemii/sc-870-a-232411/default.aspx",
-      "urlToImage": "https://www.zive.cz/getthumbnail.aspx?q=100&height=20000&width=20000&id_file=924558027",
-      "publishedAt": "2025-01-19 13:45:00",
-      "content": "Na za\u00e1tku leton\u00edho roku okovala veejnost zpr\u00e1va o prvn\u00edm \u00famrt\u00ed lovka v USA v dsledku pta\u00ed chipky H5N1. Star\u00ed mu z Louisiany, kter\u00fd byl v kontaktu s nakaen\u00fdmi pt\u00e1ky, podlehl tk\u00fdm respiran\u00edm komplikac\u00ed\u2026 [+3383 chars]",
-      "retrievedAt": "2025-01-20 19:05:48.712772",
-      "internal_id": "7155ac7915807811b6a0b6efb9ae01d3d8f5733480982476190cde0dd80cac33",
-      "publishedAtLabel": "Jan 19"
-    },
-    {
-      "id": 17566,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Catracalivre.com.br",
-      "author": "Andr\u00e9 Nicolau",
-      "title": "Dengue: Especialista ensina como usar o hipoclorito de s\u00f3dio no combate ao Aedes aegypti",
-      "description": "No ver\u00e3o aumenta o risco da dengue: aprenda a proteger sua casa do Aedes aegypti, mosquito transmissor da doen\u00e7a.",
-      "url": "https://catracalivre.com.br/saude-bem-estar/dengue-combate-ao-aedes-aegypti/",
-      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1280,h=680,fit=cover,format=jpeg/wp-content/uploads/2024/01/istock-183256299.jpg",
-      "publishedAt": "2025-01-19 12:00:41",
-      "content": "Casos de dengue triplicam em 2024 iStock/flubydust - iStock/flubydust Durante o ver\u00e3o, os casos de dengue aumentam consideravelmente. Isso acontece devido \u00e0 alta incid\u00eancia de chuvas em grande part\u2026 [+3503 chars]",
-      "retrievedAt": "2025-01-20 19:05:49.251975",
-      "internal_id": "e96f2e755416d68f1f032efdfae7ff9dcf6b4ed81e61f916e674ef2b451a70e8",
-      "publishedAtLabel": "Jan 19"
-    },
-    {
-      "id": 17565,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Metropoles.com",
-      "author": "Milena Teixeira",
-      "title": "Dengue: governo quer imunizante no programa de vacina\u00e7\u00e3o em 2026",
-      "description": "Governo quer incorporar a vacina do Instituto Butantan, que ainda deve ser certificada, no Plano Nacional de Imuniza\u00e7\u00f5es",
-      "url": "https://www.metropoles.com/colunas/igor-gadelha/dengue-governo-quer-imunizante-em-programa-de-vacinacao-em-2026",
-      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2025/01/06072339/dengue-7.jpg",
-      "publishedAt": "2025-01-19 08:00:00",
-      "content": "O Minist\u00e9rio da Sa\u00fade planeja ampliar a aplica\u00e7\u00e3o da vacina contra a dengue para mais p\u00fablicos at\u00e9 o final deste ano. Atualmente, o Sistema \u00danico de Sa\u00fade disponibiliza o imunizante apenas para crian\u2026 [+1240 chars]",
-      "retrievedAt": "2025-01-20 19:05:49.226468",
-      "internal_id": "5c1f3c4df86ee1f5ac8ca50f9a8bc0e3815d667441450e231da38962262e73cb",
       "publishedAtLabel": "Jan 19"
     }
   ]
