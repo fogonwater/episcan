@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 6
-- **Last harvest:** 2025-03-02 19:05
-- **Most recent article:** 2025-03-01 18:53:34
+- **New articles in last harvest:** 32
+- **Last harvest:** 2025-03-03 07:07
+- **Most recent article:** 2025-03-02 05:10:28
 
 ---
 
@@ -10,23 +10,23 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 25-4 | 25-5 | 25-6 | 25-7 | 25-8 | 25-9 | Total |
-|--|-|-|-|-|-|-|-|
-| measles | 10 | 13 | 24 | 72 | 83 | 137 | 339 |
-| h5n1 | 29 | 51 | 72 | 55 | 54 | 42 | 303 |
-| dengue | 34 | 24 | 34 | 37 | 57 | 30 | 216 |
-| mpox | 23 | 22 | 28 | 18 | 15 | 26 | 132 |
-| malaria | 18 | 30 | 25 | 12 | 7 | 14 | 106 |
-| meningitis | 2 | 8 | 2 | 12 | 11 | 7 | 42 |
-| chikungunya | 10 | 9 | 8 | 5 | 3 | 7 | 42 |
-| hpai | 11 | 6 | 3 | 9 | 5 | 4 | 38 |
-| rabies | 7 | 6 | 4 | 5 | 4 | 1 | 27 |
-| zika | 2 | 8 | 6 | 2 | 6 | 2 | 26 |
-| pertussis | 1 | 0 | 3 | 3 | 2 | 0 | 9 |
-| typhoid | 0 | 0 | 2 | 3 | 0 | 2 | 7 |
-| yersinia | 0 | 0 | 0 | 5 | 0 | 2 | 7 |
-| leptospirosis | 2 | 0 | 1 | 0 | 2 | 0 | 5 |
-| shigellosis | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
+| Disease | 25-10 | 25-4 | 25-5 | 25-6 | 25-7 | 25-8 | 25-9 | Total |
+|--|-|-|-|-|-|-|-|-|
+| measles | 0 | 10 | 13 | 24 | 72 | 83 | 157 | 359 |
+| h5n1 | 3 | 31 | 51 | 72 | 55 | 54 | 42 | 308 |
+| dengue | 0 | 36 | 24 | 34 | 37 | 57 | 30 | 218 |
+| mpox | 1 | 23 | 22 | 28 | 18 | 15 | 26 | 133 |
+| malaria | 3 | 18 | 30 | 25 | 12 | 7 | 18 | 113 |
+| meningitis | 0 | 2 | 8 | 2 | 12 | 11 | 7 | 42 |
+| chikungunya | 0 | 10 | 9 | 8 | 5 | 3 | 7 | 42 |
+| hpai | 2 | 11 | 6 | 3 | 9 | 5 | 4 | 40 |
+| rabies | 0 | 7 | 6 | 4 | 5 | 4 | 2 | 28 |
+| zika | 0 | 2 | 8 | 6 | 2 | 6 | 2 | 26 |
+| typhoid | 0 | 0 | 0 | 2 | 3 | 0 | 4 | 9 |
+| pertussis | 0 | 1 | 0 | 3 | 3 | 2 | 0 | 9 |
+| yersinia | 0 | 0 | 0 | 0 | 5 | 0 | 2 | 7 |
+| leptospirosis | 0 | 2 | 0 | 1 | 0 | 2 | 0 | 5 |
+| shigellosis | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -47,6 +47,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-9 (typhoid)
 
+- [Is Lance Barber's George Sr. Going To Return Again In Georgie & Mandy's First Marriage? What We Know & What Episode 12 Suggests](https://screenrant.com/is-lance-barbers-george-sr-going-to-return-again-in-georgie-mandys-first-marriage-what-we-know-what-episode-12-suggests/) (Screen Rant)
+
+- [After Georgie And Mandy’s First Marriage Brought Back George Sr. For Emotional Episode, The Show’s EP Weighed In On Whether He’ll Return](https://www.cinemablend.com/television/after-georgie-and-mandys-first-marriage-brought-back-george-sr-shows-ep-whether-hell-return) (CinemaBlend)
+
 - [Georgie & Mandy's First Marriage Brought Back George Sr. With A Hilarious WTF Moment I Didn't See Coming](https://www.cinemablend.com/television/georgie-and-mandys-first-marriage-brought-back-george-sr-hilarious-wtf-zombie-moment) (CinemaBlend)
 
 - [Evaluation of Moore and grab sampling method for Salmonella Typhi detection in environmental samples in Ghana](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318840) (Plos.org)
@@ -56,6 +60,8 @@ Source: [News API](https://newsapi.org/)
 - [Tebipenem pivoxil as an alternative to ceftriaxone for clinically non-responding children with shigellosis: a randomised non-inferiority trial protocol](https://bmjopen.bmj.com/content/15/2/e088449) (The BMJ)
 
 ## 25-9 (rabies)
+
+- [Englewood dog rescue’s license suspended after rabies scare, failed inspections](https://www.denverpost.com/2025/03/01/englewood-dog-rescue-license-suspended-moms-and-mutts/) (The Denver Post)
 
 - [Dogbite cases & rabies deaths see surge across Karnataka](https://timesofindia.indiatimes.com/city/bengaluru/dogbite-cases-rabies-deaths-see-surge-across-karnataka/articleshow/118653971.cms) (The Times of India)
 
@@ -131,7 +137,13 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-9 (measles)
 
+- [Vitamin A](https://www.eschatonblog.com/2025/03/vitamin-a.html) (Eschatonblog.com)
+
 - [Yesterday’s comments of note](https://bringatrailer.com/2025/03/01/yesterdays-comments-of-note-2189/) (Bringatrailer.com)
+
+- [Kennedy Jr backtracks and says US measles outbreak is now a 'top priority' for health department (The Guardian)](https://www.memeorandum.com/250301/p23) (Memeorandum.com)
+
+- [US Measles Map Shows Hardest Hit States As Cases Spike](https://www.newsweek.com/us-measles-map-shows-hardest-hit-states-cases-spike-2038215) (Newsweek)
 
 - [As Texas measles outbreak grows, here's what to know about the disease, vaccines and response](https://www.nbcnews.com/health/health-news/measles-outbreak-texas-vaccines-kids-cases-what-know-rcna194216) (NBC News)
 
@@ -145,9 +157,19 @@ Source: [News API](https://newsapi.org/)
 
 - [Texas doctor addresses the region's measles outbreak](https://www.npr.org/2025/02/28/nx-s1-5310277/texas-doctor-addresses-the-regions-measles-outbreak) (NPR)
 
+- [How long does measles immunity last?](https://ask.metafilter.com/384697/How-long-does-measles-immunity-last) (Metafilter.com)
+
 - [Map shows measles cases across U.S.](https://www.cbsnews.com/news/measles-outbreak-us-map/) (CBS News)
 
+- [Massachusetts measles cases: No recent cases reported, as outbreaks spread across country](https://www.bostonherald.com/2025/02/28/massachusetts-measles-cases-no-recent-cases-reported-as-outbreaks-spread-across-country/) (Boston Herald)
+
+- [York Region Public Health warns of measles exposure linked to flight from South Korea](https://www.cbc.ca/news/canada/toronto/yrph-measles-outbreak-international-travel-south-korea-1.7471761) (CBC News)
+
 - [3 reasons you might need a measles booster — and whether you should worry about the recent outbreak](https://www.businessinsider.com/measles-booster-how-to-know-if-necessary-doctor-advice-2025-2) (Business Insider)
+
+- [Texas measles cases rise to 146 in an outbreak that led to a child’s death](https://www.bostonherald.com/2025/02/28/texas-measles-outbreak/) (Boston Herald)
+
+- [Measles is one of the world’s most contagious viruses. Here’s what to know and how to avoid it](https://www.bostonherald.com/2025/02/28/measles-outbreak/) (Boston Herald)
 
 - [Texas Measles Cases Rise to 146 In an Outbreak That Led to a Child’s Death](https://time.com/7262850/texas-measles-cases-rise-146-outbreak-child-died/) (Time)
 
@@ -163,7 +185,11 @@ Source: [News API](https://newsapi.org/)
 
 - [As the Texas outbreak grows, how contagious is measles, really?](https://www.npr.org/sections/shots-health-news/2025/02/28/nx-s1-5312088/measles-texas-outbreak-contagious-spread) (NPR)
 
+- ['He's Full Of S**t': Pediatrician In Congress Blames RFK Jr. For Child's Death From Measles (Jennifer Bendery/HuffPost)](https://www.memeorandum.com/250228/p3) (Memeorandum.com)
+
 - [CDC Statement on Measles Outbreak (CDC Newsroom)](https://www.memeorandum.com/250227/p176) (Memeorandum.com)
+
+- [【速報】ロサンゼルス国際空港が非常事態宣言、ぶっ倒れた韓国からの旅行者が非常に感染力の高い呼吸器疾患の検査で陽性](http://blog.livedoor.jp/rbkyn844/archives/10810633.html) (Livedoor.jp)
 
 - [WATCH: Ohio school bus driver praised for saving children from burning vehicle](https://abcnews.go.com/WNT/video/ohio-school-bus-driver-praised-saving-children-burning-119274216) (ABC News)
 
@@ -171,9 +197,17 @@ Source: [News API](https://newsapi.org/)
 
 - [RFK Jr., America’s Leading Advocate for Getting Measles](https://www.theatlantic.com/health/archive/2025/02/rfk-measles-vaccines-texas-outbreak/681860/) (The Atlantic)
 
+- [With RFK Jr. at his side, a measles outbreak could prove 'politically perilous' for Trump (NBC News)](https://www.memeorandum.com/250227/p127) (Memeorandum.com)
+
 - [RFK Downplays Texas Measles Outbreak After First US Death in 10 Years](https://truthout.org/articles/rfk-downplays-texas-measles-outbreak-after-first-us-death-in-10-years/) (Truthout)
 
 - [As measles cases mount in U.S., what’s the situation worldwide?](https://japantoday.com/category/features/health/as-measles-cases-mount-in-the-us-what%E2%80%99s-the-situation-worldwide) (Japan Today)
+
+- [Child Dies of Measles During Recent Outbreak in Texas and New Mexico](https://legalinsurrection.com/2025/02/child-dies-of-measles-during-recent-outbreak-in-texas-and-new-mexico/) (Legalinsurrection.com)
+
+- [Health Leaders Address Viral Outbreak Claiming First Life in a Decade-Disney Guests Among Those at Risk](https://insidethemagic.net/2025/02/disney-parks-usa-measles-outbreaks-updates-emd1/) (Inside the Magic)
+
+- [Measles cases nearly double in Ontario over last 2 weeks, far surpassing last decade's total](https://www.cbc.ca/news/canada/toronto/measles-cases-ontario-double-last-two-weeks-1.7470166) (CBC News)
 
 - [Texas outbreak brings 1st US measles death since 2015](https://theweek.com/health/texas-measles-outbreak-death) (The Week Magazine)
 
@@ -185,11 +219,17 @@ Source: [News API](https://newsapi.org/)
 
 - [As measles cases mount in the US, what’s the situation worldwide?](https://www.bostonherald.com/2025/02/27/measles-us-cases-global-situation/) (Boston Herald)
 
+- [CDC Statement on Measles Outbreak](https://www.cdc.gov/media/releases/2025/2025-cdc-statement-on-measles-outbreak.html) (Cdc.gov)
+
 - [Robert F. Kennedy Jr. said two died in measles outbreak. His agency says it was only one.](https://www.courier-journal.com/story/life/wellness/health/2025/02/27/robert-f-kennedy-measles-trump-texas/80684155007/) (Courier Journal)
 
 - [Child Dies from Measles in Texas as Disease "Comes Roaring Back" Amid Anti-Vaccine Disinformation](https://www.democracynow.org/2025/2/27/rfk_jr_measles_dr_peter_hotez) (Democracy Now!)
 
 - ['Something unusual is happening': Expert singles out RFK Jr. over measles deaths](https://www.rawstory.com/rfk-measles/) (Raw Story)
+
+- [As measles cases mount in the US, what’s the situation worldwide?](https://abcnews.go.com/Health/wireStory/measles-cases-mount-us-whats-situation-worldwide-119242577) (ABC News)
+
+- [As Measles Cases Mount in the U.S., What’s the Situation Worldwide?](https://time.com/7262314/measles-cases-united-states-rise-worldwide-outlook/) (Time)
 
 - [Unvaccinated Child Dies In West Texas From Measles](https://crooksandliars.com/2025/02/unvaccinated-child-west-texas-dies-measles) (Crooksandliars.com)
 
@@ -197,7 +237,13 @@ Source: [News API](https://newsapi.org/)
 
 - [“Terrifying”: Trump’s Ominous Moment with RFK on First Measles Death](https://newrepublic.com/article/192052/terrifying-trumps-ominous-moment-rfk-first-measles-death) (The New Republic)
 
+- [Texas child dies in measles outbreak](https://www.hurriyetdailynews.com/texas-child-dies-in-measles-outbreak-206319) (Hurriyet Daily News)
+
 - [Measles in Texas: A deadly disease that can be prevented](https://www.dw.com/en/measles-in-texas-a-deadly-disease-that-can-be-prevented/a-68121991) (DW (English))
+
+- [An unvaccinated child has died from measles in west Texas](https://www.npr.org/2025/02/27/nx-s1-5309987/an-unvaccinated-child-has-died-from-measles-in-west-texas) (NPR)
+
+- [Exposure sites in Melbourne and Bendigo listed for two measles cases](https://www.abc.net.au/news/2025-02-27/measles-victoria-local-outbreak/104992218) (ABC News (AU))
 
 - [Texas Reports First US Measles Death In A Decade Amid Growing Outbreak](https://www.ibtimes.com/texas-reports-first-us-measles-death-decade-amid-growing-outbreak-3764966) (International Business Times)
 
@@ -409,7 +455,15 @@ Source: [News API](https://newsapi.org/)
 
 - [Government inefficiency](https://www.lawyersgunsmoneyblog.com/2025/03/government-inefficiency) (Lawyersgunsmoneyblog.com)
 
+- [Trump Ends Funding For Malaria, H.I.V., & More Global Health Programs - NewsBreak](https://www.newsbreak.com/share/3834544178448-trump-ends-funding-for-malaria-h-i-v-more-global-health-programs?_f=app_share&pd=05WApuMu&lang=en_US&send_time=1740793689&trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.8.2.1%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_recall_exp_25q1-v4%2Cns_foryou_model_exp_25q1-v8%2Cns_foryou_blend_exp_25q1-v8%2Cns_push_exp_rt_bucketv12-v8%2Cns_local_strategy_25q1_exp-v6%2Cns_foryou_rank_exp_25q1-v5&s=i2) (Newsbreak.com)
+
+- [Trump Ends Funding For Malaria, H.I.V., & More Global Health Programs - NewsBreak](https://www.newsbreak.com/share/3834544178448-trump-ends-funding-for-malaria-h-i-v-more-global-health-programs?_f=app_share&pd=0ClH7CeN&lang=en_US&send_time=1740790525&trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.8.2.1%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_rank_exp_25q1-v1%2Cns_foryou_recall_exp_25q1-v2%2Cns_foryou_model_exp_25q1-v9%2Cns_foryou_blend_exp_25q1-v9%2Cns_push_exp_rt_bucketv12-control%2Cns_local_strategy_25q1_exp-v8&s=i2) (Newsbreak.com)
+
+- [Trump Ends Funding For Malaria, H.I.V., & More Global Health Programs - NewsBreak](https://www.newsbreak.com/share/3834544178448-trump-ends-funding-for-malaria-h-i-v-more-global-health-programs?s=a2&share_destination_id=MjIzNTc5MDctMTc0MDg0NzQ2MTQ3NA%3D%3D&pd=01VoJP8O&hl=en_US&send_time=1740847461&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.9.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_rank_exp_25q1-v9%2Cns_foryou_recall_exp_25q1-v4%2Cns_local_strategy_25q1_exp-v5%2Cns_foryou_blend_exp_25q1-v4%2Cns_foryou_model_exp_25q1-v9%2Cns_push_exp_rt_bucketv12-v3) (Newsbreak.com)
+
 - [Trump and Rubio Officially Wave Goodbye to Ebola Control](https://www.esquire.com/news-politics/politics/a63977481/trump-administration-usaid-epa-fbi/) (esquire.com)
+
+- [Un brote de una enfermedad desconocida en El Congo deja ya 53 fallecidos](https://www.eldiario.es/sociedad/brote-enfermedad-desconocida-congo-deja-53-fallecidos_1_12092398.html) (Eldiario.es)
 
 - [USAID contracts cancelled: Donald Trump administration cuts funding for polio, HIV, malaria programmes](https://economictimes.indiatimes.com/news/international/us/usaid-contracts-cancelled-donald-trump-administration-cuts-funding-for-polio-hiv-malaria-programmes/articleshow/118633381.cms) (The Times of India)
 
@@ -2687,6 +2741,10 @@ Source: [News API](https://newsapi.org/)
 
 - [美国科学家拉响警报：新型 H5N1 禽流感病毒被发现，正威胁人类健康](https://www.ithome.com/0/825/921.htm) (Ithome.com)
 
+- [CDC Urges Increased Testing For Bird Flu](https://www.shtfplan.com/headline-news/cdc-urges-increased-testing-for-bird-flu) (Shtfplan.com)
+
+- [První úmrtí člověka na ptačí chřipku vyvolává otázku, zda jsme připraveni na další pandemii](https://vtm.zive.cz/clanky/prvni-umrti-cloveka-na-ptaci-chripku-vyvolava-otazku-zda-jsme-pripraveni-na-dalsi-pandemii/sc-870-a-232411/default.aspx) (Zive.cz)
+
 ## 25-4 (dengue)
 
 - [Joga lixo na rua? GDF usará drones para multar sujões. Veja valores](https://www.metropoles.com/distrito-federal/joga-lixo-na-rua-gdf-usara-drones-para-multar-sujoes-veja-valores) (Metropoles.com)
@@ -2757,6 +2815,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Saúde vai distribuir 6,5 milhões de testes rápidos de dengue a estados](https://veja.abril.com.br/coluna/radar/saude-vai-distribuir-65-milhoes-de-testes-rapidos-de-dengue-a-estados) (Abril.com.br)
 
+- [Dengue: Especialista ensina como usar o hipoclorito de sódio no combate ao Aedes aegypti](https://catracalivre.com.br/saude-bem-estar/dengue-combate-ao-aedes-aegypti/) (Catracalivre.com.br)
+
+- [Dengue: governo quer imunizante no programa de vacinação em 2026](https://www.metropoles.com/colunas/igor-gadelha/dengue-governo-quer-imunizante-em-programa-de-vacinacao-em-2026) (Metropoles.com)
+
 ## 25-4 (chikungunya)
 
 - [Natural exposure to Chikungunya virus in golden-headed lion tamarin (Leontopithecus chrysomelas, Kuhl, 1820) from non-protected areas in southern Bahia, Brazil: Implications and significance](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012695) (Plos.org)
@@ -2778,3 +2840,29 @@ Source: [News API](https://newsapi.org/)
 - [Valneva annonce une réponse immunitaire robuste et durable chez les adolescents un an après une seule vaccination avec son vaccin contre le chikungunya](https://www.globenewswire.com/news-release/2025/01/20/3012198/0/fr/Valneva-annonce-une-r%C3%A9ponse-immunitaire-robuste-et-durable-chez-les-adolescents-un-an-apr%C3%A8s-une-seule-vaccination-avec-son-vaccin-contre-le-chikungunya.html) (GlobeNewswire)
 
 - [Valneva Reports High Sustained Immune Response in Adolescents One Year After Single Vaccination with its Chikungunya Vaccine](https://www.globenewswire.com/news-release/2025/01/20/3012198/0/en/Valneva-Reports-High-Sustained-Immune-Response-in-Adolescents-One-Year-After-Single-Vaccination-with-its-Chikungunya-Vaccine.html) (GlobeNewswire)
+
+## 25-10 (mpox)
+
+- [TWiV 1197: The long and short of influenza](https://www.microbe.tv/twiv/twiv-1197/) (Microbe.tv)
+
+## 25-10 (malaria)
+
+- [正義マン(65)「マスクしろ」男(25)「なんか知らねぇジジイが話しかけてきたw殺していいかな？w」](https://alfalfalfa.com/articles/10811388.html) (Alfalfalfa.com)
+
+- [TWiV 1197: The long and short of influenza](https://www.microbe.tv/twiv/twiv-1197/) (Microbe.tv)
+
+- ['Total panic' as USAID cuts jobs from Syria to Haiti](https://www.japantimes.co.jp/news/2025/03/02/world/politics/usaid-jobs-syria-haiti/) (The Japan Times)
+
+## 25-10 (hpai)
+
+- [Voluntay Recall of Wild Coast Raw Boneless Free Range Chicken Formula Raw Pet Food Because of Possible Bird Flu Health Risk](https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/voluntay-recall-wild-coast-raw-boneless-free-range-chicken-formula-raw-pet-food-because-possible) (FDA.gov)
+
+- [Voluntary Recall of Wild Coast Raw Boneless Free Range Chicken Formula Raw Pet Food Because of Possible Bird Flu Health Risk](https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/voluntary-recall-wild-coast-raw-boneless-free-range-chicken-formula-raw-pet-food-because-possible) (FDA.gov)
+
+## 25-10 (h5n1)
+
+- [Tartunta­taudissa tapahtui käänne ja uusi pandemia on mahdollinen: ”Tilanne on huolestuttava”](https://www.iltalehti.fi/kotimaa/a/57db37b9-4756-45d1-bc83-412e55fca5c8) (Iltalehti.fi)
+
+- [Voluntay Recall of Wild Coast Raw Boneless Free Range Chicken Formula Raw Pet Food Because of Possible Bird Flu Health Risk](https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/voluntay-recall-wild-coast-raw-boneless-free-range-chicken-formula-raw-pet-food-because-possible) (FDA.gov)
+
+- [Voluntary Recall of Wild Coast Raw Boneless Free Range Chicken Formula Raw Pet Food Because of Possible Bird Flu Health Risk](https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/voluntary-recall-wild-coast-raw-boneless-free-range-chicken-formula-raw-pet-food-because-possible) (FDA.gov)
