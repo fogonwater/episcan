@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 16
-- **Last harvest:** 2025-03-04 07:07
-- **Most recent article:** 2025-03-03 04:55:00
+- **New articles in last harvest:** 38
+- **Last harvest:** 2025-03-04 19:05
+- **Most recent article:** 2025-03-03 18:39:51
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-10 | 25-4 | 25-5 | 25-6 | 25-7 | 25-8 | 25-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 10 | 10 | 13 | 24 | 72 | 83 | 162 | 374 |
-| h5n1 | 3 | 31 | 51 | 72 | 55 | 54 | 42 | 308 |
-| dengue | 1 | 36 | 24 | 34 | 37 | 57 | 30 | 219 |
-| mpox | 1 | 23 | 22 | 28 | 18 | 15 | 26 | 133 |
-| malaria | 5 | 18 | 30 | 25 | 12 | 7 | 20 | 117 |
-| meningitis | 0 | 2 | 8 | 2 | 12 | 11 | 7 | 42 |
-| chikungunya | 0 | 10 | 9 | 8 | 5 | 3 | 7 | 42 |
+| measles | 26 | 10 | 13 | 24 | 72 | 83 | 162 | 390 |
+| h5n1 | 5 | 29 | 51 | 72 | 55 | 54 | 42 | 308 |
+| dengue | 3 | 34 | 24 | 34 | 37 | 57 | 30 | 219 |
+| mpox | 8 | 23 | 22 | 28 | 18 | 15 | 26 | 140 |
+| malaria | 11 | 18 | 30 | 25 | 12 | 7 | 20 | 123 |
+| meningitis | 2 | 2 | 8 | 2 | 12 | 11 | 7 | 44 |
+| chikungunya | 1 | 10 | 9 | 8 | 5 | 3 | 7 | 43 |
 | hpai | 3 | 11 | 6 | 3 | 9 | 5 | 4 | 41 |
+| zika | 2 | 2 | 8 | 6 | 2 | 6 | 2 | 28 |
 | rabies | 0 | 7 | 6 | 4 | 5 | 4 | 2 | 28 |
-| zika | 0 | 2 | 8 | 6 | 2 | 6 | 2 | 26 |
-| typhoid | 0 | 0 | 0 | 2 | 3 | 0 | 4 | 9 |
+| typhoid | 1 | 0 | 0 | 2 | 3 | 0 | 4 | 10 |
 | pertussis | 0 | 1 | 0 | 3 | 3 | 2 | 0 | 9 |
-| yersinia | 0 | 0 | 0 | 0 | 5 | 0 | 2 | 7 |
+| yersinia | 1 | 0 | 0 | 0 | 5 | 0 | 2 | 8 |
 | leptospirosis | 0 | 2 | 0 | 1 | 0 | 2 | 0 | 5 |
 | shigellosis | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
 
@@ -2755,10 +2755,6 @@ Source: [News API](https://newsapi.org/)
 
 - [美国科学家拉响警报：新型 H5N1 禽流感病毒被发现，正威胁人类健康](https://www.ithome.com/0/825/921.htm) (Ithome.com)
 
-- [CDC Urges Increased Testing For Bird Flu](https://www.shtfplan.com/headline-news/cdc-urges-increased-testing-for-bird-flu) (Shtfplan.com)
-
-- [První úmrtí člověka na ptačí chřipku vyvolává otázku, zda jsme připraveni na další pandemii](https://vtm.zive.cz/clanky/prvni-umrti-cloveka-na-ptaci-chripku-vyvolava-otazku-zda-jsme-pripraveni-na-dalsi-pandemii/sc-870-a-232411/default.aspx) (Zive.cz)
-
 ## 25-4 (dengue)
 
 - [Joga lixo na rua? GDF usará drones para multar sujões. Veja valores](https://www.metropoles.com/distrito-federal/joga-lixo-na-rua-gdf-usara-drones-para-multar-sujoes-veja-valores) (Metropoles.com)
@@ -2829,10 +2825,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Saúde vai distribuir 6,5 milhões de testes rápidos de dengue a estados](https://veja.abril.com.br/coluna/radar/saude-vai-distribuir-65-milhoes-de-testes-rapidos-de-dengue-a-estados) (Abril.com.br)
 
-- [Dengue: Especialista ensina como usar o hipoclorito de sódio no combate ao Aedes aegypti](https://catracalivre.com.br/saude-bem-estar/dengue-combate-ao-aedes-aegypti/) (Catracalivre.com.br)
-
-- [Dengue: governo quer imunizante no programa de vacinação em 2026](https://www.metropoles.com/colunas/igor-gadelha/dengue-governo-quer-imunizante-em-programa-de-vacinacao-em-2026) (Metropoles.com)
-
 ## 25-4 (chikungunya)
 
 - [Natural exposure to Chikungunya virus in golden-headed lion tamarin (Leontopithecus chrysomelas, Kuhl, 1820) from non-protected areas in southern Bahia, Brazil: Implications and significance](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012695) (Plos.org)
@@ -2855,11 +2847,77 @@ Source: [News API](https://newsapi.org/)
 
 - [Valneva Reports High Sustained Immune Response in Adolescents One Year After Single Vaccination with its Chikungunya Vaccine](https://www.globenewswire.com/news-release/2025/01/20/3012198/0/en/Valneva-Reports-High-Sustained-Immune-Response-in-Adolescents-One-Year-After-Single-Vaccination-with-its-Chikungunya-Vaccine.html) (GlobeNewswire)
 
+## 25-10 (zika)
+
+- [Terratis se renforce dans sa lutte contre le moustique tigre](https://objectif-languedoc-roussillon.latribune.fr/innovation/2025-03-03/terratis-se-renforce-dans-sa-lutte-contre-le-moustique-tigre-1019699.html) (La Tribune.fr)
+
+- [Bangladeş’te Zika alarmı! Bilim insanları ilk virüs kümesini tespit etti](https://www.turkiyegazetesi.com.tr/dunya/bangladeste-zika-alarmi-bilim-insanlari-ilk-virus-kumesini-tespit-etti-1098642) (Turkiyegazetesi.com.tr)
+
+## 25-10 (yersinia)
+
+- [Ancient ancestor of the plague discovered in Bronze Age sheep](https://www.newscientist.com/article/2470490-ancient-ancestor-of-the-plague-discovered-in-bronze-age-sheep/) (New Scientist)
+
+## 25-10 (typhoid)
+
+- [Wastewater surveillance for Salmonella Typhi and its association with seroincidence of enteric fever in Vellore, India](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012373) (Plos.org)
+
 ## 25-10 (mpox)
+
+- [Las pruebas serológicas de Viruela del Mono en Lepe (Huelva) dan negativo pero Salud mantiene en protocolo de actuación](https://www.europapress.es/esandalucia/huelva/noticia-pruebas-serologicas-viruela-mono-lepe-huelva-dan-negativo-salud-mantiene-protocolo-actuacion-20250303174636.html) (Europapress.es)
+
+- [La Consejería de Salud confirma que los dos posibles casos de viruela del mono de Huelva son negativos](https://www.abc.es/espana/andalucia/huelva/consejeria-salud-confirma-dos-posibles-casos-viruela-20250303173443-nts.html) (Www.abc.es)
+
+- [Aíslan a dos personas en Lepe ante la sospecha de que se hayan contagiado con la viruela del mono](https://www.eldiario.es/andalucia/huelva/aislan-personas-lepe-sospecha-hayan-contagiado-viruela-mono_1_12098587.html) (Eldiario.es)
+
+- [Detectan dos posibles casos de viruela del mono en Lepe (Huelva)](https://www.elmundo.es/andalucia/2025/03/03/67c5a08721efa03b268b459c.html) (El Mundo)
+
+- [Mpox: por qué sigue en el nivel más alto de alerta y qué sabemos de los casos en México](https://www.milenio.com/ciencia-y-salud/mpox-mantiene-nivel-alto-alerta-pasa-mexico) (Milenio)
+
+- [La Junta de Andalucía aísla a dos personas en Lepe hasta confirmar si padecen viruela del mono](https://www.abc.es/espana/andalucia/huelva/junta-andalucia-aisla-dos-personas-lepe-confirmar-20250303121803-nts.html) (Www.abc.es)
+
+- [Activado en Lepe (Huelva) el protocolo preventivo por dos posibles casos de Viruela del Mono](https://www.europapress.es/esandalucia/huelva/noticia-notifican-dos-posibles-casos-viruela-mono-lepe-huelva-junta-iniciado-protocolo-preventivo-20250303121412.html) (Europapress.es)
 
 - [TWiV 1197: The long and short of influenza](https://www.microbe.tv/twiv/twiv-1197/) (Microbe.tv)
 
+## 25-10 (meningitis)
+
+- [Estado de salud44 del Papa: Malamente bien.](https://finofilipino.org/estado-de-salud44-del-papa-malamente-bien/) (Finofilipino.org)
+
+- [Rekrut nach Meningitis-Verdacht verstorben](https://burgenland.orf.at/stories/3295408/) (Burgenland.orf.at)
+
 ## 25-10 (measles)
+
+- [Texas Doctor Warns Against 'Measles Parties' Amid Outbreak](https://www.newsweek.com/texas-doctor-measles-parties-warning-2038889) (Newsweek)
+
+- [WATCH: The biggest moments from the 2025 Oscars](https://abcnews.go.com/Entertainment/video/biggest-moments-2025-oscars-119385188) (ABC News)
+
+- [MAHA furious at ‘total fraud’ RFK Jr. after he backs measles vaccine amid outbreak](https://www.dailydot.com/debug/rfk-jr-measles-vaccine-endorsement-maga-backlash/) (The Daily Dot)
+
+- [RFK Jr. Sparks Anti-Vaxxer Anger: 'No Different Than Fauci'](https://www.newsweek.com/robert-f-kennedy-jr-measles-vaccine-anti-vax-mmr-texas-2038672) (Newsweek)
+
+- [How Does This Work](https://www.eschatonblog.com/2025/03/how-does-this-work.html) (Eschatonblog.com)
+
+- [ROBERT F. KENNEDY, JR.: Measles outbreak is call to action for all of us (Robert F. Kennedy/Fox News)](https://www.memeorandum.com/250303/p18) (Memeorandum.com)
+
+- [Vaccine critic RFK Jr. backs measles vaccine amid deadly Texas outbreak](https://www.cbsnews.com/news/rfk-jr-measles-vaccine-deadly-texas-outbreak/) (CBS News)
+
+- [Longtime Anti-Vaxxer RFK Jr. Now Urging Americans to Get a Measles Shot as Outbreak Grips Texas](https://www.mediaite.com/news/rfk-jr-urges-measles-vaccination-amid-deadly-texas-outbreak/) (Mediaite)
+
+- [Ukraine ready to sign minerals deal with U.S. and Hollywood's biggest night: Morning Rundown](https://www.nbcnews.com/news/zelenskyy-ukraine-ready-sign-deal-oscars-full-list-morning-rundown-rcna194458) (NBC News)
+
+- [No, vaccines did not cause the Gaines County, Texas, measles case spike](https://www.poynter.org/fact-checking/2025/measles-caused-by-vaccines-gaines-county-texas/) (Poynter)
+
+- [First Measles Death, Outbreaks of Mysterious Illness in DRC and Microbes in Space](https://www.scientificamerican.com/podcast/episode/first-measles-death-outbreaks-of-mysterious-illness-in-drc-and-microbes-in/) (Scientific American)
+
+- [RFK Jr.’s Policies Could Spread Measles Far Beyond Texas](https://newrepublic.com/article/192188/rfk-jrs-policies-spread-measles-far-beyond-texas) (The New Republic)
+
+- [WATCH: How contagious is measles?](https://abcnews.go.com/Health/video/contagious-measles-119302185) (ABC News)
+
+- [US health secretary RFK Jr, vaccine sceptic, backs MMR jab after child dies in measles outbreak](https://www.thejournal.ie/us-health-secretary-rfk-jr-vaccine-sceptic-backs-mmr-jab-6638012-Mar2025/) (TheJournal.ie)
+
+- [Measles is back, and so are all the old antivax tropes about it](https://sciencebasedmedicine.org/measles-is-back-and-so-are-all-the-old-antivax-tropes-about-it/) (Sciencebasedmedicine.org)
+
+- [Oscar Secures Boyfriend Experience From ANORA + In Memoriam Snubs & Super Snubs + Measles Parties In Texas + Romain Mercury Dies + MORE! — 6-PACK](https://www.boyculture.com/boy_culture/2025/03/anora-oscars-demi-moore-mikey-madison-measles-emilia-perez-male-nudity.html) (Boyculture.com)
 
 - [First US Measles Death in 10 Years: Expert Explains How to Protect Yourself](https://www.sciencealert.com/first-us-measles-death-in-10-years-expert-explains-how-to-protect-yourself) (ScienceAlert)
 
@@ -2883,6 +2941,18 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-10 (malaria)
 
+- [DNC Rehires Same People Who Oversaw Crushing Defeat to Trump](https://newrepublic.com/post/192242/dnc-new-leaders) (The New Republic)
+
+- [Trump Pushes Deranged Conspiracy About Republican Town Hall Protests](https://newrepublic.com/post/192239/donald-trump-conspiracy-republican-town-hall-protests) (The New Republic)
+
+- [Trump’s Crackdown on This Key Agency Is His Most Chilling Yet](https://newrepublic.com/post/192236/donald-trump-crackdown-voice-of-america-voa) (The New Republic)
+
+- [Democrats Slammed Over Shockingly Awful Plan to Beat Trump](https://newrepublic.com/post/192229/democrats-slammed-plan-beat-trump) (The New Republic)
+
+- [USAID Official Ousted in Middle of Scathing Memo on Trump Cuts](https://newrepublic.com/post/192227/usaid-official-third-memo-trump-cuts) (The New Republic)
+
+- [SAFMI CEO Reveals Progress of Mosquito Fish in Sierra Leone](https://sierraloaded.sl/health/safmi-progress-mosquito-fish-sierra-leone/) (Sierraloaded.sl)
+
 - [U.S.A.I.D. Memos Detail Human Costs of Cuts to Foreign Aid (Apoorva Mandavilli/New York Times)](https://www.memeorandum.com/250302/p101) (Memeorandum.com)
 
 - [Giving an old malaria drug new life](https://www.thestar.com.my/lifestyle/health/2025/03/02/giving-an-old-malaria-drug-new-life) (The Star Online)
@@ -2903,6 +2973,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-10 (h5n1)
 
+- [New sensor detects airborne bird flu in minutes](https://www.futurity.org/bird-flu-sensor-3271822-2/) (Futurity: Research News)
+
+- [HHS review of a vaccine contract sparks worries about preparedness for a potential bird flu pandemic (Helen Branswell/STAT)](https://www.memeorandum.com/250303/p35) (Memeorandum.com)
+
 - [Tartunta­taudissa tapahtui käänne ja uusi pandemia on mahdollinen: ”Tilanne on huolestuttava”](https://www.iltalehti.fi/kotimaa/a/57db37b9-4756-45d1-bc83-412e55fca5c8) (Iltalehti.fi)
 
 - [Voluntay Recall of Wild Coast Raw Boneless Free Range Chicken Formula Raw Pet Food Because of Possible Bird Flu Health Risk](https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/voluntay-recall-wild-coast-raw-boneless-free-range-chicken-formula-raw-pet-food-because-possible) (FDA.gov)
@@ -2911,4 +2985,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-10 (dengue)
 
+- [Terratis se renforce dans sa lutte contre le moustique tigre](https://objectif-languedoc-roussillon.latribune.fr/innovation/2025-03-03/terratis-se-renforce-dans-sa-lutte-contre-le-moustique-tigre-1019699.html) (La Tribune.fr)
+
+- [Brumbies flanker Tualima diagnosed with dengue fever](https://www.bbc.com/sport/rugby-union/articles/cgl0e67r6dyo) (BBC News)
+
 - [Ssa: este año, mil 781 casos de dengue y cero muertes](https://www.jornada.com.mx/2025/03/02/sociedad/027n1soc) (Jornada.com.mx)
+
+## 25-10 (chikungunya)
+
+- [Terratis se renforce dans sa lutte contre le moustique tigre](https://objectif-languedoc-roussillon.latribune.fr/innovation/2025-03-03/terratis-se-renforce-dans-sa-lutte-contre-le-moustique-tigre-1019699.html) (La Tribune.fr)

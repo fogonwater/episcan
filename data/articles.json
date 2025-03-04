@@ -1,8 +1,694 @@
 {
-  "last_updated": "2025-03-04 07:07",
-  "count_articles_total": 1315,
-  "count_articles_new": 16,
+  "last_updated": "2025-03-04 19:05",
+  "count_articles_total": 1349,
+  "count_articles_new": 38,
   "articles": [
+    {
+      "id": 18889,
+      "query": [
+        "measles"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Andrew Stanton",
+      "title": "Texas Doctor Warns Against 'Measles Parties' Amid Outbreak",
+      "description": "Texans would be playing \"roulette\" with their health by attending measles parties, the doctor warned.",
+      "url": "https://www.newsweek.com/texas-doctor-measles-parties-warning-2038889",
+      "urlToImage": "https://d.newsweek.com/en/full/2599367/measles-vaccine-prepared-lubbock-texas.jpg",
+      "publishedAt": "2025-03-03 18:39:51",
+      "content": "A Texas doctor warned people not to attend \"measles parties\" after the virus infected more than 100 West Texas residents over the past few weeks. Newsweek reached out to the Texas Department of Stat\u2026 [+4034 chars]",
+      "retrievedAt": "2025-03-04 19:05:52.362188",
+      "internal_id": "0632749e0cb1d21ad99f443fa8d7dcfc94c6e0eaaef4222b647ff47bb3875e1c",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 18902,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The New Republic",
+      "author": "Malcolm Ferguson",
+      "title": "DNC Rehires Same People Who Oversaw Crushing Defeat to Trump",
+      "description": "The Democratic National Committee has decided to double down on the same losing strategies that lost it the last election. Newly elected DNC Chair Ken Martin on Monday named Roger Lau as executive director of the committee. Lau has been serving as the DNC\u2019s \u2026",
+      "url": "https://newrepublic.com/post/192242/dnc-new-leaders",
+      "urlToImage": "https://images.newrepublic.com/d0ba24351fba19e59ad6835bf9880fe7ea87474d.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+      "publishedAt": "2025-03-03 18:19:39",
+      "content": "The memo notes that a permanent halt of $7.7 billion in aid could lead to 12.517.9 million cases of malaria with an additional 71,000166,000 deaths annually, a 28 to 32 percent increase in tuberculos\u2026 [+657 chars]",
+      "retrievedAt": "2025-03-04 19:05:54.431209",
+      "internal_id": "7b69e825eed813c9e88e8caae0c3f97e1382ca41707e1e52cdb2ac7288b0519c",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 18895,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Futurity: Research News",
+      "author": "Leah Shaffer - Washington University in St. Louis",
+      "title": "New sensor detects airborne bird flu in minutes",
+      "description": "Researchers have developed a sensor that detects airborne H5N1 avian flu. It works within five minutes, its creators say.",
+      "url": "https://www.futurity.org/bird-flu-sensor-3271822-2/",
+      "urlToImage": "https://www.futurity.org/wp/wp-content/uploads/2025/03/airborne-bird-avian-flu-sensor-1600.jpg",
+      "publishedAt": "2025-03-03 18:09:19",
+      "content": "Researchers have developed a sensor that detects airborne bird flu. As highly pathogenic H5N1 avian influenza continues to spread in the US, posing serious threats to dairy and poultry farms, both f\u2026 [+6051 chars]",
+      "retrievedAt": "2025-03-04 19:05:53.142857",
+      "internal_id": "b68b870e566ac2751b0a49f84dafb8b216a78675eee37ef6ee5534961a23c80f",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 18903,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The New Republic",
+      "author": "Ellie Quinlan Houghtaling",
+      "title": "Trump Pushes Deranged Conspiracy About Republican Town Hall Protests",
+      "description": "Unable to acknowledge that Americans might actually be upset with his agenda, Donald Trump has cooked up a bizarre theory to explain the mass protests taking place in Republican lawmakers\u2019 town halls across the country. But the rationale behind the idea sound\u2026",
+      "url": "https://newrepublic.com/post/192239/donald-trump-conspiracy-republican-town-hall-protests",
+      "urlToImage": "https://images.newrepublic.com/056efb210103983604de039d60723448ba99ccfa.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+      "publishedAt": "2025-03-03 17:53:24",
+      "content": "The memo notes that a permanent halt of $7.7 billion in aid could lead to 12.517.9 million cases of malaria with an additional 71,000166,000 deaths annually, a 28 to 32 percent increase in tuberculos\u2026 [+657 chars]",
+      "retrievedAt": "2025-03-04 19:05:54.438817",
+      "internal_id": "c1c5a88ebe50d95f4b73824075c0ae69944e550ce8e92c2d632bfa322c663668",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 18897,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "La Tribune.fr",
+      "author": "C\u00e9cile Chaigneau",
+      "title": "Terratis se renforce dans sa lutte contre le moustique tigre",
+      "description": "La deeptech montpelli\u00e9raine Terratis veut industrialiser la technique de l\u2019insecte st\u00e9rile, qui permet de diminuer peu \u00e0 peu une population de moustiques tigres en jouant sur son cycle de reproduction. Elle vient de lever 1,5 million d\u2019euros \u00e0 cet effet.",
+      "url": "https://objectif-languedoc-roussillon.latribune.fr/innovation/2025-03-03/terratis-se-renforce-dans-sa-lutte-contre-le-moustique-tigre-1019699.html",
+      "urlToImage": "https://static.latribune.fr/full_width/2542472/la-guerre-contre-le-moustique-tigre-vecteur-de-virus-est-declaree.jpg",
+      "publishedAt": "2025-03-03 17:51:00",
+      "content": "Le moustique tigre a d\u00e9sormais globalement colonis\u00e9 toute la plan\u00e8te. Or l'insecte est vecteur de virus comme ceux de la dengue, du chikungunya ou du Zika : selon Sant\u00e9 publique France, entre le 1er \u2026 [+4351 chars]",
+      "retrievedAt": "2025-03-04 19:05:53.506631",
+      "internal_id": "8c7f34fd60ba4100b00cae0a29eed5f3913d41de14c3814d0b0feebd9ef0ed44",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 18882,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "ABC News",
+      "title": "WATCH: The biggest moments from the 2025 Oscars",
+      "description": "ABC News\u2019 Zohreen Shah and contributor Kelley Carter break down the wins and performances from Hollywood\u2019s biggest night.",
+      "url": "https://abcnews.go.com/Entertainment/video/biggest-moments-2025-oscars-119385188",
+      "urlToImage": "https://i.abcnewsfe.com/a/8a6d6807-6c90-4046-a948-0d395f47a308/250303_abcnl_930_shah_carter_oscars_hpMain_16x9.jpg?w=992",
+      "publishedAt": "2025-03-03 17:29:19",
+      "content": "Kremlin happy with fiery Oval Office meeting: Ukraine lawmaker Firefighters really turned a corner against South Carolina blaze RFK Jr. guidance on measles is internally c\u2026 [+4202 chars]",
+      "retrievedAt": "2025-03-04 19:05:52.152013",
+      "internal_id": "cdbb6d70a13761b3ee6d8b363c53de526140173ad7cc9efb5507de024eb745ed",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 18901,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The New Republic",
+      "author": "Edith Olmsted",
+      "title": "Trump\u2019s Crackdown on This Key Agency Is His Most Chilling Yet",
+      "description": "Donald Trump\u2019s recent spate of crackdowns and reshuffling at the Voice of America reveal the administration\u2019s plan to transform the award-winning newsroom into a MAGA propaganda machine. VOA\u2019s chief national correspondent, Steve Herman, was placed under inv\u2026",
+      "url": "https://newrepublic.com/post/192236/donald-trump-crackdown-voice-of-america-voa",
+      "urlToImage": "https://images.newrepublic.com/a8e8d99127efd4a215afd8fcb8b31807ef7fd91f.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+      "publishedAt": "2025-03-03 17:20:41",
+      "content": "The memo notes that a permanent halt of $7.7 billion in aid could lead to 12.517.9 million cases of malaria with an additional 71,000166,000 deaths annually, a 28 to 32 percent increase in tuberculos\u2026 [+657 chars]",
+      "retrievedAt": "2025-03-04 19:05:54.423018",
+      "internal_id": "5eeacac4b3bb5aae8868b76b6aa9e231225a2b17cc4016d3b6d9bcce380a267e",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 18904,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The New Republic",
+      "author": "Hafiz Rashid",
+      "title": "Democrats Slammed Over Shockingly Awful Plan to Beat Trump",
+      "description": "A group of centrist Democrats is being mocked and criticized for their new strategy to defeat Donald Trump and Republicans. Earlier this month, the centrist think tank Third Way gathered together the group, which included Democratic consultants, campaign sta\u2026",
+      "url": "https://newrepublic.com/post/192229/democrats-slammed-plan-beat-trump",
+      "urlToImage": "https://images.newrepublic.com/c46a50f2cc625b50d8fd8597f4d86fdc0bc2c76e.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+      "publishedAt": "2025-03-03 17:10:36",
+      "content": "The memo notes that a permanent halt of $7.7 billion in aid could lead to 12.517.9 million cases of malaria with an additional 71,000166,000 deaths annually, a 28 to 32 percent increase in tuberculo\u2026 [+658 chars]",
+      "retrievedAt": "2025-03-04 19:05:54.446450",
+      "internal_id": "5c03738f6fb122588cb37fec85c66e50ab093434ec6be448eb075c33dcf8efc8",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 18886,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Daily Dot",
+      "author": "Mikael Thalen",
+      "title": "MAHA furious at \u2018total fraud\u2019 RFK Jr. after he backs measles vaccine amid outbreak",
+      "description": "Supporters of President Donald Trump are up in arms after Robert F. Kennedy Jr. (RFK Jr.) endorsed the measles, mumps, and rubella (MMR) vaccine. In an op-ed for Fox News, RFK Jr., Trump's Secretary of Health and Human Services, said that the vaccine provid\u2026",
+      "url": "https://www.dailydot.com/debug/rfk-jr-measles-vaccine-endorsement-maga-backlash/",
+      "urlToImage": "https://uploads.dailydot.com/2025/03/RFK-MAHA-blasted-by-MAGA-for-promoting-mmr-vaccine.jpg?auto=compress&fm=pjpg",
+      "publishedAt": "2025-03-03 16:47:52",
+      "content": "Supporters of President Donald Trump are up in arms after Robert F. Kennedy Jr. (RFK Jr.) endorsed the measles, mumps, and rubella (MMR) vaccine. In an op-ed for Fox News, RFK Jr., Trumps Secretary \u2026 [+3653 chars]",
+      "retrievedAt": "2025-03-04 19:05:52.211273",
+      "internal_id": "d46ca42a3a98ad0c297342a3ed26f144d01553fe782751addee0b23bf23fbd8b",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 18911,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Europapress.es",
+      "author": null,
+      "title": "Las pruebas serol\u00f3gicas de Viruela del Mono en Lepe (Huelva) dan negativo pero Salud mantiene en protocolo de actuaci\u00f3n",
+      "description": "La Direcci\u00f3n de Salud P\u00fablica y Ordenaci\u00f3n Farmac\u00e9utica de la Consejer\u00eda de Salud y Consumo ha descartado los dos posibles casos de infecci\u00f3n por Mpox (Viruela del Mono) en Lepe (Huelva) tras recibir el resultado de las pruebas serol\u00f3gicas que han dado negati\u2026",
+      "url": "https://www.europapress.es/esandalucia/huelva/noticia-pruebas-serologicas-viruela-mono-lepe-huelva-dan-negativo-salud-mantiene-protocolo-actuacion-20250303174636.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20250303174636_1200.jpg",
+      "publishedAt": "2025-03-03 16:46:36",
+      "content": "HUELVA 3 Mar. (EUROPA PRESS) - La Direcci\u00f3n de Salud P\u00fablica y Ordenaci\u00f3n Farmac\u00e9utica de la Consejer\u00eda de Salud y Consumo ha descartado los dos posibles casos de infecci\u00f3n por Mpox (Viruela del M\u2026 [+3279 chars]",
+      "retrievedAt": "2025-03-04 19:05:55.272226",
+      "internal_id": "f65a310250b220db01ab24bd0287399b78354d7a35fbd264071bef33097b91c0",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 18908,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.abc.es",
+      "author": "(abc)",
+      "title": "La Consejer\u00eda de Salud confirma que los dos posibles casos de viruela del mono de Huelva son negativos",
+      "description": "La Direcci\u00f3n de Salud P\u00fablica y Ordenaci\u00f3n Farmac\u00e9utica de la Consejer\u00eda de Salud y Consumo ha descartado los dos posibles casos de infecci\u00f3n por Mpox ( Viruela del Mono ) en Lepe (Huelva) tras recibir el resultado de las pruebas serol\u00f3gicas que han dado nega\u2026",
+      "url": "https://www.abc.es/espana/andalucia/huelva/consejeria-salud-confirma-dos-posibles-casos-viruela-20250303173443-nts.html",
+      "urlToImage": "https://s2.abcstatics.com/abc/www/multimedia/espana/2025/03/03/paciente-viruela-mono-kdUD--1024x512@diario_abc.JPG",
+      "publishedAt": "2025-03-03 16:34:44",
+      "content": "La Junta de Andaluc\u00eda acaba de hacer p\u00fablico que los dos casos de posible contagio de viruela del mono en Lepe (Huelva) son sendos negativos. As\u00ed lo han certificado las pruebas serol\u00f3gicas llevadas a\u2026 [+2145 chars]",
+      "retrievedAt": "2025-03-04 19:05:55.248469",
+      "internal_id": "3613cb903b1d1e92330cfbb583fe0598bf9a3150a776de58671845f515bc823d",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 18900,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The New Republic",
+      "author": "Malcolm Ferguson",
+      "title": "USAID Official Ousted in Middle of Scathing Memo on Trump Cuts",
+      "description": "USAID acting assistant administrator Nicholas Enrich\u2014who was placed on administrative leave for writing two damning memos regarding the agency\u2019s recent failure to provide lifesaving international aid in the midst of Marco Rubio\u2019s program freeze\u2014was about to p\u2026",
+      "url": "https://newrepublic.com/post/192227/usaid-official-third-memo-trump-cuts",
+      "urlToImage": "https://images.newrepublic.com/64859d4fcb8655b916c20306cc0e8362398d1d11.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+      "publishedAt": "2025-03-03 16:27:21",
+      "content": "The memo notes that a permanent halt of $7.7 billion in aid could lead to 12.517.9 million cases of malaria with an additional 71,000166,000 deaths annually, a 28 to 32 percent increase in tuberculo\u2026 [+658 chars]",
+      "retrievedAt": "2025-03-04 19:05:54.414941",
+      "internal_id": "5a1ebee7d6069734183354040729224aaa7f3702cf653be179d6028df7007721",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 18891,
+      "query": [
+        "measles"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Jordan King",
+      "title": "RFK Jr. Sparks Anti-Vaxxer Anger: 'No Different Than Fauci'",
+      "description": "HHS Secretary Robert F. Kennedy Jr. called for people to \"understand their options to get the MMR vaccine.\"",
+      "url": "https://www.newsweek.com/robert-f-kennedy-jr-measles-vaccine-anti-vax-mmr-texas-2038672",
+      "urlToImage": "https://d.newsweek.com/en/full/2599039/rfk-jr.jpg",
+      "publishedAt": "2025-03-03 15:57:30",
+      "content": "Robert F. Kennedy Jr.'s call for the option to vaccinate against measles, amid an outbreak in Texas, has sparked anger from anti-vax activists, with one saying he is \"no different than Fauci.\" The h\u2026 [+6009 chars]",
+      "retrievedAt": "2025-03-04 19:05:52.378843",
+      "internal_id": "30de7eefabc6c5beb8eb52d53ed2b57a6026bf4c24a49a517adc7bb85edeb7cc",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 18894,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "HHS review of a vaccine contract sparks worries about preparedness for a potential bird flu pandemic (Helen Branswell/STAT)",
+      "description": "Helen Branswell / STAT: HHS review of a vaccine contract sparks worries about preparedness for a potential bird flu pandemic \u2014 Moderna agreement is seen as key to fast-track approval of an H5N1 shot \u2014 In the spring of 2009, the first flu pandemic in four \u2026",
+      "url": "https://www.memeorandum.com/250303/p35",
+      "urlToImage": "https://www.statnews.com/wp-content/uploads/2022/11/GettyImages-92811386-1024x576.jpg",
+      "publishedAt": "2025-03-03 15:45:00",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-03-04 19:05:53.121772",
+      "internal_id": "bd3816364d5eb3fddf351829be640a385015e38fff00c2741c84b8fa38c167af",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 18898,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Finofilipino.org",
+      "author": "Fino",
+      "title": "Estado de salud44 del Papa: Malamente bien.",
+      "description": "El papa por las noches: tres paradas cardiorrespiratorias, fallo renal, meningitis. El papa por las ma\u00f1anas: [Ver v\u00eddeo en X] Extra: \u201cMe gusta ser gorda porque\u2026\u201c Ver post completo: Estado de salud44 del Papa: Malamente bien.",
+      "url": "https://finofilipino.org/estado-de-salud44-del-papa-malamente-bien/",
+      "urlToImage": "https://finofilipino.org/wp-content/uploads/2025/03/serfedawecsartgsreg.jpg",
+      "publishedAt": "2025-03-03 15:35:19",
+      "content": "Un coche atropella a una multitud en Mannheim, una ciudad situada al oeste de Alemania, seg\u00fan informa el peri\u00f3dico \u2018Mannheimer Morgen\u2019. Seg\u00fan ese mismo medio, un coche cruz\u00f3 el centro de la ciudad y \u2026 [+36 chars]",
+      "retrievedAt": "2025-03-04 19:05:53.825943",
+      "internal_id": "cbeca112dfbfdffe6165dcbb2bab2f9b29251a93c31e95b03010164705446f2c",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 18915,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": "new-scientist",
+      "source_name": "New Scientist",
+      "author": "Christa Lest\u00e9-Lasserre",
+      "title": "Ancient ancestor of the plague discovered in Bronze Age sheep",
+      "description": "The DNA of Yersinia pestis bacteria has been found in a Bronze Age sheep, offering a clue to how the plague may have spread through prehistoric farming communities",
+      "url": "https://www.newscientist.com/article/2470490-ancient-ancestor-of-the-plague-discovered-in-bronze-age-sheep/",
+      "urlToImage": "https://images.newscientist.com/wp-content/uploads/2025/02/28171145/SEI_241673116.jpg",
+      "publishedAt": "2025-03-03 14:00:15",
+      "content": "Yersinia pestis bacteria viewed with an electron microscope Connect Images/Alamy An ancient ancestor of the pathogen that would later cause the Black Death and other major pandemics has been identi\u2026 [+390 chars]",
+      "retrievedAt": "2025-03-04 19:05:56.021325",
+      "internal_id": "8558ec2fc4ce3d0e42ab17ef44065d7e158c7795dc9aecbea554d7b0888bc5a8",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 18890,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Eschatonblog.com",
+      "author": "noreply@blogger.com (Atrios)",
+      "title": "How Does This Work",
+      "description": "I fear \"anti-vax grifter grudgingly encourages vaccination\" suggests they fear it is really fucking bad! Driving the news: Kennedy wrote an op-ed for Fox News' website on Sunday with the headline \"Measles outbreak is call to action for all of us\" and the subh\u2026",
+      "url": "https://www.eschatonblog.com/2025/03/how-does-this-work.html",
+      "urlToImage": null,
+      "publishedAt": "2025-03-03 14:00:00",
+      "content": "I fear \"anti-vax grifter grudgingly encourages vaccination\" suggests they fear it is really fucking bad! Driving the news: Kennedy wrote an op-ed for Fox News' website on Sunday with the headline \"M\u2026 [+682 chars]",
+      "retrievedAt": "2025-03-04 19:05:52.370464",
+      "internal_id": "c483c2698537abb176818dc61e9bf4d8a6bfe5f405c2ab1a6fd884c77357b8aa",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 18914,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Dilip Abraham, Lalithambigai Kathiresan, Midhun Sasikumar, Kristen Aiemjoy, Richelle C. Charles, Dilesh Kumar, Rajan Srinivasan, Catherine Troman, Elizabeth Gray, Christopher B. Uzzell, Jacob John, Balaji Veeraraghavan, Nicholas C. Grassly, Venkata Raghava Mohan",
+      "title": "Wastewater surveillance for Salmonella Typhi and its association with seroincidence of enteric fever in Vellore, India",
+      "description": "Author summary Our study explores the potential of detecting Salmonella Typhi in wastewater, informing public health strategies, guiding vaccination campaigns, and monitoring the effectiveness of interventions, contributing to better disease control and preve\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012373",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012373.g004&size=inline",
+      "publishedAt": "2025-03-03 14:00:00",
+      "content": "Abstract Background Blood culture-based surveillance for typhoid fever has limited sensitivity, and operational challenges are encountered in resource-limited settings. Environmental surveillance t\u2026 [+45324 chars]",
+      "retrievedAt": "2025-03-04 19:05:55.608028",
+      "internal_id": "afbbf19ea55615d18b9958175801f9f4dd42237b6485321427de1e93797e830f",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 18906,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Turkiyegazetesi.com.tr",
+      "author": "D\u0131\u015f Haberler, D\u0131\u015f Haberler",
+      "title": "Banglade\u015f\u2019te Zika alarm\u0131! Bilim insanlar\u0131 ilk vir\u00fcs k\u00fcmesini tespit etti",
+      "description": "Banglade\u015f Uluslararas\u0131 \u0130shalli Hastal\u0131klar Ara\u015ft\u0131rma Merkezi taraf\u0131ndan yap\u0131lan ara\u015ft\u0131rmada, Dakka\u2019da be\u015f Zika vir\u00fcs\u00fc vakas\u0131 do\u011fruland\u0131.",
+      "url": "https://www.turkiyegazetesi.com.tr/dunya/bangladeste-zika-alarmi-bilim-insanlari-ilk-virus-kumesini-tespit-etti-1098642",
+      "urlToImage": "https://i.turkiyegazetesi.com.tr/images/25-03/03/bangladeste-zika-alarmi-bilim-insanlari-ilk-virus-kumesini-tespit-etti-17410106445710.jpg",
+      "publishedAt": "2025-03-03 13:56:54",
+      "content": "",
+      "retrievedAt": "2025-03-04 19:05:54.893748",
+      "internal_id": "5717881cba2bfa175057cd1e649116d991d2eaa3985309e9120a33998d9a04ca",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 18888,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "ROBERT F. KENNEDY, JR.: Measles outbreak is call to action for all of us (Robert F. Kennedy/Fox News)",
+      "description": "Robert F. Kennedy / Fox News: ROBERT F. KENNEDY, JR.: Measles outbreak is call to action for all of us \u2014 MMR vaccine is crucial to avoiding potentially deadly disease \u2014 As the Secretary of the U.S. Department of Health and Human Services, I am deeply conc\u2026",
+      "url": "https://www.memeorandum.com/250303/p18",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/02/ap25030570461551.jpg",
+      "publishedAt": "2025-03-03 13:55:00",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-03-04 19:05:52.334251",
+      "internal_id": "683f8a2c9567bbae455cc7ab41f4bb22761f36c128e219b48fb9fa259e5455b8",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 18913,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Eldiario.es",
+      "author": "elDiarioand",
+      "title": "A\u00edslan a dos personas en Lepe ante la sospecha de que se hayan contagiado con la viruela del mono",
+      "description": "Los casos se detectaron el 28 de febrero y el 1 de marzo, y la Consejer\u00eda de Salud est\u00e1 ahora a la espera de las pruebas serol\u00f3gicas correspondientes para confirmar si realmente tienen la enfermedad Lo que la viruela del mono nos dice sobre lo bien que funci\u2026",
+      "url": "https://www.eldiario.es/andalucia/huelva/aislan-personas-lepe-sospecha-hayan-contagiado-viruela-mono_1_12098587.html",
+      "urlToImage": "https://static.eldiario.es/clip/76e85ee4-96b4-4aab-94b0-a0e6404ce1f1_facebook-aspect-ratio_default_0.jpg",
+      "publishedAt": "2025-03-03 13:22:20",
+      "content": "La Direcci\u00f3n de Salud P\u00fablica y Ordenaci\u00f3n Farmac\u00e9utica de la Consejer\u00eda de Salud y Consumo ha sido notificada de dos posibles casos de infecci\u00f3n por Mpox (viruela del mono) en Andaluc\u00eda. Las persona\u2026 [+4627 chars]",
+      "retrievedAt": "2025-03-04 19:05:55.302043",
+      "internal_id": "800e1e8ce1d178e167dfff60bce07b001697367b984fd978501ba3c3b205474c",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 18905,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Sierraloaded.sl",
+      "author": "Aaron Parker",
+      "title": "SAFMI CEO Reveals Progress of Mosquito Fish in Sierra Leone",
+      "description": "The Chief Executive Officer of the Save Africa from Malaria Infection (SAFMI), Artem Volchenko, has revealed that their groundbreaking initiative is making significant strides in reducing malaria infections in Sierra Leone. Speaking on Good Morning Salone, a \u2026",
+      "url": "https://sierraloaded.sl/health/safmi-progress-mosquito-fish-sierra-leone/",
+      "urlToImage": "https://i0.wp.com/sierraloaded.sl/wp-content/uploads/2025/03/SAFMI-Malaria-fish-.jpg",
+      "publishedAt": "2025-03-03 13:07:22",
+      "content": "The Chief Executive Officer of the Save Africa from Malaria Infection (SAFMI), Artem Volchenko, has revealed that their groundbreaking initiative is making significant strides in reducing malaria inf\u2026 [+3101 chars]",
+      "retrievedAt": "2025-03-04 19:05:54.533031",
+      "internal_id": "f03eaa7a997d60c34325fa2ae9f9484bbedbf292057d88a1da1d42b615dfb05e",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 18909,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "el-mundo",
+      "source_name": "El Mundo",
+      "author": "EL MUNDO",
+      "title": "Detectan dos posibles casos de viruela del mono en Lepe (Huelva)",
+      "description": "La Direcci\u00f3n de Salud P\u00fablica y Ordenaci\u00f3n Farmac\u00e9utica de la Consejer\u00eda de Salud y Consumo ha detectado dos posibles casos de infecci\u00f3n por viruela del mono (Mpox) en la...",
+      "url": "https://www.elmundo.es/andalucia/2025/03/03/67c5a08721efa03b268b459c.html",
+      "urlToImage": "https://phantom-elmundo.uecdn.es/adc3c2d9faa7f2b9e16f549d408d520d/resize/1200/f/webp/assets/multimedia/imagenes/2024/08/16/17238311230496.jpg",
+      "publishedAt": "2025-03-03 12:30:35",
+      "content": "La Direcci\u00f3n de Salud P\u00fablica y Ordenaci\u00f3n Farmac\u00e9utica de la Consejer\u00eda de Salud y Consumo ha detectado dos posibles casos de infecci\u00f3n por viruela del mono (Mpox) en la localidad onubense de Lepe, \u2026 [+3808 chars]",
+      "retrievedAt": "2025-03-04 19:05:55.256164",
+      "internal_id": "c5a7e4dc3d0c19fde51b8f06ac83f1a3cc501ebe454956b253d5aedcc4184236",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 18885,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": null,
+      "title": "Vaccine critic RFK Jr. backs measles vaccine amid deadly Texas outbreak",
+      "description": "HHS Secretary Robert F. Kennedy Jr., a noted vaccine skeptic, is voicing support for the measles vaccine amid a deadly outbreak, mainly in Texas.",
+      "url": "https://www.cbsnews.com/news/rfk-jr-measles-vaccine-deadly-texas-outbreak/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/01/29/37eabc50-357b-4af9-8bbf-fcc42cba6626/thumbnail/1200x630/73c98625fdcf397376e9665607bcf151/cbsn-fusion-rfk-jr-asked-to-explain-vaccine-stance-pressed-on-thoughts-about-measles-thumbnail.jpg?v=8de240724d7f6d8b5f54f62bb158c012",
+      "publishedAt": "2025-03-03 12:28:00",
+      "content": "Health and Human Services Secretary Robert F. Kennedy Jr., a noted vaccine skeptic, voiced support for the measles vaccine Sunday amid a deadly outbreak in the Southwest, mainly in Texas. An unvacci\u2026 [+3225 chars]",
+      "retrievedAt": "2025-03-04 19:05:52.203799",
+      "internal_id": "0405cb00d8d67a88e835ef8f1cd9da097166dfca4b5d30ff57c59937ce430e10",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 18887,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Mediaite",
+      "author": "David Gilmour",
+      "title": "Longtime Anti-Vaxxer RFK Jr. Now Urging Americans to Get a Measles Shot as Outbreak Grips Texas",
+      "description": "Robert F. Kennedy Jr., a longtime vaccine skeptic and now President Donald Trump's Secretary of Health and Human Services, urged citizens to vaccinate themselves as Texas grapples with a deadly measles outbreak. The post Longtime Anti-Vaxxer RFK Jr. Now Urgin\u2026",
+      "url": "https://www.mediaite.com/news/rfk-jr-urges-measles-vaccination-amid-deadly-texas-outbreak/",
+      "urlToImage": "https://www.mediaite.com/wp-content/uploads/2025/02/RFKJr-scaled-1-768x446-1.jpg",
+      "publishedAt": "2025-03-03 12:14:52",
+      "content": "Screenshot Robert F. Kennedy Jr., a longtime vaccine skeptic and now President Donald Trump\u2019s Secretary of Health and Human Services, urged citizens to vaccinate themselves as Texas grapples with a \u2026 [+1396 chars]",
+      "retrievedAt": "2025-03-04 19:05:52.312499",
+      "internal_id": "b7c91db066cbc6791e05819627f72aa72147af9d82e31b4e73ec8c639f4246f1",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 18884,
+      "query": [
+        "measles"
+      ],
+      "source_id": "nbc-news",
+      "source_name": "NBC News",
+      "author": "Elizabeth Both",
+      "title": "Ukraine ready to sign minerals deal with U.S. and Hollywood's biggest night: Morning Rundown",
+      "description": "Zelenskyy ready to sign a minerals deal despite tense meeting with Trump. Anora wins 5 Oscars. Highland park mass shooting trial begins. Measles crisis.",
+      "url": "https://www.nbcnews.com/news/zelenskyy-ukraine-ready-sign-deal-oscars-full-list-morning-rundown-rcna194458",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-03/250303-oscars-anora-mb-0939-b7269c.jpg",
+      "publishedAt": "2025-03-03 12:13:03",
+      "content": "Zelenskyy says he is still ready to sign a minerals deal with the United States after Fridays tense meeting with Trump. Anora is the real star of the 97th Academy Awards. And a look at the measles cr\u2026 [+7894 chars]",
+      "retrievedAt": "2025-03-04 19:05:52.189554",
+      "internal_id": "951751cc2b1629ba349998d42ad28ab86ab70d0976468a71bc02eec93f5a6101",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 18907,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Milenio",
+      "author": "Lizeth Hern\u00e1ndez",
+      "title": "Mpox: por qu\u00e9 sigue en el nivel m\u00e1s alto de alerta y qu\u00e9 sabemos de los casos en M\u00e9xico",
+      "description": "En agosto del a\u00f1o pasado, el mpox, tambi\u00e9n conocido como viruela s\u00edmica, se convirti\u00f3 en unaemergencia de salud p\u00fablica a nivel internacional. Tras medio a\u00f1o de seguimiento, la alerta contin\u00faa.Recientemente, la Organizaci\u00f3n Mundial de la Salud (OMS) anunci\u00f3 q\u2026",
+      "url": "https://www.milenio.com/ciencia-y-salud/mpox-mantiene-nivel-alto-alerta-pasa-mexico",
+      "urlToImage": "https://cdn.milenio.com/uploads/media/2025/03/02/viruela-simica-emergencia-sanitaria-oms.jpg",
+      "publishedAt": "2025-03-03 11:36:45",
+      "content": "En agosto del a\u00f1o pasado, el mpox, tambi\u00e9n conocido como viruela s\u00edmica, se convirti\u00f3 en una emergencia de salud p\u00fablica a nivel internacional. Tras medio a\u00f1o de seguimiento, la alerta contin\u00faa. Re\u2026 [+8497 chars]",
+      "retrievedAt": "2025-03-04 19:05:55.226430",
+      "internal_id": "2ecfe0479374e1409e11ce5946c6d6371562b83accc075258cb4b3dd159fa03d",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 18880,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Poynter",
+      "author": "Loreben Tuquero",
+      "title": "No, vaccines did not cause the Gaines County, Texas, measles case spike",
+      "description": "In Texas, dozens of children have contracted measles in the state\u2019s largest outbreak in 33 years. Online, some are blaming vaccines for the disease\u2019s spread. \u201cMeasles cases surge 2,042% in [\u2026] The post No, vaccines did not cause the Gaines County, Texas, meas\u2026",
+      "url": "https://www.poynter.org/fact-checking/2025/measles-caused-by-vaccines-gaines-county-texas/",
+      "urlToImage": "https://www.poynter.org/wp-content/uploads/2025/03/AP25058597447123.jpg",
+      "publishedAt": "2025-03-03 11:30:25",
+      "content": "In Texas, dozens of children have contracted measles in the states largest outbreak in 33 years. Online, some are blaming vaccines for the diseases spread. \u201cMeasles cases surge 2,042% in Texas Count\u2026 [+6216 chars]",
+      "retrievedAt": "2025-03-04 19:05:52.129965",
+      "internal_id": "3de6a87b5bc0de26c6f718eb3e216c63c8bc3cc9a1f393d3424e9f726e02d671",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 18910,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.abc.es",
+      "author": "(abc)",
+      "title": "La Junta de Andaluc\u00eda a\u00edsla a dos personas en Lepe hasta confirmar si padecen viruela del mono",
+      "description": "La Direcci\u00f3n de Salud P\u00fablica y Ordenaci\u00f3n Farmac\u00e9utica de la Consejer\u00eda de Salud y Consumo ha sido notificada de dos posibles casos de infecci\u00f3n por Mpox ( Viruela del Mono ) en Andaluc\u00eda. Las personas en estudio, que residen en el municipio de Lepe en Huelv\u2026",
+      "url": "https://www.abc.es/espana/andalucia/huelva/junta-andalucia-aisla-dos-personas-lepe-confirmar-20250303121803-nts.html",
+      "urlToImage": "https://s1.abcstatics.com/abc/www/multimedia/espana/2025/03/03/sintomas-viruela-mono-kEyH--1024x512@diario_abc.jpg",
+      "publishedAt": "2025-03-03 11:18:46",
+      "content": "La Direcci\u00f3n de Salud P\u00fablica y Ordenaci\u00f3n Farmac\u00e9utica de la Consejer\u00eda de Salud y Consumo ha sido notificada de dos posibles casos de infecci\u00f3n por Mpox (Viruela del Mono) en Andaluc\u00eda. Las person\u2026 [+2800 chars]",
+      "retrievedAt": "2025-03-04 19:05:55.264522",
+      "internal_id": "2038f981bb2bbd9f5030259d2f251ab4d893fca38acd8323076f1f11bee888c0",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 18912,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Europapress.es",
+      "author": null,
+      "title": "Activado en Lepe (Huelva) el protocolo preventivo por dos posibles casos de Viruela del Mono",
+      "description": "La Direcci\u00f3n de Salud P\u00fablica y Ordenaci\u00f3n Farmac\u00e9utica de la Consejer\u00eda de Salud y Consumo ha sido notificada de dos posibles casos de infecci\u00f3n por Mpox (Viruela del Mono) en Andaluc\u00eda. Las personas en estudio, que residen en el municipio de Lepe (Huelva), \u2026",
+      "url": "https://www.europapress.es/esandalucia/huelva/noticia-notifican-dos-posibles-casos-viruela-mono-lepe-huelva-junta-iniciado-protocolo-preventivo-20250303121412.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20250303121412_1200.jpg",
+      "publishedAt": "2025-03-03 11:14:12",
+      "content": "HUELVA 3 Mar. (EUROPA PRESS) - La Direcci\u00f3n de Salud P\u00fablica y Ordenaci\u00f3n Farmac\u00e9utica de la Consejer\u00eda de Salud y Consumo ha sido notificada de dos posibles casos de infecci\u00f3n por Mpox (Viruela d\u2026 [+3009 chars]",
+      "retrievedAt": "2025-03-04 19:05:55.280948",
+      "internal_id": "53e19e46e577159aca7475d4a200efdf05c9561d117c00dbe45603ef74650ff5",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 18879,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Scientific American",
+      "author": "Rachel Feltman, Fonda Mwangi, Alex Sugiura",
+      "title": "First Measles Death, Outbreaks of Mysterious Illness in DRC and Microbes in Space",
+      "description": "In this news roundup, we cover outbreak updates, microbes in space and a brain turned to glass.",
+      "url": "https://www.scientificamerican.com/podcast/episode/first-measles-death-outbreaks-of-mysterious-illness-in-drc-and-microbes-in/",
+      "urlToImage": "https://static.scientificamerican.com/dam/m/450fc996fe659a91/original/SQ-Monday-EP-Art.png?m=1717792183.71&w=1200",
+      "publishedAt": "2025-03-03 11:00:00",
+      "content": "Rachel Feltman: Happy Monday, listeners! And happy March. For Scientific American\u2019s Science Quickly, I\u2019m Rachel Feltman. Let\u2019s get this month off to a good start with a quick roundup of some of the s\u2026 [+8881 chars]",
+      "retrievedAt": "2025-03-04 19:05:52.101900",
+      "internal_id": "2f9354135587c8b37c3025fa5fc84e11dd7dd4f896bc04203aa0bd6b6479443d",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 18881,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The New Republic",
+      "author": "Melody Schreiber",
+      "title": "RFK Jr.\u2019s Policies Could Spread Measles Far Beyond Texas",
+      "description": "In the first few months of the year, measles spread like wildfire among a largely unvaccinated population, the number of cases quickly outpacing the total for the entire previous year. Then, the U.S. Centers for Disease Control and Prevention (CDC) sent a str\u2026",
+      "url": "https://newrepublic.com/article/192188/rfk-jrs-policies-spread-measles-far-beyond-texas",
+      "urlToImage": "https://images.newrepublic.com/8aa169406cca36d7a1e26dead5d1d485983655d9.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+      "publishedAt": "2025-03-03 11:00:00",
+      "content": "All of this is on top of the Trump administrations effort to dismantle the government workforce and slash science funding. We have significant cutbacks in the public health infrastructure at the fede\u2026 [+1391 chars]",
+      "retrievedAt": "2025-03-04 19:05:52.137816",
+      "internal_id": "0a0255047a4c0e09fe85c3b104e8be259402478c6d0ccfbf096448ffd425b4e6",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 18878,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "ABC News",
+      "title": "WATCH: How contagious is measles?",
+      "description": "Measles is one of the most contagious viruses known to humans, experts say.",
+      "url": "https://abcnews.go.com/Health/video/contagious-measles-119302185",
+      "urlToImage": "https://i.abcnewsfe.com/a/91bb0321-f0b0-4bde-83ef-9133f281231e/250228_vod_measels_hpMain_16x9.jpg?w=992",
+      "publishedAt": "2025-03-03 10:52:31",
+      "content": "Trump to address joint session of Congress US tariffs on Canada and Mexico take effect US puts military aid to Ukraine on hold Pope Francis stabilizes after suff\u2026 [+4207 chars]",
+      "retrievedAt": "2025-03-04 19:05:52.060940",
+      "internal_id": "1ead1e858df49e9822f3468800cbad095128246f3d53be9edf8dd53f8da88e4a",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 18899,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Burgenland.orf.at",
+      "author": "ORF.at",
+      "title": "Rekrut nach Meningitis-Verdacht verstorben",
+      "description": "Nach dem Verdacht auf Gehirnhautentz\u00fcndung bei einem burgenl\u00e4ndischen Garderekruten des Bundesheeres ist der betroffene Grundwehrdiener in einem Spital verstorben.",
+      "url": "https://burgenland.orf.at/stories/3295408/",
+      "urlToImage": "https://ibs.orf.at/bgl?image=https%3A%2F%2Foekastatic.orf.at%2Fmojo%2F1_4_1%2Fstoryserver%2Foeka%2Fcommon%2Fimages%2Fog-fallback-bgl.png%3Fs%3Db42971aa254e9327b61c2ff6f403c6275a8684b1",
+      "publishedAt": "2025-03-03 10:19:02",
+      "content": "Ein Heeressprecher best\u00e4tigte der APA einen entsprechenden Bericht von oe24.at. Bereits Ende vergangener Woche sei der Hirntod bei dem 21-J\u00e4hrigen festgestellt und die lebenserhaltenden Ger\u00e4te abgesc\u2026 [+1622 chars]",
+      "retrievedAt": "2025-03-04 19:05:53.834167",
+      "internal_id": "517c177fea880fbcc4f5420c00a9d86f4b715e6213df235ee98d2e932234d929",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 18893,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "TheJournal.ie",
+      "author": "AFP",
+      "title": "US health secretary RFK Jr, vaccine sceptic, backs MMR jab after child dies in measles outbreak",
+      "description": "An unvaccinated child died in late February amid a measles outbreak in Texas.",
+      "url": "https://www.thejournal.ie/us-health-secretary-rfk-jr-vaccine-sceptic-backs-mmr-jab-6638012-Mar2025/",
+      "urlToImage": "https://img2.thejournal.ie/article/6638012/river/?height=400&version=6638031",
+      "publishedAt": "2025-03-03 08:35:41",
+      "content": "US HEALTH SECRETARY Robert F. Kennedy Jr, a noted vaccine sceptic, has voiced support for the measles jab, as an outbreak of the disease spreads in the countrys southwest. An unvaccinated child died\u2026 [+2220 chars]",
+      "retrievedAt": "2025-03-04 19:05:52.423156",
+      "internal_id": "1dda480e925a4ed263c8613f66ce720df0f34e13bb58fb5b2eb7fde37b1f4985",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 18883,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Sciencebasedmedicine.org",
+      "author": "David Gorski",
+      "title": "Measles is back, and so are all the old antivax tropes about it",
+      "description": "Measles is back, and so are all the old antivax tropes about the disease and the vaccine. Unfortunately, there's an antivaxxer in charge. The post Measles is back, and so are all the old antivax tropes about it first appeared on Science-Based Medicine.",
+      "url": "https://sciencebasedmedicine.org/measles-is-back-and-so-are-all-the-old-antivax-tropes-about-it/",
+      "urlToImage": "https://sciencebasedmedicine.org/wp-content/uploads/2025/03/Measlesrash.jpeg",
+      "publishedAt": "2025-03-03 08:02:00",
+      "content": "I frequently quip that, with respect to the antivaccine movement, there is never anything new under the sun and everything old is new again. Rarely have I seen a better example than the antivax respo\u2026 [+39491 chars]",
+      "retrievedAt": "2025-03-04 19:05:52.161382",
+      "internal_id": "d90b999140bb868cc3f3dc97111bf33bf319597e1639b06b6acae6b25a28f807",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 18896,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": "BBC Sport",
+      "title": "Brumbies flanker Tualima diagnosed with dengue fever",
+      "description": "Tuaina Taii Tualima, a flanker with Australian Super League side ACT Brumbies, is diagnosed with dengue fever.",
+      "url": "https://www.bbc.com/sport/rugby-union/articles/cgl0e67r6dyo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/fa71/live/22d51070-f7fd-11ef-8cdc-d7b0b0ba9603.jpg",
+      "publishedAt": "2025-03-03 07:47:38",
+      "content": "Tuaina Taii Tualima, a flanker with Australian Super League side ACT Brumbies, has been diagnosed with dengue fever. The 27-year-old caught the mosquito-borne disease during a team trip to Fiji in F\u2026 [+773 chars]",
+      "retrievedAt": "2025-03-04 19:05:53.465216",
+      "internal_id": "2d3ee5b91933f2ee232ae77513ddefb8be1496d34b26eea00c2549dd9a2b7fa0",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 18892,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Boyculture.com",
+      "author": "Matthew Rettenmund",
+      "title": "Oscar Secures Boyfriend Experience From ANORA + In Memoriam Snubs & Super Snubs + Measles Parties In Texas + Romain Mercury Dies + MORE! \u2014 6-PACK",
+      "description": "Oscar Secures Boyfriend Experience From ANORA + In Memoriam Snubs & Super Snubs + Measles Parties In Texas + MORE! \u2014 6-PACK",
+      "url": "https://www.boyculture.com/boy_culture/2025/03/anora-oscars-demi-moore-mikey-madison-measles-emilia-perez-male-nudity.html",
+      "urlToImage": "https://www.boyculture.com/.a/6a00d8341c2ca253ef02c8d3cd7686200c-600wi",
+      "publishedAt": "2025-03-03 07:32:43",
+      "content": "I'm not so sure about the tattoos, but ... (Image via Facebook) ABOVE: Oh, he's tattooed? BELOW: Keep reading for Oscar bait and more ... Party girl (Image via Neon) EXTRATV: The Oscars were pretty\u2026 [+2129 chars]",
+      "retrievedAt": "2025-03-04 19:05:52.401183",
+      "internal_id": "b7ba7d9a7b5a0dff07d20ad59bf081996681fcdf6112308d4313962686013aac",
+      "publishedAtLabel": "Mar 3"
+    },
     {
       "id": 18875,
       "query": [
@@ -23645,78 +24331,6 @@
       "content": "Oferta Rel\u00e2mpago: 4 revistas pelo pre\u00e7o de uma! Aedes aegypti: a picada da f\u00eamea do mosquito transmite a dengue (Divulga\u00e7\u00e3o/Divulga\u00e7\u00e3o) Continua ap\u00f3s publicidade O Minist\u00e9rio da Sa\u00fade vai distribu\u2026 [+952 chars]",
       "retrievedAt": "2025-01-21 07:06:20.719045",
       "internal_id": "502de82804265c8547ec4cfd22927d8a990b6b75818f525812b4561692d98b69",
-      "publishedAtLabel": "Jan 19"
-    },
-    {
-      "id": 17563,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Shtfplan.com",
-      "author": "Mac Slavo",
-      "title": "CDC Urges Increased Testing For Bird Flu",
-      "description": "As the media continues to push forward with the bird flu narrative. The Centers for Disease Control and Prevention have suggested that healthcare workers accelerate bird flu testing for patients hospitalized with flu symptoms as the H5N1 avian influenza outbr\u2026",
-      "url": "https://www.shtfplan.com/headline-news/cdc-urges-increased-testing-for-bird-flu",
-      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2023/12/bird-flu1.jpg",
-      "publishedAt": "2025-01-19 18:30:53",
-      "content": "As the media continues to push forward with the bird flu narrative. The Centers for Disease Control and Prevention have suggested that healthcare workers accelerate bird flu testing for patients hosp\u2026 [+2228 chars]",
-      "retrievedAt": "2025-01-20 19:05:48.523076",
-      "internal_id": "994713215544b42535086f4ce20c52d2645cf584d449998cc44d68847b889a02",
-      "publishedAtLabel": "Jan 19"
-    },
-    {
-      "id": 17564,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Zive.cz",
-      "author": "Karel Kili\u00e1n",
-      "title": "Prvn\u00ed \u00famrt\u00ed \u010dlov\u011bka na pta\u010d\u00ed ch\u0159ipku vyvol\u00e1v\u00e1 ot\u00e1zku, zda jsme p\u0159ipraveni na dal\u0161\u00ed pandemii",
-      "description": "",
-      "url": "https://vtm.zive.cz/clanky/prvni-umrti-cloveka-na-ptaci-chripku-vyvolava-otazku-zda-jsme-pripraveni-na-dalsi-pandemii/sc-870-a-232411/default.aspx",
-      "urlToImage": "https://www.zive.cz/getthumbnail.aspx?q=100&height=20000&width=20000&id_file=924558027",
-      "publishedAt": "2025-01-19 13:45:00",
-      "content": "Na za\u00e1tku leton\u00edho roku okovala veejnost zpr\u00e1va o prvn\u00edm \u00famrt\u00ed lovka v USA v dsledku pta\u00ed chipky H5N1. Star\u00ed mu z Louisiany, kter\u00fd byl v kontaktu s nakaen\u00fdmi pt\u00e1ky, podlehl tk\u00fdm respiran\u00edm komplikac\u00ed\u2026 [+3383 chars]",
-      "retrievedAt": "2025-01-20 19:05:48.712772",
-      "internal_id": "7155ac7915807811b6a0b6efb9ae01d3d8f5733480982476190cde0dd80cac33",
-      "publishedAtLabel": "Jan 19"
-    },
-    {
-      "id": 17566,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Catracalivre.com.br",
-      "author": "Andr\u00e9 Nicolau",
-      "title": "Dengue: Especialista ensina como usar o hipoclorito de s\u00f3dio no combate ao Aedes aegypti",
-      "description": "No ver\u00e3o aumenta o risco da dengue: aprenda a proteger sua casa do Aedes aegypti, mosquito transmissor da doen\u00e7a.",
-      "url": "https://catracalivre.com.br/saude-bem-estar/dengue-combate-ao-aedes-aegypti/",
-      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1280,h=680,fit=cover,format=jpeg/wp-content/uploads/2024/01/istock-183256299.jpg",
-      "publishedAt": "2025-01-19 12:00:41",
-      "content": "Casos de dengue triplicam em 2024 iStock/flubydust - iStock/flubydust Durante o ver\u00e3o, os casos de dengue aumentam consideravelmente. Isso acontece devido \u00e0 alta incid\u00eancia de chuvas em grande part\u2026 [+3503 chars]",
-      "retrievedAt": "2025-01-20 19:05:49.251975",
-      "internal_id": "e96f2e755416d68f1f032efdfae7ff9dcf6b4ed81e61f916e674ef2b451a70e8",
-      "publishedAtLabel": "Jan 19"
-    },
-    {
-      "id": 17565,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Metropoles.com",
-      "author": "Milena Teixeira",
-      "title": "Dengue: governo quer imunizante no programa de vacina\u00e7\u00e3o em 2026",
-      "description": "Governo quer incorporar a vacina do Instituto Butantan, que ainda deve ser certificada, no Plano Nacional de Imuniza\u00e7\u00f5es",
-      "url": "https://www.metropoles.com/colunas/igor-gadelha/dengue-governo-quer-imunizante-em-programa-de-vacinacao-em-2026",
-      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2025/01/06072339/dengue-7.jpg",
-      "publishedAt": "2025-01-19 08:00:00",
-      "content": "O Minist\u00e9rio da Sa\u00fade planeja ampliar a aplica\u00e7\u00e3o da vacina contra a dengue para mais p\u00fablicos at\u00e9 o final deste ano. Atualmente, o Sistema \u00danico de Sa\u00fade disponibiliza o imunizante apenas para crian\u2026 [+1240 chars]",
-      "retrievedAt": "2025-01-20 19:05:49.226468",
-      "internal_id": "5c1f3c4df86ee1f5ac8ca50f9a8bc0e3815d667441450e231da38962262e73cb",
       "publishedAtLabel": "Jan 19"
     }
   ]
