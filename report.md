@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 5
-- **Last harvest:** 2025-03-03 19:05
-- **Most recent article:** 2025-03-02 14:45:00
+- **New articles in last harvest:** 16
+- **Last harvest:** 2025-03-04 07:07
+- **Most recent article:** 2025-03-03 04:55:00
 
 ---
 
@@ -12,11 +12,11 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-10 | 25-4 | 25-5 | 25-6 | 25-7 | 25-8 | 25-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 1 | 10 | 13 | 24 | 72 | 83 | 158 | 361 |
-| h5n1 | 3 | 29 | 51 | 72 | 55 | 54 | 42 | 306 |
-| dengue | 1 | 34 | 24 | 34 | 37 | 57 | 30 | 217 |
+| measles | 10 | 10 | 13 | 24 | 72 | 83 | 162 | 374 |
+| h5n1 | 3 | 31 | 51 | 72 | 55 | 54 | 42 | 308 |
+| dengue | 1 | 36 | 24 | 34 | 37 | 57 | 30 | 219 |
 | mpox | 1 | 23 | 22 | 28 | 18 | 15 | 26 | 133 |
-| malaria | 4 | 18 | 30 | 25 | 12 | 7 | 18 | 114 |
+| malaria | 5 | 18 | 30 | 25 | 12 | 7 | 20 | 117 |
 | meningitis | 0 | 2 | 8 | 2 | 12 | 11 | 7 | 42 |
 | chikungunya | 0 | 10 | 9 | 8 | 5 | 3 | 7 | 42 |
 | hpai | 3 | 11 | 6 | 3 | 9 | 5 | 4 | 41 |
@@ -145,6 +145,8 @@ Source: [News API](https://newsapi.org/)
 
 - [US Measles Map Shows Hardest Hit States As Cases Spike](https://www.newsweek.com/us-measles-map-shows-hardest-hit-states-cases-spike-2038215) (Newsweek)
 
+- [A measles crisis decades in the making: How RFK Jr. helped drive America to this moment](https://www.nbcnews.com/health/health-news/measles-crisis-decades-making-rfk-jr-helped-drive-america-moment-rcna194093) (NBC News)
+
 - [As Texas measles outbreak grows, here's what to know about the disease, vaccines and response](https://www.nbcnews.com/health/health-news/measles-outbreak-texas-vaccines-kids-cases-what-know-rcna194216) (NBC News)
 
 - [Measles: What to know, how to avoid it](https://www.voanews.com/a/measles-what-to-know-how-to-avoid-it/7991173.html) (VOA News)
@@ -185,6 +187,8 @@ Source: [News API](https://newsapi.org/)
 
 - [The Measles Outbreak in Texas Is Why Vaccines Matter](https://www.scientificamerican.com/article/the-measles-outbreak-in-texas-is-why-vaccines-matter/) (Scientific American)
 
+- [Kentucky, Washington are latest states to announce measles cases](https://www.today.com/video/measles-cases-grow-what-s-being-done-to-stop-the-spread-233167429695) (TODAY)
+
 - [As the Texas outbreak grows, how contagious is measles, really?](https://www.npr.org/sections/shots-health-news/2025/02/28/nx-s1-5312088/measles-texas-outbreak-contagious-spread) (NPR)
 
 - ['He's Full Of S**t': Pediatrician In Congress Blames RFK Jr. For Child's Death From Measles (Jennifer Bendery/HuffPost)](https://www.memeorandum.com/250228/p3) (Memeorandum.com)
@@ -196,6 +200,10 @@ Source: [News API](https://newsapi.org/)
 - [WATCH: Ohio school bus driver praised for saving children from burning vehicle](https://abcnews.go.com/WNT/video/ohio-school-bus-driver-praised-saving-children-burning-119274216) (ABC News)
 
 - [Some experts question RFK Jr. calling measles outbreak 'not unusual'](https://abcnews.go.com/Politics/experts-question-rfk-jr-calling-measles-outbreak-unusual/story?id=119221816) (ABC News)
+
+- [Pediatrician In Congress Blames RFK Jr. For Child's Death From Measles](https://www.huffpost.com/entry/kim-schrier-rfk-jr-vaccines-measles_n_67c0a705e4b0702663293e54) (HuffPost)
+
+- [Should you get a measles booster? Here's how to protect yourself amid the recent outbreaks.](https://www.nationalgeographic.com/health/article/measles-vaccine-booster) (National Geographic)
 
 - [RFK Jr., America’s Leading Advocate for Getting Measles](https://www.theatlantic.com/health/archive/2025/02/rfk-measles-vaccines-texas-outbreak/681860/) (The Atlantic)
 
@@ -455,9 +463,13 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-9 (malaria)
 
+- [Trump Ends Funding For Malaria, H.I.V., & More Global Health Programs - NewsBreak](https://www.newsbreak.com/share/3834544178448-trump-ends-funding-for-malaria-h-i-v-more-global-health-programs?s=a2&share_destination_id=MzAxMzA4NTY4LTE3NDA4MTI1OTgzNjY%3D&pd=0KOG7cgN&hl=en_US&send_time=1740812598&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2224.39.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_model_exp_25q1-v8%2Cns_foryou_blend_exp_25q1-v3%2Cns_foryou_rank_exp_25q1-v2%2Cns_push_exp_rt_bucketv12-v2%2Cns_foryou_recall_exp_25q1-v3%2Cns_local_strategy_25q1_exp-v12) (Newsbreak.com)
+
 - [Government inefficiency](https://www.lawyersgunsmoneyblog.com/2025/03/government-inefficiency) (Lawyersgunsmoneyblog.com)
 
 - [Trump Ends Funding For Malaria, H.I.V., & More Global Health Programs - NewsBreak](https://www.newsbreak.com/share/3834544178448-trump-ends-funding-for-malaria-h-i-v-more-global-health-programs?_f=app_share&pd=05WApuMu&lang=en_US&send_time=1740793689&trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.8.2.1%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_recall_exp_25q1-v4%2Cns_foryou_model_exp_25q1-v8%2Cns_foryou_blend_exp_25q1-v8%2Cns_push_exp_rt_bucketv12-v8%2Cns_local_strategy_25q1_exp-v6%2Cns_foryou_rank_exp_25q1-v5&s=i2) (Newsbreak.com)
+
+- [Trump Ends Funding For Malaria, H.I.V., & More Global Health Programs - NewsBreak](https://www.newsbreak.com/share/3834544178448-trump-ends-funding-for-malaria-h-i-v-more-global-health-programs?_f=app_share&pd=05WApuMu&lang=en_US&send_time=1740793644&trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.8.2.1%22%2C%22languages%22%3A%22en%22%7D&sep=ns_push_exp_rt_bucketv12-v8%2Cns_foryou_blend_exp_25q1-v8%2Cns_foryou_model_exp_25q1-v8%2Cns_local_strategy_25q1_exp-v6%2Cns_foryou_rank_exp_25q1-v5%2Cns_foryou_recall_exp_25q1-v4&s=i2) (Newsbreak.com)
 
 - [Trump Ends Funding For Malaria, H.I.V., & More Global Health Programs - NewsBreak](https://www.newsbreak.com/share/3834544178448-trump-ends-funding-for-malaria-h-i-v-more-global-health-programs?_f=app_share&pd=0ClH7CeN&lang=en_US&send_time=1740790525&trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.8.2.1%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_rank_exp_25q1-v1%2Cns_foryou_recall_exp_25q1-v2%2Cns_foryou_model_exp_25q1-v9%2Cns_foryou_blend_exp_25q1-v9%2Cns_push_exp_rt_bucketv12-control%2Cns_local_strategy_25q1_exp-v8&s=i2) (Newsbreak.com)
 
@@ -2743,6 +2755,10 @@ Source: [News API](https://newsapi.org/)
 
 - [美国科学家拉响警报：新型 H5N1 禽流感病毒被发现，正威胁人类健康](https://www.ithome.com/0/825/921.htm) (Ithome.com)
 
+- [CDC Urges Increased Testing For Bird Flu](https://www.shtfplan.com/headline-news/cdc-urges-increased-testing-for-bird-flu) (Shtfplan.com)
+
+- [První úmrtí člověka na ptačí chřipku vyvolává otázku, zda jsme připraveni na další pandemii](https://vtm.zive.cz/clanky/prvni-umrti-cloveka-na-ptaci-chripku-vyvolava-otazku-zda-jsme-pripraveni-na-dalsi-pandemii/sc-870-a-232411/default.aspx) (Zive.cz)
+
 ## 25-4 (dengue)
 
 - [Joga lixo na rua? GDF usará drones para multar sujões. Veja valores](https://www.metropoles.com/distrito-federal/joga-lixo-na-rua-gdf-usara-drones-para-multar-sujoes-veja-valores) (Metropoles.com)
@@ -2813,6 +2829,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Saúde vai distribuir 6,5 milhões de testes rápidos de dengue a estados](https://veja.abril.com.br/coluna/radar/saude-vai-distribuir-65-milhoes-de-testes-rapidos-de-dengue-a-estados) (Abril.com.br)
 
+- [Dengue: Especialista ensina como usar o hipoclorito de sódio no combate ao Aedes aegypti](https://catracalivre.com.br/saude-bem-estar/dengue-combate-ao-aedes-aegypti/) (Catracalivre.com.br)
+
+- [Dengue: governo quer imunizante no programa de vacinação em 2026](https://www.metropoles.com/colunas/igor-gadelha/dengue-governo-quer-imunizante-em-programa-de-vacinacao-em-2026) (Metropoles.com)
+
 ## 25-4 (chikungunya)
 
 - [Natural exposure to Chikungunya virus in golden-headed lion tamarin (Leontopithecus chrysomelas, Kuhl, 1820) from non-protected areas in southern Bahia, Brazil: Implications and significance](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012695) (Plos.org)
@@ -2841,9 +2861,29 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-10 (measles)
 
+- [First US Measles Death in 10 Years: Expert Explains How to Protect Yourself](https://www.sciencealert.com/first-us-measles-death-in-10-years-expert-explains-how-to-protect-yourself) (ScienceAlert)
+
+- [RFK Jr, noted vaccine sceptic, backs measles jab amid deadly US outbreak](https://www.aljazeera.com/news/2025/3/3/rfk-jr-noted-vaccine-sceptic-backs-measles-jab-amid-deadly-us-outbreak) (Al Jazeera English)
+
+- [RFK Jr says Texas measles outbreak a 'call to action' (Sarah Fortinsky/The Hill)](https://www.memeorandum.com/250302/p96) (Memeorandum.com)
+
+- [RFK Jr. Urges Vaccinations for Measles](https://politicalwire.com/2025/03/02/rfk-jr-urges-vaccinations-for-measles/) (Politicalwire.com)
+
+- [Measles outbreak continues to spike with nearly 150 reported cases (Lauren Irwin/The Hill)](https://www.memeorandum.com/250302/p79) (Memeorandum.com)
+
+- [Federal Officials Underplaying Measles Vaccination, Experts Say (Teddy Rosenbluth/New York Times)](https://www.memeorandum.com/250302/p80) (Memeorandum.com)
+
+- [Amid West Texas measles outbreak, vaccine resistance hardens (Fenit Nirappil/Washington Post)](https://www.memeorandum.com/250302/p75) (Memeorandum.com)
+
+- [Stopping Measles Outbreak Is 'a Top Priority,' Kennedy Says](https://www.newser.com/story/365052/stopping-measles-outbreak-is-a-top-priority-kennedy-says.html) (Newser)
+
 - [Taking shots at vaccines has deadly consequences (Glenn C. Altschuler/The Hill)](https://www.memeorandum.com/250302/p12) (Memeorandum.com)
 
+- [US Sees 1st Measles Death In Decade: Here's What To Know, How To Avoid It](https://www.ndtv.com/world-news/measles-death-in-a-decade-in-us-heres-what-to-know-how-to-avoid-it-7827373) (NDTV News)
+
 ## 25-10 (malaria)
+
+- [U.S.A.I.D. Memos Detail Human Costs of Cuts to Foreign Aid (Apoorva Mandavilli/New York Times)](https://www.memeorandum.com/250302/p101) (Memeorandum.com)
 
 - [Giving an old malaria drug new life](https://www.thestar.com.my/lifestyle/health/2025/03/02/giving-an-old-malaria-drug-new-life) (The Star Online)
 

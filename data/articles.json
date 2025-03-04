@@ -1,8 +1,170 @@
 {
-  "last_updated": "2025-03-03 19:05",
-  "count_articles_total": 1295,
-  "count_articles_new": 5,
+  "last_updated": "2025-03-04 07:07",
+  "count_articles_total": 1315,
+  "count_articles_new": 16,
   "articles": [
+    {
+      "id": 18875,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "U.S.A.I.D. Memos Detail Human Costs of Cuts to Foreign Aid (Apoorva Mandavilli/New York Times)",
+      "description": "Apoorva Mandavilli / New York Times: U.S.A.I.D. Memos Detail Human Costs of Cuts to Foreign Aid \u2014 The world is likely to see millions more malaria infections and 200,000 cases of paralytic polio each year, according to an agency whistle-blower. \u2014 The Trum\u2026",
+      "url": "https://www.memeorandum.com/250302/p101",
+      "urlToImage": "https://static01.nyt.com/images/2025/03/02/multimedia/02usaid-damage-qvmj/02usaid-damage-qvmj-facebookJumbo.jpg",
+      "publishedAt": "2025-03-03 04:55:00",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-03-04 07:07:00.027804",
+      "internal_id": "1a9c11724838ea21df2f08a692c012d22723399fafa07224bbea6d28e687b2d4",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 18865,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "ScienceAlert",
+      "author": "Daniel Pastula, The Conversation",
+      "title": "First US Measles Death in 10 Years: Expert Explains How to Protect Yourself",
+      "description": "There's a way to stop the outbreak.",
+      "url": "https://www.sciencealert.com/first-us-measles-death-in-10-years-expert-explains-how-to-protect-yourself",
+      "urlToImage": "https://www.sciencealert.com/images/2025/03/Measles-Virus.jpg",
+      "publishedAt": "2025-03-03 04:40:34",
+      "content": "On Feb. 26, 2025, Texas health officials announced the death of a child in a measles outbreak the first measles death in the United States since 2015. The outbreak was first identified in early Febr\u2026 [+8483 chars]",
+      "retrievedAt": "2025-03-04 07:06:58.072958",
+      "internal_id": "23f2bac62e5620e9cff2462983a1d32c3780ee1879338eb41b7293499a618b90",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 18862,
+      "query": [
+        "measles"
+      ],
+      "source_id": "al-jazeera-english",
+      "source_name": "Al Jazeera English",
+      "author": "Al Jazeera",
+      "title": "RFK Jr, noted vaccine sceptic, backs measles jab amid deadly US outbreak",
+      "description": "US health secretary says he is 'deeply concerned' about outbreak in Texas.",
+      "url": "https://www.aljazeera.com/news/2025/3/3/rfk-jr-noted-vaccine-sceptic-backs-measles-jab-amid-deadly-us-outbreak",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/03/AFP__20250228__36YR4NK__v1__HighRes__UsHealthPoliticsVaccinesVirus-1740972750_45cb37-1740972815.jpg?resize=1200%2C630&quality=80",
+      "publishedAt": "2025-03-03 04:34:49",
+      "content": "Robert F Kennedy Jr, the top health official in the United States who is known for his scepticism of vaccines, has backed the measles jab amid a deadly outbreak of the infectious disease in Texas. I\u2026 [+1920 chars]",
+      "retrievedAt": "2025-03-04 07:06:57.944193",
+      "internal_id": "e15bd369c79a3f6b97708d5920c225606a545acf1ccb61757f1f6cf99ee08e77",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 18866,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "RFK Jr says Texas measles outbreak a 'call to action' (Sarah Fortinsky/The Hill)",
+      "description": "Sarah Fortinsky / The Hill: RFK Jr says Texas measles outbreak a \u2018call to action\u2019 \u2014 Robert F. Kennedy Jr., secretary of the Department of Health and Human Services (HHS), said the measles outbreak in west Texas is a \u201ccall to action,\u201d as he encouraged parent\u2026",
+      "url": "https://www.memeorandum.com/250302/p96",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2025/02/AP25057685555375-e1740780367626.jpg?w=1280",
+      "publishedAt": "2025-03-03 03:05:01",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-03-04 07:06:58.085916",
+      "internal_id": "58987c82d67076b5e2dc092367db2d20bcc8298d52faad3cc5e900aaf517cf79",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 18864,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Politicalwire.com",
+      "author": "Taegan Goddard",
+      "title": "RFK Jr. Urges Vaccinations for Measles",
+      "description": "\u201cHealth and Human Services Secretary Robert F. Kennedy Jr. advocated for the MMR vaccine on Sunday in response to a growing measles outbreak in Texas,\u201d Axios reports. \u201cKennedy has a long record of sowing skepticism",
+      "url": "https://politicalwire.com/2025/03/02/rfk-jr-urges-vaccinations-for-measles/",
+      "urlToImage": "https://politicalwire.com/wp-content/uploads/2018/02/PW-podcast-logo.jpg",
+      "publishedAt": "2025-03-03 01:36:00",
+      "content": "\u201cThere are a lot of blogs and news sites claiming to understand politics, but only a few actually do. Political Wire is one of them.\u201d Chuck Todd, host of \u201cMeet the Press\u201d \u201cConcise. Relevant. To th\u2026 [+594 chars]",
+      "retrievedAt": "2025-03-04 07:06:58.036425",
+      "internal_id": "43530bd1e84a42f71e245f7604b3c9fd82d246cb0b1d36211cb8d9f2805484f9",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 18863,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "Measles outbreak continues to spike with nearly 150 reported cases (Lauren Irwin/The Hill)",
+      "description": "Lauren Irwin / The Hill: Measles outbreak continues to spike with nearly 150 reported cases \u2014 The measles outbreak in Texas continues to grow, with nearly 150 reported cases, and more could be exposed. \u2014 The outbreak in West Texas has killed one person, a\u2026",
+      "url": "https://www.memeorandum.com/250302/p79",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2025/02/AP25058597447123-e1740780617390.jpg?w=1280",
+      "publishedAt": "2025-03-03 00:50:01",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-03-04 07:06:58.017436",
+      "internal_id": "6bab5585d10e28c5401a9fceaaf587917728f5f9d5d0f9735db622c4869bb489",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 18869,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "Federal Officials Underplaying Measles Vaccination, Experts Say (Teddy Rosenbluth/New York Times)",
+      "description": "Teddy Rosenbluth / New York Times: Federal Officials Underplaying Measles Vaccination, Experts Say \u2014 Robert F. Kennedy Jr. described the outbreak in West Texas last week as a \u201ctop priority.\u201d But he did not explicitly encourage Americans to get vaccinated. \u2026",
+      "url": "https://www.memeorandum.com/250302/p80",
+      "urlToImage": "https://static01.nyt.com/images/2025/03/02/multimedia/02texas-measles-mkgl/02texas-measles-mkgl-facebookJumbo.jpg",
+      "publishedAt": "2025-03-03 00:50:01",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-03-04 07:06:58.125473",
+      "internal_id": "d19e2f283f6521f3d59b22d2681d7b4bdbab5f18347f5520315dfa061111a1b7",
+      "publishedAtLabel": "Mar 3"
+    },
+    {
+      "id": 18867,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "Amid West Texas measles outbreak, vaccine resistance hardens (Fenit Nirappil/Washington Post)",
+      "description": "Fenit Nirappil / Washington Post: Amid West Texas measles outbreak, vaccine resistance hardens \u2014 A child has died in an outbreak that has grown to 146 cases. \u2014 SEMINOLE, Texas \u2014 When the local hospital warned of a brewing measles outbreak, Kaleigh Brantne\u2026",
+      "url": "https://www.memeorandum.com/250302/p75",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2JO2GWI7OSMYBSVIO25IXCB7Z4.JPG&w=1440",
+      "publishedAt": "2025-03-02 23:40:00",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-03-04 07:06:58.099430",
+      "internal_id": "41c1ad59fcb2ed41ddd2df890fa3f88cd77c2e407009b1fdffce32e078ae1150",
+      "publishedAtLabel": "Mar 2"
+    },
+    {
+      "id": 18868,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Newser",
+      "author": "Bob Cronin",
+      "title": "Stopping Measles Outbreak Is 'a Top Priority,' Kennedy Says",
+      "description": "Leading vaccine critic Robert F. Kennedy Jr., who has been dismissive of the measles outbreak in Texas, now says that the spread needs to be stopped and that the federal response will include vaccinations. \"Ending the measles outbreak is a top priority for me\u2026",
+      "url": "https://www.newser.com/story/365052/stopping-measles-outbreak-is-a-top-priority-kennedy-says.html",
+      "urlToImage": "https://img1-azrcdn.newser.com/image/1596002-12-20250302150002.jpeg",
+      "publishedAt": "2025-03-02 21:00:00",
+      "content": "Leading vaccine critic Robert F. Kennedy Jr., who has been dismissive of the measles outbreak in Texas, now says that the spread needs to be stopped and that the federal response will include vaccina\u2026 [+1515 chars]",
+      "retrievedAt": "2025-03-04 07:06:58.118294",
+      "internal_id": "91826f6474fd7953762a3128962905d7045c31e093ae4b37535311dba6301da7",
+      "publishedAtLabel": "Mar 2"
+    },
     {
       "id": 18858,
       "query": [
@@ -128,6 +290,24 @@
       "content": "TWiV reviews passing of Ann Palmenberg, deadly illness in western Congo, US disruption of mpox and ebolavirus programs, first measles death in Texas outbreak, flu vaccine selection meeting postponed,\u2026 [+945 chars]",
       "retrievedAt": "2025-03-03 07:07:18.501645",
       "internal_id": "57445b052cbac05bfba51858c650ce2214a4e11fead70ff6a39a1b1be045167f",
+      "publishedAtLabel": "Mar 2"
+    },
+    {
+      "id": 18871,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": "Associated Press",
+      "title": "US Sees 1st Measles Death In Decade: Here's What To Know, How To Avoid It",
+      "description": "An unvaccinated child in Texas died from measles this week, marking the first US death from the highly contagious virus in nearly a decade.",
+      "url": "https://www.ndtv.com/world-news/measles-death-in-a-decade-in-us-heres-what-to-know-how-to-avoid-it-7827373",
+      "urlToImage": "https://c.ndtvimg.com/2025-03/7c54k56g_measles-outbreak_625x300_02_March_25.jpeg",
+      "publishedAt": "2025-03-02 02:21:26",
+      "content": "Measles is rarely seen in the United States, but Americans are growing more concerned about the preventable virus as cases continue to rise in rural West Texas. This week, an unvaccinated child died\u2026 [+4350 chars]",
+      "retrievedAt": "2025-03-04 07:06:58.175698",
+      "internal_id": "efc1559d27fa7624cf23561d85464a50b211cbe74d647a6062b28026d0892b42",
       "publishedAtLabel": "Mar 2"
     },
     {
@@ -367,6 +547,24 @@
       "publishedAtLabel": "Mar 1"
     },
     {
+      "id": 18874,
+      "query": [
+        "measles"
+      ],
+      "source_id": "nbc-news",
+      "source_name": "NBC News",
+      "author": "Brandy Zadrozny",
+      "title": "A measles crisis decades in the making: How RFK Jr. helped drive America to this moment",
+      "description": "Robert F. Kennedy Jr. sits atop the very health system he spent years attacking, and now he faces his first big challenge: a deadly measles outbreak in West Texas.",
+      "url": "https://www.nbcnews.com/health/health-news/measles-crisis-decades-making-rfk-jr-helped-drive-america-moment-rcna194093",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-02/250228-rfk-measles-death-jg-17e060.jpg",
+      "publishedAt": "2025-03-01 11:00:00",
+      "content": "A child in the United States has died from measles. Just two weeks after his confirmation as Health and Human Services secretary, Robert F. Kennedy Jr. faces the public health crisis that experts ha\u2026 [+9554 chars]",
+      "retrievedAt": "2025-03-04 07:06:58.196726",
+      "internal_id": "6ff66a34757bb481626f1433b40c3ff139b6aea944b644deaee51e62b3f67f8c",
+      "publishedAtLabel": "Mar 1"
+    },
+    {
       "id": 18820,
       "query": [
         "measles"
@@ -382,6 +580,24 @@
       "content": "An outbreak of measles in West Texas brought a grim milestone this week, when officials reported the first measles death in the U.S. in a decade a school-age child in Lubbock who was unvaccinated. N\u2026 [+8889 chars]",
       "retrievedAt": "2025-03-02 19:05:41.971286",
       "internal_id": "d7f7ea6b8bbcfc616816906f6fb441f8fcd26ec6dcd4ddb9a577c5ac142a6176",
+      "publishedAtLabel": "Mar 1"
+    },
+    {
+      "id": 18876,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Newsbreak.com",
+      "author": "Bin",
+      "title": "Trump Ends Funding For Malaria, H.I.V., & More Global Health Programs - NewsBreak",
+      "description": "The Trump administration has ceased funding for roughly 5,800 global health programs, including those that support providing vaccines, life-saving medicati",
+      "url": "https://www.newsbreak.com/share/3834544178448-trump-ends-funding-for-malaria-h-i-v-more-global-health-programs?s=a2&share_destination_id=MzAxMzA4NTY4LTE3NDA4MTI1OTgzNjY%3D&pd=0KOG7cgN&hl=en_US&send_time=1740812598&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2224.39.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_model_exp_25q1-v8%2Cns_foryou_blend_exp_25q1-v3%2Cns_foryou_rank_exp_25q1-v2%2Cns_push_exp_rt_bucketv12-v2%2Cns_foryou_recall_exp_25q1-v3%2Cns_local_strategy_25q1_exp-v12",
+      "urlToImage": "https://img.particlenews.com/img/id/3m7h1i_0zKmMglI00",
+      "publishedAt": "2025-03-01 07:03:45",
+      "content": "The Trump administration has ceased funding for roughly 5,800 global health programs, including those that support providing vaccines, life-saving medications, and emergency health care to millions o\u2026 [+1717 chars]",
+      "retrievedAt": "2025-03-04 07:07:00.114252",
+      "internal_id": "66a635bdf078029ac297febdb1457a1d04d459e9888b7cbf9a884c8e6460db60",
       "publishedAtLabel": "Mar 1"
     },
     {
@@ -472,6 +688,24 @@
       "content": "The Trump administration has ceased funding for roughly 5,800 global health programs, including those that support providing vaccines, life-saving medications, and emergency health care to millions o\u2026 [+1717 chars]",
       "retrievedAt": "2025-03-03 07:07:18.517105",
       "internal_id": "0d6701481cf5221fdc71ac6e72c961b4b093274bad2690f21dbf10d060fb3704",
+      "publishedAtLabel": "Mar 1"
+    },
+    {
+      "id": 18877,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Newsbreak.com",
+      "author": "Bin",
+      "title": "Trump Ends Funding For Malaria, H.I.V., & More Global Health Programs - NewsBreak",
+      "description": "The Trump administration has ceased funding for roughly 5,800 global health programs, including those that support providing vaccines, life-saving medicati",
+      "url": "https://www.newsbreak.com/share/3834544178448-trump-ends-funding-for-malaria-h-i-v-more-global-health-programs?_f=app_share&pd=05WApuMu&lang=en_US&send_time=1740793644&trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.8.2.1%22%2C%22languages%22%3A%22en%22%7D&sep=ns_push_exp_rt_bucketv12-v8%2Cns_foryou_blend_exp_25q1-v8%2Cns_foryou_model_exp_25q1-v8%2Cns_local_strategy_25q1_exp-v6%2Cns_foryou_rank_exp_25q1-v5%2Cns_foryou_recall_exp_25q1-v4&s=i2",
+      "urlToImage": "https://img.particlenews.com/img/id/3m7h1i_0zKmMglI00",
+      "publishedAt": "2025-03-01 01:47:50",
+      "content": "The Trump administration has ceased funding for roughly 5,800 global health programs, including those that support providing vaccines, life-saving medications, and emergency health care to millions o\u2026 [+1717 chars]",
+      "retrievedAt": "2025-03-04 07:07:00.127318",
+      "internal_id": "b391a70d7c5cc07dafe6fb385622d99b8b066be2d86e5b7812e1e15ea96e5e5d",
       "publishedAtLabel": "Mar 1"
     },
     {
@@ -998,6 +1232,24 @@
       "publishedAtLabel": "Feb 28"
     },
     {
+      "id": 18873,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "TODAY",
+      "author": "TODAY",
+      "title": "Kentucky, Washington are latest states to announce measles cases",
+      "description": "Ten states have now reported cases of measles, with most of them in Texas. Now there's a furious race to contain the spread. NBC\u2019s Sam Brock reports for TODAY on the rush to get people vaccinated.",
+      "url": "https://www.today.com/video/measles-cases-grow-what-s-being-done-to-stop-the-spread-233167429695",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/mpx/2704722219/2025_02/1740745713733_tdy_news_7a_brock_measles_250228_1920x1080-os22pl.jpg",
+      "publishedAt": "2025-02-28 12:28:39",
+      "content": "Ten states have now reported cases of measles, with most of them in Texas. Now there's a furious race to contain the spread. NBCs Sam Brock reports for TODAY on the rush to get people vaccinated.Feb.\u2026 [+8 chars]",
+      "retrievedAt": "2025-03-04 07:06:58.189778",
+      "internal_id": "a1e9af864fdf629689cf2ffac480ed53a936f549bc81fce9931da07b927c60f1",
+      "publishedAtLabel": "Feb 28"
+    },
+    {
       "id": 18786,
       "query": [
         "measles"
@@ -1358,6 +1610,24 @@
       "publishedAtLabel": "Feb 28"
     },
     {
+      "id": 18870,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "HuffPost",
+      "author": "Jennifer Bendery",
+      "title": "Pediatrician In Congress Blames RFK Jr. For Child's Death From Measles",
+      "description": "\u201cI do blame him and others like him who, for the past 20 years, have been spreading lies about vaccines,\" said Rep. Kim Schrier (D-Wash.).",
+      "url": "https://www.huffpost.com/entry/kim-schrier-rfk-jr-vaccines-measles_n_67c0a705e4b0702663293e54",
+      "urlToImage": "https://img.huffingtonpost.com/asset/67c0ee4b1600001a00c515a1.jpeg?cache=CCupqulC62&ops=1200_630",
+      "publishedAt": "2025-02-28 00:05:19",
+      "content": "WASHINGTON Late Wednesday, Rep. Kim Schrier (D-Wash.) tore into Health and Human Services Secretary Robert F. Kennedy Jr. for downplaying a childs death in a measles outbreak in Texas, saying she bla\u2026 [+5821 chars]",
+      "retrievedAt": "2025-03-04 07:06:58.168145",
+      "internal_id": "e2b5dafb1666486075c89f3b06439a448d9d4b7a769b75276f1dbc0e9d26eb62",
+      "publishedAtLabel": "Feb 28"
+    },
+    {
       "id": 18776,
       "query": [
         "h5n1"
@@ -1373,6 +1643,24 @@
       "content": "Mercola proudly supports these charities and organizations. View All Disclaimer: The entire contents of this website are based upon the opinions of Dr. Mercola, unless otherwise noted. Individual a\u2026 [+1007 chars]",
       "retrievedAt": "2025-03-01 07:06:05.498490",
       "internal_id": "209f8b227136835775feb600f6cc2efbde8e8f0266870db3514cfe1bef5dd9c1",
+      "publishedAtLabel": "Feb 28"
+    },
+    {
+      "id": 18872,
+      "query": [
+        "measles"
+      ],
+      "source_id": "national-geographic",
+      "source_name": "National Geographic",
+      "author": "Meryl Davids Landau",
+      "title": "Should you get a measles booster? Here's how to protect yourself amid the recent outbreaks.",
+      "description": "Cases in Texas and other states are on the rise, but most of the infected were not vaccinated. Here\u2019s what to know about the very contagious disease and how immunity works.",
+      "url": "https://www.nationalgeographic.com/health/article/measles-vaccine-booster",
+      "urlToImage": "https://i.natgeofe.com/n/2d4d54a6-5802-4dea-ad0a-7b22453f7793/h_31.RC1C61B11F00_16x9.jpg?w=1200",
+      "publishedAt": "2025-02-28 00:00:00",
+      "content": "But not everyone can get the shot. Because MMR is a live vaccine, people with weakened immune systems from cancer therapy or certain diseases run the risk of falling ill. Neither can pregnant women o\u2026 [+1568 chars]",
+      "retrievedAt": "2025-03-04 07:06:58.182773",
+      "internal_id": "c8d51dd0397841e5cb0216d3c8c714501a478df9a7549f705e046120f360ceed",
       "publishedAtLabel": "Feb 28"
     },
     {
@@ -23357,6 +23645,78 @@
       "content": "Oferta Rel\u00e2mpago: 4 revistas pelo pre\u00e7o de uma! Aedes aegypti: a picada da f\u00eamea do mosquito transmite a dengue (Divulga\u00e7\u00e3o/Divulga\u00e7\u00e3o) Continua ap\u00f3s publicidade O Minist\u00e9rio da Sa\u00fade vai distribu\u2026 [+952 chars]",
       "retrievedAt": "2025-01-21 07:06:20.719045",
       "internal_id": "502de82804265c8547ec4cfd22927d8a990b6b75818f525812b4561692d98b69",
+      "publishedAtLabel": "Jan 19"
+    },
+    {
+      "id": 17563,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Shtfplan.com",
+      "author": "Mac Slavo",
+      "title": "CDC Urges Increased Testing For Bird Flu",
+      "description": "As the media continues to push forward with the bird flu narrative. The Centers for Disease Control and Prevention have suggested that healthcare workers accelerate bird flu testing for patients hospitalized with flu symptoms as the H5N1 avian influenza outbr\u2026",
+      "url": "https://www.shtfplan.com/headline-news/cdc-urges-increased-testing-for-bird-flu",
+      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2023/12/bird-flu1.jpg",
+      "publishedAt": "2025-01-19 18:30:53",
+      "content": "As the media continues to push forward with the bird flu narrative. The Centers for Disease Control and Prevention have suggested that healthcare workers accelerate bird flu testing for patients hosp\u2026 [+2228 chars]",
+      "retrievedAt": "2025-01-20 19:05:48.523076",
+      "internal_id": "994713215544b42535086f4ce20c52d2645cf584d449998cc44d68847b889a02",
+      "publishedAtLabel": "Jan 19"
+    },
+    {
+      "id": 17564,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Zive.cz",
+      "author": "Karel Kili\u00e1n",
+      "title": "Prvn\u00ed \u00famrt\u00ed \u010dlov\u011bka na pta\u010d\u00ed ch\u0159ipku vyvol\u00e1v\u00e1 ot\u00e1zku, zda jsme p\u0159ipraveni na dal\u0161\u00ed pandemii",
+      "description": "",
+      "url": "https://vtm.zive.cz/clanky/prvni-umrti-cloveka-na-ptaci-chripku-vyvolava-otazku-zda-jsme-pripraveni-na-dalsi-pandemii/sc-870-a-232411/default.aspx",
+      "urlToImage": "https://www.zive.cz/getthumbnail.aspx?q=100&height=20000&width=20000&id_file=924558027",
+      "publishedAt": "2025-01-19 13:45:00",
+      "content": "Na za\u00e1tku leton\u00edho roku okovala veejnost zpr\u00e1va o prvn\u00edm \u00famrt\u00ed lovka v USA v dsledku pta\u00ed chipky H5N1. Star\u00ed mu z Louisiany, kter\u00fd byl v kontaktu s nakaen\u00fdmi pt\u00e1ky, podlehl tk\u00fdm respiran\u00edm komplikac\u00ed\u2026 [+3383 chars]",
+      "retrievedAt": "2025-01-20 19:05:48.712772",
+      "internal_id": "7155ac7915807811b6a0b6efb9ae01d3d8f5733480982476190cde0dd80cac33",
+      "publishedAtLabel": "Jan 19"
+    },
+    {
+      "id": 17566,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Catracalivre.com.br",
+      "author": "Andr\u00e9 Nicolau",
+      "title": "Dengue: Especialista ensina como usar o hipoclorito de s\u00f3dio no combate ao Aedes aegypti",
+      "description": "No ver\u00e3o aumenta o risco da dengue: aprenda a proteger sua casa do Aedes aegypti, mosquito transmissor da doen\u00e7a.",
+      "url": "https://catracalivre.com.br/saude-bem-estar/dengue-combate-ao-aedes-aegypti/",
+      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1280,h=680,fit=cover,format=jpeg/wp-content/uploads/2024/01/istock-183256299.jpg",
+      "publishedAt": "2025-01-19 12:00:41",
+      "content": "Casos de dengue triplicam em 2024 iStock/flubydust - iStock/flubydust Durante o ver\u00e3o, os casos de dengue aumentam consideravelmente. Isso acontece devido \u00e0 alta incid\u00eancia de chuvas em grande part\u2026 [+3503 chars]",
+      "retrievedAt": "2025-01-20 19:05:49.251975",
+      "internal_id": "e96f2e755416d68f1f032efdfae7ff9dcf6b4ed81e61f916e674ef2b451a70e8",
+      "publishedAtLabel": "Jan 19"
+    },
+    {
+      "id": 17565,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Milena Teixeira",
+      "title": "Dengue: governo quer imunizante no programa de vacina\u00e7\u00e3o em 2026",
+      "description": "Governo quer incorporar a vacina do Instituto Butantan, que ainda deve ser certificada, no Plano Nacional de Imuniza\u00e7\u00f5es",
+      "url": "https://www.metropoles.com/colunas/igor-gadelha/dengue-governo-quer-imunizante-em-programa-de-vacinacao-em-2026",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2025/01/06072339/dengue-7.jpg",
+      "publishedAt": "2025-01-19 08:00:00",
+      "content": "O Minist\u00e9rio da Sa\u00fade planeja ampliar a aplica\u00e7\u00e3o da vacina contra a dengue para mais p\u00fablicos at\u00e9 o final deste ano. Atualmente, o Sistema \u00danico de Sa\u00fade disponibiliza o imunizante apenas para crian\u2026 [+1240 chars]",
+      "retrievedAt": "2025-01-20 19:05:49.226468",
+      "internal_id": "5c1f3c4df86ee1f5ac8ca50f9a8bc0e3815d667441450e231da38962262e73cb",
       "publishedAtLabel": "Jan 19"
     }
   ]
