@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 19
-- **Last harvest:** 2025-03-05 07:06
-- **Most recent article:** 2025-03-04 06:19:36
+- **New articles in last harvest:** 24
+- **Last harvest:** 2025-03-05 19:05
+- **Most recent article:** 2025-03-04 19:00:00
 
 ---
 
@@ -12,21 +12,21 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-10 | 25-4 | 25-5 | 25-6 | 25-7 | 25-8 | 25-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 39 | 10 | 13 | 24 | 72 | 83 | 162 | 403 |
-| h5n1 | 7 | 31 | 51 | 72 | 55 | 54 | 42 | 312 |
-| dengue | 3 | 36 | 24 | 34 | 37 | 57 | 30 | 221 |
+| measles | 53 | 10 | 13 | 24 | 72 | 83 | 162 | 417 |
+| h5n1 | 9 | 29 | 51 | 72 | 55 | 54 | 42 | 312 |
+| dengue | 4 | 34 | 24 | 34 | 37 | 57 | 30 | 220 |
 | mpox | 8 | 23 | 22 | 28 | 18 | 15 | 26 | 140 |
-| malaria | 13 | 18 | 30 | 25 | 12 | 7 | 20 | 125 |
+| malaria | 17 | 18 | 30 | 25 | 12 | 7 | 20 | 129 |
+| chikungunya | 2 | 10 | 9 | 8 | 5 | 3 | 7 | 44 |
 | meningitis | 2 | 2 | 8 | 2 | 12 | 11 | 7 | 44 |
 | hpai | 5 | 11 | 6 | 3 | 9 | 5 | 4 | 43 |
-| chikungunya | 1 | 10 | 9 | 8 | 5 | 3 | 7 | 43 |
 | zika | 2 | 2 | 8 | 6 | 2 | 6 | 2 | 28 |
 | rabies | 0 | 7 | 6 | 4 | 5 | 4 | 2 | 28 |
-| typhoid | 2 | 0 | 0 | 2 | 3 | 0 | 4 | 11 |
+| typhoid | 3 | 0 | 0 | 2 | 3 | 0 | 4 | 12 |
 | pertussis | 0 | 1 | 0 | 3 | 3 | 2 | 0 | 9 |
 | yersinia | 1 | 0 | 0 | 0 | 5 | 0 | 2 | 8 |
-| leptospirosis | 0 | 2 | 0 | 1 | 0 | 2 | 0 | 5 |
-| shigellosis | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 2 |
+| leptospirosis | 1 | 2 | 0 | 1 | 0 | 2 | 0 | 6 |
+| shigellosis | 2 | 0 | 0 | 0 | 0 | 0 | 1 | 3 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -2755,10 +2755,6 @@ Source: [News API](https://newsapi.org/)
 
 - [美国科学家拉响警报：新型 H5N1 禽流感病毒被发现，正威胁人类健康](https://www.ithome.com/0/825/921.htm) (Ithome.com)
 
-- [CDC Urges Increased Testing For Bird Flu](https://www.shtfplan.com/headline-news/cdc-urges-increased-testing-for-bird-flu) (Shtfplan.com)
-
-- [První úmrtí člověka na ptačí chřipku vyvolává otázku, zda jsme připraveni na další pandemii](https://vtm.zive.cz/clanky/prvni-umrti-cloveka-na-ptaci-chripku-vyvolava-otazku-zda-jsme-pripraveni-na-dalsi-pandemii/sc-870-a-232411/default.aspx) (Zive.cz)
-
 ## 25-4 (dengue)
 
 - [Joga lixo na rua? GDF usará drones para multar sujões. Veja valores](https://www.metropoles.com/distrito-federal/joga-lixo-na-rua-gdf-usara-drones-para-multar-sujoes-veja-valores) (Metropoles.com)
@@ -2829,10 +2825,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Saúde vai distribuir 6,5 milhões de testes rápidos de dengue a estados](https://veja.abril.com.br/coluna/radar/saude-vai-distribuir-65-milhoes-de-testes-rapidos-de-dengue-a-estados) (Abril.com.br)
 
-- [Dengue: Especialista ensina como usar o hipoclorito de sódio no combate ao Aedes aegypti](https://catracalivre.com.br/saude-bem-estar/dengue-combate-ao-aedes-aegypti/) (Catracalivre.com.br)
-
-- [Dengue: governo quer imunizante no programa de vacinação em 2026](https://www.metropoles.com/colunas/igor-gadelha/dengue-governo-quer-imunizante-em-programa-de-vacinacao-em-2026) (Metropoles.com)
-
 ## 25-4 (chikungunya)
 
 - [Natural exposure to Chikungunya virus in golden-headed lion tamarin (Leontopithecus chrysomelas, Kuhl, 1820) from non-protected areas in southern Bahia, Brazil: Implications and significance](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012695) (Plos.org)
@@ -2867,11 +2859,15 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-10 (typhoid)
 
+- [Zydus to develop first-ever typhoid-shigella combo vaccine with Gates support](https://www.thehindubusinessline.com/markets/stock-markets/zydus-to-develop-first-ever-typhoid-shigella-combo-vaccine-with-gates-support/article69289187.ece) (BusinessLine)
+
 - [Zydus to develop combination vaccine for shigellosis and typhoid](https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/zydus-to-develop-combination-vaccine-for-shigellosis-and-typhoid/articleshow/118700976.cms) (The Times of India)
 
 - [Wastewater surveillance for Salmonella Typhi and its association with seroincidence of enteric fever in Vellore, India](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012373) (Plos.org)
 
 ## 25-10 (shigellosis)
+
+- [Zydus to develop first-ever typhoid-shigella combo vaccine with Gates support](https://www.thehindubusinessline.com/markets/stock-markets/zydus-to-develop-first-ever-typhoid-shigella-combo-vaccine-with-gates-support/article69289187.ece) (BusinessLine)
 
 - [Zydus to develop combination vaccine for shigellosis and typhoid](https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/zydus-to-develop-combination-vaccine-for-shigellosis-and-typhoid/articleshow/118700976.cms) (The Times of India)
 
@@ -2900,6 +2896,34 @@ Source: [News API](https://newsapi.org/)
 - [Rekrut nach Meningitis-Verdacht verstorben](https://burgenland.orf.at/stories/3295408/) (Burgenland.orf.at)
 
 ## 25-10 (measles)
+
+- [C.D.C. Sends 'Disease Detectives' to Texas for Measles Outbreak (Sheryl Gay Stolberg/New York Times)](https://www.memeorandum.com/250304/p81) (Memeorandum.com)
+
+- [RFK Jr’s Measles Op-Ed Plays The Same Old Anti-Vaxx Games — But Fox News Threw Their Readers a Lifeline](https://www.mediaite.com/opinion/rfk-jrs-measles-op-ed-plays-the-same-old-anti-vaxx-games-but-fox-news-threw-their-readers-a-lifeline/) (Mediaite)
+
+- [CDC Sends ‘Disease Detectives’ to Texas](https://politicalwire.com/2025/03/04/cdc-sends-disease-detectives-to-texas/) (Politicalwire.com)
+
+- [Americas at risk of losing measles elimination status, U.N. agency warns (Alexander Tin/CBS News)](https://www.memeorandum.com/250304/p72) (Memeorandum.com)
+
+- [RFK Jr.'s focus on vitamin A for measles worries health experts (Washington Post)](https://www.memeorandum.com/250304/p60) (Memeorandum.com)
+
+- [Americas at risk of losing measles elimination status, U.N. agency warns](https://www.cbsnews.com/news/measles-outbreaks-americas-risk-losing-elimination-status/) (CBS News)
+
+- ['Irresponsible and reckless:' Warren demands RFK Jr. clarify vaccine stance amid deadly measles outbreak (Meg Tirrell/CNN)](https://www.memeorandum.com/250304/p49) (Memeorandum.com)
+
+- [9 states report measles cases as outbreaks grow (Alix Martichoux/The Hill)](https://www.memeorandum.com/250304/p47) (Memeorandum.com)
+
+- [Texas measles outbreak fueled by distrust in public health and personal choice](https://www.bostonherald.com/2025/03/04/texas-measles-outbreak-distrust-choice/) (Boston Herald)
+
+- [MEASLES PLANDEMIC UNDERWAY: Fake news Warning “Unvaccinated Children” Are Dying From Measles](https://www.shtfplan.com/headline-news/measles-plandemic-underway-fake-news-warning-unvaccinated-children-are-dying-from-measles) (Shtfplan.com)
+
+- [How Worried Should We Be About These Measles Outbreaks?](http://www.thecut.com/article/how-worried-should-we-be-about-measles-outbreak-spreading.html) (The Cut)
+
+- [Measles: When to Get the MMR Vaccine, and Do You Need a Booster?](https://www.cnet.com/health/medical/measles-when-get-mmr-vaccine-do-you-need-booster/) (CNET)
+
+- [RFK Jr.: Vaccines Not Only Protect Individual Children From Measles, But Also Contribute To Community Immunity](https://sciencebasedmedicine.org/welcome-to-the-resistance-rfk-jr/) (Sciencebasedmedicine.org)
+
+- [About face for RFK Jr. on MMR vaccine?](https://www.healthcare-economist.com/2025/03/04/about-face-for-rfk-jr-on-mmr-vaccine/) (Healthcare-economist.com)
 
 - [Kennedy sends mixed vaccine messages amid Texas measles outbreak (Nathaniel Weixel/The Hill)](https://www.memeorandum.com/250303/p143) (Memeorandum.com)
 
@@ -2981,6 +3005,14 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-10 (malaria)
 
+- [Women’s History Month: Five Groundbreaking Researchers Who Mapped the Ocean Floor, Tested Atomic Theories, Vanquished Malaria and More](https://msmagazine.com/2025/03/04/womens-history-month-scientists-marie-tharp-margaret-morse-nice-tu-youyou-emmy-noether-chien-shiung-wu/) (Ms. Magazine)
+
+- [Submicroscopic malaria in pregnancy and associated adverse pregnancy events: A case-cohort study of 4,352 women on the Thailand–Myanmar border](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004529) (Plos.org)
+
+- [Malaria deaths soar in Ethiopia amid conflict in Oromia region](https://timesofindia.indiatimes.com/world/rest-of-world/malaria-deaths-soar-in-ethiopia-amid-conflict-in-oromia-region/articleshow/118702270.cms) (The Times of India)
+
+- [Malaria deaths soar in shadow of Ethiopia conflict](https://www.voanews.com/a/malaria-deaths-soar-in-shadow-of-ethiopia-conflict-/7996289.html) (VOA News)
+
 - [NAFDAC bans registration of multi-dose anti-malarial drugs](https://punchng.com/nafdac-bans-registration-of-multi-dose-anti-malarial-drugs/) (The Punch)
 
 - [Internal Memos: Senior USAID Leaders Warned Trump Appointees of Hundreds of Thousands of Deaths From Closing Agency (ProPublica)](https://www.memeorandum.com/250303/p110) (Memeorandum.com)
@@ -3007,6 +3039,10 @@ Source: [News API](https://newsapi.org/)
 
 - ['Total panic' as USAID cuts jobs from Syria to Haiti](https://www.japantimes.co.jp/news/2025/03/02/world/politics/usaid-jobs-syria-haiti/) (The Japan Times)
 
+## 25-10 (leptospirosis)
+
+- [Daftar Penyakit yang Muncul akibat Banjir, Jangan Dianggap Sepele!](https://www.inews.id/lifestyle/health/daftar-penyakit-yang-muncul-akibat-banjir-jangan-dianggap-sepele) (Inews.id)
+
 ## 25-10 (hpai)
 
 - [Raw cat food recalled after state testing finds contamination with bird flu](https://www.foodsafetynews.com/2025/03/raw-cat-food-recalled-after-state-testing-finds-contamination-with-bird-flu/) (Food Safety News)
@@ -3020,6 +3056,10 @@ Source: [News API](https://newsapi.org/)
 - [Voluntary Recall of Wild Coast Raw Boneless Free Range Chicken Formula Raw Pet Food Because of Possible Bird Flu Health Risk](https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/voluntary-recall-wild-coast-raw-boneless-free-range-chicken-formula-raw-pet-food-because-possible) (FDA.gov)
 
 ## 25-10 (h5n1)
+
+- [Deadly bird flu on remote island poses new threat to Australia](https://www.abc.net.au/news/science/2025-03-05/bird-flu-infections-alert-australian-island-avian-influenza/105006040) (ABC News (AU))
+
+- [The imbecile RFK Jr. (perhaps aided and abetted by the imbecile Elon Musk) setting the stage for everyone to die in the next pandemic](https://leiterreports.typepad.com/blog/2025/03/the-imbecile-rfk-jr-perhaps-aided-and-abetted-by-the-imbecile-elon-musk-setting-the-stage-for-everyo.html) (Typepad.com)
 
 - [Raw cat food recalled after state testing finds contamination with bird flu](https://www.foodsafetynews.com/2025/03/raw-cat-food-recalled-after-state-testing-finds-contamination-with-bird-flu/) (Food Safety News)
 
@@ -3037,6 +3077,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-10 (dengue)
 
+- [Un español es hospitalizado en Tailandia tras beber agua y explica el dinero que tiene que pagar por su ingreso: «Nos faltaba pillar el dengue»](https://www.abc.es/recreo/espanol-hospitalizado-tailandia-tras-beber-agua-dinero-pagar-ingreso-dengue-20250304164537-nt.html) (Www.abc.es)
+
 - [Terratis se renforce dans sa lutte contre le moustique tigre](https://objectif-languedoc-roussillon.latribune.fr/innovation/2025-03-03/terratis-se-renforce-dans-sa-lutte-contre-le-moustique-tigre-1019699.html) (La Tribune.fr)
 
 - [Brumbies flanker Tualima diagnosed with dengue fever](https://www.bbc.com/sport/rugby-union/articles/cgl0e67r6dyo) (BBC News)
@@ -3044,5 +3086,7 @@ Source: [News API](https://newsapi.org/)
 - [Ssa: este año, mil 781 casos de dengue y cero muertes](https://www.jornada.com.mx/2025/03/02/sociedad/027n1soc) (Jornada.com.mx)
 
 ## 25-10 (chikungunya)
+
+- [El ECDC registra más de 30.000 casos y 14 muertes de chikungunya desde principios de año en todo el mundo](https://www.infosalus.com/salud-investigacion/noticia-ecdc-registra-mas-30000-casos-14-muertes-chikungunya-principios-ano-todo-mundo-20250304105957.html) (Infosalus.com)
 
 - [Terratis se renforce dans sa lutte contre le moustique tigre](https://objectif-languedoc-roussillon.latribune.fr/innovation/2025-03-03/terratis-se-renforce-dans-sa-lutte-contre-le-moustique-tigre-1019699.html) (La Tribune.fr)

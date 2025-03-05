@@ -1,8 +1,441 @@
 {
-  "last_updated": "2025-03-05 07:06",
-  "count_articles_total": 1372,
-  "count_articles_new": 19,
+  "last_updated": "2025-03-05 19:05",
+  "count_articles_total": 1392,
+  "count_articles_new": 24,
   "articles": [
+    {
+      "id": 18949,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "abc-news-au",
+      "source_name": "ABC News (AU)",
+      "author": "Peter de Kruijff",
+      "title": "Deadly bird flu on remote island poses new threat to Australia",
+      "description": "The deadly H5N1 strain of bird flu travelled 6,600 kilometres over the sea to Kerguelen Island, which is just 440km from Australia's Heard Island.",
+      "url": "https://www.abc.net.au/news/science/2025-03-05/bird-flu-infections-alert-australian-island-avian-influenza/105006040",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/61fc52ca77e9410cbf5cb54add842c31?impolicy=wcms_watermark_news&cropH=738&cropW=1312&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+      "publishedAt": "2025-03-04 19:00:00",
+      "content": "The deadly H5N1 strain of avian influenza sweeping the globe is getting closer to Australia from the south. Australian virus-watchers are concerned for the potential of long-distance bird flu spread\u2026 [+7023 chars]",
+      "retrievedAt": "2025-03-05 19:05:55.922854",
+      "internal_id": "f1069da4102d6e21c2641cd1b7652ebad16cd8bb8d5ab0865ed44c9f2847494e",
+      "publishedAtLabel": "Mar 4"
+    },
+    {
+      "id": 18947,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "C.D.C. Sends 'Disease Detectives' to Texas for Measles Outbreak (Sheryl Gay Stolberg/New York Times)",
+      "description": "Sheryl Gay Stolberg / New York Times: C.D.C. Sends \u2018Disease Detectives\u2019 to Texas for Measles Outbreak \u2014 The Trump administration is stepping in to help Texas respond to the deadly and highly contagious respiratory virus. \u2014 The federal Centers for Disease \u2026",
+      "url": "https://www.memeorandum.com/250304/p81",
+      "urlToImage": "https://static01.nyt.com/images/2025/03/04/multimedia/04trump-news-measles-qzjl/04trump-news-measles-qzjl-facebookJumbo.jpg",
+      "publishedAt": "2025-03-04 17:20:01",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-03-05 19:05:55.255671",
+      "internal_id": "8bec6aaa8a020560e7e2b318dca1f679872b28b4d0b8571310c855027f2b1cec",
+      "publishedAtLabel": "Mar 4"
+    },
+    {
+      "id": 18941,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Mediaite",
+      "author": "Sarah Rumpf",
+      "title": "RFK Jr\u2019s Measles Op-Ed Plays The Same Old Anti-Vaxx Games \u2014 But Fox News Threw Their Readers a Lifeline",
+      "description": "A closer read of what Kennedy actually wrote in his op-ed on the Texas measles outbreak shows he is still playing his same old tired anti-vaxxer games. The post RFK Jr\u2019s Measles Op-Ed Plays The Same Old Anti-Vaxx Games \u2014 But Fox News Threw Their Readers a Lif\u2026",
+      "url": "https://www.mediaite.com/opinion/rfk-jrs-measles-op-ed-plays-the-same-old-anti-vaxx-games-but-fox-news-threw-their-readers-a-lifeline/",
+      "urlToImage": "https://www.mediaite.com/wp-content/uploads/2025/01/AP25030679252779-scaled.jpg",
+      "publishedAt": "2025-03-04 17:14:19",
+      "content": "AP Photo/Rod Lamkey, Jr. Amid growing criticism as the measles outbreak continues to spread, Secretary of Health and Human Services Robert F. Kennedy Jr. wrote an op-ed for Fox News Digital that got\u2026 [+13502 chars]",
+      "retrievedAt": "2025-03-05 19:05:55.111538",
+      "internal_id": "970895cdf7b60ec9907da2a1e2c8c60d52dab6c58949cdc1c6ace05a2c54b4fb",
+      "publishedAtLabel": "Mar 4"
+    },
+    {
+      "id": 18953,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Ms. Magazine",
+      "author": "Maggie Villiger",
+      "title": "Women\u2019s History Month: Five Groundbreaking Researchers Who Mapped the Ocean Floor, Tested Atomic Theories, Vanquished Malaria and More",
+      "description": "Behind some of the most fascinating scientific discoveries and innovations are women whose names might not be familiar but whose stories are worth knowing: \u2014Marie Tharp revolutionized oceanography by mapping the seafloor, uncovering a rift valley that helped \u2026",
+      "url": "https://msmagazine.com/2025/03/04/womens-history-month-scientists-marie-tharp-margaret-morse-nice-tu-youyou-emmy-noether-chien-shiung-wu/",
+      "urlToImage": "https://msmagazine.com/wp-content/uploads/2025/02/Womens-History-Month-Five-Groundbreaking-Researchers-Who-Mapped-the-Ocean-Floor-Tested-Atomic-Theories-Vanquished-Malaria-and-More.png",
+      "publishedAt": "2025-03-04 16:58:27",
+      "content": "The experiments of Columbia University physicists (left to right) Chien-Shiung Wu, Y.K. Lee and L.W. Mo confirmed the theory of conservation of vector current. (Picryl / Creative Commons) This artic\u2026 [+4921 chars]",
+      "retrievedAt": "2025-03-05 19:05:56.817948",
+      "internal_id": "c24a331e57d462fdad26ba06d1a6d7da382d54ab9d7ca458c23aebbaf029e1fb",
+      "publishedAtLabel": "Mar 4"
+    },
+    {
+      "id": 18946,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Politicalwire.com",
+      "author": "Taegan Goddard",
+      "title": "CDC Sends \u2018Disease Detectives\u2019 to Texas",
+      "description": "\"The federal Centers for Disease Control and Prevention has sent some of its 'disease detectives' to West Texas to help with the measles outbreak there \u2014 a sign that the Trump administration is getting more",
+      "url": "https://politicalwire.com/2025/03/04/cdc-sends-disease-detectives-to-texas/",
+      "urlToImage": "https://politicalwire.com/wp-content/uploads/2018/02/PW-podcast-logo.jpg",
+      "publishedAt": "2025-03-04 16:54:33",
+      "content": "\u201cThere are a lot of blogs and news sites claiming to understand politics, but only a few actually do. Political Wire is one of them.\u201d Chuck Todd, host of \u201cMeet the Press\u201d \u201cConcise. Relevant. To th\u2026 [+594 chars]",
+      "retrievedAt": "2025-03-05 19:05:55.234428",
+      "internal_id": "8ff3b0123b00456cc45432a61b12ce1759591051a6537bfdf6383c266bd0341e",
+      "publishedAtLabel": "Mar 4"
+    },
+    {
+      "id": 18944,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "Americas at risk of losing measles elimination status, U.N. agency warns (Alexander Tin/CBS News)",
+      "description": "Alexander Tin / CBS News: Americas at risk of losing measles elimination status, U.N. agency warns \u2014 Measles outbreaks across North America are threatening the region's status of having officially eliminated the virus, officials from the Pan-American Health\u2026",
+      "url": "https://www.memeorandum.com/250304/p72",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/06/03/65b9b851-c21d-40d2-b396-aeb2328cfb63/thumbnail/1200x630/bb2ed87470e9224d45ed16acf2d1b181/measles.jpg?v=63a2b43e2ef8917aa6bd547ca29dd4fa",
+      "publishedAt": "2025-03-04 16:45:02",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-03-05 19:05:55.174087",
+      "internal_id": "9da1d9a5fb4c3da5a1db4698cd5257a5f78cf5a0561232430537ec6e7a77ea78",
+      "publishedAtLabel": "Mar 4"
+    },
+    {
+      "id": 18943,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "RFK Jr.'s focus on vitamin A for measles worries health experts (Washington Post)",
+      "description": "Washington Post: RFK Jr.'s focus on vitamin A for measles worries health experts \u2014 The measles outbreak in Texas has sparked debate over the use of vitamin A, with some health experts warning it may not be effective. \u2014 Health Secretary Robert F. Kennedy J\u2026",
+      "url": "https://www.memeorandum.com/250304/p60",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DYQ2ACEIFNT42PILQXCQJD6Z3E_size-normalized.jpg&w=1440",
+      "publishedAt": "2025-03-04 15:55:01",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-03-05 19:05:55.159412",
+      "internal_id": "bbd184943114d77e748034dcd7d70bbd0a27ecadc5f9739ee2e3bbf209d61f22",
+      "publishedAtLabel": "Mar 4"
+    },
+    {
+      "id": 18938,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Alexander Tin",
+      "title": "Americas at risk of losing measles elimination status, U.N. agency warns",
+      "description": "More than 97% of measles cases across North and South America have been in the U.S. or Canada.",
+      "url": "https://www.cbsnews.com/news/measles-outbreaks-americas-risk-losing-elimination-status/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/06/03/65b9b851-c21d-40d2-b396-aeb2328cfb63/thumbnail/1200x630/bb2ed87470e9224d45ed16acf2d1b181/measles.jpg?v=63a2b43e2ef8917aa6bd547ca29dd4fa",
+      "publishedAt": "2025-03-04 15:44:00",
+      "content": "Measles outbreaks across North America are threatening the region's status of having officially eliminated the virus, officials from the Pan-American Health Organization warned, potentially undoing a\u2026 [+3226 chars]",
+      "retrievedAt": "2025-03-05 19:05:55.004804",
+      "internal_id": "c38009fc7726c8347188c61cb5a4883b44737e4a16af611d97fe0f9f6937c80a",
+      "publishedAtLabel": "Mar 4"
+    },
+    {
+      "id": 18948,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "'Irresponsible and reckless:' Warren demands RFK Jr. clarify vaccine stance amid deadly measles outbreak (Meg Tirrell/CNN)",
+      "description": "Meg Tirrell / CNN: \u2018Irresponsible and reckless:\u2019 Warren demands RFK Jr. clarify vaccine stance amid deadly measles outbreak \u2014 In the 18 days since Robert F. Kennedy Jr. was sworn in as secretary of the United States Department of Health and Human Services, \u2026",
+      "url": "https://www.memeorandum.com/250304/p49",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2022-03-03t201118z-1172641934-rc24vs926a2g-rtrmadp-3-usa-fed-senate-powell.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2025-03-04 15:15:00",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-03-05 19:05:55.276673",
+      "internal_id": "f10dcb9ca10ab5f6320b07d491dec2662f2d7cde4f3be96ff34945ee4ab671cf",
+      "publishedAtLabel": "Mar 4"
+    },
+    {
+      "id": 18942,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "9 states report measles cases as outbreaks grow (Alix Martichoux/The Hill)",
+      "description": "Alix Martichoux / The Hill: 9 states report measles cases as outbreaks grow \u2014 (NEXSTAR) - One of the most contagious viruses in the world is spreading around the United States. So far in 2025 there have been three distinct measles outbreaks and at least 16\u2026",
+      "url": "https://www.memeorandum.com/250304/p47",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2025/03/AP25058597447123-e1741038575519.jpg?w=1280",
+      "publishedAt": "2025-03-04 15:05:00",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-03-05 19:05:55.151405",
+      "internal_id": "bf85397494729a89028367c7a7b945bac47168b4a425ddd2537796703630c7d3",
+      "publishedAtLabel": "Mar 4"
+    },
+    {
+      "id": 18954,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Mary Ellen Gilder, Makoto Saito, Warat Haohankhunnatham, Clare L. Ling, Gornpan Gornsawun, Germana Bancone, Cindy S. Chu, Peter R. Christensen, Mallika Imwong, Prakaykaew Charunwatthana, Nay Win Tun, Aung Myat Min, Verena I. Carrara, Stephane Proux, Nicholas J. White, Fran\u00e7ois Nosten, Rose McGready",
+      "title": "Submicroscopic malaria in pregnancy and associated adverse pregnancy events: A case-cohort study of 4,352 women on the Thailand\u2013Myanmar border",
+      "description": "Mary Ellen Gilder and colleagues use samples taken from pregnant individuals during antenatal visits to detect submicroscopic malaria, and examine the outcomes in a case-cohort study.",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004529",
+      "urlToImage": "https://journals.plos.org/plosmedicine/article/figure/image?id=10.1371/journal.pmed.1004529.g004&size=inline",
+      "publishedAt": "2025-03-04 14:00:00",
+      "content": "Citation: Gilder ME, Saito M, Haohankhunnatham W, Ling CL, Gornsawun G, Bancone G, et al. (2025) Submicroscopic malaria in pregnancy and associated adverse pregnancy events: A case-cohort study of 4,\u2026 [+41469 chars]",
+      "retrievedAt": "2025-03-05 19:05:56.825930",
+      "internal_id": "1887f5afe4238c5e64928e915c2107109d92480853edf5ee5c84ad5f74b10343",
+      "publishedAtLabel": "Mar 4"
+    },
+    {
+      "id": 18945,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Boston Herald",
+      "author": "Associated Press",
+      "title": "Texas measles outbreak fueled by distrust in public health and personal choice",
+      "description": "Another outbreak is also spreading, and that's mistrust in vaccines and public health.",
+      "url": "https://www.bostonherald.com/2025/03/04/texas-measles-outbreak-distrust-choice/",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/03/Measles_Outbreak_Texas_01494.jpg?w=1024&h=683",
+      "publishedAt": "2025-03-04 13:44:46",
+      "content": "By DEVI SHASTRI, Associated Press and CARLOS NOGUERAS RAMOS, Texas Tribune SEMINOLE, Texas (AP) \u2014 Measles had struck this West Texas town, sickening dozens of children, but at the Community Church o\u2026 [+9689 chars]",
+      "retrievedAt": "2025-03-05 19:05:55.220151",
+      "internal_id": "a88caae13c4c8835f27562ddb166e053a1a5a7ce80d33be6cf5c9823f698c0fa",
+      "publishedAtLabel": "Mar 4"
+    },
+    {
+      "id": 18940,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Shtfplan.com",
+      "author": "S.D. Wells",
+      "title": "MEASLES PLANDEMIC UNDERWAY: Fake news Warning \u201cUnvaccinated Children\u201d Are Dying From Measles",
+      "description": "The vaccine industrial complex has been perpetuating the claim that measles vaccines are \"safe and effective\" for 50 years. The claim that vaccines are the only way to survive infectious diseases is questionable, as vaccines themselves can be harmful and have\u2026",
+      "url": "https://www.shtfplan.com/headline-news/measles-plandemic-underway-fake-news-warning-unvaccinated-children-are-dying-from-measles",
+      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2023/09/covidvaccine.jpg",
+      "publishedAt": "2025-03-04 13:30:10",
+      "content": "This article was originally published by S.D. Wells at Natural News under the title: MEASLES PLANDEMIC UNDERWAY: Fake news across America warning unvaccinated children hospitalized and dying from mea\u2026 [+4768 chars]",
+      "retrievedAt": "2025-03-05 19:05:55.039447",
+      "internal_id": "7e0312833fcc652c42776d1a51344f73d12b849c936f1f2faa97b995216db2d7",
+      "publishedAtLabel": "Mar 4"
+    },
+    {
+      "id": 18936,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Cut",
+      "author": "Erica Schwiegershausen",
+      "title": "How Worried Should We Be About These Measles Outbreaks?",
+      "description": "Measles cases have been popping up around the country. How worried should we be about measles continuing to spread? Can people who are vaccinated get measles? We asked a pediatrician to break down our questions.",
+      "url": "http://www.thecut.com/article/how-worried-should-we-be-about-measles-outbreak-spreading.html",
+      "urlToImage": "https://pyxis.nymag.com/v1/imgs/97b/f8a/c262b870ef2b42314557e47d20e8089d32-measles-1.1x.rsocial.w1200.jpg",
+      "publishedAt": "2025-03-04 13:00:04",
+      "content": "Last week, health officials in Texas confirmed that an unvaccinated child had died of measles the first U.S. death from the virus in a decade. While widespread vaccination led the U.S. to declare me\u2026 [+8334 chars]",
+      "retrievedAt": "2025-03-05 19:05:54.963830",
+      "internal_id": "2c431db68f439c07130d687c1aa83e10d5174f30aac5e6df9701e83234686256",
+      "publishedAtLabel": "Mar 4"
+    },
+    {
+      "id": 18950,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Typepad.com",
+      "author": "Brian Leiter",
+      "title": "The imbecile RFK Jr. (perhaps aided and abetted by the imbecile Elon Musk) setting the stage for everyone to die in the next pandemic",
+      "description": "Unbelievable: [N]ews that the Trump administration is reconsidering a government-funded study of an experimental H5N1 vaccine is generating fears that it may be on the chopping block, and that could take the fast-track option off the table, at least for...",
+      "url": "https://leiterreports.typepad.com/blog/2025/03/the-imbecile-rfk-jr-perhaps-aided-and-abetted-by-the-imbecile-elon-musk-setting-the-stage-for-everyo.html",
+      "urlToImage": null,
+      "publishedAt": "2025-03-04 11:55:00",
+      "content": "[N]ews that the Trump administration is reconsidering a government-funded study of an experimental H5N1 vaccine is generating fears that it may be on the chopping block, and that could take the fast-\u2026 [+703 chars]",
+      "retrievedAt": "2025-03-05 19:05:55.930710",
+      "internal_id": "da27ce97169d2add7adcaf684cd75f3defb6c68626cd940afed080be57509e87",
+      "publishedAtLabel": "Mar 4"
+    },
+    {
+      "id": 18935,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "CNET",
+      "author": "Hedy Phillips",
+      "title": "Measles: When to Get the MMR Vaccine, and Do You Need a Booster?",
+      "description": "If you've already been vaccinated for measles, do you need to get a booster now that it's spreading in the US?",
+      "url": "https://www.cnet.com/health/medical/measles-when-get-mmr-vaccine-do-you-need-booster/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/7d1bf086f98f1a6093db16d4a03cfedc3850234d/hub/2025/03/03/cd04423f-50b4-4168-ab5d-ac469b21d68e/measles-vaccine.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-03-04 11:53:04",
+      "content": "Though measles was declared \"eliminated\" in the United States in 2000, it has never fully gone away. In 2025, the country has seen three outbreaks already (which the Centers for Disease Control defin\u2026 [+9571 chars]",
+      "retrievedAt": "2025-03-05 19:05:54.904000",
+      "internal_id": "ef548ff1d814fab13ab7762c7f6473d3d67f5be63404990c39c0441d633223b5",
+      "publishedAtLabel": "Mar 4"
+    },
+    {
+      "id": 18958,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Inews.id",
+      "author": "Naswa Amirah",
+      "title": "Daftar Penyakit yang Muncul akibat Banjir, Jangan Dianggap Sepele!",
+      "description": "Banjir bisa menyebabkan sejumlah penyakit seperti demam berdarah, leptospirosis, hingga tipes, jangan dianggap sepele.",
+      "url": "https://www.inews.id/lifestyle/health/daftar-penyakit-yang-muncul-akibat-banjir-jangan-dianggap-sepele",
+      "urlToImage": "https://img.inews.co.id/media/600/files/inews_new/2025/03/04/penyakit_akibat_banjir.jpg",
+      "publishedAt": "2025-03-04 10:48:28",
+      "content": "JAKARTA, iNews.id - Daftar penyakit yang muncul akibat banjir perlu jadi perhatian semua orang, baik itu korban banjir maupun pemerintah daerah agar bisa memberi intervensi tepat pada risiko penyakit\u2026 [+3693 chars]",
+      "retrievedAt": "2025-03-05 19:05:58.096249",
+      "internal_id": "8a6a25ec5e68626e1ce127b287f7d72316e8c3dbfa755bb6f5975564def4076d",
+      "publishedAtLabel": "Mar 4"
+    },
+    {
+      "id": 18956,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "El ECDC registra m\u00e1s de 30.000 casos y 14 muertes de chikungunya desde principios de a\u00f1o en todo el mundo",
+      "description": "El Centro Europeo para la Prevenci\u00f3n y Control de Enfermedades (ECDC) ha registrado m\u00e1s de 30.000 casos y 14 muertes de chikungunya desde principios de a\u00f1o en Am\u00e9rica, \u00c1frica, Asia y Europa, aunque los casos europeos se han producido \u00fanicamente en el territor\u2026",
+      "url": "https://www.infosalus.com/salud-investigacion/noticia-ecdc-registra-mas-30000-casos-14-muertes-chikungunya-principios-ano-todo-mundo-20250304105957.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20250304105957_1200.jpg",
+      "publishedAt": "2025-03-04 09:59:57",
+      "content": "MADRID 4 Mar. (EUROPA PRESS) - El Centro Europeo para la Prevenci\u00f3n y Control de Enfermedades (ECDC) ha registrado m\u00e1s de 30.000 casos y 14 muertes de chikungunya desde principios de a\u00f1o en Am\u00e9ric\u2026 [+774 chars]",
+      "retrievedAt": "2025-03-05 19:05:57.282523",
+      "internal_id": "85232c5e3862b4f522fea98a4de7f85808f6188334d8d0f375b9e3e85d25cb2b",
+      "publishedAtLabel": "Mar 4"
+    },
+    {
+      "id": 18957,
+      "query": [
+        "typhoid",
+        "shigellosis"
+      ],
+      "source_id": null,
+      "source_name": "BusinessLine",
+      "author": "Anupama Ghosh",
+      "title": "Zydus to develop first-ever typhoid-shigella combo vaccine with Gates support",
+      "description": "Zydus Lifesciences to develop first combination vaccine for typhoid and shigellosis with Gates Foundation support.",
+      "url": "https://www.thehindubusinessline.com/markets/stock-markets/zydus-to-develop-first-ever-typhoid-shigella-combo-vaccine-with-gates-support/article69289187.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/v2iix2/article69289200.ece/alternates/LANDSCAPE_1200/IMG_iStock-610787044_2_1_VDE0FDLS.jpg",
+      "publishedAt": "2025-03-04 09:08:19",
+      "content": "Zydus Lifesciences announced today it will develop the worlds first combination vaccine targeting both typhoid fever and shigellosis, with financial backing from the Bill &amp; Melinda Gates Foundati\u2026 [+1335 chars]",
+      "retrievedAt": "2025-03-05 19:05:57.928115",
+      "internal_id": "baefa5c753a899e394f6d6f602a62c1e41f159a43eeb8084523498a74048d0e1",
+      "publishedAtLabel": "Mar 4"
+    },
+    {
+      "id": 18937,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Sciencebasedmedicine.org",
+      "author": "Jonathan Howard",
+      "title": "RFK Jr.: Vaccines Not Only Protect Individual Children From Measles, But Also Contribute To Community Immunity",
+      "description": "\"RFK Jr. switching sides on vaccines now is like an arsonist urging people to put out the fire he started.\" The post RFK Jr.: Vaccines Not Only Protect Individual Children From Measles, But Also Contribute To Community Immunity first appeared on Science-Based\u2026",
+      "url": "https://sciencebasedmedicine.org/welcome-to-the-resistance-rfk-jr/",
+      "urlToImage": "https://sciencebasedmedicine.org/wp-content/uploads/2025/03/image-5.png",
+      "publishedAt": "2025-03-04 08:09:00",
+      "content": "Vaccines not only protect individual children from measles, but also contribute to community immunity, protecting those who are unable to be vaccinated due to medical reasons. Much of my writing has\u2026 [+12819 chars]",
+      "retrievedAt": "2025-03-05 19:05:54.984492",
+      "internal_id": "58d4ed411df4a8dd24bda81126046c8ab66fb6a7c1a01534b0c247947e1c8f47",
+      "publishedAtLabel": "Mar 4"
+    },
+    {
+      "id": 18951,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Www.abc.es",
+      "author": "(abc)",
+      "title": "Un espa\u00f1ol es hospitalizado en Tailandia tras beber agua y explica el dinero que tiene que pagar por su ingreso: \u00abNos faltaba pillar el dengue\u00bb",
+      "description": "Antes de visitar cualquier pa\u00eds, es muy importante estar bien informado. Hay que conocer sus leyes , sus normas, sus costumbres e, incluso, sus peligros . De hecho, el Ministerio de Asunto Exteriores de Espa\u00f1a todos los a\u00f1os publica una lista de los territori\u2026",
+      "url": "https://www.abc.es/recreo/espanol-hospitalizado-tailandia-tras-beber-agua-dinero-pagar-ingreso-dengue-20250304164537-nt.html",
+      "urlToImage": "https://s2.abcstatics.com/abc/www/multimedia/recreo/2025/03/04/tailandia-motnaje-kUPI--1024x512@diario_abc.jpg",
+      "publishedAt": "2025-03-04 07:54:27",
+      "content": "Antes de visitar cualquier pa\u00eds, es muy importante estar bien informado. Hay que conocer sus leyes, sus normas, sus costumbres e, incluso, sus peligros. De hecho, el Ministerio de Asunto Exteriores d\u2026 [+1958 chars]",
+      "retrievedAt": "2025-03-05 19:05:56.159308",
+      "internal_id": "ef35d2e8b8f36695cd51b5790848bbcc7f476edc1b335c89682917afcc2f8d72",
+      "publishedAtLabel": "Mar 4"
+    },
+    {
+      "id": 18955,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "AFP",
+      "title": "Malaria deaths soar in Ethiopia amid conflict in Oromia region",
+      "description": "Rest of World News: Between January and October 2024, the World Health Organization recorded roughly 7.3 million malaria cases and 1,157 deaths in Ethiopia.",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/malaria-deaths-soar-in-ethiopia-amid-conflict-in-oromia-region/articleshow/118702270.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-118702587,width-1070,height-580,imgsize-985372,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2025-03-04 07:20:44",
+      "content": "Mouni Roy and hubby Suraj Nambiar's mushy moments",
+      "retrievedAt": "2025-03-05 19:05:56.834070",
+      "internal_id": "f74fbe2e26caaffec8f5891f3f301b02ae17e14817dbc6eb46a4089d36e057d7",
+      "publishedAtLabel": "Mar 4"
+    },
+    {
+      "id": 18939,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Healthcare-economist.com",
+      "author": "Jason Shafrin",
+      "title": "About face for RFK Jr. on MMR vaccine?",
+      "description": "Last month, I noted that the decrease in vaccination rates has likely resulted in increased rates of measles in Texas and around the US. With measles cases on the rise, RFK Jr. now is has made a \u201ccall to action\u201d to increase uptake of the MMR vaccine. Here is \u2026",
+      "url": "https://www.healthcare-economist.com/2025/03/04/about-face-for-rfk-jr-on-mmr-vaccine/",
+      "urlToImage": null,
+      "publishedAt": "2025-03-04 07:17:04",
+      "content": "Last month, I noted that the decrease in vaccination rates has likely resulted in increased rates of measles in Texas and around the US. With measles cases on the rise, RFK Jr. now is has made a \u201ccal\u2026 [+717 chars]",
+      "retrievedAt": "2025-03-05 19:05:55.018914",
+      "internal_id": "00e6d0d00d32a55352f4c09b09a9bb0d6b27aff229fae2fa8c676742b14237d1",
+      "publishedAtLabel": "Mar 4"
+    },
+    {
+      "id": 18952,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "VOA News",
+      "author": "webdesk@voanews.com (Agence France-Presse)",
+      "title": "Malaria deaths soar in shadow of Ethiopia conflict",
+      "description": "Addis Ababa, Ethiopia \u2014 Lema Tefera's voice broke as he described losing four children to malaria in just one month \u2014 deaths that could likely have been prevented if not for the conflict in Ethiopia's Oromia region. \"There was no malaria medication and trea\u2026",
+      "url": "https://www.voanews.com/a/malaria-deaths-soar-in-shadow-of-ethiopia-conflict-/7996289.html",
+      "urlToImage": "https://gdb.voanews.com/015B1665-F550-4FA4-945F-35A576297E05.jpg",
+      "publishedAt": "2025-03-04 07:13:20",
+      "content": "Addis Ababa, Ethiopia Lema Tefera's voice broke as he described losing four children to malaria in just one month deaths that could likely have been prevented if not for the conflict in Ethiopia's O\u2026 [+3582 chars]",
+      "retrievedAt": "2025-03-05 19:05:56.790945",
+      "internal_id": "af7620be91e30a852551d7487097d9b4fd931ddde514d7cf3a693f7342258580",
+      "publishedAtLabel": "Mar 4"
+    },
     {
       "id": 18934,
       "query": [
@@ -24675,78 +25108,6 @@
       "content": "Oferta Rel\u00e2mpago: 4 revistas pelo pre\u00e7o de uma! Aedes aegypti: a picada da f\u00eamea do mosquito transmite a dengue (Divulga\u00e7\u00e3o/Divulga\u00e7\u00e3o) Continua ap\u00f3s publicidade O Minist\u00e9rio da Sa\u00fade vai distribu\u2026 [+952 chars]",
       "retrievedAt": "2025-01-21 07:06:20.719045",
       "internal_id": "502de82804265c8547ec4cfd22927d8a990b6b75818f525812b4561692d98b69",
-      "publishedAtLabel": "Jan 19"
-    },
-    {
-      "id": 17563,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Shtfplan.com",
-      "author": "Mac Slavo",
-      "title": "CDC Urges Increased Testing For Bird Flu",
-      "description": "As the media continues to push forward with the bird flu narrative. The Centers for Disease Control and Prevention have suggested that healthcare workers accelerate bird flu testing for patients hospitalized with flu symptoms as the H5N1 avian influenza outbr\u2026",
-      "url": "https://www.shtfplan.com/headline-news/cdc-urges-increased-testing-for-bird-flu",
-      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2023/12/bird-flu1.jpg",
-      "publishedAt": "2025-01-19 18:30:53",
-      "content": "As the media continues to push forward with the bird flu narrative. The Centers for Disease Control and Prevention have suggested that healthcare workers accelerate bird flu testing for patients hosp\u2026 [+2228 chars]",
-      "retrievedAt": "2025-01-20 19:05:48.523076",
-      "internal_id": "994713215544b42535086f4ce20c52d2645cf584d449998cc44d68847b889a02",
-      "publishedAtLabel": "Jan 19"
-    },
-    {
-      "id": 17564,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Zive.cz",
-      "author": "Karel Kili\u00e1n",
-      "title": "Prvn\u00ed \u00famrt\u00ed \u010dlov\u011bka na pta\u010d\u00ed ch\u0159ipku vyvol\u00e1v\u00e1 ot\u00e1zku, zda jsme p\u0159ipraveni na dal\u0161\u00ed pandemii",
-      "description": "",
-      "url": "https://vtm.zive.cz/clanky/prvni-umrti-cloveka-na-ptaci-chripku-vyvolava-otazku-zda-jsme-pripraveni-na-dalsi-pandemii/sc-870-a-232411/default.aspx",
-      "urlToImage": "https://www.zive.cz/getthumbnail.aspx?q=100&height=20000&width=20000&id_file=924558027",
-      "publishedAt": "2025-01-19 13:45:00",
-      "content": "Na za\u00e1tku leton\u00edho roku okovala veejnost zpr\u00e1va o prvn\u00edm \u00famrt\u00ed lovka v USA v dsledku pta\u00ed chipky H5N1. Star\u00ed mu z Louisiany, kter\u00fd byl v kontaktu s nakaen\u00fdmi pt\u00e1ky, podlehl tk\u00fdm respiran\u00edm komplikac\u00ed\u2026 [+3383 chars]",
-      "retrievedAt": "2025-01-20 19:05:48.712772",
-      "internal_id": "7155ac7915807811b6a0b6efb9ae01d3d8f5733480982476190cde0dd80cac33",
-      "publishedAtLabel": "Jan 19"
-    },
-    {
-      "id": 17566,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Catracalivre.com.br",
-      "author": "Andr\u00e9 Nicolau",
-      "title": "Dengue: Especialista ensina como usar o hipoclorito de s\u00f3dio no combate ao Aedes aegypti",
-      "description": "No ver\u00e3o aumenta o risco da dengue: aprenda a proteger sua casa do Aedes aegypti, mosquito transmissor da doen\u00e7a.",
-      "url": "https://catracalivre.com.br/saude-bem-estar/dengue-combate-ao-aedes-aegypti/",
-      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1280,h=680,fit=cover,format=jpeg/wp-content/uploads/2024/01/istock-183256299.jpg",
-      "publishedAt": "2025-01-19 12:00:41",
-      "content": "Casos de dengue triplicam em 2024 iStock/flubydust - iStock/flubydust Durante o ver\u00e3o, os casos de dengue aumentam consideravelmente. Isso acontece devido \u00e0 alta incid\u00eancia de chuvas em grande part\u2026 [+3503 chars]",
-      "retrievedAt": "2025-01-20 19:05:49.251975",
-      "internal_id": "e96f2e755416d68f1f032efdfae7ff9dcf6b4ed81e61f916e674ef2b451a70e8",
-      "publishedAtLabel": "Jan 19"
-    },
-    {
-      "id": 17565,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Metropoles.com",
-      "author": "Milena Teixeira",
-      "title": "Dengue: governo quer imunizante no programa de vacina\u00e7\u00e3o em 2026",
-      "description": "Governo quer incorporar a vacina do Instituto Butantan, que ainda deve ser certificada, no Plano Nacional de Imuniza\u00e7\u00f5es",
-      "url": "https://www.metropoles.com/colunas/igor-gadelha/dengue-governo-quer-imunizante-em-programa-de-vacinacao-em-2026",
-      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2025/01/06072339/dengue-7.jpg",
-      "publishedAt": "2025-01-19 08:00:00",
-      "content": "O Minist\u00e9rio da Sa\u00fade planeja ampliar a aplica\u00e7\u00e3o da vacina contra a dengue para mais p\u00fablicos at\u00e9 o final deste ano. Atualmente, o Sistema \u00danico de Sa\u00fade disponibiliza o imunizante apenas para crian\u2026 [+1240 chars]",
-      "retrievedAt": "2025-01-20 19:05:49.226468",
-      "internal_id": "5c1f3c4df86ee1f5ac8ca50f9a8bc0e3815d667441450e231da38962262e73cb",
       "publishedAtLabel": "Jan 19"
     }
   ]
