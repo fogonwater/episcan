@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 38
-- **Last harvest:** 2025-03-04 19:05
-- **Most recent article:** 2025-03-03 18:39:51
+- **New articles in last harvest:** 19
+- **Last harvest:** 2025-03-05 07:06
+- **Most recent article:** 2025-03-04 06:19:36
 
 ---
 
@@ -12,21 +12,21 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-10 | 25-4 | 25-5 | 25-6 | 25-7 | 25-8 | 25-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 26 | 10 | 13 | 24 | 72 | 83 | 162 | 390 |
-| h5n1 | 5 | 29 | 51 | 72 | 55 | 54 | 42 | 308 |
-| dengue | 3 | 34 | 24 | 34 | 37 | 57 | 30 | 219 |
+| measles | 39 | 10 | 13 | 24 | 72 | 83 | 162 | 403 |
+| h5n1 | 7 | 31 | 51 | 72 | 55 | 54 | 42 | 312 |
+| dengue | 3 | 36 | 24 | 34 | 37 | 57 | 30 | 221 |
 | mpox | 8 | 23 | 22 | 28 | 18 | 15 | 26 | 140 |
-| malaria | 11 | 18 | 30 | 25 | 12 | 7 | 20 | 123 |
+| malaria | 13 | 18 | 30 | 25 | 12 | 7 | 20 | 125 |
 | meningitis | 2 | 2 | 8 | 2 | 12 | 11 | 7 | 44 |
+| hpai | 5 | 11 | 6 | 3 | 9 | 5 | 4 | 43 |
 | chikungunya | 1 | 10 | 9 | 8 | 5 | 3 | 7 | 43 |
-| hpai | 3 | 11 | 6 | 3 | 9 | 5 | 4 | 41 |
 | zika | 2 | 2 | 8 | 6 | 2 | 6 | 2 | 28 |
 | rabies | 0 | 7 | 6 | 4 | 5 | 4 | 2 | 28 |
-| typhoid | 1 | 0 | 0 | 2 | 3 | 0 | 4 | 10 |
+| typhoid | 2 | 0 | 0 | 2 | 3 | 0 | 4 | 11 |
 | pertussis | 0 | 1 | 0 | 3 | 3 | 2 | 0 | 9 |
 | yersinia | 1 | 0 | 0 | 0 | 5 | 0 | 2 | 8 |
 | leptospirosis | 0 | 2 | 0 | 1 | 0 | 2 | 0 | 5 |
-| shigellosis | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
+| shigellosis | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 2 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -2755,6 +2755,10 @@ Source: [News API](https://newsapi.org/)
 
 - [美国科学家拉响警报：新型 H5N1 禽流感病毒被发现，正威胁人类健康](https://www.ithome.com/0/825/921.htm) (Ithome.com)
 
+- [CDC Urges Increased Testing For Bird Flu](https://www.shtfplan.com/headline-news/cdc-urges-increased-testing-for-bird-flu) (Shtfplan.com)
+
+- [První úmrtí člověka na ptačí chřipku vyvolává otázku, zda jsme připraveni na další pandemii](https://vtm.zive.cz/clanky/prvni-umrti-cloveka-na-ptaci-chripku-vyvolava-otazku-zda-jsme-pripraveni-na-dalsi-pandemii/sc-870-a-232411/default.aspx) (Zive.cz)
+
 ## 25-4 (dengue)
 
 - [Joga lixo na rua? GDF usará drones para multar sujões. Veja valores](https://www.metropoles.com/distrito-federal/joga-lixo-na-rua-gdf-usara-drones-para-multar-sujoes-veja-valores) (Metropoles.com)
@@ -2825,6 +2829,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Saúde vai distribuir 6,5 milhões de testes rápidos de dengue a estados](https://veja.abril.com.br/coluna/radar/saude-vai-distribuir-65-milhoes-de-testes-rapidos-de-dengue-a-estados) (Abril.com.br)
 
+- [Dengue: Especialista ensina como usar o hipoclorito de sódio no combate ao Aedes aegypti](https://catracalivre.com.br/saude-bem-estar/dengue-combate-ao-aedes-aegypti/) (Catracalivre.com.br)
+
+- [Dengue: governo quer imunizante no programa de vacinação em 2026](https://www.metropoles.com/colunas/igor-gadelha/dengue-governo-quer-imunizante-em-programa-de-vacinacao-em-2026) (Metropoles.com)
+
 ## 25-4 (chikungunya)
 
 - [Natural exposure to Chikungunya virus in golden-headed lion tamarin (Leontopithecus chrysomelas, Kuhl, 1820) from non-protected areas in southern Bahia, Brazil: Implications and significance](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012695) (Plos.org)
@@ -2859,7 +2867,13 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-10 (typhoid)
 
+- [Zydus to develop combination vaccine for shigellosis and typhoid](https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/zydus-to-develop-combination-vaccine-for-shigellosis-and-typhoid/articleshow/118700976.cms) (The Times of India)
+
 - [Wastewater surveillance for Salmonella Typhi and its association with seroincidence of enteric fever in Vellore, India](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012373) (Plos.org)
+
+## 25-10 (shigellosis)
+
+- [Zydus to develop combination vaccine for shigellosis and typhoid](https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/zydus-to-develop-combination-vaccine-for-shigellosis-and-typhoid/articleshow/118700976.cms) (The Times of India)
 
 ## 25-10 (mpox)
 
@@ -2887,6 +2901,28 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-10 (measles)
 
+- [Kennedy sends mixed vaccine messages amid Texas measles outbreak (Nathaniel Weixel/The Hill)](https://www.memeorandum.com/250303/p143) (Memeorandum.com)
+
+- [Measles cases confirmed in NYC...](https://www.usatoday.com/story/news/health/2025/03/03/measles-new-york-city/81204974007/) (USA Today)
+
+- [Senate confirms Linda McMahon to lead Education Department (CBS News)](https://www.memeorandum.com/250303/p118) (Memeorandum.com)
+
+- [Quebec confirms 30 measles cases as December outbreak continues](https://www.cbc.ca/news/canada/montreal/measles-quebec-30-cases-1.7473518) (CBC News)
+
+- [Who Is Thomas Corry? Top RFK Jr. Spokesman Quits HHS](https://www.newsweek.com/who-thomas-corry-rfk-jr-spokesman-quits-2038980) (Newsweek)
+
+- [Measles: Kennedy’s big disease test](https://theweek.com/politics/measles-rfk-jr-texas-vaccines) (The Week Magazine)
+
+- [How to Find Out If You Got the Measles Vaccine as a Kid](https://www.menshealth.com/health/a63975272/how-to-know-if-you-got-the-measles-vaccine/) (menshealth.com)
+
+- [RFK Jr. Acknowledges the Measles Vaccine Amid a Worsening Outbreak](https://time.com/7263882/measles-vaccine-rfk-jr-vitamin-a/) (Time)
+
+- [Top HHS Spokesperson Quit Due to RFK Jr's 'Muted Response' to Measles Outbreak Days Before Kennedy's Op-Ed: Report](https://www.ibtimes.com/top-hhs-spokesperson-quit-due-rfk-jrs-muted-response-measles-outbreak-days-before-kennedys-3765069) (International Business Times)
+
+- [What to know about measles, symptoms and the MMR vaccine](https://www.cbsnews.com/news/what-is-measles-mmr-vaccine-symptoms/) (CBS News)
+
+- [Vaccine critic RFK Jr. changes his tune on measles shot amid deadly outbreak in Texas](https://www.bostonherald.com/2025/03/03/vaccine-critic-rfk-jr-changes-his-tune-on-measles-shot-amid-deadly-outbreak-in-texas/) (Boston Herald)
+
 - [Texas Doctor Warns Against 'Measles Parties' Amid Outbreak](https://www.newsweek.com/texas-doctor-measles-parties-warning-2038889) (Newsweek)
 
 - [WATCH: The biggest moments from the 2025 Oscars](https://abcnews.go.com/Entertainment/video/biggest-moments-2025-oscars-119385188) (ABC News)
@@ -2898,6 +2934,8 @@ Source: [News API](https://newsapi.org/)
 - [How Does This Work](https://www.eschatonblog.com/2025/03/how-does-this-work.html) (Eschatonblog.com)
 
 - [ROBERT F. KENNEDY, JR.: Measles outbreak is call to action for all of us (Robert F. Kennedy/Fox News)](https://www.memeorandum.com/250303/p18) (Memeorandum.com)
+
+- [RFK Jr. asks families to consider measles vaccines for their kids](https://www.today.com/video/rfk-jr-calls-measles-outbreak-a-call-to-action-233327173617) (TODAY)
 
 - [Vaccine critic RFK Jr. backs measles vaccine amid deadly Texas outbreak](https://www.cbsnews.com/news/rfk-jr-measles-vaccine-deadly-texas-outbreak/) (CBS News)
 
@@ -2912,6 +2950,8 @@ Source: [News API](https://newsapi.org/)
 - [RFK Jr.’s Policies Could Spread Measles Far Beyond Texas](https://newrepublic.com/article/192188/rfk-jrs-policies-spread-measles-far-beyond-texas) (The New Republic)
 
 - [WATCH: How contagious is measles?](https://abcnews.go.com/Health/video/contagious-measles-119302185) (ABC News)
+
+- [RFK Jr. Performs Astonishing 180 On Vaccines, After Years Of Misinformation](https://www.huffpost.com/entry/robert-f-kennedy-jr-op-ed-fox-news-vaccines_n_67c56c21e4b0b499dce3209c) (HuffPost)
 
 - [US health secretary RFK Jr, vaccine sceptic, backs MMR jab after child dies in measles outbreak](https://www.thejournal.ie/us-health-secretary-rfk-jr-vaccine-sceptic-backs-mmr-jab-6638012-Mar2025/) (TheJournal.ie)
 
@@ -2941,6 +2981,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-10 (malaria)
 
+- [NAFDAC bans registration of multi-dose anti-malarial drugs](https://punchng.com/nafdac-bans-registration-of-multi-dose-anti-malarial-drugs/) (The Punch)
+
+- [Internal Memos: Senior USAID Leaders Warned Trump Appointees of Hundreds of Thousands of Deaths From Closing Agency (ProPublica)](https://www.memeorandum.com/250303/p110) (Memeorandum.com)
+
 - [DNC Rehires Same People Who Oversaw Crushing Defeat to Trump](https://newrepublic.com/post/192242/dnc-new-leaders) (The New Republic)
 
 - [Trump Pushes Deranged Conspiracy About Republican Town Hall Protests](https://newrepublic.com/post/192239/donald-trump-conspiracy-republican-town-hall-protests) (The New Republic)
@@ -2965,6 +3009,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-10 (hpai)
 
+- [Raw cat food recalled after state testing finds contamination with bird flu](https://www.foodsafetynews.com/2025/03/raw-cat-food-recalled-after-state-testing-finds-contamination-with-bird-flu/) (Food Safety News)
+
+- [Animal Ag News 3/3](https://agwired.com/2025/03/03/animal-ag-news-3-3/) (AgWired)
+
 - [Puste półki w USA. Polski potentat jaj: problemy też w Polsce, ceny pójdą w górę](https://businessinsider.com.pl/finanse/handel/puste-polki-w-usa-polski-potentat-jaj-problemy-tez-w-polsce-ceny-pojda-w-gore/m8sdxpe) (Businessinsider.com.pl)
 
 - [Voluntay Recall of Wild Coast Raw Boneless Free Range Chicken Formula Raw Pet Food Because of Possible Bird Flu Health Risk](https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/voluntay-recall-wild-coast-raw-boneless-free-range-chicken-formula-raw-pet-food-because-possible) (FDA.gov)
@@ -2972,6 +3020,10 @@ Source: [News API](https://newsapi.org/)
 - [Voluntary Recall of Wild Coast Raw Boneless Free Range Chicken Formula Raw Pet Food Because of Possible Bird Flu Health Risk](https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/voluntary-recall-wild-coast-raw-boneless-free-range-chicken-formula-raw-pet-food-because-possible) (FDA.gov)
 
 ## 25-10 (h5n1)
+
+- [Raw cat food recalled after state testing finds contamination with bird flu](https://www.foodsafetynews.com/2025/03/raw-cat-food-recalled-after-state-testing-finds-contamination-with-bird-flu/) (Food Safety News)
+
+- [New biosensor can detect airborne bird flu in under 5 minutes](https://www.sciencedaily.com/releases/2025/03/250303141305.htm) (Science Daily)
 
 - [New sensor detects airborne bird flu in minutes](https://www.futurity.org/bird-flu-sensor-3271822-2/) (Futurity: Research News)
 
