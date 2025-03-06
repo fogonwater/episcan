@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 18
-- **Last harvest:** 2025-03-06 07:07
-- **Most recent article:** 2025-03-05 02:00:05
+- **New articles in last harvest:** 17
+- **Last harvest:** 2025-03-06 19:05
+- **Most recent article:** 2025-03-05 18:22:25
 
 ---
 
@@ -12,21 +12,21 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-10 | 25-4 | 25-5 | 25-6 | 25-7 | 25-8 | 25-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 66 | 10 | 13 | 24 | 72 | 83 | 162 | 430 |
-| h5n1 | 11 | 31 | 51 | 72 | 55 | 54 | 42 | 316 |
-| dengue | 4 | 36 | 24 | 34 | 37 | 57 | 30 | 222 |
+| measles | 70 | 10 | 13 | 24 | 72 | 83 | 162 | 434 |
+| h5n1 | 12 | 29 | 51 | 72 | 55 | 54 | 42 | 315 |
+| dengue | 5 | 34 | 24 | 34 | 37 | 57 | 30 | 221 |
 | mpox | 8 | 23 | 22 | 28 | 18 | 15 | 26 | 140 |
-| malaria | 19 | 18 | 30 | 25 | 12 | 7 | 20 | 131 |
-| hpai | 6 | 11 | 6 | 3 | 9 | 5 | 4 | 44 |
-| chikungunya | 2 | 10 | 9 | 8 | 5 | 3 | 7 | 44 |
-| meningitis | 2 | 2 | 8 | 2 | 12 | 11 | 7 | 44 |
-| zika | 2 | 2 | 8 | 6 | 2 | 6 | 2 | 28 |
-| rabies | 0 | 7 | 6 | 4 | 5 | 4 | 2 | 28 |
+| malaria | 20 | 18 | 30 | 25 | 12 | 7 | 20 | 132 |
+| chikungunya | 5 | 10 | 9 | 8 | 5 | 3 | 7 | 47 |
+| meningitis | 3 | 2 | 8 | 2 | 12 | 11 | 7 | 45 |
+| hpai | 7 | 11 | 6 | 3 | 9 | 5 | 4 | 45 |
+| rabies | 2 | 7 | 6 | 4 | 5 | 4 | 2 | 30 |
+| zika | 3 | 2 | 8 | 6 | 2 | 6 | 2 | 29 |
 | typhoid | 3 | 0 | 0 | 2 | 3 | 0 | 4 | 12 |
 | pertussis | 0 | 1 | 0 | 3 | 3 | 2 | 0 | 9 |
+| leptospirosis | 3 | 2 | 0 | 1 | 0 | 2 | 0 | 8 |
 | yersinia | 1 | 0 | 0 | 0 | 5 | 0 | 2 | 8 |
-| leptospirosis | 1 | 2 | 0 | 1 | 0 | 2 | 0 | 6 |
-| shigellosis | 2 | 0 | 0 | 0 | 0 | 0 | 1 | 3 |
+| shigellosis | 3 | 0 | 0 | 0 | 0 | 0 | 1 | 4 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -2755,10 +2755,6 @@ Source: [News API](https://newsapi.org/)
 
 - [美国科学家拉响警报：新型 H5N1 禽流感病毒被发现，正威胁人类健康](https://www.ithome.com/0/825/921.htm) (Ithome.com)
 
-- [CDC Urges Increased Testing For Bird Flu](https://www.shtfplan.com/headline-news/cdc-urges-increased-testing-for-bird-flu) (Shtfplan.com)
-
-- [První úmrtí člověka na ptačí chřipku vyvolává otázku, zda jsme připraveni na další pandemii](https://vtm.zive.cz/clanky/prvni-umrti-cloveka-na-ptaci-chripku-vyvolava-otazku-zda-jsme-pripraveni-na-dalsi-pandemii/sc-870-a-232411/default.aspx) (Zive.cz)
-
 ## 25-4 (dengue)
 
 - [Joga lixo na rua? GDF usará drones para multar sujões. Veja valores](https://www.metropoles.com/distrito-federal/joga-lixo-na-rua-gdf-usara-drones-para-multar-sujoes-veja-valores) (Metropoles.com)
@@ -2829,10 +2825,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Saúde vai distribuir 6,5 milhões de testes rápidos de dengue a estados](https://veja.abril.com.br/coluna/radar/saude-vai-distribuir-65-milhoes-de-testes-rapidos-de-dengue-a-estados) (Abril.com.br)
 
-- [Dengue: Especialista ensina como usar o hipoclorito de sódio no combate ao Aedes aegypti](https://catracalivre.com.br/saude-bem-estar/dengue-combate-ao-aedes-aegypti/) (Catracalivre.com.br)
-
-- [Dengue: governo quer imunizante no programa de vacinação em 2026](https://www.metropoles.com/colunas/igor-gadelha/dengue-governo-quer-imunizante-em-programa-de-vacinacao-em-2026) (Metropoles.com)
-
 ## 25-4 (chikungunya)
 
 - [Natural exposure to Chikungunya virus in golden-headed lion tamarin (Leontopithecus chrysomelas, Kuhl, 1820) from non-protected areas in southern Bahia, Brazil: Implications and significance](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012695) (Plos.org)
@@ -2857,6 +2849,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-10 (zika)
 
+- [Guillain-Barré syndrome after the Zika epidemic in Colombia: A multicenter, matched case-control study](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012898) (Plos.org)
+
 - [Terratis se renforce dans sa lutte contre le moustique tigre](https://objectif-languedoc-roussillon.latribune.fr/innovation/2025-03-03/terratis-se-renforce-dans-sa-lutte-contre-le-moustique-tigre-1019699.html) (La Tribune.fr)
 
 - [Bangladeş’te Zika alarmı! Bilim insanları ilk virüs kümesini tespit etti](https://www.turkiyegazetesi.com.tr/dunya/bangladeste-zika-alarmi-bilim-insanlari-ilk-virus-kumesini-tespit-etti-1098642) (Turkiyegazetesi.com.tr)
@@ -2875,9 +2869,17 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-10 (shigellosis)
 
+- [This highly contagious disease is on the rise in Oregon; know symptoms](https://economictimes.indiatimes.com/news/international/us/this-highly-contagious-disease-is-on-the-rise-in-oregon-know-symptoms/articleshow/118737854.cms) (The Times of India)
+
 - [Zydus to develop first-ever typhoid-shigella combo vaccine with Gates support](https://www.thehindubusinessline.com/markets/stock-markets/zydus-to-develop-first-ever-typhoid-shigella-combo-vaccine-with-gates-support/article69289187.ece) (BusinessLine)
 
 - [Zydus to develop combination vaccine for shigellosis and typhoid](https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/zydus-to-develop-combination-vaccine-for-shigellosis-and-typhoid/articleshow/118700976.cms) (The Times of India)
+
+## 25-10 (rabies)
+
+- [Genomic characterization of a dog-mediated rabies outbreak in El Pedregal, Arequipa, Peru](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012396) (Plos.org)
+
+- [چرا خون‌آشام‌ها در فرهنگ‌های مختلف داستان‌های متفاوتی دارند؟](https://www.1pezeshk.com/archives/2025/03/why-do-vampires-have-different-stories-in-various-cultures.html) (1pezeshk.com)
 
 ## 25-10 (mpox)
 
@@ -2899,11 +2901,21 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-10 (meningitis)
 
+- [Poisoning or bacterial meningitis could be behind dozens of mysterious deaths in the Democratic Republic of the Congo](https://www.livescience.com/health/viruses-infections-disease/poisoning-or-bacterial-meningitis-could-be-behind-dozens-of-mysterious-deaths-in-the-democratic-republic-of-the-congo) (Live Science)
+
 - [Estado de salud44 del Papa: Malamente bien.](https://finofilipino.org/estado-de-salud44-del-papa-malamente-bien/) (Finofilipino.org)
 
 - [Rekrut nach Meningitis-Verdacht verstorben](https://burgenland.orf.at/stories/3295408/) (Burgenland.orf.at)
 
 ## 25-10 (measles)
+
+- [Texas Health Official Warns People To Not Hold Or Attend ‘Measles Parties’](https://brobible.com/culture/article/texas-health-official-warns-measles-parties/) (BroBible)
+
+- [JFK Travelers Put on Red Alert for Recent Potential Measles Exposure](https://yourmileagemayvary.com/2025/03/05/jfk-travelers-put-on-red-alert-for-recent-potential-measles-exposure/) (Yourmileagemayvary.com)
+
+- [Measles Outbreak Spreads to Florida](https://www.newsweek.com/measles-outbreak-florida-student-texas-vaccine-2039791) (Newsweek)
+
+- [In Ontario's Elgin County, worry about a measles resurgence and a 60-year-old cautionary tale](https://www.cbc.ca/news/canada/london/in-elgin-county-worry-about-a-measles-resurgence-and-a-60-year-old-cautionary-tale-1.7474424) (CBC News)
 
 - [Do I Need a Measles Booster if I Was Vaccinated as a Kid? Experts Weigh In](https://www.newsweek.com/measles-vaccine-outbreak-booster-texas-update-2039328) (Newsweek)
 
@@ -3039,6 +3051,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-10 (malaria)
 
+- [“Money Cannot Buy Health”: Teni Retracts Her Lyrics From Her Song ‘Money’ in Video From Her Sick Bed](https://www.legit.ng/entertainment/celebrities/1643751-money-buy-health-teni-retracts-lyrics-song-money-video-sick-bed/) (Latest News in Nigeria & Breaking Naija News 24/7 | LEGIT.NG)
+
 - [Aanval Musk op noodhulp zal veel levens kosten: “Dit is het resultaat van politieke beslissingen”](https://www.standaard.be/cnt/dmf20250304_96255635) (Standaard.be)
 
 - [LASG harps on diagnosis before malaria treatment](https://punchng.com/lasg-harps-on-diagnosis-before-malaria-treatment/) (The Punch)
@@ -3079,9 +3093,15 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-10 (leptospirosis)
 
+- [Into the spotlight: A spatial study of potentially underreported leptospirosis among dengue-negative patients in São Paulo city, Brazil](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012888) (Plos.org)
+
+- [Leptospirosis alert: Expert warns of disease risks during flooding](https://en.antaranews.com/news/347225/leptospirosis-alert-expert-warns-of-disease-risks-during-flooding) (Antaranews.com)
+
 - [Daftar Penyakit yang Muncul akibat Banjir, Jangan Dianggap Sepele!](https://www.inews.id/lifestyle/health/daftar-penyakit-yang-muncul-akibat-banjir-jangan-dianggap-sepele) (Inews.id)
 
 ## 25-10 (hpai)
+
+- [Bird Flu Updates: Georgia “Free” Of The Virus, As Companies Hike Egg Prices](https://www.shtfplan.com/headline-news/bird-flu-updates-georgia-free-of-the-virus-as-companies-hike-egg-prices) (Shtfplan.com)
 
 - [U.S. is busting more people with prohibited eggs at the Canadian border](https://nationalpost.com/news/canada/canada-u-s-eggs-border-avian-flu) (National Post)
 
@@ -3096,6 +3116,8 @@ Source: [News API](https://newsapi.org/)
 - [Voluntary Recall of Wild Coast Raw Boneless Free Range Chicken Formula Raw Pet Food Because of Possible Bird Flu Health Risk](https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/voluntary-recall-wild-coast-raw-boneless-free-range-chicken-formula-raw-pet-food-because-possible) (FDA.gov)
 
 ## 25-10 (h5n1)
+
+- [Trump’s Plan to Lower Egg Prices and a Threat to Bird Flu Vaccines Explained](https://www.scientificamerican.com/article/trumps-plan-to-lower-egg-prices-and-a-threat-to-bird-flu-vaccines-explained/) (Scientific American)
 
 - [Crystal Heath, une lanceuse d’alerte face à la propagation de la grippe aviaire en Californie](https://www.lemonde.fr/international/article/2025/03/05/crystal-heath-une-lanceuse-d-alerte-face-a-la-propagation-de-la-grippe-aviaire-en-californie_6576422_3210.html) (Le Monde)
 
@@ -3121,6 +3143,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-10 (dengue)
 
+- [Into the spotlight: A spatial study of potentially underreported leptospirosis among dengue-negative patients in São Paulo city, Brazil](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012888) (Plos.org)
+
 - [Un español es hospitalizado en Tailandia tras beber agua y explica el dinero que tiene que pagar por su ingreso: «Nos faltaba pillar el dengue»](https://www.abc.es/recreo/espanol-hospitalizado-tailandia-tras-beber-agua-dinero-pagar-ingreso-dengue-20250304164537-nt.html) (Www.abc.es)
 
 - [Terratis se renforce dans sa lutte contre le moustique tigre](https://objectif-languedoc-roussillon.latribune.fr/innovation/2025-03-03/terratis-se-renforce-dans-sa-lutte-contre-le-moustique-tigre-1019699.html) (La Tribune.fr)
@@ -3130,6 +3154,12 @@ Source: [News API](https://newsapi.org/)
 - [Ssa: este año, mil 781 casos de dengue y cero muertes](https://www.jornada.com.mx/2025/03/02/sociedad/027n1soc) (Jornada.com.mx)
 
 ## 25-10 (chikungunya)
+
+- [Un premier cas importé de chikungunya identifié à Mayotte](https://www.francetvinfo.fr/france/mayotte/un-premier-cas-importe-de-chikungunya-identifie-a-mayotte_7111764.html) (Francetvinfo.fr)
+
+- [Face au chikungunya à La Réunion, la Haute Autorité de santé préconise une vaccination ciblée](https://www.lemonde.fr/planete/article/2025/03/05/face-au-chikungunya-a-la-reunion-la-haute-autorite-de-sante-preconise-une-vaccination-ciblee_6576514_3244.html) (Le Monde)
+
+- [Chikungunya : une campagne de vaccination lancée à La Réunion pour les habitants les plus à risque de développer une forme grave](https://www.francetvinfo.fr/sante/maladie/chikungunya/chikungunya-une-campagne-de-vaccination-lancee-a-la-reunion-pour-les-habitants-les-plus-a-risque-de-developper-une-forme-grave_7111266.html) (Francetvinfo.fr)
 
 - [El ECDC registra más de 30.000 casos y 14 muertes de chikungunya desde principios de año en todo el mundo](https://www.infosalus.com/salud-investigacion/noticia-ecdc-registra-mas-30000-casos-14-muertes-chikungunya-principios-ano-todo-mundo-20250304105957.html) (Infosalus.com)
 

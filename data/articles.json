@@ -1,8 +1,315 @@
 {
-  "last_updated": "2025-03-06 07:07",
-  "count_articles_total": 1414,
-  "count_articles_new": 18,
+  "last_updated": "2025-03-06 19:05",
+  "count_articles_total": 1427,
+  "count_articles_new": 17,
   "articles": [
+    {
+      "id": 18986,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Live Science",
+      "author": "Patrick Pester",
+      "title": "Poisoning or bacterial meningitis could be behind dozens of mysterious deaths in the Democratic Republic of the Congo",
+      "description": "A cluster of deaths linked to a mysterious illness in the Democratic Republic of the Congo could be the result of a poisoning or bacterial meningitis, the WHO has suggested.",
+      "url": "https://www.livescience.com/health/viruses-infections-disease/poisoning-or-bacterial-meningitis-could-be-behind-dozens-of-mysterious-deaths-in-the-democratic-republic-of-the-congo",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/vDf4yiMJimwMuimpZhXMHE-1200-80.jpg",
+      "publishedAt": "2025-03-05 18:22:25",
+      "content": "The World Health Organization (WHO) suspects that poisoning or meningitis could explain a mysterious illness that has reportedly killed 53 people in the Democratic Republic of the Congo. The unident\u2026 [+4821 chars]",
+      "retrievedAt": "2025-03-06 19:05:56.547976",
+      "internal_id": "49d82497bbe52cd430e35e7e78ba004a0d9a2f214659076aef2eb2d941aab384",
+      "publishedAtLabel": "Mar 5"
+    },
+    {
+      "id": 18980,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "BroBible",
+      "author": "Douglas Charles",
+      "title": "Texas Health Official Warns People To Not Hold Or Attend \u2018Measles Parties\u2019",
+      "description": "A Texas public health official is warning people to stop holding and attending \u201cmeasles parties\u201d as the outbreak has now spread to nine states across America. He issued this earning because deliberately exposing unvaccinated people to measles comes with a who\u2026",
+      "url": "https://brobible.com/culture/article/texas-health-official-warns-measles-parties/",
+      "urlToImage": "https://brobible.com/wp-content/uploads/2025/03/Definition-of-measles-photo.jpg",
+      "publishedAt": "2025-03-05 17:50:15",
+      "content": "iStockphoto A Texas public health official is warning people to stop holding and attending \u201cmeasles parties\u201d as the outbreak has now spread to nine states across America. He issued this earning beca\u2026 [+2715 chars]",
+      "retrievedAt": "2025-03-06 19:05:54.332548",
+      "internal_id": "8ca8c6bc2058f2c0bf77bb5dc06ab7df15b68b9bd23fd447eaf716a7ca3d4868",
+      "publishedAtLabel": "Mar 5"
+    },
+    {
+      "id": 18982,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Yourmileagemayvary.com",
+      "author": "Your Mileage May Vary",
+      "title": "JFK Travelers Put on Red Alert for Recent Potential Measles Exposure",
+      "description": "Travelers who recently visited John F. Kennedy International Airport or were on a shuttle bus from the airport should be on high alert due to the possibility of having been\u2026",
+      "url": "https://yourmileagemayvary.com/2025/03/05/jfk-travelers-put-on-red-alert-for-recent-potential-measles-exposure/",
+      "urlToImage": "https://yourmileagemayvary.com/wp-content/uploads/2018/10/JFK4.png",
+      "publishedAt": "2025-03-05 16:13:57",
+      "content": "56Travelers who recently visited John F. Kennedy International Airport or were on a shuttle bus from the airport should be on high alert due to the possibility of having been exposed to the measles. \u2026 [+2036 chars]",
+      "retrievedAt": "2025-03-06 19:05:54.455740",
+      "internal_id": "9cc32b95aa026556cc67990aa26e75ff93e3f40e67138490db9207185e898b13",
+      "publishedAtLabel": "Mar 5"
+    },
+    {
+      "id": 18983,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Shtfplan.com",
+      "author": "Mac Slavo",
+      "title": "Bird Flu Updates: Georgia \u201cFree\u201d Of The Virus, As Companies Hike Egg Prices",
+      "description": "Georgia\u2019s Agriculture Commissioner Tyler Harper announced on Tuesday, March 4th, that Georgia is now free of Highly Pathogenic Avian Influenza (HPAI), a.k.a. bird flu. This news comes as reports declare some egg companies are using bird flu as an excuse to hi\u2026",
+      "url": "https://www.shtfplan.com/headline-news/bird-flu-updates-georgia-free-of-the-virus-as-companies-hike-egg-prices",
+      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2024/05/birdflu.jpg",
+      "publishedAt": "2025-03-05 16:00:03",
+      "content": "Georgias Agriculture Commissioner Tyler Harper announced on Tuesday, March 4th, that Georgia is now free of Highly Pathogenic Avian Influenza (HPAI), a.k.a. bird flu. This news comes as reports decla\u2026 [+3002 chars]",
+      "retrievedAt": "2025-03-06 19:05:54.999464",
+      "internal_id": "dbe4e1fb69848ae7960e86adc13eeb948637a30678856a8393a21b6f779607e8",
+      "publishedAtLabel": "Mar 5"
+    },
+    {
+      "id": 18984,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Scientific American",
+      "author": "Tanya Lewis",
+      "title": "Trump\u2019s Plan to Lower Egg Prices and a Threat to Bird Flu Vaccines Explained",
+      "description": "The CDC has sequenced bird flu viruses from people in Nevada and Wyoming, and the Trump Administration has released a strategy for reducing egg prices",
+      "url": "https://www.scientificamerican.com/article/trumps-plan-to-lower-egg-prices-and-a-threat-to-bird-flu-vaccines-explained/",
+      "urlToImage": "https://static.scientificamerican.com/dam/m/45aab70018568857/original/Chicken_close-up.jpg?m=1741129997.685&w=1200",
+      "publishedAt": "2025-03-05 15:00:00",
+      "content": "We\u2019re regularly rounding up the latest news on avian influenza. Here\u2019s what happened recently. Human Cases Genetically Sequenced There have been 70 confirmed H5N1 bird flu infections in humans and \u2026 [+4501 chars]",
+      "retrievedAt": "2025-03-06 19:05:55.326139",
+      "internal_id": "ca075c324d5aac84f6831485d23dc7b4aa11d331954f9d04ebb03e80ad7a90c1",
+      "publishedAtLabel": "Mar 5"
+    },
+    {
+      "id": 18987,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Latest News in Nigeria & Breaking Naija News 24/7 | LEGIT.NG",
+      "author": "Olumide Alake",
+      "title": "\u201cMoney Cannot Buy Health\u201d: Teni Retracts Her Lyrics From Her Song \u2018Money\u2019 in Video From Her Sick Bed",
+      "description": "Teni has shared a video detailing her experience on the sick bed battling malaria as she retracted the lines from her trending song 'Money', stirring reactions.",
+      "url": "https://www.legit.ng/entertainment/celebrities/1643751-money-buy-health-teni-retracts-lyrics-song-money-video-sick-bed/",
+      "urlToImage": "https://cdn.legit.ng/images/1200x675/34a9b966f49719f1.jpeg?v=1",
+      "publishedAt": "2025-03-05 14:45:57",
+      "content": "Singer Teni has shared her experience in the past few days, detailing how she has been down with malariaThe singer, despite her condition, still brought smiles to the faces of her fa\u2026 [+3505 chars]",
+      "retrievedAt": "2025-03-06 19:05:57.200681",
+      "internal_id": "3bf959b1b725123407c45dab5bc395877a007e48b2daaae0976557edd60edb7a",
+      "publishedAtLabel": "Mar 5"
+    },
+    {
+      "id": 18991,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Francetvinfo.fr",
+      "author": null,
+      "title": "Un premier cas import\u00e9 de chikungunya identifi\u00e9 \u00e0 Mayotte",
+      "description": "La personne revenait d'un s\u00e9jour \u00e0 La R\u00e9union, touch\u00e9e actuellement par une \u00e9pid\u00e9mie de chikungunya.",
+      "url": "https://www.francetvinfo.fr/france/mayotte/un-premier-cas-importe-de-chikungunya-identifie-a-mayotte_7111764.html",
+      "urlToImage": "https://www.francetvinfo.fr/pictures/jAw3q_ivTjCDdiuLSAFuEDK57Gg/630x780:4482x2951/1500x843/2025/03/05/maxnewsspecial859469-67c85b7fb763f985437956.jpg",
+      "publishedAt": "2025-03-05 14:13:02",
+      "content": "L'Agence r\u00e9gionale de sant\u00e9 de Mayotte annonce qu'un premier cas de chikungunya import\u00e9 a \u00e9t\u00e9 d\u00e9tect\u00e9 sur l'\u00eele mercredi 6 mars. Il concerne une habitante de Mamoudzou, r\u00e9cemment revenue d'un s\u00e9jour \u2026 [+1185 chars]",
+      "retrievedAt": "2025-03-06 19:05:58.117359",
+      "internal_id": "b16664382709874d990963f951e917f7fea2f6c03177df4ad3eb417ffcd06e82",
+      "publishedAtLabel": "Mar 5"
+    },
+    {
+      "id": 18978,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Renzo Salazar, Kirstyn Brunker, Elvis W. D\u00edaz, Edith Zegarra, Ynes Monroy, Gorky N. Baldarrago, Katty Borrini-Mayor\u00ed, Micaela De la Puente-Le\u00f3n, Natasha Palmalux, Jenna Nichols, Sandeep Kasaragod, Michael Z. Levy, Katie Hampson, Ricardo Castillo-Neyra",
+      "title": "Genomic characterization of a dog-mediated rabies outbreak in El Pedregal, Arequipa, Peru",
+      "description": "Author summary The city of El Pedregal, established in a formerly desert region through an agricultural irrigation project in southern Peru, experienced a dog-mediated rabies outbreak identified in 2021, with cases reported into 2022. Although the outbreak is\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012396",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012396.g004&size=inline",
+      "publishedAt": "2025-03-05 14:00:00",
+      "content": "Citation: Salazar R, Brunker K, D\u00edaz EW, Zegarra E, Monroy Y, Baldarrago GN, et al. (2025) Genomic characterization of a dog-mediated rabies outbreak in El Pedregal, Arequipa, Peru. PLoS Negl Trop Di\u2026 [+40963 chars]",
+      "retrievedAt": "2025-03-06 19:05:53.433987",
+      "internal_id": "75adf7fc539c921431704dba2d38e41c4f0590e1e62d35af586dd223a755afb3",
+      "publishedAtLabel": "Mar 5"
+    },
+    {
+      "id": 18985,
+      "query": [
+        "dengue",
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Stephanie Bergmann Esteves, Luciano Marcondes de Oliveira, Aline Gil Alves Guilloux, Adriana Cortez, Eduardo de Masi, Isabelle Martins Ribeiro Ferreira, Evelyn Moura de Lima, Gabriele Yumi Ramalho, Priscila de Castilho Luna, Jose Soares Ferreira Neto, Marcos Bryan Heinemann, Bruno Alonso Miotto",
+      "title": "Into the spotlight: A spatial study of potentially underreported leptospirosis among dengue-negative patients in S\u00e3o Paulo city, Brazil",
+      "description": "Author summary Leptospirosis is a neglected bacterial disease that often affects vulnerable populations in urban areas of developing tropical countries. Due to overlapping clinical symptoms with dengue, many cases of leptospirosis remain undiagnosed, especial\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012888",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012888.g003&size=inline",
+      "publishedAt": "2025-03-05 14:00:00",
+      "content": "Abstract Leptospirosis and dengue share similar unspecific symptoms, complicating differential diagnosis in endemic regions. This overlap is further exacerbated by the often-underrecognized nature o\u2026 [+58552 chars]",
+      "retrievedAt": "2025-03-06 19:05:55.981458",
+      "internal_id": "89c65172ae3528b4f8f5464ca05d49d64b57abc52459cafe2e052506e58c05fe",
+      "publishedAtLabel": "Mar 5"
+    },
+    {
+      "id": 18988,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Lyda Osorio, Beatriz Parra, Martha Moyano, Reydmar Lopez-Gonzalez, Jorge A. Jimenez-Arango, Jos\u00e9 Vargas-Manotas, Jairo Lizarazo, Gustavo E. Ramos-Burbano, Mario Daniel Llanos, Fernando Rosso, Jonathan Urrego, Juan P. Rojas, Christian A. Rojas, Julie Benavides-Melo, Viviana A. Martinez-Villota, Karina A. Luque-Burgos, Adriana M. Ruiz, Liliana Soto, Laura Quintero-Corzo, Jaime A. Quintero, Daniela Zuluaga-Lotero, David Acero-Garces, Susana C. Dominguez-Pe\u00f1uela, Susan Halstead, Hugh J. Willison, Carlos A. Pardo, On behalf of the Neuroinfections Emerging in the Americas Study (NEAS)",
+      "title": "Guillain-Barr\u00e9 syndrome after the Zika epidemic in Colombia: A multicenter, matched case-control study",
+      "description": "Author summary Before the emergence of the Zika virus epidemic in the Americas, the incidence and risk factors associated with GBS were not well documented in Colombia and many Latin American countries. A major outbreak of GBS associated with Zika infection i\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012898",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012898.g002&size=inline",
+      "publishedAt": "2025-03-05 14:00:00",
+      "content": "Citation: Osorio L, Parra B, Moyano M, Lopez-Gonzalez R, Jimenez-Arango JA, Vargas-Manotas J, et al. (2025) Guillain-Barr\u00e9 syndrome after the Zika epidemic in Colombia: A multicenter, matched case-co\u2026 [+33797 chars]",
+      "retrievedAt": "2025-03-06 19:05:57.660303",
+      "internal_id": "67be466ff71e8c70997784702866dac07ef6b6389ca1afd84cca9ff906765e7f",
+      "publishedAtLabel": "Mar 5"
+    },
+    {
+      "id": 18993,
+      "query": [
+        "shigellosis"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "The Feed",
+      "title": "This highly contagious disease is on the rise in Oregon; know symptoms",
+      "description": "Dysentery, or shigellosis, is primarily characterised by bloody diarrhea. Multnomah County has witnessed a steady rise in dysentery cases since 2012. Health officials in Multnomah County reported as many as 40 cases of dysentery throughout January, KOIN repor\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/us/this-highly-contagious-disease-is-on-the-rise-in-oregon-know-symptoms/articleshow/118737854.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-118737857,width-1200,height-630,imgsize-6742,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-03-05 13:42:27",
+      "content": "Artificial Intelligence(AI) AI and Analytics based Business Strategy By - Tanusree De, Managing Director- Accenture Technology Lead, Trustworthy AI Center of Excellence: ATCI View Program",
+      "retrievedAt": "2025-03-06 19:05:59.501792",
+      "internal_id": "5e2043f73f1063cffe0b1363be0f5c19320ef553fbe39ac0ab941b2398528420",
+      "publishedAtLabel": "Mar 5"
+    },
+    {
+      "id": 18981,
+      "query": [
+        "measles"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Ewan Palmer",
+      "title": "Measles Outbreak Spreads to Florida",
+      "description": "A student at Miami Palmetto Senior High School has been diagnosed with the disease.",
+      "url": "https://www.newsweek.com/measles-outbreak-florida-student-texas-vaccine-2039791",
+      "urlToImage": "https://d.newsweek.com/en/full/2600626/measles-vaccine.jpg",
+      "publishedAt": "2025-03-05 12:38:24",
+      "content": "Florida has recorded its first measles case of the year amid an outbreak in states across the country. A student at Miami Palmetto Senior High School in Pinecrest has been diagnosed with the disease\u2026 [+4764 chars]",
+      "retrievedAt": "2025-03-06 19:05:54.353991",
+      "internal_id": "694242cf4658b272cf802922f282260dfb452370f4cbf8d4eda54e03f83c4504",
+      "publishedAtLabel": "Mar 5"
+    },
+    {
+      "id": 18992,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Antaranews.com",
+      "author": "Lia, Kenzu",
+      "title": "Leptospirosis alert: Expert warns of disease risks during flooding",
+      "description": "Health expert Prof. Tjandra Yoga Aditama has cautioned residents in flood-affected areas of Jakarta to be vigilant about leptospirosis, a disease spread ...",
+      "url": "https://en.antaranews.com/news/347225/leptospirosis-alert-expert-warns-of-disease-risks-during-flooding",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2025/03/05/1000378564.jpg",
+      "publishedAt": "2025-03-05 11:24:55",
+      "content": "Jakarta (ANTARA) - Health expert Prof. Tjandra Yoga Aditama has cautioned residents in flood-affected areas of Jakarta to be vigilant about leptospirosis, a disease spread through rat feces and urine\u2026 [+2115 chars]",
+      "retrievedAt": "2025-03-06 19:05:58.908334",
+      "internal_id": "5891bdd03fa7c8dde08bfc475e96a9f096def7ec271003536f84c449326c482b",
+      "publishedAtLabel": "Mar 5"
+    },
+    {
+      "id": 18979,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "In Ontario's Elgin County, worry about a measles resurgence and a 60-year-old cautionary tale",
+      "description": "A measles outbreak that has led to 10 hospitalizations in rural Elgin and Oxford counties have many worried, and others remembering terrifying bouts with the illness before vaccines were available.",
+      "url": "https://www.cbc.ca/news/canada/london/in-elgin-county-worry-about-a-measles-resurgence-and-a-60-year-old-cautionary-tale-1.7474424",
+      "urlToImage": "https://i.cbc.ca/1.7474488.1741121377!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/measles-sisters.jpg?im=Resize%3D620",
+      "publishedAt": "2025-03-05 10:01:10",
+      "content": "Jackie McCoubrey remembers long days that ran into each other as she and her sister lay feverish in a dark room as their mom fretted outside. \"There are days that we have no memory of. We were in t\u2026 [+3803 chars]",
+      "retrievedAt": "2025-03-06 19:05:54.239411",
+      "internal_id": "88e1ee1519f0e28e2a6d54eab76f7c97f0301414d1458913c91b350bae929b6c",
+      "publishedAtLabel": "Mar 5"
+    },
+    {
+      "id": 18990,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "le-monde",
+      "source_name": "Le Monde",
+      "author": "Delphine Roucaute",
+      "title": "Face au chikungunya \u00e0 La R\u00e9union, la Haute Autorit\u00e9 de sant\u00e9 pr\u00e9conise une vaccination cibl\u00e9e",
+      "description": "L\u2019autorit\u00e9 ind\u00e9pendante sugg\u00e8re aux plus de 65 ans, aux adultes souffrant de maladies chroniques et aux personnes charg\u00e9es de la d\u00e9moustication de recevoir une dose du tout premier vaccin homologu\u00e9 dans l\u2019Union europ\u00e9enne.",
+      "url": "https://www.lemonde.fr/planete/article/2025/03/05/face-au-chikungunya-a-la-reunion-la-haute-autorite-de-sante-preconise-une-vaccination-ciblee_6576514_3244.html",
+      "urlToImage": "https://img.lemde.fr/2025/03/05/0/0/6720/4480/1440/960/60/0/241a38d_sirius-fs-upload-1-aavi1yh77yfa-1741158656700-000-1qv294.jpg",
+      "publishedAt": "2025-03-05 09:00:04",
+      "content": "Des agents proc\u00e8dent \u00e0 la fumigation dune zone pour emp\u00eacher les moustiques de sy reproduire, \u00e0 La Possession (La R\u00e9union), le 28 avril 2020. RICHARD BOUHET/AFP Face \u00e0 la flamb\u00e9e \u00e9pid\u00e9mique de chiku\u2026 [+1337 chars]",
+      "retrievedAt": "2025-03-06 19:05:58.108831",
+      "internal_id": "e6b7c4820e5ca5736f8785ab6eea3b8f68bc72d2940938bce41d08ec9492613e",
+      "publishedAtLabel": "Mar 5"
+    },
+    {
+      "id": 18989,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Francetvinfo.fr",
+      "author": null,
+      "title": "Chikungunya : une campagne de vaccination lanc\u00e9e \u00e0 La R\u00e9union pour les habitants les plus \u00e0 risque de d\u00e9velopper une forme grave",
+      "description": "Plus de 3 200 cas de chikungunya ont \u00e9t\u00e9 recens\u00e9s depuis le d\u00e9but de l'ann\u00e9e \u00e0 la R\u00e9union. Pour l'heure, aucun d\u00e9c\u00e8s n'a \u00e9t\u00e9 recens\u00e9.",
+      "url": "https://www.francetvinfo.fr/sante/maladie/chikungunya/chikungunya-une-campagne-de-vaccination-lancee-a-la-reunion-pour-les-habitants-les-plus-a-risque-de-developper-une-forme-grave_7111266.html",
+      "urlToImage": "https://www.francetvinfo.fr/pictures/j2GaRO2CIq2H9alcVGY9QtrUumg/0x8:1024x584/1500x843/2025/03/05/000-par721170-67c7e9ca0bbb9711316473.jpg",
+      "publishedAt": "2025-03-05 09:00:01",
+      "content": "Une campagne de vaccination contre le chikungunya va \u00eatre lanc\u00e9e \u00e0 La R\u00e9union, annonce mercredi 5 mars le minist\u00e8re de la Sant\u00e9, alors qu'une importante \u00e9pid\u00e9mie s\u00e9vit \u00e0 la R\u00e9union depuis plusieurs s\u2026 [+1153 chars]",
+      "retrievedAt": "2025-03-06 19:05:58.100658",
+      "internal_id": "d91374d7f8f67e6d43e4a88ac30aa4671e798a854dba027a7e71ef9bc60d5fb5",
+      "publishedAtLabel": "Mar 5"
+    },
+    {
+      "id": 18977,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "1pezeshk.com",
+      "author": "\u0639\u0644\u06cc\u0631\u0636\u0627 \u0645\u062c\u06cc\u062f\u06cc",
+      "title": "\u0686\u0631\u0627 \u062e\u0648\u0646\u200c\u0622\u0634\u0627\u0645\u200c\u0647\u0627 \u062f\u0631 \u0641\u0631\u0647\u0646\u06af\u200c\u0647\u0627\u06cc \u0645\u062e\u062a\u0644\u0641 \u062f\u0627\u0633\u062a\u0627\u0646\u200c\u0647\u0627\u06cc \u0645\u062a\u0641\u0627\u0648\u062a\u06cc \u062f\u0627\u0631\u0646\u062f\u061f",
+      "description": "\u0627\u0648\u0644\u06cc\u0646 \u0628\u0627\u0631\u06cc \u06a9\u0647 \u062f\u0631\u0628\u0627\u0631\u0647\u200c\u06cc \u062e\u0648\u0646\u200c\u0622\u0634\u0627\u0645\u200c\u0647\u0627 (Vampires) \u0634\u0646\u06cc\u062f\u0645\u060c \u06cc\u06a9 \u062f\u0627\u0633\u062a\u0627\u0646 \u062a\u0631\u0633\u0646\u0627\u06a9 \u062f\u0631\u0628\u0627\u0631\u0647\u200c\u06cc \u062f\u0631\u0627\u06a9\u0648\u0644\u0627 \u0628\u0648\u062f. \u0627\u06cc\u0646 \u0645\u0648\u062c\u0648\u062f\u0627\u062a \u0645\u0631\u0645\u0648\u0632 \u0647\u0645\u06cc\u0634\u0647 \u062f\u0631 \u062f\u0627\u0633\u062a\u0627\u0646\u200c\u0647\u0627\u06cc \u0645\u062e\u062a\u0644\u0641 \u0628\u0647 \u0634\u06a9\u0644\u200c\u0647\u0627\u06cc \u06af\u0648\u0646\u0627\u06af\u0648\u0646 \u0638\u0627\u0647\u0631 \u0645\u06cc\u200c\u0634\u0648\u0646\u062f. \u0628\u0639\u0636\u06cc \u0627\u0632 \u0622\u0646\u200c\u0647\u0627 \u0627\u0634\u0631\u0627\u0641\u200c\u0632\u0627\u062f\u0647\u200c\u0647\u0627\u06cc\u06cc \u0634\u06cc\u06a9\u200c\u067e\u0648\u0634 \u0628\u0627 \u0644\u0647\u062c\u0647\u200c\u06cc \u0627\u0631\u0648\u067e\u0627\u06cc \u0634\u0631\u0642\u06cc \u0647\u0633\u062a\u0646\u062f\u060c \u062f\u0631 \u062d\u0627\u0644\u06cc \u06a9\u0647 \u0628\u0631\u062e\u06cc \u062f\u06cc\u06af\u0631\u060c \u0645\u2026",
+      "url": "https://www.1pezeshk.com/archives/2025/03/why-do-vampires-have-different-stories-in-various-cultures.html",
+      "urlToImage": "https://www.1pezeshk.com/wp-content/uploads/2025/03/2025-03-05_11-41-43.webp",
+      "publishedAt": "2025-03-05 08:20:49",
+      "content": "(Vampires) . . . . . . . . . . . . . - . . \u00ab (Jiangshi)\u00bb . \u00ab (Aswang)\u00bb . \u00ab (Chupacabra)\u00bb . . - . \u00ab (Porphyria)\u00bb . \u00ab (Tuberculosis)\u00bb . \u00ab (Rabies)\u00bb . . . - . . \u00ab (Jiangshi)\u00bb \u00ab (Qi)\u00bb . \u00ab (\u2026 [+270 chars]",
+      "retrievedAt": "2025-03-06 19:05:53.406101",
+      "internal_id": "09aac262eecaa5ea3e5cec52645a66fda1ce7c842d427f74a850aee6fa350f9d",
+      "publishedAtLabel": "Mar 5"
+    },
     {
       "id": 18973,
       "query": [
@@ -25432,78 +25739,6 @@
       "content": "Oferta Rel\u00e2mpago: 4 revistas pelo pre\u00e7o de uma! Aedes aegypti: a picada da f\u00eamea do mosquito transmite a dengue (Divulga\u00e7\u00e3o/Divulga\u00e7\u00e3o) Continua ap\u00f3s publicidade O Minist\u00e9rio da Sa\u00fade vai distribu\u2026 [+952 chars]",
       "retrievedAt": "2025-01-21 07:06:20.719045",
       "internal_id": "502de82804265c8547ec4cfd22927d8a990b6b75818f525812b4561692d98b69",
-      "publishedAtLabel": "Jan 19"
-    },
-    {
-      "id": 17563,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Shtfplan.com",
-      "author": "Mac Slavo",
-      "title": "CDC Urges Increased Testing For Bird Flu",
-      "description": "As the media continues to push forward with the bird flu narrative. The Centers for Disease Control and Prevention have suggested that healthcare workers accelerate bird flu testing for patients hospitalized with flu symptoms as the H5N1 avian influenza outbr\u2026",
-      "url": "https://www.shtfplan.com/headline-news/cdc-urges-increased-testing-for-bird-flu",
-      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2023/12/bird-flu1.jpg",
-      "publishedAt": "2025-01-19 18:30:53",
-      "content": "As the media continues to push forward with the bird flu narrative. The Centers for Disease Control and Prevention have suggested that healthcare workers accelerate bird flu testing for patients hosp\u2026 [+2228 chars]",
-      "retrievedAt": "2025-01-20 19:05:48.523076",
-      "internal_id": "994713215544b42535086f4ce20c52d2645cf584d449998cc44d68847b889a02",
-      "publishedAtLabel": "Jan 19"
-    },
-    {
-      "id": 17564,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Zive.cz",
-      "author": "Karel Kili\u00e1n",
-      "title": "Prvn\u00ed \u00famrt\u00ed \u010dlov\u011bka na pta\u010d\u00ed ch\u0159ipku vyvol\u00e1v\u00e1 ot\u00e1zku, zda jsme p\u0159ipraveni na dal\u0161\u00ed pandemii",
-      "description": "",
-      "url": "https://vtm.zive.cz/clanky/prvni-umrti-cloveka-na-ptaci-chripku-vyvolava-otazku-zda-jsme-pripraveni-na-dalsi-pandemii/sc-870-a-232411/default.aspx",
-      "urlToImage": "https://www.zive.cz/getthumbnail.aspx?q=100&height=20000&width=20000&id_file=924558027",
-      "publishedAt": "2025-01-19 13:45:00",
-      "content": "Na za\u00e1tku leton\u00edho roku okovala veejnost zpr\u00e1va o prvn\u00edm \u00famrt\u00ed lovka v USA v dsledku pta\u00ed chipky H5N1. Star\u00ed mu z Louisiany, kter\u00fd byl v kontaktu s nakaen\u00fdmi pt\u00e1ky, podlehl tk\u00fdm respiran\u00edm komplikac\u00ed\u2026 [+3383 chars]",
-      "retrievedAt": "2025-01-20 19:05:48.712772",
-      "internal_id": "7155ac7915807811b6a0b6efb9ae01d3d8f5733480982476190cde0dd80cac33",
-      "publishedAtLabel": "Jan 19"
-    },
-    {
-      "id": 17566,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Catracalivre.com.br",
-      "author": "Andr\u00e9 Nicolau",
-      "title": "Dengue: Especialista ensina como usar o hipoclorito de s\u00f3dio no combate ao Aedes aegypti",
-      "description": "No ver\u00e3o aumenta o risco da dengue: aprenda a proteger sua casa do Aedes aegypti, mosquito transmissor da doen\u00e7a.",
-      "url": "https://catracalivre.com.br/saude-bem-estar/dengue-combate-ao-aedes-aegypti/",
-      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1280,h=680,fit=cover,format=jpeg/wp-content/uploads/2024/01/istock-183256299.jpg",
-      "publishedAt": "2025-01-19 12:00:41",
-      "content": "Casos de dengue triplicam em 2024 iStock/flubydust - iStock/flubydust Durante o ver\u00e3o, os casos de dengue aumentam consideravelmente. Isso acontece devido \u00e0 alta incid\u00eancia de chuvas em grande part\u2026 [+3503 chars]",
-      "retrievedAt": "2025-01-20 19:05:49.251975",
-      "internal_id": "e96f2e755416d68f1f032efdfae7ff9dcf6b4ed81e61f916e674ef2b451a70e8",
-      "publishedAtLabel": "Jan 19"
-    },
-    {
-      "id": 17565,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Metropoles.com",
-      "author": "Milena Teixeira",
-      "title": "Dengue: governo quer imunizante no programa de vacina\u00e7\u00e3o em 2026",
-      "description": "Governo quer incorporar a vacina do Instituto Butantan, que ainda deve ser certificada, no Plano Nacional de Imuniza\u00e7\u00f5es",
-      "url": "https://www.metropoles.com/colunas/igor-gadelha/dengue-governo-quer-imunizante-em-programa-de-vacinacao-em-2026",
-      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2025/01/06072339/dengue-7.jpg",
-      "publishedAt": "2025-01-19 08:00:00",
-      "content": "O Minist\u00e9rio da Sa\u00fade planeja ampliar a aplica\u00e7\u00e3o da vacina contra a dengue para mais p\u00fablicos at\u00e9 o final deste ano. Atualmente, o Sistema \u00danico de Sa\u00fade disponibiliza o imunizante apenas para crian\u2026 [+1240 chars]",
-      "retrievedAt": "2025-01-20 19:05:49.226468",
-      "internal_id": "5c1f3c4df86ee1f5ac8ca50f9a8bc0e3815d667441450e231da38962262e73cb",
       "publishedAtLabel": "Jan 19"
     }
   ]
