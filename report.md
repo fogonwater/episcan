@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 24
-- **Last harvest:** 2025-03-05 19:05
-- **Most recent article:** 2025-03-04 19:00:00
+- **New articles in last harvest:** 18
+- **Last harvest:** 2025-03-06 07:07
+- **Most recent article:** 2025-03-05 02:00:05
 
 ---
 
@@ -12,14 +12,14 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-10 | 25-4 | 25-5 | 25-6 | 25-7 | 25-8 | 25-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 53 | 10 | 13 | 24 | 72 | 83 | 162 | 417 |
-| h5n1 | 9 | 29 | 51 | 72 | 55 | 54 | 42 | 312 |
-| dengue | 4 | 34 | 24 | 34 | 37 | 57 | 30 | 220 |
+| measles | 66 | 10 | 13 | 24 | 72 | 83 | 162 | 430 |
+| h5n1 | 11 | 31 | 51 | 72 | 55 | 54 | 42 | 316 |
+| dengue | 4 | 36 | 24 | 34 | 37 | 57 | 30 | 222 |
 | mpox | 8 | 23 | 22 | 28 | 18 | 15 | 26 | 140 |
-| malaria | 17 | 18 | 30 | 25 | 12 | 7 | 20 | 129 |
+| malaria | 19 | 18 | 30 | 25 | 12 | 7 | 20 | 131 |
+| hpai | 6 | 11 | 6 | 3 | 9 | 5 | 4 | 44 |
 | chikungunya | 2 | 10 | 9 | 8 | 5 | 3 | 7 | 44 |
 | meningitis | 2 | 2 | 8 | 2 | 12 | 11 | 7 | 44 |
-| hpai | 5 | 11 | 6 | 3 | 9 | 5 | 4 | 43 |
 | zika | 2 | 2 | 8 | 6 | 2 | 6 | 2 | 28 |
 | rabies | 0 | 7 | 6 | 4 | 5 | 4 | 2 | 28 |
 | typhoid | 3 | 0 | 0 | 2 | 3 | 0 | 4 | 12 |
@@ -2755,6 +2755,10 @@ Source: [News API](https://newsapi.org/)
 
 - [美国科学家拉响警报：新型 H5N1 禽流感病毒被发现，正威胁人类健康](https://www.ithome.com/0/825/921.htm) (Ithome.com)
 
+- [CDC Urges Increased Testing For Bird Flu](https://www.shtfplan.com/headline-news/cdc-urges-increased-testing-for-bird-flu) (Shtfplan.com)
+
+- [První úmrtí člověka na ptačí chřipku vyvolává otázku, zda jsme připraveni na další pandemii](https://vtm.zive.cz/clanky/prvni-umrti-cloveka-na-ptaci-chripku-vyvolava-otazku-zda-jsme-pripraveni-na-dalsi-pandemii/sc-870-a-232411/default.aspx) (Zive.cz)
+
 ## 25-4 (dengue)
 
 - [Joga lixo na rua? GDF usará drones para multar sujões. Veja valores](https://www.metropoles.com/distrito-federal/joga-lixo-na-rua-gdf-usara-drones-para-multar-sujoes-veja-valores) (Metropoles.com)
@@ -2824,6 +2828,10 @@ Source: [News API](https://newsapi.org/)
 - [Dengue: 2025 começa com mortes e 2º maior recorde de casos da história](https://www.metropoles.com/brasil/dengue-2025-comeca-com-mortes-e-2o-maior-recorde-de-casos-da-historia) (Metropoles.com)
 
 - [Saúde vai distribuir 6,5 milhões de testes rápidos de dengue a estados](https://veja.abril.com.br/coluna/radar/saude-vai-distribuir-65-milhoes-de-testes-rapidos-de-dengue-a-estados) (Abril.com.br)
+
+- [Dengue: Especialista ensina como usar o hipoclorito de sódio no combate ao Aedes aegypti](https://catracalivre.com.br/saude-bem-estar/dengue-combate-ao-aedes-aegypti/) (Catracalivre.com.br)
+
+- [Dengue: governo quer imunizante no programa de vacinação em 2026](https://www.metropoles.com/colunas/igor-gadelha/dengue-governo-quer-imunizante-em-programa-de-vacinacao-em-2026) (Metropoles.com)
 
 ## 25-4 (chikungunya)
 
@@ -2896,6 +2904,32 @@ Source: [News API](https://newsapi.org/)
 - [Rekrut nach Meningitis-Verdacht verstorben](https://burgenland.orf.at/stories/3295408/) (Burgenland.orf.at)
 
 ## 25-10 (measles)
+
+- [Do I Need a Measles Booster if I Was Vaccinated as a Kid? Experts Weigh In](https://www.newsweek.com/measles-vaccine-outbreak-booster-texas-update-2039328) (Newsweek)
+
+- [CDC says it is on the ground in Texas to aid in measles outbreak response (Nathaniel Weixel/The Hill)](https://www.memeorandum.com/250304/p166) (Memeorandum.com)
+
+- [How Measles Vaccines Adverse Reactions Compare to COVID Vaccine](https://www.newsweek.com/measles-vaccine-covid-19-adverse-reactions-compared-2039534) (Newsweek)
+
+- [Texas measles outbreak grows to 159 cases](https://www.cbsnews.com/video/texas-measles-outbreak-grows-159-cases/) (CBS News)
+
+- [Texas Health Official: Measles Parties Are A Bad Idea, OK?](https://crooksandliars.com/2025/03/texas-health-official-measles-parties-are) (Crooksandliars.com)
+
+- [As Measles Spreads, Kennedy Embraces Remedies Like Cod Liver Oil (Teddy Rosenbluth/New York Times)](https://www.memeorandum.com/250304/p148) (Memeorandum.com)
+
+- [Mennonites in the spotlight over Texas measles outbreak](https://theweek.com/religion/mennonites-in-the-spotlight-over-texas-measles-outbreak) (The Week Magazine)
+
+- [Pediatricians walk a delicate line with parents in measles vaccination debate](https://www.nbcnews.com/news/us-news/pediatricians-walk-delicate-line-parents-measles-vaccination-debate-rcna194226) (NBC News)
+
+- [Texas Measles Outbreak: Case Count Spikes To 159](https://www.forbes.com/sites/antoniopequenoiv/2025/03/04/texas-measles-outbreak-case-count-spikes-to-159/) (Forbes)
+
+- [Measles Outbreak Update as Cases Rising in Texas](https://www.newsweek.com/measles-outbreak-update-cases-rising-texas-2039579) (Newsweek)
+
+- [CDC sends disease experts to Texas as measles cases rise (Angrej Singh/Axios)](https://www.memeorandum.com/250304/p131) (Memeorandum.com)
+
+- [Texas measles outbreak fueled by distrust in public health and personal choice](https://japantoday.com/category/world/texas-measles-outbreak-fueled-by-distrust-in-public-health-and-personal-choice) (Japan Today)
+
+- [Measles Outbreak That Started In Texas Has Now Spread To Over 160 People In 9 States](https://brobible.com/culture/article/measles-outbreak-spread-158-people-9-states/) (BroBible)
 
 - [C.D.C. Sends 'Disease Detectives' to Texas for Measles Outbreak (Sheryl Gay Stolberg/New York Times)](https://www.memeorandum.com/250304/p81) (Memeorandum.com)
 
@@ -3005,6 +3039,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-10 (malaria)
 
+- [Aanval Musk op noodhulp zal veel levens kosten: “Dit is het resultaat van politieke beslissingen”](https://www.standaard.be/cnt/dmf20250304_96255635) (Standaard.be)
+
+- [LASG harps on diagnosis before malaria treatment](https://punchng.com/lasg-harps-on-diagnosis-before-malaria-treatment/) (The Punch)
+
 - [Women’s History Month: Five Groundbreaking Researchers Who Mapped the Ocean Floor, Tested Atomic Theories, Vanquished Malaria and More](https://msmagazine.com/2025/03/04/womens-history-month-scientists-marie-tharp-margaret-morse-nice-tu-youyou-emmy-noether-chien-shiung-wu/) (Ms. Magazine)
 
 - [Submicroscopic malaria in pregnancy and associated adverse pregnancy events: A case-cohort study of 4,352 women on the Thailand–Myanmar border](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004529) (Plos.org)
@@ -3045,6 +3083,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-10 (hpai)
 
+- [U.S. is busting more people with prohibited eggs at the Canadian border](https://nationalpost.com/news/canada/canada-u-s-eggs-border-avian-flu) (National Post)
+
 - [Raw cat food recalled after state testing finds contamination with bird flu](https://www.foodsafetynews.com/2025/03/raw-cat-food-recalled-after-state-testing-finds-contamination-with-bird-flu/) (Food Safety News)
 
 - [Animal Ag News 3/3](https://agwired.com/2025/03/03/animal-ag-news-3-3/) (AgWired)
@@ -3056,6 +3096,10 @@ Source: [News API](https://newsapi.org/)
 - [Voluntary Recall of Wild Coast Raw Boneless Free Range Chicken Formula Raw Pet Food Because of Possible Bird Flu Health Risk](https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/voluntary-recall-wild-coast-raw-boneless-free-range-chicken-formula-raw-pet-food-because-possible) (FDA.gov)
 
 ## 25-10 (h5n1)
+
+- [Crystal Heath, une lanceuse d’alerte face à la propagation de la grippe aviaire en Californie](https://www.lemonde.fr/international/article/2025/03/05/crystal-heath-une-lanceuse-d-alerte-face-a-la-propagation-de-la-grippe-aviaire-en-californie_6576422_3210.html) (Le Monde)
+
+- [1 พันล้านของรัฐบาลทรัมป์ กับการแก้ปัญหาไข่แพง](https://www.thairath.co.th/news/foreign/2845180) (Thairath.co.th)
 
 - [Deadly bird flu on remote island poses new threat to Australia](https://www.abc.net.au/news/science/2025-03-05/bird-flu-infections-alert-australian-island-avian-influenza/105006040) (ABC News (AU))
 
