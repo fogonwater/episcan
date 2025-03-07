@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 17
-- **Last harvest:** 2025-03-06 19:05
-- **Most recent article:** 2025-03-05 18:22:25
+- **New articles in last harvest:** 10
+- **Last harvest:** 2025-03-07 07:06
+- **Most recent article:** 2025-03-06 03:37:31
 
 ---
 
@@ -12,11 +12,11 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-10 | 25-4 | 25-5 | 25-6 | 25-7 | 25-8 | 25-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 70 | 10 | 13 | 24 | 72 | 83 | 162 | 434 |
-| h5n1 | 12 | 29 | 51 | 72 | 55 | 54 | 42 | 315 |
-| dengue | 5 | 34 | 24 | 34 | 37 | 57 | 30 | 221 |
+| measles | 76 | 10 | 13 | 24 | 72 | 83 | 162 | 440 |
+| h5n1 | 12 | 31 | 51 | 72 | 55 | 54 | 42 | 317 |
+| dengue | 6 | 36 | 24 | 34 | 37 | 57 | 30 | 224 |
 | mpox | 8 | 23 | 22 | 28 | 18 | 15 | 26 | 140 |
-| malaria | 20 | 18 | 30 | 25 | 12 | 7 | 20 | 132 |
+| malaria | 23 | 18 | 30 | 25 | 12 | 7 | 20 | 135 |
 | chikungunya | 5 | 10 | 9 | 8 | 5 | 3 | 7 | 47 |
 | meningitis | 3 | 2 | 8 | 2 | 12 | 11 | 7 | 45 |
 | hpai | 7 | 11 | 6 | 3 | 9 | 5 | 4 | 45 |
@@ -2755,6 +2755,10 @@ Source: [News API](https://newsapi.org/)
 
 - [美国科学家拉响警报：新型 H5N1 禽流感病毒被发现，正威胁人类健康](https://www.ithome.com/0/825/921.htm) (Ithome.com)
 
+- [CDC Urges Increased Testing For Bird Flu](https://www.shtfplan.com/headline-news/cdc-urges-increased-testing-for-bird-flu) (Shtfplan.com)
+
+- [První úmrtí člověka na ptačí chřipku vyvolává otázku, zda jsme připraveni na další pandemii](https://vtm.zive.cz/clanky/prvni-umrti-cloveka-na-ptaci-chripku-vyvolava-otazku-zda-jsme-pripraveni-na-dalsi-pandemii/sc-870-a-232411/default.aspx) (Zive.cz)
+
 ## 25-4 (dengue)
 
 - [Joga lixo na rua? GDF usará drones para multar sujões. Veja valores](https://www.metropoles.com/distrito-federal/joga-lixo-na-rua-gdf-usara-drones-para-multar-sujoes-veja-valores) (Metropoles.com)
@@ -2824,6 +2828,10 @@ Source: [News API](https://newsapi.org/)
 - [Dengue: 2025 começa com mortes e 2º maior recorde de casos da história](https://www.metropoles.com/brasil/dengue-2025-comeca-com-mortes-e-2o-maior-recorde-de-casos-da-historia) (Metropoles.com)
 
 - [Saúde vai distribuir 6,5 milhões de testes rápidos de dengue a estados](https://veja.abril.com.br/coluna/radar/saude-vai-distribuir-65-milhoes-de-testes-rapidos-de-dengue-a-estados) (Abril.com.br)
+
+- [Dengue: Especialista ensina como usar o hipoclorito de sódio no combate ao Aedes aegypti](https://catracalivre.com.br/saude-bem-estar/dengue-combate-ao-aedes-aegypti/) (Catracalivre.com.br)
+
+- [Dengue: governo quer imunizante no programa de vacinação em 2026](https://www.metropoles.com/colunas/igor-gadelha/dengue-governo-quer-imunizante-em-programa-de-vacinacao-em-2026) (Metropoles.com)
 
 ## 25-4 (chikungunya)
 
@@ -2908,6 +2916,18 @@ Source: [News API](https://newsapi.org/)
 - [Rekrut nach Meningitis-Verdacht verstorben](https://burgenland.orf.at/stories/3295408/) (Burgenland.orf.at)
 
 ## 25-10 (measles)
+
+- [Robert F. Kennedy Jr says vitamin A protects you from deadly measles. Here’s what the study he cites actually says](https://theconversation.com/robert-f-kennedy-jr-says-vitamin-a-protects-you-from-deadly-measles-heres-what-the-study-he-cites-actually-says-251465) (The Conversation Africa)
+
+- [Doctor explains how the measles virus affects the immune system](https://www.cbsnews.com/video/doctor-explains-how-measles-virus-affects-immune-system/) (CBS News)
+
+- [Kennedy's push for vitamins in response to measles outbreak worries physicians (Joseph Choi/The Hill)](https://www.memeorandum.com/250305/p139) (Memeorandum.com)
+
+- ['100 spoonfuls': Doctor slaps down RFK Jr.'s favorite measles cure](https://www.rawstory.com/robert-f-kennedy-jr-2671275431/) (Raw Story)
+
+- [RFK Jr. says vitamin A could help treat measles. Here's what doctors think.](https://www.businessinsider.com/rfk-jr-recommends-vitamin-a-to-fight-measles-amid-outbreaks-2025-3) (Business Insider)
+
+- [Texas Measles Outbreak: Cases Spread To Florida And Eight Other States](https://www.forbes.com/sites/antoniopequenoiv/2025/03/05/texas-measles-outbreak-cases-spread-to-florida-and-eight-other-states/) (Forbes)
 
 - [Texas Health Official Warns People To Not Hold Or Attend ‘Measles Parties’](https://brobible.com/culture/article/texas-health-official-warns-measles-parties/) (BroBible)
 
@@ -3051,6 +3071,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-10 (malaria)
 
+- [Implications for malaria transmission: a cross-sectional study on the bionomics and susceptibility of local malaria vectors in urban and periurban settings of Ndola district](https://bmjopen.bmj.com/content/15/3/e091319) (The BMJ)
+
+- [Researchers use a 'Trojan Horse' approach to develop new antimalarial drugs](https://www.sciencedaily.com/releases/2025/03/250305164625.htm) (Science Daily)
+
+- [VIDEO: ‘Money can’t buy good health,’ Singer Teni reveals two-week struggle with illness](https://punchng.com/video-money-cant-buy-good-health-singer-teni-reveals-two-week-struggle-with-illness/) (The Punch)
+
 - [“Money Cannot Buy Health”: Teni Retracts Her Lyrics From Her Song ‘Money’ in Video From Her Sick Bed](https://www.legit.ng/entertainment/celebrities/1643751-money-buy-health-teni-retracts-lyrics-song-money-video-sick-bed/) (Latest News in Nigeria & Breaking Naija News 24/7 | LEGIT.NG)
 
 - [Aanval Musk op noodhulp zal veel levens kosten: “Dit is het resultaat van politieke beslissingen”](https://www.standaard.be/cnt/dmf20250304_96255635) (Standaard.be)
@@ -3142,6 +3168,8 @@ Source: [News API](https://newsapi.org/)
 - [Voluntary Recall of Wild Coast Raw Boneless Free Range Chicken Formula Raw Pet Food Because of Possible Bird Flu Health Risk](https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/voluntary-recall-wild-coast-raw-boneless-free-range-chicken-formula-raw-pet-food-because-possible) (FDA.gov)
 
 ## 25-10 (dengue)
+
+- [Dengue: entenda os cuidados que pais devem ter com saúde das crianças](https://www.metropoles.com/saude/dengue-cuidados-criancas) (Metropoles.com)
 
 - [Into the spotlight: A spatial study of potentially underreported leptospirosis among dengue-negative patients in São Paulo city, Brazil](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012888) (Plos.org)
 
