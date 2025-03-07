@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 10
-- **Last harvest:** 2025-03-07 07:06
-- **Most recent article:** 2025-03-06 03:37:31
+- **New articles in last harvest:** 11
+- **Last harvest:** 2025-03-07 19:05
+- **Most recent article:** 2025-03-06 18:08:00
 
 ---
 
@@ -12,14 +12,14 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-10 | 25-4 | 25-5 | 25-6 | 25-7 | 25-8 | 25-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 76 | 10 | 13 | 24 | 72 | 83 | 162 | 440 |
-| h5n1 | 12 | 31 | 51 | 72 | 55 | 54 | 42 | 317 |
-| dengue | 6 | 36 | 24 | 34 | 37 | 57 | 30 | 224 |
+| measles | 78 | 10 | 13 | 24 | 72 | 83 | 162 | 442 |
+| h5n1 | 14 | 29 | 51 | 72 | 55 | 54 | 42 | 317 |
+| dengue | 6 | 34 | 24 | 34 | 37 | 57 | 30 | 222 |
 | mpox | 8 | 23 | 22 | 28 | 18 | 15 | 26 | 140 |
-| malaria | 23 | 18 | 30 | 25 | 12 | 7 | 20 | 135 |
+| malaria | 27 | 18 | 30 | 25 | 12 | 7 | 20 | 139 |
+| hpai | 9 | 11 | 6 | 3 | 9 | 5 | 4 | 47 |
 | chikungunya | 5 | 10 | 9 | 8 | 5 | 3 | 7 | 47 |
-| meningitis | 3 | 2 | 8 | 2 | 12 | 11 | 7 | 45 |
-| hpai | 7 | 11 | 6 | 3 | 9 | 5 | 4 | 45 |
+| meningitis | 4 | 2 | 8 | 2 | 12 | 11 | 7 | 46 |
 | rabies | 2 | 7 | 6 | 4 | 5 | 4 | 2 | 30 |
 | zika | 3 | 2 | 8 | 6 | 2 | 6 | 2 | 29 |
 | typhoid | 3 | 0 | 0 | 2 | 3 | 0 | 4 | 12 |
@@ -2755,10 +2755,6 @@ Source: [News API](https://newsapi.org/)
 
 - [美国科学家拉响警报：新型 H5N1 禽流感病毒被发现，正威胁人类健康](https://www.ithome.com/0/825/921.htm) (Ithome.com)
 
-- [CDC Urges Increased Testing For Bird Flu](https://www.shtfplan.com/headline-news/cdc-urges-increased-testing-for-bird-flu) (Shtfplan.com)
-
-- [První úmrtí člověka na ptačí chřipku vyvolává otázku, zda jsme připraveni na další pandemii](https://vtm.zive.cz/clanky/prvni-umrti-cloveka-na-ptaci-chripku-vyvolava-otazku-zda-jsme-pripraveni-na-dalsi-pandemii/sc-870-a-232411/default.aspx) (Zive.cz)
-
 ## 25-4 (dengue)
 
 - [Joga lixo na rua? GDF usará drones para multar sujões. Veja valores](https://www.metropoles.com/distrito-federal/joga-lixo-na-rua-gdf-usara-drones-para-multar-sujoes-veja-valores) (Metropoles.com)
@@ -2828,10 +2824,6 @@ Source: [News API](https://newsapi.org/)
 - [Dengue: 2025 começa com mortes e 2º maior recorde de casos da história](https://www.metropoles.com/brasil/dengue-2025-comeca-com-mortes-e-2o-maior-recorde-de-casos-da-historia) (Metropoles.com)
 
 - [Saúde vai distribuir 6,5 milhões de testes rápidos de dengue a estados](https://veja.abril.com.br/coluna/radar/saude-vai-distribuir-65-milhoes-de-testes-rapidos-de-dengue-a-estados) (Abril.com.br)
-
-- [Dengue: Especialista ensina como usar o hipoclorito de sódio no combate ao Aedes aegypti](https://catracalivre.com.br/saude-bem-estar/dengue-combate-ao-aedes-aegypti/) (Catracalivre.com.br)
-
-- [Dengue: governo quer imunizante no programa de vacinação em 2026](https://www.metropoles.com/colunas/igor-gadelha/dengue-governo-quer-imunizante-em-programa-de-vacinacao-em-2026) (Metropoles.com)
 
 ## 25-4 (chikungunya)
 
@@ -2909,6 +2901,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-10 (meningitis)
 
+- [Deel je graag je e-sigaret met vrienden? Een arts beschreef afschrikwekkende redenen waarom je met deze gewoonte zou moeten stoppen](https://newsmonkey.be/deel-e-sigaret-vrienden-arts-beschreef-afschrikwekkende-redenen-waarom-gewoonte-stoppen/) (Newsmonkey.be)
+
 - [Poisoning or bacterial meningitis could be behind dozens of mysterious deaths in the Democratic Republic of the Congo](https://www.livescience.com/health/viruses-infections-disease/poisoning-or-bacterial-meningitis-could-be-behind-dozens-of-mysterious-deaths-in-the-democratic-republic-of-the-congo) (Live Science)
 
 - [Estado de salud44 del Papa: Malamente bien.](https://finofilipino.org/estado-de-salud44-del-papa-malamente-bien/) (Finofilipino.org)
@@ -2916,6 +2910,10 @@ Source: [News API](https://newsapi.org/)
 - [Rekrut nach Meningitis-Verdacht verstorben](https://burgenland.orf.at/stories/3295408/) (Burgenland.orf.at)
 
 ## 25-10 (measles)
+
+- [This young Texas doctor only read about measles. Now she's a leading expert amid outbreak.](https://www.usatoday.com/story/life/health-wellness/2025/03/06/texas-measles-outbreak-vaccines/81612632007/) (USA Today)
+
+- [How to Decode RFK Jr.’s Dog Whistle Messages on the Measles Vaccine](https://newrepublic.com/article/192389/rfk-jr-measles-vaccine-cod-liver-oil-vitamin-a) (The New Republic)
 
 - [Robert F. Kennedy Jr says vitamin A protects you from deadly measles. Here’s what the study he cites actually says](https://theconversation.com/robert-f-kennedy-jr-says-vitamin-a-protects-you-from-deadly-measles-heres-what-the-study-he-cites-actually-says-251465) (The Conversation Africa)
 
@@ -3071,6 +3069,14 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-10 (malaria)
 
+- [Macherinnen im Check: Wie Rokhaya Diagne Malaria den Kampf ansagt](https://www.brigitte.de/aktuell/gesellschaft/gesellschaft--wie-rokhaya-diagne-malaria-den-kampf-ansagt-13947712.html) (Brigitte.de)
+
+- [EU revierte recortes a programas contra la malaria y la tuberculosis; ayuda exterior sigue en el limbo](https://forbes.com.mx/eu-revierte-recortes-a-programas-contra-la-malaria-y-la-tuberculosis-ayuda-exterior-sigue-en-el-limbo/) (Forbes.com.mx)
+
+- [Some malaria, TB programme cuts reversed by US, sources say](https://www.thestar.com.my/news/world/2025/03/06/some-malaria-tb-programme-cuts-reversed-by-us-sources-say) (The Star Online)
+
+- [Leaked USAID Memos Warn 100,000s Will Die from Cuts to Polio, TB, Malaria, Ebola, AIDS Programs](https://www.democracynow.org/2025/3/6/usaid_memo_disease_nicholas_enrich) (Democracy Now!)
+
 - [Implications for malaria transmission: a cross-sectional study on the bionomics and susceptibility of local malaria vectors in urban and periurban settings of Ndola district](https://bmjopen.bmj.com/content/15/3/e091319) (The BMJ)
 
 - [Researchers use a 'Trojan Horse' approach to develop new antimalarial drugs](https://www.sciencedaily.com/releases/2025/03/250305164625.htm) (Science Daily)
@@ -3127,6 +3133,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-10 (hpai)
 
+- [Statutory guidance: Bird flu: licence to move poultry by-products and hatching eggs for disposal from a protection or surveillance zone (EXD389(HPAI)(EW))](https://www.gov.uk/government/publications/bird-flu-licence-to-move-poultry-by-products-and-hatching-eggs-for-disposal-from-a-protection-or-surveillance-zone-exd389hpaiew) (Www.gov.uk)
+
+- [Statutory guidance: Bird flu: licence to move carcasses or samples from live poultry or other captive birds from a protection or surveillance zone (EXD415(HPAI)(EW))](https://www.gov.uk/government/publications/bird-flu-licence-to-move-carcasses-or-samples-from-live-poultry-or-other-captive-birds-from-a-protection-or-surveillance-zone-exd415hpaiew) (Www.gov.uk)
+
 - [Bird Flu Updates: Georgia “Free” Of The Virus, As Companies Hike Egg Prices](https://www.shtfplan.com/headline-news/bird-flu-updates-georgia-free-of-the-virus-as-companies-hike-egg-prices) (Shtfplan.com)
 
 - [U.S. is busting more people with prohibited eggs at the Canadian border](https://nationalpost.com/news/canada/canada-u-s-eggs-border-avian-flu) (National Post)
@@ -3143,6 +3153,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-10 (h5n1)
 
+- [Grippe aviaire: un nouvel élevage de volailles contaminé par la grippe aviaire en Flandre](https://www.lavenir.net/actu/belgique/2025/03/06/grippe-aviaire-un-nouvel-elevage-de-volailles-contamine-par-la-grippe-aviaire-en-flandre-O2OHRZSVQ5HIVEGQ6LVMXE7TBY/) (Lavenir.net)
+
 - [Trump’s Plan to Lower Egg Prices and a Threat to Bird Flu Vaccines Explained](https://www.scientificamerican.com/article/trumps-plan-to-lower-egg-prices-and-a-threat-to-bird-flu-vaccines-explained/) (Scientific American)
 
 - [Crystal Heath, une lanceuse d’alerte face à la propagation de la grippe aviaire en Californie](https://www.lemonde.fr/international/article/2025/03/05/crystal-heath-une-lanceuse-d-alerte-face-a-la-propagation-de-la-grippe-aviaire-en-californie_6576422_3210.html) (Le Monde)
@@ -3152,6 +3164,8 @@ Source: [News API](https://newsapi.org/)
 - [Deadly bird flu on remote island poses new threat to Australia](https://www.abc.net.au/news/science/2025-03-05/bird-flu-infections-alert-australian-island-avian-influenza/105006040) (ABC News (AU))
 
 - [The imbecile RFK Jr. (perhaps aided and abetted by the imbecile Elon Musk) setting the stage for everyone to die in the next pandemic](https://leiterreports.typepad.com/blog/2025/03/the-imbecile-rfk-jr-perhaps-aided-and-abetted-by-the-imbecile-elon-musk-setting-the-stage-for-everyo.html) (Typepad.com)
+
+- [Neutralizing Antibody Response to Influenza A(H5N1) Virus in Dairy Farm Workers, Michigan, USA](https://wwwnc.cdc.gov/eid/article/31/4/25-0007_article) (Cdc.gov)
 
 - [Raw cat food recalled after state testing finds contamination with bird flu](https://www.foodsafetynews.com/2025/03/raw-cat-food-recalled-after-state-testing-finds-contamination-with-bird-flu/) (Food Safety News)
 
