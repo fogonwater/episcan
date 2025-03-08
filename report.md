@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 11
-- **Last harvest:** 2025-03-07 19:05
-- **Most recent article:** 2025-03-06 18:08:00
+- **New articles in last harvest:** 20
+- **Last harvest:** 2025-03-08 07:05
+- **Most recent article:** 2025-03-07 02:10:35
 
 ---
 
@@ -12,9 +12,9 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-10 | 25-4 | 25-5 | 25-6 | 25-7 | 25-8 | 25-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 78 | 10 | 13 | 24 | 72 | 83 | 162 | 442 |
-| h5n1 | 14 | 29 | 51 | 72 | 55 | 54 | 42 | 317 |
-| dengue | 6 | 34 | 24 | 34 | 37 | 57 | 30 | 222 |
+| measles | 95 | 10 | 13 | 24 | 72 | 83 | 162 | 459 |
+| h5n1 | 17 | 31 | 51 | 72 | 55 | 54 | 42 | 322 |
+| dengue | 6 | 36 | 24 | 34 | 37 | 57 | 30 | 224 |
 | mpox | 8 | 23 | 22 | 28 | 18 | 15 | 26 | 140 |
 | malaria | 27 | 18 | 30 | 25 | 12 | 7 | 20 | 139 |
 | hpai | 9 | 11 | 6 | 3 | 9 | 5 | 4 | 47 |
@@ -2755,6 +2755,10 @@ Source: [News API](https://newsapi.org/)
 
 - [美国科学家拉响警报：新型 H5N1 禽流感病毒被发现，正威胁人类健康](https://www.ithome.com/0/825/921.htm) (Ithome.com)
 
+- [CDC Urges Increased Testing For Bird Flu](https://www.shtfplan.com/headline-news/cdc-urges-increased-testing-for-bird-flu) (Shtfplan.com)
+
+- [První úmrtí člověka na ptačí chřipku vyvolává otázku, zda jsme připraveni na další pandemii](https://vtm.zive.cz/clanky/prvni-umrti-cloveka-na-ptaci-chripku-vyvolava-otazku-zda-jsme-pripraveni-na-dalsi-pandemii/sc-870-a-232411/default.aspx) (Zive.cz)
+
 ## 25-4 (dengue)
 
 - [Joga lixo na rua? GDF usará drones para multar sujões. Veja valores](https://www.metropoles.com/distrito-federal/joga-lixo-na-rua-gdf-usara-drones-para-multar-sujoes-veja-valores) (Metropoles.com)
@@ -2824,6 +2828,10 @@ Source: [News API](https://newsapi.org/)
 - [Dengue: 2025 começa com mortes e 2º maior recorde de casos da história](https://www.metropoles.com/brasil/dengue-2025-comeca-com-mortes-e-2o-maior-recorde-de-casos-da-historia) (Metropoles.com)
 
 - [Saúde vai distribuir 6,5 milhões de testes rápidos de dengue a estados](https://veja.abril.com.br/coluna/radar/saude-vai-distribuir-65-milhoes-de-testes-rapidos-de-dengue-a-estados) (Abril.com.br)
+
+- [Dengue: Especialista ensina como usar o hipoclorito de sódio no combate ao Aedes aegypti](https://catracalivre.com.br/saude-bem-estar/dengue-combate-ao-aedes-aegypti/) (Catracalivre.com.br)
+
+- [Dengue: governo quer imunizante no programa de vacinação em 2026](https://www.metropoles.com/colunas/igor-gadelha/dengue-governo-quer-imunizante-em-programa-de-vacinacao-em-2026) (Metropoles.com)
 
 ## 25-4 (chikungunya)
 
@@ -2911,6 +2919,38 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-10 (measles)
 
+- [Unvaccinated New Mexico adult tests positive for measles after death](https://www.voanews.com/a/unvaccinated-new-mexico-adult-tests-positive-for-measles-after-death-/8002037.html) (VOA News)
+
+- [New travel-related measles case identified in Metro Vancouver](https://www.cbc.ca/news/canada/british-columbia/travel-related-measles-in-metro-vancouver-1.7477245) (CBC News)
+
+- [Another Kennedy Killing](https://www.lawyersgunsmoneyblog.com/2025/03/another-kennedy-killing) (Lawyersgunsmoneyblog.com)
+
+- [Her daughter just finished cancer treatment. Now this Windsor, Ont., mom is worrying about measles](https://www.cbc.ca/news/canada/windsor/measles-ontario-windsor-mom-immunocompromised-vaccines-1.7476946) (CBC News)
+
+- [The New York Times Mocks RFK Jr for Vitamin A Guidance to Combat Texas Measles Outbreak](https://legalinsurrection.com/2025/03/the-new-york-times-mocks-rfk-jr-for-vitamin-a-guidance-to-combat-texas-measles-outbreak/) (Legalinsurrection.com)
+
+- [New Mexico adult dies with measles, though cause of death isn’t yet confirmed](https://www.bostonherald.com/2025/03/06/new-mexico-measles/) (Boston Herald)
+
+- [Jack Schlossberg Demands Cheryl Hines Apologize for Child’s Death From Measles | Video](https://www.thewrap.com/jack-schlossberg-demands-apology-cheryl-hines-child-measles-death/) (TheWrap)
+
+- [New Mexico resident tests positive for measles after dying](https://www.cbsnews.com/news/measles-new-mexico-death-investigation/) (CBS News)
+
+- [Measles Outbreak: Deceased Man In New Mexico Tested Positive, But Cause Of Death Is Unconfirmed](https://www.forbes.com/sites/antoniopequenoiv/2025/03/06/measles-outbreak-deceased-man-in-new-mexico-tested-positive-but-cause-of-death-is-unconfirmed/) (Forbes)
+
+- [Deeper Understanding of Measles Outbreak](https://www.activistpost.com/deeper-understanding-of-measles-outbreak/) (Activistpost.com)
+
+- [Measles-Infected Adult Dies in New Mexico](https://www.newsweek.com/measles-infected-adult-dies-new-mexico-2040952) (Newsweek)
+
+- [RFK's Vitamin A recommendation for measles worries disease experts](https://www.npr.org/2025/03/06/nx-s1-5319161/rfks-vitamin-a-recommendation-for-measles-worries-disease-experts) (NPR)
+
+- [Second death reported in growing measles outbreak (Lena H. Sun/Washington Post)](https://www.memeorandum.com/250306/p138) (Memeorandum.com)
+
+- [JFK’s Grandson Trolls Cheryl Hines Over Measles Death](https://www.thedailybeast.com/jfks-grandson-jack-schlossberg-trolls-cheryl-hines-over-measles-death/) (Daily Beast)
+
+- [Canada reports increase in measles cases, urges vaccination](https://www.voanews.com/a/canada-reports-increase-in-measles-cases-urges-vaccination/8001574.html) (VOA News)
+
+- [JFK's Grandson Calls On RFK Jr.'s Wife to Apologize to Family of Child Who Died of Measles in Flirtatious Video](https://www.ibtimes.com/jfks-grandson-calls-rfk-jrs-wife-apologize-family-child-who-died-measles-flirtatious-video-3765397) (International Business Times)
+
 - [This young Texas doctor only read about measles. Now she's a leading expert amid outbreak.](https://www.usatoday.com/story/life/health-wellness/2025/03/06/texas-measles-outbreak-vaccines/81612632007/) (USA Today)
 
 - [How to Decode RFK Jr.’s Dog Whistle Messages on the Measles Vaccine](https://newrepublic.com/article/192389/rfk-jr-measles-vaccine-cod-liver-oil-vitamin-a) (The New Republic)
@@ -2932,6 +2972,8 @@ Source: [News API](https://newsapi.org/)
 - [JFK Travelers Put on Red Alert for Recent Potential Measles Exposure](https://yourmileagemayvary.com/2025/03/05/jfk-travelers-put-on-red-alert-for-recent-potential-measles-exposure/) (Yourmileagemayvary.com)
 
 - [Measles Outbreak Spreads to Florida](https://www.newsweek.com/measles-outbreak-florida-student-texas-vaccine-2039791) (Newsweek)
+
+- [Texas Reports 13 New Measles Cases as CDC Arrives in State](https://www.insurancejournal.com/news/southcentral/2025/03/05/814201.htm) (Insurance Journal)
 
 - [In Ontario's Elgin County, worry about a measles resurgence and a 60-year-old cautionary tale](https://www.cbc.ca/news/canada/london/in-elgin-county-worry-about-a-measles-resurgence-and-a-60-year-old-cautionary-tale-1.7474424) (CBC News)
 
@@ -3152,6 +3194,12 @@ Source: [News API](https://newsapi.org/)
 - [Voluntary Recall of Wild Coast Raw Boneless Free Range Chicken Formula Raw Pet Food Because of Possible Bird Flu Health Risk](https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/voluntary-recall-wild-coast-raw-boneless-free-range-chicken-formula-raw-pet-food-because-possible) (FDA.gov)
 
 ## 25-10 (h5n1)
+
+- [바이러스에는 국경이 없는데…끝나지 않은 팬데믹의 경고](https://newspeppermint.com/2025/03/06/npsps_pandemic/) (Newspeppermint.com)
+
+- [Bird flu is on the rise across the US. Are cats at risk?](https://meowtel.com/blog/post/bird-flu-is-on-the-rise-across-the-us-are-cats-at-risk) (Meowtel.com)
+
+- [Will Bird Flu Bring the Second Pandemic of the Century? Will We Be Ready?](https://dnascience.plos.org/2025/03/06/will-bird-flu-bring-the-second-pandemic-of-the-century-will-we-be-ready/) (Plos.org)
 
 - [Grippe aviaire: un nouvel élevage de volailles contaminé par la grippe aviaire en Flandre](https://www.lavenir.net/actu/belgique/2025/03/06/grippe-aviaire-un-nouvel-elevage-de-volailles-contamine-par-la-grippe-aviaire-en-flandre-O2OHRZSVQ5HIVEGQ6LVMXE7TBY/) (Lavenir.net)
 

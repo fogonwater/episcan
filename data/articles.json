@@ -1,8 +1,350 @@
 {
-  "last_updated": "2025-03-07 19:05",
-  "count_articles_total": 1448,
-  "count_articles_new": 11,
+  "last_updated": "2025-03-08 07:05",
+  "count_articles_total": 1472,
+  "count_articles_new": 20,
   "articles": [
+    {
+      "id": 19022,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "VOA News",
+      "author": "webdesk@voanews.com (Reuters)",
+      "title": "Unvaccinated New Mexico adult tests positive for measles after death",
+      "description": "A New Mexico resident who has died, tested positive for measles, the state health department said on Thursday, marking the second measles-related death in the United States in more than a decade. The unvaccinated adult patient did not seek medical care befo\u2026",
+      "url": "https://www.voanews.com/a/unvaccinated-new-mexico-adult-tests-positive-for-measles-after-death-/8002037.html",
+      "urlToImage": "https://gdb.voanews.com/EA6A8D36-907E-4988-90EA-F294A1942309.jpg",
+      "publishedAt": "2025-03-07 02:10:35",
+      "content": "A New Mexico resident who has died, tested positive for measles, the state health department said on Thursday, marking the second measles-related death in the United States in more than a decade. Th\u2026 [+2732 chars]",
+      "retrievedAt": "2025-03-08 07:05:39.878745",
+      "internal_id": "fa5fb88220330cbda91eac81f479c4bfdb40da25edc699233bc67e703d20f0d8",
+      "publishedAtLabel": "Mar 7"
+    },
+    {
+      "id": 19029,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "New travel-related measles case identified in Metro Vancouver",
+      "description": "Another case of measles has been identified in B.C., this time within the Fraser Health region. The case comes as Canada's chief public health officers warns of the danger posed by a rise of infections at home and abroad, coupled with a declining vaccination \u2026",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/travel-related-measles-in-metro-vancouver-1.7477245",
+      "urlToImage": "https://i.cbc.ca/1.7474391.1741129224!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_1180/toronto-vaccine-fight.jpg?im=Resize%3D620",
+      "publishedAt": "2025-03-07 01:55:41",
+      "content": "British Columbia health officials say another travel-related measles infection has been confirmed in the Lower Mainland in a resident who visited Southeast Asia. Fraser Health says in a statement t\u2026 [+1743 chars]",
+      "retrievedAt": "2025-03-08 07:05:40.026658",
+      "internal_id": "b6c1e0bc85d6298ee57958caa8ccd448082a69daddfb53f6c1bda5b99d8a5ed2",
+      "publishedAtLabel": "Mar 7"
+    },
+    {
+      "id": 19026,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Lawyersgunsmoneyblog.com",
+      "author": "Scott Lemieux",
+      "title": "Another Kennedy Killing",
+      "description": "The new Republican orthodoxy on vaccination claims what will definitely not be its last fatality: An unvaccinated New Mexico adult who tested positive for measles has died, the second death in a growing outbreak centered along the Texas-New Mexico border, off\u2026",
+      "url": "https://www.lawyersgunsmoneyblog.com/2025/03/another-kennedy-killing",
+      "urlToImage": "https://www.lawyersgunsmoneyblog.com/wp-content/uploads/2024/10/rfk-jr.png",
+      "publishedAt": "2025-03-07 00:38:23",
+      "content": "An unvaccinated New Mexico adult who tested positive for measles has died, the second death in a growing outbreak centered along the Texas-New Mexico border, officials said Thursday. The individual \u2026 [+916 chars]",
+      "retrievedAt": "2025-03-08 07:05:39.984641",
+      "internal_id": "0ed60a13f57577f54dc25071b8b136f3939a2f264c0e34c1cd0edbb328a4fd1e",
+      "publishedAtLabel": "Mar 7"
+    },
+    {
+      "id": 19017,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Her daughter just finished cancer treatment. Now this Windsor, Ont., mom is worrying about measles",
+      "description": "A local parent whose child has not been able to get fully vaccinated yet says she\u2019s worried after public health officials confirmed a case of measles in the community.",
+      "url": "https://www.cbc.ca/news/canada/windsor/measles-ontario-windsor-mom-immunocompromised-vaccines-1.7476946",
+      "urlToImage": "https://i.cbc.ca/1.7474011.1741098138!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_1180/usa-measles.JPG?im=Resize%3D620",
+      "publishedAt": "2025-03-07 00:34:19",
+      "content": "A local parent whose child has not been able to get fully vaccinated yet says she's fearful after public health officials confirmed a case of measles in the community. The potentially fatal but pr\u2026 [+3839 chars]",
+      "retrievedAt": "2025-03-08 07:05:39.753039",
+      "internal_id": "d37da32cba66b096a49a90d6fed37d5ae216300537bdd95de702628ab86e3f77",
+      "publishedAtLabel": "Mar 7"
+    },
+    {
+      "id": 19027,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Legalinsurrection.com",
+      "author": "Leslie Eastman",
+      "title": "The New York Times Mocks RFK Jr for Vitamin A Guidance to Combat Texas Measles Outbreak",
+      "description": "A great deal of research shows Vitamin A can be of benefit to those infected by measles. The post The New York Times Mocks RFK Jr for Vitamin A Guidance to Combat Texas Measles Outbreak first appeared on Le\u00b7gal In\u00b7sur\u00b7rec\u00b7tion.",
+      "url": "https://legalinsurrection.com/2025/03/the-new-york-times-mocks-rfk-jr-for-vitamin-a-guidance-to-combat-texas-measles-outbreak/",
+      "urlToImage": "https://legalinsurrection.com/wp-content/uploads/2023/07/RFK-Robert-Kennedy-Jr.jpg",
+      "publishedAt": "2025-03-07 00:00:48",
+      "content": "The last time I reported on the Texas measles outbreak, a school-age child had died and the mainstream media was asserting that Health and Human Services Secretary Robert F. Kennedy Jr. was downplayi\u2026 [+4858 chars]",
+      "retrievedAt": "2025-03-08 07:05:39.992407",
+      "internal_id": "5eca97a1f4983cd845c8c41ce60324a32096af321ef3c4bea356510952701402",
+      "publishedAtLabel": "Mar 7"
+    },
+    {
+      "id": 19028,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Boston Herald",
+      "author": "Associated Press",
+      "title": "New Mexico adult dies with measles, though cause of death isn\u2019t yet confirmed",
+      "description": "The person who died was unvaccinated and did not seek medical care,.",
+      "url": "https://www.bostonherald.com/2025/03/06/new-mexico-measles/",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/03/Measles_Outbreak_Texas_03660_16014e.jpg?w=1024&h=683",
+      "publishedAt": "2025-03-06 23:27:19",
+      "content": "By DEVI SHASTRI An adult who was infected with measles has died in New Mexico, state health officials announced Thursday, though the virus has not been confirmed as the cause. The person who died w\u2026 [+1767 chars]",
+      "retrievedAt": "2025-03-08 07:05:40.018983",
+      "internal_id": "2adde686b241f61bd66b66910d93fbc739a323e4538e7cbba8fc360ca2637d97",
+      "publishedAtLabel": "Mar 6"
+    },
+    {
+      "id": 19025,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "TheWrap",
+      "author": null,
+      "title": "Jack Schlossberg Demands Cheryl Hines Apologize for Child\u2019s Death From Measles | Video",
+      "description": "Caroline Kennedy's son calls out the actress who is married to his second cousin, anti-vaccine Trump official Robert F. Kennedy, Jr. The post Jack Schlossberg Demands Cheryl Hines Apologize for Child\u2019s Death From Measles | Video appeared first on TheWrap.",
+      "url": "https://www.thewrap.com/jack-schlossberg-demands-apology-cheryl-hines-child-measles-death/",
+      "urlToImage": "https://www.thewrap.com/wp-content/uploads/2025/03/jake-schlossberg-rfk-cheryl-hines.jpg",
+      "publishedAt": "2025-03-06 23:24:07",
+      "content": "There\u2019s no love lost between Robert F. Kennedy Jr. and the rest of the famous political clan, so it\u2019s not surprising that Jack Schlossberg, the son of Caroline Kennedy, thinks RFK could be doing a lo\u2026 [+1864 chars]",
+      "retrievedAt": "2025-03-08 07:05:39.970988",
+      "internal_id": "150f1c60657b941579a842d63c0569b3ba3cb204f5047afef794e299d43d2d4c",
+      "publishedAtLabel": "Mar 6"
+    },
+    {
+      "id": 19018,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Kierra Frazier",
+      "title": "New Mexico resident tests positive for measles after dying",
+      "description": "If measles is confirmed as the cause of death, it would be the first measles death in New Mexico in at least 40 years, a Health Department spokesperson said.",
+      "url": "https://www.cbsnews.com/news/measles-new-mexico-death-investigation/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/02/27/e12b9281-31dc-434c-9272-34a71d51f50b/thumbnail/1200x630/8f296bdc79146996e7485a71844592a3/cbsn-fusion-texas-mom-with-baby-too-young-for-measles-vaccines-worries-about-outbreak-thumbnail.jpg?v=63a2b43e2ef8917aa6bd547ca29dd4fa",
+      "publishedAt": "2025-03-06 23:23:00",
+      "content": "An unvaccinated adult in New Mexico tested positive for measles after their death, health officials announced Thursday. The New Mexico Department of Health said that the official cause of death is s\u2026 [+1008 chars]",
+      "retrievedAt": "2025-03-08 07:05:39.779361",
+      "internal_id": "0e1ae672befac0047fa8a79078fe27fb16ba68a62b4dae0218faca6c718e759a",
+      "publishedAtLabel": "Mar 6"
+    },
+    {
+      "id": 19016,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Antonio Peque\u00f1o IV, Forbes Staff, \n Antonio Peque\u00f1o IV, Forbes Staff\n https://www.forbes.com/sites/antoniopequenoiv/",
+      "title": "Measles Outbreak: Deceased Man In New Mexico Tested Positive, But Cause Of Death Is Unconfirmed",
+      "description": "A New Mexico county bordering Texas now has 10 confirmed cases of measles after a deceased man tested positive.",
+      "url": "https://www.forbes.com/sites/antoniopequenoiv/2025/03/06/measles-outbreak-deceased-man-in-new-mexico-tested-positive-but-cause-of-death-is-unconfirmed/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67b8dc34f003eb75b733dff5/0x0.jpg?format=jpg&crop=3039,2027,x0,y0,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-03-06 23:14:09",
+      "content": "A deceased man in a New Mexico county experiencing a small measles outbreak and bordering Texaswhere an outbreak of the highly contagious virus in has grown to 159 peopletested positive for measles, \u2026 [+6541 chars]",
+      "retrievedAt": "2025-03-08 07:05:39.720055",
+      "internal_id": "aaabc4ae880ea884c283b2fdce6c41403e406ecb897d24e44e004ed6c68a375d",
+      "publishedAtLabel": "Mar 6"
+    },
+    {
+      "id": 19032,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Newspeppermint.com",
+      "author": "NewsPeppermint",
+      "title": "\ubc14\uc774\ub7ec\uc2a4\uc5d0\ub294 \uad6d\uacbd\uc774 \uc5c6\ub294\ub370\u2026\ub05d\ub098\uc9c0 \uc54a\uc740 \ud32c\ub370\ubbf9\uc758 \uacbd\uace0",
+      "description": "\ucf54\ub85c\ub09819 \ud32c\ub370\ubbf9\uc774 \uc804 \uc138\uacc4\ub97c \ud63c\ub780\uc5d0 \ube60\ud2b8\ub9b0 \uc9c0 5\ub144\uc774 \uc9c0\ub0ac\uc2b5\ub2c8\ub2e4. \uc804 \uc138\uacc4\uc801\uc73c\ub85c \ucd5c\uc18c 2\ucc9c\ub9cc \uba85 \ub118\ub294 \uc0ac\ub9dd\uc790\ub97c \ub0b8 \uc804\uc5fc\ubcd1\uc744 \uc774\uc81c\ub294 \ub2e4 \uadf9\ubcf5\ud558\uace0 \uc815\uc0c1\uc73c\ub85c \ub3cc\uc544\uc628 \uac83 \uac19\uc9c0\ub9cc, \ud32c\ub370\ubbf9 \uc774\uc804\uc73c\ub85c \uc601\uc601 \ub3cc\uc544\uac08 \uc218 \uc5c6\ub294 \uac83\ub4e4\ub3c4 \ub9ce\uc2b5\ub2c8\ub2e4. \uc6b0\ub9ac\ub294 \uc804\ubcf4\ub2e4 \ub354 \ud30c\ud3b8\ud654\ub410\uace0, \ube44\ub300\uba74\uc5d0 \uc775\uc219\ud574\uc84c\uc73c\uba70, \uacfc\ud559\uacfc \uc815\ubd80\ub97c \ud5a5\ud55c \uc2e0\ub8b0\ub3c4 \uc6b0\ub824\ud560 \ub9cc\ud55c \uc218\uc900\uc73c\ub85c \ub0ae\uc544\uc9c4 \uc0ac\ud68c\ub3c4 \uc788\uc2b5\ub2c8\ub2e4. \uc870\ub958\ub3c5\uac10(H5N1)\uc774 \ud32c\ub370\ubbf9\uc73c\ub85c \ubc88\uc9c8 \uc218 \uc788\ub2e4\ub294 \uc6b0\ub824\uac00 \uacc4\uc18d \ub098\uc624\ub294 \uac00\uc6b4\ub370, \uc6b0\ub9ac\uac00 \uacfc\uc5f0 \ub610 \ub2e4\ub978 \ud32c\ub370\ubbf9\uc5d0 \u2026",
+      "url": "https://newspeppermint.com/2025/03/06/npsps_pandemic/",
+      "urlToImage": "https://newspeppermint.com/wp-content/uploads/fb_header_img.png",
+      "publishedAt": "2025-03-06 23:05:02",
+      "content": "\u2026 tags : #H5N1, #RFK Jr., #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #19, #, #, #, #2025 3 7 | By: NewsPeppermint | SBS | No Comment19 5 . 2 , . , , . (H5N1) , . : \u201c 100 \u201d\u2026 [+7 chars]",
+      "retrievedAt": "2025-03-08 07:05:40.676446",
+      "internal_id": "e28ebe8e2f57c0f4c66f618287f6006e37ed25d98c398ce0bc59a7e3c4a95140",
+      "publishedAtLabel": "Mar 6"
+    },
+    {
+      "id": 19033,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Meowtel.com",
+      "author": "Stacker",
+      "title": "Bird flu is on the rise across the US. Are cats at risk?",
+      "description": "If you\u2019ve been shopping for eggs lately, you\u2019re probably aware that prices are rising as the latest bird flu outbreak takes its toll on the nation\u2019s chickens. The most prevalent strain of the disease, H5N1, has been identified in all 50 states and Puerto Rico\u2026",
+      "url": "https://meowtel.com/blog/post/bird-flu-is-on-the-rise-across-the-us-are-cats-at-risk",
+      "urlToImage": "https://www.digitaljournal.com/wp-content/uploads/2025/03/cat-with-chickens_1.jpg",
+      "publishedAt": "2025-03-06 23:02:38",
+      "content": "To help better understand the situation at hand, Meowtel used data from the Department of Agriculture to explore the risk of bird flu in cats. - Irina Kozorog // Shutterstock If you\u2019ve been shoppi\u2026 [+7050 chars]",
+      "retrievedAt": "2025-03-08 07:05:40.704397",
+      "internal_id": "46ef3ed43d4563e83871f5965905ed582faa63351d90993addeaa65338b4d4c9",
+      "publishedAtLabel": "Mar 6"
+    },
+    {
+      "id": 19030,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Activistpost.com",
+      "author": "Editor",
+      "title": "Deeper Understanding of Measles Outbreak",
+      "description": "Note: This article is for informational purposes only and is not a substitute for medical advice, diagnosis, or treatment provided by a qualified healthcare provider. Vaccines have become a kind of religion we are supposed to \u201cbelieve in\u201d without question. Ye\u2026",
+      "url": "https://www.activistpost.com/deeper-understanding-of-measles-outbreak/",
+      "urlToImage": "https://www.activistpost.com/wp-content/uploads/2025/03/Embedded1d0c2d4d016b4cc1a41e0a546d1a056d.png",
+      "publishedAt": "2025-03-06 23:00:00",
+      "content": "Note: This article is for informational purposes only and is not a substitute for medical advice, diagnosis, or treatment provided by a qualified healthcare provider. Vaccines have become a kind of \u2026 [+18367 chars]",
+      "retrievedAt": "2025-03-08 07:05:40.034213",
+      "internal_id": "9051e5a5e8e4a8dedad02edb7ee8ce314044d5b7a8770e1d6e81f71dfdd222f3",
+      "publishedAtLabel": "Mar 6"
+    },
+    {
+      "id": 19024,
+      "query": [
+        "measles"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Gabe Whisnant",
+      "title": "Measles-Infected Adult Dies in New Mexico",
+      "description": "The unvaccinated individual was from Lea County, located near West Texas, where a measles outbreak has resulted in 159 cases.",
+      "url": "https://www.newsweek.com/measles-infected-adult-dies-new-mexico-2040952",
+      "urlToImage": "https://d.newsweek.com/en/full/2602150/measles-vaccine.jpg",
+      "publishedAt": "2025-03-06 22:48:49",
+      "content": "A measles-infected adult has died in New Mexico, state health officials announced Thursday, though it has not been confirmed whether the virus was the direct cause of death. The individual, who was \u2026 [+3348 chars]",
+      "retrievedAt": "2025-03-08 07:05:39.957370",
+      "internal_id": "357c314628f2862232870343fdac408518d3eaa6cc1ce7263ea0e3f0e78b55ab",
+      "publishedAtLabel": "Mar 6"
+    },
+    {
+      "id": 19019,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Maria Godoy",
+      "title": "RFK's Vitamin A recommendation for measles worries disease experts",
+      "description": "Health and Human Services Secretary Robert F. Kennedy, Jr., says the CDC has sent vaccines to Texas, but emphasizes using vitamin A to treat the disease -- worrying infectious disease doctors.",
+      "url": "https://www.npr.org/2025/03/06/nx-s1-5319161/rfks-vitamin-a-recommendation-for-measles-worries-disease-experts",
+      "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+      "publishedAt": "2025-03-06 22:43:46",
+      "content": "Health and Human Services Secretary Robert F. Kennedy, Jr., says the CDC has sent vaccines to Texas, but emphasizes using vitamin A to treat the disease \u2014 worrying infectious disease doctors.",
+      "retrievedAt": "2025-03-08 07:05:39.830704",
+      "internal_id": "d953e115ce73f0199e7d7dbb8abd0393f6ffc972fe03e6547df63be1b26efa0f",
+      "publishedAtLabel": "Mar 6"
+    },
+    {
+      "id": 19023,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "Second death reported in growing measles outbreak (Lena H. Sun/Washington Post)",
+      "description": "Lena H. Sun / Washington Post: Second death reported in growing measles outbreak \u2014 The death of a New Mexico adult comes eight days after a 6-year-old child succumbed to the disease in Texas last week. \u2014 just now \u2014 An unvaccinated New Mexico adult who t\u2026",
+      "url": "https://www.memeorandum.com/250306/p138",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DKNWJAPXHTCBD7DOTQSMVYDNL4.JPG&w=1440",
+      "publishedAt": "2025-03-06 22:40:01",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-03-08 07:05:39.923949",
+      "internal_id": "5956fd503778f29d55bd36743d39880379fa46e87bf74aa3d847e0a4cb8fa922",
+      "publishedAtLabel": "Mar 6"
+    },
+    {
+      "id": 19015,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Daily Beast",
+      "author": "Eboni Boykin-Patterson",
+      "title": "JFK\u2019s Grandson Trolls Cheryl Hines Over Measles Death",
+      "description": "John F. Kennedy\u2019s grandson Jack Schlossberg is trolling his cousin Robert F. Kennedy Jr.\u2019s wife Cheryl Hines for the recent\u2014and incredibly rare\u2014death of a...",
+      "url": "https://www.thedailybeast.com/jfks-grandson-jack-schlossberg-trolls-cheryl-hines-over-measles-death/",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/4zka_HRIXWbblMR1xNYveQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzI-/https://media.zenfs.com/en/thedailybeast.com/6a63b63a2d23663152382c4dab11cd12",
+      "publishedAt": "2025-03-06 21:17:31",
+      "content": "John F. Kennedys grandson Jack Schlossberg is trolling his cousin Robert F. Kennedy Jr.s wife Cheryl Hines for the recentand incredibly raredeath of a child from measles in the U.S. Schlossberg to\u2026 [+1980 chars]",
+      "retrievedAt": "2025-03-08 07:05:39.677693",
+      "internal_id": "cd45cc2b9fc99f8360810f4291b4a4ffd073b7734fd41e427966b7eaac27fff0",
+      "publishedAtLabel": "Mar 6"
+    },
+    {
+      "id": 19021,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "VOA News",
+      "author": "webdesk@voanews.com (Reuters)",
+      "title": "Canada reports increase in measles cases, urges vaccination",
+      "description": "Canada is seeing a noticeable increase in measles cases this year, with more reported in the first two months of 2025 than all of last year, the country's health agency said on Thursday and urged citizens to get vaccinated. The Public Health Agency of Cana\u2026",
+      "url": "https://www.voanews.com/a/canada-reports-increase-in-measles-cases-urges-vaccination/8001574.html",
+      "urlToImage": "https://gdb.voanews.com/A2A89D05-38B8-489C-9BCB-2344176FBBA4.jpg",
+      "publishedAt": "2025-03-06 20:19:38",
+      "content": "Canada is seeing a noticeable increase in measles cases this year, with more reported in the first two months of 2025 than all of last year, the country's health agency said on Thursday and urged cit\u2026 [+1747 chars]",
+      "retrievedAt": "2025-03-08 07:05:39.858160",
+      "internal_id": "52b5e07aa338232d06f1ad91b9b28ad89763756d5c4532d9a73fa821e96fb21b",
+      "publishedAtLabel": "Mar 6"
+    },
+    {
+      "id": 19020,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "International Business Times",
+      "author": null,
+      "title": "JFK's Grandson Calls On RFK Jr.'s Wife to Apologize to Family of Child Who Died of Measles in Flirtatious Video",
+      "description": "Jack Schlossberg, JFK's grandson, shared multiple social media videos imploring RFK Jr.'s wife, actress Cheryl Hines, to contact the family of the child who died from the measles outbreak in Texas and apologize.",
+      "url": "https://www.ibtimes.com/jfks-grandson-calls-rfk-jrs-wife-apologize-family-child-who-died-measles-flirtatious-video-3765397",
+      "urlToImage": "https://d.ibtimes.com/en/full/4585393/jack-cheryl-03062025-1.jpg",
+      "publishedAt": "2025-03-06 19:58:59",
+      "content": "Former president John F. Kennedy's grandson, Jack Schlossberg, shared a flirtatious Instagram video on Thursday to encourage Robert F. Kennedy, Jr.'s wife, actress Cheryl Hines, to apologize to the f\u2026 [+1463 chars]",
+      "retrievedAt": "2025-03-08 07:05:39.838218",
+      "internal_id": "10313838f9a22324bebe4efda1a076b3890304b7c9dffe6c24156ef7ad608d47",
+      "publishedAtLabel": "Mar 6"
+    },
+    {
+      "id": 19034,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Ricki Lewis, PhD",
+      "title": "Will Bird Flu Bring the Second Pandemic of the Century? Will We Be Ready?",
+      "description": "As memories of the COVID years fade, fears of a coming influenza pandemic are mounting, given recent transmission of H5N1 bird flu\u2026 The post Will Bird Flu Bring the Second Pandemic of the Century? Will We Be Ready? appeared first on DNA Science.",
+      "url": "https://dnascience.plos.org/2025/03/06/will-bird-flu-bring-the-second-pandemic-of-the-century-will-we-be-ready/",
+      "urlToImage": "https://dnascience.plos.org/wp-content/uploads/sites/12/2025/03/IMG_8484.jpg",
+      "publishedAt": "2025-03-06 19:19:38",
+      "content": "As memories of the COVID years fade, fears of a coming influenza pandemic are mounting, given recent transmission of H5N1 bird flu among cattle, cats, and a few people. A letter published today inSci\u2026 [+8748 chars]",
+      "retrievedAt": "2025-03-08 07:05:40.718415",
+      "internal_id": "ebf2625d28739af5a4ed5243c5d1d53d4e896d35d8b48cbea71b098dfa33d898",
+      "publishedAtLabel": "Mar 6"
+    },
     {
       "id": 19010,
       "query": [
@@ -578,6 +920,24 @@
       "content": "Florida has recorded its first measles case of the year amid an outbreak in states across the country. A student at Miami Palmetto Senior High School in Pinecrest has been diagnosed with the disease\u2026 [+4764 chars]",
       "retrievedAt": "2025-03-06 19:05:54.353991",
       "internal_id": "694242cf4658b272cf802922f282260dfb452370f4cbf8d4eda54e03f83c4504",
+      "publishedAtLabel": "Mar 5"
+    },
+    {
+      "id": 19031,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Insurance Journal",
+      "author": "Admin",
+      "title": "Texas Reports 13 New Measles Cases as CDC Arrives in State",
+      "description": "Texas reported 13 new cases of measles Tuesday even as the US Centers for Disease Control and Prevention is sending a team of epidemiologists and doctors to help the state with the growing outbreak. The state has now reported a \u2026",
+      "url": "https://www.insurancejournal.com/news/southcentral/2025/03/05/814201.htm",
+      "urlToImage": "https://www.insurancejournal.com/img/social/opengraph/ij-social-default-1200x630.png",
+      "publishedAt": "2025-03-05 11:30:16",
+      "content": "Texas reported 13 new cases of measles Tuesday even as the US Centers for Disease Control and Prevention is sending a team of epidemiologists and doctors to help the state with the growing outbreak. \u2026 [+3101 chars]",
+      "retrievedAt": "2025-03-08 07:05:40.042390",
+      "internal_id": "a9c6420c48ca859fa1a13381be262d5e86aa5a975b7189810a9de8a42ecb651e",
       "publishedAtLabel": "Mar 5"
     },
     {
@@ -26117,6 +26477,78 @@
       "content": "Oferta Rel\u00e2mpago: 4 revistas pelo pre\u00e7o de uma! Aedes aegypti: a picada da f\u00eamea do mosquito transmite a dengue (Divulga\u00e7\u00e3o/Divulga\u00e7\u00e3o) Continua ap\u00f3s publicidade O Minist\u00e9rio da Sa\u00fade vai distribu\u2026 [+952 chars]",
       "retrievedAt": "2025-01-21 07:06:20.719045",
       "internal_id": "502de82804265c8547ec4cfd22927d8a990b6b75818f525812b4561692d98b69",
+      "publishedAtLabel": "Jan 19"
+    },
+    {
+      "id": 17563,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Shtfplan.com",
+      "author": "Mac Slavo",
+      "title": "CDC Urges Increased Testing For Bird Flu",
+      "description": "As the media continues to push forward with the bird flu narrative. The Centers for Disease Control and Prevention have suggested that healthcare workers accelerate bird flu testing for patients hospitalized with flu symptoms as the H5N1 avian influenza outbr\u2026",
+      "url": "https://www.shtfplan.com/headline-news/cdc-urges-increased-testing-for-bird-flu",
+      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2023/12/bird-flu1.jpg",
+      "publishedAt": "2025-01-19 18:30:53",
+      "content": "As the media continues to push forward with the bird flu narrative. The Centers for Disease Control and Prevention have suggested that healthcare workers accelerate bird flu testing for patients hosp\u2026 [+2228 chars]",
+      "retrievedAt": "2025-01-20 19:05:48.523076",
+      "internal_id": "994713215544b42535086f4ce20c52d2645cf584d449998cc44d68847b889a02",
+      "publishedAtLabel": "Jan 19"
+    },
+    {
+      "id": 17564,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Zive.cz",
+      "author": "Karel Kili\u00e1n",
+      "title": "Prvn\u00ed \u00famrt\u00ed \u010dlov\u011bka na pta\u010d\u00ed ch\u0159ipku vyvol\u00e1v\u00e1 ot\u00e1zku, zda jsme p\u0159ipraveni na dal\u0161\u00ed pandemii",
+      "description": "",
+      "url": "https://vtm.zive.cz/clanky/prvni-umrti-cloveka-na-ptaci-chripku-vyvolava-otazku-zda-jsme-pripraveni-na-dalsi-pandemii/sc-870-a-232411/default.aspx",
+      "urlToImage": "https://www.zive.cz/getthumbnail.aspx?q=100&height=20000&width=20000&id_file=924558027",
+      "publishedAt": "2025-01-19 13:45:00",
+      "content": "Na za\u00e1tku leton\u00edho roku okovala veejnost zpr\u00e1va o prvn\u00edm \u00famrt\u00ed lovka v USA v dsledku pta\u00ed chipky H5N1. Star\u00ed mu z Louisiany, kter\u00fd byl v kontaktu s nakaen\u00fdmi pt\u00e1ky, podlehl tk\u00fdm respiran\u00edm komplikac\u00ed\u2026 [+3383 chars]",
+      "retrievedAt": "2025-01-20 19:05:48.712772",
+      "internal_id": "7155ac7915807811b6a0b6efb9ae01d3d8f5733480982476190cde0dd80cac33",
+      "publishedAtLabel": "Jan 19"
+    },
+    {
+      "id": 17566,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Catracalivre.com.br",
+      "author": "Andr\u00e9 Nicolau",
+      "title": "Dengue: Especialista ensina como usar o hipoclorito de s\u00f3dio no combate ao Aedes aegypti",
+      "description": "No ver\u00e3o aumenta o risco da dengue: aprenda a proteger sua casa do Aedes aegypti, mosquito transmissor da doen\u00e7a.",
+      "url": "https://catracalivre.com.br/saude-bem-estar/dengue-combate-ao-aedes-aegypti/",
+      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1280,h=680,fit=cover,format=jpeg/wp-content/uploads/2024/01/istock-183256299.jpg",
+      "publishedAt": "2025-01-19 12:00:41",
+      "content": "Casos de dengue triplicam em 2024 iStock/flubydust - iStock/flubydust Durante o ver\u00e3o, os casos de dengue aumentam consideravelmente. Isso acontece devido \u00e0 alta incid\u00eancia de chuvas em grande part\u2026 [+3503 chars]",
+      "retrievedAt": "2025-01-20 19:05:49.251975",
+      "internal_id": "e96f2e755416d68f1f032efdfae7ff9dcf6b4ed81e61f916e674ef2b451a70e8",
+      "publishedAtLabel": "Jan 19"
+    },
+    {
+      "id": 17565,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Milena Teixeira",
+      "title": "Dengue: governo quer imunizante no programa de vacina\u00e7\u00e3o em 2026",
+      "description": "Governo quer incorporar a vacina do Instituto Butantan, que ainda deve ser certificada, no Plano Nacional de Imuniza\u00e7\u00f5es",
+      "url": "https://www.metropoles.com/colunas/igor-gadelha/dengue-governo-quer-imunizante-em-programa-de-vacinacao-em-2026",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2025/01/06072339/dengue-7.jpg",
+      "publishedAt": "2025-01-19 08:00:00",
+      "content": "O Minist\u00e9rio da Sa\u00fade planeja ampliar a aplica\u00e7\u00e3o da vacina contra a dengue para mais p\u00fablicos at\u00e9 o final deste ano. Atualmente, o Sistema \u00danico de Sa\u00fade disponibiliza o imunizante apenas para crian\u2026 [+1240 chars]",
+      "retrievedAt": "2025-01-20 19:05:49.226468",
+      "internal_id": "5c1f3c4df86ee1f5ac8ca50f9a8bc0e3815d667441450e231da38962262e73cb",
       "publishedAtLabel": "Jan 19"
     }
   ]
