@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
 - **New articles in last harvest:** 20
-- **Last harvest:** 2025-03-08 07:05
-- **Most recent article:** 2025-03-07 02:10:35
+- **Last harvest:** 2025-03-08 19:05
+- **Most recent article:** 2025-03-07 18:30:50
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-10 | 25-4 | 25-5 | 25-6 | 25-7 | 25-8 | 25-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 95 | 10 | 13 | 24 | 72 | 83 | 162 | 459 |
-| h5n1 | 17 | 31 | 51 | 72 | 55 | 54 | 42 | 322 |
-| dengue | 6 | 36 | 24 | 34 | 37 | 57 | 30 | 224 |
+| measles | 107 | 10 | 13 | 24 | 72 | 83 | 162 | 471 |
+| h5n1 | 20 | 29 | 51 | 72 | 55 | 54 | 42 | 323 |
+| dengue | 7 | 34 | 24 | 34 | 37 | 57 | 30 | 223 |
+| malaria | 28 | 18 | 30 | 25 | 12 | 7 | 20 | 140 |
 | mpox | 8 | 23 | 22 | 28 | 18 | 15 | 26 | 140 |
-| malaria | 27 | 18 | 30 | 25 | 12 | 7 | 20 | 139 |
-| hpai | 9 | 11 | 6 | 3 | 9 | 5 | 4 | 47 |
-| chikungunya | 5 | 10 | 9 | 8 | 5 | 3 | 7 | 47 |
+| chikungunya | 6 | 10 | 9 | 8 | 5 | 3 | 7 | 48 |
+| hpai | 10 | 11 | 6 | 3 | 9 | 5 | 4 | 48 |
 | meningitis | 4 | 2 | 8 | 2 | 12 | 11 | 7 | 46 |
-| rabies | 2 | 7 | 6 | 4 | 5 | 4 | 2 | 30 |
+| rabies | 3 | 7 | 6 | 4 | 5 | 4 | 2 | 31 |
 | zika | 3 | 2 | 8 | 6 | 2 | 6 | 2 | 29 |
 | typhoid | 3 | 0 | 0 | 2 | 3 | 0 | 4 | 12 |
 | pertussis | 0 | 1 | 0 | 3 | 3 | 2 | 0 | 9 |
@@ -2755,10 +2755,6 @@ Source: [News API](https://newsapi.org/)
 
 - [美国科学家拉响警报：新型 H5N1 禽流感病毒被发现，正威胁人类健康](https://www.ithome.com/0/825/921.htm) (Ithome.com)
 
-- [CDC Urges Increased Testing For Bird Flu](https://www.shtfplan.com/headline-news/cdc-urges-increased-testing-for-bird-flu) (Shtfplan.com)
-
-- [První úmrtí člověka na ptačí chřipku vyvolává otázku, zda jsme připraveni na další pandemii](https://vtm.zive.cz/clanky/prvni-umrti-cloveka-na-ptaci-chripku-vyvolava-otazku-zda-jsme-pripraveni-na-dalsi-pandemii/sc-870-a-232411/default.aspx) (Zive.cz)
-
 ## 25-4 (dengue)
 
 - [Joga lixo na rua? GDF usará drones para multar sujões. Veja valores](https://www.metropoles.com/distrito-federal/joga-lixo-na-rua-gdf-usara-drones-para-multar-sujoes-veja-valores) (Metropoles.com)
@@ -2829,10 +2825,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Saúde vai distribuir 6,5 milhões de testes rápidos de dengue a estados](https://veja.abril.com.br/coluna/radar/saude-vai-distribuir-65-milhoes-de-testes-rapidos-de-dengue-a-estados) (Abril.com.br)
 
-- [Dengue: Especialista ensina como usar o hipoclorito de sódio no combate ao Aedes aegypti](https://catracalivre.com.br/saude-bem-estar/dengue-combate-ao-aedes-aegypti/) (Catracalivre.com.br)
-
-- [Dengue: governo quer imunizante no programa de vacinação em 2026](https://www.metropoles.com/colunas/igor-gadelha/dengue-governo-quer-imunizante-em-programa-de-vacinacao-em-2026) (Metropoles.com)
-
 ## 25-4 (chikungunya)
 
 - [Natural exposure to Chikungunya virus in golden-headed lion tamarin (Leontopithecus chrysomelas, Kuhl, 1820) from non-protected areas in southern Bahia, Brazil: Implications and significance](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012695) (Plos.org)
@@ -2885,6 +2877,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-10 (rabies)
 
+- [Raccoon tests positive for rabies in Forsyth County, officials say](https://www.wsbtv.com/news/local/forsyth-county/raccoon-tests-positive-rabies-forsyth-county-officials-say/VBBWAMMRSBGKNAEEWJATHRRNOE/) (WSB Atlanta)
+
 - [Genomic characterization of a dog-mediated rabies outbreak in El Pedregal, Arequipa, Peru](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012396) (Plos.org)
 
 - [چرا خون‌آشام‌ها در فرهنگ‌های مختلف داستان‌های متفاوتی دارند؟](https://www.1pezeshk.com/archives/2025/03/why-do-vampires-have-different-stories-in-various-cultures.html) (1pezeshk.com)
@@ -2918,6 +2912,30 @@ Source: [News API](https://newsapi.org/)
 - [Rekrut nach Meningitis-Verdacht verstorben](https://burgenland.orf.at/stories/3295408/) (Burgenland.orf.at)
 
 ## 25-10 (measles)
+
+- [Measles Outbreak: Cases In Texas Near 200 After Deceased Man In New Mexico Tested Positive](https://www.forbes.com/sites/antoniopequenoiv/2025/03/07/measles-outbreak-cases-in-texas-near-200-after-deceased-man-in-new-mexico-tested-positive/) (Forbes)
+
+- [Second Measles Death Confirmed as Unvaccinated Adult Tests Positive Posthumously](https://www.ibtimes.com/second-measles-death-confirmed-unvaccinated-adult-tests-positive-posthumously-3765529) (International Business Times)
+
+- [Amid a growing measles outbreak, doctors worry RFK Jr. is sending the wrong message (Maria Godoy/NPR)](https://www.memeorandum.com/250307/p59) (Memeorandum.com)
+
+- [Second person dies in US measles outbreak](https://www.bbc.com/news/articles/cm2nzyjgrwxo) (BBC News)
+
+- [RFK Jr. Has Doctors Freaking Out as Second Measles Death Reported](https://newrepublic.com/post/192474/robert-f-kennedy-jr-doctors-second-measles-death) (The New Republic)
+
+- [Texas School Celebrates Having Lowest Vaccination Rate as Deadly Measles Outbreak Spreads: 'Not the Flex Y'all Think It Is'](https://www.ibtimes.com/texas-school-celebrates-having-lowest-vaccination-rate-deadly-measles-outbreak-spreads-not-flex-3765497) (International Business Times)
+
+- [What is measles immune amnesia? Doctor explains the impact to immunity](https://www.cbsnews.com/news/what-is-measles-immune-amnesia/) (CBS News)
+
+- [2nd measles death reported in US outbreak was in New Mexico adult](https://www.livescience.com/health/viruses-infections-disease/2nd-measles-death-reported-in-us-outbreak-was-in-new-mexico-adult) (Live Science)
+
+- [Measles outbreak spreads as experts warn of lasting immune effects](https://www.cbsnews.com/video/measles-outbreak-spreads-as-experts-warn-of-lasting-immune-effects/) (CBS News)
+
+- [Make Public-Health Officials Stay in Their Lane Again](https://www.theatlantic.com/ideas/archive/2025/03/rfk-public-health-officials-overreach/681950/) (The Atlantic)
+
+- [How a measles outbreak overwhelmed a small West Texas town](https://www.npr.org/2025/03/07/nx-s1-5312107/how-a-measles-outbreak-overwhelmed-a-small-west-texas-town) (NPR)
+
+- [Everything Old Is New Again, Again](https://sciencebasedmedicine.org/newagain/) (Sciencebasedmedicine.org)
 
 - [Unvaccinated New Mexico adult tests positive for measles after death](https://www.voanews.com/a/unvaccinated-new-mexico-adult-tests-positive-for-measles-after-death-/8002037.html) (VOA News)
 
@@ -3111,6 +3129,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-10 (malaria)
 
+- [Uganda begins malaria vaccine distribution ahead of mass rollout in April](https://www.thestar.com.my/news/world/2025/03/08/uganda-begins-malaria-vaccine-distribution-ahead-of-mass-rollout-in-april) (The Star Online)
+
 - [Macherinnen im Check: Wie Rokhaya Diagne Malaria den Kampf ansagt](https://www.brigitte.de/aktuell/gesellschaft/gesellschaft--wie-rokhaya-diagne-malaria-den-kampf-ansagt-13947712.html) (Brigitte.de)
 
 - [EU revierte recortes a programas contra la malaria y la tuberculosis; ayuda exterior sigue en el limbo](https://forbes.com.mx/eu-revierte-recortes-a-programas-contra-la-malaria-y-la-tuberculosis-ayuda-exterior-sigue-en-el-limbo/) (Forbes.com.mx)
@@ -3175,6 +3195,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-10 (hpai)
 
+- [Helpport AI (NASDAQ:HPAI) Trading Down 4.8% – Here’s Why](https://www.etfdailynews.com/2025/03/07/helpport-ai-nasdaqhpai-trading-down-4-8-heres-why/) (ETF Daily News)
+
 - [Statutory guidance: Bird flu: licence to move poultry by-products and hatching eggs for disposal from a protection or surveillance zone (EXD389(HPAI)(EW))](https://www.gov.uk/government/publications/bird-flu-licence-to-move-poultry-by-products-and-hatching-eggs-for-disposal-from-a-protection-or-surveillance-zone-exd389hpaiew) (Www.gov.uk)
 
 - [Statutory guidance: Bird flu: licence to move carcasses or samples from live poultry or other captive birds from a protection or surveillance zone (EXD415(HPAI)(EW))](https://www.gov.uk/government/publications/bird-flu-licence-to-move-carcasses-or-samples-from-live-poultry-or-other-captive-birds-from-a-protection-or-surveillance-zone-exd415hpaiew) (Www.gov.uk)
@@ -3194,6 +3216,12 @@ Source: [News API](https://newsapi.org/)
 - [Voluntary Recall of Wild Coast Raw Boneless Free Range Chicken Formula Raw Pet Food Because of Possible Bird Flu Health Risk](https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/voluntary-recall-wild-coast-raw-boneless-free-range-chicken-formula-raw-pet-food-because-possible) (FDA.gov)
 
 ## 25-10 (h5n1)
+
+- [Experts Warn “The World” To Prepare For A Bird Flu Plandemic](https://www.shtfplan.com/headline-news/experts-warn-the-world-to-prepare-for-a-bird-flu-plandemic) (Shtfplan.com)
+
+- [BREAKING - RFK Jr. and Federal Health Agencies Wisely Oppose Mass H5N1 Animal Vaccination Over Mutation Concerns](https://www.thefocalpoints.com/p/breaking-rfk-jr-and-federal-health) (Thefocalpoints.com)
+
+- [Bird flu warning issued as experts call for 'immediate action' to prevent pandemic - 'Enhancing readiness now can save lives!'](https://www.gbnews.com/health/bird-flu-warning-pandemic-human-symptom-h5n1-strain) (Gbnews.com)
 
 - [바이러스에는 국경이 없는데…끝나지 않은 팬데믹의 경고](https://newspeppermint.com/2025/03/06/npsps_pandemic/) (Newspeppermint.com)
 
@@ -3231,6 +3259,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-10 (dengue)
 
+- [Dengue: Roupa repelente de insetos se esgota nas lojas](https://www.terra.com.br/vida-e-estilo/saude/dengue-roupa-repelente-de-insetos-se-esgota-nas-lojas,51163d928c7ab165d0c9154bcc8cd921zao3hcn9.html) (Terra.com.br)
+
 - [Dengue: entenda os cuidados que pais devem ter com saúde das crianças](https://www.metropoles.com/saude/dengue-cuidados-criancas) (Metropoles.com)
 
 - [Into the spotlight: A spatial study of potentially underreported leptospirosis among dengue-negative patients in São Paulo city, Brazil](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012888) (Plos.org)
@@ -3244,6 +3274,8 @@ Source: [News API](https://newsapi.org/)
 - [Ssa: este año, mil 781 casos de dengue y cero muertes](https://www.jornada.com.mx/2025/03/02/sociedad/027n1soc) (Jornada.com.mx)
 
 ## 25-10 (chikungunya)
+
+- [Chikungunya virus in Europe: A retrospective epidemiology study from 2007 to 2023](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012904) (Plos.org)
 
 - [Un premier cas importé de chikungunya identifié à Mayotte](https://www.francetvinfo.fr/france/mayotte/un-premier-cas-importe-de-chikungunya-identifie-a-mayotte_7111764.html) (Francetvinfo.fr)
 
