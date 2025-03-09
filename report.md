@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 15
-- **Last harvest:** 2025-03-09 07:05
-- **Most recent article:** 2025-03-08 05:16:28
+- **New articles in last harvest:** 10
+- **Last harvest:** 2025-03-09 19:05
+- **Most recent article:** 2025-03-08 18:56:39
 
 ---
 
@@ -12,12 +12,12 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-10 | 25-5 | 25-6 | 25-7 | 25-8 | 25-9 | Total |
 |--|-|-|-|-|-|-|-|
-| measles | 118 | 13 | 24 | 72 | 83 | 162 | 472 |
-| h5n1 | 22 | 51 | 72 | 55 | 54 | 42 | 296 |
-| dengue | 7 | 24 | 34 | 37 | 57 | 30 | 189 |
-| malaria | 28 | 30 | 25 | 12 | 7 | 20 | 122 |
-| mpox | 10 | 21 | 28 | 18 | 15 | 26 | 118 |
-| meningitis | 4 | 8 | 2 | 12 | 11 | 7 | 44 |
+| measles | 123 | 12 | 24 | 72 | 83 | 162 | 476 |
+| h5n1 | 23 | 48 | 72 | 55 | 54 | 42 | 294 |
+| dengue | 7 | 23 | 34 | 37 | 57 | 30 | 188 |
+| malaria | 29 | 29 | 25 | 12 | 7 | 20 | 122 |
+| mpox | 13 | 21 | 28 | 18 | 15 | 26 | 121 |
+| meningitis | 4 | 7 | 2 | 12 | 11 | 7 | 43 |
 | chikungunya | 6 | 9 | 8 | 5 | 3 | 7 | 38 |
 | hpai | 10 | 6 | 3 | 9 | 5 | 4 | 37 |
 | zika | 3 | 8 | 6 | 2 | 6 | 2 | 27 |
@@ -2243,8 +2243,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Detectado un brote de meningitis en un colegio de Zaragoza con dos casos confirmados](https://www.huffingtonpost.es/sociedad/detectado-brote-meningitis-colegio-zaragoza-dos-casos-confirmadosbr.html) (Huffingtonpost.es)
 
-- [Rueda reivindica a Galicia como "líder" en la vacunación de la meningitis al contar con el calendario "más completo"](https://www.europapress.es/galicia/noticia-rueda-reivindica-galicia-lider-vacunacion-meningitis-contar-calendario-mas-completo-20250126115823.html) (Europapress.es)
-
 ## 25-5 (measles)
 
 - [Samoa's Health Chief Says RFK Jr. Spread Anti-Vax Misinformation Before Deadly Measles Outbreak](https://www.democracynow.org/2025/1/31/rfk_jr_measles_samoa) (Democracy Now!)
@@ -2270,8 +2268,6 @@ Source: [News API](https://newsapi.org/)
 - [Measles case confirmed in metro Atlanta](https://www.wsbtv.com/news/local/atlanta/measles-case-confirmed-metro-atlanta/ZYX6H3AHMJCDHNL6WUG5ESHTJY/) (WSB Atlanta)
 
 - [First case of measles in the state for the year reported, Georgia DPH says](https://www.fox5atlanta.com/news/first-case-measles-state-year-reported-georgia-dph-says) (FOX 5 Atlanta)
-
-- [Asha workers to identify 1 million children for MMR vaccination, special campaigns soon](https://www.livemint.com/industry/asha-workers-mmr-vaccination-special-campaigns-mumps-measles-rubella-accredited-social-health-activist-11737708760867.html) (Livemint)
 
 ## 25-5 (malaria)
 
@@ -2332,8 +2328,6 @@ Source: [News API](https://newsapi.org/)
 - [El grupo rebelde M23, apoyado por Ruanda, toma el control de la ciudad congolesa de Goma y 3.000 presos huyen de la cárcel](https://www.elespanol.com/mundo/20250127/grupo-rebelde-m23-apoyado-ruanda-toma-control-ciudad-congolesa-goma-presos-huyen-carcel/919658315_0.html) (Elespanol.com)
 
 - [Nigerian govt reaffirms commitment to malaria elimination](https://www.premiumtimesng.com/health/health-news/769668-nigerian-govt-reaffirms-commitment-to-malaria-elimination.html) (Premium Times)
-
-- [Georgia is malaria-free](https://www.thehindubusinessline.com/specials/pulse/georgia-is-malaria-free/article69142650.ece) (BusinessLine)
 
 ## 25-5 (hpai)
 
@@ -2447,12 +2441,6 @@ Source: [News API](https://newsapi.org/)
 
 - [News story: Human case of avian flu detected in England](https://www.gov.uk/government/news/human-case-of-avian-flu-detected-in-england) (Www.gov.uk)
 
-- [Infectious Disease “Experts”: Bird Feces In The Wind Could Spread Avian Influenza](https://www.shtfplan.com/headline-news/infectious-disease-experts-bird-feces-in-the-wind-could-spread-avian-influenza) (Shtfplan.com)
-
-- [Massachusetts bird flu: chicken farms on alert as H5N1 suspected in state](https://www.bostonglobe.com/2025/01/26/business/bird-flu-mass-chicken-farms/) (The Boston Globe)
-
-- [FDA recommends pet food companies revisit safety plans amid bird flu outbreak](https://www.nbcnews.com/health/health-news/raw-pet-food-bird-flu-outbreak-cats-fda-guidance-rcna189011) (NBC News)
-
 ## 25-5 (dengue)
 
 - [Dengue: a preocupação (e desafio) do marqueteiro de Lula](https://veja.abril.com.br/politica/dengue-a-preocupacao-e-desafio-do-marqueteiro-de-lula) (Abril.com.br)
@@ -2500,8 +2488,6 @@ Source: [News API](https://newsapi.org/)
 - [Bacolod: NegOcc dengue cases up 296 percent](https://rpnradio.com/bacolod-negocc-dengue-cases-up-296-percent/) (Rpnradio.com)
 
 - [Goiás registra 1ª morte por dengue no ano. Seis casos são investigados](https://www.metropoles.com/brasil/goias-registra-1a-morte-por-dengue-no-ano-seis-casos-sao-investigados) (Metropoles.com)
-
-- [Sociedade médica alerta para baixa procura da vacina contra a dengue; sorotipo 3 preocupa](https://valor.globo.com/brasil/noticia/2025/01/26/sociedade-medica-alerta-para-baixa-procura-da-vacina-contra-a-dengue-sorotipo-3-preocupa.ghtml) (Globo)
 
 ## 25-5 (chikungunya)
 
@@ -2561,6 +2547,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-10 (mpox)
 
+- [Ministério da Saúde confirma primeiro caso de nova variante de mpox em São Paulo](https://veja.abril.com.br/saude/ministerio-da-saude-confirma-primeiro-caso-de-nova-variante-de-mpox-em-sao-paulo) (Abril.com.br)
+
+- [São Paulo registra primeiro caso de nova cepa de mpox no Brasil](https://www.terra.com.br/vida-e-estilo/saude/sao-paulo-registra-primeiro-caso-de-nova-cepa-de-mpox-no-brasil,84f6a6f06785763d5f0932dccd7872dcwuhxhcz6.html) (Terra.com.br)
+
+- [São Paulo registra primeiro caso de nova cepa de mpox no Brasil](https://www.infomoney.com.br/saude/sao-paulo-registra-primeiro-caso-de-nova-cepa-de-mpox-no-brasil/) (InfoMoney)
+
 - [Mpox: SP registra primeira ocorrência de nova cepa no Brasil](https://olhardigital.com.br/2025/03/07/medicina-e-saude/mpox-sp-registra-primeira-ocorrencia-de-nova-cepa-no-brasil/) (Olhardigital.com.br)
 
 - [Mpox: moradora da Grande SP é o 1º caso de nova cepa da doença no país](https://www.metropoles.com/sao-paulo/mpox-moradora-da-grande-sp-e-o-1o-caso-de-nova-cepa-da-doenca-no-pais) (Metropoles.com)
@@ -2592,6 +2584,16 @@ Source: [News API](https://newsapi.org/)
 - [Rekrut nach Meningitis-Verdacht verstorben](https://burgenland.orf.at/stories/3295408/) (Burgenland.orf.at)
 
 ## 25-10 (measles)
+
+- [While Unvaxed Die Of Measles, CDC To Waste Money On Vax/Autism Study](https://crooksandliars.com/2025/03/while-unvaxed-die-measles-cdc-waste-money) (Crooksandliars.com)
+
+- [Measles cases jump 35% in week; Now in 12 states...](https://www.livemint.com/news/us-news/us-measles-cases-jump-35-in-a-week-now-found-in-12-states-11741405555623.html) (Livemint)
+
+- [Texas cities run short of MMR vaccine as measles outbreak drives demand (Melody Schreiber/The Guardian)](https://www.memeorandum.com/250308/p22) (Memeorandum.com)
+
+- [RFK Jr.'s dangerous measles rhetoric is diverting attention from the real defense](https://www.msnbc.com/opinion/msnbc-opinion/measles-deaths-texas-rfk-jr-vaccines-rcna195401) (MSNBC)
+
+- [A play-by-play of how measles outbreaks can spiral out of control](https://www.cbc.ca/news/health/measles-second-opinion-march-2025-1.7476500) (CBC News)
 
 - [WATCH: Bald eagle nest cam captures live hatch in California](https://abcnews.go.com/WNT/video/bald-eagle-nest-cam-captures-live-hatch-california-119576698) (ABC News)
 
@@ -2831,6 +2833,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-10 (malaria)
 
+- [Ministry of Health to Issue Antimalarial Medicines in Turkana Starting June](https://www.kenyans.co.ke/news/109743-ministry-health-issue-antimalarial-medicines-turkana-starting-june) (Kenyans.co.ke)
+
 - [Uganda begins malaria vaccine distribution ahead of mass rollout in April](https://www.thestar.com.my/news/world/2025/03/08/uganda-begins-malaria-vaccine-distribution-ahead-of-mass-rollout-in-april) (The Star Online)
 
 - [Macherinnen im Check: Wie Rokhaya Diagne Malaria den Kampf ansagt](https://www.brigitte.de/aktuell/gesellschaft/gesellschaft--wie-rokhaya-diagne-malaria-den-kampf-ansagt-13947712.html) (Brigitte.de)
@@ -2918,6 +2922,8 @@ Source: [News API](https://newsapi.org/)
 - [Voluntary Recall of Wild Coast Raw Boneless Free Range Chicken Formula Raw Pet Food Because of Possible Bird Flu Health Risk](https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/voluntary-recall-wild-coast-raw-boneless-free-range-chicken-formula-raw-pet-food-because-possible) (FDA.gov)
 
 ## 25-10 (h5n1)
+
+- [Cientistas alertam para risco de pandemia com gripe aviária](https://www.tecmundo.com.br/mercado/403186-cientistas-alertam-para-risco-de-pandemia-com-gripe-aviaria.htm) (Tecmundo.com.br)
 
 - [창원 주남저수지, 7일부터 출입통제 해제](https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003108918) (Ohmynews.com)
 

@@ -1,8 +1,188 @@
 {
-  "last_updated": "2025-03-09 07:05",
-  "count_articles_total": 1358,
-  "count_articles_new": 15,
+  "last_updated": "2025-03-09 19:05",
+  "count_articles_total": 1361,
+  "count_articles_new": 10,
   "articles": [
+    {
+      "id": 19078,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Simone Blanes",
+      "title": "Minist\u00e9rio da Sa\u00fade confirma primeiro caso de nova variante de mpox em S\u00e3o Paulo",
+      "description": "Mulher de 29 anos est\u00e1 internada no Instituto Em\u00edlio Ribas e teve contato com parente do Congo",
+      "url": "https://veja.abril.com.br/saude/ministerio-da-saude-confirma-primeiro-caso-de-nova-variante-de-mpox-em-sao-paulo",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2023/06/fachado-do-ministerio-da-saude.png?crop=1&resize=1080,565",
+      "publishedAt": "2025-03-08 18:56:39",
+      "content": "Clique e Assine VEJA a partir de R$ 5,99Minist\u00e9rio da Sa\u00fade: confirma\u00e7\u00e3o de nova cepa de mpox em S\u00e3o Paulo (reprodu\u00e7\u00e3o/Reprodu\u00e7\u00e3o) Continua ap\u00f3s publicidade Nesta sexta-feira 7, o Minist\u00e9rio da Sa\u00fa\u2026 [+1304 chars]",
+      "retrievedAt": "2025-03-09 19:05:16.381106",
+      "internal_id": "e14bf97a18a8c716922ee460c88b8f31bbdd2df6556d4d26a4dbb2f7eed79301",
+      "publishedAtLabel": "Mar 8"
+    },
+    {
+      "id": 19077,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Estad\u00e3o Conte\u00fado",
+      "title": "S\u00e3o Paulo registra primeiro caso de nova cepa de mpox no Brasil",
+      "description": "O Minist\u00e9rio da Sa\u00fade confirmou nesta sexta-feira, 7, o primeiro caso de mpox no Brasil causado ...",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/sao-paulo-registra-primeiro-caso-de-nova-cepa-de-mpox-no-brasil,84f6a6f06785763d5f0932dccd7872dcwuhxhcz6.html",
+      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2025-03-08 17:26:08",
+      "content": "O Minist\u00e9rio da Sa\u00fade confirmou nesta sexta-feira, 7, o primeiro caso de mpox no Brasil causado por uma nova cepa do v\u00edrus, a 1b. A paciente \u00e9 uma mulher de 29 anos da regi\u00e3o metropolitana de S\u00e3o Pau\u2026 [+3453 chars]",
+      "retrievedAt": "2025-03-09 19:05:16.372895",
+      "internal_id": "d46c0eba3eb7dbe90b15c6b3f74938bee6aa9adfc202dbf99cd024c93597b007",
+      "publishedAtLabel": "Mar 8"
+    },
+    {
+      "id": 19072,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Crooksandliars.com",
+      "author": "NewsHound Ellen",
+      "title": "While Unvaxed Die Of Measles, CDC To Waste Money On Vax/Autism Study",
+      "description": "There is already strong scientific evidence that there is no connection between vaccines and autism. But, in the midst of one of the largest measles outbreaks in a decade, fueled by declining vaccination rates, the unqualified hack Donald Trump decided to put\u2026",
+      "url": "https://crooksandliars.com/2025/03/while-unvaxed-die-measles-cdc-waste-money",
+      "urlToImage": "https://crooksandliars.com/files/primary_image/25/03/trump_kennedy_for_030725.jpg",
+      "publishedAt": "2025-03-08 16:00:35",
+      "content": "There is already strong scientific evidence that there is no connection between vaccines and autism. But, in the midst of one of the largest measles outbreaks in a decade, fueled by declining vaccina\u2026 [+2312 chars]",
+      "retrievedAt": "2025-03-09 19:05:13.982151",
+      "internal_id": "9bf46e9febbf94abc9f86eaf7466f2bded0e82537470949f1537440173f5eb2b",
+      "publishedAtLabel": "Mar 8"
+    },
+    {
+      "id": 19070,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Livemint",
+      "author": "list.metadata.agency",
+      "title": "Measles cases jump 35% in week; Now in 12 states...",
+      "description": "Measles cases jump 35% in week; Now in 12 states... (Third column, 1st story, link) Related stories:Doctors push back as parents resist vaccines in Texas... CDC plans study into jabs and autism...",
+      "url": "https://www.livemint.com/news/us-news/us-measles-cases-jump-35-in-a-week-now-found-in-12-states-11741405555623.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/NEWS_1733464049847_1733464070835.jpg",
+      "publishedAt": "2025-03-08 15:43:45",
+      "content": "(Bloomberg) -- US measles cases jumped by a third over the past week, according to Centers for Disease Control and Prevention data, a worrying sign in the outbreak thats already linked to two deaths.\u2026 [+3315 chars]",
+      "retrievedAt": "2025-03-09 19:05:13.858307",
+      "internal_id": "b73f69c825ea6173b272670b40ddd6323baec9f3249c19aae6ecca6e8fe18e1a",
+      "publishedAtLabel": "Mar 8"
+    },
+    {
+      "id": 19074,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "Texas cities run short of MMR vaccine as measles outbreak drives demand (Melody Schreiber/The Guardian)",
+      "description": "Melody Schreiber / The Guardian: Texas cities run short of MMR vaccine as measles outbreak drives demand \u2014 Pharmacies are struggling with supplies as fatal outbreak expands and health secretary sows disinformation \u2014 As measles cases continue to grow in Te\u2026",
+      "url": "https://www.memeorandum.com/250308/p22",
+      "urlToImage": "https://i.guim.co.uk/img/media/77acbce0c987dcb3fa2aefd62c9e3e28498b00d9/0_643_6472_3883/master/6472.jpg?width=300&dpr=2&s=none",
+      "publishedAt": "2025-03-08 15:15:00",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-03-09 19:05:14.119346",
+      "internal_id": "69fef05beb8ca6dcd23bb3a473569fe7ce2c9fb0114b913809d77ed1a7196bb7",
+      "publishedAtLabel": "Mar 8"
+    },
+    {
+      "id": 19076,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Kenyans.co.ke",
+      "author": "Ken Muthomi",
+      "title": "Ministry of Health to Issue Antimalarial Medicines in Turkana Starting June",
+      "description": "Ministry of Health to Issue Antimalarial Medicines in Turkana Starting Junekenyans.co.ke",
+      "url": "https://www.kenyans.co.ke/news/109743-ministry-health-issue-antimalarial-medicines-turkana-starting-june",
+      "urlToImage": "https://www.kenyans.co.ke/files/styles/article_style/public/images/media/malaria%20vaccine.jpg?itok=OiKk_FA5",
+      "publishedAt": "2025-03-08 14:17:30",
+      "content": "The Ministry of Health is set to administer the second round of seasonal malaria chemoprevention (SMC) to curb the accelerating rate of malaria cases during the May and September seasons in Turkana C\u2026 [+2930 chars]",
+      "retrievedAt": "2025-03-09 19:05:15.846479",
+      "internal_id": "b01fe29c85d6eff6db93a4ef8b229fe700114c5b59b82908409a617e89bd57b6",
+      "publishedAtLabel": "Mar 8"
+    },
+    {
+      "id": 19079,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "info-money",
+      "source_name": "InfoMoney",
+      "author": "Paulo Barros",
+      "title": "S\u00e3o Paulo registra primeiro caso de nova cepa de mpox no Brasil",
+      "description": "O pa\u00eds teve um surto nacional da doen\u00e7a em dezembro de 2022, e o surgimento da cepa 1b motivou um \u201caumento significativo\u201d de casos The post S\u00e3o Paulo registra primeiro caso de nova cepa de mpox no Brasil appeared first on InfoMoney.",
+      "url": "https://www.infomoney.com.br/saude/sao-paulo-registra-primeiro-caso-de-nova-cepa-de-mpox-no-brasil/",
+      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2024/08/53003331503_f132a2c9c2_c.jpg?quality=70",
+      "publishedAt": "2025-03-08 14:14:08",
+      "content": "O Minist\u00e9rio da Sa\u00fade confirmou nesta sexta-feira (7) o primeiro caso de mpox no Brasil causado por uma nova cepa do v\u00edrus, a 1b. A paciente \u00e9 uma mulher de 29 anos da regi\u00e3o metropolitana de S\u00e3o Pau\u2026 [+2586 chars]",
+      "retrievedAt": "2025-03-09 19:05:16.388404",
+      "internal_id": "cad726ce128f92072d4d92289892f8e8533e1bcd3176afcbaec4db4572b66861",
+      "publishedAtLabel": "Mar 8"
+    },
+    {
+      "id": 19073,
+      "query": [
+        "measles"
+      ],
+      "source_id": "msnbc",
+      "source_name": "MSNBC",
+      "author": "Dr. Kavita Patel",
+      "title": "RFK Jr.'s dangerous measles rhetoric is diverting attention from the real defense",
+      "description": "While the measles virus is spreading across Texas and other states, Robert F. Kennedy Jr. remains soft on vaccines.",
+      "url": "https://www.msnbc.com/opinion/msnbc-opinion/measles-deaths-texas-rfk-jr-vaccines-rcna195401",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-03/250307-RFK-Jr-aa-426-9ef31d.jpg",
+      "publishedAt": "2025-03-08 11:00:00",
+      "content": "The measles virus now spreading across Texas and other states doesnt care about political posturing. But when two deaths occur the first fatalities in a decade and our health secretary responds with \u2026 [+4624 chars]",
+      "retrievedAt": "2025-03-09 19:05:14.038971",
+      "internal_id": "4efe3565d80655dda606d73fee3b79a2add1f76d56fbef218e1d4709b6136fa6",
+      "publishedAtLabel": "Mar 8"
+    },
+    {
+      "id": 19075,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Tecmundo.com.br",
+      "author": "Renato Mota",
+      "title": "Cientistas alertam para risco de pandemia com gripe avi\u00e1ria",
+      "description": "Especialistas em sa\u00fade p\u00fablica soaram o alarme sobre a propaga\u00e7\u00e3o do H5N1 entre gado leiteiro e humanos, destacando que o v\u00edrus j\u00e1 conseguiu se adaptar e circular entre mam\u00edferos. Embora os casos humanos tenham sido leves at\u00e9 agora, a muta\u00e7\u00e3o do v\u00edrus represe\u2026",
+      "url": "https://www.tecmundo.com.br/mercado/403186-cientistas-alertam-para-risco-de-pandemia-com-gripe-aviaria.htm",
+      "urlToImage": "https://tm.ibxk.com.br/2025/03/07/07165328649232.jpg?ims=1200xorig",
+      "publishedAt": "2025-03-08 09:06:00",
+      "content": "Especialistas em sa\u00fade p\u00fablica soaram o alarme sobre a propaga\u00e7\u00e3o do H5N1 entre gado leiteiro e humanos, destacando que o v\u00edrus j\u00e1 conseguiu se adaptar e circular entre mam\u00edferos. Embora os casos hum\u2026 [+875 chars]",
+      "retrievedAt": "2025-03-09 19:05:14.752612",
+      "internal_id": "cf187e22093cacdfe8f4e0ec4c1ac1ee15c8ffc97716f7a8152561cbed2adc2b",
+      "publishedAtLabel": "Mar 8"
+    },
+    {
+      "id": 19071,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "A play-by-play of how measles outbreaks can spiral out of control",
+      "description": "As measles infections tick up and up across multiple provinces, local public health alerts of new cases come with detailed descriptions of the person's whereabouts before they were diagnosed. Here's why the dates and times matter to control the contagious ill\u2026",
+      "url": "https://www.cbc.ca/news/health/measles-second-opinion-march-2025-1.7476500",
+      "urlToImage": "https://i.cbc.ca/1.7476522.1741363278!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/2202122665.jpg?im=Resize%3D620",
+      "publishedAt": "2025-03-08 09:00:00",
+      "content": "This story is part of CBC Health's Second Opinion, a weekly analysis of health and medical science news emailed to subscribers on Saturday mornings. If you haven't subscribed yet, you can do that by \u2026 [+7693 chars]",
+      "retrievedAt": "2025-03-09 19:05:13.900933",
+      "internal_id": "3dcefe808c22811fd845cadddf358481a9ec72c2316d463e2ce3bfa3865c29fb",
+      "publishedAtLabel": "Mar 8"
+    },
     {
       "id": 19066,
       "query": [
@@ -24366,132 +24546,6 @@
       "content": "Goi\u00e2nia \u2013 Goi\u00e1s registrou a primeira morte por dengue no estado neste ano de 2025. Segundo informa\u00e7\u00f5es da Secretaria de Sa\u00fade de Goi\u00e1s (SES-GO), o caso foi na cidade de Heitorai, no centro goiano. C\u2026 [+2301 chars]",
       "retrievedAt": "2025-01-28 07:06:26.469513",
       "internal_id": "d399c5b754980be912654a4e88828514e2a56e9e8c555fc593bff96b9edbb3f1",
-      "publishedAtLabel": "Jan 26"
-    },
-    {
-      "id": 17712,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Shtfplan.com",
-      "author": "Mac Slavo",
-      "title": "Infectious Disease \u201cExperts\u201d: Bird Feces In The Wind Could Spread Avian Influenza",
-      "description": "Infectious disease \"experts\" in Minnesota are now claiming that \"windblown\" bird feces could spread the H5N1 avian influenza. Dr. Michael Osterholm hosts a podcast at the University of Minnesota called \"Osterholm Update,\" where he discusses the latest outbrea\u2026",
-      "url": "https://www.shtfplan.com/headline-news/infectious-disease-experts-bird-feces-in-the-wind-could-spread-avian-influenza",
-      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2024/12/birdflu1.jpg",
-      "publishedAt": "2025-01-26 18:00:48",
-      "content": "Infectious disease \u201cexperts\u201d in Minnesota are now claiming that \u201cwindblown\u201d bird feces could spread the H5N1 avian influenza. Dr. Michael Osterholm hosts a podcast at the University of Minnesota call\u2026 [+1963 chars]",
-      "retrievedAt": "2025-01-27 19:05:41.573787",
-      "internal_id": "327f0a90665da14f00990d5d69ce4e14a6f3649e1cd2f9dcb2db25b95e7f895b",
-      "publishedAtLabel": "Jan 26"
-    },
-    {
-      "id": 17715,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "globo",
-      "source_name": "Globo",
-      "author": null,
-      "title": "Sociedade m\u00e9dica alerta para baixa procura da vacina contra a dengue; sorotipo 3 preocupa",
-      "description": "Sorotipo 3 n\u00e3o circula de forma predominante no pa\u00eds desde 2008 e grande parte da popula\u00e7\u00e3o est\u00e1 suscet\u00edvel ao DENV-3",
-      "url": "https://valor.globo.com/brasil/noticia/2025/01/26/sociedade-medica-alerta-para-baixa-procura-da-vacina-contra-a-dengue-sorotipo-3-preocupa.ghtml",
-      "urlToImage": "https://s2-valor.glbimg.com/aM8uxs52bkxYOrDs8fcwzJSatng=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2024/F/2/n0zs2aSXyBHcYsi6KDvw/mosquito-4998145-1920.jpeg",
-      "publishedAt": "2025-01-26 14:31:24",
-      "content": "Moeda americana chegou a atingir R$ 5,86 na m\u00ednima do dia, em meio ao bom humor global com Trump, mas desconforto com medidas estudadas pelo governo brasileiro para conter a alta de alimentos pesou n\u2026 [+7 chars]",
-      "retrievedAt": "2025-01-27 19:05:41.965111",
-      "internal_id": "35a99a1dcba4ac0e7ca6ab1140b68d2007cbcdcf79c6c7188bf8ca1d1889dfb8",
-      "publishedAtLabel": "Jan 26"
-    },
-    {
-      "id": 17711,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Livemint",
-      "author": "Priyanka Sharma",
-      "title": "Asha workers to identify 1 million children for MMR vaccination, special campaigns soon",
-      "description": "The government is aiming to achieve 100% coverage to eliminate mumps, measles and rubella by 2026.",
-      "url": "https://www.livemint.com/industry/asha-workers-mmr-vaccination-special-campaigns-mumps-measles-rubella-accredited-social-health-activist-11737708760867.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2025/01/26/1600x900/Not-Real-News--0_1682410928524_1737899278480.jpg",
-      "publishedAt": "2025-01-26 13:59:13",
-      "content": "New Delhi: The campaign to eliminate mumps, measles and rubella is set to scaled up by identifying children who are yet to be vaccinated for MMRby 2026. As many as 1 million children have still not \u2026 [+2345 chars]",
-      "retrievedAt": "2025-01-27 19:05:40.262673",
-      "internal_id": "af7eca8bc6606e9b2f07829a6b45ed4a2b7a08f4abf193606b97efec07181176",
-      "publishedAtLabel": "Jan 26"
-    },
-    {
-      "id": 17714,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "The Boston Globe",
-      "author": "Maren Halpin",
-      "title": "Massachusetts bird flu: chicken farms on alert as H5N1 suspected in state",
-      "description": "State officials suspect the avian flu has killed dozens of wild birds in Boston, Amherst, and Plymouth, and farmers are stepping up precautions.",
-      "url": "https://www.bostonglobe.com/2025/01/26/business/bird-flu-mass-chicken-farms/",
-      "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/3VNTCS6WOH36W2XKHEOURISYIY.jpg?auth=1a116965f8701559103bf34278c22faf76c29ee8041ceb759b4554119df008a5&width=1440",
-      "publishedAt": "2025-01-26 13:46:42",
-      "content": "It makes me sick thinking about it, said Anne Diemand Bucci, co-owner of Diemand Farm in Wendell, in north-central Massachusetts, where she has as many as 2,000 egg-laying hens. It would be devastati\u2026 [+5418 chars]",
-      "retrievedAt": "2025-01-27 19:05:41.652967",
-      "internal_id": "c7228e5a5fffd5db7fa328afc631d2f1956c1bb4f1f31095120e4e3e90f6f656",
-      "publishedAtLabel": "Jan 26"
-    },
-    {
-      "id": 17713,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "nbc-news",
-      "source_name": "NBC News",
-      "author": "Linda Carroll",
-      "title": "FDA recommends pet food companies revisit safety plans amid bird flu outbreak",
-      "description": "The FDA has advised pet food companies to revisit food safety plans as a growing number of cats have gotten sick or died from eating food contaminated with bird flu.",
-      "url": "https://www.nbcnews.com/health/health-news/raw-pet-food-bird-flu-outbreak-cats-fda-guidance-rcna189011",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-01/250125-cat-ch-1445-7758a7.jpg",
-      "publishedAt": "2025-01-26 12:00:00",
-      "content": "As a growing number of cats have gotten sick or died after consuming raw pet food or raw milk contaminated with the H5N1 virus, health officials have advised pet food companies to take extra precauti\u2026 [+5575 chars]",
-      "retrievedAt": "2025-01-27 19:05:41.599442",
-      "internal_id": "dbabadc785796e9ee706387224cc1be36eda7b767f3529cc6277660dc9c82333",
-      "publishedAtLabel": "Jan 26"
-    },
-    {
-      "id": 17717,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "BusinessLine",
-      "author": "Team BL",
-      "title": "Georgia is malaria-free",
-      "description": "Georgia achieves malaria-free status after decades of dedicated efforts, paving the way for WHO European region certification.",
-      "url": "https://www.thehindubusinessline.com/specials/pulse/georgia-is-malaria-free/article69142650.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/39ji2o/article69143208.ece/alternates/LANDSCAPE_1200/BL2701_Pulse_Capsule.jpg",
-      "publishedAt": "2025-01-26 11:39:30",
-      "content": "Following a nearly century-long effort, Georgia has been certified malaria-free by the World Health Organization (WHO). It joins the league of 45 other countries and one territory that have achieved \u2026 [+1775 chars]",
-      "retrievedAt": "2025-01-27 19:05:42.574176",
-      "internal_id": "fe679b72aa71e1b9c8ad8c4c4dfc18496e3c5cbdfc103d5a3500ead3dda6cf85",
-      "publishedAtLabel": "Jan 26"
-    },
-    {
-      "id": 17716,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Europapress.es",
-      "author": null,
-      "title": "Rueda reivindica a Galicia como \"l\u00edder\" en la vacunaci\u00f3n de la meningitis al contar con el calendario \"m\u00e1s completo\"",
-      "description": "El presidente de la Xunta, Alfonso Rueda, se ha reunido esta semana con representantes de la Asociaci\u00f3n Espa\u00f1ola de Meningitis, un encuentro en el que ha reivindicado a Galicia como \"l\u00edder\" en la vacunaci\u00f3n contra esta enfermedad infecciosa al contar con el c\u2026",
-      "url": "https://www.europapress.es/galicia/noticia-rueda-reivindica-galicia-lider-vacunacion-meningitis-contar-calendario-mas-completo-20250126115823.html",
-      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20250126115823_1200.jpg",
-      "publishedAt": "2025-01-26 10:58:23",
-      "content": "SANTIAGO DE COMPOSTELA 26 Ene. (EUROPA PRESS) - El presidente de la Xunta, Alfonso Rueda, se ha reunido esta semana con representantes de la Asociaci\u00f3n Espa\u00f1ola de Meningitis, un encuentro en el q\u2026 [+1426 chars]",
-      "retrievedAt": "2025-01-27 19:05:42.128438",
-      "internal_id": "78e6688bc8805e4493bf3e062c60e5cf8e7b2e4b081fb7297c47003e7656b898",
       "publishedAtLabel": "Jan 26"
     }
   ]
