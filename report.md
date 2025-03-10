@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 10
-- **Last harvest:** 2025-03-09 19:05
-- **Most recent article:** 2025-03-08 18:56:39
+- **New articles in last harvest:** 14
+- **Last harvest:** 2025-03-10 07:06
+- **Most recent article:** 2025-03-09 07:00:00
 
 ---
 
@@ -10,23 +10,23 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 25-10 | 25-5 | 25-6 | 25-7 | 25-8 | 25-9 | Total |
-|--|-|-|-|-|-|-|-|
-| measles | 123 | 12 | 24 | 72 | 83 | 162 | 476 |
-| h5n1 | 23 | 48 | 72 | 55 | 54 | 42 | 294 |
-| dengue | 7 | 23 | 34 | 37 | 57 | 30 | 188 |
-| malaria | 29 | 29 | 25 | 12 | 7 | 20 | 122 |
-| mpox | 13 | 21 | 28 | 18 | 15 | 26 | 121 |
-| meningitis | 4 | 7 | 2 | 12 | 11 | 7 | 43 |
-| chikungunya | 6 | 9 | 8 | 5 | 3 | 7 | 38 |
-| hpai | 10 | 6 | 3 | 9 | 5 | 4 | 37 |
-| zika | 3 | 8 | 6 | 2 | 6 | 2 | 27 |
-| rabies | 3 | 6 | 4 | 5 | 4 | 2 | 24 |
-| typhoid | 3 | 0 | 2 | 3 | 0 | 4 | 12 |
-| yersinia | 1 | 0 | 0 | 5 | 0 | 2 | 8 |
-| pertussis | 0 | 0 | 3 | 3 | 2 | 0 | 8 |
-| leptospirosis | 3 | 0 | 1 | 0 | 2 | 0 | 6 |
-| shigellosis | 3 | 0 | 0 | 0 | 0 | 1 | 4 |
+| Disease | 25-10 | 25-11 | 25-5 | 25-6 | 25-7 | 25-8 | 25-9 | Total |
+|--|-|-|-|-|-|-|-|-|
+| measles | 130 | 1 | 13 | 24 | 72 | 83 | 162 | 485 |
+| h5n1 | 23 | 1 | 51 | 72 | 55 | 54 | 42 | 298 |
+| dengue | 8 | 0 | 24 | 34 | 37 | 57 | 30 | 190 |
+| malaria | 29 | 1 | 30 | 25 | 12 | 7 | 20 | 124 |
+| mpox | 14 | 1 | 21 | 28 | 18 | 15 | 26 | 123 |
+| meningitis | 4 | 0 | 8 | 2 | 12 | 11 | 7 | 44 |
+| chikungunya | 6 | 0 | 9 | 8 | 5 | 3 | 7 | 38 |
+| hpai | 10 | 0 | 6 | 3 | 9 | 5 | 4 | 37 |
+| zika | 3 | 0 | 8 | 6 | 2 | 6 | 2 | 27 |
+| rabies | 3 | 1 | 6 | 4 | 5 | 4 | 2 | 25 |
+| typhoid | 3 | 0 | 0 | 2 | 3 | 0 | 4 | 12 |
+| yersinia | 1 | 0 | 0 | 0 | 5 | 0 | 2 | 8 |
+| pertussis | 0 | 0 | 0 | 3 | 3 | 2 | 0 | 8 |
+| leptospirosis | 3 | 0 | 0 | 1 | 0 | 2 | 0 | 6 |
+| shigellosis | 3 | 0 | 0 | 0 | 0 | 0 | 1 | 4 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -2243,6 +2243,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Detectado un brote de meningitis en un colegio de Zaragoza con dos casos confirmados](https://www.huffingtonpost.es/sociedad/detectado-brote-meningitis-colegio-zaragoza-dos-casos-confirmadosbr.html) (Huffingtonpost.es)
 
+- [Rueda reivindica a Galicia como "líder" en la vacunación de la meningitis al contar con el calendario "más completo"](https://www.europapress.es/galicia/noticia-rueda-reivindica-galicia-lider-vacunacion-meningitis-contar-calendario-mas-completo-20250126115823.html) (Europapress.es)
+
 ## 25-5 (measles)
 
 - [Samoa's Health Chief Says RFK Jr. Spread Anti-Vax Misinformation Before Deadly Measles Outbreak](https://www.democracynow.org/2025/1/31/rfk_jr_measles_samoa) (Democracy Now!)
@@ -2268,6 +2270,8 @@ Source: [News API](https://newsapi.org/)
 - [Measles case confirmed in metro Atlanta](https://www.wsbtv.com/news/local/atlanta/measles-case-confirmed-metro-atlanta/ZYX6H3AHMJCDHNL6WUG5ESHTJY/) (WSB Atlanta)
 
 - [First case of measles in the state for the year reported, Georgia DPH says](https://www.fox5atlanta.com/news/first-case-measles-state-year-reported-georgia-dph-says) (FOX 5 Atlanta)
+
+- [Asha workers to identify 1 million children for MMR vaccination, special campaigns soon](https://www.livemint.com/industry/asha-workers-mmr-vaccination-special-campaigns-mumps-measles-rubella-accredited-social-health-activist-11737708760867.html) (Livemint)
 
 ## 25-5 (malaria)
 
@@ -2328,6 +2332,8 @@ Source: [News API](https://newsapi.org/)
 - [El grupo rebelde M23, apoyado por Ruanda, toma el control de la ciudad congolesa de Goma y 3.000 presos huyen de la cárcel](https://www.elespanol.com/mundo/20250127/grupo-rebelde-m23-apoyado-ruanda-toma-control-ciudad-congolesa-goma-presos-huyen-carcel/919658315_0.html) (Elespanol.com)
 
 - [Nigerian govt reaffirms commitment to malaria elimination](https://www.premiumtimesng.com/health/health-news/769668-nigerian-govt-reaffirms-commitment-to-malaria-elimination.html) (Premium Times)
+
+- [Georgia is malaria-free](https://www.thehindubusinessline.com/specials/pulse/georgia-is-malaria-free/article69142650.ece) (BusinessLine)
 
 ## 25-5 (hpai)
 
@@ -2441,6 +2447,12 @@ Source: [News API](https://newsapi.org/)
 
 - [News story: Human case of avian flu detected in England](https://www.gov.uk/government/news/human-case-of-avian-flu-detected-in-england) (Www.gov.uk)
 
+- [Infectious Disease “Experts”: Bird Feces In The Wind Could Spread Avian Influenza](https://www.shtfplan.com/headline-news/infectious-disease-experts-bird-feces-in-the-wind-could-spread-avian-influenza) (Shtfplan.com)
+
+- [Massachusetts bird flu: chicken farms on alert as H5N1 suspected in state](https://www.bostonglobe.com/2025/01/26/business/bird-flu-mass-chicken-farms/) (The Boston Globe)
+
+- [FDA recommends pet food companies revisit safety plans amid bird flu outbreak](https://www.nbcnews.com/health/health-news/raw-pet-food-bird-flu-outbreak-cats-fda-guidance-rcna189011) (NBC News)
+
 ## 25-5 (dengue)
 
 - [Dengue: a preocupação (e desafio) do marqueteiro de Lula](https://veja.abril.com.br/politica/dengue-a-preocupacao-e-desafio-do-marqueteiro-de-lula) (Abril.com.br)
@@ -2489,6 +2501,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Goiás registra 1ª morte por dengue no ano. Seis casos são investigados](https://www.metropoles.com/brasil/goias-registra-1a-morte-por-dengue-no-ano-seis-casos-sao-investigados) (Metropoles.com)
 
+- [Sociedade médica alerta para baixa procura da vacina contra a dengue; sorotipo 3 preocupa](https://valor.globo.com/brasil/noticia/2025/01/26/sociedade-medica-alerta-para-baixa-procura-da-vacina-contra-a-dengue-sorotipo-3-preocupa.ghtml) (Globo)
+
 ## 25-5 (chikungunya)
 
 - [De exóticas a autóctonas, cuando las enfermedades ya no viajan: "Lo importante es evitar que se conviertan en endémicas"](https://www.elmundo.es/ciencia-y-salud/salud/2025/02/01/678bc5a6e4d4d8c03d8b45b4.html) (El Mundo)
@@ -2508,6 +2522,26 @@ Source: [News API](https://newsapi.org/)
 - [Bavarian Nordic modtager positiv anbefaling fra de europæiske lægemiddelmyndigheder for chikungunyavaccine til personer i alderen 12 år og opefter](https://www.globenewswire.com/news-release/2025/01/31/3018640/0/da/Bavarian-Nordic-modtager-positiv-anbefaling-fra-de-europ%C3%A6iske-l%C3%A6gemiddelmyndigheder-for-chikungunyavaccine-til-personer-i-alderen-12-%C3%A5r-og-opefter.html) (GlobeNewswire)
 
 - [Dengue: agentes seguirão entrando em casas mesmo se o dono não deixar](https://www.metropoles.com/distrito-federal/dengue-agentes-seguirao-entrando-em-casas-mesmo-se-o-dono-nao-deixar) (Metropoles.com)
+
+## 25-11 (rabies)
+
+- [Batac: Massive anti-rabies drive, pet registration in Ilocos Norte underway](https://rpnradio.com/batac-massive-anti-rabies-drive-pet-registration-in-ilocos-norte-underway/) (Rpnradio.com)
+
+## 25-11 (mpox)
+
+- [The party of death](https://www.lawyersgunsmoneyblog.com/2025/03/the-party-of-death-4) (Lawyersgunsmoneyblog.com)
+
+## 25-11 (measles)
+
+- [Best political cartoons this week: March 9, 2025](https://theweek.com/cartoons/best-political-cartoons-this-week-march-9-2025) (The Week Magazine)
+
+## 25-11 (malaria)
+
+- [No disease is deadlier in Africa than malaria. Trump's US aid cuts weaken the fight against it](https://abcnews.go.com/International/wireStory/disease-deadlier-africa-malaria-trumps-us-aid-cuts-119601916) (ABC News)
+
+## 25-11 (h5n1)
+
+- [천안 산란계 농장서 고병원성 AI 확진···11만여 마리 살처분](https://www.khan.co.kr/article/202503091140001) (Khan.co.kr)
 
 ## 25-10 (zika)
 
@@ -2547,6 +2581,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-10 (mpox)
 
+- [Nova cepa de mpox: São Paulo confirma primeiro caso no Brasil](https://www.terra.com.br/noticias/nova-cepa-de-mpox-sao-paulo-confirma-primeiro-caso-no-brasil,e6a3aad4bb099de3cce11cf93fef176ardgs9m2z.html) (Terra.com.br)
+
 - [Ministério da Saúde confirma primeiro caso de nova variante de mpox em São Paulo](https://veja.abril.com.br/saude/ministerio-da-saude-confirma-primeiro-caso-de-nova-variante-de-mpox-em-sao-paulo) (Abril.com.br)
 
 - [São Paulo registra primeiro caso de nova cepa de mpox no Brasil](https://www.terra.com.br/vida-e-estilo/saude/sao-paulo-registra-primeiro-caso-de-nova-cepa-de-mpox-no-brasil,84f6a6f06785763d5f0932dccd7872dcwuhxhcz6.html) (Terra.com.br)
@@ -2585,6 +2621,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-10 (measles)
 
+- [US Measles Map Reveals Worst Hit States as Cases Surge](https://www.newsweek.com/measles-outbreak-map-us-states-2041628) (Newsweek)
+
 - [While Unvaxed Die Of Measles, CDC To Waste Money On Vax/Autism Study](https://crooksandliars.com/2025/03/while-unvaxed-die-measles-cdc-waste-money) (Crooksandliars.com)
 
 - [Measles cases jump 35% in week; Now in 12 states...](https://www.livemint.com/news/us-news/us-measles-cases-jump-35-in-a-week-now-found-in-12-states-11741405555623.html) (Livemint)
@@ -2593,9 +2631,13 @@ Source: [News API](https://newsapi.org/)
 
 - [RFK Jr.'s dangerous measles rhetoric is diverting attention from the real defense](https://www.msnbc.com/opinion/msnbc-opinion/measles-deaths-texas-rfk-jr-vaccines-rcna195401) (MSNBC)
 
+- [The Dangers of R.F.K., Jr.,’s Measles Response](https://www.newyorker.com/news/the-lede/the-dangers-of-rfk-jrs-measles-response) (The New Yorker)
+
 - [A play-by-play of how measles outbreaks can spiral out of control](https://www.cbc.ca/news/health/measles-second-opinion-march-2025-1.7476500) (CBC News)
 
 - [WATCH: Bald eagle nest cam captures live hatch in California](https://abcnews.go.com/WNT/video/bald-eagle-nest-cam-captures-live-hatch-california-119576698) (ABC News)
+
+- [2 new travel-related cases of measles confirmed in Metro Vancouver](https://www.cbc.ca/news/canada/british-columbia/2-new-measles-cases-in-metro-vancouver-1.7478501) (CBC News)
 
 - [Two dead, nearly 230 sickened in U.S. measles outbreak: authorities](https://japantoday.com/category/world/two-dead-200-sickened-in-us-measles-outbreak-authorities) (Japan Today)
 
@@ -2639,6 +2681,8 @@ Source: [News API](https://newsapi.org/)
 
 - [How a measles outbreak overwhelmed a small West Texas town](https://www.npr.org/2025/03/07/nx-s1-5312107/how-a-measles-outbreak-overwhelmed-a-small-west-texas-town) (NPR)
 
+- [Amid a growing measles outbreak, doctors worry RFK is sending the wrong message](https://www.npr.org/2025/03/07/nx-s1-5320352/measles-rfk-west-texas-outbreak) (NPR)
+
 - [Everything Old Is New Again, Again](https://sciencebasedmedicine.org/newagain/) (Sciencebasedmedicine.org)
 
 - [Unvaccinated New Mexico adult tests positive for measles after death](https://www.voanews.com/a/unvaccinated-new-mexico-adult-tests-positive-for-measles-after-death-/8002037.html) (VOA News)
@@ -2667,17 +2711,23 @@ Source: [News API](https://newsapi.org/)
 
 - [Second death reported in growing measles outbreak (Lena H. Sun/Washington Post)](https://www.memeorandum.com/250306/p138) (Memeorandum.com)
 
+- [What to do if measles is in your area](https://www.wnd.com/2025/03/what-to-do-if-measles-is-in-your-area/) (Wnd.com)
+
 - [JFK’s Grandson Trolls Cheryl Hines Over Measles Death](https://www.thedailybeast.com/jfks-grandson-jack-schlossberg-trolls-cheryl-hines-over-measles-death/) (Daily Beast)
 
 - [Canada reports increase in measles cases, urges vaccination](https://www.voanews.com/a/canada-reports-increase-in-measles-cases-urges-vaccination/8001574.html) (VOA News)
 
 - [JFK's Grandson Calls On RFK Jr.'s Wife to Apologize to Family of Child Who Died of Measles in Flirtatious Video](https://www.ibtimes.com/jfks-grandson-calls-rfk-jrs-wife-apologize-family-child-who-died-measles-flirtatious-video-3765397) (International Business Times)
 
+- [Cheryl Hines Insists On Moving to D.C. Because Her Husband Cheats](https://www.pajiba.com/news/cheryl-hines-insists-on-moving-to-dc-because-her-husband-cheats.php) (Pajiba.com)
+
 - [This young Texas doctor only read about measles. Now she's a leading expert amid outbreak.](https://www.usatoday.com/story/life/health-wellness/2025/03/06/texas-measles-outbreak-vaccines/81612632007/) (USA Today)
 
 - [How to Decode RFK Jr.’s Dog Whistle Messages on the Measles Vaccine](https://newrepublic.com/article/192389/rfk-jr-measles-vaccine-cod-liver-oil-vitamin-a) (The New Republic)
 
 - [Robert F. Kennedy Jr says vitamin A protects you from deadly measles. Here’s what the study he cites actually says](https://theconversation.com/robert-f-kennedy-jr-says-vitamin-a-protects-you-from-deadly-measles-heres-what-the-study-he-cites-actually-says-251465) (The Conversation Africa)
+
+- [Stakeholders advocate improved measles vaccination](https://punchng.com/stakeholders-advocate-improved-measles-vaccination/) (The Punch)
 
 - [Doctor explains how the measles virus affects the immune system](https://www.cbsnews.com/video/doctor-explains-how-measles-virus-affects-immune-system/) (CBS News)
 
@@ -2970,6 +3020,8 @@ Source: [News API](https://newsapi.org/)
 - [Voluntary Recall of Wild Coast Raw Boneless Free Range Chicken Formula Raw Pet Food Because of Possible Bird Flu Health Risk](https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/voluntary-recall-wild-coast-raw-boneless-free-range-chicken-formula-raw-pet-food-because-possible) (FDA.gov)
 
 ## 25-10 (dengue)
+
+- [Repelentes contra o mosquito da dengue e tudo o que você precisa saber](https://catracalivre.com.br/saude-bem-estar/repelentes-contra-o-mosquito-da-dengue-e-tudo-o-que-voce-precisa-saber/) (Catracalivre.com.br)
 
 - [Dengue: Roupa repelente de insetos se esgota nas lojas](https://www.terra.com.br/vida-e-estilo/saude/dengue-roupa-repelente-de-insetos-se-esgota-nas-lojas,51163d928c7ab165d0c9154bcc8cd921zao3hcn9.html) (Terra.com.br)
 
