@@ -1,8 +1,80 @@
 {
-  "last_updated": "2025-03-10 19:06",
-  "count_articles_total": 1383,
-  "count_articles_new": 8,
+  "last_updated": "2025-03-11 07:07",
+  "count_articles_total": 1404,
+  "count_articles_new": 14,
   "articles": [
+    {
+      "id": 19115,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Rpnradio.com",
+      "author": "RPN Social",
+      "title": "Bacolod: Dengue cases in NegOcc surging, deaths stay at 6",
+      "description": "Dengue cases in Negros Occidental have reached 1,151 for the first two months of 2025, with deaths attributed to it remaining at six, according to a report of the Provincial Health Office. The figure is up by 818 cases, equivalent to an increase of 339.99 per\u2026",
+      "url": "https://rpnradio.com/bacolod-dengue-cases-in-negocc-surging-deaths-stay-at-6/",
+      "urlToImage": "https://rpnradio.com/wp-content/uploads/2025/03/dengue-cases-up.jpg",
+      "publishedAt": "2025-03-10 01:03:45",
+      "content": "Dengue cases in Negros Occidental have reached 1,151 for the first two months of 2025, with deaths attributed to it remaining at six, according to a report of the Provincial Health Office. The figur\u2026 [+579 chars]",
+      "retrievedAt": "2025-03-11 07:07:00.434380",
+      "internal_id": "7f94f84f556d6b7766343b0660e951d63d84534b7f9fda3b3b8cb51ca482b9f5",
+      "publishedAtLabel": "Mar 10"
+    },
+    {
+      "id": 19114,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Globalresearch.ca",
+      "author": "Nicolas Hulscher",
+      "title": "RFK Jr. and Federal Health Agencies Wisely Oppose Mass H5N1 Animal Vaccination Over Mutation Concerns",
+      "description": "According to CBS News: Federal health agencies oppose the use of bird flu vaccines in poultry right now, Health and Human Services Secretary Robert F. Kennedy Jr. said, weighing in publicly on it for the first time in his \u2026 The post RFK Jr. and Federal Health\u2026",
+      "url": "https://www.globalresearch.ca/rfk-jr-federal-health-agencies-oppose-mass-h5n1-animal-vaccination/5881691",
+      "urlToImage": "https://www.globalresearch.ca/wp-content/uploads/2025/03/rfk-jr-fox-news.png",
+      "publishedAt": "2025-03-09 20:26:06",
+      "content": "According to CBS News: Federal health agencies oppose the use of bird flu vaccines in poultry right now, Health and Human Services Secretary Robert F. Kennedy Jr. said, weighing in publicly on it fo\u2026 [+3407 chars]",
+      "retrievedAt": "2025-03-11 07:07:00.254123",
+      "internal_id": "2295fe61c0de949b18e02f6ccc743a75118c648d86097b5a4aee498b5103535a",
+      "publishedAtLabel": "Mar 9"
+    },
+    {
+      "id": 19102,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "Howard County resident who traveled internationally has confirmed case of measles (Greg Ng/WBAL)",
+      "description": "Greg Ng / WBAL: Howard County resident who traveled internationally has confirmed case of measles \u2014 MDH: This measles case not associated with outbreak in Texas, New Mexico \u2014 A positive case of measles was confirmed in a Howard County resident who recentl\u2026",
+      "url": "https://www.memeorandum.com/250309/p49",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/measles-65bc51f04d9ab.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+      "publishedAt": "2025-03-09 20:15:00",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-03-11 07:06:59.762527",
+      "internal_id": "4f1cfc6d5664920c5f3e2f5390642f1ac54d23b17711276d6891b1771d166ebf",
+      "publishedAtLabel": "Mar 9"
+    },
+    {
+      "id": 19103,
+      "query": [
+        "measles"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Peter Aitken",
+      "title": "Measles Exposure Warning Issued for Washington Dulles Airport: What to Know",
+      "description": "Maryland's Department of Health confirmed a case of measles and has issued advice and guidance for those who may have been exposed.",
+      "url": "https://www.newsweek.com/measles-exposure-warning-issued-washington-dulles-airport-2041910",
+      "urlToImage": "https://d.newsweek.com/en/full/2603292/washington-dulles-international-airport-maryland.jpg",
+      "publishedAt": "2025-03-09 19:37:27",
+      "content": "Maryland health officials issued a warning on Sunday to anyone who passed through Washington Dulles International Airport or was in the Johns Hopkins Howard County Medical Center Pediatric Emergency \u2026 [+4685 chars]",
+      "retrievedAt": "2025-03-11 07:06:59.844376",
+      "internal_id": "8ec1966572c7adbca8ad2ea11668afed8a157aefe451902711fdf049b32d6bec",
+      "publishedAtLabel": "Mar 9"
+    },
     {
       "id": 19094,
       "query": [
@@ -382,6 +454,24 @@
       "publishedAtLabel": "Mar 8"
     },
     {
+      "id": 19113,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "TODAY",
+      "author": "TODAY",
+      "title": "Measles outbreak grows with more than 200 confirmed cases",
+      "description": "The measles outbreak along the border of Texas and New Mexico is growing with more than 200 confirmed confirmed and a second death linked to the disease. Officials say most of the people with measles in the two states are unvaccinated or have unknown vaccinat\u2026",
+      "url": "https://www.today.com/video/measles-outbreak-surpasses-more-than-200-confirmed-cases-233861701790",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/mpx/2704722219/2025_03/1741444046606_tdy_sat_measles_250308_1920x1080-hauvoz.jpg",
+      "publishedAt": "2025-03-08 14:27:31",
+      "content": "The measles outbreak along the border of Texas and New Mexico is growing with more than 200 confirmed confirmed and a second death linked to the disease. Officials say most of the people with measles\u2026 [+84 chars]",
+      "retrievedAt": "2025-03-11 07:06:59.956801",
+      "internal_id": "6ec3c735268c8fc157b5c2e56448e57e3b59ba02ca079bdb792bba3c120e2586",
+      "publishedAtLabel": "Mar 8"
+    },
+    {
       "id": 19076,
       "query": [
         "malaria"
@@ -505,6 +595,24 @@
       "content": "7 ( AI) . 1 22 AI .5 1 27 AI (H5N1) 6 AI , . -19 AI .",
       "retrievedAt": "2025-03-09 07:05:52.336569",
       "internal_id": "725ca1b8e5e3b4a505943420009cccf731fb76c74f87fda782b58652152a6b2f",
+      "publishedAtLabel": "Mar 8"
+    },
+    {
+      "id": 19109,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "HuffPost",
+      "author": "AP",
+      "title": "West Texas Reports Nearly 200 Measles Cases. New Mexico Is Up To 30",
+      "description": "Health officials say West Texas now has almost 200 measles cases and New Mexico's case number has tripled to 30.",
+      "url": "https://www.huffpost.com/entry/us-measles-outbreak-texas-new-mexico_n_67cbc23fe4b07efb43a7b528",
+      "urlToImage": "https://img.huffingtonpost.com/asset/67cbc24014000026000bde77.jpeg?cache=zaSLZAqFMC&ops=1200_630",
+      "publishedAt": "2025-03-08 04:08:44",
+      "content": "A historic measles outbreak in West Texas is just short of 200 cases, Texas state health officials said Friday, while the number of cases in neighboring New Mexico tripled to 30. Most of the cases a\u2026 [+4774 chars]",
+      "retrievedAt": "2025-03-11 07:06:59.925239",
+      "internal_id": "f0bf61d7d755980a502ab9c78ba04226d186e96cea61eb5846bbee04b4dff07b",
       "publishedAtLabel": "Mar 8"
     },
     {
@@ -652,6 +760,24 @@
       "publishedAtLabel": "Mar 7"
     },
     {
+      "id": 19108,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Digital Journal",
+      "author": "AFP",
+      "title": "Two dead, 200 sickened in US measles outbreak: authorities",
+      "description": "A measles outbreak in the southwestern United States has killed two people and infected more than 200, prompting a top health agency to issue a travel warning. As of Friday, Texas had reported 198 cases and New Mexico 10, bringing the total to 208. Each state\u2026",
+      "url": "https://www.digitaljournal.com/world/two-dead-200-sickened-in-us-measles-outbreak-authorities/article",
+      "urlToImage": "https://www.digitaljournal.com/wp-content/uploads/2025/03/f6041baaf1a8cb6a53f87600166abd109e2be5ff.jpg",
+      "publishedAt": "2025-03-07 22:57:20",
+      "content": "Current Health Secretary Robert F. Kennedy Jr. spent decades falsely linking the measles, mumps, and rubella (MMR) vaccine to autism -- a claim thoroughly debunked by scientific research - Copyright \u2026 [+2690 chars]",
+      "retrievedAt": "2025-03-11 07:06:59.917539",
+      "internal_id": "3576fa2bd2f425afee7ce6e2ab9de1f73102f0fd4a26ee675f708cfa0bf099ea",
+      "publishedAtLabel": "Mar 7"
+    },
+    {
       "id": 19058,
       "query": [
         "measles"
@@ -685,6 +811,42 @@
       "content": "Measles is the most contagious infectious disease in people. The only way to prevent it is with the measles vaccine. Recently, Health and Human Services Secretary Robert F. Kennedy Jr. promoted the \u2026 [+4989 chars]",
       "retrievedAt": "2025-03-09 07:05:51.046924",
       "internal_id": "44db589219ce2cd3d15ae2d2a9a14481dffcf5ceaebe05f1df8caf71d32a8df8",
+      "publishedAtLabel": "Mar 7"
+    },
+    {
+      "id": 19105,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": null,
+      "title": "Vitamin A, While Helpful for Measles, Is Not a Replacement for Vaccination",
+      "description": "This is a MedPage Today story. Both the World Health Organization (WHO) and the American Academy of Pediatrics (AAP) recommend vitamin A for all patients with measles -- not just severe cases -- but experts warn that this shouldn't be seen as a replacement f\u2026",
+      "url": "https://abcnews.go.com/Health/wireStory/vitamin-helpful-measles-replacement-vaccination-119568173",
+      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "publishedAt": "2025-03-07 20:05:43",
+      "content": "American Academy of Pediatrics (AAP) recommend vitamin A for all patients with measles -- not just severe cases -- but experts warn that this shouldn't be seen as a replacement for vaccination. In a\u2026 [+4286 chars]",
+      "retrievedAt": "2025-03-11 07:06:59.893546",
+      "internal_id": "93d4829549a288da902349dc67bbf49eecf6793502e1f721012494cef2ca9511",
+      "publishedAtLabel": "Mar 7"
+    },
+    {
+      "id": 19106,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "HuffPost",
+      "author": "AP",
+      "title": "New Mexico Adult Dies With Measles 1 Week After School-Age Measles Death",
+      "description": "The person who died was unvaccinated and did not seek medical care, though the virus has not been confirmed as the cause of death.",
+      "url": "https://www.huffpost.com/entry/measles-outbreak-death-new-mexico_n_67cb4f8ae4b02f3ad1f4a15c",
+      "urlToImage": "https://img.huffingtonpost.com/asset/67cb50dc1600002500c51f31.jpeg?cache=slSTb0405H&ops=1200_630",
+      "publishedAt": "2025-03-07 20:04:38",
+      "content": "An adult who was infected with measles has died in New Mexico, state health officials announced Thursday, though the virus has not been confirmed as the cause. The person who died was unvaccinated a\u2026 [+2799 chars]",
+      "retrievedAt": "2025-03-11 07:06:59.901858",
+      "internal_id": "6a1da030c631a8aacb3914ff5085a8b018636f1c46ee94437a2a4b0d7b7e8a8d",
       "publishedAtLabel": "Mar 7"
     },
     {
@@ -832,6 +994,24 @@
       "publishedAtLabel": "Mar 7"
     },
     {
+      "id": 19107,
+      "query": [
+        "measles"
+      ],
+      "source_id": "nbc-news",
+      "source_name": "NBC News",
+      "author": "Erika Edwards",
+      "title": "Measles outbreak surpasses 200 cases in Texas and New Mexico",
+      "description": "The measles outbreak in West Texas has soared to 198 cases, the Texas Department of State Health Services reported Friday.",
+      "url": "https://www.nbcnews.com/health/health-news/measles-outbreak-surpasses-200-cases-texas-new-mexico-rcna195258",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-03/250307-Seminole-Texas-Measles-ew-941a-48a8d0.jpg",
+      "publishedAt": "2025-03-07 17:27:10",
+      "content": "SEMINOLE, Texas The measles outbreak in West Texas has soared to 198 cases, the Texas Department of State Health Services reported Friday. In New Mexico, 30 cases have been reported in Lea County, wh\u2026 [+3047 chars]",
+      "retrievedAt": "2025-03-11 07:06:59.909686",
+      "internal_id": "d6f3570d17db2dbde058b89b5c29e929f79ec2479858892f7f3ded0e83c31e7f",
+      "publishedAtLabel": "Mar 7"
+    },
+    {
       "id": 19047,
       "query": [
         "measles"
@@ -919,6 +1099,24 @@
       "content": "Vitamin A can accumulate in the body, Dr. Adam Ratner, a member of the infectious disease committee of the American Academy of Pediatrics, told NPR. It can be toxic to the liver. It can have effects \u2026 [+1150 chars]",
       "retrievedAt": "2025-03-08 19:05:40.337199",
       "internal_id": "3401ae807a61fa69d9ba9b34ba574d1e30063374041a09f6703796183dee00e6",
+      "publishedAtLabel": "Mar 7"
+    },
+    {
+      "id": 19104,
+      "query": [
+        "measles"
+      ],
+      "source_id": "time",
+      "source_name": "Time",
+      "author": "DEVI SHASTRI/AP",
+      "title": "An Adult in New Mexico Has Died with Measles",
+      "description": "The person who died was unvaccinated, though the virus has not been confirmed as the cause.",
+      "url": "https://time.com/7265638/new-mexico-adult-measles-death/",
+      "urlToImage": "https://api.time.com/wp-content/uploads/2025/03/MMR-vaccine.jpg?quality=85&w=1200&h=628&crop=1",
+      "publishedAt": "2025-03-07 15:33:15",
+      "content": "An adult who was infected with measles has died in New Mexico, state health officials announced Thursday, though the virus has not been confirmed as the cause. The person who died was unvaccinated a\u2026 [+1509 chars]",
+      "retrievedAt": "2025-03-11 07:06:59.885651",
+      "internal_id": "a69757c1778887ba7c1bbaf73bf1a36709faaa4acbfb928d2550b4c0b1673f79",
       "publishedAtLabel": "Mar 7"
     },
     {
@@ -1048,6 +1246,24 @@
       "publishedAtLabel": "Mar 7"
     },
     {
+      "id": 19110,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "TODAY",
+      "author": "TODAY",
+      "title": "Second unvaccinated person dies of suspected measles",
+      "description": "As measles cases climb nationwide, health officials are reporting a second recent death of an unvaccinated adult in New Mexico who tested positive for measles after passing, but the official cause of death is still under investigation. Last week\u201a an unvaccina\u2026",
+      "url": "https://www.today.com/video/unvaccinated-adult-tests-positive-for-measles-after-dying-in-nm-233766981509",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/mpx/2704722219/2025_03/1741350988496_tdy_news_7a_ikeda_measles_250307_1920x1080-fv3ez1.jpg",
+      "publishedAt": "2025-03-07 12:36:34",
+      "content": "As measles cases climb nationwide, health officials are reporting a second recent death of an unvaccinated adult in New Mexico who tested positive for measles after passing, but the official cause of\u2026 [+203 chars]",
+      "retrievedAt": "2025-03-11 07:06:59.933514",
+      "internal_id": "318e5937d80079a8d7b6a46700d6dc74ce9edf5666586e83a54f44963e4fb78b",
+      "publishedAtLabel": "Mar 7"
+    },
+    {
       "id": 19036,
       "query": [
         "measles"
@@ -1153,6 +1369,42 @@
       "content": "Several years ago, Dr. David Gorski coined the phrase \u201ceverything old is new again\u201d to describe how contrarian doctors perfectly parroted what \u201cold school\u201d anti-vaxxers said about measles and the MMR\u2026 [+5506 chars]",
       "retrievedAt": "2025-03-08 19:05:40.385174",
       "internal_id": "c8f90a9e7e35394a61216cf4112832c39a9fe6eb1af20132bb8aa1e09ca6816e",
+      "publishedAtLabel": "Mar 7"
+    },
+    {
+      "id": 19112,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "HuffPost",
+      "author": "Caroline Bologna",
+      "title": "The Funniest Tweets From Women This Week",
+      "description": "\"can't believe it's 2025 and i'm stressed about tariffs and measles, like am i a character in an american girl book\"",
+      "url": "https://www.huffpost.com/entry/funniest-women-social-media-posts-2025-03-01_n_67c9efb7e4b0404dff3009a4",
+      "urlToImage": "https://img.huffingtonpost.com/asset/67ca17011800002d007bb045.jpg?cache=Avyxf1WBWP&ops=1200_630",
+      "publishedAt": "2025-03-07 08:00:12",
+      "content": "The ladies of the internet never fail to brighten our day with their brilliant and succinct wit. Each week, HuffPost Women rounds up their hilarious musings. Scroll through this weeks great tweets,\u2026 [+2987 chars]",
+      "retrievedAt": "2025-03-11 07:06:59.948682",
+      "internal_id": "659d071bacdddfc0f6372063b58a7421544d3f4d701a5f006f42ead6222f8fa4",
+      "publishedAtLabel": "Mar 7"
+    },
+    {
+      "id": 19111,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Medical Daily",
+      "author": "Suneeta Sunny",
+      "title": "As Measles Cases Spike, RFK Jr. Promotes Unconventional Therapies; Experts Warn They're Not Alternative To Vaccines",
+      "description": "Kennedy Jr. endorsed the use of vitamin A, budesonide, clarithromycin, and cod liver oil for treating measles, claiming they produce \"good results.\" However, health experts caution that these treatments should not replace vaccination and advise against relyin\u2026",
+      "url": "https://www.medicaldaily.com/measles-cases-spike-rfk-jr-promotes-unconventional-therapies-experts-warn-theyre-not-473223",
+      "urlToImage": "https://d.medicaldaily.com/en/full/478997/florida-fluoride-11152024-1.jpg",
+      "publishedAt": "2025-03-07 06:39:09",
+      "content": "As measles cases spike in Texas, affecting 159 people, hospitalizing 22, and claiming the life of a school-aged child, U.S. Health Secretary Robert F. Kennedy Jr. expressed \"deep concern\" about the o\u2026 [+2786 chars]",
+      "retrievedAt": "2025-03-11 07:06:59.941145",
+      "internal_id": "cbbf836f6f83f41673677e46df8efea6ba29c3f482ddb828ebfdc9f5971a8569",
       "publishedAtLabel": "Mar 7"
     },
     {
@@ -24942,6 +25194,132 @@
       "content": "Goi\u00e2nia \u2013 Goi\u00e1s registrou a primeira morte por dengue no estado neste ano de 2025. Segundo informa\u00e7\u00f5es da Secretaria de Sa\u00fade de Goi\u00e1s (SES-GO), o caso foi na cidade de Heitorai, no centro goiano. C\u2026 [+2301 chars]",
       "retrievedAt": "2025-01-28 07:06:26.469513",
       "internal_id": "d399c5b754980be912654a4e88828514e2a56e9e8c555fc593bff96b9edbb3f1",
+      "publishedAtLabel": "Jan 26"
+    },
+    {
+      "id": 17712,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Shtfplan.com",
+      "author": "Mac Slavo",
+      "title": "Infectious Disease \u201cExperts\u201d: Bird Feces In The Wind Could Spread Avian Influenza",
+      "description": "Infectious disease \"experts\" in Minnesota are now claiming that \"windblown\" bird feces could spread the H5N1 avian influenza. Dr. Michael Osterholm hosts a podcast at the University of Minnesota called \"Osterholm Update,\" where he discusses the latest outbrea\u2026",
+      "url": "https://www.shtfplan.com/headline-news/infectious-disease-experts-bird-feces-in-the-wind-could-spread-avian-influenza",
+      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2024/12/birdflu1.jpg",
+      "publishedAt": "2025-01-26 18:00:48",
+      "content": "Infectious disease \u201cexperts\u201d in Minnesota are now claiming that \u201cwindblown\u201d bird feces could spread the H5N1 avian influenza. Dr. Michael Osterholm hosts a podcast at the University of Minnesota call\u2026 [+1963 chars]",
+      "retrievedAt": "2025-01-27 19:05:41.573787",
+      "internal_id": "327f0a90665da14f00990d5d69ce4e14a6f3649e1cd2f9dcb2db25b95e7f895b",
+      "publishedAtLabel": "Jan 26"
+    },
+    {
+      "id": 17715,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Sociedade m\u00e9dica alerta para baixa procura da vacina contra a dengue; sorotipo 3 preocupa",
+      "description": "Sorotipo 3 n\u00e3o circula de forma predominante no pa\u00eds desde 2008 e grande parte da popula\u00e7\u00e3o est\u00e1 suscet\u00edvel ao DENV-3",
+      "url": "https://valor.globo.com/brasil/noticia/2025/01/26/sociedade-medica-alerta-para-baixa-procura-da-vacina-contra-a-dengue-sorotipo-3-preocupa.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/aM8uxs52bkxYOrDs8fcwzJSatng=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2024/F/2/n0zs2aSXyBHcYsi6KDvw/mosquito-4998145-1920.jpeg",
+      "publishedAt": "2025-01-26 14:31:24",
+      "content": "Moeda americana chegou a atingir R$ 5,86 na m\u00ednima do dia, em meio ao bom humor global com Trump, mas desconforto com medidas estudadas pelo governo brasileiro para conter a alta de alimentos pesou n\u2026 [+7 chars]",
+      "retrievedAt": "2025-01-27 19:05:41.965111",
+      "internal_id": "35a99a1dcba4ac0e7ca6ab1140b68d2007cbcdcf79c6c7188bf8ca1d1889dfb8",
+      "publishedAtLabel": "Jan 26"
+    },
+    {
+      "id": 17711,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Livemint",
+      "author": "Priyanka Sharma",
+      "title": "Asha workers to identify 1 million children for MMR vaccination, special campaigns soon",
+      "description": "The government is aiming to achieve 100% coverage to eliminate mumps, measles and rubella by 2026.",
+      "url": "https://www.livemint.com/industry/asha-workers-mmr-vaccination-special-campaigns-mumps-measles-rubella-accredited-social-health-activist-11737708760867.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2025/01/26/1600x900/Not-Real-News--0_1682410928524_1737899278480.jpg",
+      "publishedAt": "2025-01-26 13:59:13",
+      "content": "New Delhi: The campaign to eliminate mumps, measles and rubella is set to scaled up by identifying children who are yet to be vaccinated for MMRby 2026. As many as 1 million children have still not \u2026 [+2345 chars]",
+      "retrievedAt": "2025-01-27 19:05:40.262673",
+      "internal_id": "af7eca8bc6606e9b2f07829a6b45ed4a2b7a08f4abf193606b97efec07181176",
+      "publishedAtLabel": "Jan 26"
+    },
+    {
+      "id": 17714,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "The Boston Globe",
+      "author": "Maren Halpin",
+      "title": "Massachusetts bird flu: chicken farms on alert as H5N1 suspected in state",
+      "description": "State officials suspect the avian flu has killed dozens of wild birds in Boston, Amherst, and Plymouth, and farmers are stepping up precautions.",
+      "url": "https://www.bostonglobe.com/2025/01/26/business/bird-flu-mass-chicken-farms/",
+      "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/3VNTCS6WOH36W2XKHEOURISYIY.jpg?auth=1a116965f8701559103bf34278c22faf76c29ee8041ceb759b4554119df008a5&width=1440",
+      "publishedAt": "2025-01-26 13:46:42",
+      "content": "It makes me sick thinking about it, said Anne Diemand Bucci, co-owner of Diemand Farm in Wendell, in north-central Massachusetts, where she has as many as 2,000 egg-laying hens. It would be devastati\u2026 [+5418 chars]",
+      "retrievedAt": "2025-01-27 19:05:41.652967",
+      "internal_id": "c7228e5a5fffd5db7fa328afc631d2f1956c1bb4f1f31095120e4e3e90f6f656",
+      "publishedAtLabel": "Jan 26"
+    },
+    {
+      "id": 17713,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "nbc-news",
+      "source_name": "NBC News",
+      "author": "Linda Carroll",
+      "title": "FDA recommends pet food companies revisit safety plans amid bird flu outbreak",
+      "description": "The FDA has advised pet food companies to revisit food safety plans as a growing number of cats have gotten sick or died from eating food contaminated with bird flu.",
+      "url": "https://www.nbcnews.com/health/health-news/raw-pet-food-bird-flu-outbreak-cats-fda-guidance-rcna189011",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-01/250125-cat-ch-1445-7758a7.jpg",
+      "publishedAt": "2025-01-26 12:00:00",
+      "content": "As a growing number of cats have gotten sick or died after consuming raw pet food or raw milk contaminated with the H5N1 virus, health officials have advised pet food companies to take extra precauti\u2026 [+5575 chars]",
+      "retrievedAt": "2025-01-27 19:05:41.599442",
+      "internal_id": "dbabadc785796e9ee706387224cc1be36eda7b767f3529cc6277660dc9c82333",
+      "publishedAtLabel": "Jan 26"
+    },
+    {
+      "id": 17717,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "BusinessLine",
+      "author": "Team BL",
+      "title": "Georgia is malaria-free",
+      "description": "Georgia achieves malaria-free status after decades of dedicated efforts, paving the way for WHO European region certification.",
+      "url": "https://www.thehindubusinessline.com/specials/pulse/georgia-is-malaria-free/article69142650.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/39ji2o/article69143208.ece/alternates/LANDSCAPE_1200/BL2701_Pulse_Capsule.jpg",
+      "publishedAt": "2025-01-26 11:39:30",
+      "content": "Following a nearly century-long effort, Georgia has been certified malaria-free by the World Health Organization (WHO). It joins the league of 45 other countries and one territory that have achieved \u2026 [+1775 chars]",
+      "retrievedAt": "2025-01-27 19:05:42.574176",
+      "internal_id": "fe679b72aa71e1b9c8ad8c4c4dfc18496e3c5cbdfc103d5a3500ead3dda6cf85",
+      "publishedAtLabel": "Jan 26"
+    },
+    {
+      "id": 17716,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Europapress.es",
+      "author": null,
+      "title": "Rueda reivindica a Galicia como \"l\u00edder\" en la vacunaci\u00f3n de la meningitis al contar con el calendario \"m\u00e1s completo\"",
+      "description": "El presidente de la Xunta, Alfonso Rueda, se ha reunido esta semana con representantes de la Asociaci\u00f3n Espa\u00f1ola de Meningitis, un encuentro en el que ha reivindicado a Galicia como \"l\u00edder\" en la vacunaci\u00f3n contra esta enfermedad infecciosa al contar con el c\u2026",
+      "url": "https://www.europapress.es/galicia/noticia-rueda-reivindica-galicia-lider-vacunacion-meningitis-contar-calendario-mas-completo-20250126115823.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20250126115823_1200.jpg",
+      "publishedAt": "2025-01-26 10:58:23",
+      "content": "SANTIAGO DE COMPOSTELA 26 Ene. (EUROPA PRESS) - El presidente de la Xunta, Alfonso Rueda, se ha reunido esta semana con representantes de la Asociaci\u00f3n Espa\u00f1ola de Meningitis, un encuentro en el q\u2026 [+1426 chars]",
+      "retrievedAt": "2025-01-27 19:05:42.128438",
+      "internal_id": "78e6688bc8805e4493bf3e062c60e5cf8e7b2e4b081fb7297c47003e7656b898",
       "publishedAtLabel": "Jan 26"
     }
   ]

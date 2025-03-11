@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 8
-- **Last harvest:** 2025-03-10 19:06
-- **Most recent article:** 2025-03-09 18:47:53
+- **New articles in last harvest:** 14
+- **Last harvest:** 2025-03-11 07:07
+- **Most recent article:** 2025-03-10 01:03:45
 
 ---
 
@@ -12,12 +12,12 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-10 | 25-11 | 25-5 | 25-6 | 25-7 | 25-8 | 25-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 130 | 2 | 12 | 24 | 72 | 83 | 162 | 485 |
-| h5n1 | 23 | 4 | 48 | 72 | 55 | 54 | 42 | 298 |
-| dengue | 8 | 0 | 23 | 34 | 37 | 57 | 30 | 189 |
-| malaria | 29 | 5 | 29 | 25 | 12 | 7 | 20 | 127 |
+| measles | 140 | 4 | 13 | 24 | 72 | 83 | 162 | 498 |
+| h5n1 | 23 | 5 | 51 | 72 | 55 | 54 | 42 | 302 |
+| dengue | 8 | 1 | 24 | 34 | 37 | 57 | 30 | 191 |
+| malaria | 29 | 5 | 30 | 25 | 12 | 7 | 20 | 128 |
 | mpox | 14 | 1 | 21 | 28 | 18 | 15 | 26 | 123 |
-| meningitis | 4 | 0 | 7 | 2 | 12 | 11 | 7 | 43 |
+| meningitis | 4 | 0 | 8 | 2 | 12 | 11 | 7 | 44 |
 | chikungunya | 6 | 0 | 9 | 8 | 5 | 3 | 7 | 38 |
 | hpai | 10 | 0 | 6 | 3 | 9 | 5 | 4 | 37 |
 | zika | 3 | 0 | 8 | 6 | 2 | 6 | 2 | 27 |
@@ -2243,6 +2243,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Detectado un brote de meningitis en un colegio de Zaragoza con dos casos confirmados](https://www.huffingtonpost.es/sociedad/detectado-brote-meningitis-colegio-zaragoza-dos-casos-confirmadosbr.html) (Huffingtonpost.es)
 
+- [Rueda reivindica a Galicia como "líder" en la vacunación de la meningitis al contar con el calendario "más completo"](https://www.europapress.es/galicia/noticia-rueda-reivindica-galicia-lider-vacunacion-meningitis-contar-calendario-mas-completo-20250126115823.html) (Europapress.es)
+
 ## 25-5 (measles)
 
 - [Samoa's Health Chief Says RFK Jr. Spread Anti-Vax Misinformation Before Deadly Measles Outbreak](https://www.democracynow.org/2025/1/31/rfk_jr_measles_samoa) (Democracy Now!)
@@ -2268,6 +2270,8 @@ Source: [News API](https://newsapi.org/)
 - [Measles case confirmed in metro Atlanta](https://www.wsbtv.com/news/local/atlanta/measles-case-confirmed-metro-atlanta/ZYX6H3AHMJCDHNL6WUG5ESHTJY/) (WSB Atlanta)
 
 - [First case of measles in the state for the year reported, Georgia DPH says](https://www.fox5atlanta.com/news/first-case-measles-state-year-reported-georgia-dph-says) (FOX 5 Atlanta)
+
+- [Asha workers to identify 1 million children for MMR vaccination, special campaigns soon](https://www.livemint.com/industry/asha-workers-mmr-vaccination-special-campaigns-mumps-measles-rubella-accredited-social-health-activist-11737708760867.html) (Livemint)
 
 ## 25-5 (malaria)
 
@@ -2328,6 +2332,8 @@ Source: [News API](https://newsapi.org/)
 - [El grupo rebelde M23, apoyado por Ruanda, toma el control de la ciudad congolesa de Goma y 3.000 presos huyen de la cárcel](https://www.elespanol.com/mundo/20250127/grupo-rebelde-m23-apoyado-ruanda-toma-control-ciudad-congolesa-goma-presos-huyen-carcel/919658315_0.html) (Elespanol.com)
 
 - [Nigerian govt reaffirms commitment to malaria elimination](https://www.premiumtimesng.com/health/health-news/769668-nigerian-govt-reaffirms-commitment-to-malaria-elimination.html) (Premium Times)
+
+- [Georgia is malaria-free](https://www.thehindubusinessline.com/specials/pulse/georgia-is-malaria-free/article69142650.ece) (BusinessLine)
 
 ## 25-5 (hpai)
 
@@ -2441,6 +2447,12 @@ Source: [News API](https://newsapi.org/)
 
 - [News story: Human case of avian flu detected in England](https://www.gov.uk/government/news/human-case-of-avian-flu-detected-in-england) (Www.gov.uk)
 
+- [Infectious Disease “Experts”: Bird Feces In The Wind Could Spread Avian Influenza](https://www.shtfplan.com/headline-news/infectious-disease-experts-bird-feces-in-the-wind-could-spread-avian-influenza) (Shtfplan.com)
+
+- [Massachusetts bird flu: chicken farms on alert as H5N1 suspected in state](https://www.bostonglobe.com/2025/01/26/business/bird-flu-mass-chicken-farms/) (The Boston Globe)
+
+- [FDA recommends pet food companies revisit safety plans amid bird flu outbreak](https://www.nbcnews.com/health/health-news/raw-pet-food-bird-flu-outbreak-cats-fda-guidance-rcna189011) (NBC News)
+
 ## 25-5 (dengue)
 
 - [Dengue: a preocupação (e desafio) do marqueteiro de Lula](https://veja.abril.com.br/politica/dengue-a-preocupacao-e-desafio-do-marqueteiro-de-lula) (Abril.com.br)
@@ -2489,6 +2501,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Goiás registra 1ª morte por dengue no ano. Seis casos são investigados](https://www.metropoles.com/brasil/goias-registra-1a-morte-por-dengue-no-ano-seis-casos-sao-investigados) (Metropoles.com)
 
+- [Sociedade médica alerta para baixa procura da vacina contra a dengue; sorotipo 3 preocupa](https://valor.globo.com/brasil/noticia/2025/01/26/sociedade-medica-alerta-para-baixa-procura-da-vacina-contra-a-dengue-sorotipo-3-preocupa.ghtml) (Globo)
+
 ## 25-5 (chikungunya)
 
 - [De exóticas a autóctonas, cuando las enfermedades ya no viajan: "Lo importante es evitar que se conviertan en endémicas"](https://www.elmundo.es/ciencia-y-salud/salud/2025/02/01/678bc5a6e4d4d8c03d8b45b4.html) (El Mundo)
@@ -2519,6 +2533,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-11 (measles)
 
+- [Howard County resident who traveled internationally has confirmed case of measles (Greg Ng/WBAL)](https://www.memeorandum.com/250309/p49) (Memeorandum.com)
+
+- [Measles Exposure Warning Issued for Washington Dulles Airport: What to Know](https://www.newsweek.com/measles-exposure-warning-issued-washington-dulles-airport-2041910) (Newsweek)
+
 - [Travelers At DC’s Dulles Airport Potentially Exposed To Measles—As Maryland Announces New Case](https://www.forbes.com/sites/alisondurkee/2025/03/09/travelers-at-dcs-dulles-airport-potentially-exposed-to-measles-as-maryland-announces-new-case/) (Forbes)
 
 - [Best political cartoons this week: March 9, 2025](https://theweek.com/cartoons/best-political-cartoons-this-week-march-9-2025) (The Week Magazine)
@@ -2537,6 +2555,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-11 (h5n1)
 
+- [RFK Jr. and Federal Health Agencies Wisely Oppose Mass H5N1 Animal Vaccination Over Mutation Concerns](https://www.globalresearch.ca/rfk-jr-federal-health-agencies-oppose-mass-h5n1-animal-vaccination/5881691) (Globalresearch.ca)
+
 - [Blir det sjukdom X? Så letar forskarvärlden efter smittan som blir nästa pandemi](https://www.dn.se/sverige/blir-det-sjukdom-x-sa-letar-forskarvarlden-efter-smittan-som-blir-nasta-pandemi/) (Www.dn.se)
 
 - [केंद्र ने बर्ड फ्लू को लेकर 9 राज्यों को जारी किया अलर्ट, जानें H5N1 वायरस के लक्षण और बचाव के उपाय](https://www.aajtak.in/india/news/story/center-issued-alert-to-9-states-regarding-bird-flu-know-the-symptoms-and-prevention-measures-from-h5n1-virus-ntc-rpti-2185989-2025-03-09) (Aajtak.in)
@@ -2544,6 +2564,10 @@ Source: [News API](https://newsapi.org/)
 - [Esperti su Science, prepararsi in tempo a una pandemia di aviaria](https://www.ansa.it/canale_scienza/notizie/biotech/2025/03/08/esperti-su-science-prepararsi-in-tempo-a-una-pandemia-di-aviaria_3d46145a-8dba-4e32-98b7-d5ffe4b3cc9a.html) (ANSA.it)
 
 - [천안 산란계 농장서 고병원성 AI 확진···11만여 마리 살처분](https://www.khan.co.kr/article/202503091140001) (Khan.co.kr)
+
+## 25-11 (dengue)
+
+- [Bacolod: Dengue cases in NegOcc surging, deaths stay at 6](https://rpnradio.com/bacolod-dengue-cases-in-negocc-surging-deaths-stay-at-6/) (Rpnradio.com)
 
 ## 25-10 (zika)
 
@@ -2631,11 +2655,15 @@ Source: [News API](https://newsapi.org/)
 
 - [Texas cities run short of MMR vaccine as measles outbreak drives demand (Melody Schreiber/The Guardian)](https://www.memeorandum.com/250308/p22) (Memeorandum.com)
 
+- [Measles outbreak grows with more than 200 confirmed cases](https://www.today.com/video/measles-outbreak-surpasses-more-than-200-confirmed-cases-233861701790) (TODAY)
+
 - [RFK Jr.'s dangerous measles rhetoric is diverting attention from the real defense](https://www.msnbc.com/opinion/msnbc-opinion/measles-deaths-texas-rfk-jr-vaccines-rcna195401) (MSNBC)
 
 - [The Dangers of R.F.K., Jr.,’s Measles Response](https://www.newyorker.com/news/the-lede/the-dangers-of-rfk-jrs-measles-response) (The New Yorker)
 
 - [A play-by-play of how measles outbreaks can spiral out of control](https://www.cbc.ca/news/health/measles-second-opinion-march-2025-1.7476500) (CBC News)
+
+- [West Texas Reports Nearly 200 Measles Cases. New Mexico Is Up To 30](https://www.huffpost.com/entry/us-measles-outbreak-texas-new-mexico_n_67cbc23fe4b07efb43a7b528) (HuffPost)
 
 - [WATCH: Bald eagle nest cam captures live hatch in California](https://abcnews.go.com/WNT/video/bald-eagle-nest-cam-captures-live-hatch-california-119576698) (ABC News)
 
@@ -2649,9 +2677,15 @@ Source: [News API](https://newsapi.org/)
 
 - [Two Dead, 200 Sickened In US Measles Outbreak: Authorities](https://www.ibtimes.com/two-dead-200-sickened-us-measles-outbreak-authorities-3765587) (International Business Times)
 
+- [Two dead, 200 sickened in US measles outbreak: authorities](https://www.digitaljournal.com/world/two-dead-200-sickened-in-us-measles-outbreak-authorities/article) (Digital Journal)
+
 - [RFK Jr. Misleads on Vitamin A, Unsupported Therapies for Measles](https://www.factcheck.org/2025/03/rfk-jr-misleads-on-vitamin-a-unsupported-therapies-for-measles/) (FactCheck.org)
 
 - [I’m a pediatrician. Here's the truth about RFK Jr.'s vitamin A recommendation.](https://www.msnbc.com/opinion/msnbc-opinion/measles-vaccine-rfk-vitamin-advice-rcna195372) (MSNBC)
+
+- [Vitamin A, While Helpful for Measles, Is Not a Replacement for Vaccination](https://abcnews.go.com/Health/wireStory/vitamin-helpful-measles-replacement-vaccination-119568173) (ABC News)
+
+- [New Mexico Adult Dies With Measles 1 Week After School-Age Measles Death](https://www.huffpost.com/entry/measles-outbreak-death-new-mexico_n_67cb4f8ae4b02f3ad1f4a15c) (HuffPost)
 
 - [West Texas reports nearly 200 measles cases. New Mexico is up to 30](https://www.bostonherald.com/2025/03/07/measles-outbreak-texas-new-mexico/) (Boston Herald)
 
@@ -2665,11 +2699,15 @@ Source: [News API](https://newsapi.org/)
 
 - [Second Measles Death Confirmed as Unvaccinated Adult Tests Positive Posthumously](https://www.ibtimes.com/second-measles-death-confirmed-unvaccinated-adult-tests-positive-posthumously-3765529) (International Business Times)
 
+- [Measles outbreak surpasses 200 cases in Texas and New Mexico](https://www.nbcnews.com/health/health-news/measles-outbreak-surpasses-200-cases-texas-new-mexico-rcna195258) (NBC News)
+
 - [Amid a growing measles outbreak, doctors worry RFK Jr. is sending the wrong message (Maria Godoy/NPR)](https://www.memeorandum.com/250307/p59) (Memeorandum.com)
 
 - [Second person dies in US measles outbreak](https://www.bbc.com/news/articles/cm2nzyjgrwxo) (BBC News)
 
 - [RFK Jr. Has Doctors Freaking Out as Second Measles Death Reported](https://newrepublic.com/post/192474/robert-f-kennedy-jr-doctors-second-measles-death) (The New Republic)
+
+- [An Adult in New Mexico Has Died with Measles](https://time.com/7265638/new-mexico-adult-measles-death/) (Time)
 
 - [Texas School Celebrates Having Lowest Vaccination Rate as Deadly Measles Outbreak Spreads: 'Not the Flex Y'all Think It Is'](https://www.ibtimes.com/texas-school-celebrates-having-lowest-vaccination-rate-deadly-measles-outbreak-spreads-not-flex-3765497) (International Business Times)
 
@@ -2681,11 +2719,17 @@ Source: [News API](https://newsapi.org/)
 
 - [Make Public-Health Officials Stay in Their Lane Again](https://www.theatlantic.com/ideas/archive/2025/03/rfk-public-health-officials-overreach/681950/) (The Atlantic)
 
+- [Second unvaccinated person dies of suspected measles](https://www.today.com/video/unvaccinated-adult-tests-positive-for-measles-after-dying-in-nm-233766981509) (TODAY)
+
 - [How a measles outbreak overwhelmed a small West Texas town](https://www.npr.org/2025/03/07/nx-s1-5312107/how-a-measles-outbreak-overwhelmed-a-small-west-texas-town) (NPR)
 
 - [Amid a growing measles outbreak, doctors worry RFK is sending the wrong message](https://www.npr.org/2025/03/07/nx-s1-5320352/measles-rfk-west-texas-outbreak) (NPR)
 
 - [Everything Old Is New Again, Again](https://sciencebasedmedicine.org/newagain/) (Sciencebasedmedicine.org)
+
+- [The Funniest Tweets From Women This Week](https://www.huffpost.com/entry/funniest-women-social-media-posts-2025-03-01_n_67c9efb7e4b0404dff3009a4) (HuffPost)
+
+- [As Measles Cases Spike, RFK Jr. Promotes Unconventional Therapies; Experts Warn They're Not Alternative To Vaccines](https://www.medicaldaily.com/measles-cases-spike-rfk-jr-promotes-unconventional-therapies-experts-warn-theyre-not-473223) (Medical Daily)
 
 - [Unvaccinated New Mexico adult tests positive for measles after death](https://www.voanews.com/a/unvaccinated-new-mexico-adult-tests-positive-for-measles-after-death-/8002037.html) (VOA News)
 
