@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 32
-- **Last harvest:** 2025-03-11 19:06
-- **Most recent article:** 2025-03-10 19:05:03
+- **New articles in last harvest:** 21
+- **Last harvest:** 2025-03-12 07:07
+- **Most recent article:** 2025-03-11 06:35:38
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-10 | 25-11 | 25-5 | 25-6 | 25-7 | 25-8 | 25-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 140 | 15 | 12 | 24 | 72 | 83 | 162 | 508 |
-| h5n1 | 23 | 11 | 48 | 72 | 55 | 54 | 42 | 305 |
-| dengue | 8 | 3 | 23 | 34 | 37 | 57 | 30 | 192 |
-| malaria | 29 | 8 | 29 | 25 | 12 | 7 | 20 | 130 |
+| measles | 142 | 32 | 13 | 24 | 72 | 83 | 162 | 528 |
+| h5n1 | 23 | 12 | 51 | 72 | 55 | 54 | 42 | 309 |
+| dengue | 8 | 3 | 24 | 34 | 37 | 57 | 30 | 193 |
+| malaria | 29 | 8 | 30 | 25 | 12 | 7 | 20 | 131 |
 | mpox | 14 | 3 | 21 | 28 | 18 | 15 | 26 | 125 |
-| meningitis | 4 | 0 | 7 | 2 | 12 | 11 | 7 | 43 |
+| meningitis | 4 | 0 | 8 | 2 | 12 | 11 | 7 | 44 |
 | chikungunya | 6 | 1 | 9 | 8 | 5 | 3 | 7 | 39 |
 | hpai | 10 | 0 | 6 | 3 | 9 | 5 | 4 | 37 |
 | zika | 3 | 0 | 8 | 6 | 2 | 6 | 2 | 27 |
 | rabies | 3 | 2 | 6 | 4 | 5 | 4 | 2 | 26 |
 | typhoid | 3 | 5 | 0 | 2 | 3 | 0 | 4 | 17 |
-| pertussis | 0 | 1 | 0 | 3 | 3 | 2 | 0 | 9 |
+| pertussis | 0 | 2 | 0 | 3 | 3 | 2 | 0 | 10 |
 | yersinia | 1 | 0 | 0 | 0 | 5 | 0 | 2 | 8 |
 | leptospirosis | 3 | 0 | 0 | 1 | 0 | 2 | 0 | 6 |
 | shigellosis | 3 | 0 | 0 | 0 | 0 | 0 | 1 | 4 |
@@ -2243,6 +2243,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Detectado un brote de meningitis en un colegio de Zaragoza con dos casos confirmados](https://www.huffingtonpost.es/sociedad/detectado-brote-meningitis-colegio-zaragoza-dos-casos-confirmadosbr.html) (Huffingtonpost.es)
 
+- [Rueda reivindica a Galicia como "líder" en la vacunación de la meningitis al contar con el calendario "más completo"](https://www.europapress.es/galicia/noticia-rueda-reivindica-galicia-lider-vacunacion-meningitis-contar-calendario-mas-completo-20250126115823.html) (Europapress.es)
+
 ## 25-5 (measles)
 
 - [Samoa's Health Chief Says RFK Jr. Spread Anti-Vax Misinformation Before Deadly Measles Outbreak](https://www.democracynow.org/2025/1/31/rfk_jr_measles_samoa) (Democracy Now!)
@@ -2268,6 +2270,8 @@ Source: [News API](https://newsapi.org/)
 - [Measles case confirmed in metro Atlanta](https://www.wsbtv.com/news/local/atlanta/measles-case-confirmed-metro-atlanta/ZYX6H3AHMJCDHNL6WUG5ESHTJY/) (WSB Atlanta)
 
 - [First case of measles in the state for the year reported, Georgia DPH says](https://www.fox5atlanta.com/news/first-case-measles-state-year-reported-georgia-dph-says) (FOX 5 Atlanta)
+
+- [Asha workers to identify 1 million children for MMR vaccination, special campaigns soon](https://www.livemint.com/industry/asha-workers-mmr-vaccination-special-campaigns-mumps-measles-rubella-accredited-social-health-activist-11737708760867.html) (Livemint)
 
 ## 25-5 (malaria)
 
@@ -2328,6 +2332,8 @@ Source: [News API](https://newsapi.org/)
 - [El grupo rebelde M23, apoyado por Ruanda, toma el control de la ciudad congolesa de Goma y 3.000 presos huyen de la cárcel](https://www.elespanol.com/mundo/20250127/grupo-rebelde-m23-apoyado-ruanda-toma-control-ciudad-congolesa-goma-presos-huyen-carcel/919658315_0.html) (Elespanol.com)
 
 - [Nigerian govt reaffirms commitment to malaria elimination](https://www.premiumtimesng.com/health/health-news/769668-nigerian-govt-reaffirms-commitment-to-malaria-elimination.html) (Premium Times)
+
+- [Georgia is malaria-free](https://www.thehindubusinessline.com/specials/pulse/georgia-is-malaria-free/article69142650.ece) (BusinessLine)
 
 ## 25-5 (hpai)
 
@@ -2441,6 +2447,12 @@ Source: [News API](https://newsapi.org/)
 
 - [News story: Human case of avian flu detected in England](https://www.gov.uk/government/news/human-case-of-avian-flu-detected-in-england) (Www.gov.uk)
 
+- [Infectious Disease “Experts”: Bird Feces In The Wind Could Spread Avian Influenza](https://www.shtfplan.com/headline-news/infectious-disease-experts-bird-feces-in-the-wind-could-spread-avian-influenza) (Shtfplan.com)
+
+- [Massachusetts bird flu: chicken farms on alert as H5N1 suspected in state](https://www.bostonglobe.com/2025/01/26/business/bird-flu-mass-chicken-farms/) (The Boston Globe)
+
+- [FDA recommends pet food companies revisit safety plans amid bird flu outbreak](https://www.nbcnews.com/health/health-news/raw-pet-food-bird-flu-outbreak-cats-fda-guidance-rcna189011) (NBC News)
+
 ## 25-5 (dengue)
 
 - [Dengue: a preocupação (e desafio) do marqueteiro de Lula](https://veja.abril.com.br/politica/dengue-a-preocupacao-e-desafio-do-marqueteiro-de-lula) (Abril.com.br)
@@ -2489,6 +2501,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Goiás registra 1ª morte por dengue no ano. Seis casos são investigados](https://www.metropoles.com/brasil/goias-registra-1a-morte-por-dengue-no-ano-seis-casos-sao-investigados) (Metropoles.com)
 
+- [Sociedade médica alerta para baixa procura da vacina contra a dengue; sorotipo 3 preocupa](https://valor.globo.com/brasil/noticia/2025/01/26/sociedade-medica-alerta-para-baixa-procura-da-vacina-contra-a-dengue-sorotipo-3-preocupa.ghtml) (Globo)
+
 ## 25-5 (chikungunya)
 
 - [De exóticas a autóctonas, cuando las enfermedades ya no viajan: "Lo importante es evitar que se conviertan en endémicas"](https://www.elmundo.es/ciencia-y-salud/salud/2025/02/01/678bc5a6e4d4d8c03d8b45b4.html) (El Mundo)
@@ -2529,6 +2543,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-11 (pertussis)
 
+- [Tos ferina: síntomas, tratamiento y cómo prevenir esta enfermedad contagiosa](https://www.excelsior.com.mx/trending/tos-ferina-sintomas-tratamiento-y-como-prevenir-esta-enfermedad-contagiosa/1704280) (Excelsior.com.mx)
+
 - [Whooping cough cases on the rise in North Carolina](https://www.wral.com/lifestyle/health/whooping-cough-rise-north-carolina-march-2025/) (WRAL.com)
 
 ## 25-11 (mpox)
@@ -2541,6 +2557,28 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-11 (measles)
 
+- [RFK Jr. Links Measles Outbreak to Poor Diet and Health](https://politicalwire.com/2025/03/11/rfk-jr-links-measles-outbreak-to-poor-diet-and-health/) (Politicalwire.com)
+
+- [RFK Jr. Makes Disturbing Claims Linking Measles To Poor Diet And Exercise](https://www.huffpost.com/entry/rfk-jr-measles-diet-exercise_n_67cf71b0e4b06805784ae7cd) (HuffPost)
+
+- [In West Texas' measles outbreak, families forego conventional medicine along with vaccines](https://www.nbcnews.com/health/health-news/west-texas-measles-outbreak-families-forego-conventional-medicine-vacc-rcna194795) (NBC News)
+
+- [Vaccines, Not Supplements, Remain the Best Way to Fight Measles](https://www.discovermagazine.com/health/vaccines-not-supplements-remain-the-best-way-to-fight-measles) (Discover Magazine)
+
+- [Could Spring Break Act as a Measles Superspreader?](https://www.newsweek.com/spring-break-measles-superspreader-outbreak-2042266) (Newsweek)
+
+- [Second Measles Death Reported in American Southwest Measles Outbreak](https://legalinsurrection.com/2025/03/second-measles-death-reported-in-american-southwest-measles-outbreak/) (Legalinsurrection.com)
+
+- [Without Offering Proof, Kennedy Links Measles Outbreak to Poor Diet and Health (Teddy Rosenbluth/New York Times)](https://www.memeorandum.com/250310/p127) (Memeorandum.com)
+
+- [Measles returns — here's what you need to know](https://www.npr.org/2025/03/10/1237260285/podcast-measles) (NPR)
+
+- [Measles Outbreak in Texas Highlights Impact of Underinvestment in Public Health](https://www.texastribune.org/2025/03/10/rural-texas-measles-outbreak-response/) (The Texas Tribune)
+
+- [RFK Jr. Is Helping Push Bogus Measles Treatments in Texas](https://newrepublic.com/post/192557/robert-f-kennedy-jr-push-bogus-measles-treatments) (The New Republic)
+
+- [My child is too young for the measles vaccine, and I live in fear](https://www.msnbc.com/opinion/msnbc-opinion/measles-vaccine-outbreak-kids-mothers-rcna195619) (MSNBC)
+
 - [Do You Need a Measles Vaccine Booster? Here’s What Experts Say](https://www.mentalfloss.com/measles-vaccine-booster) (Mental Floss)
 
 - [RFK Jr. Reportedly Had a Call With Texans Helping Distribute Unproven Measles Remedies (Kiera Butler/Mother Jones)](https://www.memeorandum.com/250310/p80) (Memeorandum.com)
@@ -2551,7 +2589,13 @@ Source: [News API](https://newsapi.org/)
 
 - [Is Dave Weldon The Best Candidate To Head CDC?](https://www.forbes.com/sites/judystone/2025/03/10/is-dave-weldon-the-best-candidate-to-head-cdc/) (Forbes)
 
+- [The best protection against measles? Get vaccinated, says chief medical officer](https://www.cbc.ca/news/canada/newfoundland-labrador/fitzgerald-measles-update-march-10-1.7479144) (CBC News)
+
 - [This 1 Measles Graph Obliterates the RFK-Hating Media’s Fear-Mongering](https://www.thegatewaypundit.com/2025/03/1-measles-graph-obliterates-rfk-hating-medias-fear/) (Thegatewaypundit.com)
+
+- [Measles Is Back. And a Lot More People Are at Risk](https://time.com/7266454/measles-outbreak-essay-ashish-jha/) (Time)
+
+- [Priorities!](https://freethoughtblogs.com/pharyngula/2025/03/10/priorities-3/) (Freethoughtblogs.com)
 
 - [How a Pharma Ad Ban Could Shift the Landscape of Television Advertising](https://rohitbhargava.com/how-a-pharma-ad-ban-could-shift-the-landscape-of-television-advertising/) (Rohitbhargava.com)
 
@@ -2561,9 +2605,15 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles Outbreak In United States: Signs And Symptoms Of Measles](https://doctor.ndtv.com/infection/measles-outbreak-in-united-states-signs-and-symptoms-of-measles-to-look-out-for-7892325) (NDTV News)
 
+- [Escalating Measles Outbreak Could Again Devastate The Recovering Cruise Line Industry](https://eyeoftheflyer.com/2025/03/10/escalating-measles-outbreak-could-again-devastate-the-recovering-cruise-line-industry/) (Eyeoftheflyer.com)
+
 - [Measles Misinformation Sparks Concern, Supreme Court Limits EPA Power, and Scientists Create Woolly Mice](https://www.scientificamerican.com/podcast/episode/measles-misinformation-sparks-concern-supreme-court-limits-epa-power-and/) (Scientific American)
 
+- [هل يحتاج من تلقى لقاح الحصبة في الطفولة جرعة معززة عندما يكبر؟](https://www.aljazeera.net/health/2025/3/10/%d9%87%d9%84-%d9%8a%d8%ad%d8%aa%d8%a7%d8%ac-%d9%85%d9%86-%d8%aa%d9%84%d9%82%d9%89-%d9%84%d9%82%d8%a7%d8%ad-%d8%a7%d9%84%d8%ad%d8%b5%d8%a8%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d8%b7%d9%81%d9%88%d9%84%d8%a9) (Aljazeera.net)
+
 - [Howard County resident who traveled internationally has confirmed case of measles (Greg Ng/WBAL)](https://www.memeorandum.com/250309/p49) (Memeorandum.com)
+
+- [Nova Scotians encouraged to get vaccinated for measles as case numbers in Canada rise](https://www.cbc.ca/news/canada/nova-scotia/nova-scotians-encouraged-to-get-vaccinated-for-measles-as-case-numbers-in-canada-rise-1.7478922) (CBC News)
 
 - [Measles Exposure Warning Issued for Washington Dulles Airport: What to Know](https://www.newsweek.com/measles-exposure-warning-issued-washington-dulles-airport-2041910) (Newsweek)
 
@@ -2590,6 +2640,8 @@ Source: [News API](https://newsapi.org/)
 - [No disease is deadlier in Africa than malaria. Trump's US aid cuts weaken the fight against it](https://abcnews.go.com/International/wireStory/disease-deadlier-africa-malaria-trumps-us-aid-cuts-119601916) (ABC News)
 
 ## 25-11 (h5n1)
+
+- [Sciensano traque la grippe aviaire chez les rongeurs](https://www.lalibre.be/planete/2025/03/11/sciensano-traque-la-grippe-aviaire-chez-les-rongeurs-7M3A6YTUG5EUJCZZRUYJUMEVJM/) (Lalibre.be)
 
 - [Influenza aviaria, l’appello degli esperti: “prepariamoci a una nuova pandemia”](https://www.dissapore.com/notizie/influenza-aviaria-lappello-degli-esperti-prepariamoci-a-una-nuova-pandemia/) (Dissapore.com)
 
@@ -2702,6 +2754,10 @@ Source: [News API](https://newsapi.org/)
 - [Rekrut nach Meningitis-Verdacht verstorben](https://burgenland.orf.at/stories/3295408/) (Burgenland.orf.at)
 
 ## 25-10 (measles)
+
+- [March 8, 2025 – PBS News Weekend full episode](https://www.pbs.org/newshour/show/march-8-2025-pbs-news-weekend-full-episode) (PBS)
+
+- [What’s behind the growing measles outbreak and how the Trump administration is responding](https://www.pbs.org/newshour/show/whats-behind-the-growing-measles-outbreak-and-how-the-trump-administration-is-responding) (PBS)
 
 - [US Measles Map Reveals Worst Hit States as Cases Surge](https://www.newsweek.com/measles-outbreak-map-us-states-2041628) (Newsweek)
 
