@@ -1,8 +1,638 @@
 {
-  "last_updated": "2025-03-12 07:07",
-  "count_articles_total": 1457,
-  "count_articles_new": 21,
+  "last_updated": "2025-03-12 19:05",
+  "count_articles_total": 1485,
+  "count_articles_new": 35,
   "articles": [
+    {
+      "id": 19183,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Wonkette.com",
+      "author": "Robyn Pennacchia",
+      "title": "RFK Jr. Will Cure Measles By Pouring Cod Liver Oil Down The Throats Of Every Child In America",
+      "description": "What could go wrong?",
+      "url": "https://www.wonkette.com/p/rfk-jr-will-cure-measles-by-pouring",
+      "urlToImage": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fae397183-55b3-47f3-a3f9-64522fe82697_900x600.jpeg",
+      "publishedAt": "2025-03-11 19:01:37",
+      "content": "As the measles outbreak rages on 222 cases across 12 states, with 38 hospitalizations and two deaths America is looking to Health And Human Services Secretary Robert F. Kennedy Jr. for guidance on h\u2026 [+6984 chars]",
+      "retrievedAt": "2025-03-12 19:05:54.183371",
+      "internal_id": "5e77a251b8e016ef051b8fa9ffa6b20ffaddcf1f31d1b992e35fd439d118e482",
+      "publishedAtLabel": "Mar 11"
+    },
+    {
+      "id": 19197,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "The Associated Press",
+      "title": "Authorities confirm a meningitis outbreak in the northwest has killed 26 people",
+      "description": "Nigerian authorities confirm a meningitis outbreak in the northwest has killed 26 people since January",
+      "url": "https://abcnews.go.com/Health/wireStory/nigerian-authorities-confirm-meningitis-outbreak-northwest-killed-26-119684202",
+      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "publishedAt": "2025-03-11 18:51:58",
+      "content": "Nigerian authorities confirm a meningitis outbreak in the northwest has killed 26 people since January ABUJA, Nigeria -- Nigerian authorities confirm a meningitis outbreak in the northwest has kille\u2026 [+25 chars]",
+      "retrievedAt": "2025-03-12 19:05:55.795083",
+      "internal_id": "37c126bcad8231e2cd2b64bda47dbfe0236c081a019845afdc3a36f9063da3d8",
+      "publishedAtLabel": "Mar 11"
+    },
+    {
+      "id": 19185,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "Texas measles cases rise to 223 (Elizabeth Crisp/The Hill)",
+      "description": "Elizabeth Crisp / The Hill: Texas measles cases rise to 223 \u2014 Texas's deadly measles outbreak is growing, as confirmed cases in the state have risen to at least 223 since January, according to the latest figures from the Texas Department of State Health Ser\u2026",
+      "url": "https://www.memeorandum.com/250311/p96",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2025/02/AP25052653529724-e1740516817508.jpg?w=1280",
+      "publishedAt": "2025-03-11 18:50:00",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-03-12 19:05:54.232493",
+      "internal_id": "b05089899ea30df6ad2812e3a8685bb2f3ad2db8769a8a8654f044c2dbfb7775",
+      "publishedAtLabel": "Mar 11"
+    },
+    {
+      "id": 19198,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Tunji, Yang Zhe",
+      "title": "At least 26 killed in Nigeria meningitis outbreak",
+      "description": "ABUJA, March 11 (Xinhua) -- At least 26 people have been killed in an outbreak of Cerebrospinal Meningitis (CSM) across four local government areas in Nigeria's northwestern Kebbi State, health authorities said Tuesday. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2025/03/12/at-least-26-killed-in-nigeria-meningitis-outbreak",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2025-03-11 18:24:00",
+      "content": "ABUJA, March 11 (Xinhua) -- At least 26 people have been killed in an outbreak of Cerebrospinal Meningitis (CSM) across four local government areas in Nigeria's northwestern Kebbi State, health autho\u2026 [+926 chars]",
+      "retrievedAt": "2025-03-12 19:05:55.803414",
+      "internal_id": "cab3116028f202427a7650bd1aed5a5879a543040925819c80836ae1919228fa",
+      "publishedAtLabel": "Mar 11"
+    },
+    {
+      "id": 19188,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "DEVI SHASTRI AP health writer",
+      "title": "Measles cases are still rising in Texas. Here's what you should know about the contagious virus",
+      "description": "Measles outbreaks in West Texas and New Mexico now have more than 250 cases total",
+      "url": "https://abcnews.go.com/US/wireStory/measles-cases-rising-texas-contagious-virus-119678508",
+      "urlToImage": "https://i.abcnewsfe.com/a/f0f922be-696e-4d3e-8fda-a20a7d7dacf9/wirestory_d5444b3397ac7c4034e63becc219aa33_16x9.jpg?w=1600",
+      "publishedAt": "2025-03-11 17:18:16",
+      "content": "Measles outbreaks in West Texas and New Mexico are now up to more than 250 cases, and two unvaccinated people have died from measles-related causes. Measles is caused by a highly contagious virus th\u2026 [+4122 chars]",
+      "retrievedAt": "2025-03-12 19:05:54.329425",
+      "internal_id": "237ee5b8d07d5fbb3291659d82a025c93c877ce07e732eb16381ddda4772bb3e",
+      "publishedAtLabel": "Mar 11"
+    },
+    {
+      "id": 19172,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Antonio Peque\u00f1o IV, Forbes Staff, \n Antonio Peque\u00f1o IV, Forbes Staff\n https://www.forbes.com/sites/antoniopequenoiv/",
+      "title": "Measles Outbreak: Cases In Texas Surpass 220 As No New Deaths Reported",
+      "description": "There has been one confirmed measles death while officials in New Mexico determine if a recent death in the state was caused by measles.",
+      "url": "https://www.forbes.com/sites/antoniopequenoiv/2025/03/11/measles-outbreak-cases-in-texas-surpass-220-as-no-new-deaths-reported/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67b8dc34f003eb75b733dff5/0x0.jpg?format=jpg&crop=3039,2027,x0,y0,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-03-11 17:13:21",
+      "content": "A measles outbreak in Texas has infected over 220 people as of Tuesday, though no new deaths have been reported days after a deceased man in a New Mexico county also experiencing an outbreak tested p\u2026 [+6523 chars]",
+      "retrievedAt": "2025-03-12 19:05:54.006274",
+      "internal_id": "3a89f854d6c6eea28c5e7ca21319eab58d222ca2ed415d3c82a1a0bd479797c2",
+      "publishedAtLabel": "Mar 11"
+    },
+    {
+      "id": 19173,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The New Republic",
+      "author": "Ellie Quinlan Houghtaling",
+      "title": "RFK Jr. Slammed for Latest Garbage Response to Measles Death",
+      "description": "Health care professionals are torching Robert F. Kennedy Jr.\u2019s response to a slew of measles cases popping up across the country. The health and human services secretary suggested Monday that a poor diet could have been behind the death of a West Texas child\u2026",
+      "url": "https://newrepublic.com/post/192611/robert-f-kennedy-jr-latest-response-measles-death",
+      "urlToImage": "https://images.newrepublic.com/d47dc0eefbde7baeb71e702a93d8827eac153efe.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+      "publishedAt": "2025-03-11 17:07:09",
+      "content": "Khalil has not been charged or convicted of any crime, the letter continues. As the Trump administration proudly admits, he was targeted solely for his activism and organizing.... We must be extremel\u2026 [+600 chars]",
+      "retrievedAt": "2025-03-12 19:05:54.014059",
+      "internal_id": "42b767f0c0e7fc83ab8720f03294e74ee97577734bbef75833a41c775a726682",
+      "publishedAtLabel": "Mar 11"
+    },
+    {
+      "id": 19177,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Mcsweeneys.net",
+      "author": "Eli Grober",
+      "title": "\u201cHe\u2019s Just Trolling Us,\u201d I Say as I Pay Two Hundred Dollars for Eggs and Our Town Gets Measles for the Second Year in a Row",
+      "description": "People don\u2019t understand what\u2019s funny anymore. You basically have to tell them when to laugh\u2014and that burden often falls on yours truly. \u201cHe\u2019s just trolling us,\u201d I say to my wife, as I pay two hundred dollars for eggs and our town gets measles for the second y\u2026",
+      "url": "https://www.mcsweeneys.net/articles/hes-just-trolling-us-i-say-as-i-pay-two-hundred-dollars-for-eggs-and-our-town-gets-measles-for-the-second-year-in-a-row",
+      "urlToImage": "http://edge.mcsw.net/mcsweeneys/5zc70183qwz59bmlahjq3b0jkvqy",
+      "publishedAt": "2025-03-11 17:00:00",
+      "content": "People dont understand whats funny anymore. You basically have to tell them when to laughand that burden often falls on yours truly. Hes just trolling us, I say to my wife, as I pay two hundred doll\u2026 [+1783 chars]",
+      "retrievedAt": "2025-03-12 19:05:54.084386",
+      "internal_id": "f54ae4217a4ca1f631686b19b2923e6416f819dbcc70383096e9a10e9e725e2f",
+      "publishedAtLabel": "Mar 11"
+    },
+    {
+      "id": 19202,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Blogger.com",
+      "author": "Randy Seaver",
+      "title": "Ask AI: \"Was Typhoid Fever Prevalent In 1874 In Ontario?\"",
+      "description": "",
+      "url": "https://www.blogger.com/comment/fullpage/post/26204193/2334699677672056116",
+      "urlToImage": null,
+      "publishedAt": "2025-03-11 16:48:00",
+      "content": "The Artificial Intelligence tools (like ChatGPT4, Claude, Gemini, Grok, Meta, CoPilot, GenSpark, and Perplexity) can provide much useful and nearly instant information about subjects in a concise (or\u2026 [+12420 chars]",
+      "retrievedAt": "2025-03-12 19:05:57.132137",
+      "internal_id": "22952a82f127b1129e7de0f96628c2ba3c6976417b0bf052d738916a5516783d",
+      "publishedAtLabel": "Mar 11"
+    },
+    {
+      "id": 19171,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Gizmodo.com",
+      "author": "Ed Cara",
+      "title": "RFK Jr.\u2019s Measles Cure? Cod Liver Oil and a Whole Lot of Other Nonsense",
+      "description": "In a recent Fox News interview, the newly enshrined Health and Human Services secretary touted the benefits of supplements and steroids for measles.",
+      "url": "https://gizmodo.com/rfk-jr-s-measles-cure-cod-liver-oil-and-a-whole-lot-of-other-nonsense-2000574321",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/12/RFK.jpg",
+      "publishedAt": "2025-03-11 16:45:18",
+      "content": "The measles outbreak in Texas is continuing to rage on, and Robert F. Kennedy Jr.the newly enshrined Health and Human Services secretaryis touting scientifically unsupported treatments for it. In a r\u2026 [+4340 chars]",
+      "retrievedAt": "2025-03-12 19:05:53.977150",
+      "internal_id": "767eaca0dacaa6dcfe97fb13bb083bba8692868467bacafdd76ce36d5aaebc59",
+      "publishedAtLabel": "Mar 11"
+    },
+    {
+      "id": 19174,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Live Science",
+      "author": "Adam Ratner",
+      "title": "'A political division, not a physical one, determined who got measles and who didn't': Lessons from Texarkana's 1970 outbreak",
+      "description": "\"Today, Texarkana's unusual geographic and political arrangement continues to instruct us about the deeply intertwined nature of politics and health.\"",
+      "url": "https://www.livescience.com/health/viruses-infections-disease/a-political-division-not-a-physical-one-determined-who-got-measles-and-who-didnt-lessons-from-texarkanas-1970-outbreak",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/NF44suq29PGG9SmEX3keCJ-1200-80.jpg",
+      "publishedAt": "2025-03-11 16:31:54",
+      "content": "In 2000, measles was declared eliminated from the United States following a successful, national vaccination program \u2014 transmission of the disease had ceased within America , but even now, measles h\u2026 [+5816 chars]",
+      "retrievedAt": "2025-03-12 19:05:54.047816",
+      "internal_id": "6001d48c647c75898322610379c565b27aca27d2b3f1c54dd30641810c8a3eaf",
+      "publishedAtLabel": "Mar 11"
+    },
+    {
+      "id": 19180,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Week Magazine",
+      "author": "theweekonlineeditors@futurenet.com (Peter Weber, The Week US)",
+      "title": "RFK Jr. offers alternative remedies as measles spreads",
+      "description": "Health secretary Robert F. Kennedy Jr. makes unsupported claims about containing the spread as vaccine skepticism grows",
+      "url": "https://theweek.com/health/measles-texas-outbreak-rfk-jr-vaccine",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/89u49jWnANd5Pzoxj9X2ZK-1200-80.jpg",
+      "publishedAt": "2025-03-11 16:12:34",
+      "content": "What happened As a measles outbreak in West Texas and New Mexico continues to spread, Health and Human Services Secretary Robert F. Kennedy Jr. publicly \"outlined a strategy for containing\" the outb\u2026 [+1954 chars]",
+      "retrievedAt": "2025-03-12 19:05:54.121456",
+      "internal_id": "450858df4cdde7b5590efa9ec9a758a61e445b2d1906c5a5a67d8fe552284c55",
+      "publishedAtLabel": "Mar 11"
+    },
+    {
+      "id": 19175,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "menshealth.com",
+      "author": "Erica Sweeney",
+      "title": "What It\u2019s Really Like to Get Measles",
+      "description": "Doctors explain what to expect with measles: Its lethargy, cough, and fever are worse than a cold. Plus, measles can also cause brain swelling, blindness, and death.",
+      "url": "https://www.menshealth.com/health/a64052771/what-its-really-like-to-get-measles/",
+      "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/measles-split-2-67d056897efe0.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+      "publishedAt": "2025-03-11 15:50:00",
+      "content": "TWENTY-FIVE YEARS ago, measles was declared eradicated in the United States. But it still resurfaces, and right now, there are more than 160 new cases cropping up across the country. In February,\u2026 [+8468 chars]",
+      "retrievedAt": "2025-03-12 19:05:54.056043",
+      "internal_id": "69e6833f2f2d49a0be6b3066e437b7e86009539f13173ff50d706e3abdb86773",
+      "publishedAtLabel": "Mar 11"
+    },
+    {
+      "id": 19201,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Benessereblog.it",
+      "author": "Lucia Rossi",
+      "title": "Vaiolo delle scimmie: in Africa si registrano quasi 3mila nuovi casi in sei settimane",
+      "description": "L'epidemia di mpox in Africa centrale cresce, con 2.744 nuovi casi e 16 decessi. L'Uganda supera la Repubblica democratica del Congo come Paese pi\u00f9 colpito. L'articolo Vaiolo delle scimmie: in Africa si registrano quasi 3mila nuovi casi in sei settimane provi\u2026",
+      "url": "https://www.benessereblog.it/vaiolo-delle-scimmie-in-africa-si-registrano-quasi-3mila-nuovi-casi-in-sei-settimane/",
+      "urlToImage": null,
+      "publishedAt": "2025-03-11 15:40:33",
+      "content": "L\u2019epidemia di mpox, causata dal ceppo Ib del virus, continua a diffondersi in Africa centrale, con un incremento allarmante dei casi. Secondo l\u2019ultima analisi dell\u2019Organizzazione mondiale della sanit\u2026 [+1565 chars]",
+      "retrievedAt": "2025-03-12 19:05:56.920446",
+      "internal_id": "cca343823002402185895ff0a1f6f5d33ad0db98f006da1292175e162ae8526a",
+      "publishedAtLabel": "Mar 11"
+    },
+    {
+      "id": 19179,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Truthout",
+      "author": "Sasha Abramsky",
+      "title": "Five Years After COVID\u2019s Onset, the Republican Party Wages War Against Vaccines",
+      "description": "Despite the ongoing spread of COVID, measles and bird flu, Trump has handed power to anti-vaxxers and vaccine skeptics.",
+      "url": "https://truthout.org/articles/five-years-after-covids-onset-the-republican-party-wages-war-against-vaccines/",
+      "urlToImage": "https://truthout.org/app/uploads/2025/03/2025_0311-vaccine-scaled.jpg",
+      "publishedAt": "2025-03-11 15:12:43",
+      "content": "With vaccine skeptic Robert F. Kennedy Jr. now in control of the Department of Health and Human Services, state-level anti-vax politicians believe their moment has struck to fundamentally shift the c\u2026 [+9760 chars]",
+      "retrievedAt": "2025-03-12 19:05:54.107285",
+      "internal_id": "77ea8f1a2080522c0ba6c4a297fa218fb7c3759c5d76d5352f32967463929a07",
+      "publishedAtLabel": "Mar 11"
+    },
+    {
+      "id": 19184,
+      "query": [
+        "measles"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Jordan King",
+      "title": "Measles Booster: Should You Update Your Vaccine?",
+      "description": "There have been three measles outbreaks so far this year.",
+      "url": "https://www.newsweek.com/measles-booster-outbreak-texas-vaccine-2042881",
+      "urlToImage": "https://d.newsweek.com/en/full/2604743/measles-vaccine.jpg",
+      "publishedAt": "2025-03-11 15:03:58",
+      "content": "Worries about measles and the measles, mumps, and rubella (MMR) vaccine are rife amid current outbreaks in the U.S. The Context A total of 222 measles cases have been reported across the U.S. (Alas\u2026 [+3723 chars]",
+      "retrievedAt": "2025-03-12 19:05:54.210886",
+      "internal_id": "45555b16d44de20077d5becfb3932e1625762d6074a54fee3350ed77755ae589",
+      "publishedAtLabel": "Mar 11"
+    },
+    {
+      "id": 19169,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Anushka Juliet",
+      "title": "Man commits suicide at CMCH isolation ward alleged of rabies infection",
+      "description": "A man suspected of rabies infection admitted to the Coimbatore Medical College Hospital (CMCH) commited suicide within the isolated ward.",
+      "url": "https://timesofindia.indiatimes.com/city/chennai/man-commits-suicide-at-cmch-isolation-ward-alleged-of-rabies-infection/articleshow/118896181.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-118896185,width-1070,height-580,imgsize-514233,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2025-03-11 15:02:34",
+      "content": "Baby names inspired by the festival of colors, Holi",
+      "retrievedAt": "2025-03-12 19:05:53.603130",
+      "internal_id": "28fe612f2de592ca84b3139027a3a7077855a2f19305f6dc38b9b9355d6de3ab",
+      "publishedAtLabel": "Mar 11"
+    },
+    {
+      "id": 19176,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Skepchick.org",
+      "author": "Rebecca Watson",
+      "title": "We Should Be More Scared of Measles",
+      "description": "This post contains a video, which you can also view here. To support more videos like this, head to patreon.com/rebecca! Transcript: I\u2019ve been talking about measles for about the last 20 years, banging this drum so often that I really debated whether or not I\u2026",
+      "url": "https://skepchick.org/2025/03/we-should-be-more-scared-of-measles/",
+      "urlToImage": "https://skepchick.org/wp-content/uploads/2025/03/MMR-rebecca-watson-scaled.jpg",
+      "publishedAt": "2025-03-11 15:01:39",
+      "content": "This post contains a video, which you can also view here. To support more videos like this, head to patreon.com/rebecca! Transcript: Ive been talking about measles for about the last 20 years, bang\u2026 [+5356 chars]",
+      "retrievedAt": "2025-03-12 19:05:54.063669",
+      "internal_id": "e78f3f0b5438fbd7ed1a42a595d6d54cc86c108f1c3b952a6fdc0a32334a8b0d",
+      "publishedAtLabel": "Mar 11"
+    },
+    {
+      "id": 19187,
+      "query": [
+        "measles"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ET Online",
+      "title": "Eliminated 25 years ago, this highly contagious viral illness is on the rise in US: Check its symptoms",
+      "description": "Measles outbreak in US: A measles outbreak in West Texas and a neighboring county in New Mexico has led to 222 cases and two deaths, mainly affecting unvaccinated individuals. Measles, a highly contagious and potentially life-threatening virus, spreads throug\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/us-news-measles-outbreak-texas-new-mexico-eliminated-25-years-ago-this-highly-contagious-viral-illness-is-on-rise-in-us-check-its-symptoms/articleshow/118895571.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-118895594,width-1200,height-630,imgsize-88406,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-03-11 14:40:44",
+      "content": "The growing measles outbreak in the United States Southwest has claimed two lives so far. The second fatality comes roughly a week after measles took the life of an unvaccinated child in nearby Texas\u2026 [+3610 chars]",
+      "retrievedAt": "2025-03-12 19:05:54.321673",
+      "internal_id": "ca29e96445fed348dfd4169b5d4c76331d1b224405cd28eb9b017ac5bc13a3b2",
+      "publishedAtLabel": "Mar 11"
+    },
+    {
+      "id": 19186,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "The Texas Girl Who Died From Measles (Tom Bartlett/The Atlantic)",
+      "description": "Tom Bartlett / The Atlantic: The Texas Girl Who Died From Measles \u2014 Her father tells her story. \u2014 Peter greeted me in the mostly empty gravel parking lot of a Mennonite church on the outskirts of Seminole, a small city in West Texas surrounded by cotton a\u2026",
+      "url": "https://www.memeorandum.com/250311/p43",
+      "urlToImage": "https://cdn.theatlantic.com/thumbor/nFljSpcwV-OxIFSlOVF1sDk3K5M=/35x505:2596x1839/1200x625/media/img/mt/2025/03/2025_03_10_Measles_Texas_Bartlett_AZ/original.jpg",
+      "publishedAt": "2025-03-11 14:15:01",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-03-12 19:05:54.292968",
+      "internal_id": "2eb7cc4e9d6ded583e184c815e24e6f2c911992026cdf91347eeb6ced3e5e1a3",
+      "publishedAtLabel": "Mar 11"
+    },
+    {
+      "id": 19192,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "new-scientist",
+      "source_name": "New Scientist",
+      "author": "Michael Le Page",
+      "title": "H5N1 flu is now killing birds on the continent of Antarctica",
+      "description": "A highly pathogenic strain of bird flu is spreading south along the Antarctic Peninsula and could devastate populations of penguins and other seabirds",
+      "url": "https://www.newscientist.com/article/2471611-h5n1-flu-is-now-killing-birds-on-the-continent-of-antarctica/",
+      "urlToImage": "https://images.newscientist.com/wp-content/uploads/2025/03/11134059/SEI_243434500.jpg",
+      "publishedAt": "2025-03-11 14:03:54",
+      "content": "Ad\u00e9lie penguins in Antarctica are under threat from bird flu Steve Bloom Images / Alamy Stock Photo H5N1 bird flu has been found in dead birds on Antarctica for the first time. The deadly strain of\u2026 [+3571 chars]",
+      "retrievedAt": "2025-03-12 19:05:55.069841",
+      "internal_id": "f3d9893aea6de974341824c12c41f91a3e8f9821216e00d6d6308abd41ad31eb",
+      "publishedAtLabel": "Mar 11"
+    },
+    {
+      "id": 19199,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Pinkan P. Kariodimedjo, Nadia Fadila, Sydney R. Fine, Hidayat Trimarsanto, Chris Cotter, Leily Trianty, Michelle S. Hsiang, Jennifer Smith, Adam Bennett, Rintis Noviyanti, Farah N. Coutrier",
+      "title": "Characterizing the genetic diversity and population structure of Plasmodium knowlesi in Aceh Province, Indonesia",
+      "description": "As in other parts of Southeast Asia, efforts to achieve or sustain malaria elimination in Indonesia have been threatened by the emergence of human infection with the primate species P. knowlesi. To understand the transmission dynamics of this species, investi\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318608",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0318608.g004&size=inline",
+      "publishedAt": "2025-03-11 14:00:00",
+      "content": "Abstract As in other parts of Southeast Asia, efforts to achieve or sustain malaria elimination in Indonesia have been threatened by the emergence of human infection with the primate species P. know\u2026 [+31737 chars]",
+      "retrievedAt": "2025-03-12 19:05:56.227432",
+      "internal_id": "28133c382d96e4fea567abe8ffc89ca9072697f184cf481aebe0853f9718122e",
+      "publishedAtLabel": "Mar 11"
+    },
+    {
+      "id": 19203,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Evangelia Vayena, Lea Fuchs, Homa Mohammadi Peyhani, Konrad Lagoda, Bidong Nguyen, Wolf-Dietrich Hardt, Vassily Hatzimanikatis",
+      "title": "Metabolic network reconstruction as a resource for analyzing Salmonella Typhimurium SL1344 growth in the mouse intestine",
+      "description": "Author summary Nontyphoidal Salmonella strains are among the most ubiquitous enteropathogens that contribute significantly to global morbidity and mortality, posing a substantial burden on public health. While current antibiotic therapies have proven ineffect\u2026",
+      "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012869",
+      "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1012869.g007&size=inline",
+      "publishedAt": "2025-03-11 14:00:00",
+      "content": "Citation: Vayena E, Fuchs L, Peyhani HM, Lagoda K, Nguyen B, Hardt W-D, et al. (2025) Metabolic network reconstruction as a resource for analyzing Salmonella Typhimurium SL1344 growth in the mouse in\u2026 [+62700 chars]",
+      "retrievedAt": "2025-03-12 19:05:57.155101",
+      "internal_id": "4669e939ad739f775d1355d2f80c577fce999d562969cf86a7e0eae132e6edf2",
+      "publishedAtLabel": "Mar 11"
+    },
+    {
+      "id": 19182,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Lawyersgunsmoneyblog.com",
+      "author": "Paul Campos",
+      "title": "If you get sick it\u2019s your fault, unless you got vaccinated, in which case it\u2019s the vaccine\u2019s fault",
+      "description": "No further comment: In a sweeping interview, Robert F. Kennedy Jr., the health and human services secretary, outlined a strategy for containing the measles outbreak in West Texas that strayed far from mainstream science, relying heavily on fringe theories abo\u2026",
+      "url": "https://www.lawyersgunsmoneyblog.com/2025/03/if-you-get-sick-its-your-fault-unless-you-got-vaccinated-in-which-case-its-the-vaccines-fault",
+      "urlToImage": "https://www.lawyersgunsmoneyblog.com/wp-content/uploads/2025/03/RFK-homepage-tile.jpg",
+      "publishedAt": "2025-03-11 13:40:02",
+      "content": "In a sweeping interview, Robert F. Kennedy Jr., the health and human services secretary, outlined a strategy for containing the measles outbreak in West Texas that strayed far from mainstream science\u2026 [+2490 chars]",
+      "retrievedAt": "2025-03-12 19:05:54.168748",
+      "internal_id": "010af2220665bc1fbc3b10478983d6ecd2478276785abbb1fbf910b2a3dd88ea",
+      "publishedAtLabel": "Mar 11"
+    },
+    {
+      "id": 19200,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "JANVIER BARHAHIGA Associated Press, CHINEDU ASADU Associated Press",
+      "title": "Congo faces setback in mpox response after Rwanda-backed rebels advance in the east",
+      "description": "Six weeks after Rwanda-backed rebels captured the eastern Congolese cities of Goma and Bukavu, the region is facing a setback in its fight against the mpox outbreak",
+      "url": "https://abcnews.go.com/International/wireStory/congo-faces-setback-mpox-response-after-rwanda-backed-119666065",
+      "urlToImage": "https://i.abcnewsfe.com/a/399d949f-8ea7-4a29-a429-e95a8b79eccc/wirestory_97ce140be2d7069aa0428a25011bba99_16x9.jpg?w=1600",
+      "publishedAt": "2025-03-11 13:00:05",
+      "content": "MITI MURHESA, Congo -- Hospitals across eastern Congo that were once at the forefront of the countrys response to the mpox outbreak are facing a setback in detecting the disease and offering treatmen\u2026 [+4200 chars]",
+      "retrievedAt": "2025-03-12 19:05:56.905868",
+      "internal_id": "043c42802afa34472a3ac4591b70b9c1081dd0a4fc791245d61593e5784d45ff",
+      "publishedAtLabel": "Mar 11"
+    },
+    {
+      "id": 19181,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Eschatonblog.com",
+      "author": "noreply@blogger.com (Atrios)",
+      "title": "Eugenics",
+      "description": "When Covid hit, there were a lot of right wing groups - not quite as prominent in the US as elsewhere - who saw it as an opportunity to cull the botched and the bungled, believing only the weak get sick, somehow. I'm not sure what most of these people see whe\u2026",
+      "url": "https://www.eschatonblog.com/2025/03/eugenics.html",
+      "urlToImage": null,
+      "publishedAt": "2025-03-11 13:00:00",
+      "content": "In later comments, Mr. Kennedy suggested that severe symptoms mainly affected people who were unhealthy before contracting measles.\u201cIt\u2019s very, very difficult for measles to kill a healthy person,\u201d he\u2026 [+309 chars]",
+      "retrievedAt": "2025-03-12 19:05:54.141760",
+      "internal_id": "287e56aff7df099c1ef04565409cea370d1600dab0d3454832c115b152d27f2d",
+      "publishedAtLabel": "Mar 11"
+    },
+    {
+      "id": 19194,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ilgiornale.it",
+      "author": "redazione@ilgiornale-web.it (Agenzia Adnkronos)",
+      "title": "West Nile Dengue e altre arbovirosi protagoniste del podcast 'Ascolta e vedrai'",
+      "description": "Descrizione contenuto West Nile Dengue e altre arbovirosi protagoniste del podcast 'Ascolta e vedrai'",
+      "url": "https://www.ilgiornale.it/news/adnkronos/west-nile-dengue-e-altre-arbovirosi-protagoniste-podcast-2450065.html",
+      "urlToImage": "https://img.ilgcdn.com/sites/default/files/styles/social/public/foto/2025/03/11/OI_SpecialeSITO.jpg?_=1741696202",
+      "publishedAt": "2025-03-11 12:30:02",
+      "content": "Roma, 11 mar. (Adnkronos Salute) - Laumento delle temperature favorisce la presenza, anche alle nostre latitudini, di arbovirosi, un particolare tipo di zoonosi virali trasmesse, dagli animali alluom\u2026 [+4921 chars]",
+      "retrievedAt": "2025-03-12 19:05:55.594546",
+      "internal_id": "d4098061d26a3544b54b75b29151405ed519a64cf2524bc0338b3f75ab50949b",
+      "publishedAtLabel": "Mar 11"
+    },
+    {
+      "id": 19191,
+      "query": [
+        "measles"
+      ],
+      "source_id": "nbc-news",
+      "source_name": "NBC News",
+      "author": "Elizabeth Robinson",
+      "title": "Stocks tumble after Trump imposes tariffs and Ukraine's largest drone attack on Moscow: Morning Rundown",
+      "description": "Trump changes tone on markets as stocks tumble. Ukraine's largest drone attack on Moscow. Love isn\u2019t blind to politics. Push to treat measles with supplements.",
+      "url": "https://www.nbcnews.com/news/us-news/stocks-trump-tariffs-rubio-zelenskyy-ukraine-morning-rundown-rcna195762",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-03/250311-moscow-mb-0656-712c23.jpg",
+      "publishedAt": "2025-03-11 11:05:51",
+      "content": "Donald Trump switches up his messaging as the stock market plummets. Ukraine launches its largest-ever drone attack on Moscow. And some West Texas families embrace unproven measles remedies over vacc\u2026 [+7769 chars]",
+      "retrievedAt": "2025-03-12 19:05:54.359441",
+      "internal_id": "bac14e5e3a4eabd53ebdf04dc7475ce510fade7af7cfd6dc8026bac42b2e8d82",
+      "publishedAtLabel": "Mar 11"
+    },
+    {
+      "id": 19193,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Legalinsurrection.com",
+      "author": "Leslie Eastman",
+      "title": "H5N1 Bird Flu Strain Reported to be Another \u201cGain-of-Function\u201d Virus",
+      "description": "This strain may have emerged from gain-of-function research conducted at two specific facilities: the USDA Southeast Poultry Research Laboratory (SEPRL) in Athens, Georgia, and the Erasmus Medical Center in Rotterdam, the Netherlands. The post H5N1 Bird Flu S\u2026",
+      "url": "https://legalinsurrection.com/2025/03/h5n1-bird-flu-strain-reported-to-be-another-gain-of-function-virus/",
+      "urlToImage": "https://legalinsurrection.com/wp-content/uploads/2025/03/LI-68-GOF-Bird-Flu.png",
+      "publishedAt": "2025-03-11 11:00:17",
+      "content": "Back in 2022, during the early days of the \u201cbird flu\u201d pandemic, I wondered if the H5N1 strain of bird flu was a gain-of-function creation. The reason for it was two-fold. One was the high kill ratio\u2026 [+5431 chars]",
+      "retrievedAt": "2025-03-12 19:05:55.125201",
+      "internal_id": "c25d9bc5952fa095474a24aa8d9668a5f97829e1d49068b692bea11101f096b8",
+      "publishedAtLabel": "Mar 11"
+    },
+    {
+      "id": 19196,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Adetutu Sobowale",
+      "title": "BREAKING: Suspected meningitis outbreak kills 26 in Kebbi \u2013 Govt",
+      "description": "The Kebbi Government has confirmed that 26 people have died from a suspected outbreak of cerebrospinal meningitis in Aliero, Gwandu, and Jega local government areas. Cerebrospinal meningitis is a serious infection that causes inflammation of the protective me\u2026",
+      "url": "https://punchng.com/suspected-meningitis-outbreak-kills-26-in-kebbi-govt/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2017/04/03121128/meningitis-victim.jpg",
+      "publishedAt": "2025-03-11 10:35:45",
+      "content": "A meningitis patient undergoing treatment. The Kebbi Government has confirmed that 26 people have died from a suspected outbreak of cerebrospinal meningitis in Aliero, Gwandu, and Jega local governm\u2026 [+419 chars]",
+      "retrievedAt": "2025-03-12 19:05:55.784524",
+      "internal_id": "e1caad6d9dc6a2e0c1d4b8de0b24cc9717b5f8321a9ce14b7bec3e434b0d7d55",
+      "publishedAtLabel": "Mar 11"
+    },
+    {
+      "id": 19170,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Www.bbs.bt",
+      "author": "Sonam Pem",
+      "title": "Experts gather in Paro to refine Bhutan One Health Strategy to tackle zoonotic diseases - BBSCL",
+      "description": "Bhutan has faced several zoonotic diseases, including COVID-19 and recurring outbreaks of avian, swine flu, and rabies, all of which have significantly",
+      "url": "https://www.bbs.bt/225825/",
+      "urlToImage": "https://www.bbs.bt/wp-content/uploads/2025/03/ne-health.jpg",
+      "publishedAt": "2025-03-11 10:24:56",
+      "content": "Bhutan has faced several zoonotic diseases, including COVID-19 and recurring outbreaks of avian, swine flu, and rabies, all of which have significantly impacted both animal and human health. To comba\u2026 [+2131 chars]",
+      "retrievedAt": "2025-03-12 19:05:53.637338",
+      "internal_id": "7a07b3bdbc2b9473bd939a89d6c2ec0d91d4677d3ab2224df2e3631fbfed4c35",
+      "publishedAtLabel": "Mar 11"
+    },
+    {
+      "id": 19178,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Raw Story",
+      "author": "Erik De La Garza",
+      "title": "\u2018This is just eugenicism\u2019: RFK skewered as he blames diet and exercise for measles deaths",
+      "description": "Social media lit up with fury Monday night in response to Health and Human Services Secretary Robert F. Kennedy Jr. suggesting that diet may be to blame for a Texas child\u2019s death of measles.\u201cIt\u2019s very, very difficult for measles to kill a healthy person,\u201d Ken\u2026",
+      "url": "https://www.rawstory.com/rfk-measles-2671301777/",
+      "urlToImage": "https://www.rawstory.com/media-library/robert-f-kennedy-jr-speaks-in-the-oval-office-of-the-white-house-with-a-painting-on-the-background-depicting-former-u-s-pres.jpg?id=56708438&width=1200&height=600&coordinates=0%2C328%2C0%2C328",
+      "publishedAt": "2025-03-11 10:09:06",
+      "content": "Social media lit up with fury Monday night in response to Health and Human Services Secretary Robert F. Kennedy Jr. suggesting that diet may be to blame for a Texas childs death of measles. Its very\u2026 [+1980 chars]",
+      "retrievedAt": "2025-03-12 19:05:54.092026",
+      "internal_id": "8c0549f82ed202266a40ca6c833f13d9167c2abd0dd919468a028e458e05d994",
+      "publishedAtLabel": "Mar 11"
+    },
+    {
+      "id": 19195,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Animashaun Salman",
+      "title": "Sokoto govt alerts residents on meningitis outbreak",
+      "description": "Sokoto State residents have been advised to remain alert as suspected meningitis cases rise in some local government areas. This was contained in a statement issued by Nura Maikwanci, the Information/Public Relations Officer of the Ministry of Health, Commiss\u2026",
+      "url": "https://punchng.com/sokoto-govt-alerts-residents-on-meningitis-outbreak/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2017/04/03121128/meningitis-victim.jpg",
+      "publishedAt": "2025-03-11 10:08:02",
+      "content": "Sokoto State residents have been advised to remain alert as suspected meningitis cases rise in some local government areas. This was contained in a statement issued by Nura Maikwanci, the Informatio\u2026 [+901 chars]",
+      "retrievedAt": "2025-03-12 19:05:55.775749",
+      "internal_id": "b617cec0e27208206e6afb8a32bdedabe7480c8e8561058fce329407f8173cae",
+      "publishedAtLabel": "Mar 11"
+    },
+    {
+      "id": 19190,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Quebec measles outbreak linked to declining vaccination rates",
+      "description": "Measles is making a comeback in Quebec. From December to March, at least 31 cases were reported and experts point to one cause \u2014 declining vaccination rates.",
+      "url": "https://www.cbc.ca/news/canada/montreal/measles-quebec-vaccination-rates-decline-1.7479927",
+      "urlToImage": "https://i.cbc.ca/1.7110648.1707503678!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_1180/measles-vaccine.jpg?im=Resize%3D620",
+      "publishedAt": "2025-03-11 08:00:00",
+      "content": "Measles is making a comeback in Quebec. From December to March, at least 31 cases were reported and experts point to one cause declining vaccination rates. \"The unifying theme for all of these place\u2026 [+3737 chars]",
+      "retrievedAt": "2025-03-12 19:05:54.351274",
+      "internal_id": "35939e4680e51c0a2797bcdf1a6bc028f402269e88125c66096ceb052def5c69",
+      "publishedAtLabel": "Mar 11"
+    },
+    {
+      "id": 19189,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Medical Daily",
+      "author": "Suneeta Sunny",
+      "title": "'Measles Parties' A Deadly Gamble, Officials Warn\u2014Get Vaccinated",
+      "description": "Expert say going to measles parties \"a foolish thing,\" as the virus is highly unpredictable, and there is no way to determine how severe an infection will be.",
+      "url": "https://www.medicaldaily.com/measles-parties-deadly-gamble-officials-warnget-vaccinated-473236",
+      "urlToImage": "https://d.medicaldaily.com/en/full/479851/measles.jpg",
+      "publishedAt": "2025-03-11 07:11:37",
+      "content": "As measles cases surge in Texas, health officials are raising alarms over a troubling trend: parents intentionally exposing their children to the virus in so-called \"measles parties\" hoping to build \u2026 [+2216 chars]",
+      "retrievedAt": "2025-03-12 19:05:54.343447",
+      "internal_id": "8da9cf0ba21da287b1e9820f1c8b0bedf562e8c59efdb18b5ef49c2cf2eb3168",
+      "publishedAtLabel": "Mar 11"
+    },
     {
       "id": 19154,
       "query": [
@@ -26148,132 +26778,6 @@
       "content": "Goi\u00e2nia \u2013 Goi\u00e1s registrou a primeira morte por dengue no estado neste ano de 2025. Segundo informa\u00e7\u00f5es da Secretaria de Sa\u00fade de Goi\u00e1s (SES-GO), o caso foi na cidade de Heitorai, no centro goiano. C\u2026 [+2301 chars]",
       "retrievedAt": "2025-01-28 07:06:26.469513",
       "internal_id": "d399c5b754980be912654a4e88828514e2a56e9e8c555fc593bff96b9edbb3f1",
-      "publishedAtLabel": "Jan 26"
-    },
-    {
-      "id": 17712,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Shtfplan.com",
-      "author": "Mac Slavo",
-      "title": "Infectious Disease \u201cExperts\u201d: Bird Feces In The Wind Could Spread Avian Influenza",
-      "description": "Infectious disease \"experts\" in Minnesota are now claiming that \"windblown\" bird feces could spread the H5N1 avian influenza. Dr. Michael Osterholm hosts a podcast at the University of Minnesota called \"Osterholm Update,\" where he discusses the latest outbrea\u2026",
-      "url": "https://www.shtfplan.com/headline-news/infectious-disease-experts-bird-feces-in-the-wind-could-spread-avian-influenza",
-      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2024/12/birdflu1.jpg",
-      "publishedAt": "2025-01-26 18:00:48",
-      "content": "Infectious disease \u201cexperts\u201d in Minnesota are now claiming that \u201cwindblown\u201d bird feces could spread the H5N1 avian influenza. Dr. Michael Osterholm hosts a podcast at the University of Minnesota call\u2026 [+1963 chars]",
-      "retrievedAt": "2025-01-27 19:05:41.573787",
-      "internal_id": "327f0a90665da14f00990d5d69ce4e14a6f3649e1cd2f9dcb2db25b95e7f895b",
-      "publishedAtLabel": "Jan 26"
-    },
-    {
-      "id": 17715,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "globo",
-      "source_name": "Globo",
-      "author": null,
-      "title": "Sociedade m\u00e9dica alerta para baixa procura da vacina contra a dengue; sorotipo 3 preocupa",
-      "description": "Sorotipo 3 n\u00e3o circula de forma predominante no pa\u00eds desde 2008 e grande parte da popula\u00e7\u00e3o est\u00e1 suscet\u00edvel ao DENV-3",
-      "url": "https://valor.globo.com/brasil/noticia/2025/01/26/sociedade-medica-alerta-para-baixa-procura-da-vacina-contra-a-dengue-sorotipo-3-preocupa.ghtml",
-      "urlToImage": "https://s2-valor.glbimg.com/aM8uxs52bkxYOrDs8fcwzJSatng=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2024/F/2/n0zs2aSXyBHcYsi6KDvw/mosquito-4998145-1920.jpeg",
-      "publishedAt": "2025-01-26 14:31:24",
-      "content": "Moeda americana chegou a atingir R$ 5,86 na m\u00ednima do dia, em meio ao bom humor global com Trump, mas desconforto com medidas estudadas pelo governo brasileiro para conter a alta de alimentos pesou n\u2026 [+7 chars]",
-      "retrievedAt": "2025-01-27 19:05:41.965111",
-      "internal_id": "35a99a1dcba4ac0e7ca6ab1140b68d2007cbcdcf79c6c7188bf8ca1d1889dfb8",
-      "publishedAtLabel": "Jan 26"
-    },
-    {
-      "id": 17711,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Livemint",
-      "author": "Priyanka Sharma",
-      "title": "Asha workers to identify 1 million children for MMR vaccination, special campaigns soon",
-      "description": "The government is aiming to achieve 100% coverage to eliminate mumps, measles and rubella by 2026.",
-      "url": "https://www.livemint.com/industry/asha-workers-mmr-vaccination-special-campaigns-mumps-measles-rubella-accredited-social-health-activist-11737708760867.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2025/01/26/1600x900/Not-Real-News--0_1682410928524_1737899278480.jpg",
-      "publishedAt": "2025-01-26 13:59:13",
-      "content": "New Delhi: The campaign to eliminate mumps, measles and rubella is set to scaled up by identifying children who are yet to be vaccinated for MMRby 2026. As many as 1 million children have still not \u2026 [+2345 chars]",
-      "retrievedAt": "2025-01-27 19:05:40.262673",
-      "internal_id": "af7eca8bc6606e9b2f07829a6b45ed4a2b7a08f4abf193606b97efec07181176",
-      "publishedAtLabel": "Jan 26"
-    },
-    {
-      "id": 17714,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "The Boston Globe",
-      "author": "Maren Halpin",
-      "title": "Massachusetts bird flu: chicken farms on alert as H5N1 suspected in state",
-      "description": "State officials suspect the avian flu has killed dozens of wild birds in Boston, Amherst, and Plymouth, and farmers are stepping up precautions.",
-      "url": "https://www.bostonglobe.com/2025/01/26/business/bird-flu-mass-chicken-farms/",
-      "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/3VNTCS6WOH36W2XKHEOURISYIY.jpg?auth=1a116965f8701559103bf34278c22faf76c29ee8041ceb759b4554119df008a5&width=1440",
-      "publishedAt": "2025-01-26 13:46:42",
-      "content": "It makes me sick thinking about it, said Anne Diemand Bucci, co-owner of Diemand Farm in Wendell, in north-central Massachusetts, where she has as many as 2,000 egg-laying hens. It would be devastati\u2026 [+5418 chars]",
-      "retrievedAt": "2025-01-27 19:05:41.652967",
-      "internal_id": "c7228e5a5fffd5db7fa328afc631d2f1956c1bb4f1f31095120e4e3e90f6f656",
-      "publishedAtLabel": "Jan 26"
-    },
-    {
-      "id": 17713,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "nbc-news",
-      "source_name": "NBC News",
-      "author": "Linda Carroll",
-      "title": "FDA recommends pet food companies revisit safety plans amid bird flu outbreak",
-      "description": "The FDA has advised pet food companies to revisit food safety plans as a growing number of cats have gotten sick or died from eating food contaminated with bird flu.",
-      "url": "https://www.nbcnews.com/health/health-news/raw-pet-food-bird-flu-outbreak-cats-fda-guidance-rcna189011",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-01/250125-cat-ch-1445-7758a7.jpg",
-      "publishedAt": "2025-01-26 12:00:00",
-      "content": "As a growing number of cats have gotten sick or died after consuming raw pet food or raw milk contaminated with the H5N1 virus, health officials have advised pet food companies to take extra precauti\u2026 [+5575 chars]",
-      "retrievedAt": "2025-01-27 19:05:41.599442",
-      "internal_id": "dbabadc785796e9ee706387224cc1be36eda7b767f3529cc6277660dc9c82333",
-      "publishedAtLabel": "Jan 26"
-    },
-    {
-      "id": 17717,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "BusinessLine",
-      "author": "Team BL",
-      "title": "Georgia is malaria-free",
-      "description": "Georgia achieves malaria-free status after decades of dedicated efforts, paving the way for WHO European region certification.",
-      "url": "https://www.thehindubusinessline.com/specials/pulse/georgia-is-malaria-free/article69142650.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/39ji2o/article69143208.ece/alternates/LANDSCAPE_1200/BL2701_Pulse_Capsule.jpg",
-      "publishedAt": "2025-01-26 11:39:30",
-      "content": "Following a nearly century-long effort, Georgia has been certified malaria-free by the World Health Organization (WHO). It joins the league of 45 other countries and one territory that have achieved \u2026 [+1775 chars]",
-      "retrievedAt": "2025-01-27 19:05:42.574176",
-      "internal_id": "fe679b72aa71e1b9c8ad8c4c4dfc18496e3c5cbdfc103d5a3500ead3dda6cf85",
-      "publishedAtLabel": "Jan 26"
-    },
-    {
-      "id": 17716,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Europapress.es",
-      "author": null,
-      "title": "Rueda reivindica a Galicia como \"l\u00edder\" en la vacunaci\u00f3n de la meningitis al contar con el calendario \"m\u00e1s completo\"",
-      "description": "El presidente de la Xunta, Alfonso Rueda, se ha reunido esta semana con representantes de la Asociaci\u00f3n Espa\u00f1ola de Meningitis, un encuentro en el que ha reivindicado a Galicia como \"l\u00edder\" en la vacunaci\u00f3n contra esta enfermedad infecciosa al contar con el c\u2026",
-      "url": "https://www.europapress.es/galicia/noticia-rueda-reivindica-galicia-lider-vacunacion-meningitis-contar-calendario-mas-completo-20250126115823.html",
-      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20250126115823_1200.jpg",
-      "publishedAt": "2025-01-26 10:58:23",
-      "content": "SANTIAGO DE COMPOSTELA 26 Ene. (EUROPA PRESS) - El presidente de la Xunta, Alfonso Rueda, se ha reunido esta semana con representantes de la Asociaci\u00f3n Espa\u00f1ola de Meningitis, un encuentro en el q\u2026 [+1426 chars]",
-      "retrievedAt": "2025-01-27 19:05:42.128438",
-      "internal_id": "78e6688bc8805e4493bf3e062c60e5cf8e7b2e4b081fb7297c47003e7656b898",
       "publishedAtLabel": "Jan 26"
     }
   ]
