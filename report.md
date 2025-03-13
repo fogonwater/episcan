@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 35
-- **Last harvest:** 2025-03-12 19:05
-- **Most recent article:** 2025-03-11 19:01:37
+- **New articles in last harvest:** 10
+- **Last harvest:** 2025-03-13 07:06
+- **Most recent article:** 2025-03-12 05:22:17
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-10 | 25-11 | 25-5 | 25-6 | 25-7 | 25-8 | 25-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 142 | 53 | 12 | 24 | 72 | 83 | 162 | 548 |
-| h5n1 | 23 | 14 | 48 | 72 | 55 | 54 | 42 | 308 |
-| dengue | 8 | 4 | 23 | 34 | 37 | 57 | 30 | 193 |
-| malaria | 29 | 9 | 29 | 25 | 12 | 7 | 20 | 131 |
+| measles | 142 | 56 | 13 | 24 | 72 | 83 | 162 | 552 |
+| h5n1 | 23 | 16 | 51 | 72 | 55 | 54 | 42 | 313 |
+| dengue | 8 | 6 | 24 | 34 | 37 | 57 | 30 | 196 |
+| malaria | 29 | 11 | 30 | 25 | 12 | 7 | 20 | 134 |
 | mpox | 14 | 5 | 21 | 28 | 18 | 15 | 26 | 127 |
-| meningitis | 4 | 4 | 7 | 2 | 12 | 11 | 7 | 47 |
+| meningitis | 4 | 4 | 8 | 2 | 12 | 11 | 7 | 48 |
 | chikungunya | 6 | 1 | 9 | 8 | 5 | 3 | 7 | 39 |
-| hpai | 10 | 0 | 6 | 3 | 9 | 5 | 4 | 37 |
+| hpai | 10 | 1 | 6 | 3 | 9 | 5 | 4 | 38 |
 | rabies | 3 | 4 | 6 | 4 | 5 | 4 | 2 | 28 |
 | zika | 3 | 0 | 8 | 6 | 2 | 6 | 2 | 27 |
 | typhoid | 3 | 7 | 0 | 2 | 3 | 0 | 4 | 19 |
 | pertussis | 0 | 2 | 0 | 3 | 3 | 2 | 0 | 10 |
-| yersinia | 1 | 0 | 0 | 0 | 5 | 0 | 2 | 8 |
+| yersinia | 1 | 1 | 0 | 0 | 5 | 0 | 2 | 9 |
 | leptospirosis | 3 | 0 | 0 | 1 | 0 | 2 | 0 | 6 |
 | shigellosis | 3 | 0 | 0 | 0 | 0 | 0 | 1 | 4 |
 
@@ -2243,6 +2243,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Detectado un brote de meningitis en un colegio de Zaragoza con dos casos confirmados](https://www.huffingtonpost.es/sociedad/detectado-brote-meningitis-colegio-zaragoza-dos-casos-confirmadosbr.html) (Huffingtonpost.es)
 
+- [Rueda reivindica a Galicia como "líder" en la vacunación de la meningitis al contar con el calendario "más completo"](https://www.europapress.es/galicia/noticia-rueda-reivindica-galicia-lider-vacunacion-meningitis-contar-calendario-mas-completo-20250126115823.html) (Europapress.es)
+
 ## 25-5 (measles)
 
 - [Samoa's Health Chief Says RFK Jr. Spread Anti-Vax Misinformation Before Deadly Measles Outbreak](https://www.democracynow.org/2025/1/31/rfk_jr_measles_samoa) (Democracy Now!)
@@ -2268,6 +2270,8 @@ Source: [News API](https://newsapi.org/)
 - [Measles case confirmed in metro Atlanta](https://www.wsbtv.com/news/local/atlanta/measles-case-confirmed-metro-atlanta/ZYX6H3AHMJCDHNL6WUG5ESHTJY/) (WSB Atlanta)
 
 - [First case of measles in the state for the year reported, Georgia DPH says](https://www.fox5atlanta.com/news/first-case-measles-state-year-reported-georgia-dph-says) (FOX 5 Atlanta)
+
+- [Asha workers to identify 1 million children for MMR vaccination, special campaigns soon](https://www.livemint.com/industry/asha-workers-mmr-vaccination-special-campaigns-mumps-measles-rubella-accredited-social-health-activist-11737708760867.html) (Livemint)
 
 ## 25-5 (malaria)
 
@@ -2328,6 +2332,8 @@ Source: [News API](https://newsapi.org/)
 - [El grupo rebelde M23, apoyado por Ruanda, toma el control de la ciudad congolesa de Goma y 3.000 presos huyen de la cárcel](https://www.elespanol.com/mundo/20250127/grupo-rebelde-m23-apoyado-ruanda-toma-control-ciudad-congolesa-goma-presos-huyen-carcel/919658315_0.html) (Elespanol.com)
 
 - [Nigerian govt reaffirms commitment to malaria elimination](https://www.premiumtimesng.com/health/health-news/769668-nigerian-govt-reaffirms-commitment-to-malaria-elimination.html) (Premium Times)
+
+- [Georgia is malaria-free](https://www.thehindubusinessline.com/specials/pulse/georgia-is-malaria-free/article69142650.ece) (BusinessLine)
 
 ## 25-5 (hpai)
 
@@ -2441,6 +2447,12 @@ Source: [News API](https://newsapi.org/)
 
 - [News story: Human case of avian flu detected in England](https://www.gov.uk/government/news/human-case-of-avian-flu-detected-in-england) (Www.gov.uk)
 
+- [Infectious Disease “Experts”: Bird Feces In The Wind Could Spread Avian Influenza](https://www.shtfplan.com/headline-news/infectious-disease-experts-bird-feces-in-the-wind-could-spread-avian-influenza) (Shtfplan.com)
+
+- [Massachusetts bird flu: chicken farms on alert as H5N1 suspected in state](https://www.bostonglobe.com/2025/01/26/business/bird-flu-mass-chicken-farms/) (The Boston Globe)
+
+- [FDA recommends pet food companies revisit safety plans amid bird flu outbreak](https://www.nbcnews.com/health/health-news/raw-pet-food-bird-flu-outbreak-cats-fda-guidance-rcna189011) (NBC News)
+
 ## 25-5 (dengue)
 
 - [Dengue: a preocupação (e desafio) do marqueteiro de Lula](https://veja.abril.com.br/politica/dengue-a-preocupacao-e-desafio-do-marqueteiro-de-lula) (Abril.com.br)
@@ -2489,6 +2501,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Goiás registra 1ª morte por dengue no ano. Seis casos são investigados](https://www.metropoles.com/brasil/goias-registra-1a-morte-por-dengue-no-ano-seis-casos-sao-investigados) (Metropoles.com)
 
+- [Sociedade médica alerta para baixa procura da vacina contra a dengue; sorotipo 3 preocupa](https://valor.globo.com/brasil/noticia/2025/01/26/sociedade-medica-alerta-para-baixa-procura-da-vacina-contra-a-dengue-sorotipo-3-preocupa.ghtml) (Globo)
+
 ## 25-5 (chikungunya)
 
 - [De exóticas a autóctonas, cuando las enfermedades ya no viajan: "Lo importante es evitar que se conviertan en endémicas"](https://www.elmundo.es/ciencia-y-salud/salud/2025/02/01/678bc5a6e4d4d8c03d8b45b4.html) (El Mundo)
@@ -2508,6 +2522,10 @@ Source: [News API](https://newsapi.org/)
 - [Bavarian Nordic modtager positiv anbefaling fra de europæiske lægemiddelmyndigheder for chikungunyavaccine til personer i alderen 12 år og opefter](https://www.globenewswire.com/news-release/2025/01/31/3018640/0/da/Bavarian-Nordic-modtager-positiv-anbefaling-fra-de-europ%C3%A6iske-l%C3%A6gemiddelmyndigheder-for-chikungunyavaccine-til-personer-i-alderen-12-%C3%A5r-og-opefter.html) (GlobeNewswire)
 
 - [Dengue: agentes seguirão entrando em casas mesmo se o dono não deixar](https://www.metropoles.com/distrito-federal/dengue-agentes-seguirao-entrando-em-casas-mesmo-se-o-dono-nao-deixar) (Metropoles.com)
+
+## 25-11 (yersinia)
+
+- [Genomic Characterization of Yersinia enterocolitica Isolates, Costa Rica](https://wwwnc.cdc.gov/eid/article/31/4/24-0963_article) (Cdc.gov)
 
 ## 25-11 (typhoid)
 
@@ -2564,6 +2582,12 @@ Source: [News API](https://newsapi.org/)
 - [Sokoto govt alerts residents on meningitis outbreak](https://punchng.com/sokoto-govt-alerts-residents-on-meningitis-outbreak/) (The Punch)
 
 ## 25-11 (measles)
+
+- [West Texas measles outbreak spreads into Oklahoma](https://www.nbcnews.com/health/health-news/west-texas-measles-outbreak-spreads-oklahoma-rcna195858) (NBC News)
+
+- [Is RFK Jr. Possessed by the Restless Spirit of My Grandmother?](https://www.esquire.com/news-politics/politics/a64151269/rfk-jr-measles-outbreak-texas-response/) (esquire.com)
+
+- [Measles Cases Still Rising in Texas](https://www.newser.com/story/365555/measles-cases-still-rising-in-texas.html) (Newser)
 
 - [RFK Jr. Will Cure Measles By Pouring Cod Liver Oil Down The Throats Of Every Child In America](https://www.wonkette.com/p/rfk-jr-will-cure-measles-by-pouring) (Wonkette.com)
 
@@ -2673,6 +2697,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-11 (malaria)
 
+- [Trump crea el caldo de cultivo para disparar brotes infecciosos en todo el mundo: "Algunas patologías van a descontrolarse"](https://www.elespanol.com/ciencia/salud/20250312/trump-crea-caldo-cultivo-disparar-brotes-infecciosos-mundo-patologias-van-descontrolarse/930157569_0.html) (Elespanol.com)
+
+- [No malaria death reported in Arunachal in last 8 yrs: Official](https://thehillstimes.in/northeast/no-malaria-death-reported-in-arunachal-in-last-8-yrs-official) (Thehillstimes.in)
+
 - [Characterizing the genetic diversity and population structure of Plasmodium knowlesi in Aceh Province, Indonesia](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318608) (Plos.org)
 
 - [Arunachal Pradesh declares 16 districts malaria-free, sets national benchmark in disease control](https://www.syllad.com/arunachal-pradesh-declares-16-districts-malaria-free-sets-national-benchmark-in-disease-control/) (Syllad.com)
@@ -2691,7 +2719,15 @@ Source: [News API](https://newsapi.org/)
 
 - [No disease is deadlier in Africa than malaria. Trump's US aid cuts weaken the fight against it](https://abcnews.go.com/International/wireStory/disease-deadlier-africa-malaria-trumps-us-aid-cuts-119601916) (ABC News)
 
+## 25-11 (hpai)
+
+- [Highly Pathogenic Avian Influenza A(H5N1) Virus Stability in Irradiated Raw Milk and Wastewater and on Surfaces, United States](https://wwwnc.cdc.gov/eid/article/31/4/24-1615_article) (Cdc.gov)
+
 ## 25-11 (h5n1)
+
+- [Highly Pathogenic Avian Influenza A(H5N1) Virus Stability in Irradiated Raw Milk and Wastewater and on Surfaces, United States](https://wwwnc.cdc.gov/eid/article/31/4/24-1615_article) (Cdc.gov)
+
+- [Egg prices plunge nearly $2, now lower than when Trump took office - NewsBreak](https://www.newsbreak.com/share/3850800588501-egg-prices-plunge-nearly-2-now-lower-than-when-trump-took-office?_f=app_share&amp;pd=0KSyLkaC&amp;lang=en_US&amp;send_time=1741732707&amp;trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.8.2.1%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_model_exp_25q1-v8%2Cns_foryou_recall_exp_25q1-v2%2Cns_foryou_blend_exp_25q1-v6%2Cns_foryou_rank_exp_25q1-v5%2Cns_push_exp_rt_bucketv12-v1%2Cns_local_strategy_25q1_exp-v17&amp;s=i2) (Newsbreak.com)
 
 - [H5N1 flu is now killing birds on the continent of Antarctica](https://www.newscientist.com/article/2471611-h5n1-flu-is-now-killing-birds-on-the-continent-of-antarctica/) (New Scientist)
 
@@ -2722,6 +2758,10 @@ Source: [News API](https://newsapi.org/)
 - [천안 산란계 농장서 고병원성 AI 확진···11만여 마리 살처분](https://www.khan.co.kr/article/202503091140001) (Khan.co.kr)
 
 ## 25-11 (dengue)
+
+- [Vaccinated teen gets diphtheria amid 'full outbreak response' to dengue cases](https://www.abc.net.au/news/2025-03-12/dengue-diphtheria-cases-townsville-health-warning/105041454) (ABC News (AU))
+
+- [Menino que morreu por erro médico vira nome de projeto de lei em SP](https://www.metropoles.com/sao-paulo/menino-que-morreu-por-erro-medico-vira-nome-de-projeto-de-lei-em-sp) (Metropoles.com)
 
 - [West Nile Dengue e altre arbovirosi protagoniste del podcast 'Ascolta e vedrai'](https://www.ilgiornale.it/news/adnkronos/west-nile-dengue-e-altre-arbovirosi-protagoniste-podcast-2450065.html) (Ilgiornale.it)
 
