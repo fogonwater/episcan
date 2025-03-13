@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 10
-- **Last harvest:** 2025-03-13 07:06
-- **Most recent article:** 2025-03-12 05:22:17
+- **New articles in last harvest:** 31
+- **Last harvest:** 2025-03-13 19:05
+- **Most recent article:** 2025-03-12 18:40:01
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-10 | 25-11 | 25-5 | 25-6 | 25-7 | 25-8 | 25-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 142 | 56 | 13 | 24 | 72 | 83 | 162 | 552 |
-| h5n1 | 23 | 16 | 51 | 72 | 55 | 54 | 42 | 313 |
-| dengue | 8 | 6 | 24 | 34 | 37 | 57 | 30 | 196 |
-| malaria | 29 | 11 | 30 | 25 | 12 | 7 | 20 | 134 |
-| mpox | 14 | 5 | 21 | 28 | 18 | 15 | 26 | 127 |
-| meningitis | 4 | 4 | 8 | 2 | 12 | 11 | 7 | 48 |
+| measles | 142 | 69 | 12 | 24 | 72 | 83 | 162 | 564 |
+| h5n1 | 23 | 20 | 48 | 72 | 55 | 54 | 42 | 314 |
+| dengue | 8 | 9 | 23 | 34 | 37 | 57 | 30 | 198 |
+| malaria | 29 | 14 | 29 | 25 | 12 | 7 | 20 | 136 |
+| mpox | 14 | 9 | 21 | 28 | 18 | 15 | 26 | 131 |
+| meningitis | 4 | 7 | 7 | 2 | 12 | 11 | 7 | 50 |
 | chikungunya | 6 | 1 | 9 | 8 | 5 | 3 | 7 | 39 |
 | hpai | 10 | 1 | 6 | 3 | 9 | 5 | 4 | 38 |
-| rabies | 3 | 4 | 6 | 4 | 5 | 4 | 2 | 28 |
+| rabies | 3 | 5 | 6 | 4 | 5 | 4 | 2 | 29 |
 | zika | 3 | 0 | 8 | 6 | 2 | 6 | 2 | 27 |
 | typhoid | 3 | 7 | 0 | 2 | 3 | 0 | 4 | 19 |
 | pertussis | 0 | 2 | 0 | 3 | 3 | 2 | 0 | 10 |
@@ -2243,8 +2243,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Detectado un brote de meningitis en un colegio de Zaragoza con dos casos confirmados](https://www.huffingtonpost.es/sociedad/detectado-brote-meningitis-colegio-zaragoza-dos-casos-confirmadosbr.html) (Huffingtonpost.es)
 
-- [Rueda reivindica a Galicia como "líder" en la vacunación de la meningitis al contar con el calendario "más completo"](https://www.europapress.es/galicia/noticia-rueda-reivindica-galicia-lider-vacunacion-meningitis-contar-calendario-mas-completo-20250126115823.html) (Europapress.es)
-
 ## 25-5 (measles)
 
 - [Samoa's Health Chief Says RFK Jr. Spread Anti-Vax Misinformation Before Deadly Measles Outbreak](https://www.democracynow.org/2025/1/31/rfk_jr_measles_samoa) (Democracy Now!)
@@ -2270,8 +2268,6 @@ Source: [News API](https://newsapi.org/)
 - [Measles case confirmed in metro Atlanta](https://www.wsbtv.com/news/local/atlanta/measles-case-confirmed-metro-atlanta/ZYX6H3AHMJCDHNL6WUG5ESHTJY/) (WSB Atlanta)
 
 - [First case of measles in the state for the year reported, Georgia DPH says](https://www.fox5atlanta.com/news/first-case-measles-state-year-reported-georgia-dph-says) (FOX 5 Atlanta)
-
-- [Asha workers to identify 1 million children for MMR vaccination, special campaigns soon](https://www.livemint.com/industry/asha-workers-mmr-vaccination-special-campaigns-mumps-measles-rubella-accredited-social-health-activist-11737708760867.html) (Livemint)
 
 ## 25-5 (malaria)
 
@@ -2332,8 +2328,6 @@ Source: [News API](https://newsapi.org/)
 - [El grupo rebelde M23, apoyado por Ruanda, toma el control de la ciudad congolesa de Goma y 3.000 presos huyen de la cárcel](https://www.elespanol.com/mundo/20250127/grupo-rebelde-m23-apoyado-ruanda-toma-control-ciudad-congolesa-goma-presos-huyen-carcel/919658315_0.html) (Elespanol.com)
 
 - [Nigerian govt reaffirms commitment to malaria elimination](https://www.premiumtimesng.com/health/health-news/769668-nigerian-govt-reaffirms-commitment-to-malaria-elimination.html) (Premium Times)
-
-- [Georgia is malaria-free](https://www.thehindubusinessline.com/specials/pulse/georgia-is-malaria-free/article69142650.ece) (BusinessLine)
 
 ## 25-5 (hpai)
 
@@ -2447,12 +2441,6 @@ Source: [News API](https://newsapi.org/)
 
 - [News story: Human case of avian flu detected in England](https://www.gov.uk/government/news/human-case-of-avian-flu-detected-in-england) (Www.gov.uk)
 
-- [Infectious Disease “Experts”: Bird Feces In The Wind Could Spread Avian Influenza](https://www.shtfplan.com/headline-news/infectious-disease-experts-bird-feces-in-the-wind-could-spread-avian-influenza) (Shtfplan.com)
-
-- [Massachusetts bird flu: chicken farms on alert as H5N1 suspected in state](https://www.bostonglobe.com/2025/01/26/business/bird-flu-mass-chicken-farms/) (The Boston Globe)
-
-- [FDA recommends pet food companies revisit safety plans amid bird flu outbreak](https://www.nbcnews.com/health/health-news/raw-pet-food-bird-flu-outbreak-cats-fda-guidance-rcna189011) (NBC News)
-
 ## 25-5 (dengue)
 
 - [Dengue: a preocupação (e desafio) do marqueteiro de Lula](https://veja.abril.com.br/politica/dengue-a-preocupacao-e-desafio-do-marqueteiro-de-lula) (Abril.com.br)
@@ -2501,8 +2489,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Goiás registra 1ª morte por dengue no ano. Seis casos são investigados](https://www.metropoles.com/brasil/goias-registra-1a-morte-por-dengue-no-ano-seis-casos-sao-investigados) (Metropoles.com)
 
-- [Sociedade médica alerta para baixa procura da vacina contra a dengue; sorotipo 3 preocupa](https://valor.globo.com/brasil/noticia/2025/01/26/sociedade-medica-alerta-para-baixa-procura-da-vacina-contra-a-dengue-sorotipo-3-preocupa.ghtml) (Globo)
-
 ## 25-5 (chikungunya)
 
 - [De exóticas a autóctonas, cuando las enfermedades ya no viajan: "Lo importante es evitar que se conviertan en endémicas"](https://www.elmundo.es/ciencia-y-salud/salud/2025/02/01/678bc5a6e4d4d8c03d8b45b4.html) (El Mundo)
@@ -2545,6 +2531,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-11 (rabies)
 
+- [Почему больные бешенством боятся воды?](https://pikabu.ru/story/pochemu_bolnyie_beshenstvom_boyatsya_vodyi_12480323) (Pikabu.ru)
+
 - [Man commits suicide at CMCH isolation ward alleged of rabies infection](https://timesofindia.indiatimes.com/city/chennai/man-commits-suicide-at-cmch-isolation-ward-alleged-of-rabies-infection/articleshow/118896181.cms) (The Times of India)
 
 - [Experts gather in Paro to refine Bhutan One Health Strategy to tackle zoonotic diseases - BBSCL](https://www.bbs.bt/225825/) (Www.bbs.bt)
@@ -2561,6 +2549,14 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-11 (mpox)
 
+- [Paciente de SP com infecção causada por nova cepa da Mpox terá alta nesta quarta-feira](https://valor.globo.com/brasil/noticia/2025/03/12/paciente-de-sp-com-infeccao-causada-por-nova-cepa-da-mpox-tera-alta-nesta-quarta-feira.ghtml) (Globo)
+
+- [NIH: Siga's tecovirimat safe, but ineffective as treatment for Clade II Mpox](https://thefly.com/permalinks/entry.php/id4088250/SIGA-NIH-Sigas-tecovirimat-safe-but-ineffective-as-treatment-for-Clade-II-Mpox) (Thefly.com)
+
+- [ACTG Presents Data from Mpox Study STOMP at CROI](https://financialpost.com/globe-newswire/actg-presents-data-from-mpox-study-stomp-at-croi) (Financial Post)
+
+- [ACTG Presents Data from Mpox Study STOMP at CROI](https://www.globenewswire.com/news-release/2025/03/12/3041585/0/en/ACTG-Presents-Data-from-Mpox-Study-STOMP-at-CROI.html) (GlobeNewswire)
+
 - [Vaiolo delle scimmie: in Africa si registrano quasi 3mila nuovi casi in sei settimane](https://www.benessereblog.it/vaiolo-delle-scimmie-in-africa-si-registrano-quasi-3mila-nuovi-casi-in-sei-settimane/) (Benessereblog.it)
 
 - [Congo faces setback in mpox response after Rwanda-backed rebels advance in the east](https://abcnews.go.com/International/wireStory/congo-faces-setback-mpox-response-after-rwanda-backed-119666065) (ABC News)
@@ -2573,6 +2569,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-11 (meningitis)
 
+- ['A leap' to suggest sepsis death was preventable](https://www.bbc.com/news/articles/cn04klezy17o) (BBC News)
+
+- [5 School Students In Kerala Show Viral Meningitis Symptoms; Know Visible Signs In Infants](https://www.ndtv.com/health/5-school-students-in-kerala-show-viral-meningitis-symptoms-know-visible-symptoms-in-infants-7908195) (NDTV News)
+
+- [Meningitis outbreak kills 30 in Kerala and Nigeria: Symptoms, high-risk groups, and causes of brain inflammation](https://economictimes.indiatimes.com/news/new-updates/meningitis-outbreak-kills-30-in-kerala-and-nigeria-symptoms-high-risk-groups-and-causes-of-brain-inflammation/articleshow/118928119.cms) (The Times of India)
+
 - [Authorities confirm a meningitis outbreak in the northwest has killed 26 people](https://abcnews.go.com/Health/wireStory/nigerian-authorities-confirm-meningitis-outbreak-northwest-killed-26-119684202) (ABC News)
 
 - [At least 26 killed in Nigeria meningitis outbreak](https://www.thestar.com.my/news/world/2025/03/12/at-least-26-killed-in-nigeria-meningitis-outbreak) (The Star Online)
@@ -2582,6 +2584,32 @@ Source: [News API](https://newsapi.org/)
 - [Sokoto govt alerts residents on meningitis outbreak](https://punchng.com/sokoto-govt-alerts-residents-on-meningitis-outbreak/) (The Punch)
 
 ## 25-11 (measles)
+
+- [RFK Jr. Blames Malnutrition For Measles Outbreak’s Severe Illnesses And Deaths](https://www.techdirt.com/2025/03/12/rfk-jr-blames-malnutrition-for-measles-outbreaks-severe-illnesses-and-deaths/) (Techdirt)
+
+- [Uh … Am I Protected Against Measles? It Might Depend On When You Were Born.](https://slate.com/technology/2025/03/measles-outbreak-vaccine-booster-titers.html) (Slate Magazine)
+
+- [Measles still on the rise in Europe, says health agency](https://www.euractiv.com/section/health-consumers/news/measles-still-on-the-rise-in-europe-says-health-agency/) (EURACTIV)
+
+- [Map Shows Measles Outbreak Has Expanded To 3 States](https://www.newsweek.com/map-measles-outbreak-states-2043671) (Newsweek)
+
+- [Texas Reports 25 New Measles Cases, Bringing State Total to 223](https://www.insurancejournal.com/news/southcentral/2025/03/12/815339.htm) (Insurance Journal)
+
+- [Make America Healthy Again!](https://www.lawyersgunsmoneyblog.com/2025/03/make-america-healthy-again) (Lawyersgunsmoneyblog.com)
+
+- [InnovationRx: The Measles Outbreak Keeps Spreading](https://www.forbes.com/sites/innovationrx/2025/03/12/innovationrx-the-measles-outbreak-keeps-spreading/) (Forbes)
+
+- [RFK Jr. Suggests Everyone Should Get Measles](https://politicalwire.com/2025/03/12/rfk-jr-suggests-everyone-should-get-measles/) (Politicalwire.com)
+
+- [Texas measles outbreak grows, while New York and California report new cases (Kelly Kasulis Cho/Washington Post)](https://www.memeorandum.com/250312/p44) (Memeorandum.com)
+
+- [RFK Jr. Makes Bonkers Claim About Measles Vaccine as Cases Spread](https://newrepublic.com/post/192641/robert-f-kennedy-jr-claim-measles-vaccine) (The New Republic)
+
+- [RFK Jr.: It Would Be Better if 'Everybody Got Measles' (Leigh Kimmins/The Daily Beast)](https://www.memeorandum.com/250312/p38) (Memeorandum.com)
+
+- [Texas doctor urges vaccine amid deadly measles outbreak](https://www.cbsnews.com/video/texas-doctor-urges-vaccine-amid-deadly-measles-outbreak/) (CBS News)
+
+- [Vitamin A Does Not Treat or Prevent Measles](https://sciencebasedmedicine.org/vitamin-a-does-not-treat-or-prevent-measles/) (Sciencebasedmedicine.org)
 
 - [West Texas measles outbreak spreads into Oklahoma](https://www.nbcnews.com/health/health-news/west-texas-measles-outbreak-spreads-oklahoma-rcna195858) (NBC News)
 
@@ -2697,6 +2725,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-11 (malaria)
 
+- [The Cranky Visionary](https://www.theatlantic.com/magazine/archive/2025/04/albert-barnes-modern-art-museum-vision/681768/) (The Atlantic)
+
+- [Genomic epidemiology of Plasmodium knowlesi reveals putative genetic drivers of adaptation in Malaysia](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012885) (Plos.org)
+
+- [Evaluation of long lasting insecticidal nets in experimental huts and WHO PQT/VCP compliance: A systematic review](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318673) (Plos.org)
+
 - [Trump crea el caldo de cultivo para disparar brotes infecciosos en todo el mundo: "Algunas patologías van a descontrolarse"](https://www.elespanol.com/ciencia/salud/20250312/trump-crea-caldo-cultivo-disparar-brotes-infecciosos-mundo-patologias-van-descontrolarse/930157569_0.html) (Elespanol.com)
 
 - [No malaria death reported in Arunachal in last 8 yrs: Official](https://thehillstimes.in/northeast/no-malaria-death-reported-in-arunachal-in-last-8-yrs-official) (Thehillstimes.in)
@@ -2724,6 +2758,14 @@ Source: [News API](https://newsapi.org/)
 - [Highly Pathogenic Avian Influenza A(H5N1) Virus Stability in Irradiated Raw Milk and Wastewater and on Surfaces, United States](https://wwwnc.cdc.gov/eid/article/31/4/24-1615_article) (Cdc.gov)
 
 ## 25-11 (h5n1)
+
+- [Egg prices plunge nearly $2, now lower than when Trump took office - NewsBreak](https://www.newsbreak.com/share/3850800588501-egg-prices-plunge-nearly-2-now-lower-than-when-trump-took-office?s=a2&amp;share_destination_id=MjU2MzU5MzE2LTE3NDE3OTk3ODE3NDM%3D&amp;pd=0HLelg5M&amp;hl=en_US&amp;send_time=1741799781&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.10.0%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_rank_exp_25q1-v4%2Cns_foryou_recall_exp_25q1-control%2Cns_foryou_blend_exp_25q1-v2%2Cns_push_exp_rt_bucketv12-v3%2Cns_foryou_model_exp_25q1-v8%2Cns_local_strategy_25q1_exp-v18) (Newsbreak.com)
+
+- [What is bird flu? Here's everything you need to know about the virus affecting chickens and dairy cattle](https://www.businessinsider.com/bird-flu-what-to-know-about-h5n1-2025-3) (Business Insider)
+
+- [Bioxytran Develops a Groundbreaking Treatment to Combat Bird Flu in Egg Laying Chickens Potentially Saving Billions](https://www.globenewswire.com/news-release/2025/03/12/3041439/0/en/Bioxytran-Develops-a-Groundbreaking-Treatment-to-Combat-Bird-Flu-in-Egg-Laying-Chickens-Potentially-Saving-Billions.html) (GlobeNewswire)
+
+- [Vogelgrippe: Experten warnen vor „stiller Pandemie“](https://www.morgenpost.de/panorama/article408532965/vogelgrippe-experten-warnen-vor-stiller-pandemie.html) (Berliner Morgenpost)
 
 - [Highly Pathogenic Avian Influenza A(H5N1) Virus Stability in Irradiated Raw Milk and Wastewater and on Surfaces, United States](https://wwwnc.cdc.gov/eid/article/31/4/24-1615_article) (Cdc.gov)
 
@@ -2758,6 +2800,12 @@ Source: [News API](https://newsapi.org/)
 - [천안 산란계 농장서 고병원성 AI 확진···11만여 마리 살처분](https://www.khan.co.kr/article/202503091140001) (Khan.co.kr)
 
 ## 25-11 (dengue)
+
+- [Los científicos advierten de la mutación del mosquito del dengue que la hace resistente a un tipo de insecticida](https://www.huffingtonpost.es/sociedad/los-cientificos-advierten-mutacion-mosquito-dengue-resistente-tipo-insecticida.html) (Huffingtonpost.es)
+
+- [Trabalhadores de São Paulo foram os mais afetados pela dengue em 2024](https://valor.globo.com/carreira/noticia/2025/03/12/trabalhadores-de-sao-paulo-foram-os-mais-afetados-pela-dengue-em-2024.ghtml) (Globo)
+
+- [Assessing the global dengue burden: Incidence, mortality, and disability trends over three decades](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012932) (Plos.org)
 
 - [Vaccinated teen gets diphtheria amid 'full outbreak response' to dengue cases](https://www.abc.net.au/news/2025-03-12/dengue-diphtheria-cases-townsville-health-warning/105041454) (ABC News (AU))
 

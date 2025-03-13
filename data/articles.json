@@ -1,8 +1,566 @@
 {
-  "last_updated": "2025-03-13 07:06",
-  "count_articles_total": 1502,
-  "count_articles_new": 10,
+  "last_updated": "2025-03-13 19:05",
+  "count_articles_total": 1526,
+  "count_articles_new": 31,
   "articles": [
+    {
+      "id": 19235,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": null,
+      "title": "'A leap' to suggest sepsis death was preventable",
+      "description": "William Hewes died after his meningitis, caused by a meningococcal infection, developed into sepsis.",
+      "url": "https://www.bbc.com/news/articles/cn04klezy17o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1fb7/live/af541550-eadd-11ef-aa2a-57e89910b8cd.jpg",
+      "publishedAt": "2025-03-12 18:40:01",
+      "content": "William Hewes died of sepsis less than 24 hours after he arrived at hospital It would be \"a leap\" to say the son of a senior doctor would have survived if his care in hospital had been different, a \u2026 [+3316 chars]",
+      "retrievedAt": "2025-03-13 19:05:49.973180",
+      "internal_id": "9dd2b26c1617d9565498aca5061d6a9ed56a8dfe9b84fa388c4c37f829ff0e91",
+      "publishedAtLabel": "Mar 12"
+    },
+    {
+      "id": 19215,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Techdirt",
+      "author": "Dark Helmet",
+      "title": "RFK Jr. Blames Malnutrition For Measles Outbreak\u2019s Severe Illnesses And Deaths",
+      "description": "Let\u2019s stipulate something before we dive into this post so that there is no misunderstanding: the rise of the anti-vax movement did not begin with Donald Trump\u2019s foray into American politics. It\u2019s been around since well before 2016, slowly but surely gaining \u2026",
+      "url": "https://www.techdirt.com/2025/03/12/rfk-jr-blames-malnutrition-for-measles-outbreaks-severe-illnesses-and-deaths/",
+      "urlToImage": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
+      "publishedAt": "2025-03-12 18:04:40",
+      "content": "from the just-eat-more dept Let\u2019s stipulate something before we dive into this post so that there is no misunderstanding: the rise of the anti-vax movement did not begin with Donald Trump\u2019s foray in\u2026 [+7464 chars]",
+      "retrievedAt": "2025-03-13 19:05:48.114219",
+      "internal_id": "08a9eb87a572d8bce803ad6b4a950f8c68a6fd691a293c7fc4ed0e619f99f58f",
+      "publishedAtLabel": "Mar 12"
+    },
+    {
+      "id": 19220,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Slate Magazine",
+      "author": "Anna Gibbs",
+      "title": "Uh \u2026 Am I Protected Against Measles? It Might Depend On When You Were Born.",
+      "description": "But really, don\u2019t get too worried.",
+      "url": "https://slate.com/technology/2025/03/measles-outbreak-vaccine-booster-titers.html",
+      "urlToImage": "https://compote.slate.com/images/3b5eb7ea-1582-42a6-9bb7-2bcd8cbcffdb.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+      "publishedAt": "2025-03-12 17:39:43",
+      "content": "Sign up for the Slatest to get the most insightful analysis, criticism, and advice out there, delivered to your inbox daily. If youve been carefully tracking the measles outbreak in the Southwest, y\u2026 [+6104 chars]",
+      "retrievedAt": "2025-03-13 19:05:48.274108",
+      "internal_id": "f6831f6b49cb913ab2ebd5810fe8c7dddff0b15faf9f1b582bfd90946c70daca",
+      "publishedAtLabel": "Mar 12"
+    },
+    {
+      "id": 19232,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Huffingtonpost.es",
+      "author": "Redacci\u00f3n HuffPost",
+      "title": "Los cient\u00edficos advierten de la mutaci\u00f3n del mosquito del dengue que la hace resistente a un tipo de insecticida",
+      "description": "El incremento de los casos del dengue en Per\u00fa prosigue sin cesar. Este aumento encuentra su explicaci\u00f3n en las constantes lluvias que han azotado a diversas regiones del pa\u00eds, y que favorecen la proliferaci\u00f3n del mosquito Aedes aegypti, principal \u2026",
+      "url": "https://www.huffingtonpost.es/sociedad/los-cientificos-advierten-mutacion-mosquito-dengue-resistente-tipo-insecticida.html",
+      "urlToImage": "https://img.huffingtonpost.es/files/og_thumbnail/uploads/2024/09/20/imagen-de-archivo-de-un-plano-de-talle-de-un-ejemplar-asiatico-de-mosquito-tigre-aedes-albopictus-conocido-por-ser-transmisor-de-enfermedades-como-el-dengue-o-la-fiebre-del-virus-del-nilo.jpeg",
+      "publishedAt": "2025-03-12 17:33:51",
+      "content": "El incremento de los casos del dengue en Per\u00fa prosigue sin cesar. Este aumento encuentra su explicaci\u00f3n en las constantes lluvias que han azotado a diversas regiones del pa\u00eds, y que favorecen la prol\u2026 [+2013 chars]",
+      "retrievedAt": "2025-03-13 19:05:49.605864",
+      "internal_id": "541f0c0fb4bc492e6673d1a1ff016766986fbda42776cc47dd009aff8dc94353",
+      "publishedAtLabel": "Mar 12"
+    },
+    {
+      "id": 19222,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "EURACTIV",
+      "author": "Emma Pirnay",
+      "title": "Measles still on the rise in Europe, says health agency",
+      "description": "Based on current trends, the ECDC also predicts an increase in measles cases this spring.",
+      "url": "https://www.euractiv.com/section/health-consumers/news/measles-still-on-the-rise-in-europe-says-health-agency/",
+      "urlToImage": "https://www.euractiv.com/wp-content/uploads/sites/2/2025/03/GettyImages-2031345521-scaled.jpg",
+      "publishedAt": "2025-03-12 17:27:26",
+      "content": "NewsNews Based on facts, either observed and verified directly by the reporter, or reported and verified from knowledgeable sources.",
+      "retrievedAt": "2025-03-13 19:05:48.345201",
+      "internal_id": "425497f64a0ad95b115b6e52b891aff93b1114ba8cb3f837d731d01c49592d1f",
+      "publishedAtLabel": "Mar 12"
+    },
+    {
+      "id": 19231,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Newsbreak.com",
+      "author": "Gabrielle M. Etzel",
+      "title": "Egg prices plunge nearly $2, now lower than when Trump took office - NewsBreak",
+      "description": "Agriculture Secretary Brooke Rollins told reporters Tuesday morning that egg prices have dropped by nearly $2 since the Trump administration initiated its",
+      "url": "https://www.newsbreak.com/share/3850800588501-egg-prices-plunge-nearly-2-now-lower-than-when-trump-took-office?s=a2&amp;share_destination_id=MjU2MzU5MzE2LTE3NDE3OTk3ODE3NDM%3D&amp;pd=0HLelg5M&amp;hl=en_US&amp;send_time=1741799781&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.10.0%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_rank_exp_25q1-v4%2Cns_foryou_recall_exp_25q1-control%2Cns_foryou_blend_exp_25q1-v2%2Cns_push_exp_rt_bucketv12-v3%2Cns_foryou_model_exp_25q1-v8%2Cns_local_strategy_25q1_exp-v18",
+      "urlToImage": "https://img.particlenews.com/img/id/0vumro_0zb9K64600",
+      "publishedAt": "2025-03-12 17:17:09",
+      "content": "Agriculture Secretary Brooke Rollins told reporters Tuesday morning that egg prices have dropped by nearly $2 since the Trump administration initiated its biosafety strategy for combating H5N1 bird f\u2026 [+1596 chars]",
+      "retrievedAt": "2025-03-13 19:05:49.094697",
+      "internal_id": "e476d2616aaf65f74fe7d6aa6139472ce936128d9c707332c3383b3683002070",
+      "publishedAtLabel": "Mar 12"
+    },
+    {
+      "id": 19226,
+      "query": [
+        "measles"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Jordan King",
+      "title": "Map Shows Measles Outbreak Has Expanded To 3 States",
+      "description": "Up to 9 out of 10 people who are susceptible will get the virus if exposed.",
+      "url": "https://www.newsweek.com/map-measles-outbreak-states-2043671",
+      "urlToImage": "https://d.newsweek.com/en/full/2605799/measles-map.png",
+      "publishedAt": "2025-03-12 17:12:15",
+      "content": "The measles outbreak that began in West Texas has expanded to New Mexico and Oklahoma, a Newsweek map shows. Newsweek has contacted health departments for all these states, via email, for comment. \u2026 [+2510 chars]",
+      "retrievedAt": "2025-03-13 19:05:48.402195",
+      "internal_id": "f38cb3d547a8c9f929cb353a9fde3e04f6b3fd19d50d7b1cb0cd6b85f2311ae2",
+      "publishedAtLabel": "Mar 12"
+    },
+    {
+      "id": 19233,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Trabalhadores de S\u00e3o Paulo foram os mais afetados pela dengue em 2024",
+      "description": "Dados da VR exp\u00f5em o impacto da doen\u00e7a no mundo corporativo; profissionais da constru\u00e7\u00e3o civil foram os mais acometidos",
+      "url": "https://valor.globo.com/carreira/noticia/2025/03/12/trabalhadores-de-sao-paulo-foram-os-mais-afetados-pela-dengue-em-2024.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/GPd6OLXbGJ_yluvoigkUKFOcLZ4=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2025/x/v/CHOQA6QYOjAVHv4PVUGg/pexels-pixabay-86722.jpg",
+      "publishedAt": "2025-03-12 17:00:16",
+      "content": "Mais de 15.700 empregados precisaram se afastar do trabalho em 2024 por diagn\u00f3stico de dengue, segundo a VR, ecossistema de solu\u00e7\u00f5es empresariais, com dados obtidos a partir de 30 mil empresas que ut\u2026 [+341 chars]",
+      "retrievedAt": "2025-03-13 19:05:49.628128",
+      "internal_id": "aa39c9b0d8bac20e5ce8bd87858fdeb4eb7df7d9e684a6ec4272f7d0b78f00a1",
+      "publishedAtLabel": "Mar 12"
+    },
+    {
+      "id": 19244,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Paciente de SP com infec\u00e7\u00e3o causada por nova cepa da Mpox ter\u00e1 alta nesta quarta-feira",
+      "description": "Jovem mora na Grande S\u00e3o Paulo e apresentou os sintomas iniciais em 16 de fevereiro, e perto da data, ela havia recebido visita de um parente que veio da Rep\u00fablica Democr\u00e1tica do Congo",
+      "url": "https://valor.globo.com/brasil/noticia/2025/03/12/paciente-de-sp-com-infeccao-causada-por-nova-cepa-da-mpox-tera-alta-nesta-quarta-feira.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/fTm-oDy0zDBTWQLsVsilR3GBDVg=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2025/n/H/X1b863SsmV6TBv1HI94A/particulas-virais-roxas-de-mpox-variola-dos-macacos-divulgacao-cdc-cynthia-s.-goldsmith-russell-regnery-eua.jpg",
+      "publishedAt": "2025-03-12 16:53:57",
+      "content": "A paciente que foi identificada com o primeiro caso do clado 1b de mpox receber\u00e1 alta do Instituto de Infectologia Emilio Ribas nesta quarta-feira (12). A libera\u00e7\u00e3o da paciente ocorre poucos dias ap\u00f3\u2026 [+3836 chars]",
+      "retrievedAt": "2025-03-13 19:05:51.858542",
+      "internal_id": "0bf0f5f513ab06a172400ac842b40764da305713e0a4b6438f5aaca4aacfa414",
+      "publishedAtLabel": "Mar 12"
+    },
+    {
+      "id": 19228,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "business-insider",
+      "source_name": "Business Insider",
+      "author": "Kristine Villarroel",
+      "title": "What is bird flu? Here's everything you need to know about the virus affecting chickens and dairy cattle",
+      "description": "The ongoing bird flu outbreak has led to wild bird deaths, slaughtered livestock, and hazardous conditions for dairy industry workers.",
+      "url": "https://www.businessinsider.com/bird-flu-what-to-know-about-h5n1-2025-3",
+      "urlToImage": "https://i.insider.com/67c1d7a0b8b41a9673f94d8a?width=1200&format=jpeg",
+      "publishedAt": "2025-03-12 16:41:48",
+      "content": "The H5N1 virus has spread widely across poultry bird populations.Edwin Remsberg/VW Pics/Universal Images Group via Getty Images Bird flu has spread widely in poultry, causing egg shortages.<\u2026 [+8083 chars]",
+      "retrievedAt": "2025-03-13 19:05:48.964332",
+      "internal_id": "c77c148fceb072859bf8b7a66cf259728e23bfcad3b57672b81cbf702ff7598e",
+      "publishedAtLabel": "Mar 12"
+    },
+    {
+      "id": 19225,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Insurance Journal",
+      "author": "Admin",
+      "title": "Texas Reports 25 New Measles Cases, Bringing State Total to 223",
+      "description": "Authorities in Texas reported 25 new measles cases over the last five days, bringing the state\u2019s total to 223 as the outbreak continues to spread. Authorities in Texas, the hardest-hit state with the first confirmed US measles death in a \u2026",
+      "url": "https://www.insurancejournal.com/news/southcentral/2025/03/12/815339.htm",
+      "urlToImage": "https://www.insurancejournal.com/app/uploads/2025/03/Measles-scaled.jpg",
+      "publishedAt": "2025-03-12 16:24:07",
+      "content": "Authorities in Texas reported 25 new measles cases over the last five days, bringing the state\u2019s total to 223 as the outbreak continues to spread. Authorities in Texas, the hardest-hit state with th\u2026 [+1392 chars]",
+      "retrievedAt": "2025-03-13 19:05:48.386816",
+      "internal_id": "6b1751630d0a7c133de38ec06c8134e1ae63516d0be0bd5f597e8c9655ca3c18",
+      "publishedAtLabel": "Mar 12"
+    },
+    {
+      "id": 19227,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Lawyersgunsmoneyblog.com",
+      "author": "Erik Loomis",
+      "title": "Make America Healthy Again!",
+      "description": "While RFK is making America healthy again by letting kids die of measles and making sure the only appropriate use of government spending is to investigate the \u201cconnections\u201d between vaccines and autism, the government is also making sure that kids can\u2019t get lo\u2026",
+      "url": "https://www.lawyersgunsmoneyblog.com/2025/03/make-america-healthy-again",
+      "urlToImage": "https://www.lawyersgunsmoneyblog.com/wp-content/uploads/2024/07/American_school_lunch.jpg",
+      "publishedAt": "2025-03-12 16:07:19",
+      "content": "The Agriculture Department has axed two programs that gave schools and food banks money to buy food from local farms and ranchers, halting more than $1 billion in federal spending. Roughly $660 mill\u2026 [+1642 chars]",
+      "retrievedAt": "2025-03-13 19:05:48.471396",
+      "internal_id": "8bb045548e43468d75bebb2bcbd02c83f9116aaab35f48b24c754ae20ab1d2dc",
+      "publishedAtLabel": "Mar 12"
+    },
+    {
+      "id": 19217,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Amy Feldman, Forbes Staff, \n Amy Feldman, Forbes Staff\n https://www.forbes.com/sites/amyfeldman/",
+      "title": "InnovationRx: The Measles Outbreak Keeps Spreading",
+      "description": "In this week\u2019s InnovationRx newsletter, the worsening measles outbreak, a noninvasive brain-computer implant, replacing heart valves with robots and more.",
+      "url": "https://www.forbes.com/sites/innovationrx/2025/03/12/innovationrx-the-measles-outbreak-keeps-spreading/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67d0a87ce3688f7dd890520a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-03-12 16:00:08",
+      "content": "In this weeks edition of InnovationRx, we look at the worsening measles outbreak, a clinical trial for a noninvasive brain-computer implant, replacing heart valves with robots and more. To get it in \u2026 [+8585 chars]",
+      "retrievedAt": "2025-03-13 19:05:48.159312",
+      "internal_id": "a1c572dda085b49672c3b3ce2774265e867b2cccaaab97c2bee26fd17ea0f43b",
+      "publishedAtLabel": "Mar 12"
+    },
+    {
+      "id": 19238,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Atlantic",
+      "author": "Susan Tallman",
+      "title": "The Cranky Visionary",
+      "description": "Albert Barnes believed in the liberating power of art\u2014but you had to look at it his way.",
+      "url": "https://www.theatlantic.com/magazine/archive/2025/04/albert-barnes-modern-art-museum-vision/681768/",
+      "urlToImage": "https://cdn.theatlantic.com/thumbor/4IL8ZJpavgptADUnGcmSsRHtiqM=/5x1104:1540x1903/1200x625/media/img/2025/03/tallman_h_159116651/original.jpg",
+      "publishedAt": "2025-03-12 16:00:00",
+      "content": "Of all the ways that today\u2019s plutocrats spend their billions, founding an art museum is one of the more benign, somewhere behind eradicating malaria but ahead of eradicating democracy. The art in the\u2026 [+17410 chars]",
+      "retrievedAt": "2025-03-13 19:05:50.490820",
+      "internal_id": "8ec4667a28691fad69dbfa14dd9d707f6077147834255d8b82c4dcc040a7d778",
+      "publishedAtLabel": "Mar 12"
+    },
+    {
+      "id": 19243,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Thefly.com",
+      "author": null,
+      "title": "NIH: Siga's tecovirimat safe, but ineffective as treatment for Clade II Mpox",
+      "description": "See the rest of the story here. thefly.com provides the latest financial news as it breaks. Known as a leader in market intelligence, The Fly's real-time, streaming news feed keeps individual investors, professional money managers, active traders, and corpor\u2026",
+      "url": "https://thefly.com/permalinks/entry.php/id4088250/SIGA-NIH-Sigas-tecovirimat-safe-but-ineffective-as-treatment-for-Clade-II-Mpox",
+      "urlToImage": "https://thefly.com/images/meta/hotstocks.jpg",
+      "publishedAt": "2025-03-12 15:42:09",
+      "content": "Earnings calls, analyst events, roadshows and more",
+      "retrievedAt": "2025-03-13 19:05:51.850455",
+      "internal_id": "365d7fff8902861029324e9784859c6f8f34f2b49f7c4ff17551c51a54f8b4fa",
+      "publishedAtLabel": "Mar 12"
+    },
+    {
+      "id": 19242,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "financial-post",
+      "source_name": "Financial Post",
+      "author": "GlobeNewswire",
+      "title": "ACTG Presents Data from Mpox Study STOMP at CROI",
+      "description": "LOS ANGELES, March 12, 2025 (GLOBE NEWSWIRE) \u2014 ACTG, a global clinical trials network focused on HIV and other infectious diseases, recently presented data demonstrating that tecovirimat did not improve mpox resolution. The results from STOMP (Study of Tecovi\u2026",
+      "url": "https://financialpost.com/globe-newswire/actg-presents-data-from-mpox-study-stomp-at-croi",
+      "urlToImage": null,
+      "publishedAt": "2025-03-12 15:32:33",
+      "content": "Author of the article: Article content LOS ANGELES, March 12, 2025 (GLOBE NEWSWIRE) ACTG, a global clinical trials network focused on HIV and other infectious diseases, recently presented data demo\u2026 [+8825 chars]",
+      "retrievedAt": "2025-03-13 19:05:51.828431",
+      "internal_id": "32585857bb4d6d4cc12a740d92c395dd03ecc91b87692841415a8cdd763d4248",
+      "publishedAtLabel": "Mar 12"
+    },
+    {
+      "id": 19241,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "ACTG",
+      "title": "ACTG Presents Data from Mpox Study STOMP at CROI",
+      "description": "ACTG Presents Data from Mpox Study STOMP at CROI ......",
+      "url": "https://www.globenewswire.com/news-release/2025/03/12/3041585/0/en/ACTG-Presents-Data-from-Mpox-Study-STOMP-at-CROI.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/1e94313a-1d33-49e8-bd5e-fd0c911661c9",
+      "publishedAt": "2025-03-12 15:30:00",
+      "content": "LOS ANGELES, March 12, 2025 (GLOBE NEWSWIRE) -- ACTG, a global clinical trials network focused on HIV and other infectious diseases, recently presented data demonstrating that tecovirimat did not imp\u2026 [+5916 chars]",
+      "retrievedAt": "2025-03-13 19:05:51.819497",
+      "internal_id": "3b5e5903a513b5d5222bbdfa7e0e249a52c1a95d54d009724780726e077a26ed",
+      "publishedAtLabel": "Mar 12"
+    },
+    {
+      "id": 19221,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Politicalwire.com",
+      "author": "Taegan Goddard",
+      "title": "RFK Jr. Suggests Everyone Should Get Measles",
+      "description": "Health and Human Services Secretary Robert F. Kennedy Jr. appeared to suggest getting measles is the best defense against the disease, as a Texas outbreak spreads across the U.S., the Daily Beast reports. Said Kennedy:",
+      "url": "https://politicalwire.com/2025/03/12/rfk-jr-suggests-everyone-should-get-measles/",
+      "urlToImage": "https://politicalwire.com/wp-content/uploads/2018/02/PW-podcast-logo.jpg",
+      "publishedAt": "2025-03-12 15:15:50",
+      "content": "\u201cThere are a lot of blogs and news sites claiming to understand politics, but only a few actually do. Political Wire is one of them.\u201d Chuck Todd, host of \u201cMeet the Press\u201d \u201cConcise. Relevant. To th\u2026 [+594 chars]",
+      "retrievedAt": "2025-03-13 19:05:48.330041",
+      "internal_id": "8d43dafdb2ad63995548867b8919e23c270809bbc9f4abaa65f802639ddce57d",
+      "publishedAtLabel": "Mar 12"
+    },
+    {
+      "id": 19224,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "Texas measles outbreak grows, while New York and California report new cases (Kelly Kasulis Cho/Washington Post)",
+      "description": "Kelly Kasulis Cho / Washington Post: Texas measles outbreak grows, while New York and California report new cases \u2014 Counties in California, New York and Maryland detected their first measles cases of the year. The CDC has warned travelers to be vigilant as\u2026",
+      "url": "https://www.memeorandum.com/250312/p44",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2GBL5PJEHJH3OZCVWMLX25HZEI.jpg&w=1440",
+      "publishedAt": "2025-03-12 14:35:01",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-03-13 19:05:48.368399",
+      "internal_id": "3676656ec8c37f653666f527f42577d10a75fd3f7607f43f647d3c12a38666aa",
+      "publishedAtLabel": "Mar 12"
+    },
+    {
+      "id": 19216,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The New Republic",
+      "author": "Edith Olmsted",
+      "title": "RFK Jr. Makes Bonkers Claim About Measles Vaccine as Cases Spread",
+      "description": "Health Secretary Robert F. Kennedy Jr. equated the health risks of getting the measles vaccine to contracting measles itself, in a dangerous escalation of his misinformation campaign amidst massive outbreaks. Kennedy continued to emphasize that getting vacc\u2026",
+      "url": "https://newrepublic.com/post/192641/robert-f-kennedy-jr-claim-measles-vaccine",
+      "urlToImage": "https://images.newrepublic.com/dfcba25c411887a5ccc335ef2353df3b21a1c84b.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+      "publishedAt": "2025-03-12 14:10:01",
+      "content": "Employees will not be permitted in any ED facility on Wednesday, March 12th, for any reason, the email stated, stating that offices would reopen on Thursday, at which time in-person presence will res\u2026 [+855 chars]",
+      "retrievedAt": "2025-03-13 19:05:48.123104",
+      "internal_id": "57cbaf91f5bc9d03a226a2bb7e27bea0cffc066bdaec84a9158161ecc572e9ec",
+      "publishedAtLabel": "Mar 12"
+    },
+    {
+      "id": 19234,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Wei-Xian Zhang, Tian-Yu Zhao, Cun-Chen Wang, Yong He, Hong-Zheng Lu, Hai-Ting Zhang, Lin-Min Wang, Mao Zhang, Chun-Xiao Li, Sheng-Qun Deng",
+      "title": "Assessing the global dengue burden: Incidence, mortality, and disability trends over three decades",
+      "description": "Author summary In the past three decades, dengue has rapidly proliferated, significantly impacting global health. In order to comprehensively analyze the global epidemiological trends of dengue from 1990 to 2021, we utilized the latest data from the Global Bu\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012932",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012932.g007&size=inline",
+      "publishedAt": "2025-03-12 14:00:00",
+      "content": "Citation: Zhang W-X, Zhao T-Y, Wang C-C, He Y, Lu H-Z, Zhang H-T, et al. (2025) Assessing the global dengue burden: Incidence, mortality, and disability trends over three decades. PLoS Negl Trop Dis \u2026 [+33883 chars]",
+      "retrievedAt": "2025-03-13 19:05:49.636931",
+      "internal_id": "95b81690e4f72244289aa28a26ba4313998a51d53ea87834177f6fd9ec5e4be2",
+      "publishedAtLabel": "Mar 12"
+    },
+    {
+      "id": 19239,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Jacob A. F. Westaway, Ernest Diez Benavente, Sarah Auburn, Michal Kucharski, Nicolas Aranciaga, Sourav Nayak, Timothy William, Giri S. Rajahram, Kim A. Piera, Kamil Braima, Angelica F. Tan, Danshy A. Alaza, Bridget E. Barber, Chris Drakeley, Roberto Amato, Edwin Sutanto, Hidayat Trimarsanto, Jenarun Jelip, Nicholas M. Anstey, Zbynek Bozdech, Matthew Field, Matthew J Grigg",
+      "title": "Genomic epidemiology of Plasmodium knowlesi reveals putative genetic drivers of adaptation in Malaysia",
+      "description": "Author summary The zoonotic P. knowlesi parasite is an emerging, yet understudied, cause of malaria in Southeast Asia. Sabah, Malaysia, has amongst the highest burden of human P. knowlesi infection in the world, however, the region is currently understudied. \u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012885",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012885.g006&size=inline",
+      "publishedAt": "2025-03-12 14:00:00",
+      "content": "Abstract Sabah, Malaysia, has amongst the highest burden of human Plasmodium knowlesi infection in the world, associated with increasing encroachment on the parasites macaque host habitat. However, \u2026 [+75491 chars]",
+      "retrievedAt": "2025-03-13 19:05:50.527942",
+      "internal_id": "e485ef4d6fce43011e7b341ee47d20bcdaef6c171a589d5a4f8e76d9c0d01d03",
+      "publishedAtLabel": "Mar 12"
+    },
+    {
+      "id": 19240,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Divya Teja Koppula, Ananganallur Nagarajan Shriram, Amala Ramasamy, Ashwani Kumar, Manju Rahi",
+      "title": "Evaluation of long lasting insecticidal nets in experimental huts and WHO PQT/VCP compliance: A systematic review",
+      "description": "Malaria control in highly endemic regions relies heavily on vector control tools, particularly LLINs. The effectiveness of LLINs varies by eco-epidemiological conditions and brands. A comprehensive review of WHO interim-approved LLIN brands is necessary to ad\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318673",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0318673.g003&size=inline",
+      "publishedAt": "2025-03-12 14:00:00",
+      "content": "Abstract Malaria control in highly endemic regions relies heavily on vector control tools, particularly LLINs. The effectiveness of LLINs varies by eco-epidemiological conditions and brands. A compr\u2026 [+56753 chars]",
+      "retrievedAt": "2025-03-13 19:05:50.543845",
+      "internal_id": "96ddf15c58f1f8efa6814f39fb5a2cdc366c9a33c831f688ca2bef6c1db23bb2",
+      "publishedAtLabel": "Mar 12"
+    },
+    {
+      "id": 19223,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "RFK Jr.: It Would Be Better if 'Everybody Got Measles' (Leigh Kimmins/The Daily Beast)",
+      "description": "Leigh Kimmins / The Daily Beast: RFK Jr.: It Would Be Better if \u2018Everybody Got Measles\u2019 \u2014 Health and Human Services Secretary Robert F. Kennedy Jr. appeared to suggest getting measles is the best defense against the disease, as a Texas outbreak spreads acro\u2026",
+      "url": "https://www.memeorandum.com/250312/p38",
+      "urlToImage": "https://www.thedailybeast.com/resizer/v2/KCTRRKOGONA45MNG3ZWB27C5TQ.png?smart=true&auth=59cf6fff844d5a37607dcf9c2899c15095c76c3b482b8f50695716dc4461a5a6&width=1200&height=630",
+      "publishedAt": "2025-03-12 13:55:01",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-03-13 19:05:48.353226",
+      "internal_id": "cfd30577de6c3f1b82025f3d59504005a974c622feb637e6bf2a1d11e37109c0",
+      "publishedAtLabel": "Mar 12"
+    },
+    {
+      "id": 19229,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "BIOXYTRAN, INC.",
+      "title": "Bioxytran Develops a Groundbreaking Treatment to Combat Bird Flu in Egg Laying Chickens Potentially Saving Billions",
+      "description": "New water-soluble galectin antagonist being considered in preclinical trials offering hope for rapid containment to H5N1 outbreaks BOSTON,...",
+      "url": "https://www.globenewswire.com/news-release/2025/03/12/3041439/0/en/Bioxytran-Develops-a-Groundbreaking-Treatment-to-Combat-Bird-Flu-in-Egg-Laying-Chickens-Potentially-Saving-Billions.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/383b7569-34f8-4c66-bd5f-996e56457526",
+      "publishedAt": "2025-03-12 13:30:00",
+      "content": "New water-soluble galectin antagonist being considered in preclinical trials offering hope for rapid containment to H5N1 outbreaks BOSTON, MASSACHUSETTS, March 12, 2025 (GLOBE NEWSWIRE) -- BIOXYTRAN\u2026 [+5497 chars]",
+      "retrievedAt": "2025-03-13 19:05:49.053974",
+      "internal_id": "ddcbcf181566b4088939314e9ff89beba38d09036c46d2f685a3c5f5cb616645",
+      "publishedAtLabel": "Mar 12"
+    },
+    {
+      "id": 19219,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "CBS News",
+      "title": "Texas doctor urges vaccine amid deadly measles outbreak",
+      "description": "The measles outbreak is drawing new attention to Health and Human Services Secretary Robert F. Kennedy Jr. and his suggestions of alternatives to the measles vaccine. CBS News' Omar Villafranca spoke to a doctor in west Texas, the epicenter of the outbreak, w\u2026",
+      "url": "https://www.cbsnews.com/video/texas-doctor-urges-vaccine-amid-deadly-measles-outbreak/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/03/12/d2133c90-91d5-4f9e-a309-73966939f275/thumbnail/1200x630/f121d3efe152d4c595c433df524ec5d5/0312-cmo-villa1.jpg?v=23322f4fbf0a01b337c42258c443e9ac",
+      "publishedAt": "2025-03-12 13:11:00",
+      "content": "Watch CBS News Copyright \u00a92025 CBS Interactive Inc. All rights reserved. Get browser notifications for breaking news, live events, and exclusive reporting. Not NowTurn On",
+      "retrievedAt": "2025-03-13 19:05:48.196417",
+      "internal_id": "0fee4c4b98ac59faf5133bf08afcda8ee948b888a1a2f5534f9efe53be24a7cf",
+      "publishedAtLabel": "Mar 12"
+    },
+    {
+      "id": 19218,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Sciencebasedmedicine.org",
+      "author": "Steven Novella",
+      "title": "Vitamin A Does Not Treat or Prevent Measles",
+      "description": "It didn\u2019t take long for concerns about RFKs unscientific ideological approach to healthcare to manifest. We are in the middle of a measles outbreak \u2013 the exact kind of situation for which we need a strong federal response. The person in charge of that respons\u2026",
+      "url": "https://sciencebasedmedicine.org/vitamin-a-does-not-treat-or-prevent-measles/",
+      "urlToImage": "https://sciencebasedmedicine.org/wp-content/uploads/2025/03/Measles-Map.jpg",
+      "publishedAt": "2025-03-12 12:17:03",
+      "content": "It didn\u2019t take long for concerns about RFKs unscientific ideological approach to healthcare to manifest. We are in the middle of a measles outbreak \u2013 the exact kind of situation for which we need a s\u2026 [+4481 chars]",
+      "retrievedAt": "2025-03-13 19:05:48.174657",
+      "internal_id": "9198938e27a6e62639e1fd13b9d7e65b2cc5b6d4fd97e2453fb174d76f36acab",
+      "publishedAtLabel": "Mar 12"
+    },
+    {
+      "id": 19236,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": "Varsha Vats",
+      "title": "5 School Students In Kerala Show Viral Meningitis Symptoms; Know Visible Signs In Infants",
+      "description": "Viral meningitis is an inflammation of the protective membranes (meninges) surrounding the brain and spinal cord. It is primarily caused by viral infections.",
+      "url": "https://www.ndtv.com/health/5-school-students-in-kerala-show-viral-meningitis-symptoms-know-visible-symptoms-in-infants-7908195",
+      "urlToImage": "https://c.ndtvimg.com/2025-01/ur39ll88_hmpv-virus-in-chhattisgarh_625x300_31_January_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "publishedAt": "2025-03-12 11:46:14",
+      "content": "Five school students from Kalamassery in the Ernakulam district of Kerala have shown symptoms of viral meningitis. Health officials are monitoring the suspected cases and have sent samples for testin\u2026 [+2227 chars]",
+      "retrievedAt": "2025-03-13 19:05:49.995416",
+      "internal_id": "1acf9bb286109547ba4ca06bf3e835e572710ab29de0cfd6af0010daa2ae9055",
+      "publishedAtLabel": "Mar 12"
+    },
+    {
+      "id": 19230,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Berliner Morgenpost",
+      "author": "FUNKE Mediengruppe",
+      "title": "Vogelgrippe: Experten warnen vor \u201estiller Pandemie\u201c",
+      "description": "Weltweit gibt es immer mehr F\u00e4lle. Forscher sehen nun auch eine Gefahr f\u00fcr Haustiere. Katzen gelten dabei als besonders gef\u00e4hrdet.",
+      "url": "https://www.morgenpost.de/panorama/article408532965/vogelgrippe-experten-warnen-vor-stiller-pandemie.html",
+      "urlToImage": "https://img.sparknews.funkemedien.de/408533584/408533584_1741770937_v16_9_1600.jpeg",
+      "publishedAt": "2025-03-12 10:19:53",
+      "content": "Berlin. Weltweit gibt es immer mehr F\u00e4lle. Forscher sehen nun auch eine Gefahr f\u00fcr Haustiere. Katzen gelten dabei als besonders gef\u00e4hrdet. Das Virus H5N1 f\u00fchrt aktuell immer h\u00e4ufiger zu Vogelgrippe-\u2026 [+3732 chars]",
+      "retrievedAt": "2025-03-13 19:05:49.063311",
+      "internal_id": "a35b06a53c6290ddcc04574d2ef9cecc8ca6e37bdd11e003e727ab5f5318b9b4",
+      "publishedAtLabel": "Mar 12"
+    },
+    {
+      "id": 19214,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Pikabu.ru",
+      "author": "dawn81",
+      "title": "\u041f\u043e\u0447\u0435\u043c\u0443 \u0431\u043e\u043b\u044c\u043d\u044b\u0435 \u0431\u0435\u0448\u0435\u043d\u0441\u0442\u0432\u043e\u043c \u0431\u043e\u044f\u0442\u0441\u044f \u0432\u043e\u0434\u044b?",
+      "description": "\u0411\u043e\u044f\u0437\u043d\u044c \u0432\u043e\u0434\u044b \u043f\u0440\u0438 \u0431\u0435\u0448\u0435\u043d\u0441\u0442\u0432\u0435 \u2013 \u043e\u0434\u0438\u043d \u0438\u0437 \u0441\u0430\u043c\u044b\u0445 \u0438\u0437\u0432\u0435\u0441\u0442\u043d\u044b\u0445 \u0441\u0438\u043c\u043f\u0442\u043e\u043c\u043e\u0432 \u044d\u0442\u043e\u0433\u043e \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0430\u043d\u0438\u044f, \u043e \u043a\u043e\u0442\u043e\u0440\u043e\u043c \u0437\u043d\u0430\u043b\u0438 \u0435\u0449\u0435 \u0432 \u0434\u0440\u0435\u0432\u043d\u043e\u0441\u0442\u0438. \u0423\u0441\u0442\u0430\u0440\u0435\u0432\u0448\u0435\u0435 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f \u0431\u0435\u0448\u0435\u043d\u0441\u0442\u0432\u0430 \u2013 \u0433\u0438\u0434\u0440\u043e\u0444\u043e\u0431\u0438\u044f. \u041d\u043e \u043f\u043e\u0447\u0435\u043c\u0443 \u0438\u043d\u0444\u0435\u043a\u0446\u0438\u043e\u043d\u043d\u043e\u0435 \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0430\u043d\u0438\u0435, \u0432\u044b\u0437\u044b\u0432\u0430\u0435\u043c\u043e\u0435 \u0432\u0438\u0440\u0443\u0441\u043e\u043c Rabies virus \u0438 \u043f\u043e\u0440\u0430\u0436\u0430\u044e\u0449\u0435\u0435 \u043c\u043e\u0437\u0433, \u0437\u0430\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u0442 \u0438\u0437\u0431\u2026",
+      "url": "https://pikabu.ru/story/pochemu_bolnyie_beshenstvom_boyatsya_vodyi_12480323",
+      "urlToImage": "https://pikabu.ru/cache.php?route=share_preview&story_id=12480323&time=1741773513&u=dawn81",
+      "publishedAt": "2025-03-12 09:47:59",
+      "content": ", . . , Rabies virus , ? Rabies virus , . , . . , , \u00ab\u00bb , . . , . \u00ab\u00bb . , . ( ). . . .",
+      "retrievedAt": "2025-03-13 19:05:47.639235",
+      "internal_id": "91b0af2e90167938e6ef5bf9b8298c99609e77844e01616ef8b2c2e7415c0b60",
+      "publishedAtLabel": "Mar 12"
+    },
+    {
+      "id": 19237,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ET Online",
+      "title": "Meningitis outbreak kills 30 in Kerala and Nigeria: Symptoms, high-risk groups, and causes of brain inflammation",
+      "description": "Nigerian authorities confirm a meningitis outbreak in the northwest, causing 26 deaths over two months. Medical supplies and staff are in place, and isolation centres have been set up to prevent further spread. Residents are urged to stay vigilant and seek me\u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/meningitis-outbreak-kills-30-in-kerala-and-nigeria-symptoms-high-risk-groups-and-causes-of-brain-inflammation/articleshow/118928119.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-118928684,width-1200,height-630,imgsize-1824557,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-03-12 09:22:40",
+      "content": "At least 26 people have died in Nigeria due to a meningitis outbreak, while five students in Kerala, India, have shown symptoms of the disease. The outbreak in Nigerias Kebbi state began in January, \u2026 [+3071 chars]",
+      "retrievedAt": "2025-03-13 19:05:50.003692",
+      "internal_id": "3440bda3deae8aa611ec909b7b4a4906a959872726aa57966ffaa93afb36a15d",
+      "publishedAtLabel": "Mar 12"
+    },
     {
       "id": 19210,
       "query": [
@@ -26959,132 +27517,6 @@
       "content": "Goi\u00e2nia \u2013 Goi\u00e1s registrou a primeira morte por dengue no estado neste ano de 2025. Segundo informa\u00e7\u00f5es da Secretaria de Sa\u00fade de Goi\u00e1s (SES-GO), o caso foi na cidade de Heitorai, no centro goiano. C\u2026 [+2301 chars]",
       "retrievedAt": "2025-01-28 07:06:26.469513",
       "internal_id": "d399c5b754980be912654a4e88828514e2a56e9e8c555fc593bff96b9edbb3f1",
-      "publishedAtLabel": "Jan 26"
-    },
-    {
-      "id": 17712,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Shtfplan.com",
-      "author": "Mac Slavo",
-      "title": "Infectious Disease \u201cExperts\u201d: Bird Feces In The Wind Could Spread Avian Influenza",
-      "description": "Infectious disease \"experts\" in Minnesota are now claiming that \"windblown\" bird feces could spread the H5N1 avian influenza. Dr. Michael Osterholm hosts a podcast at the University of Minnesota called \"Osterholm Update,\" where he discusses the latest outbrea\u2026",
-      "url": "https://www.shtfplan.com/headline-news/infectious-disease-experts-bird-feces-in-the-wind-could-spread-avian-influenza",
-      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2024/12/birdflu1.jpg",
-      "publishedAt": "2025-01-26 18:00:48",
-      "content": "Infectious disease \u201cexperts\u201d in Minnesota are now claiming that \u201cwindblown\u201d bird feces could spread the H5N1 avian influenza. Dr. Michael Osterholm hosts a podcast at the University of Minnesota call\u2026 [+1963 chars]",
-      "retrievedAt": "2025-01-27 19:05:41.573787",
-      "internal_id": "327f0a90665da14f00990d5d69ce4e14a6f3649e1cd2f9dcb2db25b95e7f895b",
-      "publishedAtLabel": "Jan 26"
-    },
-    {
-      "id": 17715,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "globo",
-      "source_name": "Globo",
-      "author": null,
-      "title": "Sociedade m\u00e9dica alerta para baixa procura da vacina contra a dengue; sorotipo 3 preocupa",
-      "description": "Sorotipo 3 n\u00e3o circula de forma predominante no pa\u00eds desde 2008 e grande parte da popula\u00e7\u00e3o est\u00e1 suscet\u00edvel ao DENV-3",
-      "url": "https://valor.globo.com/brasil/noticia/2025/01/26/sociedade-medica-alerta-para-baixa-procura-da-vacina-contra-a-dengue-sorotipo-3-preocupa.ghtml",
-      "urlToImage": "https://s2-valor.glbimg.com/aM8uxs52bkxYOrDs8fcwzJSatng=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2024/F/2/n0zs2aSXyBHcYsi6KDvw/mosquito-4998145-1920.jpeg",
-      "publishedAt": "2025-01-26 14:31:24",
-      "content": "Moeda americana chegou a atingir R$ 5,86 na m\u00ednima do dia, em meio ao bom humor global com Trump, mas desconforto com medidas estudadas pelo governo brasileiro para conter a alta de alimentos pesou n\u2026 [+7 chars]",
-      "retrievedAt": "2025-01-27 19:05:41.965111",
-      "internal_id": "35a99a1dcba4ac0e7ca6ab1140b68d2007cbcdcf79c6c7188bf8ca1d1889dfb8",
-      "publishedAtLabel": "Jan 26"
-    },
-    {
-      "id": 17711,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Livemint",
-      "author": "Priyanka Sharma",
-      "title": "Asha workers to identify 1 million children for MMR vaccination, special campaigns soon",
-      "description": "The government is aiming to achieve 100% coverage to eliminate mumps, measles and rubella by 2026.",
-      "url": "https://www.livemint.com/industry/asha-workers-mmr-vaccination-special-campaigns-mumps-measles-rubella-accredited-social-health-activist-11737708760867.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2025/01/26/1600x900/Not-Real-News--0_1682410928524_1737899278480.jpg",
-      "publishedAt": "2025-01-26 13:59:13",
-      "content": "New Delhi: The campaign to eliminate mumps, measles and rubella is set to scaled up by identifying children who are yet to be vaccinated for MMRby 2026. As many as 1 million children have still not \u2026 [+2345 chars]",
-      "retrievedAt": "2025-01-27 19:05:40.262673",
-      "internal_id": "af7eca8bc6606e9b2f07829a6b45ed4a2b7a08f4abf193606b97efec07181176",
-      "publishedAtLabel": "Jan 26"
-    },
-    {
-      "id": 17714,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "The Boston Globe",
-      "author": "Maren Halpin",
-      "title": "Massachusetts bird flu: chicken farms on alert as H5N1 suspected in state",
-      "description": "State officials suspect the avian flu has killed dozens of wild birds in Boston, Amherst, and Plymouth, and farmers are stepping up precautions.",
-      "url": "https://www.bostonglobe.com/2025/01/26/business/bird-flu-mass-chicken-farms/",
-      "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/3VNTCS6WOH36W2XKHEOURISYIY.jpg?auth=1a116965f8701559103bf34278c22faf76c29ee8041ceb759b4554119df008a5&width=1440",
-      "publishedAt": "2025-01-26 13:46:42",
-      "content": "It makes me sick thinking about it, said Anne Diemand Bucci, co-owner of Diemand Farm in Wendell, in north-central Massachusetts, where she has as many as 2,000 egg-laying hens. It would be devastati\u2026 [+5418 chars]",
-      "retrievedAt": "2025-01-27 19:05:41.652967",
-      "internal_id": "c7228e5a5fffd5db7fa328afc631d2f1956c1bb4f1f31095120e4e3e90f6f656",
-      "publishedAtLabel": "Jan 26"
-    },
-    {
-      "id": 17713,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "nbc-news",
-      "source_name": "NBC News",
-      "author": "Linda Carroll",
-      "title": "FDA recommends pet food companies revisit safety plans amid bird flu outbreak",
-      "description": "The FDA has advised pet food companies to revisit food safety plans as a growing number of cats have gotten sick or died from eating food contaminated with bird flu.",
-      "url": "https://www.nbcnews.com/health/health-news/raw-pet-food-bird-flu-outbreak-cats-fda-guidance-rcna189011",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-01/250125-cat-ch-1445-7758a7.jpg",
-      "publishedAt": "2025-01-26 12:00:00",
-      "content": "As a growing number of cats have gotten sick or died after consuming raw pet food or raw milk contaminated with the H5N1 virus, health officials have advised pet food companies to take extra precauti\u2026 [+5575 chars]",
-      "retrievedAt": "2025-01-27 19:05:41.599442",
-      "internal_id": "dbabadc785796e9ee706387224cc1be36eda7b767f3529cc6277660dc9c82333",
-      "publishedAtLabel": "Jan 26"
-    },
-    {
-      "id": 17717,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "BusinessLine",
-      "author": "Team BL",
-      "title": "Georgia is malaria-free",
-      "description": "Georgia achieves malaria-free status after decades of dedicated efforts, paving the way for WHO European region certification.",
-      "url": "https://www.thehindubusinessline.com/specials/pulse/georgia-is-malaria-free/article69142650.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/39ji2o/article69143208.ece/alternates/LANDSCAPE_1200/BL2701_Pulse_Capsule.jpg",
-      "publishedAt": "2025-01-26 11:39:30",
-      "content": "Following a nearly century-long effort, Georgia has been certified malaria-free by the World Health Organization (WHO). It joins the league of 45 other countries and one territory that have achieved \u2026 [+1775 chars]",
-      "retrievedAt": "2025-01-27 19:05:42.574176",
-      "internal_id": "fe679b72aa71e1b9c8ad8c4c4dfc18496e3c5cbdfc103d5a3500ead3dda6cf85",
-      "publishedAtLabel": "Jan 26"
-    },
-    {
-      "id": 17716,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Europapress.es",
-      "author": null,
-      "title": "Rueda reivindica a Galicia como \"l\u00edder\" en la vacunaci\u00f3n de la meningitis al contar con el calendario \"m\u00e1s completo\"",
-      "description": "El presidente de la Xunta, Alfonso Rueda, se ha reunido esta semana con representantes de la Asociaci\u00f3n Espa\u00f1ola de Meningitis, un encuentro en el que ha reivindicado a Galicia como \"l\u00edder\" en la vacunaci\u00f3n contra esta enfermedad infecciosa al contar con el c\u2026",
-      "url": "https://www.europapress.es/galicia/noticia-rueda-reivindica-galicia-lider-vacunacion-meningitis-contar-calendario-mas-completo-20250126115823.html",
-      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20250126115823_1200.jpg",
-      "publishedAt": "2025-01-26 10:58:23",
-      "content": "SANTIAGO DE COMPOSTELA 26 Ene. (EUROPA PRESS) - El presidente de la Xunta, Alfonso Rueda, se ha reunido esta semana con representantes de la Asociaci\u00f3n Espa\u00f1ola de Meningitis, un encuentro en el q\u2026 [+1426 chars]",
-      "retrievedAt": "2025-01-27 19:05:42.128438",
-      "internal_id": "78e6688bc8805e4493bf3e062c60e5cf8e7b2e4b081fb7297c47003e7656b898",
       "publishedAtLabel": "Jan 26"
     }
   ]
