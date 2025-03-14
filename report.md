@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 17
-- **Last harvest:** 2025-03-14 07:07
-- **Most recent article:** 2025-03-13 05:16:32
+- **New articles in last harvest:** 19
+- **Last harvest:** 2025-03-14 19:05
+- **Most recent article:** 2025-03-13 18:50:50
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-10 | 25-11 | 25-5 | 25-6 | 25-7 | 25-8 | 25-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 142 | 75 | 13 | 24 | 72 | 83 | 162 | 571 |
-| h5n1 | 23 | 25 | 51 | 72 | 55 | 54 | 42 | 322 |
-| dengue | 8 | 9 | 24 | 34 | 37 | 57 | 30 | 199 |
-| malaria | 29 | 16 | 30 | 25 | 12 | 7 | 20 | 139 |
-| mpox | 14 | 11 | 21 | 28 | 18 | 15 | 26 | 133 |
-| meningitis | 4 | 7 | 8 | 2 | 12 | 11 | 7 | 51 |
+| measles | 142 | 84 | 12 | 24 | 72 | 83 | 162 | 579 |
+| h5n1 | 23 | 29 | 48 | 72 | 55 | 54 | 42 | 323 |
+| dengue | 8 | 11 | 23 | 34 | 37 | 57 | 30 | 200 |
+| malaria | 29 | 17 | 29 | 25 | 12 | 7 | 20 | 139 |
+| mpox | 14 | 12 | 21 | 28 | 18 | 15 | 26 | 134 |
+| meningitis | 4 | 7 | 7 | 2 | 12 | 11 | 7 | 50 |
 | hpai | 10 | 2 | 6 | 3 | 9 | 5 | 4 | 39 |
 | chikungunya | 6 | 1 | 9 | 8 | 5 | 3 | 7 | 39 |
-| rabies | 3 | 5 | 6 | 4 | 5 | 4 | 2 | 29 |
+| rabies | 3 | 6 | 6 | 4 | 5 | 4 | 2 | 30 |
 | zika | 3 | 0 | 8 | 6 | 2 | 6 | 2 | 27 |
 | typhoid | 3 | 7 | 0 | 2 | 3 | 0 | 4 | 19 |
 | pertussis | 0 | 4 | 0 | 3 | 3 | 2 | 0 | 12 |
-| yersinia | 1 | 1 | 0 | 0 | 5 | 0 | 2 | 9 |
+| yersinia | 1 | 2 | 0 | 0 | 5 | 0 | 2 | 10 |
 | leptospirosis | 3 | 0 | 0 | 1 | 0 | 2 | 0 | 6 |
 | shigellosis | 3 | 0 | 0 | 0 | 0 | 0 | 1 | 4 |
 
@@ -2243,8 +2243,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Detectado un brote de meningitis en un colegio de Zaragoza con dos casos confirmados](https://www.huffingtonpost.es/sociedad/detectado-brote-meningitis-colegio-zaragoza-dos-casos-confirmadosbr.html) (Huffingtonpost.es)
 
-- [Rueda reivindica a Galicia como "líder" en la vacunación de la meningitis al contar con el calendario "más completo"](https://www.europapress.es/galicia/noticia-rueda-reivindica-galicia-lider-vacunacion-meningitis-contar-calendario-mas-completo-20250126115823.html) (Europapress.es)
-
 ## 25-5 (measles)
 
 - [Samoa's Health Chief Says RFK Jr. Spread Anti-Vax Misinformation Before Deadly Measles Outbreak](https://www.democracynow.org/2025/1/31/rfk_jr_measles_samoa) (Democracy Now!)
@@ -2270,8 +2268,6 @@ Source: [News API](https://newsapi.org/)
 - [Measles case confirmed in metro Atlanta](https://www.wsbtv.com/news/local/atlanta/measles-case-confirmed-metro-atlanta/ZYX6H3AHMJCDHNL6WUG5ESHTJY/) (WSB Atlanta)
 
 - [First case of measles in the state for the year reported, Georgia DPH says](https://www.fox5atlanta.com/news/first-case-measles-state-year-reported-georgia-dph-says) (FOX 5 Atlanta)
-
-- [Asha workers to identify 1 million children for MMR vaccination, special campaigns soon](https://www.livemint.com/industry/asha-workers-mmr-vaccination-special-campaigns-mumps-measles-rubella-accredited-social-health-activist-11737708760867.html) (Livemint)
 
 ## 25-5 (malaria)
 
@@ -2332,8 +2328,6 @@ Source: [News API](https://newsapi.org/)
 - [El grupo rebelde M23, apoyado por Ruanda, toma el control de la ciudad congolesa de Goma y 3.000 presos huyen de la cárcel](https://www.elespanol.com/mundo/20250127/grupo-rebelde-m23-apoyado-ruanda-toma-control-ciudad-congolesa-goma-presos-huyen-carcel/919658315_0.html) (Elespanol.com)
 
 - [Nigerian govt reaffirms commitment to malaria elimination](https://www.premiumtimesng.com/health/health-news/769668-nigerian-govt-reaffirms-commitment-to-malaria-elimination.html) (Premium Times)
-
-- [Georgia is malaria-free](https://www.thehindubusinessline.com/specials/pulse/georgia-is-malaria-free/article69142650.ece) (BusinessLine)
 
 ## 25-5 (hpai)
 
@@ -2447,12 +2441,6 @@ Source: [News API](https://newsapi.org/)
 
 - [News story: Human case of avian flu detected in England](https://www.gov.uk/government/news/human-case-of-avian-flu-detected-in-england) (Www.gov.uk)
 
-- [Infectious Disease “Experts”: Bird Feces In The Wind Could Spread Avian Influenza](https://www.shtfplan.com/headline-news/infectious-disease-experts-bird-feces-in-the-wind-could-spread-avian-influenza) (Shtfplan.com)
-
-- [Massachusetts bird flu: chicken farms on alert as H5N1 suspected in state](https://www.bostonglobe.com/2025/01/26/business/bird-flu-mass-chicken-farms/) (The Boston Globe)
-
-- [FDA recommends pet food companies revisit safety plans amid bird flu outbreak](https://www.nbcnews.com/health/health-news/raw-pet-food-bird-flu-outbreak-cats-fda-guidance-rcna189011) (NBC News)
-
 ## 25-5 (dengue)
 
 - [Dengue: a preocupação (e desafio) do marqueteiro de Lula](https://veja.abril.com.br/politica/dengue-a-preocupacao-e-desafio-do-marqueteiro-de-lula) (Abril.com.br)
@@ -2501,8 +2489,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Goiás registra 1ª morte por dengue no ano. Seis casos são investigados](https://www.metropoles.com/brasil/goias-registra-1a-morte-por-dengue-no-ano-seis-casos-sao-investigados) (Metropoles.com)
 
-- [Sociedade médica alerta para baixa procura da vacina contra a dengue; sorotipo 3 preocupa](https://valor.globo.com/brasil/noticia/2025/01/26/sociedade-medica-alerta-para-baixa-procura-da-vacina-contra-a-dengue-sorotipo-3-preocupa.ghtml) (Globo)
-
 ## 25-5 (chikungunya)
 
 - [De exóticas a autóctonas, cuando las enfermedades ya no viajan: "Lo importante es evitar que se conviertan en endémicas"](https://www.elmundo.es/ciencia-y-salud/salud/2025/02/01/678bc5a6e4d4d8c03d8b45b4.html) (El Mundo)
@@ -2525,6 +2511,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-11 (yersinia)
 
+- [Descubren en una oveja de la Edad del Bronce el ancestro más antiguo de la bacteria de la peste negra: ya infectaba animales miles de años antes de las grandes pandemias](http://www.muyinteresante.com/historia/descubrimiento-adn-bacteria-peste-negra-ovejas.html) (Muyinteresante.com)
+
 - [Genomic Characterization of Yersinia enterocolitica Isolates, Costa Rica](https://wwwnc.cdc.gov/eid/article/31/4/24-0963_article) (Cdc.gov)
 
 ## 25-11 (typhoid)
@@ -2544,6 +2532,8 @@ Source: [News API](https://newsapi.org/)
 - [Trump loves the Gilded Age and its tariffs. It was a great time for the rich but not for the many](https://abcnews.go.com/Business/wireStory/trump-loves-gilded-age-tariffs-great-time-rich-119626998) (ABC News)
 
 ## 25-11 (rabies)
+
+- [रेबीज का खतरनाक असर, कुत्ते जैसी हरकत, फिर आइसोलेशन वॉर्ड में ही मरीज ने काट लिया अपना गला](https://navbharattimes.indiatimes.com/state/tamil-nadu/chennai/odisha-man-slit-his-own-throat-by-glass-pieces-in-coimbatore-government-hospital-after-rabies-infection-know-all/articleshow/118971173.cms) (The Times of India)
 
 - [Почему больные бешенством боятся воды?](https://pikabu.ru/story/pochemu_bolnyie_beshenstvom_boyatsya_vodyi_12480323) (Pikabu.ru)
 
@@ -2566,6 +2556,8 @@ Source: [News API](https://newsapi.org/)
 - [Whooping cough cases on the rise in North Carolina](https://www.wral.com/lifestyle/health/whooping-cough-rise-north-carolina-march-2025/) (WRAL.com)
 
 ## 25-11 (mpox)
+
+- [Entenda as diferenças entre as cepas de mpox que chegaram ao Brasil](https://www.infomoney.com.br/saude/entenda-as-diferencas-entre-as-cepas-de-mpox-que-chegaram-ao-brasil/) (InfoMoney)
 
 - [Mpox: após primeiro caso de nova cepa, Ministério da Saúde envia equipe para SP](https://veja.abril.com.br/saude/mpox-apos-primeiro-caso-de-nova-cepa-ministerio-da-saude-envia-equipe-para-sp) (Abril.com.br)
 
@@ -2606,6 +2598,24 @@ Source: [News API](https://newsapi.org/)
 - [Sokoto govt alerts residents on meningitis outbreak](https://punchng.com/sokoto-govt-alerts-residents-on-meningitis-outbreak/) (The Punch)
 
 ## 25-11 (measles)
+
+- [Measles cases in European region doubled to highest since 1997](https://news.sky.com/story/measles-cases-in-european-region-doubled-last-year-to-highest-since-1997-say-who-and-unicef-13328004) (Sky.com)
+
+- [Measles cases in Europe and Central Asia doubled last year to the highest reported level since 1997](https://www.bostonherald.com/2025/03/13/europe-measles/) (Boston Herald)
+
+- [Health Experts Debunk Measles Misinformation](https://www.forbes.com/sites/emmawoollacott/2025/03/13/health-experts-debunk-measles-misinformation/) (Forbes)
+
+- [False Measles Vaccine Conspiracy Theories Won't Stop: Here's Everything You Need to Know](https://www.teenvogue.com/story/false-measles-vaccine-conspiracy-theories-everything-you-need-to-know) (Teen Vogue)
+
+- [Measles highest in 25 years in Europe, WHO says](https://www.bbc.com/news/articles/cy9dyp8e81zo) (BBC News)
+
+- [Robert Kennedy Blames Child’s Measles Death on Poor Nutrition and Exercise, Not Lack of Vaccination](https://dianeravitch.net/2025/03/13/robert-kennedy-blames-childs-measles-death-on-poor-nutrition-and-exercise/) (Dianeravitch.net)
+
+- [Measles cases in Europe double to reach 25-year high](https://www.thelocal.com/20250313/measles-cases-in-europe-double-to-reach-25-year-high) (Thelocal.com)
+
+- [RFK Jr. Suggests Getting Measles Is Better Than Getting Vaccinated](https://crooksandliars.com/2025/03/rfk-jr-suggests-getting-measles-better) (Crooksandliars.com)
+
+- [Experts give Kennedy low marks as measles outbreak tests him (Nathaniel Weixel/The Hill)](https://www.memeorandum.com/250313/p19) (Memeorandum.com)
 
 - [RFK Jr.'s 'Steak ‘n Shake' photo op was a surreal example of nutrition misinformation](https://www.msnbc.com/opinion/msnbc-opinion/rfk-jr-beef-tallow-french-fries-fox-news-measles-rcna196130) (MSNBC)
 
@@ -2759,6 +2769,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-11 (malaria)
 
+- [Assessment of the diagnostic performance of the SD Bioline Malaria antigen test for the diagnosis of malaria in the Tombel health district, Southwest region of Cameroon](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0298992) (Plos.org)
+
 - [USAID’s demise raises fears for millions of lives across the Global South](https://www.aljazeera.com/news/2025/3/13/across-global-south-usaids-demise-raises-fears-of-malaria-tb-resurgence) (Al Jazeera English)
 
 - [Why the African clawed frog may help stop mosquitoes spreading malaria](https://news.sky.com/story/mosquitoes-being-genetically-modified-to-kill-the-malaria-parasite-they-carry-13327503) (Sky.com)
@@ -2798,6 +2810,14 @@ Source: [News API](https://newsapi.org/)
 - [Highly Pathogenic Avian Influenza A(H5N1) Virus Stability in Irradiated Raw Milk and Wastewater and on Surfaces, United States](https://wwwnc.cdc.gov/eid/article/31/4/24-1615_article) (Cdc.gov)
 
 ## 25-11 (h5n1)
+
+- [Human Cases of Highly Pathogenic Avian Influenza A(H5N1) - California, September-December 2024](https://www.cdc.gov/mmwr/volumes/74/wr/mm7408a1.htm) (Cdc.gov)
+
+- [RFK Jr.: Mass Vaccination Of Birds Could Turn Them Into “Mutation Factories” For Bird Flu](https://www.shtfplan.com/member-exclusive/rfk-jr-mass-vaccination-of-birds-could-turn-them-into-mutation-factories-for-bird-flu) (Shtfplan.com)
+
+- [CSIC y UNESPA detectan unos 200 animales infectados con gripe aviar en 24 localizaciones de la Península Antártica](https://www.europapress.es/sociedad/noticia-csic-unespa-detectan-200-animales-infectados-gripe-aviar-24-localizaciones-peninsula-antartica-20250313143005.html) (Europapress.es)
+
+- [RFK Jr. – “Most of our scientists are against the [H5N1 bird flu] culling operation.”](https://www.globalresearch.ca/rfk-jr-most-of-our-scientists-are-against-the-h5n1-bird-flu-culling-operation/5881958) (Globalresearch.ca)
 
 - [Exposure of Wild Mammals to Influenza A(H5N1) Virus, Alaska, USA, 2020–2023](https://wwwnc.cdc.gov/eid/article/31/4/24-1002_article) (Cdc.gov)
 
@@ -2850,6 +2870,10 @@ Source: [News API](https://newsapi.org/)
 - [천안 산란계 농장서 고병원성 AI 확진···11만여 마리 살처분](https://www.khan.co.kr/article/202503091140001) (Khan.co.kr)
 
 ## 25-11 (dengue)
+
+- [Empresa reforça produção do ‘Aedes do Bem’ após emergência de dengue em SP](https://veja.abril.com.br/coluna/radar/empresa-reforca-producao-do-aedes-do-bem-apos-emergencia-de-dengue-em-sp) (Abril.com.br)
+
+- [Oropouche: ¿qué es, cómo se contagia y cuáles son los síntomas?](https://www.nacion.com/ciencia/salud/oropouche-que-es-como-se-contagia-y-cuales-son-los/SLWDLPJRW5FJFPNJ7CIX2R72ZE/story/) (Nacion.com)
 
 - [Los científicos advierten de la mutación del mosquito del dengue que la hace resistente a un tipo de insecticida](https://www.huffingtonpost.es/sociedad/los-cientificos-advierten-mutacion-mosquito-dengue-resistente-tipo-insecticida.html) (Huffingtonpost.es)
 
