@@ -1,8 +1,116 @@
 {
-  "last_updated": "2025-03-14 19:05",
-  "count_articles_total": 1562,
-  "count_articles_new": 19,
+  "last_updated": "2025-03-15 07:06",
+  "count_articles_total": 1576,
+  "count_articles_new": 7,
   "articles": [
+    {
+      "id": 19283,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Umar Sani",
+      "title": "Bauchi records 218 measles cases on three-month, embraces MR-vaccine",
+      "description": "The Bauchi State Government has disclosed that measles is becoming endemic in the state. The Executive Chairman, Bauchi State Primary Healthcare Board, Rilwanu Mohammed, made the disclosure on Wednesday during a One-day sensitisation programme on the importan\u2026",
+      "url": "https://punchng.com/bauchi-records-218-measles-cases-on-three-month-embraces-mr-vaccine/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2025/03/13212053/MR-Vaccines.jpg",
+      "publishedAt": "2025-03-14 00:53:51",
+      "content": "The Bauchi State Government has disclosed that measles is becoming endemic in the state. The Executive Chairman, Bauchi State Primary Healthcare Board, Rilwanu Mohammed, made the disclosure on Wedne\u2026 [+1818 chars]",
+      "retrievedAt": "2025-03-15 07:06:02.666165",
+      "internal_id": "46806120242bc13aecc9c5c22b4dcf08dc5c7e0dd2e8a6dcb399551e90d0e2bd",
+      "publishedAtLabel": "Mar 14"
+    },
+    {
+      "id": 19287,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Metafilter.com",
+      "author": "theory",
+      "title": "What long-ago illness could this have been?",
+      "description": "Someone just reminded me of a mystery illness I had about 25 years ago. Near the end of a month-long trip in Egypt and continuing for 2-3 weeks after returning home I had reoccurring fevers \u2014 mainly nights, with massive night sweats \u2014 as well as splotchy red \u2026",
+      "url": "https://ask.metafilter.com/384874/What-long-ago-illness-could-this-have-been",
+      "urlToImage": "http://cdn.mefi.us/images/askmefi/apple-touch-icon.png",
+      "publishedAt": "2025-03-13 22:26:38",
+      "content": "Typhoid fever seems to be the closest thing symptom-wise I've read about -- though I don't recall having any diarrhea and typhoid generally sounds much more severe than what I experienced. It also do\u2026 [+816 chars]",
+      "retrievedAt": "2025-03-15 07:06:06.899478",
+      "internal_id": "ae09b4ea660d37fcb9f2ed4757fe45fd78b802b4b2cc508e364bd8f2d81c3f4b",
+      "publishedAtLabel": "Mar 13"
+    },
+    {
+      "id": 19286,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Viva Sa\u00fade",
+      "title": "O que se sabe sobre a nova variante de Mpox identificada no Brasil?",
+      "description": "A Mpox \u00e9 uma doen\u00e7a viral da mesma fam\u00edlia da var\u00edola, que foi erradicada em 1980. No entanto, \u00e9 mais rara e, geralmente, mais leve",
+      "url": "https://www.terra.com.br/vida-e-estilo/o-que-se-sabe-sobre-a-nova-variante-de-mpox-identificada-no-brasil,9749e1d9b29215be07178d379369dd86h0y8tc8j.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/03/13/1078208887-ebc.png",
+      "publishedAt": "2025-03-13 20:40:54",
+      "content": "O Minist\u00e9rio da Sa\u00fade confirmou o primeiro caso de infec\u00e7\u00e3o pela cepa 1b da Mpox no Brasil. A paciente, uma mulher de 29 anos que mora na regi\u00e3o metropolitana de S\u00e3o Paulo, teve contato com um famili\u2026 [+1609 chars]",
+      "retrievedAt": "2025-03-15 07:06:06.433557",
+      "internal_id": "e734ce27e79cbadf811491fde08695259e65b50e898f0ee823e2090c4b5ffa8c",
+      "publishedAtLabel": "Mar 13"
+    },
+    {
+      "id": 19285,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Zoomit.ir",
+      "author": "\u0622\u0646\u06cc\u062a\u0627 \u0637\u0627\u0647\u0631\u0627\u0646\u067e\u0648\u0631",
+      "title": "\u062d\u06cc\u0627\u062a\u200c\u0648\u062d\u0634 \u0634\u06a9\u0646\u0646\u062f\u0647 \u062c\u0646\u0648\u0628\u06af\u0627\u0646\u060c \u0642\u0631\u0628\u0627\u0646\u06cc \u062c\u062f\u06cc\u062f \u0633\u0648\u06cc\u0647 \u0645\u0631\u06af\u0628\u0627\u0631 \u0622\u0646\u0641\u0644\u0648\u0627\u0646\u0632\u0627\u06cc \u067e\u0631\u0646\u062f\u06af\u0627\u0646",
+      "description": "\u0633\u0648\u06cc\u0647 \u0628\u0633\u06cc\u0627\u0631 \u0628\u06cc\u0645\u0627\u0631\u06cc\u200c\u0632\u0627\u06cc\u06cc \u0627\u0632 \u0622\u0646\u0641\u0648\u0644\u0627\u0646\u0632\u0627\u06cc \u067e\u0631\u0646\u062f\u06af\u0627\u0646 \u062f\u0631 \u0627\u0645\u062a\u062f\u0627\u062f \u0642\u0627\u0631\u0647\u200c\u06cc \u062c\u0646\u0648\u0628\u06af\u0627\u0646 \u062f\u0631 \u062d\u0627\u0644 \u06af\u0633\u062a\u0631\u0634 \u0627\u0633\u062a \u06a9\u0647 \u0645\u06cc \u062a\u0648\u0627\u0646\u062f \u067e\u0646\u06af\u0648\u0626\u0646\u200c\u0647\u0627 \u0648 \u067e\u0631\u0646\u062f\u06af\u0627\u0646 \u062f\u0631\u06cc\u0627\u06cc\u06cc \u0631\u0627 \u0646\u0627\u0628\u0648\u062f \u06a9\u0646\u062f.",
+      "url": "https://www.zoomit.ir/energy-environment/436396-h5n1-flu-killing-birds-antarctica/",
+      "urlToImage": "https://api2.zoomit.ir/media/adlie-penguins-in-antarctica-67d2dd7c913d5fe74ca71692",
+      "publishedAt": "2025-03-13 20:15:00",
+      "content": "H5N1 . ( ) . . : \u00ab [ ] . . .\u00bb . . ( ) . H5N1 . H5N1 . H5N1 . (Gannet) . H5N1 . . . . . . H5 . ( ) H5N1 . . .",
+      "retrievedAt": "2025-03-15 07:06:03.429396",
+      "internal_id": "d202f059040b7d44c7ab96b75289ea4c3077f2debf2b9adba995589ec12c170d",
+      "publishedAtLabel": "Mar 13"
+    },
+    {
+      "id": 19282,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Boston Herald",
+      "author": "Jia Jung",
+      "title": "Measles is spreading. Are you protected?",
+      "description": "Amid the current measles outbreak, people vaccinated decades ago might want a booster shot.",
+      "url": "https://www.bostonherald.com/2025/03/13/measles-is-spreading-are-you-protected/",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/03/sjm-exas_219518702.jpg?w=1024&h=665",
+      "publishedAt": "2025-03-13 20:08:28",
+      "content": "Measles, a highly infectious and preventable disease considered eliminated in the U.S. a quarter century ago, is now spreading in at least two states. Here are some answers to common questions about \u2026 [+5742 chars]",
+      "retrievedAt": "2025-03-15 07:06:02.589136",
+      "internal_id": "9c30cb61660591c35beb7becea7a47a208d7e7d36e69c9acfebd960fdd3b9134",
+      "publishedAtLabel": "Mar 13"
+    },
+    {
+      "id": 19281,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": null,
+      "title": "Measles cases pick up as RFK promotes unproven treatments",
+      "description": "There are over 250 cases of measles in at least a dozen states across the US.",
+      "url": "https://www.bbc.com/news/articles/cedlwxlp01zo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8291/live/098cdc00-002d-11f0-a94c-6986d2348378.jpg",
+      "publishedAt": "2025-03-13 19:55:17",
+      "content": "Cases of the incredibly contagious measles virus are continuing to rise in Texas and across the US as the nation's top health official promotes treatments not supported by health experts. To date t\u2026 [+3726 chars]",
+      "retrievedAt": "2025-03-15 07:06:02.466173",
+      "internal_id": "6eb1387c5c2cb9134338adee200bae09ad5377306ebb6bcb623df0fd7be47f10",
+      "publishedAtLabel": "Mar 13"
+    },
     {
       "id": 19279,
       "query": [
@@ -199,6 +307,24 @@
       "content": "The rise is attributed to increasing scepticism about immunisation The number of measles cases in the European region doubled last year to reach the highest level in 25 years, health officials say. \u2026 [+2953 chars]",
       "retrievedAt": "2025-03-14 19:05:53.195826",
       "internal_id": "247e759e5cf96007c46953a17f7b47e23fe8f57763bfbc65b05686c66fa7b743",
+      "publishedAtLabel": "Mar 13"
+    },
+    {
+      "id": 19284,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "The Associated Press",
+      "title": "Measles cases in Europe, Central Asia doubled last year to highest level since 1997",
+      "description": "There were 127,350 reported cases of measles, including 38 deaths, in Europe and Central Asia last year, marking the highest total in nearly 30 years, according to figures from UNICEF and the World Health Organization",
+      "url": "https://abcnews.go.com/International/wireStory/measles-cases-europe-central-asia-doubled-year-highest-119753213",
+      "urlToImage": "https://i.abcnewsfe.com/a/75303fe9-29ff-4e9a-83fb-ca811cb361fa/wirestory_2f888732cc297090238956986fd89cc4_16x9.jpg?w=1600",
+      "publishedAt": "2025-03-13 14:16:16",
+      "content": "LONDON -- There were 127,350 measles cases reported in Europe and Central Asia in 2024, double the number of cases reported the previous year and the highest number since 1997, according to an analys\u2026 [+2824 chars]",
+      "retrievedAt": "2025-03-15 07:06:02.686137",
+      "internal_id": "5dc05eb66bdbc8918e3ca54c77860f92000201454c37c95db1db1dc51bc5632d",
       "publishedAtLabel": "Mar 13"
     },
     {
@@ -28166,6 +28292,132 @@
       "content": "Goi\u00e2nia \u2013 Goi\u00e1s registrou a primeira morte por dengue no estado neste ano de 2025. Segundo informa\u00e7\u00f5es da Secretaria de Sa\u00fade de Goi\u00e1s (SES-GO), o caso foi na cidade de Heitorai, no centro goiano. C\u2026 [+2301 chars]",
       "retrievedAt": "2025-01-28 07:06:26.469513",
       "internal_id": "d399c5b754980be912654a4e88828514e2a56e9e8c555fc593bff96b9edbb3f1",
+      "publishedAtLabel": "Jan 26"
+    },
+    {
+      "id": 17712,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Shtfplan.com",
+      "author": "Mac Slavo",
+      "title": "Infectious Disease \u201cExperts\u201d: Bird Feces In The Wind Could Spread Avian Influenza",
+      "description": "Infectious disease \"experts\" in Minnesota are now claiming that \"windblown\" bird feces could spread the H5N1 avian influenza. Dr. Michael Osterholm hosts a podcast at the University of Minnesota called \"Osterholm Update,\" where he discusses the latest outbrea\u2026",
+      "url": "https://www.shtfplan.com/headline-news/infectious-disease-experts-bird-feces-in-the-wind-could-spread-avian-influenza",
+      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2024/12/birdflu1.jpg",
+      "publishedAt": "2025-01-26 18:00:48",
+      "content": "Infectious disease \u201cexperts\u201d in Minnesota are now claiming that \u201cwindblown\u201d bird feces could spread the H5N1 avian influenza. Dr. Michael Osterholm hosts a podcast at the University of Minnesota call\u2026 [+1963 chars]",
+      "retrievedAt": "2025-01-27 19:05:41.573787",
+      "internal_id": "327f0a90665da14f00990d5d69ce4e14a6f3649e1cd2f9dcb2db25b95e7f895b",
+      "publishedAtLabel": "Jan 26"
+    },
+    {
+      "id": 17715,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Sociedade m\u00e9dica alerta para baixa procura da vacina contra a dengue; sorotipo 3 preocupa",
+      "description": "Sorotipo 3 n\u00e3o circula de forma predominante no pa\u00eds desde 2008 e grande parte da popula\u00e7\u00e3o est\u00e1 suscet\u00edvel ao DENV-3",
+      "url": "https://valor.globo.com/brasil/noticia/2025/01/26/sociedade-medica-alerta-para-baixa-procura-da-vacina-contra-a-dengue-sorotipo-3-preocupa.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/aM8uxs52bkxYOrDs8fcwzJSatng=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2024/F/2/n0zs2aSXyBHcYsi6KDvw/mosquito-4998145-1920.jpeg",
+      "publishedAt": "2025-01-26 14:31:24",
+      "content": "Moeda americana chegou a atingir R$ 5,86 na m\u00ednima do dia, em meio ao bom humor global com Trump, mas desconforto com medidas estudadas pelo governo brasileiro para conter a alta de alimentos pesou n\u2026 [+7 chars]",
+      "retrievedAt": "2025-01-27 19:05:41.965111",
+      "internal_id": "35a99a1dcba4ac0e7ca6ab1140b68d2007cbcdcf79c6c7188bf8ca1d1889dfb8",
+      "publishedAtLabel": "Jan 26"
+    },
+    {
+      "id": 17711,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Livemint",
+      "author": "Priyanka Sharma",
+      "title": "Asha workers to identify 1 million children for MMR vaccination, special campaigns soon",
+      "description": "The government is aiming to achieve 100% coverage to eliminate mumps, measles and rubella by 2026.",
+      "url": "https://www.livemint.com/industry/asha-workers-mmr-vaccination-special-campaigns-mumps-measles-rubella-accredited-social-health-activist-11737708760867.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2025/01/26/1600x900/Not-Real-News--0_1682410928524_1737899278480.jpg",
+      "publishedAt": "2025-01-26 13:59:13",
+      "content": "New Delhi: The campaign to eliminate mumps, measles and rubella is set to scaled up by identifying children who are yet to be vaccinated for MMRby 2026. As many as 1 million children have still not \u2026 [+2345 chars]",
+      "retrievedAt": "2025-01-27 19:05:40.262673",
+      "internal_id": "af7eca8bc6606e9b2f07829a6b45ed4a2b7a08f4abf193606b97efec07181176",
+      "publishedAtLabel": "Jan 26"
+    },
+    {
+      "id": 17714,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "The Boston Globe",
+      "author": "Maren Halpin",
+      "title": "Massachusetts bird flu: chicken farms on alert as H5N1 suspected in state",
+      "description": "State officials suspect the avian flu has killed dozens of wild birds in Boston, Amherst, and Plymouth, and farmers are stepping up precautions.",
+      "url": "https://www.bostonglobe.com/2025/01/26/business/bird-flu-mass-chicken-farms/",
+      "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/3VNTCS6WOH36W2XKHEOURISYIY.jpg?auth=1a116965f8701559103bf34278c22faf76c29ee8041ceb759b4554119df008a5&width=1440",
+      "publishedAt": "2025-01-26 13:46:42",
+      "content": "It makes me sick thinking about it, said Anne Diemand Bucci, co-owner of Diemand Farm in Wendell, in north-central Massachusetts, where she has as many as 2,000 egg-laying hens. It would be devastati\u2026 [+5418 chars]",
+      "retrievedAt": "2025-01-27 19:05:41.652967",
+      "internal_id": "c7228e5a5fffd5db7fa328afc631d2f1956c1bb4f1f31095120e4e3e90f6f656",
+      "publishedAtLabel": "Jan 26"
+    },
+    {
+      "id": 17713,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "nbc-news",
+      "source_name": "NBC News",
+      "author": "Linda Carroll",
+      "title": "FDA recommends pet food companies revisit safety plans amid bird flu outbreak",
+      "description": "The FDA has advised pet food companies to revisit food safety plans as a growing number of cats have gotten sick or died from eating food contaminated with bird flu.",
+      "url": "https://www.nbcnews.com/health/health-news/raw-pet-food-bird-flu-outbreak-cats-fda-guidance-rcna189011",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-01/250125-cat-ch-1445-7758a7.jpg",
+      "publishedAt": "2025-01-26 12:00:00",
+      "content": "As a growing number of cats have gotten sick or died after consuming raw pet food or raw milk contaminated with the H5N1 virus, health officials have advised pet food companies to take extra precauti\u2026 [+5575 chars]",
+      "retrievedAt": "2025-01-27 19:05:41.599442",
+      "internal_id": "dbabadc785796e9ee706387224cc1be36eda7b767f3529cc6277660dc9c82333",
+      "publishedAtLabel": "Jan 26"
+    },
+    {
+      "id": 17717,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "BusinessLine",
+      "author": "Team BL",
+      "title": "Georgia is malaria-free",
+      "description": "Georgia achieves malaria-free status after decades of dedicated efforts, paving the way for WHO European region certification.",
+      "url": "https://www.thehindubusinessline.com/specials/pulse/georgia-is-malaria-free/article69142650.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/39ji2o/article69143208.ece/alternates/LANDSCAPE_1200/BL2701_Pulse_Capsule.jpg",
+      "publishedAt": "2025-01-26 11:39:30",
+      "content": "Following a nearly century-long effort, Georgia has been certified malaria-free by the World Health Organization (WHO). It joins the league of 45 other countries and one territory that have achieved \u2026 [+1775 chars]",
+      "retrievedAt": "2025-01-27 19:05:42.574176",
+      "internal_id": "fe679b72aa71e1b9c8ad8c4c4dfc18496e3c5cbdfc103d5a3500ead3dda6cf85",
+      "publishedAtLabel": "Jan 26"
+    },
+    {
+      "id": 17716,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Europapress.es",
+      "author": null,
+      "title": "Rueda reivindica a Galicia como \"l\u00edder\" en la vacunaci\u00f3n de la meningitis al contar con el calendario \"m\u00e1s completo\"",
+      "description": "El presidente de la Xunta, Alfonso Rueda, se ha reunido esta semana con representantes de la Asociaci\u00f3n Espa\u00f1ola de Meningitis, un encuentro en el que ha reivindicado a Galicia como \"l\u00edder\" en la vacunaci\u00f3n contra esta enfermedad infecciosa al contar con el c\u2026",
+      "url": "https://www.europapress.es/galicia/noticia-rueda-reivindica-galicia-lider-vacunacion-meningitis-contar-calendario-mas-completo-20250126115823.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20250126115823_1200.jpg",
+      "publishedAt": "2025-01-26 10:58:23",
+      "content": "SANTIAGO DE COMPOSTELA 26 Ene. (EUROPA PRESS) - El presidente de la Xunta, Alfonso Rueda, se ha reunido esta semana con representantes de la Asociaci\u00f3n Espa\u00f1ola de Meningitis, un encuentro en el q\u2026 [+1426 chars]",
+      "retrievedAt": "2025-01-27 19:05:42.128438",
+      "internal_id": "78e6688bc8805e4493bf3e062c60e5cf8e7b2e4b081fb7297c47003e7656b898",
       "publishedAtLabel": "Jan 26"
     }
   ]

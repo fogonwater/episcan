@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 19
-- **Last harvest:** 2025-03-14 19:05
-- **Most recent article:** 2025-03-13 18:50:50
+- **New articles in last harvest:** 7
+- **Last harvest:** 2025-03-15 07:06
+- **Most recent article:** 2025-03-14 00:53:51
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-10 | 25-11 | 25-5 | 25-6 | 25-7 | 25-8 | 25-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 142 | 84 | 12 | 24 | 72 | 83 | 162 | 579 |
-| h5n1 | 23 | 29 | 48 | 72 | 55 | 54 | 42 | 323 |
-| dengue | 8 | 11 | 23 | 34 | 37 | 57 | 30 | 200 |
-| malaria | 29 | 17 | 29 | 25 | 12 | 7 | 20 | 139 |
-| mpox | 14 | 12 | 21 | 28 | 18 | 15 | 26 | 134 |
-| meningitis | 4 | 7 | 7 | 2 | 12 | 11 | 7 | 50 |
+| measles | 142 | 88 | 13 | 24 | 72 | 83 | 162 | 584 |
+| h5n1 | 23 | 30 | 51 | 72 | 55 | 54 | 42 | 327 |
+| dengue | 8 | 11 | 24 | 34 | 37 | 57 | 30 | 201 |
+| malaria | 29 | 17 | 30 | 25 | 12 | 7 | 20 | 140 |
+| mpox | 14 | 13 | 21 | 28 | 18 | 15 | 26 | 135 |
+| meningitis | 4 | 7 | 8 | 2 | 12 | 11 | 7 | 51 |
 | hpai | 10 | 2 | 6 | 3 | 9 | 5 | 4 | 39 |
 | chikungunya | 6 | 1 | 9 | 8 | 5 | 3 | 7 | 39 |
 | rabies | 3 | 6 | 6 | 4 | 5 | 4 | 2 | 30 |
 | zika | 3 | 0 | 8 | 6 | 2 | 6 | 2 | 27 |
-| typhoid | 3 | 7 | 0 | 2 | 3 | 0 | 4 | 19 |
+| typhoid | 3 | 8 | 0 | 2 | 3 | 0 | 4 | 20 |
 | pertussis | 0 | 4 | 0 | 3 | 3 | 2 | 0 | 12 |
 | yersinia | 1 | 2 | 0 | 0 | 5 | 0 | 2 | 10 |
 | leptospirosis | 3 | 0 | 0 | 1 | 0 | 2 | 0 | 6 |
@@ -2243,6 +2243,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Detectado un brote de meningitis en un colegio de Zaragoza con dos casos confirmados](https://www.huffingtonpost.es/sociedad/detectado-brote-meningitis-colegio-zaragoza-dos-casos-confirmadosbr.html) (Huffingtonpost.es)
 
+- [Rueda reivindica a Galicia como "líder" en la vacunación de la meningitis al contar con el calendario "más completo"](https://www.europapress.es/galicia/noticia-rueda-reivindica-galicia-lider-vacunacion-meningitis-contar-calendario-mas-completo-20250126115823.html) (Europapress.es)
+
 ## 25-5 (measles)
 
 - [Samoa's Health Chief Says RFK Jr. Spread Anti-Vax Misinformation Before Deadly Measles Outbreak](https://www.democracynow.org/2025/1/31/rfk_jr_measles_samoa) (Democracy Now!)
@@ -2268,6 +2270,8 @@ Source: [News API](https://newsapi.org/)
 - [Measles case confirmed in metro Atlanta](https://www.wsbtv.com/news/local/atlanta/measles-case-confirmed-metro-atlanta/ZYX6H3AHMJCDHNL6WUG5ESHTJY/) (WSB Atlanta)
 
 - [First case of measles in the state for the year reported, Georgia DPH says](https://www.fox5atlanta.com/news/first-case-measles-state-year-reported-georgia-dph-says) (FOX 5 Atlanta)
+
+- [Asha workers to identify 1 million children for MMR vaccination, special campaigns soon](https://www.livemint.com/industry/asha-workers-mmr-vaccination-special-campaigns-mumps-measles-rubella-accredited-social-health-activist-11737708760867.html) (Livemint)
 
 ## 25-5 (malaria)
 
@@ -2328,6 +2332,8 @@ Source: [News API](https://newsapi.org/)
 - [El grupo rebelde M23, apoyado por Ruanda, toma el control de la ciudad congolesa de Goma y 3.000 presos huyen de la cárcel](https://www.elespanol.com/mundo/20250127/grupo-rebelde-m23-apoyado-ruanda-toma-control-ciudad-congolesa-goma-presos-huyen-carcel/919658315_0.html) (Elespanol.com)
 
 - [Nigerian govt reaffirms commitment to malaria elimination](https://www.premiumtimesng.com/health/health-news/769668-nigerian-govt-reaffirms-commitment-to-malaria-elimination.html) (Premium Times)
+
+- [Georgia is malaria-free](https://www.thehindubusinessline.com/specials/pulse/georgia-is-malaria-free/article69142650.ece) (BusinessLine)
 
 ## 25-5 (hpai)
 
@@ -2441,6 +2447,12 @@ Source: [News API](https://newsapi.org/)
 
 - [News story: Human case of avian flu detected in England](https://www.gov.uk/government/news/human-case-of-avian-flu-detected-in-england) (Www.gov.uk)
 
+- [Infectious Disease “Experts”: Bird Feces In The Wind Could Spread Avian Influenza](https://www.shtfplan.com/headline-news/infectious-disease-experts-bird-feces-in-the-wind-could-spread-avian-influenza) (Shtfplan.com)
+
+- [Massachusetts bird flu: chicken farms on alert as H5N1 suspected in state](https://www.bostonglobe.com/2025/01/26/business/bird-flu-mass-chicken-farms/) (The Boston Globe)
+
+- [FDA recommends pet food companies revisit safety plans amid bird flu outbreak](https://www.nbcnews.com/health/health-news/raw-pet-food-bird-flu-outbreak-cats-fda-guidance-rcna189011) (NBC News)
+
 ## 25-5 (dengue)
 
 - [Dengue: a preocupação (e desafio) do marqueteiro de Lula](https://veja.abril.com.br/politica/dengue-a-preocupacao-e-desafio-do-marqueteiro-de-lula) (Abril.com.br)
@@ -2489,6 +2501,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Goiás registra 1ª morte por dengue no ano. Seis casos são investigados](https://www.metropoles.com/brasil/goias-registra-1a-morte-por-dengue-no-ano-seis-casos-sao-investigados) (Metropoles.com)
 
+- [Sociedade médica alerta para baixa procura da vacina contra a dengue; sorotipo 3 preocupa](https://valor.globo.com/brasil/noticia/2025/01/26/sociedade-medica-alerta-para-baixa-procura-da-vacina-contra-a-dengue-sorotipo-3-preocupa.ghtml) (Globo)
+
 ## 25-5 (chikungunya)
 
 - [De exóticas a autóctonas, cuando las enfermedades ya no viajan: "Lo importante es evitar que se conviertan en endémicas"](https://www.elmundo.es/ciencia-y-salud/salud/2025/02/01/678bc5a6e4d4d8c03d8b45b4.html) (El Mundo)
@@ -2516,6 +2530,8 @@ Source: [News API](https://newsapi.org/)
 - [Genomic Characterization of Yersinia enterocolitica Isolates, Costa Rica](https://wwwnc.cdc.gov/eid/article/31/4/24-0963_article) (Cdc.gov)
 
 ## 25-11 (typhoid)
+
+- [What long-ago illness could this have been?](https://ask.metafilter.com/384874/What-long-ago-illness-could-this-have-been) (Metafilter.com)
 
 - [Ask AI: "Was Typhoid Fever Prevalent In 1874 In Ontario?"](https://www.blogger.com/comment/fullpage/post/26204193/2334699677672056116) (Blogger.com)
 
@@ -2556,6 +2572,8 @@ Source: [News API](https://newsapi.org/)
 - [Whooping cough cases on the rise in North Carolina](https://www.wral.com/lifestyle/health/whooping-cough-rise-north-carolina-march-2025/) (WRAL.com)
 
 ## 25-11 (mpox)
+
+- [O que se sabe sobre a nova variante de Mpox identificada no Brasil?](https://www.terra.com.br/vida-e-estilo/o-que-se-sabe-sobre-a-nova-variante-de-mpox-identificada-no-brasil,9749e1d9b29215be07178d379369dd86h0y8tc8j.html) (Terra.com.br)
 
 - [Entenda as diferenças entre as cepas de mpox que chegaram ao Brasil](https://www.infomoney.com.br/saude/entenda-as-diferencas-entre-as-cepas-de-mpox-que-chegaram-ao-brasil/) (InfoMoney)
 
@@ -2599,6 +2617,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-11 (measles)
 
+- [Bauchi records 218 measles cases on three-month, embraces MR-vaccine](https://punchng.com/bauchi-records-218-measles-cases-on-three-month-embraces-mr-vaccine/) (The Punch)
+
+- [Measles is spreading. Are you protected?](https://www.bostonherald.com/2025/03/13/measles-is-spreading-are-you-protected/) (Boston Herald)
+
+- [Measles cases pick up as RFK promotes unproven treatments](https://www.bbc.com/news/articles/cedlwxlp01zo) (BBC News)
+
 - [Measles cases in European region doubled to highest since 1997](https://news.sky.com/story/measles-cases-in-european-region-doubled-last-year-to-highest-since-1997-say-who-and-unicef-13328004) (Sky.com)
 
 - [Measles cases in Europe and Central Asia doubled last year to the highest reported level since 1997](https://www.bostonherald.com/2025/03/13/europe-measles/) (Boston Herald)
@@ -2608,6 +2632,8 @@ Source: [News API](https://newsapi.org/)
 - [False Measles Vaccine Conspiracy Theories Won't Stop: Here's Everything You Need to Know](https://www.teenvogue.com/story/false-measles-vaccine-conspiracy-theories-everything-you-need-to-know) (Teen Vogue)
 
 - [Measles highest in 25 years in Europe, WHO says](https://www.bbc.com/news/articles/cy9dyp8e81zo) (BBC News)
+
+- [Measles cases in Europe, Central Asia doubled last year to highest level since 1997](https://abcnews.go.com/International/wireStory/measles-cases-europe-central-asia-doubled-year-highest-119753213) (ABC News)
 
 - [Robert Kennedy Blames Child’s Measles Death on Poor Nutrition and Exercise, Not Lack of Vaccination](https://dianeravitch.net/2025/03/13/robert-kennedy-blames-childs-measles-death-on-poor-nutrition-and-exercise/) (Dianeravitch.net)
 
@@ -2810,6 +2836,8 @@ Source: [News API](https://newsapi.org/)
 - [Highly Pathogenic Avian Influenza A(H5N1) Virus Stability in Irradiated Raw Milk and Wastewater and on Surfaces, United States](https://wwwnc.cdc.gov/eid/article/31/4/24-1615_article) (Cdc.gov)
 
 ## 25-11 (h5n1)
+
+- [حیات‌وحش شکننده جنوبگان، قربانی جدید سویه مرگبار آنفلوانزای پرندگان](https://www.zoomit.ir/energy-environment/436396-h5n1-flu-killing-birds-antarctica/) (Zoomit.ir)
 
 - [Human Cases of Highly Pathogenic Avian Influenza A(H5N1) - California, September-December 2024](https://www.cdc.gov/mmwr/volumes/74/wr/mm7408a1.htm) (Cdc.gov)
 
