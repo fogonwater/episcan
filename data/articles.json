@@ -1,8 +1,332 @@
 {
-  "last_updated": "2025-03-15 07:06",
-  "count_articles_total": 1576,
-  "count_articles_new": 7,
+  "last_updated": "2025-03-15 19:05",
+  "count_articles_total": 1587,
+  "count_articles_new": 18,
   "articles": [
+    {
+      "id": 19292,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Antonio Peque\u00f1o IV, Forbes Staff, \n Antonio Peque\u00f1o IV, Forbes Staff\n https://www.forbes.com/sites/antoniopequenoiv/",
+      "title": "Measles Outbreak: Cases In Texas Surpass 250 As Illness Spreads To 15 States",
+      "description": "Texas by far remains the state with the highest number of cases.",
+      "url": "https://www.forbes.com/sites/antoniopequenoiv/2025/03/14/measles-outbreak-cases-in-texas-surpass-250-as-illness-spreads-to-15-states/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67b8dc34f003eb75b733dff5/0x0.jpg?format=jpg&crop=3039,2027,x0,y0,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-03-14 18:37:00",
+      "content": "A measles outbreak in Texas has infected over 250 people as of Friday, as cases of the highly contagious illness have been spotted in 15 states and already exceeded the total number of measles cases \u2026 [+6818 chars]",
+      "retrievedAt": "2025-03-15 19:05:39.334827",
+      "internal_id": "4199bb206778b60920a26b3ba9bab74c4827348be1ed767e42a22027d465ef6a",
+      "publishedAtLabel": "Mar 14"
+    },
+    {
+      "id": 19288,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Reactormag.com",
+      "author": "Vanessa Armstrong",
+      "title": "Netflix is Barking Up a Cujo Adaptation",
+      "description": "\u201cIt would perhaps not be amiss to point out that he had always tried to be a good dog.\u201d The post Netflix is Barking Up a Cujo Adaptation appeared first on Reactor.",
+      "url": "https://reactormag.com/netflix-is-barking-up-a-cujo-adaptation/",
+      "urlToImage": "https://reactormag.com/wp-content/uploads/2014/12/the-great-stephen-king-re-read-cujo_images_story_index.jpg",
+      "publishedAt": "2025-03-14 18:32:40",
+      "content": "Theres another Stephen King adaptation in the works. This one involves Kings 1981 novel, Cujo, a thriller about a friendly Saint Bernard in Castle Rock, Maine who gets rabies from a sick bat and goes\u2026 [+1424 chars]",
+      "retrievedAt": "2025-03-15 19:05:38.844236",
+      "internal_id": "41e2ac8e3fd77a87ffb32fd9a907c7e4fce7790947aa9541ada28633c8f519f5",
+      "publishedAtLabel": "Mar 14"
+    },
+    {
+      "id": 19290,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "Mary Kekatos",
+      "title": "Texas measles outbreak hits 259; just 2 cases among fully vaccinated",
+      "description": "The number of measles cases associated with an outbreak in western Texas has grown to 259, according to new data released Friday.",
+      "url": "https://abcnews.go.com/Health/measles-cases-linked-texas-outbreak-grows-259-2/story?id=119799576",
+      "urlToImage": "https://i.abcnewsfe.com/a/c5c0b432-75a4-415d-ba52-ce0606bcc4a2/measles-testing-sign-gty-jt-250311_1741733337889_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2025-03-14 17:46:19",
+      "content": "The number of measles cases associated with an outbreak in western Texas has grown to 259, with 36 cases reported over the last three days, according to new data released Friday. Almost all of the c\u2026 [+3298 chars]",
+      "retrievedAt": "2025-03-15 19:05:39.281403",
+      "internal_id": "e3395a9b03f24415ce32c08821f8ba7fefb7271bd47a8d4082b0cc3ce8424649",
+      "publishedAtLabel": "Mar 14"
+    },
+    {
+      "id": 19305,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Apollinaire Niyirora, Ji Li",
+      "title": "Burundi trains community health agents to control mpox amid influx of DRC refugees",
+      "description": "BUJUMBURA, March 14 (Xinhua) -- More than 200 community health agents have already been trained in Burundi to help control the spread of mpox as the country continues to face an influx of refugees from the Democratic Republic of the Congo (DRC). Read full sto\u2026",
+      "url": "https://www.thestar.com.my/news/world/2025/03/15/burundi-trains-community-health-agents-to-control-mpox-amid-influx-of-drc-refugees",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2025-03-14 17:41:00",
+      "content": "BUJUMBURA, March 14 (Xinhua) -- More than 200 community health agents have already been trained in Burundi to help control the spread of mpox as the country continues to face an influx of refugees fr\u2026 [+1699 chars]",
+      "retrievedAt": "2025-03-15 19:05:42.407991",
+      "internal_id": "293a57d9732666a6bf328782eee0fc0ca7e9223d9d09dccef544bf8a8fa74da3",
+      "publishedAtLabel": "Mar 14"
+    },
+    {
+      "id": 19295,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Boston Herald",
+      "author": "Associated Press",
+      "title": "Measles cases reach nearly 300 total in Texas and New Mexico. Here\u2019s what you should know",
+      "description": "Two unvaccinated people have died from measles-related causes.",
+      "url": "https://www.bostonherald.com/2025/03/14/measles-cases/",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/03/AP25063004340596.jpg?w=1024&h=682",
+      "publishedAt": "2025-03-14 17:40:09",
+      "content": "By DEVI SHASTRI, AP Health Writer Measles outbreaks in West Texas and New Mexico are now up to nearly 300 cases, and two unvaccinated people have died from measles-related causes. Measles is caused\u2026 [+5088 chars]",
+      "retrievedAt": "2025-03-15 19:05:39.502700",
+      "internal_id": "6d8f4db590872fcc2bb1b825d69ec3a02f9527925d7f84d2dbc2aff40fafcb7e",
+      "publishedAtLabel": "Mar 14"
+    },
+    {
+      "id": 19302,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Levif.be",
+      "author": "Le Vif",
+      "title": "La lutte contre le VIH fortement affect\u00e9e par un arr\u00eat des financements am\u00e9ricains",
+      "description": "Selon des personnalit\u00e9s du monde de la sant\u00e9, l'arr\u00eat des financements am\u00e9ricains va lourdement affecter la lutte contre plusieurs maladies comme la tuberculose, la malaria et, donc, les infections au VIH qui sont \u00e0 l'origine du sida. The post La lutte contr\u2026",
+      "url": "https://www.levif.be/international/amerique/etats-unis/la-lutte-contre-le-vih-fortement-affectee-par-un-arret-des-financements-americains/",
+      "urlToImage": "https://img.static-rmg.be/a/view/q75/w1600/h836/7123721/gettyimages-2183612526-jpg.jpg",
+      "publishedAt": "2025-03-14 17:20:00",
+      "content": "Selon des personnalit\u00e9s du monde de la sant\u00e9, l\u2018arr\u00eat des financements am\u00e9ricains va lourdement affecter la lutte contre plusieurs maladies comme la tuberculose, la malaria et, donc, les infections a\u2026 [+1874 chars]",
+      "retrievedAt": "2025-03-15 19:05:41.721533",
+      "internal_id": "fcf307dfbdcf677f788e0cc713fcc310e9b38e1d68858c6c1cc4a117d3dc3a13",
+      "publishedAtLabel": "Mar 14"
+    },
+    {
+      "id": 19294,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "BroBible",
+      "author": "Douglas Charles",
+      "title": "WHO Report Shows Measles Spreading Across The World As Cases In The US Surpass Total For 2024",
+      "description": "The United States has already experienced more cases of measles in the country in the two-and-a-half months of 2025 than it did the entire year of 2024. So far in 2025, more than 300 measles have been reported. There were a total of 285 measles cases recorded\u2026",
+      "url": "https://brobible.com/culture/article/who-report-measles-spreading-world/",
+      "urlToImage": "https://brobible.com/wp-content/uploads/2025/03/measles-outbreak.jpg",
+      "publishedAt": "2025-03-14 17:15:28",
+      "content": "istockphoto composite The United States has already experienced more cases of measles in the country in the two-and-a-half months of 2025 than it did the entire year of 2024. So far in 2025, more th\u2026 [+2547 chars]",
+      "retrievedAt": "2025-03-15 19:05:39.462104",
+      "internal_id": "fc02ec7ea846ff4d098fba16489a64e99edcaeb20ad8dff4e633349b106112e3",
+      "publishedAtLabel": "Mar 14"
+    },
+    {
+      "id": 19304,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Sa\u00fade em Dia",
+      "title": "Mpox: conhe\u00e7a os primeiros sinais e sintomas da doen\u00e7a",
+      "description": "O clado 1b da mpox, detectado recentemente no Brasil, causa les\u00f5es que podem ser espalhadas pelo corpo ou aparecer em \u00e1reas espec\u00edficas",
+      "url": "https://www.metropoles.com/saude/mpox-primeiros-sintomas-da-doenca",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/09/17132738/mpox-maos.jpg",
+      "publishedAt": "2025-03-14 16:24:10",
+      "content": "A principal caracter\u00edstica da mpox \u00e9 o aparecimento de les\u00f5es na pele, mas a popula\u00e7\u00e3o deve ficar atenta a outros sinais da doen\u00e7a. De acordo com a Organiza\u00e7\u00e3o Mundial de Sa\u00fade (OMS), os principais s\u2026 [+3887 chars]",
+      "retrievedAt": "2025-03-15 19:05:42.393403",
+      "internal_id": "b613a364cb54383de6c200423496e5f9fd57edec2cd62f4d74247ac45d6a2dad",
+      "publishedAtLabel": "Mar 14"
+    },
+    {
+      "id": 19296,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "U.S. records most measles cases in single year since record 2019 wave (Alexander Tin/CBS News)",
+      "description": "Alexander Tin / CBS News: U.S. records most measles cases in single year since record 2019 wave \u2014 The U.S. has seen at least 308 measles cases so far this year, according to figures published Friday by the Centers for Disease Control and Prevention, marking\u2026",
+      "url": "https://www.memeorandum.com/250314/p60",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/02/25/2a89e04b-e94e-4e13-bae0-638fdac3d8f9/thumbnail/1200x630/616d74f0fcd5ed7a389011ca9a1d727e/cbsn-fusion-how-texas-measles-outbreak-spread-outside-of-mennonite-community-thumbnail.jpg?v=906a31f1d4c74cf15e139a5e9bae4f67",
+      "publishedAt": "2025-03-14 15:35:00",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-03-15 19:05:39.548893",
+      "internal_id": "3321626608eaaa18a63b60fb41c9b23665e6a4fad2512f24cbaca9cacb99c2f0",
+      "publishedAtLabel": "Mar 14"
+    },
+    {
+      "id": 19291,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Gizmodo.com",
+      "author": "Ed Cara",
+      "title": "Eye-Popping WHO Report Shows Measles Surging Across the Globe",
+      "description": "A joint WHO/UNICEF report this week shows that measles has made a dramatic comeback across Europe and Central Asia.",
+      "url": "https://gizmodo.com/eye-popping-who-report-shows-measles-surging-across-the-globe-2000576089",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/03/measles.jpg",
+      "publishedAt": "2025-03-14 15:21:03",
+      "content": "Measles isn\u2019t just making a comeback in the United States. In a report out this week, the World Health Organization found that cases of the vaccine-preventable disease surged in Europe and Central As\u2026 [+4303 chars]",
+      "retrievedAt": "2025-03-15 19:05:39.289017",
+      "internal_id": "dd2ddf4e7332ae33d0802ea1e43f634c9fbac5b06836ecea6e0356c1b4dd854e",
+      "publishedAtLabel": "Mar 14"
+    },
+    {
+      "id": 19293,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Alexander Tin",
+      "title": "U.S. records most measles cases in single year since record 2019 wave",
+      "description": "Most cases have been from an outbreak in Texas and New Mexico, the CDC says.",
+      "url": "https://www.cbsnews.com/news/measles-outbreak-2025-most-cases-since-2019/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/02/25/2a89e04b-e94e-4e13-bae0-638fdac3d8f9/thumbnail/1200x630/616d74f0fcd5ed7a389011ca9a1d727e/cbsn-fusion-how-texas-measles-outbreak-spread-outside-of-mennonite-community-thumbnail.jpg?v=906a31f1d4c74cf15e139a5e9bae4f67",
+      "publishedAt": "2025-03-14 15:00:01",
+      "content": "The U.S. has seen at least 308 measles cases so far this year, according to figures published Friday by the Centers for Disease Control and Prevention, marking the most infections reported nationwide\u2026 [+2687 chars]",
+      "retrievedAt": "2025-03-15 19:05:39.387282",
+      "internal_id": "a6b10b90afd46a2a7deb1219d8d1a8e80c0b3c4c1513da1e9121d5318a06ad2a",
+      "publishedAtLabel": "Mar 14"
+    },
+    {
+      "id": 19300,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Novinky.cz",
+      "author": "Rudolf Voleman",
+      "title": "Pitva labut\u011b z Chebska potvrdila pta\u010d\u00ed ch\u0159ipku. Je\u0161t\u011b se chyst\u00e1 toxikologick\u00e9 vy\u0161et\u0159en\u00ed",
+      "description": "Pitva uhynul\u00e9 labut\u011b, kter\u00e1 byla nalezen\u00e1 v uplynul\u00fdch dnech nedaleko Chebu, potvrdila, \u017ee zv\u00ed\u0159e trp\u011blo pta\u010d\u00ed ch\u0159ipkou. Celkem bylo uhynul\u00fdch labut\u00ed nalezeno zhruba dvacet, co\u017e zvedlo z\u00e1jem ve\u0159ejnosti na soci\u00e1ln\u00edch s\u00edt\u00edch. U voln\u011b \u017eij\u00edc\u00edch pt\u00e1k\u016f se nep\u0159istupu\u2026",
+      "url": "https://www.novinky.cz/clanek/domaci-zpravy-karlovarsky-kraj-pitva-labute-z-chebska-potvrdila-ptaci-chripku-jeste-se-chysta-toxikologicke-vysetreni-40513119",
+      "urlToImage": "https://d15-a.sdn.cz/d_15/c_img_oX_A/nPw2pRkMOeBQpVfTUClkqee/79dc/labut-uhyn-chebsko.jpeg?fl=cro,0,462,1200,675%7Cres,1200,,1%7Cwebp,75",
+      "publishedAt": "2025-03-14 14:02:38",
+      "content": "Potvrzuji, e jsme aktu\u00e1ln ze St\u00e1tn\u00edho veterin\u00e1rn\u00edho \u00fastavu Praha obdreli v\u00fdsledky vyeten\u00ed uhynul\u00e9 labut z Jesenick\u00e9 pehrady u Chebu. Byla u n\u00ed potvrzena p\u00edtomnost viru pta\u00ed chipky H5N1, uvedl pro Nov\u2026 [+1438 chars]",
+      "retrievedAt": "2025-03-15 19:05:40.365290",
+      "internal_id": "91a3229f3c561e16fa62d851543b24b94bd717e7258e19c6c3e605d23deb24c1",
+      "publishedAtLabel": "Mar 14"
+    },
+    {
+      "id": 19303,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Telegraaf.nl",
+      "author": "onze correspondent",
+      "title": "Medici in maanpakken, quarantaine, straten afgezet: groot alarm na zieke man (37) Heemskerk overdreven? \u2019Beter tien keer voor niks, dan eentje gemist\u2019",
+      "description": "Komt een man bij de dokter. Zwaar ziek, afkomstig uit een tropisch land. Wat dan? De alarmbellen gaan af. Protocol \u2019Grip 1\u2019 treedt in werking. Medisch personeel in maanpakken voert de pati\u00ebnt af, anderen moeten in quarantaine. Tot de man \u2019slechts\u2019 malaria bli\u2026",
+      "url": "https://www.telegraaf.nl/nieuws/938425071/medici-in-maanpakken-quarantaine-straten-afgezet-groot-alarm-na-zieke-man-37-heemskerk-overdreven-beter-tien-keer-voor-niks-dan-eentje-gemist",
+      "urlToImage": "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/f161b242-00d4-11f0-ae2f-fe043cf5332a.jpg",
+      "publishedAt": "2025-03-14 13:00:00",
+      "content": "Heemskerk - Komt een man bij de dokter. Zwaar ziek, afkomstig uit een tropisch land. Wat dan? De alarmbellen gaan af. Protocol Grip 1 treedt in werking. Medisch personeel in maanpakken voert de pati\u00eb\u2026 [+669 chars]",
+      "retrievedAt": "2025-03-15 19:05:41.729408",
+      "internal_id": "5cd13397cc047d4c326882a2119715a8c13a3f02a12fbd6c1d38265094c8b124",
+      "publishedAtLabel": "Mar 14"
+    },
+    {
+      "id": 19298,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Helport AI, Inc.",
+      "title": "Helport AI Announces CFO Transition",
+      "description": "Helport AI Announces CFO Transition......",
+      "url": "https://www.globenewswire.com/news-release/2025/03/14/3042972/0/en/Helport-AI-Announces-CFO-Transition.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/4165bcbe-7c28-4ab2-a6fa-6df96179cf81",
+      "publishedAt": "2025-03-14 12:31:00",
+      "content": "Company Names 25-Year+ Seasoned Financial Executive, Amy Fong, as Interim Chief Financial Officer SINGAPORE and SAN DIEGO, March 14, 2025 (GLOBE NEWSWIRE) -- Helport AI Limited (NASDAQ: HPAI) (Helpo\u2026 [+4088 chars]",
+      "retrievedAt": "2025-03-15 19:05:39.830595",
+      "internal_id": "444e9791089c9d5630bcc02b4f9c6949ec82028a33825e4afc5f05fd9b1a5674",
+      "publishedAtLabel": "Mar 14"
+    },
+    {
+      "id": 19297,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Crooksandliars.com",
+      "author": "NewsHound Ellen",
+      "title": "Trump Has Yanked $1B In Food Money For Schools, Food Banks",
+      "description": "Apparently, Donald Trump and Unelected President Elon Musk think too few Americans are dying from preventable causes. So, the folks working to make measles, plane crashes and pollution great again are now doing their darnedest to make hunger great again, too.\u2026",
+      "url": "https://crooksandliars.com/2025/03/trump-has-yanked-1b-food-money-schools",
+      "urlToImage": "https://crooksandliars.com/files/primary_image/25/03/trump_for_031325.jpg",
+      "publishedAt": "2025-03-14 10:28:03",
+      "content": "Apparently, Donald Trump and Unelected President Elon Musk think too few Americans are dying from preventable causes. So, the folks working to make measles, plane crashes and pollution great again ar\u2026 [+2251 chars]",
+      "retrievedAt": "2025-03-15 19:05:39.588177",
+      "internal_id": "2eefad7dd3e4a81f7f4fafca8ed956e7b7f0bc356efb96b965d6d4ec5fbc2b9c",
+      "publishedAtLabel": "Mar 14"
+    },
+    {
+      "id": 19289,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "Mary Kekatos",
+      "title": "RFK Jr. has made several claims about measles. Here's what the science says.",
+      "description": "RFK Jr. has claimed measles can be treated with vitamin A and that severe infection is linked to poor diet. But many experts who spoke with ABC News disagreed.",
+      "url": "https://abcnews.go.com/Health/rfk-jr-claims-measles-treated-vitamin-linked-poor/story?id=119713193",
+      "urlToImage": "https://i.abcnewsfe.com/a/024ad60c-735e-4d78-b343-8cc35565f6d7/robert-kennedy-rt-jef-250311_1741719271905_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2025-03-14 09:24:50",
+      "content": "Measles is continuing to spread across the United States, as outbreaks grow in western Texas and New Mexico. Between the two states, 256 cases have been confirmed as of Thursday, mostly in those who\u2026 [+8202 chars]",
+      "retrievedAt": "2025-03-15 19:05:39.272757",
+      "internal_id": "944e284461617a6b6f8b5778950a3afab12454c60fafb5292a629651135b959d",
+      "publishedAtLabel": "Mar 14"
+    },
+    {
+      "id": 19299,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Jayashree Bhosale",
+      "title": "Chicken prices crash as bird flu worries weigh on consumption",
+      "description": "Chicken prices have decreased 25-30% in the past two months due to reduced consumption following H5N1 bird flu cases reported in nine states. The average ex-farm chicken prices in South India have dropped to Rs 55-60 per kg. Despite summer trends, the surplus\u2026",
+      "url": "https://economictimes.indiatimes.com/industry/cons-products/food/chicken-prices-crash-as-bird-flu-worries-weigh-on-consumption/articleshow/119007482.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-119007487,width-1200,height-630,imgsize-36951,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-03-14 07:53:14",
+      "content": "Pune: Chicken prices have crashed 25-30% in several states in the last two months, contrary to the trend of poultry becoming costlier around the summer season.Consumers have cut down on chicken consu\u2026 [+2121 chars]",
+      "retrievedAt": "2025-03-15 19:05:40.350928",
+      "internal_id": "a188a61bdefe40e7fcda7350770248f47a72a4588bc6b230afb3adbdb83bf42b",
+      "publishedAtLabel": "Mar 14"
+    },
+    {
+      "id": 19301,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Telegraaf.nl",
+      "author": "onze correspondent",
+      "title": "Man die in quarantaine werd geplaatst in Heemskerk heeft malaria",
+      "description": "De man die donderdag voor flink wat chaos zorgde in Heemskerk blijkt toch geen besmettelijke ziekte te hebben. Dat meldt het Leids Universitair Medisch Centrum (LUMC). De 37-jarige man kwam bij de huisartsenpost met klachten, nadat hij onlangs in een tropisch\u2026",
+      "url": "https://www.telegraaf.nl/nieuws/1386778021/man-37-die-in-heemskerk-in-quarantaine-werd-geplaatst-heeft-malaria-toch-geen-besmettelijke-ziekte",
+      "urlToImage": "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/52308366-00a6-11f0-95f8-fe043cf5332a.jpg",
+      "publishedAt": "2025-03-14 07:19:07",
+      "content": "\u00a9 Mizzle Media / Michel van Bergen De man werd donderdagavond vervoerd naar het ziekenhuis.",
+      "retrievedAt": "2025-03-15 19:05:41.692751",
+      "internal_id": "461ca62764417123c298cb4603264da730be4cfd75a70140ac8b58bcf232389f",
+      "publishedAtLabel": "Mar 14"
+    },
     {
       "id": 19283,
       "query": [
@@ -28292,132 +28616,6 @@
       "content": "Goi\u00e2nia \u2013 Goi\u00e1s registrou a primeira morte por dengue no estado neste ano de 2025. Segundo informa\u00e7\u00f5es da Secretaria de Sa\u00fade de Goi\u00e1s (SES-GO), o caso foi na cidade de Heitorai, no centro goiano. C\u2026 [+2301 chars]",
       "retrievedAt": "2025-01-28 07:06:26.469513",
       "internal_id": "d399c5b754980be912654a4e88828514e2a56e9e8c555fc593bff96b9edbb3f1",
-      "publishedAtLabel": "Jan 26"
-    },
-    {
-      "id": 17712,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Shtfplan.com",
-      "author": "Mac Slavo",
-      "title": "Infectious Disease \u201cExperts\u201d: Bird Feces In The Wind Could Spread Avian Influenza",
-      "description": "Infectious disease \"experts\" in Minnesota are now claiming that \"windblown\" bird feces could spread the H5N1 avian influenza. Dr. Michael Osterholm hosts a podcast at the University of Minnesota called \"Osterholm Update,\" where he discusses the latest outbrea\u2026",
-      "url": "https://www.shtfplan.com/headline-news/infectious-disease-experts-bird-feces-in-the-wind-could-spread-avian-influenza",
-      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2024/12/birdflu1.jpg",
-      "publishedAt": "2025-01-26 18:00:48",
-      "content": "Infectious disease \u201cexperts\u201d in Minnesota are now claiming that \u201cwindblown\u201d bird feces could spread the H5N1 avian influenza. Dr. Michael Osterholm hosts a podcast at the University of Minnesota call\u2026 [+1963 chars]",
-      "retrievedAt": "2025-01-27 19:05:41.573787",
-      "internal_id": "327f0a90665da14f00990d5d69ce4e14a6f3649e1cd2f9dcb2db25b95e7f895b",
-      "publishedAtLabel": "Jan 26"
-    },
-    {
-      "id": 17715,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "globo",
-      "source_name": "Globo",
-      "author": null,
-      "title": "Sociedade m\u00e9dica alerta para baixa procura da vacina contra a dengue; sorotipo 3 preocupa",
-      "description": "Sorotipo 3 n\u00e3o circula de forma predominante no pa\u00eds desde 2008 e grande parte da popula\u00e7\u00e3o est\u00e1 suscet\u00edvel ao DENV-3",
-      "url": "https://valor.globo.com/brasil/noticia/2025/01/26/sociedade-medica-alerta-para-baixa-procura-da-vacina-contra-a-dengue-sorotipo-3-preocupa.ghtml",
-      "urlToImage": "https://s2-valor.glbimg.com/aM8uxs52bkxYOrDs8fcwzJSatng=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2024/F/2/n0zs2aSXyBHcYsi6KDvw/mosquito-4998145-1920.jpeg",
-      "publishedAt": "2025-01-26 14:31:24",
-      "content": "Moeda americana chegou a atingir R$ 5,86 na m\u00ednima do dia, em meio ao bom humor global com Trump, mas desconforto com medidas estudadas pelo governo brasileiro para conter a alta de alimentos pesou n\u2026 [+7 chars]",
-      "retrievedAt": "2025-01-27 19:05:41.965111",
-      "internal_id": "35a99a1dcba4ac0e7ca6ab1140b68d2007cbcdcf79c6c7188bf8ca1d1889dfb8",
-      "publishedAtLabel": "Jan 26"
-    },
-    {
-      "id": 17711,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Livemint",
-      "author": "Priyanka Sharma",
-      "title": "Asha workers to identify 1 million children for MMR vaccination, special campaigns soon",
-      "description": "The government is aiming to achieve 100% coverage to eliminate mumps, measles and rubella by 2026.",
-      "url": "https://www.livemint.com/industry/asha-workers-mmr-vaccination-special-campaigns-mumps-measles-rubella-accredited-social-health-activist-11737708760867.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2025/01/26/1600x900/Not-Real-News--0_1682410928524_1737899278480.jpg",
-      "publishedAt": "2025-01-26 13:59:13",
-      "content": "New Delhi: The campaign to eliminate mumps, measles and rubella is set to scaled up by identifying children who are yet to be vaccinated for MMRby 2026. As many as 1 million children have still not \u2026 [+2345 chars]",
-      "retrievedAt": "2025-01-27 19:05:40.262673",
-      "internal_id": "af7eca8bc6606e9b2f07829a6b45ed4a2b7a08f4abf193606b97efec07181176",
-      "publishedAtLabel": "Jan 26"
-    },
-    {
-      "id": 17714,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "The Boston Globe",
-      "author": "Maren Halpin",
-      "title": "Massachusetts bird flu: chicken farms on alert as H5N1 suspected in state",
-      "description": "State officials suspect the avian flu has killed dozens of wild birds in Boston, Amherst, and Plymouth, and farmers are stepping up precautions.",
-      "url": "https://www.bostonglobe.com/2025/01/26/business/bird-flu-mass-chicken-farms/",
-      "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/3VNTCS6WOH36W2XKHEOURISYIY.jpg?auth=1a116965f8701559103bf34278c22faf76c29ee8041ceb759b4554119df008a5&width=1440",
-      "publishedAt": "2025-01-26 13:46:42",
-      "content": "It makes me sick thinking about it, said Anne Diemand Bucci, co-owner of Diemand Farm in Wendell, in north-central Massachusetts, where she has as many as 2,000 egg-laying hens. It would be devastati\u2026 [+5418 chars]",
-      "retrievedAt": "2025-01-27 19:05:41.652967",
-      "internal_id": "c7228e5a5fffd5db7fa328afc631d2f1956c1bb4f1f31095120e4e3e90f6f656",
-      "publishedAtLabel": "Jan 26"
-    },
-    {
-      "id": 17713,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "nbc-news",
-      "source_name": "NBC News",
-      "author": "Linda Carroll",
-      "title": "FDA recommends pet food companies revisit safety plans amid bird flu outbreak",
-      "description": "The FDA has advised pet food companies to revisit food safety plans as a growing number of cats have gotten sick or died from eating food contaminated with bird flu.",
-      "url": "https://www.nbcnews.com/health/health-news/raw-pet-food-bird-flu-outbreak-cats-fda-guidance-rcna189011",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-01/250125-cat-ch-1445-7758a7.jpg",
-      "publishedAt": "2025-01-26 12:00:00",
-      "content": "As a growing number of cats have gotten sick or died after consuming raw pet food or raw milk contaminated with the H5N1 virus, health officials have advised pet food companies to take extra precauti\u2026 [+5575 chars]",
-      "retrievedAt": "2025-01-27 19:05:41.599442",
-      "internal_id": "dbabadc785796e9ee706387224cc1be36eda7b767f3529cc6277660dc9c82333",
-      "publishedAtLabel": "Jan 26"
-    },
-    {
-      "id": 17717,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "BusinessLine",
-      "author": "Team BL",
-      "title": "Georgia is malaria-free",
-      "description": "Georgia achieves malaria-free status after decades of dedicated efforts, paving the way for WHO European region certification.",
-      "url": "https://www.thehindubusinessline.com/specials/pulse/georgia-is-malaria-free/article69142650.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/39ji2o/article69143208.ece/alternates/LANDSCAPE_1200/BL2701_Pulse_Capsule.jpg",
-      "publishedAt": "2025-01-26 11:39:30",
-      "content": "Following a nearly century-long effort, Georgia has been certified malaria-free by the World Health Organization (WHO). It joins the league of 45 other countries and one territory that have achieved \u2026 [+1775 chars]",
-      "retrievedAt": "2025-01-27 19:05:42.574176",
-      "internal_id": "fe679b72aa71e1b9c8ad8c4c4dfc18496e3c5cbdfc103d5a3500ead3dda6cf85",
-      "publishedAtLabel": "Jan 26"
-    },
-    {
-      "id": 17716,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Europapress.es",
-      "author": null,
-      "title": "Rueda reivindica a Galicia como \"l\u00edder\" en la vacunaci\u00f3n de la meningitis al contar con el calendario \"m\u00e1s completo\"",
-      "description": "El presidente de la Xunta, Alfonso Rueda, se ha reunido esta semana con representantes de la Asociaci\u00f3n Espa\u00f1ola de Meningitis, un encuentro en el que ha reivindicado a Galicia como \"l\u00edder\" en la vacunaci\u00f3n contra esta enfermedad infecciosa al contar con el c\u2026",
-      "url": "https://www.europapress.es/galicia/noticia-rueda-reivindica-galicia-lider-vacunacion-meningitis-contar-calendario-mas-completo-20250126115823.html",
-      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20250126115823_1200.jpg",
-      "publishedAt": "2025-01-26 10:58:23",
-      "content": "SANTIAGO DE COMPOSTELA 26 Ene. (EUROPA PRESS) - El presidente de la Xunta, Alfonso Rueda, se ha reunido esta semana con representantes de la Asociaci\u00f3n Espa\u00f1ola de Meningitis, un encuentro en el q\u2026 [+1426 chars]",
-      "retrievedAt": "2025-01-27 19:05:42.128438",
-      "internal_id": "78e6688bc8805e4493bf3e062c60e5cf8e7b2e4b081fb7297c47003e7656b898",
       "publishedAtLabel": "Jan 26"
     }
   ]

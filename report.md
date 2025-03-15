@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 7
-- **Last harvest:** 2025-03-15 07:06
-- **Most recent article:** 2025-03-14 00:53:51
+- **New articles in last harvest:** 18
+- **Last harvest:** 2025-03-15 19:05
+- **Most recent article:** 2025-03-14 18:37:00
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-10 | 25-11 | 25-5 | 25-6 | 25-7 | 25-8 | 25-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 142 | 88 | 13 | 24 | 72 | 83 | 162 | 584 |
-| h5n1 | 23 | 30 | 51 | 72 | 55 | 54 | 42 | 327 |
-| dengue | 8 | 11 | 24 | 34 | 37 | 57 | 30 | 201 |
-| malaria | 29 | 17 | 30 | 25 | 12 | 7 | 20 | 140 |
-| mpox | 14 | 13 | 21 | 28 | 18 | 15 | 26 | 135 |
-| meningitis | 4 | 7 | 8 | 2 | 12 | 11 | 7 | 51 |
-| hpai | 10 | 2 | 6 | 3 | 9 | 5 | 4 | 39 |
+| measles | 142 | 97 | 12 | 24 | 72 | 83 | 162 | 592 |
+| h5n1 | 23 | 32 | 48 | 72 | 55 | 54 | 42 | 326 |
+| dengue | 8 | 11 | 23 | 34 | 37 | 57 | 30 | 200 |
+| malaria | 29 | 20 | 29 | 25 | 12 | 7 | 20 | 142 |
+| mpox | 14 | 15 | 21 | 28 | 18 | 15 | 26 | 137 |
+| meningitis | 4 | 7 | 7 | 2 | 12 | 11 | 7 | 50 |
+| hpai | 10 | 3 | 6 | 3 | 9 | 5 | 4 | 40 |
 | chikungunya | 6 | 1 | 9 | 8 | 5 | 3 | 7 | 39 |
-| rabies | 3 | 6 | 6 | 4 | 5 | 4 | 2 | 30 |
+| rabies | 3 | 7 | 6 | 4 | 5 | 4 | 2 | 31 |
 | zika | 3 | 0 | 8 | 6 | 2 | 6 | 2 | 27 |
 | typhoid | 3 | 8 | 0 | 2 | 3 | 0 | 4 | 20 |
 | pertussis | 0 | 4 | 0 | 3 | 3 | 2 | 0 | 12 |
@@ -2243,8 +2243,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Detectado un brote de meningitis en un colegio de Zaragoza con dos casos confirmados](https://www.huffingtonpost.es/sociedad/detectado-brote-meningitis-colegio-zaragoza-dos-casos-confirmadosbr.html) (Huffingtonpost.es)
 
-- [Rueda reivindica a Galicia como "líder" en la vacunación de la meningitis al contar con el calendario "más completo"](https://www.europapress.es/galicia/noticia-rueda-reivindica-galicia-lider-vacunacion-meningitis-contar-calendario-mas-completo-20250126115823.html) (Europapress.es)
-
 ## 25-5 (measles)
 
 - [Samoa's Health Chief Says RFK Jr. Spread Anti-Vax Misinformation Before Deadly Measles Outbreak](https://www.democracynow.org/2025/1/31/rfk_jr_measles_samoa) (Democracy Now!)
@@ -2270,8 +2268,6 @@ Source: [News API](https://newsapi.org/)
 - [Measles case confirmed in metro Atlanta](https://www.wsbtv.com/news/local/atlanta/measles-case-confirmed-metro-atlanta/ZYX6H3AHMJCDHNL6WUG5ESHTJY/) (WSB Atlanta)
 
 - [First case of measles in the state for the year reported, Georgia DPH says](https://www.fox5atlanta.com/news/first-case-measles-state-year-reported-georgia-dph-says) (FOX 5 Atlanta)
-
-- [Asha workers to identify 1 million children for MMR vaccination, special campaigns soon](https://www.livemint.com/industry/asha-workers-mmr-vaccination-special-campaigns-mumps-measles-rubella-accredited-social-health-activist-11737708760867.html) (Livemint)
 
 ## 25-5 (malaria)
 
@@ -2332,8 +2328,6 @@ Source: [News API](https://newsapi.org/)
 - [El grupo rebelde M23, apoyado por Ruanda, toma el control de la ciudad congolesa de Goma y 3.000 presos huyen de la cárcel](https://www.elespanol.com/mundo/20250127/grupo-rebelde-m23-apoyado-ruanda-toma-control-ciudad-congolesa-goma-presos-huyen-carcel/919658315_0.html) (Elespanol.com)
 
 - [Nigerian govt reaffirms commitment to malaria elimination](https://www.premiumtimesng.com/health/health-news/769668-nigerian-govt-reaffirms-commitment-to-malaria-elimination.html) (Premium Times)
-
-- [Georgia is malaria-free](https://www.thehindubusinessline.com/specials/pulse/georgia-is-malaria-free/article69142650.ece) (BusinessLine)
 
 ## 25-5 (hpai)
 
@@ -2447,12 +2441,6 @@ Source: [News API](https://newsapi.org/)
 
 - [News story: Human case of avian flu detected in England](https://www.gov.uk/government/news/human-case-of-avian-flu-detected-in-england) (Www.gov.uk)
 
-- [Infectious Disease “Experts”: Bird Feces In The Wind Could Spread Avian Influenza](https://www.shtfplan.com/headline-news/infectious-disease-experts-bird-feces-in-the-wind-could-spread-avian-influenza) (Shtfplan.com)
-
-- [Massachusetts bird flu: chicken farms on alert as H5N1 suspected in state](https://www.bostonglobe.com/2025/01/26/business/bird-flu-mass-chicken-farms/) (The Boston Globe)
-
-- [FDA recommends pet food companies revisit safety plans amid bird flu outbreak](https://www.nbcnews.com/health/health-news/raw-pet-food-bird-flu-outbreak-cats-fda-guidance-rcna189011) (NBC News)
-
 ## 25-5 (dengue)
 
 - [Dengue: a preocupação (e desafio) do marqueteiro de Lula](https://veja.abril.com.br/politica/dengue-a-preocupacao-e-desafio-do-marqueteiro-de-lula) (Abril.com.br)
@@ -2501,8 +2489,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Goiás registra 1ª morte por dengue no ano. Seis casos são investigados](https://www.metropoles.com/brasil/goias-registra-1a-morte-por-dengue-no-ano-seis-casos-sao-investigados) (Metropoles.com)
 
-- [Sociedade médica alerta para baixa procura da vacina contra a dengue; sorotipo 3 preocupa](https://valor.globo.com/brasil/noticia/2025/01/26/sociedade-medica-alerta-para-baixa-procura-da-vacina-contra-a-dengue-sorotipo-3-preocupa.ghtml) (Globo)
-
 ## 25-5 (chikungunya)
 
 - [De exóticas a autóctonas, cuando las enfermedades ya no viajan: "Lo importante es evitar que se conviertan en endémicas"](https://www.elmundo.es/ciencia-y-salud/salud/2025/02/01/678bc5a6e4d4d8c03d8b45b4.html) (El Mundo)
@@ -2549,6 +2535,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-11 (rabies)
 
+- [Netflix is Barking Up a Cujo Adaptation](https://reactormag.com/netflix-is-barking-up-a-cujo-adaptation/) (Reactormag.com)
+
 - [रेबीज का खतरनाक असर, कुत्ते जैसी हरकत, फिर आइसोलेशन वॉर्ड में ही मरीज ने काट लिया अपना गला](https://navbharattimes.indiatimes.com/state/tamil-nadu/chennai/odisha-man-slit-his-own-throat-by-glass-pieces-in-coimbatore-government-hospital-after-rabies-infection-know-all/articleshow/118971173.cms) (The Times of India)
 
 - [Почему больные бешенством боятся воды?](https://pikabu.ru/story/pochemu_bolnyie_beshenstvom_boyatsya_vodyi_12480323) (Pikabu.ru)
@@ -2572,6 +2560,10 @@ Source: [News API](https://newsapi.org/)
 - [Whooping cough cases on the rise in North Carolina](https://www.wral.com/lifestyle/health/whooping-cough-rise-north-carolina-march-2025/) (WRAL.com)
 
 ## 25-11 (mpox)
+
+- [Burundi trains community health agents to control mpox amid influx of DRC refugees](https://www.thestar.com.my/news/world/2025/03/15/burundi-trains-community-health-agents-to-control-mpox-amid-influx-of-drc-refugees) (The Star Online)
+
+- [Mpox: conheça os primeiros sinais e sintomas da doença](https://www.metropoles.com/saude/mpox-primeiros-sintomas-da-doenca) (Metropoles.com)
 
 - [O que se sabe sobre a nova variante de Mpox identificada no Brasil?](https://www.terra.com.br/vida-e-estilo/o-que-se-sabe-sobre-a-nova-variante-de-mpox-identificada-no-brasil,9749e1d9b29215be07178d379369dd86h0y8tc8j.html) (Terra.com.br)
 
@@ -2616,6 +2608,24 @@ Source: [News API](https://newsapi.org/)
 - [Sokoto govt alerts residents on meningitis outbreak](https://punchng.com/sokoto-govt-alerts-residents-on-meningitis-outbreak/) (The Punch)
 
 ## 25-11 (measles)
+
+- [Measles Outbreak: Cases In Texas Surpass 250 As Illness Spreads To 15 States](https://www.forbes.com/sites/antoniopequenoiv/2025/03/14/measles-outbreak-cases-in-texas-surpass-250-as-illness-spreads-to-15-states/) (Forbes)
+
+- [Texas measles outbreak hits 259; just 2 cases among fully vaccinated](https://abcnews.go.com/Health/measles-cases-linked-texas-outbreak-grows-259-2/story?id=119799576) (ABC News)
+
+- [Measles cases reach nearly 300 total in Texas and New Mexico. Here’s what you should know](https://www.bostonherald.com/2025/03/14/measles-cases/) (Boston Herald)
+
+- [WHO Report Shows Measles Spreading Across The World As Cases In The US Surpass Total For 2024](https://brobible.com/culture/article/who-report-measles-spreading-world/) (BroBible)
+
+- [U.S. records most measles cases in single year since record 2019 wave (Alexander Tin/CBS News)](https://www.memeorandum.com/250314/p60) (Memeorandum.com)
+
+- [Eye-Popping WHO Report Shows Measles Surging Across the Globe](https://gizmodo.com/eye-popping-who-report-shows-measles-surging-across-the-globe-2000576089) (Gizmodo.com)
+
+- [U.S. records most measles cases in single year since record 2019 wave](https://www.cbsnews.com/news/measles-outbreak-2025-most-cases-since-2019/) (CBS News)
+
+- [Trump Has Yanked $1B In Food Money For Schools, Food Banks](https://crooksandliars.com/2025/03/trump-has-yanked-1b-food-money-schools) (Crooksandliars.com)
+
+- [RFK Jr. has made several claims about measles. Here's what the science says.](https://abcnews.go.com/Health/rfk-jr-claims-measles-treated-vitamin-linked-poor/story?id=119713193) (ABC News)
 
 - [Bauchi records 218 measles cases on three-month, embraces MR-vaccine](https://punchng.com/bauchi-records-218-measles-cases-on-three-month-embraces-mr-vaccine/) (The Punch)
 
@@ -2795,6 +2805,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-11 (malaria)
 
+- [La lutte contre le VIH fortement affectée par un arrêt des financements américains](https://www.levif.be/international/amerique/etats-unis/la-lutte-contre-le-vih-fortement-affectee-par-un-arret-des-financements-americains/) (Levif.be)
+
+- [Medici in maanpakken, quarantaine, straten afgezet: groot alarm na zieke man (37) Heemskerk overdreven? ’Beter tien keer voor niks, dan eentje gemist’](https://www.telegraaf.nl/nieuws/938425071/medici-in-maanpakken-quarantaine-straten-afgezet-groot-alarm-na-zieke-man-37-heemskerk-overdreven-beter-tien-keer-voor-niks-dan-eentje-gemist) (Telegraaf.nl)
+
+- [Man die in quarantaine werd geplaatst in Heemskerk heeft malaria](https://www.telegraaf.nl/nieuws/1386778021/man-37-die-in-heemskerk-in-quarantaine-werd-geplaatst-heeft-malaria-toch-geen-besmettelijke-ziekte) (Telegraaf.nl)
+
 - [Assessment of the diagnostic performance of the SD Bioline Malaria antigen test for the diagnosis of malaria in the Tombel health district, Southwest region of Cameroon](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0298992) (Plos.org)
 
 - [USAID’s demise raises fears for millions of lives across the Global South](https://www.aljazeera.com/news/2025/3/13/across-global-south-usaids-demise-raises-fears-of-malaria-tb-resurgence) (Al Jazeera English)
@@ -2831,11 +2847,17 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-11 (hpai)
 
+- [Helport AI Announces CFO Transition](https://www.globenewswire.com/news-release/2025/03/14/3042972/0/en/Helport-AI-Announces-CFO-Transition.html) (GlobeNewswire)
+
 - [Exposure of Wild Mammals to Influenza A(H5N1) Virus, Alaska, USA, 2020–2023](https://wwwnc.cdc.gov/eid/article/31/4/24-1002_article) (Cdc.gov)
 
 - [Highly Pathogenic Avian Influenza A(H5N1) Virus Stability in Irradiated Raw Milk and Wastewater and on Surfaces, United States](https://wwwnc.cdc.gov/eid/article/31/4/24-1615_article) (Cdc.gov)
 
 ## 25-11 (h5n1)
+
+- [Pitva labutě z Chebska potvrdila ptačí chřipku. Ještě se chystá toxikologické vyšetření](https://www.novinky.cz/clanek/domaci-zpravy-karlovarsky-kraj-pitva-labute-z-chebska-potvrdila-ptaci-chripku-jeste-se-chysta-toxikologicke-vysetreni-40513119) (Novinky.cz)
+
+- [Chicken prices crash as bird flu worries weigh on consumption](https://economictimes.indiatimes.com/industry/cons-products/food/chicken-prices-crash-as-bird-flu-worries-weigh-on-consumption/articleshow/119007482.cms) (The Times of India)
 
 - [حیات‌وحش شکننده جنوبگان، قربانی جدید سویه مرگبار آنفلوانزای پرندگان](https://www.zoomit.ir/energy-environment/436396-h5n1-flu-killing-birds-antarctica/) (Zoomit.ir)
 
