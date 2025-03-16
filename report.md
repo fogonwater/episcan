@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 16
-- **Last harvest:** 2025-03-16 07:06
-- **Most recent article:** 2025-03-15 01:15:28
+- **New articles in last harvest:** 10
+- **Last harvest:** 2025-03-16 19:05
+- **Most recent article:** 2025-03-15 18:51:45
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-10 | 25-11 | 25-6 | 25-7 | 25-8 | 25-9 | Total |
 |--|-|-|-|-|-|-|-|
-| measles | 142 | 107 | 24 | 72 | 83 | 162 | 590 |
-| h5n1 | 23 | 37 | 71 | 55 | 54 | 42 | 282 |
+| measles | 142 | 112 | 24 | 72 | 83 | 162 | 595 |
+| h5n1 | 23 | 38 | 67 | 55 | 54 | 42 | 279 |
 | dengue | 8 | 11 | 33 | 37 | 57 | 30 | 176 |
-| mpox | 14 | 15 | 28 | 18 | 15 | 26 | 116 |
-| malaria | 29 | 20 | 25 | 12 | 7 | 20 | 113 |
-| meningitis | 4 | 7 | 2 | 12 | 11 | 7 | 43 |
+| malaria | 29 | 22 | 25 | 12 | 7 | 20 | 115 |
+| mpox | 14 | 15 | 26 | 18 | 15 | 26 | 114 |
+| meningitis | 4 | 8 | 1 | 12 | 11 | 7 | 43 |
 | hpai | 10 | 3 | 3 | 9 | 5 | 4 | 34 |
 | chikungunya | 6 | 1 | 8 | 5 | 3 | 7 | 30 |
-| rabies | 3 | 7 | 4 | 5 | 4 | 2 | 25 |
+| rabies | 3 | 8 | 4 | 5 | 4 | 2 | 26 |
 | typhoid | 3 | 8 | 2 | 3 | 0 | 4 | 20 |
 | zika | 3 | 0 | 6 | 2 | 6 | 2 | 19 |
 | pertussis | 0 | 5 | 3 | 3 | 2 | 0 | 13 |
@@ -1793,15 +1793,9 @@ Source: [News API](https://newsapi.org/)
 
 - [New mpox vaccination sites open across England for high-risk people](https://news.sky.com/story/new-mpox-vaccination-sites-open-across-england-for-high-risk-people-13302169) (Sky.com)
 
-- [Uganda'da M çiçeği virüsüne karşı aşı kampanyası seferberliği](https://www.haber7.com/dunya/haber/3501667-ugandada-m-cicegi-virusune-karsi-asi-kampanyasi-seferberligi) (Haber7.com)
-
-- [Uganda, M çiçeği virüsü salgınıyla mücadele kapsamında aşı kampanyası başlattı](https://www.aa.com.tr/tr/dunya/uganda-m-cicegi-virusu-salginiyla-mucadele-kapsaminda-asi-kampanyasi-baslatti/3469451) (Anadolu Agency)
-
 ## 25-6 (meningitis)
 
 - [Love Changes the Heart—More Than Metaphorically](https://www.theepochtimes.com/health/love-changes-the-heart-more-than-metaphorically-5804355) (Theepochtimes.com)
-
-- [Danmark har ikke tabt ved VM siden 2017: 'Der var jeg lige kommet tilbage fra meningitis'](https://www.dr.dk/sporten/haandbold/vm/danmark-har-ikke-tabt-ved-vm-siden-2017-der-var-jeg-lige-kommet-tilbage-fra) (Www.dr.dk)
 
 ## 25-6 (measles)
 
@@ -2049,14 +2043,6 @@ Source: [News API](https://newsapi.org/)
 
 - [大S猝逝占据大陆热搜 中共隐瞒疫情误事(组图)](https://www.secretchina.com/news/gb/2025/02/03/1077055.html) (Secretchina.com)
 
-- [Bird flu in NC | Dead bird at Lake Julian Park receives 'preliminarily positive' test result for bird flu](https://abc11.com/post/bird-flu-nc-dead-lake-julian-park-receives-preliminarily-positive-test-result/15857185/) (WTVD-TV)
-
-- [As bird flu ravages poultry industry, the damage spreads](https://www.cbsnews.com/news/as-bird-flu-ravages-poultry-industry-the-damage-spreads/) (CBS News)
-
-- [The impact from bird flu spreads](https://www.cbsnews.com/video/the-impact-from-bird-flu-spreads/) (CBS News)
-
-- [Nature: Растет риск новой пандемии, вызванной птичьим гриппом](https://rg.ru/2025/02/02/nature-rastet-risk-novoj-pandemii-vyzvannoj-ptichim-grippom.html) (Rg.ru)
-
 ## 25-6 (dengue)
 
 - [Anvisa: Como usar repelentes contra o mosquito da dengue de forma eficaz](https://catracalivre.com.br/saude-bem-estar/anvisa-como-usar-repelentes-contra-o-mosquito-da-dengue-de-forma-eficaz/) (Catracalivre.com.br)
@@ -2169,6 +2155,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-11 (rabies)
 
+- [Police seize ninth monkey, fourth lion cub, as part of crackdown on illegal wildlife](https://www.jpost.com/israel-news/article-846136) (The Jerusalem Post)
+
 - [Netflix is Barking Up a Cujo Adaptation](https://reactormag.com/netflix-is-barking-up-a-cujo-adaptation/) (Reactormag.com)
 
 - [रेबीज का खतरनाक असर, कुत्ते जैसी हरकत, फिर आइसोलेशन वॉर्ड में ही मरीज ने काट लिया अपना गला](https://navbharattimes.indiatimes.com/state/tamil-nadu/chennai/odisha-man-slit-his-own-throat-by-glass-pieces-in-coimbatore-government-hospital-after-rabies-infection-know-all/articleshow/118971173.cms) (The Times of India)
@@ -2229,6 +2217,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-11 (meningitis)
 
+- [La ONG andaluza África Arco Iris administra 10.000 vacunas en Costa de Marfil en su 31 campaña solidaria](https://www.europapress.es/andalucia/sevilla-00357/noticia-ong-andaluza-africa-arco-iris-administra-10000-vacunas-costa-marfil-31-campana-solidaria-20250315132955.html) (Europapress.es)
+
 - ['A leap' to suggest sepsis death was preventable](https://www.bbc.com/news/articles/cn04klezy17o) (BBC News)
 
 - [5 School Students In Kerala Show Viral Meningitis Symptoms; Know Visible Signs In Infants](https://www.ndtv.com/health/5-school-students-in-kerala-show-viral-meningitis-symptoms-know-visible-symptoms-in-infants-7908195) (NDTV News)
@@ -2244,6 +2234,16 @@ Source: [News API](https://newsapi.org/)
 - [Sokoto govt alerts residents on meningitis outbreak](https://punchng.com/sokoto-govt-alerts-residents-on-meningitis-outbreak/) (The Punch)
 
 ## 25-11 (measles)
+
+- [Director of HHS convinces people to expose their children to measles and then not to take them to a doctor](https://www.lawyersgunsmoneyblog.com/2025/03/director-of-hhs-convinces-people-to-expose-their-children-to-measles-and-then-not-to-take-them-to-a-doctor) (Lawyersgunsmoneyblog.com)
+
+- [Measles Can Cause ‘Immune Amnesia’ And SSPE As Long-Term Problems](https://www.forbes.com/sites/brucelee/2025/03/15/measles-can-cause-immune-amnesia-and-sspe-as-long-term-problems/) (Forbes)
+
+- [Keeping With Kennedy's Advice, Measles Patients Turn to Unproven Treatments (Teddy Rosenbluth/New York Times)](https://www.memeorandum.com/250315/p45) (Memeorandum.com)
+
+- [Everything you need to know about measles, as cases continue to climb](https://www.npr.org/2025/03/15/nx-s1-5327403/everything-you-need-to-know-about-measles-as-cases-continue-to-climb) (NPR)
+
+- [Newborn babies exposed to measles in Texas hospital (Erika Edwards/NBC News)](https://www.memeorandum.com/250315/p6) (Memeorandum.com)
 
 - [RFK Jr Called Out By Democratic Lawmaker For Not Answering Him On Live Broadcast: 'Respond to the Damn Letter'](https://www.ibtimes.com/rfk-jr-called-out-democratic-lawmaker-not-answering-him-live-broadcast-respond-damn-letter-3766351) (International Business Times)
 
@@ -2461,11 +2461,15 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-11 (malaria)
 
+- [Health Ministry dismisses claims of critical shortages of malaria drugs](https://nbcnews.na/node/109907) (Nbcnews.na)
+
 - [La lutte contre le VIH fortement affectée par un arrêt des financements américains](https://www.levif.be/international/amerique/etats-unis/la-lutte-contre-le-vih-fortement-affectee-par-un-arret-des-financements-americains/) (Levif.be)
 
 - [Medici in maanpakken, quarantaine, straten afgezet: groot alarm na zieke man (37) Heemskerk overdreven? ’Beter tien keer voor niks, dan eentje gemist’](https://www.telegraaf.nl/nieuws/938425071/medici-in-maanpakken-quarantaine-straten-afgezet-groot-alarm-na-zieke-man-37-heemskerk-overdreven-beter-tien-keer-voor-niks-dan-eentje-gemist) (Telegraaf.nl)
 
 - [Man die in quarantaine werd geplaatst in Heemskerk heeft malaria](https://www.telegraaf.nl/nieuws/1386778021/man-37-die-in-heemskerk-in-quarantaine-werd-geplaatst-heeft-malaria-toch-geen-besmettelijke-ziekte) (Telegraaf.nl)
+
+- [Researchers Used Mosquitos To Deliver Malaria Vaccines](https://reason.com/2025/03/16/malaria-vaccine-delivered-via-mosquito-bite/) (Reason)
 
 - [Assessment of the diagnostic performance of the SD Bioline Malaria antigen test for the diagnosis of malaria in the Tombel health district, Southwest region of Cameroon](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0298992) (Plos.org)
 
@@ -2510,6 +2514,8 @@ Source: [News API](https://newsapi.org/)
 - [Highly Pathogenic Avian Influenza A(H5N1) Virus Stability in Irradiated Raw Milk and Wastewater and on Surfaces, United States](https://wwwnc.cdc.gov/eid/article/31/4/24-1615_article) (Cdc.gov)
 
 ## 25-11 (h5n1)
+
+- [New Study: Sustained Mammal-to-Mammal Transmission of H5N1 Clade 2.3.4.4b](https://www.globalresearch.ca/sustained-mammal-mammal-transmission-h5n1/5881610) (Globalresearch.ca)
 
 - [H5N1 bird flu virus is infectious in raw milk cheese for months, posing risk to public health, study shows](https://www.erienewsnow.com/story/52557705/h5n1-bird-flu-virus-is-infectious-in-raw-milk-cheese-for-months-posing-risk-to-public-health-study-shows) (erienewsnow.com)
 
