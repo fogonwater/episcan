@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 15
-- **Last harvest:** 2025-03-17 07:07
-- **Most recent article:** 2025-03-16 06:00:00
+- **New articles in last harvest:** 4
+- **Last harvest:** 2025-03-17 19:05
+- **Most recent article:** 2025-03-16 16:37:05
 
 ---
 
@@ -13,12 +13,12 @@ By US epiweek (i.e. Sunday to Saturday)
 | Disease | 25-10 | 25-11 | 25-12 | 25-6 | 25-7 | 25-8 | 25-9 | Total |
 |--|-|-|-|-|-|-|-|-|
 | measles | 142 | 122 | 1 | 24 | 72 | 83 | 162 | 606 |
-| h5n1 | 23 | 39 | 0 | 71 | 55 | 54 | 42 | 284 |
+| h5n1 | 23 | 39 | 2 | 67 | 55 | 54 | 42 | 282 |
 | dengue | 8 | 12 | 0 | 33 | 37 | 57 | 30 | 177 |
-| mpox | 14 | 15 | 0 | 28 | 18 | 15 | 26 | 116 |
-| malaria | 29 | 22 | 0 | 25 | 12 | 7 | 20 | 115 |
-| meningitis | 4 | 9 | 0 | 2 | 12 | 11 | 7 | 45 |
-| hpai | 10 | 3 | 0 | 3 | 9 | 5 | 4 | 34 |
+| malaria | 29 | 22 | 2 | 25 | 12 | 7 | 20 | 117 |
+| mpox | 14 | 15 | 0 | 26 | 18 | 15 | 26 | 114 |
+| meningitis | 4 | 9 | 0 | 1 | 12 | 11 | 7 | 44 |
+| hpai | 10 | 3 | 1 | 3 | 9 | 5 | 4 | 35 |
 | chikungunya | 6 | 1 | 0 | 8 | 5 | 3 | 7 | 30 |
 | rabies | 3 | 8 | 1 | 4 | 5 | 4 | 2 | 27 |
 | typhoid | 3 | 8 | 0 | 2 | 3 | 0 | 4 | 20 |
@@ -1793,15 +1793,9 @@ Source: [News API](https://newsapi.org/)
 
 - [New mpox vaccination sites open across England for high-risk people](https://news.sky.com/story/new-mpox-vaccination-sites-open-across-england-for-high-risk-people-13302169) (Sky.com)
 
-- [Uganda'da M çiçeği virüsüne karşı aşı kampanyası seferberliği](https://www.haber7.com/dunya/haber/3501667-ugandada-m-cicegi-virusune-karsi-asi-kampanyasi-seferberligi) (Haber7.com)
-
-- [Uganda, M çiçeği virüsü salgınıyla mücadele kapsamında aşı kampanyası başlattı](https://www.aa.com.tr/tr/dunya/uganda-m-cicegi-virusu-salginiyla-mucadele-kapsaminda-asi-kampanyasi-baslatti/3469451) (Anadolu Agency)
-
 ## 25-6 (meningitis)
 
 - [Love Changes the Heart—More Than Metaphorically](https://www.theepochtimes.com/health/love-changes-the-heart-more-than-metaphorically-5804355) (Theepochtimes.com)
-
-- [Danmark har ikke tabt ved VM siden 2017: 'Der var jeg lige kommet tilbage fra meningitis'](https://www.dr.dk/sporten/haandbold/vm/danmark-har-ikke-tabt-ved-vm-siden-2017-der-var-jeg-lige-kommet-tilbage-fra) (Www.dr.dk)
 
 ## 25-6 (measles)
 
@@ -2049,14 +2043,6 @@ Source: [News API](https://newsapi.org/)
 
 - [大S猝逝占据大陆热搜 中共隐瞒疫情误事(组图)](https://www.secretchina.com/news/gb/2025/02/03/1077055.html) (Secretchina.com)
 
-- [Bird flu in NC | Dead bird at Lake Julian Park receives 'preliminarily positive' test result for bird flu](https://abc11.com/post/bird-flu-nc-dead-lake-julian-park-receives-preliminarily-positive-test-result/15857185/) (WTVD-TV)
-
-- [As bird flu ravages poultry industry, the damage spreads](https://www.cbsnews.com/news/as-bird-flu-ravages-poultry-industry-the-damage-spreads/) (CBS News)
-
-- [The impact from bird flu spreads](https://www.cbsnews.com/video/the-impact-from-bird-flu-spreads/) (CBS News)
-
-- [Nature: Растет риск новой пандемии, вызванной птичьим гриппом](https://rg.ru/2025/02/02/nature-rastet-risk-novoj-pandemii-vyzvannoj-ptichim-grippom.html) (Rg.ru)
-
 ## 25-6 (dengue)
 
 - [Anvisa: Como usar repelentes contra o mosquito da dengue de forma eficaz](https://catracalivre.com.br/saude-bem-estar/anvisa-como-usar-repelentes-contra-o-mosquito-da-dengue-de-forma-eficaz/) (Catracalivre.com.br)
@@ -2150,6 +2136,22 @@ Source: [News API](https://newsapi.org/)
 ## 25-12 (measles)
 
 - [Best political cartoons this week: March 16, 2025](https://theweek.com/cartoons/best-political-cartoons-this-week-march-16-2025) (The Week Magazine)
+
+## 25-12 (malaria)
+
+- [Microbiota de los pingüinos, esperanza inmunológica contra la malaria o la leishmaniosis](https://forbes.com.mx/microbiota-de-los-pinguinos-esperanza-inmunologica-contra-la-malaria-o-la-leishmaniosis/) (Forbes.com.mx)
+
+- [Lost Places mitten im Meer: Verlassene Inseln mit Grusel-Faktor](https://www.n-tv.de/mediathek/bilderserien/panorama/Verlassene-Inseln-mit-Grusel-Faktor-article25571806.html) (N-tv.de)
+
+## 25-12 (hpai)
+
+- [Alarma en la Antártida: Confirman un brote masivo de gripe aviar en varias especies](https://es.gizmodo.com/alarma-en-la-antartida-confirman-un-brote-masivo-de-gripe-aviar-en-varias-especies-2000154626) (Gizmodo.com)
+
+## 25-12 (h5n1)
+
+- [Cat owners beware as pet food with bird flu risk is recalled](https://www.foxnews.com/health/cat-owners-beware-pet-food-bird-flu-risk-recalled) (Fox News)
+
+- [Alarma en la Antártida: Confirman un brote masivo de gripe aviar en varias especies](https://es.gizmodo.com/alarma-en-la-antartida-confirman-un-brote-masivo-de-gripe-aviar-en-varias-especies-2000154626) (Gizmodo.com)
 
 ## 25-11 (yersinia)
 
