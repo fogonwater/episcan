@@ -1,8 +1,98 @@
 {
-  "last_updated": "2025-03-16 19:05",
-  "count_articles_total": 1445,
-  "count_articles_new": 10,
+  "last_updated": "2025-03-17 07:07",
+  "count_articles_total": 1467,
+  "count_articles_new": 15,
   "articles": [
+    {
+      "id": 19333,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Week Magazine",
+      "author": "theweekonlineeditors@futurenet.com (The Week US)",
+      "title": "Best political cartoons this week: March 16, 2025",
+      "description": "This week's best cartoons - weapons for Ukraine, measles on the move, and more",
+      "url": "https://theweek.com/cartoons/best-political-cartoons-this-week-march-16-2025",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/6WpKaQ78w4PoXJtjmnpC86-1200-80.jpg",
+      "publishedAt": "2025-03-16 06:00:00",
+      "content": "The Week is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site. \u00a9 Future US, Inc. Full 7th Floor, 130 West 42nd Street, New York, NY 10036.",
+      "retrievedAt": "2025-03-17 07:07:32.266241",
+      "internal_id": "c308f8e0e981230764aa7b04c8b58a370e1ae60c0a1002f6575061d12864510d",
+      "publishedAtLabel": "Mar 16"
+    },
+    {
+      "id": 19332,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Rpnradio.com",
+      "author": "RPN Social",
+      "title": "Bacolod to construct animal shelter",
+      "description": "Bacolod City \u2013 The city is taking a significant step towards addressing the growing population of stray cats and dogs by introducing the largest local government-operated animal shelter in the country as part of its Rabies Prevention and Control Program, a pr\u2026",
+      "url": "https://rpnradio.com/bacolod-to-construct-animal-shelter/",
+      "urlToImage": "https://rpnradio.com/wp-content/uploads/2025/03/animal-shelter.jpg",
+      "publishedAt": "2025-03-16 00:48:40",
+      "content": "Bacolod City The city is taking a significant step towards addressing the growing population of stray cats and dogs by introducing the largest local government-operated animal shelter in the country \u2026 [+723 chars]",
+      "retrievedAt": "2025-03-17 07:07:31.712375",
+      "internal_id": "a940cba639793615d6d7ea3ccc0c0246b328e3e19455e107a8811d7bf0d9a1f4",
+      "publishedAtLabel": "Mar 16"
+    },
+    {
+      "id": 19345,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Lastampa.it",
+      "author": "Piero Dadone",
+      "title": "\u201c\u00c8 valsa la pena insistere: ora anch\u2019io ho ricevuto il vaccino anti-dengue\u201d",
+      "description": "Scrivo questo articolo dopo aver ricevuto la prima dose del vaccino anti-dengue, che da circa un anno richiedevo al Servizio sanitario nazionale ritenendo di averne diritto, come illustrato ai lettori ...[continua a leggere sul sito ]",
+      "url": "https://www.lastampa.it/cuneo/2025/03/16/news/e__valsa_la_pena_insistere_ora_anch_io_ho_ricevuto_il_vaccino_anti-dengue-15055018/",
+      "urlToImage": "https://www.gedistatic.it/content/gnn/img/lastampa/2025/03/15/195052900-358c46e2-09d2-40fa-ae57-d37ee880cff4.jpg",
+      "publishedAt": "2025-03-15 23:01:00",
+      "content": "Scrivo questo articolo dopo aver ricevuto la prima dose del vaccino anti-dengue, che da circa un anno richiedevo al Servizio sanitario nazionale ritenendo di averne diritto, come illustrato ai lettor\u2026 [+2180 chars]",
+      "retrievedAt": "2025-03-17 07:07:33.604620",
+      "internal_id": "9428142905c5de0e64e9b8a4c0b229e8a804dbf73688028224c30929b350fb3d",
+      "publishedAtLabel": "Mar 15"
+    },
+    {
+      "id": 19344,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "FDA.gov",
+      "author": "FDA",
+      "title": "Savage Pet Recalls Savage Cat Food Chicken \u2013 Large and Small Boxes Because of Possible Bird Flu Health Risk",
+      "description": "Savage Pet of El Cajon, CA is recalling 66 Large Chicken Boxes 84 oz. and 74 Small Chicken Boxes 21 oz. with the lot code/best by date of 11152026 because it has the potential to contain H5N1, also known as bird flu.",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/savage-pet-recalls-savage-cat-food-chicken-large-and-small-boxes-because-possible-bird-flu-health",
+      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+      "publishedAt": "2025-03-15 23:00:00",
+      "content": "Summary Company Announcement Date: March 15, 2025 FDA Publish Date: March 15, 2025 Product Type: Animal &amp; Veterinary Reason for Announcement: Recall Reason Description Possible Bird Flu\u2026 [+3107 chars]",
+      "retrievedAt": "2025-03-17 07:07:33.306546",
+      "internal_id": "dd1a0e9a271383a92c5596c11c22e2063032d587c35f4db81a86cde43c7717fd",
+      "publishedAtLabel": "Mar 15"
+    },
+    {
+      "id": 19346,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "El Tiempo (Colombia)",
+      "title": "Fue al m\u00e9dico por un fuerte ardor en los pies y cuando descubri\u00f3 lo que ten\u00eda en el cerebro no lo pod\u00eda creer",
+      "description": "Una mujer de 30 a\u00f1os fue diagnosticada con meningitis eosinof\u00edlica luego de que un par\u00e1sito llegara a su cabeza; todos los detalles de esta enfermedad",
+      "url": "https://www.lanacion.com.ar/lifestyle/en-las-redes/fue-al-medico-por-un-fuerte-ardor-en-los-pies-y-cuando-descubrio-lo-que-tenia-en-el-cerebro-no-lo-nid15032025/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/la-mujer-fue-diagnosticada-con-meningitis-7V3NPDNRSJFWLA4FABJEBJ3NFM.jpg?auth=bc65a304bfd38703b59942572d8eb380518e16bf60503ed4434ab23073c3a92e&width=1200&quality=70&smart=false&height=800",
+      "publishedAt": "2025-03-15 22:47:13",
+      "content": "El caso de una mujer de 30 a\u00f1os en Nueva Inglaterra, Estados Unidos, reaviv\u00f3 el debate sobre los riesgos de consumir caracoles, babosas, camarones y langostinos crudos o poco cocidos. Seg\u00fan relat\u00f3, u\u2026 [+2018 chars]",
+      "retrievedAt": "2025-03-17 07:07:33.794356",
+      "internal_id": "5368bba9982ed8a65dd1ef38a2c937030b431a5b26d8e70e759f265560ad6726",
+      "publishedAtLabel": "Mar 15"
+    },
     {
       "id": 19325,
       "query": [
@@ -55,6 +145,24 @@
       "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
       "retrievedAt": "2025-03-16 19:05:39.139872",
       "internal_id": "779db157ae5e15716727ea848eafa21cce1c33ad4dc42865afe93e2f5bb9361a",
+      "publishedAtLabel": "Mar 15"
+    },
+    {
+      "id": 19341,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Potential measles exposure alert issued after case confirmed in Calgary",
+      "description": "Alberta Health Services is warning the public about a possible exposure to measles after a case was confirmed in the Calgary area.",
+      "url": "https://www.cbc.ca/news/canada/calgary/measles-airdrie-superstore-1.7484801",
+      "urlToImage": "https://i.cbc.ca/1.7474011.1741098138!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_1180/usa-measles.JPG?im=Resize%3D620",
+      "publishedAt": "2025-03-15 16:06:50",
+      "content": "Alberta Health Services is warning the public about a possible exposure to measles after a case was confirmed in the Calgary area. The health agency issued an advisory Friday, saying the case had be\u2026 [+915 chars]",
+      "retrievedAt": "2025-03-17 07:07:32.483610",
+      "internal_id": "54a22a32eb01e46ca3410097d066bd485db306c81fc1846b8dffe84323561380",
       "publishedAtLabel": "Mar 15"
     },
     {
@@ -184,6 +292,24 @@
       "publishedAtLabel": "Mar 15"
     },
     {
+      "id": 19339,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Province warns of measles spread as northern Alberta community deals with outbreak",
+      "description": "An outbreak in the community of John D'Or Prairie, which is about 575 kilometres north of Edmonton and part of the Little Red River Cree Nation, is being investigated.",
+      "url": "https://www.cbc.ca/news/canada/calgary/little-red-river-cree-nation-measles-outbreak-six-cases-1.7484241",
+      "urlToImage": "https://i.cbc.ca/1.7474391.1741129224!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_1180/toronto-vaccine-fight.jpg?im=Resize%3D620",
+      "publishedAt": "2025-03-15 00:37:53",
+      "content": "Health officials are warning the public about a measles outbreak in northern Alberta that now includes six confirmed cases and they're worried about the potential for the virus to spread. An outbrea\u2026 [+4645 chars]",
+      "retrievedAt": "2025-03-17 07:07:32.467539",
+      "internal_id": "b79b431c9f63a8e1a78a4552a9442ada96697259d8e68cde19a8d5a4a1e5fda3",
+      "publishedAtLabel": "Mar 15"
+    },
+    {
       "id": 19321,
       "query": [
         "h5n1"
@@ -274,6 +400,24 @@
       "publishedAtLabel": "Mar 14"
     },
     {
+      "id": 19342,
+      "query": [
+        "measles"
+      ],
+      "source_id": "nbc-news",
+      "source_name": "NBC News",
+      "author": "Erika Edwards",
+      "title": "Newborn babies exposed to measles in Texas hospital",
+      "description": "On Wednesday, a woman gave birth in a Lubbock, Texas hospital in the middle of a deadly and fast-growing measles outbreak.",
+      "url": "https://www.nbcnews.com/health/health-news/texas-measles-outbreak-hospital-newborn-babies-exposed-rcna196519",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-02/250225-measles-testing-texas-mn-1155-d488ba.jpg",
+      "publishedAt": "2025-03-14 21:35:11",
+      "content": "On Wednesday, a woman gave birth in a Lubbock, Texas hospital in the middle of a deadly and fast-growing measles outbreak. Doctors didnt realize until the young mother had been admitted and in labor \u2026 [+2876 chars]",
+      "retrievedAt": "2025-03-17 07:07:32.491423",
+      "internal_id": "9906b1d69e2668decc5eb1055c0e5b326f9aceeef72159c906c76120dae58924",
+      "publishedAtLabel": "Mar 14"
+    },
+    {
       "id": 19312,
       "query": [
         "measles"
@@ -307,6 +451,42 @@
       "content": "Der Bestand ist knapp, noch Verf\u00fcgbares teuer: Ausbr\u00fcche der Vogelgrippe im ganzen Land leeren die Eierkartons in den US-Superm\u00e4rkten. Das H5N1-Virus ist derzeit bei Wildv\u00f6geln auf der ganzen Welt ve\u2026 [+3076 chars]",
       "retrievedAt": "2025-03-16 07:06:04.692847",
       "internal_id": "08ad2ce9a0d162fe547a4fc688a2cbda6749e33ccfa55edbf841443c18d51987",
+      "publishedAtLabel": "Mar 14"
+    },
+    {
+      "id": 19336,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Hamilton, Grand Erie public health units recommend measles vaccine for some babies under 1 year old",
+      "description": "In response to an Ontario-wide measles outbreak, with many cases near Brantford, Grand Erie, Hamilton and other public health units have expanded vaccinations to include infants as young as six months.",
+      "url": "https://www.cbc.ca/news/canada/hamilton/measles-vaccine-younger-age-1.7484214",
+      "urlToImage": "https://i.cbc.ca/1.7379501.1731174089!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_1180/measles-bulletin-bc-20240304.jpg?im=Resize%3D620",
+      "publishedAt": "2025-03-14 20:52:27",
+      "content": "In response to an Ontario-wide measles outbreak, with many cases occurring near Brantford, some public health units have expanded vaccinations to include infants as young as six months. Typically, \u2026 [+3738 chars]",
+      "retrievedAt": "2025-03-17 07:07:32.444640",
+      "internal_id": "ff09ac15f65f8fd5d8e16d54fd9acc8e9bcfe66047705a378c736b7581989ee3",
+      "publishedAtLabel": "Mar 14"
+    },
+    {
+      "id": 19340,
+      "query": [
+        "measles"
+      ],
+      "source_id": "nbc-news",
+      "source_name": "NBC News",
+      "author": "Aria Bendix , Randi Richardson",
+      "title": "As Texas measles outbreak grows, U.S. cases quickly surpass total for all of 2024",
+      "description": "Measles cases have surpassed last year\u2019s total less than three months into the year, as the outbreak in West Texas continues to spread.",
+      "url": "https://www.nbcnews.com/health/health-news/measles-texas-outbreak-grows-us-cases-surpass-2024-rcna196490",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-03/250314-Measles-Texas-aa-138-f2156b.jpg",
+      "publishedAt": "2025-03-14 20:41:49",
+      "content": "Less than three months into 2025, measles cases in the United States have already surpassed last years total as the outbreak in West Texas continues to spread. As of Friday, 320 cases had been repor\u2026 [+3669 chars]",
+      "retrievedAt": "2025-03-17 07:07:32.476007",
+      "internal_id": "cc0cebec382f6863e319f18b83fad62589e2801db0e1e53cb919c1c35cf381d7",
       "publishedAtLabel": "Mar 14"
     },
     {
@@ -523,6 +703,24 @@
       "content": "A principal caracter\u00edstica da mpox \u00e9 o aparecimento de les\u00f5es na pele, mas a popula\u00e7\u00e3o deve ficar atenta a outros sinais da doen\u00e7a. De acordo com a Organiza\u00e7\u00e3o Mundial de Sa\u00fade (OMS), os principais s\u2026 [+3887 chars]",
       "retrievedAt": "2025-03-15 19:05:42.393403",
       "internal_id": "b613a364cb54383de6c200423496e5f9fd57edec2cd62f4d74247ac45d6a2dad",
+      "publishedAtLabel": "Mar 14"
+    },
+    {
+      "id": 19334,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Ontario urging measles vaccinations amid worst outbreak in more than a decade",
+      "description": "The province's chief medical officer of health is urging Ontarians to make sure they are immunized against the measles amid the most severe outbreak in the province in more than a decade.",
+      "url": "https://www.cbc.ca/news/canada/toronto/measles-outbreak-ontario-vaccinations-kieran-moore-1.7483821",
+      "urlToImage": "https://i.cbc.ca/1.7474011.1741098138!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_1180/usa-measles.JPG?im=Resize%3D620",
+      "publishedAt": "2025-03-14 16:06:57",
+      "content": "The province's chief medical officer of health is urging Ontarians to make sure they are immunized against the measles, amid the most severe outbreak in the province in more than a decade. In a stat\u2026 [+2400 chars]",
+      "retrievedAt": "2025-03-17 07:07:32.427419",
+      "internal_id": "a94a076a80ba457856f8a2cb62efa3bd253ad6841fc46aa6871a8e13e7587b90",
       "publishedAtLabel": "Mar 14"
     },
     {
@@ -760,6 +958,24 @@
       "publishedAtLabel": "Mar 14"
     },
     {
+      "id": 19337,
+      "query": [
+        "measles"
+      ],
+      "source_id": "medical-news-today",
+      "source_name": "Medical News Today",
+      "author": "Yasemin Nicola Sakay",
+      "title": "Vitamin A and measles: Experts explain what the supplement can do",
+      "description": "Can vitamin A and cod liver oil prevent measles? Medical experts debunk myths and answer common questions about the health benefits and risks of the supplements.",
+      "url": "https://www.medicalnewstoday.com/articles/vitamin-a-measles-prevention-health-experts-answer-questions",
+      "urlToImage": "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2025/03/row-of-pills-1200-628-facebook.jpg",
+      "publishedAt": "2025-03-14 04:38:42",
+      "content": "Measles cases have recently risen in the United States, with over 200 cases reported across at least a dozen states.In light of recent comments from Robert F. Kennedy Jr., the new U.\u2026 [+6156 chars]",
+      "retrievedAt": "2025-03-17 07:07:32.452151",
+      "internal_id": "c05f4ebe85513ec63dac3090eff3fac692324bdf4e3a242e40e1b4b6b8e231b7",
+      "publishedAtLabel": "Mar 14"
+    },
+    {
       "id": 19283,
       "query": [
         "measles"
@@ -829,6 +1045,24 @@
       "content": "O Minist\u00e9rio da Sa\u00fade confirmou o primeiro caso de infec\u00e7\u00e3o pela cepa 1b da Mpox no Brasil. A paciente, uma mulher de 29 anos que mora na regi\u00e3o metropolitana de S\u00e3o Paulo, teve contato com um famili\u2026 [+1609 chars]",
       "retrievedAt": "2025-03-15 07:06:06.433557",
       "internal_id": "e734ce27e79cbadf811491fde08695259e65b50e898f0ee823e2090c4b5ffa8c",
+      "publishedAtLabel": "Mar 13"
+    },
+    {
+      "id": 19335,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Measles cases in Hastings County triple in a week amid largest outbreak in 30 years",
+      "description": "All of the cases involve people who had never been vaccinated against the disease, according to the South East Health Unit, which is urging residents to make sure their immunizations are up to date.",
+      "url": "https://www.cbc.ca/news/canada/ottawa/measles-outbreak-hastings-county-32-cases-1.7483078",
+      "urlToImage": "https://i.cbc.ca/1.7474391.1741129224!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_1180/toronto-vaccine-fight.jpg?im=Resize%3D620",
+      "publishedAt": "2025-03-13 20:38:24",
+      "content": "The number of measles cases in Hastings County has risen to 32, more than triple the number reported by local health officials just one week ago when they first confirmed an outbreak of the highly co\u2026 [+2223 chars]",
+      "retrievedAt": "2025-03-17 07:07:32.435269",
+      "internal_id": "b7e6e1a5d029fcd13983c4988850f2fd97df173990d0bc102074004910bdae45",
       "publishedAtLabel": "Mar 13"
     },
     {
@@ -1102,6 +1336,24 @@
       "publishedAtLabel": "Mar 13"
     },
     {
+      "id": 19338,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "POLITICO.eu",
+      "author": "Dato Parulava",
+      "title": "Measles cases spike to 25-year high in Europe",
+      "description": "Vaccination rates plunged during the Covid-19 pandemic.",
+      "url": "https://www.politico.eu/article/measles-cases-spike-to-25-year-high-in-europe/",
+      "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/03/13/GettyImages-2201749974-scaled.jpg",
+      "publishedAt": "2025-03-13 14:26:37",
+      "content": "Despite a declining trend since 1997, a significant resurgence of measles was recorded in 2023 and 2024 following backsliding in immunization coverage during the Covid-19 pandemic. Vaccination rates\u2026 [+868 chars]",
+      "retrievedAt": "2025-03-17 07:07:32.459960",
+      "internal_id": "2238780f5055cd93d7693ca0d10c09b3be61b03daec3d392f1037ffbb0725485",
+      "publishedAtLabel": "Mar 13"
+    },
+    {
       "id": 19284,
       "query": [
         "measles"
@@ -1189,6 +1441,24 @@
       "content": "MADRID, 13 Mar. (EUROPA PRESS) - La expedici\u00f3n cient\u00edfica del Consejo Superior de Investigaciones Cient\u00edficas (CSIC) y de la Uni\u00f3n Espa\u00f1ola de Aseguradoras y Reaseguradoras (UNESPA) ha detectado\u2026 [+4188 chars]",
       "retrievedAt": "2025-03-14 19:05:54.250118",
       "internal_id": "e7aa08d9257664af96c124f3d326b92ff575b4a93a56d4e25329de01ec16902d",
+      "publishedAtLabel": "Mar 13"
+    },
+    {
+      "id": 19343,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "TODAY",
+      "author": "TODAY",
+      "title": "Doctors answer viewer questions about measles, viral illnesses",
+      "description": "NBC News medical contributors Dr. John Torres and Dr. Natalie Azar join TODAY to answer questions from viewers concerned about the measles outbreak, staying safe from respiratory illnesses and spring allergies.",
+      "url": "https://www.today.com/video/how-to-know-if-you-re-protected-against-measles-amid-outbreak-234302533570",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/mpx/2704722219/2025_03/1741872420899_tdy_health_9a_measles_viral_illnesses_250313_1920x1080-2jcziz.jpg",
+      "publishedAt": "2025-03-13 13:27:07",
+      "content": "NBC News medical contributors Dr. John Torres and Dr. Natalie Azar join TODAY to answer questions from viewers concerned about the measles outbreak, staying safe from respiratory illnesses and spring\u2026 [+24 chars]",
+      "retrievedAt": "2025-03-17 07:07:32.499339",
+      "internal_id": "8bc5369c9fe75a268120176f1e828f328d8e250d8894aff7585102f836dab338",
       "publishedAtLabel": "Mar 13"
     },
     {
@@ -26049,6 +26319,132 @@
       "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
       "retrievedAt": "2025-02-04 07:07:01.212340",
       "internal_id": "84f684308ba4ffa4fa15abb09ec46a7cc9d97d0bdd6c4486dce11d79ab56adcc",
+      "publishedAtLabel": "Feb 2"
+    },
+    {
+      "id": 17883,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "WTVD-TV",
+      "author": "Marisa Sardonia",
+      "title": "Bird flu in NC | Dead bird at Lake Julian Park receives 'preliminarily positive' test result for bird flu",
+      "description": "Despite these findings, the park will remain open, but visitors are advised to avoid touching or feeding waterfowl.",
+      "url": "https://abc11.com/post/bird-flu-nc-dead-lake-julian-park-receives-preliminarily-positive-test-result/15857185/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/15857173_WLOSbirdflu0201.JPG?w=1600",
+      "publishedAt": "2025-02-02 17:46:41",
+      "content": "ASHEVILLE, N.C. -- Buncombe County officials report that a dead waterfowl bird at Lake Julian Park has received a \"preliminarily positive\" test result for Avian Influenza H5N1, commonly known as bird\u2026 [+957 chars]",
+      "retrievedAt": "2025-02-03 19:06:09.443906",
+      "internal_id": "94402575c35587377ac4ad2a7a1727d800e99d1911b97a966af8fb975be3b790",
+      "publishedAtLabel": "Feb 2"
+    },
+    {
+      "id": 17880,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Martha Teichner",
+      "title": "As bird flu ravages poultry industry, the damage spreads",
+      "description": "After the current strain of bird flu, H5N1, reached the U.S. in 2022, more than 148 million birds have been euthanized. What is the outbreak's potential impacts on humans, the poultry industry, egg prices, and U.S. exports?",
+      "url": "https://www.cbsnews.com/news/as-bird-flu-ravages-poultry-industry-the-damage-spreads/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/02/02/93af99c1-1c8d-4e2c-800f-17dd5b5e4b02/thumbnail/1200x630/03efc2d452e36c47154559d65c6838e9/bird-flu-1280.jpg?v=a599723035d2f104d7a2d01edbe96ef8",
+      "publishedAt": "2025-02-02 15:19:13",
+      "content": "There are seven generations of Corwins in the Aquebogue, Long Island, town cemetery. Their graves overlook the farm that's been in the family since the 1640s. Some family members' tombstones are ador\u2026 [+3931 chars]",
+      "retrievedAt": "2025-02-03 19:06:09.333622",
+      "internal_id": "25bd8193ca7d177522316a0e614c00e6a5a2e623f266149c0c7d0824e9f4a878",
+      "publishedAtLabel": "Feb 2"
+    },
+    {
+      "id": 17882,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "CBS News",
+      "title": "The impact from bird flu spreads",
+      "description": "After H5N1, the current strain of bird flu, reached the United States in 2022, more than 148 million chickens, turkeys and other farm birds have been euthanized. Since last year, when the virus jumped from poultry and wild birds to mammals, the number of huma\u2026",
+      "url": "https://www.cbsnews.com/video/the-impact-from-bird-flu-spreads/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/02/02/1f3e29e1-72c9-426f-844a-61ba60eed817/thumbnail/1200x630/26f6c05a310603b67fd3bf816bcfc7a8/bird-flu-1920.jpg?v=a599723035d2f104d7a2d01edbe96ef8",
+      "publishedAt": "2025-02-02 15:18:00",
+      "content": "Watch CBS News Copyright \u00a92025 CBS Interactive Inc. All rights reserved. Get browser notifications for breaking news, live events, and exclusive reporting. Not NowTurn On",
+      "retrievedAt": "2025-02-03 19:06:09.368737",
+      "internal_id": "7894cedbb7b7f5a5689adafe70d2d4355399dad9cedb443b03f43a6921ef0908",
+      "publishedAtLabel": "Feb 2"
+    },
+    {
+      "id": 17881,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Rg.ru",
+      "author": null,
+      "title": "Nature: \u0420\u0430\u0441\u0442\u0435\u0442 \u0440\u0438\u0441\u043a \u043d\u043e\u0432\u043e\u0439 \u043f\u0430\u043d\u0434\u0435\u043c\u0438\u0438, \u0432\u044b\u0437\u0432\u0430\u043d\u043d\u043e\u0439 \u043f\u0442\u0438\u0447\u044c\u0438\u043c \u0433\u0440\u0438\u043f\u043f\u043e\u043c",
+      "description": "\u041f\u0442\u0438\u0447\u0438\u0439 \u0432\u0438\u0440\u0443\u0441 \u0433\u0440\u0438\u043f\u043f\u0430 H5N1 \u0430\u0434\u0430\u043f\u0442\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u043a \u043d\u043e\u0432\u044b\u043c \u0445\u043e\u0437\u044f\u0435\u0432\u0430\u043c - \u043c\u043b\u0435\u043a\u043e\u043f\u0438\u0442\u0430\u044e\u0449\u0438\u043c, \u0438 \u044d\u0442\u043e \u043f\u043e\u0432\u044b\u0448\u0430\u0435\u0442 \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u044c \u0435\u0433\u043e \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0435\u043d\u0438\u044f \u0441\u0440\u0435\u0434\u0438 \u043b\u044e\u0434\u0435\u0439.",
+      "url": "https://rg.ru/2025/02/02/nature-rastet-risk-novoj-pandemii-vyzvannoj-ptichim-grippom.html",
+      "urlToImage": "https://cdnstatic.rg.ru/uploads/images/2025/02/02/istock-2173054299-1_573.jpg",
+      "publishedAt": "2025-02-02 15:16:01",
+      "content": ", . 68 , . , \"\" , Nature. , , H5N1, , , . - , , . \" , , ( - . \") \", - Nature , , , . , , . H5N1: , B3.13, ; , D1.1, , , . B3.13 , 900 16 , , , . , , , , , . 40 . , . , . Nature, 24 , , D1.\u2026 [+62 chars]",
+      "retrievedAt": "2025-02-03 19:06:09.361221",
+      "internal_id": "09a328c5fd62404d20e1f9ca5e4949d4dbfdd18adf23087b1d12af5944ec7f2f",
+      "publishedAtLabel": "Feb 2"
+    },
+    {
+      "id": 17886,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Haber7.com",
+      "author": "Ramazan Y\u0131ld\u0131z",
+      "title": "Uganda'da M \u00e7i\u00e7e\u011fi vir\u00fcs\u00fcne kar\u015f\u0131 a\u015f\u0131 kampanyas\u0131 seferberli\u011fi",
+      "description": "Uganda'da Afrika Hastal\u0131k Kontrol ve \u00d6nleme Merkezleri (Africa CDC) taraf\u0131ndan ba\u011f\u0131\u015flanan 2 bin doz a\u015f\u0131, bin ki\u015fiye uygulanmaya ba\u015fland\u0131.",
+      "url": "https://www.haber7.com/dunya/haber/3501667-ugandada-m-cicegi-virusune-karsi-asi-kampanyasi-seferberligi",
+      "urlToImage": "https://i20.haber7.net/resize/1280x720//haber/haber7/photos/2025/05/ugandada_m_cicegi_virusune_karsi_asi_kampanyasi_seferberligi_1738501558_3925.jpg",
+      "publishedAt": "2025-02-02 13:06:00",
+      "content": "Uganda'nn bakenti Kampala'da M \u00e7i\u00e7ei vir\u00fcs\u00fc (Mpox) salgnyla m\u00fccadele kapsamnda y\u00fcksek risk gruplar ve salk \u00e7alanlarna y\u00f6nelik alama kampanyasnn ilk aamas balatld. Yerel basna yansyan haberlere g\u00f6re,\u2026 [+1110 chars]",
+      "retrievedAt": "2025-02-03 19:06:11.973579",
+      "internal_id": "44bab71e5765b926fdbbd9268eb1cf6c7843aead436f2d4c077a071f744390bc",
+      "publishedAtLabel": "Feb 2"
+    },
+    {
+      "id": 17885,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Anadolu Agency",
+      "author": null,
+      "title": "Uganda, M \u00e7i\u00e7e\u011fi vir\u00fcs\u00fc salg\u0131n\u0131yla m\u00fccadele kapsam\u0131nda a\u015f\u0131 kampanyas\u0131 ba\u015flatt\u0131",
+      "description": "Uganda'n\u0131n ba\u015fkenti Kampala'da M \u00e7i\u00e7e\u011fi vir\u00fcs\u00fc (Mpox) salg\u0131n\u0131yla m\u00fccadele kapsam\u0131nda y\u00fcksek risk gruplar\u0131 ve sa\u011fl\u0131k \u00e7al\u0131\u015fanlar\u0131na y\u00f6nelik a\u015f\u0131lama kampanyas\u0131n\u0131n ilk a\u015famas\u0131 ba\u015flat\u0131ld\u0131. - Anadolu Ajans\u0131",
+      "url": "https://www.aa.com.tr/tr/dunya/uganda-m-cicegi-virusu-salginiyla-mucadele-kapsaminda-asi-kampanyasi-baslatti/3469451",
+      "urlToImage": "https://cdnuploads.aa.com.tr/uploads/Contents/2025/02/02/thumbs_b_c_1c8532de8fa50550880b9b8ccb27dabb.jpg",
+      "publishedAt": "2025-02-02 12:23:48",
+      "content": "Yerel basna yansyan haberlere g\u00f6re, Afrika Hastalk Kontrol ve \u00d6nleme Merkezleri (Africa CDC) tarafndan balanan 2 bin doz a, bin kiiye uygulanmaya baland. Uganda Salk Bakanlndan yaplan a\u00e7klamada, Ara\u2026 [+1108 chars]",
+      "retrievedAt": "2025-02-03 19:06:11.953773",
+      "internal_id": "29b55ce4fdc54c5a52962349ec0dbb7e2fda51a19aee93b301f9d3aaae835ca4",
+      "publishedAtLabel": "Feb 2"
+    },
+    {
+      "id": 17884,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Www.dr.dk",
+      "author": null,
+      "title": "Danmark har ikke tabt ved VM siden 2017: 'Der var jeg lige kommet tilbage fra meningitis'",
+      "description": "Ungarn er det seneste hold, der har sl\u00e5et Danmark ved VM i herreh\u00e5ndbold.",
+      "url": "https://www.dr.dk/sporten/haandbold/vm/danmark-har-ikke-tabt-ved-vm-siden-2017-der-var-jeg-lige-kommet-tilbage-fra",
+      "urlToImage": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fwww.dr.dk%2Fimages%2Fother%2F2025%2F02%2F01%2Fscanpix-20250131-223129-l.jpg&w=1200",
+      "publishedAt": "2025-02-02 07:31:00",
+      "content": "Den 27-\u00e5rige m\u00e5lmand, som har haft over 100 redninger indtil videre ved dette VM, var 19 \u00e5r og havde netop v\u00e6ret igennem et sygdomsforl\u00f8b. - Der var jeg lige kommet tilbage fra meningitis. Det var e\u2026 [+450 chars]",
+      "retrievedAt": "2025-02-03 19:06:10.239102",
+      "internal_id": "a483b8a9c9449681a365c38d6144ba8fba11c39eb3049318e23228e7283d079b",
       "publishedAtLabel": "Feb 2"
     }
   ]

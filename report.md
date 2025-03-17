@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 10
-- **Last harvest:** 2025-03-16 19:05
-- **Most recent article:** 2025-03-15 18:51:45
+- **New articles in last harvest:** 15
+- **Last harvest:** 2025-03-17 07:07
+- **Most recent article:** 2025-03-16 06:00:00
 
 ---
 
@@ -10,23 +10,23 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 25-10 | 25-11 | 25-6 | 25-7 | 25-8 | 25-9 | Total |
-|--|-|-|-|-|-|-|-|
-| measles | 142 | 112 | 24 | 72 | 83 | 162 | 595 |
-| h5n1 | 23 | 38 | 67 | 55 | 54 | 42 | 279 |
-| dengue | 8 | 11 | 33 | 37 | 57 | 30 | 176 |
-| malaria | 29 | 22 | 25 | 12 | 7 | 20 | 115 |
-| mpox | 14 | 15 | 26 | 18 | 15 | 26 | 114 |
-| meningitis | 4 | 8 | 1 | 12 | 11 | 7 | 43 |
-| hpai | 10 | 3 | 3 | 9 | 5 | 4 | 34 |
-| chikungunya | 6 | 1 | 8 | 5 | 3 | 7 | 30 |
-| rabies | 3 | 8 | 4 | 5 | 4 | 2 | 26 |
-| typhoid | 3 | 8 | 2 | 3 | 0 | 4 | 20 |
-| zika | 3 | 0 | 6 | 2 | 6 | 2 | 19 |
-| pertussis | 0 | 5 | 3 | 3 | 2 | 0 | 13 |
-| yersinia | 1 | 2 | 0 | 5 | 0 | 2 | 10 |
-| leptospirosis | 3 | 0 | 0 | 0 | 2 | 0 | 5 |
-| shigellosis | 3 | 0 | 0 | 0 | 0 | 1 | 4 |
+| Disease | 25-10 | 25-11 | 25-12 | 25-6 | 25-7 | 25-8 | 25-9 | Total |
+|--|-|-|-|-|-|-|-|-|
+| measles | 142 | 122 | 1 | 24 | 72 | 83 | 162 | 606 |
+| h5n1 | 23 | 39 | 0 | 71 | 55 | 54 | 42 | 284 |
+| dengue | 8 | 12 | 0 | 33 | 37 | 57 | 30 | 177 |
+| mpox | 14 | 15 | 0 | 28 | 18 | 15 | 26 | 116 |
+| malaria | 29 | 22 | 0 | 25 | 12 | 7 | 20 | 115 |
+| meningitis | 4 | 9 | 0 | 2 | 12 | 11 | 7 | 45 |
+| hpai | 10 | 3 | 0 | 3 | 9 | 5 | 4 | 34 |
+| chikungunya | 6 | 1 | 0 | 8 | 5 | 3 | 7 | 30 |
+| rabies | 3 | 8 | 1 | 4 | 5 | 4 | 2 | 27 |
+| typhoid | 3 | 8 | 0 | 2 | 3 | 0 | 4 | 20 |
+| zika | 3 | 0 | 0 | 6 | 2 | 6 | 2 | 19 |
+| pertussis | 0 | 5 | 0 | 3 | 3 | 2 | 0 | 13 |
+| yersinia | 1 | 2 | 0 | 0 | 5 | 0 | 2 | 10 |
+| leptospirosis | 3 | 0 | 0 | 0 | 0 | 2 | 0 | 5 |
+| shigellosis | 3 | 0 | 0 | 0 | 0 | 0 | 1 | 4 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -1793,9 +1793,15 @@ Source: [News API](https://newsapi.org/)
 
 - [New mpox vaccination sites open across England for high-risk people](https://news.sky.com/story/new-mpox-vaccination-sites-open-across-england-for-high-risk-people-13302169) (Sky.com)
 
+- [Uganda'da M çiçeği virüsüne karşı aşı kampanyası seferberliği](https://www.haber7.com/dunya/haber/3501667-ugandada-m-cicegi-virusune-karsi-asi-kampanyasi-seferberligi) (Haber7.com)
+
+- [Uganda, M çiçeği virüsü salgınıyla mücadele kapsamında aşı kampanyası başlattı](https://www.aa.com.tr/tr/dunya/uganda-m-cicegi-virusu-salginiyla-mucadele-kapsaminda-asi-kampanyasi-baslatti/3469451) (Anadolu Agency)
+
 ## 25-6 (meningitis)
 
 - [Love Changes the Heart—More Than Metaphorically](https://www.theepochtimes.com/health/love-changes-the-heart-more-than-metaphorically-5804355) (Theepochtimes.com)
+
+- [Danmark har ikke tabt ved VM siden 2017: 'Der var jeg lige kommet tilbage fra meningitis'](https://www.dr.dk/sporten/haandbold/vm/danmark-har-ikke-tabt-ved-vm-siden-2017-der-var-jeg-lige-kommet-tilbage-fra) (Www.dr.dk)
 
 ## 25-6 (measles)
 
@@ -2043,6 +2049,14 @@ Source: [News API](https://newsapi.org/)
 
 - [大S猝逝占据大陆热搜 中共隐瞒疫情误事(组图)](https://www.secretchina.com/news/gb/2025/02/03/1077055.html) (Secretchina.com)
 
+- [Bird flu in NC | Dead bird at Lake Julian Park receives 'preliminarily positive' test result for bird flu](https://abc11.com/post/bird-flu-nc-dead-lake-julian-park-receives-preliminarily-positive-test-result/15857185/) (WTVD-TV)
+
+- [As bird flu ravages poultry industry, the damage spreads](https://www.cbsnews.com/news/as-bird-flu-ravages-poultry-industry-the-damage-spreads/) (CBS News)
+
+- [The impact from bird flu spreads](https://www.cbsnews.com/video/the-impact-from-bird-flu-spreads/) (CBS News)
+
+- [Nature: Растет риск новой пандемии, вызванной птичьим гриппом](https://rg.ru/2025/02/02/nature-rastet-risk-novoj-pandemii-vyzvannoj-ptichim-grippom.html) (Rg.ru)
+
 ## 25-6 (dengue)
 
 - [Anvisa: Como usar repelentes contra o mosquito da dengue de forma eficaz](https://catracalivre.com.br/saude-bem-estar/anvisa-como-usar-repelentes-contra-o-mosquito-da-dengue-de-forma-eficaz/) (Catracalivre.com.br)
@@ -2128,6 +2142,14 @@ Source: [News API](https://newsapi.org/)
 - [El ECDC notifica más de 100.000 casos de dengue y 5.000 de chikungunya en todo el mundo en enero](https://www.infosalus.com/salud-investigacion/noticia-ecdc-notifica-mas-100000-casos-dengue-5000-chikungunya-todo-mundo-enero-20250204150406.html) (Infosalus.com)
 
 - [Clinical manifestations associated with the chronic phase of Chikungunya Fever: A systematic review of prevalence](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012810) (Plos.org)
+
+## 25-12 (rabies)
+
+- [Bacolod to construct animal shelter](https://rpnradio.com/bacolod-to-construct-animal-shelter/) (Rpnradio.com)
+
+## 25-12 (measles)
+
+- [Best political cartoons this week: March 16, 2025](https://theweek.com/cartoons/best-political-cartoons-this-week-march-16-2025) (The Week Magazine)
 
 ## 25-11 (yersinia)
 
@@ -2217,6 +2239,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-11 (meningitis)
 
+- [Fue al médico por un fuerte ardor en los pies y cuando descubrió lo que tenía en el cerebro no lo podía creer](https://www.lanacion.com.ar/lifestyle/en-las-redes/fue-al-medico-por-un-fuerte-ardor-en-los-pies-y-cuando-descubrio-lo-que-tenia-en-el-cerebro-no-lo-nid15032025/) (La Nacion)
+
 - [La ONG andaluza África Arco Iris administra 10.000 vacunas en Costa de Marfil en su 31 campaña solidaria](https://www.europapress.es/andalucia/sevilla-00357/noticia-ong-andaluza-africa-arco-iris-administra-10000-vacunas-costa-marfil-31-campana-solidaria-20250315132955.html) (Europapress.es)
 
 - ['A leap' to suggest sepsis death was preventable](https://www.bbc.com/news/articles/cn04klezy17o) (BBC News)
@@ -2241,9 +2265,13 @@ Source: [News API](https://newsapi.org/)
 
 - [Keeping With Kennedy's Advice, Measles Patients Turn to Unproven Treatments (Teddy Rosenbluth/New York Times)](https://www.memeorandum.com/250315/p45) (Memeorandum.com)
 
+- [Potential measles exposure alert issued after case confirmed in Calgary](https://www.cbc.ca/news/canada/calgary/measles-airdrie-superstore-1.7484801) (CBC News)
+
 - [Everything you need to know about measles, as cases continue to climb](https://www.npr.org/2025/03/15/nx-s1-5327403/everything-you-need-to-know-about-measles-as-cases-continue-to-climb) (NPR)
 
 - [Newborn babies exposed to measles in Texas hospital (Erika Edwards/NBC News)](https://www.memeorandum.com/250315/p6) (Memeorandum.com)
+
+- [Province warns of measles spread as northern Alberta community deals with outbreak](https://www.cbc.ca/news/canada/calgary/little-red-river-cree-nation-measles-outbreak-six-cases-1.7484241) (CBC News)
 
 - [RFK Jr Called Out By Democratic Lawmaker For Not Answering Him On Live Broadcast: 'Respond to the Damn Letter'](https://www.ibtimes.com/rfk-jr-called-out-democratic-lawmaker-not-answering-him-live-broadcast-respond-damn-letter-3766351) (International Business Times)
 
@@ -2251,7 +2279,13 @@ Source: [News API](https://newsapi.org/)
 
 - [US sees 300-plus measles cases, highest in a year since 2019 (Nathaniel Weixel/The Hill)](https://www.memeorandum.com/250314/p126) (Memeorandum.com)
 
+- [Newborn babies exposed to measles in Texas hospital](https://www.nbcnews.com/health/health-news/texas-measles-outbreak-hospital-newborn-babies-exposed-rcna196519) (NBC News)
+
 - [The dangers of measles can be severe and long lasting, doctors warn](https://www.npr.org/2025/03/14/nx-s1-5324745/the-dangers-of-measles-can-be-severe-and-long-lasting-doctors-warn) (NPR)
+
+- [Hamilton, Grand Erie public health units recommend measles vaccine for some babies under 1 year old](https://www.cbc.ca/news/canada/hamilton/measles-vaccine-younger-age-1.7484214) (CBC News)
+
+- [As Texas measles outbreak grows, U.S. cases quickly surpass total for all of 2024](https://www.nbcnews.com/health/health-news/measles-texas-outbreak-grows-us-cases-surpass-2024-rcna196490) (NBC News)
 
 - [Measles Is Harmful, Contrary to Flimsy Social Media Claims of Long-Term Benefits](https://www.factcheck.org/2025/03/measles-is-harmful-contrary-to-flimsy-social-media-claims-of-long-term-benefits/) (FactCheck.org)
 
@@ -2266,6 +2300,8 @@ Source: [News API](https://newsapi.org/)
 - [Measles cases reach nearly 300 total in Texas and New Mexico. Here’s what you should know](https://www.bostonherald.com/2025/03/14/measles-cases/) (Boston Herald)
 
 - [WHO Report Shows Measles Spreading Across The World As Cases In The US Surpass Total For 2024](https://brobible.com/culture/article/who-report-measles-spreading-world/) (BroBible)
+
+- [Ontario urging measles vaccinations amid worst outbreak in more than a decade](https://www.cbc.ca/news/canada/toronto/measles-outbreak-ontario-vaccinations-kieran-moore-1.7483821) (CBC News)
 
 - [U.S. records most measles cases in single year since record 2019 wave (Alexander Tin/CBS News)](https://www.memeorandum.com/250314/p60) (Memeorandum.com)
 
@@ -2283,7 +2319,11 @@ Source: [News API](https://newsapi.org/)
 
 - [Europe records highest measles cases in 25 years – UN](https://punchng.com/europe-records-highest-measles-cases-in-25-years-un/) (The Punch)
 
+- [Vitamin A and measles: Experts explain what the supplement can do](https://www.medicalnewstoday.com/articles/vitamin-a-measles-prevention-health-experts-answer-questions) (Medical News Today)
+
 - [Bauchi records 218 measles cases on three-month, embraces MR-vaccine](https://punchng.com/bauchi-records-218-measles-cases-on-three-month-embraces-mr-vaccine/) (The Punch)
+
+- [Measles cases in Hastings County triple in a week amid largest outbreak in 30 years](https://www.cbc.ca/news/canada/ottawa/measles-outbreak-hastings-county-32-cases-1.7483078) (CBC News)
 
 - [Measles is spreading. Are you protected?](https://www.bostonherald.com/2025/03/13/measles-is-spreading-are-you-protected/) (Boston Herald)
 
@@ -2299,11 +2339,15 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles highest in 25 years in Europe, WHO says](https://www.bbc.com/news/articles/cy9dyp8e81zo) (BBC News)
 
+- [Measles cases spike to 25-year high in Europe](https://www.politico.eu/article/measles-cases-spike-to-25-year-high-in-europe/) (POLITICO.eu)
+
 - [Measles cases in Europe, Central Asia doubled last year to highest level since 1997](https://abcnews.go.com/International/wireStory/measles-cases-europe-central-asia-doubled-year-highest-119753213) (ABC News)
 
 - [Robert Kennedy Blames Child’s Measles Death on Poor Nutrition and Exercise, Not Lack of Vaccination](https://dianeravitch.net/2025/03/13/robert-kennedy-blames-childs-measles-death-on-poor-nutrition-and-exercise/) (Dianeravitch.net)
 
 - [Measles cases in Europe double to reach 25-year high](https://www.thelocal.com/20250313/measles-cases-in-europe-double-to-reach-25-year-high) (Thelocal.com)
+
+- [Doctors answer viewer questions about measles, viral illnesses](https://www.today.com/video/how-to-know-if-you-re-protected-against-measles-amid-outbreak-234302533570) (TODAY)
 
 - [RFK Jr. Suggests Getting Measles Is Better Than Getting Vaccinated](https://crooksandliars.com/2025/03/rfk-jr-suggests-getting-measles-better) (Crooksandliars.com)
 
@@ -2515,6 +2559,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-11 (h5n1)
 
+- [Savage Pet Recalls Savage Cat Food Chicken – Large and Small Boxes Because of Possible Bird Flu Health Risk](https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/savage-pet-recalls-savage-cat-food-chicken-large-and-small-boxes-because-possible-bird-flu-health) (FDA.gov)
+
 - [New Study: Sustained Mammal-to-Mammal Transmission of H5N1 Clade 2.3.4.4b](https://www.globalresearch.ca/sustained-mammal-mammal-transmission-h5n1/5881610) (Globalresearch.ca)
 
 - [H5N1 bird flu virus is infectious in raw milk cheese for months, posing risk to public health, study shows](https://www.erienewsnow.com/story/52557705/h5n1-bird-flu-virus-is-infectious-in-raw-milk-cheese-for-months-posing-risk-to-public-health-study-shows) (erienewsnow.com)
@@ -2592,6 +2638,8 @@ Source: [News API](https://newsapi.org/)
 - [천안 산란계 농장서 고병원성 AI 확진···11만여 마리 살처분](https://www.khan.co.kr/article/202503091140001) (Khan.co.kr)
 
 ## 25-11 (dengue)
+
+- [“È valsa la pena insistere: ora anch’io ho ricevuto il vaccino anti-dengue”](https://www.lastampa.it/cuneo/2025/03/16/news/e__valsa_la_pena_insistere_ora_anch_io_ho_ricevuto_il_vaccino_anti-dengue-15055018/) (Lastampa.it)
 
 - [Empresa reforça produção do ‘Aedes do Bem’ após emergência de dengue em SP](https://veja.abril.com.br/coluna/radar/empresa-reforca-producao-do-aedes-do-bem-apos-emergencia-de-dengue-em-sp) (Abril.com.br)
 
