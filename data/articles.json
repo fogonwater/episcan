@@ -1,8 +1,770 @@
 {
-  "last_updated": "2025-03-18 07:07",
-  "count_articles_total": 1483,
-  "count_articles_new": 12,
+  "last_updated": "2025-03-18 19:05",
+  "count_articles_total": 1518,
+  "count_articles_new": 42,
   "articles": [
+    {
+      "id": 19366,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "John Werner, Contributor, \n John Werner, Contributor\n https://www.forbes.com/sites/johnwerner/",
+      "title": "Vaccines And AI",
+      "description": "Scientists are using AI to identify new ways to make vaccines, to better protect the body and generate very specific immune responses to stimuli.",
+      "url": "https://www.forbes.com/sites/johnwerner/2025/03/17/vaccines-and-ai/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67d8656b9d2ff69ba0e3cac9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-03-17 18:09:59",
+      "content": "virus vaccine and injection, 3d rendering getty Were familiar with the role of vaccines in preventatively treating conditions like measles and polio. But theres a lot more to it than that, especial\u2026 [+4557 chars]",
+      "retrievedAt": "2025-03-18 19:05:45.725509",
+      "internal_id": "fdee8f4977dfde312169237042a61dd2c35f26c95c6e45e1df6d4209d1848e24",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 19396,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Nacion.com",
+      "author": "\u00c1ngela \u00c1valos Rodr\u00edguez",
+      "title": "Ministerio de Salud reporta cambio en tendencia del dengue en Costa Rica",
+      "description": "El Ministerio de Salud registr\u00f3 un cambio considerable en la tendencia del dengue en Costa Rica.",
+      "url": "https://www.nacion.com/el-pais/ministerio-de-salud-reporta-cambio-en-tendencia/DY5YI3JB6VGSFDA4IYDLLFTGXY/story/",
+      "urlToImage": "https://www.nacion.com/resizer/v2/HSULSAM5ORGCPHX663LMZJM6YI.JPG?smart=true&auth=88e8fd8dc7b081e116b00694977405e4b23476c8949fd7240c977d2890354b12&width=1440",
+      "publishedAt": "2025-03-17 18:06:19",
+      "content": "La cantidad de enfermos de dengue registra una ca\u00edda significativa en las primeras nueve semanas epidemiol\u00f3gicas del 2025, seg\u00fan reporta el Ministerio de Salud.Contrario a lo sucedido en el 2024, est\u2026 [+2765 chars]",
+      "retrievedAt": "2025-03-18 19:05:47.360300",
+      "internal_id": "08d8a0263f1fd6b206510fc7c6e83c1ab131a23c844ed12ad72da500b8dced24",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 19375,
+      "query": [
+        "hpai",
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "La gripe aviar est\u00e1 presente en toda la pen\u00ednsula ant\u00e1rtica y afecta a m\u00e1s especies",
+      "description": "El virus se ha encontrado ahora en 24 localizaciones del continente blanco.",
+      "url": "https://www.montevideo.com.uy/Salud/La-gripe-aviar-esta-presente-en-toda-la-peninsula-antartica-y-afecta-a-mas-especies-uc917907",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/201502/_W933_80/486609.jpg",
+      "publishedAt": "2025-03-17 17:56:00",
+      "content": "El virus de la gripe aviar altamente patog\u00e9nica (HPAI H5N1) est\u00e1 extendido por toda la pen\u00ednsula ant\u00e1rtica e infecta ya desde ping\u00fcinos, a skuas, cormoranes o focas, seg\u00fan las conclusiones de una e\u2026 [+4568 chars]",
+      "retrievedAt": "2025-03-18 19:05:46.347092",
+      "internal_id": "a09397127b13ccf556b10ed64f9212b573b053a1f7a9054ca87e6c0abaeb6571",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 19386,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Nacion.com",
+      "author": "AFP",
+      "title": "Cepa de gripe aviar transmisible al ser humano reaparece en granja de pollos en Estados Unidos",
+      "description": "Casos de gripe aviar del tipo H7N9, una de las cepas responsables de los contagios humanos, se detectaron en una granja de pollos en Estados Unidos.",
+      "url": "https://www.nacion.com/el-mundo/cepa-de-gripe-aviar-transmisible-al-ser-humano/IWGWCMD7FRCLPCFOTFRHIIZGFU/story/",
+      "urlToImage": "https://www.nacion.com/resizer/v2/OXDZUX65JZHFHBSET6Z3FBWC44.jpg?smart=true&auth=7a63d6f7f2f9b5049bc8ac23e3f7efcb2127cb57c6081235d69af1b707d30c8e&width=1440",
+      "publishedAt": "2025-03-17 17:45:00",
+      "content": "Par\u00eds. Casos de gripe aviar del tipo H7N9, una de las cepas responsables de los contagios humanos, se detectaron en una granja de pollos en Estados Unidos, que ya enfrenta un brote de H5N1, anunci\u00f3 e\u2026 [+1830 chars]",
+      "retrievedAt": "2025-03-18 19:05:46.782755",
+      "internal_id": "7c116cd1f88d380a9e59105240770573381e0ff11fccf7caaff320547a647cfa",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 19400,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Der Tagesspiegel",
+      "title": "Sparma\u00dfnahmen: WHO-Chef bef\u00fcrchtet Millionen Tote durch US-F\u00f6rderstopp",
+      "description": "Lange standen die USA im Kampf gegen Aids, Tuberkulose oder Malaria an vorderster Front. Nun werden F\u00f6rdermittel drastisch gek\u00fcrzt. Die Weltgesundheitsorganisation gibt d\u00fcstere Prognosen ab.",
+      "url": "https://www.tagesspiegel.de/internationales/sparmassnahmen-who-chef-befurchtet-millionen-tote-durch-us-forderstopp-13384426.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/13384423/alternates/BASE_16_9_W1400/1742233299000/pressekonferenz-weltgesundheitsorganisation.jpeg",
+      "publishedAt": "2025-03-17 17:41:39",
+      "content": "Die K\u00fcrzung von US-Hilfsgeldern f\u00fchrt aus Sicht der Weltgesundheitsorganisation (WHO) zu massiven R\u00fcckschritten im globalen Kampf gegen t\u00f6dliche Krankheiten wie Malaria oder HIV. Sollte die Unterst\u00fct\u2026 [+2247 chars]",
+      "retrievedAt": "2025-03-18 19:05:48.065095",
+      "internal_id": "6c0d789c6e87e1e348f1bfdcd3d8186e8045ceb617718dc788fc8d3330035c6b",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 19398,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "ZEIT ONLINE: News -",
+      "title": "Sparma\u00dfnahmen: WHO-Chef bef\u00fcrchtet Millionen Tote durch US-F\u00f6rderstopp",
+      "description": "Hier finden Sie Informationen zu dem Thema \u201eSparma\u00dfnahmen\u201c. Lesen Sie jetzt \u201eWHO-Chef bef\u00fcrchtet Millionen Tote durch US-F\u00f6rderstopp\u201c.",
+      "url": "https://www.zeit.de/news/2025-03/17/who-chef-befuerchtet-millionen-tote-durch-us-foerderstopp",
+      "urlToImage": "https://img.zeit.de/news/2025-03/17/who-chef-befuerchtet-millionen-tote-durch-us-foerderstopp-image-group/wide__1300x731",
+      "publishedAt": "2025-03-17 17:40:31",
+      "content": "Die K\u00fcrzung von US-Hilfsgeldern f\u00fchrt aus Sicht der Weltgesundheitsorganisation (WHO) zu massiven R\u00fcckschritten im globalen Kampf gegen t\u00f6dliche Krankheiten wie Malaria oder HIV. Sollte die Unterst\u00fct\u2026 [+1526 chars]",
+      "retrievedAt": "2025-03-18 19:05:48.009050",
+      "internal_id": "17b128231c3c1aa968d20cbc85e056227d6610395bfb63ba9a70263f5fdc23de",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 19399,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "Sparma\u00dfnahmen: WHO-Chef bef\u00fcrchtet Millionen Tote durch US-F\u00f6rderstopp",
+      "description": "Lange standen die USA im Kampf gegen Aids, Tuberkulose oder Malaria an vorderster Front. Nun werden F\u00f6rdermittel drastisch gek\u00fcrzt. Die Weltgesundheitsorganisation gibt d\u00fcstere Prognosen ab.",
+      "url": "https://www.stern.de/politik/ausland/sparmassnahmen--who-chef-befuerchtet-millionen-tote-durch-us-foerderstopp-35559470.html",
+      "urlToImage": "https://image.stern.de/35559472/t/4P/v1/w1440/r1.7778/-/17--ck6pas2sjgv3axs2048jpeg---5c3a2e7be1260840.jpg",
+      "publishedAt": "2025-03-17 17:40:31",
+      "content": "Kopiere den aktuellen Link Zur Merkliste hinzuf\u00fcgen Lange standen die USA im Kampf gegen Aids, Tuberkulose oder Malaria an vorderster Front. Nun werden F\u00f6rdermittel drastisch gek\u00fcrzt. Die Weltgesun\u2026 [+1768 chars]",
+      "retrievedAt": "2025-03-18 19:05:48.019069",
+      "internal_id": "e6e8ec881ba989c01a0e06d3f4a8cb1daf05a4ac419a8f70651b79934583dae2",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 19401,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "DW (English)",
+      "author": "Deutsche Welle",
+      "title": "OMS: millones de vidas en peligro por recortes de EE.UU.",
+      "description": "Los efectos del retiro financiero aplicado por Trump har\u00e1 retroceder en d\u00e9cadas el control y avance de enfermedades como el sida, la malaria y el sarampi\u00f3n. El director general de la Organizaci\u00f3n Mundial de la Salud (OMS), Tedros Adhanom Ghebreyesus advirti\u00f3 \u2026",
+      "url": "https://www.dw.com/es/oms-millones-de-vidas-en-peligro-por-recortes-de-eeuu/a-71955064",
+      "urlToImage": "https://static.dw.com/image/71353560_6.jpg",
+      "publishedAt": "2025-03-17 17:17:00",
+      "content": "El director general de la Organizaci\u00f3n Mundial de la Salud (OMS), Tedros Adhanom Ghebreyesus advirti\u00f3 este lunes sobre el riesgo que significan los recortes presupuestarios de Estados Unidos a los pr\u2026 [+2508 chars]",
+      "retrievedAt": "2025-03-18 19:05:48.077069",
+      "internal_id": "d30f9fddb9d456fb7ef03a0b64e714d83242654c1292843967ced924e8c30d67",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 19392,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Www.abc.es",
+      "author": "(abc)",
+      "title": "Un antiviral muestra eficacia contra la gripe aviar en ratones",
+      "description": "El antiviral baloxavir, un medicamento ya comercializado en EE.UU., mejora los resultados en ratones infectados con el virus de la gripe aviar A (H5N1). Los resultados del estudio, publicados en la revista ' Nature Microbiology ', indican que el f\u00e1rmaco es m\u00e1\u2026",
+      "url": "https://www.abc.es/salud/enfermedades/antiviral-mejora-resultados-virus-gripe-aviar-ratones-20250317132556-nt.html",
+      "urlToImage": "https://s3.abcstatics.com/abc/www/multimedia/salud/2025/03/17/avian-gripe-U48488665820ycs-1024x512@diario_abc.jpg",
+      "publishedAt": "2025-03-17 17:05:10",
+      "content": "El antiviral baloxavir, un medicamento ya comercializado en EE.UU., mejora los resultados en ratones infectados con el virus de la gripe aviar A (H5N1). Los resultados del estudio, publicados en la r\u2026 [+3070 chars]",
+      "retrievedAt": "2025-03-18 19:05:46.877279",
+      "internal_id": "6f342f4e063e9eb32542e5d1da9fb104885a95d1cf04c5b61e586cf70b146cdf",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 19365,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Techdirt",
+      "author": "Dark Helmet",
+      "title": "There It Is: RFK Jr. Suggests Best Strategy For Combatting Measles Is For Everyone To Get It",
+      "description": "Well that was fast. We were just talking about RFK Jr.\u2019s recent comments on the measles outbreak in several southern states, mainly Texas, and how those comments were dangerous. The HHS Secretary, while not specifically denouncing the MMR vaccine, suggested t\u2026",
+      "url": "https://www.techdirt.com/2025/03/17/there-it-is-rfk-jr-suggests-best-strategy-for-combatting-measles-is-for-everyone-to-get-it/",
+      "urlToImage": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
+      "publishedAt": "2025-03-17 16:41:34",
+      "content": "from the just-the-vax-ma'am dept Well that was fast. We were just talking about RFK Jr.\u2019s recent comments on the measles outbreak in several southern states, mainly Texas, and how those comments wer\u2026 [+5138 chars]",
+      "retrievedAt": "2025-03-18 19:05:45.650452",
+      "internal_id": "56d3c4d7b19f5b8714a6e1afd0fdafdda588fa7465aa2b0e72774456dcd7e049",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 19378,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Www.dr.dk",
+      "author": null,
+      "title": "USA har registreret fugleinfluenza-type, landet ikke har set siden 2017",
+      "description": "Siden januar 2022 har fugleinfluenza af typen H5N1 ramt mere end 166 millioner fugle i USA og kostet en enkelt person livet.",
+      "url": "https://www.dr.dk/nyheder/seneste/usa-har-registreret-fugleinfluenza-type-landet-ikke-har-set-siden-2017",
+      "urlToImage": "https://asset.dr.dk/drdk/freja-images/317?im=AspectCrop%3D%28700%2C394%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%28700%2C394%29",
+      "publishedAt": "2025-03-17 16:34:00",
+      "content": "N\u00e5r indend\u00f8rs-VM i atletik skydes i gang i Nanjing i Kina p\u00e5 fredag, bliver det med et par unge, danske hurtigl\u00f8bere p\u00e5 st\u00e6vnets startliste. S\u00e5ledes skriver Dansk Atletik Forbund, at Ida Beiter Bomm\u2026 [+885 chars]",
+      "retrievedAt": "2025-03-18 19:05:46.631662",
+      "internal_id": "7f53a981b0dd8931dc731acb5b7c05937552c012df7467fdb04a1f7a0dc40464",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 19367,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Michael Head, Senior Research Fellow in Global Health, University of Southampton",
+      "title": "Europe faces worst measles outbreak since 1997 \u2013 new data",
+      "description": "Measles resurgence in Europe highlights need for higher vaccination rates.",
+      "url": "https://theconversation.com/europe-faces-worst-measles-outbreak-since-1997-new-data-252327",
+      "urlToImage": "https://images.theconversation.com/files/655615/original/file-20250317-74-864wcs.jpg?ixlib=rb-4.1.0&rect=16%2C354%2C5480%2C2736&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2025-03-17 16:33:09",
+      "content": "SamaraHeisz5/Shutterstock Europe has had the highest number of measles cases since 1997, according to a new report from the World Health Organization (WHO). There were 127,350 cases in 2024 \u2013 about \u2026 [+5353 chars]",
+      "retrievedAt": "2025-03-18 19:05:45.752182",
+      "internal_id": "eac184aec77266e8ef7aa28d61b3775e418b3e8010afc38cebdf922ca707f573",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 19369,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Michael Head, Senior Research Fellow in Global Health, University of Southampton",
+      "title": "Europe had worst measles outbreak since 1997 \u2013 new data",
+      "description": "Measles resurgence in Europe highlights need for higher vaccination rates.",
+      "url": "https://theconversation.com/europe-had-worst-measles-outbreak-since-1997-new-data-252327",
+      "urlToImage": "https://images.theconversation.com/files/655615/original/file-20250317-74-864wcs.jpg?ixlib=rb-4.1.0&rect=16%2C354%2C5480%2C2736&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2025-03-17 16:33:09",
+      "content": "SamaraHeisz5/Shutterstock Europe has had the highest number of measles cases since 1997, according to a new report from the World Health Organization (WHO). There were 127,350 cases in 2024 \u2013 about \u2026 [+5353 chars]",
+      "retrievedAt": "2025-03-18 19:05:45.800428",
+      "internal_id": "96b558675076f9efd8789b9e68ce6d3e412d02f721016cd4add75ad5fd47018d",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 19370,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "Trump Gloats About Dubious Golf Title as Americans Die in Severe Storms (Ryan Bort/Rolling Stone)",
+      "description": "Ryan Bort / Rolling Stone: Trump Gloats About Dubious Golf Title as Americans Die in Severe Storms \u2014 The president has a history of making outlandish claims about his golf game \u2014 The stock market is down, a measles outbreak is spreading, and tens of thous\u2026",
+      "url": "https://www.memeorandum.com/250317/p54",
+      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2025/03/trump-and-golf.jpg?crop=0px%2C116px%2C1798px%2C1014px&resize=1600%2C900",
+      "publishedAt": "2025-03-17 16:15:01",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-03-18 19:05:45.862087",
+      "internal_id": "33cf726d518eca1ab8da20b4f4b339889035ef3c13a4d2bf291ec926a2d90e0f",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 19383,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Mail.ru",
+      "author": "\u0418\u043d\u0435\u0441\u0441\u0430 \u041a\u0443\u0445\u0430\u0440\u0438\u0448\u0438\u043d\u0430",
+      "title": "\u041f\u0440\u0435\u0434\u043b\u043e\u0436\u0435\u043d\u043e \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c \u043b\u0435\u043a\u0430\u0440\u0441\u0442\u0432\u043e \u0431\u0430\u043b\u043e\u043a\u0441\u0430\u0432\u0438\u0440 \u0434\u043b\u044f \u0431\u043e\u0440\u044c\u0431\u044b \u0441 \u043f\u0442\u0438\u0447\u044c\u0438\u043c \u0433\u0440\u0438\u043f\u043f\u043e\u043c",
+      "description": "\u041d\u0430\u0431\u043b\u044e\u0434\u0435\u043d\u0438\u044f \u043f\u043e\u043a\u0430\u0437\u0430\u043b\u0438, \u0447\u0442\u043e \u0431\u0430\u043b\u043e\u043a\u0441\u0430\u0432\u0438\u0440 \u043f\u0440\u0435\u0434\u043e\u0442\u0432\u0440\u0430\u0442\u0438\u043b \u0432\u0441\u0435 \u0441\u043b\u0443\u0447\u0430\u0438 \u0433\u0438\u0431\u0435\u043b\u0438 \u043c\u044b\u0448\u0435\u0439 \u043f\u0440\u0438 \u043f\u043e\u043f\u0430\u0434\u0430\u043d\u0438\u0438 \u0432\u0438\u0440\u0443\u0441\u0430 \u043d\u0430 \u043f\u043e\u0432\u0435\u0440\u0445\u043d\u043e\u0441\u0442\u044c \u0433\u043b\u0430\u0437 \u0438 \u0437\u0430\u0449\u0438\u0442\u0438\u043b \u0431\u043e\u043b\u0435\u0435 75% \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u0445 \u043e\u0442 \u0441\u043c\u0435\u0440\u0442\u0438 \u043f\u0440\u0438 \u043f\u0440\u043e\u043d\u0438\u043a\u043d\u043e\u0432\u0435\u043d\u0438\u0438 H5N1 \u0432 \u043d\u043e\u0441\u043e\u0433\u043b\u043e\u0442\u043a\u0443.",
+      "url": "https://news.mail.ru/society/65316489/",
+      "urlToImage": "https://news.mail.ru/social_preview/65316489/?time=47fbe2a694bcd6fc118ddc18f43c9469",
+      "publishedAt": "2025-03-17 16:07:10",
+      "content": ", 17 . //. , H5N1, . Nature Microbiology. \u00ab 2025 H5N1, . , . , \u00bb, \u2014 . , 75% H5N1 . , , , . , H5N1. , \u2014 , 13 25% . , \u2026 [+36 chars]",
+      "retrievedAt": "2025-03-18 19:05:46.737204",
+      "internal_id": "96d4700a12858291741c0324e130c481b1b915216bec53854e6fe005011ff039",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 19391,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Eldiario.es",
+      "author": "elDiario.es",
+      "title": "Un antiviral ya aprobado se muestra m\u00e1s eficaz que el Tamiflu contra la gripe aviar en pruebas con ratones",
+      "description": "Un nuevo estudio demuestra que el antiviral baloxavir, aprobado por la FDA, mejora la evoluci\u00f3n de la enfermedad en ratones infectados, en comparaci\u00f3n con el tratamiento antigripal est\u00e1ndar actual, una \"buena noticia\" frente a un virus que \"representa una ame\u2026",
+      "url": "https://www.eldiario.es/sociedad/antiviral-aprobado-muestra-eficaz-tamiflu-gripe-aviar-pruebas-ratones_1_12138505.html",
+      "urlToImage": "https://static.eldiario.es/clip/14da0af6-799f-4635-be63-899f3846f895_facebook-watermarked-aspect-ratio_default_0.jpg",
+      "publishedAt": "2025-03-17 16:00:38",
+      "content": "El antiviral baloxavir, aprobado por la FDA, mejora la evoluci\u00f3n de la enfermedad en ratones infectados con el virus de la influenza aviar A (H5N1), en comparaci\u00f3n con el tratamiento antigripal est\u00e1n\u2026 [+4491 chars]",
+      "retrievedAt": "2025-03-18 19:05:46.869159",
+      "internal_id": "94d35504bb673ead0bc62a18644de51d6a3295ed77403deadb7f8ab133d3d601",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 19390,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Elespanol.com",
+      "author": "J.A. G\u00f3mez",
+      "title": "Un antiviral comercializado en EEUU muestra eficacia frente a la gripe aviar H5N1 en un experimento en ratones",
+      "description": "El f\u00e1rmaco muestra mejores resultados frente a la enfermedad que el tratamiento est\u00e1ndar actual con oseltamivir. M\u00e1s informaci\u00f3n: Qu\u00e9 pasar\u00eda si Espa\u00f1a sufre un brote de gripe aviar como el de EEUU en ganado: protocolos, per\u00edmetros y sacrificio animal",
+      "url": "https://www.elespanol.com/ciencia/salud/20250317/antiviral-comercializado-eeuu-muestra-eficacia-frente-gripe-aviar-h5n1-experimento-ratones/931907061_0.html",
+      "urlToImage": "https://s1.elespanol.com/2024/06/05/ciencia/salud/860674884_243792553_1706x960.jpg",
+      "publishedAt": "2025-03-17 16:00:16",
+      "content": "El antiviral baloxavir, aprobado por la FDA, ha demostrado mejorar los resultados de la enfermedad en ratones infectados con el virus de la influenza aviar A (H5N1), en comparaci\u00f3n con el tratamiento\u2026 [+3256 chars]",
+      "retrievedAt": "2025-03-18 19:05:46.854207",
+      "internal_id": "bdc8f82cc7f0c2a4cdd1f4fe1e26c6044b952272e201f76b66b1d386720e3353",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 19402,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "La OMS afirma que los avances de los \u00faltimos 20 a\u00f1os contra enfermedades est\u00e1n \"en riesgo\" tras los recortes de EEUU",
+      "description": "El director general de la Organizaci\u00f3n Mundial de la Salud (OMS), Tedros Adhanom Ghebreyesus, ha advertido este lunes de que los avances logrados en los \u00faltimos 20 a\u00f1os contra diversas enfermedades, como la malaria o el virus de la inmunodeficiencia humana (V\u2026",
+      "url": "https://www.infosalus.com/actualidad/noticia-oms-afirma-avances-ultimos-20-anos-contra-enfermedades-estan-riesgo-recortes-eeuu-20250317165638.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20250317165638_1200.jpg",
+      "publishedAt": "2025-03-17 15:56:38",
+      "content": "MADRID 17 Mar. (EUROPA PRESS) - El director general de la Organizaci\u00f3n Mundial de la Salud (OMS), Tedros Adhanom Ghebreyesus, ha advertido este lunes de que los avances logrados en los \u00faltimos 20 \u2026 [+5917 chars]",
+      "retrievedAt": "2025-03-18 19:05:48.086962",
+      "internal_id": "ac76e1e09df77c1e168ab4c9efdbb16a2b727d77df393562edecec02713c947c",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 19374,
+      "query": [
+        "hpai",
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Newsit.gr",
+      "author": "\u0388\u03c1\u03b9\u03ba\u03b1 \u03a4\u03b5\u03ba\u03c4\u03bf\u03bd\u03af\u03b4\u03bf\u03c5",
+      "title": "\u0397\u03a0\u0391: \u0388\u03be\u03b1\u03c1\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03c6\u03bf\u03bd\u03b9\u03ba\u03ae\u03c2 \u03b3\u03c1\u03af\u03c0\u03b7\u03c2 \u03c4\u03c9\u03bd \u03c0\u03c4\u03b7\u03bd\u03ce\u03bd H7N9 \u03b3\u03b9\u03b1 \u03c0\u03c1\u03ce\u03c4\u03b7 \u03c6\u03bf\u03c1\u03ac \u03b1\u03c0\u03cc \u03c4\u03bf 2017",
+      "description": "\u039f\u03b9 \u0397\u03a0\u0391 \u03ba\u03b1\u03c4\u03ad\u03b3\u03c1\u03b1\u03c8\u03b1\u03bd \u03c4\u03b7\u03bd \u03c0\u03c1\u03ce\u03c4\u03b7, \u03b1\u03c0\u03cc \u03c4\u03bf 2017, \u03ad\u03be\u03b1\u03c1\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03c6\u03bf\u03bd\u03b9\u03ba\u03ae\u03c2 \u03b3\u03c1\u03af\u03c0\u03b7\u03c2 \u03c4\u03c9\u03bd \u03c0\u03c4\u03b7\u03bd\u03ce\u03bd H7N9 \u03c3\u03b5 \u03bc\u03b9\u03b1 \u03c6\u03ac\u03c1\u03bc\u03b1 \u03c0\u03bf\u03c5\u03bb\u03b5\u03c1\u03b9\u03ba\u03ce\u03bd, \u03ba\u03b1\u03b8\u03ce\u03c2 \u03b7 \u03c7\u03ce\u03c1\u03b1 \u03c0\u03c1\u03bf\u03c3\u03c0\u03b1\u03b8\u03b5\u03af \u03bd\u03b1 \u03b1\u03bd\u03c4\u03b9\u03bc\u03b5\u03c4\u03c9\u03c0\u03af\u03c3\u03b5\u03b9 ... To \u03ac\u03c1\u03b8\u03c1\u03bf \u0397\u03a0\u0391: \u0388\u03be\u03b1\u03c1\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03c6\u03bf\u03bd\u03b9\u03ba\u03ae\u03c2 \u03b3\u03c1\u03af\u03c0\u03b7\u03c2 \u03c4\u03c9\u03bd \u03c0\u03c4\u03b7\u03bd\u03ce\u03bd H7N9 \u03b3\u03b9\u03b1 \u03c0\u03c1\u03ce\u03c4\u03b7 \u03c6\u03bf\u03c1\u03ac \u03b1\u03c0\u03cc \u03c4\u03bf 2017 \u03b4\u03b7\u03bc\u03bf\u03c3\u03b9\u03b5\u03cd\u03c4\u03b7\u03ba\u03b5 \u03c3\u03c4\u03bf NewsI\u2026",
+      "url": "https://www.newsit.gr/kosmos/ipa-eksarsi-tis-fonikis-gripis-ton-ptinon-H7N9-gia-proti-fora-apo-to-2017/4334372/",
+      "urlToImage": "https://www.newsit.gr/wp-content/uploads/2025/03/BIRD_FLU_REUTERS_231120241-1200x6751-1-1200x630.jpg",
+      "publishedAt": "2025-03-17 15:52:21",
+      "content": "17:52 17 2025 , 2017, H7N9 , -. . , , . , H5N1. H7N9 , 40% 2013, . H7N9 47.654 , , , , , . \u00ab (HPAI) 79 . \u00bb, . \u00ab ( \u2014 APHIS) , \u00bb, .",
+      "retrievedAt": "2025-03-18 19:05:46.330300",
+      "internal_id": "960d8a67382686553e4da48113e16f4116bb03d8a9d5563ffb8e41f2cb47baf5",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 19373,
+      "query": [
+        "hpai",
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Protothema.gr",
+      "author": null,
+      "title": "\u0388\u03be\u03b1\u03c1\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03c6\u03bf\u03bd\u03b9\u03ba\u03ae\u03c2 \u03b3\u03c1\u03af\u03c0\u03b7\u03c2 \u03c4\u03c9\u03bd \u03c0\u03c4\u03b7\u03bd\u03ce\u03bd H7N9 \u03c3\u03c4\u03b9\u03c2 \u0397\u03a0\u0391 \u03b3\u03b9\u03b1 \u03c0\u03c1\u03ce\u03c4\u03b7 \u03c6\u03bf\u03c1\u03ac \u03b1\u03c0\u03cc \u03c4\u03bf 2017",
+      "description": "\u0395\u03bd\u03c4\u03bf\u03c0\u03af\u03c3\u03c4\u03b7\u03ba\u03b5 \u03c3\u03b5 \u03b1\u03b3\u03c1\u03cc\u03ba\u03c4\u03b7\u03bc\u03b1 \u03b4\u03b5\u03ba\u03ac\u03b4\u03c9\u03bd \u03c7\u03b9\u03bb\u03b9\u03ac\u03b4\u03c9\u03bd \u03c0\u03bf\u03c5\u03bb\u03b5\u03c1\u03b9\u03ba\u03ce\u03bd \u03c3\u03c4\u03bf \u039c\u03b9\u03c3\u03b9\u03c3\u03af\u03c0\u03b9 - \u0395\u03c0\u03b9\u03ba\u03af\u03bd\u03b4\u03c5\u03bd\u03bf \u03c3\u03c4\u03ad\u03bb\u03b5\u03c7\u03bf\u03c2 \u03ba\u03b1\u03b9 \u03b1\u03bd \u03c0\u03b5\u03c1\u03ac\u03c3\u03b5\u03b9 \u03c3\u03c4\u03bf\u03bd \u03ac\u03bd\u03b8\u03c1\u03c9\u03c0\u03bf | \u0397\u03a0\u0391 | \u0393\u03c1\u03af\u03c0\u03b7 | \u03a0\u03bf\u03c5\u03bb\u03b5\u03c1\u03b9\u03ba\u03ac | \u039a\u03cc\u03c3\u03bc\u03bf\u03c2",
+      "url": "https://www.protothema.gr/world/article/1614273/exarsi-tis-fonikis-gripis-ton-ptinon-h7n9-stis-ipa-gia-proti-fora-apo-to-2017/",
+      "urlToImage": "https://www.protothema.gr/images/640x360share/2/jpg/files/2021-07-15/gripi_ptinon.jpg",
+      "publishedAt": "2025-03-17 15:31:04",
+      "content": ", 2017, H7N9, -.. , , . , H5N1., H7N9 , 40% 2013, . H7N9 47.654 , , , , , . \u00ab (HPAI) 79 \u00bb, .",
+      "retrievedAt": "2025-03-18 19:05:46.320110",
+      "internal_id": "16a45ed09035190311eccbbf6e22fe92034a8b557ccf685754d4e4bf4570f3c6",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 19372,
+      "query": [
+        "hpai",
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Skai.gr",
+      "author": "Newsroom",
+      "title": "\u0397\u03a0\u0391: \u039f\u03b9 \u03b1\u03c1\u03c7\u03ad\u03c2 \u03ba\u03b1\u03c4\u03ad\u03b3\u03c1\u03b1\u03c8\u03b1\u03bd \u03c4\u03b7\u03bd \u03c0\u03c1\u03ce\u03c4\u03b7 \u03b1\u03c0\u03cc \u03c4\u03bf 2017 \u03ad\u03be\u03b1\u03c1\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03c6\u03bf\u03bd\u03b9\u03ba\u03ae\u03c2 \u03b3\u03c1\u03af\u03c0\u03b7\u03c2 \u03c4\u03c9\u03bd \u03c0\u03c4\u03b7\u03bd\u03ce\u03bd",
+      "description": "\u0397 \u03c0\u03b9\u03bf \u03c0\u03c1\u03cc\u03c3\u03c6\u03b1\u03c4\u03b7 \u03ad\u03be\u03b1\u03c1\u03c3\u03b7 \u03c4\u03bf\u03c5 H7N9 \u03b5\u03bd\u03c4\u03bf\u03c0\u03af\u03c3\u03c4\u03b7\u03ba\u03b5 \u03c3\u03b5 \u03ad\u03bd\u03b1 \u03b1\u03b3\u03c1\u03cc\u03ba\u03c4\u03b7\u03bc\u03b1 47.654 \u03c0\u03bf\u03c5\u03bb\u03b5\u03c1\u03b9\u03ba\u03ce\u03bd \u03b5\u03bc\u03c0\u03bf\u03c1\u03b9\u03ba\u03ae\u03c2 \u03b1\u03bd\u03b1\u03c0\u03b1\u03c1\u03b1\u03b3\u03c9\u03b3\u03ae\u03c2 \u03c3\u03c4\u03bf \u039d\u03cc\u03be\u03b5\u03bc\u03c0\u03b9, \u03c3\u03c4\u03bf \u039c\u03b9\u03c3\u03b9\u03c3\u03af\u03c0\u03b9, \u03b1\u03bd\u03ad\u03c6\u03b5\u03c1\u03b5 \u03bf \u03a0\u03b1\u03b3\u03ba\u03cc\u03c3\u03bc\u03b9\u03bf\u03c2 \u039f\u03c1\u03b3\u03b1\u03bd\u03b9\u03c3\u03bc\u03cc\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03a5\u03b3\u03b5\u03af\u03b1 \u03c4\u03c9\u03bd \u0396\u03ce\u03c9\u03bd",
+      "url": "https://www.skai.gr/news/world/ipa-katagrafike-i-proti-apo-to-2017-eksarsi-tis-fonikis-gripis-ton-ptinon",
+      "urlToImage": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/feedelio/ap25070505435373_93887a.jpg?itok=EKmHqTKe",
+      "publishedAt": "2025-03-17 15:27:55",
+      "content": ", 2017, H7N9 , -. . , , . , H5N1. H7N9 , 616 , 39% 1.568 , 2013 , . H7N9 47.654 , , , , , . \" (HPAI) 79 . \", . \" ( -- APHIS) , \", . .Skai.gr Google News .",
+      "retrievedAt": "2025-03-18 19:05:46.311472",
+      "internal_id": "ed74fbe2049806700f19941994d87b9521e351ebc2086eafb38b3fc0262f3a29",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 19385,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "liberation",
+      "source_name": "Lib\u00e9ration",
+      "author": "LIBERATION, AFP",
+      "title": "Grippe aviaire : r\u00e9apparition d\u2019une souche transmissible \u00e0 l\u2019homme dans un \u00e9levage de poulets aux Etats-Unis",
+      "description": "Des cas de grippe aviaire de type H7N9, une des principales souches \u00e0 l\u2019origine des contaminations humaines, ont \u00e9t\u00e9 confirm\u00e9s dans un \u00e9levage de poulets aux Etats-Unis, d\u00e9j\u00e0 confront\u00e9s \u00e0 une flamb\u00e9e de H5N1.",
+      "url": "https://www.liberation.fr/societe/sante/grippe-aviaire-reapparition-dune-souche-transmissible-a-lhomme-dans-un-elevage-de-poulets-aux-etats-unis-20250317_W37PJYBJRFDP5D3SAQITJUOCGI/",
+      "urlToImage": "https://www.liberation.fr/resizer/xYchf4uxPkhvjsURa_hwCtGEN5w=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/LMWW6VQEQBG4RNRAKHWBDBP2DA.jpg",
+      "publishedAt": "2025-03-17 15:17:12",
+      "content": "Comme un air de d\u00e9j\u00e0-vu. Aux Etats-Unis, en proie depuis plusieurs mois \u00e0 une flamb\u00e9e de H5N1, des cas de grippe aviaire de type H7N9 ont \u00e9t\u00e9 confirm\u00e9s dans un \u00e9levage de poulets du Mississippi, a in\u2026 [+2488 chars]",
+      "retrievedAt": "2025-03-18 19:05:46.761959",
+      "internal_id": "6d4a171cb2e1c237b4c115d3cb84453cc138e44f5b8ef293060014174ae79b96",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 19380,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "info-money",
+      "source_name": "InfoMoney",
+      "author": "Reuters",
+      "title": "EUA registram primeiro surto da gripe avi\u00e1ria letal H7N9 desde 2017",
+      "description": "A cepa que causou mais danos \u00e0s aves nos \u00faltimos anos e a morte de uma pessoa nos EUA \u00e9 a H5N1 The post EUA registram primeiro surto da gripe avi\u00e1ria letal H7N9 desde 2017 appeared first on InfoMoney.",
+      "url": "https://www.infomoney.com.br/mundo/eua-registram-primeiro-surto-da-gripe-aviaria-letal-h7n9-desde-2017/",
+      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2024/12/2024-12-06T201031Z_1_LYNXNPEKB50RG_RTROPTP_4_HEALTH-BIRD-FLU.jpg?quality=70",
+      "publishedAt": "2025-03-17 15:15:35",
+      "content": "Os Estados Unidos relataram o primeiro surto da gripe avi\u00e1ria mortal H7N9 em uma granja av\u00edcola desde 2017, enquanto o pa\u00eds continua a enfrentar outra cepa de gripe avi\u00e1ria que infectou seres humanos\u2026 [+1457 chars]",
+      "retrievedAt": "2025-03-18 19:05:46.703471",
+      "internal_id": "141db905effec5d9738e1b79dc877c224b19605635eba224be4a469f584a67e6",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 19382,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "POLITICO.eu",
+      "author": "Bartosz Brzezi\u0144ski",
+      "title": "UN agency warns of \u2018unprecedented\u2019 bird flu threat as H5N1 virus jumps to mammals",
+      "description": "Food and Agriculture Organization warns of \"serious impacts\" on food production, rural jobs, local economies and prices to consumers.",
+      "url": "https://www.politico.eu/article/un-agency-warns-of-unprecedented-bird-flu-threat-as-h5n1-virus-jumps-to-mammals/",
+      "urlToImage": "https://www.politico.eu/wp-content/themes/politico/assets/images/politico-billboard.png",
+      "publishedAt": "2025-03-17 15:09:18",
+      "content": "The virus isnt stopping at poultry barns. H5N1 has also surfaced in wild and domestic mammals, including zoo animals, pets and dairy cattle. While human infections remain rare, the European Food Saf\u2026 [+1109 chars]",
+      "retrievedAt": "2025-03-18 19:05:46.728464",
+      "internal_id": "2e4df66234577dcd23676f7e29e4e5ee27748c6706e6e524b071b42c5fc8051f",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 19376,
+      "query": [
+        "hpai",
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Naftemporiki.gr",
+      "author": "\u039c\u03b1\u03c1\u03af\u03b1 \u0393\u03b5\u03c9\u03c1\u03b3\u03b1\u03ba\u03bf\u03c0\u03bf\u03cd\u03bb\u03bf\u03c5",
+      "title": "\u0397\u03a0\u0391: \u039a\u03b1\u03c4\u03b1\u03b3\u03c1\u03ac\u03c6\u03b7\u03ba\u03b5 \u03b7 \u03c0\u03c1\u03ce\u03c4\u03b7, \u03b1\u03c0\u03cc \u03c4\u03bf 2017, \u03ad\u03be\u03b1\u03c1\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03c6\u03bf\u03bd\u03b9\u03ba\u03ae\u03c2 \u03b3\u03c1\u03af\u03c0\u03b7\u03c2 \u03c4\u03c9\u03bd \u03c0\u03c4\u03b7\u03bd\u03ce\u03bd \u03977\u039d9",
+      "description": "\u03a4\u03b7\u03bd \u03c0\u03c1\u03ce\u03c4\u03b7, \u03b1\u03c0\u03cc \u03c4\u03bf 2017, \u03ad\u03be\u03b1\u03c1\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03c6\u03bf\u03bd\u03b9\u03ba\u03ae\u03c2 \u03b3\u03c1\u03af\u03c0\u03b7\u03c2 \u03c4\u03c9\u03bd \u03c0\u03c4\u03b7\u03bd\u03ce\u03bd H7N9 \u03c3\u03b5 \u03bc\u03b9\u03b1 \u03c6\u03ac\u03c1\u03bc\u03b1 \u03c0\u03bf\u03c5\u03bb\u03b5\u03c1\u03b9\u03ba\u03ce\u03bd \u03ba\u03b1\u03c4\u03ad\u03b3\u03c1\u03b1\u03c8\u03b1\u03bd \u03bf\u03b9 \u0397\u03bd\u03c9\u03bc\u03ad\u03bd\u03b5\u03c2 \u03a0\u03bf\u03bb\u03b9\u03c4\u03b5\u03af\u03b5\u03c2, \u03c4\u03b7\u03bd \u03ce\u03c1\u03b1 \u03c0\u03bf\u03c5 \u03b7 \u03c7\u03ce\u03c1\u03b1 \u03c0\u03c1\u03bf\u03c3\u03c0\u03b1\u03b8\u03b5\u03af \u03bd\u03b1 \u03b1\u03bd\u03c4\u03b9\u03bc\u03b5\u03c4\u03c9\u03c0\u03af\u03c3\u03b5\u03b9 \u03ad\u03bd\u03b1 \u03ac\u03bb\u03bb\u03bf\u2026 \u0397\u03a0\u0391: \u039a\u03b1\u03c4\u03b1\u03b3\u03c1\u03ac\u03c6\u03b7\u03ba\u03b5 \u03b7 \u03c0\u03c1\u03ce\u03c4\u03b7, \u03b1\u03c0\u03cc \u03c4\u03bf 2017, \u03ad\u03be\u03b1\u03c1\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03c6\u03bf\u03bd\u03b9\u03ba\u03ae\u03c2 \u03b3\u03c1\u03af\u03c0\u03b7\u03c2 \u03c4\u03c9\u03bd \u03c0\u03c4\u03b7\u03bd\u03ce\u03bd \u03977\u039d\u2026",
+      "url": "https://www.naftemporiki.gr/kosmos/1933992/ipa-katagrafike-i-proti-apo-to-2017-exarsi-tis-fonikis-gripis-ton-ptinon-i7n9/",
+      "urlToImage": "https://www.naftemporiki.gr/wp-content/uploads/2023/02/2023-02-15T095514Z_273477669_RC2ZAZ9AKYUQ_RTRMADP_3_HEALTH-BIRDFLU.jpg",
+      "publishedAt": "2025-03-17 15:05:30",
+      "content": ", 2017, H7N9 , -. . , , . , H5N1. H7N9 , 40% 2013, . H7N9 47.654 , , , , , . \u00ab (HPAI) 79 . \u00bb, . \u00ab ( \u2013 APHIS) , \u00bb, . : , AFP, Reuters",
+      "retrievedAt": "2025-03-18 19:05:46.361320",
+      "internal_id": "840506630ed4eedae05ff18a5116ace1e77da071ccec0b366c3d2f14d29b3ca1",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 19389,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Catracalivre.com.br",
+      "author": "Silvia Melo",
+      "title": "Estudo alerta que queijo envelhecido pode abrigar v\u00edrus perigoso",
+      "description": "Os queijos feitos de leite cru podem abrigar o v\u00edrus H5N1, causador da gripe avi\u00e1ria, por meses, segundo um estudo recente da Universidade de Cornell, nos Estados Unidos. A pesquisa, financiada pela FDA (Food and Drug Administration), levanta preocupa\u00e7\u00f5es sob\u2026",
+      "url": "https://catracalivre.com.br/saude-bem-estar/estudo-alerta-que-queijo-envelhecido-pode-abrigar-virus-perigoso/",
+      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1280,h=680,fit=cover,format=jpeg/wp-content/uploads/2025/03/queijo-envelhecido-virus.jpg",
+      "publishedAt": "2025-03-17 14:59:21",
+      "content": "Os queijos feitos de leite cru podem abrigar o v\u00edrus H5N1, causador da gripe avi\u00e1ria, por meses, segundo um estudo recente da Universidade de Cornell, nos Estados Unidos. A pesquisa, financiada pela \u2026 [+2213 chars]",
+      "retrievedAt": "2025-03-18 19:05:46.845292",
+      "internal_id": "0cc899650b238b510f8965542e8896ec64961acfb20125aa3827986d7b33041d",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 19368,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "After CDC pick is abruptly yanked, worry over U.S. measles messaging remains (Washington Post)",
+      "description": "Washington Post: After CDC pick is abruptly yanked, worry over U.S. measles messaging remains \u2014 Medical experts and politicians question who will be chosen as the CDC's next leader amid a surge in measles cases and concerns over vaccine-preventable diseases.",
+      "url": "https://www.memeorandum.com/250317/p39",
+      "urlToImage": "http://www.memeorandum.com/m/config/politics/iicon.gif",
+      "publishedAt": "2025-03-17 14:35:00",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-03-18 19:05:45.760894",
+      "internal_id": "db4bcc83369c6963f7f6a0fd8f1a933f938000945079f1913e2a44f8b570cdfb",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 19384,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Milenio",
+      "author": "Agencia AFP",
+      "title": "Brote de gripe aviar H7N9 reaparece en granja de EU; es capaz de infectar a humanos",
+      "description": "Casos de gripe aviar del tipo H7N9, una de las cepas responsables de los contagios humanos, se detectaron en una granja de pollos en Estados Unidos, que ya enfrenta un brote de H5N1, anunci\u00f3 el lunes la Organizaci\u00f3n Mundial de Sanidad Animal.\"Se detect\u00f3 la pr\u2026",
+      "url": "https://www.milenio.com/internacional/brote-gripe-aviar-h7n9-reaparece-granja-eu",
+      "urlToImage": "https://cdn.milenio.com/uploads/media/2024/06/06/hombre-anos-fallecio-contagiarse-gripe.jpg",
+      "publishedAt": "2025-03-17 14:19:03",
+      "content": "Casos de gripe aviar del tipo H7N9, una de las cepas responsables de los contagios humanos, se detectaron en una granja de pollos en Estados Unidos, que ya enfrenta un brote de H5N1, anunci\u00f3 el lunes\u2026 [+2006 chars]",
+      "retrievedAt": "2025-03-18 19:05:46.745785",
+      "internal_id": "0df0883268a54c0daeb67486d519b9dab2f7c25d6eb11976e129d5652b5cf403",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 19363,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Philip P. Mshelbwala, Kinley Wangdi, Jibrin Idris, Mohammad Mahmudul Hassan, Andrew M. Adamu, Charles E. Rupprecht, Nicholas J. Clark",
+      "title": "Traditional practices versus modern healthcare: Determinants of traditional medicine use after potential dog bites among dog-owning households in Nigeria",
+      "description": "Author summary Canine rabies is endemic in Nigeria, with low canine vaccination rates. Dog bite victims frequently resort to traditional remedies, which can lead to fatalities. We conducted a study across three states in Nigeria and the Federal Capital Territ\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012910",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012910.g003&size=inline",
+      "publishedAt": "2025-03-17 14:00:00",
+      "content": "Abstract Canine rabies is endemic in Nigeria, with a low dog vaccination rate. Often, dog bite victims resort to traditional remedies, which can lead to fatalities. Our study investigated factors in\u2026 [+40437 chars]",
+      "retrievedAt": "2025-03-18 19:05:45.375318",
+      "internal_id": "d65898581ff4d84a01792e6bd4087a0fa55f8e4b5b4fafca2da48bd99ae7a254",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 19381,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Activistpost.com",
+      "author": "Editor",
+      "title": "RFK Jr.: Mass Vaccination Of Birds Could Turn Them Into \u201cMutation Factories\u201d For Bird Flu",
+      "description": "The Trump administration seeks to mass-vaccinate birds to prevent avian influenza. However, Health and Human Services Secretary Robert F. Kennedy, Jr., has said that vaccinating the nation\u2019s poultry flocks against pervasive H5N1 bird flu could turn them into \u2026",
+      "url": "https://www.activistpost.com/rfk-jr-mass-vaccination-of-birds-could-turn-them-into-mutation-factories-for-bird-flu/",
+      "urlToImage": "https://www.activistpost.com/wp-content/uploads/2025/03/birdflu.jpg",
+      "publishedAt": "2025-03-17 14:00:00",
+      "content": "The Trump administration seeks to mass-vaccinate birds to prevent avian influenza. However, Health and Human Services Secretary Robert F. Kennedy, Jr., has said that vaccinating the nations poultry f\u2026 [+2272 chars]",
+      "retrievedAt": "2025-03-18 19:05:46.711720",
+      "internal_id": "906c0f9ce1f497e4fc947340a93264ad2071fc96f2739c8a2eb318379b5d90ba",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 19395,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Bikila Negesa Gobena, Teshome Kabeta Dadi, Gemechu Chemeda Feyisa, Birhanu Kenate, Gemechu Shumi, Fantahun Workie, Haimanot Workie, Ebise Djirata, Dabesa Gobena",
+      "title": "Unraveling the dynamics of dengue in Metahara town, East Shewa, Oromia, Ethiopia, 2023",
+      "description": "Author summary In early 2023, the Town of Metahara experienced a significant outbreak of dengue. The authors conducted an investigation into how the disease spread, what factors enhanced the outbreak, and the strategy to manage the dengue outbreak. Accordingl\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012908",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012908.g002&size=inline",
+      "publishedAt": "2025-03-17 14:00:00",
+      "content": "Abstract Background Since 2013, dengue cases have shown a marked increase in Ethiopia. The current suspected outbreak occurring in Metahara town, Oromia Regional State, began in July 2023. This stu\u2026 [+45841 chars]",
+      "retrievedAt": "2025-03-18 19:05:47.349778",
+      "internal_id": "fa01f85907167eb4ad8eaf4e15103936795c6393cf300f9043e1eff121d2691f",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 19403,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Whitney C. Weber, Zachary J. Streblow, Takeshi F. Andoh, Michael Denton, Hans-Peter Rau\u00e9, Ian J. Amanna, Dawn K. Slifka, Craig N. Kreklywich, Irene Arduino, Gauthami Sulgey, Magdalene M. Streblow, Mark T. Heise, Mark K. Slifka, Daniel N. Streblow",
+      "title": "Development of a virulent O\u2019nyong\u2019nyong challenge model to determine heterologous protection mediated by a hydrogen peroxide-inactivated chikungunya virus vaccine",
+      "description": "Author summary O\u2019nyong-nyong virus (ONNV) is a mosquito transmitted virus capable of causing debilitating arthritis and myalgia in humans. While the virus is currently circulating in Africa, there is a lack of FDA-approved countermeasures to prevent or treat \u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012938",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012938.g006&size=inline",
+      "publishedAt": "2025-03-17 14:00:00",
+      "content": "Abstract Onyong-nyong virus (ONNV) is a mosquito-transmitted alphavirus identified in Uganda in 1959. The virus has potential for enzootic and urban transmission cycles, and in humans, ONNV infectio\u2026 [+68817 chars]",
+      "retrievedAt": "2025-03-18 19:05:48.811970",
+      "internal_id": "03416908aa72514802d59f45e3f41486526b5d7b9d31124116205cb7cbd5e65c",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 19404,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Pavlo Petakh, Valentyn Oksenych, Oleksandr Kamyshnyi",
+      "title": "Prevalence of leptospirosis among soldiers: A systematic review",
+      "description": "Author summary Leptospirosis is a bacterial disease that spreads through contaminated water and soil, often affecting people who work in wet and muddy conditions. Soldiers are at high risk of infection, especially in tropical regions, where the disease is mor\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012927",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012927.g002&size=inline",
+      "publishedAt": "2025-03-17 14:00:00",
+      "content": "1. Introduction Leptospirosis, first described as Weils disease by German physician Adolf Weil in 1886, is an infectious disease characterized by splenomegaly, jaundice, and nephritis [1]. Transmiss\u2026 [+18084 chars]",
+      "retrievedAt": "2025-03-18 19:05:49.580826",
+      "internal_id": "61c3adfeae8ec4419b81a35a40ec513b6c4e874ec4563e2f1c8d625bae1e6f81",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 19377,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "CHIP Online Deutschland",
+      "author": "Peter Zimmermann",
+      "title": "Wie gef\u00e4hrlich ist Rohmilch wirklich? Vogelgrippevirus in K\u00e4se entdeckt",
+      "description": "Forscher finden den Vogelgrippevirus in Rohmilchk\u00e4se. Was das nun f\u00fcr K\u00e4seliebhaber bedeutet, erfahren Sie hier.",
+      "url": "https://www.chip.de/nachrichten/gesundheit,133928/wie-gefaehrlich-ist-rohmilch-wirklich-vogelgrippevirus-in-kaese-entdeckt_e3071dd8-df5e-4190-b8c5-70373da32373.html",
+      "urlToImage": "https://quadro.burda-forward.de/ctf/2f62a8d2-2c6f-4976-a78a-fe20f57e7965.0b6b44bd-4c40-4b3b-a03b-3508299201c6.jpg?im=RegionOfInterestCrop%3D%281200%2C630%29%2CregionOfInterest%3D%28881%2C598%29&hash=767566334ba4b447754f96c5fbe0d65e884c57d85ae7265cbe9cf7c5e1fefc8a",
+      "publishedAt": "2025-03-17 13:40:00",
+      "content": "Forscher haben das Vogelgrippevirus H5N1 in Rohmilchk\u00e4se gefunden. Die Wissenschaftler konnten nachweisen, dass das Virus in verschiedenen K\u00e4sesorten monatelang infekti\u00f6s bleibt und ein potenzielles \u2026 [+1095 chars]",
+      "retrievedAt": "2025-03-18 19:05:46.621830",
+      "internal_id": "f206a1e0d21710a165b275588cb7e87c62b2d8a02f6bdfcf489f2202a62b3b25",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 19397,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Rio amplia para 18 anos faixa et\u00e1ria para vacina\u00e7\u00e3o da dengue",
+      "description": "Medida vale at\u00e9 26 de mar\u00e7o; munic\u00edpio registrou em fevereiro a primeira morte pela doen\u00e7a",
+      "url": "https://valor.globo.com/brasil/noticia/2025/03/17/rio-amplia-para-18-anos-faixa-etaria-para-vacinacao-da-dengue.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/V1UqmGPMlfyLGLep7uZOf_Wmfgg=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2024/c/A/UXCddZSXAHr4wkaY3yWg/vacina-dengue-11.jpg",
+      "publishedAt": "2025-03-17 13:30:55",
+      "content": "A Secretaria Municipal de Sa\u00fade (SMS) do Rio de Janeiro ampliou o p\u00fablico-alvo da vacina\u00e7\u00e3o contra a dengue para adolescentes de 17 a 18 anos. A medida vale at\u00e9 o dia 26 de mar\u00e7o. Segundo informa\u00e7\u00f5es\u2026 [+818 chars]",
+      "retrievedAt": "2025-03-18 19:05:47.374163",
+      "internal_id": "06bc907c9b7aee2ab32d03b41200536cd56324826de0e42e2d2801aa469a3dbd",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 19371,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Measles cases confirmed in Edmonton, triggering public health warning",
+      "description": "Confirmed cases of measles in the Edmonton region have public health officials issuing a warning about the potential risk of exposure.",
+      "url": "https://www.cbc.ca/news/canada/edmonton/edmonton-measles-exposures-1.7485363",
+      "urlToImage": "https://i.cbc.ca/1.7474391.1741129224!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_1180/toronto-vaccine-fight.jpg?im=Resize%3D620",
+      "publishedAt": "2025-03-17 13:19:09",
+      "content": "Confirmed measles cases in the Edmonton region have public health officials issuing a warning about the potential risk of exposure. In a public health advisory issued late Sunday, Alberta Health Se\u2026 [+2505 chars]",
+      "retrievedAt": "2025-03-18 19:05:45.929259",
+      "internal_id": "5667b1ba0d880e584376a818ce3a4bc73ffe7641a47f3c17c0671873d5c940a6",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 19387,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "YLE News",
+      "author": null,
+      "title": "Helsingist\u00e4 kuolleena l\u00f6ydetyll\u00e4 kanahaukalla todettu lintuinfluenssa",
+      "description": "Suomeen saapuvien lintujen talvehtimisalueilla on ollut runsaasti lintuinfluenssatapauksia.",
+      "url": "https://yle.fi/a/74-20150024",
+      "urlToImage": "https://images.cdn.yle.fi/image/upload/c_crop,x_0,y_1280,w_3456,h_1945/w_1200,ar_1.91,c_fill/q_auto:eco,f_auto,fl_lossy/v1468491282/17-58759578765e085e16",
+      "publishedAt": "2025-03-17 12:03:18",
+      "content": "Helsingist\u00e4 l\u00f6ytyneell\u00e4 kanahaukalla on todettu lintuinfluenssa. Havainto linnusta on tehty 9. maaliskuuta. Ruokaviraston mukaan kanahaukalla todettiin korkeapatogeeninen H5N1-virustyyppi 14. maalis\u2026 [+1432 chars]",
+      "retrievedAt": "2025-03-18 19:05:46.793016",
+      "internal_id": "24247bb85ccb8f495773399134ed9f65fa0d825776b0f0f01d0d9299fbf61c94",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 19388,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "UN News",
+      "author": "dpicampaigns",
+      "title": "FAO warns of \u2018unprecedented\u2019 avian flu spread, in call for global action",
+      "description": "The rapid spread of the highly infectious avian flu virus H5N1 has reached an \u201cunprecedented\u201d scale, wiping out hundreds of millions of birds worldwide and increasingly spilling over into mammals, the UN Food and Agriculture Organization (FAO) warned on Monda\u2026",
+      "url": "https://news.un.org/en/story/2025/03/1161186",
+      "urlToImage": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2017/02/26685/image770x420cropped.jpg",
+      "publishedAt": "2025-03-17 12:00:00",
+      "content": "Briefing Member States in Rome, FAO officials called for urgent action to strengthen biosecurity, surveillance and rapid-response mechanisms to curb the outbreak. FAO Deputy Director-General Godfrey\u2026 [+2278 chars]",
+      "retrievedAt": "2025-03-18 19:05:46.820960",
+      "internal_id": "0259ca69bc9bf87d78774ad364309840e25c17d738e76c11ba4b914f482cb627",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 19364,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Maria Godoy",
+      "title": "Measles remains a danger to health even years after an infection",
+      "description": "The measles outbreak in Texas and New Mexico is now close to 300 cases. Most are unvaccinated children. People usually recover, but doctors are stressing how dangerous and long-lasting it can be.",
+      "url": "https://www.npr.org/sections/shots-health-news/2025/03/17/nx-s1-5328765/measles-outbreak-health-risk",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3100x1744+0+290/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0d%2F11%2F9cf6d5f8418b962716e6a152ad14%2Fgettyimages-1266944621.jpg",
+      "publishedAt": "2025-03-17 11:00:00",
+      "content": "The measles outbreak in Texas and New Mexico is now close to 300 reported cases, surpassing the total number of cases in all of the U.S. in 2024. The outbreak is happening in remote, rural areas. Th\u2026 [+4600 chars]",
+      "retrievedAt": "2025-03-18 19:05:45.617398",
+      "internal_id": "38ccc0bc262cdfadeef9c804b74892dd0d3b166826a694fac71956afe91cadaf",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 19379,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Cnbeta.com.tw",
+      "author": null,
+      "title": "\u9e21\u86cb\u4ef7\u683c\u98d9\u5347 \u5982\u4f55\u65e0\u9700\u82b1\u8d39\u4e00\u5927\u7b14\u94b1\u5c31\u80fd\u83b7\u5f97\u66ff\u4ee3\u86cb\u767d\u8d28\uff1f",
+      "description": "\u4f9b\u9700\u95ee\u9898\u8d8b\u4e8e\u5e73\u7a33\uff0c\u79bd\u6d41\u611f\u75ab\u60c5\u6709\u6240\u7f13\u89e3\uff0c\u7f8e\u56fd\u5404\u5730\u9e21\u86cb\u4ef7\u683c\u5df2\u7f13\u6162\u4e0b\u964d\u3002\u4f46\u517b\u6b96\u4e1a\u59cb\u7ec8\u662f\u4e00\u4e2a\u9ad8\u4e0d\u786e\u5b9a\u6027\u7684\u884c\u4e1a\uff0c\u4e0d\u592a\u53ef\u80fd\u4fdd\u6301\u7a33\u5b9a\u3002\u56e0\u6b64\uff0c\u73b0\u5728\u662f\u5bfb\u627e\u66f4\u7269\u6709\u6240\u503c\u7684\u86cb\u767d\u8d28\u66ff\u4ee3\u54c1\u7684\u7edd\u4f73\u65f6\u673a\u3002 \u4eca\u5e74 2 \u6708\uff0c\u7f8e\u56fd\u9e21\u86cb\u4ef7\u683c\u6500\u5347\u81f3 45 \u5e74\u6765\u7684\u6700\u9ad8\u6c34\u5e73\uff0c\u4eba\u4eec\u5f00\u59cb\u5bf9\u9e21\u86cb\u4ef7\u683c\u548c\u968f\u4e4b\u800c\u6765\u7684\u77ed\u7f3a\u611f\u5230\u6050\u614c\uff0c\u8fd9\u662f\u53ef\u4ee5\u7406\u89e3\u7684\uff1b\u4f20\u7edf\u4e0a\uff0c\u9e21\u86cb\u662f\u4e00\u79cd\u53ef\u9760\u3001\u5ec9\u4ef7\u4e14\u7528\u9014\u5e7f\u6cdb\u7684\u86cb\u767d\u8d28\u6765\u6e90\uff0c\u5f88\u96be\u4e0e\u9e21\u86cb\u76f8\u5ab2\u7f8e\u3002\u5f53\uff08\u800c\u4e0d\u662f\u5982\u679c\uff09\u79bd\u6d41\u611f\u7206\u53d1\u6a21\u5f0f\u7ee7\u7eed\u5f71\u54cd\u4f9b\u5e94\u548c\u6210\u672c\u65f6\uff0c\u9e21\u86cb\u5c06\u518d\u6b21\u6210\u4e3a\u8d85\u5e02\u8d27\u67b6\u4e0a\u62a2\u8d2d\u4e00\u7a7a\u7684\u70ed\u95e8\u5546\u54c1\u3002\u5f17\u5409\u5c3c\u4e9a\u7406\u5de5\u5927\u5b66\u7ecf\u6d4e\u5b66\u5bb6\u8d3e\u5fb7\u91cc\u5b89\u00b7\u4f0d\u987f\u8bf4\uff1a\u201c\u4e0d\u5e78\u7684\u662f\uff0c\u6211\u4eec\u65e0\u2026",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1486042.htm",
+      "urlToImage": "https://static.cnbetacdn.com/article/2025/0317/d83400d6eb327f3.jpg",
+      "publishedAt": "2025-03-17 10:05:42",
+      "content": "2 45 \u00b7 H5N1 Bethany Agusala 20 10% 35% 0.8 0.36 150 54 56 52 46 70 71 1.2 1.2-1.7 / 6 3 14-26 3 22 11 21 15 7 14 18 9 8 B12 2",
+      "retrievedAt": "2025-03-18 19:05:46.655591",
+      "internal_id": "18b3bd06752cc59451a3c41e53f4a79ba52db361edb76193a8b9368e33b68ca8",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 19394,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": "Manya Singh",
+      "title": "As Summer Approaches, Your Risk Of Dengue & Chikungunya Increases; Here's How To Stay Safe",
+      "description": "Taking proper precautions can significantly reduce the risk of infections, keep reading as we share some tips.",
+      "url": "https://www.ndtv.com/health/as-summer-approaches-your-risk-of-dengue-chikungunya-increases-heres-how-to-stay-safe-7941812",
+      "urlToImage": "https://c.ndtvimg.com/2024-07/dsnbf6c8_lookout-for-these-symptoms-of-dengue_625x300_12_July_24.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "publishedAt": "2025-03-17 07:56:43",
+      "content": "The risk of Dengue and Chikungunya increases as summer approaches due to the rise in temperature and humidity, which create an ideal breeding environment for Aedes mosquitoes, the primary carriers of\u2026 [+3717 chars]",
+      "retrievedAt": "2025-03-18 19:05:47.335402",
+      "internal_id": "81602be98fd0b92ee22b416371d587dcac8d9aad3c12f8ca650b09df10f97a32",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 19393,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Novinky.cz",
+      "author": "Filip \u0160\u00e1ra",
+      "title": "V\u011bdci potvrzuj\u00ed v\u00fdskyt vysoce patogenn\u00ed pta\u010d\u00ed ch\u0159ipky v Antarktid\u011b",
+      "description": "V\u00fdzkumn\u00edci z Chile odhalili \u00famrtnost chaluhovit\u00fdch pt\u00e1k\u016f v Antarktid\u011b zp\u016fsobenou vysoce patogenn\u00ed pta\u010d\u00ed ch\u0159ipkou H5N1. Uv\u00e1d\u00ed to nov\u00e1 studie zve\u0159ejn\u011bn\u00e1 minul\u00fd t\u00fdden. P\u0159\u00edslu\u0161n\u00fd kmen pta\u010d\u00ed ch\u0159ipky se \u0161\u00ed\u0159\u00ed na jih pod\u00e9l Antarktick\u00e9ho poloostrova a m\u016f\u017ee zdecimovat \u2026",
+      "url": "https://www.novinky.cz/clanek/veda-skoly-vedci-potvrzuji-vyskyt-vysoce-patogenni-ptaci-chripky-v-antarktide-40513207",
+      "urlToImage": "https://d15-a.sdn.cz/d_15/c_img_oX_A/nPw2pRkMOeCg8klUKCmLyAc/eeca/image.jpeg?fl=cro,0,0,1920,1080%7Cres,1200,,1%7Cwebp,75",
+      "publishedAt": "2025-03-17 07:51:00",
+      "content": "Nov\u00e1 studie, kter\u00e1 zahrnovala rozs\u00e1hl\u00fd sbr vzork a laboratorn\u00ed anal\u00fdzu, potvrzuje, e virus se pem\u00edstil z Jin\u00ed Ameriky do Antarktidy, \u00edm ohrouje jeden z nejist\u00edch a nejkeh\u00edch ekosyst\u00e9m na Zemi. Smrte\u2026 [+2180 chars]",
+      "retrievedAt": "2025-03-18 19:05:46.904434",
+      "internal_id": "977ff0b80eeb20c63055b917707bd3373f291dddc79a38e819f652f55fe30c48",
+      "publishedAtLabel": "Mar 17"
+    },
     {
       "id": 19359,
       "query": [
@@ -26608,132 +27370,6 @@
       "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
       "retrievedAt": "2025-02-04 07:07:01.212340",
       "internal_id": "84f684308ba4ffa4fa15abb09ec46a7cc9d97d0bdd6c4486dce11d79ab56adcc",
-      "publishedAtLabel": "Feb 2"
-    },
-    {
-      "id": 17883,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "WTVD-TV",
-      "author": "Marisa Sardonia",
-      "title": "Bird flu in NC | Dead bird at Lake Julian Park receives 'preliminarily positive' test result for bird flu",
-      "description": "Despite these findings, the park will remain open, but visitors are advised to avoid touching or feeding waterfowl.",
-      "url": "https://abc11.com/post/bird-flu-nc-dead-lake-julian-park-receives-preliminarily-positive-test-result/15857185/",
-      "urlToImage": "https://cdn.abcotvs.com/dip/images/15857173_WLOSbirdflu0201.JPG?w=1600",
-      "publishedAt": "2025-02-02 17:46:41",
-      "content": "ASHEVILLE, N.C. -- Buncombe County officials report that a dead waterfowl bird at Lake Julian Park has received a \"preliminarily positive\" test result for Avian Influenza H5N1, commonly known as bird\u2026 [+957 chars]",
-      "retrievedAt": "2025-02-03 19:06:09.443906",
-      "internal_id": "94402575c35587377ac4ad2a7a1727d800e99d1911b97a966af8fb975be3b790",
-      "publishedAtLabel": "Feb 2"
-    },
-    {
-      "id": 17880,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "cbs-news",
-      "source_name": "CBS News",
-      "author": "Martha Teichner",
-      "title": "As bird flu ravages poultry industry, the damage spreads",
-      "description": "After the current strain of bird flu, H5N1, reached the U.S. in 2022, more than 148 million birds have been euthanized. What is the outbreak's potential impacts on humans, the poultry industry, egg prices, and U.S. exports?",
-      "url": "https://www.cbsnews.com/news/as-bird-flu-ravages-poultry-industry-the-damage-spreads/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/02/02/93af99c1-1c8d-4e2c-800f-17dd5b5e4b02/thumbnail/1200x630/03efc2d452e36c47154559d65c6838e9/bird-flu-1280.jpg?v=a599723035d2f104d7a2d01edbe96ef8",
-      "publishedAt": "2025-02-02 15:19:13",
-      "content": "There are seven generations of Corwins in the Aquebogue, Long Island, town cemetery. Their graves overlook the farm that's been in the family since the 1640s. Some family members' tombstones are ador\u2026 [+3931 chars]",
-      "retrievedAt": "2025-02-03 19:06:09.333622",
-      "internal_id": "25bd8193ca7d177522316a0e614c00e6a5a2e623f266149c0c7d0824e9f4a878",
-      "publishedAtLabel": "Feb 2"
-    },
-    {
-      "id": 17882,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "cbs-news",
-      "source_name": "CBS News",
-      "author": "CBS News",
-      "title": "The impact from bird flu spreads",
-      "description": "After H5N1, the current strain of bird flu, reached the United States in 2022, more than 148 million chickens, turkeys and other farm birds have been euthanized. Since last year, when the virus jumped from poultry and wild birds to mammals, the number of huma\u2026",
-      "url": "https://www.cbsnews.com/video/the-impact-from-bird-flu-spreads/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/02/02/1f3e29e1-72c9-426f-844a-61ba60eed817/thumbnail/1200x630/26f6c05a310603b67fd3bf816bcfc7a8/bird-flu-1920.jpg?v=a599723035d2f104d7a2d01edbe96ef8",
-      "publishedAt": "2025-02-02 15:18:00",
-      "content": "Watch CBS News Copyright \u00a92025 CBS Interactive Inc. All rights reserved. Get browser notifications for breaking news, live events, and exclusive reporting. Not NowTurn On",
-      "retrievedAt": "2025-02-03 19:06:09.368737",
-      "internal_id": "7894cedbb7b7f5a5689adafe70d2d4355399dad9cedb443b03f43a6921ef0908",
-      "publishedAtLabel": "Feb 2"
-    },
-    {
-      "id": 17881,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Rg.ru",
-      "author": null,
-      "title": "Nature: \u0420\u0430\u0441\u0442\u0435\u0442 \u0440\u0438\u0441\u043a \u043d\u043e\u0432\u043e\u0439 \u043f\u0430\u043d\u0434\u0435\u043c\u0438\u0438, \u0432\u044b\u0437\u0432\u0430\u043d\u043d\u043e\u0439 \u043f\u0442\u0438\u0447\u044c\u0438\u043c \u0433\u0440\u0438\u043f\u043f\u043e\u043c",
-      "description": "\u041f\u0442\u0438\u0447\u0438\u0439 \u0432\u0438\u0440\u0443\u0441 \u0433\u0440\u0438\u043f\u043f\u0430 H5N1 \u0430\u0434\u0430\u043f\u0442\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u043a \u043d\u043e\u0432\u044b\u043c \u0445\u043e\u0437\u044f\u0435\u0432\u0430\u043c - \u043c\u043b\u0435\u043a\u043e\u043f\u0438\u0442\u0430\u044e\u0449\u0438\u043c, \u0438 \u044d\u0442\u043e \u043f\u043e\u0432\u044b\u0448\u0430\u0435\u0442 \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u044c \u0435\u0433\u043e \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0435\u043d\u0438\u044f \u0441\u0440\u0435\u0434\u0438 \u043b\u044e\u0434\u0435\u0439.",
-      "url": "https://rg.ru/2025/02/02/nature-rastet-risk-novoj-pandemii-vyzvannoj-ptichim-grippom.html",
-      "urlToImage": "https://cdnstatic.rg.ru/uploads/images/2025/02/02/istock-2173054299-1_573.jpg",
-      "publishedAt": "2025-02-02 15:16:01",
-      "content": ", . 68 , . , \"\" , Nature. , , H5N1, , , . - , , . \" , , ( - . \") \", - Nature , , , . , , . H5N1: , B3.13, ; , D1.1, , , . B3.13 , 900 16 , , , . , , , , , . 40 . , . , . Nature, 24 , , D1.\u2026 [+62 chars]",
-      "retrievedAt": "2025-02-03 19:06:09.361221",
-      "internal_id": "09a328c5fd62404d20e1f9ca5e4949d4dbfdd18adf23087b1d12af5944ec7f2f",
-      "publishedAtLabel": "Feb 2"
-    },
-    {
-      "id": 17886,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Haber7.com",
-      "author": "Ramazan Y\u0131ld\u0131z",
-      "title": "Uganda'da M \u00e7i\u00e7e\u011fi vir\u00fcs\u00fcne kar\u015f\u0131 a\u015f\u0131 kampanyas\u0131 seferberli\u011fi",
-      "description": "Uganda'da Afrika Hastal\u0131k Kontrol ve \u00d6nleme Merkezleri (Africa CDC) taraf\u0131ndan ba\u011f\u0131\u015flanan 2 bin doz a\u015f\u0131, bin ki\u015fiye uygulanmaya ba\u015fland\u0131.",
-      "url": "https://www.haber7.com/dunya/haber/3501667-ugandada-m-cicegi-virusune-karsi-asi-kampanyasi-seferberligi",
-      "urlToImage": "https://i20.haber7.net/resize/1280x720//haber/haber7/photos/2025/05/ugandada_m_cicegi_virusune_karsi_asi_kampanyasi_seferberligi_1738501558_3925.jpg",
-      "publishedAt": "2025-02-02 13:06:00",
-      "content": "Uganda'nn bakenti Kampala'da M \u00e7i\u00e7ei vir\u00fcs\u00fc (Mpox) salgnyla m\u00fccadele kapsamnda y\u00fcksek risk gruplar ve salk \u00e7alanlarna y\u00f6nelik alama kampanyasnn ilk aamas balatld. Yerel basna yansyan haberlere g\u00f6re,\u2026 [+1110 chars]",
-      "retrievedAt": "2025-02-03 19:06:11.973579",
-      "internal_id": "44bab71e5765b926fdbbd9268eb1cf6c7843aead436f2d4c077a071f744390bc",
-      "publishedAtLabel": "Feb 2"
-    },
-    {
-      "id": 17885,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Anadolu Agency",
-      "author": null,
-      "title": "Uganda, M \u00e7i\u00e7e\u011fi vir\u00fcs\u00fc salg\u0131n\u0131yla m\u00fccadele kapsam\u0131nda a\u015f\u0131 kampanyas\u0131 ba\u015flatt\u0131",
-      "description": "Uganda'n\u0131n ba\u015fkenti Kampala'da M \u00e7i\u00e7e\u011fi vir\u00fcs\u00fc (Mpox) salg\u0131n\u0131yla m\u00fccadele kapsam\u0131nda y\u00fcksek risk gruplar\u0131 ve sa\u011fl\u0131k \u00e7al\u0131\u015fanlar\u0131na y\u00f6nelik a\u015f\u0131lama kampanyas\u0131n\u0131n ilk a\u015famas\u0131 ba\u015flat\u0131ld\u0131. - Anadolu Ajans\u0131",
-      "url": "https://www.aa.com.tr/tr/dunya/uganda-m-cicegi-virusu-salginiyla-mucadele-kapsaminda-asi-kampanyasi-baslatti/3469451",
-      "urlToImage": "https://cdnuploads.aa.com.tr/uploads/Contents/2025/02/02/thumbs_b_c_1c8532de8fa50550880b9b8ccb27dabb.jpg",
-      "publishedAt": "2025-02-02 12:23:48",
-      "content": "Yerel basna yansyan haberlere g\u00f6re, Afrika Hastalk Kontrol ve \u00d6nleme Merkezleri (Africa CDC) tarafndan balanan 2 bin doz a, bin kiiye uygulanmaya baland. Uganda Salk Bakanlndan yaplan a\u00e7klamada, Ara\u2026 [+1108 chars]",
-      "retrievedAt": "2025-02-03 19:06:11.953773",
-      "internal_id": "29b55ce4fdc54c5a52962349ec0dbb7e2fda51a19aee93b301f9d3aaae835ca4",
-      "publishedAtLabel": "Feb 2"
-    },
-    {
-      "id": 17884,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Www.dr.dk",
-      "author": null,
-      "title": "Danmark har ikke tabt ved VM siden 2017: 'Der var jeg lige kommet tilbage fra meningitis'",
-      "description": "Ungarn er det seneste hold, der har sl\u00e5et Danmark ved VM i herreh\u00e5ndbold.",
-      "url": "https://www.dr.dk/sporten/haandbold/vm/danmark-har-ikke-tabt-ved-vm-siden-2017-der-var-jeg-lige-kommet-tilbage-fra",
-      "urlToImage": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fwww.dr.dk%2Fimages%2Fother%2F2025%2F02%2F01%2Fscanpix-20250131-223129-l.jpg&w=1200",
-      "publishedAt": "2025-02-02 07:31:00",
-      "content": "Den 27-\u00e5rige m\u00e5lmand, som har haft over 100 redninger indtil videre ved dette VM, var 19 \u00e5r og havde netop v\u00e6ret igennem et sygdomsforl\u00f8b. - Der var jeg lige kommet tilbage fra meningitis. Det var e\u2026 [+450 chars]",
-      "retrievedAt": "2025-02-03 19:06:10.239102",
-      "internal_id": "a483b8a9c9449681a365c38d6144ba8fba11c39eb3049318e23228e7283d079b",
       "publishedAtLabel": "Feb 2"
     }
   ]

@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 12
-- **Last harvest:** 2025-03-18 07:07
-- **Most recent article:** 2025-03-17 04:00:00
+- **New articles in last harvest:** 42
+- **Last harvest:** 2025-03-18 19:05
+- **Most recent article:** 2025-03-17 18:09:59
 
 ---
 
@@ -12,20 +12,20 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-10 | 25-11 | 25-12 | 25-6 | 25-7 | 25-8 | 25-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 142 | 126 | 4 | 24 | 72 | 83 | 162 | 613 |
-| h5n1 | 23 | 39 | 4 | 71 | 55 | 54 | 42 | 288 |
-| dengue | 8 | 12 | 0 | 33 | 37 | 57 | 30 | 177 |
-| malaria | 29 | 22 | 3 | 25 | 12 | 7 | 20 | 118 |
-| mpox | 14 | 15 | 1 | 28 | 18 | 15 | 26 | 117 |
-| meningitis | 4 | 9 | 0 | 2 | 12 | 11 | 7 | 45 |
-| hpai | 10 | 3 | 2 | 3 | 9 | 5 | 4 | 36 |
-| chikungunya | 6 | 1 | 0 | 8 | 5 | 3 | 7 | 30 |
-| rabies | 3 | 8 | 1 | 4 | 5 | 4 | 2 | 27 |
+| measles | 142 | 126 | 12 | 24 | 72 | 83 | 162 | 621 |
+| h5n1 | 23 | 39 | 26 | 67 | 55 | 54 | 42 | 306 |
+| dengue | 8 | 12 | 4 | 33 | 37 | 57 | 30 | 181 |
+| malaria | 29 | 22 | 8 | 25 | 12 | 7 | 20 | 123 |
+| mpox | 14 | 15 | 1 | 26 | 18 | 15 | 26 | 115 |
+| meningitis | 4 | 9 | 0 | 1 | 12 | 11 | 7 | 44 |
+| hpai | 10 | 3 | 7 | 3 | 9 | 5 | 4 | 41 |
+| chikungunya | 6 | 1 | 2 | 8 | 5 | 3 | 7 | 32 |
+| rabies | 3 | 8 | 2 | 4 | 5 | 4 | 2 | 28 |
 | typhoid | 3 | 8 | 0 | 2 | 3 | 0 | 4 | 20 |
 | zika | 3 | 0 | 0 | 6 | 2 | 6 | 2 | 19 |
 | pertussis | 0 | 5 | 0 | 3 | 3 | 2 | 0 | 13 |
 | yersinia | 1 | 2 | 0 | 0 | 5 | 0 | 2 | 10 |
-| leptospirosis | 3 | 0 | 0 | 0 | 0 | 2 | 0 | 5 |
+| leptospirosis | 3 | 0 | 1 | 0 | 0 | 2 | 0 | 6 |
 | shigellosis | 3 | 0 | 0 | 0 | 0 | 0 | 1 | 4 |
 
 
@@ -1793,15 +1793,9 @@ Source: [News API](https://newsapi.org/)
 
 - [New mpox vaccination sites open across England for high-risk people](https://news.sky.com/story/new-mpox-vaccination-sites-open-across-england-for-high-risk-people-13302169) (Sky.com)
 
-- [Uganda'da M çiçeği virüsüne karşı aşı kampanyası seferberliği](https://www.haber7.com/dunya/haber/3501667-ugandada-m-cicegi-virusune-karsi-asi-kampanyasi-seferberligi) (Haber7.com)
-
-- [Uganda, M çiçeği virüsü salgınıyla mücadele kapsamında aşı kampanyası başlattı](https://www.aa.com.tr/tr/dunya/uganda-m-cicegi-virusu-salginiyla-mucadele-kapsaminda-asi-kampanyasi-baslatti/3469451) (Anadolu Agency)
-
 ## 25-6 (meningitis)
 
 - [Love Changes the Heart—More Than Metaphorically](https://www.theepochtimes.com/health/love-changes-the-heart-more-than-metaphorically-5804355) (Theepochtimes.com)
-
-- [Danmark har ikke tabt ved VM siden 2017: 'Der var jeg lige kommet tilbage fra meningitis'](https://www.dr.dk/sporten/haandbold/vm/danmark-har-ikke-tabt-ved-vm-siden-2017-der-var-jeg-lige-kommet-tilbage-fra) (Www.dr.dk)
 
 ## 25-6 (measles)
 
@@ -2049,14 +2043,6 @@ Source: [News API](https://newsapi.org/)
 
 - [大S猝逝占据大陆热搜 中共隐瞒疫情误事(组图)](https://www.secretchina.com/news/gb/2025/02/03/1077055.html) (Secretchina.com)
 
-- [Bird flu in NC | Dead bird at Lake Julian Park receives 'preliminarily positive' test result for bird flu](https://abc11.com/post/bird-flu-nc-dead-lake-julian-park-receives-preliminarily-positive-test-result/15857185/) (WTVD-TV)
-
-- [As bird flu ravages poultry industry, the damage spreads](https://www.cbsnews.com/news/as-bird-flu-ravages-poultry-industry-the-damage-spreads/) (CBS News)
-
-- [The impact from bird flu spreads](https://www.cbsnews.com/video/the-impact-from-bird-flu-spreads/) (CBS News)
-
-- [Nature: Растет риск новой пандемии, вызванной птичьим гриппом](https://rg.ru/2025/02/02/nature-rastet-risk-novoj-pandemii-vyzvannoj-ptichim-grippom.html) (Rg.ru)
-
 ## 25-6 (dengue)
 
 - [Anvisa: Como usar repelentes contra o mosquito da dengue de forma eficaz](https://catracalivre.com.br/saude-bem-estar/anvisa-como-usar-repelentes-contra-o-mosquito-da-dengue-de-forma-eficaz/) (Catracalivre.com.br)
@@ -2145,6 +2131,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-12 (rabies)
 
+- [Traditional practices versus modern healthcare: Determinants of traditional medicine use after potential dog bites among dog-owning households in Nigeria](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012910) (Plos.org)
+
 - [Bacolod to construct animal shelter](https://rpnradio.com/bacolod-to-construct-animal-shelter/) (Rpnradio.com)
 
 ## 25-12 (mpox)
@@ -2152,6 +2140,22 @@ Source: [News API](https://newsapi.org/)
 - [Clinical and Epidemiologic Characteristics of Mpox Cases, Dominican Republic, July 2022–February 2023](https://wwwnc.cdc.gov/eid/article/31/5/24-1299_article) (Cdc.gov)
 
 ## 25-12 (measles)
+
+- [Vaccines And AI](https://www.forbes.com/sites/johnwerner/2025/03/17/vaccines-and-ai/) (Forbes)
+
+- [There It Is: RFK Jr. Suggests Best Strategy For Combatting Measles Is For Everyone To Get It](https://www.techdirt.com/2025/03/17/there-it-is-rfk-jr-suggests-best-strategy-for-combatting-measles-is-for-everyone-to-get-it/) (Techdirt)
+
+- [Europe faces worst measles outbreak since 1997 – new data](https://theconversation.com/europe-faces-worst-measles-outbreak-since-1997-new-data-252327) (The Conversation Africa)
+
+- [Europe had worst measles outbreak since 1997 – new data](https://theconversation.com/europe-had-worst-measles-outbreak-since-1997-new-data-252327) (The Conversation Africa)
+
+- [Trump Gloats About Dubious Golf Title as Americans Die in Severe Storms (Ryan Bort/Rolling Stone)](https://www.memeorandum.com/250317/p54) (Memeorandum.com)
+
+- [After CDC pick is abruptly yanked, worry over U.S. measles messaging remains (Washington Post)](https://www.memeorandum.com/250317/p39) (Memeorandum.com)
+
+- [Measles cases confirmed in Edmonton, triggering public health warning](https://www.cbc.ca/news/canada/edmonton/edmonton-measles-exposures-1.7485363) (CBC News)
+
+- [Measles remains a danger to health even years after an infection](https://www.npr.org/sections/shots-health-news/2025/03/17/nx-s1-5328765/measles-outbreak-health-risk) (NPR)
 
 - [A visit with a family in mourning](https://www.metafilter.com/208047/A-visit-with-a-family-in-mourning) (Metafilter.com)
 
@@ -2163,19 +2167,87 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-12 (malaria)
 
+- [Sparmaßnahmen: WHO-Chef befürchtet Millionen Tote durch US-Förderstopp](https://www.tagesspiegel.de/internationales/sparmassnahmen-who-chef-befurchtet-millionen-tote-durch-us-forderstopp-13384426.html) (Der Tagesspiegel)
+
+- [Sparmaßnahmen: WHO-Chef befürchtet Millionen Tote durch US-Förderstopp](https://www.zeit.de/news/2025-03/17/who-chef-befuerchtet-millionen-tote-durch-us-foerderstopp) (Die Zeit)
+
+- [Sparmaßnahmen: WHO-Chef befürchtet Millionen Tote durch US-Förderstopp](https://www.stern.de/politik/ausland/sparmassnahmen--who-chef-befuerchtet-millionen-tote-durch-us-foerderstopp-35559470.html) (STERN.de)
+
+- [OMS: millones de vidas en peligro por recortes de EE.UU.](https://www.dw.com/es/oms-millones-de-vidas-en-peligro-por-recortes-de-eeuu/a-71955064) (DW (English))
+
+- [La OMS afirma que los avances de los últimos 20 años contra enfermedades están "en riesgo" tras los recortes de EEUU](https://www.infosalus.com/actualidad/noticia-oms-afirma-avances-ultimos-20-anos-contra-enfermedades-estan-riesgo-recortes-eeuu-20250317165638.html) (Infosalus.com)
+
 - [HIV, TB, Malaria services in Cameroon remain free of charge, Public Health Minister reaffirms](https://cameroonnewsagency.com/hiv-tb-malaria-services-in-cameroon-remain-free-of-charge-public-health-minister-reaffirms/) (Cameroonnewsagency.com)
 
 - [Microbiota de los pingüinos, esperanza inmunológica contra la malaria o la leishmaniosis](https://forbes.com.mx/microbiota-de-los-pinguinos-esperanza-inmunologica-contra-la-malaria-o-la-leishmaniosis/) (Forbes.com.mx)
 
 - [Lost Places mitten im Meer: Verlassene Inseln mit Grusel-Faktor](https://www.n-tv.de/mediathek/bilderserien/panorama/Verlassene-Inseln-mit-Grusel-Faktor-article25571806.html) (N-tv.de)
 
+## 25-12 (leptospirosis)
+
+- [Prevalence of leptospirosis among soldiers: A systematic review](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012927) (Plos.org)
+
 ## 25-12 (hpai)
+
+- [La gripe aviar está presente en toda la península antártica y afecta a más especies](https://www.montevideo.com.uy/Salud/La-gripe-aviar-esta-presente-en-toda-la-peninsula-antartica-y-afecta-a-mas-especies-uc917907) (Montevideo.com.uy)
+
+- [ΗΠΑ: Έξαρση της φονικής γρίπης των πτηνών H7N9 για πρώτη φορά από το 2017](https://www.newsit.gr/kosmos/ipa-eksarsi-tis-fonikis-gripis-ton-ptinon-H7N9-gia-proti-fora-apo-to-2017/4334372/) (Newsit.gr)
+
+- [Έξαρση της φονικής γρίπης των πτηνών H7N9 στις ΗΠΑ για πρώτη φορά από το 2017](https://www.protothema.gr/world/article/1614273/exarsi-tis-fonikis-gripis-ton-ptinon-h7n9-stis-ipa-gia-proti-fora-apo-to-2017/) (Protothema.gr)
+
+- [ΗΠΑ: Οι αρχές κατέγραψαν την πρώτη από το 2017 έξαρση της φονικής γρίπης των πτηνών](https://www.skai.gr/news/world/ipa-katagrafike-i-proti-apo-to-2017-eksarsi-tis-fonikis-gripis-ton-ptinon) (Skai.gr)
+
+- [ΗΠΑ: Καταγράφηκε η πρώτη, από το 2017, έξαρση της φονικής γρίπης των πτηνών Η7Ν9](https://www.naftemporiki.gr/kosmos/1933992/ipa-katagrafike-i-proti-apo-to-2017-exarsi-tis-fonikis-gripis-ton-ptinon-i7n9/) (Naftemporiki.gr)
 
 - [Bird flu detected in Philadelphia live poultry market: USDA](https://www.fox29.com/news/bird-flu-detected-philadelphia-live-poultry-market-usda) (FOX 29 News Philadelphia)
 
 - [Alarma en la Antártida: Confirman un brote masivo de gripe aviar en varias especies](https://es.gizmodo.com/alarma-en-la-antartida-confirman-un-brote-masivo-de-gripe-aviar-en-varias-especies-2000154626) (Gizmodo.com)
 
 ## 25-12 (h5n1)
+
+- [La gripe aviar está presente en toda la península antártica y afecta a más especies](https://www.montevideo.com.uy/Salud/La-gripe-aviar-esta-presente-en-toda-la-peninsula-antartica-y-afecta-a-mas-especies-uc917907) (Montevideo.com.uy)
+
+- [Cepa de gripe aviar transmisible al ser humano reaparece en granja de pollos en Estados Unidos](https://www.nacion.com/el-mundo/cepa-de-gripe-aviar-transmisible-al-ser-humano/IWGWCMD7FRCLPCFOTFRHIIZGFU/story/) (Nacion.com)
+
+- [Un antiviral muestra eficacia contra la gripe aviar en ratones](https://www.abc.es/salud/enfermedades/antiviral-mejora-resultados-virus-gripe-aviar-ratones-20250317132556-nt.html) (Www.abc.es)
+
+- [USA har registreret fugleinfluenza-type, landet ikke har set siden 2017](https://www.dr.dk/nyheder/seneste/usa-har-registreret-fugleinfluenza-type-landet-ikke-har-set-siden-2017) (Www.dr.dk)
+
+- [Предложено использовать лекарство балоксавир для борьбы с птичьим гриппом](https://news.mail.ru/society/65316489/) (Mail.ru)
+
+- [Un antiviral ya aprobado se muestra más eficaz que el Tamiflu contra la gripe aviar en pruebas con ratones](https://www.eldiario.es/sociedad/antiviral-aprobado-muestra-eficaz-tamiflu-gripe-aviar-pruebas-ratones_1_12138505.html) (Eldiario.es)
+
+- [Un antiviral comercializado en EEUU muestra eficacia frente a la gripe aviar H5N1 en un experimento en ratones](https://www.elespanol.com/ciencia/salud/20250317/antiviral-comercializado-eeuu-muestra-eficacia-frente-gripe-aviar-h5n1-experimento-ratones/931907061_0.html) (Elespanol.com)
+
+- [ΗΠΑ: Έξαρση της φονικής γρίπης των πτηνών H7N9 για πρώτη φορά από το 2017](https://www.newsit.gr/kosmos/ipa-eksarsi-tis-fonikis-gripis-ton-ptinon-H7N9-gia-proti-fora-apo-to-2017/4334372/) (Newsit.gr)
+
+- [Έξαρση της φονικής γρίπης των πτηνών H7N9 στις ΗΠΑ για πρώτη φορά από το 2017](https://www.protothema.gr/world/article/1614273/exarsi-tis-fonikis-gripis-ton-ptinon-h7n9-stis-ipa-gia-proti-fora-apo-to-2017/) (Protothema.gr)
+
+- [ΗΠΑ: Οι αρχές κατέγραψαν την πρώτη από το 2017 έξαρση της φονικής γρίπης των πτηνών](https://www.skai.gr/news/world/ipa-katagrafike-i-proti-apo-to-2017-eksarsi-tis-fonikis-gripis-ton-ptinon) (Skai.gr)
+
+- [Grippe aviaire : réapparition d’une souche transmissible à l’homme dans un élevage de poulets aux Etats-Unis](https://www.liberation.fr/societe/sante/grippe-aviaire-reapparition-dune-souche-transmissible-a-lhomme-dans-un-elevage-de-poulets-aux-etats-unis-20250317_W37PJYBJRFDP5D3SAQITJUOCGI/) (Libération)
+
+- [EUA registram primeiro surto da gripe aviária letal H7N9 desde 2017](https://www.infomoney.com.br/mundo/eua-registram-primeiro-surto-da-gripe-aviaria-letal-h7n9-desde-2017/) (InfoMoney)
+
+- [UN agency warns of ‘unprecedented’ bird flu threat as H5N1 virus jumps to mammals](https://www.politico.eu/article/un-agency-warns-of-unprecedented-bird-flu-threat-as-h5n1-virus-jumps-to-mammals/) (POLITICO.eu)
+
+- [ΗΠΑ: Καταγράφηκε η πρώτη, από το 2017, έξαρση της φονικής γρίπης των πτηνών Η7Ν9](https://www.naftemporiki.gr/kosmos/1933992/ipa-katagrafike-i-proti-apo-to-2017-exarsi-tis-fonikis-gripis-ton-ptinon-i7n9/) (Naftemporiki.gr)
+
+- [Estudo alerta que queijo envelhecido pode abrigar vírus perigoso](https://catracalivre.com.br/saude-bem-estar/estudo-alerta-que-queijo-envelhecido-pode-abrigar-virus-perigoso/) (Catracalivre.com.br)
+
+- [Brote de gripe aviar H7N9 reaparece en granja de EU; es capaz de infectar a humanos](https://www.milenio.com/internacional/brote-gripe-aviar-h7n9-reaparece-granja-eu) (Milenio)
+
+- [RFK Jr.: Mass Vaccination Of Birds Could Turn Them Into “Mutation Factories” For Bird Flu](https://www.activistpost.com/rfk-jr-mass-vaccination-of-birds-could-turn-them-into-mutation-factories-for-bird-flu/) (Activistpost.com)
+
+- [Wie gefährlich ist Rohmilch wirklich? Vogelgrippevirus in Käse entdeckt](https://www.chip.de/nachrichten/gesundheit,133928/wie-gefaehrlich-ist-rohmilch-wirklich-vogelgrippevirus-in-kaese-entdeckt_e3071dd8-df5e-4190-b8c5-70373da32373.html) (CHIP Online Deutschland)
+
+- [Helsingistä kuolleena löydetyllä kanahaukalla todettu lintuinfluenssa](https://yle.fi/a/74-20150024) (YLE News)
+
+- [FAO warns of ‘unprecedented’ avian flu spread, in call for global action](https://news.un.org/en/story/2025/03/1161186) (UN News)
+
+- [鸡蛋价格飙升 如何无需花费一大笔钱就能获得替代蛋白质？](https://www.cnbeta.com.tw/articles/tech/1486042.htm) (Cnbeta.com.tw)
+
+- [Vědci potvrzují výskyt vysoce patogenní ptačí chřipky v Antarktidě](https://www.novinky.cz/clanek/veda-skoly-vedci-potvrzuji-vyskyt-vysoce-patogenni-ptaci-chripky-v-antarktide-40513207) (Novinky.cz)
 
 - [Covid Redux: The Bird Flu Scare](https://www.americanthinker.com/articles/2025/03/covid_redux_the_bird_flu_scare.html) (Americanthinker.com)
 
@@ -2184,6 +2256,22 @@ Source: [News API](https://newsapi.org/)
 - [Cat owners beware as pet food with bird flu risk is recalled](https://www.foxnews.com/health/cat-owners-beware-pet-food-bird-flu-risk-recalled) (Fox News)
 
 - [Alarma en la Antártida: Confirman un brote masivo de gripe aviar en varias especies](https://es.gizmodo.com/alarma-en-la-antartida-confirman-un-brote-masivo-de-gripe-aviar-en-varias-especies-2000154626) (Gizmodo.com)
+
+## 25-12 (dengue)
+
+- [Ministerio de Salud reporta cambio en tendencia del dengue en Costa Rica](https://www.nacion.com/el-pais/ministerio-de-salud-reporta-cambio-en-tendencia/DY5YI3JB6VGSFDA4IYDLLFTGXY/story/) (Nacion.com)
+
+- [Unraveling the dynamics of dengue in Metahara town, East Shewa, Oromia, Ethiopia, 2023](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012908) (Plos.org)
+
+- [Rio amplia para 18 anos faixa etária para vacinação da dengue](https://valor.globo.com/brasil/noticia/2025/03/17/rio-amplia-para-18-anos-faixa-etaria-para-vacinacao-da-dengue.ghtml) (Globo)
+
+- [As Summer Approaches, Your Risk Of Dengue & Chikungunya Increases; Here's How To Stay Safe](https://www.ndtv.com/health/as-summer-approaches-your-risk-of-dengue-chikungunya-increases-heres-how-to-stay-safe-7941812) (NDTV News)
+
+## 25-12 (chikungunya)
+
+- [Development of a virulent O’nyong’nyong challenge model to determine heterologous protection mediated by a hydrogen peroxide-inactivated chikungunya virus vaccine](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012938) (Plos.org)
+
+- [As Summer Approaches, Your Risk Of Dengue & Chikungunya Increases; Here's How To Stay Safe](https://www.ndtv.com/health/as-summer-approaches-your-risk-of-dengue-chikungunya-increases-heres-how-to-stay-safe-7941812) (NDTV News)
 
 ## 25-11 (yersinia)
 
