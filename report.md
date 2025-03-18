@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 4
-- **Last harvest:** 2025-03-17 19:05
-- **Most recent article:** 2025-03-16 16:37:05
+- **New articles in last harvest:** 12
+- **Last harvest:** 2025-03-18 07:07
+- **Most recent article:** 2025-03-17 04:00:00
 
 ---
 
@@ -12,13 +12,13 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-10 | 25-11 | 25-12 | 25-6 | 25-7 | 25-8 | 25-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 142 | 122 | 1 | 24 | 72 | 83 | 162 | 606 |
-| h5n1 | 23 | 39 | 2 | 67 | 55 | 54 | 42 | 282 |
+| measles | 142 | 126 | 4 | 24 | 72 | 83 | 162 | 613 |
+| h5n1 | 23 | 39 | 4 | 71 | 55 | 54 | 42 | 288 |
 | dengue | 8 | 12 | 0 | 33 | 37 | 57 | 30 | 177 |
-| malaria | 29 | 22 | 2 | 25 | 12 | 7 | 20 | 117 |
-| mpox | 14 | 15 | 0 | 26 | 18 | 15 | 26 | 114 |
-| meningitis | 4 | 9 | 0 | 1 | 12 | 11 | 7 | 44 |
-| hpai | 10 | 3 | 1 | 3 | 9 | 5 | 4 | 35 |
+| malaria | 29 | 22 | 3 | 25 | 12 | 7 | 20 | 118 |
+| mpox | 14 | 15 | 1 | 28 | 18 | 15 | 26 | 117 |
+| meningitis | 4 | 9 | 0 | 2 | 12 | 11 | 7 | 45 |
+| hpai | 10 | 3 | 2 | 3 | 9 | 5 | 4 | 36 |
 | chikungunya | 6 | 1 | 0 | 8 | 5 | 3 | 7 | 30 |
 | rabies | 3 | 8 | 1 | 4 | 5 | 4 | 2 | 27 |
 | typhoid | 3 | 8 | 0 | 2 | 3 | 0 | 4 | 20 |
@@ -1793,9 +1793,15 @@ Source: [News API](https://newsapi.org/)
 
 - [New mpox vaccination sites open across England for high-risk people](https://news.sky.com/story/new-mpox-vaccination-sites-open-across-england-for-high-risk-people-13302169) (Sky.com)
 
+- [Uganda'da M çiçeği virüsüne karşı aşı kampanyası seferberliği](https://www.haber7.com/dunya/haber/3501667-ugandada-m-cicegi-virusune-karsi-asi-kampanyasi-seferberligi) (Haber7.com)
+
+- [Uganda, M çiçeği virüsü salgınıyla mücadele kapsamında aşı kampanyası başlattı](https://www.aa.com.tr/tr/dunya/uganda-m-cicegi-virusu-salginiyla-mucadele-kapsaminda-asi-kampanyasi-baslatti/3469451) (Anadolu Agency)
+
 ## 25-6 (meningitis)
 
 - [Love Changes the Heart—More Than Metaphorically](https://www.theepochtimes.com/health/love-changes-the-heart-more-than-metaphorically-5804355) (Theepochtimes.com)
+
+- [Danmark har ikke tabt ved VM siden 2017: 'Der var jeg lige kommet tilbage fra meningitis'](https://www.dr.dk/sporten/haandbold/vm/danmark-har-ikke-tabt-ved-vm-siden-2017-der-var-jeg-lige-kommet-tilbage-fra) (Www.dr.dk)
 
 ## 25-6 (measles)
 
@@ -2043,6 +2049,14 @@ Source: [News API](https://newsapi.org/)
 
 - [大S猝逝占据大陆热搜 中共隐瞒疫情误事(组图)](https://www.secretchina.com/news/gb/2025/02/03/1077055.html) (Secretchina.com)
 
+- [Bird flu in NC | Dead bird at Lake Julian Park receives 'preliminarily positive' test result for bird flu](https://abc11.com/post/bird-flu-nc-dead-lake-julian-park-receives-preliminarily-positive-test-result/15857185/) (WTVD-TV)
+
+- [As bird flu ravages poultry industry, the damage spreads](https://www.cbsnews.com/news/as-bird-flu-ravages-poultry-industry-the-damage-spreads/) (CBS News)
+
+- [The impact from bird flu spreads](https://www.cbsnews.com/video/the-impact-from-bird-flu-spreads/) (CBS News)
+
+- [Nature: Растет риск новой пандемии, вызванной птичьим гриппом](https://rg.ru/2025/02/02/nature-rastet-risk-novoj-pandemii-vyzvannoj-ptichim-grippom.html) (Rg.ru)
+
 ## 25-6 (dengue)
 
 - [Anvisa: Como usar repelentes contra o mosquito da dengue de forma eficaz](https://catracalivre.com.br/saude-bem-estar/anvisa-como-usar-repelentes-contra-o-mosquito-da-dengue-de-forma-eficaz/) (Catracalivre.com.br)
@@ -2133,11 +2147,23 @@ Source: [News API](https://newsapi.org/)
 
 - [Bacolod to construct animal shelter](https://rpnradio.com/bacolod-to-construct-animal-shelter/) (Rpnradio.com)
 
+## 25-12 (mpox)
+
+- [Clinical and Epidemiologic Characteristics of Mpox Cases, Dominican Republic, July 2022–February 2023](https://wwwnc.cdc.gov/eid/article/31/5/24-1299_article) (Cdc.gov)
+
 ## 25-12 (measles)
+
+- [A visit with a family in mourning](https://www.metafilter.com/208047/A-visit-with-a-family-in-mourning) (Metafilter.com)
+
+- [Recap: What made news last week across Virginia](https://richmond.com/news/state-regional/article_e3ba212e-ff71-11ef-afa0-071d975426c2.html) (Richmond.com)
 
 - [Best political cartoons this week: March 16, 2025](https://theweek.com/cartoons/best-political-cartoons-this-week-march-16-2025) (The Week Magazine)
 
+- [TWiV 1201: Booster shots with Adam Ratner](https://www.microbe.tv/twiv/twiv-1201/) (Microbe.tv)
+
 ## 25-12 (malaria)
+
+- [HIV, TB, Malaria services in Cameroon remain free of charge, Public Health Minister reaffirms](https://cameroonnewsagency.com/hiv-tb-malaria-services-in-cameroon-remain-free-of-charge-public-health-minister-reaffirms/) (Cameroonnewsagency.com)
 
 - [Microbiota de los pingüinos, esperanza inmunológica contra la malaria o la leishmaniosis](https://forbes.com.mx/microbiota-de-los-pinguinos-esperanza-inmunologica-contra-la-malaria-o-la-leishmaniosis/) (Forbes.com.mx)
 
@@ -2145,9 +2171,15 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-12 (hpai)
 
+- [Bird flu detected in Philadelphia live poultry market: USDA](https://www.fox29.com/news/bird-flu-detected-philadelphia-live-poultry-market-usda) (FOX 29 News Philadelphia)
+
 - [Alarma en la Antártida: Confirman un brote masivo de gripe aviar en varias especies](https://es.gizmodo.com/alarma-en-la-antartida-confirman-un-brote-masivo-de-gripe-aviar-en-varias-especies-2000154626) (Gizmodo.com)
 
 ## 25-12 (h5n1)
+
+- [Covid Redux: The Bird Flu Scare](https://www.americanthinker.com/articles/2025/03/covid_redux_the_bird_flu_scare.html) (Americanthinker.com)
+
+- [Savage Pet recalls cat food amid suspected bird flu illnesses in cats](https://www.foodsafetynews.com/2025/03/savage-pet-recalls-cat-food-amid-suspected-bird-flu-illnesses-in-cats/) (Food Safety News)
 
 - [Cat owners beware as pet food with bird flu risk is recalled](https://www.foxnews.com/health/cat-owners-beware-pet-food-bird-flu-risk-recalled) (Fox News)
 
@@ -2273,6 +2305,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Newborn babies exposed to measles in Texas hospital (Erika Edwards/NBC News)](https://www.memeorandum.com/250315/p6) (Memeorandum.com)
 
+- [TWiV 1200: Clinical update with Dr. Daniel Griffin](https://www.microbe.tv/twiv/twiv-1200/) (Microbe.tv)
+
 - [Province warns of measles spread as northern Alberta community deals with outbreak](https://www.cbc.ca/news/canada/calgary/little-red-river-cree-nation-measles-outbreak-six-cases-1.7484241) (CBC News)
 
 - [RFK Jr Called Out By Democratic Lawmaker For Not Answering Him On Live Broadcast: 'Respond to the Damn Letter'](https://www.ibtimes.com/rfk-jr-called-out-democratic-lawmaker-not-answering-him-live-broadcast-respond-damn-letter-3766351) (International Business Times)
@@ -2280,6 +2314,8 @@ Source: [News API](https://newsapi.org/)
 - [Chuck Screwme](https://www.thenation.com/article/politics/chuck-screwme/) (Thenation.com)
 
 - [US sees 300-plus measles cases, highest in a year since 2019 (Nathaniel Weixel/The Hill)](https://www.memeorandum.com/250314/p126) (Memeorandum.com)
+
+- [Amid measles outbreak in Ontario, RFK Jr.'s advice has Canadian experts alarmed](https://nationalpost.com/news/canada/measles-outbreak-ontario-rfk-jr-advice) (National Post)
 
 - [Newborn babies exposed to measles in Texas hospital](https://www.nbcnews.com/health/health-news/texas-measles-outbreak-hospital-newborn-babies-exposed-rcna196519) (NBC News)
 
@@ -2315,9 +2351,13 @@ Source: [News API](https://newsapi.org/)
 
 - [Former Surgeon General: Unvaccinated Measles Outbreaks Show Why We Need Government Clarity on Vaccines | Opinion](https://www.newsweek.com/former-surgeon-general-unvaccinated-measles-outbreaks-show-why-we-need-government-clarity-2044350) (Newsweek)
 
+- [Measles outbreak alert in Mexico – 22 cases reported by the authorities](https://en.protothema.gr/2025/03/14/measles-outbreak-alert-in-mexico-22-cases-reported-by-the-authorities/) (Protothema.gr)
+
 - [Trump Has Yanked $1B In Food Money For Schools, Food Banks](https://crooksandliars.com/2025/03/trump-has-yanked-1b-food-money-schools) (Crooksandliars.com)
 
 - [RFK Jr. has made several claims about measles. Here's what the science says.](https://abcnews.go.com/Health/rfk-jr-claims-measles-treated-vitamin-linked-poor/story?id=119713193) (ABC News)
+
+- [Fly safely amid measles outbreak with these important travel tips](https://www.foxnews.com/health/fly-safely-measles-outbreak-important-travel-tips) (Fox News)
 
 - [Europe records highest measles cases in 25 years – UN](https://punchng.com/europe-records-highest-measles-cases-in-25-years-un/) (The Punch)
 
