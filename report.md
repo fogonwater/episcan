@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 34
-- **Last harvest:** 2025-03-19 07:07
-- **Most recent article:** 2025-03-18 07:00:59
+- **New articles in last harvest:** 25
+- **Last harvest:** 2025-03-19 19:06
+- **Most recent article:** 2025-03-18 18:26:11
 
 ---
 
@@ -12,14 +12,14 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-10 | 25-11 | 25-12 | 25-6 | 25-7 | 25-8 | 25-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 142 | 133 | 30 | 24 | 72 | 83 | 162 | 646 |
-| h5n1 | 23 | 39 | 30 | 71 | 55 | 54 | 42 | 314 |
-| dengue | 8 | 12 | 4 | 33 | 37 | 57 | 30 | 181 |
-| malaria | 29 | 22 | 11 | 25 | 12 | 7 | 20 | 126 |
-| mpox | 14 | 15 | 1 | 28 | 18 | 15 | 26 | 117 |
-| meningitis | 4 | 9 | 1 | 2 | 12 | 11 | 7 | 46 |
-| hpai | 10 | 3 | 7 | 3 | 9 | 5 | 4 | 41 |
-| chikungunya | 6 | 1 | 2 | 8 | 5 | 3 | 7 | 32 |
+| measles | 142 | 133 | 42 | 24 | 72 | 83 | 162 | 658 |
+| h5n1 | 23 | 39 | 36 | 67 | 55 | 54 | 42 | 316 |
+| dengue | 8 | 12 | 6 | 33 | 37 | 57 | 30 | 183 |
+| malaria | 29 | 22 | 14 | 25 | 12 | 7 | 20 | 129 |
+| mpox | 14 | 15 | 1 | 26 | 18 | 15 | 26 | 115 |
+| meningitis | 4 | 9 | 2 | 1 | 12 | 11 | 7 | 46 |
+| hpai | 10 | 3 | 10 | 3 | 9 | 5 | 4 | 44 |
+| chikungunya | 6 | 1 | 3 | 8 | 5 | 3 | 7 | 33 |
 | rabies | 3 | 8 | 2 | 4 | 5 | 4 | 2 | 28 |
 | zika | 3 | 0 | 1 | 6 | 2 | 6 | 2 | 20 |
 | typhoid | 3 | 8 | 0 | 2 | 3 | 0 | 4 | 20 |
@@ -1793,15 +1793,9 @@ Source: [News API](https://newsapi.org/)
 
 - [New mpox vaccination sites open across England for high-risk people](https://news.sky.com/story/new-mpox-vaccination-sites-open-across-england-for-high-risk-people-13302169) (Sky.com)
 
-- [Uganda'da M çiçeği virüsüne karşı aşı kampanyası seferberliği](https://www.haber7.com/dunya/haber/3501667-ugandada-m-cicegi-virusune-karsi-asi-kampanyasi-seferberligi) (Haber7.com)
-
-- [Uganda, M çiçeği virüsü salgınıyla mücadele kapsamında aşı kampanyası başlattı](https://www.aa.com.tr/tr/dunya/uganda-m-cicegi-virusu-salginiyla-mucadele-kapsaminda-asi-kampanyasi-baslatti/3469451) (Anadolu Agency)
-
 ## 25-6 (meningitis)
 
 - [Love Changes the Heart—More Than Metaphorically](https://www.theepochtimes.com/health/love-changes-the-heart-more-than-metaphorically-5804355) (Theepochtimes.com)
-
-- [Danmark har ikke tabt ved VM siden 2017: 'Der var jeg lige kommet tilbage fra meningitis'](https://www.dr.dk/sporten/haandbold/vm/danmark-har-ikke-tabt-ved-vm-siden-2017-der-var-jeg-lige-kommet-tilbage-fra) (Www.dr.dk)
 
 ## 25-6 (measles)
 
@@ -2049,14 +2043,6 @@ Source: [News API](https://newsapi.org/)
 
 - [大S猝逝占据大陆热搜 中共隐瞒疫情误事(组图)](https://www.secretchina.com/news/gb/2025/02/03/1077055.html) (Secretchina.com)
 
-- [Bird flu in NC | Dead bird at Lake Julian Park receives 'preliminarily positive' test result for bird flu](https://abc11.com/post/bird-flu-nc-dead-lake-julian-park-receives-preliminarily-positive-test-result/15857185/) (WTVD-TV)
-
-- [As bird flu ravages poultry industry, the damage spreads](https://www.cbsnews.com/news/as-bird-flu-ravages-poultry-industry-the-damage-spreads/) (CBS News)
-
-- [The impact from bird flu spreads](https://www.cbsnews.com/video/the-impact-from-bird-flu-spreads/) (CBS News)
-
-- [Nature: Растет риск новой пандемии, вызванной птичьим гриппом](https://rg.ru/2025/02/02/nature-rastet-risk-novoj-pandemii-vyzvannoj-ptichim-grippom.html) (Rg.ru)
-
 ## 25-6 (dengue)
 
 - [Anvisa: Como usar repelentes contra o mosquito da dengue de forma eficaz](https://catracalivre.com.br/saude-bem-estar/anvisa-como-usar-repelentes-contra-o-mosquito-da-dengue-de-forma-eficaz/) (Catracalivre.com.br)
@@ -2159,9 +2145,35 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-12 (meningitis)
 
+- [España documenta los primeros casos en niños de un enterovirus raro detectado en Europa](https://www.lavozdegalicia.es/noticia/sociedad/2025/03/18/espana-documenta-primeros-casos-ninos-enterovirus-raro-detectado-europa/00031742296591938377332.htm) (Lavozdegalicia.es)
+
 - [Diphtheria: Paediatricians demand scale-up of immunisation](https://punchng.com/diphtheria-paediatricians-demand-scale-up-of-immunisation/) (The Punch)
 
 ## 25-12 (measles)
+
+- [Peel Public Health confirms 1 new measles case, warns of possible exposure in Mississauga](https://www.cbc.ca/news/canada/toronto/peel-measles-exposure-warning-1.7486786) (CBC News)
+
+- [Healthy Returns: What to know about the U.S. measles outbreak](https://www.cnbc.com/2025/03/18/healthy-returns-what-to-know-about-the-us-measles-outbreak.html) (CNBC)
+
+- [Measles Cases Surpass 300 In Texas, New Mexico: Here's What You Should Know](https://www.huffpost.com/entry/measles-outbreak-texas-new-mexico_n_67d9b103e4b0fd92334498e3) (HuffPost)
+
+- [Texas measles outbreak grows to 279 cases mostly among unvaccinated, unknown status](https://abcnews.go.com/Health/texas-measles-outbreak-grows-279-cases/story?id=119905598) (ABC News)
+
+- [Combatting the measles threat means examining the reasons for declining vaccination rates](https://theconversation.com/combatting-the-measles-threat-means-examining-the-reasons-for-declining-vaccination-rates-252168) (The Conversation Africa)
+
+- [NIH Cuts Funding For Vaccine Hesitancy Research, Amid Measles Outbreak](https://www.forbes.com/sites/omerawan/2025/03/18/nih-cuts-funding-for-vaccine-hesitancy-research-amid-measles-outbreak/) (Forbes)
+
+- ['It's a perfect storm': Doctors urge measles vaccinations as Alberta case counts rise](https://www.cbc.ca/news/canada/calgary/it-s-a-perfect-storm-doctors-urge-measles-vaccinations-as-alberta-case-counts-rise-1.7486200) (CBC News)
+
+- ['It's the perfect storm': Doctors urge measles vaccinations as Alberta case counts rise](https://www.cbc.ca/news/canada/calgary/it-s-the-perfect-storm-doctors-urge-measles-vaccinations-as-alberta-case-counts-rise-1.7486200) (CBC News)
+
+- [The Perils of Vaccine Hesitancy](https://www.psychologytoday.com/us/blog/health-examined/202503/the-perils-of-vaccine-hesitancy) (Psychology Today)
+
+- [The One Key Kernel of Truth in RFK Jr.’s Latest False Measles Claim](https://slate.com/technology/2025/03/measles-rfk-jr-vitamin-a-research-vaccination-nutrition-debunk.html) (Slate Magazine)
+
+- [Concern grows over low measles vaccination rates in parts of B.C.](https://www.cbc.ca/news/canada/british-columbia/bc-low-measles-vaccination-rate-1.7486278) (CBC News)
+
+- [Vitamin A, Infections and Measles](https://sciencebasedmedicine.org/vitamin-a-infections-and-measles/) (Sciencebasedmedicine.org)
 
 - [The U.S. measles outbreak is growing. Here's what to know](https://www.npr.org/2025/03/18/1266983411/health-measles-outbreak-safe-science-vaccine) (NPR)
 
@@ -2225,6 +2237,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-12 (malaria)
 
+- [FG votes N700bn for HIV/AIDS, Tuberculosis, others](https://punchng.com/fg-votes-n700bn-for-hiv-aids-tuberculosis-others/) (The Punch)
+
+- [Microbiota isolate collections: A key to global vector-borne disease control](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003078) (Plos.org)
+
+- [Kampf gegen Kinderlähmung und Malaria gefährdet : Gates drängt Trump zum Erhalt internationaler Gesundheitsprogramme](https://www.tagesspiegel.de/internationales/kampf-gegen-kinderlahmung-und-malaria-gefahrdet-gates-drangt-trump-zum-erhalt-internationaler-gesundheitsprogramme-13387648.html) (Der Tagesspiegel)
+
 - [OMS: Avances contra enfermedades están ‘en riesgo’ tras recortes de financiación de EU](https://www.excelsior.com.mx/nacional/onu-avances-contra-enfermedades-estan-en-riesgo-tras-recortes-de-financiacion-de-eu/1705564) (Excelsior.com.mx)
 
 - [Tedros dice a Trump: Millones de vidas en peligro por recortes a programas de salud](https://aristeguinoticias.com/170325/mundo/tedros-dice-a-trump-millones-de-vidas-en-peligro-por-recortes-a-programas-de-salud/) (Aristeguinoticias.com)
@@ -2253,6 +2271,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-12 (hpai)
 
+- [Mississippi Reports First Outbreak Of Deadly H7N9 Bird Flu In The U.S. Since 2017](https://brobible.com/culture/article/mississippi-first-outbreak-h7n9-bird-flu/) (BroBible)
+
+- [Helport AI Expands AI Solutions for the Insurance Industry with Enhanced Insurance Edition](https://www.globenewswire.com/news-release/2025/03/18/3044523/0/en/Helport-AI-Expands-AI-Solutions-for-the-Insurance-Industry-with-Enhanced-Insurance-Edition.html) (GlobeNewswire)
+
+- [The FDA has recalled some raw cat food — try these instead](https://www.nbcnews.com/select/shopping/raw-cat-food-recall-rcna196790) (NBC News)
+
 - [La gripe aviar está presente en toda la península antártica y afecta a más especies](https://www.montevideo.com.uy/Salud/La-gripe-aviar-esta-presente-en-toda-la-peninsula-antartica-y-afecta-a-mas-especies-uc917907) (Montevideo.com.uy)
 
 - [ΗΠΑ: Έξαρση της φονικής γρίπης των πτηνών H7N9 για πρώτη φορά από το 2017](https://www.newsit.gr/kosmos/ipa-eksarsi-tis-fonikis-gripis-ton-ptinon-H7N9-gia-proti-fora-apo-to-2017/4334372/) (Newsit.gr)
@@ -2269,6 +2293,16 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-12 (h5n1)
 
+- [H5N1 bird flu spread 'unprecedented,' UN agency warns (Joseph Choi/The Hill)](https://www.memeorandum.com/250318/p74) (Memeorandum.com)
+
+- [How to Protect Your Cats (and Backyard Chickens) From Bird Flu](https://www.wired.com/story/pets-and-backyard-flocks-are-at-risk-from-bird-flu-heres-how-to-protect-them/) (Wired)
+
+- [UN Declares “Unprecedented” Bird Flu Threat](https://www.shtfplan.com/headline-news/un-declares-unprecedented-bird-flu-threat) (Shtfplan.com)
+
+- [Mississippi Reports First Outbreak Of Deadly H7N9 Bird Flu In The U.S. Since 2017](https://brobible.com/culture/article/mississippi-first-outbreak-h7n9-bird-flu/) (BroBible)
+
+- [O agenție a ONU avertizează despre amenințarea „fără precedent” a gripei aviare. Virusul H5N1 pune în pericol securitatea alimentară](https://www.digi24.ro/stiri/economie/agricultura/o-agentie-a-onu-avertizeaza-despre-amenintarea-fara-precedent-a-gripei-aviare-virusul-h5n1-pune-in-pericol-securitatea-alimentara-3162597) (Digi24.ro)
+
 - [Wie gefährlich ist Rohmilch wirklich? Vogelgrippevirus in Käse entdeckt](https://www.chip.de/nachrichten/gesundheit,133928/vogelgrippevirus-im-kaese-gefahr-durch-rohmilch_e3071dd8-df5e-4190-b8c5-70373da32373.html) (CHIP Online Deutschland)
 
 - [联合国发出警告：禽流感威胁史无前例 病毒已扩散至哺乳动物](https://www.cnbeta.com.tw/articles/tech/1486258.htm) (Cnbeta.com.tw)
@@ -2276,6 +2310,8 @@ Source: [News API](https://newsapi.org/)
 - [Antiviral baloxavir com potencial para tratar gripe aviária em humanos](https://observador.pt/2025/03/17/antiviral-baloxavir-com-potencial-para-tratar-gripe-aviaria-em-humanos/) (Observador.pt)
 
 - [Move Over, H5N1—Another Bird Flu Strain Has Arrived in the U.S.](https://gizmodo.com/move-over-h5n1-another-bird-flu-strain-has-arrived-in-the-u-s-2000576923) (Gizmodo.com)
+
+- [The FDA has recalled some raw cat food — try these instead](https://www.nbcnews.com/select/shopping/raw-cat-food-recall-rcna196790) (NBC News)
 
 - [La gripe aviar está presente en toda la península antártica y afecta a más especies](https://www.montevideo.com.uy/Salud/La-gripe-aviar-esta-presente-en-toda-la-peninsula-antartica-y-afecta-a-mas-especies-uc917907) (Montevideo.com.uy)
 
@@ -2331,6 +2367,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-12 (dengue)
 
+- [Microbiota isolate collections: A key to global vector-borne disease control](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003078) (Plos.org)
+
+- [Comprehensive analysis of intervention and control studies for the computational identification of dengue biomarker genes](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012914) (Plos.org)
+
 - [Ministerio de Salud reporta cambio en tendencia del dengue en Costa Rica](https://www.nacion.com/el-pais/ministerio-de-salud-reporta-cambio-en-tendencia/DY5YI3JB6VGSFDA4IYDLLFTGXY/story/) (Nacion.com)
 
 - [Unraveling the dynamics of dengue in Metahara town, East Shewa, Oromia, Ethiopia, 2023](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012908) (Plos.org)
@@ -2340,6 +2380,8 @@ Source: [News API](https://newsapi.org/)
 - [As Summer Approaches, Your Risk Of Dengue & Chikungunya Increases; Here's How To Stay Safe](https://www.ndtv.com/health/as-summer-approaches-your-risk-of-dengue-chikungunya-increases-heres-how-to-stay-safe-7941812) (NDTV News)
 
 ## 25-12 (chikungunya)
+
+- [Em surto de chikungunya, cidade de SC registra 2º morte pela doença](https://www.metropoles.com/brasil/em-surto-de-chikungunya-cidade-de-sc-registra-2o-morte-pela-doenca) (Metropoles.com)
 
 - [Development of a virulent O’nyong’nyong challenge model to determine heterologous protection mediated by a hydrogen peroxide-inactivated chikungunya virus vaccine](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012938) (Plos.org)
 

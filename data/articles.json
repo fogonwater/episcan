@@ -1,8 +1,442 @@
 {
-  "last_updated": "2025-03-19 07:07",
-  "count_articles_total": 1559,
-  "count_articles_new": 34,
+  "last_updated": "2025-03-19 19:06",
+  "count_articles_total": 1577,
+  "count_articles_new": 25,
   "articles": [
+    {
+      "id": 19446,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Peel Public Health confirms 1 new measles case, warns of possible exposure in Mississauga",
+      "description": "Peel Public Health is warning the public that they may have been exposed to measles at four locations in Mississauga, after confirming a new case of the virus.",
+      "url": "https://www.cbc.ca/news/canada/toronto/peel-measles-exposure-warning-1.7486786",
+      "urlToImage": "https://i.cbc.ca/1.5343123.1714000801!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/measles-virus.jpg?im=Resize%3D620",
+      "publishedAt": "2025-03-18 18:26:11",
+      "content": "Peel Public Health is warning the public that they may have been exposed to measles at four locations in Mississauga, after confirming a new case of the virus. The measles case confirmed last Frida\u2026 [+1388 chars]",
+      "retrievedAt": "2025-03-19 19:05:57.889170",
+      "internal_id": "9fadda540ac2161443c6e9cf5f86eee32908803aee93e564105da3762ba3eee9",
+      "publishedAtLabel": "Mar 18"
+    },
+    {
+      "id": 19450,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "CNBC",
+      "author": null,
+      "title": "Healthy Returns: What to know about the U.S. measles outbreak",
+      "description": "The latest on the measles outbreak in the U.S. Also, Google shares updates on its health-care business.",
+      "url": "https://www.cnbc.com/2025/03/18/healthy-returns-what-to-know-about-the-us-measles-outbreak.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108117706-17423155282025-03-14t190045z_1887334777_rc20ddaf6vvh_rtrmadp_0_usa-health-measles-new-york.jpeg?v=1742315557&w=1920&h=1080",
+      "publishedAt": "2025-03-18 18:24:08",
+      "content": "MMR vaccine administer prep is pictured during a drive at the City of Lubbock Health Department in Lubbock, Texas, U.S. Feb. 27, 2025. A version of this article first appeared in CNBC's Healthy Retu\u2026 [+8000 chars]",
+      "retrievedAt": "2025-03-19 19:05:57.952998",
+      "internal_id": "4f0a9f27633849683f77fb132a18f87a03000247e2166f8d6e7a8f0cc240b89e",
+      "publishedAtLabel": "Mar 18"
+    },
+    {
+      "id": 19447,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "HuffPost",
+      "author": "AP",
+      "title": "Measles Cases Surpass 300 In Texas, New Mexico: Here's What You Should Know",
+      "description": "Measles cases have now also been reported in 14 other states.",
+      "url": "https://www.huffpost.com/entry/measles-outbreak-texas-new-mexico_n_67d9b103e4b0fd92334498e3",
+      "urlToImage": "https://img.huffingtonpost.com/asset/67d9b2eb1b0000250085bff4.jpeg?cache=zPmBCJ55VL&ops=1200_630",
+      "publishedAt": "2025-03-18 17:53:45",
+      "content": "Measles outbreaks in West Texas and New Mexico are now up to nearly 320 cases, and two unvaccinated people have died from measles-related causes. Measles is caused by a highly contagious virus thats\u2026 [+5125 chars]",
+      "retrievedAt": "2025-03-19 19:05:57.905359",
+      "internal_id": "a8092eed074d310983ed99028e782bfd1ef1ac67d92fab68a066dc92f3dee095",
+      "publishedAtLabel": "Mar 18"
+    },
+    {
+      "id": 19461,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Lara Adejoro",
+      "title": "FG votes N700bn for HIV/AIDS, Tuberculosis, others",
+      "description": "The Federal Government has allocated N700bn for the fight against HIV/AIDS, Tuberculosis, malaria, and immunisation, the Chairman, House Committee on HIV/AIDS, Tuberculosis, and Malaria, Dr Amobi Ogah, said. Dr Ogah said this on Tuesday at the 2025 Pre-World \u2026",
+      "url": "https://punchng.com/fg-votes-n700bn-for-hiv-aids-tuberculosis-others/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2022/02/04045352/HIV.jpg",
+      "publishedAt": "2025-03-18 17:22:24",
+      "content": "The Federal Government has allocated N700bn for the fight against HIV/AIDS, Tuberculosis, malaria, and immunisation, the Chairman, House Committee on HIV/AIDS, Tuberculosis, and Malaria, Dr Amobi Oga\u2026 [+5943 chars]",
+      "retrievedAt": "2025-03-19 19:06:00.571531",
+      "internal_id": "4256a82baf2af12d4bab6359bb21ccb3ff8907ec80875092f9fad0e229a8f04a",
+      "publishedAtLabel": "Mar 18"
+    },
+    {
+      "id": 19440,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "Mary Kekatos",
+      "title": "Texas measles outbreak grows to 279 cases mostly among unvaccinated, unknown status",
+      "description": "The measles outbreak in western Texas has grown to a total of 279 cases, according to new state data published Tuesday.",
+      "url": "https://abcnews.go.com/Health/texas-measles-outbreak-grows-279-cases/story?id=119905598",
+      "urlToImage": "https://i.abcnewsfe.com/a/8f40f12a-86a6-4903-a19c-5dfb224a4b33/measles-texas-gty-jt-250311_1741733208836_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2025-03-18 16:40:39",
+      "content": "The measles outbreak in western Texas is continuing to grow with 20 additional cases confirmed, bringing the total to 279 cases, according to new state data published Tuesday. Almost all of the case\u2026 [+1144 chars]",
+      "retrievedAt": "2025-03-19 19:05:57.702921",
+      "internal_id": "638797c8ede85e855632c166c25b8a35cae480a1bcc644dc7b829b88f505d2f4",
+      "publishedAtLabel": "Mar 18"
+    },
+    {
+      "id": 19455,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "H5N1 bird flu spread 'unprecedented,' UN agency warns (Joseph Choi/The Hill)",
+      "description": "Joseph Choi / The Hill: H5N1 bird flu spread \u2018unprecedented,\u2019 UN agency warns \u2014 A United Nations food agency warned that the continued spread of the H5N1 bird flu virus is an unprecedented food security risk that requires a coordinated global response. \u2014 \u2026",
+      "url": "https://www.memeorandum.com/250318/p74",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2025/01/AP23276424031601-e1737816580127.jpg?w=1280",
+      "publishedAt": "2025-03-18 16:40:00",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-03-19 19:05:59.026375",
+      "internal_id": "ea6c31786cc274895f0ab89a415e0a27b0c0c68f8d620793aec24c834f394b66",
+      "publishedAtLabel": "Mar 18"
+    },
+    {
+      "id": 19454,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "wired",
+      "source_name": "Wired",
+      "author": "Sassafras Lowrey",
+      "title": "How to Protect Your Cats (and Backyard Chickens) From Bird Flu",
+      "description": "An H5N1 infection can be fatal for domestic animals, but there are steps you can take to minimize the risk of them catching the virus.",
+      "url": "https://www.wired.com/story/pets-and-backyard-flocks-are-at-risk-from-bird-flu-heres-how-to-protect-them/",
+      "urlToImage": "https://media.wired.com/photos/67c6da4d19b174720fb381a9/191:100/w_1280,c_limit/a123d951-6a7a-473f-a796-008ddb546ab5.JPG",
+      "publishedAt": "2025-03-18 16:12:13",
+      "content": "For cats who enjoy spending time outside, Feah says that leashed walks are a good option. She also encourages cat owners to consider constructing secure catios or enclosed and covered outdoor areas, \u2026 [+3863 chars]",
+      "retrievedAt": "2025-03-19 19:05:58.974156",
+      "internal_id": "b483e3b080bc3add29ecbbf9373a114ecd3dcdadab3742e6f7284986433cd329",
+      "publishedAtLabel": "Mar 18"
+    },
+    {
+      "id": 19445,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Catherine Carstairs, Professor, Department of History, University of Guelph, Kathryn Hughes, Research assistant, Department of History, University of Guelph",
+      "title": "Combatting the measles threat means examining the reasons for declining vaccination rates",
+      "description": "Anti-vaccination sentiment can be seen as part of a larger societal trend towards individualism.",
+      "url": "https://theconversation.com/combatting-the-measles-threat-means-examining-the-reasons-for-declining-vaccination-rates-252168",
+      "urlToImage": "https://images.theconversation.com/files/655285/original/file-20250314-56-fxfv44.jpg?ixlib=rb-4.1.0&rect=0%2C269%2C5982%2C2991&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2025-03-18 15:40:02",
+      "content": "Measles was supposedly eradicated in Canada more than a quarter century ago. But today, measles is surging. Public Health Ontario recently announced that there have been 195 cases in the province i\u2026 [+5711 chars]",
+      "retrievedAt": "2025-03-19 19:05:57.830616",
+      "internal_id": "7b4cf2989a40fa5079ad0131ca21d7d281354a80b5fb831653238f6cb320dcd2",
+      "publishedAtLabel": "Mar 18"
+    },
+    {
+      "id": 19456,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Shtfplan.com",
+      "author": "Mac Slavo",
+      "title": "UN Declares \u201cUnprecedented\u201d Bird Flu Threat",
+      "description": "A United Nations agency has warned that an unprecedented threat from bird flu has emerged. The Food and Agriculture Organization claimed that as H5N1 has jumped to mammals, there will be \u201cserious impacts\u201d on food production, rural jobs, local economies, and c\u2026",
+      "url": "https://www.shtfplan.com/headline-news/un-declares-unprecedented-bird-flu-threat",
+      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2023/02/birdflu2.jpg",
+      "publishedAt": "2025-03-18 15:00:33",
+      "content": "A United Nations agency has warned that an unprecedented threat from avian influenza, commonly known as bird flu, has emerged. The Food and Agriculture Organization claimed that as H5N1 has jumped to\u2026 [+1870 chars]",
+      "retrievedAt": "2025-03-19 19:05:59.041174",
+      "internal_id": "31e40509164cc43f75ed231fc7151a1adc84058e0d2408d409fe5564ac47550e",
+      "publishedAtLabel": "Mar 18"
+    },
+    {
+      "id": 19443,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Omer Awan, Senior Contributor, \n Omer Awan, Senior Contributor\n https://www.forbes.com/sites/omerawan-1/",
+      "title": "NIH Cuts Funding For Vaccine Hesitancy Research, Amid Measles Outbreak",
+      "description": "NIH cuts over 40 grants for vaccine hesitancy research, which could threaten public health and allow misinformation to soar.",
+      "url": "https://www.forbes.com/sites/omerawan/2025/03/18/nih-cuts-funding-for-vaccine-hesitancy-research-amid-measles-outbreak/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67d8da734b1a0889b18e5bdf/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-03-18 14:51:52",
+      "content": "THORNTON, CO - MARCH 06: Adams 12 Five Star Schools District RN Tiffany Karschamroon draws a dose ... [+] from a vial of the Johnson &amp; Johnson COVID-19 vaccine. (Photo by Michael Ciaglo/Getty Ima\u2026 [+4109 chars]",
+      "retrievedAt": "2025-03-19 19:05:57.753988",
+      "internal_id": "7c529f5883bf6ac18a3b1aac3efe21eca3601e68f53309002af2198d882e6138",
+      "publishedAtLabel": "Mar 18"
+    },
+    {
+      "id": 19448,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "'It's a perfect storm': Doctors urge measles vaccinations as Alberta case counts rise",
+      "description": "As concerns about measles grow, and case counts tick up, health-care workers are preparing for a surge and pleading with Albertans to ensure they're fully vaccinated.",
+      "url": "https://www.cbc.ca/news/canada/calgary/it-s-a-perfect-storm-doctors-urge-measles-vaccinations-as-alberta-case-counts-rise-1.7486200",
+      "urlToImage": "https://i.cbc.ca/1.7478844.1741548733!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/measles.jpg?im=Resize%3D620",
+      "publishedAt": "2025-03-18 14:25:47",
+      "content": "As concerns about measles grow, and case counts tick up, health-care workers are preparing for a surge and pleading with Albertans to ensure they're fully vaccinated. Alberta Health said there were \u2026 [+5112 chars]",
+      "retrievedAt": "2025-03-19 19:05:57.913998",
+      "internal_id": "995ec7f502f693c9158ace1c37249e13393379b177fdb60dd768a4c23e419b6d",
+      "publishedAtLabel": "Mar 18"
+    },
+    {
+      "id": 19449,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "'It's the perfect storm': Doctors urge measles vaccinations as Alberta case counts rise",
+      "description": "As concerns about measles grow, and case counts tick up, health-care workers are preparing for a surge and pleading with Albertans to ensure they're fully vaccinated.",
+      "url": "https://www.cbc.ca/news/canada/calgary/it-s-the-perfect-storm-doctors-urge-measles-vaccinations-as-alberta-case-counts-rise-1.7486200",
+      "urlToImage": "https://i.cbc.ca/1.7478844.1741548733!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/measles.jpg?im=Resize%3D620",
+      "publishedAt": "2025-03-18 14:25:47",
+      "content": "As concerns about measles grow, and case counts tick up, health-care workers are preparing for a surge and pleading with Albertans to ensure they're fully vaccinated. Alberta Health said there were \u2026 [+5112 chars]",
+      "retrievedAt": "2025-03-19 19:05:57.929692",
+      "internal_id": "b97584c802f43170d9bf1595e7ce39a1aa552b294bb86d101c6c78a25db231ad",
+      "publishedAtLabel": "Mar 18"
+    },
+    {
+      "id": 19441,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Psychology Today",
+      "author": "Charles Hebert M.D.",
+      "title": "The Perils of Vaccine Hesitancy",
+      "description": "Why the fear of measles vaccination may spread as fast as the infection itself.",
+      "url": "https://www.psychologytoday.com/us/blog/health-examined/202503/the-perils-of-vaccine-hesitancy",
+      "urlToImage": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2025-03/boys-5630669_1280.jpg?itok=ijem60QX",
+      "publishedAt": "2025-03-18 14:16:15",
+      "content": "Outbreaks of measles in Texas and New Mexico have received national attention as cases have continued to rise. Over 300 measles infections across multiple states have been recorded since the start of\u2026 [+4700 chars]",
+      "retrievedAt": "2025-03-19 19:05:57.733544",
+      "internal_id": "52671f175db38351042aff08c9a63e6014ffc42eb559249f64389da5061f5025",
+      "publishedAtLabel": "Mar 18"
+    },
+    {
+      "id": 19439,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Slate Magazine",
+      "author": "Gideon Meyerowitz-Katz",
+      "title": "The One Key Kernel of Truth in RFK Jr.\u2019s Latest False Measles Claim",
+      "description": "No, nutrition is not better than vaccination.",
+      "url": "https://slate.com/technology/2025/03/measles-rfk-jr-vitamin-a-research-vaccination-nutrition-debunk.html",
+      "urlToImage": "https://compote.slate.com/images/c6edbe6f-0cad-4de9-be05-97de06f771de.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+      "publishedAt": "2025-03-18 14:15:02",
+      "content": "Sign up for the Slatest to get the most insightful analysis, criticism, and advice out there, delivered to your inbox daily. Measles is back. After the disease was declared eliminated in the United \u2026 [+7609 chars]",
+      "retrievedAt": "2025-03-19 19:05:57.674768",
+      "internal_id": "ed9b06df1c56c52433b93bab420ad6e7f946b7a97eb978e3244f81bf96605447",
+      "publishedAtLabel": "Mar 18"
+    },
+    {
+      "id": 19451,
+      "query": [
+        "hpai",
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "BroBible",
+      "author": "Douglas Charles",
+      "title": "Mississippi Reports First Outbreak Of Deadly H7N9 Bird Flu In The U.S. Since 2017",
+      "description": "As the United States battles new strains of the highly pathogenic avian influenza (HPAI) H5N1, AKA bird flu, the State of Mississippi has now reported the first outbreak since 2017 of the deadly H7N9 bird flu on a poultry farm. The H7N9 bird flu virus has kil\u2026",
+      "url": "https://brobible.com/culture/article/mississippi-first-outbreak-h7n9-bird-flu/",
+      "urlToImage": "https://brobible.com/wp-content/uploads/2025/03/H7N9-bird-flu.jpg",
+      "publishedAt": "2025-03-18 14:11:17",
+      "content": "iStockphoto As the United States battles new strains of the highly pathogenic avian influenza (HPAI) H5N1, AKA bird flu, the State of Mississippi has now reported the first outbreak since 2017 of th\u2026 [+2993 chars]",
+      "retrievedAt": "2025-03-19 19:05:58.540002",
+      "internal_id": "64bb97f0a1042535e4747d9bdf5e4b6bc577ee2b06642f115946f97f9a3aaafa",
+      "publishedAtLabel": "Mar 18"
+    },
+    {
+      "id": 19458,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Miguel Medina Mu\u00f1oz, Holly L. Nichols, Kerri L. Coon",
+      "title": "Microbiota isolate collections: A key to global vector-borne disease control",
+      "description": "Manipulation of insect vector microbiota is a promising strategy for controlling vector-borne diseases. This Perspective outlines how microbial isolate collections aid in identifying microbial targets, and why their implementation must rely on coordinated int\u2026",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003078",
+      "urlToImage": "https://journals.plos.org/plosbiology/article/figure/image?id=10.1371/journal.pbio.3003078.g001&size=inline",
+      "publishedAt": "2025-03-18 14:00:00",
+      "content": "Vector-borne diseases are a growing threat. The precipitous increase in dengue cases in 2024, alongside the emergence of Oropouche virus, continued invasion of malaria-transmitting Anopheles stephens\u2026 [+11980 chars]",
+      "retrievedAt": "2025-03-19 19:05:59.883654",
+      "internal_id": "99d0125ab7f07d79c09ffb1de99f800f7add2f896b81d8f3854c0923308a0bf2",
+      "publishedAtLabel": "Mar 18"
+    },
+    {
+      "id": 19459,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Jibon Kumar Paul, Mahir Azmal, Tasnim Alam, Omar Faruk Talukder, Ajit Ghosh",
+      "title": "Comprehensive analysis of intervention and control studies for the computational identification of dengue biomarker genes",
+      "description": "Author Summary Dengue fever, caused by the dengue virus (DENV), remains a significant global health issue with millions of cases annually. Accurate diagnosis and early identification of severe cases are critical challenges. This study aimed to identify potent\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012914",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012914.g006&size=inline",
+      "publishedAt": "2025-03-18 14:00:00",
+      "content": "Abstract Dengue fever, caused by the dengue virus (DENV), presents a significant global health concern, with millions of cases reported annually. Despite significant progress in understanding Dengue\u2026 [+52435 chars]",
+      "retrievedAt": "2025-03-19 19:05:59.899836",
+      "internal_id": "ea94f40ed5642055841ffcef9518f02b3c4b0a8d10585294548eb5280e82088d",
+      "publishedAtLabel": "Mar 18"
+    },
+    {
+      "id": 19457,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Digi24.ro",
+      "author": "\u0218tefana Radu",
+      "title": "O agen\u021bie a ONU avertizeaz\u0103 despre amenin\u021barea \u201ef\u0103r\u0103 precedent\u201d a gripei aviare. Virusul H5N1 pune \u00een pericol securitatea alimentar\u0103",
+      "description": "Organiza\u021bia pentru Alimenta\u021bie \u0219i Agricultur\u0103 a Na\u021biunilor Unite (FAO) trage un semnal de alarm\u0103 cu privire la o criz\u0103 privind gripa aviar\u0103 care cre\u0219te accelerat, pentru c\u0103 virusul H5N1 \u00eenalt patogen se transmite de la p\u0103s\u0103ri de curte la mamifere, aliment\u00e2nd \u2026",
+      "url": "https://www.digi24.ro/stiri/economie/agricultura/o-agentie-a-onu-avertizeaza-despre-amenintarea-fara-precedent-a-gripei-aviare-virusul-h5n1-pune-in-pericol-securitatea-alimentara-3162597",
+      "urlToImage": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjMl/MkYwMSUyRjA5JTJGMTY1NTU0MV8xNjU1/NTQxX2dyaXBhLWF2aWFyYS1nZXR0eS5q/cGcmdz0xMjAwJmg9NjMwJnpjPTEmaGFz/aD1lNjVkOWU0Mzc3Yjc1YjBjNmQ3MjkzYjQ0ZDk4MmY5MA==.thumb.jpg",
+      "publishedAt": "2025-03-18 13:06:42",
+      "content": "Organizaia pentru Alimentaie i Agricultur a Naiunilor Unite (FAO) trage un semnal de alarm cu privire la o criz privind gripa aviar care crete accelerat,pentru c virusul H5N1 \u00eenalt patogen se rsp\u00e2nde\u2026 [+2195 chars]",
+      "retrievedAt": "2025-03-19 19:05:59.106163",
+      "internal_id": "4fc45fd0d2b318762dd242bdf667dd192b5992c835efb40053b6b57e6ab345c4",
+      "publishedAtLabel": "Mar 18"
+    },
+    {
+      "id": 19444,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Concern grows over low measles vaccination rates in parts of B.C.",
+      "description": "Scientists are raising the alarm over low measles vaccination rates in parts of B.C. as concern grows over outbreaks in Ontario and Texas.",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/bc-low-measles-vaccination-rate-1.7486278",
+      "urlToImage": "https://i.cbc.ca/1.7476560.1741283682!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/measles-rash.jpg?im=Resize%3D620",
+      "publishedAt": "2025-03-18 13:00:00",
+      "content": "Scientists are raising the alarm over low measles vaccination rates in parts of B.C. as concern grows over outbreaks in Ontario and Texas. Health officials in Ontario say there have been 350 cases o\u2026 [+4785 chars]",
+      "retrievedAt": "2025-03-19 19:05:57.821896",
+      "internal_id": "b90279ed5e7be392052ed339c2233652213d4ffd0a2d325a9d2466d8b69e22bb",
+      "publishedAtLabel": "Mar 18"
+    },
+    {
+      "id": 19462,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Der Tagesspiegel",
+      "title": "Kampf gegen Kinderl\u00e4hmung und Malaria gef\u00e4hrdet : Gates dr\u00e4ngt Trump zum Erhalt internationaler Gesundheitsprogramme",
+      "description": "Unter der \u201eAmerica First\u201c-Politik wurden 80 Prozent der US-Hilfsprogramme gek\u00fcndigt. Bill Gates macht klar, dass seine Stiftung nicht in der Lage sei, die Rolle der Regierung zu ersetzen.",
+      "url": "https://www.tagesspiegel.de/internationales/kampf-gegen-kinderlahmung-und-malaria-gefahrdet-gates-drangt-trump-zum-erhalt-internationaler-gesundheitsprogramme-13387648.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/13387855/alternates/BASE_16_9_W1400/1742302163000/microsoft-mitgrunder-bill-gates-setzt-sich-bei-der-us-regierung-fur-die-fortfuhrung-internationaler-gesundheitsprogramme-ein.jpeg",
+      "publishedAt": "2025-03-18 12:50:11",
+      "content": "Microsoft-Mitgr\u00fcnder Bill Gates setzt sich bei der US-Regierung f\u00fcr die Fortf\u00fchrung internationaler Gesundheitsprogramme ein. In den vergangenen Wochen traf er Vertreter des Nationalen Sicherheitsrat\u2026 [+3204 chars]",
+      "retrievedAt": "2025-03-19 19:06:00.600901",
+      "internal_id": "041e28087fee8a35604c398cbf0c93500a35ff4355b9740589c54f73dd9f489c",
+      "publishedAtLabel": "Mar 18"
+    },
+    {
+      "id": 19452,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Helport AI, Inc.",
+      "title": "Helport AI Expands AI Solutions for the Insurance Industry with Enhanced Insurance Edition",
+      "description": "Helport AI Expands AI Solutions for the Insurance Industry with Enhanced Insurance Edition......",
+      "url": "https://www.globenewswire.com/news-release/2025/03/18/3044523/0/en/Helport-AI-Expands-AI-Solutions-for-the-Insurance-Industry-with-Enhanced-Insurance-Edition.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/4165bcbe-7c28-4ab2-a6fa-6df96179cf81",
+      "publishedAt": "2025-03-18 12:31:00",
+      "content": "Collaboration with Five Insurance Agencies to Pilot Upgraded AI-Powered Software SINGAPORE and SAN DIEGO, March 18, 2025 (GLOBE NEWSWIRE) -- Helport AI Limited (NASDAQ: HPAI) (Helport AI or the Comp\u2026 [+6134 chars]",
+      "retrievedAt": "2025-03-19 19:05:58.563474",
+      "internal_id": "712a6fe965155e2aeb9f90bef6551274514b204972b3a13fcbbe7f4826943040",
+      "publishedAtLabel": "Mar 18"
+    },
+    {
+      "id": 19460,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Lavozdegalicia.es",
+      "author": "La Voz",
+      "title": "Espa\u00f1a documenta los primeros casos en ni\u00f1os de un enterovirus raro detectado en Europa",
+      "description": "Uno de ellos tuvo que ser hospitalizado por meningitis y otro por par\u00e1lisis fl\u00e1cida aguda. El Instituto de Salud Carlos III insta a reforzar la vigilancia: \u00abPodr\u00eda representar un nuevo desaf\u00edo para la salud p\u00fablica\u00bb",
+      "url": "https://www.lavozdegalicia.es/noticia/sociedad/2025/03/18/espana-documenta-primeros-casos-ninos-enterovirus-raro-detectado-europa/00031742296591938377332.htm",
+      "urlToImage": "https://img.lavdg.com/sc/lee3yZ6QhIywJ0QWbDVC32KRsq0=/1280x/2025/03/18/00121742297102314560378/Foto/j_20250318_121809000.jpg",
+      "publishedAt": "2025-03-18 11:26:00",
+      "content": "El Instituto de Salud Carlos III ha documentado los primeros cinco casos en Espa\u00f1a aparecidos en ni\u00f1os, entre el 2019 y el 2024, de un enterovirus raro que se ha detectado tambi\u00e9n en otros pa\u00edses eur\u2026 [+3415 chars]",
+      "retrievedAt": "2025-03-19 19:06:00.125203",
+      "internal_id": "fa7f10578edd38aaa6c8c263d4de5cc302c7ac49d1556b0b54504c738a0f041a",
+      "publishedAtLabel": "Mar 18"
+    },
+    {
+      "id": 19463,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "NSC Total",
+      "title": "Em surto de chikungunya, cidade de SC registra 2\u00ba morte pela doen\u00e7a",
+      "description": "A paciente, segunda v\u00edtima da doen\u00e7a na cidade em mar\u00e7o, apresentava comorbidades. A morte foi registrada nessa segunda-feira (17/3)",
+      "url": "https://www.metropoles.com/brasil/em-surto-de-chikungunya-cidade-de-sc-registra-2o-morte-pela-doenca",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2025/03/18081704/chikungunya-1.jpg",
+      "publishedAt": "2025-03-18 11:25:24",
+      "content": "A cidade de Xanxer\u00ea, no oeste catarinense, registrou a segunda morte em decorr\u00eancia da chikungunya nessa segunda-feira (17/3). A v\u00edtima era uma mulher, de 85 anos, que estava internada no Hospital Re\u2026 [+435 chars]",
+      "retrievedAt": "2025-03-19 19:06:01.461902",
+      "internal_id": "5fa0d0c09539259a1545e1a5a4a7550f01fa6da7907391b868c11d4cb7592046",
+      "publishedAtLabel": "Mar 18"
+    },
+    {
+      "id": 19442,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Sciencebasedmedicine.org",
+      "author": "Mark Crislip",
+      "title": "Vitamin A, Infections and Measles",
+      "description": "I have always had a bias towards the Appeal to Nature Fallacy: An Appeal to Nature Fallacy happens when someone argues that something is good, better, or more authentic simply because it\u2019s natural, while brushing aside anything man-made as inferior or harmful\u2026",
+      "url": "https://sciencebasedmedicine.org/vitamin-a-infections-and-measles/",
+      "urlToImage": "https://sciencebasedmedicine.org/wp-content/uploads/2025/03/fonz-e1742155248531.jpg",
+      "publishedAt": "2025-03-18 08:07:00",
+      "content": "I have always had a bias towards the Appeal to Nature Fallacy: An Appeal to Nature Fallacy happens when someone argues that something is good, better, or more authentic simply because it\u2019s natural, \u2026 [+13698 chars]",
+      "retrievedAt": "2025-03-19 19:05:57.744713",
+      "internal_id": "09f2538283c0a3c511b16abe8d0ac61b46a270d1c7f179628d5e1d688b109df7",
+      "publishedAtLabel": "Mar 18"
+    },
     {
       "id": 19407,
       "query": [
@@ -289,6 +723,25 @@
       "content": "(WXYZ) Michigan has confirmed its first measles case since last July. An Oakland County adult tested positive after recently traveling overseas. As cases rise, people have questions about this highl\u2026 [+2089 chars]",
       "retrievedAt": "2025-03-19 07:07:04.426483",
       "internal_id": "9e2b64697d9176b04c695b170321e006ee6f02c3b066caf06dcd3ca17f2f4656",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 19453,
+      "query": [
+        "hpai",
+        "h5n1"
+      ],
+      "source_id": "nbc-news",
+      "source_name": "NBC News",
+      "author": "Ashley Morris",
+      "title": "The FDA has recalled some raw cat food \u2014 try these instead",
+      "description": "The FDA announced the recall of two types of Savage Pet raw cat food for potential bird flu contamination.",
+      "url": "https://www.nbcnews.com/select/shopping/raw-cat-food-recall-rcna196790",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-03/250317-catfood-recall-bd-main-45f264.jpg",
+      "publishedAt": "2025-03-17 20:16:53",
+      "content": "This weekend, the FDA announced that two types of Savage Pet raw cat food are being recalled for potential contamination with Highly Pathogenic Avian Influenza (HPAI) H5N1, commonly known as bird flu\u2026 [+4324 chars]",
+      "retrievedAt": "2025-03-19 19:05:58.572029",
+      "internal_id": "97fd2ad24c21578e99086e3f172f5ab08d05b6963147169174bf42407e8c50b4",
       "publishedAtLabel": "Mar 17"
     },
     {
@@ -27982,132 +28435,6 @@
       "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
       "retrievedAt": "2025-02-04 07:07:01.212340",
       "internal_id": "84f684308ba4ffa4fa15abb09ec46a7cc9d97d0bdd6c4486dce11d79ab56adcc",
-      "publishedAtLabel": "Feb 2"
-    },
-    {
-      "id": 17883,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "WTVD-TV",
-      "author": "Marisa Sardonia",
-      "title": "Bird flu in NC | Dead bird at Lake Julian Park receives 'preliminarily positive' test result for bird flu",
-      "description": "Despite these findings, the park will remain open, but visitors are advised to avoid touching or feeding waterfowl.",
-      "url": "https://abc11.com/post/bird-flu-nc-dead-lake-julian-park-receives-preliminarily-positive-test-result/15857185/",
-      "urlToImage": "https://cdn.abcotvs.com/dip/images/15857173_WLOSbirdflu0201.JPG?w=1600",
-      "publishedAt": "2025-02-02 17:46:41",
-      "content": "ASHEVILLE, N.C. -- Buncombe County officials report that a dead waterfowl bird at Lake Julian Park has received a \"preliminarily positive\" test result for Avian Influenza H5N1, commonly known as bird\u2026 [+957 chars]",
-      "retrievedAt": "2025-02-03 19:06:09.443906",
-      "internal_id": "94402575c35587377ac4ad2a7a1727d800e99d1911b97a966af8fb975be3b790",
-      "publishedAtLabel": "Feb 2"
-    },
-    {
-      "id": 17880,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "cbs-news",
-      "source_name": "CBS News",
-      "author": "Martha Teichner",
-      "title": "As bird flu ravages poultry industry, the damage spreads",
-      "description": "After the current strain of bird flu, H5N1, reached the U.S. in 2022, more than 148 million birds have been euthanized. What is the outbreak's potential impacts on humans, the poultry industry, egg prices, and U.S. exports?",
-      "url": "https://www.cbsnews.com/news/as-bird-flu-ravages-poultry-industry-the-damage-spreads/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/02/02/93af99c1-1c8d-4e2c-800f-17dd5b5e4b02/thumbnail/1200x630/03efc2d452e36c47154559d65c6838e9/bird-flu-1280.jpg?v=a599723035d2f104d7a2d01edbe96ef8",
-      "publishedAt": "2025-02-02 15:19:13",
-      "content": "There are seven generations of Corwins in the Aquebogue, Long Island, town cemetery. Their graves overlook the farm that's been in the family since the 1640s. Some family members' tombstones are ador\u2026 [+3931 chars]",
-      "retrievedAt": "2025-02-03 19:06:09.333622",
-      "internal_id": "25bd8193ca7d177522316a0e614c00e6a5a2e623f266149c0c7d0824e9f4a878",
-      "publishedAtLabel": "Feb 2"
-    },
-    {
-      "id": 17882,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "cbs-news",
-      "source_name": "CBS News",
-      "author": "CBS News",
-      "title": "The impact from bird flu spreads",
-      "description": "After H5N1, the current strain of bird flu, reached the United States in 2022, more than 148 million chickens, turkeys and other farm birds have been euthanized. Since last year, when the virus jumped from poultry and wild birds to mammals, the number of huma\u2026",
-      "url": "https://www.cbsnews.com/video/the-impact-from-bird-flu-spreads/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/02/02/1f3e29e1-72c9-426f-844a-61ba60eed817/thumbnail/1200x630/26f6c05a310603b67fd3bf816bcfc7a8/bird-flu-1920.jpg?v=a599723035d2f104d7a2d01edbe96ef8",
-      "publishedAt": "2025-02-02 15:18:00",
-      "content": "Watch CBS News Copyright \u00a92025 CBS Interactive Inc. All rights reserved. Get browser notifications for breaking news, live events, and exclusive reporting. Not NowTurn On",
-      "retrievedAt": "2025-02-03 19:06:09.368737",
-      "internal_id": "7894cedbb7b7f5a5689adafe70d2d4355399dad9cedb443b03f43a6921ef0908",
-      "publishedAtLabel": "Feb 2"
-    },
-    {
-      "id": 17881,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Rg.ru",
-      "author": null,
-      "title": "Nature: \u0420\u0430\u0441\u0442\u0435\u0442 \u0440\u0438\u0441\u043a \u043d\u043e\u0432\u043e\u0439 \u043f\u0430\u043d\u0434\u0435\u043c\u0438\u0438, \u0432\u044b\u0437\u0432\u0430\u043d\u043d\u043e\u0439 \u043f\u0442\u0438\u0447\u044c\u0438\u043c \u0433\u0440\u0438\u043f\u043f\u043e\u043c",
-      "description": "\u041f\u0442\u0438\u0447\u0438\u0439 \u0432\u0438\u0440\u0443\u0441 \u0433\u0440\u0438\u043f\u043f\u0430 H5N1 \u0430\u0434\u0430\u043f\u0442\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u043a \u043d\u043e\u0432\u044b\u043c \u0445\u043e\u0437\u044f\u0435\u0432\u0430\u043c - \u043c\u043b\u0435\u043a\u043e\u043f\u0438\u0442\u0430\u044e\u0449\u0438\u043c, \u0438 \u044d\u0442\u043e \u043f\u043e\u0432\u044b\u0448\u0430\u0435\u0442 \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u044c \u0435\u0433\u043e \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0435\u043d\u0438\u044f \u0441\u0440\u0435\u0434\u0438 \u043b\u044e\u0434\u0435\u0439.",
-      "url": "https://rg.ru/2025/02/02/nature-rastet-risk-novoj-pandemii-vyzvannoj-ptichim-grippom.html",
-      "urlToImage": "https://cdnstatic.rg.ru/uploads/images/2025/02/02/istock-2173054299-1_573.jpg",
-      "publishedAt": "2025-02-02 15:16:01",
-      "content": ", . 68 , . , \"\" , Nature. , , H5N1, , , . - , , . \" , , ( - . \") \", - Nature , , , . , , . H5N1: , B3.13, ; , D1.1, , , . B3.13 , 900 16 , , , . , , , , , . 40 . , . , . Nature, 24 , , D1.\u2026 [+62 chars]",
-      "retrievedAt": "2025-02-03 19:06:09.361221",
-      "internal_id": "09a328c5fd62404d20e1f9ca5e4949d4dbfdd18adf23087b1d12af5944ec7f2f",
-      "publishedAtLabel": "Feb 2"
-    },
-    {
-      "id": 17886,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Haber7.com",
-      "author": "Ramazan Y\u0131ld\u0131z",
-      "title": "Uganda'da M \u00e7i\u00e7e\u011fi vir\u00fcs\u00fcne kar\u015f\u0131 a\u015f\u0131 kampanyas\u0131 seferberli\u011fi",
-      "description": "Uganda'da Afrika Hastal\u0131k Kontrol ve \u00d6nleme Merkezleri (Africa CDC) taraf\u0131ndan ba\u011f\u0131\u015flanan 2 bin doz a\u015f\u0131, bin ki\u015fiye uygulanmaya ba\u015fland\u0131.",
-      "url": "https://www.haber7.com/dunya/haber/3501667-ugandada-m-cicegi-virusune-karsi-asi-kampanyasi-seferberligi",
-      "urlToImage": "https://i20.haber7.net/resize/1280x720//haber/haber7/photos/2025/05/ugandada_m_cicegi_virusune_karsi_asi_kampanyasi_seferberligi_1738501558_3925.jpg",
-      "publishedAt": "2025-02-02 13:06:00",
-      "content": "Uganda'nn bakenti Kampala'da M \u00e7i\u00e7ei vir\u00fcs\u00fc (Mpox) salgnyla m\u00fccadele kapsamnda y\u00fcksek risk gruplar ve salk \u00e7alanlarna y\u00f6nelik alama kampanyasnn ilk aamas balatld. Yerel basna yansyan haberlere g\u00f6re,\u2026 [+1110 chars]",
-      "retrievedAt": "2025-02-03 19:06:11.973579",
-      "internal_id": "44bab71e5765b926fdbbd9268eb1cf6c7843aead436f2d4c077a071f744390bc",
-      "publishedAtLabel": "Feb 2"
-    },
-    {
-      "id": 17885,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Anadolu Agency",
-      "author": null,
-      "title": "Uganda, M \u00e7i\u00e7e\u011fi vir\u00fcs\u00fc salg\u0131n\u0131yla m\u00fccadele kapsam\u0131nda a\u015f\u0131 kampanyas\u0131 ba\u015flatt\u0131",
-      "description": "Uganda'n\u0131n ba\u015fkenti Kampala'da M \u00e7i\u00e7e\u011fi vir\u00fcs\u00fc (Mpox) salg\u0131n\u0131yla m\u00fccadele kapsam\u0131nda y\u00fcksek risk gruplar\u0131 ve sa\u011fl\u0131k \u00e7al\u0131\u015fanlar\u0131na y\u00f6nelik a\u015f\u0131lama kampanyas\u0131n\u0131n ilk a\u015famas\u0131 ba\u015flat\u0131ld\u0131. - Anadolu Ajans\u0131",
-      "url": "https://www.aa.com.tr/tr/dunya/uganda-m-cicegi-virusu-salginiyla-mucadele-kapsaminda-asi-kampanyasi-baslatti/3469451",
-      "urlToImage": "https://cdnuploads.aa.com.tr/uploads/Contents/2025/02/02/thumbs_b_c_1c8532de8fa50550880b9b8ccb27dabb.jpg",
-      "publishedAt": "2025-02-02 12:23:48",
-      "content": "Yerel basna yansyan haberlere g\u00f6re, Afrika Hastalk Kontrol ve \u00d6nleme Merkezleri (Africa CDC) tarafndan balanan 2 bin doz a, bin kiiye uygulanmaya baland. Uganda Salk Bakanlndan yaplan a\u00e7klamada, Ara\u2026 [+1108 chars]",
-      "retrievedAt": "2025-02-03 19:06:11.953773",
-      "internal_id": "29b55ce4fdc54c5a52962349ec0dbb7e2fda51a19aee93b301f9d3aaae835ca4",
-      "publishedAtLabel": "Feb 2"
-    },
-    {
-      "id": 17884,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Www.dr.dk",
-      "author": null,
-      "title": "Danmark har ikke tabt ved VM siden 2017: 'Der var jeg lige kommet tilbage fra meningitis'",
-      "description": "Ungarn er det seneste hold, der har sl\u00e5et Danmark ved VM i herreh\u00e5ndbold.",
-      "url": "https://www.dr.dk/sporten/haandbold/vm/danmark-har-ikke-tabt-ved-vm-siden-2017-der-var-jeg-lige-kommet-tilbage-fra",
-      "urlToImage": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fwww.dr.dk%2Fimages%2Fother%2F2025%2F02%2F01%2Fscanpix-20250131-223129-l.jpg&w=1200",
-      "publishedAt": "2025-02-02 07:31:00",
-      "content": "Den 27-\u00e5rige m\u00e5lmand, som har haft over 100 redninger indtil videre ved dette VM, var 19 \u00e5r og havde netop v\u00e6ret igennem et sygdomsforl\u00f8b. - Der var jeg lige kommet tilbage fra meningitis. Det var e\u2026 [+450 chars]",
-      "retrievedAt": "2025-02-03 19:06:10.239102",
-      "internal_id": "a483b8a9c9449681a365c38d6144ba8fba11c39eb3049318e23228e7283d079b",
       "publishedAtLabel": "Feb 2"
     }
   ]
