@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 42
-- **Last harvest:** 2025-03-18 19:05
-- **Most recent article:** 2025-03-17 18:09:59
+- **New articles in last harvest:** 34
+- **Last harvest:** 2025-03-19 07:07
+- **Most recent article:** 2025-03-18 07:00:59
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-10 | 25-11 | 25-12 | 25-6 | 25-7 | 25-8 | 25-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 142 | 126 | 12 | 24 | 72 | 83 | 162 | 621 |
-| h5n1 | 23 | 39 | 26 | 67 | 55 | 54 | 42 | 306 |
+| measles | 142 | 133 | 30 | 24 | 72 | 83 | 162 | 646 |
+| h5n1 | 23 | 39 | 30 | 71 | 55 | 54 | 42 | 314 |
 | dengue | 8 | 12 | 4 | 33 | 37 | 57 | 30 | 181 |
-| malaria | 29 | 22 | 8 | 25 | 12 | 7 | 20 | 123 |
-| mpox | 14 | 15 | 1 | 26 | 18 | 15 | 26 | 115 |
-| meningitis | 4 | 9 | 0 | 1 | 12 | 11 | 7 | 44 |
+| malaria | 29 | 22 | 11 | 25 | 12 | 7 | 20 | 126 |
+| mpox | 14 | 15 | 1 | 28 | 18 | 15 | 26 | 117 |
+| meningitis | 4 | 9 | 1 | 2 | 12 | 11 | 7 | 46 |
 | hpai | 10 | 3 | 7 | 3 | 9 | 5 | 4 | 41 |
 | chikungunya | 6 | 1 | 2 | 8 | 5 | 3 | 7 | 32 |
 | rabies | 3 | 8 | 2 | 4 | 5 | 4 | 2 | 28 |
+| zika | 3 | 0 | 1 | 6 | 2 | 6 | 2 | 20 |
 | typhoid | 3 | 8 | 0 | 2 | 3 | 0 | 4 | 20 |
-| zika | 3 | 0 | 0 | 6 | 2 | 6 | 2 | 19 |
 | pertussis | 0 | 5 | 0 | 3 | 3 | 2 | 0 | 13 |
 | yersinia | 1 | 2 | 0 | 0 | 5 | 0 | 2 | 10 |
 | leptospirosis | 3 | 0 | 1 | 0 | 0 | 2 | 0 | 6 |
@@ -1793,9 +1793,15 @@ Source: [News API](https://newsapi.org/)
 
 - [New mpox vaccination sites open across England for high-risk people](https://news.sky.com/story/new-mpox-vaccination-sites-open-across-england-for-high-risk-people-13302169) (Sky.com)
 
+- [Uganda'da M çiçeği virüsüne karşı aşı kampanyası seferberliği](https://www.haber7.com/dunya/haber/3501667-ugandada-m-cicegi-virusune-karsi-asi-kampanyasi-seferberligi) (Haber7.com)
+
+- [Uganda, M çiçeği virüsü salgınıyla mücadele kapsamında aşı kampanyası başlattı](https://www.aa.com.tr/tr/dunya/uganda-m-cicegi-virusu-salginiyla-mucadele-kapsaminda-asi-kampanyasi-baslatti/3469451) (Anadolu Agency)
+
 ## 25-6 (meningitis)
 
 - [Love Changes the Heart—More Than Metaphorically](https://www.theepochtimes.com/health/love-changes-the-heart-more-than-metaphorically-5804355) (Theepochtimes.com)
+
+- [Danmark har ikke tabt ved VM siden 2017: 'Der var jeg lige kommet tilbage fra meningitis'](https://www.dr.dk/sporten/haandbold/vm/danmark-har-ikke-tabt-ved-vm-siden-2017-der-var-jeg-lige-kommet-tilbage-fra) (Www.dr.dk)
 
 ## 25-6 (measles)
 
@@ -2043,6 +2049,14 @@ Source: [News API](https://newsapi.org/)
 
 - [大S猝逝占据大陆热搜 中共隐瞒疫情误事(组图)](https://www.secretchina.com/news/gb/2025/02/03/1077055.html) (Secretchina.com)
 
+- [Bird flu in NC | Dead bird at Lake Julian Park receives 'preliminarily positive' test result for bird flu](https://abc11.com/post/bird-flu-nc-dead-lake-julian-park-receives-preliminarily-positive-test-result/15857185/) (WTVD-TV)
+
+- [As bird flu ravages poultry industry, the damage spreads](https://www.cbsnews.com/news/as-bird-flu-ravages-poultry-industry-the-damage-spreads/) (CBS News)
+
+- [The impact from bird flu spreads](https://www.cbsnews.com/video/the-impact-from-bird-flu-spreads/) (CBS News)
+
+- [Nature: Растет риск новой пандемии, вызванной птичьим гриппом](https://rg.ru/2025/02/02/nature-rastet-risk-novoj-pandemii-vyzvannoj-ptichim-grippom.html) (Rg.ru)
+
 ## 25-6 (dengue)
 
 - [Anvisa: Como usar repelentes contra o mosquito da dengue de forma eficaz](https://catracalivre.com.br/saude-bem-estar/anvisa-como-usar-repelentes-contra-o-mosquito-da-dengue-de-forma-eficaz/) (Catracalivre.com.br)
@@ -2129,6 +2143,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Clinical manifestations associated with the chronic phase of Chikungunya Fever: A systematic review of prevalence](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012810) (Plos.org)
 
+## 25-12 (zika)
+
+- [Tunnel-building virus: How Zika transmits from mother to fetus](https://www.sciencedaily.com/releases/2025/03/250317163636.htm) (Science Daily)
+
 ## 25-12 (rabies)
 
 - [Traditional practices versus modern healthcare: Determinants of traditional medicine use after potential dog bites among dog-owning households in Nigeria](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012910) (Plos.org)
@@ -2139,7 +2157,29 @@ Source: [News API](https://newsapi.org/)
 
 - [Clinical and Epidemiologic Characteristics of Mpox Cases, Dominican Republic, July 2022–February 2023](https://wwwnc.cdc.gov/eid/article/31/5/24-1299_article) (Cdc.gov)
 
+## 25-12 (meningitis)
+
+- [Diphtheria: Paediatricians demand scale-up of immunisation](https://punchng.com/diphtheria-paediatricians-demand-scale-up-of-immunisation/) (The Punch)
+
 ## 25-12 (measles)
+
+- [The U.S. measles outbreak is growing. Here's what to know](https://www.npr.org/2025/03/18/1266983411/health-measles-outbreak-safe-science-vaccine) (NPR)
+
+- [美大砍全球衛生資金，世衛警告危及數百萬人性命](https://technews.tw/2025/03/18/usa-cut-funds-who-warning/) (Technews.tw)
+
+- [WHO issues starkest warning yet on fallout from U.S. withdrawal of aid for global health (Helen Branswell/STAT)](https://www.memeorandum.com/250317/p152) (Memeorandum.com)
+
+- [Measles is back — and more dangerous than you think. Here’s what you can do to protect yourself.](https://www.vox.com/health/404709/measles-outbreak-cdc-vaccine-booster-recommendations) (Vox)
+
+- [Measles remains a danger to health even years after an infection](https://www.kuow.org/stories/measles-remains-a-danger-to-health-even-years-after-an-infection) (KUOW News and Information)
+
+- [Measles continues to spread in West Texas and New Mexico. How can you stay safe?](https://www.npr.org/2025/03/17/nx-s1-5326146/measles-continues-to-spread-in-west-texas-and-new-mexico-how-can-you-stay-safe) (NPR)
+
+- [Staying Safe and Healthy: How to protect yourself from measles](https://www.ladowntownnews.com/news/staying-safe-and-healthy-how-to-protect-yourself-from-measles/article_0be62872-0379-11f0-ba6d-83de9d30630f.html) (Ladowntownnews.com)
+
+- [Measles cases return to Michigan, here's what you should know](https://www.wxyz.com/news/measles-cases-return-to-michigan-heres-what-you-should-know) (WXYZ)
+
+- [Linn County Health Leaders launch Community Measles Education Campaign](https://www.kwwl.com/news/cedar-rapids/linn-county-health-leaders-launch-community-measles-education-campaign/article_dd769faa-0358-11f0-801e-bb4b493cca3a.html) (kwwl.com)
 
 - [Vaccines And AI](https://www.forbes.com/sites/johnwerner/2025/03/17/vaccines-and-ai/) (Forbes)
 
@@ -2151,13 +2191,31 @@ Source: [News API](https://newsapi.org/)
 
 - [Trump Gloats About Dubious Golf Title as Americans Die in Severe Storms (Ryan Bort/Rolling Stone)](https://www.memeorandum.com/250317/p54) (Memeorandum.com)
 
+- [Measles remains a danger to health even years after an infection - NewsBreak](https://www.newsbreak.com/share/3859322637811-measles-remains-a-danger-to-health-even-years-after-an-infection?_f=app_share&pd=00UhHWCu&lang=en_US&send_time=1742227913&trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.11.0.51%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_rank_exp_25q1-v1%2Cns_foryou_blend_exp_25q1-v9%2Cns_foryou_recall_exp_25q1-v2%2Cns_foryou_model_exp_25q1-v8%2Cns_local_strategy_25q1_exp-v3%2Cns_push_exp_rt_bucketv12-v2&s=i2) (Newsbreak.com)
+
+- [Trump Gloats About Dubious Golf Title as Americans Die in Severe Storms](http://www.rollingstone.com/politics/politics-news/trump-gloats-golf-championship-severe-storms-1235297691/) (Rolling Stone)
+
+- [Measles remains a danger to health even years after an infection - NewsBreak](https://www.newsbreak.com/news/3859322637811-measles-remains-a-danger-to-health-even-years-after-an-infection?noAds=1&_f=app_share&s=a2&share_destination_id=MjY3NjM5MzUwLTE3NDIyMjU5NTQ5MzQ%3D) (Newsbreak.com)
+
+- [Houston health officials confirm 3rd measles case; Unvaccinated infant's illness linked to international travel](https://abc13.com/post/houston-health-officials-confirm-3rd-measles-case-unvaccinated-infants-illness-linked-international-travel/16038226/) (KTRK-TV)
+
 - [After CDC pick is abruptly yanked, worry over U.S. measles messaging remains (Washington Post)](https://www.memeorandum.com/250317/p39) (Memeorandum.com)
+
+- [Measles remains a danger to health even years after an infection - NewsBreak](https://www.newsbreak.com/share/3859322637811-measles-remains-a-danger-to-health-even-years-after-an-infection?_f=app_share&pd=0AZrjK6w&lang=en_US&send_time=1742219812&trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.11.0.51%22%2C%22languages%22%3A%22en%22%7D&sep=ns_local_strategy_25q1_exp-v5%2Cns_foryou_blend_exp_25q1-v7%2Cns_foryou_recall_exp_25q1-v8%2Cns_foryou_model_exp_25q1-v8%2Cns_foryou_rank_exp_25q1-control%2Cns_push_exp_rt_bucketv12-v8&s=i16) (Newsbreak.com)
 
 - [Measles cases confirmed in Edmonton, triggering public health warning](https://www.cbc.ca/news/canada/edmonton/edmonton-measles-exposures-1.7485363) (CBC News)
 
+- [Monday, March 17, 2025](https://kffhealthnews.org/morning-briefing/monday-march-17-2025/) (Kffhealthnews.org)
+
 - [Measles remains a danger to health even years after an infection](https://www.npr.org/sections/shots-health-news/2025/03/17/nx-s1-5328765/measles-outbreak-health-risk) (NPR)
 
+- [Stanford Medicine expert answers questions about measles](https://news.stanford.edu/stories/2025/03/stanford-medicine-expert-measles-symptoms-transmission-prevention) (Stanford.edu)
+
 - [A visit with a family in mourning](https://www.metafilter.com/208047/A-visit-with-a-family-in-mourning) (Metafilter.com)
+
+- [Texas measles outbreak: Three Houston cases confirmed](https://www.fox26houston.com/news/houston-measlies-case-infant-2025) (fox26houston.com)
+
+- [What to know about measles as first case of 2025 confirmed in Oakland County](https://www.clickondetroit.com/news/local/2025/03/16/what-to-know-about-measles-as-first-case-of-2025-confirmed-in-oakland-county/) (WDIV ClickOnDetroit)
 
 - [Recap: What made news last week across Virginia](https://richmond.com/news/state-regional/article_e3ba212e-ff71-11ef-afa0-071d975426c2.html) (Richmond.com)
 
@@ -2166,6 +2224,12 @@ Source: [News API](https://newsapi.org/)
 - [TWiV 1201: Booster shots with Adam Ratner](https://www.microbe.tv/twiv/twiv-1201/) (Microbe.tv)
 
 ## 25-12 (malaria)
+
+- [OMS: Avances contra enfermedades están ‘en riesgo’ tras recortes de financiación de EU](https://www.excelsior.com.mx/nacional/onu-avances-contra-enfermedades-estan-en-riesgo-tras-recortes-de-financiacion-de-eu/1705564) (Excelsior.com.mx)
+
+- [Tedros dice a Trump: Millones de vidas en peligro por recortes a programas de salud](https://aristeguinoticias.com/170325/mundo/tedros-dice-a-trump-millones-de-vidas-en-peligro-por-recortes-a-programas-de-salud/) (Aristeguinoticias.com)
+
+- [La OMS alerta de que los recortes de EE.UU. amenazan a millones de personas y deshacen 20 años de progreso](https://www.abc.es/sociedad/oms-alerta-recortes-eeuu-amenazan-millones-personas-20250317204443-nt.html) (Www.abc.es)
 
 - [Sparmaßnahmen: WHO-Chef befürchtet Millionen Tote durch US-Förderstopp](https://www.tagesspiegel.de/internationales/sparmassnahmen-who-chef-befurchtet-millionen-tote-durch-us-forderstopp-13384426.html) (Der Tagesspiegel)
 
@@ -2204,6 +2268,14 @@ Source: [News API](https://newsapi.org/)
 - [Alarma en la Antártida: Confirman un brote masivo de gripe aviar en varias especies](https://es.gizmodo.com/alarma-en-la-antartida-confirman-un-brote-masivo-de-gripe-aviar-en-varias-especies-2000154626) (Gizmodo.com)
 
 ## 25-12 (h5n1)
+
+- [Wie gefährlich ist Rohmilch wirklich? Vogelgrippevirus in Käse entdeckt](https://www.chip.de/nachrichten/gesundheit,133928/vogelgrippevirus-im-kaese-gefahr-durch-rohmilch_e3071dd8-df5e-4190-b8c5-70373da32373.html) (CHIP Online Deutschland)
+
+- [联合国发出警告：禽流感威胁史无前例 病毒已扩散至哺乳动物](https://www.cnbeta.com.tw/articles/tech/1486258.htm) (Cnbeta.com.tw)
+
+- [Antiviral baloxavir com potencial para tratar gripe aviária em humanos](https://observador.pt/2025/03/17/antiviral-baloxavir-com-potencial-para-tratar-gripe-aviaria-em-humanos/) (Observador.pt)
+
+- [Move Over, H5N1—Another Bird Flu Strain Has Arrived in the U.S.](https://gizmodo.com/move-over-h5n1-another-bird-flu-strain-has-arrived-in-the-u-s-2000576923) (Gizmodo.com)
 
 - [La gripe aviar está presente en toda la península antártica y afecta a más especies](https://www.montevideo.com.uy/Salud/La-gripe-aviar-esta-presente-en-toda-la-peninsula-antartica-y-afecta-a-mas-especies-uc917907) (Montevideo.com.uy)
 
@@ -2381,6 +2453,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-11 (measles)
 
+- [Measles cases reach nearly 300 total in Texas and New Mexico. Here's what you should know](https://6abc.com/post/measles-cases-reach-300-total-texas-new-mexico-heres-what-should-know/16028995/) (WPVI-TV)
+
+- [Measles cases reach nearly 300 total in Texas and New Mexico. Here's what you should know](https://abc7news.com/post/measles-cases-reach-300-total-texas-new-mexico-heres-what-should-know/16028995/) (KGO-TV)
+
+- [Measles cases reach nearly 300 total in Texas and New Mexico. Here's what you should know](https://abc7chicago.com/post/measles-cases-reach-300-total-texas-new-mexico-heres-what-should-know/16028995/) (WLS-TV)
+
 - [Director of HHS convinces people to expose their children to measles and then not to take them to a doctor](https://www.lawyersgunsmoneyblog.com/2025/03/director-of-hhs-convinces-people-to-expose-their-children-to-measles-and-then-not-to-take-them-to-a-doctor) (Lawyersgunsmoneyblog.com)
 
 - [Measles Can Cause ‘Immune Amnesia’ And SSPE As Long-Term Problems](https://www.forbes.com/sites/brucelee/2025/03/15/measles-can-cause-immune-amnesia-and-sspe-as-long-term-problems/) (Forbes)
@@ -2393,9 +2471,17 @@ Source: [News API](https://newsapi.org/)
 
 - [Newborn babies exposed to measles in Texas hospital (Erika Edwards/NBC News)](https://www.memeorandum.com/250315/p6) (Memeorandum.com)
 
+- [Measles warning in Victoria and NSW as new cases linked to travel from Bali and other Asian destinations](https://7news.com.au/news/measles-warning-in-victoria-and-nsw-as-new-cases-linked-to-travel-from-bali-and-other-asian-destinations-c-18048651) (7NEWS.com.au)
+
 - [TWiV 1200: Clinical update with Dr. Daniel Griffin](https://www.microbe.tv/twiv/twiv-1200/) (Microbe.tv)
 
 - [Province warns of measles spread as northern Alberta community deals with outbreak](https://www.cbc.ca/news/canada/calgary/little-red-river-cree-nation-measles-outbreak-six-cases-1.7484241) (CBC News)
+
+- [Denver Health holds measles vaccination clinic amid outbreak](https://denvergazette.com/news/denver-health-holds-measles-vaccination-clinic-amid-outbreaks/article_d4f907ee-00da-11f0-a5b1-8b7c9e8c9031.html) (Denvergazette.com)
+
+- [Bay Area Health Officials Urge Measles Vaccination](https://contracosta.news/2025/03/14/bay-area-health-officials-urge-measles-vaccination/) (Contracosta.news)
+
+- [Bay Area health leaders encourage getting measles vaccine](https://www.nbcbayarea.com/news/local/measles-cases-bay-area-vaccine/3819567/) (NBC Bay Area)
 
 - [RFK Jr Called Out By Democratic Lawmaker For Not Answering Him On Live Broadcast: 'Respond to the Damn Letter'](https://www.ibtimes.com/rfk-jr-called-out-democratic-lawmaker-not-answering-him-live-broadcast-respond-damn-letter-3766351) (International Business Times)
 
