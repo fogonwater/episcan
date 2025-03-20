@@ -1,8 +1,368 @@
 {
-  "last_updated": "2025-03-20 07:06",
-  "count_articles_total": 1596,
-  "count_articles_new": 12,
+  "last_updated": "2025-03-20 19:05",
+  "count_articles_total": 1609,
+  "count_articles_new": 20,
   "articles": [
+    {
+      "id": 19485,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "KPBS",
+      "author": "City News Service",
+      "title": "El Cajon-based cat food company recalls batch over bird flu concerns",
+      "description": "According to the company, they were first notified in February of a cat who contracted bird flu and recovered in Colorado after eating Savage Pet food.",
+      "url": "https://www.kpbs.org/news/health/2025/03/19/el-cajon-based-cat-food-company-recalls-batch-over-bird-flu-concerns",
+      "urlToImage": "https://cdn.kpbs.org/dims4/default/236ec55/2147483647/strip/true/crop/1024x538+0+52/resize/1200x630!/quality/90/?url=http%3A%2F%2Fkpbs-brightspot.s3.us-west-2.amazonaws.com%2F7d%2F0b%2F8112f51f4887af36fb2a3c2d9827%2Fap25077653848954.jpg",
+      "publishedAt": "2025-03-19 17:37:11",
+      "content": "El Cajon-based cat food manufacturer Savage Pet is recalling boxes of raw chicken cat food Tuesday over concerns they may be contaminated with H5N1, the virus that causes bird flu. According to the \u2026 [+1553 chars]",
+      "retrievedAt": "2025-03-20 19:05:51.238310",
+      "internal_id": "1f2dabc081ec2ba76cedc1cb65a26da2600e74a24172ab4bb6efe140cdced1d4",
+      "publishedAtLabel": "Mar 19"
+    },
+    {
+      "id": 19487,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Tunji, Yang Zhe",
+      "title": "Death toll from meningitis outbreak in NW Nigeria rises to 56",
+      "description": "ABUJA, March 19 (Xinhua) -- The death toll of an outbreak of Cerebrospinal Meningitis (CSM) across four local government areas in Nigeria's northwestern state of Kebbi has risen from 26 to 56, health authorities said on Wednesday. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2025/03/20/death-toll-from-meningitis-outbreak-in-nw-nigeria-rises-to-56",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2025-03-19 17:23:00",
+      "content": "ABUJA, March 19 (Xinhua) -- The death toll of an outbreak of Cerebrospinal Meningitis (CSM) across four local government areas in Nigeria's northwestern state of Kebbi has risen from 26 to 56, health\u2026 [+1025 chars]",
+      "retrievedAt": "2025-03-20 19:05:51.931407",
+      "internal_id": "747443a91128d75a853edecb0917f838a9cff67faf01ddb1f98e42fd155391df",
+      "publishedAtLabel": "Mar 19"
+    },
+    {
+      "id": 19488,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Premium Times",
+      "author": "Agency Report",
+      "title": "Meningitis Outbreak: Death toll in Kebbi rises to 55",
+      "description": "Mr Musa-Ismaila said the Public Health Department started receiving reports of people showing symptoms of fever, severe headache, neck stiffness and associated vomiting and dizziness, which in some cases resulted in deaths",
+      "url": "https://www.premiumtimesng.com/health/health-news/782030-meningitis-outbreak-death-toll-in-kebbi-rises-to-55.html",
+      "urlToImage": "https://media.premiumtimesng.com/wp-content/files/2017/03/Meningitis-vaccination.jpg",
+      "publishedAt": "2025-03-19 16:56:19",
+      "content": "The death toll from the ongoing cerebrospinal meningitis (CSM) outbreak in Kebbi State has risen to 55, affecting three Local Government Areas (LGAs), health authorities confirmed on Wednesday. The \u2026 [+1537 chars]",
+      "retrievedAt": "2025-03-20 19:05:51.940636",
+      "internal_id": "53598031c84e60f2dc93d10515e022bdab521b021160f508e47566ce60c2ca9b",
+      "publishedAtLabel": "Mar 19"
+    },
+    {
+      "id": 19492,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Ingo Bach",
+      "title": "Erstmals gibt es Daten zur Wirksamkeit der MPox-Impfung: Schon eine Impfdosis sch\u00fctzt \u2013 aber nicht alle",
+      "description": "Laut einer gro\u00dfen Studie der Charit\u00e9 ist das Infektionsrisiko um 84 Prozent gemindert. Doch bei Menschen, die mit HIV leben, ist der Schutz nach der ersten Dosis unzureichend. Experten empfehlen mehrfache Impfung.",
+      "url": "https://www.tagesspiegel.de/gesundheit/erstmals-gibt-es-daten-zur-wirksamkeit-der-mpox-impfung-schon-eine-impfdosis-schutzt--aber-nicht-alle-13392466.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/12209927/alternates/BASE_16_9_W1400/1723812540000/-.jpeg",
+      "publishedAt": "2025-03-19 15:41:28",
+      "content": "Lange Zeit war unklar, wie gut der eigentlich f\u00fcr die Pocken zugelassene Impfstoff Imvanex auch gegen die sogenannten MPox sch\u00fctzt. Nun zeigt eine jetzt in der Fachzeitschrift Lancet Infectious Disea\u2026 [+8067 chars]",
+      "retrievedAt": "2025-03-20 19:05:53.033245",
+      "internal_id": "9c96dc058bb14bd1e4e2455227cc2c6afcfe1ce02e3a53ce86cf033aaf3e5a50",
+      "publishedAtLabel": "Mar 19"
+    },
+    {
+      "id": 19477,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": null,
+      "title": "As cases climb in the US, do you need another measles shot?",
+      "description": "Experts say some children can get vaccinated earlier and adults can get a second dose if the risk is high.",
+      "url": "https://www.bbc.com/news/articles/crmjpdldnpwo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6ad3/live/f7e3c850-0415-11f0-9134-2fab0e718688.jpg",
+      "publishedAt": "2025-03-19 15:30:32",
+      "content": "Debra Eichenbaum had not thought about the measles virus for 20 years when she got her two young children vaccinated against the highly contagious disease. But then cases across the US began to clim\u2026 [+5739 chars]",
+      "retrievedAt": "2025-03-20 19:05:50.246612",
+      "internal_id": "df29aea79e243452e4ab708feb9571dd10cfc4e02a18de75a3a2d3378c577a73",
+      "publishedAtLabel": "Mar 19"
+    },
+    {
+      "id": 19480,
+      "query": [
+        "measles"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Lucy Notarantonio",
+      "title": "Millennial Woman Recalls How Measles Was Dealt With at Her School in '90s",
+      "description": "Pamela Wurst Vetrini told Newsweek: \"The '90s were a simpler time when we trusted scientists, doctors, and experts and cared about our neighbors.\"",
+      "url": "https://www.newsweek.com/millennial-woman-measles-outbreak-90s-2047078",
+      "urlToImage": "https://d.newsweek.com/en/full/2610308/measles-90s.png",
+      "publishedAt": "2025-03-19 15:14:47",
+      "content": "The outbreak of measles has made Pamela Wurst Vetrini cast her mind back to the early '90s, when there was an epidemic. She praises parents and kids of that era for how they \"handled\" the highly con\u2026 [+3553 chars]",
+      "retrievedAt": "2025-03-20 19:05:50.343934",
+      "internal_id": "c98c3e9017409924e10d79b0cdbbdff80bdc6cb6ccf23559b07702df059eff6b",
+      "publishedAtLabel": "Mar 19"
+    },
+    {
+      "id": 19482,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Mother Jones",
+      "author": "Reveal",
+      "title": "Bird Flu, Measles, and Trump\u2019s Ticking Time Bomb",
+      "description": "This month marks the five-year anniversary of the Covid-19 pandemic, which has killed 1.2 million people in the US alone. While life has returned to normal for most Americans, the threats to our health haven\u2019t disappeared. Hundreds of people in the US continu\u2026",
+      "url": "https://www.motherjones.com/politics/2025/03/bird-flu-measles-rfk-trump-covid/",
+      "urlToImage": "https://www.motherjones.com/wp-content/uploads/2025/03/AP25052653529724-e1742321723426.jpg?w=1200&h=630&crop=1",
+      "publishedAt": "2025-03-19 14:03:43",
+      "content": "A sign outside Seminole Hospital District in Texas offers measles testing in February. Julio Cortez/AP Fight disinformation: Sign up for the free Mother Jones Daily newsletter and follow the news th\u2026 [+3696 chars]",
+      "retrievedAt": "2025-03-20 19:05:50.482322",
+      "internal_id": "bcb2ade8e55856321fa26253fcdaee0eb8b4d6441d0382783d02b7fc453fac39",
+      "publishedAtLabel": "Mar 19"
+    },
+    {
+      "id": 19476,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Belay Tafa Regassa, Wagi Tosisa, Daniel Eshetu, Andargachew Mulu, Gadissa Bedada Hundie",
+      "title": "Incidence, risk factors, and control of Rabies in Ethiopia: A systematic review and meta-analysis",
+      "description": "Author summary Rabies virus infects all mammals with a fatality rate of nearly 100%. More than 99% of human rabies cases are transmitted via dog bites. Becoming one of the neglected tropical diseases, rabies occurs in several geographical areas. In Ethiopia, \u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012874",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012874.g006&size=inline",
+      "publishedAt": "2025-03-19 14:00:00",
+      "content": "Introduction Rabies virus infects all mammals, including humans, with a fatality rate of nearly 100%. It occurs in over 150 countries, and almost half of the global population is at risk of contract\u2026 [+35512 chars]",
+      "retrievedAt": "2025-03-20 19:05:49.663399",
+      "internal_id": "6d4dd00063becb8d6933814a78e9c7d07be8211bc5c4cd0593d4c5ed4481ecef",
+      "publishedAtLabel": "Mar 19"
+    },
+    {
+      "id": 19486,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Katherine Susan Rufasto Goche, Mar\u00eda Victoria Lizarbe Castro, Glenn Alberto Lozano Zanelly, Washington Melvin Lira Camargo, Elizabeth Yovana Ascayo Velasquez, Alexis G. Murillo Carrasco, Daysi Diaz-Obreg\u00f3n",
+      "title": "Epidemiological dynamics of dengue in Peru: Temporal and spatial drivers between 2000 and 2022",
+      "description": "Dengue, a vector-borne disease driven by climate change, urbanization, and the adaptation of its vector, Aedes aegypti, poses a significant public health challenge. This study analyzed 23 years (2000\u20132022) of epidemiological data from Peru to examine the temp\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0319708",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0319708.g002&size=inline",
+      "publishedAt": "2025-03-19 14:00:00",
+      "content": "Introduction Dengue is a viral disease caused by the dengue virus (DENV), an arbovirus belonging to the Flaviviridae family, primarily transmitted by mosquitoes of the Aedes genus, especially Aedes \u2026 [+22331 chars]",
+      "retrievedAt": "2025-03-20 19:05:51.586531",
+      "internal_id": "d835c574199900168051738b2177db13d2f41c70630bc51e724dafb64cc33d01",
+      "publishedAtLabel": "Mar 19"
+    },
+    {
+      "id": 19489,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Harrison J. Ostridge, Scientist, UCL Genetics Institute, UCL, Aida Andres, Professor of Population and Evolutionary Genomics, UCL, Mimi Arandjelovic, Staff Scientist, Max Planck Institute for Evolutionary Anthropology",
+      "title": "Chimpanzee genes have changed over time to suit local conditions \u2013 new study",
+      "description": "Chimpanzees bear genetic adaptations that help them thrive in their different forest and savannah habitats. Some of the adaptations may protect against malaria.",
+      "url": "https://theconversation.com/chimpanzee-genes-have-changed-over-time-to-suit-local-conditions-new-study-250973",
+      "urlToImage": "https://images.theconversation.com/files/654365/original/file-20250311-56-8rzjc4.JPG?ixlib=rb-4.1.0&rect=49%2C548%2C5472%2C2736&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2025-03-19 13:39:19",
+      "content": "Chimpanzees are humans\u2019 closest living relatives, sharing over 98% of our DNA. They are endangered, with fewer than 250,000 left and an annual decline of between 1.5% and 6%. This is due to habitat d\u2026 [+7040 chars]",
+      "retrievedAt": "2025-03-20 19:05:52.303313",
+      "internal_id": "69a1b34fa37a6f184c9cd063ffa27d47b8fecf4c831e8c5c92beb1a18430fb3c",
+      "publishedAtLabel": "Mar 19"
+    },
+    {
+      "id": 19483,
+      "query": [
+        "hpai"
+      ],
+      "source_id": "info-money",
+      "source_name": "InfoMoney",
+      "author": "Reuters",
+      "title": "China encerra proibi\u00e7\u00e3o de dois anos de importa\u00e7\u00f5es de carne de aves da Argentina",
+      "description": "A Argentina suspendeu as exporta\u00e7\u00f5es de aves em fevereiro de 2023 ap\u00f3s detectar a Influenza Avi\u00e1ria Altamente Patog\u00eanica (HPAI) em aves comerciais The post China encerra proibi\u00e7\u00e3o de dois anos de importa\u00e7\u00f5es de carne de aves da Argentina appeared first on Inf\u2026",
+      "url": "https://www.infomoney.com.br/economia/china-encerra-proibicao-de-dois-anos-de-importacoes-de-carne-de-aves-da-argentina/",
+      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2024/07/chicken-2647636_1280.jpg?quality=70",
+      "publishedAt": "2025-03-19 13:15:28",
+      "content": "\u00a9 2000-2025 InfoMoney. Todos os direitos reservados. O InfoMoney preza a qualidade da informa\u00e7\u00e3o e atesta a apura\u00e7\u00e3o de todo o conte\u00fado produzido por sua equipe, ressaltando, no entanto, que n\u00e3\u2026 [+1238 chars]",
+      "retrievedAt": "2025-03-20 19:05:50.657482",
+      "internal_id": "266e36706cf8bce22f4065f2f748eb38775951157e09f5ee49e84a2463cbaa0c",
+      "publishedAtLabel": "Mar 19"
+    },
+    {
+      "id": 19479,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "PCWorld",
+      "author": "Dominic Bayley",
+      "title": "Enough with the game launchers! It\u2019s dragging PC gaming down",
+      "description": "Where do I launch my games these days? Try, EA, Steam, Blizzard, Epic, Xbox app, Ubisoft Connect\u2026 I\u2019m getting dizzy just listing them off. In fact, my desktop is so cluttered with icons it looks like it has a bad case of computer measles. But worse than \u2026",
+      "url": "https://www.pcworld.com/article/2627128/enough-with-the-game-launchers-its-dragging-pc-gaming-down.html",
+      "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/03/pexels-yankrukov-9072216.jpg?quality=50&strip=all&w=1024",
+      "publishedAt": "2025-03-19 13:00:00",
+      "content": "Skip to contentType your search and hit enter When you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence . Where do I launch my\u2026 [+5795 chars]",
+      "retrievedAt": "2025-03-20 19:05:50.334379",
+      "internal_id": "b258f2310347cb22f1c80b08f72a1088b9a4869166d25189a17e4ca714ad4926",
+      "publishedAtLabel": "Mar 19"
+    },
+    {
+      "id": 19478,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Daniel Pastula, Professor of Neurology, Medicine (Infectious Diseases), and Epidemiology, University of Colorado Anschutz Medical Campus",
+      "title": "Measles cases are on the rise \u2212 here\u2019s how to make sure you\u2019re protected",
+      "description": "A medical epidemiologist explains who should consider getting a booster and whether you might need to check your antibody levels.",
+      "url": "https://theconversation.com/measles-cases-are-on-the-rise-heres-how-to-make-sure-youre-protected-252277",
+      "urlToImage": "https://images.theconversation.com/files/655771/original/file-20250317-56-zi4hvr.jpg?ixlib=rb-4.1.0&rect=0%2C422%2C4864%2C2432&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2025-03-19 12:53:09",
+      "content": "Should you get an additional shot of the measles vaccine? Hailshadow via Gett Images The measles outbreak that started in Texas in late January continues to grow. As of March 18, 2025, confirmed cas\u2026 [+8090 chars]",
+      "retrievedAt": "2025-03-20 19:05:50.297669",
+      "internal_id": "50c4a0414c8f15af33acb1129157d43319a2343fb3aa8342b26eb3563d452125",
+      "publishedAtLabel": "Mar 19"
+    },
+    {
+      "id": 19491,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "Berliner Charit\u00e9-Forscher weisen hohe Wirksamkeit von Mpox-Impfung nach",
+      "description": "Die Impfung gegen die Infektionskrankheit Mpox weist einer Studie der Berliner Universit\u00e4tsklinik Charit\u00e9 zufolge eine hohe Wirksamkeit auf. Dies habe ein Forscherteam im Auftrag der Europ\u00e4ischen Arzneimittelagentur herausgefunden, teilte die Charit\u00e9 am Mittw\u2026",
+      "url": "https://www.stern.de/news/berliner-charit%C3%A9-forscher-weisen-hohe-wirksamkeit-von-mpox-impfung-nach-35565504.html",
+      "urlToImage": "https://image.stern.de/35565506/t/iW/v1/w1440/r1.7778/-/19--proben-in-medizinischem-labor---e67a42cee0b06e33.jpg",
+      "publishedAt": "2025-03-19 11:52:07",
+      "content": "Kopiere den aktuellen Link Zur Merkliste hinzuf\u00fcgen Die Impfung gegen die Infektionskrankheit Mpox weist einer Studie der Berliner Universit\u00e4tsklinik Charit\u00e9 zufolge eine hohe Wirksamkeit auf. Dies\u2026 [+2146 chars]",
+      "retrievedAt": "2025-03-20 19:05:53.023315",
+      "internal_id": "af0df345ef8b70aa3b57920daac01a1bfce8c8e08e71fafe757caf90ed0a06df",
+      "publishedAtLabel": "Mar 19"
+    },
+    {
+      "id": 19494,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": null,
+      "title": "Derogation of clade I mpox",
+      "description": "Urgent public health message advising that clade I mpox no longer meets the criteria of a high consequence infectious disease (HCID).",
+      "url": "https://www.gov.uk/guidance/derogation-of-clade-i-mpox",
+      "urlToImage": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png",
+      "publishedAt": "2025-03-19 11:49:41",
+      "content": "The Advisory Committee on Dangerous Pathogens (ACDP) recently assessed evidence gathered by UKHSA for clade I mpox and advised that it no longer met the criteria of a high consequence infectious dise\u2026 [+9688 chars]",
+      "retrievedAt": "2025-03-20 19:05:53.061513",
+      "internal_id": "965034faf581bc3f5d0c464693f815f07d3b670624b5a8b858458f94dfa2b1ed",
+      "publishedAtLabel": "Mar 19"
+    },
+    {
+      "id": 19490,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Ing.dk",
+      "author": "Frederik Marcher Hansen",
+      "title": "Lykkepiller, virusdr\u00e6ber og malariakur: Derfor er din medicin fuld af PFAS",
+      "description": "En stor del af medicinen p\u00e5 markedet i dag best\u00e5r af PFAS, der har reduceret hospitalsregninger og reddet liv. P\u00e5 samme tid advarer forskere om alvorlig forurening af drikkevandet i \u00e5rhundreder.",
+      "url": "https://ing.dk/artikel/lykkepiller-virusdraeber-og-malariakur-derfor-er-din-medicin-fuld-af-pfas",
+      "urlToImage": "https://ing.dk/sites/mi/files/styles/open_graph_image_16_9/public/2021-03/bigstock-male-doctor-holding-syringe-ma-3959466351.jpg?itok=h8xgsRS2",
+      "publishedAt": "2025-03-19 11:26:00",
+      "content": "Prozac mod depression, Pavloxid mod coronavirus, Lariam mod malaria og utallige andre produkter. De danske apoteker langer hvert \u00e5r millioner af piller med de frygtede evighedskemikalier PFAS i over\u2026 [+284 chars]",
+      "retrievedAt": "2025-03-20 19:05:52.319338",
+      "internal_id": "8f8b56faedd97ed365c1596213b8b05068006e78291beb3c06cca05c6bb8f705",
+      "publishedAtLabel": "Mar 19"
+    },
+    {
+      "id": 19481,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Kevinmd.com",
+      "author": "Robert Bettis, MD",
+      "title": "How vaccine hesitancy is bringing back deadly childhood diseases",
+      "description": "Measles was first identified as a virus in the early 20th century. This disease caused significant morbidity and mortality. A measles vaccine was first introduced in 1963, using a live virus strain developed from a child who had measles. In the 1970s and 1980\u2026",
+      "url": "https://kevinmd.com/2025/03/how-vaccine-hesitancy-is-bringing-back-deadly-childhood-diseases.html",
+      "urlToImage": "https://kevinmd.com/wp-content/uploads/shutterstock_1565888329.jpg",
+      "publishedAt": "2025-03-19 11:00:26",
+      "content": "Measles was first identified as a virus in the early 20th century. This disease caused significant morbidity and mortality. A measles vaccine was first introduced in 1963, using a live virus strain d\u2026 [+3647 chars]",
+      "retrievedAt": "2025-03-20 19:05:50.437758",
+      "internal_id": "d6c5b8821f1fa6c2cacd03bac74024eec5773f521ef6b311e00cd3d689efe3f9",
+      "publishedAtLabel": "Mar 19"
+    },
+    {
+      "id": 19495,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": "focus",
+      "source_name": "Focus",
+      "author": "FOCUS online",
+      "title": "\u201ePr\u00e4historisches Genom von Y. pestis\" - Infizierte Mumie aus altem \u00c4gypten enth\u00e4lt DNA von Pest, die Millionen t\u00f6tete",
+      "description": "Vor etwa 3300 Jahren grassierte offenbar die Pest im alten \u00c4gypten. Forscher fanden die DNA des Erregers in einer Mumie.",
+      "url": "https://www.focus.de/wissen/infizierte-mumie-aus-altem-aegypten-enthaelt-dna-von-pest-die-millionen-toetete_eed1d11a-c128-41f2-9d29-eeffb72261b3.html",
+      "urlToImage": "https://quadro.burda-forward.de/ctf/e9281208-4b45-432c-87ed-d26ea6c2a7d4.5b98bb75-9cfc-486a-a654-1920bbc39902.jpg?im=RegionOfInterestCrop%3D%281200%2C630%29%2CregionOfInterest%3D%281186%2C760%29&hash=fd54fefb11344f0e9e105c3096b80f8764d388a1ad1a129cbf4010799f10daa0",
+      "publishedAt": "2025-03-19 09:54:00",
+      "content": "In einer Mumie im Museum von Turin entdeckten Wissenschaftler DNA des Pesterregers Yersinia pestis. Die \u00dcberreste des \u00e4gyptischen Mannes sind etwa 3300 Jahre alt. Dies deutet laut iflscience darauf h\u2026 [+2398 chars]",
+      "retrievedAt": "2025-03-20 19:05:53.894459",
+      "internal_id": "3583e52204a781f2361767c2691593935c73793de7866b90d1027120dd5cfa62",
+      "publishedAtLabel": "Mar 19"
+    },
+    {
+      "id": 19484,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": null,
+      "title": "Bird flu confirmed at premises near Inverness",
+      "description": "The Scottish government says it has been detected at premises in Daviot near Inverness.",
+      "url": "https://www.bbc.com/news/articles/cewkpvr417jo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3a5f/live/d0239340-04a6-11f0-b105-736ce33fe23a.jpg",
+      "publishedAt": "2025-03-19 09:51:21",
+      "content": "An outbreak of avian flu has been confirmed near Inverness. The Scottish government said the H5N1 virus had been detected at a premises in Daviot, but there were no details on how many birds were af\u2026 [+579 chars]",
+      "retrievedAt": "2025-03-20 19:05:51.185632",
+      "internal_id": "3836277fa229cd7d7fbee554d61730720b0e4df9079725f44518bba833e14d82",
+      "publishedAtLabel": "Mar 19"
+    },
+    {
+      "id": 19493,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Der Tagesspiegel",
+      "title": "Cholera, Mpox, Masern auf dem Vormarsch : Lage im Ostkongo dramatisch \u2013 Oxfam spricht von humanit\u00e4rer Katastrophe",
+      "description": "St\u00e4ndige K\u00e4mpfe und Gewalt, aber auch der R\u00fcckzug von USAID bedrohen die Gesundheitsversorgung immer mehr. Infektionskrankheiten greifen um sich. Hilfsorganisationen warnen.",
+      "url": "https://www.tagesspiegel.de/internationales/cholera-mpox-masern-auf-dem-vormarsch-lage-im-ostkongo-dramatisch--oxfam-spricht-von-humanitarer-katastrophe-13392637.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/13124764/alternates/BASE_16_9_W1400/1738329978000/konflikte-im-kongo.jpeg",
+      "publishedAt": "2025-03-19 08:04:57",
+      "content": "In der Demokratischen Republik Kongobreiten sich Infektionskrankheiten rasant aus. Die anhaltende Gewalt im Land und die K\u00fcrzungen bei der US-Beh\u00f6rde USAID beschleunigten den Zusammenbruch der Gesund\u2026 [+2443 chars]",
+      "retrievedAt": "2025-03-20 19:05:53.044696",
+      "internal_id": "245210985f6a282175c9b99c06cd98fa0e51bf959c7feec7f7eace80ec11ce0d",
+      "publishedAtLabel": "Mar 19"
+    },
     {
       "id": 19475,
       "query": [
@@ -28651,132 +29011,6 @@
       "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
       "retrievedAt": "2025-02-04 07:07:01.212340",
       "internal_id": "84f684308ba4ffa4fa15abb09ec46a7cc9d97d0bdd6c4486dce11d79ab56adcc",
-      "publishedAtLabel": "Feb 2"
-    },
-    {
-      "id": 17883,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "WTVD-TV",
-      "author": "Marisa Sardonia",
-      "title": "Bird flu in NC | Dead bird at Lake Julian Park receives 'preliminarily positive' test result for bird flu",
-      "description": "Despite these findings, the park will remain open, but visitors are advised to avoid touching or feeding waterfowl.",
-      "url": "https://abc11.com/post/bird-flu-nc-dead-lake-julian-park-receives-preliminarily-positive-test-result/15857185/",
-      "urlToImage": "https://cdn.abcotvs.com/dip/images/15857173_WLOSbirdflu0201.JPG?w=1600",
-      "publishedAt": "2025-02-02 17:46:41",
-      "content": "ASHEVILLE, N.C. -- Buncombe County officials report that a dead waterfowl bird at Lake Julian Park has received a \"preliminarily positive\" test result for Avian Influenza H5N1, commonly known as bird\u2026 [+957 chars]",
-      "retrievedAt": "2025-02-03 19:06:09.443906",
-      "internal_id": "94402575c35587377ac4ad2a7a1727d800e99d1911b97a966af8fb975be3b790",
-      "publishedAtLabel": "Feb 2"
-    },
-    {
-      "id": 17880,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "cbs-news",
-      "source_name": "CBS News",
-      "author": "Martha Teichner",
-      "title": "As bird flu ravages poultry industry, the damage spreads",
-      "description": "After the current strain of bird flu, H5N1, reached the U.S. in 2022, more than 148 million birds have been euthanized. What is the outbreak's potential impacts on humans, the poultry industry, egg prices, and U.S. exports?",
-      "url": "https://www.cbsnews.com/news/as-bird-flu-ravages-poultry-industry-the-damage-spreads/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/02/02/93af99c1-1c8d-4e2c-800f-17dd5b5e4b02/thumbnail/1200x630/03efc2d452e36c47154559d65c6838e9/bird-flu-1280.jpg?v=a599723035d2f104d7a2d01edbe96ef8",
-      "publishedAt": "2025-02-02 15:19:13",
-      "content": "There are seven generations of Corwins in the Aquebogue, Long Island, town cemetery. Their graves overlook the farm that's been in the family since the 1640s. Some family members' tombstones are ador\u2026 [+3931 chars]",
-      "retrievedAt": "2025-02-03 19:06:09.333622",
-      "internal_id": "25bd8193ca7d177522316a0e614c00e6a5a2e623f266149c0c7d0824e9f4a878",
-      "publishedAtLabel": "Feb 2"
-    },
-    {
-      "id": 17882,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "cbs-news",
-      "source_name": "CBS News",
-      "author": "CBS News",
-      "title": "The impact from bird flu spreads",
-      "description": "After H5N1, the current strain of bird flu, reached the United States in 2022, more than 148 million chickens, turkeys and other farm birds have been euthanized. Since last year, when the virus jumped from poultry and wild birds to mammals, the number of huma\u2026",
-      "url": "https://www.cbsnews.com/video/the-impact-from-bird-flu-spreads/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/02/02/1f3e29e1-72c9-426f-844a-61ba60eed817/thumbnail/1200x630/26f6c05a310603b67fd3bf816bcfc7a8/bird-flu-1920.jpg?v=a599723035d2f104d7a2d01edbe96ef8",
-      "publishedAt": "2025-02-02 15:18:00",
-      "content": "Watch CBS News Copyright \u00a92025 CBS Interactive Inc. All rights reserved. Get browser notifications for breaking news, live events, and exclusive reporting. Not NowTurn On",
-      "retrievedAt": "2025-02-03 19:06:09.368737",
-      "internal_id": "7894cedbb7b7f5a5689adafe70d2d4355399dad9cedb443b03f43a6921ef0908",
-      "publishedAtLabel": "Feb 2"
-    },
-    {
-      "id": 17881,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Rg.ru",
-      "author": null,
-      "title": "Nature: \u0420\u0430\u0441\u0442\u0435\u0442 \u0440\u0438\u0441\u043a \u043d\u043e\u0432\u043e\u0439 \u043f\u0430\u043d\u0434\u0435\u043c\u0438\u0438, \u0432\u044b\u0437\u0432\u0430\u043d\u043d\u043e\u0439 \u043f\u0442\u0438\u0447\u044c\u0438\u043c \u0433\u0440\u0438\u043f\u043f\u043e\u043c",
-      "description": "\u041f\u0442\u0438\u0447\u0438\u0439 \u0432\u0438\u0440\u0443\u0441 \u0433\u0440\u0438\u043f\u043f\u0430 H5N1 \u0430\u0434\u0430\u043f\u0442\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u043a \u043d\u043e\u0432\u044b\u043c \u0445\u043e\u0437\u044f\u0435\u0432\u0430\u043c - \u043c\u043b\u0435\u043a\u043e\u043f\u0438\u0442\u0430\u044e\u0449\u0438\u043c, \u0438 \u044d\u0442\u043e \u043f\u043e\u0432\u044b\u0448\u0430\u0435\u0442 \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u044c \u0435\u0433\u043e \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0435\u043d\u0438\u044f \u0441\u0440\u0435\u0434\u0438 \u043b\u044e\u0434\u0435\u0439.",
-      "url": "https://rg.ru/2025/02/02/nature-rastet-risk-novoj-pandemii-vyzvannoj-ptichim-grippom.html",
-      "urlToImage": "https://cdnstatic.rg.ru/uploads/images/2025/02/02/istock-2173054299-1_573.jpg",
-      "publishedAt": "2025-02-02 15:16:01",
-      "content": ", . 68 , . , \"\" , Nature. , , H5N1, , , . - , , . \" , , ( - . \") \", - Nature , , , . , , . H5N1: , B3.13, ; , D1.1, , , . B3.13 , 900 16 , , , . , , , , , . 40 . , . , . Nature, 24 , , D1.\u2026 [+62 chars]",
-      "retrievedAt": "2025-02-03 19:06:09.361221",
-      "internal_id": "09a328c5fd62404d20e1f9ca5e4949d4dbfdd18adf23087b1d12af5944ec7f2f",
-      "publishedAtLabel": "Feb 2"
-    },
-    {
-      "id": 17886,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Haber7.com",
-      "author": "Ramazan Y\u0131ld\u0131z",
-      "title": "Uganda'da M \u00e7i\u00e7e\u011fi vir\u00fcs\u00fcne kar\u015f\u0131 a\u015f\u0131 kampanyas\u0131 seferberli\u011fi",
-      "description": "Uganda'da Afrika Hastal\u0131k Kontrol ve \u00d6nleme Merkezleri (Africa CDC) taraf\u0131ndan ba\u011f\u0131\u015flanan 2 bin doz a\u015f\u0131, bin ki\u015fiye uygulanmaya ba\u015fland\u0131.",
-      "url": "https://www.haber7.com/dunya/haber/3501667-ugandada-m-cicegi-virusune-karsi-asi-kampanyasi-seferberligi",
-      "urlToImage": "https://i20.haber7.net/resize/1280x720//haber/haber7/photos/2025/05/ugandada_m_cicegi_virusune_karsi_asi_kampanyasi_seferberligi_1738501558_3925.jpg",
-      "publishedAt": "2025-02-02 13:06:00",
-      "content": "Uganda'nn bakenti Kampala'da M \u00e7i\u00e7ei vir\u00fcs\u00fc (Mpox) salgnyla m\u00fccadele kapsamnda y\u00fcksek risk gruplar ve salk \u00e7alanlarna y\u00f6nelik alama kampanyasnn ilk aamas balatld. Yerel basna yansyan haberlere g\u00f6re,\u2026 [+1110 chars]",
-      "retrievedAt": "2025-02-03 19:06:11.973579",
-      "internal_id": "44bab71e5765b926fdbbd9268eb1cf6c7843aead436f2d4c077a071f744390bc",
-      "publishedAtLabel": "Feb 2"
-    },
-    {
-      "id": 17885,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Anadolu Agency",
-      "author": null,
-      "title": "Uganda, M \u00e7i\u00e7e\u011fi vir\u00fcs\u00fc salg\u0131n\u0131yla m\u00fccadele kapsam\u0131nda a\u015f\u0131 kampanyas\u0131 ba\u015flatt\u0131",
-      "description": "Uganda'n\u0131n ba\u015fkenti Kampala'da M \u00e7i\u00e7e\u011fi vir\u00fcs\u00fc (Mpox) salg\u0131n\u0131yla m\u00fccadele kapsam\u0131nda y\u00fcksek risk gruplar\u0131 ve sa\u011fl\u0131k \u00e7al\u0131\u015fanlar\u0131na y\u00f6nelik a\u015f\u0131lama kampanyas\u0131n\u0131n ilk a\u015famas\u0131 ba\u015flat\u0131ld\u0131. - Anadolu Ajans\u0131",
-      "url": "https://www.aa.com.tr/tr/dunya/uganda-m-cicegi-virusu-salginiyla-mucadele-kapsaminda-asi-kampanyasi-baslatti/3469451",
-      "urlToImage": "https://cdnuploads.aa.com.tr/uploads/Contents/2025/02/02/thumbs_b_c_1c8532de8fa50550880b9b8ccb27dabb.jpg",
-      "publishedAt": "2025-02-02 12:23:48",
-      "content": "Yerel basna yansyan haberlere g\u00f6re, Afrika Hastalk Kontrol ve \u00d6nleme Merkezleri (Africa CDC) tarafndan balanan 2 bin doz a, bin kiiye uygulanmaya baland. Uganda Salk Bakanlndan yaplan a\u00e7klamada, Ara\u2026 [+1108 chars]",
-      "retrievedAt": "2025-02-03 19:06:11.953773",
-      "internal_id": "29b55ce4fdc54c5a52962349ec0dbb7e2fda51a19aee93b301f9d3aaae835ca4",
-      "publishedAtLabel": "Feb 2"
-    },
-    {
-      "id": 17884,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Www.dr.dk",
-      "author": null,
-      "title": "Danmark har ikke tabt ved VM siden 2017: 'Der var jeg lige kommet tilbage fra meningitis'",
-      "description": "Ungarn er det seneste hold, der har sl\u00e5et Danmark ved VM i herreh\u00e5ndbold.",
-      "url": "https://www.dr.dk/sporten/haandbold/vm/danmark-har-ikke-tabt-ved-vm-siden-2017-der-var-jeg-lige-kommet-tilbage-fra",
-      "urlToImage": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fwww.dr.dk%2Fimages%2Fother%2F2025%2F02%2F01%2Fscanpix-20250131-223129-l.jpg&w=1200",
-      "publishedAt": "2025-02-02 07:31:00",
-      "content": "Den 27-\u00e5rige m\u00e5lmand, som har haft over 100 redninger indtil videre ved dette VM, var 19 \u00e5r og havde netop v\u00e6ret igennem et sygdomsforl\u00f8b. - Der var jeg lige kommet tilbage fra meningitis. Det var e\u2026 [+450 chars]",
-      "retrievedAt": "2025-02-03 19:06:10.239102",
-      "internal_id": "a483b8a9c9449681a365c38d6144ba8fba11c39eb3049318e23228e7283d079b",
       "publishedAtLabel": "Feb 2"
     }
   ]

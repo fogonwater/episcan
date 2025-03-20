@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 12
-- **Last harvest:** 2025-03-20 07:06
-- **Most recent article:** 2025-03-19 05:43:39
+- **New articles in last harvest:** 20
+- **Last harvest:** 2025-03-20 19:05
+- **Most recent article:** 2025-03-19 17:37:11
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-10 | 25-11 | 25-12 | 25-6 | 25-7 | 25-8 | 25-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 142 | 133 | 49 | 24 | 72 | 83 | 162 | 665 |
-| h5n1 | 23 | 39 | 38 | 71 | 55 | 54 | 42 | 322 |
-| dengue | 8 | 12 | 8 | 33 | 37 | 57 | 30 | 185 |
-| malaria | 29 | 22 | 14 | 25 | 12 | 7 | 20 | 129 |
-| mpox | 14 | 15 | 1 | 28 | 18 | 15 | 26 | 117 |
-| meningitis | 4 | 9 | 3 | 2 | 12 | 11 | 7 | 48 |
-| hpai | 10 | 3 | 10 | 3 | 9 | 5 | 4 | 44 |
+| measles | 142 | 133 | 55 | 24 | 72 | 83 | 162 | 671 |
+| h5n1 | 23 | 39 | 40 | 67 | 55 | 54 | 42 | 320 |
+| dengue | 8 | 12 | 9 | 33 | 37 | 57 | 30 | 186 |
+| malaria | 29 | 22 | 16 | 25 | 12 | 7 | 20 | 131 |
+| mpox | 14 | 15 | 5 | 26 | 18 | 15 | 26 | 119 |
+| meningitis | 4 | 9 | 5 | 1 | 12 | 11 | 7 | 49 |
+| hpai | 10 | 3 | 11 | 3 | 9 | 5 | 4 | 45 |
 | chikungunya | 6 | 1 | 3 | 8 | 5 | 3 | 7 | 33 |
-| rabies | 3 | 8 | 2 | 4 | 5 | 4 | 2 | 28 |
+| rabies | 3 | 8 | 3 | 4 | 5 | 4 | 2 | 29 |
 | zika | 3 | 0 | 1 | 6 | 2 | 6 | 2 | 20 |
 | typhoid | 3 | 8 | 0 | 2 | 3 | 0 | 4 | 20 |
 | pertussis | 0 | 5 | 0 | 3 | 3 | 2 | 0 | 13 |
-| yersinia | 1 | 2 | 0 | 0 | 5 | 0 | 2 | 10 |
+| yersinia | 1 | 2 | 1 | 0 | 5 | 0 | 2 | 11 |
 | leptospirosis | 3 | 0 | 1 | 0 | 0 | 2 | 0 | 6 |
 | shigellosis | 3 | 0 | 0 | 0 | 0 | 0 | 1 | 4 |
 
@@ -1793,15 +1793,9 @@ Source: [News API](https://newsapi.org/)
 
 - [New mpox vaccination sites open across England for high-risk people](https://news.sky.com/story/new-mpox-vaccination-sites-open-across-england-for-high-risk-people-13302169) (Sky.com)
 
-- [Uganda'da M çiçeği virüsüne karşı aşı kampanyası seferberliği](https://www.haber7.com/dunya/haber/3501667-ugandada-m-cicegi-virusune-karsi-asi-kampanyasi-seferberligi) (Haber7.com)
-
-- [Uganda, M çiçeği virüsü salgınıyla mücadele kapsamında aşı kampanyası başlattı](https://www.aa.com.tr/tr/dunya/uganda-m-cicegi-virusu-salginiyla-mucadele-kapsaminda-asi-kampanyasi-baslatti/3469451) (Anadolu Agency)
-
 ## 25-6 (meningitis)
 
 - [Love Changes the Heart—More Than Metaphorically](https://www.theepochtimes.com/health/love-changes-the-heart-more-than-metaphorically-5804355) (Theepochtimes.com)
-
-- [Danmark har ikke tabt ved VM siden 2017: 'Der var jeg lige kommet tilbage fra meningitis'](https://www.dr.dk/sporten/haandbold/vm/danmark-har-ikke-tabt-ved-vm-siden-2017-der-var-jeg-lige-kommet-tilbage-fra) (Www.dr.dk)
 
 ## 25-6 (measles)
 
@@ -2049,14 +2043,6 @@ Source: [News API](https://newsapi.org/)
 
 - [大S猝逝占据大陆热搜 中共隐瞒疫情误事(组图)](https://www.secretchina.com/news/gb/2025/02/03/1077055.html) (Secretchina.com)
 
-- [Bird flu in NC | Dead bird at Lake Julian Park receives 'preliminarily positive' test result for bird flu](https://abc11.com/post/bird-flu-nc-dead-lake-julian-park-receives-preliminarily-positive-test-result/15857185/) (WTVD-TV)
-
-- [As bird flu ravages poultry industry, the damage spreads](https://www.cbsnews.com/news/as-bird-flu-ravages-poultry-industry-the-damage-spreads/) (CBS News)
-
-- [The impact from bird flu spreads](https://www.cbsnews.com/video/the-impact-from-bird-flu-spreads/) (CBS News)
-
-- [Nature: Растет риск новой пандемии, вызванной птичьим гриппом](https://rg.ru/2025/02/02/nature-rastet-risk-novoj-pandemii-vyzvannoj-ptichim-grippom.html) (Rg.ru)
-
 ## 25-6 (dengue)
 
 - [Anvisa: Como usar repelentes contra o mosquito da dengue de forma eficaz](https://catracalivre.com.br/saude-bem-estar/anvisa-como-usar-repelentes-contra-o-mosquito-da-dengue-de-forma-eficaz/) (Catracalivre.com.br)
@@ -2147,7 +2133,13 @@ Source: [News API](https://newsapi.org/)
 
 - [Tunnel-building virus: How Zika transmits from mother to fetus](https://www.sciencedaily.com/releases/2025/03/250317163636.htm) (Science Daily)
 
+## 25-12 (yersinia)
+
+- [„Prähistorisches Genom von Y. pestis" - Infizierte Mumie aus altem Ägypten enthält DNA von Pest, die Millionen tötete](https://www.focus.de/wissen/infizierte-mumie-aus-altem-aegypten-enthaelt-dna-von-pest-die-millionen-toetete_eed1d11a-c128-41f2-9d29-eeffb72261b3.html) (Focus)
+
 ## 25-12 (rabies)
+
+- [Incidence, risk factors, and control of Rabies in Ethiopia: A systematic review and meta-analysis](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012874) (Plos.org)
 
 - [Traditional practices versus modern healthcare: Determinants of traditional medicine use after potential dog bites among dog-owning households in Nigeria](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012910) (Plos.org)
 
@@ -2155,9 +2147,21 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-12 (mpox)
 
+- [Erstmals gibt es Daten zur Wirksamkeit der MPox-Impfung: Schon eine Impfdosis schützt – aber nicht alle](https://www.tagesspiegel.de/gesundheit/erstmals-gibt-es-daten-zur-wirksamkeit-der-mpox-impfung-schon-eine-impfdosis-schutzt--aber-nicht-alle-13392466.html) (Der Tagesspiegel)
+
+- [Berliner Charité-Forscher weisen hohe Wirksamkeit von Mpox-Impfung nach](https://www.stern.de/news/berliner-charit%C3%A9-forscher-weisen-hohe-wirksamkeit-von-mpox-impfung-nach-35565504.html) (STERN.de)
+
+- [Derogation of clade I mpox](https://www.gov.uk/guidance/derogation-of-clade-i-mpox) (Www.gov.uk)
+
+- [Cholera, Mpox, Masern auf dem Vormarsch : Lage im Ostkongo dramatisch – Oxfam spricht von humanitärer Katastrophe](https://www.tagesspiegel.de/internationales/cholera-mpox-masern-auf-dem-vormarsch-lage-im-ostkongo-dramatisch--oxfam-spricht-von-humanitarer-katastrophe-13392637.html) (Der Tagesspiegel)
+
 - [Clinical and Epidemiologic Characteristics of Mpox Cases, Dominican Republic, July 2022–February 2023](https://wwwnc.cdc.gov/eid/article/31/5/24-1299_article) (Cdc.gov)
 
 ## 25-12 (meningitis)
+
+- [Death toll from meningitis outbreak in NW Nigeria rises to 56](https://www.thestar.com.my/news/world/2025/03/20/death-toll-from-meningitis-outbreak-in-nw-nigeria-rises-to-56) (The Star Online)
+
+- [Meningitis Outbreak: Death toll in Kebbi rises to 55](https://www.premiumtimesng.com/health/health-news/782030-meningitis-outbreak-death-toll-in-kebbi-rises-to-55.html) (Premium Times)
 
 - [Experts Warn Of Dangerous Oropouche Virus In Travelers To These Destinations](https://www.medicaldaily.com/experts-warn-dangerous-oropouche-virus-travelers-these-destinations-473265) (Medical Daily)
 
@@ -2166,6 +2170,18 @@ Source: [News API](https://newsapi.org/)
 - [Diphtheria: Paediatricians demand scale-up of immunisation](https://punchng.com/diphtheria-paediatricians-demand-scale-up-of-immunisation/) (The Punch)
 
 ## 25-12 (measles)
+
+- [As cases climb in the US, do you need another measles shot?](https://www.bbc.com/news/articles/crmjpdldnpwo) (BBC News)
+
+- [Millennial Woman Recalls How Measles Was Dealt With at Her School in '90s](https://www.newsweek.com/millennial-woman-measles-outbreak-90s-2047078) (Newsweek)
+
+- [Bird Flu, Measles, and Trump’s Ticking Time Bomb](https://www.motherjones.com/politics/2025/03/bird-flu-measles-rfk-trump-covid/) (Mother Jones)
+
+- [Enough with the game launchers! It’s dragging PC gaming down](https://www.pcworld.com/article/2627128/enough-with-the-game-launchers-its-dragging-pc-gaming-down.html) (PCWorld)
+
+- [Measles cases are on the rise − here’s how to make sure you’re protected](https://theconversation.com/measles-cases-are-on-the-rise-heres-how-to-make-sure-youre-protected-252277) (The Conversation Africa)
+
+- [How vaccine hesitancy is bringing back deadly childhood diseases](https://kevinmd.com/2025/03/how-vaccine-hesitancy-is-bringing-back-deadly-childhood-diseases.html) (Kevinmd.com)
 
 - [RFK Jr Says Vitamin A Protects You From Deadly Measles, But Here’s What the Study He Cites Actually Says](https://www.counterpunch.org/2025/03/19/rfk-jr-says-vitamin-a-protects-you-from-deadly-measles-but-heres-what-the-study-he-cites-actually-says/) (CounterPunch)
 
@@ -2267,6 +2283,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-12 (malaria)
 
+- [Chimpanzee genes have changed over time to suit local conditions – new study](https://theconversation.com/chimpanzee-genes-have-changed-over-time-to-suit-local-conditions-new-study-250973) (The Conversation Africa)
+
+- [Lykkepiller, virusdræber og malariakur: Derfor er din medicin fuld af PFAS](https://ing.dk/artikel/lykkepiller-virusdraeber-og-malariakur-derfor-er-din-medicin-fuld-af-pfas) (Ing.dk)
+
 - [FG votes N700bn for HIV/AIDS, Tuberculosis, others](https://punchng.com/fg-votes-n700bn-for-hiv-aids-tuberculosis-others/) (The Punch)
 
 - [Microbiota isolate collections: A key to global vector-borne disease control](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003078) (Plos.org)
@@ -2301,6 +2321,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-12 (hpai)
 
+- [China encerra proibição de dois anos de importações de carne de aves da Argentina](https://www.infomoney.com.br/economia/china-encerra-proibicao-de-dois-anos-de-importacoes-de-carne-de-aves-da-argentina/) (InfoMoney)
+
 - [Mississippi Reports First Outbreak Of Deadly H7N9 Bird Flu In The U.S. Since 2017](https://brobible.com/culture/article/mississippi-first-outbreak-h7n9-bird-flu/) (BroBible)
 
 - [Helport AI Expands AI Solutions for the Insurance Industry with Enhanced Insurance Edition](https://www.globenewswire.com/news-release/2025/03/18/3044523/0/en/Helport-AI-Expands-AI-Solutions-for-the-Insurance-Industry-with-Enhanced-Insurance-Edition.html) (GlobeNewswire)
@@ -2322,6 +2344,10 @@ Source: [News API](https://newsapi.org/)
 - [Alarma en la Antártida: Confirman un brote masivo de gripe aviar en varias especies](https://es.gizmodo.com/alarma-en-la-antartida-confirman-un-brote-masivo-de-gripe-aviar-en-varias-especies-2000154626) (Gizmodo.com)
 
 ## 25-12 (h5n1)
+
+- [El Cajon-based cat food company recalls batch over bird flu concerns](https://www.kpbs.org/news/health/2025/03/19/el-cajon-based-cat-food-company-recalls-batch-over-bird-flu-concerns) (KPBS)
+
+- [Bird flu confirmed at premises near Inverness](https://www.bbc.com/news/articles/cewkpvr417jo) (BBC News)
 
 - [Cat Food recalled over Bird Flu](https://www.foodpoisonjournal.com/food-poisoning-information/cat-food-recalled-over-bird-flu/) (Foodpoisonjournal.com)
 
@@ -2400,6 +2426,8 @@ Source: [News API](https://newsapi.org/)
 - [Alarma en la Antártida: Confirman un brote masivo de gripe aviar en varias especies](https://es.gizmodo.com/alarma-en-la-antartida-confirman-un-brote-masivo-de-gripe-aviar-en-varias-especies-2000154626) (Gizmodo.com)
 
 ## 25-12 (dengue)
+
+- [Epidemiological dynamics of dengue in Peru: Temporal and spatial drivers between 2000 and 2022](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0319708) (Plos.org)
 
 - [Dengue en México: Casos aumentan a 2 mil 150; se reportan 6 muertes](https://www.excelsior.com.mx/nacional/dengue-en-mexico-casos-aumentan-a-2-mil-150-se-reportan-6-muertes/1705752) (Excelsior.com.mx)
 
