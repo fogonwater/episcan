@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 25
-- **Last harvest:** 2025-03-19 19:06
-- **Most recent article:** 2025-03-18 18:26:11
+- **New articles in last harvest:** 12
+- **Last harvest:** 2025-03-20 07:06
+- **Most recent article:** 2025-03-19 05:43:39
 
 ---
 
@@ -12,12 +12,12 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-10 | 25-11 | 25-12 | 25-6 | 25-7 | 25-8 | 25-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 142 | 133 | 42 | 24 | 72 | 83 | 162 | 658 |
-| h5n1 | 23 | 39 | 36 | 67 | 55 | 54 | 42 | 316 |
-| dengue | 8 | 12 | 6 | 33 | 37 | 57 | 30 | 183 |
+| measles | 142 | 133 | 49 | 24 | 72 | 83 | 162 | 665 |
+| h5n1 | 23 | 39 | 38 | 71 | 55 | 54 | 42 | 322 |
+| dengue | 8 | 12 | 8 | 33 | 37 | 57 | 30 | 185 |
 | malaria | 29 | 22 | 14 | 25 | 12 | 7 | 20 | 129 |
-| mpox | 14 | 15 | 1 | 26 | 18 | 15 | 26 | 115 |
-| meningitis | 4 | 9 | 2 | 1 | 12 | 11 | 7 | 46 |
+| mpox | 14 | 15 | 1 | 28 | 18 | 15 | 26 | 117 |
+| meningitis | 4 | 9 | 3 | 2 | 12 | 11 | 7 | 48 |
 | hpai | 10 | 3 | 10 | 3 | 9 | 5 | 4 | 44 |
 | chikungunya | 6 | 1 | 3 | 8 | 5 | 3 | 7 | 33 |
 | rabies | 3 | 8 | 2 | 4 | 5 | 4 | 2 | 28 |
@@ -1793,9 +1793,15 @@ Source: [News API](https://newsapi.org/)
 
 - [New mpox vaccination sites open across England for high-risk people](https://news.sky.com/story/new-mpox-vaccination-sites-open-across-england-for-high-risk-people-13302169) (Sky.com)
 
+- [Uganda'da M çiçeği virüsüne karşı aşı kampanyası seferberliği](https://www.haber7.com/dunya/haber/3501667-ugandada-m-cicegi-virusune-karsi-asi-kampanyasi-seferberligi) (Haber7.com)
+
+- [Uganda, M çiçeği virüsü salgınıyla mücadele kapsamında aşı kampanyası başlattı](https://www.aa.com.tr/tr/dunya/uganda-m-cicegi-virusu-salginiyla-mucadele-kapsaminda-asi-kampanyasi-baslatti/3469451) (Anadolu Agency)
+
 ## 25-6 (meningitis)
 
 - [Love Changes the Heart—More Than Metaphorically](https://www.theepochtimes.com/health/love-changes-the-heart-more-than-metaphorically-5804355) (Theepochtimes.com)
+
+- [Danmark har ikke tabt ved VM siden 2017: 'Der var jeg lige kommet tilbage fra meningitis'](https://www.dr.dk/sporten/haandbold/vm/danmark-har-ikke-tabt-ved-vm-siden-2017-der-var-jeg-lige-kommet-tilbage-fra) (Www.dr.dk)
 
 ## 25-6 (measles)
 
@@ -2043,6 +2049,14 @@ Source: [News API](https://newsapi.org/)
 
 - [大S猝逝占据大陆热搜 中共隐瞒疫情误事(组图)](https://www.secretchina.com/news/gb/2025/02/03/1077055.html) (Secretchina.com)
 
+- [Bird flu in NC | Dead bird at Lake Julian Park receives 'preliminarily positive' test result for bird flu](https://abc11.com/post/bird-flu-nc-dead-lake-julian-park-receives-preliminarily-positive-test-result/15857185/) (WTVD-TV)
+
+- [As bird flu ravages poultry industry, the damage spreads](https://www.cbsnews.com/news/as-bird-flu-ravages-poultry-industry-the-damage-spreads/) (CBS News)
+
+- [The impact from bird flu spreads](https://www.cbsnews.com/video/the-impact-from-bird-flu-spreads/) (CBS News)
+
+- [Nature: Растет риск новой пандемии, вызванной птичьим гриппом](https://rg.ru/2025/02/02/nature-rastet-risk-novoj-pandemii-vyzvannoj-ptichim-grippom.html) (Rg.ru)
+
 ## 25-6 (dengue)
 
 - [Anvisa: Como usar repelentes contra o mosquito da dengue de forma eficaz](https://catracalivre.com.br/saude-bem-estar/anvisa-como-usar-repelentes-contra-o-mosquito-da-dengue-de-forma-eficaz/) (Catracalivre.com.br)
@@ -2145,15 +2159,31 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-12 (meningitis)
 
+- [Experts Warn Of Dangerous Oropouche Virus In Travelers To These Destinations](https://www.medicaldaily.com/experts-warn-dangerous-oropouche-virus-travelers-these-destinations-473265) (Medical Daily)
+
 - [España documenta los primeros casos en niños de un enterovirus raro detectado en Europa](https://www.lavozdegalicia.es/noticia/sociedad/2025/03/18/espana-documenta-primeros-casos-ninos-enterovirus-raro-detectado-europa/00031742296591938377332.htm) (Lavozdegalicia.es)
 
 - [Diphtheria: Paediatricians demand scale-up of immunisation](https://punchng.com/diphtheria-paediatricians-demand-scale-up-of-immunisation/) (The Punch)
 
 ## 25-12 (measles)
 
+- [RFK Jr Says Vitamin A Protects You From Deadly Measles, But Here’s What the Study He Cites Actually Says](https://www.counterpunch.org/2025/03/19/rfk-jr-says-vitamin-a-protects-you-from-deadly-measles-but-heres-what-the-study-he-cites-actually-says/) (CounterPunch)
+
+- [COVER-ME: developing and evaluating community-based interventions to promote vaccine uptake for COVID-19 and influenza in East London minority ethnicity (ME) and underserved individuals - protocol for a pilot randomised controlled trial](https://bmjopen.bmj.com/content/15/3/e092568) (The BMJ)
+
+- [Person with measles flew into Calgary airport before travelling to Taber, AHS warns](https://www.cbc.ca/news/canada/calgary/measles-warning-calgary-airport-taber-march-18-2025-alberta-1.7487107) (CBC News)
+
+- [Texas Measles Count Almost as High as US Total for 2024](https://www.newser.com/story/365868/texas-measles-count-almost-as-high-as-us-total-for-2024.html) (Newser)
+
+- [Measles is spreading. Are you safe?](https://www.npr.org/2025/03/18/1239156786/measles-is-spreading-are-you-safe) (NPR)
+
+- [Measles outbreak in U.S. Texas climbs to 279 cases](https://www.thestar.com.my/news/world/2025/03/19/measles-outbreak-in-us-texas-climbs-to-279-cases) (The Star Online)
+
 - [Peel Public Health confirms 1 new measles case, warns of possible exposure in Mississauga](https://www.cbc.ca/news/canada/toronto/peel-measles-exposure-warning-1.7486786) (CBC News)
 
 - [Healthy Returns: What to know about the U.S. measles outbreak](https://www.cnbc.com/2025/03/18/healthy-returns-what-to-know-about-the-us-measles-outbreak.html) (CNBC)
+
+- [20 new cases of measles in Texas since last week](https://www.nbcdfw.com/news/local/texas-news/texas-new-mexico-measles-cases-total-320/3795187/) (NBC 5 Dallas-Fort Worth)
 
 - [Measles Cases Surpass 300 In Texas, New Mexico: Here's What You Should Know](https://www.huffpost.com/entry/measles-outbreak-texas-new-mexico_n_67d9b103e4b0fd92334498e3) (HuffPost)
 
@@ -2293,6 +2323,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-12 (h5n1)
 
+- [Cat Food recalled over Bird Flu](https://www.foodpoisonjournal.com/food-poisoning-information/cat-food-recalled-over-bird-flu/) (Foodpoisonjournal.com)
+
+- [美國因禽流感「蛋荒」求助歐洲，德國少量供應，義大利商家：恐無力出口](https://www.thenewslens.com/article/250388) (Thenewslens.com)
+
 - [H5N1 bird flu spread 'unprecedented,' UN agency warns (Joseph Choi/The Hill)](https://www.memeorandum.com/250318/p74) (Memeorandum.com)
 
 - [How to Protect Your Cats (and Backyard Chickens) From Bird Flu](https://www.wired.com/story/pets-and-backyard-flocks-are-at-risk-from-bird-flu-heres-how-to-protect-them/) (Wired)
@@ -2366,6 +2400,10 @@ Source: [News API](https://newsapi.org/)
 - [Alarma en la Antártida: Confirman un brote masivo de gripe aviar en varias especies](https://es.gizmodo.com/alarma-en-la-antartida-confirman-un-brote-masivo-de-gripe-aviar-en-varias-especies-2000154626) (Gizmodo.com)
 
 ## 25-12 (dengue)
+
+- [Dengue en México: Casos aumentan a 2 mil 150; se reportan 6 muertes](https://www.excelsior.com.mx/nacional/dengue-en-mexico-casos-aumentan-a-2-mil-150-se-reportan-6-muertes/1705752) (Excelsior.com.mx)
+
+- [Dengue: cuándo prevén que se podría registrar el pico de casos en el país](https://www.lanacion.com.ar/sociedad/dengue-cuando-preven-que-se-podria-registrar-el-pico-de-casos-en-el-pais-nid18032025/) (La Nacion)
 
 - [Microbiota isolate collections: A key to global vector-borne disease control](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003078) (Plos.org)
 
