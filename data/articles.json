@@ -1,8 +1,116 @@
 {
-  "last_updated": "2025-03-20 19:05",
-  "count_articles_total": 1609,
-  "count_articles_new": 20,
+  "last_updated": "2025-03-21 07:06",
+  "count_articles_total": 1622,
+  "count_articles_new": 6,
   "articles": [
+    {
+      "id": 19498,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Pmn.co.nz",
+      "author": "'alakihihifo Vailala",
+      "title": "One month on: Tonga\u2019s dengue outbreak reaches 308 cases",
+      "description": "One month since Tonga\u2019s dengue outbreak began, confirmed cases have climbed to 308, with more than half reported in Vava\u2019u.",
+      "url": "https://pmn.co.nz/read/health/one-month-on-tonga-s-dengue-outbreak-reaches-308-cases",
+      "urlToImage": "https://cdn.sanity.io/images/vl4boe2z/production/38546ad06043f616240dffb6f26cc15a7b0d9be4-1600x960.jpg",
+      "publishedAt": "2025-03-20 01:58:11",
+      "content": "The number of confirmed dengue fever cases in Tonga is now at 308, with daily updates from the Ministry of Health tracking the ongoing outbreak. More than half of the cases are in Vava'u, where infe\u2026 [+1791 chars]",
+      "retrievedAt": "2025-03-21 07:06:54.931808",
+      "internal_id": "4ccca2456c9d93cd18cefbb2a07cbe9cd016bcc0d9e0a80fe0b8def927f69663",
+      "publishedAtLabel": "Mar 20"
+    },
+    {
+      "id": 19500,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Royal Society of Chemistry",
+      "author": "Jai Devi, Bharti Taxak, Binesh Kumar, swati rani",
+      "title": "Synthesis, Characterization and Bioactivity of Diorganotin(IV) Schiff Base Complexes as Potential Antimalarial and Antioxidant Agents: Insight through Cytotoxicity and Molecular Docking",
+      "description": "Dalton Trans., 2025, Accepted ManuscriptDOI: 10.1039/D5DT00274E, PerspectiveJai Devi, Bharti Taxak, Binesh Kumar, swati raniThe infectious ailments are raising on rapid scale globally causing a high rate of mortality and morbidity. In pursuit of new and effec\u2026",
+      "url": "https://pubs.rsc.org/en/content/articlelanding/2025/dt/d5dt00274e",
+      "urlToImage": null,
+      "publishedAt": "2025-03-20 00:00:00",
+      "content": "The infectious ailments are raising on rapid scale globally causing a high rate of mortality and morbidity. In pursuit of new and effective anti-infectious agents, this research presents the synthesi\u2026 [+1556 chars]",
+      "retrievedAt": "2025-03-21 07:06:56.238973",
+      "internal_id": "735e5c8a04a7787dcf77833b7107567aa8513c01e1dfeb2e48c686af227b32c2",
+      "publishedAtLabel": "Mar 20"
+    },
+    {
+      "id": 19497,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Scientific American",
+      "author": "Stephanie Pappas",
+      "title": "RFK, Jr. Wants to Let Bird Flu Spread on Poultry Farms. Why Experts Are Concerned",
+      "description": "Health secretary RFK, Jr. has repeatedly suggested that farmers should let bird flu spread through flocks. Experts explain why that\u2019s a dangerous idea",
+      "url": "https://www.scientificamerican.com/article/rfk-jr-wants-to-let-bird-flu-spread-on-poultry-farms-why-experts-are/",
+      "urlToImage": "https://static.scientificamerican.com/dam/m/3b929d8094c5cb81/original/GettyImages-2200511638.jpg?m=1742416894.759&w=1200",
+      "publishedAt": "2025-03-19 23:35:00",
+      "content": "With H5N1 avian influenza spreading in poultry flocks, Secretary of Health and Human Services Robert F. Kennedy, Jr., is pushing a new plan: let the virus rip. Kennedy recently told Fox News that by\u2026 [+5622 chars]",
+      "retrievedAt": "2025-03-21 07:06:54.116124",
+      "internal_id": "836c713ed3ca7e1d8e653c9903ab685dee64a1e826d8fdcb935e2d10d0cebc4c",
+      "publishedAtLabel": "Mar 19"
+    },
+    {
+      "id": 19499,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "WENY-TV",
+      "author": "Alecia Solorzano",
+      "title": "Elmira College hosts meningitis outbreak simulation to help nursing students plan public health emergency response",
+      "description": "The Elmira College Nursing Program is teaching students that preparedness is a key skill to have in the healthcare field. Especially during a public health emergency.",
+      "url": "https://www.weny.com/story/52591326/elmira-college-hosts-meningitis-outbreak-simulation-to-help-nursing-students-plan-public-health-emergency-response",
+      "urlToImage": "https://WENY.images.worldnow.com/images/26455466_G.jpg",
+      "publishedAt": "2025-03-19 23:15:00",
+      "content": "ELMIRA, N.Y. (WENY) --The Elmira College Nursing Program is teaching students that preparedness is a key skill to have in the healthcare field. Especially during a public health emergency. For nursi\u2026 [+2537 chars]",
+      "retrievedAt": "2025-03-21 07:06:55.452373",
+      "internal_id": "5bfdd8633952388bb0856b4efca3efacc7995659bb41aadacc075437a2d36b06",
+      "publishedAtLabel": "Mar 19"
+    },
+    {
+      "id": 19496,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": "Madeline Halpert - BBC News",
+      "title": "As cases climb in the US, do you need another measles shot?",
+      "description": "Experts say some children can get vaccinated earlier and adults can get a second dose if the risk is high.",
+      "url": "https://www.bbc.com/news/articles/crmjpdldnpwo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "urlToImage": "https://media.zenfs.com/en/bbc_us_articles_995/85d6efa140cda9187988d9942aec1c11",
+      "publishedAt": "2025-03-19 19:30:33",
+      "content": "Debra Eichenbaum got her two young children vaccinated against the measles virus 20 years ago, and - like millions of other parents - hadn't thought about the highly contagious disease since. But wh\u2026 [+5770 chars]",
+      "retrievedAt": "2025-03-21 07:06:53.025698",
+      "internal_id": "55ba47600ea0463a9cac0b39799f0d6a9ba13e10dd3d0528d8e8405fc581096a",
+      "publishedAtLabel": "Mar 19"
+    },
+    {
+      "id": 19501,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "New data on Mpox vaccine effectiveness",
+      "description": "A study has found that a single dose of the Imvanex vaccine provides protection against Mpox with 84% effectiveness. For people with HIV, however, a single dose of the vaccine fails to offer sufficient protection. All at-risk groups, and people with HIV in pa\u2026",
+      "url": "https://www.sciencedaily.com/releases/2025/03/250319143643.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2025-03-19 18:36:43",
+      "content": "A study at Charit\u00e9 -- Universit\u00e4tsmedizin Berlin has found that a single dose of the Imvanex vaccine provides protection against Mpox with 84% effectiveness. For people with HIV, however, a single do\u2026 [+9271 chars]",
+      "retrievedAt": "2025-03-21 07:06:57.437835",
+      "internal_id": "19b9a3022d13d285e8cd1913a56fe286735715e6ddce1a03f625e335cb3b067f",
+      "publishedAtLabel": "Mar 19"
+    },
     {
       "id": 19485,
       "query": [
@@ -29011,6 +29119,132 @@
       "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
       "retrievedAt": "2025-02-04 07:07:01.212340",
       "internal_id": "84f684308ba4ffa4fa15abb09ec46a7cc9d97d0bdd6c4486dce11d79ab56adcc",
+      "publishedAtLabel": "Feb 2"
+    },
+    {
+      "id": 17883,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "WTVD-TV",
+      "author": "Marisa Sardonia",
+      "title": "Bird flu in NC | Dead bird at Lake Julian Park receives 'preliminarily positive' test result for bird flu",
+      "description": "Despite these findings, the park will remain open, but visitors are advised to avoid touching or feeding waterfowl.",
+      "url": "https://abc11.com/post/bird-flu-nc-dead-lake-julian-park-receives-preliminarily-positive-test-result/15857185/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/15857173_WLOSbirdflu0201.JPG?w=1600",
+      "publishedAt": "2025-02-02 17:46:41",
+      "content": "ASHEVILLE, N.C. -- Buncombe County officials report that a dead waterfowl bird at Lake Julian Park has received a \"preliminarily positive\" test result for Avian Influenza H5N1, commonly known as bird\u2026 [+957 chars]",
+      "retrievedAt": "2025-02-03 19:06:09.443906",
+      "internal_id": "94402575c35587377ac4ad2a7a1727d800e99d1911b97a966af8fb975be3b790",
+      "publishedAtLabel": "Feb 2"
+    },
+    {
+      "id": 17880,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Martha Teichner",
+      "title": "As bird flu ravages poultry industry, the damage spreads",
+      "description": "After the current strain of bird flu, H5N1, reached the U.S. in 2022, more than 148 million birds have been euthanized. What is the outbreak's potential impacts on humans, the poultry industry, egg prices, and U.S. exports?",
+      "url": "https://www.cbsnews.com/news/as-bird-flu-ravages-poultry-industry-the-damage-spreads/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/02/02/93af99c1-1c8d-4e2c-800f-17dd5b5e4b02/thumbnail/1200x630/03efc2d452e36c47154559d65c6838e9/bird-flu-1280.jpg?v=a599723035d2f104d7a2d01edbe96ef8",
+      "publishedAt": "2025-02-02 15:19:13",
+      "content": "There are seven generations of Corwins in the Aquebogue, Long Island, town cemetery. Their graves overlook the farm that's been in the family since the 1640s. Some family members' tombstones are ador\u2026 [+3931 chars]",
+      "retrievedAt": "2025-02-03 19:06:09.333622",
+      "internal_id": "25bd8193ca7d177522316a0e614c00e6a5a2e623f266149c0c7d0824e9f4a878",
+      "publishedAtLabel": "Feb 2"
+    },
+    {
+      "id": 17882,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "CBS News",
+      "title": "The impact from bird flu spreads",
+      "description": "After H5N1, the current strain of bird flu, reached the United States in 2022, more than 148 million chickens, turkeys and other farm birds have been euthanized. Since last year, when the virus jumped from poultry and wild birds to mammals, the number of huma\u2026",
+      "url": "https://www.cbsnews.com/video/the-impact-from-bird-flu-spreads/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/02/02/1f3e29e1-72c9-426f-844a-61ba60eed817/thumbnail/1200x630/26f6c05a310603b67fd3bf816bcfc7a8/bird-flu-1920.jpg?v=a599723035d2f104d7a2d01edbe96ef8",
+      "publishedAt": "2025-02-02 15:18:00",
+      "content": "Watch CBS News Copyright \u00a92025 CBS Interactive Inc. All rights reserved. Get browser notifications for breaking news, live events, and exclusive reporting. Not NowTurn On",
+      "retrievedAt": "2025-02-03 19:06:09.368737",
+      "internal_id": "7894cedbb7b7f5a5689adafe70d2d4355399dad9cedb443b03f43a6921ef0908",
+      "publishedAtLabel": "Feb 2"
+    },
+    {
+      "id": 17881,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Rg.ru",
+      "author": null,
+      "title": "Nature: \u0420\u0430\u0441\u0442\u0435\u0442 \u0440\u0438\u0441\u043a \u043d\u043e\u0432\u043e\u0439 \u043f\u0430\u043d\u0434\u0435\u043c\u0438\u0438, \u0432\u044b\u0437\u0432\u0430\u043d\u043d\u043e\u0439 \u043f\u0442\u0438\u0447\u044c\u0438\u043c \u0433\u0440\u0438\u043f\u043f\u043e\u043c",
+      "description": "\u041f\u0442\u0438\u0447\u0438\u0439 \u0432\u0438\u0440\u0443\u0441 \u0433\u0440\u0438\u043f\u043f\u0430 H5N1 \u0430\u0434\u0430\u043f\u0442\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u043a \u043d\u043e\u0432\u044b\u043c \u0445\u043e\u0437\u044f\u0435\u0432\u0430\u043c - \u043c\u043b\u0435\u043a\u043e\u043f\u0438\u0442\u0430\u044e\u0449\u0438\u043c, \u0438 \u044d\u0442\u043e \u043f\u043e\u0432\u044b\u0448\u0430\u0435\u0442 \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u044c \u0435\u0433\u043e \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0435\u043d\u0438\u044f \u0441\u0440\u0435\u0434\u0438 \u043b\u044e\u0434\u0435\u0439.",
+      "url": "https://rg.ru/2025/02/02/nature-rastet-risk-novoj-pandemii-vyzvannoj-ptichim-grippom.html",
+      "urlToImage": "https://cdnstatic.rg.ru/uploads/images/2025/02/02/istock-2173054299-1_573.jpg",
+      "publishedAt": "2025-02-02 15:16:01",
+      "content": ", . 68 , . , \"\" , Nature. , , H5N1, , , . - , , . \" , , ( - . \") \", - Nature , , , . , , . H5N1: , B3.13, ; , D1.1, , , . B3.13 , 900 16 , , , . , , , , , . 40 . , . , . Nature, 24 , , D1.\u2026 [+62 chars]",
+      "retrievedAt": "2025-02-03 19:06:09.361221",
+      "internal_id": "09a328c5fd62404d20e1f9ca5e4949d4dbfdd18adf23087b1d12af5944ec7f2f",
+      "publishedAtLabel": "Feb 2"
+    },
+    {
+      "id": 17886,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Haber7.com",
+      "author": "Ramazan Y\u0131ld\u0131z",
+      "title": "Uganda'da M \u00e7i\u00e7e\u011fi vir\u00fcs\u00fcne kar\u015f\u0131 a\u015f\u0131 kampanyas\u0131 seferberli\u011fi",
+      "description": "Uganda'da Afrika Hastal\u0131k Kontrol ve \u00d6nleme Merkezleri (Africa CDC) taraf\u0131ndan ba\u011f\u0131\u015flanan 2 bin doz a\u015f\u0131, bin ki\u015fiye uygulanmaya ba\u015fland\u0131.",
+      "url": "https://www.haber7.com/dunya/haber/3501667-ugandada-m-cicegi-virusune-karsi-asi-kampanyasi-seferberligi",
+      "urlToImage": "https://i20.haber7.net/resize/1280x720//haber/haber7/photos/2025/05/ugandada_m_cicegi_virusune_karsi_asi_kampanyasi_seferberligi_1738501558_3925.jpg",
+      "publishedAt": "2025-02-02 13:06:00",
+      "content": "Uganda'nn bakenti Kampala'da M \u00e7i\u00e7ei vir\u00fcs\u00fc (Mpox) salgnyla m\u00fccadele kapsamnda y\u00fcksek risk gruplar ve salk \u00e7alanlarna y\u00f6nelik alama kampanyasnn ilk aamas balatld. Yerel basna yansyan haberlere g\u00f6re,\u2026 [+1110 chars]",
+      "retrievedAt": "2025-02-03 19:06:11.973579",
+      "internal_id": "44bab71e5765b926fdbbd9268eb1cf6c7843aead436f2d4c077a071f744390bc",
+      "publishedAtLabel": "Feb 2"
+    },
+    {
+      "id": 17885,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Anadolu Agency",
+      "author": null,
+      "title": "Uganda, M \u00e7i\u00e7e\u011fi vir\u00fcs\u00fc salg\u0131n\u0131yla m\u00fccadele kapsam\u0131nda a\u015f\u0131 kampanyas\u0131 ba\u015flatt\u0131",
+      "description": "Uganda'n\u0131n ba\u015fkenti Kampala'da M \u00e7i\u00e7e\u011fi vir\u00fcs\u00fc (Mpox) salg\u0131n\u0131yla m\u00fccadele kapsam\u0131nda y\u00fcksek risk gruplar\u0131 ve sa\u011fl\u0131k \u00e7al\u0131\u015fanlar\u0131na y\u00f6nelik a\u015f\u0131lama kampanyas\u0131n\u0131n ilk a\u015famas\u0131 ba\u015flat\u0131ld\u0131. - Anadolu Ajans\u0131",
+      "url": "https://www.aa.com.tr/tr/dunya/uganda-m-cicegi-virusu-salginiyla-mucadele-kapsaminda-asi-kampanyasi-baslatti/3469451",
+      "urlToImage": "https://cdnuploads.aa.com.tr/uploads/Contents/2025/02/02/thumbs_b_c_1c8532de8fa50550880b9b8ccb27dabb.jpg",
+      "publishedAt": "2025-02-02 12:23:48",
+      "content": "Yerel basna yansyan haberlere g\u00f6re, Afrika Hastalk Kontrol ve \u00d6nleme Merkezleri (Africa CDC) tarafndan balanan 2 bin doz a, bin kiiye uygulanmaya baland. Uganda Salk Bakanlndan yaplan a\u00e7klamada, Ara\u2026 [+1108 chars]",
+      "retrievedAt": "2025-02-03 19:06:11.953773",
+      "internal_id": "29b55ce4fdc54c5a52962349ec0dbb7e2fda51a19aee93b301f9d3aaae835ca4",
+      "publishedAtLabel": "Feb 2"
+    },
+    {
+      "id": 17884,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Www.dr.dk",
+      "author": null,
+      "title": "Danmark har ikke tabt ved VM siden 2017: 'Der var jeg lige kommet tilbage fra meningitis'",
+      "description": "Ungarn er det seneste hold, der har sl\u00e5et Danmark ved VM i herreh\u00e5ndbold.",
+      "url": "https://www.dr.dk/sporten/haandbold/vm/danmark-har-ikke-tabt-ved-vm-siden-2017-der-var-jeg-lige-kommet-tilbage-fra",
+      "urlToImage": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fwww.dr.dk%2Fimages%2Fother%2F2025%2F02%2F01%2Fscanpix-20250131-223129-l.jpg&w=1200",
+      "publishedAt": "2025-02-02 07:31:00",
+      "content": "Den 27-\u00e5rige m\u00e5lmand, som har haft over 100 redninger indtil videre ved dette VM, var 19 \u00e5r og havde netop v\u00e6ret igennem et sygdomsforl\u00f8b. - Der var jeg lige kommet tilbage fra meningitis. Det var e\u2026 [+450 chars]",
+      "retrievedAt": "2025-02-03 19:06:10.239102",
+      "internal_id": "a483b8a9c9449681a365c38d6144ba8fba11c39eb3049318e23228e7283d079b",
       "publishedAtLabel": "Feb 2"
     }
   ]
