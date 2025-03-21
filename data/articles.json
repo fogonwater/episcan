@@ -1,8 +1,440 @@
 {
-  "last_updated": "2025-03-21 07:06",
-  "count_articles_total": 1622,
-  "count_articles_new": 6,
+  "last_updated": "2025-03-21 19:05",
+  "count_articles_total": 1640,
+  "count_articles_new": 25,
   "articles": [
+    {
+      "id": 19514,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "DW (English)",
+      "author": "Nik Martin",
+      "title": "US egg shortage: Does Europe have any to spare?",
+      "description": "A bird flu outbreak in the US has spiked egg prices by more than 150% in a year. Washington has reportedly called on Europe to export its egg surplus, but only one or two countries have so far hatched a plan.",
+      "url": "https://www.dw.com/en/us-egg-shortage-does-europe-have-any-to-spare/a-71968918",
+      "urlToImage": "https://static.dw.com/image/71985511_6.jpg",
+      "publishedAt": "2025-03-20 19:02:00",
+      "content": "In recent weeks, some consumers in the United States have been paying more than $10 (9.22) for a dozen eggs after an outbreak of highly pathogenic avian influenza (HPAI) caused an egg shortage and a \u2026 [+5582 chars]",
+      "retrievedAt": "2025-03-21 19:05:52.236773",
+      "internal_id": "c18518eda83338752d734e83c4d732eaf4dafc55250e781c8b95d6e1c17f776e",
+      "publishedAtLabel": "Mar 20"
+    },
+    {
+      "id": 19508,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "Former surgeon general blasts RFK Jr.'s rhetoric, highlights herd immunity amid measles outbreak (Joseph Choi/The Hill)",
+      "description": "Joseph Choi / The Hill: Former surgeon general blasts RFK Jr.'s rhetoric, highlights herd immunity amid measles outbreak -- Former U.S. Surgeon General Jerome Adams warned that vaccine skepticism has eroded the importance of herd immunity in light of the meas\u2026",
+      "url": "https://www.memeorandum.com/250320/p90",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2025/01/rfk-confirmation-hearing-gn.jpg?w=1280",
+      "publishedAt": "2025-03-20 18:55:01",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-03-21 19:05:51.521860",
+      "internal_id": "2d818977e03a41479d3e189b46c2f0aae3476aca38a56fde1db1f0b05c77c2b7",
+      "publishedAtLabel": "Mar 20"
+    },
+    {
+      "id": 19505,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Antonio Peque\u00f1o IV, Forbes Staff, \n Antonio Peque\u00f1o IV, Forbes Staff\n https://www.forbes.com/sites/antoniopequenoiv/",
+      "title": "Measles Outbreak: Cases In Texas Near 280 As Illness Spreads To 15 States",
+      "description": "Texas remains the state with the highest number of cases, by far.",
+      "url": "https://www.forbes.com/sites/antoniopequenoiv/2025/03/20/measles-outbreak-cases-in-texas-near-280-as-illness-spreads-to-15-states/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67b8dc34f003eb75b733dff5/0x0.jpg?format=jpg&crop=3039,2027,x0,y0,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-03-20 17:59:26",
+      "content": "A measles outbreak in Texas infected nearly 280 people as of Tuesday, as cases of the highly contagious illness have been spotted in 15 states and already exceeded the total number of measles cases r\u2026 [+6996 chars]",
+      "retrievedAt": "2025-03-21 19:05:51.432735",
+      "internal_id": "19dcba8e8e74be293e563c8a3d8243c384c3b121d1a8ac984368f4a72490ce5d",
+      "publishedAtLabel": "Mar 20"
+    },
+    {
+      "id": 19512,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Medical Daily",
+      "author": "Maryam Khanum",
+      "title": "Anti-Vaxx Mom Whose Daughter Died From Measles Says Disease 'Wasn't That Bad'",
+      "description": "The parents of a Texas child who died from measles appeared in a video formulated by an anti-vaccine group where they continued to push against vaccines.",
+      "url": "https://www.medicaldaily.com/anti-vaxx-mom-whose-daughter-died-measles-says-disease-wasnt-that-bad-473272",
+      "urlToImage": "https://d.medicaldaily.com/en/full/479722/measles.png",
+      "publishedAt": "2025-03-20 17:44:33",
+      "content": "The parents of an unvaccinatedTexas child who died from measles appeared in a video formulated by an anti-vaccine advocacy group where they railed against vaccines, even saying the disease \"wasn't th\u2026 [+2489 chars]",
+      "retrievedAt": "2025-03-21 19:05:51.652709",
+      "internal_id": "849ec3cc06181362ad9e965ffafc1bb5917aff5bb0d61239e115c03f9ed33bd9",
+      "publishedAtLabel": "Mar 20"
+    },
+    {
+      "id": 19517,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Shtfplan.com",
+      "author": "Mac Slavo",
+      "title": "Human Flu Could Offer Immunity To Bird Flu",
+      "description": "Researchers have discovered that exposure to human seasonal flu may deliver some form of immunity to the H5N1 bird flu that's currently circulating. Earlier this week, a team of international researchers released information claiming that ferrets exposed to a\u2026",
+      "url": "https://www.shtfplan.com/headline-news/human-flu-could-offer-immunity-to-bird-flu",
+      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2018/06/birdflu-e1529418976701.jpg",
+      "publishedAt": "2025-03-20 17:30:38",
+      "content": "Researchers have discovered that exposure to human seasonal flu may deliver some form of immunity to the H5N1 bird flu that\u2019s currently circulating. Earlier this week, a team of international researc\u2026 [+1927 chars]",
+      "retrievedAt": "2025-03-21 19:05:53.039662",
+      "internal_id": "e3ac451251403dd465b43b245708fa993b2321519a4e875bc1a92731f87b5185",
+      "publishedAtLabel": "Mar 20"
+    },
+    {
+      "id": 19522,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Spektrum.de",
+      "author": "Christian Schw\u00e4gerl",
+      "title": "Vogelgrippe in den USA: \u00bbKontraproduktiv, irref\u00fchrend und f\u00fcr uns Menschen lebensgef\u00e4hrlich\u00ab",
+      "description": "In den USA verursacht die Vogelgrippe eine Eier-Krise. Nun hat US-Gesundheitsminister Kennedy vorgeschlagen, dem Virus freien Lauf zu lassen - um resistente H\u00fchner zu z\u00fcchten.",
+      "url": "https://www.spektrum.de/news/kennedy-plan-kontraproduktiv-irrefuehrend-und-lebensgefaehrlich/2258211",
+      "urlToImage": "https://static.spektrum.de/fm/912/f1920x1080/62089453_pa.jpg",
+      "publishedAt": "2025-03-20 17:00:00",
+      "content": "Herr Harder, aus den USA rei\u00dfen die Meldungen \u00fcber die Ausbreitung der Vogelgrippe nicht ab. Warum ist das Virus dort so ein Problem? Das hochpathogene Influenzavirus des Subtyps H5N1 breitet sich d\u2026 [+14698 chars]",
+      "retrievedAt": "2025-03-21 19:05:53.191253",
+      "internal_id": "a10955f1d99b2a6e6b6db96c852b55f155984769b7b3b9d35992fb427ea58724",
+      "publishedAtLabel": "Mar 20"
+    },
+    {
+      "id": 19524,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Ravenna Alves",
+      "title": "Vacina contra mpox apresenta 84% de efic\u00e1cia ap\u00f3s uma dose, diz estudo",
+      "description": "Para pessoas com HIV, a prote\u00e7\u00e3o contra mpox n\u00e3o foi suficiente com uma dose. Pesquisadores refor\u00e7am a necessidade da segunda aplica\u00e7\u00e3o",
+      "url": "https://www.metropoles.com/saude/vacina-contra-mpox-84-eficacia",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/08/26122741/Vacina-contra-cancer.jpg",
+      "publishedAt": "2025-03-20 16:39:37",
+      "content": "Uma \u00fanica dose da vacina Imvanex, tamb\u00e9m conhecida como Jynneos, mostrou ter 84% de efic\u00e1cia na prote\u00e7\u00e3o contra o v\u00edrus da mpox. Os dados foram apresentados em um estudo publicado nessa ter\u00e7a-feira (\u2026 [+3475 chars]",
+      "retrievedAt": "2025-03-21 19:05:56.783050",
+      "internal_id": "731d6142ce30a8ab83bc6ab14508f10098397524adfab9a2bf05c19d02867cc2",
+      "publishedAtLabel": "Mar 20"
+    },
+    {
+      "id": 19525,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Penglijun, Elias Shilangwa",
+      "title": "Zambia confirms first mpox death as infections rises to 31",
+      "description": "LUSAKA, March 20 (Xinhua) -- Zambia on Thursday confirmed its first mpox-related death as the cumulative number of laboratory-confirmed infections reached 31 in the southern African nation. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2025/03/21/zambia-confirms-first-mpox-death-as-infections-rises-to-31",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2025-03-20 16:33:00",
+      "content": "LUSAKA, March 20 (Xinhua) -- Zambia on Thursday confirmed its first mpox-related death as the cumulative number of laboratory-confirmed infections reached 31 in the southern African nation. Ministe\u2026 [+626 chars]",
+      "retrievedAt": "2025-03-21 19:05:56.791637",
+      "internal_id": "a1b33db090206359f82038f3fde542a9ef13d74e93b4db65f7e80a62b6b0e7f0",
+      "publishedAtLabel": "Mar 20"
+    },
+    {
+      "id": 19502,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Scientific American",
+      "author": "Ripley Cleghorn",
+      "title": "See How Measles Outbreaks Flourish Where Vaccination Rates Fall",
+      "description": "Measles continues to spread in Texas and other states and has caused the first reported U.S. death from the virus in a decade. Vaccination data over time reveal vulnerabilities in protection",
+      "url": "https://www.scientificamerican.com/article/see-how-measles-outbreaks-flourish-where-vaccination-rates-fall/",
+      "urlToImage": "https://static.scientificamerican.com/dam/m/572a9f28875081ee/original/measles_graphic_leadImage.png?m=1742486452.747&w=1200",
+      "publishedAt": "2025-03-20 16:30:00",
+      "content": "A recent resurgence of measles is hitting multiple U.S. states, sending a concerning number of children to hospitals. In the past two months, public health officials have reported a total of 301 conf\u2026 [+9427 chars]",
+      "retrievedAt": "2025-03-21 19:05:51.369006",
+      "internal_id": "741ca9e2f511fefdd37d63cd5a120cd32fd101dee288aa29e0240d495550efcc",
+      "publishedAtLabel": "Mar 20"
+    },
+    {
+      "id": 19511,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Highest case count of measles in Ontario is south of London, with overall numbers climbing",
+      "description": "The health unit for Oxford County, Elgin County and the City of St. Thomas in southwestern Ontario says there are now 228 reported cases of measles in its jurisdiction, predominantly in unvaccinated kids, as case numbers in Ontario continue to rise.",
+      "url": "https://www.cbc.ca/news/canada/london/measles-southwestern-public-health-london-ontario-1.7488548",
+      "urlToImage": "https://i.cbc.ca/1.7145179.1742486975!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/thumbnail-for-major-measles-outbreak-expected-without-better-vaccination-rates-modelling-shows.jpg?im=Resize%3D620",
+      "publishedAt": "2025-03-20 16:12:53",
+      "content": "The health unit for Oxford County, Elgin County and the City of St. Thomas is dealing with almost half of the measles cases in Ontario with 228 people infected, predominantly in unvaccinated kids. \u2026 [+3314 chars]",
+      "retrievedAt": "2025-03-21 19:05:51.624556",
+      "internal_id": "850b36449a22a96e80e752ebf3ac77025a4d4926fdea3ca586b75c4f56b78864",
+      "publishedAtLabel": "Mar 20"
+    },
+    {
+      "id": 19519,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Dissapore.com",
+      "author": "Giulia Lucania",
+      "title": "Il piano diabolico di Kennedy per combattere l\u2019influenza aviaria lascia perplessa l\u2019America",
+      "description": "Il segretario alla salute statunitense propone una soluzione a dir poco antiscientifica per il virus H5N1. L'articolo Il piano diabolico di Kennedy per combattere l\u2019influenza aviaria lascia perplessa l\u2019America proviene da Dissapore.",
+      "url": "https://www.dissapore.com/notizie/il-piano-diabolico-di-kennedy-per-combattere-linfluenza-aviaria-lascia-perplessa-lamerica/",
+      "urlToImage": "https://images.dissapore.com/wp-content/uploads/2025/03/virus-h5n1-1.jpg?width=1280&height=720&quality=75",
+      "publishedAt": "2025-03-20 16:00:57",
+      "content": "Dalle ultime dichiarazioni di Robert F. Kennedy Jr. sullinfluenza aviaria appare chiaro che il segretario alla salute e per i servizi umani degli Stati Uniti non ha nemmeno dato unocchiata alle lette\u2026 [+1895 chars]",
+      "retrievedAt": "2025-03-21 19:05:53.074817",
+      "internal_id": "1758b3d0257a3e49cf6e13875306e40152fff43019e5342f81bb2edf09679848",
+      "publishedAtLabel": "Mar 20"
+    },
+    {
+      "id": 19503,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Rolling Stone",
+      "author": "Elisabeth Garber-Paul",
+      "title": "Measles Is Coming Back. These Moms Want to Vaccinate Their Kids Early",
+      "description": "A measles outbreak has coincided with the rise of known vaccine skeptic RFK Jr., leaving a lot of parents worrying about their kids.",
+      "url": "http://www.rollingstone.com/culture/culture-features/measles-outbreak-vaccine-early-1235300120/",
+      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2025/03/moms-vaccinating-early.jpg?crop=0px%2C79px%2C1798px%2C1014px&resize=1600%2C900",
+      "publishedAt": "2025-03-20 15:25:34",
+      "content": "As a mother of a 10-month-old infant, I worry a lot \u2014 about her sleep schedule, whether she\u2019s eating enough, if she\u2019s hitting her developmental milestones. What I didn\u2019t expect to have to worry about\u2026 [+5477 chars]",
+      "retrievedAt": "2025-03-21 19:05:51.416342",
+      "internal_id": "8b966ddffdfa6aafef6cf460c3bddf7844dea935b3cf9328a154e8afe790c464",
+      "publishedAtLabel": "Mar 20"
+    },
+    {
+      "id": 19506,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "How the anti-vaccine movement weaponized a 6-year-old's measles death (Brandy Zadrozny/NBC News)",
+      "description": "Brandy Zadrozny / NBC News: How the anti-vaccine movement weaponized a 6-year-old's measles death -- Anti-vaccine influencers see the child's death as proof -- not of the danger of measles, but of their own debunked theories. -- In February, a 6-year-old Texa\u2026",
+      "url": "https://www.memeorandum.com/250320/p37",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-03/250319-rfk-measles-follow-up-lr-2e149b.jpg",
+      "publishedAt": "2025-03-20 14:10:03",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-03-21 19:05:51.486287",
+      "internal_id": "3ebcd2d09f78e99f200379b05136f38a9f7ec5a9724d2fcf60270dfd35ee31b3",
+      "publishedAtLabel": "Mar 20"
+    },
+    {
+      "id": 19520,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Haber7.com",
+      "author": "Fatih Yoncal\u0131k",
+      "title": "ABD\u2019de ku\u015f gribi salg\u0131n\u0131!",
+      "description": "ABD, \u00fclkede 2017'den itibaren k\u00fcmes hayvan\u0131 \u00e7itli\u011finde g\u00f6r\u00fclen ilk H7N9 salg\u0131n\u0131n\u0131 duyurdu. ABD'nin uzun zamand\u0131r H5N1 ku\u015f gribi salg\u0131n\u0131yla m\u00fccadele etti\u011fi biliniyor.",
+      "url": "https://www.haber7.com/dunya/haber/3515174-abdde-kus-gribi-salgini",
+      "urlToImage": "https://i20.haber7.net/resize/1280x720//haber/haber7/photos/2025/12/OGbFv_1742477966_0062.jpg",
+      "publishedAt": "2025-03-20 13:52:00",
+      "content": "ABD, 2017'den bu yana k\u00fcmes hayvan \u00e7iftliinde H7N9 ku gribi salgnnn ilk kez g\u00f6r\u00fcld\u00fc\u00fcn\u00fc bildirdi. HAYVAN SALII HEYETNDEN A\u00c7IKLAMA H5N1 ku gribi salgnyla m\u00fccadele eden ABD, \u00fclkede 2017'den itibaren k\u2026 [+476 chars]",
+      "retrievedAt": "2025-03-21 19:05:53.102924",
+      "internal_id": "806893f6f266cdc58a9c7f4f1351e09df777d2f3dd0f93d78554f6fe580d0fbd",
+      "publishedAtLabel": "Mar 20"
+    },
+    {
+      "id": 19521,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "the-verge",
+      "source_name": "The Verge",
+      "author": "Lauren Leffer",
+      "title": "We\u2019ve entered a forever war with bird flu",
+      "description": "Avian influenza is \u00e2\u0080\u009cevolving in ways we haven\u00e2\u0080\u0099t seen before,\u00e2\u0080\u009d says Martha Nelson, a computational biologist and staff scientist researching pathogen evolution at the National Institutes of Health \u00e2\u0080\u0094 one of many scientists who have been monitoring the g\u2026",
+      "url": "https://www.theverge.com/science/632605/forever-war-with-bird-flu",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/257591_Birdflu__CVirginia_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-03-20 13:35:53",
+      "content": "The threat of an H5N1 pandemic is here to stay. Avian influenza is evolving in ways we havent seen before, says Martha Nelson, a computational biologist and staff scientist researching pathogen evol\u2026 [+13314 chars]",
+      "retrievedAt": "2025-03-21 19:05:53.170230",
+      "internal_id": "d90ca0f50ed3ae5549447b6ec685a6bb77ab8437ccacd3e7766ae7e574838018",
+      "publishedAtLabel": "Mar 20"
+    },
+    {
+      "id": 19526,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": "focus",
+      "source_name": "Focus",
+      "author": "FOCUS online",
+      "title": "\u201ePr\u00e4historisches Genom von Y. pestis\" - Infizierte Mumie aus altem \u00c4gypten enth\u00e4lt DNA von Pest, die Millionen t\u00f6tete",
+      "description": "Vor etwa 3300 Jahren grassierte offenbar die Pest im alten \u00c4gypten. Forscher fanden DNA des Pesterregers \u201eYersinia pestis\u201c in einer Mumie.",
+      "url": "https://www.focus.de/wissen/infizierte-mumie-enthaelt-dna-von-pest-die-millionen-toetete_eed1d11a-c128-41f2-9d29-eeffb72261b3.html",
+      "urlToImage": "https://quadro.burda-forward.de/ctf/e9281208-4b45-432c-87ed-d26ea6c2a7d4.5b98bb75-9cfc-486a-a654-1920bbc39902.jpg?im=RegionOfInterestCrop%3D%281200%2C630%29%2CregionOfInterest%3D%281186%2C760%29&hash=fd54fefb11344f0e9e105c3096b80f8764d388a1ad1a129cbf4010799f10daa0",
+      "publishedAt": "2025-03-20 12:50:00",
+      "content": "In einer Mumie im Museum von Turin entdeckten Wissenschaftler DNA des Pesterregers Yersinia pestis. Die \u00dcberreste des \u00e4gyptischen Mannes sind etwa 3300 Jahre alt. Dies deutet laut iflscience darauf h\u2026 [+2746 chars]",
+      "retrievedAt": "2025-03-21 19:05:57.840578",
+      "internal_id": "3ced474d912dd4880de6bf35def1dff546a5b33c55f9256788807ac9711d6c9d",
+      "publishedAtLabel": "Mar 20"
+    },
+    {
+      "id": 19509,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Crooksandliars.com",
+      "author": "NewsHound Ellen",
+      "title": "RFK Jr: \u2018Let Them Get Bird Flu!\u2019",
+      "description": "Last week, I wrote about RFK Jr.\u2019s \"killer\" suggestion that it was better to get measles than to get vaccinated. It turns out he has similar thoughts about bird flu. From The New York Times: Instead of culling birds when the infection is discovered, farmers \u201c\u2026",
+      "url": "https://crooksandliars.com/2025/03/rfk-jr-let-them-get-bird-flu",
+      "urlToImage": "https://crooksandliars.com/files/primary_image/25/03/rfk_jr._for_031225_0.jpg",
+      "publishedAt": "2025-03-20 10:55:09",
+      "content": "Last week, I wrote about RFK Jr.s \"killer\" suggestion that it was better to get measles than to get vaccinated. It turns out he has similar thoughts about bird flu. From The New York Times: Instead\u2026 [+1976 chars]",
+      "retrievedAt": "2025-03-21 19:05:51.542878",
+      "internal_id": "70371f935fe4f6138eaeadf4407c3f19ba90b676b11b55b2f94eef6fb3776673",
+      "publishedAtLabel": "Mar 20"
+    },
+    {
+      "id": 19504,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Poynter",
+      "author": "Jeff Cercone",
+      "title": "Robert F. Kennedy Jr. says measles infection may have benefits, but there\u2019s no conclusive evidence",
+      "description": "As U.S. measles infections spread, Health and Human Services Secretary Robert F. Kennedy Jr. said in a Fox Nation interview there could be some health benefits to getting the measles. [\u2026] The post Robert F. Kennedy Jr. says measles infection may have benefits\u2026",
+      "url": "https://www.poynter.org/fact-checking/2025/measles-benefits-boost-immune-system-vaccination/",
+      "urlToImage": "https://www.poynter.org/wp-content/uploads/2025/03/AP25064131059561.jpg",
+      "publishedAt": "2025-03-20 10:30:26",
+      "content": "As U.S. measles infections spread, Health and Human Services Secretary Robert F. Kennedy Jr. said in a Fox Nation interview there could be some health benefits to getting the measles. During the Mar\u2026 [+8154 chars]",
+      "retrievedAt": "2025-03-21 19:05:51.424741",
+      "internal_id": "b41074671a5c9ab7eb9eabb8ec90b7044000ba46c172a28c07397377f15e346f",
+      "publishedAtLabel": "Mar 20"
+    },
+    {
+      "id": 19518,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Khan.co.kr",
+      "author": "\ubc18\uae30\uc6c5 \uae30\uc790 ban@kyunghyang.com",
+      "title": "\uc0b5 \uc0ac\uccb4\uc11c \uc870\ub958\uc778\ud50c\ub8e8\uc5d4\uc790\u2026\u2018\uace0\ubcd1\uc6d0\uc131\u2019 \ucd5c\uc885 \ud655\uc778",
+      "description": "\uc9c0\ub09c 16\uc77c \uc804\ub0a8 \ud654\uc21c\uc5d0\uc11c \uc870\ub958\uc778\ud50c\ub8e8\uc5d4\uc790\uc5d0 \uac10\uc5fc\ub3fc \uc4f0\ub7ec\uc9c4 \ucc44 \ubc1c\uacac \uc2dc \uc0b5. \ud658\uacbd\ubd80 \uc81c\uacf5 \uad6d\ub0b4\uc5d0\uc11c \ud3d0\uc0ac\ud55c \uc57c\uc0dd \uc0b5\uc774 \uace0\ubcd1\uc6d0\uc131 \uc870\ub958\uc778\ud50c\ub8e8\uc5d4\uc790\uc5d0 \uac10\uc5fc\ub41c \uac83\uc73c\ub85c \ud655\uc778\ub410\ub2e4. \ud658\uacbd\ubd80\uc640 \uad6d\ub9bd\uc57c\uc0dd\ub3d9\ubb3c\uc9c8\ubcd1\uad00\ub9ac\uc6d0\uc740 \uc9c0\ub09c 16\uc77c \uc804\ub0a8 \ud654\uc21c\uc5d0\uc11c \ubc1c\uacac\ub41c \uc57c\uc0dd \uc0b5\uc5d0 \ub300\ud55c \uc815\ubc00 \uac80\uc0ac \uacb0\uacfc H5N1\ud615 \uace0\ubcd1\uc6d0\uc131 \uc870\ub958\uc778\ud50c\ub8e8\uc5d4\uc790 \uac80\ucd9c\uc774 \ucd5c\uc885 \ud655\uc778\ub410\ub2e4\uace0 20\uc77c \ubc1d\ud614\ub2e4. \uc55e\uc11c \ubc29\uc5ed\ub2f9\uad6d\uc740 \u00b7\u00b7\u00b7",
+      "url": "https://www.khan.co.kr/article/202503201833001",
+      "urlToImage": "https://img.khan.co.kr/news/2025/03/20/news-p.v1.20250320.1804b7e407b6432ab9f00bf87a127748_P1.jpg",
+      "publishedAt": "2025-03-20 09:33:00",
+      "content": "16 . . 16 H5N1 20 . . . . 100 . . , , . 2~3km , . (SOP) .",
+      "retrievedAt": "2025-03-21 19:05:53.053769",
+      "internal_id": "bee5bc73e5b845cd817322ace219e8485a7fd32f2e92e056b423e8e8c5d16020",
+      "publishedAtLabel": "Mar 20"
+    },
+    {
+      "id": 19523,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Le Journal des Entreprises",
+      "author": null,
+      "title": "La biotech Valneva r\u00e9duit fortement ses pertes en 2024",
+      "description": "Le fabricant de vaccins Valneva confirme ses objectifs financiers pour 2025, apr\u00e8s avoir nettement r\u00e9duit sa perte nette en 2024. Celle-ci s\u2019\u00e9l\u00e8ve \u00e0 12,2 millions d\u2019euros, contre une perte nette de\u2026",
+      "url": "https://www.lejournaldesentreprises.com/breve/la-biotech-valneva-reduit-fortement-ses-pertes-en-2024-2115935",
+      "urlToImage": "https://www.lejournaldesentreprises.com/sites/lejournaldesentreprises.com/files/styles/facebook_share/public/2025-03/Valneva-rduit-sa-perte-nette-grce--son-vacci-564682.jpeg?itok=D_SDDedW",
+      "publishedAt": "2025-03-20 09:05:13",
+      "content": "Valneva r\u00e9duit sa perte nette gr\u00e2ce \u00e0 son vaccin sur le chikungunya \u2014 Photo : Valneva Le fabricant de vaccins Valneva confirme ses objectifs financiers pour 2025, apr\u00e8s avoir nettement r\u00e9duit sa p\u2026 [+822 chars]",
+      "retrievedAt": "2025-03-21 19:05:56.164665",
+      "internal_id": "0d55534ad7354e729f76d6e69cdfa75f2581b648a73269d7c36c8e45a64354fd",
+      "publishedAtLabel": "Mar 20"
+    },
+    {
+      "id": 19513,
+      "query": [
+        "measles"
+      ],
+      "source_id": "nbc-news",
+      "source_name": "NBC News",
+      "author": "Brandy Zadrozny",
+      "title": "How the anti-vaccine movement weaponized a 6-year-old\u2019s measles death",
+      "description": "Anti-vaccine influencers use a 6-year-old's measles death to promote debunked theories, while health experts warn of the danger of the disease.",
+      "url": "https://www.nbcnews.com/health/health-news/anti-vaccine-influencers-weaponized-measles-death-texas-rcna196900",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-03/250319-rfk-measles-follow-up-lr-2e149b.jpg",
+      "publishedAt": "2025-03-20 09:00:00",
+      "content": "In February, a 6-year-old Texan was the first child in the United States to die of measles in two decades. Her death might have been a warning to an increasingly vaccine-hesitant country about the \u2026 [+8906 chars]",
+      "retrievedAt": "2025-03-21 19:05:51.675574",
+      "internal_id": "7af82fd35586b387f60f7036d5d01d8975e02812d4b9f00d2f749f75415b22cb",
+      "publishedAtLabel": "Mar 20"
+    },
+    {
+      "id": 19507,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Gabrielle Emanuel",
+      "title": "U.S. cuts funding for global network testing for measles as cases grow worldwide",
+      "description": "The U.S.-funded Global Measles and Rubella Laboratory Network operates in 150 countries, detecting and controlling measles. Now it's lost its sole funder as part of the U.S. aid cutbacks.",
+      "url": "https://www.npr.org/sections/goats-and-soda/2025/03/19/g-s1-54683/measles-u-s-diagnosis-vaccination",
+      "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+      "publishedAt": "2025-03-20 08:19:07",
+      "content": "The U.S.-funded Global Measles and Rubella Laboratory Network operates in 150 countries, detecting and controlling measles. Now it's lost its sole funder as part of the U.S. aid cutbacks.",
+      "retrievedAt": "2025-03-21 19:05:51.513605",
+      "internal_id": "eab677d2377aef597f8d1bc6328af97c9426e54b4d1e216a5fd592352ad32486",
+      "publishedAtLabel": "Mar 20"
+    },
+    {
+      "id": 19510,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "How Ottawa has (so far) avoided a measles outbreak",
+      "description": "Ottawa has so far been spared from the largest measles outbreak in 30 years, which has affected other areas of the province and the country. The city's top doctor credits the capital's high vaccination rate \u2014 but warns against complacency.",
+      "url": "https://www.cbc.ca/news/canada/ottawa/ottawa-measles-cases-nonexistant-1.7485580",
+      "urlToImage": "https://i.cbc.ca/1.7486779.1742399324!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/trevor-arnason.jpg?im=Resize%3D620",
+      "publishedAt": "2025-03-20 08:00:00",
+      "content": "Ottawa has so far been spared from the largest measles outbreak in 30 years, which has affected other areas of the province and the country. There's likely a straightforward reason for that, accord\u2026 [+3056 chars]",
+      "retrievedAt": "2025-03-21 19:05:51.616165",
+      "internal_id": "8354ffefdd08176a2c2994ba0864a093223692b5a884da9288a1659e6b214310",
+      "publishedAtLabel": "Mar 20"
+    },
+    {
+      "id": 19515,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Bird flu is hitting the U.S. hard. Now, migratory birds are flying north",
+      "description": "5 years after COVID-19, scientists are watching another virus warily: H5N1. It\u2019s been circulating widely in the U.S. \u2014 and now, wild birds are set to start north for migration season.",
+      "url": "https://www.cbc.ca/news/health/bird-flu-h5n1-migration-1.7486795",
+      "urlToImage": "https://i.cbc.ca/1.6080939.1742323097!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_1180/1228294036.jpeg?im=Resize%3D620",
+      "publishedAt": "2025-03-20 08:00:00",
+      "content": "Bird flu is at a dangerous point in the United States: Nearly 167 million birds have been impacted by the H5N1 strain since 2022, and 70 people have been infected. Now, birds are flying our way for t\u2026 [+6490 chars]",
+      "retrievedAt": "2025-03-21 19:05:52.989723",
+      "internal_id": "17e8b5cf94e509bd11d6f9c68ea3d990005d5aa084a54fbc7dda7d62dff9ad8f",
+      "publishedAtLabel": "Mar 20"
+    },
     {
       "id": 19498,
       "query": [
@@ -1281,6 +1713,24 @@
       "content": "Measles testing in Seminole, Texas. | Jan Sonnenmair/Getty Images One of America\u2019s worst measles outbreaks in recent years continues to spread, with 292 reported cases in western Texas and eastern\u2026 [+8645 chars]",
       "retrievedAt": "2025-03-19 07:07:04.078991",
       "internal_id": "d84d322c0bf91427e72b784aec9921ff0dea888f318510c8de30352a62d352fd",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 19516,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "Current antivirals likely less effective against severe infection caused by bird flu virus in cows' milk",
+      "description": "Existing antivirals may be less effective against this H5N1 bird flu strain, and prevention measures, such as avoiding raw milk consumption and reducing exposure in dairy workers, may be the most effective way to protect against the virus.",
+      "url": "https://www.sciencedaily.com/releases/2025/03/250317184329.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2025-03-17 22:43:29",
+      "content": "As the H5N1 avian influenza outbreak continues, scientists are working to better understand the virus's threat to human health. The virus has been found in dairy cows' milk and has infected farm work\u2026 [+3457 chars]",
+      "retrievedAt": "2025-03-21 19:05:53.012037",
+      "internal_id": "6fa7ec1d4519d00f241e4dc2110a106df698546df032b8d362a89da412bb0e5d",
       "publishedAtLabel": "Mar 17"
     },
     {
@@ -29119,132 +29569,6 @@
       "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
       "retrievedAt": "2025-02-04 07:07:01.212340",
       "internal_id": "84f684308ba4ffa4fa15abb09ec46a7cc9d97d0bdd6c4486dce11d79ab56adcc",
-      "publishedAtLabel": "Feb 2"
-    },
-    {
-      "id": 17883,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "WTVD-TV",
-      "author": "Marisa Sardonia",
-      "title": "Bird flu in NC | Dead bird at Lake Julian Park receives 'preliminarily positive' test result for bird flu",
-      "description": "Despite these findings, the park will remain open, but visitors are advised to avoid touching or feeding waterfowl.",
-      "url": "https://abc11.com/post/bird-flu-nc-dead-lake-julian-park-receives-preliminarily-positive-test-result/15857185/",
-      "urlToImage": "https://cdn.abcotvs.com/dip/images/15857173_WLOSbirdflu0201.JPG?w=1600",
-      "publishedAt": "2025-02-02 17:46:41",
-      "content": "ASHEVILLE, N.C. -- Buncombe County officials report that a dead waterfowl bird at Lake Julian Park has received a \"preliminarily positive\" test result for Avian Influenza H5N1, commonly known as bird\u2026 [+957 chars]",
-      "retrievedAt": "2025-02-03 19:06:09.443906",
-      "internal_id": "94402575c35587377ac4ad2a7a1727d800e99d1911b97a966af8fb975be3b790",
-      "publishedAtLabel": "Feb 2"
-    },
-    {
-      "id": 17880,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "cbs-news",
-      "source_name": "CBS News",
-      "author": "Martha Teichner",
-      "title": "As bird flu ravages poultry industry, the damage spreads",
-      "description": "After the current strain of bird flu, H5N1, reached the U.S. in 2022, more than 148 million birds have been euthanized. What is the outbreak's potential impacts on humans, the poultry industry, egg prices, and U.S. exports?",
-      "url": "https://www.cbsnews.com/news/as-bird-flu-ravages-poultry-industry-the-damage-spreads/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/02/02/93af99c1-1c8d-4e2c-800f-17dd5b5e4b02/thumbnail/1200x630/03efc2d452e36c47154559d65c6838e9/bird-flu-1280.jpg?v=a599723035d2f104d7a2d01edbe96ef8",
-      "publishedAt": "2025-02-02 15:19:13",
-      "content": "There are seven generations of Corwins in the Aquebogue, Long Island, town cemetery. Their graves overlook the farm that's been in the family since the 1640s. Some family members' tombstones are ador\u2026 [+3931 chars]",
-      "retrievedAt": "2025-02-03 19:06:09.333622",
-      "internal_id": "25bd8193ca7d177522316a0e614c00e6a5a2e623f266149c0c7d0824e9f4a878",
-      "publishedAtLabel": "Feb 2"
-    },
-    {
-      "id": 17882,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "cbs-news",
-      "source_name": "CBS News",
-      "author": "CBS News",
-      "title": "The impact from bird flu spreads",
-      "description": "After H5N1, the current strain of bird flu, reached the United States in 2022, more than 148 million chickens, turkeys and other farm birds have been euthanized. Since last year, when the virus jumped from poultry and wild birds to mammals, the number of huma\u2026",
-      "url": "https://www.cbsnews.com/video/the-impact-from-bird-flu-spreads/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/02/02/1f3e29e1-72c9-426f-844a-61ba60eed817/thumbnail/1200x630/26f6c05a310603b67fd3bf816bcfc7a8/bird-flu-1920.jpg?v=a599723035d2f104d7a2d01edbe96ef8",
-      "publishedAt": "2025-02-02 15:18:00",
-      "content": "Watch CBS News Copyright \u00a92025 CBS Interactive Inc. All rights reserved. Get browser notifications for breaking news, live events, and exclusive reporting. Not NowTurn On",
-      "retrievedAt": "2025-02-03 19:06:09.368737",
-      "internal_id": "7894cedbb7b7f5a5689adafe70d2d4355399dad9cedb443b03f43a6921ef0908",
-      "publishedAtLabel": "Feb 2"
-    },
-    {
-      "id": 17881,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Rg.ru",
-      "author": null,
-      "title": "Nature: \u0420\u0430\u0441\u0442\u0435\u0442 \u0440\u0438\u0441\u043a \u043d\u043e\u0432\u043e\u0439 \u043f\u0430\u043d\u0434\u0435\u043c\u0438\u0438, \u0432\u044b\u0437\u0432\u0430\u043d\u043d\u043e\u0439 \u043f\u0442\u0438\u0447\u044c\u0438\u043c \u0433\u0440\u0438\u043f\u043f\u043e\u043c",
-      "description": "\u041f\u0442\u0438\u0447\u0438\u0439 \u0432\u0438\u0440\u0443\u0441 \u0433\u0440\u0438\u043f\u043f\u0430 H5N1 \u0430\u0434\u0430\u043f\u0442\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u043a \u043d\u043e\u0432\u044b\u043c \u0445\u043e\u0437\u044f\u0435\u0432\u0430\u043c - \u043c\u043b\u0435\u043a\u043e\u043f\u0438\u0442\u0430\u044e\u0449\u0438\u043c, \u0438 \u044d\u0442\u043e \u043f\u043e\u0432\u044b\u0448\u0430\u0435\u0442 \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u044c \u0435\u0433\u043e \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0435\u043d\u0438\u044f \u0441\u0440\u0435\u0434\u0438 \u043b\u044e\u0434\u0435\u0439.",
-      "url": "https://rg.ru/2025/02/02/nature-rastet-risk-novoj-pandemii-vyzvannoj-ptichim-grippom.html",
-      "urlToImage": "https://cdnstatic.rg.ru/uploads/images/2025/02/02/istock-2173054299-1_573.jpg",
-      "publishedAt": "2025-02-02 15:16:01",
-      "content": ", . 68 , . , \"\" , Nature. , , H5N1, , , . - , , . \" , , ( - . \") \", - Nature , , , . , , . H5N1: , B3.13, ; , D1.1, , , . B3.13 , 900 16 , , , . , , , , , . 40 . , . , . Nature, 24 , , D1.\u2026 [+62 chars]",
-      "retrievedAt": "2025-02-03 19:06:09.361221",
-      "internal_id": "09a328c5fd62404d20e1f9ca5e4949d4dbfdd18adf23087b1d12af5944ec7f2f",
-      "publishedAtLabel": "Feb 2"
-    },
-    {
-      "id": 17886,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Haber7.com",
-      "author": "Ramazan Y\u0131ld\u0131z",
-      "title": "Uganda'da M \u00e7i\u00e7e\u011fi vir\u00fcs\u00fcne kar\u015f\u0131 a\u015f\u0131 kampanyas\u0131 seferberli\u011fi",
-      "description": "Uganda'da Afrika Hastal\u0131k Kontrol ve \u00d6nleme Merkezleri (Africa CDC) taraf\u0131ndan ba\u011f\u0131\u015flanan 2 bin doz a\u015f\u0131, bin ki\u015fiye uygulanmaya ba\u015fland\u0131.",
-      "url": "https://www.haber7.com/dunya/haber/3501667-ugandada-m-cicegi-virusune-karsi-asi-kampanyasi-seferberligi",
-      "urlToImage": "https://i20.haber7.net/resize/1280x720//haber/haber7/photos/2025/05/ugandada_m_cicegi_virusune_karsi_asi_kampanyasi_seferberligi_1738501558_3925.jpg",
-      "publishedAt": "2025-02-02 13:06:00",
-      "content": "Uganda'nn bakenti Kampala'da M \u00e7i\u00e7ei vir\u00fcs\u00fc (Mpox) salgnyla m\u00fccadele kapsamnda y\u00fcksek risk gruplar ve salk \u00e7alanlarna y\u00f6nelik alama kampanyasnn ilk aamas balatld. Yerel basna yansyan haberlere g\u00f6re,\u2026 [+1110 chars]",
-      "retrievedAt": "2025-02-03 19:06:11.973579",
-      "internal_id": "44bab71e5765b926fdbbd9268eb1cf6c7843aead436f2d4c077a071f744390bc",
-      "publishedAtLabel": "Feb 2"
-    },
-    {
-      "id": 17885,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Anadolu Agency",
-      "author": null,
-      "title": "Uganda, M \u00e7i\u00e7e\u011fi vir\u00fcs\u00fc salg\u0131n\u0131yla m\u00fccadele kapsam\u0131nda a\u015f\u0131 kampanyas\u0131 ba\u015flatt\u0131",
-      "description": "Uganda'n\u0131n ba\u015fkenti Kampala'da M \u00e7i\u00e7e\u011fi vir\u00fcs\u00fc (Mpox) salg\u0131n\u0131yla m\u00fccadele kapsam\u0131nda y\u00fcksek risk gruplar\u0131 ve sa\u011fl\u0131k \u00e7al\u0131\u015fanlar\u0131na y\u00f6nelik a\u015f\u0131lama kampanyas\u0131n\u0131n ilk a\u015famas\u0131 ba\u015flat\u0131ld\u0131. - Anadolu Ajans\u0131",
-      "url": "https://www.aa.com.tr/tr/dunya/uganda-m-cicegi-virusu-salginiyla-mucadele-kapsaminda-asi-kampanyasi-baslatti/3469451",
-      "urlToImage": "https://cdnuploads.aa.com.tr/uploads/Contents/2025/02/02/thumbs_b_c_1c8532de8fa50550880b9b8ccb27dabb.jpg",
-      "publishedAt": "2025-02-02 12:23:48",
-      "content": "Yerel basna yansyan haberlere g\u00f6re, Afrika Hastalk Kontrol ve \u00d6nleme Merkezleri (Africa CDC) tarafndan balanan 2 bin doz a, bin kiiye uygulanmaya baland. Uganda Salk Bakanlndan yaplan a\u00e7klamada, Ara\u2026 [+1108 chars]",
-      "retrievedAt": "2025-02-03 19:06:11.953773",
-      "internal_id": "29b55ce4fdc54c5a52962349ec0dbb7e2fda51a19aee93b301f9d3aaae835ca4",
-      "publishedAtLabel": "Feb 2"
-    },
-    {
-      "id": 17884,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Www.dr.dk",
-      "author": null,
-      "title": "Danmark har ikke tabt ved VM siden 2017: 'Der var jeg lige kommet tilbage fra meningitis'",
-      "description": "Ungarn er det seneste hold, der har sl\u00e5et Danmark ved VM i herreh\u00e5ndbold.",
-      "url": "https://www.dr.dk/sporten/haandbold/vm/danmark-har-ikke-tabt-ved-vm-siden-2017-der-var-jeg-lige-kommet-tilbage-fra",
-      "urlToImage": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fwww.dr.dk%2Fimages%2Fother%2F2025%2F02%2F01%2Fscanpix-20250131-223129-l.jpg&w=1200",
-      "publishedAt": "2025-02-02 07:31:00",
-      "content": "Den 27-\u00e5rige m\u00e5lmand, som har haft over 100 redninger indtil videre ved dette VM, var 19 \u00e5r og havde netop v\u00e6ret igennem et sygdomsforl\u00f8b. - Der var jeg lige kommet tilbage fra meningitis. Det var e\u2026 [+450 chars]",
-      "retrievedAt": "2025-02-03 19:06:10.239102",
-      "internal_id": "a483b8a9c9449681a365c38d6144ba8fba11c39eb3049318e23228e7283d079b",
       "publishedAtLabel": "Feb 2"
     }
   ]

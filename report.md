@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 6
-- **Last harvest:** 2025-03-21 07:06
-- **Most recent article:** 2025-03-20 01:58:11
+- **New articles in last harvest:** 25
+- **Last harvest:** 2025-03-21 19:05
+- **Most recent article:** 2025-03-20 19:02:00
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-10 | 25-11 | 25-12 | 25-6 | 25-7 | 25-8 | 25-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 142 | 133 | 56 | 24 | 72 | 83 | 162 | 672 |
-| h5n1 | 23 | 39 | 41 | 71 | 55 | 54 | 42 | 325 |
+| measles | 142 | 133 | 68 | 24 | 72 | 83 | 162 | 684 |
+| h5n1 | 23 | 39 | 49 | 67 | 55 | 54 | 42 | 329 |
 | dengue | 8 | 12 | 10 | 33 | 37 | 57 | 30 | 187 |
 | malaria | 29 | 22 | 17 | 25 | 12 | 7 | 20 | 132 |
-| mpox | 14 | 15 | 6 | 28 | 18 | 15 | 26 | 122 |
-| meningitis | 4 | 9 | 6 | 2 | 12 | 11 | 7 | 51 |
-| hpai | 10 | 3 | 11 | 3 | 9 | 5 | 4 | 45 |
-| chikungunya | 6 | 1 | 3 | 8 | 5 | 3 | 7 | 33 |
+| mpox | 14 | 15 | 8 | 26 | 18 | 15 | 26 | 122 |
+| meningitis | 4 | 9 | 6 | 1 | 12 | 11 | 7 | 50 |
+| hpai | 10 | 3 | 12 | 3 | 9 | 5 | 4 | 46 |
+| chikungunya | 6 | 1 | 4 | 8 | 5 | 3 | 7 | 34 |
 | rabies | 3 | 8 | 3 | 4 | 5 | 4 | 2 | 29 |
 | zika | 3 | 0 | 1 | 6 | 2 | 6 | 2 | 20 |
 | typhoid | 3 | 8 | 0 | 2 | 3 | 0 | 4 | 20 |
 | pertussis | 0 | 5 | 0 | 3 | 3 | 2 | 0 | 13 |
-| yersinia | 1 | 2 | 1 | 0 | 5 | 0 | 2 | 11 |
+| yersinia | 1 | 2 | 2 | 0 | 5 | 0 | 2 | 12 |
 | leptospirosis | 3 | 0 | 1 | 0 | 0 | 2 | 0 | 6 |
 | shigellosis | 3 | 0 | 0 | 0 | 0 | 0 | 1 | 4 |
 
@@ -1793,15 +1793,9 @@ Source: [News API](https://newsapi.org/)
 
 - [New mpox vaccination sites open across England for high-risk people](https://news.sky.com/story/new-mpox-vaccination-sites-open-across-england-for-high-risk-people-13302169) (Sky.com)
 
-- [Uganda'da M çiçeği virüsüne karşı aşı kampanyası seferberliği](https://www.haber7.com/dunya/haber/3501667-ugandada-m-cicegi-virusune-karsi-asi-kampanyasi-seferberligi) (Haber7.com)
-
-- [Uganda, M çiçeği virüsü salgınıyla mücadele kapsamında aşı kampanyası başlattı](https://www.aa.com.tr/tr/dunya/uganda-m-cicegi-virusu-salginiyla-mucadele-kapsaminda-asi-kampanyasi-baslatti/3469451) (Anadolu Agency)
-
 ## 25-6 (meningitis)
 
 - [Love Changes the Heart—More Than Metaphorically](https://www.theepochtimes.com/health/love-changes-the-heart-more-than-metaphorically-5804355) (Theepochtimes.com)
-
-- [Danmark har ikke tabt ved VM siden 2017: 'Der var jeg lige kommet tilbage fra meningitis'](https://www.dr.dk/sporten/haandbold/vm/danmark-har-ikke-tabt-ved-vm-siden-2017-der-var-jeg-lige-kommet-tilbage-fra) (Www.dr.dk)
 
 ## 25-6 (measles)
 
@@ -2049,14 +2043,6 @@ Source: [News API](https://newsapi.org/)
 
 - [大S猝逝占据大陆热搜 中共隐瞒疫情误事(组图)](https://www.secretchina.com/news/gb/2025/02/03/1077055.html) (Secretchina.com)
 
-- [Bird flu in NC | Dead bird at Lake Julian Park receives 'preliminarily positive' test result for bird flu](https://abc11.com/post/bird-flu-nc-dead-lake-julian-park-receives-preliminarily-positive-test-result/15857185/) (WTVD-TV)
-
-- [As bird flu ravages poultry industry, the damage spreads](https://www.cbsnews.com/news/as-bird-flu-ravages-poultry-industry-the-damage-spreads/) (CBS News)
-
-- [The impact from bird flu spreads](https://www.cbsnews.com/video/the-impact-from-bird-flu-spreads/) (CBS News)
-
-- [Nature: Растет риск новой пандемии, вызванной птичьим гриппом](https://rg.ru/2025/02/02/nature-rastet-risk-novoj-pandemii-vyzvannoj-ptichim-grippom.html) (Rg.ru)
-
 ## 25-6 (dengue)
 
 - [Anvisa: Como usar repelentes contra o mosquito da dengue de forma eficaz](https://catracalivre.com.br/saude-bem-estar/anvisa-como-usar-repelentes-contra-o-mosquito-da-dengue-de-forma-eficaz/) (Catracalivre.com.br)
@@ -2149,6 +2135,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-12 (yersinia)
 
+- [„Prähistorisches Genom von Y. pestis" - Infizierte Mumie aus altem Ägypten enthält DNA von Pest, die Millionen tötete](https://www.focus.de/wissen/infizierte-mumie-enthaelt-dna-von-pest-die-millionen-toetete_eed1d11a-c128-41f2-9d29-eeffb72261b3.html) (Focus)
+
 - [„Prähistorisches Genom von Y. pestis" - Infizierte Mumie aus altem Ägypten enthält DNA von Pest, die Millionen tötete](https://www.focus.de/wissen/infizierte-mumie-aus-altem-aegypten-enthaelt-dna-von-pest-die-millionen-toetete_eed1d11a-c128-41f2-9d29-eeffb72261b3.html) (Focus)
 
 ## 25-12 (rabies)
@@ -2160,6 +2148,10 @@ Source: [News API](https://newsapi.org/)
 - [Bacolod to construct animal shelter](https://rpnradio.com/bacolod-to-construct-animal-shelter/) (Rpnradio.com)
 
 ## 25-12 (mpox)
+
+- [Vacina contra mpox apresenta 84% de eficácia após uma dose, diz estudo](https://www.metropoles.com/saude/vacina-contra-mpox-84-eficacia) (Metropoles.com)
+
+- [Zambia confirms first mpox death as infections rises to 31](https://www.thestar.com.my/news/world/2025/03/21/zambia-confirms-first-mpox-death-as-infections-rises-to-31) (The Star Online)
 
 - [New data on Mpox vaccine effectiveness](https://www.sciencedaily.com/releases/2025/03/250319143643.htm) (Science Daily)
 
@@ -2188,6 +2180,30 @@ Source: [News API](https://newsapi.org/)
 - [Diphtheria: Paediatricians demand scale-up of immunisation](https://punchng.com/diphtheria-paediatricians-demand-scale-up-of-immunisation/) (The Punch)
 
 ## 25-12 (measles)
+
+- [Former surgeon general blasts RFK Jr.'s rhetoric, highlights herd immunity amid measles outbreak (Joseph Choi/The Hill)](https://www.memeorandum.com/250320/p90) (Memeorandum.com)
+
+- [Measles Outbreak: Cases In Texas Near 280 As Illness Spreads To 15 States](https://www.forbes.com/sites/antoniopequenoiv/2025/03/20/measles-outbreak-cases-in-texas-near-280-as-illness-spreads-to-15-states/) (Forbes)
+
+- [Anti-Vaxx Mom Whose Daughter Died From Measles Says Disease 'Wasn't That Bad'](https://www.medicaldaily.com/anti-vaxx-mom-whose-daughter-died-measles-says-disease-wasnt-that-bad-473272) (Medical Daily)
+
+- [See How Measles Outbreaks Flourish Where Vaccination Rates Fall](https://www.scientificamerican.com/article/see-how-measles-outbreaks-flourish-where-vaccination-rates-fall/) (Scientific American)
+
+- [Highest case count of measles in Ontario is south of London, with overall numbers climbing](https://www.cbc.ca/news/canada/london/measles-southwestern-public-health-london-ontario-1.7488548) (CBC News)
+
+- [Measles Is Coming Back. These Moms Want to Vaccinate Their Kids Early](http://www.rollingstone.com/culture/culture-features/measles-outbreak-vaccine-early-1235300120/) (Rolling Stone)
+
+- [How the anti-vaccine movement weaponized a 6-year-old's measles death (Brandy Zadrozny/NBC News)](https://www.memeorandum.com/250320/p37) (Memeorandum.com)
+
+- [RFK Jr: ‘Let Them Get Bird Flu!’](https://crooksandliars.com/2025/03/rfk-jr-let-them-get-bird-flu) (Crooksandliars.com)
+
+- [Robert F. Kennedy Jr. says measles infection may have benefits, but there’s no conclusive evidence](https://www.poynter.org/fact-checking/2025/measles-benefits-boost-immune-system-vaccination/) (Poynter)
+
+- [How the anti-vaccine movement weaponized a 6-year-old’s measles death](https://www.nbcnews.com/health/health-news/anti-vaccine-influencers-weaponized-measles-death-texas-rcna196900) (NBC News)
+
+- [U.S. cuts funding for global network testing for measles as cases grow worldwide](https://www.npr.org/sections/goats-and-soda/2025/03/19/g-s1-54683/measles-u-s-diagnosis-vaccination) (NPR)
+
+- [How Ottawa has (so far) avoided a measles outbreak](https://www.cbc.ca/news/canada/ottawa/ottawa-measles-cases-nonexistant-1.7485580) (CBC News)
 
 - [As cases climb in the US, do you need another measles shot?](https://www.bbc.com/news/articles/crmjpdldnpwo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D) (BBC News)
 
@@ -2343,6 +2359,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-12 (hpai)
 
+- [US egg shortage: Does Europe have any to spare?](https://www.dw.com/en/us-egg-shortage-does-europe-have-any-to-spare/a-71968918) (DW (English))
+
 - [China encerra proibição de dois anos de importações de carne de aves da Argentina](https://www.infomoney.com.br/economia/china-encerra-proibicao-de-dois-anos-de-importacoes-de-carne-de-aves-da-argentina/) (InfoMoney)
 
 - [Mississippi Reports First Outbreak Of Deadly H7N9 Bird Flu In The U.S. Since 2017](https://brobible.com/culture/article/mississippi-first-outbreak-h7n9-bird-flu/) (BroBible)
@@ -2366,6 +2384,20 @@ Source: [News API](https://newsapi.org/)
 - [Alarma en la Antártida: Confirman un brote masivo de gripe aviar en varias especies](https://es.gizmodo.com/alarma-en-la-antartida-confirman-un-brote-masivo-de-gripe-aviar-en-varias-especies-2000154626) (Gizmodo.com)
 
 ## 25-12 (h5n1)
+
+- [Human Flu Could Offer Immunity To Bird Flu](https://www.shtfplan.com/headline-news/human-flu-could-offer-immunity-to-bird-flu) (Shtfplan.com)
+
+- [Vogelgrippe in den USA: »Kontraproduktiv, irreführend und für uns Menschen lebensgefährlich«](https://www.spektrum.de/news/kennedy-plan-kontraproduktiv-irrefuehrend-und-lebensgefaehrlich/2258211) (Spektrum.de)
+
+- [Il piano diabolico di Kennedy per combattere l’influenza aviaria lascia perplessa l’America](https://www.dissapore.com/notizie/il-piano-diabolico-di-kennedy-per-combattere-linfluenza-aviaria-lascia-perplessa-lamerica/) (Dissapore.com)
+
+- [ABD’de kuş gribi salgını!](https://www.haber7.com/dunya/haber/3515174-abdde-kus-gribi-salgini) (Haber7.com)
+
+- [We’ve entered a forever war with bird flu](https://www.theverge.com/science/632605/forever-war-with-bird-flu) (The Verge)
+
+- [삵 사체서 조류인플루엔자…‘고병원성’ 최종 확인](https://www.khan.co.kr/article/202503201833001) (Khan.co.kr)
+
+- [Bird flu is hitting the U.S. hard. Now, migratory birds are flying north](https://www.cbc.ca/news/health/bird-flu-h5n1-migration-1.7486795) (CBC News)
 
 - [RFK, Jr. Wants to Let Bird Flu Spread on Poultry Farms. Why Experts Are Concerned](https://www.scientificamerican.com/article/rfk-jr-wants-to-let-bird-flu-spread-on-poultry-farms-why-experts-are/) (Scientific American)
 
@@ -2392,6 +2424,8 @@ Source: [News API](https://newsapi.org/)
 - [联合国发出警告：禽流感威胁史无前例 病毒已扩散至哺乳动物](https://www.cnbeta.com.tw/articles/tech/1486258.htm) (Cnbeta.com.tw)
 
 - [Antiviral baloxavir com potencial para tratar gripe aviária em humanos](https://observador.pt/2025/03/17/antiviral-baloxavir-com-potencial-para-tratar-gripe-aviaria-em-humanos/) (Observador.pt)
+
+- [Current antivirals likely less effective against severe infection caused by bird flu virus in cows' milk](https://www.sciencedaily.com/releases/2025/03/250317184329.htm) (Science Daily)
 
 - [Move Over, H5N1—Another Bird Flu Strain Has Arrived in the U.S.](https://gizmodo.com/move-over-h5n1-another-bird-flu-strain-has-arrived-in-the-u-s-2000576923) (Gizmodo.com)
 
@@ -2472,6 +2506,8 @@ Source: [News API](https://newsapi.org/)
 - [As Summer Approaches, Your Risk Of Dengue & Chikungunya Increases; Here's How To Stay Safe](https://www.ndtv.com/health/as-summer-approaches-your-risk-of-dengue-chikungunya-increases-heres-how-to-stay-safe-7941812) (NDTV News)
 
 ## 25-12 (chikungunya)
+
+- [La biotech Valneva réduit fortement ses pertes en 2024](https://www.lejournaldesentreprises.com/breve/la-biotech-valneva-reduit-fortement-ses-pertes-en-2024-2115935) (Le Journal des Entreprises)
 
 - [Em surto de chikungunya, cidade de SC registra 2º morte pela doença](https://www.metropoles.com/brasil/em-surto-de-chikungunya-cidade-de-sc-registra-2o-morte-pela-doenca) (Metropoles.com)
 
