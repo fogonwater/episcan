@@ -1,8 +1,62 @@
 {
-  "last_updated": "2025-03-21 19:05",
-  "count_articles_total": 1640,
-  "count_articles_new": 25,
+  "last_updated": "2025-03-22 07:06",
+  "count_articles_total": 1652,
+  "count_articles_new": 5,
   "articles": [
+    {
+      "id": 19531,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Francetvinfo.fr",
+      "author": "LP",
+      "title": "Chikungunya : deux d\u00e9c\u00e8s confirm\u00e9s \u00e0 La R\u00e9union, l\u2019\u00e9pid\u00e9mie s\u2019intensifie",
+      "description": "Deux personnes sont d\u00e9c\u00e9d\u00e9es du chikungunya \u00e0 La R\u00e9union, annoncent la pr\u00e9fecture et l\u2019Agence R\u00e9gionale de Sant\u00e9, ce vendredi 21 mars. Ces deux d\u00e9c\u00e8s de patients \u00e2g\u00e9s de 86 et 96 ans ont eu lieu la semaine derni\u00e8re. L\u2019\u00e9pid\u00e9mie s\u2019intensifie dans l\u2019\u00eele, avec pr\u2026",
+      "url": "https://la1ere.francetvinfo.fr/reunion/chikungunya-deux-deces-confirmes-a-la-reunion-l-epidemie-s-intensifie-1571776.html",
+      "urlToImage": "https://la1ere.francetvinfo.fr/image/Jm44ye-EYeFjM1hqv0iOFagnrx8/930x620/outremer/2025/02/12/0021557001736502862-67ac8cfeac684327195319.jpg",
+      "publishedAt": "2025-03-21 06:40:04",
+      "content": "Deux personnes de 86 et 96 ans sont d\u00e9c\u00e9d\u00e9es du chikungunya \u00e0 La R\u00e9union, la semaine derni\u00e8re, annoncent la pr\u00e9fecture et lAgence R\u00e9gionale de Sant\u00e9, ce vendredi 21 mars. Lune delle pr\u00e9sentait des co\u2026 [+3468 chars]",
+      "retrievedAt": "2025-03-22 07:06:06.689089",
+      "internal_id": "624687737aff0c41710a87b34bf896f534a2928e1585502d8b91ca53cd14f6e0",
+      "publishedAtLabel": "Mar 21"
+    },
+    {
+      "id": 19530,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Melissa Duarte",
+      "title": "Dengue: Sa\u00fade celebra queda, mas Brasil tem 2\u00ba pior in\u00edcio de ano",
+      "description": "An\u00e1lise da coluna leva em considera\u00e7\u00e3o os dois primeiros meses do ano, considerados os mais cr\u00edticos para a dengue",
+      "url": "https://www.metropoles.com/colunas/tacio-lorran/dengue-brasil-2o-pior-ano",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/10/30153517/agentes-saude-dengue.jpg",
+      "publishedAt": "2025-03-21 05:00:11",
+      "content": "Apesar da queda do total de casos de dengue divulgada pelo Minist\u00e9rio da Sa\u00fade, a doen\u00e7a evolui para ter o segundo pior ano no Brasil. Levantamento da coluna com base em dados da pasta mostra que ho\u2026 [+2362 chars]",
+      "retrievedAt": "2025-03-22 07:06:05.740877",
+      "internal_id": "eabd0206291a5698be914c67a28a3a2884317beaf89ac236ac6932b7d37c6905",
+      "publishedAtLabel": "Mar 21"
+    },
+    {
+      "id": 19529,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Legalinsurrection.com",
+      "author": "Leslie Eastman",
+      "title": "CDC Issues Warning about Dengue Fever in Time for Spring Break",
+      "description": "CDC said it\u2019s possible that local transmission could rise in the continental US in areas that have mosquitoes that can carry the virus. The post CDC Issues Warning about Dengue Fever in Time for Spring Break first appeared on Le\u00b7gal In\u00b7sur\u00b7rec\u00b7tion.",
+      "url": "https://legalinsurrection.com/2025/03/cdc-issues-warning-about-dengue-fever-in-time-for-spring-break/",
+      "urlToImage": "https://legalinsurrection.com/wp-content/uploads/2016/10/LI-34-Mosquito-e1476243914966.png",
+      "publishedAt": "2025-03-20 23:00:08",
+      "content": "Through 2024, I kept a close eye on the news about cases of dengue fever spreading across the county. Dengue fever is a mosquito-borne viral disease that occurs in tropical and subtropical areas of \u2026 [+4201 chars]",
+      "retrievedAt": "2025-03-22 07:06:05.724249",
+      "internal_id": "421246183b4235c7b095a3a21c95bcc83f86d2da3584848fce14a0e7ab75c272",
+      "publishedAtLabel": "Mar 20"
+    },
     {
       "id": 19514,
       "query": [
@@ -274,6 +328,24 @@
       "publishedAtLabel": "Mar 20"
     },
     {
+      "id": 19527,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Ricki Lewis, PhD",
+      "title": "Measles Erases Immune Memory, Stifling Protection from Other Infections",
+      "description": "Measles virus has long occupied a top spot on a list of most dangerous pathogens, for in addition to spreading easily, it\u2026 The post Measles Erases Immune Memory, Stifling Protection from Other Infections appeared first on DNA Science.",
+      "url": "https://dnascience.plos.org/2025/03/20/measles-erases-immune-memory-stifling-protection-from-other-infections/",
+      "urlToImage": "https://dnascience.plos.org/wp-content/uploads/sites/12/2015/02/measles.jpg",
+      "publishedAt": "2025-03-20 13:08:22",
+      "content": "Measles virus has long occupied a top spot on a list of most dangerous pathogens, for in addition to spreading easily, it can temporarily cancel immunity against other infectious diseases. A powerful\u2026 [+4746 chars]",
+      "retrievedAt": "2025-03-22 07:06:04.817304",
+      "internal_id": "3af4ba368e27d815bff7ed7e0d5179c07dcc426d108da95780c738de8f558983",
+      "publishedAtLabel": "Mar 20"
+    },
+    {
       "id": 19526,
       "query": [
         "yersinia"
@@ -325,6 +397,24 @@
       "content": "As U.S. measles infections spread, Health and Human Services Secretary Robert F. Kennedy Jr. said in a Fox Nation interview there could be some health benefits to getting the measles. During the Mar\u2026 [+8154 chars]",
       "retrievedAt": "2025-03-21 19:05:51.424741",
       "internal_id": "b41074671a5c9ab7eb9eabb8ec90b7044000ba46c172a28c07397377f15e346f",
+      "publishedAtLabel": "Mar 20"
+    },
+    {
+      "id": 19528,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Mother Jones",
+      "author": "Kiera Butler",
+      "title": "A Child Died of Measles. Then Her Parents Appeared in an Anti-Vax Video.",
+      "description": "The measles outbreak in Texas, New Mexico, and Oklahoma continues to grow, with 290 confirmed cases and at least one death. Last week, I wrote about Veritas Wellness, a holistic clinic in Lubbock, Texas, that is reportedly distributing untested remedies\u2014inclu\u2026",
+      "url": "https://www.motherjones.com/politics/2025/03/rfk-jr-vaccine-measles-childrens-health-defense/",
+      "urlToImage": "https://www.motherjones.com/wp-content/uploads/2025/03/20250318_measles-vax-parents_2000.jpg?w=1200&h=630&crop=1",
+      "publishedAt": "2025-03-20 10:00:00",
+      "content": "Mother Jones illustration; Eren Abdullahogullar/Anadolu Agency/Getty Fight disinformation: Sign up for the free Mother Jones Daily newsletter and follow the news that matters. The measles outbreak \u2026 [+7956 chars]",
+      "retrievedAt": "2025-03-22 07:06:04.852859",
+      "internal_id": "b08fc0a78789f4aae4ff473223c838db97219b60ce6794921e117be1177e2c6c",
       "publishedAtLabel": "Mar 20"
     },
     {
@@ -29569,6 +29659,132 @@
       "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
       "retrievedAt": "2025-02-04 07:07:01.212340",
       "internal_id": "84f684308ba4ffa4fa15abb09ec46a7cc9d97d0bdd6c4486dce11d79ab56adcc",
+      "publishedAtLabel": "Feb 2"
+    },
+    {
+      "id": 17883,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "WTVD-TV",
+      "author": "Marisa Sardonia",
+      "title": "Bird flu in NC | Dead bird at Lake Julian Park receives 'preliminarily positive' test result for bird flu",
+      "description": "Despite these findings, the park will remain open, but visitors are advised to avoid touching or feeding waterfowl.",
+      "url": "https://abc11.com/post/bird-flu-nc-dead-lake-julian-park-receives-preliminarily-positive-test-result/15857185/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/15857173_WLOSbirdflu0201.JPG?w=1600",
+      "publishedAt": "2025-02-02 17:46:41",
+      "content": "ASHEVILLE, N.C. -- Buncombe County officials report that a dead waterfowl bird at Lake Julian Park has received a \"preliminarily positive\" test result for Avian Influenza H5N1, commonly known as bird\u2026 [+957 chars]",
+      "retrievedAt": "2025-02-03 19:06:09.443906",
+      "internal_id": "94402575c35587377ac4ad2a7a1727d800e99d1911b97a966af8fb975be3b790",
+      "publishedAtLabel": "Feb 2"
+    },
+    {
+      "id": 17880,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Martha Teichner",
+      "title": "As bird flu ravages poultry industry, the damage spreads",
+      "description": "After the current strain of bird flu, H5N1, reached the U.S. in 2022, more than 148 million birds have been euthanized. What is the outbreak's potential impacts on humans, the poultry industry, egg prices, and U.S. exports?",
+      "url": "https://www.cbsnews.com/news/as-bird-flu-ravages-poultry-industry-the-damage-spreads/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/02/02/93af99c1-1c8d-4e2c-800f-17dd5b5e4b02/thumbnail/1200x630/03efc2d452e36c47154559d65c6838e9/bird-flu-1280.jpg?v=a599723035d2f104d7a2d01edbe96ef8",
+      "publishedAt": "2025-02-02 15:19:13",
+      "content": "There are seven generations of Corwins in the Aquebogue, Long Island, town cemetery. Their graves overlook the farm that's been in the family since the 1640s. Some family members' tombstones are ador\u2026 [+3931 chars]",
+      "retrievedAt": "2025-02-03 19:06:09.333622",
+      "internal_id": "25bd8193ca7d177522316a0e614c00e6a5a2e623f266149c0c7d0824e9f4a878",
+      "publishedAtLabel": "Feb 2"
+    },
+    {
+      "id": 17882,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "CBS News",
+      "title": "The impact from bird flu spreads",
+      "description": "After H5N1, the current strain of bird flu, reached the United States in 2022, more than 148 million chickens, turkeys and other farm birds have been euthanized. Since last year, when the virus jumped from poultry and wild birds to mammals, the number of huma\u2026",
+      "url": "https://www.cbsnews.com/video/the-impact-from-bird-flu-spreads/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/02/02/1f3e29e1-72c9-426f-844a-61ba60eed817/thumbnail/1200x630/26f6c05a310603b67fd3bf816bcfc7a8/bird-flu-1920.jpg?v=a599723035d2f104d7a2d01edbe96ef8",
+      "publishedAt": "2025-02-02 15:18:00",
+      "content": "Watch CBS News Copyright \u00a92025 CBS Interactive Inc. All rights reserved. Get browser notifications for breaking news, live events, and exclusive reporting. Not NowTurn On",
+      "retrievedAt": "2025-02-03 19:06:09.368737",
+      "internal_id": "7894cedbb7b7f5a5689adafe70d2d4355399dad9cedb443b03f43a6921ef0908",
+      "publishedAtLabel": "Feb 2"
+    },
+    {
+      "id": 17881,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Rg.ru",
+      "author": null,
+      "title": "Nature: \u0420\u0430\u0441\u0442\u0435\u0442 \u0440\u0438\u0441\u043a \u043d\u043e\u0432\u043e\u0439 \u043f\u0430\u043d\u0434\u0435\u043c\u0438\u0438, \u0432\u044b\u0437\u0432\u0430\u043d\u043d\u043e\u0439 \u043f\u0442\u0438\u0447\u044c\u0438\u043c \u0433\u0440\u0438\u043f\u043f\u043e\u043c",
+      "description": "\u041f\u0442\u0438\u0447\u0438\u0439 \u0432\u0438\u0440\u0443\u0441 \u0433\u0440\u0438\u043f\u043f\u0430 H5N1 \u0430\u0434\u0430\u043f\u0442\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u043a \u043d\u043e\u0432\u044b\u043c \u0445\u043e\u0437\u044f\u0435\u0432\u0430\u043c - \u043c\u043b\u0435\u043a\u043e\u043f\u0438\u0442\u0430\u044e\u0449\u0438\u043c, \u0438 \u044d\u0442\u043e \u043f\u043e\u0432\u044b\u0448\u0430\u0435\u0442 \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u044c \u0435\u0433\u043e \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0435\u043d\u0438\u044f \u0441\u0440\u0435\u0434\u0438 \u043b\u044e\u0434\u0435\u0439.",
+      "url": "https://rg.ru/2025/02/02/nature-rastet-risk-novoj-pandemii-vyzvannoj-ptichim-grippom.html",
+      "urlToImage": "https://cdnstatic.rg.ru/uploads/images/2025/02/02/istock-2173054299-1_573.jpg",
+      "publishedAt": "2025-02-02 15:16:01",
+      "content": ", . 68 , . , \"\" , Nature. , , H5N1, , , . - , , . \" , , ( - . \") \", - Nature , , , . , , . H5N1: , B3.13, ; , D1.1, , , . B3.13 , 900 16 , , , . , , , , , . 40 . , . , . Nature, 24 , , D1.\u2026 [+62 chars]",
+      "retrievedAt": "2025-02-03 19:06:09.361221",
+      "internal_id": "09a328c5fd62404d20e1f9ca5e4949d4dbfdd18adf23087b1d12af5944ec7f2f",
+      "publishedAtLabel": "Feb 2"
+    },
+    {
+      "id": 17886,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Haber7.com",
+      "author": "Ramazan Y\u0131ld\u0131z",
+      "title": "Uganda'da M \u00e7i\u00e7e\u011fi vir\u00fcs\u00fcne kar\u015f\u0131 a\u015f\u0131 kampanyas\u0131 seferberli\u011fi",
+      "description": "Uganda'da Afrika Hastal\u0131k Kontrol ve \u00d6nleme Merkezleri (Africa CDC) taraf\u0131ndan ba\u011f\u0131\u015flanan 2 bin doz a\u015f\u0131, bin ki\u015fiye uygulanmaya ba\u015fland\u0131.",
+      "url": "https://www.haber7.com/dunya/haber/3501667-ugandada-m-cicegi-virusune-karsi-asi-kampanyasi-seferberligi",
+      "urlToImage": "https://i20.haber7.net/resize/1280x720//haber/haber7/photos/2025/05/ugandada_m_cicegi_virusune_karsi_asi_kampanyasi_seferberligi_1738501558_3925.jpg",
+      "publishedAt": "2025-02-02 13:06:00",
+      "content": "Uganda'nn bakenti Kampala'da M \u00e7i\u00e7ei vir\u00fcs\u00fc (Mpox) salgnyla m\u00fccadele kapsamnda y\u00fcksek risk gruplar ve salk \u00e7alanlarna y\u00f6nelik alama kampanyasnn ilk aamas balatld. Yerel basna yansyan haberlere g\u00f6re,\u2026 [+1110 chars]",
+      "retrievedAt": "2025-02-03 19:06:11.973579",
+      "internal_id": "44bab71e5765b926fdbbd9268eb1cf6c7843aead436f2d4c077a071f744390bc",
+      "publishedAtLabel": "Feb 2"
+    },
+    {
+      "id": 17885,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Anadolu Agency",
+      "author": null,
+      "title": "Uganda, M \u00e7i\u00e7e\u011fi vir\u00fcs\u00fc salg\u0131n\u0131yla m\u00fccadele kapsam\u0131nda a\u015f\u0131 kampanyas\u0131 ba\u015flatt\u0131",
+      "description": "Uganda'n\u0131n ba\u015fkenti Kampala'da M \u00e7i\u00e7e\u011fi vir\u00fcs\u00fc (Mpox) salg\u0131n\u0131yla m\u00fccadele kapsam\u0131nda y\u00fcksek risk gruplar\u0131 ve sa\u011fl\u0131k \u00e7al\u0131\u015fanlar\u0131na y\u00f6nelik a\u015f\u0131lama kampanyas\u0131n\u0131n ilk a\u015famas\u0131 ba\u015flat\u0131ld\u0131. - Anadolu Ajans\u0131",
+      "url": "https://www.aa.com.tr/tr/dunya/uganda-m-cicegi-virusu-salginiyla-mucadele-kapsaminda-asi-kampanyasi-baslatti/3469451",
+      "urlToImage": "https://cdnuploads.aa.com.tr/uploads/Contents/2025/02/02/thumbs_b_c_1c8532de8fa50550880b9b8ccb27dabb.jpg",
+      "publishedAt": "2025-02-02 12:23:48",
+      "content": "Yerel basna yansyan haberlere g\u00f6re, Afrika Hastalk Kontrol ve \u00d6nleme Merkezleri (Africa CDC) tarafndan balanan 2 bin doz a, bin kiiye uygulanmaya baland. Uganda Salk Bakanlndan yaplan a\u00e7klamada, Ara\u2026 [+1108 chars]",
+      "retrievedAt": "2025-02-03 19:06:11.953773",
+      "internal_id": "29b55ce4fdc54c5a52962349ec0dbb7e2fda51a19aee93b301f9d3aaae835ca4",
+      "publishedAtLabel": "Feb 2"
+    },
+    {
+      "id": 17884,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Www.dr.dk",
+      "author": null,
+      "title": "Danmark har ikke tabt ved VM siden 2017: 'Der var jeg lige kommet tilbage fra meningitis'",
+      "description": "Ungarn er det seneste hold, der har sl\u00e5et Danmark ved VM i herreh\u00e5ndbold.",
+      "url": "https://www.dr.dk/sporten/haandbold/vm/danmark-har-ikke-tabt-ved-vm-siden-2017-der-var-jeg-lige-kommet-tilbage-fra",
+      "urlToImage": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fwww.dr.dk%2Fimages%2Fother%2F2025%2F02%2F01%2Fscanpix-20250131-223129-l.jpg&w=1200",
+      "publishedAt": "2025-02-02 07:31:00",
+      "content": "Den 27-\u00e5rige m\u00e5lmand, som har haft over 100 redninger indtil videre ved dette VM, var 19 \u00e5r og havde netop v\u00e6ret igennem et sygdomsforl\u00f8b. - Der var jeg lige kommet tilbage fra meningitis. Det var e\u2026 [+450 chars]",
+      "retrievedAt": "2025-02-03 19:06:10.239102",
+      "internal_id": "a483b8a9c9449681a365c38d6144ba8fba11c39eb3049318e23228e7283d079b",
       "publishedAtLabel": "Feb 2"
     }
   ]

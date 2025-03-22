@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 25
-- **Last harvest:** 2025-03-21 19:05
-- **Most recent article:** 2025-03-20 19:02:00
+- **New articles in last harvest:** 5
+- **Last harvest:** 2025-03-22 07:06
+- **Most recent article:** 2025-03-21 06:40:04
 
 ---
 
@@ -12,14 +12,14 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-10 | 25-11 | 25-12 | 25-6 | 25-7 | 25-8 | 25-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 142 | 133 | 68 | 24 | 72 | 83 | 162 | 684 |
-| h5n1 | 23 | 39 | 49 | 67 | 55 | 54 | 42 | 329 |
-| dengue | 8 | 12 | 10 | 33 | 37 | 57 | 30 | 187 |
+| measles | 142 | 133 | 70 | 24 | 72 | 83 | 162 | 686 |
+| h5n1 | 23 | 39 | 49 | 71 | 55 | 54 | 42 | 333 |
+| dengue | 8 | 12 | 12 | 33 | 37 | 57 | 30 | 189 |
 | malaria | 29 | 22 | 17 | 25 | 12 | 7 | 20 | 132 |
-| mpox | 14 | 15 | 8 | 26 | 18 | 15 | 26 | 122 |
-| meningitis | 4 | 9 | 6 | 1 | 12 | 11 | 7 | 50 |
+| mpox | 14 | 15 | 8 | 28 | 18 | 15 | 26 | 124 |
+| meningitis | 4 | 9 | 6 | 2 | 12 | 11 | 7 | 51 |
 | hpai | 10 | 3 | 12 | 3 | 9 | 5 | 4 | 46 |
-| chikungunya | 6 | 1 | 4 | 8 | 5 | 3 | 7 | 34 |
+| chikungunya | 6 | 1 | 5 | 8 | 5 | 3 | 7 | 35 |
 | rabies | 3 | 8 | 3 | 4 | 5 | 4 | 2 | 29 |
 | zika | 3 | 0 | 1 | 6 | 2 | 6 | 2 | 20 |
 | typhoid | 3 | 8 | 0 | 2 | 3 | 0 | 4 | 20 |
@@ -1793,9 +1793,15 @@ Source: [News API](https://newsapi.org/)
 
 - [New mpox vaccination sites open across England for high-risk people](https://news.sky.com/story/new-mpox-vaccination-sites-open-across-england-for-high-risk-people-13302169) (Sky.com)
 
+- [Uganda'da M çiçeği virüsüne karşı aşı kampanyası seferberliği](https://www.haber7.com/dunya/haber/3501667-ugandada-m-cicegi-virusune-karsi-asi-kampanyasi-seferberligi) (Haber7.com)
+
+- [Uganda, M çiçeği virüsü salgınıyla mücadele kapsamında aşı kampanyası başlattı](https://www.aa.com.tr/tr/dunya/uganda-m-cicegi-virusu-salginiyla-mucadele-kapsaminda-asi-kampanyasi-baslatti/3469451) (Anadolu Agency)
+
 ## 25-6 (meningitis)
 
 - [Love Changes the Heart—More Than Metaphorically](https://www.theepochtimes.com/health/love-changes-the-heart-more-than-metaphorically-5804355) (Theepochtimes.com)
+
+- [Danmark har ikke tabt ved VM siden 2017: 'Der var jeg lige kommet tilbage fra meningitis'](https://www.dr.dk/sporten/haandbold/vm/danmark-har-ikke-tabt-ved-vm-siden-2017-der-var-jeg-lige-kommet-tilbage-fra) (Www.dr.dk)
 
 ## 25-6 (measles)
 
@@ -2043,6 +2049,14 @@ Source: [News API](https://newsapi.org/)
 
 - [大S猝逝占据大陆热搜 中共隐瞒疫情误事(组图)](https://www.secretchina.com/news/gb/2025/02/03/1077055.html) (Secretchina.com)
 
+- [Bird flu in NC | Dead bird at Lake Julian Park receives 'preliminarily positive' test result for bird flu](https://abc11.com/post/bird-flu-nc-dead-lake-julian-park-receives-preliminarily-positive-test-result/15857185/) (WTVD-TV)
+
+- [As bird flu ravages poultry industry, the damage spreads](https://www.cbsnews.com/news/as-bird-flu-ravages-poultry-industry-the-damage-spreads/) (CBS News)
+
+- [The impact from bird flu spreads](https://www.cbsnews.com/video/the-impact-from-bird-flu-spreads/) (CBS News)
+
+- [Nature: Растет риск новой пандемии, вызванной птичьим гриппом](https://rg.ru/2025/02/02/nature-rastet-risk-novoj-pandemii-vyzvannoj-ptichim-grippom.html) (Rg.ru)
+
 ## 25-6 (dengue)
 
 - [Anvisa: Como usar repelentes contra o mosquito da dengue de forma eficaz](https://catracalivre.com.br/saude-bem-estar/anvisa-como-usar-repelentes-contra-o-mosquito-da-dengue-de-forma-eficaz/) (Catracalivre.com.br)
@@ -2195,9 +2209,13 @@ Source: [News API](https://newsapi.org/)
 
 - [How the anti-vaccine movement weaponized a 6-year-old's measles death (Brandy Zadrozny/NBC News)](https://www.memeorandum.com/250320/p37) (Memeorandum.com)
 
+- [Measles Erases Immune Memory, Stifling Protection from Other Infections](https://dnascience.plos.org/2025/03/20/measles-erases-immune-memory-stifling-protection-from-other-infections/) (Plos.org)
+
 - [RFK Jr: ‘Let Them Get Bird Flu!’](https://crooksandliars.com/2025/03/rfk-jr-let-them-get-bird-flu) (Crooksandliars.com)
 
 - [Robert F. Kennedy Jr. says measles infection may have benefits, but there’s no conclusive evidence](https://www.poynter.org/fact-checking/2025/measles-benefits-boost-immune-system-vaccination/) (Poynter)
+
+- [A Child Died of Measles. Then Her Parents Appeared in an Anti-Vax Video.](https://www.motherjones.com/politics/2025/03/rfk-jr-vaccine-measles-childrens-health-defense/) (Mother Jones)
 
 - [How the anti-vaccine movement weaponized a 6-year-old’s measles death](https://www.nbcnews.com/health/health-news/anti-vaccine-influencers-weaponized-measles-death-texas-rcna196900) (NBC News)
 
@@ -2485,6 +2503,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-12 (dengue)
 
+- [Dengue: Saúde celebra queda, mas Brasil tem 2º pior início de ano](https://www.metropoles.com/colunas/tacio-lorran/dengue-brasil-2o-pior-ano) (Metropoles.com)
+
+- [CDC Issues Warning about Dengue Fever in Time for Spring Break](https://legalinsurrection.com/2025/03/cdc-issues-warning-about-dengue-fever-in-time-for-spring-break/) (Legalinsurrection.com)
+
 - [One month on: Tonga’s dengue outbreak reaches 308 cases](https://pmn.co.nz/read/health/one-month-on-tonga-s-dengue-outbreak-reaches-308-cases) (Pmn.co.nz)
 
 - [Epidemiological dynamics of dengue in Peru: Temporal and spatial drivers between 2000 and 2022](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0319708) (Plos.org)
@@ -2506,6 +2528,8 @@ Source: [News API](https://newsapi.org/)
 - [As Summer Approaches, Your Risk Of Dengue & Chikungunya Increases; Here's How To Stay Safe](https://www.ndtv.com/health/as-summer-approaches-your-risk-of-dengue-chikungunya-increases-heres-how-to-stay-safe-7941812) (NDTV News)
 
 ## 25-12 (chikungunya)
+
+- [Chikungunya : deux décès confirmés à La Réunion, l’épidémie s’intensifie](https://la1ere.francetvinfo.fr/reunion/chikungunya-deux-deces-confirmes-a-la-reunion-l-epidemie-s-intensifie-1571776.html) (Francetvinfo.fr)
 
 - [La biotech Valneva réduit fortement ses pertes en 2024](https://www.lejournaldesentreprises.com/breve/la-biotech-valneva-reduit-fortement-ses-pertes-en-2024-2115935) (Le Journal des Entreprises)
 
