@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 5
-- **Last harvest:** 2025-03-22 07:06
-- **Most recent article:** 2025-03-21 06:40:04
+- **New articles in last harvest:** 33
+- **Last harvest:** 2025-03-22 19:05
+- **Most recent article:** 2025-03-21 19:04:13
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-10 | 25-11 | 25-12 | 25-6 | 25-7 | 25-8 | 25-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 142 | 133 | 70 | 24 | 72 | 83 | 162 | 686 |
-| h5n1 | 23 | 39 | 49 | 71 | 55 | 54 | 42 | 333 |
-| dengue | 8 | 12 | 12 | 33 | 37 | 57 | 30 | 189 |
+| measles | 142 | 133 | 85 | 24 | 72 | 83 | 162 | 701 |
+| h5n1 | 23 | 39 | 53 | 67 | 55 | 54 | 42 | 333 |
+| dengue | 8 | 12 | 15 | 33 | 37 | 57 | 30 | 192 |
 | malaria | 29 | 22 | 17 | 25 | 12 | 7 | 20 | 132 |
-| mpox | 14 | 15 | 8 | 28 | 18 | 15 | 26 | 124 |
-| meningitis | 4 | 9 | 6 | 2 | 12 | 11 | 7 | 51 |
+| mpox | 14 | 15 | 8 | 26 | 18 | 15 | 26 | 122 |
+| meningitis | 4 | 9 | 6 | 1 | 12 | 11 | 7 | 50 |
+| chikungunya | 6 | 1 | 17 | 8 | 5 | 3 | 7 | 47 |
 | hpai | 10 | 3 | 12 | 3 | 9 | 5 | 4 | 46 |
-| chikungunya | 6 | 1 | 5 | 8 | 5 | 3 | 7 | 35 |
 | rabies | 3 | 8 | 3 | 4 | 5 | 4 | 2 | 29 |
-| zika | 3 | 0 | 1 | 6 | 2 | 6 | 2 | 20 |
+| zika | 3 | 0 | 2 | 6 | 2 | 6 | 2 | 21 |
 | typhoid | 3 | 8 | 0 | 2 | 3 | 0 | 4 | 20 |
 | pertussis | 0 | 5 | 0 | 3 | 3 | 2 | 0 | 13 |
 | yersinia | 1 | 2 | 2 | 0 | 5 | 0 | 2 | 12 |
@@ -1793,15 +1793,9 @@ Source: [News API](https://newsapi.org/)
 
 - [New mpox vaccination sites open across England for high-risk people](https://news.sky.com/story/new-mpox-vaccination-sites-open-across-england-for-high-risk-people-13302169) (Sky.com)
 
-- [Uganda'da M çiçeği virüsüne karşı aşı kampanyası seferberliği](https://www.haber7.com/dunya/haber/3501667-ugandada-m-cicegi-virusune-karsi-asi-kampanyasi-seferberligi) (Haber7.com)
-
-- [Uganda, M çiçeği virüsü salgınıyla mücadele kapsamında aşı kampanyası başlattı](https://www.aa.com.tr/tr/dunya/uganda-m-cicegi-virusu-salginiyla-mucadele-kapsaminda-asi-kampanyasi-baslatti/3469451) (Anadolu Agency)
-
 ## 25-6 (meningitis)
 
 - [Love Changes the Heart—More Than Metaphorically](https://www.theepochtimes.com/health/love-changes-the-heart-more-than-metaphorically-5804355) (Theepochtimes.com)
-
-- [Danmark har ikke tabt ved VM siden 2017: 'Der var jeg lige kommet tilbage fra meningitis'](https://www.dr.dk/sporten/haandbold/vm/danmark-har-ikke-tabt-ved-vm-siden-2017-der-var-jeg-lige-kommet-tilbage-fra) (Www.dr.dk)
 
 ## 25-6 (measles)
 
@@ -2049,14 +2043,6 @@ Source: [News API](https://newsapi.org/)
 
 - [大S猝逝占据大陆热搜 中共隐瞒疫情误事(组图)](https://www.secretchina.com/news/gb/2025/02/03/1077055.html) (Secretchina.com)
 
-- [Bird flu in NC | Dead bird at Lake Julian Park receives 'preliminarily positive' test result for bird flu](https://abc11.com/post/bird-flu-nc-dead-lake-julian-park-receives-preliminarily-positive-test-result/15857185/) (WTVD-TV)
-
-- [As bird flu ravages poultry industry, the damage spreads](https://www.cbsnews.com/news/as-bird-flu-ravages-poultry-industry-the-damage-spreads/) (CBS News)
-
-- [The impact from bird flu spreads](https://www.cbsnews.com/video/the-impact-from-bird-flu-spreads/) (CBS News)
-
-- [Nature: Растет риск новой пандемии, вызванной птичьим гриппом](https://rg.ru/2025/02/02/nature-rastet-risk-novoj-pandemii-vyzvannoj-ptichim-grippom.html) (Rg.ru)
-
 ## 25-6 (dengue)
 
 - [Anvisa: Como usar repelentes contra o mosquito da dengue de forma eficaz](https://catracalivre.com.br/saude-bem-estar/anvisa-como-usar-repelentes-contra-o-mosquito-da-dengue-de-forma-eficaz/) (Catracalivre.com.br)
@@ -2145,6 +2131,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-12 (zika)
 
+- [Symptômes, mortalité, différences avec Zika et dengue… Ce qu’il faut savoir sur l’épidémie de chikungunya qui sévit à la Réunion](https://www.liberation.fr/societe/sante/symptomes-mortalite-differences-avec-zika-et-dengue-ce-quil-faut-savoir-sur-lepidemie-de-chikungunya-qui-sevit-a-la-reunion-20250321_WH3UIEL5VJE3DH6L3FXKDPF55E/) (Libération)
+
 - [Tunnel-building virus: How Zika transmits from mother to fetus](https://www.sciencedaily.com/releases/2025/03/250317163636.htm) (Science Daily)
 
 ## 25-12 (yersinia)
@@ -2194,6 +2182,36 @@ Source: [News API](https://newsapi.org/)
 - [Diphtheria: Paediatricians demand scale-up of immunisation](https://punchng.com/diphtheria-paediatricians-demand-scale-up-of-immunisation/) (The Punch)
 
 ## 25-12 (measles)
+
+- [Parents of Dead Child Stand by Decision Not to Vaccinate](https://politicalwire.com/2025/03/21/parents-of-dead-child-stand-by-decision-not-to-vaccinate/) (Politicalwire.com)
+
+- [Texas measles outbreak expected to last for months, though vaccinations are up from last year](https://www.bostonherald.com/2025/03/21/measles-outbreak-vaccinations-up/) (Boston Herald)
+
+- [Mom of child dead from measles: "Don't do the shots," my other 4 kids were fine (Beth Mole/Ars Technica)](https://www.memeorandum.com/250321/p72) (Memeorandum.com)
+
+- ['Measles Are Good For You' Say Parents Whose Kid Died Because Of Measles](https://www.wonkette.com/p/measles-are-good-for-you-say-parents) (Wonkette.com)
+
+- [Measles Outbreak: Cases In Texas Over 300 As Illness Spreads To At Least 17 States](https://www.forbes.com/sites/antoniopequenoiv/2025/03/21/measles-outbreak-cases-in-texas-near-280-as-illness-spreads-to-15-states/) (Forbes)
+
+- [Anti-Vaxx Mom Whose Daughter Died From Measles Says Disease 'Wasn't That Bad' (Maryam Khanum/Latin Times)](https://www.memeorandum.com/250321/p56) (Memeorandum.com)
+
+- [Measles cases linked to Texas outbreak hit 309, surpassing nationwide total in 2024](https://abcnews.go.com/Health/measles-cases-linked-outbreak-texas-reach-309-surpassing/story?id=120019612) (ABC News)
+
+- [Vitamin A Is Good For You...Until It's Not](https://www.menshealth.com/health/a64211301/what-is-vitamin-a/) (menshealth.com)
+
+- [Are you protected against measles? Do you need a booster shot? Everything you need to know about immunity](https://www.livescience.com/health/viruses-infections-disease/are-you-protected-against-measles-do-you-need-a-booster-shot-everything-you-need-to-know-about-immunity) (Live Science)
+
+- [The shaky science behind treating measles with vitamin A](https://www.popsci.com/health/measles-vitamin-a/) (Popular Science)
+
+- [Texas Parents Warn Against Shots Despite Death of Their Unvaccinated Child](https://www.newsweek.com/texas-parents-warn-against-shots-despite-death-their-unvaccinated-child-2048480) (Newsweek)
+
+- [Public Health Experts Say Texas Is Poised to Make Measles a Nationwide Epidemic](https://www.texastribune.org/2025/03/21/texas-measles-vaccine-new-mexico-oklahoma-us/) (The Texas Tribune)
+
+- [Texas parents of child who died of measles urge others not to vaccinate](https://www.rawstory.com/texas-parents-of-child-who-died-of-measles-urge-others-not-to-vaccinate/) (Raw Story)
+
+- [NEW: Two measles cases reported traveling through DCA last Friday](https://www.arlnow.com/2025/03/21/new-two-measles-cases-reported-traveling-through-arlington-last-friday/) (ARLnow)
+
+- [Do you need another measles shot as an adult in Alberta? You might](https://www.cbc.ca/news/canada/calgary/do-you-need-another-measles-shot-as-an-adult-in-alberta-you-might-1.7488065) (CBC News)
 
 - [Former surgeon general blasts RFK Jr.'s rhetoric, highlights herd immunity amid measles outbreak (Joseph Choi/The Hill)](https://www.memeorandum.com/250320/p90) (Memeorandum.com)
 
@@ -2403,6 +2421,14 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-12 (h5n1)
 
+- [The “Forever War” Against Bird Flu](https://www.shtfplan.com/headline-news/the-forever-war-against-bird-flu) (Shtfplan.com)
+
+- [Vuoden neljäs lintuinfluessatapaus varmistui](https://yle.fi/a/74-20151080) (YLE News)
+
+- [Попова предупредила о высоких рисках межвидового перехода птичьего гриппа](https://tass.ru/obschestvo/23465363) (Tass.ru)
+
+- [ABD'de 2017'den itibaren ilk H7N9 kuş gribi salgını görüldü](https://www.haberturk.com/abd-de-2017-den-itibaren-ilk-h7n9-kus-gribi-salgini-goruldu-3775711) (Haberturk.com)
+
 - [Human Flu Could Offer Immunity To Bird Flu](https://www.shtfplan.com/headline-news/human-flu-could-offer-immunity-to-bird-flu) (Shtfplan.com)
 
 - [Vogelgrippe in den USA: »Kontraproduktiv, irreführend und für uns Menschen lebensgefährlich«](https://www.spektrum.de/news/kennedy-plan-kontraproduktiv-irrefuehrend-und-lebensgefaehrlich/2258211) (Spektrum.de)
@@ -2503,6 +2529,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-12 (dengue)
 
+- [Câmara aprova lei com nome de menino que morreu por erro médico em SP](https://www.metropoles.com/sao-paulo/camara-aprova-lei-com-nome-de-menino-que-morreu-por-erro-medico-em-sp) (Metropoles.com)
+
+- [Symptômes, mortalité, différences avec Zika et dengue… Ce qu’il faut savoir sur l’épidémie de chikungunya qui sévit à la Réunion](https://www.liberation.fr/societe/sante/symptomes-mortalite-differences-avec-zika-et-dengue-ce-quil-faut-savoir-sur-lepidemie-de-chikungunya-qui-sevit-a-la-reunion-20250321_WH3UIEL5VJE3DH6L3FXKDPF55E/) (Libération)
+
+- [Dengue: Por que as plaquetas do sangue diminuem?](https://valor.globo.com/brasil/artigo/dengue-por-que-as-plaquetas-do-sangue-diminuem.ghtml) (Globo)
+
 - [Dengue: Saúde celebra queda, mas Brasil tem 2º pior início de ano](https://www.metropoles.com/colunas/tacio-lorran/dengue-brasil-2o-pior-ano) (Metropoles.com)
 
 - [CDC Issues Warning about Dengue Fever in Time for Spring Break](https://legalinsurrection.com/2025/03/cdc-issues-warning-about-dengue-fever-in-time-for-spring-break/) (Legalinsurrection.com)
@@ -2528,6 +2560,30 @@ Source: [News API](https://newsapi.org/)
 - [As Summer Approaches, Your Risk Of Dengue & Chikungunya Increases; Here's How To Stay Safe](https://www.ndtv.com/health/as-summer-approaches-your-risk-of-dengue-chikungunya-increases-heres-how-to-stay-safe-7941812) (NDTV News)
 
 ## 25-12 (chikungunya)
+
+- [Chikungunya à La Réunion : "L'épidémie touche l'ensemble de l'île", confirme l'ARS qui s'attend à avoir au moins "10 000 cas à la fin de la semaine"](https://www.francetvinfo.fr/sante/maladie/chikungunya/chikungunya-a-la-reunion-l-epidemie-touche-l-ensemble-de-l-ile-confirme-l-ars-qui-s-attend-a-avoir-au-moins-10-000-cas-a-la-fin-de-la-semaine_7143750.html) (Francetvinfo.fr)
+
+- [La Réunion, epidemia di chikungunya causa due morti](https://www.internazionale.it/ultime-notizie/2025/03/21/francia-epidemia-chikungunya-la-reunion-vittime) (Internazionale.it)
+
+- [Symptômes, mortalité, différences avec Zika et dengue… Ce qu’il faut savoir sur l’épidémie de chikungunya qui sévit à la Réunion](https://www.liberation.fr/societe/sante/symptomes-mortalite-differences-avec-zika-et-dengue-ce-quil-faut-savoir-sur-lepidemie-de-chikungunya-qui-sevit-a-la-reunion-20250321_WH3UIEL5VJE3DH6L3FXKDPF55E/) (Libération)
+
+- [L’épidémie de chikungunya à La Réunion fait 2 morts, ce que l’on sait](https://www.huffingtonpost.fr/france/article/l-epidemie-de-chikungunya-a-la-reunion-fait-2-morts-ce-que-l-on-sait_247774.html) (Le HuffPost)
+
+- [Mosquito-borne chikungunya kills two in France's La Reunion](https://www.rawstory.com/mosquito-borne-chikungunya-kills-two-in-france-s-la-reunion/) (Raw Story)
+
+- [Santé. Symptômes, transmission, traitements… Que faut-il savoir sur le chikungunya ?](https://www.ledauphine.com/sante/2025/03/21/symptomes-transmission-traitements-que-faut-il-savoir-sur-le-chikungunya) (Le Dauphiné Libéré)
+
+- [Epidémie de chikungunya : deux premiers décès confirmés à La Réunion](https://www.nouvelobs.com/societe/20250321.OBS101742/epidemie-de-chikungunya-deux-premiers-deces-confirmes-a-la-reunion.html) (L'Obs)
+
+- [Epidémie de chikungunya : deux premiers morts confirmés à La Réunion](https://www.lemonde.fr/societe/article/2025/03/21/epidemie-de-chikungunya-deux-premiers-morts-confirmes-a-la-reunion_6584273_3224.html) (Le Monde)
+
+- [Chikungunya : Deux premiers décès confirmés à La Réunion](https://www.20minutes.fr/sante/4144627-20250321-chikungunya-deux-premiers-deces-confirmes-reunion) (20 Minutes)
+
+- [Mosquito-borne chikungunya kills two in France’s La Reunion](https://www.digitaljournal.com/world/mosquito-borne-chikungunya-kills-two-in-frances-la-reunion/article) (Digital Journal)
+
+- [La Réunion. Deux personnes âgées mortes de l'épidémie de chikungunya](https://www.ledauphine.com/sante/2025/03/21/deux-personnes-agees-mortes-de-l-epidemie-de-chikungunya) (Le Dauphiné Libéré)
+
+- [Epidémie de chikungunya : deux morts confirmés à la Réunion](https://www.liberation.fr/societe/sante/epidemie-de-chikungunya-deux-morts-confirmes-a-la-reunion-20250321_ZAOM5LQSINE5HNCI4GZC4JX3FY/) (Libération)
 
 - [Chikungunya : deux décès confirmés à La Réunion, l’épidémie s’intensifie](https://la1ere.francetvinfo.fr/reunion/chikungunya-deux-deces-confirmes-a-la-reunion-l-epidemie-s-intensifie-1571776.html) (Francetvinfo.fr)
 

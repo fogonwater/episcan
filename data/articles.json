@@ -1,8 +1,604 @@
 {
-  "last_updated": "2025-03-22 07:06",
-  "count_articles_total": 1652,
-  "count_articles_new": 5,
+  "last_updated": "2025-03-22 19:05",
+  "count_articles_total": 1678,
+  "count_articles_new": 33,
   "articles": [
+    {
+      "id": 19552,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Guilherme Bianchi",
+      "title": "C\u00e2mara aprova lei com nome de menino que morreu por erro m\u00e9dico em SP",
+      "description": "Eduardo Brazilino Queiroz, de 13 anos, morreu de febre maculosa ap\u00f3s ser diagnosticado com dengue. O menino nunca foi testado para dengue",
+      "url": "https://www.metropoles.com/sao-paulo/camara-aprova-lei-com-nome-de-menino-que-morreu-por-erro-medico-em-sp",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2025/03/21153814/erro-medico1.jpg",
+      "publishedAt": "2025-03-21 19:04:13",
+      "content": "S\u00e3o Paulo O projeto de lei Eduardo Brazilino Queiroz, protocolado em mem\u00f3ria ao adolescente de 13 anos de mesmo nome que morreu de febre maculosa ap\u00f3s ser v\u00edtima de erro m\u00e9dico no ano passado, foi ap\u2026 [+5136 chars]",
+      "retrievedAt": "2025-03-22 19:05:33.019762",
+      "internal_id": "abca425c05663d635e3027a03fc8f65bcceb3a532b25886a11b5a3af588a08ee",
+      "publishedAtLabel": "Mar 21"
+    },
+    {
+      "id": 19545,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Politicalwire.com",
+      "author": "Taegan Goddard",
+      "title": "Parents of Dead Child Stand by Decision Not to Vaccinate",
+      "description": "\"The Texas parents of an unvaccinated 6-year-old girl who died from measles Feb. 26 told the anti-vaccine organization Children\u2019s Health Defense this week that the experience did not convince them that vaccination against measles was",
+      "url": "https://politicalwire.com/2025/03/21/parents-of-dead-child-stand-by-decision-not-to-vaccinate/",
+      "urlToImage": "https://politicalwire.com/wp-content/uploads/2018/02/PW-podcast-logo.jpg",
+      "publishedAt": "2025-03-21 18:32:24",
+      "content": "\u201cThere are a lot of blogs and news sites claiming to understand politics, but only a few actually do. Political Wire is one of them.\u201d Chuck Todd, host of \u201cMeet the Press\u201d \u201cConcise. Relevant. To th\u2026 [+594 chars]",
+      "retrievedAt": "2025-03-22 19:05:31.897193",
+      "internal_id": "15cfc41e3359afc233fba2036815887a6bbe9b36a0725a6158030759f5ac73b2",
+      "publishedAtLabel": "Mar 21"
+    },
+    {
+      "id": 19541,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Boston Herald",
+      "author": "Associated Press",
+      "title": "Texas measles outbreak expected to last for months, though vaccinations are up from last year",
+      "description": "The outbreak is up to 351 cases in both states, and one death each.",
+      "url": "https://www.bostonherald.com/2025/03/21/measles-outbreak-vaccinations-up/",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/03/Measles_Outbreak_Texas_26436_f34aba.jpg?w=1024&h=682",
+      "publishedAt": "2025-03-21 18:23:43",
+      "content": "By DEVI SHASTRI and KASTURI PANANJADY As measles cases in West Texas are still on the rise two months after the outbreak began, local public health officials say they expect the virus to keep spread\u2026 [+5646 chars]",
+      "retrievedAt": "2025-03-22 19:05:31.772562",
+      "internal_id": "48551177ea94fb248c67afb93594411284174ffdd6d61690ecdf7516b93de611",
+      "publishedAtLabel": "Mar 21"
+    },
+    {
+      "id": 19539,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "Mom of child dead from measles: \"Don't do the shots,\" my other 4 kids were fine (Beth Mole/Ars Technica)",
+      "description": "Beth Mole / Ars Technica: Mom of child dead from measles: \u201cDon't do the shots,\u201d my other 4 kids were fine \u2014 The interview downplayed the disease, maligned vaccines, touted unproven treatments \u2026 The child's vaccine-preventable death marked the first measles \u2026",
+      "url": "https://www.memeorandum.com/250321/p72",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/10/GettyImages-509481102-scaled-1152x648-1729196833.jpg",
+      "publishedAt": "2025-03-21 17:45:01",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-03-22 19:05:31.750240",
+      "internal_id": "64281fc473d2056c89a8064b8e0b1de3ef61cf86f5e6fbe3c40286f16e765750",
+      "publishedAtLabel": "Mar 21"
+    },
+    {
+      "id": 19548,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Shtfplan.com",
+      "author": "Mac Slavo",
+      "title": "The \u201cForever War\u201d Against Bird Flu",
+      "description": "Even though the bird flu has not become an actual human pandemic, the mainstream media is hyping up a \"forever war\" against the virus. The H5N1 avian influenza is spreading widely in both domestic and wild animals, although the exact transmission routes remai\u2026",
+      "url": "https://www.shtfplan.com/headline-news/the-forever-war-against-bird-flu",
+      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2024/12/birdflu1.jpg",
+      "publishedAt": "2025-03-21 17:30:20",
+      "content": "Even though the bird flu has not become an actual human pandemic, the mainstream media is hyping up a \u201cforever war\u201d against the virus. The H5N1 avian influenza is spreading widely in both domestic an\u2026 [+1942 chars]",
+      "retrievedAt": "2025-03-22 19:05:32.642605",
+      "internal_id": "7a003dbd393eb6c491f027da2551914bfd9f3c0b4405494ff1ee218c80416b43",
+      "publishedAtLabel": "Mar 21"
+    },
+    {
+      "id": 19535,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Wonkette.com",
+      "author": "Robyn Pennacchia",
+      "title": "'Measles Are Good For You' Say Parents Whose Kid Died Because Of Measles",
+      "description": "They claim it prevents cancer, which it very much does not.",
+      "url": "https://www.wonkette.com/p/measles-are-good-for-you-say-parents",
+      "urlToImage": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F93f66bfd-328b-4d7d-8ba5-d6bf0acc2580_2438x1580.png",
+      "publishedAt": "2025-03-21 17:15:40",
+      "content": "People often dont like to admit that theyve made bad decisions or had bad ideas. In some cases, the more obviously incorrect that idea is, the more they will double down on defending it, even if it m\u2026 [+6582 chars]",
+      "retrievedAt": "2025-03-22 19:05:31.692499",
+      "internal_id": "989f16b514d8b879f4af1f8dcf922439e12594ce8e8c56c40656b325e106826e",
+      "publishedAtLabel": "Mar 21"
+    },
+    {
+      "id": 19533,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Antonio Peque\u00f1o IV, Forbes Staff, \n Antonio Peque\u00f1o IV, Forbes Staff\n https://www.forbes.com/sites/antoniopequenoiv/",
+      "title": "Measles Outbreak: Cases In Texas Over 300 As Illness Spreads To At Least 17 States",
+      "description": "Texas remains the state with the highest number of cases, by far.",
+      "url": "https://www.forbes.com/sites/antoniopequenoiv/2025/03/21/measles-outbreak-cases-in-texas-near-280-as-illness-spreads-to-15-states/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67b8dc34f003eb75b733dff5/0x0.jpg?format=jpg&crop=3039,2027,x0,y0,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-03-21 17:04:31",
+      "content": "A measles outbreak that began in Texas at the start of the year has infected over 300 people as of Tuesday, as cases of the highly contagious illness have been spotted in 17 states and already exceed\u2026 [+7000 chars]",
+      "retrievedAt": "2025-03-22 19:05:31.644218",
+      "internal_id": "3ee42d09224b3364a9c0073adc90f140f546b4ee61436ac168dbd5d7cda1ec72",
+      "publishedAtLabel": "Mar 21"
+    },
+    {
+      "id": 19563,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Francetvinfo.fr",
+      "author": null,
+      "title": "Chikungunya \u00e0 La R\u00e9union : \"L'\u00e9pid\u00e9mie touche l'ensemble de l'\u00eele\", confirme l'ARS qui s'attend \u00e0 avoir au moins \"10 000 cas \u00e0 la fin de la semaine\"",
+      "description": "Deux personnes \u00e2g\u00e9es de 86 et 96 ans, dont une qui pr\u00e9sentait des comorbidit\u00e9s, sont d\u00e9c\u00e9d\u00e9es des suites du chikungunya, a annonc\u00e9 vendredi matin la pr\u00e9fecture de l'\u00eele.",
+      "url": "https://www.francetvinfo.fr/sante/maladie/chikungunya/chikungunya-a-la-reunion-l-epidemie-touche-l-ensemble-de-l-ile-confirme-l-ars-qui-s-attend-a-avoir-au-moins-10-000-cas-a-la-fin-de-la-semaine_7143750.html",
+      "urlToImage": "https://www.francetvinfo.fr/pictures/j2GaRO2CIq2H9alcVGY9QtrUumg/0x8:1024x584/1500x843/2025/03/05/000-par721170-67c7e9ca0bbb9711316473.jpg",
+      "publishedAt": "2025-03-21 16:56:46",
+      "content": "L'\u00e9pid\u00e9mie de chikungunya \u00e0 La R\u00e9union \"touche l'ensemble de l'\u00eele\" et \"toutes les tranches d'\u00e2ge\", a confirm\u00e9 vendredi 21 mars sur franceinfo Xavier Deparis, directeur de la veille et de la s\u00e9curit\u00e9\u2026 [+3510 chars]",
+      "retrievedAt": "2025-03-22 19:05:34.137560",
+      "internal_id": "318cb817cb47483b0080d8391482672d726f71e9c989920dc6440a059d5e1401",
+      "publishedAtLabel": "Mar 21"
+    },
+    {
+      "id": 19540,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "Anti-Vaxx Mom Whose Daughter Died From Measles Says Disease 'Wasn't That Bad' (Maryam Khanum/Latin Times)",
+      "description": "Maryam Khanum / Latin Times: Anti-Vaxx Mom Whose Daughter Died From Measles Says Disease 'Wasn't That Bad' \u2014 The child's parents doubled down on their decision not to vaccinate their child even after her death \u2014 The parents of an unvaccinated Texas child \u2026",
+      "url": "https://www.memeorandum.com/250321/p56",
+      "urlToImage": "https://d.latintimes.com/en/full/571807/measles-texas.jpg",
+      "publishedAt": "2025-03-21 16:10:01",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-03-22 19:05:31.758430",
+      "internal_id": "4001d20905a5e3c3920c29d1c084071ae60d37b471fc15cccac064bdc416ce49",
+      "publishedAtLabel": "Mar 21"
+    },
+    {
+      "id": 19556,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Internazionale.it",
+      "author": "Internazionale",
+      "title": "La R\u00e9union, epidemia di chikungunya causa due morti",
+      "description": "Almeno due persone, di 86 e 96 anni, sono morte a La R\u00e9union, un dipartimento d\u2019oltremare francese nell\u2019oceano Indiano, dopo aver contratto la chikungunya, una malattia trasmessa dalle zanzare. Leggi",
+      "url": "https://www.internazionale.it/ultime-notizie/2025/03/21/francia-epidemia-chikungunya-la-reunion-vittime",
+      "urlToImage": "https://media.internazionale.it/images/2025/03/21/277936-sd.jpeg",
+      "publishedAt": "2025-03-21 16:06:51",
+      "content": "Almeno due persone, di 86 e 96 anni, sono morte a La R\u00e9union, un dipartimento doltremare francese nelloceano Indiano, dopo aver contratto la chikungunya, una malattia trasmessa dalle zanzare. Si trat\u2026 [+1500 chars]",
+      "retrievedAt": "2025-03-22 19:05:34.060400",
+      "internal_id": "16f778d7198a8608cea51bd4d17d9a7802a84c69bc40264e7d40b41025ed0ac6",
+      "publishedAtLabel": "Mar 21"
+    },
+    {
+      "id": 19550,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "YLE News",
+      "author": null,
+      "title": "Vuoden nelj\u00e4s lintuinfluessatapaus varmistui",
+      "description": "Ruokaviraston mukaan Helsingist\u00e4 l\u00f6ytynyt kanadanhanhi on nelj\u00e4s lintuinfluenssatapaus luonnonvaraisilla linnuilla t\u00e4n\u00e4 kev\u00e4\u00e4n\u00e4.",
+      "url": "https://yle.fi/a/74-20151080",
+      "urlToImage": "https://images.cdn.yle.fi/image/upload/c_crop,x_0,y_0,w_2100,h_1181/w_1200,ar_1.91,c_fill/q_auto:eco,f_auto,fl_lossy/v1473858048/17-6224357d949c8afc31",
+      "publishedAt": "2025-03-21 15:40:25",
+      "content": "Juttu tiivistettyn\u00e4 Helsingin Katajanokalta l\u00f6ydetyss\u00e4, kuolleessa kanadanhanhessa on todettu H5N1-virustyyppi lintuinfluenssa.T\u00e4m\u00e4 on nelj\u00e4s lintuinfluenssatapaus Suomessa t\u00e4n\u00e4 kev\u2026 [+2648 chars]",
+      "retrievedAt": "2025-03-22 19:05:32.725874",
+      "internal_id": "21572fce2c1ef2e360c429d6c6bb72e5ae67fae4b58a6dce860255c112bef071",
+      "publishedAtLabel": "Mar 21"
+    },
+    {
+      "id": 19551,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": "liberation",
+      "source_name": "Lib\u00e9ration",
+      "author": "LIBERATION, AFP",
+      "title": "Sympt\u00f4mes, mortalit\u00e9, diff\u00e9rences avec Zika et dengue\u2026 Ce qu\u2019il faut savoir sur l\u2019\u00e9pid\u00e9mie de chikungunya qui s\u00e9vit \u00e0 la R\u00e9union",
+      "description": "Cette maladie virale, transmise par le moustique tigre, a d\u00e9j\u00e0 fait deux morts dans l\u2019\u00eele de l\u2019oc\u00e9an Indien. \u00abLib\u00e9ration\u00bb fait le point sur le virus, les traitements, et les moyens de se prot\u00e9ger.",
+      "url": "https://www.liberation.fr/societe/sante/symptomes-mortalite-differences-avec-zika-et-dengue-ce-quil-faut-savoir-sur-lepidemie-de-chikungunya-qui-sevit-a-la-reunion-20250321_WH3UIEL5VJE3DH6L3FXKDPF55E/",
+      "urlToImage": "https://www.liberation.fr/resizer/yRx10Bs9KnQ9DW-S4hrM-pXqLDU=/1200x630/filters:format(jpg):quality(70):focal(2683x1750:2693x1760)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/SLNIDZDIJ5HJBCTCYCNGJRRXTE.jpg",
+      "publishedAt": "2025-03-21 15:39:15",
+      "content": "L\u00eele de la R\u00e9union subit une \u00e9pid\u00e9mie de chikungunya, la premi\u00e8re depuis 2010. Deux personnes \u00e2g\u00e9es de 86 et 96 ans, \u00abdont une pr\u00e9sent [ant] des comorbidit\u00e9s\u00bb, sont d\u00e9c\u00e9d\u00e9es, a annonc\u00e9 ce vendredi 21\u2026 [+4594 chars]",
+      "retrievedAt": "2025-03-22 19:05:32.997337",
+      "internal_id": "1f43e0822013d310d500f1addb50359eb175fd703cd67bad5728deac4b0c7641",
+      "publishedAtLabel": "Mar 21"
+    },
+    {
+      "id": 19532,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "Mary Kekatos",
+      "title": "Measles cases linked to Texas outbreak hit 309, surpassing nationwide total in 2024",
+      "description": "The number of measles cases associated with an outbreak in western Texas has grown to 309, according to new data released Friday.",
+      "url": "https://abcnews.go.com/Health/measles-cases-linked-outbreak-texas-reach-309-surpassing/story?id=120019612",
+      "urlToImage": "https://i.abcnewsfe.com/a/2bd4b7ed-c6eb-488a-b2ea-bc68edd2402a/measles-vaccine-ap-jt-250311_1741733496689_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2025-03-21 15:34:50",
+      "content": "The number of measles cases associated with an outbreak in western Texas has grown to 309, with 30 cases reported over the last three days, according to new data released Friday. This means the tota\u2026 [+794 chars]",
+      "retrievedAt": "2025-03-22 19:05:31.583593",
+      "internal_id": "5c1c05577155427467b196a83b7db663a733db426587427200f236d490e9de4b",
+      "publishedAtLabel": "Mar 21"
+    },
+    {
+      "id": 19536,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "menshealth.com",
+      "author": "Korin Miller",
+      "title": "Vitamin A Is Good For You...Until It's Not",
+      "description": "Vitamin A is getting a lot of attention due to measles. These are the risks and benefits of taking the supplement, according to dietitians and doctors.",
+      "url": "https://www.menshealth.com/health/a64211301/what-is-vitamin-a/",
+      "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/man-holding-a-yellow-pill-royalty-free-image-1742570040.pjpeg?crop=0.636xw:0.476xh;0.101xw,0.238xh&resize=1200:*",
+      "publishedAt": "2025-03-21 15:17:00",
+      "content": "In the world of nutrients, there are big names like vitamin C, iron, and calcium that hog all the attention. But vitamin A has been quietly hanging in the shadows, just waiting for its moment to shin\u2026 [+6632 chars]",
+      "retrievedAt": "2025-03-22 19:05:31.700542",
+      "internal_id": "921a534d856e91c742b5ede080210fc5a8a2b1d30f0acd6fc249a0a8aec933c5",
+      "publishedAtLabel": "Mar 21"
+    },
+    {
+      "id": 19534,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Live Science",
+      "author": "Jess Thomson, Nicoletta Lanese",
+      "title": "Are you protected against measles? Do you need a booster shot? Everything you need to know about immunity",
+      "description": "There have been hundreds of measles cases reported in the U.S. since the beginning of the year. Here's what you need to know about measles immunity.",
+      "url": "https://www.livescience.com/health/viruses-infections-disease/are-you-protected-against-measles-do-you-need-a-booster-shot-everything-you-need-to-know-about-immunity",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/ALNQwvJehkcqy6MdXDdZoG-1200-80.jpg",
+      "publishedAt": "2025-03-21 15:15:00",
+      "content": "Hundreds of people have caught measles in the United States this year, with the majority of the cases tied to outbreaks of the disease. So far, Texas has been the hardest hit, with the highest number\u2026 [+12896 chars]",
+      "retrievedAt": "2025-03-22 19:05:31.658559",
+      "internal_id": "0290967c331cdcebc925b8be16eb6f2686724fd0428e5cee3c3e90b75b3427b7",
+      "publishedAtLabel": "Mar 21"
+    },
+    {
+      "id": 19543,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Popular Science",
+      "author": "Adam Kovac",
+      "title": "The shaky science behind treating measles with vitamin A",
+      "description": "As a fatal measles outbreak continues to spread, the United States\u2019 leading public health official has offered some advice that\u2019s not backed by science. Secretary of Health and Human Services Robert F. Kennedy Jr., told Fox News earlier this month that his de\u2026",
+      "url": "https://www.popsci.com/health/measles-vitamin-a/",
+      "urlToImage": "https://www.popsci.com/wp-content/uploads/2025/03/measles-rash.png?quality=85",
+      "publishedAt": "2025-03-21 15:00:00",
+      "content": "As a fatal measles outbreak continues to spread, the United States leading public health official has offered some advice thats not backed by science. Secretary of Health and Human Services Robert F.\u2026 [+5806 chars]",
+      "retrievedAt": "2025-03-22 19:05:31.787757",
+      "internal_id": "bb77dd5980db39db8f8d179d243ceffb56421bae924d18cf052ea0385da78080",
+      "publishedAtLabel": "Mar 21"
+    },
+    {
+      "id": 19542,
+      "query": [
+        "measles"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "James Bickerton",
+      "title": "Texas Parents Warn Against Shots Despite Death of Their Unvaccinated Child",
+      "description": "Health authorities are urging parents to ensure their children get the MMR vaccine amid a measles outbreak.",
+      "url": "https://www.newsweek.com/texas-parents-warn-against-shots-despite-death-their-unvaccinated-child-2048480",
+      "urlToImage": "https://d.newsweek.com/en/full/2611956/measles.jpg",
+      "publishedAt": "2025-03-21 14:53:39",
+      "content": "The parents of an unvaccinated six-year-old girl who died from measles-related complications at Lubbock hospital on February 25 are urging other parents not to get the measles, mumps and rubella (MMR\u2026 [+4059 chars]",
+      "retrievedAt": "2025-03-22 19:05:31.780301",
+      "internal_id": "ab135329ebcb75c8d47f44beefb270051bc3b6bd26010d88b25ec253e335d29a",
+      "publishedAtLabel": "Mar 21"
+    },
+    {
+      "id": 19538,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Texas Tribune",
+      "author": "Stephen Simpson",
+      "title": "Public Health Experts Say Texas Is Poised to Make Measles a Nationwide Epidemic",
+      "description": "The outbreak has reached 11 counties in the state and has been linked to cases in New Mexico and Oklahoma.",
+      "url": "https://www.texastribune.org/2025/03/21/texas-measles-vaccine-new-mexico-oklahoma-us/",
+      "urlToImage": "https://truthout.org/app/uploads/2025/03/2025_0321-measles-scaled.jpg",
+      "publishedAt": "2025-03-21 14:38:55",
+      "content": "This article was first published by The Texas Tribune, a nonprofit, nonpartisan media organization that informs Texans and engages with them about public policy, politics, government and statewide is\u2026 [+17663 chars]",
+      "retrievedAt": "2025-03-22 19:05:31.742505",
+      "internal_id": "058e5fd72a0933d862f52e5764903eac5f08428223db3ef66c10c395829288a6",
+      "publishedAtLabel": "Mar 21"
+    },
+    {
+      "id": 19537,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Raw Story",
+      "author": "Terri Langford, Texas Tribune",
+      "title": "Texas parents of child who died of measles urge others not to vaccinate",
+      "description": "\"Texas parents of child who died of measles urge others not to vaccinate\" was first published by The Texas Tribune, a nonprofit, nonpartisan media organization that informs Texans \u2014 and engages with them \u2014 about public policy, politics, government and statewi\u2026",
+      "url": "https://www.rawstory.com/texas-parents-of-child-who-died-of-measles-urge-others-not-to-vaccinate/",
+      "urlToImage": "https://www.rawstory.com/media-library/an-unvaccinated-6-year-old-girl-at-covenant-children-s-hospital-in-lubbock-became-the-first-person-to-die-of-measles-in-texas-in.webp?id=58384588&width=1200&height=600&coordinates=0%2C72%2C0%2C73",
+      "publishedAt": "2025-03-21 14:19:39",
+      "content": "\"Texas parents of child who died of measles urge others not to vaccinate\" was first published by The Texas Tribune, a nonprofit, nonpartisan media organization that informs Texans and engages with th\u2026 [+3944 chars]",
+      "retrievedAt": "2025-03-22 19:05:31.714837",
+      "internal_id": "660be22bec974c1c9cde97c047e3a25bfcb131e6a70b6c081579edbe7759b042",
+      "publishedAtLabel": "Mar 21"
+    },
+    {
+      "id": 19544,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "ARLnow",
+      "author": "Dan Egitto",
+      "title": "NEW: Two measles cases reported traveling through DCA last Friday",
+      "description": "Two measles cases at Reagan National Airport and on the Yellow Line may have led to exposures in Arlington last Friday. Exposures were possible on the airport's terminal shuttle bus between noon and 2:30 p.m., the Virginia Department of Health announced in a \u2026",
+      "url": "https://www.arlnow.com/2025/03/21/new-two-measles-cases-reported-traveling-through-arlington-last-friday/",
+      "urlToImage": "https://www.arlnow.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-23-at-12.20.00-PM-e1614103151321.jpg",
+      "publishedAt": "2025-03-21 13:45:30",
+      "content": "Two measles cases at Reagan National Airport and on the Yellow Line may have led to exposures in Arlington last Friday.Exposures were possible on the airport\u2019s terminal shuttle bus between noon and 2\u2026 [+5668 chars]",
+      "retrievedAt": "2025-03-22 19:05:31.835080",
+      "internal_id": "8539f0f941fc43bd7296ff7e15daef67bc80f74f23f87fc357ee96676bc97ae3",
+      "publishedAtLabel": "Mar 21"
+    },
+    {
+      "id": 19555,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Le HuffPost",
+      "author": "Ma\u00eblle Roudaut, avec AFP",
+      "title": "L\u2019\u00e9pid\u00e9mie de chikungunya \u00e0 La R\u00e9union fait 2 morts, ce que l\u2019on sait",
+      "description": "Deux personnes \u00e2g\u00e9es de 86 et 96 ans sont d\u00e9c\u00e9d\u00e9es des suites du chikungunya \u00e0 La R\u00e9union. Ce sont les premiers d\u00e9c\u00e8s confirm\u00e9s depuis le d\u00e9but de l\u2019\u00e9pid\u00e9mie.",
+      "url": "https://www.huffingtonpost.fr/france/article/l-epidemie-de-chikungunya-a-la-reunion-fait-2-morts-ce-que-l-on-sait_247774.html",
+      "urlToImage": "https://focus.huffingtonpost.fr/2025/03/21/276/0/1922/1081/1820/1023/75/0/fc208cf_sirius-fs-upload-1-a2haoteszslw-1742555396709-gettyimages-1587765376.jpg",
+      "publishedAt": "2025-03-21 12:00:05",
+      "content": "SANT\u00c9 - L\u00e9pid\u00e9mie de chikungunya gagne du terrain \u00e0 La R\u00e9union. Deux personnes sont d\u00e9c\u00e9d\u00e9es du virus la semaine derni\u00e8re, a indiqu\u00e9 ce vendredi 21 mars la pr\u00e9fecture de l\u00eele. Il sagit de deux person\u2026 [+4346 chars]",
+      "retrievedAt": "2025-03-22 19:05:34.037298",
+      "internal_id": "3d36628d2a95be82ebfd3a449d4b6b3965088d341e133dbf218784528b981acb",
+      "publishedAtLabel": "Mar 21"
+    },
+    {
+      "id": 19557,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Raw Story",
+      "author": "Agence France-Presse",
+      "title": "Mosquito-borne chikungunya kills two in France's La Reunion",
+      "description": "A disabling mosquito-borne disease called chikungunya has killed two elderly people in the French Indian Ocean island of La Reunion, local authorities said Friday.An 86-year-old and a 96-year-old died last week of the illness that that causes fever and severe\u2026",
+      "url": "https://www.rawstory.com/mosquito-borne-chikungunya-kills-two-in-france-s-la-reunion/",
+      "urlToImage": "https://www.rawstory.com/media-library/image.jpg?id=24701797&width=1200&height=600&coordinates=0%2C67%2C0%2C67",
+      "publishedAt": "2025-03-21 11:51:08",
+      "content": "A disabling mosquito-borne disease called chikungunya has killed two elderly people in the French Indian Ocean island of La Reunion, local authorities said Friday. An 86-year-old and a 96-year-old d\u2026 [+1248 chars]",
+      "retrievedAt": "2025-03-22 19:05:34.068691",
+      "internal_id": "042c3889719a480b4d08050df832172792bb6753a982501997750c9dd438bac7",
+      "publishedAtLabel": "Mar 21"
+    },
+    {
+      "id": 19546,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Do you need another measles shot as an adult in Alberta? You might",
+      "description": "As measles cases rise in Alberta, many adults may be wondering whether they're protected against the highly contagious \u2014 and potentially dangerous \u2014 virus.",
+      "url": "https://www.cbc.ca/news/canada/calgary/do-you-need-another-measles-shot-as-an-adult-in-alberta-you-might-1.7488065",
+      "urlToImage": "https://i.cbc.ca/1.7379501.1731174089!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_1180/measles-bulletin-bc-20240304.jpg?im=Resize%3D620",
+      "publishedAt": "2025-03-21 11:00:00",
+      "content": "As measles cases rise in Alberta, many adults may be wondering whether they're protected against the highly contagious and potentially dangerous virus. As of Thursday there were 14 confirmed cases i\u2026 [+5114 chars]",
+      "retrievedAt": "2025-03-22 19:05:31.918939",
+      "internal_id": "307824c9e3486be5a72b92c5d4b617722e8533dc573f14242b416bdc3f5b531d",
+      "publishedAtLabel": "Mar 21"
+    },
+    {
+      "id": 19561,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
+      "author": "Ju. M.",
+      "title": "Sant\u00e9. Sympt\u00f4mes, transmission, traitements\u2026 Que faut-il savoir sur le chikungunya ?",
+      "description": "Deux personnes atteintes du chikungunya sont mortes \u00e0 La R\u00e9union, o\u00f9 s\u00e9vit une \u00e9pid\u00e9mie depuis l\u2019\u00e9t\u00e9 dernier. On vous explique ce qu\u2019il y a \u00e0 savoir sur cette maladie.",
+      "url": "https://www.ledauphine.com/sante/2025/03/21/symptomes-transmission-traitements-que-faut-il-savoir-sur-le-chikungunya",
+      "urlToImage": "https://cdn-s-www.ledauphine.com/images/691B8F9D-5568-4BB8-BF59-C562C34F56D3/FB1200/photo-1742554243.jpg",
+      "publishedAt": "2025-03-21 10:58:00",
+      "content": "Deux personnes de 86 et 96 ans sont d\u00e9c\u00e9d\u00e9es la semaine pass\u00e9e des suites du chikungunya \u00e0 La R\u00e9union. Il s\u2019agit des premiers d\u00e9c\u00e8s confirm\u00e9s depuis le d\u00e9clenchement de l'\u00e9pid\u00e9mie en ao\u00fbt 2024, qui s\u2026 [+3312 chars]",
+      "retrievedAt": "2025-03-22 19:05:34.108546",
+      "internal_id": "ea73199e75d2a6636a245f99dca77f8a13ba5b5415e838497e84689cbe33d498",
+      "publishedAtLabel": "Mar 21"
+    },
+    {
+      "id": 19564,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "L'Obs",
+      "author": "Le Nouvel Obs avec AFP",
+      "title": "Epid\u00e9mie de chikungunya : deux premiers d\u00e9c\u00e8s confirm\u00e9s \u00e0 La R\u00e9union",
+      "description": "Alors que le territoire conna\u00eet de nouveaux cas de Chikungunya depuis cet \u00e9t\u00e9, la pr\u00e9fecture a annonc\u00e9 que deux personnes \u00e9taient d\u00e9c\u00e9d\u00e9es \u00e0 cause de cette maladie transmise par le moustique-tigre.",
+      "url": "https://www.nouvelobs.com/societe/20250321.OBS101742/epidemie-de-chikungunya-deux-premiers-deces-confirmes-a-la-reunion.html",
+      "urlToImage": "https://focus.nouvelobs.com/2025/03/21/48/0/5292/3528/1200/800/0/0/e1bc709_sirius-fs-upload-1-lhpgc1vfjfhb-1742547203559-000-par8053983.jpg",
+      "publishedAt": "2025-03-21 10:05:50",
+      "content": "Par Le Nouvel Obs avec AFP Publi\u00e9 le 21 mars 2025 \u00e0 11h05 Centre hospitalier Felix-Guyon de Saint-Denis, \u00e0 la R\u00e9union, le 13 d\u00e9cembre 2014. RICHARD BOUHET / AFP Lire plus tard Commenter Googl\u2026 [+2042 chars]",
+      "retrievedAt": "2025-03-22 19:05:34.145166",
+      "internal_id": "e079f13146c7853e41c0e2ce97bed774b01a9ba40483eb40fa55d819ffc094a7",
+      "publishedAtLabel": "Mar 21"
+    },
+    {
+      "id": 19558,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "le-monde",
+      "source_name": "Le Monde",
+      "author": "Le Monde avec AFP",
+      "title": "Epid\u00e9mie de chikungunya : deux premiers morts confirm\u00e9s \u00e0 La R\u00e9union",
+      "description": "L\u2019\u00e9pid\u00e9mie s\u2019intensifie avec \u00ab plus de 8 500 cas \u00bb non import\u00e9s de cette maladie, transmise par le moustique-tigre, recens\u00e9s. Elle \u00ab s\u2019est acc\u00e9l\u00e9r\u00e9e ces derni\u00e8res semaines et s\u2019\u00e9tend d\u00e9sormais \u00e0 tout le territoire \u00bb, selon la pr\u00e9fecture de l\u2019\u00eele.",
+      "url": "https://www.lemonde.fr/societe/article/2025/03/21/epidemie-de-chikungunya-deux-premiers-morts-confirmes-a-la-reunion_6584273_3224.html",
+      "urlToImage": "https://img.lemde.fr/2025/03/21/193/0/4273/2848/1440/960/60/0/f19600e_sirius-fs-upload-1-spdbplivhpsj-1742550166089-bios-1715073.jpg",
+      "publishedAt": "2025-03-21 09:44:48",
+      "content": "Moustique tigre asiatique femelle originaire dAsie du Sud-Est. PASCAL GOETGHELUCK / BIOSPHOTO Deux personnes \u00e2g\u00e9es de 86 et 96 ans, dont une pr\u00e9sentait des comorbidit\u00e9s, sont mortes des suites du ch\u2026 [+2035 chars]",
+      "retrievedAt": "2025-03-22 19:05:34.082996",
+      "internal_id": "31b677af243d2c3459b381ecdb790ed3a3318e64979d9b812991ed553d283408",
+      "publishedAtLabel": "Mar 21"
+    },
+    {
+      "id": 19562,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "20 Minutes",
+      "author": "20 Minutes avec AFP",
+      "title": "Chikungunya : Deux premiers d\u00e9c\u00e8s confirm\u00e9s \u00e0 La R\u00e9union",
+      "description": "La R\u00e9union n'avait pas connu de cas de chikungunya depuis 2010",
+      "url": "https://www.20minutes.fr/sante/4144627-20250321-chikungunya-deux-premiers-deces-confirmes-reunion",
+      "urlToImage": "https://img.20mn.fr/RiVnWx2WSe6hKTfU66P24Sk/1444x920_un-moustique-piquant-une-personne-illustration",
+      "publishedAt": "2025-03-21 09:11:25",
+      "content": "Deux personnes \u00e2g\u00e9es de 86 et 96 ans, dont une pr\u00e9sentait des comorbidit\u00e9s, sont d\u00e9c\u00e9d\u00e9es des suites du chikungunya \u00e0 La R\u00e9union, a annonc\u00e9 vendredi la pr\u00e9fecture de l\u00eele, les premiers d\u00e9c\u00e8s confirm\u00e9\u2026 [+1590 chars]",
+      "retrievedAt": "2025-03-22 19:05:34.129441",
+      "internal_id": "9f838f98648209c8b62b0768b6510b682bc4a6f6485a362bcde19248f0ffe1f5",
+      "publishedAtLabel": "Mar 21"
+    },
+    {
+      "id": 19553,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Dengue: Por que as plaquetas do sangue diminuem?",
+      "description": "Situa\u00e7\u00e3o \u00e9 um risco \u00e0 sa\u00fade, podendo desencadear complica\u00e7\u00f5es que levam \u00e0 morte",
+      "url": "https://valor.globo.com/brasil/artigo/dengue-por-que-as-plaquetas-do-sangue-diminuem.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/GPd6OLXbGJ_yluvoigkUKFOcLZ4=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2025/x/v/CHOQA6QYOjAVHv4PVUGg/pexels-pixabay-86722.jpg",
+      "publishedAt": "2025-03-21 09:00:53",
+      "content": "A infectologista J\u00e9ssica Fernandes Ramos, integrante do N\u00facleo de Infectologia do Hospital S\u00edrio-Liban\u00eas, explica que a redu\u00e7\u00e3o de plaquetas por conta da dengue, que \u00e9 transmitida pelo mosquito Aedes\u2026 [+2268 chars]",
+      "retrievedAt": "2025-03-22 19:05:33.063921",
+      "internal_id": "2c3f5f77c34d5d02c3d518a030922dc46997238c40daaf19f10422a0838793cc",
+      "publishedAtLabel": "Mar 21"
+    },
+    {
+      "id": 19549,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Tass.ru",
+      "author": null,
+      "title": "\u041f\u043e\u043f\u043e\u0432\u0430 \u043f\u0440\u0435\u0434\u0443\u043f\u0440\u0435\u0434\u0438\u043b\u0430 \u043e \u0432\u044b\u0441\u043e\u043a\u0438\u0445 \u0440\u0438\u0441\u043a\u0430\u0445 \u043c\u0435\u0436\u0432\u0438\u0434\u043e\u0432\u043e\u0433\u043e \u043f\u0435\u0440\u0435\u0445\u043e\u0434\u0430 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430",
+      "description": "\u041f\u043e\u0441\u043b\u0435 \u044d\u0442\u043e\u0433\u043e \u043e\u043d \u0441\u0442\u0430\u043d\u0435\u0442 \u0432\u044b\u0441\u043e\u043a\u043e\u043f\u0430\u0442\u043e\u0433\u0435\u043d\u043d\u044b\u043c \u0434\u043b\u044f \u0447\u0435\u043b\u043e\u0432\u0435\u0447\u0435\u0441\u043a\u043e\u0439 \u043f\u043e\u043f\u0443\u043b\u044f\u0446\u0438\u0438, \u0440\u0430\u0441\u0441\u043a\u0430\u0437\u0430\u043b\u0430 \u0433\u043b\u0430\u0432\u0430 \u0420\u043e\u0441\u043f\u043e\u0442\u0440\u0435\u0431\u043d\u0430\u0434\u0437\u043e\u0440\u0430",
+      "url": "https://tass.ru/obschestvo/23465363",
+      "urlToImage": "https://cdn-storage-media.tass.ru/thumb/ru/obschestvo/23465363?u=2025-03-21T08:44:42.906089",
+      "publishedAt": "2025-03-21 08:44:42",
+      "content": ", 21 . //. H5N1, . \" , , - , 5N1. , . , - \", - \" , 2024 2025 \".",
+      "retrievedAt": "2025-03-22 19:05:32.670784",
+      "internal_id": "58c5025cbb1241113a04f356246bfdb5c79a6a80688484d0dd00e6edbe521057",
+      "publishedAtLabel": "Mar 21"
+    },
+    {
+      "id": 19559,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Digital Journal",
+      "author": "AFP",
+      "title": "Mosquito-borne chikungunya kills two in France\u2019s La Reunion",
+      "description": "A disabling mosquito-borne disease called chikungunya has killed two elderly people in the French Indian Ocean island of La Reunion, local authorities said Friday. An 86-year-old and a 96-year-old died last week of the illness that that causes fever and sever\u2026",
+      "url": "https://www.digitaljournal.com/world/mosquito-borne-chikungunya-kills-two-in-frances-la-reunion/article",
+      "urlToImage": "https://www.digitaljournal.com/wp-content/uploads/2025/03/baea2c94fdd62904b765bca1ca633be79fe32af0.jpg",
+      "publishedAt": "2025-03-21 08:25:36",
+      "content": "A firefighter fumigating an area of La Reunion in 2018 - Copyright AFP Richard BOUHET A disabling mosquito-borne disease called chikungunya has killed two elderly people in the French Indian Ocean i\u2026 [+1296 chars]",
+      "retrievedAt": "2025-03-22 19:05:34.091092",
+      "internal_id": "fe71126114e195ae9c7ffb47c8ff3d5fb5a267aaf8af2e76b50c43c6cb7109cc",
+      "publishedAtLabel": "Mar 21"
+    },
+    {
+      "id": 19547,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Haberturk.com",
+      "author": "Habert\u00fcrk",
+      "title": "ABD'de 2017'den itibaren ilk H7N9 ku\u015f gribi salg\u0131n\u0131 g\u00f6r\u00fcld\u00fc",
+      "description": "ABD, 2017'den bu yana k\u00fcmes hayvan\u0131 \u00e7iftli\u011finde H7N9 ku\u015f gribi salg\u0131n\u0131n\u0131n ilk kez g\u00f6r\u00fcld\u00fc\u011f\u00fcn\u00fc bildirdi.",
+      "url": "https://www.haberturk.com/abd-de-2017-den-itibaren-ilk-h7n9-kus-gribi-salgini-goruldu-3775711",
+      "urlToImage": "https://im.haberturk.com/l/2025/03/21/ver1742543569/3775711/jpg/1200x628",
+      "publishedAt": "2025-03-21 07:52:52",
+      "content": "H5N1 ku gribi salgnyla m\u00fccadele eden ABD, \u00fclkede 2017'den itibaren k\u00fcmes hayvan \u00e7itliinde g\u00f6r\u00fclen ilk H7N9 salgnn duyurdu. Mississippi Hayvan Sal Heyeti yapt a\u00e7klamada, \"H7N9 vir\u00fcs\u00fc tamamen Kuzey Ame\u2026 [+309 chars]",
+      "retrievedAt": "2025-03-22 19:05:32.627479",
+      "internal_id": "11fd08810d618ff05dd777a51223c537210c19d194ec5c04b3f098e89b3ed98d",
+      "publishedAtLabel": "Mar 21"
+    },
+    {
+      "id": 19560,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
+      "author": "La r\u00e9daction avec AFP",
+      "title": "La R\u00e9union. Deux personnes \u00e2g\u00e9es mortes de l'\u00e9pid\u00e9mie de chikungunya",
+      "description": "Deux personnes \u00e2g\u00e9es de 86 et 96 ans, dont une pr\u00e9sentait des comorbidit\u00e9s, sont d\u00e9c\u00e9d\u00e9es des suites du chikungunya \u00e0 La R\u00e9union, a annonc\u00e9 vendredi la pr\u00e9fecture de l'\u00eele.",
+      "url": "https://www.ledauphine.com/sante/2025/03/21/deux-personnes-agees-mortes-de-l-epidemie-de-chikungunya",
+      "urlToImage": "https://cdn-s-www.ledauphine.com/images/216CD2B2-A26A-4057-9577-5A19FDB5E602/FB1200/photo-1742542524.jpg",
+      "publishedAt": "2025-03-21 07:37:00",
+      "content": "Alors que l'\u00e9pid\u00e9mie de chikungunya conna\u00eet une recrudescence sur l'\u00eele de La R\u00e9union, les autorit\u00e9s sanitaires et la pr\u00e9fecture ont annonc\u00e9 deux premiers d\u00e9c\u00e8s, ce vendredi : deux personnes \u00e2g\u00e9es de\u2026 [+1511 chars]",
+      "retrievedAt": "2025-03-22 19:05:34.098824",
+      "internal_id": "37d90b6087a4f34945f312d966ff5e8a369c5ebbb305e6e6e49a2492f2774862",
+      "publishedAtLabel": "Mar 21"
+    },
+    {
+      "id": 19554,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "liberation",
+      "source_name": "Lib\u00e9ration",
+      "author": "LIBERATION, AFP",
+      "title": "Epid\u00e9mie de chikungunya : deux morts confirm\u00e9s \u00e0 la R\u00e9union",
+      "description": "Deux personnes sont mortes des suites de la maladie infectieuse tropicale, transmise par les moustiques-tigres. L\u2019\u00e9pid\u00e9mie s\u00e9vit depuis le mois d\u2019ao\u00fbt 2024.",
+      "url": "https://www.liberation.fr/societe/sante/epidemie-de-chikungunya-deux-morts-confirmes-a-la-reunion-20250321_ZAOM5LQSINE5HNCI4GZC4JX3FY/",
+      "urlToImage": "https://www.liberation.fr/resizer/cSh0_j3KLh6wojh_JRuV_Y20rjo=/1200x630/filters:format(jpg):quality(70):focal(2038x1595:2048x1605)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/YJGMD5QPS5B6HFEHTS6H4JGIKM.jpg",
+      "publishedAt": "2025-03-21 07:15:58",
+      "content": "Deux personnes \u00e2g\u00e9es de 86 et 96 ans, dont une pr\u00e9sentait des comorbidit\u00e9s, sont d\u00e9c\u00e9d\u00e9es des suites du chikungunya \u00e0 La R\u00e9union, a annonc\u00e9 vendredi la pr\u00e9fecture de l\u00eele. \u00abLe pr\u00e9fet de la R\u00e9union e\u2026 [+267 chars]",
+      "retrievedAt": "2025-03-22 19:05:34.028967",
+      "internal_id": "b6a32e9be9558717f5dd23e68bf4ee0e0d7537cd34023d4f2490685c94000b37",
+      "publishedAtLabel": "Mar 21"
+    },
     {
       "id": 19531,
       "query": [
@@ -29659,132 +30255,6 @@
       "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
       "retrievedAt": "2025-02-04 07:07:01.212340",
       "internal_id": "84f684308ba4ffa4fa15abb09ec46a7cc9d97d0bdd6c4486dce11d79ab56adcc",
-      "publishedAtLabel": "Feb 2"
-    },
-    {
-      "id": 17883,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "WTVD-TV",
-      "author": "Marisa Sardonia",
-      "title": "Bird flu in NC | Dead bird at Lake Julian Park receives 'preliminarily positive' test result for bird flu",
-      "description": "Despite these findings, the park will remain open, but visitors are advised to avoid touching or feeding waterfowl.",
-      "url": "https://abc11.com/post/bird-flu-nc-dead-lake-julian-park-receives-preliminarily-positive-test-result/15857185/",
-      "urlToImage": "https://cdn.abcotvs.com/dip/images/15857173_WLOSbirdflu0201.JPG?w=1600",
-      "publishedAt": "2025-02-02 17:46:41",
-      "content": "ASHEVILLE, N.C. -- Buncombe County officials report that a dead waterfowl bird at Lake Julian Park has received a \"preliminarily positive\" test result for Avian Influenza H5N1, commonly known as bird\u2026 [+957 chars]",
-      "retrievedAt": "2025-02-03 19:06:09.443906",
-      "internal_id": "94402575c35587377ac4ad2a7a1727d800e99d1911b97a966af8fb975be3b790",
-      "publishedAtLabel": "Feb 2"
-    },
-    {
-      "id": 17880,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "cbs-news",
-      "source_name": "CBS News",
-      "author": "Martha Teichner",
-      "title": "As bird flu ravages poultry industry, the damage spreads",
-      "description": "After the current strain of bird flu, H5N1, reached the U.S. in 2022, more than 148 million birds have been euthanized. What is the outbreak's potential impacts on humans, the poultry industry, egg prices, and U.S. exports?",
-      "url": "https://www.cbsnews.com/news/as-bird-flu-ravages-poultry-industry-the-damage-spreads/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/02/02/93af99c1-1c8d-4e2c-800f-17dd5b5e4b02/thumbnail/1200x630/03efc2d452e36c47154559d65c6838e9/bird-flu-1280.jpg?v=a599723035d2f104d7a2d01edbe96ef8",
-      "publishedAt": "2025-02-02 15:19:13",
-      "content": "There are seven generations of Corwins in the Aquebogue, Long Island, town cemetery. Their graves overlook the farm that's been in the family since the 1640s. Some family members' tombstones are ador\u2026 [+3931 chars]",
-      "retrievedAt": "2025-02-03 19:06:09.333622",
-      "internal_id": "25bd8193ca7d177522316a0e614c00e6a5a2e623f266149c0c7d0824e9f4a878",
-      "publishedAtLabel": "Feb 2"
-    },
-    {
-      "id": 17882,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "cbs-news",
-      "source_name": "CBS News",
-      "author": "CBS News",
-      "title": "The impact from bird flu spreads",
-      "description": "After H5N1, the current strain of bird flu, reached the United States in 2022, more than 148 million chickens, turkeys and other farm birds have been euthanized. Since last year, when the virus jumped from poultry and wild birds to mammals, the number of huma\u2026",
-      "url": "https://www.cbsnews.com/video/the-impact-from-bird-flu-spreads/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/02/02/1f3e29e1-72c9-426f-844a-61ba60eed817/thumbnail/1200x630/26f6c05a310603b67fd3bf816bcfc7a8/bird-flu-1920.jpg?v=a599723035d2f104d7a2d01edbe96ef8",
-      "publishedAt": "2025-02-02 15:18:00",
-      "content": "Watch CBS News Copyright \u00a92025 CBS Interactive Inc. All rights reserved. Get browser notifications for breaking news, live events, and exclusive reporting. Not NowTurn On",
-      "retrievedAt": "2025-02-03 19:06:09.368737",
-      "internal_id": "7894cedbb7b7f5a5689adafe70d2d4355399dad9cedb443b03f43a6921ef0908",
-      "publishedAtLabel": "Feb 2"
-    },
-    {
-      "id": 17881,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Rg.ru",
-      "author": null,
-      "title": "Nature: \u0420\u0430\u0441\u0442\u0435\u0442 \u0440\u0438\u0441\u043a \u043d\u043e\u0432\u043e\u0439 \u043f\u0430\u043d\u0434\u0435\u043c\u0438\u0438, \u0432\u044b\u0437\u0432\u0430\u043d\u043d\u043e\u0439 \u043f\u0442\u0438\u0447\u044c\u0438\u043c \u0433\u0440\u0438\u043f\u043f\u043e\u043c",
-      "description": "\u041f\u0442\u0438\u0447\u0438\u0439 \u0432\u0438\u0440\u0443\u0441 \u0433\u0440\u0438\u043f\u043f\u0430 H5N1 \u0430\u0434\u0430\u043f\u0442\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u043a \u043d\u043e\u0432\u044b\u043c \u0445\u043e\u0437\u044f\u0435\u0432\u0430\u043c - \u043c\u043b\u0435\u043a\u043e\u043f\u0438\u0442\u0430\u044e\u0449\u0438\u043c, \u0438 \u044d\u0442\u043e \u043f\u043e\u0432\u044b\u0448\u0430\u0435\u0442 \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u044c \u0435\u0433\u043e \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0435\u043d\u0438\u044f \u0441\u0440\u0435\u0434\u0438 \u043b\u044e\u0434\u0435\u0439.",
-      "url": "https://rg.ru/2025/02/02/nature-rastet-risk-novoj-pandemii-vyzvannoj-ptichim-grippom.html",
-      "urlToImage": "https://cdnstatic.rg.ru/uploads/images/2025/02/02/istock-2173054299-1_573.jpg",
-      "publishedAt": "2025-02-02 15:16:01",
-      "content": ", . 68 , . , \"\" , Nature. , , H5N1, , , . - , , . \" , , ( - . \") \", - Nature , , , . , , . H5N1: , B3.13, ; , D1.1, , , . B3.13 , 900 16 , , , . , , , , , . 40 . , . , . Nature, 24 , , D1.\u2026 [+62 chars]",
-      "retrievedAt": "2025-02-03 19:06:09.361221",
-      "internal_id": "09a328c5fd62404d20e1f9ca5e4949d4dbfdd18adf23087b1d12af5944ec7f2f",
-      "publishedAtLabel": "Feb 2"
-    },
-    {
-      "id": 17886,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Haber7.com",
-      "author": "Ramazan Y\u0131ld\u0131z",
-      "title": "Uganda'da M \u00e7i\u00e7e\u011fi vir\u00fcs\u00fcne kar\u015f\u0131 a\u015f\u0131 kampanyas\u0131 seferberli\u011fi",
-      "description": "Uganda'da Afrika Hastal\u0131k Kontrol ve \u00d6nleme Merkezleri (Africa CDC) taraf\u0131ndan ba\u011f\u0131\u015flanan 2 bin doz a\u015f\u0131, bin ki\u015fiye uygulanmaya ba\u015fland\u0131.",
-      "url": "https://www.haber7.com/dunya/haber/3501667-ugandada-m-cicegi-virusune-karsi-asi-kampanyasi-seferberligi",
-      "urlToImage": "https://i20.haber7.net/resize/1280x720//haber/haber7/photos/2025/05/ugandada_m_cicegi_virusune_karsi_asi_kampanyasi_seferberligi_1738501558_3925.jpg",
-      "publishedAt": "2025-02-02 13:06:00",
-      "content": "Uganda'nn bakenti Kampala'da M \u00e7i\u00e7ei vir\u00fcs\u00fc (Mpox) salgnyla m\u00fccadele kapsamnda y\u00fcksek risk gruplar ve salk \u00e7alanlarna y\u00f6nelik alama kampanyasnn ilk aamas balatld. Yerel basna yansyan haberlere g\u00f6re,\u2026 [+1110 chars]",
-      "retrievedAt": "2025-02-03 19:06:11.973579",
-      "internal_id": "44bab71e5765b926fdbbd9268eb1cf6c7843aead436f2d4c077a071f744390bc",
-      "publishedAtLabel": "Feb 2"
-    },
-    {
-      "id": 17885,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Anadolu Agency",
-      "author": null,
-      "title": "Uganda, M \u00e7i\u00e7e\u011fi vir\u00fcs\u00fc salg\u0131n\u0131yla m\u00fccadele kapsam\u0131nda a\u015f\u0131 kampanyas\u0131 ba\u015flatt\u0131",
-      "description": "Uganda'n\u0131n ba\u015fkenti Kampala'da M \u00e7i\u00e7e\u011fi vir\u00fcs\u00fc (Mpox) salg\u0131n\u0131yla m\u00fccadele kapsam\u0131nda y\u00fcksek risk gruplar\u0131 ve sa\u011fl\u0131k \u00e7al\u0131\u015fanlar\u0131na y\u00f6nelik a\u015f\u0131lama kampanyas\u0131n\u0131n ilk a\u015famas\u0131 ba\u015flat\u0131ld\u0131. - Anadolu Ajans\u0131",
-      "url": "https://www.aa.com.tr/tr/dunya/uganda-m-cicegi-virusu-salginiyla-mucadele-kapsaminda-asi-kampanyasi-baslatti/3469451",
-      "urlToImage": "https://cdnuploads.aa.com.tr/uploads/Contents/2025/02/02/thumbs_b_c_1c8532de8fa50550880b9b8ccb27dabb.jpg",
-      "publishedAt": "2025-02-02 12:23:48",
-      "content": "Yerel basna yansyan haberlere g\u00f6re, Afrika Hastalk Kontrol ve \u00d6nleme Merkezleri (Africa CDC) tarafndan balanan 2 bin doz a, bin kiiye uygulanmaya baland. Uganda Salk Bakanlndan yaplan a\u00e7klamada, Ara\u2026 [+1108 chars]",
-      "retrievedAt": "2025-02-03 19:06:11.953773",
-      "internal_id": "29b55ce4fdc54c5a52962349ec0dbb7e2fda51a19aee93b301f9d3aaae835ca4",
-      "publishedAtLabel": "Feb 2"
-    },
-    {
-      "id": 17884,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Www.dr.dk",
-      "author": null,
-      "title": "Danmark har ikke tabt ved VM siden 2017: 'Der var jeg lige kommet tilbage fra meningitis'",
-      "description": "Ungarn er det seneste hold, der har sl\u00e5et Danmark ved VM i herreh\u00e5ndbold.",
-      "url": "https://www.dr.dk/sporten/haandbold/vm/danmark-har-ikke-tabt-ved-vm-siden-2017-der-var-jeg-lige-kommet-tilbage-fra",
-      "urlToImage": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fwww.dr.dk%2Fimages%2Fother%2F2025%2F02%2F01%2Fscanpix-20250131-223129-l.jpg&w=1200",
-      "publishedAt": "2025-02-02 07:31:00",
-      "content": "Den 27-\u00e5rige m\u00e5lmand, som har haft over 100 redninger indtil videre ved dette VM, var 19 \u00e5r og havde netop v\u00e6ret igennem et sygdomsforl\u00f8b. - Der var jeg lige kommet tilbage fra meningitis. Det var e\u2026 [+450 chars]",
-      "retrievedAt": "2025-02-03 19:06:10.239102",
-      "internal_id": "a483b8a9c9449681a365c38d6144ba8fba11c39eb3049318e23228e7283d079b",
       "publishedAtLabel": "Feb 2"
     }
   ]
