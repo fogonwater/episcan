@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 15
-- **Last harvest:** 2025-03-23 07:06
-- **Most recent article:** 2025-03-22 03:00:13
+- **New articles in last harvest:** 4
+- **Last harvest:** 2025-03-23 19:06
+- **Most recent article:** 2025-03-22 12:58:39
 
 ---
 
@@ -12,12 +12,12 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-10 | 25-11 | 25-12 | 25-7 | 25-8 | 25-9 | Total |
 |--|-|-|-|-|-|-|-|
-| measles | 142 | 133 | 97 | 72 | 83 | 162 | 689 |
-| h5n1 | 23 | 39 | 55 | 55 | 54 | 42 | 268 |
-| dengue | 8 | 12 | 15 | 37 | 57 | 30 | 159 |
-| malaria | 29 | 22 | 17 | 12 | 7 | 20 | 107 |
+| measles | 142 | 133 | 98 | 68 | 83 | 162 | 686 |
+| h5n1 | 23 | 39 | 56 | 51 | 54 | 42 | 265 |
+| dengue | 8 | 12 | 16 | 37 | 57 | 30 | 160 |
+| malaria | 29 | 22 | 17 | 11 | 7 | 20 | 106 |
 | mpox | 14 | 15 | 8 | 18 | 15 | 26 | 96 |
-| meningitis | 4 | 9 | 6 | 12 | 11 | 7 | 49 |
+| meningitis | 4 | 9 | 7 | 12 | 11 | 7 | 50 |
 | hpai | 10 | 3 | 12 | 9 | 5 | 4 | 43 |
 | chikungunya | 6 | 1 | 17 | 5 | 3 | 7 | 39 |
 | rabies | 3 | 8 | 3 | 5 | 4 | 2 | 25 |
@@ -1447,14 +1447,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles outbreak spreads as health officials urge anyone who hasn't been vaccinated to get jabbed - NewsBreak](https://www.newsbreak.com/share/3798078238417-measles-outbreak-spreads-as-health-officials-urge-anyone-who-hasn-t-been-vaccinated-to-get-jabbed?s=a2&share_destination_id=MjUxNzE4NzUzLTE3MzkxNDI4NDQyMDU%3D&pd=0H2BXtcW&hl=en_US&send_time=1739142844&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.4.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_push_exp_rt_bucketv12-v7%2Cns_foryou_blend_exp_25q1-v8%2Cns_foryou_recall_exp_25q1-v8%2Cns_foryou_model_exp_25q1-v1%2Cns_foryou_rank_exp_25q1-v4) (Newsbreak.com)
 
-- [Texas Measles Cases Hit County With Low Vaccination Rates](https://www.newsweek.com/measles-outbreak-texas-gaines-county-vaccination-rate-2028453) (Newsweek)
-
-- [Measles outbreak spreads as health officials urge anyone who hasn't been vaccinated to get jabbed - NewsBreak](https://www.newsbreak.com/share/3798078238417-measles-outbreak-spreads-as-health-officials-urge-anyone-who-hasn-t-been-vaccinated-to-get-jabbed?s=a2&share_destination_id=NTMxMzc4NDEtMTczOTExODU1MjI2Ng%3D%3D&pd=03axZxIg&hl=en_US&send_time=1739118552&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.6.1%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_model_exp_25q1-v8%2Cns_foryou_blend_exp_25q1-v8%2Cns_foryou_rank_exp_25q1-v6%2Cns_foryou_recall_exp_25q1-v7%2Cns_push_exp_rt_bucketv12-v8) (Newsbreak.com)
-
-- [Measles outbreak spreads as health officials urge anyone who hasn't been vaccinated to get jabbed - NewsBreak](https://www.newsbreak.com/share/3798078238417-measles-outbreak-spreads-as-health-officials-urge-anyone-who-hasn-t-been-vaccinated-to-get-jabbed?_f=app_share&pd=04jUeKTH&lang=en_US&send_time=1739109677&trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.6.0.7%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_model_exp_25q1-v9%2Cns_push_exp_rt_bucketv12-v1%2Cns_foryou_rank_exp_25q1-v2%2Cns_foryou_blend_exp_25q1-control%2Cns_foryou_recall_exp_25q1-v5&s=i2) (Newsbreak.com)
-
-- [Measles outbreak spreads as health officials urge anyone who hasn't been vaccinated to get jabbed - NewsBreak](https://www.newsbreak.com/share/3798078238417-measles-outbreak-spreads-as-health-officials-urge-anyone-who-hasn-t-been-vaccinated-to-get-jabbed?s=a2&share_destination_id=MjE0OTg1NzExLTE3MzkxNDQyMzc1NTc%3D&pd=0EY3bTgT&hl=en_US&send_time=1739144237&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.4.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_recall_exp_25q1-v6%2Cns_foryou_model_exp_25q1-v6%2Cns_foryou_blend_exp_25q1-v3%2Cns_foryou_rank_exp_25q1-v5) (Newsbreak.com)
-
 ## 25-7 (malaria)
 
 - [Nigeria approves $200M to offset shortfall from US aid cuts](https://www.dw.com/en/nigeria-approves-200m-to-offset-shortfall-from-us-aid-cuts/a-71607477) (DW (English))
@@ -1478,8 +1470,6 @@ Source: [News API](https://newsapi.org/)
 - [Ocho mujeres que cambiaron la farmacología](https://www.elperiodico.com/es/ciencia/20250212/ocho-mujeres-cambiaron-farmacologia-114232542) (Elperiodico.com)
 
 - [AI and public health issues in contemporary Nigeria - MediaLord.Ng](https://medialord.ng/ai-and-public-health-issues-in-contemporary-nigeria/) (Medialord.ng)
-
-- [How to strengthen malaria prevention through community](https://www.standardmedia.co.ke/health/health-opinion/article/2001511362/how-to-strengthen-malaria-prevention-through-community) (Standard Digital)
 
 ## 25-7 (hpai)
 
@@ -1604,14 +1594,6 @@ Source: [News API](https://newsapi.org/)
 - [В мире: «Яичный кризис» доказывает превосходство соседей над США](https://vz.ru/world/2025/2/10/1313606.html) (Vz.ru)
 
 - [Rikligt med fågelinfluensafall i Europa – men svårt att säga hur situationen blir i Finland](https://yle.fi/a/7-10072315) (YLE News)
-
-- [Qual o risco de a gripe aviária virar uma nova pandemia entre humanos?](https://catracalivre.com.br/saude-bem-estar/qual-o-risco-de-a-gripe-aviaria-virar-uma-nova-pandemia-entre-humanos/) (Catracalivre.com.br)
-
-- [Onde elettromagnetiche per "abbattere" l'aviaria: ecco come funzionano](https://www.ilgiornale.it/news/rimedi-naturali/aviaria-abbattuta-dalle-onde-elettromagnetiche-studio-2435169.html) (Ilgiornale.it)
-
-- [אירוע חריג בארה"ב: פרות נדבקו בזן חדש של שפעת העופות](https://www.ynet.co.il/health/article/rkq00oahtkx) (Ynet)
-
-- [Zamykają targi, wybijają zakażone zwierzęta. Ptasia grypa rozprzestrzenia się w Nowym Jorku](https://tvn24.pl/tvnmeteo/swiat/zamykaja-targi-wybijaja-zakazone-zwierzeta-ptasia-grypa-rozprzestrzenia-sie-w-nowym-jorku-st8298168) (Tvn24.pl)
 
 ## 25-7 (dengue)
 
@@ -1745,6 +1727,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-12 (meningitis)
 
+- [Meningitis kills six Kebbi varsity students](https://punchng.com/meningitis-kills-six-kebbi-varsity-students/) (The Punch)
+
 - [Elmira College hosts meningitis outbreak simulation to help nursing students plan public health emergency response](https://www.weny.com/story/52591326/elmira-college-hosts-meningitis-outbreak-simulation-to-help-nursing-students-plan-public-health-emergency-response) (WENY-TV)
 
 - [Death toll from meningitis outbreak in NW Nigeria rises to 56](https://www.thestar.com.my/news/world/2025/03/20/death-toll-from-meningitis-outbreak-in-nw-nigeria-rises-to-56) (The Star Online)
@@ -1758,6 +1742,8 @@ Source: [News API](https://newsapi.org/)
 - [Diphtheria: Paediatricians demand scale-up of immunisation](https://punchng.com/diphtheria-paediatricians-demand-scale-up-of-immunisation/) (The Punch)
 
 ## 25-12 (measles)
+
+- [Three measles exposures confirmed in Virginia](https://fredericksburg.com/news/local/article_56634052-ebf6-4f9d-ab58-11e0dfa0a1a3.html) (Fredericksburg.com)
 
 - [Shrug](https://www.lawyersgunsmoneyblog.com/2025/03/shrug) (Lawyersgunsmoneyblog.com)
 
@@ -2021,6 +2007,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-12 (h5n1)
 
+- [Імпортний порятунок: як США намагаються приборкати ціни на яйця](https://www.bbc.com/ukrainian/articles/ce8mkkx3levo) (BBC News)
+
 - [¿Por qué el secretario de Salud de EU quiere dejar que la gripe aviar se propague?](https://www.excelsior.com.mx/global/secretario-salud-kennedy-dejar-gripe-aviar-propague/1706403) (Excelsior.com.mx)
 
 - [Current antivirals may be less effective against severe infection caused by bird flu virus in cows' milk: Study](https://timesofindia.indiatimes.com/science/current-antivirals-may-be-less-effective-against-severe-infection-caused-by-bird-flu-virus-in-cows-milk-study/articleshow/119316309.cms) (The Times of India)
@@ -2132,6 +2120,8 @@ Source: [News API](https://newsapi.org/)
 - [Alarma en la Antártida: Confirman un brote masivo de gripe aviar en varias especies](https://es.gizmodo.com/alarma-en-la-antartida-confirman-un-brote-masivo-de-gripe-aviar-en-varias-especies-2000154626) (Gizmodo.com)
 
 ## 25-12 (dengue)
+
+- [El MSP confirmó un caso de dengue autóctono en Montevideo: estas son sus recomendaciones](https://www.montevideo.com.uy/Salud/El-MSP-confirmo-un-caso-de-dengue-autoctono-en-Montevideo-estas-son-sus-recomendaciones-uc918420) (Montevideo.com.uy)
 
 - [Câmara aprova lei com nome de menino que morreu por erro médico em SP](https://www.metropoles.com/sao-paulo/camara-aprova-lei-com-nome-de-menino-que-morreu-por-erro-medico-em-sp) (Metropoles.com)
 

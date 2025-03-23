@@ -1,8 +1,80 @@
 {
-  "last_updated": "2025-03-23 07:06",
-  "count_articles_total": 1497,
-  "count_articles_new": 15,
+  "last_updated": "2025-03-23 19:06",
+  "count_articles_total": 1492,
+  "count_articles_new": 4,
   "articles": [
+    {
+      "id": 19581,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": "http://www.facebook.com/bbcnews",
+      "title": "\u0406\u043c\u043f\u043e\u0440\u0442\u043d\u0438\u0439 \u043f\u043e\u0440\u044f\u0442\u0443\u043d\u043e\u043a: \u044f\u043a \u0421\u0428\u0410 \u043d\u0430\u043c\u0430\u0433\u0430\u044e\u0442\u044c\u0441\u044f \u043f\u0440\u0438\u0431\u043e\u0440\u043a\u0430\u0442\u0438 \u0446\u0456\u043d\u0438 \u043d\u0430 \u044f\u0439\u0446\u044f",
+      "description": "\u0410\u0434\u043c\u0456\u043d\u0456\u0441\u0442\u0440\u0430\u0446\u0456\u044f \u0422\u0440\u0430\u043c\u043f\u0430 \u043f\u0456\u0434\u0442\u0432\u0435\u0440\u0434\u0438\u043b\u0430 \u043f\u043b\u0430\u043d\u0438 \u0456\u043c\u043f\u043e\u0440\u0442\u0443\u0432\u0430\u0442\u0438 \u043c\u0456\u043b\u044c\u0439\u043e\u043d\u0438 \u044f\u0454\u0446\u044c \u0456\u0437 \u0422\u0443\u0440\u0435\u0447\u0447\u0438\u043d\u0438 \u0442\u0430 \u041f\u0456\u0432\u0434\u0435\u043d\u043d\u043e\u0457 \u041a\u043e\u0440\u0435\u0457, \u0430\u0431\u0438 \u043f\u0440\u0438\u0431\u043e\u0440\u043a\u0430\u0442\u0438 \u0440\u0456\u0437\u043a\u0435 \u0437\u0440\u043e\u0441\u0442\u0430\u043d\u043d\u044f \u0446\u0456\u043d \u043d\u0430 \u0446\u0435\u0439 \u043f\u0440\u043e\u0434\u0443\u043a\u0442 \u0432 \u0421\u0428\u0410.",
+      "url": "https://www.bbc.com/ukrainian/articles/ce8mkkx3levo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_ukrainian/4c3f/live/bc6cb3b0-071a-11f0-94d4-6f954f5dcfa3.png",
+      "publishedAt": "2025-03-22 12:58:39",
+      "content": ", Getty Images , - , . \" \", - . , , , , . , , AFP. \" , \", - , . , , , : \" , , , , \". , Getty Images , , 1 , . 500 , 400 100 . , , 75% . \"\" H5N1 , 2022 156 , . , , , . , - , . \"\u2026 [+37 chars]",
+      "retrievedAt": "2025-03-23 19:06:00.294069",
+      "internal_id": "373f3d13b89afe8a9e82b08bd53fb7931725489c42db5ae047d1c4ac60efa7ed",
+      "publishedAtLabel": "Mar 22"
+    },
+    {
+      "id": 19580,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Fredericksburg.com",
+      "author": "CATHY DYSON The Free Lance\u2013Star",
+      "title": "Three measles exposures confirmed in Virginia",
+      "description": "The cases involved Maryland residents, but the exposure took place in Northern Virginia this month.",
+      "url": "https://fredericksburg.com/news/local/article_56634052-ebf6-4f9d-ab58-11e0dfa0a1a3.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/d/98/d9850065-9a60-5bfa-8b8a-ffa169fc62a1/67deb263ac09a.preview.jpg?crop=920%2C483%2C0%2C11",
+      "publishedAt": "2025-03-22 12:50:00",
+      "content": "There have been two additional confirmed cases of measles among people who traveled through Northern Virginia on March 5 and 14, according to the Virginia Department of Health. They are in addition \u2026 [+3107 chars]",
+      "retrievedAt": "2025-03-23 19:05:59.825194",
+      "internal_id": "f6d0a725567a6aaa07f2b6b18cf4e6484de66f14c50152883e3390d567240a44",
+      "publishedAtLabel": "Mar 22"
+    },
+    {
+      "id": 19582,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "El MSP confirm\u00f3 un caso de dengue aut\u00f3ctono en Montevideo: estas son sus recomendaciones",
+      "description": "Equipos de epidemiolog\u00eda de la cartera y de la IM recorrer\u00e1n los domicilios de la zona afectada; identificar\u00e1n criaderos y los eliminar\u00e1n. Equipos de epidemiolog\u00eda de la cartera y de la IM recorrer\u00e1n los domicilios de la zona afectada; identificar\u00e1n criaderos\u2026",
+      "url": "https://www.montevideo.com.uy/Salud/El-MSP-confirmo-un-caso-de-dengue-autoctono-en-Montevideo-estas-son-sus-recomendaciones-uc918420",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202402/_W933_80/871745.jpg",
+      "publishedAt": "2025-03-22 12:34:00",
+      "content": "El Ministerio de Salud P\u00fablica (MSP) confirm\u00f3 un caso de dengue aut\u00f3ctono en Montevideo. La cartera record\u00f3 que no es la primera vez que se detecta un caso de este tipo en el pa\u00eds. Equipos de epid\u2026 [+758 chars]",
+      "retrievedAt": "2025-03-23 19:06:00.518184",
+      "internal_id": "cb96f472446257717cf74e455e4a0fe108361819eccf6d552b915f095a9f9531",
+      "publishedAtLabel": "Mar 22"
+    },
+    {
+      "id": 19583,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Animashaun Salman",
+      "title": "Meningitis kills six Kebbi varsity students",
+      "description": "The management of Kebbi State University of Science and Technology, Aliero, has confirmed the death of six students due to an outbreak of cerebrospinal meningitis. In a statement made available to our correspondent in the state on Saturday, the university\u2019s P\u2026",
+      "url": "https://punchng.com/meningitis-kills-six-kebbi-varsity-students/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2021/06/17184625/Kebbi-State-map.jpg",
+      "publishedAt": "2025-03-22 10:22:27",
+      "content": "The management of Kebbi State University of Science and Technology, Aliero, has confirmed the death of six students due to an outbreak of cerebrospinal meningitis. In a statement made available to o\u2026 [+2095 chars]",
+      "retrievedAt": "2025-03-23 19:06:00.708052",
+      "internal_id": "24aebdd560e84f31c535d6c8c3da947b4009edc680571c2c10f83b5580e6f21c",
+      "publishedAtLabel": "Mar 22"
+    },
     {
       "id": 19578,
       "query": [
@@ -26829,168 +26901,6 @@
       "content": "Ett fall av f\u00e5gelinfluensa har redan konstaterats i Finland i \u00e5r. En kaja med f\u00e5gelinfluensa av typen H5N1 hittades i \u00c5bo f\u00f6r n\u00e5gra veckor sedan. Det \u00e4r det f\u00f6rsta fallet i Finland p\u00e5 ungef\u00e4r ett \u00e5r.\u2026 [+4365 chars]",
       "retrievedAt": "2025-02-11 07:06:27.930823",
       "internal_id": "b4f83a2513031d4ef0da8eaaa6ff79642da864f284e9ac63bd9cb2254af91cb6",
-      "publishedAtLabel": "Feb 9"
-    },
-    {
-      "id": 18079,
-      "query": [
-        "measles"
-      ],
-      "source_id": "newsweek",
-      "source_name": "Newsweek",
-      "author": "Jordan King",
-      "title": "Texas Measles Cases Hit County With Low Vaccination Rates",
-      "description": "A rapid rise in and around rural Gaines County on the border with New Mexico has seen 14 confirmed and six probable cases.",
-      "url": "https://www.newsweek.com/measles-outbreak-texas-gaines-county-vaccination-rate-2028453",
-      "urlToImage": "https://d.newsweek.com/en/full/2584403/vaccine-file-photo.jpg",
-      "publishedAt": "2025-02-09 17:15:07",
-      "content": "A rise in cases of measles has hit a rural area in and around Gaines County, in Texas, where the measles vaccination rate is low. The Texas Department of State Health Services reported that there we\u2026 [+2521 chars]",
-      "retrievedAt": "2025-02-10 19:05:46.575319",
-      "internal_id": "89953695e495b9f78e090944e165c98f5f888605207028e7bc998691281df310",
-      "publishedAtLabel": "Feb 9"
-    },
-    {
-      "id": 18090,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Catracalivre.com.br",
-      "author": "Andr\u00e9 Nicolau",
-      "title": "Qual o risco de a gripe avi\u00e1ria virar uma nova pandemia entre humanos?",
-      "description": "A gripe avi\u00e1ria \u00e9 uma das doen\u00e7as que mais tem chamado a aten\u00e7\u00e3o de autoridades em sa\u00fade no mundo. Desde o in\u00edcio de 2024, a infec\u00e7\u00e3o causada pelo v\u00edrus influenza A (H5N1) vem se espalhando principalmente nos Estados Unidos. Por l\u00e1, j\u00e1 atinge aves dom\u00e9sticas,\u2026",
-      "url": "https://catracalivre.com.br/saude-bem-estar/qual-o-risco-de-a-gripe-aviaria-virar-uma-nova-pandemia-entre-humanos/",
-      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1280,h=680,fit=cover,format=jpeg/wp-content/uploads/2025/02/depositphotos-241487282-s.jpg",
-      "publishedAt": "2025-02-09 17:00:06",
-      "content": "Desde 2003, foram notificadas \u00e0 OMS mais de 950 infec\u00e7\u00f5es humanas causadas pelo v\u00edrus H5N1 no mundo ChinaImages/Depositphotos - Shen chunchen - Imaginechina A gripe avi\u00e1ria \u00e9 uma das doen\u00e7as que mai\u2026 [+4150 chars]",
-      "retrievedAt": "2025-02-11 07:06:27.896365",
-      "internal_id": "7569fe4c8bdf364e9be829007ee1a1c3a6b9376fef0175beb15d858c22ea5119",
-      "publishedAtLabel": "Feb 9"
-    },
-    {
-      "id": 18080,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Newsbreak.com",
-      "author": "Niamh Kirk",
-      "title": "Measles outbreak spreads as health officials urge anyone who hasn't been vaccinated to get jabbed - NewsBreak",
-      "description": "Health officials have urged anyone in the area who hasn't been vaccinated, both adults and children to get a dose immediately due to the alarming rise in m",
-      "url": "https://www.newsbreak.com/share/3798078238417-measles-outbreak-spreads-as-health-officials-urge-anyone-who-hasn-t-been-vaccinated-to-get-jabbed?s=a2&share_destination_id=NTMxMzc4NDEtMTczOTExODU1MjI2Ng%3D%3D&pd=03axZxIg&hl=en_US&send_time=1739118552&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.6.1%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_model_exp_25q1-v8%2Cns_foryou_blend_exp_25q1-v8%2Cns_foryou_rank_exp_25q1-v6%2Cns_foryou_recall_exp_25q1-v7%2Cns_push_exp_rt_bucketv12-v8",
-      "urlToImage": "https://img.particlenews.com/img/id/1Ndizs_0yl1VL9M00",
-      "publishedAt": "2025-02-09 16:29:39",
-      "content": "Health officials are concerned over a measles outbreak in a rural area of West Texas with 14 confirmed cases. Investigations are ongoing after the state health department shared a health alert tha\u2026 [+2405 chars]",
-      "retrievedAt": "2025-02-10 19:05:46.627294",
-      "internal_id": "42627147313af21d999e8ad512249f13db2d8aae8e13fa3c48f6b275415aae12",
-      "publishedAtLabel": "Feb 9"
-    },
-    {
-      "id": 18082,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Newsbreak.com",
-      "author": "Niamh Kirk",
-      "title": "Measles outbreak spreads as health officials urge anyone who hasn't been vaccinated to get jabbed - NewsBreak",
-      "description": "Health officials have urged anyone in the area who hasn't been vaccinated, both adults and children to get a dose immediately due to the alarming rise in m",
-      "url": "https://www.newsbreak.com/share/3798078238417-measles-outbreak-spreads-as-health-officials-urge-anyone-who-hasn-t-been-vaccinated-to-get-jabbed?_f=app_share&pd=04jUeKTH&lang=en_US&send_time=1739109677&trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.6.0.7%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_model_exp_25q1-v9%2Cns_push_exp_rt_bucketv12-v1%2Cns_foryou_rank_exp_25q1-v2%2Cns_foryou_blend_exp_25q1-control%2Cns_foryou_recall_exp_25q1-v5&s=i2",
-      "urlToImage": "https://img.particlenews.com/img/id/1Ndizs_0yl1VL9M00",
-      "publishedAt": "2025-02-09 14:01:44",
-      "content": "Health officials are concerned over a measles outbreak in a rural area of West Texas with 14 confirmed cases. Investigations are ongoing after the state health department shared a health alert tha\u2026 [+2405 chars]",
-      "retrievedAt": "2025-02-10 19:05:46.644322",
-      "internal_id": "fce248a4a86926cc1385bfc086de4e11ec54644cfc8438d01e09fe7109d8f939",
-      "publishedAtLabel": "Feb 9"
-    },
-    {
-      "id": 18084,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Ilgiornale.it",
-      "author": "redazione@ilgiornale-web.it (Alessandro Ferro)",
-      "title": "Onde elettromagnetiche per \"abbattere\" l'aviaria: ecco come funzionano",
-      "description": "Una ricerca italiana ha scoperto il metodo pi\u00f9 efficace per \"spegenere\" in maniera quasi definitiva la capacit\u00e0 di contagio del virus dell'aviaria ma anche di altri agenti patogeni: ecco la tecnica e le implicazioni future",
-      "url": "https://www.ilgiornale.it/news/rimedi-naturali/aviaria-abbattuta-dalle-onde-elettromagnetiche-studio-2435169.html",
-      "urlToImage": "https://img.ilgcdn.com/sites/default/files/styles/social/public/foto/2020/02/02/1580650141-pollame-giornale.jpg?_=1580650141",
-      "publishedAt": "2025-02-09 10:34:52",
-      "content": "\u00c8 soprattutto negli Stati Uniti che il virus H5N1 dell'aviaria fa pi\u00f9 paura con il contagio di centinaia di capi d'allevamento e i primi casi anche sull'uomo. Grazie a un team di ricerca italiano del\u2026 [+2625 chars]",
-      "retrievedAt": "2025-02-10 19:05:47.479837",
-      "internal_id": "bd2a99a60a8504f00540530bb3e348cc6ef967f08e7714630d39b8dfb0e308ed",
-      "publishedAtLabel": "Feb 9"
-    },
-    {
-      "id": 18086,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Standard Digital",
-      "author": "Dennis Kinyua",
-      "title": "How to strengthen malaria prevention through community",
-      "description": "The efforts of CHPs have acquired trust from the community, and more people are embracing malaria prevention practices.",
-      "url": "https://www.standardmedia.co.ke/health/health-opinion/article/2001511362/how-to-strengthen-malaria-prevention-through-community",
-      "urlToImage": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/K14sMagZygOBRv4YGzf3cZWX0jBz8yhbKVn2xS1a.jpg",
-      "publishedAt": "2025-02-09 10:01:31",
-      "content": "CHPs dialogue meeting in Bukika Community Health Unit, Busia County. [Courtesy] On a sunny afternoon under a tree, a group of Community Health Promoters and local community members have gathered. Th\u2026 [+3280 chars]",
-      "retrievedAt": "2025-02-10 19:05:49.133105",
-      "internal_id": "5574b882878f94ae90029240cf93875cff0098d42d49a5adf7050ced404aa17c",
-      "publishedAtLabel": "Feb 9"
-    },
-    {
-      "id": 18085,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "ynet",
-      "source_name": "Ynet",
-      "author": "\u05e6\u05d5\u05e8 \u05d2\u05d5\u05d0\u05d8\u05d4",
-      "title": "\u05d0\u05d9\u05e8\u05d5\u05e2 \u05d7\u05e8\u05d9\u05d2 \u05d1\u05d0\u05e8\u05d4\"\u05d1: \u05e4\u05e8\u05d5\u05ea \u05e0\u05d3\u05d1\u05e7\u05d5 \u05d1\u05d6\u05df \u05d7\u05d3\u05e9 \u05e9\u05dc \u05e9\u05e4\u05e2\u05ea \u05d4\u05e2\u05d5\u05e4\u05d5\u05ea",
-      "description": "\u05e0\u05d2\u05d9\u05e3 \u05e9\u05e4\u05e2\u05ea \u05d4\u05e2\u05d5\u05e4\u05d5\u05ea \u05de\u05de\u05e9\u05d9\u05da \u05dc\u05d4\u05ea\u05e4\u05e9\u05d8 \u05d1\u05d0\u05e8\u05d4\"\u05d1, \u05db\u05d0\u05e9\u05e8 \u05d6\u05df \u05d7\u05d3\u05e9, D1.1, \u05d6\u05d5\u05d4\u05d4 \u05d1\u05e2\u05d3\u05e8\u05d9 \u05d1\u05e7\u05e8 \u05dc\u05d9\u05d9\u05e6\u05d5\u05e8 \u05d7\u05dc\u05d1. \u05d4\u05d6\u05df \u05d4\u05d7\u05d3\u05e9 \u05de\u05e2\u05d5\u05e8\u05e8 \u05d3\u05d0\u05d2\u05d4 \u05d1\u05e7\u05e8\u05d1 \u05de\u05d5\u05de\u05d7\u05d9\u05dd \u05d1\u05e9\u05dc \u05e4\u05d5\u05d8\u05e0\u05e6\u05d9\u05d0\u05dc \u05d4\u05d4\u05ea\u05e4\u05e9\u05d8\u05d5\u05ea \u05e9\u05dc\u05d5 \u05d5\u05d4\u05d7\u05e9\u05e9 \u05de\u05e4\u05e0\u05d9 \u05de\u05d5\u05d8\u05e6\u05d9\u05d5\u05ea \u05e0\u05d5\u05e1\u05e4\u05d5\u05ea. \u05de\u05e9\u05e8\u05d3 \u05d4\u05d7\u05e7\u05dc\u05d0\u05d5\u05ea \u05d4\u05d0\u05de\u05e8\u05d9\u05e7\u05e0\u05d9 \u05e0\u05d5\u05e7\u05d8 \u05d1\u05e6\u05e2\u05d3\u05d9\u05dd \u05dc\u05d1\u05dc\u05d9\u05de\u05ea \u05d4\u05d4\u05ea\u05e4\u05e8\u05e6\u05d5\u05ea. \u05d3\"\u05e8 \u05e2\u05e0\u05ea \u05e9\u05d8\u05e8\u05df \u05de\u05d4\u05de\u05db\u05d5\u05df \u05dc\u05de\u05d7\u05dc\u05d5\u05ea \u05d6\u05d9\u05d4\u05d5\u05de\u05d9\u05d5\u05ea \u05d1\u05e8\u05de\u2026",
-      "url": "https://www.ynet.co.il/health/article/rkq00oahtkx",
-      "urlToImage": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/02/09/r1UDre8tJx/r1UDre8tJx_0_37_1000_563_0_large.jpg",
-      "publishedAt": "2025-02-09 09:53:26",
-      "content": ", H5N1 65. , , , 67 , \". 100 . , D1.1, ( ). , 957 2024 , B3.13. \" 2024 , \", \" , \". \" , . , , \". , , . , , . \" , \", . \" , , \". \" , \" , . , . , , . , '' , \". \" , , . \" , \". , , D1.1 , , , , \" , \u2026 [+5 chars]",
-      "retrievedAt": "2025-02-10 19:05:47.526190",
-      "internal_id": "f262e5ebc452ca85983486249de514a7ab6f72220ed5bd02dec35afe19b93a81",
-      "publishedAtLabel": "Feb 9"
-    },
-    {
-      "id": 18083,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Tvn24.pl",
-      "author": "kw",
-      "title": "Zamykaj\u0105 targi, wybijaj\u0105 zaka\u017cone zwierz\u0119ta. Ptasia grypa rozprzestrzenia si\u0119 w Nowym Jorku",
-      "description": "Ptasia grypa niepokoi w\u0142adze Nowego Jorku. Po prewencyjnych kontrolach na targach \u017cywego drobiu stwierdzono kilka przypadk\u00f3w zaka\u017cenia wirusem H5N1 u ptactwa. Zwierz\u0119ta wybito, by choroba nie rozprzestrzeni\u0142a si\u0119 jeszcze bardziej.",
-      "url": "https://tvn24.pl/tvnmeteo/swiat/zamykaja-targi-wybijaja-zakazone-zwierzeta-ptasia-grypa-rozprzestrzenia-sie-w-nowym-jorku-st8298168",
-      "urlToImage": "https://tvn24.pl/najnowsze/cdn-zdjecie-2899184-ptasia-grypa-rozprzestrzenia-sie-w-nowym-jorku-ph8298173/alternates/LANDSCAPE_1280",
-      "publishedAt": "2025-02-09 09:52:06",
-      "content": "Ptasia grypa niepokoi wadze Nowego Jorku. Po prewencyjnych kontrolach na targach ywego drobiu stwierdzono kilka przypadk\u00f3w zakaenia wirusem H5N1 u ptactwa. Zwierzta wybito, by choroba nie rozprzestrz\u2026 [+1732 chars]",
-      "retrievedAt": "2025-02-10 19:05:47.465152",
-      "internal_id": "c76dcf24acc5ff4a12a581e04e460c48f2f6ac1bb11a219401df49bd2b73e00b",
-      "publishedAtLabel": "Feb 9"
-    },
-    {
-      "id": 18081,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Newsbreak.com",
-      "author": "Niamh Kirk",
-      "title": "Measles outbreak spreads as health officials urge anyone who hasn't been vaccinated to get jabbed - NewsBreak",
-      "description": "Health officials have urged anyone in the area who hasn't been vaccinated, both adults and children to get a dose immediately due to the alarming rise in m",
-      "url": "https://www.newsbreak.com/share/3798078238417-measles-outbreak-spreads-as-health-officials-urge-anyone-who-hasn-t-been-vaccinated-to-get-jabbed?s=a2&share_destination_id=MjE0OTg1NzExLTE3MzkxNDQyMzc1NTc%3D&pd=0EY3bTgT&hl=en_US&send_time=1739144237&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.4.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_recall_exp_25q1-v6%2Cns_foryou_model_exp_25q1-v6%2Cns_foryou_blend_exp_25q1-v3%2Cns_foryou_rank_exp_25q1-v5",
-      "urlToImage": "https://img.particlenews.com/img/id/1Ndizs_0yl1VL9M00",
-      "publishedAt": "2025-02-09 09:51:50",
-      "content": "Health officials are concerned over a measles outbreak in a rural area of West Texas with 14 confirmed cases. Investigations are ongoing after the state health department shared a health alert tha\u2026 [+2405 chars]",
-      "retrievedAt": "2025-02-10 19:05:46.635549",
-      "internal_id": "43990b2ff2a60d8e469755b7f9eccd51bdc6897f44dd4d5e14d6417bef471fc7",
       "publishedAtLabel": "Feb 9"
     }
   ]
