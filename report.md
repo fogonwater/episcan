@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 33
-- **Last harvest:** 2025-03-22 19:05
-- **Most recent article:** 2025-03-21 19:04:13
+- **New articles in last harvest:** 15
+- **Last harvest:** 2025-03-23 07:06
+- **Most recent article:** 2025-03-22 03:00:13
 
 ---
 
@@ -10,23 +10,23 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 25-10 | 25-11 | 25-12 | 25-6 | 25-7 | 25-8 | 25-9 | Total |
-|--|-|-|-|-|-|-|-|-|
-| measles | 142 | 133 | 85 | 24 | 72 | 83 | 162 | 701 |
-| h5n1 | 23 | 39 | 53 | 67 | 55 | 54 | 42 | 333 |
-| dengue | 8 | 12 | 15 | 33 | 37 | 57 | 30 | 192 |
-| malaria | 29 | 22 | 17 | 25 | 12 | 7 | 20 | 132 |
-| mpox | 14 | 15 | 8 | 26 | 18 | 15 | 26 | 122 |
-| meningitis | 4 | 9 | 6 | 1 | 12 | 11 | 7 | 50 |
-| chikungunya | 6 | 1 | 17 | 8 | 5 | 3 | 7 | 47 |
-| hpai | 10 | 3 | 12 | 3 | 9 | 5 | 4 | 46 |
-| rabies | 3 | 8 | 3 | 4 | 5 | 4 | 2 | 29 |
-| zika | 3 | 0 | 2 | 6 | 2 | 6 | 2 | 21 |
-| typhoid | 3 | 8 | 0 | 2 | 3 | 0 | 4 | 20 |
-| pertussis | 0 | 5 | 0 | 3 | 3 | 2 | 0 | 13 |
-| yersinia | 1 | 2 | 2 | 0 | 5 | 0 | 2 | 12 |
-| leptospirosis | 3 | 0 | 1 | 0 | 0 | 2 | 0 | 6 |
-| shigellosis | 3 | 0 | 0 | 0 | 0 | 0 | 1 | 4 |
+| Disease | 25-10 | 25-11 | 25-12 | 25-7 | 25-8 | 25-9 | Total |
+|--|-|-|-|-|-|-|-|
+| measles | 142 | 133 | 97 | 72 | 83 | 162 | 689 |
+| h5n1 | 23 | 39 | 55 | 55 | 54 | 42 | 268 |
+| dengue | 8 | 12 | 15 | 37 | 57 | 30 | 159 |
+| malaria | 29 | 22 | 17 | 12 | 7 | 20 | 107 |
+| mpox | 14 | 15 | 8 | 18 | 15 | 26 | 96 |
+| meningitis | 4 | 9 | 6 | 12 | 11 | 7 | 49 |
+| hpai | 10 | 3 | 12 | 9 | 5 | 4 | 43 |
+| chikungunya | 6 | 1 | 17 | 5 | 3 | 7 | 39 |
+| rabies | 3 | 8 | 3 | 5 | 4 | 2 | 25 |
+| typhoid | 3 | 8 | 0 | 3 | 0 | 4 | 18 |
+| zika | 3 | 0 | 2 | 2 | 6 | 2 | 15 |
+| yersinia | 1 | 2 | 2 | 5 | 0 | 2 | 12 |
+| pertussis | 0 | 5 | 1 | 3 | 2 | 0 | 11 |
+| leptospirosis | 3 | 0 | 1 | 0 | 2 | 0 | 6 |
+| shigellosis | 3 | 0 | 0 | 0 | 0 | 1 | 4 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -1701,434 +1701,6 @@ Source: [News API](https://newsapi.org/)
 
 - [SP registra primeira morte por chikungunya em 2025](https://valor.globo.com/brasil/noticia/2025/02/12/sp-registra-primeira-morte-por-chikungunya-em-2025.ghtml) (Globo)
 
-## 25-6 (zika)
-
-- [La plitidepsina (Aplidin) de PharmaMar demuestra potencial frente al covid, el MERS, el zika, el VRS, la hepatitis C y el herpes](https://www.lavozdegalicia.es/noticia/sociedad/2025/02/07/plitidepsina-aplidin-pharmamar-demuestrapotencial-frente-covid-mers-zika-vrs-hepatitis-c-herpes/00031738927344721102398.htm) (Lavozdegalicia.es)
-
-- [Un fármaco antitumoral es eficaz para frenar múltiples virus, incluido el Covid-19](https://www.infosalus.com/salud-investigacion/noticia-estudio-descubre-farmaco-antitumoral-efectivo-contra-varios-virus-20250207115253.html) (Infosalus.com)
-
-- [Un estudio descubre que un fármaco antitumoral es efectivo contra varios virus](https://www.europapress.es/catalunya/noticia-estudio-descubre-farmaco-antitumoral-efectivo-contra-varios-virus-20250207115056.html) (Europapress.es)
-
-- [Un fármaco oncológico que es eficaz contra el covid también puede combatir el Zika, el herpes o la hepatitis C](https://www.elperiodico.com/es/sanidad/20250207/farmaco-cancer-eficaz-covid-combatir-herpes-zika-hepatitis-c-vrs-114061335) (Elperiodico.com)
-
-- [Comprehensive proteolytic profiling of Aedes aegypti mosquito midgut extracts: Unraveling the blood meal protein digestion system](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012555) (Plos.org)
-
-- [Dengue: cuidados devem ser redobrados no período chuvoso](https://www.metropoles.com/conteudo-especial/dengue-cuidados-devem-ser-redobrados-no-periodo-chuvoso) (Metropoles.com)
-
-## 25-6 (typhoid)
-
-- [Get vaccinated for typhoid, MOH tells food handlers at fairs, expos](https://www.thestar.com.my/news/nation/2025/02/07/get-vaccinated-for-typhoid-moh-tells-food-handlers-at-fairs-expos) (The Star Online)
-
-- [Bacolod: Negrenses warned of increasing typhoid fever cases](https://rpnradio.com/bacolod-negrenses-warned-of-increasing-typhoid-fever-cases/) (Rpnradio.com)
-
-## 25-6 (rabies)
-
-- [SC to hear PIL seeking right to passive euthanasia for rabies patients on Monday](https://economictimes.indiatimes.com/news/india/sc-to-hear-pil-seeking-right-to-passive-euthanasia-for-rabies-patients-on-monday/articleshow/118054003.cms) (The Times of India)
-
-- [Virginia Department of Health shares more on rabid skunk investigation in Lynchburg](https://wset.com/news/local/virginia-department-of-health-shares-more-on-skunk-with-rabies-investigation-in-lynchburg-vdh-st-clair-richmond-prevention-february-2025) (WSET)
-
-- [Challenging a paradigm: Staggered versus single-pulse mass dog vaccination strategy for rabies elimination](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012780) (Plos.org)
-
-- [Can opossums contract rabies?](https://lifesciencesworld.com/can-opossums-contract-rabies/) (Lifesciencesworld.com)
-
-## 25-6 (pertussis)
-
-- [The Whooping Cough is Back! Humboldt Public Health Officials Urge Pertussis Vaccination as Local Cases Rise](https://lostcoastoutpost.com/2025/feb/6/whooping-cough-back-humboldt-public-health-officia/) (Lost Coast Outpost)
-
-- [First whooping cough death in Washington state since 2011 confirmed by CDC](https://www.khq.com/news/first-whooping-cough-death-in-washington-state-since-2011-confirmed-by-cdc/article_31d39520-e424-11ef-bedf-934a7c190434.html) (KHQ Right Now)
-
-- [The strange religion of vaccine worship](https://www.wnd.com/2025/02/the-strange-religion-of-vaccine-worship/) (Wnd.com)
-
-## 25-6 (mpox)
-
-- [Mpox explainer: All you need to know as more severe strain found in Ireland](https://www.independent.ie/irish-news/mpox-explainer-all-you-need-to-know-as-more-severe-strain-found-in-ireland/a2110359831.html) (Independent.ie)
-
-- [Baguio City: City Health ng Lungsod ng Baguio nagbigay ng balita sa kaso ng MPOX](https://rpnradio.com/baguio-city-city-health-ng-lungsod-ng-baguio-nagbigay-ng-balita-sa-kaso-ng-mpox/) (Rpnradio.com)
-
-- [South Sudan declares mpox outbreak with 1st case confirmed](https://www.thestar.com.my/news/world/2025/02/08/south-sudan-declares-mpox-outbreak-with-1st-case-confirmed) (The Star Online)
-
-- [В ВОЗ прокомментировали приостановку помощи США для ДРК](https://tass.ru/obschestvo/23082811) (Tass.ru)
-
-- [На востоке ДРК произошла вспышка холеры](https://tass.ru/obschestvo/23082793) (Tass.ru)
-
-- [Guidance: Mpox (monkeypox) contacts vaccination resources](https://www.gov.uk/government/publications/mpox-monkeypox-contacts-vaccination-resources) (Www.gov.uk)
-
-- [2 more in Baguio test positive for mpox, health officials urge caution](https://www.rappler.com/philippines/luzon/mpox-cases-baguio-health-officials-caution-february-7-2025/) (Rappler)
-
-- [First case of deadlier strain of mpox detected in Ireland after patient returns from abroad](https://www.independent.ie/irish-news/first-case-of-deadlier-strain-of-mpox-detected-in-ireland-after-patient-returns-from-abroad/a996093297.html) (Independent.ie)
-
-- [First case of Clade I mpox detected in Ireland as HSE says risk to public 'remains low'](https://www.thejournal.ie/mpox-ireland-6615837-Feb2025/) (TheJournal.ie)
-
-- [L’epidemia dimenticata](https://www.internazionale.it/magazine/2025/02/06/l-epidemia-dimenticata) (Internazionale.it)
-
-- [What happens now in countries where the U.S. was funding support services?](https://www.npr.org/2025/02/06/nx-s1-5286594/what-happens-now-in-countries-where-the-u-s-was-funding-support-services) (NPR)
-
-- [Les virus responsables des prochaines épidémies sont connus mais négligés](https://www.lemonde.fr/idees/article/2025/02/06/les-virus-responsables-des-prochaines-epidemies-sont-connus-mais-negliges_6533919_3232.html) (Le Monde)
-
-- [Ebola, Mpox, „Krankheit X“ in Afrika: Fünf Möglichkeiten, wie Europa wirklich helfen könnte](https://www.tagesspiegel.de/wissen/ebola-mpox-krankheit-x-in-afrika-funf-moglichkeiten-wie-europa-wirklich-helfen-konnte-13102162.html) (Der Tagesspiegel)
-
-- [Nijerya'yı saran salgınlar: Menenjit, Lassa ateşi, kolera, kızamık, sıtma](https://www.aa.com.tr/tr/dunya/nijeryayi-saran-salginlar-menenjit-lassa-atesi-kolera-kizamik-sitma/3472248) (Anadolu Agency)
-
-- [CDC Confirms Webpages Removed to Comply With Trump’s DEI Executive Orders](https://www.theepochtimes.com/health/cdc-confirms-webpages-removed-to-comply-with-trumps-dei-executive-orders-5804130) (Theepochtimes.com)
-
-- [Ejército: detectaron caso de viruela del mono próximo a contingente uruguayo en el Congo](https://www.montevideo.com.uy/Noticias/Ejercito-detectaron-caso-de-viruela-del-mono-proximo-a-contingente-uruguayo-en-el-Congo-uc914029) (Montevideo.com.uy)
-
-- [Mpox en RDC : les habitants d’un bidonville de Kinshasa en première ligne](https://theconversation.com/mpox-en-rdc-les-habitants-dun-bidonville-de-kinshasa-en-premiere-ligne-248564) (The Conversation Africa)
-
-- [NHS opens a further 12 mpox vaccination centres in England](https://www.bbc.co.uk/news/articles/clyn0lpyd7no) (BBC News)
-
-- [Trump friert USAID ein: Für Afrika besonders bitter](https://taz.de/Trump-friert-USAID-ein/!6067481/) (taz.de)
-
-- [Eastern DR Congo crisis increasing risk of mpox transmission, WHO chief warns](https://www.globalsecurity.org/military/library/news/2025/02/mil-250203-unnews03.htm) (Globalsecurity.org)
-
-- [Bavarian Nordic Reports Preliminary 2024 Financial Results in Line with Upgraded Guidance and Guides for 2025](https://www.globenewswire.com/news-release/2025/02/03/3019770/0/en/Bavarian-Nordic-Reports-Preliminary-2024-Financial-Results-in-Line-with-Upgraded-Guidance-and-Guides-for-2025.html) (GlobeNewswire)
-
-- [Bavarian Nordic offentliggør foreløbige resultater for 2024 på linje med de opjusterede forventninger samt guider for 2025](https://www.globenewswire.com/news-release/2025/02/03/3019770/0/da/Bavarian-Nordic-offentligg%C3%B8r-forel%C3%B8bige-resultater-for-2024-p%C3%A5-linje-med-de-opjusterede-forventninger-samt-guider-for-2025.html) (GlobeNewswire)
-
-- [Goma: advierten que la guerra podría provocar la expansión de la mpox](https://www.montevideo.com.uy/Salud/Goma-advierten-que-la-guerra-podria-provocar-la-expansion-de-la-mpox-uc913911) (Montevideo.com.uy)
-
-- [Eastern DR Congo crisis increasing risk of mpox transmission, WHO chief warns](https://news.un.org/en/story/2025/02/1159701) (UN News)
-
-- [New mpox vaccination site opens in Hull as part of centre rollout across England](https://www.hulldailymail.co.uk/news/health/new-mpox-vaccination-site-opens-9912870) (Hull Daily Mail)
-
-- [New mpox vaccination sites open across England for high-risk people](https://news.sky.com/story/new-mpox-vaccination-sites-open-across-england-for-high-risk-people-13302169) (Sky.com)
-
-## 25-6 (meningitis)
-
-- [Love Changes the Heart—More Than Metaphorically](https://www.theepochtimes.com/health/love-changes-the-heart-more-than-metaphorically-5804355) (Theepochtimes.com)
-
-## 25-6 (measles)
-
-- [Texas Measles Cases Hit Double Digits as Outbreak Continues to Raise Alarm](https://www.newsweek.com/texas-measles-cases-hit-double-digits-outbreak-raises-alarm-2028348) (Newsweek)
-
-- [Measles outbreak hits unvaccinated in Texas](https://www.rawstory.com/measles-outbreak-hits-unvaccinated-in-texas/) (Raw Story)
-
-- [Measles outbreak expands in West Texas around county with low vaccination rate (Deidre McPhillips/CNN)](https://www.memeorandum.com/250208/p13) (Memeorandum.com)
-
-- [Measles outbreak expands in West Texas around county with low vaccination rate | CNN](https://www.cnn.com/2025/02/07/health/west-texas-measles-outbreak/index.html) (CNN)
-
-- [Texas health authorities report 10 cases of measles in Gaines County](https://www.kcbd.com/2025/02/07/texas-health-authorities-report-10-cases-measles-gaines-county/) (KCBD)
-
-- [Measles Outbreak Mounts Among Children in One of Texas' Least Vaccinated Counties (Amy Maxmen/KFF Health News)](https://www.memeorandum.com/250207/p65) (Memeorandum.com)
-
-- [Measles Outbreak Mounts Among Children in One of Texas’ Least Vaccinated Counties](https://kffhealthnews.org/news/article/texas-measles-outbreak-gaines-county-public-health-measles-vaccine/) (Kffhealthnews.org)
-
-- [WA Health issue warning after person attended Drake’s Perth concert while infectious with measles](https://thewest.com.au/news/health/wa-health-issue-warning-after-person-attended-drakes-perth-concert-while-infectious-with-measles-c-17646737) (The West Australian)
-
-- [Trump Considers Labeling Migrants a Measles, Tuberculosis Risk (Wall Street Journal)](https://www.memeorandum.com/250205/p181) (Memeorandum.com)
-
-- [Trump Considers Labeling Migrants a Health Risk](https://politicalwire.com/2025/02/05/trump-considers-labeling-migrants-a-health-risk/) (Politicalwire.com)
-
-- [Province warns of 5 confirmed measles cases in southern Manitoba, connected to Ontario outbreak](https://www.cbc.ca/news/canada/manitoba/southern-manitoba-potential-measles-exposure-1.7450581) (CBC News)
-
-- [New Mexico health officials warn of potential measles threat](https://www.koat.com/article/new-mexico-measles-risk/63664724) (KOAT New Mexico)
-
-- [RFK Jr. Supporters Bolster His Nomination With Letter Signed By Crackpots And Quacks](https://www.wonkette.com/p/rfk-jr-supporters-bolster-his-nomination) (Wonkette.com)
-
-- [RFK Jr. misled the US Senate on measles deaths, Samoa's health chief says](https://abcnews.go.com/International/wireStory/rfk-jr-misled-us-senate-measles-deaths-samoas-118410888) (ABC News)
-
-- [Robert F Kennedy Jr: Top Samoan health says Senate was mislead about measles outbreak](https://thenightly.com.au/politics/us-politics/robert-f-kennedy-jr-top-samoan-health-says-senate-was-mislead-about-measles-outbreak-c-17607941) (Thenightly.com.au)
-
-- [RFK Jr. misled the US Senate on measles deaths, Samoa’s health chief says](https://www.bostonherald.com/2025/02/03/samoa-measles-deaths-rfk-jr/) (Boston Herald)
-
-- [RFK Jr. misled the US Senate on measles deaths, Samoa's health chief says - NewsBreak](https://www.newsbreak.com/share/3789397916193-rfk-jr-misled-the-us-senate-on-measles-deaths-samoa-s-health-chief-says?s=a2&share_destination_id=MjI5MTQ2MzUwLTE3Mzg2MjMzOTA2NTE%3D&pd=0FVTQsxU&hl=en_US&send_time=1738623390&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.4.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_blend_exp_25q1-v5%2Cns_foryou_model_exp_25q1-v9%2Cns_foryou_recall_exp_25q1-v8%2Cns_push_exp_rt_bucketv12-v7%2Cns_foryou_rank_exp_25q1-v1) (Newsbreak.com)
-
-- [RFK Jr. Slammed by Samoa's Top Health Official Over Measles Remarks](https://www.newsweek.com/rfk-jr-slammed-samoas-top-health-official-over-measles-remarks-2025549) (Newsweek)
-
-- [RFK Jr. misled the US Senate on measles deaths, Samoa's health chief says (Charlotte Graham-McLay/Associated Press)](https://www.memeorandum.com/250203/p130) (Memeorandum.com)
-
-- [RFK Jr. misled the US Senate on measles deaths, Samoa's health chief says - NewsBreak](https://www.newsbreak.com/share/3789397916193-rfk-jr-misled-the-us-senate-on-measles-deaths-samoa-s-health-chief-says?s=a99&share_destination_id=NzcwMTAzNjEtMTczODYxODQyMTI3OQ%3D%3D&pd=05D7ubgn&hl=en_US&send_time=1738618421&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.4.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_rank_exp_25q1-v3%2Cns_push_exp_rt_bucketv12-v2%2Cns_foryou_model_exp_25q1-v8%2Cns_foryou_blend_exp_25q1-v3%2Cns_foryou_recall_exp_25q1-v1) (Newsbreak.com)
-
-- [Samoa's Health Chief Says RFK Jr. Misled US Senate On Measles Deaths](https://www.huffpost.com/entry/ap-as-samoa-measles-kennedy_n_67a12e6ee4b09a02376045bb) (HuffPost)
-
-- [RFK Jr. misled the US Senate on measles deaths, Samoa's health chief says](https://abcnews.go.com/Technology/wireStory/rfk-jr-misled-us-senate-measles-deaths-samoas-118410890) (ABC News)
-
-- [Did RFK Jr. mislead the Senate on measles deaths in Samoa? The island nation's health chief says yes](https://www.seattlepi.com/news/world/article/did-rfk-jr-mislead-the-senate-on-measles-deaths-20139866.php) (seattlepi.com)
-
-- [Viral Vaccines Market Size is Projected to Reach USD 93.42 Billion by 2033, Growing at a CAGR of 8.4%: Straits Research](https://www.globenewswire.com/news-release/2025/02/03/3019614/0/en/Viral-Vaccines-Market-Size-is-Projected-to-Reach-USD-93-42-Billion-by-2033-Growing-at-a-CAGR-of-8-4-Straits-Research.html) (GlobeNewswire)
-
-## 25-6 (malaria)
-
-- [TB, malaria, newborn health services must restart, says USAID memo](https://www.gmanetwork.com/news/topstories/world/935675/tb-malaria-newborn-health-services-must-restart-says-usaid-memo/story/) (GMA News)
-
-- [Some urgent US aid programmes cleared to restart](https://www.bangkokpost.com/world/2956901/some-urgent-us-aid-programmes-cleared-to-restart) (Bangkok Post)
-
-- [TB, malaria, newborn health services must restart, says USAID memo](https://www.straitstimes.com/world/tb-malaria-newborn-health-services-must-restart-says-usaid-memo) (The Straits Times)
-
-- [Trump’s aid freeze keeps life-saving programs shut, sparks “mayhem”](https://www.thestar.com.my/news/world/2025/02/08/trumps-aid-freeze-keeps-life-saving-programs-shut-sparks-mayhem) (The Star Online)
-
-- ["Muchas personas morirán": los planes de Trump para cerrar USAID desatan el caos en la cooperación internacional](https://www.elperiodico.com/es/internacional/20250208/trump-plan-cierre-usaid-consecuencias-114092402) (Elperiodico.com)
-
-- [How USAID freeze could be the most catastrophic for women and girls](https://www.nbcnews.com/news/asian-america/trump-usaid-freeze-women-girls-risk-experts-warm-rcna190783) (NBC News)
-
-- [Trump's DEI order leaves academic researchers fearing for political influence over grants](https://economictimes.indiatimes.com/news/international/global-trends/trumps-dei-order-leaves-academic-researchers-fearing-for-political-influence-over-grants/articleshow/118053877.cms) (The Times of India)
-
-- [Trump administration says some global health aid aid can restart](https://www.statnews.com/2025/02/07/trump-usaid-malaria-tuberculosis-funding-restored-waiver-granted-foreign-aid-freeze/) (STAT)
-
-- [Nigerian govt inaugurates technical working group to tackle AIDS, Tuberculosis, Malaria](https://www.premiumtimesng.com/health/health-news/772636-nigerian-govt-inaugurates-technical-working-group-to-tackle-aids-tuberculosis-malaria.html) (Premium Times)
-
-- [Donald Trump’s USAID cuts and missing CDC data: How global health and aid are changing](https://economictimes.indiatimes.com/news/international/us/donald-trumps-usaid-cuts-and-missing-cdc-data-how-global-health-and-aid-are-changing/articleshow/118030242.cms) (The Times of India)
-
-- [Desarrollan un mapa del genoma del parásito de la malaria que puede contribuir al desarrollo de nuevas terapias](https://www.infosalus.com/salud-investigacion/noticia-desarrollan-mapa-genoma-parasito-malaria-puede-contribuir-desarrollo-nuevas-terapias-20250207175151.html) (Infosalus.com)
-
-- [Von Afrika nach Europa: Die verschlungenen Wege der Odyssee-Malaria](https://www.tagesspiegel.de/wissen/von-afrika-nach-europa-die-verschlungenen-wege-der-odyssee-malaria-13143958.html) (Der Tagesspiegel)
-
-- [Essential genome of malaria parasite Plasmodium knowlesi mapped](https://www.sciencedaily.com/releases/2025/02/250206152320.htm) (Science Daily)
-
-- [Guidance: Management of treatment failure (recrudescence) in falciparum malaria](https://www.gov.uk/government/publications/management-of-treatment-failure-recrudescence-in-falciparum-malaria) (Www.gov.uk)
-
-- [Improved limit of detection for zoonotic Plasmodium knowlesi and P. cynomolgi surveillance using reverse transcription for total nucleic acid preserved samples or dried blood spots](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012129) (Plos.org)
-
-- [U.S. aid cuts come at deadly moment for malaria control](https://www.japantimes.co.jp/news/2025/02/06/world/science-health/us-aid-cut-malaria-control-danger/) (The Japan Times)
-
-- [Okpehbolo unveils free malaria treatment in Edo](https://punchng.com/okpehbolo-unveils-free-malaria-treatment-in-edo/) (The Punch)
-
-- [Ebola, Mpox, „Krankheit X“ in Afrika: Fünf Möglichkeiten, wie Europa wirklich helfen könnte](https://www.tagesspiegel.de/wissen/ebola-mpox-krankheit-x-in-afrika-funf-moglichkeiten-wie-europa-wirklich-helfen-konnte-13102162.html) (Der Tagesspiegel)
-
-- [USAID upheaval is paralyzing global delivery of food and medicine](https://www.nbcnews.com/news/politics-news/trump-usaid-upheaval-paralyzing-global-delivery-food-medicine-rcna190565) (NBC News)
-
-- [A paradoxical population structure of var DBLα types in Africa](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012813) (Plos.org)
-
-- [Nigerian govt reacts as Trump's policies impact country's health programmes](https://www.premiumtimesng.com/news/top-news/771539-nigerian-govt-reacts-as-trumps-policies-impact-countrys-health-programmes.html) (Premium Times)
-
-- [‘A Gift To Our Enemies’: Ex-Top USAID Official Tells Fox’s Jennifer Griffin Why ‘It’s Insane And Cruel to Break This Agency’](https://www.mediaite.com/news/a-gift-to-our-enemies-ex-top-usaid-official-tells-foxs-jennifer-griffin-why-its-insane-and-cruel-to-break-this-agency/) (Mediaite)
-
-- [Quinoxaline-based anti-schistosomal compounds have potent anti-plasmodial activity](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012216) (Plos.org)
-
-- [Keep Your Greedy, Anti-American Hands Off ‘Little House On The Prairie’](https://thefederalist.com/2025/02/03/keep-your-greedy-anti-american-hands-off-of-little-house-on-the-prairie/) (The Federalist)
-
-- [Trump aid spending freeze halts leading malaria vaccine programme (Kat Lay/The Guardian)](https://www.memeorandum.com/250202/p54) (Memeorandum.com)
-
-## 25-6 (hpai)
-
-- [USDA confirms Nevada dairy cows infected with 2nd strain of bird flu](https://www.clickondetroit.com/news/local/2025/02/06/usda-confirms-nevada-dairy-cows-infected-with-2nd-strain-of-bird-flu/) (WDIV ClickOnDetroit)
-
-- [Bird flu to close parts of Middle Creek Wildlife Management Area](https://lancasteronline.com/news/local/bird-flu-to-close-parts-of-middle-creek-wildlife-management-area/article_b8e70ac0-e248-11ef-9363-830e567b717d.html) (LancasterOnline)
-
-- [Kuş gribi salgını ABD'de yumurta fiyatlarını uçurdu](https://www.haberturk.com/kus-gribi-salgini-abd-de-yumurta-fiyatlarini-ucurdu-3761928-ekonomi) (Haberturk.com)
-
-## 25-6 (h5n1)
-
-- [Trump’s assault on public health and the growing threat of an H5N1 bird flu pandemic](https://www.wsws.org/en/articles/2025/02/08/ocfq-f08.html) (World Socialist Web Site)
-
-- [All the Latest Unnerving Bird Flu Developments](http://nymag.com/intelligencer/article/the-latest-unnerving-bird-flu-developments.html) (New York Magazine)
-
-- [CDC Deleted Its Report on Bird Flu Spread Between Cats and Humans](http://www.vice.com/en/article/cdc-deleted-its-report-on-bird-flu-spread-between-cats-and-humans/) (Vice News)
-
-- [CDC Abruptly Yanks Report Linking Cats to Bird Flu Spread](https://gizmodo.com/cdc-pulls-back-report-linking-cats-to-bird-flu-spread-2000560876) (Gizmodo.com)
-
-- [Aviaria, -94% carica infettiva virus H5N1 con onde elettromagnetiche, lo studio](https://www.ilgiornale.it/news/adnkronos/aviaria-94-carica-infettiva-virus-h5n1-onde-2434579.html) (Ilgiornale.it)
-
-- [New York temporarily shutters bird markets after seven cases of avian flu are detected in NYC](https://www.seattlepi.com/news/article/new-york-temporarily-shutters-bird-markets-after-20153540.php) (seattlepi.com)
-
-- [В США опубликовали и удалили данные о возможной передаче H5N1 от кошек людям](https://naked-science.ru/article/medicine/peredacha-h5n1-ot-koshek) (Naked-science.ru)
-
-- [Bird flu in NYC: 7 confirmed cases, prompting market closures](https://www.fox5ny.com/news/bird-flu-found-bronx-brooklyn-queens) (FOX 5 NY)
-
-- [CDC MMWR Back After 2 Week Halt But Without H5N1 Bird Flu Studies](https://www.forbes.com/sites/brucelee/2025/02/07/cdc-mmwr-back-after-2-week-halt-but-without-h5n1-bird-flu-studies/) (Forbes)
-
-- [Multiple instances of bird flu found in San Mateo County](https://www.sfgate.com/bayarea/article/bird-flu-san-mateo-county-20152903.php) (SFGate)
-
-- [Nuova variante di influenza aviaria trovata nei bovini in Nevada: implicazioni per la salute umana](https://www.ilsole24ore.com/art/nuova-variante-influenza-aviaria-trovata-bovini-nevada-implicazioni-la-salute-umana-AG71xlkC) (Il Sole 24 Ore)
-
-- [New bird flu variant found in dairy cattle. Can H5N1 be transmitted to humans?](https://www.usatoday.com/story/news/health/2025/02/06/bird-flu-strain-dairy-cows-humans-transmitted/78290857007/) (USA Today)
-
-- [2nd form of bird flu detected in US cows](https://www.livescience.com/health/flu/2nd-form-of-bird-flu-detected-in-us-cows) (Live Science)
-
-- [Major Food Supply Alert! Just In Time, A Deadly New Strain Of H5N1 Threatens To Make Our Egg And Beef Shortages Even Worse](http://theeconomiccollapseblog.com/major-food-supply-alert-just-in-time-a-deadly-new-strain-of-h5n1-threatens-to-make-our-egg-and-beef-shortages-even-worse/) (Theeconomiccollapseblog.com)
-
-- [Deadly strain of bird flu linked to man's 2024 death appears in Nevada dairy cows](https://www.cbsnews.com/video/deadly-strain-of-bird-flu-linked-to-mans-2024-death-appears-in-nevada-dairy-cows/) (CBS News)
-
-- [Detectan un nuevo ‘salto’ de gripe aviar H5N1 a vacas [ENG]](https://www.meneame.net/m/actualidad/detectan-nuevo-salto-gripe-aviar-h5n1-vacas-eng) (Meneame.net)
-
-- [New bird flu variant detected in Nevada dairy cattle, raising concerns of endemic spread](https://economictimes.indiatimes.com/news/international/us/new-bird-flu-variant-detected-in-nevada-dairy-cattle-raising-concerns-of-endemic-spread/articleshow/117992342.cms) (The Times of India)
-
-- [Deadly version of H5N1 bird flu spills over into Nevada dairy cattle (Susanne Rust/Los Angeles Times)](https://www.memeorandum.com/250206/p81) (Memeorandum.com)
-
-- [Vaci din SUA, contaminate cu o nouă formă de gripă aviară. Reprezintă un risc şi pentru oameni](https://www.mediafax.ro/externe/vaci-din-sua-contaminate-cu-o-noua-forma-de-gripa-aviara-reprezinta-un-risc-si-pentru-oameni-22683373) (Mediafax.ro)
-
-- [New form of H5N1 bird flu found in US dairy cows](https://theweek.com/health/bird-flu-cattle-second-version) (The Week Magazine)
-
-- [Grippe aviaire : les autorités sanitaires françaises sur le qui-vive](https://www.liberation.fr/societe/grippe-aviaire-les-autorites-sanitaires-francaises-sur-le-qui-vive-20250206_VCWGREWBVRD53G7AJU4K7FWZAU/) (Libération)
-
-- [Nova cepa de gripe aviária é identificada em gado leiteiro dos EUA](https://www.metropoles.com/saude/nova-cepa-gripe-aviaria-gado-leiteiro-eua) (Metropoles.com)
-
-- [2nd Form of Bird Flu Spreads to Cows](https://www.newser.com/story/363806/2nd-form-of-bird-flu-spreads-to-cows.html) (Newser)
-
-- [USA: Vogelgrippe-Virus greift erneut auf Kühe über](https://www.sueddeutsche.de/gesundheit/vogelgrippe-virus-kuehe-usa-li.3197191) (Süddeutsche Zeitung)
-
-- [New Type Of Bird Flu Emerging In US Dairy Cattle, Sparking Health Concerns](https://www.forbes.com/sites/omerawan/2025/02/06/new-type-of-bird-flu-emerging-in-us-dairy-cattle-sparking-health-concerns/) (Forbes)
-
-- [Virus Influenza aviaire hautement pathogène (IAHP) : les autorités sanitaires françaises poursuivent leurs actions et renforcent leur coopération face au risque de circulation d'un virus adapté à l'Homme](https://sante.gouv.fr/actualites/presse/communiques-de-presse/article/virus-influenza-aviaire-hautement-pathogene-iahp-les-autorites-sanitaires) (Gouv.fr)
-
-- [Detectan un nuevo 'salto' de gripe aviar H5N1 a vacas en EEUU](https://www.elmundo.es/ciencia-y-salud/salud/2025/02/06/67a4b27be4d4d83f468b45b9.html) (El Mundo)
-
-- [У США корови заразилися новим штамом пташиного грипу](https://ua.korrespondent.net/world/4753847-u-ssha-korovy-zarazylysia-novym-shtamom-ptashynoho-hrypu) (Korrespondent.net)
-
-- [В США коровы заразились новым штаммом птичьего гриппа](https://korrespondent.net/world/4753847-v-ssha-korovy-zarazylys-novym-shtammom-ptycheho-hryppa) (Korrespondent.net)
-
-- [Los rebaños lecheros de Nevada dan positivo a una nueva cepa de gripe aviar que se ha relacionado con graves infecciones humanas](https://www.abc.es/sociedad/rebanos-lecheros-nevada-dan-positivo-nueva-cepa-20250206102824-nt.html) (Www.abc.es)
-
-- [US bird flu outbreak in cattle: The global risk to humans](https://www.dw.com/en/bird-flu-us-livestock-human-risk-2025/a-70988147) (DW (English))
-
-- [EUA: vacas são infectadas com nova versão da gripe aviária](https://olhardigital.com.br/2025/02/06/medicina-e-saude/eua-vacas-sao-infectadas-com-nova-versao-da-gripe-aviaria/) (Olhardigital.com.br)
-
-- [ICMR working on desi vaccine against H5N1 bird flu virus](https://timesofindia.indiatimes.com/india/icmr-working-on-desi-vaccine-against-h5n1-bird-flu-virus/articleshow/117968597.cms) (The Times of India)
-
-- [A new type of bird flu has been found in dairy cows in Nevada](https://www.npr.org/sections/shots-health-news/2025/02/05/nx-s1-5286265/bird-flu-cow-cattle-nevada) (NPR)
-
-- [Dairy herds in Nevada test positive for newer bird flu strain that’s been linked to severe human infections](https://www.wkow.com/news/health/dairy-herds-in-nevada-test-positive-for-newer-bird-flu-strain-that-s-been-linked/article_ad4cafb5-b43d-505b-a33d-bec18360084b.html) (WKOW)
-
-- [USDA confirms Nevada dairy cows infected with 2nd strain of bird flu](https://www.clickondetroit.com/news/local/2025/02/06/usda-confirms-nevada-dairy-cows-infected-with-2nd-strain-of-bird-flu/) (WDIV ClickOnDetroit)
-
-- [Respiratory symptoms reported in Nevada cows with lethal bird flu strain](https://www.cbsnews.com/news/cows-bird-flu-d11-symptoms/) (CBS News)
-
-- [Second bird flu strain found in US dairy cattle, agriculture agency says](https://www.voanews.com/a/second-bird-flu-strain-found-in-us-dairy-cattle-agriculture-agency-says/7964683.html) (VOA News)
-
-- [Dairy herds in Nevada test positive for newer bird flu strain that’s been linked to severe human infections | CNN](https://www.cnn.com/2025/02/05/health/bird-flu-cattle-nevada/index.html) (CNN)
-
-- [New Bird Flu Strain Detected In Cows In Nevada](https://www.forbes.com/sites/antoniopequenoiv/2025/02/05/new-bird-flu-strain-detected-in-cows-in-nevada/) (Forbes)
-
-- [Deadly bird flu detected in Nevada dairy cows](https://www.reviewjournal.com/post/3275933) (Las Vegas Review-Journal)
-
-- [USDA milk testing shows different strain of H5N1 bird flu in Nevada dairy herds](https://www.statnews.com/2025/02/05/usda-nevada-herds-different-bird-flu-strain-milk-testing/) (STAT)
-
-- [Un 3e foyer de grippe aviaire détecté en province de Liège](https://www.levif.be/belgique/un-3e-foyer-de-grippe-aviaire-detecte-en-province-de-liege/) (Levif.be)
-
-- [Un troisième foyer de grippe aviaire H5N1 détecté en province de Liège](https://www.dhnet.be/regions/liege/2025/02/05/un-troisieme-foyer-de-grippe-aviaire-h5n1-detecte-en-province-de-liege-ZOQM4UHPUFH6FIB2G7XLW2AZWI/) (dh.be)
-
-- [Un troisième foyer de grippe aviaire H5N1 détecté en province de Liège](https://www.lalibre.be/planete/sante/2025/02/05/un-troisieme-foyer-de-grippe-aviaire-h5n1-detecte-en-province-de-liege-LJW4FO5NYZAXPFGOY5XWT2ZXRU/) (Lalibre.be)
-
-- [Veterinarian warns cat owners about H5N1 risks amid rising cases](https://phys.org/news/2025-02-veterinarian-cat-owners-h5n1-cases.html) (Phys.Org)
-
-- [Halálos járvány robbanhat be a Föld egyik legnagyobb országában](https://www.portfolio.hu/global/20250205/halalos-jarvany-robbanhat-be-a-fold-egyik-legnagyobb-orszagaban-739409) (Portfolio.hu)
-
-- [A 'caccia' influenza aviaria in Antartide, dati su 250 pinguini](https://www.ansa.it/veneto/notizie/2025/02/05/a-caccia-influenza-aviaria-in-antartide-dati-su-250-pinguini_86ae6c32-7c40-405b-a5bd-b2b7fe5d8b07.html) (ANSA.it)
-
-- [ICMR initiates process of vaccine against avian influenza](https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/icmr-initiates-process-of-vaccine-against-avian-influenza/articleshow/117951550.cms) (The Times of India)
-
-- [Bird Flu का खतरा... 10 KM का इलाका अलर्ट ज़ोन में बदला](https://www.aajtak.in/short-videos/video/bird-flu-outbreak-maharashtra-village-declared-alert-zone-2159382-2025-02-05) (Aajtak.in)
-
-- [महाराष्ट्र के चंद्रपुर में बर्ड फ्लू की एंट्री से हड़कंप, 10 KM का एरिया अलर्ट जोन घोषित](https://www.aajtak.in/india/maharashtra/story/after-bird-flu-outbreak-maharashtra-village-and-areas-around-it-declared-alert-zone-lcla-dskc-2159190-2025-02-05) (Aajtak.in)
-
-- [Scientists Are Starting to Track Bird Flu in Farm Wastewater](https://time.com/7212477/wastewater-testing-farms-bird-flu/) (Time)
-
-- [How Trump's Admin Will Make Bird Flu Worse](https://www.teenvogue.com/story/bird-flus-food-system-trumps-anti-public-health) (Teen Vogue)
-
-- [В Индии вспышка неизвестной болезни. Что нужно знать?](https://hi-news.ru/eto-interesno/v-indii-vspyshka-neizvestnoj-bolezni-chto-nuzhno-znat.html) (Hi-news.ru)
-
-- [백스다임, ‘고병원성 조류 인플루엔자 백신 신속 개발’ 4자 협력 MOU 체결](https://www.venturesquare.net/956133) (Venturesquare.net)
-
-- [Hundreds of Ducks Found Dead of Suspected Bird Flu Around Chicago](https://gizmodo.com/hundreds-of-ducks-found-dead-of-suspected-bird-flu-around-lake-michigan-2000558438) (Gizmodo.com)
-
-- [A deadly bird flu strain is headed for Australia – and First Nations people have the know-how to tackle it](https://theconversation.com/a-deadly-bird-flu-strain-is-headed-for-australia-and-first-nations-people-have-the-know-how-to-tackle-it-245758) (The Conversation Africa)
-
-- [La congelación de comunicaciones de la administración Trump restringió el acceso a información crítica sobre la gripe aviar](https://www.meneame.net/m/actualidad/congelacion-comunicaciones-administracion-trump-restringio-sobre) (Meneame.net)
-
-- [Northern Michigan reports latest bird flu outbreak](https://www.mlive.com/public-interest/2025/02/northern-michigan-reports-latest-bird-flu-outbreak.html) (mlive.com)
-
-- [Bird flu returns: Is it airborne now?](https://economictimes.indiatimes.com/news/international/us/bird-flu-returns-is-it-airborne-now/articleshow/117891270.cms) (The Times of India)
-
-- [Turussa löytyneellä naakalla todettu lintuinfluenssa – asiantuntija ei ole huolissaan](https://yle.fi/a/74-20141160) (YLE News)
-
-- [Un tratamiento con anticuerpos probado en monos logra prevenir la gripe aviar grave](https://www.montevideo.com.uy/Salud/Un-tratamiento-con-anticuerpos-probado-en-monos-logra-prevenir-la-gripe-aviar-grave-uc913914) (Montevideo.com.uy)
-
-- [H5N1 está se adaptando para infectar humanos](https://super.abril.com.br/saude/h5n1-esta-se-adaptando-para-infectar-humanos) (Abril.com.br)
-
-- [Qual o risco de a gripe aviária virar uma nova pandemia entre humanos?](https://www.metropoles.com/saude/risco-gripe-aviaria-virar-pandemia-humanos) (Metropoles.com)
-
-- [Insisting on Cheaper Eggs Is a Huge Mistake](https://newrepublic.com/article/191040/cost-eggs-democrats-trump-h5n1) (The New Republic)
-
-- [Turusta löytyi lintu­influenssaan kuollut naakka](https://www.is.fi/turun-seutu/art-2000011006796.html) (Www.is.fi)
-
-- [大S猝逝占据大陆热搜 中共隐瞒疫情误事(组图)](https://www.secretchina.com/news/gb/2025/02/03/1077055.html) (Secretchina.com)
-
-## 25-6 (dengue)
-
-- [Anvisa: Como usar repelentes contra o mosquito da dengue de forma eficaz](https://catracalivre.com.br/saude-bem-estar/anvisa-como-usar-repelentes-contra-o-mosquito-da-dengue-de-forma-eficaz/) (Catracalivre.com.br)
-
-- [Governo da Madeira diz que não há motivo para alarme](https://expresso.pt/sociedade/2025-02-08-governo-da-madeira-diz-que-nao-ha-motivo-para-alarme-42d72ad1) (Expresso.pt)
-
-- [Dengue: Governo da Madeira diz que não há motivo para alarme](https://expresso.pt/sociedade/2025-02-08-dengue-governo-da-madeira-diz-que-nao-ha-motivo-para-alarme-42d72ad1) (Expresso.pt)
-
-- [Vírus da dengue identificado em mosquito numa armadilha de monitorização na Madeira](https://observador.pt/2025/02/08/virus-da-dengue-identificado-em-mosquito-numa-armadilha-de-monitorizacao-na-madeira/) (Observador.pt)
-
-- [Mosquito com dengue identificado em armadilha na Madeira](https://expresso.pt/sociedade/2025-02-08-mosquito-com-dengue-identificado-em-armadilha-na-madeira-0d829acb) (Expresso.pt)
-
-- [El dengue no se ha ido, pero cifras muestran un cambio de comportamiento en 2025](https://www.nacion.com/el-pais/el-dengue-no-se-ha-ido-pero-cifras-muestran-un/PRPI5WZNWBE6DHTZEEQ5C7GM74/story/) (Nacion.com)
-
-- [Dengue: cientistas criam armadilha eficaz para mosquito Aedes aegypti](https://www.metropoles.com/saude/dengue-nova-armadilha-aedes) (Metropoles.com)
-
-- [Sugar feeding by Aedes albopictus in the Torres Strait, Australia](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012856) (Plos.org)
-
-- [10 coisas que você precisa saber sobre a vacina de dose única para dengue](https://olhardigital.com.br/2025/02/07/medicina-e-saude/10-coisas-que-voce-precisa-saber-sobre-a-vacina-de-dose-unica-para-dengue/) (Olhardigital.com.br)
-
-- [Waspada DBD di Sumenep! 100 Orang Terjangkit, Mayoritas Anak-Anak](https://suaraindonesia-news.com/waspada-dbd-di-sumenep-100-orang-terjangkit-mayoritas-anak-anak/) (Suaraindonesia-news.com)
-
-- [Comprehensive proteolytic profiling of Aedes aegypti mosquito midgut extracts: Unraveling the blood meal protein digestion system](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012555) (Plos.org)
-
-- [El Sónar 2025 incorpora una segunda actuación de Nathy Peluso, Pa Salieu, Mushka y Alizzz](https://www.europapress.es/catalunya/noticia-sonar-2025-incorpora-segunda-actuacion-nathy-peluso-pa-salieu-mushka-alizzz-20250206111531.html) (Europapress.es)
-
-- [Sónar 2025 cierra cartel con Sega Bodega, Herbert & Mokoko, Ultra Naté…](https://jenesaispop.com/2025/02/06/491528/sonar-cierre-cartel/) (Jenesaispop.com)
-
-- [Barcelona festival Sónar completes lineup with Dixon, Pa Salieu](https://ra.co/news/82081) (Ra.co)
-
-- [Dengue: cuidados devem ser redobrados no período chuvoso](https://www.metropoles.com/conteudo-especial/dengue-cuidados-devem-ser-redobrados-no-periodo-chuvoso) (Metropoles.com)
-
-- [México acumula 887 casos de dengue en lo que va de 2025](https://www.excelsior.com.mx/nacional/mexico-acumula-887-casos-de-dengue-en-lo-que-va-de-2025/1698278) (Excelsior.com.mx)
-
-- [‘Dengue Boy’ Is the Weird, Fleshy Novel You Need Right Now](https://www.wired.com/story/this-weird-fleshy-novel-is-exactly-what-you-need-right-now-dengue-boy-michael-nieva/) (Wired)
-
-- [Dengue: saiba por que o tipo 3 é motivo de preocupação em 2025](https://catracalivre.com.br/saude-bem-estar/dengue-saiba-por-que-o-tipo-3-e-motivo-de-preocupacao-em-2025/) (Catracalivre.com.br)
-
-- [Inside the Climate Techno-Dystopia of Michel Nieva’s Dengue Boy](https://lithub.com/inside-the-climate-techno-dystopia-of-michel-nievas-dengue-boy/) (Lithub.com)
-
-- [Dengue: saiba sobre transmissão e principais sintomas da doença](https://www.metropoles.com/saude/dengue-saiba-transmissao-principais-sintomas) (Metropoles.com)
-
-- [El ECDC notifica más de 100.000 casos de dengue y 5.000 de chikungunya en todo el mundo en enero](https://www.infosalus.com/salud-investigacion/noticia-ecdc-notifica-mas-100000-casos-dengue-5000-chikungunya-todo-mundo-enero-20250204150406.html) (Infosalus.com)
-
-- [Kevinho faz desabafo após suspeita de dengue: “Não passou a dor”](https://www.metropoles.com/colunas/fabia-oliveira/kevinho-faz-desabafo-apos-suspeita-de-dengue-nao-passou-a-dor) (Metropoles.com)
-
-- [Casos de dengue no Brasil crescem quase 200% em janeiro](https://veja.abril.com.br/coluna/maquiavel/casos-de-dengue-dobram-em-janeiro-e-mortes-podem-chegar-a-239-em-2025) (Abril.com.br)
-
-- [Tecnologia alemã ajuda SC a detectar casos graves de dengue](https://www.metropoles.com/brasil/tecnologia-alema-ajuda-sc-a-detectar-casos-graves-de-dengue) (Metropoles.com)
-
-- [Número de casos de morte por dengue em São Paulo em janeiro é preocupante, diz Saúde](https://valor.globo.com/brasil/noticia/2025/02/03/numero-de-casos-de-morte-por-dengue-em-sao-paulo-em-janeiro-e-preocupante-diz-saude.ghtml) (Globo)
-
-- [Prefeitura de Porto Alegre aplica inseticida em quatro ruas do bairro Cristal nesta terça-feira](https://www.terra.com.br/noticias/prefeitura-de-porto-alegre-aplica-inseticida-em-quatro-ruas-do-bairro-cristal-nesta-terca-feira,de5ed8a7c445234a393d44332f143db5x0zcvw27.html) (Terra.com.br)
-
-- [Além da dengue: Ministério da Saúde faz alerta para outra doença causada por mosquitos](https://veja.abril.com.br/saude/alem-da-dengue-ministerio-da-saude-faz-alerta-para-outra-doenca-causada-por-mosquitos) (Abril.com.br)
-
-- [Brasil encerra janeiro com mais de 180 mil casos de dengue e 38 mortes](https://www.infomoney.com.br/brasil/brasil-encerra-janeiro-com-mais-de-180-mil-casos-de-dengue-e-38-mortes/) (InfoMoney)
-
-- [Hijacking of plasmin by dengue virus for infection](https://www.sciencedaily.com/releases/2025/02/250203142515.htm) (Science Daily)
-
-- [Temporal shifts in dengue epidemic in Guangdong Province before and during the COVID-19 pandemic: a Bayesian model study from 2012 to 2022](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012832) (Plos.org)
-
-- [Temporal associations between microclimate, adult Aedes mosquito indices, and dengue cases at the residence level in Malaysia: Implications for targeted interventions](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0316564) (Plos.org)
-
-- [Ministério da Saúde reforça combate à dengue em São Paulo](https://www.terra.com.br/noticias/ministerio-da-saude-reforca-combate-a-dengue-em-sao-paulo,25e539027ee80c39e59776bb20430b85p9r601t6.html) (Terra.com.br)
-
-- [Ministério da Saúde reforça combate à dengue em São Paulo](https://www.dino.com.br/releases/ministerio-da-saude-reforca-combate-a-dengue-em-sao-paulo-dino890310565131) (Dino.com.br)
-
-## 25-6 (chikungunya)
-
-- [Comprehensive proteolytic profiling of Aedes aegypti mosquito midgut extracts: Unraveling the blood meal protein digestion system](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012555) (Plos.org)
-
-- [Valneva jumps 19% after chikungunya vaccine wins UK approval](https://thefly.com/permalinks/entry.php/id4065077/VALN-Valneva-jumps--after-chikungunya-vaccine-wins-UK-approval) (Thefly.com)
-
-- [Valneva Receives Marketing Authorization in the UK for the World's First Chikungunya Vaccine, IXCHIQ®](https://www.benzinga.com/pressreleases/25/02/g43486284/valneva-receives-marketing-authorization-in-the-uk-for-the-worlds-first-chikungunya-vaccine-ixchiq) (Benzinga)
-
-- [Valneva reçoit une autorisation de mise sur le marché au Royaume-Uni pour le premier vaccin au monde contre le chikungunya, IXCHIQ®](https://www.globenewswire.com/news-release/2025/02/05/3020900/0/fr/Valneva-re%C3%A7oit-une-autorisation-de-mise-sur-le-march%C3%A9-au-Royaume-Uni-pour-le-premier-vaccin-au-monde-contre-le-chikungunya-IXCHIQ.html) (GlobeNewswire)
-
-- [Valneva Receives Marketing Authorization in the UK for the World’s First Chikungunya Vaccine, IXCHIQ®](https://www.globenewswire.com/news-release/2025/02/05/3020900/0/en/Valneva-Receives-Marketing-Authorization-in-the-UK-for-the-World-s-First-Chikungunya-Vaccine-IXCHIQ.html) (GlobeNewswire)
-
-- [Press release: IXCHIQ vaccine approved to protect adults against Chikungunya](https://www.gov.uk/government/news/ixchiq-vaccine-approved-to-protect-adults-against-chikungunya) (Www.gov.uk)
-
-- [El ECDC notifica más de 100.000 casos de dengue y 5.000 de chikungunya en todo el mundo en enero](https://www.infosalus.com/salud-investigacion/noticia-ecdc-notifica-mas-100000-casos-dengue-5000-chikungunya-todo-mundo-enero-20250204150406.html) (Infosalus.com)
-
-- [Clinical manifestations associated with the chronic phase of Chikungunya Fever: A systematic review of prevalence](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012810) (Plos.org)
-
 ## 25-12 (zika)
 
 - [Symptômes, mortalité, différences avec Zika et dengue… Ce qu’il faut savoir sur l’épidémie de chikungunya qui sévit à la Réunion](https://www.liberation.fr/societe/sante/symptomes-mortalite-differences-avec-zika-et-dengue-ce-quil-faut-savoir-sur-lepidemie-de-chikungunya-qui-sevit-a-la-reunion-20250321_WH3UIEL5VJE3DH6L3FXKDPF55E/) (Libération)
@@ -2148,6 +1720,10 @@ Source: [News API](https://newsapi.org/)
 - [Traditional practices versus modern healthcare: Determinants of traditional medicine use after potential dog bites among dog-owning households in Nigeria](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012910) (Plos.org)
 
 - [Bacolod to construct animal shelter](https://rpnradio.com/bacolod-to-construct-animal-shelter/) (Rpnradio.com)
+
+## 25-12 (pertussis)
+
+- [Vancouver Coastal Health urges Sea to Sky students get caught up on vaccinations](https://www.squamishchief.com/highlights/vancouver-coastal-health-urges-sea-to-sky-students-get-caught-up-on-vaccinations-10406346) (Squamish Chief)
 
 ## 25-12 (mpox)
 
@@ -2183,9 +1759,33 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-12 (measles)
 
+- [Shrug](https://www.lawyersgunsmoneyblog.com/2025/03/shrug) (Lawyersgunsmoneyblog.com)
+
+- [Wait, So Measles Is Back?](https://www.popsugar.com/health/measles-outbreak-49434403) (POPSUGAR)
+
+- ['I'm worried it's getting worse': Texas measles outbreak grows as families resist vaccination](https://www.nbcnews.com/health/health-news/-worried-getting-worse-texas-measles-outbreak-grows-families-resist-va-rcna196873) (NBC News)
+
+- [Parents Whose Unvaccinated Child Died From Measles Say They Remain Anti-Vaccine](https://www.huffpost.com/entry/texas-parents-unvaccinated-measles-child-no-regrets_n_67dd5f88e4b0be6b7359ec01) (HuffPost)
+
+- [As US measles cases continue to rise, so do vaccinations](https://www.bbc.com/news/articles/c984vjl0gp2o) (BBC News)
+
+- [Why higher measles vaccination coverage matters so much now](https://www.cbc.ca/news/health/measles-vaccine-backslide-1.7490030) (CBC News)
+
+- [Pediatrician Responds to Parents Who Called Measles 'Not That Bad' — After Their Unvaccinated Child Died (Exclusive)](https://people.com/measles-child-death-texas-parents-pediatrician-reponds-11701359) (PEOPLE)
+
+- [Over 300 measles cases reported in Texas, surpassing 2024 U.S. total](https://www.thestar.com.my/news/world/2025/03/22/over-300-measles-cases-reported-in-texas-surpassing-2024-us-total) (The Star Online)
+
+- [Texas measles outbreak expected to last for months, though vaccinations are up from last year](https://richmond.com/news/nation-world/article_840e2ec0-56c1-5be9-baf7-db02572eaf75.html) (Richmond.com)
+
+- [Texas Measles Outbreak Expected to Last for Months, but Vaccinations Are Up from Last Year](https://time.com/7270682/texas-measles-outbreak-expected-to-last/) (Time)
+
+- [Parents Whose Child Died From Measles Appear In Anti-Vax Video](https://crooksandliars.com/2025/03/parents-whose-child-died-measles-appear) (Crooksandliars.com)
+
 - [Parents of Dead Child Stand by Decision Not to Vaccinate](https://politicalwire.com/2025/03/21/parents-of-dead-child-stand-by-decision-not-to-vaccinate/) (Politicalwire.com)
 
 - [Texas measles outbreak expected to last for months, though vaccinations are up from last year](https://www.bostonherald.com/2025/03/21/measles-outbreak-vaccinations-up/) (Boston Herald)
+
+- [Texas measles outbreak: 309 cases reported; here’s what CDC has advised parents](https://economictimes.indiatimes.com/news/international/us/texas-measles-outbreak-309-cases-reported-heres-what-cdc-has-advised-parents/articleshow/119312677.cms) (The Times of India)
 
 - [Mom of child dead from measles: "Don't do the shots," my other 4 kids were fine (Beth Mole/Ars Technica)](https://www.memeorandum.com/250321/p72) (Memeorandum.com)
 
@@ -2420,6 +2020,10 @@ Source: [News API](https://newsapi.org/)
 - [Alarma en la Antártida: Confirman un brote masivo de gripe aviar en varias especies](https://es.gizmodo.com/alarma-en-la-antartida-confirman-un-brote-masivo-de-gripe-aviar-en-varias-especies-2000154626) (Gizmodo.com)
 
 ## 25-12 (h5n1)
+
+- [¿Por qué el secretario de Salud de EU quiere dejar que la gripe aviar se propague?](https://www.excelsior.com.mx/global/secretario-salud-kennedy-dejar-gripe-aviar-propague/1706403) (Excelsior.com.mx)
+
+- [Current antivirals may be less effective against severe infection caused by bird flu virus in cows' milk: Study](https://timesofindia.indiatimes.com/science/current-antivirals-may-be-less-effective-against-severe-infection-caused-by-bird-flu-virus-in-cows-milk-study/articleshow/119316309.cms) (The Times of India)
 
 - [The “Forever War” Against Bird Flu](https://www.shtfplan.com/headline-news/the-forever-war-against-bird-flu) (Shtfplan.com)
 
