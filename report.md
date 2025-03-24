@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 4
-- **Last harvest:** 2025-03-23 19:06
-- **Most recent article:** 2025-03-22 12:58:39
+- **New articles in last harvest:** 10
+- **Last harvest:** 2025-03-24 07:07
+- **Most recent article:** 2025-03-23 04:00:00
 
 ---
 
@@ -10,23 +10,23 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 25-10 | 25-11 | 25-12 | 25-7 | 25-8 | 25-9 | Total |
-|--|-|-|-|-|-|-|-|
-| measles | 142 | 133 | 98 | 68 | 83 | 162 | 686 |
-| h5n1 | 23 | 39 | 56 | 51 | 54 | 42 | 265 |
-| dengue | 8 | 12 | 16 | 37 | 57 | 30 | 160 |
-| malaria | 29 | 22 | 17 | 11 | 7 | 20 | 106 |
-| mpox | 14 | 15 | 8 | 18 | 15 | 26 | 96 |
-| meningitis | 4 | 9 | 7 | 12 | 11 | 7 | 50 |
-| hpai | 10 | 3 | 12 | 9 | 5 | 4 | 43 |
-| chikungunya | 6 | 1 | 17 | 5 | 3 | 7 | 39 |
-| rabies | 3 | 8 | 3 | 5 | 4 | 2 | 25 |
-| typhoid | 3 | 8 | 0 | 3 | 0 | 4 | 18 |
-| zika | 3 | 0 | 2 | 2 | 6 | 2 | 15 |
-| yersinia | 1 | 2 | 2 | 5 | 0 | 2 | 12 |
-| pertussis | 0 | 5 | 1 | 3 | 2 | 0 | 11 |
-| leptospirosis | 3 | 0 | 1 | 0 | 2 | 0 | 6 |
-| shigellosis | 3 | 0 | 0 | 0 | 0 | 1 | 4 |
+| Disease | 25-10 | 25-11 | 25-12 | 25-13 | 25-7 | 25-8 | 25-9 | Total |
+|--|-|-|-|-|-|-|-|-|
+| measles | 142 | 133 | 101 | 1 | 72 | 83 | 162 | 694 |
+| h5n1 | 23 | 39 | 57 | 0 | 55 | 54 | 42 | 270 |
+| dengue | 8 | 12 | 18 | 1 | 37 | 57 | 30 | 163 |
+| malaria | 29 | 22 | 17 | 0 | 12 | 7 | 20 | 107 |
+| mpox | 14 | 15 | 8 | 1 | 18 | 15 | 26 | 97 |
+| meningitis | 4 | 9 | 7 | 1 | 12 | 11 | 7 | 51 |
+| hpai | 10 | 3 | 12 | 0 | 9 | 5 | 4 | 43 |
+| chikungunya | 6 | 1 | 17 | 0 | 5 | 3 | 7 | 39 |
+| rabies | 3 | 8 | 3 | 0 | 5 | 4 | 2 | 25 |
+| typhoid | 3 | 8 | 0 | 0 | 3 | 0 | 4 | 18 |
+| zika | 3 | 0 | 2 | 0 | 2 | 6 | 2 | 15 |
+| yersinia | 1 | 2 | 2 | 0 | 5 | 0 | 2 | 12 |
+| pertussis | 0 | 5 | 1 | 0 | 3 | 2 | 0 | 11 |
+| leptospirosis | 3 | 0 | 1 | 0 | 0 | 2 | 0 | 6 |
+| shigellosis | 3 | 0 | 0 | 0 | 0 | 0 | 1 | 4 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -1447,6 +1447,14 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles outbreak spreads as health officials urge anyone who hasn't been vaccinated to get jabbed - NewsBreak](https://www.newsbreak.com/share/3798078238417-measles-outbreak-spreads-as-health-officials-urge-anyone-who-hasn-t-been-vaccinated-to-get-jabbed?s=a2&share_destination_id=MjUxNzE4NzUzLTE3MzkxNDI4NDQyMDU%3D&pd=0H2BXtcW&hl=en_US&send_time=1739142844&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.4.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_push_exp_rt_bucketv12-v7%2Cns_foryou_blend_exp_25q1-v8%2Cns_foryou_recall_exp_25q1-v8%2Cns_foryou_model_exp_25q1-v1%2Cns_foryou_rank_exp_25q1-v4) (Newsbreak.com)
 
+- [Texas Measles Cases Hit County With Low Vaccination Rates](https://www.newsweek.com/measles-outbreak-texas-gaines-county-vaccination-rate-2028453) (Newsweek)
+
+- [Measles outbreak spreads as health officials urge anyone who hasn't been vaccinated to get jabbed - NewsBreak](https://www.newsbreak.com/share/3798078238417-measles-outbreak-spreads-as-health-officials-urge-anyone-who-hasn-t-been-vaccinated-to-get-jabbed?s=a2&share_destination_id=NTMxMzc4NDEtMTczOTExODU1MjI2Ng%3D%3D&pd=03axZxIg&hl=en_US&send_time=1739118552&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.6.1%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_model_exp_25q1-v8%2Cns_foryou_blend_exp_25q1-v8%2Cns_foryou_rank_exp_25q1-v6%2Cns_foryou_recall_exp_25q1-v7%2Cns_push_exp_rt_bucketv12-v8) (Newsbreak.com)
+
+- [Measles outbreak spreads as health officials urge anyone who hasn't been vaccinated to get jabbed - NewsBreak](https://www.newsbreak.com/share/3798078238417-measles-outbreak-spreads-as-health-officials-urge-anyone-who-hasn-t-been-vaccinated-to-get-jabbed?_f=app_share&pd=04jUeKTH&lang=en_US&send_time=1739109677&trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.6.0.7%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_model_exp_25q1-v9%2Cns_push_exp_rt_bucketv12-v1%2Cns_foryou_rank_exp_25q1-v2%2Cns_foryou_blend_exp_25q1-control%2Cns_foryou_recall_exp_25q1-v5&s=i2) (Newsbreak.com)
+
+- [Measles outbreak spreads as health officials urge anyone who hasn't been vaccinated to get jabbed - NewsBreak](https://www.newsbreak.com/share/3798078238417-measles-outbreak-spreads-as-health-officials-urge-anyone-who-hasn-t-been-vaccinated-to-get-jabbed?s=a2&share_destination_id=MjE0OTg1NzExLTE3MzkxNDQyMzc1NTc%3D&pd=0EY3bTgT&hl=en_US&send_time=1739144237&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.4.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_recall_exp_25q1-v6%2Cns_foryou_model_exp_25q1-v6%2Cns_foryou_blend_exp_25q1-v3%2Cns_foryou_rank_exp_25q1-v5) (Newsbreak.com)
+
 ## 25-7 (malaria)
 
 - [Nigeria approves $200M to offset shortfall from US aid cuts](https://www.dw.com/en/nigeria-approves-200m-to-offset-shortfall-from-us-aid-cuts/a-71607477) (DW (English))
@@ -1470,6 +1478,8 @@ Source: [News API](https://newsapi.org/)
 - [Ocho mujeres que cambiaron la farmacología](https://www.elperiodico.com/es/ciencia/20250212/ocho-mujeres-cambiaron-farmacologia-114232542) (Elperiodico.com)
 
 - [AI and public health issues in contemporary Nigeria - MediaLord.Ng](https://medialord.ng/ai-and-public-health-issues-in-contemporary-nigeria/) (Medialord.ng)
+
+- [How to strengthen malaria prevention through community](https://www.standardmedia.co.ke/health/health-opinion/article/2001511362/how-to-strengthen-malaria-prevention-through-community) (Standard Digital)
 
 ## 25-7 (hpai)
 
@@ -1595,6 +1605,14 @@ Source: [News API](https://newsapi.org/)
 
 - [Rikligt med fågelinfluensafall i Europa – men svårt att säga hur situationen blir i Finland](https://yle.fi/a/7-10072315) (YLE News)
 
+- [Qual o risco de a gripe aviária virar uma nova pandemia entre humanos?](https://catracalivre.com.br/saude-bem-estar/qual-o-risco-de-a-gripe-aviaria-virar-uma-nova-pandemia-entre-humanos/) (Catracalivre.com.br)
+
+- [Onde elettromagnetiche per "abbattere" l'aviaria: ecco come funzionano](https://www.ilgiornale.it/news/rimedi-naturali/aviaria-abbattuta-dalle-onde-elettromagnetiche-studio-2435169.html) (Ilgiornale.it)
+
+- [אירוע חריג בארה"ב: פרות נדבקו בזן חדש של שפעת העופות](https://www.ynet.co.il/health/article/rkq00oahtkx) (Ynet)
+
+- [Zamykają targi, wybijają zakażone zwierzęta. Ptasia grypa rozprzestrzenia się w Nowym Jorku](https://tvn24.pl/tvnmeteo/swiat/zamykaja-targi-wybijaja-zakazone-zwierzeta-ptasia-grypa-rozprzestrzenia-sie-w-nowym-jorku-st8298168) (Tvn24.pl)
+
 ## 25-7 (dengue)
 
 - [Ministério da Saúde amplia vacinação contra dengue para não perder doses do insumo](https://olhardigital.com.br/2025/02/15/medicina-e-saude/ministerio-da-saude-amplia-vacinacao-contra-dengue-para-nao-perder-doses-do-insumo/) (Olhardigital.com.br)
@@ -1683,6 +1701,22 @@ Source: [News API](https://newsapi.org/)
 
 - [SP registra primeira morte por chikungunya em 2025](https://valor.globo.com/brasil/noticia/2025/02/12/sp-registra-primeira-morte-por-chikungunya-em-2025.ghtml) (Globo)
 
+## 25-13 (mpox)
+
+- [Pakistan confirms 2nd mpox case in 2025](https://timesofindia.indiatimes.com/world/pakistan/pakistan-confirms-2nd-mpox-case-in-2025/articleshow/119361579.cms) (The Times of India)
+
+## 25-13 (meningitis)
+
+- [Kebbi urges calm as meningitis kills six university students](https://punchng.com/kebbi-urges-calm-as-meningitis-kills-six-university-students/) (The Punch)
+
+## 25-13 (measles)
+
+- [Was there really a measles death in Texas?](https://www.americanthinker.com/blog/2025/03/was_there_really_a_measles_death_in_texas.html) (Americanthinker.com)
+
+## 25-13 (dengue)
+
+- [São Paulo se aproxima de 300 mil casos confirmados de dengue](https://valor.globo.com/brasil/noticia/2025/03/22/so-paulo-se-aproxima-de-300-mil-casos-confirmados-de-dengue.ghtml) (Globo)
+
 ## 25-12 (zika)
 
 - [Symptômes, mortalité, différences avec Zika et dengue… Ce qu’il faut savoir sur l’épidémie de chikungunya qui sévit à la Réunion](https://www.liberation.fr/societe/sante/symptomes-mortalite-differences-avec-zika-et-dengue-ce-quil-faut-savoir-sur-lepidemie-de-chikungunya-qui-sevit-a-la-reunion-20250321_WH3UIEL5VJE3DH6L3FXKDPF55E/) (Libération)
@@ -1751,6 +1785,8 @@ Source: [News API](https://newsapi.org/)
 
 - ['I'm worried it's getting worse': Texas measles outbreak grows as families resist vaccination](https://www.nbcnews.com/health/health-news/-worried-getting-worse-texas-measles-outbreak-grows-families-resist-va-rcna196873) (NBC News)
 
+- [RFK Jr. Misleads About Measles Vaccine in Hannity Interview](https://www.factcheck.org/2025/03/rfk-jr-misleads-about-measles-vaccine-in-hannity-interview/) (FactCheck.org)
+
 - [Parents Whose Unvaccinated Child Died From Measles Say They Remain Anti-Vaccine](https://www.huffpost.com/entry/texas-parents-unvaccinated-measles-child-no-regrets_n_67dd5f88e4b0be6b7359ec01) (HuffPost)
 
 - [As US measles cases continue to rise, so do vaccinations](https://www.bbc.com/news/articles/c984vjl0gp2o) (BBC News)
@@ -1779,6 +1815,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles Outbreak: Cases In Texas Over 300 As Illness Spreads To At Least 17 States](https://www.forbes.com/sites/antoniopequenoiv/2025/03/21/measles-outbreak-cases-in-texas-near-280-as-illness-spreads-to-15-states/) (Forbes)
 
+- [Match Day 2025: Safeguarding the future of medical students amid crisis [PODCAST]](https://kevinmd.com/2025/03/match-day-2025-safeguarding-the-future-of-medical-students-amid-crisis-podcast.html) (Kevinmd.com)
+
 - [Anti-Vaxx Mom Whose Daughter Died From Measles Says Disease 'Wasn't That Bad' (Maryam Khanum/Latin Times)](https://www.memeorandum.com/250321/p56) (Memeorandum.com)
 
 - [Measles cases linked to Texas outbreak hit 309, surpassing nationwide total in 2024](https://abcnews.go.com/Health/measles-cases-linked-outbreak-texas-reach-309-surpassing/story?id=120019612) (ABC News)
@@ -1794,6 +1832,8 @@ Source: [News API](https://newsapi.org/)
 - [Public Health Experts Say Texas Is Poised to Make Measles a Nationwide Epidemic](https://www.texastribune.org/2025/03/21/texas-measles-vaccine-new-mexico-oklahoma-us/) (The Texas Tribune)
 
 - [Texas parents of child who died of measles urge others not to vaccinate](https://www.rawstory.com/texas-parents-of-child-who-died-of-measles-urge-others-not-to-vaccinate/) (Raw Story)
+
+- [Immunogenicity and safety of measles-mumps-rubella vaccine delivered by the aerosol, intradermal and intramuscular routes in previously vaccinated young adults: a randomized controlled trial protocol](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318893) (Plos.org)
 
 - [NEW: Two measles cases reported traveling through DCA last Friday](https://www.arlnow.com/2025/03/21/new-two-measles-cases-reported-traveling-through-arlington-last-friday/) (ARLnow)
 
@@ -2007,6 +2047,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-12 (h5n1)
 
+- [세종서 또다시 고병원성 AI···올해 41번째](https://www.khan.co.kr/article/202503230620001) (Khan.co.kr)
+
 - [Імпортний порятунок: як США намагаються приборкати ціни на яйця](https://www.bbc.com/ukrainian/articles/ce8mkkx3levo) (BBC News)
 
 - [¿Por qué el secretario de Salud de EU quiere dejar que la gripe aviar se propague?](https://www.excelsior.com.mx/global/secretario-salud-kennedy-dejar-gripe-aviar-propague/1706403) (Excelsior.com.mx)
@@ -2120,6 +2162,10 @@ Source: [News API](https://newsapi.org/)
 - [Alarma en la Antártida: Confirman un brote masivo de gripe aviar en varias especies](https://es.gizmodo.com/alarma-en-la-antartida-confirman-un-brote-masivo-de-gripe-aviar-en-varias-especies-2000154626) (Gizmodo.com)
 
 ## 25-12 (dengue)
+
+- [São Paulo se aproxima de 300 mil casos confirmados de dengue](https://www.infomoney.com.br/brasil/sao-paulo-se-aproxima-de-300-mil-casos-confirmados-de-dengue/) (InfoMoney)
+
+- [Tras caso de dengue autóctono, MSP realizó control y no identificó síntomas sospechosos](https://www.montevideo.com.uy/Salud/Tras-caso-de-dengue-autoctono-MSP-realizo-control-y-no-identifico-sintomas-sospechosos-uc918457) (Montevideo.com.uy)
 
 - [El MSP confirmó un caso de dengue autóctono en Montevideo: estas son sus recomendaciones](https://www.montevideo.com.uy/Salud/El-MSP-confirmo-un-caso-de-dengue-autoctono-en-Montevideo-estas-son-sus-recomendaciones-uc918420) (Montevideo.com.uy)
 

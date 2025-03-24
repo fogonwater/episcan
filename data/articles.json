@@ -1,8 +1,134 @@
 {
-  "last_updated": "2025-03-23 19:06",
-  "count_articles_total": 1492,
-  "count_articles_new": 4,
+  "last_updated": "2025-03-24 07:07",
+  "count_articles_total": 1511,
+  "count_articles_new": 10,
   "articles": [
+    {
+      "id": 19584,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Americanthinker.com",
+      "author": null,
+      "title": "Was there really a measles death in Texas?",
+      "description": "In a tragic and deeply concerning turn of events surrounding a measles outbreak in Texas, Children\u2019s Health Defense (CHD) revealed the truth about a child\u2019s tragic death at a Lubbock, Texas hospital. Journalists not only failed...",
+      "url": "https://www.americanthinker.com/blog/2025/03/was_there_really_a_measles_death_in_texas.html",
+      "urlToImage": "https://images.americanthinker.com/imported/2023-03/244580_800.jpg",
+      "publishedAt": "2025-03-23 04:00:00",
+      "content": "In a tragic and deeply concerning turn of events surrounding a measles outbreak in Texas, Children\u2019s Health Defense (CHD) revealed the truth about a child\u2019s tragic death at a Lubbock, Texas hospital.\u2026 [+6283 chars]",
+      "retrievedAt": "2025-03-24 07:07:43.035826",
+      "internal_id": "3bf36440c94d27b3a04cb95fcd38d46d8948de04ae14304d29a821061a072382",
+      "publishedAtLabel": "Mar 23"
+    },
+    {
+      "id": 19593,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ANI",
+      "title": "Pakistan confirms 2nd mpox case in 2025",
+      "description": "Pakistan's Sindh Health Department confirmed the first case of monkeypox in Karachi, involving a 28-year-old man whose wife recently traveled abroad. The patient has been isolated to prevent further spread. This case brings the total number of monkeypox cases\u2026",
+      "url": "https://timesofindia.indiatimes.com/world/pakistan/pakistan-confirms-2nd-mpox-case-in-2025/articleshow/119361579.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-119361839,width-1070,height-580,imgsize-945194,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2025-03-23 01:32:41",
+      "content": "5 foods that help reduce uric acid levels naturally",
+      "retrievedAt": "2025-03-24 07:07:46.751049",
+      "internal_id": "32869253c16af1ca8cf7a2b563459bd8a660eec5581038ee007bd78f6fd23a4b",
+      "publishedAtLabel": "Mar 23"
+    },
+    {
+      "id": 19592,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Animashaun Salman",
+      "title": "Kebbi urges calm as meningitis kills six university students",
+      "description": "Kebbi State Governor, Dr Nasir Idris, has urged residents to remain calm and stay safe in the face of the cerebrospinal meningitis outbreak in the state. The governor\u2019s call follows the death of six students of Kebbi State University of Science and Technology\u2026",
+      "url": "https://punchng.com/kebbi-urges-calm-as-meningitis-kills-six-university-students/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2019/04/11123350/650x350_meningitis_what_is_it_ref_guide.jpg",
+      "publishedAt": "2025-03-23 01:05:14",
+      "content": "Kebbi State Governor, Dr Nasir Idris, has urged residents to remain calm and stay safe in the face of the cerebrospinal meningitis outbreak in the state. The governors call follows the death of six \u2026 [+2535 chars]",
+      "retrievedAt": "2025-03-24 07:07:44.882878",
+      "internal_id": "975c97fbd7e4bddafed4a52fef74bf84ed50d5163e154c0b7fb87b0fede1f330",
+      "publishedAtLabel": "Mar 23"
+    },
+    {
+      "id": 19591,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "S\u00e3o Paulo se aproxima de 300 mil casos confirmados de dengue",
+      "description": "Regi\u00e3o com maior incid\u00eancia de infectados no Estado, a cada 100 mil habitantes, \u00e9 a S\u00e3o Jos\u00e9 do Rio Preto (4,4 mil)",
+      "url": "https://valor.globo.com/brasil/noticia/2025/03/22/so-paulo-se-aproxima-de-300-mil-casos-confirmados-de-dengue.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/4Sbxfi7kgoG8Bt8mPyhgAbHDuU8=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2024/3/b/8tkA4jROeTbNHaBrphwQ/106247910-osasco-20sp-2015-03-2024-20-20equipes-20da-20zoonoses-20realizam-20trabalho-20de-20campo-20no-20combate-20aos-20f.jpg",
+      "publishedAt": "2025-03-23 00:53:40",
+      "content": "O Estado de S\u00e3o Paulo est\u00e1 se aproximando dos 300 mil casos confirmados de dengue desde o in\u00edcio do ano. Segundo o N\u00facleo de Informa\u00e7\u00f5es Estrat\u00e9gicas em Sa\u00fade, o Estado j\u00e1 registrou 296.143 casos con\u2026 [+1379 chars]",
+      "retrievedAt": "2025-03-24 07:07:44.435325",
+      "internal_id": "5948280103bf599adb98968aadfa9a8fce8a0f834a59bc41eaed29ad9d9b7d91",
+      "publishedAtLabel": "Mar 23"
+    },
+    {
+      "id": 19588,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Khan.co.kr",
+      "author": "\uac15\uc815\uc758 \uae30\uc790 justice@kyunghyang.com",
+      "title": "\uc138\uc885\uc11c \ub610\ub2e4\uc2dc \uace0\ubcd1\uc6d0\uc131 AI\u00b7\u00b7\u00b7\uc62c\ud574 41\ubc88\uc9f8",
+      "description": "\uc138\uc885\uc2dc \uad00\uacc4\uc790\ub4e4\uc774 \uc9c0\ub09c\ud574 11\uc6d4 \uc18c\uc815\uba74 \uac70\uc810\uc18c\ub3c5\uc2dc\uc124\uc744 \ucc3e\uc544 \uac00\ucd95\uc804\uc5fc\ubcd1 \ubc29\uc5ed \ub300\uc751 \uc0c1\ud669\uc744 \uc810\uac80\ud558\uace0 \uc788\ub2e4. \uc138\uc885\uc2dc \uc81c\uacf5 \uc138\uc885\uc5d0\uc11c \ub610\ub2e4\uc2dc \uace0\ubcd1\uc6d0\uc131 \uc870\ub958\uc778\ud50c\ub8e8\uc5d4\uc790(AI)\uac00 \ud655\uc778\ub410\ub2e4. 23\uc77c \uace0\ubcd1\uc6d0\uc131 \uc870\ub958\uc778\ud50c\ub8e8\uc5d4\uc790 \uc911\uc559\uc0ac\uace0\uc218\uc2b5\ubcf8\ubd80\uc5d0 \ub530\ub974\uba74 \uc804\ub0a0 \uc138\uc885\uc5d0 \uc788\ub294 \ud55c \uc0b0\ub780\uacc4 \ub18d\uc7a5\uc5d0\uc11c H5N1\ud615 \uace0\ubcd1\uc6d0\uc131 \uc870\ub958\uc778\ud50c\ub8e8\uc5d4\uc790\uac00 \ud655\uc778\ub410\ub2e4. 2024\u223c2025\ub144 \uc720\ud589\uae30 \u00b7\u00b7\u00b7",
+      "url": "https://www.khan.co.kr/article/202503230620001",
+      "urlToImage": "https://img.khan.co.kr/news/2025/03/23/news-p.v1.20250323.d81d168b4da44ac6960bc2afb9e25dcb_P1.jpg",
+      "publishedAt": "2025-03-22 21:20:00",
+      "content": "11 . (AI) . 23 H5N1 . 2024\u223c2025 41 . , . 5 ( , \u00b7\u00b7, ) , . .",
+      "retrievedAt": "2025-03-24 07:07:44.092433",
+      "internal_id": "ccfe087873ea94bc5ee3a45117dd4f54fb89734a4ee0673e0fa20be5fa26900e",
+      "publishedAtLabel": "Mar 22"
+    },
+    {
+      "id": 19589,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "info-money",
+      "source_name": "InfoMoney",
+      "author": "augustodiniz",
+      "title": "S\u00e3o Paulo se aproxima de 300 mil casos confirmados de dengue",
+      "description": "Estado tem 273 mortes desde o in\u00edcio do ano; a regi\u00e3o paulista com maior n\u00famero de \u00f3bitos \u00e9 a de S\u00e3o Jos\u00e9 do Rio Preto, com 86 The post S\u00e3o Paulo se aproxima de 300 mil casos confirmados de dengue appeared first on InfoMoney.",
+      "url": "https://www.infomoney.com.br/brasil/sao-paulo-se-aproxima-de-300-mil-casos-confirmados-de-dengue/",
+      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2019/06/dengue-bloomberg.jpg?quality=70",
+      "publishedAt": "2025-03-22 20:21:37",
+      "content": "O estado de S\u00e3o Paulo est\u00e1 se aproximando dos 300 mil casos confirmados de dengue desde o in\u00edcio do ano. Segundo o N\u00facleo de Informa\u00e7\u00f5es Estrat\u00e9gicas em Sa\u00fade, o estado j\u00e1 registrou 296.143 casos con\u2026 [+1605 chars]",
+      "retrievedAt": "2025-03-24 07:07:44.405273",
+      "internal_id": "0407387b6eedd331a4565caaf40e0529109771d9c4e90d8cf9c463708c8fe916",
+      "publishedAtLabel": "Mar 22"
+    },
+    {
+      "id": 19590,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "Tras caso de dengue aut\u00f3ctono, MSP realiz\u00f3 control y no identific\u00f3 s\u00edntomas sospechosos",
+      "description": "La cartera brind\u00f3 informaci\u00f3n a los vecinos de Reus y trabaj\u00f3 en la eliminaci\u00f3n de larvas y criaderos de mosquitos.",
+      "url": "https://www.montevideo.com.uy/Salud/Tras-caso-de-dengue-autoctono-MSP-realizo-control-y-no-identifico-sintomas-sospechosos-uc918457",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202304/_W933_80/841257.jpg",
+      "publishedAt": "2025-03-22 19:24:00",
+      "content": "Montevideo Portal El Ministerio de Salud P\u00fablica (MSP) activ\u00f3 un operativo de control en la zona donde el pasado viernes 21 de marzo se encontr\u00f3 un caso aut\u00f3ctono de dengue en Montevideo. As\u00ed, l\u2026 [+1139 chars]",
+      "retrievedAt": "2025-03-24 07:07:44.426970",
+      "internal_id": "cca44e2da3a7d2a66c531cd80da7fa974897d9d562c5238d96f28d1f7e03d672",
+      "publishedAtLabel": "Mar 22"
+    },
     {
       "id": 19581,
       "query": [
@@ -163,6 +289,24 @@
       "content": "The measles outbreak that began in Texas before spreading to at least two other states swelled to 355 confirmed cases on Friday and officials say there is no sign its slowing. Im worried its getting\u2026 [+6134 chars]",
       "retrievedAt": "2025-03-23 07:06:10.023835",
       "internal_id": "c7f7be5e342d667257e9d430bcf50255ec3fe3f6ac0cd5f5c2a3d23ecb6572ad",
+      "publishedAtLabel": "Mar 21"
+    },
+    {
+      "id": 19586,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "FactCheck.org",
+      "author": "Catalina Jaramillo",
+      "title": "RFK Jr. Misleads About Measles Vaccine in Hannity Interview",
+      "description": "In an interview with Fox News' Sean Hannity, Health and Human Services Secretary Robert F. Kennedy Jr. made several unsupported or misleading claims about the measles vaccine, which the Centers for Disease Control and Prevention has said is safe and \u201cthe most\u2026",
+      "url": "https://www.factcheck.org/2025/03/rfk-jr-misleads-about-measles-vaccine-in-hannity-interview/",
+      "urlToImage": "https://cdn.factcheck.org/UploadedFiles/RFK-Jr.-Hannity-720-x-307.png",
+      "publishedAt": "2025-03-21 21:48:45",
+      "content": "In an interview with Fox News\u2019 Sean Hannity, Health and Human Services Secretary Robert F. Kennedy Jr. made several unsupported or misleading claims about the measles vaccine, which the Centers for D\u2026 [+18498 chars]",
+      "retrievedAt": "2025-03-24 07:07:43.139560",
+      "internal_id": "cc87777eb912212547f139b2c5b724f511c6e5ee9e2eb013f3b6b03607d59b4e",
       "publishedAtLabel": "Mar 21"
     },
     {
@@ -472,6 +616,24 @@
       "publishedAtLabel": "Mar 21"
     },
     {
+      "id": 19585,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Kevinmd.com",
+      "author": "American College of Physicians & The Podcast by KevinMD",
+      "title": "Match Day 2025: Safeguarding the future of medical students amid crisis [PODCAST]",
+      "description": "Janet A. Jokela, an infectious disease physician, discusses her article, \"Match Day 2025: Protecting our students' futures.\" She explores the unprecedented challenges facing medical students, including a U.S. measles outbreak, censorship at the CDC, disrupted\u2026",
+      "url": "https://kevinmd.com/2025/03/match-day-2025-safeguarding-the-future-of-medical-students-amid-crisis-podcast.html",
+      "urlToImage": "https://kevinmd.com/wp-content/uploads/The-Podcast-by-KevinMD-WideScreen-3000-px-2-scaled.jpg",
+      "publishedAt": "2025-03-21 17:00:21",
+      "content": "Subscribe to The Podcast by KevinMD. Watch on YouTube. Catch up on old episodes! Janet A. Jokela, an infectious disease physician, discusses her article, \u201cMatch Day 2025: Protecting our students\u2019 fu\u2026 [+13943 chars]",
+      "retrievedAt": "2025-03-24 07:07:43.131758",
+      "internal_id": "2eeaefde76de52bda1a6b8d8b431f83f034a3cbf0363e886547fffe549f28c62",
+      "publishedAtLabel": "Mar 21"
+    },
+    {
       "id": 19563,
       "query": [
         "chikungunya"
@@ -687,6 +849,24 @@
       "content": "\"Texas parents of child who died of measles urge others not to vaccinate\" was first published by The Texas Tribune, a nonprofit, nonpartisan media organization that informs Texans and engages with th\u2026 [+3944 chars]",
       "retrievedAt": "2025-03-22 19:05:31.714837",
       "internal_id": "660be22bec974c1c9cde97c047e3a25bfcb131e6a70b6c081579edbe7759b042",
+      "publishedAtLabel": "Mar 21"
+    },
+    {
+      "id": 19587,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Sumanta Saha, Melanie Millier, Ari Samaranayaka, Liza Edmonds, Emma Best, James Ussher, Andrew Anglemyer, Jennifer Lee, Michael Tatley, Felicity Cutts, Rob van Binnendijk, Peter McIntyre",
+      "title": "Immunogenicity and safety of measles-mumps-rubella vaccine delivered by the aerosol, intradermal and intramuscular routes in previously vaccinated young adults: a randomized controlled trial protocol",
+      "description": "Background There are increasing reports of outbreaks of measles in countries that achieved measles elimination using two doses of measles-mumps-rubella (MMR) vaccine, particularly in health care settings. While responses to a third dose of MMR in two-dose rec\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318893",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0318893.g001&size=inline",
+      "publishedAt": "2025-03-21 14:00:00",
+      "content": "Citation: Saha S, Millier M, Samaranayaka A, Edmonds L, Best E, Ussher J, et al. (2025) Immunogenicity and safety of measles-mumps-rubella vaccine delivered by the aerosol, intradermal and intramuscu\u2026 [+28950 chars]",
+      "retrievedAt": "2025-03-24 07:07:43.147399",
+      "internal_id": "5f997f7274a04ffadf2ce13997bf80a30796318de35b088ae419e02cddee5149",
       "publishedAtLabel": "Mar 21"
     },
     {
@@ -26901,6 +27081,168 @@
       "content": "Ett fall av f\u00e5gelinfluensa har redan konstaterats i Finland i \u00e5r. En kaja med f\u00e5gelinfluensa av typen H5N1 hittades i \u00c5bo f\u00f6r n\u00e5gra veckor sedan. Det \u00e4r det f\u00f6rsta fallet i Finland p\u00e5 ungef\u00e4r ett \u00e5r.\u2026 [+4365 chars]",
       "retrievedAt": "2025-02-11 07:06:27.930823",
       "internal_id": "b4f83a2513031d4ef0da8eaaa6ff79642da864f284e9ac63bd9cb2254af91cb6",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 18079,
+      "query": [
+        "measles"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Jordan King",
+      "title": "Texas Measles Cases Hit County With Low Vaccination Rates",
+      "description": "A rapid rise in and around rural Gaines County on the border with New Mexico has seen 14 confirmed and six probable cases.",
+      "url": "https://www.newsweek.com/measles-outbreak-texas-gaines-county-vaccination-rate-2028453",
+      "urlToImage": "https://d.newsweek.com/en/full/2584403/vaccine-file-photo.jpg",
+      "publishedAt": "2025-02-09 17:15:07",
+      "content": "A rise in cases of measles has hit a rural area in and around Gaines County, in Texas, where the measles vaccination rate is low. The Texas Department of State Health Services reported that there we\u2026 [+2521 chars]",
+      "retrievedAt": "2025-02-10 19:05:46.575319",
+      "internal_id": "89953695e495b9f78e090944e165c98f5f888605207028e7bc998691281df310",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 18090,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Catracalivre.com.br",
+      "author": "Andr\u00e9 Nicolau",
+      "title": "Qual o risco de a gripe avi\u00e1ria virar uma nova pandemia entre humanos?",
+      "description": "A gripe avi\u00e1ria \u00e9 uma das doen\u00e7as que mais tem chamado a aten\u00e7\u00e3o de autoridades em sa\u00fade no mundo. Desde o in\u00edcio de 2024, a infec\u00e7\u00e3o causada pelo v\u00edrus influenza A (H5N1) vem se espalhando principalmente nos Estados Unidos. Por l\u00e1, j\u00e1 atinge aves dom\u00e9sticas,\u2026",
+      "url": "https://catracalivre.com.br/saude-bem-estar/qual-o-risco-de-a-gripe-aviaria-virar-uma-nova-pandemia-entre-humanos/",
+      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1280,h=680,fit=cover,format=jpeg/wp-content/uploads/2025/02/depositphotos-241487282-s.jpg",
+      "publishedAt": "2025-02-09 17:00:06",
+      "content": "Desde 2003, foram notificadas \u00e0 OMS mais de 950 infec\u00e7\u00f5es humanas causadas pelo v\u00edrus H5N1 no mundo ChinaImages/Depositphotos - Shen chunchen - Imaginechina A gripe avi\u00e1ria \u00e9 uma das doen\u00e7as que mai\u2026 [+4150 chars]",
+      "retrievedAt": "2025-02-11 07:06:27.896365",
+      "internal_id": "7569fe4c8bdf364e9be829007ee1a1c3a6b9376fef0175beb15d858c22ea5119",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 18080,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Newsbreak.com",
+      "author": "Niamh Kirk",
+      "title": "Measles outbreak spreads as health officials urge anyone who hasn't been vaccinated to get jabbed - NewsBreak",
+      "description": "Health officials have urged anyone in the area who hasn't been vaccinated, both adults and children to get a dose immediately due to the alarming rise in m",
+      "url": "https://www.newsbreak.com/share/3798078238417-measles-outbreak-spreads-as-health-officials-urge-anyone-who-hasn-t-been-vaccinated-to-get-jabbed?s=a2&share_destination_id=NTMxMzc4NDEtMTczOTExODU1MjI2Ng%3D%3D&pd=03axZxIg&hl=en_US&send_time=1739118552&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.6.1%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_model_exp_25q1-v8%2Cns_foryou_blend_exp_25q1-v8%2Cns_foryou_rank_exp_25q1-v6%2Cns_foryou_recall_exp_25q1-v7%2Cns_push_exp_rt_bucketv12-v8",
+      "urlToImage": "https://img.particlenews.com/img/id/1Ndizs_0yl1VL9M00",
+      "publishedAt": "2025-02-09 16:29:39",
+      "content": "Health officials are concerned over a measles outbreak in a rural area of West Texas with 14 confirmed cases. Investigations are ongoing after the state health department shared a health alert tha\u2026 [+2405 chars]",
+      "retrievedAt": "2025-02-10 19:05:46.627294",
+      "internal_id": "42627147313af21d999e8ad512249f13db2d8aae8e13fa3c48f6b275415aae12",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 18082,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Newsbreak.com",
+      "author": "Niamh Kirk",
+      "title": "Measles outbreak spreads as health officials urge anyone who hasn't been vaccinated to get jabbed - NewsBreak",
+      "description": "Health officials have urged anyone in the area who hasn't been vaccinated, both adults and children to get a dose immediately due to the alarming rise in m",
+      "url": "https://www.newsbreak.com/share/3798078238417-measles-outbreak-spreads-as-health-officials-urge-anyone-who-hasn-t-been-vaccinated-to-get-jabbed?_f=app_share&pd=04jUeKTH&lang=en_US&send_time=1739109677&trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.6.0.7%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_model_exp_25q1-v9%2Cns_push_exp_rt_bucketv12-v1%2Cns_foryou_rank_exp_25q1-v2%2Cns_foryou_blend_exp_25q1-control%2Cns_foryou_recall_exp_25q1-v5&s=i2",
+      "urlToImage": "https://img.particlenews.com/img/id/1Ndizs_0yl1VL9M00",
+      "publishedAt": "2025-02-09 14:01:44",
+      "content": "Health officials are concerned over a measles outbreak in a rural area of West Texas with 14 confirmed cases. Investigations are ongoing after the state health department shared a health alert tha\u2026 [+2405 chars]",
+      "retrievedAt": "2025-02-10 19:05:46.644322",
+      "internal_id": "fce248a4a86926cc1385bfc086de4e11ec54644cfc8438d01e09fe7109d8f939",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 18084,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Ilgiornale.it",
+      "author": "redazione@ilgiornale-web.it (Alessandro Ferro)",
+      "title": "Onde elettromagnetiche per \"abbattere\" l'aviaria: ecco come funzionano",
+      "description": "Una ricerca italiana ha scoperto il metodo pi\u00f9 efficace per \"spegenere\" in maniera quasi definitiva la capacit\u00e0 di contagio del virus dell'aviaria ma anche di altri agenti patogeni: ecco la tecnica e le implicazioni future",
+      "url": "https://www.ilgiornale.it/news/rimedi-naturali/aviaria-abbattuta-dalle-onde-elettromagnetiche-studio-2435169.html",
+      "urlToImage": "https://img.ilgcdn.com/sites/default/files/styles/social/public/foto/2020/02/02/1580650141-pollame-giornale.jpg?_=1580650141",
+      "publishedAt": "2025-02-09 10:34:52",
+      "content": "\u00c8 soprattutto negli Stati Uniti che il virus H5N1 dell'aviaria fa pi\u00f9 paura con il contagio di centinaia di capi d'allevamento e i primi casi anche sull'uomo. Grazie a un team di ricerca italiano del\u2026 [+2625 chars]",
+      "retrievedAt": "2025-02-10 19:05:47.479837",
+      "internal_id": "bd2a99a60a8504f00540530bb3e348cc6ef967f08e7714630d39b8dfb0e308ed",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 18086,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Standard Digital",
+      "author": "Dennis Kinyua",
+      "title": "How to strengthen malaria prevention through community",
+      "description": "The efforts of CHPs have acquired trust from the community, and more people are embracing malaria prevention practices.",
+      "url": "https://www.standardmedia.co.ke/health/health-opinion/article/2001511362/how-to-strengthen-malaria-prevention-through-community",
+      "urlToImage": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/K14sMagZygOBRv4YGzf3cZWX0jBz8yhbKVn2xS1a.jpg",
+      "publishedAt": "2025-02-09 10:01:31",
+      "content": "CHPs dialogue meeting in Bukika Community Health Unit, Busia County. [Courtesy] On a sunny afternoon under a tree, a group of Community Health Promoters and local community members have gathered. Th\u2026 [+3280 chars]",
+      "retrievedAt": "2025-02-10 19:05:49.133105",
+      "internal_id": "5574b882878f94ae90029240cf93875cff0098d42d49a5adf7050ced404aa17c",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 18085,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "ynet",
+      "source_name": "Ynet",
+      "author": "\u05e6\u05d5\u05e8 \u05d2\u05d5\u05d0\u05d8\u05d4",
+      "title": "\u05d0\u05d9\u05e8\u05d5\u05e2 \u05d7\u05e8\u05d9\u05d2 \u05d1\u05d0\u05e8\u05d4\"\u05d1: \u05e4\u05e8\u05d5\u05ea \u05e0\u05d3\u05d1\u05e7\u05d5 \u05d1\u05d6\u05df \u05d7\u05d3\u05e9 \u05e9\u05dc \u05e9\u05e4\u05e2\u05ea \u05d4\u05e2\u05d5\u05e4\u05d5\u05ea",
+      "description": "\u05e0\u05d2\u05d9\u05e3 \u05e9\u05e4\u05e2\u05ea \u05d4\u05e2\u05d5\u05e4\u05d5\u05ea \u05de\u05de\u05e9\u05d9\u05da \u05dc\u05d4\u05ea\u05e4\u05e9\u05d8 \u05d1\u05d0\u05e8\u05d4\"\u05d1, \u05db\u05d0\u05e9\u05e8 \u05d6\u05df \u05d7\u05d3\u05e9, D1.1, \u05d6\u05d5\u05d4\u05d4 \u05d1\u05e2\u05d3\u05e8\u05d9 \u05d1\u05e7\u05e8 \u05dc\u05d9\u05d9\u05e6\u05d5\u05e8 \u05d7\u05dc\u05d1. \u05d4\u05d6\u05df \u05d4\u05d7\u05d3\u05e9 \u05de\u05e2\u05d5\u05e8\u05e8 \u05d3\u05d0\u05d2\u05d4 \u05d1\u05e7\u05e8\u05d1 \u05de\u05d5\u05de\u05d7\u05d9\u05dd \u05d1\u05e9\u05dc \u05e4\u05d5\u05d8\u05e0\u05e6\u05d9\u05d0\u05dc \u05d4\u05d4\u05ea\u05e4\u05e9\u05d8\u05d5\u05ea \u05e9\u05dc\u05d5 \u05d5\u05d4\u05d7\u05e9\u05e9 \u05de\u05e4\u05e0\u05d9 \u05de\u05d5\u05d8\u05e6\u05d9\u05d5\u05ea \u05e0\u05d5\u05e1\u05e4\u05d5\u05ea. \u05de\u05e9\u05e8\u05d3 \u05d4\u05d7\u05e7\u05dc\u05d0\u05d5\u05ea \u05d4\u05d0\u05de\u05e8\u05d9\u05e7\u05e0\u05d9 \u05e0\u05d5\u05e7\u05d8 \u05d1\u05e6\u05e2\u05d3\u05d9\u05dd \u05dc\u05d1\u05dc\u05d9\u05de\u05ea \u05d4\u05d4\u05ea\u05e4\u05e8\u05e6\u05d5\u05ea. \u05d3\"\u05e8 \u05e2\u05e0\u05ea \u05e9\u05d8\u05e8\u05df \u05de\u05d4\u05de\u05db\u05d5\u05df \u05dc\u05de\u05d7\u05dc\u05d5\u05ea \u05d6\u05d9\u05d4\u05d5\u05de\u05d9\u05d5\u05ea \u05d1\u05e8\u05de\u2026",
+      "url": "https://www.ynet.co.il/health/article/rkq00oahtkx",
+      "urlToImage": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/02/09/r1UDre8tJx/r1UDre8tJx_0_37_1000_563_0_large.jpg",
+      "publishedAt": "2025-02-09 09:53:26",
+      "content": ", H5N1 65. , , , 67 , \". 100 . , D1.1, ( ). , 957 2024 , B3.13. \" 2024 , \", \" , \". \" , . , , \". , , . , , . \" , \", . \" , , \". \" , \" , . , . , , . , '' , \". \" , , . \" , \". , , D1.1 , , , , \" , \u2026 [+5 chars]",
+      "retrievedAt": "2025-02-10 19:05:47.526190",
+      "internal_id": "f262e5ebc452ca85983486249de514a7ab6f72220ed5bd02dec35afe19b93a81",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 18083,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Tvn24.pl",
+      "author": "kw",
+      "title": "Zamykaj\u0105 targi, wybijaj\u0105 zaka\u017cone zwierz\u0119ta. Ptasia grypa rozprzestrzenia si\u0119 w Nowym Jorku",
+      "description": "Ptasia grypa niepokoi w\u0142adze Nowego Jorku. Po prewencyjnych kontrolach na targach \u017cywego drobiu stwierdzono kilka przypadk\u00f3w zaka\u017cenia wirusem H5N1 u ptactwa. Zwierz\u0119ta wybito, by choroba nie rozprzestrzeni\u0142a si\u0119 jeszcze bardziej.",
+      "url": "https://tvn24.pl/tvnmeteo/swiat/zamykaja-targi-wybijaja-zakazone-zwierzeta-ptasia-grypa-rozprzestrzenia-sie-w-nowym-jorku-st8298168",
+      "urlToImage": "https://tvn24.pl/najnowsze/cdn-zdjecie-2899184-ptasia-grypa-rozprzestrzenia-sie-w-nowym-jorku-ph8298173/alternates/LANDSCAPE_1280",
+      "publishedAt": "2025-02-09 09:52:06",
+      "content": "Ptasia grypa niepokoi wadze Nowego Jorku. Po prewencyjnych kontrolach na targach ywego drobiu stwierdzono kilka przypadk\u00f3w zakaenia wirusem H5N1 u ptactwa. Zwierzta wybito, by choroba nie rozprzestrz\u2026 [+1732 chars]",
+      "retrievedAt": "2025-02-10 19:05:47.465152",
+      "internal_id": "c76dcf24acc5ff4a12a581e04e460c48f2f6ac1bb11a219401df49bd2b73e00b",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 18081,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Newsbreak.com",
+      "author": "Niamh Kirk",
+      "title": "Measles outbreak spreads as health officials urge anyone who hasn't been vaccinated to get jabbed - NewsBreak",
+      "description": "Health officials have urged anyone in the area who hasn't been vaccinated, both adults and children to get a dose immediately due to the alarming rise in m",
+      "url": "https://www.newsbreak.com/share/3798078238417-measles-outbreak-spreads-as-health-officials-urge-anyone-who-hasn-t-been-vaccinated-to-get-jabbed?s=a2&share_destination_id=MjE0OTg1NzExLTE3MzkxNDQyMzc1NTc%3D&pd=0EY3bTgT&hl=en_US&send_time=1739144237&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.4.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_recall_exp_25q1-v6%2Cns_foryou_model_exp_25q1-v6%2Cns_foryou_blend_exp_25q1-v3%2Cns_foryou_rank_exp_25q1-v5",
+      "urlToImage": "https://img.particlenews.com/img/id/1Ndizs_0yl1VL9M00",
+      "publishedAt": "2025-02-09 09:51:50",
+      "content": "Health officials are concerned over a measles outbreak in a rural area of West Texas with 14 confirmed cases. Investigations are ongoing after the state health department shared a health alert tha\u2026 [+2405 chars]",
+      "retrievedAt": "2025-02-10 19:05:46.635549",
+      "internal_id": "43990b2ff2a60d8e469755b7f9eccd51bdc6897f44dd4d5e14d6417bef471fc7",
       "publishedAtLabel": "Feb 9"
     }
   ]
