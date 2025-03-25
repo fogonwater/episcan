@@ -1,8 +1,134 @@
 {
-  "last_updated": "2025-03-24 19:06",
-  "count_articles_total": 1507,
-  "count_articles_new": 5,
+  "last_updated": "2025-03-25 07:07",
+  "count_articles_total": 1527,
+  "count_articles_new": 11,
   "articles": [
+    {
+      "id": 19600,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Insurance Journal",
+      "author": "admin",
+      "title": "Texas Measles Outbreak Could Become National Epidemic: Public Health Experts",
+      "description": "With its measles outbreak spreading to two additional states, Texas is on track to becoming the cause of a national epidemic if it doesn\u2019t start vaccinating more people, according to public health experts. Measles, a highly contagious disease that was \u2026",
+      "url": "https://www.insurancejournal.com/news/southcentral/2025/03/24/816750.htm",
+      "urlToImage": "https://www.insurancejournal.com/img/social/opengraph/ij-social-default-1200x630.png",
+      "publishedAt": "2025-03-24 07:00:54",
+      "content": "With its measles outbreak spreading to two additional states, Texas is on track to becoming the cause of a national epidemic if it doesn\u2019t start vaccinating more people, according to public health ex\u2026 [+14820 chars]",
+      "retrievedAt": "2025-03-25 07:07:15.995406",
+      "internal_id": "c524a5d691ed043434863ad0a69529f57988e9b17384d3a18a635e39b8b615eb",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 19608,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "VALNEVA",
+      "title": "Valneva Responds to French Government\u2019s Call for Vaccine Supply of IXCHIQ\u00ae against Chikungunya Outbreak in La R\u00e9union",
+      "description": "Saint Herblain (France), March 24, 2025 \u2013 Valneva SE (Nasdaq: VALN; Euronext Paris: VLA), a specialty vaccine company, today announced that it is responding to the chikungunya outbreak that is rapidly intensifying in France\u2019s Island of La R\u00e9union with its vac\u2026",
+      "url": "https://www.globenewswire.com/news-release/2025/03/24/3047528/0/en/Valneva-Responds-to-French-Government-s-Call-for-Vaccine-Supply-of-IXCHIQ-against-Chikungunya-Outbreak-in-La-R%C3%A9union.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/04f398df-96ac-4b7a-8544-2a2ce2495778",
+      "publishedAt": "2025-03-24 06:00:00",
+      "content": "Saint Herblain (France), March 24, 2025Valneva SE (Nasdaq: VALN; Euronext Paris: VLA), a specialty vaccine company, today announced that it is responding to the chikungunya outbreak that is rapidly i\u2026 [+10930 chars]",
+      "retrievedAt": "2025-03-25 07:07:18.514523",
+      "internal_id": "e2ab4a7d5e4865558a70dc57a2cbf0ee0198e1eaafa797665ac4ae0a365ad759",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 19609,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "VALNEVA",
+      "title": "Valneva r\u00e9pond \u00e0 l'appel du gouvernement fran\u00e7ais pour la fourniture du vaccin IXCHIQ\u00ae contre l'\u00e9pid\u00e9mie de chikungunya \u00e0 La R\u00e9union",
+      "description": "Saint Herblain (France), le 24 mars 2025 \u2013 Valneva SE (Nasdaq: VALN; Euronext Paris: VLA), soci\u00e9t\u00e9 sp\u00e9cialis\u00e9e dans les vaccins, a annonc\u00e9 aujourd\u2019hui qu\u2019elle r\u00e9pondait avec son vaccin IXCHIQ\u00ae \u00e0 l\u2019\u00e9pid\u00e9mie de chikungunya qui s\u2019intensifie rapidement sur l\u2019\u00eele \u2026",
+      "url": "https://www.globenewswire.com/news-release/2025/03/24/3047528/0/fr/Valneva-r%C3%A9pond-%C3%A0-l-appel-du-gouvernement-fran%C3%A7ais-pour-la-fourniture-du-vaccin-IXCHIQ-contre-l-%C3%A9pid%C3%A9mie-de-chikungunya-%C3%A0-La-R%C3%A9union.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/04f398df-96ac-4b7a-8544-2a2ce2495778",
+      "publishedAt": "2025-03-24 06:00:00",
+      "content": "Saint Herblain (France), le 24 mars 2025Valneva SE (Nasdaq: VALN; Euronext Paris: VLA), soci\u00e9t\u00e9 sp\u00e9cialis\u00e9e dans les vaccins, a annonc\u00e9 aujourdhui quelle r\u00e9pondait avec son vaccin IXCHIQ\u00ae \u00e0 l\u00e9pid\u00e9mie\u2026 [+12624 chars]",
+      "retrievedAt": "2025-03-25 07:07:18.523407",
+      "internal_id": "aa9d3b4715ea412eecb75a9fbea25186ff1eb6d4ac0be8c3ea1c2d946b2da795",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 19606,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Record.com.mx",
+      "author": "@record_mexico",
+      "title": "Edson \u00c1lvarez destac\u00f3 la importancia de finalmente ganar la Nations League",
+      "description": "El capit\u00e1n se mostr\u00f3 contento de poder conquistar un nuevo t\u00edtulo con el Tri",
+      "url": "https://www.record.com.mx/futbol-futbol-nacional-seleccion-mexicana/edson-alvarez-destaco-la-importancia-de-finalmente-ganar",
+      "urlToImage": "https://www.record.com.mx/sites/default/files/articulos/2025/03/24/edson-alvarez-destaco-la-importancia-de-finalmente-ganar-la-nations-league.webp",
+      "publishedAt": "2025-03-24 05:55:51",
+      "content": "Rompieron la malaria en Nations League. La Selecci\u00f3n Mexicana finalmente logr\u00f3 conquistar el t\u00edtulo que se les hab\u00eda escapado desde 2019, al vencer a Panam\u00e1 en la Final. Tras levantar el trofeo, Edso\u2026 [+1254 chars]",
+      "retrievedAt": "2025-03-25 07:07:17.626088",
+      "internal_id": "fee8c634a070c8288d209b439dc630029df615f799cf2c7a0bd3ed939637a39f",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 19607,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Record.com.mx",
+      "author": "@record_mexico",
+      "title": "Selecci\u00f3n Mexicana: \u00bfCu\u00e1ntos t\u00edtulos ha ganado Javier Aguirre con el Tricolor?",
+      "description": "El entrenador azteca gan\u00f3 su primer trofeo en su nuevo mandato con el Tri: la Nations League de la CONCACAF",
+      "url": "https://www.record.com.mx/futbol-futbol-nacional-seleccion-mexicana/seleccion-mexicana-cuantos-titulos-ha-ganado-javier",
+      "urlToImage": "https://www.record.com.mx/sites/default/files/articulos/2025/03/23/seleccion-mexicana-cuantos-titulos-ha-ganado-javier-aguirre-con-el-tricolor.webp",
+      "publishedAt": "2025-03-24 04:02:00",
+      "content": "\u00a1Campeones! La Selecci\u00f3n Mexicana rompi\u00f3 la malaria y levant\u00f3 su primer t\u00edtulo desde 2023 al conquistar laConcacaf Nations League por primera vez en su historia. Este t\u00edtulo, adem\u00e1s, signific\u00f3 el pri\u2026 [+1367 chars]",
+      "retrievedAt": "2025-03-25 07:07:17.635467",
+      "internal_id": "84304c9fb1fcd7599e418cfde47c36568fc326481f144a9583ccaabc8287628f",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 19599,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Wattsupwiththat.com",
+      "author": "Kip Hansen",
+      "title": "What\u2019s Up with Measles?",
+      "description": "Measles is getting rather spotty coverage in the press over the last couple of months. Most of the coverage deals with a measles outbreak in Texas, in and around Gaines, Terry and Dawson counties in the South Plains region of the U.S. state of Texas.",
+      "url": "https://wattsupwiththat.com/2025/03/23/whats-up-with-measles/",
+      "urlToImage": "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2025/03/featured-Measles.webp?fit=1024%2C512&ssl=1",
+      "publishedAt": "2025-03-24 02:46:17",
+      "content": "Guest Essay by Kip Hansen 24 March 2025 1900 words Measles is getting rather spotty coverage in the press over the last couple of months. Most of the coverage deals with a measles outbreak in Te\u2026 [+11700 chars]",
+      "retrievedAt": "2025-03-25 07:07:15.946049",
+      "internal_id": "ca2e36bcd772e79e300dbb04b1edd074047cfb34fe0dc5036a4012c17e86d2fb",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 19604,
+      "query": [
+        "measles"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": "Peter D'Abrosca",
+      "title": "Tennessee reports first measles case amid U.S. outbreak",
+      "description": "Tennessee is the latest state to confirm a case of measles during the 2025 outbreak that has largely been concentrated in west Texas, but has spread across the country.",
+      "url": "https://www.foxnews.com/health/tennessee-reports-first-measles-case-amid-u-s-outbreak",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/02/GettyImages-930111234.jpg",
+      "publishedAt": "2025-03-23 21:29:50",
+      "content": "The Tennessee Department of Health (TDOH) has confirmed the first case of measles in the state, as an uptick across the country has recently been reported by health authorities. \"The individual bec\u2026 [+1733 chars]",
+      "retrievedAt": "2025-03-25 07:07:16.182488",
+      "internal_id": "695c23280691aa3c31ebbca2000e40e0f64d83593de10e82b8bb69e3bfbe3fb5",
+      "publishedAtLabel": "Mar 23"
+    },
     {
       "id": 19595,
       "query": [
@@ -220,6 +346,24 @@
       "publishedAtLabel": "Mar 22"
     },
     {
+      "id": 19603,
+      "query": [
+        "measles"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": "Melissa Rudy",
+      "title": "Parents of girl who died after measles infection said they wouldn't get MMR vaccine",
+      "description": "After their daughter passed away following a measles infection, West Texas parents spoke with Children\u2019s Health Defense about their thoughts on the MMR vaccine.",
+      "url": "https://www.foxnews.com/health/parents-girl-died-measles-infection-wouldnt-get-mmr-vaccine",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/03/baby-vaccine.png",
+      "publishedAt": "2025-03-22 17:41:46",
+      "content": "The parents of a young girl who died after contracting measles last month in West Texas are speaking out about their position on the MMR vaccine. The child, age 6, died on Feb. 26 after being hospit\u2026 [+4853 chars]",
+      "retrievedAt": "2025-03-25 07:07:16.169218",
+      "internal_id": "661d2ecfd71a002507dfa8b515238b1b657c8fa4e70cf62823b8a628459cdb7c",
+      "publishedAtLabel": "Mar 22"
+    },
+    {
       "id": 19581,
       "query": [
         "h5n1"
@@ -289,6 +433,24 @@
       "content": "The management of Kebbi State University of Science and Technology, Aliero, has confirmed the death of six students due to an outbreak of cerebrospinal meningitis. In a statement made available to o\u2026 [+2095 chars]",
       "retrievedAt": "2025-03-23 19:06:00.708052",
       "internal_id": "24aebdd560e84f31c535d6c8c3da947b4009edc680571c2c10f83b5580e6f21c",
+      "publishedAtLabel": "Mar 22"
+    },
+    {
+      "id": 19605,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Microbe.tv",
+      "author": "Vincent Racaniello",
+      "title": "TWiV 1202: Clinical update with Dr. Daniel Griffin",
+      "description": "In his weekly clinical update, Dr. Griffin and Vincent Racaniello rue about the unknowns of Sudan disease and new cases of paralytic polio, discuss the growing measles outbreak, exposure of newborns to measles, the FACTS about vaccination, high pathogenic inf\u2026",
+      "url": "https://www.microbe.tv/twiv/twiv-1202/",
+      "urlToImage": null,
+      "publishedAt": "2025-03-22 04:00:00",
+      "content": "In his weekly clinical update, Dr. Griffin and Vincent Racaniello rue about the unknowns of Sudan disease and new cases of paralytic polio, discuss the growing measles outbreak, exposure of newborns \u2026 [+852 chars]",
+      "retrievedAt": "2025-03-25 07:07:16.191695",
+      "internal_id": "9048a12dff1a14234b165c4c278362649c0f930c7ea3670dfe7c20ca23cca0b7",
       "publishedAtLabel": "Mar 22"
     },
     {
@@ -670,6 +832,24 @@
       "publishedAtLabel": "Mar 21"
     },
     {
+      "id": 19601,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "TODAY",
+      "author": "Sarah Jacoby",
+      "title": "After 5 years of COVID, the US is struggling with lower vaccination rates and distrust in public health",
+      "description": "With a measles outbreak raging, experts worry about lingering effects of the COVID pandemic on vaccination rates, misinformation and loss of trust in public health.",
+      "url": "https://www.today.com/health/coronavirus/vaccination-rates-covid-pandemic-rcna194486",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2025-03/pandemic-vaccination-rates-2x1-cz-250312-ea0357.jpg",
+      "publishedAt": "2025-03-21 17:22:25",
+      "content": "Last month, for the first time in two decades, a 6-year-old child in the U.S. died due to measles. Just a few weeks later, a second person died. Both were unvaccinated, making them part of a worrying\u2026 [+12674 chars]",
+      "retrievedAt": "2025-03-25 07:07:16.152136",
+      "internal_id": "29ddba432a517af3fe77253982bb0876acef750e92c5a6ff412234e00b501037",
+      "publishedAtLabel": "Mar 21"
+    },
+    {
       "id": 19535,
       "query": [
         "measles"
@@ -685,6 +865,24 @@
       "content": "People often dont like to admit that theyve made bad decisions or had bad ideas. In some cases, the more obviously incorrect that idea is, the more they will double down on defending it, even if it m\u2026 [+6582 chars]",
       "retrievedAt": "2025-03-22 19:05:31.692499",
       "internal_id": "989f16b514d8b879f4af1f8dcf922439e12594ce8e8c56c40656b325e106826e",
+      "publishedAtLabel": "Mar 21"
+    },
+    {
+      "id": 19602,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "seattlepi.com",
+      "author": "By DEVI SHASTRI and KASTURI PANANJADY, AP Health Writers",
+      "title": "Texas measles outbreak expected to last for months, though vaccinations are up from last year",
+      "description": "Measles cases in West Texas are still rising two months after the outbreak began. Local public health officials say they expect the outbreak to last for at least several more months and the case number is likely an undercount. More people have received a meas\u2026",
+      "url": "https://www.seattlepi.com/news/article/texas-measles-outbreak-expected-to-last-for-20234172.php",
+      "urlToImage": "https://s.hdnux.com/photos/01/47/44/00/27148301/6/rawImage.jpg",
+      "publishedAt": "2025-03-21 17:05:37",
+      "content": "Renee Barbian gives an insulin shot to her immunocompromised son Ezekiel Barbian in the parking lot of a grocery store, Monday, Feb. 24, 2025, in Hobbs, N.M. Julio Cortez/AP As measles cases in Wes\u2026 [+5999 chars]",
+      "retrievedAt": "2025-03-25 07:07:16.160795",
+      "internal_id": "5465c4c00f5e3d35343086a681312dc35297d972fb4f7d9e9e8eea1e9eada013",
       "publishedAtLabel": "Mar 21"
     },
     {
@@ -27171,6 +27369,168 @@
       "content": "Ett fall av f\u00e5gelinfluensa har redan konstaterats i Finland i \u00e5r. En kaja med f\u00e5gelinfluensa av typen H5N1 hittades i \u00c5bo f\u00f6r n\u00e5gra veckor sedan. Det \u00e4r det f\u00f6rsta fallet i Finland p\u00e5 ungef\u00e4r ett \u00e5r.\u2026 [+4365 chars]",
       "retrievedAt": "2025-02-11 07:06:27.930823",
       "internal_id": "b4f83a2513031d4ef0da8eaaa6ff79642da864f284e9ac63bd9cb2254af91cb6",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 18079,
+      "query": [
+        "measles"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Jordan King",
+      "title": "Texas Measles Cases Hit County With Low Vaccination Rates",
+      "description": "A rapid rise in and around rural Gaines County on the border with New Mexico has seen 14 confirmed and six probable cases.",
+      "url": "https://www.newsweek.com/measles-outbreak-texas-gaines-county-vaccination-rate-2028453",
+      "urlToImage": "https://d.newsweek.com/en/full/2584403/vaccine-file-photo.jpg",
+      "publishedAt": "2025-02-09 17:15:07",
+      "content": "A rise in cases of measles has hit a rural area in and around Gaines County, in Texas, where the measles vaccination rate is low. The Texas Department of State Health Services reported that there we\u2026 [+2521 chars]",
+      "retrievedAt": "2025-02-10 19:05:46.575319",
+      "internal_id": "89953695e495b9f78e090944e165c98f5f888605207028e7bc998691281df310",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 18090,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Catracalivre.com.br",
+      "author": "Andr\u00e9 Nicolau",
+      "title": "Qual o risco de a gripe avi\u00e1ria virar uma nova pandemia entre humanos?",
+      "description": "A gripe avi\u00e1ria \u00e9 uma das doen\u00e7as que mais tem chamado a aten\u00e7\u00e3o de autoridades em sa\u00fade no mundo. Desde o in\u00edcio de 2024, a infec\u00e7\u00e3o causada pelo v\u00edrus influenza A (H5N1) vem se espalhando principalmente nos Estados Unidos. Por l\u00e1, j\u00e1 atinge aves dom\u00e9sticas,\u2026",
+      "url": "https://catracalivre.com.br/saude-bem-estar/qual-o-risco-de-a-gripe-aviaria-virar-uma-nova-pandemia-entre-humanos/",
+      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1280,h=680,fit=cover,format=jpeg/wp-content/uploads/2025/02/depositphotos-241487282-s.jpg",
+      "publishedAt": "2025-02-09 17:00:06",
+      "content": "Desde 2003, foram notificadas \u00e0 OMS mais de 950 infec\u00e7\u00f5es humanas causadas pelo v\u00edrus H5N1 no mundo ChinaImages/Depositphotos - Shen chunchen - Imaginechina A gripe avi\u00e1ria \u00e9 uma das doen\u00e7as que mai\u2026 [+4150 chars]",
+      "retrievedAt": "2025-02-11 07:06:27.896365",
+      "internal_id": "7569fe4c8bdf364e9be829007ee1a1c3a6b9376fef0175beb15d858c22ea5119",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 18080,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Newsbreak.com",
+      "author": "Niamh Kirk",
+      "title": "Measles outbreak spreads as health officials urge anyone who hasn't been vaccinated to get jabbed - NewsBreak",
+      "description": "Health officials have urged anyone in the area who hasn't been vaccinated, both adults and children to get a dose immediately due to the alarming rise in m",
+      "url": "https://www.newsbreak.com/share/3798078238417-measles-outbreak-spreads-as-health-officials-urge-anyone-who-hasn-t-been-vaccinated-to-get-jabbed?s=a2&share_destination_id=NTMxMzc4NDEtMTczOTExODU1MjI2Ng%3D%3D&pd=03axZxIg&hl=en_US&send_time=1739118552&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.6.1%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_model_exp_25q1-v8%2Cns_foryou_blend_exp_25q1-v8%2Cns_foryou_rank_exp_25q1-v6%2Cns_foryou_recall_exp_25q1-v7%2Cns_push_exp_rt_bucketv12-v8",
+      "urlToImage": "https://img.particlenews.com/img/id/1Ndizs_0yl1VL9M00",
+      "publishedAt": "2025-02-09 16:29:39",
+      "content": "Health officials are concerned over a measles outbreak in a rural area of West Texas with 14 confirmed cases. Investigations are ongoing after the state health department shared a health alert tha\u2026 [+2405 chars]",
+      "retrievedAt": "2025-02-10 19:05:46.627294",
+      "internal_id": "42627147313af21d999e8ad512249f13db2d8aae8e13fa3c48f6b275415aae12",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 18082,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Newsbreak.com",
+      "author": "Niamh Kirk",
+      "title": "Measles outbreak spreads as health officials urge anyone who hasn't been vaccinated to get jabbed - NewsBreak",
+      "description": "Health officials have urged anyone in the area who hasn't been vaccinated, both adults and children to get a dose immediately due to the alarming rise in m",
+      "url": "https://www.newsbreak.com/share/3798078238417-measles-outbreak-spreads-as-health-officials-urge-anyone-who-hasn-t-been-vaccinated-to-get-jabbed?_f=app_share&pd=04jUeKTH&lang=en_US&send_time=1739109677&trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.6.0.7%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_model_exp_25q1-v9%2Cns_push_exp_rt_bucketv12-v1%2Cns_foryou_rank_exp_25q1-v2%2Cns_foryou_blend_exp_25q1-control%2Cns_foryou_recall_exp_25q1-v5&s=i2",
+      "urlToImage": "https://img.particlenews.com/img/id/1Ndizs_0yl1VL9M00",
+      "publishedAt": "2025-02-09 14:01:44",
+      "content": "Health officials are concerned over a measles outbreak in a rural area of West Texas with 14 confirmed cases. Investigations are ongoing after the state health department shared a health alert tha\u2026 [+2405 chars]",
+      "retrievedAt": "2025-02-10 19:05:46.644322",
+      "internal_id": "fce248a4a86926cc1385bfc086de4e11ec54644cfc8438d01e09fe7109d8f939",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 18084,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Ilgiornale.it",
+      "author": "redazione@ilgiornale-web.it (Alessandro Ferro)",
+      "title": "Onde elettromagnetiche per \"abbattere\" l'aviaria: ecco come funzionano",
+      "description": "Una ricerca italiana ha scoperto il metodo pi\u00f9 efficace per \"spegenere\" in maniera quasi definitiva la capacit\u00e0 di contagio del virus dell'aviaria ma anche di altri agenti patogeni: ecco la tecnica e le implicazioni future",
+      "url": "https://www.ilgiornale.it/news/rimedi-naturali/aviaria-abbattuta-dalle-onde-elettromagnetiche-studio-2435169.html",
+      "urlToImage": "https://img.ilgcdn.com/sites/default/files/styles/social/public/foto/2020/02/02/1580650141-pollame-giornale.jpg?_=1580650141",
+      "publishedAt": "2025-02-09 10:34:52",
+      "content": "\u00c8 soprattutto negli Stati Uniti che il virus H5N1 dell'aviaria fa pi\u00f9 paura con il contagio di centinaia di capi d'allevamento e i primi casi anche sull'uomo. Grazie a un team di ricerca italiano del\u2026 [+2625 chars]",
+      "retrievedAt": "2025-02-10 19:05:47.479837",
+      "internal_id": "bd2a99a60a8504f00540530bb3e348cc6ef967f08e7714630d39b8dfb0e308ed",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 18086,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Standard Digital",
+      "author": "Dennis Kinyua",
+      "title": "How to strengthen malaria prevention through community",
+      "description": "The efforts of CHPs have acquired trust from the community, and more people are embracing malaria prevention practices.",
+      "url": "https://www.standardmedia.co.ke/health/health-opinion/article/2001511362/how-to-strengthen-malaria-prevention-through-community",
+      "urlToImage": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/K14sMagZygOBRv4YGzf3cZWX0jBz8yhbKVn2xS1a.jpg",
+      "publishedAt": "2025-02-09 10:01:31",
+      "content": "CHPs dialogue meeting in Bukika Community Health Unit, Busia County. [Courtesy] On a sunny afternoon under a tree, a group of Community Health Promoters and local community members have gathered. Th\u2026 [+3280 chars]",
+      "retrievedAt": "2025-02-10 19:05:49.133105",
+      "internal_id": "5574b882878f94ae90029240cf93875cff0098d42d49a5adf7050ced404aa17c",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 18085,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "ynet",
+      "source_name": "Ynet",
+      "author": "\u05e6\u05d5\u05e8 \u05d2\u05d5\u05d0\u05d8\u05d4",
+      "title": "\u05d0\u05d9\u05e8\u05d5\u05e2 \u05d7\u05e8\u05d9\u05d2 \u05d1\u05d0\u05e8\u05d4\"\u05d1: \u05e4\u05e8\u05d5\u05ea \u05e0\u05d3\u05d1\u05e7\u05d5 \u05d1\u05d6\u05df \u05d7\u05d3\u05e9 \u05e9\u05dc \u05e9\u05e4\u05e2\u05ea \u05d4\u05e2\u05d5\u05e4\u05d5\u05ea",
+      "description": "\u05e0\u05d2\u05d9\u05e3 \u05e9\u05e4\u05e2\u05ea \u05d4\u05e2\u05d5\u05e4\u05d5\u05ea \u05de\u05de\u05e9\u05d9\u05da \u05dc\u05d4\u05ea\u05e4\u05e9\u05d8 \u05d1\u05d0\u05e8\u05d4\"\u05d1, \u05db\u05d0\u05e9\u05e8 \u05d6\u05df \u05d7\u05d3\u05e9, D1.1, \u05d6\u05d5\u05d4\u05d4 \u05d1\u05e2\u05d3\u05e8\u05d9 \u05d1\u05e7\u05e8 \u05dc\u05d9\u05d9\u05e6\u05d5\u05e8 \u05d7\u05dc\u05d1. \u05d4\u05d6\u05df \u05d4\u05d7\u05d3\u05e9 \u05de\u05e2\u05d5\u05e8\u05e8 \u05d3\u05d0\u05d2\u05d4 \u05d1\u05e7\u05e8\u05d1 \u05de\u05d5\u05de\u05d7\u05d9\u05dd \u05d1\u05e9\u05dc \u05e4\u05d5\u05d8\u05e0\u05e6\u05d9\u05d0\u05dc \u05d4\u05d4\u05ea\u05e4\u05e9\u05d8\u05d5\u05ea \u05e9\u05dc\u05d5 \u05d5\u05d4\u05d7\u05e9\u05e9 \u05de\u05e4\u05e0\u05d9 \u05de\u05d5\u05d8\u05e6\u05d9\u05d5\u05ea \u05e0\u05d5\u05e1\u05e4\u05d5\u05ea. \u05de\u05e9\u05e8\u05d3 \u05d4\u05d7\u05e7\u05dc\u05d0\u05d5\u05ea \u05d4\u05d0\u05de\u05e8\u05d9\u05e7\u05e0\u05d9 \u05e0\u05d5\u05e7\u05d8 \u05d1\u05e6\u05e2\u05d3\u05d9\u05dd \u05dc\u05d1\u05dc\u05d9\u05de\u05ea \u05d4\u05d4\u05ea\u05e4\u05e8\u05e6\u05d5\u05ea. \u05d3\"\u05e8 \u05e2\u05e0\u05ea \u05e9\u05d8\u05e8\u05df \u05de\u05d4\u05de\u05db\u05d5\u05df \u05dc\u05de\u05d7\u05dc\u05d5\u05ea \u05d6\u05d9\u05d4\u05d5\u05de\u05d9\u05d5\u05ea \u05d1\u05e8\u05de\u2026",
+      "url": "https://www.ynet.co.il/health/article/rkq00oahtkx",
+      "urlToImage": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/02/09/r1UDre8tJx/r1UDre8tJx_0_37_1000_563_0_large.jpg",
+      "publishedAt": "2025-02-09 09:53:26",
+      "content": ", H5N1 65. , , , 67 , \". 100 . , D1.1, ( ). , 957 2024 , B3.13. \" 2024 , \", \" , \". \" , . , , \". , , . , , . \" , \", . \" , , \". \" , \" , . , . , , . , '' , \". \" , , . \" , \". , , D1.1 , , , , \" , \u2026 [+5 chars]",
+      "retrievedAt": "2025-02-10 19:05:47.526190",
+      "internal_id": "f262e5ebc452ca85983486249de514a7ab6f72220ed5bd02dec35afe19b93a81",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 18083,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Tvn24.pl",
+      "author": "kw",
+      "title": "Zamykaj\u0105 targi, wybijaj\u0105 zaka\u017cone zwierz\u0119ta. Ptasia grypa rozprzestrzenia si\u0119 w Nowym Jorku",
+      "description": "Ptasia grypa niepokoi w\u0142adze Nowego Jorku. Po prewencyjnych kontrolach na targach \u017cywego drobiu stwierdzono kilka przypadk\u00f3w zaka\u017cenia wirusem H5N1 u ptactwa. Zwierz\u0119ta wybito, by choroba nie rozprzestrzeni\u0142a si\u0119 jeszcze bardziej.",
+      "url": "https://tvn24.pl/tvnmeteo/swiat/zamykaja-targi-wybijaja-zakazone-zwierzeta-ptasia-grypa-rozprzestrzenia-sie-w-nowym-jorku-st8298168",
+      "urlToImage": "https://tvn24.pl/najnowsze/cdn-zdjecie-2899184-ptasia-grypa-rozprzestrzenia-sie-w-nowym-jorku-ph8298173/alternates/LANDSCAPE_1280",
+      "publishedAt": "2025-02-09 09:52:06",
+      "content": "Ptasia grypa niepokoi wadze Nowego Jorku. Po prewencyjnych kontrolach na targach ywego drobiu stwierdzono kilka przypadk\u00f3w zakaenia wirusem H5N1 u ptactwa. Zwierzta wybito, by choroba nie rozprzestrz\u2026 [+1732 chars]",
+      "retrievedAt": "2025-02-10 19:05:47.465152",
+      "internal_id": "c76dcf24acc5ff4a12a581e04e460c48f2f6ac1bb11a219401df49bd2b73e00b",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 18081,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Newsbreak.com",
+      "author": "Niamh Kirk",
+      "title": "Measles outbreak spreads as health officials urge anyone who hasn't been vaccinated to get jabbed - NewsBreak",
+      "description": "Health officials have urged anyone in the area who hasn't been vaccinated, both adults and children to get a dose immediately due to the alarming rise in m",
+      "url": "https://www.newsbreak.com/share/3798078238417-measles-outbreak-spreads-as-health-officials-urge-anyone-who-hasn-t-been-vaccinated-to-get-jabbed?s=a2&share_destination_id=MjE0OTg1NzExLTE3MzkxNDQyMzc1NTc%3D&pd=0EY3bTgT&hl=en_US&send_time=1739144237&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.4.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_recall_exp_25q1-v6%2Cns_foryou_model_exp_25q1-v6%2Cns_foryou_blend_exp_25q1-v3%2Cns_foryou_rank_exp_25q1-v5",
+      "urlToImage": "https://img.particlenews.com/img/id/1Ndizs_0yl1VL9M00",
+      "publishedAt": "2025-02-09 09:51:50",
+      "content": "Health officials are concerned over a measles outbreak in a rural area of West Texas with 14 confirmed cases. Investigations are ongoing after the state health department shared a health alert tha\u2026 [+2405 chars]",
+      "retrievedAt": "2025-02-10 19:05:46.635549",
+      "internal_id": "43990b2ff2a60d8e469755b7f9eccd51bdc6897f44dd4d5e14d6417bef471fc7",
       "publishedAtLabel": "Feb 9"
     }
   ]

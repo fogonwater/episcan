@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 5
-- **Last harvest:** 2025-03-24 19:06
-- **Most recent article:** 2025-03-23 17:00:25
+- **New articles in last harvest:** 11
+- **Last harvest:** 2025-03-25 07:07
+- **Most recent article:** 2025-03-24 07:00:54
 
 ---
 
@@ -12,14 +12,14 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-10 | 25-11 | 25-12 | 25-13 | 25-7 | 25-8 | 25-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 142 | 133 | 101 | 2 | 68 | 83 | 162 | 691 |
-| h5n1 | 23 | 39 | 57 | 3 | 51 | 54 | 42 | 269 |
+| measles | 142 | 133 | 105 | 5 | 72 | 83 | 162 | 702 |
+| h5n1 | 23 | 39 | 57 | 3 | 55 | 54 | 42 | 273 |
 | dengue | 8 | 12 | 18 | 2 | 37 | 57 | 30 | 164 |
-| malaria | 29 | 22 | 17 | 0 | 11 | 7 | 20 | 106 |
+| malaria | 29 | 22 | 17 | 2 | 12 | 7 | 20 | 109 |
 | mpox | 14 | 15 | 8 | 1 | 18 | 15 | 26 | 97 |
 | meningitis | 4 | 9 | 7 | 1 | 12 | 11 | 7 | 51 |
 | hpai | 10 | 3 | 12 | 0 | 9 | 5 | 4 | 43 |
-| chikungunya | 6 | 1 | 17 | 0 | 5 | 3 | 7 | 39 |
+| chikungunya | 6 | 1 | 17 | 2 | 5 | 3 | 7 | 41 |
 | rabies | 3 | 8 | 3 | 0 | 5 | 4 | 2 | 25 |
 | typhoid | 3 | 8 | 0 | 0 | 3 | 0 | 4 | 18 |
 | zika | 3 | 0 | 2 | 0 | 2 | 6 | 2 | 15 |
@@ -1447,6 +1447,14 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles outbreak spreads as health officials urge anyone who hasn't been vaccinated to get jabbed - NewsBreak](https://www.newsbreak.com/share/3798078238417-measles-outbreak-spreads-as-health-officials-urge-anyone-who-hasn-t-been-vaccinated-to-get-jabbed?s=a2&share_destination_id=MjUxNzE4NzUzLTE3MzkxNDI4NDQyMDU%3D&pd=0H2BXtcW&hl=en_US&send_time=1739142844&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.4.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_push_exp_rt_bucketv12-v7%2Cns_foryou_blend_exp_25q1-v8%2Cns_foryou_recall_exp_25q1-v8%2Cns_foryou_model_exp_25q1-v1%2Cns_foryou_rank_exp_25q1-v4) (Newsbreak.com)
 
+- [Texas Measles Cases Hit County With Low Vaccination Rates](https://www.newsweek.com/measles-outbreak-texas-gaines-county-vaccination-rate-2028453) (Newsweek)
+
+- [Measles outbreak spreads as health officials urge anyone who hasn't been vaccinated to get jabbed - NewsBreak](https://www.newsbreak.com/share/3798078238417-measles-outbreak-spreads-as-health-officials-urge-anyone-who-hasn-t-been-vaccinated-to-get-jabbed?s=a2&share_destination_id=NTMxMzc4NDEtMTczOTExODU1MjI2Ng%3D%3D&pd=03axZxIg&hl=en_US&send_time=1739118552&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.6.1%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_model_exp_25q1-v8%2Cns_foryou_blend_exp_25q1-v8%2Cns_foryou_rank_exp_25q1-v6%2Cns_foryou_recall_exp_25q1-v7%2Cns_push_exp_rt_bucketv12-v8) (Newsbreak.com)
+
+- [Measles outbreak spreads as health officials urge anyone who hasn't been vaccinated to get jabbed - NewsBreak](https://www.newsbreak.com/share/3798078238417-measles-outbreak-spreads-as-health-officials-urge-anyone-who-hasn-t-been-vaccinated-to-get-jabbed?_f=app_share&pd=04jUeKTH&lang=en_US&send_time=1739109677&trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.6.0.7%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_model_exp_25q1-v9%2Cns_push_exp_rt_bucketv12-v1%2Cns_foryou_rank_exp_25q1-v2%2Cns_foryou_blend_exp_25q1-control%2Cns_foryou_recall_exp_25q1-v5&s=i2) (Newsbreak.com)
+
+- [Measles outbreak spreads as health officials urge anyone who hasn't been vaccinated to get jabbed - NewsBreak](https://www.newsbreak.com/share/3798078238417-measles-outbreak-spreads-as-health-officials-urge-anyone-who-hasn-t-been-vaccinated-to-get-jabbed?s=a2&share_destination_id=MjE0OTg1NzExLTE3MzkxNDQyMzc1NTc%3D&pd=0EY3bTgT&hl=en_US&send_time=1739144237&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.4.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_recall_exp_25q1-v6%2Cns_foryou_model_exp_25q1-v6%2Cns_foryou_blend_exp_25q1-v3%2Cns_foryou_rank_exp_25q1-v5) (Newsbreak.com)
+
 ## 25-7 (malaria)
 
 - [Nigeria approves $200M to offset shortfall from US aid cuts](https://www.dw.com/en/nigeria-approves-200m-to-offset-shortfall-from-us-aid-cuts/a-71607477) (DW (English))
@@ -1470,6 +1478,8 @@ Source: [News API](https://newsapi.org/)
 - [Ocho mujeres que cambiaron la farmacología](https://www.elperiodico.com/es/ciencia/20250212/ocho-mujeres-cambiaron-farmacologia-114232542) (Elperiodico.com)
 
 - [AI and public health issues in contemporary Nigeria - MediaLord.Ng](https://medialord.ng/ai-and-public-health-issues-in-contemporary-nigeria/) (Medialord.ng)
+
+- [How to strengthen malaria prevention through community](https://www.standardmedia.co.ke/health/health-opinion/article/2001511362/how-to-strengthen-malaria-prevention-through-community) (Standard Digital)
 
 ## 25-7 (hpai)
 
@@ -1595,6 +1605,14 @@ Source: [News API](https://newsapi.org/)
 
 - [Rikligt med fågelinfluensafall i Europa – men svårt att säga hur situationen blir i Finland](https://yle.fi/a/7-10072315) (YLE News)
 
+- [Qual o risco de a gripe aviária virar uma nova pandemia entre humanos?](https://catracalivre.com.br/saude-bem-estar/qual-o-risco-de-a-gripe-aviaria-virar-uma-nova-pandemia-entre-humanos/) (Catracalivre.com.br)
+
+- [Onde elettromagnetiche per "abbattere" l'aviaria: ecco come funzionano](https://www.ilgiornale.it/news/rimedi-naturali/aviaria-abbattuta-dalle-onde-elettromagnetiche-studio-2435169.html) (Ilgiornale.it)
+
+- [אירוע חריג בארה"ב: פרות נדבקו בזן חדש של שפעת העופות](https://www.ynet.co.il/health/article/rkq00oahtkx) (Ynet)
+
+- [Zamykają targi, wybijają zakażone zwierzęta. Ptasia grypa rozprzestrzenia się w Nowym Jorku](https://tvn24.pl/tvnmeteo/swiat/zamykaja-targi-wybijaja-zakazone-zwierzeta-ptasia-grypa-rozprzestrzenia-sie-w-nowym-jorku-st8298168) (Tvn24.pl)
+
 ## 25-7 (dengue)
 
 - [Ministério da Saúde amplia vacinação contra dengue para não perder doses do insumo](https://olhardigital.com.br/2025/02/15/medicina-e-saude/ministerio-da-saude-amplia-vacinacao-contra-dengue-para-nao-perder-doses-do-insumo/) (Olhardigital.com.br)
@@ -1693,9 +1711,21 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-13 (measles)
 
+- [Texas Measles Outbreak Could Become National Epidemic: Public Health Experts](https://www.insurancejournal.com/news/southcentral/2025/03/24/816750.htm) (Insurance Journal)
+
+- [What’s Up with Measles?](https://wattsupwiththat.com/2025/03/23/whats-up-with-measles/) (Wattsupwiththat.com)
+
+- [Tennessee reports first measles case amid U.S. outbreak](https://www.foxnews.com/health/tennessee-reports-first-measles-case-amid-u-s-outbreak) (Fox News)
+
 - [More US states report measles cases amid vaccine misinformation (Melody Schreiber/The Guardian)](https://www.memeorandum.com/250323/p11) (Memeorandum.com)
 
 - [Was there really a measles death in Texas?](https://www.americanthinker.com/blog/2025/03/was_there_really_a_measles_death_in_texas.html) (Americanthinker.com)
+
+## 25-13 (malaria)
+
+- [Edson Álvarez destacó la importancia de finalmente ganar la Nations League](https://www.record.com.mx/futbol-futbol-nacional-seleccion-mexicana/edson-alvarez-destaco-la-importancia-de-finalmente-ganar) (Record.com.mx)
+
+- [Selección Mexicana: ¿Cuántos títulos ha ganado Javier Aguirre con el Tricolor?](https://www.record.com.mx/futbol-futbol-nacional-seleccion-mexicana/seleccion-mexicana-cuantos-titulos-ha-ganado-javier) (Record.com.mx)
 
 ## 25-13 (h5n1)
 
@@ -1710,6 +1740,12 @@ Source: [News API](https://newsapi.org/)
 - [SP tem quase 300 mil casos confirmados de dengue em 2025](https://saude.ig.com.br/2025-03-23/sp-300-mil-casos-confirmados-dengue-2025.html) (Ig.com.br)
 
 - [São Paulo se aproxima de 300 mil casos confirmados de dengue](https://valor.globo.com/brasil/noticia/2025/03/22/so-paulo-se-aproxima-de-300-mil-casos-confirmados-de-dengue.ghtml) (Globo)
+
+## 25-13 (chikungunya)
+
+- [Valneva Responds to French Government’s Call for Vaccine Supply of IXCHIQ® against Chikungunya Outbreak in La Réunion](https://www.globenewswire.com/news-release/2025/03/24/3047528/0/en/Valneva-Responds-to-French-Government-s-Call-for-Vaccine-Supply-of-IXCHIQ-against-Chikungunya-Outbreak-in-La-R%C3%A9union.html) (GlobeNewswire)
+
+- [Valneva répond à l'appel du gouvernement français pour la fourniture du vaccin IXCHIQ® contre l'épidémie de chikungunya à La Réunion](https://www.globenewswire.com/news-release/2025/03/24/3047528/0/fr/Valneva-r%C3%A9pond-%C3%A0-l-appel-du-gouvernement-fran%C3%A7ais-pour-la-fourniture-du-vaccin-IXCHIQ-contre-l-%C3%A9pid%C3%A9mie-de-chikungunya-%C3%A0-La-R%C3%A9union.html) (GlobeNewswire)
 
 ## 25-12 (zika)
 
@@ -1771,7 +1807,11 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-12 (measles)
 
+- [Parents of girl who died after measles infection said they wouldn't get MMR vaccine](https://www.foxnews.com/health/parents-girl-died-measles-infection-wouldnt-get-mmr-vaccine) (Fox News)
+
 - [Three measles exposures confirmed in Virginia](https://fredericksburg.com/news/local/article_56634052-ebf6-4f9d-ab58-11e0dfa0a1a3.html) (Fredericksburg.com)
+
+- [TWiV 1202: Clinical update with Dr. Daniel Griffin](https://www.microbe.tv/twiv/twiv-1202/) (Microbe.tv)
 
 - [Shrug](https://www.lawyersgunsmoneyblog.com/2025/03/shrug) (Lawyersgunsmoneyblog.com)
 
@@ -1805,7 +1845,11 @@ Source: [News API](https://newsapi.org/)
 
 - [Mom of child dead from measles: "Don't do the shots," my other 4 kids were fine (Beth Mole/Ars Technica)](https://www.memeorandum.com/250321/p72) (Memeorandum.com)
 
+- [After 5 years of COVID, the US is struggling with lower vaccination rates and distrust in public health](https://www.today.com/health/coronavirus/vaccination-rates-covid-pandemic-rcna194486) (TODAY)
+
 - ['Measles Are Good For You' Say Parents Whose Kid Died Because Of Measles](https://www.wonkette.com/p/measles-are-good-for-you-say-parents) (Wonkette.com)
+
+- [Texas measles outbreak expected to last for months, though vaccinations are up from last year](https://www.seattlepi.com/news/article/texas-measles-outbreak-expected-to-last-for-20234172.php) (seattlepi.com)
 
 - [Measles Outbreak: Cases In Texas Over 300 As Illness Spreads To At Least 17 States](https://www.forbes.com/sites/antoniopequenoiv/2025/03/21/measles-outbreak-cases-in-texas-near-280-as-illness-spreads-to-15-states/) (Forbes)
 
