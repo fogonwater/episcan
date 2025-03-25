@@ -1,8 +1,566 @@
 {
-  "last_updated": "2025-03-25 07:07",
-  "count_articles_total": 1527,
-  "count_articles_new": 11,
+  "last_updated": "2025-03-25 19:06",
+  "count_articles_total": 1550,
+  "count_articles_new": 32,
   "articles": [
+    {
+      "id": 19618,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "bild",
+      "source_name": "Bild",
+      "author": "Claudia  Mende",
+      "title": "In England - Vogelgrippe erstmals bei Schaf entdeckt",
+      "description": "Das Vogelgrippevirus H5N1 wurde erstmals bei einem Schaf in Yorkshire (Gro\u00dfbritannien) nachgewiesen. Was das bedeutet.",
+      "url": "https://www.bild.de/leben-wissen/haustiere/vogelgrippe-erster-fall-bei-einem-schaf-in-grossbritannien-67e17ba5798c7544d1282bdc",
+      "urlToImage": "https://images.bild.de/67e17ba5798c7544d1282bdc/14a3a99b4a76048f9b6b14b19ec584ce,4ad6d643?w=1280",
+      "publishedAt": "2025-03-24 18:42:10",
+      "content": "Um den TTS Player darzustellen, brauchen wir deine Zustimmung. externen Inhalt aktivieren Um eingebettete Inhalte anzuzeigen, ist Ihre jederzeit widerrufliche Einwilligung (\u00fcber Widerruf Tracking \u2026 [+2355 chars]",
+      "retrievedAt": "2025-03-25 19:06:00.629035",
+      "internal_id": "ad23f9e5ce34348a6303c3367d5a69741d8009978f0ae712074af2dc9cd1f376",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 19616,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "N-tv.de",
+      "author": "n-tv NACHRICHTEN",
+      "title": "Nach H5N1-Ausbr\u00fcchen in den USA: Erstmals Vogelgrippe bei Schaf in Gro\u00dfbritannien nachgewiesen",
+      "description": "In Gro\u00dfbritannien wird erstmals die Vogelgrippe bei einem Schaf nachgewiesen. Das Virus wird bei einem Tier in der Grafschaft Yorkshire entdeckt. Britische Beh\u00f6rden zerstreuen Sorgen um eine weitere Ausbreitung.",
+      "url": "https://www.n-tv.de/wissen/In-Grossbritannien-ist-erstmals-die-Vogelgrippe-H5N1-bei-einem-Schaf-nachgewiesen-worden-article25652974.html",
+      "urlToImage": "https://www.n-tv.de/img/incoming/crop25652960/359132465-cImg_16_9-w1200/Schon-bei-vielen-Saugetieren-wurde-das-Vogelgrippevirus-H5N1-gefunden.jpg",
+      "publishedAt": "2025-03-24 18:35:12",
+      "content": "In Gro\u00dfbritannien wird erstmals die Vogelgrippe bei einem Schaf nachgewiesen. Das Virus wird bei einem Tier in der Grafschaft Yorkshire entdeckt. Britische Beh\u00f6rden zerstreuen Sorgen um eine weitere \u2026 [+1219 chars]",
+      "retrievedAt": "2025-03-25 19:06:00.592497",
+      "internal_id": "3f4276e4fc750a9747fce6cf7796cb802b99d09cf8007ba4afa37c4a0e89639f",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 19621,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Matthew S Miller, Executive Director, Global Nexus and M.G. DeGroote Institute for Infectious Disease Research, McMaster University",
+      "title": "Heeding the lessons of COVID-19 in the face of avian influenza",
+      "description": "COVID-19 exposed the many ways in which we were ill-prepared to prevent and respond to pandemics. Are we applying those lessons to prevent a bird flu pandemic?",
+      "url": "https://theconversation.com/heeding-the-lessons-of-covid-19-in-the-face-of-avian-influenza-252161",
+      "urlToImage": "https://images.theconversation.com/files/656243/original/file-20250319-56-ns0gz3.jpg?ixlib=rb-4.1.0&rect=0%2C521%2C2563%2C1281&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2025-03-24 17:53:17",
+      "content": "If the H5N1 avian flu virus learns to spread efficiently from person to person, it could pose an imminent threat to humanity. (CDC and NIAID), CC BY Infectious disease outbreaks have a bad habit of \u2026 [+8471 chars]",
+      "retrievedAt": "2025-03-25 19:06:00.674128",
+      "internal_id": "242945c9c2f9a0551bcb879a3616b71f475c90c7e79c41adf6d2f528b2dcff79",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 19633,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": "Angelica Stabile",
+      "title": "Dengue fever cases rising in popular spring break locations, CDC alerts",
+      "description": "As spring break continues, the CDC released a warning about rising dengue fever cases among U.S. travelers and in several destinations across the globe. Here's what to know.",
+      "url": "https://www.foxnews.com/health/dengue-fever-cases-rising-popular-spring-break-locations-cdc-alerts",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/03/sb2.jpg",
+      "publishedAt": "2025-03-24 17:33:09",
+      "content": "As spring breakers this season continue to head south into warmer territory, mosquitoes are posing a health risk that calls for extra attention. Global cases of dengue fever are on the rise, says th\u2026 [+3064 chars]",
+      "retrievedAt": "2025-03-25 19:06:01.027826",
+      "internal_id": "871735b8e9d883f1f5acf3e77bb31eea4f774d88a3455a1847f5b436be77ed05",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 19614,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Jen Reeder, Contributor, \n Jen Reeder, Contributor\n https://www.forbes.com/sites/jenreeder/",
+      "title": "Cats Are Getting Bird Flu. Here\u2019s How To Protect Them",
+      "description": "Cats seem to be more seriously affected by H5N1 bird flu than many other pets, so cat owners should take steps to protect them.",
+      "url": "https://www.forbes.com/sites/jenreeder/2025/03/24/cats-are-getting-bird-flu-heres-how-to-protect-them/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67e18f2adcdbc9a04b1c661f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-03-24 17:19:43",
+      "content": "Wild birds can give cats H5N1 bird flu, which can lead to serious complications and death. getty The bird flu that is driving up the cost of eggs is also infecting cats, so cat lovers should take s\u2026 [+6902 chars]",
+      "retrievedAt": "2025-03-25 19:06:00.569549",
+      "internal_id": "f20d3ca9b80940011dd5be6bddef62a33d1401afb2c063b3acee734c85c0dc62",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 19639,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": "UK Health Security Agency",
+      "title": "Guidance: Mpox: information for contacts of cases of mpox",
+      "description": "Follow-up advice for contacts of an mpox case.",
+      "url": "https://www.gov.uk/government/publications/mpox-information-for-contacts-of-cases-of-mpox",
+      "urlToImage": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png",
+      "publishedAt": "2025-03-24 16:51:37",
+      "content": "These documents are intended to be distributed by public health and health professionals to contacts of confirmed mpox cases. They give the contact information on mpox, what they should do now, and w\u2026 [+211 chars]",
+      "retrievedAt": "2025-03-25 19:06:02.232764",
+      "internal_id": "85c4caf66850b5e0e2d23e338b1880280af49f5141b2e9faba3d96d14fbb193d",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 19640,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": "UK Health Security Agency",
+      "title": "Guidance: Contact tracing guidance for mpox",
+      "description": "Classification of contacts and follow-up advice for mpox.",
+      "url": "https://www.gov.uk/government/publications/contact-tracing-guidance-for-mpox",
+      "urlToImage": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png",
+      "publishedAt": "2025-03-24 16:51:25",
+      "content": "This guidance provides principles for risk assessment and follow-up of contacts of confirmed mpox cases. It is intended to support risk assessment and categorisation of contacts to ensure they are of\u2026 [+258 chars]",
+      "retrievedAt": "2025-03-25 19:06:02.241122",
+      "internal_id": "59e8681b0df87f010493c46eb7328425bcf12a90b63508f9d1cef710356fb2bd",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 19611,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "LADbible",
+      "author": "Jess Battison",
+      "title": "Parents who denied daughter MMR vaccine before she died from measles don't regret decision",
+      "description": "The Texas parents maintain getting measles is 'good' for the body as all six of their children were infected",
+      "url": "https://www.ladbible.com/news/us-news/measles-kaylee-texas-mmr-vaccine-parents-interview-059347-20250324",
+      "urlToImage": "https://images.ladbible.com/ogimage/v3/assets/bltcd74acc1d0a99f3a/blt0d5c5a9375bc3fa9/67e16f91af01887ff9e3e779/anti-vaccination-measles.png",
+      "publishedAt": "2025-03-24 16:49:19",
+      "content": "The parents of a young girl who died after getting measles dont regret their decision to deny her the MMR (measles, mumps and rubella) vaccine. Their six-year-old daughter, Kaylee, was the first chi\u2026 [+2373 chars]",
+      "retrievedAt": "2025-03-25 19:05:59.898116",
+      "internal_id": "f60850f236df98397f72975843be9918a5174d599c35214610ed4f493470288b",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 19641,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": null,
+      "title": "Biological principles for control of mpox in the UK: 4 nations consensus statement",
+      "description": "A statement on the how UK public health agencies will handle future mpox outbreaks.",
+      "url": "https://www.gov.uk/guidance/biological-principles-for-control-of-mpox-in-the-uk-4-nations-consensus-statement",
+      "urlToImage": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png",
+      "publishedAt": "2025-03-24 16:44:31",
+      "content": "This statement has been agreed by the UK public health agencies: This statement replaces the Principles for control of non-HCID mpox in the UK: 4 nations consensus statement, which was last updated \u2026 [+10074 chars]",
+      "retrievedAt": "2025-03-25 19:06:02.249420",
+      "internal_id": "217102942c06d8d308b2674f15a63c5e86db7ff21543b8f1995ac67b9bcf77e1",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 19622,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Forbes.com.mx",
+      "author": "Forbes Staff",
+      "title": "Reino Unido detecta primer caso de gripe aviar en una oveja; advierten temores de propagaci\u00f3n",
+      "description": "Forbes M\u00e9xico. Reino Unido detecta primer caso de gripe aviar en una oveja; advierten temores de propagaci\u00f3n Muchos mam\u00edferos diferentes han muerto a causa del virus de la gripe aviar H5N1 en todo el mundo, incluidos osos, gatos, vacas lecheras, perros, del\u2026",
+      "url": "https://forbes.com.mx/reino-unido-detecta-primer-caso-de-gripe-aviar-en-una-oveja-advierten-temores-de-propagacion/",
+      "urlToImage": "https://cdn.forbes.com.mx/2023/02/gripe-aviar.webp",
+      "publishedAt": "2025-03-24 16:15:20",
+      "content": "El gobierno brit\u00e1nico inform\u00f3 el lunes de la detecci\u00f3n de un caso de gripe aviar en una oveja en el norte de Inglaterra, el primero conocido de este tipo en el mundo, lo que se suma a la creciente li\u2026 [+1885 chars]",
+      "retrievedAt": "2025-03-25 19:06:00.682400",
+      "internal_id": "3ac005dd152dc13afd3c27f3a53193c5da93eb13f6940d98d98a0f47c02d8bd8",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 19623,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Nieuwsblad.be",
+      "author": "nieuwsblad.be",
+      "title": "Vogelgriep aangetroffen bij schaap in Verenigd Koninkrijk",
+      "description": "Het vogelgriepvirus dat momenteel circuleert, H5N1, is nu voor het eerst aangetroffen bij een schaap in het Verenigd Koninkrijk. Dat heeft het Britse ministerie voor Milieu, Voedsel en Landbouw maandag bekendgemaakt.",
+      "url": "https://www.nieuwsblad.be/cnt/dmf20250324_95805692",
+      "urlToImage": "https://static.nieuwsblad.be/Assets/Images_Upload/2025/03/24/edf9c1ca-6f79-49f3-8588-aaef6759bdd9.jpg?maxheight=460&maxwidth=638",
+      "publishedAt": "2025-03-24 16:07:30",
+      "content": "Het vogelgriepvirus dat momenteel circuleert, H5N1, is nu voor het eerst aangetroffen bij een schaap in het Verenigd Koninkrijk. Dat heeft het Britse ministerie voor Milieu, Voedsel en Landbouw maand\u2026 [+1379 chars]",
+      "retrievedAt": "2025-03-25 19:06:00.697267",
+      "internal_id": "25e388f5a373dc80bd7d0351960a4097d477b640e3443401fa26fca90f9a6cad",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 19619,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Ilgiornale.it",
+      "author": "redazione@ilgiornale-web.it (Agenzia Adnkronos)",
+      "title": "Aviaria, bimbo di 3 anni morto per influenza H5N1 in Cambogia",
+      "description": "Descrizione contenuto Aviaria, bimbo di 3 anni morto per influenza H5N1 in Cambogia",
+      "url": "https://www.ilgiornale.it/news/adnkronos/aviaria-bimbo-3-anni-morto-influenza-h5n1-cambogia-2456436.html",
+      "urlToImage": "https://img.ilgcdn.com/sites/default/files/styles/social/public/foto/2025/03/24/aviaria_test_provetta_gallina_fg_ipa_0.jpg?_=1742829302",
+      "publishedAt": "2025-03-24 15:15:02",
+      "content": "Phnom Penh, 24 mar (Adnkronos Salute/Xinhua) - Un bimbo di 3 anni e mezzo \u00e8 morto di influenza aviaria in Cambogia, nella provincia di Kratie. Per la nazione del Sudest asiatico \u00e8 il terzo decesso ca\u2026 [+1025 chars]",
+      "retrievedAt": "2025-03-25 19:06:00.637038",
+      "internal_id": "6db9ea3220596b99ad32b4648ab87b08ff6894254fb4e8f8abe32817ec536483",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 19620,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Der Tagesspiegel",
+      "title": "H5N1-Virus: Gro\u00dfbritannien: Erstmals Vogelgrippe bei Schaf nachgewiesen",
+      "description": "Schon bei vielen S\u00e4ugetieren wurde das Vogelgrippevirus H5N1 gefunden. Nun ist erstmals ein Schaf in Europa betroffen.",
+      "url": "https://www.tagesspiegel.de/wissen/h5n1-virus-grossbritannien-erstmals-vogelgrippe-bei-schaf-nachgewiesen-13422973.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/13422970/alternates/BASE_16_9_W1400/1742828126000/wetter-in-gro-britannien.jpeg",
+      "publishedAt": "2025-03-24 14:55:27",
+      "content": "Das aktuell kursierende Vogelgrippevirus H5N1 ist erstmals bei einem Schaf nachgewiesen worden. Das teilte das britische Ministerium f\u00fcr Umwelt, Lebensmittel und den l\u00e4ndlichen Raum mit. Demnach wurd\u2026 [+2816 chars]",
+      "retrievedAt": "2025-03-25 19:06:00.665787",
+      "internal_id": "98d6f3bef594e7b5f6ecba6371ec47259a1335baa0a4219cd55c14c42b9a4d51",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 19612,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "ZEIT ONLINE: News -",
+      "title": "H5N1-Virus: Gro\u00dfbritannien: Erstmals Vogelgrippe bei Schaf nachgewiesen",
+      "description": "Hier finden Sie Informationen zu dem Thema \u201eH5N1-Virus\u201c. Lesen Sie jetzt \u201eGro\u00dfbritannien: Erstmals Vogelgrippe bei Schaf nachgewiesen\u201c.",
+      "url": "https://www.zeit.de/news/2025-03/24/grossbritannien-erstmals-vogelgrippe-bei-schaf-nachgewiesen",
+      "urlToImage": "https://img.zeit.de/news/2025-03/24/grossbritannien-erstmals-vogelgrippe-bei-schaf-nachgewiesen-image-group/wide__1300x731",
+      "publishedAt": "2025-03-24 14:54:29",
+      "content": "Das aktuell kursierende Vogelgrippevirus H5N1 ist erstmals bei einem Schaf nachgewiesen worden. Das teilte das britische Ministerium f\u00fcr Umwelt, Lebensmittel und den l\u00e4ndlichen Raum mit. Demnach wurd\u2026 [+2094 chars]",
+      "retrievedAt": "2025-03-25 19:06:00.552542",
+      "internal_id": "c98dabe9f7103f47e14ae89f221e9b3f3d792f673e26fc636e0e67524b999ea0",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 19629,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "H5N1-Virus: Gro\u00dfbritannien: Erstmals Vogelgrippe bei Schaf nachgewiesen",
+      "description": "London - Das aktuell kursierende Vogelgrippevirus H5N1 ist erstmals bei einem Schaf nachgewiesen worden. Das teilte das britische Ministerium f\u00fcr",
+      "url": "https://www.stern.de/panorama/wissen/h5n1-virus--grossbritannien--erstmals-vogelgrippe-bei-schaf-nachgewiesen-35579288.html",
+      "urlToImage": "https://image.stern.de/35579290/t/An/v1/w1440/r1.7778/-/24--3t6knnbg4wv3axs2048jpeg---e570a08109177782.jpg",
+      "publishedAt": "2025-03-24 14:54:29",
+      "content": "Kopiere den aktuellen Link Zur Merkliste hinzuf\u00fcgen Schon bei vielen S\u00e4ugetieren wurde das Vogelgrippevirus H5N1 gefunden. Nun ist erstmals ein Schaf in Europa betroffen. Das aktuell kursierende V\u2026 [+2228 chars]",
+      "retrievedAt": "2025-03-25 19:06:00.761333",
+      "internal_id": "3eced9311ea2dcd317d19707d084f50c7a9c2b2de4d47e9f62a329f8b810a4b0",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 19626,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Anlatilaninotesi.com.tr",
+      "author": "Sputnik T\u00fcrkiye",
+      "title": "\u0130ngiltere'de bir koyunda ilk kez ku\u015f gribi tespit edildi",
+      "description": "\u0130ngiltere'nin Yorkshire b\u00f6lgesindeki bir \u00e7iftlikte ilk kez bir koyunda ku\u015f gribi (H5N1) vakas\u0131 tespit edildi. Yetkililer, enfekte koyunun itlaf edildi\u011fini ve s\u00fcr\u00fcde ba\u015fka bir vakan\u0131n bulunmad\u0131\u011f\u0131n\u0131 a\u00e7\u0131klad\u0131. \u0130ngiltere Sa\u011fl\u0131k G\u00fcvenli\u011fi Ajans\u0131, halk sa\u011fl\u0131\u011f\u0131 i\u00e7in\u2026",
+      "url": "https://anlatilaninotesi.com.tr/20250324/ingilterede-bir-koyunda-ilk-kez-kus-gribi-tespit-edildi-1094820901.html",
+      "urlToImage": "https://cdn.img.anlatilaninotesi.com.tr/images/sharing/article/tur/1094820901.jpg?10810453211742827282",
+      "publishedAt": "2025-03-24 14:41:21",
+      "content": "Rusya, ABD, Avrupa ve Ortadou bata olmak \u00fczere d\u00fcnyann d\u00f6rt bir yanndan son dakika haberleri, analizler ve \u00f6zel dosyalar. https://anlatilaninotesi.com.tr/20250324/ingilterede-bir-koyunda-ilk-kez-kus\u2026 [+3176 chars]",
+      "retrievedAt": "2025-03-25 19:06:00.729373",
+      "internal_id": "393f04f6aa59afaf5f3cff9ed8ded6fe0880b21e35ff44afd151ccb54459b69d",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 19617,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Anadolu Agency",
+      "author": null,
+      "title": "\u0130ngiltere'de bir koyunda ilk ku\u015f gribi vakas\u0131na rastland\u0131",
+      "description": "\u0130ngiltere'nin Yorkshire b\u00f6lgesinde yer alan bir \u00e7iftlikteki koyunda ilk ku\u015f gribi (H5N1) vakas\u0131 tespit edildi. - Anadolu Ajans\u0131",
+      "url": "https://www.aa.com.tr/tr/dunya/ingilterede-bir-koyunda-ilk-kus-gribi-vakasina-rastlandi/3518704",
+      "urlToImage": "https://cdnuploads.aa.com.tr/uploads/Contents/2025/03/24/thumbs_b_c_12cbdf900b4496f21a2b8fad06a37442.jpg?v=172724",
+      "publishedAt": "2025-03-24 14:24:51",
+      "content": "Salk Bakanlndan yaplan yazl a\u00e7klamada, Yorkshire'da tek bir koyunda g\u00f6r\u00fclen ku gribi vakasnn doruland bildirildi. A\u00e7klamada, enfekte koyunun, kapsaml testlerin yaplabilmesi i\u00e7in itlaf edildii kayded\u2026 [+1416 chars]",
+      "retrievedAt": "2025-03-25 19:06:00.600867",
+      "internal_id": "88d552829e68e5b28162befd9b795b56d92b3b2314126cec3ca287492f13ec3c",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 19610,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Gothamist",
+      "author": "Caroline Lewis",
+      "title": "How well is your NYC neighborhood protected against measles? Check out our map.",
+      "description": "Gov. Kathy Hochul listens as state Department of Health Commissioner Dr. James McDonald gives an update on the statewide response to recent measles outbreaks during a press conference March 19, 2025, at the David Axelrod Institute Wadsworth Center in Albany. \u2026",
+      "url": "https://gothamist.com/news/how-well-is-your-nyc-neighborhood-protected-against-measles-check-out-our-map",
+      "urlToImage": "https://api-prod.gothamist.com/images/350281/fill-1200x650|format-webp|webpquality-85/",
+      "publishedAt": "2025-03-24 14:21:00",
+      "content": "ZIP codes on Staten Island and in Manhattan's Hells Kitchen neighborhood have some of New York City's lowest measles vaccination rates among young children, according to city data putting those commu\u2026 [+4615 chars]",
+      "retrievedAt": "2025-03-25 19:05:59.728016",
+      "internal_id": "e8509971d67feb200d222cbcedd93722a61e9ef57beefa815eafa61e19aa3da8",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 19613,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "tagesschau.de",
+      "author": null,
+      "title": "H5N1: Schaf in England mit Vogelgrippe infiziert",
+      "description": "In Gro\u00dfbritannien ist das Vogelgrippevirus erstmals bei einem Schaf nachgewiesen worden - wie zuvor bereits bei zahlreichen anderen S\u00e4ugetieren. Die Gefahr f\u00fcr Menschen sch\u00e4tzen Experten weiterhin als gering ein.",
+      "url": "https://www.tagesschau.de/wissen/gesundheit/schaf-vogelgrippe-grossbritannien-100.html",
+      "urlToImage": "https://images.tagesschau.de/image/cead8d87-61a4-40a7-a8ec-c065aff5bcfa/AAABlchxOXY/AAABkZLhkrw/16x9-1280/schaf-112.jpg",
+      "publishedAt": "2025-03-24 13:56:58",
+      "content": "Stand: 24.03.2025 14:56 Uhr In Gro\u00dfbritannien ist das Vogelgrippevirus erstmals bei einem Schaf nachgewiesen worden - wie zuvor bereits bei zahlreichen anderen S\u00e4ugetieren. Die Gefahr f\u00fcr Menschen s\u2026 [+2625 chars]",
+      "retrievedAt": "2025-03-25 19:06:00.561504",
+      "internal_id": "e2219039482a097181ef61530e4bc850a1483f0fac2dc6735bb852d433aa7ddd",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 19625,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Mail.ru",
+      "author": "\u0414\u0435\u043d\u0438\u0441 \u0416\u043e\u0445\u043e\u0432",
+      "title": "\u0423\u0447\u0435\u043d\u044b\u0435 \u0438\u0437\u0443\u0447\u0438\u043b\u0438 \u0441\u043c\u0435\u0440\u0442\u0435\u043b\u044c\u043d\u043e \u043e\u043f\u0430\u0441\u043d\u044b\u0439 \u0433\u0440\u0438\u0431\u043e\u043a, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043f\u0435\u0440\u0435\u0434\u0430\u0435\u0442\u0441\u044f \u043a\u043e\u0448\u043a\u0430\u043c\u0438",
+      "description": "\u0412 \u0411\u0440\u0430\u0437\u0438\u043b\u0438\u0438 \u0431\u0443\u0448\u0443\u0435\u0442 \u044d\u043f\u0438\u0434\u0435\u043c\u0438\u044f \u0441\u043f\u043e\u0440\u043e\u0442\u0440\u0438\u0445\u043e\u0437\u0430.",
+      "url": "https://vfokuse.mail.ru/article/uchenye-izuchili-smertelno-opasnyy-gribok-kotoryy-peredaetsya-koshkami-65413480/",
+      "urlToImage": "https://resizer.mail.ru/p/b471d34a-9a02-56cc-8109-da9d7c7e4fb1/AQAGmvrslskux0N3Rl1R_fV_y_jLaFRAmXE1YXe15bUs1N-XvNuf7p6X_KpIHS8qBhNM5VFPrA-o2RrovCmn4HZW0dY.jpg",
+      "publishedAt": "2025-03-24 13:50:11",
+      "content": ", . - Sporothrix brasiliensis Micology, SciTechDaily. , \u2014 . Sporothrix, Sporothrix brasiliensis . , . - , , . 104 79 , Gp60\u221270. , . H5N1 - (UKHSA). \u2026 [+23 chars]",
+      "retrievedAt": "2025-03-25 19:06:00.720962",
+      "internal_id": "94cbe2430cfa2252c2227380a620ac0512179146333a206f4228742eb07f2d2e",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 19624,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Science.orf.at",
+      "author": "ORF.at",
+      "title": "Erstmals Vogelgrippe bei Schaf in GB",
+      "description": "In Gro\u00dfbritannien ist das Vogelgrippe-Virus H5N1 erstmals bei einem Schaf nachgewiesen worden. Das teilte die britische Regierung am Montag mit. Es gebe keine Hinweise auf ein erh\u00f6htes Risiko f\u00fcr den britischen Viehbestand.",
+      "url": "https://science.orf.at/stories/3229448/",
+      "urlToImage": "https://ibs.orf.at/science?image=https%3A%2F%2Ftubestatic.orf.at%2Fmojo%2F1_4_1%2Fstoryserver%2Ftube%2Fscience%2Fimages%2Fog-fallback.jpg%3Fs%3D9468ebfda8d575e29237d4fe069891178635d8e1",
+      "publishedAt": "2025-03-24 13:41:28",
+      "content": "Der Fall sei im Rahmen routinem\u00e4\u00dfiger \u00dcberwachungen von Nutztieren auf einem Hof in Yorkshire festgestellt worden, auf dem zuvor bereits das Vogelgrippe-Virus H5N1 bei anderen gehaltenen V\u00f6geln best\u00e4\u2026 [+1364 chars]",
+      "retrievedAt": "2025-03-25 19:06:00.712078",
+      "internal_id": "1502d6e27857a773b671d63554c8fd562eadc44afe61114d178e4538e73a815a",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 19636,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Axel Pries",
+      "title": "\u201eMit dem R\u00fcckzug der USA entsteht ein Vakuum\u201c: Deutschland kann die L\u00fccke im Kampf f\u00fcr globale Gesundheit f\u00fcllen",
+      "description": "Tuberkulose, Malaria, HIV: Die USA ziehen sich im Kampf gegen Gesundheitsgefahren aus internationalen Programmen zur\u00fcck. Der Pr\u00e4sident des wichtigsten Weltgesundheitsgipfels sieht darin auch Chancen.",
+      "url": "https://www.tagesspiegel.de/wissen/mit-dem-ruckzug-der-usa-entsteht-ein-vakuum-deutschland-kann-die-lucke-im-kampf-fur-globale-gesundheit-fullen-13420834.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/13376689/alternates/BASE_16_9_W1400/1742127543000/file-photo-robert-f-kennedy-jr-is-sworn-is-as-secretary-of-health-and-human-services.jpeg",
+      "publishedAt": "2025-03-24 12:55:38",
+      "content": "Tuberkulose, Malaria, HIV: Die USA ziehen sich im Kampf gegen Gesundheitsgefahren aus internationalen Programmen zur\u00fcck. Der Pr\u00e4sident des wichtigsten Weltgesundheitsgipfels sieht darin auch Chancen.\u2026 [+50 chars]",
+      "retrievedAt": "2025-03-25 19:06:01.744660",
+      "internal_id": "6a10e233acec9ed63f60a66744d9617c7f80e5bc0af9eb8dadcc3c7bfabd9f38",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 19637,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Axel Pries",
+      "title": "\u201eMit dem R\u00fcckzug der USA entsteht ein Vakuum\u201c: Deutschland kann die L\u00fccke f\u00fcllen",
+      "description": "Tuberkulose, Malaria, HIV: Die neue US-Regierung zieht sich aus den internationalen Programmen zur Bek\u00e4mpfung von Gesundheitsgefahren zur\u00fcck. Der Pr\u00e4sident des wichtigsten Weltgesundheitsgipfels sieht darin aber auch Chancen \u2013 f\u00fcr Europa und Deutschland.",
+      "url": "https://www.tagesspiegel.de/wissen/mit-dem-ruckzug-der-usa-entsteht-ein-vakuum-deutschland-kann-die-lucke-fullen-13420834.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/13376689/alternates/BASE_16_9_W1400/1742127543000/file-photo-robert-f-kennedy-jr-is-sworn-is-as-secretary-of-health-and-human-services.jpeg",
+      "publishedAt": "2025-03-24 12:55:38",
+      "content": "Tuberkulose, Malaria, HIV: Die neue US-Regierung zieht sich aus den internationalen Programmen zur Bek\u00e4mpfung von Gesundheitsgefahren zur\u00fcck. Der Pr\u00e4sident des wichtigsten Weltgesundheitsgipfels sieh\u2026 [+104 chars]",
+      "retrievedAt": "2025-03-25 19:06:01.753067",
+      "internal_id": "361441347576c01916729992dce4ee9ce69d733e16dca365210594cff15d3ac8",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 19628,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Www.abc.es",
+      "author": "(abc)",
+      "title": "Reino Unido detecta el primer caso de gripe aviar en una oveja",
+      "description": "La gripe aviar, una enfermedad que hasta ahora afectaba principalmente a aves y algunos mam\u00edferos salvajes, ha sido detectada por primera vez en una oveja. El caso se registr\u00f3 en una granja de Yorkshire, en el Reino Unido, donde el virus H5N1 fue hallado en u\u2026",
+      "url": "https://www.abc.es/internacional/reino-unido-detecta-gripe-aviar-oveja-20250324134824-nt.html",
+      "urlToImage": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/03/24/oveja-foto-krgD--1024x512@diario_abc.jpg",
+      "publishedAt": "2025-03-24 12:48:24",
+      "content": "La gripe aviar, una enfermedad que hasta ahora afectaba principalmente a aves y algunos mam\u00edferos salvajes, ha sido detectada por primera vez en una oveja. El caso se registr\u00f3 en una granja de Yorksh\u2026 [+5103 chars]",
+      "retrievedAt": "2025-03-25 19:06:00.745385",
+      "internal_id": "6ab13072f039bf569e4a9479a6663816fc64024850147c3e56fa26a3965d1c52",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 19634,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "Identifican factores de microARN que determinan una mayor protecci\u00f3n frente al dengue en zonas end\u00e9micas",
+      "description": "Un equipo de investigadores del Instituto de Salud Carlos III (ISCIII), del Instituto Pasteur (Francia) y la Universidad de Mahidol (Tailandia) ha identificado una serie de perfiles espec\u00edficos de microARN que determinan una mayor protecci\u00f3n frente al virus d\u2026",
+      "url": "https://www.infosalus.com/salud-investigacion/noticia-identifican-factores-microarn-determinan-mayor-proteccion-frente-dengue-zonas-endemicas-20250324125036.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20250324125036_1200.jpg",
+      "publishedAt": "2025-03-24 11:50:36",
+      "content": "MADRID 24 Mar. (EUROPA PRESS) - Un equipo de investigadores del Instituto de Salud Carlos III (ISCIII), del Instituto Pasteur (Francia) y la Universidad de Mahidol (Tailandia) ha identificado una \u2026 [+2438 chars]",
+      "retrievedAt": "2025-03-25 19:06:01.036112",
+      "internal_id": "7e3bf93c7d8ef63dbdd9652cad31140de01ebf5cfe191f16c6d6bdf8e2758d88",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 19631,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "il-sole-24-ore",
+      "source_name": "Il Sole 24 Ore",
+      "author": null,
+      "title": "Allarme influenza aviaria: morto bambino di 3 anni in Cambogia e primo caso su una pecora in UK",
+      "description": "Dall\u2019inizio dell\u2019anno sono stati registrati tre casi; tutti fatali. Il bambino era giunto in ospedale la scorsa settimana in condizioni critiche: febbre alta, tosse, difficolt\u00e0 respiratorie",
+      "url": "https://www.ilsole24ore.com/art/influenza-aviaria-morto-bambino-3-anni-cambogia-primo-caso-una-pecora-uk-AGcGhPiD",
+      "urlToImage": "https://i2.res.24o.it/images2010/S24/Documenti/2025/03/25/Immagini/Ritagli/2025-03-10T132123Z_691876921_RC2U7DAULNRX_RTRMADP_5_USA-TRUMP-FOOD-FREEZE-U57131183716yYL-1440x752@IlSole24Ore-Web.JPG?r=1170x507",
+      "publishedAt": "2025-03-24 10:37:00",
+      "content": "Ascolta la versione audio dell'articolo 2' di lettura In Cambogia, un bambino di tre anni \u00e8 morto a causa dellinfluenza aviaria A/H5N1. Lo ha reso noto il ministero della Salute del paese asiatico.\u2026 [+1707 chars]",
+      "retrievedAt": "2025-03-25 19:06:00.783931",
+      "internal_id": "ac666f38a7dd3fd69751c7f18381e807ea5678ec5f4ef42a645fe4aa503df78d",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 19627,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Origo.hu",
+      "author": "Origo",
+      "title": "Rendk\u00edv\u00fcli eset: juhban bukkant fel a mad\u00e1rinfluenza",
+      "description": "A brit korm\u00e1ny h\u00e9tf\u0151n bejelentette, hogy Angli\u00e1ban el\u0151sz\u00f6r azonos\u00edtott\u00e1k a mad\u00e1rinfluenza v\u00edrus\u00e1t egy juhn\u00e1l.",
+      "url": "https://www.origo.hu/nagyvilag/2025/03/madarinfluenza-anglia-juh",
+      "urlToImage": "https://cdn.origo.hu/2025/01/XxBvFIUyfiptkq2uMkvRrWX9hUo91di3hx1I6ztH1Wo/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2MxZmE0Yjk5OGFiYTQ4NGFhNWRiOWQxZjc1OGI2OWI4.webp",
+      "publishedAt": "2025-03-24 09:43:29",
+      "content": "Az esetet rutinszeren v\u00e9gzett megfigyel\u00e9s sor\u00e1n \u00e9szlelt\u00e9k egy yorkshire-i gazdas\u00e1gban, ahol kor\u00e1bban m\u00e1r kimutatt\u00e1k a magas patogenit\u00e1s\u00fa H5N1-es mad\u00e1rinfluenza jelenl\u00e9t\u00e9t m\u00e1s, fogs\u00e1gban tartott madar\u2026 [+331 chars]",
+      "retrievedAt": "2025-03-25 19:06:00.737320",
+      "internal_id": "ac4539583969c2c3ecd49e04b2a9d95565ae2de031eced8216d1a33f05112f86",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 19638,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Le Journal des Entreprises",
+      "author": null,
+      "title": "Valneva va fournir des vaccins contre l'\u00e9pid\u00e9mie de chikungunya \u00e0 La R\u00e9union",
+      "description": "La soci\u00e9t\u00e9 Valneva sp\u00e9cialis\u00e9e dans les vaccins va r\u00e9pondre avec son vaccin IXCHIQ \u00e0 l\u2019\u00e9pid\u00e9mie de chikungunya qui s\u2019intensifie sur l\u2019\u00eele de La R\u00e9union. En accord et avec l\u2019appui de l\u2019Agence\u2026",
+      "url": "https://www.lejournaldesentreprises.com/breve/valneva-va-fournir-des-vaccins-contre-lepidemie-de-chikungunya-la-reunion-2116172",
+      "urlToImage": "https://www.lejournaldesentreprises.com/sites/lejournaldesentreprises.com/files/styles/facebook_share/public/2025-03/Valneva-fournit-40-000-doses-de-vaccin-pour-lutter-602401.jpeg?itok=2YnNzgLi",
+      "publishedAt": "2025-03-24 09:42:02",
+      "content": "Valneva fournit 40 000 doses de vaccin pour lutter contre l'\u00e9pid\u00e9mie de chikungunya \u00e0 La R\u00e9union \u2014 Photo : David Pouilloux La soci\u00e9t\u00e9 Valneva sp\u00e9cialis\u00e9e dans les vaccins va r\u00e9pondre avec son vacc\u2026 [+600 chars]",
+      "retrievedAt": "2025-03-25 19:06:02.074386",
+      "internal_id": "631a7499fcba3bd40e6e0d414aea1718474a3247ca2a0cb03f52320126e518e0",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 19632,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Pravda.sk",
+      "author": "\u010cTK",
+      "title": "V Brit\u00e1nii prv\u00fdkr\u00e1t zistili vt\u00e1\u010diu chr\u00edpku u ovce, chovanej na farme",
+      "description": "Hoci je to prv\u00fdkr\u00e1t, \u010do bol v\u00edrus H5N1 zisten\u00fd u oviec, u hospod\u00e1rskych zvierat v in\u00fdch krajin\u00e1ch u\u017e sa tento v\u00edrus objavil.",
+      "url": "https://spravy.pravda.sk/svet/clanok/745662-v-britanii-prvykrat-zistili-vtaciu-chripku-u-ovce-chovanej-na-farme/",
+      "urlToImage": "http://ipravda.sk/res/2021/10/02/thumbs/ovca-clanokW.jpg",
+      "publishedAt": "2025-03-24 09:23:00",
+      "content": "V Brit\u00e1nii prv\u00fdkr\u00e1t zistili vt\u00e1iu chr\u00edpku u ovce. Pr\u00edpad sa vyskytol pri rutinnej kontrole zvierat na farme v gr\u00f3fstve Yorkshire, kde sa u predt\u00fdm objavil vysoko patog\u00e9nny v\u00edrus vt\u00e1ej chr\u00edpky H5N1 u \u2026 [+1051 chars]",
+      "retrievedAt": "2025-03-25 19:06:00.792002",
+      "internal_id": "e810f02b54c557fccfc823bae7223fd593ddd956feb38e26985bfd9da56c4096",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 19615,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Www.dr.dk",
+      "author": null,
+      "title": "Britisk regering: Fugleinfluenza fundet i f\u00e5r for f\u00f8rste gang",
+      "description": "Et f\u00e5r i Storbritannien er blevet smittet med fugleinfluenza af typen H5N1, meddeler den britiske regering.",
+      "url": "https://www.dr.dk/nyheder/seneste/britisk-regering-fugleinfluenza-fundet-i-faar-foerste-gang",
+      "urlToImage": "https://asset.dr.dk/drdk/freja-images/317?im=AspectCrop%3D%28700%2C394%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%28700%2C394%29",
+      "publishedAt": "2025-03-24 08:28:00",
+      "content": "Det var 'produktive og fokuserede dr\u00f8ftelser', som amerikanske og ukrainske embedsm\u00e6nd i aftes havde om krigen mellem Ukraine og Rusland. Det skriver Ukraines forsvarsminister, Rustem Umerov, p\u00e5 det\u2026 [+760 chars]",
+      "retrievedAt": "2025-03-25 19:06:00.577594",
+      "internal_id": "6cd75f67985146f409bee7f59584c0f229fe5b27e3410567b2e3249a9b948381",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 19630,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": "Department for Environment, Food & Rural Affairs",
+      "title": "Influenza of avian origin confirmed in a sheep in Yorkshire",
+      "description": "Influenza of avian origin (H5N1) has been confirmed in a single sheep in Yorkshire.",
+      "url": "https://www.gov.uk/government/news/influenza-of-avian-origin-confirmed-in-a-sheep-in-yorkshire",
+      "urlToImage": "https://assets.publishing.service.gov.uk/media/5a37dad140f0b649cceb1813/s960_defra-sign-grey.jpg",
+      "publishedAt": "2025-03-24 08:00:02",
+      "content": "The UKs Chief Veterinary Officer has confirmed a case of influenza of avian origin (H5N1) in a single sheep in Yorkshire following repeat positive milk testing. The case was identified following r\u2026 [+4289 chars]",
+      "retrievedAt": "2025-03-25 19:06:00.769303",
+      "internal_id": "3f0ebab80e99f21e63110c67a1b988b4c185876cd2f03f834c370081c0dc1723",
+      "publishedAtLabel": "Mar 24"
+    },
     {
       "id": 19600,
       "query": [
@@ -757,6 +1315,24 @@
       "content": "\u201cThere are a lot of blogs and news sites claiming to understand politics, but only a few actually do. Political Wire is one of them.\u201d Chuck Todd, host of \u201cMeet the Press\u201d \u201cConcise. Relevant. To th\u2026 [+594 chars]",
       "retrievedAt": "2025-03-22 19:05:31.897193",
       "internal_id": "15cfc41e3359afc233fba2036815887a6bbe9b36a0725a6158030759f5ac73b2",
+      "publishedAtLabel": "Mar 21"
+    },
+    {
+      "id": 19635,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Imperial College London",
+      "author": null,
+      "title": "Gene drive modified mosquitoes offer new tool for malaria elimination efforts",
+      "description": "Genetic technology co-developed at Imperial could help to eliminate malaria by making mosquitos resistant to the parasite that spreads the disease.",
+      "url": "https://www.imperial.ac.uk/news/261995/gene-drive-modified-mosquitoes-offer-tool/",
+      "urlToImage": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/newseventsimage_1741863721541_mainnews2012_x1.jpg",
+      "publishedAt": "2025-03-21 18:24:51",
+      "content": "Genetic technology co-developed at Imperial could help to eliminate malaria by making mosquitos resistant to the parasite that spreads the disease. Transmission Zero, a research team from Imperial C\u2026 [+6168 chars]",
+      "retrievedAt": "2025-03-25 19:06:01.721677",
+      "internal_id": "2c9de8fab0038ac8f695e3fd680d6cb3005b4e7a89a1e8d2cd84076ee6a7e08c",
       "publishedAtLabel": "Mar 21"
     },
     {
@@ -27369,168 +27945,6 @@
       "content": "Ett fall av f\u00e5gelinfluensa har redan konstaterats i Finland i \u00e5r. En kaja med f\u00e5gelinfluensa av typen H5N1 hittades i \u00c5bo f\u00f6r n\u00e5gra veckor sedan. Det \u00e4r det f\u00f6rsta fallet i Finland p\u00e5 ungef\u00e4r ett \u00e5r.\u2026 [+4365 chars]",
       "retrievedAt": "2025-02-11 07:06:27.930823",
       "internal_id": "b4f83a2513031d4ef0da8eaaa6ff79642da864f284e9ac63bd9cb2254af91cb6",
-      "publishedAtLabel": "Feb 9"
-    },
-    {
-      "id": 18079,
-      "query": [
-        "measles"
-      ],
-      "source_id": "newsweek",
-      "source_name": "Newsweek",
-      "author": "Jordan King",
-      "title": "Texas Measles Cases Hit County With Low Vaccination Rates",
-      "description": "A rapid rise in and around rural Gaines County on the border with New Mexico has seen 14 confirmed and six probable cases.",
-      "url": "https://www.newsweek.com/measles-outbreak-texas-gaines-county-vaccination-rate-2028453",
-      "urlToImage": "https://d.newsweek.com/en/full/2584403/vaccine-file-photo.jpg",
-      "publishedAt": "2025-02-09 17:15:07",
-      "content": "A rise in cases of measles has hit a rural area in and around Gaines County, in Texas, where the measles vaccination rate is low. The Texas Department of State Health Services reported that there we\u2026 [+2521 chars]",
-      "retrievedAt": "2025-02-10 19:05:46.575319",
-      "internal_id": "89953695e495b9f78e090944e165c98f5f888605207028e7bc998691281df310",
-      "publishedAtLabel": "Feb 9"
-    },
-    {
-      "id": 18090,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Catracalivre.com.br",
-      "author": "Andr\u00e9 Nicolau",
-      "title": "Qual o risco de a gripe avi\u00e1ria virar uma nova pandemia entre humanos?",
-      "description": "A gripe avi\u00e1ria \u00e9 uma das doen\u00e7as que mais tem chamado a aten\u00e7\u00e3o de autoridades em sa\u00fade no mundo. Desde o in\u00edcio de 2024, a infec\u00e7\u00e3o causada pelo v\u00edrus influenza A (H5N1) vem se espalhando principalmente nos Estados Unidos. Por l\u00e1, j\u00e1 atinge aves dom\u00e9sticas,\u2026",
-      "url": "https://catracalivre.com.br/saude-bem-estar/qual-o-risco-de-a-gripe-aviaria-virar-uma-nova-pandemia-entre-humanos/",
-      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1280,h=680,fit=cover,format=jpeg/wp-content/uploads/2025/02/depositphotos-241487282-s.jpg",
-      "publishedAt": "2025-02-09 17:00:06",
-      "content": "Desde 2003, foram notificadas \u00e0 OMS mais de 950 infec\u00e7\u00f5es humanas causadas pelo v\u00edrus H5N1 no mundo ChinaImages/Depositphotos - Shen chunchen - Imaginechina A gripe avi\u00e1ria \u00e9 uma das doen\u00e7as que mai\u2026 [+4150 chars]",
-      "retrievedAt": "2025-02-11 07:06:27.896365",
-      "internal_id": "7569fe4c8bdf364e9be829007ee1a1c3a6b9376fef0175beb15d858c22ea5119",
-      "publishedAtLabel": "Feb 9"
-    },
-    {
-      "id": 18080,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Newsbreak.com",
-      "author": "Niamh Kirk",
-      "title": "Measles outbreak spreads as health officials urge anyone who hasn't been vaccinated to get jabbed - NewsBreak",
-      "description": "Health officials have urged anyone in the area who hasn't been vaccinated, both adults and children to get a dose immediately due to the alarming rise in m",
-      "url": "https://www.newsbreak.com/share/3798078238417-measles-outbreak-spreads-as-health-officials-urge-anyone-who-hasn-t-been-vaccinated-to-get-jabbed?s=a2&share_destination_id=NTMxMzc4NDEtMTczOTExODU1MjI2Ng%3D%3D&pd=03axZxIg&hl=en_US&send_time=1739118552&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.6.1%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_model_exp_25q1-v8%2Cns_foryou_blend_exp_25q1-v8%2Cns_foryou_rank_exp_25q1-v6%2Cns_foryou_recall_exp_25q1-v7%2Cns_push_exp_rt_bucketv12-v8",
-      "urlToImage": "https://img.particlenews.com/img/id/1Ndizs_0yl1VL9M00",
-      "publishedAt": "2025-02-09 16:29:39",
-      "content": "Health officials are concerned over a measles outbreak in a rural area of West Texas with 14 confirmed cases. Investigations are ongoing after the state health department shared a health alert tha\u2026 [+2405 chars]",
-      "retrievedAt": "2025-02-10 19:05:46.627294",
-      "internal_id": "42627147313af21d999e8ad512249f13db2d8aae8e13fa3c48f6b275415aae12",
-      "publishedAtLabel": "Feb 9"
-    },
-    {
-      "id": 18082,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Newsbreak.com",
-      "author": "Niamh Kirk",
-      "title": "Measles outbreak spreads as health officials urge anyone who hasn't been vaccinated to get jabbed - NewsBreak",
-      "description": "Health officials have urged anyone in the area who hasn't been vaccinated, both adults and children to get a dose immediately due to the alarming rise in m",
-      "url": "https://www.newsbreak.com/share/3798078238417-measles-outbreak-spreads-as-health-officials-urge-anyone-who-hasn-t-been-vaccinated-to-get-jabbed?_f=app_share&pd=04jUeKTH&lang=en_US&send_time=1739109677&trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.6.0.7%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_model_exp_25q1-v9%2Cns_push_exp_rt_bucketv12-v1%2Cns_foryou_rank_exp_25q1-v2%2Cns_foryou_blend_exp_25q1-control%2Cns_foryou_recall_exp_25q1-v5&s=i2",
-      "urlToImage": "https://img.particlenews.com/img/id/1Ndizs_0yl1VL9M00",
-      "publishedAt": "2025-02-09 14:01:44",
-      "content": "Health officials are concerned over a measles outbreak in a rural area of West Texas with 14 confirmed cases. Investigations are ongoing after the state health department shared a health alert tha\u2026 [+2405 chars]",
-      "retrievedAt": "2025-02-10 19:05:46.644322",
-      "internal_id": "fce248a4a86926cc1385bfc086de4e11ec54644cfc8438d01e09fe7109d8f939",
-      "publishedAtLabel": "Feb 9"
-    },
-    {
-      "id": 18084,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Ilgiornale.it",
-      "author": "redazione@ilgiornale-web.it (Alessandro Ferro)",
-      "title": "Onde elettromagnetiche per \"abbattere\" l'aviaria: ecco come funzionano",
-      "description": "Una ricerca italiana ha scoperto il metodo pi\u00f9 efficace per \"spegenere\" in maniera quasi definitiva la capacit\u00e0 di contagio del virus dell'aviaria ma anche di altri agenti patogeni: ecco la tecnica e le implicazioni future",
-      "url": "https://www.ilgiornale.it/news/rimedi-naturali/aviaria-abbattuta-dalle-onde-elettromagnetiche-studio-2435169.html",
-      "urlToImage": "https://img.ilgcdn.com/sites/default/files/styles/social/public/foto/2020/02/02/1580650141-pollame-giornale.jpg?_=1580650141",
-      "publishedAt": "2025-02-09 10:34:52",
-      "content": "\u00c8 soprattutto negli Stati Uniti che il virus H5N1 dell'aviaria fa pi\u00f9 paura con il contagio di centinaia di capi d'allevamento e i primi casi anche sull'uomo. Grazie a un team di ricerca italiano del\u2026 [+2625 chars]",
-      "retrievedAt": "2025-02-10 19:05:47.479837",
-      "internal_id": "bd2a99a60a8504f00540530bb3e348cc6ef967f08e7714630d39b8dfb0e308ed",
-      "publishedAtLabel": "Feb 9"
-    },
-    {
-      "id": 18086,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Standard Digital",
-      "author": "Dennis Kinyua",
-      "title": "How to strengthen malaria prevention through community",
-      "description": "The efforts of CHPs have acquired trust from the community, and more people are embracing malaria prevention practices.",
-      "url": "https://www.standardmedia.co.ke/health/health-opinion/article/2001511362/how-to-strengthen-malaria-prevention-through-community",
-      "urlToImage": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/K14sMagZygOBRv4YGzf3cZWX0jBz8yhbKVn2xS1a.jpg",
-      "publishedAt": "2025-02-09 10:01:31",
-      "content": "CHPs dialogue meeting in Bukika Community Health Unit, Busia County. [Courtesy] On a sunny afternoon under a tree, a group of Community Health Promoters and local community members have gathered. Th\u2026 [+3280 chars]",
-      "retrievedAt": "2025-02-10 19:05:49.133105",
-      "internal_id": "5574b882878f94ae90029240cf93875cff0098d42d49a5adf7050ced404aa17c",
-      "publishedAtLabel": "Feb 9"
-    },
-    {
-      "id": 18085,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "ynet",
-      "source_name": "Ynet",
-      "author": "\u05e6\u05d5\u05e8 \u05d2\u05d5\u05d0\u05d8\u05d4",
-      "title": "\u05d0\u05d9\u05e8\u05d5\u05e2 \u05d7\u05e8\u05d9\u05d2 \u05d1\u05d0\u05e8\u05d4\"\u05d1: \u05e4\u05e8\u05d5\u05ea \u05e0\u05d3\u05d1\u05e7\u05d5 \u05d1\u05d6\u05df \u05d7\u05d3\u05e9 \u05e9\u05dc \u05e9\u05e4\u05e2\u05ea \u05d4\u05e2\u05d5\u05e4\u05d5\u05ea",
-      "description": "\u05e0\u05d2\u05d9\u05e3 \u05e9\u05e4\u05e2\u05ea \u05d4\u05e2\u05d5\u05e4\u05d5\u05ea \u05de\u05de\u05e9\u05d9\u05da \u05dc\u05d4\u05ea\u05e4\u05e9\u05d8 \u05d1\u05d0\u05e8\u05d4\"\u05d1, \u05db\u05d0\u05e9\u05e8 \u05d6\u05df \u05d7\u05d3\u05e9, D1.1, \u05d6\u05d5\u05d4\u05d4 \u05d1\u05e2\u05d3\u05e8\u05d9 \u05d1\u05e7\u05e8 \u05dc\u05d9\u05d9\u05e6\u05d5\u05e8 \u05d7\u05dc\u05d1. \u05d4\u05d6\u05df \u05d4\u05d7\u05d3\u05e9 \u05de\u05e2\u05d5\u05e8\u05e8 \u05d3\u05d0\u05d2\u05d4 \u05d1\u05e7\u05e8\u05d1 \u05de\u05d5\u05de\u05d7\u05d9\u05dd \u05d1\u05e9\u05dc \u05e4\u05d5\u05d8\u05e0\u05e6\u05d9\u05d0\u05dc \u05d4\u05d4\u05ea\u05e4\u05e9\u05d8\u05d5\u05ea \u05e9\u05dc\u05d5 \u05d5\u05d4\u05d7\u05e9\u05e9 \u05de\u05e4\u05e0\u05d9 \u05de\u05d5\u05d8\u05e6\u05d9\u05d5\u05ea \u05e0\u05d5\u05e1\u05e4\u05d5\u05ea. \u05de\u05e9\u05e8\u05d3 \u05d4\u05d7\u05e7\u05dc\u05d0\u05d5\u05ea \u05d4\u05d0\u05de\u05e8\u05d9\u05e7\u05e0\u05d9 \u05e0\u05d5\u05e7\u05d8 \u05d1\u05e6\u05e2\u05d3\u05d9\u05dd \u05dc\u05d1\u05dc\u05d9\u05de\u05ea \u05d4\u05d4\u05ea\u05e4\u05e8\u05e6\u05d5\u05ea. \u05d3\"\u05e8 \u05e2\u05e0\u05ea \u05e9\u05d8\u05e8\u05df \u05de\u05d4\u05de\u05db\u05d5\u05df \u05dc\u05de\u05d7\u05dc\u05d5\u05ea \u05d6\u05d9\u05d4\u05d5\u05de\u05d9\u05d5\u05ea \u05d1\u05e8\u05de\u2026",
-      "url": "https://www.ynet.co.il/health/article/rkq00oahtkx",
-      "urlToImage": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/02/09/r1UDre8tJx/r1UDre8tJx_0_37_1000_563_0_large.jpg",
-      "publishedAt": "2025-02-09 09:53:26",
-      "content": ", H5N1 65. , , , 67 , \". 100 . , D1.1, ( ). , 957 2024 , B3.13. \" 2024 , \", \" , \". \" , . , , \". , , . , , . \" , \", . \" , , \". \" , \" , . , . , , . , '' , \". \" , , . \" , \". , , D1.1 , , , , \" , \u2026 [+5 chars]",
-      "retrievedAt": "2025-02-10 19:05:47.526190",
-      "internal_id": "f262e5ebc452ca85983486249de514a7ab6f72220ed5bd02dec35afe19b93a81",
-      "publishedAtLabel": "Feb 9"
-    },
-    {
-      "id": 18083,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Tvn24.pl",
-      "author": "kw",
-      "title": "Zamykaj\u0105 targi, wybijaj\u0105 zaka\u017cone zwierz\u0119ta. Ptasia grypa rozprzestrzenia si\u0119 w Nowym Jorku",
-      "description": "Ptasia grypa niepokoi w\u0142adze Nowego Jorku. Po prewencyjnych kontrolach na targach \u017cywego drobiu stwierdzono kilka przypadk\u00f3w zaka\u017cenia wirusem H5N1 u ptactwa. Zwierz\u0119ta wybito, by choroba nie rozprzestrzeni\u0142a si\u0119 jeszcze bardziej.",
-      "url": "https://tvn24.pl/tvnmeteo/swiat/zamykaja-targi-wybijaja-zakazone-zwierzeta-ptasia-grypa-rozprzestrzenia-sie-w-nowym-jorku-st8298168",
-      "urlToImage": "https://tvn24.pl/najnowsze/cdn-zdjecie-2899184-ptasia-grypa-rozprzestrzenia-sie-w-nowym-jorku-ph8298173/alternates/LANDSCAPE_1280",
-      "publishedAt": "2025-02-09 09:52:06",
-      "content": "Ptasia grypa niepokoi wadze Nowego Jorku. Po prewencyjnych kontrolach na targach ywego drobiu stwierdzono kilka przypadk\u00f3w zakaenia wirusem H5N1 u ptactwa. Zwierzta wybito, by choroba nie rozprzestrz\u2026 [+1732 chars]",
-      "retrievedAt": "2025-02-10 19:05:47.465152",
-      "internal_id": "c76dcf24acc5ff4a12a581e04e460c48f2f6ac1bb11a219401df49bd2b73e00b",
-      "publishedAtLabel": "Feb 9"
-    },
-    {
-      "id": 18081,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Newsbreak.com",
-      "author": "Niamh Kirk",
-      "title": "Measles outbreak spreads as health officials urge anyone who hasn't been vaccinated to get jabbed - NewsBreak",
-      "description": "Health officials have urged anyone in the area who hasn't been vaccinated, both adults and children to get a dose immediately due to the alarming rise in m",
-      "url": "https://www.newsbreak.com/share/3798078238417-measles-outbreak-spreads-as-health-officials-urge-anyone-who-hasn-t-been-vaccinated-to-get-jabbed?s=a2&share_destination_id=MjE0OTg1NzExLTE3MzkxNDQyMzc1NTc%3D&pd=0EY3bTgT&hl=en_US&send_time=1739144237&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.4.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_recall_exp_25q1-v6%2Cns_foryou_model_exp_25q1-v6%2Cns_foryou_blend_exp_25q1-v3%2Cns_foryou_rank_exp_25q1-v5",
-      "urlToImage": "https://img.particlenews.com/img/id/1Ndizs_0yl1VL9M00",
-      "publishedAt": "2025-02-09 09:51:50",
-      "content": "Health officials are concerned over a measles outbreak in a rural area of West Texas with 14 confirmed cases. Investigations are ongoing after the state health department shared a health alert tha\u2026 [+2405 chars]",
-      "retrievedAt": "2025-02-10 19:05:46.635549",
-      "internal_id": "43990b2ff2a60d8e469755b7f9eccd51bdc6897f44dd4d5e14d6417bef471fc7",
       "publishedAtLabel": "Feb 9"
     }
   ]
