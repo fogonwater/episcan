@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 22
-- **Last harvest:** 2025-03-26 07:07
-- **Most recent article:** 2025-03-25 06:30:05
+- **New articles in last harvest:** 32
+- **Last harvest:** 2025-03-26 19:06
+- **Most recent article:** 2025-03-25 18:39:23
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-10 | 25-11 | 25-12 | 25-13 | 25-7 | 25-8 | 25-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 142 | 133 | 108 | 20 | 72 | 83 | 162 | 720 |
-| h5n1 | 23 | 39 | 57 | 27 | 55 | 54 | 42 | 297 |
-| dengue | 8 | 12 | 18 | 5 | 37 | 57 | 30 | 167 |
-| malaria | 29 | 22 | 18 | 5 | 12 | 7 | 20 | 113 |
-| mpox | 14 | 15 | 8 | 4 | 18 | 15 | 26 | 100 |
-| meningitis | 4 | 9 | 7 | 1 | 12 | 11 | 7 | 51 |
+| measles | 142 | 133 | 108 | 34 | 68 | 83 | 162 | 730 |
+| h5n1 | 23 | 39 | 57 | 34 | 51 | 54 | 42 | 300 |
+| dengue | 8 | 12 | 18 | 7 | 37 | 57 | 30 | 169 |
+| malaria | 29 | 22 | 18 | 9 | 11 | 7 | 20 | 116 |
+| mpox | 14 | 15 | 8 | 5 | 18 | 15 | 26 | 101 |
+| meningitis | 4 | 9 | 7 | 2 | 12 | 11 | 7 | 52 |
+| chikungunya | 6 | 1 | 17 | 4 | 5 | 3 | 7 | 43 |
 | hpai | 10 | 3 | 12 | 0 | 9 | 5 | 4 | 43 |
-| chikungunya | 6 | 1 | 17 | 3 | 5 | 3 | 7 | 42 |
-| rabies | 3 | 8 | 3 | 0 | 5 | 4 | 2 | 25 |
+| rabies | 3 | 8 | 3 | 2 | 5 | 4 | 2 | 27 |
 | typhoid | 3 | 8 | 0 | 1 | 3 | 0 | 4 | 19 |
-| zika | 3 | 0 | 2 | 1 | 2 | 6 | 2 | 16 |
+| zika | 3 | 0 | 2 | 2 | 2 | 6 | 2 | 17 |
 | yersinia | 1 | 2 | 2 | 0 | 5 | 0 | 2 | 12 |
 | pertussis | 0 | 5 | 1 | 0 | 3 | 2 | 0 | 11 |
 | leptospirosis | 3 | 0 | 1 | 0 | 0 | 2 | 0 | 6 |
@@ -1447,14 +1447,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles outbreak spreads as health officials urge anyone who hasn't been vaccinated to get jabbed - NewsBreak](https://www.newsbreak.com/share/3798078238417-measles-outbreak-spreads-as-health-officials-urge-anyone-who-hasn-t-been-vaccinated-to-get-jabbed?s=a2&share_destination_id=MjUxNzE4NzUzLTE3MzkxNDI4NDQyMDU%3D&pd=0H2BXtcW&hl=en_US&send_time=1739142844&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.4.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_push_exp_rt_bucketv12-v7%2Cns_foryou_blend_exp_25q1-v8%2Cns_foryou_recall_exp_25q1-v8%2Cns_foryou_model_exp_25q1-v1%2Cns_foryou_rank_exp_25q1-v4) (Newsbreak.com)
 
-- [Texas Measles Cases Hit County With Low Vaccination Rates](https://www.newsweek.com/measles-outbreak-texas-gaines-county-vaccination-rate-2028453) (Newsweek)
-
-- [Measles outbreak spreads as health officials urge anyone who hasn't been vaccinated to get jabbed - NewsBreak](https://www.newsbreak.com/share/3798078238417-measles-outbreak-spreads-as-health-officials-urge-anyone-who-hasn-t-been-vaccinated-to-get-jabbed?s=a2&share_destination_id=NTMxMzc4NDEtMTczOTExODU1MjI2Ng%3D%3D&pd=03axZxIg&hl=en_US&send_time=1739118552&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.6.1%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_model_exp_25q1-v8%2Cns_foryou_blend_exp_25q1-v8%2Cns_foryou_rank_exp_25q1-v6%2Cns_foryou_recall_exp_25q1-v7%2Cns_push_exp_rt_bucketv12-v8) (Newsbreak.com)
-
-- [Measles outbreak spreads as health officials urge anyone who hasn't been vaccinated to get jabbed - NewsBreak](https://www.newsbreak.com/share/3798078238417-measles-outbreak-spreads-as-health-officials-urge-anyone-who-hasn-t-been-vaccinated-to-get-jabbed?_f=app_share&pd=04jUeKTH&lang=en_US&send_time=1739109677&trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.6.0.7%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_model_exp_25q1-v9%2Cns_push_exp_rt_bucketv12-v1%2Cns_foryou_rank_exp_25q1-v2%2Cns_foryou_blend_exp_25q1-control%2Cns_foryou_recall_exp_25q1-v5&s=i2) (Newsbreak.com)
-
-- [Measles outbreak spreads as health officials urge anyone who hasn't been vaccinated to get jabbed - NewsBreak](https://www.newsbreak.com/share/3798078238417-measles-outbreak-spreads-as-health-officials-urge-anyone-who-hasn-t-been-vaccinated-to-get-jabbed?s=a2&share_destination_id=MjE0OTg1NzExLTE3MzkxNDQyMzc1NTc%3D&pd=0EY3bTgT&hl=en_US&send_time=1739144237&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.4.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_recall_exp_25q1-v6%2Cns_foryou_model_exp_25q1-v6%2Cns_foryou_blend_exp_25q1-v3%2Cns_foryou_rank_exp_25q1-v5) (Newsbreak.com)
-
 ## 25-7 (malaria)
 
 - [Nigeria approves $200M to offset shortfall from US aid cuts](https://www.dw.com/en/nigeria-approves-200m-to-offset-shortfall-from-us-aid-cuts/a-71607477) (DW (English))
@@ -1478,8 +1470,6 @@ Source: [News API](https://newsapi.org/)
 - [Ocho mujeres que cambiaron la farmacología](https://www.elperiodico.com/es/ciencia/20250212/ocho-mujeres-cambiaron-farmacologia-114232542) (Elperiodico.com)
 
 - [AI and public health issues in contemporary Nigeria - MediaLord.Ng](https://medialord.ng/ai-and-public-health-issues-in-contemporary-nigeria/) (Medialord.ng)
-
-- [How to strengthen malaria prevention through community](https://www.standardmedia.co.ke/health/health-opinion/article/2001511362/how-to-strengthen-malaria-prevention-through-community) (Standard Digital)
 
 ## 25-7 (hpai)
 
@@ -1605,14 +1595,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Rikligt med fågelinfluensafall i Europa – men svårt att säga hur situationen blir i Finland](https://yle.fi/a/7-10072315) (YLE News)
 
-- [Qual o risco de a gripe aviária virar uma nova pandemia entre humanos?](https://catracalivre.com.br/saude-bem-estar/qual-o-risco-de-a-gripe-aviaria-virar-uma-nova-pandemia-entre-humanos/) (Catracalivre.com.br)
-
-- [Onde elettromagnetiche per "abbattere" l'aviaria: ecco come funzionano](https://www.ilgiornale.it/news/rimedi-naturali/aviaria-abbattuta-dalle-onde-elettromagnetiche-studio-2435169.html) (Ilgiornale.it)
-
-- [אירוע חריג בארה"ב: פרות נדבקו בזן חדש של שפעת העופות](https://www.ynet.co.il/health/article/rkq00oahtkx) (Ynet)
-
-- [Zamykają targi, wybijają zakażone zwierzęta. Ptasia grypa rozprzestrzenia się w Nowym Jorku](https://tvn24.pl/tvnmeteo/swiat/zamykaja-targi-wybijaja-zakazone-zwierzeta-ptasia-grypa-rozprzestrzenia-sie-w-nowym-jorku-st8298168) (Tvn24.pl)
-
 ## 25-7 (dengue)
 
 - [Ministério da Saúde amplia vacinação contra dengue para não perder doses do insumo](https://olhardigital.com.br/2025/02/15/medicina-e-saude/ministerio-da-saude-amplia-vacinacao-contra-dengue-para-nao-perder-doses-do-insumo/) (Olhardigital.com.br)
@@ -1703,13 +1685,23 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-13 (zika)
 
+- [How Zika virus knocks out our immune defenses](https://www.sciencedaily.com/releases/2025/03/250325141538.htm) (Science Daily)
+
 - [Estudo: Zika Vírus pode ser aliado no combate a tumores cerebrais](https://saude.ig.com.br/2025-03-24/zika-virus-vira-aliado-no-combate-a-tumores-cerebrais.html) (Ig.com.br)
 
 ## 25-13 (typhoid)
 
 - [FNU joins hands with Ministry of Health to support Typhoid Vaccination Campaign in the North](https://www.fijivillage.com/news/FNU-joins-hands-with-Ministry-of-Health-to-support-Typhoid-Vaccination-Campaign-in-the-North-f54xr8/) (Fijivillage)
 
+## 25-13 (rabies)
+
+- [Embattled Englewood dog rescue Moms and Mutts surrenders state license after failing inspections](https://www.denverpost.com/2025/03/25/moms-mutts-dog-rescue-surrenders-license-colorado/) (The Denver Post)
+
+- [Rabies deaths: Officials raise alarm over improper immunisation in Karnataka](https://timesofindia.indiatimes.com/city/bengaluru/rabies-deaths-officials-raise-alarm-over-improper-immunisation-in-karnataka/articleshow/119494155.cms) (The Times of India)
+
 ## 25-13 (mpox)
+
+- [US Reports Three More Cases of Virulent Clade I Monkeypox](https://legalinsurrection.com/2025/03/us-reports-three-more-cases-of-virulent-clade-i-monkeypox/) (Legalinsurrection.com)
 
 - [Guidance: Mpox: information for contacts of cases of mpox](https://www.gov.uk/government/publications/mpox-information-for-contacts-of-cases-of-mpox) (Www.gov.uk)
 
@@ -1721,9 +1713,39 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-13 (meningitis)
 
+- [Hajj 2025: Health minister inspects NAHCON facilities, assures of improved medical care for pilgrims](https://www.premiumtimesng.com/news/more-news/783503-hajj-2025-health-minister-inspects-nahcon-facilities-assures-of-improved-medical-care-for-pilgrims.html) (Premium Times)
+
 - [Kebbi urges calm as meningitis kills six university students](https://punchng.com/kebbi-urges-calm-as-meningitis-kills-six-university-students/) (The Punch)
 
 ## 25-13 (measles)
+
+- [Texas Measles Cases Grow To Nearly 330, With 40 People Hospitalized](https://www.huffpost.com/entry/texas-measles-outbreak-cases-grow_n_67e2e3a7e4b075349cd16d8f) (HuffPost)
+
+- [Should You Get A Measles Vaccine Booster? Here's What To Know.](https://www.forbes.com/sites/mollybohannon/2025/03/25/should-you-get-a-measles-vaccine-booster-heres-what-to-know/) (Forbes)
+
+- [Texas measles outbreak 2025: 18 new cases reported in West Texas](https://www.fox4news.com/news/texas-measles-outbreak-2025-18-new-cases-reported-west-texas) (FOX 4 News)
+
+- [Measles Outbreak: Cases Near 330 In Texas As Illness Reported In Washington, D.C.](https://www.forbes.com/sites/antoniopequenoiv/2025/03/25/measles-outbreak-cases-near-330-in-texas-as-illness-reported-in-washington-dc/) (Forbes)
+
+- [Texas measles outbreak grows to 327 cases with 18 new confirmed infections: Officials](https://abcnews.go.com/Health/texas-measles-outbreak-grows-327-cases-18-confirmed/story?id=120126483) (ABC News)
+
+- [Tennessee Department of Health Confirms 1st Measles Case in the State - NewsBreak](https://www.newsbreak.com/share/3870886958083-tennessee-department-of-health-confirms-1st-measles-case-in-the-state?s=a2&share_destination_id=MTY5MjA0NDMzLTE3NDI5MjAyNjI1MTQ%3D&pd=0BRxnlmg&hl=en_US&send_time=1742920262&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.12.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_local_strategy_25q1_exp-holdback%2Cns_foryou_recall_exp_25q1-v9%2Cns_foryou_model_exp_25q1-v3%2Cns_push_exp_rt_bucketv12-v3%2Cns_foryou_blend_exp_25q1-v3%2Cns_foryou_rank_exp_25q1-v4) (Newsbreak.com)
+
+- [Speaking of Medicating, Ummm: “DC Health was notified of a confirmed case of measles in a person who visited multiple locations in DC while contagious.”](https://www.popville.com/2025/03/dc-health-confirmed-case-measles-washington-dc-union-station-adams-morgan/) (PoPville)
+
+- [Measles Case Confirmed in D.C.](https://politicalwire.com/2025/03/25/measles-case-confirmed-in-d-c/) (Politicalwire.com)
+
+- [San Diego County health officials urge caution around measles on spring break](https://www.kpbs.org/news/health/2025/03/25/san-diego-county-health-officials-urge-caution-around-measles-on-spring-break) (KPBS)
+
+- [Measles case confirmed in DC with exposures on Amtrak](https://www.nbcwashington.com/news/local/measles-case-confirmed-in-dc-with-exposures-at-amtrak-urgent-care/3875765/) (NBC4 Washington)
+
+- [DC confirmed measles case: Union Station, Adams Morgan among exposure sites](https://www.fox5dc.com/news/dc-confirmed-measles-case-union-station-adams-morgan-among-exposure-sites) (FOX 5 DC)
+
+- [US Measles Map Shows Cases Spreading To New State](https://www.newsweek.com/us-measles-map-shows-cases-spreading-new-state-2049955) (Newsweek)
+
+- [As Measles Cases Surge, Scientists Explain Why Vaccination Is Critical](https://www.scientificamerican.com/article/as-measles-cases-surge-scientists-explain-why-vaccination-is-critical/) (Scientific American)
+
+- [Formula, Fries and Froot Loops: Washington Bends to Kennedy's 'MAHA' Agenda (Sheryl Gay Stolberg/New York Times)](https://www.memeorandum.com/250325/p4) (Memeorandum.com)
 
 - [Time to recovery from severe pneumonia and its predictors among children aged 2-59 months admitted to the Asella Referral and Teaching Hospital, Asella, Ethiopia, 2023: a retrospective cohort study](https://bmjopen.bmj.com/content/15/3/e087368) (The BMJ)
 
@@ -1767,6 +1789,14 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-13 (malaria)
 
+- [La maladie inconnue qui a fait au moins 58 morts en RDC a été identifiée](https://fr.sputniknews.africa/20250325/la-maladie-inconnue-qui-a-fait-au-moins-58-morts-en-rdc-a-ete-identifiee--1071263677.html) (Sputniknews.africa)
+
+- [Performance of quantitative point-of-care tests to measure G6PD activity: An individual participant data meta-analysis](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012864) (Plos.org)
+
+- [Myosin 1f and Proline-rich 13 are transcriptionally upregulated yet functionally redundant in CD4+ T cells during blood-stage Plasmodium infection](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0320375) (Plos.org)
+
+- [Mystiske dødsfald i DR Congo var malaria](https://www.dr.dk/nyheder/seneste/mystiske-doedsfald-i-dr-congo-var-malaria) (Www.dr.dk)
+
 - [Time to recovery from severe pneumonia and its predictors among children aged 2-59 months admitted to the Asella Referral and Teaching Hospital, Asella, Ethiopia, 2023: a retrospective cohort study](https://bmjopen.bmj.com/content/15/3/e087368) (The BMJ)
 
 - [„Mit dem Rückzug der USA entsteht ein Vakuum“: Deutschland kann die Lücke im Kampf für globale Gesundheit füllen](https://www.tagesspiegel.de/wissen/mit-dem-ruckzug-der-usa-entsteht-ein-vakuum-deutschland-kann-die-lucke-im-kampf-fur-globale-gesundheit-fullen-13420834.html) (Der Tagesspiegel)
@@ -1778,6 +1808,20 @@ Source: [News API](https://newsapi.org/)
 - [Selección Mexicana: ¿Cuántos títulos ha ganado Javier Aguirre con el Tricolor?](https://www.record.com.mx/futbol-futbol-nacional-seleccion-mexicana/seleccion-mexicana-cuantos-titulos-ha-ganado-javier) (Record.com.mx)
 
 ## 25-13 (h5n1)
+
+- [Bird Flu Outbreak: World’s First Case of Avian Influenza Found In Sheep](https://www.shtfplan.com/headline-news/bird-flu-outbreak-worlds-first-case-of-avian-influenza-found-in-sheep) (Shtfplan.com)
+
+- [Bird flu has potential to become pandemic, says UK expert](https://news.sky.com/story/h5n1-strain-of-bird-flu-has-potential-to-become-pandemic-says-uk-expert-13335645) (Sky.com)
+
+- [США переживают яичный дефицит: может ли помочь Европа?](https://www.dw.com/ru/ssa-perezivaut-aicnyj-deficit-mozet-li-pomoc-evropa/a-72028802) (DW (English))
+
+- [L’influenza aviaria ora contamina anche le pecore](https://www.dissapore.com/notizie/linfluenza-aviaria-ora-contamina-anche-le-pecore/) (Dissapore.com)
+
+- [Για πρώτη φορά ο ιός της γρίπης των πτηνών εντοπίστηκε σε πρόβατο στο Γιορκσάιρ](https://www.skai.gr/news/world/vretania-entopistike-ios-tis-gripis-ton-ptinon-se-provato-sto-giorksair) (Skai.gr)
+
+- [Droht mit H5N1 eine Pandemie?: "Das Vogelgrippe-Virus ist ein wahrer Anpassungskünstler"](https://www.n-tv.de/wissen/Droht-mit-H5N1-eine-neue-Pandemie-Virologe-Schwemmle-zu-Vogelgrippe-Virus-ist-ein-wahrer-Anpassungskuenstler-article25652864.html) (N-tv.de)
+
+- [H5N1: UK reports world’s first case in a sheep](https://www.bmj.com/content/388/bmj.r591) (The BMJ)
 
 - [英國發現綿羊 H5N1 首例，哺乳動物傳播疑慮升高](https://technews.tw/2025/03/25/first-case-of-h5n1-in-sheep-found-in-uk/) (Technews.tw)
 
@@ -1835,6 +1879,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-13 (dengue)
 
+- [How Zika virus knocks out our immune defenses](https://www.sciencedaily.com/releases/2025/03/250325141538.htm) (Science Daily)
+
+- [CDC sounds alarm over rising dengue cases amid spring vacationers' joy](https://economictimes.indiatimes.com/news/international/us/cdc-sounds-alarm-over-rising-dengue-cases-amid-spring-vacationers-joy/articleshow/119489741.cms) (The Times of India)
+
 - [Dengue en México: suman 2 mil 295 casos en lo que va del año](https://www.excelsior.com.mx/nacional/dengue-mexico-suman-2-mil-295-casos-en-2025/1706760) (Excelsior.com.mx)
 
 - [Dengue fever cases rising in popular spring break locations, CDC alerts](https://www.foxnews.com/health/dengue-fever-cases-rising-popular-spring-break-locations-cdc-alerts) (Fox News)
@@ -1846,6 +1894,8 @@ Source: [News API](https://newsapi.org/)
 - [São Paulo se aproxima de 300 mil casos confirmados de dengue](https://valor.globo.com/brasil/noticia/2025/03/22/so-paulo-se-aproxima-de-300-mil-casos-confirmados-de-dengue.ghtml) (Globo)
 
 ## 25-13 (chikungunya)
+
+- [A lista do Reino Unido com chikungunya, oropouche e outras 'ameaças à saúde pública'](https://www.bbc.com/portuguese/articles/c70wp8kelgro) (BBC News)
 
 - [Valneva va fournir des vaccins contre l'épidémie de chikungunya à La Réunion](https://www.lejournaldesentreprises.com/breve/valneva-va-fournir-des-vaccins-contre-lepidemie-de-chikungunya-la-reunion-2116172) (Le Journal des Entreprises)
 
