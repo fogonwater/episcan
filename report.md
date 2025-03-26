@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 32
-- **Last harvest:** 2025-03-25 19:06
-- **Most recent article:** 2025-03-24 18:42:10
+- **New articles in last harvest:** 22
+- **Last harvest:** 2025-03-26 07:07
+- **Most recent article:** 2025-03-25 06:30:05
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-10 | 25-11 | 25-12 | 25-13 | 25-7 | 25-8 | 25-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 142 | 133 | 105 | 7 | 68 | 83 | 162 | 700 |
-| h5n1 | 23 | 39 | 57 | 24 | 51 | 54 | 42 | 290 |
-| dengue | 8 | 12 | 18 | 4 | 37 | 57 | 30 | 166 |
-| malaria | 29 | 22 | 18 | 4 | 11 | 7 | 20 | 111 |
+| measles | 142 | 133 | 108 | 20 | 72 | 83 | 162 | 720 |
+| h5n1 | 23 | 39 | 57 | 27 | 55 | 54 | 42 | 297 |
+| dengue | 8 | 12 | 18 | 5 | 37 | 57 | 30 | 167 |
+| malaria | 29 | 22 | 18 | 5 | 12 | 7 | 20 | 113 |
 | mpox | 14 | 15 | 8 | 4 | 18 | 15 | 26 | 100 |
 | meningitis | 4 | 9 | 7 | 1 | 12 | 11 | 7 | 51 |
 | hpai | 10 | 3 | 12 | 0 | 9 | 5 | 4 | 43 |
 | chikungunya | 6 | 1 | 17 | 3 | 5 | 3 | 7 | 42 |
 | rabies | 3 | 8 | 3 | 0 | 5 | 4 | 2 | 25 |
-| typhoid | 3 | 8 | 0 | 0 | 3 | 0 | 4 | 18 |
-| zika | 3 | 0 | 2 | 0 | 2 | 6 | 2 | 15 |
+| typhoid | 3 | 8 | 0 | 1 | 3 | 0 | 4 | 19 |
+| zika | 3 | 0 | 2 | 1 | 2 | 6 | 2 | 16 |
 | yersinia | 1 | 2 | 2 | 0 | 5 | 0 | 2 | 12 |
 | pertussis | 0 | 5 | 1 | 0 | 3 | 2 | 0 | 11 |
 | leptospirosis | 3 | 0 | 1 | 0 | 0 | 2 | 0 | 6 |
@@ -1447,6 +1447,14 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles outbreak spreads as health officials urge anyone who hasn't been vaccinated to get jabbed - NewsBreak](https://www.newsbreak.com/share/3798078238417-measles-outbreak-spreads-as-health-officials-urge-anyone-who-hasn-t-been-vaccinated-to-get-jabbed?s=a2&share_destination_id=MjUxNzE4NzUzLTE3MzkxNDI4NDQyMDU%3D&pd=0H2BXtcW&hl=en_US&send_time=1739142844&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.4.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_push_exp_rt_bucketv12-v7%2Cns_foryou_blend_exp_25q1-v8%2Cns_foryou_recall_exp_25q1-v8%2Cns_foryou_model_exp_25q1-v1%2Cns_foryou_rank_exp_25q1-v4) (Newsbreak.com)
 
+- [Texas Measles Cases Hit County With Low Vaccination Rates](https://www.newsweek.com/measles-outbreak-texas-gaines-county-vaccination-rate-2028453) (Newsweek)
+
+- [Measles outbreak spreads as health officials urge anyone who hasn't been vaccinated to get jabbed - NewsBreak](https://www.newsbreak.com/share/3798078238417-measles-outbreak-spreads-as-health-officials-urge-anyone-who-hasn-t-been-vaccinated-to-get-jabbed?s=a2&share_destination_id=NTMxMzc4NDEtMTczOTExODU1MjI2Ng%3D%3D&pd=03axZxIg&hl=en_US&send_time=1739118552&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.6.1%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_model_exp_25q1-v8%2Cns_foryou_blend_exp_25q1-v8%2Cns_foryou_rank_exp_25q1-v6%2Cns_foryou_recall_exp_25q1-v7%2Cns_push_exp_rt_bucketv12-v8) (Newsbreak.com)
+
+- [Measles outbreak spreads as health officials urge anyone who hasn't been vaccinated to get jabbed - NewsBreak](https://www.newsbreak.com/share/3798078238417-measles-outbreak-spreads-as-health-officials-urge-anyone-who-hasn-t-been-vaccinated-to-get-jabbed?_f=app_share&pd=04jUeKTH&lang=en_US&send_time=1739109677&trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.6.0.7%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_model_exp_25q1-v9%2Cns_push_exp_rt_bucketv12-v1%2Cns_foryou_rank_exp_25q1-v2%2Cns_foryou_blend_exp_25q1-control%2Cns_foryou_recall_exp_25q1-v5&s=i2) (Newsbreak.com)
+
+- [Measles outbreak spreads as health officials urge anyone who hasn't been vaccinated to get jabbed - NewsBreak](https://www.newsbreak.com/share/3798078238417-measles-outbreak-spreads-as-health-officials-urge-anyone-who-hasn-t-been-vaccinated-to-get-jabbed?s=a2&share_destination_id=MjE0OTg1NzExLTE3MzkxNDQyMzc1NTc%3D&pd=0EY3bTgT&hl=en_US&send_time=1739144237&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.4.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_recall_exp_25q1-v6%2Cns_foryou_model_exp_25q1-v6%2Cns_foryou_blend_exp_25q1-v3%2Cns_foryou_rank_exp_25q1-v5) (Newsbreak.com)
+
 ## 25-7 (malaria)
 
 - [Nigeria approves $200M to offset shortfall from US aid cuts](https://www.dw.com/en/nigeria-approves-200m-to-offset-shortfall-from-us-aid-cuts/a-71607477) (DW (English))
@@ -1470,6 +1478,8 @@ Source: [News API](https://newsapi.org/)
 - [Ocho mujeres que cambiaron la farmacología](https://www.elperiodico.com/es/ciencia/20250212/ocho-mujeres-cambiaron-farmacologia-114232542) (Elperiodico.com)
 
 - [AI and public health issues in contemporary Nigeria - MediaLord.Ng](https://medialord.ng/ai-and-public-health-issues-in-contemporary-nigeria/) (Medialord.ng)
+
+- [How to strengthen malaria prevention through community](https://www.standardmedia.co.ke/health/health-opinion/article/2001511362/how-to-strengthen-malaria-prevention-through-community) (Standard Digital)
 
 ## 25-7 (hpai)
 
@@ -1595,6 +1605,14 @@ Source: [News API](https://newsapi.org/)
 
 - [Rikligt med fågelinfluensafall i Europa – men svårt att säga hur situationen blir i Finland](https://yle.fi/a/7-10072315) (YLE News)
 
+- [Qual o risco de a gripe aviária virar uma nova pandemia entre humanos?](https://catracalivre.com.br/saude-bem-estar/qual-o-risco-de-a-gripe-aviaria-virar-uma-nova-pandemia-entre-humanos/) (Catracalivre.com.br)
+
+- [Onde elettromagnetiche per "abbattere" l'aviaria: ecco come funzionano](https://www.ilgiornale.it/news/rimedi-naturali/aviaria-abbattuta-dalle-onde-elettromagnetiche-studio-2435169.html) (Ilgiornale.it)
+
+- [אירוע חריג בארה"ב: פרות נדבקו בזן חדש של שפעת העופות](https://www.ynet.co.il/health/article/rkq00oahtkx) (Ynet)
+
+- [Zamykają targi, wybijają zakażone zwierzęta. Ptasia grypa rozprzestrzenia się w Nowym Jorku](https://tvn24.pl/tvnmeteo/swiat/zamykaja-targi-wybijaja-zakazone-zwierzeta-ptasia-grypa-rozprzestrzenia-sie-w-nowym-jorku-st8298168) (Tvn24.pl)
+
 ## 25-7 (dengue)
 
 - [Ministério da Saúde amplia vacinação contra dengue para não perder doses do insumo](https://olhardigital.com.br/2025/02/15/medicina-e-saude/ministerio-da-saude-amplia-vacinacao-contra-dengue-para-nao-perder-doses-do-insumo/) (Olhardigital.com.br)
@@ -1683,6 +1701,14 @@ Source: [News API](https://newsapi.org/)
 
 - [SP registra primeira morte por chikungunya em 2025](https://valor.globo.com/brasil/noticia/2025/02/12/sp-registra-primeira-morte-por-chikungunya-em-2025.ghtml) (Globo)
 
+## 25-13 (zika)
+
+- [Estudo: Zika Vírus pode ser aliado no combate a tumores cerebrais](https://saude.ig.com.br/2025-03-24/zika-virus-vira-aliado-no-combate-a-tumores-cerebrais.html) (Ig.com.br)
+
+## 25-13 (typhoid)
+
+- [FNU joins hands with Ministry of Health to support Typhoid Vaccination Campaign in the North](https://www.fijivillage.com/news/FNU-joins-hands-with-Ministry-of-Health-to-support-Typhoid-Vaccination-Campaign-in-the-North-f54xr8/) (Fijivillage)
+
 ## 25-13 (mpox)
 
 - [Guidance: Mpox: information for contacts of cases of mpox](https://www.gov.uk/government/publications/mpox-information-for-contacts-of-cases-of-mpox) (Www.gov.uk)
@@ -1699,21 +1725,49 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-13 (measles)
 
+- [Time to recovery from severe pneumonia and its predictors among children aged 2-59 months admitted to the Asella Referral and Teaching Hospital, Asella, Ethiopia, 2023: a retrospective cohort study](https://bmjopen.bmj.com/content/15/3/e087368) (The BMJ)
+
+- [Health experts urge vaccination amid measles case in Middle Tennessee](https://www.newschannel5.com/news/we-should-all-be-concerned-health-experts-urge-vaccination-amid-measles-case-in-middle-tennessee) (NewsChannel5.com)
+
+- [Priority pathogens: UK draws up new disease-threat watch list](https://www.bbc.co.uk/news/articles/cr72d7p5dl2o) (BBC News)
+
+- [Colorado health officials sending messages to families amid nationwide outbreak of a potentially deadly virus](https://www.kktv.com/2025/03/25/colorado-health-officials-sending-messages-families-amid-nationwide-outbreak-potentially-deadly-virus/) (KKTV 11 News)
+
+- [2 measles cases confirmed in Western Pennsylvania](https://www.wpxi.com/news/local/2-measles-cases-confirmed-western-pennsylvania/DPX2QL36A5CQBILVTOO2GTH2JY/) (WPXI Pittsburgh)
+
+- [Three new measles cases, all linked to Ontario traveller, confirmed in southern Alberta](https://www.cbc.ca/news/canada/calgary/three-new-measles-cases-all-linked-to-ontario-traveller-confirmed-in-southern-alberta-1.7492023) (CBC News)
+
+- [Texas is poised to make measles a nationwide epidemic, public health experts say - NewsBreak](https://www.newsbreak.com/share/3869534396894-texas-is-poised-to-make-measles-a-nationwide-epidemic-public-health-experts-say?s=a2&amp;share_destination_id=MjgwMzI5Mzc5LTE3NDI4NDMwMDcwMjA%3D&amp;pd=0IyETbQZ&amp;hl=en_US&amp;send_time=1742843007&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.12.0%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_model_exp_25q1-v9%2Cns_foryou_recall_exp_25q1-v3%2Cns_foryou_rank_exp_25q1-v6%2Cns_local_strategy_25q1_exp-v17%2Cns_push_exp_rt_bucketv12-v6%2Cns_foryou_blend_exp_25q1-v7) (Newsbreak.com)
+
+- [Texas is poised to make measles a nationwide epidemic, public health experts say - NewsBreak](https://www.newsbreak.com/share/3869534396894-texas-is-poised-to-make-measles-a-nationwide-epidemic-public-health-experts-say?s=a2&amp;share_destination_id=MTkwMDE2MzI3LTE3NDI4NDA4MTI1MTQ%3D&amp;pd=0CrHvTAd&amp;hl=en_US&amp;send_time=1742840812&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2224.45.0%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_recall_exp_25q1-control%2Cns_foryou_rank_exp_25q1-v2%2Cns_foryou_blend_exp_25q1-v6%2Cns_local_strategy_25q1_exp-holdback%2Cns_foryou_model_exp_25q1-v9%2Cns_push_exp_rt_bucketv12-v2) (Newsbreak.com)
+
+- [Ontario measles outbreak linked to New Brunswick Mennonite gathering | Globalnews.ca](https://globalnews.ca/news/11095201/measles-outbreak-ontario-mennonite-communities-new-brunswick/) (Global News)
+
 - [Parents who denied daughter MMR vaccine before she died from measles don't regret decision](https://www.ladbible.com/news/us-news/measles-kaylee-texas-mmr-vaccine-parents-interview-059347-20250324) (LADbible)
 
 - [How well is your NYC neighborhood protected against measles? Check out our map.](https://gothamist.com/news/how-well-is-your-nyc-neighborhood-protected-against-measles-check-out-our-map) (Gothamist)
+
+- [‘Measles is only a plane flight away’: As outbreak surges, experts warn against global health funding cuts](https://www.wlfi.com/news/measles-is-only-a-plane-flight-away-as-outbreak-surges-experts-warn-against-global-health/article_4f257554-89b6-5979-a3a9-dd32d89af051.html) (wlfi.com)
+
+- [‘Measles is only a plane flight away’: As outbreak surges, experts warn against global health funding cuts | CNN](https://www.cnn.com/2025/03/24/health/measles-outbreak-global-funding/index.html) (CNN)
 
 - [Texas Measles Outbreak Could Become National Epidemic: Public Health Experts](https://www.insurancejournal.com/news/southcentral/2025/03/24/816750.htm) (Insurance Journal)
 
 - [What’s Up with Measles?](https://wattsupwiththat.com/2025/03/23/whats-up-with-measles/) (Wattsupwiththat.com)
 
+- [Measles case numbers still rising in Southwest](https://www.koat.com/article/measles-case-numbers-still-rising-in-southwest/64265780) (KOAT New Mexico)
+
 - [Tennessee reports first measles case amid U.S. outbreak](https://www.foxnews.com/health/tennessee-reports-first-measles-case-amid-u-s-outbreak) (Fox News)
+
+- [Measles outbreaks are the result of public health distrust after COVID-19 - Washington Examiner](https://www.washingtonexaminer.com/in_focus/3350480/measles-outbreaks-result-of-public-health-distrust-after-covid/) (Washington Examiner)
 
 - [More US states report measles cases amid vaccine misinformation (Melody Schreiber/The Guardian)](https://www.memeorandum.com/250323/p11) (Memeorandum.com)
 
 - [Was there really a measles death in Texas?](https://www.americanthinker.com/blog/2025/03/was_there_really_a_measles_death_in_texas.html) (Americanthinker.com)
 
 ## 25-13 (malaria)
+
+- [Time to recovery from severe pneumonia and its predictors among children aged 2-59 months admitted to the Asella Referral and Teaching Hospital, Asella, Ethiopia, 2023: a retrospective cohort study](https://bmjopen.bmj.com/content/15/3/e087368) (The BMJ)
 
 - [„Mit dem Rückzug der USA entsteht ein Vakuum“: Deutschland kann die Lücke im Kampf für globale Gesundheit füllen](https://www.tagesspiegel.de/wissen/mit-dem-ruckzug-der-usa-entsteht-ein-vakuum-deutschland-kann-die-lucke-im-kampf-fur-globale-gesundheit-fullen-13420834.html) (Der Tagesspiegel)
 
@@ -1724,6 +1778,12 @@ Source: [News API](https://newsapi.org/)
 - [Selección Mexicana: ¿Cuántos títulos ha ganado Javier Aguirre con el Tricolor?](https://www.record.com.mx/futbol-futbol-nacional-seleccion-mexicana/seleccion-mexicana-cuantos-titulos-ha-ganado-javier) (Record.com.mx)
 
 ## 25-13 (h5n1)
+
+- [英國發現綿羊 H5N1 首例，哺乳動物傳播疑慮升高](https://technews.tw/2025/03/25/first-case-of-h5n1-in-sheep-found-in-uk/) (Technews.tw)
+
+- [Bird flu detected in a Minnesota dairy herd for the first time this year](https://www.twincities.com/2025/03/24/bird-flu-detected-in-a-minnesota-dairy-herd-for-the-first-time-this-year/) (TwinCities.com-Pioneer Press)
+
+- [What the World’s First Case of Bird Flu in Sheep Means for the Virus’s Spread](https://www.scientificamerican.com/article/what-the-worlds-first-case-of-bird-flu-in-sheep-means-for-the-viruss-spread/) (Scientific American)
 
 - [In England - Vogelgrippe erstmals bei Schaf entdeckt](https://www.bild.de/leben-wissen/haustiere/vogelgrippe-erster-fall-bei-einem-schaf-in-grossbritannien-67e17ba5798c7544d1282bdc) (Bild)
 
@@ -1774,6 +1834,8 @@ Source: [News API](https://newsapi.org/)
 - [Ein Jahr H5N1 in US-Milchkühen: "Wir kennen das Ausmaß des Vogelgrippe-Ausbruchs nicht"](https://www.n-tv.de/wissen/Wir-kennen-das-Ausmass-des-Vogelgrippe-Ausbruchs-nicht-article25636621.html) (N-tv.de)
 
 ## 25-13 (dengue)
+
+- [Dengue en México: suman 2 mil 295 casos en lo que va del año](https://www.excelsior.com.mx/nacional/dengue-mexico-suman-2-mil-295-casos-en-2025/1706760) (Excelsior.com.mx)
 
 - [Dengue fever cases rising in popular spring break locations, CDC alerts](https://www.foxnews.com/health/dengue-fever-cases-rising-popular-spring-break-locations-cdc-alerts) (Fox News)
 
@@ -1856,6 +1918,12 @@ Source: [News API](https://newsapi.org/)
 - [Three measles exposures confirmed in Virginia](https://fredericksburg.com/news/local/article_56634052-ebf6-4f9d-ab58-11e0dfa0a1a3.html) (Fredericksburg.com)
 
 - [TWiV 1202: Clinical update with Dr. Daniel Griffin](https://www.microbe.tv/twiv/twiv-1202/) (Microbe.tv)
+
+- [First measles case confirmed in Tennessee](https://www.fox13memphis.com/health/first-measles-case-confirmed-in-tennessee/article_7d5936ff-e18b-42f3-9ba6-b460ed5e4917.html) (FOX13 Memphis)
+
+- [Health warning after measles case identified in Perth](https://www.9news.com.au/national/health-warning-after-measles-case-identified-in-perth/b992174e-6938-414e-bdd6-aac8c4122627) (9News)
+
+- [Texas measles outbreak expected to last for months, though vaccinations are up from last year](https://www.ksat.com/health/2025/03/21/texas-measles-outbreak-expected-to-last-for-months-though-vaccinations-are-up-from-last-year/) (KSAT San Antonio)
 
 - [Shrug](https://www.lawyersgunsmoneyblog.com/2025/03/shrug) (Lawyersgunsmoneyblog.com)
 
