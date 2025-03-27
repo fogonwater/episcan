@@ -1,8 +1,494 @@
 {
-  "last_updated": "2025-03-27 07:07",
-  "count_articles_total": 1627,
-  "count_articles_new": 14,
+  "last_updated": "2025-03-27 19:06",
+  "count_articles_total": 1645,
+  "count_articles_new": 27,
   "articles": [
+    {
+      "id": 19723,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Futurism",
+      "author": "Noor Al-Sibai",
+      "title": "Parents Followed RFK Jr\u2019s Crackpot Advice and Had to Send Their Kids to the Hospital With Yellowed Skin",
+      "description": "Unvaccinated children with measles are experiencing complications due to an alternative treatment promoted by the anti-vaxxer in charge of our nation's healthcare. As the New York Times reports, overuse of Vitamin A \u2014 health secretary Robert F. Kennedy, Jr.'s\u2026",
+      "url": "https://futurism.com/neoscope/measles-patients-vitamin-overuse-rfk-jr",
+      "urlToImage": "https://wordpress-assets.futurism.com/2025/03/measles-patients-vitamin-overuse-rfk-jr.jpg",
+      "publishedAt": "2025-03-26 19:04:23",
+      "content": "Unvaccinated children with measles are experiencing complications due to an alternative treatment promoted by the anti-vaxxer in charge of our nation's healthcare. As the New York Times reports, ove\u2026 [+3339 chars]",
+      "retrievedAt": "2025-03-27 19:06:01.847607",
+      "internal_id": "833418f8a7f23204922746119454cc3db2e0c99198158adeda16f9d76f574d6b",
+      "publishedAtLabel": "Mar 26"
+    },
+    {
+      "id": 19714,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news-au",
+      "source_name": "ABC News (AU)",
+      "author": "Elise Worthington and Paige Cockburn",
+      "title": "Measles was 'eliminated' 10 years ago. Why have cases started climbing?",
+      "description": "Health departments around the country are warning Australians to be alert for symptoms of measles as concerns grow about a rise in cases amid declining vaccination rates.",
+      "url": "https://www.abc.net.au/news/2025-03-27/nsw-vic-measles-alerts-concerns-about-vaccination-rates/105100504",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/e388c3f3f6704e415c7407c3a71a4899?impolicy=wcms_watermark_news&cropH=392&cropW=697&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+      "publishedAt": "2025-03-26 18:57:44",
+      "content": "Health departments around the country are warning Australians to be alert for symptoms of measles as concerns grow about a rise in cases amid declining vaccination rates. The NSW health department h\u2026 [+7380 chars]",
+      "retrievedAt": "2025-03-27 19:06:01.650041",
+      "internal_id": "315a9678f7b260e5f8bbe4c2c2f117f8afa8099ebf9c654e318088ebf8250990",
+      "publishedAtLabel": "Mar 26"
+    },
+    {
+      "id": 19717,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Eschatonblog.com",
+      "author": "noreply@blogger.com (Atrios)",
+      "title": "Nobody Could Have Predicted",
+      "description": "Me: One issue with supplements is people tend to think that if one is good, then two might be better, and Vitamin A is actually a bit dangerous, especially if you started hyperdosing kids. Now: One of those supplements is cod liver oil containing vitamin A, w\u2026",
+      "url": "https://www.eschatonblog.com/2025/03/nobody-could-have-predicted.html",
+      "urlToImage": null,
+      "publishedAt": "2025-03-26 18:30:00",
+      "content": "One of those supplements is cod liver oil containing vitamin A, which Mr. Kennedy has promoted as a near miraculous cure for measles. Physicians at Covenant Children\u2019s Hospital in Lubbock, Texas, say\u2026 [+490 chars]",
+      "retrievedAt": "2025-03-27 19:06:01.716330",
+      "internal_id": "561f587aff6a0d462c96452db42d1b6dbfe9888c0a97ccf513541c440c612335",
+      "publishedAtLabel": "Mar 26"
+    },
+    {
+      "id": 19729,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "abc-news-au",
+      "source_name": "ABC News (AU)",
+      "author": "ABC News",
+      "title": "Trump administration to end funding for child vaccines in poorest nations",
+      "description": "The administration also plans to scale back efforts to combat malaria, according to documents, but would continue grants for drugs that treat HIV and tuberculosis.",
+      "url": "https://www.abc.net.au/news/2025-03-27/funding-for-child-vaccines-in-poor-nations-trump-administration/105101058",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/a99280729f1344c01c92adf7b9893f5a?impolicy=wcms_watermark_news&cropH=608&cropW=1080&xPos=0&yPos=656&width=862&height=485&imformat=generic",
+      "publishedAt": "2025-03-26 18:06:09",
+      "content": "The US government plans to end financial support for Gavi, an organisation that helps buy vaccines for children in developing countries. According to a document, which has been seen by multiple new\u2026 [+1427 chars]",
+      "retrievedAt": "2025-03-27 19:06:04.257810",
+      "internal_id": "6e39cfe8b465a291277c22491c1599a6c61a324d821881785ad3357d7f53a4d9",
+      "publishedAtLabel": "Mar 26"
+    },
+    {
+      "id": 19715,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Week Magazine",
+      "author": "theweekonlineeditors@futurenet.com (Peter Weber, The Week US)",
+      "title": "Measles outbreak spreads, as does RFK Jr.'s influence",
+      "description": "The outbreak centered in Texas has grown to at least three states and Health Secretary Robert F. Kennedy Jr. is promoting unproven treatments",
+      "url": "https://theweek.com/health/measles-spread-rfk-jr-treatments",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/XJn2S79YgJNoUrXoHmKG5b-1200-80.jpg",
+      "publishedAt": "2025-03-26 18:02:33",
+      "content": "What happened The measles outbreak centered in Gaines County, Texas, has grown to more than 370 cases in at least three states, health officials said Tuesday, already topping the 285 cases recorded \u2026 [+1661 chars]",
+      "retrievedAt": "2025-03-27 19:06:01.672199",
+      "internal_id": "4e3aa60a8adc805c71d9bb0cbfbd7211af420f545850305823b3d46dab5301c2",
+      "publishedAtLabel": "Mar 26"
+    },
+    {
+      "id": 19730,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "ScienceAlert",
+      "author": "David Nield",
+      "title": "Drug For Rare Disease Turns Human Blood Into Mosquito Poison",
+      "description": "Scientists have a radical new plan for controlling mosquito numbers and fighting malaria: lacing human blood with a drug that's poisonous for the insects, so sucking on this blood marks their last meal.",
+      "url": "https://www.sciencealert.com/drug-for-rare-disease-turns-human-blood-into-mosquito-poison",
+      "urlToImage": "https://www.sciencealert.com/images/2025/03/MosquitoInsect.jpg",
+      "publishedAt": "2025-03-26 18:00:43",
+      "content": "Scientists have a radical new plan for controlling mosquito numbers and fighting malaria: lacing human blood with a drug that's poisonous for the insects, so sucking on this blood marks their last me\u2026 [+3736 chars]",
+      "retrievedAt": "2025-03-27 19:06:04.273743",
+      "internal_id": "3a55c5c36e4915569ed14bd8abdc049f14ff14f33a241354f36f6a0ce94fec8e",
+      "publishedAtLabel": "Mar 26"
+    },
+    {
+      "id": 19711,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Paula Wethington",
+      "title": "Michigan resident dies from rabies after contracting virus from organ transplant, health officials say",
+      "description": "Michigan resident dies from rabies after contracting virus from organ transplant, health officials saycbsnews.com",
+      "url": "https://www.cbsnews.com/detroit/news/michigan-resident-dies-rabies-organ-transplant-toledo-ohio/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/12/27/c869ed2c-0a90-4155-9fa7-58d230d1c6a8/thumbnail/1200x630/9d652ee30513cada9d0608c54eb96226/gettyimages-693893643.jpg?v=95354023eeb6141c58c08d9a5716f291",
+      "publishedAt": "2025-03-26 18:00:40",
+      "content": "A Michigan resident has died of rabies after receiving a transplanted organ in Ohio, the Toledo-Lucas County (Ohio) Health Department reported Wednesday. The Michigan Department of Health and Human\u2026 [+1703 chars]",
+      "retrievedAt": "2025-03-27 19:06:01.066885",
+      "internal_id": "2bad88419cc1fce4040bd372755486443bbe51ef245ccaf8efec4bfc7ff7d3dd",
+      "publishedAtLabel": "Mar 26"
+    },
+    {
+      "id": 19731,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Oe3.orf.at",
+      "author": null,
+      "title": "Malaria: Medikament macht Menschenblut f\u00fcr M\u00fccken giftig",
+      "description": "Nitisinon hemmt Verdauungsenzym.Wirkstoff derzeit noch extrem teuer.Der Wirkstoff wird zur Behandlung einer seltenen Stoffwechselerkrankung eingesetzt.",
+      "url": "https://oe3.orf.at/stories/3047024/",
+      "urlToImage": null,
+      "publishedAt": "2025-03-26 18:00:00",
+      "content": "Nitisinon hemmt Verdauungsenzym.Wirkstoff derzeit noch extrem teuer.Der Wirkstoff wird zur Behandlung einer seltenen Stoffwechselerkrankung eingesetzt. Ein bereit\u2026 [+1618 chars]",
+      "retrievedAt": "2025-03-27 19:06:04.325491",
+      "internal_id": "5937231adf014819cad4e048f42d9e1bb752f3890c66902c3e0af9780ca194d9",
+      "publishedAtLabel": "Mar 26"
+    },
+    {
+      "id": 19727,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Jordan King",
+      "title": "Map Shows Surging Dengue Fever Cases as Spring Break Warning Issued",
+      "description": "Dengue fever is a viral infection transmitted by mosquitoes.",
+      "url": "https://www.newsweek.com/spring-break-map-dengue-fever-2050913",
+      "urlToImage": "https://d.newsweek.com/en/full/2615207/aedes-aegypti-mosquito.jpg",
+      "publishedAt": "2025-03-26 16:51:07",
+      "content": "A Newsweek map shows where cases of dengue fever have been seen in the United States as an alert has been issued for the upcoming peak season during spring and summer travel. Why It Matters Dengue \u2026 [+2776 chars]",
+      "retrievedAt": "2025-03-27 19:06:03.572642",
+      "internal_id": "002a52f37424d405afcb3a5a8be6792d67a1a4b33022e1dc9e7494c0ffb729c7",
+      "publishedAtLabel": "Mar 26"
+    },
+    {
+      "id": 19718,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Activistpost.com",
+      "author": "Editor",
+      "title": "Parents: Measles Didn\u2019t Kill Girl In Texas",
+      "description": "Note: This article is for information only and is not a substitute for advice by a healthcare provider. The measles outbreak in Texas in January caused considerable alarm \u2013 especially when it was reported that a girl there died of measles. This outbreak has a\u2026",
+      "url": "https://www.activistpost.com/parents-measles-didnt-kill-girl-in-texas/",
+      "urlToImage": "https://www.activistpost.com/wp-content/uploads/2025/03/Parents-Measles-Didnt-Kill-Girl-In-Texas.jpg",
+      "publishedAt": "2025-03-26 16:03:00",
+      "content": "Note: This article is for information only and is not a substitute for advice by a healthcare provider. The measles outbreak in Texas in January caused considerable alarm especially when it was repo\u2026 [+21699 chars]",
+      "retrievedAt": "2025-03-27 19:06:01.738791",
+      "internal_id": "0ba9cb53392cd7a3f37f2e5a01bf2d015ee1f1aa16527e882dd6dff55002a01f",
+      "publishedAtLabel": "Mar 26"
+    },
+    {
+      "id": 19732,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "wired",
+      "source_name": "Wired",
+      "author": "Cond\u00e9 Nast",
+      "title": "Why Gutting USAID Will Hurt America",
+      "description": "WIRED Senior Writer Kate Knibbs explains how the Trump administration's self-proclaimed \"America First\" policies are, in practice, anything but\u2014particularly their effective destruction of the United States Agency for International Development (USAID). See why\u2026",
+      "url": "https://www.wired.com/video/watch/on-the-grid-why-gutting-usaid-will-hurt-america/",
+      "urlToImage": "https://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_wired.png,fl_progressive,g_face,h_1080,q_80,w_1920/v1743003890/wired_on-the-grid-why-gutting-usaid-will-hurt-america.jpg",
+      "publishedAt": "2025-03-26 16:00:00",
+      "content": "1 billion children immunized. 2.2 billion malaria cases prevented 26 million lives saved from AIDS. For 60 years, USAID, America's Foreign Assistance Agency has fed the hungry and prevented dise\u2026 [+15319 chars]",
+      "retrievedAt": "2025-03-27 19:06:04.373428",
+      "internal_id": "97ec59bd97b4f6622aa7b856e75f06765d62a028c0837e243fb1dcbd2f585250",
+      "publishedAtLabel": "Mar 26"
+    },
+    {
+      "id": 19712,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "Mary Kekatos",
+      "title": "Measles case confirmed in DC, individual may have exposed others on Amtrak train",
+      "description": "A measles case was confirmed in a person who traveled to Washington, D.C., on an Amtrak train, according to the D.C. Department of Health.",
+      "url": "https://abcnews.go.com/Health/measles-case-confirmed-dc-individual-exposed-amtrak-train/story?id=120176123",
+      "urlToImage": "https://i.abcnewsfe.com/a/b8149c64-f943-4bfc-b6f0-d0a516c59395/amtrak-gty-er-250326_1743002523873_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2025-03-26 15:50:12",
+      "content": "A measles case was confirmed in a person who traveled to Washington, D.C., on an Amtrak train, according to the D.C. Department of Health (DC Health). The person visited multiple locations while con\u2026 [+2099 chars]",
+      "retrievedAt": "2025-03-27 19:06:01.598792",
+      "internal_id": "ff6cd0147bd479f5dafcf2e92ce3435b8f2b576ba05d2e76651d28fde0eca53b",
+      "publishedAtLabel": "Mar 26"
+    },
+    {
+      "id": 19733,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Mediafax.ro",
+      "author": "Maria Miron",
+      "title": "O epidemie cu simptome similare gripei se r\u0103sp\u00e2nde\u0219te rapid pe insula Reunion din Oceanul Indian",
+      "description": "Mediafax O epidemie provocat\u0103 de virusul Chikungunya se r\u0103sp\u00e2nde\u0219te pe \u00eentreg teritoriul insulei franceze Reunion, cu peste 4.000 de cazuri noi raportate \u00eentr-o s\u0103pt\u0103m\u00e2n\u0103, au anun\u021bat miercuri autorit\u0103\u021bile insulei, relateaz\u0103 Le Figaro, care precizeaz\u0103 c\u0103 inclu\u2026",
+      "url": "https://www.mediafax.ro/externe/o-epidemie-cu-simptome-similare-gripei-se-raspandeste-rapid-pe-insula-reunion-din-oceanul-indian-23533373",
+      "urlToImage": "https://www.mediafax.ro/wp-content/uploads/2025/03/profimedia-0103058591.jpg",
+      "publishedAt": "2025-03-26 14:44:06",
+      "content": "Autoritile din Reunion au anunat miercuri c epidemia de Chikungunya se rsp\u00e2ndete pe \u00eentreg teritoriul insulei franceze din Oceanul Indian, cu 4.156 de cazuri noi \u00eenregistrate \u00eentre 10 i 16 martie, \u00een\u2026 [+1783 chars]",
+      "retrievedAt": "2025-03-27 19:06:05.123720",
+      "internal_id": "435c3f7c3fed91df44dcd884d318761009b03692f3a03aba26ec32b2f33734dc",
+      "publishedAtLabel": "Mar 26"
+    },
+    {
+      "id": 19736,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "L'Obs",
+      "author": "Le Nouvel Obs avec AFP",
+      "title": "La R\u00e9union : plus de 4 000 cas de chikungunya en une semaine, l\u2019\u00e9pid\u00e9mie progresse",
+      "description": "Le d\u00e9partement d\u2019Outre-mer a enregistr\u00e9 les deux premiers d\u00e9c\u00e8s li\u00e9s \u00e0 l\u2019\u00e9pid\u00e9mie la semaine derni\u00e8re. La maladie transmise par le moustique continue sa progression sur le territoire.",
+      "url": "https://www.nouvelobs.com/societe/20250326.OBS101964/la-reunion-plus-de-4-000-cas-de-chikungunya-en-une-semaine-l-epidemie-progresse.html",
+      "urlToImage": "https://focus.nouvelobs.com/2025/03/21/0/0/6240/4160/1200/800/0/0/74ccbbc_ftp-import-images-1-dxsajjb4sdd8-afp-37ep89d.jpg",
+      "publishedAt": "2025-03-26 14:25:42",
+      "content": "Par Le Nouvel Obs avec AFP Publi\u00e9 le 26 mars 2025 \u00e0 15h25, mis \u00e0 jour le 26 mars 2025 \u00e0 15h37 Un pompier intervient contre les moustiques, le 30 mars 2018 \u00e0 Saint-Paul, sur l\u00eele de La R\u00e9union. \u2026 [+2646 chars]",
+      "retrievedAt": "2025-03-27 19:06:05.169512",
+      "internal_id": "0192293d91a5fd56fb78847ae73a7cf7687b1843b93c4ec4330932f9ca09ab66",
+      "publishedAtLabel": "Mar 26"
+    },
+    {
+      "id": 19735,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Francetvinfo.fr",
+      "author": null,
+      "title": "franceinfo junior. O\u00f9 en est l'\u00e9pid\u00e9mie de chikungunya \u00e0 La R\u00e9union ?",
+      "description": "Alors que l'\u00e9pid\u00e9mie de chikungunya touche toute l'\u00eele, des \u00e9l\u00e8ves r\u00e9unionnais posent leurs questions \u00e0 ce sujet \u00e0 Nicolas Odon, adjoint au chef du service de lutte antivectorielle \u00e0 l\u2019ARS de La R\u00e9union.",
+      "url": "https://www.francetvinfo.fr/replay-radio/france-info-junior/franceinfo-junior-ou-en-est-l-epidemie-de-chikungunya-a-la-reunion_7124157.html",
+      "urlToImage": "https://www.francetvinfo.fr/pictures/VAX7DtcMLIhLP_qlrkTykJBspn4/0x113:2699x1630/1500x843/2025/03/26/moustique-67e40752c3bf9281824093.jpg",
+      "publishedAt": "2025-03-26 14:22:38",
+      "content": "Du lundi au jeudi, l'\u00e9mission franceinfo junior d\u00e9crypte l'actualit\u00e9 \u00e0 hauteur d'enfants, au micro du pr\u00e9sentateur Jules de Kiss sur la radio franceinfo. Pr\u00e8s de 4 000 nouveaux cas de chikungunya on\u2026 [+709 chars]",
+      "retrievedAt": "2025-03-27 19:06:05.161436",
+      "internal_id": "ef84fc1b6ff0cb742b07b63d17bec035a32af12bf705daa798235fd8420702e7",
+      "publishedAtLabel": "Mar 26"
+    },
+    {
+      "id": 19728,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Shi-Yuan Lin, Pei-Ling Ye, Ya-Hui Chen, Nan Zheng, Cheng Wu, Li-Hua Xie",
+      "title": "Genetic structure and knockdown resistance (kdr) mutations in Aedes albopictus (Skuse) (Diptera: Culicidae): Implications for dengue fever transmission in southeastern China",
+      "description": "Dengue fever, transmitted by Aedes albopictus in China, is a major public health issue. The emergence of kdr gene mutations in Ae. albopictus has reduced the efficacy of insecticide-based control. We investigated the genetic structure of eight Ae. albopictus \u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0320200",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0320200.g003&size=inline",
+      "publishedAt": "2025-03-26 14:00:00",
+      "content": "Abstract Dengue fever, transmitted by Aedes albopictus in China, is a major public health issue. The emergence of kdr gene mutations in Ae. albopictus has reduced the efficacy of insecticide-based c\u2026 [+30832 chars]",
+      "retrievedAt": "2025-03-27 19:06:03.609287",
+      "internal_id": "9e71bba08f2eaca08e287746a98114128415a148c3f4aa3bffa4477a3f52826b",
+      "publishedAtLabel": "Mar 26"
+    },
+    {
+      "id": 19722,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Kffhealthnews.org",
+      "author": null,
+      "title": "Wednesday, March 26, 2025",
+      "description": "Federal worker struggles, CDC exits, health officials confirmed, measles cases grow, cancer, 23andMe, funding cuts, and more are in the news.",
+      "url": "https://kffhealthnews.org/morning-briefing/wednesday-march-26-2025/",
+      "urlToImage": "https://kffhealthnews.org/wp-content/uploads/sites/2/2023/04/2023_morning-briefing2.jpg",
+      "publishedAt": "2025-03-26 13:22:42",
+      "content": "Health Systems Grapple As Measles Cases Spread Beyond Outbreak States As isolated reports of measles spread beyond the Texas-centric hotspot, health officials gear up for new cases while others repo\u2026 [+7642 chars]",
+      "retrievedAt": "2025-03-27 19:06:01.832236",
+      "internal_id": "8afd5c7217929fbc5e6c8ab584c2f2d87c8e82bed8591b5cf17c685a1d0c0f05",
+      "publishedAtLabel": "Mar 26"
+    },
+    {
+      "id": 19725,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Khan.co.kr",
+      "author": "\uac15\ud604\uc11d \uae30\uc790 kaja@kyunghyang.com",
+      "title": "\ucc9c\uc548 \uc0b0\ub780\uacc4 \ub18d\uc7a5\uc11c \uace0\ubcd1\uc6d0\uc131 AI\u00b7\u00b7\u00b7\uc804\uad6d 43\ubc88\uc9f8",
+      "description": "\uc870\ub958\uc778\ud50c\ub8e8\uc5d4\uc790 \ubc29\uc5ed. \uc5f0\ud569\ub274\uc2a4 \ucda9\ub0a8 \ucc9c\uc548\uc758 \uc0b0\ub780\uacc4 \ub18d\uc7a5\uc5d0\uc11c \uace0\ubcd1\uc6d0\uc131 \uc870\ub958\uc778\ud50c\ub8e8\uc5d4\uc790\uac00 \ubc1c\uc0dd\ud588\ub2e4. \uc911\uc559\uc0ac\uace0\uc218\uc2b5\ubcf8\ubd80\ub294 26\uc77c \ucda9\ub0a8 \ucc9c\uc548\uc2dc \uc18c\uc7ac \uc0b0\ub780\uacc4 \ub18d\uc7a5\uc5d0\uc11c H5N1\ud615 \uc870\ub958\uc778\ud50c\ub8e8\uc5d4\uc790\uac00 \ubc1c\uc0dd\ud588\ub2e4\uace0 \ubc1d\ud614\ub2e4. \uc804\uad6d \uac00\uae08\ub18d\uc7a5\uc5d0\uc11c \ubc1c\uc0dd\ud55c 43\ubc88\uc9f8 \uc0ac\ub840\ub2e4. \uc774 \ub18d\uc7a5\uc740 \ub2ed 10\ub9cc \ub9c8\ub9ac\ub97c \ud0a4\uc6b0\uace0 \uc788\ub2e4. \ub2f9\uad6d\uc740 \ucd08\ub3d9\ub300\uc751\ud300\uc744 \ud604\uc7a5\uc5d0 \ud22c\uc785\ud574 \ucd9c\uc785 \ud1b5\uc81c, \uc0b4\ucc98\ubd84, \uc5ed\ud559\uc870\uc0ac \ub4f1\u00b7\u00b7\u00b7",
+      "url": "https://www.khan.co.kr/article/202503262122011",
+      "urlToImage": "https://img.khan.co.kr/news/2025/03/26/news-p.v1.20250326.dba6bcbc6ac04dd593f4b5ade428a9ed_P1.jpg",
+      "publishedAt": "2025-03-26 12:22:01",
+      "content": ". . 26 H5N1 . 43 . 10 . , , . 29 . AI 169 , (7758 ) 2.2%. AI .",
+      "retrievedAt": "2025-03-27 19:06:03.062542",
+      "internal_id": "124df5e52bdd7e5e72e63251e7cb238b6bb13267fa873bb35c320a972c3a803a",
+      "publishedAtLabel": "Mar 26"
+    },
+    {
+      "id": 19721,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "TODAY",
+      "author": "TODAY",
+      "title": "Officials say person with measles traveled to DC on Amtrak train",
+      "description": "Officials say a person who recently traveled on an Amtrak train from Minnesota to Washington, D.C., became infected with measles and visited several places in the nation's capital while contagious before visiting an urgent care clinic. It comes as health expe\u2026",
+      "url": "https://www.today.com/video/new-measles-infection-reported-in-dc-amid-rise-in-cases-across-us-235391557701",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/mpx/2704722219/2025_03/1742990485186_tdy_news_7a_kreutz_measles_250326_1920x1080-s2u3kt.jpg",
+      "publishedAt": "2025-03-26 12:01:32",
+      "content": "Officials say a person who recently traveled on an Amtrak train from Minnesota to Washington, D.C., became infected with measles and visited several places in the nation's capital while contagious be\u2026 [+194 chars]",
+      "retrievedAt": "2025-03-27 19:06:01.810539",
+      "internal_id": "630458836653f963b5892b378fc943b7564b7a1c38a52cd8763339ed0858fe20",
+      "publishedAtLabel": "Mar 26"
+    },
+    {
+      "id": 19734,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
+      "author": "La r\u00e9daction avec AFP",
+      "title": "La R\u00e9union. Plus de 4 000 cas de chikungunya en une semaine, l'\u00e9pid\u00e9mie \u00ab se g\u00e9n\u00e9ralise \u00bb",
+      "description": "Face \u00e0 l'\u00e9pid\u00e9mie, les autorit\u00e9s recommandent la vaccination, notamment pour les seniors de plus de 65 ans, les adultes avec des comorbidit\u00e9s et les agents de lutte anti-moustique.",
+      "url": "https://www.ledauphine.com/sante/2025/03/26/plus-de-4000-cas-de-chikungunya-en-une-semaine-a-la-reunion-l-epidemie-se-generalise",
+      "urlToImage": "https://cdn-s-www.ledauphine.com/images/C2D5C214-B10A-4F74-B789-0455B9DF661E/FB1200/photo-1742989700.jpg",
+      "publishedAt": "2025-03-26 11:54:00",
+      "content": "L'\u00e9pid\u00e9mie de chikungunya est \u00ab g\u00e9n\u00e9ralis\u00e9e sur tout le territoire \u00bb de La R\u00e9union, o\u00f9 plus de 4 000 nouveaux cas ont \u00e9t\u00e9 d\u00e9clar\u00e9s en une semaine, ont annonc\u00e9 ce mercredi les autorit\u00e9s de l'\u00eele fran\u00e7\u2026 [+2170 chars]",
+      "retrievedAt": "2025-03-27 19:06:05.153136",
+      "internal_id": "106e614ec357bb406df807cd17bc5164b3bcfdb21b53a299b13b0e2f4859d2f3",
+      "publishedAtLabel": "Mar 26"
+    },
+    {
+      "id": 19716,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Advocate.com",
+      "author": "Ryan Adamczeski",
+      "title": "20 things we have more of than transgender NCAA athletes: From Trump felonies to measles cases",
+      "description": "Donald Trump has been convicted of more felonies than the number of trans athletes in the NCAA.",
+      "url": "https://www.advocate.com/news/ncaa-transgender-athletes",
+      "urlToImage": "https://www.advocate.com/media-library/image.jpg?id=58373440&width=1200&height=600&coordinates=0%2C39%2C0%2C39",
+      "publishedAt": "2025-03-26 11:20:16",
+      "content": "Trophies for the Winner Runner up and Third place teams during the 2023 NCAA Cross Country Championship Tavan smith/Shutterstock For how much Republican lawmakers focus on them, the number of trans\u2026 [+6554 chars]",
+      "retrievedAt": "2025-03-27 19:06:01.681638",
+      "internal_id": "3c816d0442a9b3d51139b3a9eebf8977490162fbf950c56ee3d9e898a5b0b46b",
+      "publishedAtLabel": "Mar 26"
+    },
+    {
+      "id": 19726,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Canada slowest to report avian flu samples to global database, UBC researchers find",
+      "description": "Two University of B.C. researchers have found that Canada is the slowest country at reporting H5N1 avian flu data to a global genome database, which they say could have implications as scientists track the mutations of the rapidly spreading virus.",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/canada-avian-flu-reporting-1.7493478",
+      "urlToImage": "https://i.cbc.ca/1.7391120.1736813777!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_1180/bird-flu.jpg?im=Resize%3D620",
+      "publishedAt": "2025-03-26 11:00:00",
+      "content": "Two University of B.C. researchers have found that Canada is the slowest country at reporting H5N1 avian flu data to a global genome database, which they say could have implications as scientists tra\u2026 [+4103 chars]",
+      "retrievedAt": "2025-03-27 19:06:03.091594",
+      "internal_id": "6129abc5e734f4d4a9ec2b62a94f26edd22f9e75ad94a8233e0570e2d3ed1578",
+      "publishedAtLabel": "Mar 26"
+    },
+    {
+      "id": 19720,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Foreign Policy",
+      "author": "Nosmot Gbadamosi",
+      "title": "Nigeria\u2019s Missed #MeToo Moment",
+      "description": "A female lawmaker faces condemnation after speaking out about sexual harassment in parliament.",
+      "url": "http://foreignpolicy.com/2025/03/26/nigeria-metoo-sexual-harassment-senate-akpabio-akpoti-uduaghan/",
+      "urlToImage": "https://foreignpolicy.com/wp-content/uploads/2025/03/nigeria-senate-akpabio-GettyImages-1258664363.jpg?w=1000",
+      "publishedAt": "2025-03-26 10:44:45",
+      "content": "Welcome to Foreign Policys Africa Brief. The highlights this week: Tensions escalate in South Sudan, Namibias new president trims her cabinet, and a measles outbreak in Morocco. If you would like t\u2026 [+11896 chars]",
+      "retrievedAt": "2025-03-27 19:06:01.788386",
+      "internal_id": "ea70f6d911c0a3bfea295fa88ffd8e0b73c1bd162ebb88fd2e1b21258a8911e7",
+      "publishedAtLabel": "Mar 26"
+    },
+    {
+      "id": 19710,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Moneycontrol",
+      "author": "Moneycontrol Hindi",
+      "title": "Rabies Infection: \u0915\u093f\u0928 \u091c\u093e\u0928\u0935\u0930\u094b\u0902 \u0915\u0947 \u0915\u093e\u091f\u0928\u0947 \u0938\u0947 \u0939\u094b \u0938\u0915\u0924\u093e \u0939\u0948 \u0930\u0947\u092c\u0940\u091c? \u091c\u093e\u0928\u093f\u090f \u0932\u0915\u094d\u0937\u0923 \u0914\u0930 \u092c\u091a\u093e\u0935",
+      "description": "\u0915\u0941\u0924\u094d\u0924\u0947 \u0915\u093e \u0915\u093e\u091f\u0928\u093e \u0915\u093e\u092b\u0940 \u0916\u0924\u0930\u0928\u093e\u0915 \u0939\u094b\u0924\u093e \u0939\u0948\u0964 \u0917\u0932\u0940-\u092e\u0941\u0939\u0932\u094d\u0932\u0947 \u0914\u0930 \u0938\u0921\u093c\u0915 \u092a\u0930 \u0918\u0942\u092e\u0924\u0947 \u0915\u0941\u0924\u094d\u0924\u0947 \u0905\u0915\u094d\u0938\u0930 \u0906\u0924\u0947-\u091c\u093e\u0924\u0947 \u0932\u094b\u0917\u094b\u0902 \u0915\u094b \u0915\u093e\u091f \u0932\u0947\u0924\u0947 \u0939\u0948\u0902\u0964 \u092a\u0948\u0930 \u092f\u093e \u0936\u0930\u0940\u0930 \u0915\u0947 \u0915\u093f\u0938\u0940 \u092d\u0940 \u0905\u0902\u0917 \u092e\u0947\u0902 \u0915\u093e\u091f \u0938\u0915\u0924\u0947 \u0939\u0948\u0902\u0964 \u0910\u0938\u0947 \u092e\u0947\u0902 \u0905\u0917\u0930 \u0915\u0941\u0924\u094d\u0924\u094b\u0902 \u092e\u0947\u0902 \u091c\u0939\u0930 \u0916\u0924\u094d\u092e \u0915\u0930\u0928\u0947 \u0915\u093e \u091f\u0940\u0915\u093e \u0928 \u0932\u0917\u093e \u0939\u094b \u0924\u094b \u0935\u0939 \u091c\u094d\u092f\u093e\u0926\u093e \u0916\u0924\u0930\u0928\u093e\u0915 \u0939\u094b \u0938\u0915\u0924\u093e \u0939\u0948\u0964 \u0907\u0938\u0938\u0947 \u0905\u0938\u0939\u0928\u0940\u092f \u0926\u0930\u094d\u0926\u2026",
+      "url": "https://hindi.moneycontrol.com/news/health/rabies-infection-after-dog-monkey-horse-fox-bite-know-symptoms-treatment-and-prevention-1965389.html",
+      "urlToImage": "https://images.moneycontrol.com/static-hindinews/2025/03/Rabies1600.jpg",
+      "publishedAt": "2025-03-26 10:04:04",
+      "content": "- - (Dog Bite Injection) , , , 1 3 , 24 5 24 , 7 , 14 28 - , -",
+      "retrievedAt": "2025-03-27 19:06:01.036968",
+      "internal_id": "7f2b8bafad400760324d5301827bb257466d68eeb9061329238e0128f1cb065a",
+      "publishedAtLabel": "Mar 26"
+    },
+    {
+      "id": 19724,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Futura",
+      "author": "Christelle Cherrier, R\u00e9dactrice web",
+      "title": "La grippe aviaire H5N1 en pleine mutation : faut-il craindre une nouvelle pand\u00e9mie ?",
+      "description": "Alors que la grippe aviaire continue de s\u2019\u00e9tendre, les scientifiques appellent \u00e0 la vigilance et \u00e0 une adaptation rapide des vaccins pour pr\u00e9venir une \u00e9ventuelle crise sanitaire mondiale.",
+      "url": "https://www.futura-sciences.com/sante/actualites/grippe-aviaire-grippe-aviaire-h5n1-pleine-mutation-faut-il-craindre-nouvelle-pandemie-120691/",
+      "urlToImage": "https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/b/6/4/b64879b6eb_50228647_h5n1-grippe-aviaire.jpg",
+      "publishedAt": "2025-03-26 10:02:02",
+      "content": "La grippe aviaire, connue sous le nom de H5N1, inqui\u00e8te les scientifiques et les autorit\u00e9s sanitaires. En effet, m\u00eame si ce virus hautement pathog\u00e8ne touche principalement les oiseaux, il a d\u00e9j\u00e0 fran\u2026 [+2432 chars]",
+      "retrievedAt": "2025-03-27 19:06:02.985162",
+      "internal_id": "7b60d7a319441fa8b2cb554bfef7940717fef17c582fe3a294162c40fed1dd95",
+      "publishedAtLabel": "Mar 26"
+    },
+    {
+      "id": 19719,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Zosia Kmietowicz",
+      "title": "Rising cases of TB and measles in England demand ambitious public health approach, says Harries",
+      "description": "Rising cases of tuberculosis (TB) and measles and an intense influenza and respiratory syncytial virus (RSV) season were seen in England in 2024-25, reiterating the fact that \u201cwe cannot be complacent,\u201d the outgoing head of the UK Health Security Agency (UKHSA\u2026",
+      "url": "https://www.bmj.com/content/388/bmj.r602",
+      "urlToImage": "https://www.bmj.com/sites/default/files/highwire/bmj/388/8459.cover-source.jpg",
+      "publishedAt": "2025-03-26 08:41:04",
+      "content": "Rising cases of tuberculosis (TB) and measles and an intense influenza and respiratory syncytial virus (RSV) season were seen in England in 2024-25, reiterating the fact that we cannot be complacent,\u2026 [+775 chars]",
+      "retrievedAt": "2025-03-27 19:06:01.753631",
+      "internal_id": "8982b4ac6520021e83952d23712fd0db0c2d5d0dcea67d25cf55d0824973c6da",
+      "publishedAtLabel": "Mar 26"
+    },
+    {
+      "id": 19713,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Amid Canada's largest measles outbreak in more than a decade, experts say this COVID-era tool could help",
+      "description": "As Canada deals with its largest measles outbreak in more than a decade, health experts say a COVID-era tool could help tame the spread.",
+      "url": "https://www.cbc.ca/news/health/waste-water-surveillance-canada-measles-tracking-tool-1.7492997",
+      "urlToImage": "https://i.cbc.ca/1.6949862.1729112707!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/wastewater-uwo.jpg?im=Resize%3D620",
+      "publishedAt": "2025-03-26 08:01:00",
+      "content": "As Canada deals with its largest measles outbreak in more than a decade, health experts say a COVID-era tool could help tame the spread. Wastewater surveillance, which involves testing sewage sample\u2026 [+5880 chars]",
+      "retrievedAt": "2025-03-27 19:06:01.634653",
+      "internal_id": "c67a9787d9af59985849750a122dc09ed78ecf5670613ee900eecb3e48497ae2",
+      "publishedAtLabel": "Mar 26"
+    },
     {
       "id": 19706,
       "query": [
@@ -29171,168 +29657,6 @@
       "content": "Ett fall av f\u00e5gelinfluensa har redan konstaterats i Finland i \u00e5r. En kaja med f\u00e5gelinfluensa av typen H5N1 hittades i \u00c5bo f\u00f6r n\u00e5gra veckor sedan. Det \u00e4r det f\u00f6rsta fallet i Finland p\u00e5 ungef\u00e4r ett \u00e5r.\u2026 [+4365 chars]",
       "retrievedAt": "2025-02-11 07:06:27.930823",
       "internal_id": "b4f83a2513031d4ef0da8eaaa6ff79642da864f284e9ac63bd9cb2254af91cb6",
-      "publishedAtLabel": "Feb 9"
-    },
-    {
-      "id": 18079,
-      "query": [
-        "measles"
-      ],
-      "source_id": "newsweek",
-      "source_name": "Newsweek",
-      "author": "Jordan King",
-      "title": "Texas Measles Cases Hit County With Low Vaccination Rates",
-      "description": "A rapid rise in and around rural Gaines County on the border with New Mexico has seen 14 confirmed and six probable cases.",
-      "url": "https://www.newsweek.com/measles-outbreak-texas-gaines-county-vaccination-rate-2028453",
-      "urlToImage": "https://d.newsweek.com/en/full/2584403/vaccine-file-photo.jpg",
-      "publishedAt": "2025-02-09 17:15:07",
-      "content": "A rise in cases of measles has hit a rural area in and around Gaines County, in Texas, where the measles vaccination rate is low. The Texas Department of State Health Services reported that there we\u2026 [+2521 chars]",
-      "retrievedAt": "2025-02-10 19:05:46.575319",
-      "internal_id": "89953695e495b9f78e090944e165c98f5f888605207028e7bc998691281df310",
-      "publishedAtLabel": "Feb 9"
-    },
-    {
-      "id": 18090,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Catracalivre.com.br",
-      "author": "Andr\u00e9 Nicolau",
-      "title": "Qual o risco de a gripe avi\u00e1ria virar uma nova pandemia entre humanos?",
-      "description": "A gripe avi\u00e1ria \u00e9 uma das doen\u00e7as que mais tem chamado a aten\u00e7\u00e3o de autoridades em sa\u00fade no mundo. Desde o in\u00edcio de 2024, a infec\u00e7\u00e3o causada pelo v\u00edrus influenza A (H5N1) vem se espalhando principalmente nos Estados Unidos. Por l\u00e1, j\u00e1 atinge aves dom\u00e9sticas,\u2026",
-      "url": "https://catracalivre.com.br/saude-bem-estar/qual-o-risco-de-a-gripe-aviaria-virar-uma-nova-pandemia-entre-humanos/",
-      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1280,h=680,fit=cover,format=jpeg/wp-content/uploads/2025/02/depositphotos-241487282-s.jpg",
-      "publishedAt": "2025-02-09 17:00:06",
-      "content": "Desde 2003, foram notificadas \u00e0 OMS mais de 950 infec\u00e7\u00f5es humanas causadas pelo v\u00edrus H5N1 no mundo ChinaImages/Depositphotos - Shen chunchen - Imaginechina A gripe avi\u00e1ria \u00e9 uma das doen\u00e7as que mai\u2026 [+4150 chars]",
-      "retrievedAt": "2025-02-11 07:06:27.896365",
-      "internal_id": "7569fe4c8bdf364e9be829007ee1a1c3a6b9376fef0175beb15d858c22ea5119",
-      "publishedAtLabel": "Feb 9"
-    },
-    {
-      "id": 18080,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Newsbreak.com",
-      "author": "Niamh Kirk",
-      "title": "Measles outbreak spreads as health officials urge anyone who hasn't been vaccinated to get jabbed - NewsBreak",
-      "description": "Health officials have urged anyone in the area who hasn't been vaccinated, both adults and children to get a dose immediately due to the alarming rise in m",
-      "url": "https://www.newsbreak.com/share/3798078238417-measles-outbreak-spreads-as-health-officials-urge-anyone-who-hasn-t-been-vaccinated-to-get-jabbed?s=a2&share_destination_id=NTMxMzc4NDEtMTczOTExODU1MjI2Ng%3D%3D&pd=03axZxIg&hl=en_US&send_time=1739118552&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.6.1%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_model_exp_25q1-v8%2Cns_foryou_blend_exp_25q1-v8%2Cns_foryou_rank_exp_25q1-v6%2Cns_foryou_recall_exp_25q1-v7%2Cns_push_exp_rt_bucketv12-v8",
-      "urlToImage": "https://img.particlenews.com/img/id/1Ndizs_0yl1VL9M00",
-      "publishedAt": "2025-02-09 16:29:39",
-      "content": "Health officials are concerned over a measles outbreak in a rural area of West Texas with 14 confirmed cases. Investigations are ongoing after the state health department shared a health alert tha\u2026 [+2405 chars]",
-      "retrievedAt": "2025-02-10 19:05:46.627294",
-      "internal_id": "42627147313af21d999e8ad512249f13db2d8aae8e13fa3c48f6b275415aae12",
-      "publishedAtLabel": "Feb 9"
-    },
-    {
-      "id": 18082,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Newsbreak.com",
-      "author": "Niamh Kirk",
-      "title": "Measles outbreak spreads as health officials urge anyone who hasn't been vaccinated to get jabbed - NewsBreak",
-      "description": "Health officials have urged anyone in the area who hasn't been vaccinated, both adults and children to get a dose immediately due to the alarming rise in m",
-      "url": "https://www.newsbreak.com/share/3798078238417-measles-outbreak-spreads-as-health-officials-urge-anyone-who-hasn-t-been-vaccinated-to-get-jabbed?_f=app_share&pd=04jUeKTH&lang=en_US&send_time=1739109677&trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.6.0.7%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_model_exp_25q1-v9%2Cns_push_exp_rt_bucketv12-v1%2Cns_foryou_rank_exp_25q1-v2%2Cns_foryou_blend_exp_25q1-control%2Cns_foryou_recall_exp_25q1-v5&s=i2",
-      "urlToImage": "https://img.particlenews.com/img/id/1Ndizs_0yl1VL9M00",
-      "publishedAt": "2025-02-09 14:01:44",
-      "content": "Health officials are concerned over a measles outbreak in a rural area of West Texas with 14 confirmed cases. Investigations are ongoing after the state health department shared a health alert tha\u2026 [+2405 chars]",
-      "retrievedAt": "2025-02-10 19:05:46.644322",
-      "internal_id": "fce248a4a86926cc1385bfc086de4e11ec54644cfc8438d01e09fe7109d8f939",
-      "publishedAtLabel": "Feb 9"
-    },
-    {
-      "id": 18084,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Ilgiornale.it",
-      "author": "redazione@ilgiornale-web.it (Alessandro Ferro)",
-      "title": "Onde elettromagnetiche per \"abbattere\" l'aviaria: ecco come funzionano",
-      "description": "Una ricerca italiana ha scoperto il metodo pi\u00f9 efficace per \"spegenere\" in maniera quasi definitiva la capacit\u00e0 di contagio del virus dell'aviaria ma anche di altri agenti patogeni: ecco la tecnica e le implicazioni future",
-      "url": "https://www.ilgiornale.it/news/rimedi-naturali/aviaria-abbattuta-dalle-onde-elettromagnetiche-studio-2435169.html",
-      "urlToImage": "https://img.ilgcdn.com/sites/default/files/styles/social/public/foto/2020/02/02/1580650141-pollame-giornale.jpg?_=1580650141",
-      "publishedAt": "2025-02-09 10:34:52",
-      "content": "\u00c8 soprattutto negli Stati Uniti che il virus H5N1 dell'aviaria fa pi\u00f9 paura con il contagio di centinaia di capi d'allevamento e i primi casi anche sull'uomo. Grazie a un team di ricerca italiano del\u2026 [+2625 chars]",
-      "retrievedAt": "2025-02-10 19:05:47.479837",
-      "internal_id": "bd2a99a60a8504f00540530bb3e348cc6ef967f08e7714630d39b8dfb0e308ed",
-      "publishedAtLabel": "Feb 9"
-    },
-    {
-      "id": 18086,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Standard Digital",
-      "author": "Dennis Kinyua",
-      "title": "How to strengthen malaria prevention through community",
-      "description": "The efforts of CHPs have acquired trust from the community, and more people are embracing malaria prevention practices.",
-      "url": "https://www.standardmedia.co.ke/health/health-opinion/article/2001511362/how-to-strengthen-malaria-prevention-through-community",
-      "urlToImage": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/K14sMagZygOBRv4YGzf3cZWX0jBz8yhbKVn2xS1a.jpg",
-      "publishedAt": "2025-02-09 10:01:31",
-      "content": "CHPs dialogue meeting in Bukika Community Health Unit, Busia County. [Courtesy] On a sunny afternoon under a tree, a group of Community Health Promoters and local community members have gathered. Th\u2026 [+3280 chars]",
-      "retrievedAt": "2025-02-10 19:05:49.133105",
-      "internal_id": "5574b882878f94ae90029240cf93875cff0098d42d49a5adf7050ced404aa17c",
-      "publishedAtLabel": "Feb 9"
-    },
-    {
-      "id": 18085,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "ynet",
-      "source_name": "Ynet",
-      "author": "\u05e6\u05d5\u05e8 \u05d2\u05d5\u05d0\u05d8\u05d4",
-      "title": "\u05d0\u05d9\u05e8\u05d5\u05e2 \u05d7\u05e8\u05d9\u05d2 \u05d1\u05d0\u05e8\u05d4\"\u05d1: \u05e4\u05e8\u05d5\u05ea \u05e0\u05d3\u05d1\u05e7\u05d5 \u05d1\u05d6\u05df \u05d7\u05d3\u05e9 \u05e9\u05dc \u05e9\u05e4\u05e2\u05ea \u05d4\u05e2\u05d5\u05e4\u05d5\u05ea",
-      "description": "\u05e0\u05d2\u05d9\u05e3 \u05e9\u05e4\u05e2\u05ea \u05d4\u05e2\u05d5\u05e4\u05d5\u05ea \u05de\u05de\u05e9\u05d9\u05da \u05dc\u05d4\u05ea\u05e4\u05e9\u05d8 \u05d1\u05d0\u05e8\u05d4\"\u05d1, \u05db\u05d0\u05e9\u05e8 \u05d6\u05df \u05d7\u05d3\u05e9, D1.1, \u05d6\u05d5\u05d4\u05d4 \u05d1\u05e2\u05d3\u05e8\u05d9 \u05d1\u05e7\u05e8 \u05dc\u05d9\u05d9\u05e6\u05d5\u05e8 \u05d7\u05dc\u05d1. \u05d4\u05d6\u05df \u05d4\u05d7\u05d3\u05e9 \u05de\u05e2\u05d5\u05e8\u05e8 \u05d3\u05d0\u05d2\u05d4 \u05d1\u05e7\u05e8\u05d1 \u05de\u05d5\u05de\u05d7\u05d9\u05dd \u05d1\u05e9\u05dc \u05e4\u05d5\u05d8\u05e0\u05e6\u05d9\u05d0\u05dc \u05d4\u05d4\u05ea\u05e4\u05e9\u05d8\u05d5\u05ea \u05e9\u05dc\u05d5 \u05d5\u05d4\u05d7\u05e9\u05e9 \u05de\u05e4\u05e0\u05d9 \u05de\u05d5\u05d8\u05e6\u05d9\u05d5\u05ea \u05e0\u05d5\u05e1\u05e4\u05d5\u05ea. \u05de\u05e9\u05e8\u05d3 \u05d4\u05d7\u05e7\u05dc\u05d0\u05d5\u05ea \u05d4\u05d0\u05de\u05e8\u05d9\u05e7\u05e0\u05d9 \u05e0\u05d5\u05e7\u05d8 \u05d1\u05e6\u05e2\u05d3\u05d9\u05dd \u05dc\u05d1\u05dc\u05d9\u05de\u05ea \u05d4\u05d4\u05ea\u05e4\u05e8\u05e6\u05d5\u05ea. \u05d3\"\u05e8 \u05e2\u05e0\u05ea \u05e9\u05d8\u05e8\u05df \u05de\u05d4\u05de\u05db\u05d5\u05df \u05dc\u05de\u05d7\u05dc\u05d5\u05ea \u05d6\u05d9\u05d4\u05d5\u05de\u05d9\u05d5\u05ea \u05d1\u05e8\u05de\u2026",
-      "url": "https://www.ynet.co.il/health/article/rkq00oahtkx",
-      "urlToImage": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/02/09/r1UDre8tJx/r1UDre8tJx_0_37_1000_563_0_large.jpg",
-      "publishedAt": "2025-02-09 09:53:26",
-      "content": ", H5N1 65. , , , 67 , \". 100 . , D1.1, ( ). , 957 2024 , B3.13. \" 2024 , \", \" , \". \" , . , , \". , , . , , . \" , \", . \" , , \". \" , \" , . , . , , . , '' , \". \" , , . \" , \". , , D1.1 , , , , \" , \u2026 [+5 chars]",
-      "retrievedAt": "2025-02-10 19:05:47.526190",
-      "internal_id": "f262e5ebc452ca85983486249de514a7ab6f72220ed5bd02dec35afe19b93a81",
-      "publishedAtLabel": "Feb 9"
-    },
-    {
-      "id": 18083,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Tvn24.pl",
-      "author": "kw",
-      "title": "Zamykaj\u0105 targi, wybijaj\u0105 zaka\u017cone zwierz\u0119ta. Ptasia grypa rozprzestrzenia si\u0119 w Nowym Jorku",
-      "description": "Ptasia grypa niepokoi w\u0142adze Nowego Jorku. Po prewencyjnych kontrolach na targach \u017cywego drobiu stwierdzono kilka przypadk\u00f3w zaka\u017cenia wirusem H5N1 u ptactwa. Zwierz\u0119ta wybito, by choroba nie rozprzestrzeni\u0142a si\u0119 jeszcze bardziej.",
-      "url": "https://tvn24.pl/tvnmeteo/swiat/zamykaja-targi-wybijaja-zakazone-zwierzeta-ptasia-grypa-rozprzestrzenia-sie-w-nowym-jorku-st8298168",
-      "urlToImage": "https://tvn24.pl/najnowsze/cdn-zdjecie-2899184-ptasia-grypa-rozprzestrzenia-sie-w-nowym-jorku-ph8298173/alternates/LANDSCAPE_1280",
-      "publishedAt": "2025-02-09 09:52:06",
-      "content": "Ptasia grypa niepokoi wadze Nowego Jorku. Po prewencyjnych kontrolach na targach ywego drobiu stwierdzono kilka przypadk\u00f3w zakaenia wirusem H5N1 u ptactwa. Zwierzta wybito, by choroba nie rozprzestrz\u2026 [+1732 chars]",
-      "retrievedAt": "2025-02-10 19:05:47.465152",
-      "internal_id": "c76dcf24acc5ff4a12a581e04e460c48f2f6ac1bb11a219401df49bd2b73e00b",
-      "publishedAtLabel": "Feb 9"
-    },
-    {
-      "id": 18081,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Newsbreak.com",
-      "author": "Niamh Kirk",
-      "title": "Measles outbreak spreads as health officials urge anyone who hasn't been vaccinated to get jabbed - NewsBreak",
-      "description": "Health officials have urged anyone in the area who hasn't been vaccinated, both adults and children to get a dose immediately due to the alarming rise in m",
-      "url": "https://www.newsbreak.com/share/3798078238417-measles-outbreak-spreads-as-health-officials-urge-anyone-who-hasn-t-been-vaccinated-to-get-jabbed?s=a2&share_destination_id=MjE0OTg1NzExLTE3MzkxNDQyMzc1NTc%3D&pd=0EY3bTgT&hl=en_US&send_time=1739144237&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.4.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_recall_exp_25q1-v6%2Cns_foryou_model_exp_25q1-v6%2Cns_foryou_blend_exp_25q1-v3%2Cns_foryou_rank_exp_25q1-v5",
-      "urlToImage": "https://img.particlenews.com/img/id/1Ndizs_0yl1VL9M00",
-      "publishedAt": "2025-02-09 09:51:50",
-      "content": "Health officials are concerned over a measles outbreak in a rural area of West Texas with 14 confirmed cases. Investigations are ongoing after the state health department shared a health alert tha\u2026 [+2405 chars]",
-      "retrievedAt": "2025-02-10 19:05:46.635549",
-      "internal_id": "43990b2ff2a60d8e469755b7f9eccd51bdc6897f44dd4d5e14d6417bef471fc7",
       "publishedAtLabel": "Feb 9"
     }
   ]
