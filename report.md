@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 32
-- **Last harvest:** 2025-03-26 19:06
-- **Most recent article:** 2025-03-25 18:39:23
+- **New articles in last harvest:** 14
+- **Last harvest:** 2025-03-27 07:07
+- **Most recent article:** 2025-03-26 06:53:37
 
 ---
 
@@ -12,12 +12,12 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-10 | 25-11 | 25-12 | 25-13 | 25-7 | 25-8 | 25-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 142 | 133 | 108 | 34 | 68 | 83 | 162 | 730 |
-| h5n1 | 23 | 39 | 57 | 34 | 51 | 54 | 42 | 300 |
+| measles | 142 | 133 | 108 | 41 | 72 | 83 | 162 | 741 |
+| h5n1 | 23 | 39 | 57 | 37 | 55 | 54 | 42 | 307 |
 | dengue | 8 | 12 | 18 | 7 | 37 | 57 | 30 | 169 |
-| malaria | 29 | 22 | 18 | 9 | 11 | 7 | 20 | 116 |
+| malaria | 29 | 22 | 18 | 12 | 12 | 7 | 20 | 120 |
 | mpox | 14 | 15 | 8 | 5 | 18 | 15 | 26 | 101 |
-| meningitis | 4 | 9 | 7 | 2 | 12 | 11 | 7 | 52 |
+| meningitis | 4 | 9 | 7 | 3 | 12 | 11 | 7 | 53 |
 | chikungunya | 6 | 1 | 17 | 4 | 5 | 3 | 7 | 43 |
 | hpai | 10 | 3 | 12 | 0 | 9 | 5 | 4 | 43 |
 | rabies | 3 | 8 | 3 | 2 | 5 | 4 | 2 | 27 |
@@ -1447,6 +1447,14 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles outbreak spreads as health officials urge anyone who hasn't been vaccinated to get jabbed - NewsBreak](https://www.newsbreak.com/share/3798078238417-measles-outbreak-spreads-as-health-officials-urge-anyone-who-hasn-t-been-vaccinated-to-get-jabbed?s=a2&share_destination_id=MjUxNzE4NzUzLTE3MzkxNDI4NDQyMDU%3D&pd=0H2BXtcW&hl=en_US&send_time=1739142844&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.4.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_push_exp_rt_bucketv12-v7%2Cns_foryou_blend_exp_25q1-v8%2Cns_foryou_recall_exp_25q1-v8%2Cns_foryou_model_exp_25q1-v1%2Cns_foryou_rank_exp_25q1-v4) (Newsbreak.com)
 
+- [Texas Measles Cases Hit County With Low Vaccination Rates](https://www.newsweek.com/measles-outbreak-texas-gaines-county-vaccination-rate-2028453) (Newsweek)
+
+- [Measles outbreak spreads as health officials urge anyone who hasn't been vaccinated to get jabbed - NewsBreak](https://www.newsbreak.com/share/3798078238417-measles-outbreak-spreads-as-health-officials-urge-anyone-who-hasn-t-been-vaccinated-to-get-jabbed?s=a2&share_destination_id=NTMxMzc4NDEtMTczOTExODU1MjI2Ng%3D%3D&pd=03axZxIg&hl=en_US&send_time=1739118552&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.6.1%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_model_exp_25q1-v8%2Cns_foryou_blend_exp_25q1-v8%2Cns_foryou_rank_exp_25q1-v6%2Cns_foryou_recall_exp_25q1-v7%2Cns_push_exp_rt_bucketv12-v8) (Newsbreak.com)
+
+- [Measles outbreak spreads as health officials urge anyone who hasn't been vaccinated to get jabbed - NewsBreak](https://www.newsbreak.com/share/3798078238417-measles-outbreak-spreads-as-health-officials-urge-anyone-who-hasn-t-been-vaccinated-to-get-jabbed?_f=app_share&pd=04jUeKTH&lang=en_US&send_time=1739109677&trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.6.0.7%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_model_exp_25q1-v9%2Cns_push_exp_rt_bucketv12-v1%2Cns_foryou_rank_exp_25q1-v2%2Cns_foryou_blend_exp_25q1-control%2Cns_foryou_recall_exp_25q1-v5&s=i2) (Newsbreak.com)
+
+- [Measles outbreak spreads as health officials urge anyone who hasn't been vaccinated to get jabbed - NewsBreak](https://www.newsbreak.com/share/3798078238417-measles-outbreak-spreads-as-health-officials-urge-anyone-who-hasn-t-been-vaccinated-to-get-jabbed?s=a2&share_destination_id=MjE0OTg1NzExLTE3MzkxNDQyMzc1NTc%3D&pd=0EY3bTgT&hl=en_US&send_time=1739144237&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.4.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_recall_exp_25q1-v6%2Cns_foryou_model_exp_25q1-v6%2Cns_foryou_blend_exp_25q1-v3%2Cns_foryou_rank_exp_25q1-v5) (Newsbreak.com)
+
 ## 25-7 (malaria)
 
 - [Nigeria approves $200M to offset shortfall from US aid cuts](https://www.dw.com/en/nigeria-approves-200m-to-offset-shortfall-from-us-aid-cuts/a-71607477) (DW (English))
@@ -1470,6 +1478,8 @@ Source: [News API](https://newsapi.org/)
 - [Ocho mujeres que cambiaron la farmacología](https://www.elperiodico.com/es/ciencia/20250212/ocho-mujeres-cambiaron-farmacologia-114232542) (Elperiodico.com)
 
 - [AI and public health issues in contemporary Nigeria - MediaLord.Ng](https://medialord.ng/ai-and-public-health-issues-in-contemporary-nigeria/) (Medialord.ng)
+
+- [How to strengthen malaria prevention through community](https://www.standardmedia.co.ke/health/health-opinion/article/2001511362/how-to-strengthen-malaria-prevention-through-community) (Standard Digital)
 
 ## 25-7 (hpai)
 
@@ -1595,6 +1605,14 @@ Source: [News API](https://newsapi.org/)
 
 - [Rikligt med fågelinfluensafall i Europa – men svårt att säga hur situationen blir i Finland](https://yle.fi/a/7-10072315) (YLE News)
 
+- [Qual o risco de a gripe aviária virar uma nova pandemia entre humanos?](https://catracalivre.com.br/saude-bem-estar/qual-o-risco-de-a-gripe-aviaria-virar-uma-nova-pandemia-entre-humanos/) (Catracalivre.com.br)
+
+- [Onde elettromagnetiche per "abbattere" l'aviaria: ecco come funzionano](https://www.ilgiornale.it/news/rimedi-naturali/aviaria-abbattuta-dalle-onde-elettromagnetiche-studio-2435169.html) (Ilgiornale.it)
+
+- [אירוע חריג בארה"ב: פרות נדבקו בזן חדש של שפעת העופות](https://www.ynet.co.il/health/article/rkq00oahtkx) (Ynet)
+
+- [Zamykają targi, wybijają zakażone zwierzęta. Ptasia grypa rozprzestrzenia się w Nowym Jorku](https://tvn24.pl/tvnmeteo/swiat/zamykaja-targi-wybijaja-zakazone-zwierzeta-ptasia-grypa-rozprzestrzenia-sie-w-nowym-jorku-st8298168) (Tvn24.pl)
+
 ## 25-7 (dengue)
 
 - [Ministério da Saúde amplia vacinação contra dengue para não perder doses do insumo](https://olhardigital.com.br/2025/02/15/medicina-e-saude/ministerio-da-saude-amplia-vacinacao-contra-dengue-para-nao-perder-doses-do-insumo/) (Olhardigital.com.br)
@@ -1713,11 +1731,27 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-13 (meningitis)
 
+- [Funding and Preparedness: Why Ghana Needs a Public Health Emergency Fund](https://thechronicle.com.gh/funding-and-preparedness-why-ghana-needs-a-public-health-emergency-fund/) (Thechronicle.com.gh)
+
 - [Hajj 2025: Health minister inspects NAHCON facilities, assures of improved medical care for pilgrims](https://www.premiumtimesng.com/news/more-news/783503-hajj-2025-health-minister-inspects-nahcon-facilities-assures-of-improved-medical-care-for-pilgrims.html) (Premium Times)
 
 - [Kebbi urges calm as meningitis kills six university students](https://punchng.com/kebbi-urges-calm-as-meningitis-kills-six-university-students/) (The Punch)
 
 ## 25-13 (measles)
+
+- [San Mateo County Measles Case Highlights Risk for Unvaccinated, Expert Says](https://www.kqed.org/news/12033049/san-mateo-county-measles-case-highlights-risk-for-unvaccinated-expert-says) (KQED)
+
+- [First confirmed case of measles in Washington, D.C. investigated by health officials](https://www.foxnews.com/health/first-confirmed-case-measles-washington-d-c-investigated-health-officials) (Fox News)
+
+- [Remedy Supported by Kennedy Leaves Some Measles Patients More Ill (Teddy Rosenbluth/New York Times)](https://www.memeorandum.com/250325/p117) (Memeorandum.com)
+
+- [Babies under 1 typically don’t get the measles vaccine. Can they get a dose early?](https://www.nbcnews.com/health/kids-health/measles-vaccine-can-young-children-get-early-dose-mmr-shot-rcna198038) (NBC News)
+
+- [Remedy Supported by RFK Jr. Leaves Patients More Ill](https://politicalwire.com/2025/03/25/remedy-supported-by-rfk-jr-leaves-patients-more-ill/) (Politicalwire.com)
+
+- [Health officials confirm measles case in person who rode Amtrak to D.C.](https://www.cbsnews.com/news/measles-case-confirmed-dc-amtrak-passenger-train-union-station-health-officials/) (CBS News)
+
+- [No measles in Montana yet: RiverStone Health prepares, says vaccination is best defense](https://billingsgazette.com/news/local/business/health-care/article_e5a7b5ef-63e5-41e1-b554-bec5b8dfc8f1.html) (Billings Gazette)
 
 - [Texas Measles Cases Grow To Nearly 330, With 40 People Hospitalized](https://www.huffpost.com/entry/texas-measles-outbreak-cases-grow_n_67e2e3a7e4b075349cd16d8f) (HuffPost)
 
@@ -1789,6 +1823,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-13 (malaria)
 
+- [Malawi: Life in your years](https://www.bbc.co.uk/programmes/p0l0b30m) (BBC News)
+
+- [To fight malaria, scientists want to poison mosquitos—with human blood](https://www.nationalgeographic.com/science/article/mosquito-human-blood-poison-drug-malaria) (National Geographic)
+
+- [Awareness, perceptions and willingness to accept malaria vaccine for children under age 5 among mothers in Northcentral Nigeria: a cross-sectional study](https://bmjopen.bmj.com/content/15/3/e091739) (The BMJ)
+
 - [La maladie inconnue qui a fait au moins 58 morts en RDC a été identifiée](https://fr.sputniknews.africa/20250325/la-maladie-inconnue-qui-a-fait-au-moins-58-morts-en-rdc-a-ete-identifiee--1071263677.html) (Sputniknews.africa)
 
 - [Performance of quantitative point-of-care tests to measure G6PD activity: An individual participant data meta-analysis](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012864) (Plos.org)
@@ -1808,6 +1848,12 @@ Source: [News API](https://newsapi.org/)
 - [Selección Mexicana: ¿Cuántos títulos ha ganado Javier Aguirre con el Tricolor?](https://www.record.com.mx/futbol-futbol-nacional-seleccion-mexicana/seleccion-mexicana-cuantos-titulos-ha-ganado-javier) (Record.com.mx)
 
 ## 25-13 (h5n1)
+
+- [首度發現綿羊感染「禽流感」，科學家：病毒持續進化、適應感染新宿主](https://www.thenewslens.com/article/250727) (Thenewslens.com)
+
+- [Establishing Methods to Monitor Influenza (A)H5N1 Virus in Dairy Cattle Milk, Massachusetts, USA](https://wwwnc.cdc.gov/eid/article/31/13/25-0087_article) (Cdc.gov)
+
+- [World First on Bird Flu: A Sheep Tests Positive](https://www.newser.com/story/366183/world-first-on-bird-flu-a-sheep-tests-positive.html) (Newser)
 
 - [Bird Flu Outbreak: World’s First Case of Avian Influenza Found In Sheep](https://www.shtfplan.com/headline-news/bird-flu-outbreak-worlds-first-case-of-avian-influenza-found-in-sheep) (Shtfplan.com)
 
