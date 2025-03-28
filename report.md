@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 27
-- **Last harvest:** 2025-03-27 19:06
-- **Most recent article:** 2025-03-26 19:04:23
+- **New articles in last harvest:** 13
+- **Last harvest:** 2025-03-28 07:07
+- **Most recent article:** 2025-03-27 06:07:56
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-10 | 25-11 | 25-12 | 25-13 | 25-7 | 25-8 | 25-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 142 | 133 | 108 | 53 | 68 | 83 | 162 | 749 |
-| h5n1 | 23 | 39 | 57 | 40 | 51 | 54 | 42 | 306 |
-| dengue | 8 | 12 | 18 | 9 | 37 | 57 | 30 | 171 |
-| malaria | 29 | 22 | 18 | 16 | 11 | 7 | 20 | 123 |
+| measles | 142 | 133 | 108 | 58 | 72 | 83 | 162 | 758 |
+| h5n1 | 23 | 39 | 57 | 40 | 55 | 54 | 42 | 310 |
+| dengue | 8 | 12 | 18 | 10 | 37 | 57 | 30 | 172 |
+| malaria | 29 | 22 | 18 | 19 | 12 | 7 | 20 | 127 |
 | mpox | 14 | 15 | 8 | 5 | 18 | 15 | 26 | 101 |
 | meningitis | 4 | 9 | 7 | 3 | 12 | 11 | 7 | 53 |
 | chikungunya | 6 | 1 | 17 | 8 | 5 | 3 | 7 | 47 |
-| hpai | 10 | 3 | 12 | 0 | 9 | 5 | 4 | 43 |
-| rabies | 3 | 8 | 3 | 4 | 5 | 4 | 2 | 29 |
+| hpai | 10 | 3 | 12 | 1 | 9 | 5 | 4 | 44 |
+| rabies | 3 | 8 | 3 | 6 | 5 | 4 | 2 | 31 |
 | typhoid | 3 | 8 | 0 | 1 | 3 | 0 | 4 | 19 |
 | zika | 3 | 0 | 2 | 2 | 2 | 6 | 2 | 17 |
-| yersinia | 1 | 2 | 2 | 0 | 5 | 0 | 2 | 12 |
+| yersinia | 1 | 2 | 2 | 1 | 5 | 0 | 2 | 13 |
 | pertussis | 0 | 5 | 1 | 0 | 3 | 2 | 0 | 11 |
 | leptospirosis | 3 | 0 | 1 | 0 | 0 | 2 | 0 | 6 |
 | shigellosis | 3 | 0 | 0 | 0 | 0 | 0 | 1 | 4 |
@@ -1447,6 +1447,14 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles outbreak spreads as health officials urge anyone who hasn't been vaccinated to get jabbed - NewsBreak](https://www.newsbreak.com/share/3798078238417-measles-outbreak-spreads-as-health-officials-urge-anyone-who-hasn-t-been-vaccinated-to-get-jabbed?s=a2&share_destination_id=MjUxNzE4NzUzLTE3MzkxNDI4NDQyMDU%3D&pd=0H2BXtcW&hl=en_US&send_time=1739142844&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.4.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_push_exp_rt_bucketv12-v7%2Cns_foryou_blend_exp_25q1-v8%2Cns_foryou_recall_exp_25q1-v8%2Cns_foryou_model_exp_25q1-v1%2Cns_foryou_rank_exp_25q1-v4) (Newsbreak.com)
 
+- [Texas Measles Cases Hit County With Low Vaccination Rates](https://www.newsweek.com/measles-outbreak-texas-gaines-county-vaccination-rate-2028453) (Newsweek)
+
+- [Measles outbreak spreads as health officials urge anyone who hasn't been vaccinated to get jabbed - NewsBreak](https://www.newsbreak.com/share/3798078238417-measles-outbreak-spreads-as-health-officials-urge-anyone-who-hasn-t-been-vaccinated-to-get-jabbed?s=a2&share_destination_id=NTMxMzc4NDEtMTczOTExODU1MjI2Ng%3D%3D&pd=03axZxIg&hl=en_US&send_time=1739118552&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.6.1%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_model_exp_25q1-v8%2Cns_foryou_blend_exp_25q1-v8%2Cns_foryou_rank_exp_25q1-v6%2Cns_foryou_recall_exp_25q1-v7%2Cns_push_exp_rt_bucketv12-v8) (Newsbreak.com)
+
+- [Measles outbreak spreads as health officials urge anyone who hasn't been vaccinated to get jabbed - NewsBreak](https://www.newsbreak.com/share/3798078238417-measles-outbreak-spreads-as-health-officials-urge-anyone-who-hasn-t-been-vaccinated-to-get-jabbed?_f=app_share&pd=04jUeKTH&lang=en_US&send_time=1739109677&trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.6.0.7%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_model_exp_25q1-v9%2Cns_push_exp_rt_bucketv12-v1%2Cns_foryou_rank_exp_25q1-v2%2Cns_foryou_blend_exp_25q1-control%2Cns_foryou_recall_exp_25q1-v5&s=i2) (Newsbreak.com)
+
+- [Measles outbreak spreads as health officials urge anyone who hasn't been vaccinated to get jabbed - NewsBreak](https://www.newsbreak.com/share/3798078238417-measles-outbreak-spreads-as-health-officials-urge-anyone-who-hasn-t-been-vaccinated-to-get-jabbed?s=a2&share_destination_id=MjE0OTg1NzExLTE3MzkxNDQyMzc1NTc%3D&pd=0EY3bTgT&hl=en_US&send_time=1739144237&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.4.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_recall_exp_25q1-v6%2Cns_foryou_model_exp_25q1-v6%2Cns_foryou_blend_exp_25q1-v3%2Cns_foryou_rank_exp_25q1-v5) (Newsbreak.com)
+
 ## 25-7 (malaria)
 
 - [Nigeria approves $200M to offset shortfall from US aid cuts](https://www.dw.com/en/nigeria-approves-200m-to-offset-shortfall-from-us-aid-cuts/a-71607477) (DW (English))
@@ -1470,6 +1478,8 @@ Source: [News API](https://newsapi.org/)
 - [Ocho mujeres que cambiaron la farmacología](https://www.elperiodico.com/es/ciencia/20250212/ocho-mujeres-cambiaron-farmacologia-114232542) (Elperiodico.com)
 
 - [AI and public health issues in contemporary Nigeria - MediaLord.Ng](https://medialord.ng/ai-and-public-health-issues-in-contemporary-nigeria/) (Medialord.ng)
+
+- [How to strengthen malaria prevention through community](https://www.standardmedia.co.ke/health/health-opinion/article/2001511362/how-to-strengthen-malaria-prevention-through-community) (Standard Digital)
 
 ## 25-7 (hpai)
 
@@ -1595,6 +1605,14 @@ Source: [News API](https://newsapi.org/)
 
 - [Rikligt med fågelinfluensafall i Europa – men svårt att säga hur situationen blir i Finland](https://yle.fi/a/7-10072315) (YLE News)
 
+- [Qual o risco de a gripe aviária virar uma nova pandemia entre humanos?](https://catracalivre.com.br/saude-bem-estar/qual-o-risco-de-a-gripe-aviaria-virar-uma-nova-pandemia-entre-humanos/) (Catracalivre.com.br)
+
+- [Onde elettromagnetiche per "abbattere" l'aviaria: ecco come funzionano](https://www.ilgiornale.it/news/rimedi-naturali/aviaria-abbattuta-dalle-onde-elettromagnetiche-studio-2435169.html) (Ilgiornale.it)
+
+- [אירוע חריג בארה"ב: פרות נדבקו בזן חדש של שפעת העופות](https://www.ynet.co.il/health/article/rkq00oahtkx) (Ynet)
+
+- [Zamykają targi, wybijają zakażone zwierzęta. Ptasia grypa rozprzestrzenia się w Nowym Jorku](https://tvn24.pl/tvnmeteo/swiat/zamykaja-targi-wybijaja-zakazone-zwierzeta-ptasia-grypa-rozprzestrzenia-sie-w-nowym-jorku-st8298168) (Tvn24.pl)
+
 ## 25-7 (dengue)
 
 - [Ministério da Saúde amplia vacinação contra dengue para não perder doses do insumo](https://olhardigital.com.br/2025/02/15/medicina-e-saude/ministerio-da-saude-amplia-vacinacao-contra-dengue-para-nao-perder-doses-do-insumo/) (Olhardigital.com.br)
@@ -1689,11 +1707,19 @@ Source: [News API](https://newsapi.org/)
 
 - [Estudo: Zika Vírus pode ser aliado no combate a tumores cerebrais](https://saude.ig.com.br/2025-03-24/zika-virus-vira-aliado-no-combate-a-tumores-cerebrais.html) (Ig.com.br)
 
+## 25-13 (yersinia)
+
+- [Human case of bubonic plague in UK identified as ‘false alarm'](https://economictimes.indiatimes.com/news/international/us/human-case-of-bubonic-plague-in-uk-identified-as-false-alarm/articleshow/119555385.cms) (The Times of India)
+
 ## 25-13 (typhoid)
 
 - [FNU joins hands with Ministry of Health to support Typhoid Vaccination Campaign in the North](https://www.fijivillage.com/news/FNU-joins-hands-with-Ministry-of-Health-to-support-Typhoid-Vaccination-Campaign-in-the-North-f54xr8/) (Fijivillage)
 
 ## 25-13 (rabies)
+
+- [Michigan patient dies after contracting rabies through a transplanted organ](https://www.nbcnews.com/health/health-news/rabies-organ-transplant-death-michigan-rcna198265) (NBC News)
+
+- [Michigan resident dies of rabies after receiving organ transplant in Ohio](https://www.wxyz.com/news/michigan-resident-dies-of-rabies-after-receiving-organ-transplant-in-ohio) (WXYZ)
 
 - [Michigan resident dies from rabies after contracting virus from organ transplant, health officials say](https://www.cbsnews.com/detroit/news/michigan-resident-dies-rabies-organ-transplant-toledo-ohio/) (CBS News)
 
@@ -1724,6 +1750,16 @@ Source: [News API](https://newsapi.org/)
 - [Kebbi urges calm as meningitis kills six university students](https://punchng.com/kebbi-urges-calm-as-meningitis-kills-six-university-students/) (The Punch)
 
 ## 25-13 (measles)
+
+- [Fears of WA's worst measles outbreak in five years, exposure site list grows](https://www.abc.net.au/news/2025-03-27/measles-in-australia-fears-of-worst-wa-outbreak-in-five-years/105103230) (ABC News (AU))
+
+- [Lubbock health official: Funding cuts will hurt efforts to contain measles outbreak](https://www.rawstory.com/measles-texas-2671555637/) (Raw Story)
+
+- [Measles-infected traveler exposed DC public while contagious, officials warn](https://timesofindia.indiatimes.com/etimes/trending/measles-infected-traveler-exposed-dc-public-while-contagious-officials-warn/articleshow/119555339.cms) (The Times of India)
+
+- [Which states have the most measles cases? Where it's spreading as US outbreak grows](https://www.today.com/health/disease/measles-outbreak-states-map-rcna198227) (TODAY)
+
+- [Kids Are Getting Sick From RFK Jr.’s False Measles Remedy, Doctors Say](https://truthout.org/articles/kids-are-getting-sick-from-rfk-jr-s-false-measles-remedy-doctors-say/) (Truthout)
 
 - [Parents Followed RFK Jr’s Crackpot Advice and Had to Send Their Kids to the Hospital With Yellowed Skin](https://futurism.com/neoscope/measles-patients-vitamin-overuse-rfk-jr) (Futurism)
 
@@ -1833,6 +1869,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-13 (malaria)
 
+- [Un nuevo compuesto prometedor contra la malaria: convierte tu sangre en veneno para los mosquitos](https://www.eldiario.es/sociedad/nuevo-compuesto-prometedor-malaria-convierte-sangre-veneno-mosquitos_1_12166742.html) (Eldiario.es)
+
+- [This Medication Could Make Human Blood Deadly to Mosquitos, Combatting Malaria](https://www.discovermagazine.com/health/this-medication-could-make-human-blood-deadly-to-mosquitos-combatting) (Discover Magazine)
+
+- [Trump plans to eliminate U.S. funding for malaria and worldwide child vaccination: report](https://www.rawstory.com/trump-usaid-2671511944/) (Raw Story)
+
 - [Trump administration to end funding for child vaccines in poorest nations](https://www.abc.net.au/news/2025-03-27/funding-for-child-vaccines-in-poor-nations-trump-administration/105101058) (ABC News (AU))
 
 - [Drug For Rare Disease Turns Human Blood Into Mosquito Poison](https://www.sciencealert.com/drug-for-rare-disease-turns-human-blood-into-mosquito-poison) (ScienceAlert)
@@ -1864,6 +1906,10 @@ Source: [News API](https://newsapi.org/)
 - [Edson Álvarez destacó la importancia de finalmente ganar la Nations League](https://www.record.com.mx/futbol-futbol-nacional-seleccion-mexicana/edson-alvarez-destaco-la-importancia-de-finalmente-ganar) (Record.com.mx)
 
 - [Selección Mexicana: ¿Cuántos títulos ha ganado Javier Aguirre con el Tricolor?](https://www.record.com.mx/futbol-futbol-nacional-seleccion-mexicana/seleccion-mexicana-cuantos-titulos-ha-ganado-javier) (Record.com.mx)
+
+## 25-13 (hpai)
+
+- [HPAI Bird Flu Continues Its Spread To Mammals](https://www.shtfplan.com/headline-news/hpai-bird-flu-continues-its-spread-to-mammals) (Shtfplan.com)
 
 ## 25-13 (h5n1)
 
@@ -1948,6 +1994,8 @@ Source: [News API](https://newsapi.org/)
 - [Ein Jahr H5N1 in US-Milchkühen: "Wir kennen das Ausmaß des Vogelgrippe-Ausbruchs nicht"](https://www.n-tv.de/wissen/Wir-kennen-das-Ausmass-des-Vogelgrippe-Ausbruchs-nicht-article25636621.html) (N-tv.de)
 
 ## 25-13 (dengue)
+
+- [Dengue fever and prostate cancer risk, plus Alzheimer's prevention](https://www.foxnews.com/health/dengue-fever-prostate-cancer-risk-alzheimers-prevention) (Fox News)
 
 - [Map Shows Surging Dengue Fever Cases as Spring Break Warning Issued](https://www.newsweek.com/spring-break-map-dengue-fever-2050913) (Newsweek)
 

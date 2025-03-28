@@ -1,8 +1,242 @@
 {
-  "last_updated": "2025-03-27 19:06",
-  "count_articles_total": 1645,
-  "count_articles_new": 27,
+  "last_updated": "2025-03-28 07:07",
+  "count_articles_total": 1667,
+  "count_articles_new": 13,
   "articles": [
+    {
+      "id": 19742,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news-au",
+      "source_name": "ABC News (AU)",
+      "author": "Grace Burmas, Lauren Smith, David Weber, and Bridget McArthur",
+      "title": "Fears of WA's worst measles outbreak in five years, exposure site list grows",
+      "description": "Western Australia could be on track for its worst outbreak of measles in the past five years, as infections in Hakea Prison cause chaos in the courts and the list of exposure sites grows.",
+      "url": "https://www.abc.net.au/news/2025-03-27/measles-in-australia-fears-of-worst-wa-outbreak-in-five-years/105103230",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/a413e91c1e7172c20b49c0cfc119f820?impolicy=wcms_watermark_news&cropH=241&cropW=428&xPos=0&yPos=42&width=862&height=485&imformat=generic",
+      "publishedAt": "2025-03-27 06:07:56",
+      "content": "Western Australia could be on track for its worst outbreak of measles in the past five years, as infections in Hakea Prison causes chaos in the courts and the list of exposure sites grows. The state\u2026 [+5122 chars]",
+      "retrievedAt": "2025-03-28 07:07:20.688187",
+      "internal_id": "03ad7ed1aeabf52494475bf71abc46917d0e3960d2546df7a76c17c1f836f92a",
+      "publishedAtLabel": "Mar 27"
+    },
+    {
+      "id": 19739,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Raw Story",
+      "author": "Terri Langford, Texas Tribune",
+      "title": "Lubbock health official: Funding cuts will hurt efforts to contain measles outbreak",
+      "description": "By Terri Langford, The Texas Tribune March 26, 2025 \"Lubbock health official says federal funding cuts will hurt efforts to contain measles outbreak\" was first published by The Texas Tribune, a nonprofit, nonpartisan media organization that informs Texans \u2014\u2026",
+      "url": "https://www.rawstory.com/measles-texas-2671555637/",
+      "urlToImage": "https://www.rawstory.com/media-library/file-photo-a-sign-reading-measles-testing-is-seen-as-an-outbreak-in-gaines-county-texas-has-raised-concerns-over-its-spread.jpg?id=59391689&width=1200&height=600&coordinates=0%2C714%2C0%2C714",
+      "publishedAt": "2025-03-27 02:32:12",
+      "content": "By Terri Langford, The Texas Tribune March 26, 2025 \"Lubbock health official says federal funding cuts will hurt efforts to contain measles outbreak\" was first published by The Texas Tribune, a non\u2026 [+3279 chars]",
+      "retrievedAt": "2025-03-28 07:07:20.526375",
+      "internal_id": "e3c7353c3c31c1ed9aee960a11b0bb7d4dae94226803b9d106e74168dae4ff44",
+      "publishedAtLabel": "Mar 27"
+    },
+    {
+      "id": 19737,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "nbc-news",
+      "source_name": "NBC News",
+      "author": "Randi Richardson",
+      "title": "Michigan patient dies after contracting rabies through a transplanted organ",
+      "description": "A Michigan resident who received a transplant in December died after getting infected with rabies from the new organ, the state's health department said.",
+      "url": "https://www.nbcnews.com/health/health-news/rabies-organ-transplant-death-michigan-rcna198265",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-03/250326-rabies-virus-electron-micrograph-ac-729p-e4c1d2.jpg",
+      "publishedAt": "2025-03-27 01:36:13",
+      "content": "A Michigan resident who received a transplant in December died after having been infected with rabies from the new organ, the state health department said Wednesday. A public health investigation de\u2026 [+2608 chars]",
+      "retrievedAt": "2025-03-28 07:07:19.994490",
+      "internal_id": "d82b90d055d7b71a44115b74ea0c0e1620d3e7848ea6b8957e1853f9663847fd",
+      "publishedAtLabel": "Mar 27"
+    },
+    {
+      "id": 19738,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "WXYZ",
+      "author": "Natalia Escalante",
+      "title": "Michigan resident dies of rabies after receiving organ transplant in Ohio",
+      "description": "A Michigan resident has died of rabies that health officials say was contracted through a recent organ transplant.",
+      "url": "https://www.wxyz.com/news/michigan-resident-dies-of-rabies-after-receiving-organ-transplant-in-ohio",
+      "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/0f0347c/2147483647/strip/true/crop/3584x1882+0+179/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F15%2Fac%2F528a8e024492873e20afe2031277%2Fscreen-shot-2021-05-10-at-11.14.51%20AM.png",
+      "publishedAt": "2025-03-26 21:44:18",
+      "content": "LANSING, Mich. (WXYZ) A Michigan resident has died of rabies, which health officials say was contracted through a recent organ transplant. The person died in January 2025 after receiving the transpl\u2026 [+949 chars]",
+      "retrievedAt": "2025-03-28 07:07:20.046421",
+      "internal_id": "e3a94ba1a75708a26c8332be59dd65008152e6d4cf94db091c4e71996d479529",
+      "publishedAtLabel": "Mar 26"
+    },
+    {
+      "id": 19748,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Eldiario.es",
+      "author": "Antonio Mart\u00ednez Ron",
+      "title": "Un nuevo compuesto prometedor contra la malaria: convierte tu sangre en veneno para los mosquitos",
+      "description": "Un grupo de investigadores descubre que la nitisinona, que ya se emplea como f\u00e1rmaco contra enfermedades raras, es m\u00e1s eficaz contra los mosquitos que la ivermectina y podr\u00eda ser una alternativa en la lucha contra la malaria Hemeroteca - \u00bfHa escuchado hablar\u2026",
+      "url": "https://www.eldiario.es/sociedad/nuevo-compuesto-prometedor-malaria-convierte-sangre-veneno-mosquitos_1_12166742.html",
+      "urlToImage": "https://static.eldiario.es/clip/f27cd61b-441d-45ef-a4ee-efd60a34a085_facebook-watermarked-aspect-ratio_default_0.jpg",
+      "publishedAt": "2025-03-26 21:35:38",
+      "content": "Cuando los mosquitosAnopheles gambiae que transmiten la malaria pican a los pacientes de algunas enfermedades raras, como la alcaptonuria y la tirosinemia tipo 1, los insectos se mueren a las pocas h\u2026 [+777 chars]",
+      "retrievedAt": "2025-03-28 07:07:22.314993",
+      "internal_id": "71e25b54468d54968b121a285a1f02bd98c88956827643d66a04772180218607",
+      "publishedAtLabel": "Mar 26"
+    },
+    {
+      "id": 19747,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Discover Magazine",
+      "author": "Sam Walters",
+      "title": "This Medication Could Make Human Blood Deadly to Mosquitos, Combatting Malaria",
+      "description": "Discover nitisinone, a drug for rare diseases that could also combat mosquitoes and their transmission of malaria.",
+      "url": "https://www.discovermagazine.com/health/this-medication-could-make-human-blood-deadly-to-mosquitos-combatting",
+      "urlToImage": "https://images.ctfassets.net/cnu0m8re1exe/2qBpGMWiHxzEzIoLwfF1Sc/6996d1e4d4259a76e3e509fc0fe8d1e3/Anopheles-gambiae-mosquito-malaria.jpg",
+      "publishedAt": "2025-03-26 21:30:00",
+      "content": "Mosquitoes are more than pests. Theyre also a mortal threat, contributing to millions of cases of malaria a year. Fortunately for humans, however, a team of researchers has recently identified a medi\u2026 [+4590 chars]",
+      "retrievedAt": "2025-03-28 07:07:22.306274",
+      "internal_id": "6b425b768e3ea9080e4fc689a9f6a8010824763412cd4eb5a4d739cf34ecda7f",
+      "publishedAtLabel": "Mar 26"
+    },
+    {
+      "id": 19745,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": "Fox News Staff",
+      "title": "Dengue fever and prostate cancer risk, plus Alzheimer's prevention",
+      "description": "The Fox News Health Newsletter brings you trending and important stories about healthcare, drug developments, mental health issues, real people's triumphs over medical struggles, and more.",
+      "url": "https://www.foxnews.com/health/dengue-fever-prostate-cancer-risk-alzheimers-prevention",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/03/2dd54816-newsletter.jpg",
+      "publishedAt": "2025-03-26 20:33:33",
+      "content": "Fox News' Health newsletter brings you stories on the latest developments in healthcare, wellness, diseases, mental health and more. TOP 3: - Dengue fever cases rising in these locations - Prostat\u2026 [+958 chars]",
+      "retrievedAt": "2025-03-28 07:07:21.619779",
+      "internal_id": "c21c733387f716c5c8ea4fbba2bdb502d7001fae91011d2e648c4cae948584ac",
+      "publishedAtLabel": "Mar 26"
+    },
+    {
+      "id": 19744,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Shtfplan.com",
+      "author": "Mac Slavo",
+      "title": "HPAI Bird Flu Continues Its Spread To Mammals",
+      "description": "Highly pathogenic avian influenza, commonly called bird flu, has increasingly spread to mammals and infected hundreds of people, raising concerns that it may lead to human-to-human transmission and turn into a new pandemic.",
+      "url": "https://www.shtfplan.com/headline-news/hpai-bird-flu-continues-its-spread-to-mammals",
+      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2024/05/birdflu.jpg",
+      "publishedAt": "2025-03-26 20:00:48",
+      "content": "Highly pathogenic avian influenza, commonly called bird flu, has increasingly spread to mammals and infected hundreds of people, raising concerns that it may lead to human-to-human transmission and t\u2026 [+1712 chars]",
+      "retrievedAt": "2025-03-28 07:07:20.812801",
+      "internal_id": "5bf7d4f46f0cd49c90a5bdaf01c8c02b5f92e5b9d91982a58cc4ce63f4923f58",
+      "publishedAtLabel": "Mar 26"
+    },
+    {
+      "id": 19741,
+      "query": [
+        "measles"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TOI Trending Desk",
+      "title": "Measles-infected traveler exposed DC public while contagious, officials warn",
+      "description": "A measles case has been confirmed by DC Health in a passenger who traveled to Washington DC via an Amtrak train. The individual, while contagious, visited multiple locations, including Union Station and MedStar Urgent Care. Health officials are notifying pote\u2026",
+      "url": "https://timesofindia.indiatimes.com/etimes/trending/measles-infected-traveler-exposed-dc-public-while-contagious-officials-warn/articleshow/119555339.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-119555339,width-1070,height-580,imgsize-87152,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2025-03-26 19:48:44",
+      "content": "Tracking the elusive snow leopard in Bhutan",
+      "retrievedAt": "2025-03-28 07:07:20.649815",
+      "internal_id": "48f2acc45d6076b1931de6cbc1b428e632f802c615537352b1d9164b9e18cfe5",
+      "publishedAtLabel": "Mar 26"
+    },
+    {
+      "id": 19743,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "TODAY",
+      "author": "Shiv Sudhakar, MD",
+      "title": "Which states have the most measles cases? Where it's spreading as US outbreak grows",
+      "description": "Measles cases in the US are growing due to an outbreak in unvaccinated individuals in Texas. See the states with the most measles cases and a U.S. outbreak map.",
+      "url": "https://www.today.com/health/disease/measles-outbreak-states-map-rcna198227",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2025-03/child-with-measles-mc-250326-438881.jpg",
+      "publishedAt": "2025-03-26 19:35:35",
+      "content": "The measles count in the U.S. has surged to over 430 cases across 18 states and Washington, D.C., since January, mostly in unvaccinated people or those with unknown vaccination status, according to l\u2026 [+6414 chars]",
+      "retrievedAt": "2025-03-28 07:07:20.696581",
+      "internal_id": "3b386ed172b90026491d34c67802802bd91ca9b2c023e9ecb442d05beb8a3d77",
+      "publishedAtLabel": "Mar 26"
+    },
+    {
+      "id": 19749,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "The Feed",
+      "title": "Human case of bubonic plague in UK identified as \u2018false alarm'",
+      "description": "Plague is an infection caused by the Yersinia pestis bacteria. The zoonotic microorganism is typically found in small mammals and their fleas. The disease isn't something of the past as it has not been entirely wiped out from the world.",
+      "url": "https://economictimes.indiatimes.com/news/international/us/human-case-of-bubonic-plague-in-uk-identified-as-false-alarm/articleshow/119555385.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-119555449,width-1200,height-630,imgsize-8570,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-03-26 19:30:34",
+      "content": "(Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News\u2026 [+8 chars]",
+      "retrievedAt": "2025-03-28 07:07:23.381100",
+      "internal_id": "0db4a4f8b22e5cd9419c5cc791693b4776c389b0f09aef79378e6a1f460c6f09",
+      "publishedAtLabel": "Mar 26"
+    },
+    {
+      "id": 19740,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Truthout",
+      "author": "Truthout",
+      "title": "Kids Are Getting Sick From RFK Jr.\u2019s False Measles Remedy, Doctors Say",
+      "description": "Nearly 380 cases of measles have been identified in the US this year, the highest number since 2019.",
+      "url": "https://truthout.org/articles/kids-are-getting-sick-from-rfk-jr-s-false-measles-remedy-doctors-say/",
+      "urlToImage": "https://truthout.org/app/uploads/2025/03/2025_0326-rfk-scaled.jpg",
+      "publishedAt": "2025-03-26 19:28:29",
+      "content": "Unproven remedies for treating measles peddled by Department of Health and Human Services (HHS) Secretary Robert F. Kennedy Jr. are complicating doctors\u2019 efforts to deal with an outbreak in West Texa\u2026 [+5321 chars]",
+      "retrievedAt": "2025-03-28 07:07:20.542118",
+      "internal_id": "b0f82b07dd5c909b4a99fa0b53a6be8e78241586d520f66264025b44b195bebb",
+      "publishedAtLabel": "Mar 26"
+    },
+    {
+      "id": 19746,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Raw Story",
+      "author": "Matthew Chapman",
+      "title": "Trump plans to eliminate U.S. funding for malaria and worldwide child vaccination: report",
+      "description": "President Donald Trump's administration has notified Congress in a new letter they intend to eliminate several foreign aid programs critical for public health, including efforts to combat malaria and a grant to a program responsible for vaccinating millions o\u2026",
+      "url": "https://www.rawstory.com/trump-usaid-2671511944/",
+      "urlToImage": "https://www.rawstory.com/media-library/u-s-president-donald-trump-gives-a-thumbs-up-as-he-returns-to-the-white-house-from-national-harbor-following-his-address-to-the.jpg?id=58273911&width=1200&height=600&coordinates=0%2C360%2C0%2C360",
+      "publishedAt": "2025-03-26 19:14:42",
+      "content": "President Donald Trump's administration has notified Congress in a new letter they intend to eliminate several foreign aid programs critical for public health, including efforts to combat malaria and\u2026 [+2605 chars]",
+      "retrievedAt": "2025-03-28 07:07:22.202703",
+      "internal_id": "edb986f78f459a189803fb6fdf1ea73a70d27b00eab5e4447e2318498f9e1c63",
+      "publishedAtLabel": "Mar 26"
+    },
     {
       "id": 19723,
       "query": [
@@ -29657,6 +29891,168 @@
       "content": "Ett fall av f\u00e5gelinfluensa har redan konstaterats i Finland i \u00e5r. En kaja med f\u00e5gelinfluensa av typen H5N1 hittades i \u00c5bo f\u00f6r n\u00e5gra veckor sedan. Det \u00e4r det f\u00f6rsta fallet i Finland p\u00e5 ungef\u00e4r ett \u00e5r.\u2026 [+4365 chars]",
       "retrievedAt": "2025-02-11 07:06:27.930823",
       "internal_id": "b4f83a2513031d4ef0da8eaaa6ff79642da864f284e9ac63bd9cb2254af91cb6",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 18079,
+      "query": [
+        "measles"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Jordan King",
+      "title": "Texas Measles Cases Hit County With Low Vaccination Rates",
+      "description": "A rapid rise in and around rural Gaines County on the border with New Mexico has seen 14 confirmed and six probable cases.",
+      "url": "https://www.newsweek.com/measles-outbreak-texas-gaines-county-vaccination-rate-2028453",
+      "urlToImage": "https://d.newsweek.com/en/full/2584403/vaccine-file-photo.jpg",
+      "publishedAt": "2025-02-09 17:15:07",
+      "content": "A rise in cases of measles has hit a rural area in and around Gaines County, in Texas, where the measles vaccination rate is low. The Texas Department of State Health Services reported that there we\u2026 [+2521 chars]",
+      "retrievedAt": "2025-02-10 19:05:46.575319",
+      "internal_id": "89953695e495b9f78e090944e165c98f5f888605207028e7bc998691281df310",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 18090,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Catracalivre.com.br",
+      "author": "Andr\u00e9 Nicolau",
+      "title": "Qual o risco de a gripe avi\u00e1ria virar uma nova pandemia entre humanos?",
+      "description": "A gripe avi\u00e1ria \u00e9 uma das doen\u00e7as que mais tem chamado a aten\u00e7\u00e3o de autoridades em sa\u00fade no mundo. Desde o in\u00edcio de 2024, a infec\u00e7\u00e3o causada pelo v\u00edrus influenza A (H5N1) vem se espalhando principalmente nos Estados Unidos. Por l\u00e1, j\u00e1 atinge aves dom\u00e9sticas,\u2026",
+      "url": "https://catracalivre.com.br/saude-bem-estar/qual-o-risco-de-a-gripe-aviaria-virar-uma-nova-pandemia-entre-humanos/",
+      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1280,h=680,fit=cover,format=jpeg/wp-content/uploads/2025/02/depositphotos-241487282-s.jpg",
+      "publishedAt": "2025-02-09 17:00:06",
+      "content": "Desde 2003, foram notificadas \u00e0 OMS mais de 950 infec\u00e7\u00f5es humanas causadas pelo v\u00edrus H5N1 no mundo ChinaImages/Depositphotos - Shen chunchen - Imaginechina A gripe avi\u00e1ria \u00e9 uma das doen\u00e7as que mai\u2026 [+4150 chars]",
+      "retrievedAt": "2025-02-11 07:06:27.896365",
+      "internal_id": "7569fe4c8bdf364e9be829007ee1a1c3a6b9376fef0175beb15d858c22ea5119",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 18080,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Newsbreak.com",
+      "author": "Niamh Kirk",
+      "title": "Measles outbreak spreads as health officials urge anyone who hasn't been vaccinated to get jabbed - NewsBreak",
+      "description": "Health officials have urged anyone in the area who hasn't been vaccinated, both adults and children to get a dose immediately due to the alarming rise in m",
+      "url": "https://www.newsbreak.com/share/3798078238417-measles-outbreak-spreads-as-health-officials-urge-anyone-who-hasn-t-been-vaccinated-to-get-jabbed?s=a2&share_destination_id=NTMxMzc4NDEtMTczOTExODU1MjI2Ng%3D%3D&pd=03axZxIg&hl=en_US&send_time=1739118552&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.6.1%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_model_exp_25q1-v8%2Cns_foryou_blend_exp_25q1-v8%2Cns_foryou_rank_exp_25q1-v6%2Cns_foryou_recall_exp_25q1-v7%2Cns_push_exp_rt_bucketv12-v8",
+      "urlToImage": "https://img.particlenews.com/img/id/1Ndizs_0yl1VL9M00",
+      "publishedAt": "2025-02-09 16:29:39",
+      "content": "Health officials are concerned over a measles outbreak in a rural area of West Texas with 14 confirmed cases. Investigations are ongoing after the state health department shared a health alert tha\u2026 [+2405 chars]",
+      "retrievedAt": "2025-02-10 19:05:46.627294",
+      "internal_id": "42627147313af21d999e8ad512249f13db2d8aae8e13fa3c48f6b275415aae12",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 18082,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Newsbreak.com",
+      "author": "Niamh Kirk",
+      "title": "Measles outbreak spreads as health officials urge anyone who hasn't been vaccinated to get jabbed - NewsBreak",
+      "description": "Health officials have urged anyone in the area who hasn't been vaccinated, both adults and children to get a dose immediately due to the alarming rise in m",
+      "url": "https://www.newsbreak.com/share/3798078238417-measles-outbreak-spreads-as-health-officials-urge-anyone-who-hasn-t-been-vaccinated-to-get-jabbed?_f=app_share&pd=04jUeKTH&lang=en_US&send_time=1739109677&trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.6.0.7%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_model_exp_25q1-v9%2Cns_push_exp_rt_bucketv12-v1%2Cns_foryou_rank_exp_25q1-v2%2Cns_foryou_blend_exp_25q1-control%2Cns_foryou_recall_exp_25q1-v5&s=i2",
+      "urlToImage": "https://img.particlenews.com/img/id/1Ndizs_0yl1VL9M00",
+      "publishedAt": "2025-02-09 14:01:44",
+      "content": "Health officials are concerned over a measles outbreak in a rural area of West Texas with 14 confirmed cases. Investigations are ongoing after the state health department shared a health alert tha\u2026 [+2405 chars]",
+      "retrievedAt": "2025-02-10 19:05:46.644322",
+      "internal_id": "fce248a4a86926cc1385bfc086de4e11ec54644cfc8438d01e09fe7109d8f939",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 18084,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Ilgiornale.it",
+      "author": "redazione@ilgiornale-web.it (Alessandro Ferro)",
+      "title": "Onde elettromagnetiche per \"abbattere\" l'aviaria: ecco come funzionano",
+      "description": "Una ricerca italiana ha scoperto il metodo pi\u00f9 efficace per \"spegenere\" in maniera quasi definitiva la capacit\u00e0 di contagio del virus dell'aviaria ma anche di altri agenti patogeni: ecco la tecnica e le implicazioni future",
+      "url": "https://www.ilgiornale.it/news/rimedi-naturali/aviaria-abbattuta-dalle-onde-elettromagnetiche-studio-2435169.html",
+      "urlToImage": "https://img.ilgcdn.com/sites/default/files/styles/social/public/foto/2020/02/02/1580650141-pollame-giornale.jpg?_=1580650141",
+      "publishedAt": "2025-02-09 10:34:52",
+      "content": "\u00c8 soprattutto negli Stati Uniti che il virus H5N1 dell'aviaria fa pi\u00f9 paura con il contagio di centinaia di capi d'allevamento e i primi casi anche sull'uomo. Grazie a un team di ricerca italiano del\u2026 [+2625 chars]",
+      "retrievedAt": "2025-02-10 19:05:47.479837",
+      "internal_id": "bd2a99a60a8504f00540530bb3e348cc6ef967f08e7714630d39b8dfb0e308ed",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 18086,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Standard Digital",
+      "author": "Dennis Kinyua",
+      "title": "How to strengthen malaria prevention through community",
+      "description": "The efforts of CHPs have acquired trust from the community, and more people are embracing malaria prevention practices.",
+      "url": "https://www.standardmedia.co.ke/health/health-opinion/article/2001511362/how-to-strengthen-malaria-prevention-through-community",
+      "urlToImage": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/K14sMagZygOBRv4YGzf3cZWX0jBz8yhbKVn2xS1a.jpg",
+      "publishedAt": "2025-02-09 10:01:31",
+      "content": "CHPs dialogue meeting in Bukika Community Health Unit, Busia County. [Courtesy] On a sunny afternoon under a tree, a group of Community Health Promoters and local community members have gathered. Th\u2026 [+3280 chars]",
+      "retrievedAt": "2025-02-10 19:05:49.133105",
+      "internal_id": "5574b882878f94ae90029240cf93875cff0098d42d49a5adf7050ced404aa17c",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 18085,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "ynet",
+      "source_name": "Ynet",
+      "author": "\u05e6\u05d5\u05e8 \u05d2\u05d5\u05d0\u05d8\u05d4",
+      "title": "\u05d0\u05d9\u05e8\u05d5\u05e2 \u05d7\u05e8\u05d9\u05d2 \u05d1\u05d0\u05e8\u05d4\"\u05d1: \u05e4\u05e8\u05d5\u05ea \u05e0\u05d3\u05d1\u05e7\u05d5 \u05d1\u05d6\u05df \u05d7\u05d3\u05e9 \u05e9\u05dc \u05e9\u05e4\u05e2\u05ea \u05d4\u05e2\u05d5\u05e4\u05d5\u05ea",
+      "description": "\u05e0\u05d2\u05d9\u05e3 \u05e9\u05e4\u05e2\u05ea \u05d4\u05e2\u05d5\u05e4\u05d5\u05ea \u05de\u05de\u05e9\u05d9\u05da \u05dc\u05d4\u05ea\u05e4\u05e9\u05d8 \u05d1\u05d0\u05e8\u05d4\"\u05d1, \u05db\u05d0\u05e9\u05e8 \u05d6\u05df \u05d7\u05d3\u05e9, D1.1, \u05d6\u05d5\u05d4\u05d4 \u05d1\u05e2\u05d3\u05e8\u05d9 \u05d1\u05e7\u05e8 \u05dc\u05d9\u05d9\u05e6\u05d5\u05e8 \u05d7\u05dc\u05d1. \u05d4\u05d6\u05df \u05d4\u05d7\u05d3\u05e9 \u05de\u05e2\u05d5\u05e8\u05e8 \u05d3\u05d0\u05d2\u05d4 \u05d1\u05e7\u05e8\u05d1 \u05de\u05d5\u05de\u05d7\u05d9\u05dd \u05d1\u05e9\u05dc \u05e4\u05d5\u05d8\u05e0\u05e6\u05d9\u05d0\u05dc \u05d4\u05d4\u05ea\u05e4\u05e9\u05d8\u05d5\u05ea \u05e9\u05dc\u05d5 \u05d5\u05d4\u05d7\u05e9\u05e9 \u05de\u05e4\u05e0\u05d9 \u05de\u05d5\u05d8\u05e6\u05d9\u05d5\u05ea \u05e0\u05d5\u05e1\u05e4\u05d5\u05ea. \u05de\u05e9\u05e8\u05d3 \u05d4\u05d7\u05e7\u05dc\u05d0\u05d5\u05ea \u05d4\u05d0\u05de\u05e8\u05d9\u05e7\u05e0\u05d9 \u05e0\u05d5\u05e7\u05d8 \u05d1\u05e6\u05e2\u05d3\u05d9\u05dd \u05dc\u05d1\u05dc\u05d9\u05de\u05ea \u05d4\u05d4\u05ea\u05e4\u05e8\u05e6\u05d5\u05ea. \u05d3\"\u05e8 \u05e2\u05e0\u05ea \u05e9\u05d8\u05e8\u05df \u05de\u05d4\u05de\u05db\u05d5\u05df \u05dc\u05de\u05d7\u05dc\u05d5\u05ea \u05d6\u05d9\u05d4\u05d5\u05de\u05d9\u05d5\u05ea \u05d1\u05e8\u05de\u2026",
+      "url": "https://www.ynet.co.il/health/article/rkq00oahtkx",
+      "urlToImage": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/02/09/r1UDre8tJx/r1UDre8tJx_0_37_1000_563_0_large.jpg",
+      "publishedAt": "2025-02-09 09:53:26",
+      "content": ", H5N1 65. , , , 67 , \". 100 . , D1.1, ( ). , 957 2024 , B3.13. \" 2024 , \", \" , \". \" , . , , \". , , . , , . \" , \", . \" , , \". \" , \" , . , . , , . , '' , \". \" , , . \" , \". , , D1.1 , , , , \" , \u2026 [+5 chars]",
+      "retrievedAt": "2025-02-10 19:05:47.526190",
+      "internal_id": "f262e5ebc452ca85983486249de514a7ab6f72220ed5bd02dec35afe19b93a81",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 18083,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Tvn24.pl",
+      "author": "kw",
+      "title": "Zamykaj\u0105 targi, wybijaj\u0105 zaka\u017cone zwierz\u0119ta. Ptasia grypa rozprzestrzenia si\u0119 w Nowym Jorku",
+      "description": "Ptasia grypa niepokoi w\u0142adze Nowego Jorku. Po prewencyjnych kontrolach na targach \u017cywego drobiu stwierdzono kilka przypadk\u00f3w zaka\u017cenia wirusem H5N1 u ptactwa. Zwierz\u0119ta wybito, by choroba nie rozprzestrzeni\u0142a si\u0119 jeszcze bardziej.",
+      "url": "https://tvn24.pl/tvnmeteo/swiat/zamykaja-targi-wybijaja-zakazone-zwierzeta-ptasia-grypa-rozprzestrzenia-sie-w-nowym-jorku-st8298168",
+      "urlToImage": "https://tvn24.pl/najnowsze/cdn-zdjecie-2899184-ptasia-grypa-rozprzestrzenia-sie-w-nowym-jorku-ph8298173/alternates/LANDSCAPE_1280",
+      "publishedAt": "2025-02-09 09:52:06",
+      "content": "Ptasia grypa niepokoi wadze Nowego Jorku. Po prewencyjnych kontrolach na targach ywego drobiu stwierdzono kilka przypadk\u00f3w zakaenia wirusem H5N1 u ptactwa. Zwierzta wybito, by choroba nie rozprzestrz\u2026 [+1732 chars]",
+      "retrievedAt": "2025-02-10 19:05:47.465152",
+      "internal_id": "c76dcf24acc5ff4a12a581e04e460c48f2f6ac1bb11a219401df49bd2b73e00b",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 18081,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Newsbreak.com",
+      "author": "Niamh Kirk",
+      "title": "Measles outbreak spreads as health officials urge anyone who hasn't been vaccinated to get jabbed - NewsBreak",
+      "description": "Health officials have urged anyone in the area who hasn't been vaccinated, both adults and children to get a dose immediately due to the alarming rise in m",
+      "url": "https://www.newsbreak.com/share/3798078238417-measles-outbreak-spreads-as-health-officials-urge-anyone-who-hasn-t-been-vaccinated-to-get-jabbed?s=a2&share_destination_id=MjE0OTg1NzExLTE3MzkxNDQyMzc1NTc%3D&pd=0EY3bTgT&hl=en_US&send_time=1739144237&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.4.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_recall_exp_25q1-v6%2Cns_foryou_model_exp_25q1-v6%2Cns_foryou_blend_exp_25q1-v3%2Cns_foryou_rank_exp_25q1-v5",
+      "urlToImage": "https://img.particlenews.com/img/id/1Ndizs_0yl1VL9M00",
+      "publishedAt": "2025-02-09 09:51:50",
+      "content": "Health officials are concerned over a measles outbreak in a rural area of West Texas with 14 confirmed cases. Investigations are ongoing after the state health department shared a health alert tha\u2026 [+2405 chars]",
+      "retrievedAt": "2025-02-10 19:05:46.635549",
+      "internal_id": "43990b2ff2a60d8e469755b7f9eccd51bdc6897f44dd4d5e14d6417bef471fc7",
       "publishedAtLabel": "Feb 9"
     }
   ]
