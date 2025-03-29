@@ -1,8 +1,476 @@
 {
-  "last_updated": "2025-03-29 07:06",
-  "count_articles_total": 1718,
-  "count_articles_new": 19,
+  "last_updated": "2025-03-29 19:05",
+  "count_articles_total": 1735,
+  "count_articles_new": 26,
   "articles": [
+    {
+      "id": 19803,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Antonio Peque\u00f1o IV, Forbes Staff, \n Antonio Peque\u00f1o IV, Forbes Staff\n https://www.forbes.com/sites/antoniopequenoiv/",
+      "title": "Measles Outbreak: National Cases Near 500 As Illness Continues Spreading In Texas",
+      "description": "Texas remains the state with the highest number of cases, by far.",
+      "url": "https://www.forbes.com/sites/antoniopequenoiv/2025/03/28/measles-outbreak-cases-near-330-in-texas-as-illness-reported-in-washington-dc/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67b8dc34f003eb75b733dff5/0x0.jpg?format=jpg&crop=3039,2027,x0,y0,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-03-28 18:42:20",
+      "content": "Measles cases in the U.S. neared 500 Friday, according to the CDC, as the highly contagious illness continues spreading in Texas after being reported in at least 18 other states. Most of the cases i\u2026 [+6551 chars]",
+      "retrievedAt": "2025-03-29 19:05:50.990755",
+      "internal_id": "166cb5348d3bcd427843ce5a72a1c62abada466cf62328bd2dfdcadc49da8cb1",
+      "publishedAtLabel": "Mar 28"
+    },
+    {
+      "id": 19816,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Huffingtonpost.es",
+      "author": "Redacci\u00f3n HuffPost / EUROPA PRESS",
+      "title": "Descubren un medicamento que convierte la sangre humana en veneno mortal para los mosquitos de la epidemia que mata a 600.000 personas al a\u00f1o",
+      "description": "Un estudio de la Universidad de Notre Dame (Estados Unidos) publicado en Science Translational Medicine ha identificado un medicamento con el potencial de suprimir las poblaciones de mosquitos y ayudar a controlar la malaria. Los investigadores de\u2026",
+      "url": "https://www.huffingtonpost.es/life/salud/descubren-medicamento-convierte-sangre-humana-veneno-mortal-mosquitos-epidemia-mata-600000-personasno.html",
+      "urlToImage": "https://img.huffingtonpost.es/files/og_thumbnail/uploads/2025/03/28/aedes-mosquitoe.jpeg",
+      "publishedAt": "2025-03-28 18:34:35",
+      "content": "Un estudio de la Universidad de Notre Dame (Estados Unidos) publicado en Science Translational Medicine ha identificado un medicamento con el potencial de suprimir las poblaciones de mosquitos y ayud\u2026 [+4699 chars]",
+      "retrievedAt": "2025-03-29 19:05:53.580361",
+      "internal_id": "3223030e2cd0ed19ad0f127da39ef7a0417fbfe4d04b61ec049a73eb3b8d2592",
+      "publishedAtLabel": "Mar 28"
+    },
+    {
+      "id": 19814,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Ilfattoquotidiano.it",
+      "author": "F. Q.",
+      "title": "Un farmaco rende letale il sangue umano per le zanzare, lo studio: \u201cPossibile soluzione alla malaria\u201d",
+      "description": "Con l\u2019arrivo della primavera e il progressivo aumento delle temperature, le giornate si allungano e si avvicina la stagione delle passeggiate nei parchi, dei bagni al mare e delle escursioni nella natura. Tuttavia, con l\u2019estate tornano anche le zanzare, pront\u2026",
+      "url": "https://www.ilfattoquotidiano.it/2025/03/28/un-farmaco-rende-letale-il-sangue-umano-per-le-zanzare-lo-studio-possibile-soluzione-alla-malaria/7931784/",
+      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2025/03/28/pexels-jimbear-2382223-1200x630.jpg",
+      "publishedAt": "2025-03-28 17:29:22",
+      "content": "Roma, 28 mar. (Adnkronos) - \"Le decisioni in sede Ue non sono pi\u00f9 rinviabili\", ha detto ieri il presidente della Repubblica, Sergio Mattarella, a proposito della difesa europea. Per le opposizioni co\u2026 [+3653 chars]",
+      "retrievedAt": "2025-03-29 19:05:53.535071",
+      "internal_id": "8212c78240643a489768a695b54665e36a1bc722a4837cb2aa8deb8d3cdda2b7",
+      "publishedAtLabel": "Mar 28"
+    },
+    {
+      "id": 19802,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "CNET",
+      "author": "Hedy Phillips",
+      "title": "New Measles Outbreaks Confirmed in The US. Do You Need an MMR Booster to Keep Yourself Safe?",
+      "description": "Measles continues to spread in Texas, New Mexico and Oklahoma and has now reached new states. Learn if you're protected and what to do if you're not.",
+      "url": "https://www.cnet.com/health/medical/new-measles-outbreaks-confirmed-in-the-us-do-you-need-an-mmr-booster/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/7d1bf086f98f1a6093db16d4a03cfedc3850234d/hub/2025/03/03/cd04423f-50b4-4168-ab5d-ac469b21d68e/measles-vaccine.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-03-28 17:07:32",
+      "content": "The current US measles outbreak in West Texas has spread. According to the Centers for Disease Control and Prevention, measles outbreaks have been confirmed in three more states: New Mexico, Ohio and\u2026 [+11023 chars]",
+      "retrievedAt": "2025-03-29 19:05:50.933952",
+      "internal_id": "126b233b5d132983b853e5c2faf8640fa893a293820625a3909a7a3a8241cf66",
+      "publishedAtLabel": "Mar 28"
+    },
+    {
+      "id": 19815,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "DW (English)",
+      "author": "Matthew Ward Agius",
+      "title": "A new drug makes your blood toxic to mosquitoes",
+      "description": "A new drug that makes human blood poisonous to mosquitoes could be a vital new tool to fight malaria. The drug, called nitisinone, kills mosquitos but is not toxic to humans.",
+      "url": "https://www.dw.com/en/a-new-drug-makes-your-blood-toxic-to-mosquitoes/a-72072764",
+      "urlToImage": "https://static.dw.com/image/58879688_6.jpg",
+      "publishedAt": "2025-03-28 16:23:00",
+      "content": "A drug used to treat a rare inherited disease has been found to make human blood toxic to malaria-carrying mosquitoes. It could provide another tool to reduce deadly insect populations. Mosquitoes \u2026 [+5162 chars]",
+      "retrievedAt": "2025-03-29 19:05:53.565253",
+      "internal_id": "61288d3cd6d45e0b1ea8f68b91db7b9cf03562cb2c8fb4befdb8bfa38aba1165",
+      "publishedAtLabel": "Mar 28"
+    },
+    {
+      "id": 19824,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "Disminuyen un 18,2% los casos de mpox detectados a nivel global por la OMS en febrero",
+      "description": "La Organizaci\u00f3n Mundial de la Salud (OMS) ha anunciado una disminuci\u00f3n del 18,2 por ciento de los casos de mpox detectados a nivel global en febrero, con 3.191 nuevos diagn\u00f3sticos, de los que un 88 por ciento se han identificado en la regi\u00f3n de \u00c1frica, a la q\u2026",
+      "url": "https://www.infosalus.com/salud-investigacion/noticia-disminuyen-182-casos-mpox-detectados-nivel-global-oms-febrero-20250328164507.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20250328164507_1200.jpg",
+      "publishedAt": "2025-03-28 15:45:07",
+      "content": "MADRID 28 Mar. (EUROPA PRESS) - La Organizaci\u00f3n Mundial de la Salud (OMS) ha anunciado una disminuci\u00f3n del 18,2 por ciento de los casos de mpox detectados a nivel global en febrero, con 3.191 nuev\u2026 [+2609 chars]",
+      "retrievedAt": "2025-03-29 19:05:54.500284",
+      "internal_id": "eb3a9da95104923fcdb0c605768d1b1d9390cd77f4964915d44d0675d20061ba",
+      "publishedAtLabel": "Mar 28"
+    },
+    {
+      "id": 19823,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "N-tv.de",
+      "author": "n-tv NACHRICHTEN",
+      "title": "H\u00f6chste w\u00f6chentliche Zahl: Infektionskrankheit Mpox breitet sich in Berlin aus",
+      "description": "In Afrika sorgt die Ausbreitung des fr\u00fcher als Affenpocken bezeichneten Mpox-Virus f\u00fcr eine internationale Notlage. Die EU-Gesundheitsbeh\u00f6rde ECDC sch\u00e4tzt das Risiko einer Ausbreitung der Ib-Variante in Europa als gering ein. Dennoch zeigt sich nun in Berlin \u2026",
+      "url": "https://www.n-tv.de/wissen/Infektionskrankheit-Mpox-breitet-sich-in-Berlin-aus-article25664046.html",
+      "urlToImage": "https://www.n-tv.de/img/Bilder_dpa_Import/crop25663689/7681324178-cImg_16_9-w1200/Die-fur-Mpox-typischen-Pusteln-konnen-im-Genital-oder-Analbereich-beginnen-und-manchmal-auch-im-Mund-auftreten-Symbolbild-.jpg",
+      "publishedAt": "2025-03-28 15:37:54",
+      "content": "In Afrika sorgt die Ausbreitung des fr\u00fcher als Affenpocken bezeichneten Mpox-Virus f\u00fcr eine internationale Notlage. Die EU-Gesundheitsbeh\u00f6rde ECDC sch\u00e4tzt das Risiko einer Ausbreitung der Ib-Variante\u2026 [+3393 chars]",
+      "retrievedAt": "2025-03-29 19:05:54.485248",
+      "internal_id": "a3b41aeb1aa68e1504db3750c16a1810b429ea8b2186faaacb3f6cf2a8fd01f7",
+      "publishedAtLabel": "Mar 28"
+    },
+    {
+      "id": 19809,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Hallespektrum.de",
+      "author": "hei-wu",
+      "title": "Ostereier in Gefahr? Gefl\u00fcgelpest im Kemberg ausgebrochen \u2013 28.000 Tiere m\u00f6glicherweise betroffen.",
+      "description": "Im Kemberger Ortsteil Gaditz steht ein gro\u00dfer Gefl\u00fcgelbetrieb im Verdacht, von der hochansteckenden Vogelgrippe H5N1 betroffen zu sein. Rund 28.000 H\u00fchner und H\u00e4hne sind in Gefahr. Bereits am Donnerstag entdeckte eine Tierarztpraxis \u00fcber 50 tote Tiere in eine\u2026",
+      "url": "https://hallespektrum.de/aktuelles/ostereier-in-gefahr-gefluegelpest-im-kemberg-ausgebrochen-28-000-tiere-moeglicherweise-betroffen/470153/",
+      "urlToImage": "https://hallespektrum.de/wp-content/uploads/2025/03/Gefluegelpest-Symbolbild.jpg",
+      "publishedAt": "2025-03-28 14:46:15",
+      "content": "Im Kemberger Ortsteil Gaditz steht ein gro\u00dfer Gefl\u00fcgelbetrieb im Verdacht, von der hochansteckenden Vogelgrippe H5N1 betroffen zu sein. Rund 28.000 H\u00fchner und H\u00e4hne sind in Gefahr. Bereits am Donners\u2026 [+1153 chars]",
+      "retrievedAt": "2025-03-29 19:05:52.308609",
+      "internal_id": "7c839ad6c2da436595a0c1038a1631867aa9a1482017c6d1871e427e94092bac",
+      "publishedAtLabel": "Mar 28"
+    },
+    {
+      "id": 19822,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "ZEIT ONLINE: Gesundheit - Eric Voigt",
+      "title": "Infektionskrankheit: Berlin meldet zehn Mpox-Infektionen innerhalb einer Woche",
+      "description": "In der Hauptstadt wurde in den vergangenen sieben Tagen die h\u00f6chste Zahl an Mpox-Neuinfektionen seit 2022 registriert. Die Betroffenen sind ausschlie\u00dflich m\u00e4nnlich.",
+      "url": "https://www.zeit.de/gesundheit/2025-03/mpox-infektionen-berlin-2025",
+      "urlToImage": "https://img.zeit.de/gesundheit/2025-03/berlin-zehn-mpox-infektionen-bild/wide__1300x731",
+      "publishedAt": "2025-03-28 14:34:58",
+      "content": "Die Infektionskrankheit Mpox breitet sich zunehmend in Berlin aus. Seit Jahresbeginn seien den Gesundheits\u00e4mtern 43 F\u00e4lle gemeldet worden, teilte das Landesamt f\u00fcr Gesundheit und Soziales mit. \u2026 [+1094 chars]",
+      "retrievedAt": "2025-03-29 19:05:54.476915",
+      "internal_id": "d4b532b3bbaab845f8b63c3d439eb724c2deb5bd21cd5267e2a61f1a855f1967",
+      "publishedAtLabel": "Mar 28"
+    },
+    {
+      "id": 19801,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "WIBW",
+      "author": "Associated Press",
+      "title": "Organ transplant patient dies from rabies, health officials say",
+      "description": "A Michigan resident died earlier this year after contracting rabies from an organ transplant, health officials said.",
+      "url": "https://www.wibw.com/2025/03/28/organ-transplant-patient-dies-rabies-health-officials-say/",
+      "urlToImage": "https://gray-wibw-prod.gtv-cdn.com/resizer/v2/UK5XIVMEIFARLLM4HOYB5LNX5U.jpg?auth=70f1c926da964c06aa6e0419129ea2f69d11c2e97bf3c1fa6b659fd4e7aaf20e&width=1200&height=600&smart=true",
+      "publishedAt": "2025-03-28 14:33:24",
+      "content": "(AP) - A Michigan resident died earlier this year after contracting rabies from an organ transplant, health officials said. The patient had the organ transplanted at a hospital in Ohio in December a\u2026 [+1639 chars]",
+      "retrievedAt": "2025-03-29 19:05:50.515073",
+      "internal_id": "932cbe99d4cde7477041a0d4cf8a47ca1d026f47c2005c4028d90b7da0eb97b9",
+      "publishedAtLabel": "Mar 28"
+    },
+    {
+      "id": 19805,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Raw Story",
+      "author": "Brad Reed",
+      "title": "Texas docs blow off RFK Jr's measles cure as kids who take it show 'signs of liver damage'",
+      "description": "Health and Human Services Secretary Robert F. Kennedy Jr. has been pushing doctors to treat measles-infected children with cod-liver oil despite the fact that medical experts believe that this is an unproven remedy that is not as effective at preventing the i\u2026",
+      "url": "https://www.rawstory.com/rfk-jr-measles-2671627014/",
+      "urlToImage": "https://www.rawstory.com/media-library/image.jpg?id=55520091&width=1200&height=600&coordinates=0%2C38%2C0%2C38",
+      "publishedAt": "2025-03-28 14:08:00",
+      "content": "Health and Human Services Secretary Robert F. Kennedy Jr. has been pushing doctors to treat measles-infected children with cod-liver oil despite the fact that medical experts believe that this is an \u2026 [+1662 chars]",
+      "retrievedAt": "2025-03-29 19:05:51.048413",
+      "internal_id": "ac862111416757048237acf96c6b27d2ad30904e5a12848565d86b7106d22f10",
+      "publishedAtLabel": "Mar 28"
+    },
+    {
+      "id": 19810,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Do Duc Anh, Lara Vugrek, Nguyen Trong The, Nourhane Hafza, Truong Nhat My, Le Thi Kieu Linh, Do Huy Loc, Jonas Schmidt-Chanasit, Nguyen Linh Toan, Peter G. Kremsner, Le Huu Song, Thirumalaisamy P. Velavan",
+      "title": "Characterization of dengue patients in Vietnam: Clinical, virological, and IL-10 profiles during 2021\u2013 2022 outbreaks",
+      "description": "Author summary Dengue places a significant burden especially in low- and middle-income countries, including Vietnam. The pathogenesis of dengue is attributed to a complex interaction between the dengue virus and the host immune system. We explicitly investiga\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012954",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012954.g003&size=inline",
+      "publishedAt": "2025-03-28 14:00:00",
+      "content": "Citation: Anh DD, Vugrek L, The NT, Hafza N, My TN, Linh LTK, et al. (2025) Characterization of dengue patients in Vietnam: Clinical, virological, and IL-10 profiles during 2021 2022 outbreaks. PLoS \u2026 [+25509 chars]",
+      "retrievedAt": "2025-03-29 19:05:52.738710",
+      "internal_id": "e774924b8ad2a3d07800b08495fd1135d047e50e0d7c2e2386a4263f98fb49e7",
+      "publishedAtLabel": "Mar 28"
+    },
+    {
+      "id": 19811,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Matthias Hans Belau, Juliane Boenecke, Jonathan Str\u00f6bele, Mirko Himmel, Daria Dretvi\u0107, Ummul-Khair Mustafa, Katharina Sophia Kreppel, Elingarami Sauli, Johanna Brinkel, Ulfia Annette Clemen, Thomas Clemen, Wolfgang Streit, J\u00fcrgen May, Amena Almes Ahmad, Ralf Reintjes, Heiko Becher",
+      "title": "Integrated rapid risk assessment for dengue fever in settings with limited diagnostic capacity and uncertain exposure: Development of a methodological framework for Tanzania",
+      "description": "Author summary In our study, we set out to address the challenges posed by re-emerging dengue fever, a significant infectious disease globally. The goal was to create a comprehensive risk assessment framework that enhances the early detection and evaluation o\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012946",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012946.g004&size=inline",
+      "publishedAt": "2025-03-28 14:00:00",
+      "content": "Abstract Background Dengue fever is one of the worlds most important re-emerging but neglected infectious diseases. We aimed to develop and evaluate an integrated risk assessment framework to enhan\u2026 [+68536 chars]",
+      "retrievedAt": "2025-03-29 19:05:52.748037",
+      "internal_id": "597bb8d201d89fe4e38ae1c71ead5682cfa5ad5e8580e482d266c2281ccbb73b",
+      "publishedAtLabel": "Mar 28"
+    },
+    {
+      "id": 19813,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Anna Marie Hugon, Thaddeus G. Golos",
+      "title": "Listeria monocytogenes infection in intestinal epithelial Caco-2 cells with exposure to progesterone and estradiol-17beta",
+      "description": "Listeria monocytogenes (Lm) is a food-borne pathogen associated with serious pregnancy complications, including miscarriage, stillbirth, preterm birth, neonatal sepsis, and meningitis. Although Lm infection within the gastrointestinal tract is well studied, l\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0320631",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0320631.g004&size=inline",
+      "publishedAt": "2025-03-28 14:00:00",
+      "content": "Abstract Listeria monocytogenes (Lm) is a food-borne pathogen associated with serious pregnancy complications, including miscarriage, stillbirth, preterm birth, neonatal sepsis, and meningitis. Alth\u2026 [+36992 chars]",
+      "retrievedAt": "2025-03-29 19:05:53.010801",
+      "internal_id": "703925441b2ed898eb06459513e6d98e75cc2ed582b107124f66189b1112512e",
+      "publishedAtLabel": "Mar 28"
+    },
+    {
+      "id": 19817,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Emily S. Groves, Julie A. Simpson, Peta Edler, Andr\u00e9 Daher, Ayodhia P. Pasaribu, Dhelio B. Pereira, Kavitha Saravu, Lorenz von Seidlein, Megha Rajasekhar, Ric N. Price, Robert J. Commons, on behalf of the WorldWide Antimalarial Resistance Network (WWARN) P. vivax Fever Study Group",
+      "title": "Parasitaemia and fever in uncomplicated Plasmodium vivax malaria: A systematic review and individual patient data meta-analysis",
+      "description": "Author summary Rapid diagnostic tests (RDTs) offer an affordable and scalable method for diagnosing symptomatic malaria with reduced need for equipment, electricity, and training compared with light microscopy. These tests are particularly helpful in remote s\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012951",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012951.g006&size=inline",
+      "publishedAt": "2025-03-28 14:00:00",
+      "content": "Abstract Background Parasite density thresholds used for diagnosing symptomatic malaria are defined by the relationship between parasitaemia and fever. This relationship can inform the design and d\u2026 [+51165 chars]",
+      "retrievedAt": "2025-03-29 19:05:53.629646",
+      "internal_id": "fed16d341bade2a862f6554a4457209c18ec14e2d7c2aa0623f412d6084d3f3d",
+      "publishedAtLabel": "Mar 28"
+    },
+    {
+      "id": 19825,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Martin Veinstein, Vincent Stroobant, Fanny Wavreil, Thomas Michiels, Fr\u00e9d\u00e9ric Sorgeloos",
+      "title": "The \u201cDDVF\u201d motif used by viral and bacterial proteins to hijack RSK kinases mimics a short linear motif (SLiM) found in proteins related to the RAS-ERK MAP kinase pathway",
+      "description": "Author summary Short linear motif (SLiM) are 3 to 12 amino acid-long protein sequences that can mediate the interaction with other proteins. We previously observed that highly unrelated pathogens, including viruses and bacteria, convergently evolved to hijack\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013016",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1013016.g007&size=inline",
+      "publishedAt": "2025-03-28 14:00:00",
+      "content": "Abstract Proteins of pathogens such as cardioviruses, Kaposi sarcoma-associated herpes virus, varicella zoster virus and bacteria of the genus Yersinia were previously shown to use a common DDVF (D/\u2026 [+60675 chars]",
+      "retrievedAt": "2025-03-29 19:05:55.003576",
+      "internal_id": "01828bcf578b6a945457eb3daa0b4cd1ad89f2cecaf5ca27dc3824e12aa97a17",
+      "publishedAtLabel": "Mar 28"
+    },
+    {
+      "id": 19826,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Zhongxu Duan, Jingqi Song, Mingru Zhang, Zhe Zhang, Nan Li, Yuqin Fu, Zhe Sun, Tiancheng Lu, Siyuan Li, Mingyue Cao, Qingyu Wang, Chunhui Sun, Xiuran Wang",
+      "title": "Correction: Effects of Yersinia pseudotuberculosis outer membrane vesicles on Pseudomonas aeruginosa antigens immune response",
+      "description": "",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0321406",
+      "urlToImage": null,
+      "publishedAt": "2025-03-28 14:00:00",
+      "content": "The funding statement for this paper is incorrect. The correct Funding statement is as follows: The financial support from the Jilin Provincial Natural Science Foundation of China (20220101335JC, 202\u2026 [+711 chars]",
+      "retrievedAt": "2025-03-29 19:05:55.012645",
+      "internal_id": "1fd0f8d5256d40643f6786753eb55527114d1692948afd77f6c16f07fddfe31c",
+      "publishedAtLabel": "Mar 28"
+    },
+    {
+      "id": 19806,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "Texas Never Wanted RFK Jr.'s Unproven Measles Treatment (Nicholas Florko/The Atlantic)",
+      "description": "Nicholas Florko / The Atlantic: Texas Never Wanted RFK Jr.'s Unproven Measles Treatment \u2014 Kennedy made a show of shipping vitamin A to measles-stricken communities. The state's public-health department didn't take up the offer. \u2014 Robert F. Kennedy Jr., s\u2026",
+      "url": "https://www.memeorandum.com/250328/p29",
+      "urlToImage": "https://cdn.theatlantic.com/thumbor/iye2sC8JARPYsb9VJ0vcsUOoV5Q=/0x0:2000x1042/1200x625/media/img/mt/2025/03/RFK_Texas/original.jpg",
+      "publishedAt": "2025-03-28 13:40:00",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-03-29 19:05:51.137062",
+      "internal_id": "edd0236ca46d3c70057ed6114c845a8df46eb9ea5651ab35b066bdc8d0f9ef8f",
+      "publishedAtLabel": "Mar 28"
+    },
+    {
+      "id": 19818,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Standard Digital",
+      "author": "Ryan Kerubo",
+      "title": "CDC issues global warning as Kenya battles malaria and measles",
+      "description": "CDC has issued a warning on several ongoing disease outbreaks across the world, highlighting the urgent need for public awareness and intervention.",
+      "url": "https://www.standardmedia.co.ke/health/health-science/article/2001514934/cdc-issues-global-warning-as-kenya-battles-malaria-and-measles",
+      "urlToImage": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/UMnclRtSkobF9qlWmt4k5wkW7OiDdWDwu7w4h9rW.jpg",
+      "publishedAt": "2025-03-28 13:02:57",
+      "content": "A patient receiving malaria treatment at a makeshift hospital in Kapau, Tiaty, Baringo County on August 28, 2024. [Kipsang Joseph, Standard] The Centers for Disease Control and Prevention (CDC) has \u2026 [+2627 chars]",
+      "retrievedAt": "2025-03-29 19:05:53.699943",
+      "internal_id": "4dcac150e67f59cfe21b30e4cc95f78bad6dd3fb7df3986ddc9e3101b0846f6a",
+      "publishedAtLabel": "Mar 28"
+    },
+    {
+      "id": 19821,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "Infektionskrankheit Mpox breitet sich in Berlin aus - zehn F\u00e4lle in einer Woche",
+      "description": "Die Infektionskrankheit Mpox breitet sich aktuell in Berlin aus. Seit Jahresbeginn seien den Gesundheits\u00e4mtern 43 F\u00e4lle gemeldet worden, teilte das Landesamt f\u00fcr Gesundheit und Soziales (Lageso) am Freitag mit. In den beiden Vorjahren hatte es zu diesem Zeitp\u2026",
+      "url": "https://www.stern.de/news/infektionskrankheit-mpox-breitet-sich-in-berlin-aus---zehn-faelle-in-einer-woche-35593634.html",
+      "urlToImage": "https://image.stern.de/35593636/t/j6/v1/w1440/r1.7778/-/28--proben-in-medizinischem-labor---5c2c6382d88b44ac.jpg",
+      "publishedAt": "2025-03-28 12:45:33",
+      "content": "Kopiere den aktuellen Link Zur Merkliste hinzuf\u00fcgen Die Infektionskrankheit Mpox breitet sich aktuell in Berlin aus. Seit Jahresbeginn seien den Gesundheits\u00e4mtern 43 F\u00e4lle gemeldet worden, teilte d\u2026 [+1104 chars]",
+      "retrievedAt": "2025-03-29 19:05:54.467857",
+      "internal_id": "cbd1b49c1635f475fd024e57f4680725e81fd0267dedf093204c4f036d9a86d8",
+      "publishedAtLabel": "Mar 28"
+    },
+    {
+      "id": 19807,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Helport AI, Inc.",
+      "title": "Helport AI to Host First Half Fiscal Year 2025 Financial Results Conference Call on Monday, March 31, 2025 at 4:30 p.m. Eastern Time",
+      "description": "Helport AI to Host First Half Fiscal Year 2025 Financial Results Conference Call on Monday, March 31, 2025 at 4:30 p.m. Eastern Time......",
+      "url": "https://www.globenewswire.com/news-release/2025/03/28/3051365/0/en/Helport-AI-to-Host-First-Half-Fiscal-Year-2025-Financial-Results-Conference-Call-on-Monday-March-31-2025-at-4-30-p-m-Eastern-Time.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/4165bcbe-7c28-4ab2-a6fa-6df96179cf81",
+      "publishedAt": "2025-03-28 12:31:00",
+      "content": "SINGAPORE and SAN DIEGO, March 28, 2025 (GLOBE NEWSWIRE) -- Helport AI Limited (NASDAQ: HPAI) (Helport AI or the Company), an AI technology company serving enterprise clients with intelligent custome\u2026 [+2469 chars]",
+      "retrievedAt": "2025-03-29 19:05:51.515524",
+      "internal_id": "02b23d6a7519db3073a7fa4dde9e04b581103329dc9d2bb1b47c7b2d26688821",
+      "publishedAtLabel": "Mar 28"
+    },
+    {
+      "id": 19820,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Der Tagesspiegel",
+      "title": "Viermal mehr F\u00e4lle als im Vorjahreszeitraum: Ungew\u00f6hnlich viele Mpox-Infektionen in Berlin gemeldet",
+      "description": "Die Krankheit Mpox wird vor allem beim Sex \u00fcbertragen und kann zu einem sehr schmerzhaften Hautausschlag f\u00fchren. Wie sich die aktuelle Lage in Berlin darstellt.",
+      "url": "https://www.tagesspiegel.de/berlin/viermal-mehr-falle-als-im-vorjahreszeitraum-ungewohnlich-viele-mpox-infektionen-in-berlin-gemeldet-13450339.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/13450336/alternates/BASE_16_9_W1400/1743164524000/mpox.jpeg",
+      "publishedAt": "2025-03-28 12:22:04",
+      "content": "Seit Jahresbeginn haben sich in Berlin mehr als viermal so viele Menschen mit Mpox infiziert wie in den zwei Jahren zuvor. Bis zum 23. M\u00e4rz wurden dem Landesamt f\u00fcr Gesundheit und Soziales (Lageso) 4\u2026 [+3399 chars]",
+      "retrievedAt": "2025-03-29 19:05:54.458872",
+      "internal_id": "542e6bc9597687fcb66c8b6feda5a14d64abf13067836df7284d03671c14013a",
+      "publishedAtLabel": "Mar 28"
+    },
+    {
+      "id": 19819,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "Krankheiten: Ungew\u00f6hnlich viele Mpox-F\u00e4lle in Berlin gemeldet",
+      "description": "Die Krankheit Mpox wird vor allem beim Sex \u00fcbertragen und kann zu einem sehr schmerzhaften Hautausschlag f\u00fchren. Wie sich die aktuelle Lage in Berlin darstellt.",
+      "url": "https://www.stern.de/gesellschaft/regional/berlin-brandenburg/krankheiten--ungewoehnlich-viele-mpox-faelle-in-berlin-gemeldet-35593528.html",
+      "urlToImage": "https://image.stern.de/35593530/t/WX/v1/w1440/r1.7778/-/28--krooo6mzf5v5axs2048jpeg---ac8df6d121286e28.jpg",
+      "publishedAt": "2025-03-28 12:21:00",
+      "content": "Kopiere den aktuellen Link Zur Merkliste hinzuf\u00fcgen Die Krankheit Mpox wird vor allem beim Sex \u00fcbertragen und kann zu einem sehr schmerzhaften Hautausschlag f\u00fchren. Wie sich die aktuelle Lage in Be\u2026 [+2505 chars]",
+      "retrievedAt": "2025-03-29 19:05:54.435268",
+      "internal_id": "a2316f37f42bbbd94b61760d5169924c92d8b31905a1a53bbe4aacf254f91468",
+      "publishedAtLabel": "Mar 28"
+    },
+    {
+      "id": 19808,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Tass.ru",
+      "author": null,
+      "title": "\u041f\u0440\u0430\u0432\u0434\u0430 \u043b\u0438, \u0447\u0442\u043e \u0432\u0441\u043a\u043e\u0440\u0435 \u0420\u043e\u0441\u0441\u0438\u0438 \u0433\u0440\u043e\u0437\u0438\u0442 \u043d\u043e\u0432\u0430\u044f \u044d\u043f\u0438\u0434\u0435\u043c\u0438\u044f?",
+      "description": "\u0421\u043e\u0431\u044b\u0442\u0438\u044f \u0432 \u0420\u043e\u0441\u0441\u0438\u0438 \u0438 \u043c\u0438\u0440\u0435. \u0410\u043d\u0430\u043b\u0438\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0446\u0438\u0438. \u041c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u044b \u043f\u0440\u0435\u0441\u0441-\u043a\u043e\u043d\u0444\u0435\u0440\u0435\u043d\u0446\u0438\u0439. \u0412\u0438\u0434\u0435\u043e- \u0438 \u0444\u043e\u0442\u043e\u0440\u0435\u043f\u043e\u0440\u0442\u0430\u0436\u0438",
+      "url": "https://tass.ru/obschestvo/23537909",
+      "urlToImage": "https://cdn-storage-media.tass.ru/thumb/ru/obschestvo/23537909?u=2025-03-28T11:30:00.361395",
+      "publishedAt": "2025-03-28 11:30:00",
+      "content": ", . . , , , . \" 20 . - . . , , , \u2014 , , , . . .. . \u2014 c , 5 , . , ( \u2014 . ) . , . \". , , . , A(H5N1). , , 30 100%. A(H5N1) , 40\u201360%. , A(H5N1). \" , : A(H7N9), A(H9N2) A(H5N8), \u2014 \u2026 [+152 chars]",
+      "retrievedAt": "2025-03-29 19:05:52.233248",
+      "internal_id": "bc47df13c4e9de4171601f9d080deaba0cf7d43a1803d5900fcea513eaa9dbc8",
+      "publishedAtLabel": "Mar 28"
+    },
+    {
+      "id": 19812,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Marina Semensato, Marina Semensato",
+      "title": "SP supera 337 mil casos de dengue; entenda os desafios no combate",
+      "description": "N\u00famero de diagn\u00f3sticos confirmados saltou 14% em menos de uma semana; especialista comenta medidas do governo",
+      "url": "https://saude.ig.com.br/2025-03-28/sp-supera-337-mil-casos-dengue-desafios-combate.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/ds/5d/2y/ds5d2y8ofngh4qmi3wjhgacex.jpg",
+      "publishedAt": "2025-03-28 11:10:51",
+      "content": "O estado de S\u00e3o Paulo j\u00e1 registra mais de 337 mil casos confirmados de dengue em 2025, segundo os dados do Painel de Arboviroses do N\u00facleo de Informa\u00e7\u00f5es Estrat\u00e9gicas de Sa\u00fade (NIES). O n\u00famero repr\u2026 [+7564 chars]",
+      "retrievedAt": "2025-03-29 19:05:52.762967",
+      "internal_id": "083b6a5bf7a42a6c314086c207ff37c9cbe7a43528229ca2cfc30fcf68596b87",
+      "publishedAtLabel": "Mar 28"
+    },
+    {
+      "id": 19804,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Atlantic",
+      "author": "Nicholas Florko",
+      "title": "Texas Never Wanted RFK Jr.\u2019s Unproven Measles Treatment",
+      "description": "Kennedy made a show of shipping vitamin A to measles-stricken communities. The state\u2019s public-health department didn\u2019t take up the offer.",
+      "url": "https://www.theatlantic.com/health/archive/2025/03/texas-never-wanted-rfk-jrs-unproven-measles-treatment/682222/",
+      "urlToImage": "https://cdn.theatlantic.com/thumbor/iye2sC8JARPYsb9VJ0vcsUOoV5Q=/0x0:2000x1042/1200x625/media/img/mt/2025/03/RFK_Texas/original.jpg",
+      "publishedAt": "2025-03-28 11:00:00",
+      "content": "Robert F. Kennedy Jr., staring down his first major health crisis as the head of Health and Human Services, had a plan. After Texas experienced the first measles death in the United States in a decad\u2026 [+5226 chars]",
+      "retrievedAt": "2025-03-29 19:05:51.005894",
+      "internal_id": "8a569fc9077b7be532690c3adc9a6a12a715810af7105d022d0ff8d6965aee9d",
+      "publishedAtLabel": "Mar 28"
+    },
     {
       "id": 19791,
       "query": [
@@ -30810,168 +31278,6 @@
       "content": "Ett fall av f\u00e5gelinfluensa har redan konstaterats i Finland i \u00e5r. En kaja med f\u00e5gelinfluensa av typen H5N1 hittades i \u00c5bo f\u00f6r n\u00e5gra veckor sedan. Det \u00e4r det f\u00f6rsta fallet i Finland p\u00e5 ungef\u00e4r ett \u00e5r.\u2026 [+4365 chars]",
       "retrievedAt": "2025-02-11 07:06:27.930823",
       "internal_id": "b4f83a2513031d4ef0da8eaaa6ff79642da864f284e9ac63bd9cb2254af91cb6",
-      "publishedAtLabel": "Feb 9"
-    },
-    {
-      "id": 18079,
-      "query": [
-        "measles"
-      ],
-      "source_id": "newsweek",
-      "source_name": "Newsweek",
-      "author": "Jordan King",
-      "title": "Texas Measles Cases Hit County With Low Vaccination Rates",
-      "description": "A rapid rise in and around rural Gaines County on the border with New Mexico has seen 14 confirmed and six probable cases.",
-      "url": "https://www.newsweek.com/measles-outbreak-texas-gaines-county-vaccination-rate-2028453",
-      "urlToImage": "https://d.newsweek.com/en/full/2584403/vaccine-file-photo.jpg",
-      "publishedAt": "2025-02-09 17:15:07",
-      "content": "A rise in cases of measles has hit a rural area in and around Gaines County, in Texas, where the measles vaccination rate is low. The Texas Department of State Health Services reported that there we\u2026 [+2521 chars]",
-      "retrievedAt": "2025-02-10 19:05:46.575319",
-      "internal_id": "89953695e495b9f78e090944e165c98f5f888605207028e7bc998691281df310",
-      "publishedAtLabel": "Feb 9"
-    },
-    {
-      "id": 18090,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Catracalivre.com.br",
-      "author": "Andr\u00e9 Nicolau",
-      "title": "Qual o risco de a gripe avi\u00e1ria virar uma nova pandemia entre humanos?",
-      "description": "A gripe avi\u00e1ria \u00e9 uma das doen\u00e7as que mais tem chamado a aten\u00e7\u00e3o de autoridades em sa\u00fade no mundo. Desde o in\u00edcio de 2024, a infec\u00e7\u00e3o causada pelo v\u00edrus influenza A (H5N1) vem se espalhando principalmente nos Estados Unidos. Por l\u00e1, j\u00e1 atinge aves dom\u00e9sticas,\u2026",
-      "url": "https://catracalivre.com.br/saude-bem-estar/qual-o-risco-de-a-gripe-aviaria-virar-uma-nova-pandemia-entre-humanos/",
-      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1280,h=680,fit=cover,format=jpeg/wp-content/uploads/2025/02/depositphotos-241487282-s.jpg",
-      "publishedAt": "2025-02-09 17:00:06",
-      "content": "Desde 2003, foram notificadas \u00e0 OMS mais de 950 infec\u00e7\u00f5es humanas causadas pelo v\u00edrus H5N1 no mundo ChinaImages/Depositphotos - Shen chunchen - Imaginechina A gripe avi\u00e1ria \u00e9 uma das doen\u00e7as que mai\u2026 [+4150 chars]",
-      "retrievedAt": "2025-02-11 07:06:27.896365",
-      "internal_id": "7569fe4c8bdf364e9be829007ee1a1c3a6b9376fef0175beb15d858c22ea5119",
-      "publishedAtLabel": "Feb 9"
-    },
-    {
-      "id": 18080,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Newsbreak.com",
-      "author": "Niamh Kirk",
-      "title": "Measles outbreak spreads as health officials urge anyone who hasn't been vaccinated to get jabbed - NewsBreak",
-      "description": "Health officials have urged anyone in the area who hasn't been vaccinated, both adults and children to get a dose immediately due to the alarming rise in m",
-      "url": "https://www.newsbreak.com/share/3798078238417-measles-outbreak-spreads-as-health-officials-urge-anyone-who-hasn-t-been-vaccinated-to-get-jabbed?s=a2&share_destination_id=NTMxMzc4NDEtMTczOTExODU1MjI2Ng%3D%3D&pd=03axZxIg&hl=en_US&send_time=1739118552&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.6.1%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_model_exp_25q1-v8%2Cns_foryou_blend_exp_25q1-v8%2Cns_foryou_rank_exp_25q1-v6%2Cns_foryou_recall_exp_25q1-v7%2Cns_push_exp_rt_bucketv12-v8",
-      "urlToImage": "https://img.particlenews.com/img/id/1Ndizs_0yl1VL9M00",
-      "publishedAt": "2025-02-09 16:29:39",
-      "content": "Health officials are concerned over a measles outbreak in a rural area of West Texas with 14 confirmed cases. Investigations are ongoing after the state health department shared a health alert tha\u2026 [+2405 chars]",
-      "retrievedAt": "2025-02-10 19:05:46.627294",
-      "internal_id": "42627147313af21d999e8ad512249f13db2d8aae8e13fa3c48f6b275415aae12",
-      "publishedAtLabel": "Feb 9"
-    },
-    {
-      "id": 18082,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Newsbreak.com",
-      "author": "Niamh Kirk",
-      "title": "Measles outbreak spreads as health officials urge anyone who hasn't been vaccinated to get jabbed - NewsBreak",
-      "description": "Health officials have urged anyone in the area who hasn't been vaccinated, both adults and children to get a dose immediately due to the alarming rise in m",
-      "url": "https://www.newsbreak.com/share/3798078238417-measles-outbreak-spreads-as-health-officials-urge-anyone-who-hasn-t-been-vaccinated-to-get-jabbed?_f=app_share&pd=04jUeKTH&lang=en_US&send_time=1739109677&trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.6.0.7%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_model_exp_25q1-v9%2Cns_push_exp_rt_bucketv12-v1%2Cns_foryou_rank_exp_25q1-v2%2Cns_foryou_blend_exp_25q1-control%2Cns_foryou_recall_exp_25q1-v5&s=i2",
-      "urlToImage": "https://img.particlenews.com/img/id/1Ndizs_0yl1VL9M00",
-      "publishedAt": "2025-02-09 14:01:44",
-      "content": "Health officials are concerned over a measles outbreak in a rural area of West Texas with 14 confirmed cases. Investigations are ongoing after the state health department shared a health alert tha\u2026 [+2405 chars]",
-      "retrievedAt": "2025-02-10 19:05:46.644322",
-      "internal_id": "fce248a4a86926cc1385bfc086de4e11ec54644cfc8438d01e09fe7109d8f939",
-      "publishedAtLabel": "Feb 9"
-    },
-    {
-      "id": 18084,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Ilgiornale.it",
-      "author": "redazione@ilgiornale-web.it (Alessandro Ferro)",
-      "title": "Onde elettromagnetiche per \"abbattere\" l'aviaria: ecco come funzionano",
-      "description": "Una ricerca italiana ha scoperto il metodo pi\u00f9 efficace per \"spegenere\" in maniera quasi definitiva la capacit\u00e0 di contagio del virus dell'aviaria ma anche di altri agenti patogeni: ecco la tecnica e le implicazioni future",
-      "url": "https://www.ilgiornale.it/news/rimedi-naturali/aviaria-abbattuta-dalle-onde-elettromagnetiche-studio-2435169.html",
-      "urlToImage": "https://img.ilgcdn.com/sites/default/files/styles/social/public/foto/2020/02/02/1580650141-pollame-giornale.jpg?_=1580650141",
-      "publishedAt": "2025-02-09 10:34:52",
-      "content": "\u00c8 soprattutto negli Stati Uniti che il virus H5N1 dell'aviaria fa pi\u00f9 paura con il contagio di centinaia di capi d'allevamento e i primi casi anche sull'uomo. Grazie a un team di ricerca italiano del\u2026 [+2625 chars]",
-      "retrievedAt": "2025-02-10 19:05:47.479837",
-      "internal_id": "bd2a99a60a8504f00540530bb3e348cc6ef967f08e7714630d39b8dfb0e308ed",
-      "publishedAtLabel": "Feb 9"
-    },
-    {
-      "id": 18086,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Standard Digital",
-      "author": "Dennis Kinyua",
-      "title": "How to strengthen malaria prevention through community",
-      "description": "The efforts of CHPs have acquired trust from the community, and more people are embracing malaria prevention practices.",
-      "url": "https://www.standardmedia.co.ke/health/health-opinion/article/2001511362/how-to-strengthen-malaria-prevention-through-community",
-      "urlToImage": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/K14sMagZygOBRv4YGzf3cZWX0jBz8yhbKVn2xS1a.jpg",
-      "publishedAt": "2025-02-09 10:01:31",
-      "content": "CHPs dialogue meeting in Bukika Community Health Unit, Busia County. [Courtesy] On a sunny afternoon under a tree, a group of Community Health Promoters and local community members have gathered. Th\u2026 [+3280 chars]",
-      "retrievedAt": "2025-02-10 19:05:49.133105",
-      "internal_id": "5574b882878f94ae90029240cf93875cff0098d42d49a5adf7050ced404aa17c",
-      "publishedAtLabel": "Feb 9"
-    },
-    {
-      "id": 18085,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "ynet",
-      "source_name": "Ynet",
-      "author": "\u05e6\u05d5\u05e8 \u05d2\u05d5\u05d0\u05d8\u05d4",
-      "title": "\u05d0\u05d9\u05e8\u05d5\u05e2 \u05d7\u05e8\u05d9\u05d2 \u05d1\u05d0\u05e8\u05d4\"\u05d1: \u05e4\u05e8\u05d5\u05ea \u05e0\u05d3\u05d1\u05e7\u05d5 \u05d1\u05d6\u05df \u05d7\u05d3\u05e9 \u05e9\u05dc \u05e9\u05e4\u05e2\u05ea \u05d4\u05e2\u05d5\u05e4\u05d5\u05ea",
-      "description": "\u05e0\u05d2\u05d9\u05e3 \u05e9\u05e4\u05e2\u05ea \u05d4\u05e2\u05d5\u05e4\u05d5\u05ea \u05de\u05de\u05e9\u05d9\u05da \u05dc\u05d4\u05ea\u05e4\u05e9\u05d8 \u05d1\u05d0\u05e8\u05d4\"\u05d1, \u05db\u05d0\u05e9\u05e8 \u05d6\u05df \u05d7\u05d3\u05e9, D1.1, \u05d6\u05d5\u05d4\u05d4 \u05d1\u05e2\u05d3\u05e8\u05d9 \u05d1\u05e7\u05e8 \u05dc\u05d9\u05d9\u05e6\u05d5\u05e8 \u05d7\u05dc\u05d1. \u05d4\u05d6\u05df \u05d4\u05d7\u05d3\u05e9 \u05de\u05e2\u05d5\u05e8\u05e8 \u05d3\u05d0\u05d2\u05d4 \u05d1\u05e7\u05e8\u05d1 \u05de\u05d5\u05de\u05d7\u05d9\u05dd \u05d1\u05e9\u05dc \u05e4\u05d5\u05d8\u05e0\u05e6\u05d9\u05d0\u05dc \u05d4\u05d4\u05ea\u05e4\u05e9\u05d8\u05d5\u05ea \u05e9\u05dc\u05d5 \u05d5\u05d4\u05d7\u05e9\u05e9 \u05de\u05e4\u05e0\u05d9 \u05de\u05d5\u05d8\u05e6\u05d9\u05d5\u05ea \u05e0\u05d5\u05e1\u05e4\u05d5\u05ea. \u05de\u05e9\u05e8\u05d3 \u05d4\u05d7\u05e7\u05dc\u05d0\u05d5\u05ea \u05d4\u05d0\u05de\u05e8\u05d9\u05e7\u05e0\u05d9 \u05e0\u05d5\u05e7\u05d8 \u05d1\u05e6\u05e2\u05d3\u05d9\u05dd \u05dc\u05d1\u05dc\u05d9\u05de\u05ea \u05d4\u05d4\u05ea\u05e4\u05e8\u05e6\u05d5\u05ea. \u05d3\"\u05e8 \u05e2\u05e0\u05ea \u05e9\u05d8\u05e8\u05df \u05de\u05d4\u05de\u05db\u05d5\u05df \u05dc\u05de\u05d7\u05dc\u05d5\u05ea \u05d6\u05d9\u05d4\u05d5\u05de\u05d9\u05d5\u05ea \u05d1\u05e8\u05de\u2026",
-      "url": "https://www.ynet.co.il/health/article/rkq00oahtkx",
-      "urlToImage": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/02/09/r1UDre8tJx/r1UDre8tJx_0_37_1000_563_0_large.jpg",
-      "publishedAt": "2025-02-09 09:53:26",
-      "content": ", H5N1 65. , , , 67 , \". 100 . , D1.1, ( ). , 957 2024 , B3.13. \" 2024 , \", \" , \". \" , . , , \". , , . , , . \" , \", . \" , , \". \" , \" , . , . , , . , '' , \". \" , , . \" , \". , , D1.1 , , , , \" , \u2026 [+5 chars]",
-      "retrievedAt": "2025-02-10 19:05:47.526190",
-      "internal_id": "f262e5ebc452ca85983486249de514a7ab6f72220ed5bd02dec35afe19b93a81",
-      "publishedAtLabel": "Feb 9"
-    },
-    {
-      "id": 18083,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Tvn24.pl",
-      "author": "kw",
-      "title": "Zamykaj\u0105 targi, wybijaj\u0105 zaka\u017cone zwierz\u0119ta. Ptasia grypa rozprzestrzenia si\u0119 w Nowym Jorku",
-      "description": "Ptasia grypa niepokoi w\u0142adze Nowego Jorku. Po prewencyjnych kontrolach na targach \u017cywego drobiu stwierdzono kilka przypadk\u00f3w zaka\u017cenia wirusem H5N1 u ptactwa. Zwierz\u0119ta wybito, by choroba nie rozprzestrzeni\u0142a si\u0119 jeszcze bardziej.",
-      "url": "https://tvn24.pl/tvnmeteo/swiat/zamykaja-targi-wybijaja-zakazone-zwierzeta-ptasia-grypa-rozprzestrzenia-sie-w-nowym-jorku-st8298168",
-      "urlToImage": "https://tvn24.pl/najnowsze/cdn-zdjecie-2899184-ptasia-grypa-rozprzestrzenia-sie-w-nowym-jorku-ph8298173/alternates/LANDSCAPE_1280",
-      "publishedAt": "2025-02-09 09:52:06",
-      "content": "Ptasia grypa niepokoi wadze Nowego Jorku. Po prewencyjnych kontrolach na targach ywego drobiu stwierdzono kilka przypadk\u00f3w zakaenia wirusem H5N1 u ptactwa. Zwierzta wybito, by choroba nie rozprzestrz\u2026 [+1732 chars]",
-      "retrievedAt": "2025-02-10 19:05:47.465152",
-      "internal_id": "c76dcf24acc5ff4a12a581e04e460c48f2f6ac1bb11a219401df49bd2b73e00b",
-      "publishedAtLabel": "Feb 9"
-    },
-    {
-      "id": 18081,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Newsbreak.com",
-      "author": "Niamh Kirk",
-      "title": "Measles outbreak spreads as health officials urge anyone who hasn't been vaccinated to get jabbed - NewsBreak",
-      "description": "Health officials have urged anyone in the area who hasn't been vaccinated, both adults and children to get a dose immediately due to the alarming rise in m",
-      "url": "https://www.newsbreak.com/share/3798078238417-measles-outbreak-spreads-as-health-officials-urge-anyone-who-hasn-t-been-vaccinated-to-get-jabbed?s=a2&share_destination_id=MjE0OTg1NzExLTE3MzkxNDQyMzc1NTc%3D&pd=0EY3bTgT&hl=en_US&send_time=1739144237&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.4.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_recall_exp_25q1-v6%2Cns_foryou_model_exp_25q1-v6%2Cns_foryou_blend_exp_25q1-v3%2Cns_foryou_rank_exp_25q1-v5",
-      "urlToImage": "https://img.particlenews.com/img/id/1Ndizs_0yl1VL9M00",
-      "publishedAt": "2025-02-09 09:51:50",
-      "content": "Health officials are concerned over a measles outbreak in a rural area of West Texas with 14 confirmed cases. Investigations are ongoing after the state health department shared a health alert tha\u2026 [+2405 chars]",
-      "retrievedAt": "2025-02-10 19:05:46.635549",
-      "internal_id": "43990b2ff2a60d8e469755b7f9eccd51bdc6897f44dd4d5e14d6417bef471fc7",
       "publishedAtLabel": "Feb 9"
     }
   ]
