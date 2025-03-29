@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 32
-- **Last harvest:** 2025-03-28 19:06
-- **Most recent article:** 2025-03-27 18:56:47
+- **New articles in last harvest:** 19
+- **Last harvest:** 2025-03-29 07:06
+- **Most recent article:** 2025-03-28 05:59:34
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-10 | 25-11 | 25-12 | 25-13 | 25-7 | 25-8 | 25-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 142 | 133 | 108 | 67 | 68 | 83 | 162 | 763 |
-| h5n1 | 23 | 39 | 57 | 43 | 51 | 54 | 42 | 309 |
-| dengue | 8 | 12 | 18 | 13 | 37 | 57 | 30 | 175 |
-| malaria | 29 | 22 | 18 | 23 | 11 | 7 | 20 | 130 |
-| mpox | 14 | 15 | 8 | 5 | 18 | 15 | 26 | 101 |
-| meningitis | 4 | 9 | 7 | 7 | 12 | 11 | 7 | 57 |
+| measles | 142 | 133 | 108 | 75 | 72 | 83 | 162 | 775 |
+| h5n1 | 23 | 39 | 57 | 44 | 55 | 54 | 42 | 314 |
+| dengue | 8 | 12 | 18 | 17 | 37 | 57 | 30 | 179 |
+| malaria | 29 | 22 | 18 | 25 | 12 | 7 | 20 | 133 |
+| mpox | 14 | 15 | 8 | 6 | 18 | 15 | 26 | 102 |
+| meningitis | 4 | 9 | 7 | 8 | 12 | 11 | 7 | 58 |
 | chikungunya | 6 | 1 | 17 | 10 | 5 | 3 | 7 | 49 |
 | hpai | 10 | 3 | 12 | 1 | 9 | 5 | 4 | 44 |
-| rabies | 3 | 8 | 3 | 13 | 5 | 4 | 2 | 38 |
+| rabies | 3 | 8 | 3 | 15 | 5 | 4 | 2 | 40 |
 | typhoid | 3 | 8 | 0 | 1 | 3 | 0 | 4 | 19 |
 | zika | 3 | 0 | 2 | 3 | 2 | 6 | 2 | 18 |
 | yersinia | 1 | 2 | 2 | 1 | 5 | 0 | 2 | 13 |
@@ -1447,6 +1447,14 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles outbreak spreads as health officials urge anyone who hasn't been vaccinated to get jabbed - NewsBreak](https://www.newsbreak.com/share/3798078238417-measles-outbreak-spreads-as-health-officials-urge-anyone-who-hasn-t-been-vaccinated-to-get-jabbed?s=a2&share_destination_id=MjUxNzE4NzUzLTE3MzkxNDI4NDQyMDU%3D&pd=0H2BXtcW&hl=en_US&send_time=1739142844&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.4.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_push_exp_rt_bucketv12-v7%2Cns_foryou_blend_exp_25q1-v8%2Cns_foryou_recall_exp_25q1-v8%2Cns_foryou_model_exp_25q1-v1%2Cns_foryou_rank_exp_25q1-v4) (Newsbreak.com)
 
+- [Texas Measles Cases Hit County With Low Vaccination Rates](https://www.newsweek.com/measles-outbreak-texas-gaines-county-vaccination-rate-2028453) (Newsweek)
+
+- [Measles outbreak spreads as health officials urge anyone who hasn't been vaccinated to get jabbed - NewsBreak](https://www.newsbreak.com/share/3798078238417-measles-outbreak-spreads-as-health-officials-urge-anyone-who-hasn-t-been-vaccinated-to-get-jabbed?s=a2&share_destination_id=NTMxMzc4NDEtMTczOTExODU1MjI2Ng%3D%3D&pd=03axZxIg&hl=en_US&send_time=1739118552&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.6.1%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_model_exp_25q1-v8%2Cns_foryou_blend_exp_25q1-v8%2Cns_foryou_rank_exp_25q1-v6%2Cns_foryou_recall_exp_25q1-v7%2Cns_push_exp_rt_bucketv12-v8) (Newsbreak.com)
+
+- [Measles outbreak spreads as health officials urge anyone who hasn't been vaccinated to get jabbed - NewsBreak](https://www.newsbreak.com/share/3798078238417-measles-outbreak-spreads-as-health-officials-urge-anyone-who-hasn-t-been-vaccinated-to-get-jabbed?_f=app_share&pd=04jUeKTH&lang=en_US&send_time=1739109677&trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.6.0.7%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_model_exp_25q1-v9%2Cns_push_exp_rt_bucketv12-v1%2Cns_foryou_rank_exp_25q1-v2%2Cns_foryou_blend_exp_25q1-control%2Cns_foryou_recall_exp_25q1-v5&s=i2) (Newsbreak.com)
+
+- [Measles outbreak spreads as health officials urge anyone who hasn't been vaccinated to get jabbed - NewsBreak](https://www.newsbreak.com/share/3798078238417-measles-outbreak-spreads-as-health-officials-urge-anyone-who-hasn-t-been-vaccinated-to-get-jabbed?s=a2&share_destination_id=MjE0OTg1NzExLTE3MzkxNDQyMzc1NTc%3D&pd=0EY3bTgT&hl=en_US&send_time=1739144237&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.4.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_recall_exp_25q1-v6%2Cns_foryou_model_exp_25q1-v6%2Cns_foryou_blend_exp_25q1-v3%2Cns_foryou_rank_exp_25q1-v5) (Newsbreak.com)
+
 ## 25-7 (malaria)
 
 - [Nigeria approves $200M to offset shortfall from US aid cuts](https://www.dw.com/en/nigeria-approves-200m-to-offset-shortfall-from-us-aid-cuts/a-71607477) (DW (English))
@@ -1470,6 +1478,8 @@ Source: [News API](https://newsapi.org/)
 - [Ocho mujeres que cambiaron la farmacología](https://www.elperiodico.com/es/ciencia/20250212/ocho-mujeres-cambiaron-farmacologia-114232542) (Elperiodico.com)
 
 - [AI and public health issues in contemporary Nigeria - MediaLord.Ng](https://medialord.ng/ai-and-public-health-issues-in-contemporary-nigeria/) (Medialord.ng)
+
+- [How to strengthen malaria prevention through community](https://www.standardmedia.co.ke/health/health-opinion/article/2001511362/how-to-strengthen-malaria-prevention-through-community) (Standard Digital)
 
 ## 25-7 (hpai)
 
@@ -1595,6 +1605,14 @@ Source: [News API](https://newsapi.org/)
 
 - [Rikligt med fågelinfluensafall i Europa – men svårt att säga hur situationen blir i Finland](https://yle.fi/a/7-10072315) (YLE News)
 
+- [Qual o risco de a gripe aviária virar uma nova pandemia entre humanos?](https://catracalivre.com.br/saude-bem-estar/qual-o-risco-de-a-gripe-aviaria-virar-uma-nova-pandemia-entre-humanos/) (Catracalivre.com.br)
+
+- [Onde elettromagnetiche per "abbattere" l'aviaria: ecco come funzionano](https://www.ilgiornale.it/news/rimedi-naturali/aviaria-abbattuta-dalle-onde-elettromagnetiche-studio-2435169.html) (Ilgiornale.it)
+
+- [אירוע חריג בארה"ב: פרות נדבקו בזן חדש של שפעת העופות](https://www.ynet.co.il/health/article/rkq00oahtkx) (Ynet)
+
+- [Zamykają targi, wybijają zakażone zwierzęta. Ptasia grypa rozprzestrzenia się w Nowym Jorku](https://tvn24.pl/tvnmeteo/swiat/zamykaja-targi-wybijaja-zakazone-zwierzeta-ptasia-grypa-rozprzestrzenia-sie-w-nowym-jorku-st8298168) (Tvn24.pl)
+
 ## 25-7 (dengue)
 
 - [Ministério da Saúde amplia vacinação contra dengue para não perder doses do insumo](https://olhardigital.com.br/2025/02/15/medicina-e-saude/ministerio-da-saude-amplia-vacinacao-contra-dengue-para-nao-perder-doses-do-insumo/) (Olhardigital.com.br)
@@ -1701,6 +1719,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-13 (rabies)
 
+- [Organ transplant patient dies from rabies, health officials say](https://www.foxcarolina.com/2025/03/28/organ-transplant-patient-dies-rabies-health-officials-say/) (FOX Carolina)
+
+- [Michigan resident dies of rabies after undergoing organ transplant in Ohio: Officials](https://6abc.com/post/michigan-resident-dies-rabies-undergoing-organ-transplant-ohio-officials/16091374/) (WPVI-TV)
+
 - [Michigan Resident Dies From Donated Kidney Tainted With Rabies](https://gizmodo.com/michigan-resident-dies-from-donated-kidney-tainted-with-rabies-2000581565) (Gizmodo.com)
 
 - [Michigan resident dies of rabies after undergoing organ transplant in Ohio: Officials](https://abc13.com/post/michigan-resident-dies-rabies-undergoing-organ-transplant-ohio-officials/16091374/) (KTRK-TV)
@@ -1729,6 +1751,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-13 (mpox)
 
+- [África registou 111.291 casos de mpox e 1.724 mortes desde janeiro 2024](https://observador.pt/2025/03/27/africa-registou-111-291-casos-de-mpox-e-1-724-mortes-desde-janeiro-2024/) (Observador.pt)
+
 - [US Reports Three More Cases of Virulent Clade I Monkeypox](https://legalinsurrection.com/2025/03/us-reports-three-more-cases-of-virulent-clade-i-monkeypox/) (Legalinsurrection.com)
 
 - [Guidance: Mpox: information for contacts of cases of mpox](https://www.gov.uk/government/publications/mpox-information-for-contacts-of-cases-of-mpox) (Www.gov.uk)
@@ -1740,6 +1764,8 @@ Source: [News API](https://newsapi.org/)
 - [Pakistan confirms 2nd mpox case in 2025](https://timesofindia.indiatimes.com/world/pakistan/pakistan-confirms-2nd-mpox-case-in-2025/articleshow/119361579.cms) (The Times of India)
 
 ## 25-13 (meningitis)
+
+- [807 meningitis cases, 74 deaths recorded in 22 states – NCDC](https://punchng.com/807-meningitis-cases-74-deaths-recorded-in-22-states-ncdc/) (The Punch)
 
 - [Gombe records three meningitis deaths, urges prevention](https://punchng.com/gombe-records-three-meningitis-deaths-urges-prevention/) (The Punch)
 
@@ -1756,6 +1782,22 @@ Source: [News API](https://newsapi.org/)
 - [Kebbi urges calm as meningitis kills six university students](https://punchng.com/kebbi-urges-calm-as-meningitis-kills-six-university-students/) (The Punch)
 
 ## 25-13 (measles)
+
+- [Mr. Block and Franklin Rosemont](https://www.counterpunch.org/2025/03/28/mr-block-and-franklin-rosemont/) (CounterPunch)
+
+- [Travelling overseas? You could be at risk of measles. Here’s how to ensure you’re protected](https://theconversation.com/travelling-overseas-you-could-be-at-risk-of-measles-heres-how-to-ensure-youre-protected-252802) (The Conversation Africa)
+
+- [The Consequences Of An RFK Jr. HHS Appointment Are Smacking Our Children In The Face](https://www.techdirt.com/2025/03/27/the-consequences-of-an-rfk-jr-hhs-appointment-are-smacking-our-children-in-the-face/) (Techdirt)
+
+- [Fear of measles has some Alberta parents taking precautions, seeking early vaccination for infants](https://www.cbc.ca/news/canada/edmonton/alberta-measles-mmr-vaccine-1.7494633) (CBC News)
+
+- [Two new measles cases reported in Alberta's central zone](https://www.cbc.ca/news/canada/calgary/two-measles-cases-central-1.7495366) (CBC News)
+
+- [Make measles and e coli great again](https://www.lawyersgunsmoneyblog.com/2025/03/make-measles-and-e-coli-great-again) (Lawyersgunsmoneyblog.com)
+
+- [Posts Make Unsupported Claims About Origin of Texas Measles Outbreak](https://www.factcheck.org/2025/03/posts-make-unsupported-claims-about-origin-of-texas-measles-outbreak/) (FactCheck.org)
+
+- [Texas Measles Outbreak Grows To 327](https://www.shtfplan.com/headline-news/texas-measles-outbreak-grows-to-327) (Shtfplan.com)
 
 - [Canada Is Fighting Biggest Measles Outbreak Since 2011](https://www.newser.com/story/366327/canada-is-fighting-biggest-measles-outbreak-since-2011.html) (Newser)
 
@@ -1893,6 +1935,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-13 (malaria)
 
+- [Global health chiefs urge EU to step up amid US funding cuts](https://www.politico.eu/article/global-health-chiefs-urge-eu-to-step-up-amid-us-funding-cuts/) (POLITICO.eu)
+
+- [Malaria prevalence dynamics and risk covariates among children under 5 in Ghana: insights from a Bayesian multilevel approach](https://bmjopen.bmj.com/content/15/3/e088910) (The BMJ)
+
 - [Voor het eerst wordt een malariavaccin beschikbaar in Mali, mede dankzij hun eigen onderzoekers](https://www.nrc.nl/nieuws/2025/03/27/voor-het-eerst-wordt-een-malariavaccin-beschikbaar-in-mali-mede-dankzij-hun-eigen-onderzoekers-a4887652) (Www.nrc.nl)
 
 - [Drug turns human blood into poison for mosquitoes](https://www.futurity.org/drug-makes-human-blood-deadly-to-mosquitoes-3274842/) (Futurity: Research News)
@@ -1944,6 +1990,8 @@ Source: [News API](https://newsapi.org/)
 - [HPAI Bird Flu Continues Its Spread To Mammals](https://www.shtfplan.com/headline-news/hpai-bird-flu-continues-its-spread-to-mammals) (Shtfplan.com)
 
 ## 25-13 (h5n1)
+
+- [山东爆发23种病6万人染疫 “人禽流感”正大面积传播？(图)](https://www.secretchina.com/news/gb/2025/03/28/1079800.html) (Secretchina.com)
 
 - [A prevention plan for avoiding a bird flu epidemic](https://scopeblog.stanford.edu/2025/03/27/bird-flu-epidemic-poultry-prevention/) (Stanford.edu)
 
@@ -2032,6 +2080,14 @@ Source: [News API](https://newsapi.org/)
 - [Ein Jahr H5N1 in US-Milchkühen: "Wir kennen das Ausmaß des Vogelgrippe-Ausbruchs nicht"](https://www.n-tv.de/wissen/Wir-kennen-das-Ausmass-des-Vogelgrippe-Ausbruchs-nicht-article25636621.html) (N-tv.de)
 
 ## 25-13 (dengue)
+
+- [Reportan más de 2 mil 400 casos de dengue en México; 6 personas han muerto](https://www.milenio.com/ciencia-y-salud/cuantos-casos-de-dengue-hay-en-mexico) (Milenio)
+
+- [México suma 2 mil 432 casos de dengue y seis muertes](https://www.excelsior.com.mx/nacional/dengue-sintomas-mexico-suma-2-mil-432-casos/1707485) (Excelsior.com.mx)
+
+- [Vacina da dengue: quem pode tomar e quais planos de saúde cobrem?](https://www.infomoney.com.br/saude/vacina-da-dengue-quem-pode-tomar-e-quais-planos-de-saude-cobrem/) (InfoMoney)
+
+- [Tudo sobre a vacina da dengue](https://www.terra.com.br/vida-e-estilo/saude/tudo-sobre-a-vacina-da-dengue,2d848047b05f0401d8261b52fb166814uj5nx75r.html) (Terra.com.br)
 
 - [Zona sul de São Paulo lidera casos de dengue na cidade](https://ultimosegundo.ig.com.br/parceiros/espaco-do-povo/2025-03-27/zona-sul-de-sao-paulo-lidera-casos-de-dengue-na-cidade.html) (Ig.com.br)
 
