@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 13
-- **Last harvest:** 2025-03-30 07:06
-- **Most recent article:** 2025-03-29 03:00:49
+- **New articles in last harvest:** 4
+- **Last harvest:** 2025-03-30 19:05
+- **Most recent article:** 2025-03-29 18:00:00
 
 ---
 
@@ -12,10 +12,10 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-10 | 25-11 | 25-12 | 25-13 | 25-8 | 25-9 | Total |
 |--|-|-|-|-|-|-|-|
-| measles | 142 | 133 | 108 | 89 | 81 | 162 | 715 |
-| h5n1 | 23 | 39 | 57 | 46 | 51 | 42 | 258 |
-| dengue | 8 | 12 | 18 | 20 | 56 | 30 | 144 |
-| malaria | 29 | 22 | 18 | 30 | 7 | 20 | 126 |
+| measles | 142 | 133 | 108 | 92 | 79 | 162 | 716 |
+| h5n1 | 23 | 39 | 57 | 47 | 49 | 42 | 257 |
+| dengue | 8 | 12 | 18 | 20 | 55 | 30 | 143 |
+| malaria | 29 | 22 | 18 | 30 | 6 | 20 | 125 |
 | mpox | 14 | 15 | 8 | 12 | 15 | 26 | 90 |
 | meningitis | 4 | 9 | 7 | 10 | 10 | 7 | 47 |
 | chikungunya | 6 | 1 | 17 | 10 | 3 | 7 | 44 |
@@ -921,10 +921,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles outbreak in Texas raises concerns](https://www.cbsnews.com/video/measles-outbreak-in-texas-raises-concerns/) (CBS News)
 
-- [Texas Measles outbreak: How to stay safe from this infectious disease](https://timesofindia.indiatimes.com/etimes/trending/texas-measles-outbreak-how-to-stay-safe-from-this-infectious-disease/articleshow/118308735.cms) (The Times of India)
-
-- [Robert F. Kennedy Jr., measles and an alarming disregard for science, evidence, public health, welfare and common sense](https://edzardernst.com/2025/02/robert-f-kennedy-jr-measles-and-an-alarming-disregard-for-science-evidence-public-health-welfare-and-common-sense/) (Edzardernst.com)
-
 ## 25-8 (malaria)
 
 - [À Anvers, on manipule les moustiques génétiquement, pour lutter contre malaria](https://www.lavenir.net/actu/societe/2025/02/22/a-anvers-on-manipule-les-moustiques-genetiquement-pour-lutter-contre-malaria-7LMRSY6K5JDPJN3TQVCFZGRIAY/) (Lavenir.net)
@@ -938,8 +934,6 @@ Source: [News API](https://newsapi.org/)
 - [On the Medical Front, a 'Very Urgent' Need for Oxygen](https://www.newser.com/story/364454/on-the-medical-front-a-very-urgent-need-for-oxygen.html) (Newser)
 
 - [Potential new target for malaria discovered](https://www.nih.gov/news-events/nih-research-matters/potential-new-target-malaria-discovered) (National Institutes of Health)
-
-- [Africa's progress against malaria in "jeopardy" amid need for renewed commitments: officials](https://www.thestar.com.my/news/world/2025/02/17/africa039s-progress-against-malaria-in-jeopardy-amid-need-for-renewed-commitments-officials) (The Star Online)
 
 ## 25-8 (leptospirosis)
 
@@ -1059,10 +1053,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Grippe aviaire : face à l’aggravation de l’épizootie, les Etats-Unis vont importer des œufs turcs](https://www.lemonde.fr/economie/article/2025/02/16/grippe-aviaire-face-a-l-aggravation-de-l-epizootie-les-etats-unis-vont-importer-des-ufs-turcs_6549975_3234.html) (Le Monde)
 
-- [Fågelinfluensan fortsätter spridas – ägg ransoneras i USA](https://www.expressen.se/nyheter/varlden/fagelinfluensan-fortsatter-spridas-agg-ransoneras-i-usa/) (Expressen.se)
-
-- [Vogelgrippe in den USA: Eine einzige Mutation könnte die nächste Pandemie auslösen](https://taz.de/Vogelgrippe-in-den-USA/!6066694/) (taz.de)
-
 ## 25-8 (dengue)
 
 - [Za pět komárů 41 haléřů. Filipínci vypsali odměnu na moskyty přenášející horečku dengue](https://www.novinky.cz/clanek/koktejl-za-pet-komaru-41-haleru-filipinci-vypsali-odmenu-na-moskyty-prenasejici-horecku-dengue-40510089) (Novinky.cz)
@@ -1174,8 +1164,6 @@ Source: [News API](https://newsapi.org/)
 - [SP vai decretar emergência para dengue esta semana, diz secretário](https://www.metropoles.com/sao-paulo/sp-emergencia-dengue-esta-semana) (Metropoles.com)
 
 - ["The White Lotus": 3e saison semée d’embûches](https://www.lavenir.net/culture/2025/02/17/the-white-lotus-3e-saison-semee-dembuches-KVSIEUWV6BEZVEIDW4ZOKTTX6M/) (Lavenir.net)
-
-- [Casa livre de mosquitos: medidas para eliminar o Aedes aegypti](https://casa.abril.com.br/minha-casa/casa-livre-de-mosquitos-medidas-para-eliminar-o-aedes-aegypti) (Abril.com.br)
 
 ## 25-8 (chikungunya)
 
@@ -1294,6 +1282,12 @@ Source: [News API](https://newsapi.org/)
 - [Kebbi urges calm as meningitis kills six university students](https://punchng.com/kebbi-urges-calm-as-meningitis-kills-six-university-students/) (The Punch)
 
 ## 25-13 (measles)
+
+- [Texas Measles Outbreak Hits 400 Cases](https://www.huffpost.com/entry/texas-measles-outbreak-hits-400-cases_n_67e80e69e4b051cf99eaad34) (HuffPost)
+
+- [Links 3/29/2025](https://www.nakedcapitalism.com/2025/03/links-3-29-2025.html) (Nakedcapitalism.com)
+
+- [What should you do if you think you have the measles?](https://www.nbcnews.com/health/kids-health/measles-what-to-do-if-you-think-you-have-it-rcna198596) (NBC News)
 
 - [RFK Jr. forces out Peter Marks, FDA's top vaccine scientist (Dan Diamond/Washington Post)](https://www.memeorandum.com/250328/p154) (Memeorandum.com)
 
@@ -1542,6 +1536,8 @@ Source: [News API](https://newsapi.org/)
 - [HPAI Bird Flu Continues Its Spread To Mammals](https://www.shtfplan.com/headline-news/hpai-bird-flu-continues-its-spread-to-mammals) (Shtfplan.com)
 
 ## 25-13 (h5n1)
+
+- [Bird flu is ravaging egg supply, but a deadlier strain is coming from overseas](https://www.abc.net.au/news/2025-03-30/next-pandemic-risk-h5n1-2-3-4-4b-bird-flu-avian-influenza/105104736) (ABC News (AU))
 
 - [Ostereier in Gefahr? Geflügelpest im Kemberg ausgebrochen – 28.000 Tiere möglicherweise betroffen.](https://hallespektrum.de/aktuelles/ostereier-in-gefahr-gefluegelpest-im-kemberg-ausgebrochen-28-000-tiere-moeglicherweise-betroffen/470153/) (Hallespektrum.de)
 
