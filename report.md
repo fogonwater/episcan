@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 4
-- **Last harvest:** 2025-03-30 19:05
-- **Most recent article:** 2025-03-29 18:00:00
+- **New articles in last harvest:** 2
+- **Last harvest:** 2025-03-31 07:07
+- **Most recent article:** 2025-03-29 20:27:29
 
 ---
 
@@ -12,10 +12,10 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-10 | 25-11 | 25-12 | 25-13 | 25-8 | 25-9 | Total |
 |--|-|-|-|-|-|-|-|
-| measles | 142 | 133 | 108 | 92 | 79 | 162 | 716 |
-| h5n1 | 23 | 39 | 57 | 47 | 49 | 42 | 257 |
-| dengue | 8 | 12 | 18 | 20 | 55 | 30 | 143 |
-| malaria | 29 | 22 | 18 | 30 | 6 | 20 | 125 |
+| measles | 142 | 133 | 108 | 94 | 81 | 162 | 720 |
+| h5n1 | 23 | 39 | 57 | 47 | 51 | 42 | 259 |
+| dengue | 8 | 12 | 18 | 20 | 56 | 30 | 144 |
+| malaria | 29 | 22 | 18 | 30 | 7 | 20 | 126 |
 | mpox | 14 | 15 | 8 | 12 | 15 | 26 | 90 |
 | meningitis | 4 | 9 | 7 | 10 | 10 | 7 | 47 |
 | chikungunya | 6 | 1 | 17 | 10 | 3 | 7 | 44 |
@@ -921,6 +921,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles outbreak in Texas raises concerns](https://www.cbsnews.com/video/measles-outbreak-in-texas-raises-concerns/) (CBS News)
 
+- [Texas Measles outbreak: How to stay safe from this infectious disease](https://timesofindia.indiatimes.com/etimes/trending/texas-measles-outbreak-how-to-stay-safe-from-this-infectious-disease/articleshow/118308735.cms) (The Times of India)
+
+- [Robert F. Kennedy Jr., measles and an alarming disregard for science, evidence, public health, welfare and common sense](https://edzardernst.com/2025/02/robert-f-kennedy-jr-measles-and-an-alarming-disregard-for-science-evidence-public-health-welfare-and-common-sense/) (Edzardernst.com)
+
 ## 25-8 (malaria)
 
 - [À Anvers, on manipule les moustiques génétiquement, pour lutter contre malaria](https://www.lavenir.net/actu/societe/2025/02/22/a-anvers-on-manipule-les-moustiques-genetiquement-pour-lutter-contre-malaria-7LMRSY6K5JDPJN3TQVCFZGRIAY/) (Lavenir.net)
@@ -934,6 +938,8 @@ Source: [News API](https://newsapi.org/)
 - [On the Medical Front, a 'Very Urgent' Need for Oxygen](https://www.newser.com/story/364454/on-the-medical-front-a-very-urgent-need-for-oxygen.html) (Newser)
 
 - [Potential new target for malaria discovered](https://www.nih.gov/news-events/nih-research-matters/potential-new-target-malaria-discovered) (National Institutes of Health)
+
+- [Africa's progress against malaria in "jeopardy" amid need for renewed commitments: officials](https://www.thestar.com.my/news/world/2025/02/17/africa039s-progress-against-malaria-in-jeopardy-amid-need-for-renewed-commitments-officials) (The Star Online)
 
 ## 25-8 (leptospirosis)
 
@@ -1053,6 +1059,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Grippe aviaire : face à l’aggravation de l’épizootie, les Etats-Unis vont importer des œufs turcs](https://www.lemonde.fr/economie/article/2025/02/16/grippe-aviaire-face-a-l-aggravation-de-l-epizootie-les-etats-unis-vont-importer-des-ufs-turcs_6549975_3234.html) (Le Monde)
 
+- [Fågelinfluensan fortsätter spridas – ägg ransoneras i USA](https://www.expressen.se/nyheter/varlden/fagelinfluensan-fortsatter-spridas-agg-ransoneras-i-usa/) (Expressen.se)
+
+- [Vogelgrippe in den USA: Eine einzige Mutation könnte die nächste Pandemie auslösen](https://taz.de/Vogelgrippe-in-den-USA/!6066694/) (taz.de)
+
 ## 25-8 (dengue)
 
 - [Za pět komárů 41 haléřů. Filipínci vypsali odměnu na moskyty přenášející horečku dengue](https://www.novinky.cz/clanek/koktejl-za-pet-komaru-41-haleru-filipinci-vypsali-odmenu-na-moskyty-prenasejici-horecku-dengue-40510089) (Novinky.cz)
@@ -1164,6 +1174,8 @@ Source: [News API](https://newsapi.org/)
 - [SP vai decretar emergência para dengue esta semana, diz secretário](https://www.metropoles.com/sao-paulo/sp-emergencia-dengue-esta-semana) (Metropoles.com)
 
 - ["The White Lotus": 3e saison semée d’embûches](https://www.lavenir.net/culture/2025/02/17/the-white-lotus-3e-saison-semee-dembuches-KVSIEUWV6BEZVEIDW4ZOKTTX6M/) (Lavenir.net)
+
+- [Casa livre de mosquitos: medidas para eliminar o Aedes aegypti](https://casa.abril.com.br/minha-casa/casa-livre-de-mosquitos-medidas-para-eliminar-o-aedes-aegypti) (Abril.com.br)
 
 ## 25-8 (chikungunya)
 
@@ -1283,6 +1295,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-13 (measles)
 
+- [FDA’s Top Vaccine Official, Dr. Peter Marks, Resigns, Claims ‘Truth And Transparency Are Not Desired By The Secretary’](https://dailycaller.com/2025/03/29/peter-marks-food-drug-administration-vaccines-resigns-robert-f-kennedy-jr/) (The Daily Caller)
+
 - [Texas Measles Outbreak Hits 400 Cases](https://www.huffpost.com/entry/texas-measles-outbreak-hits-400-cases_n_67e80e69e4b051cf99eaad34) (HuffPost)
 
 - [Links 3/29/2025](https://www.nakedcapitalism.com/2025/03/links-3-29-2025.html) (Nakedcapitalism.com)
@@ -1310,6 +1324,8 @@ Source: [News API](https://newsapi.org/)
 - [Measles Outbreak: National Cases Near 500 As Illness Continues Spreading In Texas](https://www.forbes.com/sites/antoniopequenoiv/2025/03/28/measles-outbreak-cases-near-330-in-texas-as-illness-reported-in-washington-dc/) (Forbes)
 
 - [New Measles Outbreaks Confirmed in The US. Do You Need an MMR Booster to Keep Yourself Safe?](https://www.cnet.com/health/medical/new-measles-outbreaks-confirmed-in-the-us-do-you-need-an-mmr-booster/) (CNET)
+
+- [U.S. measles cases climb to nearly 500 in 2025](https://www.thestar.com.my/news/world/2025/03/29/us-measles-cases-climb-to-nearly-500-in-2025) (The Star Online)
 
 - [Texas docs blow off RFK Jr's measles cure as kids who take it show 'signs of liver damage'](https://www.rawstory.com/rfk-jr-measles-2671627014/) (Raw Story)
 
