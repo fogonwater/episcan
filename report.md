@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 2
-- **Last harvest:** 2025-03-31 07:07
-- **Most recent article:** 2025-03-29 20:27:29
+- **New articles in last harvest:** 5
+- **Last harvest:** 2025-03-31 19:05
+- **Most recent article:** 2025-03-30 17:05:00
 
 ---
 
@@ -10,23 +10,23 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 25-10 | 25-11 | 25-12 | 25-13 | 25-8 | 25-9 | Total |
-|--|-|-|-|-|-|-|-|
-| measles | 142 | 133 | 108 | 94 | 81 | 162 | 720 |
-| h5n1 | 23 | 39 | 57 | 47 | 51 | 42 | 259 |
-| dengue | 8 | 12 | 18 | 20 | 56 | 30 | 144 |
-| malaria | 29 | 22 | 18 | 30 | 7 | 20 | 126 |
-| mpox | 14 | 15 | 8 | 12 | 15 | 26 | 90 |
-| meningitis | 4 | 9 | 7 | 10 | 10 | 7 | 47 |
-| chikungunya | 6 | 1 | 17 | 10 | 3 | 7 | 44 |
-| rabies | 3 | 8 | 3 | 19 | 4 | 2 | 39 |
-| hpai | 10 | 3 | 12 | 2 | 5 | 4 | 36 |
-| zika | 3 | 0 | 2 | 3 | 6 | 2 | 16 |
-| typhoid | 3 | 8 | 0 | 1 | 0 | 4 | 16 |
-| yersinia | 1 | 2 | 2 | 3 | 0 | 2 | 10 |
-| pertussis | 0 | 5 | 1 | 0 | 2 | 0 | 8 |
-| leptospirosis | 3 | 0 | 1 | 0 | 2 | 0 | 6 |
-| shigellosis | 3 | 0 | 0 | 0 | 0 | 1 | 4 |
+| Disease | 25-10 | 25-11 | 25-12 | 25-13 | 25-14 | 25-8 | 25-9 | Total |
+|--|-|-|-|-|-|-|-|-|
+| measles | 142 | 133 | 108 | 94 | 5 | 79 | 162 | 723 |
+| h5n1 | 23 | 39 | 57 | 47 | 0 | 49 | 42 | 257 |
+| dengue | 8 | 12 | 18 | 20 | 0 | 55 | 30 | 143 |
+| malaria | 29 | 22 | 18 | 30 | 0 | 6 | 20 | 125 |
+| mpox | 14 | 15 | 8 | 12 | 0 | 15 | 26 | 90 |
+| meningitis | 4 | 9 | 7 | 10 | 0 | 10 | 7 | 47 |
+| chikungunya | 6 | 1 | 17 | 10 | 0 | 3 | 7 | 44 |
+| rabies | 3 | 8 | 3 | 19 | 0 | 4 | 2 | 39 |
+| hpai | 10 | 3 | 12 | 2 | 0 | 5 | 4 | 36 |
+| zika | 3 | 0 | 2 | 3 | 0 | 6 | 2 | 16 |
+| typhoid | 3 | 8 | 0 | 1 | 0 | 0 | 4 | 16 |
+| yersinia | 1 | 2 | 2 | 3 | 0 | 0 | 2 | 10 |
+| pertussis | 0 | 5 | 1 | 0 | 0 | 2 | 0 | 8 |
+| leptospirosis | 3 | 0 | 1 | 0 | 0 | 2 | 0 | 6 |
+| shigellosis | 3 | 0 | 0 | 0 | 0 | 0 | 1 | 4 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -921,10 +921,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles outbreak in Texas raises concerns](https://www.cbsnews.com/video/measles-outbreak-in-texas-raises-concerns/) (CBS News)
 
-- [Texas Measles outbreak: How to stay safe from this infectious disease](https://timesofindia.indiatimes.com/etimes/trending/texas-measles-outbreak-how-to-stay-safe-from-this-infectious-disease/articleshow/118308735.cms) (The Times of India)
-
-- [Robert F. Kennedy Jr., measles and an alarming disregard for science, evidence, public health, welfare and common sense](https://edzardernst.com/2025/02/robert-f-kennedy-jr-measles-and-an-alarming-disregard-for-science-evidence-public-health-welfare-and-common-sense/) (Edzardernst.com)
-
 ## 25-8 (malaria)
 
 - [À Anvers, on manipule les moustiques génétiquement, pour lutter contre malaria](https://www.lavenir.net/actu/societe/2025/02/22/a-anvers-on-manipule-les-moustiques-genetiquement-pour-lutter-contre-malaria-7LMRSY6K5JDPJN3TQVCFZGRIAY/) (Lavenir.net)
@@ -938,8 +934,6 @@ Source: [News API](https://newsapi.org/)
 - [On the Medical Front, a 'Very Urgent' Need for Oxygen](https://www.newser.com/story/364454/on-the-medical-front-a-very-urgent-need-for-oxygen.html) (Newser)
 
 - [Potential new target for malaria discovered](https://www.nih.gov/news-events/nih-research-matters/potential-new-target-malaria-discovered) (National Institutes of Health)
-
-- [Africa's progress against malaria in "jeopardy" amid need for renewed commitments: officials](https://www.thestar.com.my/news/world/2025/02/17/africa039s-progress-against-malaria-in-jeopardy-amid-need-for-renewed-commitments-officials) (The Star Online)
 
 ## 25-8 (leptospirosis)
 
@@ -1059,10 +1053,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Grippe aviaire : face à l’aggravation de l’épizootie, les Etats-Unis vont importer des œufs turcs](https://www.lemonde.fr/economie/article/2025/02/16/grippe-aviaire-face-a-l-aggravation-de-l-epizootie-les-etats-unis-vont-importer-des-ufs-turcs_6549975_3234.html) (Le Monde)
 
-- [Fågelinfluensan fortsätter spridas – ägg ransoneras i USA](https://www.expressen.se/nyheter/varlden/fagelinfluensan-fortsatter-spridas-agg-ransoneras-i-usa/) (Expressen.se)
-
-- [Vogelgrippe in den USA: Eine einzige Mutation könnte die nächste Pandemie auslösen](https://taz.de/Vogelgrippe-in-den-USA/!6066694/) (taz.de)
-
 ## 25-8 (dengue)
 
 - [Za pět komárů 41 haléřů. Filipínci vypsali odměnu na moskyty přenášející horečku dengue](https://www.novinky.cz/clanek/koktejl-za-pet-komaru-41-haleru-filipinci-vypsali-odmenu-na-moskyty-prenasejici-horecku-dengue-40510089) (Novinky.cz)
@@ -1175,8 +1165,6 @@ Source: [News API](https://newsapi.org/)
 
 - ["The White Lotus": 3e saison semée d’embûches](https://www.lavenir.net/culture/2025/02/17/the-white-lotus-3e-saison-semee-dembuches-KVSIEUWV6BEZVEIDW4ZOKTTX6M/) (Lavenir.net)
 
-- [Casa livre de mosquitos: medidas para eliminar o Aedes aegypti](https://casa.abril.com.br/minha-casa/casa-livre-de-mosquitos-medidas-para-eliminar-o-aedes-aegypti) (Abril.com.br)
-
 ## 25-8 (chikungunya)
 
 - [Level 2 - Chikungunya in Réunion](https://wwwnc.cdc.gov/travel/notices/level2/chikungunya-reunion) (Cdc.gov)
@@ -1184,6 +1172,18 @@ Source: [News API](https://newsapi.org/)
 - [Com mais de 110 mortes, São Paulo decreta emergência por dengue em todo o estado](https://veja.abril.com.br/saude/com-mais-de-100-mortes-sao-paulo-decreta-emergencia-por-dengue-em-todo-o-estado) (Abril.com.br)
 
 - [UK’s MHRA Grants Marketing Authorization for Chikungunya Vaccine](https://www.jdsupra.com/legalnews/uk-s-mhra-grants-marketing-7155248/) (JD Supra)
+
+## 25-14 (measles)
+
+- ['This is all wholly preventable,' former Covid chief says of measles outbreak (Gregory Svirnovskiy/Politico)](https://www.memeorandum.com/250330/p40) (Memeorandum.com)
+
+- [CDC Downplays Importance of Vaccines, Reflecting Malign Influence of RFK Jr.](https://dianeravitch.net/2025/03/30/cdc-downplays-importance-of-vaccines-reflecting-influence-of-rfk-jr/) (Dianeravitch.net)
+
+- [As measles cases rise, some parents become vaccine enthusiasts](https://www.npr.org/sections/shots-health-news/2025/03/30/nx-s1-5343997/measles-vaccine-hesitancy-enthusiasm-outbreaks) (NPR)
+
+- [Measles Outbreak Worsens in Texas and New Mexico](https://politicalwire.com/2025/03/30/measles-outbreak-worsens-in-texas-and-new-mexico/) (Politicalwire.com)
+
+- [Health officials on high alert, but no reports of measles so far after March break in N.S.](https://www.cbc.ca/news/canada/nova-scotia/nova-scotia-health-prepared-to-respond-to-measles-1.7492972) (CBC News)
 
 ## 25-13 (zika)
 

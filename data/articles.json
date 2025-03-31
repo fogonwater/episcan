@@ -1,8 +1,98 @@
 {
-  "last_updated": "2025-03-31 07:07",
-  "count_articles_total": 1529,
-  "count_articles_new": 2,
+  "last_updated": "2025-03-31 19:05",
+  "count_articles_total": 1528,
+  "count_articles_new": 5,
   "articles": [
+    {
+      "id": 19846,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "'This is all wholly preventable,' former Covid chief says of measles outbreak (Gregory Svirnovskiy/Politico)",
+      "description": "Gregory Svirnovskiy / Politico: \u2018This is all wholly preventable,\u2019 former Covid chief says of measles outbreak \u2014 Ashish Jha blames Robert F. Kennedy Jr. \u2014 Former White House Covid-19 response coordinator Ashish Jha on Sunday laid the blame for an ongoing m\u2026",
+      "url": "https://www.memeorandum.com/250330/p40",
+      "urlToImage": "https://static.politico.com/a4/59/9b211e3642fc8950ab49937d0db1/https-delivery-gettyimages.com/downloads/2204721131",
+      "publishedAt": "2025-03-30 17:05:00",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-03-31 19:05:49.218453",
+      "internal_id": "07d8100c6253989d774df76ccaa3230f4376de2fff5812ead86858d210037b3a",
+      "publishedAtLabel": "Mar 30"
+    },
+    {
+      "id": 19847,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Dianeravitch.net",
+      "author": "dianeravitch",
+      "title": "CDC Downplays Importance of Vaccines, Reflecting Malign Influence of RFK Jr.",
+      "description": "ProPublica reported that the Centers for Disease Control (CDC) recently watered down its advice about how to respond to the danger of measles. Pre-Trump and RFK Jr., the CDC was quick to warn the public about the importance of getting vaccinated, especially w\u2026",
+      "url": "https://dianeravitch.net/2025/03/30/cdc-downplays-importance-of-vaccines-reflecting-influence-of-rfk-jr/",
+      "urlToImage": "https://dianeravitch.net/wp-content/uploads/2017/12/diane.jpg?w=200",
+      "publishedAt": "2025-03-30 13:00:00",
+      "content": "ProPublica reported that the Centers for Disease Control (CDC) recently watered down its advice about how to respond to the danger of measles. Pre-Trump and RFK Jr., the CDC was quick to warn the pub\u2026 [+3275 chars]",
+      "retrievedAt": "2025-03-31 19:05:49.251385",
+      "internal_id": "d5e3e587ccc2a08bda04b8900aa2eb2ae40b45ed7bd3dbaa70e9b8cc362d7e72",
+      "publishedAtLabel": "Mar 30"
+    },
+    {
+      "id": 19849,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Maria Godoy",
+      "title": "As measles cases rise, some parents become vaccine enthusiasts",
+      "description": "Vaccine hesitancy has been growing in the U.S. in recent years. But as Texas measles cases rise and other states report outbreaks too, some parents want their kids to get their shots early.",
+      "url": "https://www.npr.org/sections/shots-health-news/2025/03/30/nx-s1-5343997/measles-vaccine-hesitancy-enthusiasm-outbreaks",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2124x1195+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb4%2F10%2Fb326a9f7491eb2f3f25a5114a5a3%2Fgettyimages-1317577867.jpg",
+      "publishedAt": "2025-03-30 11:00:00",
+      "content": "As a measles outbreak in West Texas and New Mexico continues to grow, and other states report outbreaks of their own, some pediatricians across the U.S. say they are seeing a new trend among concerne\u2026 [+5064 chars]",
+      "retrievedAt": "2025-03-31 19:05:49.275347",
+      "internal_id": "72bdbca0183f415d7a564f2cf799b50b496f01c9ab415d467fe1f2d22b240ff7",
+      "publishedAtLabel": "Mar 30"
+    },
+    {
+      "id": 19848,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Politicalwire.com",
+      "author": "Taegan Goddard",
+      "title": "Measles Outbreak Worsens in Texas and New Mexico",
+      "description": "\u201cTexas and New Mexico health departments said on Friday that the number of measles cases in their states rose 20% since their last reports three days ago, as experts warn they expect the outbreak to",
+      "url": "https://politicalwire.com/2025/03/30/measles-outbreak-worsens-in-texas-and-new-mexico/",
+      "urlToImage": "https://politicalwire.com/wp-content/uploads/2018/02/PW-podcast-logo.jpg",
+      "publishedAt": "2025-03-30 10:26:00",
+      "content": "\u201cThere are a lot of blogs and news sites claiming to understand politics, but only a few actually do. Political Wire is one of them.\u201d Chuck Todd, host of \u201cMeet the Press\u201d \u201cConcise. Relevant. To th\u2026 [+594 chars]",
+      "retrievedAt": "2025-03-31 19:05:49.259886",
+      "internal_id": "ee0cf3a8547cd321971c27bd556975d6f144b65c25e83062bf1bd6c788a90d14",
+      "publishedAtLabel": "Mar 30"
+    },
+    {
+      "id": 19850,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Health officials on high alert, but no reports of measles so far after March break in N.S.",
+      "description": "While health officials anticipated seeing cases after the weeklong holiday, there were still no cases of the illness in Nova Scotia as of March 25.",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/nova-scotia-health-prepared-to-respond-to-measles-1.7492972",
+      "urlToImage": "https://i.cbc.ca/1.5343106.1708113693!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/measles-virus.jpg?im=Resize%3D620",
+      "publishedAt": "2025-03-30 09:00:00",
+      "content": "Two weeks after March break, Nova Scotia's health authority says there still hasn't been any sign of measles in the province in 2025. Health officials had anticipated cases of the highly contagious \u2026 [+3066 chars]",
+      "retrievedAt": "2025-03-31 19:05:49.371851",
+      "internal_id": "41aa68a35ccfd7cffb076f59b7d97bd5445cef997bedc42d51cbb0acd34b278c",
+      "publishedAtLabel": "Mar 30"
+    },
     {
       "id": 19844,
       "query": [
@@ -27451,114 +27541,6 @@
       "content": "Dans un restaurant \u00e0 San Rafael (Californie, Etats-Unis), le 13 f\u00e9vrier 2025. JUSTIN SULLIVAN / GETTY IMAGES VIA AFP P\u00e9nurie dufs dans les magasins, flamb\u00e9e des prix : les cons\u00e9quences de l\u00e9pizootie\u2026 [+1292 chars]",
       "retrievedAt": "2025-02-18 07:06:38.668056",
       "internal_id": "5a267424fa672d8673dfeaa5e445803147d31a4edcb7e07fd60e1a9d1036433f",
-      "publishedAtLabel": "Feb 16"
-    },
-    {
-      "id": 18313,
-      "query": [
-        "measles"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "TOI Trending Desk",
-      "title": "Texas Measles outbreak: How to stay safe from this infectious disease",
-      "description": "Measles, a highly contagious virus, is making a comeback in the U.S., particularly in states like Texas due to lower vaccination rates and international travel. Symptoms include fever, red eyes, and a telltale rash. Vaccination remains the best protection, an\u2026",
-      "url": "https://timesofindia.indiatimes.com/etimes/trending/texas-measles-outbreak-how-to-stay-safe-from-this-infectious-disease/articleshow/118308735.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-118309022,width-1070,height-580,imgsize-1206621,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2025-02-16 18:36:01",
-      "content": "10 most beautiful images captured by NASA's James Webb Telescope",
-      "retrievedAt": "2025-02-17 19:05:51.942009",
-      "internal_id": "3bd865c81e8aeb3c04b059c06ecb2ca0bc239595f6f856cedc1e6a61d9bf8d3c",
-      "publishedAtLabel": "Feb 16"
-    },
-    {
-      "id": 18316,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Expressen.se",
-      "author": "linette.israelsson@expressen.se (Linette Israelsson)",
-      "title": "F\u00e5gelinfluensan forts\u00e4tter spridas \u2013 \u00e4gg ransoneras i USA",
-      "description": "F\u00e5gelinfluensan forts\u00e4tter att sprida sig i USA. Nu har flera livsmedelskedjor inf\u00f6rt begr\u00e4nsningar f\u00f6r hur m\u00e5nga \u00e4gg kunderna f\u00e5r k\u00f6pa. Samtidigt anklagas Trumps politik f\u00f6r att f\u00f6rv\u00e4rra situationen.",
-      "url": "https://www.expressen.se/nyheter/varlden/fagelinfluensan-fortsatter-spridas-agg-ransoneras-i-usa/",
-      "urlToImage": "https://static.bonniernews.se/images/e9/4b/e94b3556d71c463e8b0ff5a9633a1710/16x9/original.png",
-      "publishedAt": "2025-02-16 17:26:39",
-      "content": "Det var f\u00f6r drygt ett \u00e5r sen som forskare uppt\u00e4ckte att mj\u00f6lkkor i USA hade infekterats med f\u00e5gelinfluensaviruset H5N1. Sen dess har utbrottet v\u00e4xt. Nyligen stod det ocks\u00e5 klart att mj\u00f6lkkor i den \u2026 [+2430 chars]",
-      "retrievedAt": "2025-02-17 19:05:52.725744",
-      "internal_id": "0ca72e98da56a716b4213bf3a29374df12d086f2ed9575b19d6e97f39663bf03",
-      "publishedAtLabel": "Feb 16"
-    },
-    {
-      "id": 18318,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "Liu Fangqiang, Habtamu",
-      "title": "Africa's progress against malaria in \"jeopardy\" amid need for renewed commitments: officials",
-      "description": "ADDIS ABABA, Feb. 16 (Xinhua) -- Officials and experts on Sunday called for renewed commitments in Africa\\'s fight against malaria, as they warned that the continent\\'s progress against malaria is \\\"in jeopardy\\\" due to a combination of natural and man-made c\u2026",
-      "url": "https://www.thestar.com.my/news/world/2025/02/17/africa039s-progress-against-malaria-in-jeopardy-amid-need-for-renewed-commitments-officials",
-      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
-      "publishedAt": "2025-02-16 16:18:00",
-      "content": "ADDIS ABABA, Feb. 16 (Xinhua) -- Officials and experts on Sunday called for renewed commitments in Africa's fight against malaria, as they warned that the continent's progress against malaria is \"in \u2026 [+2688 chars]",
-      "retrievedAt": "2025-02-17 19:05:53.920517",
-      "internal_id": "a935437ff818f457cf2def9ef270a0dbf665671f283c8e4b2a233886f9c2a702",
-      "publishedAtLabel": "Feb 16"
-    },
-    {
-      "id": 18317,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Abril.com.br",
-      "author": "Da Reda\u00e7\u00e3o",
-      "title": "Casa livre de mosquitos: medidas para eliminar o Aedes aegypti",
-      "description": "Aprenda a identificar e eliminar os criadouros do mosquito da dengue em sua casa:",
-      "url": "https://casa.abril.com.br/minha-casa/casa-livre-de-mosquitos-medidas-para-eliminar-o-aedes-aegypti",
-      "urlToImage": "https://casa.abril.com.br/wp-content/uploads/2024/02/combate-a-dengue-dicas-de-manutencao-da-casa.jpg?quality=70&strip=info&crop=1&resize=1080,565",
-      "publishedAt": "2025-02-16 16:00:13",
-      "content": "Aprenda a identificar e eliminar os criadouros do mosquito da dengue em sua casa: Por Reda\u00e7\u00e3o 16 fev 2025, 13h00 (Divulga\u00e7\u00e3o Telhanorte/Casa.com.br) Continua ap\u00f3s publicidade Manter a casa li\u2026 [+2344 chars]",
-      "retrievedAt": "2025-02-17 19:05:53.222816",
-      "internal_id": "c92917f859612a6f66904a00c326a066bf6247b2d0cad3b8ef896825bcec575b",
-      "publishedAtLabel": "Feb 16"
-    },
-    {
-      "id": 18315,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "taz.de",
-      "author": "Luisa Faust",
-      "title": "Vogelgrippe in den USA: Eine einzige Mutation k\u00f6nnte die n\u00e4chste Pandemie ausl\u00f6sen",
-      "description": "Weltweit breitet sich H5N1 in V\u00f6geln und Rindern aus. Viele \u00c4nderungen braucht es nicht, um auch Menschen zu gef\u00e4hrden, zeigt eine neue Studie.",
-      "url": "https://taz.de/Vogelgrippe-in-den-USA/!6066694/",
-      "urlToImage": "https://taz.de/picture/7524373/1200/Arbeit-in-einem-Geschaft-fur-Geflugel-1.jpeg",
-      "publishedAt": "2025-02-16 13:39:00",
-      "content": "Weltweit breitet sich H5N1 in V\u00f6geln und Rindern aus. Viele \u00c4nderungen braucht es nicht, um auch Menschen zu gef\u00e4hrden, zeigt eine neue Studie. mehr...",
-      "retrievedAt": "2025-02-17 19:05:52.693901",
-      "internal_id": "9e26bea511c92c6ea775b093250a1df5c2155f44c3a283143d4ec8e462c2ae10",
-      "publishedAtLabel": "Feb 16"
-    },
-    {
-      "id": 18314,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Edzardernst.com",
-      "author": "Edzard",
-      "title": "Robert F. Kennedy Jr., measles and an alarming disregard for science, evidence, public health, welfare and common sense",
-      "description": "Around the year 2000, we thought to have eradicated measles. But, thanks to quacks like Andrew Wakefield and charlatans like Robert F. Kennedy Jr., measles are back. The latest measles case count in Texas represents merely a fraction of the true number of inf\u2026",
-      "url": "https://edzardernst.com/2025/02/robert-f-kennedy-jr-measles-and-an-alarming-disregard-for-science-evidence-public-health-welfare-and-common-sense/",
-      "urlToImage": "https://edzardernst.com/wp-content/uploads/2012/10/card-073-Edzard-Ernst.png",
-      "publishedAt": "2025-02-16 09:56:18",
-      "content": "Around the year 2000, we thought to have eradicated measles. But, thanks to quacks like Andrew Wakefield and charlatans like Robert F. Kennedy Jr., measles are back. The latest measles case count in \u2026 [+2109 chars]",
-      "retrievedAt": "2025-02-17 19:05:52.003812",
-      "internal_id": "4cd0053f58646f36f5c22645caa15244d6d70267e4cf1a0a4a285b99dff088a2",
       "publishedAtLabel": "Feb 16"
     }
   ]
