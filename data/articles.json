@@ -1,8 +1,152 @@
 {
-  "last_updated": "2025-03-31 19:05",
-  "count_articles_total": 1528,
-  "count_articles_new": 5,
+  "last_updated": "2025-04-01 07:07",
+  "count_articles_total": 1547,
+  "count_articles_new": 13,
   "articles": [
+    {
+      "id": 19859,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Standard Digital",
+      "author": "Maryann Muganda",
+      "title": "Nature's secrets: What chimpanzees can teach us about fighting malaria",
+      "description": "Recent findings suggest that chimpanzees have evolved unique genetic mechanisms that help them resist malaria, offering potential new avenues for human treatment and prevention strategies.",
+      "url": "https://www.standardmedia.co.ke/health/health-science/article/2001515104/natures-secrets-what-chimpanzees-can-teach-us-about-fighting-malaria",
+      "urlToImage": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/4hbVh7pryuFNnngJQlulVf7XwAIGiGZ7FT7nMDC9.jpg",
+      "publishedAt": "2025-03-31 06:30:44",
+      "content": "Chimpanzees possess unique genetic mechanisms that help them combat malaria more effectively than humans. [Courtesy] Malaria, a disease that continues to claim millions of lives worldwide, has prove\u2026 [+5620 chars]",
+      "retrievedAt": "2025-04-01 07:07:29.859733",
+      "internal_id": "5eb0d90ec6d2c74ef368c7202c01c7550227d3d3bbc3d0e5987749ce28688f1a",
+      "publishedAtLabel": "Mar 31"
+    },
+    {
+      "id": 19858,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Week Magazine",
+      "author": "theweekonlineeditors@futurenet.com (Devika Rao, The Week US)",
+      "title": "Scientists want to fight malaria by poisoning mosquitoes with human blood",
+      "description": "Drugging the bugs",
+      "url": "https://theweek.com/science/scientists-fight-malaria-kill-mosquitoes-nitisinone",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/h9YdiYYDKpd6krsBFLasBF-1200-80.jpg",
+      "publishedAt": "2025-03-31 06:00:20",
+      "content": "Scientists may have found a solution to stop the spread of malaria: poisoning mosquitoes with human blood. New research suggests that the mosquito-borne malady can be curbed by getting the insects to\u2026 [+3807 chars]",
+      "retrievedAt": "2025-04-01 07:07:29.822445",
+      "internal_id": "f22b8211cd6d1be3efcbd4321a29ed9f62f5d85917677576c2550e1b657f792c",
+      "publishedAtLabel": "Mar 31"
+    },
+    {
+      "id": 19857,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Jorge Agle",
+      "title": "Entenda quais s\u00e3o as diferen\u00e7as entre surto, epidemia e pandemia",
+      "description": "Surto, epidemia e pandemia s\u00e3o as formas de classifica\u00e7\u00e3o da prolifera\u00e7\u00e3o de doen\u00e7as transmiss\u00edveis, sendo a \u00faltima a com maior escala",
+      "url": "https://www.metropoles.com/saude/diferencas-surto-epidemia-pandemia",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/06/12091827/enfermeiras.jpg",
+      "publishedAt": "2025-03-31 05:00:31",
+      "content": "Surto de Ebola, epidemia de dengue e pandemia da Covid-19. Esses s\u00e3o alguns exemplos de situa\u00e7\u00f5es envolvendo doen\u00e7as transmiss\u00edveis que vivemos recentemente. Tais classifica\u00e7\u00f5es s\u00e3o feitas de acordo \u2026 [+3453 chars]",
+      "retrievedAt": "2025-04-01 07:07:29.364157",
+      "internal_id": "cfa0b162da366f4c3a343a5e2c2acd7c4b929020686fbae7085679ed2220b739",
+      "publishedAtLabel": "Mar 31"
+    },
+    {
+      "id": 19860,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "VALNEVA",
+      "title": "Valneva Submits Adolescent Label Extension Application for its Chikungunya Vaccine, IXCHIQ\u00ae, to UK MHRA",
+      "description": "Saint Herblain (France), March 31, 2025 \u2013 Valneva SE (Nasdaq: VALN; Euronext Paris: VLA), a specialty vaccine company, today announced that it has submitted a label extension application to the Medicines and Healthcare products Regulatory Agency (MHRA) of the\u2026",
+      "url": "https://www.globenewswire.com/news-release/2025/03/31/3051933/0/en/Valneva-Submits-Adolescent-Label-Extension-Application-for-its-Chikungunya-Vaccine-IXCHIQ-to-UK-MHRA.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/04f398df-96ac-4b7a-8544-2a2ce2495778",
+      "publishedAt": "2025-03-31 05:00:00",
+      "content": "Saint Herblain (France), March 31, 2025Valneva SE (Nasdaq: VALN; Euronext Paris: VLA), a specialty vaccine company, today announced that it has submitted a label extension application to the Medicine\u2026 [+11185 chars]",
+      "retrievedAt": "2025-04-01 07:07:30.157983",
+      "internal_id": "df9b1861421ec120c578ff9ff9f254272a305d8f69cdd7092287c5c72ddd2895",
+      "publishedAtLabel": "Mar 31"
+    },
+    {
+      "id": 19861,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "VALNEVA",
+      "title": "Valneva soumet \u00e0 la MHRA une demande d\u2019\u00e9largissement de l\u2019indication aux adolescents pour son vaccin contre le chikungunya IXCHIQ\u00ae",
+      "description": "Saint Herblain (France), le 31 mars 2025 \u2013 Valneva SE (Nasdaq: VALN; Euronext Paris: VLA), soci\u00e9t\u00e9 sp\u00e9cialis\u00e9e dans les vaccins, a annonc\u00e9 aujourd\u2019hui avoir soumis une demande d\u2019\u00e9largissement de l\u2019indication de son vaccin contre le chikungunya IXCHIQ\u00ae \u00e0 l\u2019age\u2026",
+      "url": "https://www.globenewswire.com/news-release/2025/03/31/3051933/0/fr/Valneva-soumet-%C3%A0-la-MHRA-une-demande-d-%C3%A9largissement-de-l-indication-aux-adolescents-pour-son-vaccin-contre-le-chikungunya-IXCHIQ.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/04f398df-96ac-4b7a-8544-2a2ce2495778",
+      "publishedAt": "2025-03-31 05:00:00",
+      "content": "Saint Herblain (France), le 31 mars 2025Valneva SE (Nasdaq: VALN; Euronext Paris: VLA), soci\u00e9t\u00e9 sp\u00e9cialis\u00e9e dans les vaccins, a annonc\u00e9 aujourdhui avoir soumis une demande d\u00e9largissement de lindicati\u2026 [+13011 chars]",
+      "retrievedAt": "2025-04-01 07:07:30.167753",
+      "internal_id": "45c6daeb7f13efce6c0de3adbea252846ecb7a1023a703bbeadba9da17509114",
+      "publishedAtLabel": "Mar 31"
+    },
+    {
+      "id": 19852,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "PBS",
+      "author": "PBS News Weekend",
+      "title": "News Wrap: Trump says he\u2019s \u2018not joking\u2019 about a third term as president",
+      "description": "In our news wrap Sunday, Trump said he is considering a third term despite the Constitution banning it, the growing Texas measles outbreak is sparking concern in Washington and putting a spotlight on RFK Jr., crews are fighting to contain wildfires in the Car\u2026",
+      "url": "https://www.pbs.org/newshour/show/news-wrap-trump-says-hes-not-joking-about-a-third-term-as-president",
+      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2025/03/newswrap-30-1024x683.jpg",
+      "publishedAt": "2025-03-30 21:45:16",
+      "content": "In our news wrap Sunday, Trump said he is considering a third term despite the Constitution banning it, the growing Texas measles outbreak is sparking concern in Washington and putting a spotlight on\u2026 [+180 chars]",
+      "retrievedAt": "2025-04-01 07:07:28.892907",
+      "internal_id": "7458c636740f0d363eed0ad91b15c29bd03bf4cd02ddb3bb75b464f4b5b2995c",
+      "publishedAtLabel": "Mar 30"
+    },
+    {
+      "id": 19863,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Sabah.com.tr",
+      "author": "Sabah",
+      "title": "Uganda'da 8 ayda M \u00e7i\u00e7e\u011fi vir\u00fcs\u00fcnden \u00f6lenlerin say\u0131s\u0131 37'ye y\u00fckseldi",
+      "description": "Uganda'da Temmuz 2024'ten bu yana M \u00e7i\u00e7e\u011fi vir\u00fcs\u00fc (mpox) nedeniyle hayat\u0131n\u0131 kaybedenlerin say\u0131s\u0131n\u0131n 37'ye y\u00fckseldi\u011fi bildirildi.Devam\u0131 i\u00e7in t\u0131klay\u0131n\u0131z",
+      "url": "https://www.sabah.com.tr/dunya/ugandada-8-ayda-m-cicegi-virusunden-olenlerin-sayisi-37ye-yukseldi-7320497",
+      "urlToImage": "https://iasbh.tmgrup.com.tr/a376f6/1200/675/0/0/702/395?u=https://isbh.tmgrup.com.tr/sbh/2025/03/30/ugandada-8-ayda-m-cicegi-virusunden-olenlerin-sayisi-37ye-yukseldi-1743367522620.jpg",
+      "publishedAt": "2025-03-30 20:45:24",
+      "content": "Uganda Salk Bakanlndan yaplan yazl a\u00e7klamada, \u00fclkede son 24 saatte 13 yeni vakann tespit edildii, salgn nedeniyle 6 kiinin yaamn yitirdii belirtildi. B\u00f6ylece \u00fclkede 8 ayda M \u00e7i\u00e7ei vir\u00fcs\u00fc vaka saysnn\u2026 [+935 chars]",
+      "retrievedAt": "2025-04-01 07:07:30.366441",
+      "internal_id": "40ee48f87bdeceeb751deea944e0ca8f1807871ffaea7e4c7c3291cbaab12d28",
+      "publishedAtLabel": "Mar 30"
+    },
+    {
+      "id": 19862,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Patronlardunyasi.com",
+      "author": "Patronlar D\u00fcnyas\u0131",
+      "title": "Uganda'da 8 ayda M \u00e7i\u00e7e\u011fi vir\u00fcs\u00fcnden \u00f6lenlerin say\u0131s\u0131 37'ye y\u00fckseldi",
+      "description": "Uganda'da Temmuz 2024'ten bu yana M \u00e7i\u00e7e\u011fi vir\u00fcs\u00fc (mpox) nedeniyle hayat\u0131n\u0131 kaybedenlerin say\u0131s\u0131n\u0131n 37'ye y\u00fckseldi\u011fi bildirildi.",
+      "url": "https://www.patronlardunyasi.com/ugandada-8-ayda-m-cicegi-virusunden-olenlerin-sayisi-37ye-yukseldi",
+      "urlToImage": "https://image.patronlardunyasi.com/static/content/25-03/30/m-cicegi.png",
+      "publishedAt": "2025-03-30 19:14:19",
+      "content": "Uganda Salk Bakanlndan yaplan yazl a\u00e7klamada, \u00fclkede son 24 saatte 13 yeni vakann tespit edildii, salgn nedeniyle 6 kiinin yaamn yitirdii belirtildi. B\u00f6ylece \u00fclkede 8 ayda M \u00e7i\u00e7ei vir\u00fcs\u00fc vaka saysnn\u2026 [+958 chars]",
+      "retrievedAt": "2025-04-01 07:07:30.350298",
+      "internal_id": "9b722b12b268b5dcb6fb41ac03914e157a81bbdd710435715dee4163331acb7f",
+      "publishedAtLabel": "Mar 30"
+    },
     {
       "id": 19846,
       "query": [
@@ -94,6 +238,24 @@
       "publishedAtLabel": "Mar 30"
     },
     {
+      "id": 19854,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news-au",
+      "source_name": "ABC News (AU)",
+      "author": "Andrew Williams",
+      "title": "New WA measles cases confirmed from hospital, prison exposure sites",
+      "description": "WA Health authorities say the number of measles cases is likely to grow in coming days after three more cases were identified during the weekend.",
+      "url": "https://www.abc.net.au/news/2025-03-30/wa-health-department-confirms-three-new-measles-cases/105114330",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/a413e91c1e7172c20b49c0cfc119f820?impolicy=wcms_watermark_news&cropH=241&cropW=428&xPos=0&yPos=36&width=862&height=485&imformat=generic",
+      "publishedAt": "2025-03-30 06:02:46",
+      "content": "Western Australia's measles outbreak has grown to eight confirmed cases, with authorities warning the number will likely continue to grow. Three more cases were confirmed by the Department of Health\u2026 [+3174 chars]",
+      "retrievedAt": "2025-04-01 07:07:28.912729",
+      "internal_id": "e862c49f3b54025ccd734a2ad2155f7fd2f4819eaf10ffdbbefb0978f06a76fc",
+      "publishedAtLabel": "Mar 30"
+    },
+    {
       "id": 19844,
       "query": [
         "measles"
@@ -148,6 +310,24 @@
       "publishedAtLabel": "Mar 29"
     },
     {
+      "id": 19853,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Rolling Out",
+      "author": "Khalil Best",
+      "title": "Why measles is far more dangerous than you think",
+      "description": "Recent outbreaks in Texas and New Mexico reveal why this virus can harm your immune system and brain long after symptoms disappear The red rash and fever of measles might fade within days, but the damage to your body can last for years. As health officials tr\u2026",
+      "url": "https://rollingout.com/2025/03/29/why-measles-is-far-more-dangerous-than/",
+      "urlToImage": "https://rollingout.com/wp-content/uploads/2025/03/shutterstock_529755808-scaled.jpg",
+      "publishedAt": "2025-03-29 15:06:12",
+      "content": "Recent outbreaks in Texas and New Mexico reveal why this virus can harm your immune system and brain long after symptoms disappear The red rash and fever of measles might fade within days, but the d\u2026 [+12612 chars]",
+      "retrievedAt": "2025-04-01 07:07:28.901920",
+      "internal_id": "6be1d34d9d0f8b26479e2a127c3b0102dcab3fd1e5953dddc8d0cd26606fb1b6",
+      "publishedAtLabel": "Mar 29"
+    },
+    {
       "id": 19840,
       "query": [
         "measles"
@@ -181,6 +361,24 @@
       "content": "As measles spreads across the country, sick children and adults are exposing other patients including newborn babies when they seek care at hospitals, pediatricians offices and urgent care centers. \u2026 [+5872 chars]",
       "retrievedAt": "2025-03-30 19:05:44.100080",
       "internal_id": "f68bf7aa721c032932e5b4bc9d30726fc637efb28cc8499a327542541c684fe9",
+      "publishedAtLabel": "Mar 29"
+    },
+    {
+      "id": 19856,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Microbe.tv",
+      "author": "Vincent Racaniello",
+      "title": "TWiV 1204: Clinical update with Dr. Daniel Griffin",
+      "description": "In his weekly clinical update, Dr. Griffin with Vincent Racaniello rue about the continuing measles outbreak, the FACTS about vaccination, irresponsibility of promoting vitamin A therapy \u201clifelong liver damage or vaccinaton!\u201d, high pathogenic influenza and eg\u2026",
+      "url": "https://www.microbe.tv/twiv/twiv-1204/",
+      "urlToImage": null,
+      "publishedAt": "2025-03-29 04:00:00",
+      "content": "In his weekly clinical update, Dr. Griffin with Vincent Racaniello rue about the continuing measles outbreak, the FACTS about vaccination, irresponsibility of promoting vitamin A therapy lifelong liv\u2026 [+901 chars]",
+      "retrievedAt": "2025-04-01 07:07:28.930802",
+      "internal_id": "90f0a942867f7ff5c53448aa4dc00d3b590a3d84d62fab667988d55efa9c0352",
       "publishedAtLabel": "Mar 29"
     },
     {
@@ -253,6 +451,24 @@
       "content": "Measles spreads quickly in communities where vaccination rates are low - and vaccine hesitancy has been on the rise for years. But amid a growing outbreak in Texas, vaccine enthusiasm is growing, as\u2026 [+47 chars]",
       "retrievedAt": "2025-03-30 07:06:06.783977",
       "internal_id": "0e07f1749f0bdca64bbdc19dd93ec5aa08826d50df95d1ad6c8996aecc79e724",
+      "publishedAtLabel": "Mar 28"
+    },
+    {
+      "id": 19855,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Independent.ie",
+      "author": "Reuters reporters",
+      "title": "Measles outbreak worsens across southern US as cases rise 20pc in three days",
+      "description": "Texas and New Mexico health departments said on Friday that the number of measles cases in their states rose 20pc since their last reports three days ago, as experts warn they expect the outbreak to further spread in coming weeks.",
+      "url": "https://www.independent.ie/world-news/measles-outbreak-worsens-across-southern-us-as-cases-rise-20pc-in-three-days/a2010930340.html",
+      "urlToImage": "https://focus.independent.ie/thumbor/H2f6t56xQpqSVsOY6A_4_AqLQ4k=/629x460/smart/prod-mh-ireland/0e689c09-7950-4421-b6b7-5b05ea6a2c92/a98cb9a8-a979-44a9-ad50-084857e18da5/0e689c09-7950-4421-b6b7-5b05ea6a2c92.jpg",
+      "publishedAt": "2025-03-28 22:11:08",
+      "content": "latest | Texas and New Mexico health departments said on Friday that the number of measles cases in their states rose 20pc since their last reports three days ago, as experts warn they expect the o\u2026 [+269 chars]",
+      "retrievedAt": "2025-04-01 07:07:28.922286",
+      "internal_id": "fb6ab6ca3618c9efbcfa60517ad0c34b4abd1ce0b3a6d2b5219a8abfab5c0bd5",
       "publishedAtLabel": "Mar 28"
     },
     {
@@ -901,6 +1117,24 @@
       "content": "Robert F. Kennedy Jr., staring down his first major health crisis as the head of Health and Human Services, had a plan. After Texas experienced the first measles death in the United States in a decad\u2026 [+5226 chars]",
       "retrievedAt": "2025-03-29 19:05:51.005894",
       "internal_id": "8a569fc9077b7be532690c3adc9a6a12a715810af7105d022d0ff8d6965aee9d",
+      "publishedAtLabel": "Mar 28"
+    },
+    {
+      "id": 19851,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news-au",
+      "source_name": "ABC News (AU)",
+      "author": "Phoebe Pin and Andrea Mayes",
+      "title": "Measles outbreak worsens, triggering 'intense' contact tracing effort",
+      "description": "Western Australia's measles outbreak is continuing to worsen, with six cases now confirmed, while New South Wales has issued a measles alert.",
+      "url": "https://www.abc.net.au/news/2025-03-28/wa-measles-outbreak-grows/105110164",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/3f7d285ba037c948553d541280c2bfce?impolicy=wcms_watermark_news&cropH=1125&cropW=2000&xPos=0&yPos=101&width=862&height=485&imformat=generic",
+      "publishedAt": "2025-03-28 06:02:15",
+      "content": "Western Australia's measles outbreak is continuing to worsen, with six cases now confirmed. These include a returned overseas traveller and three prisoners, two from Hakea Prison in Perth and one fr\u2026 [+1486 chars]",
+      "retrievedAt": "2025-04-01 07:07:28.864638",
+      "internal_id": "48c36f91427115eabcf9291fe30fda4fd9330eaa92b5bcb87395c52b3d296eb7",
       "publishedAtLabel": "Mar 28"
     },
     {
@@ -27541,6 +27775,114 @@
       "content": "Dans un restaurant \u00e0 San Rafael (Californie, Etats-Unis), le 13 f\u00e9vrier 2025. JUSTIN SULLIVAN / GETTY IMAGES VIA AFP P\u00e9nurie dufs dans les magasins, flamb\u00e9e des prix : les cons\u00e9quences de l\u00e9pizootie\u2026 [+1292 chars]",
       "retrievedAt": "2025-02-18 07:06:38.668056",
       "internal_id": "5a267424fa672d8673dfeaa5e445803147d31a4edcb7e07fd60e1a9d1036433f",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
+      "id": 18313,
+      "query": [
+        "measles"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TOI Trending Desk",
+      "title": "Texas Measles outbreak: How to stay safe from this infectious disease",
+      "description": "Measles, a highly contagious virus, is making a comeback in the U.S., particularly in states like Texas due to lower vaccination rates and international travel. Symptoms include fever, red eyes, and a telltale rash. Vaccination remains the best protection, an\u2026",
+      "url": "https://timesofindia.indiatimes.com/etimes/trending/texas-measles-outbreak-how-to-stay-safe-from-this-infectious-disease/articleshow/118308735.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-118309022,width-1070,height-580,imgsize-1206621,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2025-02-16 18:36:01",
+      "content": "10 most beautiful images captured by NASA's James Webb Telescope",
+      "retrievedAt": "2025-02-17 19:05:51.942009",
+      "internal_id": "3bd865c81e8aeb3c04b059c06ecb2ca0bc239595f6f856cedc1e6a61d9bf8d3c",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
+      "id": 18316,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Expressen.se",
+      "author": "linette.israelsson@expressen.se (Linette Israelsson)",
+      "title": "F\u00e5gelinfluensan forts\u00e4tter spridas \u2013 \u00e4gg ransoneras i USA",
+      "description": "F\u00e5gelinfluensan forts\u00e4tter att sprida sig i USA. Nu har flera livsmedelskedjor inf\u00f6rt begr\u00e4nsningar f\u00f6r hur m\u00e5nga \u00e4gg kunderna f\u00e5r k\u00f6pa. Samtidigt anklagas Trumps politik f\u00f6r att f\u00f6rv\u00e4rra situationen.",
+      "url": "https://www.expressen.se/nyheter/varlden/fagelinfluensan-fortsatter-spridas-agg-ransoneras-i-usa/",
+      "urlToImage": "https://static.bonniernews.se/images/e9/4b/e94b3556d71c463e8b0ff5a9633a1710/16x9/original.png",
+      "publishedAt": "2025-02-16 17:26:39",
+      "content": "Det var f\u00f6r drygt ett \u00e5r sen som forskare uppt\u00e4ckte att mj\u00f6lkkor i USA hade infekterats med f\u00e5gelinfluensaviruset H5N1. Sen dess har utbrottet v\u00e4xt. Nyligen stod det ocks\u00e5 klart att mj\u00f6lkkor i den \u2026 [+2430 chars]",
+      "retrievedAt": "2025-02-17 19:05:52.725744",
+      "internal_id": "0ca72e98da56a716b4213bf3a29374df12d086f2ed9575b19d6e97f39663bf03",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
+      "id": 18318,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Liu Fangqiang, Habtamu",
+      "title": "Africa's progress against malaria in \"jeopardy\" amid need for renewed commitments: officials",
+      "description": "ADDIS ABABA, Feb. 16 (Xinhua) -- Officials and experts on Sunday called for renewed commitments in Africa\\'s fight against malaria, as they warned that the continent\\'s progress against malaria is \\\"in jeopardy\\\" due to a combination of natural and man-made c\u2026",
+      "url": "https://www.thestar.com.my/news/world/2025/02/17/africa039s-progress-against-malaria-in-jeopardy-amid-need-for-renewed-commitments-officials",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2025-02-16 16:18:00",
+      "content": "ADDIS ABABA, Feb. 16 (Xinhua) -- Officials and experts on Sunday called for renewed commitments in Africa's fight against malaria, as they warned that the continent's progress against malaria is \"in \u2026 [+2688 chars]",
+      "retrievedAt": "2025-02-17 19:05:53.920517",
+      "internal_id": "a935437ff818f457cf2def9ef270a0dbf665671f283c8e4b2a233886f9c2a702",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
+      "id": 18317,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Da Reda\u00e7\u00e3o",
+      "title": "Casa livre de mosquitos: medidas para eliminar o Aedes aegypti",
+      "description": "Aprenda a identificar e eliminar os criadouros do mosquito da dengue em sua casa:",
+      "url": "https://casa.abril.com.br/minha-casa/casa-livre-de-mosquitos-medidas-para-eliminar-o-aedes-aegypti",
+      "urlToImage": "https://casa.abril.com.br/wp-content/uploads/2024/02/combate-a-dengue-dicas-de-manutencao-da-casa.jpg?quality=70&strip=info&crop=1&resize=1080,565",
+      "publishedAt": "2025-02-16 16:00:13",
+      "content": "Aprenda a identificar e eliminar os criadouros do mosquito da dengue em sua casa: Por Reda\u00e7\u00e3o 16 fev 2025, 13h00 (Divulga\u00e7\u00e3o Telhanorte/Casa.com.br) Continua ap\u00f3s publicidade Manter a casa li\u2026 [+2344 chars]",
+      "retrievedAt": "2025-02-17 19:05:53.222816",
+      "internal_id": "c92917f859612a6f66904a00c326a066bf6247b2d0cad3b8ef896825bcec575b",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
+      "id": 18315,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "taz.de",
+      "author": "Luisa Faust",
+      "title": "Vogelgrippe in den USA: Eine einzige Mutation k\u00f6nnte die n\u00e4chste Pandemie ausl\u00f6sen",
+      "description": "Weltweit breitet sich H5N1 in V\u00f6geln und Rindern aus. Viele \u00c4nderungen braucht es nicht, um auch Menschen zu gef\u00e4hrden, zeigt eine neue Studie.",
+      "url": "https://taz.de/Vogelgrippe-in-den-USA/!6066694/",
+      "urlToImage": "https://taz.de/picture/7524373/1200/Arbeit-in-einem-Geschaft-fur-Geflugel-1.jpeg",
+      "publishedAt": "2025-02-16 13:39:00",
+      "content": "Weltweit breitet sich H5N1 in V\u00f6geln und Rindern aus. Viele \u00c4nderungen braucht es nicht, um auch Menschen zu gef\u00e4hrden, zeigt eine neue Studie. mehr...",
+      "retrievedAt": "2025-02-17 19:05:52.693901",
+      "internal_id": "9e26bea511c92c6ea775b093250a1df5c2155f44c3a283143d4ec8e462c2ae10",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
+      "id": 18314,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Edzardernst.com",
+      "author": "Edzard",
+      "title": "Robert F. Kennedy Jr., measles and an alarming disregard for science, evidence, public health, welfare and common sense",
+      "description": "Around the year 2000, we thought to have eradicated measles. But, thanks to quacks like Andrew Wakefield and charlatans like Robert F. Kennedy Jr., measles are back. The latest measles case count in Texas represents merely a fraction of the true number of inf\u2026",
+      "url": "https://edzardernst.com/2025/02/robert-f-kennedy-jr-measles-and-an-alarming-disregard-for-science-evidence-public-health-welfare-and-common-sense/",
+      "urlToImage": "https://edzardernst.com/wp-content/uploads/2012/10/card-073-Edzard-Ernst.png",
+      "publishedAt": "2025-02-16 09:56:18",
+      "content": "Around the year 2000, we thought to have eradicated measles. But, thanks to quacks like Andrew Wakefield and charlatans like Robert F. Kennedy Jr., measles are back. The latest measles case count in \u2026 [+2109 chars]",
+      "retrievedAt": "2025-02-17 19:05:52.003812",
+      "internal_id": "4cd0053f58646f36f5c22645caa15244d6d70267e4cf1a0a4a285b99dff088a2",
       "publishedAtLabel": "Feb 16"
     }
   ]
