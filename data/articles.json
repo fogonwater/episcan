@@ -1,8 +1,170 @@
 {
-  "last_updated": "2025-04-01 19:05",
-  "count_articles_total": 1550,
-  "count_articles_new": 9,
+  "last_updated": "2025-04-02 07:07",
+  "count_articles_total": 1572,
+  "count_articles_new": 16,
   "articles": [
+    {
+      "id": 19884,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "Alejandro Gorenstein",
+      "title": "Naci\u00f3 con meningitis, tuvo epilepsia y un infarto cerebral que no le permite hablar: \u201cTiene una capacidad extraordinaria para relacionarse\u201d",
+      "description": "M\u00e1s all\u00e1 de todas las adversidades que tuvo que afrontar, Martina, que tiene 10 a\u00f1os, es una nena muy alegre que no deja indiferente a nadie que la conoce. Practica muchos deportes y tiene su propio perfil de Instagram, entre otras cosas.",
+      "url": "https://www.lanacion.com.ar/lifestyle/nacio-con-meningitis-tuvo-epilepsia-y-un-infarto-cerebral-que-no-le-permite-hablar-tiene-una-nid01042025/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/martina-feliz-luego-de-su-exhibicion-de-patin-DIGGUOOEWRARNJH2GCOMYIPLZA.jpg?auth=9338e7e99e096f9324ba4cc4a64970941943b4a9703562bee48d93f6dbec6005&width=1200&height=718&quality=70&smart=true",
+      "publishedAt": "2025-04-01 05:53:00",
+      "content": "Hola, soy Martina y quiero compartir mi historia para que puedan conocerme mejor. Mi llegada al mundo hace 10 a\u00f1os fue todo menos sencilla. Despu\u00e9s de nacer por parto natural, los m\u00e9dicos me informar\u2026 [+5546 chars]",
+      "retrievedAt": "2025-04-02 07:07:16.586500",
+      "internal_id": "9390d7865025e44dcbb62c4c227c4e1382bd6f249537603cfa3a16b91e2b65bb",
+      "publishedAtLabel": "Apr 1"
+    },
+    {
+      "id": 19885,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Francetvinfo.fr",
+      "author": "LP / HCE",
+      "title": "Le pic de l\u2019\u00e9pid\u00e9mie de chikungunya est pr\u00e9vu mi-avril \u00e0 La R\u00e9union",
+      "description": "Avec pr\u00e8s de 4 000 nouveaux cas identifi\u00e9s par semaine, le chikungunya se propage partout \u00e0 La R\u00e9union. Le pic \u00e9pid\u00e9mique est attendu mi-avril, selon le directeur de l\u2019Agence R\u00e9gionale de Sant\u00e9 qui annonce une hausse des moyens humains de la lutte antivectori\u2026",
+      "url": "https://la1ere.francetvinfo.fr/reunion/le-pic-de-l-epidemie-de-chikungunya-est-prevu-mi-avril-a-la-reunion-l-ars-renforce-les-moyens-de-la-lutte-antivectorielle-1574467.html",
+      "urlToImage": "https://la1ere.francetvinfo.fr/image/PNh-pmbBRf9BUsvXKJB0-jIykvI/930x620/outremer/2025/03/31/0988630001741960675-67ea97d9451ea865730203.webp",
+      "publishedAt": "2025-04-01 05:10:04",
+      "content": "\"L\u00e9pid\u00e9mie de chikungunya continue de progresser, et le pic est attendu pour la mi-avril\", d\u00e9clare G\u00e9rard Cotellon, directeur g\u00e9n\u00e9ral de lARS, lAgence R\u00e9gionale de Sant\u00e9, de La R\u00e9union. Pr\u00e8s de 4000\u2026 [+3148 chars]",
+      "retrievedAt": "2025-04-02 07:07:17.199226",
+      "internal_id": "bb41ac53e156d19477616b4d07c53d5193b538bec56391bd7b67dd1a5fe8c03a",
+      "publishedAtLabel": "Apr 1"
+    },
+    {
+      "id": 19886,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Real-Time Use of Mpox Genomic Surveillance, King County, Washington, USA, 2022\u20132024",
+      "description": "Use of Mpox Genomic Surveillance, Washington, USA",
+      "url": "https://wwwnc.cdc.gov/eid/article/31/13/24-1242_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2025-04-01 04:00:00",
+      "content": "Disclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released.When global spread of mpox\u2026 [+6473 chars]",
+      "retrievedAt": "2025-04-02 07:07:17.461897",
+      "internal_id": "18d4022eb0090a543c1a43b2e02eb8b78dda2430458cc87a341f51030e0adb4b",
+      "publishedAtLabel": "Apr 1"
+    },
+    {
+      "id": 19876,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Denver Post",
+      "author": "Katie Langford",
+      "title": "First Colorado measles case since 2023 confirmed in Pueblo",
+      "description": "A Pueblo resident who recently traveled to Mexico is now Colorado's first confirmed case of measles since 2023, public health officials said Monday.",
+      "url": "https://www.denverpost.com/2025/03/31/colorado-measles-pueblo-outbreak-public-health-mmr-vaccine/",
+      "urlToImage": "https://www.denverpost.com/wp-content/uploads/2025/03/Measles_Outbreak-Texas_55120_ec594e.jpg?w=1024&h=683",
+      "publishedAt": "2025-04-01 01:21:14",
+      "content": "A Pueblo resident who recently traveled to Mexico is now Colorado\u2019s first confirmed case of measles since 2023, public health officials said Monday. The person had recently visited an area with an o\u2026 [+1309 chars]",
+      "retrievedAt": "2025-04-02 07:07:15.695629",
+      "internal_id": "edb23a106f12151e2d9222ac486b2f386f3d349fdd296927200ac30fc9eecd3a",
+      "publishedAtLabel": "Apr 1"
+    },
+    {
+      "id": 19873,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Thehillstimes.in",
+      "author": "The Hills Times",
+      "title": "ZooWIN portal to monitor availability of anti-rabies jabs, anti-snake venom",
+      "description": "New Delhi, March 31: The government has developed a digital platform \u2014 ZooWIN\u2013 for real-time monitoring of anti-rabies vaccine and anti-snake venom stocks, and their administration to beneficiaries across the country. The platform, which will function on the \u2026",
+      "url": "https://thehillstimes.in/national/zoowin-portal-to-monitor-availability-of-anti-rabies-jabs-anti-snake-venom",
+      "urlToImage": "https://thehillstimes.in/wp-content/uploads/2025/04/Anchor-2.jpg",
+      "publishedAt": "2025-03-31 22:00:00",
+      "content": "New Delhi, March 31: The government has developed a digital platform \u2014 ZooWIN\u2013 for real-time monitoring of anti-rabies vaccine and anti-snake venom stocks, and their administration to beneficiaries a\u2026 [+3841 chars]",
+      "retrievedAt": "2025-04-02 07:07:15.261032",
+      "internal_id": "c477e0ccef820c2ab5fd42ca046f4a396c40850be79d43681f14118f695cb19b",
+      "publishedAtLabel": "Mar 31"
+    },
+    {
+      "id": 19887,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Bavarian Nordic A/S",
+      "title": "Bavarian Nordic Receives U.S. FDA Approval of Freeze-Dried Smallpox and Mpox Vaccine",
+      "description": "COPENHAGEN, Denmark, March 31, 2025 \u2013 Bavarian Nordic A/S (OMX: BAVA) today announced that the U.S. Food and Drug Administration (FDA) has approved the freeze-dried formulation of JYNNEOS\u00ae (Smallpox and Mpox Vaccine, Live, Non-replicating) for prevention of s\u2026",
+      "url": "https://www.globenewswire.com/news-release/2025/03/31/3052817/0/en/Bavarian-Nordic-Receives-U-S-FDA-Approval-of-Freeze-Dried-Smallpox-and-Mpox-Vaccine.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/bbcf063e-cba2-4e1d-b8cd-9279c8088ae9",
+      "publishedAt": "2025-03-31 20:38:00",
+      "content": "COPENHAGEN, Denmark, March 31, 2025 Bavarian Nordic A/S (OMX: BAVA) today announced that the U.S. Food and Drug Administration (FDA) has approved the freeze-dried formulation of JYNNEOS\u00ae (Smallpox an\u2026 [+8231 chars]",
+      "retrievedAt": "2025-04-02 07:07:17.470487",
+      "internal_id": "ff3d0ac8aee8b1af6ff9a12a86c8c0108ffb0dbd20b5156acbfc539582d4abe5",
+      "publishedAtLabel": "Mar 31"
+    },
+    {
+      "id": 19888,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Bavarian Nordic A/S",
+      "title": "Bavarian Nordic modtager FDA-godkendelse af fryset\u00f8rret koppe- og mpoxvaccine",
+      "description": "K\u00d8BENHAVN, Danmark, 31. marts 2025 \u2013 Bavarian Nordic A/S (OMX: BAVA) meddelte i dag, at de amerikanske l\u00e6gemiddelmyndigheder, U.S. Food and Drug Administration (FDA) har godkendt den fryset\u00f8rrede version af vaccinen JYNNEOS\u00ae til forebyggelse af kopper og mpox\u2026",
+      "url": "https://www.globenewswire.com/news-release/2025/03/31/3052817/0/da/Bavarian-Nordic-modtager-FDA-godkendelse-af-fryset%C3%B8rret-koppe-og-mpoxvaccine.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/bbcf063e-cba2-4e1d-b8cd-9279c8088ae9",
+      "publishedAt": "2025-03-31 20:38:00",
+      "content": "K\u00d8BENHAVN, Danmark, 31. marts 2025 Bavarian Nordic A/S (OMX: BAVA) meddelte i dag, at de amerikanske l\u00e6gemiddelmyndigheder, U.S. Food and Drug Administration (FDA) har godkendt den fryset\u00f8rrede versi\u2026 [+8363 chars]",
+      "retrievedAt": "2025-04-02 07:07:17.478722",
+      "internal_id": "69f3ccd7bf03430bb61b826488a90a798d6372946646b8036c4d23edaf66c2b0",
+      "publishedAtLabel": "Mar 31"
+    },
+    {
+      "id": 19875,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Toronto Public Health warns of possible measles exposure",
+      "description": "The City of Toronto is warning residents that they might have been exposed to someone with measles earlier this month.",
+      "url": "https://www.cbc.ca/news/canada/toronto/toronto-measles-ontario-1.7498303",
+      "urlToImage": "https://i.cbc.ca/1.5343106.1708113693!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/measles-virus.jpg?im=Resize%3D620",
+      "publishedAt": "2025-03-31 20:18:35",
+      "content": "The City of Toronto is warning residents that they might have been exposed to someone with measles earlier this month. In a news release Monday, Toronto Public Health (TPH) reported a case of the vi\u2026 [+1254 chars]",
+      "retrievedAt": "2025-04-02 07:07:15.643356",
+      "internal_id": "0740d14f907286faac30132d49fe6435f75bf4952708bd0fbd2bdd95f95bc2b2",
+      "publishedAtLabel": "Mar 31"
+    },
+    {
+      "id": 19874,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Scientific American",
+      "author": "Jen Schwartz",
+      "title": "As Measles Continues to Rise, CDC Muffles Vaccine Messaging",
+      "description": "By burying an assessment with updates and recommendations about the U.S.\u2019s current measles outbreaks, the CDC has signaled an alarming shift in its public messaging",
+      "url": "https://www.scientificamerican.com/article/as-measles-continues-to-rise-cdc-muffles-vaccine-messaging/",
+      "urlToImage": "https://static.scientificamerican.com/dam/m/4b33f01c5902c0ac/original/measles-vaccine.jpg?m=1743451458.101&w=1200",
+      "publishedAt": "2025-03-31 20:15:00",
+      "content": "As measles outbreaks have continued to spread in 19 U.S. states, leaders at the Centers for Disease Control and Prevention have buried a new assessment by their own experts that found there is a high\u2026 [+3617 chars]",
+      "retrievedAt": "2025-04-02 07:07:15.571133",
+      "internal_id": "1293ffbdd56d4a8a55504b14006eb53707005bc8d53189b79c93535bff5f8b08",
+      "publishedAtLabel": "Mar 31"
+    },
     {
       "id": 19865,
       "query": [
@@ -37,6 +199,24 @@
       "content": "In her work at hospitals or in-home healthcare, Parker explained she has often talked to patients about the importance of vaccines. Some listen. Many dont. While Parker has seen plenty of misinforma\u2026 [+2275 chars]",
       "retrievedAt": "2025-04-01 19:05:52.624463",
       "internal_id": "a231ff87f8a6729c8b496b71373de17179e1f42ab31a18b236b4509ba34cde99",
+      "publishedAtLabel": "Mar 31"
+    },
+    {
+      "id": 19878,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Jonathan Vigliotti",
+      "title": "Texas mother of 3-week-old twins fights to protect infants amid growing measles outbreak",
+      "description": "Measles cases in the U.S., which have soared to nearly 500 infections this year, have created concerns for parents with children who are too young to be vaccinated.",
+      "url": "https://www.cbsnews.com/news/mother-protect-infant-twins-amid-growing-measles-outbreak-texas/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/03/31/5f34c7b7-7f8f-4ef9-a261-9f349bd3cfe9/thumbnail/1200x630/134cb88d477a62afa29e65a7bea91ec6/1743427433412.png?v=8bc7d3d6fae86780125d801cb89af1af",
+      "publishedAt": "2025-03-31 15:47:00",
+      "content": "The United States has recorded nearly 500 measles cases this year, according to the Centers for Disease Control and Prevention, most of which have been confirmed in Texas. The growing outbreak in We\u2026 [+2893 chars]",
+      "retrievedAt": "2025-04-02 07:07:15.721877",
+      "internal_id": "65cb3a67f397c2d3c0f22d4f25b70c27826236cd37362e1343fac956a48773e0",
       "publishedAtLabel": "Mar 31"
     },
     {
@@ -127,6 +307,24 @@
       "content": "The Nigeria Centre for Disease Control and Prevention has expressed concern over the rising cases of Cerebrospinal Meningitis in the country. NCDC warned that its peak season runs from November to M\u2026 [+3253 chars]",
       "retrievedAt": "2025-04-01 19:05:54.485671",
       "internal_id": "82c240ad971750373f2d5d5c020faf043caefa652f4959d62f44316f2691b35a",
+      "publishedAtLabel": "Mar 31"
+    },
+    {
+      "id": 19882,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "KTVU San Francisco",
+      "author": "Lamonica Peters",
+      "title": "Measles in San Mateo County, 5 other California counties have confirmed cases",
+      "description": "Though California has one of the highest measles vaccination rates in the country, cases are still being reported throughout the state.",
+      "url": "https://www.ktvu.com/news/measles-case-reported-san-mateo-county-five-other-california-counties",
+      "urlToImage": "https://images.foxtv.com/c107833-mcdn.mp.lura.live/expiretime=2082787200/153312236a8f5404d15c17311680e72d3fac09e3404a7b82edb7a0de41f43b1e/iupl/D0E/F15/1280/720/D0EF15AA03322DB9166638B4D2ECD81B.jpg?ve=1&tl=1",
+      "publishedAt": "2025-03-31 12:34:58",
+      "content": "REDWOOD CITY, Calif. - San Mateo County Health officials say there is now at least one confirmed case of measles, which was reported in February after the person traveled internationally. There is \u2026 [+2569 chars]",
+      "retrievedAt": "2025-04-02 07:07:15.761068",
+      "internal_id": "132a2d0d47e5ad0529ed22a7fddf66433305acc19ddda94d96f48a636066388b",
       "publishedAtLabel": "Mar 31"
     },
     {
@@ -254,6 +452,24 @@
       "retrievedAt": "2025-04-01 07:07:30.167753",
       "internal_id": "45c6daeb7f13efce6c0de3adbea252846ecb7a1023a703bbeadba9da17509114",
       "publishedAtLabel": "Mar 31"
+    },
+    {
+      "id": 19883,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "fox26houston.com",
+      "author": "Briahn Hawkins",
+      "title": "Texas measles case: Fort Bend County",
+      "description": "Fort Bend County has reported its first case of measles in the area.",
+      "url": "https://www.fox26houston.com/news/measles-fort-bend-county-2025-march",
+      "urlToImage": "https://images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2019/10/1280/720/Measles20germs20pic_1546020282274.png_6564173_ver1.0_640_360.jpg?ve=1&tl=1",
+      "publishedAt": "2025-03-30 23:10:37",
+      "content": "FORT BEND COUNTY - Fort Bend County has reported its first case of measles in the area. Fort Bend County measles case What we know: According to Fort Bend County Health and Human Services, the cas\u2026 [+2667 chars]",
+      "retrievedAt": "2025-04-02 07:07:15.770005",
+      "internal_id": "9340fa9872a6994117a150ac19b6748503fa20005106dbc4be9cc7ad2d61601d",
+      "publishedAtLabel": "Mar 30"
     },
     {
       "id": 19852,
@@ -418,6 +634,24 @@
       "publishedAtLabel": "Mar 30"
     },
     {
+      "id": 19877,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Microbe.tv",
+      "author": "Vincent Racaniello",
+      "title": "TWiV 1205: Pluviosity didn't kill the bat",
+      "description": "TWiV reviews liver damage caused by over use of vitamin A in Texas, vitamin A does not change clinical course of measles in high income country, NIH cuts COVID-19 research, US ends vaccine funds for poor countries, anti-vaxxer hired to study vaccines and auti\u2026",
+      "url": "https://www.microbe.tv/twiv/twiv-1205/",
+      "urlToImage": null,
+      "publishedAt": "2025-03-30 04:00:00",
+      "content": "TWiV reviews liver damage caused by over use of vitamin A in Texas, vitamin A does not change clinical course of measles in high income country, NIH cuts COVID-19 research, US ends vaccine funds for \u2026 [+751 chars]",
+      "retrievedAt": "2025-04-02 07:07:15.712790",
+      "internal_id": "7f14fc5215e52ac7493c7892049cf0ea8f440f2064db2db4f76f6b63ffa7ee9c",
+      "publishedAtLabel": "Mar 30"
+    },
+    {
       "id": 19844,
       "query": [
         "measles"
@@ -433,6 +667,24 @@
       "content": "A U.S. Food and Drug Administration (FDA) official who helped drive the government\u2019s COVID-19 vaccination program resigned under pressure Friday amid a measles outbreak and accused Health Secretary R\u2026 [+3524 chars]",
       "retrievedAt": "2025-03-31 07:07:46.843452",
       "internal_id": "6cc98b32748b93a0538a1defb45523d25ec6d237ad1e066e538d89cb36b40448",
+      "publishedAtLabel": "Mar 29"
+    },
+    {
+      "id": 19880,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "OregonLive",
+      "author": "Devi Shastri",
+      "title": "Texas reaches 400 measles cases as 5 other states see outbreaks",
+      "description": "Texas, New Mexico, Ohio, Kansas and Oklahoma all have active measles outbreaks. Two unvaccinated people have died from measles-related causes",
+      "url": "https://www.oregonlive.com/health/2025/03/texas-reaches-400-measles-cases-as-5-other-states-see-outbreaks.html",
+      "urlToImage": "https://www.oregonlive.com/resizer/v2/OE6APJZNQFEYFANHYWVGB6YXXQ.jpeg?auth=0746b4907d295796adbe50c6f18e1c36772e17ccb4f71ff813fc88995a3314d2&width=1280&quality=90",
+      "publishedAt": "2025-03-29 18:08:14",
+      "content": "At least five states have active measles outbreaks as of Friday, and Texas is the largest with 400 cases. Already, the U.S. has more measles cases this year than in all of 2024, the U.S. Centers for\u2026 [+6711 chars]",
+      "retrievedAt": "2025-04-02 07:07:15.742138",
+      "internal_id": "3195e30ffd6e9170624fcb592f2f1a51eea27d727798cd46aaecf51ca582134c",
       "publishedAtLabel": "Mar 29"
     },
     {
@@ -508,6 +760,24 @@
       "publishedAtLabel": "Mar 29"
     },
     {
+      "id": 19881,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "Mary Kekatos",
+      "title": "What to know about measles breakthrough cases and why vaccination is still important",
+      "description": "What to know about measles breakthrough cases and why vaccination is still importantgo.com",
+      "url": "https://abcnews.go.com/Health/measles-breakthrough-cases-vaccination-important/story?id=120276354",
+      "urlToImage": "https://i.abcnewsfe.com/a/8974cc3f-e924-4f1a-9d1f-01b2a0342cb2/mmr-1-rt-er-250328_1743175147061_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2025-03-29 10:26:10",
+      "content": "As measles has spread across the United States, the overwhelming majority of cases have been among unvaccinated people or those with unknown vaccination status. Of the 483 cases reported by the Cent\u2026 [+5686 chars]",
+      "retrievedAt": "2025-04-02 07:07:15.751829",
+      "internal_id": "a369c5a7ca096e62e50678549b1de2baeffff37fd4e199b36ed4745639095090",
+      "publishedAtLabel": "Mar 29"
+    },
+    {
       "id": 19842,
       "query": [
         "measles"
@@ -559,6 +829,24 @@
       "content": "(AP) - A Michigan resident died earlier this year after contracting rabies from an organ transplant, health officials said. The patient had the organ transplanted at a hospital in Ohio in December a\u2026 [+1639 chars]",
       "retrievedAt": "2025-03-30 07:06:06.187903",
       "internal_id": "e9276a8ba4fda2ed251f7303b03583fc206cd8cc2441fb1b4c557d80c714f0fa",
+      "publishedAtLabel": "Mar 29"
+    },
+    {
+      "id": 19879,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "People.cn",
+      "author": "F_300952",
+      "title": "Measles outbreak spreads in U.S.",
+      "description": "SACRAMENTO, the United States, March 28 (Xinhua) -- The United States is grappling with a significan",
+      "url": "http://en.people.cn/n3/2025/0329/c90000-20295717.html",
+      "urlToImage": null,
+      "publishedAt": "2025-03-29 02:57:17",
+      "content": "(Xinhua) 10:46, March 29, 2025 SACRAMENTO, the United States, March 28 (Xinhua) -- The United States is grappling with a significant increase in measles cases, U.S. health authorities have said. Th\u2026 [+1936 chars]",
+      "retrievedAt": "2025-04-02 07:07:15.732898",
+      "internal_id": "51dd3fe7fd178d50d5d3bea408969257cd4796aabdbd35ce582604718c00f2f6",
       "publishedAtLabel": "Mar 29"
     },
     {
@@ -27937,6 +28225,114 @@
       "content": "Dans un restaurant \u00e0 San Rafael (Californie, Etats-Unis), le 13 f\u00e9vrier 2025. JUSTIN SULLIVAN / GETTY IMAGES VIA AFP P\u00e9nurie dufs dans les magasins, flamb\u00e9e des prix : les cons\u00e9quences de l\u00e9pizootie\u2026 [+1292 chars]",
       "retrievedAt": "2025-02-18 07:06:38.668056",
       "internal_id": "5a267424fa672d8673dfeaa5e445803147d31a4edcb7e07fd60e1a9d1036433f",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
+      "id": 18313,
+      "query": [
+        "measles"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TOI Trending Desk",
+      "title": "Texas Measles outbreak: How to stay safe from this infectious disease",
+      "description": "Measles, a highly contagious virus, is making a comeback in the U.S., particularly in states like Texas due to lower vaccination rates and international travel. Symptoms include fever, red eyes, and a telltale rash. Vaccination remains the best protection, an\u2026",
+      "url": "https://timesofindia.indiatimes.com/etimes/trending/texas-measles-outbreak-how-to-stay-safe-from-this-infectious-disease/articleshow/118308735.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-118309022,width-1070,height-580,imgsize-1206621,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2025-02-16 18:36:01",
+      "content": "10 most beautiful images captured by NASA's James Webb Telescope",
+      "retrievedAt": "2025-02-17 19:05:51.942009",
+      "internal_id": "3bd865c81e8aeb3c04b059c06ecb2ca0bc239595f6f856cedc1e6a61d9bf8d3c",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
+      "id": 18316,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Expressen.se",
+      "author": "linette.israelsson@expressen.se (Linette Israelsson)",
+      "title": "F\u00e5gelinfluensan forts\u00e4tter spridas \u2013 \u00e4gg ransoneras i USA",
+      "description": "F\u00e5gelinfluensan forts\u00e4tter att sprida sig i USA. Nu har flera livsmedelskedjor inf\u00f6rt begr\u00e4nsningar f\u00f6r hur m\u00e5nga \u00e4gg kunderna f\u00e5r k\u00f6pa. Samtidigt anklagas Trumps politik f\u00f6r att f\u00f6rv\u00e4rra situationen.",
+      "url": "https://www.expressen.se/nyheter/varlden/fagelinfluensan-fortsatter-spridas-agg-ransoneras-i-usa/",
+      "urlToImage": "https://static.bonniernews.se/images/e9/4b/e94b3556d71c463e8b0ff5a9633a1710/16x9/original.png",
+      "publishedAt": "2025-02-16 17:26:39",
+      "content": "Det var f\u00f6r drygt ett \u00e5r sen som forskare uppt\u00e4ckte att mj\u00f6lkkor i USA hade infekterats med f\u00e5gelinfluensaviruset H5N1. Sen dess har utbrottet v\u00e4xt. Nyligen stod det ocks\u00e5 klart att mj\u00f6lkkor i den \u2026 [+2430 chars]",
+      "retrievedAt": "2025-02-17 19:05:52.725744",
+      "internal_id": "0ca72e98da56a716b4213bf3a29374df12d086f2ed9575b19d6e97f39663bf03",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
+      "id": 18318,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Liu Fangqiang, Habtamu",
+      "title": "Africa's progress against malaria in \"jeopardy\" amid need for renewed commitments: officials",
+      "description": "ADDIS ABABA, Feb. 16 (Xinhua) -- Officials and experts on Sunday called for renewed commitments in Africa\\'s fight against malaria, as they warned that the continent\\'s progress against malaria is \\\"in jeopardy\\\" due to a combination of natural and man-made c\u2026",
+      "url": "https://www.thestar.com.my/news/world/2025/02/17/africa039s-progress-against-malaria-in-jeopardy-amid-need-for-renewed-commitments-officials",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2025-02-16 16:18:00",
+      "content": "ADDIS ABABA, Feb. 16 (Xinhua) -- Officials and experts on Sunday called for renewed commitments in Africa's fight against malaria, as they warned that the continent's progress against malaria is \"in \u2026 [+2688 chars]",
+      "retrievedAt": "2025-02-17 19:05:53.920517",
+      "internal_id": "a935437ff818f457cf2def9ef270a0dbf665671f283c8e4b2a233886f9c2a702",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
+      "id": 18317,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Da Reda\u00e7\u00e3o",
+      "title": "Casa livre de mosquitos: medidas para eliminar o Aedes aegypti",
+      "description": "Aprenda a identificar e eliminar os criadouros do mosquito da dengue em sua casa:",
+      "url": "https://casa.abril.com.br/minha-casa/casa-livre-de-mosquitos-medidas-para-eliminar-o-aedes-aegypti",
+      "urlToImage": "https://casa.abril.com.br/wp-content/uploads/2024/02/combate-a-dengue-dicas-de-manutencao-da-casa.jpg?quality=70&strip=info&crop=1&resize=1080,565",
+      "publishedAt": "2025-02-16 16:00:13",
+      "content": "Aprenda a identificar e eliminar os criadouros do mosquito da dengue em sua casa: Por Reda\u00e7\u00e3o 16 fev 2025, 13h00 (Divulga\u00e7\u00e3o Telhanorte/Casa.com.br) Continua ap\u00f3s publicidade Manter a casa li\u2026 [+2344 chars]",
+      "retrievedAt": "2025-02-17 19:05:53.222816",
+      "internal_id": "c92917f859612a6f66904a00c326a066bf6247b2d0cad3b8ef896825bcec575b",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
+      "id": 18315,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "taz.de",
+      "author": "Luisa Faust",
+      "title": "Vogelgrippe in den USA: Eine einzige Mutation k\u00f6nnte die n\u00e4chste Pandemie ausl\u00f6sen",
+      "description": "Weltweit breitet sich H5N1 in V\u00f6geln und Rindern aus. Viele \u00c4nderungen braucht es nicht, um auch Menschen zu gef\u00e4hrden, zeigt eine neue Studie.",
+      "url": "https://taz.de/Vogelgrippe-in-den-USA/!6066694/",
+      "urlToImage": "https://taz.de/picture/7524373/1200/Arbeit-in-einem-Geschaft-fur-Geflugel-1.jpeg",
+      "publishedAt": "2025-02-16 13:39:00",
+      "content": "Weltweit breitet sich H5N1 in V\u00f6geln und Rindern aus. Viele \u00c4nderungen braucht es nicht, um auch Menschen zu gef\u00e4hrden, zeigt eine neue Studie. mehr...",
+      "retrievedAt": "2025-02-17 19:05:52.693901",
+      "internal_id": "9e26bea511c92c6ea775b093250a1df5c2155f44c3a283143d4ec8e462c2ae10",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
+      "id": 18314,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Edzardernst.com",
+      "author": "Edzard",
+      "title": "Robert F. Kennedy Jr., measles and an alarming disregard for science, evidence, public health, welfare and common sense",
+      "description": "Around the year 2000, we thought to have eradicated measles. But, thanks to quacks like Andrew Wakefield and charlatans like Robert F. Kennedy Jr., measles are back. The latest measles case count in Texas represents merely a fraction of the true number of inf\u2026",
+      "url": "https://edzardernst.com/2025/02/robert-f-kennedy-jr-measles-and-an-alarming-disregard-for-science-evidence-public-health-welfare-and-common-sense/",
+      "urlToImage": "https://edzardernst.com/wp-content/uploads/2012/10/card-073-Edzard-Ernst.png",
+      "publishedAt": "2025-02-16 09:56:18",
+      "content": "Around the year 2000, we thought to have eradicated measles. But, thanks to quacks like Andrew Wakefield and charlatans like Robert F. Kennedy Jr., measles are back. The latest measles case count in \u2026 [+2109 chars]",
+      "retrievedAt": "2025-02-17 19:05:52.003812",
+      "internal_id": "4cd0053f58646f36f5c22645caa15244d6d70267e4cf1a0a4a285b99dff088a2",
       "publishedAtLabel": "Feb 16"
     }
   ]

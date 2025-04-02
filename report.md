@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 9
-- **Last harvest:** 2025-04-01 19:05
-- **Most recent article:** 2025-03-31 18:35:35
+- **New articles in last harvest:** 16
+- **Last harvest:** 2025-04-02 07:07
+- **Most recent article:** 2025-04-01 05:53:00
 
 ---
 
@@ -12,14 +12,14 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-10 | 25-11 | 25-12 | 25-13 | 25-14 | 25-8 | 25-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 142 | 133 | 108 | 98 | 9 | 79 | 162 | 731 |
-| h5n1 | 23 | 39 | 57 | 47 | 0 | 49 | 42 | 257 |
-| dengue | 8 | 12 | 18 | 20 | 2 | 55 | 30 | 145 |
-| malaria | 29 | 22 | 18 | 30 | 4 | 6 | 20 | 129 |
-| mpox | 14 | 15 | 8 | 12 | 2 | 15 | 26 | 92 |
-| meningitis | 4 | 9 | 7 | 10 | 1 | 10 | 7 | 48 |
-| chikungunya | 6 | 1 | 17 | 10 | 2 | 3 | 7 | 46 |
-| rabies | 3 | 8 | 3 | 19 | 2 | 4 | 2 | 41 |
+| measles | 142 | 133 | 108 | 101 | 16 | 81 | 162 | 743 |
+| h5n1 | 23 | 39 | 57 | 47 | 0 | 51 | 42 | 259 |
+| dengue | 8 | 12 | 18 | 20 | 2 | 56 | 30 | 146 |
+| malaria | 29 | 22 | 18 | 30 | 4 | 7 | 20 | 130 |
+| mpox | 14 | 15 | 8 | 12 | 5 | 15 | 26 | 95 |
+| meningitis | 4 | 9 | 7 | 10 | 2 | 10 | 7 | 49 |
+| chikungunya | 6 | 1 | 17 | 10 | 3 | 3 | 7 | 47 |
+| rabies | 3 | 8 | 3 | 19 | 3 | 4 | 2 | 42 |
 | hpai | 10 | 3 | 12 | 2 | 0 | 5 | 4 | 36 |
 | zika | 3 | 0 | 2 | 3 | 0 | 6 | 2 | 16 |
 | typhoid | 3 | 8 | 0 | 1 | 0 | 0 | 4 | 16 |
@@ -921,6 +921,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles outbreak in Texas raises concerns](https://www.cbsnews.com/video/measles-outbreak-in-texas-raises-concerns/) (CBS News)
 
+- [Texas Measles outbreak: How to stay safe from this infectious disease](https://timesofindia.indiatimes.com/etimes/trending/texas-measles-outbreak-how-to-stay-safe-from-this-infectious-disease/articleshow/118308735.cms) (The Times of India)
+
+- [Robert F. Kennedy Jr., measles and an alarming disregard for science, evidence, public health, welfare and common sense](https://edzardernst.com/2025/02/robert-f-kennedy-jr-measles-and-an-alarming-disregard-for-science-evidence-public-health-welfare-and-common-sense/) (Edzardernst.com)
+
 ## 25-8 (malaria)
 
 - [À Anvers, on manipule les moustiques génétiquement, pour lutter contre malaria](https://www.lavenir.net/actu/societe/2025/02/22/a-anvers-on-manipule-les-moustiques-genetiquement-pour-lutter-contre-malaria-7LMRSY6K5JDPJN3TQVCFZGRIAY/) (Lavenir.net)
@@ -934,6 +938,8 @@ Source: [News API](https://newsapi.org/)
 - [On the Medical Front, a 'Very Urgent' Need for Oxygen](https://www.newser.com/story/364454/on-the-medical-front-a-very-urgent-need-for-oxygen.html) (Newser)
 
 - [Potential new target for malaria discovered](https://www.nih.gov/news-events/nih-research-matters/potential-new-target-malaria-discovered) (National Institutes of Health)
+
+- [Africa's progress against malaria in "jeopardy" amid need for renewed commitments: officials](https://www.thestar.com.my/news/world/2025/02/17/africa039s-progress-against-malaria-in-jeopardy-amid-need-for-renewed-commitments-officials) (The Star Online)
 
 ## 25-8 (leptospirosis)
 
@@ -1053,6 +1059,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Grippe aviaire : face à l’aggravation de l’épizootie, les Etats-Unis vont importer des œufs turcs](https://www.lemonde.fr/economie/article/2025/02/16/grippe-aviaire-face-a-l-aggravation-de-l-epizootie-les-etats-unis-vont-importer-des-ufs-turcs_6549975_3234.html) (Le Monde)
 
+- [Fågelinfluensan fortsätter spridas – ägg ransoneras i USA](https://www.expressen.se/nyheter/varlden/fagelinfluensan-fortsatter-spridas-agg-ransoneras-i-usa/) (Expressen.se)
+
+- [Vogelgrippe in den USA: Eine einzige Mutation könnte die nächste Pandemie auslösen](https://taz.de/Vogelgrippe-in-den-USA/!6066694/) (taz.de)
+
 ## 25-8 (dengue)
 
 - [Za pět komárů 41 haléřů. Filipínci vypsali odměnu na moskyty přenášející horečku dengue](https://www.novinky.cz/clanek/koktejl-za-pet-komaru-41-haleru-filipinci-vypsali-odmenu-na-moskyty-prenasejici-horecku-dengue-40510089) (Novinky.cz)
@@ -1165,6 +1175,8 @@ Source: [News API](https://newsapi.org/)
 
 - ["The White Lotus": 3e saison semée d’embûches](https://www.lavenir.net/culture/2025/02/17/the-white-lotus-3e-saison-semee-dembuches-KVSIEUWV6BEZVEIDW4ZOKTTX6M/) (Lavenir.net)
 
+- [Casa livre de mosquitos: medidas para eliminar o Aedes aegypti](https://casa.abril.com.br/minha-casa/casa-livre-de-mosquitos-medidas-para-eliminar-o-aedes-aegypti) (Abril.com.br)
+
 ## 25-8 (chikungunya)
 
 - [Level 2 - Chikungunya in Réunion](https://wwwnc.cdc.gov/travel/notices/level2/chikungunya-reunion) (Cdc.gov)
@@ -1174,6 +1186,8 @@ Source: [News API](https://newsapi.org/)
 - [UK’s MHRA Grants Marketing Authorization for Chikungunya Vaccine](https://www.jdsupra.com/legalnews/uk-s-mhra-grants-marketing-7155248/) (JD Supra)
 
 ## 25-14 (rabies)
+
+- [ZooWIN portal to monitor availability of anti-rabies jabs, anti-snake venom](https://thehillstimes.in/national/zoowin-portal-to-monitor-availability-of-anti-rabies-jabs-anti-snake-venom) (Thehillstimes.in)
 
 - [In 'extremely rare' case, Michigan resident dies from rabies after receiving transplanted kidney carrying the virus](https://www.livescience.com/health/surgery/in-extremely-rare-case-michigan-resident-dies-from-rabies-after-receiving-transplanted-kidney-carrying-the-virus) (Live Science)
 
@@ -1185,19 +1199,39 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-14 (mpox)
 
+- [Real-Time Use of Mpox Genomic Surveillance, King County, Washington, USA, 2022–2024](https://wwwnc.cdc.gov/eid/article/31/13/24-1242_article) (Cdc.gov)
+
+- [Bavarian Nordic Receives U.S. FDA Approval of Freeze-Dried Smallpox and Mpox Vaccine](https://www.globenewswire.com/news-release/2025/03/31/3052817/0/en/Bavarian-Nordic-Receives-U-S-FDA-Approval-of-Freeze-Dried-Smallpox-and-Mpox-Vaccine.html) (GlobeNewswire)
+
+- [Bavarian Nordic modtager FDA-godkendelse af frysetørret koppe- og mpoxvaccine](https://www.globenewswire.com/news-release/2025/03/31/3052817/0/da/Bavarian-Nordic-modtager-FDA-godkendelse-af-fryset%C3%B8rret-koppe-og-mpoxvaccine.html) (GlobeNewswire)
+
 - [Uganda'da 8 ayda M çiçeği virüsünden ölenlerin sayısı 37'ye yükseldi](https://www.sabah.com.tr/dunya/ugandada-8-ayda-m-cicegi-virusunden-olenlerin-sayisi-37ye-yukseldi-7320497) (Sabah.com.tr)
 
 - [Uganda'da 8 ayda M çiçeği virüsünden ölenlerin sayısı 37'ye yükseldi](https://www.patronlardunyasi.com/ugandada-8-ayda-m-cicegi-virusunden-olenlerin-sayisi-37ye-yukseldi) (Patronlardunyasi.com)
 
 ## 25-14 (meningitis)
 
+- [Nació con meningitis, tuvo epilepsia y un infarto cerebral que no le permite hablar: “Tiene una capacidad extraordinaria para relacionarse”](https://www.lanacion.com.ar/lifestyle/nacio-con-meningitis-tuvo-epilepsia-y-un-infarto-cerebral-que-no-le-permite-hablar-tiene-una-nid01042025/) (La Nacion)
+
 - [NCDC raises the alarm over rising meningitis cases, reports 74 deaths](https://punchng.com/ncdc-raises-the-alarm-over-rising-meningitis-cases-reports-74-deaths/) (The Punch)
 
 ## 25-14 (measles)
 
+- [First Colorado measles case since 2023 confirmed in Pueblo](https://www.denverpost.com/2025/03/31/colorado-measles-pueblo-outbreak-public-health-mmr-vaccine/) (The Denver Post)
+
+- [Toronto Public Health warns of possible measles exposure](https://www.cbc.ca/news/canada/toronto/toronto-measles-ontario-1.7498303) (CBC News)
+
+- [As Measles Continues to Rise, CDC Muffles Vaccine Messaging](https://www.scientificamerican.com/article/as-measles-continues-to-rise-cdc-muffles-vaccine-messaging/) (Scientific American)
+
 - [Faced with measles, Texas healthcare workers confront ‘information warfare’](https://www.aljazeera.com/news/longform/2025/3/31/faced-with-measles-texas-healthcare-workers-confront-information) (Al Jazeera English)
 
+- [Texas mother of 3-week-old twins fights to protect infants amid growing measles outbreak](https://www.cbsnews.com/news/mother-protect-infant-twins-amid-growing-measles-outbreak-texas/) (CBS News)
+
+- [Measles in San Mateo County, 5 other California counties have confirmed cases](https://www.ktvu.com/news/measles-case-reported-san-mateo-county-five-other-california-counties) (KTVU San Francisco)
+
 - [Measles can ravage the immune system and brain, causing long-term damage – a virologist explains](https://theconversation.com/measles-can-ravage-the-immune-system-and-brain-causing-long-term-damage-a-virologist-explains-252354) (The Conversation Africa)
+
+- [Texas measles case: Fort Bend County](https://www.fox26houston.com/news/measles-fort-bend-county-2025-march) (fox26houston.com)
 
 - [News Wrap: Trump says he’s ‘not joking’ about a third term as president](https://www.pbs.org/newshour/show/news-wrap-trump-says-hes-not-joking-about-a-third-term-as-president) (PBS)
 
@@ -1212,6 +1246,8 @@ Source: [News API](https://newsapi.org/)
 - [Health officials on high alert, but no reports of measles so far after March break in N.S.](https://www.cbc.ca/news/canada/nova-scotia/nova-scotia-health-prepared-to-respond-to-measles-1.7492972) (CBC News)
 
 - [New WA measles cases confirmed from hospital, prison exposure sites](https://www.abc.net.au/news/2025-03-30/wa-health-department-confirms-three-new-measles-cases/105114330) (ABC News (AU))
+
+- [TWiV 1205: Pluviosity didn't kill the bat](https://www.microbe.tv/twiv/twiv-1205/) (Microbe.tv)
 
 ## 25-14 (malaria)
 
@@ -1230,6 +1266,8 @@ Source: [News API](https://newsapi.org/)
 - [Entenda quais são as diferenças entre surto, epidemia e pandemia](https://www.metropoles.com/saude/diferencas-surto-epidemia-pandemia) (Metropoles.com)
 
 ## 25-14 (chikungunya)
+
+- [Le pic de l’épidémie de chikungunya est prévu mi-avril à La Réunion](https://la1ere.francetvinfo.fr/reunion/le-pic-de-l-epidemie-de-chikungunya-est-prevu-mi-avril-a-la-reunion-l-ars-renforce-les-moyens-de-la-lutte-antivectorielle-1574467.html) (Francetvinfo.fr)
 
 - [Valneva Submits Adolescent Label Extension Application for its Chikungunya Vaccine, IXCHIQ®, to UK MHRA](https://www.globenewswire.com/news-release/2025/03/31/3051933/0/en/Valneva-Submits-Adolescent-Label-Extension-Application-for-its-Chikungunya-Vaccine-IXCHIQ-to-UK-MHRA.html) (GlobeNewswire)
 
@@ -1347,15 +1385,21 @@ Source: [News API](https://newsapi.org/)
 
 - [FDA’s Top Vaccine Official, Dr. Peter Marks, Resigns, Claims ‘Truth And Transparency Are Not Desired By The Secretary’](https://dailycaller.com/2025/03/29/peter-marks-food-drug-administration-vaccines-resigns-robert-f-kennedy-jr/) (The Daily Caller)
 
+- [Texas reaches 400 measles cases as 5 other states see outbreaks](https://www.oregonlive.com/health/2025/03/texas-reaches-400-measles-cases-as-5-other-states-see-outbreaks.html) (OregonLive)
+
 - [Texas Measles Outbreak Hits 400 Cases](https://www.huffpost.com/entry/texas-measles-outbreak-hits-400-cases_n_67e80e69e4b051cf99eaad34) (HuffPost)
 
 - [Why measles is far more dangerous than you think](https://rollingout.com/2025/03/29/why-measles-is-far-more-dangerous-than/) (Rolling Out)
 
 - [Links 3/29/2025](https://www.nakedcapitalism.com/2025/03/links-3-29-2025.html) (Nakedcapitalism.com)
 
+- [What to know about measles breakthrough cases and why vaccination is still important](https://abcnews.go.com/Health/measles-breakthrough-cases-vaccination-important/story?id=120276354) (ABC News)
+
 - [What should you do if you think you have the measles?](https://www.nbcnews.com/health/kids-health/measles-what-to-do-if-you-think-you-have-it-rcna198596) (NBC News)
 
 - [TWiV 1204: Clinical update with Dr. Daniel Griffin](https://www.microbe.tv/twiv/twiv-1204/) (Microbe.tv)
+
+- [Measles outbreak spreads in U.S.](http://en.people.cn/n3/2025/0329/c90000-20295717.html) (People.cn)
 
 - [RFK Jr. forces out Peter Marks, FDA's top vaccine scientist (Dan Diamond/Washington Post)](https://www.memeorandum.com/250328/p154) (Memeorandum.com)
 
