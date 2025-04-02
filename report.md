@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 16
-- **Last harvest:** 2025-04-02 07:07
-- **Most recent article:** 2025-04-01 05:53:00
+- **New articles in last harvest:** 20
+- **Last harvest:** 2025-04-02 19:06
+- **Most recent article:** 2025-04-01 19:00:28
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-10 | 25-11 | 25-12 | 25-13 | 25-14 | 25-8 | 25-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 142 | 133 | 108 | 101 | 16 | 81 | 162 | 743 |
-| h5n1 | 23 | 39 | 57 | 47 | 0 | 51 | 42 | 259 |
-| dengue | 8 | 12 | 18 | 20 | 2 | 56 | 30 | 146 |
-| malaria | 29 | 22 | 18 | 30 | 4 | 7 | 20 | 130 |
-| mpox | 14 | 15 | 8 | 12 | 5 | 15 | 26 | 95 |
+| measles | 142 | 133 | 108 | 101 | 24 | 79 | 162 | 749 |
+| h5n1 | 23 | 39 | 57 | 47 | 3 | 49 | 42 | 260 |
+| dengue | 8 | 12 | 18 | 20 | 4 | 55 | 30 | 147 |
+| malaria | 29 | 22 | 18 | 30 | 5 | 6 | 20 | 130 |
+| mpox | 14 | 15 | 8 | 12 | 9 | 15 | 26 | 99 |
 | meningitis | 4 | 9 | 7 | 10 | 2 | 10 | 7 | 49 |
-| chikungunya | 6 | 1 | 17 | 10 | 3 | 3 | 7 | 47 |
+| chikungunya | 6 | 1 | 17 | 10 | 4 | 3 | 7 | 48 |
 | rabies | 3 | 8 | 3 | 19 | 3 | 4 | 2 | 42 |
 | hpai | 10 | 3 | 12 | 2 | 0 | 5 | 4 | 36 |
-| zika | 3 | 0 | 2 | 3 | 0 | 6 | 2 | 16 |
+| zika | 3 | 0 | 2 | 3 | 1 | 6 | 2 | 17 |
 | typhoid | 3 | 8 | 0 | 1 | 0 | 0 | 4 | 16 |
 | yersinia | 1 | 2 | 2 | 3 | 0 | 0 | 2 | 10 |
 | pertussis | 0 | 5 | 1 | 0 | 1 | 2 | 0 | 9 |
@@ -921,10 +921,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles outbreak in Texas raises concerns](https://www.cbsnews.com/video/measles-outbreak-in-texas-raises-concerns/) (CBS News)
 
-- [Texas Measles outbreak: How to stay safe from this infectious disease](https://timesofindia.indiatimes.com/etimes/trending/texas-measles-outbreak-how-to-stay-safe-from-this-infectious-disease/articleshow/118308735.cms) (The Times of India)
-
-- [Robert F. Kennedy Jr., measles and an alarming disregard for science, evidence, public health, welfare and common sense](https://edzardernst.com/2025/02/robert-f-kennedy-jr-measles-and-an-alarming-disregard-for-science-evidence-public-health-welfare-and-common-sense/) (Edzardernst.com)
-
 ## 25-8 (malaria)
 
 - [À Anvers, on manipule les moustiques génétiquement, pour lutter contre malaria](https://www.lavenir.net/actu/societe/2025/02/22/a-anvers-on-manipule-les-moustiques-genetiquement-pour-lutter-contre-malaria-7LMRSY6K5JDPJN3TQVCFZGRIAY/) (Lavenir.net)
@@ -938,8 +934,6 @@ Source: [News API](https://newsapi.org/)
 - [On the Medical Front, a 'Very Urgent' Need for Oxygen](https://www.newser.com/story/364454/on-the-medical-front-a-very-urgent-need-for-oxygen.html) (Newser)
 
 - [Potential new target for malaria discovered](https://www.nih.gov/news-events/nih-research-matters/potential-new-target-malaria-discovered) (National Institutes of Health)
-
-- [Africa's progress against malaria in "jeopardy" amid need for renewed commitments: officials](https://www.thestar.com.my/news/world/2025/02/17/africa039s-progress-against-malaria-in-jeopardy-amid-need-for-renewed-commitments-officials) (The Star Online)
 
 ## 25-8 (leptospirosis)
 
@@ -1059,10 +1053,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Grippe aviaire : face à l’aggravation de l’épizootie, les Etats-Unis vont importer des œufs turcs](https://www.lemonde.fr/economie/article/2025/02/16/grippe-aviaire-face-a-l-aggravation-de-l-epizootie-les-etats-unis-vont-importer-des-ufs-turcs_6549975_3234.html) (Le Monde)
 
-- [Fågelinfluensan fortsätter spridas – ägg ransoneras i USA](https://www.expressen.se/nyheter/varlden/fagelinfluensan-fortsatter-spridas-agg-ransoneras-i-usa/) (Expressen.se)
-
-- [Vogelgrippe in den USA: Eine einzige Mutation könnte die nächste Pandemie auslösen](https://taz.de/Vogelgrippe-in-den-USA/!6066694/) (taz.de)
-
 ## 25-8 (dengue)
 
 - [Za pět komárů 41 haléřů. Filipínci vypsali odměnu na moskyty přenášející horečku dengue](https://www.novinky.cz/clanek/koktejl-za-pet-komaru-41-haleru-filipinci-vypsali-odmenu-na-moskyty-prenasejici-horecku-dengue-40510089) (Novinky.cz)
@@ -1175,8 +1165,6 @@ Source: [News API](https://newsapi.org/)
 
 - ["The White Lotus": 3e saison semée d’embûches](https://www.lavenir.net/culture/2025/02/17/the-white-lotus-3e-saison-semee-dembuches-KVSIEUWV6BEZVEIDW4ZOKTTX6M/) (Lavenir.net)
 
-- [Casa livre de mosquitos: medidas para eliminar o Aedes aegypti](https://casa.abril.com.br/minha-casa/casa-livre-de-mosquitos-medidas-para-eliminar-o-aedes-aegypti) (Abril.com.br)
-
 ## 25-8 (chikungunya)
 
 - [Level 2 - Chikungunya in Réunion](https://wwwnc.cdc.gov/travel/notices/level2/chikungunya-reunion) (Cdc.gov)
@@ -1184,6 +1172,10 @@ Source: [News API](https://newsapi.org/)
 - [Com mais de 110 mortes, São Paulo decreta emergência por dengue em todo o estado](https://veja.abril.com.br/saude/com-mais-de-100-mortes-sao-paulo-decreta-emergencia-por-dengue-em-todo-o-estado) (Abril.com.br)
 
 - [UK’s MHRA Grants Marketing Authorization for Chikungunya Vaccine](https://www.jdsupra.com/legalnews/uk-s-mhra-grants-marketing-7155248/) (JD Supra)
+
+## 25-14 (zika)
+
+- [Inicialmente ignorado, há 10 anos o zika vírus chegava nas terras e nas veias sanguíneas brasileiras](https://noticiabrasil.net.br/20250401/inicialmente-ignorado-ha-10-anos-o-zika-virus-chegava-nas-terras-e-nas-veias-sanguineas-brasileiras-39029653.html) (Noticiabrasil.net.br)
 
 ## 25-14 (rabies)
 
@@ -1198,6 +1190,14 @@ Source: [News API](https://newsapi.org/)
 - [Putting computational models of immunity to the test—An invited challenge to predict B.pertussis vaccination responses](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012927) (Plos.org)
 
 ## 25-14 (mpox)
+
+- [Cientistas alertam que mpox pode se tornar uma séria ameaça global](https://www.metropoles.com/saude/mpox-pode-ser-seria-ameaca-global) (Metropoles.com)
+
+- [Mpox could become a serious global threat, scientists warn](https://www.sciencedaily.com/releases/2025/04/250401131523.htm) (Science Daily)
+
+- [Saúde: cientistas alertam para nova ameaça global](https://olhardigital.com.br/2025/04/01/medicina-e-saude/saude-cientistas-alertam-para-nova-ameaca-global/) (Olhardigital.com.br)
+
+- [HIV in primary care: further considerations](https://www.bmj.com/content/389/bmj.r639) (The BMJ)
 
 - [Real-Time Use of Mpox Genomic Surveillance, King County, Washington, USA, 2022–2024](https://wwwnc.cdc.gov/eid/article/31/13/24-1242_article) (Cdc.gov)
 
@@ -1216,6 +1216,22 @@ Source: [News API](https://newsapi.org/)
 - [NCDC raises the alarm over rising meningitis cases, reports 74 deaths](https://punchng.com/ncdc-raises-the-alarm-over-rising-meningitis-cases-reports-74-deaths/) (The Punch)
 
 ## 25-14 (measles)
+
+- [Measles Devastates Your Body in a Variety of Ways. Here's What's at Risk.](https://www.sciencealert.com/measles-devastates-your-body-in-a-variety-of-ways-heres-whats-at-risk) (ScienceAlert)
+
+- [Measles Outbreak: More Than 420 Cases In Texas As Colorado Reports First Infection Since 2023](https://www.forbes.com/sites/antoniopequenoiv/2025/04/01/measles-outbreak-more-than-420-cases-in-texas-as-colorado-reports-first-infection-since-2023/) (Forbes)
+
+- [Measles Outbreak: Colorado Reports First Case Since 2023](https://www.forbes.com/sites/antoniopequenoiv/2025/04/01/measles-outbreak-colorado-reports-first-case-since-2023/) (Forbes)
+
+- [The 'good news' and 'bad news' on Alberta's measles situation as cases continue to climb](https://www.cbc.ca/news/canada/calgary/alberta-measles-march-31-2025-data-craig-jenne-1.7498770) (CBC News)
+
+- [Vitamin A for measles: no for prevention, yes for treatment](https://www.foodpolitics.com/2025/04/vitamin-a-for-measles-yes-and-no/) (Foodpolitics.com)
+
+- [As Measles Outbreak Spikes, NIH Drastically Cuts Funding On Vaccine Hesitancy](https://www.forbes.com/sites/joshuacohen/2025/04/01/as-measles-outbreak-spikes-nih-drastically-cuts-funding-on-vaccine-hesitancy/) (Forbes)
+
+- [Vitamin A And Its Role In Treating Measles](https://www.forbes.com/sites/omerawan/2025/04/01/vitamin-a-and-its-role-in-treating-measles/) (Forbes)
+
+- [Why Did the CDC Bury Its Latest Measles Forecast?](https://www.nakedcapitalism.com/2025/04/why-did-the-cdc-bury-its-latest-measles-forecast.html) (Nakedcapitalism.com)
 
 - [First Colorado measles case since 2023 confirmed in Pueblo](https://www.denverpost.com/2025/03/31/colorado-measles-pueblo-outbreak-public-health-mmr-vaccine/) (The Denver Post)
 
@@ -1251,6 +1267,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-14 (malaria)
 
+- [“Vroeger moest een dokter alle foorkramers onderzoeken”: van exotica tot een vrouw van 60 centimeter, een duik in 650 jaar Halfvastenfoor](https://www.nieuwsblad.be/cnt/dmf20250331_94932274) (Nieuwsblad.be)
+
 - [Advances in the dissection of Anopheles–Plasmodium interactions](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012965) (Plos.org)
 
 - [Severe malaria enforces short-lived effector cell differentiation but does not prevent effective secondary responses by memory CD8 T cells](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012993) (Plos.org)
@@ -1259,13 +1277,27 @@ Source: [News API](https://newsapi.org/)
 
 - [Scientists want to fight malaria by poisoning mosquitoes with human blood](https://theweek.com/science/scientists-fight-malaria-kill-mosquitoes-nitisinone) (The Week Magazine)
 
+## 25-14 (h5n1)
+
+- [Bird Flu “On The Cusp” Of Transmitting To Humans](https://www.shtfplan.com/headline-news/bird-flu-on-the-cusp-of-transmitting-to-humans) (Shtfplan.com)
+
+- [El impacto del virus de la gripe aviar H5N1 en la industria lechera de Estados Unidos](https://www.gastronomiaycia.com/el-impacto-del-virus-de-la-gripe-aviar-h5n1-en-la-industria-lechera-de-estados-unidos/) (Gastronomiaycia.com)
+
+- [H5N1 : le virus de la grippe aviaire passe chez les mammifères… l’espèce suivante, c’est nous ?](https://www.futura-sciences.com/sante/actualites/virus-h5n1-virus-grippe-aviaire-passe-chez-mammiferes-espece-suivante-cest-nous-120803/) (Futura)
+
 ## 25-14 (dengue)
+
+- [Cidade de São Paulo confirma segunda morte por dengue neste ano](https://www.metropoles.com/sao-paulo/cidade-de-sao-paulo-confirma-segunda-morte-por-dengue-neste-ano) (Metropoles.com)
+
+- [Qual impacto da redução no número de casos de dengue nas empresas do setor de saúde?](https://www.infomoney.com.br/mercados/qual-impacto-da-reducao-no-numero-de-casos-de-dengue-nas-empresas-do-setor-de-saude/) (InfoMoney)
 
 - [3 notícias sobre: dengue](https://super.abril.com.br/saude/3-noticias-sobre-dengue/) (Abril.com.br)
 
 - [Entenda quais são as diferenças entre surto, epidemia e pandemia](https://www.metropoles.com/saude/diferencas-surto-epidemia-pandemia) (Metropoles.com)
 
 ## 25-14 (chikungunya)
+
+- [Valneva’s Chikungunya Vaccine IXCHIQ® Now Authorized in EU for Adolescents Aged 12 and Above](https://www.globenewswire.com/news-release/2025/04/01/3053626/0/en/Valneva-s-Chikungunya-Vaccine-IXCHIQ-Now-Authorized-in-EU-for-Adolescents-Aged-12-and-Above.html) (GlobeNewswire)
 
 - [Le pic de l’épidémie de chikungunya est prévu mi-avril à La Réunion](https://la1ere.francetvinfo.fr/reunion/le-pic-de-l-epidemie-de-chikungunya-est-prevu-mi-avril-a-la-reunion-l-ars-renforce-les-moyens-de-la-lutte-antivectorielle-1574467.html) (Francetvinfo.fr)
 
