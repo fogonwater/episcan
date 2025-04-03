@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 13
-- **Last harvest:** 2025-04-03 07:07
-- **Most recent article:** 2025-04-02 06:45:05
+- **New articles in last harvest:** 15
+- **Last harvest:** 2025-04-03 19:06
+- **Most recent article:** 2025-04-02 18:36:39
 
 ---
 
@@ -12,13 +12,13 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-10 | 25-11 | 25-12 | 25-13 | 25-14 | 25-8 | 25-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 142 | 133 | 108 | 101 | 31 | 81 | 162 | 758 |
-| h5n1 | 23 | 39 | 57 | 47 | 5 | 51 | 42 | 264 |
-| dengue | 8 | 12 | 18 | 20 | 4 | 56 | 30 | 148 |
-| malaria | 29 | 22 | 18 | 30 | 8 | 7 | 20 | 134 |
-| mpox | 14 | 15 | 8 | 12 | 9 | 15 | 26 | 99 |
+| measles | 142 | 133 | 108 | 101 | 40 | 79 | 162 | 765 |
+| h5n1 | 23 | 39 | 57 | 47 | 6 | 49 | 42 | 263 |
+| dengue | 8 | 12 | 18 | 20 | 5 | 55 | 30 | 148 |
+| malaria | 29 | 22 | 18 | 30 | 9 | 6 | 20 | 134 |
+| mpox | 14 | 15 | 8 | 12 | 10 | 15 | 26 | 100 |
+| chikungunya | 6 | 1 | 17 | 10 | 6 | 3 | 7 | 50 |
 | meningitis | 4 | 9 | 7 | 10 | 2 | 10 | 7 | 49 |
-| chikungunya | 6 | 1 | 17 | 10 | 4 | 3 | 7 | 48 |
 | rabies | 3 | 8 | 3 | 19 | 4 | 4 | 2 | 43 |
 | hpai | 10 | 3 | 12 | 2 | 0 | 5 | 4 | 36 |
 | zika | 3 | 0 | 2 | 3 | 1 | 6 | 2 | 17 |
@@ -921,10 +921,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles outbreak in Texas raises concerns](https://www.cbsnews.com/video/measles-outbreak-in-texas-raises-concerns/) (CBS News)
 
-- [Texas Measles outbreak: How to stay safe from this infectious disease](https://timesofindia.indiatimes.com/etimes/trending/texas-measles-outbreak-how-to-stay-safe-from-this-infectious-disease/articleshow/118308735.cms) (The Times of India)
-
-- [Robert F. Kennedy Jr., measles and an alarming disregard for science, evidence, public health, welfare and common sense](https://edzardernst.com/2025/02/robert-f-kennedy-jr-measles-and-an-alarming-disregard-for-science-evidence-public-health-welfare-and-common-sense/) (Edzardernst.com)
-
 ## 25-8 (malaria)
 
 - [À Anvers, on manipule les moustiques génétiquement, pour lutter contre malaria](https://www.lavenir.net/actu/societe/2025/02/22/a-anvers-on-manipule-les-moustiques-genetiquement-pour-lutter-contre-malaria-7LMRSY6K5JDPJN3TQVCFZGRIAY/) (Lavenir.net)
@@ -938,8 +934,6 @@ Source: [News API](https://newsapi.org/)
 - [On the Medical Front, a 'Very Urgent' Need for Oxygen](https://www.newser.com/story/364454/on-the-medical-front-a-very-urgent-need-for-oxygen.html) (Newser)
 
 - [Potential new target for malaria discovered](https://www.nih.gov/news-events/nih-research-matters/potential-new-target-malaria-discovered) (National Institutes of Health)
-
-- [Africa's progress against malaria in "jeopardy" amid need for renewed commitments: officials](https://www.thestar.com.my/news/world/2025/02/17/africa039s-progress-against-malaria-in-jeopardy-amid-need-for-renewed-commitments-officials) (The Star Online)
 
 ## 25-8 (leptospirosis)
 
@@ -1059,10 +1053,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Grippe aviaire : face à l’aggravation de l’épizootie, les Etats-Unis vont importer des œufs turcs](https://www.lemonde.fr/economie/article/2025/02/16/grippe-aviaire-face-a-l-aggravation-de-l-epizootie-les-etats-unis-vont-importer-des-ufs-turcs_6549975_3234.html) (Le Monde)
 
-- [Fågelinfluensan fortsätter spridas – ägg ransoneras i USA](https://www.expressen.se/nyheter/varlden/fagelinfluensan-fortsatter-spridas-agg-ransoneras-i-usa/) (Expressen.se)
-
-- [Vogelgrippe in den USA: Eine einzige Mutation könnte die nächste Pandemie auslösen](https://taz.de/Vogelgrippe-in-den-USA/!6066694/) (taz.de)
-
 ## 25-8 (dengue)
 
 - [Za pět komárů 41 haléřů. Filipínci vypsali odměnu na moskyty přenášející horečku dengue](https://www.novinky.cz/clanek/koktejl-za-pet-komaru-41-haleru-filipinci-vypsali-odmenu-na-moskyty-prenasejici-horecku-dengue-40510089) (Novinky.cz)
@@ -1175,8 +1165,6 @@ Source: [News API](https://newsapi.org/)
 
 - ["The White Lotus": 3e saison semée d’embûches](https://www.lavenir.net/culture/2025/02/17/the-white-lotus-3e-saison-semee-dembuches-KVSIEUWV6BEZVEIDW4ZOKTTX6M/) (Lavenir.net)
 
-- [Casa livre de mosquitos: medidas para eliminar o Aedes aegypti](https://casa.abril.com.br/minha-casa/casa-livre-de-mosquitos-medidas-para-eliminar-o-aedes-aegypti) (Abril.com.br)
-
 ## 25-8 (chikungunya)
 
 - [Level 2 - Chikungunya in Réunion](https://wwwnc.cdc.gov/travel/notices/level2/chikungunya-reunion) (Cdc.gov)
@@ -1205,6 +1193,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-14 (mpox)
 
+- [Zambia confirms 36 mpox cases since October outbreak](https://www.thestar.com.my/news/world/2025/04/03/zambia-confirms-36-mpox-cases-since-october-outbreak) (The Star Online)
+
 - [Cientistas alertam que mpox pode se tornar uma séria ameaça global](https://www.metropoles.com/saude/mpox-pode-ser-seria-ameaca-global) (Metropoles.com)
 
 - [Mpox could become a serious global threat, scientists warn](https://www.sciencedaily.com/releases/2025/04/250401131523.htm) (Science Daily)
@@ -1230,6 +1220,24 @@ Source: [News API](https://newsapi.org/)
 - [NCDC raises the alarm over rising meningitis cases, reports 74 deaths](https://punchng.com/ncdc-raises-the-alarm-over-rising-meningitis-cases-reports-74-deaths/) (The Punch)
 
 ## 25-14 (measles)
+
+- [Chart shows how measles is spreading exponentially in the US](https://www.businessinsider.com/charts-show-measles-spreading-in-us-states-2025-4) (Business Insider)
+
+- ['Measles? I’m against them': GOP struggles to find coherent message on RFK Jr's plans](https://www.rawstory.com/measles-rfk-gop-strategy/) (Raw Story)
+
+- [Urgent measles alert issued to passengers on Dublin to Sligo train who may have been exposed](https://www.independent.ie/irish-news/urgent-measles-alert-issued-to-passengers-on-dublin-to-sligo-train-who-may-have-been-exposed/a575266282.html) (Independent.ie)
+
+- [Urgent measles alert issued to passengers onboard train from Dublin to Sligo that may have been exposed to ‘highly suspect’ case](https://www.independent.ie/irish-news/urgent-measles-alert-issued-to-passengers-onboard-train-from-dublin-to-sligo-that-may-have-been-exposed-to-highly-suspect-case/a575266282.html) (Independent.ie)
+
+- [HSE issues public health alert over possible measles exposure on Dublin-Sligo train last Friday](https://www.thejournal.ie/hse-warns-people-travelling-on-dublin-to-sligo-train-last-friday-may-have-been-exposed-to-measles-6666105-Apr2025/) (TheJournal.ie)
+
+- [Traveller to the US and Europe at higher risk of catching measles: Precautions to take](https://timesofindia.indiatimes.com/etimes/trending/traveller-to-the-us-and-europe-at-higher-risk-of-catching-measles-precautions-to-take/articleshow/119913313.cms) (The Times of India)
+
+- [Texas Vaccination Clinics Canceled Amid Funding Cuts](https://www.newsweek.com/texas-vaccination-clinics-measles-funding-health-department-2054290) (Newsweek)
+
+- [If We Stop Tracking Measles/Cancer/Infant Mortality, We'd Have Very Few Cases, If Any](https://www.wonkette.com/p/if-we-stop-tracking-measlescancerinfant) (Wonkette.com)
+
+- [Doctors say some Sask. adults might need measles booster shots](https://www.cbc.ca/news/canada/saskatchewan/measles-vaccination-immunity-1.7499430) (CBC News)
 
 - [Measles & Vitamin A Toxicity: How RFK Jr. Is Compounding The Outbreak Problem](https://www.techdirt.com/2025/04/01/measles-vitamin-a-toxicity-how-rfk-jr-is-compounding-the-outbreak-problem/) (Techdirt)
 
@@ -1295,6 +1303,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-14 (malaria)
 
+- [Roundup: Uganda launches malaria vaccination for 1.1 million children](https://www.thestar.com.my/news/world/2025/04/03/roundup-uganda-launches-malaria-vaccination-for-11-million-children) (The Star Online)
+
 - [Medicinen gör människoblod giftigt – myggor dör](https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1363203) (Aftonbladet.se)
 
 - [Medicinen gör människoblod giftigt – myggor dör](https://www.svd.se/a/gwG240/medicinen-gor-manniskoblod-giftigt-myggor-dor) (Svenska Dagbladet)
@@ -1313,6 +1323,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-14 (h5n1)
 
+- [The real reason eggs are more expensive than ever](https://www.businessinsider.com/this-is-the-real-reason-eggs-so-expensive-2025-4) (Business Insider)
+
 - [First human death from bird flu in Andhra Pradesh; 2-year-old dies after eating raw chicken](https://timesofindia.indiatimes.com/city/vijayawada/first-human-death-from-bird-flu-in-andhra-pradesh-2-year-old-dies-after-eating-raw-chicken/articleshow/119897785.cms) (The Times of India)
 
 - [Grippe aviaire : les coupes budgétaires de Trump amplifient la menace pandémique](https://www.lepoint.fr/sante/grippe-aviaire-les-coupes-budgetaires-de-trump-amplifient-la-menace-pandemique-02-04-2025-2586310_40.php) (Le Point)
@@ -1325,6 +1337,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-14 (dengue)
 
+- [Cidade de São Paulo confirma segunda morte por dengue no ano](https://valor.globo.com/brasil/noticia/2025/04/02/cidade-de-sao-paulo-confirma-segunda-morte-por-dengue-no-ano.ghtml) (Globo)
+
 - [Cidade de São Paulo confirma segunda morte por dengue neste ano](https://www.metropoles.com/sao-paulo/cidade-de-sao-paulo-confirma-segunda-morte-por-dengue-neste-ano) (Metropoles.com)
 
 - [Qual impacto da redução no número de casos de dengue nas empresas do setor de saúde?](https://www.infomoney.com.br/mercados/qual-impacto-da-reducao-no-numero-de-casos-de-dengue-nas-empresas-do-setor-de-saude/) (InfoMoney)
@@ -1334,6 +1348,10 @@ Source: [News API](https://newsapi.org/)
 - [Entenda quais são as diferenças entre surto, epidemia e pandemia](https://www.metropoles.com/saude/diferencas-surto-epidemia-pandemia) (Metropoles.com)
 
 ## 25-14 (chikungunya)
+
+- [Chikungunya : à La Réunion, l’épidémie s’amplifie et met le système de santé sous tension](https://www.lemonde.fr/planete/article/2025/04/02/chikungunya-a-la-reunion-l-epidemie-s-amplifie-et-met-le-systeme-de-sante-sous-tension_6589986_3244.html) (Le Monde)
+
+- [Epidémie de chikungunya à La Réunion : 5 800 nouveaux cas, 14 nouveau-nés hospitalisés](https://la1ere.francetvinfo.fr/reunion/epidemie-de-chikungunya-a-la-reunion-5-800-nouveaux-cas-14-nouveau-nes-hospitalises-1575004.html) (Francetvinfo.fr)
 
 - [Valneva’s Chikungunya Vaccine IXCHIQ® Now Authorized in EU for Adolescents Aged 12 and Above](https://www.globenewswire.com/news-release/2025/04/01/3053626/0/en/Valneva-s-Chikungunya-Vaccine-IXCHIQ-Now-Authorized-in-EU-for-Adolescents-Aged-12-and-Above.html) (GlobeNewswire)
 
