@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 4
-- **Last harvest:** 2025-04-05 07:06
-- **Most recent article:** 2025-04-04 01:30:00
+- **New articles in last harvest:** 24
+- **Last harvest:** 2025-04-05 19:05
+- **Most recent article:** 2025-04-04 19:00:00
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-10 | 25-11 | 25-12 | 25-13 | 25-14 | 25-8 | 25-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 142 | 133 | 108 | 101 | 55 | 81 | 162 | 782 |
-| h5n1 | 23 | 39 | 57 | 47 | 9 | 51 | 42 | 268 |
-| dengue | 8 | 12 | 18 | 20 | 10 | 56 | 30 | 154 |
-| malaria | 29 | 22 | 18 | 30 | 11 | 7 | 20 | 137 |
+| measles | 142 | 133 | 108 | 101 | 63 | 79 | 162 | 788 |
+| h5n1 | 23 | 39 | 57 | 47 | 10 | 49 | 42 | 267 |
+| dengue | 8 | 12 | 18 | 20 | 11 | 55 | 30 | 154 |
+| malaria | 29 | 22 | 18 | 30 | 12 | 6 | 20 | 137 |
 | mpox | 14 | 15 | 8 | 12 | 10 | 15 | 26 | 100 |
-| chikungunya | 6 | 1 | 17 | 10 | 7 | 3 | 7 | 51 |
-| meningitis | 4 | 9 | 7 | 10 | 2 | 10 | 7 | 49 |
-| rabies | 3 | 8 | 3 | 19 | 5 | 4 | 2 | 44 |
-| hpai | 10 | 3 | 12 | 2 | 1 | 5 | 4 | 37 |
-| typhoid | 3 | 8 | 0 | 1 | 1 | 0 | 4 | 17 |
+| chikungunya | 6 | 1 | 17 | 10 | 12 | 3 | 7 | 56 |
+| meningitis | 4 | 9 | 7 | 10 | 4 | 10 | 7 | 51 |
+| rabies | 3 | 8 | 3 | 19 | 7 | 4 | 2 | 46 |
+| hpai | 10 | 3 | 12 | 2 | 2 | 5 | 4 | 38 |
+| typhoid | 3 | 8 | 0 | 1 | 2 | 0 | 4 | 18 |
 | zika | 3 | 0 | 2 | 3 | 1 | 6 | 2 | 17 |
-| pertussis | 0 | 5 | 1 | 0 | 4 | 2 | 0 | 12 |
+| pertussis | 0 | 5 | 1 | 0 | 6 | 2 | 0 | 14 |
 | yersinia | 1 | 2 | 2 | 3 | 0 | 0 | 2 | 10 |
 | leptospirosis | 3 | 0 | 1 | 0 | 0 | 2 | 0 | 6 |
 | shigellosis | 3 | 0 | 0 | 0 | 0 | 0 | 1 | 4 |
@@ -921,10 +921,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles outbreak in Texas raises concerns](https://www.cbsnews.com/video/measles-outbreak-in-texas-raises-concerns/) (CBS News)
 
-- [Texas Measles outbreak: How to stay safe from this infectious disease](https://timesofindia.indiatimes.com/etimes/trending/texas-measles-outbreak-how-to-stay-safe-from-this-infectious-disease/articleshow/118308735.cms) (The Times of India)
-
-- [Robert F. Kennedy Jr., measles and an alarming disregard for science, evidence, public health, welfare and common sense](https://edzardernst.com/2025/02/robert-f-kennedy-jr-measles-and-an-alarming-disregard-for-science-evidence-public-health-welfare-and-common-sense/) (Edzardernst.com)
-
 ## 25-8 (malaria)
 
 - [À Anvers, on manipule les moustiques génétiquement, pour lutter contre malaria](https://www.lavenir.net/actu/societe/2025/02/22/a-anvers-on-manipule-les-moustiques-genetiquement-pour-lutter-contre-malaria-7LMRSY6K5JDPJN3TQVCFZGRIAY/) (Lavenir.net)
@@ -938,8 +934,6 @@ Source: [News API](https://newsapi.org/)
 - [On the Medical Front, a 'Very Urgent' Need for Oxygen](https://www.newser.com/story/364454/on-the-medical-front-a-very-urgent-need-for-oxygen.html) (Newser)
 
 - [Potential new target for malaria discovered](https://www.nih.gov/news-events/nih-research-matters/potential-new-target-malaria-discovered) (National Institutes of Health)
-
-- [Africa's progress against malaria in "jeopardy" amid need for renewed commitments: officials](https://www.thestar.com.my/news/world/2025/02/17/africa039s-progress-against-malaria-in-jeopardy-amid-need-for-renewed-commitments-officials) (The Star Online)
 
 ## 25-8 (leptospirosis)
 
@@ -1059,10 +1053,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Grippe aviaire : face à l’aggravation de l’épizootie, les Etats-Unis vont importer des œufs turcs](https://www.lemonde.fr/economie/article/2025/02/16/grippe-aviaire-face-a-l-aggravation-de-l-epizootie-les-etats-unis-vont-importer-des-ufs-turcs_6549975_3234.html) (Le Monde)
 
-- [Fågelinfluensan fortsätter spridas – ägg ransoneras i USA](https://www.expressen.se/nyheter/varlden/fagelinfluensan-fortsatter-spridas-agg-ransoneras-i-usa/) (Expressen.se)
-
-- [Vogelgrippe in den USA: Eine einzige Mutation könnte die nächste Pandemie auslösen](https://taz.de/Vogelgrippe-in-den-USA/!6066694/) (taz.de)
-
 ## 25-8 (dengue)
 
 - [Za pět komárů 41 haléřů. Filipínci vypsali odměnu na moskyty přenášející horečku dengue](https://www.novinky.cz/clanek/koktejl-za-pet-komaru-41-haleru-filipinci-vypsali-odmenu-na-moskyty-prenasejici-horecku-dengue-40510089) (Novinky.cz)
@@ -1175,8 +1165,6 @@ Source: [News API](https://newsapi.org/)
 
 - ["The White Lotus": 3e saison semée d’embûches](https://www.lavenir.net/culture/2025/02/17/the-white-lotus-3e-saison-semee-dembuches-KVSIEUWV6BEZVEIDW4ZOKTTX6M/) (Lavenir.net)
 
-- [Casa livre de mosquitos: medidas para eliminar o Aedes aegypti](https://casa.abril.com.br/minha-casa/casa-livre-de-mosquitos-medidas-para-eliminar-o-aedes-aegypti) (Abril.com.br)
-
 ## 25-8 (chikungunya)
 
 - [Level 2 - Chikungunya in Réunion](https://wwwnc.cdc.gov/travel/notices/level2/chikungunya-reunion) (Cdc.gov)
@@ -1191,9 +1179,15 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-14 (typhoid)
 
+- [Is my microwave disrupting my Wi-Fi?](https://www.thenakedscientists.com/podcasts/ask-naked-scientists/my-microwave-disrupting-my-wi-fi) (The Naked Scientists)
+
 - [Drug-resistant cases of typhoid diagnosed in Ireland linked to travel to Indian sub-continent](https://www.independent.ie/irish-news/drug-resistant-cases-of-typhoid-diagnosed-in-ireland-linked-to-travel-to-indian-sub-continent/a1477855594.html) (Independent.ie)
 
 ## 25-14 (rabies)
+
+- [Manipur: Churachandpur village declared containment zone after multiple cases of rabies detected](https://economictimes.indiatimes.com/news/india/manipur-churachandpur-village-declared-containment-zone-after-multiple-cases-of-rabies-detected/articleshow/119990170.cms) (The Times of India)
+
+- [В ужас приводит даже её вид: Врач объяснила, почему больные бешенством боятся воды](https://life.ru/p/1741155) (Life.ru)
 
 - [Oral rabies vaccine being dropped in Southwest Virginia](https://www.wdbj7.com/2025/04/02/oral-rabies-vaccine-being-dropped-southwest-virginia/) (WDBJ7)
 
@@ -1206,6 +1200,10 @@ Source: [News API](https://newsapi.org/)
 - [Michigan Transplant Patient Dies After Contracting Rabies From Donor](https://www.medicaldaily.com/michigan-transplant-patient-dies-after-contracting-rabies-donor-473315) (Medical Daily)
 
 ## 25-14 (pertussis)
+
+- [Whooping Cough Killed Two Children. Here’s How to Protect Kids](https://www.scientificamerican.com/article/whooping-cough-killed-two-children-heres-how-to-protect-kids/) (Scientific American)
+
+- [Highlands Ranch High students may have been exposed to pertussis](https://www.denverpost.com/2025/04/04/highlands-ranch-high-school-pertussis-whooping-cough/) (The Denver Post)
 
 - [Conductores de 'Hoy' se vacunan en vivo contra el tétanos, la tos ferina y la difteria; así fue su reacción | FOTOS](https://www.milenio.com/espectaculos/famosos/conductores-de-hoy-se-vacunan-en-vivo-el-tetanos-y-la-difteria) (Milenio)
 
@@ -1239,11 +1237,31 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-14 (meningitis)
 
+- [Nigeria receives one million Gavi-funded vaccine doses to combat meningitis](https://punchng.com/nigeria-receives-one-million-gavi-funded-vaccine-doses-to-combat-meningitis/) (The Punch)
+
+- [North East Regional Health Directorate enhances meningitis response with new initiatives](https://3news.com/news/north-east-regional-health-directorate-enhances-meningitis-response-with-new-initiatives/) (3news.com)
+
 - [Nació con meningitis, tuvo epilepsia y un infarto cerebral que no le permite hablar: “Tiene una capacidad extraordinaria para relacionarse”](https://www.lanacion.com.ar/lifestyle/nacio-con-meningitis-tuvo-epilepsia-y-un-infarto-cerebral-que-no-le-permite-hablar-tiene-una-nid01042025/) (La Nacion)
 
 - [NCDC raises the alarm over rising meningitis cases, reports 74 deaths](https://punchng.com/ncdc-raises-the-alarm-over-rising-meningitis-cases-reports-74-deaths/) (The Punch)
 
 ## 25-14 (measles)
+
+- [Amid The Measles Outbreak, HHS Cuts 1/8th Of Workforce](https://www.techdirt.com/2025/04/04/amid-the-measles-outbreak-hhs-cuts-1-8th-of-workforce/) (Techdirt)
+
+- [Measles Outbreak: Cases Top 600 Nationwide With Texas At Epicenter](https://www.forbes.com/sites/antoniopequenoiv/2025/04/04/measles-outbreak-cases-top-600-nationwide-with-texas-at-epicenter/) (Forbes)
+
+- [Measles Outbreak Widens in Texas](https://politicalwire.com/2025/04/04/measles-outbreak-widens-in-texas/) (Politicalwire.com)
+
+- [Texas measles outbreak hits 481 cases, with 59 new infections confirmed in 3 days](https://abcnews.go.com/Health/measles-outbreak-texas-hits-481-cases-59-new/story?id=120485225) (ABC News)
+
+- [Measles Spreads To Central Texas; 5 States Now Have Active Outbreaks](https://www.huffpost.com/entry/measles-spreads-to-central-texas_n_67efeac4e4b06ba13d22244c) (HuffPost)
+
+- [Delivering Measles Vaccines On Horseback In Kyrgyzstan](https://www.forbes.com/sites/unicefusa/2025/04/04/delivering-measles-vaccines-on-horseback-in-kyrgyzstan/) (Forbes)
+
+- [‘The Pitt’ Episode 14 Adds More Horrors to Dr. Robby’s Day: An Anti-Vaxx Mom and a Kid With Measles](https://decider.com/2025/04/04/the-pitt-episode-14-measles/) (Decider)
+
+- [When Measles Were Great and Could Be Great Again](https://prawfsblawg.blogs.com/prawfsblawg/2025/04/when-measles-were-great-and-could-be-great-again.html) (Blogs.com)
 
 - [Ontario public health units target measles with education, vaccination](https://www.cbc.ca/news/health/measles-ontario-response-1.7501613) (CBC News)
 
@@ -1357,6 +1375,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-14 (malaria)
 
+- [Household costs associated with zoonotic Plasmodium knowlesi, P. falciparum, P. vivax and P. malariae infections in Sabah, Malaysia](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012180) (Plos.org)
+
 - [Podcast Episode 2: Addressing Urgent Needs in Seasonal Malaria Chemoprevention](https://blog.givewell.org/2025/04/03/podcast-episode-2-addressing-urgent-needs-in-seasonal-malaria-chemoprevention/) (Givewell.org)
 
 - [Enugu declares malaria treatment free in state hospitals](https://punchng.com/enugu-declares-malaria-treatment-free-in-state-hospitals/) (The Punch)
@@ -1381,9 +1401,13 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-14 (hpai)
 
+- [Govt tightens biosecurity rules as bird flu spreads beyond poultry](https://economictimes.indiatimes.com/news/india/govt-tightens-biosecurity-rules-as-bird-flu-spreads-beyond-poultry/articleshow/119988904.cms) (The Times of India)
+
 - [एक तिहाई अमेरिकियों ने अंडे खरीदना कर दिया बंद! महंगाई ने तोड़ दी कमर](https://hindi.moneycontrol.com/world/one-third-of-americans-have-stopped-buying-eggs-due-to-inflation-avian-influenza-bird-flu-trump-tarrif-plant-based-egg-article-1967522.html) (Moneycontrol)
 
 ## 25-14 (h5n1)
+
+- [Two-Year Old Dies Of Bird Flu After Eating Raw Chicken](https://www.shtfplan.com/headline-news/two-year-old-dies-of-bird-flu-after-eating-raw-chicken) (Shtfplan.com)
 
 - [En Europa alarma la posibilidad de propagación de un fuerte virus y piden prestar mucha atención al queso](https://www.huffingtonpost.es/life/salud/en-europa-alarma-posibilidad-propagacion-fuerte-virus-piden-prestar-atencion-queso.html) (Huffingtonpost.es)
 
@@ -1404,6 +1428,8 @@ Source: [News API](https://newsapi.org/)
 - [H5N1 : le virus de la grippe aviaire passe chez les mammifères… l’espèce suivante, c’est nous ?](https://www.futura-sciences.com/sante/actualites/virus-h5n1-virus-grippe-aviaire-passe-chez-mammiferes-espece-suivante-cest-nous-120803/) (Futura)
 
 ## 25-14 (dengue)
+
+- [Dengue poses an increasingly severe threat to Bangladesh—and the world’s largest refugee camp](https://www.bmj.com/content/389/bmj.r442) (The BMJ)
 
 - [Bengaluru civic body initiates measures to combat dengue cases](https://timesofindia.indiatimes.com/city/bengaluru/bengaluru-civic-body-initiates-measures-to-combat-dengue-cases/articleshow/119954206.cms) (The Times of India)
 
@@ -1426,6 +1452,16 @@ Source: [News API](https://newsapi.org/)
 - [Entenda quais são as diferenças entre surto, epidemia e pandemia](https://www.metropoles.com/saude/diferencas-surto-epidemia-pandemia) (Metropoles.com)
 
 ## 25-14 (chikungunya)
+
+- [Chikungunya : à La Réunion, le plan blanc activé](https://www.lemonde.fr/outre-mer/article/2025/04/04/chikungunya-a-la-reunion-le-plan-blanc-active_6591145_1840826.html) (Le Monde)
+
+- [La Réunion. Épidémie de chikungunya : le Plan blanc déclenché dans les hôpitaux de l'île](https://www.ledauphine.com/sante/2025/04/04/epidemie-de-chikungunya-le-plan-blanc-declenche-dans-les-hopitaux-de-l-ile) (Le Dauphiné Libéré)
+
+- [Epidémie de chikungunya : le plan blanc activé au CHU de La Réunion](https://la1ere.francetvinfo.fr/reunion/epidemie-de-chikungunya-le-plan-blanc-active-au-chu-de-la-reunion-1575661.html) (Francetvinfo.fr)
+
+- [À La Réunion frappée par le chikungunya, « les semaines les plus délicates se profilent », prévient Manuel Valls](https://www.huffingtonpost.fr/france/article/a-la-reunion-frappee-par-le-chikungunya-les-semaines-les-plus-delicates-se-profilent-previent-manuel-valls_248406.html) (Le HuffPost)
+
+- [Chikungunya : La Réunion lancera sa campagne de vaccination lundi](https://www.francetvinfo.fr/france/la-reunion/chikungunya-la-reunion-lancera-sa-campagne-de-vaccination-lundi_7170171.html) (Francetvinfo.fr)
 
 - [Chikungunya à La Réunion : une épidémie d'ampleur qui exige une vigilance renforcée](https://theconversation.com/chikungunya-a-la-reunion-une-epidemie-dampleur-qui-exige-une-vigilance-renforcee-253495) (The Conversation Africa)
 
