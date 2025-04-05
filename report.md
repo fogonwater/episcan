@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 16
-- **Last harvest:** 2025-04-04 19:06
-- **Most recent article:** 2025-04-03 18:35:34
+- **New articles in last harvest:** 4
+- **Last harvest:** 2025-04-05 07:06
+- **Most recent article:** 2025-04-04 01:30:00
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-10 | 25-11 | 25-12 | 25-13 | 25-14 | 25-8 | 25-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 142 | 133 | 108 | 101 | 53 | 79 | 162 | 778 |
-| h5n1 | 23 | 39 | 57 | 47 | 9 | 49 | 42 | 266 |
-| dengue | 8 | 12 | 18 | 20 | 10 | 55 | 30 | 153 |
-| malaria | 29 | 22 | 18 | 30 | 11 | 6 | 20 | 136 |
+| measles | 142 | 133 | 108 | 101 | 55 | 81 | 162 | 782 |
+| h5n1 | 23 | 39 | 57 | 47 | 9 | 51 | 42 | 268 |
+| dengue | 8 | 12 | 18 | 20 | 10 | 56 | 30 | 154 |
+| malaria | 29 | 22 | 18 | 30 | 11 | 7 | 20 | 137 |
 | mpox | 14 | 15 | 8 | 12 | 10 | 15 | 26 | 100 |
 | chikungunya | 6 | 1 | 17 | 10 | 7 | 3 | 7 | 51 |
 | meningitis | 4 | 9 | 7 | 10 | 2 | 10 | 7 | 49 |
 | rabies | 3 | 8 | 3 | 19 | 5 | 4 | 2 | 44 |
 | hpai | 10 | 3 | 12 | 2 | 1 | 5 | 4 | 37 |
+| typhoid | 3 | 8 | 0 | 1 | 1 | 0 | 4 | 17 |
 | zika | 3 | 0 | 2 | 3 | 1 | 6 | 2 | 17 |
-| typhoid | 3 | 8 | 0 | 1 | 0 | 0 | 4 | 16 |
-| pertussis | 0 | 5 | 1 | 0 | 3 | 2 | 0 | 11 |
+| pertussis | 0 | 5 | 1 | 0 | 4 | 2 | 0 | 12 |
 | yersinia | 1 | 2 | 2 | 3 | 0 | 0 | 2 | 10 |
 | leptospirosis | 3 | 0 | 1 | 0 | 0 | 2 | 0 | 6 |
 | shigellosis | 3 | 0 | 0 | 0 | 0 | 0 | 1 | 4 |
@@ -921,6 +921,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles outbreak in Texas raises concerns](https://www.cbsnews.com/video/measles-outbreak-in-texas-raises-concerns/) (CBS News)
 
+- [Texas Measles outbreak: How to stay safe from this infectious disease](https://timesofindia.indiatimes.com/etimes/trending/texas-measles-outbreak-how-to-stay-safe-from-this-infectious-disease/articleshow/118308735.cms) (The Times of India)
+
+- [Robert F. Kennedy Jr., measles and an alarming disregard for science, evidence, public health, welfare and common sense](https://edzardernst.com/2025/02/robert-f-kennedy-jr-measles-and-an-alarming-disregard-for-science-evidence-public-health-welfare-and-common-sense/) (Edzardernst.com)
+
 ## 25-8 (malaria)
 
 - [À Anvers, on manipule les moustiques génétiquement, pour lutter contre malaria](https://www.lavenir.net/actu/societe/2025/02/22/a-anvers-on-manipule-les-moustiques-genetiquement-pour-lutter-contre-malaria-7LMRSY6K5JDPJN3TQVCFZGRIAY/) (Lavenir.net)
@@ -934,6 +938,8 @@ Source: [News API](https://newsapi.org/)
 - [On the Medical Front, a 'Very Urgent' Need for Oxygen](https://www.newser.com/story/364454/on-the-medical-front-a-very-urgent-need-for-oxygen.html) (Newser)
 
 - [Potential new target for malaria discovered](https://www.nih.gov/news-events/nih-research-matters/potential-new-target-malaria-discovered) (National Institutes of Health)
+
+- [Africa's progress against malaria in "jeopardy" amid need for renewed commitments: officials](https://www.thestar.com.my/news/world/2025/02/17/africa039s-progress-against-malaria-in-jeopardy-amid-need-for-renewed-commitments-officials) (The Star Online)
 
 ## 25-8 (leptospirosis)
 
@@ -1053,6 +1059,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Grippe aviaire : face à l’aggravation de l’épizootie, les Etats-Unis vont importer des œufs turcs](https://www.lemonde.fr/economie/article/2025/02/16/grippe-aviaire-face-a-l-aggravation-de-l-epizootie-les-etats-unis-vont-importer-des-ufs-turcs_6549975_3234.html) (Le Monde)
 
+- [Fågelinfluensan fortsätter spridas – ägg ransoneras i USA](https://www.expressen.se/nyheter/varlden/fagelinfluensan-fortsatter-spridas-agg-ransoneras-i-usa/) (Expressen.se)
+
+- [Vogelgrippe in den USA: Eine einzige Mutation könnte die nächste Pandemie auslösen](https://taz.de/Vogelgrippe-in-den-USA/!6066694/) (taz.de)
+
 ## 25-8 (dengue)
 
 - [Za pět komárů 41 haléřů. Filipínci vypsali odměnu na moskyty přenášející horečku dengue](https://www.novinky.cz/clanek/koktejl-za-pet-komaru-41-haleru-filipinci-vypsali-odmenu-na-moskyty-prenasejici-horecku-dengue-40510089) (Novinky.cz)
@@ -1165,6 +1175,8 @@ Source: [News API](https://newsapi.org/)
 
 - ["The White Lotus": 3e saison semée d’embûches](https://www.lavenir.net/culture/2025/02/17/the-white-lotus-3e-saison-semee-dembuches-KVSIEUWV6BEZVEIDW4ZOKTTX6M/) (Lavenir.net)
 
+- [Casa livre de mosquitos: medidas para eliminar o Aedes aegypti](https://casa.abril.com.br/minha-casa/casa-livre-de-mosquitos-medidas-para-eliminar-o-aedes-aegypti) (Abril.com.br)
+
 ## 25-8 (chikungunya)
 
 - [Level 2 - Chikungunya in Réunion](https://wwwnc.cdc.gov/travel/notices/level2/chikungunya-reunion) (Cdc.gov)
@@ -1176,6 +1188,10 @@ Source: [News API](https://newsapi.org/)
 ## 25-14 (zika)
 
 - [Inicialmente ignorado, há 10 anos o zika vírus chegava nas terras e nas veias sanguíneas brasileiras](https://noticiabrasil.net.br/20250401/inicialmente-ignorado-ha-10-anos-o-zika-virus-chegava-nas-terras-e-nas-veias-sanguineas-brasileiras-39029653.html) (Noticiabrasil.net.br)
+
+## 25-14 (typhoid)
+
+- [Drug-resistant cases of typhoid diagnosed in Ireland linked to travel to Indian sub-continent](https://www.independent.ie/irish-news/drug-resistant-cases-of-typhoid-diagnosed-in-ireland-linked-to-travel-to-indian-sub-continent/a1477855594.html) (Independent.ie)
 
 ## 25-14 (rabies)
 
@@ -1190,6 +1206,8 @@ Source: [News API](https://newsapi.org/)
 - [Michigan Transplant Patient Dies After Contracting Rabies From Donor](https://www.medicaldaily.com/michigan-transplant-patient-dies-after-contracting-rabies-donor-473315) (Medical Daily)
 
 ## 25-14 (pertussis)
+
+- [Conductores de 'Hoy' se vacunan en vivo contra el tétanos, la tos ferina y la difteria; así fue su reacción | FOTOS](https://www.milenio.com/espectaculos/famosos/conductores-de-hoy-se-vacunan-en-vivo-el-tetanos-y-la-difteria) (Milenio)
 
 - [Whooping cough cases climb nationally, 2 infants die in Louisiana](https://www.wisn.com/article/rising-pertussis-whooping-cough-cases-louisiana/64376803) (WISN Milwaukee)
 
@@ -1226,6 +1244,10 @@ Source: [News API](https://newsapi.org/)
 - [NCDC raises the alarm over rising meningitis cases, reports 74 deaths](https://punchng.com/ncdc-raises-the-alarm-over-rising-meningitis-cases-reports-74-deaths/) (The Punch)
 
 ## 25-14 (measles)
+
+- [Ontario public health units target measles with education, vaccination](https://www.cbc.ca/news/health/measles-ontario-response-1.7501613) (CBC News)
+
+- [I grew up anti-vax, but I'm now vaccinating my kids. I want other parents to know it's OK to change their minds.](https://www.businessinsider.com/grew-up-anti-vax-just-got-my-kids-measles-vaccine-2025-4) (Business Insider)
 
 - [Measles case reported at Dublin art college in second HSE alert in two days](https://www.irishtimes.com/health/2025/04/03/measles-case-reported-at-dublin-art-college-in-second-hse-alert-in-two-days/) (The Irish Times)
 
