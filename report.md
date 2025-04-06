@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 44
-- **Last harvest:** 2025-04-06 07:06
-- **Most recent article:** 2025-04-05 07:02:12
+- **New articles in last harvest:** 22
+- **Last harvest:** 2025-04-06 19:05
+- **Most recent article:** 2025-04-05 18:27:47
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-10 | 25-11 | 25-12 | 25-13 | 25-14 | 25-9 | Total |
 |--|-|-|-|-|-|-|-|
-| measles | 142 | 133 | 108 | 101 | 68 | 162 | 714 |
-| h5n1 | 23 | 39 | 57 | 47 | 37 | 42 | 245 |
+| measles | 142 | 133 | 108 | 101 | 74 | 158 | 716 |
+| h5n1 | 23 | 39 | 57 | 47 | 45 | 38 | 249 |
 | malaria | 29 | 22 | 18 | 30 | 13 | 20 | 132 |
-| dengue | 8 | 12 | 18 | 20 | 12 | 30 | 100 |
-| mpox | 14 | 15 | 8 | 12 | 16 | 26 | 91 |
-| chikungunya | 6 | 1 | 17 | 10 | 13 | 7 | 54 |
+| dengue | 8 | 12 | 18 | 20 | 14 | 29 | 101 |
+| mpox | 14 | 15 | 8 | 12 | 17 | 26 | 92 |
+| chikungunya | 6 | 1 | 17 | 10 | 17 | 7 | 58 |
 | meningitis | 4 | 9 | 7 | 10 | 6 | 7 | 43 |
 | rabies | 3 | 8 | 3 | 19 | 7 | 2 | 42 |
-| hpai | 10 | 3 | 12 | 2 | 3 | 4 | 34 |
+| hpai | 10 | 3 | 12 | 2 | 4 | 4 | 35 |
 | typhoid | 3 | 8 | 0 | 1 | 2 | 4 | 18 |
+| zika | 3 | 0 | 2 | 3 | 3 | 2 | 13 |
 | pertussis | 0 | 5 | 1 | 0 | 7 | 0 | 13 |
-| zika | 3 | 0 | 2 | 3 | 2 | 2 | 12 |
-| yersinia | 1 | 2 | 2 | 3 | 0 | 1 | 9 |
+| yersinia | 1 | 2 | 2 | 3 | 0 | 0 | 8 |
 | leptospirosis | 3 | 0 | 1 | 0 | 0 | 0 | 4 |
 | shigellosis | 3 | 0 | 0 | 0 | 0 | 1 | 4 |
 
@@ -38,10 +38,6 @@ Source: [News API](https://newsapi.org/)
 - [Estimating per-infection cost and burden for dengue and Zika as a function of antibody-dependent enhancement](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012876) (Plos.org)
 
 - [Brasil aposta em mais vacinas para doenças tropicais e público maior](https://valor.globo.com/publicacoes/especiais/inovacao-na-medicina/noticia/2025/02/26/brasil-aposta-em-mais-vacinas-para-doencas-tropicais-e-publico-maior.ghtml) (Globo)
-
-## 25-9 (yersinia)
-
-- [The medieval house might have been built to specifications approved by a rodent council](https://www.isegoria.net/2025/02/the-medieval-house-might-have-been-built-to-specifications-approved-by-a-rodent-council/) (Isegoria.net)
 
 ## 25-9 (typhoid)
 
@@ -451,14 +447,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Hays County warns of possible measles exposure in San Marcos](https://www.fox7austin.com/news/hays-county-warns-possible-measles-exposure-san-marcos) (FOX 7 Austin)
 
-- [Gottlieb "very concerned" about Texas measles outbreak: "I think this will spread"](https://www.cbsnews.com/video/gottlieb-very-concerned-about-texas-measles-outbreak-i-think-this-will-spread/) (CBS News)
-
-- [TWiV 1195: Dickson Despommier, parasitologist without borders](https://www.microbe.tv/twiv/twiv-1195/) (Microbe.tv)
-
-- [Measles: A resurgent threat in Canada](https://theconversation.com/measles-a-resurgent-threat-in-canada-249932) (The Conversation Africa)
-
-- [‘Deadly consequences’: Health agencies reel from thousands of job cuts while critical research grants remain on hold | CNN](https://www.cnn.com/2025/02/23/health/public-health-job-cuts/index.html) (CNN)
-
 ## 25-9 (malaria)
 
 - [Trump Ends Funding For Malaria, H.I.V., & More Global Health Programs - NewsBreak](https://www.newsbreak.com/share/3834544178448-trump-ends-funding-for-malaria-h-i-v-more-global-health-programs?s=a2&share_destination_id=MzAxMzA4NTY4LTE3NDA4MTI1OTgzNjY%3D&pd=0KOG7cgN&hl=en_US&send_time=1740812598&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2224.39.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_model_exp_25q1-v8%2Cns_foryou_blend_exp_25q1-v3%2Cns_foryou_rank_exp_25q1-v2%2Cns_push_exp_rt_bucketv12-v2%2Cns_foryou_recall_exp_25q1-v3%2Cns_local_strategy_25q1_exp-v12) (Newsbreak.com)
@@ -589,14 +577,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Alerta el riesgo de que gripe aviar cause muertes humanas](https://www.jornada.com.mx/2025/02/24/politica/015n3pol) (Jornada.com.mx)
 
-- [USDA Confirms Bird Flu In Rats](https://www.shtfplan.com/headline-news/usda-confirms-bird-flu-in-rats) (Shtfplan.com)
-
-- [Gripe H5N1 será a nova ameaça depois da COVID-19?](https://pplware.sapo.pt/informacao/gripe-h5n1-sera-a-nova-ameaca-depois-da-covid-19/) (Sapo.pt)
-
-- [TWiV 1195: Dickson Despommier, parasitologist without borders](https://www.microbe.tv/twiv/twiv-1195/) (Microbe.tv)
-
-- [Francisco George: gripe H5N1 é ameaça de nova epidemia no horizonte](https://observador.pt/2025/02/23/francisco-george-gripe-h5n1-e-ameaca-de-nova-epidemia-no-horizonte/) (Observador.pt)
-
 ## 25-9 (dengue)
 
 - [“Mosquito argentino”. El temor al dengue genera hasta cinco horas de demora en un cruce fronterizo](https://www.lanacion.com.ar/sociedad/mosquito-argentino-el-temor-al-dengue-genera-hasta-cinco-horas-de-demora-en-un-cruce-fronterizo-nid01032025/) (La Nacion)
@@ -657,8 +637,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Enfermedades respiratorias aumentaron en Nayarit desde el inicio del 2025](https://www.excelsior.com.mx/nacional/enfermedades-respiratorias-aumentaron-en-nayarit-desde-el-inicio-del-2025/1701463) (Excelsior.com.mx)
 
-- [Philippine village battles dengue by offering bounties for mosquitos — dead or alive](https://www.voanews.com/a/philippine-village-battles-dengue-by-offering-bounties-for-mosquitos-dead-or-alive/7984215.html) (VOA News)
-
 ## 25-9 (chikungunya)
 
 - [Low capacity for molecular detection of Alphaviruses other than Chikungunya virus in 23 European laboratories, March 2022](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318602) (Plos.org)
@@ -676,6 +654,8 @@ Source: [News API](https://newsapi.org/)
 - [Bavarian Nordic indgår partnerskab med Biological E Limited med henblik på at udvide global adgang til chikungunyavaccine](https://www.globenewswire.com/news-release/2025/02/25/3031656/0/da/Bavarian-Nordic-indg%C3%A5r-partnerskab-med-Biological-E-Limited-med-henblik-p%C3%A5-at-udvide-global-adgang-til-chikungunyavaccine.html) (GlobeNewswire)
 
 ## 25-14 (zika)
+
+- [Antiviral chewing gum shows promise in reducing influenza and herpes spread](https://medicalxpress.com/news/2025-04-antiviral-gum-influenza-herpes.html) (Medical Xpress)
 
 - [An antiviral chewing gum to reduce influenza and herpes simplex virus transmission](https://www.sciencedaily.com/releases/2025/04/250404201407.htm) (Science Daily)
 
@@ -720,6 +700,8 @@ Source: [News API](https://newsapi.org/)
 - [Putting computational models of immunity to the test—An invited challenge to predict B.pertussis vaccination responses](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012927) (Plos.org)
 
 ## 25-14 (mpox)
+
+- [Hohe MPox-Zahlen in Berlin: Forscher warnen vor Pandemie-Risiko](https://www.morgenpost.de/berlin/article408720324/hohe-mpox-zahlen-in-berlin-forscher-warnen-vor-pandemie-risiko.html) (Berliner Morgenpost)
 
 - [Hohes Pandemierisiko: Experten warnen vor globaler Bedrohung durch Mpox](https://www.n-tv.de/wissen/Experten-warnen-vor-globaler-Bedrohung-durch-Mpox-und-sehen-hohes-Pandemierisiko-article25682528.html) (N-tv.de)
 
@@ -768,6 +750,18 @@ Source: [News API](https://newsapi.org/)
 - [NCDC raises the alarm over rising meningitis cases, reports 74 deaths](https://punchng.com/ncdc-raises-the-alarm-over-rising-meningitis-cases-reports-74-deaths/) (The Punch)
 
 ## 25-14 (measles)
+
+- [RFK Jr. Makes Jaw-Dropping Gaffe About Measles Outbreak](https://www.thedailybeast.com/rfk-jr-makes-jaw-dropping-gaffe-about-measles-outbreak/) (Daily Beast)
+
+- [Multiple Texas Children With Vitamin A Toxicity From Use Vs. Measles](https://www.forbes.com/sites/brucelee/2025/04/05/multiple-texas-children-with-vitamin-a-toxicity-from-use-vs-measles/) (Forbes)
+
+- [RFK Jr.'s measles 'cure' sickens Texas kids amid outbreak](https://www.dw.com/en/rfk-jrs-measles-cure-sickens-texas-kids-amid-outbreak/a-72149122) (DW (English))
+
+- [Hawaii governor: An urgent call to action to protect America’s children from measles](https://www.cnn.com/2025/04/05/health/hawaii-governor-measles-call-to-action) (CNN)
+
+- [Luke O’Neill: Once and for all, autism is not caused by the MMR vaccine against measles](https://www.independent.ie/opinion/luke-oneill-once-and-for-all-autism-is-not-caused-by-the-mmr-vaccine-against-measles/a42582654.html) (Independent.ie)
+
+- [Measles vaccine clinics to be held at 4 Halifax-area schools this weekend](https://www.cbc.ca/news/canada/nova-scotia/measles-vaccine-clinics-to-be-held-at-4-halifax-area-schools-this-weekend-1.7502282) (CBC News)
 
 - [Texas measles outbreak nears 500 cases as virus spreads among day care kids](https://www.nbcnews.com/health/health-news/texas-measles-daycare-outbreak-confirmed-cases-rcna199631) (NBC News)
 
@@ -935,6 +929,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-14 (hpai)
 
+- [Government orders four Māori influencers to stop promoting online gambling - or face $10k fine](https://www.nzherald.co.nz/kahu/government-orders-maori-influencers-to-stop-promoting-online-gambling-or-face-10k-fine/BE66NAFH5JEM7JN7QXQMYRLOSI/) (New Zealand Herald)
+
 - [Avian flu identified in Sheboygan County poultry flock](https://www.fox6now.com/news/avian-flu-sheboygan-county-poultry-flock) (fox6now.com)
 
 - [Govt tightens biosecurity rules as bird flu spreads beyond poultry](https://economictimes.indiatimes.com/news/india/govt-tightens-biosecurity-rules-as-bird-flu-spreads-beyond-poultry/articleshow/119988904.cms) (The Times of India)
@@ -942,6 +938,22 @@ Source: [News API](https://newsapi.org/)
 - [एक तिहाई अमेरिकियों ने अंडे खरीदना कर दिया बंद! महंगाई ने तोड़ दी कमर](https://hindi.moneycontrol.com/world/one-third-of-americans-have-stopped-buying-eggs-due-to-inflation-avian-influenza-bird-flu-trump-tarrif-plant-based-egg-article-1967522.html) (Moneycontrol)
 
 ## 25-14 (h5n1)
+
+- [México confirma un primer caso humano de gripe aviar: se trata de una niña de tres años](https://www.montevideo.com.uy/Salud/Mexico-confirma-un-primer-caso-humano-de-gripe-aviar-se-trata-de-una-nina-de-tres-anos-uc919879) (Montevideo.com.uy)
+
+- [Vaccin nazal împotriva gripei aviare H5N1, dezvoltat în Hong Kong: protecție dintr-o singură doză](https://adevarul.ro/stil-de-viata/stiinta/vaccin-nazal-impotriva-gripei-aviare-h5n1-2434096.html) (Adevarul.ro)
+
+- [Vaccin nazal împotriva H5N1. Modul de administrare ar putea fi cheia combaterii unor eventuale pandemii](http://hotnews.ro/vaccin-nazal-impotriva-h5n1-modul-de-administrare-ar-putea-fi-cheia-combaterii-unor-eventuale-pandemii-1941500) (Hotnews.ro)
+
+- [Vaccin nazal împotriva gripei aviare H5N1, dezvoltat de cercetătorii din Hong Kong: ar putea preveni declanșarea unei pandemii](https://www.digi24.ro/stiri/actualitate/sanatate/vaccin-nazal-impotriva-gripei-aviare-h5n1-dezvoltat-de-cercetatorii-din-hong-kong-ar-putea-preveni-declansarea-unei-pandemii-3187025) (Digi24.ro)
+
+- [Antiviral chewing gum shows promise in reducing influenza and herpes spread](https://medicalxpress.com/news/2025-04-antiviral-gum-influenza-herpes.html) (Medical Xpress)
+
+- [Meksika'da ilk kez bir insanda 'H5N1' türü kuş gribine rastlandı](https://www.patronlardunyasi.com/meksikada-ilk-kez-bir-insanda-h5n1-turu-kus-gribine-rastlandi) (Patronlardunyasi.com)
+
+- [Y ahora H5N1](https://www.excelsior.com.mx/opinion/yuriria-sierra/y-ahora-h5n1/1709047) (Excelsior.com.mx)
+
+- [Detectan primer caso humano de influenza aviar A/H5N1 en México](https://www.jornada.com.mx/2025/04/05/politica/009n1pol) (Jornada.com.mx)
 
 - [Primul caz de gripă aviară la om din Mexic, confirmat la o fetiță de 3 ani](https://www.mediafax.ro/externe/primul-caz-de-gripa-aviara-la-om-din-mexic-confirmat-la-o-fetita-de-3-ani-23536906) (Mediafax.ro)
 
@@ -1019,6 +1031,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-14 (dengue)
 
+- [Brasil ultrapassa o marco de 500 mortes por dengue em 2025](https://www.terra.com.br/vida-e-estilo/saude/brasil-ultrapassa-o-marco-de-500-mortes-por-dengue-em-2025,00610697e40734fa9cbbdb6790e187bfnj0dw7j9.html) (Terra.com.br)
+
+- [Mutirão contra a dengue mobiliza moradores do Passo das Pedras neste sábado](https://www.terra.com.br/noticias/mutirao-contra-a-dengue-mobiliza-moradores-do-passo-das-pedras-neste-sabado,168fb6315efa3e4bbf151ddf0df72fc6xiv5ozbh.html) (Terra.com.br)
+
 - [Rise in mosquito-borne viruses likely after outback flooding](https://www.abc.net.au/news/2025-04-05/mosquito-japenese-encephalitis-dengue-fever-rain-flood/105133696) (ABC News (AU))
 
 - [Dengue poses an increasingly severe threat to Bangladesh—and the world’s largest refugee camp](https://www.bmj.com/content/389/bmj.r442) (The BMJ)
@@ -1044,6 +1060,14 @@ Source: [News API](https://newsapi.org/)
 - [Entenda quais são as diferenças entre surto, epidemia e pandemia](https://www.metropoles.com/saude/diferencas-surto-epidemia-pandemia) (Metropoles.com)
 
 ## 25-14 (chikungunya)
+
+- [Epidémie de chikungunya : ce que l'on sait de la situation "préoccupante" à La Réunion où le plan blanc est activé](https://www.francetvinfo.fr/sante/maladie/chikungunya/epidemie-de-chikungunya-ce-que-l-on-sait-de-la-situation-preoccupante-a-la-reunion-ou-le-plan-blanc-est-active_7172295.html) (Francetvinfo.fr)
+
+- [Vaccination contre le chikungunya à l'île de la Réunion : "On s'y prend un peu tard", regrette le docteur Eric Caumes](https://www.francetvinfo.fr/sante/maladie/chikungunya/vaccination-contre-le-chikungunya-a-l-ile-de-la-reunion-on-s-y-prend-un-peu-tard-regrette-le-docteur-eric-caumes_7172094.html) (Francetvinfo.fr)
+
+- [Santé. Chikungunya : un cas signalé en Martinique, l'épidémie se poursuit à La Réunion](https://www.ledauphine.com/sante/2025/04/05/chikungunya-un-cas-signale-en-martinique-l-epidemie-se-poursuit-a-la-reunion) (Le Dauphiné Libéré)
+
+- [Un cas de chikungunya, importé de la Réunion, signalé en Martinique](https://www.francetvinfo.fr/sante/maladie/chikungunya/un-cas-de-chikungunya-importe-de-la-reunion-signale-en-martinique_7172028.html) (Francetvinfo.fr)
 
 - [Chikungunya à La Réunion : "La situation est préoccupante", selon le directeur général de l'ARS de l'île](https://www.francetvinfo.fr/sante/maladie/chikungunya/chikungunya-a-la-reunion-la-situation-est-preoccupante-selon-le-directeur-general-de-l-ars-de-l-ile_7170864.html) (Francetvinfo.fr)
 

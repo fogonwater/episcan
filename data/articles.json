@@ -1,8 +1,405 @@
 {
-  "last_updated": "2025-04-06 07:06",
-  "count_articles_total": 1480,
-  "count_articles_new": 44,
+  "last_updated": "2025-04-06 19:05",
+  "count_articles_total": 1493,
+  "count_articles_new": 22,
   "articles": [
+    {
+      "id": 20037,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Daily Beast",
+      "author": "The Swamp",
+      "title": "RFK Jr. Makes Jaw-Dropping Gaffe About Measles Outbreak",
+      "description": "It\u2019s a Beast of a time in Washington, D.C. Donald Trump\u2019s reality show is full of new characters, plot twists, and cliffhangers, and the Daily Beast will...",
+      "url": "https://www.thedailybeast.com/rfk-jr-makes-jaw-dropping-gaffe-about-measles-outbreak/",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Suok5.ds.pzOeusy_pHKmw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/thedailybeast.com/f5f5acef973271fabdcaf324308b84ad",
+      "publishedAt": "2025-04-05 18:27:47",
+      "content": "Its a Beast of a time in Washington, D.C. Donald Trumps reality show is full of new characters, plot twists, and cliffhangers, and the Daily Beast will navigate you through it. The 47th president w\u2026 [+2889 chars]",
+      "retrievedAt": "2025-04-06 19:05:31.909209",
+      "internal_id": "fe4630fdbc919914ba1ad3c55d9195e7e8d7fffe93343b18a268b9e8898f58ad",
+      "publishedAtLabel": "Apr 5"
+    },
+    {
+      "id": 20043,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "New Zealand Herald",
+      "author": "Joseph Los'e",
+      "title": "Government orders four M\u0101ori influencers to stop promoting online gambling - or face $10k fine",
+      "description": "Online casinos have enjoyed a surge in promotion by M\u0101ori influencers",
+      "url": "https://www.nzherald.co.nz/kahu/government-orders-maori-influencers-to-stop-promoting-online-gambling-or-face-10k-fine/BE66NAFH5JEM7JN7QXQMYRLOSI/",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/D5ER6BQA5JAXLJF26OBGJYZ7EM.jpg?auth=473187168c84b88571cea60ceddf504e1e1c7c36c5bbcd8a6f50b3c16dd9f571&width=1200&height=675&quality=70&smart=true",
+      "publishedAt": "2025-04-05 17:00:00",
+      "content": "Mori health organisation Hpai Te Hauora told the Herald that a range of Mori influencers have promoted online gambling, including CWK aka Nix Adams, Memoirs of a Mori, Jaymuk, The Cuzzy Trex, Millie \u2026 [+7466 chars]",
+      "retrievedAt": "2025-04-06 19:05:32.802823",
+      "internal_id": "0884c84aca93e05a900b48e17754c5f8bcb48ea8e54c7759cc27b69e560803f6",
+      "publishedAtLabel": "Apr 5"
+    },
+    {
+      "id": 20048,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "M\u00e9xico confirma un primer caso humano de gripe aviar: se trata de una ni\u00f1a de tres a\u00f1os",
+      "description": "La peque\u00f1a est\u00e1 \u201cgrave\u201d. En una primera instancia recibi\u00f3 tratamiento con oseltamivir y actualmente se encuentra hospitalizada.",
+      "url": "https://www.montevideo.com.uy/Salud/Mexico-confirma-un-primer-caso-humano-de-gripe-aviar-se-trata-de-una-nina-de-tres-anos-uc919879",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202303/_W933_80/835564.jpg",
+      "publishedAt": "2025-04-05 16:57:00",
+      "content": "La Secretar\u00eda de Salud de M\u00e9xico inform\u00f3 el pasado viernes que fue detectado el primer caso de gripe o influenza aviar A (H5N1) en una ni\u00f1a de tres a\u00f1os en el estado de Durango (norte), cuya condic\u2026 [+2159 chars]",
+      "retrievedAt": "2025-04-06 19:05:33.852540",
+      "internal_id": "8ef93a5faa22e6db1c17b12ffee6c00574338f9c6565a0c2287dd143f1838cf8",
+      "publishedAtLabel": "Apr 5"
+    },
+    {
+      "id": 20038,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Bruce Y. Lee, Senior Contributor, \n Bruce Y. Lee, Senior Contributor\n https://www.forbes.com/sites/brucelee/",
+      "title": "Multiple Texas Children With Vitamin A Toxicity From Use Vs. Measles",
+      "description": "With measles outbreak continuing in Texas, there are now reported cases of children suffering from vitamin A toxicity in after use of supplement against the measles.",
+      "url": "https://www.forbes.com/sites/brucelee/2025/04/05/multiple-texas-children-with-vitamin-a-toxicity-from-use-vs-measles/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67f1481809fc3b640ca11e7d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-04-05 16:19:30",
+      "content": "Covent Childrens Hospital in Lubbock, Texas, has confirmed that multiple children in West Texas ... More have needed treatment for vitamin A toxicity. (Image: Getty) getty Measles outbreaks continu\u2026 [+6921 chars]",
+      "retrievedAt": "2025-04-06 19:05:31.957863",
+      "internal_id": "4d1a398fb643cdb48c982a065279695611fbdf4a16af671a434cdce4486f143e",
+      "publishedAtLabel": "Apr 5"
+    },
+    {
+      "id": 20054,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Francetvinfo.fr",
+      "author": null,
+      "title": "Epid\u00e9mie de chikungunya : ce que l'on sait de la situation \"pr\u00e9occupante\" \u00e0 La R\u00e9union o\u00f9 le plan blanc est activ\u00e9",
+      "description": "Le nombre de contaminations explose sur l'\u00eele, mettant \u00e0 mal le syst\u00e8me de sant\u00e9. Le ministre des Outre-mer, Manuel Valls, est attendu sur l'\u00eele, dimanche, \u00e0 la veille du coup d'envoi de la campagne de vaccination.",
+      "url": "https://www.francetvinfo.fr/sante/maladie/chikungunya/epidemie-de-chikungunya-ce-que-l-on-sait-de-la-situation-preoccupante-a-la-reunion-ou-le-plan-blanc-est-active_7172295.html",
+      "urlToImage": "https://www.francetvinfo.fr/pictures/WCc9hV_WMSVUEVdV0OCibnRIpu4/0x53:1024x629/1500x843/2025/04/05/000-37ep7zp-67f13ffacd6a1453385283.jpg",
+      "publishedAt": "2025-04-05 16:19:18",
+      "content": "\"La situation est pr\u00e9occupante.\" Le directeur g\u00e9n\u00e9ral de l'agence r\u00e9gionale de sant\u00e9 (ARS) de La R\u00e9union, G\u00e9rard Cotellon, a alert\u00e9, vendredi 4 avril, sur franceinfo, sur l'\u00e9pid\u00e9mie de chikungunya qu\u2026 [+8033 chars]",
+      "retrievedAt": "2025-04-06 19:05:36.267868",
+      "internal_id": "f87ba09df9a09a48ff29dff743f5e3e4e7fafaa3f3f375fc16b2cba16185abfe",
+      "publishedAtLabel": "Apr 5"
+    },
+    {
+      "id": 20045,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Adevarul.ro",
+      "author": "Oana Ababei",
+      "title": "Vaccin nazal \u00eempotriva gripei aviare H5N1, dezvoltat \u00een Hong Kong: protec\u021bie dintr-o singur\u0103 doz\u0103",
+      "description": "Cercet\u0103torii din Hong Kong au anun\u021bat lansarea unui vaccin intranazal inovator \u00eempotriva virusului gripei aviare H5N1.",
+      "url": "https://adevarul.ro/stil-de-viata/stiinta/vaccin-nazal-impotriva-gripei-aviare-h5n1-2434096.html",
+      "urlToImage": "https://cdn.adh.reperio.news/image-5/5759f8e0-b713-4dc5-9301-ed049c34e592/index.jpeg?p=f%3Djpeg%26w%3D1200%26h%3D630%26r%3Dcover",
+      "publishedAt": "2025-04-05 14:31:50",
+      "content": "Cercettorii din Hong Kong au anunat lansarea unui vaccin intranazal inovator \u00eempotriva virusului gripei aviare H5N1, considerat un pericol major pentru sntatea global. Vaccinul, dezvoltat pe o platf\u2026 [+1815 chars]",
+      "retrievedAt": "2025-04-06 19:05:33.677509",
+      "internal_id": "e570a23c8333cba175f435158a285c32b3f09e8c2e64c85a4c8a53ae5b73f64e",
+      "publishedAtLabel": "Apr 5"
+    },
+    {
+      "id": 20039,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "DW (English)",
+      "author": "Jon Shelton",
+      "title": "RFK Jr.'s measles 'cure' sickens Texas kids amid outbreak",
+      "description": "US Health and Human Services Secretary Robert F. Kennedy, Jr. has advised taking vitamin A to fight measles. A Texas hospital is now treating children with toxic levels of the supplement in their bodies.",
+      "url": "https://www.dw.com/en/rfk-jrs-measles-cure-sickens-texas-kids-amid-outbreak/a-72149122",
+      "urlToImage": "https://static.dw.com/image/72149032_6.jpg",
+      "publishedAt": "2025-04-05 14:27:00",
+      "content": "This article may be potentially distressing to parents with children. West Texas has been gripped by a measles outbreak for the past several weeks and as a result of misinformation passed on by Heal\u2026 [+4132 chars]",
+      "retrievedAt": "2025-04-06 19:05:32.015273",
+      "internal_id": "a62b432dee33179a5d49cc2d27238d719de9489845c891652d9c074b6c6da240",
+      "publishedAtLabel": "Apr 5"
+    },
+    {
+      "id": 20053,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Estad\u00e3o Conte\u00fado",
+      "title": "Brasil ultrapassa o marco de 500 mortes por dengue em 2025",
+      "description": "Entre 1\u00ba de janeiro e 29 de mar\u00e7o, foram 526 \u00f3bitos confirmados pela doen\u00e7a; outras 712 mortes suspeitas ainda est\u00e3o em an\u00e1lise; Estado de S\u00e3o Paulo lidera em infectados e mortes",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/brasil-ultrapassa-o-marco-de-500-mortes-por-dengue-em-2025,00610697e40734fa9cbbdb6790e187bfnj0dw7j9.html",
+      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2025-04-05 14:14:46",
+      "content": "O Brasil ultrapassou o marco de500 mortes por dengue em 2025. Segundo o Painel de Monitoramento das Arboviroses do Minist\u00e9rio da Sa\u00fade, o per\u00edodo de 1\u00ba de janeiro a 29 de mar\u00e7o teve 526 \u00f3bitos pela d\u2026 [+2295 chars]",
+      "retrievedAt": "2025-04-06 19:05:34.647904",
+      "internal_id": "3f7dd4190afffd7c10fb227428ef134b807fe1580eed3a284e6c49f82b8bc920",
+      "publishedAtLabel": "Apr 5"
+    },
+    {
+      "id": 20040,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Opinion by Dr. Josh Green",
+      "title": "Hawaii governor: An urgent call to action to protect America\u2019s children from measles",
+      "description": "Dr. Josh Green says HHS \u201cmust mount an extensive, science-based vaccination campaign to halt the spread of measles and prevent future tragedies.\u201d",
+      "url": "https://www.cnn.com/2025/04/05/health/hawaii-governor-measles-call-to-action",
+      "urlToImage": "https://media.zenfs.com/en/cnn_articles_875/6f29c47a502aad3d37074ce8ba51bf4e",
+      "publishedAt": "2025-04-05 13:00:35",
+      "content": "Editors note:Dr. Josh Green is the governor of Hawaii. Before being elected governor in 2022, he worked as an emergency room doctor and family physician in Hawaii for over 20 years. While serving as \u2026 [+7388 chars]",
+      "retrievedAt": "2025-04-06 19:05:32.099669",
+      "internal_id": "882bf0f84d872882c5a0f116551dcb2587b1c85cb360bebc6632f25453682dbb",
+      "publishedAtLabel": "Apr 5"
+    },
+    {
+      "id": 20044,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Hotnews.ro",
+      "author": "Adrian Ilie",
+      "title": "Vaccin nazal \u00eempotriva H5N1. Modul de administrare ar putea fi cheia combaterii unor eventuale pandemii",
+      "description": "Cercet\u0103torii din Hong Kong lanseaz\u0103 un vaccin nazal inovator \u00eempotriva gripei aviare. Platforma, testat\u0103 \u00een pandemie pentru Covid-19 este acum extins\u0103 pentru combaterea virusului H5N1, considerat un risc major pentru s\u0103n\u0103tatea global\u0103. Administrarea intranaza\u2026",
+      "url": "http://hotnews.ro/vaccin-nazal-impotriva-h5n1-modul-de-administrare-ar-putea-fi-cheia-combaterii-unor-eventuale-pandemii-1941500",
+      "urlToImage": "https://hotnews.ro/wp-content/uploads/2025/04/profimedia-0353330522.jpg",
+      "publishedAt": "2025-04-05 12:54:55",
+      "content": "Cercettorii din Hong Kong lanseaz un vaccin nazal inovator \u00eempotriva gripei aviare. Platforma, testat \u00een pandemie pentru Covid-19 este acum extins pentru combaterea virusului H5N1, considerat un risc\u2026 [+3936 chars]",
+      "retrievedAt": "2025-04-06 19:05:33.654817",
+      "internal_id": "3f87c58e3c5b7cf4efc00e915e7c38e395c3d34bf706df89affd8611765be08d",
+      "publishedAtLabel": "Apr 5"
+    },
+    {
+      "id": 20049,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Digi24.ro",
+      "author": "\u0218tefania Apostol",
+      "title": "Vaccin nazal \u00eempotriva gripei aviare H5N1, dezvoltat de cercet\u0103torii din Hong Kong: ar putea preveni declan\u0219area unei pandemii",
+      "description": "Oamenii de \u0219tiin\u021b\u0103 din Hong Kong au dezvoltat un vaccin intranazal experimental \u00eempotriva virusului H5N1, tulpina gripei aviare considerat\u0103 una dintre cele mai mari amenin\u021b\u0103ri pandemice. Serul folose\u0219te o tehnologie bazat\u0103 pe vector viral gripal, testat\u0103 ante\u2026",
+      "url": "https://www.digi24.ro/stiri/actualitate/sanatate/vaccin-nazal-impotriva-gripei-aviare-h5n1-dezvoltat-de-cercetatorii-din-hong-kong-ar-putea-preveni-declansarea-unei-pandemii-3187025",
+      "urlToImage": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjUl/MkYwNCUyRjA1JTJGMjIzMDA2MV8yMjMw/MDYxX3NodXR0ZXJzdG9ja18yMjUzNjcz/NTkzLmpwZyZ3PTEyMDAmaD02MzAmemM9/MSZoYXNoPTdiYjcxN2EyZGY1N2U2NWE2MmY0YzgyOWEyM2QwNDc2.thumb.jpg",
+      "publishedAt": "2025-04-05 12:41:09",
+      "content": "Oamenii de tiin din Hong Kong au dezvoltat un vaccin intranazal experimental \u00eempotriva virusului H5N1, tulpina gripei aviare considerat una dintre cele mai mari ameninri pandemice. Serul folosete o t\u2026 [+3696 chars]",
+      "retrievedAt": "2025-04-06 19:05:33.860864",
+      "internal_id": "765cc1e0945cbd9903fa3d956caf8380bb3d61c347553102c4f003dc7a0cfb5a",
+      "publishedAtLabel": "Apr 5"
+    },
+    {
+      "id": 20058,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Berliner Morgenpost",
+      "author": "Martin Nefzger",
+      "title": "Hohe MPox-Zahlen in Berlin: Forscher warnen vor Pandemie-Risiko",
+      "description": "In Berlin sind 2025 bisher ungew\u00f6hnlich viele MPox-Infektionen aufgetreten. Forscher warnen gar vor einer \u201eglobalen Gesundheitsbedrohung\u201c.",
+      "url": "https://www.morgenpost.de/berlin/article408720324/hohe-mpox-zahlen-in-berlin-forscher-warnen-vor-pandemie-risiko.html",
+      "urlToImage": "https://img.sparknews.funkemedien.de/408720255/408720255_fc_1743853045_v16_9_1600.jpeg",
+      "publishedAt": "2025-04-05 12:17:11",
+      "content": "Berlin. In Berlin sind 2025 bisher ungew\u00f6hnlich viele MPox-Infektionen aufgetreten. Forscher warnen gar vor einer globalen Gesundheitsbedrohung. Auch, wenn sie in der \u00f6ffentlichen Wahrnehmung keine \u2026 [+3187 chars]",
+      "retrievedAt": "2025-04-06 19:05:36.803819",
+      "internal_id": "3f9c96643779c5fb7d8da156cdab53410ce1e9eda4fd7754df365f6b707e68e8",
+      "publishedAtLabel": "Apr 5"
+    },
+    {
+      "id": 20052,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Porto Alegre 24 horas",
+      "title": "Mutir\u00e3o contra a dengue mobiliza moradores do Passo das Pedras neste s\u00e1bado",
+      "description": "Os bairros com maior incid\u00eancia de dengue por 100 mil habitantes s\u00e3o Passo das Pedras, Jardim Itu, Jardim Floresta, Jardim Sabar\u00e1 e Morro Santana",
+      "url": "https://www.terra.com.br/noticias/mutirao-contra-a-dengue-mobiliza-moradores-do-passo-das-pedras-neste-sabado,168fb6315efa3e4bbf151ddf0df72fc6xiv5ozbh.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/04/05/889963104-dengue-zika-chikungunya-fever-mosquito-aedes-aegypti-human-skin.jpg",
+      "publishedAt": "2025-04-05 10:57:43",
+      "content": "A comunidade do Passo das Pedras, na Zona Norte da Capital, mobiliza-se neste s\u00e1bado (5) para um grande mutir\u00e3o de combate \u00e0 dengue. A a\u00e7\u00e3o liderada pela Secretaria Municipal de Sa\u00fade (SMS) contar\u00e1 c\u2026 [+1208 chars]",
+      "retrievedAt": "2025-04-06 19:05:34.639373",
+      "internal_id": "f3a95fcffc8f7e457a8cdd39b25bde289909b84030aebab6e82cce5bc55eae3a",
+      "publishedAtLabel": "Apr 5"
+    },
+    {
+      "id": 20041,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Independent.ie",
+      "author": "Luke O'Neill",
+      "title": "Luke O\u2019Neill: Once and for all, autism is not caused by the MMR vaccine against measles",
+      "description": "There\u2019s a measles outbreak currently ongoing in the US. Numbers are still small and it\u2019s mainly in Texas, but doctors are worried that case numbers will continue to climb. Like in the days of Covid-19, the NBC TV channel is giving regular updates on numbers o\u2026",
+      "url": "https://www.independent.ie/opinion/luke-oneill-once-and-for-all-autism-is-not-caused-by-the-mmr-vaccine-against-measles/a42582654.html",
+      "urlToImage": "https://focus.independent.ie/thumbor/AyKfrjrMOxmHWnVoNxBbGityWto=/40x0:3238x2132/629x0/prod-mh-ireland/a21484bc-4328-42f9-8d6e-c004ae6070d1/b0728c6e-7c5e-466a-b2ea-e13473debbcf/GettyImages_2152881106.jpg",
+      "publishedAt": "2025-04-05 10:52:00",
+      "content": "Theres a measles outbreak currently ongoing in the US. Numbers are still small and its mainly in Texas, but doctors are worried that case numbers will continue to climb. Like in the days of Covid-19,\u2026 [+96 chars]",
+      "retrievedAt": "2025-04-06 19:05:32.115235",
+      "internal_id": "41ff71448927d5dcdaea9312390cae073d1d6e7687afc8c300cd7c3acc9924af",
+      "publishedAtLabel": "Apr 5"
+    },
+    {
+      "id": 20057,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Francetvinfo.fr",
+      "author": null,
+      "title": "Vaccination contre le chikungunya \u00e0 l'\u00eele de la R\u00e9union : \"On s'y prend un peu tard\", regrette le docteur Eric Caumes",
+      "description": "Le plan blanc a \u00e9t\u00e9 d\u00e9clench\u00e9 au CHU de La R\u00e9union, face \u00e0 l'\u00e9pid\u00e9mie de chikungunya.",
+      "url": "https://www.francetvinfo.fr/sante/maladie/chikungunya/vaccination-contre-le-chikungunya-a-l-ile-de-la-reunion-on-s-y-prend-un-peu-tard-regrette-le-docteur-eric-caumes_7172094.html",
+      "urlToImage": "https://www.francetvinfo.fr/pictures/MCYNPaTpSiZv-DdgM464rl3HxzQ/0x0:1280x720/1500x843/2021/01/09/phpqigyha.jpg",
+      "publishedAt": "2025-04-05 09:28:50",
+      "content": "\"Le premier cas sur l'\u00eele de la R\u00e9union remonte \u00e0 ao\u00fbt 2024, on aurait eu largement le temps d'intervenir depuis, on s'y prend un peu tard\" d\u00e9clare, samedi 5 avril, sur franceinfo le docteur Eric Cau\u2026 [+1646 chars]",
+      "retrievedAt": "2025-04-06 19:05:36.325999",
+      "internal_id": "887c6b8c38a4edf51f416d5928aaf17a4afe998a9fb1c4688fc541be08f215f0",
+      "publishedAtLabel": "Apr 5"
+    },
+    {
+      "id": 20042,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Measles vaccine clinics to be held at 4 Halifax-area schools this weekend",
+      "description": "Nova Scotia Public Heath is holding measles vaccine clinics at a number of schools in the Halifax area starting this weekend in response to a rise in cases in other parts of Canada.",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/measles-vaccine-clinics-to-be-held-at-4-halifax-area-schools-this-weekend-1.7502282",
+      "urlToImage": "https://i.cbc.ca/1.7474008.1743791296!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/measles-shot.jpg?im=Resize%3D620",
+      "publishedAt": "2025-04-05 09:00:39",
+      "content": "Nova Scotia Public Health is holding measles vaccine clinics at a number of schools in the Halifax area starting this weekend in response to a rise in cases in other parts of Canada. A news release \u2026 [+2170 chars]",
+      "retrievedAt": "2025-04-06 19:05:32.210851",
+      "internal_id": "d56357a5dc4e921ce46540e2fcd1afcd1a7d1785533ea0a45d75b623a1bf500a",
+      "publishedAtLabel": "Apr 5"
+    },
+    {
+      "id": 20051,
+      "query": [
+        "h5n1",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Medical Xpress",
+      "author": "University Of Pennsylvania",
+      "title": "Antiviral chewing gum shows promise in reducing influenza and herpes spread",
+      "description": "In today's interconnected world, infectious diseases pose an escalating threat, as demonstrated by the coronavirus pandemic and outbreaks of H1N1, SARS, Ebola, Zika, and H5N1 (bird flu) viruses\u2014all of which have had significant global health and economic impa\u2026",
+      "url": "https://medicalxpress.com/news/2025-04-antiviral-gum-influenza-herpes.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/an-antiviral-chewing-g.jpg",
+      "publishedAt": "2025-04-05 08:51:23",
+      "content": "In today's interconnected world, infectious diseases pose an escalating threat, as demonstrated by the coronavirus pandemic and outbreaks of H1N1, SARS, Ebola, Zika, and H5N1 (bird flu) virusesall of\u2026 [+3835 chars]",
+      "retrievedAt": "2025-04-06 19:05:33.938796",
+      "internal_id": "6dc00e28fc1c47b94f20f7016a48cf1cfbbc201095f6044b578e83f90740742c",
+      "publishedAtLabel": "Apr 5"
+    },
+    {
+      "id": 20050,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Patronlardunyasi.com",
+      "author": "Patronlar D\u00fcnyas\u0131",
+      "title": "Meksika'da ilk kez bir insanda 'H5N1' t\u00fcr\u00fc ku\u015f gribine rastland\u0131",
+      "description": "Meksika Sa\u011fl\u0131k Bakanl\u0131\u011f\u0131, \u00fclkede ilk kez bir insanda \"H5N1\" t\u00fcr\u00fc ku\u015f gribinin tespit edildi\u011fini duyurdu.",
+      "url": "https://www.patronlardunyasi.com/meksikada-ilk-kez-bir-insanda-h5n1-turu-kus-gribine-rastlandi",
+      "urlToImage": "https://image.patronlardunyasi.com/static/content/25-04/05/meksikada-ilk-h5n1-kus-gribi-vakasi.jpg",
+      "publishedAt": "2025-04-05 08:26:05",
+      "content": "Bakanln a\u00e7klamasna g\u00f6re kuzeydeki Durango eyaletinde 3 yandaki kz \u00e7ocuunun ku gribi olduu doruland. Kz \u00e7ocuuna 1 Nisan'da nakledildii Torre\u00f3n ehrindeki hastanede yaplan testte \"H5N1\" vir\u00fcs\u00fc pozitif \u2026 [+378 chars]",
+      "retrievedAt": "2025-04-06 19:05:33.868801",
+      "internal_id": "ce6e3f4b4072724d96591a533e76d735807ecbc2a53c8ea41cd90938f0f0f6aa",
+      "publishedAtLabel": "Apr 5"
+    },
+    {
+      "id": 20046,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Excelsior.com.mx",
+      "author": "liliana.moscoso",
+      "title": "Y ahora H5N1",
+      "description": "Cuando parec\u00eda que el mundo al fin respiraba \u2014aunque fuera con cubrebocas colgado al cuello y la paranoia a medio gas\u2014, aparece un nuevo visitante microsc\u00f3pico en el radar: la gripe aviar H5N1. Y no, no es una mala repetici\u00f3n de pandemias pasadas, sino un rec\u2026",
+      "url": "https://www.excelsior.com.mx/opinion/yuriria-sierra/y-ahora-h5n1/1709047",
+      "urlToImage": "https://www.excelsior.com.mx/media/opinion/vertical/2015/04/28/1204730.jpg",
+      "publishedAt": "2025-04-05 07:46:35",
+      "content": "Cuando parec\u00eda que el mundo al fin respiraba aunque fuera con cubrebocas colgado al cuello y la paranoia a medio gas, aparece un nuevo visitante microsc\u00f3pico en el radar: la gripe aviar H5N1. Y no, n\u2026 [+2438 chars]",
+      "retrievedAt": "2025-04-06 19:05:33.699690",
+      "internal_id": "a1c46ce133bb5874a544b916ac940d22215e4b087c9e1e40a2a4939e232b5aa7",
+      "publishedAtLabel": "Apr 5"
+    },
+    {
+      "id": 20047,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "title": "Detectan primer caso humano de influenza aviar A/H5N1 en M\u00e9xico",
+      "description": "La Secretar\u00eda de Salud (Ssa) inform\u00f3 la detecci\u00f3n del primer caso humano de influenza aviar A/H5N1 en M\u00e9xico. Es una ni\u00f1a de tres a\u00f1os de edad, originaria del municipio de G\u00f3mez Palacio, Durango, quien inicialmente recibi\u00f3 tratamiento con oseltamivir y actual\u2026",
+      "url": "https://www.jornada.com.mx/2025/04/05/politica/009n1pol",
+      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "publishedAt": "2025-04-05 07:40:19",
+      "content": "Peri\u00f3dico La JornadaS\u00e1bado 5 de abril de 2025, p. 9 La Secretar\u00eda de Salud (Ssa) inform\u00f3 la detecci\u00f3n del primer caso humano de influenza aviar A/H5N1 en M\u00e9xico. Es una ni\u00f1a de tres a\u00f1os de edad, or\u2026 [+2866 chars]",
+      "retrievedAt": "2025-04-06 19:05:33.830488",
+      "internal_id": "26e784a22350b966c37b538f881608f8a421f643b3406c2f4063de41b1c0ca32",
+      "publishedAtLabel": "Apr 5"
+    },
+    {
+      "id": 20056,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
+      "author": "La r\u00e9daction avec AFP",
+      "title": "Sant\u00e9. Chikungunya : un cas signal\u00e9 en Martinique, l'\u00e9pid\u00e9mie se poursuit \u00e0 La R\u00e9union",
+      "description": "Le cas de chikungunya a \u00e9t\u00e9 import\u00e9 de l'\u00eele de la R\u00e9union, o\u00f9 une \u00e9pid\u00e9mie s\u00e9vit. Des mesures pr\u00e9ventives ont \u00e9t\u00e9 mises en place.",
+      "url": "https://www.ledauphine.com/sante/2025/04/05/chikungunya-un-cas-signale-en-martinique-l-epidemie-se-poursuit-a-la-reunion",
+      "urlToImage": "https://cdn-s-www.ledauphine.com/images/B2BBC542-B7F8-453B-A229-ED78244391DD/FB1200/photo-1743837999.jpg",
+      "publishedAt": "2025-04-05 07:40:00",
+      "content": "Un cas de chikungunya import\u00e9 de l'\u00eele de la R\u00e9union a \u00e9t\u00e9 observ\u00e9 en Martinique au mois de mars, a indiqu\u00e9 vendredi l'Agence r\u00e9gionale de sant\u00e9 (ARS) de l'\u00eele des Antilles. \u00ab Le patient, originaire \u2026 [+1463 chars]",
+      "retrievedAt": "2025-04-06 19:05:36.304352",
+      "internal_id": "665dbc492879e9cf9daa4047d54e141b92f3e71be6f0e49a5e391086c4c8d3dc",
+      "publishedAtLabel": "Apr 5"
+    },
+    {
+      "id": 20055,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Francetvinfo.fr",
+      "author": null,
+      "title": "Un cas de chikungunya, import\u00e9 de la R\u00e9union, signal\u00e9 en Martinique",
+      "description": "L'ARS, Sant\u00e9 Publique France, la collectivit\u00e9 territoriale de Martinique et la municipalit\u00e9 concern\u00e9e ont d\u00e9ploy\u00e9 des \"mesures pr\u00e9ventives n\u00e9cessaires pour limiter la propagation du virus\".",
+      "url": "https://www.francetvinfo.fr/sante/maladie/chikungunya/un-cas-de-chikungunya-importe-de-la-reunion-signale-en-martinique_7172028.html",
+      "urlToImage": "https://www.francetvinfo.fr/pictures/uBFZlAjrYTq5W2PZ9bWo0c6d5bw/0x62:1024x638/1500x843/2025/04/05/075-roy-notitle240831-npsj4-67f0ceefe6604249714824.jpg",
+      "publishedAt": "2025-04-05 07:15:19",
+      "content": "Un cas de chikungunya import\u00e9 a \u00e9t\u00e9 observ\u00e9 en Martinique au mois de mars, a annonc\u00e9 l'Agence r\u00e9gionale de sant\u00e9 (ARS) de l'\u00eele des Antilles, vendredi 4 avril. \"Le patient, originaire de La R\u00e9union, \u2026 [+1433 chars]",
+      "retrievedAt": "2025-04-06 19:05:36.283170",
+      "internal_id": "bdbfe352a0bfadae8e4ad0469e356c6fbe44d127584d0c99564b6fbef0cfe2ea",
+      "publishedAtLabel": "Apr 5"
+    },
     {
       "id": 20013,
       "query": [
@@ -26513,169 +26910,6 @@
       "content": "HAYS COUNTY, Texas - The Hays County Health Department was notified about the potential for exposure of residents to a person who tested positive for measles by the Texas Department of State Health S\u2026 [+5021 chars]",
       "retrievedAt": "2025-02-25 07:06:49.969290",
       "internal_id": "56ff93fdd0d5ef93aa591440078e81a48e646d36966a5bced7aa5249f8b8586f",
-      "publishedAtLabel": "Feb 23"
-    },
-    {
-      "id": 18563,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Shtfplan.com",
-      "author": "Mac Slavo",
-      "title": "USDA Confirms Bird Flu In Rats",
-      "description": "The United States Department of Agriculture has confirmed bird flu in rats for the first time. Four black rats were confirmed to have H5N1 avian flu in late January in Riverside County, California, where two recent poultry outbreaks were reported, the agency \u2026",
-      "url": "https://www.shtfplan.com/headline-news/usda-confirms-bird-flu-in-rats",
-      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2018/10/rat-e1538574029384.jpg",
-      "publishedAt": "2025-02-23 18:00:43",
-      "content": "The United States Department of Agriculture has confirmed bird flu in rats for the first time. Four black rats were confirmed to have H5N1 avian flu in late January in Riverside County, California, w\u2026 [+1884 chars]",
-      "retrievedAt": "2025-02-24 19:05:58.636626",
-      "internal_id": "5758414a843098269fd0ccd1367e65442c45bf3884e22c923b4b0e5d21fe260b",
-      "publishedAtLabel": "Feb 23"
-    },
-    {
-      "id": 18561,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Sapo.pt",
-      "author": "Pedro Pinto",
-      "title": "Gripe H5N1 ser\u00e1 a nova amea\u00e7a depois da COVID-19?",
-      "description": "Depois de tudo o que aconteceu com a COVID-19, agora h\u00e1 uma nova amea\u00e7a ao mundo. Falamos da gripe H5N1 e o alerta vem do especialista de Sa\u00fade P\u00fablica Francisco George. gripe H5N1 \u00e9...",
-      "url": "https://pplware.sapo.pt/informacao/gripe-h5n1-sera-a-nova-ameaca-depois-da-covid-19/",
-      "urlToImage": "https://pplware.sapo.pt/wp-content/uploads/2025/02/aves_00.jpg",
-      "publishedAt": "2025-02-23 18:00:37",
-      "content": "Depois de tudo o que aconteceu com a COVID-19, agora h\u00e1 uma nova amea\u00e7a ao mundo. Falamos da gripe H5N1 e o alerta vem do especialista de Sa\u00fade P\u00fablica Francisco George. gripe H5N1 \u00e9 uma doen\u00e7a caus\u2026 [+1048 chars]",
-      "retrievedAt": "2025-02-24 19:05:58.607597",
-      "internal_id": "0147e518f49317af1c4a49310e4889533cea196e756a92fdb732e5a4d5087e97",
-      "publishedAtLabel": "Feb 23"
-    },
-    {
-      "id": 18557,
-      "query": [
-        "measles"
-      ],
-      "source_id": "cbs-news",
-      "source_name": "CBS News",
-      "author": "CBS News",
-      "title": "Gottlieb \"very concerned\" about Texas measles outbreak: \"I think this will spread\"",
-      "description": "\"I think that this is going to get into the hundreds of cases and could take many months to fully snuff out,\" Dr. Scott Gottlieb, the former commissioner of the FDA, said about the ongoing measles outbreak in Texas and New Mexico.",
-      "url": "https://www.cbsnews.com/video/gottlieb-very-concerned-about-texas-measles-outbreak-i-think-this-will-spread/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/02/23/5e526035-9481-4621-bf08-d0ac3e79eeac/thumbnail/1200x630/45b9ab74d5c7be14ed29fc17283ea3af/0223-ftn-gottlieb.jpg?v=db3d87ba7bf4d4ff13b65eabcf0d9bea",
-      "publishedAt": "2025-02-23 17:05:37",
-      "content": "Watch CBS News Copyright \u00a92025 CBS Interactive Inc. All rights reserved. Get browser notifications for breaking news, live events, and exclusive reporting. Not NowTurn On",
-      "retrievedAt": "2025-02-24 19:05:57.764022",
-      "internal_id": "e97c1b39334d1e049758f992e04404b06380202bdae0db574f1752959d577289",
-      "publishedAtLabel": "Feb 23"
-    },
-    {
-      "id": 18565,
-      "query": [
-        "yersinia"
-      ],
-      "source_id": null,
-      "source_name": "Isegoria.net",
-      "author": "Isegoria",
-      "title": "The medieval house might have been built to specifications approved by a rodent council",
-      "description": "Dozens of rodents carry plague, Ed West notes, but it would only become deadly to humans when Yersinia pestis infected the flea of the black rat (Rattus rattus): Black rats are sedentary homebodies and don\u2019t like to move more than 200 metres from their nests;\u2026",
-      "url": "https://www.isegoria.net/2025/02/the-medieval-house-might-have-been-built-to-specifications-approved-by-a-rodent-council/",
-      "urlToImage": null,
-      "publishedAt": "2025-02-23 15:21:15",
-      "content": "Dozens of rodents carry plague, Ed West notes, but it would only become deadly to humans when Yersinia pestis infected the flea of the black rat (Rattus rattus):Black rats are sedentary homebodies an\u2026 [+5105 chars]",
-      "retrievedAt": "2025-02-24 19:06:00.907982",
-      "internal_id": "f43d41896cd02421069579fd23f492cce0d6bfee23f269db877f1e8958b177ab",
-      "publishedAtLabel": "Feb 23"
-    },
-    {
-      "id": 18559,
-      "query": [
-        "measles",
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Microbe.tv",
-      "author": "Vincent Racaniello",
-      "title": "TWiV 1195: Dickson Despommier, parasitologist without borders",
-      "description": "The entire TWiV team comes together to pay tribute to Dickson Despommier, then reviews antibodies to H5N1 virus in veterinarians working with dairy cattle, Elisabeth Bik donates prize money for data integrity analyses, measles outbreak in Texas, and use of an\u2026",
-      "url": "https://www.microbe.tv/twiv/twiv-1195/",
-      "urlToImage": null,
-      "publishedAt": "2025-02-23 13:56:14",
-      "content": "The entire TWiV team comes together to pay tribute to Dickson Despommier, then reviews antibodies to H5N1 virus in veterinarians working with dairy cattle, Elisabeth Bik donates prize money for data \u2026 [+1028 chars]",
-      "retrievedAt": "2025-02-24 19:05:57.912670",
-      "internal_id": "acb9b8071ea36b307c16fe70fd55bc653a41c88dbabc607fd9da08b6eb209c4a",
-      "publishedAtLabel": "Feb 23"
-    },
-    {
-      "id": 18558,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "The Conversation Africa",
-      "author": "Ruchika Gupta, Assistant Professor and Medical Microbiologist, Department of Pathobiology and Lab Medicine, LHSC and Schulich School of Medicine and Dentistry, Western University",
-      "title": "Measles: A resurgent threat in Canada",
-      "description": "Measles is a serious disease with potentially severe complications. The current situation in Canada is a public health challenge and a critical moment for awareness and action.",
-      "url": "https://theconversation.com/measles-a-resurgent-threat-in-canada-249932",
-      "urlToImage": "https://images.theconversation.com/files/650549/original/file-20250221-38-ss5xoe.jpg?ixlib=rb-4.1.0&rect=0%2C337%2C1277%2C638&q=45&auto=format&w=1356&h=668&fit=crop",
-      "publishedAt": "2025-02-23 13:39:14",
-      "content": "The resurgence of measles in Canada is a stark reminder that we cannot take public health achievements for granted. (CDC and NIAID), CC BY In the landscape of public health, few stories are as compe\u2026 [+6470 chars]",
-      "retrievedAt": "2025-02-24 19:05:57.798110",
-      "internal_id": "e6e83375a38b67c4f8631fda9e5fc03d5baff945b7c6a2eed141a60879e93d95",
-      "publishedAtLabel": "Feb 23"
-    },
-    {
-      "id": 18560,
-      "query": [
-        "measles"
-      ],
-      "source_id": "cnn",
-      "source_name": "CNN",
-      "author": "Meg Tirrell",
-      "title": "\u2018Deadly consequences\u2019: Health agencies reel from thousands of job cuts while critical research grants remain on hold | CNN",
-      "description": "The first month of the Trump administration has brought chaos to US health agencies through mass firings, funding interruptions and communications freezes as the country battles not just the threat of bird flu but a historic measles outbreak centered in West \u2026",
-      "url": "https://www.cnn.com/2025/02/23/health/public-health-job-cuts/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2163381442.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2025-02-23 13:00:47",
-      "content": "A Nobel Prize-winning scientist is still waiting on a crucial research grant from the United States government that was supposed to start weeks ago. A fired public health worker at the US Centers fo\u2026 [+13262 chars]",
-      "retrievedAt": "2025-02-24 19:05:57.973626",
-      "internal_id": "5dd140a409885c885d9f1442b3352fbe3988bf7e4dc4e65c9952447e815106be",
-      "publishedAtLabel": "Feb 23"
-    },
-    {
-      "id": 18562,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Observador.pt",
-      "author": "Ag\u00eancia Lusa",
-      "title": "Francisco George: gripe H5N1 \u00e9 amea\u00e7a de nova epidemia no horizonte",
-      "description": "Francisco George alerta para as \"amea\u00e7as no horizonte\" como a do v\u00edrus da gripe H5N1 e diz, cinco anos ap\u00f3s a pandemia de covid-19, que Portugal est\u00e1 bem preparado.",
-      "url": "https://observador.pt/2025/02/23/francisco-george-gripe-h5n1-e-ameaca-de-nova-epidemia-no-horizonte/",
-      "urlToImage": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1124%3Anowe%3A0%3A104%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2025%2F02%2F23050027%2F44403560.jpg?layer=obstop:T",
-      "publishedAt": "2025-02-23 11:04:29",
-      "content": "Cinco anos ap\u00f3s terem sido confirmados em Portugal os primeiros casos de cont\u00e1gio pelo coronav\u00edrus que causa a covid-19, o especialista de Sa\u00fade P\u00fablica Francisco George alerta para as \u201camea\u00e7as no ho\u2026 [+3759 chars]",
-      "retrievedAt": "2025-02-24 19:05:58.628742",
-      "internal_id": "0122575cc729004fa58660b7e04523a0d5cc7a01f76372666d7cada81a4d9c61",
-      "publishedAtLabel": "Feb 23"
-    },
-    {
-      "id": 18564,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "VOA News",
-      "author": "webdesk@voanews.com (Associated Press)",
-      "title": "Philippine village battles dengue by offering bounties for mosquitos \u2014 dead or alive",
-      "description": "MANILA, PHILIPPINES \u2014 A village in the densely populated Philippine capital region launched a battle against dengue Wednesday by offering a token bounty to residents for captured mosquitos \u2014 dead or alive. The unusual strategy adopted by the Addition Hills \u2026",
-      "url": "https://www.voanews.com/a/philippine-village-battles-dengue-by-offering-bounties-for-mosquitos-dead-or-alive/7984215.html",
-      "urlToImage": "https://gdb.voanews.com/D546047A-6AC0-4ECB-A048-F0ED9FF54AF5.jpg",
-      "publishedAt": "2025-02-23 07:43:32",
-      "content": "MANILA, PHILIPPINES A village in the densely populated Philippine capital region launched a battle against dengue Wednesday by offering a token bounty to residents for captured mosquitos dead or ali\u2026 [+2751 chars]",
-      "retrievedAt": "2025-02-24 19:05:59.091628",
-      "internal_id": "a0fa6d04731aa8d9ff9adab75aadf3414334966da97b6bd8590a534f68c1bca3",
       "publishedAtLabel": "Feb 23"
     }
   ]
