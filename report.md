@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 24
-- **Last harvest:** 2025-04-05 19:05
-- **Most recent article:** 2025-04-04 19:00:00
+- **New articles in last harvest:** 44
+- **Last harvest:** 2025-04-06 07:06
+- **Most recent article:** 2025-04-05 07:02:12
 
 ---
 
@@ -10,23 +10,23 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 25-10 | 25-11 | 25-12 | 25-13 | 25-14 | 25-8 | 25-9 | Total |
-|--|-|-|-|-|-|-|-|-|
-| measles | 142 | 133 | 108 | 101 | 63 | 79 | 162 | 788 |
-| h5n1 | 23 | 39 | 57 | 47 | 10 | 49 | 42 | 267 |
-| dengue | 8 | 12 | 18 | 20 | 11 | 55 | 30 | 154 |
-| malaria | 29 | 22 | 18 | 30 | 12 | 6 | 20 | 137 |
-| mpox | 14 | 15 | 8 | 12 | 10 | 15 | 26 | 100 |
-| chikungunya | 6 | 1 | 17 | 10 | 12 | 3 | 7 | 56 |
-| meningitis | 4 | 9 | 7 | 10 | 4 | 10 | 7 | 51 |
-| rabies | 3 | 8 | 3 | 19 | 7 | 4 | 2 | 46 |
-| hpai | 10 | 3 | 12 | 2 | 2 | 5 | 4 | 38 |
-| typhoid | 3 | 8 | 0 | 1 | 2 | 0 | 4 | 18 |
-| zika | 3 | 0 | 2 | 3 | 1 | 6 | 2 | 17 |
-| pertussis | 0 | 5 | 1 | 0 | 6 | 2 | 0 | 14 |
-| yersinia | 1 | 2 | 2 | 3 | 0 | 0 | 2 | 10 |
-| leptospirosis | 3 | 0 | 1 | 0 | 0 | 2 | 0 | 6 |
-| shigellosis | 3 | 0 | 0 | 0 | 0 | 0 | 1 | 4 |
+| Disease | 25-10 | 25-11 | 25-12 | 25-13 | 25-14 | 25-9 | Total |
+|--|-|-|-|-|-|-|-|
+| measles | 142 | 133 | 108 | 101 | 68 | 162 | 714 |
+| h5n1 | 23 | 39 | 57 | 47 | 37 | 42 | 245 |
+| malaria | 29 | 22 | 18 | 30 | 13 | 20 | 132 |
+| dengue | 8 | 12 | 18 | 20 | 12 | 30 | 100 |
+| mpox | 14 | 15 | 8 | 12 | 16 | 26 | 91 |
+| chikungunya | 6 | 1 | 17 | 10 | 13 | 7 | 54 |
+| meningitis | 4 | 9 | 7 | 10 | 6 | 7 | 43 |
+| rabies | 3 | 8 | 3 | 19 | 7 | 2 | 42 |
+| hpai | 10 | 3 | 12 | 2 | 3 | 4 | 34 |
+| typhoid | 3 | 8 | 0 | 1 | 2 | 4 | 18 |
+| pertussis | 0 | 5 | 1 | 0 | 7 | 0 | 13 |
+| zika | 3 | 0 | 2 | 3 | 2 | 2 | 12 |
+| yersinia | 1 | 2 | 2 | 3 | 0 | 1 | 9 |
+| leptospirosis | 3 | 0 | 1 | 0 | 0 | 0 | 4 |
+| shigellosis | 3 | 0 | 0 | 0 | 0 | 1 | 4 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -42,8 +42,6 @@ Source: [News API](https://newsapi.org/)
 ## 25-9 (yersinia)
 
 - [The medieval house might have been built to specifications approved by a rodent council](https://www.isegoria.net/2025/02/the-medieval-house-might-have-been-built-to-specifications-approved-by-a-rodent-council/) (Isegoria.net)
-
-- [ניסוי הכלים של המגפה השחורה בסקנדינביה](https://www.ynet.co.il/environment-science/article/rj00xhnlcjx) (Ynet)
 
 ## 25-9 (typhoid)
 
@@ -677,503 +675,9 @@ Source: [News API](https://newsapi.org/)
 
 - [Bavarian Nordic indgår partnerskab med Biological E Limited med henblik på at udvide global adgang til chikungunyavaccine](https://www.globenewswire.com/news-release/2025/02/25/3031656/0/da/Bavarian-Nordic-indg%C3%A5r-partnerskab-med-Biological-E-Limited-med-henblik-p%C3%A5-at-udvide-global-adgang-til-chikungunyavaccine.html) (GlobeNewswire)
 
-## 25-8 (zika)
-
-- [Stealth virus: Zika virus builds tunnels to covertly infect cells of the placenta](https://www.sciencedaily.com/releases/2025/02/250221125338.htm) (Science Daily)
-
-- [Com mais de 110 mortes, São Paulo decreta emergência por dengue em todo o estado](https://veja.abril.com.br/saude/com-mais-de-100-mortes-sao-paulo-decreta-emergencia-por-dengue-em-todo-o-estado) (Abril.com.br)
-
-- [Zika: novo tratamento do vírus se mostra promissor; conheça](https://olhardigital.com.br/2025/02/18/medicina-e-saude/zika-novo-tratamento-do-virus-se-mostra-promissor-conheca/) (Olhardigital.com.br)
-
-- [Diante de Nísia, senadora critica veto a pensão para vítimas do zika vírus](https://veja.abril.com.br/coluna/radar/diante-de-nisia-senadora-critica-veto-a-pensao-para-vitimas-do-zika-virus) (Abril.com.br)
-
-- [Remédio contra insuficiência cardíaca pode ajudar no combate à zika](https://www.metropoles.com/saude/remedio-ajudar-a-no-combate-a-zika) (Metropoles.com)
-
-- [Pesquisa mostra efeitos promissores de remédio contra insuficiência cardíaca no combate ao vírus Zika](https://www.terra.com.br/noticias/pesquisa-mostra-efeitos-promissores-de-remedio-contra-insuficiencia-cardiaca-no-combate-ao-virus-zika,e50b1f73363e606b6a8d487e5e172292zornfuys.html) (Terra.com.br)
-
-## 25-8 (rabies)
-
-- [Structures of two lyssavirus glycoproteins trapped in pre- and post-fusion states and the implications on the spatial-temporal conformational transition along with pH-decrease](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012923) (Plos.org)
-
-- [Musk opens up about dinner party that soured when Trump's name was invoked: 'Like methamphetamine and rabies'](https://www.foxnews.com/politics/musk-opens-up-about-dinner-party-that-soured-when-trumps-name-was-invoked-like-methamphetamine-rabies) (Fox News)
-
-- [Elon Musk Mocks ‘Trump Derangement Syndrome’ By Freaking Out Like He’s Been Shot With ‘Methamphetamine and Rabies’](https://www.mediaite.com/tv/elon-musk-mocks-trump-derangement-syndrome-by-freaking-out-like-hes-been-shot-with-methamphetamine-and-rabies/) (Mediaite)
-
-- [Elon Musk: I Was At A Friend's Birthday Party, The Reaction To Trump Was Like Methamphetamine And Rabies](https://www.realclearpolitics.com/video/2025/02/17/elon_musk_i_was_at_a_friends_birthday_party_the_reaction_to_trump_was_like_methamphetamine_and_rabies.html) (RealClearPolitics)
-
-## 25-8 (pertussis)
-
-- [Инфекционист Поздняков объяснил, почему растет заболеваемость коклюшем](https://rg.ru/2025/02/19/infekcionist-pozdniakov-obiasnil-pochemu-rastet-zabolevaemost-kokliushem.html) (Rg.ru)
-
-- [Инфекционист предостерег о вызывающих коклюш бактериях](https://iz.ru/1840550/2025-02-18/infekcionist-predostereg-o-vyzyvausih-koklus-bakteriah) (Iz.ru)
-
-## 25-8 (mpox)
-
-- [Mpox en Afrique: près de 20.000 nouveaux cas depuis le début de l'année](https://fr.sputniknews.africa/20250222/mpox-en-afrique-pres-de-20000-nouveaux-cas-depuis-le-debut-de-lannee-1070771060.html) (Sputniknews.africa)
-
-- [New Monkeypox Variant Transfers Easier and Sparks Global Concern](https://www.discovermagazine.com/health/new-monkeypox-variant-transfers-easier-and-sparks-global-concern) (Discover Magazine)
-
-- [Demokratische Republik Kongo: Hunderte Mpox-Patienten nach Gewaltausbruch im Ostkongo geflohen](https://www.zeit.de/gesellschaft/zeitgeschehen/2025-02/demokratische-republik-kongo-konflikt-mpox) (Die Zeit)
-
-- [DR Kongo: Hunderte Mpox-Patienten geflohen](https://orf.at/stories/3385439/) (Orf.at)
-
-- [Forskere frygter mpox-spredning efter muteret virus](https://politiken.dk/danmark/sundhed/art10299417/Forskere-frygter-mpox-spredning-efter-muteret-virus) (Politiken.dk)
-
-- [Forskere frygter øget spredning af mpox efter smitsom mutation](https://www.dr.dk/nyheder/seneste/forskere-frygter-oeget-spredning-af-mpox-efter-smitsom-mutation) (Www.dr.dk)
-
-- [Desfiinţarea USAid de către Trump creşte riscul unei urgenţe globale de mpox, avertizează experţii](https://www.mediafax.ro/sanatate/desfiintarea-usaid-de-catre-trump-creste-riscul-unei-urgente-globale-de-mpox-avertizeaza-expertii-22704223) (Mediafax.ro)
-
-- [Multiple disease outbreaks heighten public health emergencies for children across Eastern and Southern Africa](https://www.globalsecurity.org/military/library/news/2025/02/mil-250219-unicef01.htm) (Globalsecurity.org)
-
-- [Scientists warn of increased mpox transmission](https://www.sciencedaily.com/releases/2025/02/250220000950.htm) (Science Daily)
-
-- [UNICEF raises alarm over frequent health crises in eastern, southern Africa](https://www.thestar.com.my/news/world/2025/02/20/unicef-raises-alarm-over-frequent-health-crises-in-eastern-southern-africa) (The Star Online)
-
-- [Ο ΠΟΥ καλεί μέλη να καταλήξουν σε συμφωνία για αντιμετώπιση πανδημιών «τώρα ή ποτέ»](https://dialogos.com.cy/o-poy-kalei-meli-na-katalixoyn-se-symfonia-gia-antimetopisi-pandimion-tora-i-pote/) (Dialogos.com.cy)
-
-- [Ο ΠΟΥ καλεί τις χώρες μέλη του να καταλήξουν σε συμφωνία για την αντιμετώπιση των πανδημιών «τώρα ή ποτέ»](https://www.skai.gr/news/world/pou-kalei-tis-xores-meli-tou-na-kataliksoun-se-symfonia-gia-tin-antimetopisi-ton-pandimion) (Skai.gr)
-
-- [ΠΟΥ: Η αντιμετώπιση των πανδημιών από τις χώρες – μέλη θα πρέπει να επιτευχθεί «ή τώρα, ή ποτέ»](https://www.newsit.gr/kosmos/pou-i-antimetopisi-ton-pandimion-apo-tis-xores-meli-tha-prepei-na-epiteyxthei-i-tora-i-pote/4311736/) (Newsit.gr)
-
-- [Ο Παγκόσμιος Οργανισμός Υγείας καλεί τις χώρες να καταλήξουν σε συμφωνία για την αντιμετώπιση των πανδημιών τώρα ή ποτέ](https://www.protothema.gr/world/article/1602769/o-pagosmios-organismos-ugeias-kalei-tis-hores-na-katalixoun-se-sumfonia-gia-tin-adimetopisi-ton-pandimion-tora-i-pote/) (Protothema.gr)
-
-- [ΠΟΥ: Κάλεσμα στις χώρες μέλη για συμφωνία σχετικά με την αντιμετώπιση των πανδημιών «τώρα ή ποτέ»](https://www.naftemporiki.gr/health/1916346/poy-kalesma-stis-chores-meli-gia-symfonia-schetika-me-tin-antimetopisi-ton-pandimion-tora-i-pote/) (Naftemporiki.gr)
-
-## 25-8 (meningitis)
-
-- [Epidemiology, microbiology and antibiotic treatment of bacterial and fungal meningitis among very preterm infants in China: a cross-sectional study](https://fn.bmj.com/content/110/2/219) (The BMJ)
-
-- [Haemophilus influenzae Type b Meningitis in Infants, New York, New York, USA, 2022–2023](https://wwwnc.cdc.gov/eid/article/31/3/24-0946_article) (Cdc.gov)
-
-- [Cefotaxime-Resistant Neisseria meningitidis Sequence Type 4821 Causing Fulminant Meningitis](https://wwwnc.cdc.gov/eid/article/31/3/24-1493_article) (Cdc.gov)
-
-- [Predictive performance of cerebrospinal fluid parameters for diagnosis of meningitis in infants: a cohort study](https://adc.bmj.com/content/110/3/209) (The BMJ)
-
-- [Cholera outbreak: Keep your environment clean ahead of the rains – Health Minister urges](https://3news.com/news/cholera-outbreak-keep-your-environment-clean-ahead-of-the-rains-health-minister-urges/) (3news.com)
-
-- [Professor Tsakris explains what we need to know about meningitis: The symptoms and the association with Covid and respiratory infections](https://en.protothema.gr/2025/02/18/professor-tsakris-explains-what-we-need-to-know-about-meningitis-the-symptoms-and-the-association-with-covid-and-respiratory-infections/) (Protothema.gr)
-
-- [WHO supports Health Ministry with medicines to fight CSM](https://3news.com/news/who-supports-health-ministry-with-medicines-to-fight-csm/) (3news.com)
-
-- [CSM deaths in U/W rise to 16 –SpeakerBagbin donates medicines to combat disease](https://thechronicle.com.gh/csm-deaths-in-u-w-rise-to-16-speakerbagbin-donates-medicines-to-combat-disease/) (Thechronicle.com.gh)
-
-- [Speaker Bagbin donates over GHC300k worth of drugs to Upper West Regional Health Directorate to fight meningitis](https://3news.com/news/speaker-bagbin-donates-over-ghc300k-worth-of-drugs-to-upper-west-regional-health-directorate-to-fight-meningitis/) (3news.com)
-
-- [Woman Returns From Vacation With Headache, Strange Leg Symptoms, Doctors Find Brain Worms](https://www.medicaldaily.com/woman-returns-vacation-headache-strange-leg-symptoms-doctors-find-brain-worms-473126) (Medical Daily)
-
-## 25-8 (measles)
-
-- [What to know about the measles outbreak in West Texas as cases rise to 90](https://www.pbs.org/newshour/health/what-to-know-about-the-measles-outbreak-in-west-texas-as-cases-rise-to-90) (PBS)
-
-- [US measles outbreak leaves nearly 100 ill in Texas and New Mexico](https://www.bbc.com/news/articles/cq8yvg5359po) (BBC News)
-
-- [Texas Measles Outbreak Grows](https://politicalwire.com/2025/02/22/texas-measles-outbreak-grows/) (Politicalwire.com)
-
-- [Your questions about measles, answered | CNN](https://www.cnn.com/2025/02/22/health/your-measles-questions-answered/index.html) (CNN)
-
-- [What to know about vaccine booster shots as measles spreads in Texas](https://www.nbcnews.com/health/health-news/childhood-vaccines-adults-booster-shots-measles-texas-what-know-rcna193197) (NBC News)
-
-- [Texas measles outbreak grows to 90 cases, largest in over 30 years - NewsBreak](https://www.newsbreak.com/share/3823516558645-texas-measles-outbreak-grows-to-90-cases-largest-in-over-30-years?_f=app_share&amp;pd=0HUXmv6m&amp;lang=en_US&amp;send_time=1740175800&amp;trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.7.0.65%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_model_exp_25q1-v7%2Cns_foryou_blend_exp_25q1-v2%2Cns_foryou_recall_exp_25q1-v4%2Cns_foryou_rank_exp_25q1-v1%2Cns_push_exp_rt_bucketv12-v7&amp;s=i2) (Newsbreak.com)
-
-- [Measles Cases Are Rising Nationwide. Do Adults Need a Vaccine Booster?](https://www.kqed.org/news/12028139/measles-cases-are-rising-nationwide-do-adults-need-a-vaccine-booster) (KQED)
-
-- [Measles outbreak in Texas balloons to 90 cases](https://www.nbcnews.com/health/health-news/measles-outbreak-texas-cases-grow-rcna193196) (NBC News)
-
-- [Nearly 100 cases of measles reported in Texas, New Mexico](https://www.voanews.com/a/nearly-100-cases-of-measles-reported-in-texas-new-mexico/7983785.html) (VOA News)
-
-- [Measles outbreaks rise to nearly 100 cases between Texas and New Mexico. Here’s what you should know](https://www.bostonherald.com/2025/02/21/measles-cases/) (Boston Herald)
-
-- [Texas Measles outbreak 2025: Cases nearly double over past week](https://www.fox4news.com/news/texas-measles-outbreak-2025-cases-nearly-double-over-past-week) (FOX 4 News)
-
-- [Texas measles outbreak grows to 90 cases, largest in over 30 years](https://abcnews.go.com/Health/texas-measles-outbreak-grows-90-cases-unvaccinated-people/story?id=119041244) (ABC News)
-
-- [RFK Jr. Adviser: Kennedy ‘Not Concerned With Measles'](https://crooksandliars.com/2025/02/rfk-jr-adviser-kennedy-not-concerned) (Crooksandliars.com)
-
-- [Texas Measles Outbreak Nears 100 Cases, Raising Concerns About Undetected Spread](https://kffhealthnews.org/news/article/texas-measles-outbreak-escalates-undetected-cases-vaccinations/) (Kffhealthnews.org)
-
-- [Measles cases are rising in the U.S. Do adults need a vaccine booster?](https://www.npr.org/sections/shots-health-news/2025/02/21/nx-s1-5304458/measles-vaccine-booster-health) (NPR)
-
-- [New Mexico reports Texas measles outbreak has now crossed its border](https://www.foxnews.com/health/new-mexico-reports-texas-measles-outbreak-has-now-crossed-its-border) (Fox News)
-
-- [Vaccine choice = more measles infection](https://www.healthcare-economist.com/2025/02/20/vaccine-choice-more-measles-infection/) (Healthcare-economist.com)
-
-- [CDC layoffs strike deeply at its ability to respond to the current flu, norovirus and measles outbreaks and other public health emergencies](https://www.newsbreak.com/share/3820831359391-cdc-layoffs-strike-deeply-at-its-ability-to-respond-to-the-current-flu-norovirus-and-measles-outbreaks-and-other-public-health-emergencies?_f=app_share&amp;pd=0FpJ4fzG&amp;lang=en_US&amp;send_time=1740106730&amp;trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.7.0.65%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_recall_exp_25q1-v5%2Cns_foryou_model_exp_25q1-v9%2Cns_foryou_rank_exp_25q1-control%2Cns_foryou_blend_exp_25q1-v6%2Cns_push_exp_rt_bucketv12-v5&amp;s=i2) (Newsbreak.com)
-
-- [Peel Public Health warns of measles exposure at Brampton clinic](https://www.cbc.ca/news/canada/toronto/peel-public-health-measles-exposure-brampton-1.7464503) (CBC News)
-
-- [As measles cases rise, it's not just kids who need vaccines. Some adults do too](https://www.npr.org/2025/02/20/nx-s1-5302542/as-measles-cases-rise-its-not-just-kids-who-need-vaccines-some-adults-do-too) (NPR)
-
-- [Measles Outbreak Spreads Across Texas and New Mexico, Hundreds at Risk](https://coed.com/2025/02/20/measles-outbreak-spreads-across-texas-and-new-mexico-hundreds-at-risk/) (Coed.com)
-
-- [Vaccination efforts increased in parts of Ontario as measles outbreaks grow](https://www.cbc.ca/news/canada/london/vaccination-efforts-increased-in-parts-of-ontario-as-measles-outbreaks-grow-1.7464033) (CBC News)
-
-- [Measles outbreak: What are signs, symptoms of the illness](https://www.wsbtv.com/news/trending/measles-outbreak-what-are-signs-symptoms-illness/ZNZUHSYQD5DVHDEX2UBQ5SXVWY/) (WSB Atlanta)
-
-- [Spared by DOGE—For Now](https://www.theatlantic.com/health/archive/2025/02/epidemic-intelligence-service-doge-layoffs/681771/) (The Atlantic)
-
-- [Listen: Why measles is back in the US and what can be done](https://www.futurity.org/measles-vaccine-hesitancy-3270022/) (Futurity: Research News)
-
-- [I'm a pediatrician working in the middle of Texas's measles outbreak. Here's what I want parents to know.](https://www.businessinsider.com/pediatrician-working-in-the-middle-of-texass-measles-outbreak-2025-2) (Business Insider)
-
-- [Dr. Gupta on measles outbreak: ‘One of the most infectious viruses out there’ | CNN](https://www.cnn.com/2025/02/20/health/video/dr-sanjay-gupta-measles-outbreak-digvid) (CNN)
-
-- [Measles Outbreak Running Wild In Texas And New Mexico With Hundreds Possibly Infected](https://brobible.com/culture/article/measles-outbreak-texas-new-mexico-infected/) (BroBible)
-
-- [What Trump’s Firing Spree Means for the Next Public Health Crisis](https://newrepublic.com/article/191721/trump-firing-spree-public-health) (The New Republic)
-
-- [Making America Sick Again: How Trump’s Drastic Layoffs at the Centers for Disease Control cripple our Response to Norovirus, Measles Outbreaks](https://www.juancole.com/2025/02/response-norovirus-outbreaks.html) (Juancole.com)
-
-- [Flu cases by state and measles outbreak, plus concerning cancer trends](https://www.foxnews.com/health/flu-cases-state-measles-outbreak-concerning-cancer-trends) (Fox News)
-
-- [CDC layoffs strike deeply at its ability to respond to the current flu, norovirus and measles outbreaks and other public health emergencies](https://theconversation.com/cdc-layoffs-strike-deeply-at-its-ability-to-respond-to-the-current-flu-norovirus-and-measles-outbreaks-and-other-public-health-emergencies-248486) (The Conversation Africa)
-
-- [2nd case of measles related to Air Canada flight last week confirmed in B.C.'s Lower Mainland](https://www.cbc.ca/news/canada/british-columbia/measles-second-case-b-c-1.7463226) (CBC News)
-
-- [GOP Senator Promotes Measles Vaccine Despite Confirming RFK Jr.](https://www.huffpost.com/entry/sen-bill-cassidy-vaccine-tweet-rfk-jr_n_67b636cce4b0be61010d6358) (HuffPost)
-
-- [Measles outbreak in US: Cases rise to 48 but officials fear real number is over 200](https://economictimes.indiatimes.com/news/international/us/measles-outbreak-in-us-cases-rise-to-48-but-officials-fear-real-number-is-over-200/articleshow/118397021.cms) (The Times of India)
-
-- [Texas measles cases are up, and New Mexico now has an outbreak. Here's what you need to know](https://richmond.com/news/nation-world/measles-outbreak-mmr-vaccine-texas-new-mexico/article_58012f3b-c078-5957-9fc3-384e8f829acd.html) (Richmond.com)
-
-- [Texas measles cases are up, and New Mexico now has an outbreak. Here's what you need to know](https://roanoke.com/news/nation-world/measles-outbreak-mmr-vaccine-texas-new-mexico/article_1db1da90-a1ab-5fb6-93aa-cf1ad722fe69.html) (Roanoke Times)
-
-- [As measles outbreak rages in Texas, RFK Jr. pushes anti-vaccine message (Popular Information)](https://www.memeorandum.com/250219/p17) (Memeorandum.com)
-
-- [Measles Outbreak, Foreign Aid Cuts, Bolsonaro Charges](https://www.npr.org/2025/02/19/1232435562/up-first-measles-outbreak-foreign-aid-cut-bolsonaro-charges-02-19-2025) (NPR)
-
-- [Kevin Spacey Still A Dick + Jack Schlossberg Back On Social Media + Josh Seiter's Dead Again + Measles For Texas + MORE! — 12-PACK](https://www.boyculture.com/boy_culture/2025/02/kevin-spacey-guy-pearce-gay-jack-schlossberg-josh-seiter.html) (Boyculture.com)
-
-- [Measles spreads in Texas. And, how U.S. funding cuts could benefit China](https://www.npr.org/2025/02/19/g-s1-49648/up-first-newsletter-measles-west-texas-jair-bolsonaro-china-funding) (NPR)
-
-- [A Measles Outbreak and Wake-Up Call](https://slate.com/podcasts/what-next/2025/02/why-measles-is-breaking-out-in-texas) (Slate Magazine)
-
-- [Morning news brief](https://www.npr.org/2025/02/19/nx-s1-5299808/morning-news-brief) (NPR)
-
-- [Measles cases in West Texas more than double since last week, health officials say](https://www.npr.org/2025/02/19/nx-s1-5300086/measles-cases-in-west-texas-more-than-double-since-last-week-health-officials-say) (NPR)
-
-- [66 measles cases reported in US states of Texas, New Mexico](https://www.voanews.com/a/measles-cases-reported-in-us-states-of-texas-new-mexico/7980149.html) (VOA News)
-
-- [Kennedy says panel will examine childhood vaccine schedule after promising not to change it](https://www.bostonherald.com/2025/02/18/kennedy-childhood-vaccines/) (Boston Herald)
-
-- [Measles cases are spiking in Texas and New Mexico. Here’s what to know](https://www.fastcompany.com/91280638/measles-cases-spiking-texas-new-mexico-explainer) (Fast Company)
-
-- [Measles outbreak grows bigger in rural Texas, and officials say expect more cases](https://www.nbcnews.com/news/us-news/measles-outbreak-texas-rcna192679) (NBC News)
-
-- [Here’s What to Know About Measles Outbreak in Texas and New Mexico](https://time.com/7258273/what-to-know-measles-outbreak-texas-new-mexico/) (Time)
-
-- [What Measles Outbreaks Tell Us About Public Health In America](https://www.npr.org/2025/02/18/1232304335/booster-shots-measles) (NPR)
-
-- [Texas measles cases are up, and New Mexico now has an outbreak. Here's what you need to know](https://www.ksat.com/health/2025/02/18/texas-measles-cases-are-up-and-new-mexico-now-has-an-outbreak-heres-what-you-need-to-know/) (KSAT San Antonio)
-
-- [West Texas measles outbreak grows to 58 cases](https://www.pbs.org/newshour/health/west-texas-measles-outbreak-grows-to-58-cases) (PBS)
-
-- [Growing Texas Measles Outbreak Spreads to Second State: What to Know](https://www.newsweek.com/measles-outbreak-new-mexico-texas-what-know-2032876) (Newsweek)
-
-- [Texas measles cases are up, and New Mexico now has an outbreak. Here's what you need to know](https://abcnews.go.com/Health/wireStory/texas-measles-cases-new-mexico-now-outbreak-118936819) (ABC News)
-
-- [Measles outbreak continues to worsen among kids in this US state](https://www.foxnews.com/health/measles-outbreak-continues-worsen-among-kids-us-state) (Fox News)
-
-- [Texas measles cases are up, and New Mexico now has an outbreak. Here’s what you need to know](https://www.bostonherald.com/2025/02/18/measles-cases/) (Boston Herald)
-
-- [Make measles great again](https://www.lawyersgunsmoneyblog.com/2025/02/make-measles-great-again) (Lawyersgunsmoneyblog.com)
-
-- [New data shows measles cases have spread to Terry County](https://www.kcbd.com/2025/02/18/new-data-shows-measles-cases-have-spread-terry-county/) (KCBD)
-
-- [West Texas measles outbreak grows to 58 cases, including some vaccinated individuals | CNN](https://www.cnn.com/2025/02/18/health/texas-measles-outbreak/index.html) (CNN)
-
-- [Texas Measles Outbreak: Everything We Know](https://www.newsweek.com/texas-measles-outbreak-2032747) (Newsweek)
-
-- [Texas Measles outbreak 2025: 58 cases across 5 counties in 3 weeks](https://www.fox4news.com/news/texas-measles-outbreak-2025-58-cases-across-5-counties-3-weeks) (FOX 4 News)
-
-- [Measles Is Rampaging Through Rural Texas: Dozens Sick, Hundreds Feared Infected](https://gizmodo.com/measles-is-rampaging-through-rural-texas-dozens-sick-hundreds-feared-infected-2000564981) (Gizmodo.com)
-
-- [Measles Outbreak Continues In Texas. Officials Now Report 58 Cases](https://www.forbes.com/sites/davewessner/2025/02/18/measles-outbreak-continues-in-texas-officials-now-report-58-cases/) (Forbes)
-
-- [Anti-Vaxxer Thinks He's A Big Hero For Refusing Heart Transplant](https://www.wonkette.com/p/anti-vaxxer-thinks-hes-a-big-hero) (Wonkette.com)
-
-- [Making Microbes Great Again (Paul Krugman)](https://www.memeorandum.com/250218/p16) (Memeorandum.com)
-
-- [Widening Measles Outbreak In Texas Signals Problem With Vaccine Uptake](https://www.forbes.com/sites/joshuacohen/2025/02/18/widening-measles-outbreak-in-texas-signals-problem-with-vaccine-uptake/) (Forbes)
-
-- [Parents warned as measles cases rise in Bristol](https://www.bbc.co.uk/news/articles/c9vy88p2x24o) (BBC News)
-
-- [Texas measles outbreak rises to 48 cases. It's the state's worst in nearly 30 years](https://www.ksat.com/news/texas/2025/02/18/texas-measles-outbreak-rises-to-48-cases-its-the-states-worst-in-nearly-30-years/) (KSAT San Antonio)
-
-- [UT Health infectious disease expert explains emergence of measles in Texas](https://www.kltv.com/video/2025/02/17/ut-health-infectious-disease-expert-explains-emergence-measles-texas/) (KLTV)
-
-- ['This doesn’t have to keep happening': WSJ editorial board begs Trump ally to change](https://www.rawstory.com/rfk-jr-2671170099/) (Raw Story)
-
-- [WSJ asks Kennedy to cast aside 'antivax hooey' amid Texas measles outbreak (Joseph Choi/The Hill)](https://www.memeorandum.com/250217/p99) (Memeorandum.com)
-
-- [13 people hospitalized as ongoing measles outbreak in west Texas rises to 48 cases](https://abc13.com/post/13-people-hospitalized-ongoing-measles-outbreak-west-texas-rises-48-cases/15922782/) (KTRK-TV)
-
-- [13 people hospitalized as ongoing measles outbreak in west Texas rises to 48 cases](https://abc7ny.com/post/13-people-hospitalized-ongoing-measles-outbreak-west-texas-rises-48-cases/15922782/) (WABC-TV)
-
-- [Measles outbreak in Texas rises to at least 48 cases - the state's worst in nearly 30 years (Sara Moniuszko/CBS News)](https://www.memeorandum.com/250217/p67) (Memeorandum.com)
-
-- [Measles outbreak in Texas rises to 48 cases and counting](https://www.cbsnews.com/news/texas-measles-outbreak-what-to-know/) (CBS News)
-
-- [Measles case reported in B.C.’s Lower Mainland, linked to international travel - BC | Globalnews.ca](https://globalnews.ca/news/11022209/lower-mainland-measles-case-exposure/) (Global News)
-
-- [Measles cases are rising in US as Texas outbreak grows. Should we be concerned?](https://abcnews.go.com/Health/measles-cases-rising-us-texas-outbreak-grows-concerned/story?id=118892122) (ABC News)
-
-- [The consequences of declining vaccination rates](https://www.wbur.org/onpoint/2025/02/17/consequences-declining-vaccination-rates-polio) (WBUR)
-
-- [Measles outbreak in Texas raises concerns](https://www.cbsnews.com/video/measles-outbreak-in-texas-raises-concerns/) (CBS News)
-
-## 25-8 (malaria)
-
-- [À Anvers, on manipule les moustiques génétiquement, pour lutter contre malaria](https://www.lavenir.net/actu/societe/2025/02/22/a-anvers-on-manipule-les-moustiques-genetiquement-pour-lutter-contre-malaria-7LMRSY6K5JDPJN3TQVCFZGRIAY/) (Lavenir.net)
-
-- [Promising new class of antimalarial drugs discovered](https://www.sciencedaily.com/releases/2025/02/250220122926.htm) (Science Daily)
-
-- [New | phs003694.v1.p1 | Blood Group Genotypes and Phenotypes in Omani Blood Donors and Its Links With Susceptibility to Malaria](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs003694.v1.p1) (National Institutes of Health)
-
-- [USAid: Die Zerstörung hat schon begonnen](https://www.zeit.de/gesundheit/2025-02/usaid-hiv-malaria-entwicklungshilfe-medizin) (Die Zeit)
-
-- [On the Medical Front, a 'Very Urgent' Need for Oxygen](https://www.newser.com/story/364454/on-the-medical-front-a-very-urgent-need-for-oxygen.html) (Newser)
-
-- [Potential new target for malaria discovered](https://www.nih.gov/news-events/nih-research-matters/potential-new-target-malaria-discovered) (National Institutes of Health)
-
-## 25-8 (leptospirosis)
-
-- [Leptospirosis spike killing dogs in flood-ravaged northern Queensland](https://www.abc.net.au/news/2025-02-19/leptospirosis-spike-dog-deaths-flooded-north-queensland/104955410) (ABC News (AU))
-
-- [Bacolod: Bacolod logs year’s first leptospirosis fatality](https://rpnradio.com/bacolod-bacolod-logs-years-first-leptospirosis-fatality/) (Rpnradio.com)
-
-## 25-8 (hpai)
-
-- [Is It Time to Rethink the Culling of Poultry in Response to Bird Flu?](https://legalinsurrection.com/2025/02/is-it-time-to-rethink-the-culling-of-poultry-in-response-to-bird-flu/) (Legalinsurrection.com)
-
-- [Raw pet food warnings issued in 2 states after cats die of bird flu](https://www.cbsnews.com/news/bird-flu-cats-wild-coast-raw-recall-warnings/) (CBS News)
-
-- [With the Spread of Bird Flu, Cooking Eggs with Precaution May be Beneficial](https://www.discovermagazine.com/health/with-the-spread-of-bird-flu-cooking-eggs-with-precaution-may-be-beneficial) (Discover Magazine)
-
-- [美蛋荒持續、蛋價飛漲 聯準會面臨抗通膨難題](https://finance.technews.tw/2025/02/18/egg-prices-soar-fed-faces-a-challenge-in-fighting-inflation/) (Technews.tw)
-
-- [Bird Flu Cases in Household Cats Spark Raw Pet Food Warning](https://www.newsweek.com/bird-flu-cases-household-cat-raw-pet-food-warning-2031986) (Newsweek)
-
-## 25-8 (h5n1)
-
-- [In Origins of Bird Flu, a Potential Red Flag](https://www.newser.com/story/364423/in-origins-of-bird-flu-a-potential-red-flag.html) (Newser)
-
-- [Cats Are Getting Bird Flu From Human Dairy Workers?](https://www.shtfplan.com/headline-news/cats-are-getting-bird-flu-from-human-dairy-workers) (Shtfplan.com)
-
-- [Alberta mulls roll out of H5N1 avian flu vaccine while Ottawa stockpiles doses for provinces](https://www.cbc.ca/news/canada/calgary/alberta-mulls-roll-out-h5n1-avian-flu-vaccine-1.7463991) (CBC News)
-
-- [Airborne Transmission Of Highly Pathogenic Bird Flu](https://www.forbes.com/sites/johndrake/2025/02/21/airborne-transmission-of-highly-pathogenic-bird-flu/) (Forbes)
-
-- [Influenza A(H5N1) Immune Response among Ferrets with Influenza A(H1N1)pdm09 Immunity](https://wwwnc.cdc.gov/eid/article/31/3/24-1485_article) (Cdc.gov)
-
-- [Effect of Prior Influenza A(H1N1)pdm09 Virus Infection on Pathogenesis and Transmission of Human Influenza A(H5N1) Clade 2.3.4.4b Virus in Ferret Model](https://wwwnc.cdc.gov/eid/article/31/3/24-1489_article) (Cdc.gov)
-
-- [Descubren posible transmisión del virus H5N1 en pollos a través del viento](https://www.meneame.net/m/ciencia/descubren-posible-transmision-virus-h5n1-pollos-traves-viento) (Meneame.net)
-
-- [These 6 Grocery Chains Are Placing Limits on Egg Purchases](https://www.mentalfloss.com/grocery-chains-limiting-egg-purchases) (Mental Floss)
-
-- [Роспотребнадзор выявил опасную мутацию вируса гриппа птиц в Сахалинской области](https://life.ru/p/1729211) (Life.ru)
-
-- [На Сахалине нашли опасную мутацию птичьего гриппа](https://www.kommersant.ru/doc/7517357) (Kommersant.ru)
-
-- [Highly Pathogenic Avian Influenza A(H5N1) Virus Infection of Indoor Domestic Cats Within Dairy Industry Worker Households — Michigan, May 2024](https://www.cdc.gov/mmwr/volumes/74/wr/mm7405a2.htm) (Cdc.gov)
-
-- [One state’s flawed, desperate new plan to fix its egg shortage](https://www.vox.com/future-perfect/400361/bird-flu-egg-shortage-nevada-cage-free) (Vox)
-
-- [Самые дорогие яйца в мире. Что происходит с ценами в США и как Украина может помочь](https://biz.liga.net/all/infographic-of-the-day/infografica/samye-dorogie-yaitsa-v-mire-chto-proishodit-s-tsenami-v-ssha-i-kak-ukraina-mozhet-pomoch) (Liga.net)
-
-- [Taivassalosta löytyi lintuinfluenssaan kuollut kanahaukka – kyseessä jo toinen tartunta Varsinais-Suomessa tänä vuonna](https://yle.fi/a/74-20144884) (YLE News)
-
-- [USDA Scrambles to Rehire Employees Who Were Combatting Bird Flu After Accidentally Firing Them](https://www.ibtimes.com/usda-scrambles-rehire-employees-who-were-combatting-bird-flu-after-accidentally-firing-them-3764318) (International Business Times)
-
-- [Trump officials try to reverse DOGE-led firings](https://theweek.com/politics/doge-led-firings-trump-musk-bird-air-safety) (The Week Magazine)
-
-- [Canada buys 500,000 doses of H5N1 avian influenza vaccine for those most at risk](https://www.cbc.ca/news/health/h5n1-vaccine-canada-1.7462802) (CBC News)
-
-- [ΗΠΑ: Αντιμέτωπη με τη γρίπη των πτηνών, προσπαθεί να επαναπροσλάβει υπαλλήλους του υπ. Γεωργίας](https://www.skai.gr/news/world/ipa-antimetopi-me-ti-gripi-ton-ptinon) (Skai.gr)
-
-- [Η κυβέρνηση Τραμπ προσπαθεί να επαναπροσλάβει υπαλλήλους του υπουργείου Γεωργίας λόγω της γρίπης των πτηνών](https://www.protothema.gr/world/article/1603613/i-kuvernisi-trab-prospathei-na-epanaproslavei-upallilous-tou-upourgeiou-georgias-logo-tis-gripis-ton-ptinon/) (Protothema.gr)
-
-- [Trump, pese a la escasez del huevo de EU, despide a funcionarios que trataban la gripe aviar](https://www.excelsior.com.mx/global/usda-despide-empleados-por-error-mientras-brote-de-gripe-aviar-se-agrava/1700691) (Excelsior.com.mx)
-
-- [Looking Into This](https://www.eschatonblog.com/2025/02/looking-into-this_01967887625.html) (Eschatonblog.com)
-
-- [USDA Has Spent $1.25 Billion on Mass Culling for H5N1 Bird Flu—With Disastrous Consequences](https://www.globalresearch.ca/usda-spent-1-25-billion-mass-culling-h5n1-bird-flu/5880289) (Globalresearch.ca)
-
-- [Kockázatos hiba csúszott Donald Trump gépezetébe: nőtt a járványveszély a kirúgások miatt?](https://www.portfolio.hu/global/20250219/kockazatos-hiba-csuszott-donald-trump-gepezetebe-nott-a-jarvanyveszely-a-kirugasok-miatt-742365) (Portfolio.hu)
-
-- [全球第三波H5N1疫情遲未結束，禽流感如何演變成全球威脅？](https://www.thenewslens.com/article/249164) (Thenewslens.com)
-
-- [Πρώτα οι αγελάδες, τώρα οι γάτες – Έρχεται η γρίπη των πτηνών για τον άνθρωπο;](https://www.naftemporiki.gr/kosmos/1916662/prota-oi-agelades-tora-oi-gates-erchetai-i-gripi-ton-ptinon-gia-ton-anthropo/) (Naftemporiki.gr)
-
-- [川普政府又裁錯人？美國農業部意外解僱應對禽流感疫情的工作人員](https://technews.tw/2025/02/19/usda-accidentally-fired-officials-working-on-bird-flu-and-is-now-trying-to-rehire-them/) (Technews.tw)
-
-- [Онищенко объяснил, как птичий грипп влияет на стоимость потребкорзины](https://tass.ru/obschestvo/23180663) (Tass.ru)
-
-- [USDA ‘Accidentally’ Fired Bird Flu Staff](https://politicalwire.com/2025/02/18/usda-accidentally-fired-bird-flu-staff/) (Politicalwire.com)
-
-- [USDA says it accidentally fired officials working on bird flu and is trying to rehire them](https://www.nbcnews.com/politics/doge/usda-accidentally-fired-officials-bird-flu-rehire-rcna192716) (NBC News)
-
-- [Онищенко заявил, что эпидсезон гриппа и ОРВИ закончится во второй половине марта](https://tass.ru/obschestvo/23179975) (Tass.ru)
-
-- [Beware the ‘quad-demic’ surge: Flu, COVID-19, RSV, and norovirus](https://www.digitaljournal.com/life/beware-the-quad-demic-surge-flu-covid-19-rsv-and-norovirus/article) (Digital Journal)
-
-- [A Woman in Wyoming Is Hospitalized With Bird Flu](https://time.com/7258188/bird-flu-wyoming-woman-exposed-flock/) (Time)
-
-- [Bird Flu jumps species in the U.S.: Scientists alarmed as virus spreads to cats, cows. Are humans next?](https://economictimes.indiatimes.com/magazines/panache/bird-flu-jumps-species-in-the-u-s-scientists-alarmed-as-virus-spreads-to-cats-cows-are-humans-next/articleshow/118363774.cms) (The Times of India)
-
-- [Bird flu: The wind may be partly to blame for spread between farms, a new study suggests](https://www.cnn.com/2025/02/18/health/wind-bird-flu-spread-study/index.html) (CNN)
-
-- [Nová varianta ptačí chřipky poprvé přeskočila ze skotu na člověka. Pacientem je Američan, zatím ale není důvod k panice](https://vtm.zive.cz/clanky/nova-varianta-ptaci-chripky-poprve-preskocila-ze-skotu-na-cloveka-pacientem-je-american-zatim-ale-neni-duvod-k-panice/sc-870-a-232995/default.aspx) (Zive.cz)
-
-- [EU-Exzellenznetzwerk für Grippeforschung gefordert](https://science.orf.at/stories/3228929/) (Science.orf.at)
-
-- [Hühner, Katzen, Kühe und jetzt auch Menschen: Wie Trumps Politik die Vogelgrippegefahr in den USA schürt](https://www.tagesspiegel.de/wissen/huhner-katzen-kuhe-und-jetzt-auch-menschen-wie-trumps-politik-die-vogelgrippegefahr-in-den-usa-schurt-13217839.html) (Der Tagesspiegel)
-
-- [It’s Not The Egg Shortage We Should Be Worrying About](https://www.lawyersgunsmoneyblog.com/2025/02/its-not-the-egg-shortage-we-should-be-worrying-about) (Lawyersgunsmoneyblog.com)
-
-- [Los CDC sugieren que la gripe aviar en EE. UU. se está extendiendo entre los humanos sin ser detectada](https://www.dw.com/es/los-cdc-sugieren-que-la-gripe-aviar-en-ee-uu-se-est%C3%A1-extendiendo-entre-los-humanos-sin-ser-detectada/a-71640808) (DW (English))
-
-- [Woman Hospitalized In Wyoming With Bird Flu](https://www.shtfplan.com/member-exclusive/woman-hospitalized-in-wyoming-with-bird-flu) (Shtfplan.com)
-
-- [La gripe aviar ha llegado a uno de los lugares más recónditos del planeta y sus habitantes: los pingüinos de la Antártida](https://www.xataka.com/ecologia-y-naturaleza/gripe-aviar-se-esta-extendiendo-antartida-pinguinos-no-unica-especie-afectada) (Xataka.com)
-
-- [Wyoming woman hospitalized with bird flu virus](https://www.nbcnews.com/health/health-news/bird-flu-hospitalized-woman-chickens-wyoming-rcna192455) (NBC News)
-
-- [Gripe aviária está se espalhando sem ser detectada, alerta CDC](https://www.metropoles.com/saude/gripe-aviaria-espalha-sem-deteccao) (Metropoles.com)
-
-- [Panic Is Here: Now They Are Killing Cats To Prevent The Spread Of H5N1](https://www.shtfplan.com/headline-news/panic-is-here-now-they-are-killing-cats-to-prevent-the-spread-of-h5n1) (Shtfplan.com)
-
-- [Огромные очереди и повышенные цены: В США возник дефицит яиц](https://biz.liga.net/all/prodovolstvie/novosti/ogromnye-ocheredi-i-povyshennye-tseny-v-ssha-voznik-defitsit-yaits) (Liga.net)
-
-- [Bird Flu Cases in Household Cats Spark Raw Pet Food Warning](https://www.newsweek.com/bird-flu-cases-household-cat-raw-pet-food-warning-2031986) (Newsweek)
-
-- [В США ветеринары начали заражаться птичьим гриппом](https://www.ferra.ru/news/techlife/v-ssha-veterinary-nachali-zarazhatsya-ptichim-grippom-16-02-2025.htm) (Ferra.ru)
-
-- [House Cats With Bird Flu Could Pose a Risk to Public Health](https://abcnews.go.com/Health/wireStory/house-cats-bird-flu-pose-risk-public-health-118664274) (ABC News)
-
-- [Grippe aviaire : face à l’aggravation de l’épizootie, les Etats-Unis vont importer des œufs turcs](https://www.lemonde.fr/economie/article/2025/02/16/grippe-aviaire-face-a-l-aggravation-de-l-epizootie-les-etats-unis-vont-importer-des-ufs-turcs_6549975_3234.html) (Le Monde)
-
-## 25-8 (dengue)
-
-- [Za pět komárů 41 haléřů. Filipínci vypsali odměnu na moskyty přenášející horečku dengue](https://www.novinky.cz/clanek/koktejl-za-pet-komaru-41-haleru-filipinci-vypsali-odmenu-na-moskyty-prenasejici-horecku-dengue-40510089) (Novinky.cz)
-
-- [Com 303 casos para cada 100 mil habitantes, SP se torna epidêmico para dengue](https://valor.globo.com/brasil/noticia/2025/02/21/com-303-casos-para-cada-100-mil-habitantes-sp-se-torna-epidemico-para-dengue.ghtml) (Globo)
-
-- [Tot oder lebendig: Gemeinde setzt Kopfgeld auf Moskitos aus](https://www.n-tv.de/wissen/Gemeinde-setzt-Kopfgeld-auf-Moskitos-aus-article25579207.html) (N-tv.de)
-
-- [Dengue matou 126 pessoas no Brasil em janeiro, segundo maior número para o mês](https://valor.globo.com/brasil/noticia/2025/02/21/dengue-mata-126-pessoas-no-brasil-em-janeiro-segundo-maior-numero-para-o-mes.ghtml) (Globo)
-
-- [Muggenvangers in Filipijnen krijgen beloning in strijd tegen denguevirus](https://nos.nl/l/2556745) (Nos.nl)
-
-- [Ein Peso für fünf Mücken: Philippinische Gemeinde zahlt «Kopfgeld» im Kampf gegen Dengue](https://www.nzz.ch/panorama/ein-peso-fuer-fuenf-muecken-philippinische-gemeinde-zahlt-kopfgeld-im-kampf-gegen-dengue-ld.1872173) (Www.nzz.ch)
-
-- [Com 75% das mortes por dengue no país, São Paulo tem vacina restrita na rede pública e em falta na particular](https://www.bbc.com/portuguese/articles/czedg61gpgjo) (BBC News)
-
-- [Genomic Characterization of Circulating Dengue Virus, Ethiopia, 2022–2023](https://wwwnc.cdc.gov/eid/article/31/3/24-0996_article) (Cdc.gov)
-
-- [Kampf gegen Dengue-Fieber - Philippinische Gemeinde setzt Kopfgeld auf Moskitos aus](https://www.focus.de/panorama/welt/kampf-gegen-dengue-fieber-philippinische-gemeinde-setzt-kopfgeld-auf-moskitos-aus_id_260740059.html) (Focus)
-
-- [Kampf gegen Dengue-Fieber: Philippinische Gemeinde setzt Kopfgeld auf Moskitos aus](https://www.tagesspiegel.de/wissen/kampf-gegen-dengue-fieber-philippinische-gemeinde-setzt-kopfgeld-auf-moskitos-aus-13244869.html) (Der Tagesspiegel)
-
-- [Another melioidosis death in Qld as dengue fever cluster probed](https://www.abc.net.au/news/2025-02-21/townsville-melioidosis-death-dengue-fever-mould-warning/104964256) (ABC News (AU))
-
-- [Focolaio di Dengue nelle Marche risolto grazie a collaborazioni efficaci](https://www.benessereblog.it/focolaio-di-dengue-nelle-marche-risolto-grazie-a-collaborazioni-efficaci/) (Benessereblog.it)
-
-- [Hybrid Life in a Drowned Argentina: Dengue Boy by Michel Nieva](https://reactormag.com/book-review-dengue-boy-by-michel-nieva/) (Reactormag.com)
-
-- [A curiosa iniciativa de governo das Filipinas diante de aumento alarmante de casos de dengue](https://veja.abril.com.br/mundo/a-curiosa-iniciativa-de-governo-das-filipinas-diante-de-aumento-alarmante-de-casos-de-dengue) (Abril.com.br)
-
-- [São Paulo decreta una emergencia sanitaria por el aumento de casos de dengue](https://www.montevideo.com.uy/Salud/S-o-Paulo-decreta-una-emergencia-sanitaria-por-el-aumento-de-casos-de-dengue-uc915582) (Montevideo.com.uy)
-
-- [Dengue Outbreak and Response — Puerto Rico, 2024](https://www.cdc.gov/mmwr/volumes/74/wr/mm7405a1.htm) (Cdc.gov)
-
-- [Philippinische Stadt bietet Kopfgeld – auf Mücken](https://www.morgenpost.de/panorama/article408355261/philippinische-stadt-bietet-kopfgeld-auf-muecken.html) (Berliner Morgenpost)
-
-- [4 cuidados para evitar picadas pelo mosquito da dengue](https://veja.abril.com.br/saude/4-cuidados-para-evitar-picadas-pelo-mosquito-da-dengue) (Abril.com.br)
-
-- [Cegah Perkembangan Nyamuk Aedes Aegypti, Babinsa Koramil 0826-01 Pamekasan Lakukan Fogging di SDN Teja Barat 1](https://suaraindonesia-news.com/cegah-perkembangan-nyamuk-aedes-aegypti-babinsa-koramil-0826-01-pamekasan-lakukan-fogging-di-sdn-teja-barat-1/) (Suaraindonesia-news.com)
-
-- [124.000 Dengue-Fieber-Fälle: São Paulo ruft Gesundheitsnotstand aus](https://www.n-tv.de/wissen/Sao-Paulo-ruft-Gesundheitsnotstand-aus-article25575833.html) (N-tv.de)
-
-- [Distrito Federal reforça as ações de prevenção e combate à dengue](https://www.metropoles.com/conteudo-especial/distrito-federal-reforca-as-acoes-de-prevencao-e-combate-a-dengue) (Metropoles.com)
-
-- [Butantan desenvolve primeira vacina de dose única contra a dengue](https://catracalivre.com.br/saude-bem-estar/butantan-desenvolve-primeira-vacina-de-dose-unica-contra-a-dengue/) (Catracalivre.com.br)
-
-- [Dengue: São Paulo declara emergência de saúde pública diante de epidemia](https://olhardigital.com.br/2025/02/19/medicina-e-saude/dengue-sao-paulo-declara-emergencia-de-saude-publica-diante-de-epidemia/) (Olhardigital.com.br)
-
-- [Sao Paulo state declares health emergency over dengue outbreak](https://www.thestar.com.my/news/world/2025/02/20/sao-paulo-state-declares-health-emergency-over-dengue-outbreak) (The Star Online)
-
-- [Estado de São Paulo declara situação de emergência após aumento em casos de dengue](https://www.infomoney.com.br/saude/estado-de-sao-paulo-declara-situacao-de-emergencia-apos-aumento-em-casos-de-dengue/) (InfoMoney)
-
-- [Sao Paulo ruft Notstand wegen Dengue-Fiebers aus](https://orf.at/stories/3385363/) (Orf.at)
-
-- [In This Neighborhood, They Trade Mosquitoes for Cash](https://www.newser.com/story/364531/village-offers-a-bounty-on-mosquitoes.html) (Newser)
-
-- [Un oraș oferă recompensă pentru prinderea țânțarilor, după ce doi elevi au murit din cauza febrei dengue](https://adevarul.ro/stiri-externe/in-lume/un-oras-ofera-recompensa-pentru-prinderea-2423206.html) (Adevarul.ro)
-
-- [“Morts ou vifs” : aux Philippines, une récompense pour la capture des moustiques](https://www.courrierinternational.com/article/dengue-morts-ou-vifs-aux-philippines-une-recompense-pour-la-capture-des-moustiques_227934) (Courrier International)
-
-- [Recompensă pentru prinderea țânțarilor: Cum încearcă un oraș din Filipine să stopeze răspândirea febrei dengue](https://www.digi24.ro/stiri/externe/recompensa-pentru-prinderea-tantarilor-cum-incearca-un-oras-din-filipine-sa-stopeze-raspandirea-febrei-dengue-3127399) (Digi24.ro)
-
-- [Com mais de 110 mortes, São Paulo decreta emergência por dengue em todo o estado](https://veja.abril.com.br/saude/com-mais-de-100-mortes-sao-paulo-decreta-emergencia-por-dengue-em-todo-o-estado) (Abril.com.br)
-
-- [Estado de São Paulo decreta emergência por dengue](https://valor.globo.com/brasil/noticia/2025/02/19/estado-de-sao-paulo-decreta-emergencia-por-dengue.ghtml) (Globo)
-
-- [Un quartiere di Manila ha messo una taglia sulle zanzare, vive o morte](https://www.ilpost.it/2025/02/19/filippine-manila-zanzare-taglia-vive-morte/) (Ilpost.it)
-
-- [Melaka exco member steps up fight against Aedes mosquito](https://www.thestar.com.my/news/nation/2025/02/19/melaka-exco-member-steps-up-fight-against-aedes-mosquito) (The Star Online)
-
-- [Philippines village offering bounties for mosquitoes amid dengue fever outbreak](https://news.sky.com/story/philippines-village-offering-bounties-for-mosquitoes-amid-dengue-fever-outbreak-13312514) (Sky.com)
-
-- [Un peso por cada cinco mosquitos: la recompensa que ofrece Manila para acabar con los portadores del dengue](https://www.abc.es/sociedad/peso-cinco-mosquitos-recompensa-ofrece-manila-acabar-20250219115801-nt.html) (Www.abc.es)
-
-- [Madeira. Duas pessoas sinalizadas em janeiro com dengue](https://ionline.sapo.pt/2025/02/19/madeira-duas-pessoas-sinalizadas-em-janeiro-com-dengue/) (Sapo.pt)
-
-- [Filippine, lotta alla dengue: una taglia sulle zanzare, vive o morte](https://www.ilsole24ore.com/art/filippine-lotta-dengue-taglia-zanzare-vive-o-morte-AGbSeqzC) (Il Sole 24 Ore)
-
-- [Čím viac komárov, tým viac pesos. V Manile núkajú ľuďom za ich chytanie odmenu, chcú tak zabrániť epidémii](https://spravy.pravda.sk/svet/clanok/741595-cim-viac-komarov-tym-viac-pesos-v-manile-nukaju-ludom-za-ich-chytanie-odmenu-chcu-tak-zabranit-epidemii/) (Pravda.sk)
-
-- [Philippine village battles dengue by offering bounties for mosquitos — dead or alive](https://abcnews.go.com/Health/wireStory/philippine-village-battles-dengue-offering-bounties-mosquitos-dead-118955015) (ABC News)
-
-- [Különös módon akarják megállítani a dengue-lázt](https://www.origo.hu/nagyvilag/2025/02/penzjutalom-dengue-laz-fulop-szigetek) (Origo.hu)
-
-- [Philippine town offers bounty for mosquitoes as dengue rises](https://www.bbc.com/news/articles/cvgdr4r2l31o) (BBC News)
-
-- [DF não vai ampliar faixa etária de vacinação contra a dengue. Entenda](https://www.metropoles.com/distrito-federal/df-nao-vai-ampliar-faixa-etaria-de-vacinacao-contra-a-dengue-entenda) (Metropoles.com)
-
-- [Tonga's Health Ministry declares dengue outbreak with 10 cases reported - Kaniva Tonga News](https://kanivatonga.co.nz/2025/02/tongas-health-ministry-declares-dengue-outbreak-with-10-cases-reported/) (Kanivatonga.co.nz)
-
-- [Governo de SP deve decretar situação de emergência para dengue nesta quarta-feira, diz jornal](https://valor.globo.com/brasil/noticia/2025/02/18/governo-de-sp-deve-decretar-situacao-de-emergencia-para-dengue-nesta-quarta-feira-diz-jornal.ghtml) (Globo)
-
-- [Estado de São Paulo ultrapassa marca de 100 mortes por dengue](https://valor.globo.com/brasil/noticia/2025/02/18/estado-de-sao-paulo-ultrapassa-marca-de-100-mortes-por-dengue.ghtml) (Globo)
-
-- [Casos de dengue alertam para a importância da febre](https://www.terra.com.br/noticias/casos-de-dengue-alertam-para-a-importancia-da-febre,2f7c8420d00949d285d8280b16d9e54d0zpkl2uh.html) (Terra.com.br)
-
-- [Prevalence of antibodies against dengue virus in the city of Buenos Aires: Results of a probabilistic population survey](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012886) (Plos.org)
-
-- [Investigation of severe dengue outbreak in Maumere, East Nusa Tenggara, Indonesia: Clinical, serological, and virological features](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317854) (Plos.org)
-
-- [Casos de dengue alertam para a importância da febre](https://www.dino.com.br/releases/casos-de-dengue-alertam-para-a-importancia-da-febre-dino890304705131) (Dino.com.br)
-
-- [PANAYAM: Dr. Federico Luis Castillo, Dengue Control Coordinator, Mandaluyong City Health Office](https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DLHPKLUjkFo8) (YouTube)
-
-- [Sem doses a vencer, cidade de SP não vai ampliar faixa etária da vacinação contra a dengue](https://www.terra.com.br/vida-e-estilo/saude/sem-doses-a-vencer-cidade-de-sp-nao-vai-ampliar-faixa-etaria-da-vacinacao-contra-a-dengue,e7940d2f1f7eef896eafb019af8ab44dflbv8ltf.html) (Terra.com.br)
-
-- [SP não vai seguir recomendação de ampliar público de vacina da dengue](https://www.metropoles.com/sao-paulo/sp-nao-vai-ampliar-vacina-dengue) (Metropoles.com)
-
-- [SP vai decretar emergência para dengue esta semana, diz secretário](https://www.metropoles.com/sao-paulo/sp-emergencia-dengue-esta-semana) (Metropoles.com)
-
-- ["The White Lotus": 3e saison semée d’embûches](https://www.lavenir.net/culture/2025/02/17/the-white-lotus-3e-saison-semee-dembuches-KVSIEUWV6BEZVEIDW4ZOKTTX6M/) (Lavenir.net)
-
-## 25-8 (chikungunya)
-
-- [Level 2 - Chikungunya in Réunion](https://wwwnc.cdc.gov/travel/notices/level2/chikungunya-reunion) (Cdc.gov)
-
-- [Com mais de 110 mortes, São Paulo decreta emergência por dengue em todo o estado](https://veja.abril.com.br/saude/com-mais-de-100-mortes-sao-paulo-decreta-emergencia-por-dengue-em-todo-o-estado) (Abril.com.br)
-
-- [UK’s MHRA Grants Marketing Authorization for Chikungunya Vaccine](https://www.jdsupra.com/legalnews/uk-s-mhra-grants-marketing-7155248/) (JD Supra)
-
 ## 25-14 (zika)
+
+- [An antiviral chewing gum to reduce influenza and herpes simplex virus transmission](https://www.sciencedaily.com/releases/2025/04/250404201407.htm) (Science Daily)
 
 - [Inicialmente ignorado, há 10 anos o zika vírus chegava nas terras e nas veias sanguíneas brasileiras](https://noticiabrasil.net.br/20250401/inicialmente-ignorado-ha-10-anos-o-zika-virus-chegava-nas-terras-e-nas-veias-sanguineas-brasileiras-39029653.html) (Noticiabrasil.net.br)
 
@@ -1201,6 +705,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-14 (pertussis)
 
+- [New research boosts future whooping cough vaccines](https://www.sciencedaily.com/releases/2025/04/250404201413.htm) (Science Daily)
+
 - [Whooping Cough Killed Two Children. Here’s How to Protect Kids](https://www.scientificamerican.com/article/whooping-cough-killed-two-children-heres-how-to-protect-kids/) (Scientific American)
 
 - [Highlands Ranch High students may have been exposed to pertussis](https://www.denverpost.com/2025/04/04/highlands-ranch-high-school-pertussis-whooping-cough/) (The Denver Post)
@@ -1214,6 +720,18 @@ Source: [News API](https://newsapi.org/)
 - [Putting computational models of immunity to the test—An invited challenge to predict B.pertussis vaccination responses](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012927) (Plos.org)
 
 ## 25-14 (mpox)
+
+- [Hohes Pandemierisiko: Experten warnen vor globaler Bedrohung durch Mpox](https://www.n-tv.de/wissen/Experten-warnen-vor-globaler-Bedrohung-durch-Mpox-und-sehen-hohes-Pandemierisiko-article25682528.html) (N-tv.de)
+
+- [Experten-Warnung – Mpox könnte zu ernster Bedrohung werden](https://www.welt.de/vermischtes/article255870896/Steigende-Fallzahlen-Experten-Warnung-Mpox-koennte-zu-ernster-Bedrohung-werden.html) (DIE WELT)
+
+- [Immer neue Epidemien drohen: Experten-Warnung: Mpox könnte zu ernster Bedrohung werden](https://www.tagesspiegel.de/wissen/immer-neue-epidemien-drohen-experten-warnung-mpox-konnte-zu-ernster-bedrohung-werden-13492465.html) (Der Tagesspiegel)
+
+- [„Brauchen dringend bessere Überwachung“: Experten warnen vor globaler Gefahr durch das Virus Mpox](https://www.tagesspiegel.de/wissen/brauchen-dringend-bessere-uberwachung-experten-warnen-vor-globaler-gefahr-durch-das-virus-mpox-13492465.html) (Der Tagesspiegel)
+
+- [Immer neue Epidemien drohen: Experten-Warnung: Mpox könnte zu ernster Bedrohung werden](https://www.zeit.de/news/2025-04/05/experten-warnung-mpox-koennte-zu-ernster-bedrohung-werden) (Die Zeit)
+
+- [Immer neue Epidemien drohen: Experten-Warnung: Mpox könnte zu ernster Bedrohung werden](https://www.stern.de/panorama/wissen/immer-neue-epidemien-drohen--experten-warnung--mpox-koennte-zu-ernster-bedrohung-werden-35614898.html) (STERN.de)
 
 - [Zambia confirms 36 mpox cases since October outbreak](https://www.thestar.com.my/news/world/2025/04/03/zambia-confirms-36-mpox-cases-since-october-outbreak) (The Star Online)
 
@@ -1237,6 +755,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-14 (meningitis)
 
+- [Nigeria receives one million meningitis vaccine doses](https://punchng.com/nigeria-receives-one-million-meningitis-vaccine-doses/) (The Punch)
+
+- [Nigeria has received more than 1 million vaccines to fight an ongoing meningitis outbreak](https://financialpost.com/pmn/nigeria-has-received-more-than-1-million-vaccines-to-fight-an-ongoing-meningitis-outbreak) (Financial Post)
+
 - [Nigeria receives one million Gavi-funded vaccine doses to combat meningitis](https://punchng.com/nigeria-receives-one-million-gavi-funded-vaccine-doses-to-combat-meningitis/) (The Punch)
 
 - [North East Regional Health Directorate enhances meningitis response with new initiatives](https://3news.com/news/north-east-regional-health-directorate-enhances-meningitis-response-with-new-initiatives/) (3news.com)
@@ -1246,6 +768,14 @@ Source: [News API](https://newsapi.org/)
 - [NCDC raises the alarm over rising meningitis cases, reports 74 deaths](https://punchng.com/ncdc-raises-the-alarm-over-rising-meningitis-cases-reports-74-deaths/) (The Punch)
 
 ## 25-14 (measles)
+
+- [Texas measles outbreak nears 500 cases as virus spreads among day care kids](https://www.nbcnews.com/health/health-news/texas-measles-daycare-outbreak-confirmed-cases-rcna199631) (NBC News)
+
+- [Alberta's top doctor should be given green light to speak publicly on measles, health experts say](https://www.cbc.ca/news/canada/calgary/alberta-top-doctor-to-speak-publicly-measles-1.7501486) (CBC News)
+
+- [RFK Jr.’s Vitamin A Fix for Measles Is Hurting Kids in Texas](https://gizmodo.com/rfk-jr-s-vitamin-a-fix-for-measles-is-hurting-kids-in-texas-2000585347) (Gizmodo.com)
+
+- [Texas measles cases jump nearly 14% in three days...](https://www.jpost.com/breaking-news/article-848914) (The Jerusalem Post)
 
 - [Amid The Measles Outbreak, HHS Cuts 1/8th Of Workforce](https://www.techdirt.com/2025/04/04/amid-the-measles-outbreak-hhs-cuts-1-8th-of-workforce/) (Techdirt)
 
@@ -1258,6 +788,8 @@ Source: [News API](https://newsapi.org/)
 - [Measles Spreads To Central Texas; 5 States Now Have Active Outbreaks](https://www.huffpost.com/entry/measles-spreads-to-central-texas_n_67efeac4e4b06ba13d22244c) (HuffPost)
 
 - [Delivering Measles Vaccines On Horseback In Kyrgyzstan](https://www.forbes.com/sites/unicefusa/2025/04/04/delivering-measles-vaccines-on-horseback-in-kyrgyzstan/) (Forbes)
+
+- [JOTWELL: Mullenix on Steinitz on Zombie Litigation](https://prawfsblawg.blogs.com/prawfsblawg/2025/04/jotwell-mullenix-on-steinitz-on-zombie-litigation.html) (Blogs.com)
 
 - [‘The Pitt’ Episode 14 Adds More Horrors to Dr. Robby’s Day: An Anti-Vaxx Mom and a Kid With Measles](https://decider.com/2025/04/04/the-pitt-episode-14-measles/) (Decider)
 
@@ -1375,6 +907,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-14 (malaria)
 
+- [Drug makes blood toxic to malaria-spreading mosquitoes](https://www.livescience.com/health/viruses-infections-disease/drug-makes-blood-toxic-to-malaria-spreading-mosquitoes) (Live Science)
+
 - [Household costs associated with zoonotic Plasmodium knowlesi, P. falciparum, P. vivax and P. malariae infections in Sabah, Malaysia](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012180) (Plos.org)
 
 - [Podcast Episode 2: Addressing Urgent Needs in Seasonal Malaria Chemoprevention](https://blog.givewell.org/2025/04/03/podcast-episode-2-addressing-urgent-needs-in-seasonal-malaria-chemoprevention/) (Givewell.org)
@@ -1401,11 +935,67 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-14 (hpai)
 
+- [Avian flu identified in Sheboygan County poultry flock](https://www.fox6now.com/news/avian-flu-sheboygan-county-poultry-flock) (fox6now.com)
+
 - [Govt tightens biosecurity rules as bird flu spreads beyond poultry](https://economictimes.indiatimes.com/news/india/govt-tightens-biosecurity-rules-as-bird-flu-spreads-beyond-poultry/articleshow/119988904.cms) (The Times of India)
 
 - [एक तिहाई अमेरिकियों ने अंडे खरीदना कर दिया बंद! महंगाई ने तोड़ दी कमर](https://hindi.moneycontrol.com/world/one-third-of-americans-have-stopped-buying-eggs-due-to-inflation-avian-influenza-bird-flu-trump-tarrif-plant-based-egg-article-1967522.html) (Moneycontrol)
 
 ## 25-14 (h5n1)
+
+- [Primul caz de gripă aviară la om din Mexic, confirmat la o fetiță de 3 ani](https://www.mediafax.ro/externe/primul-caz-de-gripa-aviara-la-om-din-mexic-confirmat-la-o-fetita-de-3-ani-23536906) (Mediafax.ro)
+
+- [Erster Fall von Vogelgrippe in Mexiko bei Kind entdeckt](https://orf.at/stories/3389746/) (Orf.at)
+
+- [Μεξικό: Πρώτο κρούσμα της γρίπης των πτηνών σε άνθρωπο](https://www.naftemporiki.gr/kosmos/1941541/mexiko-proto-kroysma-tis-gripis-ton-ptinon-se-anthropo/) (Naftemporiki.gr)
+
+- [V Mexiku onemocněla ptačí chřipkou tříletá holčička, je ve vážném stavu](https://www.idnes.cz/zpravy/zahranicni/v-mexiku-onemocnela-ptaci-chripkou-trileta-holcicka-je-ve-vaznem-stavu.A250405_070929_zahranicni_vank) (Idnes.cz)
+
+- [Voor het eerst kind besmet met vogelgriep in Mexico](https://www.nieuwsblad.be/cnt/dmf20250405_91998947) (Nieuwsblad.be)
+
+- [Mexicansk pige smittet med farlig variant af fugleinfluenza](https://politiken.dk/internationalt/art10364828/Mexicansk-pige-smittet-med-farlig-variant-af-fugleinfluenza) (Politiken.dk)
+
+- [TWiV 1206: Clinical update with Dr. Daniel Griffin](https://www.microbe.tv/twiv/twiv-1206/) (Microbe.tv)
+
+- [Πρώτο ανθρώπινο κρούσμα της γρίπης των πτηνών στο Μεξικό](https://www.protothema.gr/world/article/1622454/proto-anthropino-krousma-tis-gripis-ton-ptinon-sto-mexiko/) (Protothema.gr)
+
+- [México reporta su primer caso humano de gripe aviar H5N1](https://peru21.pe/mundo/mexico-reporta-su-primer-caso-humano-de-gripe-aviar-h5n1/) (Peru21.pe)
+
+- [Μετά τις ΗΠΑ, στο Μεξικό το πρώτο ανθρώπινο κρούσμα της γρίπης των πτηνών](https://www.skai.gr/news/health/meksiko-proto-anthropino-krousma-tis-gripis-ton-ptinon) (Skai.gr)
+
+- [An antiviral chewing gum to reduce influenza and herpes simplex virus transmission](https://www.sciencedaily.com/releases/2025/04/250404201407.htm) (Science Daily)
+
+- [México confirma primer caso de influenza aviar en humanos: ¿Cuáles son los síntomas?](https://www.elfinanciero.com.mx/salud/2025/04/04/influenza-aviar-h5n1-cuales-son-los-sintomas-y-como-se-contagia/) (El Financiero)
+
+- [Ptasia grypa u człowieka. Informują o pierwszym takim przypadku](https://wydarzenia.interia.pl/zagranica/news-ptasia-grypa-u-czlowieka-informuja-o-pierwszym-takim-przypad,nId,21392617) (Interia.pl)
+
+- [Mexico confirms country's first human case of bird flu in a 3-year-old girl](https://abcnews.go.com/Health/wireStory/mexico-confirms-countrys-human-case-bird-flu-3-120505113) (ABC News)
+
+- [Influenza aviar H5N1 en México: Todo lo que sabemos del primer caso en el país](https://www.milenio.com/politica/influenza-aviar-h5n1-en-mexico-lo-que-sabemos-del-primer-contagio) (Milenio)
+
+- [Detectan primer caso humano de influenza aviar A (H5N1) en México](https://aristeguinoticias.com/040425/mexico/detectan-primer-caso-humano-de-influenza-aviar-a-h5n1-en-mexico/) (Aristeguinoticias.com)
+
+- [Mexico confirms country's first human case of bird flu in a 3-year-old girl](https://abcnews.go.com/International/wireStory/mexico-confirms-countrys-human-case-bird-flu-3-120505112) (ABC News)
+
+- [Mexico confirms country's first human case of bird flu in a 3-year-old girl](https://www.seattlepi.com/news/world/article/mexico-confirms-country-s-first-human-case-of-20259652.php) (seattlepi.com)
+
+- [OMS reporta 969 casos de influenza aviar A(H5N1) en 24 países desde 2003](https://www.milenio.com/internacional/casos-de-influenza-aviar-a-en-el-mundo-desde-2003) (Milenio)
+
+- [Confirman primer caso humano de influenza aviar H5N1 en México](https://www.excelsior.com.mx/nacional/confirman-primer-caso-mexico-influenza-aviar-h5n1/1708965) (Excelsior.com.mx)
+
+- [В Мексике выявили первый случай заражения человека птичьим гриппом](https://vz.ru/news/2025/4/5/1324011.html) (Vz.ru)
+
+- [Secretaría de Salud confirma el primer caso de influenza aviar H5N1 en una persona en México](https://www.elfinanciero.com.mx/salud/2025/04/04/secretaria-de-salud-confirma-el-primer-caso-de-influenza-aviar-h5n1-en-una-persona-en-mexico/) (El Financiero)
+
+- [Mexico bekrefter sitt første tilfelle av fugleinfluensa på menneske](https://www.nrk.no/nyheter/mexico-bekrefter-sitt-forste-tilfelle-av-fugleinfluensa-pa-menneske-1.17371295) (NRK)
+
+- [¿Cómo evitar contagio del influenza aviar tipo A (H5N1)? Esto recomienda la Secretaría de Salud](https://www.milenio.com/ciencia-y-salud/como-evitar-contagio-de-influenza-aviar-tipo-a-recomendaciones) (Milenio)
+
+- [Influenza aviar A (H5N1): qué es y cuáles son los síntomas de la enfermedad que llegó a México](https://www.milenio.com/ciencia-y-salud/sintomas-de-influenza-aviar-tipo-a-cuales-son) (Milenio)
+
+- [Secretaría de Salud detecta primer caso humano de influenza aviar A (H5N1)](https://www.milenio.com/ciencia-y-salud/registran-primer-caso-de-influenza-aviar-a-en-humanos-mexico) (Milenio)
+
+- [Avian flu identified in Sheboygan County poultry flock](https://www.fox6now.com/news/avian-flu-sheboygan-county-poultry-flock) (fox6now.com)
 
 - [Two-Year Old Dies Of Bird Flu After Eating Raw Chicken](https://www.shtfplan.com/headline-news/two-year-old-dies-of-bird-flu-after-eating-raw-chicken) (Shtfplan.com)
 
@@ -1428,6 +1018,8 @@ Source: [News API](https://newsapi.org/)
 - [H5N1 : le virus de la grippe aviaire passe chez les mammifères… l’espèce suivante, c’est nous ?](https://www.futura-sciences.com/sante/actualites/virus-h5n1-virus-grippe-aviaire-passe-chez-mammiferes-espece-suivante-cest-nous-120803/) (Futura)
 
 ## 25-14 (dengue)
+
+- [Rise in mosquito-borne viruses likely after outback flooding](https://www.abc.net.au/news/2025-04-05/mosquito-japenese-encephalitis-dengue-fever-rain-flood/105133696) (ABC News (AU))
 
 - [Dengue poses an increasingly severe threat to Bangladesh—and the world’s largest refugee camp](https://www.bmj.com/content/389/bmj.r442) (The BMJ)
 
@@ -1452,6 +1044,8 @@ Source: [News API](https://newsapi.org/)
 - [Entenda quais são as diferenças entre surto, epidemia e pandemia](https://www.metropoles.com/saude/diferencas-surto-epidemia-pandemia) (Metropoles.com)
 
 ## 25-14 (chikungunya)
+
+- [Chikungunya à La Réunion : "La situation est préoccupante", selon le directeur général de l'ARS de l'île](https://www.francetvinfo.fr/sante/maladie/chikungunya/chikungunya-a-la-reunion-la-situation-est-preoccupante-selon-le-directeur-general-de-l-ars-de-l-ile_7170864.html) (Francetvinfo.fr)
 
 - [Chikungunya : à La Réunion, le plan blanc activé](https://www.lemonde.fr/outre-mer/article/2025/04/04/chikungunya-a-la-reunion-le-plan-blanc-active_6591145_1840826.html) (Le Monde)
 
