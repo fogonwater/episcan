@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 22
-- **Last harvest:** 2025-04-06 19:05
-- **Most recent article:** 2025-04-05 18:27:47
+- **New articles in last harvest:** 10
+- **Last harvest:** 2025-04-07 07:08
+- **Most recent article:** 2025-04-06 06:59:51
 
 ---
 
@@ -10,23 +10,23 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 25-10 | 25-11 | 25-12 | 25-13 | 25-14 | 25-9 | Total |
-|--|-|-|-|-|-|-|-|
-| measles | 142 | 133 | 108 | 101 | 74 | 158 | 716 |
-| h5n1 | 23 | 39 | 57 | 47 | 45 | 38 | 249 |
-| malaria | 29 | 22 | 18 | 30 | 13 | 20 | 132 |
-| dengue | 8 | 12 | 18 | 20 | 14 | 29 | 101 |
-| mpox | 14 | 15 | 8 | 12 | 17 | 26 | 92 |
-| chikungunya | 6 | 1 | 17 | 10 | 17 | 7 | 58 |
-| meningitis | 4 | 9 | 7 | 10 | 6 | 7 | 43 |
-| rabies | 3 | 8 | 3 | 19 | 7 | 2 | 42 |
-| hpai | 10 | 3 | 12 | 2 | 4 | 4 | 35 |
-| typhoid | 3 | 8 | 0 | 1 | 2 | 4 | 18 |
-| zika | 3 | 0 | 2 | 3 | 3 | 2 | 13 |
-| pertussis | 0 | 5 | 1 | 0 | 7 | 0 | 13 |
-| yersinia | 1 | 2 | 2 | 3 | 0 | 0 | 8 |
-| leptospirosis | 3 | 0 | 1 | 0 | 0 | 0 | 4 |
-| shigellosis | 3 | 0 | 0 | 0 | 0 | 1 | 4 |
+| Disease | 25-10 | 25-11 | 25-12 | 25-13 | 25-14 | 25-15 | 25-9 | Total |
+|--|-|-|-|-|-|-|-|-|
+| measles | 142 | 133 | 108 | 101 | 76 | 2 | 162 | 724 |
+| h5n1 | 23 | 39 | 57 | 47 | 46 | 0 | 42 | 254 |
+| malaria | 29 | 22 | 18 | 30 | 13 | 1 | 20 | 133 |
+| dengue | 8 | 12 | 18 | 20 | 14 | 1 | 30 | 103 |
+| mpox | 14 | 15 | 8 | 12 | 17 | 0 | 26 | 92 |
+| chikungunya | 6 | 1 | 17 | 10 | 17 | 0 | 7 | 58 |
+| meningitis | 4 | 9 | 7 | 10 | 6 | 0 | 7 | 43 |
+| rabies | 3 | 8 | 3 | 19 | 7 | 0 | 2 | 42 |
+| hpai | 10 | 3 | 12 | 2 | 4 | 0 | 4 | 35 |
+| typhoid | 3 | 8 | 0 | 1 | 2 | 0 | 4 | 18 |
+| zika | 3 | 0 | 2 | 3 | 4 | 2 | 2 | 16 |
+| pertussis | 0 | 5 | 1 | 0 | 7 | 0 | 0 | 13 |
+| yersinia | 1 | 2 | 2 | 3 | 0 | 0 | 1 | 9 |
+| leptospirosis | 3 | 0 | 1 | 0 | 0 | 0 | 0 | 4 |
+| shigellosis | 3 | 0 | 0 | 0 | 0 | 0 | 1 | 4 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -38,6 +38,10 @@ Source: [News API](https://newsapi.org/)
 - [Estimating per-infection cost and burden for dengue and Zika as a function of antibody-dependent enhancement](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012876) (Plos.org)
 
 - [Brasil aposta em mais vacinas para doenças tropicais e público maior](https://valor.globo.com/publicacoes/especiais/inovacao-na-medicina/noticia/2025/02/26/brasil-aposta-em-mais-vacinas-para-doencas-tropicais-e-publico-maior.ghtml) (Globo)
+
+## 25-9 (yersinia)
+
+- [The medieval house might have been built to specifications approved by a rodent council](https://www.isegoria.net/2025/02/the-medieval-house-might-have-been-built-to-specifications-approved-by-a-rodent-council/) (Isegoria.net)
 
 ## 25-9 (typhoid)
 
@@ -447,6 +451,14 @@ Source: [News API](https://newsapi.org/)
 
 - [Hays County warns of possible measles exposure in San Marcos](https://www.fox7austin.com/news/hays-county-warns-possible-measles-exposure-san-marcos) (FOX 7 Austin)
 
+- [Gottlieb "very concerned" about Texas measles outbreak: "I think this will spread"](https://www.cbsnews.com/video/gottlieb-very-concerned-about-texas-measles-outbreak-i-think-this-will-spread/) (CBS News)
+
+- [TWiV 1195: Dickson Despommier, parasitologist without borders](https://www.microbe.tv/twiv/twiv-1195/) (Microbe.tv)
+
+- [Measles: A resurgent threat in Canada](https://theconversation.com/measles-a-resurgent-threat-in-canada-249932) (The Conversation Africa)
+
+- [‘Deadly consequences’: Health agencies reel from thousands of job cuts while critical research grants remain on hold | CNN](https://www.cnn.com/2025/02/23/health/public-health-job-cuts/index.html) (CNN)
+
 ## 25-9 (malaria)
 
 - [Trump Ends Funding For Malaria, H.I.V., & More Global Health Programs - NewsBreak](https://www.newsbreak.com/share/3834544178448-trump-ends-funding-for-malaria-h-i-v-more-global-health-programs?s=a2&share_destination_id=MzAxMzA4NTY4LTE3NDA4MTI1OTgzNjY%3D&pd=0KOG7cgN&hl=en_US&send_time=1740812598&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2224.39.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_model_exp_25q1-v8%2Cns_foryou_blend_exp_25q1-v3%2Cns_foryou_rank_exp_25q1-v2%2Cns_push_exp_rt_bucketv12-v2%2Cns_foryou_recall_exp_25q1-v3%2Cns_local_strategy_25q1_exp-v12) (Newsbreak.com)
@@ -577,6 +589,14 @@ Source: [News API](https://newsapi.org/)
 
 - [Alerta el riesgo de que gripe aviar cause muertes humanas](https://www.jornada.com.mx/2025/02/24/politica/015n3pol) (Jornada.com.mx)
 
+- [USDA Confirms Bird Flu In Rats](https://www.shtfplan.com/headline-news/usda-confirms-bird-flu-in-rats) (Shtfplan.com)
+
+- [Gripe H5N1 será a nova ameaça depois da COVID-19?](https://pplware.sapo.pt/informacao/gripe-h5n1-sera-a-nova-ameaca-depois-da-covid-19/) (Sapo.pt)
+
+- [TWiV 1195: Dickson Despommier, parasitologist without borders](https://www.microbe.tv/twiv/twiv-1195/) (Microbe.tv)
+
+- [Francisco George: gripe H5N1 é ameaça de nova epidemia no horizonte](https://observador.pt/2025/02/23/francisco-george-gripe-h5n1-e-ameaca-de-nova-epidemia-no-horizonte/) (Observador.pt)
+
 ## 25-9 (dengue)
 
 - [“Mosquito argentino”. El temor al dengue genera hasta cinco horas de demora en un cruce fronterizo](https://www.lanacion.com.ar/sociedad/mosquito-argentino-el-temor-al-dengue-genera-hasta-cinco-horas-de-demora-en-un-cruce-fronterizo-nid01032025/) (La Nacion)
@@ -637,6 +657,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Enfermedades respiratorias aumentaron en Nayarit desde el inicio del 2025](https://www.excelsior.com.mx/nacional/enfermedades-respiratorias-aumentaron-en-nayarit-desde-el-inicio-del-2025/1701463) (Excelsior.com.mx)
 
+- [Philippine village battles dengue by offering bounties for mosquitos — dead or alive](https://www.voanews.com/a/philippine-village-battles-dengue-by-offering-bounties-for-mosquitos-dead-or-alive/7984215.html) (VOA News)
+
 ## 25-9 (chikungunya)
 
 - [Low capacity for molecular detection of Alphaviruses other than Chikungunya virus in 23 European laboratories, March 2022](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318602) (Plos.org)
@@ -653,7 +675,29 @@ Source: [News API](https://newsapi.org/)
 
 - [Bavarian Nordic indgår partnerskab med Biological E Limited med henblik på at udvide global adgang til chikungunyavaccine](https://www.globenewswire.com/news-release/2025/02/25/3031656/0/da/Bavarian-Nordic-indg%C3%A5r-partnerskab-med-Biological-E-Limited-med-henblik-p%C3%A5-at-udvide-global-adgang-til-chikungunyavaccine.html) (GlobeNewswire)
 
+## 25-15 (zika)
+
+- [جویدن «آدامس لوبیا» برای مقابله با آنفلوآنزا و تبخال](https://www.asriran.com/fa/news/1048982/جویدن-آدامس-لوبیا-برای-مقابله-با-آنفلوآنزا-و-تبخال) (Asriran.com)
+
+- [مبارزه با ویروس آنفلوآنزا و تبخال با «آدامس لوبیا»](https://www.asriran.com/fa/news/1048977/مبارزه-با-ویروس-آنفلوآنزا-و-تبخال-با-آدامس-لوبیا) (Asriran.com)
+
+## 25-15 (measles)
+
+- [Second child with measles has died in Texas, officials say](https://www.foxnews.com/health/second-child-measles-has-died-texas-officials-say) (Fox News)
+
+- [RFK Jr. wants scientific analysis of autism, but maybe society is the problem](https://www.americanthinker.com/blog/2025/04/rfk_jr_wants_scientific_analysis_of_autism_but_maybe_society_is_the_problem.html) (Americanthinker.com)
+
+## 25-15 (malaria)
+
+- [Malaria cases surge in Zambezi as health teams battle outbreak with limited resources](https://www.namibian.com.na/malaria-cases-surge-in-zambezi-as-health-teams-battle-outbreak-with-limited-resources/) (Namibian)
+
+## 25-15 (dengue)
+
+- [Alvo da CGU, ONG ganha R$ 40 mi em contratos para dengue e jogo LoL](https://www.metropoles.com/distrito-federal/alvo-da-cgu-ong-ganha-r-40-mi-em-contratos-para-dengue-e-jogo-lol) (Metropoles.com)
+
 ## 25-14 (zika)
+
+- [مبارزه با ویروس آنفلوآنزا و تبخال با «آدامس لوبیا»](https://www.isna.ir/news/1404011607181/مبارزه-با-ویروس-آنفلوآنزا-و-تبخال-با-آدامس-لوبیا) (Isna.ir)
 
 - [Antiviral chewing gum shows promise in reducing influenza and herpes spread](https://medicalxpress.com/news/2025-04-antiviral-gum-influenza-herpes.html) (Medical Xpress)
 
@@ -750,6 +794,10 @@ Source: [News API](https://newsapi.org/)
 - [NCDC raises the alarm over rising meningitis cases, reports 74 deaths](https://punchng.com/ncdc-raises-the-alarm-over-rising-meningitis-cases-reports-74-deaths/) (The Punch)
 
 ## 25-14 (measles)
+
+- [RFK Jr. To Millions: Drop Dead From Heat Or Cold!](https://crooksandliars.com/2025/04/rfk-jr-millions-drop-dead-heat-or-cold) (Crooksandliars.com)
+
+- [Possible measles exposure at Toronto amusement park, public health officials warn](https://www.cbc.ca/news/canada/toronto/toronto-measles-exposure-march-30-1.7503111) (CBC News)
 
 - [RFK Jr. Makes Jaw-Dropping Gaffe About Measles Outbreak](https://www.thedailybeast.com/rfk-jr-makes-jaw-dropping-gaffe-about-measles-outbreak/) (Daily Beast)
 
@@ -938,6 +986,8 @@ Source: [News API](https://newsapi.org/)
 - [एक तिहाई अमेरिकियों ने अंडे खरीदना कर दिया बंद! महंगाई ने तोड़ दी कमर](https://hindi.moneycontrol.com/world/one-third-of-americans-have-stopped-buying-eggs-due-to-inflation-avian-influenza-bird-flu-trump-tarrif-plant-based-egg-article-1967522.html) (Moneycontrol)
 
 ## 25-14 (h5n1)
+
+- [Influenza aviar A (H5N1) en México: ¿Qué es el oseltamivir y para qué sirve?](https://www.elfinanciero.com.mx/salud/2025/04/05/influenza-aviar-a-h5n1-en-mexico-que-es-el-oseltamivir-y-para-que-sirve/) (El Financiero)
 
 - [México confirma un primer caso humano de gripe aviar: se trata de una niña de tres años](https://www.montevideo.com.uy/Salud/Mexico-confirma-un-primer-caso-humano-de-gripe-aviar-se-trata-de-una-nina-de-tres-anos-uc919879) (Montevideo.com.uy)
 
