@@ -1,8 +1,658 @@
 {
-  "last_updated": "2025-04-08 07:07",
-  "count_articles_total": 1561,
-  "count_articles_new": 28,
+  "last_updated": "2025-04-08 19:06",
+  "count_articles_total": 1588,
+  "count_articles_new": 36,
   "articles": [
+    {
+      "id": 20124,
+      "query": [
+        "measles"
+      ],
+      "source_id": "new-york-magazine",
+      "source_name": "New York Magazine",
+      "author": "Nia Prater",
+      "title": "RFK Jr. Plugs Measles Vaccine, Along With Dubious Treatments",
+      "description": "Robert F. Kennedy Jr. plugged the measles vaccine, then expressed support for dubious treatments. It was more inconsistent messaging from the HHS secretary after he attended the funeral of the second child to die in the Texas outbreak.",
+      "url": "http://nymag.com/intelligencer/article/rfk-jr-plugs-measles-vaccine-along-with-dubious-treatments.html",
+      "urlToImage": "https://pyxis.nymag.com/v1/imgs/f59/da9/abcd6a769dde24d70bc1b4d9b16e4902aa-rfk-measles.1x.rsocial.w1200.jpg",
+      "publishedAt": "2025-04-07 19:01:12",
+      "content": "In February, Health and Human Services secretary Robert F. Kennedy Jr. appeared to downplay the seriousness of an ongoing measles outbreak in Texas after an unvaccinated child became the first person\u2026 [+4933 chars]",
+      "retrievedAt": "2025-04-08 19:06:03.728999",
+      "internal_id": "a5892ee1f55f052923a3d6500bef104a69e94f638c22398c5eb98e9c4b238b60",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 20130,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "RFK Jr. visits Texas after second child dies of measles amid outbreak (Washington Post)",
+      "description": "Washington Post: RFK Jr. visits Texas after second child dies of measles amid outbreak \u2014 Sen. Bill Cassidy (R), a medical doctor, called on top health officials to \u201cunequivocally\u201d endorse measles vaccinations before \u201canother child dies.\u201d \u2014 A second child \u2026",
+      "url": "https://www.memeorandum.com/250407/p91",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SFY44LIM2DPUKD3ST3Y6HEZZIQ_size-normalized.jpg&w=1440",
+      "publishedAt": "2025-04-07 18:25:00",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-04-08 19:06:03.854833",
+      "internal_id": "84217c1c918c092a8bc110c3e6188c615bc383c70adba69f821bcfc98ad6b2c6",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 20147,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Le Point",
+      "author": "Caroline Tourbe",
+      "title": "Chikungunya : comment La R\u00e9union est devenue le cobaye d\u2019un vaccin in\u00e9dit",
+      "description": "Pour la premiere fois au monde, une campagne de vaccination contre le chikungunya est organisee en periode epidemique. Mais le vaccin n'arrive-t-il pas trop tard sur l'ile de La Reunion ?",
+      "url": "https://www.lepoint.fr/sante/chikungunya-a-la-reunion-le-labo-valneva-entame-une-campagne-de-vaccination-novatrice-07-04-2025-2586760_40.php",
+      "urlToImage": "https://static.lpnt.fr/images/2025/04/07/27542608lpw-27543180-mega-une-jpg_11030973.jpg",
+      "publishedAt": "2025-04-07 18:00:00",
+      "content": "L'\u00e9pid\u00e9mie de chikungunya, virus transmis par les piq\u00fbres de moustique, frappe durement les 24 communes de l'\u00eele de La R\u00e9union. Depuis le d\u00e9but de l'ann\u00e9e 2025, plus de 20 000 cas de chikungunya ont \u2026 [+1114 chars]",
+      "retrievedAt": "2025-04-08 19:06:06.997364",
+      "internal_id": "c8439ef6dc74e24f7503a721d1985b7190b4f431373accc25453839f5e6c08b7",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 20138,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Shtfplan.com",
+      "author": "Mac Slavo",
+      "title": "First Human Case Of H5N1 Bird Flu Reported In Mexico",
+      "description": "Mexico has reported its first human bird flu infection. The infection was confirmed on Tuesday in a three-year-old girl living in the northern state of Durango, who remains hospitalized in serious condition.",
+      "url": "https://www.shtfplan.com/headline-news/first-human-case-of-h5n1-bird-flu-reported-in-mexico",
+      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2024/07/birdflu.jpg",
+      "publishedAt": "2025-04-07 17:30:39",
+      "content": "Mexico has reported its first human bird flu infection. The infection was confirmed on Tuesday in a three-year-old girl living in the northern state of Durango, who remains hospitalized in serious co\u2026 [+1979 chars]",
+      "retrievedAt": "2025-04-08 19:06:05.034353",
+      "internal_id": "c964007a9157794b7f7d18772765b3af7badc30f49da97355330702e8a839ad6",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 20150,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "BFMTV",
+      "author": null,
+      "title": "Royaume-Uni: les autorit\u00e9s enqu\u00eatent sur un cas inexpliqu\u00e9 d'infection au mpox",
+      "description": "D'apr\u00e8s les autorit\u00e9s britanniques, ce patient infect\u00e9 par le mpox n'a \"aucun ant\u00e9c\u00e9dent de voyage ni lien avec des cas pr\u00e9c\u00e9demment confirm\u00e9s au Royaume-Uni\".",
+      "url": "https://www.bfmtv.com/international/europe/angleterre/royaume-uni-les-autorites-enquetent-sur-un-cas-inexplique-d-infection-au-mpox_AD-202504070712.html",
+      "urlToImage": "https://images.bfmtv.com/fn3po76rpBJB591N0rTj9D731hA=/0x105:2048x1257/2048x0/images/Un-patient-montre-sa-main-avec-une-plaie-causee-par-une-infection-par-le-virus-de-la-variole-du-singe-a-l-hopital-Arzobispo-Loayza-a-Lima-le-16-aout-2022-1919973.jpg",
+      "publishedAt": "2025-04-07 17:10:17",
+      "content": "D'apr\u00e8s les autorit\u00e9s britanniques, ce patient infect\u00e9 par le mpox n'a \"aucun ant\u00e9c\u00e9dent de voyage ni lien avec des cas pr\u00e9c\u00e9demment confirm\u00e9s au Royaume-Uni\". L'Agence de s\u00e9curit\u00e9 sanitaire britann\u2026 [+1622 chars]",
+      "retrievedAt": "2025-04-08 19:06:07.468810",
+      "internal_id": "4a1020564fe9b18321903e073d99cec3cf025bae51ada1ad8272331e0850221b",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 20153,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Pravda.sk",
+      "author": "TASR",
+      "title": "V Brit\u00e1nii sa op\u00e4\u0165 objavil pr\u00edpad opi\u010d\u00edch kiahn\u00ed. Zatia\u013e nie je zn\u00e1me, kde sa pacient mohol nakazi\u0165",
+      "description": "Pod\u013ea miestnych org\u00e1nov nebol pacient v \u017eiadnom kontakte s in\u00fdmi nakazen\u00fdmi osobami a nevycestoval ani do rizikov\u00fdch oblast\u00ed.",
+      "url": "https://spravy.pravda.sk/svet/clanok/747529-v-britanii-sa-opat-objavil-pripad-opicich-kiahni-zatial-nie-je-zname-kde-sa-pacient-mohol-nakazit/",
+      "urlToImage": "http://ipravda.sk/res/2025/04/07/thumbs/mpox-opicie-kiahne-clanokW.jpg",
+      "publishedAt": "2025-04-07 16:49:04",
+      "content": "Zdravotn\u00edcke \u00farady v Brit\u00e1nii v pondelok ozn\u00e1mili, e zaznamenali v krajine pr\u00edpad ochorenia na variant opi\u00edch kiahn\u00ed (mpox) zn\u00e1my ako clade 1b. Poda miestnych org\u00e1nov nebol pacient v iadnom kontakte \u2026 [+1955 chars]",
+      "retrievedAt": "2025-04-08 19:06:07.502146",
+      "internal_id": "d42a70a8f8f4faf53e2c3a2604432dac9faf987b0f604ac7ea8aae75e81cb997",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 20122,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The New Republic",
+      "author": "Marin Scotten",
+      "title": "RFK Jr. Waffles on Vaccines as Measles Rates Hit Record High",
+      "description": "Health Secretary Robert F. Kennedy Jr. has finally admitted vaccines are needed, as measles cases continue to skyrocket across the country. As of Friday, more than 600 measles cases across 22 states have been recorded by the Centers for Disease Control and P\u2026",
+      "url": "https://newrepublic.com/post/193679/robert-f-kennedy-jr-vaccines-measles-outbreak",
+      "urlToImage": "https://images.newrepublic.com/d7ef9606ab84d2cba807d8df90a03a47c0b66d2b.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+      "publishedAt": "2025-04-07 16:32:05",
+      "content": "Seven years ago, Trump made his desire for a grand military parade well known after he saw a French parade in 2017, telling people at the time, Were going to have to try and top it. But the idea got \u2026 [+927 chars]",
+      "retrievedAt": "2025-04-08 19:06:03.696274",
+      "internal_id": "0654fc55d9924ad1f7de218acdddfa129267875664c0c45e366caa27f44688e7",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 20149,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Anadolu Agency",
+      "author": null,
+      "title": "Liberya 10 bin 800 doz M \u00e7i\u00e7e\u011fi a\u015f\u0131s\u0131 teslim ald\u0131",
+      "description": "Bat\u0131 Afrika \u00fclkelerinden Liberya, M \u00e7i\u00e7e\u011fi vir\u00fcs\u00fc (Mpox) salg\u0131n\u0131yla m\u00fccadele kapsam\u0131nda g\u00f6nderilen 10 bin 800 doz a\u015f\u0131y\u0131 teslim ald\u0131. - Anadolu Ajans\u0131",
+      "url": "https://www.aa.com.tr/tr/dunya/liberya-10-bin-800-doz-m-cicegi-asisi-teslim-aldi/3530811",
+      "urlToImage": "https://cdnuploads.aa.com.tr/uploads/Contents/2025/04/07/thumbs_b_c_2f98d416319219b5b7a35461a826d45f.jpg",
+      "publishedAt": "2025-04-07 16:29:04",
+      "content": "Ulusal basndaki haberlere g\u00f6re, AB Komisyonu Salk Acil Durum Hazrlk ve M\u00fcdahale Kurumu tarafndan Liberya'ya 10 bin 800 doz M \u00e7i\u00e7ei as g\u00f6nderildi. Salk Bakanlna bal Geniletilmi Alama Program (EPI) Di\u2026 [+911 chars]",
+      "retrievedAt": "2025-04-08 19:06:07.445984",
+      "internal_id": "c603f1bbf437d4c79d79e764b91908165b71508f13c22eace7feb82440955364",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 20145,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "le-monde",
+      "source_name": "Le Monde",
+      "author": "Le Monde avec AFP",
+      "title": "Chikungunya \u00e0 La R\u00e9union : coup d\u2019envoi de la campagne de vaccination, alors que l\u2019\u00eele fait face \u00e0 une \u00e9pid\u00e9mie",
+      "description": "Quarante mille doses du vaccin Ixchiq sont arriv\u00e9es la semaine derni\u00e8re, en priorit\u00e9 \u00e0 destination des personnes de 65 ans et plus pr\u00e9sentant des comorbidit\u00e9s.",
+      "url": "https://www.lemonde.fr/planete/article/2025/04/07/chikungunya-a-la-reunion-coup-d-envoi-de-la-campagne-de-vaccination-alors-que-l-ile-fait-face-a-une-epidemie_6592340_3244.html",
+      "urlToImage": "https://img.lemde.fr/2025/04/07/0/0/5083/3388/1440/960/60/0/22beb01_ftp-import-images-1-cxxskc3xmhaj-5548021-01-06.jpg",
+      "publishedAt": "2025-04-07 16:14:39",
+      "content": "Le ministre des outre-mer, Manuel Valls, lors dune visite marquant le d\u00e9but de la campagne de vaccination contre le chikungunya, \u00e0 lh\u00f4pital de LEtang-Sal\u00e9 (La R\u00e9union), le 7 avril 2025. RICHARD BOUHE\u2026 [+2569 chars]",
+      "retrievedAt": "2025-04-08 19:06:06.958974",
+      "internal_id": "c2dca88075c8f2949f92b7e178a7cde36627abc64dd8fd099adb3ddc2a214aac",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 20133,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "Kennedy to Kick Off Tour on Fighting Chronic Disease (Emily Baumgaertner Nunn/New York Times)",
+      "description": "Emily Baumgaertner Nunn / New York Times: Kennedy to Kick Off Tour on Fighting Chronic Disease \u2014 After a second measles death in West Texas, the health secretary is expected to begin a tour through the Southwest to showcase nutrition legislation, among othe\u2026",
+      "url": "https://www.memeorandum.com/250407/p62",
+      "urlToImage": "https://static01.nyt.com/images/2025/04/07/multimedia/07MAHA-TOUR1-wqlj/07MAHA-TOUR1-wqlj-facebookJumbo.jpg",
+      "publishedAt": "2025-04-07 16:10:01",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-04-08 19:06:03.990736",
+      "internal_id": "0b5213cadfda1fee34b72eab36e0c550aeba31835f38a9f4f19ab452ff2d26ac",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 20119,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Gizmodo.com",
+      "author": "Ed Cara",
+      "title": "RFK Jr. Attends Measles Victim\u2019s Funeral, Then Pitches Junk Treatment",
+      "description": "Eight-year-old Daisy Hildebrand died from measles complications last week, the second such death reported in Texas this year.",
+      "url": "https://gizmodo.com/rfk-jr-attends-measles-victims-funeral-then-pitches-junk-treatment-2000585910",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/04/RFK-1.jpg",
+      "publishedAt": "2025-04-07 15:57:31",
+      "content": "The measles outbreak in Texas has gotten deadlier, just as U.S. Secretary of Health and Human Services, Robert F. Kennedy Jr., visited the state over the weekend. Health officials have reported a sec\u2026 [+3542 chars]",
+      "retrievedAt": "2025-04-08 19:06:03.588974",
+      "internal_id": "051871e822cf2ab501e884f33c82a99d99879f2c93dc209e4a8c1d3a0079fcf6",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 20128,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Week Magazine",
+      "author": "theweekonlineeditors@futurenet.com (Peter Weber, The Week US)",
+      "title": "RFK Jr. visits Texas as 2nd child dies from measles",
+      "description": "An outbreak of the vaccine-preventable disease continues to grow following a decade of no recorded US measles deaths",
+      "url": "https://theweek.com/health/measles-death-texas-rfk-jr",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/JMDGQ66zdBAfE2SGh2cU2e-1200-80.jpg",
+      "publishedAt": "2025-04-07 15:57:18",
+      "content": "What happened An unvaccinated 8-year-old girl in Texas died of measles on Thursday, state health officials said Sunday. She was the second child to die from the vaccine-preventable disease in a grow\u2026 [+1719 chars]",
+      "retrievedAt": "2025-04-08 19:06:03.801770",
+      "internal_id": "ad10080d1e72e66ea7754a3c331241eca9b8ce0a2bc426eb23ae3f87ba79e060",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 20136,
+      "query": [
+        "hpai",
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Phys.Org",
+      "author": "Maci Guay",
+      "title": "One year later: Highly pathogenic avian influenza confirmed in dairy cattle",
+      "description": "The detection of highly pathogenic avian influenza, HPAI, subtype H5N1 in dairy cattle was confirmed in March 2024 by the U.S. Department of Agriculture, USDA. This finding was the first of its kind and shocked the global scientific community.",
+      "url": "https://phys.org/news/2025-04-year-highly-pathogenic-avian-influenza.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/one-year-later-highly.jpg",
+      "publishedAt": "2025-04-07 15:37:04",
+      "content": "The detection of highly pathogenic avian influenza, HPAI, subtype H5N1 in dairy cattle was confirmed in March 2024 by the U.S. Department of Agriculture, USDA. This finding was the first of its kind \u2026 [+8347 chars]",
+      "retrievedAt": "2025-04-08 19:06:04.347963",
+      "internal_id": "a0287070f43056df9d6c878996e2ce78e50770c7c3e5a4ee09d2b7e80b7e1508",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 20125,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Daily Dot",
+      "author": "Katherine Huggins",
+      "title": "Anti-vaxers challenge RFK Jr.\u2019s new measles shot push by smearing dead children",
+      "description": "Anti-vaxers are putting Health and Human Services Secretary Robert F. Kennedy Jr. on blast for promoting the MMR vaccine as \"the most effective way to prevent the spread of measles\"\u2014by falsely arguing no one has died from measles. On Sunday, RFK Jr. shared \u2026",
+      "url": "https://www.dailydot.com/debug/texas-measles-deaths-rfk/",
+      "urlToImage": "https://uploads.dailydot.com/2025/04/rfk_measles_mmr_vaccine.jpg?auto=compress&fm=pjpg",
+      "publishedAt": "2025-04-07 15:34:17",
+      "content": "Anti-vaxers are putting Health and Human Services Secretary Robert F. Kennedy Jr. on blast for promoting the MMR vaccine as the most effective way to prevent the spread of measlesby falsely arguing n\u2026 [+3365 chars]",
+      "retrievedAt": "2025-04-08 19:06:03.759426",
+      "internal_id": "6f1ee3632d40b4659674cd88a3836837d73968c0e989863d1e5fb0d09af6490e",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 20139,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Digiato.com",
+      "author": "\u0622\u0632\u0627\u062f \u06a9\u0628\u06cc\u0631\u06cc",
+      "title": "\u0627\u06cc\u0646 \u0622\u062f\u0627\u0645\u0633 \u0636\u062f\u0648\u06cc\u0631\u0648\u0633\u06cc \u0645\u06cc\u200c\u062e\u0648\u0627\u0647\u062f \u0627\u0646\u062a\u0642\u0627\u0644 \u0622\u0646\u0641\u0644\u0648\u0627\u0646\u0632\u0627 \u0648 HSV \u0631\u0627 \u06a9\u0627\u0647\u0634 \u062f\u0647\u062f",
+      "description": "\u0627\u06cc\u0646 \u0622\u062f\u0627\u0645\u0633 \u062d\u0627\u0648\u06cc \u067e\u0648\u062f\u0631 \u0644\u0648\u0628\u06cc\u0627 \u0628\u0627 \u062e\u0648\u0627\u0635 \u0636\u062f\u0648\u06cc\u0631\u0648\u0633\u06cc \u0627\u0633\u062a. The post \u0627\u06cc\u0646 \u0622\u062f\u0627\u0645\u0633 \u0636\u062f\u0648\u06cc\u0631\u0648\u0633\u06cc \u0645\u06cc\u200c\u062e\u0648\u0627\u0647\u062f \u0627\u0646\u062a\u0642\u0627\u0644 \u0622\u0646\u0641\u0644\u0648\u0627\u0646\u0632\u0627 \u0648 HSV \u0631\u0627 \u06a9\u0627\u0647\u0634 \u062f\u0647\u062f appeared first on \u062f\u06cc\u062c\u06cc\u0627\u062a\u0648.",
+      "url": "https://digiato.com/health/an-antiviral-chewing-gum-to-reduce-influenza",
+      "urlToImage": "https://static.digiato.com/digiato/2025/04/an-antiviral-chewing-gum-to-reduce-influenza-2_1.jpg.webp",
+      "publishedAt": "2025-04-07 15:30:00",
+      "content": "(HSV) . A . ScienceDaily H1N1 SARS . . 1 (HSV-1) . HSV . SARS-CoV-2 95 . (FRIL) 2 (HSV-1 HSV-2) 2 A (H1N1 H3N2) . 40 95 SARS-CoV-2 . (FDA) . . 54 H5N1 . H5N1 H7N9 : A . . Molecular Ther\u2026 [+4 chars]",
+      "retrievedAt": "2025-04-08 19:06:05.064868",
+      "internal_id": "3f80a301dfd25fbfc6643aad822d76975f531fc89af6c47198d22bf63100e3d9",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 20141,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Bruna Sales",
+      "title": "Cidade de S\u00e3o Paulo confirma terceira morte por dengue neste ano",
+      "description": "Segundo painel da doen\u00e7a do estado, v\u00edtima tem entre 65 e 79 anos. Em 2025, cidade de S\u00e3o Paulo confirmou 23,9 mil casos de dengue",
+      "url": "https://www.metropoles.com/sao-paulo/sao-paulo-terceira-morte-dengue",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/10/30153517/agentes-saude-dengue.jpg",
+      "publishedAt": "2025-04-07 15:01:38",
+      "content": "S\u00e3o Paulo A cidade de S\u00e3o Paulo registrou a terceira morte por dengue neste ano. De acordo o painel da dengue administrado pela Secretaria de Estado da Sa\u00fade (SES), a v\u00edtima tem entre 65 e 79 anos de\u2026 [+6381 chars]",
+      "retrievedAt": "2025-04-08 19:06:05.687319",
+      "internal_id": "d4679be42ef194f0a28267d15c16c8fe061845228cad821b9ce5a886f409804f",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 20126,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "CBS News",
+      "title": "4/7: CBS Morning News",
+      "description": "U.S. stock futures trending down amid tarriff anxiety; Second child dies from measles-related causes in Texas.",
+      "url": "https://www.cbsnews.com/video/040725-cbs-morning-news/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/04/07/1e8bffeb-ac35-4a35-b084-d33ccb19c67a/thumbnail/1200x630/9faf76e385750f1755f38eed37108df0/0407-cbsnm-full-3662136-640x360.jpg?v=7613930c2bdb7d1bf55be910a9b022f2",
+      "publishedAt": "2025-04-07 15:00:09",
+      "content": "Copyright \u00a92025 CBS Interactive Inc. All rights reserved.",
+      "retrievedAt": "2025-04-08 19:06:03.769707",
+      "internal_id": "edee45ab5308b0de9b54ab79b24bca47b68cdfe930d2b490f38d1aece1d4b561",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 20120,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Atlantic",
+      "author": "Sarah Zhang",
+      "title": "Children Aren\u2019t the Only Ones Vulnerable to Measles",
+      "description": "Unvaccinated children are becoming unvaccinated adults, who are at risk of dangerous complications.",
+      "url": "https://www.theatlantic.com/health/archive/2025/04/measles-outbreak-adults/682324/",
+      "urlToImage": "https://cdn.theatlantic.com/thumbor/02p8BrAPrrso0NVqv9o8KQS59sc=/0x43:2000x1085/1200x625/media/img/mt/2025/04/2025_4_7_AdultMeasles_JA/original.jpg",
+      "publishedAt": "2025-04-07 14:51:41",
+      "content": "The current U.S. measles outbreak follows, in some ways, a classic pattern: The virus first found a foothold where childhood vaccination is low\u2014among Mennonites in Texas, in this case\u2014before rapidly \u2026 [+6023 chars]",
+      "retrievedAt": "2025-04-08 19:06:03.598601",
+      "internal_id": "ee03e6cc69794b10ea9352e3e15ea0f3eea757530501f060e9f9125d487012e6",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 20151,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Digi24.ro",
+      "author": "Alexandru Rotaru",
+      "title": "Caz inexplicabil de variola maimu\u021bei \u00een Marea Britanie. Autorit\u0103\u021bile au deschis o anchet\u0103",
+      "description": "Agen\u0163ia de securitate sanitar\u0103 din Regatul Unit a anun\u0163at luni c\u0103 a \u00eenregistrat un nou caz de infectare cu varianta de clad\u0103 Ib a virusului mpox la o persoan\u0103 care nici nu a c\u0103l\u0103torit \u00een Africa, nici nu a intrat \u00een contact cu al\u0163i bolnavi.",
+      "url": "https://www.digi24.ro/stiri/externe/ue/caz-inexplicabil-de-variola-maimutei-in-marea-britanie-autoritatile-au-deschis-o-ancheta-3189061",
+      "urlToImage": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjQl/MkYwOCUyRjE0JTJGMjA0ODg3MF8yMDQ4/ODcwX21wb3gtdmFyaW9sYS1tYWltdXRl/aS1zaHV0dGVyc3RvY2tfMjIzNzI0NDg2/MS5wbmcmdz0xMjAwJmg9NjMwJnpjPTEm/aGFzaD1mZDJiMTY0ODliN2IzMTFmMzI5OWM0OWViMjk5M2I2MA==.thumb.jpg",
+      "publishedAt": "2025-04-07 14:44:33",
+      "content": "Agenia de securitate sanitar din Regatul Unit a anunat luni c a \u00eenregistrat un nou caz de infectare cu varianta de clad Ib a virusului mpox la o persoan care nici nu a cltorit \u00een Africa, nici nu a in\u2026 [+1652 chars]",
+      "retrievedAt": "2025-04-08 19:06:07.477244",
+      "internal_id": "8c1422ff437bdcb4d27f42820a652e6007bd8cce249cb3a97fe784b55b9e3919",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 20142,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Cidade de S\u00e3o Paulo registra terceira morte por dengue em 2025",
+      "description": "V\u00edtima tinha entre 65 e 79 anos, segundo o painel de monitoramento de arboviroses do Estado; capital registra 23.908 casos confirmados, e est\u00e3o em investiga\u00e7\u00e3o 2.321 infec\u00e7\u00f5es e 66 \u00f3bitos",
+      "url": "https://valor.globo.com/brasil/noticia/2025/04/07/cidade-de-so-paulo-registra-terceira-morte-por-dengue-em-2025.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/V1UqmGPMlfyLGLep7uZOf_Wmfgg=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2024/c/A/UXCddZSXAHr4wkaY3yWg/vacina-dengue-11.jpg",
+      "publishedAt": "2025-04-07 13:59:48",
+      "content": "A cidade de S\u00e3o Paulo registrou a terceira morte por dengue em 2025. A v\u00edtima, segundo o painel de monitoramento de arboviroses do Estado, tinha entre 65 e 79 anos. A primeira morte por dengue na cap\u2026 [+1558 chars]",
+      "retrievedAt": "2025-04-08 19:06:05.711314",
+      "internal_id": "ba7581d0b1e11d36d63ceec0991def0ebd4c786b27ab9eeaffbb3caacbed82aa",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 20148,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Francetvinfo.fr",
+      "author": null,
+      "title": "Chikungunya : coup d\u2019envoi de la campagne de vaccination \u00e0 la R\u00e9union",
+      "description": "Le lancement de la vaccination contre le Chikungunya a lieu ce lundi 7 avril \u00e0 la R\u00e9union, o\u00f9 l\u2019\u00e9pid\u00e9mie prend une ampleur inqui\u00e9tante.",
+      "url": "https://www.francetvinfo.fr/sante/chikungunya-coup-d-envoi-de-la-campagne-de-vaccination-a-la-reunion_7175937.html",
+      "urlToImage": "https://www.francetvinfo.fr/pictures/tVg3lZ7F67A3KhZ9hkYWWoq7ImE/128x0:1792x936/1500x843/2025/04/07/chikungunya-coup-d-envoi-de-la-campagne-de-vaccination-a-la-reunion-67f3d94e1a645207161571.jpg",
+      "publishedAt": "2025-04-07 13:59:07",
+      "content": "40 000 doses ont \u00e9t\u00e9 command\u00e9es en urgence pour tenter de freiner l\u00e9pid\u00e9mie de Chikungunya : l\u00eele de la R\u00e9union d\u00e9marre sa campagne de vaccination ce lundi 7 avril, chez le m\u00e9decin ou en pharmacie. T\u2026 [+735 chars]",
+      "retrievedAt": "2025-04-08 19:06:07.027870",
+      "internal_id": "0af25c97f55ec212255c4e772cc9257dd07f3fb6ff44b5bb442a0f52909218db",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 20140,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": "time",
+      "source_name": "Time",
+      "author": "Jeffrey Kluger",
+      "title": "The Return of the Dire Wolf",
+      "description": "Colossal Biosciences has genetically engineered the first dire wolf to live in over 10,000 years. Here's what that means for other extinct species.",
+      "url": "https://time.com/7274542/colossal-dire-wolf/",
+      "urlToImage": "https://api.time.com/wp-content/uploads/2025/04/dire-wolf-colossal-biosciences-cropped-lead.jpg?quality=85&w=1200&h=628&crop=1",
+      "publishedAt": "2025-04-07 12:50:20",
+      "content": "There are a number of efforts to genetically modify mosquitoes so that they will have mass die-outs or so that they won't be able to carry particular diseases like dengue or malaria, he says. I worry\u2026 [+1521 chars]",
+      "retrievedAt": "2025-04-08 19:06:05.648831",
+      "internal_id": "5ea8b26f2489b78636603d3ce833959bcd1289635697e5f7854b5f7ffb5510fd",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 20127,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Raw Story",
+      "author": "AFP",
+      "title": "Second US child dies of measles, almost 650 ill: officials",
+      "description": "A measles outbreak has killed a second child in the southwestern United States, authorities said Sunday, with almost 650 people now infected as the highly contagious disease spreads. \"We are deeply saddened to report that a school-aged child who was recently \u2026",
+      "url": "https://www.rawstory.com/second-us-child-dies-of-measles-almost-650-ill-officials/",
+      "urlToImage": "https://www.rawstory.com/media-library/file-photo-a-sign-reading-measles-testing-is-seen-as-an-outbreak-in-gaines-county-texas-has-raised-concerns-over-its-spread.jpg?id=59747324&width=1200&height=600&coordinates=0%2C714%2C0%2C714",
+      "publishedAt": "2025-04-07 11:51:24",
+      "content": "A measles outbreak has killed a second child in the southwestern United States, authorities said Sunday, with almost 650 people now infected as the highly contagious disease spreads. \"We are deeply\u2026 [+2616 chars]",
+      "retrievedAt": "2025-04-08 19:06:03.785517",
+      "internal_id": "b913745a57bb16e1cda461f2204a446308360f4eefb7a7dd7fbe77f4e308f195",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 20123,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "ABC News",
+      "title": "WATCH: Parachutist rescued after getting caught on stadium roof",
+      "description": "A parachutist taking part in a pre-game display at France's Stadium de Toulouse became caught on the roof, prompting firefighters to rescue him.",
+      "url": "https://abcnews.go.com/International/video/parachutist-rescued-after-caught-stadium-roof-120552972",
+      "urlToImage": "https://i.abcnewsfe.com/a/16147e3a-2d03-44c6-90ac-1049d720006f/250407_abc_social_parachute1_hpMain_16x9.jpg?w=992",
+      "publishedAt": "2025-04-07 10:59:31",
+      "content": "Trump administration to revoke visas for dozens of international students White House stands firm on tariffs Second child measles death in Texas Trump's top econ\u2026 [+4155 chars]",
+      "retrievedAt": "2025-04-08 19:06:03.705588",
+      "internal_id": "db42c8914ee9742abec648b2c7abfaea7389d6e60f8b9b06d15707ded64a67c3",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 20118,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Brittney Melton",
+      "title": "Global markets plunge due to trade war. And, 2nd child dies in Texas from measles",
+      "description": "Trump's trade war against most of the world has caused global markets to fall drastically. And, a second child in Texas has died from measles as the outbreak continues to spread.",
+      "url": "https://www.npr.org/2025/04/07/g-s1-58674/up-first-newsletter-global-markets-tariffs-kilmar-armando-abrego-garcia-measles",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+312/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9f%2F3b%2Fcf7099fd4bd08104fb313e4e954d%2Fgettyimages-2208316687.jpg",
+      "publishedAt": "2025-04-07 10:56:10",
+      "content": "Good morning. You're reading the Up First newsletter. Subscribe here to get it delivered to your inbox, and listen to the Up First podcast for all the news you need to start your day. Today's top st\u2026 [+6742 chars]",
+      "retrievedAt": "2025-04-08 19:06:03.552580",
+      "internal_id": "46c0434e2599db8e998561c0265497acc585d48b28855ccb79b9830ffa57d730",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 20152,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": "UK Health Security Agency",
+      "title": "Guidance: Vaccination against mpox: information for healthcare practitioners",
+      "description": "This guidance is for health practitioners implementing the mpox vaccination programme to protect against MPVX.",
+      "url": "https://www.gov.uk/government/publications/vaccination-against-mpox-information-for-healthcare-practitioners",
+      "urlToImage": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png",
+      "publishedAt": "2025-04-07 10:18:28",
+      "content": "We use some essential cookies to make this website work. Wed like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services. We also use coo\u2026 [+70 chars]",
+      "retrievedAt": "2025-04-08 19:06:07.486243",
+      "internal_id": "57b9503d0cbf47dbfca46ba521db35f8d3bee392b9831bbc0508908ddd78fe2e",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 20121,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Scientific American",
+      "author": "Rachel Feltman, Fonda Mwangi, Alex Sugiura",
+      "title": "Asteroid 2024 YR4 Could Hit the Moon, Measles Cases Rise, and States Sue HHS",
+      "description": "States sue HHS for public health cuts, measles cases continue to rise, and a study finds Americans live shorter lives compared with their European counterparts.",
+      "url": "https://www.scientificamerican.com/podcast/episode/asteroid-2024-yr4-could-hit-the-moon-measles-cases-rise-and-states-sue-hhs/",
+      "urlToImage": "https://static.scientificamerican.com/dam/m/450fc996fe659a91/original/SQ-Monday-EP-Art.png?m=1717792183.71&w=1200",
+      "publishedAt": "2025-04-07 10:00:00",
+      "content": "Rachel Feltman: Happy Monday, listeners! And happy April. For Scientific American\u2019s Science Quickly, I\u2019m Rachel Feltman. Let\u2019s kick off the week with a quick roundup of science news you might have mi\u2026 [+7231 chars]",
+      "retrievedAt": "2025-04-08 19:06:03.629989",
+      "internal_id": "18aa04314c66d87ae2a4f84ea1983cd806a70d909de1e4ae8764335b270fe507",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 20129,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "International Business Times",
+      "author": "Suneeta Sunny",
+      "title": "Second Child Dies Of Measles In Texas; Victim Was Unvaccinated, Previously Healthy",
+      "description": "The unvaccinated school-aged child, who had no underlying health conditions, tragically died from lung failure while receiving treatment for measles at a Texas hospital.",
+      "url": "https://www.ibtimes.com/second-child-dies-measles-texas-victim-was-unvaccinated-previously-healthy-3769045",
+      "urlToImage": "https://d.ibtimes.com/en/full/4592122/rfk-jr-says-measles-outbreak-not-unusual-despite-texas.jpg",
+      "publishedAt": "2025-04-07 09:57:13",
+      "content": "A school-aged child has died from complications of measles in Texas, marking the second death in this year's outbreak, which has sickened 481 people and hospitalized 56 since January. The unidentifie\u2026 [+2142 chars]",
+      "retrievedAt": "2025-04-08 19:06:03.811529",
+      "internal_id": "12277ccbab4b6d252595f61d7e630fce73cfa860d35c205487f21d582e78334c",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 20146,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "liberation",
+      "source_name": "Lib\u00e9ration",
+      "author": "Cassandre Leray, AFP",
+      "title": "Chikungunya \u00e0 La R\u00e9union : la vaccination commence ce lundi, apr\u00e8s le d\u00e9clenchement du plan blanc",
+      "description": "Les 40 000 doses du vaccin vont permettre \u00e0 partir de ce lundi 7 avril de commencer les injections gratuites pour les personnes les plus fragiles. Deux personnes sont mortes de cette maladie transmise par le moustique tigre depuis ao\u00fbt.",
+      "url": "https://www.liberation.fr/societe/sante/chikungunya-a-la-reunion-la-vaccination-commence-ce-lundi-apres-le-declenchement-du-plan-blanc-20250407_KQ7OLRNWOFAU7G2QSSNYDHV5SQ/",
+      "urlToImage": "https://www.liberation.fr/resizer/GFYD2CakL1Tkrx4_2rQio0ksZcE=/1200x630/filters:format(jpg):quality(70):focal(3649x1374:3659x1384)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/R2SDGRUYBJDQPD3SQ4N4UNMJJA.jpg",
+      "publishedAt": "2025-04-07 09:56:28",
+      "content": "Le d\u00e9but de la riposte face au virus. La campagne de vaccination pour faire face \u00e0 l\u00e9pid\u00e9mie de chikungunya est lanc\u00e9e ce lundi 7 avril \u00e0 La R\u00e9union, avec les 40 000 doses du vaccin arriv\u00e9es sur l\u00eele\u2026 [+4074 chars]",
+      "retrievedAt": "2025-04-08 19:06:06.989146",
+      "internal_id": "28c24ae721e271ca96b98b283b76dac235a1917de23836e78c14184dca8bb3dd",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 20143,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "La retirada de EE.UU. de la OMS amenaza con frenar d\u00e9cadas de avances en salud global",
+      "description": "La decisi\u00f3n de Trump pone en riesgo programas clave contra malaria, VIH, vacunas y salud materna",
+      "url": "https://www.montevideo.com.uy/Salud/La-retirada-de-EE-UU-de-la-OMS-amenaza-con-frenar-decadas-de-avances-en-salud-global-uc919969",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/201808/_W933_80/665632.jpg",
+      "publishedAt": "2025-04-07 09:49:00",
+      "content": "El giro pol\u00edtico de Estados Unidos bajo la presidencia de Donald Trump no solo afecta el tablero geopol\u00edtico, sino que tambi\u00e9n pone en peligro la salud mundial. En el D\u00eda Mundial de la Salud, que se \u2026 [+2028 chars]",
+      "retrievedAt": "2025-04-08 19:06:06.322197",
+      "internal_id": "55c2349403a2030e9344da02cc4a92b810986c8f262c3b786151087057c4214e",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 20135,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": "CDC",
+      "title": "CDC Statement on Measles Outbreak",
+      "description": "CDC is aware of the second measles death in Texas, and our thoughts are with the family.",
+      "url": "https://www.cdc.gov/media/releases/2025/cdc-statement-on-measles-outbreak-04072025.html",
+      "urlToImage": "https://www.cdc.gov/media/images/homepage/carousel/measles-650px.jpg?_=26193",
+      "publishedAt": "2025-04-07 09:00:00",
+      "content": "### U.S. DEPARTMENT OF HEALTH AND HUMAN SERVICES Whether diseases start at home or abroad, are curable or preventable, chronic or acute, or from human activity or deliberate attack, CDCs world-lea\u2026 [+377 chars]",
+      "retrievedAt": "2025-04-08 19:06:04.021948",
+      "internal_id": "e7763cbf0252b1ab75a1bfafc1553cfe4b4cd8b113fc2a577714631e9f4d5678",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 20144,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Francetvinfo.fr",
+      "author": "St\u00e9phane Enilorac",
+      "title": "Chikungunya, aides aux agriculteurs, violences intrafamiliales... Manuel Valls sur tous les fronts pour sa deuxi\u00e8me journ\u00e9e de visite \u00e0 La R\u00e9union",
+      "description": "Deuxi\u00e8me journ\u00e9e de visite officielle au pas de course pour Manuel Valls. Le ministre des Outre-Mer rencontre d'abord les agriculteurs puis les \u00e9lus en pr\u00e9fecture, avant de lancer la campagne de vaccination contre le chikungunya et la conf\u00e9rence des RUP. Au p\u2026",
+      "url": "https://la1ere.francetvinfo.fr/reunion/manuel-valls-sur-tous-les-fronts-pour-sa-deuxieme-journee-de-visite-a-la-reunion-1576246.html",
+      "urlToImage": "https://la1ere.francetvinfo.fr/image/9ocall0xMlzuOTQykJzQA5Lt6ck/930x620/outremer/2025/04/01/enjeu-tco-valls-67eb93c82c52e778848308.jpg",
+      "publishedAt": "2025-04-07 08:54:46",
+      "content": "Pas le temps de souffler pour Manuel Valls. Le ministre des Outre-mer commence sa deuxi\u00e8me journ\u00e9e de visite \u00e0 La R\u00e9union au chevet des acteurs de l'agriculture en pr\u00e9fecture. Une r\u00e9union de travail \u2026 [+1641 chars]",
+      "retrievedAt": "2025-04-08 19:06:06.949565",
+      "internal_id": "fe2c6fb3b82db70cfe70c18092d591a782f1938921d8c9b13234d8a138f0a3f0",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 20131,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "A Mart\u00ednez",
+      "title": "Morning news brief",
+      "description": "Markets continue to tumble after Trump's new tariffs unveiled, Trump administration faces midnight deadline to return man wrongfully deported to El Salvador, second child dies from measles in Texas.",
+      "url": "https://www.npr.org/2025/04/07/nx-s1-5351018/morning-news-brief",
+      "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+      "publishedAt": "2025-04-07 08:14:10",
+      "content": "Markets continue to tumble after Trump's new tariffs unveiled, Trump administration faces midnight deadline to return man wrongfully deported to El Salvador, second child dies from measles in Texas.",
+      "retrievedAt": "2025-04-08 19:06:03.952065",
+      "internal_id": "e61f4c33c2206ef4551a68cce46cefb7e14bff0cde66b44cc7e8cc398840fe83",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 20134,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Maria Godoy",
+      "title": "Second child dies from measles in Texas as outbreak spreads",
+      "description": "A second child has died in Texas from measles, according to state health officials, as the outbreak there spreads. Texas now has 481 confirmed cases, and there are also outbreaks in four other states.",
+      "url": "https://www.npr.org/2025/04/07/nx-s1-5354181/second-child-dies-from-measles-in-texas-as-outbreak-spreads",
+      "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+      "publishedAt": "2025-04-07 08:10:12",
+      "content": "A second child has died in Texas from measles, according to state health officials, as the outbreak there spreads. Texas now has 481 confirmed cases, and there are also outbreaks in four other states.",
+      "retrievedAt": "2025-04-08 19:06:03.999178",
+      "internal_id": "60be5fc5a2f230ce651caf35c3950508e79eda3a97542d39a5db7ad868493da2",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 20137,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Thenewslens.com",
+      "author": "\u300a\u79d1\u5b78\u6708\u520a\u300b",
+      "title": "\u79bd\u6d41\u611f\u75c5\u6bd2\u6703\u5f15\u767c\u5927\u6d41\u884c\u55ce\uff1f\u8ddd\u96e2\u300c\u4eba\u50b3\u4eba\u300d\u9084\u6709\u591a\u4e45\uff1f",
+      "description": "\u9019\u540d\u5c11\u5e74\u9577\u671f\u7684\u75c5\u7a0b\uff0c\u53ef\u80fd\u8b93\u75c5\u6bd2\u6709\u6642\u9593\u627e\u5230\u6210\u529f\u7684\u7a81\u8b8a\u3002\u66f4\u91cd\u8981\u7684\u662f\uff0c\u4ed6\u611f\u67d3\u7684\u662f\u76ee\u524d\u5728\u9ce5\u985e\u4e2d\u6d41\u884c\u7684\u8b5c\u7cfb\uff0c\u800c\u4e0d\u662f\u725b\u96bb\u4e2d\u7684\u75c5\u6bd2\u3002\u6709\u5b78\u8005\u8a8d\u70ba\uff0c\u6bd4\u8d77\u76f8\u5c0d\u7a69\u5b9a\u7684\u725b\u96bb\u8b5c\u7cfb\u75c5\u6bd2\uff0cD1.1\u6709\u66f4\u5927\u7684\u53ef\u80fd\u6027\u8f49\u8b8a\u6210\u5728\u4eba\u985e\u9593\u5927\u6d41\u884c\u7684\u75c5\u6bd2\u3002",
+      "url": "https://www.thenewslens.com/article/250620",
+      "urlToImage": "https://bucket-image.inkmaginecms.com/version/social/1/image/2024/05/89ded221-822c-44d7-ab1b-df6a563e99cb.jpg",
+      "publishedAt": "2025-04-07 08:00:00",
+      "content": "H5N1 2021H5N12.3.4.4b2024H5N1 H5N1H5N1 199718H5N1 H5N1polymerasehemagglutinin, HA H5N1H H5N12.3.4.4bH5N1DNA226L H5N1 226L11H5N1226LH5N1 D1.1reassortment D1.1 D1.1D1.1 Kupferschmid\u2026 [+110 chars]",
+      "retrievedAt": "2025-04-08 19:06:05.018096",
+      "internal_id": "b2a5ba4ff212ccb7acf920f2cfe4bb5072fa28b9f410382f77bc26b430c1fdf7",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 20132,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "TheJournal.ie",
+      "author": "AFP",
+      "title": "Second child dies of measles in Texas as US outbreak worsens",
+      "description": "At least 642 confirmed cases of measles have been recorded in the recent texas outbreak.",
+      "url": "https://www.thejournal.ie/child-dies-measles-texas-us-outbreak-6670809-Apr2025/",
+      "urlToImage": "https://img2.thejournal.ie/article/6670809/river/?height=400&version=6670816",
+      "publishedAt": "2025-04-07 07:33:31",
+      "content": "A MEASLES OUTBREAK has killed a second child in Texas, authorities said, with almost 650 people now infected as the highly contagious disease spreads. We are deeply saddened to report that a school-\u2026 [+2560 chars]",
+      "retrievedAt": "2025-04-08 19:06:03.974676",
+      "internal_id": "84d32a34408c984dd1f879f23be4d5443609ea11debe7df05c9edf9fe9dbb261",
+      "publishedAtLabel": "Apr 7"
+    },
     {
       "id": 20112,
       "query": [
@@ -27972,169 +28622,6 @@
       "content": "HAYS COUNTY, Texas - The Hays County Health Department was notified about the potential for exposure of residents to a person who tested positive for measles by the Texas Department of State Health S\u2026 [+5021 chars]",
       "retrievedAt": "2025-02-25 07:06:49.969290",
       "internal_id": "56ff93fdd0d5ef93aa591440078e81a48e646d36966a5bced7aa5249f8b8586f",
-      "publishedAtLabel": "Feb 23"
-    },
-    {
-      "id": 18563,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Shtfplan.com",
-      "author": "Mac Slavo",
-      "title": "USDA Confirms Bird Flu In Rats",
-      "description": "The United States Department of Agriculture has confirmed bird flu in rats for the first time. Four black rats were confirmed to have H5N1 avian flu in late January in Riverside County, California, where two recent poultry outbreaks were reported, the agency \u2026",
-      "url": "https://www.shtfplan.com/headline-news/usda-confirms-bird-flu-in-rats",
-      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2018/10/rat-e1538574029384.jpg",
-      "publishedAt": "2025-02-23 18:00:43",
-      "content": "The United States Department of Agriculture has confirmed bird flu in rats for the first time. Four black rats were confirmed to have H5N1 avian flu in late January in Riverside County, California, w\u2026 [+1884 chars]",
-      "retrievedAt": "2025-02-24 19:05:58.636626",
-      "internal_id": "5758414a843098269fd0ccd1367e65442c45bf3884e22c923b4b0e5d21fe260b",
-      "publishedAtLabel": "Feb 23"
-    },
-    {
-      "id": 18561,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Sapo.pt",
-      "author": "Pedro Pinto",
-      "title": "Gripe H5N1 ser\u00e1 a nova amea\u00e7a depois da COVID-19?",
-      "description": "Depois de tudo o que aconteceu com a COVID-19, agora h\u00e1 uma nova amea\u00e7a ao mundo. Falamos da gripe H5N1 e o alerta vem do especialista de Sa\u00fade P\u00fablica Francisco George. gripe H5N1 \u00e9...",
-      "url": "https://pplware.sapo.pt/informacao/gripe-h5n1-sera-a-nova-ameaca-depois-da-covid-19/",
-      "urlToImage": "https://pplware.sapo.pt/wp-content/uploads/2025/02/aves_00.jpg",
-      "publishedAt": "2025-02-23 18:00:37",
-      "content": "Depois de tudo o que aconteceu com a COVID-19, agora h\u00e1 uma nova amea\u00e7a ao mundo. Falamos da gripe H5N1 e o alerta vem do especialista de Sa\u00fade P\u00fablica Francisco George. gripe H5N1 \u00e9 uma doen\u00e7a caus\u2026 [+1048 chars]",
-      "retrievedAt": "2025-02-24 19:05:58.607597",
-      "internal_id": "0147e518f49317af1c4a49310e4889533cea196e756a92fdb732e5a4d5087e97",
-      "publishedAtLabel": "Feb 23"
-    },
-    {
-      "id": 18557,
-      "query": [
-        "measles"
-      ],
-      "source_id": "cbs-news",
-      "source_name": "CBS News",
-      "author": "CBS News",
-      "title": "Gottlieb \"very concerned\" about Texas measles outbreak: \"I think this will spread\"",
-      "description": "\"I think that this is going to get into the hundreds of cases and could take many months to fully snuff out,\" Dr. Scott Gottlieb, the former commissioner of the FDA, said about the ongoing measles outbreak in Texas and New Mexico.",
-      "url": "https://www.cbsnews.com/video/gottlieb-very-concerned-about-texas-measles-outbreak-i-think-this-will-spread/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/02/23/5e526035-9481-4621-bf08-d0ac3e79eeac/thumbnail/1200x630/45b9ab74d5c7be14ed29fc17283ea3af/0223-ftn-gottlieb.jpg?v=db3d87ba7bf4d4ff13b65eabcf0d9bea",
-      "publishedAt": "2025-02-23 17:05:37",
-      "content": "Watch CBS News Copyright \u00a92025 CBS Interactive Inc. All rights reserved. Get browser notifications for breaking news, live events, and exclusive reporting. Not NowTurn On",
-      "retrievedAt": "2025-02-24 19:05:57.764022",
-      "internal_id": "e97c1b39334d1e049758f992e04404b06380202bdae0db574f1752959d577289",
-      "publishedAtLabel": "Feb 23"
-    },
-    {
-      "id": 18565,
-      "query": [
-        "yersinia"
-      ],
-      "source_id": null,
-      "source_name": "Isegoria.net",
-      "author": "Isegoria",
-      "title": "The medieval house might have been built to specifications approved by a rodent council",
-      "description": "Dozens of rodents carry plague, Ed West notes, but it would only become deadly to humans when Yersinia pestis infected the flea of the black rat (Rattus rattus): Black rats are sedentary homebodies and don\u2019t like to move more than 200 metres from their nests;\u2026",
-      "url": "https://www.isegoria.net/2025/02/the-medieval-house-might-have-been-built-to-specifications-approved-by-a-rodent-council/",
-      "urlToImage": null,
-      "publishedAt": "2025-02-23 15:21:15",
-      "content": "Dozens of rodents carry plague, Ed West notes, but it would only become deadly to humans when Yersinia pestis infected the flea of the black rat (Rattus rattus):Black rats are sedentary homebodies an\u2026 [+5105 chars]",
-      "retrievedAt": "2025-02-24 19:06:00.907982",
-      "internal_id": "f43d41896cd02421069579fd23f492cce0d6bfee23f269db877f1e8958b177ab",
-      "publishedAtLabel": "Feb 23"
-    },
-    {
-      "id": 18559,
-      "query": [
-        "measles",
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Microbe.tv",
-      "author": "Vincent Racaniello",
-      "title": "TWiV 1195: Dickson Despommier, parasitologist without borders",
-      "description": "The entire TWiV team comes together to pay tribute to Dickson Despommier, then reviews antibodies to H5N1 virus in veterinarians working with dairy cattle, Elisabeth Bik donates prize money for data integrity analyses, measles outbreak in Texas, and use of an\u2026",
-      "url": "https://www.microbe.tv/twiv/twiv-1195/",
-      "urlToImage": null,
-      "publishedAt": "2025-02-23 13:56:14",
-      "content": "The entire TWiV team comes together to pay tribute to Dickson Despommier, then reviews antibodies to H5N1 virus in veterinarians working with dairy cattle, Elisabeth Bik donates prize money for data \u2026 [+1028 chars]",
-      "retrievedAt": "2025-02-24 19:05:57.912670",
-      "internal_id": "acb9b8071ea36b307c16fe70fd55bc653a41c88dbabc607fd9da08b6eb209c4a",
-      "publishedAtLabel": "Feb 23"
-    },
-    {
-      "id": 18558,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "The Conversation Africa",
-      "author": "Ruchika Gupta, Assistant Professor and Medical Microbiologist, Department of Pathobiology and Lab Medicine, LHSC and Schulich School of Medicine and Dentistry, Western University",
-      "title": "Measles: A resurgent threat in Canada",
-      "description": "Measles is a serious disease with potentially severe complications. The current situation in Canada is a public health challenge and a critical moment for awareness and action.",
-      "url": "https://theconversation.com/measles-a-resurgent-threat-in-canada-249932",
-      "urlToImage": "https://images.theconversation.com/files/650549/original/file-20250221-38-ss5xoe.jpg?ixlib=rb-4.1.0&rect=0%2C337%2C1277%2C638&q=45&auto=format&w=1356&h=668&fit=crop",
-      "publishedAt": "2025-02-23 13:39:14",
-      "content": "The resurgence of measles in Canada is a stark reminder that we cannot take public health achievements for granted. (CDC and NIAID), CC BY In the landscape of public health, few stories are as compe\u2026 [+6470 chars]",
-      "retrievedAt": "2025-02-24 19:05:57.798110",
-      "internal_id": "e6e83375a38b67c4f8631fda9e5fc03d5baff945b7c6a2eed141a60879e93d95",
-      "publishedAtLabel": "Feb 23"
-    },
-    {
-      "id": 18560,
-      "query": [
-        "measles"
-      ],
-      "source_id": "cnn",
-      "source_name": "CNN",
-      "author": "Meg Tirrell",
-      "title": "\u2018Deadly consequences\u2019: Health agencies reel from thousands of job cuts while critical research grants remain on hold | CNN",
-      "description": "The first month of the Trump administration has brought chaos to US health agencies through mass firings, funding interruptions and communications freezes as the country battles not just the threat of bird flu but a historic measles outbreak centered in West \u2026",
-      "url": "https://www.cnn.com/2025/02/23/health/public-health-job-cuts/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2163381442.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2025-02-23 13:00:47",
-      "content": "A Nobel Prize-winning scientist is still waiting on a crucial research grant from the United States government that was supposed to start weeks ago. A fired public health worker at the US Centers fo\u2026 [+13262 chars]",
-      "retrievedAt": "2025-02-24 19:05:57.973626",
-      "internal_id": "5dd140a409885c885d9f1442b3352fbe3988bf7e4dc4e65c9952447e815106be",
-      "publishedAtLabel": "Feb 23"
-    },
-    {
-      "id": 18562,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Observador.pt",
-      "author": "Ag\u00eancia Lusa",
-      "title": "Francisco George: gripe H5N1 \u00e9 amea\u00e7a de nova epidemia no horizonte",
-      "description": "Francisco George alerta para as \"amea\u00e7as no horizonte\" como a do v\u00edrus da gripe H5N1 e diz, cinco anos ap\u00f3s a pandemia de covid-19, que Portugal est\u00e1 bem preparado.",
-      "url": "https://observador.pt/2025/02/23/francisco-george-gripe-h5n1-e-ameaca-de-nova-epidemia-no-horizonte/",
-      "urlToImage": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1124%3Anowe%3A0%3A104%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2025%2F02%2F23050027%2F44403560.jpg?layer=obstop:T",
-      "publishedAt": "2025-02-23 11:04:29",
-      "content": "Cinco anos ap\u00f3s terem sido confirmados em Portugal os primeiros casos de cont\u00e1gio pelo coronav\u00edrus que causa a covid-19, o especialista de Sa\u00fade P\u00fablica Francisco George alerta para as \u201camea\u00e7as no ho\u2026 [+3759 chars]",
-      "retrievedAt": "2025-02-24 19:05:58.628742",
-      "internal_id": "0122575cc729004fa58660b7e04523a0d5cc7a01f76372666d7cada81a4d9c61",
-      "publishedAtLabel": "Feb 23"
-    },
-    {
-      "id": 18564,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "VOA News",
-      "author": "webdesk@voanews.com (Associated Press)",
-      "title": "Philippine village battles dengue by offering bounties for mosquitos \u2014 dead or alive",
-      "description": "MANILA, PHILIPPINES \u2014 A village in the densely populated Philippine capital region launched a battle against dengue Wednesday by offering a token bounty to residents for captured mosquitos \u2014 dead or alive. The unusual strategy adopted by the Addition Hills \u2026",
-      "url": "https://www.voanews.com/a/philippine-village-battles-dengue-by-offering-bounties-for-mosquitos-dead-or-alive/7984215.html",
-      "urlToImage": "https://gdb.voanews.com/D546047A-6AC0-4ECB-A048-F0ED9FF54AF5.jpg",
-      "publishedAt": "2025-02-23 07:43:32",
-      "content": "MANILA, PHILIPPINES A village in the densely populated Philippine capital region launched a battle against dengue Wednesday by offering a token bounty to residents for captured mosquitos dead or ali\u2026 [+2751 chars]",
-      "retrievedAt": "2025-02-24 19:05:59.091628",
-      "internal_id": "a0fa6d04731aa8d9ff9adab75aadf3414334966da97b6bd8590a534f68c1bca3",
       "publishedAtLabel": "Feb 23"
     }
   ]
