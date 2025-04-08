@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 21
-- **Last harvest:** 2025-04-07 19:05
-- **Most recent article:** 2025-04-06 18:09:43
+- **New articles in last harvest:** 28
+- **Last harvest:** 2025-04-08 07:07
+- **Most recent article:** 2025-04-07 07:04:01
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-10 | 25-11 | 25-12 | 25-13 | 25-14 | 25-15 | 25-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 142 | 133 | 108 | 101 | 76 | 15 | 158 | 733 |
-| h5n1 | 23 | 39 | 57 | 47 | 46 | 4 | 38 | 254 |
+| measles | 142 | 133 | 108 | 101 | 77 | 38 | 162 | 761 |
+| h5n1 | 23 | 39 | 57 | 47 | 46 | 5 | 42 | 259 |
 | malaria | 29 | 22 | 18 | 30 | 13 | 1 | 20 | 133 |
-| dengue | 8 | 12 | 18 | 20 | 14 | 1 | 29 | 102 |
+| dengue | 8 | 12 | 18 | 20 | 14 | 1 | 30 | 103 |
 | mpox | 14 | 15 | 8 | 12 | 17 | 0 | 26 | 92 |
-| chikungunya | 6 | 1 | 17 | 10 | 17 | 2 | 7 | 60 |
-| meningitis | 4 | 9 | 7 | 10 | 6 | 1 | 7 | 44 |
+| chikungunya | 6 | 1 | 17 | 10 | 17 | 3 | 7 | 61 |
+| meningitis | 4 | 9 | 7 | 10 | 6 | 2 | 7 | 45 |
 | rabies | 3 | 8 | 3 | 19 | 7 | 1 | 2 | 43 |
 | hpai | 10 | 3 | 12 | 2 | 4 | 0 | 4 | 35 |
-| typhoid | 3 | 8 | 0 | 1 | 2 | 0 | 4 | 18 |
+| typhoid | 3 | 8 | 0 | 1 | 2 | 1 | 4 | 19 |
 | zika | 3 | 0 | 2 | 3 | 4 | 2 | 2 | 16 |
 | pertussis | 0 | 5 | 1 | 0 | 7 | 0 | 0 | 13 |
-| yersinia | 1 | 2 | 2 | 3 | 0 | 0 | 0 | 8 |
+| yersinia | 1 | 2 | 2 | 3 | 0 | 0 | 1 | 9 |
 | leptospirosis | 3 | 0 | 1 | 0 | 0 | 0 | 0 | 4 |
 | shigellosis | 3 | 0 | 0 | 0 | 0 | 0 | 1 | 4 |
 
@@ -38,6 +38,10 @@ Source: [News API](https://newsapi.org/)
 - [Estimating per-infection cost and burden for dengue and Zika as a function of antibody-dependent enhancement](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012876) (Plos.org)
 
 - [Brasil aposta em mais vacinas para doenças tropicais e público maior](https://valor.globo.com/publicacoes/especiais/inovacao-na-medicina/noticia/2025/02/26/brasil-aposta-em-mais-vacinas-para-doencas-tropicais-e-publico-maior.ghtml) (Globo)
+
+## 25-9 (yersinia)
+
+- [The medieval house might have been built to specifications approved by a rodent council](https://www.isegoria.net/2025/02/the-medieval-house-might-have-been-built-to-specifications-approved-by-a-rodent-council/) (Isegoria.net)
 
 ## 25-9 (typhoid)
 
@@ -447,6 +451,14 @@ Source: [News API](https://newsapi.org/)
 
 - [Hays County warns of possible measles exposure in San Marcos](https://www.fox7austin.com/news/hays-county-warns-possible-measles-exposure-san-marcos) (FOX 7 Austin)
 
+- [Gottlieb "very concerned" about Texas measles outbreak: "I think this will spread"](https://www.cbsnews.com/video/gottlieb-very-concerned-about-texas-measles-outbreak-i-think-this-will-spread/) (CBS News)
+
+- [TWiV 1195: Dickson Despommier, parasitologist without borders](https://www.microbe.tv/twiv/twiv-1195/) (Microbe.tv)
+
+- [Measles: A resurgent threat in Canada](https://theconversation.com/measles-a-resurgent-threat-in-canada-249932) (The Conversation Africa)
+
+- [‘Deadly consequences’: Health agencies reel from thousands of job cuts while critical research grants remain on hold | CNN](https://www.cnn.com/2025/02/23/health/public-health-job-cuts/index.html) (CNN)
+
 ## 25-9 (malaria)
 
 - [Trump Ends Funding For Malaria, H.I.V., & More Global Health Programs - NewsBreak](https://www.newsbreak.com/share/3834544178448-trump-ends-funding-for-malaria-h-i-v-more-global-health-programs?s=a2&share_destination_id=MzAxMzA4NTY4LTE3NDA4MTI1OTgzNjY%3D&pd=0KOG7cgN&hl=en_US&send_time=1740812598&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2224.39.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_model_exp_25q1-v8%2Cns_foryou_blend_exp_25q1-v3%2Cns_foryou_rank_exp_25q1-v2%2Cns_push_exp_rt_bucketv12-v2%2Cns_foryou_recall_exp_25q1-v3%2Cns_local_strategy_25q1_exp-v12) (Newsbreak.com)
@@ -577,6 +589,14 @@ Source: [News API](https://newsapi.org/)
 
 - [Alerta el riesgo de que gripe aviar cause muertes humanas](https://www.jornada.com.mx/2025/02/24/politica/015n3pol) (Jornada.com.mx)
 
+- [USDA Confirms Bird Flu In Rats](https://www.shtfplan.com/headline-news/usda-confirms-bird-flu-in-rats) (Shtfplan.com)
+
+- [Gripe H5N1 será a nova ameaça depois da COVID-19?](https://pplware.sapo.pt/informacao/gripe-h5n1-sera-a-nova-ameaca-depois-da-covid-19/) (Sapo.pt)
+
+- [TWiV 1195: Dickson Despommier, parasitologist without borders](https://www.microbe.tv/twiv/twiv-1195/) (Microbe.tv)
+
+- [Francisco George: gripe H5N1 é ameaça de nova epidemia no horizonte](https://observador.pt/2025/02/23/francisco-george-gripe-h5n1-e-ameaca-de-nova-epidemia-no-horizonte/) (Observador.pt)
+
 ## 25-9 (dengue)
 
 - [“Mosquito argentino”. El temor al dengue genera hasta cinco horas de demora en un cruce fronterizo](https://www.lanacion.com.ar/sociedad/mosquito-argentino-el-temor-al-dengue-genera-hasta-cinco-horas-de-demora-en-un-cruce-fronterizo-nid01032025/) (La Nacion)
@@ -637,6 +657,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Enfermedades respiratorias aumentaron en Nayarit desde el inicio del 2025](https://www.excelsior.com.mx/nacional/enfermedades-respiratorias-aumentaron-en-nayarit-desde-el-inicio-del-2025/1701463) (Excelsior.com.mx)
 
+- [Philippine village battles dengue by offering bounties for mosquitos — dead or alive](https://www.voanews.com/a/philippine-village-battles-dengue-by-offering-bounties-for-mosquitos-dead-or-alive/7984215.html) (VOA News)
+
 ## 25-9 (chikungunya)
 
 - [Low capacity for molecular detection of Alphaviruses other than Chikungunya virus in 23 European laboratories, March 2022](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318602) (Plos.org)
@@ -659,15 +681,67 @@ Source: [News API](https://newsapi.org/)
 
 - [مبارزه با ویروس آنفلوآنزا و تبخال با «آدامس لوبیا»](https://www.asriran.com/fa/news/1048977/مبارزه-با-ویروس-آنفلوآنزا-و-تبخال-با-آدامس-لوبیا) (Asriran.com)
 
+## 25-15 (typhoid)
+
+- [Bacolod: Typhoid cases up 86 percent, 3 deaths recorded in NegOcc](https://rpnradio.com/bacolod-typhoid-cases-up-86-percent-3-deaths-recorded-in-negocc/) (Rpnradio.com)
+
 ## 25-15 (rabies)
 
 - [Massive Rabies Outbreak In Manipur, Three Dead, Hundreds Affected](https://www.ndtv.com/india-news/massive-rabies-outbreak-in-manipur-three-dead-hundreds-affected-8102903) (NDTV News)
 
 ## 25-15 (meningitis)
 
+- [23 states recorded 156 meningitis deaths, 1,858 suspected cases – NCDC](https://punchng.com/23-states-recorded-156-meningitis-deaths-1858-suspected-cases-ncdc/) (The Punch)
+
 - [Meningitis death toll hits 156, suspected cases 1,858](https://punchng.com/meningitis-death-toll-hits-156-suspected-cases-1858/) (The Punch)
 
 ## 25-15 (measles)
+
+- [Second Child Dies Of Measles In Texas;Victim Was Unvaccinated](https://www.medicaldaily.com/second-child-dies-measles-texas-victim-was-unvaccinated-previously-healthy-473338) (Medical Daily)
+
+- [Measles, MAHA, and “soft eugenics”](https://sciencebasedmedicine.org/measles-maha-and-soft-eugenics/) (Sciencebasedmedicine.org)
+
+- [RFK Jr. is advocating for the MMR vaccine to stop measles from spreading in Texas](https://www.businessinsider.com/rfk-jr-advocating-mmr-vaccine-stop-texas-measles-outbreak-2025-4) (Business Insider)
+
+- [Second US Child Dies Of Measles, Almost 650 Ill](https://www.ndtv.com/world-news/second-child-dies-from-measles-in-us-outbreak-as-cases-surge-to-650-8105804) (NDTV News)
+
+- [Second child with measles dies as US outbreak spreads](https://news.sky.com/story/texas-second-child-with-measles-dies-as-us-outbreak-spreads-13343693) (Sky.com)
+
+- [US: Second child dies of measles in Texas, hundreds sick](https://www.dw.com/en/us-second-child-dies-of-measles-in-texas-hundreds-sick/a-72157676) (DW (English))
+
+- [How concerning is the detection of the polio virus in European cities’ wastewater systems?](https://www.irishtimes.com/health/your-wellness/2025/04/07/how-concerning-is-the-detection-of-the-polio-virus-in-european-cities-wastewater-systems/) (The Irish Times)
+
+- [RFK Jr. Touts Bogus Measles Treatment Hours After Burying 8-Year-Old Child](https://www.thedailybeast.com/rfk-jr-touts-bogus-measles-treatment-hours-after-burying-8-year-old-child/) (Daily Beast)
+
+- [Second Child Dies Of Measles In Texas As Illness Hits 23 US States](https://www.globalsecurity.org/security/library/news/2025/04/sec-250407-rferl01.htm) (Globalsecurity.org)
+
+- [Second US child dies of measles, almost 650 ill: officials](https://www.bangkokpost.com/world/2997349/second-us-child-dies-of-measles-almost-650-ill-officials) (Bangkok Post)
+
+- [Second US child dies of measles, almost 650 ill: officials](https://www.digitaljournal.com/world/second-us-child-dies-of-measles-almost-650-ill-officials/article) (Digital Journal)
+
+- [RFK Jr. visits epicenter of Texas measles outbreak after death of second child who was infected](https://abcnews.go.com/Health/wireStory/rfk-jr-visits-epicenter-texas-measles-outbreak-after-120537968) (ABC News)
+
+- [Second US Child Dies Of Measles, Almost 650 Ill: Officials](https://www.ibtimes.com/second-us-child-dies-measles-almost-650-ill-officials-3768989) (International Business Times)
+
+- [Kennedy announces support for measles vaccine amid outbreak (Danny Nguyen/Politico)](https://www.memeorandum.com/250406/p63) (Memeorandum.com)
+
+- [Second child dies in Texas after measles outbreak infects nearly 500](https://www.abc.net.au/news/2025-04-07/second-child-dies-in-texas-after-measles-outbreak/105144984) (ABC News (AU))
+
+- [Second U.S. child dies of measles, almost 650 ill: officials](https://japantoday.com/category/features/health/second-us-child-dies-of-measles-almost-650-ill-officials) (Japan Today)
+
+- [Another measles death in West Texas](https://www.bostonherald.com/2025/04/06/another-measles-death-in-west-texas/) (Boston Herald)
+
+- [USA is hit by one of the world's most contagious disease. 2 children dead, over 600 cases reported. Check measles symptoms, vaccine, treatment](https://economictimes.indiatimes.com/news/international/us/usa-is-hit-by-one-of-the-worlds-most-contagious-disease-2-children-dead-over-600-cases-reported-check-measles-symptoms-vaccine-treatment/articleshow/120044961.cms) (The Times of India)
+
+- [U.S. health secretary heads to Texas after 2nd unvaccinated child dies of measles-related illness](https://www.cbc.ca/news/world/2nd-texas-unvaccinated-measles-death-1.7503364) (CBC News)
+
+- [RFK Jr. consoles Texas family: MMR vaccine ‘most effective’ way to stop measles spread](https://thehill.com/policy/healthcare/5235025-rfk-jr-consoles-texas-family-mmr-vaccine-measles/) (The Hill)
+
+- [Measles case confirmed in Kingston area](https://www.cbc.ca/news/canada/ottawa/measles-case-confirmed-in-kingston-area-1.7503349) (CBC News)
+
+- [Anti-Vax RFK Jr. to Attend Funeral of Second Child to Die in Texas Measles Outbreak](https://www.rollingstone.com/politics/politics-news/rfk-jr-measles-child-funeral-1235311560/) (Rolling Stone)
+
+- [Measles Outbreak: Second Child Dies as Texas Cases Surge, Virus Spreads](https://www.newsweek.com/measles-outbreak-another-child-dies-cases-spike-virus-spreads-2056012) (Newsweek)
 
 - [Nigeria steps up advocacy for measles-rubella vaccine](https://punchng.com/nigeria-steps-up-advocacy-for-measles-rubella-vaccine/) (The Punch)
 
@@ -705,6 +779,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-15 (h5n1)
 
+- [Consumir pollo y huevo no representa peligro de contagio de influenza aviar: Ssa](https://www.excelsior.com.mx/nacional/consumir-pollo-huevo-no-representa-peligro-gripe-influenza-aviar-ssa/1709215) (Excelsior.com.mx)
+
 - [Meksika'da ‘H5N1’ alarmı! İlk kez bir insanda rastlandı!](https://www.haber7.com/dunya/haber/3519710-meksikada-h5n1-alarmi-ilk-kez-bir-insanda-rastlandi) (Haber7.com)
 
 - [W Meksyku stwierdzono pierwszy przypadek ptasiej grypy H5N1 u człowieka](https://www.bankier.pl/wiadomosc/W-Meksyku-stwierdzono-pierwszy-przypadek-ptasiej-grypy-H5N1-u-czlowieka-8920309.html) (Bankier.pl)
@@ -718,6 +794,8 @@ Source: [News API](https://newsapi.org/)
 - [Alvo da CGU, ONG ganha R$ 40 mi em contratos para dengue e jogo LoL](https://www.metropoles.com/distrito-federal/alvo-da-cgu-ong-ganha-r-40-mi-em-contratos-para-dengue-e-jogo-lol) (Metropoles.com)
 
 ## 25-15 (chikungunya)
+
+- [Chikungunya : le début de la vaccination est "une étape importante dans la lutte contre cette épidémie", estime le directeur général de l'ARS de La Réunion](https://www.francetvinfo.fr/france/la-reunion/chikungunya-le-debut-de-la-vaccination-est-une-etape-importante-dans-la-lutte-contre-cette-epidemie-estime-le-directeur-general-de-l-ars-de-la-reunion_7175448.html) (Francetvinfo.fr)
 
 - [Plan blanc, campagne de vaccination… Ce qu’il faut savoir de l’épidémie de chikungunya à La Réunion](https://www.lepoint.fr/sante/plan-blanc-campagne-de-vaccination-ce-qu-il-faut-savoir-de-l-epidemie-de-chikungunya-a-la-reunion-06-04-2025-2586648_40.php) (Le Point)
 
@@ -836,6 +914,8 @@ Source: [News API](https://newsapi.org/)
 - [Hawaii governor: An urgent call to action to protect America’s children from measles](https://www.cnn.com/2025/04/05/health/hawaii-governor-measles-call-to-action) (CNN)
 
 - [Luke O’Neill: Once and for all, autism is not caused by the MMR vaccine against measles](https://www.independent.ie/opinion/luke-oneill-once-and-for-all-autism-is-not-caused-by-the-mmr-vaccine-against-measles/a42582654.html) (Independent.ie)
+
+- [Robert F. Kennedy Jr.'s cure for measles is making some infected kids even sicker](https://www.msnbc.com/opinion/msnbc-opinion/measles-children-texas-cod-liver-oil-rcna199761) (MSNBC)
 
 - [Measles vaccine clinics to be held at 4 Halifax-area schools this weekend](https://www.cbc.ca/news/canada/nova-scotia/measles-vaccine-clinics-to-be-held-at-4-halifax-area-schools-this-weekend-1.7502282) (CBC News)
 

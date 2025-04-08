@@ -1,8 +1,494 @@
 {
-  "last_updated": "2025-04-07 19:05",
-  "count_articles_total": 1524,
-  "count_articles_new": 21,
+  "last_updated": "2025-04-08 07:07",
+  "count_articles_total": 1561,
+  "count_articles_new": 28,
   "articles": [
+    {
+      "id": 20112,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Medical Daily",
+      "author": "Suneeta Sunny",
+      "title": "Second Child Dies Of Measles In Texas;Victim Was Unvaccinated",
+      "description": "The unvaccinated school-aged child, who had no underlying health conditions, tragically died from lung failure while receiving treatment for measles.",
+      "url": "https://www.medicaldaily.com/second-child-dies-measles-texas-victim-was-unvaccinated-previously-healthy-473338",
+      "urlToImage": "https://d.medicaldaily.com/en/full/479786/rfk-jr-says-measles-outbreak-not-unusual-despite-texas.jpg",
+      "publishedAt": "2025-04-07 07:04:01",
+      "content": "A school-aged child has died from complications of measles in Texas, marking the second death in this year's outbreak, which has sickened 481 people and hospitalized 56 since January. The unidentifie\u2026 [+2103 chars]",
+      "retrievedAt": "2025-04-08 07:07:15.322566",
+      "internal_id": "ec5c59a0e5fd912fe1b48d44127ce260e7e44888e8ad55b5538b4c533cf11dc6",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 20093,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Sciencebasedmedicine.org",
+      "author": "David Gorski",
+      "title": "Measles, MAHA, and \u201csoft eugenics\u201d",
+      "description": "I've long said that the antivax movement is borderline eugenicist (or at least social Darwinist) in nature. Now that a second child has died of measles, it's time for me to take a look at the \"soft eugenics\" of the antivax movement. The post Measles, MAHA, an\u2026",
+      "url": "https://sciencebasedmedicine.org/measles-maha-and-soft-eugenics/",
+      "urlToImage": "https://sciencebasedmedicine.org/wp-content/uploads/2025/04/MAHAhat.jpg",
+      "publishedAt": "2025-04-07 07:00:00",
+      "content": "Saturday, a second child died of measles this year, a little more than a month after the first death of a child of measles in two decades had been reported. This brings the total number of measles fa\u2026 [+32614 chars]",
+      "retrievedAt": "2025-04-08 07:07:15.017357",
+      "internal_id": "04b3ac4441209f10157c156a143f48d543f5be3efd2bb36c1d7f0e554bbe07a7",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 20103,
+      "query": [
+        "measles"
+      ],
+      "source_id": "business-insider",
+      "source_name": "Business Insider",
+      "author": "abharade@insider.com (Aditi Bharade)",
+      "title": "RFK Jr. is advocating for the MMR vaccine to stop measles from spreading in Texas",
+      "description": "Kennedy previously touted Vitamin A as a possible treatment for the highly contagious disease.",
+      "url": "https://www.businessinsider.com/rfk-jr-advocating-mmr-vaccine-stop-texas-measles-outbreak-2025-4",
+      "urlToImage": "https://i.insider.com/67f34e9a63d72727e1995584?width=1200&format=jpeg",
+      "publishedAt": "2025-04-07 06:07:01",
+      "content": "The US's new health secretary, Robert F. Kennedy Jr., advocated for the measles, mumps, and rubella (MMR) vaccine amid the ongoing measles outbreak in the country. \"The most effective way to prevent\u2026 [+1836 chars]",
+      "retrievedAt": "2025-04-08 07:07:15.173046",
+      "internal_id": "6d1f9ccd4128ecbf72c65412e22fc66881703c0ee4c6adfd8395761af9669269",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 20113,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": "Agence France-Presse",
+      "title": "Second US Child Dies Of Measles, Almost 650 Ill",
+      "description": "A measles outbreak has killed a second child in the southwestern United States, authorities said, with almost 650 people now infected as the highly contagious disease spreads.",
+      "url": "https://www.ndtv.com/world-news/second-child-dies-from-measles-in-us-outbreak-as-cases-surge-to-650-8105804",
+      "urlToImage": "https://c.ndtvimg.com/2025-03/stflk9gg_measles-outbreak_625x300_02_March_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "publishedAt": "2025-04-07 06:03:04",
+      "content": "Washington: A measles outbreak has killed a second child in the southwestern United States, authorities said Sunday, with almost 650 people now infected as the highly contagious disease spreads. \"W\u2026 [+2749 chars]",
+      "retrievedAt": "2025-04-08 07:07:15.352611",
+      "internal_id": "1e59b78430d305491912be212b14079e2a6ec57da1a4211ddeaf4039b3d881ba",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 20104,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Sky.com",
+      "author": null,
+      "title": "Second child with measles dies as US outbreak spreads",
+      "description": "A second child in Texas with measles has died as the outbreak of the childhood disease reached nearly 500 cases in the state, officials have said.",
+      "url": "https://news.sky.com/story/texas-second-child-with-measles-dies-as-us-outbreak-spreads-13343693",
+      "urlToImage": "https://e3.365dm.com/25/04/1600x900/skynews-measles-texas_6878451.jpg?20250407065328",
+      "publishedAt": "2025-04-07 05:53:00",
+      "content": "A second child in Texas with measles has died as the outbreak of the childhood disease reached nearly 500 cases in the state, officials have said. The unvaccinated schoolgirl, who had no underlying \u2026 [+3387 chars]",
+      "retrievedAt": "2025-04-08 07:07:15.182081",
+      "internal_id": "f956a7c67ca18a97b586bd739a615b80dc435ac33988057da9fed500b424cfad",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 20116,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Francetvinfo.fr",
+      "author": null,
+      "title": "Chikungunya : le d\u00e9but de la vaccination est \"une \u00e9tape importante dans la lutte contre cette \u00e9pid\u00e9mie\", estime le directeur g\u00e9n\u00e9ral de l'ARS de La R\u00e9union",
+      "description": "La campagne de vaccination contre le chikungunya commence, lundi, \u00e0 La R\u00e9union, o\u00f9 20 000 personnes ont \u00e9t\u00e9 contamin\u00e9es depuis le mois d'ao\u00fbt 2024.",
+      "url": "https://www.francetvinfo.fr/france/la-reunion/chikungunya-le-debut-de-la-vaccination-est-une-etape-importante-dans-la-lutte-contre-cette-epidemie-estime-le-directeur-general-de-l-ars-de-la-reunion_7175448.html",
+      "urlToImage": "https://www.francetvinfo.fr/pictures/5lFssj6LrCoxk9_cRqh2ZNAYTuY/0x53:1024x629/1500x843/2025/04/07/000-37ep89d-67f366769bbb2620374032.jpg",
+      "publishedAt": "2025-04-07 05:49:29",
+      "content": "La premi\u00e8re phase de la campagne de vaccination contre l'\u00e9pid\u00e9mie de chikungunya qui d\u00e9bute, lundi 7 avril, \u00e0 La R\u00e9union est \"une \u00e9tape importante dans la lutte contre cette \u00e9pid\u00e9mie\", estime lundi s\u2026 [+1894 chars]",
+      "retrievedAt": "2025-04-08 07:07:17.481620",
+      "internal_id": "1b46c5b00bd8143b05390d25536939efa1ef8bf2e640c0795270a5844477e049",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 20097,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "DW (English)",
+      "author": "Mahima Kapoor",
+      "title": "US: Second child dies of measles in Texas, hundreds sick",
+      "description": "US Health Secretary Robert F. Kennedy Jr. is now encouraging people to vaccinate against measles as nearly 500 people in Texas have contracted the highly contagious virus.",
+      "url": "https://www.dw.com/en/us-second-child-dies-of-measles-in-texas-hundreds-sick/a-72157676",
+      "urlToImage": "https://static.dw.com/image/72157661_6.jpg",
+      "publishedAt": "2025-04-07 05:24:00",
+      "content": "A measles outbreak in southwestern United States has claimed the life of a second child, officials confirmed on Sunday. \"We are deeply saddened to report that a school-aged child who was recently di\u2026 [+1830 chars]",
+      "retrievedAt": "2025-04-08 07:07:15.071964",
+      "internal_id": "c17c5e2f3c7b6d0435d086e420491db210154fc4129a8dd6d01c72139d7cc5ce",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 20108,
+      "query": [
+        "measles"
+      ],
+      "source_id": "the-irish-times",
+      "source_name": "The Irish Times",
+      "author": "Muiris Houston",
+      "title": "How concerning is the detection of the polio virus in European cities\u2019 wastewater systems?",
+      "description": "Dr Muiris Houston: This is a wake-up call for Europe. It means any gaps in vaccination coverage could see a resurgence of the disease",
+      "url": "https://www.irishtimes.com/health/your-wellness/2025/04/07/how-concerning-is-the-detection-of-the-polio-virus-in-european-cities-wastewater-systems/",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/TSLQKFV2IJF6RG7CKTZEFSZE3U.jpg?smart=true&auth=fcfc87fd4e5ab2361b0de5b847a7ee1f4a50a85f9109e08a6f355abc5f7f4a58&width=1200&height=630",
+      "publishedAt": "2025-04-07 04:31:00",
+      "content": "In the last month there have been warnings about the resurgence of two infectious diseases in Europe polio and measles. The European Centre for Disease Prevention and Control (ECDC) reported a steep \u2026 [+4243 chars]",
+      "retrievedAt": "2025-04-08 07:07:15.252281",
+      "internal_id": "dec62095f86f77862c9494290962ff182ee7ab9e3f4f2b7ed531225ccf0c3090",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 20091,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Daily Beast",
+      "author": "Matt Young",
+      "title": "RFK Jr. Touts Bogus Measles Treatment Hours After Burying 8-Year-Old Child",
+      "description": "Health Secretary Robert F. Kennedy Jr. touted the work of two controversial \u201chealers\u201d Sunday\u2014just hours after advocating for vaccinations and attending the...",
+      "url": "https://www.thedailybeast.com/rfk-jr-touts-bogus-measles-treatment-hours-after-burying-8-year-old-child/",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/TUPTa4CwFm2a64VTa73Cbg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/thedailybeast.com/a8cbfed5d8be709ac59909a4ab4ff3da",
+      "publishedAt": "2025-04-07 03:36:18",
+      "content": "Health Secretary Robert F. Kennedy Jr. touted the work of two controversial healers Sundayjust hours after advocating for vaccinations and attending the funeral of a child who died as part of a measl\u2026 [+4405 chars]",
+      "retrievedAt": "2025-04-08 07:07:14.921565",
+      "internal_id": "f8ec7a57854a3ee028a36669b57e9790a26e38bd85dae655ca604904be4f31c3",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 20105,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Globalsecurity.org",
+      "author": "John Pike",
+      "title": "Second Child Dies Of Measles In Texas As Illness Hits 23 US States",
+      "description": "A second child with measles has died in Texas, where an outbreak of the disease has brought almost 500 cases in the large US state and has spread into at least 22 other states, US officials said.",
+      "url": "https://www.globalsecurity.org/security/library/news/2025/04/sec-250407-rferl01.htm",
+      "urlToImage": null,
+      "publishedAt": "2025-04-07 03:06:23",
+      "content": "By RFE/RL April 07, 2025 A second child with measles has died in Texas, where an outbreak of the disease has brought almost 500 cases in the large US state and has spread into at least 22 other stat\u2026 [+2573 chars]",
+      "retrievedAt": "2025-04-08 07:07:15.190579",
+      "internal_id": "b6be217916110c61e6a8da377898feb1f8c5bc03cf357a6bd8772ff0f67ec306",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 20117,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Rpnradio.com",
+      "author": "RPN News",
+      "title": "Bacolod: Typhoid cases up 86 percent, 3 deaths recorded in NegOcc",
+      "description": "Bacolod City \u2013 The Provincial Health Office reported 387 cases of typhoid with three deaths over the first three months of 2025, in Negros Occidental. As the PHO logged 208 typhoid cases in the same period last year, it indicates an increase of 179 cases, or \u2026",
+      "url": "https://rpnradio.com/bacolod-typhoid-cases-up-86-percent-3-deaths-recorded-in-negocc/",
+      "urlToImage": "https://rpnradio.com/wp-content/uploads/2025/04/typhoid-cases-up.jpg",
+      "publishedAt": "2025-04-07 01:28:13",
+      "content": "Bacolod City \u2013 The Provincial Health Office reported 387 cases of typhoid with three deaths over the first three months of 2025, in Negros Occidental. As the PHO logged 208 typhoid cases in the same\u2026 [+646 chars]",
+      "retrievedAt": "2025-04-08 07:07:18.072798",
+      "internal_id": "4ed20802aca405fe25f8eca179342f66c931b6d323a3c1e49fe6286036fb645e",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 20100,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Bangkok Post",
+      "author": "AFP",
+      "title": "Second US child dies of measles, almost 650 ill: officials",
+      "description": "WASHINGTON - A measles outbreak has killed a second child in the southwestern United States, authorities said Sunday, with almost 650 people now infected as the highly contagious disease spreads.",
+      "url": "https://www.bangkokpost.com/world/2997349/second-us-child-dies-of-measles-almost-650-ill-officials",
+      "urlToImage": "https://static.bangkokpost.com/media/content/20250407/c1_2997349_250407082625_700.jpg",
+      "publishedAt": "2025-04-07 01:14:00",
+      "content": "WASHINGTON - A measles outbreak has killed a second child in the southwestern United States, authorities said Sunday, with almost 650 people now infected as the highly contagious disease spreads. \"W\u2026 [+2339 chars]",
+      "retrievedAt": "2025-04-08 07:07:15.103472",
+      "internal_id": "89636fb1e4225096fca22c46170cadfe8f436afbb3b9a079be420fd80bae5749",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 20115,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Lara Adejoro",
+      "title": "23 states recorded 156 meningitis deaths, 1,858 suspected cases \u2013 NCDC",
+      "description": "The death toll recorded from cerebrospinal meningitis has increased to 156, up from the previous 74 deaths, according to the Nigeria Centre for Disease Control and Prevention. The data, which highlighted details from week 40 of 2024 to week 12 of 2025, also s\u2026",
+      "url": "https://punchng.com/23-states-recorded-156-meningitis-deaths-1858-suspected-cases-ncdc/",
+      "urlToImage": "https://cdn.punchng.com/2021/04/ncdc-logo.jpg",
+      "publishedAt": "2025-04-07 00:26:13",
+      "content": "The death toll recorded from cerebrospinal meningitis has increased to 156, up from the previous 74 deaths, according to the Nigeria Centre for Disease Control and Prevention. The data, which highli\u2026 [+3218 chars]",
+      "retrievedAt": "2025-04-08 07:07:16.767860",
+      "internal_id": "87ffb73ec18010330eafe3d17293e8e5d8df0760309618484b08a3753e438d24",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 20110,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Digital Journal",
+      "author": "AFP",
+      "title": "Second US child dies of measles, almost 650 ill: officials",
+      "description": "A measles outbreak has killed a second child in the southwestern United States, authorities said Sunday, with almost 650 people now infected as the highly contagious disease spreads. \u201cWe are deeply saddened to report that a school-aged child who was recently\u2026",
+      "url": "https://www.digitaljournal.com/world/second-us-child-dies-of-measles-almost-650-ill-officials/article",
+      "urlToImage": "https://www.digitaljournal.com/wp-content/uploads/2025/04/18b80cc1b9ac0077f2acdbbd4c8f69625f5cbd0a.jpg",
+      "publishedAt": "2025-04-07 00:23:17",
+      "content": "The vast majority of measles cases tallied by the Centers for Disease Control and Prevention are patients not vaccinated against the disease - Copyright AFP MANDEL NGAN A measles outbreak has killed\u2026 [+2496 chars]",
+      "retrievedAt": "2025-04-08 07:07:15.284342",
+      "internal_id": "21d0f7f04c49d53c7ee801e7820db86a168981c85788d7d2ad38e8f57fc2a313",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 20111,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "DEVI SHASTRI Associated Press, AMANDA SEITZ Associated Press",
+      "title": "RFK Jr. visits epicenter of Texas measles outbreak after death of second child who was infected",
+      "description": "U.S. Health Secretary Robert F",
+      "url": "https://abcnews.go.com/Health/wireStory/rfk-jr-visits-epicenter-texas-measles-outbreak-after-120537968",
+      "urlToImage": "https://i.abcnewsfe.com/a/aeb22f01-9012-4f58-81cd-d801e0a1adc3/wirestory_4e28b0edf5cab47980b40b2d47f0ec50_16x9.jpg?w=1600",
+      "publishedAt": "2025-04-07 00:22:23",
+      "content": "U.S. Health and Human Services Secretary Robert F. Kennedy Jr. visited the epicenter of Texas' still-growing measles outbreak on Sunday, the same day a funeral was held for a second young child who w\u2026 [+6612 chars]",
+      "retrievedAt": "2025-04-08 07:07:15.306730",
+      "internal_id": "7e746ffe7ff9eee248cb4eda9e5f9f815a306b435b2b3390c8ce391735b4e70a",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 20096,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "International Business Times",
+      "author": "AFP News",
+      "title": "Second US Child Dies Of Measles, Almost 650 Ill: Officials",
+      "description": "A measles outbreak has killed a second child in the southwestern United States, authorities said Sunday, with almost 650 people now infected as the highly contagious disease spreads.",
+      "url": "https://www.ibtimes.com/second-us-child-dies-measles-almost-650-ill-officials-3768989",
+      "urlToImage": "https://d.ibtimes.com/en/full/4592027/vast-majority-measles-cases-tallied-centers-disease-control-prevention-are-patients-not.jpg",
+      "publishedAt": "2025-04-07 00:12:14",
+      "content": "A measles outbreak has killed a second child in the southwestern United States, authorities said Sunday, with almost 650 people now infected as the highly contagious disease spreads. \"We are deeply \u2026 [+2326 chars]",
+      "retrievedAt": "2025-04-08 07:07:15.063943",
+      "internal_id": "4dea8bf9c332a9c8f612f57251bf809b49b833c094b4c3fd2b1af98bea88178c",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 20106,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "Kennedy announces support for measles vaccine amid outbreak (Danny Nguyen/Politico)",
+      "description": "Danny Nguyen / Politico: Kennedy announces support for measles vaccine amid outbreak \u2014 The statement is a surprising turn for the health secretary and comes amid reports of a second child's death. \u2014 Health Secretary Robert F. Kennedy Jr., who spent years \u2026",
+      "url": "https://www.memeorandum.com/250406/p63",
+      "urlToImage": "https://static.politico.com/ba/e5/e7ff16c9436b8bce78b0c9f08744/rfk-jr-first-month-79147.jpg",
+      "publishedAt": "2025-04-06 23:30:03",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-04-08 07:07:15.206529",
+      "internal_id": "7a311a832a51ac9c475ad91dccd685d13c774d3f7a71b3ba5fa3eae7776fe859",
+      "publishedAtLabel": "Apr 6"
+    },
+    {
+      "id": 20094,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news-au",
+      "source_name": "ABC News (AU)",
+      "author": "ABC News",
+      "title": "Second child dies in Texas after measles outbreak infects nearly 500",
+      "description": "The school-aged child, who was unvaccinated and had no underlying health conditions, died from measles pulmonary failure.",
+      "url": "https://www.abc.net.au/news/2025-04-07/second-child-dies-in-texas-after-measles-outbreak/105144984",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/9247e0c2c71a927f98b472558d3df772?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=398&width=862&height=485&imformat=generic",
+      "publishedAt": "2025-04-06 22:20:38",
+      "content": "A second child with measles has died in Texas, state officials say, in an outbreak of the childhood disease that has resulted in more than 480 cases in the state and has spread to New Mexico and Okla\u2026 [+3479 chars]",
+      "retrievedAt": "2025-04-08 07:07:15.039762",
+      "internal_id": "a58e3900e9468471167b4116890f4ce492a48cd389a0048cfbdabfa7df6c6f42",
+      "publishedAtLabel": "Apr 6"
+    },
+    {
+      "id": 20099,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Japan Today",
+      "author": null,
+      "title": "Second U.S. child dies of measles, almost 650 ill: officials",
+      "description": "A measles outbreak has killed a second child in the southwestern United States, authorities said Sunday, with almost 650 people now infected as the highly contagious disease spreads. &quot;We are deeply saddened to report that a school-aged child who was rece\u2026",
+      "url": "https://japantoday.com/category/features/health/second-us-child-dies-of-measles-almost-650-ill-officials",
+      "urlToImage": null,
+      "publishedAt": "2025-04-06 21:33:22",
+      "content": "A measles outbreak has killed a second child in the southwestern United States, authorities said Sunday, with almost 650 people now infected as the highly contagious disease spreads. \"We are deeply \u2026 [+2339 chars]",
+      "retrievedAt": "2025-04-08 07:07:15.095151",
+      "internal_id": "a76534184236f951a8e23faec18f3ad796a82cef81243aaeb2a79bfde4b82c93",
+      "publishedAtLabel": "Apr 6"
+    },
+    {
+      "id": 20101,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Boston Herald",
+      "author": "Associated Press",
+      "title": "Another measles death in West Texas",
+      "description": "U.S. Health Secretary Robert F. Kennedy, Jr. traveled to West Texas on Sunday after a second elementary school-aged child who was not vaccinated died from a measles-related illness.",
+      "url": "https://www.bostonherald.com/2025/04/06/another-measles-death-in-west-texas/",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/04/GettyImages-2201702412.jpg?w=1024&h=683",
+      "publishedAt": "2025-04-06 21:23:41",
+      "content": "U.S. Health Secretary Robert F. Kennedy, Jr. traveled to West Texas on Sunday after a second elementary school-aged child who was not vaccinated died from a measles-related illness. Ahead of a \u201cMake\u2026 [+2420 chars]",
+      "retrievedAt": "2025-04-08 07:07:15.140688",
+      "internal_id": "7250123c98d76f50cde1632f037b03eb8e1ef24834b4b58553019d4cdeb52b36",
+      "publishedAtLabel": "Apr 6"
+    },
+    {
+      "id": 20109,
+      "query": [
+        "measles"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Global Desk",
+      "title": "USA is hit by one of the world's most contagious disease. 2 children dead, over 600 cases reported. Check measles symptoms, vaccine, treatment",
+      "description": "Measles symptoms, vaccine, treatment related details are here as the disease is rapidly spreading the United States.",
+      "url": "https://economictimes.indiatimes.com/news/international/us/usa-is-hit-by-one-of-the-worlds-most-contagious-disease-2-children-dead-over-600-cases-reported-check-measles-symptoms-vaccine-treatment/articleshow/120044961.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-120044978,width-1200,height-630,imgsize-88406,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-04-06 21:11:55",
+      "content": "A second child in Texas has died from measles, one of the world's most contagious illnesses that was declared eliminated from the United States in 2000, several decades after the introduction of a hi\u2026 [+3474 chars]",
+      "retrievedAt": "2025-04-08 07:07:15.268008",
+      "internal_id": "9213e43d8487e7b443f2cd94054627c1c10894c7b1d5cdbbfa5054eedf02fbf4",
+      "publishedAtLabel": "Apr 6"
+    },
+    {
+      "id": 20114,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Excelsior.com.mx",
+      "author": "fernando.davila",
+      "title": "Consumir pollo y huevo no representa peligro de contagio de influenza aviar: Ssa",
+      "description": "Patricia Rodr\u00edguez Calva Hasta el momento, la secretar\u00eda de salud, no ha reportado m\u00e1s contagios humanos de influenza aviar A (H5N1) en M\u00e9xico. Por lo anterior, el primer caso que fue confirmado -el pasado 1 de abril - por el Instituto de Diagn\u00f3stico y Refer\u2026",
+      "url": "https://www.excelsior.com.mx/nacional/consumir-pollo-huevo-no-representa-peligro-gripe-influenza-aviar-ssa/1709215",
+      "urlToImage": "https://www.excelsior.com.mx/media/pictures/2025/04/06/3286518.jpg",
+      "publishedAt": "2025-04-06 21:06:48",
+      "content": "Hasta el momento, la secretar\u00eda de salud, no ha reportado m\u00e1s contagios humanos de influenza aviar A (H5N1) en M\u00e9xico. Por lo anterior, el primer caso que fue confirmado -el pasado 1 de abril - por e\u2026 [+2403 chars]",
+      "retrievedAt": "2025-04-08 07:07:16.243228",
+      "internal_id": "9ad783c1d2f9c5ddfb09c766a44030396a1dab99df3147e03fbf5b36247dc072",
+      "publishedAtLabel": "Apr 6"
+    },
+    {
+      "id": 20092,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "U.S. health secretary heads to Texas after 2nd unvaccinated child dies of measles-related illness",
+      "description": "A Texas county is the epicentre of a measles outbreak that started in late January and continues to swell, with nearly 500 cases in the state alone.",
+      "url": "https://www.cbc.ca/news/world/2nd-texas-unvaccinated-measles-death-1.7503364",
+      "urlToImage": "https://i.cbc.ca/1.7503371.1743971303!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_1180/trump.jpg?im=Resize%3D620",
+      "publishedAt": "2025-04-06 21:04:51",
+      "content": "U.S. Health Secretary Robert F. Kennedy Jr. travelled to West Texas on Sunday after a second unvaccinated school-aged child died from a measles-related illness. Ahead of a \"Make America Healthy Agai\u2026 [+5745 chars]",
+      "retrievedAt": "2025-04-08 07:07:14.986911",
+      "internal_id": "829c57f48aeb84ce1afde1a859e594866694d4c9dc92a29a7adb61425c61d751",
+      "publishedAtLabel": "Apr 6"
+    },
+    {
+      "id": 20095,
+      "query": [
+        "measles"
+      ],
+      "source_id": "the-hill",
+      "source_name": "The Hill",
+      "author": "Sarah Fortinsky",
+      "title": "RFK Jr. consoles Texas family: MMR vaccine \u2018most effective\u2019 way to stop measles spread",
+      "description": "Health and Human Services Secretary Robert F. Kennedy Jr. touted the measles, mumps and rubella (MMR) vaccine as the \u201cmost effective\u201d way to prevent the...",
+      "url": "https://thehill.com/policy/healthcare/5235025-rfk-jr-consoles-texas-family-mmr-vaccine-measles/",
+      "urlToImage": "https://media.zenfs.com/en/the_hill_articles_341/0cf21a0baa94474c3cd9a17e9d3b559a",
+      "publishedAt": "2025-04-06 20:51:12",
+      "content": "Health and Human Services Secretary Robert F. Kennedy Jr. touted the measles, mumps and rubella (MMR) vaccine as the most effective way to prevent the spread of measles during a visit to Texas with t\u2026 [+1920 chars]",
+      "retrievedAt": "2025-04-08 07:07:15.048046",
+      "internal_id": "73001c0f74311f3b63885b9074b1dd4657d300c279d9a66bc79cf2c5e29b3353",
+      "publishedAtLabel": "Apr 6"
+    },
+    {
+      "id": 20107,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Measles case confirmed in Kingston area",
+      "description": "The South East Health Unit says it's investigating a confirmed case of measles in the Kingston, Ont., area and that people may have been exposed on four separate occasions.",
+      "url": "https://www.cbc.ca/news/canada/ottawa/measles-case-confirmed-in-kingston-area-1.7503349",
+      "urlToImage": "https://i.cbc.ca/1.5140433.1707424222!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_1180/measles.jpg?im=Resize%3D620",
+      "publishedAt": "2025-04-06 20:34:46",
+      "content": "The South East Health Unit (SEHU) says it's investigating a confirmed case of measles in the Kingston, Ont., area. According to the health unit, people may have been exposed on four separate occasio\u2026 [+1402 chars]",
+      "retrievedAt": "2025-04-08 07:07:15.243922",
+      "internal_id": "4877de978aa13742b28ff14129730048f1ae0114e67b6376c791bd30ab8c04c8",
+      "publishedAtLabel": "Apr 6"
+    },
+    {
+      "id": 20090,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Rolling Stone",
+      "author": "Peter Wade",
+      "title": "Anti-Vax RFK Jr. to Attend Funeral of Second Child to Die in Texas Measles Outbreak",
+      "description": "Trump's Health and Human Services secretary has spread misinformation about the vaccine and treatments for the disease",
+      "url": "https://www.rollingstone.com/politics/politics-news/rfk-jr-measles-child-funeral-1235311560/",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Qak10Y_89V1.o87.nDbr6A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/rolling_stone_news_992/f974e300ad8349e361674e05bd7064ca",
+      "publishedAt": "2025-04-06 19:27:55",
+      "content": "A second Texas child has died of a measles outbreak, and Health and Human Services Secretary Robert F. Kennedy Jr. infamous spreader of vaccine misinformation reportedly plans to attend the funeral o\u2026 [+4303 chars]",
+      "retrievedAt": "2025-04-08 07:07:14.884883",
+      "internal_id": "926a3b9201638cc90f4ce4f49139c8126ae5b00f64a3c4b1f19ac7561b79d79d",
+      "publishedAtLabel": "Apr 6"
+    },
+    {
+      "id": 20102,
+      "query": [
+        "measles"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Adeola Adeosun",
+      "title": "Measles Outbreak: Second Child Dies as Texas Cases Surge, Virus Spreads",
+      "description": "A second unvaccinated child died from measles in Texas as the outbreak spreads to multiple states.",
+      "url": "https://www.newsweek.com/measles-outbreak-another-child-dies-cases-spike-virus-spreads-2056012",
+      "urlToImage": "https://d.newsweek.com/en/full/2621961/measles.jpg",
+      "publishedAt": "2025-04-06 19:25:46",
+      "content": "A second unvaccinated child in West Texas has died from measles-related complications, hospital officials confirmed on Sunday. The child, identified as an 8-year-old girl, died early Thursday mornin\u2026 [+4954 chars]",
+      "retrievedAt": "2025-04-08 07:07:15.149824",
+      "internal_id": "e0cccb42ced0397d362336eb313862cf8e95fc913a1bbcab07aa068dfa5a4421",
+      "publishedAtLabel": "Apr 6"
+    },
     {
       "id": 20081,
       "query": [
@@ -811,6 +1297,24 @@
       "content": "Theres a measles outbreak currently ongoing in the US. Numbers are still small and its mainly in Texas, but doctors are worried that case numbers will continue to climb. Like in the days of Covid-19,\u2026 [+96 chars]",
       "retrievedAt": "2025-04-06 19:05:32.115235",
       "internal_id": "41ff71448927d5dcdaea9312390cae073d1d6e7687afc8c300cd7c3acc9924af",
+      "publishedAtLabel": "Apr 5"
+    },
+    {
+      "id": 20098,
+      "query": [
+        "measles"
+      ],
+      "source_id": "msnbc",
+      "source_name": "MSNBC",
+      "author": "Dr. Omer Awan",
+      "title": "Robert F. Kennedy Jr.'s cure for measles is making some infected kids even sicker",
+      "description": "It's wrong of HHS Secretary Robert F. Kennedy Jr. to recommend Vitamin A to treat measles. Too much can cause blurred vision, bone pain, liver damage and death.",
+      "url": "https://www.msnbc.com/opinion/msnbc-opinion/measles-children-texas-cod-liver-oil-rcna199761",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-03/250328-rfk-jr-ch-0944-50fa9b.jpg",
+      "publishedAt": "2025-04-05 10:00:41",
+      "content": "As of Friday, the Texas Department of State Health Services had reported 481 confirmed cases of measles, which would put the total number of cases in the U.S. well over 600 since the start of the yea\u2026 [+5571 chars]",
+      "retrievedAt": "2025-04-08 07:07:15.079944",
+      "internal_id": "e4ed986473d64f49749cd62077c63696e14f0689c764b6efe593ee4584d26e97",
       "publishedAtLabel": "Apr 5"
     },
     {
@@ -27468,6 +27972,169 @@
       "content": "HAYS COUNTY, Texas - The Hays County Health Department was notified about the potential for exposure of residents to a person who tested positive for measles by the Texas Department of State Health S\u2026 [+5021 chars]",
       "retrievedAt": "2025-02-25 07:06:49.969290",
       "internal_id": "56ff93fdd0d5ef93aa591440078e81a48e646d36966a5bced7aa5249f8b8586f",
+      "publishedAtLabel": "Feb 23"
+    },
+    {
+      "id": 18563,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Shtfplan.com",
+      "author": "Mac Slavo",
+      "title": "USDA Confirms Bird Flu In Rats",
+      "description": "The United States Department of Agriculture has confirmed bird flu in rats for the first time. Four black rats were confirmed to have H5N1 avian flu in late January in Riverside County, California, where two recent poultry outbreaks were reported, the agency \u2026",
+      "url": "https://www.shtfplan.com/headline-news/usda-confirms-bird-flu-in-rats",
+      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2018/10/rat-e1538574029384.jpg",
+      "publishedAt": "2025-02-23 18:00:43",
+      "content": "The United States Department of Agriculture has confirmed bird flu in rats for the first time. Four black rats were confirmed to have H5N1 avian flu in late January in Riverside County, California, w\u2026 [+1884 chars]",
+      "retrievedAt": "2025-02-24 19:05:58.636626",
+      "internal_id": "5758414a843098269fd0ccd1367e65442c45bf3884e22c923b4b0e5d21fe260b",
+      "publishedAtLabel": "Feb 23"
+    },
+    {
+      "id": 18561,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Sapo.pt",
+      "author": "Pedro Pinto",
+      "title": "Gripe H5N1 ser\u00e1 a nova amea\u00e7a depois da COVID-19?",
+      "description": "Depois de tudo o que aconteceu com a COVID-19, agora h\u00e1 uma nova amea\u00e7a ao mundo. Falamos da gripe H5N1 e o alerta vem do especialista de Sa\u00fade P\u00fablica Francisco George. gripe H5N1 \u00e9...",
+      "url": "https://pplware.sapo.pt/informacao/gripe-h5n1-sera-a-nova-ameaca-depois-da-covid-19/",
+      "urlToImage": "https://pplware.sapo.pt/wp-content/uploads/2025/02/aves_00.jpg",
+      "publishedAt": "2025-02-23 18:00:37",
+      "content": "Depois de tudo o que aconteceu com a COVID-19, agora h\u00e1 uma nova amea\u00e7a ao mundo. Falamos da gripe H5N1 e o alerta vem do especialista de Sa\u00fade P\u00fablica Francisco George. gripe H5N1 \u00e9 uma doen\u00e7a caus\u2026 [+1048 chars]",
+      "retrievedAt": "2025-02-24 19:05:58.607597",
+      "internal_id": "0147e518f49317af1c4a49310e4889533cea196e756a92fdb732e5a4d5087e97",
+      "publishedAtLabel": "Feb 23"
+    },
+    {
+      "id": 18557,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "CBS News",
+      "title": "Gottlieb \"very concerned\" about Texas measles outbreak: \"I think this will spread\"",
+      "description": "\"I think that this is going to get into the hundreds of cases and could take many months to fully snuff out,\" Dr. Scott Gottlieb, the former commissioner of the FDA, said about the ongoing measles outbreak in Texas and New Mexico.",
+      "url": "https://www.cbsnews.com/video/gottlieb-very-concerned-about-texas-measles-outbreak-i-think-this-will-spread/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/02/23/5e526035-9481-4621-bf08-d0ac3e79eeac/thumbnail/1200x630/45b9ab74d5c7be14ed29fc17283ea3af/0223-ftn-gottlieb.jpg?v=db3d87ba7bf4d4ff13b65eabcf0d9bea",
+      "publishedAt": "2025-02-23 17:05:37",
+      "content": "Watch CBS News Copyright \u00a92025 CBS Interactive Inc. All rights reserved. Get browser notifications for breaking news, live events, and exclusive reporting. Not NowTurn On",
+      "retrievedAt": "2025-02-24 19:05:57.764022",
+      "internal_id": "e97c1b39334d1e049758f992e04404b06380202bdae0db574f1752959d577289",
+      "publishedAtLabel": "Feb 23"
+    },
+    {
+      "id": 18565,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Isegoria.net",
+      "author": "Isegoria",
+      "title": "The medieval house might have been built to specifications approved by a rodent council",
+      "description": "Dozens of rodents carry plague, Ed West notes, but it would only become deadly to humans when Yersinia pestis infected the flea of the black rat (Rattus rattus): Black rats are sedentary homebodies and don\u2019t like to move more than 200 metres from their nests;\u2026",
+      "url": "https://www.isegoria.net/2025/02/the-medieval-house-might-have-been-built-to-specifications-approved-by-a-rodent-council/",
+      "urlToImage": null,
+      "publishedAt": "2025-02-23 15:21:15",
+      "content": "Dozens of rodents carry plague, Ed West notes, but it would only become deadly to humans when Yersinia pestis infected the flea of the black rat (Rattus rattus):Black rats are sedentary homebodies an\u2026 [+5105 chars]",
+      "retrievedAt": "2025-02-24 19:06:00.907982",
+      "internal_id": "f43d41896cd02421069579fd23f492cce0d6bfee23f269db877f1e8958b177ab",
+      "publishedAtLabel": "Feb 23"
+    },
+    {
+      "id": 18559,
+      "query": [
+        "measles",
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Microbe.tv",
+      "author": "Vincent Racaniello",
+      "title": "TWiV 1195: Dickson Despommier, parasitologist without borders",
+      "description": "The entire TWiV team comes together to pay tribute to Dickson Despommier, then reviews antibodies to H5N1 virus in veterinarians working with dairy cattle, Elisabeth Bik donates prize money for data integrity analyses, measles outbreak in Texas, and use of an\u2026",
+      "url": "https://www.microbe.tv/twiv/twiv-1195/",
+      "urlToImage": null,
+      "publishedAt": "2025-02-23 13:56:14",
+      "content": "The entire TWiV team comes together to pay tribute to Dickson Despommier, then reviews antibodies to H5N1 virus in veterinarians working with dairy cattle, Elisabeth Bik donates prize money for data \u2026 [+1028 chars]",
+      "retrievedAt": "2025-02-24 19:05:57.912670",
+      "internal_id": "acb9b8071ea36b307c16fe70fd55bc653a41c88dbabc607fd9da08b6eb209c4a",
+      "publishedAtLabel": "Feb 23"
+    },
+    {
+      "id": 18558,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Ruchika Gupta, Assistant Professor and Medical Microbiologist, Department of Pathobiology and Lab Medicine, LHSC and Schulich School of Medicine and Dentistry, Western University",
+      "title": "Measles: A resurgent threat in Canada",
+      "description": "Measles is a serious disease with potentially severe complications. The current situation in Canada is a public health challenge and a critical moment for awareness and action.",
+      "url": "https://theconversation.com/measles-a-resurgent-threat-in-canada-249932",
+      "urlToImage": "https://images.theconversation.com/files/650549/original/file-20250221-38-ss5xoe.jpg?ixlib=rb-4.1.0&rect=0%2C337%2C1277%2C638&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2025-02-23 13:39:14",
+      "content": "The resurgence of measles in Canada is a stark reminder that we cannot take public health achievements for granted. (CDC and NIAID), CC BY In the landscape of public health, few stories are as compe\u2026 [+6470 chars]",
+      "retrievedAt": "2025-02-24 19:05:57.798110",
+      "internal_id": "e6e83375a38b67c4f8631fda9e5fc03d5baff945b7c6a2eed141a60879e93d95",
+      "publishedAtLabel": "Feb 23"
+    },
+    {
+      "id": 18560,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Meg Tirrell",
+      "title": "\u2018Deadly consequences\u2019: Health agencies reel from thousands of job cuts while critical research grants remain on hold | CNN",
+      "description": "The first month of the Trump administration has brought chaos to US health agencies through mass firings, funding interruptions and communications freezes as the country battles not just the threat of bird flu but a historic measles outbreak centered in West \u2026",
+      "url": "https://www.cnn.com/2025/02/23/health/public-health-job-cuts/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2163381442.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2025-02-23 13:00:47",
+      "content": "A Nobel Prize-winning scientist is still waiting on a crucial research grant from the United States government that was supposed to start weeks ago. A fired public health worker at the US Centers fo\u2026 [+13262 chars]",
+      "retrievedAt": "2025-02-24 19:05:57.973626",
+      "internal_id": "5dd140a409885c885d9f1442b3352fbe3988bf7e4dc4e65c9952447e815106be",
+      "publishedAtLabel": "Feb 23"
+    },
+    {
+      "id": 18562,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Observador.pt",
+      "author": "Ag\u00eancia Lusa",
+      "title": "Francisco George: gripe H5N1 \u00e9 amea\u00e7a de nova epidemia no horizonte",
+      "description": "Francisco George alerta para as \"amea\u00e7as no horizonte\" como a do v\u00edrus da gripe H5N1 e diz, cinco anos ap\u00f3s a pandemia de covid-19, que Portugal est\u00e1 bem preparado.",
+      "url": "https://observador.pt/2025/02/23/francisco-george-gripe-h5n1-e-ameaca-de-nova-epidemia-no-horizonte/",
+      "urlToImage": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1124%3Anowe%3A0%3A104%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2025%2F02%2F23050027%2F44403560.jpg?layer=obstop:T",
+      "publishedAt": "2025-02-23 11:04:29",
+      "content": "Cinco anos ap\u00f3s terem sido confirmados em Portugal os primeiros casos de cont\u00e1gio pelo coronav\u00edrus que causa a covid-19, o especialista de Sa\u00fade P\u00fablica Francisco George alerta para as \u201camea\u00e7as no ho\u2026 [+3759 chars]",
+      "retrievedAt": "2025-02-24 19:05:58.628742",
+      "internal_id": "0122575cc729004fa58660b7e04523a0d5cc7a01f76372666d7cada81a4d9c61",
+      "publishedAtLabel": "Feb 23"
+    },
+    {
+      "id": 18564,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "VOA News",
+      "author": "webdesk@voanews.com (Associated Press)",
+      "title": "Philippine village battles dengue by offering bounties for mosquitos \u2014 dead or alive",
+      "description": "MANILA, PHILIPPINES \u2014 A village in the densely populated Philippine capital region launched a battle against dengue Wednesday by offering a token bounty to residents for captured mosquitos \u2014 dead or alive. The unusual strategy adopted by the Addition Hills \u2026",
+      "url": "https://www.voanews.com/a/philippine-village-battles-dengue-by-offering-bounties-for-mosquitos-dead-or-alive/7984215.html",
+      "urlToImage": "https://gdb.voanews.com/D546047A-6AC0-4ECB-A048-F0ED9FF54AF5.jpg",
+      "publishedAt": "2025-02-23 07:43:32",
+      "content": "MANILA, PHILIPPINES A village in the densely populated Philippine capital region launched a battle against dengue Wednesday by offering a token bounty to residents for captured mosquitos dead or ali\u2026 [+2751 chars]",
+      "retrievedAt": "2025-02-24 19:05:59.091628",
+      "internal_id": "a0fa6d04731aa8d9ff9adab75aadf3414334966da97b6bd8590a534f68c1bca3",
       "publishedAtLabel": "Feb 23"
     }
   ]
