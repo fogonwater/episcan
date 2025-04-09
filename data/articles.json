@@ -1,8 +1,260 @@
 {
-  "last_updated": "2025-04-08 19:06",
-  "count_articles_total": 1588,
-  "count_articles_new": 36,
+  "last_updated": "2025-04-09 07:07",
+  "count_articles_total": 1611,
+  "count_articles_new": 14,
   "articles": [
+    {
+      "id": 20154,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Owen Dyer",
+      "title": "Whooping cough: Cases soar in US",
+      "description": "The US has reported 6600 cases of whooping cough (pertussis) in the first three months of 2025, more than four times the number at the same point last year and 25 times as many as had been reported at the same point in 2023. If the current trend continues, t\u2026",
+      "url": "https://www.bmj.com/content/389/bmj.r704",
+      "urlToImage": "https://www.bmj.com/sites/default/files/highwire/bmj/389/8460.cover-source.jpg",
+      "publishedAt": "2025-04-08 07:06:49",
+      "content": "The US has reported 6600 cases of whooping cough (pertussis) in the first three months of 2025, more than four times the number at the same point last year and 25 times as many as had been reported a\u2026 [+796 chars]",
+      "retrievedAt": "2025-04-09 07:07:26.484381",
+      "internal_id": "61507e5163c8bbcce7935bbb6fcc6313db1e7150d289425dd1199dfefa35e8dc",
+      "publishedAtLabel": "Apr 8"
+    },
+    {
+      "id": 20159,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Insurance Journal",
+      "author": "Admin",
+      "title": "RFK Jr. Visits Texas Measles Epicenter After Death of Second Child Who was Infected",
+      "description": "U.S. Health and Human Services Secretary Robert K. Kennedy Jr. visited the epicenter of Texas\u2019 still-growing measles outbreak on Sunday, the same day a funeral was held for a second young child who was not vaccinated and died from a \u2026",
+      "url": "https://www.insurancejournal.com/news/southcentral/2025/04/08/818943.htm",
+      "urlToImage": "https://www.insurancejournal.com/app/uploads/2025/04/Texas-Measles-Outbreak-RFK-Visit-scaled.jpeg",
+      "publishedAt": "2025-04-08 07:00:36",
+      "content": "U.S. Health and Human Services Secretary Robert K. Kennedy Jr. visited the epicenter of Texas\u2019 still-growing measles outbreak on Sunday, the same day a funeral was held for a second young child who w\u2026 [+6410 chars]",
+      "retrievedAt": "2025-04-09 07:07:28.014036",
+      "internal_id": "b6253f7a11ed0e2f7a8afe7e0352815fa7536fea258500289d987209b2582005",
+      "publishedAtLabel": "Apr 8"
+    },
+    {
+      "id": 20166,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Theecologist.org",
+      "author": "brendan",
+      "title": "Factory farming the next global pandemic",
+      "description": "Industrial animal agriculture poses a real threat to global health, so why are governments turning a blind eye?",
+      "url": "https://theecologist.org/2025/apr/08/factory-farming-next-global-pandemic",
+      "urlToImage": "https://theecologist.org/sites/default/files/styles/facebook/public/2025-04/53232212500_ef35d57c83_k.jpg?h=c3bf4dd4&itok=p46zI5HI",
+      "publishedAt": "2025-04-08 06:00:00",
+      "content": "Communities Generally hidden from view, but in sickness and wellness, humans are tightly bound to the lives of factory-farmed animals. The current outbreak of H5N1- already a panzootic (animal pan\u2026 [+4276 chars]",
+      "retrievedAt": "2025-04-09 07:07:29.394839",
+      "internal_id": "cbdb185c43a78babab2fd12a495547ab3605289317af80816bb967dc63356b10",
+      "publishedAtLabel": "Apr 8"
+    },
+    {
+      "id": 20161,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Naked Scientists",
+      "author": "The Naked Scientists",
+      "title": "Why are measles cases surging?",
+      "description": "In this edition of The Naked Scientists, what's behind a sharp rise in measles cases? Like this podcast? Please help us by supporting the Naked Scientists",
+      "url": "https://www.thenakedscientists.com/podcasts/naked-scientists-podcast/why-are-measles-cases-surging",
+      "urlToImage": "https://www.thenakedscientists.com/sites/default/files/styles/social-media-large/public/media/media/images/photo-1706205041906-63bbf0744726.jpg?itok=J7HqFNhn",
+      "publishedAt": "2025-04-08 02:55:35",
+      "content": "Measles should really, by now, have been consigned to history. Exclusively an infection of humans, and with lifelong protection conferred by a vaccine, its potentially eradicable. We did it with smal\u2026 [+6850 chars]",
+      "retrievedAt": "2025-04-09 07:07:28.067477",
+      "internal_id": "035b35df62c3db99646ee89611d421d5dca33c55e3a555f209972c82b1abe2ef",
+      "publishedAtLabel": "Apr 8"
+    },
+    {
+      "id": 20167,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Wwwhatsnew.com",
+      "author": "Juan Diego Polo",
+      "title": "Dos vacunas, una esperanza: el gran avance en la lucha contra la malaria",
+      "description": "La malaria, esa enfermedad que ha acompa\u00f1ado a la humanidad desde tiempos antiguos, sigue cobr\u00e1ndose cientos de miles de vidas cada a\u00f1o, especialmente entre los m\u00e1s peque\u00f1os. En regiones como el \u00c1frica subsahariana, donde el acceso a la atenci\u00f3n m\u00e9dica es lim\u2026",
+      "url": "https://wwwhatsnew.com/2025/04/08/dos-vacunas-una-esperanza-el-gran-avance-en-la-lucha-contra-la-malaria/",
+      "urlToImage": "https://wwwhatsnew.com/wp-content/uploads/2025/04/malaria.jpg",
+      "publishedAt": "2025-04-08 02:00:34",
+      "content": "La malaria, esa enfermedad que ha acompa\u00f1ado a la humanidad desde tiempos antiguos, sigue cobr\u00e1ndose cientos de miles de vidas cada a\u00f1o, especialmente entre los m\u00e1s peque\u00f1os. En regiones como el \u00c1fri\u2026 [+5970 chars]",
+      "retrievedAt": "2025-04-09 07:07:30.719775",
+      "internal_id": "30310e12b86f9712e7906b9d04e40dbdc8abca2193a59b538ef225acb2616768",
+      "publishedAtLabel": "Apr 8"
+    },
+    {
+      "id": 20155,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "People.cn",
+      "author": "F_400991",
+      "title": "3 dead, hundreds affected following massive outbreak of rabies in India's Manipur",
+      "description": "NEW DELHI, April 7 (Xinhua) -- At least three people have died and hundreds of others are suffering",
+      "url": "http://en.people.cn/n3/2025/0408/c90000-20298960.html",
+      "urlToImage": null,
+      "publishedAt": "2025-04-08 01:34:22",
+      "content": "(Xinhua) 09:22, April 08, 2025 NEW DELHI, April 7 (Xinhua) -- At least three people have died and hundreds of others are suffering following the massive outbreak of rabies in India's northeastern st\u2026 [+1233 chars]",
+      "retrievedAt": "2025-04-09 07:07:27.318557",
+      "internal_id": "8e4a5aa3a2b0ffda2eecc1be137d50ac081d1254c4024325bb9fa1ab505f3276",
+      "publishedAtLabel": "Apr 8"
+    },
+    {
+      "id": 20164,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "Health secretary RFK Jr. endorses the MMR vaccine \u2014 stoking fury among his supporters (Geoff Brumfiel/NPR)",
+      "description": "Geoff Brumfiel / NPR: Health secretary RFK Jr. endorses the MMR vaccine \u2014 stoking fury among his supporters \u2014 An endorsement of the Measles Mumps and Rubella (MMR) vaccine by Health and Human Services Secretary Robert F. Kennedy Jr. has provoked an angry ou\u2026",
+      "url": "https://www.memeorandum.com/250407/p159",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6346x3570+0+525/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F46%2F48%2F13b7c7c14f878d386d17249c9b90%2Fap25092718073024.jpg",
+      "publishedAt": "2025-04-08 01:30:03",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-04-09 07:07:28.136682",
+      "internal_id": "08337bee0ef1f6173bbd20df8a6c46d171a286429009a49218d510a029cad7ec",
+      "publishedAtLabel": "Apr 8"
+    },
+    {
+      "id": 20156,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Alexander Tin",
+      "title": "CDC redeploys to Texas measles outbreak as RFK Jr. backs vaccine",
+      "description": "The redeployment comes after another unvaccinated child died in the measles outbreak in Texas.",
+      "url": "https://www.cbsnews.com/news/cdc-texas-measles-outbreak-layoffs-rfk-vaccines/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/04/07/5330bb56-18c8-4b4b-9a0c-c5ca8ebad0f6/thumbnail/1200x630/7777a5ac3973a653c38976d60733ce1a/ap25069752914083.jpg?v=7613930c2bdb7d1bf55be910a9b022f2",
+      "publishedAt": "2025-04-08 00:14:34",
+      "content": "The Centers for Disease Control and Prevention has begun redeploying staff to respond to the deadly outbreak of measles in Texas, a spokesperson said Monday, a week after steep layoffs at the agency \u2026 [+5321 chars]",
+      "retrievedAt": "2025-04-09 07:07:27.843960",
+      "internal_id": "89ae791030498c6c6763aef3894806a98247684bfff6a403439a3a450710009c",
+      "publishedAtLabel": "Apr 8"
+    },
+    {
+      "id": 20162,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Geoff Brumfiel",
+      "title": "Health secretary RFK Jr. endorses the MMR vaccine \u2014 stoking fury among his supporters",
+      "description": "Prominent anti-vaccine activists lined up on social media to denounce the move.",
+      "url": "https://www.npr.org/sections/shots-health-news/2025/04/07/nx-s1-5354900/hhs-rfk-endorses-mmr-measles-vaccine-stoking-supporters-fury",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6346x3570+0+525/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F46%2F48%2F13b7c7c14f878d386d17249c9b90%2Fap25092718073024.jpg",
+      "publishedAt": "2025-04-07 21:42:58",
+      "content": "An endorsement of the Measles Mumps and Rubella (MMR) vaccine by Health and Human Services Secretary Robert F. Kennedy Jr. has provoked an angry outcry from anti-vaccine activists. \"The most effecti\u2026 [+6032 chars]",
+      "retrievedAt": "2025-04-09 07:07:28.089690",
+      "internal_id": "fed35cb7773ab0782d67f1cf6fc039bf89d1f6a53b01421717e678957fd47487",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 20163,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Ontario's large measles outbreak catches attention of New York public health officials",
+      "description": "Ontario's measles outbreak has become so big that public health officials in New York state have included the province in a travel advisory that urges residents to get vaccinated before visiting.",
+      "url": "https://www.cbc.ca/news/canada/toronto/new-york-state-department-of-health-measles-travel-advisory-ontario-1.7504085",
+      "urlToImage": "https://i.cbc.ca/1.5343106.1708113693!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/measles-virus.jpg?im=Resize%3D620",
+      "publishedAt": "2025-04-07 21:37:31",
+      "content": "Ontario's measles outbreak has become so big that public health officials in New York state have included the province in a travel advisory that urges residents to get vaccinated before visiting. \"M\u2026 [+3093 chars]",
+      "retrievedAt": "2025-04-09 07:07:28.098799",
+      "internal_id": "b9dc07c5ff307e2cc9ffe4345ad6856906e1fea01420ad72c076d920a790e782",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 20157,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Lawyersgunsmoneyblog.com",
+      "author": "Scott Lemieux",
+      "title": "RFK Jr. visits family of child who died because they followed his bullshit conspiracy theories",
+      "description": "And immediately started spreading them again after some pro forma acknowledgement of vaccines issued under his name: A second child has died of measles amid an outbreak in West Texas, prompting Health and Human Services Secretary Robert F. Kennedy Jr. to meet\u2026",
+      "url": "https://www.lawyersgunsmoneyblog.com/2025/04/rfk-jr-visits-family-of-child-who-died-because-they-followed-his-bullshit-conspiracy-theories",
+      "urlToImage": null,
+      "publishedAt": "2025-04-07 21:07:42",
+      "content": "A second child has died of measles amid an outbreak in West Texas, prompting Health and Human Services Secretary Robert F. Kennedy Jr. to meet with the family of the deceased 8-year-old girl in Gaine\u2026 [+2554 chars]",
+      "retrievedAt": "2025-04-09 07:07:27.948123",
+      "internal_id": "52a069fdb2489eff6e7825759891e8458919cba4ef8f5869d14dfee374cc73bb",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 20158,
+      "query": [
+        "measles"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Nick Mordowanec",
+      "title": "New York State Issues Travel Advisory for 11 Countries",
+      "description": "HHS Secretary Robert F. Kennedy Jr. is now encouraging the MMR vaccine as the best way to minimize measles contraction.",
+      "url": "https://www.newsweek.com/measles-new-york-rfk-travel-advisory-vaccine-2056495",
+      "urlToImage": "https://d.newsweek.com/en/full/2622686/measles-ny.jpg",
+      "publishedAt": "2025-04-07 20:54:29",
+      "content": "New York State Department of Health officials are cautioning residents to be vaccinated when traveling domestically and abroad to avoid contracting the measles amid an uptick in national cases. News\u2026 [+4743 chars]",
+      "retrievedAt": "2025-04-09 07:07:27.998415",
+      "internal_id": "7b0dc65fe229b10cc2f927139db6d97ca0a65ec624b53fd52198b63aadbd283d",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 20160,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "Robert F Kennedy Jr claims anti-vax physicians healed 'some 300 measles-stricken children' (Richard Luscombe/The Guardian)",
+      "description": "Richard Luscombe / The Guardian: Robert F Kennedy Jr claims anti-vax physicians healed \u2018some 300 measles-stricken children\u2019 \u2014 US health secretary continues to send mixed messaging about measles outbreak that has claimed at least three lives \u2014 Robert F Ken\u2026",
+      "url": "https://www.memeorandum.com/250407/p114",
+      "urlToImage": "https://i.guim.co.uk/img/media/caabe9ec70536f7962d743c33e3d7cfb951037bb/0_37_1576_946/master/1576.jpg?width=300&dpr=2&s=none",
+      "publishedAt": "2025-04-07 20:50:02",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-04-09 07:07:28.030177",
+      "internal_id": "89dc4146206fff1550db26010b42f1fbcedd5dbd0497650bfa4116784322f555",
+      "publishedAtLabel": "Apr 7"
+    },
+    {
+      "id": 20165,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Activistpost.com",
+      "author": "Editor",
+      "title": "Bird Flu \u201cOn The Cusp\u201d Of Transmitting To Humans",
+      "description": "Bird flu could be on the cusp of transmitting to humans, according to disease forecasters. Recent animal outbreaks of a subtype called H5N1 have been particularly troubling to scientists, and the warning of avian influenza\u2019s potential jump to humans remains o\u2026",
+      "url": "https://www.activistpost.com/bird-flu-on-the-cusp-of-transmitting-to-humans/",
+      "urlToImage": "https://www.activistpost.com/wp-content/uploads/2025/04/birdflu2.jpg",
+      "publishedAt": "2025-04-07 20:00:00",
+      "content": "Bird flu could be on the cusp of transmitting to humans, according to disease forecasters. Recent animal outbreaks of a subtype called H5N1 have been particularly troubling to scientists, and the war\u2026 [+2429 chars]",
+      "retrievedAt": "2025-04-09 07:07:29.379269",
+      "internal_id": "6bbc83e12b4ac3885d061958311177a42da63ccfef60c6bb8c290f31192b3567",
+      "publishedAtLabel": "Apr 7"
+    },
     {
       "id": 20124,
       "query": [
@@ -28622,6 +28874,169 @@
       "content": "HAYS COUNTY, Texas - The Hays County Health Department was notified about the potential for exposure of residents to a person who tested positive for measles by the Texas Department of State Health S\u2026 [+5021 chars]",
       "retrievedAt": "2025-02-25 07:06:49.969290",
       "internal_id": "56ff93fdd0d5ef93aa591440078e81a48e646d36966a5bced7aa5249f8b8586f",
+      "publishedAtLabel": "Feb 23"
+    },
+    {
+      "id": 18563,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Shtfplan.com",
+      "author": "Mac Slavo",
+      "title": "USDA Confirms Bird Flu In Rats",
+      "description": "The United States Department of Agriculture has confirmed bird flu in rats for the first time. Four black rats were confirmed to have H5N1 avian flu in late January in Riverside County, California, where two recent poultry outbreaks were reported, the agency \u2026",
+      "url": "https://www.shtfplan.com/headline-news/usda-confirms-bird-flu-in-rats",
+      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2018/10/rat-e1538574029384.jpg",
+      "publishedAt": "2025-02-23 18:00:43",
+      "content": "The United States Department of Agriculture has confirmed bird flu in rats for the first time. Four black rats were confirmed to have H5N1 avian flu in late January in Riverside County, California, w\u2026 [+1884 chars]",
+      "retrievedAt": "2025-02-24 19:05:58.636626",
+      "internal_id": "5758414a843098269fd0ccd1367e65442c45bf3884e22c923b4b0e5d21fe260b",
+      "publishedAtLabel": "Feb 23"
+    },
+    {
+      "id": 18561,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Sapo.pt",
+      "author": "Pedro Pinto",
+      "title": "Gripe H5N1 ser\u00e1 a nova amea\u00e7a depois da COVID-19?",
+      "description": "Depois de tudo o que aconteceu com a COVID-19, agora h\u00e1 uma nova amea\u00e7a ao mundo. Falamos da gripe H5N1 e o alerta vem do especialista de Sa\u00fade P\u00fablica Francisco George. gripe H5N1 \u00e9...",
+      "url": "https://pplware.sapo.pt/informacao/gripe-h5n1-sera-a-nova-ameaca-depois-da-covid-19/",
+      "urlToImage": "https://pplware.sapo.pt/wp-content/uploads/2025/02/aves_00.jpg",
+      "publishedAt": "2025-02-23 18:00:37",
+      "content": "Depois de tudo o que aconteceu com a COVID-19, agora h\u00e1 uma nova amea\u00e7a ao mundo. Falamos da gripe H5N1 e o alerta vem do especialista de Sa\u00fade P\u00fablica Francisco George. gripe H5N1 \u00e9 uma doen\u00e7a caus\u2026 [+1048 chars]",
+      "retrievedAt": "2025-02-24 19:05:58.607597",
+      "internal_id": "0147e518f49317af1c4a49310e4889533cea196e756a92fdb732e5a4d5087e97",
+      "publishedAtLabel": "Feb 23"
+    },
+    {
+      "id": 18557,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "CBS News",
+      "title": "Gottlieb \"very concerned\" about Texas measles outbreak: \"I think this will spread\"",
+      "description": "\"I think that this is going to get into the hundreds of cases and could take many months to fully snuff out,\" Dr. Scott Gottlieb, the former commissioner of the FDA, said about the ongoing measles outbreak in Texas and New Mexico.",
+      "url": "https://www.cbsnews.com/video/gottlieb-very-concerned-about-texas-measles-outbreak-i-think-this-will-spread/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/02/23/5e526035-9481-4621-bf08-d0ac3e79eeac/thumbnail/1200x630/45b9ab74d5c7be14ed29fc17283ea3af/0223-ftn-gottlieb.jpg?v=db3d87ba7bf4d4ff13b65eabcf0d9bea",
+      "publishedAt": "2025-02-23 17:05:37",
+      "content": "Watch CBS News Copyright \u00a92025 CBS Interactive Inc. All rights reserved. Get browser notifications for breaking news, live events, and exclusive reporting. Not NowTurn On",
+      "retrievedAt": "2025-02-24 19:05:57.764022",
+      "internal_id": "e97c1b39334d1e049758f992e04404b06380202bdae0db574f1752959d577289",
+      "publishedAtLabel": "Feb 23"
+    },
+    {
+      "id": 18565,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Isegoria.net",
+      "author": "Isegoria",
+      "title": "The medieval house might have been built to specifications approved by a rodent council",
+      "description": "Dozens of rodents carry plague, Ed West notes, but it would only become deadly to humans when Yersinia pestis infected the flea of the black rat (Rattus rattus): Black rats are sedentary homebodies and don\u2019t like to move more than 200 metres from their nests;\u2026",
+      "url": "https://www.isegoria.net/2025/02/the-medieval-house-might-have-been-built-to-specifications-approved-by-a-rodent-council/",
+      "urlToImage": null,
+      "publishedAt": "2025-02-23 15:21:15",
+      "content": "Dozens of rodents carry plague, Ed West notes, but it would only become deadly to humans when Yersinia pestis infected the flea of the black rat (Rattus rattus):Black rats are sedentary homebodies an\u2026 [+5105 chars]",
+      "retrievedAt": "2025-02-24 19:06:00.907982",
+      "internal_id": "f43d41896cd02421069579fd23f492cce0d6bfee23f269db877f1e8958b177ab",
+      "publishedAtLabel": "Feb 23"
+    },
+    {
+      "id": 18559,
+      "query": [
+        "measles",
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Microbe.tv",
+      "author": "Vincent Racaniello",
+      "title": "TWiV 1195: Dickson Despommier, parasitologist without borders",
+      "description": "The entire TWiV team comes together to pay tribute to Dickson Despommier, then reviews antibodies to H5N1 virus in veterinarians working with dairy cattle, Elisabeth Bik donates prize money for data integrity analyses, measles outbreak in Texas, and use of an\u2026",
+      "url": "https://www.microbe.tv/twiv/twiv-1195/",
+      "urlToImage": null,
+      "publishedAt": "2025-02-23 13:56:14",
+      "content": "The entire TWiV team comes together to pay tribute to Dickson Despommier, then reviews antibodies to H5N1 virus in veterinarians working with dairy cattle, Elisabeth Bik donates prize money for data \u2026 [+1028 chars]",
+      "retrievedAt": "2025-02-24 19:05:57.912670",
+      "internal_id": "acb9b8071ea36b307c16fe70fd55bc653a41c88dbabc607fd9da08b6eb209c4a",
+      "publishedAtLabel": "Feb 23"
+    },
+    {
+      "id": 18558,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Ruchika Gupta, Assistant Professor and Medical Microbiologist, Department of Pathobiology and Lab Medicine, LHSC and Schulich School of Medicine and Dentistry, Western University",
+      "title": "Measles: A resurgent threat in Canada",
+      "description": "Measles is a serious disease with potentially severe complications. The current situation in Canada is a public health challenge and a critical moment for awareness and action.",
+      "url": "https://theconversation.com/measles-a-resurgent-threat-in-canada-249932",
+      "urlToImage": "https://images.theconversation.com/files/650549/original/file-20250221-38-ss5xoe.jpg?ixlib=rb-4.1.0&rect=0%2C337%2C1277%2C638&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2025-02-23 13:39:14",
+      "content": "The resurgence of measles in Canada is a stark reminder that we cannot take public health achievements for granted. (CDC and NIAID), CC BY In the landscape of public health, few stories are as compe\u2026 [+6470 chars]",
+      "retrievedAt": "2025-02-24 19:05:57.798110",
+      "internal_id": "e6e83375a38b67c4f8631fda9e5fc03d5baff945b7c6a2eed141a60879e93d95",
+      "publishedAtLabel": "Feb 23"
+    },
+    {
+      "id": 18560,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Meg Tirrell",
+      "title": "\u2018Deadly consequences\u2019: Health agencies reel from thousands of job cuts while critical research grants remain on hold | CNN",
+      "description": "The first month of the Trump administration has brought chaos to US health agencies through mass firings, funding interruptions and communications freezes as the country battles not just the threat of bird flu but a historic measles outbreak centered in West \u2026",
+      "url": "https://www.cnn.com/2025/02/23/health/public-health-job-cuts/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2163381442.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2025-02-23 13:00:47",
+      "content": "A Nobel Prize-winning scientist is still waiting on a crucial research grant from the United States government that was supposed to start weeks ago. A fired public health worker at the US Centers fo\u2026 [+13262 chars]",
+      "retrievedAt": "2025-02-24 19:05:57.973626",
+      "internal_id": "5dd140a409885c885d9f1442b3352fbe3988bf7e4dc4e65c9952447e815106be",
+      "publishedAtLabel": "Feb 23"
+    },
+    {
+      "id": 18562,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Observador.pt",
+      "author": "Ag\u00eancia Lusa",
+      "title": "Francisco George: gripe H5N1 \u00e9 amea\u00e7a de nova epidemia no horizonte",
+      "description": "Francisco George alerta para as \"amea\u00e7as no horizonte\" como a do v\u00edrus da gripe H5N1 e diz, cinco anos ap\u00f3s a pandemia de covid-19, que Portugal est\u00e1 bem preparado.",
+      "url": "https://observador.pt/2025/02/23/francisco-george-gripe-h5n1-e-ameaca-de-nova-epidemia-no-horizonte/",
+      "urlToImage": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1124%3Anowe%3A0%3A104%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2025%2F02%2F23050027%2F44403560.jpg?layer=obstop:T",
+      "publishedAt": "2025-02-23 11:04:29",
+      "content": "Cinco anos ap\u00f3s terem sido confirmados em Portugal os primeiros casos de cont\u00e1gio pelo coronav\u00edrus que causa a covid-19, o especialista de Sa\u00fade P\u00fablica Francisco George alerta para as \u201camea\u00e7as no ho\u2026 [+3759 chars]",
+      "retrievedAt": "2025-02-24 19:05:58.628742",
+      "internal_id": "0122575cc729004fa58660b7e04523a0d5cc7a01f76372666d7cada81a4d9c61",
+      "publishedAtLabel": "Feb 23"
+    },
+    {
+      "id": 18564,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "VOA News",
+      "author": "webdesk@voanews.com (Associated Press)",
+      "title": "Philippine village battles dengue by offering bounties for mosquitos \u2014 dead or alive",
+      "description": "MANILA, PHILIPPINES \u2014 A village in the densely populated Philippine capital region launched a battle against dengue Wednesday by offering a token bounty to residents for captured mosquitos \u2014 dead or alive. The unusual strategy adopted by the Addition Hills \u2026",
+      "url": "https://www.voanews.com/a/philippine-village-battles-dengue-by-offering-bounties-for-mosquitos-dead-or-alive/7984215.html",
+      "urlToImage": "https://gdb.voanews.com/D546047A-6AC0-4ECB-A048-F0ED9FF54AF5.jpg",
+      "publishedAt": "2025-02-23 07:43:32",
+      "content": "MANILA, PHILIPPINES A village in the densely populated Philippine capital region launched a battle against dengue Wednesday by offering a token bounty to residents for captured mosquitos dead or ali\u2026 [+2751 chars]",
+      "retrievedAt": "2025-02-24 19:05:59.091628",
+      "internal_id": "a0fa6d04731aa8d9ff9adab75aadf3414334966da97b6bd8590a534f68c1bca3",
       "publishedAtLabel": "Feb 23"
     }
   ]

@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 36
-- **Last harvest:** 2025-04-08 19:06
-- **Most recent article:** 2025-04-07 19:01:12
+- **New articles in last harvest:** 14
+- **Last harvest:** 2025-04-09 07:07
+- **Most recent article:** 2025-04-08 07:06:49
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-10 | 25-11 | 25-12 | 25-13 | 25-14 | 25-15 | 25-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 142 | 133 | 108 | 101 | 77 | 56 | 158 | 775 |
-| h5n1 | 23 | 39 | 57 | 47 | 46 | 9 | 38 | 259 |
-| malaria | 29 | 22 | 18 | 30 | 13 | 3 | 20 | 135 |
-| dengue | 8 | 12 | 18 | 20 | 14 | 4 | 29 | 105 |
+| measles | 142 | 133 | 108 | 101 | 77 | 65 | 162 | 788 |
+| h5n1 | 23 | 39 | 57 | 47 | 46 | 11 | 42 | 265 |
+| malaria | 29 | 22 | 18 | 30 | 13 | 4 | 20 | 136 |
+| dengue | 8 | 12 | 18 | 20 | 14 | 4 | 30 | 106 |
 | mpox | 14 | 15 | 8 | 12 | 17 | 5 | 26 | 97 |
 | chikungunya | 6 | 1 | 17 | 10 | 17 | 8 | 7 | 66 |
 | meningitis | 4 | 9 | 7 | 10 | 6 | 2 | 7 | 45 |
-| rabies | 3 | 8 | 3 | 19 | 7 | 1 | 2 | 43 |
+| rabies | 3 | 8 | 3 | 19 | 7 | 2 | 2 | 44 |
 | hpai | 10 | 3 | 12 | 2 | 4 | 1 | 4 | 36 |
 | typhoid | 3 | 8 | 0 | 1 | 2 | 1 | 4 | 19 |
 | zika | 3 | 0 | 2 | 3 | 4 | 2 | 2 | 16 |
-| pertussis | 0 | 5 | 1 | 0 | 7 | 0 | 0 | 13 |
-| yersinia | 1 | 2 | 2 | 3 | 0 | 0 | 0 | 8 |
+| pertussis | 0 | 5 | 1 | 0 | 7 | 1 | 0 | 14 |
+| yersinia | 1 | 2 | 2 | 3 | 0 | 0 | 1 | 9 |
 | leptospirosis | 3 | 0 | 1 | 0 | 0 | 0 | 0 | 4 |
 | shigellosis | 3 | 0 | 0 | 0 | 0 | 0 | 1 | 4 |
 
@@ -38,6 +38,10 @@ Source: [News API](https://newsapi.org/)
 - [Estimating per-infection cost and burden for dengue and Zika as a function of antibody-dependent enhancement](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012876) (Plos.org)
 
 - [Brasil aposta em mais vacinas para doenças tropicais e público maior](https://valor.globo.com/publicacoes/especiais/inovacao-na-medicina/noticia/2025/02/26/brasil-aposta-em-mais-vacinas-para-doencas-tropicais-e-publico-maior.ghtml) (Globo)
+
+## 25-9 (yersinia)
+
+- [The medieval house might have been built to specifications approved by a rodent council](https://www.isegoria.net/2025/02/the-medieval-house-might-have-been-built-to-specifications-approved-by-a-rodent-council/) (Isegoria.net)
 
 ## 25-9 (typhoid)
 
@@ -447,6 +451,14 @@ Source: [News API](https://newsapi.org/)
 
 - [Hays County warns of possible measles exposure in San Marcos](https://www.fox7austin.com/news/hays-county-warns-possible-measles-exposure-san-marcos) (FOX 7 Austin)
 
+- [Gottlieb "very concerned" about Texas measles outbreak: "I think this will spread"](https://www.cbsnews.com/video/gottlieb-very-concerned-about-texas-measles-outbreak-i-think-this-will-spread/) (CBS News)
+
+- [TWiV 1195: Dickson Despommier, parasitologist without borders](https://www.microbe.tv/twiv/twiv-1195/) (Microbe.tv)
+
+- [Measles: A resurgent threat in Canada](https://theconversation.com/measles-a-resurgent-threat-in-canada-249932) (The Conversation Africa)
+
+- [‘Deadly consequences’: Health agencies reel from thousands of job cuts while critical research grants remain on hold | CNN](https://www.cnn.com/2025/02/23/health/public-health-job-cuts/index.html) (CNN)
+
 ## 25-9 (malaria)
 
 - [Trump Ends Funding For Malaria, H.I.V., & More Global Health Programs - NewsBreak](https://www.newsbreak.com/share/3834544178448-trump-ends-funding-for-malaria-h-i-v-more-global-health-programs?s=a2&share_destination_id=MzAxMzA4NTY4LTE3NDA4MTI1OTgzNjY%3D&pd=0KOG7cgN&hl=en_US&send_time=1740812598&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2224.39.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_model_exp_25q1-v8%2Cns_foryou_blend_exp_25q1-v3%2Cns_foryou_rank_exp_25q1-v2%2Cns_push_exp_rt_bucketv12-v2%2Cns_foryou_recall_exp_25q1-v3%2Cns_local_strategy_25q1_exp-v12) (Newsbreak.com)
@@ -577,6 +589,14 @@ Source: [News API](https://newsapi.org/)
 
 - [Alerta el riesgo de que gripe aviar cause muertes humanas](https://www.jornada.com.mx/2025/02/24/politica/015n3pol) (Jornada.com.mx)
 
+- [USDA Confirms Bird Flu In Rats](https://www.shtfplan.com/headline-news/usda-confirms-bird-flu-in-rats) (Shtfplan.com)
+
+- [Gripe H5N1 será a nova ameaça depois da COVID-19?](https://pplware.sapo.pt/informacao/gripe-h5n1-sera-a-nova-ameaca-depois-da-covid-19/) (Sapo.pt)
+
+- [TWiV 1195: Dickson Despommier, parasitologist without borders](https://www.microbe.tv/twiv/twiv-1195/) (Microbe.tv)
+
+- [Francisco George: gripe H5N1 é ameaça de nova epidemia no horizonte](https://observador.pt/2025/02/23/francisco-george-gripe-h5n1-e-ameaca-de-nova-epidemia-no-horizonte/) (Observador.pt)
+
 ## 25-9 (dengue)
 
 - [“Mosquito argentino”. El temor al dengue genera hasta cinco horas de demora en un cruce fronterizo](https://www.lanacion.com.ar/sociedad/mosquito-argentino-el-temor-al-dengue-genera-hasta-cinco-horas-de-demora-en-un-cruce-fronterizo-nid01032025/) (La Nacion)
@@ -637,6 +657,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Enfermedades respiratorias aumentaron en Nayarit desde el inicio del 2025](https://www.excelsior.com.mx/nacional/enfermedades-respiratorias-aumentaron-en-nayarit-desde-el-inicio-del-2025/1701463) (Excelsior.com.mx)
 
+- [Philippine village battles dengue by offering bounties for mosquitos — dead or alive](https://www.voanews.com/a/philippine-village-battles-dengue-by-offering-bounties-for-mosquitos-dead-or-alive/7984215.html) (VOA News)
+
 ## 25-9 (chikungunya)
 
 - [Low capacity for molecular detection of Alphaviruses other than Chikungunya virus in 23 European laboratories, March 2022](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318602) (Plos.org)
@@ -665,7 +687,13 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-15 (rabies)
 
+- [3 dead, hundreds affected following massive outbreak of rabies in India's Manipur](http://en.people.cn/n3/2025/0408/c90000-20298960.html) (People.cn)
+
 - [Massive Rabies Outbreak In Manipur, Three Dead, Hundreds Affected](https://www.ndtv.com/india-news/massive-rabies-outbreak-in-manipur-three-dead-hundreds-affected-8102903) (NDTV News)
+
+## 25-15 (pertussis)
+
+- [Whooping cough: Cases soar in US](https://www.bmj.com/content/389/bmj.r704) (The BMJ)
 
 ## 25-15 (mpox)
 
@@ -686,6 +714,24 @@ Source: [News API](https://newsapi.org/)
 - [Meningitis death toll hits 156, suspected cases 1,858](https://punchng.com/meningitis-death-toll-hits-156-suspected-cases-1858/) (The Punch)
 
 ## 25-15 (measles)
+
+- [RFK Jr. Visits Texas Measles Epicenter After Death of Second Child Who was Infected](https://www.insurancejournal.com/news/southcentral/2025/04/08/818943.htm) (Insurance Journal)
+
+- [Why are measles cases surging?](https://www.thenakedscientists.com/podcasts/naked-scientists-podcast/why-are-measles-cases-surging) (The Naked Scientists)
+
+- [Health secretary RFK Jr. endorses the MMR vaccine — stoking fury among his supporters (Geoff Brumfiel/NPR)](https://www.memeorandum.com/250407/p159) (Memeorandum.com)
+
+- [CDC redeploys to Texas measles outbreak as RFK Jr. backs vaccine](https://www.cbsnews.com/news/cdc-texas-measles-outbreak-layoffs-rfk-vaccines/) (CBS News)
+
+- [Health secretary RFK Jr. endorses the MMR vaccine — stoking fury among his supporters](https://www.npr.org/sections/shots-health-news/2025/04/07/nx-s1-5354900/hhs-rfk-endorses-mmr-measles-vaccine-stoking-supporters-fury) (NPR)
+
+- [Ontario's large measles outbreak catches attention of New York public health officials](https://www.cbc.ca/news/canada/toronto/new-york-state-department-of-health-measles-travel-advisory-ontario-1.7504085) (CBC News)
+
+- [RFK Jr. visits family of child who died because they followed his bullshit conspiracy theories](https://www.lawyersgunsmoneyblog.com/2025/04/rfk-jr-visits-family-of-child-who-died-because-they-followed-his-bullshit-conspiracy-theories) (Lawyersgunsmoneyblog.com)
+
+- [New York State Issues Travel Advisory for 11 Countries](https://www.newsweek.com/measles-new-york-rfk-travel-advisory-vaccine-2056495) (Newsweek)
+
+- [Robert F Kennedy Jr claims anti-vax physicians healed 'some 300 measles-stricken children' (Richard Luscombe/The Guardian)](https://www.memeorandum.com/250407/p114) (Memeorandum.com)
 
 - [RFK Jr. Plugs Measles Vaccine, Along With Dubious Treatments](http://nymag.com/intelligencer/article/rfk-jr-plugs-measles-vaccine-along-with-dubious-treatments.html) (New York Magazine)
 
@@ -801,6 +847,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-15 (malaria)
 
+- [Dos vacunas, una esperanza: el gran avance en la lucha contra la malaria](https://wwwhatsnew.com/2025/04/08/dos-vacunas-una-esperanza-el-gran-avance-en-la-lucha-contra-la-malaria/) (Wwwhatsnew.com)
+
 - [The Return of the Dire Wolf](https://time.com/7274542/colossal-dire-wolf/) (Time)
 
 - [La retirada de EE.UU. de la OMS amenaza con frenar décadas de avances en salud global](https://www.montevideo.com.uy/Salud/La-retirada-de-EE-UU-de-la-OMS-amenaza-con-frenar-decadas-de-avances-en-salud-global-uc919969) (Montevideo.com.uy)
@@ -812,6 +860,10 @@ Source: [News API](https://newsapi.org/)
 - [One year later: Highly pathogenic avian influenza confirmed in dairy cattle](https://phys.org/news/2025-04-year-highly-pathogenic-avian-influenza.html) (Phys.Org)
 
 ## 25-15 (h5n1)
+
+- [Factory farming the next global pandemic](https://theecologist.org/2025/apr/08/factory-farming-next-global-pandemic) (Theecologist.org)
+
+- [Bird Flu “On The Cusp” Of Transmitting To Humans](https://www.activistpost.com/bird-flu-on-the-cusp-of-transmitting-to-humans/) (Activistpost.com)
 
 - [First Human Case Of H5N1 Bird Flu Reported In Mexico](https://www.shtfplan.com/headline-news/first-human-case-of-h5n1-bird-flu-reported-in-mexico) (Shtfplan.com)
 
