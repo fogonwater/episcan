@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 36
-- **Last harvest:** 2025-04-09 19:05
-- **Most recent article:** 2025-04-08 18:58:59
+- **New articles in last harvest:** 32
+- **Last harvest:** 2025-04-10 07:07
+- **Most recent article:** 2025-04-09 07:00:13
 
 ---
 
@@ -12,11 +12,11 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-10 | 25-11 | 25-12 | 25-13 | 25-14 | 25-15 | 25-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 142 | 133 | 108 | 101 | 77 | 73 | 158 | 792 |
-| h5n1 | 23 | 39 | 57 | 47 | 46 | 27 | 38 | 277 |
-| malaria | 29 | 22 | 18 | 30 | 13 | 7 | 20 | 139 |
-| dengue | 8 | 12 | 18 | 20 | 14 | 10 | 29 | 111 |
-| mpox | 14 | 15 | 8 | 12 | 17 | 5 | 26 | 97 |
+| measles | 142 | 133 | 108 | 101 | 77 | 80 | 162 | 803 |
+| h5n1 | 23 | 39 | 57 | 47 | 46 | 48 | 42 | 302 |
+| malaria | 29 | 22 | 18 | 30 | 13 | 8 | 20 | 140 |
+| dengue | 8 | 12 | 18 | 20 | 14 | 12 | 30 | 114 |
+| mpox | 14 | 15 | 8 | 12 | 17 | 6 | 26 | 98 |
 | chikungunya | 6 | 1 | 17 | 10 | 17 | 10 | 7 | 68 |
 | meningitis | 4 | 9 | 7 | 10 | 6 | 4 | 7 | 47 |
 | rabies | 3 | 8 | 3 | 19 | 7 | 2 | 2 | 44 |
@@ -24,7 +24,7 @@ By US epiweek (i.e. Sunday to Saturday)
 | typhoid | 3 | 8 | 0 | 1 | 2 | 1 | 4 | 19 |
 | zika | 3 | 0 | 2 | 3 | 4 | 3 | 2 | 17 |
 | pertussis | 0 | 5 | 1 | 0 | 7 | 1 | 0 | 14 |
-| yersinia | 1 | 2 | 2 | 3 | 0 | 0 | 0 | 8 |
+| yersinia | 1 | 2 | 2 | 3 | 0 | 0 | 1 | 9 |
 | leptospirosis | 3 | 0 | 1 | 0 | 0 | 0 | 0 | 4 |
 | shigellosis | 3 | 0 | 0 | 0 | 0 | 0 | 1 | 4 |
 
@@ -38,6 +38,10 @@ Source: [News API](https://newsapi.org/)
 - [Estimating per-infection cost and burden for dengue and Zika as a function of antibody-dependent enhancement](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012876) (Plos.org)
 
 - [Brasil aposta em mais vacinas para doenças tropicais e público maior](https://valor.globo.com/publicacoes/especiais/inovacao-na-medicina/noticia/2025/02/26/brasil-aposta-em-mais-vacinas-para-doencas-tropicais-e-publico-maior.ghtml) (Globo)
+
+## 25-9 (yersinia)
+
+- [The medieval house might have been built to specifications approved by a rodent council](https://www.isegoria.net/2025/02/the-medieval-house-might-have-been-built-to-specifications-approved-by-a-rodent-council/) (Isegoria.net)
 
 ## 25-9 (typhoid)
 
@@ -447,6 +451,14 @@ Source: [News API](https://newsapi.org/)
 
 - [Hays County warns of possible measles exposure in San Marcos](https://www.fox7austin.com/news/hays-county-warns-possible-measles-exposure-san-marcos) (FOX 7 Austin)
 
+- [Gottlieb "very concerned" about Texas measles outbreak: "I think this will spread"](https://www.cbsnews.com/video/gottlieb-very-concerned-about-texas-measles-outbreak-i-think-this-will-spread/) (CBS News)
+
+- [TWiV 1195: Dickson Despommier, parasitologist without borders](https://www.microbe.tv/twiv/twiv-1195/) (Microbe.tv)
+
+- [Measles: A resurgent threat in Canada](https://theconversation.com/measles-a-resurgent-threat-in-canada-249932) (The Conversation Africa)
+
+- [‘Deadly consequences’: Health agencies reel from thousands of job cuts while critical research grants remain on hold | CNN](https://www.cnn.com/2025/02/23/health/public-health-job-cuts/index.html) (CNN)
+
 ## 25-9 (malaria)
 
 - [Trump Ends Funding For Malaria, H.I.V., & More Global Health Programs - NewsBreak](https://www.newsbreak.com/share/3834544178448-trump-ends-funding-for-malaria-h-i-v-more-global-health-programs?s=a2&share_destination_id=MzAxMzA4NTY4LTE3NDA4MTI1OTgzNjY%3D&pd=0KOG7cgN&hl=en_US&send_time=1740812598&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2224.39.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_model_exp_25q1-v8%2Cns_foryou_blend_exp_25q1-v3%2Cns_foryou_rank_exp_25q1-v2%2Cns_push_exp_rt_bucketv12-v2%2Cns_foryou_recall_exp_25q1-v3%2Cns_local_strategy_25q1_exp-v12) (Newsbreak.com)
@@ -577,6 +589,14 @@ Source: [News API](https://newsapi.org/)
 
 - [Alerta el riesgo de que gripe aviar cause muertes humanas](https://www.jornada.com.mx/2025/02/24/politica/015n3pol) (Jornada.com.mx)
 
+- [USDA Confirms Bird Flu In Rats](https://www.shtfplan.com/headline-news/usda-confirms-bird-flu-in-rats) (Shtfplan.com)
+
+- [Gripe H5N1 será a nova ameaça depois da COVID-19?](https://pplware.sapo.pt/informacao/gripe-h5n1-sera-a-nova-ameaca-depois-da-covid-19/) (Sapo.pt)
+
+- [TWiV 1195: Dickson Despommier, parasitologist without borders](https://www.microbe.tv/twiv/twiv-1195/) (Microbe.tv)
+
+- [Francisco George: gripe H5N1 é ameaça de nova epidemia no horizonte](https://observador.pt/2025/02/23/francisco-george-gripe-h5n1-e-ameaca-de-nova-epidemia-no-horizonte/) (Observador.pt)
+
 ## 25-9 (dengue)
 
 - [“Mosquito argentino”. El temor al dengue genera hasta cinco horas de demora en un cruce fronterizo](https://www.lanacion.com.ar/sociedad/mosquito-argentino-el-temor-al-dengue-genera-hasta-cinco-horas-de-demora-en-un-cruce-fronterizo-nid01032025/) (La Nacion)
@@ -637,6 +657,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Enfermedades respiratorias aumentaron en Nayarit desde el inicio del 2025](https://www.excelsior.com.mx/nacional/enfermedades-respiratorias-aumentaron-en-nayarit-desde-el-inicio-del-2025/1701463) (Excelsior.com.mx)
 
+- [Philippine village battles dengue by offering bounties for mosquitos — dead or alive](https://www.voanews.com/a/philippine-village-battles-dengue-by-offering-bounties-for-mosquitos-dead-or-alive/7984215.html) (VOA News)
+
 ## 25-9 (chikungunya)
 
 - [Low capacity for molecular detection of Alphaviruses other than Chikungunya virus in 23 European laboratories, March 2022](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318602) (Plos.org)
@@ -677,6 +699,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-15 (mpox)
 
+- [Immer mehr Mpox-Fälle in Berlin – droht ein größerer Ausbruch?](https://www.morgenpost.de/berlin/article408746072/immer-mehr-mpox-faelle-in-berlin-droht-ein-groesserer-ausbruch.html) (Berliner Morgenpost)
+
 - [Royaume-Uni: les autorités enquêtent sur un cas inexpliqué d'infection au mpox](https://www.bfmtv.com/international/europe/angleterre/royaume-uni-les-autorites-enquetent-sur-un-cas-inexplique-d-infection-au-mpox_AD-202504070712.html) (BFMTV)
 
 - [V Británii sa opäť objavil prípad opičích kiahní. Zatiaľ nie je známe, kde sa pacient mohol nakaziť](https://spravy.pravda.sk/svet/clanok/747529-v-britanii-sa-opat-objavil-pripad-opicich-kiahni-zatial-nie-je-zname-kde-sa-pacient-mohol-nakazit/) (Pravda.sk)
@@ -698,6 +722,20 @@ Source: [News API](https://newsapi.org/)
 - [Meningitis death toll hits 156, suspected cases 1,858](https://punchng.com/meningitis-death-toll-hits-156-suspected-cases-1858/) (The Punch)
 
 ## 25-15 (measles)
+
+- [Ousted FDA vaccine chief says U.S. measles elimination status under threat as cases climb](https://www.nbcnews.com/health/health-news/ousted-fda-vaccine-chief-us-measles-elimination-status-threat-rcna199966) (NBC News)
+
+- [3rd measles case confirmed in Colorado; here’s where you could have been exposed](https://kdvr.com/news/health/3rd-measles-case-confirmed-in-colorado-heres-where-you-could-have-been-exposed/) (FOX 31 Denver)
+
+- [What will it take to get measles under control](https://www.npr.org/2025/04/08/nx-s1-5355878/what-will-it-take-to-get-measles-under-control) (NPR)
+
+- [RFK Jr. claims curve is flattening in Texas measles outbreak. Does the data agree?](https://abcnews.go.com/Health/rfk-jr-claims-curve-flattening-texas-measles-outbreak/story?id=120554374) (ABC News)
+
+- [Kennedy sends mixed messages amid measles outbreak](https://www.msnbc.com/rachel-maddow-show/maddowblog/rfk-jr-measles-texas-death-anti-vaccine-doctors-rcna200263) (MSNBC)
+
+- [Measles Cases Exceed 500 In Texas After Second Child Dies Of Illness](https://www.forbes.com/sites/antoniopequenoiv/2025/04/08/measles-outbreak-second-child-dies-in-texas-as-more-than-600-cases-confirmed-nationwide/) (Forbes)
+
+- [Idaho Cuts Public Health Benefits for Undocumented Immigrants](https://time.com/7275849/idaho-ends-publicly-funded-vaccinations-for-undocumented-immigrants/) (Time)
 
 - [What RFK Jr. Has Said About MMR Vaccine After Latest Measles Death](https://www.newsweek.com/rfk-jr-mmr-vaccine-measles-donald-trump-health-2056877) (Newsweek)
 
@@ -847,6 +885,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-15 (malaria)
 
+- [グローバルファンド事務局長に聞く、「グローバルヘルスの活動も効率重視」](https://bio.nikkeibp.co.jp/atcl/news/p1/25/04/03/13157/) (Nikkeibp.co.jp)
+
 - [Health Ministry calls for collective efforts to tackle malaria](https://www.nbcnews.na/node/110304) (Nbcnews.na)
 
 - [HOPS/CORVET tethering complexes are critical for endocytosis and protein trafficking to invasion related organelles in malaria parasites](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013053) (Plos.org)
@@ -866,6 +906,48 @@ Source: [News API](https://newsapi.org/)
 - [One year later: Highly pathogenic avian influenza confirmed in dairy cattle](https://phys.org/news/2025-04-year-highly-pathogenic-avian-influenza.html) (Phys.Org)
 
 ## 25-15 (h5n1)
+
+- [Противовирусная жевательная резинка](https://habr.com/ru/companies/ua-hosting/articles/898660/#post-content-body) (Habr.com)
+
+- [Soffri di influenza ed herpes? Arriva la "gomma magica" che previene i virus](https://www.ilgiornale.it/news/farmaci-e-terapie/soffri-influenza-ed-herpes-arriva-gomma-magica-che-previene-2463711.html) (Ilgiornale.it)
+
+- [O fetiță de 3 ani a murit după ce a fost diagnosticată cu gripă aviară. Este primul deces cauzat de H5N1 în Mexic](https://www.digi24.ro/stiri/externe/o-fetita-de-3-ani-a-murit-dupa-ce-a-fost-diagnosticata-cu-gripa-aviara-este-primul-deces-cauzat-de-h5n1-in-mexic-3191245) (Digi24.ro)
+
+- [Influenza aviar H5N1 en México: ¿Te puedes contagiar por consumir pollo y huevo?](https://www.elfinanciero.com.mx/salud/2025/04/08/influenza-aviar-h5n1-en-mexico-te-puedes-contagiar-por-consumir-pollo-y-huevo/) (El Financiero)
+
+- [Mexique : Une petite fille de 3 ans décède de la grippe aviaire H5N1](https://www.20minutes.fr/monde/4147704-20250409-mexique-petite-fille-3-ans-decede-grippe-aviaire-h5n1) (20 Minutes)
+
+- [H5N1: Dreijährige stirbt in Mexiko an der Vogelgrippe](https://www.zeit.de/gesundheit/2025-04/vogelgrippe-mexiko-totes-maedchen-h5n1-virus) (Die Zeit)
+
+- [Dreijährige stirbt in Mexiko nach Vogelgrippe-Infektion](https://www.tagesschau.de/ausland/amerika/mexiko-vogelgrippe-todesfall-100.html) (tagesschau.de)
+
+- [Mexico reports first human death from H5N1 bird flu](https://www.abc.net.au/news/2025-04-09/first-human-death-from-bird-flu-in-mexico/105154358) (ABC News (AU))
+
+- [No hay riesgo de que México padezca situación de gripe aviar como en Asia: IMSS](https://www.excelsior.com.mx/nacional/gripe-aviar-mexico-situacion-imss-riesgo-asia/1709588) (Excelsior.com.mx)
+
+- [Au Mexique, une petite fille est morte après avoir contracté la grippe aviaire H5N1, le premier et seul cas de décès lié au virus dans le pays](https://www.francetvinfo.fr/sante/maladie/grippe-aviaire/au-mexique-une-petite-fille-est-morte-apres-avoir-contracte-la-grippe-aviaire-h5n1-le-premier-et-seul-cas-de-deces-lie-au-virus-dans-le-pays_7178532.html) (Francetvinfo.fr)
+
+- [México registra primeira morte humana pelo vírus H5N1](https://valor.globo.com/mundo/noticia/2025/04/08/mxico-registra-primeira-morte-humana-pelo-vrus-h5n1.ghtml) (Globo)
+
+- [Murió niña reportada como el primer caso de gripe aviar H5N1 en México](https://peru21.pe/mundo/mexico-murio-nina-reportada-como-el-primer-caso-de-gripe-aviar-h5n1/) (Peru21.pe)
+
+- [Groźny wirus zbiera żniwo. Ofiarą trzyletnia dziewczynka](https://wydarzenia.interia.pl/zagranica/news-grozny-wirus-zbiera-zniwo-ofiara-trzyletnia-dziewczynka,nId,21394272) (Interia.pl)
+
+- [Groźny wirus zbiera żniwo. Choroba nie oszczędza najmłodszych](https://wydarzenia.interia.pl/zagranica/news-grozny-wirus-zbiera-zniwo-choroba-nie-oszczedza-najmlodszych,nId,21394272) (Interia.pl)
+
+- [Au Mexique, une fille de 3 ans meurt de la grippe aviaire H5N1](https://www.lemonde.fr/international/article/2025/04/08/au-mexique-une-fille-de-3-ans-meurt-de-la-grippe-aviaire-h5n1_6592814_3210.html) (Le Monde)
+
+- [Mexiko zaznamenalo prvé úmrtie človeka na vtáčiu chrípku H5N1. Obeťou je iba trojročné dievčatko](https://spravy.pravda.sk/svet/clanok/747691-mexiko-zaznamenalo-prve-umrtie-cloveka-na-vtaciu-chripku-h5n1-obetou-je-iba-trojrocne-dievcatko/) (Pravda.sk)
+
+- [Premier décès d’un cas humain de grippe aviaire H5N1 au Mexique : il s’agit d’une petite fille de 3 ans](https://www.lavenir.net/actu/monde/2025/04/08/premier-deces-dun-cas-humain-de-grippe-aviaire-h5n1-au-mexique-il-sagit-dune-petite-fille-de-3-ans-GS3W3L7LEBBTJJCFXMFAJKR5NM/) (Lavenir.net)
+
+- [Kolme­vuotias kuoli lintu­influenssaan](https://www.is.fi/ulkomaat/art-2000011155834.html) (Www.is.fi)
+
+- [¿Hay riesgo de contagio de gripe aviar tras la muerte de una niña en Coahuila? Esto dice la Ssa](https://www.milenio.com/ciencia-y-salud/hay-riesgo-de-contagio-de-aviar-tras-la-muerte-de-menor-en-coahuila) (Milenio)
+
+- [Criança é primeira vítima fatal de gripe aviária H5N1 reportada no México](https://ultimosegundo.ig.com.br/afp/2025-04-08/crianca-e-primeira-vitima-fatal-de-gripe-aviaria-h5n1-reportada-no-mexico.html) (Ig.com.br)
+
+- [O fetiță de 3 ani a murit din cauza gripei aviare H5N1 în Mexic](https://www.mediafax.ro/externe/o-fetita-de-3-ani-a-murit-din-cauza-gripei-aviare-h5n1-in-mexic-23538202) (Mediafax.ro)
 
 - [H5N1: México registra 1ª morte por gripe aviária na América Latina](https://www.metropoles.com/saude/h5n1-mexico-morte-gripe-aviaria) (Metropoles.com)
 
@@ -922,6 +1004,10 @@ Source: [News API](https://newsapi.org/)
 - [Q&A: How Nova Scotians can help prevent the spread of bird flu](https://www.cbc.ca/news/canada/nova-scotia/how-to-prevent-bird-flu-1.7502052) (CBC News)
 
 ## 25-15 (dengue)
+
+- [MPRS articula iniciativas para o enfrentamento do aumento dos casos de dengue em Porto Alegre](https://www.terra.com.br/noticias/mprs-articula-iniciativas-para-o-enfrentamento-do-aumento-dos-casos-de-dengue-em-porto-alegre,d90085ae3aedd5a6a7710c06db06b14bnnmilsz1.html) (Terra.com.br)
+
+- [Dengue: Ministério da Saúde intensifica ações em 7 estados; SP lidera em casos](https://veja.abril.com.br/saude/dengue-ministerio-da-saude-intensifica-acoes-em-7-estados-sp-lidera-em-casos/) (Abril.com.br)
 
 - [Veja as 80 cidades com maior incidência de dengue em 2025](https://www.metropoles.com/brasil/veja-as-80-cidades-com-maior-incidencia-de-dengue-em-2025) (Metropoles.com)
 

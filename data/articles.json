@@ -1,8 +1,584 @@
 {
-  "last_updated": "2025-04-09 19:05",
-  "count_articles_total": 1638,
-  "count_articles_new": 36,
+  "last_updated": "2025-04-10 07:07",
+  "count_articles_total": 1679,
+  "count_articles_new": 32,
   "articles": [
+    {
+      "id": 20231,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Habr.com",
+      "author": "Dmytro_Kikot (ua-hosting.company)",
+      "title": "\u041f\u0440\u043e\u0442\u0438\u0432\u043e\u0432\u0438\u0440\u0443\u0441\u043d\u0430\u044f \u0436\u0435\u0432\u0430\u0442\u0435\u043b\u044c\u043d\u0430\u044f \u0440\u0435\u0437\u0438\u043d\u043a\u0430",
+      "description": "\u041f\u0430\u043d\u0434\u0435\u043c\u0438\u044f, \u043f\u043e\u0441\u043b\u0435\u0434\u0441\u0442\u0432\u0438\u044f \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0434\u043e \u0441\u0438\u0445 \u043f\u043e\u0440 \u043d\u0430\u0431\u043b\u044e\u0434\u0430\u044e\u0442\u0441\u044f \u043f\u043e \u0432\u0441\u0435\u043c\u0443 \u043c\u0438\u0440\u0443, \u043f\u043e\u043a\u0430\u0437\u0430\u043b\u0430 \u0442\u043e, \u0447\u0442\u043e \u0438\u043c\u043c\u0443\u043d\u043e\u043b\u043e\u0433\u0438 \u0438 \u0432\u0438\u0440\u0443\u0441\u043e\u043b\u043e\u0433\u0438 \u0437\u043d\u0430\u043b\u0438 \u0434\u0430\u0432\u043d\u043e, \u043d\u043e \u043f\u0440\u043e\u0441\u0442\u044b\u0435 \u043e\u0431\u044b\u0432\u0430\u0442\u0435\u043b\u0438 \u0447\u0430\u0441\u0442\u0435\u043d\u044c\u043a\u043e \u0438\u0433\u043d\u043e\u0440\u0438\u0440\u043e\u0432\u0430\u043b\u0438, \u2014 \u0432\u0438\u0440\u0443\u0441\u044b \u043e\u0431\u043e\u0436\u0430\u044e\u0442 \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u044f\u0442\u044c\u0441\u044f \u043e\u0442 \u043e\u0434\u043d\u043e\u0433\u043e \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u0430 \u043a \u0434\u0440\u0443\u0433\u043e\u043c\u0443. \u041f\u043e\u0432\u044b\u0448\u0435\u043d\u0438\u0435 \u0438\u043c\u043c\u0443\u043d\u043d\u043e\u0439 \u0437\u0430\u0449\u0438\u0442\u044b \u043e\u0431\u2026",
+      "url": "https://habr.com/ru/companies/ua-hosting/articles/898660/#post-content-body",
+      "urlToImage": "https://habr.com/share/publication/898660/cbd6454d03e88b3f854f5a6d5bcea49d/",
+      "publishedAt": "2025-04-09 07:00:13",
+      "content": ", , , , , . , , . , . ( HSV Herpes Simplex Virus). () . , , ? . - , , , . , 2 (SARS-CoV-2) 7 . , ( H1N1, SARS, , ), . , , A H7N9 H5N1, MERS, . , , , , . ., , 35 , . , COVID-19, -, . , , HPV ( ), HSV\u2026 [+3654 chars]",
+      "retrievedAt": "2025-04-10 07:07:37.734950",
+      "internal_id": "68c7ace1ef0a0c4ccc4f6bbf6fc71acf48f7de67eac46b8c68e28994b5726e13",
+      "publishedAtLabel": "Apr 9"
+    },
+    {
+      "id": 20224,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Ilgiornale.it",
+      "author": "redazione@ilgiornale-web.it (Luca Sablone)",
+      "title": "Soffri di influenza ed herpes? Arriva la \"gomma magica\" che previene i virus",
+      "description": "Un gruppo di ricercatori della Pennsylvania ha testato una chewing gum che, grazie a una proteina antivirale nella polvere di fagioli Lablab, pu\u00f2 ridurre la carica virale",
+      "url": "https://www.ilgiornale.it/news/farmaci-e-terapie/soffri-influenza-ed-herpes-arriva-gomma-magica-che-previene-2463711.html",
+      "urlToImage": "https://img.ilgcdn.com/sites/default/files/styles/social/public/foto/2025/04/09/1744177894-chewing-gum-2153918-1280.jpg?_=1744177894",
+      "publishedAt": "2025-04-09 06:28:40",
+      "content": "L'emergenza Coronavirus ha messo in evidenza come le malattie infettive siano una minaccia crescente per l'uomo. Le epidemie pi\u00f9 conosciute - da H1N1 ad H5N1 passando per l'Ebola - hanno avuto un imp\u2026 [+2514 chars]",
+      "retrievedAt": "2025-04-10 07:07:37.631774",
+      "internal_id": "408a0ef55b97850ba51ae91cd7ebc4edeade5bf1154a32a66631b96ad78adf79",
+      "publishedAtLabel": "Apr 9"
+    },
+    {
+      "id": 20225,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Digi24.ro",
+      "author": "Alina Popescu",
+      "title": "O feti\u021b\u0103 de 3 ani a murit dup\u0103 ce a fost diagnosticat\u0103 cu grip\u0103 aviar\u0103. Este primul deces cauzat de H5N1 \u00een Mexic",
+      "description": "Un prim caz de deces provocat de gripa aviar\u0103 H5N1 \u00eenregistrat \u00een Mexic a fost raportat mar\u0163i de autorit\u0103\u0163ile sanitare regionale, transmit agen\u0163iile AFP \u015fi DPA.",
+      "url": "https://www.digi24.ro/stiri/externe/o-fetita-de-3-ani-a-murit-dupa-ce-a-fost-diagnosticata-cu-gripa-aviara-este-primul-deces-cauzat-de-h5n1-in-mexic-3191245",
+      "urlToImage": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjQl/MkYwNiUyRjA0JTJGMTk5MTcxNF8xOTkx/NzE0X21hbmEtY29waWwtcGVyZnV6aWUt/c3BpdGFsLWdldHR5aW1hZ2VzLmpwZyZ3/PTEyMDAmaD02MzAmemM9MSZoYXNoPTM0/NmVlYzI3ZmM3MDIxMzk5YjljZDUxY2E4MjFhYWIw.thumb.jpg",
+      "publishedAt": "2025-04-09 05:51:40",
+      "content": "Un prim caz de deces provocat de gripa aviar H5N1 \u00eenregistrat \u00een Mexic a fost raportat mari de autoritile sanitare regionale, transmit ageniile AFP i DPA. Cazul este cel al unei fetie \u00een v\u00e2rst de tr\u2026 [+1889 chars]",
+      "retrievedAt": "2025-04-10 07:07:37.679193",
+      "internal_id": "443e22c070e66c7faa9a0d76624de70ae204d3cef21d6d0558bea479fa1b57f3",
+      "publishedAtLabel": "Apr 9"
+    },
+    {
+      "id": 20235,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Berliner Morgenpost",
+      "author": "Johannes Vetter",
+      "title": "Immer mehr Mpox-F\u00e4lle in Berlin \u2013 droht ein gr\u00f6\u00dferer Ausbruch?",
+      "description": "Die Mpox-Infektionen in Berlin steigen von Woche zu Woche. So sch\u00e4tzt Leif Erik Sander, Klinikdirektor an der Charit\u00e9, die neue Lage ein.",
+      "url": "https://www.morgenpost.de/berlin/article408746072/immer-mehr-mpox-faelle-in-berlin-droht-ein-groesserer-ausbruch.html",
+      "urlToImage": "https://img.sparknews.funkemedien.de/407913846/407913846_1734362021_v16_9_1600.jpeg",
+      "publishedAt": "2025-04-09 04:30:00",
+      "content": "Berlin. Die Mpox-Infektionen in Berlin steigen von Woche zu Woche. So sch\u00e4tzt Leif Erik Sander, Klinikdirektor an der Charit\u00e9, die neue Lage ein.",
+      "retrievedAt": "2025-04-10 07:07:40.215384",
+      "internal_id": "95053ada1dd200ddceb72024f73e986c7a4658e8ae6e1cab16fa03cb0c3cff79",
+      "publishedAtLabel": "Apr 9"
+    },
+    {
+      "id": 20220,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "El Financiero",
+      "author": "Redacci\u00f3n",
+      "title": "Influenza aviar H5N1 en M\u00e9xico: \u00bfTe puedes contagiar por consumir pollo y huevo?",
+      "description": "La OMS y la Secretar\u00eda de Salud aclaran si el consumo de alimentos como pollo y huevo puede transmitir la influenza aviar H5N1.",
+      "url": "https://www.elfinanciero.com.mx/salud/2025/04/08/influenza-aviar-h5n1-en-mexico-te-puedes-contagiar-por-consumir-pollo-y-huevo/",
+      "urlToImage": "https://www.elfinanciero.com.mx/resizer/v2/OVO7MRZSFNEPHGPCI22GPQJ3FM.jpg?smart=true&auth=47a26c4fa24627853c927c7b599f87e677d72c2ac88a2ba3bfe841744577c5e1&width=1200&height=630",
+      "publishedAt": "2025-04-09 01:53:27",
+      "content": "El fallecimiento de una menor de 3 a\u00f1os a causa de la influenza aviar H5N1 en un hospital de Torre\u00f3n, Coahuila, ha generado alarma en la poblaci\u00f3n ante la posible propagaci\u00f3n de la enfermedad. El s\u2026 [+2826 chars]",
+      "retrievedAt": "2025-04-10 07:07:37.585795",
+      "internal_id": "c9494040fe21cba978fb6e2429bc23c3f2fe19da30666e9fa12393db45492ffd",
+      "publishedAtLabel": "Apr 9"
+    },
+    {
+      "id": 20213,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "20 Minutes",
+      "author": "20 Minutes avec AFP",
+      "title": "Mexique : Une petite fille de 3 ans d\u00e9c\u00e8de de la grippe aviaire H5N1",
+      "description": "L\u2019enfant \u00e9tait le premier et le seul cas report\u00e9 de ce virus chez l\u2019humain au Mexique",
+      "url": "https://www.20minutes.fr/monde/4147704-20250409-mexique-petite-fille-3-ans-decede-grippe-aviaire-h5n1",
+      "urlToImage": "https://img.20mn.fr/EsoWm8u2QJGevDDFh5vo7ik/1444x920_mandatory-credit-photo-by-mohd-zakir-hindustan-times-shutterstock-11703380b-officials-carrying-the-dead-duck-in-a-bag-for-buried-after-authorities-decide-to-cull-all-ducks-in-the-sanjay-lake-after-some-ducks-tested-positive-for-bird-flu-on-january-11-2021-in-new-delhi-india-avian-influenza-or-bird-flu-has-officially-hit-the-national-capital-as-the-delhi-government-on-monday-said-eight-of-the-109-samples-sent-for-testing-were-positive-senior-government-officials-said-the-culling-of-live-birds-was-immediately-initiated-from-8am-on-monday-in-sanjay-lake-park-in-mayur-vihar-phase-2-the-park-had-been-declared-an-alert-zone-on-sunday-after-17-more-ducks-were-found-dead-in-the-green-area-culling-in-more-areas-will-follow-soon-culling-of-birds-begins-as-avian-influenza-hits-delhi-new-delhi-india-11-jan-2021-shutterstock-editorial-culling-of-birds-begins-as-avian-11703380b-2101112146",
+      "publishedAt": "2025-04-09 00:29:38",
+      "content": "Le virus H5N1 a pour la premi\u00e8re fois tu\u00e9 au Mexique. Un d\u00e9c\u00e8s par la grippe aviaire a \u00e9t\u00e9 rapport\u00e9 mardi dans le pays, ont annonc\u00e9 les autorit\u00e9s sanitaires r\u00e9gionales. Il sagit dune petite fille de\u2026 [+1448 chars]",
+      "retrievedAt": "2025-04-10 07:07:37.420843",
+      "internal_id": "dc98c17bc5a34b1a223bbdd105baf8ed74d0fb48754961ee3fc50bd2c83be293",
+      "publishedAtLabel": "Apr 9"
+    },
+    {
+      "id": 20207,
+      "query": [
+        "measles"
+      ],
+      "source_id": "nbc-news",
+      "source_name": "NBC News",
+      "author": "Berkeley Lovelace Jr.",
+      "title": "Ousted FDA vaccine chief says U.S. measles elimination status under threat as cases climb",
+      "description": "Health Secretary Robert F. Kennedy Jr.\u2019s \u201ctepid endorsement\u201d of measles vaccination puts the U.S. at risk of losing its elimination status of the disease as early as January, the Food and Drug Administration\u2019s former top vaccine regulator said Tuesday.",
+      "url": "https://www.nbcnews.com/health/health-news/ousted-fda-vaccine-chief-us-measles-elimination-status-threat-rcna199966",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-03/250307-Seminole-Texas-Measles-ew-942a-938e0e.jpg",
+      "publishedAt": "2025-04-09 00:21:26",
+      "content": "Health Secretary Robert F. Kennedy Jr.s tepid endorsement of measles vaccination puts the U.S. at risk of losing its elimination status of the disease as early as January, the Food and Drug Administr\u2026 [+5959 chars]",
+      "retrievedAt": "2025-04-10 07:07:36.241631",
+      "internal_id": "97cb539c2a840ed3dffa4ef1db01204eff5e7dad727fa542b46546f67daf5adc",
+      "publishedAtLabel": "Apr 9"
+    },
+    {
+      "id": 20211,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "ZEIT ONLINE: Gesundheit - Johannes S\u00fc\u00dfmann",
+      "title": "H5N1: Dreij\u00e4hrige stirbt in Mexiko an der Vogelgrippe",
+      "description": "Wenige Monate nach einem Todesfall in den USA ist im Nachbarland Mexiko erstmals ein Mensch an H5N1 gestorben. Das Risiko weiterer Infektionen ist laut Beh\u00f6rden gering.",
+      "url": "https://www.zeit.de/gesundheit/2025-04/vogelgrippe-mexiko-totes-maedchen-h5n1-virus",
+      "urlToImage": "https://img.zeit.de/gesundheit/2025-04/vogelgrippe-h5n1-mexiko/wide__1300x731",
+      "publishedAt": "2025-04-09 00:20:09",
+      "content": "In Mexiko ist erstmals ein Mensch nach einer Infektion mit dem Vogelgrippe-Virus H5N1 gestorben. Es handele sich um ein dreij\u00e4hriges M\u00e4dchen, das seit Freitag in einem Krankenhaus behandelt worden wa\u2026 [+1390 chars]",
+      "retrievedAt": "2025-04-10 07:07:37.404037",
+      "internal_id": "a9a246c871dc99f0cbd5a7a15f1279f0d3a0ea336709f1b9f23649a0782d8c07",
+      "publishedAtLabel": "Apr 9"
+    },
+    {
+      "id": 20212,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "tagesschau.de",
+      "author": null,
+      "title": "Dreij\u00e4hrige stirbt in Mexiko nach Vogelgrippe-Infektion",
+      "description": "In Mexiko ist erstmals ein Mensch nach Infektion mit dem Vogelgrippe-Virus H5N1 gestorben. Ein dreij\u00e4hriges M\u00e4dchen kam Ende vergangener Woche ins Krankenhaus und erlag nun Atemwegskomplikationen.",
+      "url": "https://www.tagesschau.de/ausland/amerika/mexiko-vogelgrippe-todesfall-100.html",
+      "urlToImage": "https://images.tagesschau.de/image/747ec94f-37e5-491a-9b98-9e64d61855d1/AAABlhe5pkU/AAABkZLhkrw/16x9-1280/vogelgrippe-h5n1-100.jpg",
+      "publishedAt": "2025-04-08 23:26:43",
+      "content": "Stand: 09.04.2025 01:26 Uhr In Mexiko ist erstmals ein Mensch nach Infektion mit dem Vogelgrippe-Virus H5N1 gestorben. Ein dreij\u00e4hriges M\u00e4dchen kam Ende vergangener Woche ins Krankenhaus und erlag n\u2026 [+1523 chars]",
+      "retrievedAt": "2025-04-10 07:07:37.412685",
+      "internal_id": "3f1921b47488234dd5e58d1e596d14b48d323e14ff29ba64ab7786390187684f",
+      "publishedAtLabel": "Apr 8"
+    },
+    {
+      "id": 20209,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "FOX 31 Denver",
+      "author": "Heather Willard",
+      "title": "3rd measles case confirmed in Colorado; here\u2019s where you could have been exposed",
+      "description": "A third case of measles has been confirmed in Pagosa Springs, which is part of Archuleta County, the day after the second case was confirmed.",
+      "url": "https://kdvr.com/news/health/3rd-measles-case-confirmed-in-colorado-heres-where-you-could-have-been-exposed/",
+      "urlToImage": "https://media.zenfs.com/en/kdvr_denver_articles_499/19dbbf625358da12a92bc77e416e2ca5",
+      "publishedAt": "2025-04-08 22:57:20",
+      "content": "DENVER (KDVR) A third case of measles was confirmed in Pagosa Springs, which is part of Archuleta County, the day after the second case was confirmed. The Colorado Department of Public Health and En\u2026 [+3824 chars]",
+      "retrievedAt": "2025-04-10 07:07:36.323021",
+      "internal_id": "d68ea463e1267da7588b914dab2dcf49e2163a5bbd4af074d1b3f3776965aee8",
+      "publishedAtLabel": "Apr 8"
+    },
+    {
+      "id": 20214,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "abc-news-au",
+      "source_name": "ABC News (AU)",
+      "author": "Yiying Li",
+      "title": "Mexico reports first human death from H5N1 bird flu",
+      "description": "The three-year-old girl was hospitalised with respiratory complications and later died from multiple organ failures. However, it remains unknown how she contracted bird flu.",
+      "url": "https://www.abc.net.au/news/2025-04-09/first-human-death-from-bird-flu-in-mexico/105154358",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/bdeff9e13576312d86c82067e111c3c5?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485&imformat=generic",
+      "publishedAt": "2025-04-08 22:15:05",
+      "content": "Mexico has recorded its first human death from H5N1 avian influenza a three-year-old girl who died of multiple organ failures. The country's health ministry said the girl from the northern state of \u2026 [+2696 chars]",
+      "retrievedAt": "2025-04-10 07:07:37.442227",
+      "internal_id": "101cfb105831142c39314463b2187018524a5859bc08892fbe4328d2f11b6a92",
+      "publishedAtLabel": "Apr 8"
+    },
+    {
+      "id": 20234,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Nikkeibp.co.jp",
+      "author": "BTO",
+      "title": "\u30b0\u30ed\u30fc\u30d0\u30eb\u30d5\u30a1\u30f3\u30c9\u4e8b\u52d9\u5c40\u9577\u306b\u805e\u304f\u3001\u300c\u30b0\u30ed\u30fc\u30d0\u30eb\u30d8\u30eb\u30b9\u306e\u6d3b\u52d5\u3082\u52b9\u7387\u91cd\u8996\u300d",
+      "description": "\u4e16\u754c\u30a8\u30a4\u30ba\u30fb\u7d50\u6838\u30fb\u30de\u30e9\u30ea\u30a2\u5bfe\u7b56\u57fa\u91d1\uff08The Global Fund to Fight AIDS, Tuberculosis and Malaria\u3001\u4ee5\u4e0b\u30b0\u30ed\u30fc\u30d0\u30eb\u30d5\u30a1\u30f3\u30c9\uff09\u306f\u3001\u30a8\u30a4\u30ba\u3001\u7d50\u6838\u3001\u30de\u30e9\u30ea\u30a2\u3068\u3044\u3046\u4e09\u5927\u611f\u67d3\u75c7\u5bfe\u7b56\u306b\u8cc7\u91d1\u3092\u63d0\u4f9b\u3059\u308b\u7d44\u7e54\u3068\u3057\u30662002\u5e74\u306b\u30b9\u30a4\u30b9\u3067\u8a2d\u7acb\u3055\u308c\u305f\u5b98\u6c11\u9023\u643a\u306e\u57fa\u91d1\u3060\u3002\u5404\u56fd\u306e\u653f\u5e9c\u3068\u3001Bill \uff06 Melinda Gates Foundation\u306a\u3069\u306e\u6c11\u9593\u8ca1\u56e3\u3001\u6c11\u9593\u4f01\u696d\u306a\u3069\u304b\u3089\u8cc7\u91d1\u3092\u8abf\u9054\u3057\u3001100\u4ee5\u4e0a\u306e\u56fd\u30fb\u5730\u57df\u304c\u884c\u3046\u4e88\u9632\u3084\u6cbb\u7642\u306a\u3069\u306e\u5bfe\u7b56\u3084\u3001\u4fdd\u5065\u30b7\u30b9\u30c6\u30e0\u5f37\u5316\u306a\u3069\u306e\u53d6\u308a\u7d44\u307f\u306b\u5e74\u9593\u7d0440\u5104\u30c9\u30eb\u306e\u8cc7\u91d1\u2026",
+      "url": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/04/03/13157/",
+      "urlToImage": "https://bio.nikkeibp.co.jp/atcl/news/p1/25/04/03/13157/globalfundsands.jpg",
+      "publishedAt": "2025-04-08 22:00:00",
+      "content": "The Global Fund to Fight AIDS, Tuberculosis and Malaria2002Bill Melinda Gates Foundation1004020236500202220611492024820253Peter Sands",
+      "retrievedAt": "2025-04-10 07:07:39.251770",
+      "internal_id": "ad86c2a3b0681d064ffdfa77fe476c4072e5c9f3505f81eae697e341435ba7c1",
+      "publishedAtLabel": "Apr 8"
+    },
+    {
+      "id": 20219,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Excelsior.com.mx",
+      "author": "eridani.salazar",
+      "title": "No hay riesgo de que M\u00e9xico padezca situaci\u00f3n de gripe aviar como en Asia: IMSS",
+      "description": "Ximena Mej\u00eda El director general del IMSS, Zo\u00e9 Robledo, asegur\u00f3 que tras el fallecimiento de una ni\u00f1a de tres a\u00f1os por influenza aviar A (H5N1), no hay m\u00e1s riegos de contagios, ni una alerta de riesgo, mucho menos que M\u00e9xico pueda vivir una emergencia sanita\u2026",
+      "url": "https://www.excelsior.com.mx/nacional/gripe-aviar-mexico-situacion-imss-riesgo-asia/1709588",
+      "urlToImage": "https://www.excelsior.com.mx/media/pictures/2025/04/08/3287679.jpg",
+      "publishedAt": "2025-04-08 21:55:20",
+      "content": "El director general del IMSS, Zo\u00e9 Robledo, asegur\u00f3 que tras el fallecimiento de una ni\u00f1a de tres a\u00f1os por influenza aviar A (H5N1), no hay m\u00e1s riegos de contagios, ni una alerta de riesgo, mucho meno\u2026 [+1225 chars]",
+      "retrievedAt": "2025-04-10 07:07:37.577931",
+      "internal_id": "61e238c63f24c00301b5d3680d38a8dbe2a438b3d46d1c28459b5a6ae01f3464",
+      "publishedAtLabel": "Apr 8"
+    },
+    {
+      "id": 20210,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Noah Caldwell",
+      "title": "What will it take to get measles under control",
+      "description": "NPR's Ari Shapiro speaks with Caitlin Rivers of Johns Hopkins Bloomberg School of Public Health about long-term implications of measles outbreaks in West Texas, New Mexico and a dozen other states.",
+      "url": "https://www.npr.org/2025/04/08/nx-s1-5355878/what-will-it-take-to-get-measles-under-control",
+      "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+      "publishedAt": "2025-04-08 21:39:52",
+      "content": "NPR's Ari Shapiro speaks with Caitlin Rivers of Johns Hopkins Bloomberg School of Public Health about long-term implications of measles outbreaks in West Texas, New Mexico and a dozen other states.",
+      "retrievedAt": "2025-04-10 07:07:36.397595",
+      "internal_id": "d219c9c0c735955862319148d51306398a69dd687946b666c8e8738a4609df1d",
+      "publishedAtLabel": "Apr 8"
+    },
+    {
+      "id": 20233,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Porto Alegre 24 horas",
+      "title": "MPRS articula iniciativas para o enfrentamento do aumento dos casos de dengue em Porto Alegre",
+      "description": "O foco do encontro, ocorrido na sede do MPRS, foi discutir possibilidades de atua\u00e7\u00e3o conjunta para o enfrentamento da quest\u00e3o.",
+      "url": "https://www.terra.com.br/noticias/mprs-articula-iniciativas-para-o-enfrentamento-do-aumento-dos-casos-de-dengue-em-porto-alegre,d90085ae3aedd5a6a7710c06db06b14bnnmilsz1.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/04/08/1424294408-dengue-zika-chikungunya-fever-mosquito-aedes-aegypti-bitting-human-skin-drinking-blood.jpg",
+      "publishedAt": "2025-04-08 21:35:51",
+      "content": "Tendo em vista o aumento expressivo de casos de dengue em Porto Alegre, o Minist\u00e9rio P\u00fablico do Rio Grande do Sul (MPRS), por meio do Centro de Apoio Operacional de Defesa do Meio Ambiente (CAOMA), s\u2026 [+1936 chars]",
+      "retrievedAt": "2025-04-10 07:07:38.217755",
+      "internal_id": "ee03c23ea903a7b0f7865637e08e3047f7ebde116f7b813b97e9c6a1d5dd4d47",
+      "publishedAtLabel": "Apr 8"
+    },
+    {
+      "id": 20204,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "Mary Kekatos",
+      "title": "RFK Jr. claims curve is flattening in Texas measles outbreak. Does the data agree?",
+      "description": "HHS Secretary Robert F. Kennedy Jr. said the curve is flattening in the measles outbreak in Texas. Public health experts say that's not what the data shows.",
+      "url": "https://abcnews.go.com/Health/rfk-jr-claims-curve-flattening-texas-measles-outbreak/story?id=120554374",
+      "urlToImage": "https://i.abcnewsfe.com/a/603bc06c-98da-48a6-be59-d32f3e590fc2/Measles-1-ap-er-250407_1744044230818_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2025-04-08 21:13:54",
+      "content": "Health and Human Services Secretary Robert F. Kennedy Jr. seemed to imply in recent days that the measles outbreak in western Texas was slowing down. In a post on X on Sunday, Kennedy remarked on th\u2026 [+7123 chars]",
+      "retrievedAt": "2025-04-10 07:07:36.139745",
+      "internal_id": "c3870d20e8ce54cf8127475a042750f6548ab38c3409e5d03679069d9ad76003",
+      "publishedAtLabel": "Apr 8"
+    },
+    {
+      "id": 20229,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Francetvinfo.fr",
+      "author": null,
+      "title": "Au Mexique, une petite fille est morte apr\u00e8s avoir contract\u00e9 la grippe aviaire H5N1, le premier et seul cas de d\u00e9c\u00e8s li\u00e9 au virus dans le pays",
+      "description": "Deux d\u00e9c\u00e8s li\u00e9s au virus H5N1 ont \u00e9t\u00e9 rapport\u00e9s au Cambodge cette ann\u00e9e. Les \u00c9tats-Unis ont signal\u00e9 un d\u00e9c\u00e8s en janvier. L'infection chez l'humain peut entra\u00eener une maladie grave avec un haut taux de mortalit\u00e9, selon l'OMS.",
+      "url": "https://www.francetvinfo.fr/sante/maladie/grippe-aviaire/au-mexique-une-petite-fille-est-morte-apres-avoir-contracte-la-grippe-aviaire-h5n1-le-premier-et-seul-cas-de-deces-lie-au-virus-dans-le-pays_7178532.html",
+      "urlToImage": "https://www.francetvinfo.fr/pictures/5mfZSnVxfbx9w8vETOukwbEGhSE/0x395:5811x3662/1500x843/2025/04/08/000-34vp66j-67f58e1c85873149634049.jpg",
+      "publishedAt": "2025-04-08 21:04:36",
+      "content": "Un premier cas de d\u00e9c\u00e8s par grippe aviaire H5N1 a \u00e9t\u00e9 rapport\u00e9 mardi 8 avril au Mexique, ont annonc\u00e9 les autorit\u00e9s sanitaires r\u00e9gionales. Il s'agit d'une petite fille de trois ans d\u00e9c\u00e9d\u00e9e dans l'Etat\u2026 [+1085 chars]",
+      "retrievedAt": "2025-04-10 07:07:37.718579",
+      "internal_id": "16c25f85d664abce758d3254783888e83227902d521f2a9268e3e2f90712e7ca",
+      "publishedAtLabel": "Apr 8"
+    },
+    {
+      "id": 20230,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "M\u00e9xico registra primeira morte humana pelo v\u00edrus H5N1",
+      "description": "OMS diz que os casos humanos detectados at\u00e9 agora est\u00e3o, em sua maioria, ligados a pessoas que tiveram contato pr\u00f3ximo com aves e outros animais infectados, ou com ambientes contaminados",
+      "url": "https://valor.globo.com/mundo/noticia/2025/04/08/mxico-registra-primeira-morte-humana-pelo-vrus-h5n1.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/D5xeeErVOeB3lV0hXHMpq297bdc=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2023/g/e/HW0IGKQFOmYiJX1Y7FWA/foto05agr-201-gripe-b12.jpg",
+      "publishedAt": "2025-04-08 20:57:55",
+      "content": "O M\u00e9xico registrou, nesta ter\u00e7a-feira (8), a primeira morte humana do v\u00edrus da gripe avi\u00e1ria H5N1. Uma menina de tr\u00eas anos faleceu devido a complica\u00e7\u00f5es da doen\u00e7a, segundo autoridades de sa\u00fade mexica\u2026 [+828 chars]",
+      "retrievedAt": "2025-04-10 07:07:37.726775",
+      "internal_id": "bafb08febabcb98f08820b8a65444cb67b47785aae983414aaf1c00d7acf6174",
+      "publishedAtLabel": "Apr 8"
+    },
+    {
+      "id": 20208,
+      "query": [
+        "measles"
+      ],
+      "source_id": "msnbc",
+      "source_name": "MSNBC",
+      "author": "Rachel Maddow",
+      "title": "Kennedy sends mixed messages amid measles outbreak",
+      "description": "After Robert F. Kennedy Jr. spread mixed messages about measles and vaccines, Rachel Maddow shares a dire warning from a doctor about the outbreak.",
+      "url": "https://www.msnbc.com/rachel-maddow-show/maddowblog/rfk-jr-measles-texas-death-anti-vaccine-doctors-rcna200263",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-04/250408-Maddow-RFK-aa-240-f2b175.jpg",
+      "publishedAt": "2025-04-08 20:31:30",
+      "content": "This is an adapted excerpt from the April 7 episode of The Rachel Maddow Show. On Saturday, thousands across the country took to the streets to protest the actions of the Trump administration. Among\u2026 [+3255 chars]",
+      "retrievedAt": "2025-04-10 07:07:36.294931",
+      "internal_id": "c636194bf84c105a3adba8c194d103d84ba14e2e6795a61d69697b90ffaf5c4b",
+      "publishedAtLabel": "Apr 8"
+    },
+    {
+      "id": 20206,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Antonio Peque\u00f1o IV, Forbes Staff, \n Antonio Peque\u00f1o IV, Forbes Staff\n https://www.forbes.com/sites/antoniopequenoiv/",
+      "title": "Measles Cases Exceed 500 In Texas After Second Child Dies Of Illness",
+      "description": "Texas remains the state with the highest number of cases, by far.",
+      "url": "https://www.forbes.com/sites/antoniopequenoiv/2025/04/08/measles-outbreak-second-child-dies-in-texas-as-more-than-600-cases-confirmed-nationwide/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67b8dc34f003eb75b733dff5/0x0.jpg?format=jpg&crop=3039,2027,x0,y0,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-04-08 20:31:04",
+      "content": "The number of measles cases exceeded 500 in Texas on Tuesday, according to the states health department, which made the update days after a second Texas child died after contracting the highly contag\u2026 [+7279 chars]",
+      "retrievedAt": "2025-04-10 07:07:36.198821",
+      "internal_id": "115b727baf481705cd3ef7f34178f719e19e955022da7ee0475a21811fb981e2",
+      "publishedAtLabel": "Apr 8"
+    },
+    {
+      "id": 20228,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Peru21.pe",
+      "author": "Andr\u00e9s Roma\u00f1a",
+      "title": "Muri\u00f3 ni\u00f1a reportada como el primer caso de gripe aviar H5N1 en M\u00e9xico",
+      "description": "Una ni\u00f1a de tres a\u00f1os muri\u00f3 este martes contagiada con la gripe aviar H5N1 en M\u00e9xico. El deceso se produjo en el estado norte\u00f1o de Coahuila",
+      "url": "https://peru21.pe/mundo/mexico-murio-nina-reportada-como-el-primer-caso-de-gripe-aviar-h5n1/",
+      "urlToImage": "http://peru21.pe/sites/default/efsfiles/styles/amp_1200x675_16_9/public/2025-04/gripe-aviar-mexico.jpg?itok=q2gGZdAH",
+      "publishedAt": "2025-04-08 20:17:19",
+      "content": "Una ni\u00f1a de tres a\u00f1os muri\u00f3 este martes tras ser contagiada por la gripe aviar H5N1 en M\u00e9xico. El deceso se produjo en el estado norte\u00f1o de Coahuila, siendo el primer caso en humanos. La menor falle\u2026 [+1320 chars]",
+      "retrievedAt": "2025-04-10 07:07:37.710499",
+      "internal_id": "ccf4b94373b2a843d677ea66887fc5ec723b4982a7af9cdb9388fa4903d54f5a",
+      "publishedAtLabel": "Apr 8"
+    },
+    {
+      "id": 20226,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Interia.pl",
+      "author": "Adrianna Rymaszewska",
+      "title": "Gro\u017any wirus zbiera \u017cniwo. Ofiar\u0105 trzyletnia dziewczynka",
+      "description": "Trzylatka pierwsz\u0105 ofiar\u0105 \u015bmierteln\u0105 wirusa H5N1 w Meksyku. Dziewczynka, kt\u00f3r\u0105 zdiagnozowano zaledwie przed tygodniem, zmar\u0142a we wtorek z powodu wielonarz\u0105dowej niewydolno\u015bci. Jak dot\u0105d by\u0142 to jedyny odnotowany przypadek zachorowania na ptasi\u0105 gryp\u0119 w tym kra\u2026",
+      "url": "https://wydarzenia.interia.pl/zagranica/news-grozny-wirus-zbiera-zniwo-ofiara-trzyletnia-dziewczynka,nId,21394272",
+      "urlToImage": "https://i.iplsc.com/-/000KVGKBUAVIYDVC-C461.jpg",
+      "publishedAt": "2025-04-08 20:12:43",
+      "content": "Wirusa H5N1 potwierdzono u trzyletniej dziewczynki z p\u00f3nocnego stanu Coahuila w Meksyku 1 kwietnia. Tydzie p\u00f3niej nadeszy dramatyczne wieci o zgonie pacjentki. Meksyk. Pierwsza ofiara wirusa H5N1\u2026 [+2337 chars]",
+      "retrievedAt": "2025-04-10 07:07:37.694539",
+      "internal_id": "b987be06941878ed190e9087cdeecbc6cad469ec2e74d04d97d34c05136b47b8",
+      "publishedAtLabel": "Apr 8"
+    },
+    {
+      "id": 20227,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Interia.pl",
+      "author": "Adrianna Rymaszewska",
+      "title": "Gro\u017any wirus zbiera \u017cniwo. Choroba nie oszcz\u0119dza najm\u0142odszych",
+      "description": "Trzylatka pierwsz\u0105 ofiar\u0105 \u015bmierteln\u0105 wirusa H5N1 w Meksyku. Dziewczynka, kt\u00f3r\u0105 zdiagnozowano zaledwie przed tygodniem, zmar\u0142a we wtorek z powodu wielonarz\u0105dowej niewydolno\u015bci. Jak dot\u0105d by\u0142 to jedyny odnotowany przypadek zachorowania na ptasi\u0105 gryp\u0119 w tym kra\u2026",
+      "url": "https://wydarzenia.interia.pl/zagranica/news-grozny-wirus-zbiera-zniwo-choroba-nie-oszczedza-najmlodszych,nId,21394272",
+      "urlToImage": "https://i.iplsc.com/-/000KVGKBUAVIYDVC-C461.jpg",
+      "publishedAt": "2025-04-08 20:12:43",
+      "content": "Wirusa H5N1 potwierdzono u trzyletniej dziewczynki z p\u00f3nocnego stanu Coahuila w Meksyku 1 kwietnia. Tydzie p\u00f3niej nadeszy dramatyczne wieci o zgonie pacjentki. Meksyk. Pierwsza ofiara wirusa H5N1. \u2026 [+2335 chars]",
+      "retrievedAt": "2025-04-10 07:07:37.702316",
+      "internal_id": "5bd860c0a57132d2d98ec5fc11ebdff50688636c1a0cc5d85f0c8b37739b3dc6",
+      "publishedAtLabel": "Apr 8"
+    },
+    {
+      "id": 20218,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "le-monde",
+      "source_name": "Le Monde",
+      "author": "Le Monde avec AFP",
+      "title": "Au Mexique, une fille de 3 ans meurt de la grippe aviaire H5N1",
+      "description": "\u00ab Personne n\u2019a \u00e9t\u00e9 test\u00e9 positif \u00bb au virus dans l\u2019entourage et parmi le personnel m\u00e9dical ayant \u00e9t\u00e9 en contact avec la fillette, a-t-il confirm\u00e9, tout en pr\u00e9cisant qu\u2019aucun autre cas suspect\u00e9 de grippe aviaire n\u2019avait \u00e9t\u00e9 d\u00e9tect\u00e9 dans le pays.",
+      "url": "https://www.lemonde.fr/international/article/2025/04/08/au-mexique-une-fille-de-3-ans-meurt-de-la-grippe-aviaire-h5n1_6592814_3210.html",
+      "urlToImage": "https://img.lemde.fr/2024/05/22/0/0/3336/2224/1440/960/60/0/80dcae1_bced3f32ca87497bac0f5332201eda34-0-f1d64479e5f04b89a4558721b947243f.jpg",
+      "publishedAt": "2025-04-08 20:11:17",
+      "content": "Virion de la grippe aviaire H5N1 vu au microscope \u00e9lectronique, en 2005. CYNTHIA GOLDSMITH, JACKIE KATZ/CDC VIA AP Un premier cas de mort par grippe aviaire H5N1 a \u00e9t\u00e9 rapport\u00e9 au Mexique, mardi 8 a\u2026 [+1639 chars]",
+      "retrievedAt": "2025-04-10 07:07:37.549419",
+      "internal_id": "ecded1e6378634b3710975d2ae7f12d56b2d93be7cd2f34507d678fbd962d3ff",
+      "publishedAtLabel": "Apr 8"
+    },
+    {
+      "id": 20215,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Pravda.sk",
+      "author": "TASR",
+      "title": "Mexiko zaznamenalo prv\u00e9 \u00famrtie \u010dloveka na vt\u00e1\u010diu chr\u00edpku H5N1. Obe\u0165ou je iba trojro\u010dn\u00e9 diev\u010datko",
+      "description": "Pod\u013ea Svetovej zdravotn\u00edckej organiz\u00e1cie m\u00f4\u017ee infekcia u \u013eud\u00ed sp\u00f4sobi\u0165 v\u00e1\u017ene ochorenie s vysokou mierou \u00famrtnosti.",
+      "url": "https://spravy.pravda.sk/svet/clanok/747691-mexiko-zaznamenalo-prve-umrtie-cloveka-na-vtaciu-chripku-h5n1-obetou-je-iba-trojrocne-dievcatko/",
+      "urlToImage": "http://ipravda.sk/res/2019/05/18/thumbs/mexiko-clanokW.jpg",
+      "publishedAt": "2025-04-08 20:10:00",
+      "content": "V Mexiku zomrel prv\u00fd lovek po infikovan\u00ed podtypom v\u00edrusu vt\u00e1ej chr\u00edpky H5N1. Miestne \u00farady ozn\u00e1mili, e obeou je trojron\u00e9 dieva zo severomexick\u00e9ho t\u00e1tu Coahuila, uviedla agent\u00fara AFP a Reuters.Monitor\u2026 [+1186 chars]",
+      "retrievedAt": "2025-04-10 07:07:37.517225",
+      "internal_id": "5d6500040e992e5138d27a8bf3d8c09ab467b37bc42c1a5858186a37ed4dc077",
+      "publishedAtLabel": "Apr 8"
+    },
+    {
+      "id": 20222,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Lavenir.net",
+      "author": "Belga Belga",
+      "title": "Premier d\u00e9c\u00e8s d\u2019un cas humain de grippe aviaire H5N1 au Mexique : il s\u2019agit d\u2019une petite fille de 3 ans",
+      "description": "L\u2019infection chez l\u2019humain peut entra\u00eener une maladie grave avec un haut taux de mortalit\u00e9, selon l\u2019Organisation mondiale de la sant\u00e9 (OMS). ...",
+      "url": "https://www.lavenir.net/actu/monde/2025/04/08/premier-deces-dun-cas-humain-de-grippe-aviaire-h5n1-au-mexique-il-sagit-dune-petite-fille-de-3-ans-GS3W3L7LEBBTJJCFXMFAJKR5NM/",
+      "urlToImage": "https://www.lavenir.net/resizer/v2/2KL6GRZ6DRFVDFBZKFTECDV5HE.jpg?auth=537434522e9276f4a605a814a6418e393b0cc9e034e7abce6ffbf4c4928daa13&width=1200&height=630&quality=85&focal=1414%2C912&watermark=https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Fipmgroup%2FUVYY255VT5BDBHOGCTGBCGI364.png%3A100%3A0%2C558",
+      "publishedAt": "2025-04-08 19:55:38",
+      "content": "Deux d\u00e9c\u00e8s li\u00e9s au virus H5N1 ont \u00e9t\u00e9 rapport\u00e9s au Cambodge cette ann\u00e9e. Les \u00c9tats-Unis ont signal\u00e9 un d\u00e9c\u00e8s en janvier. L'infection chez l'humain peut entra\u00eener une maladie grave avec un haut taux \u2026 [+730 chars]",
+      "retrievedAt": "2025-04-10 07:07:37.602037",
+      "internal_id": "05df0a862d5e76137e28b0c9315976c6bce7f14ec7e77b3f4910c8690b5bd9ee",
+      "publishedAtLabel": "Apr 8"
+    },
+    {
+      "id": 20216,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Www.is.fi",
+      "author": "Kaisla Kuuskoski",
+      "title": "Kolme\u00advuotias kuoli lintu\u00adinfluenssaan",
+      "description": "Tytt\u00f6 oli Meksikossa ensimm\u00e4inen lintuinfluenssan kuolonuhri.",
+      "url": "https://www.is.fi/ulkomaat/art-2000011155834.html",
+      "urlToImage": "https://images.sanoma-sndp.fi/eb4b8cdfd04fc47ec39e9aa654030d07/some/is-default.jpg",
+      "publishedAt": "2025-04-08 19:55:00",
+      "content": "Tytt\u00f6 oli Meksikossa ensimm\u00e4inen lintuinfluenssan kuolonuhri.Kolmevuotias lapsi kuoli tiistaina lintuinfluenssa H5N1:een Meksikossa, kertoo uutistoimisto Reuters. Tytt\u00f6 oli Meksikossa ensimm\u00e4inen lin\u2026 [+510 chars]",
+      "retrievedAt": "2025-04-10 07:07:37.532039",
+      "internal_id": "b1633ff55198cd1101b81171fbe8738743d0d4740eb98d2f5c08f976c3c40245",
+      "publishedAtLabel": "Apr 8"
+    },
+    {
+      "id": 20205,
+      "query": [
+        "measles"
+      ],
+      "source_id": "time",
+      "source_name": "Time",
+      "author": "REBECCA BOONE and DAVID A. LIEB / AP",
+      "title": "Idaho Cuts Public Health Benefits for Undocumented Immigrants",
+      "description": "The restrictions on public benefits are part of a broader effort in Republican-led states to support Trump's crackdown on immigration.",
+      "url": "https://time.com/7275849/idaho-ends-publicly-funded-vaccinations-for-undocumented-immigrants/",
+      "urlToImage": "https://api.time.com/wp-content/uploads/2025/04/idaho-law-ends-publicly-funded-vaccines-undocumented-immigrants.jpg?quality=85&w=1024&h=628&crop=1",
+      "publishedAt": "2025-04-08 19:41:40",
+      "content": "BOISE, Idaho As a measles outbreak spreads through other states, Idaho is ending publicly funded vaccinations for people living in the U.S. illegally. A new law recently signed by Republican Gov. Br\u2026 [+4375 chars]",
+      "retrievedAt": "2025-04-10 07:07:36.182851",
+      "internal_id": "8f042d9a0eacf85d7f0182f2bce71a10a461e6861957589cd740be668106ccaf",
+      "publishedAtLabel": "Apr 8"
+    },
+    {
+      "id": 20232,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Paula Felix",
+      "title": "Dengue: Minist\u00e9rio da Sa\u00fade intensifica a\u00e7\u00f5es em 7 estados; SP lidera em casos",
+      "description": "Medidas ser\u00e3o direcionadas para 80 munic\u00edpios com objetivo evitar casos graves e mortes pela doen\u00e7a causada pelo Aedes aegypti",
+      "url": "https://veja.abril.com.br/saude/dengue-ministerio-da-saude-intensifica-acoes-em-7-estados-sp-lidera-em-casos/",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2019/05/mundo-dengue-aedes-aegypti-20110116-009.jpg?quality=70&strip=info&crop=1&resize=1080,565",
+      "publishedAt": "2025-04-08 19:30:42",
+      "content": "Rel\u00e2mpago: Assine Digital Completo por 2,99VETOR - Aedes aegypti: mosquito transmissor da dengue (Joao Paulo Burini/Getty Images) Continua ap\u00f3s publicidade O Minist\u00e9rio da Sa\u00fade anunciou nesta ter\u00e7\u2026 [+6749 chars]",
+      "retrievedAt": "2025-04-10 07:07:38.208280",
+      "internal_id": "460e07063bb48121d4a4039f9f0fb4ffb8ba155b4b1bfb68d8061d82ec61b402",
+      "publishedAtLabel": "Apr 8"
+    },
+    {
+      "id": 20223,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Milenio",
+      "author": "Mauricio Ortiz",
+      "title": "\u00bfHay riesgo de contagio de gripe aviar tras la muerte de una ni\u00f1a en Coahuila? Esto dice la Ssa",
+      "description": "La reciente muerte de una ni\u00f1a de tres a\u00f1os diagnosticada con influenza aviar H5N1 encendi\u00f3 las alertas sanitarias en M\u00e9xico, al tratarse del primer caso humano confirmado de este virus en el pa\u00eds.Ante la inquietud generada por este hecho, la Secretar\u00eda de Sa\u2026",
+      "url": "https://www.milenio.com/ciencia-y-salud/hay-riesgo-de-contagio-de-aviar-tras-la-muerte-de-menor-en-coahuila",
+      "urlToImage": "https://cdn.milenio.com/uploads/media/2025/04/08/caso-confirmado-gripe-aviar-mexico.jpg",
+      "publishedAt": "2025-04-08 19:27:27",
+      "content": "La reciente muerte de una ni\u00f1a de tres a\u00f1osdiagnosticada con influenza aviar H5N1 encendi\u00f3 las alertas sanitarias en M\u00e9xico, al tratarse del primer caso humano confirmado de este virus en el pa\u00eds. \u2026 [+4279 chars]",
+      "retrievedAt": "2025-04-10 07:07:37.616397",
+      "internal_id": "4a8bbb67ef2e67190e9815d97d669d8907d4a09cb9ecc4ec6202a62c3bb296f0",
+      "publishedAtLabel": "Apr 8"
+    },
+    {
+      "id": 20221,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "AFP, AFP",
+      "title": "Crian\u00e7a \u00e9 primeira v\u00edtima fatal de gripe avi\u00e1ria H5N1 reportada no M\u00e9xico",
+      "description": "Uma crian\u00e7a de tr\u00eas anos, infectada com a gripe avi\u00e1ria H5N1, morreu no estado mexicano de Coahuila (norte), informou a autoridade...",
+      "url": "https://ultimosegundo.ig.com.br/afp/2025-04-08/crianca-e-primeira-vitima-fatal-de-gripe-aviaria-h5n1-reportada-no-mexico.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/1j/tw/rx/1jtwrxqocyshiqtk8vw9vyqa4.jpg",
+      "publishedAt": "2025-04-08 19:19:01",
+      "content": "HANDOUTUma crian\u00e7a de tr\u00eas anos, infectada com a gripe avi\u00e1ria H5N1, morreu no estado mexicano de Coahuila (norte), informou a autoridade sanit\u00e1ria regional nesta ter\u00e7a-feira (8). Seu caso foi o pri\u2026 [+1118 chars]",
+      "retrievedAt": "2025-04-10 07:07:37.593672",
+      "internal_id": "e00ba737233dd180c0633e0b7bab14492a659845f06242bc87dd85e2d21107d8",
+      "publishedAtLabel": "Apr 8"
+    },
+    {
+      "id": 20217,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Mediafax.ro",
+      "author": "Iris Dutescu",
+      "title": "O feti\u021b\u0103 de 3 ani a murit din cauza gripei aviare H5N1 \u00een Mexic",
+      "description": "Mediafax Primul caz de deces din cauza gripei aviare H5N1 a fost \u00eenregistrat mar\u021bi \u00een Mexic, la o feti\u021b\u0103 de trei ani, au anun\u021bat autorit\u0103\u021bile sanitare regionale, citate de AFP. Articolul O feti\u021b\u0103 de 3 ani a murit din cauza gripei aviare H5N1 \u00een Mexic apare pr\u2026",
+      "url": "https://www.mediafax.ro/externe/o-fetita-de-3-ani-a-murit-din-cauza-gripei-aviare-h5n1-in-mexic-23538202",
+      "urlToImage": "https://www.mediafax.ro/wp-content/uploads/2025/04/8021207-hepta_mediafax_foto-anadolu_agency_hepta-scaled.jpg",
+      "publishedAt": "2025-04-08 19:11:50",
+      "content": "O feti \u00een v\u00e2rst de trei ani din statul nordic Coahuila a murit mari din cauza gripei aviare H5N1, au declarat acestea. Ea a fost primul i singurul caz raportat de grip aviar la om \u00een Mexic. Copilul \u2026 [+445 chars]",
+      "retrievedAt": "2025-04-10 07:07:37.540657",
+      "internal_id": "89a6b800ee8d26ede6191d957c47d5ad038e256efd1113f59b7f2852d1328f8a",
+      "publishedAtLabel": "Apr 8"
+    },
     {
       "id": 20185,
       "query": [
@@ -29524,6 +30100,169 @@
       "content": "HAYS COUNTY, Texas - The Hays County Health Department was notified about the potential for exposure of residents to a person who tested positive for measles by the Texas Department of State Health S\u2026 [+5021 chars]",
       "retrievedAt": "2025-02-25 07:06:49.969290",
       "internal_id": "56ff93fdd0d5ef93aa591440078e81a48e646d36966a5bced7aa5249f8b8586f",
+      "publishedAtLabel": "Feb 23"
+    },
+    {
+      "id": 18563,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Shtfplan.com",
+      "author": "Mac Slavo",
+      "title": "USDA Confirms Bird Flu In Rats",
+      "description": "The United States Department of Agriculture has confirmed bird flu in rats for the first time. Four black rats were confirmed to have H5N1 avian flu in late January in Riverside County, California, where two recent poultry outbreaks were reported, the agency \u2026",
+      "url": "https://www.shtfplan.com/headline-news/usda-confirms-bird-flu-in-rats",
+      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2018/10/rat-e1538574029384.jpg",
+      "publishedAt": "2025-02-23 18:00:43",
+      "content": "The United States Department of Agriculture has confirmed bird flu in rats for the first time. Four black rats were confirmed to have H5N1 avian flu in late January in Riverside County, California, w\u2026 [+1884 chars]",
+      "retrievedAt": "2025-02-24 19:05:58.636626",
+      "internal_id": "5758414a843098269fd0ccd1367e65442c45bf3884e22c923b4b0e5d21fe260b",
+      "publishedAtLabel": "Feb 23"
+    },
+    {
+      "id": 18561,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Sapo.pt",
+      "author": "Pedro Pinto",
+      "title": "Gripe H5N1 ser\u00e1 a nova amea\u00e7a depois da COVID-19?",
+      "description": "Depois de tudo o que aconteceu com a COVID-19, agora h\u00e1 uma nova amea\u00e7a ao mundo. Falamos da gripe H5N1 e o alerta vem do especialista de Sa\u00fade P\u00fablica Francisco George. gripe H5N1 \u00e9...",
+      "url": "https://pplware.sapo.pt/informacao/gripe-h5n1-sera-a-nova-ameaca-depois-da-covid-19/",
+      "urlToImage": "https://pplware.sapo.pt/wp-content/uploads/2025/02/aves_00.jpg",
+      "publishedAt": "2025-02-23 18:00:37",
+      "content": "Depois de tudo o que aconteceu com a COVID-19, agora h\u00e1 uma nova amea\u00e7a ao mundo. Falamos da gripe H5N1 e o alerta vem do especialista de Sa\u00fade P\u00fablica Francisco George. gripe H5N1 \u00e9 uma doen\u00e7a caus\u2026 [+1048 chars]",
+      "retrievedAt": "2025-02-24 19:05:58.607597",
+      "internal_id": "0147e518f49317af1c4a49310e4889533cea196e756a92fdb732e5a4d5087e97",
+      "publishedAtLabel": "Feb 23"
+    },
+    {
+      "id": 18557,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "CBS News",
+      "title": "Gottlieb \"very concerned\" about Texas measles outbreak: \"I think this will spread\"",
+      "description": "\"I think that this is going to get into the hundreds of cases and could take many months to fully snuff out,\" Dr. Scott Gottlieb, the former commissioner of the FDA, said about the ongoing measles outbreak in Texas and New Mexico.",
+      "url": "https://www.cbsnews.com/video/gottlieb-very-concerned-about-texas-measles-outbreak-i-think-this-will-spread/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/02/23/5e526035-9481-4621-bf08-d0ac3e79eeac/thumbnail/1200x630/45b9ab74d5c7be14ed29fc17283ea3af/0223-ftn-gottlieb.jpg?v=db3d87ba7bf4d4ff13b65eabcf0d9bea",
+      "publishedAt": "2025-02-23 17:05:37",
+      "content": "Watch CBS News Copyright \u00a92025 CBS Interactive Inc. All rights reserved. Get browser notifications for breaking news, live events, and exclusive reporting. Not NowTurn On",
+      "retrievedAt": "2025-02-24 19:05:57.764022",
+      "internal_id": "e97c1b39334d1e049758f992e04404b06380202bdae0db574f1752959d577289",
+      "publishedAtLabel": "Feb 23"
+    },
+    {
+      "id": 18565,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Isegoria.net",
+      "author": "Isegoria",
+      "title": "The medieval house might have been built to specifications approved by a rodent council",
+      "description": "Dozens of rodents carry plague, Ed West notes, but it would only become deadly to humans when Yersinia pestis infected the flea of the black rat (Rattus rattus): Black rats are sedentary homebodies and don\u2019t like to move more than 200 metres from their nests;\u2026",
+      "url": "https://www.isegoria.net/2025/02/the-medieval-house-might-have-been-built-to-specifications-approved-by-a-rodent-council/",
+      "urlToImage": null,
+      "publishedAt": "2025-02-23 15:21:15",
+      "content": "Dozens of rodents carry plague, Ed West notes, but it would only become deadly to humans when Yersinia pestis infected the flea of the black rat (Rattus rattus):Black rats are sedentary homebodies an\u2026 [+5105 chars]",
+      "retrievedAt": "2025-02-24 19:06:00.907982",
+      "internal_id": "f43d41896cd02421069579fd23f492cce0d6bfee23f269db877f1e8958b177ab",
+      "publishedAtLabel": "Feb 23"
+    },
+    {
+      "id": 18559,
+      "query": [
+        "measles",
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Microbe.tv",
+      "author": "Vincent Racaniello",
+      "title": "TWiV 1195: Dickson Despommier, parasitologist without borders",
+      "description": "The entire TWiV team comes together to pay tribute to Dickson Despommier, then reviews antibodies to H5N1 virus in veterinarians working with dairy cattle, Elisabeth Bik donates prize money for data integrity analyses, measles outbreak in Texas, and use of an\u2026",
+      "url": "https://www.microbe.tv/twiv/twiv-1195/",
+      "urlToImage": null,
+      "publishedAt": "2025-02-23 13:56:14",
+      "content": "The entire TWiV team comes together to pay tribute to Dickson Despommier, then reviews antibodies to H5N1 virus in veterinarians working with dairy cattle, Elisabeth Bik donates prize money for data \u2026 [+1028 chars]",
+      "retrievedAt": "2025-02-24 19:05:57.912670",
+      "internal_id": "acb9b8071ea36b307c16fe70fd55bc653a41c88dbabc607fd9da08b6eb209c4a",
+      "publishedAtLabel": "Feb 23"
+    },
+    {
+      "id": 18558,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Ruchika Gupta, Assistant Professor and Medical Microbiologist, Department of Pathobiology and Lab Medicine, LHSC and Schulich School of Medicine and Dentistry, Western University",
+      "title": "Measles: A resurgent threat in Canada",
+      "description": "Measles is a serious disease with potentially severe complications. The current situation in Canada is a public health challenge and a critical moment for awareness and action.",
+      "url": "https://theconversation.com/measles-a-resurgent-threat-in-canada-249932",
+      "urlToImage": "https://images.theconversation.com/files/650549/original/file-20250221-38-ss5xoe.jpg?ixlib=rb-4.1.0&rect=0%2C337%2C1277%2C638&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2025-02-23 13:39:14",
+      "content": "The resurgence of measles in Canada is a stark reminder that we cannot take public health achievements for granted. (CDC and NIAID), CC BY In the landscape of public health, few stories are as compe\u2026 [+6470 chars]",
+      "retrievedAt": "2025-02-24 19:05:57.798110",
+      "internal_id": "e6e83375a38b67c4f8631fda9e5fc03d5baff945b7c6a2eed141a60879e93d95",
+      "publishedAtLabel": "Feb 23"
+    },
+    {
+      "id": 18560,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Meg Tirrell",
+      "title": "\u2018Deadly consequences\u2019: Health agencies reel from thousands of job cuts while critical research grants remain on hold | CNN",
+      "description": "The first month of the Trump administration has brought chaos to US health agencies through mass firings, funding interruptions and communications freezes as the country battles not just the threat of bird flu but a historic measles outbreak centered in West \u2026",
+      "url": "https://www.cnn.com/2025/02/23/health/public-health-job-cuts/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2163381442.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2025-02-23 13:00:47",
+      "content": "A Nobel Prize-winning scientist is still waiting on a crucial research grant from the United States government that was supposed to start weeks ago. A fired public health worker at the US Centers fo\u2026 [+13262 chars]",
+      "retrievedAt": "2025-02-24 19:05:57.973626",
+      "internal_id": "5dd140a409885c885d9f1442b3352fbe3988bf7e4dc4e65c9952447e815106be",
+      "publishedAtLabel": "Feb 23"
+    },
+    {
+      "id": 18562,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Observador.pt",
+      "author": "Ag\u00eancia Lusa",
+      "title": "Francisco George: gripe H5N1 \u00e9 amea\u00e7a de nova epidemia no horizonte",
+      "description": "Francisco George alerta para as \"amea\u00e7as no horizonte\" como a do v\u00edrus da gripe H5N1 e diz, cinco anos ap\u00f3s a pandemia de covid-19, que Portugal est\u00e1 bem preparado.",
+      "url": "https://observador.pt/2025/02/23/francisco-george-gripe-h5n1-e-ameaca-de-nova-epidemia-no-horizonte/",
+      "urlToImage": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1124%3Anowe%3A0%3A104%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2025%2F02%2F23050027%2F44403560.jpg?layer=obstop:T",
+      "publishedAt": "2025-02-23 11:04:29",
+      "content": "Cinco anos ap\u00f3s terem sido confirmados em Portugal os primeiros casos de cont\u00e1gio pelo coronav\u00edrus que causa a covid-19, o especialista de Sa\u00fade P\u00fablica Francisco George alerta para as \u201camea\u00e7as no ho\u2026 [+3759 chars]",
+      "retrievedAt": "2025-02-24 19:05:58.628742",
+      "internal_id": "0122575cc729004fa58660b7e04523a0d5cc7a01f76372666d7cada81a4d9c61",
+      "publishedAtLabel": "Feb 23"
+    },
+    {
+      "id": 18564,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "VOA News",
+      "author": "webdesk@voanews.com (Associated Press)",
+      "title": "Philippine village battles dengue by offering bounties for mosquitos \u2014 dead or alive",
+      "description": "MANILA, PHILIPPINES \u2014 A village in the densely populated Philippine capital region launched a battle against dengue Wednesday by offering a token bounty to residents for captured mosquitos \u2014 dead or alive. The unusual strategy adopted by the Addition Hills \u2026",
+      "url": "https://www.voanews.com/a/philippine-village-battles-dengue-by-offering-bounties-for-mosquitos-dead-or-alive/7984215.html",
+      "urlToImage": "https://gdb.voanews.com/D546047A-6AC0-4ECB-A048-F0ED9FF54AF5.jpg",
+      "publishedAt": "2025-02-23 07:43:32",
+      "content": "MANILA, PHILIPPINES A village in the densely populated Philippine capital region launched a battle against dengue Wednesday by offering a token bounty to residents for captured mosquitos dead or ali\u2026 [+2751 chars]",
+      "retrievedAt": "2025-02-24 19:05:59.091628",
+      "internal_id": "a0fa6d04731aa8d9ff9adab75aadf3414334966da97b6bd8590a534f68c1bca3",
       "publishedAtLabel": "Feb 23"
     }
   ]
