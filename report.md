@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 32
-- **Last harvest:** 2025-04-10 07:07
-- **Most recent article:** 2025-04-09 07:00:13
+- **New articles in last harvest:** 20
+- **Last harvest:** 2025-04-10 19:05
+- **Most recent article:** 2025-04-09 17:53:34
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-10 | 25-11 | 25-12 | 25-13 | 25-14 | 25-15 | 25-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 142 | 133 | 108 | 101 | 77 | 80 | 162 | 803 |
-| h5n1 | 23 | 39 | 57 | 47 | 46 | 48 | 42 | 302 |
+| measles | 142 | 133 | 108 | 101 | 77 | 83 | 158 | 802 |
+| h5n1 | 23 | 39 | 57 | 47 | 46 | 56 | 38 | 306 |
 | malaria | 29 | 22 | 18 | 30 | 13 | 8 | 20 | 140 |
-| dengue | 8 | 12 | 18 | 20 | 14 | 12 | 30 | 114 |
-| mpox | 14 | 15 | 8 | 12 | 17 | 6 | 26 | 98 |
-| chikungunya | 6 | 1 | 17 | 10 | 17 | 10 | 7 | 68 |
-| meningitis | 4 | 9 | 7 | 10 | 6 | 4 | 7 | 47 |
+| dengue | 8 | 12 | 18 | 20 | 14 | 13 | 29 | 114 |
+| mpox | 14 | 15 | 8 | 12 | 17 | 9 | 26 | 101 |
+| chikungunya | 6 | 1 | 17 | 10 | 17 | 13 | 7 | 71 |
+| meningitis | 4 | 9 | 7 | 10 | 6 | 6 | 7 | 49 |
 | rabies | 3 | 8 | 3 | 19 | 7 | 2 | 2 | 44 |
 | hpai | 10 | 3 | 12 | 2 | 4 | 1 | 4 | 36 |
 | typhoid | 3 | 8 | 0 | 1 | 2 | 1 | 4 | 19 |
-| zika | 3 | 0 | 2 | 3 | 4 | 3 | 2 | 17 |
+| zika | 3 | 0 | 2 | 3 | 4 | 4 | 2 | 18 |
 | pertussis | 0 | 5 | 1 | 0 | 7 | 1 | 0 | 14 |
-| yersinia | 1 | 2 | 2 | 3 | 0 | 0 | 1 | 9 |
+| yersinia | 1 | 2 | 2 | 3 | 0 | 0 | 0 | 8 |
 | leptospirosis | 3 | 0 | 1 | 0 | 0 | 0 | 0 | 4 |
 | shigellosis | 3 | 0 | 0 | 0 | 0 | 0 | 1 | 4 |
 
@@ -38,10 +38,6 @@ Source: [News API](https://newsapi.org/)
 - [Estimating per-infection cost and burden for dengue and Zika as a function of antibody-dependent enhancement](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012876) (Plos.org)
 
 - [Brasil aposta em mais vacinas para doenças tropicais e público maior](https://valor.globo.com/publicacoes/especiais/inovacao-na-medicina/noticia/2025/02/26/brasil-aposta-em-mais-vacinas-para-doencas-tropicais-e-publico-maior.ghtml) (Globo)
-
-## 25-9 (yersinia)
-
-- [The medieval house might have been built to specifications approved by a rodent council](https://www.isegoria.net/2025/02/the-medieval-house-might-have-been-built-to-specifications-approved-by-a-rodent-council/) (Isegoria.net)
 
 ## 25-9 (typhoid)
 
@@ -451,14 +447,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Hays County warns of possible measles exposure in San Marcos](https://www.fox7austin.com/news/hays-county-warns-possible-measles-exposure-san-marcos) (FOX 7 Austin)
 
-- [Gottlieb "very concerned" about Texas measles outbreak: "I think this will spread"](https://www.cbsnews.com/video/gottlieb-very-concerned-about-texas-measles-outbreak-i-think-this-will-spread/) (CBS News)
-
-- [TWiV 1195: Dickson Despommier, parasitologist without borders](https://www.microbe.tv/twiv/twiv-1195/) (Microbe.tv)
-
-- [Measles: A resurgent threat in Canada](https://theconversation.com/measles-a-resurgent-threat-in-canada-249932) (The Conversation Africa)
-
-- [‘Deadly consequences’: Health agencies reel from thousands of job cuts while critical research grants remain on hold | CNN](https://www.cnn.com/2025/02/23/health/public-health-job-cuts/index.html) (CNN)
-
 ## 25-9 (malaria)
 
 - [Trump Ends Funding For Malaria, H.I.V., & More Global Health Programs - NewsBreak](https://www.newsbreak.com/share/3834544178448-trump-ends-funding-for-malaria-h-i-v-more-global-health-programs?s=a2&share_destination_id=MzAxMzA4NTY4LTE3NDA4MTI1OTgzNjY%3D&pd=0KOG7cgN&hl=en_US&send_time=1740812598&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2224.39.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_model_exp_25q1-v8%2Cns_foryou_blend_exp_25q1-v3%2Cns_foryou_rank_exp_25q1-v2%2Cns_push_exp_rt_bucketv12-v2%2Cns_foryou_recall_exp_25q1-v3%2Cns_local_strategy_25q1_exp-v12) (Newsbreak.com)
@@ -589,14 +577,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Alerta el riesgo de que gripe aviar cause muertes humanas](https://www.jornada.com.mx/2025/02/24/politica/015n3pol) (Jornada.com.mx)
 
-- [USDA Confirms Bird Flu In Rats](https://www.shtfplan.com/headline-news/usda-confirms-bird-flu-in-rats) (Shtfplan.com)
-
-- [Gripe H5N1 será a nova ameaça depois da COVID-19?](https://pplware.sapo.pt/informacao/gripe-h5n1-sera-a-nova-ameaca-depois-da-covid-19/) (Sapo.pt)
-
-- [TWiV 1195: Dickson Despommier, parasitologist without borders](https://www.microbe.tv/twiv/twiv-1195/) (Microbe.tv)
-
-- [Francisco George: gripe H5N1 é ameaça de nova epidemia no horizonte](https://observador.pt/2025/02/23/francisco-george-gripe-h5n1-e-ameaca-de-nova-epidemia-no-horizonte/) (Observador.pt)
-
 ## 25-9 (dengue)
 
 - [“Mosquito argentino”. El temor al dengue genera hasta cinco horas de demora en un cruce fronterizo](https://www.lanacion.com.ar/sociedad/mosquito-argentino-el-temor-al-dengue-genera-hasta-cinco-horas-de-demora-en-un-cruce-fronterizo-nid01032025/) (La Nacion)
@@ -657,8 +637,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Enfermedades respiratorias aumentaron en Nayarit desde el inicio del 2025](https://www.excelsior.com.mx/nacional/enfermedades-respiratorias-aumentaron-en-nayarit-desde-el-inicio-del-2025/1701463) (Excelsior.com.mx)
 
-- [Philippine village battles dengue by offering bounties for mosquitos — dead or alive](https://www.voanews.com/a/philippine-village-battles-dengue-by-offering-bounties-for-mosquitos-dead-or-alive/7984215.html) (VOA News)
-
 ## 25-9 (chikungunya)
 
 - [Low capacity for molecular detection of Alphaviruses other than Chikungunya virus in 23 European laboratories, March 2022](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318602) (Plos.org)
@@ -676,6 +654,8 @@ Source: [News API](https://newsapi.org/)
 - [Bavarian Nordic indgår partnerskab med Biological E Limited med henblik på at udvide global adgang til chikungunyavaccine](https://www.globenewswire.com/news-release/2025/02/25/3031656/0/da/Bavarian-Nordic-indg%C3%A5r-partnerskab-med-Biological-E-Limited-med-henblik-p%C3%A5-at-udvide-global-adgang-til-chikungunyavaccine.html) (GlobeNewswire)
 
 ## 25-15 (zika)
+
+- [Immunogenicity of a single dose of the 17DD yellow fever vaccine in a cohort of adults and children in a non-endemic area, and its association with dengue and Zika seropositivity](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012993) (Plos.org)
 
 - [Environmental and anthropic factors influencing Aedes aegypti and Aedes albopictus (Diptera: Culicidae), with emphasis on natural infection and dissemination: Implications for an emerging vector in Colombia](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012605) (Plos.org)
 
@@ -699,6 +679,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-15 (mpox)
 
+- [Krankheiten: Neue Mpox-Variante im Land – was der erste Fall bedeutet](https://www.stern.de/gesellschaft/regional/hamburg-schleswig-holstein/krankheiten--neue-mpox-variante-im-land---was-der-erste-fall-bedeutet-35625260.html) (STERN.de)
+
+- [Krankheiten: Neue Mpox-Variante erstmals in Niedersachsen nachgewiesen](https://www.zeit.de/news/2025-04/09/neue-mpox-variante-erstmals-in-niedersachsen-nachgewiesen) (Die Zeit)
+
+- [Krankheiten: Neue Mpox-Variante erstmals in Niedersachsen nachgewiesen](https://www.stern.de/gesellschaft/regional/hamburg-schleswig-holstein/krankheiten--neue-mpox-variante-erstmals-in-niedersachsen-nachgewiesen-35625260.html) (STERN.de)
+
 - [Immer mehr Mpox-Fälle in Berlin – droht ein größerer Ausbruch?](https://www.morgenpost.de/berlin/article408746072/immer-mehr-mpox-faelle-in-berlin-droht-ein-groesserer-ausbruch.html) (Berliner Morgenpost)
 
 - [Royaume-Uni: les autorités enquêtent sur un cas inexpliqué d'infection au mpox](https://www.bfmtv.com/international/europe/angleterre/royaume-uni-les-autorites-enquetent-sur-un-cas-inexplique-d-infection-au-mpox_AD-202504070712.html) (BFMTV)
@@ -713,6 +699,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-15 (meningitis)
 
+- [Nigeria struggles to rein in a widespread meningitis outbreak that has killed at least 150](https://abcnews.go.com/International/wireStory/nigeria-struggles-rein-widespread-meningitis-outbreak-killed-150-120633888) (ABC News)
+
+- [Brote de meningitis en Nigeria deja al menos 150 muertos](https://www.milenio.com/internacional/africa/nigeria-enfrenta-brote-meningitis-150-muertos) (Milenio)
+
 - [Córdoba: antes de morir, una mujer denunció que fue violada por un enfermero](https://www.lanacion.com.ar/sociedad/cordoba-antes-de-morir-una-mujer-denuncio-que-fue-violada-por-un-enfermero-nid08042025/) (La Nacion)
 
 - [GHS boss donates GHC 220K in medical supplies to fight meningitis in Northern Ghana](https://3news.com/health/ghs-boss-donates-ghc-220k-in-medical-supplies-to-fight-meningitis-in-northern-ghana/) (3news.com)
@@ -722,6 +712,12 @@ Source: [News API](https://newsapi.org/)
 - [Meningitis death toll hits 156, suspected cases 1,858](https://punchng.com/meningitis-death-toll-hits-156-suspected-cases-1858/) (The Punch)
 
 ## 25-15 (measles)
+
+- [Apr 9: CBS News 24/7, 10am ET](https://www.cbsnews.com/video/040925-cbs-news-247-episode-1/) (CBS News)
+
+- [RFK Jr. says he's "not familiar" with all health program cuts](https://www.cbsnews.com/news/rfk-jr-sweeping-cuts-health-programs-employees-exclusive-interview/) (CBS News)
+
+- [MAGA crowd yells insults at reporter who asks RFK Jr. about deadly measles outbreak](https://www.rawstory.com/maga-crowd-yells-insults-at-reporter-as-she-asks-rfk-jr-about-measles-outbreak/) (Raw Story)
 
 - [Ousted FDA vaccine chief says U.S. measles elimination status under threat as cases climb](https://www.nbcnews.com/health/health-news/ousted-fda-vaccine-chief-us-measles-elimination-status-threat-rcna199966) (NBC News)
 
@@ -907,6 +903,22 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-15 (h5n1)
 
+- [Gripe aviária: criança de 3 anos é primeira vítima fatal de H5N1 no México](https://veja.abril.com.br/saude/gripe-aviaria-crianca-de-3-anos-e-primeira-vitima-fatal-de-h5n1-no-mexico/) (Abril.com.br)
+
+- [¿Puedes contagiarte de influenza aviar por consumir huevo o pollo? Ésta es la verdad](https://www.milenio.com/ciencia-y-salud/influenza-aviar-puedes-contagiarte-comiendo-huevo-pollo) (Milenio)
+
+- [Разработано способное остановить новую пандемию лекарство](https://lenta.ru/news/2025/04/09/razrabotano-sposobnoe-ostanovit-novuyu-pandemiyu-lekarstvo/) (Lenta)
+
+- [Vogelgrippe: Erster Todesfall nach Vogelgrippe-Infektion in Mexiko](https://www.spektrum.de/news/erster-todesfall-nach-vogelgrippe-infektion-in-mexiko/2262006) (Spektrum.de)
+
+- [Ssa: falleció menor de Durango que contrajo gripe aviar](https://www.jornada.com.mx/2025/04/09/politica/015n3pol) (Jornada.com.mx)
+
+- [Primo decesso umano da influenza aviaria in Messico: una bambina di 3 anni contagiata da un uccello](https://www.ilsole24ore.com/art/primo-decesso-umano-influenza-aviaria-messico-bambina-3-anni-contagiata-un-uccello-AH4xwgC) (Il Sole 24 Ore)
+
+- [Meksika’da kuş gribi ölüm getirdi: 3 yaşındaki çocuk hastalığa yenik düştü](https://www.sabah.com.tr/dunya/meksikada-kus-gribi-olum-getirdi-3-yasindaki-cocuk-hastaliga-yenik-dustu-7329685) (Sabah.com.tr)
+
+- [Erster Todesfall in Mexiko: Kind stirbt an Vogelgrippevirus H5N1](https://www.morgenpost.de/panorama/article408749052/erster-todesfall-in-mexiko-kind-stirbt-an-vogelgrippevirus-h5n1.html) (Berliner Morgenpost)
+
 - [Противовирусная жевательная резинка](https://habr.com/ru/companies/ua-hosting/articles/898660/#post-content-body) (Habr.com)
 
 - [Soffri di influenza ed herpes? Arriva la "gomma magica" che previene i virus](https://www.ilgiornale.it/news/farmaci-e-terapie/soffri-influenza-ed-herpes-arriva-gomma-magica-che-previene-2463711.html) (Ilgiornale.it)
@@ -1005,6 +1017,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-15 (dengue)
 
+- [Immunogenicity of a single dose of the 17DD yellow fever vaccine in a cohort of adults and children in a non-endemic area, and its association with dengue and Zika seropositivity](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012993) (Plos.org)
+
 - [MPRS articula iniciativas para o enfrentamento do aumento dos casos de dengue em Porto Alegre](https://www.terra.com.br/noticias/mprs-articula-iniciativas-para-o-enfrentamento-do-aumento-dos-casos-de-dengue-em-porto-alegre,d90085ae3aedd5a6a7710c06db06b14bnnmilsz1.html) (Terra.com.br)
 
 - [Dengue: Ministério da Saúde intensifica ações em 7 estados; SP lidera em casos](https://veja.abril.com.br/saude/dengue-ministerio-da-saude-intensifica-acoes-em-7-estados-sp-lidera-em-casos/) (Abril.com.br)
@@ -1030,6 +1044,12 @@ Source: [News API](https://newsapi.org/)
 - [Alvo da CGU, ONG ganha R$ 40 mi em contratos para dengue e jogo LoL](https://www.metropoles.com/distrito-federal/alvo-da-cgu-ong-ganha-r-40-mi-em-contratos-para-dengue-e-jogo-lol) (Metropoles.com)
 
 ## 25-15 (chikungunya)
+
+- [Santé. À La Réunion, l'épidémie de Chikungunya est « généralisée et majeure »](https://www.ledauphine.com/sante/2025/04/09/a-la-reunion-l-epidemie-de-chikungunya-est-generalisee-et-majeure) (Le Dauphiné Libéré)
+
+- [Chikungunya à La Réunion : 6 289 cas détectés en une semaine](https://www.francetvinfo.fr/sante/maladie/chikungunya/chikungunya-a-la-reunion-6-289-cas-detectes-en-une-semaine_7180041.html) (Francetvinfo.fr)
+
+- [Epidémie de chikungunya à La Réunion : 6 289 nouveaux cas, 22 000 consultations chez les médecins et une hausse des hospitalisations](https://la1ere.francetvinfo.fr/reunion/epidemie-de-chikungunya-a-la-reunion-6-289-nouveaux-cas-22-000-consultations-chez-les-medecins-et-une-hausse-des-hospitalisations-1576936.html) (Francetvinfo.fr)
 
 - [Environmental and anthropic factors influencing Aedes aegypti and Aedes albopictus (Diptera: Culicidae), with emphasis on natural infection and dissemination: Implications for an emerging vector in Colombia](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012605) (Plos.org)
 
