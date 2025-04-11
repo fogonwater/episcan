@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 17
-- **Last harvest:** 2025-04-11 07:07
-- **Most recent article:** 2025-04-10 05:55:03
+- **New articles in last harvest:** 18
+- **Last harvest:** 2025-04-11 19:06
+- **Most recent article:** 2025-04-10 18:58:21
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-10 | 25-11 | 25-12 | 25-13 | 25-14 | 25-15 | 25-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 142 | 133 | 108 | 101 | 77 | 91 | 162 | 814 |
-| h5n1 | 23 | 39 | 57 | 47 | 46 | 60 | 42 | 314 |
-| malaria | 29 | 22 | 18 | 30 | 13 | 8 | 20 | 140 |
-| dengue | 8 | 12 | 18 | 20 | 14 | 14 | 30 | 116 |
-| mpox | 14 | 15 | 8 | 12 | 17 | 11 | 26 | 103 |
+| measles | 142 | 133 | 108 | 101 | 77 | 95 | 158 | 814 |
+| h5n1 | 23 | 39 | 57 | 47 | 46 | 60 | 38 | 310 |
+| malaria | 29 | 22 | 18 | 30 | 13 | 9 | 20 | 141 |
+| dengue | 8 | 12 | 18 | 20 | 14 | 18 | 29 | 119 |
+| mpox | 14 | 15 | 8 | 12 | 17 | 14 | 26 | 106 |
 | chikungunya | 6 | 1 | 17 | 10 | 17 | 14 | 7 | 72 |
-| meningitis | 4 | 9 | 7 | 10 | 6 | 7 | 7 | 50 |
-| rabies | 3 | 8 | 3 | 19 | 7 | 2 | 2 | 44 |
+| meningitis | 4 | 9 | 7 | 10 | 6 | 9 | 7 | 52 |
+| rabies | 3 | 8 | 3 | 19 | 7 | 5 | 2 | 47 |
 | hpai | 10 | 3 | 12 | 2 | 4 | 1 | 4 | 36 |
-| zika | 3 | 0 | 2 | 3 | 4 | 5 | 2 | 19 |
+| zika | 3 | 0 | 2 | 3 | 4 | 6 | 2 | 20 |
 | typhoid | 3 | 8 | 0 | 1 | 2 | 1 | 4 | 19 |
 | pertussis | 0 | 5 | 1 | 0 | 7 | 1 | 0 | 14 |
-| yersinia | 1 | 2 | 2 | 3 | 0 | 0 | 1 | 9 |
+| yersinia | 1 | 2 | 2 | 3 | 0 | 0 | 0 | 8 |
 | leptospirosis | 3 | 0 | 1 | 0 | 0 | 0 | 0 | 4 |
 | shigellosis | 3 | 0 | 0 | 0 | 0 | 0 | 1 | 4 |
 
@@ -38,10 +38,6 @@ Source: [News API](https://newsapi.org/)
 - [Estimating per-infection cost and burden for dengue and Zika as a function of antibody-dependent enhancement](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012876) (Plos.org)
 
 - [Brasil aposta em mais vacinas para doenças tropicais e público maior](https://valor.globo.com/publicacoes/especiais/inovacao-na-medicina/noticia/2025/02/26/brasil-aposta-em-mais-vacinas-para-doencas-tropicais-e-publico-maior.ghtml) (Globo)
-
-## 25-9 (yersinia)
-
-- [The medieval house might have been built to specifications approved by a rodent council](https://www.isegoria.net/2025/02/the-medieval-house-might-have-been-built-to-specifications-approved-by-a-rodent-council/) (Isegoria.net)
 
 ## 25-9 (typhoid)
 
@@ -451,14 +447,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Hays County warns of possible measles exposure in San Marcos](https://www.fox7austin.com/news/hays-county-warns-possible-measles-exposure-san-marcos) (FOX 7 Austin)
 
-- [Gottlieb "very concerned" about Texas measles outbreak: "I think this will spread"](https://www.cbsnews.com/video/gottlieb-very-concerned-about-texas-measles-outbreak-i-think-this-will-spread/) (CBS News)
-
-- [TWiV 1195: Dickson Despommier, parasitologist without borders](https://www.microbe.tv/twiv/twiv-1195/) (Microbe.tv)
-
-- [Measles: A resurgent threat in Canada](https://theconversation.com/measles-a-resurgent-threat-in-canada-249932) (The Conversation Africa)
-
-- [‘Deadly consequences’: Health agencies reel from thousands of job cuts while critical research grants remain on hold | CNN](https://www.cnn.com/2025/02/23/health/public-health-job-cuts/index.html) (CNN)
-
 ## 25-9 (malaria)
 
 - [Trump Ends Funding For Malaria, H.I.V., & More Global Health Programs - NewsBreak](https://www.newsbreak.com/share/3834544178448-trump-ends-funding-for-malaria-h-i-v-more-global-health-programs?s=a2&share_destination_id=MzAxMzA4NTY4LTE3NDA4MTI1OTgzNjY%3D&pd=0KOG7cgN&hl=en_US&send_time=1740812598&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2224.39.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_model_exp_25q1-v8%2Cns_foryou_blend_exp_25q1-v3%2Cns_foryou_rank_exp_25q1-v2%2Cns_push_exp_rt_bucketv12-v2%2Cns_foryou_recall_exp_25q1-v3%2Cns_local_strategy_25q1_exp-v12) (Newsbreak.com)
@@ -589,14 +577,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Alerta el riesgo de que gripe aviar cause muertes humanas](https://www.jornada.com.mx/2025/02/24/politica/015n3pol) (Jornada.com.mx)
 
-- [USDA Confirms Bird Flu In Rats](https://www.shtfplan.com/headline-news/usda-confirms-bird-flu-in-rats) (Shtfplan.com)
-
-- [Gripe H5N1 será a nova ameaça depois da COVID-19?](https://pplware.sapo.pt/informacao/gripe-h5n1-sera-a-nova-ameaca-depois-da-covid-19/) (Sapo.pt)
-
-- [TWiV 1195: Dickson Despommier, parasitologist without borders](https://www.microbe.tv/twiv/twiv-1195/) (Microbe.tv)
-
-- [Francisco George: gripe H5N1 é ameaça de nova epidemia no horizonte](https://observador.pt/2025/02/23/francisco-george-gripe-h5n1-e-ameaca-de-nova-epidemia-no-horizonte/) (Observador.pt)
-
 ## 25-9 (dengue)
 
 - [“Mosquito argentino”. El temor al dengue genera hasta cinco horas de demora en un cruce fronterizo](https://www.lanacion.com.ar/sociedad/mosquito-argentino-el-temor-al-dengue-genera-hasta-cinco-horas-de-demora-en-un-cruce-fronterizo-nid01032025/) (La Nacion)
@@ -657,8 +637,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Enfermedades respiratorias aumentaron en Nayarit desde el inicio del 2025](https://www.excelsior.com.mx/nacional/enfermedades-respiratorias-aumentaron-en-nayarit-desde-el-inicio-del-2025/1701463) (Excelsior.com.mx)
 
-- [Philippine village battles dengue by offering bounties for mosquitos — dead or alive](https://www.voanews.com/a/philippine-village-battles-dengue-by-offering-bounties-for-mosquitos-dead-or-alive/7984215.html) (VOA News)
-
 ## 25-9 (chikungunya)
 
 - [Low capacity for molecular detection of Alphaviruses other than Chikungunya virus in 23 European laboratories, March 2022](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318602) (Plos.org)
@@ -677,6 +655,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-15 (zika)
 
+- [Žuvačkou proti chrípke aj ďalším vírusom? Vedci prišli s objavom, ktorý má potenciál spomaliť šírenie nebezpečných infekcií](https://zdravie.pravda.sk/zdravie-a-prevencia/clanok/747313-zuvackou-proti-chripke-aj-dalsim-virusom-vedci-prisli-s-velkym-objavom-ktory-ma-potencial-spomalit-sirenie-nebezpecnych-infekcii/) (Pravda.sk)
+
 - [Antiviral chewing gum to reduce influenza and herpes simplex virus transmission](https://penntoday.upenn.edu/news/penn-dental-antiviral-chewing-gum-reduce-influenza-and-herpes-simplex-virus-transmission) (Upenn.edu)
 
 - [Immunogenicity of a single dose of the 17DD yellow fever vaccine in a cohort of adults and children in a non-endemic area, and its association with dengue and Zika seropositivity](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012993) (Plos.org)
@@ -693,6 +673,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-15 (rabies)
 
+- [Health Ministry issues warning after calf discovered with rabies](https://www.jpost.com/breaking-news/article-849736) (The Jerusalem Post)
+
+- [Assessing anti-rabies vaccine response in humans: A rapid and high-throughput adaptable, pseudovirus-based neutralization assay as an alternative to rapid fluorescence focus inhibition test (RFFIT)](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013010) (Plos.org)
+
+- [A comparative analysis of the dendritic cell response upon exposure to different rabies virus strains](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012994) (Plos.org)
+
 - [3 dead, hundreds affected following massive outbreak of rabies in India's Manipur](http://en.people.cn/n3/2025/0408/c90000-20298960.html) (People.cn)
 
 - [Massive Rabies Outbreak In Manipur, Three Dead, Hundreds Affected](https://www.ndtv.com/india-news/massive-rabies-outbreak-in-manipur-three-dead-hundreds-affected-8102903) (NDTV News)
@@ -702,6 +688,12 @@ Source: [News API](https://newsapi.org/)
 - [Whooping cough: Cases soar in US](https://www.bmj.com/content/389/bmj.r704) (The BMJ)
 
 ## 25-15 (mpox)
+
+- [Mpox: Ein totes Affenbaby führt Forscher erstmals zum Ursprung von Mpox](https://www.zeit.de/gesundheit/2025-04/mpox-virus-reservoir-tiere-babyaffe-forschung) (Die Zeit)
+
+- [Government receives a consignment of Mpox vaccines](https://www.standardmedia.co.ke/health/health-science/article/2001516116/government-receives-a-consignment-of-mpox-vaccines) (Standard Digital)
+
+- [Ministry of Health Receives 10,700 Doses of Mpox Vaccines](https://www.kenyans.co.ke/news/110898-ministry-health-receives-10700-doses-mpox-vaccines) (Kenyans.co.ke)
 
 - [Ministry Of Health Receives 10,700 Vaccines to Combat Mpox Outbreak](https://nairobileo.co.ke/news/article/20155/ministry-of-health-receives-10700-vaccines-to-combat-mpox-outbreak) (Nairobileo.co.ke)
 
@@ -727,6 +719,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-15 (meningitis)
 
+- [La OMS publica sus primeras directrices para mejorar la atención de la meningitis](https://www.montevideo.com.uy/Salud/La-OMS-publica-sus-primeras-directrices-para-mejorar-la-atencion-de-la-meningitis-uc920397) (Montevideo.com.uy)
+
+- [Preventable ‘meningitis belt’ deaths targeted in health agency action plan](https://news.un.org/en/story/2025/04/1162061) (UN News)
+
 - [Deadly outbreak leaves 150 dead in country hit by Trump health funding cut - NewsBreak](https://www.newsbreak.com/share/3955397826780-deadly-outbreak-leaves-150-dead-in-country-hit-by-trump-health-funding-cut?_f=app_share&pd=0Chpm0e2&lang=en_US&send_time=1744228433&trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.14.1.4%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_model_exp_25q1-v2%2Cns_foryou_recall_exp_25q2-v1%2Cns_local_strategy_25q1_exp-v18%2Cns_foryou_blend_exp_25q1-v8&s=i2) (Newsbreak.com)
 
 - [Nigeria struggles to rein in a widespread meningitis outbreak that has killed at least 150](https://abcnews.go.com/International/wireStory/nigeria-struggles-rein-widespread-meningitis-outbreak-killed-150-120633888) (ABC News)
@@ -742,6 +738,14 @@ Source: [News API](https://newsapi.org/)
 - [Meningitis death toll hits 156, suspected cases 1,858](https://punchng.com/meningitis-death-toll-hits-156-suspected-cases-1858/) (The Punch)
 
 ## 25-15 (measles)
+
+- [Measles Updates: About 680 Cases Now Confirmed, Kennedy Says](https://www.forbes.com/sites/antoniopequenoiv/2025/04/10/measles-updates-about-680-cases-now-confirmed-kennedy-says/) (Forbes)
+
+- [RFK Jr. suggests some vaccines are risky or ineffective, downplays measles threat (Daniel Payne/STAT)](https://www.memeorandum.com/250410/p85) (Memeorandum.com)
+
+- [Measles outbreaks in US and Canada show that MMR vaccines are needed more than ever – an expert in children’s health explains](https://theconversation.com/measles-outbreaks-in-us-and-canada-show-that-mmr-vaccines-are-needed-more-than-ever-an-expert-in-childrens-health-explains-221651) (The Conversation Africa)
+
+- [RFK Jr.’s Own Movement Turns Against Him](https://politicalwire.com/2025/04/10/rfk-jr-s-own-movement-turns-against-him/) (Politicalwire.com)
 
 - [RFK Jr. praises measles response in Texas, US by making comparison to Europe](https://abcnews.go.com/Health/rfk-jr-praises-measles-response-texas-us-making/story?id=120657997) (ABC News)
 
@@ -927,6 +931,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-15 (malaria)
 
+- [Towards promoting timely treatment: Uncovering the determinants of prompt malaria care seeking behavior among febrile children under-five years in Tanzania](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0319913) (Plos.org)
+
 - [グローバルファンド事務局長に聞く、「グローバルヘルスの活動も効率重視」](https://bio.nikkeibp.co.jp/atcl/news/p1/25/04/03/13157/) (Nikkeibp.co.jp)
 
 - [Health Ministry calls for collective efforts to tackle malaria](https://www.nbcnews.na/node/110304) (Nbcnews.na)
@@ -1070,6 +1076,14 @@ Source: [News API](https://newsapi.org/)
 - [Q&A: How Nova Scotians can help prevent the spread of bird flu](https://www.cbc.ca/news/canada/nova-scotia/how-to-prevent-bird-flu-1.7502052) (CBC News)
 
 ## 25-15 (dengue)
+
+- [Dengue cresce na cidade de São Paulo e se torna epidêmica em cinco distritos](https://valor.globo.com/brasil/noticia/2025/04/10/dengue-cresce-na-cidade-de-so-paulo-e-se-torna-epidmica-em-cinco-distritos.ghtml) (Globo)
+
+- [Campinas terá maior biofábrica de mosquito modificado contra a dengue](https://veja.abril.com.br/agenda-verde/campinas-tera-maior-biofabrica-de-mosquito-modificado-contra-a-dengue/) (Abril.com.br)
+
+- [Hospitais privados registram alta na internação por dengue no Estado de São Paulo](https://valor.globo.com/brasil/noticia/2025/04/10/hospitais-privados-registram-alta-na-internacao-por-dengue-no-estado-de-sao-paulo.ghtml) (Globo)
+
+- [WHO races to contain dengue threat in quake-hit Myanmar](https://timesofindia.indiatimes.com/world/rest-of-world/who-races-to-contain-dengue-threat-in-quake-hit-myanmar/articleshow/120152526.cms) (The Times of India)
 
 - [Drop in dengue cases to 1,021](https://www.thestar.com.my/news/nation/2025/04/10/drop-in-dengue-cases-to-1021) (The Star Online)
 

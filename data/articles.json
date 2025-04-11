@@ -1,8 +1,332 @@
 {
-  "last_updated": "2025-04-11 07:07",
-  "count_articles_total": 1716,
-  "count_articles_new": 17,
+  "last_updated": "2025-04-11 19:06",
+  "count_articles_total": 1725,
+  "count_articles_new": 18,
   "articles": [
+    {
+      "id": 20282,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Dengue cresce na cidade de S\u00e3o Paulo e se torna epid\u00eamica em cinco distritos",
+      "description": "Coeficiente de incid\u00eancia da doen\u00e7a ultrapassou a marca de 300 casos por 100 mil habitantes no Jardim \u00c2ngela, Cap\u00e3o Redondo, Perus, Brasil\u00e2ndia e Rio Pequeno",
+      "url": "https://valor.globo.com/brasil/noticia/2025/04/10/dengue-cresce-na-cidade-de-so-paulo-e-se-torna-epidmica-em-cinco-distritos.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/aM8uxs52bkxYOrDs8fcwzJSatng=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2024/F/2/n0zs2aSXyBHcYsi6KDvw/mosquito-4998145-1920.jpeg",
+      "publishedAt": "2025-04-10 18:58:21",
+      "content": "A dengue come\u00e7ou a se espalhar pela cidade de S\u00e3o Paulo e j\u00e1 tornou cinco distritos epid\u00eamicos - Jardim \u00c2ngela e Cap\u00e3o Redondo, na zona sul, Perus e Brasil\u00e2ndia, na norte, e Rio Pequeno, na regi\u00e3o oe\u2026 [+1534 chars]",
+      "retrievedAt": "2025-04-11 19:05:59.324653",
+      "internal_id": "0be331e25436309b961cc31dbe3da231195f64d749c81156b746334cdf05550f",
+      "publishedAtLabel": "Apr 10"
+    },
+    {
+      "id": 20276,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Antonio Peque\u00f1o IV, Forbes Staff, \n Antonio Peque\u00f1o IV, Forbes Staff\n https://www.forbes.com/sites/antoniopequenoiv/",
+      "title": "Measles Updates: About 680 Cases Now Confirmed, Kennedy Says",
+      "description": "Texas remains the state with the highest number of cases, by far.",
+      "url": "https://www.forbes.com/sites/antoniopequenoiv/2025/04/10/measles-updates-about-680-cases-now-confirmed-kennedy-says/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67b8dc34f003eb75b733dff5/0x0.jpg?format=jpg&crop=3039,2027,x0,y0,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-04-10 18:06:45",
+      "content": "There are roughly 680 confirmed cases of measles as of Thursday, Health and Human Services Secretary Robert F. Kennedy Jr. said, as outbreaks of the highly contagious illness spread across nearly two\u2026 [+7637 chars]",
+      "retrievedAt": "2025-04-11 19:05:57.904787",
+      "internal_id": "b16e70827a4d7288c04a9b49a9a5f8b16be466e61a30dec42b29497bfe547f47",
+      "publishedAtLabel": "Apr 10"
+    },
+    {
+      "id": 20277,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "RFK Jr. suggests some vaccines are risky or ineffective, downplays measles threat (Daniel Payne/STAT)",
+      "description": "Daniel Payne / STAT: RFK Jr. suggests some vaccines are risky or ineffective, downplays measles threat \u2014 Health secretary's claims, dismissed by health experts, come despite endorsement of measles shot \u2014 Facing a growing outbreak of measles that could tes\u2026",
+      "url": "https://www.memeorandum.com/250410/p85",
+      "urlToImage": "https://www.statnews.com/wp-content/uploads/2025/04/AP25096790080205-1024x576.jpg",
+      "publishedAt": "2025-04-10 17:35:02",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-04-11 19:05:58.077542",
+      "internal_id": "c4016679e7a0901a5640725393f911094d4f604514fdda66f5bbe9fe96f826a6",
+      "publishedAtLabel": "Apr 10"
+    },
+    {
+      "id": 20284,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "La OMS publica sus primeras directrices para mejorar la atenci\u00f3n de la meningitis",
+      "description": "Solo en 2019 se diagnosticaron m\u00e1s de 2,5 millones de casos en todo el mundo, con 240.000 muertes.",
+      "url": "https://www.montevideo.com.uy/Salud/La-OMS-publica-sus-primeras-directrices-para-mejorar-la-atencion-de-la-meningitis-uc920397",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/201904/_W933_80/690589.jpg",
+      "publishedAt": "2025-04-10 17:13:00",
+      "content": "Por primera vez, la Organizaci\u00f3n Mundial de la Salud (OMS) public\u00f3 un conjunto de directrices cl\u00ednicas globales para el diagn\u00f3stico, tratamiento y atenci\u00f3n de personas afectadas por meningitis. El ob\u2026 [+1673 chars]",
+      "retrievedAt": "2025-04-11 19:05:59.652088",
+      "internal_id": "da7f9cdd1b9aedf92c7b8ec98a6f2e35f66286799a50b35121d15d99958cd095",
+      "publishedAtLabel": "Apr 10"
+    },
+    {
+      "id": 20280,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Ernesto Neves",
+      "title": "Campinas ter\u00e1 maior biof\u00e1brica de mosquito modificado contra a dengue",
+      "description": "Com capacidade para proteger at\u00e9 100 milh\u00f5es de pessoas por ano, nova instala\u00e7\u00e3o em Campinas \u00e9 resposta \u00e0 crescente crise global de arboviroses",
+      "url": "https://veja.abril.com.br/agenda-verde/campinas-tera-maior-biofabrica-de-mosquito-modificado-contra-a-dengue/",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2025/02/GettyImages-1139720793.jpg?quality=70&strip=info&crop=1&resize=1080,565",
+      "publishedAt": "2025-04-10 17:01:57",
+      "content": "Em meio ao avan\u00e7o alarmante da dengue no Brasil e no mundo, a Oxitec, empresa brit\u00e2nica de biotecnologia, anunciou a inaugura\u00e7\u00e3o da maior instala\u00e7\u00e3o de produ\u00e7\u00e3o de mosquitos modificados com a bact\u00e9ri\u2026 [+2436 chars]",
+      "retrievedAt": "2025-04-11 19:05:59.238513",
+      "internal_id": "4eef073432577df8fac010a14e4439be144740f8f47ee54ed7f6739226db7824",
+      "publishedAtLabel": "Apr 10"
+    },
+    {
+      "id": 20273,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "the-jerusalem-post",
+      "source_name": "The Jerusalem Post",
+      "author": "BY MAARIV",
+      "title": "Health Ministry issues warning after calf discovered with rabies",
+      "description": "The Health Ministry received a report on Thursday of a calf infected with rabies in Moshav Beit Hillel, in the",
+      "url": "https://www.jpost.com/breaking-news/article-849736",
+      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/534687",
+      "publishedAt": "2025-04-10 16:50:38",
+      "content": "The Health Ministry received a report on Thursday of a calf infected with rabies in Moshav Beit Hillel, in the Mevo\u2019ot Hahermon Regional Council. The ministry says that, currently, one person is kno\u2026 [+536 chars]",
+      "retrievedAt": "2025-04-11 19:05:57.330985",
+      "internal_id": "1b61063ba5d90896209c4b20c3a55de86e9af2545ebb1524750816b7082a2f8e",
+      "publishedAtLabel": "Apr 10"
+    },
+    {
+      "id": 20278,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Helen Bedford, Professor of Children's Health, UCL",
+      "title": "Measles outbreaks in US and Canada show that MMR vaccines are needed more than ever \u2013 an expert in children\u2019s health explains",
+      "description": "Vaccine uptake is currently too low to prevent outbreaks of measles \u2013 a highly contagious and potentially deadly virus.",
+      "url": "https://theconversation.com/measles-outbreaks-in-us-and-canada-show-that-mmr-vaccines-are-needed-more-than-ever-an-expert-in-childrens-health-explains-221651",
+      "urlToImage": "https://images.theconversation.com/files/661006/original/file-20250410-56-w1peig.jpg?ixlib=rb-4.1.0&rect=0%2C121%2C1000%2C500&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2025-04-10 16:49:40",
+      "content": "Heather Hazzan, SELF Magazine Measles is one of the most challenging diseases to control. It requires a sustained uptake of well over 90% of two doses of a measles-containing vaccine such as MMR. Bu\u2026 [+6291 chars]",
+      "retrievedAt": "2025-04-11 19:05:58.087017",
+      "internal_id": "ec0ac0edcf58018b78366ef412547415c519b43b9d2b7261ff81550790703d36",
+      "publishedAtLabel": "Apr 10"
+    },
+    {
+      "id": 20283,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Hospitais privados registram alta na interna\u00e7\u00e3o por dengue no Estado de S\u00e3o Paulo",
+      "description": "Levantamento, feito de 25 de mar\u00e7o a 7 de abril, mostra que 89% dos hospitais consultados tiverem alta nas entradas devido \u00e0 doen\u00e7a",
+      "url": "https://valor.globo.com/brasil/noticia/2025/04/10/hospitais-privados-registram-alta-na-internacao-por-dengue-no-estado-de-sao-paulo.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/GPd6OLXbGJ_yluvoigkUKFOcLZ4=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2025/x/v/CHOQA6QYOjAVHv4PVUGg/pexels-pixabay-86722.jpg",
+      "publishedAt": "2025-04-10 14:47:31",
+      "content": "icato dos Hospitais, Cl\u00ednicas e Laborat\u00f3rios do Estado de S\u00e3o Paulo (Sindhosp) registrou aumento nas interna\u00e7\u00f5es por dengue. O levantamento, feito de 25 de mar\u00e7o a 7 de abril, mostra que 89% dos hosp\u2026 [+1087 chars]",
+      "retrievedAt": "2025-04-11 19:05:59.339386",
+      "internal_id": "e16b29d139a0cb51dffb49ca16feed352030e92b99df0c3acd3716f9540913f6",
+      "publishedAtLabel": "Apr 10"
+    },
+    {
+      "id": 20274,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Santhik S. Lupitha, Geetu Rose Varghese, Lekshmi J. Das, Priya Prabhakaran, Ashwini M. Ananda, Reeta S. Mani, Easwaran Sreekumar",
+      "title": "Assessing anti-rabies vaccine response in humans: A rapid and high-throughput adaptable, pseudovirus-based neutralization assay as an alternative to rapid fluorescence focus inhibition test (RFFIT)",
+      "description": "Author summary Rabies causes approximately 59000 deaths every year world-wide. It is also among one of the neglected tropical diseases aimed to achieve \u2018Zero by 30\u2019 as per the UN Sustainable Development Goals (SDG) 2030. Rabies is a preventable disease both b\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013010",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013010.g007&size=inline",
+      "publishedAt": "2025-04-10 14:00:00",
+      "content": "Abstract Background Rabies is a fatal, but vaccine-preventable disease. The conventional gold standard recommended for estimating anti-rabies vaccine immune response is Rapid Fluorescence Focus Inh\u2026 [+45394 chars]",
+      "retrievedAt": "2025-04-11 19:05:57.359597",
+      "internal_id": "06e8a1dce6eec158d0936c16f36506356a8e4e1bee85d4e1b9b7d2d3b1978a98",
+      "publishedAtLabel": "Apr 10"
+    },
+    {
+      "id": 20275,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Keshia Kroh, Merel R. te Marvelde, Lars W. van Greuningen, Brigitta M. Laksono, Marion P. G. Koopmans, Thijs Kuiken, Corine H. GeurtsvanKessel, Carmen W. E. Embregts",
+      "title": "A comparative analysis of the dendritic cell response upon exposure to different rabies virus strains",
+      "description": "Author Summary Rabies virus infections in humans are almost always fatal if left untreated due to a lack of a protective immune response. Dendritic cells play a crucial role in initiating an antiviral immune response, so our study investigated their response \u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012994",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012994.g004&size=inline",
+      "publishedAt": "2025-04-10 14:00:00",
+      "content": "Introduction Rabies, despite being one of the oldest known viral diseases, continues to pose a risk to human and animal health worldwide [1]. Considered a neglected tropical disease, rabies is respo\u2026 [+40983 chars]",
+      "retrievedAt": "2025-04-11 19:05:57.368097",
+      "internal_id": "8f9c194c362facda85cde835400a98b06d215988492a90df4d5e2a7feec65686",
+      "publishedAtLabel": "Apr 10"
+    },
+    {
+      "id": 20286,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Huda Omary, Suleiman Chombo, Pankras Luoga, Jackline Vicent Mbishi, Heavenlight A. Paulo, John Andrew, Abdallah Zacharia, Isaac Y. Addo",
+      "title": "Towards promoting timely treatment: Uncovering the determinants of prompt malaria care seeking behavior among febrile children under-five years in Tanzania",
+      "description": "Background Prompt diagnosis and effective treatment within 24 hours of fever onset is crucial for reducing malaria-related morbidity and mortality in under five children. However, research on the prompt care-seeking behaviors and their determinants in this de\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0319913",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0319913.t002&size=inline",
+      "publishedAt": "2025-04-10 14:00:00",
+      "content": "Citation: Omary H, Chombo S, Luoga P, Mbishi JV, Paulo HA, Andrew J, et al. (2025) Towards promoting timely treatment: Uncovering the determinants of prompt malaria care seeking behavior among febril\u2026 [+27924 chars]",
+      "retrievedAt": "2025-04-11 19:06:00.164214",
+      "internal_id": "cdc0cda941a0604229ed11c02911b0ff042fa59f22744bc5874b2c73747ff199",
+      "publishedAtLabel": "Apr 10"
+    },
+    {
+      "id": 20288,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "ZEIT ONLINE: Gesundheit - Florian Schumann",
+      "title": "Mpox: Ein totes Affenbaby f\u00fchrt Forscher erstmals zum Ursprung von Mpox",
+      "description": "Bisher war unklar, wo sich das Mpox-Virus in der Natur verbirgt. Dann erkrankt ein Affe. Forscher r\u00e4tseln, wo er sich infiziert hat \u2013 und finden ein kleines Tier im Wald.",
+      "url": "https://www.zeit.de/gesundheit/2025-04/mpox-virus-reservoir-tiere-babyaffe-forschung",
+      "urlToImage": "https://img.zeit.de/gesundheit/2025-04/mpox-virus-reservoir-tiere-babyaffe-forschung-bild/wide__1300x731",
+      "publishedAt": "2025-04-10 13:05:13",
+      "content": "Es war der 27. Januar 2023, als den Forscherinnen und Forschern im Ta\u00ef-Nationalpark in der Elfenbeink\u00fcste ein Mangaben-Baby auffiel, weil es Wunden an Stirn, Hinterkopf, Brust und Beinen hatte. Sie s\u2026 [+567 chars]",
+      "retrievedAt": "2025-04-11 19:06:01.391255",
+      "internal_id": "4b943f43fc278266ce3eed410a53d3d4d3c2f18231604cf11c8debffdfc2492a",
+      "publishedAtLabel": "Apr 10"
+    },
+    {
+      "id": 20290,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Standard Digital",
+      "author": "Mike Kihaki",
+      "title": "Government receives a consignment of Mpox vaccines",
+      "description": "Kenya receives 10,700 doses of Mpox vaccine to curb disease spread, Health Ministry says; 67 cases confirmed since July 2024.",
+      "url": "https://www.standardmedia.co.ke/health/health-science/article/2001516116/government-receives-a-consignment-of-mpox-vaccines",
+      "urlToImage": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/Wgpu4nXgHNVh6I046ccmpv8dcLNRBGQIGDbPRXIu.jpg",
+      "publishedAt": "2025-04-10 12:05:36",
+      "content": "Government officials receive a consignment during the arrival of single dose Johnson and Johnson vaccine at Jomo Kenyatta International Airport in Nairobi on October 06,2021. Kenya procured 252,000 d\u2026 [+2678 chars]",
+      "retrievedAt": "2025-04-11 19:06:01.482058",
+      "internal_id": "63e0bbb7a9acea92e4abc474e536a04a9b847d77010ce81a8751c3e4b8b57f69",
+      "publishedAtLabel": "Apr 10"
+    },
+    {
+      "id": 20285,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "UN News",
+      "author": "dpicampaigns",
+      "title": "Preventable \u2018meningitis belt\u2019 deaths targeted in health agency action plan",
+      "description": "Millions of deaths could be avoided from meningitis if countries are able to adopt new guidelines designed to diagnose and treat the disease more effectively, the UN World Health Organization (WHO) said on Thursday. Read Full Story on UN News The post Preven\u2026",
+      "url": "https://news.un.org/en/story/2025/04/1162061",
+      "urlToImage": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/08-09-2022-WHO-Meningitis.jpg/image770x420cropped.jpg",
+      "publishedAt": "2025-04-10 12:00:00",
+      "content": "People anywhere, at any age can be infected with meningitis, which is transmitted through respiratory secretions or droplets in close human contact. Low and middle-income nations are worst-affected. \u2026 [+2650 chars]",
+      "retrievedAt": "2025-04-11 19:05:59.668544",
+      "internal_id": "5a602c43e9520eb50307d836fabea359c5c965dc66865018c0cc4798364064af",
+      "publishedAtLabel": "Apr 10"
+    },
+    {
+      "id": 20281,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ANI",
+      "title": "WHO races to contain dengue threat in quake-hit Myanmar",
+      "description": "In the wake of Myanmar's devastating earthquake, WHO has launched an urgent dengue prevention campaign to protect displaced communities living in makeshift shelters from a looming health crisis. Myanmar is reeling under the after-effects of the earthquake wit\u2026",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/who-races-to-contain-dengue-threat-in-quake-hit-myanmar/articleshow/120152526.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-120152985,width-1070,height-580,imgsize-806606,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2025-04-10 09:27:17",
+      "content": "Wolves, bears, and bison: Where to see iconic American wildlife in the wild",
+      "retrievedAt": "2025-04-11 19:05:59.291212",
+      "internal_id": "d88cab755743631abe48af90cd41533a33f2fd71884ed92bb251601a356d44b2",
+      "publishedAtLabel": "Apr 10"
+    },
+    {
+      "id": 20279,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Politicalwire.com",
+      "author": "Taegan Goddard",
+      "title": "RFK Jr.\u2019s Own Movement Turns Against Him",
+      "description": "\u201cRobert F. Kennedy Jr. is confronting his first disease outbreak as Health and Human Services secretary. His response to the spread of measles in and beyond Texas has managed to alarm serious scientists while also",
+      "url": "https://politicalwire.com/2025/04/10/rfk-jr-s-own-movement-turns-against-him/",
+      "urlToImage": "https://politicalwire.com/wp-content/uploads/2018/02/PW-podcast-logo.jpg",
+      "publishedAt": "2025-04-10 09:25:00",
+      "content": "\u201cThere are a lot of blogs and news sites claiming to understand politics, but only a few actually do. Political Wire is one of them.\u201d Chuck Todd, host of \u201cMeet the Press\u201d \u201cConcise. Relevant. To th\u2026 [+594 chars]",
+      "retrievedAt": "2025-04-11 19:05:58.165056",
+      "internal_id": "ad294cc72baa798322013bb5646ddea346ac2b79a221310202a3200a93f5a0ad",
+      "publishedAtLabel": "Apr 10"
+    },
+    {
+      "id": 20287,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Pravda.sk",
+      "author": "Katar\u00edna Ondrejovi\u010dov\u00e1",
+      "title": "\u017duva\u010dkou proti chr\u00edpke aj \u010fal\u0161\u00edm v\u00edrusom? Vedci pri\u0161li s objavom, ktor\u00fd m\u00e1 potenci\u00e1l spomali\u0165 \u0161\u00edrenie nebezpe\u010dn\u00fdch infekci\u00ed",
+      "description": "Koronav\u00edrus, vt\u00e1\u010dia chr\u00edpka, ebola \u010di zika. Epid\u00e9mie \u010di pand\u00e9mie maj\u00fa nielen glob\u00e1lny zdravotn\u00fd, ale aj ekonomick\u00fd dopad.",
+      "url": "https://zdravie.pravda.sk/zdravie-a-prevencia/clanok/747313-zuvackou-proti-chripke-aj-dalsim-virusom-vedci-prisli-s-velkym-objavom-ktory-ma-potencial-spomalit-sirenie-nebezpecnych-infekcii/",
+      "urlToImage": "http://ipravda.sk/res/2017/01/16/thumbs/bublina_01-clanokW.jpg",
+      "publishedAt": "2025-04-10 08:00:00",
+      "content": "Koronav\u00edrus, vt\u00e1ia chr\u00edpka, ebola i zika. V dnenom prepojenom svete predstavuj\u00fa v\u00edrusy vek\u00e9 nebezpeenstvo. Epid\u00e9mie i pand\u00e9mie maj\u00fa nielen glob\u00e1lny zdravotn\u00fd, ale aj ekonomick\u00fd dopad. K t\u00fdm prispiev\u2026 [+2942 chars]",
+      "retrievedAt": "2025-04-11 19:06:00.494223",
+      "internal_id": "43ada07d7ce31b028cbe98249fe52160e2251e7e74bb54ed477603c254f3b961",
+      "publishedAtLabel": "Apr 10"
+    },
+    {
+      "id": 20289,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Kenyans.co.ke",
+      "author": "Ken Muthomi",
+      "title": "Ministry of Health Receives 10,700 Doses of Mpox Vaccines",
+      "description": "Ministry of Health Receives 10,700 Doses of Mpox Vaccineskenyans.co.ke",
+      "url": "https://www.kenyans.co.ke/news/110898-ministry-health-receives-10700-doses-mpox-vaccines",
+      "urlToImage": "https://www.kenyans.co.ke/files/styles/article_style/public/images/media/duale_7.jpg?itok=xEJ4M0Gn",
+      "publishedAt": "2025-04-10 07:40:01",
+      "content": "The Ministry of Health has announced the arrival of Mpox vaccine doses to curb the outbreak of the disease in the country. In a statement on Thursday, April 10, the Health Cabinet Secretary, Aden Du\u2026 [+2911 chars]",
+      "retrievedAt": "2025-04-11 19:06:01.467489",
+      "internal_id": "11a81624cac4f38d638a950a57f26670a4c67786e0375a9593ccc5579da04279",
+      "publishedAtLabel": "Apr 10"
+    },
     {
       "id": 20272,
       "query": [
@@ -30768,169 +31092,6 @@
       "content": "HAYS COUNTY, Texas - The Hays County Health Department was notified about the potential for exposure of residents to a person who tested positive for measles by the Texas Department of State Health S\u2026 [+5021 chars]",
       "retrievedAt": "2025-02-25 07:06:49.969290",
       "internal_id": "56ff93fdd0d5ef93aa591440078e81a48e646d36966a5bced7aa5249f8b8586f",
-      "publishedAtLabel": "Feb 23"
-    },
-    {
-      "id": 18563,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Shtfplan.com",
-      "author": "Mac Slavo",
-      "title": "USDA Confirms Bird Flu In Rats",
-      "description": "The United States Department of Agriculture has confirmed bird flu in rats for the first time. Four black rats were confirmed to have H5N1 avian flu in late January in Riverside County, California, where two recent poultry outbreaks were reported, the agency \u2026",
-      "url": "https://www.shtfplan.com/headline-news/usda-confirms-bird-flu-in-rats",
-      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2018/10/rat-e1538574029384.jpg",
-      "publishedAt": "2025-02-23 18:00:43",
-      "content": "The United States Department of Agriculture has confirmed bird flu in rats for the first time. Four black rats were confirmed to have H5N1 avian flu in late January in Riverside County, California, w\u2026 [+1884 chars]",
-      "retrievedAt": "2025-02-24 19:05:58.636626",
-      "internal_id": "5758414a843098269fd0ccd1367e65442c45bf3884e22c923b4b0e5d21fe260b",
-      "publishedAtLabel": "Feb 23"
-    },
-    {
-      "id": 18561,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Sapo.pt",
-      "author": "Pedro Pinto",
-      "title": "Gripe H5N1 ser\u00e1 a nova amea\u00e7a depois da COVID-19?",
-      "description": "Depois de tudo o que aconteceu com a COVID-19, agora h\u00e1 uma nova amea\u00e7a ao mundo. Falamos da gripe H5N1 e o alerta vem do especialista de Sa\u00fade P\u00fablica Francisco George. gripe H5N1 \u00e9...",
-      "url": "https://pplware.sapo.pt/informacao/gripe-h5n1-sera-a-nova-ameaca-depois-da-covid-19/",
-      "urlToImage": "https://pplware.sapo.pt/wp-content/uploads/2025/02/aves_00.jpg",
-      "publishedAt": "2025-02-23 18:00:37",
-      "content": "Depois de tudo o que aconteceu com a COVID-19, agora h\u00e1 uma nova amea\u00e7a ao mundo. Falamos da gripe H5N1 e o alerta vem do especialista de Sa\u00fade P\u00fablica Francisco George. gripe H5N1 \u00e9 uma doen\u00e7a caus\u2026 [+1048 chars]",
-      "retrievedAt": "2025-02-24 19:05:58.607597",
-      "internal_id": "0147e518f49317af1c4a49310e4889533cea196e756a92fdb732e5a4d5087e97",
-      "publishedAtLabel": "Feb 23"
-    },
-    {
-      "id": 18557,
-      "query": [
-        "measles"
-      ],
-      "source_id": "cbs-news",
-      "source_name": "CBS News",
-      "author": "CBS News",
-      "title": "Gottlieb \"very concerned\" about Texas measles outbreak: \"I think this will spread\"",
-      "description": "\"I think that this is going to get into the hundreds of cases and could take many months to fully snuff out,\" Dr. Scott Gottlieb, the former commissioner of the FDA, said about the ongoing measles outbreak in Texas and New Mexico.",
-      "url": "https://www.cbsnews.com/video/gottlieb-very-concerned-about-texas-measles-outbreak-i-think-this-will-spread/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/02/23/5e526035-9481-4621-bf08-d0ac3e79eeac/thumbnail/1200x630/45b9ab74d5c7be14ed29fc17283ea3af/0223-ftn-gottlieb.jpg?v=db3d87ba7bf4d4ff13b65eabcf0d9bea",
-      "publishedAt": "2025-02-23 17:05:37",
-      "content": "Watch CBS News Copyright \u00a92025 CBS Interactive Inc. All rights reserved. Get browser notifications for breaking news, live events, and exclusive reporting. Not NowTurn On",
-      "retrievedAt": "2025-02-24 19:05:57.764022",
-      "internal_id": "e97c1b39334d1e049758f992e04404b06380202bdae0db574f1752959d577289",
-      "publishedAtLabel": "Feb 23"
-    },
-    {
-      "id": 18565,
-      "query": [
-        "yersinia"
-      ],
-      "source_id": null,
-      "source_name": "Isegoria.net",
-      "author": "Isegoria",
-      "title": "The medieval house might have been built to specifications approved by a rodent council",
-      "description": "Dozens of rodents carry plague, Ed West notes, but it would only become deadly to humans when Yersinia pestis infected the flea of the black rat (Rattus rattus): Black rats are sedentary homebodies and don\u2019t like to move more than 200 metres from their nests;\u2026",
-      "url": "https://www.isegoria.net/2025/02/the-medieval-house-might-have-been-built-to-specifications-approved-by-a-rodent-council/",
-      "urlToImage": null,
-      "publishedAt": "2025-02-23 15:21:15",
-      "content": "Dozens of rodents carry plague, Ed West notes, but it would only become deadly to humans when Yersinia pestis infected the flea of the black rat (Rattus rattus):Black rats are sedentary homebodies an\u2026 [+5105 chars]",
-      "retrievedAt": "2025-02-24 19:06:00.907982",
-      "internal_id": "f43d41896cd02421069579fd23f492cce0d6bfee23f269db877f1e8958b177ab",
-      "publishedAtLabel": "Feb 23"
-    },
-    {
-      "id": 18559,
-      "query": [
-        "measles",
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Microbe.tv",
-      "author": "Vincent Racaniello",
-      "title": "TWiV 1195: Dickson Despommier, parasitologist without borders",
-      "description": "The entire TWiV team comes together to pay tribute to Dickson Despommier, then reviews antibodies to H5N1 virus in veterinarians working with dairy cattle, Elisabeth Bik donates prize money for data integrity analyses, measles outbreak in Texas, and use of an\u2026",
-      "url": "https://www.microbe.tv/twiv/twiv-1195/",
-      "urlToImage": null,
-      "publishedAt": "2025-02-23 13:56:14",
-      "content": "The entire TWiV team comes together to pay tribute to Dickson Despommier, then reviews antibodies to H5N1 virus in veterinarians working with dairy cattle, Elisabeth Bik donates prize money for data \u2026 [+1028 chars]",
-      "retrievedAt": "2025-02-24 19:05:57.912670",
-      "internal_id": "acb9b8071ea36b307c16fe70fd55bc653a41c88dbabc607fd9da08b6eb209c4a",
-      "publishedAtLabel": "Feb 23"
-    },
-    {
-      "id": 18558,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "The Conversation Africa",
-      "author": "Ruchika Gupta, Assistant Professor and Medical Microbiologist, Department of Pathobiology and Lab Medicine, LHSC and Schulich School of Medicine and Dentistry, Western University",
-      "title": "Measles: A resurgent threat in Canada",
-      "description": "Measles is a serious disease with potentially severe complications. The current situation in Canada is a public health challenge and a critical moment for awareness and action.",
-      "url": "https://theconversation.com/measles-a-resurgent-threat-in-canada-249932",
-      "urlToImage": "https://images.theconversation.com/files/650549/original/file-20250221-38-ss5xoe.jpg?ixlib=rb-4.1.0&rect=0%2C337%2C1277%2C638&q=45&auto=format&w=1356&h=668&fit=crop",
-      "publishedAt": "2025-02-23 13:39:14",
-      "content": "The resurgence of measles in Canada is a stark reminder that we cannot take public health achievements for granted. (CDC and NIAID), CC BY In the landscape of public health, few stories are as compe\u2026 [+6470 chars]",
-      "retrievedAt": "2025-02-24 19:05:57.798110",
-      "internal_id": "e6e83375a38b67c4f8631fda9e5fc03d5baff945b7c6a2eed141a60879e93d95",
-      "publishedAtLabel": "Feb 23"
-    },
-    {
-      "id": 18560,
-      "query": [
-        "measles"
-      ],
-      "source_id": "cnn",
-      "source_name": "CNN",
-      "author": "Meg Tirrell",
-      "title": "\u2018Deadly consequences\u2019: Health agencies reel from thousands of job cuts while critical research grants remain on hold | CNN",
-      "description": "The first month of the Trump administration has brought chaos to US health agencies through mass firings, funding interruptions and communications freezes as the country battles not just the threat of bird flu but a historic measles outbreak centered in West \u2026",
-      "url": "https://www.cnn.com/2025/02/23/health/public-health-job-cuts/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2163381442.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2025-02-23 13:00:47",
-      "content": "A Nobel Prize-winning scientist is still waiting on a crucial research grant from the United States government that was supposed to start weeks ago. A fired public health worker at the US Centers fo\u2026 [+13262 chars]",
-      "retrievedAt": "2025-02-24 19:05:57.973626",
-      "internal_id": "5dd140a409885c885d9f1442b3352fbe3988bf7e4dc4e65c9952447e815106be",
-      "publishedAtLabel": "Feb 23"
-    },
-    {
-      "id": 18562,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Observador.pt",
-      "author": "Ag\u00eancia Lusa",
-      "title": "Francisco George: gripe H5N1 \u00e9 amea\u00e7a de nova epidemia no horizonte",
-      "description": "Francisco George alerta para as \"amea\u00e7as no horizonte\" como a do v\u00edrus da gripe H5N1 e diz, cinco anos ap\u00f3s a pandemia de covid-19, que Portugal est\u00e1 bem preparado.",
-      "url": "https://observador.pt/2025/02/23/francisco-george-gripe-h5n1-e-ameaca-de-nova-epidemia-no-horizonte/",
-      "urlToImage": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1124%3Anowe%3A0%3A104%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2025%2F02%2F23050027%2F44403560.jpg?layer=obstop:T",
-      "publishedAt": "2025-02-23 11:04:29",
-      "content": "Cinco anos ap\u00f3s terem sido confirmados em Portugal os primeiros casos de cont\u00e1gio pelo coronav\u00edrus que causa a covid-19, o especialista de Sa\u00fade P\u00fablica Francisco George alerta para as \u201camea\u00e7as no ho\u2026 [+3759 chars]",
-      "retrievedAt": "2025-02-24 19:05:58.628742",
-      "internal_id": "0122575cc729004fa58660b7e04523a0d5cc7a01f76372666d7cada81a4d9c61",
-      "publishedAtLabel": "Feb 23"
-    },
-    {
-      "id": 18564,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "VOA News",
-      "author": "webdesk@voanews.com (Associated Press)",
-      "title": "Philippine village battles dengue by offering bounties for mosquitos \u2014 dead or alive",
-      "description": "MANILA, PHILIPPINES \u2014 A village in the densely populated Philippine capital region launched a battle against dengue Wednesday by offering a token bounty to residents for captured mosquitos \u2014 dead or alive. The unusual strategy adopted by the Addition Hills \u2026",
-      "url": "https://www.voanews.com/a/philippine-village-battles-dengue-by-offering-bounties-for-mosquitos-dead-or-alive/7984215.html",
-      "urlToImage": "https://gdb.voanews.com/D546047A-6AC0-4ECB-A048-F0ED9FF54AF5.jpg",
-      "publishedAt": "2025-02-23 07:43:32",
-      "content": "MANILA, PHILIPPINES A village in the densely populated Philippine capital region launched a battle against dengue Wednesday by offering a token bounty to residents for captured mosquitos dead or ali\u2026 [+2751 chars]",
-      "retrievedAt": "2025-02-24 19:05:59.091628",
-      "internal_id": "a0fa6d04731aa8d9ff9adab75aadf3414334966da97b6bd8590a534f68c1bca3",
       "publishedAtLabel": "Feb 23"
     }
   ]
