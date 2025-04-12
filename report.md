@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 28
-- **Last harvest:** 2025-04-12 07:06
-- **Most recent article:** 2025-04-11 06:20:47
+- **New articles in last harvest:** 17
+- **Last harvest:** 2025-04-12 19:05
+- **Most recent article:** 2025-04-11 18:55:00
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-10 | 25-11 | 25-12 | 25-13 | 25-14 | 25-15 | 25-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 142 | 133 | 108 | 101 | 77 | 114 | 162 | 837 |
-| h5n1 | 23 | 39 | 57 | 47 | 46 | 62 | 42 | 316 |
+| measles | 142 | 133 | 108 | 101 | 77 | 125 | 158 | 844 |
+| h5n1 | 23 | 39 | 57 | 47 | 46 | 64 | 38 | 314 |
 | malaria | 29 | 22 | 18 | 30 | 13 | 9 | 20 | 141 |
-| dengue | 8 | 12 | 18 | 20 | 14 | 19 | 30 | 121 |
-| mpox | 14 | 15 | 8 | 12 | 17 | 17 | 26 | 109 |
+| dengue | 8 | 12 | 18 | 20 | 14 | 21 | 29 | 122 |
+| mpox | 14 | 15 | 8 | 12 | 17 | 18 | 26 | 110 |
 | chikungunya | 6 | 1 | 17 | 10 | 17 | 14 | 7 | 72 |
 | meningitis | 4 | 9 | 7 | 10 | 6 | 10 | 7 | 53 |
 | rabies | 3 | 8 | 3 | 19 | 7 | 5 | 2 | 47 |
-| hpai | 10 | 3 | 12 | 2 | 4 | 2 | 4 | 37 |
+| hpai | 10 | 3 | 12 | 2 | 4 | 3 | 4 | 38 |
 | typhoid | 3 | 8 | 0 | 1 | 2 | 2 | 4 | 20 |
 | zika | 3 | 0 | 2 | 3 | 4 | 6 | 2 | 20 |
 | pertussis | 0 | 5 | 1 | 0 | 7 | 1 | 0 | 14 |
-| yersinia | 1 | 2 | 2 | 3 | 0 | 0 | 1 | 9 |
+| yersinia | 1 | 2 | 2 | 3 | 0 | 0 | 0 | 8 |
 | leptospirosis | 3 | 0 | 1 | 0 | 0 | 0 | 0 | 4 |
 | shigellosis | 3 | 0 | 0 | 0 | 0 | 0 | 1 | 4 |
 
@@ -38,10 +38,6 @@ Source: [News API](https://newsapi.org/)
 - [Estimating per-infection cost and burden for dengue and Zika as a function of antibody-dependent enhancement](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012876) (Plos.org)
 
 - [Brasil aposta em mais vacinas para doenças tropicais e público maior](https://valor.globo.com/publicacoes/especiais/inovacao-na-medicina/noticia/2025/02/26/brasil-aposta-em-mais-vacinas-para-doencas-tropicais-e-publico-maior.ghtml) (Globo)
-
-## 25-9 (yersinia)
-
-- [The medieval house might have been built to specifications approved by a rodent council](https://www.isegoria.net/2025/02/the-medieval-house-might-have-been-built-to-specifications-approved-by-a-rodent-council/) (Isegoria.net)
 
 ## 25-9 (typhoid)
 
@@ -451,14 +447,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Hays County warns of possible measles exposure in San Marcos](https://www.fox7austin.com/news/hays-county-warns-possible-measles-exposure-san-marcos) (FOX 7 Austin)
 
-- [Gottlieb "very concerned" about Texas measles outbreak: "I think this will spread"](https://www.cbsnews.com/video/gottlieb-very-concerned-about-texas-measles-outbreak-i-think-this-will-spread/) (CBS News)
-
-- [TWiV 1195: Dickson Despommier, parasitologist without borders](https://www.microbe.tv/twiv/twiv-1195/) (Microbe.tv)
-
-- [Measles: A resurgent threat in Canada](https://theconversation.com/measles-a-resurgent-threat-in-canada-249932) (The Conversation Africa)
-
-- [‘Deadly consequences’: Health agencies reel from thousands of job cuts while critical research grants remain on hold | CNN](https://www.cnn.com/2025/02/23/health/public-health-job-cuts/index.html) (CNN)
-
 ## 25-9 (malaria)
 
 - [Trump Ends Funding For Malaria, H.I.V., & More Global Health Programs - NewsBreak](https://www.newsbreak.com/share/3834544178448-trump-ends-funding-for-malaria-h-i-v-more-global-health-programs?s=a2&share_destination_id=MzAxMzA4NTY4LTE3NDA4MTI1OTgzNjY%3D&pd=0KOG7cgN&hl=en_US&send_time=1740812598&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2224.39.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_model_exp_25q1-v8%2Cns_foryou_blend_exp_25q1-v3%2Cns_foryou_rank_exp_25q1-v2%2Cns_push_exp_rt_bucketv12-v2%2Cns_foryou_recall_exp_25q1-v3%2Cns_local_strategy_25q1_exp-v12) (Newsbreak.com)
@@ -589,14 +577,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Alerta el riesgo de que gripe aviar cause muertes humanas](https://www.jornada.com.mx/2025/02/24/politica/015n3pol) (Jornada.com.mx)
 
-- [USDA Confirms Bird Flu In Rats](https://www.shtfplan.com/headline-news/usda-confirms-bird-flu-in-rats) (Shtfplan.com)
-
-- [Gripe H5N1 será a nova ameaça depois da COVID-19?](https://pplware.sapo.pt/informacao/gripe-h5n1-sera-a-nova-ameaca-depois-da-covid-19/) (Sapo.pt)
-
-- [TWiV 1195: Dickson Despommier, parasitologist without borders](https://www.microbe.tv/twiv/twiv-1195/) (Microbe.tv)
-
-- [Francisco George: gripe H5N1 é ameaça de nova epidemia no horizonte](https://observador.pt/2025/02/23/francisco-george-gripe-h5n1-e-ameaca-de-nova-epidemia-no-horizonte/) (Observador.pt)
-
 ## 25-9 (dengue)
 
 - [“Mosquito argentino”. El temor al dengue genera hasta cinco horas de demora en un cruce fronterizo](https://www.lanacion.com.ar/sociedad/mosquito-argentino-el-temor-al-dengue-genera-hasta-cinco-horas-de-demora-en-un-cruce-fronterizo-nid01032025/) (La Nacion)
@@ -657,8 +637,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Enfermedades respiratorias aumentaron en Nayarit desde el inicio del 2025](https://www.excelsior.com.mx/nacional/enfermedades-respiratorias-aumentaron-en-nayarit-desde-el-inicio-del-2025/1701463) (Excelsior.com.mx)
 
-- [Philippine village battles dengue by offering bounties for mosquitos — dead or alive](https://www.voanews.com/a/philippine-village-battles-dengue-by-offering-bounties-for-mosquitos-dead-or-alive/7984215.html) (VOA News)
-
 ## 25-9 (chikungunya)
 
 - [Low capacity for molecular detection of Alphaviruses other than Chikungunya virus in 23 European laboratories, March 2022](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318602) (Plos.org)
@@ -712,6 +690,8 @@ Source: [News API](https://newsapi.org/)
 - [Whooping cough: Cases soar in US](https://www.bmj.com/content/389/bmj.r704) (The BMJ)
 
 ## 25-15 (mpox)
+
+- [The Mysterious Source Behind the Monkeypox Virus Is a Squirrel](https://www.discovermagazine.com/health/the-mysterious-source-behind-the-monkeypox-virus-is-a-squirrel) (Discover Magazine)
 
 - [Africa CDC raises concern over triple health threat](https://www.premiumtimesng.com/health/health-news/787092-africa-cdc-raises-concern-over-triple-health-threat.html) (Premium Times)
 
@@ -770,6 +750,28 @@ Source: [News API](https://newsapi.org/)
 - [Meningitis death toll hits 156, suspected cases 1,858](https://punchng.com/meningitis-death-toll-hits-156-suspected-cases-1858/) (The Punch)
 
 ## 25-15 (measles)
+
+- [Robert F. Kennedy Jr. falsely claims measles vaccine protection 'wanes very quickly' (Aria Bendix/NBC News)](https://www.memeorandum.com/250411/p102) (Memeorandum.com)
+
+- [Measles Updates: Cases Eclipse 700 As Outbreaks Reported In 3 More States, CDC Says](https://www.forbes.com/sites/antoniopequenoiv/2025/04/11/measles-updates-cases-eclipse-700-as-outbreaks-reported-in-3-more-states-cdc-says/) (Forbes)
+
+- [Weekly measles cases top 90 in U.S. for first time in years](https://www.cbsnews.com/news/measles-cases-weekly-top-90-first-time-years-cdc/) (CBS News)
+
+- [No Sign of Texas Measles Outbreak Slowing, Contrary to RFK Jr.’s Claims](https://www.factcheck.org/2025/04/no-sign-of-texas-measles-outbreak-slowing-contrary-to-rfk-jr-s-claims/) (FactCheck.org)
+
+- [Republican Points Finger at Illegal Immigration for Measles Outbreak](https://www.newsweek.com/ryan-mckenzie-immigrants-measles-outbreak-2058503) (Newsweek)
+
+- [Republican Has New Theory for Measles Outbreak—and It’s the Worst Yet](https://newrepublic.com/post/193915/republican-new-theory-measles-outbreak-immigrants) (The New Republic)
+
+- ["Not Just Measles": Whooping Cough Cases Are Soaring as Vaccine Rates Decline (ProPublica)](https://www.memeorandum.com/250411/p54) (Memeorandum.com)
+
+- [RFK Jr.: When You Think About It, Does Two Children Dying Of Measles Even Count?](https://www.wonkette.com/p/rfk-jr-when-you-think-about-it-does) (Wonkette.com)
+
+- [At the epicentre of Ontario's measles outbreak, residents reel with concern](https://www.cbc.ca/news/canada/london/at-the-epicentre-of-ontario-s-measles-outbreak-residents-reel-with-concern-1.7507545) (CBC News)
+
+- [“Not Just Measles”: Whooping Cough Cases Are Soaring as Vaccine Rates Decline](https://www.propublica.org/article/whooping-cough-measles-outbreak-vaccine-hesitancy-trump) (ProPublica)
+
+- [Science Based Satire: Falling Vaccine Coverage Over The Years Is A Problem That Likely Increased Due To The Failed Covid-19 Policies That Jonathan Howard Championed.](https://sciencebasedmedicine.org/pathetic/) (Sciencebasedmedicine.org)
 
 - [The Pitt’s Taylor Dearden on That Moving Finale and Building a Nuanced Neurodivergent Character](https://www.vanityfair.com/hollywood/story/taylor-dearden-the-pitt-finale-awards-insider) (Vanity Fair)
 
@@ -1021,11 +1023,17 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-15 (hpai)
 
+- [Σε επιφυλακή η Κομισιόν για την καταπολέμηση εξάπλωσης της γρίπης πτηνών στην Πολωνία: Σχεδιάζει έκτακτα μέτρα](https://www.skai.gr/news/world/gripi-ton-ptinon-se-epifylaki-i-komision-gia-tin-katapolemisi-eksaplosis-tis) (Skai.gr)
+
 - [日本HP、AI PCをメインストリーム製品まで拡充](https://prtimes.jp/main/html/rd/p/000000089.000068112.html) (Prtimes.jp)
 
 - [One year later: Highly pathogenic avian influenza confirmed in dairy cattle](https://phys.org/news/2025-04-year-highly-pathogenic-avian-influenza.html) (Phys.Org)
 
 ## 25-15 (h5n1)
+
+- [Figyelmeztet a szakértő: könnyen terjedhet Magyarországon egy emberre is veszélyes vírus](https://www.portfolio.hu/gazdasag/20250411/figyelmeztet-a-szakerto-konnyen-terjedhet-magyarorszagon-egy-emberre-is-veszelyes-virus-754355) (Portfolio.hu)
+
+- [Nachweis der Vogelgrippe in fünf Minuten: So funktioniert ein neuer Biosensor](https://t3n.de/news/nachweis-der-vogelgrippe-in-fuenf-minuten-so-funktioniert-ein-neuer-biosensor-1682854/) (T3n)
 
 - [É possível pegar gripe aviária consumindo leite e ovos? Entenda](https://www.metropoles.com/saude/gripe-aviaria-risco-transmissao-leite-ovos) (Metropoles.com)
 
@@ -1152,6 +1160,10 @@ Source: [News API](https://newsapi.org/)
 - [Q&A: How Nova Scotians can help prevent the spread of bird flu](https://www.cbc.ca/news/canada/nova-scotia/how-to-prevent-bird-flu-1.7502052) (CBC News)
 
 ## 25-15 (dengue)
+
+- [Book Club: Readers admit they weren’t impressed with our latest novel](https://www.newscientist.com/article/2475882-book-club-readers-admit-they-werent-impressed-with-our-latest-novel/) (New Scientist)
+
+- [Curta](https://valor.globo.com/brasil/noticia/2025/04/11/3af325b8-curta.ghtml) (Globo)
 
 - [Hospitais particulares de São Paulo registram aumento de internações por dengue](https://www.terra.com.br/vida-e-estilo/saude/hospitais-particulares-de-sao-paulo-registram-aumento-de-internacoes-por-dengue,3f40c24aabdc912de5f959e43ffcb3ae39zdgq54.html) (Terra.com.br)
 
