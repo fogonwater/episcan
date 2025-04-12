@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 18
-- **Last harvest:** 2025-04-11 19:06
-- **Most recent article:** 2025-04-10 18:58:21
+- **New articles in last harvest:** 28
+- **Last harvest:** 2025-04-12 07:06
+- **Most recent article:** 2025-04-11 06:20:47
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-10 | 25-11 | 25-12 | 25-13 | 25-14 | 25-15 | 25-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 142 | 133 | 108 | 101 | 77 | 95 | 158 | 814 |
-| h5n1 | 23 | 39 | 57 | 47 | 46 | 60 | 38 | 310 |
+| measles | 142 | 133 | 108 | 101 | 77 | 114 | 162 | 837 |
+| h5n1 | 23 | 39 | 57 | 47 | 46 | 62 | 42 | 316 |
 | malaria | 29 | 22 | 18 | 30 | 13 | 9 | 20 | 141 |
-| dengue | 8 | 12 | 18 | 20 | 14 | 18 | 29 | 119 |
-| mpox | 14 | 15 | 8 | 12 | 17 | 14 | 26 | 106 |
+| dengue | 8 | 12 | 18 | 20 | 14 | 19 | 30 | 121 |
+| mpox | 14 | 15 | 8 | 12 | 17 | 17 | 26 | 109 |
 | chikungunya | 6 | 1 | 17 | 10 | 17 | 14 | 7 | 72 |
-| meningitis | 4 | 9 | 7 | 10 | 6 | 9 | 7 | 52 |
+| meningitis | 4 | 9 | 7 | 10 | 6 | 10 | 7 | 53 |
 | rabies | 3 | 8 | 3 | 19 | 7 | 5 | 2 | 47 |
-| hpai | 10 | 3 | 12 | 2 | 4 | 1 | 4 | 36 |
+| hpai | 10 | 3 | 12 | 2 | 4 | 2 | 4 | 37 |
+| typhoid | 3 | 8 | 0 | 1 | 2 | 2 | 4 | 20 |
 | zika | 3 | 0 | 2 | 3 | 4 | 6 | 2 | 20 |
-| typhoid | 3 | 8 | 0 | 1 | 2 | 1 | 4 | 19 |
 | pertussis | 0 | 5 | 1 | 0 | 7 | 1 | 0 | 14 |
-| yersinia | 1 | 2 | 2 | 3 | 0 | 0 | 0 | 8 |
+| yersinia | 1 | 2 | 2 | 3 | 0 | 0 | 1 | 9 |
 | leptospirosis | 3 | 0 | 1 | 0 | 0 | 0 | 0 | 4 |
 | shigellosis | 3 | 0 | 0 | 0 | 0 | 0 | 1 | 4 |
 
@@ -38,6 +38,10 @@ Source: [News API](https://newsapi.org/)
 - [Estimating per-infection cost and burden for dengue and Zika as a function of antibody-dependent enhancement](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012876) (Plos.org)
 
 - [Brasil aposta em mais vacinas para doenças tropicais e público maior](https://valor.globo.com/publicacoes/especiais/inovacao-na-medicina/noticia/2025/02/26/brasil-aposta-em-mais-vacinas-para-doencas-tropicais-e-publico-maior.ghtml) (Globo)
+
+## 25-9 (yersinia)
+
+- [The medieval house might have been built to specifications approved by a rodent council](https://www.isegoria.net/2025/02/the-medieval-house-might-have-been-built-to-specifications-approved-by-a-rodent-council/) (Isegoria.net)
 
 ## 25-9 (typhoid)
 
@@ -447,6 +451,14 @@ Source: [News API](https://newsapi.org/)
 
 - [Hays County warns of possible measles exposure in San Marcos](https://www.fox7austin.com/news/hays-county-warns-possible-measles-exposure-san-marcos) (FOX 7 Austin)
 
+- [Gottlieb "very concerned" about Texas measles outbreak: "I think this will spread"](https://www.cbsnews.com/video/gottlieb-very-concerned-about-texas-measles-outbreak-i-think-this-will-spread/) (CBS News)
+
+- [TWiV 1195: Dickson Despommier, parasitologist without borders](https://www.microbe.tv/twiv/twiv-1195/) (Microbe.tv)
+
+- [Measles: A resurgent threat in Canada](https://theconversation.com/measles-a-resurgent-threat-in-canada-249932) (The Conversation Africa)
+
+- [‘Deadly consequences’: Health agencies reel from thousands of job cuts while critical research grants remain on hold | CNN](https://www.cnn.com/2025/02/23/health/public-health-job-cuts/index.html) (CNN)
+
 ## 25-9 (malaria)
 
 - [Trump Ends Funding For Malaria, H.I.V., & More Global Health Programs - NewsBreak](https://www.newsbreak.com/share/3834544178448-trump-ends-funding-for-malaria-h-i-v-more-global-health-programs?s=a2&share_destination_id=MzAxMzA4NTY4LTE3NDA4MTI1OTgzNjY%3D&pd=0KOG7cgN&hl=en_US&send_time=1740812598&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2224.39.0%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_model_exp_25q1-v8%2Cns_foryou_blend_exp_25q1-v3%2Cns_foryou_rank_exp_25q1-v2%2Cns_push_exp_rt_bucketv12-v2%2Cns_foryou_recall_exp_25q1-v3%2Cns_local_strategy_25q1_exp-v12) (Newsbreak.com)
@@ -577,6 +589,14 @@ Source: [News API](https://newsapi.org/)
 
 - [Alerta el riesgo de que gripe aviar cause muertes humanas](https://www.jornada.com.mx/2025/02/24/politica/015n3pol) (Jornada.com.mx)
 
+- [USDA Confirms Bird Flu In Rats](https://www.shtfplan.com/headline-news/usda-confirms-bird-flu-in-rats) (Shtfplan.com)
+
+- [Gripe H5N1 será a nova ameaça depois da COVID-19?](https://pplware.sapo.pt/informacao/gripe-h5n1-sera-a-nova-ameaca-depois-da-covid-19/) (Sapo.pt)
+
+- [TWiV 1195: Dickson Despommier, parasitologist without borders](https://www.microbe.tv/twiv/twiv-1195/) (Microbe.tv)
+
+- [Francisco George: gripe H5N1 é ameaça de nova epidemia no horizonte](https://observador.pt/2025/02/23/francisco-george-gripe-h5n1-e-ameaca-de-nova-epidemia-no-horizonte/) (Observador.pt)
+
 ## 25-9 (dengue)
 
 - [“Mosquito argentino”. El temor al dengue genera hasta cinco horas de demora en un cruce fronterizo](https://www.lanacion.com.ar/sociedad/mosquito-argentino-el-temor-al-dengue-genera-hasta-cinco-horas-de-demora-en-un-cruce-fronterizo-nid01032025/) (La Nacion)
@@ -637,6 +657,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Enfermedades respiratorias aumentaron en Nayarit desde el inicio del 2025](https://www.excelsior.com.mx/nacional/enfermedades-respiratorias-aumentaron-en-nayarit-desde-el-inicio-del-2025/1701463) (Excelsior.com.mx)
 
+- [Philippine village battles dengue by offering bounties for mosquitos — dead or alive](https://www.voanews.com/a/philippine-village-battles-dengue-by-offering-bounties-for-mosquitos-dead-or-alive/7984215.html) (VOA News)
+
 ## 25-9 (chikungunya)
 
 - [Low capacity for molecular detection of Alphaviruses other than Chikungunya virus in 23 European laboratories, March 2022](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318602) (Plos.org)
@@ -669,6 +691,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-15 (typhoid)
 
+- [Daredevil season 4 on Netflix would have been quite different from Daredevil: Born Again; a Typhoid Mary story with Alice Eve](https://www.joblo.com/daredevil-typhoid-mary/) (JoBlo.com)
+
 - [Bacolod: Typhoid cases up 86 percent, 3 deaths recorded in NegOcc](https://rpnradio.com/bacolod-typhoid-cases-up-86-percent-3-deaths-recorded-in-negocc/) (Rpnradio.com)
 
 ## 25-15 (rabies)
@@ -688,6 +712,12 @@ Source: [News API](https://newsapi.org/)
 - [Whooping cough: Cases soar in US](https://www.bmj.com/content/389/bmj.r704) (The BMJ)
 
 ## 25-15 (mpox)
+
+- [Africa CDC raises concern over triple health threat](https://www.premiumtimesng.com/health/health-news/787092-africa-cdc-raises-concern-over-triple-health-threat.html) (Premium Times)
+
+- [Epidemia de mpox no remite en África; registra una media de 3 mil casos semanales](https://www.milenio.com/internacional/epidemia-mpox-remite-africa-hast-3-mil-casos-por-semana) (Milenio)
+
+- [África tem em média 3.000 novos casos de Mpox por semana e epidemia continua a propagar-se](https://observador.pt/2025/04/10/africa-tem-em-media-3-000-novos-casos-de-mpox-por-semana-e-epidemia-continua-a-propagar-se/) (Observador.pt)
 
 - [Mpox: Ein totes Affenbaby führt Forscher erstmals zum Ursprung von Mpox](https://www.zeit.de/gesundheit/2025-04/mpox-virus-reservoir-tiere-babyaffe-forschung) (Die Zeit)
 
@@ -719,6 +749,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-15 (meningitis)
 
+- [Sokoto unveils campaign to tackle meningitis](https://punchng.com/sokoto-unveils-campaign-to-tackle-meningitis/) (The Punch)
+
 - [La OMS publica sus primeras directrices para mejorar la atención de la meningitis](https://www.montevideo.com.uy/Salud/La-OMS-publica-sus-primeras-directrices-para-mejorar-la-atencion-de-la-meningitis-uc920397) (Montevideo.com.uy)
 
 - [Preventable ‘meningitis belt’ deaths targeted in health agency action plan](https://news.un.org/en/story/2025/04/1162061) (UN News)
@@ -739,13 +771,37 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-15 (measles)
 
+- [The Pitt’s Taylor Dearden on That Moving Finale and Building a Nuanced Neurodivergent Character](https://www.vanityfair.com/hollywood/story/taylor-dearden-the-pitt-finale-awards-insider) (Vanity Fair)
+
+- [Extra measles vaccine shot recommended for some domestic travelers](https://www.cbsnews.com/news/measles-vaccine-cdc-texas-kansas-travel/) (CBS News)
+
+- [Outbreak spreading like wildfire...](https://www.the-express.com/news/168546) (The-express.com)
+
+- [Measles Outbreak in U.S. May Undo Formal ‘Elimination’ Status](https://www.scientificamerican.com/article/measles-outbreak-in-u-s-may-undo-formal-elimination-status/) (Scientific American)
+
+- [What RFK Jr. Told Grieving Texas Families About the Measles Vaccine (Tom Bartlett/The Atlantic)](https://www.memeorandum.com/250410/p118) (Memeorandum.com)
+
 - [Measles Updates: About 680 Cases Now Confirmed, Kennedy Says](https://www.forbes.com/sites/antoniopequenoiv/2025/04/10/measles-updates-about-680-cases-now-confirmed-kennedy-says/) (Forbes)
 
 - [RFK Jr. suggests some vaccines are risky or ineffective, downplays measles threat (Daniel Payne/STAT)](https://www.memeorandum.com/250410/p85) (Memeorandum.com)
 
+- [More potential measles exposures in Kingston, Belleville](https://www.cbc.ca/news/canada/ottawa/measles-kingston-belleville-case-guidance-advice-1.7482721) (CBC News)
+
+- [Ontario measles case count tops 800, 155 new infections since last week](https://www.cbc.ca/news/canada/toronto/ontario-measles-case-count-exceeds-800-total-1.7506928) (CBC News)
+
+- [Outbreak spreading like wildfire...](https://www.the-express.com/news/health/168546/measles-outbreak-texas-surpasses-500-unvaccinated) (The-express.com)
+
 - [Measles outbreaks in US and Canada show that MMR vaccines are needed more than ever – an expert in children’s health explains](https://theconversation.com/measles-outbreaks-in-us-and-canada-show-that-mmr-vaccines-are-needed-more-than-ever-an-expert-in-childrens-health-explains-221651) (The Conversation Africa)
 
+- [Almost 90 per cent of Ontario's growing measles cases are in the southwest](https://www.cbc.ca/news/canada/london/ontario-public-health-measles-april-cases-1.7506748) (CBC News)
+
+- [35 new measles cases reported south of London in past week](https://www.cbc.ca/news/canada/london/southwestern-public-health-measles-april-cases-1.7506748) (CBC News)
+
+- [What RFK Jr. Told Grieving Texas Families About the Measles Vaccine](https://www.theatlantic.com/health/archive/2025/04/rfk-measles-grieving-families-texas/682386/) (The Atlantic)
+
 - [RFK Jr.’s Own Movement Turns Against Him](https://politicalwire.com/2025/04/10/rfk-jr-s-own-movement-turns-against-him/) (Politicalwire.com)
+
+- [As measles spreads, federal budget cuts force closure of vaccine clinics](https://www.npr.org/sections/shots-health-news/2025/04/10/nx-s1-5357471/measles-outbreak-hhs-federal-budget-cuts-vaccine-clinics) (NPR)
 
 - [RFK Jr. praises measles response in Texas, US by making comparison to Europe](https://abcnews.go.com/Health/rfk-jr-praises-measles-response-texas-us-making/story?id=120657997) (ABC News)
 
@@ -755,7 +811,11 @@ Source: [News API](https://newsapi.org/)
 
 - [RFK Jr. Travels To Texas To Look Over What He Helped Create, Including A Tiny Casket](https://www.techdirt.com/2025/04/09/rfk-jr-travels-to-texas-to-look-over-what-he-helped-create-including-a-tiny-casket/) (Techdirt)
 
+- [Alberta's measles case counts climb with central zone hardest hit](https://www.cbc.ca/news/canada/calgary/alberta-s-measles-case-counts-climb-with-central-zone-hardest-hit-1.7505154) (CBC News)
+
 - [Apr 9: CBS News 24/7, 10am ET](https://www.cbsnews.com/video/040925-cbs-news-247-episode-1/) (CBS News)
+
+- [RFK Jr. draws from misinformation playbook by touting an inhaled steroid to treat measles](https://www.nbcnews.com/health/health-news/kennedy-draws-misinformation-playbook-touting-inhaled-steroid-treat-me-rcna200085) (NBC News)
 
 - [RFK Jr. says he's "not familiar" with all health program cuts](https://www.cbsnews.com/news/rfk-jr-sweeping-cuts-health-programs-employees-exclusive-interview/) (CBS News)
 
@@ -777,9 +837,13 @@ Source: [News API](https://newsapi.org/)
 
 - [RFK Jr. claims curve is flattening in Texas measles outbreak. Does the data agree?](https://abcnews.go.com/Health/rfk-jr-claims-curve-flattening-texas-measles-outbreak/story?id=120554374) (ABC News)
 
+- [Ontario schools begin suspending students who aren't fully vaccinated](https://www.cbc.ca/news/canada/toronto/ontario-schools-suspend-students-vaccines-1.7505150) (CBC News)
+
 - [Kennedy sends mixed messages amid measles outbreak](https://www.msnbc.com/rachel-maddow-show/maddowblog/rfk-jr-measles-texas-death-anti-vaccine-doctors-rcna200263) (MSNBC)
 
 - [Measles Cases Exceed 500 In Texas After Second Child Dies Of Illness](https://www.forbes.com/sites/antoniopequenoiv/2025/04/08/measles-outbreak-second-child-dies-in-texas-as-more-than-600-cases-confirmed-nationwide/) (Forbes)
+
+- [Texas' measles outbreak isn't slowing down. How can that change?](https://www.npr.org/2025/04/08/nx-s1-5342706/texas-measles-outbreak-vaccine-seminole-gaines) (NPR)
 
 - [Idaho Cuts Public Health Benefits for Undocumented Immigrants](https://time.com/7275849/idaho-ends-publicly-funded-vaccinations-for-undocumented-immigrants/) (Time)
 
@@ -796,6 +860,12 @@ Source: [News API](https://newsapi.org/)
 - [Anti-Vaxxers Aren’t Happy With RFK Jr.](http://www.thecut.com/article/anti-vaxxers-upset-rfk-jr-mmr-vaccine.html) (The Cut)
 
 - [Texas measles outbreak includes multiple cases at a day care in Lubbock](https://www.bostonherald.com/2025/04/08/measles-outbreak-texas-day-care/) (Boston Herald)
+
+- [Texas measles outbreak includes multiple cases at a day care in Lubbock](https://abcnews.go.com/Health/wireStory/texas-measles-outbreak-includes-multiple-cases-day-care-120597239) (ABC News)
+
+- [Measles vaccine booster: Who should get it and why?](https://www.medicalnewstoday.com/articles/expert-qa-should-you-get-a-measles-vaccine-booster) (Medical News Today)
+
+- [Jimmy Kimmel Complains America Is “Pedaling Backwards In Every Area Of American Life” Amid Measles Outbreak, Market Drop](https://decider.com/2025/04/08/jimmy-kimmel-america-pedaling-backwards-measles-outbreak-market-drop/) (Decider)
 
 - [Links 4/8/2025](https://www.nakedcapitalism.com/2025/04/links-4-8-2025.html) (Nakedcapitalism.com)
 
@@ -951,9 +1021,15 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-15 (hpai)
 
+- [日本HP、AI PCをメインストリーム製品まで拡充](https://prtimes.jp/main/html/rd/p/000000089.000068112.html) (Prtimes.jp)
+
 - [One year later: Highly pathogenic avian influenza confirmed in dairy cattle](https://phys.org/news/2025-04-year-highly-pathogenic-avian-influenza.html) (Phys.Org)
 
 ## 25-15 (h5n1)
+
+- [É possível pegar gripe aviária consumindo leite e ovos? Entenda](https://www.metropoles.com/saude/gripe-aviaria-risco-transmissao-leite-ovos) (Metropoles.com)
+
+- [咀嚼新研香口膠 可減少流感和疱疹病毒傳播](https://unwire.hk/2025/04/11/antiviral-chewing-gum-influenza-herpes/fun-tech/) (Unwire.hk)
 
 - [ابتكار علكة مضادة للفيروسات للحد من انتشار العدوى](https://www.aljazeera.net/health/2025/4/10/%d8%a7%d8%a8%d8%aa%d9%83%d8%a7%d8%b1-%d8%b9%d9%84%d9%83%d8%a9-%d9%85%d8%b6%d8%a7%d8%af%d8%a9-%d9%84%d9%84%d9%81%d9%8a%d8%b1%d9%88%d8%b3%d8%a7%d8%aa-%d9%84%d9%84%d8%ad%d8%af-%d9%85%d9%86) (Aljazeera.net)
 
@@ -1076,6 +1152,8 @@ Source: [News API](https://newsapi.org/)
 - [Q&A: How Nova Scotians can help prevent the spread of bird flu](https://www.cbc.ca/news/canada/nova-scotia/how-to-prevent-bird-flu-1.7502052) (CBC News)
 
 ## 25-15 (dengue)
+
+- [Hospitais particulares de São Paulo registram aumento de internações por dengue](https://www.terra.com.br/vida-e-estilo/saude/hospitais-particulares-de-sao-paulo-registram-aumento-de-internacoes-por-dengue,3f40c24aabdc912de5f959e43ffcb3ae39zdgq54.html) (Terra.com.br)
 
 - [Dengue cresce na cidade de São Paulo e se torna epidêmica em cinco distritos](https://valor.globo.com/brasil/noticia/2025/04/10/dengue-cresce-na-cidade-de-so-paulo-e-se-torna-epidmica-em-cinco-distritos.ghtml) (Globo)
 
