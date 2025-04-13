@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 17
-- **Last harvest:** 2025-04-13 07:06
-- **Most recent article:** 2025-04-12 04:00:00
+- **New articles in last harvest:** 9
+- **Last harvest:** 2025-04-13 19:05
+- **Most recent article:** 2025-04-12 19:00:59
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-10 | 25-11 | 25-12 | 25-13 | 25-14 | 25-15 | Total |
 |--|-|-|-|-|-|-|-|
-| measles | 141 | 133 | 108 | 101 | 77 | 137 | 697 |
+| measles | 140 | 133 | 108 | 101 | 77 | 143 | 702 |
 | h5n1 | 20 | 39 | 57 | 47 | 46 | 66 | 275 |
-| malaria | 26 | 22 | 18 | 30 | 13 | 9 | 118 |
-| dengue | 8 | 12 | 18 | 20 | 14 | 22 | 94 |
+| malaria | 25 | 22 | 18 | 30 | 13 | 10 | 118 |
+| dengue | 7 | 12 | 18 | 20 | 14 | 24 | 95 |
 | mpox | 13 | 15 | 8 | 12 | 17 | 18 | 83 |
-| chikungunya | 6 | 1 | 17 | 10 | 17 | 14 | 65 |
+| chikungunya | 6 | 1 | 17 | 10 | 17 | 15 | 66 |
 | rabies | 3 | 8 | 3 | 19 | 7 | 7 | 47 |
 | meningitis | 4 | 9 | 7 | 10 | 6 | 10 | 46 |
-| hpai | 8 | 3 | 12 | 2 | 4 | 3 | 32 |
-| zika | 3 | 0 | 2 | 3 | 4 | 6 | 18 |
+| hpai | 7 | 3 | 12 | 2 | 4 | 3 | 31 |
+| zika | 3 | 0 | 2 | 3 | 4 | 7 | 19 |
 | typhoid | 3 | 8 | 0 | 1 | 2 | 2 | 16 |
 | pertussis | 0 | 5 | 1 | 0 | 7 | 2 | 15 |
 | yersinia | 1 | 2 | 2 | 3 | 0 | 0 | 8 |
@@ -34,6 +34,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 25-15 (zika)
+
+- [Graz sagt der Tigermücke den Kampf an](https://steiermark.orf.at/stories/3301013/) (Steiermark.orf.at)
 
 - [Žuvačkou proti chrípke aj ďalším vírusom? Vedci prišli s objavom, ktorý má potenciál spomaliť šírenie nebezpečných infekcií](https://zdravie.pravda.sk/zdravie-a-prevencia/clanok/747313-zuvackou-proti-chripke-aj-dalsim-virusom-vedci-prisli-s-velkym-objavom-ktory-ma-potencial-spomalit-sirenie-nebezpecnych-infekcii/) (Pravda.sk)
 
@@ -136,6 +138,18 @@ Source: [News API](https://newsapi.org/)
 - [Meningitis death toll hits 156, suspected cases 1,858](https://punchng.com/meningitis-death-toll-hits-156-suspected-cases-1858/) (The Punch)
 
 ## 25-15 (measles)
+
+- [Measles cases rise to 700, adding pressure to RFK Jr. (Filip Timotija/The Hill)](https://www.memeorandum.com/250412/p38) (Memeorandum.com)
+
+- [Possible measles exposure at Coca-Cola Coliseum concert, warns Toronto Public Health](https://www.cbc.ca/news/canada/toronto/toronto-public-health-measles-exposure-possible-downtown-concert-1.7508898) (CBC News)
+
+- [Backlash Ensues Over GOPer's 'Deeply Embarrassing' Lie About Measles Outbreak](https://crooksandliars.com/2025/04/backlash-ensues-after-gopers-deeply) (Crooksandliars.com)
+
+- [Measles Booster Vaccine In UK](https://ask.metafilter.com/385280/Measles-Booster-Vaccine-In-UK) (Metafilter.com)
+
+- [Deadly measles outbreak does little to counter vaccine scepticism in Texas](https://www.bbc.com/news/articles/cwy7eyde3xeo) (BBC News)
+
+- [Measles outbreaks spark concern over rare 'horrific' neurological disorder](https://www.cbc.ca/news/health/measles-complications-1.7508645) (CBC News)
 
 - [Dr. Malone tackles the Texas measles epidemic](https://www.americanthinker.com/blog/2025/04/dr_malone_tackles_the_texas_measles_epidemic.html) (Americanthinker.com)
 
@@ -413,6 +427,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-15 (malaria)
 
+- [Stakeholders seek youth participation in fight against malaria](https://punchng.com/stakeholders-seek-youth-participation-in-fight-against-malaria/) (The Punch)
+
 - [Towards promoting timely treatment: Uncovering the determinants of prompt malaria care seeking behavior among febrile children under-five years in Tanzania](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0319913) (Plos.org)
 
 - [グローバルファンド事務局長に聞く、「グローバルヘルスの活動も効率重視」](https://bio.nikkeibp.co.jp/atcl/news/p1/25/04/03/13157/) (Nikkeibp.co.jp)
@@ -575,6 +591,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-15 (dengue)
 
+- [Dengue cases in the West on decline - Ministry of Health - The Fiji Times](https://www.fijitimes.com.fj/dengue-cases-in-the-west-on-decline-ministry-of-health/) (Fijitimes.com.fj)
+
+- [Graz sagt der Tigermücke den Kampf an](https://steiermark.orf.at/stories/3301013/) (Steiermark.orf.at)
+
 - [Vacinação em massa contra a dengue é uma das principais apostas da Saúde para 2026](https://www.infomoney.com.br/saude/vacinacao-em-massa-contra-a-dengue-e-uma-das-principais-apostas-da-saude-para-2026/) (InfoMoney)
 
 - [Book Club: Readers admit they weren’t impressed with our latest novel](https://www.newscientist.com/article/2475882-book-club-readers-admit-they-werent-impressed-with-our-latest-novel/) (New Scientist)
@@ -620,6 +640,8 @@ Source: [News API](https://newsapi.org/)
 - [Alvo da CGU, ONG ganha R$ 40 mi em contratos para dengue e jogo LoL](https://www.metropoles.com/distrito-federal/alvo-da-cgu-ong-ganha-r-40-mi-em-contratos-para-dengue-e-jogo-lol) (Metropoles.com)
 
 ## 25-15 (chikungunya)
+
+- [Graz sagt der Tigermücke den Kampf an](https://steiermark.orf.at/stories/3301013/) (Steiermark.orf.at)
 
 - [Bengaluru feels the sting as chikungunya sees spike, dept steps up monitoring](https://timesofindia.indiatimes.com/city/bengaluru/bengaluru-feels-the-sting-as-chikungunya-sees-spike-dept-steps-up-monitoring/articleshow/120144957.cms) (The Times of India)
 
@@ -3069,8 +3091,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Stopping Measles Outbreak Is 'a Top Priority,' Kennedy Says](https://www.newser.com/story/365052/stopping-measles-outbreak-is-a-top-priority-kennedy-says.html) (Newser)
 
-- [Taking shots at vaccines has deadly consequences (Glenn C. Altschuler/The Hill)](https://www.memeorandum.com/250302/p12) (Memeorandum.com)
-
 ## 25-10 (malaria)
 
 - [Ministry of Health to Issue Antimalarial Medicines in Turkana Starting June](https://www.kenyans.co.ke/news/109743-ministry-health-issue-antimalarial-medicines-turkana-starting-june) (Kenyans.co.ke)
@@ -3123,8 +3143,6 @@ Source: [News API](https://newsapi.org/)
 
 - [U.S.A.I.D. Memos Detail Human Costs of Cuts to Foreign Aid (Apoorva Mandavilli/New York Times)](https://www.memeorandum.com/250302/p101) (Memeorandum.com)
 
-- [Giving an old malaria drug new life](https://www.thestar.com.my/lifestyle/health/2025/03/02/giving-an-old-malaria-drug-new-life) (The Star Online)
-
 ## 25-10 (leptospirosis)
 
 - [Into the spotlight: A spatial study of potentially underreported leptospirosis among dengue-negative patients in São Paulo city, Brazil](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012888) (Plos.org)
@@ -3148,8 +3166,6 @@ Source: [News API](https://newsapi.org/)
 - [Raw cat food recalled after state testing finds contamination with bird flu](https://www.foodsafetynews.com/2025/03/raw-cat-food-recalled-after-state-testing-finds-contamination-with-bird-flu/) (Food Safety News)
 
 - [Animal Ag News 3/3](https://agwired.com/2025/03/03/animal-ag-news-3-3/) (AgWired)
-
-- [Puste półki w USA. Polski potentat jaj: problemy też w Polsce, ceny pójdą w górę](https://businessinsider.com.pl/finanse/handel/puste-polki-w-usa-polski-potentat-jaj-problemy-tez-w-polsce-ceny-pojda-w-gore/m8sdxpe) (Businessinsider.com.pl)
 
 ## 25-10 (h5n1)
 
@@ -3208,8 +3224,6 @@ Source: [News API](https://newsapi.org/)
 - [Terratis se renforce dans sa lutte contre le moustique tigre](https://objectif-languedoc-roussillon.latribune.fr/innovation/2025-03-03/terratis-se-renforce-dans-sa-lutte-contre-le-moustique-tigre-1019699.html) (La Tribune.fr)
 
 - [Brumbies flanker Tualima diagnosed with dengue fever](https://www.bbc.com/sport/rugby-union/articles/cgl0e67r6dyo) (BBC News)
-
-- [Ssa: este año, mil 781 casos de dengue y cero muertes](https://www.jornada.com.mx/2025/03/02/sociedad/027n1soc) (Jornada.com.mx)
 
 ## 25-10 (chikungunya)
 

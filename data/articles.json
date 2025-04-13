@@ -1,8 +1,172 @@
 {
-  "last_updated": "2025-04-13 07:06",
-  "count_articles_total": 1488,
-  "count_articles_new": 17,
+  "last_updated": "2025-04-13 19:05",
+  "count_articles_total": 1493,
+  "count_articles_new": 9,
   "articles": [
+    {
+      "id": 20360,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Fijitimes.com.fj",
+      "author": "Anish Chand",
+      "title": "Dengue cases in the West on decline - Ministry of Health - The Fiji Times",
+      "description": "The Ministry of Health states there is a decline in reported dengue fever cases in the Western division. The Ministry adds it is implementing its Dengue Outbreak Response Plan and continues to monitor the outbreak situation at divisional and national levels. \u2026",
+      "url": "https://www.fijitimes.com.fj/dengue-cases-in-the-west-on-decline-ministry-of-health/",
+      "urlToImage": "https://www.fijitimes.com.fj/wp-content/uploads/2025/04/489915682_973725541615816_3164067915791661914_n.jpg",
+      "publishedAt": "2025-04-12 19:00:59",
+      "content": "The Ministry of Health states there is a decline in reported dengue fever cases in the Western division. The Ministry adds it is implementing its Dengue Outbreak Response Plan and continues to monit\u2026 [+483 chars]",
+      "retrievedAt": "2025-04-13 19:05:35.922434",
+      "internal_id": "291351b5a54e4b24a4ac162720b2e72e6bb44c24808b76508f58f63a6cb77fb3",
+      "publishedAtLabel": "Apr 12"
+    },
+    {
+      "id": 20355,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "Measles cases rise to 700, adding pressure to RFK Jr. (Filip Timotija/The Hill)",
+      "description": "Filip Timotija / The Hill: Measles cases rise to 700, adding pressure to RFK Jr. \u2014 The measles outbreak has now surpassed 700 reported cases in the U.S., raising the pressure on Health and Human Services Secretary Robert F. Kennedy Jr. to rein in the deadly\u2026",
+      "url": "https://www.memeorandum.com/250412/p38",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2025/04/AP25056624089896-e1744465397775.jpg?w=1280",
+      "publishedAt": "2025-04-12 17:30:00",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-04-13 19:05:34.036388",
+      "internal_id": "91485286f0edeb62fe39a91a97498bf10d8a03f38d476a5035abe6a7b7c6a023",
+      "publishedAtLabel": "Apr 12"
+    },
+    {
+      "id": 20357,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Possible measles exposure at Coca-Cola Coliseum concert, warns Toronto Public Health",
+      "description": "With more than 800 measles cases recorded in Ontario since the fall, TPH says it has confirmed another case in a person who attended an April 1 concert at the downtown venue. Anyone who attended may have been exposed, the department says.",
+      "url": "https://www.cbc.ca/news/canada/toronto/toronto-public-health-measles-exposure-possible-downtown-concert-1.7508898",
+      "urlToImage": "https://i.cbc.ca/1.7131773.1716008972!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/measles-virus.jpg?im=Resize%3D620",
+      "publishedAt": "2025-04-12 13:25:15",
+      "content": "As Ontario deals with an ongoing measles outbreak, Toronto Public Health is warning of a new potential exposure at a downtown concert this month. The department says a case was confirmed in someone \u2026 [+1619 chars]",
+      "retrievedAt": "2025-04-13 19:05:34.098876",
+      "internal_id": "2b554e2b97905cf0104682e653aeeb03e4ceac187cdfafb82633fe8e27b37984",
+      "publishedAtLabel": "Apr 12"
+    },
+    {
+      "id": 20359,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Steiermark.orf.at",
+      "author": "ORF.at",
+      "title": "Graz sagt der Tigerm\u00fccke den Kampf an",
+      "description": "Die Stadt Graz will der Asiatischen Tigerm\u00fccke mit einem \u00f6sterreichweit einzigartigen Pilotprojekt den Kampf ansagen. Um die Ausbreitung einzud\u00e4mmen, sollen sterilisierte Tigerm\u00fcckenm\u00e4nnchen eingesetzt werden.",
+      "url": "https://steiermark.orf.at/stories/3301013/",
+      "urlToImage": "https://ibs.orf.at/stm?image=https%3A%2F%2Foekastatic.orf.at%2Fmims%2F2023%2F24%2F74%2Fcrops%2Fw%3D1200%2Ch%3D627%2Cq%3D75%2F1824981_master_680974_apa_handout_steiermark_asiatische_tigermuecke_.jpg%3Fs%3Dc1bb7d25e1a11a5e2ae6ec256c63414565271c75",
+      "publishedAt": "2025-04-12 12:46:40",
+      "content": "Die urspr\u00fcnglich aus den Tropen stammende Asiatische Tigerm\u00fccke gilt als m\u00f6gliche \u00dcbertr\u00e4gerin von \u00fcber 20 verschiedenen Krankheitserregern darunter Dengue-, Zika- oder Chikungunya-Viren. 2022 wurde\u2026 [+2825 chars]",
+      "retrievedAt": "2025-04-13 19:05:35.907483",
+      "internal_id": "5d8d9887700e73bc61bb26132f8f32ac822f87a904a5cdf77c04d5b835b3a881",
+      "publishedAtLabel": "Apr 12"
+    },
+    {
+      "id": 20353,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Crooksandliars.com",
+      "author": "Conover Kennard",
+      "title": "Backlash Ensues Over GOPer's 'Deeply Embarrassing' Lie About Measles Outbreak",
+      "description": "Pennsylvania Rep. Ryan Mackenzie told a bold-faced lie on CNN\u2019s Town Hall, claiming without evidence that undocumented immigrants were to blame for the measles outbreaks in the United States. Health officials attribute the rapid spread of the disease to decli\u2026",
+      "url": "https://crooksandliars.com/2025/04/backlash-ensues-after-gopers-deeply",
+      "urlToImage": "https://crooksandliars.com/files/mediaposters/2025/04/56862.jpg",
+      "publishedAt": "2025-04-12 12:21:16",
+      "content": "Pennsylvania Rep. Ryan Mackenzie told a bold-faced lie on CNNs Town Hall, claiming without evidence that undocumented immigrants were to blame for the measles outbreaks in the United States. Health o\u2026 [+2250 chars]",
+      "retrievedAt": "2025-04-13 19:05:33.904765",
+      "internal_id": "8065c91555b472ef67587e0799a13e33d444c2fe52032ebc40a22279e989bb49",
+      "publishedAtLabel": "Apr 12"
+    },
+    {
+      "id": 20356,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Metafilter.com",
+      "author": "eternalhedgehog",
+      "title": "Measles Booster Vaccine In UK",
+      "description": "My wife is a US citizen living overseas, and she was born when the medical recommendation was to only get one shot of the MMR vaccine, so that's all she got. She has an upcoming trip to the US that she can't put off, but it's to a part of the country that has\u2026",
+      "url": "https://ask.metafilter.com/385280/Measles-Booster-Vaccine-In-UK",
+      "urlToImage": "http://cdn.mefi.us/images/askmefi/apple-touch-icon.png",
+      "publishedAt": "2025-04-12 12:15:50",
+      "content": "Ask MetaFilter is a question and answer site that covers nearly any question on earth, where members help each other solve problems. Ask MetaFilter is where thousands of life's little questions are a\u2026 [+7 chars]",
+      "retrievedAt": "2025-04-13 19:05:34.090834",
+      "internal_id": "ae699cbaf6bc20789e23527d85eec23559af0d44147505124a0fb1cd749b568b",
+      "publishedAtLabel": "Apr 12"
+    },
+    {
+      "id": 20361,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Dirisu Yakubu",
+      "title": "Stakeholders seek youth participation in fight against malaria",
+      "description": "Stakeholders from the health sector have called on Nigerian youth and women to join the fight against malaria in the country. They made the call on Saturday at an engagement meeting in Abuja organised by the African Leaders Malaria Alliance in collaboration w\u2026",
+      "url": "https://punchng.com/stakeholders-seek-youth-participation-in-fight-against-malaria/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2025/04/12111017/Participants-at-the-event-1080x630.jpeg",
+      "publishedAt": "2025-04-12 10:23:44",
+      "content": "Stakeholders from the health sector have called on Nigerian youth and women to join the fight against malaria in the country. They made the call on Saturday at an engagement meeting in Abuja organis\u2026 [+2533 chars]",
+      "retrievedAt": "2025-04-13 19:05:36.734723",
+      "internal_id": "ae8c44eb2a97a78b35525f726501cae53282e6fd30797825747a9a4ef285efb9",
+      "publishedAtLabel": "Apr 12"
+    },
+    {
+      "id": 20358,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": null,
+      "title": "Deadly measles outbreak does little to counter vaccine scepticism in Texas",
+      "description": "With two measles deaths - both children - in the state, officials struggle to convince communities to vaccinate.",
+      "url": "https://www.bbc.com/news/articles/cwy7eyde3xeo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9a81/live/d8c74190-16ee-11f0-a455-cf1d5f751d2f.jpg",
+      "publishedAt": "2025-04-12 09:14:12",
+      "content": "Madeline HalpertReporting from Western Texas Health Secretary Robert F Kennedy Jr traveled to be with the Mennonite community after another child died of measles On an unusually crisp April day i\u2026 [+10382 chars]",
+      "retrievedAt": "2025-04-13 19:05:34.146671",
+      "internal_id": "809ebd0a50ebe6762e1c25d0d7a63459b9853d12c625b5e68a1384c0421242be",
+      "publishedAtLabel": "Apr 12"
+    },
+    {
+      "id": 20354,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Measles outbreaks spark concern over rare 'horrific' neurological disorder",
+      "description": "As measles outbreaks in Canada grow and spread between provinces, pediatricians are again recommending vaccinations while also bracing for serious complications, including a rare, long-term neurological disorder that can emerge six to 10 years after an initia\u2026",
+      "url": "https://www.cbc.ca/news/health/measles-complications-1.7508645",
+      "urlToImage": "https://i.cbc.ca/1.7507253.1744315606!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_1180/measles-outbreak.jpg?im=Resize%3D620",
+      "publishedAt": "2025-04-12 08:00:00",
+      "content": "This story is part of CBC Health's Second Opinion, a weekly analysis of health and medical science news emailed to subscribers on Saturday mornings. If you haven't subscribed yet, you can do that by \u2026 [+6316 chars]",
+      "retrievedAt": "2025-04-13 19:05:34.013649",
+      "internal_id": "076a76e7524cd24a6f84f53c6124c6336933fb85daf9a9909df3168fea56a74b",
+      "publishedAtLabel": "Apr 12"
+    },
     {
       "id": 20336,
       "query": [
@@ -26746,78 +26910,6 @@
       "content": "Leading vaccine critic Robert F. Kennedy Jr., who has been dismissive of the measles outbreak in Texas, now says that the spread needs to be stopped and that the federal response will include vaccina\u2026 [+1515 chars]",
       "retrievedAt": "2025-03-04 07:06:58.118294",
       "internal_id": "91826f6474fd7953762a3128962905d7045c31e093ae4b37535311dba6301da7",
-      "publishedAtLabel": "Mar 2"
-    },
-    {
-      "id": 18858,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Memeorandum.com",
-      "author": null,
-      "title": "Taking shots at vaccines has deadly consequences (Glenn C. Altschuler/The Hill)",
-      "description": "Glenn C. Altschuler / The Hill: Taking shots at vaccines has deadly consequences \u2014 Public health authorities reported on Feb. 21 that an ongoing measles outbreak in Gaines County, Texas and Lea County, New Mexico was already the largest in decades. Of the \u2026",
-      "url": "https://www.memeorandum.com/250302/p12",
-      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2025/02/AP25058597447123-e1740780617390.jpg?w=1280",
-      "publishedAt": "2025-03-02 14:45:00",
-      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
-      "retrievedAt": "2025-03-03 19:05:53.852045",
-      "internal_id": "c7a065728afda105f6cda7600f3f60a9c1e4cea233eb5cb1d18e3627d70d7fa9",
-      "publishedAtLabel": "Mar 2"
-    },
-    {
-      "id": 18859,
-      "query": [
-        "hpai"
-      ],
-      "source_id": null,
-      "source_name": "Businessinsider.com.pl",
-      "author": null,
-      "title": "Puste p\u00f3\u0142ki w USA. Polski potentat jaj: problemy te\u017c w Polsce, ceny p\u00f3jd\u0105 w g\u00f3r\u0119",
-      "description": "Tylko w ci\u0105gu ostatnich pi\u0119ciu miesi\u0119cy w wyniku walki z HPAI, straty w pog\u0142owiu kur nie\u015bnych w naszym kraju wynios\u0142y oko\u0142o 6 mln. \u2014 Tak du\u017ca redukcja potencja\u0142u produkcyjnego nie mo\u017ce pozosta\u0107 bez konsekwencji dla cen detalicznych \u2014 m\u00f3wi ekspertka. To oznacz\u2026",
-      "url": "https://businessinsider.com.pl/finanse/handel/puste-polki-w-usa-polski-potentat-jaj-problemy-tez-w-polsce-ceny-pojda-w-gore/m8sdxpe",
-      "urlToImage": "https://ocdn.eu/pulscms-transforms/1/COtk9kpTURBXy9kODY3NTllNzZjNjI1MWFmOGFiNGE2NDAyOWFlOWMxNC5qcGeSlQMAzHbNB9DNBGWTBc0EsM0Cdt4AAaEwAQ",
-      "publishedAt": "2025-03-02 13:22:43",
-      "content": "Sytuacja robi si coraz bardziej powana. W Stanach Zjednoczonych p\u00f3ki z jajami wiec pustkami, a gdy produkty ju si na nich pojawi, osigaj zawrotne ceny. Wszystko przez szalejcy wirus HPAI, kt\u00f3ry tylko\u2026 [+6028 chars]",
-      "retrievedAt": "2025-03-03 19:05:54.013022",
-      "internal_id": "413d55005a4ade7698a4d7f9b3983c2f633ce8ff4f75b01142bd9ca90bcbeab6",
-      "publishedAtLabel": "Mar 2"
-    },
-    {
-      "id": 18861,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "Agency",
-      "title": "Giving an old malaria drug new life",
-      "description": "Scientists are redesigning an existing malaria medicine to make it last longer in the body.",
-      "url": "https://www.thestar.com.my/lifestyle/health/2025/03/02/giving-an-old-malaria-drug-new-life",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/02/28/3190130.jpg",
-      "publishedAt": "2025-03-02 12:51:31",
-      "content": "A new clinical trial from Scripps Research in La Jolla, California, United States, aims to make significant gains in the global fight against malaria by making a drug that has been around since the 1\u2026 [+3088 chars]",
-      "retrievedAt": "2025-03-03 19:05:55.477086",
-      "internal_id": "9e97bf16d4b07eb43a29f5729ca52ff237404627bb2b6ceeaf5608dfc5ecca15",
-      "publishedAtLabel": "Mar 2"
-    },
-    {
-      "id": 18860,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Jornada.com.mx",
-      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "title": "Ssa: este a\u00f1o, mil 781 casos de dengue y cero muertes",
-      "description": "La Secretar\u00eda de Salud (Ssa) report\u00f3 que en lo que va del a\u00f1o se han confirmado mil 781 casos de dengue, de los cuales 53.7 por ciento son contagios con signos de alarma y al menos otros 66 casos corresponden al tipo grave o hemorr\u00e1gico.",
-      "url": "https://www.jornada.com.mx/2025/03/02/sociedad/027n1soc",
-      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "publishedAt": "2025-03-02 09:02:36",
-      "content": "Peri\u00f3dico La JornadaDomingo 2 de marzo de 2025, p. 27 La Secretar\u00eda de Salud (Ssa) report\u00f3 que en lo que va del a\u00f1o se han confirmado mil 781 casos de dengue, de los cuales 53.7 por ciento son conta\u2026 [+1682 chars]",
-      "retrievedAt": "2025-03-03 19:05:54.725898",
-      "internal_id": "f5f305794e31b3fddf0cfa86e8d50d0f58d2f1633ca054d9a64f05cabfc42835",
       "publishedAtLabel": "Mar 2"
     }
   ]
