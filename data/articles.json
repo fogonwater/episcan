@@ -1,8 +1,152 @@
 {
-  "last_updated": "2025-04-14 07:07",
-  "count_articles_total": 1503,
-  "count_articles_new": 6,
+  "last_updated": "2025-04-14 19:06",
+  "count_articles_total": 1507,
+  "count_articles_new": 8,
   "articles": [
+    {
+      "id": 20369,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Alexander  Tin",
+      "title": "Former top health official criticizes RFK Jr. for downplaying measles deaths",
+      "description": "Dr. Peter Marks said that the deaths of unvaccinated children is \"just not acceptable.\"",
+      "url": "https://www.cbsnews.com/news/peter-marks-fda-vaccines-criticizes-rfk-jr-for-downplaying-measles-deaths/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/04/11/90b30b1a-08a2-45f2-8100-a2c26bf50d1b/thumbnail/1200x630g2/9c8a482355ad301e50c3c8ad09ed3626/screenshot-2025-04-11-at-7-18-24-pm.png?v=653dd6912cdd8596c9bfea812c355f95",
+      "publishedAt": "2025-04-13 18:36:57",
+      "content": "The former top vaccines official at the Food and Drug Administration criticized Health and Human Services Secretary Robert F. Kennedy Jr. for downplaying the deaths of unvaccinated children from meas\u2026 [+5286 chars]",
+      "retrievedAt": "2025-04-14 19:06:09.451185",
+      "internal_id": "acbf71017490690e23598bf89ebf7990a46760c2a463dc685cca1e4ef0c84ebd",
+      "publishedAtLabel": "Apr 13"
+    },
+    {
+      "id": 20375,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "Nicole Simon",
+      "title": "Hochsicherheits-Forschung: Die Insel der gef\u00e4hrlichen Viren",
+      "description": "Vogelgrippe, Mpox, West-Nil-Virus: Erreger, die auch Menschen gef\u00e4hrlich werden, breiten sich aus. Auf einer kleinen Ostsee-Insel werden sie in Hochsicherheitslaboren erforscht.",
+      "url": "https://www.stern.de/panorama/wissen/die-insel-der-viren--deutschlands-abwehr-gegen-toedliche-erreger-35622146.html",
+      "urlToImage": "https://image.stern.de/35622134/t/Ja/v5/w1440/r1.7778/-/labor--die-verbotene-insel-picture-1331363350.jpg",
+      "publishedAt": "2025-04-13 16:07:00",
+      "content": "stern+ und Klassik Radio Selectstatt 11,96 nur 1",
+      "retrievedAt": "2025-04-14 19:06:11.793600",
+      "internal_id": "ec2297b3e7bfff31682edabb65faa969cda4b76700b9a03edca602d775d36cb6",
+      "publishedAtLabel": "Apr 13"
+    },
+    {
+      "id": 20371,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Crooksandliars.com",
+      "author": "NewsHound Ellen",
+      "title": "RFK Jr. Gutted Cruise Ship Inspections As Norovirus Surges",
+      "description": "The largest measles outbreak in decades is not the only serious illness to break out under Robert F. Kennedy Jr.\u2019s tenure as Health and Human Services secretary. Now comes norovirus \u2013 just as Kennedy has gutted the very department that could help prevent it. \u2026",
+      "url": "https://crooksandliars.com/2025/04/rfk-jr-gutted-cruise-ship-inspections",
+      "urlToImage": "https://crooksandliars.com/files/primary_image/25/04/rfk_jr_for_041225.jpg",
+      "publishedAt": "2025-04-13 14:00:01",
+      "content": "The largest measles outbreak in decades is not the only serious illness to break out under Robert F. Kennedy Jr.s tenure as Health and Human Services secretary. Now comes norovirus just as Kennedy ha\u2026 [+2016 chars]",
+      "retrievedAt": "2025-04-14 19:06:09.550627",
+      "internal_id": "d91c82b2136fec9d25e850bc131ba6c7fa2330b7da7fc9ab6d5d894f53c86378",
+      "publishedAtLabel": "Apr 13"
+    },
+    {
+      "id": 20370,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "Cassidy praises Kennedy for promoting measles vaccination amid outbreak (Ashleigh Fields/The Hill)",
+      "description": "Ashleigh Fields / The Hill: Cassidy praises Kennedy for promoting measles vaccination amid outbreak \u2014 Sen. Bill Cassidy (R-La.) applauded Health and Human Services (HHS) Secretary Robert F. Kennedy Jr. for promoting measles vaccination amid a deadly outbrea\u2026",
+      "url": "https://www.memeorandum.com/250413/p15",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2025/02/cassidybill_kennedyjrrobert_013025gn01_w.jpg?w=1280",
+      "publishedAt": "2025-04-13 13:40:00",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-04-14 19:06:09.498050",
+      "internal_id": "6123f00f0925900a3b0c63c925ac3ecbfb203786753a4f20e061cfb3fd3321df",
+      "publishedAtLabel": "Apr 13"
+    },
+    {
+      "id": 20373,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "LAURA UNGAR Associated Press, MICHELLE R. SMITH Associated Press, DEVI SHASTRI Associated Press",
+      "title": "Measles exploded in Texas after stagnant vaccine funding. New cuts threaten the same across the US",
+      "description": "The measles outbreak in West Texas didn\u2019t happen just by chance",
+      "url": "https://abcnews.go.com/Health/wireStory/measles-exploded-texas-after-stagnant-vaccine-funding-new-120761363",
+      "urlToImage": "https://i.abcnewsfe.com/a/c4d4abf9-62bc-430b-a324-72c012437f1a/wirestory_5785985d6b74024b0502f6a2fc1576e2_16x9.jpg?w=1600",
+      "publishedAt": "2025-04-13 13:38:32",
+      "content": "The measles outbreak in West Texas didnt happen just by chance. The easily preventable disease, declared eliminated in the U.S. in 2000, ripped through communities sprawling across more than 20 Texa\u2026 [+11732 chars]",
+      "retrievedAt": "2025-04-14 19:06:09.644028",
+      "internal_id": "2e5f56331173fc5fa0d9b9a57803e6b52464b1fe662910948f016ca20e652aee",
+      "publishedAtLabel": "Apr 13"
+    },
+    {
+      "id": 20372,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "Don't Be Fooled: RFK Jr. Is Still Talking Down Vaccines (Jonathan Cohn/The Bulwark)",
+      "description": "Jonathan Cohn / The Bulwark: Don't Be Fooled: RFK Jr. Is Still Talking Down Vaccines \u2014 THREE PEOPLE HAVE DIED in Texas and more than five hundred have gotten sick in what is shaping up as the largest single measles outbreak in decades. And somehow Robert F\u2026",
+      "url": "https://www.memeorandum.com/250413/p14",
+      "urlToImage": "https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd298d746-2d84-4947-93bc-af640d3d8063_5797x3865.jpeg",
+      "publishedAt": "2025-04-13 13:30:00",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-04-14 19:06:09.578010",
+      "internal_id": "f65d274aac4f32d25cabcb92a7045b4507fc80a68b40b6b271d4a60c80bc6d29",
+      "publishedAtLabel": "Apr 13"
+    },
+    {
+      "id": 20374,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Entekhab.ir",
+      "author": "info@entekhab.ir",
+      "title": "\u0622\u0646\u0641\u0644\u0648\u0622\u0646\u0632\u0627\u06cc \u067e\u0631\u0646\u062f\u06af\u0627\u0646 \u062f\u0631 \u0628\u0631\u0627\u0628\u0631 \u0622\u0646\u0641\u0644\u0648\u0622\u0646\u0632\u0627\u06cc \u0645\u0639\u0645\u0648\u0644\u06cc: \u062a\u0641\u0627\u0648\u062a\u200c\u0647\u0627\u06cc \u06a9\u0644\u06cc\u062f\u06cc \u0627\u06cc\u0646 \u062f\u0648 \u0628\u06cc\u0645\u0627\u0631\u06cc \u0686\u06cc\u0633\u062a\u061f",
+      "description": "\u062f\u0631 \u062d\u0627\u0644\u06cc\u200c\u06a9\u0647 \u0622\u0646\u0641\u0644\u0648\u0622\u0646\u0632\u0627\u06cc \u067e\u0631\u0646\u062f\u06af\u0627\u0646 \u0648 \u0622\u0646\u0641\u0644\u0648\u0622\u0646\u0632\u0627\u06cc \u0645\u0639\u0645\u0648\u0644\u06cc \u0627\u0632 \u0628\u0631\u062e\u06cc \u062c\u0647\u0627\u062a \u0628\u0647 \u0647\u0645 \u0634\u0628\u0627\u0647\u062a \u062f\u0627\u0631\u0646\u062f\u060c \u0627\u0645\u0627 \u0627\u0632 \u0646\u0638\u0631 \u0645\u0646\u0634\u0623\u060c \u0646\u062d\u0648\u0647\u200c\u06cc \u0627\u0646\u062a\u0642\u0627\u0644 \u0648 \u062a\u0623\u062b\u06cc\u0631\u0627\u062a \u0622\u0646\u200c\u0647\u0627 \u0628\u0631 \u0633\u0644\u0627\u0645\u062a \u0627\u0646\u0633\u0627\u0646\u060c \u062a\u0641\u0627\u0648\u062a\u200c\u0647\u0627\u06cc \u0686\u0634\u0645\u06af\u06cc\u0631\u06cc \u0628\u0627 \u06cc\u06a9\u062f\u06cc\u06af\u0631 \u062f\u0627\u0631\u0646\u062f. \u0622\u0646\u0641\u0644\u0648\u0622\u0646\u0632\u0627\u06cc \u0645\u0639\u0645\u0648\u0644\u06cc \u0628\u06cc\u0645\u0627\u0631\u06cc\u200c\u0627\u06cc \u0641\u0635\u0644\u06cc \u0648 \u0634\u0646\u0627\u062e\u062a\u0647\u200c\u0634\u062f\u0647 \u0627\u0633\u062a \u06a9\u0647 \u0628\u0631\u0627\u06cc \u067e\u06cc\u0634\u06af\u06cc\u0631\u06cc \u0627\u0632 \u0622\u0646 \u0631\u0648\u0634\u200c\u0647\u0627\u06cc\u2026",
+      "url": "https://www.entekhab.ir/fa/news/860695/\u0622\u0646\u0641\u0644\u0648\u0622\u0646\u0632\u0627\u06cc-\u067e\u0631\u0646\u062f\u06af\u0627\u0646-\u062f\u0631-\u0628\u0631\u0627\u0628\u0631-\u0622\u0646\u0641\u0644\u0648\u0622\u0646\u0632\u0627\u06cc-\u0645\u0639\u0645\u0648\u0644\u06cc-\u062a\u0641\u0627\u0648\u062a\u200c\u0647\u0627\u06cc-\u06a9\u0644\u06cc\u062f\u06cc-\u0627\u06cc\u0646-\u062f\u0648-\u0628\u06cc\u0645\u0627\u0631\u06cc-\u0686\u06cc\u0633\u062a",
+      "urlToImage": "https://www.entekhab.ir/files/fa/news/1404/1/24/1951048_869.jpeg",
+      "publishedAt": "2025-04-13 12:33:04",
+      "content": "(Entekhab.ir) : . () . . \u00ab \u00bb . . . . :A . H5N1 H7N9 . :A B . H1N1 H3N2 . :. . :. . :. . :( ) . :. . :. :. . :. . :. () () . :(RIDT) . . . . .",
+      "retrievedAt": "2025-04-14 19:06:10.337362",
+      "internal_id": "fcc5b67b77011d09d8ad5ce5b4e96f27ffd88db2cb14727685c26ca917d197ab",
+      "publishedAtLabel": "Apr 13"
+    },
+    {
+      "id": 20368,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Newser",
+      "author": "John Johnson",
+      "title": "'It's Not Just Measles.' Whooping Cough Cases Spike",
+      "description": "A measles outbreak centered in Texas is drawing a lot of attention, but ProPublica reports that another disease is seeing a potentially worrisome spike in cases: whooping cough, aka pertussis. Among the stats: The CDC reported 2,116 cases in 2021, amid the pa\u2026",
+      "url": "https://www.newser.com/story/367039/its-not-just-measles-whooping-cough-cases-spike.html",
+      "urlToImage": "https://img2-azrcdn.newser.com/image/1603965-12-20250413060002.jpeg",
+      "publishedAt": "2025-04-13 11:00:00",
+      "content": "A measles outbreak centered in Texas is drawing a lot of attention, but ProPublica reports that another disease is seeing a potentially worrisome spike in cases: whooping cough, aka pertussis. Among \u2026 [+1366 chars]",
+      "retrievedAt": "2025-04-14 19:06:08.670592",
+      "internal_id": "ea0306c30955d0bd3d3001c8b8af468bdcde70e928f2a2d5f512eb78b818ed90",
+      "publishedAtLabel": "Apr 13"
+    },
     {
       "id": 20365,
       "query": [
@@ -27018,78 +27162,6 @@
       "content": "Leading vaccine critic Robert F. Kennedy Jr., who has been dismissive of the measles outbreak in Texas, now says that the spread needs to be stopped and that the federal response will include vaccina\u2026 [+1515 chars]",
       "retrievedAt": "2025-03-04 07:06:58.118294",
       "internal_id": "91826f6474fd7953762a3128962905d7045c31e093ae4b37535311dba6301da7",
-      "publishedAtLabel": "Mar 2"
-    },
-    {
-      "id": 18858,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Memeorandum.com",
-      "author": null,
-      "title": "Taking shots at vaccines has deadly consequences (Glenn C. Altschuler/The Hill)",
-      "description": "Glenn C. Altschuler / The Hill: Taking shots at vaccines has deadly consequences \u2014 Public health authorities reported on Feb. 21 that an ongoing measles outbreak in Gaines County, Texas and Lea County, New Mexico was already the largest in decades. Of the \u2026",
-      "url": "https://www.memeorandum.com/250302/p12",
-      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2025/02/AP25058597447123-e1740780617390.jpg?w=1280",
-      "publishedAt": "2025-03-02 14:45:00",
-      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
-      "retrievedAt": "2025-03-03 19:05:53.852045",
-      "internal_id": "c7a065728afda105f6cda7600f3f60a9c1e4cea233eb5cb1d18e3627d70d7fa9",
-      "publishedAtLabel": "Mar 2"
-    },
-    {
-      "id": 18859,
-      "query": [
-        "hpai"
-      ],
-      "source_id": null,
-      "source_name": "Businessinsider.com.pl",
-      "author": null,
-      "title": "Puste p\u00f3\u0142ki w USA. Polski potentat jaj: problemy te\u017c w Polsce, ceny p\u00f3jd\u0105 w g\u00f3r\u0119",
-      "description": "Tylko w ci\u0105gu ostatnich pi\u0119ciu miesi\u0119cy w wyniku walki z HPAI, straty w pog\u0142owiu kur nie\u015bnych w naszym kraju wynios\u0142y oko\u0142o 6 mln. \u2014 Tak du\u017ca redukcja potencja\u0142u produkcyjnego nie mo\u017ce pozosta\u0107 bez konsekwencji dla cen detalicznych \u2014 m\u00f3wi ekspertka. To oznacz\u2026",
-      "url": "https://businessinsider.com.pl/finanse/handel/puste-polki-w-usa-polski-potentat-jaj-problemy-tez-w-polsce-ceny-pojda-w-gore/m8sdxpe",
-      "urlToImage": "https://ocdn.eu/pulscms-transforms/1/COtk9kpTURBXy9kODY3NTllNzZjNjI1MWFmOGFiNGE2NDAyOWFlOWMxNC5qcGeSlQMAzHbNB9DNBGWTBc0EsM0Cdt4AAaEwAQ",
-      "publishedAt": "2025-03-02 13:22:43",
-      "content": "Sytuacja robi si coraz bardziej powana. W Stanach Zjednoczonych p\u00f3ki z jajami wiec pustkami, a gdy produkty ju si na nich pojawi, osigaj zawrotne ceny. Wszystko przez szalejcy wirus HPAI, kt\u00f3ry tylko\u2026 [+6028 chars]",
-      "retrievedAt": "2025-03-03 19:05:54.013022",
-      "internal_id": "413d55005a4ade7698a4d7f9b3983c2f633ce8ff4f75b01142bd9ca90bcbeab6",
-      "publishedAtLabel": "Mar 2"
-    },
-    {
-      "id": 18861,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "Agency",
-      "title": "Giving an old malaria drug new life",
-      "description": "Scientists are redesigning an existing malaria medicine to make it last longer in the body.",
-      "url": "https://www.thestar.com.my/lifestyle/health/2025/03/02/giving-an-old-malaria-drug-new-life",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/02/28/3190130.jpg",
-      "publishedAt": "2025-03-02 12:51:31",
-      "content": "A new clinical trial from Scripps Research in La Jolla, California, United States, aims to make significant gains in the global fight against malaria by making a drug that has been around since the 1\u2026 [+3088 chars]",
-      "retrievedAt": "2025-03-03 19:05:55.477086",
-      "internal_id": "9e97bf16d4b07eb43a29f5729ca52ff237404627bb2b6ceeaf5608dfc5ecca15",
-      "publishedAtLabel": "Mar 2"
-    },
-    {
-      "id": 18860,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Jornada.com.mx",
-      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "title": "Ssa: este a\u00f1o, mil 781 casos de dengue y cero muertes",
-      "description": "La Secretar\u00eda de Salud (Ssa) report\u00f3 que en lo que va del a\u00f1o se han confirmado mil 781 casos de dengue, de los cuales 53.7 por ciento son contagios con signos de alarma y al menos otros 66 casos corresponden al tipo grave o hemorr\u00e1gico.",
-      "url": "https://www.jornada.com.mx/2025/03/02/sociedad/027n1soc",
-      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "publishedAt": "2025-03-02 09:02:36",
-      "content": "Peri\u00f3dico La JornadaDomingo 2 de marzo de 2025, p. 27 La Secretar\u00eda de Salud (Ssa) report\u00f3 que en lo que va del a\u00f1o se han confirmado mil 781 casos de dengue, de los cuales 53.7 por ciento son conta\u2026 [+1682 chars]",
-      "retrievedAt": "2025-03-03 19:05:54.725898",
-      "internal_id": "f5f305794e31b3fddf0cfa86e8d50d0f58d2f1633ca054d9a64f05cabfc42835",
       "publishedAtLabel": "Mar 2"
     }
   ]
