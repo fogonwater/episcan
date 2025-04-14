@@ -1,8 +1,98 @@
 {
-  "last_updated": "2025-04-13 19:05",
-  "count_articles_total": 1493,
-  "count_articles_new": 9,
+  "last_updated": "2025-04-14 07:07",
+  "count_articles_total": 1503,
+  "count_articles_new": 6,
   "articles": [
+    {
+      "id": 20365,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": null,
+      "title": "Girl's meningitis leads to quadruple amputation",
+      "description": "The family of five-year-old Saffanah praise NHS teams who \"worked tirelessly to save her life\".",
+      "url": "https://www.bbc.com/news/articles/cx2vv81k2k1o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1b88/live/f68d8da0-161d-11f0-9956-c7de2971286b.png",
+      "publishedAt": "2025-04-13 06:00:26",
+      "content": "Pamela TickellBBC News, North East and Cumbria Five-year-old Saffanah, from Stockton-on-Tees, is back to her \"sassy self\", her family said The family of a five-year-old girl who had a quadruple amp\u2026 [+2989 chars]",
+      "retrievedAt": "2025-04-14 07:07:56.258172",
+      "internal_id": "23e9a29089692b209059b0e4530d02227be3cd800e11cdfed3722b246c439520",
+      "publishedAtLabel": "Apr 13"
+    },
+    {
+      "id": 20366,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "bbc-news",
+      "source_name": "BBC News",
+      "author": "Pamela Tickell",
+      "title": "Stockton girl's meningitis leads to quadruple amputation",
+      "description": "The family of five-year-old Saffanah praise NHS teams who \"worked tirelessly to save her life\".",
+      "url": "https://www.bbc.co.uk/news/articles/cx2vv81k2k1o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1b88/live/f68d8da0-161d-11f0-9956-c7de2971286b.png",
+      "publishedAt": "2025-04-13 06:00:26",
+      "content": "Saffanah had her lower legs and forearms amputated in March at Newcastle's Royal Victoria Infirmary as a result of compartment syndrome. Khala Taiba Shafiq said it had been a \"rollercoaster\" but Saf\u2026 [+663 chars]",
+      "retrievedAt": "2025-04-14 07:07:56.281099",
+      "internal_id": "d0a3accb045752014cf51cc017afbc9aebb183586b440dfd271ae12b1b420ac3",
+      "publishedAtLabel": "Apr 13"
+    },
+    {
+      "id": 20362,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Newsonjapan.com",
+      "author": null,
+      "title": "Whooping Cough Spreads Across Japan",
+      "description": "As the new school term begins, a concerning trend is emerging with whooping cough\u2014caused by the Bordetella pertussis bacterium\u2014spreading across Japan and posing a potentially life-threatening risk, especially to infants who may suffer severe complications or \u2026",
+      "url": "https://newsonjapan.com/article/145395.php",
+      "urlToImage": "https://i2.ytimg.com/vi/nzxZ8FdWglE/mqdefault.jpg",
+      "publishedAt": "2025-04-13 05:06:31",
+      "content": "SAPPORO, Apr 13 (News On Japan) - As the new school term begins, a concerning trend is emerging with whooping coughcaused by the Bordetella pertussis bacteriumspreading across Japan and posing a po\u2026 [+1589 chars]",
+      "retrievedAt": "2025-04-14 07:07:54.390755",
+      "internal_id": "14185b8c1e54078cef64e66e7389948bfc9ff02af04165303897c564b5140aa8",
+      "publishedAtLabel": "Apr 13"
+    },
+    {
+      "id": 20364,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Fijitimes.com.fj",
+      "author": "Shayal Devi",
+      "title": "Maintain clean surrounding, health authorities urge",
+      "description": "Health authorities are pleading with communities to maintain clean surroundings as dengue cases in the Central Division increased to 1090.",
+      "url": "https://www.fijitimes.com.fj/maintain-clean-surrounding-health-authorities-urge/",
+      "urlToImage": "https://www.fijitimes.com.fj/wp-content/uploads/2025/04/Untitled-design-9-3.jpg",
+      "publishedAt": "2025-04-13 03:14:03",
+      "content": "Health authorities are pleading with communities to maintain clean surroundings as dengue cases in the Central Division increased to 1090. The Health Ministry has declared a dengue outbreak in the C\u2026 [+1708 chars]",
+      "retrievedAt": "2025-04-14 07:07:56.108890",
+      "internal_id": "793b0a83e480352403acde5d96f3d91e5c66086956217180540efc74d2380e66",
+      "publishedAtLabel": "Apr 13"
+    },
+    {
+      "id": 20367,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Janet Ogundepo",
+      "title": "Being pregnant with multiple babies may cause excessive vomiting \u2013 Gynaecologists",
+      "description": "Maternal health experts have noted that excessive vomiting during pregnancy, medically known as hyperemesis gravidarum, may be linked to conditions such as malaria, urinary tract infections, and Vitamin B deficiency. The Obstetric gynaecologists also noted th\u2026",
+      "url": "https://punchng.com/being-pregnant-with-multiple-babies-may-cause-excessive-vomiting-gynaecologists/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2025/04/12231230/AIMAKHU.jpg",
+      "publishedAt": "2025-04-13 00:40:52",
+      "content": "Maternal health experts have noted that excessive vomiting during pregnancy, medically known as hyperemesis gravidarum, may be linked to conditions such as malaria, urinary tract infections, and Vita\u2026 [+5253 chars]",
+      "retrievedAt": "2025-04-14 07:07:56.584657",
+      "internal_id": "99a3b088070a6edf87ab39773c85ddd94384b51fe6723f8c948224abb592e1ed",
+      "publishedAtLabel": "Apr 13"
+    },
     {
       "id": 20360,
       "query": [
@@ -55,6 +145,24 @@
       "content": "As Ontario deals with an ongoing measles outbreak, Toronto Public Health is warning of a new potential exposure at a downtown concert this month. The department says a case was confirmed in someone \u2026 [+1619 chars]",
       "retrievedAt": "2025-04-13 19:05:34.098876",
       "internal_id": "2b554e2b97905cf0104682e653aeeb03e4ceac187cdfafb82633fe8e27b37984",
+      "publishedAtLabel": "Apr 12"
+    },
+    {
+      "id": 20363,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "TODAY",
+      "author": "TODAY",
+      "title": "Measles spreads to more states with nationwide cases topping 700",
+      "description": "The measles outbreak is spreading to more states as nationwide cases surpass 700, including three reported deaths. Indiana is now the sixth state with three or more cases of measles, spreading mostly among people who are not vaccinated. A majority of the case\u2026",
+      "url": "https://www.today.com/video/indiana-becomes-sixth-state-with-3-or-more-cases-of-measles-237226565517",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/mpx/2704722219/2025_04/1744464013281_tdy_sat_measles_outbreak_250412_1920x1080-mdza8q.jpg",
+      "publishedAt": "2025-04-12 13:20:18",
+      "content": "The measles outbreak is spreading to more states as nationwide cases surpass 700, including three reported deaths. Indiana is now the sixth state with three or more cases of measles, spreading mostly\u2026 [+217 chars]",
+      "retrievedAt": "2025-04-14 07:07:55.219532",
+      "internal_id": "1f89426da08b8f73cf7e6725caa0ed826b3ce57e86cca322284b8ce5fee9f64a",
       "publishedAtLabel": "Apr 12"
     },
     {
@@ -26910,6 +27018,78 @@
       "content": "Leading vaccine critic Robert F. Kennedy Jr., who has been dismissive of the measles outbreak in Texas, now says that the spread needs to be stopped and that the federal response will include vaccina\u2026 [+1515 chars]",
       "retrievedAt": "2025-03-04 07:06:58.118294",
       "internal_id": "91826f6474fd7953762a3128962905d7045c31e093ae4b37535311dba6301da7",
+      "publishedAtLabel": "Mar 2"
+    },
+    {
+      "id": 18858,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "Taking shots at vaccines has deadly consequences (Glenn C. Altschuler/The Hill)",
+      "description": "Glenn C. Altschuler / The Hill: Taking shots at vaccines has deadly consequences \u2014 Public health authorities reported on Feb. 21 that an ongoing measles outbreak in Gaines County, Texas and Lea County, New Mexico was already the largest in decades. Of the \u2026",
+      "url": "https://www.memeorandum.com/250302/p12",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2025/02/AP25058597447123-e1740780617390.jpg?w=1280",
+      "publishedAt": "2025-03-02 14:45:00",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-03-03 19:05:53.852045",
+      "internal_id": "c7a065728afda105f6cda7600f3f60a9c1e4cea233eb5cb1d18e3627d70d7fa9",
+      "publishedAtLabel": "Mar 2"
+    },
+    {
+      "id": 18859,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Businessinsider.com.pl",
+      "author": null,
+      "title": "Puste p\u00f3\u0142ki w USA. Polski potentat jaj: problemy te\u017c w Polsce, ceny p\u00f3jd\u0105 w g\u00f3r\u0119",
+      "description": "Tylko w ci\u0105gu ostatnich pi\u0119ciu miesi\u0119cy w wyniku walki z HPAI, straty w pog\u0142owiu kur nie\u015bnych w naszym kraju wynios\u0142y oko\u0142o 6 mln. \u2014 Tak du\u017ca redukcja potencja\u0142u produkcyjnego nie mo\u017ce pozosta\u0107 bez konsekwencji dla cen detalicznych \u2014 m\u00f3wi ekspertka. To oznacz\u2026",
+      "url": "https://businessinsider.com.pl/finanse/handel/puste-polki-w-usa-polski-potentat-jaj-problemy-tez-w-polsce-ceny-pojda-w-gore/m8sdxpe",
+      "urlToImage": "https://ocdn.eu/pulscms-transforms/1/COtk9kpTURBXy9kODY3NTllNzZjNjI1MWFmOGFiNGE2NDAyOWFlOWMxNC5qcGeSlQMAzHbNB9DNBGWTBc0EsM0Cdt4AAaEwAQ",
+      "publishedAt": "2025-03-02 13:22:43",
+      "content": "Sytuacja robi si coraz bardziej powana. W Stanach Zjednoczonych p\u00f3ki z jajami wiec pustkami, a gdy produkty ju si na nich pojawi, osigaj zawrotne ceny. Wszystko przez szalejcy wirus HPAI, kt\u00f3ry tylko\u2026 [+6028 chars]",
+      "retrievedAt": "2025-03-03 19:05:54.013022",
+      "internal_id": "413d55005a4ade7698a4d7f9b3983c2f633ce8ff4f75b01142bd9ca90bcbeab6",
+      "publishedAtLabel": "Mar 2"
+    },
+    {
+      "id": 18861,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Agency",
+      "title": "Giving an old malaria drug new life",
+      "description": "Scientists are redesigning an existing malaria medicine to make it last longer in the body.",
+      "url": "https://www.thestar.com.my/lifestyle/health/2025/03/02/giving-an-old-malaria-drug-new-life",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/02/28/3190130.jpg",
+      "publishedAt": "2025-03-02 12:51:31",
+      "content": "A new clinical trial from Scripps Research in La Jolla, California, United States, aims to make significant gains in the global fight against malaria by making a drug that has been around since the 1\u2026 [+3088 chars]",
+      "retrievedAt": "2025-03-03 19:05:55.477086",
+      "internal_id": "9e97bf16d4b07eb43a29f5729ca52ff237404627bb2b6ceeaf5608dfc5ecca15",
+      "publishedAtLabel": "Mar 2"
+    },
+    {
+      "id": 18860,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "title": "Ssa: este a\u00f1o, mil 781 casos de dengue y cero muertes",
+      "description": "La Secretar\u00eda de Salud (Ssa) report\u00f3 que en lo que va del a\u00f1o se han confirmado mil 781 casos de dengue, de los cuales 53.7 por ciento son contagios con signos de alarma y al menos otros 66 casos corresponden al tipo grave o hemorr\u00e1gico.",
+      "url": "https://www.jornada.com.mx/2025/03/02/sociedad/027n1soc",
+      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "publishedAt": "2025-03-02 09:02:36",
+      "content": "Peri\u00f3dico La JornadaDomingo 2 de marzo de 2025, p. 27 La Secretar\u00eda de Salud (Ssa) report\u00f3 que en lo que va del a\u00f1o se han confirmado mil 781 casos de dengue, de los cuales 53.7 por ciento son conta\u2026 [+1682 chars]",
+      "retrievedAt": "2025-03-03 19:05:54.725898",
+      "internal_id": "f5f305794e31b3fddf0cfa86e8d50d0f58d2f1633ca054d9a64f05cabfc42835",
       "publishedAtLabel": "Mar 2"
     }
   ]
