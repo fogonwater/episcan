@@ -1,8 +1,44 @@
 {
-  "last_updated": "2025-04-14 19:06",
-  "count_articles_total": 1507,
-  "count_articles_new": 8,
+  "last_updated": "2025-04-15 07:07",
+  "count_articles_total": 1513,
+  "count_articles_new": 2,
   "articles": [
+    {
+      "id": 20377,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Francetvinfo.fr",
+      "author": null,
+      "title": "\"On se dit que tout le monde va l'avoir\" : La R\u00e9union touch\u00e9e de plein fouet par l'\u00e9pid\u00e9mie de chikungunya",
+      "description": "Les autorit\u00e9s sanitaires de l'\u00eele s'attendent \u00e0 ce que le pic de l\u2019\u00e9pid\u00e9mie soit atteint dans la semaine.",
+      "url": "https://www.francetvinfo.fr/sante/maladie/chikungunya/reportage-on-se-dit-que-tout-le-monde-va-l-avoir-la-reunion-touchee-de-plein-fouet-par-l-epidemie-de-chikungunya_7187832.html",
+      "urlToImage": "https://www.francetvinfo.fr/pictures/dReRtSDsBeCQ2-xtkNDLjOxhVFI/0x180:3543x2173/1500x843/2025/04/13/chik-67fc1e8508c57942311523.jpg",
+      "publishedAt": "2025-04-14 04:54:19",
+      "content": "\u00c0 La R\u00e9union, une dizaine de milliers de nouveaux cas sont attendus dans la semaine. \u00c0 partir de lundi 14 avril, 120 militaires vont \u00eatre d\u00e9ploy\u00e9s en renfort sur l\u00eele pour des op\u00e9rations de d\u00e9moustic\u2026 [+2728 chars]",
+      "retrievedAt": "2025-04-15 07:07:51.357878",
+      "internal_id": "4ebf14fcb028fb5ab1ab9114f30a0192a6cdbfa801cf80c8cb45afed40611c98",
+      "publishedAtLabel": "Apr 14"
+    },
+    {
+      "id": 20376,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Highly Pathogenic Avian Influenza A(H5N1) Outbreak in Endangered Cranes, Izumi Plain, Japan, 2022\u201323",
+      "description": "Influenza A(H5N1) Outbreak in Endangered Cranes",
+      "url": "https://wwwnc.cdc.gov/eid/article/31/5/24-1410_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2025-04-14 04:00:00",
+      "content": "Disclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released.The Izumi Plain in Kagoshi\u2026 [+24974 chars]",
+      "retrievedAt": "2025-04-15 07:07:50.132866",
+      "internal_id": "ea85b4c7553bf8c029ecfee90b35f499684ab660d333575e5361874c6063616d",
+      "publishedAtLabel": "Apr 14"
+    },
     {
       "id": 20369,
       "query": [
@@ -27162,6 +27198,78 @@
       "content": "Leading vaccine critic Robert F. Kennedy Jr., who has been dismissive of the measles outbreak in Texas, now says that the spread needs to be stopped and that the federal response will include vaccina\u2026 [+1515 chars]",
       "retrievedAt": "2025-03-04 07:06:58.118294",
       "internal_id": "91826f6474fd7953762a3128962905d7045c31e093ae4b37535311dba6301da7",
+      "publishedAtLabel": "Mar 2"
+    },
+    {
+      "id": 18858,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "Taking shots at vaccines has deadly consequences (Glenn C. Altschuler/The Hill)",
+      "description": "Glenn C. Altschuler / The Hill: Taking shots at vaccines has deadly consequences \u2014 Public health authorities reported on Feb. 21 that an ongoing measles outbreak in Gaines County, Texas and Lea County, New Mexico was already the largest in decades. Of the \u2026",
+      "url": "https://www.memeorandum.com/250302/p12",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2025/02/AP25058597447123-e1740780617390.jpg?w=1280",
+      "publishedAt": "2025-03-02 14:45:00",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-03-03 19:05:53.852045",
+      "internal_id": "c7a065728afda105f6cda7600f3f60a9c1e4cea233eb5cb1d18e3627d70d7fa9",
+      "publishedAtLabel": "Mar 2"
+    },
+    {
+      "id": 18859,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Businessinsider.com.pl",
+      "author": null,
+      "title": "Puste p\u00f3\u0142ki w USA. Polski potentat jaj: problemy te\u017c w Polsce, ceny p\u00f3jd\u0105 w g\u00f3r\u0119",
+      "description": "Tylko w ci\u0105gu ostatnich pi\u0119ciu miesi\u0119cy w wyniku walki z HPAI, straty w pog\u0142owiu kur nie\u015bnych w naszym kraju wynios\u0142y oko\u0142o 6 mln. \u2014 Tak du\u017ca redukcja potencja\u0142u produkcyjnego nie mo\u017ce pozosta\u0107 bez konsekwencji dla cen detalicznych \u2014 m\u00f3wi ekspertka. To oznacz\u2026",
+      "url": "https://businessinsider.com.pl/finanse/handel/puste-polki-w-usa-polski-potentat-jaj-problemy-tez-w-polsce-ceny-pojda-w-gore/m8sdxpe",
+      "urlToImage": "https://ocdn.eu/pulscms-transforms/1/COtk9kpTURBXy9kODY3NTllNzZjNjI1MWFmOGFiNGE2NDAyOWFlOWMxNC5qcGeSlQMAzHbNB9DNBGWTBc0EsM0Cdt4AAaEwAQ",
+      "publishedAt": "2025-03-02 13:22:43",
+      "content": "Sytuacja robi si coraz bardziej powana. W Stanach Zjednoczonych p\u00f3ki z jajami wiec pustkami, a gdy produkty ju si na nich pojawi, osigaj zawrotne ceny. Wszystko przez szalejcy wirus HPAI, kt\u00f3ry tylko\u2026 [+6028 chars]",
+      "retrievedAt": "2025-03-03 19:05:54.013022",
+      "internal_id": "413d55005a4ade7698a4d7f9b3983c2f633ce8ff4f75b01142bd9ca90bcbeab6",
+      "publishedAtLabel": "Mar 2"
+    },
+    {
+      "id": 18861,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Agency",
+      "title": "Giving an old malaria drug new life",
+      "description": "Scientists are redesigning an existing malaria medicine to make it last longer in the body.",
+      "url": "https://www.thestar.com.my/lifestyle/health/2025/03/02/giving-an-old-malaria-drug-new-life",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/02/28/3190130.jpg",
+      "publishedAt": "2025-03-02 12:51:31",
+      "content": "A new clinical trial from Scripps Research in La Jolla, California, United States, aims to make significant gains in the global fight against malaria by making a drug that has been around since the 1\u2026 [+3088 chars]",
+      "retrievedAt": "2025-03-03 19:05:55.477086",
+      "internal_id": "9e97bf16d4b07eb43a29f5729ca52ff237404627bb2b6ceeaf5608dfc5ecca15",
+      "publishedAtLabel": "Mar 2"
+    },
+    {
+      "id": 18860,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "title": "Ssa: este a\u00f1o, mil 781 casos de dengue y cero muertes",
+      "description": "La Secretar\u00eda de Salud (Ssa) report\u00f3 que en lo que va del a\u00f1o se han confirmado mil 781 casos de dengue, de los cuales 53.7 por ciento son contagios con signos de alarma y al menos otros 66 casos corresponden al tipo grave o hemorr\u00e1gico.",
+      "url": "https://www.jornada.com.mx/2025/03/02/sociedad/027n1soc",
+      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "publishedAt": "2025-03-02 09:02:36",
+      "content": "Peri\u00f3dico La JornadaDomingo 2 de marzo de 2025, p. 27 La Secretar\u00eda de Salud (Ssa) report\u00f3 que en lo que va del a\u00f1o se han confirmado mil 781 casos de dengue, de los cuales 53.7 por ciento son conta\u2026 [+1682 chars]",
+      "retrievedAt": "2025-03-03 19:05:54.725898",
+      "internal_id": "f5f305794e31b3fddf0cfa86e8d50d0f58d2f1633ca054d9a64f05cabfc42835",
       "publishedAtLabel": "Mar 2"
     }
   ]
