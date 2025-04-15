@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 2
-- **Last harvest:** 2025-04-15 07:07
-- **Most recent article:** 2025-04-14 04:54:19
+- **New articles in last harvest:** 18
+- **Last harvest:** 2025-04-15 19:05
+- **Most recent article:** 2025-04-14 18:30:00
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-10 | 25-11 | 25-12 | 25-13 | 25-14 | 25-15 | 25-16 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 141 | 133 | 108 | 101 | 77 | 144 | 5 | 709 |
-| h5n1 | 20 | 39 | 57 | 47 | 46 | 66 | 2 | 277 |
-| malaria | 26 | 22 | 18 | 30 | 13 | 10 | 1 | 120 |
-| dengue | 8 | 12 | 18 | 20 | 14 | 24 | 1 | 97 |
+| measles | 140 | 133 | 108 | 101 | 77 | 144 | 9 | 712 |
+| h5n1 | 20 | 39 | 57 | 47 | 46 | 66 | 3 | 278 |
+| malaria | 25 | 22 | 18 | 30 | 13 | 10 | 1 | 119 |
+| dengue | 7 | 12 | 18 | 20 | 14 | 24 | 5 | 100 |
 | mpox | 13 | 15 | 8 | 12 | 17 | 18 | 1 | 84 |
-| chikungunya | 6 | 1 | 17 | 10 | 17 | 15 | 1 | 67 |
+| chikungunya | 6 | 1 | 17 | 10 | 17 | 15 | 12 | 78 |
 | meningitis | 4 | 9 | 7 | 10 | 6 | 10 | 2 | 48 |
 | rabies | 3 | 8 | 3 | 19 | 7 | 7 | 0 | 47 |
-| hpai | 8 | 3 | 12 | 2 | 4 | 3 | 0 | 32 |
-| zika | 3 | 0 | 2 | 3 | 4 | 7 | 0 | 19 |
+| hpai | 7 | 3 | 12 | 2 | 4 | 3 | 0 | 31 |
+| zika | 3 | 0 | 2 | 3 | 4 | 7 | 3 | 22 |
 | pertussis | 0 | 5 | 1 | 0 | 7 | 2 | 2 | 17 |
 | typhoid | 3 | 8 | 0 | 1 | 2 | 2 | 0 | 16 |
 | yersinia | 1 | 2 | 2 | 3 | 0 | 0 | 0 | 8 |
@@ -32,6 +32,14 @@ By US epiweek (i.e. Sunday to Saturday)
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 25-16 (zika)
+
+- [Primeira vacina contra chikungunya é aprovada no Brasil pela Anvisa](https://veja.abril.com.br/saude/primeira-vacina-contra-chikungunya-e-aprovada-no-brasil-pela-anvisa/) (Abril.com.br)
+
+- [A mysterious pathogen: Oropouche virus more common in Latin America than previously thought](https://www.sciencedaily.com/releases/2025/04/250414124340.htm) (Science Daily)
+
+- [Anvisa aprova primeira vacina contra Chikungunya, do Instituto Butantan](https://www.infomoney.com.br/saude/anvisa-aprova-primeira-vacina-contra-chikungunya-do-instituto-butantan/) (InfoMoney)
 
 ## 25-16 (pertussis)
 
@@ -51,6 +59,14 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-16 (measles)
 
+- [Texas measles outbreak shows what happens when vaccine funding flatlines](https://www.fastcompany.com/91316145/texas-measles-outbreak-shows-what-happens-when-vaccine-funding-flatlines) (Fast Company)
+
+- [Today's political cartoons - April 14, 2025](https://theweek.com/cartoons/todays-political-cartoons-april-14-2025) (The Week Magazine)
+
+- [The Many Ways Kennedy Is Already Undermining Vaccines (Apoorva Mandavilli/New York Times)](https://www.memeorandum.com/250414/p20) (Memeorandum.com)
+
+- [When measles infects an unvaccinated child, illustrated](https://flowingdata.com/2025/04/14/when-measles-infects-an-unvaccinated-child-illustrated/) (Flowingdata.com)
+
 - [Former top health official criticizes RFK Jr. for downplaying measles deaths](https://www.cbsnews.com/news/peter-marks-fda-vaccines-criticizes-rfk-jr-for-downplaying-measles-deaths/) (CBS News)
 
 - [RFK Jr. Gutted Cruise Ship Inspections As Norovirus Surges](https://crooksandliars.com/2025/04/rfk-jr-gutted-cruise-ship-inspections) (Crooksandliars.com)
@@ -67,15 +83,47 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-16 (h5n1)
 
+- [A spray in a cow's nose could soon protect it, and people, from bird flu](https://phys.org/news/2025-04-spray-cow-nose-people-bird.html) (Phys.Org)
+
 - [Highly Pathogenic Avian Influenza A(H5N1) Outbreak in Endangered Cranes, Izumi Plain, Japan, 2022–23](https://wwwnc.cdc.gov/eid/article/31/5/24-1410_article) (Cdc.gov)
 
 - [آنفلوآنزای پرندگان در برابر آنفلوآنزای معمولی: تفاوت‌های کلیدی این دو بیماری چیست؟](https://www.entekhab.ir/fa/news/860695/آنفلوآنزای-پرندگان-در-برابر-آنفلوآنزای-معمولی-تفاوت‌های-کلیدی-این-دو-بیماری-چیست) (Entekhab.ir)
 
 ## 25-16 (dengue)
 
+- [Primeira vacina contra chikungunya é aprovada no Brasil pela Anvisa](https://veja.abril.com.br/saude/primeira-vacina-contra-chikungunya-e-aprovada-no-brasil-pela-anvisa/) (Abril.com.br)
+
+- [A mysterious pathogen: Oropouche virus more common in Latin America than previously thought](https://www.sciencedaily.com/releases/2025/04/250414124340.htm) (Science Daily)
+
+- [Anvisa aprova primeira vacina contra Chikungunya, do Instituto Butantan](https://www.infomoney.com.br/saude/anvisa-aprova-primeira-vacina-contra-chikungunya-do-instituto-butantan/) (InfoMoney)
+
+- [Porto Alegre ultrapassa 3,8 mil casos de dengue em 2025](https://www.terra.com.br/noticias/porto-alegre-ultrapassa-38-mil-casos-de-dengue-em-2025,60c51d32d7a384c09c4319beb1f687204qfz2ah4.html) (Terra.com.br)
+
 - [Maintain clean surrounding, health authorities urge](https://www.fijitimes.com.fj/maintain-clean-surrounding-health-authorities-urge/) (Fijitimes.com.fj)
 
 ## 25-16 (chikungunya)
+
+- [Chikungunya: o que se sabe sobre a vacina aprovada pela Anvisa?](https://www.terra.com.br/vida-e-estilo/chikungunya-o-que-se-sabe-sobre-a-vacina-aprovada-pela-anvisa,3b0434b07d7da0dc311ebdf236c417d673v9cgzi.html) (Terra.com.br)
+
+- [Primeira vacina contra chikungunya é aprovada no Brasil pela Anvisa](https://veja.abril.com.br/saude/primeira-vacina-contra-chikungunya-e-aprovada-no-brasil-pela-anvisa/) (Abril.com.br)
+
+- [Anvisa aprova primeira vacina contra a Chikungunya](https://olhardigital.com.br/2025/04/14/medicina-e-saude/anvisa-aprova-primeira-vacina-contra-a-chikungunya/) (Olhardigital.com.br)
+
+- [Primeira vacina contra chikungunya é aprovada no Brasil](https://www.terra.com.br/vida-e-estilo/saude/primeira-vacina-contra-chikungunya-e-aprovada-no-brasil,cee2e5f01992cc391fc91c247f3ec9513xetbdto.html) (Terra.com.br)
+
+- [Valneva reçoit la première autorisation de mise sur le marché pour IXCHIQ® dans un pays où le chikungunya est endémique](https://www.globenewswire.com/news-release/2025/04/14/3061130/0/fr/Valneva-re%C3%A7oit-la-premi%C3%A8re-autorisation-de-mise-sur-le-march%C3%A9-pour-IXCHIQ-dans-un-pays-o%C3%B9-le-chikungunya-est-end%C3%A9mique.html) (GlobeNewswire)
+
+- [Valneva Receives First Marketing Authorization for IXCHIQ® in a Chikungunya Endemic Country](https://www.globenewswire.com/news-release/2025/04/14/3061130/0/en/Valneva-Receives-First-Marketing-Authorization-for-IXCHIQ-in-a-Chikungunya-Endemic-Country.html) (GlobeNewswire)
+
+- [Anvisa aprova primeira vacina contra Chikungunya, do Instituto Butantan](https://www.infomoney.com.br/saude/anvisa-aprova-primeira-vacina-contra-chikungunya-do-instituto-butantan/) (InfoMoney)
+
+- [Anvisa aprova vacina do Instituto Butantan contra Chikungunya](https://www.congressoemfoco.com.br/noticia/107711/anvisa-arova-vacina-do-instituto-butantan-contra-chikungunya) (Congressoemfoco.com.br)
+
+- [Anvisa aprova vacina contra chikungunya do Butantan e Valneva](https://valor.globo.com/brasil/noticia/2025/04/14/anvisa-aprova-vacina-contra-chikungunya-do-butantan-e-valneva.ghtml) (Globo)
+
+- [Anvisa aprova vacina contra chikungunya desenvolvida pelo Butantan](https://www.metropoles.com/saude/anvisa-vacina-chikungunya-butantan) (Metropoles.com)
+
+- [Chikungunya à La Réunion : "On a franchi le pic" de l'épidémie, estime le directeur de l'ARS de l'île](https://www.francetvinfo.fr/sante/maladie/chikungunya/chikungunya-a-la-reunion-on-a-franchi-le-pic-de-l-epidemie-estime-le-directeur-de-l-ars-de-l-ile_7189059.html) (Francetvinfo.fr)
 
 - ["On se dit que tout le monde va l'avoir" : La Réunion touchée de plein fouet par l'épidémie de chikungunya](https://www.francetvinfo.fr/sante/maladie/chikungunya/reportage-on-se-dit-que-tout-le-monde-va-l-avoir-la-reunion-touchee-de-plein-fouet-par-l-epidemie-de-chikungunya_7187832.html) (Francetvinfo.fr)
 
@@ -3139,8 +3187,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Stopping Measles Outbreak Is 'a Top Priority,' Kennedy Says](https://www.newser.com/story/365052/stopping-measles-outbreak-is-a-top-priority-kennedy-says.html) (Newser)
 
-- [Taking shots at vaccines has deadly consequences (Glenn C. Altschuler/The Hill)](https://www.memeorandum.com/250302/p12) (Memeorandum.com)
-
 ## 25-10 (malaria)
 
 - [Ministry of Health to Issue Antimalarial Medicines in Turkana Starting June](https://www.kenyans.co.ke/news/109743-ministry-health-issue-antimalarial-medicines-turkana-starting-june) (Kenyans.co.ke)
@@ -3193,8 +3239,6 @@ Source: [News API](https://newsapi.org/)
 
 - [U.S.A.I.D. Memos Detail Human Costs of Cuts to Foreign Aid (Apoorva Mandavilli/New York Times)](https://www.memeorandum.com/250302/p101) (Memeorandum.com)
 
-- [Giving an old malaria drug new life](https://www.thestar.com.my/lifestyle/health/2025/03/02/giving-an-old-malaria-drug-new-life) (The Star Online)
-
 ## 25-10 (leptospirosis)
 
 - [Into the spotlight: A spatial study of potentially underreported leptospirosis among dengue-negative patients in São Paulo city, Brazil](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012888) (Plos.org)
@@ -3218,8 +3262,6 @@ Source: [News API](https://newsapi.org/)
 - [Raw cat food recalled after state testing finds contamination with bird flu](https://www.foodsafetynews.com/2025/03/raw-cat-food-recalled-after-state-testing-finds-contamination-with-bird-flu/) (Food Safety News)
 
 - [Animal Ag News 3/3](https://agwired.com/2025/03/03/animal-ag-news-3-3/) (AgWired)
-
-- [Puste półki w USA. Polski potentat jaj: problemy też w Polsce, ceny pójdą w górę](https://businessinsider.com.pl/finanse/handel/puste-polki-w-usa-polski-potentat-jaj-problemy-tez-w-polsce-ceny-pojda-w-gore/m8sdxpe) (Businessinsider.com.pl)
 
 ## 25-10 (h5n1)
 
@@ -3278,8 +3320,6 @@ Source: [News API](https://newsapi.org/)
 - [Terratis se renforce dans sa lutte contre le moustique tigre](https://objectif-languedoc-roussillon.latribune.fr/innovation/2025-03-03/terratis-se-renforce-dans-sa-lutte-contre-le-moustique-tigre-1019699.html) (La Tribune.fr)
 
 - [Brumbies flanker Tualima diagnosed with dengue fever](https://www.bbc.com/sport/rugby-union/articles/cgl0e67r6dyo) (BBC News)
-
-- [Ssa: este año, mil 781 casos de dengue y cero muertes](https://www.jornada.com.mx/2025/03/02/sociedad/027n1soc) (Jornada.com.mx)
 
 ## 25-10 (chikungunya)
 

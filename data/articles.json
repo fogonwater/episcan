@@ -1,8 +1,337 @@
 {
-  "last_updated": "2025-04-15 07:07",
-  "count_articles_total": 1513,
-  "count_articles_new": 2,
+  "last_updated": "2025-04-15 19:05",
+  "count_articles_total": 1527,
+  "count_articles_new": 18,
   "articles": [
+    {
+      "id": 20380,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Fast Company",
+      "author": "Associated Press",
+      "title": "Texas measles outbreak shows what happens when vaccine funding flatlines",
+      "description": "The measles outbreak in West Texas didn\u2019t happen just by chance. The easily preventable disease, declared eliminated in the U.S. in 2000, ripped through communities sprawling across more than 20 Texas counties in part because health departments were starve\u2026",
+      "url": "https://www.fastcompany.com/91316145/texas-measles-outbreak-shows-what-happens-when-vaccine-funding-flatlines",
+      "urlToImage": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit/wp-cms-2/2025/04/AP25099777429209.jpg",
+      "publishedAt": "2025-04-14 18:30:00",
+      "content": "The measles outbreak in West Texas didnt happen just by chance. The easily preventable disease, declared eliminated in the U.S. in 2000, ripped through communities sprawling across more than 20 Texa\u2026 [+11918 chars]",
+      "retrievedAt": "2025-04-15 19:05:54.490094",
+      "internal_id": "654935a75f1145a528b982df9c5fd17903cae6179de0f622588d96f1dae31f22",
+      "publishedAtLabel": "Apr 14"
+    },
+    {
+      "id": 20388,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Viva Sa\u00fade",
+      "title": "Chikungunya: o que se sabe sobre a vacina aprovada pela Anvisa?",
+      "description": "O imunizante est\u00e1 autorizado a ser aplicado no pa\u00eds na popula\u00e7\u00e3o acima de 18 anos. O v\u00edrus \u00e9 transmitido pelo mosquito Aedes aegypti",
+      "url": "https://www.terra.com.br/vida-e-estilo/chikungunya-o-que-se-sabe-sobre-a-vacina-aprovada-pela-anvisa,3b0434b07d7da0dc311ebdf236c417d673v9cgzi.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/04/14/309427855-ebc.png",
+      "publishedAt": "2025-04-14 17:16:32",
+      "content": "A Ag\u00eancia Nacional de Vigil\u00e2ncia Sanit\u00e1ria (Anvisa) aprovou, nesta segunda-feira (14), o pedido para registro definitivo da vacina contra a Chikungunya. Foi desenvolvida pelo Instituto Butantan, em\u2026 [+1293 chars]",
+      "retrievedAt": "2025-04-15 19:05:57.054779",
+      "internal_id": "e9b10a39d86e1172b676cf2052998ac6bb63c9a921f8d3dede859143af471f08",
+      "publishedAtLabel": "Apr 14"
+    },
+    {
+      "id": 20386,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Paula Felix",
+      "title": "Primeira vacina contra chikungunya \u00e9 aprovada no Brasil pela Anvisa",
+      "description": "Imunizante desenvolvido em parceria com Instituto Butantan \u00e9 indicado para pessoas com mais de 18 anos; EUA e Europa j\u00e1 fizeram aprova\u00e7\u00e3o",
+      "url": "https://veja.abril.com.br/saude/primeira-vacina-contra-chikungunya-e-aprovada-no-brasil-pela-anvisa/",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2019/05/mundo-dengue-aedes-aegypti-20110116-009.jpg?quality=70&strip=info&crop=1&resize=1080,565",
+      "publishedAt": "2025-04-14 16:45:29",
+      "content": "Rel\u00e2mpago: Assine Digital Completo por 2,99VETOR - Aedes aegypti: al\u00e9m de dengue e zika, mosquito transmite chikungunya, doen\u00e7a que causa dores nas articula\u00e7\u00f5es e pode matar (Joao Paulo Burini/Getty \u2026 [+4774 chars]",
+      "retrievedAt": "2025-04-15 19:05:55.683124",
+      "internal_id": "3d02e49ea55edc6c1b8233659bbb25c98859d83c154430d677bd10d1cab90574",
+      "publishedAtLabel": "Apr 14"
+    },
+    {
+      "id": 20387,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Alessandro Di Lorenzo",
+      "title": "Anvisa aprova primeira vacina contra a Chikungunya",
+      "description": "Testes comprovaram que o imunizante \u00e9 eficaz e seguro contra o v\u00edrus da Chikungunya, transmitido pelo mosquito Aedes aegypt O post Anvisa aprova primeira vacina contra a Chikungunya apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2025/04/14/medicina-e-saude/anvisa-aprova-primeira-vacina-contra-a-chikungunya/",
+      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2025/04/shutterstock_1882709662.jpg",
+      "publishedAt": "2025-04-14 16:43:55",
+      "content": "Uma vacina recombinante atenuada contra a Chikungunya, desenvolvida pela farmac\u00eautica austr\u00edaca Valneva, foi aprovada pela Ag\u00eancia Nacional de Vigil\u00e2ncia Sanit\u00e1ria (Anvisa). Este \u00e9 o primeiro imuniza\u2026 [+1845 chars]",
+      "retrievedAt": "2025-04-15 19:05:57.046536",
+      "internal_id": "40eff31aaceca47bd9098df38199f68bb0f556bccd7830a115325ad6f35bae7f",
+      "publishedAtLabel": "Apr 14"
+    },
+    {
+      "id": 20383,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "A mysterious pathogen: Oropouche virus more common in Latin America than previously thought",
+      "description": "Like the dengue and Zika viruses, Oropouche virus causes a febrile illness. There are recent indications that infections during pregnancy can cause damage to unborn babies. Researchers have now determined that the virus is much more widespread in Latin Americ\u2026",
+      "url": "https://www.sciencedaily.com/releases/2025/04/250414124340.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2025-04-14 16:43:40",
+      "content": "Like the dengue and Zika viruses, Oropouche virus causes a febrile illness. There are recent indications that infections during pregnancy can cause damage to unborn babies. Researchers at Charit\u00e9 -- \u2026 [+5191 chars]",
+      "retrievedAt": "2025-04-15 19:05:55.645390",
+      "internal_id": "4bad37916ecc54650086776672cacb1af1f70919e09626514e04725c487f05fc",
+      "publishedAtLabel": "Apr 14"
+    },
+    {
+      "id": 20389,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Estad\u00e3o Conte\u00fado",
+      "title": "Primeira vacina contra chikungunya \u00e9 aprovada no Brasil",
+      "description": "Imunizante foi desenvolvido pela farmac\u00eautica austr\u00edaca Valneva e ser\u00e1 fabricado na Alemanha; pedido de registro contou com o apoio do Instituto Butantan",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/primeira-vacina-contra-chikungunya-e-aprovada-no-brasil,cee2e5f01992cc391fc91c247f3ec9513xetbdto.html",
+      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2025-04-14 16:12:38",
+      "content": "A primeira vacina desenvolvida contra chikungunya teve seu registro definitivo aprovado no Brasil nesta segunda-feira, 14, pela Ag\u00eancia Nacional de Vigil\u00e2ncia Sanit\u00e1ria (Anvisa). Com o parecer favor\u00e1\u2026 [+3122 chars]",
+      "retrievedAt": "2025-04-15 19:05:57.077408",
+      "internal_id": "9d46f24080b7bb12cfbb2c59b1b6fdf70f184f3cfce61aee74c35687b7576033",
+      "publishedAtLabel": "Apr 14"
+    },
+    {
+      "id": 20392,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "VALNEVA",
+      "title": "Valneva re\u00e7oit la premi\u00e8re autorisation de mise sur le march\u00e9 pour IXCHIQ\u00ae dans un pays o\u00f9 le chikungunya est end\u00e9mique",
+      "description": "Saint Herblain (France), le 14 avril 2025 - Valneva SE (Nasdaq : VALN ; Euronext Paris : VLA), soci\u00e9t\u00e9 sp\u00e9cialis\u00e9e dans les vaccins, a annonc\u00e9 aujourd'hui que l'agence de sant\u00e9 br\u00e9silienne (ANVISA) a accord\u00e9 l'autorisation de mise sur le march\u00e9 \u00e0 son vaccin u\u2026",
+      "url": "https://www.globenewswire.com/news-release/2025/04/14/3061130/0/fr/Valneva-re%C3%A7oit-la-premi%C3%A8re-autorisation-de-mise-sur-le-march%C3%A9-pour-IXCHIQ-dans-un-pays-o%C3%B9-le-chikungunya-est-end%C3%A9mique.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/04f398df-96ac-4b7a-8544-2a2ce2495778",
+      "publishedAt": "2025-04-14 15:45:00",
+      "content": "Saint Herblain (France), le 14 avril 2025 - Valneva SE (Nasdaq : VALN ; Euronext Paris : VLA), soci\u00e9t\u00e9 sp\u00e9cialis\u00e9e dans les vaccins, a annonc\u00e9 aujourd'hui que l'agence de sant\u00e9 br\u00e9silienne (ANVISA) a\u2026 [+15219 chars]",
+      "retrievedAt": "2025-04-15 19:05:57.120860",
+      "internal_id": "2aeb921c3c9d9b6b18bade2550a0fe4e1721d761f93d633319b9193c4bf60566",
+      "publishedAtLabel": "Apr 14"
+    },
+    {
+      "id": 20393,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "VALNEVA",
+      "title": "Valneva Receives First Marketing Authorization for IXCHIQ\u00ae in a Chikungunya Endemic Country",
+      "description": "Saint Herblain (France), April 14, 2025 \u2013 Valneva SE (Nasdaq: VALN; Euronext Paris: VLA), a specialty vaccine company today announced that the Brazilian Health Regulatory Agency (ANVISA) has granted marketing authorization to its single-dose vaccine IXCHIQ\u00ae f\u2026",
+      "url": "https://www.globenewswire.com/news-release/2025/04/14/3061130/0/en/Valneva-Receives-First-Marketing-Authorization-for-IXCHIQ-in-a-Chikungunya-Endemic-Country.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/04f398df-96ac-4b7a-8544-2a2ce2495778",
+      "publishedAt": "2025-04-14 15:45:00",
+      "content": "Saint Herblain (France), April 14, 2025Valneva SE (Nasdaq: VALN; Euronext Paris: VLA), a specialty vaccine company today announced that the Brazilian Health Regulatory Agency (ANVISA) has granted mar\u2026 [+12955 chars]",
+      "retrievedAt": "2025-04-15 19:05:57.128855",
+      "internal_id": "ecbe3d37ef5f862e86001e367a426e39f9c43a83506a5f1b6a3d6f77193711e5",
+      "publishedAtLabel": "Apr 14"
+    },
+    {
+      "id": 20382,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Phys.Org",
+      "author": "Kimbra Cutlip",
+      "title": "A spray in a cow's nose could soon protect it, and people, from bird flu",
+      "description": "It was a first for cows last March when the U.S. Department of Agriculture announced the highly pathogenic avian flu virus H5N1 had been found in cattle. Since then, most of the 70 human cases of the disease in the U.S. have come from interaction with infecte\u2026",
+      "url": "https://phys.org/news/2025-04-spray-cow-nose-people-bird.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/cow-nose.jpg",
+      "publishedAt": "2025-04-14 15:35:03",
+      "content": "It was a first for cows last March when the U.S. Department of Agriculture announced the highly pathogenic avian flu virus H5N1 had been found in cattle. Since then, most of the 70 human cases of the\u2026 [+2776 chars]",
+      "retrievedAt": "2025-04-15 19:05:55.291093",
+      "internal_id": "8b6bf890f08217e103fa849399701b3e073b5f4c3895aa06335f979ae01288ce",
+      "publishedAtLabel": "Apr 14"
+    },
+    {
+      "id": 20379,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Week Magazine",
+      "author": "theweekonlineeditors@futurenet.com (The Week US)",
+      "title": "Today's political cartoons - April 14, 2025",
+      "description": "Monday's cartoons - measles madness, \u00c1brego Garc\u00eda, and more",
+      "url": "https://theweek.com/cartoons/todays-political-cartoons-april-14-2025",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/BnV2Q32riygc9FtPdAp5Xn.jpg",
+      "publishedAt": "2025-04-14 15:01:00",
+      "content": "The Week is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site. \u00a9 Future US, Inc. Full 7th Floor, 130 West 42nd Street, New York, NY 10036.",
+      "retrievedAt": "2025-04-15 19:05:54.449463",
+      "internal_id": "4e00e7eb83badd57d4c255133afc754bb1a564792edebbd4cff903ea2455bf81",
+      "publishedAtLabel": "Apr 14"
+    },
+    {
+      "id": 20385,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": "info-money",
+      "source_name": "InfoMoney",
+      "author": "Estad\u00e3o Conte\u00fado",
+      "title": "Anvisa aprova primeira vacina contra Chikungunya, do Instituto Butantan",
+      "description": "A doen\u00e7a \u00e9 transmitida por meio da picada de mosquitos Aedes aegypt, que tamb\u00e9m pode carregar Dengue e Zika The post Anvisa aprova primeira vacina contra Chikungunya, do Instituto Butantan appeared first on InfoMoney.",
+      "url": "https://www.infomoney.com.br/saude/anvisa-aprova-primeira-vacina-contra-chikungunya-do-instituto-butantan/",
+      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2019/06/aedes-aegypti.png?quality=70",
+      "publishedAt": "2025-04-14 14:10:00",
+      "content": "\u00a9 2000-2025 InfoMoney. Todos os direitos reservados. O InfoMoney preza a qualidade da informa\u00e7\u00e3o e atesta a apura\u00e7\u00e3o de todo o conte\u00fado produzido por sua equipe, ressaltando, no entanto, que n\u00e3\u2026 [+1238 chars]",
+      "retrievedAt": "2025-04-15 19:05:55.675279",
+      "internal_id": "785d8b0aadd2015fd79e7cb85d5b93c1020c9f90ccded8c7af68987a886b42ea",
+      "publishedAtLabel": "Apr 14"
+    },
+    {
+      "id": 20394,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Congressoemfoco.com.br",
+      "author": "",
+      "title": "Anvisa aprova vacina do Instituto Butantan contra Chikungunya",
+      "description": "A Anvisa autorizou o registro do imunizante para a preven\u00e7\u00e3o da Chikungunya em adultos. Estudos demonstraram sua efic\u00e1cia e seguran\u00e7a, com aprova\u00e7\u00e3o pr\u00e9via de autoridades internacionais.",
+      "url": "https://www.congressoemfoco.com.br/noticia/107711/anvisa-arova-vacina-do-instituto-butantan-contra-chikungunya",
+      "urlToImage": "https://static.congressoemfoco.com.br/CONG_REDES_RETANGULAR/2025/04/14/4316a1_CONG_REDES_RETANGULAR_vacinadengue11jpg.jpg",
+      "publishedAt": "2025-04-14 13:59:08",
+      "content": "A Ag\u00eancia Nacional de Vigil\u00e2ncia Sanit\u00e1ria (Anvisa) concedeu o registro para a vacina IXCHIQ, uma vacina recombinante atenuada contra o v\u00edrus Chikungunya, desenvolvida pelo Instituto Butantan em parc\u2026 [+2184 chars]",
+      "retrievedAt": "2025-04-15 19:05:57.136319",
+      "internal_id": "4ef4a203c64303caea0dc6b89942d2f6084118098398624a4ab48b4a1cbda918",
+      "publishedAtLabel": "Apr 14"
+    },
+    {
+      "id": 20395,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Anvisa aprova vacina contra chikungunya do Butantan e Valneva",
+      "description": "Imunizante est\u00e1 autorizado a ser aplicado no pa\u00eds na popula\u00e7\u00e3o acima de 18 anos",
+      "url": "https://valor.globo.com/brasil/noticia/2025/04/14/anvisa-aprova-vacina-contra-chikungunya-do-butantan-e-valneva.ghtml",
+      "urlToImage": "https://s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/public/fb_marca.png",
+      "publishedAt": "2025-04-14 13:55:35",
+      "content": "A Ag\u00eancia Nacional de Vigil\u00e2ncia Sanit\u00e1ria (Anvisa) aprovou, nesta segunda-feira (14), o pedido para registro definitivo da vacina contra a chikungunya encaminhado pelo Instituto Butantan, em parceri\u2026 [+1400 chars]",
+      "retrievedAt": "2025-04-15 19:05:57.150627",
+      "internal_id": "1c9bee960de7881a7d8bde121c8fb96da97df20e62f78a7e975a9c787dd88590",
+      "publishedAtLabel": "Apr 14"
+    },
+    {
+      "id": 20391,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Beth\u00e2nia Nunes",
+      "title": "Anvisa aprova vacina contra chikungunya desenvolvida pelo Butantan",
+      "description": "Vacina contra chikungunya desenvolvida pelo Instituto Butantan em parceria com a Valneva mostrou efic\u00e1cia de at\u00e9 98,9% nos testes cl\u00ednicos",
+      "url": "https://www.metropoles.com/saude/anvisa-vacina-chikungunya-butantan",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/03/15144622/DF-corre-risco-de-enfrentar-epidemia-de-chikungunya-em-2025.jpg",
+      "publishedAt": "2025-04-14 13:49:54",
+      "content": "A Ag\u00eancia Nacional de Vigil\u00e2ncia Sanit\u00e1ria (Anvisa) aprovou, nesta segunda-feira (14/4), o registro definitivo da vacina contra a chikungunya desenvolvida pelo Instituto Butantan em parceria com a fa\u2026 [+1243 chars]",
+      "retrievedAt": "2025-04-15 19:05:57.113340",
+      "internal_id": "c0600e702d12fbf13a83da21363f4edb7f0086f3061da786d5833aa0a1421b63",
+      "publishedAtLabel": "Apr 14"
+    },
+    {
+      "id": 20384,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Porto Alegre 24 horas",
+      "title": "Porto Alegre ultrapassa 3,8 mil casos de dengue em 2025",
+      "description": "Porto Alegre registra 3.872 casos confirmados de dengue at\u00e9 s\u00e1bado, 12 de abril. Desse total, ...",
+      "url": "https://www.terra.com.br/noticias/porto-alegre-ultrapassa-38-mil-casos-de-dengue-em-2025,60c51d32d7a384c09c4319beb1f687204qfz2ah4.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/04/14/775300234-whatsapp-image-2025-04-14-at-095624.jpeg",
+      "publishedAt": "2025-04-14 13:44:50",
+      "content": "Porto Alegre registra 3.872 casos confirmados de dengue at\u00e9 s\u00e1bado, 12 de abril. Desse total, 2.003 s\u00e3o aut\u00f3ctones - ou seja, com transmiss\u00e3o ocorrida dentro da pr\u00f3pria cidade. Dois \u00f3bitos por dengue\u2026 [+2409 chars]",
+      "retrievedAt": "2025-04-15 19:05:55.653341",
+      "internal_id": "7dde59a9ab8be476feb8ff706a72f86fc813a8106fff5e58185d47675b2f47d1",
+      "publishedAtLabel": "Apr 14"
+    },
+    {
+      "id": 20381,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "The Many Ways Kennedy Is Already Undermining Vaccines (Apoorva Mandavilli/New York Times)",
+      "description": "Apoorva Mandavilli / New York Times: The Many Ways Kennedy Is Already Undermining Vaccines \u2014 The health secretary has chipped away at the idea that immunizing children against measles and other diseases is a public health good. \u2014 During his Senate confirm\u2026",
+      "url": "https://www.memeorandum.com/250414/p20",
+      "urlToImage": "https://static01.nyt.com/images/2025/04/09/multimedia/09vaccines-access-01-vqtl/09vaccines-access-01-vqtl-facebookJumbo.jpg",
+      "publishedAt": "2025-04-14 13:05:01",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-04-15 19:05:54.563150",
+      "internal_id": "23fbb1c716ebeb61eca3f12311049b51bb8e55ee108ce342edbc5797f4c2c7ea",
+      "publishedAtLabel": "Apr 14"
+    },
+    {
+      "id": 20378,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Flowingdata.com",
+      "author": "Nathan Yau",
+      "title": "When measles infects an unvaccinated child, illustrated",
+      "description": "If you are not vaccinated against measles, you will most likely catch it if you are exposed. For The New York Times, Emily Baumgaertner Nunn and Marco Hernandez illustrate how measles can lead to i\u2026",
+      "url": "https://flowingdata.com/2025/04/14/when-measles-infects-an-unvaccinated-child-illustrated/",
+      "urlToImage": "https://flowingdata.com/wp-content/uploads/2025/04/measles-illustration.png",
+      "publishedAt": "2025-04-14 09:49:29",
+      "content": "If you are not vaccinated against measles, you will most likely catch it if you are exposed. For The New York Times, Emily Baumgaertner Nunn and Marco Hernandez illustrate how measles can lead to inf\u2026 [+533 chars]",
+      "retrievedAt": "2025-04-15 19:05:54.352837",
+      "internal_id": "db8b27973123f18bda39e627e7b78b3a59dc6f3a68dbcd560131aae9a288905a",
+      "publishedAtLabel": "Apr 14"
+    },
+    {
+      "id": 20390,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Francetvinfo.fr",
+      "author": null,
+      "title": "Chikungunya \u00e0 La R\u00e9union : \"On a franchi le pic\" de l'\u00e9pid\u00e9mie, estime le directeur de l'ARS de l'\u00eele",
+      "description": "M\u00eame si l'\u00e9pid\u00e9mie de chikungunya est pr\u00e9sente \"partout sur l'\u00eele\", elle est \"sous contr\u00f4le\", selon G\u00e9rard Cotellon.",
+      "url": "https://www.francetvinfo.fr/sante/maladie/chikungunya/chikungunya-a-la-reunion-on-a-franchi-le-pic-de-l-epidemie-estime-le-directeur-de-l-ars-de-l-ile_7189059.html",
+      "urlToImage": "https://www.francetvinfo.fr/pictures/zXm45sWMxUSI67V6oWaA7PwoVzw/0x0:1024x575/1500x843/2025/04/14/000-39y89we-67fcd06de2481691972003.jpg",
+      "publishedAt": "2025-04-14 09:17:10",
+      "content": "\"On a franchi le pic\", estime, lundi 14 avril sur franceinfo, G\u00e9rard Cotellon, directeur g\u00e9n\u00e9ral de lAgence r\u00e9gionale de sant\u00e9 (ARS) de l\u00eele de la R\u00e9union, alors que le minist\u00e8re des Arm\u00e9es a annonc\u00e9\u2026 [+1130 chars]",
+      "retrievedAt": "2025-04-15 19:05:57.085026",
+      "internal_id": "97bd330897374defa4d97322d79cdf645980d883c9079005fe6b70825211f22e",
+      "publishedAtLabel": "Apr 14"
+    },
     {
       "id": 20377,
       "query": [
@@ -27198,78 +27527,6 @@
       "content": "Leading vaccine critic Robert F. Kennedy Jr., who has been dismissive of the measles outbreak in Texas, now says that the spread needs to be stopped and that the federal response will include vaccina\u2026 [+1515 chars]",
       "retrievedAt": "2025-03-04 07:06:58.118294",
       "internal_id": "91826f6474fd7953762a3128962905d7045c31e093ae4b37535311dba6301da7",
-      "publishedAtLabel": "Mar 2"
-    },
-    {
-      "id": 18858,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Memeorandum.com",
-      "author": null,
-      "title": "Taking shots at vaccines has deadly consequences (Glenn C. Altschuler/The Hill)",
-      "description": "Glenn C. Altschuler / The Hill: Taking shots at vaccines has deadly consequences \u2014 Public health authorities reported on Feb. 21 that an ongoing measles outbreak in Gaines County, Texas and Lea County, New Mexico was already the largest in decades. Of the \u2026",
-      "url": "https://www.memeorandum.com/250302/p12",
-      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2025/02/AP25058597447123-e1740780617390.jpg?w=1280",
-      "publishedAt": "2025-03-02 14:45:00",
-      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
-      "retrievedAt": "2025-03-03 19:05:53.852045",
-      "internal_id": "c7a065728afda105f6cda7600f3f60a9c1e4cea233eb5cb1d18e3627d70d7fa9",
-      "publishedAtLabel": "Mar 2"
-    },
-    {
-      "id": 18859,
-      "query": [
-        "hpai"
-      ],
-      "source_id": null,
-      "source_name": "Businessinsider.com.pl",
-      "author": null,
-      "title": "Puste p\u00f3\u0142ki w USA. Polski potentat jaj: problemy te\u017c w Polsce, ceny p\u00f3jd\u0105 w g\u00f3r\u0119",
-      "description": "Tylko w ci\u0105gu ostatnich pi\u0119ciu miesi\u0119cy w wyniku walki z HPAI, straty w pog\u0142owiu kur nie\u015bnych w naszym kraju wynios\u0142y oko\u0142o 6 mln. \u2014 Tak du\u017ca redukcja potencja\u0142u produkcyjnego nie mo\u017ce pozosta\u0107 bez konsekwencji dla cen detalicznych \u2014 m\u00f3wi ekspertka. To oznacz\u2026",
-      "url": "https://businessinsider.com.pl/finanse/handel/puste-polki-w-usa-polski-potentat-jaj-problemy-tez-w-polsce-ceny-pojda-w-gore/m8sdxpe",
-      "urlToImage": "https://ocdn.eu/pulscms-transforms/1/COtk9kpTURBXy9kODY3NTllNzZjNjI1MWFmOGFiNGE2NDAyOWFlOWMxNC5qcGeSlQMAzHbNB9DNBGWTBc0EsM0Cdt4AAaEwAQ",
-      "publishedAt": "2025-03-02 13:22:43",
-      "content": "Sytuacja robi si coraz bardziej powana. W Stanach Zjednoczonych p\u00f3ki z jajami wiec pustkami, a gdy produkty ju si na nich pojawi, osigaj zawrotne ceny. Wszystko przez szalejcy wirus HPAI, kt\u00f3ry tylko\u2026 [+6028 chars]",
-      "retrievedAt": "2025-03-03 19:05:54.013022",
-      "internal_id": "413d55005a4ade7698a4d7f9b3983c2f633ce8ff4f75b01142bd9ca90bcbeab6",
-      "publishedAtLabel": "Mar 2"
-    },
-    {
-      "id": 18861,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "Agency",
-      "title": "Giving an old malaria drug new life",
-      "description": "Scientists are redesigning an existing malaria medicine to make it last longer in the body.",
-      "url": "https://www.thestar.com.my/lifestyle/health/2025/03/02/giving-an-old-malaria-drug-new-life",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/02/28/3190130.jpg",
-      "publishedAt": "2025-03-02 12:51:31",
-      "content": "A new clinical trial from Scripps Research in La Jolla, California, United States, aims to make significant gains in the global fight against malaria by making a drug that has been around since the 1\u2026 [+3088 chars]",
-      "retrievedAt": "2025-03-03 19:05:55.477086",
-      "internal_id": "9e97bf16d4b07eb43a29f5729ca52ff237404627bb2b6ceeaf5608dfc5ecca15",
-      "publishedAtLabel": "Mar 2"
-    },
-    {
-      "id": 18860,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Jornada.com.mx",
-      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "title": "Ssa: este a\u00f1o, mil 781 casos de dengue y cero muertes",
-      "description": "La Secretar\u00eda de Salud (Ssa) report\u00f3 que en lo que va del a\u00f1o se han confirmado mil 781 casos de dengue, de los cuales 53.7 por ciento son contagios con signos de alarma y al menos otros 66 casos corresponden al tipo grave o hemorr\u00e1gico.",
-      "url": "https://www.jornada.com.mx/2025/03/02/sociedad/027n1soc",
-      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "publishedAt": "2025-03-02 09:02:36",
-      "content": "Peri\u00f3dico La JornadaDomingo 2 de marzo de 2025, p. 27 La Secretar\u00eda de Salud (Ssa) report\u00f3 que en lo que va del a\u00f1o se han confirmado mil 781 casos de dengue, de los cuales 53.7 por ciento son conta\u2026 [+1682 chars]",
-      "retrievedAt": "2025-03-03 19:05:54.725898",
-      "internal_id": "f5f305794e31b3fddf0cfa86e8d50d0f58d2f1633ca054d9a64f05cabfc42835",
       "publishedAtLabel": "Mar 2"
     }
   ]
