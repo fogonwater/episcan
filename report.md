@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 18
-- **Last harvest:** 2025-04-15 19:05
-- **Most recent article:** 2025-04-14 18:30:00
+- **New articles in last harvest:** 17
+- **Last harvest:** 2025-04-16 07:07
+- **Most recent article:** 2025-04-15 06:29:41
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-10 | 25-11 | 25-12 | 25-13 | 25-14 | 25-15 | 25-16 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 140 | 133 | 108 | 101 | 77 | 144 | 9 | 712 |
-| h5n1 | 20 | 39 | 57 | 47 | 46 | 66 | 3 | 278 |
-| malaria | 25 | 22 | 18 | 30 | 13 | 10 | 1 | 119 |
-| dengue | 7 | 12 | 18 | 20 | 14 | 24 | 5 | 100 |
-| mpox | 13 | 15 | 8 | 12 | 17 | 18 | 1 | 84 |
+| measles | 141 | 133 | 108 | 101 | 77 | 145 | 18 | 723 |
+| h5n1 | 20 | 39 | 57 | 47 | 46 | 66 | 4 | 279 |
+| malaria | 26 | 22 | 18 | 30 | 13 | 10 | 6 | 125 |
+| dengue | 8 | 12 | 18 | 20 | 14 | 24 | 7 | 103 |
+| mpox | 13 | 15 | 8 | 12 | 17 | 18 | 2 | 85 |
 | chikungunya | 6 | 1 | 17 | 10 | 17 | 15 | 12 | 78 |
 | meningitis | 4 | 9 | 7 | 10 | 6 | 10 | 2 | 48 |
 | rabies | 3 | 8 | 3 | 19 | 7 | 7 | 0 | 47 |
-| hpai | 7 | 3 | 12 | 2 | 4 | 3 | 0 | 31 |
+| hpai | 8 | 3 | 12 | 2 | 4 | 3 | 1 | 33 |
 | zika | 3 | 0 | 2 | 3 | 4 | 7 | 3 | 22 |
+| typhoid | 3 | 8 | 0 | 1 | 2 | 2 | 1 | 17 |
 | pertussis | 0 | 5 | 1 | 0 | 7 | 2 | 2 | 17 |
-| typhoid | 3 | 8 | 0 | 1 | 2 | 2 | 0 | 16 |
 | yersinia | 1 | 2 | 2 | 3 | 0 | 0 | 0 | 8 |
 | leptospirosis | 3 | 0 | 1 | 0 | 0 | 0 | 0 | 4 |
 | shigellosis | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 3 |
@@ -41,6 +41,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Anvisa aprova primeira vacina contra Chikungunya, do Instituto Butantan](https://www.infomoney.com.br/saude/anvisa-aprova-primeira-vacina-contra-chikungunya-do-instituto-butantan/) (InfoMoney)
 
+## 25-16 (typhoid)
+
+- [Treating malaria, typhoid 10 times yearly could signal serious health condition – Expert](https://punchng.com/treating-malaria-typhoid-10-times-yearly-could-signal-serious-health-condition-expert/) (The Punch)
+
 ## 25-16 (pertussis)
 
 - ['It's Not Just Measles.' Whooping Cough Cases Spike](https://www.newser.com/story/367039/its-not-just-measles-whooping-cough-cases-spike.html) (Newser)
@@ -48,6 +52,8 @@ Source: [News API](https://newsapi.org/)
 - [Whooping Cough Spreads Across Japan](https://newsonjapan.com/article/145395.php) (Newsonjapan.com)
 
 ## 25-16 (mpox)
+
+- [Pandemic treaty talks inch toward accord](https://www.japantimes.co.jp/news/2025/04/15/world/politics/pandemic-treaty-talks-accord/) (The Japan Times)
 
 - [Hochsicherheits-Forschung: Die Insel der gefährlichen Viren](https://www.stern.de/panorama/wissen/die-insel-der-viren--deutschlands-abwehr-gegen-toedliche-erreger-35622146.html) (STERN.de)
 
@@ -59,15 +65,33 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-16 (measles)
 
+- [The sneaking rise of whooping cough](https://theweek.com/health/rise-of-whooping-cough) (The Week Magazine)
+
+- [Pandemic treaty talks inch toward accord](https://www.japantimes.co.jp/news/2025/04/15/world/politics/pandemic-treaty-talks-accord/) (The Japan Times)
+
+- [Experts stress importance of vaccination amidst measles outbreaks](https://www.sciencedaily.com/releases/2025/04/250414183623.htm) (Science Daily)
+
+- [Vaccine expert worries child measles deaths are being 'normalized'](https://www.npr.org/2025/04/14/1244690933/vaccine-expert-worries-child-measles-deaths-are-being-normalized) (NPR)
+
+- [A vaccine expert worries child measles deaths are being 'normalized'](https://www.npr.org/2025/04/14/nx-s1-5361374/a-vaccine-expert-worries-child-measles-deaths-are-being-normalized) (NPR)
+
+- [Have new measles cases been uncovered in Lancaster County since WellSpan Ephrata case?](https://lancasteronline.com/news/local/have-new-measles-cases-been-uncovered-in-lancaster-county-since-wellspan-ephrata-case/article_29dcf0be-7335-4c3a-88af-646d408aefc6.html) (LancasterOnline)
+
 - [Texas measles outbreak shows what happens when vaccine funding flatlines](https://www.fastcompany.com/91316145/texas-measles-outbreak-shows-what-happens-when-vaccine-funding-flatlines) (Fast Company)
 
 - [Today's political cartoons - April 14, 2025](https://theweek.com/cartoons/todays-political-cartoons-april-14-2025) (The Week Magazine)
 
 - [The Many Ways Kennedy Is Already Undermining Vaccines (Apoorva Mandavilli/New York Times)](https://www.memeorandum.com/250414/p20) (Memeorandum.com)
 
+- [Viral outbreak simulations](https://flowingdata.com/2025/04/14/viral-outbreak-simulations/) (Flowingdata.com)
+
 - [When measles infects an unvaccinated child, illustrated](https://flowingdata.com/2025/04/14/when-measles-infects-an-unvaccinated-child-illustrated/) (Flowingdata.com)
 
 - [Former top health official criticizes RFK Jr. for downplaying measles deaths](https://www.cbsnews.com/news/peter-marks-fda-vaccines-criticizes-rfk-jr-for-downplaying-measles-deaths/) (CBS News)
+
+- [Measles explodes in Texas after stagnant vax funding](https://economictimes.indiatimes.com/news/international/world-news/measles-explodes-in-texas-after-stagnant-vax-funding/articleshow/120261518.cms) (The Times of India)
+
+- [Pa. Department of Health reports measles case at WellSpan Ephrata](https://lancasteronline.com/news/local/pa-department-of-health-reports-measles-case-at-wellspan-ephrata/article_a6c92aea-2f1e-47ac-96c8-8764e6b6d4c1.html) (LancasterOnline)
 
 - [RFK Jr. Gutted Cruise Ship Inspections As Norovirus Surges](https://crooksandliars.com/2025/04/rfk-jr-gutted-cruise-ship-inspections) (Crooksandliars.com)
 
@@ -79,9 +103,25 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-16 (malaria)
 
+- [ドローンでマラリア対策を展開するSora Technology、ニッセイキャピタルら出資](https://thebridge.jp/2025/04/nissay-capital-invests-in-sora-technology-a-company-combating-malaria-with-drones-and-ai) (Thebridge.jp)
+
+- [USAID cuts rip through African health care systems](https://timesofindia.indiatimes.com/world/rest-of-world/usaid-cuts-rip-through-african-health-care-systems/articleshow/120300264.cms) (The Times of India)
+
+- [USAID cuts leave African health systems in crisis as malaria, cholera surge](https://punchng.com/usaid-cuts-leave-african-health-systems-in-crisis-as-malaria-cholera-surge/) (The Punch)
+
+- [Sokoto unveils committee on distribution of anti-malaria drugs](https://punchng.com/sokoto-unveils-committee-on-distribution-of-anti-malaria-drugs/) (The Punch)
+
+- [Treating malaria, typhoid 10 times yearly could signal serious health condition – Expert](https://punchng.com/treating-malaria-typhoid-10-times-yearly-could-signal-serious-health-condition-expert/) (The Punch)
+
 - [Being pregnant with multiple babies may cause excessive vomiting – Gynaecologists](https://punchng.com/being-pregnant-with-multiple-babies-may-cause-excessive-vomiting-gynaecologists/) (The Punch)
 
+## 25-16 (hpai)
+
+- [Safety and Immunogenicity of Poultry Vaccine for Protecting Critically Endangered Avian Species against Highly Pathogenic Avian Influenza Virus, United States](https://wwwnc.cdc.gov/eid/article/31/6/24-1558_article) (Cdc.gov)
+
 ## 25-16 (h5n1)
+
+- [Pandemic treaty talks inch toward accord](https://www.japantimes.co.jp/news/2025/04/15/world/politics/pandemic-treaty-talks-accord/) (The Japan Times)
 
 - [A spray in a cow's nose could soon protect it, and people, from bird flu](https://phys.org/news/2025-04-spray-cow-nose-people-bird.html) (Phys.Org)
 
@@ -90,6 +130,10 @@ Source: [News API](https://newsapi.org/)
 - [آنفلوآنزای پرندگان در برابر آنفلوآنزای معمولی: تفاوت‌های کلیدی این دو بیماری چیست؟](https://www.entekhab.ir/fa/news/860695/آنفلوآنزای-پرندگان-در-برابر-آنفلوآنزای-معمولی-تفاوت‌های-کلیدی-این-دو-بیماری-چیست) (Entekhab.ir)
 
 ## 25-16 (dengue)
+
+- [Yeh Hai Mohabbatein fame Divyanka Tripathi gets diagnosed with dengue; netizens express concern for the actress](https://timesofindia.indiatimes.com/tv/news/hindi/yeh-hai-mohabbatein-fame-divyanka-tripathi-gets-diagnosed-with-dengue-netizens-express-concern-for-the-actress/articleshow/120295742.cms) (The Times of India)
+
+- [Casos de dengue en Costa Rica cayeron a la tercera parte en cuestión de un año, ¿por qué?](https://www.nacion.com/el-pais/casos-de-dengue-en-costa-rica-cayeron-a-la-tercera/3IMCGT3NFBEGPFXU7PK6AJKRRU/story/) (Nacion.com)
 
 - [Primeira vacina contra chikungunya é aprovada no Brasil pela Anvisa](https://veja.abril.com.br/saude/primeira-vacina-contra-chikungunya-e-aprovada-no-brasil-pela-anvisa/) (Abril.com.br)
 
@@ -246,6 +290,8 @@ Source: [News API](https://newsapi.org/)
 - [Deadly measles outbreak does little to counter vaccine scepticism in Texas](https://www.bbc.com/news/articles/cwy7eyde3xeo) (BBC News)
 
 - [Measles outbreaks spark concern over rare 'horrific' neurological disorder](https://www.cbc.ca/news/health/measles-complications-1.7508645) (CBC News)
+
+- [TWiV 1208: Clinical update with Dr. Daniel Griffin](https://www.microbe.tv/twiv/twiv-1208/) (Microbe.tv)
 
 - [Dr. Malone tackles the Texas measles epidemic](https://www.americanthinker.com/blog/2025/04/dr_malone_tackles_the_texas_measles_epidemic.html) (Americanthinker.com)
 
@@ -3187,6 +3233,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Stopping Measles Outbreak Is 'a Top Priority,' Kennedy Says](https://www.newser.com/story/365052/stopping-measles-outbreak-is-a-top-priority-kennedy-says.html) (Newser)
 
+- [Taking shots at vaccines has deadly consequences (Glenn C. Altschuler/The Hill)](https://www.memeorandum.com/250302/p12) (Memeorandum.com)
+
 ## 25-10 (malaria)
 
 - [Ministry of Health to Issue Antimalarial Medicines in Turkana Starting June](https://www.kenyans.co.ke/news/109743-ministry-health-issue-antimalarial-medicines-turkana-starting-june) (Kenyans.co.ke)
@@ -3239,6 +3287,8 @@ Source: [News API](https://newsapi.org/)
 
 - [U.S.A.I.D. Memos Detail Human Costs of Cuts to Foreign Aid (Apoorva Mandavilli/New York Times)](https://www.memeorandum.com/250302/p101) (Memeorandum.com)
 
+- [Giving an old malaria drug new life](https://www.thestar.com.my/lifestyle/health/2025/03/02/giving-an-old-malaria-drug-new-life) (The Star Online)
+
 ## 25-10 (leptospirosis)
 
 - [Into the spotlight: A spatial study of potentially underreported leptospirosis among dengue-negative patients in São Paulo city, Brazil](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012888) (Plos.org)
@@ -3262,6 +3312,8 @@ Source: [News API](https://newsapi.org/)
 - [Raw cat food recalled after state testing finds contamination with bird flu](https://www.foodsafetynews.com/2025/03/raw-cat-food-recalled-after-state-testing-finds-contamination-with-bird-flu/) (Food Safety News)
 
 - [Animal Ag News 3/3](https://agwired.com/2025/03/03/animal-ag-news-3-3/) (AgWired)
+
+- [Puste półki w USA. Polski potentat jaj: problemy też w Polsce, ceny pójdą w górę](https://businessinsider.com.pl/finanse/handel/puste-polki-w-usa-polski-potentat-jaj-problemy-tez-w-polsce-ceny-pojda-w-gore/m8sdxpe) (Businessinsider.com.pl)
 
 ## 25-10 (h5n1)
 
@@ -3320,6 +3372,8 @@ Source: [News API](https://newsapi.org/)
 - [Terratis se renforce dans sa lutte contre le moustique tigre](https://objectif-languedoc-roussillon.latribune.fr/innovation/2025-03-03/terratis-se-renforce-dans-sa-lutte-contre-le-moustique-tigre-1019699.html) (La Tribune.fr)
 
 - [Brumbies flanker Tualima diagnosed with dengue fever](https://www.bbc.com/sport/rugby-union/articles/cgl0e67r6dyo) (BBC News)
+
+- [Ssa: este año, mil 781 casos de dengue y cero muertes](https://www.jornada.com.mx/2025/03/02/sociedad/027n1soc) (Jornada.com.mx)
 
 ## 25-10 (chikungunya)
 
