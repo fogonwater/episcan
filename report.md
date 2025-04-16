@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 17
-- **Last harvest:** 2025-04-16 07:07
-- **Most recent article:** 2025-04-15 06:29:41
+- **New articles in last harvest:** 24
+- **Last harvest:** 2025-04-16 19:05
+- **Most recent article:** 2025-04-15 19:01:51
 
 ---
 
@@ -12,20 +12,20 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-10 | 25-11 | 25-12 | 25-13 | 25-14 | 25-15 | 25-16 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 141 | 133 | 108 | 101 | 77 | 145 | 18 | 723 |
-| h5n1 | 20 | 39 | 57 | 47 | 46 | 66 | 4 | 279 |
-| malaria | 26 | 22 | 18 | 30 | 13 | 10 | 6 | 125 |
-| dengue | 8 | 12 | 18 | 20 | 14 | 24 | 7 | 103 |
-| mpox | 13 | 15 | 8 | 12 | 17 | 18 | 2 | 85 |
-| chikungunya | 6 | 1 | 17 | 10 | 17 | 15 | 12 | 78 |
+| measles | 140 | 133 | 108 | 101 | 77 | 145 | 25 | 729 |
+| h5n1 | 20 | 39 | 57 | 47 | 46 | 66 | 6 | 281 |
+| malaria | 25 | 22 | 18 | 30 | 13 | 10 | 9 | 127 |
+| dengue | 7 | 12 | 18 | 20 | 14 | 24 | 9 | 104 |
+| mpox | 13 | 15 | 8 | 12 | 17 | 18 | 4 | 87 |
+| chikungunya | 6 | 1 | 17 | 10 | 17 | 15 | 19 | 85 |
 | meningitis | 4 | 9 | 7 | 10 | 6 | 10 | 2 | 48 |
 | rabies | 3 | 8 | 3 | 19 | 7 | 7 | 0 | 47 |
-| hpai | 8 | 3 | 12 | 2 | 4 | 3 | 1 | 33 |
-| zika | 3 | 0 | 2 | 3 | 4 | 7 | 3 | 22 |
+| hpai | 7 | 3 | 12 | 2 | 4 | 3 | 1 | 32 |
+| zika | 3 | 0 | 2 | 3 | 4 | 7 | 5 | 24 |
 | typhoid | 3 | 8 | 0 | 1 | 2 | 2 | 1 | 17 |
 | pertussis | 0 | 5 | 1 | 0 | 7 | 2 | 2 | 17 |
 | yersinia | 1 | 2 | 2 | 3 | 0 | 0 | 0 | 8 |
-| leptospirosis | 3 | 0 | 1 | 0 | 0 | 0 | 0 | 4 |
+| leptospirosis | 3 | 0 | 1 | 0 | 0 | 0 | 1 | 5 |
 | shigellosis | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 3 |
 
 
@@ -34,6 +34,10 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 25-16 (zika)
+
+- [Chikungunya: após aval da Anvisa, Ministério da Saúde pede incorporação de vacina](https://veja.abril.com.br/saude/chikungunya-apos-aval-da-anvisa-ministerio-da-saude-pede-incorporacao-de-vacina/) (Abril.com.br)
+
+- [Tropenvirus Oropouche weiter verbreitet als gedacht](https://science.orf.at/stories/3229805/) (Science.orf.at)
 
 - [Primeira vacina contra chikungunya é aprovada no Brasil pela Anvisa](https://veja.abril.com.br/saude/primeira-vacina-contra-chikungunya-e-aprovada-no-brasil-pela-anvisa/) (Abril.com.br)
 
@@ -53,6 +57,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-16 (mpox)
 
+- [La variante más letal de la mpox tiene una mortalidad del 4% en la República Democrática del Congo](https://www.infosalus.com/salud-investigacion/noticia-variante-mas-letal-mpox-tiene-mortalidad-republica-democratica-congo-20250415143240.html) (Infosalus.com)
+
+- [De vuurvoeteekhoorn is het natuurlijke reservoir van mpox](https://www.nrc.nl/nieuws/2025/04/15/de-vuurvoeteekhoorn-is-het-natuurlijke-reservoir-van-mpox-a4889978) (Www.nrc.nl)
+
 - [Pandemic treaty talks inch toward accord](https://www.japantimes.co.jp/news/2025/04/15/world/politics/pandemic-treaty-talks-accord/) (The Japan Times)
 
 - [Hochsicherheits-Forschung: Die Insel der gefährlichen Viren](https://www.stern.de/panorama/wissen/die-insel-der-viren--deutschlands-abwehr-gegen-toedliche-erreger-35622146.html) (STERN.de)
@@ -64,6 +72,20 @@ Source: [News API](https://newsapi.org/)
 - [Stockton girl's meningitis leads to quadruple amputation](https://www.bbc.co.uk/news/articles/cx2vv81k2k1o) (BBC News)
 
 ## 25-16 (measles)
+
+- [Father Of Girl With Measles Who Died Stands By Decision Not To Vaccinate Her](https://www.huffpost.com/entry/daisy-hildebrand-measles-vaccine_n_67fe74dfe4b0e3decc4c359a) (HuffPost)
+
+- [Texas Dad Doesn't Regret Not Vaccinating Daughter After She Dies of Measles](https://www.newsweek.com/texas-dad-peter-hildebrand-daisy-measles-outbreak-2060011) (Newsweek)
+
+- [Measles Updates: Over 560 Cases In Texas After Outbreaks Reported In 3 More States](https://www.forbes.com/sites/antoniopequenoiv/2025/04/15/measles-updates-over-560-cases-in-texas-after-outbreaks-reported-in-3-more-states/) (Forbes)
+
+- [Texas Measles Cases Increase 4% as Spread Appears to Be Slowing](https://www.insurancejournal.com/news/southcentral/2025/04/15/819851.htm) (Insurance Journal)
+
+- [Ottawa health officials bracing for potential cases of measles](https://www.cbc.ca/news/canada/ottawa/ottawa-measles-bracing-1.7510415) (CBC News)
+
+- [How They Drive Us Crazy … Or Try to](https://www.globalresearch.ca/how-they-drive-us-crazy-try/5884461) (Globalresearch.ca)
+
+- [Links 4/15/2025](https://www.nakedcapitalism.com/2025/04/links-4-15-2025.html) (Nakedcapitalism.com)
 
 - [The sneaking rise of whooping cough](https://theweek.com/health/rise-of-whooping-cough) (The Week Magazine)
 
@@ -103,6 +125,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-16 (malaria)
 
+- [La Casa Blanca plantea poner fin a la financiación del Departamento de Estado a la OTAN y la ONU](https://www.eldiario.es/internacional/theguardian/casa-blanca-plantea-poner-financiacion-departamento-otan-onu_1_12222367.html) (Eldiario.es)
+
+- [Watch Out For These Malaria Triggers This Summer To Reduce Risk](https://www.ndtv.com/health/watch-out-for-these-malaria-triggers-this-summer-to-reduce-risk-8170290) (NDTV News)
+
+- [USAID cuts rip through African health care systems](https://www.citizen.digital/news/usaid-cuts-rip-through-african-health-care-systems-n361049) (Citizen.digital)
+
 - [ドローンでマラリア対策を展開するSora Technology、ニッセイキャピタルら出資](https://thebridge.jp/2025/04/nissay-capital-invests-in-sora-technology-a-company-combating-malaria-with-drones-and-ai) (Thebridge.jp)
 
 - [USAID cuts rip through African health care systems](https://timesofindia.indiatimes.com/world/rest-of-world/usaid-cuts-rip-through-african-health-care-systems/articleshow/120300264.cms) (The Times of India)
@@ -115,11 +143,19 @@ Source: [News API](https://newsapi.org/)
 
 - [Being pregnant with multiple babies may cause excessive vomiting – Gynaecologists](https://punchng.com/being-pregnant-with-multiple-babies-may-cause-excessive-vomiting-gynaecologists/) (The Punch)
 
+## 25-16 (leptospirosis)
+
+- [Host population dynamics influence Leptospira spp. transmission patterns among Rattus norvegicus in Boston, Massachusetts, US](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012966) (Plos.org)
+
 ## 25-16 (hpai)
 
 - [Safety and Immunogenicity of Poultry Vaccine for Protecting Critically Endangered Avian Species against Highly Pathogenic Avian Influenza Virus, United States](https://wwwnc.cdc.gov/eid/article/31/6/24-1558_article) (Cdc.gov)
 
 ## 25-16 (h5n1)
+
+- [Avian flu cull order for B.C. ostrich farm to be reviewed in court today](https://www.cbc.ca/news/canada/british-columbia/universal-ostrich-kill-cull-avian-flu-1.7509915) (CBC News)
+
+- [L'influenza aviaria si sta evolvendo pericolosamente ma possiamo prevenirla](https://tech.everyeye.it/notizie/influenza-aviaria-evolvendo-pericolosamente-possiamo-prevenirla-792991.html) (Everyeye.it)
 
 - [Pandemic treaty talks inch toward accord](https://www.japantimes.co.jp/news/2025/04/15/world/politics/pandemic-treaty-talks-accord/) (The Japan Times)
 
@@ -130,6 +166,10 @@ Source: [News API](https://newsapi.org/)
 - [آنفلوآنزای پرندگان در برابر آنفلوآنزای معمولی: تفاوت‌های کلیدی این دو بیماری چیست؟](https://www.entekhab.ir/fa/news/860695/آنفلوآنزای-پرندگان-در-برابر-آنفلوآنزای-معمولی-تفاوت‌های-کلیدی-این-دو-بیماری-چیست) (Entekhab.ir)
 
 ## 25-16 (dengue)
+
+- [Ministério de Saúde lança campanha ‘Se pode ser dengue, pode ser grave’](https://veja.abril.com.br/coluna/radar/ministerio-de-saude-lanca-campanha-se-pode-ser-dengue-pode-ser-grave/) (Abril.com.br)
+
+- [Chikungunya: após aval da Anvisa, Ministério da Saúde pede incorporação de vacina](https://veja.abril.com.br/saude/chikungunya-apos-aval-da-anvisa-ministerio-da-saude-pede-incorporacao-de-vacina/) (Abril.com.br)
 
 - [Yeh Hai Mohabbatein fame Divyanka Tripathi gets diagnosed with dengue; netizens express concern for the actress](https://timesofindia.indiatimes.com/tv/news/hindi/yeh-hai-mohabbatein-fame-divyanka-tripathi-gets-diagnosed-with-dengue-netizens-express-concern-for-the-actress/articleshow/120295742.cms) (The Times of India)
 
@@ -146,6 +186,20 @@ Source: [News API](https://newsapi.org/)
 - [Maintain clean surrounding, health authorities urge](https://www.fijitimes.com.fj/maintain-clean-surrounding-health-authorities-urge/) (Fijitimes.com.fj)
 
 ## 25-16 (chikungunya)
+
+- [Chikungunya: após aval da Anvisa, Ministério da Saúde pede incorporação de vacina](https://veja.abril.com.br/saude/chikungunya-apos-aval-da-anvisa-ministerio-da-saude-pede-incorporacao-de-vacina/) (Abril.com.br)
+
+- [Saúde quer incorporar a vacina contra Chikungunya no SUS](https://www.infomoney.com.br/saude/saude-quer-incorporar-a-vacina-contra-chikungunya-no-sus/) (InfoMoney)
+
+- [Chikungunya à La Réunion : la vaccination gratuite élargie aux personnes de plus de 18 ans atteintes de comorbidités](https://www.francetvinfo.fr/sante/maladie/chikungunya/chikungunya-a-la-reunion-la-vaccination-gratuite-elargie-aux-personnes-de-plus-de-18-ans-atteintes-de-comorbidites_7191159.html) (Francetvinfo.fr)
+
+- [Chikungunya à La Réunion : plus de 100 000 personnes infectées](https://www.nouvelobs.com/societe/20250415.OBS102774/chikungunya-a-la-reunion-plus-de-100-000-personnes-infectees.html) (L'Obs)
+
+- [Chikungunya à La Réunion : l'armée est arrivée en renfort pour lutter contre l'épidémie](https://www.francetvinfo.fr/france/la-reunion/chikungunya-a-la-reunion-l-armee-est-arrivee-en-renfort-pour-lutter-contre-l-epidemie_7191129.html) (Francetvinfo.fr)
+
+- [Diretor do Butantan fala em erradicar chikungunya no Brasil com vacina](https://www.metropoles.com/sao-paulo/diretor-do-butantan-fala-em-erradicar-chikungunya-no-brasil-com-vacina) (Metropoles.com)
+
+- [REPORTAGE. "On a des équipes qui sont à bout" : les hôpitaux de la La Réunion sous pression avec le pic de l’épidémie de chikungunya](https://www.francetvinfo.fr/sante/maladie/chikungunya/reportage-on-a-des-equipes-qui-sont-a-bout-les-hopitaux-de-la-la-reunion-sous-pression-avec-le-pic-de-l-epidemie-de-chikungunya_7190688.html) (Francetvinfo.fr)
 
 - [Chikungunya: o que se sabe sobre a vacina aprovada pela Anvisa?](https://www.terra.com.br/vida-e-estilo/chikungunya-o-que-se-sabe-sobre-a-vacina-aprovada-pela-anvisa,3b0434b07d7da0dc311ebdf236c417d673v9cgzi.html) (Terra.com.br)
 
@@ -3233,8 +3287,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Stopping Measles Outbreak Is 'a Top Priority,' Kennedy Says](https://www.newser.com/story/365052/stopping-measles-outbreak-is-a-top-priority-kennedy-says.html) (Newser)
 
-- [Taking shots at vaccines has deadly consequences (Glenn C. Altschuler/The Hill)](https://www.memeorandum.com/250302/p12) (Memeorandum.com)
-
 ## 25-10 (malaria)
 
 - [Ministry of Health to Issue Antimalarial Medicines in Turkana Starting June](https://www.kenyans.co.ke/news/109743-ministry-health-issue-antimalarial-medicines-turkana-starting-june) (Kenyans.co.ke)
@@ -3287,8 +3339,6 @@ Source: [News API](https://newsapi.org/)
 
 - [U.S.A.I.D. Memos Detail Human Costs of Cuts to Foreign Aid (Apoorva Mandavilli/New York Times)](https://www.memeorandum.com/250302/p101) (Memeorandum.com)
 
-- [Giving an old malaria drug new life](https://www.thestar.com.my/lifestyle/health/2025/03/02/giving-an-old-malaria-drug-new-life) (The Star Online)
-
 ## 25-10 (leptospirosis)
 
 - [Into the spotlight: A spatial study of potentially underreported leptospirosis among dengue-negative patients in São Paulo city, Brazil](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012888) (Plos.org)
@@ -3312,8 +3362,6 @@ Source: [News API](https://newsapi.org/)
 - [Raw cat food recalled after state testing finds contamination with bird flu](https://www.foodsafetynews.com/2025/03/raw-cat-food-recalled-after-state-testing-finds-contamination-with-bird-flu/) (Food Safety News)
 
 - [Animal Ag News 3/3](https://agwired.com/2025/03/03/animal-ag-news-3-3/) (AgWired)
-
-- [Puste półki w USA. Polski potentat jaj: problemy też w Polsce, ceny pójdą w górę](https://businessinsider.com.pl/finanse/handel/puste-polki-w-usa-polski-potentat-jaj-problemy-tez-w-polsce-ceny-pojda-w-gore/m8sdxpe) (Businessinsider.com.pl)
 
 ## 25-10 (h5n1)
 
@@ -3372,8 +3420,6 @@ Source: [News API](https://newsapi.org/)
 - [Terratis se renforce dans sa lutte contre le moustique tigre](https://objectif-languedoc-roussillon.latribune.fr/innovation/2025-03-03/terratis-se-renforce-dans-sa-lutte-contre-le-moustique-tigre-1019699.html) (La Tribune.fr)
 
 - [Brumbies flanker Tualima diagnosed with dengue fever](https://www.bbc.com/sport/rugby-union/articles/cgl0e67r6dyo) (BBC News)
-
-- [Ssa: este año, mil 781 casos de dengue y cero muertes](https://www.jornada.com.mx/2025/03/02/sociedad/027n1soc) (Jornada.com.mx)
 
 ## 25-10 (chikungunya)
 

@@ -1,8 +1,442 @@
 {
-  "last_updated": "2025-04-16 07:07",
-  "count_articles_total": 1548,
-  "count_articles_new": 17,
+  "last_updated": "2025-04-16 19:05",
+  "count_articles_total": 1568,
+  "count_articles_new": 24,
   "articles": [
+    {
+      "id": 20419,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "HuffPost",
+      "author": "Ryan Grenoble",
+      "title": "Father Of Girl With Measles Who Died Stands By Decision Not To Vaccinate Her",
+      "description": "Peter Hildebrand said he would still \u201cabsolutely not\" vaccinate his children.",
+      "url": "https://www.huffpost.com/entry/daisy-hildebrand-measles-vaccine_n_67fe74dfe4b0e3decc4c359a",
+      "urlToImage": "https://img.huffingtonpost.com/asset/67fe98d416000025002a2606.jpeg?cache=IIBAUyYq8q&ops=1200_630",
+      "publishedAt": "2025-04-15 19:01:51",
+      "content": "Peter Hildebrand buried his 8-year-old daughter, Daisy, barely a week ago after she died from what Texas health officials say was measles pulmonary failure. Yet having had a week to reflect on the d\u2026 [+3891 chars]",
+      "retrievedAt": "2025-04-16 19:05:51.529712",
+      "internal_id": "90bc31d2353f2cfbc827ea23bfea40c1048b9757ea3402849f789444719699af",
+      "publishedAtLabel": "Apr 15"
+    },
+    {
+      "id": 20415,
+      "query": [
+        "measles"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Jordan King",
+      "title": "Texas Dad Doesn't Regret Not Vaccinating Daughter After She Dies of Measles",
+      "description": "Peter Hildebrand's 8-year-old daughter Daisy is the second death amid a measles outbreak in Texas.",
+      "url": "https://www.newsweek.com/texas-dad-peter-hildebrand-daisy-measles-outbreak-2060011",
+      "urlToImage": "https://d.newsweek.com/en/full/2627551/measles-vaccine.jpg",
+      "publishedAt": "2025-04-15 18:43:22",
+      "content": "Peter Hildebrand, whose 8-year-old daughter Daisy died in early April after she tested positive for measles, said he has no regrets about refusing the MMR vaccine. \"Absolutely not,\" Hildebrand said \u2026 [+5992 chars]",
+      "retrievedAt": "2025-04-16 19:05:51.417249",
+      "internal_id": "7f89f488826fa0aebcfb44544d055965a9827c9866facc842f29d1dc820fb77e",
+      "publishedAtLabel": "Apr 15"
+    },
+    {
+      "id": 20422,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Nicholas Shores",
+      "title": "Minist\u00e9rio de Sa\u00fade lan\u00e7a campanha \u2018Se pode ser dengue, pode ser grave\u2019",
+      "description": "Autoridades de sa\u00fade afirmam que as mortes por dengue s\u00e3o evit\u00e1veis e o diagn\u00f3stico precoce \u00e9 fundamental para salvar vidas",
+      "url": "https://veja.abril.com.br/coluna/radar/ministerio-de-saude-lanca-campanha-se-pode-ser-dengue-pode-ser-grave/",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2025/04/image004.png?crop=1&resize=1080,565",
+      "publishedAt": "2025-04-15 18:30:36",
+      "content": "Assine: Pague menos de R$ 9 por revista Cartaz de campanha do Minist\u00e9rio da Sa\u00fade para alertar sobre a import\u00e2ncia do diagn\u00f3stico precoce da dengue (Minist\u00e9rio da Sa\u00fade/Ag\u00eancia Calia/Divulga\u00e7\u00e3o) Co\u2026 [+1191 chars]",
+      "retrievedAt": "2025-04-16 19:05:52.607406",
+      "internal_id": "c540c222ee2877b5966aff62084a92d4eebb1a63334928fe04971d535e45a6b7",
+      "publishedAtLabel": "Apr 15"
+    },
+    {
+      "id": 20413,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Antonio Peque\u00f1o IV, Forbes Staff, \n Antonio Peque\u00f1o IV, Forbes Staff\n https://www.forbes.com/sites/antoniopequenoiv/",
+      "title": "Measles Updates: Over 560 Cases In Texas After Outbreaks Reported In 3 More States",
+      "description": "Texas remains the state with the highest number of cases, by far.",
+      "url": "https://www.forbes.com/sites/antoniopequenoiv/2025/04/15/measles-updates-over-560-cases-in-texas-after-outbreaks-reported-in-3-more-states/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67b8dc34f003eb75b733dff5/0x0.jpg?format=jpg&crop=3039,2027,x0,y0,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-04-15 17:47:44",
+      "content": "Texas health officials reported over 560 measles cases in the state Tuesday, days after the Centers for Disease Control and Prevention announced 712 confirmed cases of measles in the U.S. as outbreak\u2026 [+7686 chars]",
+      "retrievedAt": "2025-04-16 19:05:51.313154",
+      "internal_id": "b78cc605c180a9b22c7342bc53a3fee3fc6cd74a406ea2b5cf785e5e1ec8bfb2",
+      "publishedAtLabel": "Apr 15"
+    },
+    {
+      "id": 20423,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Paula Felix",
+      "title": "Chikungunya: ap\u00f3s aval da Anvisa, Minist\u00e9rio da Sa\u00fade pede incorpora\u00e7\u00e3o de vacina",
+      "description": "Imunizante rec\u00e9m-liberado j\u00e1 recebeu aprova\u00e7\u00e3o das ag\u00eancias americana e europeia; dose \u00fanica \u00e9 indicada para pessoas com mais de 18 anos",
+      "url": "https://veja.abril.com.br/saude/chikungunya-apos-aval-da-anvisa-ministerio-da-saude-pede-incorporacao-de-vacina/",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2023/01/GettyImages-611200142-e1709240021521.jpg?quality=70&strip=info&crop=1&resize=1080,565",
+      "publishedAt": "2025-04-15 16:32:35",
+      "content": "Assine: Pague menos de R$ 9 por revistaVETOR - Aedes aegypti: mosquito transmissor da chikungunya, dengue e zika (//Getty Images) Continua ap\u00f3s publicidade O Minist\u00e9rio da Sa\u00fade anunciou que vai en\u2026 [+4847 chars]",
+      "retrievedAt": "2025-04-16 19:05:52.631186",
+      "internal_id": "815fb84e3d3a81fa4d2848049f673aa0e800925e2b2574197a175f01d6115f8b",
+      "publishedAtLabel": "Apr 15"
+    },
+    {
+      "id": 20416,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Insurance Journal",
+      "author": "Admin",
+      "title": "Texas Measles Cases Increase 4% as Spread Appears to Be Slowing",
+      "description": "Texas reported 20 new confirmed measles cases on Tuesday, a 4% increase from Friday\u2019s data as the virus\u2019 spread appears to be slowing in the hardest-hit US state. The state now has 561 total cases, with 58 people hospitalized since \u2026",
+      "url": "https://www.insurancejournal.com/news/southcentral/2025/04/15/819851.htm",
+      "urlToImage": "https://www.insurancejournal.com/app/uploads/2025/03/Measles-scaled.jpg",
+      "publishedAt": "2025-04-15 15:59:43",
+      "content": "Texas reported 20 new confirmed measles cases on Tuesday, a 4% increase from Friday\u2019s data as the virus\u2019 spread appears to be slowing in the hardest-hit US state. The state now has 561 total cases, \u2026 [+952 chars]",
+      "retrievedAt": "2025-04-16 19:05:51.432804",
+      "internal_id": "a76f6a2869e6efac703afafa7ff97f59bdc5c8ae2a868aa2c349a37fc9d75b52",
+      "publishedAtLabel": "Apr 15"
+    },
+    {
+      "id": 20428,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "info-money",
+      "source_name": "InfoMoney",
+      "author": "Vict\u00f3ria Anhesini",
+      "title": "Sa\u00fade quer incorporar a vacina contra Chikungunya no SUS",
+      "description": "O Minist\u00e9rio da Sa\u00fade refor\u00e7a que a vacina\u00e7\u00e3o salva vidas; a incorpora\u00e7\u00e3o da vacina no SUS colabora para a\u00e7\u00f5es contra a doen\u00e7a The post Sa\u00fade quer incorporar a vacina contra Chikungunya no SUS appeared first on InfoMoney.",
+      "url": "https://www.infomoney.com.br/saude/saude-quer-incorporar-a-vacina-contra-chikungunya-no-sus/",
+      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2024/10/aedes-mosquito-c-niaid.webp?quality=70",
+      "publishedAt": "2025-04-15 15:17:17",
+      "content": "A Ag\u00eancia Nacional de Vigil\u00e2ncia Sanit\u00e1ria (Anvisa) aprovou, na \u00faltima segunda-feira (14), o registro da vacina contra Chikungunya, desenvolvida pelo Instituto Butantan. Com a aprova\u00e7\u00e3o, o Minist\u00e9rio\u2026 [+2211 chars]",
+      "retrievedAt": "2025-04-16 19:05:54.317050",
+      "internal_id": "ba814591717643bebcbf06b8a964790e980a8435f3ca4557dfea2d4becc01ff1",
+      "publishedAtLabel": "Apr 15"
+    },
+    {
+      "id": 20418,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Ottawa health officials bracing for potential cases of measles",
+      "description": "Amid a province-wide measles outbreak, Ottawa health authorities are bracing for the possibility of the virus emerging in the city.",
+      "url": "https://www.cbc.ca/news/canada/ottawa/ottawa-measles-bracing-1.7510415",
+      "urlToImage": "https://i.cbc.ca/1.7507333.1744319050!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/2202122308.jpg?im=Resize%3D620",
+      "publishedAt": "2025-04-15 14:36:49",
+      "content": "Amid a province-wide measles outbreak, Ottawa health authorities are bracing for the possibility of the virus emerging in the city. As of yet, there are no known cases of measles in Ottawa, but the\u2026 [+2779 chars]",
+      "retrievedAt": "2025-04-16 19:05:51.492745",
+      "internal_id": "8a1b0725f8747cd5b73f937a153f4aafb2986ffd2e95694e625a2e4bffa83bed",
+      "publishedAtLabel": "Apr 15"
+    },
+    {
+      "id": 20436,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Nathan E. Stone, Camila Hamond, Joel R. Clegg, Ryelan F. McDonough, Reanna M. Bourgeois, Rebecca Ballard, Natalie B. Thornton, Marianece Nuttall, Hannah Hertzel, Tammy Anderson, Ryann N. Whealy, Skylar Timm, Alexander K. Roberts, Ver\u00f3nica Barrag\u00e1n, Wanda Phipatanakul, Jessica H. Leibler, Hayley Benson, Aubrey Specht, Ruairi White, Karen LeCount, Tara N. Furstenau, Renee L. Galloway, Nichola J. Hill, Joseph D. Madison, Viacheslav Y. Fofanov, Talima Pearson, Jason W. Sahl, Joseph D. Busch, Zachary Weiner, Jarlath E. Nally, David M. Wagner, Marieke H. Rosenbaum",
+      "title": "Host population dynamics influence Leptospira spp. transmission patterns among Rattus norvegicus in Boston, Massachusetts, US",
+      "description": "Leptospirosis is a common zoonotic disease caused by Leptospira spp. bacteria for which urban rats are a known reservoir. We tested 328 rats across Boston for Leptospira spp. and analyzed the results in relation to the genetic population structure of rats and\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012966",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012966.g004&size=inline",
+      "publishedAt": "2025-04-15 14:00:00",
+      "content": "Citation: Stone NE, Hamond C, Clegg JR, McDonough RF, Bourgeois RM, Ballard R, et al. (2025) Host population dynamics influence Leptospira spp. transmission patterns among Rattus norvegicus in Boston\u2026 [+88962 chars]",
+      "retrievedAt": "2025-04-16 19:05:54.969340",
+      "internal_id": "3022ff109ba232ac67aa4a4439e8f5efacd0bbd9bbdb8ce1c452029484c91be6",
+      "publishedAtLabel": "Apr 15"
+    },
+    {
+      "id": 20424,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Eldiario.es",
+      "author": "Robert Tait",
+      "title": "La Casa Blanca plantea poner fin a la financiaci\u00f3n del Departamento de Estado a la OTAN y la ONU",
+      "description": "Los recortes, recogidos en un memorando interno, supondr\u00edan una dr\u00e1stica disminuci\u00f3n de la financiaci\u00f3n de la ayuda humanitaria, la sanidad global y las organizaciones internacionales ENTREVISTA - La presidenta de Unitaid, agencia contra el VIH, la malaria \u2026",
+      "url": "https://www.eldiario.es/internacional/theguardian/casa-blanca-plantea-poner-financiacion-departamento-otan-onu_1_12222367.html",
+      "urlToImage": "https://static.eldiario.es/clip/dda8cb7c-8dd1-4505-af74-5e06d4db618a_facebook-watermarked-aspect-ratio_default_0.jpg",
+      "publishedAt": "2025-04-15 13:56:00",
+      "content": "La Administraci\u00f3n Trump ha propuesto recortar el presupuesto del Departamento de Estado a casi la mitad, en una medida que podr\u00eda reducir dr\u00e1sticamente el gasto internacional de Estados Unidos y pone\u2026 [+3667 chars]",
+      "retrievedAt": "2025-04-16 19:05:53.398210",
+      "internal_id": "c1c66b0b99ccff9756cb1e59fb124ea17108ce4b849f5d129219d361de2e401c",
+      "publishedAtLabel": "Apr 15"
+    },
+    {
+      "id": 20433,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Francetvinfo.fr",
+      "author": null,
+      "title": "Chikungunya \u00e0 La R\u00e9union : la vaccination gratuite \u00e9largie aux personnes de plus de 18 ans atteintes de comorbidit\u00e9s",
+      "description": "La vaccination gratuite \u00e9tait r\u00e9serv\u00e9e, jusqu'\u00e0 pr\u00e9sent, aux personnes de plus de 65 ans souffrant de maladies chroniques.",
+      "url": "https://www.francetvinfo.fr/sante/maladie/chikungunya/chikungunya-a-la-reunion-la-vaccination-gratuite-elargie-aux-personnes-de-plus-de-18-ans-atteintes-de-comorbidites_7191159.html",
+      "urlToImage": "https://www.francetvinfo.fr/pictures/9m1-dPxz36EEAMu9B9-0T6ARpuI/0x53:1024x629/1500x843/2025/04/04/000-37g83cp-67efb4e3f40bb184780228.jpg",
+      "publishedAt": "2025-04-15 13:41:17",
+      "content": "Alors que l'\u00e9pid\u00e9mie de chikungunya atteint son pic \u00e0 La R\u00e9union, l'Agence r\u00e9gionale de sant\u00e9 de l'\u00eele a annonc\u00e9, mardi 15 avril, \u00e9largir la campagne de vaccination gratuite contre le virus aux perso\u2026 [+904 chars]",
+      "retrievedAt": "2025-04-16 19:05:54.415802",
+      "internal_id": "29ffc5edda580bd601bfc07d1d4801b326ee3fa0b2bbd88e27a84377d7b648ca",
+      "publishedAtLabel": "Apr 15"
+    },
+    {
+      "id": 20432,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "L'Obs",
+      "author": "Le Nouvel Obs avec AFP",
+      "title": "Chikungunya \u00e0 La R\u00e9union : plus de 100 000 personnes infect\u00e9es",
+      "description": "Pour le directeur de l\u2019Agence r\u00e9gionale de sant\u00e9 (ARS) de La R\u00e9union, les chiffres communiqu\u00e9s par Sant\u00e9 Publique France - 27 000 contaminations depuis le d\u00e9but de l\u2019ann\u00e9e - sont largement sous-estim\u00e9s.",
+      "url": "https://www.nouvelobs.com/societe/20250415.OBS102774/chikungunya-a-la-reunion-plus-de-100-000-personnes-infectees.html",
+      "urlToImage": "https://focus.nouvelobs.com/2025/04/15/0/0/4488/2992/1200/800/0/0/9560302_sirius-fs-upload-1-qjq2x2fsgp7z-1744720334350-000-39y89g2.jpg",
+      "publishedAt": "2025-04-15 13:28:46",
+      "content": "Par Le Nouvel Obs avec AFP Publi\u00e9 le 15 avril 2025 \u00e0 15h28 Des patients contamin\u00e9s par le chikungunya hospitalis\u00e9s au Centre Hospitalier Ouest Reunion - CHOR \u00e0 Saint Paul, le 10 avril 2025. RICH\u2026 [+2612 chars]",
+      "retrievedAt": "2025-04-16 19:05:54.407428",
+      "internal_id": "7bec206d6c8240d094f778a5f8b0ce999a1cd5c0acdb1478ba24787e286b9bda",
+      "publishedAtLabel": "Apr 15"
+    },
+    {
+      "id": 20431,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Francetvinfo.fr",
+      "author": null,
+      "title": "Chikungunya \u00e0 La R\u00e9union : l'arm\u00e9e est arriv\u00e9e en renfort pour lutter contre l'\u00e9pid\u00e9mie",
+      "description": "\u00c0 La R\u00e9union, l'\u00e9pid\u00e9mie de chikungunya est particuli\u00e8rement virulente en 2025. Pour aider \u00e0 la lutte contre la propagation de l'\u00e9pid\u00e9mie, qui a d\u00e9j\u00e0 fait deux morts et une quarantaine de cas graves, 120 militaires viennent d'arriver sur l'\u00eele.",
+      "url": "https://www.francetvinfo.fr/france/la-reunion/chikungunya-a-la-reunion-l-armee-est-arrivee-en-renfort-pour-lutter-contre-l-epidemie_7191129.html",
+      "urlToImage": "https://www.francetvinfo.fr/pictures/KBwm85r2MJ_zLv3iPaxCHK-sKk0/0x0:807x454/1500x843/2025/04/15/reunion-67fe595feeef9727747570.png",
+      "publishedAt": "2025-04-15 13:05:35",
+      "content": "\u00c0 La R\u00e9union, le chikungunya frappe vite et fort : 100 000 personnes ont \u00e9t\u00e9 contamin\u00e9es depuis le d\u00e9but de l'ann\u00e9e 2025 selon l'Agence r\u00e9gionale de sant\u00e9 (ARS). Apr\u00e8s des op\u00e9rations de d\u00e9mousticatio\u2026 [+873 chars]",
+      "retrievedAt": "2025-04-16 19:05:54.392190",
+      "internal_id": "aa8deef3a53ade9f1093c45018a4d372c2b0cfff89d2015f36510225e1d28873",
+      "publishedAtLabel": "Apr 15"
+    },
+    {
+      "id": 20435,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "La variante m\u00e1s letal de la mpox tiene una mortalidad del 4% en la Rep\u00fablica Democr\u00e1tica del Congo",
+      "description": "Un estudio impulsado por la Fundaci\u00f3 Lluita contra les Infecciones ha revelado que la subvariante m\u00e1s letal de la mpox --antes conocida como viruela del mono-- tiene una tasa de mortalidad superior al 4% en la Rep\u00fablica Democr\u00e1tica del Congo (RDC).",
+      "url": "https://www.infosalus.com/salud-investigacion/noticia-variante-mas-letal-mpox-tiene-mortalidad-republica-democratica-congo-20250415143240.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20250415143240_1200.jpg",
+      "publishedAt": "2025-04-15 12:32:40",
+      "content": "Aportan la descripci\u00f3n cl\u00ednica \"m\u00e1s completa\" de la variante 1a del virus BARCELONA, 15 Abr. (EUROPA PRESS) - Un estudio impulsado por la Fundaci\u00f3 Lluita contra les Infecciones ha revelado q\u2026 [+1669 chars]",
+      "retrievedAt": "2025-04-16 19:05:54.582807",
+      "internal_id": "85a53efe01777a134161e161f2e025e02fdbbe996ad6c63b2f59fdc3e17b1eed",
+      "publishedAtLabel": "Apr 15"
+    },
+    {
+      "id": 20427,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Science.orf.at",
+      "author": "ORF.at",
+      "title": "Tropenvirus Oropouche weiter verbreitet als gedacht",
+      "description": "Die Reisemedizin hat nach der Zika-Epidemie mit dem Oropouche-Virus (OROV) in S\u00fcdamerika ein neues Thema. Der Erreger von Fiebererkrankungen ist laut einer neuen Studie viel st\u00e4rker verbreitet als bisher angenommen.",
+      "url": "https://science.orf.at/stories/3229805/",
+      "urlToImage": "https://ibs.orf.at/science?image=https%3A%2F%2Ftubestatic.orf.at%2Fmojo%2F1_4_1%2Fstoryserver%2Ftube%2Fscience%2Fimages%2Fog-fallback.jpg%3Fs%3D9468ebfda8d575e29237d4fe069891178635d8e1",
+      "publishedAt": "2025-04-15 12:19:53",
+      "content": "Das berichteten deutsche Experten am Montag beim Kongress der Europ\u00e4ischen Gesellschaft f\u00fcr Klinische Mikrobiologie und Infektionskrankheiten (ESCMID) in Wien. Seit 1950er-Jahren bekannt Das Oropou\u2026 [+3559 chars]",
+      "retrievedAt": "2025-04-16 19:05:53.827853",
+      "internal_id": "23096b1ab2766f010d2db337754fe923d6368052c71f2942ad0832ef156ee0ca",
+      "publishedAtLabel": "Apr 15"
+    },
+    {
+      "id": 20420,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Avian flu cull order for B.C. ostrich farm to be reviewed in court today",
+      "description": "Universal Ostrich's entire flock of about 400 birds was ordered culled in February by the Canadian Food Inspection Agency after H5N1 avian flu was detected in December \u2014 but the farm managed to get its birds a stay of execution until the court could rule on t\u2026",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/universal-ostrich-kill-cull-avian-flu-1.7509915",
+      "urlToImage": "https://i.cbc.ca/1.7447864.1744663374!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_1180/universal-ostrich.jpeg?im=Resize%3D620",
+      "publishedAt": "2025-04-15 12:00:00",
+      "content": "A Federal Court judge will begin hearing arguments Tuesday in the case of a B.C. ostrich farm which has been ordered to cull its entire flock over avian flu concerns. Universal Ostrich is located on\u2026 [+4459 chars]",
+      "retrievedAt": "2025-04-16 19:05:52.136605",
+      "internal_id": "1ee9577ffb77b445b0a3632aa12ff31c4bfe8028f5f7bc1260446707a2f098d3",
+      "publishedAtLabel": "Apr 15"
+    },
+    {
+      "id": 20425,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": "Manya Singh",
+      "title": "Watch Out For These Malaria Triggers This Summer To Reduce Risk",
+      "description": "Here are nine key triggers to watch out for in summer that can elevate the chances of contracting malaria.",
+      "url": "https://www.ndtv.com/health/watch-out-for-these-malaria-triggers-this-summer-to-reduce-risk-8170290",
+      "urlToImage": "https://c.ndtvimg.com/2019-11/op90fov8_malaria_625x300_20_November_19.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "publishedAt": "2025-04-15 11:54:52",
+      "content": "Malaria is a life-threatening disease caused by Plasmodium parasites, which are transmitted to humans through the bite of infected female Anopheles mosquitoes. It typically leads to symptoms like fev\u2026 [+3684 chars]",
+      "retrievedAt": "2025-04-16 19:05:53.413618",
+      "internal_id": "d85d2c65a32a7a361a4f0edff16e38c172efa4e7946bbad4c589aeb1ca9c133d",
+      "publishedAtLabel": "Apr 15"
+    },
+    {
+      "id": 20414,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Globalresearch.ca",
+      "author": "Dr. Emanuel Garcia",
+      "title": "How They Drive Us Crazy \u2026 Or Try to",
+      "description": "As I watch our world unfold into some new entity, living as we do in spectacularly transformational times, I happened across an interview involving the now even more notorious Biggy Bobby aka RFK Jr. about the measles. I had the measles when I was six, as did\u2026",
+      "url": "https://www.globalresearch.ca/how-they-drive-us-crazy-try/5884461",
+      "urlToImage": "https://www.globalresearch.ca/wp-content/uploads/2023/01/covid-media1_1.jpg",
+      "publishedAt": "2025-04-15 11:27:35",
+      "content": "As I watch our world unfold into some new entity, living as we do in spectacularly transformational times, I happened across an interview involving the now even more notorious Biggy Bobby aka RFK Jr.\u2026 [+5035 chars]",
+      "retrievedAt": "2025-04-16 19:05:51.379841",
+      "internal_id": "4ff5ab05301e41cfa3323bf33353b08678c794101b967c50439a488462dc0ae0",
+      "publishedAtLabel": "Apr 15"
+    },
+    {
+      "id": 20417,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Nakedcapitalism.com",
+      "author": "Yves Smith",
+      "title": "Links 4/15/2025",
+      "description": "Our flavorful daily links: lonely turkey, RFK, Jr. still anti-vax, China rare earths clampdown, Harvard defies Trump, El Salvador not returning detainee,",
+      "url": "https://www.nakedcapitalism.com/2025/04/links-4-15-2025.html",
+      "urlToImage": "https://www.nakedcapitalism.com/wp-content/uploads/2025/04/Screen-Shot-2025-04-15-at-5.49.10-PM.png",
+      "publishedAt": "2025-04-15 10:58:59",
+      "content": "Astoria the turkey is on the move in NYC and she might be looking for love Gothamist #COVID-19/Pandemics What RFK Jr. Says About the Measles Vaccine in Private Atlantic Climate/Environment The gr\u2026 [+7970 chars]",
+      "retrievedAt": "2025-04-16 19:05:51.463326",
+      "internal_id": "a976c0e5f778a35976bb38bab3109a38ca8588b70ad91f576adebe0fd2e3259b",
+      "publishedAtLabel": "Apr 15"
+    },
+    {
+      "id": 20434,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.nrc.nl",
+      "author": "Sander Voormolen",
+      "title": "De vuurvoeteekhoorn is het natuurlijke reservoir van mpox",
+      "description": "Goed beter beest: Aapjes die waren gestorven door mpox, hadden kort daarvoor een eekhoorn opgepeuzeld die met dit virus besmet was.",
+      "url": "https://www.nrc.nl/nieuws/2025/04/15/de-vuurvoeteekhoorn-is-het-natuurlijke-reservoir-van-mpox-a4889978",
+      "urlToImage": "https://images.nrc.nl/qcK1aWBigNQST7wyu6XD6gq9KXQ=/1200x627/smart/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data130887076-89b58f.jpg",
+      "publishedAt": "2025-04-15 10:32:34",
+      "content": "Niet een aap maar een eekhoorn vormt het natuurlijke reservoir voor het mpox-virus (voorheen apenpokken). Dat schrijft een team van onderzoekers onder leiding van de Duitse viroloog Fabian Leendertz \u2026 [+1370 chars]",
+      "retrievedAt": "2025-04-16 19:05:54.558750",
+      "internal_id": "e53d0cea2c6ba46f4e3c6c5b3c4c2793bbe899f3cb8790a9abf78c8bc9c6c8ae",
+      "publishedAtLabel": "Apr 15"
+    },
+    {
+      "id": 20421,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Everyeye.it",
+      "author": "Salvo Privitera",
+      "title": "L'influenza aviaria si sta evolvendo pericolosamente ma possiamo prevenirla",
+      "description": "Il virus H5N1 evolve e minaccia un salto di specie. Ma possiamo ancora intervenire prima che sia troppo tardi.Non possiamo sapere quando o dove esploder\u00e0 una nuova epidemia, ma come con le previsioni del meteo, possiamo riconoscere i segnali prima della tempe\u2026",
+      "url": "https://tech.everyeye.it/notizie/influenza-aviaria-evolvendo-pericolosamente-possiamo-prevenirla-792991.html",
+      "urlToImage": "https://images.everyeye.it/img-notizie/l-influenza-aviaria-evolvendo-pericolosamente-possiamo-prevenirla-v4-792991.jpg",
+      "publishedAt": "2025-04-15 10:07:00",
+      "content": "Non possiamo sapere quando o dove esploder\u00e0 una nuova epidemia, ma come con le previsioni del meteo, possiamo riconoscere i segnali prima della tempesta. E oggi, uno di questi segnali porta un nome i\u2026 [+1286 chars]",
+      "retrievedAt": "2025-04-16 19:05:52.159407",
+      "internal_id": "a4772e3d5dc01f7dd60a36d09e1842695a4da228fed228cb587ad7df1761df63",
+      "publishedAtLabel": "Apr 15"
+    },
+    {
+      "id": 20429,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Valentina Moreira",
+      "title": "Diretor do Butantan fala em erradicar chikungunya no Brasil com vacina",
+      "description": "Nova vacina foi aprovada nessa segunda (14/4) pela Anvisa e dever\u00e1 ser distribu\u00edda pelo SUS em regi\u00f5es com maior incid\u00eancia da chikungunya",
+      "url": "https://www.metropoles.com/sao-paulo/diretor-do-butantan-fala-em-erradicar-chikungunya-no-brasil-com-vacina",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2024/03/09175317/chikungunya.jpg",
+      "publishedAt": "2025-04-15 10:00:22",
+      "content": "S\u00e3o Paulo A aprova\u00e7\u00e3o da vacina contra a chikungunya, anunciada nesta segunda-feira (14/4) pela Ag\u00eancia Nacional de Vigil\u00e2ncia Sanit\u00e1ria (Anvisa), d\u00e1 esperan\u00e7a de que a doen\u00e7a seja erradicada no Bras\u2026 [+4107 chars]",
+      "retrievedAt": "2025-04-16 19:05:54.353205",
+      "internal_id": "d71d25a72e2e929056160304aaafab15184374b4a298e724ea1aab23309166f7",
+      "publishedAtLabel": "Apr 15"
+    },
+    {
+      "id": 20430,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Francetvinfo.fr",
+      "author": null,
+      "title": "REPORTAGE. \"On a des \u00e9quipes qui sont \u00e0 bout\" : les h\u00f4pitaux de la La R\u00e9union sous pression avec le pic de l\u2019\u00e9pid\u00e9mie de chikungunya",
+      "description": "C\u2019est une \u00e9pid\u00e9mie de chikungunya in\u00e9dite depuis 20 ans \u00e0 la R\u00e9union. Deux d\u00e9c\u00e8s ont d\u00e9j\u00e0 \u00e9t\u00e9 recens\u00e9s, d\u2019autres sont en cours d\u2019investigation, alors que le pic est attendu cette semaine. Dans ce contexte, le CHU de l\u2019\u00eele est sous tension.",
+      "url": "https://www.francetvinfo.fr/sante/maladie/chikungunya/reportage-on-a-des-equipes-qui-sont-a-bout-les-hopitaux-de-la-la-reunion-sous-pression-avec-le-pic-de-l-epidemie-de-chikungunya_7190688.html",
+      "urlToImage": "https://www.francetvinfo.fr/pictures/L_w532Nl1WTny51Z_k71a3k5gU4/0x764:5027x3590/1500x843/2025/04/04/reunion-67f0378d3fe11386459978.jpg",
+      "publishedAt": "2025-04-15 08:20:57",
+      "content": "L'\u00e9pid\u00e9mie de chikungunya qui s\u00e9vit \u00e0 La R\u00e9union a d\u00e9j\u00e0 fait deux morts. Alors que le pic est attendu cette semaine, les h\u00f4pitaux de l'\u00eele sont d\u00e9j\u00e0 sous tension, comme l'a constat\u00e9 franceinfo mardi \u2026 [+3296 chars]",
+      "retrievedAt": "2025-04-16 19:05:54.383369",
+      "internal_id": "ddd29753584d7b7d6a27f9c22083bdd4c86a7bb476a8b00cce7675deb874aff2",
+      "publishedAtLabel": "Apr 15"
+    },
+    {
+      "id": 20426,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Citizen.digital",
+      "author": "Afp",
+      "title": "USAID cuts rip through African health care systems",
+      "description": "As clouds gather and humidity rises across west Africa, whose annual rains bring an uptick of deadly, malaria-carrying mosquitoes, Musa Adamu Ibrahim, a nurse, is sitting at home, unemployed.",
+      "url": "https://www.citizen.digital/news/usaid-cuts-rip-through-african-health-care-systems-n361049",
+      "urlToImage": "https://citizentv.obs.af-south-1.myhuaweicloud.com/144108/conversions/USAID-og_image.webp",
+      "publishedAt": "2025-04-15 07:26:24",
+      "content": "As clouds gather and humidity rises across west Africa, whose annual rains bring an uptick of deadly, malaria-carrying mosquitoes, Musa Adamu Ibrahim, a nurse, is sitting at home, unemployed. In Nig\u2026 [+4947 chars]",
+      "retrievedAt": "2025-04-16 19:05:53.430069",
+      "internal_id": "5a488561b012e84a4327d66022473a43abdf76a2ccf6090f66411a671057d2ca",
+      "publishedAtLabel": "Apr 15"
+    },
     {
       "id": 20408,
       "query": [
@@ -27837,78 +28271,6 @@
       "content": "Leading vaccine critic Robert F. Kennedy Jr., who has been dismissive of the measles outbreak in Texas, now says that the spread needs to be stopped and that the federal response will include vaccina\u2026 [+1515 chars]",
       "retrievedAt": "2025-03-04 07:06:58.118294",
       "internal_id": "91826f6474fd7953762a3128962905d7045c31e093ae4b37535311dba6301da7",
-      "publishedAtLabel": "Mar 2"
-    },
-    {
-      "id": 18858,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Memeorandum.com",
-      "author": null,
-      "title": "Taking shots at vaccines has deadly consequences (Glenn C. Altschuler/The Hill)",
-      "description": "Glenn C. Altschuler / The Hill: Taking shots at vaccines has deadly consequences \u2014 Public health authorities reported on Feb. 21 that an ongoing measles outbreak in Gaines County, Texas and Lea County, New Mexico was already the largest in decades. Of the \u2026",
-      "url": "https://www.memeorandum.com/250302/p12",
-      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2025/02/AP25058597447123-e1740780617390.jpg?w=1280",
-      "publishedAt": "2025-03-02 14:45:00",
-      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
-      "retrievedAt": "2025-03-03 19:05:53.852045",
-      "internal_id": "c7a065728afda105f6cda7600f3f60a9c1e4cea233eb5cb1d18e3627d70d7fa9",
-      "publishedAtLabel": "Mar 2"
-    },
-    {
-      "id": 18859,
-      "query": [
-        "hpai"
-      ],
-      "source_id": null,
-      "source_name": "Businessinsider.com.pl",
-      "author": null,
-      "title": "Puste p\u00f3\u0142ki w USA. Polski potentat jaj: problemy te\u017c w Polsce, ceny p\u00f3jd\u0105 w g\u00f3r\u0119",
-      "description": "Tylko w ci\u0105gu ostatnich pi\u0119ciu miesi\u0119cy w wyniku walki z HPAI, straty w pog\u0142owiu kur nie\u015bnych w naszym kraju wynios\u0142y oko\u0142o 6 mln. \u2014 Tak du\u017ca redukcja potencja\u0142u produkcyjnego nie mo\u017ce pozosta\u0107 bez konsekwencji dla cen detalicznych \u2014 m\u00f3wi ekspertka. To oznacz\u2026",
-      "url": "https://businessinsider.com.pl/finanse/handel/puste-polki-w-usa-polski-potentat-jaj-problemy-tez-w-polsce-ceny-pojda-w-gore/m8sdxpe",
-      "urlToImage": "https://ocdn.eu/pulscms-transforms/1/COtk9kpTURBXy9kODY3NTllNzZjNjI1MWFmOGFiNGE2NDAyOWFlOWMxNC5qcGeSlQMAzHbNB9DNBGWTBc0EsM0Cdt4AAaEwAQ",
-      "publishedAt": "2025-03-02 13:22:43",
-      "content": "Sytuacja robi si coraz bardziej powana. W Stanach Zjednoczonych p\u00f3ki z jajami wiec pustkami, a gdy produkty ju si na nich pojawi, osigaj zawrotne ceny. Wszystko przez szalejcy wirus HPAI, kt\u00f3ry tylko\u2026 [+6028 chars]",
-      "retrievedAt": "2025-03-03 19:05:54.013022",
-      "internal_id": "413d55005a4ade7698a4d7f9b3983c2f633ce8ff4f75b01142bd9ca90bcbeab6",
-      "publishedAtLabel": "Mar 2"
-    },
-    {
-      "id": 18861,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "Agency",
-      "title": "Giving an old malaria drug new life",
-      "description": "Scientists are redesigning an existing malaria medicine to make it last longer in the body.",
-      "url": "https://www.thestar.com.my/lifestyle/health/2025/03/02/giving-an-old-malaria-drug-new-life",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/02/28/3190130.jpg",
-      "publishedAt": "2025-03-02 12:51:31",
-      "content": "A new clinical trial from Scripps Research in La Jolla, California, United States, aims to make significant gains in the global fight against malaria by making a drug that has been around since the 1\u2026 [+3088 chars]",
-      "retrievedAt": "2025-03-03 19:05:55.477086",
-      "internal_id": "9e97bf16d4b07eb43a29f5729ca52ff237404627bb2b6ceeaf5608dfc5ecca15",
-      "publishedAtLabel": "Mar 2"
-    },
-    {
-      "id": 18860,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Jornada.com.mx",
-      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "title": "Ssa: este a\u00f1o, mil 781 casos de dengue y cero muertes",
-      "description": "La Secretar\u00eda de Salud (Ssa) report\u00f3 que en lo que va del a\u00f1o se han confirmado mil 781 casos de dengue, de los cuales 53.7 por ciento son contagios con signos de alarma y al menos otros 66 casos corresponden al tipo grave o hemorr\u00e1gico.",
-      "url": "https://www.jornada.com.mx/2025/03/02/sociedad/027n1soc",
-      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "publishedAt": "2025-03-02 09:02:36",
-      "content": "Peri\u00f3dico La JornadaDomingo 2 de marzo de 2025, p. 27 La Secretar\u00eda de Salud (Ssa) report\u00f3 que en lo que va del a\u00f1o se han confirmado mil 781 casos de dengue, de los cuales 53.7 por ciento son conta\u2026 [+1682 chars]",
-      "retrievedAt": "2025-03-03 19:05:54.725898",
-      "internal_id": "f5f305794e31b3fddf0cfa86e8d50d0f58d2f1633ca054d9a64f05cabfc42835",
       "publishedAtLabel": "Mar 2"
     }
   ]
