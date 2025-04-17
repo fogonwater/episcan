@@ -1,8 +1,206 @@
 {
-  "last_updated": "2025-04-16 19:05",
-  "count_articles_total": 1568,
-  "count_articles_new": 24,
+  "last_updated": "2025-04-17 07:07",
+  "count_articles_total": 1584,
+  "count_articles_new": 12,
   "articles": [
+    {
+      "id": 20448,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "The Sydney Morning Herald",
+      "author": "Elizabeth Knight",
+      "title": "Why Typhoid Trump and COVID are so similar",
+      "description": "Given the moveable feast that is Donald Trump\u2019s trade policy, it is impossible to determine if the world is in for a short-lived shock or a case of long COVID.",
+      "url": "https://www.smh.com.au/business/markets/why-typhoid-trump-and-covid-are-so-similar-20250416-p5ls6h.html",
+      "urlToImage": "https://static.ffx.io/images/$zoom_0.2591%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_smh_opinion_no_age_social_wm/5f63a96a8969dfc0e12bc736eaab77851a78e353",
+      "publishedAt": "2025-04-16 06:07:14",
+      "content": "How this bout plays out is so profoundly unpredictable that to even try would induce opinion fatigue. Chinas leader, Xi Jinping, started a week of whistle-stop diplomacy in South-East Asia, in an at\u2026 [+2893 chars]",
+      "retrievedAt": "2025-04-17 07:07:49.152594",
+      "internal_id": "59f0b609c17c64c8130e74a6bcbeafc17612aaf41740e6810042aa1f44e71356",
+      "publishedAtLabel": "Apr 16"
+    },
+    {
+      "id": 20446,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Japan Times",
+      "author": "Nicholas ROLL,Samad UTHMAN",
+      "title": "USAID cuts rip through African health care systems",
+      "description": "The sudden dismantling of USAID is unraveling health care systems across Africa that were built from a complicated web of national health ministries, companies and nonprofits.",
+      "url": "https://www.japantimes.co.jp/news/2025/04/16/world/science-health/usaid-african-health-care/",
+      "urlToImage": "https://www.japantimes.co.jp/japantimes/uploads/images/2025/04/16/463774.jpg?v=3.1",
+      "publishedAt": "2025-04-16 05:01:00",
+      "content": "Abuja, Nigeria As clouds gather and humidity rises across west Africa, whose annual rains bring an uptick of deadly, malaria-carrying mosquitoes, Musa Adamu Ibrahim, a nurse, is sitting at home, unem\u2026 [+386 chars]",
+      "retrievedAt": "2025-04-17 07:07:48.181631",
+      "internal_id": "3945771816e291b3ae06ad8a9dc87daffbda68e60b5b491fdedf1cb09b8d5669",
+      "publishedAtLabel": "Apr 16"
+    },
+    {
+      "id": 20441,
+      "query": [
+        "measles"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "AP",
+      "title": "RFK Jr.'s mixed message about the measles outbreaks draws criticism from health officials",
+      "description": "Measles cases rose in the U.S. Public health officials noticed issues in the Trump administration's response. A letter to pediatricians was delayed. Health Secretary Robert F. Kennedy Jr.'s approach differed from past strategies. He received briefings differe\u2026",
+      "url": "https://timesofindia.indiatimes.com/world/us/rfk-jr-s-mixed-message-about-the-measles-outbreaks-draws-criticism-from-health-officials/articleshow/120330022.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-120330195,width-1070,height-580,imgsize-864911,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2025-04-16 04:15:23",
+      "content": "Sunainas grace and glow captured perfectly in THESE pics",
+      "retrievedAt": "2025-04-17 07:07:45.706624",
+      "internal_id": "c8c4d27a9980651a9c910c60adeb9ac444145daaf1610d8eff4010e5cb28ac1c",
+      "publishedAtLabel": "Apr 16"
+    },
+    {
+      "id": 20438,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "AMANDA SEITZ Associated Press",
+      "title": "RFK Jr.'s mixed message about the measles outbreaks draws criticism from health officials",
+      "description": "Health secretary Robert F",
+      "url": "https://abcnews.go.com/US/wireStory/rfk-jrs-mixed-message-measles-outbreaks-draws-criticism-120853128",
+      "urlToImage": "https://i.abcnewsfe.com/a/c5ca378c-4973-44da-bd06-2600bfc3dfa5/wirestory_1a2cbdc14eb0c256695fdfac00cbfb6d_16x9.jpg?w=1600",
+      "publishedAt": "2025-04-16 04:06:40",
+      "content": "WASHINGTON -- As measles outbreaks popped up across the U.S. this winter, pediatricians waited for the nation's public health agency to send a routine, but important, letter that outlines how they co\u2026 [+7089 chars]",
+      "retrievedAt": "2025-04-17 07:07:45.673977",
+      "internal_id": "8b5cb53f1bad4dec8f55eaac8e1ead9e74f624e36f7f8041d58a26effe48c10c",
+      "publishedAtLabel": "Apr 16"
+    },
+    {
+      "id": 20444,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Excelsior.com.mx",
+      "author": "jcarlos.ponce",
+      "title": "M\u00e9xico confirma 2 mil 738 casos de dengue y 12 muertes",
+      "description": "Patricia Rodr\u00edguez Calva En lo que va del a\u00f1o, los casos de dengue aumentaron a 2 mil 738 debido a que en la \u00faltima semana se confirmaron 165 nuevos contagios. Adem\u00e1s, ya son 12 las muertes registradas por esta enfermedad viral. De este total, cuatro de\u2026",
+      "url": "https://www.excelsior.com.mx/nacional/mexico-confirma-2-mil-738-casos-de-dengue-y-12-muertes/1710931",
+      "urlToImage": "https://www.excelsior.com.mx/media/pictures/2025/04/15/3291927.jpg",
+      "publishedAt": "2025-04-16 02:14:32",
+      "content": "En lo que va del a\u00f1o, los casos de dengue aumentaron a 2 mil 738 debido a que en la \u00faltima semana se confirmaron 165 nuevos contagios. Adem\u00e1s, ya son 12 las muertes registradas por esta enfermedad v\u2026 [+1053 chars]",
+      "retrievedAt": "2025-04-17 07:07:47.200646",
+      "internal_id": "65f2e95c4ef57b84f0200825314ee803c2a4e12dfe15d3c3cc35f3b31ca1601d",
+      "publishedAtLabel": "Apr 16"
+    },
+    {
+      "id": 20445,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Rpnradio.com",
+      "author": "RPN News",
+      "title": "Bacolod Records Another Dengue Death in 2025",
+      "description": "BACOLOD CITY \u2013 The City Health Office (CHO) reported its second dengue-related death this year involving a 42-year-old woman from Barangay Mansilingan. Dr. Grace Tan, head of the CHO Environmental Sanitation Division, said the patient had experienced an undoc\u2026",
+      "url": "https://rpnradio.com/bacolod-records-another-dengue-death-in-2025/",
+      "urlToImage": "https://rpnradio.com/wp-content/uploads/2025/04/BACOLOD-DENGUE-DEATH.jpg",
+      "publishedAt": "2025-04-16 02:13:27",
+      "content": "BACOLOD CITY The City Health Office (CHO) reported its second dengue-related death this year involving a 42-year-old woman from Barangay Mansilingan. Dr. Grace Tan, head of the CHO Environmental San\u2026 [+1002 chars]",
+      "retrievedAt": "2025-04-17 07:07:47.252735",
+      "internal_id": "d6e8f4da1822c113a7e725b8343467098ccfe62ca635e07e4d2eab677cb3e33a",
+      "publishedAtLabel": "Apr 16"
+    },
+    {
+      "id": 20447,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Leandro Costa Criscuolo",
+      "title": "Chikungunya: vacina do Butantan avan\u00e7a para ser incorporada ao SUS",
+      "description": "Imunizante de dose \u00fanica j\u00e1 tem aval da Anvisa e aprova\u00e7\u00e3o internacional; produ\u00e7\u00e3o nacional deve come\u00e7ar ap\u00f3s transfer\u00eancia de tecnologia O post Chikungunya: vacina do Butantan avan\u00e7a para ser incorporada ao SUS apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2025/04/15/medicina-e-saude/chikungunya-vacina-do-butantan-avanca-para-ser-incorporada-ao-sus/",
+      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2025/04/chikungunya-vacina.jpg",
+      "publishedAt": "2025-04-15 22:28:23",
+      "content": "O Minist\u00e9rio da Sa\u00fade anunciou que solicitar\u00e1 oficialmente a incorpora\u00e7\u00e3o da vacina contra a chikungunya ao Sistema \u00danico de Sa\u00fade (SUS), conforme informado pela Ag\u00eancia Brasil. Como j\u00e1 informamos \u2026 [+2337 chars]",
+      "retrievedAt": "2025-04-17 07:07:48.685719",
+      "internal_id": "c62887a098fd7c988695b54f32931cb726a2d5bbbfcd7b1e463f5fa7802386ef",
+      "publishedAtLabel": "Apr 15"
+    },
+    {
+      "id": 20439,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Top doctor's contract expires as measles concerns grow in Alberta",
+      "description": "Dr. Mark Joffe is no longer Alberta's chief medical officer of health, leaving the province without a top doctor as it battles growing measles outbreaks.",
+      "url": "https://www.cbc.ca/news/canada/calgary/alberta-top-doctor-mark-joffee-contract-expires-1.7510813",
+      "urlToImage": "https://i.cbc.ca/1.6964766.1743794637!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_1180/calgary-e-coli-20230912.jpg?im=Resize%3D620",
+      "publishedAt": "2025-04-15 22:27:32",
+      "content": "Dr. Mark Joffe is no longer Alberta's chief medical officer of health, leaving the province without a top doctor as it battles growing measles outbreaks. The Alberta government confirmed on Tuesday \u2026 [+2872 chars]",
+      "retrievedAt": "2025-04-17 07:07:45.682457",
+      "internal_id": "05371b94821722a146af10a659bd38dcacc59f27ba5eb4a716e11a5107af8ae1",
+      "publishedAtLabel": "Apr 15"
+    },
+    {
+      "id": 20437,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "New measles exposure warnings in Kingston, Tamworth, Napanee",
+      "description": "The local health unit is telling people who visited a Kingston Cineplex theatre screening of A Minecraft Movie this month, or a school and post office in Tamworth, and hospitals in Napanee and Prince Edward County, that they may have been exposed to measles.",
+      "url": "https://www.cbc.ca/news/canada/ottawa/new-measles-exposure-warnings-in-kingston-tamworth-napanee-1.7511129",
+      "urlToImage": "https://i.cbc.ca/1.7379501.1743101395!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_1180/measles-bulletin-bc-20240304.jpg?im=Resize%3D620",
+      "publishedAt": "2025-04-15 22:23:41",
+      "content": "The local health unit is telling people who visited a screening of A Minecraft Movie in Kingston, a school or post office in Tamworth, or hospitals in Napanee and Prince Edward County this month, tha\u2026 [+1884 chars]",
+      "retrievedAt": "2025-04-17 07:07:45.631905",
+      "internal_id": "00bf2fa714d11533499fa546c658a35c6796aef653df6e2cbec749179f13f637",
+      "publishedAtLabel": "Apr 15"
+    },
+    {
+      "id": 20440,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Exclaim!",
+      "author": "Megan LaPierre",
+      "title": "Toronto Concertgoers Warned of Possible Measles Exposure at Coca-Cola Coliseum",
+      "description": "Someone infected with the virus went to Forrest Frank's show on April 1, with fellow attendees being advised to monitor for symptoms until April 22",
+      "url": "https://exclaim.ca/music/article/toronto-concertgoers-warned-of-possible-measles-exposure-at-coca-cola-coliseum",
+      "urlToImage": "https://assets.exclaim.ca/image/upload/v1744744668/forrest_frank_pr_23174c762a.png",
+      "publishedAt": "2025-04-15 20:16:03",
+      "content": "In Canada, measles was eradicated in 1998. But nope, not anymore! This is seriously the anti-vax timeline we're living in, with Ontario having reported 155 new measles cases in the course of a week l\u2026 [+1538 chars]",
+      "retrievedAt": "2025-04-17 07:07:45.698365",
+      "internal_id": "aae03f6e91240fe49119dfc9a6e478377bbf080b6e2afe57b43cee9f8c1bd198",
+      "publishedAtLabel": "Apr 15"
+    },
+    {
+      "id": 20443,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Activistpost.com",
+      "author": "Editor",
+      "title": "First Human Case Of H5N1 Bird Flu Reported In Mexico",
+      "description": "Mexico has reported its first human bird flu infection. The infection was confirmed on Tuesday in a three-year-old girl living in the northern state of Durango, who remains hospitalized in serious condition. Durango\u2019s economy is heavily reliant on agriculture\u2026",
+      "url": "https://www.activistpost.com/first-human-case-of-h5n1-bird-flu-reported-in-mexico/",
+      "urlToImage": "https://www.activistpost.com/wp-content/uploads/2025/04/birdflu.jpg",
+      "publishedAt": "2025-04-15 20:04:00",
+      "content": "Mexico has reported its first human bird flu infection. The infection was confirmed on Tuesday in a three-year-old girl living in the northern state of Durango, who remains hospitalized in serious co\u2026 [+1974 chars]",
+      "retrievedAt": "2025-04-17 07:07:46.591576",
+      "internal_id": "70780b957a738fbcfbc9b921b1806f39262ded577c108862cb7bcf7f565e5944",
+      "publishedAtLabel": "Apr 15"
+    },
     {
       "id": 20419,
       "query": [
@@ -93,6 +291,24 @@
       "content": "Assine: Pague menos de R$ 9 por revistaVETOR - Aedes aegypti: mosquito transmissor da chikungunya, dengue e zika (//Getty Images) Continua ap\u00f3s publicidade O Minist\u00e9rio da Sa\u00fade anunciou que vai en\u2026 [+4847 chars]",
       "retrievedAt": "2025-04-16 19:05:52.631186",
       "internal_id": "815fb84e3d3a81fa4d2848049f673aa0e800925e2b2574197a175f01d6115f8b",
+      "publishedAtLabel": "Apr 15"
+    },
+    {
+      "id": 20442,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Yale.edu",
+      "author": "news@yale.edu (Yale News)",
+      "title": "YSPH students learn to lead with measles outbreak report",
+      "description": "Students in the Yale School of Public Health course \u2018Public Health Emergencies: Disaster Planning and Response\u2019 aren\u2019t just learning about crises \u2014 they\u2019re actively responding to&nbsp;them.",
+      "url": "https://ysph.yale.edu/news-article/a-real-time-response-to-a-real-world-crisis-ysph-students-learn-to-lead-with-measles-outbreak-report/",
+      "urlToImage": "https://ysm-res.cloudinary.com/image/upload/c_limit,f_auto,h_630,q_auto,w_1200/v1/yms/prod/6dda578e-45dc-475c-8ba6-830c37f05fb5",
+      "publishedAt": "2025-04-15 16:00:26",
+      "content": "At the Yale School of Public Health (YSPH), students in Joanne McGoverns Public Health Emergencies: Disaster Planning and Response course arent just learning about crisestheyre actively responding to\u2026 [+5570 chars]",
+      "retrievedAt": "2025-04-17 07:07:45.729939",
+      "internal_id": "f82d1330513ed4ce5cd55c416f1f8f9594111514226b45750fab096c12369cfe",
       "publishedAtLabel": "Apr 15"
     },
     {
@@ -28271,6 +28487,78 @@
       "content": "Leading vaccine critic Robert F. Kennedy Jr., who has been dismissive of the measles outbreak in Texas, now says that the spread needs to be stopped and that the federal response will include vaccina\u2026 [+1515 chars]",
       "retrievedAt": "2025-03-04 07:06:58.118294",
       "internal_id": "91826f6474fd7953762a3128962905d7045c31e093ae4b37535311dba6301da7",
+      "publishedAtLabel": "Mar 2"
+    },
+    {
+      "id": 18858,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "Taking shots at vaccines has deadly consequences (Glenn C. Altschuler/The Hill)",
+      "description": "Glenn C. Altschuler / The Hill: Taking shots at vaccines has deadly consequences \u2014 Public health authorities reported on Feb. 21 that an ongoing measles outbreak in Gaines County, Texas and Lea County, New Mexico was already the largest in decades. Of the \u2026",
+      "url": "https://www.memeorandum.com/250302/p12",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2025/02/AP25058597447123-e1740780617390.jpg?w=1280",
+      "publishedAt": "2025-03-02 14:45:00",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-03-03 19:05:53.852045",
+      "internal_id": "c7a065728afda105f6cda7600f3f60a9c1e4cea233eb5cb1d18e3627d70d7fa9",
+      "publishedAtLabel": "Mar 2"
+    },
+    {
+      "id": 18859,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Businessinsider.com.pl",
+      "author": null,
+      "title": "Puste p\u00f3\u0142ki w USA. Polski potentat jaj: problemy te\u017c w Polsce, ceny p\u00f3jd\u0105 w g\u00f3r\u0119",
+      "description": "Tylko w ci\u0105gu ostatnich pi\u0119ciu miesi\u0119cy w wyniku walki z HPAI, straty w pog\u0142owiu kur nie\u015bnych w naszym kraju wynios\u0142y oko\u0142o 6 mln. \u2014 Tak du\u017ca redukcja potencja\u0142u produkcyjnego nie mo\u017ce pozosta\u0107 bez konsekwencji dla cen detalicznych \u2014 m\u00f3wi ekspertka. To oznacz\u2026",
+      "url": "https://businessinsider.com.pl/finanse/handel/puste-polki-w-usa-polski-potentat-jaj-problemy-tez-w-polsce-ceny-pojda-w-gore/m8sdxpe",
+      "urlToImage": "https://ocdn.eu/pulscms-transforms/1/COtk9kpTURBXy9kODY3NTllNzZjNjI1MWFmOGFiNGE2NDAyOWFlOWMxNC5qcGeSlQMAzHbNB9DNBGWTBc0EsM0Cdt4AAaEwAQ",
+      "publishedAt": "2025-03-02 13:22:43",
+      "content": "Sytuacja robi si coraz bardziej powana. W Stanach Zjednoczonych p\u00f3ki z jajami wiec pustkami, a gdy produkty ju si na nich pojawi, osigaj zawrotne ceny. Wszystko przez szalejcy wirus HPAI, kt\u00f3ry tylko\u2026 [+6028 chars]",
+      "retrievedAt": "2025-03-03 19:05:54.013022",
+      "internal_id": "413d55005a4ade7698a4d7f9b3983c2f633ce8ff4f75b01142bd9ca90bcbeab6",
+      "publishedAtLabel": "Mar 2"
+    },
+    {
+      "id": 18861,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Agency",
+      "title": "Giving an old malaria drug new life",
+      "description": "Scientists are redesigning an existing malaria medicine to make it last longer in the body.",
+      "url": "https://www.thestar.com.my/lifestyle/health/2025/03/02/giving-an-old-malaria-drug-new-life",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/02/28/3190130.jpg",
+      "publishedAt": "2025-03-02 12:51:31",
+      "content": "A new clinical trial from Scripps Research in La Jolla, California, United States, aims to make significant gains in the global fight against malaria by making a drug that has been around since the 1\u2026 [+3088 chars]",
+      "retrievedAt": "2025-03-03 19:05:55.477086",
+      "internal_id": "9e97bf16d4b07eb43a29f5729ca52ff237404627bb2b6ceeaf5608dfc5ecca15",
+      "publishedAtLabel": "Mar 2"
+    },
+    {
+      "id": 18860,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "title": "Ssa: este a\u00f1o, mil 781 casos de dengue y cero muertes",
+      "description": "La Secretar\u00eda de Salud (Ssa) report\u00f3 que en lo que va del a\u00f1o se han confirmado mil 781 casos de dengue, de los cuales 53.7 por ciento son contagios con signos de alarma y al menos otros 66 casos corresponden al tipo grave o hemorr\u00e1gico.",
+      "url": "https://www.jornada.com.mx/2025/03/02/sociedad/027n1soc",
+      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "publishedAt": "2025-03-02 09:02:36",
+      "content": "Peri\u00f3dico La JornadaDomingo 2 de marzo de 2025, p. 27 La Secretar\u00eda de Salud (Ssa) report\u00f3 que en lo que va del a\u00f1o se han confirmado mil 781 casos de dengue, de los cuales 53.7 por ciento son conta\u2026 [+1682 chars]",
+      "retrievedAt": "2025-03-03 19:05:54.725898",
+      "internal_id": "f5f305794e31b3fddf0cfa86e8d50d0f58d2f1633ca054d9a64f05cabfc42835",
       "publishedAtLabel": "Mar 2"
     }
   ]
