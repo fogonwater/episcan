@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 12
-- **Last harvest:** 2025-04-17 07:07
-- **Most recent article:** 2025-04-16 06:07:14
+- **New articles in last harvest:** 22
+- **Last harvest:** 2025-04-17 19:06
+- **Most recent article:** 2025-04-16 18:37:16
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-10 | 25-11 | 25-12 | 25-13 | 25-14 | 25-15 | 25-16 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 141 | 133 | 108 | 101 | 77 | 145 | 31 | 736 |
+| measles | 140 | 133 | 108 | 101 | 77 | 145 | 38 | 742 |
 | h5n1 | 20 | 39 | 57 | 47 | 46 | 66 | 7 | 282 |
-| malaria | 26 | 22 | 18 | 30 | 13 | 10 | 10 | 129 |
-| dengue | 8 | 12 | 18 | 20 | 14 | 24 | 11 | 107 |
-| mpox | 13 | 15 | 8 | 12 | 17 | 18 | 4 | 87 |
-| chikungunya | 6 | 1 | 17 | 10 | 17 | 15 | 20 | 86 |
+| malaria | 25 | 22 | 18 | 30 | 13 | 10 | 11 | 129 |
+| dengue | 7 | 12 | 18 | 20 | 14 | 24 | 13 | 108 |
+| chikungunya | 6 | 1 | 17 | 10 | 17 | 15 | 29 | 95 |
+| mpox | 13 | 15 | 8 | 12 | 17 | 18 | 7 | 90 |
 | meningitis | 4 | 9 | 7 | 10 | 6 | 10 | 2 | 48 |
 | rabies | 3 | 8 | 3 | 19 | 7 | 7 | 0 | 47 |
-| hpai | 8 | 3 | 12 | 2 | 4 | 3 | 1 | 33 |
-| zika | 3 | 0 | 2 | 3 | 4 | 7 | 5 | 24 |
+| hpai | 7 | 3 | 12 | 2 | 4 | 3 | 2 | 33 |
+| zika | 3 | 0 | 2 | 3 | 4 | 7 | 6 | 25 |
 | typhoid | 3 | 8 | 0 | 1 | 2 | 2 | 2 | 18 |
 | pertussis | 0 | 5 | 1 | 0 | 7 | 2 | 2 | 17 |
 | yersinia | 1 | 2 | 2 | 3 | 0 | 0 | 0 | 8 |
@@ -34,6 +34,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 25-16 (zika)
+
+- [Moustique-tigre dans « Le Monde », du statut de danger exotique à celui de péril de voisinage](https://www.lemonde.fr/m-le-mag/article/2025/04/16/moustique-tigre-dans-le-monde-du-statut-de-danger-exotique-a-celui-de-peril-de-voisinage_6596642_4500055.html) (Le Monde)
 
 - [Chikungunya: após aval da Anvisa, Ministério da Saúde pede incorporação de vacina](https://veja.abril.com.br/saude/chikungunya-apos-aval-da-anvisa-ministerio-da-saude-pede-incorporacao-de-vacina/) (Abril.com.br)
 
@@ -59,6 +61,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-16 (mpox)
 
+- [Mpox: Ein Affenbaby stirbt – und eine außergewöhnliche Spurensuche beginnt](https://www.spektrum.de/news/mpox-ein-affenbaby-stirbt-und-eine-spurensuche-beginnt/2262185) (Spektrum.de)
+
+- [Välbehövligt hopp i jakten på antibiotika](https://www.expressen.se/nyheter/varlden/valbehovligt-hopp-i-jakten-pa-antibiotika/) (Expressen.se)
+
+- [The world could stop central Africa’s deadly mpox outbreak if it wanted to](https://theconversation.com/the-world-could-stop-central-africas-deadly-mpox-outbreak-if-it-wanted-to-236981) (The Conversation Africa)
+
 - [La variante más letal de la mpox tiene una mortalidad del 4% en la República Democrática del Congo](https://www.infosalus.com/salud-investigacion/noticia-variante-mas-letal-mpox-tiene-mortalidad-republica-democratica-congo-20250415143240.html) (Infosalus.com)
 
 - [De vuurvoeteekhoorn is het natuurlijke reservoir van mpox](https://www.nrc.nl/nieuws/2025/04/15/de-vuurvoeteekhoorn-is-het-natuurlijke-reservoir-van-mpox-a4889978) (Www.nrc.nl)
@@ -74,6 +82,20 @@ Source: [News API](https://newsapi.org/)
 - [Stockton girl's meningitis leads to quadruple amputation](https://www.bbc.co.uk/news/articles/cx2vv81k2k1o) (BBC News)
 
 ## 25-16 (measles)
+
+- [Fitting dynamic measles models to subnational case notification data from Ethiopia: Methodological challenges and key considerations](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012922) (Plos.org)
+
+- [Foreign Assistance Cuts Hamper Community Health Workers And Patients](https://www.forbes.com/sites/jenniferlotito/2025/04/16/foreign-assistance-cuts-hamper-community-health-workers-and-patients/) (Forbes)
+
+- ['It's scary': parents fearful as Texas measles cases rise again](https://www.bangkokpost.com/video/world/3004372) (Bangkok Post)
+
+- [CDC scientist says measles cases are likely being underreported](https://www.today.com/video/measles-cases-likely-underreported-in-us-cdc-scientist-says-237532229839) (TODAY)
+
+- [RFK Jr.’s mixed message about the measles outbreaks draws criticism from health officials](https://www.bostonherald.com/2025/04/16/rfk-jr-measles-response-criticism/) (Boston Herald)
+
+- [Why Does Vaccine Hesitancy Occur, and How Can People Combat It?](https://www.scientificamerican.com/article/why-does-vaccine-hesitancy-occur-and-how-can-people-combat-it/) (Scientific American)
+
+- [CDC says measles cases are most likely underreported as outbreak swells in Texas](https://www.nbcnews.com/health/health-news/cdc-measles-cases-missed-texas-us-rfkjr-rcna201426) (NBC News)
 
 - [RFK Jr.'s mixed message about the measles outbreaks draws criticism from health officials](https://timesofindia.indiatimes.com/world/us/rfk-jr-s-mixed-message-about-the-measles-outbreaks-draws-criticism-from-health-officials/articleshow/120330022.cms) (The Times of India)
 
@@ -139,6 +161,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-16 (malaria)
 
+- [South Africa's health department urges vigilance amid rising malaria cases](https://www.thestar.com.my/news/world/2025/04/17/south-africa039s-health-department-urges-vigilance-amid-rising-malaria-cases) (The Star Online)
+
 - [USAID cuts rip through African health care systems](https://www.japantimes.co.jp/news/2025/04/16/world/science-health/usaid-african-health-care/) (The Japan Times)
 
 - [La Casa Blanca plantea poner fin a la financiación del Departamento de Estado a la OTAN y la ONU](https://www.eldiario.es/internacional/theguardian/casa-blanca-plantea-poner-financiacion-departamento-otan-onu_1_12222367.html) (Eldiario.es)
@@ -165,6 +189,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-16 (hpai)
 
+- [HPから賢いラップトップ、お求めやすい値段で登場です](https://www.gizmodo.jp/2025/04/hp-omnibook-x-flip-14-ai-pc.html) (Gizmodo.jp)
+
 - [Safety and Immunogenicity of Poultry Vaccine for Protecting Critically Endangered Avian Species against Highly Pathogenic Avian Influenza Virus, United States](https://wwwnc.cdc.gov/eid/article/31/6/24-1558_article) (Cdc.gov)
 
 ## 25-16 (h5n1)
@@ -184,6 +210,10 @@ Source: [News API](https://newsapi.org/)
 - [آنفلوآنزای پرندگان در برابر آنفلوآنزای معمولی: تفاوت‌های کلیدی این دو بیماری چیست؟](https://www.entekhab.ir/fa/news/860695/آنفلوآنزای-پرندگان-در-برابر-آنفلوآنزای-معمولی-تفاوت‌های-کلیدی-این-دو-بیماری-چیست) (Entekhab.ir)
 
 ## 25-16 (dengue)
+
+- [Tempero acaba com as moscas em casa e afasta o mosquito da dengue](https://www.metropoles.com/vida-e-estilo/tempero-acaba-com-as-moscas-em-casa-e-afasta-o-mosquito-da-dengue) (Metropoles.com)
+
+- [Moustique-tigre dans « Le Monde », du statut de danger exotique à celui de péril de voisinage](https://www.lemonde.fr/m-le-mag/article/2025/04/16/moustique-tigre-dans-le-monde-du-statut-de-danger-exotique-a-celui-de-peril-de-voisinage_6596642_4500055.html) (Le Monde)
 
 - [México confirma 2 mil 738 casos de dengue y 12 muertes](https://www.excelsior.com.mx/nacional/mexico-confirma-2-mil-738-casos-de-dengue-y-12-muertes/1710931) (Excelsior.com.mx)
 
@@ -208,6 +238,24 @@ Source: [News API](https://newsapi.org/)
 - [Maintain clean surrounding, health authorities urge](https://www.fijitimes.com.fj/maintain-clean-surrounding-health-authorities-urge/) (Fijitimes.com.fj)
 
 ## 25-16 (chikungunya)
+
+- [Chikungunya à La Réunion : « Le pic devrait être atteint fin avril »](https://www.20minutes.fr/sante/4148995-20250416-chikungunya-reunion-pic-devrait-etre-atteint-fin-avril) (20 Minutes)
+
+- [Valneva to Participate in Multiple Events at the 25th World Vaccine Congress, including a Presentation on its Chikungunya Vaccine IXCHIQ®](https://www.globenewswire.com/news-release/2025/04/16/3062762/0/en/Valneva-to-Participate-in-Multiple-Events-at-the-25th-World-Vaccine-Congress-including-a-Presentation-on-its-Chikungunya-Vaccine-IXCHIQ.html) (GlobeNewswire)
+
+- [Valneva participera à plusieurs événements lors du 25ème World Vaccine Congress dont une présentation sur son vaccin contre le chikungunya IXCHIQ®](https://www.globenewswire.com/news-release/2025/04/16/3062762/0/fr/Valneva-participera-%C3%A0-plusieurs-%C3%A9v%C3%A9nements-lors-du-25%C3%A8me-World-Vaccine-Congress-dont-une-pr%C3%A9sentation-sur-son-vaccin-contre-le-chikungunya-IXCHIQ.html) (GlobeNewswire)
+
+- [La Réunion : six décès « liés au chikungunya » depuis le début de l’année, selon Santé publique France](https://www.nouvelobs.com/societe/20250416.OBS102835/la-reunion-six-deces-lies-au-chikungunya-depuis-le-debut-de-l-annee-selon-sante-publique-france.html) (L'Obs)
+
+- [Moustique-tigre dans « Le Monde », du statut de danger exotique à celui de péril de voisinage](https://www.lemonde.fr/m-le-mag/article/2025/04/16/moustique-tigre-dans-le-monde-du-statut-de-danger-exotique-a-celui-de-peril-de-voisinage_6596642_4500055.html) (Le Monde)
+
+- [Chikungunya : 33.000 cas, dont 41 graves, et six décès en 2025… L’épidémie à La Réunion « majeure » mais en baisse](https://www.20minutes.fr/sante/4148940-20250416-chikungunya-33-000-cas-dont-41-graves-six-deces-2025-epidemie-reunion-majeure-baisse) (20 Minutes)
+
+- [Chikungunya : six décès liés à l’épidémie recensés à La Réunion depuis le début de 2025](https://www.lemonde.fr/planete/article/2025/04/16/chikungunya-six-deces-lies-a-l-epidemie-recenses-a-la-reunion-depuis-le-debut-de-2025_6596639_3244.html) (Le Monde)
+
+- [L'épidémie de chikungunya à La Réunion a fait six morts depuis le début de l'année, selon le dernier bilan de Santé publique France](https://www.francetvinfo.fr/sante/maladie/chikungunya/l-epidemie-de-chikungunya-a-la-reunion-a-fait-six-morts-depuis-le-debut-de-l-annee-selon-le-dernier-bilan-de-sante-publique-france_7192980.html) (Francetvinfo.fr)
+
+- [Chikungunya à La Réunion : le plan blanc a été déclenché](https://www.francetvinfo.fr/sante/maladie/chikungunya/chikungunya-a-la-reunion-le-plan-blanc-a-ete-declenche_7192605.html) (Francetvinfo.fr)
 
 - [Chikungunya: vacina do Butantan avança para ser incorporada ao SUS](https://olhardigital.com.br/2025/04/15/medicina-e-saude/chikungunya-vacina-do-butantan-avanca-para-ser-incorporada-ao-sus/) (Olhardigital.com.br)
 
@@ -3311,8 +3359,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Stopping Measles Outbreak Is 'a Top Priority,' Kennedy Says](https://www.newser.com/story/365052/stopping-measles-outbreak-is-a-top-priority-kennedy-says.html) (Newser)
 
-- [Taking shots at vaccines has deadly consequences (Glenn C. Altschuler/The Hill)](https://www.memeorandum.com/250302/p12) (Memeorandum.com)
-
 ## 25-10 (malaria)
 
 - [Ministry of Health to Issue Antimalarial Medicines in Turkana Starting June](https://www.kenyans.co.ke/news/109743-ministry-health-issue-antimalarial-medicines-turkana-starting-june) (Kenyans.co.ke)
@@ -3365,8 +3411,6 @@ Source: [News API](https://newsapi.org/)
 
 - [U.S.A.I.D. Memos Detail Human Costs of Cuts to Foreign Aid (Apoorva Mandavilli/New York Times)](https://www.memeorandum.com/250302/p101) (Memeorandum.com)
 
-- [Giving an old malaria drug new life](https://www.thestar.com.my/lifestyle/health/2025/03/02/giving-an-old-malaria-drug-new-life) (The Star Online)
-
 ## 25-10 (leptospirosis)
 
 - [Into the spotlight: A spatial study of potentially underreported leptospirosis among dengue-negative patients in São Paulo city, Brazil](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012888) (Plos.org)
@@ -3390,8 +3434,6 @@ Source: [News API](https://newsapi.org/)
 - [Raw cat food recalled after state testing finds contamination with bird flu](https://www.foodsafetynews.com/2025/03/raw-cat-food-recalled-after-state-testing-finds-contamination-with-bird-flu/) (Food Safety News)
 
 - [Animal Ag News 3/3](https://agwired.com/2025/03/03/animal-ag-news-3-3/) (AgWired)
-
-- [Puste półki w USA. Polski potentat jaj: problemy też w Polsce, ceny pójdą w górę](https://businessinsider.com.pl/finanse/handel/puste-polki-w-usa-polski-potentat-jaj-problemy-tez-w-polsce-ceny-pojda-w-gore/m8sdxpe) (Businessinsider.com.pl)
 
 ## 25-10 (h5n1)
 
@@ -3450,8 +3492,6 @@ Source: [News API](https://newsapi.org/)
 - [Terratis se renforce dans sa lutte contre le moustique tigre](https://objectif-languedoc-roussillon.latribune.fr/innovation/2025-03-03/terratis-se-renforce-dans-sa-lutte-contre-le-moustique-tigre-1019699.html) (La Tribune.fr)
 
 - [Brumbies flanker Tualima diagnosed with dengue fever](https://www.bbc.com/sport/rugby-union/articles/cgl0e67r6dyo) (BBC News)
-
-- [Ssa: este año, mil 781 casos de dengue y cero muertes](https://www.jornada.com.mx/2025/03/02/sociedad/027n1soc) (Jornada.com.mx)
 
 ## 25-10 (chikungunya)
 
