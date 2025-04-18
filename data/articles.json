@@ -1,8 +1,512 @@
 {
-  "last_updated": "2025-04-18 07:07",
-  "count_articles_total": 1616,
-  "count_articles_new": 10,
+  "last_updated": "2025-04-18 19:05",
+  "count_articles_total": 1640,
+  "count_articles_new": 28,
   "articles": [
+    {
+      "id": 20492,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Estad\u00e3o Conte\u00fado",
+      "title": "Cidade de S\u00e3o Paulo chega a 5 mortes por dengue em 2025; casos confirmados passam de 30 mil",
+      "description": "Cap\u00e3o Redondo, na Zona Sul, registra a maior incid\u00eancia da doen\u00e7a, seguido por Perus e Rio Pequeno",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/cidade-de-sao-paulo-chega-a-5-mortes-por-dengue-em-2025-casos-confirmados-passam-de-30-mil,dbb1d32ba415b6ff13746f7841dd83c0mfjuy36d.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/04/17/1616742769-tv6rvhfy3ncfrcblsvjkwztsiq.jpg",
+      "publishedAt": "2025-04-17 18:56:37",
+      "content": "O n\u00famero de mortes por dengue na capital paulista subiu para cinco e os casos confirmados da doen\u00e7a chegaram a 31.669, segundo dados do Painel de Arboviroses do Governo do Estado de S\u00e3o Paulo atualiz\u2026 [+1855 chars]",
+      "retrievedAt": "2025-04-18 19:05:48.907558",
+      "internal_id": "fa3735d1f8e6aa1907d11b581d167e416d549e31be923ae9b40ec97167a5cd76",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 20488,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Atlantic",
+      "author": "Stephanie Bai",
+      "title": "When Measles Was Endemic",
+      "description": "When the virus was endemic, it spread in a world very different from today\u2019s.",
+      "url": "https://www.theatlantic.com/newsletters/archive/2025/04/measles-vaccine-endemic-outbreak-texas/682499/",
+      "urlToImage": "https://cdn.theatlantic.com/thumbor/2x6XEJNzp9cnRBsZtY7OjNH3Vls=/0x0:2000x1042/1200x625/media/img/mt/2025/04/2025_04_17_Time_Travel_Thursdays_Measles/original.jpg",
+      "publishedAt": "2025-04-17 18:43:00",
+      "content": "This is an edition of Time-Travel Thursdays, a journey through The Atlantic\u2019s archives to contextualize the present. Sign up here.Many people who contract measles don\u2019t know right away that they have\u2026 [+5259 chars]",
+      "retrievedAt": "2025-04-18 19:05:47.387759",
+      "internal_id": "6e52d760824f4da65b93e09ab926113956803556b90a7cd3d301c887ece2c322",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 20498,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Ascodevida.com",
+      "author": "ascodevida.com",
+      "title": "Mariajo y su ADV",
+      "description": "Hoy, no ten\u00eda ganas de ir al instituto porque hab\u00eda un examen importante y no me lo hab\u00eda estudiado. Le dije a mi madre que me dol\u00eda mucho la barriga y no pod\u00eda ir a clase. Como no se lo terminaba de creer, me llev\u00f3 al m\u00e9dico. Me diagnostic\u00f3 meningitis. ADV",
+      "url": "https://www.ascodevida.com/estudios/648609",
+      "urlToImage": "https://statics.memondo.com/p/99/advs/2025/03/ADV_648609_estudios.jpg?cb=2951905",
+      "publishedAt": "2025-04-17 18:00:02",
+      "content": "* No hay temas tab\u00fa, expr\u00e9sate en 400 caracteres. Evita historias de quincea\u00f1eras propias de la SuperPOP.* Lee y repasa tu mensaje. Escribe correctamente evitando errores ortogr\u00e1fico\u2026 [+183 chars]",
+      "retrievedAt": "2025-04-18 19:05:49.259597",
+      "internal_id": "4a1146f147f0631f585efc2c1d130663d68d2d465d0177c24f3e48c4c46aa71c",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 20499,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Premium Times",
+      "author": "Mohammed Lere",
+      "title": "Hajj 2025: NAHCON flags off vaccination of intending pilgrims in FCT",
+      "description": "Nigerians intending to go for Hajj are required to get vaccinated from Meningococcal Meningitis, Yello Fever, polio and seasonal Influenza vaccination.",
+      "url": "https://www.premiumtimesng.com/news/more-news/788660-hajj-2025-nahcon-flags-off-vaccination-of-intending-pilgrims-in-fct.html",
+      "urlToImage": "https://media.premiumtimesng.com/wp-content/files/2025/04/WhatsApp-Image-2025-04-17-at-15.10.21.jpeg",
+      "publishedAt": "2025-04-17 17:52:07",
+      "content": "The Chairperson of the National Hajj Commission of Nigeria (NAHCON), Abdullahi Sale, has flagged off the vaccination of Nigerian intending pilgrims in the Federal CapitalTerritory (FCT). The ceremon\u2026 [+1465 chars]",
+      "retrievedAt": "2025-04-18 19:05:49.288702",
+      "internal_id": "8b7ae3f2bf5a9972fb36174aa1897b7f24d3f3fa15674c5e7be1021e380a1510",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 20508,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Coherent Market Insights Pvt. Ltd",
+      "title": "Typhoid Fever Vaccines Market to Hit $884.8 Mn, Globally, by 2030 at 12.2% CAGR: Coherent Market Insights",
+      "description": "Burlingame, CA, April 17, 2025 (GLOBE NEWSWIRE) -- Coherent Market Insights published a report, titled, \" Typhoid Fever Vaccines Market, by Vaccine Type (Live Attenuated Vaccine, Capsular Polysaccharide Vaccines, Conjugate Vaccine, and Others), by Route of Ad\u2026",
+      "url": "https://www.globenewswire.com/news-release/2025/04/17/3063755/0/en/Typhoid-Fever-Vaccines-Market-to-Hit-884-8-Mn-Globally-by-2030-at-12-2-CAGR-Coherent-Market-Insights.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/450ec960-647a-4b12-8885-a4afd6739e88",
+      "publishedAt": "2025-04-17 17:50:00",
+      "content": "Burlingame, CA, April 17, 2025 (GLOBE NEWSWIRE) -- Coherent Market Insights published a report, titled, \" Typhoid Fever Vaccines Market, by Vaccine Type (Live Attenuated Vaccine, Capsular Polysacchar\u2026 [+8580 chars]",
+      "retrievedAt": "2025-04-18 19:05:52.012251",
+      "internal_id": "96d197509a1def58fb6cb02f5bbab6aa9cf68bbc520ce821305a4b90b79e8015",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 20502,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Nicholas Shores",
+      "title": "Senadora articula derrubada de veto a pens\u00e3o para v\u00edtimas do zika",
+      "description": "Lula vetou projeto de Mara Gabrilli que garante pens\u00e3o vital\u00edcia \u00e0s pessoas com defici\u00eancia permanente causada pelo v\u00edrus, descoberto h\u00e1 10 anos no Brasil",
+      "url": "https://veja.abril.com.br/coluna/radar/senadora-articula-derrubada-de-veto-a-pensao-para-vitimas-do-zika/",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2025/04/mara-gabrilli-zika.jpg?quality=70&strip=info&crop=1&resize=1080,565",
+      "publishedAt": "2025-04-17 17:30:07",
+      "content": "Assine: Pague menos de R$ 9 por revista Mara Gabrilli recebe pais e m\u00e3es de v\u00edtimas da s\u00edndrome cong\u00eantia do zika v\u00edrus no Senado (Jaciara Aires/Ascom Mara Gabrilli/Divulga\u00e7\u00e3o) Continua ap\u00f3s public\u2026 [+2317 chars]",
+      "retrievedAt": "2025-04-18 19:05:50.741296",
+      "internal_id": "21614dbba8a7d931001375186dba3e4c5bb846f7b35640ec7ed2448e58262bb4",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 20493,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "info-money",
+      "source_name": "InfoMoney",
+      "author": "Vict\u00f3ria Anhesini",
+      "title": "Brasil ultrapassa 1 milh\u00e3o de casos prov\u00e1veis de dengue em 2025",
+      "description": "Pa\u00eds contabiliza ainda 668 mortes confirmadas pela doen\u00e7a The post Brasil ultrapassa 1 milh\u00e3o de casos prov\u00e1veis de dengue em 2025 appeared first on InfoMoney.",
+      "url": "https://www.infomoney.com.br/saude/brasil-ultrapassa-1-milhao-de-casos-provaveis-de-dengue-em-2025/",
+      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2024/10/aedes-mosquito-c-niaid.webp?quality=70",
+      "publishedAt": "2025-04-17 17:04:56",
+      "content": "O Brasil registrou, desde 1\u00ba de janeiro de 2025, 1.010.833 casos prov\u00e1veis de dengue. De acordo com o Painel de Monitoramento das Arboviroses, o pa\u00eds contabiliza ainda 668 mortes confirmadas pela doe\u2026 [+1101 chars]",
+      "retrievedAt": "2025-04-18 19:05:48.917301",
+      "internal_id": "d28ab048837ba92c0131241cbce8239ee3fb04cf9de3b081130bad772954a0fe",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 20487,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Ontario reports over 100 new measles cases, bringing total to 925",
+      "description": "Measles spread to 109 more people in Ontario over the last week, bringing the province's total cases to 925 since an outbreak began in October.",
+      "url": "https://www.cbc.ca/news/canada/toronto/ontario-100-new-measles-cases-outbreak-1.7513057",
+      "urlToImage": "https://i.cbc.ca/1.7131773.1716008972!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/measles-virus.jpg?im=Resize%3D620",
+      "publishedAt": "2025-04-17 16:51:01",
+      "content": "Measles pread to 109 more people in Ontario over the last week, bringing the province's total cases to 925 since an outbreak began in October. Sixty-nine people have required hospitalization that's \u2026 [+640 chars]",
+      "retrievedAt": "2025-04-18 19:05:47.379866",
+      "internal_id": "50eb66544dfa1c17120056f8099a4ff4e4da906148bcc76a1ede41da6f9b2213",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 20489,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Skai.gr",
+      "author": "Newsroom",
+      "title": "\u0388\u03ba\u03c4\u03b1\u03ba\u03c4\u03b1 \u03bc\u03ad\u03c4\u03c1\u03b1 \u03c3\u03c4\u03b7\u03bd \u03a0\u03bf\u03bb\u03c9\u03bd\u03af\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03b7 \u0393\u03c1\u03af\u03c0\u03b7 \u03c4\u03c9\u03bd \u03a0\u03c4\u03b7\u03bd\u03ce\u03bd",
+      "description": "\u03a4\u03bf \u03c5\u03c0\u03bf\u03c5\u03c1\u03b3\u03b5\u03af\u03bf \u0393\u03b5\u03c9\u03c1\u03b3\u03af\u03b1\u03c2 \u03c3\u03c4\u03b7\u03bd \u03b1\u03bd\u03b1\u03ba\u03bf\u03af\u03bd\u03c9\u03c3\u03ae \u03c4\u03bf\u03c5 \u03b1\u03bd\u03ad\u03c6\u03b5\u03c1\u03b5 \u03cc\u03c4\u03b9 \u03b7 \u039a\u03bf\u03bc\u03b9\u03c3\u03b9\u03cc\u03bd \u03c3\u03c5\u03bc\u03c6\u03ce\u03bd\u03b7\u03c3\u03b5 \u03bd\u03b1 \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03c3\u03c4\u03bf\u03cd\u03bd \u03c4\u03b1 13 \u03bc\u03ad\u03c4\u03c1\u03b1 \u03c0\u03bf\u03c5 \u03c0\u03c1\u03cc\u03c4\u03b5\u03b9\u03bd\u03b5 \u03b7 \u0392\u03b1\u03c1\u03c3\u03bf\u03b2\u03af\u03b1",
+      "url": "https://www.skai.gr/news/world/polonia-ektakta-metra-gia-ti-gripi-ton-ptinon",
+      "urlToImage": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2025-04/birdflu_ap.jpg?itok=Ubc_wdHI",
+      "publishedAt": "2025-04-17 16:20:55",
+      "content": "13 , , . 79 (HPAI), 50 . . 13 , , , . . . , \u00ab\u00bb. .Skai.gr Google News . \u00a9 2025 skai.gr - All Rights Reserved",
+      "retrievedAt": "2025-04-18 19:05:47.786851",
+      "internal_id": "c97ea86747e5ae6f4fa8bbd3a4bde7cb50c7d1c70f00a0a453f33d89a12e2623",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 20485,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "Anti-Vaxxers Are Grifting Off the Measles Outbreak--and Claim a Bioweapon Caused It (David Gilbert/Wired)",
+      "description": "David Gilbert / Wired: Anti-Vaxxers Are Grifting Off the Measles Outbreak\u2014and Claim a Bioweapon Caused It \u2014 Activists affiliated with Robert F. Kennedy, Jr. are selling a \u201cmeasles treatment and prevention protocol\u201d for hundreds of dollars, including supplem\u2026",
+      "url": "https://www.memeorandum.com/250417/p66",
+      "urlToImage": "https://media.wired.com/photos/68002f7a4050706800db9e58/191:100/w_1280,c_limit/Measles-Grifters-Politics.jpg",
+      "publishedAt": "2025-04-17 16:20:01",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-04-18 19:05:47.281941",
+      "internal_id": "de4fdb43db2b6aa762573943ce951f6847ef473b73f08db733b6e0159bcbbce5",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 20506,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Penglijun, Elias Shilangwa",
+      "title": "Zambia confirms second mpox death as cases rise to 49",
+      "description": "LUSAKA, April 17 (Xinhua) -- Zambia on Thursday confirmed its second mpox-related death as the cumulative cases reached 49 in the southern African country. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2025/04/18/zambia-confirms-second-mpox-death-as-cases-rise-to-49",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2025-04-17 16:14:00",
+      "content": "LUSAKA, April 17 (Xinhua) -- Zambia on Thursday confirmed its second mpox-related death as the cumulative cases reached 49 in the southern African country. Minister of Health Elijah Muchima said th\u2026 [+955 chars]",
+      "retrievedAt": "2025-04-18 19:05:51.839333",
+      "internal_id": "3997b8758bf3d347c0ef9467176314b2049d0edffc0319f344930dada50ed8eb",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 20490,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Naftemporiki.gr",
+      "author": "\u039c\u03b1\u03c1\u03af\u03b1 \u0393\u03b5\u03c9\u03c1\u03b3\u03b1\u03ba\u03bf\u03c0\u03bf\u03cd\u03bb\u03bf\u03c5",
+      "title": "\u03a0\u03bf\u03bb\u03c9\u03bd\u03af\u03b1: \u0388\u03ba\u03c4\u03b1\u03ba\u03c4\u03b1 \u03bc\u03ad\u03c4\u03c1\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b1\u03bd\u03c4\u03b9\u03bc\u03b5\u03c4\u03ce\u03c0\u03b9\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03b5\u03be\u03ac\u03c0\u03bb\u03c9\u03c3\u03b7\u03c2 \u03c4\u03b7\u03c2 \u03b3\u03c1\u03af\u03c0\u03b7\u03c2 \u03c4\u03c9\u03bd \u03c0\u03c4\u03b7\u03bd\u03ce\u03bd",
+      "description": "\u039c\u03b9\u03b1 \u03c3\u03b5\u03b9\u03c1\u03ac \u03ad\u03ba\u03c4\u03b1\u03ba\u03c4\u03c9\u03bd \u03bc\u03ad\u03c4\u03c1\u03c9\u03bd, \u03c4\u03b1 \u03bf\u03c0\u03bf\u03af\u03b1 \u03b5\u03b9\u03c3\u03b7\u03b3\u03ae\u03b8\u03b7\u03ba\u03b5 \u03b7 \u03a0\u03bf\u03bb\u03c9\u03bd\u03af\u03b1, \u03b5\u03bd\u03ad\u03ba\u03c1\u03b9\u03bd\u03b5 \u03b7 \u0395\u03c5\u03c1\u03c9\u03c0\u03b1\u03ca\u03ba\u03ae \u0395\u03c0\u03b9\u03c4\u03c1\u03bf\u03c0\u03ae, \u03c0\u03c1\u03bf\u03ba\u03b5\u03b9\u03bc\u03ad\u03bd\u03bf\u03c5 \u03bd\u03b1 \u03c0\u03b5\u03c1\u03b9\u03bf\u03c1\u03b9\u03c3\u03c4\u03b5\u03af \u03b7 \u03b5\u03be\u03ac\u03c0\u03bb\u03c9\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03b3\u03c1\u03af\u03c0\u03b7\u03c2 \u03c4\u03c9\u03bd \u03c0\u03c4\u03b7\u03bd\u03ce\u03bd, \u03b1\u03bd\u03b1\u03ba\u03bf\u03af\u03bd\u03c9\u03c3\u03b5 \u03c4\u03bf \u03c5\u03c0\u03bf\u03c5\u03c1\u03b3\u03b5\u03af\u03bf \u0393\u03b5\u03c9\u03c1\u03b3\u03af\u03b1\u03c2 \u03c4\u03b7\u03c2 \u03c7\u03ce\u03c1\u03b1\u03c2, \u03c3\u03b7\u03bc\u03b5\u03b9\u03ce\u03bd\u03bf\u03bd\u03c4\u03b1\u03c2 \u03cc\u03c4\u03b9\u2026 \u03a0\u03bf\u03bb\u03c9\u03bd\u03af\u03b1: \u0388\u03ba\u03c4\u03b1\u03ba\u03c4\u03b1 \u03bc\u03ad\u03c4\u03c1\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b1\u03bd\u03c4\u03b9\u03bc\u03b5\u03c4\u03ce\u03c0\u03b9\u03c3\u03b7 \u03c4\u03b7\u03c2\u2026",
+      "url": "https://www.naftemporiki.gr/kosmos/1946429/polonia-ektakta-metra-gia-tin-antimetopisi-tis-exaplosis-tis-gripis-ton-ptinon/",
+      "urlToImage": "https://www.naftemporiki.gr/wp-content/uploads/2023/02/2023-02-15T095514Z_273477669_RC2ZAZ9AKYUQ_RTRMADP_3_HEALTH-BIRDFLU.jpg",
+      "publishedAt": "2025-04-17 16:08:10",
+      "content": ", , , , , . 79 (HPAI), 50 . . 13 , , , . . . , \u00ab\u00bb. : , AFP",
+      "retrievedAt": "2025-04-18 19:05:47.802285",
+      "internal_id": "d9601f6b702afbb27d878f10006b2255f46e7e186a0dfae3d441ae9803ee5aca",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 20501,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Nvidia.com",
+      "author": "Scott Martin",
+      "title": "AI Bites Back: Researchers Develop Model to Detect Malaria Amid Venezuelan Gold Rush",
+      "description": "Gold prospecting in Venezuela has led to a malaria resurgence, but researchers have developed AI to take a bite out of the problem. In Venezuela\u2019s Bolivar state, deforestation for gold mining in waters has disturbed mosquito populations, which are biting mine\u2026",
+      "url": "https://blogs.nvidia.com/blog/ai-researchers-malaria-venezuela/",
+      "urlToImage": "https://blogs.nvidia.com/wp-content/uploads/2025/04/Anopheles_stephensi.jpeg",
+      "publishedAt": "2025-04-17 16:00:01",
+      "content": "Gold prospecting in Venezuela has led to a malaria resurgence, but researchers have developed AI to take a bite out of the problem. In Venezuelas Bolivar state, deforestation for gold mining in wate\u2026 [+2997 chars]",
+      "retrievedAt": "2025-04-18 19:05:50.107830",
+      "internal_id": "cf575ec950ab47fdd73a47bbdc20292e33587030455c36ef46a236dfafbecee3",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 20494,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "MSP detect\u00f3 un caso de dengue aut\u00f3ctono en Paysand\u00fa y activ\u00f3 protocolo de respuesta",
+      "description": "El director del Cecoed, Fernando Gonz\u00e1lez, dijo que esto \u201cno afecta en nada\u201d el desarrollo de la Semana de la Cerveza en el departamento.",
+      "url": "https://www.montevideo.com.uy/Salud/MSP-detecto-un-caso-de-dengue-autoctono-en-Paysandu-y-activo-protocolo-de-respuesta-uc921078",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202402/_W933_80/871760.jpg",
+      "publishedAt": "2025-04-17 15:41:00",
+      "content": "Montevideo Portal El Ministerio de Salud P\u00fablica (MSP) confirm\u00f3 un caso de dengue aut\u00f3ctono en Paysand\u00fa. Se trata del primer caso aut\u00f3ctono identificado en el departamento en lo que va del a\u00f1o, s\u2026 [+1699 chars]",
+      "retrievedAt": "2025-04-18 19:05:48.965549",
+      "internal_id": "18912f8fd32b5fcf9a5903b915e0ef105cde5ffdd020f8dd19d18d42c7611e03",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 20483,
+      "query": [
+        "measles"
+      ],
+      "source_id": "wired",
+      "source_name": "Wired",
+      "author": "David Gilbert",
+      "title": "Anti-Vaxxers Are Grifting Off the Measles Outbreak\u2014and Claim a Bioweapon Caused It",
+      "description": "Activists affiliated with Robert F. Kennedy, Jr. are selling a \"measles treatment and prevention protocol\" for hundreds of dollars, including supplements supposedly formulated by AI.",
+      "url": "https://www.wired.com/story/antivax-grift-measles-crisis-bioweapon/",
+      "urlToImage": "https://media.wired.com/photos/68002f7a4050706800db9e58/191:100/w_1280,c_limit/Measles-Grifters-Politics.jpg",
+      "publishedAt": "2025-04-17 15:35:41",
+      "content": "CHD has also pushed the debunked claim that vitamin C offers protections against contracting measles. The groups website is currently promoting an ebook titled The Measles Book: Thirty-Five Secrets t\u2026 [+3230 chars]",
+      "retrievedAt": "2025-04-18 19:05:47.202651",
+      "internal_id": "fe3cbda751b5d5607548c18c9e1444fc70e293dcaed7d30f824c253e592926bd",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 20484,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Week Magazine",
+      "author": "theweekonlineeditors@futurenet.com (Theara Coleman, The Week US)",
+      "title": "The sneaking rise of whooping cough",
+      "description": "The measles outbreak isn't the only one to worry about",
+      "url": "https://theweek.com/health/sneaky-rise-of-whooping-cough",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/mBFxczxnLwyuSD4eqvhQ5M.jpg",
+      "publishedAt": "2025-04-17 14:35:33",
+      "content": "A measles outbreak has been keeping American health care professionals on their toes, but experts say we should also be wary of another preventable disease: whooping cough. This illness typically pre\u2026 [+4347 chars]",
+      "retrievedAt": "2025-04-18 19:05:47.246297",
+      "internal_id": "c3cd214e31d763530394e1a922352d040d7dce2f3fddefca07fbd5d0c0fb51d4",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 20505,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Amandine Payet-Junot, Consultante Recherche et d\u00e9veloppement en sciences sociales, Universit\u00e9 de la R\u00e9union, Pascale Chabanet, Directrice de recherche, sp\u00e9cialiste des r\u00e9cifs coralliens, Institut de recherche pour le d\u00e9veloppement (IRD), Valery Ridde, Directeur de recherche, Institut de recherche pour le d\u00e9veloppement (IRD)",
+      "title": "Covid, chikungunya : \u00e0 La R\u00e9union, une gestion des crises sanitaires entre h\u00e9ritages coloniaux et volont\u00e9 de participation citoyenne",
+      "description": "Emmanuel Macron se rendra sur l\u2019\u00eele de La R\u00e9union dans la semaine du 21 avril. Les crises sanitaires r\u00e9centes \u2013 Covid, chikungunya \u2013 ont \u00e9t\u00e9 g\u00e9r\u00e9es de fa\u00e7on verticale depuis Paris. Elles ont suscit\u00e9 m\u00e9fiance et col\u00e8re dans la population.",
+      "url": "https://theconversation.com/covid-chikungunya-a-la-reunion-une-gestion-des-crises-sanitaires-entre-heritages-coloniaux-et-volonte-de-participation-citoyenne-251018",
+      "urlToImage": "https://images.theconversation.com/files/662189/original/file-20250416-56-57lhpk.jpg?ixlib=rb-4.1.0&rect=0%2C988%2C7507%2C3742&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2025-04-17 14:27:20",
+      "content": "Emmanuel Macron se rendra sur l\u2019\u00eele de La R\u00e9union dans la semaine du 21 avril. Les crises sanitaires r\u00e9centes \u2013 Covid, chikungunya \u2013 ont signal\u00e9 l\u2019approche verticale et autoritaire du pouvoir hexagon\u2026 [+7807 chars]",
+      "retrievedAt": "2025-04-18 19:05:51.510400",
+      "internal_id": "fc3d830c37bdf6fc55653218b0c6a72081cb4a8726f84b2effda3b09703d3aec",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 20507,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": "UK Health Security Agency",
+      "title": "Policy paper: Mpox control and elimination: UK strategy 2025 to 2026",
+      "description": "How the UK plans to control and eliminate mpox over the next 12 months.",
+      "url": "https://www.gov.uk/government/publications/mpox-control-and-elimination-uk-strategy-2025-to-2026",
+      "urlToImage": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png",
+      "publishedAt": "2025-04-17 14:02:48",
+      "content": "We use some essential cookies to make this website work. Wed like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services. We also use coo\u2026 [+70 chars]",
+      "retrievedAt": "2025-04-18 19:05:51.853707",
+      "internal_id": "422730e0152ef518c872493d879c77e61cdb38a8c63613bf8605754f80d400f1",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 20495,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Edson J. Ascencio, Paloma M. Carcamo, Gabriel Carrasco-Escobar",
+      "title": "Rapid geographic expansion of local dengue community transmission in Peru",
+      "description": "",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013001",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013001.g001&size=inline",
+      "publishedAt": "2025-04-17 14:00:00",
+      "content": "Citation: Ascencio EJ, Carcamo PM, Carrasco-Escobar G (2025) Rapid geographic expansion of local dengue community transmission in Peru. PLoS Negl Trop Dis 19(4): e0013001. https://doi.org/10.1371/\u2026 [+7640 chars]",
+      "retrievedAt": "2025-04-18 19:05:48.974273",
+      "internal_id": "bb0bdbc7dc7d932daadc256cb8d11e43bbacb4fa0a93f3693553380cfe600e19",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 20497,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Kirstin Oliveira Roster, Tiago Martinelli, Colm Connaughton, Mauricio Santillana, Francisco A. Rodrigues",
+      "title": "Correction: Impact of the COVID-19 pandemic on dengue in Brazil: Interrupted time series analysis of changes in surveillance and transmission",
+      "description": "",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013030",
+      "urlToImage": null,
+      "publishedAt": "2025-04-17 14:00:00",
+      "content": "The following information is missing from the funding statement: This study was financed in part by the Coordena\u00e7\u00e3o de Aperfei\u00e7oamento de Pessoal de N\u00edvel Superior Brasil (CAPES) Finance Code 001. T\u2026 [+1468 chars]",
+      "retrievedAt": "2025-04-18 19:05:48.999770",
+      "internal_id": "4465a8b051f151fc19b574fec61f1f4b6bbc27cadbb675802f0a03a3b205e99c",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 20500,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Brendon Goh, Ricardo J. Soares Magalh\u00e3es, Silvia Ciocchetta, Wenjun Liu, Maggy T. Sikulu-Lord",
+      "title": "Identification of visible and near-infrared signature peaks for arboviruses and Plasmodium falciparum",
+      "description": "Arbovirus and malaria infections affect more than half of the world\u2019s population causing major financial and physical burden. Current diagnostic tools such as microscopy, molecular and serological techniques are technically demanding, costly, or time consumin\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0321362",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0321362.g004&size=inline",
+      "publishedAt": "2025-04-17 14:00:00",
+      "content": "Abstract Arbovirus and malaria infections affect more than half of the worlds population causing major financial and physical burden. Current diagnostic tools such as microscopy, molecular and serol\u2026 [+46653 chars]",
+      "retrievedAt": "2025-04-18 19:05:50.092331",
+      "internal_id": "f59ca3cf4cf7ef675622972d6fe40a722cdfcf765f182eabae3397af37aff3b6",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 20504,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "le-monde",
+      "source_name": "Le Monde",
+      "author": "Collectif",
+      "title": "\u00ab L\u2019acc\u00e9l\u00e9ration actuelle de l\u2019\u00e9pid\u00e9mie de chikungunya \u00e0 La R\u00e9union peut \u00e9voquer la flamb\u00e9e de 2006 \u00bb",
+      "description": "Le d\u00e9partement fran\u00e7ais d\u2019outre-mer fait face \u00e0 un regain de la maladie virale, qui pourrait engendrer une nouvelle crise sanitaire, estime un collectif d\u2019experts dans une tribune au \u00ab Monde \u00bb. Mais ils soulignent aussi que des le\u00e7ons ont \u00e9t\u00e9 tir\u00e9es du pass\u00e9 \u2026",
+      "url": "https://www.lemonde.fr/idees/article/2025/04/17/l-acceleration-actuelle-de-l-epidemie-de-chikungunya-a-la-reunion-peut-evoquer-la-flambee-de-2006_6596961_3232.html",
+      "urlToImage": "https://img.lemde.fr/2025/04/11/0/0/6000/4000/1440/960/60/0/c7f2955_ftp-import-images-1-v9iapwmknebl-5589500-01-06.jpg",
+      "publishedAt": "2025-04-17 13:00:11",
+      "content": "Il y a vingt ans, \u00e0 La R\u00e9union, l\u00e9pid\u00e9mie g\u00e9n\u00e9ralis\u00e9e de chikungunya de 2005-2006 a eu un impact m\u00e9dical, \u00e9conomique et social majeur, sans doute encore sous-\u00e9valu\u00e9 : 226 000 cas recens\u00e9s, soit 40 % \u2026 [+1845 chars]",
+      "retrievedAt": "2025-04-18 19:05:51.480599",
+      "internal_id": "a703cb3933d8c0777b43daa93435d62b6568791eeac9a605465197f6d0c566ff",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 20496,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "S\u00e3o Paulo registra 5\u00aa morte por dengue, e n\u00famero de distritos em epidemia quase triplica",
+      "description": "O Minist\u00e9rio da Sa\u00fade anunciou, em 8 de abril, que ir\u00e1 refor\u00e7ar a\u00e7\u00f5es contra a dengue em 80 munic\u00edpios mais atingidos pela doen\u00e7a. S\u00e3o Paulo est\u00e1 entre eles",
+      "url": "https://valor.globo.com/brasil/noticia/2025/04/17/sao-paulo-registra-5a-morte-por-dengue-e-numero-de-distritos-em-epidemia-quase-triplica.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/GPd6OLXbGJ_yluvoigkUKFOcLZ4=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2025/x/v/CHOQA6QYOjAVHv4PVUGg/pexels-pixabay-86722.jpg",
+      "publishedAt": "2025-04-17 12:21:34",
+      "content": "Cinco pessoas morreram de dengue em S\u00e3o Paulo, segundo o novo boletim epidemiol\u00f3gico de arboviroses da Secretaria Municipal da Sa\u00fade. O n\u00famero de distritos em epidemia da doen\u00e7a subiu de cinco para 1\u2026 [+3562 chars]",
+      "retrievedAt": "2025-04-18 19:05:48.983195",
+      "internal_id": "74be48ca3c09107ae3155f3eb98da6921e55ae731197eb8faaae04f677686aaf",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 20481,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "mlive.com",
+      "author": "Justin P. Hicks | Jhicks3@mlive.com",
+      "title": "Michigan sees 1,792% increase in whooping cough: What parents should know",
+      "description": "Doctors from three major health systems warn pertussis, also known as whooping cough, can cause severe coughing fits lasting months and can be fatal for infants who may stop breathing.",
+      "url": "https://www.mlive.com/news/2025/04/michigan-sees-1792-increase-in-whooping-cough-what-parents-should-know.html",
+      "urlToImage": "https://www.mlive.com/resizer/v2/WT6F6X243NA6PPFFB5T3G4HEWA.jpg?auth=95f0a83226984f7a0eedd3cea44b81baf212291f3ae6de7176d2e4f0cd65de04&width=1280&quality=90",
+      "publishedAt": "2025-04-17 11:32:25",
+      "content": "Another highly contagious vaccine-preventable illness is on the rise in Michigan as uptake for decades-old shots has declined in recent years. Pertussis, a respiratory illness also known as whoopin\u2026 [+5408 chars]",
+      "retrievedAt": "2025-04-18 19:05:45.941188",
+      "internal_id": "afb6c7a71476007b054ed863b64986b00f2168e5c52b25ead8cebbcf809a790a",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 20503,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "el-mundo",
+      "source_name": "El Mundo",
+      "author": "Redacci\u00f3n Salud (Corriere della Sera)",
+      "title": "Los nuevos f\u00e1rmacos esperados de la EMA para 2025: del Alzheimer a los anticancer\u00edgenos",
+      "description": "Se espera que la EMA apruebe 112 nuevos medicamentos, 57 de los cuales contienen nuevos principios activos. De ellos, 27 son para enfermedades raras. Nuevas vacunas contra la tosferina, el virus sincitial y el Chikungunya a la vista Leer",
+      "url": "https://www.elmundo.es/ciencia-y-salud/salud/2025/04/17/6800d8cdfc6c83ae548b45ad.html",
+      "urlToImage": "https://phantom-elmundo.uecdn.es/f8faa75f80aaa5aba787a48eb2ed18af/crop/2x0/3072x2047/resize/1200/f/webp/assets/multimedia/imagenes/2025/04/17/17448871526529.jpg",
+      "publishedAt": "2025-04-17 11:27:32",
+      "content": "Hay 112 nuevos medicamentos en evaluaci\u00f3n por la EMA con dictamen previsto para finales de a\u00f1o, seg\u00fan el informe Horizon Scanning 2025 que acaba de publicar AIFA. De los que est\u00e1n en evaluaci\u00f3n, 57 c\u2026 [+14066 chars]",
+      "retrievedAt": "2025-04-18 19:05:51.351337",
+      "internal_id": "e616e18d20a2f2f28e3f2cd14d75ce3ad722e199af191d69a4136ed045c7ec5b",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 20482,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": "wired",
+      "source_name": "Wired",
+      "author": "Emily Mullin",
+      "title": "Measles Cases Are Rising. Other Preventable Diseases Could Follow",
+      "description": "Amid an ongoing measles outbreak, the US is also facing a surge in pertussis, or whooping cough. As vaccine rates drop, other diseases could be next.",
+      "url": "https://www.wired.com/story/measles-cases-are-rising-other-diseases-could-follow/",
+      "urlToImage": "https://media.wired.com/photos/67f68080d9b5da27ebf1fad3/191:100/w_1280,c_limit/040925_Measles-Cases-Are-Rising.jpg",
+      "publishedAt": "2025-04-17 10:00:00",
+      "content": "As the United States grapples with rising measles cases and outbreaks in several states, another vaccine-preventable disease is quietly spreading throughout the country. This year, there have been a\u2026 [+3114 chars]",
+      "retrievedAt": "2025-04-18 19:05:45.970136",
+      "internal_id": "0a024fac00b65b16699537892364a317d04c1906302e552b7d7abe546087023a",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 20486,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Activistpost.com",
+      "author": "Editor",
+      "title": "Another Texas Child Dies after Recovering from Measles",
+      "description": "April 06, 2025 \u2013 Lubbock Texas, 6:00 PM EST Another Texas Child Dies a Tragic Death After Recovering from Measles A Licensed Texas Physician with significant experience successfully treating measles during the current outbreak is reporting a second tragic dea\u2026",
+      "url": "https://www.activistpost.com/another-texas-child-dies-after-recovering-from-measles/",
+      "urlToImage": null,
+      "publishedAt": "2025-04-17 10:00:00",
+      "content": "A Licensed Texas Physician with significant experience successfully treating measles during the current outbreak is reporting a second tragic death of a chronically ill child who had been previously \u2026 [+6327 chars]",
+      "retrievedAt": "2025-04-18 19:05:47.330569",
+      "internal_id": "0300d68a2f70d310c05400cb8123c0dc0114c1198b0540f71aeec5e704cd4525",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 20491,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Asharq.com",
+      "author": "\u0645\u062d\u0645\u062f \u0645\u0646\u0635\u0648\u0631",
+      "title": "\u062f\u0631\u0627\u0633\u0629: \u0644\u0642\u0627\u062d \u062a\u062c\u0631\u064a\u0628\u064a \u0645\u0636\u0627\u062f \u0644\u0625\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u0637\u064a\u0648\u0631 \u064a\u064f\u0638\u0647\u0631 \u0646\u062a\u0627\u0626\u062c \u0648\u0627\u0639\u062f\u0629",
+      "description": "\u0646\u062c\u062d \u0644\u0642\u0627\u062d \u062a\u062c\u0631\u064a\u0628\u064a \u0641\u064a \u062a\u0648\u0641\u064a\u0631 \u062d\u0645\u0627\u064a\u0629 \u0643\u0627\u0645\u0644\u0629 \u0644\u0644\u0641\u0626\u0631\u0627\u0646 \u0636\u062f \u0633\u0644\u0627\u0644\u0629 \u062e\u0637\u064a\u0631\u0629 \u0645\u0646 \u0641\u064a\u0631\u0648\u0633 \u0625\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u0637\u064a\u0648\u0631.",
+      "url": "https://asharq.com/health/122930/%D8%AF%D8%B1%D8%A7%D8%B3%D8%A9-%D9%84%D9%82%D8%A7%D8%AD-%D8%AA%D8%AC%D8%B1%D9%8A%D8%A8%D9%8A-%D9%85%D8%B6%D8%A7%D8%AF-%D9%84%D8%A5%D9%86%D9%81%D9%84%D9%88%D9%86%D8%B2%D8%A7-%D8%A7%D9%84%D8%B7%D9%8A%D9%88%D8%B1/",
+      "urlToImage": "https://assets-news.asharq.com/images/articles/1200x630/social-image/45UHQHo62W_1744879487.jpg",
+      "publishedAt": "2025-04-17 09:28:30",
+      "content": "\"\" H5N1 2.3.4.4b . (CoPoP) \"\" . \"\" (H5) \"\" (N1) . . . 2.3.4.4b 3 . H5 (100%) . N1 70% H5 N1 H5 H5 \"\" N1 \"\" . N1 . . . . H5N1 2.3.4.4b . . .",
+      "retrievedAt": "2025-04-18 19:05:48.303225",
+      "internal_id": "919428c973164f7b819f624eb91c5f5d26f5d874891107011cec74789b6beedf",
+      "publishedAtLabel": "Apr 17"
+    },
     {
       "id": 20478,
       "query": [
@@ -29065,78 +29569,6 @@
       "content": "Leading vaccine critic Robert F. Kennedy Jr., who has been dismissive of the measles outbreak in Texas, now says that the spread needs to be stopped and that the federal response will include vaccina\u2026 [+1515 chars]",
       "retrievedAt": "2025-03-04 07:06:58.118294",
       "internal_id": "91826f6474fd7953762a3128962905d7045c31e093ae4b37535311dba6301da7",
-      "publishedAtLabel": "Mar 2"
-    },
-    {
-      "id": 18858,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Memeorandum.com",
-      "author": null,
-      "title": "Taking shots at vaccines has deadly consequences (Glenn C. Altschuler/The Hill)",
-      "description": "Glenn C. Altschuler / The Hill: Taking shots at vaccines has deadly consequences \u2014 Public health authorities reported on Feb. 21 that an ongoing measles outbreak in Gaines County, Texas and Lea County, New Mexico was already the largest in decades. Of the \u2026",
-      "url": "https://www.memeorandum.com/250302/p12",
-      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2025/02/AP25058597447123-e1740780617390.jpg?w=1280",
-      "publishedAt": "2025-03-02 14:45:00",
-      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
-      "retrievedAt": "2025-03-03 19:05:53.852045",
-      "internal_id": "c7a065728afda105f6cda7600f3f60a9c1e4cea233eb5cb1d18e3627d70d7fa9",
-      "publishedAtLabel": "Mar 2"
-    },
-    {
-      "id": 18859,
-      "query": [
-        "hpai"
-      ],
-      "source_id": null,
-      "source_name": "Businessinsider.com.pl",
-      "author": null,
-      "title": "Puste p\u00f3\u0142ki w USA. Polski potentat jaj: problemy te\u017c w Polsce, ceny p\u00f3jd\u0105 w g\u00f3r\u0119",
-      "description": "Tylko w ci\u0105gu ostatnich pi\u0119ciu miesi\u0119cy w wyniku walki z HPAI, straty w pog\u0142owiu kur nie\u015bnych w naszym kraju wynios\u0142y oko\u0142o 6 mln. \u2014 Tak du\u017ca redukcja potencja\u0142u produkcyjnego nie mo\u017ce pozosta\u0107 bez konsekwencji dla cen detalicznych \u2014 m\u00f3wi ekspertka. To oznacz\u2026",
-      "url": "https://businessinsider.com.pl/finanse/handel/puste-polki-w-usa-polski-potentat-jaj-problemy-tez-w-polsce-ceny-pojda-w-gore/m8sdxpe",
-      "urlToImage": "https://ocdn.eu/pulscms-transforms/1/COtk9kpTURBXy9kODY3NTllNzZjNjI1MWFmOGFiNGE2NDAyOWFlOWMxNC5qcGeSlQMAzHbNB9DNBGWTBc0EsM0Cdt4AAaEwAQ",
-      "publishedAt": "2025-03-02 13:22:43",
-      "content": "Sytuacja robi si coraz bardziej powana. W Stanach Zjednoczonych p\u00f3ki z jajami wiec pustkami, a gdy produkty ju si na nich pojawi, osigaj zawrotne ceny. Wszystko przez szalejcy wirus HPAI, kt\u00f3ry tylko\u2026 [+6028 chars]",
-      "retrievedAt": "2025-03-03 19:05:54.013022",
-      "internal_id": "413d55005a4ade7698a4d7f9b3983c2f633ce8ff4f75b01142bd9ca90bcbeab6",
-      "publishedAtLabel": "Mar 2"
-    },
-    {
-      "id": 18861,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "Agency",
-      "title": "Giving an old malaria drug new life",
-      "description": "Scientists are redesigning an existing malaria medicine to make it last longer in the body.",
-      "url": "https://www.thestar.com.my/lifestyle/health/2025/03/02/giving-an-old-malaria-drug-new-life",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/02/28/3190130.jpg",
-      "publishedAt": "2025-03-02 12:51:31",
-      "content": "A new clinical trial from Scripps Research in La Jolla, California, United States, aims to make significant gains in the global fight against malaria by making a drug that has been around since the 1\u2026 [+3088 chars]",
-      "retrievedAt": "2025-03-03 19:05:55.477086",
-      "internal_id": "9e97bf16d4b07eb43a29f5729ca52ff237404627bb2b6ceeaf5608dfc5ecca15",
-      "publishedAtLabel": "Mar 2"
-    },
-    {
-      "id": 18860,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Jornada.com.mx",
-      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "title": "Ssa: este a\u00f1o, mil 781 casos de dengue y cero muertes",
-      "description": "La Secretar\u00eda de Salud (Ssa) report\u00f3 que en lo que va del a\u00f1o se han confirmado mil 781 casos de dengue, de los cuales 53.7 por ciento son contagios con signos de alarma y al menos otros 66 casos corresponden al tipo grave o hemorr\u00e1gico.",
-      "url": "https://www.jornada.com.mx/2025/03/02/sociedad/027n1soc",
-      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "publishedAt": "2025-03-02 09:02:36",
-      "content": "Peri\u00f3dico La JornadaDomingo 2 de marzo de 2025, p. 27 La Secretar\u00eda de Salud (Ssa) report\u00f3 que en lo que va del a\u00f1o se han confirmado mil 781 casos de dengue, de los cuales 53.7 por ciento son conta\u2026 [+1682 chars]",
-      "retrievedAt": "2025-03-03 19:05:54.725898",
-      "internal_id": "f5f305794e31b3fddf0cfa86e8d50d0f58d2f1633ca054d9a64f05cabfc42835",
       "publishedAtLabel": "Mar 2"
     }
   ]

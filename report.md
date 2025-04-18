@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 10
-- **Last harvest:** 2025-04-18 07:07
-- **Most recent article:** 2025-04-17 04:33:59
+- **New articles in last harvest:** 28
+- **Last harvest:** 2025-04-18 19:05
+- **Most recent article:** 2025-04-17 18:56:37
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-10 | 25-11 | 25-12 | 25-13 | 25-14 | 25-15 | 25-16 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 141 | 133 | 108 | 101 | 77 | 145 | 40 | 745 |
-| h5n1 | 20 | 39 | 57 | 47 | 46 | 66 | 7 | 282 |
-| malaria | 26 | 22 | 18 | 30 | 13 | 10 | 11 | 130 |
-| dengue | 8 | 12 | 18 | 20 | 14 | 24 | 13 | 109 |
-| chikungunya | 6 | 1 | 17 | 10 | 17 | 15 | 32 | 98 |
-| mpox | 13 | 15 | 8 | 12 | 17 | 18 | 7 | 90 |
-| meningitis | 4 | 9 | 7 | 10 | 6 | 10 | 7 | 53 |
+| measles | 140 | 133 | 108 | 101 | 77 | 145 | 46 | 750 |
+| h5n1 | 20 | 39 | 57 | 47 | 46 | 66 | 8 | 283 |
+| malaria | 25 | 22 | 18 | 30 | 13 | 10 | 13 | 131 |
+| dengue | 7 | 12 | 18 | 20 | 14 | 24 | 19 | 114 |
+| chikungunya | 6 | 1 | 17 | 10 | 17 | 15 | 35 | 101 |
+| mpox | 13 | 15 | 8 | 12 | 17 | 18 | 9 | 92 |
+| meningitis | 4 | 9 | 7 | 10 | 6 | 10 | 9 | 55 |
 | rabies | 3 | 8 | 3 | 19 | 7 | 7 | 0 | 47 |
-| hpai | 8 | 3 | 12 | 2 | 4 | 3 | 2 | 34 |
-| zika | 3 | 0 | 2 | 3 | 4 | 7 | 6 | 25 |
-| typhoid | 3 | 8 | 0 | 1 | 2 | 2 | 2 | 18 |
-| pertussis | 0 | 5 | 1 | 0 | 7 | 2 | 2 | 17 |
+| hpai | 7 | 3 | 12 | 2 | 4 | 3 | 4 | 35 |
+| zika | 3 | 0 | 2 | 3 | 4 | 7 | 7 | 26 |
+| typhoid | 3 | 8 | 0 | 1 | 2 | 2 | 3 | 19 |
+| pertussis | 0 | 5 | 1 | 0 | 7 | 2 | 4 | 19 |
 | yersinia | 1 | 2 | 2 | 3 | 0 | 0 | 0 | 8 |
 | leptospirosis | 3 | 0 | 1 | 0 | 0 | 0 | 1 | 5 |
 | shigellosis | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 3 |
@@ -34,6 +34,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 25-16 (zika)
+
+- [Senadora articula derrubada de veto a pensão para vítimas do zika](https://veja.abril.com.br/coluna/radar/senadora-articula-derrubada-de-veto-a-pensao-para-vitimas-do-zika/) (Abril.com.br)
 
 - [Moustique-tigre dans « Le Monde », du statut de danger exotique à celui de péril de voisinage](https://www.lemonde.fr/m-le-mag/article/2025/04/16/moustique-tigre-dans-le-monde-du-statut-de-danger-exotique-a-celui-de-peril-de-voisinage_6596642_4500055.html) (Le Monde)
 
@@ -49,17 +51,27 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-16 (typhoid)
 
+- [Typhoid Fever Vaccines Market to Hit $884.8 Mn, Globally, by 2030 at 12.2% CAGR: Coherent Market Insights](https://www.globenewswire.com/news-release/2025/04/17/3063755/0/en/Typhoid-Fever-Vaccines-Market-to-Hit-884-8-Mn-Globally-by-2030-at-12-2-CAGR-Coherent-Market-Insights.html) (GlobeNewswire)
+
 - [Why Typhoid Trump and COVID are so similar](https://www.smh.com.au/business/markets/why-typhoid-trump-and-covid-are-so-similar-20250416-p5ls6h.html) (The Sydney Morning Herald)
 
 - [Treating malaria, typhoid 10 times yearly could signal serious health condition – Expert](https://punchng.com/treating-malaria-typhoid-10-times-yearly-could-signal-serious-health-condition-expert/) (The Punch)
 
 ## 25-16 (pertussis)
 
+- [Michigan sees 1,792% increase in whooping cough: What parents should know](https://www.mlive.com/news/2025/04/michigan-sees-1792-increase-in-whooping-cough-what-parents-should-know.html) (mlive.com)
+
+- [Measles Cases Are Rising. Other Preventable Diseases Could Follow](https://www.wired.com/story/measles-cases-are-rising-other-diseases-could-follow/) (Wired)
+
 - ['It's Not Just Measles.' Whooping Cough Cases Spike](https://www.newser.com/story/367039/its-not-just-measles-whooping-cough-cases-spike.html) (Newser)
 
 - [Whooping Cough Spreads Across Japan](https://newsonjapan.com/article/145395.php) (Newsonjapan.com)
 
 ## 25-16 (mpox)
+
+- [Zambia confirms second mpox death as cases rise to 49](https://www.thestar.com.my/news/world/2025/04/18/zambia-confirms-second-mpox-death-as-cases-rise-to-49) (The Star Online)
+
+- [Policy paper: Mpox control and elimination: UK strategy 2025 to 2026](https://www.gov.uk/government/publications/mpox-control-and-elimination-uk-strategy-2025-to-2026) (Www.gov.uk)
 
 - [Mpox: Ein Affenbaby stirbt – und eine außergewöhnliche Spurensuche beginnt](https://www.spektrum.de/news/mpox-ein-affenbaby-stirbt-und-eine-spurensuche-beginnt/2262185) (Spektrum.de)
 
@@ -77,6 +89,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-16 (meningitis)
 
+- [Mariajo y su ADV](https://www.ascodevida.com/estudios/648609) (Ascodevida.com)
+
+- [Hajj 2025: NAHCON flags off vaccination of intending pilgrims in FCT](https://www.premiumtimesng.com/news/more-news/788660-hajj-2025-nahcon-flags-off-vaccination-of-intending-pilgrims-in-fct.html) (Premium Times)
+
 - [Jelang Pelaksanaan Haji 2025, Vaksinasi Meningitis dan Polio Jadi Syarat Wajib](https://www.liputan6.com/health/read/5997405/jelang-pelaksanaan-haji-2025-vaksinasi-meningitis-dan-polio-jadi-syarat-wajib) (Liputan6.com)
 
 - [Experts make new recommendations on RSV and meningitis vaccines, but it's unclear what happens next](https://japantoday.com/category/world/experts-make-new-recommendations-on-rsv-and-meningitis-vaccines-but-it%27s-unclear-what-happens-next) (Japan Today)
@@ -92,6 +108,18 @@ Source: [News API](https://newsapi.org/)
 - [Stockton girl's meningitis leads to quadruple amputation](https://www.bbc.co.uk/news/articles/cx2vv81k2k1o) (BBC News)
 
 ## 25-16 (measles)
+
+- [When Measles Was Endemic](https://www.theatlantic.com/newsletters/archive/2025/04/measles-vaccine-endemic-outbreak-texas/682499/) (The Atlantic)
+
+- [Ontario reports over 100 new measles cases, bringing total to 925](https://www.cbc.ca/news/canada/toronto/ontario-100-new-measles-cases-outbreak-1.7513057) (CBC News)
+
+- [Anti-Vaxxers Are Grifting Off the Measles Outbreak--and Claim a Bioweapon Caused It (David Gilbert/Wired)](https://www.memeorandum.com/250417/p66) (Memeorandum.com)
+
+- [Anti-Vaxxers Are Grifting Off the Measles Outbreak—and Claim a Bioweapon Caused It](https://www.wired.com/story/antivax-grift-measles-crisis-bioweapon/) (Wired)
+
+- [The sneaking rise of whooping cough](https://theweek.com/health/sneaky-rise-of-whooping-cough) (The Week Magazine)
+
+- [Another Texas Child Dies after Recovering from Measles](https://www.activistpost.com/another-texas-child-dies-after-recovering-from-measles/) (Activistpost.com)
 
 - [CDC 'scraping' to find resources to help states respond to growing measles outbreaks (Nathaniel Weixel/The Hill)](https://www.memeorandum.com/250416/p128) (Memeorandum.com)
 
@@ -175,6 +203,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-16 (malaria)
 
+- [AI Bites Back: Researchers Develop Model to Detect Malaria Amid Venezuelan Gold Rush](https://blogs.nvidia.com/blog/ai-researchers-malaria-venezuela/) (Nvidia.com)
+
+- [Identification of visible and near-infrared signature peaks for arboviruses and Plasmodium falciparum](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0321362) (Plos.org)
+
 - [South Africa's health department urges vigilance amid rising malaria cases](https://www.thestar.com.my/news/world/2025/04/17/south-africa039s-health-department-urges-vigilance-amid-rising-malaria-cases) (The Star Online)
 
 - [USAID cuts rip through African health care systems](https://www.japantimes.co.jp/news/2025/04/16/world/science-health/usaid-african-health-care/) (The Japan Times)
@@ -203,11 +235,17 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-16 (hpai)
 
+- [Έκτακτα μέτρα στην Πολωνία για τη Γρίπη των Πτηνών](https://www.skai.gr/news/world/polonia-ektakta-metra-gia-ti-gripi-ton-ptinon) (Skai.gr)
+
+- [Πολωνία: Έκτακτα μέτρα για την αντιμετώπιση της εξάπλωσης της γρίπης των πτηνών](https://www.naftemporiki.gr/kosmos/1946429/polonia-ektakta-metra-gia-tin-antimetopisi-tis-exaplosis-tis-gripis-ton-ptinon/) (Naftemporiki.gr)
+
 - [HPから賢いラップトップ、お求めやすい値段で登場です](https://www.gizmodo.jp/2025/04/hp-omnibook-x-flip-14-ai-pc.html) (Gizmodo.jp)
 
 - [Safety and Immunogenicity of Poultry Vaccine for Protecting Critically Endangered Avian Species against Highly Pathogenic Avian Influenza Virus, United States](https://wwwnc.cdc.gov/eid/article/31/6/24-1558_article) (Cdc.gov)
 
 ## 25-16 (h5n1)
+
+- [دراسة: لقاح تجريبي مضاد لإنفلونزا الطيور يُظهر نتائج واعدة](https://asharq.com/health/122930/%D8%AF%D8%B1%D8%A7%D8%B3%D8%A9-%D9%84%D9%82%D8%A7%D8%AD-%D8%AA%D8%AC%D8%B1%D9%8A%D8%A8%D9%8A-%D9%85%D8%B6%D8%A7%D8%AF-%D9%84%D8%A5%D9%86%D9%81%D9%84%D9%88%D9%86%D8%B2%D8%A7-%D8%A7%D9%84%D8%B7%D9%8A%D9%88%D8%B1/) (Asharq.com)
 
 - [First Human Case Of H5N1 Bird Flu Reported In Mexico](https://www.activistpost.com/first-human-case-of-h5n1-bird-flu-reported-in-mexico/) (Activistpost.com)
 
@@ -224,6 +262,18 @@ Source: [News API](https://newsapi.org/)
 - [آنفلوآنزای پرندگان در برابر آنفلوآنزای معمولی: تفاوت‌های کلیدی این دو بیماری چیست؟](https://www.entekhab.ir/fa/news/860695/آنفلوآنزای-پرندگان-در-برابر-آنفلوآنزای-معمولی-تفاوت‌های-کلیدی-این-دو-بیماری-چیست) (Entekhab.ir)
 
 ## 25-16 (dengue)
+
+- [Cidade de São Paulo chega a 5 mortes por dengue em 2025; casos confirmados passam de 30 mil](https://www.terra.com.br/vida-e-estilo/saude/cidade-de-sao-paulo-chega-a-5-mortes-por-dengue-em-2025-casos-confirmados-passam-de-30-mil,dbb1d32ba415b6ff13746f7841dd83c0mfjuy36d.html) (Terra.com.br)
+
+- [Brasil ultrapassa 1 milhão de casos prováveis de dengue em 2025](https://www.infomoney.com.br/saude/brasil-ultrapassa-1-milhao-de-casos-provaveis-de-dengue-em-2025/) (InfoMoney)
+
+- [MSP detectó un caso de dengue autóctono en Paysandú y activó protocolo de respuesta](https://www.montevideo.com.uy/Salud/MSP-detecto-un-caso-de-dengue-autoctono-en-Paysandu-y-activo-protocolo-de-respuesta-uc921078) (Montevideo.com.uy)
+
+- [Rapid geographic expansion of local dengue community transmission in Peru](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013001) (Plos.org)
+
+- [Correction: Impact of the COVID-19 pandemic on dengue in Brazil: Interrupted time series analysis of changes in surveillance and transmission](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013030) (Plos.org)
+
+- [São Paulo registra 5ª morte por dengue, e número de distritos em epidemia quase triplica](https://valor.globo.com/brasil/noticia/2025/04/17/sao-paulo-registra-5a-morte-por-dengue-e-numero-de-distritos-em-epidemia-quase-triplica.ghtml) (Globo)
 
 - [Tempero acaba com as moscas em casa e afasta o mosquito da dengue](https://www.metropoles.com/vida-e-estilo/tempero-acaba-com-as-moscas-em-casa-e-afasta-o-mosquito-da-dengue) (Metropoles.com)
 
@@ -252,6 +302,12 @@ Source: [News API](https://newsapi.org/)
 - [Maintain clean surrounding, health authorities urge](https://www.fijitimes.com.fj/maintain-clean-surrounding-health-authorities-urge/) (Fijitimes.com.fj)
 
 ## 25-16 (chikungunya)
+
+- [Covid, chikungunya : à La Réunion, une gestion des crises sanitaires entre héritages coloniaux et volonté de participation citoyenne](https://theconversation.com/covid-chikungunya-a-la-reunion-une-gestion-des-crises-sanitaires-entre-heritages-coloniaux-et-volonte-de-participation-citoyenne-251018) (The Conversation Africa)
+
+- [« L’accélération actuelle de l’épidémie de chikungunya à La Réunion peut évoquer la flambée de 2006 »](https://www.lemonde.fr/idees/article/2025/04/17/l-acceleration-actuelle-de-l-epidemie-de-chikungunya-a-la-reunion-peut-evoquer-la-flambee-de-2006_6596961_3232.html) (Le Monde)
+
+- [Los nuevos fármacos esperados de la EMA para 2025: del Alzheimer a los anticancerígenos](https://www.elmundo.es/ciencia-y-salud/salud/2025/04/17/6800d8cdfc6c83ae548b45ad.html) (El Mundo)
 
 - [Seks døde med myggebåren sygdom på fransk tropeø](https://politiken.dk/internationalt/art10380525/Seks-d%C3%B8de-med-myggeb%C3%A5ren-sygdom-p%C3%A5-fransk-trope%C3%B8) (Politiken.dk)
 
@@ -3379,8 +3435,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Stopping Measles Outbreak Is 'a Top Priority,' Kennedy Says](https://www.newser.com/story/365052/stopping-measles-outbreak-is-a-top-priority-kennedy-says.html) (Newser)
 
-- [Taking shots at vaccines has deadly consequences (Glenn C. Altschuler/The Hill)](https://www.memeorandum.com/250302/p12) (Memeorandum.com)
-
 ## 25-10 (malaria)
 
 - [Ministry of Health to Issue Antimalarial Medicines in Turkana Starting June](https://www.kenyans.co.ke/news/109743-ministry-health-issue-antimalarial-medicines-turkana-starting-june) (Kenyans.co.ke)
@@ -3433,8 +3487,6 @@ Source: [News API](https://newsapi.org/)
 
 - [U.S.A.I.D. Memos Detail Human Costs of Cuts to Foreign Aid (Apoorva Mandavilli/New York Times)](https://www.memeorandum.com/250302/p101) (Memeorandum.com)
 
-- [Giving an old malaria drug new life](https://www.thestar.com.my/lifestyle/health/2025/03/02/giving-an-old-malaria-drug-new-life) (The Star Online)
-
 ## 25-10 (leptospirosis)
 
 - [Into the spotlight: A spatial study of potentially underreported leptospirosis among dengue-negative patients in São Paulo city, Brazil](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012888) (Plos.org)
@@ -3458,8 +3510,6 @@ Source: [News API](https://newsapi.org/)
 - [Raw cat food recalled after state testing finds contamination with bird flu](https://www.foodsafetynews.com/2025/03/raw-cat-food-recalled-after-state-testing-finds-contamination-with-bird-flu/) (Food Safety News)
 
 - [Animal Ag News 3/3](https://agwired.com/2025/03/03/animal-ag-news-3-3/) (AgWired)
-
-- [Puste półki w USA. Polski potentat jaj: problemy też w Polsce, ceny pójdą w górę](https://businessinsider.com.pl/finanse/handel/puste-polki-w-usa-polski-potentat-jaj-problemy-tez-w-polsce-ceny-pojda-w-gore/m8sdxpe) (Businessinsider.com.pl)
 
 ## 25-10 (h5n1)
 
@@ -3518,8 +3568,6 @@ Source: [News API](https://newsapi.org/)
 - [Terratis se renforce dans sa lutte contre le moustique tigre](https://objectif-languedoc-roussillon.latribune.fr/innovation/2025-03-03/terratis-se-renforce-dans-sa-lutte-contre-le-moustique-tigre-1019699.html) (La Tribune.fr)
 
 - [Brumbies flanker Tualima diagnosed with dengue fever](https://www.bbc.com/sport/rugby-union/articles/cgl0e67r6dyo) (BBC News)
-
-- [Ssa: este año, mil 781 casos de dengue y cero muertes](https://www.jornada.com.mx/2025/03/02/sociedad/027n1soc) (Jornada.com.mx)
 
 ## 25-10 (chikungunya)
 
