@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 28
-- **Last harvest:** 2025-04-18 19:05
-- **Most recent article:** 2025-04-17 18:56:37
+- **New articles in last harvest:** 9
+- **Last harvest:** 2025-04-19 07:06
+- **Most recent article:** 2025-04-18 04:00:00
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-10 | 25-11 | 25-12 | 25-13 | 25-14 | 25-15 | 25-16 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 140 | 133 | 108 | 101 | 77 | 145 | 46 | 750 |
+| measles | 141 | 133 | 108 | 101 | 77 | 145 | 50 | 755 |
 | h5n1 | 20 | 39 | 57 | 47 | 46 | 66 | 8 | 283 |
-| malaria | 25 | 22 | 18 | 30 | 13 | 10 | 13 | 131 |
-| dengue | 7 | 12 | 18 | 20 | 14 | 24 | 19 | 114 |
+| malaria | 26 | 22 | 18 | 30 | 13 | 10 | 13 | 132 |
+| dengue | 8 | 12 | 18 | 20 | 14 | 24 | 23 | 119 |
 | chikungunya | 6 | 1 | 17 | 10 | 17 | 15 | 35 | 101 |
 | mpox | 13 | 15 | 8 | 12 | 17 | 18 | 9 | 92 |
 | meningitis | 4 | 9 | 7 | 10 | 6 | 10 | 9 | 55 |
 | rabies | 3 | 8 | 3 | 19 | 7 | 7 | 0 | 47 |
-| hpai | 7 | 3 | 12 | 2 | 4 | 3 | 4 | 35 |
+| hpai | 8 | 3 | 12 | 2 | 4 | 3 | 4 | 36 |
 | zika | 3 | 0 | 2 | 3 | 4 | 7 | 7 | 26 |
+| pertussis | 0 | 5 | 1 | 0 | 7 | 2 | 5 | 20 |
 | typhoid | 3 | 8 | 0 | 1 | 2 | 2 | 3 | 19 |
-| pertussis | 0 | 5 | 1 | 0 | 7 | 2 | 4 | 19 |
 | yersinia | 1 | 2 | 2 | 3 | 0 | 0 | 0 | 8 |
 | leptospirosis | 3 | 0 | 1 | 0 | 0 | 0 | 1 | 5 |
 | shigellosis | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 3 |
@@ -58,6 +58,8 @@ Source: [News API](https://newsapi.org/)
 - [Treating malaria, typhoid 10 times yearly could signal serious health condition – Expert](https://punchng.com/treating-malaria-typhoid-10-times-yearly-could-signal-serious-health-condition-expert/) (The Punch)
 
 ## 25-16 (pertussis)
+
+- [Health officials confirm cases of whooping cough at two county schools](https://www.carolinacoastonline.com/article_f25a25ce-99ef-474a-8fda-07e5a01aa66d.html) (Carolinacoastonline.com)
 
 - [Michigan sees 1,792% increase in whooping cough: What parents should know](https://www.mlive.com/news/2025/04/michigan-sees-1792-increase-in-whooping-cough-what-parents-should-know.html) (mlive.com)
 
@@ -108,6 +110,14 @@ Source: [News API](https://newsapi.org/)
 - [Stockton girl's meningitis leads to quadruple amputation](https://www.bbc.co.uk/news/articles/cx2vv81k2k1o) (BBC News)
 
 ## 25-16 (measles)
+
+- [Alberta appoints interim chief medical officer of health as province grapples with measles outbreaks](https://www.cbc.ca/news/canada/calgary/alberta-appoints-interim-chief-medical-officer-of-health-as-province-grapples-with-measles-outbreaks-1.7513843) (CBC News)
+
+- [CDC scraps plan to help Texas schools curb measles over layoffs, employee says](https://www.cbsnews.com/news/cdc-scraps-plan-to-help-texas-schools-curb-measles-more-layoffs-loom/) (CBS News)
+
+- [Family quarantined as Gallatin County reports first suspected measles case](https://www.bozemandailychronicle.com/news/measles-gallatin-county-suspected-measles-case-measles-outbreak-montana-usa/article_a5930de8-f104-415c-be3e-8e085369c9bc.html) (The Bozeman Daily Chronicle)
+
+- [Michigan reports first confirmed measles outbreak since 2019](https://abcnews.go.com/Health/michigan-reports-confirmed-measles-outbreak-2019/story?id=120920799) (ABC News)
 
 - [When Measles Was Endemic](https://www.theatlantic.com/newsletters/archive/2025/04/measles-vaccine-endemic-outbreak-texas/682499/) (The Atlantic)
 
@@ -262,6 +272,14 @@ Source: [News API](https://newsapi.org/)
 - [آنفلوآنزای پرندگان در برابر آنفلوآنزای معمولی: تفاوت‌های کلیدی این دو بیماری چیست؟](https://www.entekhab.ir/fa/news/860695/آنفلوآنزای-پرندگان-در-برابر-آنفلوآنزای-معمولی-تفاوت‌های-کلیدی-این-دو-بیماری-چیست) (Entekhab.ir)
 
 ## 25-16 (dengue)
+
+- [Boy, 12, dies of dengue fever in Auckland after contracting disease in Samoa](https://www.nzherald.co.nz/talanoa/boy-12-dies-of-dengue-fever-in-auckland-after-contracting-disease-in-samoa/O7X5I2LBQZG3VE7OIFEDJ6IYCM/) (New Zealand Herald)
+
+- [¡Que no te pique! Confirman más de 2 mil 900 casos de dengue](https://www.sopitas.com/noticias/confirman-mas-2-mil-900-casos-dengue-mexico/) (Sopitas.com)
+
+- [Cidade de SP registra quinta morte por dengue neste ano](https://www.metropoles.com/sao-paulo/cidade-de-sp-registra-quinta-morte-por-dengue-neste-ano) (Metropoles.com)
+
+- [Cidade de SP chega a 5 mortes por dengue em 2025; casos confirmados passam de 30 mil](https://www.infomoney.com.br/saude/cidade-de-sp-chega-a-5-mortes-por-dengue-em-2025-casos-confirmados-passam-de-30-mil/) (InfoMoney)
 
 - [Cidade de São Paulo chega a 5 mortes por dengue em 2025; casos confirmados passam de 30 mil](https://www.terra.com.br/vida-e-estilo/saude/cidade-de-sao-paulo-chega-a-5-mortes-por-dengue-em-2025-casos-confirmados-passam-de-30-mil,dbb1d32ba415b6ff13746f7841dd83c0mfjuy36d.html) (Terra.com.br)
 
@@ -3435,6 +3453,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Stopping Measles Outbreak Is 'a Top Priority,' Kennedy Says](https://www.newser.com/story/365052/stopping-measles-outbreak-is-a-top-priority-kennedy-says.html) (Newser)
 
+- [Taking shots at vaccines has deadly consequences (Glenn C. Altschuler/The Hill)](https://www.memeorandum.com/250302/p12) (Memeorandum.com)
+
 ## 25-10 (malaria)
 
 - [Ministry of Health to Issue Antimalarial Medicines in Turkana Starting June](https://www.kenyans.co.ke/news/109743-ministry-health-issue-antimalarial-medicines-turkana-starting-june) (Kenyans.co.ke)
@@ -3487,6 +3507,8 @@ Source: [News API](https://newsapi.org/)
 
 - [U.S.A.I.D. Memos Detail Human Costs of Cuts to Foreign Aid (Apoorva Mandavilli/New York Times)](https://www.memeorandum.com/250302/p101) (Memeorandum.com)
 
+- [Giving an old malaria drug new life](https://www.thestar.com.my/lifestyle/health/2025/03/02/giving-an-old-malaria-drug-new-life) (The Star Online)
+
 ## 25-10 (leptospirosis)
 
 - [Into the spotlight: A spatial study of potentially underreported leptospirosis among dengue-negative patients in São Paulo city, Brazil](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012888) (Plos.org)
@@ -3510,6 +3532,8 @@ Source: [News API](https://newsapi.org/)
 - [Raw cat food recalled after state testing finds contamination with bird flu](https://www.foodsafetynews.com/2025/03/raw-cat-food-recalled-after-state-testing-finds-contamination-with-bird-flu/) (Food Safety News)
 
 - [Animal Ag News 3/3](https://agwired.com/2025/03/03/animal-ag-news-3-3/) (AgWired)
+
+- [Puste półki w USA. Polski potentat jaj: problemy też w Polsce, ceny pójdą w górę](https://businessinsider.com.pl/finanse/handel/puste-polki-w-usa-polski-potentat-jaj-problemy-tez-w-polsce-ceny-pojda-w-gore/m8sdxpe) (Businessinsider.com.pl)
 
 ## 25-10 (h5n1)
 
@@ -3568,6 +3592,8 @@ Source: [News API](https://newsapi.org/)
 - [Terratis se renforce dans sa lutte contre le moustique tigre](https://objectif-languedoc-roussillon.latribune.fr/innovation/2025-03-03/terratis-se-renforce-dans-sa-lutte-contre-le-moustique-tigre-1019699.html) (La Tribune.fr)
 
 - [Brumbies flanker Tualima diagnosed with dengue fever](https://www.bbc.com/sport/rugby-union/articles/cgl0e67r6dyo) (BBC News)
+
+- [Ssa: este año, mil 781 casos de dengue y cero muertes](https://www.jornada.com.mx/2025/03/02/sociedad/027n1soc) (Jornada.com.mx)
 
 ## 25-10 (chikungunya)
 

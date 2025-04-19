@@ -1,8 +1,170 @@
 {
-  "last_updated": "2025-04-18 19:05",
-  "count_articles_total": 1640,
-  "count_articles_new": 28,
+  "last_updated": "2025-04-19 07:06",
+  "count_articles_total": 1653,
+  "count_articles_new": 9,
   "articles": [
+    {
+      "id": 20517,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "New Zealand Herald",
+      "author": "Vaimoana Mase",
+      "title": "Boy, 12, dies of dengue fever in Auckland after contracting disease in Samoa",
+      "description": "Misiafa Lene, 12, was medically evacuated to Auckland where he died of dengue fever.",
+      "url": "https://www.nzherald.co.nz/talanoa/boy-12-dies-of-dengue-fever-in-auckland-after-contracting-disease-in-samoa/O7X5I2LBQZG3VE7OIFEDJ6IYCM/",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/5OJBWLC2VVCDLMFDKPJ2U5WAV4.jpg?auth=db4c44140b53e0baff2473f211e303107d1dcbce7ef8df5c204822ea53140c89&width=1200&height=675&quality=70&smart=true",
+      "publishedAt": "2025-04-18 04:00:00",
+      "content": "New Zealanders heading to the Pacific Islands these school holidays are being told to take precautions as dengue cases surge. Fiji is dealing with a more severe dengue outbreak - with more than 5000\u2026 [+4065 chars]",
+      "retrievedAt": "2025-04-19 07:06:05.024472",
+      "internal_id": "438c92904c3bee22a5f61f4c8d9f4f73c61ab9a9752f45a431c996de2cd59027",
+      "publishedAtLabel": "Apr 18"
+    },
+    {
+      "id": 20512,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Alberta appoints interim chief medical officer of health as province grapples with measles outbreaks",
+      "description": "Dr. Sunil Sookram is now the province's temporary top doctor after Dr. Mark Joffe left of his own accord earlier this week.",
+      "url": "https://www.cbc.ca/news/canada/calgary/alberta-appoints-interim-chief-medical-officer-of-health-as-province-grapples-with-measles-outbreaks-1.7513843",
+      "urlToImage": "https://i.cbc.ca/1.7513896.1744938978!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/dr-sunil-sookram.jpg?im=Resize%3D620",
+      "publishedAt": "2025-04-18 01:21:20",
+      "content": "The Alberta government appointed Dr. Sunil Sookram as interim chief medical officer of health Thursday amid growing measles outbreaks and after the previous top doctor left the role earlier this week\u2026 [+2266 chars]",
+      "retrievedAt": "2025-04-19 07:06:03.640989",
+      "internal_id": "2eb81a0deb3e5621fffbae82353aa36413473299d4e64934af1b62b58b1af641",
+      "publishedAtLabel": "Apr 18"
+    },
+    {
+      "id": 20511,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Alexander  Tin",
+      "title": "CDC scraps plan to help Texas schools curb measles over layoffs, employee says",
+      "description": "Some employees working on the CDC's measles response were warned they could face layoffs.",
+      "url": "https://www.cbsnews.com/news/cdc-scraps-plan-to-help-texas-schools-curb-measles-more-layoffs-loom/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/04/10/0a777b9c-67d3-4ac4-b1a3-bc85d248f538/thumbnail/1200x630/aa7ad548eb217929927fc67d90bb6497/gettyimages-2205675911.jpg?v=04a4ba26f526ed8207f014fe1018c4aa",
+      "publishedAt": "2025-04-17 23:58:16",
+      "content": "The U.S. Centers for Disease Control and Prevention has scrapped a plan to offer help curbing measles in Texas schools after some staff working on the agency's response to this year's record outbreak\u2026 [+4470 chars]",
+      "retrievedAt": "2025-04-19 07:06:03.508967",
+      "internal_id": "9bfccead9d69f62e7263a2e946ee6f9a5f36b56cc41f1d2ebf0522fd273d680a",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 20513,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Bozeman Daily Chronicle",
+      "author": "Lilly Keller, Bozeman Daily Chronicle",
+      "title": "Family quarantined as Gallatin County reports first suspected measles case",
+      "description": "Gallatin City-County Health Department: \"We are actively investigating and will provide information to the public as soon as possible.\"",
+      "url": "https://www.bozemandailychronicle.com/news/measles-gallatin-county-suspected-measles-case-measles-outbreak-montana-usa/article_a5930de8-f104-415c-be3e-8e085369c9bc.html",
+      "urlToImage": "https://bloximages.chicago2.vip.townnews.com/billingsgazette.com/content/tncms/assets/v3/editorial/a/de/adeaa883-57d3-5e70-8b8f-b5ba6450bc13/68015d443d544.preview.jpg?crop=1749%2C918%2C6%2C102&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2025-04-17 21:00:00",
+      "content": "A suspected case of measles has been reported in Gallatin County, according to an email the Gallatin City-County Health Department sent to the County Commission on Thursday. County Commissioner Scot\u2026 [+3887 chars]",
+      "retrievedAt": "2025-04-19 07:06:03.682252",
+      "internal_id": "540f9166fa953c6bbf5e59607a7c1e3980747252728ec9fcd564c132de723416",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 20509,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Carolinacoastonline.com",
+      "author": "Cheryl Burke News-times",
+      "title": "Health officials confirm cases of whooping cough at two county schools",
+      "description": "MOREHEAD CITY \u2014 Carteret County health and public school officials confirmed this week that two county schools have reported cases of pertussis (whooping cough).",
+      "url": "https://www.carolinacoastonline.com/article_f25a25ce-99ef-474a-8fda-07e5a01aa66d.html",
+      "urlToImage": "https://bloximages.chicago2.vip.townnews.com/carolinacoastonline.com/content/tncms/assets/v3/editorial/e/e2/ee2a490a-7113-11ef-ad9c-d730e762687a/66e2fbf214524.image.jpg?crop=1766%2C927%2C0%2C122&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2025-04-17 20:55:33",
+      "content": "MOREHEAD CITYCarteret County health and public school officials confirmed this week that two county schools have reported cases ofpertussis(whooping cough). Kim Davis, Public Health Nurse Director w\u2026 [+8603 chars]",
+      "retrievedAt": "2025-04-19 07:06:02.313084",
+      "internal_id": "b633bc65e9fa53f824086581c3a61dd34336fc2f1ff37afc135ddddc7760e5b6",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 20514,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Sopitas.com",
+      "author": "David Becerril",
+      "title": "\u00a1Que no te pique! Confirman m\u00e1s de 2 mil 900 casos de dengue",
+      "description": "\u00a1Mantente alerta! Pues en lo que va del a\u00f1o, M\u00e9xico ha registrado m\u00e1s de 2 mil 900 casos de dengue y 12 muertes por esta enfermedad.... The post \u00a1Que no te pique! Confirman m\u00e1s de 2 mil 900 casos de dengue appeared first on Sopitas.com.",
+      "url": "https://www.sopitas.com/noticias/confirman-mas-2-mil-900-casos-dengue-mexico/",
+      "urlToImage": "https://www.sopitas.com/wp-content/uploads/2024/04/dengue-mosquito-peru-casos-infeccion.jpg",
+      "publishedAt": "2025-04-17 20:36:51",
+      "content": "Lo que necesitas saber: Los principales s\u00edntomas del dengue incluyen fiebre, dolor, sarpullido, n\u00e1useas, v\u00f3mitos, y malestar general. \u00a1Mantente alerta! Pues en lo que va del a\u00f1o, M\u00e9xico ha registr\u2026 [+1692 chars]",
+      "retrievedAt": "2025-04-19 07:06:04.925104",
+      "internal_id": "95dcf934a542a73630d47bd8fded3f534249ad24832ad354f58debd59be6763a",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 20516,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Vinicius Passarelli",
+      "title": "Cidade de SP registra quinta morte por dengue neste ano",
+      "description": "Taxa de incid\u00eancia da doen\u00e7a na capital est\u00e1 em 282 a cada 100 mil habitantes, segundo monitoramento do governo estadual",
+      "url": "https://www.metropoles.com/sao-paulo/cidade-de-sp-registra-quinta-morte-por-dengue-neste-ano",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2025/01/28074139/dengue-8.jpg",
+      "publishedAt": "2025-04-17 20:29:42",
+      "content": "S\u00e3o Paulo \u2014 A cidade de S\u00e3o Paulo confirmou a quinta morte causada por dengue em 2025. At\u00e9 o momento, o munic\u00edpio tem 32.256 casos confirmados da doen\u00e7a. Outras 65 mortes est\u00e3o em investiga\u00e7\u00e3o, segu\u2026 [+2285 chars]",
+      "retrievedAt": "2025-04-19 07:06:04.962495",
+      "internal_id": "2a9ff593dcc5f825b21aa374c9841650d860c2af1313555422f904b3e02f4bad",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 20510,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "Youri Benadjaoud",
+      "title": "Michigan reports first confirmed measles outbreak since 2019",
+      "description": "Seven cases of measles have been confirmed in Michigan so far this year, according to state health officials.",
+      "url": "https://abcnews.go.com/Health/michigan-reports-confirmed-measles-outbreak-2019/story?id=120920799",
+      "urlToImage": "https://i.abcnewsfe.com/a/fcab9f1f-e3eb-4148-92c6-28e1cbda4b11/measles-poster-getty-cw-250417_1744920751644_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2025-04-17 20:29:08",
+      "content": "Michigan is reporting the states first measles outbreak since 2019, defined as at least three or more related cases, according to the Michigan Department of Health and Human Services (MDHHS). Three \u2026 [+1590 chars]",
+      "retrievedAt": "2025-04-19 07:06:03.480194",
+      "internal_id": "6721a5a716e17ddef476d0855622dd0a183a40e726e7e6a29ea06b0c3ea82fef",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 20515,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "info-money",
+      "source_name": "InfoMoney",
+      "author": "Vict\u00f3ria Anhesini",
+      "title": "Cidade de SP chega a 5 mortes por dengue em 2025; casos confirmados passam de 30 mil",
+      "description": "Regi\u00e3o de Cap\u00e3o Redondo lidera incid\u00eancia de dengue na capital The post Cidade de SP chega a 5 mortes por dengue em 2025; casos confirmados passam de 30 mil appeared first on InfoMoney.",
+      "url": "https://www.infomoney.com.br/saude/cidade-de-sp-chega-a-5-mortes-por-dengue-em-2025-casos-confirmados-passam-de-30-mil/",
+      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2025/04/0d9a8059_0.jpg?quality=70",
+      "publishedAt": "2025-04-17 19:38:04",
+      "content": "O n\u00famero de mortes por dengue na capital paulista subiu para cinco e os casos confirmados da doen\u00e7a chegaram a 31.669, segundo dados do Painel de Arboviroses do Governo do Estado de S\u00e3o Paulo atualiz\u2026 [+1911 chars]",
+      "retrievedAt": "2025-04-19 07:06:04.947780",
+      "internal_id": "41b3bb3936c79c0cf46a9c060be5e676fcbbea47f3f9c88288d4cac670406972",
+      "publishedAtLabel": "Apr 17"
+    },
     {
       "id": 20492,
       "query": [
@@ -29569,6 +29731,78 @@
       "content": "Leading vaccine critic Robert F. Kennedy Jr., who has been dismissive of the measles outbreak in Texas, now says that the spread needs to be stopped and that the federal response will include vaccina\u2026 [+1515 chars]",
       "retrievedAt": "2025-03-04 07:06:58.118294",
       "internal_id": "91826f6474fd7953762a3128962905d7045c31e093ae4b37535311dba6301da7",
+      "publishedAtLabel": "Mar 2"
+    },
+    {
+      "id": 18858,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "Taking shots at vaccines has deadly consequences (Glenn C. Altschuler/The Hill)",
+      "description": "Glenn C. Altschuler / The Hill: Taking shots at vaccines has deadly consequences \u2014 Public health authorities reported on Feb. 21 that an ongoing measles outbreak in Gaines County, Texas and Lea County, New Mexico was already the largest in decades. Of the \u2026",
+      "url": "https://www.memeorandum.com/250302/p12",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2025/02/AP25058597447123-e1740780617390.jpg?w=1280",
+      "publishedAt": "2025-03-02 14:45:00",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-03-03 19:05:53.852045",
+      "internal_id": "c7a065728afda105f6cda7600f3f60a9c1e4cea233eb5cb1d18e3627d70d7fa9",
+      "publishedAtLabel": "Mar 2"
+    },
+    {
+      "id": 18859,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Businessinsider.com.pl",
+      "author": null,
+      "title": "Puste p\u00f3\u0142ki w USA. Polski potentat jaj: problemy te\u017c w Polsce, ceny p\u00f3jd\u0105 w g\u00f3r\u0119",
+      "description": "Tylko w ci\u0105gu ostatnich pi\u0119ciu miesi\u0119cy w wyniku walki z HPAI, straty w pog\u0142owiu kur nie\u015bnych w naszym kraju wynios\u0142y oko\u0142o 6 mln. \u2014 Tak du\u017ca redukcja potencja\u0142u produkcyjnego nie mo\u017ce pozosta\u0107 bez konsekwencji dla cen detalicznych \u2014 m\u00f3wi ekspertka. To oznacz\u2026",
+      "url": "https://businessinsider.com.pl/finanse/handel/puste-polki-w-usa-polski-potentat-jaj-problemy-tez-w-polsce-ceny-pojda-w-gore/m8sdxpe",
+      "urlToImage": "https://ocdn.eu/pulscms-transforms/1/COtk9kpTURBXy9kODY3NTllNzZjNjI1MWFmOGFiNGE2NDAyOWFlOWMxNC5qcGeSlQMAzHbNB9DNBGWTBc0EsM0Cdt4AAaEwAQ",
+      "publishedAt": "2025-03-02 13:22:43",
+      "content": "Sytuacja robi si coraz bardziej powana. W Stanach Zjednoczonych p\u00f3ki z jajami wiec pustkami, a gdy produkty ju si na nich pojawi, osigaj zawrotne ceny. Wszystko przez szalejcy wirus HPAI, kt\u00f3ry tylko\u2026 [+6028 chars]",
+      "retrievedAt": "2025-03-03 19:05:54.013022",
+      "internal_id": "413d55005a4ade7698a4d7f9b3983c2f633ce8ff4f75b01142bd9ca90bcbeab6",
+      "publishedAtLabel": "Mar 2"
+    },
+    {
+      "id": 18861,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Agency",
+      "title": "Giving an old malaria drug new life",
+      "description": "Scientists are redesigning an existing malaria medicine to make it last longer in the body.",
+      "url": "https://www.thestar.com.my/lifestyle/health/2025/03/02/giving-an-old-malaria-drug-new-life",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/02/28/3190130.jpg",
+      "publishedAt": "2025-03-02 12:51:31",
+      "content": "A new clinical trial from Scripps Research in La Jolla, California, United States, aims to make significant gains in the global fight against malaria by making a drug that has been around since the 1\u2026 [+3088 chars]",
+      "retrievedAt": "2025-03-03 19:05:55.477086",
+      "internal_id": "9e97bf16d4b07eb43a29f5729ca52ff237404627bb2b6ceeaf5608dfc5ecca15",
+      "publishedAtLabel": "Mar 2"
+    },
+    {
+      "id": 18860,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "title": "Ssa: este a\u00f1o, mil 781 casos de dengue y cero muertes",
+      "description": "La Secretar\u00eda de Salud (Ssa) report\u00f3 que en lo que va del a\u00f1o se han confirmado mil 781 casos de dengue, de los cuales 53.7 por ciento son contagios con signos de alarma y al menos otros 66 casos corresponden al tipo grave o hemorr\u00e1gico.",
+      "url": "https://www.jornada.com.mx/2025/03/02/sociedad/027n1soc",
+      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "publishedAt": "2025-03-02 09:02:36",
+      "content": "Peri\u00f3dico La JornadaDomingo 2 de marzo de 2025, p. 27 La Secretar\u00eda de Salud (Ssa) report\u00f3 que en lo que va del a\u00f1o se han confirmado mil 781 casos de dengue, de los cuales 53.7 por ciento son conta\u2026 [+1682 chars]",
+      "retrievedAt": "2025-03-03 19:05:54.725898",
+      "internal_id": "f5f305794e31b3fddf0cfa86e8d50d0f58d2f1633ca054d9a64f05cabfc42835",
       "publishedAtLabel": "Mar 2"
     }
   ]
