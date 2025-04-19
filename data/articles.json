@@ -1,8 +1,296 @@
 {
-  "last_updated": "2025-04-19 07:06",
-  "count_articles_total": 1653,
-  "count_articles_new": 9,
+  "last_updated": "2025-04-19 19:06",
+  "count_articles_total": 1665,
+  "count_articles_new": 16,
   "articles": [
+    {
+      "id": 20518,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Antonio Peque\u00f1o IV, Forbes Staff, \n Antonio Peque\u00f1o IV, Forbes Staff\n https://www.forbes.com/sites/antoniopequenoiv/",
+      "title": "Measles Updates: 800 Cases In U.S. As Majority Of Outbreak Remains In Texas",
+      "description": "Texas remains the state with the highest number of cases, by far.",
+      "url": "https://www.forbes.com/sites/antoniopequenoiv/2025/04/18/measles-updates-800-cases-in-us-as-majority-of-outbreak-remains-in-texas/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67b8dc34f003eb75b733dff5/0x0.jpg?format=jpg&crop=3039,2027,x0,y0,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-04-18 18:32:49",
+      "content": "The Centers for Disease Control and Prevention reported 800 confirmed cases of measles in the U.S. as of Friday, making the announcement as the highly contagious illness has reached half of the count\u2026 [+7696 chars]",
+      "retrievedAt": "2025-04-19 19:05:59.942217",
+      "internal_id": "244efd56b7c449676f0df5a0e20b89fbdc7b8bb7f291ddc45c77d698e55b468d",
+      "publishedAtLabel": "Apr 18"
+    },
+    {
+      "id": 20522,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "STLtoday.com",
+      "author": "By Blythe Bernhard St. Louis Post-Dispatch",
+      "title": "Measles case reported in child visiting Branson area",
+      "description": "The child, whose vaccination status was not released, had recently traveled internationally according to the state health department.",
+      "url": "https://www.stltoday.com/news/local/metro/article_67fdc5a3-c96d-4840-b27b-97488454e466.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/6/7f/67fdc5a3-c96d-4840-b27b-97488454e466/680297d80c80a.preview.jpg?crop=1024%2C538%2C0%2C73",
+      "publishedAt": "2025-04-18 18:20:00",
+      "content": "TANEY COUNTY, Mo. A child visiting the Branson area has been diagnosed with measles, state health officials said Friday. The child, whose vaccination status was not released, had recently traveled i\u2026 [+1556 chars]",
+      "retrievedAt": "2025-04-19 19:06:00.104237",
+      "internal_id": "bc5d725cedc4c23757be8e876b4c921fe7c2cf7151c2b6718ca6f645258753cb",
+      "publishedAtLabel": "Apr 18"
+    },
+    {
+      "id": 20521,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "Montana reports first measles cases since 1990 (Alejandra O'Connell-Domenech/The Hill)",
+      "description": "Alejandra O'Connell-Domenech / The Hill: Montana reports first measles cases since 1990 \u2014 Montana public health officials have found five cases of measles in Gallatin County, the first cases of the disease in the Treasure State in more than three decades. \u2026",
+      "url": "https://www.memeorandum.com/250418/p82",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2025/04/AP25099777459442-e1744992867349.jpg?w=1280",
+      "publishedAt": "2025-04-18 17:35:02",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-04-19 19:06:00.042107",
+      "internal_id": "00930c1b07024e176e9d260eca67ba8997601f0405d6e35ed42ed71df70770eb",
+      "publishedAtLabel": "Apr 18"
+    },
+    {
+      "id": 20519,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Live Science",
+      "author": "Stephanie Pappas",
+      "title": "Measles has long-term health consequences for kids. Vaccines can prevent all of them.",
+      "description": "Measles can erase the immune system's \"memory\" and cause a rare but fatal health condition. The MMR vaccine prevents these repercussions, evidence shows.",
+      "url": "https://www.livescience.com/health/viruses-infections-disease/measles-has-long-term-health-consequences-for-kids-vaccines-can-prevent-all-of-them",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/R3AXxVPtKyoKArFxaMyrs8.jpg",
+      "publishedAt": "2025-04-18 16:15:00",
+      "content": "Measles kills between 1 and 3 out of every 1,000 children infected with the viral disease. But even for those who survive the illness, the long-term consequences of measles can be serious. Long after\u2026 [+7676 chars]",
+      "retrievedAt": "2025-04-19 19:05:59.970464",
+      "internal_id": "52d3e79ec84f85ac33a230f66e81b97d0a7abaa67b853d14c32eaef9e455e9c1",
+      "publishedAtLabel": "Apr 18"
+    },
+    {
+      "id": 20524,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "La\u00edsa Dall'Agnol",
+      "title": "Prefeitura de Porto Alegre decreta situa\u00e7\u00e3o de emerg\u00eancia em sa\u00fade",
+      "description": "Capital ga\u00facha j\u00e1 tem 4.300 casos confirmados e 20.000 suspeitas notificadas de dengue; duas pessoas morreram",
+      "url": "https://veja.abril.com.br/coluna/maquiavel/prefeitura-de-porto-alegre-decreta-situacao-de-emergencia-em-saude/",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2025/04/Dengue-Porto-Alegre.jpg?quality=70&strip=info&crop=1&resize=1080,565",
+      "publishedAt": "2025-04-18 15:56:39",
+      "content": "Assine: Pague menos de R$ 9 por revista Agente aplica inseticida no Complexo Cultural do Porto Seco, em Porto Alegre (Cristine Rochol/PMPA/Divulga\u00e7\u00e3o) Continua ap\u00f3s publicidade A Prefeitura de Por\u2026 [+1664 chars]",
+      "retrievedAt": "2025-04-19 19:06:01.822217",
+      "internal_id": "9e8fd5f74ab4437b04e9ea17c1a562d5733de79036d5d34d5c86ddd302ef9c5b",
+      "publishedAtLabel": "Apr 18"
+    },
+    {
+      "id": 20528,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Jos\u00e9 Coutinho, Jos\u00e9 Coutinho",
+      "title": "Brasil ultrapassa a marca de 1 milh\u00e3o de casos de dengue em 2025",
+      "description": "O coeficiente de incid\u00eancia da doen\u00e7a at\u00e9 a 15\u00aa semana deste ano \u00e9 de 479,4 casos por 100 mil pessoas",
+      "url": "https://saude.ig.com.br/2025-04-18/brasil-ultrapassa-a-marca-de-1-milhao-de-casos-de-dengue-em-2025.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/0h/t8/op/0ht8op1tv89w471myc4nolk35.jpg",
+      "publishedAt": "2025-04-18 15:56:01",
+      "content": "O Brasil ultrapassou a marca de 1 milh\u00e3o de casos prov\u00e1veis de dengue em 2025. De acordo com o Minist\u00e9rio da Sa\u00fade, at\u00e9 o final da 15\u00aa semana epidemiol\u00f3gica, encerrada em 12 de abril, foram registrad\u2026 [+1610 chars]",
+      "retrievedAt": "2025-04-19 19:06:01.947509",
+      "internal_id": "c854ebcbf7b8a71d8926a7a1250a2a6b4682ff7f49aae04b5b55d0b123897d21",
+      "publishedAtLabel": "Apr 18"
+    },
+    {
+      "id": 20526,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Estad\u00e3o Conte\u00fado",
+      "title": "Dengue: Brasil atinge marca de 1 milh\u00e3o de casos neste ano",
+      "description": "BRAS\u00cdLIA - O Brasil ultrapassou na \u00faltima sexta-feira, 17, a marca de 1 milh\u00e3o de casos de ...",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/dengue-brasil-atinge-marca-de-1-milhao-de-casos-neste-ano,87d93802d8379a18d8d32bb237b7905c8joix12p.html",
+      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2025-04-18 14:33:45",
+      "content": "BRAS\u00cdLIA - O Brasil ultrapassou na \u00faltima sexta-feira, 17, a marca de 1 milh\u00e3o de casos de dengue neste ano. De acordo com o Painel de Monitoramento de Arboviroses, o Pa\u00eds registrou 1.019.033 casos p\u2026 [+2468 chars]",
+      "retrievedAt": "2025-04-19 19:06:01.853311",
+      "internal_id": "14811ffe0d41ad50dff92a13724eade0a7375d4d902ad9414eaba5b3f8d81e86",
+      "publishedAtLabel": "Apr 18"
+    },
+    {
+      "id": 20525,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Luiz Paulo Souza",
+      "title": "Brasil ultrapassa 1 milh\u00e3o de casos prov\u00e1veis de dengue em 2025",
+      "description": "Pa\u00eds contabiliza ainda 668 mortes confirmadas pela doen\u00e7a",
+      "url": "https://veja.abril.com.br/saude/brasil-ultrapassa-1-milhao-de-casos-provaveis-de-dengue-em-2025/",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2019/05/mundo-dengue-aedes-aegypti-20110116-009.jpg?quality=70&strip=info&crop=1&resize=1080,565",
+      "publishedAt": "2025-04-18 14:00:03",
+      "content": "Assine: Pague menos de R$ 9 por revistaPa\u00eds contabiliza ainda 668 mortes confirmadas pela doen\u00e7a Por Da Reda\u00e7\u00e3o 18 abr 2025, 11h00 Aedes aegypti: mosquito transmissor da dengue (Joao Paulo Burin\u2026 [+1481 chars]",
+      "retrievedAt": "2025-04-19 19:06:01.838255",
+      "internal_id": "0f969b2e57780ea01d2ca773b697518e7a2a842a26ae28445e34271f3f827356",
+      "publishedAtLabel": "Apr 18"
+    },
+    {
+      "id": 20530,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Cameron Smith, Mohsen Hajisadeghian, Gerbrand J. van der Heden van Noort, Michael J. Deery, Ad\u00e1n Pinto-Fern\u00e1ndez, Benedikt M. Kessler, Katerina Artavanis-Tsakonas",
+      "title": "Activity-based protein profiling reveals both canonical and novel ubiquitin pathway enzymes in Plasmodium",
+      "description": "Author summary Malaria parasites, like all living organisms, need to regulate their proteins carefully to survive and grow. One important way they do this is through a process called ubiquitination, where small tags (ubiquitin) are attached to proteins to con\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013032",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1013032.g009&size=inline",
+      "publishedAt": "2025-04-18 14:00:00",
+      "content": "Citation: Smith C, Hajisadeghian M, van Noort GJvdH, Deery MJ, Pinto-Fern\u00e1ndez A, Kessler BM, et al. (2025) Activity-based protein profiling reveals both canonical and novel ubiquitin pathway enzymes\u2026 [+67535 chars]",
+      "retrievedAt": "2025-04-19 19:06:03.500229",
+      "internal_id": "6e52250c094984aa068ed264e0db6276a783cbfb947042a26a89126ec8489d67",
+      "publishedAtLabel": "Apr 18"
+    },
+    {
+      "id": 20531,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "le-monde",
+      "source_name": "Le Monde",
+      "author": "J\u00e9r\u00f4me Talpin",
+      "title": "L\u2019\u00e9pid\u00e9mie de chikungunya \u00e9branle La R\u00e9union : \u00ab Il s\u2019agit d\u2019un mini-Covid \u00e0 l\u2019\u00e9chelon local \u00bb",
+      "description": "Le virus a infect\u00e9, depuis ao\u00fbt, plus d\u2019un habitant sur neuf, pla\u00e7ant le syst\u00e8me de sant\u00e9 sous tension et entra\u00eenant un grand nombre d\u2019absences dans les \u00e9coles, administrations et entreprises.",
+      "url": "https://www.lemonde.fr/planete/article/2025/04/18/l-epidemie-de-chikungunya-ebranle-la-reunion-il-s-agit-d-un-mini-covid-a-l-echelon-local_6597448_3244.html",
+      "urlToImage": "https://img.lemde.fr/2025/04/18/0/40/6024/4016/1440/960/60/0/7dd7c1b_sirius-fs-upload-1-zvl6lueejloz-1744972225717-sipa-01208606-000037.jpg",
+      "publishedAt": "2025-04-18 12:50:33",
+      "content": "Des agents de lAgence r\u00e9gionale de sant\u00e9 (ARS) lors dune op\u00e9ration de d\u00e9moustication urbaine \u00e0 Saint-Pierre (La R\u00e9union), le 16 avril 2025. VALERIE KOCH/SIPA/VALERIE KOCH/SIPA \u00ab Un vrai cauchemar pe\u2026 [+1907 chars]",
+      "retrievedAt": "2025-04-19 19:06:04.466421",
+      "internal_id": "cf7dae51f3567651d6ec00ff1feaec5552059d6abe884e9587f86aec2bd03d3a",
+      "publishedAtLabel": "Apr 18"
+    },
+    {
+      "id": 20520,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Democracy Now!",
+      "author": "webdev@democracynow.org (Democracy Now!)",
+      "title": "\"Absolute Nonsense\": As Measles Cases Soar & Kids Die, Expert Slams RFK Jr. on Vaccine-Autism Link",
+      "description": "\u201cThese were otherwise healthy school-age children who didn\u2019t have to die.\u201d We speak to the world-renowned pediatrician, virologist and vaccine expert, Dr. Peter Hotez, about the dangerous anti-vaccine agenda of Secretary of Health and Human Services Robert F.\u2026",
+      "url": "https://www.democracynow.org/2025/4/18/peter_hotez",
+      "urlToImage": "https://www.democracynow.org/images/story/99/76799/full_hd/SEG1_RFK-Dr-Hotez.jpg",
+      "publishedAt": "2025-04-18 12:17:38",
+      "content": "This is viewer supported news. Please do your part today. Donate \u201cThese were otherwise healthy school-age children who didn\u2019t have to die.\u201d We speak to the world-renowned pediatrician, virologist a\u2026 [+981 chars]",
+      "retrievedAt": "2025-04-19 19:05:59.978615",
+      "internal_id": "9540b277acbb04655fa4ceeb04483face9c5abaad917f856b69ffb6e1c548737",
+      "publishedAtLabel": "Apr 18"
+    },
+    {
+      "id": 20529,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "Fabiola Czubaj",
+      "title": "\u201cEfectividad del 100%\u201d: el innovador m\u00e9todo que desarrolla un equipo de la UBA para eliminar cr\u00edas del mosquito del dengue",
+      "description": "Los especialistas de la Facultad de Agronom\u00eda afirman que la iniciativa es una medida de prevenci\u00f3n m\u00e1s sustentable y econ\u00f3mica para reservorios de agua en instituciones, huertas, barrios cerrados o edificios",
+      "url": "https://www.lanacion.com.ar/sociedad/efectividad-del-100-el-innovador-metodo-que-desarrolla-un-equipo-de-la-uba-para-eliminar-crias-del-nid18042025/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/el-aedes-aegypti-el-mosquito-vector-del-2LQGZDZ4ONDFHI4O6DH4FWA52E.JPG?auth=375e33ec43d1077de8381e490afee691a4924f87f1f188be369b02e85121bd08&width=1200&quality=70&smart=false&height=988",
+      "publishedAt": "2025-04-18 12:03:35",
+      "content": "Un servicio a demanda, gratuito para la poblaci\u00f3n, que funciona desde hace tres a\u00f1os elimina de manera sustentable en reservorios de agua las cr\u00edas del mosquito que transmite el virus del dengue y ot\u2026 [+7962 chars]",
+      "retrievedAt": "2025-04-19 19:06:01.969836",
+      "internal_id": "3b571b84b23c9dd64883ef570c4771e54aa1addfd64ce9d5fe0add97c78b90e4",
+      "publishedAtLabel": "Apr 18"
+    },
+    {
+      "id": 20523,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "title": "Sader confirma casos de influenza aviar A/H7N3 en granja de Nuevo Le\u00f3n",
+      "description": "La Secretar\u00eda de Agricultura y Desarrollo Rural (Sader) confirm\u00f3 ayer la detecci\u00f3n de influenza aviar A/H7N3 en una granja comercial en Mar\u00edn, Nuevo Le\u00f3n. Se trata de una variante diferente a la A/H5N1 que afecta a los otros pa\u00edses de Am\u00e9rica del Norte, pero \u2026",
+      "url": "https://www.jornada.com.mx/2025/04/18/politica/007n2pol",
+      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "publishedAt": "2025-04-18 10:06:09",
+      "content": "Peri\u00f3dico La JornadaViernes 18 de abril de 2025, p. 7 La Secretar\u00eda de Agricultura y Desarrollo Rural (Sader) confirm\u00f3 ayer la detecci\u00f3n de influenza aviar A/H7N3 en una granja comercial en Mar\u00edn, N\u2026 [+2041 chars]",
+      "retrievedAt": "2025-04-19 19:06:01.027095",
+      "internal_id": "a875e873510be0e75474849bc5a89a1b56d1f8a3c72a654e2dfda106125c0964",
+      "publishedAtLabel": "Apr 18"
+    },
+    {
+      "id": 20527,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Global Desk",
+      "title": "Pacific islands battle dengue fever outbreak, Samoan boy dies in Auckland hospital",
+      "description": "Misiafa Lene, a 12-year-old boy from Samoa, succumbed to dengue fever in Auckland. He contracted the disease in Samoa. He was then medically evacuated to Starship Children's Hospital in New Zealand's Auckland. The ongoing dengue outbreak in Pacific islands po\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/new-zealand/pacific-islands-battle-dengue-fever-outbreak-samoan-boy-dies-in-auckland-hospital/articleshow/120404286.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-120404701,width-1200,height-630,imgsize-11664,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-04-18 09:42:04",
+      "content": "An outbreak of dengue fever is sweeping across the Pacific islands of Samoa, Fiji and Tonga. A 12-year-old Samoan boy, Misiafa Nathaniel Lene, died in New Zealand's Auckland on April 13, 2025, after \u2026 [+2259 chars]",
+      "retrievedAt": "2025-04-19 19:06:01.930382",
+      "internal_id": "5e40db1b4841ac9755f8b0f79c4044cc2121d40a75e6439964ded1be6c22b754",
+      "publishedAtLabel": "Apr 18"
+    },
+    {
+      "id": 20532,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "VALNEVA",
+      "title": "Valneva Provides Update on ACIP Recommendation for its Chikungunya Vaccine IXCHIQ\u00ae Among U.S. Travelers",
+      "description": "Saint Herblain (France), April 18, 2025 \u2013 Valneva SE (Nasdaq: VALN; Euronext Paris: VLA), a specialty vaccine company, today announced that during its regular meeting on April 16, the U.S. Centers for Disease Control and Prevention\u2019s (CDC) Advisory Committee \u2026",
+      "url": "https://www.globenewswire.com/news-release/2025/04/18/3063970/0/en/Valneva-Provides-Update-on-ACIP-Recommendation-for-its-Chikungunya-Vaccine-IXCHIQ-Among-U-S-Travelers.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/04f398df-96ac-4b7a-8544-2a2ce2495778",
+      "publishedAt": "2025-04-18 08:00:00",
+      "content": "Saint Herblain (France), April 18, 2025Valneva SE (Nasdaq: VALN; Euronext Paris: VLA), a specialty vaccine company, today announced that during its regular meeting on April 16, the U.S. Centers for D\u2026 [+8108 chars]",
+      "retrievedAt": "2025-04-19 19:06:04.488110",
+      "internal_id": "67588243e70ecf50e1687b83808cf04acaba82c59d9c3c7eb4884bc2ffcd56d2",
+      "publishedAtLabel": "Apr 18"
+    },
+    {
+      "id": 20533,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "VALNEVA",
+      "title": "Valneva fait le point sur la recommandation de l'ACIP pour les voyageurs am\u00e9ricains concernant son vaccin IXCHIQ\u00ae contre le chikungunya",
+      "description": "Saint-Herblain (France), le 18 avril 2025 \u2013 Valneva SE (Nasdaq : VALN ; Euronext Paris : VLA), soci\u00e9t\u00e9 sp\u00e9cialis\u00e9e dans les vaccins, a annonc\u00e9 aujourd'hui que lors de sa r\u00e9union ordinaire du 16 avril 2025, le comit\u00e9 consultatif am\u00e9ricain sur les pratiques d'i\u2026",
+      "url": "https://www.globenewswire.com/news-release/2025/04/18/3063970/0/fr/Valneva-fait-le-point-sur-la-recommandation-de-l-ACIP-pour-les-voyageurs-am%C3%A9ricains-concernant-son-vaccin-IXCHIQ-contre-le-chikungunya.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/04f398df-96ac-4b7a-8544-2a2ce2495778",
+      "publishedAt": "2025-04-18 08:00:00",
+      "content": "Saint-Herblain (France), le 18 avril 2025 Valneva SE (Nasdaq : VALN ; Euronext Paris : VLA), soci\u00e9t\u00e9 sp\u00e9cialis\u00e9e dans les vaccins, a annonc\u00e9 aujourd'hui que lors de sa r\u00e9union ordinaire du 16 avril 2\u2026 [+9255 chars]",
+      "retrievedAt": "2025-04-19 19:06:04.517142",
+      "internal_id": "510f768c97a8399e5857c7067574e3994c8c3936d6abd0f0a0d8cd168ad06e23",
+      "publishedAtLabel": "Apr 18"
+    },
     {
       "id": 20517,
       "query": [
@@ -29731,78 +30019,6 @@
       "content": "Leading vaccine critic Robert F. Kennedy Jr., who has been dismissive of the measles outbreak in Texas, now says that the spread needs to be stopped and that the federal response will include vaccina\u2026 [+1515 chars]",
       "retrievedAt": "2025-03-04 07:06:58.118294",
       "internal_id": "91826f6474fd7953762a3128962905d7045c31e093ae4b37535311dba6301da7",
-      "publishedAtLabel": "Mar 2"
-    },
-    {
-      "id": 18858,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Memeorandum.com",
-      "author": null,
-      "title": "Taking shots at vaccines has deadly consequences (Glenn C. Altschuler/The Hill)",
-      "description": "Glenn C. Altschuler / The Hill: Taking shots at vaccines has deadly consequences \u2014 Public health authorities reported on Feb. 21 that an ongoing measles outbreak in Gaines County, Texas and Lea County, New Mexico was already the largest in decades. Of the \u2026",
-      "url": "https://www.memeorandum.com/250302/p12",
-      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2025/02/AP25058597447123-e1740780617390.jpg?w=1280",
-      "publishedAt": "2025-03-02 14:45:00",
-      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
-      "retrievedAt": "2025-03-03 19:05:53.852045",
-      "internal_id": "c7a065728afda105f6cda7600f3f60a9c1e4cea233eb5cb1d18e3627d70d7fa9",
-      "publishedAtLabel": "Mar 2"
-    },
-    {
-      "id": 18859,
-      "query": [
-        "hpai"
-      ],
-      "source_id": null,
-      "source_name": "Businessinsider.com.pl",
-      "author": null,
-      "title": "Puste p\u00f3\u0142ki w USA. Polski potentat jaj: problemy te\u017c w Polsce, ceny p\u00f3jd\u0105 w g\u00f3r\u0119",
-      "description": "Tylko w ci\u0105gu ostatnich pi\u0119ciu miesi\u0119cy w wyniku walki z HPAI, straty w pog\u0142owiu kur nie\u015bnych w naszym kraju wynios\u0142y oko\u0142o 6 mln. \u2014 Tak du\u017ca redukcja potencja\u0142u produkcyjnego nie mo\u017ce pozosta\u0107 bez konsekwencji dla cen detalicznych \u2014 m\u00f3wi ekspertka. To oznacz\u2026",
-      "url": "https://businessinsider.com.pl/finanse/handel/puste-polki-w-usa-polski-potentat-jaj-problemy-tez-w-polsce-ceny-pojda-w-gore/m8sdxpe",
-      "urlToImage": "https://ocdn.eu/pulscms-transforms/1/COtk9kpTURBXy9kODY3NTllNzZjNjI1MWFmOGFiNGE2NDAyOWFlOWMxNC5qcGeSlQMAzHbNB9DNBGWTBc0EsM0Cdt4AAaEwAQ",
-      "publishedAt": "2025-03-02 13:22:43",
-      "content": "Sytuacja robi si coraz bardziej powana. W Stanach Zjednoczonych p\u00f3ki z jajami wiec pustkami, a gdy produkty ju si na nich pojawi, osigaj zawrotne ceny. Wszystko przez szalejcy wirus HPAI, kt\u00f3ry tylko\u2026 [+6028 chars]",
-      "retrievedAt": "2025-03-03 19:05:54.013022",
-      "internal_id": "413d55005a4ade7698a4d7f9b3983c2f633ce8ff4f75b01142bd9ca90bcbeab6",
-      "publishedAtLabel": "Mar 2"
-    },
-    {
-      "id": 18861,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "Agency",
-      "title": "Giving an old malaria drug new life",
-      "description": "Scientists are redesigning an existing malaria medicine to make it last longer in the body.",
-      "url": "https://www.thestar.com.my/lifestyle/health/2025/03/02/giving-an-old-malaria-drug-new-life",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/02/28/3190130.jpg",
-      "publishedAt": "2025-03-02 12:51:31",
-      "content": "A new clinical trial from Scripps Research in La Jolla, California, United States, aims to make significant gains in the global fight against malaria by making a drug that has been around since the 1\u2026 [+3088 chars]",
-      "retrievedAt": "2025-03-03 19:05:55.477086",
-      "internal_id": "9e97bf16d4b07eb43a29f5729ca52ff237404627bb2b6ceeaf5608dfc5ecca15",
-      "publishedAtLabel": "Mar 2"
-    },
-    {
-      "id": 18860,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Jornada.com.mx",
-      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "title": "Ssa: este a\u00f1o, mil 781 casos de dengue y cero muertes",
-      "description": "La Secretar\u00eda de Salud (Ssa) report\u00f3 que en lo que va del a\u00f1o se han confirmado mil 781 casos de dengue, de los cuales 53.7 por ciento son contagios con signos de alarma y al menos otros 66 casos corresponden al tipo grave o hemorr\u00e1gico.",
-      "url": "https://www.jornada.com.mx/2025/03/02/sociedad/027n1soc",
-      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "publishedAt": "2025-03-02 09:02:36",
-      "content": "Peri\u00f3dico La JornadaDomingo 2 de marzo de 2025, p. 27 La Secretar\u00eda de Salud (Ssa) report\u00f3 que en lo que va del a\u00f1o se han confirmado mil 781 casos de dengue, de los cuales 53.7 por ciento son conta\u2026 [+1682 chars]",
-      "retrievedAt": "2025-03-03 19:05:54.725898",
-      "internal_id": "f5f305794e31b3fddf0cfa86e8d50d0f58d2f1633ca054d9a64f05cabfc42835",
       "publishedAtLabel": "Mar 2"
     }
   ]

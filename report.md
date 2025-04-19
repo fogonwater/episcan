@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 9
-- **Last harvest:** 2025-04-19 07:06
-- **Most recent article:** 2025-04-18 04:00:00
+- **New articles in last harvest:** 16
+- **Last harvest:** 2025-04-19 19:06
+- **Most recent article:** 2025-04-18 18:32:49
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-10 | 25-11 | 25-12 | 25-13 | 25-14 | 25-15 | 25-16 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 141 | 133 | 108 | 101 | 77 | 145 | 50 | 755 |
-| h5n1 | 20 | 39 | 57 | 47 | 46 | 66 | 8 | 283 |
-| malaria | 26 | 22 | 18 | 30 | 13 | 10 | 13 | 132 |
-| dengue | 8 | 12 | 18 | 20 | 14 | 24 | 23 | 119 |
-| chikungunya | 6 | 1 | 17 | 10 | 17 | 15 | 35 | 101 |
+| measles | 140 | 133 | 108 | 101 | 77 | 145 | 55 | 759 |
+| h5n1 | 20 | 39 | 57 | 47 | 46 | 66 | 9 | 284 |
+| malaria | 25 | 22 | 18 | 30 | 13 | 10 | 14 | 132 |
+| dengue | 7 | 12 | 18 | 20 | 14 | 24 | 29 | 124 |
+| chikungunya | 6 | 1 | 17 | 10 | 17 | 15 | 38 | 104 |
 | mpox | 13 | 15 | 8 | 12 | 17 | 18 | 9 | 92 |
 | meningitis | 4 | 9 | 7 | 10 | 6 | 10 | 9 | 55 |
 | rabies | 3 | 8 | 3 | 19 | 7 | 7 | 0 | 47 |
-| hpai | 8 | 3 | 12 | 2 | 4 | 3 | 4 | 36 |
+| hpai | 7 | 3 | 12 | 2 | 4 | 3 | 4 | 35 |
 | zika | 3 | 0 | 2 | 3 | 4 | 7 | 7 | 26 |
 | pertussis | 0 | 5 | 1 | 0 | 7 | 2 | 5 | 20 |
 | typhoid | 3 | 8 | 0 | 1 | 2 | 2 | 3 | 19 |
@@ -110,6 +110,16 @@ Source: [News API](https://newsapi.org/)
 - [Stockton girl's meningitis leads to quadruple amputation](https://www.bbc.co.uk/news/articles/cx2vv81k2k1o) (BBC News)
 
 ## 25-16 (measles)
+
+- [Measles Updates: 800 Cases In U.S. As Majority Of Outbreak Remains In Texas](https://www.forbes.com/sites/antoniopequenoiv/2025/04/18/measles-updates-800-cases-in-us-as-majority-of-outbreak-remains-in-texas/) (Forbes)
+
+- [Measles case reported in child visiting Branson area](https://www.stltoday.com/news/local/metro/article_67fdc5a3-c96d-4840-b27b-97488454e466.html) (STLtoday.com)
+
+- [Montana reports first measles cases since 1990 (Alejandra O'Connell-Domenech/The Hill)](https://www.memeorandum.com/250418/p82) (Memeorandum.com)
+
+- [Measles has long-term health consequences for kids. Vaccines can prevent all of them.](https://www.livescience.com/health/viruses-infections-disease/measles-has-long-term-health-consequences-for-kids-vaccines-can-prevent-all-of-them) (Live Science)
+
+- ["Absolute Nonsense": As Measles Cases Soar & Kids Die, Expert Slams RFK Jr. on Vaccine-Autism Link](https://www.democracynow.org/2025/4/18/peter_hotez) (Democracy Now!)
 
 - [Alberta appoints interim chief medical officer of health as province grapples with measles outbreaks](https://www.cbc.ca/news/canada/calgary/alberta-appoints-interim-chief-medical-officer-of-health-as-province-grapples-with-measles-outbreaks-1.7513843) (CBC News)
 
@@ -213,6 +223,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-16 (malaria)
 
+- [Activity-based protein profiling reveals both canonical and novel ubiquitin pathway enzymes in Plasmodium](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013032) (Plos.org)
+
 - [AI Bites Back: Researchers Develop Model to Detect Malaria Amid Venezuelan Gold Rush](https://blogs.nvidia.com/blog/ai-researchers-malaria-venezuela/) (Nvidia.com)
 
 - [Identification of visible and near-infrared signature peaks for arboviruses and Plasmodium falciparum](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0321362) (Plos.org)
@@ -255,6 +267,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-16 (h5n1)
 
+- [Sader confirma casos de influenza aviar A/H7N3 en granja de Nuevo León](https://www.jornada.com.mx/2025/04/18/politica/007n2pol) (Jornada.com.mx)
+
 - [دراسة: لقاح تجريبي مضاد لإنفلونزا الطيور يُظهر نتائج واعدة](https://asharq.com/health/122930/%D8%AF%D8%B1%D8%A7%D8%B3%D8%A9-%D9%84%D9%82%D8%A7%D8%AD-%D8%AA%D8%AC%D8%B1%D9%8A%D8%A8%D9%8A-%D9%85%D8%B6%D8%A7%D8%AF-%D9%84%D8%A5%D9%86%D9%81%D9%84%D9%88%D9%86%D8%B2%D8%A7-%D8%A7%D9%84%D8%B7%D9%8A%D9%88%D8%B1/) (Asharq.com)
 
 - [First Human Case Of H5N1 Bird Flu Reported In Mexico](https://www.activistpost.com/first-human-case-of-h5n1-bird-flu-reported-in-mexico/) (Activistpost.com)
@@ -272,6 +286,18 @@ Source: [News API](https://newsapi.org/)
 - [آنفلوآنزای پرندگان در برابر آنفلوآنزای معمولی: تفاوت‌های کلیدی این دو بیماری چیست؟](https://www.entekhab.ir/fa/news/860695/آنفلوآنزای-پرندگان-در-برابر-آنفلوآنزای-معمولی-تفاوت‌های-کلیدی-این-دو-بیماری-چیست) (Entekhab.ir)
 
 ## 25-16 (dengue)
+
+- [Prefeitura de Porto Alegre decreta situação de emergência em saúde](https://veja.abril.com.br/coluna/maquiavel/prefeitura-de-porto-alegre-decreta-situacao-de-emergencia-em-saude/) (Abril.com.br)
+
+- [Brasil ultrapassa a marca de 1 milhão de casos de dengue em 2025](https://saude.ig.com.br/2025-04-18/brasil-ultrapassa-a-marca-de-1-milhao-de-casos-de-dengue-em-2025.html) (Ig.com.br)
+
+- [Dengue: Brasil atinge marca de 1 milhão de casos neste ano](https://www.terra.com.br/vida-e-estilo/saude/dengue-brasil-atinge-marca-de-1-milhao-de-casos-neste-ano,87d93802d8379a18d8d32bb237b7905c8joix12p.html) (Terra.com.br)
+
+- [Brasil ultrapassa 1 milhão de casos prováveis de dengue em 2025](https://veja.abril.com.br/saude/brasil-ultrapassa-1-milhao-de-casos-provaveis-de-dengue-em-2025/) (Abril.com.br)
+
+- [“Efectividad del 100%”: el innovador método que desarrolla un equipo de la UBA para eliminar crías del mosquito del dengue](https://www.lanacion.com.ar/sociedad/efectividad-del-100-el-innovador-metodo-que-desarrolla-un-equipo-de-la-uba-para-eliminar-crias-del-nid18042025/) (La Nacion)
+
+- [Pacific islands battle dengue fever outbreak, Samoan boy dies in Auckland hospital](https://economictimes.indiatimes.com/news/international/new-zealand/pacific-islands-battle-dengue-fever-outbreak-samoan-boy-dies-in-auckland-hospital/articleshow/120404286.cms) (The Times of India)
 
 - [Boy, 12, dies of dengue fever in Auckland after contracting disease in Samoa](https://www.nzherald.co.nz/talanoa/boy-12-dies-of-dengue-fever-in-auckland-after-contracting-disease-in-samoa/O7X5I2LBQZG3VE7OIFEDJ6IYCM/) (New Zealand Herald)
 
@@ -320,6 +346,12 @@ Source: [News API](https://newsapi.org/)
 - [Maintain clean surrounding, health authorities urge](https://www.fijitimes.com.fj/maintain-clean-surrounding-health-authorities-urge/) (Fijitimes.com.fj)
 
 ## 25-16 (chikungunya)
+
+- [L’épidémie de chikungunya ébranle La Réunion : « Il s’agit d’un mini-Covid à l’échelon local »](https://www.lemonde.fr/planete/article/2025/04/18/l-epidemie-de-chikungunya-ebranle-la-reunion-il-s-agit-d-un-mini-covid-a-l-echelon-local_6597448_3244.html) (Le Monde)
+
+- [Valneva Provides Update on ACIP Recommendation for its Chikungunya Vaccine IXCHIQ® Among U.S. Travelers](https://www.globenewswire.com/news-release/2025/04/18/3063970/0/en/Valneva-Provides-Update-on-ACIP-Recommendation-for-its-Chikungunya-Vaccine-IXCHIQ-Among-U-S-Travelers.html) (GlobeNewswire)
+
+- [Valneva fait le point sur la recommandation de l'ACIP pour les voyageurs américains concernant son vaccin IXCHIQ® contre le chikungunya](https://www.globenewswire.com/news-release/2025/04/18/3063970/0/fr/Valneva-fait-le-point-sur-la-recommandation-de-l-ACIP-pour-les-voyageurs-am%C3%A9ricains-concernant-son-vaccin-IXCHIQ-contre-le-chikungunya.html) (GlobeNewswire)
 
 - [Covid, chikungunya : à La Réunion, une gestion des crises sanitaires entre héritages coloniaux et volonté de participation citoyenne](https://theconversation.com/covid-chikungunya-a-la-reunion-une-gestion-des-crises-sanitaires-entre-heritages-coloniaux-et-volonte-de-participation-citoyenne-251018) (The Conversation Africa)
 
@@ -3453,8 +3485,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Stopping Measles Outbreak Is 'a Top Priority,' Kennedy Says](https://www.newser.com/story/365052/stopping-measles-outbreak-is-a-top-priority-kennedy-says.html) (Newser)
 
-- [Taking shots at vaccines has deadly consequences (Glenn C. Altschuler/The Hill)](https://www.memeorandum.com/250302/p12) (Memeorandum.com)
-
 ## 25-10 (malaria)
 
 - [Ministry of Health to Issue Antimalarial Medicines in Turkana Starting June](https://www.kenyans.co.ke/news/109743-ministry-health-issue-antimalarial-medicines-turkana-starting-june) (Kenyans.co.ke)
@@ -3507,8 +3537,6 @@ Source: [News API](https://newsapi.org/)
 
 - [U.S.A.I.D. Memos Detail Human Costs of Cuts to Foreign Aid (Apoorva Mandavilli/New York Times)](https://www.memeorandum.com/250302/p101) (Memeorandum.com)
 
-- [Giving an old malaria drug new life](https://www.thestar.com.my/lifestyle/health/2025/03/02/giving-an-old-malaria-drug-new-life) (The Star Online)
-
 ## 25-10 (leptospirosis)
 
 - [Into the spotlight: A spatial study of potentially underreported leptospirosis among dengue-negative patients in São Paulo city, Brazil](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012888) (Plos.org)
@@ -3532,8 +3560,6 @@ Source: [News API](https://newsapi.org/)
 - [Raw cat food recalled after state testing finds contamination with bird flu](https://www.foodsafetynews.com/2025/03/raw-cat-food-recalled-after-state-testing-finds-contamination-with-bird-flu/) (Food Safety News)
 
 - [Animal Ag News 3/3](https://agwired.com/2025/03/03/animal-ag-news-3-3/) (AgWired)
-
-- [Puste półki w USA. Polski potentat jaj: problemy też w Polsce, ceny pójdą w górę](https://businessinsider.com.pl/finanse/handel/puste-polki-w-usa-polski-potentat-jaj-problemy-tez-w-polsce-ceny-pojda-w-gore/m8sdxpe) (Businessinsider.com.pl)
 
 ## 25-10 (h5n1)
 
@@ -3592,8 +3618,6 @@ Source: [News API](https://newsapi.org/)
 - [Terratis se renforce dans sa lutte contre le moustique tigre](https://objectif-languedoc-roussillon.latribune.fr/innovation/2025-03-03/terratis-se-renforce-dans-sa-lutte-contre-le-moustique-tigre-1019699.html) (La Tribune.fr)
 
 - [Brumbies flanker Tualima diagnosed with dengue fever](https://www.bbc.com/sport/rugby-union/articles/cgl0e67r6dyo) (BBC News)
-
-- [Ssa: este año, mil 781 casos de dengue y cero muertes](https://www.jornada.com.mx/2025/03/02/sociedad/027n1soc) (Jornada.com.mx)
 
 ## 25-10 (chikungunya)
 
