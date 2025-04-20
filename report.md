@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 14
-- **Last harvest:** 2025-04-20 07:07
-- **Most recent article:** 2025-04-19 03:05:17
+- **New articles in last harvest:** 2
+- **Last harvest:** 2025-04-20 19:05
+- **Most recent article:** 2025-04-19 08:02:27
 
 ---
 
@@ -12,12 +12,12 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-11 | 25-12 | 25-13 | 25-14 | 25-15 | 25-16 | Total |
 |--|-|-|-|-|-|-|-|
-| measles | 132 | 108 | 101 | 77 | 145 | 67 | 630 |
-| h5n1 | 38 | 57 | 47 | 46 | 66 | 9 | 263 |
+| measles | 131 | 108 | 101 | 77 | 145 | 67 | 629 |
+| h5n1 | 35 | 57 | 47 | 46 | 66 | 9 | 260 |
 | dengue | 12 | 18 | 20 | 14 | 24 | 30 | 118 |
-| malaria | 21 | 18 | 30 | 13 | 10 | 14 | 106 |
-| chikungunya | 1 | 17 | 10 | 17 | 15 | 38 | 98 |
-| mpox | 14 | 8 | 12 | 17 | 18 | 9 | 78 |
+| malaria | 17 | 18 | 30 | 13 | 10 | 14 | 102 |
+| chikungunya | 1 | 17 | 10 | 17 | 15 | 39 | 99 |
+| mpox | 14 | 8 | 12 | 17 | 18 | 10 | 79 |
 | meningitis | 9 | 7 | 10 | 6 | 10 | 9 | 51 |
 | rabies | 7 | 3 | 19 | 7 | 7 | 0 | 43 |
 | hpai | 3 | 12 | 2 | 4 | 3 | 5 | 29 |
@@ -69,6 +69,8 @@ Source: [News API](https://newsapi.org/)
 - [Whooping Cough Spreads Across Japan](https://newsonjapan.com/article/145395.php) (Newsonjapan.com)
 
 ## 25-16 (mpox)
+
+- [La variole du singe venait de… l’écureuil](https://www.lepoint.fr/sciences-nature/la-variole-du-singe-venait-de-l-ecureuil-19-04-2025-2587714_1924.php) (Le Point)
 
 - [Zambia confirms second mpox death as cases rise to 49](https://www.thestar.com.my/news/world/2025/04/18/zambia-confirms-second-mpox-death-as-cases-rise-to-49) (The Star Online)
 
@@ -373,6 +375,8 @@ Source: [News API](https://newsapi.org/)
 - [Maintain clean surrounding, health authorities urge](https://www.fijitimes.com.fj/maintain-clean-surrounding-health-authorities-urge/) (Fijitimes.com.fj)
 
 ## 25-16 (chikungunya)
+
+- [Cyclone Chido, épidémie de chikungunya, îles Eparses… Quels sont les enjeux de la tournée d'Emmanuel Macron dans l'océan Indien ?](https://www.francetvinfo.fr/france/mayotte/cyclone-chido-epidemie-de-chikungunya-iles-eparses-quels-sont-les-enjeux-de-la-tournee-d-emmanuel-macron-dans-l-ocean-indien_7198656.html) (Francetvinfo.fr)
 
 - [L’épidémie de chikungunya ébranle La Réunion : « Il s’agit d’un mini-Covid à l’échelon local »](https://www.lemonde.fr/planete/article/2025/04/18/l-epidemie-de-chikungunya-ebranle-la-reunion-il-s-agit-d-un-mini-covid-a-l-echelon-local_6597448_3244.html) (Le Monde)
 
@@ -2984,8 +2988,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles Exposure Warning Issued for Washington Dulles Airport: What to Know](https://www.newsweek.com/measles-exposure-warning-issued-washington-dulles-airport-2041910) (Newsweek)
 
-- [Travelers At DC’s Dulles Airport Potentially Exposed To Measles—As Maryland Announces New Case](https://www.forbes.com/sites/alisondurkee/2025/03/09/travelers-at-dcs-dulles-airport-potentially-exposed-to-measles-as-maryland-announces-new-case/) (Forbes)
-
 ## 25-11 (malaria)
 
 - [Health Ministry dismisses claims of critical shortages of malaria drugs](https://nbcnews.na/node/109907) (Nbcnews.na)
@@ -3021,14 +3023,6 @@ Source: [News API](https://newsapi.org/)
 - [Microbiota de pingüinos, esperanza inmunológica contra la malaria o la leishmaniasis](https://www.montevideo.com.uy/Salud/Microbiota-de-pinguinos-esperanza-inmunologica-contra-la-malaria-o-la-leishmaniasis-uc917240) (Montevideo.com.uy)
 
 - [Revolucionario enfoque genético contra la malaria: un parásito modificado podría ser la clave para una vacuna efectiva](http://www.muyinteresante.com/salud/enfoque-genetico-contra-la-malaria.html) (Muyinteresante.com)
-
-- [Cancer drug realized after researcher's chance exposure to malaria drug](https://newatlas.com/cancer/pyronaridine-cancer-treatment/) (New Atlas)
-
-- [Former USAID head warns disease outbreaks could grow after cuts to agency](https://www.cbc.ca/news/politics/former-usaid-administrator-samantha-power-1.7477750) (CBC News)
-
-- [100 000 kan dö i malaria när USA stryper bistånd](https://www.svd.se/a/1MzgVB/100000-kan-do-i-malaria-nar-usa-stryper-bistand) (Svenska Dagbladet)
-
-- [100 000 kan dö i malaria när USA stryper bistånd](https://www.aftonbladet.se/nyheter/a/vgpvwm/100000-kan-do-i-malaria-nar-usa-stryper-bistand) (Aftonbladet.se)
 
 ## 25-11 (hpai)
 
@@ -3109,12 +3103,6 @@ Source: [News API](https://newsapi.org/)
 - [Notre système immunitaire est-il déjà immunisé contre la grippe aviaire ?](https://dailygeekshow.com/grippe-aviaire-immunite/) (Daily Geek Show)
 
 - [RFK Jr. and Federal Health Agencies Wisely Oppose Mass H5N1 Animal Vaccination Over Mutation Concerns](https://www.globalresearch.ca/rfk-jr-federal-health-agencies-oppose-mass-h5n1-animal-vaccination/5881691) (Globalresearch.ca)
-
-- [Blir det sjukdom X? Så letar forskarvärlden efter smittan som blir nästa pandemi](https://www.dn.se/sverige/blir-det-sjukdom-x-sa-letar-forskarvarlden-efter-smittan-som-blir-nasta-pandemi/) (Www.dn.se)
-
-- [केंद्र ने बर्ड फ्लू को लेकर 9 राज्यों को जारी किया अलर्ट, जानें H5N1 वायरस के लक्षण और बचाव के उपाय](https://www.aajtak.in/india/news/story/center-issued-alert-to-9-states-regarding-bird-flu-know-the-symptoms-and-prevention-measures-from-h5n1-virus-ntc-rpti-2185989-2025-03-09) (Aajtak.in)
-
-- [Esperti su Science, prepararsi in tempo a una pandemia di aviaria](https://www.ansa.it/canale_scienza/notizie/biotech/2025/03/08/esperti-su-science-prepararsi-in-tempo-a-una-pandemia-di-aviaria_3d46145a-8dba-4e32-98b7-d5ffe4b3cc9a.html) (ANSA.it)
 
 ## 25-11 (dengue)
 
