@@ -1,8 +1,260 @@
 {
-  "last_updated": "2025-04-21 07:07",
-  "count_articles_total": 1454,
-  "count_articles_new": 10,
+  "last_updated": "2025-04-21 19:06",
+  "count_articles_total": 1460,
+  "count_articles_new": 14,
   "articles": [
+    {
+      "id": 20562,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Themirror.com",
+      "author": "the mirror us",
+      "title": "Measles outbreaks spreads across to 27 states...",
+      "description": "",
+      "url": "https://www.themirror.com/news/health/measles-cases-louisiana-measles-virginia-1103427",
+      "urlToImage": null,
+      "publishedAt": "2025-04-20 17:00:03",
+      "content": "Parts of the US are recording some of their first measles cases, with at least 27 states in America now impacted by the ongoing measles outbreak",
+      "retrievedAt": "2025-04-21 19:06:01.655199",
+      "internal_id": "7b76307292503f9000169f5e8b348fdb6d787a35a7b2b18e5521f5823de127c8",
+      "publishedAtLabel": "Apr 20"
+    },
+    {
+      "id": 20564,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Observador.pt",
+      "author": "Martim Andrade",
+      "title": "Vem a\u00ed um ver\u00e3o cheio de mosquitos. Devemos temer a dengue e a mal\u00e1ria?",
+      "description": "N\u00famero de mosquitos dever\u00e1 aumentar, acreditam os especialistas \u2014 e o controlo de esp\u00e9cies perigosas tamb\u00e9m passa pelos cidad\u00e3os. V\u00edrus do Nilo Ocidental pode ser uma amea\u00e7a desconhecida.",
+      "url": "https://observador.pt/especiais/vem-ai-um-verao-cheio-de-mosquitos-devemos-temer-a-dengue-e-a-malaria/",
+      "urlToImage": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1122%3Anowe%3A0%3A48%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2017%2F07%2F17154803%2Faedes_albopictus.jpg?layer=obstop:T",
+      "publishedAt": "2025-04-20 14:54:27",
+      "content": "Em segundo lugar, esta plataforma tamb\u00e9m permite fazer uma atualiza\u00e7\u00e3o do mapa de distribui\u00e7\u00e3o das esp\u00e9cies aut\u00f3ctones, as nativas de Portugal, que acabam por n\u00e3o passar integralmente pelas armadilha\u2026 [+4318 chars]",
+      "retrievedAt": "2025-04-21 19:06:02.760689",
+      "internal_id": "ff0cbc3804c7b93efe26fd6782880fe24b917b46faacce5ddf36e9123f85a5c1",
+      "publishedAtLabel": "Apr 20"
+    },
+    {
+      "id": 20569,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Idnes.cz",
+      "author": "Alfred Hosti\u010dka, \u010cTK",
+      "title": "Ostrov R\u00e9union su\u017euje \u201emini-covid\u201c. Kom\u00e1\u0159\u00ed hore\u010dku chytil u\u017e ka\u017ed\u00fd dev\u00e1t\u00fd",
+      "description": "Epidemie nemoci chikungunya v posledn\u00edch m\u011bs\u00edc\u00edch zu\u017euje obyvatele ostrovu R\u00e9union. M\u00edstn\u00ed chorob\u011b p\u0159ezd\u00edvaj\u00ed \u201emini-covid,\u201c proto\u017ee jej\u00ed pr\u016fb\u011bh i d\u016fsledky \u0161\u00ed\u0159en\u00ed p\u0159ipom\u00ednaj\u00ed epidemii koronaviru. Virem se podle den\u00edku Le Monde nakazil v\u00edce ne\u017e ka\u017ed\u00fd dev\u00e1t\u00fd oby\u2026",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/covid-reunion-komari-horecka.A250420_150607_zahranicni_fred",
+      "urlToImage": "https://1gr.cz/tempimg/fb/2025/4/FRE871a756c89_profimedia_0988611326.jpg",
+      "publishedAt": "2025-04-20 14:19:00",
+      "content": "Ti dny to byla opravdov\u00e1 non\u00ed mra. Po\u00e1dn jsem si to vyzkouel a jet nen\u00ed konec, sdlil francouzsk\u00e9mu m\u00e9diu uitel tlesn\u00e9 v\u00fdchovy Pascal Arville. Dvaaedes\u00e1tilet\u00e9ho sportovn zaloen\u00e9ho obyvatele msta Sai\u2026 [+3348 chars]",
+      "retrievedAt": "2025-04-21 19:06:04.601388",
+      "internal_id": "50a944906575013d1a29be0cab4e704f90f01a9f64a6c9e36f9ae98439409355",
+      "publishedAtLabel": "Apr 20"
+    },
+    {
+      "id": 20565,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Bruno Bucis",
+      "title": "Brasil ultrapassa 1 milh\u00e3o de casos de dengue em 2025",
+      "description": "Apesar de queda em rela\u00e7\u00e3o a 2024, n\u00fameros indicam que 2025 ainda pode se tornar o segundo ano com mais casos da doen\u00e7a",
+      "url": "https://www.metropoles.com/saude/milhao-de-casos-de-dengue-em-2025",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2025/01/14152156/combate-a-dengue4.jpg",
+      "publishedAt": "2025-04-20 14:16:19",
+      "content": "O Brasil ultrapassou neste domingo a marca de 1 milh\u00e3o de casos prov\u00e1veis de dengue registrados em 2025. Os dados do Minist\u00e9rio da Sa\u00fade apontam que at\u00e9 a 15 semana epidemiol\u00f3gica, encerrada no dia 1\u2026 [+3970 chars]",
+      "retrievedAt": "2025-04-21 19:06:02.788661",
+      "internal_id": "85c29cb40dfc83b2ca603d55fcd0aa5e3b6f27890da978b3864d00dc37f66fd3",
+      "publishedAtLabel": "Apr 20"
+    },
+    {
+      "id": 20561,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Crooksandliars.com",
+      "author": "Conover Kennard",
+      "title": "'Extraordinary': RFK Jr Praises Doctor With Measles Who Treated Kids With Measles",
+      "description": "Secretary of the Department of Health and Human Services (HHS), RFK Jr., is hugely unfit for the job, and to prove that point, Bobby, a conspiracy theorist, praised a Texas doctor who has been treating children with measles and yet, he was seen on video with \u2026",
+      "url": "https://crooksandliars.com/2025/04/extraordinary-rfk-jr-praises-doctor",
+      "urlToImage": "https://crooksandliars.com/files/embeds/2025/04/65121.jpg",
+      "publishedAt": "2025-04-20 14:07:24",
+      "content": "Secretary of the Department of Health and Human Services (HHS), RFK Jr., is hugely unfit for the job, and to prove that point, Bobby, a conspiracy theorist, praised a Texas doctor who has been treati\u2026 [+2010 chars]",
+      "retrievedAt": "2025-04-21 19:06:01.571811",
+      "internal_id": "61a895ffb80e1e2baeb8e3c73456fa2b80b88124534f4bd10601b6cd2a63e29b",
+      "publishedAtLabel": "Apr 20"
+    },
+    {
+      "id": 20566,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "\u00bfC\u00f3mo saber si tengo dengue? Esto dice el Ministerio de Salud P\u00fablica",
+      "description": "La cartera comunic\u00f3 los s\u00edntomas que podr\u00edan alertar sobre el contagio luego de que se detectara un nuevo caso en Paysand\u00fa.",
+      "url": "https://www.montevideo.com.uy/Noticias/-Como-saber-si-tengo-dengue-Esto-dice-el-Ministerio-de-Salud-Publica-uc921271",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202402/_W933_80/871745.jpg",
+      "publishedAt": "2025-04-20 12:57:00",
+      "content": "Montevideo Portal El Ministerio de Salud P\u00fablica (MSP) alert\u00f3 sobre los s\u00edntomas del dengue, para evitar su propagaci\u00f3n en un comunicado difundido en redes sociales. El MSP recomienda eliminar reci\u2026 [+856 chars]",
+      "retrievedAt": "2025-04-21 19:06:02.796705",
+      "internal_id": "f23fe6fe7cfdbc0259d13b0457049954d863f9add1a77e47079159f31852ddfe",
+      "publishedAtLabel": "Apr 20"
+    },
+    {
+      "id": 20567,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "BusinessLine",
+      "author": "Team BL",
+      "title": "Endgame malaria",
+      "description": "World Health Organization calls for reinvestment, reimagination, and reignition to accelerate progress towards ending malaria on World Malaria Day.",
+      "url": "https://www.thehindubusinessline.com/specials/pulse/endgame-malaria/article69457631.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/b5k3bv/article69471172.ece/alternates/LANDSCAPE_1200/IMG_iStock-1405461058_2_1_36A6T7FQ.jpg",
+      "publishedAt": "2025-04-20 12:36:40",
+      "content": "On World Malaria Day (April 25), lets reinvest, reimagine, and reignite so that malaria ends with us, says the World Health Organization (WHO). The grassroots campaign aims to re-energise efforts f\u2026 [+1178 chars]",
+      "retrievedAt": "2025-04-21 19:06:03.627995",
+      "internal_id": "d5a40781f75f7368f55f9c40238aa701d54d68dece57452b8d5446b9c9ea2a1c",
+      "publishedAtLabel": "Apr 20"
+    },
+    {
+      "id": 20571,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Eleconomista.es",
+      "author": "elEconomista.es",
+      "title": "Caos en la isla francesa de la Reuni\u00f3n por la epidemia de chikungunya",
+      "description": "Las autoridades de la isla francesa de la Reuni\u00f3n, en el Oc\u00e9ano \u00cdndico, han avisado que est\u00e1n a punto de verse desbordadas por la epidemia de virus chikungunya que ha dejado desde principios de a\u00f1o m\u00e1s de 33.000 casos y seis muertos en el territorio.",
+      "url": "https://www.eleconomista.es/salud-bienestar/noticias/13325223/04/25/caos-en-la-isla-francesa-de-la-reunion-por-la-epidemia-de-chikungunya.html",
+      "urlToImage": "https://s03.s3c.es/imag/_v0/1200x655/9/e/9/hm.jpg",
+      "publishedAt": "2025-04-20 12:33:19",
+      "content": "Las autoridades de la isla francesa de la Reuni\u00f3n, en el Oc\u00e9ano \u00cdndico, han avisado que est\u00e1n a punto de verse desbordadas por la epidemia de virus chikungunya que ha dejado desde principios de a\u00f1o m\u2026 [+1045 chars]",
+      "retrievedAt": "2025-04-21 19:06:04.645179",
+      "internal_id": "d0b9cd511c49bacc058e28fe5966fcdc3a6e87dff39c1dcac3ac159747b34231",
+      "publishedAtLabel": "Apr 20"
+    },
+    {
+      "id": 20572,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Europapress.es",
+      "author": null,
+      "title": "Las autoridades de Reuni\u00f3n (Francia) avisan que est\u00e1n al borde de la saturaci\u00f3n por la epidemia de chikungunya",
+      "description": "Las autoridades de la isla francesa de Reuni\u00f3n han avisado que est\u00e1n a punto de verse desbordadas por la epidemia de virus chikungunya que ha dejado desde principios de a\u00f1o m\u00e1s de 33.000 casos y seis muertos en el territorio.",
+      "url": "https://www.europapress.es/internacional/noticia-autoridades-reunion-francia-avisan-estan-borde-saturacion-epidemia-chikungunya-20250420135315.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20250420135315_1200.jpg",
+      "publishedAt": "2025-04-20 11:53:15",
+      "content": "MADRID 20 Abr. (EUROPA PRESS) - Las autoridades de la isla francesa de Reuni\u00f3n han avisado que est\u00e1n a punto de verse desbordadas por la epidemia de virus chikungunya que ha dejado desde principio\u2026 [+1069 chars]",
+      "retrievedAt": "2025-04-21 19:06:04.652959",
+      "internal_id": "1f24bc8c4f67ef03b11a7c3a39962cecb36b84b6b3c0d4254569c4c725d07931",
+      "publishedAtLabel": "Apr 20"
+    },
+    {
+      "id": 20560,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Nakedcapitalism.com",
+      "author": "Haig Hovaness",
+      "title": "Links 4/20/2025",
+      "description": "Our strategic daily links: Wild leaps, more measles, toxic rice, robot runners, EU workers, Gaza horrors, Ukraine burning, student deportations, vanishing privacy, DOGEy moves, Trumpworld, immigration troubles, plunging markets, AI, and wretched excess",
+      "url": "https://www.nakedcapitalism.com/2025/04/links-4-20-2025.html",
+      "urlToImage": "https://www.nakedcapitalism.com/wp-content/uploads/2025/04/Caracal-600.jpg",
+      "publishedAt": "2025-04-20 10:55:56",
+      "content": "Solving the Trolley Problem: Towards Moral Abundance 3 Quarks Daily Does TED Still Make Sense? Quillette The amazing stunts by freerunner Dominic Di Tommaso [ domtomato]pic.twitter.com/cd0T9VCvaM \u2026 [+6596 chars]",
+      "retrievedAt": "2025-04-21 19:06:01.535576",
+      "internal_id": "d08e9fe0ab3fc21dbdc0351e1fcb11c7dd156876102ba9949a1d68099e345f73",
+      "publishedAtLabel": "Apr 20"
+    },
+    {
+      "id": 20563,
+      "query": [
+        "measles"
+      ],
+      "source_id": "nbc-news",
+      "source_name": "NBC News",
+      "author": "David Cox",
+      "title": "What causes breakthrough measles infections even if someone is vaccinated?",
+      "description": "A small number of people who have been fully vaccinated against measles may get sick if exposed to the virus, research finds. Why do these infections happen?",
+      "url": "https://www.nbcnews.com/health/health-news/measles-breakthrough-infections-causes-vaccine-symptoms-rcna201799",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-04/250417-measles-vaccine-vl-451p-b34c54.jpg",
+      "publishedAt": "2025-04-20 10:00:00",
+      "content": "More than 800 people in the U.S. have had measles since the beginning of the year, according to NBC News data. The majority of cases are in West Texas, where an outbreak that shows no signs of abatin\u2026 [+9661 chars]",
+      "retrievedAt": "2025-04-21 19:06:01.696471",
+      "internal_id": "ba5c948d48dfc3986b1660f156d88d401a611e4c9bde7b2eb82a5bd50d00e163",
+      "publishedAtLabel": "Apr 20"
+    },
+    {
+      "id": 20570,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
+      "author": "La r\u00e9daction avec AFP",
+      "title": "La R\u00e9union. Le directeur du CHU demande des renforts pour lutter contre l'\u00e9pid\u00e9mie de chikungunya",
+      "description": "Le directeur g\u00e9n\u00e9ral du centre hospitalier de La R\u00e9union Lionel Calenge a d\u00e9clar\u00e9 dimanche avoir demand\u00e9 l'envoi de renforts m\u00e9dicaux pour faire face au pic de l'\u00e9pid\u00e9mie de chikungunya, qui a d\u00e9j\u00e0 fait six morts sur l'\u00eele.",
+      "url": "https://www.ledauphine.com/sante/2025/04/20/le-directeur-du-chu-demande-des-renforts-pour-lutter-contre-l-epidemie-de-chikungunya",
+      "urlToImage": "https://cdn-s-www.ledauphine.com/images/9C81A770-1DEF-4317-944D-A7776F4F371D/FB1200/photo-1745136324.jpg",
+      "publishedAt": "2025-04-20 08:30:00",
+      "content": "Alors que l'\u00e9pid\u00e9mie de chikungunya fait des ravages \u00e0 La R\u00e9union, le directeur g\u00e9n\u00e9ral du centre hospitalier Lionel Calenge veut des renforts. Pour faire face \u00e0 une \u00ab hausse de l'activit\u00e9 aux urgenc\u2026 [+1938 chars]",
+      "retrievedAt": "2025-04-21 19:06:04.623090",
+      "internal_id": "c84ddd68916cb6b34314531694ff701593761695e13a6327de951dca8b877826",
+      "publishedAtLabel": "Apr 20"
+    },
+    {
+      "id": 20568,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Le HuffPost",
+      "author": "Le HuffPost avec AFP",
+      "title": "L\u2019\u00e9pid\u00e9mie de chikungunya atteint son pic \u00e0 La R\u00e9union, le CHU demande des renforts pour \u00e9viter des morts",
+      "description": "Six personnes sont d\u00e9j\u00e0 d\u00e9c\u00e9d\u00e9es sur l\u2019\u00eele \u00e0 cause de l\u2019\u00e9pid\u00e9mie de \u00ab chik \u00bb provoqu\u00e9e par des piq\u00fbres de moustiques tigre.",
+      "url": "https://www.huffingtonpost.fr/france/article/l-epidemie-de-chikungunya-atteint-son-pic-a-la-reunion-le-chu-demande-des-renforts-pour-eviter-des-morts_249021.html",
+      "urlToImage": "https://focus.huffingtonpost.fr/2025/04/20/126/0/5613/3157/1820/1023/75/0/ef7e634_sirius-fs-upload-1-eakniyckcwec-1745135343150-000-39y86ke.jpg",
+      "publishedAt": "2025-04-20 07:53:03",
+      "content": "SANT\u00c9 - Le pic est l\u00e0, et il ne sait pas comment faire face. Le directeur g\u00e9n\u00e9ral du centre hospitalier de La R\u00e9union Lionel Calenge a d\u00e9clar\u00e9 dimanche 20 avril avoir demand\u00e9 lenvoi de renforts m\u00e9dic\u2026 [+2284 chars]",
+      "retrievedAt": "2025-04-21 19:06:04.592906",
+      "internal_id": "8528bf6851786af0fba525c8f2cd1bffdf954410ac58265eb58cb05a4ae5c319",
+      "publishedAtLabel": "Apr 20"
+    },
+    {
+      "id": 20573,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "L'Express",
+      "author": "L\u2019Express",
+      "title": "Reconstruction de Mayotte, chikungunya\u2026 Les enjeux de la tourn\u00e9e d\u2019Emmanuel Macron dans l\u2019oc\u00e9an Indien",
+      "description": "Le pr\u00e9sident entame lundi une tourn\u00e9e de cinq jours dans l\u2019oc\u00e9an Indien afin de renforcer la place de la France dans cette r\u00e9gion strat\u00e9gique tr\u00e8s convoit\u00e9e.",
+      "url": "https://www.lexpress.fr/politique/reconstruction-de-mayotte-chikungunya-les-enjeux-de-la-tournee-demmanuel-macron-dans-locean-indien-T37T7LNZEBDSRNMCU5EZAZJFTM/",
+      "urlToImage": "https://www.lexpress.fr/resizer/v2/2VE7BQ4MVVDPFLS533GOIIWXXE.jpg?auth=372c3194ca275c672f3515b165c1f26c14632361a2f6ed2b322a89fad18d81c2&width=1200&height=630&quality=85&smart=true",
+      "publishedAt": "2025-04-20 07:30:00",
+      "content": "Cest une promesse que le pr\u00e9sident veut tenir. Le 18 d\u00e9cembre dernier, lorsquil est venu constater lampleur des d\u00e9g\u00e2ts du cyclone Chido, Emmanuel Macron avait promis aux Mahorais de revenir pour \"lan\u2026 [+3998 chars]",
+      "retrievedAt": "2025-04-21 19:06:04.674104",
+      "internal_id": "47e1f4657199caec539796ce8d2c07bf7b23a8f474d4a1afb3cf996c982adb15",
+      "publishedAtLabel": "Apr 20"
+    },
     {
       "id": 20559,
       "query": [
@@ -26072,150 +26324,6 @@
       "content": "Maryland health officials issued a warning on Sunday to anyone who passed through Washington Dulles International Airport or was in the Johns Hopkins Howard County Medical Center Pediatric Emergency \u2026 [+4685 chars]",
       "retrievedAt": "2025-03-11 07:06:59.844376",
       "internal_id": "8ec1966572c7adbca8ad2ea11668afed8a157aefe451902711fdf049b32d6bec",
-      "publishedAtLabel": "Mar 9"
-    },
-    {
-      "id": 19094,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Forbes",
-      "author": "Alison Durkee, Forbes Staff, \n Alison Durkee, Forbes Staff\n https://www.forbes.com/sites/alisondurkee/",
-      "title": "Travelers At DC\u2019s Dulles Airport Potentially Exposed To Measles\u2014As Maryland Announces New Case",
-      "description": "The news comes a broader outbreak in Texas and New Mexico.",
-      "url": "https://www.forbes.com/sites/alisondurkee/2025/03/09/travelers-at-dcs-dulles-airport-potentially-exposed-to-measles-as-maryland-announces-new-case/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67cddeb948436fb2f54a4619/0x0.jpg?format=jpg&crop=2277,1281,x0,y87,safe&height=900&width=1600&fit=bounds",
-      "publishedAt": "2025-03-09 18:47:53",
-      "content": "Maryland health officials announced Sunday that a resident who traveled internationally has tested positive for measles, warning that travelers at Washington Dulles Airport on March 5 may have been e\u2026 [+4824 chars]",
-      "retrievedAt": "2025-03-10 19:06:03.197554",
-      "internal_id": "99d9e8975fe965c0682982d77d82ec73d0d6995bd1efbe596ca35a1556328287",
-      "publishedAtLabel": "Mar 9"
-    },
-    {
-      "id": 19096,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Www.dn.se",
-      "author": "Anna Bratt, Jenny Alv\u00e9n",
-      "title": "Blir det sjukdom X? S\u00e5 letar forskarv\u00e4rlden efter smittan som blir n\u00e4sta pandemi",
-      "description": "Forskare letar efter nya smittor som kan starta n\u00e4sta pandemi. F\u00e5gelinfluensan H5N1 \u00e4r bara ett av flera virus som \u00e4r i fokus. I v\u00e4rsta fall blir det \u201dsjukdom X\u201d som drabbar v\u00e4rlden. \u2013 Det \u00e4r vad vi verkligen fruktar, s\u00e4ger professor Ali Mirazimi.",
-      "url": "https://www.dn.se/sverige/blir-det-sjukdom-x-sa-letar-forskarvarlden-efter-smittan-som-blir-nasta-pandemi/",
-      "urlToImage": "https://static.bonniernews.se/gcs/bilder/dn-mly/ee95333e-0aef-4c89-b8e6-2187e6f779a6.jpeg?io=1&width=1024&crop=16:9,smart",
-      "publishedAt": "2025-03-09 18:01:49",
-      "content": "Det har g\u00e5tt fem \u00e5r sedan V\u00e4rldsh\u00e4lsoorganisationen WHO deklarerade att covid-19 var en pandemi. Sedan dess har coronaviruset sars-cov-2 lett till omkring sju miljoner d\u00f6dsfall och har gett m\u00e5nga m\u00e4n\u2026 [+8167 chars]",
-      "retrievedAt": "2025-03-10 19:06:03.982790",
-      "internal_id": "e1e868922073235e3fd286694440e048a86cd085b011dc786ef0efeed288f239",
-      "publishedAtLabel": "Mar 9"
-    },
-    {
-      "id": 19097,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Aajtak.in",
-      "author": "\u0905\u092e\u0928 \u092d\u093e\u0930\u0926\u094d\u0935\u093e\u091c",
-      "title": "\u0915\u0947\u0902\u0926\u094d\u0930 \u0928\u0947 \u092c\u0930\u094d\u0921 \u092b\u094d\u0932\u0942 \u0915\u094b \u0932\u0947\u0915\u0930 9 \u0930\u093e\u091c\u094d\u092f\u094b\u0902 \u0915\u094b \u091c\u093e\u0930\u0940 \u0915\u093f\u092f\u093e \u0905\u0932\u0930\u094d\u091f, \u091c\u093e\u0928\u0947\u0902 H5N1 \u0935\u093e\u092f\u0930\u0938 \u0915\u0947 \u0932\u0915\u094d\u0937\u0923 \u0914\u0930 \u092c\u091a\u093e\u0935 \u0915\u0947 \u0909\u092a\u093e\u092f",
-      "description": "\u0930\u093e\u091c\u094d\u092f\u094b\u0902 \u0938\u0947 \u090f\u0935\u093f\u092f\u0928 \u0907\u0928\u094d\u092b\u094d\u0932\u0942\u090f\u0902\u091c\u093e \u0938\u0947 \u0928\u093f\u092a\u091f\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0928\u0947\u0936\u0928\u0932 \u090f\u0915\u094d\u0936\u0928 \u092a\u094d\u0932\u093e\u0928 \u0915\u093e \u0938\u0916\u094d\u0924\u0940 \u0938\u0947 \u092a\u093e\u0932\u0928 \u0915\u0930\u0928\u0947, \u0915\u094d\u0935\u093f\u0915 \u0930\u093f\u0938\u094d\u092a\u0949\u0928\u094d\u0938 \u091f\u0940\u092e\u094b\u0902 \u0915\u094b \u0938\u0915\u094d\u0930\u093f\u092f \u0915\u0930\u0928\u0947 \u0914\u0930 \u0935\u0947\u091f\u0930\u0928\u0930\u0940 \u0914\u0930 \u0932\u0948\u092c\u094d\u0938 \u0915\u0940 \u0938\u0902\u0916\u094d\u092f\u093e \u092c\u0922\u093c\u093e\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0915\u0939\u093e \u0917\u092f\u093e \u0939\u0948. \u0915\u0947\u0902\u0926\u094d\u0930 \u0928\u0947 \u0915\u0939\u093e \u0939\u0948 \u0915\u093f \u0907\u0928 \u0909\u092a\u093e\u092f\u094b\u0902 \u092a\u0930 \u0924\u0924\u094d\u0915\u093e\u0932 \u0927\u094d\u092f\u093e\u0928 \u0926\u0947\u0928\u0947 \u0938\u0947 \u090f\u0935\u093f\u092f\u0928 \u0907\u0928\u094d\u092b\u094d\u0932\u0942\u090f\u0902\u091c\u093e \u0915\u0947 \u092a\u094d\u0930\u0938\u2026",
-      "url": "https://www.aajtak.in/india/news/story/center-issued-alert-to-9-states-regarding-bird-flu-know-the-symptoms-and-prevention-measures-from-h5n1-virus-ntc-rpti-2185989-2025-03-09",
-      "urlToImage": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202503/67cdb7aa4880d-bird-flu-094541884-16x9.png",
-      "publishedAt": "2025-03-09 16:00:21",
-      "content": ", (H5N1) 9 . (H5N1) . . , ' 2025 9 (H5N1) , . . , .' : , . , . , . . : , H5N1 , - , - . , , , , , , , , , , . , , . . , . . : , . . . . .",
-      "retrievedAt": "2025-03-10 19:06:03.996825",
-      "internal_id": "a24da079e3dc072fad8979033fc31753dba1b8703ac55d7d2fac5b731bc14b25",
-      "publishedAtLabel": "Mar 9"
-    },
-    {
-      "id": 19098,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "New Atlas",
-      "author": "Paul McClure",
-      "title": "Cancer drug realized after researcher's chance exposure to malaria drug",
-      "description": "When experienced researcher Renato Aguilera happened across the chemical structure of a tried-and-true antimalarial drug one day, he thought it might effectively fight cancer. He was right, and he has the research, the patent, and the pharma company to prove \u2026",
-      "url": "https://newatlas.com/cancer/pyronaridine-cancer-treatment/",
-      "urlToImage": "https://assets.newatlas.com/dims4/default/827968a/2147483647/strip/true/crop/2000x1050+0+38/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Ff0%2F36%2Fc9685a8f4e1b9c211fa8163e49fc%2F022425-renato-aguilera-cancer-lm13-medium.jpg&na.image_optimisation=0",
-      "publishedAt": "2025-03-09 15:03:00",
-      "content": "When experienced researcher Renato Aguilera happened across the chemical structure of a tried-and-true antimalarial drug one day, he thought it might effectively fight cancer. He was right, and he ha\u2026 [+3481 chars]",
-      "retrievedAt": "2025-03-10 19:06:04.736659",
-      "internal_id": "725b7a41bc90d9f9d5de5caf588e113a167d924f92646fc1942e02de44927607",
-      "publishedAtLabel": "Mar 9"
-    },
-    {
-      "id": 19095,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "ansa",
-      "source_name": "ANSA.it",
-      "author": null,
-      "title": "Esperti su Science, prepararsi in tempo a una pandemia di aviaria",
-      "description": "Con i vaccini e una buona informazione (ANSA)",
-      "url": "https://www.ansa.it/canale_scienza/notizie/biotech/2025/03/08/esperti-su-science-prepararsi-in-tempo-a-una-pandemia-di-aviaria_3d46145a-8dba-4e32-98b7-d5ffe4b3cc9a.html",
-      "urlToImage": "https://www.ansa.it/webimages/img_1129x635/2025/3/8/78398e626774b33ea8e1b5bc652e1688.jpg",
-      "publishedAt": "2025-03-09 08:31:03",
-      "content": "Una lettera pubblicata sulla rivista Science esorta governi, mondo dellindustria e comunit\u00e0 scientifica a prepararsi a una possibile pandemia di influenza aviaria provocata dal virus H5N1. Prepararci\u2026 [+3698 chars]",
-      "retrievedAt": "2025-03-10 19:06:03.962453",
-      "internal_id": "8326eacf252d81590f1e789ad9e53972f066d1485b3bcbd240ffaee47f0d4782",
-      "publishedAtLabel": "Mar 9"
-    },
-    {
-      "id": 19099,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "cbc-news",
-      "source_name": "CBC News",
-      "author": null,
-      "title": "Former USAID head warns disease outbreaks could grow after cuts to agency",
-      "description": "The former administrator of the U.S. Agency for International Development says major funding cuts to the agency could lead to more cases of diseases like paralytic polio and malaria.",
-      "url": "https://www.cbc.ca/news/politics/former-usaid-administrator-samantha-power-1.7477750",
-      "urlToImage": "https://i.cbc.ca/1.7478098.1741378491!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_1180/cambodia-usaid.jpg?im=Resize%3D620",
-      "publishedAt": "2025-03-09 08:00:00",
-      "content": "The former administrator of the U.S. Agency for International Development (USAID) says major funding cuts to the agency could lead to more cases of diseases like paralytic polio and malaria. In an \u2026 [+3031 chars]",
-      "retrievedAt": "2025-03-10 19:06:04.744618",
-      "internal_id": "60bb2a4aa94f6bed3814ac8edb9240b71c3e8ccfeb8c55226154ce89f8a7e3dc",
-      "publishedAtLabel": "Mar 9"
-    },
-    {
-      "id": 19100,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "svenska-dagbladet",
-      "source_name": "Svenska Dagbladet",
-      "author": "TT TT-AP",
-      "title": "100 000 kan d\u00f6 i malaria n\u00e4r USA stryper bist\u00e5nd",
-      "description": "Ingen sjukdom i Afrika \u00e4r d\u00f6dligare \u00e4n malaria \u2013 s\u00e4rskilt f\u00f6r barn. Men Donald Trumps nedsk\u00e4rningar i USA:s bist\u00e5nd f\u00f6rsvagar kampen mot infektionen, varnar experter. Tusentals kan d\u00f6.",
-      "url": "https://www.svd.se/a/1MzgVB/100000-kan-do-i-malaria-nar-usa-stryper-bistand",
-      "urlToImage": "https://svd.vgc.no/v2/images/5aa8e113-c5ee-44d5-8961-69ab807db191?h=630&q=80&upscale=true&w=1200&s=f17195712baf0fdde4cef363e8f6e553c600bc62",
-      "publishedAt": "2025-03-09 07:47:51",
-      "content": "Fler \u00e4n tusen barn under fem \u00e5rs \u00e5lder n\u00e4stan ett varje minut d\u00f6r enligt Unicef dagligen av malaria. M\u00e5nga av d\u00f6dsfallen hade enligt FN-organet kunnat undvikas med f\u00f6rebyggande insatser och r\u00e4tt beha\u2026 [+267 chars]",
-      "retrievedAt": "2025-03-10 19:06:04.758983",
-      "internal_id": "28a95284b4932d2f8b830ab4fe35133f8025df6bb0d7db6d5d36c0116a28852a",
-      "publishedAtLabel": "Mar 9"
-    },
-    {
-      "id": 19101,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Aftonbladet.se",
-      "author": "TT",
-      "title": "100 000 kan d\u00f6 i malaria n\u00e4r USA stryper bist\u00e5nd",
-      "description": "Ingen sjukdom i Afrika \u00e4r d\u00f6dligare \u00e4n malaria \u2013 s\u00e4rskilt f\u00f6r barn. Men Donald Trumps nedsk\u00e4rningar i USA:s bist\u00e5nd f\u00f6rsvagar kampen mot infektionen, varnar exp",
-      "url": "https://www.aftonbladet.se/nyheter/a/vgpvwm/100000-kan-do-i-malaria-nar-usa-stryper-bistand",
-      "urlToImage": "https://images.aftonbladet-cdn.se/v2/images/6585662c-7906-4caa-b155-705b962ba439?fit=crop&format=auto&h=1268&q=50&w=1900&s=83c746aa799a51f9446fc97d743f2b6ef743fbdb",
-      "publishedAt": "2025-03-09 07:47:50",
-      "content": "Ingen sjukdom i Afrika \u00e4r d\u00f6dligare \u00e4n malaria s\u00e4rskilt f\u00f6r barn. Men Donald Trumps nedsk\u00e4rningar i USA:s bist\u00e5nd f\u00f6rsvagar kampen mot infektionen, varnar experter. Tusentals kan d\u00f6. Fler \u00e4n tusen \u2026 [+2341 chars]",
-      "retrievedAt": "2025-03-10 19:06:04.780164",
-      "internal_id": "e48f203f939ab33c80adc61d96bad91de208ccde1f7a4ca3d3ec7b55700f0dd3",
       "publishedAtLabel": "Mar 9"
     }
   ]
