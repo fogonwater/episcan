@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 2
-- **Last harvest:** 2025-04-20 19:05
-- **Most recent article:** 2025-04-19 08:02:27
+- **New articles in last harvest:** 10
+- **Last harvest:** 2025-04-21 07:07
+- **Most recent article:** 2025-04-20 06:28:07
 
 ---
 
@@ -10,27 +10,43 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 25-11 | 25-12 | 25-13 | 25-14 | 25-15 | 25-16 | Total |
-|--|-|-|-|-|-|-|-|
-| measles | 131 | 108 | 101 | 77 | 145 | 67 | 629 |
-| h5n1 | 35 | 57 | 47 | 46 | 66 | 9 | 260 |
-| dengue | 12 | 18 | 20 | 14 | 24 | 30 | 118 |
-| malaria | 17 | 18 | 30 | 13 | 10 | 14 | 102 |
-| chikungunya | 1 | 17 | 10 | 17 | 15 | 39 | 99 |
-| mpox | 14 | 8 | 12 | 17 | 18 | 10 | 79 |
-| meningitis | 9 | 7 | 10 | 6 | 10 | 9 | 51 |
-| rabies | 7 | 3 | 19 | 7 | 7 | 0 | 43 |
-| hpai | 3 | 12 | 2 | 4 | 3 | 5 | 29 |
-| zika | 0 | 2 | 3 | 4 | 7 | 7 | 23 |
-| pertussis | 5 | 1 | 0 | 7 | 2 | 5 | 20 |
-| typhoid | 8 | 0 | 1 | 2 | 2 | 3 | 16 |
-| yersinia | 2 | 2 | 3 | 0 | 0 | 0 | 7 |
-| leptospirosis | 0 | 1 | 0 | 0 | 0 | 1 | 2 |
+| Disease | 25-11 | 25-12 | 25-13 | 25-14 | 25-15 | 25-16 | 25-17 | Total |
+|--|-|-|-|-|-|-|-|-|
+| measles | 132 | 108 | 101 | 77 | 145 | 74 | 0 | 637 |
+| h5n1 | 38 | 57 | 47 | 46 | 66 | 9 | 1 | 264 |
+| dengue | 12 | 18 | 20 | 14 | 24 | 30 | 1 | 119 |
+| malaria | 21 | 18 | 30 | 13 | 10 | 14 | 0 | 106 |
+| chikungunya | 1 | 17 | 10 | 17 | 15 | 39 | 1 | 100 |
+| mpox | 14 | 8 | 12 | 17 | 18 | 10 | 0 | 79 |
+| meningitis | 9 | 7 | 10 | 6 | 10 | 9 | 1 | 52 |
+| rabies | 7 | 3 | 19 | 7 | 7 | 0 | 0 | 43 |
+| hpai | 3 | 12 | 2 | 4 | 3 | 5 | 0 | 29 |
+| zika | 0 | 2 | 3 | 4 | 7 | 7 | 0 | 23 |
+| pertussis | 5 | 1 | 0 | 7 | 2 | 5 | 0 | 20 |
+| typhoid | 8 | 0 | 1 | 2 | 2 | 3 | 0 | 16 |
+| yersinia | 2 | 2 | 3 | 0 | 0 | 0 | 0 | 7 |
+| leptospirosis | 0 | 1 | 0 | 0 | 0 | 1 | 0 | 2 |
 
 
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 25-17 (meningitis)
+
+- [Cegah Meningitis, 500 Petugas Haji Jalani Vaksinasi Gratis](https://www.liputan6.com/health/read/5999635/cegah-meningitis-500-petugas-haji-jalani-vaksinasi-gratis) (Liputan6.com)
+
+## 25-17 (h5n1)
+
+- [TWiV 1211: Moo flu and dengue two](https://www.microbe.tv/twiv/twiv-1211/) (Microbe.tv)
+
+## 25-17 (dengue)
+
+- [TWiV 1211: Moo flu and dengue two](https://www.microbe.tv/twiv/twiv-1211/) (Microbe.tv)
+
+## 25-17 (chikungunya)
+
+- [REPORTAGE. "Les femelles vont pondre des œufs mais ils ne vont pas éclore" : à La Réunion, la lutte contre Chikungunya passe aussi par des lâchers de moustiques stériles](https://www.francetvinfo.fr/replay-radio/le-choix-franceinfo/reportage-les-femelles-vont-pondre-des-ufs-mais-ils-ne-vont-pas-eclore-a-la-reunion-la-lutte-contre-chikungunya-passe-aussi-par-des-lachers-de-moustiques-steriles_7172787.html) (Francetvinfo.fr)
 
 ## 25-16 (zika)
 
@@ -112,6 +128,18 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-16 (measles)
 
+- [Another state confirms measles case with infected child its first of year](https://www.foxnews.com/health/another-state-confirms-measles-case-infected-child-first-year) (Fox News)
+
+- [Video shows doctor with measles treating kids. RFK Jr. later praised him as an ‘extraordinary’ healer](https://www.cnn.com/2025/04/19/health/measles-rfk-texas-doctor) (CNN)
+
+- [Virginia confirms first measles case this year; it's a child under 4, health officials say](https://www.usatoday.com/story/news/health/2025/04/19/virginia-confirms-first-measles-case/83176486007/) (USA Today)
+
+- [VDH confirms first measles case in state this year](https://richmond.com/news/state-regional/article_941732bd-3b67-48a5-b80d-46318d9b5570.html) (Richmond.com)
+
+- [Measles outbreaks now declared in 8 states, including Michigan's first in 5 years](https://www.foxnews.com/health/measles-outbreaks-now-declared-8-states-including-michigans-first-5-years) (Fox News)
+
+- [TWiV 1210: Clinical update with Dr. Daniel Griffin](https://www.microbe.tv/twiv/twiv-1210/) (Microbe.tv)
+
 - [Sooner Mall, Slaughterville Town Hall named as potential measles exposure sites](https://kfor.com/news/local/sooner-mall-slaughterville-town-hall-named-as-potential-measles-exposure-sites/) (KFOR Oklahoma City)
 
 - [RFK Jr says his response to measles outbreak should be ‘model for the world’](https://www.lawyersgunsmoneyblog.com/2025/04/rfk-jr-says-his-response-to-measles-outbreak-should-be-model-for-the-world) (Lawyersgunsmoneyblog.com)
@@ -161,6 +189,8 @@ Source: [News API](https://newsapi.org/)
 - [Anti-Vaxxers Are Grifting Off the Measles Outbreak—and Claim a Bioweapon Caused It](https://www.wired.com/story/antivax-grift-measles-crisis-bioweapon/) (Wired)
 
 - [The sneaking rise of whooping cough](https://theweek.com/health/sneaky-rise-of-whooping-cough) (The Week Magazine)
+
+- [Texas measles cases are underreported, response hurt by funding cuts, CDC scientist says](https://www.foxnews.com/politics/texas-measles-cases-underreported-response-hurt-funding-cuts-cdc-scientist-says) (Fox News)
 
 - [Another Texas Child Dies after Recovering from Measles](https://www.activistpost.com/another-texas-child-dies-after-recovering-from-measles/) (Activistpost.com)
 
@@ -2988,6 +3018,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles Exposure Warning Issued for Washington Dulles Airport: What to Know](https://www.newsweek.com/measles-exposure-warning-issued-washington-dulles-airport-2041910) (Newsweek)
 
+- [Travelers At DC’s Dulles Airport Potentially Exposed To Measles—As Maryland Announces New Case](https://www.forbes.com/sites/alisondurkee/2025/03/09/travelers-at-dcs-dulles-airport-potentially-exposed-to-measles-as-maryland-announces-new-case/) (Forbes)
+
 ## 25-11 (malaria)
 
 - [Health Ministry dismisses claims of critical shortages of malaria drugs](https://nbcnews.na/node/109907) (Nbcnews.na)
@@ -3023,6 +3055,14 @@ Source: [News API](https://newsapi.org/)
 - [Microbiota de pingüinos, esperanza inmunológica contra la malaria o la leishmaniasis](https://www.montevideo.com.uy/Salud/Microbiota-de-pinguinos-esperanza-inmunologica-contra-la-malaria-o-la-leishmaniasis-uc917240) (Montevideo.com.uy)
 
 - [Revolucionario enfoque genético contra la malaria: un parásito modificado podría ser la clave para una vacuna efectiva](http://www.muyinteresante.com/salud/enfoque-genetico-contra-la-malaria.html) (Muyinteresante.com)
+
+- [Cancer drug realized after researcher's chance exposure to malaria drug](https://newatlas.com/cancer/pyronaridine-cancer-treatment/) (New Atlas)
+
+- [Former USAID head warns disease outbreaks could grow after cuts to agency](https://www.cbc.ca/news/politics/former-usaid-administrator-samantha-power-1.7477750) (CBC News)
+
+- [100 000 kan dö i malaria när USA stryper bistånd](https://www.svd.se/a/1MzgVB/100000-kan-do-i-malaria-nar-usa-stryper-bistand) (Svenska Dagbladet)
+
+- [100 000 kan dö i malaria när USA stryper bistånd](https://www.aftonbladet.se/nyheter/a/vgpvwm/100000-kan-do-i-malaria-nar-usa-stryper-bistand) (Aftonbladet.se)
 
 ## 25-11 (hpai)
 
@@ -3103,6 +3143,12 @@ Source: [News API](https://newsapi.org/)
 - [Notre système immunitaire est-il déjà immunisé contre la grippe aviaire ?](https://dailygeekshow.com/grippe-aviaire-immunite/) (Daily Geek Show)
 
 - [RFK Jr. and Federal Health Agencies Wisely Oppose Mass H5N1 Animal Vaccination Over Mutation Concerns](https://www.globalresearch.ca/rfk-jr-federal-health-agencies-oppose-mass-h5n1-animal-vaccination/5881691) (Globalresearch.ca)
+
+- [Blir det sjukdom X? Så letar forskarvärlden efter smittan som blir nästa pandemi](https://www.dn.se/sverige/blir-det-sjukdom-x-sa-letar-forskarvarlden-efter-smittan-som-blir-nasta-pandemi/) (Www.dn.se)
+
+- [केंद्र ने बर्ड फ्लू को लेकर 9 राज्यों को जारी किया अलर्ट, जानें H5N1 वायरस के लक्षण और बचाव के उपाय](https://www.aajtak.in/india/news/story/center-issued-alert-to-9-states-regarding-bird-flu-know-the-symptoms-and-prevention-measures-from-h5n1-virus-ntc-rpti-2185989-2025-03-09) (Aajtak.in)
+
+- [Esperti su Science, prepararsi in tempo a una pandemia di aviaria](https://www.ansa.it/canale_scienza/notizie/biotech/2025/03/08/esperti-su-science-prepararsi-in-tempo-a-una-pandemia-di-aviaria_3d46145a-8dba-4e32-98b7-d5ffe4b3cc9a.html) (ANSA.it)
 
 ## 25-11 (dengue)
 

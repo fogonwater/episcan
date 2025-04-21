@@ -1,8 +1,153 @@
 {
-  "last_updated": "2025-04-20 19:05",
-  "count_articles_total": 1436,
-  "count_articles_new": 2,
+  "last_updated": "2025-04-21 07:07",
+  "count_articles_total": 1454,
+  "count_articles_new": 10,
   "articles": [
+    {
+      "id": 20559,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Francetvinfo.fr",
+      "author": null,
+      "title": "REPORTAGE. \"Les femelles vont pondre des \u0153ufs mais ils ne vont pas \u00e9clore\" : \u00e0 La R\u00e9union, la lutte contre Chikungunya passe aussi par des l\u00e2chers de moustiques st\u00e9riles",
+      "description": "De la lutte antivectorielle jusqu\u2019aux l\u00e2chers de moustiques st\u00e9riles, la R\u00e9union est le laboratoire de ce qui se jouera peut-\u00eatre dans quelques ann\u00e9es en m\u00e9tropole, o\u00f9 ce moustique source de plusieurs maladies se r\u00e9pand.",
+      "url": "https://www.francetvinfo.fr/replay-radio/le-choix-franceinfo/reportage-les-femelles-vont-pondre-des-ufs-mais-ils-ne-vont-pas-eclore-a-la-reunion-la-lutte-contre-chikungunya-passe-aussi-par-des-lachers-de-moustiques-steriles_7172787.html",
+      "urlToImage": "https://www.francetvinfo.fr/pictures/7-kAzu7AYTy53hRKdBpEWl57Pm0/0x128:1153x777/1500x843/2025/04/19/whatsapp-image-2025-04-19-at-17-46-00-6803c6ab03099049716905.jpg",
+      "publishedAt": "2025-04-20 06:28:07",
+      "content": "Comment se d\u00e9barrasser du moustique-tigre ? \u00c0 la R\u00e9union, alors que le pic de l'\u00e9pid\u00e9mie de chikungunya vient probablement d'\u00eatre atteint cette semaine du lundi 14 au dimanche 20 avril, l'\u00eele met en \u2026 [+5603 chars]",
+      "retrievedAt": "2025-04-21 07:07:41.994231",
+      "internal_id": "e1362c2c4fea8881dbb9615871172d7f3a4e11a100b0d940187c02606b3d387e",
+      "publishedAtLabel": "Apr 20"
+    },
+    {
+      "id": 20557,
+      "query": [
+        "h5n1",
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Microbe.tv",
+      "author": "VIncent Racaniello",
+      "title": "TWiV 1211: Moo flu and dengue two",
+      "description": "TWiV discusses the rising autism rate among children, RFK Jr.\u2019s claim that autism \u2018destroys lives\u2019, receptor binding specificity of a bovine H5N1 influenza virus, and improved dengue subunit vaccine modified to form E protein dimers. Hosts: Vincent Racaniello\u2026",
+      "url": "https://www.microbe.tv/twiv/twiv-1211/",
+      "urlToImage": null,
+      "publishedAt": "2025-04-20 04:00:00",
+      "content": "TWiV discusses the rising autism rate among children, RFK Jr.\u2019s claim that autism \u2018destroys lives\u2019, receptor binding specificity of a bovine H5N1 influenza virus, and improved dengue subunit vaccine \u2026 [+690 chars]",
+      "retrievedAt": "2025-04-21 07:07:40.424251",
+      "internal_id": "0869ddf97950fc3b4b1c02c303be20a76ff97849b9a475afa958fc1bd06a78d2",
+      "publishedAtLabel": "Apr 20"
+    },
+    {
+      "id": 20558,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Liputan6.com",
+      "author": "Benedikta Desideria",
+      "title": "Cegah Meningitis, 500 Petugas Haji Jalani Vaksinasi Gratis",
+      "description": "Sebanyak 500 petugas haji mendapatkan suntikan vaksinasi meningitis gratis saat mengikuti Bimbingan Teknis (Bimtek) Petugas Penyelenggara Ibadah Haji (PPIH) Arab Saudi Terintegrasi 1446H/2025M",
+      "url": "https://www.liputan6.com/health/read/5999635/cegah-meningitis-500-petugas-haji-jalani-vaksinasi-gratis",
+      "urlToImage": "https://cdn0-production-images-kly.akamaized.net/7ViV6GmHyj6OwvWACzWyQLxqw1k=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/5192119/original/032609100_1745087922-IMG-20250419-WA0006-750x536.jpg",
+      "publishedAt": "2025-04-20 01:08:45",
+      "content": "Liputan6.com, Jakarta Sebanyak 500 petugas haji mendapatkan suntikan vaksinasi meningitis gratis saat mengikuti Bimbingan Teknis (Bimtek) Petugas Penyelenggara Ibadah Haji (PPIH) Arab Saudi Terintegr\u2026 [+1257 chars]",
+      "retrievedAt": "2025-04-21 07:07:41.219526",
+      "internal_id": "7e094ddaf2473d0b031207a8ea6c22d2ebe694daa95ed4a472fa26d2fad91755",
+      "publishedAtLabel": "Apr 20"
+    },
+    {
+      "id": 20554,
+      "query": [
+        "measles"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": "Alexandra Koch",
+      "title": "Another state confirms measles case with infected child its first of year",
+      "description": "Virginia recently announced that its first case of the measles this year involved a child who had traveled out of the country prior to being diagnosed.",
+      "url": "https://www.foxnews.com/health/another-state-confirms-measles-case-infected-child-first-year",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/03/gettyimages-1429059636.jpg",
+      "publishedAt": "2025-04-19 22:42:54",
+      "content": "The Virginia Department of Health (VDH) recently reported the state's first measles case of the year, identifying the patient as a child under 4 years old who recently traveled internationally. Whi\u2026 [+3352 chars]",
+      "retrievedAt": "2025-04-21 07:07:39.925246",
+      "internal_id": "1ba7b5a6d3f4db9ce773d8db9b74e66a72b0c8a5ea0d7dc2a6e25b5b4299a55c",
+      "publishedAtLabel": "Apr 19"
+    },
+    {
+      "id": 20551,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Associated Press",
+      "title": "Video shows doctor with measles treating kids. RFK Jr. later praised him as an \u2018extraordinary\u2019 healer",
+      "description": "A Texas doctor who has been treating children in a measles outbreak was shown on video with a measles rash on his face in a clinic a week before Health...",
+      "url": "https://www.cnn.com/2025/04/19/health/measles-rfk-texas-doctor",
+      "urlToImage": "https://media.zenfs.com/en/cnn_articles_875/0342a4cd32963ced0d572e8d59322437",
+      "publishedAt": "2025-04-19 22:21:05",
+      "content": "A Texas doctor who has been treating children in a measles outbreak was shown on video with a measles rash on his face in a clinic a week before Health Secretary Robert F. Kennedy Jr. met him and pra\u2026 [+4863 chars]",
+      "retrievedAt": "2025-04-21 07:07:39.834103",
+      "internal_id": "ab32e11523f0cda883b1ee02c96af68939c7b899cfc8549b568f618f75c35e61",
+      "publishedAtLabel": "Apr 19"
+    },
+    {
+      "id": 20550,
+      "query": [
+        "measles"
+      ],
+      "source_id": "usa-today",
+      "source_name": "USA Today",
+      "author": "Jonathan Limehouse, USA TODAY",
+      "title": "Virginia confirms first measles case this year; it's a child under 4, health officials say",
+      "description": "The Virginia Department of Health confirmed the state's first measles case on April 19.",
+      "url": "https://www.usatoday.com/story/news/health/2025/04/19/virginia-confirms-first-measles-case/83176486007/",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/jFqZnxmd9SCS3Tvcr_n5xg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MTc-/https://media.zenfs.com/en/usa_today_news_641/43b03992dbe84c428f4c3c36d0a905ae",
+      "publishedAt": "2025-04-19 21:11:39",
+      "content": "The Virginia Department of Health confirmed the state's first measles case of the year, making it the 26th state to report cases amid a concerning outbreak. The case in Virginia involves a child bet\u2026 [+1217 chars]",
+      "retrievedAt": "2025-04-21 07:07:39.751481",
+      "internal_id": "944a00e13a71a35d7242602039dd1e77d1454a9437fcdb1a36e3c08954d5f1f5",
+      "publishedAtLabel": "Apr 19"
+    },
+    {
+      "id": 20552,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Richmond.com",
+      "author": "DAVE RESS Richmond Times-Dispatch",
+      "title": "VDH confirms first measles case in state this year",
+      "description": "An child in northern Virginia is the state\u2019s first measles case of the year, the state Department of Health reported Saturday.",
+      "url": "https://richmond.com/news/state-regional/article_941732bd-3b67-48a5-b80d-46318d9b5570.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/9/41/941732bd-3b67-48a5-b80d-46318d9b5570/6803fb2b033e8.preview.jpg?crop=1010%2C530%2C0%2C94",
+      "publishedAt": "2025-04-19 20:15:00",
+      "content": "A child in northern Virginia is the states first measles case of the year, the state Department of Health reported Saturday. The child traveled outside of the country recently, the department said. \u2026 [+2416 chars]",
+      "retrievedAt": "2025-04-21 07:07:39.895908",
+      "internal_id": "ca3526db9edc42639ae3a575174cdb0a6fa29660f59bba9638adbd8ee108edf1",
+      "publishedAtLabel": "Apr 19"
+    },
+    {
+      "id": 20553,
+      "query": [
+        "measles"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": "Angelica Stabile",
+      "title": "Measles outbreaks now declared in 8 states, including Michigan's first in 5 years",
+      "description": "Michigan has reported a measles outbreak after three cases were confirmed in Montcalm County, following seven other U.S. states with marked outbreaks.",
+      "url": "https://www.foxnews.com/health/measles-outbreaks-now-declared-8-states-including-michigans-first-5-years",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/04/gettyimages-2206658183.jpg",
+      "publishedAt": "2025-04-19 09:00:23",
+      "content": "Michigan has officially reported a measles outbreak in the state. The Michigan Department of Health and Human Services (MDHHS) and Oakland County Health Division confirmed its first case of measles \u2026 [+2523 chars]",
+      "retrievedAt": "2025-04-21 07:07:39.917612",
+      "internal_id": "e428a6e2afd27f861e4dee5afdc6bf2624efbcb0151db3654d9fa4a4b3bd94fd",
+      "publishedAtLabel": "Apr 19"
+    },
     {
       "id": 20548,
       "query": [
@@ -37,6 +182,24 @@
       "content": "\u00c0 la diff\u00e9rence du Covid-19, le myst\u00e8re sur les origines du virus Mpox semble d\u00e9sormais \u00e9lucid\u00e9. Une \u00e9quipe de scientifiques internationaux affirme avoir identifi\u00e9 le responsable de l'\u00e9mergence de ce\u2026 [+3808 chars]",
       "retrievedAt": "2025-04-20 19:05:49.977205",
       "internal_id": "26a5d891e277b9358a34774a71901b08613b2a34bfe6f0d167d544fd0cb656a4",
+      "publishedAtLabel": "Apr 19"
+    },
+    {
+      "id": 20556,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Microbe.tv",
+      "author": "Vincent Racaniello",
+      "title": "TWiV 1210: Clinical update with Dr. Daniel Griffin",
+      "description": "In his weekly clinical update, Dr. Griffin with Vincent Racaniello rue about the continuation of the gutting of the American public health infrastructure, the continuing measles outbreak, an unreported outbreak of deadly E.coli human infections, meningococcal\u2026",
+      "url": "https://www.microbe.tv/twiv/twiv-1210/",
+      "urlToImage": null,
+      "publishedAt": "2025-04-19 04:00:00",
+      "content": "In his weekly clinical update, Dr. Griffin with Vincent Racaniello rue about the continuation of the gutting of the American public health infrastructure, the continuing measles outbreak, an unreport\u2026 [+940 chars]",
+      "retrievedAt": "2025-04-21 07:07:39.942640",
+      "internal_id": "ecc5ebb0e056d9c6b733969c54ca8d5aae62fe9c96478d466a4933f56f1a54f6",
       "publishedAtLabel": "Apr 19"
     },
     {
@@ -1099,6 +1262,24 @@
       "content": "Abstract Arbovirus and malaria infections affect more than half of the worlds population causing major financial and physical burden. Current diagnostic tools such as microscopy, molecular and serol\u2026 [+46653 chars]",
       "retrievedAt": "2025-04-18 19:05:50.092331",
       "internal_id": "f59ca3cf4cf7ef675622972d6fe40a722cdfcf765f182eabae3397af37aff3b6",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 20555,
+      "query": [
+        "measles"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": "Pilar Arias",
+      "title": "Texas measles cases are underreported, response hurt by funding cuts, CDC scientist says",
+      "description": "A CDC senior scientist provided an update on the measles outbreak on Tuesday, while taking reporter questions about the agency's response.",
+      "url": "https://www.foxnews.com/politics/texas-measles-cases-underreported-response-hurt-funding-cuts-cdc-scientist-says",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/04/cdc-measles.jpg",
+      "publishedAt": "2025-04-17 13:38:02",
+      "content": "Measles cases in Texas are underreported and the response by the Centers for Disease Control and Prevention is impacted by recent funding cuts, a scientist said. \"We do believe that there's quite a \u2026 [+1822 chars]",
+      "retrievedAt": "2025-04-21 07:07:39.934519",
+      "internal_id": "70427de3f3924a733cd878929dc041750ddb94a1b836b63b83561dd14b1925e4",
       "publishedAtLabel": "Apr 17"
     },
     {
@@ -25891,6 +26072,150 @@
       "content": "Maryland health officials issued a warning on Sunday to anyone who passed through Washington Dulles International Airport or was in the Johns Hopkins Howard County Medical Center Pediatric Emergency \u2026 [+4685 chars]",
       "retrievedAt": "2025-03-11 07:06:59.844376",
       "internal_id": "8ec1966572c7adbca8ad2ea11668afed8a157aefe451902711fdf049b32d6bec",
+      "publishedAtLabel": "Mar 9"
+    },
+    {
+      "id": 19094,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Alison Durkee, Forbes Staff, \n Alison Durkee, Forbes Staff\n https://www.forbes.com/sites/alisondurkee/",
+      "title": "Travelers At DC\u2019s Dulles Airport Potentially Exposed To Measles\u2014As Maryland Announces New Case",
+      "description": "The news comes a broader outbreak in Texas and New Mexico.",
+      "url": "https://www.forbes.com/sites/alisondurkee/2025/03/09/travelers-at-dcs-dulles-airport-potentially-exposed-to-measles-as-maryland-announces-new-case/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67cddeb948436fb2f54a4619/0x0.jpg?format=jpg&crop=2277,1281,x0,y87,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-03-09 18:47:53",
+      "content": "Maryland health officials announced Sunday that a resident who traveled internationally has tested positive for measles, warning that travelers at Washington Dulles Airport on March 5 may have been e\u2026 [+4824 chars]",
+      "retrievedAt": "2025-03-10 19:06:03.197554",
+      "internal_id": "99d9e8975fe965c0682982d77d82ec73d0d6995bd1efbe596ca35a1556328287",
+      "publishedAtLabel": "Mar 9"
+    },
+    {
+      "id": 19096,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Www.dn.se",
+      "author": "Anna Bratt, Jenny Alv\u00e9n",
+      "title": "Blir det sjukdom X? S\u00e5 letar forskarv\u00e4rlden efter smittan som blir n\u00e4sta pandemi",
+      "description": "Forskare letar efter nya smittor som kan starta n\u00e4sta pandemi. F\u00e5gelinfluensan H5N1 \u00e4r bara ett av flera virus som \u00e4r i fokus. I v\u00e4rsta fall blir det \u201dsjukdom X\u201d som drabbar v\u00e4rlden. \u2013 Det \u00e4r vad vi verkligen fruktar, s\u00e4ger professor Ali Mirazimi.",
+      "url": "https://www.dn.se/sverige/blir-det-sjukdom-x-sa-letar-forskarvarlden-efter-smittan-som-blir-nasta-pandemi/",
+      "urlToImage": "https://static.bonniernews.se/gcs/bilder/dn-mly/ee95333e-0aef-4c89-b8e6-2187e6f779a6.jpeg?io=1&width=1024&crop=16:9,smart",
+      "publishedAt": "2025-03-09 18:01:49",
+      "content": "Det har g\u00e5tt fem \u00e5r sedan V\u00e4rldsh\u00e4lsoorganisationen WHO deklarerade att covid-19 var en pandemi. Sedan dess har coronaviruset sars-cov-2 lett till omkring sju miljoner d\u00f6dsfall och har gett m\u00e5nga m\u00e4n\u2026 [+8167 chars]",
+      "retrievedAt": "2025-03-10 19:06:03.982790",
+      "internal_id": "e1e868922073235e3fd286694440e048a86cd085b011dc786ef0efeed288f239",
+      "publishedAtLabel": "Mar 9"
+    },
+    {
+      "id": 19097,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Aajtak.in",
+      "author": "\u0905\u092e\u0928 \u092d\u093e\u0930\u0926\u094d\u0935\u093e\u091c",
+      "title": "\u0915\u0947\u0902\u0926\u094d\u0930 \u0928\u0947 \u092c\u0930\u094d\u0921 \u092b\u094d\u0932\u0942 \u0915\u094b \u0932\u0947\u0915\u0930 9 \u0930\u093e\u091c\u094d\u092f\u094b\u0902 \u0915\u094b \u091c\u093e\u0930\u0940 \u0915\u093f\u092f\u093e \u0905\u0932\u0930\u094d\u091f, \u091c\u093e\u0928\u0947\u0902 H5N1 \u0935\u093e\u092f\u0930\u0938 \u0915\u0947 \u0932\u0915\u094d\u0937\u0923 \u0914\u0930 \u092c\u091a\u093e\u0935 \u0915\u0947 \u0909\u092a\u093e\u092f",
+      "description": "\u0930\u093e\u091c\u094d\u092f\u094b\u0902 \u0938\u0947 \u090f\u0935\u093f\u092f\u0928 \u0907\u0928\u094d\u092b\u094d\u0932\u0942\u090f\u0902\u091c\u093e \u0938\u0947 \u0928\u093f\u092a\u091f\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0928\u0947\u0936\u0928\u0932 \u090f\u0915\u094d\u0936\u0928 \u092a\u094d\u0932\u093e\u0928 \u0915\u093e \u0938\u0916\u094d\u0924\u0940 \u0938\u0947 \u092a\u093e\u0932\u0928 \u0915\u0930\u0928\u0947, \u0915\u094d\u0935\u093f\u0915 \u0930\u093f\u0938\u094d\u092a\u0949\u0928\u094d\u0938 \u091f\u0940\u092e\u094b\u0902 \u0915\u094b \u0938\u0915\u094d\u0930\u093f\u092f \u0915\u0930\u0928\u0947 \u0914\u0930 \u0935\u0947\u091f\u0930\u0928\u0930\u0940 \u0914\u0930 \u0932\u0948\u092c\u094d\u0938 \u0915\u0940 \u0938\u0902\u0916\u094d\u092f\u093e \u092c\u0922\u093c\u093e\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0915\u0939\u093e \u0917\u092f\u093e \u0939\u0948. \u0915\u0947\u0902\u0926\u094d\u0930 \u0928\u0947 \u0915\u0939\u093e \u0939\u0948 \u0915\u093f \u0907\u0928 \u0909\u092a\u093e\u092f\u094b\u0902 \u092a\u0930 \u0924\u0924\u094d\u0915\u093e\u0932 \u0927\u094d\u092f\u093e\u0928 \u0926\u0947\u0928\u0947 \u0938\u0947 \u090f\u0935\u093f\u092f\u0928 \u0907\u0928\u094d\u092b\u094d\u0932\u0942\u090f\u0902\u091c\u093e \u0915\u0947 \u092a\u094d\u0930\u0938\u2026",
+      "url": "https://www.aajtak.in/india/news/story/center-issued-alert-to-9-states-regarding-bird-flu-know-the-symptoms-and-prevention-measures-from-h5n1-virus-ntc-rpti-2185989-2025-03-09",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202503/67cdb7aa4880d-bird-flu-094541884-16x9.png",
+      "publishedAt": "2025-03-09 16:00:21",
+      "content": ", (H5N1) 9 . (H5N1) . . , ' 2025 9 (H5N1) , . . , .' : , . , . , . . : , H5N1 , - , - . , , , , , , , , , , . , , . . , . . : , . . . . .",
+      "retrievedAt": "2025-03-10 19:06:03.996825",
+      "internal_id": "a24da079e3dc072fad8979033fc31753dba1b8703ac55d7d2fac5b731bc14b25",
+      "publishedAtLabel": "Mar 9"
+    },
+    {
+      "id": 19098,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "New Atlas",
+      "author": "Paul McClure",
+      "title": "Cancer drug realized after researcher's chance exposure to malaria drug",
+      "description": "When experienced researcher Renato Aguilera happened across the chemical structure of a tried-and-true antimalarial drug one day, he thought it might effectively fight cancer. He was right, and he has the research, the patent, and the pharma company to prove \u2026",
+      "url": "https://newatlas.com/cancer/pyronaridine-cancer-treatment/",
+      "urlToImage": "https://assets.newatlas.com/dims4/default/827968a/2147483647/strip/true/crop/2000x1050+0+38/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Ff0%2F36%2Fc9685a8f4e1b9c211fa8163e49fc%2F022425-renato-aguilera-cancer-lm13-medium.jpg&na.image_optimisation=0",
+      "publishedAt": "2025-03-09 15:03:00",
+      "content": "When experienced researcher Renato Aguilera happened across the chemical structure of a tried-and-true antimalarial drug one day, he thought it might effectively fight cancer. He was right, and he ha\u2026 [+3481 chars]",
+      "retrievedAt": "2025-03-10 19:06:04.736659",
+      "internal_id": "725b7a41bc90d9f9d5de5caf588e113a167d924f92646fc1942e02de44927607",
+      "publishedAtLabel": "Mar 9"
+    },
+    {
+      "id": 19095,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Esperti su Science, prepararsi in tempo a una pandemia di aviaria",
+      "description": "Con i vaccini e una buona informazione (ANSA)",
+      "url": "https://www.ansa.it/canale_scienza/notizie/biotech/2025/03/08/esperti-su-science-prepararsi-in-tempo-a-una-pandemia-di-aviaria_3d46145a-8dba-4e32-98b7-d5ffe4b3cc9a.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_1129x635/2025/3/8/78398e626774b33ea8e1b5bc652e1688.jpg",
+      "publishedAt": "2025-03-09 08:31:03",
+      "content": "Una lettera pubblicata sulla rivista Science esorta governi, mondo dellindustria e comunit\u00e0 scientifica a prepararsi a una possibile pandemia di influenza aviaria provocata dal virus H5N1. Prepararci\u2026 [+3698 chars]",
+      "retrievedAt": "2025-03-10 19:06:03.962453",
+      "internal_id": "8326eacf252d81590f1e789ad9e53972f066d1485b3bcbd240ffaee47f0d4782",
+      "publishedAtLabel": "Mar 9"
+    },
+    {
+      "id": 19099,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Former USAID head warns disease outbreaks could grow after cuts to agency",
+      "description": "The former administrator of the U.S. Agency for International Development says major funding cuts to the agency could lead to more cases of diseases like paralytic polio and malaria.",
+      "url": "https://www.cbc.ca/news/politics/former-usaid-administrator-samantha-power-1.7477750",
+      "urlToImage": "https://i.cbc.ca/1.7478098.1741378491!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_1180/cambodia-usaid.jpg?im=Resize%3D620",
+      "publishedAt": "2025-03-09 08:00:00",
+      "content": "The former administrator of the U.S. Agency for International Development (USAID) says major funding cuts to the agency could lead to more cases of diseases like paralytic polio and malaria. In an \u2026 [+3031 chars]",
+      "retrievedAt": "2025-03-10 19:06:04.744618",
+      "internal_id": "60bb2a4aa94f6bed3814ac8edb9240b71c3e8ccfeb8c55226154ce89f8a7e3dc",
+      "publishedAtLabel": "Mar 9"
+    },
+    {
+      "id": 19100,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "svenska-dagbladet",
+      "source_name": "Svenska Dagbladet",
+      "author": "TT TT-AP",
+      "title": "100 000 kan d\u00f6 i malaria n\u00e4r USA stryper bist\u00e5nd",
+      "description": "Ingen sjukdom i Afrika \u00e4r d\u00f6dligare \u00e4n malaria \u2013 s\u00e4rskilt f\u00f6r barn. Men Donald Trumps nedsk\u00e4rningar i USA:s bist\u00e5nd f\u00f6rsvagar kampen mot infektionen, varnar experter. Tusentals kan d\u00f6.",
+      "url": "https://www.svd.se/a/1MzgVB/100000-kan-do-i-malaria-nar-usa-stryper-bistand",
+      "urlToImage": "https://svd.vgc.no/v2/images/5aa8e113-c5ee-44d5-8961-69ab807db191?h=630&q=80&upscale=true&w=1200&s=f17195712baf0fdde4cef363e8f6e553c600bc62",
+      "publishedAt": "2025-03-09 07:47:51",
+      "content": "Fler \u00e4n tusen barn under fem \u00e5rs \u00e5lder n\u00e4stan ett varje minut d\u00f6r enligt Unicef dagligen av malaria. M\u00e5nga av d\u00f6dsfallen hade enligt FN-organet kunnat undvikas med f\u00f6rebyggande insatser och r\u00e4tt beha\u2026 [+267 chars]",
+      "retrievedAt": "2025-03-10 19:06:04.758983",
+      "internal_id": "28a95284b4932d2f8b830ab4fe35133f8025df6bb0d7db6d5d36c0116a28852a",
+      "publishedAtLabel": "Mar 9"
+    },
+    {
+      "id": 19101,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Aftonbladet.se",
+      "author": "TT",
+      "title": "100 000 kan d\u00f6 i malaria n\u00e4r USA stryper bist\u00e5nd",
+      "description": "Ingen sjukdom i Afrika \u00e4r d\u00f6dligare \u00e4n malaria \u2013 s\u00e4rskilt f\u00f6r barn. Men Donald Trumps nedsk\u00e4rningar i USA:s bist\u00e5nd f\u00f6rsvagar kampen mot infektionen, varnar exp",
+      "url": "https://www.aftonbladet.se/nyheter/a/vgpvwm/100000-kan-do-i-malaria-nar-usa-stryper-bistand",
+      "urlToImage": "https://images.aftonbladet-cdn.se/v2/images/6585662c-7906-4caa-b155-705b962ba439?fit=crop&format=auto&h=1268&q=50&w=1900&s=83c746aa799a51f9446fc97d743f2b6ef743fbdb",
+      "publishedAt": "2025-03-09 07:47:50",
+      "content": "Ingen sjukdom i Afrika \u00e4r d\u00f6dligare \u00e4n malaria s\u00e4rskilt f\u00f6r barn. Men Donald Trumps nedsk\u00e4rningar i USA:s bist\u00e5nd f\u00f6rsvagar kampen mot infektionen, varnar experter. Tusentals kan d\u00f6. Fler \u00e4n tusen \u2026 [+2341 chars]",
+      "retrievedAt": "2025-03-10 19:06:04.780164",
+      "internal_id": "e48f203f939ab33c80adc61d96bad91de208ccde1f7a4ca3d3ec7b55700f0dd3",
       "publishedAtLabel": "Mar 9"
     }
   ]
