@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 20
-- **Last harvest:** 2025-04-22 07:07
-- **Most recent article:** 2025-04-21 07:04:20
+- **New articles in last harvest:** 5
+- **Last harvest:** 2025-04-22 19:06
+- **Most recent article:** 2025-04-21 14:00:00
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-11 | 25-12 | 25-13 | 25-14 | 25-15 | 25-16 | 25-17 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 132 | 108 | 101 | 77 | 145 | 82 | 11 | 656 |
-| h5n1 | 38 | 57 | 47 | 46 | 66 | 9 | 3 | 266 |
-| dengue | 12 | 18 | 20 | 14 | 24 | 30 | 4 | 122 |
+| measles | 131 | 108 | 101 | 77 | 145 | 82 | 13 | 657 |
+| h5n1 | 35 | 57 | 47 | 46 | 66 | 9 | 3 | 263 |
+| dengue | 12 | 18 | 20 | 14 | 24 | 30 | 5 | 123 |
 | chikungunya | 1 | 17 | 10 | 17 | 15 | 39 | 8 | 107 |
-| malaria | 21 | 18 | 30 | 13 | 10 | 14 | 1 | 107 |
+| malaria | 17 | 18 | 30 | 13 | 10 | 14 | 2 | 104 |
 | mpox | 14 | 8 | 12 | 17 | 18 | 10 | 0 | 79 |
 | meningitis | 9 | 7 | 10 | 6 | 10 | 9 | 3 | 54 |
 | rabies | 7 | 3 | 19 | 7 | 7 | 0 | 0 | 43 |
 | hpai | 3 | 12 | 2 | 4 | 3 | 5 | 0 | 29 |
 | zika | 0 | 2 | 3 | 4 | 7 | 7 | 0 | 23 |
 | pertussis | 5 | 1 | 0 | 7 | 2 | 5 | 0 | 20 |
-| typhoid | 8 | 0 | 1 | 2 | 2 | 3 | 0 | 16 |
+| typhoid | 8 | 0 | 1 | 2 | 2 | 3 | 1 | 17 |
 | yersinia | 2 | 2 | 3 | 0 | 0 | 0 | 0 | 7 |
 | leptospirosis | 0 | 1 | 0 | 0 | 0 | 1 | 0 | 2 |
 
@@ -31,6 +31,10 @@ By US epiweek (i.e. Sunday to Saturday)
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 25-17 (typhoid)
+
+- [Ancient Killer Is Rapidly Becoming Resistant to Antibiotics, Study Warns](https://www.sciencealert.com/ancient-killer-is-rapidly-becoming-resistant-to-antibiotics-study-warns) (ScienceAlert)
 
 ## 25-17 (meningitis)
 
@@ -41,6 +45,10 @@ Source: [News API](https://newsapi.org/)
 - [Cegah Meningitis, 500 Petugas Haji Jalani Vaksinasi Gratis](https://www.liputan6.com/health/read/5999635/cegah-meningitis-500-petugas-haji-jalani-vaksinasi-gratis) (Liputan6.com)
 
 ## 25-17 (measles)
+
+- [Measles, Whooping Cough, the Laschamp Event and a Colossal Squid](https://www.scientificamerican.com/podcast/episode/measles-whooping-cough-the-laschamp-event-and-a-colossal-squid/) (Scientific American)
+
+- [Outrage After Measles-Infected Doctor Seen Treating Kids; RFK Jr. Praises Him A 'Healer'](https://www.ibtimes.com/outrage-after-measles-infected-doctor-seen-treating-kids-rfk-jr-praises-him-healer-3770751) (International Business Times)
 
 - [Outrage After Measles-Infected Doctor Seen Treating Kids; RFK Jr. Praises Him A 'Healer'](https://www.medicaldaily.com/outrage-after-measles-infected-doctor-seen-treating-kids-rfk-jr-praises-him-healer-473418) (Medical Daily)
 
@@ -66,6 +74,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-17 (malaria)
 
+- [Spatial distribution and geospatial modeling of potential spread of secondary malaria vectors species in Nigeria using recently collected empirical data](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0320531) (Plos.org)
+
 - [Endgame malaria](https://www.thehindubusinessline.com/specials/pulse/endgame-malaria/article69457631.ece) (BusinessLine)
 
 ## 25-17 (h5n1)
@@ -77,6 +87,8 @@ Source: [News API](https://newsapi.org/)
 - [TWiV 1211: Moo flu and dengue two](https://www.microbe.tv/twiv/twiv-1211/) (Microbe.tv)
 
 ## 25-17 (dengue)
+
+- [Chá relaxante muscular: conheça 4 bebidas com esse efeito](https://www.terra.com.br/vida-e-estilo/degusta/cha-relaxante-muscular-conheca-4-bebidas-com-esse-efeito,3a9d82991bb8b43c5a145d16a44372340wxjbsl7.html) (Terra.com.br)
 
 - [Vem aí um verão cheio de mosquitos. Devemos temer a dengue e a malária?](https://observador.pt/especiais/vem-ai-um-verao-cheio-de-mosquitos-devemos-temer-a-dengue-e-a-malaria/) (Observador.pt)
 
@@ -3090,8 +3102,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles Exposure Warning Issued for Washington Dulles Airport: What to Know](https://www.newsweek.com/measles-exposure-warning-issued-washington-dulles-airport-2041910) (Newsweek)
 
-- [Travelers At DC’s Dulles Airport Potentially Exposed To Measles—As Maryland Announces New Case](https://www.forbes.com/sites/alisondurkee/2025/03/09/travelers-at-dcs-dulles-airport-potentially-exposed-to-measles-as-maryland-announces-new-case/) (Forbes)
-
 ## 25-11 (malaria)
 
 - [Health Ministry dismisses claims of critical shortages of malaria drugs](https://nbcnews.na/node/109907) (Nbcnews.na)
@@ -3127,14 +3137,6 @@ Source: [News API](https://newsapi.org/)
 - [Microbiota de pingüinos, esperanza inmunológica contra la malaria o la leishmaniasis](https://www.montevideo.com.uy/Salud/Microbiota-de-pinguinos-esperanza-inmunologica-contra-la-malaria-o-la-leishmaniasis-uc917240) (Montevideo.com.uy)
 
 - [Revolucionario enfoque genético contra la malaria: un parásito modificado podría ser la clave para una vacuna efectiva](http://www.muyinteresante.com/salud/enfoque-genetico-contra-la-malaria.html) (Muyinteresante.com)
-
-- [Cancer drug realized after researcher's chance exposure to malaria drug](https://newatlas.com/cancer/pyronaridine-cancer-treatment/) (New Atlas)
-
-- [Former USAID head warns disease outbreaks could grow after cuts to agency](https://www.cbc.ca/news/politics/former-usaid-administrator-samantha-power-1.7477750) (CBC News)
-
-- [100 000 kan dö i malaria när USA stryper bistånd](https://www.svd.se/a/1MzgVB/100000-kan-do-i-malaria-nar-usa-stryper-bistand) (Svenska Dagbladet)
-
-- [100 000 kan dö i malaria när USA stryper bistånd](https://www.aftonbladet.se/nyheter/a/vgpvwm/100000-kan-do-i-malaria-nar-usa-stryper-bistand) (Aftonbladet.se)
 
 ## 25-11 (hpai)
 
@@ -3215,12 +3217,6 @@ Source: [News API](https://newsapi.org/)
 - [Notre système immunitaire est-il déjà immunisé contre la grippe aviaire ?](https://dailygeekshow.com/grippe-aviaire-immunite/) (Daily Geek Show)
 
 - [RFK Jr. and Federal Health Agencies Wisely Oppose Mass H5N1 Animal Vaccination Over Mutation Concerns](https://www.globalresearch.ca/rfk-jr-federal-health-agencies-oppose-mass-h5n1-animal-vaccination/5881691) (Globalresearch.ca)
-
-- [Blir det sjukdom X? Så letar forskarvärlden efter smittan som blir nästa pandemi](https://www.dn.se/sverige/blir-det-sjukdom-x-sa-letar-forskarvarlden-efter-smittan-som-blir-nasta-pandemi/) (Www.dn.se)
-
-- [केंद्र ने बर्ड फ्लू को लेकर 9 राज्यों को जारी किया अलर्ट, जानें H5N1 वायरस के लक्षण और बचाव के उपाय](https://www.aajtak.in/india/news/story/center-issued-alert-to-9-states-regarding-bird-flu-know-the-symptoms-and-prevention-measures-from-h5n1-virus-ntc-rpti-2185989-2025-03-09) (Aajtak.in)
-
-- [Esperti su Science, prepararsi in tempo a una pandemia di aviaria](https://www.ansa.it/canale_scienza/notizie/biotech/2025/03/08/esperti-su-science-prepararsi-in-tempo-a-una-pandemia-di-aviaria_3d46145a-8dba-4e32-98b7-d5ffe4b3cc9a.html) (ANSA.it)
 
 ## 25-11 (dengue)
 
