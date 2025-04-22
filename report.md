@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 14
-- **Last harvest:** 2025-04-21 19:06
-- **Most recent article:** 2025-04-20 17:00:03
+- **New articles in last harvest:** 20
+- **Last harvest:** 2025-04-22 07:07
+- **Most recent article:** 2025-04-21 07:04:20
 
 ---
 
@@ -12,13 +12,13 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-11 | 25-12 | 25-13 | 25-14 | 25-15 | 25-16 | 25-17 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 131 | 108 | 101 | 77 | 145 | 74 | 4 | 640 |
-| h5n1 | 35 | 57 | 47 | 46 | 66 | 9 | 1 | 261 |
+| measles | 132 | 108 | 101 | 77 | 145 | 82 | 11 | 656 |
+| h5n1 | 38 | 57 | 47 | 46 | 66 | 9 | 3 | 266 |
 | dengue | 12 | 18 | 20 | 14 | 24 | 30 | 4 | 122 |
-| chikungunya | 1 | 17 | 10 | 17 | 15 | 39 | 7 | 106 |
-| malaria | 17 | 18 | 30 | 13 | 10 | 14 | 1 | 103 |
+| chikungunya | 1 | 17 | 10 | 17 | 15 | 39 | 8 | 107 |
+| malaria | 21 | 18 | 30 | 13 | 10 | 14 | 1 | 107 |
 | mpox | 14 | 8 | 12 | 17 | 18 | 10 | 0 | 79 |
-| meningitis | 9 | 7 | 10 | 6 | 10 | 9 | 1 | 52 |
+| meningitis | 9 | 7 | 10 | 6 | 10 | 9 | 3 | 54 |
 | rabies | 7 | 3 | 19 | 7 | 7 | 0 | 0 | 43 |
 | hpai | 3 | 12 | 2 | 4 | 3 | 5 | 0 | 29 |
 | zika | 0 | 2 | 3 | 4 | 7 | 7 | 0 | 23 |
@@ -34,11 +34,29 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-17 (meningitis)
 
+- [Child deaths raise alarms over meningitis as experts urge vaccination](https://www.hurriyetdailynews.com/child-deaths-raise-alarms-over-meningitis-as-experts-urge-vaccination-208290) (Hurriyet Daily News)
+
+- [Lindungi Petugas Haji dari Meningitis, Kemenkes Gelar Vaksinasi Gratis untuk 500 Peserta Bimtek](https://www.liputan6.com/health/read/6000068/lindungi-petugas-haji-dari-meningitis-kemenkes-gelar-vaksinasi-gratis-untuk-500-peserta-bimtek) (Liputan6.com)
+
 - [Cegah Meningitis, 500 Petugas Haji Jalani Vaksinasi Gratis](https://www.liputan6.com/health/read/5999635/cegah-meningitis-500-petugas-haji-jalani-vaksinasi-gratis) (Liputan6.com)
 
 ## 25-17 (measles)
 
+- [Outrage After Measles-Infected Doctor Seen Treating Kids; RFK Jr. Praises Him A 'Healer'](https://www.medicaldaily.com/outrage-after-measles-infected-doctor-seen-treating-kids-rfk-jr-praises-him-healer-473418) (Medical Daily)
+
+- [News Wrap: Israel finds ‘failures’ that led to killing of Palestinian medics in Gaza](https://www.pbs.org/newshour/show/news-wrap-israel-finds-failures-that-led-to-killing-of-palestinian-medics-in-gaza) (PBS)
+
+- [Measles Updates: 800 Cases In U.S. As Illness Spreads To Louisiana, Missouri And Virginia](https://www.forbes.com/sites/antoniopequenoiv/2025/04/20/measles-updates-800-cases-in-us-as-illness-spreads-to-louisiana-missouri-and-virginia/) (Forbes)
+
+- [Father and daughter contract measles in Serbia, fear of it spreading in Israel](https://www.israelnationalnews.com/news/407117) (Israelnationalnews.com)
+
+- [Tel Aviv resident diagnosed with Measles, Health Ministry announces](https://www.jpost.com/israel-news/article-850837) (The Jerusalem Post)
+
+- [Louisiana, Missouri and Virginia report first measles cases of 2025](https://www.nbcnews.com/news/us-news/louisiana-missouri-virginia-report-first-measles-cases-2025-rcna202038) (NBC News)
+
 - [Measles outbreaks spreads across to 27 states...](https://www.themirror.com/news/health/measles-cases-louisiana-measles-virginia-1103427) (Themirror.com)
+
+- [US has 800 measles cases and outbreaks in several states. Here’s what you should know](https://www.wpxi.com/news/local/us-has-800-measles-cases-outbreaks-several-states-heres-what-you-should-know/P5PFQBAALREXDKEBJPCJK6Y5CI/) (WPXI Pittsburgh)
 
 - ['Extraordinary': RFK Jr Praises Doctor With Measles Who Treated Kids With Measles](https://crooksandliars.com/2025/04/extraordinary-rfk-jr-praises-doctor) (Crooksandliars.com)
 
@@ -51,6 +69,10 @@ Source: [News API](https://newsapi.org/)
 - [Endgame malaria](https://www.thehindubusinessline.com/specials/pulse/endgame-malaria/article69457631.ece) (BusinessLine)
 
 ## 25-17 (h5n1)
+
+- [As bird flu hits cattle herds in U.S., scientists say these H5N1 factors worry them most (Bill Whitaker/CBS News)](https://www.memeorandum.com/250420/p58) (Memeorandum.com)
+
+- [As bird flu hits cattle herds in U.S., scientists say these H5N1 factors worry them most](https://www.cbsnews.com/news/bird-flu-pandemic-potential-scientists-60-minutes/) (CBS News)
 
 - [TWiV 1211: Moo flu and dengue two](https://www.microbe.tv/twiv/twiv-1211/) (Microbe.tv)
 
@@ -65,6 +87,8 @@ Source: [News API](https://newsapi.org/)
 - [TWiV 1211: Moo flu and dengue two](https://www.microbe.tv/twiv/twiv-1211/) (Microbe.tv)
 
 ## 25-17 (chikungunya)
+
+- [Chikungunya à La Réunion : l'ARS annonce le renfort de "six médecins" cette semaine alors que "le nombre de passage aux urgences reste élevé"](https://www.francetvinfo.fr/sante/maladie/chikungunya/chikungunya-a-la-reunion-l-ars-annonce-le-renfort-de-six-medecins-cette-semaine-alors-que-le-nombre-de-passage-aux-urgences-reste-eleve_7201965.html) (Francetvinfo.fr)
 
 - [Ostrov Réunion sužuje „mini-covid“. Komáří horečku chytil už každý devátý](https://www.idnes.cz/zpravy/zahranicni/covid-reunion-komari-horecka.A250420_150607_zahranicni_fred) (Idnes.cz)
 
@@ -166,9 +190,17 @@ Source: [News API](https://newsapi.org/)
 
 - [Virginia confirms first measles case this year; it's a child under 4, health officials say](https://www.usatoday.com/story/news/health/2025/04/19/virginia-confirms-first-measles-case/83176486007/) (USA Today)
 
+- [US has 800 measles cases and outbreaks in several states, here's what you should know](https://abc13.com/post/us-has-800-measles-cases-outbreaks-several-states-heres-what-should-know/16204412/) (KTRK-TV)
+
 - [VDH confirms first measles case in state this year](https://richmond.com/news/state-regional/article_941732bd-3b67-48a5-b80d-46318d9b5570.html) (Richmond.com)
 
+- [First case of Measles in Virginia confirmed by health dept.](https://www.pilotonline.com/2025/04/19/measles-first-case-virginia/) (The Virginian-Pilot)
+
+- [Virginia child tests positive for 'highly contagious' measles; potential exposure sites in Fredericksburg and Woodbridge](https://www.wtvr.com/news/local-news/virginia-measle-case-fredericksburg-woodbridge-virginia-april-19-2025) (wtvr.com)
+
 - [Measles outbreaks now declared in 8 states, including Michigan's first in 5 years](https://www.foxnews.com/health/measles-outbreaks-now-declared-8-states-including-michigans-first-5-years) (Fox News)
+
+- [Measles: New case confirmed at Bunbury Regional Hospital, bringing WA’s 2025 total to 15](https://thewest.com.au/news/health/measles-new-case-confirmed-at-bunbury-regional-hospital-bringing-was-2025-total-to-15-c-18424335) (The West Australian)
 
 - [TWiV 1210: Clinical update with Dr. Daniel Griffin](https://www.microbe.tv/twiv/twiv-1210/) (Microbe.tv)
 
@@ -177,6 +209,8 @@ Source: [News API](https://newsapi.org/)
 - [RFK Jr says his response to measles outbreak should be ‘model for the world’](https://www.lawyersgunsmoneyblog.com/2025/04/rfk-jr-says-his-response-to-measles-outbreak-should-be-model-for-the-world) (Lawyersgunsmoneyblog.com)
 
 - [HHS Is Fucking Up America’s Measles Elimination Status](https://www.techdirt.com/2025/04/18/hhs-is-fucking-up-americas-measles-elimination-status/) (Techdirt)
+
+- [There are 800 measles cases in the U.S. What you need to know about the outbreaks](https://www.oregonlive.com/health/2025/04/there-are-800-measles-cases-in-the-us-what-you-need-to-know-about-the-outbreaks.html) (OregonLive)
 
 - [Video shows doctor with measles treating kids. RFK Jr later praised him as an ‘extraordinary’ healer](https://abcnews.go.com/US/wireStory/video-shows-doctor-measles-treating-kids-rfk-jr-120958393) (ABC News)
 
@@ -188,13 +222,19 @@ Source: [News API](https://newsapi.org/)
 
 - [Video shows doctor with measles treating kids. RFK Jr later praised him as an ‘extraordinary’ healer](https://www.bostonherald.com/2025/04/18/measles-outbreak-infected-doctor/) (Boston Herald)
 
+- [Video shows doctor with measles treating kids. RFK Jr later praised him as an ‘extraordinary’ healer](https://www.clickorlando.com/health/2025/04/18/video-shows-doctor-with-measles-treating-kids-rfk-jr-later-praised-him-as-an-extraordinary-healer/) (WKMG News 6 & ClickOrlando)
+
 - [North America's measles crisis deepens as outbreaks surge in Canada, Mexico](https://economictimes.indiatimes.com/news/international/us/north-americas-measles-crisis-deepens-as-outbreaks-surge-in-canada-mexico/articleshow/120414868.cms) (The Times of India)
 
 - [Measles Updates: 800 Cases In U.S. As Majority Of Outbreak Remains In Texas](https://www.forbes.com/sites/antoniopequenoiv/2025/04/18/measles-updates-800-cases-in-us-as-majority-of-outbreak-remains-in-texas/) (Forbes)
 
+- [Half of US states have reported measles cases this year | CNN](https://www.cnn.com/2025/04/18/health/measles-25-states/index.html) (CNN)
+
 - [Measles case reported in child visiting Branson area](https://www.stltoday.com/news/local/metro/article_67fdc5a3-c96d-4840-b27b-97488454e466.html) (STLtoday.com)
 
 - [Montana reports first measles cases since 1990 (Alejandra O'Connell-Domenech/The Hill)](https://www.memeorandum.com/250418/p82) (Memeorandum.com)
+
+- [Missouri health officials announce first case of measles from visitor in Taney County](https://www.ky3.com/2025/04/18/missouri-health-officials-announce-first-case-measles-visitor-taney-county/) (KY3)
 
 - [‘Say The V Word’: RFK’s Approach To Solve Measles, Autism Epidemic Raises Questions From MAHA](https://dailycaller.com/2025/04/18/maha-losing-faith-rfk-jr-hhs-bill-cassidy-vaccines-autism-measles/) (The Daily Caller)
 
@@ -3050,6 +3090,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles Exposure Warning Issued for Washington Dulles Airport: What to Know](https://www.newsweek.com/measles-exposure-warning-issued-washington-dulles-airport-2041910) (Newsweek)
 
+- [Travelers At DC’s Dulles Airport Potentially Exposed To Measles—As Maryland Announces New Case](https://www.forbes.com/sites/alisondurkee/2025/03/09/travelers-at-dcs-dulles-airport-potentially-exposed-to-measles-as-maryland-announces-new-case/) (Forbes)
+
 ## 25-11 (malaria)
 
 - [Health Ministry dismisses claims of critical shortages of malaria drugs](https://nbcnews.na/node/109907) (Nbcnews.na)
@@ -3085,6 +3127,14 @@ Source: [News API](https://newsapi.org/)
 - [Microbiota de pingüinos, esperanza inmunológica contra la malaria o la leishmaniasis](https://www.montevideo.com.uy/Salud/Microbiota-de-pinguinos-esperanza-inmunologica-contra-la-malaria-o-la-leishmaniasis-uc917240) (Montevideo.com.uy)
 
 - [Revolucionario enfoque genético contra la malaria: un parásito modificado podría ser la clave para una vacuna efectiva](http://www.muyinteresante.com/salud/enfoque-genetico-contra-la-malaria.html) (Muyinteresante.com)
+
+- [Cancer drug realized after researcher's chance exposure to malaria drug](https://newatlas.com/cancer/pyronaridine-cancer-treatment/) (New Atlas)
+
+- [Former USAID head warns disease outbreaks could grow after cuts to agency](https://www.cbc.ca/news/politics/former-usaid-administrator-samantha-power-1.7477750) (CBC News)
+
+- [100 000 kan dö i malaria när USA stryper bistånd](https://www.svd.se/a/1MzgVB/100000-kan-do-i-malaria-nar-usa-stryper-bistand) (Svenska Dagbladet)
+
+- [100 000 kan dö i malaria när USA stryper bistånd](https://www.aftonbladet.se/nyheter/a/vgpvwm/100000-kan-do-i-malaria-nar-usa-stryper-bistand) (Aftonbladet.se)
 
 ## 25-11 (hpai)
 
@@ -3165,6 +3215,12 @@ Source: [News API](https://newsapi.org/)
 - [Notre système immunitaire est-il déjà immunisé contre la grippe aviaire ?](https://dailygeekshow.com/grippe-aviaire-immunite/) (Daily Geek Show)
 
 - [RFK Jr. and Federal Health Agencies Wisely Oppose Mass H5N1 Animal Vaccination Over Mutation Concerns](https://www.globalresearch.ca/rfk-jr-federal-health-agencies-oppose-mass-h5n1-animal-vaccination/5881691) (Globalresearch.ca)
+
+- [Blir det sjukdom X? Så letar forskarvärlden efter smittan som blir nästa pandemi](https://www.dn.se/sverige/blir-det-sjukdom-x-sa-letar-forskarvarlden-efter-smittan-som-blir-nasta-pandemi/) (Www.dn.se)
+
+- [केंद्र ने बर्ड फ्लू को लेकर 9 राज्यों को जारी किया अलर्ट, जानें H5N1 वायरस के लक्षण और बचाव के उपाय](https://www.aajtak.in/india/news/story/center-issued-alert-to-9-states-regarding-bird-flu-know-the-symptoms-and-prevention-measures-from-h5n1-virus-ntc-rpti-2185989-2025-03-09) (Aajtak.in)
+
+- [Esperti su Science, prepararsi in tempo a una pandemia di aviaria](https://www.ansa.it/canale_scienza/notizie/biotech/2025/03/08/esperti-su-science-prepararsi-in-tempo-a-una-pandemia-di-aviaria_3d46145a-8dba-4e32-98b7-d5ffe4b3cc9a.html) (ANSA.it)
 
 ## 25-11 (dengue)
 
