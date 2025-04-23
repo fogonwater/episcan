@@ -1,8 +1,584 @@
 {
-  "last_updated": "2025-04-22 19:06",
-  "count_articles_total": 1485,
-  "count_articles_new": 5,
+  "last_updated": "2025-04-23 19:06",
+  "count_articles_total": 1517,
+  "count_articles_new": 32,
   "articles": [
+    {
+      "id": 20602,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Antonio Peque\u00f1o IV, Forbes Staff, \n Antonio Peque\u00f1o IV, Forbes Staff\n https://www.forbes.com/sites/antoniopequenoiv/",
+      "title": "Measles Updates: Texas Outbreak Surpasses 600 Cases After Illness Spreads To 25 States",
+      "description": "Texas remains the state with the highest number of cases, by far.",
+      "url": "https://www.forbes.com/sites/antoniopequenoiv/2025/04/22/measles-updates-texas-outbreak-surpasses-600-cases-after-illness-spreads-to-25-states/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67b8dc34f003eb75b733dff5/0x0.jpg?format=jpg&crop=3039,2027,x0,y0,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-04-22 17:06:57",
+      "content": "Texas health officials reported Tuesday there have been 624 confirmed cases of measles in the state this year, providing the update a few days after the the Centers for Disease Control and Prevention\u2026 [+8080 chars]",
+      "retrievedAt": "2025-04-23 19:06:31.865312",
+      "internal_id": "6749bf58e9fd23f2140928440794b2445a3debdb4e09a59d6d649284d858a37d",
+      "publishedAtLabel": "Apr 22"
+    },
+    {
+      "id": 20611,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Alessandro Di Lorenzo",
+      "title": "Mosquitos podem tomar decis\u00f5es coletivas, segundo estudo brasileiro",
+      "description": "Descoberta revela um comportamento coletivo dos mosquitos a partir de padr\u00f5es parecidos com os identificados em redes de neur\u00f4nios cerebrais O post Mosquitos podem tomar decis\u00f5es coletivas, segundo estudo brasileiro apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2025/04/22/ciencia-e-espaco/mosquitos-podem-tomar-decisoes-coletivas-segundo-estudo-brasileiro/",
+      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2024/11/Mosquitos-scaled.jpg",
+      "publishedAt": "2025-04-22 17:06:28",
+      "content": "Os mosquitos podem ser animais bastante irritantes. Al\u00e9m de atrapalharem diversos momentos, especialmente as noites de sono, estes insetos podem transmitir doen\u00e7as perigosas, caso da dengue, por exem\u2026 [+1933 chars]",
+      "retrievedAt": "2025-04-23 19:06:32.450376",
+      "internal_id": "a90e6e98aaa48e607b56fca4290788ecb942784ce733c0f1ce5164805eb9d4ba",
+      "publishedAtLabel": "Apr 22"
+    },
+    {
+      "id": 20607,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Quebec says measles outbreak has ended",
+      "description": "Quebec's outbreak began in December 2024 and involved a contagious traveller who had visited the province before they were diagnosed.",
+      "url": "https://www.cbc.ca/news/canada/montreal/measles-quebec-outbreak-1.7515472",
+      "urlToImage": "https://i.cbc.ca/1.7507371.1744319588!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/measles-virus.jpg?im=Resize%3D620",
+      "publishedAt": "2025-04-22 16:55:01",
+      "content": "Quebec's Health Ministry has declared an end to the measles outbreak in the province. A spokesperson said Tuesday the department determined the outbreak was over after no new cases were reported ove\u2026 [+596 chars]",
+      "retrievedAt": "2025-04-23 19:06:31.998042",
+      "internal_id": "449117a256ab0c818e8530aec8a643c69105d367fb682999284001264abe4cae",
+      "publishedAtLabel": "Apr 22"
+    },
+    {
+      "id": 20600,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "Mary Kekatos",
+      "title": "Texas measles outbreak surpasses 600 cases with most among children, teens",
+      "description": "The measles outbreak in western Texas has now reached 624 cases, according to new data published Tuesday by the Texas Department of State Health Services.",
+      "url": "https://abcnews.go.com/Health/texas-measles-outbreak-surpasses-600-cases-children-teens/story?id=121042863",
+      "urlToImage": "https://i.abcnewsfe.com/a/c5c0b432-75a4-415d-ba52-ce0606bcc4a2/measles-testing-sign-gty-jt-250311_1741733337889_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2025-04-22 16:29:34",
+      "content": "The measles outbreak in western Texas has now reached 624 cases, with 27 new infections confirmed over the last five days. Nearly all of the cases are among unvaccinated individuals or among those w\u2026 [+722 chars]",
+      "retrievedAt": "2025-04-23 19:06:31.839099",
+      "internal_id": "a4d29ae71376be36bad3f08eff7b9f654045046068d0858110fe8c968cdbe7cf",
+      "publishedAtLabel": "Apr 22"
+    },
+    {
+      "id": 20629,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": "Nikhil Pandey",
+      "title": "Typhoid Fever's Deadly Mutation: Killer Becomes Resistant To Antibiotics",
+      "description": "Typhoid fever, caused by Salmonella Typhi, is evolving extensive drug resistance, making treatment challenging. Researchers found a rise in XDR Typhi strains resistant to frontline and newer antibiotics, spreading globally at an alarming rate.",
+      "url": "https://www.ndtv.com/science/typhoid-fevers-deadly-mutation-ancient-killer-becomes-resistant-to-last-resort-antibiotics-8229318",
+      "urlToImage": "https://c.ndtvimg.com/2025-04/u62tjkug_typhoid-fever_625x300_22_April_25.jpeg",
+      "publishedAt": "2025-04-22 15:43:49",
+      "content": "Extensively drug-resistant (XDR) typhoid fever, caused by Salmonella enterica serovar Typhi, is rapidly spreading worldwide, particularly from South Asia. These strains are resistant to multiple anti\u2026 [+1590 chars]",
+      "retrievedAt": "2025-04-23 19:06:34.422055",
+      "internal_id": "7cbd685ed3311d0e051767aaa80c93d3e3b0fce4cacaffdc1f371255c805f46e",
+      "publishedAtLabel": "Apr 22"
+    },
+    {
+      "id": 20603,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Wonkette.com",
+      "author": "Robyn Pennacchia",
+      "title": "RFK Jr.'s Favorite Measles Doc Heroically Kept Treating Children While Infected Himself",
+      "description": "Wait, no, that seems like a bad idea.",
+      "url": "https://www.wonkette.com/p/rfk-jrs-favorite-measles-doc-heroically",
+      "urlToImage": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9877fdda-a83d-4890-99c9-77f6ef0367f8_1080x663.jpeg",
+      "publishedAt": "2025-04-22 15:23:34",
+      "content": "As of last week, there have been 800 measles cases in the US this year, higher than at any point since 2019, when there were 1,274 cases that, itself, being the highest number of cases since 1994. If\u2026 [+5035 chars]",
+      "retrievedAt": "2025-04-23 19:06:31.920216",
+      "internal_id": "2f58ba52dbdf7bfd337a9be888d236a75cf1ba70a4a2c5e4784bb845fd521a4c",
+      "publishedAtLabel": "Apr 22"
+    },
+    {
+      "id": 20608,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "New potential measles exposure in southern Alberta including Calgary: AHS",
+      "description": "AHS has issued a public alert after being notified of additional confirmed measles cases in Alberta's south health zone. Certain locations in Calgary, Rocky View Country, Lethbridge, Coaldale and Taber may have been exposed to the virus.",
+      "url": "https://www.cbc.ca/news/canada/calgary/measles-exposure-public-alert-south-zone-1.7515212",
+      "urlToImage": "https://i.cbc.ca/1.5343106.1745329562!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/measles-virus.jpg?im=Resize%3D620",
+      "publishedAt": "2025-04-22 15:12:26",
+      "content": "Alberta Health Services (AHS) has issued a public alert after being notified of additional confirmed measles cases in Alberta's south health zone with potential exposure in Calgary, Rocky View Countr\u2026 [+2107 chars]",
+      "retrievedAt": "2025-04-23 19:06:32.005909",
+      "internal_id": "f57237a2732e593b2f85a4d72efddec9b456c4247b00601baff445a1565e28b5",
+      "publishedAtLabel": "Apr 22"
+    },
+    {
+      "id": 20610,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "mlive.com",
+      "author": "Justin P. Hicks | Jhicks3@mlive.com",
+      "title": "Measles trending toward worst year in decades, warns Michigan\u2019s top doc",
+      "description": "Michigan has confirmed eight measles cases, the first measles outbreak since 2019. Cases are spread across six counties.",
+      "url": "https://www.mlive.com/news/2025/04/measles-trending-toward-worst-year-in-decades-warns-michigans-top-doc.html",
+      "urlToImage": "https://www.mlive.com/resizer/v2/KSUZIVGQ5JGV5FBJXJBS6LTVGY.jpg?auth=fb67e3eb535569df19a2b4a489dff3921ce8b142d54b962147f1931046e13c43&width=1280&quality=90",
+      "publishedAt": "2025-04-22 15:08:24",
+      "content": "If the U.S. measles outbreak is a wildfire, Michigan is watching anxiously to see if sporadic embers land in particularly vulnerable communities. As a state, about 90% of children entering kindergar\u2026 [+4376 chars]",
+      "retrievedAt": "2025-04-23 19:06:32.070894",
+      "internal_id": "5a48820d451a4195745add5d003ca97397b70b98403ec63b566d02922fd33a73",
+      "publishedAtLabel": "Apr 22"
+    },
+    {
+      "id": 20615,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "20 Minutes",
+      "author": "A.V.",
+      "title": "La R\u00e9union : Un b\u00e9b\u00e9 d\u00e9c\u00e8de du chikungunya malgr\u00e9 son hospitalisation",
+      "description": "Officiellement, 35.000 cas de chikungunya ont \u00e9t\u00e9 confirm\u00e9s \u00e0 La R\u00e9union, mais les autorit\u00e9s estiment qu\u2019entre 110.000 et 120.000 personnes pourraient avoir \u00e9t\u00e9 infect\u00e9es sur l\u2019\u00eele",
+      "url": "https://www.20minutes.fr/societe/4149774-20250422-reunion-bebe-decede-chikungunya-malgre-hospitalisation",
+      "urlToImage": "https://img.20mn.fr/58wNuLPgQU-yWgt_zK0euik/1444x920_this-photograph-shows-a-mosquito-trap-as-part-of-the-fight-against-the-chikungunya-pandemic-by-mosquitoes-in-saint-benoit-on-the-french-overseas-island-of-la-reunion-on-april-22-2025-macron-started-a-five-day-trip-focused-on-france-s-strategy-in-the-indian-ocean-with-a-visit-in-mayotte-la-reunion-madagascar-and-then-mauritius-photo-by-ludovic-marin-afp",
+      "publishedAt": "2025-04-22 14:13:52",
+      "content": "Un b\u00e9b\u00e9 de moins dun mois est d\u00e9c\u00e9d\u00e9 dimanche \u00e0 La R\u00e9union apr\u00e8s avoir contract\u00e9 le chikungunya, rapporte France Info. Lenfant, hospitalis\u00e9 au CHU de Saint-Pierre, souffrait dune enc\u00e9phalite. Cest le\u2026 [+739 chars]",
+      "retrievedAt": "2025-04-23 19:06:33.552122",
+      "internal_id": "e40f2a2e2e96c68cb11d2c267e240276814639cc29d497c998cfc780cb2dae93",
+      "publishedAtLabel": "Apr 22"
+    },
+    {
+      "id": 20617,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Le HuffPost",
+      "author": "Le HuffPost avec AFP",
+      "title": "\u00c0 La R\u00e9union, un nourrisson meurt du chikungunya, le bilan de l\u2019\u00e9pid\u00e9mie monte \u00e0 7 morts",
+      "description": "En marge du d\u00e9placement d\u2019Emmanuel Macron sur l\u2019\u00eele, l\u2019Agence r\u00e9gionale de Sant\u00e9 de la R\u00e9union a annonc\u00e9 le d\u00e9c\u00e8s d\u2019un b\u00e9b\u00e9 d\u2019un mois.",
+      "url": "https://www.huffingtonpost.fr/france/article/a-la-reunion-un-nourrisson-meurt-du-chikungunya-le-bilan-de-l-epidemie-monte-a-7-morts_249104.html",
+      "urlToImage": "https://focus.huffingtonpost.fr/2025/04/22/275/0/5287/2973/1820/1023/75/0/58e10bf_sirius-fs-upload-1-zbkyq3gc2xka-1745329837799-000-433t44q.jpg",
+      "publishedAt": "2025-04-22 14:10:05",
+      "content": "LA R\u00c9UNION - L\u00e9pid\u00e9mie continue et le bilan saggrave. Ce mardi 22 avril, un nourrisson contamin\u00e9 par le virus du chikungunya est d\u00e9c\u00e9d\u00e9 \u00e0 lh\u00f4pital Saint-Pierre de La R\u00e9union, portant le nombre de mor\u2026 [+1893 chars]",
+      "retrievedAt": "2025-04-23 19:06:33.569741",
+      "internal_id": "e05df86455ec8c945c7ec6dedc68466a0d4d5d7d65b7b6b7e1d331b7d60dc345",
+      "publishedAtLabel": "Apr 22"
+    },
+    {
+      "id": 20630,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Ayesha Tajammul, Scott Benson, Jamil Ahmed, James VanDerslice, Windy D. Tanner",
+      "title": "Detection of Salmonella Typhi and blaCTX-M genes in drinking water, wastewater, and environmental biofilms in Sindh Province, Pakistan",
+      "description": "Author summary Typhoid fever, a deadly disease linked to contaminated water and inadequate sanitation, poses a serious threat in Pakistan. This threat has been exacerbated by the spread of an extensively drug-resistant typhoid strain that emerged in Sindh Pro\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012963",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012963.g002&size=inline",
+      "publishedAt": "2025-04-22 14:00:00",
+      "content": "Abstract Typhoid fever poses a significant public health risk, particularly in low- and middle-income countries where access to clean water and improved sanitation may be limited. In Pakistan, this \u2026 [+28751 chars]",
+      "retrievedAt": "2025-04-23 19:06:34.430584",
+      "internal_id": "06bab335f392f6dc06fb77ded4d687474867c4b77d41512eb867f4496c04cfb7",
+      "publishedAtLabel": "Apr 22"
+    },
+    {
+      "id": 20624,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Francetvinfo.fr",
+      "author": "Johanne Chung / Suzette Emma",
+      "title": "La R\u00e9union : le chikungunya a tu\u00e9 un nourrisson d'un mois, portant \u00e0 sept le nombre de d\u00e9c\u00e8s li\u00e9s \u00e0 l'\u00e9pid\u00e9mie sur l'\u00eele",
+      "description": "Un nourrisson contamin\u00e9 par le virus du chikungunya est d\u00e9c\u00e9d\u00e9 au CHU de Saint-Pierre, a appris ce mardi l'Agence r\u00e9gionale de Sant\u00e9 de La R\u00e9union. Depuis le d\u00e9but de l'\u00e9pid\u00e9mie, sept personnes sont d\u00e9c\u00e9d\u00e9es de cette maladie sur l'\u00eele.",
+      "url": "https://la1ere.francetvinfo.fr/reunion/epidemie-de-chikungunya-a-la-reunion-un-nourrisson-est-decede-portant-a-sept-le-nombre-de-morts-sur-l-ile-1580267.html",
+      "urlToImage": "https://la1ere.francetvinfo.fr/image/nifSzCFxez8O8w9uuJ7qlYPpilQ/930x620/outremer/2024/03/09/0692390001658148177-65ec15a5d817f136071133.jpg",
+      "publishedAt": "2025-04-22 12:09:14",
+      "content": "Sept d\u00e9c\u00e8s li\u00e9s au chikungunya \u00e0 La R\u00e9union : tel est le nouveau bilan, suite \u00e0 l'annonce faite ce mardi 22 avril 2025 de la mort d'un nourrisson dans le sud de l'\u00eele. Selon nos informations, un b\u00e9\u2026 [+2474 chars]",
+      "retrievedAt": "2025-04-23 19:06:33.668029",
+      "internal_id": "82799b9af488209a32a54b266f0c42266567b6e475e68a0e073d7ff132b0e95f",
+      "publishedAtLabel": "Apr 22"
+    },
+    {
+      "id": 20601,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The New York Review of Books",
+      "author": "Jerome Groopman",
+      "title": "Measles Gone Wild",
+      "description": "At a campaign event in Madison Square Garden shortly before the 2024 election, Donald Trump announced his plans for Robert F. Kennedy Jr.: \u201cI\u2019m going to let him go wild on health. I\u2019m going to let him go wild on the food. I\u2019m going to let him go wild on medic\u2026",
+      "url": "https://www.nybooks.com/articles/2025/05/15/measles-gone-wild-booster-shots-adam-ratner/",
+      "urlToImage": "https://www.nybooks.com/wp-content/uploads/2025/04/groopman_1-051525-900.jpg",
+      "publishedAt": "2025-04-22 12:00:00",
+      "content": "At a campaign event in Madison Square Garden shortly before the 2024 election, Donald Trump announced his plans for Robert F. Kennedy Jr.: \u201cI\u2019m going to let him go wild on health. I\u2019m going to let hi\u2026 [+26936 chars]",
+      "retrievedAt": "2025-04-23 19:06:31.856107",
+      "internal_id": "58b2640f0b599d5adcb6b20e1ce7752cffc3d96463ba69a1ffe9fede8fe4f863",
+      "publishedAtLabel": "Apr 22"
+    },
+    {
+      "id": 20620,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
+      "author": "La r\u00e9daction avec AFP",
+      "title": "Politique. Renforts militaires, dispositifs d\u2019urgence\u2026 les plans d'Emmanuel Macron pour La R\u00e9union",
+      "description": "Apr\u00e8s Mayotte, Emmanuel Macron est en d\u00e9placement mardi \u00e0 La R\u00e9union pour faire le point sur les d\u00e9g\u00e2ts provoqu\u00e9s par le cyclone Garance et l'\u00e9pid\u00e9mie de chikungunya qui a fait six morts sur l'\u00eele depuis le d\u00e9but de l'ann\u00e9e.",
+      "url": "https://www.ledauphine.com/politique/2025/04/22/renforts-militaires-dispositifs-d-urgence-les-plans-d-emmanuel-macron-pour-la-reunion",
+      "urlToImage": "https://cdn-s-www.ledauphine.com/images/582761D4-3C60-44E2-B67E-64CA95D03F1A/FB1200/photo-1745319345.jpg",
+      "publishedAt": "2025-04-22 11:20:00",
+      "content": "Apr\u00e8s Mayotte, La R\u00e9union. Le pr\u00e9sident Emmanuel Macron est en d\u00e9placement mardi sur l'\u00eele pour faire le point sur les d\u00e9g\u00e2ts provoqu\u00e9s par le cyclone Garance et l'\u00e9pid\u00e9mie de chikungunya qui a fait \u2026 [+5277 chars]",
+      "retrievedAt": "2025-04-23 19:06:33.614078",
+      "internal_id": "9006f634bc001932469e4bfbae10595afda13ddf7ef2d67282fb0ccf5dceef5e",
+      "publishedAtLabel": "Apr 22"
+    },
+    {
+      "id": 20627,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Francetvinfo.fr",
+      "author": null,
+      "title": "Chikungunya \u00e0 La R\u00e9union : \"\u00c7a a \u00e9t\u00e9 tr\u00e8s mal anticip\u00e9\", d\u00e9nonce Emmanuel S\u00e9raphin, le maire de Saint-Paul",
+      "description": "L'\u00e9lu rappelle que des moyens sont demand\u00e9s \"depuis la fin de l'ann\u00e9e derni\u00e8re\" pour faire face \u00e0 l'\u00e9pid\u00e9mie de chikungunya qui touche La R\u00e9union.",
+      "url": "https://www.francetvinfo.fr/sante/maladie/chikungunya/chikungunya-a-la-reunion-ca-a-ete-tres-mal-anticipe-denonce-emmanuel-seraphin-le-maire-de-saint-paul_7203882.html",
+      "urlToImage": "https://www.francetvinfo.fr/pictures/73gNTSAOhOJBCaNq8IjZG0I_5DQ/0x53:1024x629/1500x843/2025/04/22/000-39y89g2-680771be2ce1d853472054.jpg",
+      "publishedAt": "2025-04-22 10:41:39",
+      "content": "\"On a eu le chikungunya il y a vingt ans, et on a l'impression qu'on le red\u00e9couvre\", d\u00e9plore le maire de Saint-Paul \u00e0 l\u00eele de La R\u00e9union, Emmanuel S\u00e9raphin, mardi 22 avril sur franceinfo. \"\u00c7a a \u00e9t\u00e9 t\u2026 [+2169 chars]",
+      "retrievedAt": "2025-04-23 19:06:33.693379",
+      "internal_id": "148b1eb1d79dd9f01ebe21d1125d53efe77cc2fdca5e95615bbe2d8cd9b2b728",
+      "publishedAtLabel": "Apr 22"
+    },
+    {
+      "id": 20621,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "le-monde",
+      "source_name": "Le Monde",
+      "author": "Le Monde avec AFP",
+      "title": "Emmanuel Macron \u00e0 La R\u00e9union pour faire le point sur l\u2019\u00e9pid\u00e9mie de chikungunya et les d\u00e9g\u00e2ts provoqu\u00e9s par le cyclone Garance",
+      "description": "\u00ab Nous sommes le premier pays \u00e0 avoir achet\u00e9 autant de doses disponibles de ce tout nouveau vaccin \u00bb, a d\u00e9clar\u00e9 le pr\u00e9sident, mardi, au sujet des 40 000 doses du vaccin Ixchiq qui sont arriv\u00e9es sur l\u2019\u00eele d\u00e9but avril.",
+      "url": "https://www.lemonde.fr/politique/article/2025/04/22/emmanuel-macron-a-la-reunion-pour-faire-le-point-sur-l-epidemie-de-chikungunya-et-les-degats-provoques-par-le-cyclone-garance_6598823_823448.html",
+      "urlToImage": "https://img.lemde.fr/2025/04/22/1/0/7489/4992/1440/960/60/0/ab5a0c5_ftp-import-images-1-qfv2vmlcswqc-5681348-01-06.jpg",
+      "publishedAt": "2025-04-22 08:34:46",
+      "content": "Emmanuel Macron salue des habitants de Saint-Denis, \u00e0 La R\u00e9union, le 22 avril 2025. LUDOVIC MARIN / AFP Dans le cadre de sa tourn\u00e9e de cinq jours dans loc\u00e9an Indien, et au lendemain de son d\u00e9placeme\u2026 [+4499 chars]",
+      "retrievedAt": "2025-04-23 19:06:33.622558",
+      "internal_id": "1012227ca32c6b5bdccf9fe26badbde80fcd1fd5e5543aafdaebe6c391aa06c5",
+      "publishedAtLabel": "Apr 22"
+    },
+    {
+      "id": 20626,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Francetvinfo.fr",
+      "author": null,
+      "title": "La R\u00e9union : le pr\u00e9sident attendu sur l'\u00eele",
+      "description": "Emmanuel Macron est arriv\u00e9 \u00e0 La R\u00e9union mardi 22 avril. Une visite dans un contexte sanitaire particulier alors que l\u2019\u00eele est touch\u00e9e par une \u00e9pid\u00e9mie de chikungunya.",
+      "url": "https://www.francetvinfo.fr/france/la-reunion/la-reunion-le-president-attendu-sur-l-ile_7203732.html",
+      "urlToImage": "https://www.francetvinfo.fr/pictures/7qhltCrTqyGmxPf6Tls2sq3DxLw/0x15:1343x771/1500x843/2025/04/22/capture-d-ecran-2025-04-22-092327-680752ca236cf920108353.jpg",
+      "publishedAt": "2025-04-22 08:30:58",
+      "content": "Accueil solennel pour Emmanuel Macron ce matin \u00e0 La R\u00e9union. Le pr\u00e9sident de la R\u00e9publique est all\u00e9 \u00e0 la rencontre des \u00e9lus locaux alors que cette visite se passe dans un cadre sanitaire particulier.\u2026 [+804 chars]",
+      "retrievedAt": "2025-04-23 19:06:33.684839",
+      "internal_id": "f56b61aec423f72b6225fd78d15563022f2199a651f0bcf1893e6d0e41510721",
+      "publishedAtLabel": "Apr 22"
+    },
+    {
+      "id": 20618,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Atlantico.fr",
+      "author": "Atlantico",
+      "title": "Emmanuel Macron attendu \u00e0 la R\u00e9union, en pleine \u00e9pid\u00e9mie de chikungunya",
+      "description": "Apr\u00e8s Mayotte, le pr\u00e9sident de la r\u00e9publique s'est rendu sur l'\u00eele de la R\u00e9union lundi soir pour une visite dans la journ\u00e9e de ce mardi.",
+      "url": "https://atlantico.fr/article/pepite/emmanuel-macron-attendu-a-la-reunion-en-pleine-epidemie-de-chikungunya",
+      "urlToImage": "https://atlantico.codexcdn.net/assets/as9eJmeQ6ukERFjqW.jpg?width=650&height=500&quality=75",
+      "publishedAt": "2025-04-22 07:11:21",
+      "content": "Visite officielle.Apr\u00e8s son passage \u00e0 Mayotte, le pr\u00e9sident de la r\u00e9publique s'est rendu sur l'\u00eele de la R\u00e9union lundi soir pour une visite dans la journ\u00e9e de ce mardi. Un d\u00e9placement marqu\u00e9 par les \u2026 [+98 chars]",
+      "retrievedAt": "2025-04-23 19:06:33.591593",
+      "internal_id": "f5f6583c197df0bff2b239f7c76472cba3c62a05a57af69c045615191e98d1fb",
+      "publishedAtLabel": "Apr 22"
+    },
+    {
+      "id": 20614,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "financial-post",
+      "source_name": "Financial Post",
+      "author": "Business Wire",
+      "title": "A new weapon in the global fight against malaria",
+      "description": "World Health Organization prequalifies Syngenta\u2019s innovative insecticide Sovrenta\u00ae BASEL, Switzerland \u2014 Malaria is one of the world\u2019s most deadly diseases, and it is becoming more pervasive \u2013 despite decades of effort and some successes on the path to eradica\u2026",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/a-new-weapon-in-the-global-fight-against-malaria",
+      "urlToImage": null,
+      "publishedAt": "2025-04-22 07:09:28",
+      "content": "Sorry, your browser doesn't support embedded videos. THIS CONTENT IS RESERVED FOR SUBSCRIBERS ONLY Subscribe now to read the latest news in your city and across Canada. Exclusive articles \u2026 [+8550 chars]",
+      "retrievedAt": "2025-04-23 19:06:33.017648",
+      "internal_id": "9435a653e6b4a578b7aab631d336e5005ab3cf7219e49e7393e0e3ce37d58d83",
+      "publishedAtLabel": "Apr 22"
+    },
+    {
+      "id": 20628,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "L'Obs",
+      "author": "Le Nouvel Obs avec AFP",
+      "title": "Emmanuel Macron attendu \u00e0 La R\u00e9union sur le chikungunya et les d\u00e9g\u00e2ts du cyclone Garance",
+      "description": "La R\u00e9union est secou\u00e9e par une \u00e9pid\u00e9mie de chikungunya, qui toucherait un habitant sur neuf. L\u2019\u00eele reste \u00e9galement marqu\u00e9e par le passage du cyclone Garance, le 28 f\u00e9vrier dernier, qui a g\u00e9n\u00e9r\u00e9 pr\u00e8s de 250 millions d\u2019euros de d\u00e9g\u00e2ts.",
+      "url": "https://www.nouvelobs.com/societe/20250422.OBS103044/emmanuel-macron-attendu-a-la-reunion-sur-le-chikungunya-et-les-degats-du-cyclone-garance.html",
+      "urlToImage": "https://focus.nouvelobs.com/2025/04/22/444/84/4700/3133/1200/800/0/0/4443074_sirius-fs-upload-1-ktpyu5vvx4wq-1745302529739-sipa-01209293-000062.jpg",
+      "publishedAt": "2025-04-22 06:31:29",
+      "content": "Par Le Nouvel Obs avec AFP Publi\u00e9 le 22 avril 2025 \u00e0 8h31 Emmanuel Macron avec les habitants de Mayotte, le 21 avril 2025. JEANNE ACCORSINI/SIPA Lire plus tard Commenter Google Actualit\u00e9s Pa\u2026 [+4103 chars]",
+      "retrievedAt": "2025-04-23 19:06:33.722070",
+      "internal_id": "0d221cbdc2af560c68b2d11b80b7a3b82bd24c1fc57df89ddf34d84bbb058553",
+      "publishedAtLabel": "Apr 22"
+    },
+    {
+      "id": 20625,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Francetvinfo.fr",
+      "author": null,
+      "title": "\"On ne demande pas la lune !\" : la R\u00e9union attend des renforts pour lutter contre l'\u00e9pid\u00e9mie de chikungunya",
+      "description": "Le pr\u00e9sident de la R\u00e9publique est attendu sur l'\u00eele ce mardi, alors que les services hospitaliers sont sous tension depuis plusieurs semaines \u00e0 cause d'une \u00e9pid\u00e9mie de chikungunya.",
+      "url": "https://www.francetvinfo.fr/france/la-reunion/on-ne-demande-pas-la-lune-la-reunion-attend-des-renforts-pour-lutter-contre-l-epidemie-de-chikungunya_7202679.html",
+      "urlToImage": "https://www.francetvinfo.fr/pictures/L_w532Nl1WTny51Z_k71a3k5gU4/0x764:5027x3590/1500x843/2025/04/04/reunion-67f0378d3fe11386459978.jpg",
+      "publishedAt": "2025-04-22 06:13:27",
+      "content": "Apr\u00e8s Mayotte lundi, Emmanuel Macron est attendu, mardi 22 avril, \u00e0 la R\u00e9union, qui fait face \u00e0 une importante \u00e9pid\u00e9mie de chikungunya. Plus de 100 000 habitants ont d\u00e9j\u00e0 \u00e9t\u00e9 contamin\u00e9s, mettant \u00e0 ma\u2026 [+1895 chars]",
+      "retrievedAt": "2025-04-23 19:06:33.676974",
+      "internal_id": "987dfb479070b95a592fa3630278bdc42621fe2ab23d168d8d5879933eb0d9b6",
+      "publishedAtLabel": "Apr 22"
+    },
+    {
+      "id": 20619,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Francetvinfo.fr",
+      "author": null,
+      "title": "Emmanuel Macron est attendu \u00e0 La R\u00e9union, en pleine \u00e9pid\u00e9mie de chikungunya et apr\u00e8s les d\u00e9g\u00e2ts du cyclone Garance",
+      "description": "Le pr\u00e9sident poursuit ainsi une tourn\u00e9e de cinq jours dans le sud-ouest de l'oc\u00e9an Indien, qui le m\u00e8nera aussi \u00e0 Madagascar mercredi et l'\u00eele Maurice vendredi.",
+      "url": "https://www.francetvinfo.fr/france/la-reunion/direct-emmanuel-macron-est-attendu-a-la-reunion-en-pleine-epidemie-de-chikungunya-et-apres-les-degats-du-cyclone-garance_7203522.html",
+      "urlToImage": "https://www.francetvinfo.fr/pictures/odLHWOX-uVg5oIkHGHjDNorajbs/0x0:7319x4115/1500x843/2025/04/22/000-42xd2mm-68072ad350c3a591497392.jpg",
+      "publishedAt": "2025-04-22 05:42:10",
+      "content": "Apr\u00e8s Mayotte, Emmanuel Macron est attendu \u00e0 La R\u00e9union, mardi 22 avril. Le chef de l'Etat, arriv\u00e9 lundi soir sur l'\u00eele en provenance du d\u00e9partement voisin de Mayotte, devrait aborder l'\u00e9pid\u00e9mie de c\u2026 [+1454 chars]",
+      "retrievedAt": "2025-04-23 19:06:33.599447",
+      "internal_id": "b9ec1d5704431d328046a29fc986f84c0c9de1f91b47d2604eedea5cf0283ddc",
+      "publishedAtLabel": "Apr 22"
+    },
+    {
+      "id": 20616,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "20 Minutes",
+      "author": "20 Minutes avec AFP",
+      "title": "La R\u00e9union : Macron attendu sur le chikungunya et les d\u00e9g\u00e2ts du cyclone Garance",
+      "description": "Le pr\u00e9sident \u00e9tait lundi \u00e0 Mayotte, o\u00f9 il a annonc\u00e9 une enveloppe de plus de trois milliards d\u2019euros pour \u00ab refonder \u00bb le d\u00e9partement le plus pauvre de France",
+      "url": "https://www.20minutes.fr/politique/4149692-20250422-reunion-macron-attendu-chikungunya-degats-cyclone-garance",
+      "urlToImage": "https://img.20mn.fr/c0XY33mDSsqu9KB77KYI4ik/1444x920_france-s-president-emmanuel-macron-visits-a-banana-plantations-with-farmers-and-local-representatives-during-his-visit-on-the-cyclone-hit-french-overseas-territory-of-mayotte-in-tsingoni-on-april-21-2025-e-mayotte-france-mayotte-france-21-04-2025-01accorsinijeanne-10490960-credit-jeanne-accorsini-sipa-2504211619",
+      "publishedAt": "2025-04-22 05:33:46",
+      "content": "Emmanuel Macron a quitt\u00e9 Mayotte et est d\u00e9sormais attendu \u00e0 La R\u00e9union. Le pr\u00e9sident fran\u00e7ais doit y \u00e9voquer l\u00e9pid\u00e9mie de chikungunya et les d\u00e9g\u00e2ts provoqu\u00e9s par le cyclone Garance. Le chef de lEtat,\u2026 [+2891 chars]",
+      "retrievedAt": "2025-04-23 19:06:33.560648",
+      "internal_id": "1c7adad27a2cdc1aecd00666b68eb288594d4722921b4c120f701597dc315ef9",
+      "publishedAtLabel": "Apr 22"
+    },
+    {
+      "id": 20622,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "liberation",
+      "source_name": "Lib\u00e9ration",
+      "author": "LIBERATION, AFP",
+      "title": "Emmanuel Macron attendu \u00e0 la R\u00e9union sur le chikungunya et les d\u00e9g\u00e2ts du cyclone Garance",
+      "description": "Apr\u00e8s une visite en demi-teinte \u00e0 Mayotte lundi, le chef de l\u2019Etat poursuit ce mardi sa tourn\u00e9e dans le sud-ouest de l\u2019oc\u00e9an Indien avec le d\u00e9partement d\u2019outre-mer en lutte contre l\u2019\u00e9pid\u00e9mie propag\u00e9e par le moustique tigre.",
+      "url": "https://www.liberation.fr/politique/emmanuel-macron-attendu-a-la-reunion-sur-le-chikungunya-et-les-degats-du-cyclone-garance-20250422_G7QKBIOBBFHANPLQIJFKIJNU3E/",
+      "urlToImage": "https://www.liberation.fr/resizer/3imVRgszcE4lb4jNWNV7MzVbRGI=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/V4YVV5DOGBDLZJP543BZ5VKOB4.jpg",
+      "publishedAt": "2025-04-22 05:27:10",
+      "content": "Apr\u00e8s Mayotte, Emmanuel Macron est attendu ce mardi 22 avril \u00e0 la R\u00e9union, d\u00e9partement doutre-mer \u00e0 la plus forte croissance \u00e9conomique, sur l\u00e9pid\u00e9mie de chikungunya et les d\u00e9g\u00e2ts provoqu\u00e9s par le cy\u2026 [+3127 chars]",
+      "retrievedAt": "2025-04-23 19:06:33.644140",
+      "internal_id": "cd073fec7dbbf82b9497e8022e83dd52ba6265abdf172c46ce64d9198ae024f5",
+      "publishedAtLabel": "Apr 22"
+    },
+    {
+      "id": 20623,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "BFMTV",
+      "author": null,
+      "title": "Cyclone Garance, \u00e9pid\u00e9mie de chikungunya... Emmanuel Macron en visite \u00e0 La R\u00e9union",
+      "description": "Au lendemain de son d\u00e9placement \u00e0 Mayotte, Emmanuel Macron poursuit sa tourn\u00e9e dans l'Oc\u00e9an Indien. Il est arriv\u00e9 \u00e0 La R\u00e9union alors que le d\u00e9partement fran\u00e7ais doit composer avec l'\u00e9pid\u00e9mie de chikungunya et les d\u00e9g\u00e2ts provoqu\u00e9s par le cyclone Garance.",
+      "url": "https://www.bfmtv.com/politique/elysee/cyclone-garance-epidemie-de-chikungunya-emmanuel-macron-en-visite-a-la-reunion_AD-202504220109.html",
+      "urlToImage": "https://images.bfmtv.com/rBhmgYsKSNQeKO4LMlgaPVP-_0U=/0x212:2048x1364/2048x0/images/Emmanuel-Macron-en-presence-de-son-epouse-Brigitte-Macron-a-Mayotte-lundi-21-avril-2025-est-desormais-attendu-a-l-ile-de-la-Reunion-ce-mardi-2069717.jpg",
+      "publishedAt": "2025-04-22 05:22:02",
+      "content": "Au lendemain de son d\u00e9placement \u00e0 Mayotte, Emmanuel Macron poursuit sa tourn\u00e9e dans l'Oc\u00e9an Indien. Il est arriv\u00e9 \u00e0 La R\u00e9union alors que le d\u00e9partement fran\u00e7ais doit composer avec l'\u00e9pid\u00e9mie de chiku\u2026 [+3691 chars]",
+      "retrievedAt": "2025-04-23 19:06:33.659022",
+      "internal_id": "0580daeade4104e023e19e22563ce7eb0efb2bdb43a71f003ec793b1e19ace7f",
+      "publishedAtLabel": "Apr 22"
+    },
+    {
+      "id": 20604,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Togetter.com",
+      "author": null,
+      "title": "\u300c\u5bdd\u3066\u308c\u3070\u6cbb\u308b\u75c5\u6c17\u3058\u3083\u306a\u3044\u300d\u30a2\u30e1\u30ea\u30ab\u3067\u306f\u3057\u304b\u304c\u611f\u67d3\u62e1\u5927\u3001\u30ef\u30af\u30c1\u30f3\u61d0\u7591\u6d3e\u3060\u3063\u305f\u30b1\u30cd\u30c7\u30a3Jr.\u539a\u751f\u9577\u5b98\u3082\u4e88\u9632\u63a5\u7a2e\u306e\u8a34\u3048",
+      "description": "\u4e16\u754c\u7684\u306b\u306f\u3057\u304b\uff08\u9ebb\u75b9\uff09\u306e\u611f\u67d3\u304c\u6025\u5897 #\u30e6\u30cb\u30bb\u30d5 \u3089\u306b\u3088\u308b\u3068\u3001\u6b27\u5dde\u30fb\u4e2d\u592e\u30a2\u30b8\u30a2\u3067 #\u306f\u3057\u304b \u611f\u67d3\u304c\u6025\u5897\u30022024\u5e74\u306f\u524d\u5e74\u306e2\u500d\u3001\u904e\u53bb25\u5e74\u3067\u6700\u591a\u306e12\u4e077\u5343\u4ef6\u3068\u306a\u308a\u3001\u305d\u306e4\u5272\u4ee5\u4e0a\u304c5\u6b73\u672a\u6e80\u5150\u3067\u3057\u305f\u3002 \u4e16\u754c\u3067\u306f\u6628\u5e74\u300135\u4e079\u5343\u4ef6\u306e\u75c7\u4f8b\u304c\u5831\u544a\u3055\u308c\u307e\u3057\u305f\u3002\u306f\u3057\u304b\u306e\u611f\u67d3\u62e1\u5927\u3092\u9632\u3050\u305f\u3081\u3001#\u4e88\u9632\u63a5\u7a2e \u306a\u3069\u306e\u7dca\u6025\u5bfe\u5fdc\u304c\u5fc5\u8981\u3067\u3059\u3002",
+      "url": "https://togetter.com/li/2541652",
+      "urlToImage": "https://s.tgstc.com/ogp3/8e7e213a62ceee771a4e7f529f4e21e2-1200x630.jpeg",
+      "publishedAt": "2025-04-22 04:43:35",
+      "content": "Mugen UJIIE ( )@carpe_diem0820206641%2029 20254911466 913 1088 6657 37 2119 202941% Surge in Measles Cases in Japan, With 41% in Adults in Their 20s and High Overseas Link Japan reported 66 \u2026 [+351 chars]",
+      "retrievedAt": "2025-04-23 19:06:31.934957",
+      "internal_id": "802c077e33aafa3e3654e799a2c53c7999360876759f90cc678a629355ff9ea9",
+      "publishedAtLabel": "Apr 22"
+    },
+    {
+      "id": 20609,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Confirmed measles case in Edmonton region prompts potential measles exposure warning",
+      "description": "Alberta Health Services issued advisories on Friday to warn about possible exposure to a confirmed measles case in the Edmonton region.",
+      "url": "https://www.cbc.ca/news/canada/edmonton/edmonton-measles-case-1.7515102",
+      "urlToImage": "https://i.cbc.ca/1.7507333.1744319050!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/2202122308.jpg?im=Resize%3D620",
+      "publishedAt": "2025-04-22 02:06:10",
+      "content": "Alberta Health Services issued advisories on Friday to warn about possible exposure to a confirmed measles case in the Edmonton region. AHS says the confirmed case in the Edmonton Zone was in public\u2026 [+1465 chars]",
+      "retrievedAt": "2025-04-23 19:06:32.023286",
+      "internal_id": "bc182a5587f857400b36f5a6c90e2886524e271477336c6d5a5c9ce4ffafdaba",
+      "publishedAtLabel": "Apr 22"
+    },
+    {
+      "id": 20612,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Royal Society of Chemistry",
+      "author": "Renu Poria, Ankur Kaushal, Shruti Verma, Selva Kumar Ramasamy, G. S. Ghodake, Deepak Kumar, Shagun Gupta",
+      "title": "GQD/g-C3N4-modified nanochip for electrochemical detection of Dengue serotype 3",
+      "description": "Analyst, 2025, Accepted ManuscriptDOI: 10.1039/D5AN00035A, PaperRenu Poria, Ankur Kaushal, Shruti Verma, Selva Kumar Ramasamy, G. S. Ghodake, Deepak Kumar, Shagun GuptaA graphene quantum dot/2D graphitic carbon nitride (GQD)/g-C3N4)-based ultrasensitive DNA b\u2026",
+      "url": "https://pubs.rsc.org/en/content/articlelanding/2025/an/d5an00035a",
+      "urlToImage": null,
+      "publishedAt": "2025-04-21 23:00:00",
+      "content": "R. Poria, A. Kaushal, S. Verma, S. K. Ramasamy, G. S. Ghodake, D. Kumar and S. Gupta, Analyst, 2025, Accepted Manuscript , DOI: 10.1039/D5AN00035A To request permission to reproduce material from\u2026 [+642 chars]",
+      "retrievedAt": "2025-04-23 19:06:32.486571",
+      "internal_id": "01ba6e86f1c49ce63bef924e4c03a422bba4673cef4ffd3d83bb2ce27f9818e4",
+      "publishedAtLabel": "Apr 21"
+    },
+    {
+      "id": 20605,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Boston Herald",
+      "author": "Associated Press",
+      "title": "FACT FOCUS: Examining RFK Jr.\u2019s claims about measles, autism and diet as head of HHS",
+      "description": "RFK Jr. has made sweeping changes to the Department of Health and Human Services.",
+      "url": "https://www.bostonherald.com/2025/04/21/fact-check-rfk-jr-health-claims/",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/04/Kennedy_Autism_20285-1.jpg?w=1024&h=682",
+      "publishedAt": "2025-04-21 21:35:38",
+      "content": "WASHINGTON (AP) In just two months as the federal health secretary, Robert F. Kennedy Jr. has made sweeping changes to the Department of Health and Human Services and its priorities. Hes dismissed 1\u2026 [+10304 chars]",
+      "retrievedAt": "2025-04-23 19:06:31.948768",
+      "internal_id": "baf5460294bc1b069bbbbb21bfac46b78d19caa5fb89a67ccd11efc7dd4d4b5e",
+      "publishedAtLabel": "Apr 21"
+    },
+    {
+      "id": 20599,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "KIMT 3",
+      "author": "Mike Bunge",
+      "title": "Minnesota health officials looking to reverse a decline in childhood immunizations",
+      "description": "'Childhood immunizations are a cornerstone of public health, protecting our youngest from devastating diseases like pertussis and measles that have been on the rise across the country.'",
+      "url": "https://www.kimt.com/news/health/minnesota-health-officials-looking-to-reverse-a-decline-in-childhood-immunizations/article_2530e4ec-2ca5-43a3-8c4d-7c5252354f06.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/kimt.com/content/tncms/assets/v3/editorial/5/9b/59b9cc83-8115-5b6d-90ab-9afb37b48a87/619d2ad7ad8b7.image.jpg?crop=324%2C324%2C126%2C0&resize=200%2C200&order=crop%2Cresize",
+      "publishedAt": "2025-04-21 20:46:01",
+      "content": "ST. PAUL, Minn. This is Infant Immunization Week in Minnesota. Childhood immunizations are a cornerstone of public health, protecting our youngest from devastating diseases like pertussis (whooping \u2026 [+1736 chars]",
+      "retrievedAt": "2025-04-23 19:06:31.264711",
+      "internal_id": "eb84e6a2bffb89e120d5321ed7cb227ab53793182398a633bdd446dc1e12f83a",
+      "publishedAtLabel": "Apr 21"
+    },
+    {
+      "id": 20613,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "Immune system proteins involved in severe parasitic disease identified",
+      "description": "New insights into the mechanisms that cause more severe cases of schistosomiasis -- a disease caused by parasitic worms and second only to malaria in terms of potential harm -- have been revealed.",
+      "url": "https://www.sciencedaily.com/releases/2025/04/250421162815.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2025-04-21 20:28:15",
+      "content": "New insights into the mechanisms that cause more severe cases of schistosomiasis -- a disease caused by parasitic worms and second only to malaria in terms of potential harm -- have been revealed by \u2026 [+3802 chars]",
+      "retrievedAt": "2025-04-23 19:06:33.008268",
+      "internal_id": "d2f987a4971df7dd647e373cf364b9fadf402bf223b08ecf38d0814b12f16b7c",
+      "publishedAtLabel": "Apr 21"
+    },
+    {
+      "id": 20606,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "FACT FOCUS: Examining RFK Jr.'s claims about measles, autism and diet as head of HHS (Associated Press)",
+      "description": "Associated Press: FACT FOCUS: Examining RFK Jr.'s claims about measles, autism and diet as head of HHS \u2014 In just two months as the federal health secretary, Robert F. Kennedy Jr. has made sweeping changes to the Department of Health and Human Services \u2014 and\u2026",
+      "url": "https://www.memeorandum.com/250421/p98",
+      "urlToImage": "https://dims.apnews.com/dims4/default/d21e9bc/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe7%2Ff8%2Fe34b90a96d5e1f8f19e06fd361bf%2F0e7ae2947c9248248ab6875432c28e8e",
+      "publishedAt": "2025-04-21 20:05:01",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-04-23 19:06:31.983259",
+      "internal_id": "ff588c39352e6f87a41f9f759021ad780f8871854bd1827ab865ef60d15eddf9",
+      "publishedAtLabel": "Apr 21"
+    },
     {
       "id": 20597,
       "query": [

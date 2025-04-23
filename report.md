@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 5
-- **Last harvest:** 2025-04-22 19:06
-- **Most recent article:** 2025-04-21 14:00:00
+- **New articles in last harvest:** 32
+- **Last harvest:** 2025-04-23 19:06
+- **Most recent article:** 2025-04-22 17:06:57
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-11 | 25-12 | 25-13 | 25-14 | 25-15 | 25-16 | 25-17 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 131 | 108 | 101 | 77 | 145 | 82 | 13 | 657 |
+| measles | 131 | 108 | 101 | 77 | 145 | 82 | 24 | 668 |
 | h5n1 | 35 | 57 | 47 | 46 | 66 | 9 | 3 | 263 |
-| dengue | 12 | 18 | 20 | 14 | 24 | 30 | 5 | 123 |
-| chikungunya | 1 | 17 | 10 | 17 | 15 | 39 | 8 | 107 |
-| malaria | 17 | 18 | 30 | 13 | 10 | 14 | 2 | 104 |
+| dengue | 12 | 18 | 20 | 14 | 24 | 30 | 7 | 125 |
+| chikungunya | 1 | 17 | 10 | 17 | 15 | 39 | 22 | 121 |
+| malaria | 17 | 18 | 30 | 13 | 10 | 14 | 4 | 106 |
 | mpox | 14 | 8 | 12 | 17 | 18 | 10 | 0 | 79 |
 | meningitis | 9 | 7 | 10 | 6 | 10 | 9 | 3 | 54 |
 | rabies | 7 | 3 | 19 | 7 | 7 | 0 | 0 | 43 |
 | hpai | 3 | 12 | 2 | 4 | 3 | 5 | 0 | 29 |
 | zika | 0 | 2 | 3 | 4 | 7 | 7 | 0 | 23 |
-| pertussis | 5 | 1 | 0 | 7 | 2 | 5 | 0 | 20 |
-| typhoid | 8 | 0 | 1 | 2 | 2 | 3 | 1 | 17 |
+| pertussis | 5 | 1 | 0 | 7 | 2 | 5 | 1 | 21 |
+| typhoid | 8 | 0 | 1 | 2 | 2 | 3 | 3 | 19 |
 | yersinia | 2 | 2 | 3 | 0 | 0 | 0 | 0 | 7 |
 | leptospirosis | 0 | 1 | 0 | 0 | 0 | 1 | 0 | 2 |
 
@@ -34,7 +34,15 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-17 (typhoid)
 
+- [Typhoid Fever's Deadly Mutation: Killer Becomes Resistant To Antibiotics](https://www.ndtv.com/science/typhoid-fevers-deadly-mutation-ancient-killer-becomes-resistant-to-last-resort-antibiotics-8229318) (NDTV News)
+
+- [Detection of Salmonella Typhi and blaCTX-M genes in drinking water, wastewater, and environmental biofilms in Sindh Province, Pakistan](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012963) (Plos.org)
+
 - [Ancient Killer Is Rapidly Becoming Resistant to Antibiotics, Study Warns](https://www.sciencealert.com/ancient-killer-is-rapidly-becoming-resistant-to-antibiotics-study-warns) (ScienceAlert)
+
+## 25-17 (pertussis)
+
+- [Minnesota health officials looking to reverse a decline in childhood immunizations](https://www.kimt.com/news/health/minnesota-health-officials-looking-to-reverse-a-decline-in-childhood-immunizations/article_2530e4ec-2ca5-43a3-8c4d-7c5252354f06.html) (KIMT 3)
 
 ## 25-17 (meningitis)
 
@@ -45,6 +53,28 @@ Source: [News API](https://newsapi.org/)
 - [Cegah Meningitis, 500 Petugas Haji Jalani Vaksinasi Gratis](https://www.liputan6.com/health/read/5999635/cegah-meningitis-500-petugas-haji-jalani-vaksinasi-gratis) (Liputan6.com)
 
 ## 25-17 (measles)
+
+- [Measles Updates: Texas Outbreak Surpasses 600 Cases After Illness Spreads To 25 States](https://www.forbes.com/sites/antoniopequenoiv/2025/04/22/measles-updates-texas-outbreak-surpasses-600-cases-after-illness-spreads-to-25-states/) (Forbes)
+
+- [Quebec says measles outbreak has ended](https://www.cbc.ca/news/canada/montreal/measles-quebec-outbreak-1.7515472) (CBC News)
+
+- [Texas measles outbreak surpasses 600 cases with most among children, teens](https://abcnews.go.com/Health/texas-measles-outbreak-surpasses-600-cases-children-teens/story?id=121042863) (ABC News)
+
+- [RFK Jr.'s Favorite Measles Doc Heroically Kept Treating Children While Infected Himself](https://www.wonkette.com/p/rfk-jrs-favorite-measles-doc-heroically) (Wonkette.com)
+
+- [New potential measles exposure in southern Alberta including Calgary: AHS](https://www.cbc.ca/news/canada/calgary/measles-exposure-public-alert-south-zone-1.7515212) (CBC News)
+
+- [Measles trending toward worst year in decades, warns Michigan’s top doc](https://www.mlive.com/news/2025/04/measles-trending-toward-worst-year-in-decades-warns-michigans-top-doc.html) (mlive.com)
+
+- [Measles Gone Wild](https://www.nybooks.com/articles/2025/05/15/measles-gone-wild-booster-shots-adam-ratner/) (The New York Review of Books)
+
+- [「寝てれば治る病気じゃない」アメリカではしかが感染拡大、ワクチン懐疑派だったケネディJr.厚生長官も予防接種の訴え](https://togetter.com/li/2541652) (Togetter.com)
+
+- [Confirmed measles case in Edmonton region prompts potential measles exposure warning](https://www.cbc.ca/news/canada/edmonton/edmonton-measles-case-1.7515102) (CBC News)
+
+- [FACT FOCUS: Examining RFK Jr.’s claims about measles, autism and diet as head of HHS](https://www.bostonherald.com/2025/04/21/fact-check-rfk-jr-health-claims/) (Boston Herald)
+
+- [FACT FOCUS: Examining RFK Jr.'s claims about measles, autism and diet as head of HHS (Associated Press)](https://www.memeorandum.com/250421/p98) (Memeorandum.com)
 
 - [Measles, Whooping Cough, the Laschamp Event and a Colossal Squid](https://www.scientificamerican.com/podcast/episode/measles-whooping-cough-the-laschamp-event-and-a-colossal-squid/) (Scientific American)
 
@@ -74,6 +104,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-17 (malaria)
 
+- [A new weapon in the global fight against malaria](https://financialpost.com/pmn/business-wire-news-releases-pmn/a-new-weapon-in-the-global-fight-against-malaria) (Financial Post)
+
+- [Immune system proteins involved in severe parasitic disease identified](https://www.sciencedaily.com/releases/2025/04/250421162815.htm) (Science Daily)
+
 - [Spatial distribution and geospatial modeling of potential spread of secondary malaria vectors species in Nigeria using recently collected empirical data](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0320531) (Plos.org)
 
 - [Endgame malaria](https://www.thehindubusinessline.com/specials/pulse/endgame-malaria/article69457631.ece) (BusinessLine)
@@ -88,6 +122,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-17 (dengue)
 
+- [Mosquitos podem tomar decisões coletivas, segundo estudo brasileiro](https://olhardigital.com.br/2025/04/22/ciencia-e-espaco/mosquitos-podem-tomar-decisoes-coletivas-segundo-estudo-brasileiro/) (Olhardigital.com.br)
+
+- [GQD/g-C3N4-modified nanochip for electrochemical detection of Dengue serotype 3](https://pubs.rsc.org/en/content/articlelanding/2025/an/d5an00035a) (Royal Society of Chemistry)
+
 - [Chá relaxante muscular: conheça 4 bebidas com esse efeito](https://www.terra.com.br/vida-e-estilo/degusta/cha-relaxante-muscular-conheca-4-bebidas-com-esse-efeito,3a9d82991bb8b43c5a145d16a44372340wxjbsl7.html) (Terra.com.br)
 
 - [Vem aí um verão cheio de mosquitos. Devemos temer a dengue e a malária?](https://observador.pt/especiais/vem-ai-um-verao-cheio-de-mosquitos-devemos-temer-a-dengue-e-a-malaria/) (Observador.pt)
@@ -99,6 +137,34 @@ Source: [News API](https://newsapi.org/)
 - [TWiV 1211: Moo flu and dengue two](https://www.microbe.tv/twiv/twiv-1211/) (Microbe.tv)
 
 ## 25-17 (chikungunya)
+
+- [La Réunion : Un bébé décède du chikungunya malgré son hospitalisation](https://www.20minutes.fr/societe/4149774-20250422-reunion-bebe-decede-chikungunya-malgre-hospitalisation) (20 Minutes)
+
+- [À La Réunion, un nourrisson meurt du chikungunya, le bilan de l’épidémie monte à 7 morts](https://www.huffingtonpost.fr/france/article/a-la-reunion-un-nourrisson-meurt-du-chikungunya-le-bilan-de-l-epidemie-monte-a-7-morts_249104.html) (Le HuffPost)
+
+- [La Réunion : le chikungunya a tué un nourrisson d'un mois, portant à sept le nombre de décès liés à l'épidémie sur l'île](https://la1ere.francetvinfo.fr/reunion/epidemie-de-chikungunya-a-la-reunion-un-nourrisson-est-decede-portant-a-sept-le-nombre-de-morts-sur-l-ile-1580267.html) (Francetvinfo.fr)
+
+- [Politique. Renforts militaires, dispositifs d’urgence… les plans d'Emmanuel Macron pour La Réunion](https://www.ledauphine.com/politique/2025/04/22/renforts-militaires-dispositifs-d-urgence-les-plans-d-emmanuel-macron-pour-la-reunion) (Le Dauphiné Libéré)
+
+- [Chikungunya à La Réunion : "Ça a été très mal anticipé", dénonce Emmanuel Séraphin, le maire de Saint-Paul](https://www.francetvinfo.fr/sante/maladie/chikungunya/chikungunya-a-la-reunion-ca-a-ete-tres-mal-anticipe-denonce-emmanuel-seraphin-le-maire-de-saint-paul_7203882.html) (Francetvinfo.fr)
+
+- [Emmanuel Macron à La Réunion pour faire le point sur l’épidémie de chikungunya et les dégâts provoqués par le cyclone Garance](https://www.lemonde.fr/politique/article/2025/04/22/emmanuel-macron-a-la-reunion-pour-faire-le-point-sur-l-epidemie-de-chikungunya-et-les-degats-provoques-par-le-cyclone-garance_6598823_823448.html) (Le Monde)
+
+- [La Réunion : le président attendu sur l'île](https://www.francetvinfo.fr/france/la-reunion/la-reunion-le-president-attendu-sur-l-ile_7203732.html) (Francetvinfo.fr)
+
+- [Emmanuel Macron attendu à la Réunion, en pleine épidémie de chikungunya](https://atlantico.fr/article/pepite/emmanuel-macron-attendu-a-la-reunion-en-pleine-epidemie-de-chikungunya) (Atlantico.fr)
+
+- [Emmanuel Macron attendu à La Réunion sur le chikungunya et les dégâts du cyclone Garance](https://www.nouvelobs.com/societe/20250422.OBS103044/emmanuel-macron-attendu-a-la-reunion-sur-le-chikungunya-et-les-degats-du-cyclone-garance.html) (L'Obs)
+
+- ["On ne demande pas la lune !" : la Réunion attend des renforts pour lutter contre l'épidémie de chikungunya](https://www.francetvinfo.fr/france/la-reunion/on-ne-demande-pas-la-lune-la-reunion-attend-des-renforts-pour-lutter-contre-l-epidemie-de-chikungunya_7202679.html) (Francetvinfo.fr)
+
+- [Emmanuel Macron est attendu à La Réunion, en pleine épidémie de chikungunya et après les dégâts du cyclone Garance](https://www.francetvinfo.fr/france/la-reunion/direct-emmanuel-macron-est-attendu-a-la-reunion-en-pleine-epidemie-de-chikungunya-et-apres-les-degats-du-cyclone-garance_7203522.html) (Francetvinfo.fr)
+
+- [La Réunion : Macron attendu sur le chikungunya et les dégâts du cyclone Garance](https://www.20minutes.fr/politique/4149692-20250422-reunion-macron-attendu-chikungunya-degats-cyclone-garance) (20 Minutes)
+
+- [Emmanuel Macron attendu à la Réunion sur le chikungunya et les dégâts du cyclone Garance](https://www.liberation.fr/politique/emmanuel-macron-attendu-a-la-reunion-sur-le-chikungunya-et-les-degats-du-cyclone-garance-20250422_G7QKBIOBBFHANPLQIJFKIJNU3E/) (Libération)
+
+- [Cyclone Garance, épidémie de chikungunya... Emmanuel Macron en visite à La Réunion](https://www.bfmtv.com/politique/elysee/cyclone-garance-epidemie-de-chikungunya-emmanuel-macron-en-visite-a-la-reunion_AD-202504220109.html) (BFMTV)
 
 - [Chikungunya à La Réunion : l'ARS annonce le renfort de "six médecins" cette semaine alors que "le nombre de passage aux urgences reste élevé"](https://www.francetvinfo.fr/sante/maladie/chikungunya/chikungunya-a-la-reunion-l-ars-annonce-le-renfort-de-six-medecins-cette-semaine-alors-que-le-nombre-de-passage-aux-urgences-reste-eleve_7201965.html) (Francetvinfo.fr)
 
