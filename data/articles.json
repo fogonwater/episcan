@@ -1,8 +1,566 @@
 {
-  "last_updated": "2025-04-24 07:07",
-  "count_articles_total": 1540,
-  "count_articles_new": 15,
+  "last_updated": "2025-04-24 19:06",
+  "count_articles_total": 1563,
+  "count_articles_new": 31,
   "articles": [
+    {
+      "id": 20647,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Alex Knapp, Forbes Staff, \n Alex Knapp, Forbes Staff\n https://www.forbes.com/sites/alexknapp/",
+      "title": "InnovationRx: Measles Continues To Spread\u2014And Misinformation Is Making It Worse",
+      "description": "In this week\u2019s edition of InnovationRx, we look at the spread of both measles and disinformation, the DOJ going after medical journals, policy changes on Covid vaccines and more.",
+      "url": "https://www.forbes.com/sites/innovationrx/2025/04/23/innovationrx-measles-continues-to-spread-and-misinformation-is-making-it-worse/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6809300e9f6ef9125c2a26da/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-04-23 19:02:02",
+      "content": "In this weeks edition of InnovationRx, we look at the spread of both measles and disinformation about it, the DOJ going after medical journals, HHS policy changes on Covid vaccines and more. To get i\u2026 [+6964 chars]",
+      "retrievedAt": "2025-04-24 19:06:19.753178",
+      "internal_id": "17539d35eaf170c9c6aca837365ab3f8fcce6545772365e5606c4aad89b113ba",
+      "publishedAtLabel": "Apr 23"
+    },
+    {
+      "id": 20660,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Nplus1.ru",
+      "author": "\u041e\u043b\u0435\u0433 \u041b\u0438\u0449\u0443\u043a",
+      "title": "\u0412\u044c\u0435\u0442\u043d\u0430\u043c \u0441\u043e\u043e\u0431\u0449\u0438\u043b \u043e \u0441\u043b\u0443\u0447\u0430\u0435 \u0432\u044b\u0441\u043e\u043a\u043e\u043f\u0430\u0442\u043e\u0433\u0435\u043d\u043d\u043e\u0433\u043e \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430 \u0441 \u044d\u043d\u0446\u0435\u0444\u0430\u043b\u0438\u0442\u043e\u043c",
+      "description": "\u0412\u044c\u0435\u0442\u043d\u0430\u043c \u0441\u043e\u043e\u0431\u0449\u0438\u043b \u043e \u0441\u043b\u0443\u0447\u0430\u0435 \u0432\u044b\u0441\u043e\u043a\u043e\u043f\u0430\u0442\u043e\u0433\u0435\u043d\u043d\u043e\u0433\u043e \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430 \u0441 \u044d\u043d\u0446\u0435\u0444\u0430\u043b\u0438\u0442\u043e\u043c",
+      "url": "https://nplus1.ru/news/2025/04/23/vietnam-encephaloflu",
+      "urlToImage": "https://minio.nplus1.ru/app-images/1011334/680910cc2f179_cover_share.jpg",
+      "publishedAt": "2025-04-23 18:35:00",
+      "content": ", H5N1. , 2024 . - FluTrackers. , 11 . , . . , . . , , . H5N1 , , .",
+      "retrievedAt": "2025-04-24 19:06:20.746179",
+      "internal_id": "a9d732ee055704970a92af452ae6a6dfb8c2f658bb42446bae164af28cb423e9",
+      "publishedAtLabel": "Apr 23"
+    },
+    {
+      "id": 20659,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Shtfplan.com",
+      "author": "Mac Slavo",
+      "title": "Vietnam Reports Human Bird Flu Case In 8 Year Old Girl",
+      "description": "Health officials in Vietnam have reported a severe H5N1 avian flu infection in an 8-year-old girl. The girl, who is experiencing encephalitis symptoms, appears to be the country's first human case of bird flu in 2025.",
+      "url": "https://www.shtfplan.com/headline-news/vietnam-reports-human-bird-flu-case-in-8-year-old-girl",
+      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2023/12/bird-flu1.jpg",
+      "publishedAt": "2025-04-23 17:30:54",
+      "content": "Health officials in Vietnam have reported a severe H5N1 avian flu infection in an 8-year-old girl. The girl, who is experiencing encephalitis symptoms, appears to be the country\u2019s first human case of\u2026 [+1768 chars]",
+      "retrievedAt": "2025-04-24 19:06:20.737377",
+      "internal_id": "9e9a3130ed5b761f0d1d6eb8bfc5ce74bbedf067511a333206c4dafdfc6fe8a0",
+      "publishedAtLabel": "Apr 23"
+    },
+    {
+      "id": 20663,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "My Modern Met",
+      "author": "Regina Sienra",
+      "title": "\u201cBionic Girl\u201d Debuts New Wireless Hands That Even Work When Detached From the Main Prosthetic",
+      "description": "\u201cBionic Girl\u201d Debuts New Wireless Hands That Even Work When Detached From the Main Prosthetic Ver esta publicaci\u00f3n en Instagram Una publicaci\u00f3n compartida por Open Bionics (@openbionics) For most of her life, Tilley Lockey has been championing the limb di\u2026",
+      "url": "https://mymodernmet.com/tilley-lockey-open-bionics-hero-pro/",
+      "urlToImage": "https://mymodernmet.com/wp/wp-content/uploads/2025/04/tilly-lockey-hero-pro-fb.jpg",
+      "publishedAt": "2025-04-23 17:30:38",
+      "content": "For most of her life, Tilley Lockey has been championing the limb different community. The 19-year-old singer, influencer, and host lost both her arms to meningitis when she was just 15 months old. B\u2026 [+3743 chars]",
+      "retrievedAt": "2025-04-24 19:06:21.491307",
+      "internal_id": "067b00704dcaf7f8d128897426988e083c0780e155c90d7176e35a7aa53e0d16",
+      "publishedAtLabel": "Apr 23"
+    },
+    {
+      "id": 20650,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "Trump cuts threaten free vaccine program for kids amid measles outbreak (Reuters)",
+      "description": "Reuters: Trump cuts threaten free vaccine program for kids amid measles outbreak \u2014 Dr. Ali Sherif normally gives about 50 doses of the measles vaccine to children each month at his clinic in Hobbs, New Mexico, near the Texas state line. \u2014 The number of sh\u2026",
+      "url": "https://www.memeorandum.com/250423/p73",
+      "urlToImage": "https://www.reuters.com/resizer/v2/LXAYN6RYCFJQBAYFYXGKKBNW5M.jpg?auth=3b37003895bdfd9b441f8b1fd34bc03fde900743a375dc4e5da4a9699a3e21ce&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2025-04-23 17:05:03",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-04-24 19:06:19.824350",
+      "internal_id": "07aefa9021398f680046b5277284261b955659400cc510c5575c1805944f6e1a",
+      "publishedAtLabel": "Apr 23"
+    },
+    {
+      "id": 20658,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Denver Post",
+      "author": "Meg Wingerter",
+      "title": "Denver confirms second measles case in quarantined person",
+      "description": "The newly identified case was a person who lived in the same household as a Denver baby diagnosed with measles earlier this month.",
+      "url": "https://www.denverpost.com/2025/04/23/denver-measles-case-colorado/",
+      "urlToImage": "https://www.denverpost.com/wp-content/uploads/2017/01/462294288.jpg?w=1024&h=706",
+      "publishedAt": "2025-04-23 16:54:08",
+      "content": "Denver has confirmed a second measles case \u2014 and the third in Colorado this year \u2014 but the patient was already in quarantine and unlikely to infect anyone else, public health officials said Wednesday\u2026 [+1848 chars]",
+      "retrievedAt": "2025-04-24 19:06:19.963081",
+      "internal_id": "2f9524f4db8cf6c66b52afb8574cbc80a5871eb9bf5d8866a73c411707e0ad56",
+      "publishedAtLabel": "Apr 23"
+    },
+    {
+      "id": 20646,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Gizmodo.com",
+      "author": "Ed Cara",
+      "title": "A Shocking Number of Americans Are Still Clueless About Measles, Polling Suggests",
+      "description": "Only half of all Americans are even aware that measles cases are higher than normal this year.",
+      "url": "https://gizmodo.com/a-shocking-number-of-americans-are-still-clueless-about-measles-polling-suggests-2000593282",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/02/measles-rash.jpg",
+      "publishedAt": "2025-04-23 16:10:52",
+      "content": "It turns out that many people in the U.S. are in the dark about measles, even in the midst of a large outbreak currently affecting several states. A new poll out this week shows that roughly half of \u2026 [+3512 chars]",
+      "retrievedAt": "2025-04-24 19:06:19.691168",
+      "internal_id": "acea92ae94aad3d04358c0b22dde398773a005013d6170a6fd7cb2fa8083497c",
+      "publishedAtLabel": "Apr 23"
+    },
+    {
+      "id": 20665,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Phys.Org",
+      "author": "University of Glasgow",
+      "title": "New species of mosquito identified on the coast of East Africa",
+      "description": "Scientists have discovered a previously unidentified species of mosquito along the coast of Kenya and Tanzania with potential implications for malaria surveillance and control.",
+      "url": "https://phys.org/news/2025-04-species-mosquito-coast-east-africa.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2025/new-species-of-mosquit.jpg",
+      "publishedAt": "2025-04-23 14:51:04",
+      "content": "Scientists have discovered a previously unidentified species of mosquito along the coast of Kenya and Tanzania with potential implications for malaria surveillance and control. This newly discovered\u2026 [+3997 chars]",
+      "retrievedAt": "2025-04-24 19:06:21.825206",
+      "internal_id": "c56192d99b619580afe282479d059057628d428cb70175d28375cb0190a7876b",
+      "publishedAtLabel": "Apr 23"
+    },
+    {
+      "id": 20669,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Le HuffPost",
+      "author": "In\u00e8s Cha\u00efeb, avec AFP",
+      "title": "\u00c0 La R\u00e9union, le bilan de l\u2019\u00e9pid\u00e9mie de chikungunya s\u2019alourdit encore avec ces trois nouveaux d\u00e9c\u00e8s",
+      "description": "L\u2019\u00eele est frapp\u00e9e depuis plusieurs semaines par une \u00e9pid\u00e9mie de chikungunya qui a fait neuf morts au total.",
+      "url": "https://www.huffingtonpost.fr/france/article/a-la-reunion-le-bilan-de-l-epidemie-de-chikungunya-s-alourdit-encore-avec-ces-trois-nouveaux-deces_249144.html",
+      "urlToImage": "https://focus.huffingtonpost.fr/2023/06/09/352/0/3762/2116/1820/1023/75/0/ec32c4a_1686300380801-gettyimages-1139947549.jpg",
+      "publishedAt": "2025-04-23 14:05:07",
+      "content": "SANT\u00c9 - Le bilan continue de salourdir. Dapr\u00e8s le dernier rapport de Sant\u00e9 publique France publi\u00e9 ce mercredi 23 avril, trois nouveaux d\u00e9c\u00e8s \u00ab li\u00e9s au chikungunya \u00bb ont \u00e9t\u00e9 enregistr\u00e9s \u00e0 La R\u00e9union, \u2026 [+2866 chars]",
+      "retrievedAt": "2025-04-24 19:06:22.886915",
+      "internal_id": "651f20e8357b4e743b629de3a2eadd34eff9f3b7e6debd2f0acfd2536ee9462c",
+      "publishedAtLabel": "Apr 23"
+    },
+    {
+      "id": 20657,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Techtarget.com",
+      "author": "Sara Heath",
+      "title": "Medical misinformation rises as U.S. faces measles outbreak",
+      "description": "Explore KFF data outlining the rise of medical misinformation related to the measles vaccine, set in the context of the nation's measles outbreak.",
+      "url": "https://www.techtarget.com/patientengagement/news/366623038/Medical-misinformation-rises-as-US-faces-measles-outbreak",
+      "urlToImage": "https://www.techtarget.com/rms/onlineimages/check_g496816315.jpg",
+      "publishedAt": "2025-04-23 13:52:00",
+      "content": "Medical misinformation related to the measles outbreak is on the rise, with nearly two-thirds of adults having heard at least one untrue statement about the outbreak and measles vaccines within the p\u2026 [+5702 chars]",
+      "retrievedAt": "2025-04-24 19:06:19.954684",
+      "internal_id": "4289bc2739895d0120a6edfe64e3949be1f3aefcdd49160242c9641b4037c1fd",
+      "publishedAtLabel": "Apr 23"
+    },
+    {
+      "id": 20654,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Eschatonblog.com",
+      "author": "noreply@blogger.com (Atrios)",
+      "title": "Culling The Botched And The Bungled",
+      "description": "It has a few different flavors (Musk/Thiel, Kennedy, Miller), but the people in charge are implementing a eugenics agenda and until reporters understand that the public will have no idea what is happening. The spread of measles in the Southwest now constitute\u2026",
+      "url": "https://www.eschatonblog.com/2025/04/culling-botched-and-bungled.html",
+      "urlToImage": null,
+      "publishedAt": "2025-04-23 13:00:00",
+      "content": "The spread of measles in the Southwest now constitutes the largest single outbreak since the United States declared the disease eliminated in 2000, federal scientists told state officials in a meetin\u2026 [+187 chars]",
+      "retrievedAt": "2025-04-24 19:06:19.870441",
+      "internal_id": "f056c0bd7ad05012c5f87815c0922294c235d3307e8fc5df70f054815174948e",
+      "publishedAtLabel": "Apr 23"
+    },
+    {
+      "id": 20667,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "liberation",
+      "source_name": "Lib\u00e9ration",
+      "author": "LIBERATION, AFP",
+      "title": "A la R\u00e9union, trois nouvelles personnes d\u00e9c\u00e8dent du chikungunya, le bilan provisoire passe \u00e0 neuf morts",
+      "description": "D\u2019apr\u00e8s Sant\u00e9 publique France, plus de 39 000 cas confirm\u00e9s de chikungunya ont \u00e9t\u00e9 signal\u00e9s \u00e0 la R\u00e9union depuis le d\u00e9but de l\u2019ann\u00e9e.",
+      "url": "https://www.liberation.fr/societe/sante/a-la-reunion-trois-nouvelles-personnes-decedent-du-chikungunya-le-bilan-provisoire-passe-a-neuf-morts-20250423_RV4MGA6OT5HLJEWOQG5CFNYSUU/",
+      "urlToImage": "https://www.liberation.fr/resizer/tBlhAlHwPMYzYut-5DxNvgkEtzI=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/ZRGV6ICPWNGKTMKABBHMVG3E3Y.jpg",
+      "publishedAt": "2025-04-23 12:36:48",
+      "content": "Le bilan salourdit. Trois nouveaux d\u00e9c\u00e8s \u00abli\u00e9s au chikungunya\u00bb ont \u00e9t\u00e9 enregistr\u00e9s \u00e0 La R\u00e9union, portant \u00e0 neuf le nombre de morts depuis le d\u00e9but de l\u00e9pid\u00e9mie, a annonc\u00e9 ce mercredi 23 avril Sant\u00e9 p\u2026 [+2453 chars]",
+      "retrievedAt": "2025-04-24 19:06:22.864654",
+      "internal_id": "0838cbab661e1cb836b2b0ad57ec0758bebe6fc075800e2e4ccba8a346dc82b7",
+      "publishedAtLabel": "Apr 23"
+    },
+    {
+      "id": 20662,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "Fabiola Czubaj",
+      "title": "Dengue: cu\u00e1les son las provincias con condiciones m\u00e1s favorables para la aparici\u00f3n de brotes",
+      "description": "Cinco distritos concentran una probabilidad muy alta en un mapa construido a partir de las variables asociadas con la transmisi\u00f3n del virus",
+      "url": "https://www.lanacion.com.ar/sociedad/dengue-cuales-son-las-provincias-con-condiciones-mas-favorables-para-la-aparicion-de-brotes-nid23042025/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/mosquitos-dengue-sociedad-conicet-mutacion-GIVGLGPAVZEFJGD7DZPCWKB3PE.jpg?auth=ca384a3964af1c1260dbb7054d338c84e389263e4ec9fb9d270af7aec2fea7fb&width=1200&quality=70&smart=false&height=803",
+      "publishedAt": "2025-04-23 12:35:31",
+      "content": "Localidades de una docena de provincias re\u00fanen condiciones ambientales y epidemiol\u00f3gicas que, a esta altura del a\u00f1o, predisponen a tener brotes de dengue. En cinco de esas jurisdicciones Formosa, San\u2026 [+5514 chars]",
+      "retrievedAt": "2025-04-24 19:06:21.039887",
+      "internal_id": "97c325ce50b6b29a578f76d1b7d776dc47a9497f6c51d4659c7be46a2a145c42",
+      "publishedAtLabel": "Apr 23"
+    },
+    {
+      "id": 20672,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "L'Obs",
+      "author": "Le Nouvel Obs avec AFP",
+      "title": "Trois nouveaux d\u00e9c\u00e8s \u00ab li\u00e9s au chikungunya \u00bb \u00e0 La R\u00e9union, le bilan provisoire passe \u00e0 neuf morts",
+      "description": "L\u2019\u00e9pid\u00e9mie se \u00ab stabilise \u00e0 un haut niveau de transmission \u00bb, ajoute Sant\u00e9 publique France, selon qui plus de 39 000 cas confirm\u00e9s de chikungunya ont \u00e9t\u00e9 signal\u00e9s \u00e0 la R\u00e9union depuis le d\u00e9but de l\u2019ann\u00e9e.",
+      "url": "https://www.nouvelobs.com/societe/20250423.OBS103115/trois-nouveaux-deces-lies-au-chikungunya-a-la-reunion-le-bilan-provisoire-passe-a-neuf-morts.html",
+      "urlToImage": "https://focus.nouvelobs.com/2025/04/23/0/0/5613/3742/1200/800/0/0/8d196aa_sirius-fs-upload-1-zoigbbb1gu0h-1745409510000-000-39y86ke.jpg",
+      "publishedAt": "2025-04-23 12:34:17",
+      "content": "Par Le Nouvel Obs avec AFP Publi\u00e9 le 23 avril 2025 \u00e0 14h34 Un h\u00f4pital \u00e0 Saint-Paul (La R\u00e9union), le 10 avril 2025. RICHARD BOUHET / AFP Lire plus tard Commenter Google Actualit\u00e9s Partager \u2026 [+2968 chars]",
+      "retrievedAt": "2025-04-24 19:06:22.966293",
+      "internal_id": "7ff3dd244ab2a3b922096ac886a42cb60460aa1ce76cf3f6ac1b5d8f3262357a",
+      "publishedAtLabel": "Apr 23"
+    },
+    {
+      "id": 20670,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "le-monde",
+      "source_name": "Le Monde",
+      "author": "Le Monde avec AFP",
+      "title": "Chikungunya \u00e0 La R\u00e9union : le bilan provisoire passe \u00e0 neuf morts, l\u2019\u00e9pid\u00e9mie reste \u00e0 un haut niveau de transmission",
+      "description": "Selon le ministre de la sant\u00e9, Yannick Neuder, sur place en m\u00eame temps qu\u2019Emmanuel Macton, \u00ab autour de 120 000 \u00bb personnes pourraient avoir \u00e9t\u00e9 contamin\u00e9es par le chikungunya, maladie transmise par le moustique-tigre.",
+      "url": "https://www.lemonde.fr/sante/article/2025/04/23/chikungunya-a-la-reunion-le-bilan-provisoire-passe-a-neuf-morts-l-epidemie-reste-a-un-haut-niveau-de-transmission_6599293_1651302.html",
+      "urlToImage": "https://img.lemde.fr/2025/04/22/1/0/8192/5461/1440/960/60/0/26ff05c_ftp-import-images-1-grhgzrtacmpv-5683457-01-06.jpg",
+      "publishedAt": "2025-04-23 12:33:35",
+      "content": "Un agent de lutte antivectorielle de lagence rgionale de sant\u00e9 intervient dans le cadre de la lutte contre la pand\u00e9mie de Chikungunya par les moustiques \u00e0 Saint-Benoit, sur l\u00eele fran\u00e7aise doutre-mer \u2026 [+2596 chars]",
+      "retrievedAt": "2025-04-24 19:06:22.938868",
+      "internal_id": "ca28e33c9fb4fbd41a7378568c891f3320e968926ffea45bd83eef6b638c485a",
+      "publishedAtLabel": "Apr 23"
+    },
+    {
+      "id": 20668,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "20 Minutes",
+      "author": "20 Minutes avec AFP",
+      "title": "La R\u00e9union : Trois nouveaux d\u00e9c\u00e8s \u00ab li\u00e9s au chikungunya \u00bb, le bilan provisoire passe \u00e0 neuf morts",
+      "description": "Neuf d\u00e9c\u00e8s li\u00e9s au chikungunya ont \u00e9t\u00e9 enregistr\u00e9s \u00e0 La R\u00e9union, touchant principalement des personnes \u00e2g\u00e9es ayant des comorbidit\u00e9s. Neuf autres d\u00e9c\u00e8s, dont celui d\u2019un nourrisson, sont en cours d\u2019investigation",
+      "url": "https://www.20minutes.fr/sante/4149973-20250423-reunion-trois-nouveaux-deces-lies-chikungunya-bilan-provisoire-passe-neuf-morts",
+      "urlToImage": "https://img.20mn.fr/yOf457jsRAeroaQ9Begheik/1444x920_official-visit-of-emmanuel-macron-french-president-to-the-indian-ocean-and-manuel-valls-minister-of-overseas-territories-of-france-a-joint-vector-control-mission-was-presented-led-by-the-regional-health-agency-ars-and-the-adapted-military-service-sma-as-part-of-efforts-to-prevent-the-spread-of-chikungunya-on-the-island-ile-de-la-reunion-tuesday-april-22-2025-01accorsinijeanne-14060051-credit-jeanne-accorsini-sipa-2504221430",
+      "publishedAt": "2025-04-23 12:13:40",
+      "content": "Trois nouveaux d\u00e9c\u00e8s officiellement \u00ab li\u00e9s au chikungunya \u00bb ont \u00e9t\u00e9 enregistr\u00e9s \u00e0 La R\u00e9union. Ils portent \u00e0 neuf le nombre de morts depuis le d\u00e9but de l\u00e9pid\u00e9mie, a annonc\u00e9 mercredi Sant\u00e9 publique Fra\u2026 [+984 chars]",
+      "retrievedAt": "2025-04-24 19:06:22.872638",
+      "internal_id": "0e2a883ee945fadeb69dd3fc7c0e419f7342269351b4ea0634dbcebdeaa3d793",
+      "publishedAtLabel": "Apr 23"
+    },
+    {
+      "id": 20655,
+      "query": [
+        "measles"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Reuters",
+      "title": "Trump cuts threaten free vaccine program for kids amid measles outbreak",
+      "description": "A surge in measles cases, exceeding 600 infections and resulting in three deaths, has prompted increased vaccinations facilitated by the Vaccines for Children program. This federally funded initiative ensures affordable vaccines, but recent budget cuts and pe\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/trump-cuts-threaten-free-vaccine-program-for-kids-amid-measles-outbreak/articleshow/120552027.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-120552144,width-1200,height-630,imgsize-158870,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-04-23 12:01:45",
+      "content": "Dr. Ali Sherif normally gives about 50 doses of the measles vaccine to children each month at his clinic in Hobbs, New Mexico, near the Texas state line.The number of shots at his clinic has surged a\u2026 [+5499 chars]",
+      "retrievedAt": "2025-04-24 19:06:19.929611",
+      "internal_id": "02c87405552c1d3085dd06297275f9fdcfdce4f66ba986b196f1208fcbe3d92d",
+      "publishedAtLabel": "Apr 23"
+    },
+    {
+      "id": 20664,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "UN News",
+      "author": "dpicampaigns",
+      "title": "Largely eradicated diseases at risk of returning due to budget cuts",
+      "description": "Vaccines have saved around 150 million lives over the past 50 years, but that progress is now under threat. Read Full Story on UN News The post Largely eradicated diseases at risk of returning due to budget cuts appeared first on United Nations Sustainable D\u2026",
+      "url": "https://news.un.org/en/story/2025/04/1162546",
+      "urlToImage": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/23-04-2025-UNICEF-vaccines-02.jpg/image770x420cropped.jpg",
+      "publishedAt": "2025-04-23 12:00:00",
+      "content": "Cuts to global health funding are leading to a rise in outbreaks of diseases that vaccines had nearly wiped out, the UN health agency, WHO, is warning on Thursday. In Africas meningitis belt, which \u2026 [+2271 chars]",
+      "retrievedAt": "2025-04-24 19:06:21.500608",
+      "internal_id": "50af3be3aadb3d608e1709ff2bcb32e936c16734533ea514106ae822c9251d34",
+      "publishedAtLabel": "Apr 23"
+    },
+    {
+      "id": 20674,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Francetvinfo.fr",
+      "author": null,
+      "title": "L'\u00e9pid\u00e9mie de chikungunya \u00e0 La R\u00e9union a fait trois nouveaux morts, le bilan provisoire passe \u00e0 neuf victimes",
+      "description": "Emmanuel Macron a constat\u00e9 mardi sur place les difficult\u00e9s engendr\u00e9es par cette \u00e9pid\u00e9mie sur l'\u00eele. Le ministre de la Sant\u00e9 Yannick Neuder a d\u00e9clar\u00e9 qu'\"autour de 120 000\" personnes pourraient avoir \u00e9t\u00e9 contamin\u00e9es.",
+      "url": "https://www.francetvinfo.fr/sante/maladie/chikungunya/l-epidemie-de-chikungunya-a-la-reunion-a-fait-trois-nouveaux-morts-le-bilan-provisoire-passe-a-neuf-victimes_7205844.html",
+      "urlToImage": "https://www.francetvinfo.fr/pictures/0vsYIdPmjkahSeBHv6Ptg7Od7eo/0x0:5592x3144/1500x843/2025/04/23/000-39y89we-6808cf7cc51d0848481448.jpg",
+      "publishedAt": "2025-04-23 11:33:46",
+      "content": "L'\u00e9pid\u00e9mie de chikungunya continue de se propager \u00e0 La R\u00e9union. Trois nouveaux d\u00e9c\u00e8s \"li\u00e9s au chikungunya\" ont \u00e9t\u00e9 enregistr\u00e9s \u00e0 La R\u00e9union, portant \u00e0 neuf le nombre de morts depuis le d\u00e9but de l'\u00e9pi\u2026 [+760 chars]",
+      "retrievedAt": "2025-04-24 19:06:23.032100",
+      "internal_id": "a91d5450d9d9e29d2cb244300536bdc77189c817f124fe18a3844f44e80c3bac",
+      "publishedAtLabel": "Apr 23"
+    },
+    {
+      "id": 20671,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
+      "author": "La r\u00e9daction avec AFP",
+      "title": "La R\u00e9union. Chikungunya : trois nouveaux d\u00e9c\u00e8s portent le bilan \u00e0 neuf morts depuis le d\u00e9but de l'\u00e9pid\u00e9mie",
+      "description": "Trois nouveaux d\u00e9c\u00e8s \u00ab li\u00e9s au chikungunya \u00bb ont \u00e9t\u00e9 enregistr\u00e9s \u00e0 La R\u00e9union, portant \u00e0 neuf le nombre de morts depuis le d\u00e9but de l'\u00e9pid\u00e9mie, a annonc\u00e9 mercredi Sant\u00e9 publique France dans son bulletin hebdomadaire.",
+      "url": "https://www.ledauphine.com/sante/2025/04/23/chikungunya-trois-nouveaux-deces-portent-le-bilan-a-neuf-morts-depuis-le-debut-de-l-epidemie",
+      "urlToImage": "https://cdn-s-www.ledauphine.com/images/45C68F5D-02DE-47B8-AE97-4313D2A99164/FB1200/photo-1745407708.jpg",
+      "publishedAt": "2025-04-23 11:28:00",
+      "content": "La R\u00e9union d\u00e9plore neuf d\u00e9c\u00e8s depuis le d\u00e9but de l'\u00e9pid\u00e9mie de chikungunya, apr\u00e8s la mort de trois nouvelles personnes, annonc\u00e9e par Sant\u00e9 publique France, ce mercredi. \u00ab Depuis le d\u00e9but de l'ann\u00e9e,\u2026 [+401 chars]",
+      "retrievedAt": "2025-04-24 19:06:22.946342",
+      "internal_id": "2a807084d95e6f3179c4d30b82539398acace82007ecfeb27a1492cfb87915ca",
+      "publishedAtLabel": "Apr 23"
+    },
+    {
+      "id": 20661,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Origo.hu",
+      "author": "Origo",
+      "title": "\u00dajabb v\u00e1rmegy\u00e9ben jelent meg a mad\u00e1rinfluenza",
+      "description": "Mad\u00e1rinfluenza v\u00edrus jelenl\u00e9t\u00e9t mutatta ki B\u00e9k\u00e9s v\u00e1rmegy\u00e9ben a Nemzeti \u00c9lelmiszerl\u00e1nc-biztons\u00e1gi Hivatal (N\u00e9bih) laborat\u00f3riuma. Az \u00e9rintett \u00e1llom\u00e1ny felsz\u00e1mol\u00e1sa \u00e9s a j\u00e1rv\u00e1ny\u00fcgyi nyomoz\u00e1s folyamatban van. A mad\u00e1rinfluenza v\u00edrusa gyakorlatilag m\u00e1r folyamatosan\u2026",
+      "url": "https://www.origo.hu/gazdasag/2025/04/varmegye-nebih-madarinfluenza",
+      "urlToImage": "https://cdn.origo.hu/2025/04/TqhuVpW-8K6RmQKA_wLsqPkLYw4lhEJYDuqjyoddWWU/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2RjZWU2ZjU1MjIxNTRlZTY5NDE4NjcwZjI2ZWJhYThh.webp",
+      "publishedAt": "2025-04-23 09:48:09",
+      "content": "A B\u00e9k\u00e9s v\u00e1rmegyei Szarvas telep\u00fcl\u00e9sen tal\u00e1lhat\u00f3, 40.000 darabos h\u00edz\u00f3pulyka telepen a megemelkedett elhull\u00e1s miatt mer\u00fclt fel a mad\u00e1rinfluenza gyan\u00faja. A N\u00e9bih laborat\u00f3riuma a v\u00edrus H5N1 alt\u00edpus\u00e1t m\u2026 [+521 chars]",
+      "retrievedAt": "2025-04-24 19:06:20.754795",
+      "internal_id": "eed3608ba10fac666bcc7ac0ee68205cf88dfac01a4c91f20da2e251a0b75ecc",
+      "publishedAtLabel": "Apr 23"
+    },
+    {
+      "id": 20649,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Maria Godoy",
+      "title": "Like measles, misinformation is spreading, poll finds",
+      "description": "With the U.S. now reporting more than 800 measles cases, a new poll from health policy research group KFF finds that many people are being exposed to false claims about measles and the measles vaccine.",
+      "url": "https://www.npr.org/2025/04/23/nx-s1-5372760/like-measles-misinformation-is-spreading-poll-finds",
+      "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+      "publishedAt": "2025-04-23 09:02:59",
+      "content": "With the U.S. now reporting more than 800 measles cases, a new poll from health policy research group KFF finds that many people are being exposed to false claims about measles and the measles vaccin\u2026 [+1 chars]",
+      "retrievedAt": "2025-04-24 19:06:19.809218",
+      "internal_id": "0873902c10813b9e03023eb6e806bf482d45f9f7893e4e1c181c5b2aae325442",
+      "publishedAtLabel": "Apr 23"
+    },
+    {
+      "id": 20648,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Kffhealthnews.org",
+      "author": "Arthur Allen",
+      "title": "Measles Misinformation Is on the Rise \u2014 And Americans Are Hearing It, Survey Finds",
+      "description": "Attitudes about a debunked link between measles vaccines and autism haven\u2019t budged that much. But there\u2019s a sharp partisan divide over whether the vaccine is safe.",
+      "url": "https://kffhealthnews.org/news/article/measles-misinformation-mmr-vaccine-vitamin-a-rfk-kff-survey/",
+      "urlToImage": "https://kffhealthnews.org/wp-content/uploads/sites/2/2025/04/GettyImages-2209442815-resized.jpg",
+      "publishedAt": "2025-04-23 09:01:00",
+      "content": "Arthur AllenWhile the most serious measles epidemic in a decade has led to the deaths of two children and spread to 27 states with no signs of letting up, beliefs about the safety of the measles vacc\u2026 [+4540 chars]",
+      "retrievedAt": "2025-04-24 19:06:19.799289",
+      "internal_id": "b2a6278cb3b7e54a543fc866c0d63f88deced1e94ec5e0a3c0446fad200c0700",
+      "publishedAtLabel": "Apr 23"
+    },
+    {
+      "id": 20652,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Maria Godoy",
+      "title": "Like measles, misinformation is spreading, poll finds",
+      "description": "With the U.S. now reporting more than 800 measles cases, a new poll from health policy research group KFF finds that many people are being exposed to false claims about measles and the measles vaccine.",
+      "url": "https://www.npr.org/sections/shots-health-news/2025/04/23/nx-s1-5372760/measles-misinformation-poll",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2197x1236+87+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe2%2F77%2F3eee4b494bf9a0f90ce41180e1f8%2Fgettyimages-2209760517.jpg",
+      "publishedAt": "2025-04-23 09:00:00",
+      "content": "The U.S. has now reported more than 800 measles cases in 24 states. The vast majority of cases more than 600 are in Texas. In the midst of the outbreak, a new poll shows how much misinformation peopl\u2026 [+2634 chars]",
+      "retrievedAt": "2025-04-24 19:06:19.853825",
+      "internal_id": "c31dad0324b10d3d419c759663a06b1f58bd07e51f0900f15794791e35dcb894",
+      "publishedAtLabel": "Apr 23"
+    },
+    {
+      "id": 20666,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Peter Sands, Contributor, \n Peter Sands, Contributor\n https://www.forbes.com/sites/petersands/",
+      "title": "Ending Malaria Makes Everyone Healthier, Safer And More Prosperous",
+      "description": "Tackling malaria is not just about saving lives today, it\u2019s also about strengthening global health security and making the world safer for everyone.",
+      "url": "https://www.forbes.com/sites/petersands/2025/04/23/ending-malaria-makes-everyone-healthier-safer-and-more-prosperous/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6808a92ae2a25711da372f25/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-04-23 08:56:59",
+      "content": "A child waits with her mother to receive health services at the Maluku General Reference Hospital in ... More Maluku, Democratic Republic of the Congo. The country has the second highest malaria burd\u2026 [+5537 chars]",
+      "retrievedAt": "2025-04-24 19:06:21.834022",
+      "internal_id": "dab41ffdf6e9fdf06e7b5570da5779d6f9841d37f70902b025aaabeaaa703f7f",
+      "publishedAtLabel": "Apr 23"
+    },
+    {
+      "id": 20651,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "Measles Surge in Southwest Is Now the Largest Single Outbreak Since 2000 (New York Times)",
+      "description": "New York Times: Measles Surge in Southwest Is Now the Largest Single Outbreak Since 2000 \u2014 Growing case numbers suggest that national total will surpass that seen during the last large outbreak in 2019. \u2014 The spread of measles in the Southwest now constit\u2026",
+      "url": "https://www.memeorandum.com/250423/p9",
+      "urlToImage": "https://static01.nyt.com/images/2025/04/22/multimedia/22hs-measles-jkpg/22hs-measles-jkpg-facebookJumbo.jpg",
+      "publishedAt": "2025-04-23 08:50:01",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2025-04-24 19:06:19.832702",
+      "internal_id": "15a8106e4ce011074a010299b021e9ab556173b143c1dfee22d417f44e65e432",
+      "publishedAtLabel": "Apr 23"
+    },
+    {
+      "id": 20656,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "CNET",
+      "author": "Hedy Phillips",
+      "title": "What Does Measles Look Like in Adults? We Ask Doctors Who Should Get Vaccinated Again",
+      "description": "As measles cases continue to increase in the United States, this is what you should know about symptoms and your MMR vaccine status.",
+      "url": "https://www.cnet.com/health/medical/what-measles-look-like-adults-ask-doctors-who-get-vaccinated-again/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/7d1bf086f98f1a6093db16d4a03cfedc3850234d/hub/2025/03/03/cd04423f-50b4-4168-ab5d-ac469b21d68e/measles-vaccine.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-04-23 08:42:03",
+      "content": "As of April 18, the Centers for Disease Control and Prevention reports that there have been 10 outbreaks and 800 confirmed measles cases in 25 US states in 2025. Of these cases, 96% of those affected\u2026 [+11207 chars]",
+      "retrievedAt": "2025-04-24 19:06:19.939181",
+      "internal_id": "2607d56c95dbff7dd3d9127b85107d4e420da30fc5d289085db83e40f9b9ee09",
+      "publishedAtLabel": "Apr 23"
+    },
+    {
+      "id": 20675,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Francetvinfo.fr",
+      "author": null,
+      "title": "La R\u00e9union : un nourrisson meurt, victime du chikungunya",
+      "description": "Un septi\u00e8me d\u00e9c\u00e8s de la pand\u00e9mie de chikungunya a \u00e9t\u00e9 enregistr\u00e9 \u00e0 La R\u00e9union. Il s'agit d'un nourrisson. Jusqu'ici, toutes les victimes souffraient de comorbidit\u00e9s.",
+      "url": "https://www.francetvinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/la-reunion-un-nourrisson-meurt-victime-du-chikungunya_7205616.html",
+      "urlToImage": "https://www.francetvinfo.fr/pictures/njSHPJZ4j2V418ku27qEBdrmsVc/169x0:1426x707/1500x843/2025/04/23/chikungunya-6808a452c5f38686256646.jpg",
+      "publishedAt": "2025-04-23 08:29:10",
+      "content": "Le bilan s'alourdit. Le directeur de l'ARS de La R\u00e9union l'annonce au Pr\u00e9sident. Un nourrisson de moins d'un mois est d\u00e9c\u00e9d\u00e9, c'est le septi\u00e8me d\u00e9c\u00e8s d\u00fb au chikungunya sur l'\u00eele. Si les autres victim\u2026 [+682 chars]",
+      "retrievedAt": "2025-04-24 19:06:23.058511",
+      "internal_id": "98021ccd42e5a5c4dfad53e5d0e03c44aaaa8de2bddca7cf3b63c16b72a90b20",
+      "publishedAtLabel": "Apr 23"
+    },
+    {
+      "id": 20653,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Politicalwire.com",
+      "author": "Taegan Goddard",
+      "title": "Measles Surge Is Now the Largest Since 2000",
+      "description": "\u201cThe spread of measles in the Southwest now constitutes the largest single outbreak since the United States declared the disease eliminated in 2000,\u201d the New York Times reports.",
+      "url": "https://politicalwire.com/2025/04/23/measles-surge-is-now-the-largest-since-2000/",
+      "urlToImage": "https://politicalwire.com/wp-content/uploads/2018/02/PW-podcast-logo.jpg",
+      "publishedAt": "2025-04-23 08:25:14",
+      "content": "\u201cThere are a lot of blogs and news sites claiming to understand politics, but only a few actually do. Political Wire is one of them.\u201d Chuck Todd, host of \u201cMeet the Press\u201d \u201cConcise. Relevant. To th\u2026 [+594 chars]",
+      "retrievedAt": "2025-04-24 19:06:19.862546",
+      "internal_id": "0aca50560373387003a5ad0638e7a021e01a781becce878b11483ffed9c07092",
+      "publishedAtLabel": "Apr 23"
+    },
+    {
+      "id": 20673,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Francetvinfo.fr",
+      "author": null,
+      "title": "Chikungunya : Comment lutter contre la maladie ?",
+      "description": "\u00c0 La R\u00e9union, l\u2019\u00e9pid\u00e9mie de Chikungunya ne faiblit pas et touche de plus en plus de r\u00e9sidents. Un vaccin en cours de d\u00e9veloppement est distribu\u00e9 aux plus \u00e2g\u00e9s.",
+      "url": "https://www.francetvinfo.fr/sante/maladie/chikungunya/chikungunya-comment-lutter-contre-la-maladie_7205595.html",
+      "urlToImage": "https://www.francetvinfo.fr/pictures/OoBsksKjsuTKgA7eLcc_UBoF-cU/0x1:1330x750/1500x843/2025/04/23/capture-d-ecran-2025-04-23-090306-68089f8fa40af642641309.jpg",
+      "publishedAt": "2025-04-23 08:11:31",
+      "content": "Dans cette pharmacie de lest de La R\u00e9union, les malades d\u00e9filent. \u00c7a fait mal, jai mal partout, la t\u00eate qui tourne, mal au ventre, je tremble beaucoup, confie une r\u00e9sidente de Saint-Gilles les Bains.\u2026 [+1058 chars]",
+      "retrievedAt": "2025-04-24 19:06:23.024370",
+      "internal_id": "161b83ffe621d74816fb23bdb303be742688cd26203e52f797273eace96fefa4",
+      "publishedAtLabel": "Apr 23"
+    },
+    {
+      "id": 20676,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Francetvinfo.fr",
+      "author": null,
+      "title": "Chikungunya \u00e0 La R\u00e9union : \"Ce sont des formes qui durent \u00e0 peu pr\u00e8s trois semaines, mais qui peuvent se prolonger pendant des ann\u00e9es\", explique le Dr Christine Kowalczyk",
+      "description": "Le chikungunya a d\u00e9j\u00e0 fait sept morts, dont un jeune nourrisson mardi, sur l'\u00eele de La R\u00e9union. La pr\u00e9sidente de l'union r\u00e9gionale des m\u00e9decins lib\u00e9raux de l'Oc\u00e9an Indien et m\u00e9decin sur place, Christine Kowalczyk, apporte son \u00e9clairage sur la situation dans \"\u2026",
+      "url": "https://www.francetvinfo.fr/sante/maladie/chikungunya/chikungunya-a-la-reunion-ce-sont-des-formes-qui-durent-a-peu-pres-trois-semaines-mais-qui-peuvent-se-prolonger-pendant-des-annees-explique-le-dr-christine-kowalczyk_7205526.html",
+      "urlToImage": "https://www.francetvinfo.fr/pictures/nxP9uP36vUq1fyXZQHgYYgnre1k/160x0:1437x718/1500x843/2025/04/23/chikungunya-a-la-reunion-ce-sont-des-formes-qui-durent-a-peu-pres-trois-semaines-mais-qui-peuvent-se-prolonger-pendant-des-annees-explique-le-dr-christine-kowalczyk-680895537b6ef258923170.jpg",
+      "publishedAt": "2025-04-23 07:33:00",
+      "content": "L'\u00e9pid\u00e9mie de chikungunya s\u00e9vit sur l'\u00eele de La R\u00e9union, o\u00f9 sept personnes sont d\u00e9j\u00e0 d\u00e9c\u00e9d\u00e9es du virus, dont un b\u00e9b\u00e9 de moins d'un mois, emport\u00e9 mardi. Selon le Dr Christine Kowalczyk, pr\u00e9sidente de \u2026 [+1088 chars]",
+      "retrievedAt": "2025-04-24 19:06:23.078949",
+      "internal_id": "69c5708f0e2379e7b15579c5009befcea8f56a7e474625aead2c70afd7bf7984",
+      "publishedAtLabel": "Apr 23"
+    },
     {
       "id": 20644,
       "query": [
@@ -27621,150 +28179,6 @@
       "content": "Maryland health officials issued a warning on Sunday to anyone who passed through Washington Dulles International Airport or was in the Johns Hopkins Howard County Medical Center Pediatric Emergency \u2026 [+4685 chars]",
       "retrievedAt": "2025-03-11 07:06:59.844376",
       "internal_id": "8ec1966572c7adbca8ad2ea11668afed8a157aefe451902711fdf049b32d6bec",
-      "publishedAtLabel": "Mar 9"
-    },
-    {
-      "id": 19094,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Forbes",
-      "author": "Alison Durkee, Forbes Staff, \n Alison Durkee, Forbes Staff\n https://www.forbes.com/sites/alisondurkee/",
-      "title": "Travelers At DC\u2019s Dulles Airport Potentially Exposed To Measles\u2014As Maryland Announces New Case",
-      "description": "The news comes a broader outbreak in Texas and New Mexico.",
-      "url": "https://www.forbes.com/sites/alisondurkee/2025/03/09/travelers-at-dcs-dulles-airport-potentially-exposed-to-measles-as-maryland-announces-new-case/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67cddeb948436fb2f54a4619/0x0.jpg?format=jpg&crop=2277,1281,x0,y87,safe&height=900&width=1600&fit=bounds",
-      "publishedAt": "2025-03-09 18:47:53",
-      "content": "Maryland health officials announced Sunday that a resident who traveled internationally has tested positive for measles, warning that travelers at Washington Dulles Airport on March 5 may have been e\u2026 [+4824 chars]",
-      "retrievedAt": "2025-03-10 19:06:03.197554",
-      "internal_id": "99d9e8975fe965c0682982d77d82ec73d0d6995bd1efbe596ca35a1556328287",
-      "publishedAtLabel": "Mar 9"
-    },
-    {
-      "id": 19096,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Www.dn.se",
-      "author": "Anna Bratt, Jenny Alv\u00e9n",
-      "title": "Blir det sjukdom X? S\u00e5 letar forskarv\u00e4rlden efter smittan som blir n\u00e4sta pandemi",
-      "description": "Forskare letar efter nya smittor som kan starta n\u00e4sta pandemi. F\u00e5gelinfluensan H5N1 \u00e4r bara ett av flera virus som \u00e4r i fokus. I v\u00e4rsta fall blir det \u201dsjukdom X\u201d som drabbar v\u00e4rlden. \u2013 Det \u00e4r vad vi verkligen fruktar, s\u00e4ger professor Ali Mirazimi.",
-      "url": "https://www.dn.se/sverige/blir-det-sjukdom-x-sa-letar-forskarvarlden-efter-smittan-som-blir-nasta-pandemi/",
-      "urlToImage": "https://static.bonniernews.se/gcs/bilder/dn-mly/ee95333e-0aef-4c89-b8e6-2187e6f779a6.jpeg?io=1&width=1024&crop=16:9,smart",
-      "publishedAt": "2025-03-09 18:01:49",
-      "content": "Det har g\u00e5tt fem \u00e5r sedan V\u00e4rldsh\u00e4lsoorganisationen WHO deklarerade att covid-19 var en pandemi. Sedan dess har coronaviruset sars-cov-2 lett till omkring sju miljoner d\u00f6dsfall och har gett m\u00e5nga m\u00e4n\u2026 [+8167 chars]",
-      "retrievedAt": "2025-03-10 19:06:03.982790",
-      "internal_id": "e1e868922073235e3fd286694440e048a86cd085b011dc786ef0efeed288f239",
-      "publishedAtLabel": "Mar 9"
-    },
-    {
-      "id": 19097,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Aajtak.in",
-      "author": "\u0905\u092e\u0928 \u092d\u093e\u0930\u0926\u094d\u0935\u093e\u091c",
-      "title": "\u0915\u0947\u0902\u0926\u094d\u0930 \u0928\u0947 \u092c\u0930\u094d\u0921 \u092b\u094d\u0932\u0942 \u0915\u094b \u0932\u0947\u0915\u0930 9 \u0930\u093e\u091c\u094d\u092f\u094b\u0902 \u0915\u094b \u091c\u093e\u0930\u0940 \u0915\u093f\u092f\u093e \u0905\u0932\u0930\u094d\u091f, \u091c\u093e\u0928\u0947\u0902 H5N1 \u0935\u093e\u092f\u0930\u0938 \u0915\u0947 \u0932\u0915\u094d\u0937\u0923 \u0914\u0930 \u092c\u091a\u093e\u0935 \u0915\u0947 \u0909\u092a\u093e\u092f",
-      "description": "\u0930\u093e\u091c\u094d\u092f\u094b\u0902 \u0938\u0947 \u090f\u0935\u093f\u092f\u0928 \u0907\u0928\u094d\u092b\u094d\u0932\u0942\u090f\u0902\u091c\u093e \u0938\u0947 \u0928\u093f\u092a\u091f\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0928\u0947\u0936\u0928\u0932 \u090f\u0915\u094d\u0936\u0928 \u092a\u094d\u0932\u093e\u0928 \u0915\u093e \u0938\u0916\u094d\u0924\u0940 \u0938\u0947 \u092a\u093e\u0932\u0928 \u0915\u0930\u0928\u0947, \u0915\u094d\u0935\u093f\u0915 \u0930\u093f\u0938\u094d\u092a\u0949\u0928\u094d\u0938 \u091f\u0940\u092e\u094b\u0902 \u0915\u094b \u0938\u0915\u094d\u0930\u093f\u092f \u0915\u0930\u0928\u0947 \u0914\u0930 \u0935\u0947\u091f\u0930\u0928\u0930\u0940 \u0914\u0930 \u0932\u0948\u092c\u094d\u0938 \u0915\u0940 \u0938\u0902\u0916\u094d\u092f\u093e \u092c\u0922\u093c\u093e\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0915\u0939\u093e \u0917\u092f\u093e \u0939\u0948. \u0915\u0947\u0902\u0926\u094d\u0930 \u0928\u0947 \u0915\u0939\u093e \u0939\u0948 \u0915\u093f \u0907\u0928 \u0909\u092a\u093e\u092f\u094b\u0902 \u092a\u0930 \u0924\u0924\u094d\u0915\u093e\u0932 \u0927\u094d\u092f\u093e\u0928 \u0926\u0947\u0928\u0947 \u0938\u0947 \u090f\u0935\u093f\u092f\u0928 \u0907\u0928\u094d\u092b\u094d\u0932\u0942\u090f\u0902\u091c\u093e \u0915\u0947 \u092a\u094d\u0930\u0938\u2026",
-      "url": "https://www.aajtak.in/india/news/story/center-issued-alert-to-9-states-regarding-bird-flu-know-the-symptoms-and-prevention-measures-from-h5n1-virus-ntc-rpti-2185989-2025-03-09",
-      "urlToImage": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202503/67cdb7aa4880d-bird-flu-094541884-16x9.png",
-      "publishedAt": "2025-03-09 16:00:21",
-      "content": ", (H5N1) 9 . (H5N1) . . , ' 2025 9 (H5N1) , . . , .' : , . , . , . . : , H5N1 , - , - . , , , , , , , , , , . , , . . , . . : , . . . . .",
-      "retrievedAt": "2025-03-10 19:06:03.996825",
-      "internal_id": "a24da079e3dc072fad8979033fc31753dba1b8703ac55d7d2fac5b731bc14b25",
-      "publishedAtLabel": "Mar 9"
-    },
-    {
-      "id": 19098,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "New Atlas",
-      "author": "Paul McClure",
-      "title": "Cancer drug realized after researcher's chance exposure to malaria drug",
-      "description": "When experienced researcher Renato Aguilera happened across the chemical structure of a tried-and-true antimalarial drug one day, he thought it might effectively fight cancer. He was right, and he has the research, the patent, and the pharma company to prove \u2026",
-      "url": "https://newatlas.com/cancer/pyronaridine-cancer-treatment/",
-      "urlToImage": "https://assets.newatlas.com/dims4/default/827968a/2147483647/strip/true/crop/2000x1050+0+38/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Ff0%2F36%2Fc9685a8f4e1b9c211fa8163e49fc%2F022425-renato-aguilera-cancer-lm13-medium.jpg&na.image_optimisation=0",
-      "publishedAt": "2025-03-09 15:03:00",
-      "content": "When experienced researcher Renato Aguilera happened across the chemical structure of a tried-and-true antimalarial drug one day, he thought it might effectively fight cancer. He was right, and he ha\u2026 [+3481 chars]",
-      "retrievedAt": "2025-03-10 19:06:04.736659",
-      "internal_id": "725b7a41bc90d9f9d5de5caf588e113a167d924f92646fc1942e02de44927607",
-      "publishedAtLabel": "Mar 9"
-    },
-    {
-      "id": 19095,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "ansa",
-      "source_name": "ANSA.it",
-      "author": null,
-      "title": "Esperti su Science, prepararsi in tempo a una pandemia di aviaria",
-      "description": "Con i vaccini e una buona informazione (ANSA)",
-      "url": "https://www.ansa.it/canale_scienza/notizie/biotech/2025/03/08/esperti-su-science-prepararsi-in-tempo-a-una-pandemia-di-aviaria_3d46145a-8dba-4e32-98b7-d5ffe4b3cc9a.html",
-      "urlToImage": "https://www.ansa.it/webimages/img_1129x635/2025/3/8/78398e626774b33ea8e1b5bc652e1688.jpg",
-      "publishedAt": "2025-03-09 08:31:03",
-      "content": "Una lettera pubblicata sulla rivista Science esorta governi, mondo dellindustria e comunit\u00e0 scientifica a prepararsi a una possibile pandemia di influenza aviaria provocata dal virus H5N1. Prepararci\u2026 [+3698 chars]",
-      "retrievedAt": "2025-03-10 19:06:03.962453",
-      "internal_id": "8326eacf252d81590f1e789ad9e53972f066d1485b3bcbd240ffaee47f0d4782",
-      "publishedAtLabel": "Mar 9"
-    },
-    {
-      "id": 19099,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "cbc-news",
-      "source_name": "CBC News",
-      "author": null,
-      "title": "Former USAID head warns disease outbreaks could grow after cuts to agency",
-      "description": "The former administrator of the U.S. Agency for International Development says major funding cuts to the agency could lead to more cases of diseases like paralytic polio and malaria.",
-      "url": "https://www.cbc.ca/news/politics/former-usaid-administrator-samantha-power-1.7477750",
-      "urlToImage": "https://i.cbc.ca/1.7478098.1741378491!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_1180/cambodia-usaid.jpg?im=Resize%3D620",
-      "publishedAt": "2025-03-09 08:00:00",
-      "content": "The former administrator of the U.S. Agency for International Development (USAID) says major funding cuts to the agency could lead to more cases of diseases like paralytic polio and malaria. In an \u2026 [+3031 chars]",
-      "retrievedAt": "2025-03-10 19:06:04.744618",
-      "internal_id": "60bb2a4aa94f6bed3814ac8edb9240b71c3e8ccfeb8c55226154ce89f8a7e3dc",
-      "publishedAtLabel": "Mar 9"
-    },
-    {
-      "id": 19100,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "svenska-dagbladet",
-      "source_name": "Svenska Dagbladet",
-      "author": "TT TT-AP",
-      "title": "100 000 kan d\u00f6 i malaria n\u00e4r USA stryper bist\u00e5nd",
-      "description": "Ingen sjukdom i Afrika \u00e4r d\u00f6dligare \u00e4n malaria \u2013 s\u00e4rskilt f\u00f6r barn. Men Donald Trumps nedsk\u00e4rningar i USA:s bist\u00e5nd f\u00f6rsvagar kampen mot infektionen, varnar experter. Tusentals kan d\u00f6.",
-      "url": "https://www.svd.se/a/1MzgVB/100000-kan-do-i-malaria-nar-usa-stryper-bistand",
-      "urlToImage": "https://svd.vgc.no/v2/images/5aa8e113-c5ee-44d5-8961-69ab807db191?h=630&q=80&upscale=true&w=1200&s=f17195712baf0fdde4cef363e8f6e553c600bc62",
-      "publishedAt": "2025-03-09 07:47:51",
-      "content": "Fler \u00e4n tusen barn under fem \u00e5rs \u00e5lder n\u00e4stan ett varje minut d\u00f6r enligt Unicef dagligen av malaria. M\u00e5nga av d\u00f6dsfallen hade enligt FN-organet kunnat undvikas med f\u00f6rebyggande insatser och r\u00e4tt beha\u2026 [+267 chars]",
-      "retrievedAt": "2025-03-10 19:06:04.758983",
-      "internal_id": "28a95284b4932d2f8b830ab4fe35133f8025df6bb0d7db6d5d36c0116a28852a",
-      "publishedAtLabel": "Mar 9"
-    },
-    {
-      "id": 19101,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Aftonbladet.se",
-      "author": "TT",
-      "title": "100 000 kan d\u00f6 i malaria n\u00e4r USA stryper bist\u00e5nd",
-      "description": "Ingen sjukdom i Afrika \u00e4r d\u00f6dligare \u00e4n malaria \u2013 s\u00e4rskilt f\u00f6r barn. Men Donald Trumps nedsk\u00e4rningar i USA:s bist\u00e5nd f\u00f6rsvagar kampen mot infektionen, varnar exp",
-      "url": "https://www.aftonbladet.se/nyheter/a/vgpvwm/100000-kan-do-i-malaria-nar-usa-stryper-bistand",
-      "urlToImage": "https://images.aftonbladet-cdn.se/v2/images/6585662c-7906-4caa-b155-705b962ba439?fit=crop&format=auto&h=1268&q=50&w=1900&s=83c746aa799a51f9446fc97d743f2b6ef743fbdb",
-      "publishedAt": "2025-03-09 07:47:50",
-      "content": "Ingen sjukdom i Afrika \u00e4r d\u00f6dligare \u00e4n malaria s\u00e4rskilt f\u00f6r barn. Men Donald Trumps nedsk\u00e4rningar i USA:s bist\u00e5nd f\u00f6rsvagar kampen mot infektionen, varnar experter. Tusentals kan d\u00f6. Fler \u00e4n tusen \u2026 [+2341 chars]",
-      "retrievedAt": "2025-03-10 19:06:04.780164",
-      "internal_id": "e48f203f939ab33c80adc61d96bad91de208ccde1f7a4ca3d3ec7b55700f0dd3",
       "publishedAtLabel": "Mar 9"
     }
   ]

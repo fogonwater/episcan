@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 15
-- **Last harvest:** 2025-04-24 07:07
-- **Most recent article:** 2025-04-23 04:40:12
+- **New articles in last harvest:** 31
+- **Last harvest:** 2025-04-24 19:06
+- **Most recent article:** 2025-04-23 19:02:02
 
 ---
 
@@ -12,13 +12,13 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-11 | 25-12 | 25-13 | 25-14 | 25-15 | 25-16 | 25-17 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 132 | 108 | 101 | 77 | 145 | 82 | 37 | 682 |
-| h5n1 | 38 | 57 | 47 | 46 | 66 | 9 | 3 | 266 |
-| dengue | 12 | 18 | 20 | 14 | 24 | 30 | 7 | 125 |
-| chikungunya | 1 | 17 | 10 | 17 | 15 | 39 | 24 | 123 |
-| malaria | 21 | 18 | 30 | 13 | 10 | 14 | 4 | 110 |
+| measles | 131 | 108 | 101 | 77 | 145 | 82 | 50 | 694 |
+| h5n1 | 35 | 57 | 47 | 46 | 66 | 9 | 6 | 266 |
+| chikungunya | 1 | 17 | 10 | 17 | 15 | 39 | 34 | 133 |
+| dengue | 12 | 18 | 20 | 14 | 24 | 30 | 8 | 126 |
+| malaria | 17 | 18 | 30 | 13 | 10 | 14 | 6 | 108 |
 | mpox | 14 | 8 | 12 | 17 | 18 | 10 | 0 | 79 |
-| meningitis | 9 | 7 | 10 | 6 | 10 | 9 | 4 | 55 |
+| meningitis | 9 | 7 | 10 | 6 | 10 | 9 | 6 | 57 |
 | rabies | 7 | 3 | 19 | 7 | 7 | 0 | 0 | 43 |
 | hpai | 3 | 12 | 2 | 4 | 3 | 5 | 0 | 29 |
 | zika | 0 | 2 | 3 | 4 | 7 | 7 | 0 | 23 |
@@ -46,6 +46,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-17 (meningitis)
 
+- [“Bionic Girl” Debuts New Wireless Hands That Even Work When Detached From the Main Prosthetic](https://mymodernmet.com/tilley-lockey-open-bionics-hero-pro/) (My Modern Met)
+
+- [Largely eradicated diseases at risk of returning due to budget cuts](https://news.un.org/en/story/2025/04/1162546) (UN News)
+
 - [丹麥研究：嬰兒期若嚴重細菌感染，日後精神疾病風險大增](https://technews.tw/2025/04/23/group-b-streptococcus-infections-raise-mental-disorder-risk/) (Technews.tw)
 
 - [Child deaths raise alarms over meningitis as experts urge vaccination](https://www.hurriyetdailynews.com/child-deaths-raise-alarms-over-meningitis-as-experts-urge-vaccination-208290) (Hurriyet Daily News)
@@ -55,6 +59,32 @@ Source: [News API](https://newsapi.org/)
 - [Cegah Meningitis, 500 Petugas Haji Jalani Vaksinasi Gratis](https://www.liputan6.com/health/read/5999635/cegah-meningitis-500-petugas-haji-jalani-vaksinasi-gratis) (Liputan6.com)
 
 ## 25-17 (measles)
+
+- [InnovationRx: Measles Continues To Spread—And Misinformation Is Making It Worse](https://www.forbes.com/sites/innovationrx/2025/04/23/innovationrx-measles-continues-to-spread-and-misinformation-is-making-it-worse/) (Forbes)
+
+- [Trump cuts threaten free vaccine program for kids amid measles outbreak (Reuters)](https://www.memeorandum.com/250423/p73) (Memeorandum.com)
+
+- [Denver confirms second measles case in quarantined person](https://www.denverpost.com/2025/04/23/denver-measles-case-colorado/) (The Denver Post)
+
+- [A Shocking Number of Americans Are Still Clueless About Measles, Polling Suggests](https://gizmodo.com/a-shocking-number-of-americans-are-still-clueless-about-measles-polling-suggests-2000593282) (Gizmodo.com)
+
+- [Medical misinformation rises as U.S. faces measles outbreak](https://www.techtarget.com/patientengagement/news/366623038/Medical-misinformation-rises-as-US-faces-measles-outbreak) (Techtarget.com)
+
+- [Culling The Botched And The Bungled](https://www.eschatonblog.com/2025/04/culling-botched-and-bungled.html) (Eschatonblog.com)
+
+- [Trump cuts threaten free vaccine program for kids amid measles outbreak](https://economictimes.indiatimes.com/news/international/global-trends/trump-cuts-threaten-free-vaccine-program-for-kids-amid-measles-outbreak/articleshow/120552027.cms) (The Times of India)
+
+- [Like measles, misinformation is spreading, poll finds](https://www.npr.org/2025/04/23/nx-s1-5372760/like-measles-misinformation-is-spreading-poll-finds) (NPR)
+
+- [Measles Misinformation Is on the Rise — And Americans Are Hearing It, Survey Finds](https://kffhealthnews.org/news/article/measles-misinformation-mmr-vaccine-vitamin-a-rfk-kff-survey/) (Kffhealthnews.org)
+
+- [Like measles, misinformation is spreading, poll finds](https://www.npr.org/sections/shots-health-news/2025/04/23/nx-s1-5372760/measles-misinformation-poll) (NPR)
+
+- [Measles Surge in Southwest Is Now the Largest Single Outbreak Since 2000 (New York Times)](https://www.memeorandum.com/250423/p9) (Memeorandum.com)
+
+- [What Does Measles Look Like in Adults? We Ask Doctors Who Should Get Vaccinated Again](https://www.cnet.com/health/medical/what-measles-look-like-adults-ask-doctors-who-get-vaccinated-again/) (CNET)
+
+- [Measles Surge Is Now the Largest Since 2000](https://politicalwire.com/2025/04/23/measles-surge-is-now-the-largest-since-2000/) (Politicalwire.com)
 
 - [Measles case confirmed in Atascosa County, others potentially exposed, county says](https://www.ksat.com/news/local/2025/04/23/measles-case-confirmed-in-atascosa-county-others-potentially-exposed-county-says/) (KSAT San Antonio)
 
@@ -132,6 +162,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-17 (malaria)
 
+- [New species of mosquito identified on the coast of East Africa](https://phys.org/news/2025-04-species-mosquito-coast-east-africa.html) (Phys.Org)
+
+- [Ending Malaria Makes Everyone Healthier, Safer And More Prosperous](https://www.forbes.com/sites/petersands/2025/04/23/ending-malaria-makes-everyone-healthier-safer-and-more-prosperous/) (Forbes)
+
 - [A new weapon in the global fight against malaria](https://financialpost.com/pmn/business-wire-news-releases-pmn/a-new-weapon-in-the-global-fight-against-malaria) (Financial Post)
 
 - [Immune system proteins involved in severe parasitic disease identified](https://www.sciencedaily.com/releases/2025/04/250421162815.htm) (Science Daily)
@@ -142,6 +176,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-17 (h5n1)
 
+- [Вьетнам сообщил о случае высокопатогенного птичьего гриппа с энцефалитом](https://nplus1.ru/news/2025/04/23/vietnam-encephaloflu) (Nplus1.ru)
+
+- [Vietnam Reports Human Bird Flu Case In 8 Year Old Girl](https://www.shtfplan.com/headline-news/vietnam-reports-human-bird-flu-case-in-8-year-old-girl) (Shtfplan.com)
+
+- [Újabb vármegyében jelent meg a madárinfluenza](https://www.origo.hu/gazdasag/2025/04/varmegye-nebih-madarinfluenza) (Origo.hu)
+
 - [As bird flu hits cattle herds in U.S., scientists say these H5N1 factors worry them most (Bill Whitaker/CBS News)](https://www.memeorandum.com/250420/p58) (Memeorandum.com)
 
 - [As bird flu hits cattle herds in U.S., scientists say these H5N1 factors worry them most](https://www.cbsnews.com/news/bird-flu-pandemic-potential-scientists-60-minutes/) (CBS News)
@@ -149,6 +189,8 @@ Source: [News API](https://newsapi.org/)
 - [TWiV 1211: Moo flu and dengue two](https://www.microbe.tv/twiv/twiv-1211/) (Microbe.tv)
 
 ## 25-17 (dengue)
+
+- [Dengue: cuáles son las provincias con condiciones más favorables para la aparición de brotes](https://www.lanacion.com.ar/sociedad/dengue-cuales-son-las-provincias-con-condiciones-mas-favorables-para-la-aparicion-de-brotes-nid23042025/) (La Nacion)
 
 - [Mosquitos podem tomar decisões coletivas, segundo estudo brasileiro](https://olhardigital.com.br/2025/04/22/ciencia-e-espaco/mosquitos-podem-tomar-decisoes-coletivas-segundo-estudo-brasileiro/) (Olhardigital.com.br)
 
@@ -165,6 +207,26 @@ Source: [News API](https://newsapi.org/)
 - [TWiV 1211: Moo flu and dengue two](https://www.microbe.tv/twiv/twiv-1211/) (Microbe.tv)
 
 ## 25-17 (chikungunya)
+
+- [À La Réunion, le bilan de l’épidémie de chikungunya s’alourdit encore avec ces trois nouveaux décès](https://www.huffingtonpost.fr/france/article/a-la-reunion-le-bilan-de-l-epidemie-de-chikungunya-s-alourdit-encore-avec-ces-trois-nouveaux-deces_249144.html) (Le HuffPost)
+
+- [A la Réunion, trois nouvelles personnes décèdent du chikungunya, le bilan provisoire passe à neuf morts](https://www.liberation.fr/societe/sante/a-la-reunion-trois-nouvelles-personnes-decedent-du-chikungunya-le-bilan-provisoire-passe-a-neuf-morts-20250423_RV4MGA6OT5HLJEWOQG5CFNYSUU/) (Libération)
+
+- [Trois nouveaux décès « liés au chikungunya » à La Réunion, le bilan provisoire passe à neuf morts](https://www.nouvelobs.com/societe/20250423.OBS103115/trois-nouveaux-deces-lies-au-chikungunya-a-la-reunion-le-bilan-provisoire-passe-a-neuf-morts.html) (L'Obs)
+
+- [Chikungunya à La Réunion : le bilan provisoire passe à neuf morts, l’épidémie reste à un haut niveau de transmission](https://www.lemonde.fr/sante/article/2025/04/23/chikungunya-a-la-reunion-le-bilan-provisoire-passe-a-neuf-morts-l-epidemie-reste-a-un-haut-niveau-de-transmission_6599293_1651302.html) (Le Monde)
+
+- [La Réunion : Trois nouveaux décès « liés au chikungunya », le bilan provisoire passe à neuf morts](https://www.20minutes.fr/sante/4149973-20250423-reunion-trois-nouveaux-deces-lies-chikungunya-bilan-provisoire-passe-neuf-morts) (20 Minutes)
+
+- [L'épidémie de chikungunya à La Réunion a fait trois nouveaux morts, le bilan provisoire passe à neuf victimes](https://www.francetvinfo.fr/sante/maladie/chikungunya/l-epidemie-de-chikungunya-a-la-reunion-a-fait-trois-nouveaux-morts-le-bilan-provisoire-passe-a-neuf-victimes_7205844.html) (Francetvinfo.fr)
+
+- [La Réunion. Chikungunya : trois nouveaux décès portent le bilan à neuf morts depuis le début de l'épidémie](https://www.ledauphine.com/sante/2025/04/23/chikungunya-trois-nouveaux-deces-portent-le-bilan-a-neuf-morts-depuis-le-debut-de-l-epidemie) (Le Dauphiné Libéré)
+
+- [La Réunion : un nourrisson meurt, victime du chikungunya](https://www.francetvinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/la-reunion-un-nourrisson-meurt-victime-du-chikungunya_7205616.html) (Francetvinfo.fr)
+
+- [Chikungunya : Comment lutter contre la maladie ?](https://www.francetvinfo.fr/sante/maladie/chikungunya/chikungunya-comment-lutter-contre-la-maladie_7205595.html) (Francetvinfo.fr)
+
+- [Chikungunya à La Réunion : "Ce sont des formes qui durent à peu près trois semaines, mais qui peuvent se prolonger pendant des années", explique le Dr Christine Kowalczyk](https://www.francetvinfo.fr/sante/maladie/chikungunya/chikungunya-a-la-reunion-ce-sont-des-formes-qui-durent-a-peu-pres-trois-semaines-mais-qui-peuvent-se-prolonger-pendant-des-annees-explique-le-dr-christine-kowalczyk_7205526.html) (Francetvinfo.fr)
 
 - [A La Réunion, Emmanuel Macron affronte le retour du virus chikungunya et la crise agricole](https://www.lemonde.fr/politique/article/2025/04/23/a-la-reunion-emmanuel-macron-affronte-le-retour-du-virus-chikungunya-et-la-crise-agricole_6599175_823448.html) (Le Monde)
 
@@ -3200,8 +3262,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles Exposure Warning Issued for Washington Dulles Airport: What to Know](https://www.newsweek.com/measles-exposure-warning-issued-washington-dulles-airport-2041910) (Newsweek)
 
-- [Travelers At DC’s Dulles Airport Potentially Exposed To Measles—As Maryland Announces New Case](https://www.forbes.com/sites/alisondurkee/2025/03/09/travelers-at-dcs-dulles-airport-potentially-exposed-to-measles-as-maryland-announces-new-case/) (Forbes)
-
 ## 25-11 (malaria)
 
 - [Health Ministry dismisses claims of critical shortages of malaria drugs](https://nbcnews.na/node/109907) (Nbcnews.na)
@@ -3237,14 +3297,6 @@ Source: [News API](https://newsapi.org/)
 - [Microbiota de pingüinos, esperanza inmunológica contra la malaria o la leishmaniasis](https://www.montevideo.com.uy/Salud/Microbiota-de-pinguinos-esperanza-inmunologica-contra-la-malaria-o-la-leishmaniasis-uc917240) (Montevideo.com.uy)
 
 - [Revolucionario enfoque genético contra la malaria: un parásito modificado podría ser la clave para una vacuna efectiva](http://www.muyinteresante.com/salud/enfoque-genetico-contra-la-malaria.html) (Muyinteresante.com)
-
-- [Cancer drug realized after researcher's chance exposure to malaria drug](https://newatlas.com/cancer/pyronaridine-cancer-treatment/) (New Atlas)
-
-- [Former USAID head warns disease outbreaks could grow after cuts to agency](https://www.cbc.ca/news/politics/former-usaid-administrator-samantha-power-1.7477750) (CBC News)
-
-- [100 000 kan dö i malaria när USA stryper bistånd](https://www.svd.se/a/1MzgVB/100000-kan-do-i-malaria-nar-usa-stryper-bistand) (Svenska Dagbladet)
-
-- [100 000 kan dö i malaria när USA stryper bistånd](https://www.aftonbladet.se/nyheter/a/vgpvwm/100000-kan-do-i-malaria-nar-usa-stryper-bistand) (Aftonbladet.se)
 
 ## 25-11 (hpai)
 
@@ -3325,12 +3377,6 @@ Source: [News API](https://newsapi.org/)
 - [Notre système immunitaire est-il déjà immunisé contre la grippe aviaire ?](https://dailygeekshow.com/grippe-aviaire-immunite/) (Daily Geek Show)
 
 - [RFK Jr. and Federal Health Agencies Wisely Oppose Mass H5N1 Animal Vaccination Over Mutation Concerns](https://www.globalresearch.ca/rfk-jr-federal-health-agencies-oppose-mass-h5n1-animal-vaccination/5881691) (Globalresearch.ca)
-
-- [Blir det sjukdom X? Så letar forskarvärlden efter smittan som blir nästa pandemi](https://www.dn.se/sverige/blir-det-sjukdom-x-sa-letar-forskarvarlden-efter-smittan-som-blir-nasta-pandemi/) (Www.dn.se)
-
-- [केंद्र ने बर्ड फ्लू को लेकर 9 राज्यों को जारी किया अलर्ट, जानें H5N1 वायरस के लक्षण और बचाव के उपाय](https://www.aajtak.in/india/news/story/center-issued-alert-to-9-states-regarding-bird-flu-know-the-symptoms-and-prevention-measures-from-h5n1-virus-ntc-rpti-2185989-2025-03-09) (Aajtak.in)
-
-- [Esperti su Science, prepararsi in tempo a una pandemia di aviaria](https://www.ansa.it/canale_scienza/notizie/biotech/2025/03/08/esperti-su-science-prepararsi-in-tempo-a-una-pandemia-di-aviaria_3d46145a-8dba-4e32-98b7-d5ffe4b3cc9a.html) (ANSA.it)
 
 ## 25-11 (dengue)
 
