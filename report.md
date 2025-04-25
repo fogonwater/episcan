@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 31
-- **Last harvest:** 2025-04-24 19:06
-- **Most recent article:** 2025-04-23 19:02:02
+- **New articles in last harvest:** 14
+- **Last harvest:** 2025-04-25 07:07
+- **Most recent article:** 2025-04-24 06:16:20
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-11 | 25-12 | 25-13 | 25-14 | 25-15 | 25-16 | 25-17 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 131 | 108 | 101 | 77 | 145 | 82 | 50 | 694 |
-| h5n1 | 35 | 57 | 47 | 46 | 66 | 9 | 6 | 266 |
-| chikungunya | 1 | 17 | 10 | 17 | 15 | 39 | 34 | 133 |
-| dengue | 12 | 18 | 20 | 14 | 24 | 30 | 8 | 126 |
-| malaria | 17 | 18 | 30 | 13 | 10 | 14 | 6 | 108 |
+| measles | 132 | 108 | 101 | 77 | 145 | 82 | 59 | 704 |
+| h5n1 | 38 | 57 | 47 | 46 | 66 | 9 | 7 | 270 |
+| chikungunya | 1 | 17 | 10 | 17 | 15 | 39 | 35 | 134 |
+| dengue | 12 | 18 | 20 | 14 | 24 | 30 | 9 | 127 |
+| malaria | 21 | 18 | 30 | 13 | 10 | 14 | 6 | 112 |
 | mpox | 14 | 8 | 12 | 17 | 18 | 10 | 0 | 79 |
-| meningitis | 9 | 7 | 10 | 6 | 10 | 9 | 6 | 57 |
+| meningitis | 9 | 7 | 10 | 6 | 10 | 9 | 8 | 59 |
 | rabies | 7 | 3 | 19 | 7 | 7 | 0 | 0 | 43 |
 | hpai | 3 | 12 | 2 | 4 | 3 | 5 | 0 | 29 |
 | zika | 0 | 2 | 3 | 4 | 7 | 7 | 0 | 23 |
-| pertussis | 5 | 1 | 0 | 7 | 2 | 5 | 1 | 21 |
+| pertussis | 5 | 1 | 0 | 7 | 2 | 5 | 2 | 22 |
 | typhoid | 8 | 0 | 1 | 2 | 2 | 3 | 3 | 19 |
 | yersinia | 2 | 2 | 3 | 0 | 0 | 0 | 0 | 7 |
 | leptospirosis | 0 | 1 | 0 | 0 | 0 | 1 | 0 | 2 |
@@ -42,9 +42,15 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-17 (pertussis)
 
+- [Whooping cough detected in student at Leesville Road High School, WCPSS says](https://www.wral.com/lifestyle/health/whooping-cough-leesville-road-high-school-april-2025/) (WRAL.com)
+
 - [Minnesota health officials looking to reverse a decline in childhood immunizations](https://www.kimt.com/news/health/minnesota-health-officials-looking-to-reverse-a-decline-in-childhood-immunizations/article_2530e4ec-2ca5-43a3-8c4d-7c5252354f06.html) (KIMT 3)
 
 ## 25-17 (meningitis)
+
+- [UN warns of rise in vaccine-preventable diseases](https://www.dw.com/en/un-warns-of-rise-in-vaccine-preventable-diseases/a-72328262) (DW (English))
+
+- [ONU alerta aumento de enfermedades prevenibles por baja vacunación](https://www.excelsior.com.mx/global/enfermedades-prevenibles-baja-vacunacion-onu/1712299) (Excelsior.com.mx)
 
 - [“Bionic Girl” Debuts New Wireless Hands That Even Work When Detached From the Main Prosthetic](https://mymodernmet.com/tilley-lockey-open-bionics-hero-pro/) (My Modern Met)
 
@@ -60,11 +66,27 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-17 (measles)
 
+- [Measles misinformation spreads as cases rise across U.S.](http://en.people.cn/n3/2025/0424/c90000-20306782.html) (People.cn)
+
+- [UN warns of rise in vaccine-preventable diseases](https://www.dw.com/en/un-warns-of-rise-in-vaccine-preventable-diseases/a-72328262) (DW (English))
+
+- [2 new measles cases confirmed in southern Manitoba](https://www.cbc.ca/news/canada/manitoba/measles-cases-steinbach-school-1.7517092) (CBC News)
+
+- [First measles case in state is confirmed in southern Illinois](https://www.stltoday.com/news/local/business/health-care/article_e83f7543-dbdb-489a-bfbd-a5b3a73973b0.html) (STLtoday.com)
+
+- [Illinois Dept. of Public Health reporting first measles case of 2025 in Illinois](https://newschannel20.com/news/local/illinois-dept-of-public-health-reporting-first-measles-case-of-2025-in-illinois) (newschannel20.com)
+
+- [Measles cases spike to largest number in years](https://www.wsbtv.com/news/local/measles-cases-spike-largest-number-years/EKHFAN47ZZHG7NESNPM2HR52SQ/) (WSB Atlanta)
+
 - [InnovationRx: Measles Continues To Spread—And Misinformation Is Making It Worse](https://www.forbes.com/sites/innovationrx/2025/04/23/innovationrx-measles-continues-to-spread-and-misinformation-is-making-it-worse/) (Forbes)
+
+- [Collin County student tests positive for measles, first child case reported in D-FW](https://www.dallasnews.com/news/public-health/2025/04/23/collin-county-student-tests-positive-for-measles-first-child-case-reported-in-d-fw/) (The Dallas Morning News)
 
 - [Trump cuts threaten free vaccine program for kids amid measles outbreak (Reuters)](https://www.memeorandum.com/250423/p73) (Memeorandum.com)
 
 - [Denver confirms second measles case in quarantined person](https://www.denverpost.com/2025/04/23/denver-measles-case-colorado/) (The Denver Post)
+
+- [Collin County confirms one middle school student has measles](https://www.fox4news.com/news/collin-county-confirms-one-middle-school-student-has-measles) (FOX 4 News)
 
 - [A Shocking Number of Americans Are Still Clueless About Measles, Polling Suggests](https://gizmodo.com/a-shocking-number-of-americans-are-still-clueless-about-measles-polling-suggests-2000593282) (Gizmodo.com)
 
@@ -73,6 +95,8 @@ Source: [News API](https://newsapi.org/)
 - [Culling The Botched And The Bungled](https://www.eschatonblog.com/2025/04/culling-botched-and-bungled.html) (Eschatonblog.com)
 
 - [Trump cuts threaten free vaccine program for kids amid measles outbreak](https://economictimes.indiatimes.com/news/international/global-trends/trump-cuts-threaten-free-vaccine-program-for-kids-amid-measles-outbreak/articleshow/120552027.cms) (The Times of India)
+
+- [KFF Tracking Poll on Health Information and Trust: The Public’s Views on Measles Outbreaks and Misinformation | KFF](https://www.kff.org/health-information-and-trust/poll-finding/kff-tracking-poll-on-health-information-and-trust-the-publics-views-on-measles-outbreaks-and-misinformation/) (Kaiser Family Foundation)
 
 - [Like measles, misinformation is spreading, poll finds](https://www.npr.org/2025/04/23/nx-s1-5372760/like-measles-misinformation-is-spreading-poll-finds) (NPR)
 
@@ -176,6 +200,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-17 (h5n1)
 
+- [[뉴페@스프] 바이러스에는 국경이 없는데…끝나지 않은 팬데믹의 경고](https://newspeppermint.com/2025/04/23/npsps_pandemic/) (Newspeppermint.com)
+
 - [Вьетнам сообщил о случае высокопатогенного птичьего гриппа с энцефалитом](https://nplus1.ru/news/2025/04/23/vietnam-encephaloflu) (Nplus1.ru)
 
 - [Vietnam Reports Human Bird Flu Case In 8 Year Old Girl](https://www.shtfplan.com/headline-news/vietnam-reports-human-bird-flu-case-in-8-year-old-girl) (Shtfplan.com)
@@ -189,6 +215,8 @@ Source: [News API](https://newsapi.org/)
 - [TWiV 1211: Moo flu and dengue two](https://www.microbe.tv/twiv/twiv-1211/) (Microbe.tv)
 
 ## 25-17 (dengue)
+
+- [Bacolod: PHO reports continued rise of dengue in 31 LGUs](https://rpnradio.com/bacolod-pho-reports-continued-rise-of-dengue-in-31-lgus/) (Rpnradio.com)
 
 - [Dengue: cuáles son las provincias con condiciones más favorables para la aparición de brotes](https://www.lanacion.com.ar/sociedad/dengue-cuales-son-las-provincias-con-condiciones-mas-favorables-para-la-aparicion-de-brotes-nid23042025/) (La Nacion)
 
@@ -207,6 +235,8 @@ Source: [News API](https://newsapi.org/)
 - [TWiV 1211: Moo flu and dengue two](https://www.microbe.tv/twiv/twiv-1211/) (Microbe.tv)
 
 ## 25-17 (chikungunya)
+
+- [Épidemie du chikungunya : une situation toujours préoccupante à la Réunion](https://www.francetvinfo.fr/sante/maladie/chikungunya/epidemie-du-chikungunya-une-situation-toujours-preoccupante-a-la-reunion_7206864.html) (Francetvinfo.fr)
 
 - [À La Réunion, le bilan de l’épidémie de chikungunya s’alourdit encore avec ces trois nouveaux décès](https://www.huffingtonpost.fr/france/article/a-la-reunion-le-bilan-de-l-epidemie-de-chikungunya-s-alourdit-encore-avec-ces-trois-nouveaux-deces_249144.html) (Le HuffPost)
 
@@ -3262,6 +3292,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles Exposure Warning Issued for Washington Dulles Airport: What to Know](https://www.newsweek.com/measles-exposure-warning-issued-washington-dulles-airport-2041910) (Newsweek)
 
+- [Travelers At DC’s Dulles Airport Potentially Exposed To Measles—As Maryland Announces New Case](https://www.forbes.com/sites/alisondurkee/2025/03/09/travelers-at-dcs-dulles-airport-potentially-exposed-to-measles-as-maryland-announces-new-case/) (Forbes)
+
 ## 25-11 (malaria)
 
 - [Health Ministry dismisses claims of critical shortages of malaria drugs](https://nbcnews.na/node/109907) (Nbcnews.na)
@@ -3297,6 +3329,14 @@ Source: [News API](https://newsapi.org/)
 - [Microbiota de pingüinos, esperanza inmunológica contra la malaria o la leishmaniasis](https://www.montevideo.com.uy/Salud/Microbiota-de-pinguinos-esperanza-inmunologica-contra-la-malaria-o-la-leishmaniasis-uc917240) (Montevideo.com.uy)
 
 - [Revolucionario enfoque genético contra la malaria: un parásito modificado podría ser la clave para una vacuna efectiva](http://www.muyinteresante.com/salud/enfoque-genetico-contra-la-malaria.html) (Muyinteresante.com)
+
+- [Cancer drug realized after researcher's chance exposure to malaria drug](https://newatlas.com/cancer/pyronaridine-cancer-treatment/) (New Atlas)
+
+- [Former USAID head warns disease outbreaks could grow after cuts to agency](https://www.cbc.ca/news/politics/former-usaid-administrator-samantha-power-1.7477750) (CBC News)
+
+- [100 000 kan dö i malaria när USA stryper bistånd](https://www.svd.se/a/1MzgVB/100000-kan-do-i-malaria-nar-usa-stryper-bistand) (Svenska Dagbladet)
+
+- [100 000 kan dö i malaria när USA stryper bistånd](https://www.aftonbladet.se/nyheter/a/vgpvwm/100000-kan-do-i-malaria-nar-usa-stryper-bistand) (Aftonbladet.se)
 
 ## 25-11 (hpai)
 
@@ -3377,6 +3417,12 @@ Source: [News API](https://newsapi.org/)
 - [Notre système immunitaire est-il déjà immunisé contre la grippe aviaire ?](https://dailygeekshow.com/grippe-aviaire-immunite/) (Daily Geek Show)
 
 - [RFK Jr. and Federal Health Agencies Wisely Oppose Mass H5N1 Animal Vaccination Over Mutation Concerns](https://www.globalresearch.ca/rfk-jr-federal-health-agencies-oppose-mass-h5n1-animal-vaccination/5881691) (Globalresearch.ca)
+
+- [Blir det sjukdom X? Så letar forskarvärlden efter smittan som blir nästa pandemi](https://www.dn.se/sverige/blir-det-sjukdom-x-sa-letar-forskarvarlden-efter-smittan-som-blir-nasta-pandemi/) (Www.dn.se)
+
+- [केंद्र ने बर्ड फ्लू को लेकर 9 राज्यों को जारी किया अलर्ट, जानें H5N1 वायरस के लक्षण और बचाव के उपाय](https://www.aajtak.in/india/news/story/center-issued-alert-to-9-states-regarding-bird-flu-know-the-symptoms-and-prevention-measures-from-h5n1-virus-ntc-rpti-2185989-2025-03-09) (Aajtak.in)
+
+- [Esperti su Science, prepararsi in tempo a una pandemia di aviaria](https://www.ansa.it/canale_scienza/notizie/biotech/2025/03/08/esperti-su-science-prepararsi-in-tempo-a-una-pandemia-di-aviaria_3d46145a-8dba-4e32-98b7-d5ffe4b3cc9a.html) (ANSA.it)
 
 ## 25-11 (dengue)
 

@@ -1,8 +1,207 @@
 {
-  "last_updated": "2025-04-24 19:06",
-  "count_articles_total": 1563,
-  "count_articles_new": 31,
+  "last_updated": "2025-04-25 07:07",
+  "count_articles_total": 1585,
+  "count_articles_new": 14,
   "articles": [
+    {
+      "id": 20684,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "People.cn",
+      "author": "F_400991",
+      "title": "Measles misinformation spreads as cases rise across U.S.",
+      "description": "SACRAMENTO, the United States, April 23 (Xinhua) -- Misinformation about measles and its vaccines wa",
+      "url": "http://en.people.cn/n3/2025/0424/c90000-20306782.html",
+      "urlToImage": null,
+      "publishedAt": "2025-04-24 06:16:20",
+      "content": "(Xinhua) 13:42, April 24, 2025 SACRAMENTO, the United States, April 23 (Xinhua) -- Misinformation about measles and its vaccines was spreading rapidly across the United States, as the country was fa\u2026 [+1895 chars]",
+      "retrievedAt": "2025-04-25 07:07:25.727206",
+      "internal_id": "de2a516c820595f7a525b0491958d704edd737838dd6542c71d3b5fcd877b967",
+      "publishedAtLabel": "Apr 24"
+    },
+    {
+      "id": 20678,
+      "query": [
+        "measles",
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "DW (English)",
+      "author": "Tanika Godbole",
+      "title": "UN warns of rise in vaccine-preventable diseases",
+      "description": "The WHO, UNICEF and Gavi said there has been a rise in diseases like measles, meningitis and yellow fever. Funding cuts, misinformation and humanitarian crises have worsened the problem.",
+      "url": "https://www.dw.com/en/un-warns-of-rise-in-vaccine-preventable-diseases/a-72328262",
+      "urlToImage": "https://static.dw.com/image/72157629_6.jpg",
+      "publishedAt": "2025-04-24 05:11:00",
+      "content": "The WHO, UNICEF and Gavi vaccine alliance on Wednesday warned that there has been a global uptick in outbreaks of vaccine-preventable diseases such as measles, meningitis and yellow fever. The join\u2026 [+2349 chars]",
+      "retrievedAt": "2025-04-25 07:07:25.567976",
+      "internal_id": "4edf884e8871701ab6618ae822db86b7c88b41f24d7e0e7a11a304083ae74328",
+      "publishedAtLabel": "Apr 24"
+    },
+    {
+      "id": 20689,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Excelsior.com.mx",
+      "author": "oswaldo.rojas",
+      "title": "ONU alerta aumento de enfermedades prevenibles por baja vacunaci\u00f3n",
+      "description": "Oswaldo Rojas Enfermedades prevenibles con una vacuna, como el sarampi\u00f3n, la meningitis y la fiebre amarilla, est\u00e1n en aumento en un contexto de desinformaci\u00f3n y recortes en la ayuda internacional, advirtieron el mi\u00e9rcoles la ONU y la Alianza de Vacunas (Gav\u2026",
+      "url": "https://www.excelsior.com.mx/global/enfermedades-prevenibles-baja-vacunacion-onu/1712299",
+      "urlToImage": "https://www.excelsior.com.mx/media/pictures/2025/04/23/3296261.jpg",
+      "publishedAt": "2025-04-24 03:16:59",
+      "content": "Enfermedades prevenibles con una vacuna, como el sarampi\u00f3n, la meningitis y la fiebre amarilla, est\u00e1n en aumento en un contexto de desinformaci\u00f3n y recortes en la ayuda internacional, advirtieron el \u2026 [+2635 chars]",
+      "retrievedAt": "2025-04-25 07:07:27.174892",
+      "internal_id": "06a83904801f4b28d687e66bb4567e19dda1c962ec206f8adb7b2153ad20ebd8",
+      "publishedAtLabel": "Apr 24"
+    },
+    {
+      "id": 20680,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "2 new measles cases confirmed in southern Manitoba",
+      "description": "Public health officials are warning the public about a potential measles exposure at a school in southern Manitoba after two new cases were confirmed Wednesday afternoon.",
+      "url": "https://www.cbc.ca/news/canada/manitoba/measles-cases-steinbach-school-1.7517092",
+      "urlToImage": "https://i.cbc.ca/1.5343123.1744476003!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/measles-virus.jpg?im=Resize%3D620",
+      "publishedAt": "2025-04-24 01:26:48",
+      "content": "Public health officials are warning the public about a potential measles exposure at a school in southern Manitoba after two new cases were confirmed Wednesday afternoon. The two individuals attende\u2026 [+842 chars]",
+      "retrievedAt": "2025-04-25 07:07:25.674404",
+      "internal_id": "e4d57361ea526e7b97d9bf892a8a2fc8cc2595f338f43da6b4d993b40b50d4a4",
+      "publishedAtLabel": "Apr 24"
+    },
+    {
+      "id": 20679,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "STLtoday.com",
+      "author": "By Beth Hundsdorfer, Capitol News Illinois",
+      "title": "First measles case in state is confirmed in southern Illinois",
+      "description": "The Centers for Disease Control reports 800 confirmed cases of measles in 26 states including Missouri and Illinois.",
+      "url": "https://www.stltoday.com/news/local/business/health-care/article_e83f7543-dbdb-489a-bfbd-a5b3a73973b0.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/e/83/e83f7543-dbdb-489a-bfbd-a5b3a73973b0/68099291d4523.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2025-04-24 01:23:00",
+      "content": "The Illinois Department of Public Health confirmed Wednesday afternoon the first case of measles in the state. The measles diagnosis involving an adult in far southern Illinois was confirmed through\u2026 [+4461 chars]",
+      "retrievedAt": "2025-04-25 07:07:25.627446",
+      "internal_id": "f2f5aa729b3913e6b9a4bc385e36e883b342a7659635ce02976658982614fc85",
+      "publishedAtLabel": "Apr 24"
+    },
+    {
+      "id": 20688,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Rpnradio.com",
+      "author": "RPN News",
+      "title": "Bacolod: PHO reports continued rise of dengue in 31 LGUs",
+      "description": "The Provincial Health Office reported an increase of 1,309 dengue cases, with seven deaths in Negros Occidental, as of April 19, compared to 383 cases in the same period last year. The total dengue cases reported from January to April 19 this year was 1,692, \u2026",
+      "url": "https://rpnradio.com/bacolod-pho-reports-continued-rise-of-dengue-in-31-lgus/",
+      "urlToImage": "https://rpnradio.com/wp-content/uploads/2025/04/dengue-cases-rise.jpg",
+      "publishedAt": "2025-04-24 00:41:28",
+      "content": "The Provincial Health Office reported an increase of 1,309 dengue cases, with seven deaths in Negros Occidental, as of April 19, compared to 383 cases in the same period last year. The total dengue \u2026 [+800 chars]",
+      "retrievedAt": "2025-04-25 07:07:26.677274",
+      "internal_id": "df338b03e313419bc02cb622514bfc46afc6c1a33f90cfdbbb28ddeac3c80ca8",
+      "publishedAtLabel": "Apr 24"
+    },
+    {
+      "id": 20686,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "newschannel20.com",
+      "author": "Wics/wrsp News Team",
+      "title": "Illinois Dept. of Public Health reporting first measles case of 2025 in Illinois",
+      "description": "The Illinois Department of Public Health is urging Illinois residents to ensure they are up-to-date on their vaccinations after a measles case is reported in So",
+      "url": "https://newschannel20.com/news/local/illinois-dept-of-public-health-reporting-first-measles-case-of-2025-in-illinois",
+      "urlToImage": "https://newschannel20.com/resources/media2/16x9/2121/986/0x111/90/6640a3b4-0aa7-4c52-b259-1b04ac3f55f5-GettyImages1177642022.jpg",
+      "publishedAt": "2025-04-24 00:28:38",
+      "content": "SPRINGFIELD, Ill. (WICS/WRSP) The Illinois Department of Public Health is urging Illinois residents to ensure they are up-to-date on their vaccinations after a measles case is reported in Southern Il\u2026 [+1464 chars]",
+      "retrievedAt": "2025-04-25 07:07:25.743239",
+      "internal_id": "887a07dcc2c17c7bbca05083e5ccbf5f5fbc613d5508b1fc1f81a48965ff92f9",
+      "publishedAtLabel": "Apr 24"
+    },
+    {
+      "id": 20681,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WSB Atlanta",
+      "author": "Wsbtv.com News Staff",
+      "title": "Measles cases spike to largest number in years",
+      "description": "With measles outbreaks across the country, misinformation about the vaccine is spreading.",
+      "url": "https://www.wsbtv.com/news/local/measles-cases-spike-largest-number-years/EKHFAN47ZZHG7NESNPM2HR52SQ/",
+      "urlToImage": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fd1hfln2sfez66z.cloudfront.net%2F04-23-2025%2Ft_dd2dae7d5e5245e1bcc59042714d5f1b_name_f1278258104e4a188ef1ece6fdaa19e8_scaled.jpg?auth=52ec71a394b0a8fb2edeaf14277576ba6f9dc50ff71809f17bb390a32ffe71ea&width=1200&height=630&smart=true",
+      "publishedAt": "2025-04-23 23:16:34",
+      "content": "GEORGIA \u2014 With measles outbreaks across the country, misinformation about the vaccine is spreading. A new poll that came out Wednesday shows people are seeing or hearing false posts. [DOWNLOAD: Fr\u2026 [+1469 chars]",
+      "retrievedAt": "2025-04-25 07:07:25.696918",
+      "internal_id": "1bff4f8c5be20c6ebb8d51df93e318338f4dfb31564939c4bcb28017c50bedab",
+      "publishedAtLabel": "Apr 23"
+    },
+    {
+      "id": 20687,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Newspeppermint.com",
+      "author": "ingppoo",
+      "title": "[\ub274\ud398@\uc2a4\ud504] \ubc14\uc774\ub7ec\uc2a4\uc5d0\ub294 \uad6d\uacbd\uc774 \uc5c6\ub294\ub370\u2026\ub05d\ub098\uc9c0 \uc54a\uc740 \ud32c\ub370\ubbf9\uc758 \uacbd\uace0",
+      "description": "\ub274\uc2a4\ud398\ud37c\ubbfc\ud2b8\uac00 SBS\uc758 \ucf58\ud150\uce20 \ud50c\ub7ab\ud3fc \uc2a4\ube0c\uc2a4\ud504\ub9ac\ubbf8\uc5c4(\uc2a4\ud504)\uc5d0 \ub274\uc695\ud0c0\uc784\uc2a4 \uce7c\ub7fc\uc744 \ud55c \ud3b8\uc529 \uc120\uc815\ud574 \ubc88\uc5ed\ud558\uace0, \ud568\uaed8 \uc4f4 \ud574\uc124\uc744 \uc2a4\ud504\uc640 \uc2dc\ucc28\ub97c \ub450\uace0 \uc18c\uac1c\ud569\ub2c8\ub2e4. \uc624\ub298 \uc18c\uac1c\ud558\ub294 \uae00\uc740 3\uc6d4 7\uc77c \uc2a4\ud504\uc5d0 \uc4f4 \uae00\uc785\ub2c8\ub2e4. 5\ub144 \uc804 \uc774\ub9d8\ub54c\ub97c \uae30\uc5b5\ud558\uc2ed\ub2c8\uae4c? \ud55c\uad6d\uc740 \u2018\uc2e0\uc885 \ucf54\ub85c\ub098\ubc14\uc774\ub7ec\uc2a4\u2019 \uccab \ud655\uc9c4\uc790\uac00 \ub098\uc628 \uc9c0 \ud55c \ub2ec \ubc18\uc774 \uc9c0\ub09c \uc2dc\uc810\uc774\uc5c8\uc2b5\ub2c8\ub2e4. \ubc14\uc774\ub7ec\uc2a4\uac00 \uae09\uc18d\ub3c4\ub85c \ud37c\uc9c0\uba74\uc11c \ub9c8\uc2a4\ud06c\uc640 \uc190\uc18c\ub3c5\uc81c \ub300\ub780\uc774 \uc77c\uc5b4\ub0ac\uace0, \uc885\uad50 \ub2e8\uccb4\uc758 \uc608\ubc30\ub97c \ube44\ub86f\ud574 \uc5ec\ub7ec \uc0ac\ub78c\uc774 \ud55c\ub370 \ubaa8\uc774\ub294 \uac83\uc774 \uac10\uc5fc \uacbd\ub85c\ub85c \uc9c0\ubaa9\ub418\u2026",
+      "url": "https://newspeppermint.com/2025/04/23/npsps_pandemic/",
+      "urlToImage": "https://newspeppermint.com/wp-content/uploads/fb_header_img.png",
+      "publishedAt": "2025-04-23 22:59:02",
+      "content": "[@] \u2026 tags : #H5N1, #RFK Jr., #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #19, #, #, #, #2025 4 24 | By: ingppoo | SBS | No Comment SBS () , . 3 7 . 5 ? \u2018 \u2019 . , . 5 . . ,\u2026 [+322 chars]",
+      "retrievedAt": "2025-04-25 07:07:26.264755",
+      "internal_id": "d5f326e156e1c5cb3b38de1353660d9ca6dbf399dc511858e055b981e12598b5",
+      "publishedAtLabel": "Apr 23"
+    },
+    {
+      "id": 20690,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Francetvinfo.fr",
+      "author": null,
+      "title": "\u00c9pidemie du chikungunya : une situation toujours pr\u00e9occupante \u00e0 la R\u00e9union",
+      "description": "C\u2019est une question de sant\u00e9 publique qui touche actuellement l'\u00eele de la R\u00e9union. En effet, 10 personnes sont d\u00e9j\u00e0 mortes dues \u00e0 l'\u00e9pid\u00e9mie du chikungunya. Un bilan qui s'alourdit et qui pose plusieurs questions, notamment sur les risques potentiels en m\u00e9trop\u2026",
+      "url": "https://www.francetvinfo.fr/sante/maladie/chikungunya/epidemie-du-chikungunya-une-situation-toujours-preoccupante-a-la-reunion_7206864.html",
+      "urlToImage": "https://www.francetvinfo.fr/pictures/R3FwBrPC60FYkB8LqjwVELMkPXM/353x0:1721x768/1500x843/2025/04/23/epidemie-du-chikungunya-une-situation-toujours-preoccupante-a-la-reunion-68094fcdd28b4452907443.jpg",
+      "publishedAt": "2025-04-23 21:04:21",
+      "content": "Voil\u00e0 plusieurs semaines que l'\u00eele de la R\u00e9union est touch\u00e9e par l'\u00e9pid\u00e9mie du chikungunya. Une situation tr\u00e8s pr\u00e9occupante pour les autorit\u00e9s locales puisquun R\u00e9unionnais sur sept est actuellement f\u2026 [+775 chars]",
+      "retrievedAt": "2025-04-25 07:07:28.302734",
+      "internal_id": "2c1e7ca33f4dd0c9881122aa05df1a5f6309d2a9c4a0ad031344de8a9c404fc9",
+      "publishedAtLabel": "Apr 23"
+    },
+    {
+      "id": 20677,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "WRAL.com",
+      "author": "Willie Daniely",
+      "title": "Whooping cough detected in student at Leesville Road High School, WCPSS says",
+      "description": "According to the Wake County Public School System, Leesville Road High School sent a letter to parents stating the county had confirmed a case of pertussis, known as whooping cough, among one of its students.",
+      "url": "https://www.wral.com/lifestyle/health/whooping-cough-leesville-road-high-school-april-2025/",
+      "urlToImage": "https://images.wral.com/30da29bf-1646-4da4-af53-e7872fe589f4?w=1200&h=630",
+      "publishedAt": "2025-04-23 20:26:30",
+      "content": "Parents on Wednesday were notified of a whooping cough case at a Wake County school. According to the Wake County Public School System, Leesville Road High School sent a letter to parents stating th\u2026 [+2057 chars]",
+      "retrievedAt": "2025-04-25 07:07:24.757447",
+      "internal_id": "b7c131060fd7ce00f7a5e86c6ad91793b75a86ef5ad3da7c65ad4bdf2757cdc7",
+      "publishedAtLabel": "Apr 23"
+    },
     {
       "id": 20647,
       "query": [
@@ -76,6 +275,24 @@
       "publishedAtLabel": "Apr 23"
     },
     {
+      "id": 20685,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Dallas Morning News",
+      "author": "Lilly Kersh",
+      "title": "Collin County student tests positive for measles, first child case reported in D-FW",
+      "description": "A middle school student in Collin County has tested positive for measles, officials confirmed Wednesday, the first reported case in a child in the Dallas Fort-W...",
+      "url": "https://www.dallasnews.com/news/public-health/2025/04/23/collin-county-student-tests-positive-for-measles-first-child-case-reported-in-d-fw/",
+      "urlToImage": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/v2/6JNL5ZF7FJXZTC2YUO3ESN2CBE.jpg?auth=28fc0a2a6f584476f549e9e07296d4217794d6f1072620a86d0a3f7a1cdbc409&height=630&width=1200&smart=true&quality=80",
+      "publishedAt": "2025-04-23 17:15:13",
+      "content": "A middle school student in Collin County has tested positive for measles, health officials confirmed Wednesday, the first reported case in a child in the Dallas-Fort Worth area this year amid an outb\u2026 [+2459 chars]",
+      "retrievedAt": "2025-04-25 07:07:25.735369",
+      "internal_id": "7b3db3cf09506a0b5dd9cc68a96a9453245c22f320fe6c30999e70240279739f",
+      "publishedAtLabel": "Apr 23"
+    },
+    {
       "id": 20650,
       "query": [
         "measles"
@@ -109,6 +326,24 @@
       "content": "Denver has confirmed a second measles case \u2014 and the third in Colorado this year \u2014 but the patient was already in quarantine and unlikely to infect anyone else, public health officials said Wednesday\u2026 [+1848 chars]",
       "retrievedAt": "2025-04-24 19:06:19.963081",
       "internal_id": "2f9524f4db8cf6c66b52afb8574cbc80a5871eb9bf5d8866a73c411707e0ad56",
+      "publishedAtLabel": "Apr 23"
+    },
+    {
+      "id": 20682,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "FOX 4 News",
+      "author": "Amber Kite",
+      "title": "Collin County confirms one middle school student has measles",
+      "description": "Collin County Health Care Services confirms a student at Willow Springs Middle School in Lucas, TX has measles. Officials say they are notifying contacts and say families should make sure vaccinations are up-to-date.",
+      "url": "https://www.fox4news.com/news/collin-county-confirms-one-middle-school-student-has-measles",
+      "urlToImage": "https://images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2019/10/1280/720/GETTY-measles_1532439789069_5841558_ver1.0.png?ve=1&tl=1",
+      "publishedAt": "2025-04-23 16:37:41",
+      "content": "COLLIN COUNTY, Texas - Collin County Health Care Services confirms a student at Willow Springs Middle School in Lucas, TX has measles. Officials say they are notifying contacts and say families shoul\u2026 [+5258 chars]",
+      "retrievedAt": "2025-04-25 07:07:25.711494",
+      "internal_id": "400711d2eebaed3579e8918382b66daa0d263f72e28d2c5ec4b47c6c4127b022",
       "publishedAtLabel": "Apr 23"
     },
     {
@@ -361,6 +596,24 @@
       "content": "La R\u00e9union d\u00e9plore neuf d\u00e9c\u00e8s depuis le d\u00e9but de l'\u00e9pid\u00e9mie de chikungunya, apr\u00e8s la mort de trois nouvelles personnes, annonc\u00e9e par Sant\u00e9 publique France, ce mercredi. \u00ab Depuis le d\u00e9but de l'ann\u00e9e,\u2026 [+401 chars]",
       "retrievedAt": "2025-04-24 19:06:22.946342",
       "internal_id": "2a807084d95e6f3179c4d30b82539398acace82007ecfeb27a1492cfb87915ca",
+      "publishedAtLabel": "Apr 23"
+    },
+    {
+      "id": 20683,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Kaiser Family Foundation",
+      "author": null,
+      "title": "KFF Tracking Poll on Health Information and Trust: The Public\u2019s Views on Measles Outbreaks and Misinformation | KFF",
+      "description": "This poll looks at awareness and concern over the outbreak of measles in the U.S. and finds that a growing share of adults is encountering false claims about the measles vaccines, but many are uncertain whether these claims are true or false. Parents who lean\u2026",
+      "url": "https://www.kff.org/health-information-and-trust/poll-finding/kff-tracking-poll-on-health-information-and-trust-the-publics-views-on-measles-outbreaks-and-misinformation/",
+      "urlToImage": "https://www.kff.org/wp-content/uploads/2025/04/250418_Uncertain-When-it-Comes-to-False-Claims-About-Measles_FI-2.png",
+      "publishedAt": "2025-04-23 10:04:46",
+      "content": "Key Findings As the U.S. grapples with rising measles cases across multiple states and the highest number of cases since 2019, about half of adults (51%) and parents (47%) say they are at le\u2026 [+14920 chars]",
+      "retrievedAt": "2025-04-25 07:07:25.719524",
+      "internal_id": "4d349b148de472d9eccbb76790de09f2e2e61d702504b396a56e4783e8e94c81",
       "publishedAtLabel": "Apr 23"
     },
     {
@@ -28179,6 +28432,150 @@
       "content": "Maryland health officials issued a warning on Sunday to anyone who passed through Washington Dulles International Airport or was in the Johns Hopkins Howard County Medical Center Pediatric Emergency \u2026 [+4685 chars]",
       "retrievedAt": "2025-03-11 07:06:59.844376",
       "internal_id": "8ec1966572c7adbca8ad2ea11668afed8a157aefe451902711fdf049b32d6bec",
+      "publishedAtLabel": "Mar 9"
+    },
+    {
+      "id": 19094,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Alison Durkee, Forbes Staff, \n Alison Durkee, Forbes Staff\n https://www.forbes.com/sites/alisondurkee/",
+      "title": "Travelers At DC\u2019s Dulles Airport Potentially Exposed To Measles\u2014As Maryland Announces New Case",
+      "description": "The news comes a broader outbreak in Texas and New Mexico.",
+      "url": "https://www.forbes.com/sites/alisondurkee/2025/03/09/travelers-at-dcs-dulles-airport-potentially-exposed-to-measles-as-maryland-announces-new-case/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67cddeb948436fb2f54a4619/0x0.jpg?format=jpg&crop=2277,1281,x0,y87,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-03-09 18:47:53",
+      "content": "Maryland health officials announced Sunday that a resident who traveled internationally has tested positive for measles, warning that travelers at Washington Dulles Airport on March 5 may have been e\u2026 [+4824 chars]",
+      "retrievedAt": "2025-03-10 19:06:03.197554",
+      "internal_id": "99d9e8975fe965c0682982d77d82ec73d0d6995bd1efbe596ca35a1556328287",
+      "publishedAtLabel": "Mar 9"
+    },
+    {
+      "id": 19096,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Www.dn.se",
+      "author": "Anna Bratt, Jenny Alv\u00e9n",
+      "title": "Blir det sjukdom X? S\u00e5 letar forskarv\u00e4rlden efter smittan som blir n\u00e4sta pandemi",
+      "description": "Forskare letar efter nya smittor som kan starta n\u00e4sta pandemi. F\u00e5gelinfluensan H5N1 \u00e4r bara ett av flera virus som \u00e4r i fokus. I v\u00e4rsta fall blir det \u201dsjukdom X\u201d som drabbar v\u00e4rlden. \u2013 Det \u00e4r vad vi verkligen fruktar, s\u00e4ger professor Ali Mirazimi.",
+      "url": "https://www.dn.se/sverige/blir-det-sjukdom-x-sa-letar-forskarvarlden-efter-smittan-som-blir-nasta-pandemi/",
+      "urlToImage": "https://static.bonniernews.se/gcs/bilder/dn-mly/ee95333e-0aef-4c89-b8e6-2187e6f779a6.jpeg?io=1&width=1024&crop=16:9,smart",
+      "publishedAt": "2025-03-09 18:01:49",
+      "content": "Det har g\u00e5tt fem \u00e5r sedan V\u00e4rldsh\u00e4lsoorganisationen WHO deklarerade att covid-19 var en pandemi. Sedan dess har coronaviruset sars-cov-2 lett till omkring sju miljoner d\u00f6dsfall och har gett m\u00e5nga m\u00e4n\u2026 [+8167 chars]",
+      "retrievedAt": "2025-03-10 19:06:03.982790",
+      "internal_id": "e1e868922073235e3fd286694440e048a86cd085b011dc786ef0efeed288f239",
+      "publishedAtLabel": "Mar 9"
+    },
+    {
+      "id": 19097,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Aajtak.in",
+      "author": "\u0905\u092e\u0928 \u092d\u093e\u0930\u0926\u094d\u0935\u093e\u091c",
+      "title": "\u0915\u0947\u0902\u0926\u094d\u0930 \u0928\u0947 \u092c\u0930\u094d\u0921 \u092b\u094d\u0932\u0942 \u0915\u094b \u0932\u0947\u0915\u0930 9 \u0930\u093e\u091c\u094d\u092f\u094b\u0902 \u0915\u094b \u091c\u093e\u0930\u0940 \u0915\u093f\u092f\u093e \u0905\u0932\u0930\u094d\u091f, \u091c\u093e\u0928\u0947\u0902 H5N1 \u0935\u093e\u092f\u0930\u0938 \u0915\u0947 \u0932\u0915\u094d\u0937\u0923 \u0914\u0930 \u092c\u091a\u093e\u0935 \u0915\u0947 \u0909\u092a\u093e\u092f",
+      "description": "\u0930\u093e\u091c\u094d\u092f\u094b\u0902 \u0938\u0947 \u090f\u0935\u093f\u092f\u0928 \u0907\u0928\u094d\u092b\u094d\u0932\u0942\u090f\u0902\u091c\u093e \u0938\u0947 \u0928\u093f\u092a\u091f\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0928\u0947\u0936\u0928\u0932 \u090f\u0915\u094d\u0936\u0928 \u092a\u094d\u0932\u093e\u0928 \u0915\u093e \u0938\u0916\u094d\u0924\u0940 \u0938\u0947 \u092a\u093e\u0932\u0928 \u0915\u0930\u0928\u0947, \u0915\u094d\u0935\u093f\u0915 \u0930\u093f\u0938\u094d\u092a\u0949\u0928\u094d\u0938 \u091f\u0940\u092e\u094b\u0902 \u0915\u094b \u0938\u0915\u094d\u0930\u093f\u092f \u0915\u0930\u0928\u0947 \u0914\u0930 \u0935\u0947\u091f\u0930\u0928\u0930\u0940 \u0914\u0930 \u0932\u0948\u092c\u094d\u0938 \u0915\u0940 \u0938\u0902\u0916\u094d\u092f\u093e \u092c\u0922\u093c\u093e\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0915\u0939\u093e \u0917\u092f\u093e \u0939\u0948. \u0915\u0947\u0902\u0926\u094d\u0930 \u0928\u0947 \u0915\u0939\u093e \u0939\u0948 \u0915\u093f \u0907\u0928 \u0909\u092a\u093e\u092f\u094b\u0902 \u092a\u0930 \u0924\u0924\u094d\u0915\u093e\u0932 \u0927\u094d\u092f\u093e\u0928 \u0926\u0947\u0928\u0947 \u0938\u0947 \u090f\u0935\u093f\u092f\u0928 \u0907\u0928\u094d\u092b\u094d\u0932\u0942\u090f\u0902\u091c\u093e \u0915\u0947 \u092a\u094d\u0930\u0938\u2026",
+      "url": "https://www.aajtak.in/india/news/story/center-issued-alert-to-9-states-regarding-bird-flu-know-the-symptoms-and-prevention-measures-from-h5n1-virus-ntc-rpti-2185989-2025-03-09",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202503/67cdb7aa4880d-bird-flu-094541884-16x9.png",
+      "publishedAt": "2025-03-09 16:00:21",
+      "content": ", (H5N1) 9 . (H5N1) . . , ' 2025 9 (H5N1) , . . , .' : , . , . , . . : , H5N1 , - , - . , , , , , , , , , , . , , . . , . . : , . . . . .",
+      "retrievedAt": "2025-03-10 19:06:03.996825",
+      "internal_id": "a24da079e3dc072fad8979033fc31753dba1b8703ac55d7d2fac5b731bc14b25",
+      "publishedAtLabel": "Mar 9"
+    },
+    {
+      "id": 19098,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "New Atlas",
+      "author": "Paul McClure",
+      "title": "Cancer drug realized after researcher's chance exposure to malaria drug",
+      "description": "When experienced researcher Renato Aguilera happened across the chemical structure of a tried-and-true antimalarial drug one day, he thought it might effectively fight cancer. He was right, and he has the research, the patent, and the pharma company to prove \u2026",
+      "url": "https://newatlas.com/cancer/pyronaridine-cancer-treatment/",
+      "urlToImage": "https://assets.newatlas.com/dims4/default/827968a/2147483647/strip/true/crop/2000x1050+0+38/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Ff0%2F36%2Fc9685a8f4e1b9c211fa8163e49fc%2F022425-renato-aguilera-cancer-lm13-medium.jpg&na.image_optimisation=0",
+      "publishedAt": "2025-03-09 15:03:00",
+      "content": "When experienced researcher Renato Aguilera happened across the chemical structure of a tried-and-true antimalarial drug one day, he thought it might effectively fight cancer. He was right, and he ha\u2026 [+3481 chars]",
+      "retrievedAt": "2025-03-10 19:06:04.736659",
+      "internal_id": "725b7a41bc90d9f9d5de5caf588e113a167d924f92646fc1942e02de44927607",
+      "publishedAtLabel": "Mar 9"
+    },
+    {
+      "id": 19095,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Esperti su Science, prepararsi in tempo a una pandemia di aviaria",
+      "description": "Con i vaccini e una buona informazione (ANSA)",
+      "url": "https://www.ansa.it/canale_scienza/notizie/biotech/2025/03/08/esperti-su-science-prepararsi-in-tempo-a-una-pandemia-di-aviaria_3d46145a-8dba-4e32-98b7-d5ffe4b3cc9a.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_1129x635/2025/3/8/78398e626774b33ea8e1b5bc652e1688.jpg",
+      "publishedAt": "2025-03-09 08:31:03",
+      "content": "Una lettera pubblicata sulla rivista Science esorta governi, mondo dellindustria e comunit\u00e0 scientifica a prepararsi a una possibile pandemia di influenza aviaria provocata dal virus H5N1. Prepararci\u2026 [+3698 chars]",
+      "retrievedAt": "2025-03-10 19:06:03.962453",
+      "internal_id": "8326eacf252d81590f1e789ad9e53972f066d1485b3bcbd240ffaee47f0d4782",
+      "publishedAtLabel": "Mar 9"
+    },
+    {
+      "id": 19099,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Former USAID head warns disease outbreaks could grow after cuts to agency",
+      "description": "The former administrator of the U.S. Agency for International Development says major funding cuts to the agency could lead to more cases of diseases like paralytic polio and malaria.",
+      "url": "https://www.cbc.ca/news/politics/former-usaid-administrator-samantha-power-1.7477750",
+      "urlToImage": "https://i.cbc.ca/1.7478098.1741378491!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_1180/cambodia-usaid.jpg?im=Resize%3D620",
+      "publishedAt": "2025-03-09 08:00:00",
+      "content": "The former administrator of the U.S. Agency for International Development (USAID) says major funding cuts to the agency could lead to more cases of diseases like paralytic polio and malaria. In an \u2026 [+3031 chars]",
+      "retrievedAt": "2025-03-10 19:06:04.744618",
+      "internal_id": "60bb2a4aa94f6bed3814ac8edb9240b71c3e8ccfeb8c55226154ce89f8a7e3dc",
+      "publishedAtLabel": "Mar 9"
+    },
+    {
+      "id": 19100,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "svenska-dagbladet",
+      "source_name": "Svenska Dagbladet",
+      "author": "TT TT-AP",
+      "title": "100 000 kan d\u00f6 i malaria n\u00e4r USA stryper bist\u00e5nd",
+      "description": "Ingen sjukdom i Afrika \u00e4r d\u00f6dligare \u00e4n malaria \u2013 s\u00e4rskilt f\u00f6r barn. Men Donald Trumps nedsk\u00e4rningar i USA:s bist\u00e5nd f\u00f6rsvagar kampen mot infektionen, varnar experter. Tusentals kan d\u00f6.",
+      "url": "https://www.svd.se/a/1MzgVB/100000-kan-do-i-malaria-nar-usa-stryper-bistand",
+      "urlToImage": "https://svd.vgc.no/v2/images/5aa8e113-c5ee-44d5-8961-69ab807db191?h=630&q=80&upscale=true&w=1200&s=f17195712baf0fdde4cef363e8f6e553c600bc62",
+      "publishedAt": "2025-03-09 07:47:51",
+      "content": "Fler \u00e4n tusen barn under fem \u00e5rs \u00e5lder n\u00e4stan ett varje minut d\u00f6r enligt Unicef dagligen av malaria. M\u00e5nga av d\u00f6dsfallen hade enligt FN-organet kunnat undvikas med f\u00f6rebyggande insatser och r\u00e4tt beha\u2026 [+267 chars]",
+      "retrievedAt": "2025-03-10 19:06:04.758983",
+      "internal_id": "28a95284b4932d2f8b830ab4fe35133f8025df6bb0d7db6d5d36c0116a28852a",
+      "publishedAtLabel": "Mar 9"
+    },
+    {
+      "id": 19101,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Aftonbladet.se",
+      "author": "TT",
+      "title": "100 000 kan d\u00f6 i malaria n\u00e4r USA stryper bist\u00e5nd",
+      "description": "Ingen sjukdom i Afrika \u00e4r d\u00f6dligare \u00e4n malaria \u2013 s\u00e4rskilt f\u00f6r barn. Men Donald Trumps nedsk\u00e4rningar i USA:s bist\u00e5nd f\u00f6rsvagar kampen mot infektionen, varnar exp",
+      "url": "https://www.aftonbladet.se/nyheter/a/vgpvwm/100000-kan-do-i-malaria-nar-usa-stryper-bistand",
+      "urlToImage": "https://images.aftonbladet-cdn.se/v2/images/6585662c-7906-4caa-b155-705b962ba439?fit=crop&format=auto&h=1268&q=50&w=1900&s=83c746aa799a51f9446fc97d743f2b6ef743fbdb",
+      "publishedAt": "2025-03-09 07:47:50",
+      "content": "Ingen sjukdom i Afrika \u00e4r d\u00f6dligare \u00e4n malaria s\u00e4rskilt f\u00f6r barn. Men Donald Trumps nedsk\u00e4rningar i USA:s bist\u00e5nd f\u00f6rsvagar kampen mot infektionen, varnar experter. Tusentals kan d\u00f6. Fler \u00e4n tusen \u2026 [+2341 chars]",
+      "retrievedAt": "2025-03-10 19:06:04.780164",
+      "internal_id": "e48f203f939ab33c80adc61d96bad91de208ccde1f7a4ca3d3ec7b55700f0dd3",
       "publishedAtLabel": "Mar 9"
     }
   ]
