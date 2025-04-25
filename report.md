@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 14
-- **Last harvest:** 2025-04-25 07:07
-- **Most recent article:** 2025-04-24 06:16:20
+- **New articles in last harvest:** 29
+- **Last harvest:** 2025-04-25 19:05
+- **Most recent article:** 2025-04-24 18:30:00
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-11 | 25-12 | 25-13 | 25-14 | 25-15 | 25-16 | 25-17 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 132 | 108 | 101 | 77 | 145 | 82 | 59 | 704 |
-| h5n1 | 38 | 57 | 47 | 46 | 66 | 9 | 7 | 270 |
-| chikungunya | 1 | 17 | 10 | 17 | 15 | 39 | 35 | 134 |
-| dengue | 12 | 18 | 20 | 14 | 24 | 30 | 9 | 127 |
-| malaria | 21 | 18 | 30 | 13 | 10 | 14 | 6 | 112 |
-| mpox | 14 | 8 | 12 | 17 | 18 | 10 | 0 | 79 |
-| meningitis | 9 | 7 | 10 | 6 | 10 | 9 | 8 | 59 |
-| rabies | 7 | 3 | 19 | 7 | 7 | 0 | 0 | 43 |
+| measles | 131 | 108 | 101 | 77 | 145 | 82 | 70 | 714 |
+| h5n1 | 35 | 57 | 47 | 46 | 66 | 9 | 9 | 269 |
+| chikungunya | 1 | 17 | 10 | 17 | 15 | 39 | 36 | 135 |
+| dengue | 12 | 18 | 20 | 14 | 24 | 30 | 11 | 129 |
+| malaria | 17 | 18 | 30 | 13 | 10 | 14 | 18 | 120 |
+| mpox | 14 | 8 | 12 | 17 | 18 | 10 | 1 | 80 |
+| meningitis | 9 | 7 | 10 | 6 | 10 | 9 | 9 | 60 |
+| rabies | 7 | 3 | 19 | 7 | 7 | 0 | 2 | 45 |
 | hpai | 3 | 12 | 2 | 4 | 3 | 5 | 0 | 29 |
-| zika | 0 | 2 | 3 | 4 | 7 | 7 | 0 | 23 |
+| zika | 0 | 2 | 3 | 4 | 7 | 7 | 1 | 24 |
 | pertussis | 5 | 1 | 0 | 7 | 2 | 5 | 2 | 22 |
 | typhoid | 8 | 0 | 1 | 2 | 2 | 3 | 3 | 19 |
 | yersinia | 2 | 2 | 3 | 0 | 0 | 0 | 0 | 7 |
@@ -32,6 +32,10 @@ Source: [News API](https://newsapi.org/)
 
 ---
 
+## 25-17 (zika)
+
+- [Mosquito Repellent Market Anticipated to Hit USD 11.64 Billion by 2032 | Surge in Vector-Borne Diseases and Outdoor Activities Fuels Growth](https://www.globenewswire.com/news-release/2025/04/24/3067590/0/en/Mosquito-Repellent-Market-Anticipated-to-Hit-USD-11-64-Billion-by-2032-Surge-in-Vector-Borne-Diseases-and-Outdoor-Activities-Fuels-Growth.html) (GlobeNewswire)
+
 ## 25-17 (typhoid)
 
 - [Typhoid Fever's Deadly Mutation: Killer Becomes Resistant To Antibiotics](https://www.ndtv.com/science/typhoid-fevers-deadly-mutation-ancient-killer-becomes-resistant-to-last-resort-antibiotics-8229318) (NDTV News)
@@ -40,13 +44,25 @@ Source: [News API](https://newsapi.org/)
 
 - [Ancient Killer Is Rapidly Becoming Resistant to Antibiotics, Study Warns](https://www.sciencealert.com/ancient-killer-is-rapidly-becoming-resistant-to-antibiotics-study-warns) (ScienceAlert)
 
+## 25-17 (rabies)
+
+- [Public health and financial risk: Why NC must reject the raw milk bill](https://www.ncspin.com/public-health-and-financial-risk-why-nc-must-reject-the-raw-milk-bill) (Ncspin.com)
+
+- [Symptoms Of Rabies And Its Causes](https://doctor.ndtv.com/living-healthy/symptoms-of-rabies-and-its-causes-8244045) (NDTV News)
+
 ## 25-17 (pertussis)
 
 - [Whooping cough detected in student at Leesville Road High School, WCPSS says](https://www.wral.com/lifestyle/health/whooping-cough-leesville-road-high-school-april-2025/) (WRAL.com)
 
 - [Minnesota health officials looking to reverse a decline in childhood immunizations](https://www.kimt.com/news/health/minnesota-health-officials-looking-to-reverse-a-decline-in-childhood-immunizations/article_2530e4ec-2ca5-43a3-8c4d-7c5252354f06.html) (KIMT 3)
 
+## 25-17 (mpox)
+
+- [Mpox Found in North Carolina Sewage: What to Know](https://www.newsweek.com/mpox-cases-north-carolina-sewage-2063459) (Newsweek)
+
 ## 25-17 (meningitis)
+
+- [UN warns vaccine-preventable diseases on rise](https://www.hurriyetdailynews.com/un-warns-vaccine-preventable-diseases-on-rise-208423) (Hurriyet Daily News)
 
 - [UN warns of rise in vaccine-preventable diseases](https://www.dw.com/en/un-warns-of-rise-in-vaccine-preventable-diseases/a-72328262) (DW (English))
 
@@ -65,6 +81,28 @@ Source: [News API](https://newsapi.org/)
 - [Cegah Meningitis, 500 Petugas Haji Jalani Vaksinasi Gratis](https://www.liputan6.com/health/read/5999635/cegah-meningitis-500-petugas-haji-jalani-vaksinasi-gratis) (Liputan6.com)
 
 ## 25-17 (measles)
+
+- [Seems Bad](https://www.eschatonblog.com/2025/04/seems-bad_01566919670.html) (Eschatonblog.com)
+
+- [‘Misinformation’ among issues causing increase in vaccine-preventable disease outbreaks, UN warns](https://www.thejournal.ie/misinformation-among-issues-causing-increase-in-vaccine-preventable-disease-outbreaks-6686780-Apr2025/) (TheJournal.ie)
+
+- [Measles Updates: Illinois Reports First Case Of 2025](https://www.forbes.com/sites/antoniopequenoiv/2025/04/24/measles-updates-illinois-reports-first-case-of-2025/) (Forbes)
+
+- [Measles Update - United States, January 1-April 17, 2025](https://www.cdc.gov/mmwr/volumes/74/wr/mm7414a1.htm) (Cdc.gov)
+
+- [Ontario measles outbreak cases exceed 1,000](https://www.cbc.ca/news/canada/kitchener-waterloo/brisbane-public-school-erin-measles-case-1.7517541) (CBC News)
+
+- [Millions of U.S. measles cases forecast over 25 years if shots decline (Lena H. Sun/Washington Post)](https://www.memeorandum.com/250424/p62) (Memeorandum.com)
+
+- [Measles Cases In Texas Surpass 600 As Number Of States Reporting Infections Rises To 29](https://brobible.com/culture/article/measles-cases-texas-surpass-600/) (BroBible)
+
+- [Measles misinformation is on the rise — and Americans are hearing it, survey finds](https://www.bostonherald.com/2025/04/24/measles-misinformation/) (Boston Herald)
+
+- [Measles May Make Comeback as US 'on the Precipice of Disaster'](https://www.newsweek.com/health-usa-measles-vaccines-endemic-outbreak-polio-rubella-2063633) (Newsweek)
+
+- [How Bad Could Measles Get This Year?](https://slate.com/technology/2025/04/measles-cases-epidemic-worst-case-vaccine.html) (Slate Magazine)
+
+- [UN warns vaccine-preventable diseases on rise](https://www.hurriyetdailynews.com/un-warns-vaccine-preventable-diseases-on-rise-208423) (Hurriyet Daily News)
 
 - [Measles misinformation spreads as cases rise across U.S.](http://en.people.cn/n3/2025/0424/c90000-20306782.html) (People.cn)
 
@@ -186,6 +224,30 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-17 (malaria)
 
+- [Goa on verge of eliminating malaria: No indigenous case since ’23](https://timesofindia.indiatimes.com/city/goa/goa-on-verge-of-eliminating-malaria-no-indigenous-case-since-23/articleshow/120594089.cms) (The Times of India)
+
+- [At 2,726, malaria cases in Mumbai over half of Maharashtra number so far in 2025](https://timesofindia.indiatimes.com/city/mumbai/at-2726-malaria-cases-in-mumbai-over-half-of-maharashtra-number-so-far-in-2025/articleshow/120593121.cms) (The Times of India)
+
+- [Sanità: Giornata malaria, Spallanzani in prima linea con l'ambulatorio del viaggiatore](https://www.ilgiornale.it/news/adnkronos/sanit-giornata-malaria-spallanzani-linea-lambulatorio-2470412.html) (Ilgiornale.it)
+
+- [Sanità: Giornata malaria, 263 mln i casi nel mondo nel 2023, in Italia 798 tutti importati](https://www.ilgiornale.it/news/adnkronos/sanit-giornata-malaria-263-mln-i-casi-nel-mondo-nel-2023-2470408.html) (Ilgiornale.it)
+
+- [Mosquito Repellent Market Anticipated to Hit USD 11.64 Billion by 2032 | Surge in Vector-Borne Diseases and Outdoor Activities Fuels Growth](https://www.globenewswire.com/news-release/2025/04/24/3067590/0/en/Mosquito-Repellent-Market-Anticipated-to-Hit-USD-11-64-Billion-by-2032-Surge-in-Vector-Borne-Diseases-and-Outdoor-Activities-Fuels-Growth.html) (GlobeNewswire)
+
+- [A decline in the coverage and utilization of long-lasting insecticidal nets in Southern Ethiopia: A repeated cross-sectional study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0322342) (Plos.org)
+
+- [More action needed to beat malaria for good, says UN](https://news.un.org/en/story/2025/04/1162571) (UN News)
+
+- [Sanità: Giornata malaria, 263 mln i casi nel mondo nel 2023, in Italia 798 tutti importati](https://www.ilgiornale.it/news/adnkronos/sanit-giornata-malaria-263-mln-i-casi-nel-mondo-nel-2023-2470317.html) (Ilgiornale.it)
+
+- [Beating malaria: what can be done with shrinking funds and rising threats](https://theconversation.com/beating-malaria-what-can-be-done-with-shrinking-funds-and-rising-threats-255126) (The Conversation Africa)
+
+- [Welt-Malaria-Tag: Malaria bleibt tödliche Gefahr für Kinder in Afrika](https://www.tagesspiegel.de/wissen/welt-malaria-tag-malaria-bleibt-todliche-gefahr-fur-kinder-in-afrika-13585453.html) (Der Tagesspiegel)
+
+- [Welt-Malaria-Tag: Malaria bleibt tödliche Gefahr für Kinder in Afrika](https://www.zeit.de/news/2025-04/24/malaria-bleibt-toedliche-gefahr-fuer-kinder-in-afrika) (Die Zeit)
+
+- [Welt-Malaria-Tag: Malaria bleibt tödliche Gefahr für Kinder in Afrika](https://www.stern.de/panorama/wissen/welt-malaria-tag--malaria-bleibt-toedliche-gefahr-fuer-kinder-in-afrika-35664132.html) (STERN.de)
+
 - [New species of mosquito identified on the coast of East Africa](https://phys.org/news/2025-04-species-mosquito-coast-east-africa.html) (Phys.Org)
 
 - [Ending Malaria Makes Everyone Healthier, Safer And More Prosperous](https://www.forbes.com/sites/petersands/2025/04/23/ending-malaria-makes-everyone-healthier-safer-and-more-prosperous/) (Forbes)
@@ -199,6 +261,10 @@ Source: [News API](https://newsapi.org/)
 - [Endgame malaria](https://www.thehindubusinessline.com/specials/pulse/endgame-malaria/article69457631.ece) (BusinessLine)
 
 ## 25-17 (h5n1)
+
+- [Появилась жевательная резинка против гриппа и герпеса](https://life.ru/p/1746585) (Life.ru)
+
+- [Békés vármegyében is megjelent a madárinfluenza](https://index.hu/belfold/2025/04/24/madarinfluenza-bekes-varmegye-jarvany-virus-nebih-szarvas-szaj-es-koromfajas/) (Index.hu)
 
 - [[뉴페@스프] 바이러스에는 국경이 없는데…끝나지 않은 팬데믹의 경고](https://newspeppermint.com/2025/04/23/npsps_pandemic/) (Newspeppermint.com)
 
@@ -215,6 +281,10 @@ Source: [News API](https://newsapi.org/)
 - [TWiV 1211: Moo flu and dengue two](https://www.microbe.tv/twiv/twiv-1211/) (Microbe.tv)
 
 ## 25-17 (dengue)
+
+- [Mosquito Repellent Market Anticipated to Hit USD 11.64 Billion by 2032 | Surge in Vector-Borne Diseases and Outdoor Activities Fuels Growth](https://www.globenewswire.com/news-release/2025/04/24/3067590/0/en/Mosquito-Repellent-Market-Anticipated-to-Hit-USD-11-64-Billion-by-2032-Surge-in-Vector-Borne-Diseases-and-Outdoor-Activities-Fuels-Growth.html) (GlobeNewswire)
+
+- [Increased thermal suitability elevates the risk of dengue transmission across the mid hills of Nepal](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0322031) (Plos.org)
 
 - [Bacolod: PHO reports continued rise of dengue in 31 LGUs](https://rpnradio.com/bacolod-pho-reports-continued-rise-of-dengue-in-31-lgus/) (Rpnradio.com)
 
@@ -235,6 +305,8 @@ Source: [News API](https://newsapi.org/)
 - [TWiV 1211: Moo flu and dengue two](https://www.microbe.tv/twiv/twiv-1211/) (Microbe.tv)
 
 ## 25-17 (chikungunya)
+
+- [Mosquito Repellent Market Anticipated to Hit USD 11.64 Billion by 2032 | Surge in Vector-Borne Diseases and Outdoor Activities Fuels Growth](https://www.globenewswire.com/news-release/2025/04/24/3067590/0/en/Mosquito-Repellent-Market-Anticipated-to-Hit-USD-11-64-Billion-by-2032-Surge-in-Vector-Borne-Diseases-and-Outdoor-Activities-Fuels-Growth.html) (GlobeNewswire)
 
 - [Épidemie du chikungunya : une situation toujours préoccupante à la Réunion](https://www.francetvinfo.fr/sante/maladie/chikungunya/epidemie-du-chikungunya-une-situation-toujours-preoccupante-a-la-reunion_7206864.html) (Francetvinfo.fr)
 
@@ -3292,8 +3364,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles Exposure Warning Issued for Washington Dulles Airport: What to Know](https://www.newsweek.com/measles-exposure-warning-issued-washington-dulles-airport-2041910) (Newsweek)
 
-- [Travelers At DC’s Dulles Airport Potentially Exposed To Measles—As Maryland Announces New Case](https://www.forbes.com/sites/alisondurkee/2025/03/09/travelers-at-dcs-dulles-airport-potentially-exposed-to-measles-as-maryland-announces-new-case/) (Forbes)
-
 ## 25-11 (malaria)
 
 - [Health Ministry dismisses claims of critical shortages of malaria drugs](https://nbcnews.na/node/109907) (Nbcnews.na)
@@ -3329,14 +3399,6 @@ Source: [News API](https://newsapi.org/)
 - [Microbiota de pingüinos, esperanza inmunológica contra la malaria o la leishmaniasis](https://www.montevideo.com.uy/Salud/Microbiota-de-pinguinos-esperanza-inmunologica-contra-la-malaria-o-la-leishmaniasis-uc917240) (Montevideo.com.uy)
 
 - [Revolucionario enfoque genético contra la malaria: un parásito modificado podría ser la clave para una vacuna efectiva](http://www.muyinteresante.com/salud/enfoque-genetico-contra-la-malaria.html) (Muyinteresante.com)
-
-- [Cancer drug realized after researcher's chance exposure to malaria drug](https://newatlas.com/cancer/pyronaridine-cancer-treatment/) (New Atlas)
-
-- [Former USAID head warns disease outbreaks could grow after cuts to agency](https://www.cbc.ca/news/politics/former-usaid-administrator-samantha-power-1.7477750) (CBC News)
-
-- [100 000 kan dö i malaria när USA stryper bistånd](https://www.svd.se/a/1MzgVB/100000-kan-do-i-malaria-nar-usa-stryper-bistand) (Svenska Dagbladet)
-
-- [100 000 kan dö i malaria när USA stryper bistånd](https://www.aftonbladet.se/nyheter/a/vgpvwm/100000-kan-do-i-malaria-nar-usa-stryper-bistand) (Aftonbladet.se)
 
 ## 25-11 (hpai)
 
@@ -3417,12 +3479,6 @@ Source: [News API](https://newsapi.org/)
 - [Notre système immunitaire est-il déjà immunisé contre la grippe aviaire ?](https://dailygeekshow.com/grippe-aviaire-immunite/) (Daily Geek Show)
 
 - [RFK Jr. and Federal Health Agencies Wisely Oppose Mass H5N1 Animal Vaccination Over Mutation Concerns](https://www.globalresearch.ca/rfk-jr-federal-health-agencies-oppose-mass-h5n1-animal-vaccination/5881691) (Globalresearch.ca)
-
-- [Blir det sjukdom X? Så letar forskarvärlden efter smittan som blir nästa pandemi](https://www.dn.se/sverige/blir-det-sjukdom-x-sa-letar-forskarvarlden-efter-smittan-som-blir-nasta-pandemi/) (Www.dn.se)
-
-- [केंद्र ने बर्ड फ्लू को लेकर 9 राज्यों को जारी किया अलर्ट, जानें H5N1 वायरस के लक्षण और बचाव के उपाय](https://www.aajtak.in/india/news/story/center-issued-alert-to-9-states-regarding-bird-flu-know-the-symptoms-and-prevention-measures-from-h5n1-virus-ntc-rpti-2185989-2025-03-09) (Aajtak.in)
-
-- [Esperti su Science, prepararsi in tempo a una pandemia di aviaria](https://www.ansa.it/canale_scienza/notizie/biotech/2025/03/08/esperti-su-science-prepararsi-in-tempo-a-una-pandemia-di-aviaria_3d46145a-8dba-4e32-98b7-d5ffe4b3cc9a.html) (ANSA.it)
 
 ## 25-11 (dengue)
 
