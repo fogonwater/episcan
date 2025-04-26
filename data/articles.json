@@ -1,8 +1,368 @@
 {
-  "last_updated": "2025-04-26 07:06",
-  "count_articles_total": 1633,
-  "count_articles_new": 19,
+  "last_updated": "2025-04-26 19:05",
+  "count_articles_total": 1645,
+  "count_articles_new": 20,
   "articles": [
+    {
+      "id": 20740,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Live Science",
+      "author": "Jess Thomson",
+      "title": "'We're already on the precipice of disaster': Deadly measles outbreaks could explode across the US in the next 25 years if vaccinations fall, model predicts",
+      "description": "Researchers modeled how measles might spread in the U.S. in the coming decades, showing that more than 50 million cases could occur if current vaccination rates fell by half.",
+      "url": "https://www.livescience.com/health/viruses-infections-disease/were-already-on-the-precipice-of-disaster-deadly-measles-outbreaks-could-explode-across-the-us-in-the-next-25-years-if-vaccinations-fall-model-predicts",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/SUtdhQdyesobzccQAjMrnL.jpg",
+      "publishedAt": "2025-04-25 18:00:00",
+      "content": "Measles was eliminated in the U.S. decades ago, but millions of new measles cases could pop up across the country over the next 25 years if vaccination rates continue to fall, new modeling suggests. \u2026 [+5794 chars]",
+      "retrievedAt": "2025-04-26 19:05:42.025285",
+      "internal_id": "4d3966588fef03798444ca66d25f684370777f8b88caa11fcf615252afaf6def",
+      "publishedAtLabel": "Apr 25"
+    },
+    {
+      "id": 20739,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Antonio Peque\u00f1o IV, Forbes Staff, \n Antonio Peque\u00f1o IV, Forbes Staff\n https://www.forbes.com/sites/antoniopequenoiv/",
+      "title": "Measles Updates: Cases In The U.S. Near 900 As Texas Outbreak Spreads",
+      "description": "Texas remains the state with the highest number of cases, by far.",
+      "url": "https://www.forbes.com/sites/antoniopequenoiv/2025/04/25/measles-updates-illinois-reports-first-case-of-2025/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67b8dc34f003eb75b733dff5/0x0.jpg?format=jpg&crop=3039,2027,x0,y0,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-04-25 17:37:10",
+      "content": "The Centers for Disease Control and Prevention confirmed nearly 900 measles cases in the U.S. on Friday, though much of the measles cases in the country remain centered in Texas, which confirmed earl\u2026 [+8153 chars]",
+      "retrievedAt": "2025-04-26 19:05:41.990149",
+      "internal_id": "2246f158059473b3e7725153448862a465c5afc8398308d9deaa7e50f7af9cef",
+      "publishedAtLabel": "Apr 25"
+    },
+    {
+      "id": 20746,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Manitoba health officials urge vaccinations as number of measles cases climbs",
+      "description": "Manitoba health authorities are working to build trust with southern communities where immunization rates are low, in order to prevent a full-scale measles outbreak.",
+      "url": "https://www.cbc.ca/news/canada/manitoba/measles-immunization-outbreak-manitoba-1.7518521",
+      "urlToImage": "https://i.cbc.ca/1.7478844.1742487000!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/measles.jpg?im=Resize%3D620",
+      "publishedAt": "2025-04-25 16:35:25",
+      "content": "Manitoba health authorities are working to build trust with southern communities where immunization rates are low, in order to prevent a full-scale measles outbreak. \"We are definitely seeing a chan\u2026 [+3471 chars]",
+      "retrievedAt": "2025-04-26 19:05:42.319050",
+      "internal_id": "79557c49d5c9894c01c4201966352d992d88105a2bf77bd628bab74c3d29f76e",
+      "publishedAtLabel": "Apr 25"
+    },
+    {
+      "id": 20743,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Insurance Journal",
+      "author": "Admin",
+      "title": "Dallas Area Reports First Measles Case, in Middle School Child",
+      "description": "A middle schooler in the Dallas-Fort Worth area has tested positive for measles, the first known case in the urban area, a health official from Collin County confirmed. The young person is located in Lucas, about 30 miles north of \u2026",
+      "url": "https://www.insurancejournal.com/news/southcentral/2025/04/25/821380.htm",
+      "urlToImage": "https://www.insurancejournal.com/img/social/opengraph/ij-social-default-1200x630.png",
+      "publishedAt": "2025-04-25 16:15:18",
+      "content": "A middle schooler in the Dallas-Fort Worth area has tested positive for measles, the first known case in the urban area, a health official from Collin County confirmed. The young person is located i\u2026 [+1065 chars]",
+      "retrievedAt": "2025-04-26 19:05:42.139956",
+      "internal_id": "5a96c022f9070dc52978f07ba98cbf60869ac9c72358832a9560cd20e4a5fbcc",
+      "publishedAtLabel": "Apr 25"
+    },
+    {
+      "id": 20744,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Coed.com",
+      "author": "Dennis",
+      "title": "Measles Cases In Texas Surpass 600 As Infections Spread To 29 States",
+      "description": "The Texas measles outbreak has ballooned to 624 cases this week, according to the Texas Department of State Health Services. The virus has now spread to 29 states nationwide \u2014 a dramatic increase from just weeks ago.",
+      "url": "https://coed.com/2025/04/25/measles-cases-in-texas-surpass-600-as-infections-spread-to-29-states/",
+      "urlToImage": "https://coed.com/wp-content/uploads/2025/04/shutterstock_2034839474.jpg",
+      "publishedAt": "2025-04-25 16:02:16",
+      "content": "The Texas measles outbreak has ballooned to 624 cases this week, according to the Texas Department of State Health Services. The virus has now spread to 29 states nationwide a dramatic increase from \u2026 [+2141 chars]",
+      "retrievedAt": "2025-04-26 19:05:42.210131",
+      "internal_id": "081c4dc3620fbfada12f7504e3f25b516568eccca2cad5f8d7344937b34ab122",
+      "publishedAtLabel": "Apr 25"
+    },
+    {
+      "id": 20758,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Danielle Seabra Ramos, Lilian Ferreira Muniz, Mariana de Carvalho Leal, Dem\u00f3crito de Barros Miranda Filho, Ricardo Arraes de Alencar Ximenes, Elizabeth Brickley, Thalia Velho Barreto de Araujo, Celina Maria Turchi Martelli, Silvio da Silva Caldas Neto",
+      "title": "Late-onset hearing loss was not observed among preschool- aged children with prenatal Zika virus exposure: An analysis of the Microcephaly Epidemic Research Group Pediatric Cohort (2015\u20132019)",
+      "description": "Author summary Our study investigates the auditory outcomes of prenatal Zika virus (ZIKV) exposure, with a specific focus on hearing loss in children exposed to ZIKV during fetal life. Over a longitudinal follow-up of four years, this study evaluated children\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013033",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013033.g002&size=inline",
+      "publishedAt": "2025-04-25 14:00:00",
+      "content": "Abstract Zika virus (ZIKV) infection during pregnancy can lead to Congenital Zika Syndrome (CZS), with significant impacts on early childhood development. This study aimed to analyze the natural his\u2026 [+36510 chars]",
+      "retrievedAt": "2025-04-26 19:05:45.256968",
+      "internal_id": "b56cfc5c00dfa8e3b4cdb5c8a80f508e8ec31e62eb098041e7c4df3f63d2e792",
+      "publishedAtLabel": "Apr 25"
+    },
+    {
+      "id": 20757,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Syllad.com",
+      "author": "Syllad | The Rising Meghalaya",
+      "title": "Arunachal marks World Malaria Day with big win: 16 districts declared malaria-free",
+      "description": "The National Centre for Vector Borne Diseases Control (NCVBDC), under the Department of Health Services, Arunachal Pradesh, marked World Malaria Day 2025 with a strong message: \u201cMalaria Ends With Us: Reinvest, Reimagine, Reignite.\u201d The event, held at the DHS \u2026",
+      "url": "https://www.syllad.com/arunachal-marks-world-malaria-day-with-big-win-16-districts-declared-malaria-free/",
+      "urlToImage": null,
+      "publishedAt": "2025-04-25 13:47:01",
+      "content": "Syllad | The Rising MeghalayaApril 25, 2025 The National Centre for Vector Borne Diseases Control (NCVBDC), under the Department of Health Services, Arunachal Pradesh, marked World Malaria Day 2025 \u2026 [+1605 chars]",
+      "retrievedAt": "2025-04-26 19:05:44.887342",
+      "internal_id": "f6006097563c02873bebd67cb09a281bb48ecd3b420f134094b1004b52bbe5f7",
+      "publishedAtLabel": "Apr 25"
+    },
+    {
+      "id": 20742,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Crooksandliars.com",
+      "author": "Steve in Manhattan",
+      "title": "Mike's Blog Roundup",
+      "description": "Diane Ravitch's Blog - Randi Weingarten: Trump's war on knowledge; Just Another Blog (from LA) - more measles and mass murder; The Incidental Economist - VA healthcare wait times; xpostfactoid - cut Medicare, not Medicaid; You Might Notice a Trend - the stupi\u2026",
+      "url": "https://crooksandliars.com/2025/04/mikes-blog-roundup-hold-friday",
+      "urlToImage": "https://crooksandliars.com/files/embeds/2025/04/65180.jpg",
+      "publishedAt": "2025-04-25 11:09:58",
+      "content": "Diane Ravitch's Blog - Randi Weingarten: Trump's war on knowledge; Just Another Blog (from LA) - more measles and mass murder; The Incidental Economist - VA healthcare wait times; xpostfactoid - c\u2026 [+280 chars]",
+      "retrievedAt": "2025-04-26 19:05:42.048760",
+      "internal_id": "4a912e992fb9141d1043add0c93d7de10143266570ad92b74e92fb0e492adf2e",
+      "publishedAtLabel": "Apr 25"
+    },
+    {
+      "id": 20745,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Alberta in the midst of worst measles outbreak since 1997 as doctors call for action",
+      "description": "Alberta\u2019s measles outbreak is now the worst recorded in nearly three decades and that has health experts raising the alarm and renewing calls for stronger messaging from the provincial government.",
+      "url": "https://www.cbc.ca/news/canada/calgary/alberta-worst-measles-outbreak-doctors-call-for-action-1.7518042",
+      "urlToImage": "https://i.cbc.ca/1.7508947.1744474099!/cantoImage/httpImage/image.jpg_gen/derivatives/16x9_1180/shutterstock-measles.jpg?im=Resize%3D620",
+      "publishedAt": "2025-04-25 11:00:00",
+      "content": "Alberta's measles outbreak is now the worst recorded in nearly three decades and that has health experts raising the alarm and renewing calls for stronger messaging from the provincial government. T\u2026 [+6771 chars]",
+      "retrievedAt": "2025-04-26 19:05:42.262229",
+      "internal_id": "9ce278063b44cddf355d96db70b5f721f03dcb7b3d3a5a95f7f8d2a67b430670",
+      "publishedAtLabel": "Apr 25"
+    },
+    {
+      "id": 20748,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "DIE WELT",
+      "author": "Sonja Kastilan",
+      "title": "Nur einmal sprang H5N1 \u00fcber \u2013 und verseucht seither die US-Rinderherden",
+      "description": "Vor einem Jahr schreckte die Nachricht eines \u201eArtensprunges\u201c in den USA weltweit Virologen auf. Dass die Vogelgrippe nach wie vor in Rinderherden grassiert, ist hochgef\u00e4hrlich. Nun weisen Forscher nach, wie es zu dieser Epidemie kam.",
+      "url": "https://www.welt.de/wissenschaft/article256006230/Vogelgrippe-Nur-einmal-sprang-H5N1-ueber-auf-die-US-Kuehe.html",
+      "urlToImage": "https://img.welt.de/img/wissenschaft/mobile256008624/1827935367-ci16x9-w1200/Dairy-cows-stand-in-the-corral-of-a.jpg",
+      "publishedAt": "2025-04-25 10:29:23",
+      "content": "Vor einem Jahr schreckte die Nachricht eines Artensprunges in den USA weltweit Virologen auf. Dass die Vogelgrippe nach wie vor in Rinderherden grassiert, ist hochgef\u00e4hrlich. Nun weisen Forscher nach\u2026 [+3836 chars]",
+      "retrievedAt": "2025-04-26 19:05:43.223115",
+      "internal_id": "0996027cc816057a57a5ce0c08ba22c62327f66d24e9caf71f300773e2db517a",
+      "publishedAtLabel": "Apr 25"
+    },
+    {
+      "id": 20751,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "tagesschau.de",
+      "author": null,
+      "title": "Welt-Malaria-Tag: \"Niemand m\u00fcsste an Malaria sterben\"",
+      "description": "Bis zu 300 Millionen Menschen stecken sich j\u00e4hrlich weltweit mit Malaria an - etwa 650.000 sterben - die meisten von ihnen Kinder. Dabei gibt es Behandlungsm\u00f6glichkeiten, sagt der T\u00fcbinger Infektiologe Peter Kremsner.",
+      "url": "https://www.tagesschau.de/wissen/gesundheit/interview-malaria-100.html",
+      "urlToImage": "https://images.tagesschau.de/image/1e5e7d2b-b5be-45a2-b53e-c1293c6b558c/AAABlmxlyYo/AAABkZLhkrw/16x9-1280/malaria-132.jpg",
+      "publishedAt": "2025-04-25 10:02:12",
+      "content": "Stand: 25.04.2025 12:02 Uhr Bis zu 300 Millionen Menschen stecken sich j\u00e4hrlich weltweit mit Malaria an - etwa 650.000 sterben - die meisten von ihnen Kinder. Dabei gibt es Behandlungsm\u00f6glichkeiten,\u2026 [+6499 chars]",
+      "retrievedAt": "2025-04-26 19:05:44.711870",
+      "internal_id": "16da505d14870a8aa1805fa8914ff88fe888b9601b842e71e6d081374be77661",
+      "publishedAtLabel": "Apr 25"
+    },
+    {
+      "id": 20752,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Berliner Morgenpost",
+      "author": "Paulina Cwiartka",
+      "title": "Gentechnik gegen Malaria: Deutsches Team erzielt Durchbruch",
+      "description": "Ein neuer Ansatz k\u00f6nnte den Malaria-Erreger stoppen und die Ausbreitung verhindern. Was macht diesen Wirkstoff so vielversprechend?",
+      "url": "https://www.morgenpost.de/panorama/article408860516/gentechnik-gegen-malaria-deutsches-team-erzielt-durchbruch.html",
+      "urlToImage": "https://img.sparknews.funkemedien.de/408860410/408860410_1745567671_v16_9_1600.jpeg",
+      "publishedAt": "2025-04-25 09:59:33",
+      "content": "Berlin. Ein neuer Ansatz k\u00f6nnte den Malaria-Erreger stoppen und die Ausbreitung verhindern. Was macht diesen Wirkstoff so vielversprechend? J\u00e4hrlich erkranken Millionen Menschen an Malaria einer pot\u2026 [+2728 chars]",
+      "retrievedAt": "2025-04-26 19:05:44.741313",
+      "internal_id": "85e4adb2f3787e8454b69bf04fb2fd6901db39f00c2a5b2e563ed95752d91ab0",
+      "publishedAtLabel": "Apr 25"
+    },
+    {
+      "id": 20747,
+      "query": [
+        "measles"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Global Desk",
+      "title": "Ontario measles outbreak crosses 1000; Quebec, New Brunswick declare infection over",
+      "description": "Ontario is grappling with a significant measles outbreak, reporting over 1,000 cases, overwhelming public health resources. While Quebec and New Brunswick have contained their outbreaks, Ontario's cases continue to rise, with hospitalizations and ICU admissio\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/canada/ontario-measles-outbreak-crosses-1000-quebec-new-brunswick-declare-infection-over/articleshow/120614424.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-120614571,width-1200,height-630,imgsize-134044,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-04-25 09:29:31",
+      "content": "Ontario is facing a massive medical scare with outbreak of measles overwhelming its public health infrastructure. The most populous province of Canada has 1,020 measles cases, with 884 infected peopl\u2026 [+2302 chars]",
+      "retrievedAt": "2025-04-26 19:05:42.341677",
+      "internal_id": "e260cb6797b4a65bfe9cefcb5bfbbe1ad017237a0e8a7de71248591e9e07c79b",
+      "publishedAtLabel": "Apr 25"
+    },
+    {
+      "id": 20756,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Antaranews.com",
+      "author": "Mecca Yumna, Raka Adji",
+      "title": "Ministry targets 8 million malaria tests amid rising cases",
+      "description": "The Ministry of Health stated that it aims to conduct 8 million malaria tests to identify 1.1 million cases of malaria in Indonesia, as estimated by the World ...",
+      "url": "https://en.antaranews.com/news/352857/ministry-targets-8-million-malaria-tests-amid-rising-cases",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2025/04/25/image.jpg",
+      "publishedAt": "2025-04-25 08:21:19",
+      "content": "Jakarta (ANTARA) - The Ministry of Health stated that it aims to conduct 8 million malaria tests to identify 1.1 million cases of malaria in Indonesia, as estimated by the World Health Organization (\u2026 [+1784 chars]",
+      "retrievedAt": "2025-04-26 19:05:44.879302",
+      "internal_id": "f5b22bdb5edc4a9238e954f909671b21b40f33540409b604b41cd6ed63437e21",
+      "publishedAtLabel": "Apr 25"
+    },
+    {
+      "id": 20750,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Der Tagesspiegel",
+      "title": "Ursprung von H5N1: Vogelgrippe-Ausbruch bei K\u00fchen geht auf einen einzigen Wildvogel zur\u00fcck",
+      "description": "Genomdaten legen nahe, dass ein einzelner Kontakt mit einem infizierten Wildvogel den H5N1-Ausbruch unter US-Rindern ausgel\u00f6st hat. Seitdem breitet sich das Virus weiter aus.",
+      "url": "https://www.tagesspiegel.de/wissen/ursprung-von-h5n1-vogelgrippe-ausbruch-bei-kuhen-geht-auf-einen-einzigen-wildvogel-zuruck-13591303.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/13591309/alternates/BASE_16_9_W1400/1745567531000/vogelgrippe-in-den-usa.jpeg",
+      "publishedAt": "2025-04-25 07:52:16",
+      "content": "Der im vergangenen Jahr entdeckte Vogelgrippe-Ausbruch bei K\u00fchen in den USA l\u00e4sst sich einer neuen Studie zufolge auf einen einzigen Wildvogel-Kontakt zur\u00fcckverfolgen. Dieser Kontakt habe wahrscheinl\u2026 [+2107 chars]",
+      "retrievedAt": "2025-04-26 19:05:43.246495",
+      "internal_id": "0def9a63a27dd765e5a20ab42534249f48b5be19d76a84d8ed0106aa163fea2b",
+      "publishedAtLabel": "Apr 25"
+    },
+    {
+      "id": 20754,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": "Manya Singh",
+      "title": "World Malaria Day 2025: Keep These Tips In Mind To Stay Safe",
+      "description": "World Malaria Day 2025: Alongside treatment, preventive tips are crucial in protecting individuals from this life-threatening illness. Keep reading as we share some tips.",
+      "url": "https://www.ndtv.com/health/world-malaria-day-2025-keep-these-tips-in-mind-to-stay-safe-8245807",
+      "urlToImage": "https://c.ndtvimg.com/2025-04/q7li2fo_malaria_625x300_16_April_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "publishedAt": "2025-04-25 07:35:21",
+      "content": "World Malaria Day, observed every year on April 25th, is a global initiative organised by the World Health Organisation (WHO) to raise awareness about malaria and promote actions to control, prevent,\u2026 [+3655 chars]",
+      "retrievedAt": "2025-04-26 19:05:44.819948",
+      "internal_id": "d237e5d3c685851d12506279ccb31db8287b38051744cafbf7bcbee70f008dbe",
+      "publishedAtLabel": "Apr 25"
+    },
+    {
+      "id": 20741,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Sciencebasedmedicine.org",
+      "author": "Jonathan Howard",
+      "title": "Our Current Medical Establishment Would Have Botched COVID, The Same Way They Are Botching Measles",
+      "description": "Those of us who paid attention to their COVID wishcasting are not the least bit surprised that measles is killing and injuring children under their watch. The post Our Current Medical Establishment Would Have Botched COVID, The Same Way They Are Botching Meas\u2026",
+      "url": "https://sciencebasedmedicine.org/measlesfail/",
+      "urlToImage": "https://sciencebasedmedicine.org/wp-content/uploads/2025/04/image-19.png",
+      "publishedAt": "2025-04-25 07:32:00",
+      "content": "What would you have done? Recently, an interviewer sympathetic to the Great Barrington Declaration (GBD) listened to my criticisms of it and asked me: What would you have done? That question has me \u2026 [+8911 chars]",
+      "retrievedAt": "2025-04-26 19:05:42.040658",
+      "internal_id": "e580d2e5adf0f87b27972c66167da719cc81c1c64bac9fbaf1f8c08dfb2bdb44",
+      "publishedAtLabel": "Apr 25"
+    },
+    {
+      "id": 20755,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Sh\u00fcn\u00e9 Oliver, Medical scientist, National Institute for Communicable Diseases, Jaishree Raman, Principal Medical Scientist and Head of Laboratory for Antimalarial Resistance Monitoring and Malaria Operational Research, National Institute for Communicable Diseases",
+      "title": "Malaria scorecard: battles have been won and advances made, but the war isn\u2019t over",
+      "description": "Anopheles mosquitoes transmit malaria.",
+      "url": "https://theconversation.com/malaria-scorecard-battles-have-been-won-and-advances-made-but-the-war-isnt-over-255230",
+      "urlToImage": "https://images.theconversation.com/files/663852/original/file-20250424-68-v4i2o1.jpg?ixlib=rb-4.1.0&rect=0%2C51%2C725%2C362&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2025-04-25 07:22:20",
+      "content": "Sub-Saharan Africa continues to bear the brunt of malaria cases in the world. In this region 11 countries account for two-thirds of the global burden. World Malaria Day is marked on 25 April. What p\u2026 [+6918 chars]",
+      "retrievedAt": "2025-04-26 19:05:44.856482",
+      "internal_id": "e8d8ec34f551b336262b7c7438dac62ea4a161a8f2ffba8f08f658f9ef12a28c",
+      "publishedAtLabel": "Apr 25"
+    },
+    {
+      "id": 20753,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": "Varsha Vats",
+      "title": "World Malaria Day 2025: Tips For Quick Recovery",
+      "description": "The theme for World Malaria Day 2025 is Malaria Ends With Us: Reinvest, Reimagine, Reignite. This year&#039;s theme aims to re-energize efforts at all levels, from global policy to community action, to accelerate progress towards malaria elimination.",
+      "url": "https://www.ndtv.com/health/world-malaria-day-2025-theme-and-significance-tips-for-quick-recovery-8252337",
+      "urlToImage": "https://c.ndtvimg.com/2025-04/q7li2fo_malaria_625x300_16_April_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "publishedAt": "2025-04-25 07:19:45",
+      "content": "World Malaria Day is observed on April 25 each year. This day is a global initiative that aims to raise awareness and promote efforts that can help combat malaria. World Malaria Day was established d\u2026 [+2275 chars]",
+      "retrievedAt": "2025-04-26 19:05:44.791000",
+      "internal_id": "49ca5d40b162467b9a890913fcef9176c255e7bc58ad25a0308e40d69f4b83b1",
+      "publishedAtLabel": "Apr 25"
+    },
+    {
+      "id": 20749,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Faz.net",
+      "author": "FAZ.net, ph, dpa-AFX",
+      "title": "Es war nur ein einziger Vogel",
+      "description": "In den USA grassiert seit einem Jahr die Vogelgrippe bei K\u00fchen. Eine Studie zeigt nun, wo der Ursprung der Epidemie liegt",
+      "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/vogelgrippe-nur-ein-kontakt-zu-einem-vogel-reichte-um-tausende-kuehe-zu-infizieren-110438011.html",
+      "urlToImage": "https://media1.faz.net/ppmedia/aktuell/gesellschaft/3695893242/1.9737667/facebook_teaser/anfang-april-meldeten-die-us.jpg",
+      "publishedAt": "2025-04-25 07:08:01",
+      "content": "Vor gut einem Jahr schockte der erste Fall die Experten: Bei Milchk\u00fchen war in den USA das Vogelgrippevirus H5N1 aufgetreten. Zuvor war nicht klar, dass diese Tiere sich \u00fcberhaupt mit dem Virus anste\u2026 [+1962 chars]",
+      "retrievedAt": "2025-04-26 19:05:43.231212",
+      "internal_id": "04e9ff40e1cc731c9bea7ead890f9e2a50985bfb9ad3581b4676e90278a171b9",
+      "publishedAtLabel": "Apr 25"
+    },
     {
       "id": 20738,
       "query": [
@@ -29300,150 +29660,6 @@
       "content": "Maryland health officials issued a warning on Sunday to anyone who passed through Washington Dulles International Airport or was in the Johns Hopkins Howard County Medical Center Pediatric Emergency \u2026 [+4685 chars]",
       "retrievedAt": "2025-03-11 07:06:59.844376",
       "internal_id": "8ec1966572c7adbca8ad2ea11668afed8a157aefe451902711fdf049b32d6bec",
-      "publishedAtLabel": "Mar 9"
-    },
-    {
-      "id": 19094,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Forbes",
-      "author": "Alison Durkee, Forbes Staff, \n Alison Durkee, Forbes Staff\n https://www.forbes.com/sites/alisondurkee/",
-      "title": "Travelers At DC\u2019s Dulles Airport Potentially Exposed To Measles\u2014As Maryland Announces New Case",
-      "description": "The news comes a broader outbreak in Texas and New Mexico.",
-      "url": "https://www.forbes.com/sites/alisondurkee/2025/03/09/travelers-at-dcs-dulles-airport-potentially-exposed-to-measles-as-maryland-announces-new-case/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67cddeb948436fb2f54a4619/0x0.jpg?format=jpg&crop=2277,1281,x0,y87,safe&height=900&width=1600&fit=bounds",
-      "publishedAt": "2025-03-09 18:47:53",
-      "content": "Maryland health officials announced Sunday that a resident who traveled internationally has tested positive for measles, warning that travelers at Washington Dulles Airport on March 5 may have been e\u2026 [+4824 chars]",
-      "retrievedAt": "2025-03-10 19:06:03.197554",
-      "internal_id": "99d9e8975fe965c0682982d77d82ec73d0d6995bd1efbe596ca35a1556328287",
-      "publishedAtLabel": "Mar 9"
-    },
-    {
-      "id": 19096,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Www.dn.se",
-      "author": "Anna Bratt, Jenny Alv\u00e9n",
-      "title": "Blir det sjukdom X? S\u00e5 letar forskarv\u00e4rlden efter smittan som blir n\u00e4sta pandemi",
-      "description": "Forskare letar efter nya smittor som kan starta n\u00e4sta pandemi. F\u00e5gelinfluensan H5N1 \u00e4r bara ett av flera virus som \u00e4r i fokus. I v\u00e4rsta fall blir det \u201dsjukdom X\u201d som drabbar v\u00e4rlden. \u2013 Det \u00e4r vad vi verkligen fruktar, s\u00e4ger professor Ali Mirazimi.",
-      "url": "https://www.dn.se/sverige/blir-det-sjukdom-x-sa-letar-forskarvarlden-efter-smittan-som-blir-nasta-pandemi/",
-      "urlToImage": "https://static.bonniernews.se/gcs/bilder/dn-mly/ee95333e-0aef-4c89-b8e6-2187e6f779a6.jpeg?io=1&width=1024&crop=16:9,smart",
-      "publishedAt": "2025-03-09 18:01:49",
-      "content": "Det har g\u00e5tt fem \u00e5r sedan V\u00e4rldsh\u00e4lsoorganisationen WHO deklarerade att covid-19 var en pandemi. Sedan dess har coronaviruset sars-cov-2 lett till omkring sju miljoner d\u00f6dsfall och har gett m\u00e5nga m\u00e4n\u2026 [+8167 chars]",
-      "retrievedAt": "2025-03-10 19:06:03.982790",
-      "internal_id": "e1e868922073235e3fd286694440e048a86cd085b011dc786ef0efeed288f239",
-      "publishedAtLabel": "Mar 9"
-    },
-    {
-      "id": 19097,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Aajtak.in",
-      "author": "\u0905\u092e\u0928 \u092d\u093e\u0930\u0926\u094d\u0935\u093e\u091c",
-      "title": "\u0915\u0947\u0902\u0926\u094d\u0930 \u0928\u0947 \u092c\u0930\u094d\u0921 \u092b\u094d\u0932\u0942 \u0915\u094b \u0932\u0947\u0915\u0930 9 \u0930\u093e\u091c\u094d\u092f\u094b\u0902 \u0915\u094b \u091c\u093e\u0930\u0940 \u0915\u093f\u092f\u093e \u0905\u0932\u0930\u094d\u091f, \u091c\u093e\u0928\u0947\u0902 H5N1 \u0935\u093e\u092f\u0930\u0938 \u0915\u0947 \u0932\u0915\u094d\u0937\u0923 \u0914\u0930 \u092c\u091a\u093e\u0935 \u0915\u0947 \u0909\u092a\u093e\u092f",
-      "description": "\u0930\u093e\u091c\u094d\u092f\u094b\u0902 \u0938\u0947 \u090f\u0935\u093f\u092f\u0928 \u0907\u0928\u094d\u092b\u094d\u0932\u0942\u090f\u0902\u091c\u093e \u0938\u0947 \u0928\u093f\u092a\u091f\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0928\u0947\u0936\u0928\u0932 \u090f\u0915\u094d\u0936\u0928 \u092a\u094d\u0932\u093e\u0928 \u0915\u093e \u0938\u0916\u094d\u0924\u0940 \u0938\u0947 \u092a\u093e\u0932\u0928 \u0915\u0930\u0928\u0947, \u0915\u094d\u0935\u093f\u0915 \u0930\u093f\u0938\u094d\u092a\u0949\u0928\u094d\u0938 \u091f\u0940\u092e\u094b\u0902 \u0915\u094b \u0938\u0915\u094d\u0930\u093f\u092f \u0915\u0930\u0928\u0947 \u0914\u0930 \u0935\u0947\u091f\u0930\u0928\u0930\u0940 \u0914\u0930 \u0932\u0948\u092c\u094d\u0938 \u0915\u0940 \u0938\u0902\u0916\u094d\u092f\u093e \u092c\u0922\u093c\u093e\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0915\u0939\u093e \u0917\u092f\u093e \u0939\u0948. \u0915\u0947\u0902\u0926\u094d\u0930 \u0928\u0947 \u0915\u0939\u093e \u0939\u0948 \u0915\u093f \u0907\u0928 \u0909\u092a\u093e\u092f\u094b\u0902 \u092a\u0930 \u0924\u0924\u094d\u0915\u093e\u0932 \u0927\u094d\u092f\u093e\u0928 \u0926\u0947\u0928\u0947 \u0938\u0947 \u090f\u0935\u093f\u092f\u0928 \u0907\u0928\u094d\u092b\u094d\u0932\u0942\u090f\u0902\u091c\u093e \u0915\u0947 \u092a\u094d\u0930\u0938\u2026",
-      "url": "https://www.aajtak.in/india/news/story/center-issued-alert-to-9-states-regarding-bird-flu-know-the-symptoms-and-prevention-measures-from-h5n1-virus-ntc-rpti-2185989-2025-03-09",
-      "urlToImage": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202503/67cdb7aa4880d-bird-flu-094541884-16x9.png",
-      "publishedAt": "2025-03-09 16:00:21",
-      "content": ", (H5N1) 9 . (H5N1) . . , ' 2025 9 (H5N1) , . . , .' : , . , . , . . : , H5N1 , - , - . , , , , , , , , , , . , , . . , . . : , . . . . .",
-      "retrievedAt": "2025-03-10 19:06:03.996825",
-      "internal_id": "a24da079e3dc072fad8979033fc31753dba1b8703ac55d7d2fac5b731bc14b25",
-      "publishedAtLabel": "Mar 9"
-    },
-    {
-      "id": 19098,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "New Atlas",
-      "author": "Paul McClure",
-      "title": "Cancer drug realized after researcher's chance exposure to malaria drug",
-      "description": "When experienced researcher Renato Aguilera happened across the chemical structure of a tried-and-true antimalarial drug one day, he thought it might effectively fight cancer. He was right, and he has the research, the patent, and the pharma company to prove \u2026",
-      "url": "https://newatlas.com/cancer/pyronaridine-cancer-treatment/",
-      "urlToImage": "https://assets.newatlas.com/dims4/default/827968a/2147483647/strip/true/crop/2000x1050+0+38/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Ff0%2F36%2Fc9685a8f4e1b9c211fa8163e49fc%2F022425-renato-aguilera-cancer-lm13-medium.jpg&na.image_optimisation=0",
-      "publishedAt": "2025-03-09 15:03:00",
-      "content": "When experienced researcher Renato Aguilera happened across the chemical structure of a tried-and-true antimalarial drug one day, he thought it might effectively fight cancer. He was right, and he ha\u2026 [+3481 chars]",
-      "retrievedAt": "2025-03-10 19:06:04.736659",
-      "internal_id": "725b7a41bc90d9f9d5de5caf588e113a167d924f92646fc1942e02de44927607",
-      "publishedAtLabel": "Mar 9"
-    },
-    {
-      "id": 19095,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "ansa",
-      "source_name": "ANSA.it",
-      "author": null,
-      "title": "Esperti su Science, prepararsi in tempo a una pandemia di aviaria",
-      "description": "Con i vaccini e una buona informazione (ANSA)",
-      "url": "https://www.ansa.it/canale_scienza/notizie/biotech/2025/03/08/esperti-su-science-prepararsi-in-tempo-a-una-pandemia-di-aviaria_3d46145a-8dba-4e32-98b7-d5ffe4b3cc9a.html",
-      "urlToImage": "https://www.ansa.it/webimages/img_1129x635/2025/3/8/78398e626774b33ea8e1b5bc652e1688.jpg",
-      "publishedAt": "2025-03-09 08:31:03",
-      "content": "Una lettera pubblicata sulla rivista Science esorta governi, mondo dellindustria e comunit\u00e0 scientifica a prepararsi a una possibile pandemia di influenza aviaria provocata dal virus H5N1. Prepararci\u2026 [+3698 chars]",
-      "retrievedAt": "2025-03-10 19:06:03.962453",
-      "internal_id": "8326eacf252d81590f1e789ad9e53972f066d1485b3bcbd240ffaee47f0d4782",
-      "publishedAtLabel": "Mar 9"
-    },
-    {
-      "id": 19099,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "cbc-news",
-      "source_name": "CBC News",
-      "author": null,
-      "title": "Former USAID head warns disease outbreaks could grow after cuts to agency",
-      "description": "The former administrator of the U.S. Agency for International Development says major funding cuts to the agency could lead to more cases of diseases like paralytic polio and malaria.",
-      "url": "https://www.cbc.ca/news/politics/former-usaid-administrator-samantha-power-1.7477750",
-      "urlToImage": "https://i.cbc.ca/1.7478098.1741378491!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_1180/cambodia-usaid.jpg?im=Resize%3D620",
-      "publishedAt": "2025-03-09 08:00:00",
-      "content": "The former administrator of the U.S. Agency for International Development (USAID) says major funding cuts to the agency could lead to more cases of diseases like paralytic polio and malaria. In an \u2026 [+3031 chars]",
-      "retrievedAt": "2025-03-10 19:06:04.744618",
-      "internal_id": "60bb2a4aa94f6bed3814ac8edb9240b71c3e8ccfeb8c55226154ce89f8a7e3dc",
-      "publishedAtLabel": "Mar 9"
-    },
-    {
-      "id": 19100,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "svenska-dagbladet",
-      "source_name": "Svenska Dagbladet",
-      "author": "TT TT-AP",
-      "title": "100 000 kan d\u00f6 i malaria n\u00e4r USA stryper bist\u00e5nd",
-      "description": "Ingen sjukdom i Afrika \u00e4r d\u00f6dligare \u00e4n malaria \u2013 s\u00e4rskilt f\u00f6r barn. Men Donald Trumps nedsk\u00e4rningar i USA:s bist\u00e5nd f\u00f6rsvagar kampen mot infektionen, varnar experter. Tusentals kan d\u00f6.",
-      "url": "https://www.svd.se/a/1MzgVB/100000-kan-do-i-malaria-nar-usa-stryper-bistand",
-      "urlToImage": "https://svd.vgc.no/v2/images/5aa8e113-c5ee-44d5-8961-69ab807db191?h=630&q=80&upscale=true&w=1200&s=f17195712baf0fdde4cef363e8f6e553c600bc62",
-      "publishedAt": "2025-03-09 07:47:51",
-      "content": "Fler \u00e4n tusen barn under fem \u00e5rs \u00e5lder n\u00e4stan ett varje minut d\u00f6r enligt Unicef dagligen av malaria. M\u00e5nga av d\u00f6dsfallen hade enligt FN-organet kunnat undvikas med f\u00f6rebyggande insatser och r\u00e4tt beha\u2026 [+267 chars]",
-      "retrievedAt": "2025-03-10 19:06:04.758983",
-      "internal_id": "28a95284b4932d2f8b830ab4fe35133f8025df6bb0d7db6d5d36c0116a28852a",
-      "publishedAtLabel": "Mar 9"
-    },
-    {
-      "id": 19101,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Aftonbladet.se",
-      "author": "TT",
-      "title": "100 000 kan d\u00f6 i malaria n\u00e4r USA stryper bist\u00e5nd",
-      "description": "Ingen sjukdom i Afrika \u00e4r d\u00f6dligare \u00e4n malaria \u2013 s\u00e4rskilt f\u00f6r barn. Men Donald Trumps nedsk\u00e4rningar i USA:s bist\u00e5nd f\u00f6rsvagar kampen mot infektionen, varnar exp",
-      "url": "https://www.aftonbladet.se/nyheter/a/vgpvwm/100000-kan-do-i-malaria-nar-usa-stryper-bistand",
-      "urlToImage": "https://images.aftonbladet-cdn.se/v2/images/6585662c-7906-4caa-b155-705b962ba439?fit=crop&format=auto&h=1268&q=50&w=1900&s=83c746aa799a51f9446fc97d743f2b6ef743fbdb",
-      "publishedAt": "2025-03-09 07:47:50",
-      "content": "Ingen sjukdom i Afrika \u00e4r d\u00f6dligare \u00e4n malaria s\u00e4rskilt f\u00f6r barn. Men Donald Trumps nedsk\u00e4rningar i USA:s bist\u00e5nd f\u00f6rsvagar kampen mot infektionen, varnar experter. Tusentals kan d\u00f6. Fler \u00e4n tusen \u2026 [+2341 chars]",
-      "retrievedAt": "2025-03-10 19:06:04.780164",
-      "internal_id": "e48f203f939ab33c80adc61d96bad91de208ccde1f7a4ca3d3ec7b55700f0dd3",
       "publishedAtLabel": "Mar 9"
     }
   ]

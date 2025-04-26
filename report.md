@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 19
-- **Last harvest:** 2025-04-26 07:06
-- **Most recent article:** 2025-04-25 03:18:00
+- **New articles in last harvest:** 20
+- **Last harvest:** 2025-04-26 19:05
+- **Most recent article:** 2025-04-25 18:00:00
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-11 | 25-12 | 25-13 | 25-14 | 25-15 | 25-16 | 25-17 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 132 | 108 | 101 | 77 | 145 | 82 | 79 | 724 |
-| h5n1 | 38 | 57 | 47 | 46 | 66 | 9 | 11 | 274 |
+| measles | 131 | 108 | 101 | 77 | 145 | 82 | 88 | 732 |
+| h5n1 | 35 | 57 | 47 | 46 | 66 | 9 | 14 | 274 |
 | chikungunya | 1 | 17 | 10 | 17 | 15 | 39 | 36 | 135 |
+| malaria | 17 | 18 | 30 | 13 | 10 | 14 | 29 | 131 |
 | dengue | 12 | 18 | 20 | 14 | 24 | 30 | 13 | 131 |
-| malaria | 21 | 18 | 30 | 13 | 10 | 14 | 22 | 128 |
 | mpox | 14 | 8 | 12 | 17 | 18 | 10 | 1 | 80 |
 | meningitis | 9 | 7 | 10 | 6 | 10 | 9 | 10 | 61 |
 | rabies | 7 | 3 | 19 | 7 | 7 | 0 | 2 | 45 |
 | hpai | 3 | 12 | 2 | 4 | 3 | 5 | 0 | 29 |
-| zika | 0 | 2 | 3 | 4 | 7 | 7 | 1 | 24 |
+| zika | 0 | 2 | 3 | 4 | 7 | 7 | 2 | 25 |
 | pertussis | 5 | 1 | 0 | 7 | 2 | 5 | 3 | 23 |
 | typhoid | 8 | 0 | 1 | 2 | 2 | 3 | 3 | 19 |
 | yersinia | 2 | 2 | 3 | 0 | 0 | 0 | 0 | 7 |
@@ -33,6 +33,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 25-17 (zika)
+
+- [Late-onset hearing loss was not observed among preschool- aged children with prenatal Zika virus exposure: An analysis of the Microcephaly Epidemic Research Group Pediatric Cohort (2015–2019)](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013033) (Plos.org)
 
 - [Mosquito Repellent Market Anticipated to Hit USD 11.64 Billion by 2032 | Surge in Vector-Borne Diseases and Outdoor Activities Fuels Growth](https://www.globenewswire.com/news-release/2025/04/24/3067590/0/en/Mosquito-Repellent-Market-Anticipated-to-Hit-USD-11-64-Billion-by-2032-Surge-in-Vector-Borne-Diseases-and-Outdoor-Activities-Fuels-Growth.html) (GlobeNewswire)
 
@@ -85,6 +87,24 @@ Source: [News API](https://newsapi.org/)
 - [Cegah Meningitis, 500 Petugas Haji Jalani Vaksinasi Gratis](https://www.liputan6.com/health/read/5999635/cegah-meningitis-500-petugas-haji-jalani-vaksinasi-gratis) (Liputan6.com)
 
 ## 25-17 (measles)
+
+- ['We're already on the precipice of disaster': Deadly measles outbreaks could explode across the US in the next 25 years if vaccinations fall, model predicts](https://www.livescience.com/health/viruses-infections-disease/were-already-on-the-precipice-of-disaster-deadly-measles-outbreaks-could-explode-across-the-us-in-the-next-25-years-if-vaccinations-fall-model-predicts) (Live Science)
+
+- [Measles Updates: Cases In The U.S. Near 900 As Texas Outbreak Spreads](https://www.forbes.com/sites/antoniopequenoiv/2025/04/25/measles-updates-illinois-reports-first-case-of-2025/) (Forbes)
+
+- [Manitoba health officials urge vaccinations as number of measles cases climbs](https://www.cbc.ca/news/canada/manitoba/measles-immunization-outbreak-manitoba-1.7518521) (CBC News)
+
+- [Dallas Area Reports First Measles Case, in Middle School Child](https://www.insurancejournal.com/news/southcentral/2025/04/25/821380.htm) (Insurance Journal)
+
+- [Measles Cases In Texas Surpass 600 As Infections Spread To 29 States](https://coed.com/2025/04/25/measles-cases-in-texas-surpass-600-as-infections-spread-to-29-states/) (Coed.com)
+
+- [Mike's Blog Roundup](https://crooksandliars.com/2025/04/mikes-blog-roundup-hold-friday) (Crooksandliars.com)
+
+- [Alberta in the midst of worst measles outbreak since 1997 as doctors call for action](https://www.cbc.ca/news/canada/calgary/alberta-worst-measles-outbreak-doctors-call-for-action-1.7518042) (CBC News)
+
+- [Ontario measles outbreak crosses 1000; Quebec, New Brunswick declare infection over](https://economictimes.indiatimes.com/news/international/canada/ontario-measles-outbreak-crosses-1000-quebec-new-brunswick-declare-infection-over/articleshow/120614424.cms) (The Times of India)
+
+- [Our Current Medical Establishment Would Have Botched COVID, The Same Way They Are Botching Measles](https://sciencebasedmedicine.org/measlesfail/) (Sciencebasedmedicine.org)
 
 - [AHS warns of potential exposures as more measles cases confirmed in Lethbridge](https://www.cbc.ca/news/canada/calgary/lethbridge-measles-potential-exposure-april-24-2025-1.7518314) (CBC News)
 
@@ -246,6 +266,20 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-17 (malaria)
 
+- [Arunachal marks World Malaria Day with big win: 16 districts declared malaria-free](https://www.syllad.com/arunachal-marks-world-malaria-day-with-big-win-16-districts-declared-malaria-free/) (Syllad.com)
+
+- [Welt-Malaria-Tag: "Niemand müsste an Malaria sterben"](https://www.tagesschau.de/wissen/gesundheit/interview-malaria-100.html) (tagesschau.de)
+
+- [Gentechnik gegen Malaria: Deutsches Team erzielt Durchbruch](https://www.morgenpost.de/panorama/article408860516/gentechnik-gegen-malaria-deutsches-team-erzielt-durchbruch.html) (Berliner Morgenpost)
+
+- [Ministry targets 8 million malaria tests amid rising cases](https://en.antaranews.com/news/352857/ministry-targets-8-million-malaria-tests-amid-rising-cases) (Antaranews.com)
+
+- [World Malaria Day 2025: Keep These Tips In Mind To Stay Safe](https://www.ndtv.com/health/world-malaria-day-2025-keep-these-tips-in-mind-to-stay-safe-8245807) (NDTV News)
+
+- [Malaria scorecard: battles have been won and advances made, but the war isn’t over](https://theconversation.com/malaria-scorecard-battles-have-been-won-and-advances-made-but-the-war-isnt-over-255230) (The Conversation Africa)
+
+- [World Malaria Day 2025: Tips For Quick Recovery](https://www.ndtv.com/health/world-malaria-day-2025-theme-and-significance-tips-for-quick-recovery-8252337) (NDTV News)
+
 - [इलाज के बिना मलेरिया कैसे हो सकता है जानलेवा! बचाव के लिए अपनाएं ये तरीके](https://www.aajtak.in/lifestyle/news/story/world-malaria-day-2025-do-you-also-have-malaria-these-methods-to-prevent-it-malaria-cause-tmovx-dskc-2218641-2025-04-25) (Aajtak.in)
 
 - [Malaria fight in jeopardy, and bone collecting caterpillars](https://www.thenakedscientists.com/podcasts/naked-scientists-podcast/malaria-fight-jeopardy-and-bone-collecting-caterpillars) (The Naked Scientists)
@@ -291,6 +325,12 @@ Source: [News API](https://newsapi.org/)
 - [Endgame malaria](https://www.thehindubusinessline.com/specials/pulse/endgame-malaria/article69457631.ece) (BusinessLine)
 
 ## 25-17 (h5n1)
+
+- [Nur einmal sprang H5N1 über – und verseucht seither die US-Rinderherden](https://www.welt.de/wissenschaft/article256006230/Vogelgrippe-Nur-einmal-sprang-H5N1-ueber-auf-die-US-Kuehe.html) (DIE WELT)
+
+- [Ursprung von H5N1: Vogelgrippe-Ausbruch bei Kühen geht auf einen einzigen Wildvogel zurück](https://www.tagesspiegel.de/wissen/ursprung-von-h5n1-vogelgrippe-ausbruch-bei-kuhen-geht-auf-einen-einzigen-wildvogel-zuruck-13591303.html) (Der Tagesspiegel)
+
+- [Es war nur ein einziger Vogel](https://www.faz.net/aktuell/wissen/medizin-ernaehrung/vogelgrippe-nur-ein-kontakt-zu-einem-vogel-reichte-um-tausende-kuehe-zu-infizieren-110438011.html) (Faz.net)
 
 - [Hallada la 'zona cero' de la crisis de gripe aviar en Estados Unidos: solo hizo falta un único contagio de un ave a una vaca](https://www.elespanol.com/ciencia/salud/20250425/hallada-zona-cero-crisis-gripe-aviar-unidos-solo-hizo-falta-unico-contagio-ave-vaca/1003743728693_0.html) (Elespanol.com)
 
@@ -3402,8 +3442,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles Exposure Warning Issued for Washington Dulles Airport: What to Know](https://www.newsweek.com/measles-exposure-warning-issued-washington-dulles-airport-2041910) (Newsweek)
 
-- [Travelers At DC’s Dulles Airport Potentially Exposed To Measles—As Maryland Announces New Case](https://www.forbes.com/sites/alisondurkee/2025/03/09/travelers-at-dcs-dulles-airport-potentially-exposed-to-measles-as-maryland-announces-new-case/) (Forbes)
-
 ## 25-11 (malaria)
 
 - [Health Ministry dismisses claims of critical shortages of malaria drugs](https://nbcnews.na/node/109907) (Nbcnews.na)
@@ -3439,14 +3477,6 @@ Source: [News API](https://newsapi.org/)
 - [Microbiota de pingüinos, esperanza inmunológica contra la malaria o la leishmaniasis](https://www.montevideo.com.uy/Salud/Microbiota-de-pinguinos-esperanza-inmunologica-contra-la-malaria-o-la-leishmaniasis-uc917240) (Montevideo.com.uy)
 
 - [Revolucionario enfoque genético contra la malaria: un parásito modificado podría ser la clave para una vacuna efectiva](http://www.muyinteresante.com/salud/enfoque-genetico-contra-la-malaria.html) (Muyinteresante.com)
-
-- [Cancer drug realized after researcher's chance exposure to malaria drug](https://newatlas.com/cancer/pyronaridine-cancer-treatment/) (New Atlas)
-
-- [Former USAID head warns disease outbreaks could grow after cuts to agency](https://www.cbc.ca/news/politics/former-usaid-administrator-samantha-power-1.7477750) (CBC News)
-
-- [100 000 kan dö i malaria när USA stryper bistånd](https://www.svd.se/a/1MzgVB/100000-kan-do-i-malaria-nar-usa-stryper-bistand) (Svenska Dagbladet)
-
-- [100 000 kan dö i malaria när USA stryper bistånd](https://www.aftonbladet.se/nyheter/a/vgpvwm/100000-kan-do-i-malaria-nar-usa-stryper-bistand) (Aftonbladet.se)
 
 ## 25-11 (hpai)
 
@@ -3527,12 +3557,6 @@ Source: [News API](https://newsapi.org/)
 - [Notre système immunitaire est-il déjà immunisé contre la grippe aviaire ?](https://dailygeekshow.com/grippe-aviaire-immunite/) (Daily Geek Show)
 
 - [RFK Jr. and Federal Health Agencies Wisely Oppose Mass H5N1 Animal Vaccination Over Mutation Concerns](https://www.globalresearch.ca/rfk-jr-federal-health-agencies-oppose-mass-h5n1-animal-vaccination/5881691) (Globalresearch.ca)
-
-- [Blir det sjukdom X? Så letar forskarvärlden efter smittan som blir nästa pandemi](https://www.dn.se/sverige/blir-det-sjukdom-x-sa-letar-forskarvarlden-efter-smittan-som-blir-nasta-pandemi/) (Www.dn.se)
-
-- [केंद्र ने बर्ड फ्लू को लेकर 9 राज्यों को जारी किया अलर्ट, जानें H5N1 वायरस के लक्षण और बचाव के उपाय](https://www.aajtak.in/india/news/story/center-issued-alert-to-9-states-regarding-bird-flu-know-the-symptoms-and-prevention-measures-from-h5n1-virus-ntc-rpti-2185989-2025-03-09) (Aajtak.in)
-
-- [Esperti su Science, prepararsi in tempo a una pandemia di aviaria](https://www.ansa.it/canale_scienza/notizie/biotech/2025/03/08/esperti-su-science-prepararsi-in-tempo-a-una-pandemia-di-aviaria_3d46145a-8dba-4e32-98b7-d5ffe4b3cc9a.html) (ANSA.it)
 
 ## 25-11 (dengue)
 
