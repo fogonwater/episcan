@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 7
-- **Last harvest:** 2025-04-27 07:06
-- **Most recent article:** 2025-04-26 06:36:10
+- **New articles in last harvest:** 16
+- **Last harvest:** 2025-04-27 19:06
+- **Most recent article:** 2025-04-26 18:00:00
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-12 | 25-13 | 25-14 | 25-15 | 25-16 | 25-17 | Total |
 |--|-|-|-|-|-|-|-|
-| measles | 106 | 101 | 77 | 145 | 82 | 89 | 600 |
-| h5n1 | 57 | 47 | 46 | 66 | 9 | 14 | 239 |
-| chikungunya | 17 | 10 | 17 | 15 | 39 | 37 | 135 |
+| measles | 104 | 101 | 77 | 145 | 82 | 92 | 601 |
+| h5n1 | 55 | 47 | 46 | 66 | 9 | 15 | 238 |
+| chikungunya | 17 | 10 | 17 | 15 | 39 | 46 | 144 |
 | dengue | 18 | 20 | 14 | 24 | 30 | 14 | 120 |
-| malaria | 18 | 30 | 13 | 10 | 14 | 31 | 116 |
+| malaria | 16 | 30 | 13 | 10 | 14 | 33 | 116 |
 | mpox | 8 | 12 | 17 | 18 | 10 | 2 | 67 |
 | meningitis | 7 | 10 | 6 | 10 | 9 | 10 | 52 |
 | rabies | 2 | 19 | 7 | 7 | 0 | 3 | 38 |
-| hpai | 12 | 2 | 4 | 3 | 5 | 0 | 26 |
+| hpai | 11 | 2 | 4 | 3 | 5 | 1 | 26 |
 | zika | 2 | 3 | 4 | 7 | 7 | 2 | 25 |
 | pertussis | 1 | 0 | 7 | 2 | 5 | 3 | 18 |
 | typhoid | 0 | 1 | 2 | 2 | 3 | 3 | 11 |
@@ -91,6 +91,12 @@ Source: [News API](https://newsapi.org/)
 - [Cegah Meningitis, 500 Petugas Haji Jalani Vaksinasi Gratis](https://www.liputan6.com/health/read/5999635/cegah-meningitis-500-petugas-haji-jalani-vaksinasi-gratis) (Liputan6.com)
 
 ## 25-17 (measles)
+
+- [Measles Cases In U.S. Hit Nearly 900, With More Than 600 Cases In Texas](https://www.huffpost.com/entry/measles-cases-us-texas-900_n_680d0467e4b04560cabe9300) (HuffPost)
+
+- [In 1973, the Butte Bulldog's biggest rival wasn't a team - it was measles](https://mtstandard.com/tncms/asset/editorial/b53e7a75-8047-4cee-a702-3ff6190b652f/) (Montana Standard)
+
+- [US records over 800 confirmed cases of measles in 2025](https://economictimes.indiatimes.com/news/international/world-news/us-records-over-800-confirmed-cases-of-measles-in-2025/articleshow/120641565.cms) (The Times of India)
 
 - [U.S. reports over 800 measles cases so far this year](https://www.thestar.com.my/news/world/2025/04/26/us-reports-over-800-measles-cases-so-far-this-year) (The Star Online)
 
@@ -272,6 +278,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-17 (malaria)
 
+- [Chinese experts promote malaria prevention awareness in Sao Tome and Principe](https://www.thestar.com.my/news/world/2025/04/27/chinese-experts-promote-malaria-prevention-awareness-in-sao-tome-and-principe) (The Star Online)
+
+- [ಆಹಾರ ಪ್ರಿಯರ ನೆಚ್ಚಿನ ಮೇಯನೇಸ್ ಈಗ ತಮಿಳುನಾಡಲ್ಲೂ ನಿಷೇಧ - Why Tamil Nadu Banned Egg Mayonnaise: Health Risks and Safety](https://kannada.asianetnews.com/health-life/why-tamil-nadu-banned-egg-mayonnaise-health-risks-and-safety-measures-svbkhu) (Asianetnews.com)
+
 - [16 out of 27 Arunachal districts malaria-free: Official](https://thehillstimes.in/northeast/16-out-of-27-arunachal-districts-malaria-free-official) (Thehillstimes.in)
 
 - [World Malaria Day observed in Karbi Anglong and West Karbi Anglong](https://thehillstimes.in/assam/world-malaria-day-observed-in-karbi-anglong-and-west-karbi-anglong) (Thehillstimes.in)
@@ -334,7 +344,13 @@ Source: [News API](https://newsapi.org/)
 
 - [Endgame malaria](https://www.thehindubusinessline.com/specials/pulse/endgame-malaria/article69457631.ece) (BusinessLine)
 
+## 25-17 (hpai)
+
+- [Virginia wild birds hit with 200 bird flu cases this year](https://richmond.com/news/local/government-politics/article_127cc992-55f9-4a19-9f5c-cb2785056f37.html) (Richmond.com)
+
 ## 25-17 (h5n1)
+
+- [Todo lo que usted necesita saber sobre la gripe aviar](https://www.nacion.com/ciencia/todo-lo-que-usted-necesita-saber-sobre-la-gripe/5BA3YLDMOVAHVFXJDGXNES7X2M/story/) (Nacion.com)
 
 - [Nur einmal sprang H5N1 über – und verseucht seither die US-Rinderherden](https://www.welt.de/wissenschaft/article256006230/Vogelgrippe-Nur-einmal-sprang-H5N1-ueber-auf-die-US-Kuehe.html) (DIE WELT)
 
@@ -395,6 +411,24 @@ Source: [News API](https://newsapi.org/)
 - [TWiV 1211: Moo flu and dengue two](https://www.microbe.tv/twiv/twiv-1211/) (Microbe.tv)
 
 ## 25-17 (chikungunya)
+
+- [Valneva Provides Update on Recommendation for Use of Its Chikungunya Vaccine by French Authorities](https://www.globenewswire.com/news-release/2025/04/26/3068770/0/en/Valneva-Provides-Update-on-Recommendation-for-Use-of-Its-Chikungunya-Vaccine-by-French-Authorities.html) (GlobeNewswire)
+
+- [Valneva fait un point sur la recommandation d’utilisation de son vaccin contre le chikungunya par les autorités françaises](https://www.globenewswire.com/news-release/2025/04/26/3068770/0/fr/Valneva-fait-un-point-sur-la-recommandation-d-utilisation-de-son-vaccin-contre-le-chikungunya-par-les-autorit%C3%A9s-fran%C3%A7aises.html) (GlobeNewswire)
+
+- [Vaccin contre le Chikungunya : le président de la Fédération des syndicats pharmaceutiques de France appelle à "suspendre totalement" la vaccination, "le temps de l'investigation"](https://www.francetvinfo.fr/sante/maladie/chikungunya/vaccin-contre-le-chikungunya-le-president-de-la-federation-des-syndicats-pharmaceutiques-de-france-appelle-a-suspendre-totalement-la-vaccination-le-temps-de-l-investigation_7212522.html) (Francetvinfo.fr)
+
+- [Vaccin contre le chikungunya : le président de la Fédération des syndicats pharmaceutiques de France appelle à "suspendre totalement" la vaccination, "le temps de l'investigation"](https://www.francetvinfo.fr/sante/maladie/chikungunya/vaccin-contre-le-chikungunya-le-president-de-la-federation-des-syndicats-pharmaceutiques-de-france-appelle-a-suspendre-totalement-la-vaccination-le-temps-de-l-investigation_7212522.html) (Francetvinfo.fr)
+
+- [Chikungunya à la Réunion : Les plus de 65 ans retirés de la vaccination après un décès](https://www.20minutes.fr/sante/4150514-20250426-chikungunya-reunion-plus-65-ans-retires-vaccination-apres-deces) (20 Minutes)
+
+- [Chikungunya : la vaccination des plus de 65 ans retirée à La Réunion et à Mayotte](https://www.lemonde.fr/planete/article/2025/04/26/chikungunya-la-vaccination-des-plus-de-65-ans-retiree-a-la-reunion-et-a-mayotte_6600254_3244.html) (Le Monde)
+
+- [Chikungunya à la Réunion : pourquoi les autorités retirent "sans délai" les seniors de la vaccination](https://www.marianne.net/societe/sante/chikungunya-a-la-reunion-pourquoi-les-autorites-retirent-sans-delai-les-seniors-de-la-vaccination) (Marianne.net)
+
+- [Chikungunya à La Réunion et Mayotte : les plus de 65 ans retirés « sans délai » de la vaccination après un décès](https://www.nouvelobs.com/societe/20250426.OBS103228/chikungunya-a-la-reunion-et-mayotte-les-plus-de-65-ans-retires-sans-delai-de-la-vaccination-apres-un-deces.html) (L'Obs)
+
+- [Chikungunya à La Réunion et Mayotte : les autorités retirent les plus de 65 ans retirés de la vaccination après trois "événements indésirables graves"](https://www.francetvinfo.fr/sante/maladie/chikungunya/chikungunya-a-la-reunion-et-mayotte-les-plus-de-65-ans-retires-de-la-vaccination-apres-trois-evenements-indesirables-graves-sur-des-personnes-agees-presentant-des-comorbidites_7212237.html) (Francetvinfo.fr)
 
 - [Les autorités sanitaires retirent les personnes de 65 ans et plus des cibles de la campagne de vaccination contre le chikungunya avec le vaccin IXCHIQ à La Réunion et à Mayotte](https://sante.gouv.fr/actualites/presse/communiques-de-presse/article/les-autorites-sanitaires-retirent-les-personnes-de-65-ans-et-plus-des-cibles-de) (Gouv.fr)
 
@@ -2822,10 +2856,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Texas measles outbreak: Three Houston cases confirmed](https://www.fox26houston.com/news/houston-measlies-case-infant-2025) (fox26houston.com)
 
-- [What to know about measles as first case of 2025 confirmed in Oakland County](https://www.clickondetroit.com/news/local/2025/03/16/what-to-know-about-measles-as-first-case-of-2025-confirmed-in-oakland-county/) (WDIV ClickOnDetroit)
-
-- [Recap: What made news last week across Virginia](https://richmond.com/news/state-regional/article_e3ba212e-ff71-11ef-afa0-071d975426c2.html) (Richmond.com)
-
 ## 25-12 (malaria)
 
 - [Gene drive modified mosquitoes offer new tool for malaria elimination efforts](https://www.imperial.ac.uk/news/261995/gene-drive-modified-mosquitoes-offer-tool/) (Imperial College London)
@@ -2860,10 +2890,6 @@ Source: [News API](https://newsapi.org/)
 
 - [HIV, TB, Malaria services in Cameroon remain free of charge, Public Health Minister reaffirms](https://cameroonnewsagency.com/hiv-tb-malaria-services-in-cameroon-remain-free-of-charge-public-health-minister-reaffirms/) (Cameroonnewsagency.com)
 
-- [Microbiota de los pingüinos, esperanza inmunológica contra la malaria o la leishmaniosis](https://forbes.com.mx/microbiota-de-los-pinguinos-esperanza-inmunologica-contra-la-malaria-o-la-leishmaniosis/) (Forbes.com.mx)
-
-- [Lost Places mitten im Meer: Verlassene Inseln mit Grusel-Faktor](https://www.n-tv.de/mediathek/bilderserien/panorama/Verlassene-Inseln-mit-Grusel-Faktor-article25571806.html) (N-tv.de)
-
 ## 25-12 (leptospirosis)
 
 - [Prevalence of leptospirosis among soldiers: A systematic review](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012927) (Plos.org)
@@ -2891,8 +2917,6 @@ Source: [News API](https://newsapi.org/)
 - [ΗΠΑ: Καταγράφηκε η πρώτη, από το 2017, έξαρση της φονικής γρίπης των πτηνών Η7Ν9](https://www.naftemporiki.gr/kosmos/1933992/ipa-katagrafike-i-proti-apo-to-2017-exarsi-tis-fonikis-gripis-ton-ptinon-i7n9/) (Naftemporiki.gr)
 
 - [Bird flu detected in Philadelphia live poultry market: USDA](https://www.fox29.com/news/bird-flu-detected-philadelphia-live-poultry-market-usda) (FOX 29 News Philadelphia)
-
-- [Alarma en la Antártida: Confirman un brote masivo de gripe aviar en varias especies](https://es.gizmodo.com/alarma-en-la-antartida-confirman-un-brote-masivo-de-gripe-aviar-en-varias-especies-2000154626) (Gizmodo.com)
 
 ## 25-12 (h5n1)
 
@@ -3005,10 +3029,6 @@ Source: [News API](https://newsapi.org/)
 - [Covid Redux: The Bird Flu Scare](https://www.americanthinker.com/articles/2025/03/covid_redux_the_bird_flu_scare.html) (Americanthinker.com)
 
 - [Savage Pet recalls cat food amid suspected bird flu illnesses in cats](https://www.foodsafetynews.com/2025/03/savage-pet-recalls-cat-food-amid-suspected-bird-flu-illnesses-in-cats/) (Food Safety News)
-
-- [Cat owners beware as pet food with bird flu risk is recalled](https://www.foxnews.com/health/cat-owners-beware-pet-food-bird-flu-risk-recalled) (Fox News)
-
-- [Alarma en la Antártida: Confirman un brote masivo de gripe aviar en varias especies](https://es.gizmodo.com/alarma-en-la-antartida-confirman-un-brote-masivo-de-gripe-aviar-en-varias-especies-2000154626) (Gizmodo.com)
 
 ## 25-12 (dengue)
 
