@@ -1,8 +1,81 @@
 {
-  "last_updated": "2025-04-28 07:21",
-  "count_articles_total": 1434,
-  "count_articles_new": 11,
+  "last_updated": "2025-04-28 19:05",
+  "count_articles_total": 1433,
+  "count_articles_new": 5,
   "articles": [
+    {
+      "id": 20796,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Le Point",
+      "author": "Caroline Tourbe",
+      "title": "Chikungunya : le vaccin sur le banc des accus\u00e9s",
+      "description": "DECRYPTAGE. La vaccination est suspendue brutalement a la Reunion apres trois evenements graves. Le vaccin est-il responsable ? Explications, alors que l'epidemie ne faiblit pas.",
+      "url": "https://www.lepoint.fr/sante/chikungunya-le-vaccin-sur-le-banc-des-accuses-27-04-2025-2588327_40.php",
+      "urlToImage": "https://static.lpnt.fr/images/2025/04/27/27580932lpw-27580960-mega-une-jpg_11071331.jpg",
+      "publishedAt": "2025-04-27 17:13:00",
+      "content": "L'\u00e9pid\u00e9mie de chikungunya, virus transmis par les piq\u00fbres de moustiques, frappe durement les 24 communes de la R\u00e9union. Depuis le d\u00e9but de l'ann\u00e9e 2025, plus de 40 000 cas ont \u00e9t\u00e9 recens\u00e9s. Il s'agit\u2026 [+5267 chars]",
+      "retrievedAt": "2025-04-28 19:05:53.772232",
+      "internal_id": "3d863ba5e6bf1dcbc2f052261954edbf23ae5f66bce35ff5c1af24072e963e7b",
+      "publishedAtLabel": "Apr 27"
+    },
+    {
+      "id": 20794,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Courrier International",
+      "author": null,
+      "title": "Dengue, chikungunya, fi\u00e8vre du Nil occidental\u2026 Comment voyagent les virus",
+      "description": "Ces maladies qu\u2019on pensait exotiques peuvent d\u00e9sormais s\u2019attraper en Europe, sans avoir \u00e0 faire tamponner son passeport : ce sont les virus qui voyagent. Quelques exemples de celles qui se sont install\u00e9es en Espagne avec le quotidien \u201cEl Mundo\u201d.",
+      "url": "https://www.courrierinternational.com/grand-format/dengue-chikungunya-fievre-du-nil-occidental-comment-voyagent-les-virus_229670",
+      "urlToImage": "https://focus.courrierinternational.com/2025/04/23/259/0/2048/1365/1200/630/60/0/0904b13_sirius-fs-upload-1-lblvqtpe1rnz-1745412786504-baf1799-signaux-elmundo-virus.png",
+      "publishedAt": "2025-04-27 15:51:25",
+      "content": "Cette infographie est issue de celle parue dans l\u00e9dition dEl Mundo dat\u00e9e du 1er f\u00e9vrier, quelques jours apr\u00e8s que des chercheurs ont annonc\u00e9 avoir d\u00e9tect\u00e9, de mani\u00e8re fortuite, la pr\u00e9sence du virus d\u2026 [+1787 chars]",
+      "retrievedAt": "2025-04-28 19:05:52.412120",
+      "internal_id": "31006e221044fd003a05e2eca307c300771071940c7ebdb8a1a4f8cff99adc69",
+      "publishedAtLabel": "Apr 27"
+    },
+    {
+      "id": 20793,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Royal Gazette",
+      "author": "Owain Johnston-barnes",
+      "title": "Whooping cough cases in Bermuda spark call for caution",
+      "description": "The Government has warned the public to be wary of whooping cough after two cases were reported on the island. The Office of the Chief Medical Officer has confirmed two identified cases of pertussis o...",
+      "url": "https://www.royalgazette.com/health/news/article/20250428/whooping-cough-cases-in-bermuda-spark-call-for-caution/",
+      "urlToImage": "https://imengine.public.prod.rgb.navigacloud.com/?uuid=f19fc120-06ec-5e0d-ad4f-a6945c504845&function=fit&type=preview",
+      "publishedAt": "2025-04-27 15:35:28",
+      "content": "Cases of whooping cough have been reported on the island (File photograph by Jessie Moniz Hardy) The Government has warned the public to be wary of whooping cough after two cases were reported on th\u2026 [+4831 chars]",
+      "retrievedAt": "2025-04-28 19:05:50.745522",
+      "internal_id": "a1878dbdeb939a5cde4d66160fbf9feaf266b78672bed77c88708dddbccc3b9e",
+      "publishedAtLabel": "Apr 27"
+    },
+    {
+      "id": 20797,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Ntv.co.ug",
+      "author": null,
+      "title": "Health authorities crack down on clinics mismanaging Mpox cases",
+      "description": "Health authorities in Wakiso District are working with health inspectors to clamp down on some private clinics that are mismanaging MPOX patients, putting lives at risk. Behind the MPOX...",
+      "url": "https://www.ntv.co.ug/ug/news/national/health-authorities-crack-down-on-clinics-mismanaging-mpox-cases-5018728",
+      "urlToImage": "https://www.ntv.co.ug/resource/blob/5018732/f5981b9f55a9518abfe6f7ae374087ea/mpox-data.png",
+      "publishedAt": "2025-04-27 09:30:38",
+      "content": "Enyonyi Nyange, Ngeye, Mutima win opening games in Bika Netball",
+      "retrievedAt": "2025-04-28 19:05:53.956355",
+      "internal_id": "9bdd39d2e23f9ebe69ce19efa991e508b9706934a9a05633dc01bed932f03ff6",
+      "publishedAtLabel": "Apr 27"
+    },
     {
       "id": 20789,
       "query": [
@@ -829,6 +902,24 @@
       "content": "Berlin. Ein neuer Ansatz k\u00f6nnte den Malaria-Erreger stoppen und die Ausbreitung verhindern. Was macht diesen Wirkstoff so vielversprechend? J\u00e4hrlich erkranken Millionen Menschen an Malaria einer pot\u2026 [+2728 chars]",
       "retrievedAt": "2025-04-26 19:05:44.741313",
       "internal_id": "85e4adb2f3787e8454b69bf04fb2fd6901db39f00c2a5b2e563ed95752d91ab0",
+      "publishedAtLabel": "Apr 25"
+    },
+    {
+      "id": 20795,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Salehi, M., Mousa Farkhani, E., Moghri, J., Ghasemian, A., Tabatabaee, S. S., Hooshmand, E.",
+      "title": "Global dengue fever management in health systems: identifying strategies, challenges and solutions - a scoping review protocol",
+      "description": "Introduction Dengue fever, the fastest-spreading mosquito-borne viral disease, poses a significant global public health challenge. Over the past two decades, its rapid spread has been driven by urbanisation, climate change and international travel, particul\u2026",
+      "url": "https://bmjopen.bmj.com/content/15/4/e097085",
+      "urlToImage": "https://bmjopen.bmj.com/pages/wp-content/uploads/sites/7/2019/07/bmjopen-default-cover.png",
+      "publishedAt": "2025-04-25 09:56:47",
+      "content": "Introduction Dengue fever is the fastest-growing mosquito-borne disease in the world, and due to its significant disease burden, the WHO identified it as one of the top 10 global health threats in 2\u2026 [+7762 chars]",
+      "retrievedAt": "2025-04-28 19:05:52.448410",
+      "internal_id": "94c79b44a75d7dfb73871358fdaf01a2b5b2f9a3a82cd2c582be3bc9a26b4cd0",
       "publishedAtLabel": "Apr 25"
     },
     {
@@ -25751,115 +25842,6 @@
       "content": "HOUSTON - A measles case in a Houston infant has been confirmed as the third case of measles in the city, according to the Houston Health Department. Houston infant measles case What we know: Acco\u2026 [+2081 chars]",
       "retrievedAt": "2025-03-19 07:07:04.309538",
       "internal_id": "559b155b448b6ff76f3153f49fe7933624e81eda1244d127cdcc67e71d1bcf65",
-      "publishedAtLabel": "Mar 16"
-    },
-    {
-      "id": 19348,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": "fox-news",
-      "source_name": "Fox News",
-      "author": "Melissa Rudy",
-      "title": "Cat owners beware as pet food with bird flu risk is recalled",
-      "description": "Cat owners are warned of more pet food recalls, as Savage Pet of California says some of its products could contain H5N1 (bird flu). The FDA and New York Department of Health share key information.",
-      "url": "https://www.foxnews.com/health/cat-owners-beware-pet-food-bird-flu-risk-recalled",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/05/boy-carrying-cat.jpg",
-      "publishedAt": "2025-03-16 16:37:05",
-      "content": "Cat owners have been alerted to a potential health threat. Savage Pet of El Cajon, California, is recalling 66 large chicken boxes (84 oz.) and 74 small chicken boxes (21 oz.) with the lot code/\"bes\u2026 [+4584 chars]",
-      "retrievedAt": "2025-03-17 19:05:55.008662",
-      "internal_id": "6e8a4ec313bcecc65a72c24ef4a64ce9db196b9edfb3661d2014aabb43702320",
-      "publishedAtLabel": "Mar 16"
-    },
-    {
-      "id": 19349,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Forbes.com.mx",
-      "author": "Forbes Staff",
-      "title": "Microbiota de los ping\u00fcinos, esperanza inmunol\u00f3gica contra la malaria o la leishmaniosis",
-      "description": "Forbes M\u00e9xico. Microbiota de los ping\u00fcinos, esperanza inmunol\u00f3gica contra la malaria o la leishmaniosis La inmunizaci\u00f3n de los ping\u00fcinos contra esta grave enfermedad f\u00fangica se hizo a trav\u00e9s del fortalecimiento de sus bacterias del intestino introduciendo u\u2026",
-      "url": "https://forbes.com.mx/microbiota-de-los-pinguinos-esperanza-inmunologica-contra-la-malaria-o-la-leishmaniosis/",
-      "urlToImage": "https://cdn.forbes.com.mx/2019/04/s3.reutersmedia.jpg",
-      "publishedAt": "2025-03-16 14:28:00",
-      "content": "Un equipo de cient\u00edficos encontr\u00f3 en Francia una posible pista para combatir la malaria o la leishmaniosis en seres humanos gracias al estudio de la microbiota de los ping\u00fcinos, conocida en detalle t\u2026 [+3096 chars]",
-      "retrievedAt": "2025-03-17 19:05:55.917162",
-      "internal_id": "ee952ae6e7b7573190fddc61f2dcf197c9756c5a8ae80cd4adc5daed76093007",
-      "publishedAtLabel": "Mar 16"
-    },
-    {
-      "id": 19419,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "WDIV ClickOnDetroit",
-      "author": "Samantha Sayles",
-      "title": "What to know about measles as first case of 2025 confirmed in Oakland County",
-      "description": "Michigan\u2019s first case of measles this year has been confirmed in an adult who lives in Oakland County, health officials announced.",
-      "url": "https://www.clickondetroit.com/news/local/2025/03/16/what-to-know-about-measles-as-first-case-of-2025-confirmed-in-oakland-county/",
-      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/C6GUZ5DYYVBTHC3KFQCFAGQR4I.jpg?_a=DATAdtfiZAA0",
-      "publishedAt": "2025-03-16 12:47:06",
-      "content": "OAKLAND COUNTY, Mich. Michigans first case of measles this year has been confirmed in an adult who lives in Oakland County, health officials announced. The countys health officer, Kate Guzman, RN, s\u2026 [+3011 chars]",
-      "retrievedAt": "2025-03-19 07:07:04.351140",
-      "internal_id": "749ec33a8f4194f7e35c2490731f7eed883b799dfffca15023e62de595c88c41",
-      "publishedAtLabel": "Mar 16"
-    },
-    {
-      "id": 19347,
-      "query": [
-        "hpai",
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Gizmodo.com",
-      "author": "Thomas Handley",
-      "title": "Alarma en la Ant\u00e1rtida: Confirman un brote masivo de gripe aviar en varias especies",
-      "description": "Una expedici\u00f3n cient\u00edfica espa\u00f1ola ha confirmado la presencia del virus de la gripe aviar altamente patog\u00e9nica (HPAI H5N1) en la Ant\u00e1rtida. El brote ha sido detectado en 13 especies diferentes y en 24 puntos de la regi\u00f3n, lo que marca un precedente alarmante \u2026",
-      "url": "https://es.gizmodo.com/alarma-en-la-antartida-confirman-un-brote-masivo-de-gripe-aviar-en-varias-especies-2000154626",
-      "urlToImage": "https://es.gizmodo.com/app/uploads/2025/03/gripe-aviar.jpg",
-      "publishedAt": "2025-03-16 11:29:44",
-      "content": "La expedici\u00f3n CSIC-Unespa llev\u00f3 a cabo un estudio entre enero y febrero, generando el informe m\u00e1s completo hasta la fecha sobre la gripe aviar en la Ant\u00e1rtida. Los investigadores identificaron 188 ca\u2026 [+2815 chars]",
-      "retrievedAt": "2025-03-17 19:05:54.523755",
-      "internal_id": "52a74a44fa3e844abf031688bd77dafc1a464949c89910eaef0d51915256aced",
-      "publishedAtLabel": "Mar 16"
-    },
-    {
-      "id": 19353,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Richmond.com",
-      "author": "",
-      "title": "Recap: What made news last week across Virginia",
-      "description": "IN THE NEWS",
-      "url": "https://richmond.com/news/state-regional/article_e3ba212e-ff71-11ef-afa0-071d975426c2.html",
-      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/e/3b/e3ba212e-ff71-11ef-afa0-071d975426c2/67d33683df5c8.preview.jpg?crop=1758%2C923%2C0%2C127&resize=1200%2C630&order=crop%2Cresize",
-      "publishedAt": "2025-03-16 11:00:00",
-      "content": "Possible measles exposure at Dulles Airport A person with a case of measles arrived at Washington Dulles International Airport in Northern Virginia last week, potentially exposing others, the state\u2026 [+11070 chars]",
-      "retrievedAt": "2025-03-18 07:07:09.586966",
-      "internal_id": "db05da6a81fe2de27aeb3360837d8725628dcbccb9bb8523aea66ac9d3449a88",
-      "publishedAtLabel": "Mar 16"
-    },
-    {
-      "id": 19350,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "N-tv.de",
-      "author": "n-tv NACHRICHTEN",
-      "title": "Lost Places mitten im Meer: Verlassene Inseln mit Grusel-Faktor",
-      "description": "Sie sind verlassen und oftmals mit einem gewissen Grusel verbunden: Geisterinseln. Einige von ihnen dienten als Gef\u00e4ngnis, andere zur Isolation von Pestkranken. Und eine von ihnen war einmal der dichtbesiedeltste Flecken der Erde. ntv.de stellt zehn Lost Plac\u2026",
-      "url": "https://www.n-tv.de/mediathek/bilderserien/panorama/Verlassene-Inseln-mit-Grusel-Faktor-article25571806.html",
-      "urlToImage": "https://www.n-tv.de/img/incoming/crop25570971/1181322630-cImg_16_9-w1200/imago598760374.jpg",
-      "publishedAt": "2025-03-16 09:45:30",
-      "content": "W\u00e4hrend sich die W\u00e4rter auf Tennispl\u00e4tzen und in Pools vergn\u00fcgen konnten, litten die Gefangenen unter Mangelern\u00e4hrung, Malaria, Ruhr und Cholera. Zudem wurden medizinische Experimente an ihnen durchg\u2026 [+6 chars]",
-      "retrievedAt": "2025-03-17 19:05:55.945568",
-      "internal_id": "4838ae9f3bbca6cc47ead8f946735f85c011b599be8cf5eab2c063ee6c57cb5a",
       "publishedAtLabel": "Mar 16"
     }
   ]
