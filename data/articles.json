@@ -1,8 +1,206 @@
 {
-  "last_updated": "2025-04-27 19:06",
-  "count_articles_total": 1417,
-  "count_articles_new": 16,
+  "last_updated": "2025-04-28 07:21",
+  "count_articles_total": 1434,
+  "count_articles_new": 11,
   "articles": [
+    {
+      "id": 20789,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Janet Ogundepo",
+      "title": "FG free malaria treatment for pregnant women suffers setback",
+      "description": "Expectant mothers patronising public hospitals still pay for antimalarials out-of-pocket as fear of the impact of the United States aid cut heightens.",
+      "url": "https://punchng.com/fg-free-malaria-treatment-for-pregnant-women-suffers-setback/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2025/04/26215605/Pregnant-women-using-antimalarial.jpg",
+      "publishedAt": "2025-04-27 05:00:58",
+      "content": "In 2005, the Federal Government introduced a free malaria treatment policy for pregnant women nationwide to reduce maternal mortality as the disease is responsible for 11 per cent of maternal deaths \u2026 [+16555 chars]",
+      "retrievedAt": "2025-04-28 07:21:57.567512",
+      "internal_id": "ca04a7f48b490314fe88e70a93e3cc0f69eaa6fc7b5dc3ae615e2f730523c0ba",
+      "publishedAtLabel": "Apr 27"
+    },
+    {
+      "id": 20787,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Thehillstimes.in",
+      "author": "The Hills Times",
+      "title": "Zero malaria deaths in Nagaland in past 6 years",
+      "description": "HT Correspondent DIMAPUR, April 26: There were zero malaria deaths recorded in Nagaland between 2018 and 2024, Nagaland health and family welfare minister P Paiwang Konyak said on Friday. Addressing the World Malaria Day observation at town hall, Dimapur, Kon\u2026",
+      "url": "https://thehillstimes.in/northeast/zero-malaria-deaths-in-nagaland-in-past-6-years",
+      "urlToImage": "https://thehillstimes.in/wp-content/uploads/2025/04/2nd-lead-16.jpg",
+      "publishedAt": "2025-04-27 00:55:00",
+      "content": "HT Correspondent DIMAPUR, April 26: There were zero malaria deaths recorded in Nagaland between 2018 and 2024, Nagaland health and family welfare minister P Paiwang Konyak said on Friday. Addressin\u2026 [+1499 chars]",
+      "retrievedAt": "2025-04-28 07:21:57.479787",
+      "internal_id": "d15aac61a2f6f874c7f396a022e3a8f2023c5a32fe7f12b908e342e157ba628d",
+      "publishedAtLabel": "Apr 27"
+    },
+    {
+      "id": 20783,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Daily Beast",
+      "author": "Catherine Bouris",
+      "title": "RFK Jr.\u2019s Wish Is Coming True: Everybody\u2019s Getting Measles",
+      "description": "RFK Jr.\u2019s vision for America is rapidly becoming reality, with the number of measles cases skyrocketing across the country, bringing the number of confirmed ...",
+      "url": "https://www.thedailybeast.com/rfk-jrs-wish-is-coming-true-everybodys-getting-measles/",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/.XHh71dyLRIwL0OIBS4IdA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/thedailybeast.com/f98dbad6936d6d516313e693fe06bf47",
+      "publishedAt": "2025-04-26 23:29:55",
+      "content": "RFK Jr.s vision for America is rapidly becoming reality, with the number of measles cases skyrocketing across the country, bringing the number of confirmed cases to a total of 884. According to data\u2026 [+2505 chars]",
+      "retrievedAt": "2025-04-28 07:21:55.299991",
+      "internal_id": "ef65ecd4ac647a621613f83c76b010a81024924e4a138a4fcf34f50cad5fb1b2",
+      "publishedAtLabel": "Apr 26"
+    },
+    {
+      "id": 20788,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Premium Times",
+      "author": "Mariam Ileyemi",
+      "title": "Malaria disrupts economic ecosystem, raises healthcare costs \u2013 Health Minister",
+      "description": "Mr Salako cited the World Malaria Report 2024, which attributes 27 per cent of global cases and 31 per cent of global deaths to Nigeria.",
+      "url": "https://www.premiumtimesng.com/news/top-news/790736-malaria-disrupts-economic-ecosystem-raises-healthcare-costs-health-minister.html",
+      "urlToImage": "https://media.premiumtimesng.com/wp-content/files/2025/02/Dr-Iziaq-Salako.jpeg",
+      "publishedAt": "2025-04-26 23:10:59",
+      "content": "The Minister of State for Health and Social Welfare, Iziaq Salako, has warned that malaria continues to strain Nigerias economy and health system. Mr Salako made this known during a press briefing t\u2026 [+1266 chars]",
+      "retrievedAt": "2025-04-28 07:21:57.559483",
+      "internal_id": "d6674b8e16bc6e0a3cf22c4254bd5c0760543118e0e35a4642325967e4150f10",
+      "publishedAtLabel": "Apr 26"
+    },
+    {
+      "id": 20785,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "New measles case confirmed in B.C.'s Lower Mainland",
+      "description": "A new case of travel-related measles has been confirmed in B.C.'s Lower Mainland, bringing the total number of confirmed cases in the province to six.",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/measles-lower-mainland-1.7519707",
+      "urlToImage": "https://i.cbc.ca/1.7207877.1745705736!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/measles-virus-particle.jpg?im=Resize%3D620",
+      "publishedAt": "2025-04-26 22:22:28",
+      "content": "A new case of travel-related measles has been confirmed in B.C.'s Lower Mainland, bringing the total number of confirmed cases in the province to six. Fraser Health officials say the latest case was\u2026 [+3096 chars]",
+      "retrievedAt": "2025-04-28 07:21:55.388088",
+      "internal_id": "5d351891b484a7f03e346d28ceb1b841da60b730047dc669ab72bd347c6000db",
+      "publishedAtLabel": "Apr 26"
+    },
+    {
+      "id": 20784,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Crooksandliars.com",
+      "author": "NewsHound Ellen",
+      "title": "The Trump Admin Rolled Back Plan To Reduce Salmonella Illness",
+      "description": "The same Trump administration bent on making measles, bird flu, norovirus and air disasters greater is now stepping up to the plate for salmonella. Or, more precisely, the poultry industry on which Biden proposed to require limits of potentially deadly salmon\u2026",
+      "url": "https://crooksandliars.com/2025/04/trump-admin-rolled-back-plan-reduce",
+      "urlToImage": "https://crooksandliars.com/files/primary_image/25/04/supermarket_poultry_for_042625.jpg",
+      "publishedAt": "2025-04-26 21:57:30",
+      "content": "The same Trump administration bent on making measles, bird flu, norovirus and air disasters greater is now stepping up to the plate for salmonella. Or, more precisely, the poultry industry on which B\u2026 [+1827 chars]",
+      "retrievedAt": "2025-04-28 07:21:55.354406",
+      "internal_id": "98e2d6c391106f6706b9b1a050a98f6d987fb6571883f80ccbb1b658cd589794",
+      "publishedAtLabel": "Apr 26"
+    },
+    {
+      "id": 20782,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "UPI.com",
+      "author": "Mike Heuer",
+      "title": "884 Measles Cases Confirmed in Most States",
+      "description": "A half dozen states have reported measles outbreaks among 29 states with confirmed cases totaling 884 so far this year, the Centers for Disease Control and...",
+      "url": "https://www.upi.com/Health_News/2025/04/26/meales-outbreaks/7581745702876/",
+      "urlToImage": "https://media.zenfs.com/en/united_press_international_articles_356/2096b630221ab5b3ab611c726ee91b1d",
+      "publishedAt": "2025-04-26 21:41:03",
+      "content": "April 26 (UPI) -- A half dozen states have reported measles outbreaks among 29 states with confirmed cases totaling 884 so far this year, the Centers for Disease Control and Prevention reported Frida\u2026 [+2244 chars]",
+      "retrievedAt": "2025-04-28 07:21:55.272434",
+      "internal_id": "96566828ca8a19e06950464d6414ed09d8e68547f5389f4fdbb260f0c0cba95c",
+      "publishedAtLabel": "Apr 26"
+    },
+    {
+      "id": 20791,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Pedro Gabriel, Pedro Gabriel",
+      "title": "Cantor de forr\u00f3 morre ap\u00f3s complica\u00e7\u00f5es por monkeypox no Par\u00e1",
+      "description": "Gutto Xibatada foi internado em Bel\u00e9m e n\u00e3o resistiu ap\u00f3s agravamento do quadro cl\u00ednico",
+      "url": "https://gente.ig.com.br/celebridades/2025-04-26/cantor-de-forro-gutto-xibatada-morre-de-complicacoes-por-monkeypox-no-para.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/5o/7y/8w/5o7y8wzw5crf2ptc968dh0s0p.jpg",
+      "publishedAt": "2025-04-26 20:57:21",
+      "content": "O cantor de forr\u00f3 Gutto Xibatada, de 39 anos, morreu na \u00faltima ter\u00e7a-feira (22), em Bel\u00e9m, v\u00edtima de complica\u00e7\u00f5es causadas por monkeypox (Mpox). A Prefeitura de Bel\u00e9m confirmou a informa\u00e7\u00e3o na sexta-\u2026 [+1639 chars]",
+      "retrievedAt": "2025-04-28 07:21:58.536986",
+      "internal_id": "e3f52780b282bf1dda03c017aab162c9e6fb31039bd9d9a2b738eefe1e12aa91",
+      "publishedAtLabel": "Apr 26"
+    },
+    {
+      "id": 20792,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Sierraloaded.sl",
+      "author": "Sharied Bangura",
+      "title": "Sierra Leone Confirms 85 New Mpox Cases and 6 Deaths",
+      "description": "Sierra Leone\u2019s Ministry of Health has confirmed six (6) deaths and eighty-five (85) new Mpox Cases, resulting to an increase of Seven Hundred and Sixty Three (763) confirmed cases, with only Four (4) new recoveries since the outbreak started in January, 2025.\u2026",
+      "url": "https://sierraloaded.sl/health/mpox-cases-and-6-deaths-confirmed/",
+      "urlToImage": "https://i0.wp.com/sierraloaded.sl/wp-content/uploads/2025/04/85-New-MPOX-Cases-Confirmed.png",
+      "publishedAt": "2025-04-26 20:55:39",
+      "content": "Sierra Leone\u2019s Ministry of Health has confirmed six (6) deaths and eighty-five (85) new Mpox Cases, resulting to an increase of Seven Hundred and Sixty Three (763) confirmed cases, with only Four (4)\u2026 [+2563 chars]",
+      "retrievedAt": "2025-04-28 07:21:58.545339",
+      "internal_id": "21748fde98f544899bcdf67362be0795397fc72670affb2b8fbe287709acd43b",
+      "publishedAtLabel": "Apr 26"
+    },
+    {
+      "id": 20790,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Estad\u00e3o Conte\u00fado",
+      "title": "Gutto Xibatada: cantor morre aos 39 anos ap\u00f3s diagn\u00f3stico de Monkeypox",
+      "description": "Irm\u00e3 reclama de atendimento; secretaria de sa\u00fade informa que 'todas as condutas adotadas seguiram os protocolos t\u00e9cnicos do Minist\u00e9rio da Sa\u00fade'",
+      "url": "https://www.terra.com.br/diversao/musica/gutto-xibatada-cantor-morre-aos-39-anos-apos-diagnostico-de-monkeypox,373a1b23e6a212b52ee6ea510b03ffe7is54lmsa.html",
+      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2025-04-26 19:47:53",
+      "content": "Gutto Xibatada, cantor paraense de forr\u00f3, morreu aos 39 anos de idade, no \u00faltimo dia 22 de abril, ap\u00f3s ter sido diagnosticado com v\u00edrus Monkeypox (Mpox) no m\u00eas de mar\u00e7o. Segundo informa\u00e7\u00f5es da Secre\u2026 [+4630 chars]",
+      "retrievedAt": "2025-04-28 07:21:58.528397",
+      "internal_id": "ef4020f11dcf8252923c896b43b6d706ecf318a98d5df84c63023621c7d94a3b",
+      "publishedAtLabel": "Apr 26"
+    },
+    {
+      "id": 20786,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Lisa Monteiro",
+      "title": "Jan-March dengue cases down to 23 from 2024\u2019s 76",
+      "description": "Panaji: With unseasonal rain hitting the state, the health department is gearing up to ensure dengue doesn\u2019t raise its head again.",
+      "url": "https://timesofindia.indiatimes.com/city/goa/jan-march-dengue-cases-down-to-23-from-2024s-76/articleshow/120652846.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-120652845,width-1070,height-580,imgsize-11808,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2025-04-26 19:30:41",
+      "content": "8 easy paneer dishes that can be made in under 10 minutes",
+      "retrievedAt": "2025-04-28 07:21:56.801727",
+      "internal_id": "5c57cf2e099a2a6bfb97c86a196895e559263737475ee93fb945201ba193aa7a",
+      "publishedAtLabel": "Apr 26"
+    },
     {
       "id": 20770,
       "query": [
@@ -25553,6 +25751,115 @@
       "content": "HOUSTON - A measles case in a Houston infant has been confirmed as the third case of measles in the city, according to the Houston Health Department. Houston infant measles case What we know: Acco\u2026 [+2081 chars]",
       "retrievedAt": "2025-03-19 07:07:04.309538",
       "internal_id": "559b155b448b6ff76f3153f49fe7933624e81eda1244d127cdcc67e71d1bcf65",
+      "publishedAtLabel": "Mar 16"
+    },
+    {
+      "id": 19348,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": "Melissa Rudy",
+      "title": "Cat owners beware as pet food with bird flu risk is recalled",
+      "description": "Cat owners are warned of more pet food recalls, as Savage Pet of California says some of its products could contain H5N1 (bird flu). The FDA and New York Department of Health share key information.",
+      "url": "https://www.foxnews.com/health/cat-owners-beware-pet-food-bird-flu-risk-recalled",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/05/boy-carrying-cat.jpg",
+      "publishedAt": "2025-03-16 16:37:05",
+      "content": "Cat owners have been alerted to a potential health threat. Savage Pet of El Cajon, California, is recalling 66 large chicken boxes (84 oz.) and 74 small chicken boxes (21 oz.) with the lot code/\"bes\u2026 [+4584 chars]",
+      "retrievedAt": "2025-03-17 19:05:55.008662",
+      "internal_id": "6e8a4ec313bcecc65a72c24ef4a64ce9db196b9edfb3661d2014aabb43702320",
+      "publishedAtLabel": "Mar 16"
+    },
+    {
+      "id": 19349,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Forbes.com.mx",
+      "author": "Forbes Staff",
+      "title": "Microbiota de los ping\u00fcinos, esperanza inmunol\u00f3gica contra la malaria o la leishmaniosis",
+      "description": "Forbes M\u00e9xico. Microbiota de los ping\u00fcinos, esperanza inmunol\u00f3gica contra la malaria o la leishmaniosis La inmunizaci\u00f3n de los ping\u00fcinos contra esta grave enfermedad f\u00fangica se hizo a trav\u00e9s del fortalecimiento de sus bacterias del intestino introduciendo u\u2026",
+      "url": "https://forbes.com.mx/microbiota-de-los-pinguinos-esperanza-inmunologica-contra-la-malaria-o-la-leishmaniosis/",
+      "urlToImage": "https://cdn.forbes.com.mx/2019/04/s3.reutersmedia.jpg",
+      "publishedAt": "2025-03-16 14:28:00",
+      "content": "Un equipo de cient\u00edficos encontr\u00f3 en Francia una posible pista para combatir la malaria o la leishmaniosis en seres humanos gracias al estudio de la microbiota de los ping\u00fcinos, conocida en detalle t\u2026 [+3096 chars]",
+      "retrievedAt": "2025-03-17 19:05:55.917162",
+      "internal_id": "ee952ae6e7b7573190fddc61f2dcf197c9756c5a8ae80cd4adc5daed76093007",
+      "publishedAtLabel": "Mar 16"
+    },
+    {
+      "id": 19419,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WDIV ClickOnDetroit",
+      "author": "Samantha Sayles",
+      "title": "What to know about measles as first case of 2025 confirmed in Oakland County",
+      "description": "Michigan\u2019s first case of measles this year has been confirmed in an adult who lives in Oakland County, health officials announced.",
+      "url": "https://www.clickondetroit.com/news/local/2025/03/16/what-to-know-about-measles-as-first-case-of-2025-confirmed-in-oakland-county/",
+      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/C6GUZ5DYYVBTHC3KFQCFAGQR4I.jpg?_a=DATAdtfiZAA0",
+      "publishedAt": "2025-03-16 12:47:06",
+      "content": "OAKLAND COUNTY, Mich. Michigans first case of measles this year has been confirmed in an adult who lives in Oakland County, health officials announced. The countys health officer, Kate Guzman, RN, s\u2026 [+3011 chars]",
+      "retrievedAt": "2025-03-19 07:07:04.351140",
+      "internal_id": "749ec33a8f4194f7e35c2490731f7eed883b799dfffca15023e62de595c88c41",
+      "publishedAtLabel": "Mar 16"
+    },
+    {
+      "id": 19347,
+      "query": [
+        "hpai",
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Gizmodo.com",
+      "author": "Thomas Handley",
+      "title": "Alarma en la Ant\u00e1rtida: Confirman un brote masivo de gripe aviar en varias especies",
+      "description": "Una expedici\u00f3n cient\u00edfica espa\u00f1ola ha confirmado la presencia del virus de la gripe aviar altamente patog\u00e9nica (HPAI H5N1) en la Ant\u00e1rtida. El brote ha sido detectado en 13 especies diferentes y en 24 puntos de la regi\u00f3n, lo que marca un precedente alarmante \u2026",
+      "url": "https://es.gizmodo.com/alarma-en-la-antartida-confirman-un-brote-masivo-de-gripe-aviar-en-varias-especies-2000154626",
+      "urlToImage": "https://es.gizmodo.com/app/uploads/2025/03/gripe-aviar.jpg",
+      "publishedAt": "2025-03-16 11:29:44",
+      "content": "La expedici\u00f3n CSIC-Unespa llev\u00f3 a cabo un estudio entre enero y febrero, generando el informe m\u00e1s completo hasta la fecha sobre la gripe aviar en la Ant\u00e1rtida. Los investigadores identificaron 188 ca\u2026 [+2815 chars]",
+      "retrievedAt": "2025-03-17 19:05:54.523755",
+      "internal_id": "52a74a44fa3e844abf031688bd77dafc1a464949c89910eaef0d51915256aced",
+      "publishedAtLabel": "Mar 16"
+    },
+    {
+      "id": 19353,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Richmond.com",
+      "author": "",
+      "title": "Recap: What made news last week across Virginia",
+      "description": "IN THE NEWS",
+      "url": "https://richmond.com/news/state-regional/article_e3ba212e-ff71-11ef-afa0-071d975426c2.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/e/3b/e3ba212e-ff71-11ef-afa0-071d975426c2/67d33683df5c8.preview.jpg?crop=1758%2C923%2C0%2C127&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2025-03-16 11:00:00",
+      "content": "Possible measles exposure at Dulles Airport A person with a case of measles arrived at Washington Dulles International Airport in Northern Virginia last week, potentially exposing others, the state\u2026 [+11070 chars]",
+      "retrievedAt": "2025-03-18 07:07:09.586966",
+      "internal_id": "db05da6a81fe2de27aeb3360837d8725628dcbccb9bb8523aea66ac9d3449a88",
+      "publishedAtLabel": "Mar 16"
+    },
+    {
+      "id": 19350,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "N-tv.de",
+      "author": "n-tv NACHRICHTEN",
+      "title": "Lost Places mitten im Meer: Verlassene Inseln mit Grusel-Faktor",
+      "description": "Sie sind verlassen und oftmals mit einem gewissen Grusel verbunden: Geisterinseln. Einige von ihnen dienten als Gef\u00e4ngnis, andere zur Isolation von Pestkranken. Und eine von ihnen war einmal der dichtbesiedeltste Flecken der Erde. ntv.de stellt zehn Lost Plac\u2026",
+      "url": "https://www.n-tv.de/mediathek/bilderserien/panorama/Verlassene-Inseln-mit-Grusel-Faktor-article25571806.html",
+      "urlToImage": "https://www.n-tv.de/img/incoming/crop25570971/1181322630-cImg_16_9-w1200/imago598760374.jpg",
+      "publishedAt": "2025-03-16 09:45:30",
+      "content": "W\u00e4hrend sich die W\u00e4rter auf Tennispl\u00e4tzen und in Pools vergn\u00fcgen konnten, litten die Gefangenen unter Mangelern\u00e4hrung, Malaria, Ruhr und Cholera. Zudem wurden medizinische Experimente an ihnen durchg\u2026 [+6 chars]",
+      "retrievedAt": "2025-03-17 19:05:55.945568",
+      "internal_id": "4838ae9f3bbca6cc47ead8f946735f85c011b599be8cf5eab2c063ee6c57cb5a",
       "publishedAtLabel": "Mar 16"
     }
   ]

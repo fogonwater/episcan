@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 16
-- **Last harvest:** 2025-04-27 19:06
-- **Most recent article:** 2025-04-26 18:00:00
+- **New articles in last harvest:** 11
+- **Last harvest:** 2025-04-28 07:21
+- **Most recent article:** 2025-04-27 05:00:58
 
 ---
 
@@ -10,27 +10,33 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 25-12 | 25-13 | 25-14 | 25-15 | 25-16 | 25-17 | Total |
-|--|-|-|-|-|-|-|-|
-| measles | 104 | 101 | 77 | 145 | 82 | 92 | 601 |
-| h5n1 | 55 | 47 | 46 | 66 | 9 | 15 | 238 |
-| chikungunya | 17 | 10 | 17 | 15 | 39 | 46 | 144 |
-| dengue | 18 | 20 | 14 | 24 | 30 | 14 | 120 |
-| malaria | 16 | 30 | 13 | 10 | 14 | 33 | 116 |
-| mpox | 8 | 12 | 17 | 18 | 10 | 2 | 67 |
-| meningitis | 7 | 10 | 6 | 10 | 9 | 10 | 52 |
-| rabies | 2 | 19 | 7 | 7 | 0 | 3 | 38 |
-| hpai | 11 | 2 | 4 | 3 | 5 | 1 | 26 |
-| zika | 2 | 3 | 4 | 7 | 7 | 2 | 25 |
-| pertussis | 1 | 0 | 7 | 2 | 5 | 3 | 18 |
-| typhoid | 0 | 1 | 2 | 2 | 3 | 3 | 11 |
-| yersinia | 2 | 3 | 0 | 0 | 0 | 0 | 5 |
-| leptospirosis | 1 | 0 | 0 | 0 | 1 | 0 | 2 |
+| Disease | 25-12 | 25-13 | 25-14 | 25-15 | 25-16 | 25-17 | 25-18 | Total |
+|--|-|-|-|-|-|-|-|-|
+| measles | 106 | 101 | 77 | 145 | 82 | 96 | 0 | 607 |
+| h5n1 | 57 | 47 | 46 | 66 | 9 | 15 | 0 | 240 |
+| chikungunya | 17 | 10 | 17 | 15 | 39 | 46 | 0 | 144 |
+| malaria | 18 | 30 | 13 | 10 | 14 | 34 | 2 | 121 |
+| dengue | 18 | 20 | 14 | 24 | 30 | 15 | 0 | 121 |
+| mpox | 8 | 12 | 17 | 18 | 10 | 5 | 0 | 70 |
+| meningitis | 7 | 10 | 6 | 10 | 9 | 10 | 0 | 52 |
+| rabies | 2 | 19 | 7 | 7 | 0 | 3 | 0 | 38 |
+| hpai | 12 | 2 | 4 | 3 | 5 | 1 | 0 | 27 |
+| zika | 2 | 3 | 4 | 7 | 7 | 2 | 0 | 25 |
+| pertussis | 1 | 0 | 7 | 2 | 5 | 3 | 0 | 18 |
+| typhoid | 0 | 1 | 2 | 2 | 3 | 3 | 0 | 11 |
+| yersinia | 2 | 3 | 0 | 0 | 0 | 0 | 0 | 5 |
+| leptospirosis | 1 | 0 | 0 | 0 | 1 | 0 | 0 | 2 |
 
 
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 25-18 (malaria)
+
+- [FG free malaria treatment for pregnant women suffers setback](https://punchng.com/fg-free-malaria-treatment-for-pregnant-women-suffers-setback/) (The Punch)
+
+- [Zero malaria deaths in Nagaland in past 6 years](https://thehillstimes.in/northeast/zero-malaria-deaths-in-nagaland-in-past-6-years) (Thehillstimes.in)
 
 ## 25-17 (zika)
 
@@ -64,6 +70,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-17 (mpox)
 
+- [Cantor de forró morre após complicações por monkeypox no Pará](https://gente.ig.com.br/celebridades/2025-04-26/cantor-de-forro-gutto-xibatada-morre-de-complicacoes-por-monkeypox-no-para.html) (Ig.com.br)
+
+- [Sierra Leone Confirms 85 New Mpox Cases and 6 Deaths](https://sierraloaded.sl/health/mpox-cases-and-6-deaths-confirmed/) (Sierraloaded.sl)
+
+- [Gutto Xibatada: cantor morre aos 39 anos após diagnóstico de Monkeypox](https://www.terra.com.br/diversao/musica/gutto-xibatada-cantor-morre-aos-39-anos-apos-diagnostico-de-monkeypox,373a1b23e6a212b52ee6ea510b03ffe7is54lmsa.html) (Terra.com.br)
+
 - [Cantor morre aos 39 anos após complicações da monkeypox](https://www.terra.com.br/diversao/gente/cantor-morre-aos-39-anos-apos-complicacoes-da-monkeypox,27b96fa360e3aeb7b75bb4d8dcf5206a8oo6l6of.html) (Terra.com.br)
 
 - [Mpox Found in North Carolina Sewage: What to Know](https://www.newsweek.com/mpox-cases-north-carolina-sewage-2063459) (Newsweek)
@@ -91,6 +103,14 @@ Source: [News API](https://newsapi.org/)
 - [Cegah Meningitis, 500 Petugas Haji Jalani Vaksinasi Gratis](https://www.liputan6.com/health/read/5999635/cegah-meningitis-500-petugas-haji-jalani-vaksinasi-gratis) (Liputan6.com)
 
 ## 25-17 (measles)
+
+- [RFK Jr.’s Wish Is Coming True: Everybody’s Getting Measles](https://www.thedailybeast.com/rfk-jrs-wish-is-coming-true-everybodys-getting-measles/) (Daily Beast)
+
+- [New measles case confirmed in B.C.'s Lower Mainland](https://www.cbc.ca/news/canada/british-columbia/measles-lower-mainland-1.7519707) (CBC News)
+
+- [The Trump Admin Rolled Back Plan To Reduce Salmonella Illness](https://crooksandliars.com/2025/04/trump-admin-rolled-back-plan-reduce) (Crooksandliars.com)
+
+- [884 Measles Cases Confirmed in Most States](https://www.upi.com/Health_News/2025/04/26/meales-outbreaks/7581745702876/) (UPI.com)
 
 - [Measles Cases In U.S. Hit Nearly 900, With More Than 600 Cases In Texas](https://www.huffpost.com/entry/measles-cases-us-texas-900_n_680d0467e4b04560cabe9300) (HuffPost)
 
@@ -278,6 +298,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 25-17 (malaria)
 
+- [Malaria disrupts economic ecosystem, raises healthcare costs – Health Minister](https://www.premiumtimesng.com/news/top-news/790736-malaria-disrupts-economic-ecosystem-raises-healthcare-costs-health-minister.html) (Premium Times)
+
 - [Chinese experts promote malaria prevention awareness in Sao Tome and Principe](https://www.thestar.com.my/news/world/2025/04/27/chinese-experts-promote-malaria-prevention-awareness-in-sao-tome-and-principe) (The Star Online)
 
 - [ಆಹಾರ ಪ್ರಿಯರ ನೆಚ್ಚಿನ ಮೇಯನೇಸ್ ಈಗ ತಮಿಳುನಾಡಲ್ಲೂ ನಿಷೇಧ - Why Tamil Nadu Banned Egg Mayonnaise: Health Risks and Safety](https://kannada.asianetnews.com/health-life/why-tamil-nadu-banned-egg-mayonnaise-health-risks-and-safety-measures-svbkhu) (Asianetnews.com)
@@ -381,6 +403,8 @@ Source: [News API](https://newsapi.org/)
 - [TWiV 1211: Moo flu and dengue two](https://www.microbe.tv/twiv/twiv-1211/) (Microbe.tv)
 
 ## 25-17 (dengue)
+
+- [Jan-March dengue cases down to 23 from 2024’s 76](https://timesofindia.indiatimes.com/city/goa/jan-march-dengue-cases-down-to-23-from-2024s-76/articleshow/120652846.cms) (The Times of India)
 
 - [Porto Alegre é pioneira no uso de hemoglobinômetro no combate à dengue](https://www.terra.com.br/noticias/porto-alegre-e-pioneira-no-uso-de-hemoglobinometro-no-combate-a-dengue,32652d632540c78d31ded7ad8e57860braww5vtc.html) (Terra.com.br)
 
@@ -2856,6 +2880,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Texas measles outbreak: Three Houston cases confirmed](https://www.fox26houston.com/news/houston-measlies-case-infant-2025) (fox26houston.com)
 
+- [What to know about measles as first case of 2025 confirmed in Oakland County](https://www.clickondetroit.com/news/local/2025/03/16/what-to-know-about-measles-as-first-case-of-2025-confirmed-in-oakland-county/) (WDIV ClickOnDetroit)
+
+- [Recap: What made news last week across Virginia](https://richmond.com/news/state-regional/article_e3ba212e-ff71-11ef-afa0-071d975426c2.html) (Richmond.com)
+
 ## 25-12 (malaria)
 
 - [Gene drive modified mosquitoes offer new tool for malaria elimination efforts](https://www.imperial.ac.uk/news/261995/gene-drive-modified-mosquitoes-offer-tool/) (Imperial College London)
@@ -2890,6 +2918,10 @@ Source: [News API](https://newsapi.org/)
 
 - [HIV, TB, Malaria services in Cameroon remain free of charge, Public Health Minister reaffirms](https://cameroonnewsagency.com/hiv-tb-malaria-services-in-cameroon-remain-free-of-charge-public-health-minister-reaffirms/) (Cameroonnewsagency.com)
 
+- [Microbiota de los pingüinos, esperanza inmunológica contra la malaria o la leishmaniosis](https://forbes.com.mx/microbiota-de-los-pinguinos-esperanza-inmunologica-contra-la-malaria-o-la-leishmaniosis/) (Forbes.com.mx)
+
+- [Lost Places mitten im Meer: Verlassene Inseln mit Grusel-Faktor](https://www.n-tv.de/mediathek/bilderserien/panorama/Verlassene-Inseln-mit-Grusel-Faktor-article25571806.html) (N-tv.de)
+
 ## 25-12 (leptospirosis)
 
 - [Prevalence of leptospirosis among soldiers: A systematic review](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012927) (Plos.org)
@@ -2917,6 +2949,8 @@ Source: [News API](https://newsapi.org/)
 - [ΗΠΑ: Καταγράφηκε η πρώτη, από το 2017, έξαρση της φονικής γρίπης των πτηνών Η7Ν9](https://www.naftemporiki.gr/kosmos/1933992/ipa-katagrafike-i-proti-apo-to-2017-exarsi-tis-fonikis-gripis-ton-ptinon-i7n9/) (Naftemporiki.gr)
 
 - [Bird flu detected in Philadelphia live poultry market: USDA](https://www.fox29.com/news/bird-flu-detected-philadelphia-live-poultry-market-usda) (FOX 29 News Philadelphia)
+
+- [Alarma en la Antártida: Confirman un brote masivo de gripe aviar en varias especies](https://es.gizmodo.com/alarma-en-la-antartida-confirman-un-brote-masivo-de-gripe-aviar-en-varias-especies-2000154626) (Gizmodo.com)
 
 ## 25-12 (h5n1)
 
@@ -3029,6 +3063,10 @@ Source: [News API](https://newsapi.org/)
 - [Covid Redux: The Bird Flu Scare](https://www.americanthinker.com/articles/2025/03/covid_redux_the_bird_flu_scare.html) (Americanthinker.com)
 
 - [Savage Pet recalls cat food amid suspected bird flu illnesses in cats](https://www.foodsafetynews.com/2025/03/savage-pet-recalls-cat-food-amid-suspected-bird-flu-illnesses-in-cats/) (Food Safety News)
+
+- [Cat owners beware as pet food with bird flu risk is recalled](https://www.foxnews.com/health/cat-owners-beware-pet-food-bird-flu-risk-recalled) (Fox News)
+
+- [Alarma en la Antártida: Confirman un brote masivo de gripe aviar en varias especies](https://es.gizmodo.com/alarma-en-la-antartida-confirman-un-brote-masivo-de-gripe-aviar-en-varias-especies-2000154626) (Gizmodo.com)
 
 ## 25-12 (dengue)
 
